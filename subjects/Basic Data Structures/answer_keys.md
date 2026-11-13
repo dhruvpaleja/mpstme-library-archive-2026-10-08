@@ -2435,6 +2435,7 @@ return 0;
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/Integrated_Computer_7032/Basic Data Structures/ANS_Basic Data Structures(701CO0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (29 pages), mean OCR confidence 54.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3481,6 +3482,7 @@ FAR ICR QA HH
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/Integrated_DS_7038/Basic Data Structures/ANS_Basic Data Structures(701CO0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (29 pages), mean OCR confidence 54.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4668,6 +4670,7 @@ systems, avoids null terminations.
 - Source: `02_Question_Papers/2024/Sem_05/Final-Exam/Integrated_Computer_7032/Basic Data Structures/ANS_Basic Data Structures(701CO0C013)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 33.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

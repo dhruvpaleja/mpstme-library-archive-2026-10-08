@@ -1,6 +1,6 @@
 # Operations Management: question papers in full
 
-55 unique papers · 2007-08 to 2025-26 · Common (all branches), Information Technology, Chemical, Manufacturing, Computer Engineering, Artificial Intelligence, Data Science, Electronics and Telecommunication, Computer Applications (MCA)
+54 unique papers · 2007-08 to 2025-26 · Common (all branches), Information Technology, Chemical, Manufacturing, Computer Engineering, Artificial Intelligence, Data Science, Electronics and Telecommunication, Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1731,6 +1731,136 @@ What is Job Sequencing? What are the objectives of Job Sequencing? Explain with 
 14
 ````
 
+## 2018-19 · Re-Exam · paper aa56ae25480d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operation Management Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 26 November 2018
+- Text: ocr (2 pages), mean OCR confidence 94.3
+
+````text
+)
+
+C
+
+SVKM’s NMIMS SEMEN,
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+“
+ProgrammeMBA Tech ( All Streams) Year: IV ~ Semester: VII ~
+
+Academic Year: 2018-2019
+
+Subject: Operations Management <«
+
+Marks: 60 ~
+
+Date: 26 November 2018: Time: 2.00 pm - 4.00 pm ~
+Durations: 2 Hrs _
+No. of Pages : 2
+
+Re-Examination (2017-18) _~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. .
+
+Q-1(a): Explain three basic costs associated with inventory. (6 marks)
+Q-1(b): Explain, in detail with example, continuous inventory system and periodic inventory system. (6 marks)
+
+Q-2: A toy manufacturer uses 48,000 rubber wheels per year for its popular dump truck series. The firm makes its
+own wheels, which it can produce at a rate of 800 per day. The toy trucks are assembled uniformly over the entire
+year. Carrying cost is $1 per wheel a year. Setup cost for a production run of wheels is $45. The firm operates 240
+days per year. Determine the following
+
+a. Optimal run size.
+
+b. Minimum total annual cost for carrying and setup.
+
+c. Cycle time for the optimal run size.
+
+d. Run time.
+
+(12 marks)
+
+Q-3: A firm that produces wood shutters and bookcases has received two orders for shutters: one for 100 shutters and
+one for 150 shutters. The 100-unit order is due for delivery at the start of week 4 of the current schedule, and the 150-
+unit order is due for delivery at the start of week 8. Each shutter consists of two frames and four slatted wood sections.
+The wood sections are made by the firm, and fabrication takes one week. The frames are ordered, and lead time is two
+weeks. Assembly of the shutters requires one week. There is a scheduled receipt of 70 wood sections in (i.e., at the
+beginning of) week 1. Determine the size and timing of planned-order releases necessary to meet delivery
+requirements under each of these conditions:
+1. Lot-for-lot ordering (i.e., planned-order release equal to net requirements).
+2. Lot-size ordering with a lot size of 320 units for frames and 70 units for wood sections.
+
+(12 marks)
+--- page 2 ---
+Q-4(a): Briefly explain Lean Production Systems. . (6 marks)
+
+Q-4(b): For restaurant outlet location decision, four factors were identified as Factor-A, B, C and D. Respective weights
+for these factors are: 0.25, 0.20, 0.35, 0.30. The corresponding scores for different options are...
+
+Site-A Scores for these factors on 1-10 Scale: 7, 6, 4, 2
+
+Site-B Scores for these factors on 1-10 Scale: 5, 6, 2, 2
+
+Site-C Scores for these factors on 1-10 Scale: 5, 5, 5,3
+Based on the above data suggest suitable site for the restaurant outlet. (6 marks)
+
+Q-5(a): A package delivery service wants to build a new distribution center in Boise, Idaho. The location of the center
+needs to be in the vicinity of Interstate-84, Highway-55 and the Boise Airport. The following table provides the
+coordinates of these three sites and the number of weekly packages.
+
+‘ Interstate-84 | Highway-55 | Boise Airport
+
+x=20 x=26 x = 36
+y =35 y=13 y= 19
+W = 16,000 W = 11,000 W = 8,000
+Find out the coordinates for the new warehouse. (6 marks)
+
+Q-5(b): Osborne Industries is compiling the monthly productivity report for its Board of Directors. From the following
+data, calculate (a) labor productivity, (b) machine productivity, and (c) the multifactor productivity of dollars spent on
+labor, machine, materials, and energy. The average labor rate is $15 an hour, and the average machine usage rate is $10
+an hour.
+
+Units produced 100,000
+
+Labor hours 10,000°
+
+Machine hours 5,000
+
+Cost of materials $35,000
+
+Cost of energy $15,000
+
+(6 marks)
+
+Q-6(a): Discuss product and process layouts with suitable examples. How does a cellular layout combine a product and
+process layout?. ; (6 marks)
+Q-6(b): Write a short note on Lean manufacturing systems. (6 marks)
+
+Q-7(a): Briefly Describe seven wastes in operation as considered in lean production and what are the basic elements
+of lean production. (6 marks)
+
+Q-7(b): Describe Product-Process Matrix with suitable examples. Include all four types of production process in your
+answers with examples. (6 marks)
+
+(--X-+)
+````
+
 ## 2018-19 · Re-Exam · paper 6f97eb5709af
 
 - Departments: Common (all branches)
@@ -2108,134 +2238,114 @@ basic elements of lean production.
 ~~I~~
 ````
 
-## 2017-18 · Re-Exam · paper aa56ae25480d
+## 2017-18 · Re-Exam · paper d823536e5283
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operation Management Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 26 November 2018
-- Text: ocr (2 pages), mean OCR confidence 94.3
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations management 2016-17 Re-exam_d823536e52.pdf`
+- Printed on paper: max marks: 60; exam date: 05 December 2017
+- Text: text (3 pages)
 
 ````text
-)
-
-C
-
-SVKM’s NMIMS SEMEN,
+-
+SVKM's NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-“
-ProgrammeMBA Tech ( All Streams) Year: IV ~ Semester: VII ~
-
-Academic Year: 2018-2019
-
-Subject: Operations Management <«
-
-Marks: 60 ~
-
-Date: 26 November 2018: Time: 2.00 pm - 4.00 pm ~
-Durations: 2 Hrs _
-No. of Pages : 2
-
-Re-Examination (2017-18) _~
-
+Programme: MBA Tech (All Streams)   Year: IV   Semester: VII
+/
+Batch: 2016-17
+"
+Academic Year: 2017-2018
+Subject: Operations Management
+Marks: 60
+Date: 05 December 2017   Time: 2.00 p,
+Durations:   "1I.r'~~'\
+No. of Pages..:'~~<=---_
+Re-Examination
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
+1) Question No. ONE is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+4tAIl questions carry equal marks.
 5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary. .
-
-Q-1(a): Explain three basic costs associated with inventory. (6 marks)
-Q-1(b): Explain, in detail with example, continuous inventory system and periodic inventory system. (6 marks)
-
-Q-2: A toy manufacturer uses 48,000 rubber wheels per year for its popular dump truck series. The firm makes its
-own wheels, which it can produce at a rate of 800 per day. The toy trucks are assembled uniformly over the entire
-year. Carrying cost is $1 per wheel a year. Setup cost for a production run of wheels is $45. The firm operates 240
-days per year. Determine the following
-
-a. Optimal run size.
-
-b. Minimum total annual cost for carrying and setup.
-
-c. Cycle time for the optimal run size.
-
-d. Run time.
-
-(12 marks)
-
-Q-3: A firm that produces wood shutters and bookcases has received two orders for shutters: one for 100 shutters and
-one for 150 shutters. The 100-unit order is due for delivery at the start of week 4 of the current schedule, and the 150-
-unit order is due for delivery at the start of week 8. Each shutter consists of two frames and four slatted wood sections.
-The wood sections are made by the firm, and fabrication takes one week. The frames are ordered, and lead time is two
-weeks. Assembly of the shutters requires one week. There is a scheduled receipt of 70 wood sections in (i.e., at the
-beginning of) week 1. Determine the size and timing of planned-order releases necessary to meet delivery
-requirements under each of these conditions:
-1. Lot-for-lot ordering (i.e., planned-order release equal to net requirements).
-2. Lot-size ordering with a lot size of 320 units for frames and 70 units for wood sections.
-
+6) Figures in brackets on the right hand side indicate full marks ..
+7) Assume suitable data if necessary.
+1. Final Project of a team was divided in six parts (PI to P6). Six members have to work on these parts but
+"with the condition that each member will work on only one part and each part has to be assigned to only one
+member.
+Following table gives time required in mins for each combinations. Suggest suitable allocation plan and work
+out total efforts (sum of all six assignment time) required to finish this proj ect.
+"
+Cost   PI   P2   P3   P4   PS   P6
+A   80   80   100   70   150   80
+B   110 140 110   90   120 110
+C   140   50   80   100 150 130
+D   80   60   90   70   70   70
+--
+E   80   80   120   50   150   70
+F   100   60   70   80   50   50
 (12 marks)
 --- page 2 ---
-Q-4(a): Briefly explain Lean Production Systems. . (6 marks)
-
-Q-4(b): For restaurant outlet location decision, four factors were identified as Factor-A, B, C and D. Respective weights
-for these factors are: 0.25, 0.20, 0.35, 0.30. The corresponding scores for different options are...
-
-Site-A Scores for these factors on 1-10 Scale: 7, 6, 4, 2
-
-Site-B Scores for these factors on 1-10 Scale: 5, 6, 2, 2
-
-Site-C Scores for these factors on 1-10 Scale: 5, 5, 5,3
-Based on the above data suggest suitable site for the restaurant outlet. (6 marks)
-
-Q-5(a): A package delivery service wants to build a new distribution center in Boise, Idaho. The location of the center
-needs to be in the vicinity of Interstate-84, Highway-55 and the Boise Airport. The following table provides the
-coordinates of these three sites and the number of weekly packages.
-
-‘ Interstate-84 | Highway-55 | Boise Airport
-
-x=20 x=26 x = 36
-y =35 y=13 y= 19
-W = 16,000 W = 11,000 W = 8,000
-Find out the coordinates for the new warehouse. (6 marks)
-
-Q-5(b): Osborne Industries is compiling the monthly productivity report for its Board of Directors. From the following
-data, calculate (a) labor productivity, (b) machine productivity, and (c) the multifactor productivity of dollars spent on
-labor, machine, materials, and energy. The average labor rate is $15 an hour, and the average machine usage rate is $10
-an hour.
-
-Units produced 100,000
-
-Labor hours 10,000°
-
-Machine hours 5,000
-
-Cost of materials $35,000
-
-Cost of energy $15,000
-
+2. Cost of the product for the store is Rs 38 per piece. The cost of placing order for this product is
+the annual carrying cost is 25% of the cost of a product. The manager estimates that 1700 produ,
+sold during the year. The vendor has offered the manager the following volume discount schedule:)
+Order Size   Discount
+1-299   0%
+300-499   2%   ..;.
+<
+500-799   4%   ~.
+2: 800   5%
+What is the manager's .   optimal order quantity, given this quantity discount information?
+.
+Plot the ordering cost, carrying cost and total cost by taking around four points. SO, EOQ and your suggested
+optimal quantity.
+(12 marks)
+3. Briefly describe seven wastes in operation as considered in lean production and what are the basic
+elements of lean production.
+(12 marks)
+-l.Answer following.
+a. Write a short note on Center of gravity method for facility locating decisions.
 (6 marks)
-
-Q-6(a): Discuss product and process layouts with suitable examples. How does a cellular layout combine a product and
-process layout?. ; (6 marks)
-Q-6(b): Write a short note on Lean manufacturing systems. (6 marks)
-
-Q-7(a): Briefly Describe seven wastes in operation as considered in lean production and what are the basic elements
-of lean production. (6 marks)
-
-Q-7(b): Describe Product-Process Matrix with suitable examples. Include all four types of production process in your
-answers with examples. (6 marks)
-
-(--X-+)
+b. What is productivity and what is its importance for an organization? Mention any 4 ways of how an
+organization can increase its productivity for land, material etc.
+(6 marks)
+5. Answer following questions
+a. Given below is a list of the factors which affect facility location along with the weights. The scores for
+two different sites are given in the next two columns. Which location should be chosen? Solve using
+location factor rating method.
+Location Factors   Weight   Site 1   Site 2
+Score   Score
+Labor and Climate   6   8   6
+Proximity to Suppliers   4   10   9
+Wage Rates   3   6   9
+Community Environment   3   . 7   8
+Proximity to Customers   2   6   9
+Shipping Modes   1   8   9
+Air Service   1   5   6
+(6 marks)
+--- page 3 ---
+ote on positioning the film highlighting the various parameters on which the firm can position
+IV is it related to core competencies?
+(6 marks)
+ere are 8 jobs which go through two machines A and B in the order A-B. Processing time (in hours) is
+en here. Determine the optimal sequence of processing the jobs and total minimum elapsed time. Find
+e total time required in case of as given sequence, total time as per your suggested sequence and idle time
+on Machine B as per your suggested sequence.
+Job   Machine A   Machine B
+1   8   7
+2   10   15
+.J ')   11   10
+:
+4   12   14
+5   16   13
+6   20   9
+7   16   8
+8   8   12
+(12 marks)
+7. What are the characteristics of job shop process and assembly line process? Give examples of two industries each
+for these two process.
+(12 marks)
+./
 ````
 
 ## 2016-17 · Final-Exam · paper 1164a006fa45
@@ -2388,502 +2498,7 @@ manufacturing and services business.
 (6 marks)
 ````
 
-## 2016-17 · Re-Exam · paper a103aba59bd6
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations management 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; exam date: 03 June 2017
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech (All Streams) Year: IV Semester: VII
-
-Batch: 2016-2017
-Academic Year: 2016-2017
-
-Subject: Operations Management Logger ot aay)
-Marks60 5
-Time:(10.00 am to 12,60 ‘noon
-
-Date: 03 June 2017 DwrBtions: 2 (hrs) = }
-
-No\ohbages_2- __s
-Ya yj m1 .F /,
-eid UuNEEON
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1. Answer the following:
-
-a) Tradewinds Imports is an importer of ceramics from overseas. It has arranged to purchase a particular
-type of ceramic pottery from a Korean artisan. The artisan makes the pottery in 120 unit batches and will ship
-only that exact amount. The transportation and handling cost of a shipment is $7600 (not including the unit
-cost). The importer estimates its annual demand to be 1400 units. What storage and handling cost per unit
-
-does it need to achieve inorder to minimize its inventory cost?
-(6 marks)
-
-b) Discuss inventory control systems and their applications. Also explain the advantages and disadvantages
-of the ABC classification system.
-
-(6 marks)
-
-2. Describe the Theory of Constraints with suitable examples from the manufacturing industry. Also explain
-the “Drum- Buffer - Rope Manufacturing” concept.
-
-(12 marks)
-
-i,
---- page 2 ---
-3. How can Break-even analysis be useful in facility location planning? How can you decide upon the number
-of plants required and expansion of plants using break even?
-(12 marks)
-
-4. Ten assignments needs to be checked by two faculty. Processing time of each faculty is given below in
-mins.
-
-Job AIB|C/|D{E |F |G|H|{I [J
-Faculty-1 | 8 |15|6 |5 |17/}9 |5 |4 | 12] 20
-Faculty-2 |6 |9 | 5 | 10] 15] 10/3 | 15} 10|4
-
-Find out total checking time for the given sequence (as in above table) and suggest suitable sequence such
-that total checking time is reduced to minimum possible. What will be the new checking time based on your
-suggestion? ;
-
-(12 marks)
-
-5. Describe Product-Process Matrix with suitable examples. Include all four types of production process in
-your answers with examples.
-
-(12 marks)
-
-6. What is Operations strategy? Briefly explain the strategy formulation steps with suitable examples.
-(12 marks)
-
-7. The ABC Company has been using MRP for a number of years. Recently, Dinesh, the operations manager,
-decided to investigate the use of lot sizing for MRP-generated orders. As a test case, Dinesh selected a
-Product-A and gathered weekly data over a month’s time. Ordering costs are Rs 90 per order, and carrying
-costs are Rs 1.5 per unit per week. The beginning inventory is 50 units, and lead time is one week. Help
-Dinesh determine whether the L4L, EOQ or Multiple of 40 lot sizing technique is more appropriate.
-
-Determine this on the basis of Total Cost: number of orders x ordering cost + total projected on hand x carrying
-cost.
-
-Gross Requirement for Product-A:
-1 2 3 4 5
-30 {50 |20 |10 | 40
-
-(12 marks)
-````
-
-## 2016-17 · Re-Exam · paper d823536e5283
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations management 2016-17 Re-exam_d823536e52.pdf`
-- Printed on paper: max marks: 60; exam date: 05 December 2017
-- Text: text (3 pages)
-
-````text
--
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA Tech (All Streams)   Year: IV   Semester: VII
-/
-Batch: 2016-17
-"
-Academic Year: 2017-2018
-Subject: Operations Management
-Marks: 60
-Date: 05 December 2017   Time: 2.00 p,
-Durations:   "1I.r'~~'\
-No. of Pages..:'~~<=---_
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. ONE is compulsory.
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-4tAIl questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks ..
-7) Assume suitable data if necessary.
-1. Final Project of a team was divided in six parts (PI to P6). Six members have to work on these parts but
-"with the condition that each member will work on only one part and each part has to be assigned to only one
-member.
-Following table gives time required in mins for each combinations. Suggest suitable allocation plan and work
-out total efforts (sum of all six assignment time) required to finish this proj ect.
-"
-Cost   PI   P2   P3   P4   PS   P6
-A   80   80   100   70   150   80
-B   110 140 110   90   120 110
-C   140   50   80   100 150 130
-D   80   60   90   70   70   70
---
-E   80   80   120   50   150   70
-F   100   60   70   80   50   50
-(12 marks)
---- page 2 ---
-2. Cost of the product for the store is Rs 38 per piece. The cost of placing order for this product is
-the annual carrying cost is 25% of the cost of a product. The manager estimates that 1700 produ,
-sold during the year. The vendor has offered the manager the following volume discount schedule:)
-Order Size   Discount
-1-299   0%
-300-499   2%   ..;.
-<
-500-799   4%   ~.
-2: 800   5%
-What is the manager's .   optimal order quantity, given this quantity discount information?
-.
-Plot the ordering cost, carrying cost and total cost by taking around four points. SO, EOQ and your suggested
-optimal quantity.
-(12 marks)
-3. Briefly describe seven wastes in operation as considered in lean production and what are the basic
-elements of lean production.
-(12 marks)
--l.Answer following.
-a. Write a short note on Center of gravity method for facility locating decisions.
-(6 marks)
-b. What is productivity and what is its importance for an organization? Mention any 4 ways of how an
-organization can increase its productivity for land, material etc.
-(6 marks)
-5. Answer following questions
-a. Given below is a list of the factors which affect facility location along with the weights. The scores for
-two different sites are given in the next two columns. Which location should be chosen? Solve using
-location factor rating method.
-Location Factors   Weight   Site 1   Site 2
-Score   Score
-Labor and Climate   6   8   6
-Proximity to Suppliers   4   10   9
-Wage Rates   3   6   9
-Community Environment   3   . 7   8
-Proximity to Customers   2   6   9
-Shipping Modes   1   8   9
-Air Service   1   5   6
-(6 marks)
---- page 3 ---
-ote on positioning the film highlighting the various parameters on which the firm can position
-IV is it related to core competencies?
-(6 marks)
-ere are 8 jobs which go through two machines A and B in the order A-B. Processing time (in hours) is
-en here. Determine the optimal sequence of processing the jobs and total minimum elapsed time. Find
-e total time required in case of as given sequence, total time as per your suggested sequence and idle time
-on Machine B as per your suggested sequence.
-Job   Machine A   Machine B
-1   8   7
-2   10   15
-.J ')   11   10
-:
-4   12   14
-5   16   13
-6   20   9
-7   16   8
-8   8   12
-(12 marks)
-7. What are the characteristics of job shop process and assembly line process? Give examples of two industries each
-for these two process.
-(12 marks)
-./
-````
-
-## 2015-16 · Final-Exam · paper ab4a57f2cc5c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations Management Batch 2015-16 Final.pdf`
-- Printed on paper: exam date: 04/12/2015
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-™ SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA. Tech (All Streams) Year: IV Semester: VII
-
-Academic Year: 2015-2016
-
-| Z [4
-i Subject: Operations Management A, “ “~.
-, Marks ( #f wpsvun
-Date: 04/12/2015 Time Of Pata wOe Dp
-Durations rs)
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question
-on the cover of the Answer Book, which is provided for their use.
-
-i) Question No. 1 is compuisory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1. Solve the following:
-
-(i). The Goodstone Tire Company produces a brand of tire called the Rainpath. The annual
-demand at its distribution center is 12,400 tires per year. The transport and handling costs
-are $2600 each time a shipment of tires is ordered at the distribution center. The annual
-carrying cost is $3.75 per tire. Determine the optimal order quantity and the minimum total
-annual cost. The company is thinking about relocating its distribution center, which would
-reduce transport and handling costs to $ 1900 per order but increase carrying costs to $4.50
-per tire per year. Should the company relocate based on inventory costs? (6 marks)
-(ii). Discuss briefly the basic EOQ model, stating the assumptions. (6 marks)
-
-Q.2. What is Operations strategy? Explain the relationship between operations strategy and
-business strategies using suitable examples. (12 marks)
-
-Q.3. How do you link process capability and process control procedures with Statistical Process
-Control? Explain the role of p-charts in process control. (12 marks)
-
-Q.4. Describe the various strategies for expanding capacity, mentioning the advantages and
-
-disadvantages in each case with suitable examples. (12 marks)
-ae
-
-Q.5 List five goals of facility layout. Discuss and compare a process and product layout giving
-pe suitable examples. (12 marks)
-
-Q.6. Write short notes on any two: (2 x 6 marks)
---- page 2 ---
-Q.7.
-
-(i) Johnson’s rule in job sequencing
-(ii) Drum -Buffer-Rope manufacturing
-(iii) Factor rating Method for location decisions
-
-Taichii Ohno in Toyota manufacturing company explored 7 Mudas (Wastes) in process.
-List and explain these seven Mudas which need to be eliminated for perfecting a process.
-(12 Marks)
-
-“2 [2
-````
-
-## 2015-16 · Re-Exam · paper c31e261f6320
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations Management Batch 2015-16 Re Exam.pdf`
-- Printed on paper: max marks: 60; exam date: 15 June 2016
-- Text: ocr (2 pages), mean OCR confidence 92.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV vy sos Seag: VII
-Academic Year: 2015-16 / 7 NAS,
-
-Batch: 2015-16 af Mo iB),
-
-Subject: Operations Management 3 Marks: 60° ‘3
-
-Date: 15 June 2016
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted. a
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-1. a) Describe the assumptions of EOQ model. Why do the basic EOQ model variations not
-include the price of an item? (6 marks)
-b) The bookstore at Tech purchases jackets emblazoned with the school name and logo
-from a vendor. The vendor sells the jackets to the store for $38 apiece. The cost to the
-bookstore for placing an order is $120, and the annual carrying cost is 25% of the cost
-of a jacket. The bookstore manager estimates that 1700 jackets will be sold during the
-year. The vendor has offered the bookstore the following volume discount schedule:
-
-(6 marks)
-- Order Size Discount
-1-299 : 0%
-300-499 2%
-500-799 4%
-600+ 5%
-
-2. Write short note on any two (2 x 6 marks)
-a. Factor rating method in facility location decisions
-b. Little’s law & its utility in the process analysis
-a c. Product layout
-3. Describe the Theory of Constraints with suitable examples from the manufacturing
-
-industry. (12 marks)
-ad 4. a. Discuss the advantages and disadvantages of product & process layouts. (6 marks)
-b. How does a cellular layout combine a product and process layout? (6 marks)
-
-Vo
---- page 2 ---
-5. a. Briefly explain Johnson’s rule citing suitable example. (6 marks)
-b. XYZ Computers manufactures computer components such as chips, circuit boards,
-motherboards, keyboards, LCD panels, and the like and sells them around the world.
-It wants to construct a new warehouse/distribution center in Asia to serve emerging
-Asian markets. It has identified sites in Shanghai, Hong Kong, and Singapore and has
-rated the important location factors for each site as follows: (6 marks)
-
-Scores (0 to 100)
-Location Factor Weight Shanghai HongKong Singapore
-Potitical stability 0.25 50 80 90
-Economic growth 0.18 90 80 B
-Port facilities 0.15 60 95 90
-Container support 0.10 50 80 90
-Land and 7 0.08 40 5U 30
-construction cost
-Transportation/ 0.08 50 80 70 .
-distribution
-Duties and traffic 0.07 70 st 90
-Trade regulations 0.05 70 95 95
-Airline service 0.02 60 80 70
-Area roads 0.02 60 70 80
-
-Recommend a site based on these factors and ratings.
-
-6. a, Describe any two basic types of production processes with suitable examples. What are
-the advantages and disadvantages of each? (6 marks)
-
-b. Briefly discuss the requirements from an operations perspective of competing on (a)
-cost, (b) flexibility & (c) speed. Give examples of manufacturing or service firms that
-successfully compete on each of the criteria listed. (6 marks)
-
-7. a. Describe the steps in the Six Sigma breakthrough strategy for quality improvement. (6
-marks)
-
-b. Describe the importance of p charts & np charts in Statistical Process Control (SPC).
-(6 marks)
-````
-
-## 2014-15 · Final-Exam · paper 8bc0f643caa9
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations Management Final Exam 2014-15 Final.pdf`
-- Printed on paper: max marks: 50; exam date: 05/12/2014
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) _ Year: IV . Semester: VI
-Academic Year: 2014-15 |
-I,
-Subject: Operations Management
-Marks: 50
-Date: 05/12/2014 Time: 2.00 p
-
-Durations: 2
-Final - Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. .
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any THREE questions.
-
-3) In all FOUR questions to be attempted.
-
-4) Question no 1 carries 20 marks , all other questions carry 10 marks each.
-5) Answer to each new question to be started on a fresh page.
-
-6) Assume Suitable data if necessary
-
-Q.No:1 Write short notes on any FOUR
-
-1] Noriaki Kano’s model of ‘Quality’
-
-2] ‘Centroid Method’ of facility location
-
-3] Explain the concept of ‘Goods-Service Continuum’
-
-4] Taichi Onho’s Seven Mudas
-
-5] Differentiate between ‘Product Layout’ and ‘Process Layout’
-
-Q. No: 2 Acompany is importing branded smart phone screens to meet its requirement of 500 units
-per month. The total requirement of the screens can be purchased from the lone supplier A having
-the below mentioned price list
-
-Order Quantity-units Unit price -USD
-1-199 14.00
-200-399 13.50
-400 -599 13.00
-600 and above 12.00
-
-Ordering cost for both the suppliers is USD 40 per order and holding cost is 25 % of unit price per unit.
-Which supplier should be used and what order quantity is optimal if intent is to minimize total annual
-
-costs ?
-
-Q.No: 3 Ina factory producing metal sheets, a sample of 5 sheets is taken every hour. The mean
-thickness and the range observed for each sample was noted as given in the following table. Draw
-control charts for X bar [mean] and R [ range] and statistically at 99% confidence level state whether
-the process is under control or not ?
-
-{ Given: for sample size of 5, A2= 0.58, D3 =0, D4=2.115 }
-
-48
---- page 2 ---
-“Sample No: 1 2 3 4 5 6 7 8 9 10
-
-Mean Thickness | 0.25 | 0.22 | 0.60 | 0.22 | 0.20 | 0.10 | 0.16 | 0.48 | 0.10 | 0.37
-
-[cms]
-
-Sample Range 0.10 | 0.08 | 0.52 | 0.12 | 0.14 | 0.10 | 0.06 | 0.50 | 0.10 | 0.48
-
-[cms]
-
-Q. No: 4 Referring to the ‘The Goal’ by Dr. E. Goldratt, explain the various ways of managing a
-bottleneck ina uni-product, multi-stage, sequential manufacturing process .as simulated in the Scout-
-Trek experience narrated in the book.
-
-Q. No: 5 What do you understand by “Operations Strategy”? How is it formulated?
-Explain Quality Based Operations strategies with suitable examples.
-
-Q. No: 6 What do you understand by “ MRP I”, “MRP II” and “ERP” ? State how these concepts are
-evolved ? How an ERP system helps in managing a business endeavor effectively ?
-````
-
-## 2014-15 · Re-Exam · paper fe007d1df4d4
+## 2016-17 · Re-Exam · paper fe007d1df4d4
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -3092,7 +2707,192 @@ e) How to translate your strategy in measurable objectives?
 — uly -
 ````
 
-## 2014-15 · Re-Exam · paper a1fec1aa8604
+## 2016-17 · Re-Exam · paper a103aba59bd6
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations management 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; exam date: 03 June 2017
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) Year: IV Semester: VII
+
+Batch: 2016-2017
+Academic Year: 2016-2017
+
+Subject: Operations Management Logger ot aay)
+Marks60 5
+Time:(10.00 am to 12,60 ‘noon
+
+Date: 03 June 2017 DwrBtions: 2 (hrs) = }
+
+No\ohbages_2- __s
+Ya yj m1 .F /,
+eid UuNEEON
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1. Answer the following:
+
+a) Tradewinds Imports is an importer of ceramics from overseas. It has arranged to purchase a particular
+type of ceramic pottery from a Korean artisan. The artisan makes the pottery in 120 unit batches and will ship
+only that exact amount. The transportation and handling cost of a shipment is $7600 (not including the unit
+cost). The importer estimates its annual demand to be 1400 units. What storage and handling cost per unit
+
+does it need to achieve inorder to minimize its inventory cost?
+(6 marks)
+
+b) Discuss inventory control systems and their applications. Also explain the advantages and disadvantages
+of the ABC classification system.
+
+(6 marks)
+
+2. Describe the Theory of Constraints with suitable examples from the manufacturing industry. Also explain
+the “Drum- Buffer - Rope Manufacturing” concept.
+
+(12 marks)
+
+i,
+--- page 2 ---
+3. How can Break-even analysis be useful in facility location planning? How can you decide upon the number
+of plants required and expansion of plants using break even?
+(12 marks)
+
+4. Ten assignments needs to be checked by two faculty. Processing time of each faculty is given below in
+mins.
+
+Job AIB|C/|D{E |F |G|H|{I [J
+Faculty-1 | 8 |15|6 |5 |17/}9 |5 |4 | 12] 20
+Faculty-2 |6 |9 | 5 | 10] 15] 10/3 | 15} 10|4
+
+Find out total checking time for the given sequence (as in above table) and suggest suitable sequence such
+that total checking time is reduced to minimum possible. What will be the new checking time based on your
+suggestion? ;
+
+(12 marks)
+
+5. Describe Product-Process Matrix with suitable examples. Include all four types of production process in
+your answers with examples.
+
+(12 marks)
+
+6. What is Operations strategy? Briefly explain the strategy formulation steps with suitable examples.
+(12 marks)
+
+7. The ABC Company has been using MRP for a number of years. Recently, Dinesh, the operations manager,
+decided to investigate the use of lot sizing for MRP-generated orders. As a test case, Dinesh selected a
+Product-A and gathered weekly data over a month’s time. Ordering costs are Rs 90 per order, and carrying
+costs are Rs 1.5 per unit per week. The beginning inventory is 50 units, and lead time is one week. Help
+Dinesh determine whether the L4L, EOQ or Multiple of 40 lot sizing technique is more appropriate.
+
+Determine this on the basis of Total Cost: number of orders x ordering cost + total projected on hand x carrying
+cost.
+
+Gross Requirement for Product-A:
+1 2 3 4 5
+30 {50 |20 |10 | 40
+
+(12 marks)
+````
+
+## 2015-16 · Final-Exam · paper ab4a57f2cc5c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations Management Batch 2015-16 Final.pdf`
+- Printed on paper: exam date: 04/12/2015
+- Text: ocr (2 pages), mean OCR confidence 90.6
+
+````text
+™ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA. Tech (All Streams) Year: IV Semester: VII
+
+Academic Year: 2015-2016
+
+| Z [4
+i Subject: Operations Management A, “ “~.
+, Marks ( #f wpsvun
+Date: 04/12/2015 Time Of Pata wOe Dp
+Durations rs)
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question
+on the cover of the Answer Book, which is provided for their use.
+
+i) Question No. 1 is compuisory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1. Solve the following:
+
+(i). The Goodstone Tire Company produces a brand of tire called the Rainpath. The annual
+demand at its distribution center is 12,400 tires per year. The transport and handling costs
+are $2600 each time a shipment of tires is ordered at the distribution center. The annual
+carrying cost is $3.75 per tire. Determine the optimal order quantity and the minimum total
+annual cost. The company is thinking about relocating its distribution center, which would
+reduce transport and handling costs to $ 1900 per order but increase carrying costs to $4.50
+per tire per year. Should the company relocate based on inventory costs? (6 marks)
+(ii). Discuss briefly the basic EOQ model, stating the assumptions. (6 marks)
+
+Q.2. What is Operations strategy? Explain the relationship between operations strategy and
+business strategies using suitable examples. (12 marks)
+
+Q.3. How do you link process capability and process control procedures with Statistical Process
+Control? Explain the role of p-charts in process control. (12 marks)
+
+Q.4. Describe the various strategies for expanding capacity, mentioning the advantages and
+
+disadvantages in each case with suitable examples. (12 marks)
+ae
+
+Q.5 List five goals of facility layout. Discuss and compare a process and product layout giving
+pe suitable examples. (12 marks)
+
+Q.6. Write short notes on any two: (2 x 6 marks)
+--- page 2 ---
+Q.7.
+
+(i) Johnson’s rule in job sequencing
+(ii) Drum -Buffer-Rope manufacturing
+(iii) Factor rating Method for location decisions
+
+Taichii Ohno in Toyota manufacturing company explored 7 Mudas (Wastes) in process.
+List and explain these seven Mudas which need to be eliminated for perfecting a process.
+(12 Marks)
+
+“2 [2
+````
+
+## 2015-16 · Re-Exam · paper a1fec1aa8604
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -3200,6 +3000,401 @@ as cost effective supply chain for a product?
 
 Q. No: 6 Enumerate and briefly explan various factors to be considered while deciding on a facility
 location. State the specific factors for a service facility location decision.
+````
+
+## 2015-16 · Re-Exam · paper c31e261f6320
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations Management Batch 2015-16 Re Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 15 June 2016
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV vy sos Seag: VII
+Academic Year: 2015-16 / 7 NAS,
+
+Batch: 2015-16 af Mo iB),
+
+Subject: Operations Management 3 Marks: 60° ‘3
+
+Date: 15 June 2016
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. a
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+1. a) Describe the assumptions of EOQ model. Why do the basic EOQ model variations not
+include the price of an item? (6 marks)
+b) The bookstore at Tech purchases jackets emblazoned with the school name and logo
+from a vendor. The vendor sells the jackets to the store for $38 apiece. The cost to the
+bookstore for placing an order is $120, and the annual carrying cost is 25% of the cost
+of a jacket. The bookstore manager estimates that 1700 jackets will be sold during the
+year. The vendor has offered the bookstore the following volume discount schedule:
+
+(6 marks)
+- Order Size Discount
+1-299 : 0%
+300-499 2%
+500-799 4%
+600+ 5%
+
+2. Write short note on any two (2 x 6 marks)
+a. Factor rating method in facility location decisions
+b. Little’s law & its utility in the process analysis
+a c. Product layout
+3. Describe the Theory of Constraints with suitable examples from the manufacturing
+
+industry. (12 marks)
+ad 4. a. Discuss the advantages and disadvantages of product & process layouts. (6 marks)
+b. How does a cellular layout combine a product and process layout? (6 marks)
+
+Vo
+--- page 2 ---
+5. a. Briefly explain Johnson’s rule citing suitable example. (6 marks)
+b. XYZ Computers manufactures computer components such as chips, circuit boards,
+motherboards, keyboards, LCD panels, and the like and sells them around the world.
+It wants to construct a new warehouse/distribution center in Asia to serve emerging
+Asian markets. It has identified sites in Shanghai, Hong Kong, and Singapore and has
+rated the important location factors for each site as follows: (6 marks)
+
+Scores (0 to 100)
+Location Factor Weight Shanghai HongKong Singapore
+Potitical stability 0.25 50 80 90
+Economic growth 0.18 90 80 B
+Port facilities 0.15 60 95 90
+Container support 0.10 50 80 90
+Land and 7 0.08 40 5U 30
+construction cost
+Transportation/ 0.08 50 80 70 .
+distribution
+Duties and traffic 0.07 70 st 90
+Trade regulations 0.05 70 95 95
+Airline service 0.02 60 80 70
+Area roads 0.02 60 70 80
+
+Recommend a site based on these factors and ratings.
+
+6. a, Describe any two basic types of production processes with suitable examples. What are
+the advantages and disadvantages of each? (6 marks)
+
+b. Briefly discuss the requirements from an operations perspective of competing on (a)
+cost, (b) flexibility & (c) speed. Give examples of manufacturing or service firms that
+successfully compete on each of the criteria listed. (6 marks)
+
+7. a. Describe the steps in the Six Sigma breakthrough strategy for quality improvement. (6
+marks)
+
+b. Describe the importance of p charts & np charts in Statistical Process Control (SPC).
+(6 marks)
+````
+
+## 2014-15 · Final-Exam · paper 8bc0f643caa9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations Management Final Exam 2014-15 Final.pdf`
+- Printed on paper: max marks: 50; exam date: 05/12/2014
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) _ Year: IV . Semester: VI
+Academic Year: 2014-15 |
+I,
+Subject: Operations Management
+Marks: 50
+Date: 05/12/2014 Time: 2.00 p
+
+Durations: 2
+Final - Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. .
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any THREE questions.
+
+3) In all FOUR questions to be attempted.
+
+4) Question no 1 carries 20 marks , all other questions carry 10 marks each.
+5) Answer to each new question to be started on a fresh page.
+
+6) Assume Suitable data if necessary
+
+Q.No:1 Write short notes on any FOUR
+
+1] Noriaki Kano’s model of ‘Quality’
+
+2] ‘Centroid Method’ of facility location
+
+3] Explain the concept of ‘Goods-Service Continuum’
+
+4] Taichi Onho’s Seven Mudas
+
+5] Differentiate between ‘Product Layout’ and ‘Process Layout’
+
+Q. No: 2 Acompany is importing branded smart phone screens to meet its requirement of 500 units
+per month. The total requirement of the screens can be purchased from the lone supplier A having
+the below mentioned price list
+
+Order Quantity-units Unit price -USD
+1-199 14.00
+200-399 13.50
+400 -599 13.00
+600 and above 12.00
+
+Ordering cost for both the suppliers is USD 40 per order and holding cost is 25 % of unit price per unit.
+Which supplier should be used and what order quantity is optimal if intent is to minimize total annual
+
+costs ?
+
+Q.No: 3 Ina factory producing metal sheets, a sample of 5 sheets is taken every hour. The mean
+thickness and the range observed for each sample was noted as given in the following table. Draw
+control charts for X bar [mean] and R [ range] and statistically at 99% confidence level state whether
+the process is under control or not ?
+
+{ Given: for sample size of 5, A2= 0.58, D3 =0, D4=2.115 }
+
+48
+--- page 2 ---
+“Sample No: 1 2 3 4 5 6 7 8 9 10
+
+Mean Thickness | 0.25 | 0.22 | 0.60 | 0.22 | 0.20 | 0.10 | 0.16 | 0.48 | 0.10 | 0.37
+
+[cms]
+
+Sample Range 0.10 | 0.08 | 0.52 | 0.12 | 0.14 | 0.10 | 0.06 | 0.50 | 0.10 | 0.48
+
+[cms]
+
+Q. No: 4 Referring to the ‘The Goal’ by Dr. E. Goldratt, explain the various ways of managing a
+bottleneck ina uni-product, multi-stage, sequential manufacturing process .as simulated in the Scout-
+Trek experience narrated in the book.
+
+Q. No: 5 What do you understand by “Operations Strategy”? How is it formulated?
+Explain Quality Based Operations strategies with suitable examples.
+
+Q. No: 6 What do you understand by “ MRP I”, “MRP II” and “ERP” ? State how these concepts are
+evolved ? How an ERP system helps in managing a business endeavor effectively ?
+````
+
+## 2014-15 · Re-Exam · Trim 10 · paper 21f8e03fb11b
+
+- Departments: Chemical, Computer Engineering, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/OPERATIONS MANAGEMENT BATCH 2012-13 RE EXAM0001.pdf` (+3 identical copies)
+- Printed on paper: max marks: 50; exam date: 10/12/2014
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: IV Trimester: X |
+Academic Year: 2014-15 — a
+/ gypatit SLOAN
+: gh NG,
+Batch:2012-13 of NB,
+t Marks:50 {{g( ;MPSTME YS
+Subject : Operations Managemen : i IBRA- a
+: " Time : 2.00 Bip 4.00 pit B¥ is
+oe a
+Date :10/12/2014 Durations:2 (Is)* y what
+Re-Examination Me NERS
+
+Instructions: 1] Attempt ANY FIVE
+
+2] All questions carry equal marks [ 10 each]
+Q1] What is the concept of ‘Productivity’? State and explain the three basic
+Productivity Indices with suitable examples.
+
+Q2]. What is D-B-R (Drum- Buffer- Rope } manufacturing? How it aims to
+minimize WIP? :
+
+Q3] How would a flowcharting help in planning a service layout? For a
+supermarket, draw a flow chart useful for making its layout.
+How would you assess goodness of a supermarket layout ?
+
+Q4] State and explain the Kano’s definition of ‘Quality’ with suitable
+examples.
+
+Q5] Distinguish between A] safety stock inventory & buffer inventory.
+B] Product layout and process layout
+
+Q6] Perception of Service Quality is more subjective than that of a tangible
+product which makes it difficult to measure. Examine the statement critically
+and state a method of service quality assessment.
+
+Q7| ‘The aim of JIT is perfecting the process, inventory reduction is
+consequential’ Explain the statement explaining the core logic of JIT.
+
+Q8] Write short notes on any two.
+a) Factor rating method for location decisions
+b) Assumptions for basic EOQ model
+c) Cellular Layout ( Group Technology Layout)
+--- page 2 ---
+Q.9] A] Calculate EOQ in units and the total yearly cost of ordering (5)
+at EOQ purchase using the data given below
+
+1] Annual requirement of items [ in value ] = Rs 1,60,00,000
+2] Cost of placing an order= Rs 5,000/order
+3] Inventory carrying cost per year = 25 % of average inventory
+
+investment.
+4] Price per unit of the item = Rs 10,000
+
+B] There are five jobs J1, J2, J3 , J4 and J5 to be processed (5)
+on three machines M1, M2 and M3. All the jobs require fixed machine-
+wise [i.e. M1 to M2 to M3] processing sequence. The time in hours required
+by each job on each of these machines is indicated in the following table
+
+JOBS MACHINES
+M1 M2 M3
+Ji 40 20 70
+J2 30 10 60
+J3 70 20 30
+J4 40 10 80
+J5 70 10 50
+
+Find out the sequence [order] of the jobs to be taken for processing through
+the three machines which will give the minimum time duration for
+completion of all the five jobs.
+Also draw a Gantt Chart with this optimum job sequence and find out the
+minimum total
+Time in hours for the entire operation.
+Also find out the total idle time in hours for M2 in the entire operation.
+[ Note: A job cannot be processed simultaneously on two or more
+machines.
+
+A machine can process only one job at a time
+
+The time indicated in above table includes both processing and
+
+setting time .]
+
+KA x
+````
+
+## 2014-15 · Re-Exam · paper db815efd29ac
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations management 2013-14 Re-exam.pdf`
+- Printed on paper: exam date: 05/12/2014
+- Text: ocr (2 pages), mean OCR confidence 93.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: IV
+
+Semester: VII
+
+Academic Year: 2014-15 Batch: 2013-14
+
+Subject : Operations Management
+
+Date : 05/12/2014 Time : 02.00 p gc
+
+Re - Examination :
+ee oO
+
+fastrnetions: 1 Attempt ANY FIVE
+2] All questions carry equal marks [ 10 each]
+
+Q1] Write the factors influencing Operations Management today.
+Q2] How does knowledge of capacity help an operations managers?
+
+Q3] What are the three basic Productivity indices? Explain the ways to
+improve productivity.
+
+Q4] What are the characteristics of a good layout? Explain any one method
+of planning a factory layout.
+
+Q5] How TQM differs from conventional quality management thought?
+Enumerate steps for TQM implementation in a workplace.
+
+Q6] ‘The method of replenishing inventory is the only way available to a
+manager to manage inventory for an ongoing process’ Explain the two basic
+methods of inventory management available with suitable examples.
+
+Q7] Explain the role of value analysis & value engineering in enhancing
+value to the customer
+Q8] Describe the core logic of JIT manufacturing. How it help improve the
+process? Can JIT work with zero inventory in process?
+Q9] Write short notes on any two.
+
+a) Dr. E. Goldratt’s three operational measures
+
+b) Centriod [ Centre of Gravity] method of Location
+
+c) Objectives of product & service design
+d) Mass customization
+
+4/2
+--- page 2 ---
+Q. 10
+
+A] In a manufacturing unit a certain type of bearing is require in (5)
+quantity of 2500 numbers in a year. The procurement cost per order is Rs.
+200. The cost of the bearing is Rs 1000 per unit. The annual inventory
+carrying cost is 10% of average inventory investment .
+The company presently places orders of 500 units each..
+Find out the yearly saving that can result in inventory cost if the company
+follows Economic Order Quantity purchase.
+
+B] There are five jobs J1, J2,J3 ,J4 and J5 to be processed (5)
+on three machines M1, M2 and M3. All the jobs require fixed machine-
+wise [i.e. M1 to M2 to M3] processing sequence. The time in hours required
+by each job on each of these machines is indicated in the following table
+
+JOBS MACHINES
+M1 M2 M3
+Jl 20 10 40
+J2 30 10 60
+J3 70 20 20
+J4 30 10 70
+J5 50 20 30
+
+Find out the sequence [order] of the jobs to be taken for processing through
+the three machines which will give the minimum time duration for
+completion of all the five jobs.
+Also draw a Gantt Chart with this optimum job sequence and find out the
+minimum total
+Time in hours for the entire operation.
+Also find out the total idle time in hours for M2 in the entire operation.
+[ Note: A job cannot be processed simultaneously on two or more
+machines.
+
+A machine can process only one job at a time
+
+The time indicated in above table includes both processing and
+setting time .]
 ````
 
 ## 2013-14 · Final-Exam · paper 47ca134801d4
@@ -3398,104 +3593,6 @@ following with reference to the basic queuing model:
 Page 2 of 2
 ````
 
-## 2013-14 · Re-Exam · paper db815efd29ac
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/OPERATIONS MANAGEMENT/Operations management 2013-14 Re-exam.pdf`
-- Printed on paper: exam date: 05/12/2014
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: IV
-
-Semester: VII
-
-Academic Year: 2014-15 Batch: 2013-14
-
-Subject : Operations Management
-
-Date : 05/12/2014 Time : 02.00 p gc
-
-Re - Examination :
-ee oO
-
-fastrnetions: 1 Attempt ANY FIVE
-2] All questions carry equal marks [ 10 each]
-
-Q1] Write the factors influencing Operations Management today.
-Q2] How does knowledge of capacity help an operations managers?
-
-Q3] What are the three basic Productivity indices? Explain the ways to
-improve productivity.
-
-Q4] What are the characteristics of a good layout? Explain any one method
-of planning a factory layout.
-
-Q5] How TQM differs from conventional quality management thought?
-Enumerate steps for TQM implementation in a workplace.
-
-Q6] ‘The method of replenishing inventory is the only way available to a
-manager to manage inventory for an ongoing process’ Explain the two basic
-methods of inventory management available with suitable examples.
-
-Q7] Explain the role of value analysis & value engineering in enhancing
-value to the customer
-Q8] Describe the core logic of JIT manufacturing. How it help improve the
-process? Can JIT work with zero inventory in process?
-Q9] Write short notes on any two.
-
-a) Dr. E. Goldratt’s three operational measures
-
-b) Centriod [ Centre of Gravity] method of Location
-
-c) Objectives of product & service design
-d) Mass customization
-
-4/2
---- page 2 ---
-Q. 10
-
-A] In a manufacturing unit a certain type of bearing is require in (5)
-quantity of 2500 numbers in a year. The procurement cost per order is Rs.
-200. The cost of the bearing is Rs 1000 per unit. The annual inventory
-carrying cost is 10% of average inventory investment .
-The company presently places orders of 500 units each..
-Find out the yearly saving that can result in inventory cost if the company
-follows Economic Order Quantity purchase.
-
-B] There are five jobs J1, J2,J3 ,J4 and J5 to be processed (5)
-on three machines M1, M2 and M3. All the jobs require fixed machine-
-wise [i.e. M1 to M2 to M3] processing sequence. The time in hours required
-by each job on each of these machines is indicated in the following table
-
-JOBS MACHINES
-M1 M2 M3
-Jl 20 10 40
-J2 30 10 60
-J3 70 20 20
-J4 30 10 70
-J5 50 20 30
-
-Find out the sequence [order] of the jobs to be taken for processing through
-the three machines which will give the minimum time duration for
-completion of all the five jobs.
-Also draw a Gantt Chart with this optimum job sequence and find out the
-minimum total
-Time in hours for the entire operation.
-Also find out the total idle time in hours for M2 in the entire operation.
-[ Note: A job cannot be processed simultaneously on two or more
-machines.
-
-A machine can process only one job at a time
-
-The time indicated in above table includes both processing and
-setting time .]
-````
-
 ## 2013-14 · Re-Exam · paper 07bc33e2dbb8
 
 - Departments: Common (all branches)
@@ -3599,194 +3696,7 @@ setting time .]
 2/2
 ````
 
-## 2012-13 · Re-Exam · Trim 10 · paper 21f8e03fb11b
-
-- Departments: Chemical, Computer Engineering, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/OPERATIONS MANAGEMENT BATCH 2012-13 RE EXAM0001.pdf` (+3 identical copies)
-- Printed on paper: max marks: 50; exam date: 10/12/2014
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year: IV Trimester: X |
-Academic Year: 2014-15 — a
-/ gypatit SLOAN
-: gh NG,
-Batch:2012-13 of NB,
-t Marks:50 {{g( ;MPSTME YS
-Subject : Operations Managemen : i IBRA- a
-: " Time : 2.00 Bip 4.00 pit B¥ is
-oe a
-Date :10/12/2014 Durations:2 (Is)* y what
-Re-Examination Me NERS
-
-Instructions: 1] Attempt ANY FIVE
-
-2] All questions carry equal marks [ 10 each]
-Q1] What is the concept of ‘Productivity’? State and explain the three basic
-Productivity Indices with suitable examples.
-
-Q2]. What is D-B-R (Drum- Buffer- Rope } manufacturing? How it aims to
-minimize WIP? :
-
-Q3] How would a flowcharting help in planning a service layout? For a
-supermarket, draw a flow chart useful for making its layout.
-How would you assess goodness of a supermarket layout ?
-
-Q4] State and explain the Kano’s definition of ‘Quality’ with suitable
-examples.
-
-Q5] Distinguish between A] safety stock inventory & buffer inventory.
-B] Product layout and process layout
-
-Q6] Perception of Service Quality is more subjective than that of a tangible
-product which makes it difficult to measure. Examine the statement critically
-and state a method of service quality assessment.
-
-Q7| ‘The aim of JIT is perfecting the process, inventory reduction is
-consequential’ Explain the statement explaining the core logic of JIT.
-
-Q8] Write short notes on any two.
-a) Factor rating method for location decisions
-b) Assumptions for basic EOQ model
-c) Cellular Layout ( Group Technology Layout)
---- page 2 ---
-Q.9] A] Calculate EOQ in units and the total yearly cost of ordering (5)
-at EOQ purchase using the data given below
-
-1] Annual requirement of items [ in value ] = Rs 1,60,00,000
-2] Cost of placing an order= Rs 5,000/order
-3] Inventory carrying cost per year = 25 % of average inventory
-
-investment.
-4] Price per unit of the item = Rs 10,000
-
-B] There are five jobs J1, J2, J3 , J4 and J5 to be processed (5)
-on three machines M1, M2 and M3. All the jobs require fixed machine-
-wise [i.e. M1 to M2 to M3] processing sequence. The time in hours required
-by each job on each of these machines is indicated in the following table
-
-JOBS MACHINES
-M1 M2 M3
-Ji 40 20 70
-J2 30 10 60
-J3 70 20 30
-J4 40 10 80
-J5 70 10 50
-
-Find out the sequence [order] of the jobs to be taken for processing through
-the three machines which will give the minimum time duration for
-completion of all the five jobs.
-Also draw a Gantt Chart with this optimum job sequence and find out the
-minimum total
-Time in hours for the entire operation.
-Also find out the total idle time in hours for M2 in the entire operation.
-[ Note: A job cannot be processed simultaneously on two or more
-machines.
-
-A machine can process only one job at a time
-
-The time indicated in above table includes both processing and
-
-setting time .]
-
-KA x
-````
-
-## 2012-13 · Re-Exam · Trim 10 · paper 43624f424f70
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/OPERATIONS MANAGEMENT X MBA TECH 2012-13 RE EXAM.pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 14/06/2013
-- Text: mixed (2 pages), mean OCR confidence 86.6
-
-````text
-%
-SVKMysNMIMS
-Mukesh Patel School of Technology Management &
-Programme: MBA Tech ( All Streams )   Year: N
-Academic Year :2012-2013
-Batch:   2012-2013
-Subject:   Operations Management   Marks:   50
-Time:   2.00 p m To 4.00 p m
-Date:   14/06/2013   Duration: 2 hrs.
-Re - Examination
-NB: 1.All Questions have equal marks
-2.Answer any five (5) questions.
-3. No Laptop or Book is allowed in Examination Hall .
-Qu. 1. i) Explain with examples ,in Inventory Management, the followingTerms :
-a)A-6-CAnaiysis b) Cycle Counting c) Re-order Level d) Buffer Stock.
-03
-ii) Daily demand for a product is 10 units with a std. deviation ofbunits. The review period is 30 days
-and lead time is 10 days. Management has set a policy of satisfying 98%of demand from items in stock.
-If, at the beginning of the review period there are 150 units of inventory, how many units should be
-ordered ?
-Question No. 2. A. Explain Exponetial Method of Forecasting with your own example
-B. Explain the following Terms with example
-a. Tracking Signal b. Forecast~ng Error calculation Methods (any three methods)
-Question 3 :Given the following data, formulate a inventory management system
-Item Cost :Rs.20 Ordering Cost Rs.250 Annual Holding Cost :30% of item cost
-I
-Annual Demand :25750 std dev of weekly demand 25 per week
-Average Demand :515 per week;   LT= 1WEEK ;Service Probability :95%
-a. State The Order Quantity and Re Order Point   a
-b. Determine the Annual Holding and Order Costs.
-c.   If a price break of Rs 50 per order was offered for purchase quantities of over 2000, would you
-take advantage of it .How much would you save annually.
-Qu. 4 ixplain the Following Terms with examples :
-Master Plann~ng \   .   ,Material Requirement Planning, Rnugh Cut Capacity,Planfiing, Input Output Control,
-I
-DMAlC in Six Sigma ,Critical To Quality(CTQ)
-Qu 5. a) What is Critical Ratio Rule in scheduling. Explain with your own example .
-b) A bank department has five jobs to be processed .The following table gives the processing and
-waiting time .Assume that today is April 18 and the jobs are due on the dates as shown below :
---- page 2 ---
-Jobs Actual Processing Time WaitTime Total Time required Date Job Due
-
-1 2 ; 7 11 April 30
-2 5 8 13 April 21
-3 9 12 19 April 28
-4 7 9 16 April 29
-5 4 17 25 April 27
-
-Use Critical Ratio Rule to find out the sequence of doing the jobs .
-
-Qu.6 Part! Multiple choice (please answer in Answer Sheet clearly) ---4 MARKS
-
-TexasPlatforms is in the business of design and construction of offshore oil drilling platforms . Because
-of the large investment involved in the end products and their inventory , they only produce to
-customer order. Answer the following 3 questions)
-a)The manufacturing strategy of the Company is most likely to involve :
-|. Very long Lead Time . ii. High Level of Inventory
-Ml. Project Manufacturing iv. Using PERT Network Scheduling
-A) lonly. By)landt! C) J, lland tll D) LALML, IV
-
-b)The company’s order qualifier will be:
-i) expertise in design and construction Il) Precision in bidding for the Job
-iii) Reliability of delivery promises iv) Delivery Speed
-A) lonly B)land il C) J, land Ill =D) 1,U,IL IV
-c)The company’s production scheduling is most likely to involve:
-i) MRP ii) CRP iii) PERT iv) JIT/Lean
-} A) ionly Bjiandii C)i,iiandiii D) | iiiii,iv
-
-d}) Acompany is manufacturing Chlorine using electrolysis process . Chlorine is produced in
-specially designed tanks , passed through pipelines and stored in large storage Tanks from
-where it is transported by Tankers /Special Trucks . if
-
-The most likely production choice , as per Vol-Variety Matrix , for the company should be:
-i) Project Manufacturing ii) Batch Manufacturing
-iii) Continuous Process Manufacturing iv) Discrete Mass Scale Manufacturing
-A) ivonly B)iandii C) iiandiii D) iii only
-Qué. Part ll sess. 6 MARKS
-Explain the following Terms in Lean Operations :
-a) Heizunka b) Andon c) Milk Run d) keiretsu e) Poka Yoke f) TPM
-````
-
-## 2012-13 · Re-Exam · Trim 10 · paper 741747f4f630
+## 2013-14 · Re-Exam · Trim 10 · paper 741747f4f630
 
 - Departments: Computer Engineering, Information Technology, Manufacturing
 - Programmes: MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MANUFACTURING
@@ -3860,6 +3770,405 @@ Q. No: 6 Write short notes on any TWO
 —%
 
 ~-™
+````
+
+## 2012-13 · Exam not stated · Trim 10 · paper 02f96973387a
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/scan0001(13).pdf`
+- Printed on paper: duration hours: 2; exam date: 1/10/2012
+- Text: ocr (2 pages), mean OCR confidence 89.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA (Tech.) (All Streams) Year: IV Trimester: X
+Academic Year : 2012-2013
+
+Batch: 2011-2012 . 50
+Subject: Operations Management Marks:
+
+oe ° Time: 2.00 pm To 4.00 pm
+Date: 1/10/2012 Duration: 2 hrs.
+
+Re - Examination
+
+NB: 1. All Questions have equal marks
+2.Answer any five (5) questions.
+3. No Laptop or Book is allowed in Examination Hall .
+
+Question No.1. | What are the principles of Theory of Constraints that we can learn from the book
+“Goal” . Explain the concept of Drum-Buffer and Rope. What is the use of Time Buffer and Space Buffer.
+
+Qu. 2 i) Explain with examples , in Inventory Management, the following Terms :
+a) A-B-C Analysis b) Cycle Counting c) Re-order Level d) Buffer Stock .
+
+ii) A company currently has 200 units of a product on hand that it orders every two weeks when the
+sales person visits the premises . Demand for the product averages 20 units per day with asd of 5
+units. Lead Time is 7 days . Management has a policy of not stocking out probability of 95% for this
+product. The sales person is expected to come late evening today when 20 units would have sold
+already. How many units should be ordered now. (Value of Z for 95% =1.640).
+
+Question 3 : Given the following data , formulate a inventory management system
+Item Cost : Rs.10 Ordering Cost Rs.250 Annual Holding Cost : 33% of item cost
+Annual Demand :25750 std dev of weekly demand 25 per week
+
+Average Demand : 515 per week; —LT= 1 WEEK ; Service Probability : 95%
+
+a. State The Order Quantity and Re Order Point
+
+b. Determine the Annual Holding and Order Costs.
+
+c. Ifa price break of Rs 50 per order was offered for purchase quantities of over 2000, would you
+take advantage of it How much would you save annually.
+
+;
+
+}
+Qu. 4 Explain the Following Terms with examples :
+
+\
+
+¢
+mastellplanning , Material Requirement Planning , Rough Cut Capacity Planning , Input Output Control,
+DMAIC in Six Sigma ,Critical To Quality(CTQ)
+
+Qu 5. a) What is Johnson’s Rule in scheduling . Explain with your own example .
+
+b) Abank department has five jobs to be processed . The following table gives the processing and
+waiting time .Assume that today is April 3 and the jobs are due on the dates as shown below :
+--- page 2 ---
+Jobs Actual Processing Time Wait Time Total Time required Date Job Due
+1 2 12 14 April 30
+2 5 8 13 April 21
+3 9 15 24 April 28
+4 7 9 16 April 29
+5 4 22 26 April 27
+
+Use Critical Ratio Rule to find out the sequence of doing the jobs .
+
+Qu.6 Part! Multiple choice (please answer in Answer Sheet clearly) ---4 MARKS
+
+ACD company is in the business of design and construction of offshore oil drilling platforms . Because of
+the large investment involved in the end products and their inventory , they only produce to customer
+order. Answer the following 3 questions)
+a)The manufacturing strategy of ACD Company is most likely to involve :
+I. Very long Lead Time
+
+I. High Level of Inventory
+
+Hl. Project Manufacturing
+
+IV. Using PERT Network Scheduling
+
+
+b)ACD company’s order qualifier will be:
+i) expertise in design and construction II) Precision in bidding for the Job
+iii) Reliability of delivery promises iv) Delivery Speed
+, A) lonly B)landil C) I,llandill D) 41,111, IV
+cyach company’s production scheduling is most likely to involve:
+i) MRP ii) CRP iii) PERT iv) JIT/Lean
+
+d) Acompany is manufacturing Chlorine using electrolysis process . Chlorine is produced in
+specially designed tanks , passed through pipelines and stored in large storage Tanks from
+where it is transported by Tankers /Special Trucks .
+
+The most likely production choice , as per Vol-Variety Matrix , for the company should be:
+i) Project Manufacturing ii) Batch Manufacturing
+iii) Continuous Process Manufacturing — iv) Discrete Mass Scale Manufacturing
+
+A)yiv only B)iandii C) iiandiii D) iii only
+
+Qu 6. Part sss.6 MARKS
+Explain the following Terms in Lean Operations :
+a) Heizunka b) Andon c) Milk Run d) keiretsu e) Poka Yoke f) TPM
+
+\N
+````
+
+## 2012-13 · Exam not stated · Trim 10 · paper 9509831686ba
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/scan0019(1).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 01/10/2012
+- Text: ocr (2 pages), mean OCR confidence 88.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA (Tech) (All Stream) Year: IV Trimester: X
+Academic Year : 2012-2013
+
+3
+
+Subject: Operations Management ; Marks: 50
+Time: 2.00 p.m TY's
+Date: 01/10/2012 Duration: 2 hrs.
+
+Final - Examination
+
+NB: 1. All Questions have equal marks
+2.Answer any five (5) questions.
+3. No Laptop or Book is allowed in Examination Hall .
+
+Qu. 1. i) Explain with examples , in Inventory Management, the following Terms :
+a)A-B-C Analysis b) Cycle Counting c) Re-order Level d) Buffer Stock .
+
+ii) A company currently has 200 units of a product on hand that it orders every two weeks when the
+sales person visits the premises . Demand for the product averages 20 units per day witha sd of 5
+units. Lead Time is 7 days . Management has a policy of not stocking out probability of 99% for this
+product. The sales person is expected to come late evening today when 20 units would have sold
+already. How many units should be ordered now. (Value of Z for 99% =2.33).
+
+Question No.2. Mention any 5 principles of Theory of Constraints that we can learn from the book
+“Goal” . Explain the concept of Drum-Buffer and Rope. What is the use of Time Buffer and Space Buffer.
+
+Question 3 : Given the following data , formulate a inventory management system
+Item Cost : Rs.20 Ordering Cost Rs.250 Annual Holding Cost : 30% of item cost
+Annual Demand :25750 std dev of weekly demand 25 per week
+
+Average Demand : 515 per week; —LT= 1 WEEK ; Service Probability : 95%
+
+a. State The Order Quantity and Re Order Point
+
+b. Determine the Annual Holding and Order Costs. _
+
+c. Ifa price break of Rs 50 per order was offered for purchase quantities of over 2000, would you
+take advantage of it .How much would you save annually.
+
+Qu. 4 Explain‘the Following Terms with examples :
+
+Master piers , Material Requirement Planning , Rough Cut Capacity Planning , Input Output Control,
+DMAIC in Six Sigma ,Critical To Quality(CTQ)
+
+Qu 5. a) What is Johnson’s Rule in scheduling . Explain with your own example .
+
+b) A bank department has five jobs to be processed . The following table gives the processing and
+waiting time Assume that today is April 3 and the jobs are due on the dates as shown below:
+
+Vo
+--- page 2 ---
+Jobs Actual Processing Time WaitTime Total Time required Date Job Due
+
+a. 2 vf ab § April 30
+
+2 5 8 13 April 21
+
+3 9 12 19 April 28
+
+4 ae 9 16 April 29
+
+5 4 17 25 - April 27 Sane
+
+Use Critical Ratio Rule to find out the sequence of doing the jobs.
+Qu.6 Part! Multiple choice (please answer in Answer Sheet clearly) ---4 MARKS
+
+TexasPlatforms is in the business of design and construction of offshore oil drilling platforms . Because
+of the large investment involved in the end products and their inventory , they only produce to
+customer order. Answer the following 3 questions)
+a)The manufacturing strategy of the Company is most likely to involve :
+|. Very long Lead Time
+
+ll. High Level of Inventory
+
+ill. Project Manufacturing
+
+IV. Using PERT Network Scheduling
+
+
+b)The company’s order qualifier willbe :
+i) expertise in design and construction II) Precision in bidding for the Job
+iii) Reljability of delivery promises iv) Delivery Speed
+A) lonly B)land il’ C) 1, Wand ill D) 4,11, IV
+c)The company’s production scheduling is most likely to involve:
+i) MRP ii) CRP iii) PERT iv) JIT/Lean
+
+d) Acompany is manufacturing Chlorine using electrolysis process . Chlorine is produced in
+specially designed tanks , passed through pipelines and stored in large storage Tanks from
+where it is transported by Tankers /Special Trucks .
+The most likely production choice , as per Vol-Variety Matrix , for the company should be :
+i} ray Manufacturing ii) Batch Manufacturing :
+iii) Cortinuous Process Manufacturing — iv) Discrete Mass Scale Manufacturing
+Qu 6. Part Il 6 MARKS
+Explain the following Terms in Lean Operations :
+
+A) ivonly B)iandii C) fiandiii D) iii only
+a) Heizunka b) Andon c) Milk Run d) keiretsu e) Poka Yoke f) TPM
+````
+
+## 2012-13 · Re-Exam · Trim 10 · paper 1f2cbf857b0b
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/OPERATIONS MANAGEMENT X MBA TECH 2011-12 RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: duration hours: 2; exam date: 14/06/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Programme: MBA Tech ( AU Streams )   Year: N   Trimester: X,   .   '
+Academic Year :2012-2013
+Batch:   2 0 11-2012
+Subject:   Operations Management
+Time:   2.00 - pm To 4.00 pm
+Date:   14/06/2013   Duration: 2 hrs.
+Re - Examination
+-- -   . .   . .-
+NB: 1.All Questions have equal marks 2.Answer any five (5) questions.
+Qu. 1.   i) ~xplain with examples ,in inventory Management, the following Terms :
+a)A-BC Analysis b) Cycle Counting c) Re-order Level d) Buffer Stock.
+ii) A company currently has 500 units of a product on hand that it orders every two weeks when the
+sales person visits the premises. Demand for the product averages 20 units per day with a sd of 5
+units. Lead Time is 7 days. Management has a policy of not stocking out probability of 99% for this
+product. The sales person is expected to come late evening today when 20 units would have sold
+already. How many units should be ordered now. (Value of Z for 99%=2.33).
+Question No. 2.   Mention any 5 principles of Theory of Constraints that we can learn from the book
+"Goal" .Explain the concept of Drum-Buffer and Rope. What is the use of Time Buffer and Space Buffer.
+Question 3 :Given the following data, formulate a inventory management system
+Item Cost :Rs.20 Ordering Cost Rs.250 Annual Holding Cost :30% of item cost
+Annual Demand :25750 std dev of weekly demand 25 per week
+Average Demand :515 per week;   LT= ;WEEK ;Service Probability :95%
+a. State The Order Quantity and Re Order Point
+b. Determine the Annual Holding and Order Costs.
+t   c.   If a price break of Rs 50 per order was offered for purchase quantities of over 2000, would you.
+take advantage of it .How much would you save annually.
+Qu. 4 Explain the Following with examples and clearly mentioning lnput and Output for each :
+Master Planning, Material Requirement Planning, Rough cut capa$ty Planning, lnput Output Control
+Qu 5. a) What isJohnson's Rule in scheduling. Explain with your own example.
+b) A bank department has five jobs to be processed .The following table gives the processing and
+waiting time .Assume that today is April 3 and the jobs are due on the dates as shown below :
+Jobs   Actual Processing Time   Wait Time   Total Time required   Date Job Due
+April 30
+April 21
+April 28
+--- page 2 ---
+4   7   9   16   April 29
+5   4   17   25   April 27
+Use Critical Ratio Rule t o find out the sequence of doing the jobs.
+Qu. 6 Part l Multiple choice   (please answer inAnswcr Sheet clearly) --4 MARKS
+Texasplatforms is in the business of design and construction of offshore oil drilling platforms. Because
+of the large investment involved in the end products and :heir inventory, they only produce to
+customer order. Answer the following 3 questions)
+a)The manufacturing strategy of the Company is most likely to involve :
+I.   Very long Lead Time
+II.   High Level of Inventory
+Ill.   Project Manufacturing
+IV.   Using PERT Network Scheduling
+A) lonly B) 1 and I1 C) I, lland Ill   D)   I,II,III, IV
+b)The company's order qualifier will be :
+i) expertise in design and construction II) Precision in bidding for the Job
+iii) Reliability of delivery promises iv) Delivery Speed
+A)   l only B) land II C) I, lland Ill   D)   I,II,III, IV
+c)The company's production scheduling is most likely to involve :
+i) MRP ii) CRP iii) PERT iv) JIT/Lean
+A) ionly 8) iand ii C) i,iiand iii   D)   I, ii,iii,iv
+d) A company is manufacturing Chlorine using electrolysis process. Chlorine is produced in
+specially designed tanks, passed through pipelines and stored in large storage Tanks from
+where it is transported by Tankers /Special Trucks.
+The most likely production choice, as per Vol-Variety Matrix, for the company should be :
+)   i)   Project Manufacturing ii) Batch Manufacturing
+iii) Continuous Process Manufacturing   iv) Discrete Mass Scale Manufacturing
+A) iv only B) iand ii C) iiand iii   D)   iii only
+Qu 6. Part I1 ANSWER either A or B   ........6 MARKS
+A. Explain the following Terms in Lean Operations :   !&
+a) Heizunka b) Andon c) Milk Run d) keiretsu a) Poka Yoke f) TPM
+B. Explain six sigma and DMAIC .Explain any two tools that can be used in different stages of DMAIC.
+````
+
+## 2012-13 · Re-Exam · Trim 10 · paper 43624f424f70
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/OPERATIONS MANAGEMENT X MBA TECH 2012-13 RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 14/06/2013
+- Text: mixed (2 pages), mean OCR confidence 86.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+%
+SVKMysNMIMS
+Mukesh Patel School of Technology Management &
+Programme: MBA Tech ( All Streams )   Year: N
+Academic Year :2012-2013
+Batch:   2012-2013
+Subject:   Operations Management   Marks:   50
+Time:   2.00 p m To 4.00 p m
+Date:   14/06/2013   Duration: 2 hrs.
+Re - Examination
+NB: 1.All Questions have equal marks
+2.Answer any five (5) questions.
+3. No Laptop or Book is allowed in Examination Hall .
+Qu. 1. i) Explain with examples ,in Inventory Management, the followingTerms :
+a)A-6-CAnaiysis b) Cycle Counting c) Re-order Level d) Buffer Stock.
+03
+ii) Daily demand for a product is 10 units with a std. deviation ofbunits. The review period is 30 days
+and lead time is 10 days. Management has set a policy of satisfying 98%of demand from items in stock.
+If, at the beginning of the review period there are 150 units of inventory, how many units should be
+ordered ?
+Question No. 2. A. Explain Exponetial Method of Forecasting with your own example
+B. Explain the following Terms with example
+a. Tracking Signal b. Forecast~ng Error calculation Methods (any three methods)
+Question 3 :Given the following data, formulate a inventory management system
+Item Cost :Rs.20 Ordering Cost Rs.250 Annual Holding Cost :30% of item cost
+I
+Annual Demand :25750 std dev of weekly demand 25 per week
+Average Demand :515 per week;   LT= 1WEEK ;Service Probability :95%
+a. State The Order Quantity and Re Order Point   a
+b. Determine the Annual Holding and Order Costs.
+c.   If a price break of Rs 50 per order was offered for purchase quantities of over 2000, would you
+take advantage of it .How much would you save annually.
+Qu. 4 ixplain the Following Terms with examples :
+Master Plann~ng \   .   ,Material Requirement Planning, Rnugh Cut Capacity,Planfiing, Input Output Control,
+I
+DMAlC in Six Sigma ,Critical To Quality(CTQ)
+Qu 5. a) What is Critical Ratio Rule in scheduling. Explain with your own example .
+b) A bank department has five jobs to be processed .The following table gives the processing and
+waiting time .Assume that today is April 18 and the jobs are due on the dates as shown below :
+--- page 2 ---
+Jobs Actual Processing Time WaitTime Total Time required Date Job Due
+
+1 2 ; 7 11 April 30
+2 5 8 13 April 21
+3 9 12 19 April 28
+4 7 9 16 April 29
+5 4 17 25 April 27
+
+Use Critical Ratio Rule to find out the sequence of doing the jobs .
+
+Qu.6 Part! Multiple choice (please answer in Answer Sheet clearly) ---4 MARKS
+
+TexasPlatforms is in the business of design and construction of offshore oil drilling platforms . Because
+of the large investment involved in the end products and their inventory , they only produce to
+customer order. Answer the following 3 questions)
+a)The manufacturing strategy of the Company is most likely to involve :
+|. Very long Lead Time . ii. High Level of Inventory
+Ml. Project Manufacturing iv. Using PERT Network Scheduling
+
+b)The company’s order qualifier will be:
+i) expertise in design and construction Il) Precision in bidding for the Job
+iii) Reliability of delivery promises iv) Delivery Speed
+A) lonly B)land il C) J, land Ill =D) 1,U,IL IV
+c)The company’s production scheduling is most likely to involve:
+i) MRP ii) CRP iii) PERT iv) JIT/Lean
+
+d}) Acompany is manufacturing Chlorine using electrolysis process . Chlorine is produced in
+specially designed tanks , passed through pipelines and stored in large storage Tanks from
+where it is transported by Tankers /Special Trucks . if
+
+The most likely production choice , as per Vol-Variety Matrix , for the company should be:
+i) Project Manufacturing ii) Batch Manufacturing
+iii) Continuous Process Manufacturing iv) Discrete Mass Scale Manufacturing
+A) ivonly B)iandii C) iiandiii D) iii only
+Qué. Part ll sess. 6 MARKS
+Explain the following Terms in Lean Operations :
+a) Heizunka b) Andon c) Milk Run d) keiretsu e) Poka Yoke f) TPM
 ````
 
 ## 2011-12 · Exam not stated · Trim 10 · paper 290243eb8f62
@@ -4020,303 +4329,6 @@ b) What are the principles of Lean Manufacturing (Operations) in any Business . 
 Business like a IT Organisation or a Bank.
 
 Explain the following Terms : Andon, Heizunka , Kanban Cards, Keiretsu ,Milk Run
-````
-
-## 2011-12 · Re-Exam · Trim 10 · paper 1f2cbf857b0b
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/OPERATIONS MANAGEMENT X MBA TECH 2011-12 RE EXAM.pdf` (+2 identical copies)
-- Printed on paper: duration hours: 2; exam date: 14/06/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Programme: MBA Tech ( AU Streams )   Year: N   Trimester: X,   .   '
-Academic Year :2012-2013
-Batch:   2 0 11-2012
-Subject:   Operations Management
-Time:   2.00 - pm To 4.00 pm
-Date:   14/06/2013   Duration: 2 hrs.
-Re - Examination
--- -   . .   . .-
-NB: 1.All Questions have equal marks 2.Answer any five (5) questions.
-Qu. 1.   i) ~xplain with examples ,in inventory Management, the following Terms :
-a)A-BC Analysis b) Cycle Counting c) Re-order Level d) Buffer Stock.
-ii) A company currently has 500 units of a product on hand that it orders every two weeks when the
-sales person visits the premises. Demand for the product averages 20 units per day with a sd of 5
-units. Lead Time is 7 days. Management has a policy of not stocking out probability of 99% for this
-product. The sales person is expected to come late evening today when 20 units would have sold
-already. How many units should be ordered now. (Value of Z for 99%=2.33).
-Question No. 2.   Mention any 5 principles of Theory of Constraints that we can learn from the book
-"Goal" .Explain the concept of Drum-Buffer and Rope. What is the use of Time Buffer and Space Buffer.
-Question 3 :Given the following data, formulate a inventory management system
-Item Cost :Rs.20 Ordering Cost Rs.250 Annual Holding Cost :30% of item cost
-Annual Demand :25750 std dev of weekly demand 25 per week
-Average Demand :515 per week;   LT= ;WEEK ;Service Probability :95%
-a. State The Order Quantity and Re Order Point
-b. Determine the Annual Holding and Order Costs.
-t   c.   If a price break of Rs 50 per order was offered for purchase quantities of over 2000, would you.
-take advantage of it .How much would you save annually.
-Qu. 4 Explain the Following with examples and clearly mentioning lnput and Output for each :
-Master Planning, Material Requirement Planning, Rough cut capa$ty Planning, lnput Output Control
-Qu 5. a) What isJohnson's Rule in scheduling. Explain with your own example.
-b) A bank department has five jobs to be processed .The following table gives the processing and
-waiting time .Assume that today is April 3 and the jobs are due on the dates as shown below :
-Jobs   Actual Processing Time   Wait Time   Total Time required   Date Job Due
-April 30
-April 21
-April 28
---- page 2 ---
-4   7   9   16   April 29
-5   4   17   25   April 27
-Use Critical Ratio Rule t o find out the sequence of doing the jobs.
-Qu. 6 Part l Multiple choice   (please answer inAnswcr Sheet clearly) --4 MARKS
-Texasplatforms is in the business of design and construction of offshore oil drilling platforms. Because
-of the large investment involved in the end products and :heir inventory, they only produce to
-customer order. Answer the following 3 questions)
-a)The manufacturing strategy of the Company is most likely to involve :
-I.   Very long Lead Time
-II.   High Level of Inventory
-Ill.   Project Manufacturing
-IV.   Using PERT Network Scheduling
-A) lonly B) 1 and I1 C) I, lland Ill   D)   I,II,III, IV
-b)The company's order qualifier will be :
-i) expertise in design and construction II) Precision in bidding for the Job
-iii) Reliability of delivery promises iv) Delivery Speed
-A)   l only B) land II C) I, lland Ill   D)   I,II,III, IV
-c)The company's production scheduling is most likely to involve :
-i) MRP ii) CRP iii) PERT iv) JIT/Lean
-A) ionly 8) iand ii C) i,iiand iii   D)   I, ii,iii,iv
-d) A company is manufacturing Chlorine using electrolysis process. Chlorine is produced in
-specially designed tanks, passed through pipelines and stored in large storage Tanks from
-where it is transported by Tankers /Special Trucks.
-The most likely production choice, as per Vol-Variety Matrix, for the company should be :
-)   i)   Project Manufacturing ii) Batch Manufacturing
-iii) Continuous Process Manufacturing   iv) Discrete Mass Scale Manufacturing
-A) iv only B) iand ii C) iiand iii   D)   iii only
-Qu 6. Part I1 ANSWER either A or B   ........6 MARKS
-A. Explain the following Terms in Lean Operations :   !&
-a) Heizunka b) Andon c) Milk Run d) keiretsu a) Poka Yoke f) TPM
-B. Explain six sigma and DMAIC .Explain any two tools that can be used in different stages of DMAIC.
-````
-
-## 2011-12 · Re-Exam · Trim 5 · paper 09beae7d5a98
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION MANAGEMENT/OPERATION RESEARCH BATCH 2011-12 RE EXAM0005.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16/06/2014
-- Text: ocr (4 pages), mean OCR confidence 85.2
-
-````text
-SVEKM’s NMIMS :
-__.MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Programme: MCA : Year: I Trimester: Vv
-Academic Year: 2013-14 Batch : 201
-Subject : Operation Research
-Marks: 100
-Date : 16/06/2014 Time : 2.00 pm to 5.00 pm
-
-Durations: 3 (hrs)
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Cover of the Answer Book, which is provided for their use.
-NB: 1. Attempt any 5 questions.
-2. All questions carry equal marks.
-"3. Answer to each new question to be started on a fresh page.
-4. Figure in brackets indicates full marks.
-5. Make suitable assumptions if required.
-
-Q.1 A farmer has 1000 acre of land on which he can grow corn, wheat and soyabean. Each [20]
-acre of corn costs Rs. 100 for plantation requires 7 men-days of work and yields a profit
-of Rs. 30. Each acre of wheat costs Rs. 120 for plantation requires 10 men-days of work
-and yields a profit of Rs. 40. An acre of soyabean costs Rs. 70 for plantation requires 8
-men-days of work and yields a profit of Rs. 20. If farmer has Rs. 1,00,000 for plantation
-and can count on 8000 men-days of work, determine how may acres should be allocated
-
-to each crop to maximize profit. Formulate the LPP and solve it with Simplex/Big M
-method.
-
-Q.2 The XYZ company can produce two products A and B during the slack period. For the [20]
-next period, the production has been scheduled so that the milling machine is free for 10
-hours and skilled labour will have 8 hours of time available. The company wants to
-maximize the profit.
-
-Product | Machine time Skilled labour time (hrs/unit) Profit (Rs./unit)
-
-(hrs/unit)
-A 4 2 5
-B 2 2 3
-
-(i) Formulate the primal and dual for the above LPP.
-(ii) Solve the primal and interpret the solution of the dual.
-
-Q.3(a) Explain looping and dangling in network diagram [05]
-Q.3(b) A project consists of following activities [15]
-Activity | Optimistic | Most | Pessimistic | Activity | Optimistic | Most | Pessimistic
-time | likely | time(week time likely | time(week
-(week) time ) (week) time )
-(week (week
-) )
-1-2 3 3 3 4-6 4 6 8
-2-3 3 6 9 5-6 0 0 0
-2-4 Z 4 6 5-7 3 4 5
-3-5 4 6 8 6-7 2 5 8
-
-1. Draw PERT network Find expected task duration and the variance
-2. Find critica] path. What is the expected length of the critical path? What is
-
-14
---- page 2 ---
-variance of critical path
-3. The probability that the project will be completed in 23 weeks.
-
-Q.4(a) A marketing manager has 5 salesmen and 5 sales districts. Considering the capabilities [10]
-of the salesmen and the nature of districts, the marketing manager estimates that sales
-per month (in 000 rs) for each salesman in each district would be as follows. Find the
-assignment of salesmen to districts that will result in maximum sales.
-
-Salesmen Districts
-A B GC D E
-1 32 38 40 28 40
-2 40 24 28 21 36
-3 41 27 33 30 37
-4 22 38 4] 36 36
-5 29 33 40 35 39
-
-Q.4(b) A manufacturer wants to ship 22 loads of his product as shown in the table. The matrix [10]
-gives the kilometers from Source to destination. Shipping costs are Rs. 10 per load per
-Km. What shipping schedule should be used to minimize total transportation cost?
-
-Source Destination Supply
-I I Il “IV Vv
-A 5 8 6 6 3 8
-B 4 7 7 6 5 5
-C 8 4 6 6 4 9
-Demand 4 4 5 4 8
-
-Q.5(a) Find an optimal sequence for the problem of 4 jobs and 5 machines (when passing is not [10]
-allowed) of which processing time (in hrs) is given. Also find the total elapsed time and
-idle time for each machine.
-
-Job Machine
-A B C D E
-1 7 5 2 3 9
-2 6 6 4 5 10
-3 E} 4 5 6 8
-4 8 3 3 2 6
-
-Q.5(b) Arrival at telephone booth are considered to be Poisson with an average time of 10 [10]
-minutes between one arrival and the next. The length of phone call is assumed to be
-distributed exponentially, with mean 3 minutes.
-
-1. What is the probability that a person arriving at the booth will have to wait?
-
-2. The telephone department will install a second booth when convince that an
-arrival would expect waiting for at least 3 minutes for a phone call. By how
-much should the flow arrivals increase in order to justify a second booth?
-
-3. What is the average length of the queue that forms from time to time?
-
-4. What is the probability that it will take him more than 10 minutes altogether to
-wait for the phone and complete his call?
-
-Q.6(a) The Deena Paints Ltd. Would like to improve its inventory management policies for its [10]
-supply of the paint used for automobiles. Annual demand for such paint is 50,000 litres,
-- and the paint, which costs Rs. 20 per litre, is used at a constant rate. Annual carrying
-costs are estimated at 15 percent of the value of paint held. Each order costs Rs. 80.
-Determine
---- page 3 ---
-ir ca “aN A ys
-aK
-
-(i) How much paint should be ordered each time? 2 wpstTMB fe
-
-(ii) How often should paint be ordered? LIBRARY JE
-
-(iii) Time between two consecutive orders. A PF Zz
-
-: F : ea atte 5 i Re A
-
-(iv) What is the total annual cost associated with this policy? * Oran
-
-Q. 6(b) A sweet store keeps stock of a popular brand of sweet. Previous experience shows the [10]
-daily demand pattern for the item with associated probabilities as given below.
-Daily demand (number) 0 10 20 30 40 50
-Probability 0.01 | 0.20 | 0.15 | 0:50 0.12 0.02
-
-Using the following random numbers to simulate the demand for next 10 days.
-[25 [| 39 | 6 | 7 | 12 | 05 [| 73 | 89 | 19 | 49 |
-
-Also estimate the daily average demand for the sweet on the basis of simulated data.
-Q.7 Attempt the following (Any 4) [20]
-
-1 Define: feasible solution, basic feasible solution, optimal basic feasible solution,
-alternative (multiple) solution.
-
-2 Explain Kendall’s notation for classification of the queuing models.
-3 What is simulation? State its advantages and disadvantages.
-
-4 For finding optimal solution for processing n jobs through m machines which conditions
-should be satisfied?
-
-5 Find the initial solution for the transportation problem with least cost method
-
-Source Destination Supply
-1 2 3 4
-A 19 30 50 10 7
-B 70 30 40 60 9
-(o 40 8 70 20 18
-Demand 5 8 7 14
-xX x
---- page 4 ---
-Table 3 Normal Distribution
-
-An entry in the table is the areas under the entire normal curve between normal variate Z = 0 and a
-positive value of Z. Areas for negative value of Z are obtained by. symmetry.
-
-Zz Second Decimal
-to First -
-Decimal .00 O1 02 .03 04 05 _ 06 07 08 09
-0.0 .0000 0040 .0080 0120 .0160 .0199 0239 .0279 0319 0359
-0.1 0398 .0438 0478 .0517 0557 .0596 .0636 .0675 0714 .0753
-0.2 0793 0832 0871 .0910 0948 .0987 1026 -1064 —.1103 141
-0.3 1179 1217 1255 1293 213311, -1368 1406 1443 1480 .1517
-0.4 1554 1591 1628 -1664 .1700 .1736 1772 1808   .1844 1879
-0.5 1915 1950 1985 2019 2054 2088 _,2123 .2157 —.2190 2224
-0.6 2257 2291 2324 2357 2389 -2422 2454 2486 = .2518 2549
-0.7 2580 2611 2642 2674 2704 .2734 2764 2794 — .2823 2852
-0.8 2881 .2910 .2939 =.2967-—.2995. 3023-3051 ~—-.3078 3106 = .3133
-0.9 3159 3186 3212 3238 3264 3289 3315 3340 = 3365 3389
-1.0 3413 3438 3461 3485 3508 23531 - .3554 3577. 3599 3621
-ll 3643 3665 3686 .3708 3729 3749 3770 3790 3810 3830
-12 3849 3869 3888 3907 3925 3944 3962 3980 = .3997 A015
-— £3 4032 4049 4066 4082 4099 A115 4131 4147 4162 A177
-1.4 4192 4207 4222 4236 A251 4265 4279 4292 4306 4319
-15 4332 4345 4357 4370 4382 4394 4406 4418 4429 4441
-| 1.6 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545
-| 17 4554 4564 4573 4582 A591 4599 4608 4616 4625 4633
-\ 1.8 4641 4649 4656 4664 4671 4678 4686 4693 4699 4706
-| 19) 4713 4719 4726 4732 4738 AT44 ATSC 4756 4761 4767
-2.0 4772 4778 4783 4788 4793 4798 4803 4808   .4812 4817
-21 4821 4826 4830 4834 4838 4842 4846 4850 4854 4857
-| 22 4861 4865 4868 4871 4874 4878 4881 4884   .4887 4890
-23 4893 4896 4898 4901 4904 4906 4909 A911 4913 A916
-24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936
-25 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952
-2.6 4953 4955 4956 4957 4959 4960 4961 4962 4963 4964
-\ 2.7 4965 4966 4967 4968 4969 4970 A971 4972 4973 4974
-\ 2.8 4974 4975 4976 4977 4977 4978 4979 4979 4980 4981
-| 29 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986
-| 3.0 4986 4987 4987 4988 4988 4989 4989 4989 4990 4990
-|
-Ly
-
-vy
-
-/
 ````
 
 ## 2010-11 · Exam not stated · Trim 10 · paper 5ebc0095b20d
@@ -4541,6 +4553,7 @@ Q8. Explain briefly JIT and MRP (10)
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/2009-2010(170).pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (4 pages), mean OCR confidence 92.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 3 SVKM'S \*%\
@@ -4710,7 +4723,6 @@ d) Flexible Manufacturing Systems (FMS)
 (5 marks)
 
 Machine
-Job] A B Cc D E
 I 5 6 4 8 3
 Il 6 4 9 8 5
 I 4 3 2 5 4
@@ -5003,6 +5015,7 @@ RT a nea ors
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/2009-2010 batch re exam(12).pdf` (+2 identical copies)
 - Printed on paper: max marks: 50
 - Text: ocr (3 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -5135,7 +5148,6 @@ a. Product Idea Mortality Curve (Diagram required)
 b. Basic functions of a business
 c. 3 Types of inventory costs and how to reduce them?
 
-d. Malcolm Baldridge Award & TBEM
 
 Ken XK x
 ````
@@ -5694,6 +5706,7 @@ ease ae
 - Programmes: MBA TECH / MANUFACTURING
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MANUFACTURING/TRIM XII/OPRATION MANAGEMRNT/2007-2008(166).pdf`
 - Text: ocr (6 pages), mean OCR confidence 93.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 yd
@@ -6050,7 +6063,6 @@ Account Payable \ 2 a ) 3
 32 What are different Ageing reports \ 45 cS
 
 \
-a. AP Ageing by voucher (28.17.4) /AP Ageing by _b. Voucher register (28.3.1) fe i
 Due (28.17.5) /AP ageing as of effective (28.9.12)
 date(28.17.6)
 c. Supplier activity inquiry (28.13) d. ABC Classification Report in Inventory Module
@@ -6152,239 +6164,6 @@ database and imported into manufacturing unit's database.
 —— x
 
 ~ ye
-````
-
-## Year not stated · Exam not stated · Trim 10 · paper 02f96973387a
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/scan0001(13).pdf`
-- Printed on paper: duration hours: 2; exam date: 1/10/2012
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA (Tech.) (All Streams) Year: IV Trimester: X
-Academic Year : 2012-2013
-
-Batch: 2011-2012 . 50
-Subject: Operations Management Marks:
-
-oe ° Time: 2.00 pm To 4.00 pm
-Date: 1/10/2012 Duration: 2 hrs.
-
-Re - Examination
-
-NB: 1. All Questions have equal marks
-2.Answer any five (5) questions.
-3. No Laptop or Book is allowed in Examination Hall .
-
-Question No.1. | What are the principles of Theory of Constraints that we can learn from the book
-“Goal” . Explain the concept of Drum-Buffer and Rope. What is the use of Time Buffer and Space Buffer.
-
-Qu. 2 i) Explain with examples , in Inventory Management, the following Terms :
-a) A-B-C Analysis b) Cycle Counting c) Re-order Level d) Buffer Stock .
-
-ii) A company currently has 200 units of a product on hand that it orders every two weeks when the
-sales person visits the premises . Demand for the product averages 20 units per day with asd of 5
-units. Lead Time is 7 days . Management has a policy of not stocking out probability of 95% for this
-product. The sales person is expected to come late evening today when 20 units would have sold
-already. How many units should be ordered now. (Value of Z for 95% =1.640).
-
-Question 3 : Given the following data , formulate a inventory management system
-Item Cost : Rs.10 Ordering Cost Rs.250 Annual Holding Cost : 33% of item cost
-Annual Demand :25750 std dev of weekly demand 25 per week
-
-Average Demand : 515 per week; —LT= 1 WEEK ; Service Probability : 95%
-
-a. State The Order Quantity and Re Order Point
-
-b. Determine the Annual Holding and Order Costs.
-
-c. Ifa price break of Rs 50 per order was offered for purchase quantities of over 2000, would you
-take advantage of it How much would you save annually.
-
-;
-
-}
-Qu. 4 Explain the Following Terms with examples :
-
-\
-
-¢
-mastellplanning , Material Requirement Planning , Rough Cut Capacity Planning , Input Output Control,
-DMAIC in Six Sigma ,Critical To Quality(CTQ)
-
-Qu 5. a) What is Johnson’s Rule in scheduling . Explain with your own example .
-
-b) Abank department has five jobs to be processed . The following table gives the processing and
-waiting time .Assume that today is April 3 and the jobs are due on the dates as shown below :
---- page 2 ---
-Jobs Actual Processing Time Wait Time Total Time required Date Job Due
-1 2 12 14 April 30
-2 5 8 13 April 21
-3 9 15 24 April 28
-4 7 9 16 April 29
-5 4 22 26 April 27
-
-Use Critical Ratio Rule to find out the sequence of doing the jobs .
-
-Qu.6 Part! Multiple choice (please answer in Answer Sheet clearly) ---4 MARKS
-
-ACD company is in the business of design and construction of offshore oil drilling platforms . Because of
-the large investment involved in the end products and their inventory , they only produce to customer
-order. Answer the following 3 questions)
-a)The manufacturing strategy of ACD Company is most likely to involve :
-I. Very long Lead Time
-
-I. High Level of Inventory
-
-Hl. Project Manufacturing
-
-IV. Using PERT Network Scheduling
-
-A) lonly B)landil C) |,llandill D) LIL, IN, 1v
-
-b)ACD company’s order qualifier will be:
-i) expertise in design and construction II) Precision in bidding for the Job
-iii) Reliability of delivery promises iv) Delivery Speed
-, A) lonly B)landil C) I,llandill D) 41,111, IV
-cyach company’s production scheduling is most likely to involve:
-i) MRP ii) CRP iii) PERT iv) JIT/Lean
-A) ionly B)iandii C) i, iiandiii D) 1, iiiii,iv
-
-d) Acompany is manufacturing Chlorine using electrolysis process . Chlorine is produced in
-specially designed tanks , passed through pipelines and stored in large storage Tanks from
-where it is transported by Tankers /Special Trucks .
-
-The most likely production choice , as per Vol-Variety Matrix , for the company should be:
-i) Project Manufacturing ii) Batch Manufacturing
-iii) Continuous Process Manufacturing — iv) Discrete Mass Scale Manufacturing
-
-A)yiv only B)iandii C) iiandiii D) iii only
-
-Qu 6. Part sss.6 MARKS
-Explain the following Terms in Lean Operations :
-a) Heizunka b) Andon c) Milk Run d) keiretsu e) Poka Yoke f) TPM
-
-\N
-````
-
-## Year not stated · Exam not stated · Trim 10 · paper 9509831686ba
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/OPERATION MANAGEMENT/scan0019(1).pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 01/10/2012
-- Text: ocr (2 pages), mean OCR confidence 88.7
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA (Tech) (All Stream) Year: IV Trimester: X
-Academic Year : 2012-2013
-
-3
-
-Subject: Operations Management ; Marks: 50
-Time: 2.00 p.m TY's
-Date: 01/10/2012 Duration: 2 hrs.
-
-Final - Examination
-
-NB: 1. All Questions have equal marks
-2.Answer any five (5) questions.
-3. No Laptop or Book is allowed in Examination Hall .
-
-Qu. 1. i) Explain with examples , in Inventory Management, the following Terms :
-a)A-B-C Analysis b) Cycle Counting c) Re-order Level d) Buffer Stock .
-
-ii) A company currently has 200 units of a product on hand that it orders every two weeks when the
-sales person visits the premises . Demand for the product averages 20 units per day witha sd of 5
-units. Lead Time is 7 days . Management has a policy of not stocking out probability of 99% for this
-product. The sales person is expected to come late evening today when 20 units would have sold
-already. How many units should be ordered now. (Value of Z for 99% =2.33).
-
-Question No.2. Mention any 5 principles of Theory of Constraints that we can learn from the book
-“Goal” . Explain the concept of Drum-Buffer and Rope. What is the use of Time Buffer and Space Buffer.
-
-Question 3 : Given the following data , formulate a inventory management system
-Item Cost : Rs.20 Ordering Cost Rs.250 Annual Holding Cost : 30% of item cost
-Annual Demand :25750 std dev of weekly demand 25 per week
-
-Average Demand : 515 per week; —LT= 1 WEEK ; Service Probability : 95%
-
-a. State The Order Quantity and Re Order Point
-
-b. Determine the Annual Holding and Order Costs. _
-
-c. Ifa price break of Rs 50 per order was offered for purchase quantities of over 2000, would you
-take advantage of it .How much would you save annually.
-
-Qu. 4 Explain‘the Following Terms with examples :
-
-Master piers , Material Requirement Planning , Rough Cut Capacity Planning , Input Output Control,
-DMAIC in Six Sigma ,Critical To Quality(CTQ)
-
-Qu 5. a) What is Johnson’s Rule in scheduling . Explain with your own example .
-
-b) A bank department has five jobs to be processed . The following table gives the processing and
-waiting time Assume that today is April 3 and the jobs are due on the dates as shown below:
-
-Vo
---- page 2 ---
-Jobs Actual Processing Time WaitTime Total Time required Date Job Due
-
-a. 2 vf ab § April 30
-
-2 5 8 13 April 21
-
-3 9 12 19 April 28
-
-4 ae 9 16 April 29
-
-5 4 17 25 - April 27 Sane
-
-Use Critical Ratio Rule to find out the sequence of doing the jobs.
-Qu.6 Part! Multiple choice (please answer in Answer Sheet clearly) ---4 MARKS
-
-TexasPlatforms is in the business of design and construction of offshore oil drilling platforms . Because
-of the large investment involved in the end products and their inventory , they only produce to
-customer order. Answer the following 3 questions)
-a)The manufacturing strategy of the Company is most likely to involve :
-|. Very long Lead Time
-
-ll. High Level of Inventory
-
-ill. Project Manufacturing
-
-IV. Using PERT Network Scheduling
-
-A) lonly B)landit C) t,lland til © D) LH, IV
-
-b)The company’s order qualifier willbe :
-i) expertise in design and construction II) Precision in bidding for the Job
-iii) Reljability of delivery promises iv) Delivery Speed
-A) lonly B)land il’ C) 1, Wand ill D) 4,11, IV
-c)The company’s production scheduling is most likely to involve:
-i) MRP ii) CRP iii) PERT iv) JIT/Lean
-A) ionly B)iandii C)i,iiandiii D) |, ijiii,iv
-
-d) Acompany is manufacturing Chlorine using electrolysis process . Chlorine is produced in
-specially designed tanks , passed through pipelines and stored in large storage Tanks from
-where it is transported by Tankers /Special Trucks .
-The most likely production choice , as per Vol-Variety Matrix , for the company should be :
-i} ray Manufacturing ii) Batch Manufacturing :
-iii) Cortinuous Process Manufacturing — iv) Discrete Mass Scale Manufacturing
-Qu 6. Part Il 6 MARKS
-Explain the following Terms in Lean Operations :
-
-A) ivonly B)iandii C) fiandiii D) iii only
-a) Heizunka b) Andon c) Milk Run d) keiretsu e) Poka Yoke f) TPM
 ````
 
 ## Year not stated · Exam not stated · paper c8fcd088f164

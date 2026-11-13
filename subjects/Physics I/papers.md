@@ -1,8 +1,267 @@
 # Physics I: question papers in full
 
-28 unique papers · 2014-15 to 2023-24 · Common (all branches)
+28 unique papers · 2014-15 to 2024-25 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2024-25 · Re-Exam · Sem 1 · paper f0cf2492b217
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2023-24 Re Exam.pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+AS
+
+SVKM’S NMIMS SS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B.Tech Integrated Stream: All Sty eamS Year: I Semester: I
+
+Subject: Physics I Time: 03 hrs (jo: 00¢mto 1:00pm)
+Date:_28 / 1/2024 . No. of Pages: 02
+
+Marks:_100
+
+Re-Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+-
+
+1) Question No. 1 is compulsory. Tey
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: + [20M]
+ang: a. Write dimensional formula of i) Force ii) Pressure iii) Density and iv) Momentum [4M]
+wot e b. Explain instantaneous velocity and instantaneous acceleration. [4M]
+mie ° State Newton’s first and second law of motion and give examples for each. [4M]
+
+G mete d. Define the term power. Is it a scalar or vector quality? Give dimensions and units. [4M]
+cae: e. Explain the following with examples: i) Rigid body and ii) System of Particles [4M]
+
+Q [20M]
+
+a. Find the Dimensional formula for the i) Universal constant of Gravitation, G and ii) Surface
+Tension S, using the following data:
+
+te ge F= onan , where F is the force, m1, m2 are the masses and ris the distance and [10M]
+S= oe where p is the density, g is the gravitational acceleration,
+
+ris the radius and h is the height.
+
+C023: b What is meant by unit of a physical quantity? List the properties a good unit should have
+
+BL- 2,3 and state different types of system of units. [sxe
+c0.23:   & A jet plane starts from rest with an acceleration of 3 ms” and makes a run for 35 s before taking
+BL-23. off. What is the minimum length of the runway and what is the velocity of the jet at take-off? [4M]
+--- page 2 ---
+Q3 [20M]
+
+Derive the following equations of motion for an object moving with constarit or uniform
+
+acceleration along a straight line: -
+CO-13; a, ' oe
+
+BL-3 (i) v=ut at [10M]
+(i) ssutt Sat?
+(ii) v2 — uw? = 2as
+CO-1,2;   b. Differentiate between fundamental quantities and derived quantities. Give two examples of
+[6M]
+BL- 1,2 each.
+c. The acceleration of a cart started att=0, varies | eal
+with time as shown in figure. Find the distance &
+CO-2.3: travelled in 30 s and draw the position-time ‘|
+AL 5 ; graph 10 20 30] Time in second [4M]
+-5.0+
+Q4 [20M]
+C0-1.3: a. Define the terms momentum and impulse. Give the S.I. units and dimensional formula and -
+BL-1,3 prove that impulse is equal to change in momentum. Uva]
+
+ey
+
+CO-1,3;   b. Explain collision, elastic collision and inelastic collision. Give minimum two examples of each. [6M]
+BL-1,3
+
+CO-2,3;   c¢. A 15g bullet is fired from a gun of mass 2 kg with a speed of 1000m/s. Find the recoil velocity
+[4M]
+BL- 2,3 of gun.
+
+Q5
+a. Describe the various forms of energy in details. State and explain the principle of conservation
+CO-1,3;
+BL-13 of energy. : [10M]
+CO-2.3: b. Calculate the Potential energy, Kinetic energy and the total energy of a car of mass 1200 kg
+BL-23 which climbs up a hill 100 m high and then moves on a level road with speed of 20m/s. [6M]
+; (Take g = 9.8m/s*) -
+00-23. ¢ A shell moving with a velocity of 1000 m/s, suddenly bursts into two fragments which continue
+BL- 23 * to move in same direction with velocities 1200m/s and 400m/s. What is the ratio of masses of [4M]
+
+the two fragments?
+
+Q6 [20M]
+
+Explain Center of Mass of a rigid body. Give the location of the centre of mass of a (i) sphere, (ii) cylinder,
+
+oe 7 (iii) ring, and (iv) cube, each of uniform mass density. Does the centre of mass of a body necessarily lie [1UM]
+: inside the body?
+CO-1,2; State the work- energy theorem. Prove it for a constant force.
+BL- 1.2 b. [6M]
+C023: « Find the center of mass of three particles at the vertices of an equilateral triangle. The masses of
+BL-23 the particles are 100 g, 150g, and 200g respectively. Each side of the equilateral triangle is 0.5 [4M]
+; m long.
+Q7 [20M]
+Derive the condition for maximum velocity of a vehicle to go round on a levelled curve without
+CO-1,2; a. [10M]
+BL- 1,3 skidding.
+CO-2,3; b A ball thrown up is caught by the thrower after 4 s. How high did it go and with what velocity [6M]
+BL- 2,3 "__was it thrown? How far below the ball will be from its highest point after 3s from start?
+CO - 2,3; c State the order of magnitude and number of significant figures: [4M]
+````
+
+## 2024-25 · Re-Exam · Sem 1 · paper 4d59a803ccf9
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2023-24 Re Exam_4d59a803cc.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 86.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B.Tech Integrated Stream: All Streams |
+Subject: Physics I
+
+: Time: 03 hrs (2toopry fo5:00pm. )
+Date:_17 /2 /2025 , O2
+
+Year: I Semester: I
+
+No. of Pages:
+Marks: 100
+
+Re-Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) QuestionNo. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20M
+SS ee a Write the Dimensional formula of: i) Frequency, ii) Power, iii) Work and iv) Momentum [4M]
+oo b. Explain average velocity and average acceleration. [4M]
+See °- Define the terms momentum and impulse. [4M]
+CO-1,3; Explain Kinetic energy and Potential energy and write its formulae.
+
+BL-12 & i
+CO-1,2; What are the types of motion a rigid body can perform? Explain.
+Blas 4” Ml
+
+Q [20M
+
+a. Define dimension and dimensional equation. Give two examples.
+
+co- The density of earth is given by p = Kg*r? G? , where the S.I units of g, r and G are :
+
+1,2,3; ms”, m and m’kg"!s” respectively. Using the concept of dimension, [1L0M"
+BL- 1.23 obtain the values of x, y and z.
+C023: b Using dimensional analysis, find the conversion factor between the S.I units and C.G.S. unit of
+BL-23 "following quantities: i) volume and ii) Energy [6M]
+co-23- © A body travels from A to B at 40 ms" and from B to A at 60 ms". Calculate the average speed and
+BL-23. average velocity. [4M]
+--- page 2 ---
+Q3 [20M
+CO 782 Explain projectile motion and find the expressions for path of projectile, maximum height, time of [OM
+BL-3 "maximum height.
+
+cal quantity? List the properties a good unit should have
+
+b. What is meant by unit of a physi
+Cco-1,2; [6M]
+BL- 1,2 and state different types of system of units?
+c. A body starting from rest accelerates uniformly along a straight line at the rate of 10 ms™ for 5 seconds.
+CO-2,3; It moves for 2 seconds with uniform velocity of 50 ms", Then it retards uniformly and comes to rest in [4M]
+BL- 2,3 3 s. Draw velocity-time graph of the body and
+find the total distance travelled by the body.
+
+Q4 [20M
+CO-1,3;. 4 Derive the mathematical form of law of conservation of momentum. 10M
+BL-1,3 } [10M
+CO-1,3;   ». List different types of Collisions. What is the coefficient of restitution and explain its significance? [6M]
+BL-1,3 E
+60-23: c. A hockey ball of mass 200 g travelling at 10 m/s is struck by a hockey stick so as to return it along its
+a 33 - original path with a velocity at 5 m/s. Calculate the change of momentum occurred in the motion of [4M]
+
+the hockey ball by the force applied by the hockey stick.
+
+Q5
+
+a. Explain work with examples. Write its dimensional formula and units. State the work- energy
+CO-1,3; : 2
+BL-13 theorem. Prove it for a constant force. [10M.
+b. A vehicle of mass 15 quintal climbs up a hill 200 m high. It then moves on a level road with speed of
+CO-2,3; 30 ms‘. Compute the potential energy gained by it and its total mechanical energy while running on [6M]
+BL- 2,3 the top of the hill.
+. A rocket travelling in a horizontal straight line at 10km/s explodes and breaks up into two parts of
+CO-2,3; * mass 1 ton and 0.2 ton respectively. Both parts travel in same direction as before but measurements 4M]
+BL=23 show lighter section is moving 1000m/s faster than the heavier part. Calculate the velocity of each l
+section.
+Q6 [220M
+ae a. Explain center of mass and derive the equation of centre of mass for system of particles. [10M
+[6M]
+
+CO-1,2; 4 Differentiate between Kinetic Energy and Potential Energy.
+
+BL- 1,2
+Conus Four particles of masses 1kg, 2kg, 3kg and 4kg respectively are placed at th
+oy ‘2m in x-y plane. If the origin of the coordinate system is taken at mass lkg,
+
+e corner of a square of side
+find out the position of the [4M]
+
+BL- 2,3
+
+= center of mass of the body.
+
+QF [20M
+oe By Define Force and Inertia. Explain different types of inertia with one example. [1oM:
+Cope 6 A jet plane starts from rest with an acceleration of 3 ms” and makes a run for 35 s before taking off.
+
+BL-2 3 - What is the minimum length of the runway and what is the velocity of the jet at take-off? [6M]
+
+CO-23; State the order of magnitude and number of significant figures: [4M]
+
+````
 
 ## 2023-24 · Final-Exam · Sem 1 · paper 405605c7a2f1
 
@@ -166,263 +425,240 @@ if
 von
 ````
 
-## 2023-24 · Re-Exam · Sem 1 · paper f0cf2492b217
+## 2023-24 · Re-Exam · Sem 1 · paper caec892e1642
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2023-24 Re Exam.pdf`
-- Printed on paper: duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.8
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 86.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-AS
-
-SVKM’S NMIMS SS
-
+i SVKM’S NMIMS ei
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
+Academic Year: 2023-2024
 
-Program: B.Tech Integrated Stream: All Sty eamS Year: I Semester: I
+Program: B. tech Integrated Stream : All stream : Year: I** Semester: I Sa
 
-Subject: Physics I Time: 03 hrs (jo: 00¢mto 1:00pm)
-Date:_28 / 1/2024 . No. of Pages: 02
+Subject: Physics I ; Time: 3 hrs ({0:00to 12 00)
+Date:_24 / 114 /22, “No. of Pages: 2 i
+Marks: 100 , Si
 
-Marks:_100
+RE- Examination (2022-2023)
 
-Re-Examination (Batch 2023-24)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
 
--
-
-1) Question No. 1 is compulsory. Tey
-
-2) Out of remaining questions, attempt any 4 questions.
+2) Out of the remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5) Answer each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
+6) Figures in brackets on the right-hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql Answer briefly: + [20M]
-ang: a. Write dimensional formula of i) Force ii) Pressure iii) Density and iv) Momentum [4M]
-wot e b. Explain instantaneous velocity and instantaneous acceleration. [4M]
-mie ° State Newton’s first and second law of motion and give examples for each. [4M]
+Ql Answer briefly: [20]
+CO-2;S0-1; | 3: | Distinguish between Accuracy and Precision of measurement. Explain it with the help of an 4
+BL-2 example.
 
-G mete d. Define the term power. Is it a scalar or vector quality? Give dimensions and units. [4M]
-cae: e. Explain the following with examples: i) Rigid body and ii) System of Particles [4M]
+CO-3;S0-1; |b. : PEL ae F 4
+BL2 Explain the terms speed and velocity. List any four characteristics of velocity.
 
-Q [20M]
+CO-1;S0-1; | ¢. | A 1,000kg vehicle moving with a speed of 20ms" is brought to rest at a distance of 50m. Calculate 4
+BL-1 the unbalanced force acting on the vehicle. es
+d. | A ball is shot vertically upward with a given initial velocity. It reaches a maximum height of 50m.
 
-a. Find the Dimensional formula for the i) Universal constant of Gravitation, G and ii) Surface
-Tension S, using the following data:
+CO- 1; SO- 1;
 
-te ge F= onan , where F is the force, m1, m2 are the masses and ris the distance and [10M]
-S= oe where p is the density, g is the gravitational acceleration,
+BL-l Calculate the maximum height at which the ball will reach if, on a second shot, the initial velocity is
+doubled. :
 
-ris the radius and h is the height.
+ris *SO-1s |e. | Define the radius of gyration. State the formula for the radius of gyration. 4
 
-C023: b What is meant by unit of a physical quantity? List the properties a good unit should have
+@ , [20]
 
-BL- 2,3 and state different types of system of units. [sxe
-c0.23:   & A jet plane starts from rest with an acceleration of 3 ms” and makes a run for 35 s before taking
-BL-23. off. What is the minimum length of the runway and what is the velocity of the jet at take-off? [4M]
+Define the fundamental and derived quantities. List any 4 derived quantities with their| 6
+CO- 1; SO- 2; dimensional formula and units. 4
+Bf! "| Find the order of magnitude and number of significant figures in the following:
+
+
+CO-2;SO-2; | b. | Define projectile motion and derive the equations of a projectile for the displacement and 10
+BL-1,2 velocities in the x and y directions. Find the time to reach the maximum height.
+
+Q3 [20]
 --- page 2 ---
-Q3 [20M]
+s
 
-Derive the following equations of motion for an object moving with constarit or uniform
+CO-2; Define the Most probable value and absolute error, and write the formula for the same. 4
 
-acceleration along a straight line: -
-CO-13; a, ' oe
+SO- 3; a. | List the applications of dimensional analysis and discuss any one application in details with 6
+ice one appropriate example.
+6
+CO-1: State and prove the law of conservation of momentum.
+SO-2; b. eae
+BL-1 A ball is thrown upward with an initial velocity of 50 ms", After how much time will it 4
+return?
+Q4 [20
+CO-3; SO-1; a. ‘ ; F : Sage .
+BL-2 Derive the expression for the maximum velocity of a vehicle on a leveled curved road. 10
+CO-3; SO-1; ele i ; ;
+BL-1 ‘ State the work-energy theorem. Prove it for a constant and variable force. 10
+Qs [20
+a. | Define the Coefficient of restitution and state its mathematical form. What is the importance | 4
+of finding it?
+= "ia How is work done measured when (i) the force acts along the direction of motion of the
+. body and (ii) the force is inclined to the direction of motion of the body?
 
-BL-3 (i) v=ut at [10M]
-(i) ssutt Sat?
-(ii) v2 — uw? = 2as
-CO-1,2;   b. Differentiate between fundamental quantities and derived quantities. Give two examples of
-[6M]
-BL- 1,2 each.
-c. The acceleration of a cart started att=0, varies | eal
-with time as shown in figure. Find the distance &
-CO-2.3: travelled in 30 s and draw the position-time ‘|
-AL 5 ; graph 10 20 30] Time in second [4M]
--5.0+
-Q4 [20M]
-C0-1.3: a. Define the terms momentum and impulse. Give the S.I. units and dimensional formula and -
-BL-1,3 prove that impulse is equal to change in momentum. Uva]
+A wooden block of mass 10.0 kg slides down an incline of inclination 45° and length 10 m.
+Calculate the work done by the force of gravity in both cases.
 
-ey
+C0-1,4;80-1; |b. | Define the moment of inertia and give the physical significance of finding the moment of | 4
+BL-1 ‘ ;
+inertia.
 
-CO-1,3;   b. Explain collision, elastic collision and inelastic collision. Give minimum two examples of each. [6M]
-BL-1,3
+Two point masses 4 kg and 8 kg are at 3m and 10 m from the origin on X-axis. Locate the | 6
+position of the center of mass of the two-point masses from the origin.
 
-CO-2,3;   c¢. A 15g bullet is fired from a gun of mass 2 kg with a speed of 1000m/s. Find the recoil velocity
-[4M]
-BL- 2,3 of gun.
+Q6 e [20
+C01; SO-11; a | State and prove the parallel axis theorem. 6
+BL-2 Establish vector relation between linear velocity and angular velocity 4
+rb | Derive the following equations of motion for an object moving with constant or uniform
+CO-1; SO-11; acceleration along a straight line:-
+BL-3 Lis peta 2 a 10
+Q.7
+a | Define the following terms:- :
 
-Q5
-a. Describe the various forms of energy in details. State and explain the principle of conservation
-CO-1,3;
-BL-13 of energy. : [10M]
-CO-2.3: b. Calculate the Potential energy, Kinetic energy and the total energy of a car of mass 1200 kg
-BL-23 which climbs up a hill 100 m high and then moves on a level road with speed of 20m/s. [6M]
-; (Take g = 9.8m/s*) -
-00-23. ¢ A shell moving with a velocity of 1000 m/s, suddenly bursts into two fragments which continue
-BL- 23 * to move in same direction with velocities 1200m/s and 400m/s. What is the ratio of masses of [4M]
+CO-1; SO-11; A distance displacement B Power and its all forms unit C conservative and non - 20
+BL-1 conservative forces with one example of each D Contact and non-contact force with two
 
-the two fragments?
-
-Q6 [20M]
-
-Explain Center of Mass of a rigid body. Give the location of the centre of mass of a (i) sphere, (ii) cylinder,
-
-oe 7 (iii) ring, and (iv) cube, each of uniform mass density. Does the centre of mass of a body necessarily lie [1UM]
-: inside the body?
-CO-1,2; State the work- energy theorem. Prove it for a constant force.
-BL- 1.2 b. [6M]
-C023: « Find the center of mass of three particles at the vertices of an equilateral triangle. The masses of
-BL-23 the particles are 100 g, 150g, and 200g respectively. Each side of the equilateral triangle is 0.5 [4M]
-; m long.
-Q7 [20M]
-Derive the condition for maximum velocity of a vehicle to go round on a levelled curve without
-CO-1,2; a. [10M]
-BL- 1,3 skidding.
-CO-2,3; b A ball thrown up is caught by the thrower after 4 s. How high did it go and with what velocity [6M]
-BL- 2,3 "__was it thrown? How far below the ball will be from its highest point after 3s from start?
-CO - 2,3; c State the order of magnitude and number of significant figures: [4M]
-BL- 2,3 : a) 0.00345 kg and b) 3045 kg
+examples of each E Translator and motion and rotational motion with appropriate example
 ````
 
-## 2023-24 · Re-Exam · Sem 1 · paper 4d59a803ccf9
+## 2023-24 · Re-Exam · Sem 1 · paper fa92b6de5ac4
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2023-24 Re Exam_4d59a803cc.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 86.8
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2022-23 Re Exam_fa92b6de5a.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 86.7
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
+AC| oJ) -
 
-Program: B.Tech Integrated Stream: All Streams |
-Subject: Physics I
+SVKM’S NMIMS ¥
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& & ENGINEERING G
+Academic Year: 2023-2024
+Program: B. tech Integrated Stream : All streams
 
-: Time: 03 hrs (2toopry fo5:00pm. )
-Date:_17 /2 /2025 , O2
+bj i 3h t 2006,
+Subject: Physics I Tike rs (20: ay 0 5:0 © Oy)
+Date:_C€ 06 Je2/ 2094 : No. of Pages: 2
 
-Year: I Semester: I
+Marks: 100 SSS
 
-No. of Pages:
-Marks: 100
+— oo -
+RE- Examination (2022-2023)
 
-Re-Examination (Batch 2023-24)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
 
-1) QuestionNo. 1 is compulsory.
+2) Out of the remaining questions, attempt any 4 questions.
 
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5_ questions to be attempted.
+3) In all 5 questions to be attempted.
 
-4) All questions carry equal marks.
+4) All questions carry equal marks. :
 
-5) Answer to each new question to be started ona fresh page.
+5) Answer each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
+6) Figures in brackets on the right-hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql Answer briefly: [20M
-SS ee a Write the Dimensional formula of: i) Frequency, ii) Power, iii) Work and iv) Momentum [4M]
-oo b. Explain average velocity and average acceleration. [4M]
-See °- Define the terms momentum and impulse. [4M]
-CO-1,3; Explain Kinetic energy and Potential energy and write its formulae.
+Ql Answer briefly: [20]
 
-BL-12 & i
-CO-1,2; What are the types of motion a rigid body can perform? Explain.
-Blas 4” Ml
+CO-2;SO-1; | ® | State the order of magnitude and number of significant figures in the following: 4
 
-Q [20M
+BL-2 i) 0.0058 m? ii) 2.04x 10* kg
 
-a. Define dimension and dimensional equation. Give two examples.
+CO-3;SO-1; | b. | Explain the terms distance covered and displacement. Show with an example, the distance 4
 
-co- The density of earth is given by p = Kg*r? G? , where the S.I units of g, r and G are :
+BL-2 covered is not zero but displacement is zero for the same incidence.
 
-1,2,3; ms”, m and m’kg"!s” respectively. Using the concept of dimension, [1L0M"
-BL- 1.23 obtain the values of x, y and z.
-C023: b Using dimensional analysis, find the conversion factor between the S.I units and C.G.S. unit of
-BL-23 "following quantities: i) volume and ii) Energy [6M]
-co-23- © A body travels from A to B at 40 ms" and from B to A at 60 ms". Calculate the average speed and
-BL-23. average velocity. [4M]
+CO-1;80-1; | c. | Find the retarding force acting on the bike if it is brought to rest after covering a distance of | 4
+
+BL-1 20 m. The mass of the bike is 110 kg and it is running at 50 m/s.
+
+CO-1:80-1: d. | A ball is shot vertically upward with a given initial elegy. Tt reaches a maximum height of 100m.
+
+BEI os. Calculate the maximum height at which the ball will reach if on a second shot, the initial velocity is | 4
+doubled.
+
+] iSO-1y _| © | Define the moment of inertia and give the physical significance of the moment of inertia. 4
+
+Q2 [20]
+
+a. | Define the fundamental and derived quantities. List all fundamental quantities with their | 6
+
+CO- 1; SO- 2; dimensional formula and units.
+
+BL Distinguish between Accuracy and Precision in measurement. Explain it with the help of an
+appropriate example. 4
+
+CO-2;SO-2; | b. | Define projectile motion and derive the equations of a projectile for the displacement and
+
+ae 8 . . : . : 10
+BL-1,3 velocities in the x and y directions. Find the time to reach the maximum height.
+
+Q3 [20]
 --- page 2 ---
-Q3 [20M
-CO 782 Explain projectile motion and find the expressions for path of projectile, maximum height, time of [OM
-BL-3 "maximum height.
+We are given an approximate value of x is 22/7 = 3.1428571 and the true’ value is
 
-cal quantity? List the properties a good unit should have
+CO-2; 4
+S0- 3: 3.1415926. Calculate absolute, relative, and percentage errors.
+BL-1,2 List the applications of dimensional analysis and discuss any one applicatioi in detail with | 6
+one appropriate example.
+Co-1 State and prove the law of conservation of momentum. 6
+SO- 2; . . sage . + . .
+BL-1 A ball is thrown upward with an initial velocity of 100 ms". After how much time will it
+return? 4
+Q4 [20]
+CO-3; SO-1; : on . vo ae , , Hl
+BL-2 Derive the expression for the maximum velocity of a vehicle on a banked road. i
+CO-3; SO-1; : : . 10
+BL-1 State the work-energy theorem. Prove it for a constant and variable force.
+Qs [20]
+; 4
+Explain conservative and non-conservative forces. Give one example of each.
+CO-4; SO-1; How is work done measured when (i) the force acts along the direction of motion of the
+BL-1,3 body and (ii) the force is inclined to the direction of motion of the body? :
+A block of mass 5.0 kg slides down an incline of inclination 30° and length 10 m. Find the
+work done by the force of gravity. 6
+CO-1,4; SO-1; . . : P 4
+BL-1 Define the radius of gyration. State the formula for the radius of gyration.
+Calculate the ratio of radii of gyration of a circular ring and a disc of the same radius with
+respect to the axis passing through their centers and perpendicular to their planes. 6
+Q6 [20]
+CO1: SO-11: State and prove the perpendicular axis theorem. 6
+BL-2 Two point masses 4 kg and 8 kg are at 3 m and 10 m from the origin on X-axisg Locate the 4
+position of the center of mass of the two-point masses from the origin.
+Derive the following equations of motion for an object moving with saa or uniform
+CO-1; SO-11; acceleration along a straight line:-
+BL-3 1 2.2 2 a 10
+v=Vvgtat; x =Xy+t+ vot + 3 at*;v? = v6 + 2a (x — Xo) 3 Snin = Vo t+ 5 (2n — 1)
+Q.7
+COU sou11: Define the following terms:-
+BL-1 ; A Speed and velocity B Power, and its unit C Coefficient of restitution and its importance 20
 
-b. What is meant by unit of a physi
-Cco-1,2; [6M]
-BL- 1,2 and state different types of system of units?
-c. A body starting from rest accelerates uniformly along a straight line at the rate of 10 ms™ for 5 seconds.
-CO-2,3; It moves for 2 seconds with uniform velocity of 50 ms", Then it retards uniformly and comes to rest in [4M]
-BL- 2,3 3 s. Draw velocity-time graph of the body and
-find the total distance travelled by the body.
+D Contact and non-contact force with two examples of each E Friction and list its types
 
-Q4 [20M
-CO-1,3;. 4 Derive the mathematical form of law of conservation of momentum. 10M
-BL-1,3 } [10M
-CO-1,3;   ». List different types of Collisions. What is the coefficient of restitution and explain its significance? [6M]
-BL-1,3 E
-60-23: c. A hockey ball of mass 200 g travelling at 10 m/s is struck by a hockey stick so as to return it along its
-a 33 - original path with a velocity at 5 m/s. Calculate the change of momentum occurred in the motion of [4M]
-
-the hockey ball by the force applied by the hockey stick.
-
-Q5
-
-a. Explain work with examples. Write its dimensional formula and units. State the work- energy
-CO-1,3; : 2
-BL-13 theorem. Prove it for a constant force. [10M.
-b. A vehicle of mass 15 quintal climbs up a hill 200 m high. It then moves on a level road with speed of
-CO-2,3; 30 ms‘. Compute the potential energy gained by it and its total mechanical energy while running on [6M]
-BL- 2,3 the top of the hill.
-. A rocket travelling in a horizontal straight line at 10km/s explodes and breaks up into two parts of
-CO-2,3; * mass 1 ton and 0.2 ton respectively. Both parts travel in same direction as before but measurements 4M]
-BL=23 show lighter section is moving 1000m/s faster than the heavier part. Calculate the velocity of each l
-section.
-Q6 [220M
-ae a. Explain center of mass and derive the equation of centre of mass for system of particles. [10M
-[6M]
-
-CO-1,2; 4 Differentiate between Kinetic Energy and Potential Energy.
-
-BL- 1,2
-Conus Four particles of masses 1kg, 2kg, 3kg and 4kg respectively are placed at th
-oy ‘2m in x-y plane. If the origin of the coordinate system is taken at mass lkg,
-
-e corner of a square of side
-find out the position of the [4M]
-
-BL- 2,3
-
-= center of mass of the body.
-
-QF [20M
-oe By Define Force and Inertia. Explain different types of inertia with one example. [1oM:
-Cope 6 A jet plane starts from rest with an acceleration of 3 ms” and makes a run for 35 s before taking off.
-
-BL-2 3 - What is the minimum length of the runway and what is the velocity of the jet at take-off? [6M]
-
-CO-23; State the order of magnitude and number of significant figures: [4M]
-
-BL- 2,3 i a) 11809 mand b) 0.0010189 m.
+c
 ````
 
 ## 2023-24 · Re-Exam · Sem 1 · paper 7660564e6f41
@@ -696,122 +932,6 @@ Sou : Derive the equations of a projectile for the displacement and velocities 1
 © | BL2 > in x and y directions. Find the time to reach the maximum height.
 ````
 
-## 2022-23 · Re-Exam · Sem 1 · paper caec892e1642
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 86.9
-
-````text
-i SVKM’S NMIMS ei
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Program: B. tech Integrated Stream : All stream : Year: I** Semester: I Sa
-
-Subject: Physics I ; Time: 3 hrs ({0:00to 12 00)
-Date:_24 / 114 /22, “No. of Pages: 2 i
-Marks: 100 , Si
-
-RE- Examination (2022-2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-CO-2;S0-1; | 3: | Distinguish between Accuracy and Precision of measurement. Explain it with the help of an 4
-BL-2 example.
-
-CO-3;S0-1; |b. : PEL ae F 4
-BL2 Explain the terms speed and velocity. List any four characteristics of velocity.
-
-CO-1;S0-1; | ¢. | A 1,000kg vehicle moving with a speed of 20ms" is brought to rest at a distance of 50m. Calculate 4
-BL-1 the unbalanced force acting on the vehicle. es
-d. | A ball is shot vertically upward with a given initial velocity. It reaches a maximum height of 50m.
-
-CO- 1; SO- 1;
-
-BL-l Calculate the maximum height at which the ball will reach if, on a second shot, the initial velocity is
-doubled. :
-
-ris *SO-1s |e. | Define the radius of gyration. State the formula for the radius of gyration. 4
-
-@ , [20]
-
-Define the fundamental and derived quantities. List any 4 derived quantities with their| 6
-CO- 1; SO- 2; dimensional formula and units. 4
-Bf! "| Find the order of magnitude and number of significant figures in the following:
-
-i) 0.0158 m? ii) 3.04. x 10/5 kg ;
-
-CO-2;SO-2; | b. | Define projectile motion and derive the equations of a projectile for the displacement and 10
-BL-1,2 velocities in the x and y directions. Find the time to reach the maximum height.
-
-Q3 [20]
---- page 2 ---
-s
-
-CO-2; Define the Most probable value and absolute error, and write the formula for the same. 4
-
-SO- 3; a. | List the applications of dimensional analysis and discuss any one application in details with 6
-ice one appropriate example.
-6
-CO-1: State and prove the law of conservation of momentum.
-SO-2; b. eae
-BL-1 A ball is thrown upward with an initial velocity of 50 ms", After how much time will it 4
-return?
-Q4 [20
-CO-3; SO-1; a. ‘ ; F : Sage .
-BL-2 Derive the expression for the maximum velocity of a vehicle on a leveled curved road. 10
-CO-3; SO-1; ele i ; ;
-BL-1 ‘ State the work-energy theorem. Prove it for a constant and variable force. 10
-Qs [20
-a. | Define the Coefficient of restitution and state its mathematical form. What is the importance | 4
-of finding it?
-= "ia How is work done measured when (i) the force acts along the direction of motion of the
-. body and (ii) the force is inclined to the direction of motion of the body?
-
-A wooden block of mass 10.0 kg slides down an incline of inclination 45° and length 10 m.
-Calculate the work done by the force of gravity in both cases.
-
-C0-1,4;80-1; |b. | Define the moment of inertia and give the physical significance of finding the moment of | 4
-BL-1 ‘ ;
-inertia.
-
-Two point masses 4 kg and 8 kg are at 3m and 10 m from the origin on X-axis. Locate the | 6
-position of the center of mass of the two-point masses from the origin.
-
-Q6 e [20
-C01; SO-11; a | State and prove the parallel axis theorem. 6
-BL-2 Establish vector relation between linear velocity and angular velocity 4
-rb | Derive the following equations of motion for an object moving with constant or uniform
-CO-1; SO-11; acceleration along a straight line:-
-BL-3 Lis peta 2 a 10
-v=vp tat; x =X + Vott 5 at jv? = ve + 2a (x— Xp) 3 Sntn = Yot 3 (2n - 1)
-Q.7
-a | Define the following terms:- :
-
-CO-1; SO-11; A distance displacement B Power and its all forms unit C conservative and non - 20
-BL-1 conservative forces with one example of each D Contact and non-contact force with two
-
-examples of each E Translator and motion and rotational motion with appropriate example
-````
-
 ## 2022-23 · Re-Exam · Sem 1 · paper 1b375d124ae7
 
 - Departments: Common (all branches)
@@ -946,127 +1066,6 @@ b Define kinetic energy of a body write its mathematical form and its 10
 C02;SO- dimensional formal.
 
 11;BL-1,3 Derive the expression of kinetic energy using algebra.
-````
-
-## 2022-23 · Re-Exam · Sem 1 · paper fa92b6de5ac4
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2022-23 Re Exam_fa92b6de5a.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 86.7
-
-````text
-AC| oJ) -
-
-SVKM’S NMIMS ¥
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& & ENGINEERING G
-Academic Year: 2023-2024
-Program: B. tech Integrated Stream : All streams
-
-bj i 3h t 2006,
-Subject: Physics I Tike rs (20: ay 0 5:0 © Oy)
-Date:_C€ 06 Je2/ 2094 : No. of Pages: 2
-
-Marks: 100 SSS
-
-— oo -
-RE- Examination (2022-2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. :
-
-5) Answer each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-
-CO-2;SO-1; | ® | State the order of magnitude and number of significant figures in the following: 4
-
-BL-2 i) 0.0058 m? ii) 2.04x 10* kg
-
-CO-3;SO-1; | b. | Explain the terms distance covered and displacement. Show with an example, the distance 4
-
-BL-2 covered is not zero but displacement is zero for the same incidence.
-
-CO-1;80-1; | c. | Find the retarding force acting on the bike if it is brought to rest after covering a distance of | 4
-
-BL-1 20 m. The mass of the bike is 110 kg and it is running at 50 m/s.
-
-CO-1:80-1: d. | A ball is shot vertically upward with a given initial elegy. Tt reaches a maximum height of 100m.
-
-BEI os. Calculate the maximum height at which the ball will reach if on a second shot, the initial velocity is | 4
-doubled.
-
-] iSO-1y _| © | Define the moment of inertia and give the physical significance of the moment of inertia. 4
-
-Q2 [20]
-
-a. | Define the fundamental and derived quantities. List all fundamental quantities with their | 6
-
-CO- 1; SO- 2; dimensional formula and units.
-
-BL Distinguish between Accuracy and Precision in measurement. Explain it with the help of an
-appropriate example. 4
-
-CO-2;SO-2; | b. | Define projectile motion and derive the equations of a projectile for the displacement and
-
-ae 8 . . : . : 10
-BL-1,3 velocities in the x and y directions. Find the time to reach the maximum height.
-
-Q3 [20]
---- page 2 ---
-We are given an approximate value of x is 22/7 = 3.1428571 and the true’ value is
-
-CO-2; 4
-S0- 3: 3.1415926. Calculate absolute, relative, and percentage errors.
-BL-1,2 List the applications of dimensional analysis and discuss any one applicatioi in detail with | 6
-one appropriate example.
-Co-1 State and prove the law of conservation of momentum. 6
-SO- 2; . . sage . + . .
-BL-1 A ball is thrown upward with an initial velocity of 100 ms". After how much time will it
-return? 4
-Q4 [20]
-CO-3; SO-1; : on . vo ae , , Hl
-BL-2 Derive the expression for the maximum velocity of a vehicle on a banked road. i
-CO-3; SO-1; : : . 10
-BL-1 State the work-energy theorem. Prove it for a constant and variable force.
-Qs [20]
-; 4
-Explain conservative and non-conservative forces. Give one example of each.
-CO-4; SO-1; How is work done measured when (i) the force acts along the direction of motion of the
-BL-1,3 body and (ii) the force is inclined to the direction of motion of the body? :
-A block of mass 5.0 kg slides down an incline of inclination 30° and length 10 m. Find the
-work done by the force of gravity. 6
-CO-1,4; SO-1; . . : P 4
-BL-1 Define the radius of gyration. State the formula for the radius of gyration.
-Calculate the ratio of radii of gyration of a circular ring and a disc of the same radius with
-respect to the axis passing through their centers and perpendicular to their planes. 6
-Q6 [20]
-CO1: SO-11: State and prove the perpendicular axis theorem. 6
-BL-2 Two point masses 4 kg and 8 kg are at 3 m and 10 m from the origin on X-axisg Locate the 4
-position of the center of mass of the two-point masses from the origin.
-Derive the following equations of motion for an object moving with saa or uniform
-CO-1; SO-11; acceleration along a straight line:-
-BL-3 1 2.2 2 a 10
-v=Vvgtat; x =Xy+t+ vot + 3 at*;v? = v6 + 2a (x — Xo) 3 Snin = Vo t+ 5 (2n — 1)
-Q.7
-COU sou11: Define the following terms:-
-BL-1 ; A Speed and velocity B Power, and its unit C Coefficient of restitution and its importance 20
-
-D Contact and non-contact force with two examples of each E Friction and list its types
-
-c
 ````
 
 ## 2022-23 · Re-Exam · Sem 1 · paper 9487f083ea69
@@ -1403,6 +1402,133 @@ rifle recoils with a velocity of 1
 3/3
 ````
 
+## 2019-20 · Re-Exam · Sem 1 · paper 0632d4d3b858
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2017-2018 Re Exam.pdf`
+- Printed on paper: exam date: 08 November 2019
+- Text: ocr (2 pages), mean OCR confidence 93.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :B.Tech Integrated (All Stream) Year: I
+AcademicYear: 2019-2020
+
+Subject: Physics-I
+Date : 08 November 2019
+
+Re-Examination(2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory, attempt any seven.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.01 Attempt any seven (2 marks each) 14
+a. Define order of magnitude and significant number with proper example.
+
+b. List the possible errors in case of measurements.
+
+c. Define average speed and instantaneous velocity.
+
+d. With the help of graph, explain the variation in momentum with change in position for a body,
+
+moving with a) constant velocity, b) increasing velocity.
+
+e. A block of mass 0.2kg is held against a wall by applying a horizontal force on the block. The
+coefficient of friction between the block and the wall is 0.40. Find the applied horizontal force
+of the block of the block is impending to slide.
+
+f. State Pascal’s law of pressure on liquids. Give one example where Pascal’s law is applicable.
+g. State Bernoulli’s principle and list any two applications of it.
+h. With increase in temperature, how conductivity will get affected for conductor and
+
+semiconductors
+i. Define elastic limit and State Hooke’s law.
+
+j. A 4 cm long wire has diameter of 0.3mm. If its resistance is 30 ohm, find its resistivity and
+conductivity.
+
+Q.02
+
+a. State the use of dimensional analysis. Check the correctness of the relation, 6
+
+Sn = u + a/2 (2n -1) where ‘u’ is the initial velocity, ‘a’ is the acceleration and ‘Sn’ is the
+distance travelled by the body in the nth second.
+b. Define (i) Most probable value, (ii) Absolute error, (iii) Relative error, (iv) Percentage error. 4
+
+1/2
+--- page 2 ---
+The Time period (T) of a simple pendulum is observed to depend on the following factors:
+length of the pendulum (L), mass of the Bob (m), acceleration due to gravity (g). Derive the
+relation between them.
+
+Q.03
+a. Define motion and obtain equations of motion for constant acceleration using method of
+calculus.
+b. Define with example, relative velocity and instantaneous acceleration. Also write their
+_ mathematical form.
+c. Starting from rest, a car moves with uniform acceleration and attains a velocity of 72 km/hr in
+
+20 s. It then moves with uniform speed for 25 second and is then brought to rest in 10 s, under
+uniform retardation. Find the total distance travelled using velocity time graph.
+
+Q.04
+a. Derive the mathematical form of law of conservation of momentum. What is the acceleration
+of a vehicle, having mass of 1000 kg of mass, after applying a force of S5000N?
+b. Describe the experiment to verify that limiting force of static friction independent of the
+apparent area of contact.
+3 A hockey ball of mass 200 g travelling at 10 m/s is struck by a hockey stick so as to return it
+
+along its original path with a velocity at 5 m/s. Calculate the change of momentum occurred
+in the motion of the hockey ball by the force applied by the hockey stick.
+
+a. State Stoke’s law of viscosity and derive formula for the coefficient of viscosity. Find the
+velocity of flow of a liquid of viscosity 0.02Ns/m? and density 1.2 gm/cm? through a pipe of
+radius 0.05m, Reynold’s number =2000.
+
+b. Define adhesive and cohesive molecular forces of attraction. Give one example of each forces.
+
+e% A capillary tube of radius 0.05cm is dipped in density of liquid 800 kg/m? and surface tension
+of 0.028 N/m. Calculate -the rise , if angle of contact is 16.3%.
+and density of water =1*103 kg/m?. .
+
+Q.06
+
+a. Define polarization. List the different types of polarization. Explain each of its type with proper
+formula and diagram
+
+b. Explain with proper diagram the domain theory of ferromagnetic materials.
+
+@ A lead block of volume 1 m} is subjected to a pressure of 10° N/m?. Calculate the change in
+
+volume of lead block. Also calculate compressibility of lead. (Given: Bulk modulus of lead
+K=5x10!9 N/m?).
+
+Q.07
+
+a. Define the terms momentum and impulse. Give S.I. units and dimensional formula. How are
+they related to each other?
+
+b. Define surface tension with the help of Laplace’s molecular theory.
+
+c. Calculate the electronic polarizability of argon atom. Given ¢=1.0024 at NTP and N=2.7x 10°
+
+atoms/m3.
+````
+
 ## 2018-19 · Final-Exam · Sem 1 · paper 6abba95817af
 
 - Departments: Common (all branches)
@@ -1640,6 +1766,153 @@ wire.(Given: Poisson’s ratio = 0.25)
 [5]
 
 [5]
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper 65c8278c534d
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2017-2018 Re Exam_65c8278c53.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 January 2019
+- Text: ocr (3 pages), mean OCR confidence 89.8
+
+````text
+SVKM’S NMIMS
+
+Program: B.Tech Integrated (All Streams) - Year: I
+Academic Year: 2018-2019
+! Subject: Physics-I_ Marks: 70 ~
+
+¥
+
+. Semester :I
+
+Time: 2.00pm to 5.00pm .
+Date: 14 January 2019 ~
+
+Durations: 3 (hrs)
+No. of Pages: 3
+Re-examination (2017-18) ;
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory, attempt any seven.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.01 Attempt any seven (2 marks each) 14
+a. List four possible remedies to overcome the errors in the measurement.
+b. Convert Velocity 9 x 10? m/s into CGS system.
+
+c. Define centripetal force with one example.
+
+d. Define instantaneous acceleration, write its mathematical form.
+
+e; Explain why, when a carpet is beaten with a stick, dust comes out of it?
+f Explain the concept of Pseudo force in non-inertial frame of reference.
+
+g. State Archimedes principle.
+
+h. Define absolute temperature. Convert 300K into °C.
+
+i. Stress-strain graph of two metals A and B is given below. Which metal is more elastic and
+why?
+
+R
+
+T 7
+ArT
+
+Stress /
+
+fa
+
+VA
+
+Strain
+
+Q.02
+
+if
+--- page 2 ---
+a. What is the need for measurement of a physical quantity? What are derived quantities and 6
+derived units? State two examples.
+b. Define (i) Most probable value, (ii) Absolute error, (iii) Relative error, (iv) Percentage error. 4
+Cc. Kinetic energy is given by the following formulae 4
+1. KE=(3/16) mv?
+2. KE=(1/2) mv? +ma
+Select the correct equation on the basis of dimensional arguments.
+
+Q.03
+a. Define motion and obtain equations of motion for constant acceleration using method of 6
+calculus.
+b. Explain the velocity-time graph for motion with constant acceleration for the following cases. 4
+UE SS asaaiaaiweie al Wy
+4 2 eee
+o i” 0 i
+(a) (b)
+aN
+t ; by
+0 0 ; ‘
+é : I
+* BO eileen ate ™™
+wpb nena neweee oD
+(e) (d)
+c. The position of an object moving along x-axis is given by x = a+ bt? wherea=8.5m,b=2.5 4
+
+m s~ and t is measured in seconds. What is its velocity at t= 0 s and t = 2.0 s. What is the
+average velocity between t = 2.0s andt=4.0s?
+
+Q.04
+
+a. Derive the mathematical form of law of conservation of momentum. 6
+b. What is inertia? How is it measured? What is inertia of direction? What is inertia of motion? 4
+c. A ball of mass m1 = 1 kg moving with a velocity ul = 2 m /s, strikes directly on another 4
+
+ball of mass m2 = 2 kg at rest (u2 = 0). If the co-efficient of restitution between the two
+balls e = 0.5 . calculate the velocities vi and v2 of the two balls after impact-
+--- page 3 ---
+Q.05
+
+State Stoke’s law of viscosity and deduce the formula for coefficient of viscosity/terminal
+velocity.
+
+Define the following:-
+
+1. Cohesive force
+
+2. Adhesive force
+
+3. Angle of contact/factors on which it depends
+
+4. Capillary action
+
+At certain place, mercury column in the barometer shows 73 cm height. Calculate the
+atmospheric pressure at place. (Given: Density of mercury= 13.6103 kg/m3),
+
+Describe the effects for the generation of ultrasonic waves by direct and inverse Piezoelectric
+effect.
+
+Differentiate hard magnetic and soft magnetic materials (3 differences), give one example of
+each.
+
+A spring with a force constant of 50.0 N/m is loaded with a 0.500-kg mass. Find the elongation of the
+spring.
+
+What is meant by banking of roads? Discuss the motion of a car on a banked road.
+A liquid of density 1.1x10? kg/m and surface tension 31.5x103 N/m rises to a height of 0.15
+cm in a tube of a diameter 0.82 mm. Find the angle of contact of the liquid.
+
+The plates of a parallel plate air capacitor are separated by a distance of 1 mm. What must be the plate
+area if the capacitance of the capacitor is to be 1F?
 ````
 
 ## 2018-19 · Re-Exam · Sem 1 · paper 9ce6f6ed001a
@@ -2003,278 +2276,259 @@ Calculate the electronic polarizability of argon atom. Given ¢,=1.0024 at NTP a
 atoms/m?.
 ````
 
-## 2017-18 · Re-Exam · Sem 1 · paper 0632d4d3b858
+## 2017-18 · Re-Exam · Sem 1 · paper 747c77c0b05a
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2017-2018 Re Exam.pdf`
-- Printed on paper: exam date: 08 November 2019
-- Text: ocr (2 pages), mean OCR confidence 93.9
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2015-16,2016-17 Re Exam_747c77c0b0.pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.8
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2017-2018 .
 
-Program :B.Tech Integrated (All Stream) Year: I
-AcademicYear: 2019-2020
+Program:B. Tech Integrated (All Streams) Year:1' Semesters
+PR :
+Batch: 2015-16/ 2016-17. Marks; gO We,
+. OY ay + Ya
+Subject: Physics-I . Time: 02.00 pm to oso
+Date 25 N ation’ hr
+ate 25 November 2017 Duration?3 hrs « wh
 
-Subject: Physics-I
-Date : 08 November 2019
+No. of Pages: a
+RE-EXAMINATION rs
 
-Re-Examination(2017-18)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory, attempt any seven.
+1) Question No. | is compulsory, attempt any seven.
 
 2) Out of remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary.
 
 Q.01 Attempt any seven (2 marks each) 14
-a. Define order of magnitude and significant number with proper example.
-
-b. List the possible errors in case of measurements.
-
-c. Define average speed and instantaneous velocity.
-
-d. With the help of graph, explain the variation in momentum with change in position for a body,
-
-moving with a) constant velocity, b) increasing velocity.
-
-e. A block of mass 0.2kg is held against a wall by applying a horizontal force on the block. The
-coefficient of friction between the block and the wall is 0.40. Find the applied horizontal force
-of the block of the block is impending to slide.
-
-f. State Pascal’s law of pressure on liquids. Give one example where Pascal’s law is applicable.
-g. State Bernoulli’s principle and list any two applications of it.
-h. With increase in temperature, how conductivity will get affected for conductor and
-
-semiconductors
-i. Define elastic limit and State Hooke’s law.
-
-j. A 4 cm long wire has diameter of 0.3mm. If its resistance is 30 ohm, find its resistivity and
-conductivity.
-
+a. What is the need for measurement of physical quantity? Explain with a suitable example.
+b. — Explain with one suitable example the term “order of magnitude of a physical quantity”.
+Cc. State the laws of kinetic friction.
+d. State origin of friction and explain any one theory in short.
+e. Define Poisson’s ratio.
+f. Define elastic limit and Hooke’s law. .
+g. State Pascal’s law and explain that with suitable example.
+h. State any two differences between stream line flow and turbulent flow.
+i. State any two differences of transverse and longitudinal waves.
+j Determine the distance between two successive nodes.
 Q.02
+a. Explain in details different types of errors in measurements with remedies. Find the absolute error in 6
 
-a. State the use of dimensional analysis. Check the correctness of the relation, 6
+measurement if the weight for an object weighed by a physical balance is obtained as 5. 04 g; 5.06 g;
+4.97 g; 5.00 g; 4.93 g.
 
-Sn = u + a/2 (2n -1) where ‘u’ is the initial velocity, ‘a’ is the acceleration and ‘Sn’ is the
-distance travelled by the body in the nth second.
-b. Define (i) Most probable value, (ii) Absolute error, (iii) Relative error, (iv) Percentage error. 4
+b. Derive an expression of kinetic energy of a body of mass ‘m’ and moving with velocity ‘v’, using 4
+dimensional analysis.
+c. State the use of dimensional analysis. Explain any one use with the help of an example. 4
 
-1/2
+O77
 --- page 2 ---
-The Time period (T) of a simple pendulum is observed to depend on the following factors:
-length of the pendulum (L), mass of the Bob (m), acceleration due to gravity (g). Derive the
-relation between them.
-
 Q.03
-a. Define motion and obtain equations of motion for constant acceleration using method of
-calculus.
-b. Define with example, relative velocity and instantaneous acceleration. Also write their
-_ mathematical form.
-c. Starting from rest, a car moves with uniform acceleration and attains a velocity of 72 km/hr in
 
-20 s. It then moves with uniform speed for 25 second and is then brought to rest in 10 s, under
-uniform retardation. Find the total distance travelled using velocity time graph.
+a. Derive the mathematical form of law of conservation of momentum. What will be the acceleration a
+vehicle having 1000 kg of mass after applying a force of 5000N?
 
+b. A hockey ball of mass 200 g travelling at 10 m/s is struck by a hockey stick so as to return it along its
+original path with a velocity at 5 m/s. Calculate the change of momentum occurred in the motion of the
+hockey ball by the force applied by the hockey stick.
+
+c. Describe the experiment to verify that limiting force of static friction independent of the apparent area
+
+of contact.
 Q.04
-a. Derive the mathematical form of law of conservation of momentum. What is the acceleration
-of a vehicle, having mass of 1000 kg of mass, after applying a force of S5000N?
-b. Describe the experiment to verify that limiting force of static friction independent of the
-apparent area of contact.
-3 A hockey ball of mass 200 g travelling at 10 m/s is struck by a hockey stick so as to return it
 
-along its original path with a velocity at 5 m/s. Calculate the change of momentum occurred
-in the motion of the hockey ball by the force applied by the hockey stick.
+a. Differentiate between conduction, convection and radiation (any four differences). A metal of rod of
+length 0.20 m has one of its ends at 20°C, while the other is at 50°C. Calculate the temperature gradient.
 
-a. State Stoke’s law of viscosity and derive formula for the coefficient of viscosity. Find the
-velocity of flow of a liquid of viscosity 0.02Ns/m? and density 1.2 gm/cm? through a pipe of
-radius 0.05m, Reynold’s number =2000.
+b. Define specific heat of gases at constant pressure and volume and derive the Mayor’s relation to show
+relationship between specific heat at constant pressure and volume.
 
-b. Define adhesive and cohesive molecular forces of attraction. Give one example of each forces.
+c.   -Equal weights are attached to two wires of same metal. The length and diameter of one wire is 1.5
 
-e% A capillary tube of radius 0.05cm is dipped in density of liquid 800 kg/m? and surface tension
-of 0.028 N/m. Calculate -the rise , if angle of contact is 16.3%.
-and density of water =1*103 kg/m?. .
+times that of the other. Calculate ratio of their extensions.
 
+a. Define surface tension with the help of Laplace’s molecular theory. Derive the relation between surface
+tension, capillary rise and radius of capillary tube.
+
+b. A plate of metal having 100 sq. cm. area rests on a layer of paraffin oil 2 mm thick. If the horizontal
+force required to move the plate with velocity 3 cm/s is 0.24 N, calculate the coefficient of viscosity.
+
+c. State and explain pressure depth relation. At certain place, mercury column in the barometer shows 73
+cm height. Calculate the atmospheric pressure at that place (density of mercury is 13.534 x 10° Kg/
+3 :
+m’).
 Q.06
+a. Define the following terms:-
 
-a. Define polarization. List the different types of polarization. Explain each of its type with proper
-formula and diagram
+i. Stationary waves
 
-b. Explain with proper diagram the domain theory of ferromagnetic materials.
+ii. Amplitude of wave
+iii. Frequency of a wave
+iv. Progressive wave.
 
-@ A lead block of volume 1 m} is subjected to a pressure of 10° N/m?. Calculate the change in
+b. Define simple harmonic motion with its any two characteristics. Give any two examples of simple
+harmonic motion.
 
-volume of lead block. Also calculate compressibility of lead. (Given: Bulk modulus of lead
-K=5x10!9 N/m?).
+c. In a resonating tube experiment, resonating length for a tuning fork of 512 Hz frequency is 16 cm.
+Calculate the resonating length for tuning fork of frequency 384 Hz and velocity of sound at room
+temperature.
 
 Q.07
 
-a. Define the terms momentum and impulse. Give S.I. units and dimensional formula. How are
-they related to each other?
+a. Derive equation of motion for velocity of a particle when particle is at (a) any position “Y” (b) mean
+position (c) extreme position.
 
-b. Define surface tension with the help of Laplace’s molecular theory.
+b. While playing football match, Kris collided and got entangled with Tom who was playing for opposite
+team and running from opposite side. The mass of Kris was 40 kg and the mass of Tom was 60 kg. If
+Tom was running with a velocity of 3m/s and Kris was running with a velocity of 4 m/s, find the
+velocity and direction of both of the players after collision assuming other forces were negligible.
 
-c. Calculate the electronic polarizability of argon atom. Given ¢=1.0024 at NTP and N=2.7x 10°
+c. Derive the expression for coefficient of thermal conductivity.
 
-atoms/m3.
+on
 ````
 
-## 2017-18 · Re-Exam · Sem 1 · paper 65c8278c534d
+## 2017-18 · Re-Exam · Sem 1 · paper d5ad58e0b24b
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2017-2018 Re Exam_65c8278c53.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 January 2019
-- Text: ocr (3 pages), mean OCR confidence 89.8
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2015-216,2016-2017 Re Exam.pdf`
+- Printed on paper: exam date: 29 May 2018
+- Text: ocr (2 pages), mean OCR confidence 92.4
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Program: B.Tech Integrated (All Streams) - Year: I
-Academic Year: 2018-2019
-! Subject: Physics-I_ Marks: 70 ~
+Programme: B. Tech Integrated (All Streams) ~ Year: I « Semester: I ~
 
-¥
+Batch: 2015-16/ 2016-17 -
 
-. Semester :I
+Academic Year: 2017-2018
 
-Time: 2.00pm to 5.00pm .
-Date: 14 January 2019 ~
+Subject: Physics-I “ ‘ae stab Ye
 
-Durations: 3 (hrs)
-No. of Pages: 3
-Re-examination (2017-18) ;
+11%
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
+Gf Bi
+Marks: a (
+
+w a ¥ a
+i60'pm ie
+
+Date: 29 May 2018~ Time: 10 GHiam to
+Duration: > fers) xi
+No. of Pagbagt Mmig-aan ww
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
 1) Question No. 1 is compulsory, attempt any seven.
 
 2) Out of remaining questions, attempt any 4 questions.
 
-3) In all 5 questions to be attempted.
+3) In all 5 questions to be attempted. ;
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-Q.01 Attempt any seven (2 marks each) 14
-a. List four possible remedies to overcome the errors in the measurement.
-b. Convert Velocity 9 x 10? m/s into CGS system.
+Q.01 Attempt any seven (2 marks each) , 14
+a. What do you mean by fundamental units? Give any two fundamental units.
 
-c. Define centripetal force with one example.
+b. State third law of Newton. Give one example to explain it.
 
-d. Define instantaneous acceleration, write its mathematical form.
+C, Write the statement of Charle’s law with its formula.
 
-e; Explain why, when a carpet is beaten with a stick, dust comes out of it?
-f Explain the concept of Pseudo force in non-inertial frame of reference.
+d. Calculate the pressure at a depth 20 m inside the water. Given density = 2000 kg/m.
 
-g. State Archimedes principle.
+e. Define linear Simple Harmonic Motion (SHM) and give two examples.
 
-h. Define absolute temperature. Convert 300K into °C.
+f. Write the unit and dimensional formula for pressure and surface tension.
 
-i. Stress-strain graph of two metals A and B is given below. Which metal is more elastic and
-why?
+g. To accelerate an object to a rate of 2m/s?, 10 N force is required. Find the mass of object.
 
-R
+h. State Pascal’s law with one example.”
 
-T 7
-ArT
+i. Find the corrected length of air column in a resonance tube of diameter 2 cm, if the length of
+the resonating air column, for the first resonance is 18 cm.
 
-Stress /
-
-fa
-
-VA
-
-Strain
+j. Determine the distance between two successive nodes.
 
 Q.02
 
-if
+a. State with one appropriate example of the uses of dimensional analysis.(One example of each 6
+use)
+
+b. Define all types of possible error in measurement. Give one solution to overcome that errors. 4
+
+C. The frequency ‘n’ of vibration of wire under tension depends upon the tension “T”, mass per 4
+
+unit length ‘m’ and the vibrating length ‘I’ of the wire. Using dimensional analysis, obtain the
+dependence of frequency on these quantities.
+
+Vo
 --- page 2 ---
-a. What is the need for measurement of a physical quantity? What are derived quantities and 6
-derived units? State two examples.
-b. Define (i) Most probable value, (ii) Absolute error, (iii) Relative error, (iv) Percentage error. 4
-Cc. Kinetic energy is given by the following formulae 4
-1. KE=(3/16) mv?
-2. KE=(1/2) mv? +ma
-Select the correct equation on the basis of dimensional arguments.
+Define the terms momentum and impulse. Give S.I. units and dimensional formula. How are
+they related to each other?
 
-Q.03
-a. Define motion and obtain equations of motion for constant acceleration using method of 6
-calculus.
-b. Explain the velocity-time graph for motion with constant acceleration for the following cases. 4
-UE SS asaaiaaiweie al Wy
-4 2 eee
-o i” 0 i
-(a) (b)
-aN
-t ; by
-0 0 ; ‘
-é : I
-* BO eileen ate ™™
-wpb nena neweee oD
-(e) (d)
-c. The position of an object moving along x-axis is given by x = a+ bt? wherea=8.5m,b=2.5 4
+Define friction and state its all the types with one example of each.
 
-m s~ and t is measured in seconds. What is its velocity at t= 0 s and t = 2.0 s. What is the
-average velocity between t = 2.0s andt=4.0s?
+A.car having mass of 1500 kg achieve the velocity of 5 m/s in 10 second. Calculate the required
+force to attain required speed by car.
 
-Q.04
+Draw stress Strain curve and discuss each point of it in details.
 
-a. Derive the mathematical form of law of conservation of momentum. 6
-b. What is inertia? How is it measured? What is inertia of direction? What is inertia of motion? 4
-c. A ball of mass m1 = 1 kg moving with a velocity ul = 2 m /s, strikes directly on another 4
+Distinguish between heat and temperature. Convert 33° C into Kelvin and 343 K to degree
+Celsius C.
 
-ball of mass m2 = 2 kg at rest (u2 = 0). If the co-efficient of restitution between the two
-balls e = 0.5 . calculate the velocities vi and v2 of the two balls after impact-
---- page 3 ---
-Q.05
+The ratio y for a.gas is 1.4 and-R/M = 0.0718. Find the values of Cp and Cv (where R =
+Universal gas constant, M = molecular weight).
 
-State Stoke’s law of viscosity and deduce the formula for coefficient of viscosity/terminal
+State Stoke’s law of viscosity and derive the formula for coefficient of viscosity/terminal
 velocity.
 
-Define the following:-
+Define adhesive and cohesive forces. Give two examples of each to define them.
 
-1. Cohesive force
+A liquid flows through a pipe of diameter 10 cm with a speed of 0.5m/s. the density of a liquid
+is 0.8x 103 kg/m3 and the coefficient of viscosity is 0.4 Ns/m?. Determine Reynolds number and
+state whether the flow is turbulent or streamline.
 
-2. Adhesive force
+Define transverse and longitudinal waves with appropriate diagram. State it’s any 3 characteristics.
+Define wavelength and find the relation between velocity, frequency and wavelength.
 
-3. Angle of contact/factors on which it depends
+Define stationary waves. An air column of length 17 cm in a resonance tube resonates when fork of 500
+Hz is’used. Calculate the velocity of sound.
 
-4. Capillary action
+Classify the solids based on its thermal conductivity. Give any 3 differences between them with
+two examples of each. Explain why two shirts keep the body warmer than single shirt of the
+same material and double thickness.
 
-At certain place, mercury column in the barometer shows 73 cm height. Calculate the
-atmospheric pressure at place. (Given: Density of mercury= 13.6103 kg/m3),
+State and explain Hooke’s law of elasticity also write the SI Unit of modulus of elasticity.
+Hence define elastic limit.
 
-Describe the effects for the generation of ultrasonic waves by direct and inverse Piezoelectric
-effect.
+While playing football match, Kris collided and got entangled with Tom who was playing for
+opposite team and running from opposite side. The mass of Kris was 40 kg and the mass of
+Tom was 60 kg. If Tom was running with a velocity of 3m/s and Kris was running with a
+velocity of 4 m/s, find the velocity and direction of both of the players after collision assuming
+other forces were negligible.
 
-Differentiate hard magnetic and soft magnetic materials (3 differences), give one example of
-each.
-
-A spring with a force constant of 50.0 N/m is loaded with a 0.500-kg mass. Find the elongation of the
-spring.
-
-What is meant by banking of roads? Discuss the motion of a car on a banked road.
-A liquid of density 1.1x10? kg/m and surface tension 31.5x103 N/m rises to a height of 0.15
-cm in a tube of a diameter 0.82 mm. Find the angle of contact of the liquid.
-
-The plates of a parallel plate air capacitor are separated by a distance of 1 mm. What must be the plate
-area if the capacitance of the capacitor is to be 1F?
+Up
 ````
 
 ## 2017-18 · Re-Exam · Sem 1 · paper 66b5cc3eec32
@@ -2558,6 +2812,281 @@ j
 Qp
 ````
 
+## 2016-17 · Re-Exam · Sem 1 · paper 149f83554283
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2014-15 Re Exam_149f835542.pdf`
+- Printed on paper: max marks: 60
+- Text: ocr (2 pages), mean OCR confidence 91.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Year: I Semester: I
+
+F GSTtOte Op
+i,
+8
+
+Surstmae ye
+
+Programme: B. Tech Integrated (All Streams)
+
+Academic Year: 2016-2017
+
+Subject : Physics-I BATCH: 201
+
+Marks: 60 (LIBRARY Je
+Time : 10.00 00 pm sy y
+
+] : 2016
+Date : 25 November Durations: 3 (h
+
+Men HEE "7
+Re -Examination gi
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Q.1 Attempt any 6 six questions (12)
+
+a. Define fundamental quantities and derived quantities. Give one example of each with their
+units.
+
+b. State Newton’s second law of motion with its mathematical form.
+
+G: Write the statement of Gay Lussac’s law of gases. With its mathematical form.
+
+d. What is the origin of friction?
+
+- e: Define phase and wavelength of a wave.
+b: f. What is more elastic rubber or steel, justify your answer with proper reason.
+
+g. To accelerate an object to. a rate of 3 m/s”, 15 N force is required. Determine the mass of the
+object. ;
+
+h. What is Reynold’s number. State its physical significance.
+
+i. Define critical velocity and terminal velocity of a liquid.
+
+j. Define capillary action. Give one example where capillary action can be observed.
+
+Q.02
+
+a. State the use of dimensional analysis. Find the conversion factor for force from MKS to CGS_ (6)
+unit system, and also find the dimensions of surface tension by following proper steps.
+
+b. Find the absolute error and mean absolute error in measurements if the weight for an object (3)
+weighed by a physical balance is obtained as 5. 04 g; 5.06 g; 4.97 g; 5.00 g; 4.93 g.
+
+c. The frequency ‘n’ of vibration of wire under tension depends upon the tension ‘T’, mass per (3)
+
+unit length ‘m’ and the vibrating length ‘I’ of the wire. Using dimensional analysis, obtain the
+dependence of frequency on these quantities.
+
+alg
+--- page 2 ---
+Q.03
+
+a. State three laws of Newton. Derive mathematical form of second law of Newton. Define what (6)
+impulse and impulsive force is.
+b. Describe the experiment to verify that limiting force of static friction is directly proportional to (3)
+
+the normal reaction between the two surfaces in contact.
+
+ce An object of mass 1 kg travelling in a straight line with a velocity of 10 m/s collides with, and (3)
+sticks to, a stationary wooden block of mass 5 kg. Then they both move off together in the same
+straight line. Calculate the total momentum just before the impact and just after the impact.
+Also, calculate the velocity of the combined object.
+
+Q.04
+
+a. Define specific heat, specific heat at constant pressure and specific heat at constant volume for (6)
+gases. Why specific at constant pressure is always greater than specific heat at constant volume.
+
+b. Define elastic limit. Explain stress strain curve with all important points in it. (3)
+
+G. Find the quantity of heat conducted in 5 minutes across a silver sheet of size 40 cm x30 cm of (3)
+thickness 3mm. [If its two faces are at temperatures of 40° C and 25 °C , K for silver is 0.1
+kcal/m® Cs.
+
+Q.05
+
+a. State Pascal’s law, Archimedes principle and Newton’s Law of viscosity with appropriate (6)
+
+diagram and mathematical forms of it.
+b. State and explain pressure depth relation. (3)
+
+C. A capillary tube of diameter 0.2 mm is dipped into a liquid of density 0.85x 10? kg/m? andangle (3)
+of contact 24°. If the liquid rises by 41 mm in the tube, find the surface tension of liquid.
+
+Q.06
+
+a. Define transverse and longitudinal waves. State it’s any four characteristics. (6)
+b. Define nodes and antinodes of a wave. Find the distance between the two successive nodes. (3)
+Cc Find the corrected length of air column in a resonance tube of diameter 2.5 cm, if the length of (3)
+
+the resonating air column, for the first resonance is 16 cm.
+
+Q.07
+
+a. Derive the equation of acceleration for Simple Harmonic Motion (SHM) for a particle at any (6)
+position Y, at mean position and extreme position. :
+
+b. Define elasticity, give any four factors which are affecting elasticity. (3)
+
+G A 3 kg ball and 4 kg ball having speed 7 m/s and 5 m/s approach one another. Find their speeds (3)
+after collision if the coefficient of restitution is 0.75.
+
+y.
+
+ile
+````
+
+## 2016-17 · Re-Exam · Sem 1 · paper 28fc45e2a6f6
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2014-15 Re Exam_28fc45e2a6.pdf`
+- Printed on paper: exam date: 26-May-17
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated ( All Streams) Year: I Semester: I
+
+Batch: 2014-15
+
+Academic Year: 2016-2017 oe :
+, finer TAN
+3 Pgh om -_, ,
+Subject: Physics - I f & o>
+fhe 6 \
+
+Malt 609 cn SA
+Date: 26-May-17 Time 40.00 am to 1.90
+Dur + 3 (hrs)
+
+No. OfPAgg8 > 2a *
+5 ; = Coane cs is
+Re-Examination ik =
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.01 Attempt any six (2 marks each) [12]
+
+a. Define Unit. Write unit of any two physical quantities.
+
+b. Check whether the equation is dimensionally correct, v?= u? + 2as?.
+
+Cc. What is inertia of motion? Give one example.
+
+d. Define Impulse. Write its dimension and S.I. Unit.
+
+e. Distinguish between elastic bodies and plastic bodies: (two differences)
+
+f. Convert 33 °C into K and 343 K to °C.
+
+g. What is Reynolds number? State its significance.
+
+h. Compare streamline and turbulent flow (four points).
+
+i. Write four characteristics of linear SHM.
+
+j. State the formula of velocity of sound with end correction with symbol meanings.
+
+k. State Stoke’s law of viscosity and write formula for viscosity.
+
+Q.02
+
+a. Define order of magnitude of a physical quantity. The radius of a nucleus of mass number ‘A’ is [6]
+given by R = 1.3 x 10°! x A!”. Find the order of magnitude of radius for a nucleus with A =
+216.
+
+b. Explain three types of errors in measurements with remedies. (37
+
+c. The hydrostatic pressure ‘P’ of a liquid column depends upon the density ‘d’, height ‘h’ of (3)
+liquid column and also an acceleration ‘g’ due to gravity. Using dimensional formula for
+
+Yo
+--- page 2 ---
+Q.03
+
+pressure P.
+
+Define momentum. State law of conservation of momentum and derive its mathematical form. [6]
+What is meant by banking or roads? Discuss the motion of a car on a banked road. (37
+A 3 kg ball and 4 kg ball having speed 7 m/s and 5 m/s approach one another. Find their speeds (3)
+after collision if the coefficient of restitution is 0.75.
+
+Derive the Mayor’s relation to show relationship between specific heat at constant pressure and [6]
+
+temperature.
+
+Explain yield point and elastic limit by drawing stress-strain curve. (31
+The ratio y for a gas is 1.4 and R/M = 0.0718, find the values of Cp and Cv. (3]
+Explain the phenomenon of surface tension with the help of Laplace’s molecular theory. [6]
+Define the following :- ( any the uw) {3}
+
+a. Liquid pressure
+
+b. Surface tension
+
+c. Pascal’s law
+
+d. Archimedes’ principle
+
+A liquid flows through a pipe of diameter 10 cm with a speed of 0.5m/s. the density of a liquid [3]
+is 0.8x 103 kg/m} and the coefficient of viscosity is 0.4 Ns/m*. Determine Reynolds number and
+state whether the flow is turbulent or streamline.
+
+Find the equation for acceleration of Simple Harmonic Motion (SHM) for a particle at mean [6]
+position and at extreme.
+
+Define transverse wave, periodic wave, frequency and wavelength. Cony Hau ) (39
+A tuning fork of frequency 512 Hz resonates with an air column of length 14.4 cm. The end [3]
+correction is 6 mm. Calculate the velocity of sound in air. ,
+
+State any four characteristics of transverse / longitudinal waves.. [6]
+Define Young’s modulus of elasticity. Divide the following objects into two groups as elastic [3]
+and plastic bodies: paper, steel, chalk, rubber, copper.
+
+A flask containing dry air is corked up at 37 °C, the pressure is 75 cm of mercury. The cork (3]
+blows up when the pressure becomes 100 cm of mercury. Find the temperature at which cork
+blows up.
+````
+
 ## 2016-17 · Re-Exam · Sem 1 · paper 0269457057c9
 
 - Departments: Common (all branches)
@@ -2684,261 +3213,6 @@ of
 — ¢
 
 {
-````
-
-## 2016-17 · Re-Exam · Sem 1 · paper 747c77c0b05a
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2015-16,2016-17 Re Exam_747c77c0b0.pdf`
-- Printed on paper: duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2017-2018 .
-
-Program:B. Tech Integrated (All Streams) Year:1' Semesters
-PR :
-Batch: 2015-16/ 2016-17. Marks; gO We,
-. OY ay + Ya
-Subject: Physics-I . Time: 02.00 pm to oso
-Date 25 N ation’ hr
-ate 25 November 2017 Duration?3 hrs « wh
-
-No. of Pages: a
-RE-EXAMINATION rs
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory, attempt any seven.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.01 Attempt any seven (2 marks each) 14
-a. What is the need for measurement of physical quantity? Explain with a suitable example.
-b. — Explain with one suitable example the term “order of magnitude of a physical quantity”.
-Cc. State the laws of kinetic friction.
-d. State origin of friction and explain any one theory in short.
-e. Define Poisson’s ratio.
-f. Define elastic limit and Hooke’s law. .
-g. State Pascal’s law and explain that with suitable example.
-h. State any two differences between stream line flow and turbulent flow.
-i. State any two differences of transverse and longitudinal waves.
-j Determine the distance between two successive nodes.
-Q.02
-a. Explain in details different types of errors in measurements with remedies. Find the absolute error in 6
-
-measurement if the weight for an object weighed by a physical balance is obtained as 5. 04 g; 5.06 g;
-4.97 g; 5.00 g; 4.93 g.
-
-b. Derive an expression of kinetic energy of a body of mass ‘m’ and moving with velocity ‘v’, using 4
-dimensional analysis.
-c. State the use of dimensional analysis. Explain any one use with the help of an example. 4
-
-O77
---- page 2 ---
-Q.03
-
-a. Derive the mathematical form of law of conservation of momentum. What will be the acceleration a
-vehicle having 1000 kg of mass after applying a force of 5000N?
-
-b. A hockey ball of mass 200 g travelling at 10 m/s is struck by a hockey stick so as to return it along its
-original path with a velocity at 5 m/s. Calculate the change of momentum occurred in the motion of the
-hockey ball by the force applied by the hockey stick.
-
-c. Describe the experiment to verify that limiting force of static friction independent of the apparent area
-
-of contact.
-Q.04
-
-a. Differentiate between conduction, convection and radiation (any four differences). A metal of rod of
-length 0.20 m has one of its ends at 20°C, while the other is at 50°C. Calculate the temperature gradient.
-
-b. Define specific heat of gases at constant pressure and volume and derive the Mayor’s relation to show
-relationship between specific heat at constant pressure and volume.
-
-c.   -Equal weights are attached to two wires of same metal. The length and diameter of one wire is 1.5
-
-times that of the other. Calculate ratio of their extensions.
-
-a. Define surface tension with the help of Laplace’s molecular theory. Derive the relation between surface
-tension, capillary rise and radius of capillary tube.
-
-b. A plate of metal having 100 sq. cm. area rests on a layer of paraffin oil 2 mm thick. If the horizontal
-force required to move the plate with velocity 3 cm/s is 0.24 N, calculate the coefficient of viscosity.
-
-c. State and explain pressure depth relation. At certain place, mercury column in the barometer shows 73
-cm height. Calculate the atmospheric pressure at that place (density of mercury is 13.534 x 10° Kg/
-3 :
-m’).
-Q.06
-a. Define the following terms:-
-
-i. Stationary waves
-
-ii. Amplitude of wave
-iii. Frequency of a wave
-iv. Progressive wave.
-
-b. Define simple harmonic motion with its any two characteristics. Give any two examples of simple
-harmonic motion.
-
-c. In a resonating tube experiment, resonating length for a tuning fork of 512 Hz frequency is 16 cm.
-Calculate the resonating length for tuning fork of frequency 384 Hz and velocity of sound at room
-temperature.
-
-Q.07
-
-a. Derive equation of motion for velocity of a particle when particle is at (a) any position “Y” (b) mean
-position (c) extreme position.
-
-b. While playing football match, Kris collided and got entangled with Tom who was playing for opposite
-team and running from opposite side. The mass of Kris was 40 kg and the mass of Tom was 60 kg. If
-Tom was running with a velocity of 3m/s and Kris was running with a velocity of 4 m/s, find the
-velocity and direction of both of the players after collision assuming other forces were negligible.
-
-c. Derive the expression for coefficient of thermal conductivity.
-
-on
-````
-
-## 2016-17 · Re-Exam · Sem 1 · paper d5ad58e0b24b
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2015-216,2016-2017 Re Exam.pdf`
-- Printed on paper: exam date: 29 May 2018
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (All Streams) ~ Year: I « Semester: I ~
-
-Batch: 2015-16/ 2016-17 -
-
-Academic Year: 2017-2018
-
-Subject: Physics-I “ ‘ae stab Ye
-
-11%
-
-Gf Bi
-Marks: a (
-
-w a ¥ a
-i60'pm ie
-
-Date: 29 May 2018~ Time: 10 GHiam to
-Duration: > fers) xi
-No. of Pagbagt Mmig-aan ww
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory, attempt any seven.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted. ;
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.01 Attempt any seven (2 marks each) , 14
-a. What do you mean by fundamental units? Give any two fundamental units.
-
-b. State third law of Newton. Give one example to explain it.
-
-C, Write the statement of Charle’s law with its formula.
-
-d. Calculate the pressure at a depth 20 m inside the water. Given density = 2000 kg/m.
-
-e. Define linear Simple Harmonic Motion (SHM) and give two examples.
-
-f. Write the unit and dimensional formula for pressure and surface tension.
-
-g. To accelerate an object to a rate of 2m/s?, 10 N force is required. Find the mass of object.
-
-h. State Pascal’s law with one example.”
-
-i. Find the corrected length of air column in a resonance tube of diameter 2 cm, if the length of
-the resonating air column, for the first resonance is 18 cm.
-
-j. Determine the distance between two successive nodes.
-
-Q.02
-
-a. State with one appropriate example of the uses of dimensional analysis.(One example of each 6
-use)
-
-b. Define all types of possible error in measurement. Give one solution to overcome that errors. 4
-
-C. The frequency ‘n’ of vibration of wire under tension depends upon the tension “T”, mass per 4
-
-unit length ‘m’ and the vibrating length ‘I’ of the wire. Using dimensional analysis, obtain the
-dependence of frequency on these quantities.
-
-Vo
---- page 2 ---
-Define the terms momentum and impulse. Give S.I. units and dimensional formula. How are
-they related to each other?
-
-Define friction and state its all the types with one example of each.
-
-A.car having mass of 1500 kg achieve the velocity of 5 m/s in 10 second. Calculate the required
-force to attain required speed by car.
-
-Draw stress Strain curve and discuss each point of it in details.
-
-Distinguish between heat and temperature. Convert 33° C into Kelvin and 343 K to degree
-Celsius C.
-
-The ratio y for a.gas is 1.4 and-R/M = 0.0718. Find the values of Cp and Cv (where R =
-Universal gas constant, M = molecular weight).
-
-State Stoke’s law of viscosity and derive the formula for coefficient of viscosity/terminal
-velocity.
-
-Define adhesive and cohesive forces. Give two examples of each to define them.
-
-A liquid flows through a pipe of diameter 10 cm with a speed of 0.5m/s. the density of a liquid
-is 0.8x 103 kg/m3 and the coefficient of viscosity is 0.4 Ns/m?. Determine Reynolds number and
-state whether the flow is turbulent or streamline.
-
-Define transverse and longitudinal waves with appropriate diagram. State it’s any 3 characteristics.
-Define wavelength and find the relation between velocity, frequency and wavelength.
-
-Define stationary waves. An air column of length 17 cm in a resonance tube resonates when fork of 500
-Hz is’used. Calculate the velocity of sound.
-
-Classify the solids based on its thermal conductivity. Give any 3 differences between them with
-two examples of each. Explain why two shirts keep the body warmer than single shirt of the
-same material and double thickness.
-
-State and explain Hooke’s law of elasticity also write the SI Unit of modulus of elasticity.
-Hence define elastic limit.
-
-While playing football match, Kris collided and got entangled with Tom who was playing for
-opposite team and running from opposite side. The mass of Kris was 40 kg and the mass of
-Tom was 60 kg. If Tom was running with a velocity of 3m/s and Kris was running with a
-velocity of 4 m/s, find the velocity and direction of both of the players after collision assuming
-other forces were negligible.
-
-Up
 ````
 
 ## 2016-17 · Re-Exam · Sem 1 · paper aa263e869ec2
@@ -3273,6 +3547,267 @@ GB)
 @)
 ````
 
+## 2015-16 · Re-Exam · Sem 1 · paper be2f06ce2b91
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 09-Jun-16
+- Text: ocr (2 pages), mean OCR confidence 91.0
+
+````text
+,
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (All Streams) Year: I Semester: I
+
+Academic Year: 2015-2016
+
+Subject : Physics-I BATCH: 2014
+Marks: 60 :
+Date : 09-Jun-16 , Time : 10.90 -
+Durations}?
+Re -Examination :
+
+Instruction: Candidates should read carefully the instructions printed on the question papeMas
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted. a
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Q.1 Attempt any six
+a What are the advantages of SI units?
+b Explain Newton’s law of gravitation.
+c Awire of length 3 m extends by 3 mm when a force of 2 Ni is applied to it. Calculate stress
+produced in it, if Y = 2x10"! N/m’.
+d_ Define specific heat of substances. How many types of specific heat are there for gases?
+e Define surface tension and viscosity of the liquid.
+f State any four differences between streamline flow and turbulent flow.
+g Define wave, wave length, frequency and period in relation with wave motion.
+
+a Distinguish between the terms precision and accuracy of a measurement. Explain with one
+example.
+
+b What are the limitations of dimensional analysis?
+
+c A3kg ball and 4 kg ball having initial velocities 7 m/s and 5 m/s approach one another. If their
+final velocities are — 5 m/s and 4 m/s respectively then find coefficient of restitution.
+
+a Draw and explain stress-strain diagram
+b State Hooke’s law of elasticity and define elastic limit.
+c Give an account of different types of heat conduction with examples.
+
+Vo.
+
+[2]
+[2]
+[2]
+
+[2]
+[2]
+[2]
+[2]
+
+[5]
+
+[4]
+[3]
+
+[5]
+[4]
+[3]
+--- page 2 ---
+Q.4
+a State and prove ‘Law of conservation of linear momentum’ for two colliding bodies. [5]
+b Explain the origin of friction, any two ways to reduce them. State two advantages and (4]
+
+disadvantages of friction.
+
+c Acopper rod 19 cm long and area of cross section and 0.79 cm’, which is thermally insulated, is [3]
+heated at one end to a temperature of 100°C while the other end is kept at 30°C. Calculate the
+amount of heat which will flow in 5 min. along the rod if K for copper is 380 Wim’K.
+
+a Derive the relation between surface tension, capillary rise and radius of capillary tube. State the [5]
+meaning of symbols used in it.
+
+b Assuming the Reynolds’s number to be 1000, calculate the critical velocity for glycerin in the [4]
+pipe of diameter 2 cm. Density and viscosity of glycerin are 1.36* 10? kg/m? and 0.85 N s/m?
+respectively.
+
+c Define cohesive force, adhesive force and molecular range. B]
+
+Q.6
+
+a Derive an expression for the period of oscillations of a simple pendulum. [5]
+
+b An air Colum of length 17 cm in a resonance tube resonates when fork of 500 Hz is used. [4]
+Calculate the velocity of sound.
+
+c Explain the characteristics of a progressive wave. [3]
+
+Q.7
+a State Boyle’s law and Charles law in relation with the kinetic theory of gases. While stating [5]
+
+Boyle’s law why should we use the phrase ‘at constant temperature’? Why do real gases
+
+deviate from Boyle’s law?
+b What are isothermal process and adiabatic process? [4]
+c Discuss the application of surface tension. [3]
+
+{— ¥
+````
+
+## 2015-16 · Re-Exam · Sem 1 · paper 4a173364691e
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2014-15 Re Exam_4a17336469.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 28/11/2015
+- Text: ocr (3 pages), mean OCR confidence 90.1
+
+````text
+\ SVKM’s NMIMS
+~ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.TECH INTEGRATED Year: | Semester: I
+Batch: 2014-2015 Academic Year: 2015-2016 Ses Re tig
+Subject: Physics-I a
+
+; . Marks : 60 urervun Yo"
+Date: 28/11/2015 > Time : 10.00 LOG eA ws
+
+Durations : 3 (hrs) 7 ‘+ at
+or
+Re-Examination = we
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book which is provided for their use.
+NB:
+
+1) Question No. one is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+
+() Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Que.; 1 Attempt any four of the following: - Sn Q2jn
+a) Using dimensional analysis derive an expression of kinetic energy of a body of mass
+‘m’ and moving with velocity ‘v’ .
+b) Explain the origin of friction, any two ways to reduce them. State two advantages and
+disadvantages of friction.
+c) Which is more elastic steel or rubber? Why?
+d) Why two shirts keep the body warmer than single shirt of the same material of double
+thickness?
+e) Explain Stokes law. Define terminal velocity. ;
+f) Ifthe length of a second’s pendulum is decreased by 2%, find the new time period.
+Que. 2
+a) State and derive law of conservation of momentum in case of colliding two bodies.(3)
+b) The total area of the glass window pane is 0.5 m?. Calculate how much heat is
+conducted per hour through the glass window pane if the thickness of the glass is 6.0
+mm, temperature of the inside is 23°C and that of the outside surface is 2°C . The
+thermal conductivity of the glass is 0.1 watt/m/ K. (3)
+c) Define surface tension. Derive the relation between surface tension, capillary rise and
+
+hovs (3)
+_d)_ A liauid rises un bv a height of 5.2 cm ina canillarv tube of diameter 0.82 cn! high will
+
+4/3
+
+radius of capillary tube. State the meaning of symbols used in it.
+--- page 2 ---
+it rise in another tube of radius 0.025cm. @
+Que. 3
+a) State Newton’s Laws of motion.
+A metallic sphere-of 10g is attached to a rubber cord of initial length 100 cm and
+rotated in a horizontal plane uniformly at a rate of 10 rev/ sec. Find the length of cord at
+this speed and the tension along it. Given that a force of 0.5 N stretches the rubber cord
+by 1 om. Take g= 9.8 m/s’. (6)
+
+b) Describe the experiment to verify that limiting force to static friction is independent of
+
+the apparent area of contact. (3)
+c) Define specific heat of substances. How many types of specific heat are there for gases?
+Derive an expression to relate them. (eS)
+Que. 4
+a) Equal weights are attached to two wires of same metal. The length and diameter of one
+wire is 1.5 times that of the other. Calculate ratio of their extensions. (Dd
+b) Explain the characteristics of progressive wave. (s)
+
+c)
+
+State the formula for velocity of sound by resonance tube method. An air Colum of
+length 17 cm in a resonance tube resonates when fork of 500 Hz is used. Calculate the
+
+velocity of sound. @
+d) Calculate the Poisson’s ratio for silver. Given its Young’s modulus = 7.25 x 10!° N/m?
+and bulk modulus 11 x 10!° N/m?. (e)
+Que. 5
+a) Find out an expression for the period of oscillation of a simple pendulum. Q
+
+b) State Hooke’s law. Draw a labeled graph of tensile stress against tensile strain for a
+metal wire up to the breaking point. Show the region in which Hooke’s law is obeyed.
+@)
+
+°) Define cohesive force, adhesive force, molecular range and sphere ofinfluence. (3)
+
+d) A drop of water of radius 0.01 m is falling through a medium whose density is 1.21
+kg/m? and viscosity is 1.8 x 10°Nsm_”. Find the terminal velocity of the drop. (3)
+Que. 6
+a) State and Prove Hook’s law. What force is required to stretch a steel wire to double its
+length when its area of cross section is 1 em’ Given: Young’s modulus is 2 x 101!
+Nim’. ed)
+b) A spherical ball of radius 0.15 em takes 6 seconds to travel a distance of 80 cm through
+
+a viscous liquid. If the density of a ball is 8x10° kg/m? and that of liquid is 1.241 0°.
+
+sip
+--- page 3 ---
+Que.
+
+c)
+
+a)
+
+b)
+
+c)
+
+kg/m’, find the viscosity of the liquid, @
+
+Find the conversion factor between S.I. unit and CGS unit of density and volume. (D>
+
+Explain different types of errors in measurements with remedies. The length of a metal
+plate was measured using a vernier calipers of at least 0.01 cm. The measurements
+made were 3.11cm, 3.13cm, 3.14cm and 3.14cm. Find the mean length, the mean
+absolute error and the percentage error in the measurement of length. G)
+A 3 kg. ball and 4 kg ball having initial velocities 7m/s and Sm/s approach one another.
+If their final velocities are — 5 m/s ans 4 m/s respectively then find coefficient of
+
+— and
+restitution. @
+
+State and prove Archimedes’ Principle. (e>)
+
+3/3
+````
+
 ## 2014-15 · Final-Exam · Sem 1 · paper 76384d4da6dc
 
 - Departments: Common (all branches)
@@ -3427,405 +3962,6 @@ collision if the coefficient of restitution is 0.75. [6]
 c) Define Poisson’s ratio and state its formula.
 
 ? x
-````
-
-## 2014-15 · Re-Exam · Sem 1 · paper be2f06ce2b91
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; exam date: 09-Jun-16
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-,
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (All Streams) Year: I Semester: I
-
-Academic Year: 2015-2016
-
-Subject : Physics-I BATCH: 2014
-Marks: 60 :
-Date : 09-Jun-16 , Time : 10.90 -
-Durations}?
-Re -Examination :
-
-Instruction: Candidates should read carefully the instructions printed on the question papeMas
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted. a
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Q.1 Attempt any six
-a What are the advantages of SI units?
-b Explain Newton’s law of gravitation.
-c Awire of length 3 m extends by 3 mm when a force of 2 Ni is applied to it. Calculate stress
-produced in it, if Y = 2x10"! N/m’.
-d_ Define specific heat of substances. How many types of specific heat are there for gases?
-e Define surface tension and viscosity of the liquid.
-f State any four differences between streamline flow and turbulent flow.
-g Define wave, wave length, frequency and period in relation with wave motion.
-
-a Distinguish between the terms precision and accuracy of a measurement. Explain with one
-example.
-
-b What are the limitations of dimensional analysis?
-
-c A3kg ball and 4 kg ball having initial velocities 7 m/s and 5 m/s approach one another. If their
-final velocities are — 5 m/s and 4 m/s respectively then find coefficient of restitution.
-
-a Draw and explain stress-strain diagram
-b State Hooke’s law of elasticity and define elastic limit.
-c Give an account of different types of heat conduction with examples.
-
-Vo.
-
-[2]
-[2]
-[2]
-
-[2]
-[2]
-[2]
-[2]
-
-[5]
-
-[4]
-[3]
-
-[5]
-[4]
-[3]
---- page 2 ---
-Q.4
-a State and prove ‘Law of conservation of linear momentum’ for two colliding bodies. [5]
-b Explain the origin of friction, any two ways to reduce them. State two advantages and (4]
-
-disadvantages of friction.
-
-c Acopper rod 19 cm long and area of cross section and 0.79 cm’, which is thermally insulated, is [3]
-heated at one end to a temperature of 100°C while the other end is kept at 30°C. Calculate the
-amount of heat which will flow in 5 min. along the rod if K for copper is 380 Wim’K.
-
-a Derive the relation between surface tension, capillary rise and radius of capillary tube. State the [5]
-meaning of symbols used in it.
-
-b Assuming the Reynolds’s number to be 1000, calculate the critical velocity for glycerin in the [4]
-pipe of diameter 2 cm. Density and viscosity of glycerin are 1.36* 10? kg/m? and 0.85 N s/m?
-respectively.
-
-c Define cohesive force, adhesive force and molecular range. B]
-
-Q.6
-
-a Derive an expression for the period of oscillations of a simple pendulum. [5]
-
-b An air Colum of length 17 cm in a resonance tube resonates when fork of 500 Hz is used. [4]
-Calculate the velocity of sound.
-
-c Explain the characteristics of a progressive wave. [3]
-
-Q.7
-a State Boyle’s law and Charles law in relation with the kinetic theory of gases. While stating [5]
-
-Boyle’s law why should we use the phrase ‘at constant temperature’? Why do real gases
-
-deviate from Boyle’s law?
-b What are isothermal process and adiabatic process? [4]
-c Discuss the application of surface tension. [3]
-
-{— ¥
-````
-
-## 2014-15 · Re-Exam · Sem 1 · paper 149f83554283
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2014-15 Re Exam_149f835542.pdf`
-- Printed on paper: max marks: 60
-- Text: ocr (2 pages), mean OCR confidence 91.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Year: I Semester: I
-
-F GSTtOte Op
-i,
-8
-
-Surstmae ye
-
-Programme: B. Tech Integrated (All Streams)
-
-Academic Year: 2016-2017
-
-Subject : Physics-I BATCH: 201
-
-Marks: 60 (LIBRARY Je
-Time : 10.00 00 pm sy y
-
-] : 2016
-Date : 25 November Durations: 3 (h
-
-Men HEE "7
-Re -Examination gi
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-Q.1 Attempt any 6 six questions (12)
-
-a. Define fundamental quantities and derived quantities. Give one example of each with their
-units.
-
-b. State Newton’s second law of motion with its mathematical form.
-
-G: Write the statement of Gay Lussac’s law of gases. With its mathematical form.
-
-d. What is the origin of friction?
-
-- e: Define phase and wavelength of a wave.
-b: f. What is more elastic rubber or steel, justify your answer with proper reason.
-
-g. To accelerate an object to. a rate of 3 m/s”, 15 N force is required. Determine the mass of the
-object. ;
-
-h. What is Reynold’s number. State its physical significance.
-
-i. Define critical velocity and terminal velocity of a liquid.
-
-j. Define capillary action. Give one example where capillary action can be observed.
-
-Q.02
-
-a. State the use of dimensional analysis. Find the conversion factor for force from MKS to CGS_ (6)
-unit system, and also find the dimensions of surface tension by following proper steps.
-
-b. Find the absolute error and mean absolute error in measurements if the weight for an object (3)
-weighed by a physical balance is obtained as 5. 04 g; 5.06 g; 4.97 g; 5.00 g; 4.93 g.
-
-c. The frequency ‘n’ of vibration of wire under tension depends upon the tension ‘T’, mass per (3)
-
-unit length ‘m’ and the vibrating length ‘I’ of the wire. Using dimensional analysis, obtain the
-dependence of frequency on these quantities.
-
-alg
---- page 2 ---
-Q.03
-
-a. State three laws of Newton. Derive mathematical form of second law of Newton. Define what (6)
-impulse and impulsive force is.
-b. Describe the experiment to verify that limiting force of static friction is directly proportional to (3)
-
-the normal reaction between the two surfaces in contact.
-
-ce An object of mass 1 kg travelling in a straight line with a velocity of 10 m/s collides with, and (3)
-sticks to, a stationary wooden block of mass 5 kg. Then they both move off together in the same
-straight line. Calculate the total momentum just before the impact and just after the impact.
-Also, calculate the velocity of the combined object.
-
-Q.04
-
-a. Define specific heat, specific heat at constant pressure and specific heat at constant volume for (6)
-gases. Why specific at constant pressure is always greater than specific heat at constant volume.
-
-b. Define elastic limit. Explain stress strain curve with all important points in it. (3)
-
-G. Find the quantity of heat conducted in 5 minutes across a silver sheet of size 40 cm x30 cm of (3)
-thickness 3mm. [If its two faces are at temperatures of 40° C and 25 °C , K for silver is 0.1
-kcal/m® Cs.
-
-Q.05
-
-a. State Pascal’s law, Archimedes principle and Newton’s Law of viscosity with appropriate (6)
-
-diagram and mathematical forms of it.
-b. State and explain pressure depth relation. (3)
-
-C. A capillary tube of diameter 0.2 mm is dipped into a liquid of density 0.85x 10? kg/m? andangle (3)
-of contact 24°. If the liquid rises by 41 mm in the tube, find the surface tension of liquid.
-
-Q.06
-
-a. Define transverse and longitudinal waves. State it’s any four characteristics. (6)
-b. Define nodes and antinodes of a wave. Find the distance between the two successive nodes. (3)
-Cc Find the corrected length of air column in a resonance tube of diameter 2.5 cm, if the length of (3)
-
-the resonating air column, for the first resonance is 16 cm.
-
-Q.07
-
-a. Derive the equation of acceleration for Simple Harmonic Motion (SHM) for a particle at any (6)
-position Y, at mean position and extreme position. :
-
-b. Define elasticity, give any four factors which are affecting elasticity. (3)
-
-G A 3 kg ball and 4 kg ball having speed 7 m/s and 5 m/s approach one another. Find their speeds (3)
-after collision if the coefficient of restitution is 0.75.
-
-y.
-
-ile
-````
-
-## 2014-15 · Re-Exam · Sem 1 · paper 28fc45e2a6f6
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2014-15 Re Exam_28fc45e2a6.pdf`
-- Printed on paper: exam date: 26-May-17
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated ( All Streams) Year: I Semester: I
-
-Batch: 2014-15
-
-Academic Year: 2016-2017 oe :
-, finer TAN
-3 Pgh om -_, ,
-Subject: Physics - I f & o>
-fhe 6 \
-
-Malt 609 cn SA
-Date: 26-May-17 Time 40.00 am to 1.90
-Dur + 3 (hrs)
-
-No. OfPAgg8 > 2a *
-5 ; = Coane cs is
-Re-Examination ik =
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.01 Attempt any six (2 marks each) [12]
-
-a. Define Unit. Write unit of any two physical quantities.
-
-b. Check whether the equation is dimensionally correct, v?= u? + 2as?.
-
-Cc. What is inertia of motion? Give one example.
-
-d. Define Impulse. Write its dimension and S.I. Unit.
-
-e. Distinguish between elastic bodies and plastic bodies: (two differences)
-
-f. Convert 33 °C into K and 343 K to °C.
-
-g. What is Reynolds number? State its significance.
-
-h. Compare streamline and turbulent flow (four points).
-
-i. Write four characteristics of linear SHM.
-
-j. State the formula of velocity of sound with end correction with symbol meanings.
-
-k. State Stoke’s law of viscosity and write formula for viscosity.
-
-Q.02
-
-a. Define order of magnitude of a physical quantity. The radius of a nucleus of mass number ‘A’ is [6]
-given by R = 1.3 x 10°! x A!”. Find the order of magnitude of radius for a nucleus with A =
-216.
-
-b. Explain three types of errors in measurements with remedies. (37
-
-c. The hydrostatic pressure ‘P’ of a liquid column depends upon the density ‘d’, height ‘h’ of (3)
-liquid column and also an acceleration ‘g’ due to gravity. Using dimensional formula for
-
-Yo
---- page 2 ---
-Q.03
-
-pressure P.
-
-Define momentum. State law of conservation of momentum and derive its mathematical form. [6]
-What is meant by banking or roads? Discuss the motion of a car on a banked road. (37
-A 3 kg ball and 4 kg ball having speed 7 m/s and 5 m/s approach one another. Find their speeds (3)
-after collision if the coefficient of restitution is 0.75.
-
-Derive the Mayor’s relation to show relationship between specific heat at constant pressure and [6]
-
-temperature.
-
-Explain yield point and elastic limit by drawing stress-strain curve. (31
-The ratio y for a gas is 1.4 and R/M = 0.0718, find the values of Cp and Cv. (3]
-Explain the phenomenon of surface tension with the help of Laplace’s molecular theory. [6]
-Define the following :- ( any the uw) {3}
-
-a. Liquid pressure
-
-b. Surface tension
-
-c. Pascal’s law
-
-d. Archimedes’ principle
-
-A liquid flows through a pipe of diameter 10 cm with a speed of 0.5m/s. the density of a liquid [3]
-is 0.8x 103 kg/m} and the coefficient of viscosity is 0.4 Ns/m*. Determine Reynolds number and
-state whether the flow is turbulent or streamline.
-
-Find the equation for acceleration of Simple Harmonic Motion (SHM) for a particle at mean [6]
-position and at extreme.
-
-Define transverse wave, periodic wave, frequency and wavelength. Cony Hau ) (39
-A tuning fork of frequency 512 Hz resonates with an air column of length 14.4 cm. The end [3]
-correction is 6 mm. Calculate the velocity of sound in air. ,
-
-State any four characteristics of transverse / longitudinal waves.. [6]
-Define Young’s modulus of elasticity. Divide the following objects into two groups as elastic [3]
-and plastic bodies: paper, steel, chalk, rubber, copper.
-
-A flask containing dry air is corked up at 37 °C, the pressure is 75 cm of mercury. The cork (3]
-blows up when the pressure becomes 100 cm of mercury. Find the temperature at which cork
-blows up.
 ````
 
 ## 2014-15 · Re-Exam · Sem 1 · paper 29ecf646b331
@@ -4031,141 +4167,4 @@ Why? 35
 c) A railway engine of 5 tons travels along a track at 7Skm/ hr and collides with a
 
 wagon of 15 tons travelling in the opposite direction at 20 km/ hr. After impact the
-````
-
-## 2014-15 · Re-Exam · Sem 1 · paper 4a173364691e
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/PHYSICS I/Physics I Batch 2014-15 Re Exam_4a17336469.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 28/11/2015
-- Text: ocr (3 pages), mean OCR confidence 90.1
-
-````text
-\ SVKM’s NMIMS
-~ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.TECH INTEGRATED Year: | Semester: I
-Batch: 2014-2015 Academic Year: 2015-2016 Ses Re tig
-Subject: Physics-I a
-
-; . Marks : 60 urervun Yo"
-Date: 28/11/2015 > Time : 10.00 LOG eA ws
-
-Durations : 3 (hrs) 7 ‘+ at
-or
-Re-Examination = we
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book which is provided for their use.
-NB:
-
-1) Question No. one is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-
-() Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Que.; 1 Attempt any four of the following: - Sn Q2jn
-a) Using dimensional analysis derive an expression of kinetic energy of a body of mass
-‘m’ and moving with velocity ‘v’ .
-b) Explain the origin of friction, any two ways to reduce them. State two advantages and
-disadvantages of friction.
-c) Which is more elastic steel or rubber? Why?
-d) Why two shirts keep the body warmer than single shirt of the same material of double
-thickness?
-e) Explain Stokes law. Define terminal velocity. ;
-f) Ifthe length of a second’s pendulum is decreased by 2%, find the new time period.
-Que. 2
-a) State and derive law of conservation of momentum in case of colliding two bodies.(3)
-b) The total area of the glass window pane is 0.5 m?. Calculate how much heat is
-conducted per hour through the glass window pane if the thickness of the glass is 6.0
-mm, temperature of the inside is 23°C and that of the outside surface is 2°C . The
-thermal conductivity of the glass is 0.1 watt/m/ K. (3)
-c) Define surface tension. Derive the relation between surface tension, capillary rise and
-
-hovs (3)
-_d)_ A liauid rises un bv a height of 5.2 cm ina canillarv tube of diameter 0.82 cn! high will
-
-4/3
-
-radius of capillary tube. State the meaning of symbols used in it.
---- page 2 ---
-it rise in another tube of radius 0.025cm. @
-Que. 3
-a) State Newton’s Laws of motion.
-A metallic sphere-of 10g is attached to a rubber cord of initial length 100 cm and
-rotated in a horizontal plane uniformly at a rate of 10 rev/ sec. Find the length of cord at
-this speed and the tension along it. Given that a force of 0.5 N stretches the rubber cord
-by 1 om. Take g= 9.8 m/s’. (6)
-
-b) Describe the experiment to verify that limiting force to static friction is independent of
-
-the apparent area of contact. (3)
-c) Define specific heat of substances. How many types of specific heat are there for gases?
-Derive an expression to relate them. (eS)
-Que. 4
-a) Equal weights are attached to two wires of same metal. The length and diameter of one
-wire is 1.5 times that of the other. Calculate ratio of their extensions. (Dd
-b) Explain the characteristics of progressive wave. (s)
-
-c)
-
-State the formula for velocity of sound by resonance tube method. An air Colum of
-length 17 cm in a resonance tube resonates when fork of 500 Hz is used. Calculate the
-
-velocity of sound. @
-d) Calculate the Poisson’s ratio for silver. Given its Young’s modulus = 7.25 x 10!° N/m?
-and bulk modulus 11 x 10!° N/m?. (e)
-Que. 5
-a) Find out an expression for the period of oscillation of a simple pendulum. Q
-
-b) State Hooke’s law. Draw a labeled graph of tensile stress against tensile strain for a
-metal wire up to the breaking point. Show the region in which Hooke’s law is obeyed.
-@)
-
-°) Define cohesive force, adhesive force, molecular range and sphere ofinfluence. (3)
-
-d) A drop of water of radius 0.01 m is falling through a medium whose density is 1.21
-kg/m? and viscosity is 1.8 x 10°Nsm_”. Find the terminal velocity of the drop. (3)
-Que. 6
-a) State and Prove Hook’s law. What force is required to stretch a steel wire to double its
-length when its area of cross section is 1 em’ Given: Young’s modulus is 2 x 101!
-Nim’. ed)
-b) A spherical ball of radius 0.15 em takes 6 seconds to travel a distance of 80 cm through
-
-a viscous liquid. If the density of a ball is 8x10° kg/m? and that of liquid is 1.241 0°.
-
-sip
---- page 3 ---
-Que.
-
-c)
-
-a)
-
-b)
-
-c)
-
-kg/m’, find the viscosity of the liquid, @
-
-Find the conversion factor between S.I. unit and CGS unit of density and volume. (D>
-
-Explain different types of errors in measurements with remedies. The length of a metal
-plate was measured using a vernier calipers of at least 0.01 cm. The measurements
-made were 3.11cm, 3.13cm, 3.14cm and 3.14cm. Find the mean length, the mean
-absolute error and the percentage error in the measurement of length. G)
-A 3 kg. ball and 4 kg ball having initial velocities 7m/s and Sm/s approach one another.
-If their final velocities are — 5 m/s ans 4 m/s respectively then find coefficient of
-
-— and
-restitution. @
-
-State and prove Archimedes’ Principle. (e>)
-
-3/3
 ````

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/REFRIGERATION AND AIR CONDITIONING/Refrigeration & Air Conditioning 2021-22 Final0001.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 12 April 2022
 - Text: ocr (3 pages), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a *
@@ -148,7 +149,6 @@ Also calculate the pressure drop for 100m for circular duct
 Saturation | Pressure | Specific Enthalpy (kJ/kg) Specific Entropy Specific volume (m?/kg)
 Temperatur | (bar) (kJ/kg K)
 
-é . hr hig hg St Sg vr Vg.
 
 40 9.60897 _| 74.59 128.61 203.2 0.2718 0.6825 | 0.000799 | 0.0182
 
@@ -165,6 +165,7 @@ Coz =0.62 kI/kg K
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/REFRIGERATION AND AIR CONDITIONING/Refregeration & Air Conditioning Batch 2021-22 Re Exam0001.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 08 June 2022
 - Text: ocr (3 pages), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 TIUTE OF Aye
@@ -298,7 +299,6 @@ Saturation Pressure | Specific Enthalpy (kJ/kg) Specific Entropy | Specific volu
 
 Temperature | (bar) (kJ/kg K) (m7/kg)
 
-°C hr hee hg Sf Sg VE Vg
 
 40 15.4897 98.44 164.77 | 263.21 | 0.3563 | 0.8822 | 0.000799 | 0.0182
 -15 2.9689 27.83 217.59 | 245.42 | 0.1122 | 0.9557 | 0.000701 | 0.767
@@ -1534,6 +1534,7 @@ Solve the problem using the psychometric chart.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/REFRIGERATION AND AIR CONDITIONING/REFRIGERATION AND AIR CONDITIONING B TECH (MECHANICAL), 2016-17 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 25 November 2016
 - Text: ocr (2 pages), mean OCR confidence 92.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1575,7 +1576,6 @@ the cycle using P-H/T-S diagram.
 c) What are the-advantages of multistage compression? 03
 d) Define: WBT Relative humidity, Degree of saturation and Dew. point 03
 temperature.
-Define RSHF, GSHF, ERSHF and BPF. 03
 % Explain factors affecting the human comfort. 03
 ? . State different methods of duct design and explain one of them brief. 03
 Q.2 Sketch T-S and P-h diagram for the vapour compression cycle when the
@@ -1938,6 +1938,175 @@ d) Summer and Winter air conditioning
 3},
 ````
 
+## 2015-16 · Final-Exam · Sem 7 · paper b403e3d57587
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/REFRIGERATION AND AIR CONDITIONING/REFRIGERATION AND AIR CONDITIONING B TECH (MECHANICAL), 2014-15 FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 28/11/2015
+- Text: ocr (2 pages), mean OCR confidence 91.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+pe
+
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Mechanical)
+Batch: 2014-2015
+
+Year: IV Semester: VII
+
+Academic Year: 2015-2016
+
+Subject: Refrigeration and Air cond:
+
+Date: 28/11/2015
+
+Instructions: Candidates should
+
+itioning
+Marks: 60
+Time: 10.00 am to 1.00 pm
+Duration: 3 (hrs)
+
+Re-Examination
+read carefully the instructions printed on the question
+
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No 1 is compulsory.
+
+2. Attempt any FOUR from remaining.
+
+3. All questions carry equal marks.
+
+4. Figure in brackets on the right hand side indicate full marks.
+
+5. Assume suitable data if necessary.
+
+6. Use of Non-programmable Scientific Calculator is allowed.
+
+7. Use of ‘Refrigerant Tables and Charts, Psychrometric Chart and Air Conditioning
+
+Data’ is allowed.
+
+Q.2 Attempt ANY FOUR
+a:
+
+(12)
+
+Tf 5000 kg of ice at -7°C is required to be formed from water at 26°C in 12 hours,
+
+determine the refrigeration capacity of the refrigeration plant in tons of
+
+refrigeration. Take Cpy: = 4.1
+ice = 335 kJ/kgK.
+
+87 kI/kgK and Cpice = 2.1 kJ/kgK and latent heat of
+
+b. Explain with P-h & T-S diagram effect of condenser and evaporator pressure on COP of vapour
+
+compression system.
+
+c. Define i) WBT ii) Relative humidity iii) Degree of Saturation iv) due point temperature.
+d. State different types duct design methods? Explain anyone method in brief.
+
+e. Explain factors affecting human comfort.
+
+f. What are the advantages of multistage compression?
+
+Q.2 a A refrigeration system u
+
+ses R12 as a refrigerarit. The condenser temperature is (2)
+
+50°C and evaporator temperature is 0°C. The refrigeration capacity is 7 tons.
+Assuming the simple saturation cycle, determine the theoretical COP of the
+system. Use the p-h diagram for R12.
+
+b. In an absorption type of NH3-water refrigerator, the heat is supplied by steam at 3 Cy)
+
+wo}
+
+bar, 90% dry. The evaporator temperature is maintained at -8°C. The condenser
+
+rejects heat to the cooling water available at 30°C. Find the maximum COP of the
+
+system. If actual COP is 72% of maximum COP. find the amount of heat required
+
+to be supplied if refrigeration load is 30 TR. L
+
+c. State different types of Air-
+
+conditioning Systems and explain one of them in detail with neat sketch.
+
+(6)
+
+i
+--- page 2 ---
+-
+Q.3 a. An air-conditioning plant is required to supply 60 m° of air per minute at a DBT (6)
+of 21°C and 55% RH. The outside air is at DBT of 28°C and 60% RH. Determine
+the mass of water drained and capacity of the. cooling coil. Assume the air
+conditioning plant first to dehumidify and then to cool the air.
+b. A rectangular duct section of (500 mm x 350 mm) size carries 75 m/min of air (8)
+. having density of 1.15 kg/m?. Determine the equivalent diameter of a circular
+duct. If 5 .
+a) the quantity of air carried.in both the cases is same
+b) the velocity of air in both the cases is same
+Iff= 0.01 for sheet metal, find the pressure loss per 100 m length of duct.
+
+Q.4 a. What are the characteristics of Ammonia as a refrigerant? With the help of neat : (6)
+and labeled sketch, explain the practical NH3-HO Vapor Absorption System. :
+b. The humidity ratio of atmospheric air at 28°C dry-bulb temperature at 760 mm of -(3)
+Hg is 0.016 kg/kg of dry air. Determine the partial pressure of water vapor.
+c. Explain the effect of any two operating variables on the performance of Vapor | (3)
+Compression Refrigeration System with the help of p-h diagram.
+
+Q.5 a. An air-conditioning plant is to be designed for a small office for winter (6)
+: conditions with the following data:
+Outdoor conditions = 10°C DBT.and 8°C WBT
+Required indoor conditions = 20°C DBT and 60% RH
+Amount of air circulation = 0.3 m*/min/person
+Seating capacity of an office = 50 persons
+
+The required condition is achieved first by heating and then by adiabatic
+humidifying. Find:
+a) heating capacity of the coil in kW and the surface temperature, if the by-
+pass factor of the coil is 0.32 and
+b) capacity of the humidifier
+
+b. Explain the applications of refrigeration in Food process industries.
+ae ee - —— . seiemasctcoesee x
+c. What is secondary refrigerant? Where it is used? é ry
+Q.6 a. txplain the properties of an itfeal refrigerant-absorbent combination. Derive thé C6)
+expression for coefficient of performance of an ideal vapor absorption
+refrigeration system. :
+b. What is the ‘Unit of Refrigeration’? Show that: 1TR =3.517 kW {)
+
+c. Derive an expression for COP of a Bell —-Coleman cycle for Air refrigeration System. e))
+
+QF a. Ina vapor compression refrigeration system, condenser and evaporator pressures (6)
+are 4.98 bar and 1.86 bar respectively.. The temperature of vapor leaving the
+compressor is 25°C. The liquid is cooled to 9°C before throttling. The vapor is
+95% dry before compression. Using the data below, considering specific heat at
+constant pressure for superheated vapor to be 0.65 kJ/kgK and for liquid it is 0.97
+kJ/keK, find the COP of the refrigerator. :
+
+Pressurein bar | Temperature in °C hy in kJ/kg bigs in kJ/kg
+1.86 : -15 21.74 “162
+4.98 14.45 49.22 148.3
+
+b. A person wants to select a refrigerant for a particular refrigeration system, What .-C35
+are the desirable thermo-physical, environmental and safety properties of a
+particular reffigerant he should consider so that he selects appropriate refrigerant?
+
+
+be
+````
+
 ## 2015-16 · Final-Exam · Sem 7 · paper c050f822b66e
 
 - Departments: Mechanical
@@ -2121,6 +2290,7 @@ Adp v) Dehumidifying air quantity
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/REFRIGERATION AND AIR CONDITIONING/REFRIGERATION AND AIR CONDITIONING B TECH (MECHANICAL), BATCH 2015-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 09 June 2016
 - Text: ocr (2 pages), mean OCR confidence 93.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS ey
@@ -2162,7 +2332,6 @@ Q.N.1 Answer any three from the following questions 12
 (b) Explain with p-h diagrams, effect of suction and delivery pressure on COP in vapour
 compression refrigeration cycle i
 (c) What are the required thermodynamic properties of refrigerants?
-(d) Define SHF, RSHF,GSHF, ERSHF. :
 (e) Explain what factors affecting human comfort.
 Q.N.2(a) Define 1ton of refrigeration and energy efficiency ratio. : 04
 
@@ -2519,175 +2688,6 @@ Condenser
 3/3
 ````
 
-## 2014-15 · Final-Exam · Sem 7 · paper b403e3d57587
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/REFRIGERATION AND AIR CONDITIONING/REFRIGERATION AND AIR CONDITIONING B TECH (MECHANICAL), 2014-15 FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 28/11/2015
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-pe
-
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Mechanical)
-Batch: 2014-2015
-
-Year: IV Semester: VII
-
-Academic Year: 2015-2016
-
-Subject: Refrigeration and Air cond:
-
-Date: 28/11/2015
-
-Instructions: Candidates should
-
-itioning
-Marks: 60
-Time: 10.00 am to 1.00 pm
-Duration: 3 (hrs)
-
-Re-Examination
-read carefully the instructions printed on the question
-
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1. Question No 1 is compulsory.
-
-2. Attempt any FOUR from remaining.
-
-3. All questions carry equal marks.
-
-4. Figure in brackets on the right hand side indicate full marks.
-
-5. Assume suitable data if necessary.
-
-6. Use of Non-programmable Scientific Calculator is allowed.
-
-7. Use of ‘Refrigerant Tables and Charts, Psychrometric Chart and Air Conditioning
-
-Data’ is allowed.
-
-Q.2 Attempt ANY FOUR
-a:
-
-(12)
-
-Tf 5000 kg of ice at -7°C is required to be formed from water at 26°C in 12 hours,
-
-determine the refrigeration capacity of the refrigeration plant in tons of
-
-refrigeration. Take Cpy: = 4.1
-ice = 335 kJ/kgK.
-
-87 kI/kgK and Cpice = 2.1 kJ/kgK and latent heat of
-
-b. Explain with P-h & T-S diagram effect of condenser and evaporator pressure on COP of vapour
-
-compression system.
-
-c. Define i) WBT ii) Relative humidity iii) Degree of Saturation iv) due point temperature.
-d. State different types duct design methods? Explain anyone method in brief.
-
-e. Explain factors affecting human comfort.
-
-f. What are the advantages of multistage compression?
-
-Q.2 a A refrigeration system u
-
-ses R12 as a refrigerarit. The condenser temperature is (2)
-
-50°C and evaporator temperature is 0°C. The refrigeration capacity is 7 tons.
-Assuming the simple saturation cycle, determine the theoretical COP of the
-system. Use the p-h diagram for R12.
-
-b. In an absorption type of NH3-water refrigerator, the heat is supplied by steam at 3 Cy)
-
-wo}
-
-bar, 90% dry. The evaporator temperature is maintained at -8°C. The condenser
-
-rejects heat to the cooling water available at 30°C. Find the maximum COP of the
-
-system. If actual COP is 72% of maximum COP. find the amount of heat required
-
-to be supplied if refrigeration load is 30 TR. L
-
-c. State different types of Air-
-
-conditioning Systems and explain one of them in detail with neat sketch.
-
-(6)
-
-i
---- page 2 ---
--
-Q.3 a. An air-conditioning plant is required to supply 60 m° of air per minute at a DBT (6)
-of 21°C and 55% RH. The outside air is at DBT of 28°C and 60% RH. Determine
-the mass of water drained and capacity of the. cooling coil. Assume the air
-conditioning plant first to dehumidify and then to cool the air.
-b. A rectangular duct section of (500 mm x 350 mm) size carries 75 m/min of air (8)
-. having density of 1.15 kg/m?. Determine the equivalent diameter of a circular
-duct. If 5 .
-a) the quantity of air carried.in both the cases is same
-b) the velocity of air in both the cases is same
-Iff= 0.01 for sheet metal, find the pressure loss per 100 m length of duct.
-
-Q.4 a. What are the characteristics of Ammonia as a refrigerant? With the help of neat : (6)
-and labeled sketch, explain the practical NH3-HO Vapor Absorption System. :
-b. The humidity ratio of atmospheric air at 28°C dry-bulb temperature at 760 mm of -(3)
-Hg is 0.016 kg/kg of dry air. Determine the partial pressure of water vapor.
-c. Explain the effect of any two operating variables on the performance of Vapor | (3)
-Compression Refrigeration System with the help of p-h diagram.
-
-Q.5 a. An air-conditioning plant is to be designed for a small office for winter (6)
-: conditions with the following data:
-Outdoor conditions = 10°C DBT.and 8°C WBT
-Required indoor conditions = 20°C DBT and 60% RH
-Amount of air circulation = 0.3 m*/min/person
-Seating capacity of an office = 50 persons
-
-The required condition is achieved first by heating and then by adiabatic
-humidifying. Find:
-a) heating capacity of the coil in kW and the surface temperature, if the by-
-pass factor of the coil is 0.32 and
-b) capacity of the humidifier
-
-b. Explain the applications of refrigeration in Food process industries.
-ae ee - —— . seiemasctcoesee x
-c. What is secondary refrigerant? Where it is used? é ry
-Q.6 a. txplain the properties of an itfeal refrigerant-absorbent combination. Derive thé C6)
-expression for coefficient of performance of an ideal vapor absorption
-refrigeration system. :
-b. What is the ‘Unit of Refrigeration’? Show that: 1TR =3.517 kW {)
-
-c. Derive an expression for COP of a Bell —-Coleman cycle for Air refrigeration System. e))
-
-QF a. Ina vapor compression refrigeration system, condenser and evaporator pressures (6)
-are 4.98 bar and 1.86 bar respectively.. The temperature of vapor leaving the
-compressor is 25°C. The liquid is cooled to 9°C before throttling. The vapor is
-95% dry before compression. Using the data below, considering specific heat at
-constant pressure for superheated vapor to be 0.65 kJ/kgK and for liquid it is 0.97
-kJ/keK, find the COP of the refrigerator. :
-
-Pressurein bar | Temperature in °C hy in kJ/kg bigs in kJ/kg
-1.86 : -15 21.74 “162
-4.98 14.45 49.22 148.3
-
-b. A person wants to select a refrigerant for a particular refrigeration system, What .-C35
-are the desirable thermo-physical, environmental and safety properties of a
-particular reffigerant he should consider so that he selects appropriate refrigerant?
-
-c. Define i) RSHF ii)GSHF iii) ERSHF iv) BPF fB)
-
-be
-````
-
 ## 2014-15 · Final-Exam · Sem 6 · paper 09e441f6dc44
 
 - Departments: Mechanical
@@ -2695,6 +2695,7 @@ be
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/REFRIGERATION AND AIR CONDITIONING/Refrigeration and Air conditioning 2014-15 Final.pdf`
 - Printed on paper: exam date: 05/05/2015
 - Text: ocr (2 pages), mean OCR confidence 92.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2736,7 +2737,6 @@ Q.1 Attempt any three
 a Define ton of refrigeration, Name the different types of systems used for aircraft cabin. 04
 b_ Discuss the numbering systems for refrigerant 04
 c Define — Relative Humidity, Specific Humidity, Degree of Saturation, Dew point depression. 04
-d Define RSHF, GSHF, ERSHF and BPF. 04
 e Explain, in brief the meaning of effective temperature and its significance in air conditioning. 04
 Q.2 a Write short note on limitation of Carnot cycle with gas as a refrigerant. 04
 
@@ -2837,6 +2837,7 @@ iv) Explain cooling and dehumidification process with the help of psychometric c
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/REFRIGERATION AND AIR CONDITIONING/REFRIGERATION AND AIR CONDITIONING B TECH (MECH), BATCH 2014-15 RE EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 09/06/2015
 - Text: ocr (3 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2877,7 +2878,6 @@ the cycle using P-H/T-S diagram.
 d) Define: WBT Relative humidity, Degree of saturation and Dew point 3
 temperature. 5
 
-@) Define RSHF, GSHF, ERSHF and BPF. 3
 
 ) Explain factors affecting the human comfort. 3
 
@@ -3186,6 +3186,7 @@ Describe the important applications of refrigeration and air-conditioning in ind
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/REFRIGERATION AND AIR CONDITIONING/REFRIGERATION AND AIR CONDITIONING B TECH (MECHANICAL), 2013-14 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2013
 - Text: ocr (19 pages), mean OCR confidence 69.7
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS ota
@@ -3340,7 +3341,6 @@ x m
 DLS Ate Vr ate Alu Stalls LA CHPCLaALUre) £AUleS a
 
 Tempera- | Absolute Specific volume Specific enthalpy Specific entropy Tempe-
-ture in°C | pressure in m/kg inkdkg . inkI/g K Tatiire
 in bar - : : in °C
 Water Steam Water   Evapora- Steam Water Evapora- Steam.
 ©) @) (,) (hp) tion ig) hy) ()__ tion (sy) ,) ©
@@ -3710,7 +3710,6 @@ er He 0.001.028 3.6522 327.3 23134 2640.7 1.054 6.584 7.638 0.44
 0.46 79.2
 
 9.001029 3.5032 | 3319 23107 26426 | 1067 6556 7623. | ‘O46
-AO Monta 33663 | 3363 2anRM =. 24a || 179 ORBAN Fee 0.48
 
 OAR
 
@@ -3929,7 +3928,6 @@ The
 
 a ee—“(t—‘i‘iL
 --- page 10 ---
-UME FrancE aut DECI ULESSUTe) 1 aDICS
 
 ©) - @ 7) ) (hp Chyy) (hg) (Ds) ®)
 36.0 244.2) 0.001238 0.055417 | 10575 1744.2 «28017 | 2740 3371 6111 36.0
@@ -3985,13 +3983,11 @@ fas | Hae | Gaal SEH | Tee 1 Get | ae a | us
 : 3 . | 3.716 1570. . 5.286 155
 155 344.8 | 0.001683 0.009 813.| 1630.7 2600.4. | 3:7 4 18
 168 347.3° | 0.001710 0.009310] “1 650.4 29849 | 3747 15506 , 3253 |. 460
-165 aon Gon poe eae a 4 one : sete |3811 1375 5186 -} 470°
 170 352. Y 008 372. 6. ‘ 811 OL. 186 o"
 175 354.6 | 0.001803. 0.007.927 |: 1 713:3 25333 | 3.844 1306. 5.150. u
 Pye ; 77 1236 5.113 iso
 180 357.0 | 0.001840 0.007497 | 17348 779.1 25139 | 38 2 4as:
 185 359.2 | 0.001881 0.007082 | 17565 736.5 24930 | 3.910   Lle4 eae +) 450°
-490 ‘eve | BEDRMS ROSE ee . OF atte | aoe He: Me | ie
 --- page 11 ---
 TABLE 3
 Specific Volume of Superheated Steam
@@ -4355,7 +4351,6 @@ e+ 0.01303
 
 : TABLE 4 ‘s
 ‘ BrecificHathaliy of Supailiested Steam
-Absolute X Specific enthalphy ws in Khkg: at Yarious seuperaliiress in °C~
 Pressure : — ; —
 aba 100 150-200-250, 300. 350°. 400 5500. 600. “700 800
 : ~~ : ts 05.6 -3.928.8 4158.7
@@ -4775,7 +4770,6 @@ H1119.41
 --- page 18 ---
 A Textbook of Refrigeration and Air Conditioning
 
-Pp yy hy hy hyp 5; Se
 
 16.88344 | 0.001742 386.76 1473.91 | 1087.15 1.4065 4.846]
 17.34482 | 0.001747 391.79 1474.12 | 1082.33 1.4221 4.8357
@@ -4802,7 +4796,6 @@ sul 4 H Lats b
 wi Ss 3 8 8 g g 8 2 2 Z
 yg tet 8 g & 8 6 8 cS a s 8 8 R \ \
 orl ° ~——— Specific humidity, kg/kg of dry air ———»_
-i WNW Wad WALA AOD NSA MR NOS TTY 3 i]
 
 —~Som 23 DD @D 5 A = ey
 e2e88aaR S & 2 & é a
@@ -4815,6 +4808,7 @@ e2e88aaR S & 2 & é a
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/REFRIGERATION AND AIR CONDITIONING/REFRIGERATION AND AIR CONDITIONING 2013-14 Final exam.pdf`
 - Printed on paper: exam date: 07/05/2014
 - Text: ocr (2 pages), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4857,7 +4851,6 @@ working on vapour compression cycle. The temperature range of the cycle is -15°
 system is 65%. Find the power required to drive the plant. Properties of NH3 refrigerant
 
 are: (10)
-T; P Vv hy Hg Sr = |
 (°C) (bar) (m?/kg) | (KJ/Kg) | (KJ/Kg K)_| (KJ/Kg K) | (KJ/Kg K)
 -15 2.36 0.509 112.3 1426 0.457 5.549
 25 10.01 0.128 298.9 1466 1.124 5.039
@@ -5066,6 +5059,7 @@ A
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/REFRIGERATION AND AIR CONDITIONING/Refrigeration and Airconditioning 2013-14 Re-exam.pdf`
 - Printed on paper: exam date: 30/06/2014
 - Text: ocr (3 pages), mean OCR confidence 75.9
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5193,8 +5187,6 @@ Friction factor (f)
 
 ooo ° ° ° ° ° ° e-s9 eos
 oD 0 ° ° ° roy ° 5 oo og 3
-oo = —_ iy nN w > a o sw ®© oO 8
-2 © 0 a So oa 5 ro oS o 809 600 6
 a c
 4
 Ler
@@ -5247,7 +5239,6 @@ o HO
 Ct th
 2 t
 = Ir
-we og rv Fog nr a O 3 pn uw tw 2
 ° + & a a
 
 ——~ Relative roughness ( ¢/d)
@@ -5255,7 +5246,6 @@ we og rv Fog nr a O 3 pn uw tw 2
 Take
 Sein = 02 kg/m? Valu ob
 
-py 557 (AL) = 1818 x sf nt Spee
 
 sunfae 14 Ug hess
 

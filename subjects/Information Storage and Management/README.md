@@ -1,6 +1,6 @@
 # Information Storage and Management
 
-**24** unique papers (26 copies across programmes) · 2012-13 to 2019-20 · 7 programmes · Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Trim 11
+**23** unique papers (24 copies across programmes) · 2012-13 to 2019-20 · 7 programmes · Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Trim 11
 
 Download only this subject, sorted by academic year:
 
@@ -37,7 +37,6 @@ Also filed as: `IINFORMATION STORAGE MANAGEMENT`
 | 2013-14 | Final-Exam | Question paper | Sem 5 | MCA | Information Storage and Management 2013-14 Final.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 7 | B TECH / COMPUTER | INFORMATION STORAGE AND MANAGEMENT B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 8 | MBA TECH / COMPUTER | Information storage and Management 2013-14 Re-exam.pdf |
-| 2012-13 | Final-Exam | Question paper | Trim 11 | MBA TECH / COMPUTER, MBA TECH / I T | IINFORMATION STORAGE MANAGEMENT 2012-2013 FINALscan0032.pdf |
 | 2012-13 | Final-Exam | Question paper | Trim 11 | MBA TECH / COMPUTER, MBA TECH / I T | IINFORMATION STORAGE MANAGEMENT2012-2013 FINALscan0031.pdf |
 | — | Final-Exam | Question paper | Sem 6 | B TECH / COMPUTER | INFORMAITON STRORAGE AND MANAGEMENT B TECH (COMP), FINAL EXAM.pdf |
 

@@ -1,6 +1,6 @@
 # Financial Analytics: question papers in full
 
-3 unique papers · 2017-18 to 2018-19 · Common (all branches)
+3 unique papers · 2016-17 to 2018-19 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -142,72 +142,6 @@ earlier default is 2%. Assume the following:
 Risk free LIBOR interest rate is 5% per annum (continuous compounding), Recovery Rate = 40%, Tenure = 5 years
 
 Page 2[2
-````
-
-## 2017-18 · Re-Exam · Sem 10 · paper 2fc7305787aa
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL ANALYTICS/Financial Analytics 2017-18 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 12 May 2017
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-geil OTe OF Bra, 27
-4 7}
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-c
-
-Programme: MBA TECH (All STREAMS) Year: V ~- Semester: X
-
-Academic Year: 2016-17
-Subject: Financial Analytics ,
-
-Marks: 60
-Time: 10.00 amto 12.00noon «
-Date: 12 May 2017 Durations: 2 (Hrs)
-No. of pages: 2
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-_ 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1. All sub-questions compulsory. Each sub-question carries 4 marks.
-a) Pesaille in brief the three pillars of Basel Il accord.
-b) What is back testing?
-c) Describe briefly swap agreements.
-Q2. List out differences between Total Quality Management and Total Risk Management .
-
-Q3.What is systemic risk? Explain the causes and factors that support systemic risk.
-
-Vr
---- page 2 ---
-Q4. What is Bottom-up approach for risk identification? Explain by way of appropriate diagram.
-
-Q5. Describe briefly futures, forwards, Forward Rate Agreements and Swaps along with suitable
-
-examples.
-
-Q6. What are some of the key issues and challenges for supervisors of banks to ensure capital
-adequacy?
-Q7. Each sub-question carries 6 marks.
-
-a) What are the steps involved in stress testing?
-
-b) List out any six assumptions along with brief explanation for “The capital asset pricing model”.
-
--f~N
 ````
 
 ## 2017-18 · Re-Exam · Sem 10 · paper caef6ba402c9
@@ -406,4 +340,70 @@ Q7. What is Monte Carlo Simulation, how is it used for calculation of VaR? Simul
 Carlo Simulation, assuming Annual Mean = 15%, Annual Standard Deviation = 25%.
 
 4]
+````
+
+## 2016-17 · Re-Exam · Sem 10 · paper 2fc7305787aa
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL ANALYTICS/Financial Analytics 2017-18 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 12 May 2017
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+geil OTe OF Bra, 27
+4 7}
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+c
+
+Programme: MBA TECH (All STREAMS) Year: V ~- Semester: X
+
+Academic Year: 2016-17
+Subject: Financial Analytics ,
+
+Marks: 60
+Time: 10.00 amto 12.00noon «
+Date: 12 May 2017 Durations: 2 (Hrs)
+No. of pages: 2
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+_ 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1. All sub-questions compulsory. Each sub-question carries 4 marks.
+a) Pesaille in brief the three pillars of Basel Il accord.
+b) What is back testing?
+c) Describe briefly swap agreements.
+Q2. List out differences between Total Quality Management and Total Risk Management .
+
+Q3.What is systemic risk? Explain the causes and factors that support systemic risk.
+
+Vr
+--- page 2 ---
+Q4. What is Bottom-up approach for risk identification? Explain by way of appropriate diagram.
+
+Q5. Describe briefly futures, forwards, Forward Rate Agreements and Swaps along with suitable
+
+examples.
+
+Q6. What are some of the key issues and challenges for supervisors of banks to ensure capital
+adequacy?
+Q7. Each sub-question carries 6 marks.
+
+a) What are the steps involved in stress testing?
+
+b) List out any six assumptions along with brief explanation for “The capital asset pricing model”.
+
+-f~N
 ````

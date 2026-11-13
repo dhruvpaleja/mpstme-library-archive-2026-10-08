@@ -16,8 +16,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Production Techonogy 2025-26 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / MECHANICAL | Production Technology Batch 2024-25 Final0001.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Production Technology(701ME0C017)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | Integrated Mechanical 7031 | QP_Production Technology(701ME0C017)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Production Technology(701ME0C017)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Production Technology Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Production Technology Batch 2023-24 Re Exam0001.pdf |
 | 2022 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Production Technology Batch 2022 Final0001.pdf |

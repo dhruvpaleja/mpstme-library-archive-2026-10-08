@@ -1,10 +1,10 @@
 # Geotech II: question papers in full
 
-7 unique papers · 2011-12 to 2011-12 · Civil
+7 unique papers · 2011-12 to 2013-14 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2011-12 · Re-Exam · Trim 6 · paper f0a32f228d41
+## 2013-14 · Re-Exam · Trim 6 · paper f0a32f228d41
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -98,107 +98,87 @@ e) Functions of Geo-Textile in ground improvement
 (20)
 ````
 
-## 2011-12 · Re-Exam · Trim 6 · paper 54aa95254bbe
+## 2012-13 · Final-Exam · Trim 6 · paper 38ab1472343b
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM VI/GEOTECH II/GEOTECH II BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: exam date: 26/06/2012
-- Text: ocr (2 pages), mean OCR confidence 87.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM VI/GEOTECH II/Geotech II Final 20.pdf`
+- Printed on paper: exam date: 8/5/2013
+- Text: text (2 pages)
 
 ````text
-2 SVKM’s NMIMS
-
-i“ Mukesh Patel School of Technology Management & En
-Programme: MBA Tech - Civil Year: H Trimester:
-
-Academic Year : 2011-2012 ( < Unversity). |]
-f nbai - § is
-Batch: 2011-12 Kt Usaany” OE!
-Subject: Geotech - II Marks: $00
-‘ Ley’
-Time: Op) ma ToS,
-Date: 26/06/2012 Duration: Panaceno
-
-Re - Examination
-
-N.B: 1) Question no. 1 is compulsory.
-2) Solve any four questions out of the remaining.
-3) In all five questions have to be attempted.
-4) All questions carry equal tharks.
-5) Figures to the right side in bracket indicate full marks.
-
-Q.No. 1 (A) What are pile foundations? Give the broad classification of piles. Explain the
-stages involved in the construction of under reamed pile foundations. [12]
-
-Q.No. 1-(B) Explain the effect of group efficiency of piles in sand and clay. [8]
-
-Q.No.2: A strip footing of 2.0 m width and 1.5 m depth is to be constructed at a site
-Where subsoil consists of following properties. [20]
-ya= 1.6 tim?, Ysa = 1.9 t/m’ ,
-Estimate the ultimate bearing capacity & safe bearing capacity for following
-cases. a) When c = 0, $= 37° b) When c = 2.5 t/m? $ = 26°
-& i) Ground water table is located at a depth of 8.0 m below the ground.
-& ii) Ground water table,is located at a depth of 2.0 m below the ground.
-
-4
-
-} Q. No 3 (A) A 400 diameter pile is driven in to a deposit of sand having the [10]
-following properties.
-Ysat = 1.82 g/em?, p= 1.7 g/cm? Ktan6 = 1.1, Nq= 33, 6 =32°
-The pile is driven to a length of 12.5 mts and the water table is located
-at a depth of 2.5 m below the ground level. Take critical depth of the pile
-as 15d. Compute the safe load that the pile can carry.
-
-Q. No. 3(B) Describe with neat sketches the wash boring & percussion boring techniques
-} with neat sketches. - ; [10]
-
-t, No.4(A) Explain the soil stabilization methods. . [8]
-Q. No. 4(B) What are penetrometer tests? Explain their significance and describe the [12]
-
-Standard penetration test-in detail. Explain how the correction for
-Overburden pressure is applied.
+SVKM's NMIMS
+Mukesh Pate1 School of Technolocy Management & Engineerin
+Programme: MBA (TECH)-Civil   Year:   I1
+Academic Year : 2012-2013
+Subject:   Geotech I1
+Date:   8/5/2013
+Final - Examination
+-   -
+INSTRUCTIONS: The candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use
+NB: 1) Question No. ONE is compulsory
+2) Out of the remaining questions, attempt any FOUR questions
+3) In all FIVE cluestions are to be attempted
+4) Answer to each new question is to be started on a fresh page
+5) Figures in brackets on the right hand side of the question indicate full marks
+6) Illustrate your answer with neat sketches wherever necessary
+7) Take Gravitational Acceleration g= 9.81m/sZ and Specific Weight of water,
+y,=   9.81 ~ ~ l r n unless ' ,   otherwise specified
+8) Assume suitable additional data, if not given & mention it clearly
+Q. No. 1) Answer ANY POUR of the following: -   (20)
+a) Write a note on 'Pressure Distribution beneath Rigid Footings'.
+1   b) Explain the components of settlement in case of shallow foundations.
+c) Explain classification of piles based on materials.
+d) State the objectives of soil exploration.
+e) Write a note on 'Lime Stabilization' of soil.
+Q. No. 2) a) Explain calculation of elastic settlement of soil:   (10)
+Q. No. 2) b) A footing re.sts on a soft clay layer of 5m thick. It has saturated unit weight of
+17.6 KN/rn3 and natural water content of 30 per cent. Its Specific Gravity is 2.65. The
+sub-surface water level reaches to ground level during rainy season. Determine the
+consolidation settlement, if the foundation load at the centre of the clay layer causes a
+e
+vertical stress increase of 8KN/m2. Consider clay as normally consolidated and take a
+value of liquid limit as 35 per cent.   (10)
+Q. No. 3) a) Describe in detail 'Schmertmann's Method of calculating settlements iri granular
+soils'.   (06)
+Page 1 of 2
 --- page 2 ---
-Q.No. 5(A) Explain different types of settlements. Describe the steps involved in proper [10]
-proportioning of footings.
-
-Q. No. 5(B) A group of piles each 500 mm in diameter and 30 m long supports a raft.
-The piles are arranged in 3 rows and spaced at 1.25 m c/c. The properties [10]
-of soil are as follows.
-Yo= 17.5 KN/m?, qu=75 KN/m?, 6 =0°
-Assuming a = 0.8 and FOS = 2.5, determine the capacity of the pile group.
-
-Q.No.6: Write short notes on any four of the following: [20]
-i) Types of geosynthetics.
-ii) Methods of pile driving.
-iii) | Negative skin friction.
-iv) Seismic refraction method.
-v) Shape factors & Inclination factors in shallow foundations as per
-IS code method.
-
-Q. No. 7(A) Explain how the number of trial pits & borings are decided in the construction
-of buildings. [8]
-
-Q. No. 7(B) Following data refers to a cyclic pile load test carried out on a 300 mm 6 [12]
-pile which is 10 m in length .
-
-Load on pile (KN) 150 | 200 | 250 | 300 | 400 | 500 | 600
-
-Total settlement of pile top in mm | 1.45 | 2.25 | 2.75 | 3.6 | 5.75 | 10.75} 30
-
-Net settlement of pile top inmm | 0.40 | 0.65 | 0.80 | 1.0 | 1.7 | 5.25 | 22.8
-
-Plot the load settlement curve and estimate the allowable load of pile as per IS
-Code practice.
-
-oo 2 2 ok ok ok ok ok
-
-oe
-
-)
+-2-
+Q. No. 3) b) A square footing of 1.5 m x 1.5 m size has depth of 1.4 m. It rests on normally
+consolidated saturated clay with unconfined compressive strength of 60 K N / ~ The ~ .
+clay layer is 5m deep & has following properties:-
+ySat = 19.2 K N / ~ " natural water content= 34 per cent, e, = 0.908, Cc = 0.27, and
+Specific Gravity = 2.67.
+Determine safe load for footing with a factor of safety of 2.5. Use Terzaghi's Bearing
+Capacity Theory. Assume load dispersion of 45' with the horizontal.   (14)
+Q. No. 4) a) Write a note on 'Use of Dynamic Formulae for finding the load carrying capacity of
+pile.   (10)
+Q. No. 4) b) A reinforced concrete pile weighing 50 KN (including weight of helmet & dolly) is
+driven by drop hammer weighing 60 KN and having an effective fall of 0.9 m The
+average set per blow is 1.8 cm. The Temporary Elastic Compression of dolly &
+packing is 0.4 cm, that of pile is 1.2 cm and, that of soil is 0.2 cm. Assume
+coeff~cient of restitution as 0.27 and factor of safety as 2.5. In case of Engineering
+News formula take empirical constant (C) for drop hammer as 2.5. Find out the
+allowable load on pile by Hiley's Formula as well as by Engineering News Formula.
+(10)
+Q. No. 5) a) Explain 'Pile Load Test' with a sketch of Test Set-up.   (10)
+Q. No. 5) b) In a two-layer cohesive soil, bored piles of 500 rnm are installed. The top layer has
+thickness of 6 m & the bottom layer extends to a great depth. The shear strength of
+top clay layer is 50 KN/m2 and that of the bottom layer is 110 KN/m2. Determine the
+length of the bored pile required to carry a safe load of 400 KN, allowing for a factor
+of safety of two. Take adhesion factor a = 0.5   (10)
+Q. No. 6) a) Explain 'Wash Boring' in detail with a neat sketch.   (10)
+Q. No. 6) b) Explain 'Standard Penetration Test' in detail.   (1Q)
+1
+Q. No. 7) a) Explain different types of geosynthetics.   (10)
+Q. No. 7) b) Explain 'Reinforced Earth Wali' with its components. Support your answer with a
+neat sketch.   (10).
+*****
+Page 2 of 2
 ````
 
-## 2011-12 · Re-Exam · Trim 6 · paper 46b5e48e1990
+## 2012-13 · Re-Exam · Trim 6 · paper 46b5e48e1990
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -262,7 +242,7 @@ b) What are the various techniques to control excessive settlement of
 foundation soil?   (10)
 ````
 
-## Year not stated · Exam not stated · Trim 6 · paper eabea50e079b
+## 2011-12 · Exam not stated · Trim 6 · paper eabea50e079b
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -357,7 +337,7 @@ SRR ROR RR RR
 =
 ````
 
-## Year not stated · Exam not stated · Trim 6 · paper bef8bdf79e10
+## 2011-12 · Exam not stated · Trim 6 · paper bef8bdf79e10
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -464,84 +444,104 @@ i e) Write a detailed note on spacing of bore holes and depth of bore holes. Als
 7 } draw a typical bore log. . (10)
 ````
 
-## Year not stated · Final-Exam · Trim 6 · paper 38ab1472343b
+## 2011-12 · Re-Exam · Trim 6 · paper 54aa95254bbe
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM VI/GEOTECH II/Geotech II Final 20.pdf`
-- Printed on paper: exam date: 8/5/2013
-- Text: text (2 pages)
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM VI/GEOTECH II/GEOTECH II BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: exam date: 26/06/2012
+- Text: ocr (2 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technolocy Management & Engineerin
-Programme: MBA (TECH)-Civil   Year:   I1
-Academic Year : 2012-2013
-Subject:   Geotech I1
-Date:   8/5/2013
-Final - Examination
--   -
-INSTRUCTIONS: The candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their use
-NB: 1) Question No. ONE is compulsory
-2) Out of the remaining questions, attempt any FOUR questions
-3) In all FIVE cluestions are to be attempted
-4) Answer to each new question is to be started on a fresh page
-5) Figures in brackets on the right hand side of the question indicate full marks
-6) Illustrate your answer with neat sketches wherever necessary
-7) Take Gravitational Acceleration g= 9.81m/sZ and Specific Weight of water,
-y,=   9.81 ~ ~ l r n unless ' ,   otherwise specified
-8) Assume suitable additional data, if not given & mention it clearly
-Q. No. 1) Answer ANY POUR of the following: -   (20)
-a) Write a note on 'Pressure Distribution beneath Rigid Footings'.
-1   b) Explain the components of settlement in case of shallow foundations.
-c) Explain classification of piles based on materials.
-d) State the objectives of soil exploration.
-e) Write a note on 'Lime Stabilization' of soil.
-Q. No. 2) a) Explain calculation of elastic settlement of soil:   (10)
-Q. No. 2) b) A footing re.sts on a soft clay layer of 5m thick. It has saturated unit weight of
-17.6 KN/rn3 and natural water content of 30 per cent. Its Specific Gravity is 2.65. The
-sub-surface water level reaches to ground level during rainy season. Determine the
-consolidation settlement, if the foundation load at the centre of the clay layer causes a
-e
-vertical stress increase of 8KN/m2. Consider clay as normally consolidated and take a
-value of liquid limit as 35 per cent.   (10)
-Q. No. 3) a) Describe in detail 'Schmertmann's Method of calculating settlements iri granular
-soils'.   (06)
-Page 1 of 2
+2 SVKM’s NMIMS
+
+i“ Mukesh Patel School of Technology Management & En
+Programme: MBA Tech - Civil Year: H Trimester:
+
+Academic Year : 2011-2012 ( < Unversity). |]
+f nbai - § is
+Batch: 2011-12 Kt Usaany” OE!
+Subject: Geotech - II Marks: $00
+‘ Ley’
+Time: Op) ma ToS,
+Date: 26/06/2012 Duration: Panaceno
+
+Re - Examination
+
+N.B: 1) Question no. 1 is compulsory.
+2) Solve any four questions out of the remaining.
+3) In all five questions have to be attempted.
+4) All questions carry equal tharks.
+5) Figures to the right side in bracket indicate full marks.
+
+Q.No. 1 (A) What are pile foundations? Give the broad classification of piles. Explain the
+stages involved in the construction of under reamed pile foundations. [12]
+
+Q.No. 1-(B) Explain the effect of group efficiency of piles in sand and clay. [8]
+
+Q.No.2: A strip footing of 2.0 m width and 1.5 m depth is to be constructed at a site
+Where subsoil consists of following properties. [20]
+ya= 1.6 tim?, Ysa = 1.9 t/m’ ,
+Estimate the ultimate bearing capacity & safe bearing capacity for following
+cases. a) When c = 0, $= 37° b) When c = 2.5 t/m? $ = 26°
+& i) Ground water table is located at a depth of 8.0 m below the ground.
+& ii) Ground water table,is located at a depth of 2.0 m below the ground.
+
+4
+
+} Q. No 3 (A) A 400 diameter pile is driven in to a deposit of sand having the [10]
+following properties.
+Ysat = 1.82 g/em?, p= 1.7 g/cm? Ktan6 = 1.1, Nq= 33, 6 =32°
+The pile is driven to a length of 12.5 mts and the water table is located
+at a depth of 2.5 m below the ground level. Take critical depth of the pile
+as 15d. Compute the safe load that the pile can carry.
+
+Q. No. 3(B) Describe with neat sketches the wash boring & percussion boring techniques
+} with neat sketches. - ; [10]
+
+t, No.4(A) Explain the soil stabilization methods. . [8]
+Q. No. 4(B) What are penetrometer tests? Explain their significance and describe the [12]
+
+Standard penetration test-in detail. Explain how the correction for
+Overburden pressure is applied.
 --- page 2 ---
--2-
-Q. No. 3) b) A square footing of 1.5 m x 1.5 m size has depth of 1.4 m. It rests on normally
-consolidated saturated clay with unconfined compressive strength of 60 K N / ~ The ~ .
-clay layer is 5m deep & has following properties:-
-ySat = 19.2 K N / ~ " natural water content= 34 per cent, e, = 0.908, Cc = 0.27, and
-Specific Gravity = 2.67.
-Determine safe load for footing with a factor of safety of 2.5. Use Terzaghi's Bearing
-Capacity Theory. Assume load dispersion of 45' with the horizontal.   (14)
-Q. No. 4) a) Write a note on 'Use of Dynamic Formulae for finding the load carrying capacity of
-pile.   (10)
-Q. No. 4) b) A reinforced concrete pile weighing 50 KN (including weight of helmet & dolly) is
-driven by drop hammer weighing 60 KN and having an effective fall of 0.9 m The
-average set per blow is 1.8 cm. The Temporary Elastic Compression of dolly &
-packing is 0.4 cm, that of pile is 1.2 cm and, that of soil is 0.2 cm. Assume
-coeff~cient of restitution as 0.27 and factor of safety as 2.5. In case of Engineering
-News formula take empirical constant (C) for drop hammer as 2.5. Find out the
-allowable load on pile by Hiley's Formula as well as by Engineering News Formula.
-(10)
-Q. No. 5) a) Explain 'Pile Load Test' with a sketch of Test Set-up.   (10)
-Q. No. 5) b) In a two-layer cohesive soil, bored piles of 500 rnm are installed. The top layer has
-thickness of 6 m & the bottom layer extends to a great depth. The shear strength of
-top clay layer is 50 KN/m2 and that of the bottom layer is 110 KN/m2. Determine the
-length of the bored pile required to carry a safe load of 400 KN, allowing for a factor
-of safety of two. Take adhesion factor a = 0.5   (10)
-Q. No. 6) a) Explain 'Wash Boring' in detail with a neat sketch.   (10)
-Q. No. 6) b) Explain 'Standard Penetration Test' in detail.   (1Q)
-1
-Q. No. 7) a) Explain different types of geosynthetics.   (10)
-Q. No. 7) b) Explain 'Reinforced Earth Wali' with its components. Support your answer with a
-neat sketch.   (10).
-*****
-Page 2 of 2
+Q.No. 5(A) Explain different types of settlements. Describe the steps involved in proper [10]
+proportioning of footings.
+
+Q. No. 5(B) A group of piles each 500 mm in diameter and 30 m long supports a raft.
+The piles are arranged in 3 rows and spaced at 1.25 m c/c. The properties [10]
+of soil are as follows.
+Yo= 17.5 KN/m?, qu=75 KN/m?, 6 =0°
+Assuming a = 0.8 and FOS = 2.5, determine the capacity of the pile group.
+
+Q.No.6: Write short notes on any four of the following: [20]
+i) Types of geosynthetics.
+ii) Methods of pile driving.
+iii) | Negative skin friction.
+iv) Seismic refraction method.
+v) Shape factors & Inclination factors in shallow foundations as per
+IS code method.
+
+Q. No. 7(A) Explain how the number of trial pits & borings are decided in the construction
+of buildings. [8]
+
+Q. No. 7(B) Following data refers to a cyclic pile load test carried out on a 300 mm 6 [12]
+pile which is 10 m in length .
+
+Load on pile (KN) 150 | 200 | 250 | 300 | 400 | 500 | 600
+
+Total settlement of pile top in mm | 1.45 | 2.25 | 2.75 | 3.6 | 5.75 | 10.75} 30
+
+Net settlement of pile top inmm | 0.40 | 0.65 | 0.80 | 1.0 | 1.7 | 5.25 | 22.8
+
+Plot the load settlement curve and estimate the allowable load of pile as per IS
+Code practice.
+
+
+oe
+
+)
 ````
 
 ## Year not stated · Re-Exam · Trim 6 · paper e9080fcca74b

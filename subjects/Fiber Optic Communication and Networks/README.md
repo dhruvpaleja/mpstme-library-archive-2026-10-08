@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Fiber Optic Communication and Networks(702EX0C025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech EXTC 7006 | QP_Fiber Optic Communication and Networks(702EX0C025)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Fiber Optic Communication and Networks(702EX0C025)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Fiber Optic Communication and Networks(702EX0C025)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 10 | B TECH / EXTC, B.TECH INTEGRATED / EXTC | Fiber Optic Communication and Networks batch 2022-23,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech EXTC 7006 | QP_Fiber Optic Communication and Networks(702EX0C025)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Fiber Optic Communication and Networks(702EX0C025)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / EXTC, MBA TECH / EXTC | Fiber Optic Communication and Networks, Sem VI, Final Exam 2024-25 & Re Exam 2022_865f97d2.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / EXTC | Fiber Optic Communication and Networks Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / EXTC | Fiber Optic Communication and Networks Batch 2023-24 Final.pdf |

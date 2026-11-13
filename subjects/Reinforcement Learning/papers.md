@@ -451,6 +451,7 @@ V(S1), V(S2), and V(S3).
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AIML_7053/Reinforcement Learning/QP_Reinforcement Learning(702DB0E014)_2025-2026.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (8 pages), mean OCR confidence 84.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -568,7 +569,6 @@ ii. Estimate the state value for both the states A and B using Every
 Visit Monte Carlo algorithm. . 5
 iii. Construct Markov model that best explains the above scenario.
 Hint:
-Return G, = Reza + YReaa + y?Regg + v7 OR,
 CO-2,4 b : ; i ee 2 :
 SO-1 With reference to Dynamic Programming approach, explain pseudo-code [5].
 BL-2 of Value Iteration algorithm. :
@@ -2039,6 +2039,7 @@ FOG 6 OE
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/REINFORCEMENT LEARNING/Reinforcement Learning, Sem VI, Final Exam 2024-25.pdf` (+2 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 89.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2214,8 +2215,6 @@ iii. Justify why SARSA is called an on-policy TD control
 CO-2, 3; algorithm in 1-2 sentences.
 SO-1;
 BL- 2,4 Hint: SARSA learing algorithm is given by the following equation:
-QC St At) — Q¢ St, At)
-+ a [Rear + QC Stan, Atar) — Q( St, Ard]
 b | In the context of Reinforcement Learning, soft policies are used to
 ensure sufficient exploration during learning.
 a) What is a soft policy in Monte Carlo control? How does it
@@ -2248,6 +2247,7 @@ BL-2, 4 Compare the difference between Q-learning and SARSA. [10]
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/DATA SCIENCE/SEM-VII/REINFORCEMENT LEARNING/Reinforcement Learning, Sem-VII, Final Exam 2024-25.pdf` (+1 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (9 pages), mean OCR confidence 85.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 q
@@ -2369,7 +2369,6 @@ iii. - Justify why SARSA is called an on-policy TD control algorithm in
 
 Hint: SARSA learning algorithm is given by the following equation:
 
-Q(Sis Ar) — QS, Ar) + a] Resa + 7Q(Se41, Atsa) ~ OCS, Ad)
 
 [10]
 --- page 3 ---
@@ -2916,6 +2915,7 @@ rand
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/DATA SCIENCE/SEM-VII/REINFORCEMENT LEARNING/Reinforcement Learning, Sem-VII, Batch 2024-25 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (10 pages), mean OCR confidence 80.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3159,7 +3159,6 @@ Compute value of state IN, V(UIN)
 
 Hint: Bellman Equation for state value function is given by-
 
-Va(S) = ExlReas + ¥GrealS: = 8] = >, mals) 9” pls'.ris.ay(r + yee(s')
 --- page 6 ---
 a In the table below, the numbers are the Q values for each state-action pair.
 
@@ -3346,6 +3345,7 @@ T s19 <= 820 StartT sO
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/DATA SCIENCE/SEM-VII/REINFORCEMENT LEARNING/Reinforcement Learning, Sem-VII, Final Exam, A Y 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30/Nov/2023
 - Text: ocr (9 pages), mean OCR confidence 88.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -3661,7 +3661,6 @@ Recall the following formulae about SARSA:
 
 Define the n-step Q-return
 
-qi!” = = Rega + yRego t - $Y Regn +9" Q(Stin)
 
 n-step Sarsa updates Q(s, a) towards the n-step Q-return
 

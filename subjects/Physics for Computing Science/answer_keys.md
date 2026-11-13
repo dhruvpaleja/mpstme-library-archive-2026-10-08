@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CSBS_7036/Physics for Computing Science/ANS_Physics for Computing Science(702BS0C024)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Dec 2024
 - Text: mixed (7 pages), mean OCR confidence 38.1
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -71,7 +73,6 @@ ord ne of eo IEW Ste (47
 Ned = FG oF 1G)
 = 5-6 Kier?
 
-RARER RERE 2 RRR KEE
 --- page 3 ---
 he 3
 ay
@@ -96,7 +97,6 @@ cv]
 (é]
 --- page 4 ---
 @4 4) '
-Blocle cli m gheavi aitternt blee
 eL pope ot a theagh opted J- 0
 
 fy bre _ @)
@@ -138,19 +138,14 @@ FIC 7) IC HOH
 ) ay OD
 
 Recombin ehen procen A ] 6)
-elechen «hele Ina sen jcen duc»
 : ;
 
 wih atta ghon
-Ex planch— ot contan} concentra ot . fio)
-ot clechren-hele pews ab < gine hime
 
 Yy due fo He welt sperertt rq é
 
-mnehnt & gona Ah pars & Aecombi
 
 ; {
-mn chew asta , ensuite Sreble |; ht
 Concentrorhon at dhum-/ 2 oad
 
 by Gp -€,2 1 #9 eV -
@@ -184,7 +179,6 @@ FEISS (5 FC ICRF
 --- page 6 ---
 Que], 7 }
 ay MY Hiece diffrence beween
-Acvurble & avers ble procen) 2 FOEG)
 
 Dragrom Carnot eyine -& , [10]
 Explenchon & (Came “yt a{®) P
@@ -195,7 +189,6 @@ Explenchon & (Came “yt a{®) P
 Fondly tHciewey= £0.
 "T~oer & Tre Fook
 
-Fad Tine Foe ePRRemey le bi FO,
 & Te contr -
 
 qo [ee oe ics @)
@@ -260,7 +253,6 @@ Po) oe tee
 wh phn e: ooly m™
 Namo = OKO ty Z 4
 a”
-Ayre po by rae ra nA D
 Ea al KS
 a -3 ~
 s My g Bre om} 5
@@ -291,6 +283,8 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CSBS_7036/Physics for Computing Science/ANS_Physics for Computing Science(702BS0C024)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (8 pages), mean OCR confidence 37.3
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -379,7 +373,6 @@ Achondingy — Hone Ywhelepenelind ev. — O
 Palvehen tll E21 h _ ©
 Pa a
 
-Exrvlanahen ob UNO polnt enugy ;
 by patsy m2) ~©
 
 .
@@ -470,7 +463,6 @@ C43
 ) e) Explanahn ot Miller indice = G) os
 
 Steps to find th en Ml lew ima ces ots) 3)
-Waic ndlahon | ashe d joo'.dno’. dv
 
 ec * EY ec) |-© _
 
@@ -509,7 +501,6 @@ o 918 N
 FIC DI EH ar
 --- page 6 ---
 @ ¢ 7 q
-AY Cormot eng]!nc cliagrnn, — Calmerd
 
 €sPlanah er, a
 CS de ccviphren @)
@@ -544,7 +535,6 @@ Avr Q-W . -wI-(-bI) ®
 = -20F ~ : (6)
 
 Cined intemd emhey
-Ve L Ui +H U : e)
 Ver WoT +0 7205)
 
 pon? >

@@ -1,6 +1,6 @@
 # Advanced Image Processing
 
-**24** unique papers (24 copies across programmes) · 2007-08 to 2018-19 · 3 programmes · Sem 1, Sem 2, Sem 8, Trim 1, Trim 2, Trim 3
+**23** unique papers (23 copies across programmes) · 2007-08 to 2018-19 · 3 programmes · Sem 1, Sem 2, Sem 8, Trim 1, Trim 2, Trim 3
 
 Download only this subject, sorted by academic year:
 
@@ -21,7 +21,6 @@ Also filed as: `ADAVNCE IMAGE PROCESSING`
 | 2016-17 | Final-Exam | Question paper | Sem 1 | M TECH / COMPUTER | Advanced Image Processing 2016-2017 Final.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 2 | M TECH / EXTC | Advanced Image Programming 2016-17 Final.pdf |
 | 2015-16 | — | Question paper | Sem 1 | M TECH / COMPUTER | Advanced Image Processing 2015-2016.pdf |
-| 2014-15 | — | Question paper | Sem 2 | M TECH / EXTC | ADVANCED COMMUNICATION NETWORKS BATCH 2014-20150001.pdf |
 | 2014-15 | Final-Exam | Question paper | Sem 1 | M TECH / COMPUTER | Advanced Image Processing 2014-2015 Final.pdf |
 | 2014-15 | Re-Exam | Question paper | Sem 1 | M TECH / COMPUTER | Advanced Image Processing Batch 2014-15 Re Exam.pdf |
 | 2013-14 | Final-Exam | Question paper | Sem 1 | M TECH / COMPUTER | Advanced Image Processing 2013-14 Final.pdf |

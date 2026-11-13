@@ -16,11 +16,11 @@ Also filed as: `MICROELECTRO MECHANICAL SYSTEM`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Microelectromechanical Systems(702MH0E019)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | Microeletromechanical Systems, Sem-VII, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Mechatronics 7004 | QP_Microelectromechanical Systems(702MH0E019)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Microelectromechanical Systems(702MH0E019)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Microelectromechanical Systems(702MH0E019)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech Mechatronics 7004 | QP_Microelectromechanical Systems(702MH0E019)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Microelectromechanical Systems(702MH0E019)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | Microelectromechanical Systems, Sem-VII, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | Microelectromechanical Systems, Sem-VII, Final Exam, A Y 2023-24.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | MICROELECTROMECHANICAL_SYSTEMS_B TECH (MECHATRONICS), 2019-20 FINAL_EXAM_.pdf |

@@ -402,7 +402,7 @@ the help of a suitable diagram.
 ********** 4 **********
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 1 · paper db30dccda8bc
+## 2023-24 · Final + Re-Exam · Sem 1 · paper db30dccda8bc
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -527,6 +527,147 @@ Q7 What are the different types of sensors? Classify and describe in brief. [6]
 CO-4; SO-1;
 BL-1,2
 rN .
+````
+
+## 2023-24 · Re-Exam · Sem 1 · paper 1af2acf85527
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/PRINCIPLES OF ELECTRICAL ENGINEERING/Principles of Electrical Engineering, Sem-I, Batch 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/02/2024
+- Text: ocr (3 pages), mean OCR confidence 88.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+¥
+
+Program: B. Tech.(CSBSs) Year: I Semester: I
+
+Subject: Principles of Electrical Engineering Time: 3 hrs (2 PM to 5 PM)
+Date: 10/02/2024 ; No. of Pages: 3
+
+Marks: 100
+
+o>
+
+Re-examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1__~ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary. .
+
+Ql Answer briefly:
+ce a. Define Norton’s theorem. Explain the steps with the help of a suitable diagram. [4]
+CO-1;SO-1; | b, Define [4*1]
+BL-1
+
+(i) Potential difference
+
+(ii) Ohm’s law
+(iii) Capacitance
+
+(iv) Power .
+
+ot "' SO-1; | ¢. What do you understand by RMS and average value of an alternating quantity? [4]
+Pei SO-1; | d. A 1100/400 V, 50 Hz single phase transformer has 100 turns on the secondary | [4]
+
+winding. Find the number of turns on its primary. Also list any two differences
+
+between ideal and non-ideal transformer.
+
+CO-4; SO-1; | e, Explain transducers in brief. [4]
+BL-2
+
+Qe a Use Mesh Analysis to find voltage across 30 Q resistor in the circuit shown below. {10}
+CO-1; SO-1;
+
+BL-1
+--- page 2 ---
+“sa 30 ei
+
+WWW WW
+
+Om @av
+
+Q2 Analyze the behavior of a pure inductive AC circuit on the basis of the following: | [5*2]
+CO-2; SO-1; 7 .
+BL-4 (i) Alternating current
+: (ii) Waveforms
+(iii) Phasor Diagram
+(iv) Impedance
+(v) Power factor
+Q3 What are composite dielectric capacitors? Explain any two types With the help of | [10]
+CO-1; SO-1; suitable diagrams.
+BL-1,2
+Q3 A 60 Hz sinusoidal voltage v=141sin wt is applied to a series R-L circuit. The [S*2]
+CO-2; SO-1; values of the resistance and the inductance are 3 Q and 0.0106 H respectively.
+BL-1,2,5 (i) Find the RMS value of the current in the circuit and its phase angle
+with respect to the voltage.
+(ii) Show the expression for the instantaneous current in the circuit.
+(iii) Find the RMS value and the phase of the voltages appearing across the
+resistance and the inductance.
+(iv) Find the average power dissipated by the circuit.
+(v) Evaluate the power factor of the circuit.
+Q4 Determine the expression for Root Mean Square (RMS) voltage of an AC sine [10]
+oe SO-1; wave which has the maximum voltage as Vin and a time period of 2m. .
+Q4 Explain the construction and working of a transformer with the help of a suitable | [10]
+CO-3; SO-1; diagram. :
+BL-2
+Q5 Illustrate and explain in brief the Resonance Curve of a series RLC circuit. Also [10]
+CO-2; SO-1; explain about the following from the resonance curve:
+BL-2 i) Resonance Frequency and Current at the Resonance
+ii) Half Power Frequencies and Bandwidth
+iii) Quality Factor
+Q5 Find the current flowing through 20 Q resistor of the following circuit | [10]
+CO-1; SO-1; using Superposition Theorem.
+BL-1
+
+>
+--- page 3 ---
+5a 109 -
+
+20v 109 209 =
+
+Q6 a. Determine the expression for equivalent resistance of three resistances in
+CO-1; SO-1; G@) “Betis {10]
+BL-1, 5 (ii) Parallel .
+Also define resistivity. What factors is resistance dependent upon?
+Q6 b. An R-L-C series circuit consists of a resistance of 1000 Q, an inductance of 100 | [5*2]
+CO-2; $O-1; mH and a capacitance of 10x107 F, If a voltage of 100 V is applied across the
+BL-1 combination, find
+(i) the resonance frequency
+(ii) Q-factor of the circuit
+(iii) the half-power points
+(iv) bandwidth
+(v) current at resonance
+Qn a. Find Vry (Thevenin voltage) and Rry (Thevenin resistance) for the following | [10] -
+a : SO-1; circuit, in which 1.5 ohms resistor is the load resistance.
+8
+69 7.50
+16a 52 = 30Vv ‘
+|
+6V
+Q7 b. Distinguish between: [4]
+CO-1; SO-1; (i) Unilateral and bilateral circuits
+BL-4 (ii) Active and Passive elements
+Q7 c: State the principle of operation of a wattmeter. Also illustrate a neat labelled | [6]
+CO-4; SO-1; diagram of a wattmeter.
+BL-1,2
 ````
 
 ## 2022-23 · Final-Exam · Sem 1 · paper 248dd4fb1c15
@@ -888,147 +1029,6 @@ BL-3
 [10]
 
 3/3
-````
-
-## 2022-23 · Re-Exam · Sem 1 · paper 1af2acf85527
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/PRINCIPLES OF ELECTRICAL ENGINEERING/Principles of Electrical Engineering, Sem-I, Batch 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/02/2024
-- Text: ocr (3 pages), mean OCR confidence 88.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-¥
-
-Program: B. Tech.(CSBSs) Year: I Semester: I
-
-Subject: Principles of Electrical Engineering Time: 3 hrs (2 PM to 5 PM)
-Date: 10/02/2024 ; No. of Pages: 3
-
-Marks: 100
-
-o>
-
-Re-examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1__~ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary. .
-
-Ql Answer briefly:
-ce a. Define Norton’s theorem. Explain the steps with the help of a suitable diagram. [4]
-CO-1;SO-1; | b, Define [4*1]
-BL-1
-
-(i) Potential difference
-
-(ii) Ohm’s law
-(iii) Capacitance
-
-(iv) Power .
-
-ot "' SO-1; | ¢. What do you understand by RMS and average value of an alternating quantity? [4]
-Pei SO-1; | d. A 1100/400 V, 50 Hz single phase transformer has 100 turns on the secondary | [4]
-
-winding. Find the number of turns on its primary. Also list any two differences
-
-between ideal and non-ideal transformer.
-
-CO-4; SO-1; | e, Explain transducers in brief. [4]
-BL-2
-
-Qe a Use Mesh Analysis to find voltage across 30 Q resistor in the circuit shown below. {10}
-CO-1; SO-1;
-
-BL-1
---- page 2 ---
-“sa 30 ei
-
-WWW WW
-
-Om @av
-
-Q2 Analyze the behavior of a pure inductive AC circuit on the basis of the following: | [5*2]
-CO-2; SO-1; 7 .
-BL-4 (i) Alternating current
-: (ii) Waveforms
-(iii) Phasor Diagram
-(iv) Impedance
-(v) Power factor
-Q3 What are composite dielectric capacitors? Explain any two types With the help of | [10]
-CO-1; SO-1; suitable diagrams.
-BL-1,2
-Q3 A 60 Hz sinusoidal voltage v=141sin wt is applied to a series R-L circuit. The [S*2]
-CO-2; SO-1; values of the resistance and the inductance are 3 Q and 0.0106 H respectively.
-BL-1,2,5 (i) Find the RMS value of the current in the circuit and its phase angle
-with respect to the voltage.
-(ii) Show the expression for the instantaneous current in the circuit.
-(iii) Find the RMS value and the phase of the voltages appearing across the
-resistance and the inductance.
-(iv) Find the average power dissipated by the circuit.
-(v) Evaluate the power factor of the circuit.
-Q4 Determine the expression for Root Mean Square (RMS) voltage of an AC sine [10]
-oe SO-1; wave which has the maximum voltage as Vin and a time period of 2m. .
-Q4 Explain the construction and working of a transformer with the help of a suitable | [10]
-CO-3; SO-1; diagram. :
-BL-2
-Q5 Illustrate and explain in brief the Resonance Curve of a series RLC circuit. Also [10]
-CO-2; SO-1; explain about the following from the resonance curve:
-BL-2 i) Resonance Frequency and Current at the Resonance
-ii) Half Power Frequencies and Bandwidth
-iii) Quality Factor
-Q5 Find the current flowing through 20 Q resistor of the following circuit | [10]
-CO-1; SO-1; using Superposition Theorem.
-BL-1
-
->
---- page 3 ---
-5a 109 -
-
-20v 109 209 =
-
-Q6 a. Determine the expression for equivalent resistance of three resistances in
-CO-1; SO-1; G@) “Betis {10]
-BL-1, 5 (ii) Parallel .
-Also define resistivity. What factors is resistance dependent upon?
-Q6 b. An R-L-C series circuit consists of a resistance of 1000 Q, an inductance of 100 | [5*2]
-CO-2; $O-1; mH and a capacitance of 10x107 F, If a voltage of 100 V is applied across the
-BL-1 combination, find
-(i) the resonance frequency
-(ii) Q-factor of the circuit
-(iii) the half-power points
-(iv) bandwidth
-(v) current at resonance
-Qn a. Find Vry (Thevenin voltage) and Rry (Thevenin resistance) for the following | [10] -
-a : SO-1; circuit, in which 1.5 ohms resistor is the load resistance.
-8
-69 7.50
-16a 52 = 30Vv ‘
-|
-6V
-Q7 b. Distinguish between: [4]
-CO-1; SO-1; (i) Unilateral and bilateral circuits
-BL-4 (ii) Active and Passive elements
-Q7 c: State the principle of operation of a wattmeter. Also illustrate a neat labelled | [6]
-CO-4; SO-1; diagram of a wattmeter.
-BL-1,2
 ````
 
 ## 2019-20 · Final-Exam · Sem 1 · paper f427bd87881d

@@ -371,6 +371,138 @@ e Assess Impact of leadership change on the organisation in the short term
 VA
 ````
 
+## 2012-13 · Exam not stated · Trim 15 · paper 1939f76374c0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/LEADERSHIP IN ORGANISATION/Scan 0014(1).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 16/4/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Patel School Of Technology Management (S
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester:
+Academic Year : 2012-2013
+I   Subject:   LEADERSHIP IN ORGANISATION   Marks:   50
+Time:
+Date:   16/4/2013   Duration:   2   hrs.
+Final - Examination
+NOTE:
+1. Solve any 5 questions.
+2. Figures to right in bracket indicate marks.
+3. Assumptions made must be clearly indicated.
+Q 1 Write short notes on any two with relevant examples:
+a) Path Goal theory of leadership
+b) Learning Organization
+c) Servant Leadership
+Q 2   Explain concept of contingency model of leadership. How does a person find   (10)
+hisher leadership style and situation using this model, explain with suitable
+illustrations.
+Q 3   Differentiate between cross fknctional teams and self managed teams, with   (10)
+examples.
+Q 4   Jennifer is the Accounting Department manager for a regional chain of (10)
+convenience stores. Jennifer is an accounting "superstar." She has a bachelor's
+degree, recently passed her CPA exam, and is really exceptional in her accounting
+knowledge. She was so good, in fact, that she was promoted to department
+manager in her previous company after only two years on the job. She has been at
+her current company for ten months. She has implemented two accounting
+procedural changes that have streamlined the work and resulted in cost savings for
+the company. She reports to the CFO, and he is concerned about Jennifer, despite
+her obvious talents. There is no denying that she has had a positive impact, but
+Jennifer is not fitting in so well. Jennifer is a poor communicator and seems to
+have alienated quite a few of her peers and her employees. She is often aloof and
+distant, and her usual way of motivating performance is to simply dictate what will
+be done and expect compliance with her orders. She has good ideas but has little
+ability to present them well or to work as part of a team.
+Which motivation theory best suits this case and apply it to groom Jennifer.
+*
+Q 5 With an appropriate example from business world, describe Charismatic   (10)
+Leadership and the characteristics of Charismatic Leaders.
+Q 6   Explain transactional and transformational leadership styles giving examples for   (10)
+each.
+--- page 2 ---
+Q 7   In May 1996, K.V. Kamath replaced Narayan Vaghul (Vaghul), CEO of India's (10)
+leading financial services company Industrial Credit and Investment Corporation
+of India (ICICI). Immediately after taking charge, Kamath introduced massive
+changes in the organizational structure and the emphasis of the organization
+changed - from a development bank mode to that of a market-driven financial
+conglomerate. Necessitated because of the organization's new-found aim of
+becoming a financial powerhouse, the large-scale changes caused enormous
+tension within the organization. Undoubtedly he was successful in achieving the
+aim of organization and made ICICI a renowned name.
+The systems within the company soon were in a state of stress. Employees were
+finding the changes unacceptable as learning new skills and adapting to the
+process orientation was proving difficult.
+The changes also brought in a lot of confusion among the employees, a large
+section of employees began feeling alienated. Doubts were soon raised regarding
+whether Kamath had gone 'too fast too soon,' and more importantly, whether he
+would be able to steer the employees and the organization through the changes he
+had initiated.
+Discuss the leadership style of Mr Kamath, how did it help organization? What
+would your approach been if you were in place of Mr Kamath under given
+situation?
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper 0f46bcfb91ab
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/LEADERSHIP IN ORGANISATION/LEADERSHIP IN ORGANIZATION 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 29/03/2012
+- Text: ocr (1 page), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester:
+} Academic Year : 2011-2012
+
+t
+Subject: LEADERSHIP IN ORGANIZATION Marks: 50
+
+Time: 10.30 am To 12.30 pm
+
+Date: 29/03/2012 Duration: 2 hrs.
+
+Final - Examination
+
+All THE QUESTIONS CARRY EQUAL MARKS
+ANSWER TO EACH NEW QUESTION TO BE STARTED ON A FRESH PAGE
+
+ATTEMPT ANY 5 QUESTIONS (5*10=50)
+
+1. Aden is considerably younger than most of the people he supervises. He has a
+degree, and is mechanically inclined. Right out of college he went to work for a
+local manufacturer in an on-the-job training program with an eye toward becoming
+
+. a team leader. Aden learned his trade well and was promoted in justunderayearto —_
+team leader. He is not only younger than anyone he supervises; he is better
+; ala too.
+
+How can Aden become a good supervisor of his older and more experienced
+workers? What is the most suitable approach to deal with such situation, which
+leadership theory works well in this situation of dealing with experienced workers?
+Suggest the ways to assure that he does not alienate his team members?
+
+2. Describe the five major elements of leadership. Discuss any two major
+similatities and differences between Trait and Behavioral theory Paradigms.
+
+3. EXplain the concept and key attributes of Servant leadership stating relevant
+example.
+
+4. List the characteristics that distinguish Charismatic from non charismatic
+leaders.
+
+
+5. Explain the terms a. LMX (5 marks)
+| b. Moral justification (5 Marks)
+6. Explain the concept of Leadership grid.
+
+7. Describe Ginnet’s team effectiveness Leadership model.
+Ev ta”
+~~ Hl Vy) aN
+````
+
 ## 2011-12 · Re-Exam · Trim 15 · paper cea79872a9a7
 
 - Departments: Common (all branches)
@@ -825,136 +957,4 @@ employees. Justify the appropriateness of this move in Esvin Enterprises Ltd.
 ded Bocas:
 
 ——xo X
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 0f46bcfb91ab
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/LEADERSHIP IN ORGANISATION/LEADERSHIP IN ORGANIZATION 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 29/03/2012
-- Text: ocr (1 page), mean OCR confidence 88.5
-
-````text
-Programme: MBA. Tech - ALL STREAMS Year: V Trimester:
-} Academic Year : 2011-2012
-
-t
-Subject: LEADERSHIP IN ORGANIZATION Marks: 50
-
-Time: 10.30 am To 12.30 pm
-
-Date: 29/03/2012 Duration: 2 hrs.
-
-Final - Examination
-
-All THE QUESTIONS CARRY EQUAL MARKS
-ANSWER TO EACH NEW QUESTION TO BE STARTED ON A FRESH PAGE
-
-ATTEMPT ANY 5 QUESTIONS (5*10=50)
-
-1. Aden is considerably younger than most of the people he supervises. He has a
-degree, and is mechanically inclined. Right out of college he went to work for a
-local manufacturer in an on-the-job training program with an eye toward becoming
-
-. a team leader. Aden learned his trade well and was promoted in justunderayearto —_
-team leader. He is not only younger than anyone he supervises; he is better
-; ala too.
-
-How can Aden become a good supervisor of his older and more experienced
-workers? What is the most suitable approach to deal with such situation, which
-leadership theory works well in this situation of dealing with experienced workers?
-Suggest the ways to assure that he does not alienate his team members?
-
-2. Describe the five major elements of leadership. Discuss any two major
-similatities and differences between Trait and Behavioral theory Paradigms.
-
-3. EXplain the concept and key attributes of Servant leadership stating relevant
-example.
-
-4. List the characteristics that distinguish Charismatic from non charismatic
-leaders.
-
-0 phe sherman eesti rte RS Cs a ct ini
-
-5. Explain the terms a. LMX (5 marks)
-| b. Moral justification (5 Marks)
-6. Explain the concept of Leadership grid.
-
-7. Describe Ginnet’s team effectiveness Leadership model.
-Ev ta”
-~~ Hl Vy) aN
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 1939f76374c0
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/LEADERSHIP IN ORGANISATION/Scan 0014(1).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 16/4/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School Of Technology Management (S
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester:
-Academic Year : 2012-2013
-I   Subject:   LEADERSHIP IN ORGANISATION   Marks:   50
-Time:
-Date:   16/4/2013   Duration:   2   hrs.
-Final - Examination
-NOTE:
-1. Solve any 5 questions.
-2. Figures to right in bracket indicate marks.
-3. Assumptions made must be clearly indicated.
-Q 1 Write short notes on any two with relevant examples:
-a) Path Goal theory of leadership
-b) Learning Organization
-c) Servant Leadership
-Q 2   Explain concept of contingency model of leadership. How does a person find   (10)
-hisher leadership style and situation using this model, explain with suitable
-illustrations.
-Q 3   Differentiate between cross fknctional teams and self managed teams, with   (10)
-examples.
-Q 4   Jennifer is the Accounting Department manager for a regional chain of (10)
-convenience stores. Jennifer is an accounting "superstar." She has a bachelor's
-degree, recently passed her CPA exam, and is really exceptional in her accounting
-knowledge. She was so good, in fact, that she was promoted to department
-manager in her previous company after only two years on the job. She has been at
-her current company for ten months. She has implemented two accounting
-procedural changes that have streamlined the work and resulted in cost savings for
-the company. She reports to the CFO, and he is concerned about Jennifer, despite
-her obvious talents. There is no denying that she has had a positive impact, but
-Jennifer is not fitting in so well. Jennifer is a poor communicator and seems to
-have alienated quite a few of her peers and her employees. She is often aloof and
-distant, and her usual way of motivating performance is to simply dictate what will
-be done and expect compliance with her orders. She has good ideas but has little
-ability to present them well or to work as part of a team.
-Which motivation theory best suits this case and apply it to groom Jennifer.
-*
-Q 5 With an appropriate example from business world, describe Charismatic   (10)
-Leadership and the characteristics of Charismatic Leaders.
-Q 6   Explain transactional and transformational leadership styles giving examples for   (10)
-each.
---- page 2 ---
-Q 7   In May 1996, K.V. Kamath replaced Narayan Vaghul (Vaghul), CEO of India's (10)
-leading financial services company Industrial Credit and Investment Corporation
-of India (ICICI). Immediately after taking charge, Kamath introduced massive
-changes in the organizational structure and the emphasis of the organization
-changed - from a development bank mode to that of a market-driven financial
-conglomerate. Necessitated because of the organization's new-found aim of
-becoming a financial powerhouse, the large-scale changes caused enormous
-tension within the organization. Undoubtedly he was successful in achieving the
-aim of organization and made ICICI a renowned name.
-The systems within the company soon were in a state of stress. Employees were
-finding the changes unacceptable as learning new skills and adapting to the
-process orientation was proving difficult.
-The changes also brought in a lot of confusion among the employees, a large
-section of employees began feeling alienated. Doubts were soon raised regarding
-whether Kamath had gone 'too fast too soon,' and more importantly, whether he
-would be able to steer the employees and the organization through the changes he
-had initiated.
-Discuss the leadership style of Mr Kamath, how did it help organization? What
-would your approach been if you were in place of Mr Kamath under given
-situation?
 ````

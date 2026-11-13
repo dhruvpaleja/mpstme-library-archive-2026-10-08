@@ -16,8 +16,8 @@ Also filed as: `QUANTITY SURVEYING ESTIMATION & VALUATION`, `QUANTITY SURVEYING 
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Quantity Surveying, Estimation and Valuation(702CI0C022)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Quantity Surveying, Estimation and Valuation(702CI0C022)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Quantity Surveying, Estimation and Valuation(702CI0C022)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / CIVIL | Quantity Surveying, Estimation and Valuation, Sem VI, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL, MBA TECH / CIVIL | QUANTITY SURVEYING, ESTIMATION & VALUATION, 4TH YEAR, SEM VII, YEAR 2022-23, FINAM EXAM.pdf [1] |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B TECH / CIVIL | Quantity Surveying, Estimation and Valuation, Sem-VI, Year 2022-23, Final Exam.pdf |

@@ -1,6 +1,6 @@
 # Engineering Graphics: question papers in full
 
-3 unique papers · 2022-23 to 2024-25 · Mechanical
+3 unique papers · 2023-24 to 2024-25 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -130,6 +130,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/Engineering Graphics/Engineering Graphics Batch 2023-24 Final Batch 2022-23 Re Exam.pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (2 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -192,18 +193,18 @@ the axis. Draw the F.V., T.V. and the development of Lateral surface of a
 
 square pyramid.
 
-2 Re ff ee 2 2 2 2 2 2 42 2 2 2 2 2 2A 2 I 29 2A 2 2 EC ICR COR A 2 EI 2A Ef 2 ORO 2 af of 2 Co ao a oo a oa aa a
 
 Page 2 of 2
 ````
 
-## 2022-23 · Re-Exam · Sem 3 · paper 3bfce5771b84
+## 2023-24 · Re-Exam · Sem 3 · paper 3bfce5771b84
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/Engineering Graphics/Engineering Graphics Batch 2022-23 Re Exam.pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (2 pages), mean OCR confidence 84.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS j
@@ -278,7 +279,6 @@ CO- 3; on its base. It is cut by an Auxiliary inclined plane at 45° and bisecti
 
 lateral surface of a cylinder.
 
-2 oR oe oe oe he oe ke ie oe 2k 2 2g 2 2K 2 ee ie ke 2K oe ee ie ee he ie oh 2 oe oe ee ee of oe he ee ok 3 2 oe he ee OR oe ER REE RRR RRR EERE ARK EEK ERE
 
 Page 2 of 2
 ````

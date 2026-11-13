@@ -286,6 +286,7 @@ funding. (2 marks)
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_IT_7041/International Finance/QP_International Finance(703TF0E004)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 05 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1494,7 +1495,7 @@ b. Analyse the advantages of cross-listing shares for a multinational corporatio
 Page 3 of 3
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 9 · paper a3508bbd2164
+## 2023-24 · Final + Re-Exam · Sem 9 · paper a3508bbd2164
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1700,169 +1701,7 @@ Issues and foreign bonds as financial instruments for international financing.
 Page 3 of 3
 ````
 
-## 2022-23 · Final-Exam · Sem 9 · paper a2ca524c430e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/INTERNATIONAL FINANCE/International Finance,Final,2022-23.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 14 December 2022
-- Text: ocr (3 pages), mean OCR confidence 90.9
-
-````text
-SVKM’s NMIMS /
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE!
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER!
-
-Academic Year: 2022-23
-
-Programme: MBA Tech (All Stream) Year: V Semester: IX
-
-Subject: International Finance — /
-: Marks: 50 -
-
-Date: 14 December 2022 Time: 10.30 am - 12'30 pm
-
-Durations: 2 (Hrs) -
-No. of Pages: 3
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining. questions,-attempt any 4 questions.
--~3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly: ; [10]
-a. | Electrical machinery limited is an Indian importer who has forex exposure of $
-; 1,00,000 to be payable to US company. He is expecting rupee will depreciate
-GO-3;80-%3 against dollar. In this case if he decides to pay at the earliest then this will be [03]
-BL- Analyse A ‘ : , .
-referred to as which technique of foreign rate risk management. Explain.
-b. | The current exchange rate between the US dollar and the Indian rupee is 1 USD =
-INR 82.50. The inflation rate in India and USA are expected to be 7% and 3%
-CO- 2; SO- ; respectively, over the next two years. What would be the dollar-rupee exchange [03]
-/-\ BL- Apply
-rate after two years?
-c. | Following data is available:
-1 GBP = JPY 170.88 in London
-1 USD = JPY 148.08 in Tokyo
-COB 80-5 GBP 1 = USD 1.1554 in New York [04
-Evaluate .
-Assume amounts in GBP or USD or JPY 10 million and no transaction
-cost, Calculate arbitrage gains if any. °
-Q2 5 : tog
-Prepare BOP for India and show the entries of below transaction in relevant [10]
-CO-2; SO-; accounts: ;
-BL- Apply
-
-Page 1 of 3
---- page 2 ---
-i. Indian Oil company purchased Machinery for refining Mineral fuels from
-US company worth Rs. 17,00,000; out of this amount 50% was paid
-immediately and remaining amount is given as bills of exchange
-
-ii. | Mr. “A” - NRI settled in Australia sends his son for vacation in India, he
-spends Rs. 1,85,000 on air fare and hotel. He also bought gifts for his
-family in Australia worth Rs. 60,000.
-
-iii. IBM decided to invest in the Indian subsidiary Rs. 2,00,000
-
-iv. | German automobile company “Audi” decided to issue bonds Rs.
-
-50,00,000; Indian investors buys 10% of these bonds.
-
-v.   “Adani” group issues debenture for setting up of new telecom company
-Rs. 10,00,000. Foreigners purchased 30% of these bonds.
-vi. | German automobile company “Audi” pay interest 7% on the bonds.
-
-vii. | ABC company of India export goods worth Rs. 3,00,000 to Maldives
-viii. ~ Sandeep, an Indian settled in UK, sends Rs. 2,00,000 to his family in
-India.
-
-A British exporter has USD 5,00,000 receivables due in September for exports
-made in June. The pound sterling heading for appreciation. The data are as
-
-follows:
-
-Q3 Spot rate _ Future Rate
-On 1* June, 1 GBP =$ 1.1540 | On 1* June, 1 GBP = $ 1.1560 [10]
-
-CO-3; SO-; On 1* Sep, 1 GBP=$1.1625 | On 1* Sep, | GBP = $ 1.1675
-BL- Evaluate
-
-1 Futures contract = GBP 62,500
-
-Evaluate exporters Hedged and Unhedged position.
-
-.| Q4
-
-CO-1; SO-; . .
-BL- Summarize the historic developments which led to floating exchange rate system. [10]
-Understand
-Q5 _
-
-Answer the following: [10]
-
-a. | Given the following data:
-Spot rate — 1 $= Rs. 81.968
-CO-3; SO-; 6-month Forward Rate — 1 $= Rs. 82.560.
-BL- Annualized Interest rate for rupee is 12% _ [05]
-Annualized interest rate for dollar is 7%
-Assess {f there are arly arbitrage opportunities and support your answer with
-relevant calculation to earn arbitrage assuming INR or $ 1 million as the case
-
-may be.
-
-Evaluate
-
-Page 2 of 3
---- page 3 ---
-b. | Your company has named you as head of the group studying foreign investment
-CO-3; SO-; possibilities in country with 50% risk of Nationalization. Demonstrate your plan [05]
-BL- Apply to go about this task and which factors you will keep in mind for the same?
-
-_A French MNC is planning to install a manufacturing unit to produce 2,50,000
-units of Auto component of Electric cars in India. Setting up of manufacturing plant
-will involve an investment outlay of Rs. 30 million. The plant is expected to have
-useful life of 5 years with Rs. 5 million salvage value. MNC will follow straight
-
-6
-
-Q line method of depreciation. To support the operations of the business, working
-CO-4; SO-; capital of Rs. 3 million will have to be invested; the variable cost of production [10]
-BL- will be Rs. 25 per unit. Additional fixed cost per annum are estimated at Rs. 2
-
-million. The forecasted selling price is Rs. 80 per unit. The MNC is subjected to
-35% tax rate in India and its required rate of return is 15% per annum.-
-
-It is forecasted that rupee will depreciate in relation to Euro @ 1% per annum, with
-an initial exchange rate of 1 Euro = Rs. 78.00. Appraise the financial viability of
-the project and advice the MNC. (Consider the data up to two digits). ;
-
-Evaluate
-
-> .
-7 ; [10]
-
-Answer the following:
-a. ;
-CO-3; SO-; Explain Depository receipts and differentiate between ADR and GDR [05]
-BL- Analyze
-—_ b.
-CO-3; SO-; Explain Euro Bonds and differentiate between International Bonds and Euro [05]
-BL- Analyze | - | Bonds
-
-- Page 3 of 3
-````
-
-## 2022-23 · Re-Exam · Sem 9 · paper 6faa53a289b5
+## 2023-24 · Re-Exam · Sem 9 · paper 6faa53a289b5
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -2056,6 +1895,168 @@ including its implications and potential benefits for investors and global marke
 [05]
 
 Page 3 of 3
+````
+
+## 2022-23 · Final-Exam · Sem 9 · paper a2ca524c430e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/INTERNATIONAL FINANCE/International Finance,Final,2022-23.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 14 December 2022
+- Text: ocr (3 pages), mean OCR confidence 90.9
+
+````text
+SVKM’s NMIMS /
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE!
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER!
+
+Academic Year: 2022-23
+
+Programme: MBA Tech (All Stream) Year: V Semester: IX
+
+Subject: International Finance — /
+: Marks: 50 -
+
+Date: 14 December 2022 Time: 10.30 am - 12'30 pm
+
+Durations: 2 (Hrs) -
+No. of Pages: 3
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining. questions,-attempt any 4 questions.
+-~3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly: ; [10]
+a. | Electrical machinery limited is an Indian importer who has forex exposure of $
+; 1,00,000 to be payable to US company. He is expecting rupee will depreciate
+GO-3;80-%3 against dollar. In this case if he decides to pay at the earliest then this will be [03]
+BL- Analyse A ‘ : , .
+referred to as which technique of foreign rate risk management. Explain.
+b. | The current exchange rate between the US dollar and the Indian rupee is 1 USD =
+INR 82.50. The inflation rate in India and USA are expected to be 7% and 3%
+CO- 2; SO- ; respectively, over the next two years. What would be the dollar-rupee exchange [03]
+/-\ BL- Apply
+rate after two years?
+c. | Following data is available:
+1 GBP = JPY 170.88 in London
+1 USD = JPY 148.08 in Tokyo
+COB 80-5 GBP 1 = USD 1.1554 in New York [04
+Evaluate .
+Assume amounts in GBP or USD or JPY 10 million and no transaction
+cost, Calculate arbitrage gains if any. °
+Q2 5 : tog
+Prepare BOP for India and show the entries of below transaction in relevant [10]
+CO-2; SO-; accounts: ;
+BL- Apply
+
+Page 1 of 3
+--- page 2 ---
+i. Indian Oil company purchased Machinery for refining Mineral fuels from
+US company worth Rs. 17,00,000; out of this amount 50% was paid
+immediately and remaining amount is given as bills of exchange
+
+ii. | Mr. “A” - NRI settled in Australia sends his son for vacation in India, he
+spends Rs. 1,85,000 on air fare and hotel. He also bought gifts for his
+family in Australia worth Rs. 60,000.
+
+iii. IBM decided to invest in the Indian subsidiary Rs. 2,00,000
+
+iv. | German automobile company “Audi” decided to issue bonds Rs.
+
+50,00,000; Indian investors buys 10% of these bonds.
+
+v.   “Adani” group issues debenture for setting up of new telecom company
+Rs. 10,00,000. Foreigners purchased 30% of these bonds.
+vi. | German automobile company “Audi” pay interest 7% on the bonds.
+
+vii. | ABC company of India export goods worth Rs. 3,00,000 to Maldives
+viii. ~ Sandeep, an Indian settled in UK, sends Rs. 2,00,000 to his family in
+India.
+
+A British exporter has USD 5,00,000 receivables due in September for exports
+made in June. The pound sterling heading for appreciation. The data are as
+
+follows:
+
+Q3 Spot rate _ Future Rate
+On 1* June, 1 GBP =$ 1.1540 | On 1* June, 1 GBP = $ 1.1560 [10]
+
+CO-3; SO-; On 1* Sep, 1 GBP=$1.1625 | On 1* Sep, | GBP = $ 1.1675
+BL- Evaluate
+
+1 Futures contract = GBP 62,500
+
+Evaluate exporters Hedged and Unhedged position.
+
+.| Q4
+
+CO-1; SO-; . .
+BL- Summarize the historic developments which led to floating exchange rate system. [10]
+Understand
+Q5 _
+
+Answer the following: [10]
+
+a. | Given the following data:
+Spot rate — 1 $= Rs. 81.968
+CO-3; SO-; 6-month Forward Rate — 1 $= Rs. 82.560.
+BL- Annualized Interest rate for rupee is 12% _ [05]
+Annualized interest rate for dollar is 7%
+Assess {f there are arly arbitrage opportunities and support your answer with
+relevant calculation to earn arbitrage assuming INR or $ 1 million as the case
+
+may be.
+
+Evaluate
+
+Page 2 of 3
+--- page 3 ---
+b. | Your company has named you as head of the group studying foreign investment
+CO-3; SO-; possibilities in country with 50% risk of Nationalization. Demonstrate your plan [05]
+BL- Apply to go about this task and which factors you will keep in mind for the same?
+
+_A French MNC is planning to install a manufacturing unit to produce 2,50,000
+units of Auto component of Electric cars in India. Setting up of manufacturing plant
+will involve an investment outlay of Rs. 30 million. The plant is expected to have
+useful life of 5 years with Rs. 5 million salvage value. MNC will follow straight
+
+6
+
+Q line method of depreciation. To support the operations of the business, working
+CO-4; SO-; capital of Rs. 3 million will have to be invested; the variable cost of production [10]
+BL- will be Rs. 25 per unit. Additional fixed cost per annum are estimated at Rs. 2
+
+million. The forecasted selling price is Rs. 80 per unit. The MNC is subjected to
+35% tax rate in India and its required rate of return is 15% per annum.-
+
+It is forecasted that rupee will depreciate in relation to Euro @ 1% per annum, with
+an initial exchange rate of 1 Euro = Rs. 78.00. Appraise the financial viability of
+the project and advice the MNC. (Consider the data up to two digits). ;
+
+Evaluate
+
+> .
+7 ; [10]
+
+Answer the following:
+a. ;
+CO-3; SO-; Explain Depository receipts and differentiate between ADR and GDR [05]
+BL- Analyze
+—_ b.
+CO-3; SO-; Explain Euro Bonds and differentiate between International Bonds and Euro [05]
+BL- Analyze | - | Bonds
+
+- Page 3 of 3
 ````
 
 ## 2022-23 · Re-Exam · Sem 9 · paper 8ea42d2b5991
@@ -3221,6 +3222,194 @@ c) Indian experiences with ADR and GDR.
 P ™
 ````
 
+## 2012-13 · Exam not stated · Trim 15 · paper 21080f4afb3f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL FINANCE/Scan 002.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/4/2013
+- Text: text (3 pages)
+
+````text
+\
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester:
+Academic Year : 2012-2013
+INTERNATIONAL FINANCE   Marks:   50
+Time:   2.00pm To 4.00pm
+Date:   19/4/2013   Duration:   2   hrs.
+Final - Examination
+a Answer ally 2 out i-?om Part - A
+Answer any 3 out fro111 Part - B
+PLEASE USE A SEPAKA'I'E ANSWER BOOK OF THE TWO PARTS
+Part A (Answer any two)
+I ) a) Explain the Autono~~ius and accoinrnodatillg Capital Flows. (5 marlts)
+b) Elaborate the Monetai-y and ~ i s c a Policies l   adopted to adjust Balance of
+Payll~e~~t Iinbalaiices. ( 5 marlts)
+2) a) "Balance of Payment always balances" comment. (5 marlts)
+5   b) What are the prerequisites of Capital Account Convertibility? ( 5 marlts)
+3 ) a) Distinguish between Arbitrage and Speculation. ( 3 marlts)
+b) Following are the rates quoted:
+Rs. 55. 5000 = 1 Pound in 1,ondon
+t   $ 1.2 182   = 1 Pound in New York
+Calculate arbitrage gain for 1 Million &. (7 marks)
+--- page 2 ---
+Part B (Answer any three)
+4) a) Distinguish betweell SWAP Contracts and Forward Contracts. (5 marks)
+b) Explain the rislts faced by co~~in~ercial banlts in Forex Marltet. (5 marlts)
+5) a) What are the charactel-istics of the Intel-~~atio~ial Foreig~i Excliange Marltet?
+b) 1 USD = CAD 1.0 187107 is spot rate.   1 Jvlonth forward is 30/50 and 2
+mol~tlis f'or\val-d is 54/68. Calculate SWAP points and outl-igI11 l61.ward rate for
+50 days. (5marlts)
+6) Your customer recluest s you (a balzltes) to boolc a sale (you will sell and 11e
+will buy$) forward exchange contract ibl- lJSD 10,000, delivery 3"' Month.
+Assuming lJSD is cluoted in the local inte~-bank market is as under:
+Spot USD 1= Ks. 46.840018500
+3- months forward pre11ziu111   0.5300/0.5350
+1
+a)What rate you will quote to your customer bearing in mind you are recluired to
+~nalte an exchange profit of 0.1 O/;, o n the transaction?
+b) What will be your profit?
+Rate quoted to custornel- upto four decimal points in ~nultiples of 0.0025.
+( I 0 marlts)
+7)t:or Stanchart bank Mid Kate is Ks. 44.5050 pel- cioilar.. Spread desired is 8 s .
+0.0200 pel- do1 las t~-ansactio~i. Forward pre~il iumldiscount I-yo[- one month is
+1401 120 and I'or two montlls it is 190/ 160.
+i) What will be bid and ask rate for Stanchart Bank?
+ii) What will be quotes in outright form for Stanchart Bank?
+--- page 3 ---
+iii) Is dollar strengthening against rupee? ( 1 0 mal-Its)
+8) a) What is the basis of distinction between the Capital Accou~~t and Reserve
+Account? (5 marlts)
+b) What a.re l':loati~~g .Ra.te Notes? (3 mal-lts)
+What is their distinctive feature about interest rate? (2 mat-Its)
+9) Explaillthe. .   . funding avenues open for long term borrowings inGloba1 Capital
+Markets. ( 10 marks)
+10) What complications differentiate a Foreign Project fi-om a Domestic
+Pro-ject? ( 10 inarlts)
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper 728fcb5ea3a3
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL FINANCE/INTERNATIONAL FINANCE 20120001.pdf`
+- Printed on paper: exam date: 4/4/2012
+- Text: ocr (3 pages), mean OCR confidence 93.3
+
+````text
+SVKM’s NMIMS
+
+\ Mukesh Patel School Of Technology Management & Engineering
+Prema MBA. Tech - ALL STREAMS Year: V Trimester: XV
+
+Academic Year : 2011-2012
+
+Subject: INTERNATIONAL FINANCE Marks:
+Time:
+Date: 4/4/2012 Duration:
+
+Final - Examination
+e Answer any 2 out from Part—A
+e Answer any 3 out of Part -B
+
+PLEASE USA A SEPARATE ANSWER BOOK FOR EACH OF THE TWO PARTS
+
+Part A (answer any two)
+
+1) a) Explain the three main categories for the Balance of Payments (BOP). Illustrate your
+description with examples for these categories. (5 marks)
+b) Describe the different forms of Global capital Flows in India (5 marks)
+
+2) a) “Acountry which persistently runs a current account surplus is living below its means
+while if it runs a persistent deficit it is living beyond its means”. Please explain this
+statement. (6 marks)
+
+b) Why should a Corporate Finance Manager monitor balance of payments (4 marks)
+
+3) a) Distinguish between “exposure “ and “risk” in the context of exchange rate risk
+management principles ( 3 marks)
+
+‘p) Calculate the operating margin for a firm which is involved in export of garments to the U.S.A.
+arious data points are : ;
+
+i) Sells a shirt for USD 45 ii) US $ / Re. exchange rate is Rs. 50 iii) Operating costs are Rupee
+denominated and equals.Rs. 1000 per shirt iv) Over the next year inflation in the USA is going to be
+3 % p.a. Indian inflation is 8% p.a. and by the year end the exchange rate-would be Rs. 52 to the US
+Dollar. Assuming that the company can raise price in the USA market by 4 % the USA rate of
+inflation to US Dollar is 46.80 and its operating costs go up by 12 % with inflation the operating costs
+now have moved up to Rs 1120 in India. What is the operating margin. (7 marks)
+
+PART B (Answer any three)
+
+4) a) Distinguish between transaction exposure and Translation exposure. Describe how both of
+these exposures impact a commercial organization / firm. (5 marks)
+
+b) A firm which has no direct involvement in any cross border transaction is not immune to exchange
+rate exposure. Explain why this is so. (5 marks)
+
+We
+--- page 2 ---
+5) a) Illustrate by way of examples various constituents which comprise broad structure of the
+Forward Exchange markets (5 marks)
+
+b) Calculate the outright forward rate :
+EUR /JPY spot : 124.35/ 124.45
+1 month swap : 240 / 230 (3 marks)
+
+What are some of the commonly used application of swaps (2 marks)
+
+6) Emax Company Limited has imported 3000 cartridges at a landed cost in Mumbai of US $30
+each. They have the choice of paying for the goods immediately or in 3 months time. They have
+a clean Overdraft limit with a bank where 12 % p.a. rate of interest is charged. Calculate which
+of the following methods would be cheaper to the customer:
+
+a) Pay in 3 months time with interest @ 7% and cover the exchange risk forward for 3 months
+b) Settle now at the current spot rate and pay interest of the Overdraft for 3 months
+The rates are: Mumbai US $ / Re spot — 49.75 / 50.60 and the 3 month swap: 20 / 30
+
+(10 marks)
+
+7) i)Consider the following data: Sterling / US $ spot: 1.6500 / 10, 3 month forward: 1.6375 /
+1.6400, 3 month Eurodollar : 7.75 / 8.00 % p.a. , 3 month Euro sterling : 10.20 / 10.70 % p.a.
+
+a) Check whether there is a covered interest arbitrage opportunity
+b) A British firm has a 3 month Dollar payable. How should it hedge?
+c) AUSA Firm has a 3 month sterling receivable, how should it hedge (5 marks)
+
+ii) Suppose the spot US $ / Yen rate is 140.00. The Euroyen 3 month interest rate is 10% and the
+EurgDollar 3 month rate is 14%. Ignoring transaction costs.
+
+¥
+
+a)igyhet should be the US $ / Yen 3 month forward rate
+b) " What should be the swap rate
+
+_¢) Wili the Yen be at a premium or discount?
+d) How much is the annualized premium or discount?
+
+(5 marks)
+
+2/9,
+--- page 3 ---
+8) a) What impact will an overvalued Indian Rupee have on India’s trade balance? Will it affect the
+capital account at all ?. What if the Indian rupee becomes undervalued?.
+
+(5 marks)
+b) Describe the different tasks of the Risk management function? (5 marks)
+
+9) What factors aid in making the International Capital Markets more integrated?. Explain the
+importance of emerging capital markets in international investing. (10 marks)
+
+10) Summarize the different considerations that eviter into the decision to choose the currency,
+market and vehicle for long term borrowing. (10 marks)
+
+a
+
+d)
+````
+
 ## 2011-12 · Re-Exam · Trim 15 · paper 343e81349a42
 
 - Departments: Common (all branches)
@@ -3712,192 +3901,4 @@ U
 
 14. Why do firms become multinational? Discuss their strategic motives in doing
 so and identify the 5 types of firms who invest in foreign operations. (10)
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 728fcb5ea3a3
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL FINANCE/INTERNATIONAL FINANCE 20120001.pdf`
-- Printed on paper: exam date: 4/4/2012
-- Text: ocr (3 pages), mean OCR confidence 93.3
-
-````text
-SVKM’s NMIMS
-
-\ Mukesh Patel School Of Technology Management & Engineering
-Prema MBA. Tech - ALL STREAMS Year: V Trimester: XV
-
-Academic Year : 2011-2012
-
-Subject: INTERNATIONAL FINANCE Marks:
-Time:
-Date: 4/4/2012 Duration:
-
-Final - Examination
-e Answer any 2 out from Part—A
-e Answer any 3 out of Part -B
-
-PLEASE USA A SEPARATE ANSWER BOOK FOR EACH OF THE TWO PARTS
-
-Part A (answer any two)
-
-1) a) Explain the three main categories for the Balance of Payments (BOP). Illustrate your
-description with examples for these categories. (5 marks)
-b) Describe the different forms of Global capital Flows in India (5 marks)
-
-2) a) “Acountry which persistently runs a current account surplus is living below its means
-while if it runs a persistent deficit it is living beyond its means”. Please explain this
-statement. (6 marks)
-
-b) Why should a Corporate Finance Manager monitor balance of payments (4 marks)
-
-3) a) Distinguish between “exposure “ and “risk” in the context of exchange rate risk
-management principles ( 3 marks)
-
-‘p) Calculate the operating margin for a firm which is involved in export of garments to the U.S.A.
-arious data points are : ;
-
-i) Sells a shirt for USD 45 ii) US $ / Re. exchange rate is Rs. 50 iii) Operating costs are Rupee
-denominated and equals.Rs. 1000 per shirt iv) Over the next year inflation in the USA is going to be
-3 % p.a. Indian inflation is 8% p.a. and by the year end the exchange rate-would be Rs. 52 to the US
-Dollar. Assuming that the company can raise price in the USA market by 4 % the USA rate of
-inflation to US Dollar is 46.80 and its operating costs go up by 12 % with inflation the operating costs
-now have moved up to Rs 1120 in India. What is the operating margin. (7 marks)
-
-PART B (Answer any three)
-
-4) a) Distinguish between transaction exposure and Translation exposure. Describe how both of
-these exposures impact a commercial organization / firm. (5 marks)
-
-b) A firm which has no direct involvement in any cross border transaction is not immune to exchange
-rate exposure. Explain why this is so. (5 marks)
-
-We
---- page 2 ---
-5) a) Illustrate by way of examples various constituents which comprise broad structure of the
-Forward Exchange markets (5 marks)
-
-b) Calculate the outright forward rate :
-EUR /JPY spot : 124.35/ 124.45
-1 month swap : 240 / 230 (3 marks)
-
-What are some of the commonly used application of swaps (2 marks)
-
-6) Emax Company Limited has imported 3000 cartridges at a landed cost in Mumbai of US $30
-each. They have the choice of paying for the goods immediately or in 3 months time. They have
-a clean Overdraft limit with a bank where 12 % p.a. rate of interest is charged. Calculate which
-of the following methods would be cheaper to the customer:
-
-a) Pay in 3 months time with interest @ 7% and cover the exchange risk forward for 3 months
-b) Settle now at the current spot rate and pay interest of the Overdraft for 3 months
-The rates are: Mumbai US $ / Re spot — 49.75 / 50.60 and the 3 month swap: 20 / 30
-
-(10 marks)
-
-7) i)Consider the following data: Sterling / US $ spot: 1.6500 / 10, 3 month forward: 1.6375 /
-1.6400, 3 month Eurodollar : 7.75 / 8.00 % p.a. , 3 month Euro sterling : 10.20 / 10.70 % p.a.
-
-a) Check whether there is a covered interest arbitrage opportunity
-b) A British firm has a 3 month Dollar payable. How should it hedge?
-c) AUSA Firm has a 3 month sterling receivable, how should it hedge (5 marks)
-
-ii) Suppose the spot US $ / Yen rate is 140.00. The Euroyen 3 month interest rate is 10% and the
-EurgDollar 3 month rate is 14%. Ignoring transaction costs.
-
-¥
-
-a)igyhet should be the US $ / Yen 3 month forward rate
-b) " What should be the swap rate
-
-_¢) Wili the Yen be at a premium or discount?
-d) How much is the annualized premium or discount?
-
-(5 marks)
-
-2/9,
---- page 3 ---
-8) a) What impact will an overvalued Indian Rupee have on India’s trade balance? Will it affect the
-capital account at all ?. What if the Indian rupee becomes undervalued?.
-
-(5 marks)
-b) Describe the different tasks of the Risk management function? (5 marks)
-
-9) What factors aid in making the International Capital Markets more integrated?. Explain the
-importance of emerging capital markets in international investing. (10 marks)
-
-10) Summarize the different considerations that eviter into the decision to choose the currency,
-market and vehicle for long term borrowing. (10 marks)
-
-a
-
-d)
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 21080f4afb3f
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL FINANCE/Scan 002.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/4/2013
-- Text: text (3 pages)
-
-````text
-\
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester:
-Academic Year : 2012-2013
-INTERNATIONAL FINANCE   Marks:   50
-Time:   2.00pm To 4.00pm
-Date:   19/4/2013   Duration:   2   hrs.
-Final - Examination
-a Answer ally 2 out i-?om Part - A
-Answer any 3 out fro111 Part - B
-PLEASE USE A SEPAKA'I'E ANSWER BOOK OF THE TWO PARTS
-Part A (Answer any two)
-I ) a) Explain the Autono~~ius and accoinrnodatillg Capital Flows. (5 marlts)
-b) Elaborate the Monetai-y and ~ i s c a Policies l   adopted to adjust Balance of
-Payll~e~~t Iinbalaiices. ( 5 marlts)
-2) a) "Balance of Payment always balances" comment. (5 marlts)
-5   b) What are the prerequisites of Capital Account Convertibility? ( 5 marlts)
-3 ) a) Distinguish between Arbitrage and Speculation. ( 3 marlts)
-b) Following are the rates quoted:
-Rs. 55. 5000 = 1 Pound in 1,ondon
-t   $ 1.2 182   = 1 Pound in New York
-Calculate arbitrage gain for 1 Million &. (7 marks)
---- page 2 ---
-Part B (Answer any three)
-4) a) Distinguish betweell SWAP Contracts and Forward Contracts. (5 marks)
-b) Explain the rislts faced by co~~in~ercial banlts in Forex Marltet. (5 marlts)
-5) a) What are the charactel-istics of the Intel-~~atio~ial Foreig~i Excliange Marltet?
-b) 1 USD = CAD 1.0 187107 is spot rate.   1 Jvlonth forward is 30/50 and 2
-mol~tlis f'or\val-d is 54/68. Calculate SWAP points and outl-igI11 l61.ward rate for
-50 days. (5marlts)
-6) Your customer recluest s you (a balzltes) to boolc a sale (you will sell and 11e
-will buy$) forward exchange contract ibl- lJSD 10,000, delivery 3"' Month.
-Assuming lJSD is cluoted in the local inte~-bank market is as under:
-Spot USD 1= Ks. 46.840018500
-3- months forward pre11ziu111   0.5300/0.5350
-1
-a)What rate you will quote to your customer bearing in mind you are recluired to
-~nalte an exchange profit of 0.1 O/;, o n the transaction?
-b) What will be your profit?
-Rate quoted to custornel- upto four decimal points in ~nultiples of 0.0025.
-( I 0 marlts)
-7)t:or Stanchart bank Mid Kate is Ks. 44.5050 pel- cioilar.. Spread desired is 8 s .
-0.0200 pel- do1 las t~-ansactio~i. Forward pre~il iumldiscount I-yo[- one month is
-1401 120 and I'or two montlls it is 190/ 160.
-i) What will be bid and ask rate for Stanchart Bank?
-ii) What will be quotes in outright form for Stanchart Bank?
---- page 3 ---
-iii) Is dollar strengthening against rupee? ( 1 0 mal-Its)
-8) a) What is the basis of distinction between the Capital Accou~~t and Reserve
-Account? (5 marlts)
-b) What a.re l':loati~~g .Ra.te Notes? (3 mal-lts)
-What is their distinctive feature about interest rate? (2 mat-Its)
-9) Explaillthe. .   . funding avenues open for long term borrowings inGloba1 Capital
-Markets. ( 10 marks)
-10) What complications differentiate a Foreign Project fi-om a Domestic
-Pro-ject? ( 10 inarlts)
 ````

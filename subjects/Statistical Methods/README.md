@@ -16,34 +16,34 @@ Also filed as: `SATISTICAL METHODES`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AI 7012 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AIML 7053 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7057 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech AI 7051 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech AI 7012 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech AIDS 7056 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech AIML 7053 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CSE DS 7057 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech AI 7051 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech AI 7012 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech AIML 7053 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7057 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech AI 7051 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AI 7012 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AIML 7053 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7057 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech AI 7051 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE | Statistical Method, Sem-IV, Batch 2022-23, 2023-24 &2024-25, 2025-26, Re Exam.pdf [1] |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech AI 7012 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AIDS 7056 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech AIML 7053 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech CSE DS 7057 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | MBATech AI 7051 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech AI 7012 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech AIML 7053 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7057 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech AI 7051 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE & DATA SCIENCE, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Statistical Methods, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Statistical Methods(702BS0C055)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Statistical Methods(702BS0C055)_2024-2025.pdf |
 | 2024-25 | Final-Exam, Re-Exam | Question paper | Sem 2 | BTech CSBS 7036 | case_study_Statistical Methods(702BS0C055)_Semester II_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Statistical Methods(702BS0C055)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Statistical Methods(702BS0C055)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / DATA SCIENCE | Statistical Methods, Sem-III, Batch 2023-24 & 2024-25 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Statistical Methods(702BS0C055)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Statistical Methods(702BS0C055)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE & DATA SCIENCE, B TECH / DATA SCIENCE | Statistical Methods, Sem-III, A Y 2023-24, Final Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Statistical Methods , Re-exam 2022-23,2023-2024.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Statistical Methods, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf |

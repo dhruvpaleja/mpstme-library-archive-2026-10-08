@@ -96,6 +96,7 @@ A suitable example of each. (2M)
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CSE_DS_7011/Introduction to Chemistry/ANS_Introduction to Chemistry(702BS0C086)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 32.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -256,6 +257,7 @@ FIC 2 I HH ar
 - Source: `02_Question_Papers/2024/Sem_04/Re-Exam/BTech_CSE_DS_7011/Introduction to Chemistry/ANS_Introduction to Chemistry(702BS0C031)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2025
 - Text: mixed (5 pages), mean OCR confidence 64.4
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -313,7 +315,6 @@ Tokl mols 2-77 4116 = 3-93
 , ‘ Prag i ar 2
 att facto of wel eg
 = 0Fo>
-mole fate f Gren = pte
 3-43
 ~ 0 tS
 
@@ -343,7 +344,6 @@ A short note about the different types of homogeneous solutions with a gas as
 the solvent. 4M
 Give an example of each type. 3M.
 
-obi) Ceol = Sais oremte Ly le
 
 i {1G
 
@@ -360,7 +360,6 @@ rs oo: org2z fetes)
 peas apctt
 
 Gs)
-cS (eo "\ a Ix o :
 
 — Fol,
 pelo

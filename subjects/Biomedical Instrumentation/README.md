@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Biomedical Instrumentation(702MH0E010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_Biomedical Instrumentation(702MH0E010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Biomedical Instrumentation(702MH0E010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Biomedical Instrumentation(702MH0E010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | B Tech, Biomedical Instrumentation, Sem-VI, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_Biomedical Instrumentation(702MH0E010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Biomedical Instrumentation(702MH0E010)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | Biomedical Instrumentation, Sem-VI, Year 2024-25 Final Exam.pdf |
 | — | Final-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | Biomedical Instrumentation, Sem-VI, Final Exam.pdf |
 

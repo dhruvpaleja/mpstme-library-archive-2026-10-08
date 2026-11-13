@@ -4197,6 +4197,7 @@ FIC DI EH ar
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_IT_7001/Fundamentals of Climate Change/ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (6 pages), mean OCR confidence 93.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4232,7 +4233,6 @@ Concept / Component Brief Explanation Marks
 Cc.
 Definition of Global Ocean The global ocean circulation system, also known as the thermohaline circulation, refers 1
 Circulation System to the large-scale movement of ocean water driven by differences in temperature
-(thermo) and salinity (haline).
 Mechanism of Circulation Warm, less dense surface water moves toward the poles, cools, becomes denser, and 1
 sinks. This deep cold water then flows back toward the equator, completing a global
 Co-1; loop known as the ocean conveyor belt.

@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Critical Thinking in Humanities(702BS0C020)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Critical Thinking in Humanities(702BS0C020)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Critical Thinking in Humanities(702BS0C020)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Critical Thinking in Humanities(702BS0C020)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Critical Thinking in Humanities(702BS0C020)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Critical Thinking in Humanities(702BS0C020)_2024-2025.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | B TECH | Critical Thingking in Humanities, Batch 2022-23 & 2023-24, Re Exam.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Critical Thinking in Humanities, Sem-II, Final & Re Exam 2022-23.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 2 | B TECH | Critical Thinking in Humanities, Sem-II, Year 2022-23, Final Exam.pdf |

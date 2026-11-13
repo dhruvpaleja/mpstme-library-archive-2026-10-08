@@ -1,8 +1,243 @@
 # Theory of Machines I: question papers in full
 
-45 unique papers · 2011-12 to 2018-19 · Mechanical, Mechatronics
+45 unique papers · 2011-12 to 2019-20 · Mechanical, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2019-20 · Re-Exam · Sem 3 · paper 0a58b16fa85e
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINES I BATCH 16-17 17-18 18-19 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 09 November 2019
+- Text: ocr (3 pages), mean OCR confidence 90.6
+
+````text
+SVKM’s NMIMS
+/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+é
+
+Programme: B.Tech (Mechanical) Year: II Semester: III
+ia ye
+
+< Academic Year: 2019-20
+Subject: Theory of Machines-!
+
+Marks: 70 ~
+Date: 09 November 2019 Time: 2.00 pm
+7 Durations: 3
+No. of Pages:
+Re-Examination (2016-17 / 2017-18 /. 2018-19) > S
+MS UNIVERSES
+
+a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+. 2) Out of remaining questions, attempt any 4 _ questions.
+3) Inall__5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .suitable data if necessary.
+
+Ql Solve any TWO from sub-questions a) to c) and any TWO from sub-questionsd) 14M
+toe).
+a) Explain with examples, different types of kinematic pairs. 4M.
+b) Explain the variation in the velocity ratio due to slip in the belt drive. 4M
+c) Explain the Coriolis component of acceleration. 4M
+d) With neat sketch, explain the Scott-Russel straight line motion mechanism. 3
+e) Define the term fluctuation of energy and speed in Flywheels. 3M
+f) Classify and explain the instantaneous centers. 3M
+Q2 14M
+ae a) Derive the expression for the Davis Steering Gear with neat sketch. 7™
+b) What is inversion? Explain any three inversions of single slider chain. ™
+3 14M
+
+J
+
+a) Inasingle slider crank mechanism, the length of crank and connecting rod is 200 7M
+mm and 800 mm respectively. Locate all I-centers for the mechanism when crank
+
+\
+--- page 2 ---
+makes 30° from inner dead center. Find velocity of slider B and angular velocity
+
+of connecting rod AB when crank rotate at 40 rad/s.
+
+_ A
+eng
+go
+a
+b) Explain:
+1) Turning moment diagram of 4-stroke [.C. Engine. 4M
+2) Oldham Coupling 3M
+Q4 14M
+a) Derive the expression for the ratio of belt tension in flat belt drive. 7™.
+
+b) A V-belt of 6.5 cm? cross-section has a groove angle of 30° and an angle of lap of 7M
+160°, w = 0.1. The mass of the rope is 1.45 Kg/meter run. The maximum safe
+stress is 840 N/cm?. Calculate the power that can be transmitted at 25 m/s.
+Q5 14M
+In the mechanism shown in below, the crank OA rotates at 210 rpm clockwise.
+For the given configuration, find the velocity and acceleration of the slider B, D
+
+and F. (All dimensions are in cm)
+
+_s ay ;
+os off
+G" .
+50
+:
+G AB= 80 ‘. ae)
+BC = 30 SU” @&
+CE=70
+CO =85
+Q6 14M
+
+a) The lengths of crank and connection rod of vertical reciprocating engine are 300 7M
+
+mm and 1.5 mm respectively. The crank is rotating at 200 rpm clockwise. Find
+
+hs
+--- page 3 ---
+Q7
+
+b)
+
+a)
+b)
+c)
+
+analytically, (i) acceleration of piston, (ii) velocity of piston and (iii) angular
+acceleration of the connecting rod when the crank turned through 40° from the top
+dead center and piston is moving downwards.
+
+What is Flywheel? Find mean speed of flywheel, maximum fluctuation of energy
+and co-efficient of fluctuation of speed, if the maximum and minimum speeds of
+
+a flywheel are 121 rpm and 119 rpm respectively. The mass of the flywheel is
+2600 kg and radius of gyration is 1.8 m.
+
+What is initial tension in case of belt drive? What is it significance?
+Write short note on Pantograph.
+
+Explain the concept of rubbing velocity.
+
+7™M
+
+14M
+5M
+5M
+4M
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 711a3a92fadb
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINES I BATCH 16-17 17-18 18-19 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 16 November 2019
+- Text: ocr (2 pages), mean OCR confidence 89.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+coe
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Mechatronics) Year: Il Semester: m1
+
+Academic Year: 2019-20
+Subject: Theory of Machines-I
+
+va Marks: 70
+Date: 16 November 2019 Time: 2.00 p:
+< Durations: 3 (Kes
+No. of Pages: _ 2
+Re-Examination (2016-17/ 2017-18 / 2018-19)
+— a a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. Lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .suitable data if necessary.
+
+Ql Attempt the following. MARKS
+A What are the different types of Instantaneous centers? (5)
+OR
+B What is kinematic pair? Explain classification of kinematic pairs. (5)
+C_ Explain different types of constrained motions. (5)
+D Draw neat sketch of Beam engine and explain it. (4)
+Q2 A With neat sketch explain any two inversions of Single Slider Crank Chain. (8)
+Q2 B_ Derive the equation for the length of cross flat belt drive. (6)
+Q3   A_ What is Pantograph? Explain Peaucellier mechanism. (6)
+Q3 8B Derive the fundamental equation for correct steering. Explain Ackerman’s steering gear _ (8)
+mechanism.
+
+Q4 A Abelt drive consists of two V-belts in parallel, on grooved pulleys of the same size. The angle (10)
+of the groove is 30°. The cross-sectional area of each belt is 750 mm? and u. = 0.12. The
+density of the belt material is 1.2 Mg/m? and the maximum safe stress in the material is 7
+MPa. Calculate the power that can be transmitted between pulleys 300 mm diameter
+rotating at 1500 r.p.m. Find also the shaft speed in r.p.m. at which the power transmitted
+would be maximum.
+
+Q4 8B With neat sketch explain Bull engine. (4)
+
+TE
+--- page 2 ---
+\ @
+
+Q5 The mechanism, as shown in Figure below, has the dimensions of various links as follows: (14)
+The crank AB makes an angle of 45° with the horizontal and rotates about A in the clockwise
+direction at a uniform speed of 120 r.p.m. The lever DC oscillates about the fixed-point D,
+which is connected to AB by the coupler BC. The block F moves in the horizontal guides, being
+driven by the link EF. Determine: 1. velocity of the block F, 2. angular velocity of DC, and 3.
+rubbing speed at the pin C which is 50 mm in diameter.
+
+<—— 375 mm |
+D
+
+i
+4 100 mm
+peanaeien
+1 2 =
+375 mm seal
+F
+/
+B
+|
+45°
+A c
+Q6 A_ Explain the terms ‘fluctuation of energy’ and ‘fluctuation of speed’ as applied to flywheels. (4)
+Q6 B_ The turning moment diagram for a multi-cylinder engine has.been drawn to a scale 1 mm = (10)
+
+600 N-m vertically and 1 mm = 3° horizontally. The intercepted areas between the output
+
+torque curve and the mean resistance line, taken in order from one end, are as follows: + 52,
+
+— 124, + 92,-140, + 85,-72 and + 107 mm?, when the engine is running at a speed of 600
+
+r.p.m. If the total fluctuation of speed is not to exceed + 1.5% of the mean, find the necessary
+
+mass of the flywheel of radius 0.5 m. ,
+Q7 A Write notes on: - i) Oldham‘s coupling, ii) Whitworth quick return motion mechanism. (8)
+Q7 B_ Derive the condition for transmitting the maximum power in a flat belt drive. (6)
+````
 
 ## 2018-19 · Final-Exam · Sem 3 · paper a204b23d5f34
 
@@ -222,135 +457,227 @@ b.) Explain Crank and slotted Lever Quick Return Motion Mechanism with neat sket
 Page 3 of 3
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper 0a58b16fa85e
+## 2018-19 · Re-Exam · Sem 3 · paper 1e85a42a40a0
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINES I BATCH 16-17 17-18 18-19 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 09 November 2019
-- Text: ocr (3 pages), mean OCR confidence 90.6
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINES I BATCH 16-17 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 15 November 2018
+- Text: ocr (3 pages), mean OCR confidence 91.8
 
 ````text
 SVKM’s NMIMS
-/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-é
+Programme: B. Tech (MECHANICAL) Year: II Semester: II +
 
-Programme: B.Tech (Mechanical) Year: II Semester: III
-ia ye
+Pg -
 
-< Academic Year: 2019-20
-Subject: Theory of Machines-!
+Academic Year: 2018-2019 y
 
-Marks: 70 ~
-Date: 09 November 2019 Time: 2.00 pm
-7 Durations: 3
-No. of Pages:
-Re-Examination (2016-17 / 2017-18 /. 2018-19) > S
-MS UNIVERSES
+Subject: Theory of Machines-L_
 
-a
+Date: 15 November 2018 _, Time: 2.00 pm
+
+No. of Pages :
+Re-examination (2016-17 / 2017-18) y
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. _1___ is compulsory.
-. 2) Out of remaining questions, attempt any 4 _ questions.
-3) Inall__5_ questions to be attempted.
+1) Question No. _1 is compulsory.
+
+2) Out of remaining questions, attempt any __4 -_ questions.
+
+3) In all_5_ questions to be attempted.
+
 4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume .suitable data if necessary.
+7) Assume Suitable data if necessary.
 
-Ql Solve any TWO from sub-questions a) to c) and any TWO from sub-questionsd) 14M
-toe).
-a) Explain with examples, different types of kinematic pairs. 4M.
-b) Explain the variation in the velocity ratio due to slip in the belt drive. 4M
-c) Explain the Coriolis component of acceleration. 4M
-d) With neat sketch, explain the Scott-Russel straight line motion mechanism. 3
-e) Define the term fluctuation of energy and speed in Flywheels. 3M
-f) Classify and explain the instantaneous centers. 3M
-Q2 14M
-ae a) Derive the expression for the Davis Steering Gear with neat sketch. 7™
-b) What is inversion? Explain any three inversions of single slider chain. ™
-3 14M
+Ql
+‘a. What is kinematic pair? Classify in detail. 4M
+b. State and explain Three-centers-in-line theorem. 3
+c. What is “slip” in belt drive? 4M
+d. What is transmission angle? State its significance. 3
 
-J
+Q2 a. Define inversion. State.Enumerates the inversion a double slider crank mechanism with 7M
 
-a) Inasingle slider crank mechanism, the length of crank and connecting rod is 200 7M
-mm and 800 mm respectively. Locate all I-centers for the mechanism when crank
+example.
+b. State and explain fundamental equation of steering gear. Which steering gear fulfills this 7M
+condition?
+3 In a toggle mechanism shown in figure the crank OA rotates at 210 rpm CCW increasing 14M
 
-\
+at the rate of 60 rad/s2. Find:
+1. Velocity of slider D and angular velocity of link BD.
+2. Acceleration of slider D and angular acceleration of link BD.
+
+V,
 --- page 2 ---
-makes 30° from inner dead center. Find velocity of slider B and angular velocity
+Q4 a. Figure shows a six link mechanism. What will be the velocity of cutting tool D and the 9M
+angular velocities of links BC and CD if crank OA rotates at 10 rad/sec.
 
-of connecting rod AB when crank rotate at 40 rad/s.
+aa
 
-_ A
-eng
-go
-a
-b) Explain:
-1) Turning moment diagram of 4-stroke [.C. Engine. 4M
-2) Oldham Coupling 3M
-Q4 14M
-a) Derive the expression for the ratio of belt tension in flat belt drive. 7™.
+Pi we
+AT :
 
-b) A V-belt of 6.5 cm? cross-section has a groove angle of 30° and an angle of lap of 7M
-160°, w = 0.1. The mass of the rope is 1.45 Kg/meter run. The maximum safe
-stress is 840 N/cm?. Calculate the power that can be transmitted at 25 m/s.
-Q5 14M
-In the mechanism shown in below, the crank OA rotates at 210 rpm clockwise.
-For the given configuration, find the velocity and acceleration of the slider B, D
+: Al] domensions =
+: 2 mom
+45
+b. Explain with neat sketch Crank and slotted lever mechanism. 5M
+Q5 a Prove that a = eve. 7™
 
-and F. (All dimensions are in cm)
+2
+b. A belt is required to transmit 18.5 kW from a pulley of 1.2 m diameter running at 250 rpm 7M
+to another pulley which runs at 500 rpm. The distance between the centers of pulleys is
+2.7 m. The following data refer to an open belt drive, u = 0.25. Safe working stress for
+leather is 1.75 N/mm2. Thickness of belt = 10mm. Determine the length and width of belt-
+taking centrifugal tension into account.
 
-_s ay ;
-os off
-G" .
-50
-:
-G AB= 80 ‘. ae)
-BC = 30 SU” @&
-CE=70
-CO =85
-Q6 14M
+Q6 a. The turning moment diagram for multi-cylinder internal combustion engine is drawn on 8M
 
-a) The lengths of crank and connection rod of vertical reciprocating engine are 300 7M
+the scale of 1 mm = 5 Nm, crank angle: 1 mm = 1°. The turning moment diagram cycle
+repeats at every half revolution of the engine. The areas above and below the mean torque
 
-mm and 1.5 mm respectively. The crank is rotating at 200 rpm clockwise. Find
-
-hs
+7;
 --- page 3 ---
 Q7
 
-b)
+line are taken in order are: 295, 685, 40,340, 960, 270 mm2. Mass of the all rotating bodies
+is 36 Kg at radius of gyration of 150 mm. Determine the co-efficient of fluctuation of speed
+when the engine running at 1800 rpm.
 
-a)
-b)
-c)
+What is turning moment diagram? Explain the turning moment diagram of 4-strokes SI_ 6M
+engine.
 
-analytically, (i) acceleration of piston, (ii) velocity of piston and (iii) angular
-acceleration of the connecting rod when the crank turned through 40° from the top
-dead center and piston is moving downwards.
+Explain the Paucellier straight line motion mechanism. 5M
+“Centrifugal tension is independent of tension of tight and slack side”, Justify. 5M
+State and explain D’Alemberts principle. 4M
+````
 
-What is Flywheel? Find mean speed of flywheel, maximum fluctuation of energy
-and co-efficient of fluctuation of speed, if the maximum and minimum speeds of
+## 2018-19 · Re-Exam · Sem 3 · paper e51cbe8720b6
 
-a flywheel are 121 rpm and 119 rpm respectively. The mass of the flywheel is
-2600 kg and radius of gyration is 1.8 m.
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINES I BATCH 16-17 17-18 RE EXAM_e51cbe8720.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 January 2019
+- Text: ocr (2 pages), mean OCR confidence 89.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
-What is initial tension in case of belt drive? What is it significance?
-Write short note on Pantograph.
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF: TECHNOLOGY MANAGE
 
-Explain the concept of rubbing velocity.
+Program: B. Tech (Mechanical) YZ
+Academic Year: 2018-2019 o “a ;
+| Subject: Theory of Machines-I Marks: 70 |
+- Time: 2.00 pm to 5.00 pm ;
 
-7™M
+a
 
-14M
-5M
-5M
-4M
+Date: 14 January 2019 _
+al ary F Durations: 3 (hrs)
+
+No. of Pages: 2
+Re-examination (2016-17 / 2017-18) _~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 i$ compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Qi
+
+a) Sketch and explain the any two inversions of a slider crank chain. 5
+b) Determine the degrees of freedom of the mechanism shown in Fig. using Kutzbach 4
+
+mobility criterion and classify them.
+=
+\
+
+ts) )
+
+c) Derive the equation for Ratio of Driving Tensions For Flat Belt Drive. 5
+Q.2.a) What is the condition for correct steering? Sketch and derive equation Davis steering 7
+gear mechanism.
+b) What do you mean by inversion? Explain with neat sketches of any two inversion of 7
+four bar chain mechanism.
+
+— Q.3 In the mechanism, as shown in Figure the crank OA rotates at 20 r.p.m. anticlockwise 14
+and gives motion to the sliding blocks B and D. The dimensions of the various links are
+te For the given configuration, determine : 1. velocities of sliding at B and D, 2. Angular
+ES
+
+fo
+--- page 2 ---
+velocity of CD, 3. linear acceleration of D, and 4. angular acceleration of CD.
+
+‘ +
+gS |
+! , an —
+| ) : |
+
+=
+
+Q.4a) The crank and connecting rod of a steam engine are 0.3 m and 1.5 m in length. The 7
+crank rotates at 180 r.p.m. clockwise. Determine the velocity and acceleration of the
+piston ‘when the crank is at 40 degrees from the inner dead centre position, also. -
+determine the position of the crank for zero acceleration of the piston.
+
+b) Ina pin jointed four bar mechanism, as shown in Fig. AB = 300 mm, BC = CD = 360 7
+mm, and AD = 600 mm. The angle BAD = 60°. The crank AB rotates uniformly at 100
+r.p.m. Locate all the instantaneous centres and find the angular velocity of the link BC.
+
+nn
+
+a 2" \
+a ‘8
+S/ \3
+g/ \?
+3/5 60° \
+
+A Ona PIEIITTR TRILL! TD
+}~«——— 600 mm
+
+Q.5a) An open belt running over two pulleys 240 mm and 600 mm diameter connects two 7
+parallel shafts 3 meters apart and transmits 4 kW from the smaller pulley that rotates at
+300 r.p.m. Coefficient of friction between the belt and the pulley is 0.3 and the safe
+working tension is 10N per mm width. Determine: 1. minimum width of the belt, 2.
+initial belt tension, and 3. length of the belt required.
+
+b) The turning moment diagram for a multi-cylinder engine has been drawn to a scale 1 7
+mm = 600 N-m vertically and | mm = 3° horizontally. The intercepted areas between
+the output torque curve and the mean resistance line, taken in order from one end, are as
+follows :+ 52, — 124, + 92, — 140, + 85, — 72 and + 107 mm2, when the engine is
+running at a speed of 600 r-p.m. If the total fluctuation of speed is not to exceed + 1.5%
+of the mean, find the necessary mass of the flywheel of radius 0.5 m.
+
+— Q.6a) Derive an expression for the length of open belt drive. 7
+b) Derive the condition for transmitting the maximum power in a flat belt drive. 7
+
+st “7
+a Explain coriolies components of acceleration and its direction. 5
+b Explain paucellier straight line generation mechanism. 4
+
+c Define the terms ‘coefficient of fluctuation of energy’ and ‘coefficient of fluctuation of 5
+speed’, in the case of flywheels.
+
+: ope
 ````
 
 ## 2018-19 · Re-Exam · Sem 3 · paper 26415c45743b
@@ -599,38 +926,142 @@ b Derive an expression for the length of cross belt drive 8
 fy
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper 711a3a92fadb
+## 2018-19 · Re-Exam · Sem 3 · paper 583f74162507
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINES I BATCH 16-17 17-18 18-19 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 16 November 2019
-- Text: ocr (2 pages), mean OCR confidence 89.7
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINES I BATCH 16-17 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
+- Text: ocr (2 pages), mean OCR confidence 90.8
 
 ````text
-coe
+SVKM’S NMIMS
 
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Program: B. Tech (Mechatronics) Year: Il Semester : Il
+4 Academic Year: 2018-2019 - <4
+: \
+! Subject: Theory of Machines-I Marks: 70 - \
+4 Time: 2.00 pm to 5.00 pm ¢
+Date : 21 January 2019 Durations:3 (hrs)
+il No. of Pages: 2
 
-Programme: B. Tech (Mechatronics) Year: Il Semester: m1
-
-Academic Year: 2019-20
-Subject: Theory of Machines-I
-
-va Marks: 70
-Date: 16 November 2019 Time: 2.00 p:
-< Durations: 3 (Kes
-No. of Pages: _ 2
-Re-Examination (2016-17/ 2017-18 / 2018-19)
-— a a
+Re-examination (2016-17 / 2017-18)   _ ; - oe
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. Lis compulsory.
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .guitable data if necessary. ;
+
+Q1) Attempt the following.
+a) State and explain Grashoff's law. (4M)
+b) Sketch a Pantograph, explain it’s working and show that it can be used to reproduce an enlarged scale of a
+given figure. (5M)
+c) Draw a neat sketch of Hart's mechanism and prove that it produces an exact straight-line motion. (5M)
+OR
+d) Derive the condition for transmitting the maximum power in a flat belt drive. (5M)
+
+Q2a) Two pulleys, one 450 mm diameter and the other 200 mm diameter are on parallel shafts 1.95 m apart and are
+connected by a crossed belt. Find the length of the belt required and the angle of contact between the belt and each
+pulley.
+
+What power can be transmitted by the belt when the larger pulley rotates at 200 rev/min, if the maximum
+permissible tension in the belt is 1 kN, and the coefficient of friction between the belt
+
+and pulley is 0.25? (10M)
+
+Q2b) Explain different types of constrained motions. (4M)
+
+emcee
+Q3a) What are the different types of Instantaneous centers? (4M) '
+pie Q3b) A three-cylinder single acting engine has its cranks set equally at 120° and it runs at 600 r.p.m. The torque-
+crank angle diagram for each cycle is a triangle for the power stroke with a maximum torque of 90 N-m at 60° from
+dead center of corresponding crank. The torque on the return stroke is sensibly zero. Determine: 1. power
+a 3
+
+Page of Of 02
+--- page 2 ---
+developed. 2. coefficient of fluctuation of speed, if the mass of the flywheel is 12 kg and has a radius of gyration of
+80 mm, 3. coefficient of fluctuation of energy, and 4, maximum angular acceleration of the flywheel. (10M)
+
+Q4a) In Figure shown below, the angular velocity of the crank OA is 600 r.p.m. Determine the linear velocity of the
+slider D and the angular velocity of the link BD, when the crank is inclined at an angle of 75° to the vertical. The
+dimensions of various links are: OA = 28 mm; AB = 44mm; BC 49 mm; and BD = 46 mm. The center distance
+between the centers of rotation O and Cis 65 mm. The path of travel of the slider is 11 mm below the fixed-point C.
+The slider moves along a horizontal path and OC is vertical. (10M)
+
+rer
+|
+
+; |
+
+LULL
+
+ITIVE IT
+Q4b) Explain the terms ‘fluctuation of energy’ and ‘fluctuation of speed’ as applied to flywheels. (4M)
+Q5a) Discuss relative merits and demerits of belt, rope and chain drive for transmission of power. (6M)
+
+Q5b) For a flat belt, prove that 7 ee;
+2
+
+where T1= Tension in the tight side of the belt,
+
+T2= Tension in the slack side of the belt,
+
+u= Coefficient of friction between the belt and the pulley, and
+
+6= Angle of contact between the belt and the pulley (in radians.) (8M)
+
+Q6a) Power is transmitted using a V-belt drive. The included angle of V-groove is 30°. The belt is 20 mm deep and
+maximum width is 20 mm. If the mass of the belt is 0.35 kg per metre length and maximum allowable stress is 1.4
+MPa, determine the maximum power transmitted when the angle of lap is 140°. = 0.15. (8M)
+
+Q6b) Differentiate between. Davis and Ackerman’s steering gear mechanism. (6M)
+
+Q7a) Write notes on:- i) Oldham’s coupling, (4M)
+ii) Whitworth quick return motion mechanism. (6M)
+
+Q7b) What is the condition for correct steering? (4M)
+
+. page 62 % 02
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 46469be47373
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINES I RE EXAM BATCH 16-17 , 17-18.pdf`
+- Printed on paper: exam date: 22 November 2018
+- Text: ocr (3 pages), mean OCR confidence 93.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+— B. Tech (MECHATRONICS) Year: II y Semester: III
+Academic Year: 2018-2019
+Subject: Theory of Machines-I
+
+Date: 22 November 2018 Tim
+7
+
+Re-examination (2016-17 / 2017-18) y
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
+
 3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
@@ -638,69 +1069,87 @@ of the Answer Book, which is provided for their use.
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume .suitable data if necessary.
+7) Assume Suitable data if necessary. :
 
-Ql Attempt the following. MARKS
-A What are the different types of Instantaneous centers? (5)
-OR
-B What is kinematic pair? Explain classification of kinematic pairs. (5)
-C_ Explain different types of constrained motions. (5)
-D Draw neat sketch of Beam engine and explain it. (4)
-Q2 A With neat sketch explain any two inversions of Single Slider Crank Chain. (8)
-Q2 B_ Derive the equation for the length of cross flat belt drive. (6)
-Q3   A_ What is Pantograph? Explain Peaucellier mechanism. (6)
-Q3 8B Derive the fundamental equation for correct steering. Explain Ackerman’s steering gear _ (8)
-mechanism.
+Q.1 Answer any two from a to ¢ and any two from d tof
+(a) What is Grashof’s law? Explain it for four bar mechanism. (3)
 
-Q4 A Abelt drive consists of two V-belts in parallel, on grooved pulleys of the same size. The angle (10)
-of the groove is 30°. The cross-sectional area of each belt is 750 mm? and u. = 0.12. The
-density of the belt material is 1.2 Mg/m? and the maximum safe stress in the material is 7
-MPa. Calculate the power that can be transmitted between pulleys 300 mm diameter
-rotating at 1500 r.p.m. Find also the shaft speed in r.p.m. at which the power transmitted
-would be maximum.
+(b) What is instantaneous centre of rotation? Discuss the three types of instantaneous centres
 
-Q4 8B With neat sketch explain Bull engine. (4)
+for a mechanism. (3)
 
-TE
+(c) What is velocity of rubbing? How is it found? (3)
+
+(d).What is the condition for correct steering? Derive the formula. (4)
+
+(e) Discuss the effect of slip and creep on the velocity ratio of a belt drive. (4)
+
+_ (f) Derive an expression for the energy stored in flywheel. (4)
+
+oe Q2. (a) What is double slider crank mechanism? Sketch and explain elliptical ttammel. (5)
+(b) In a crank and slotted lever quick return mechanism, the driving crank length is 120 mm.
+The distance between the fixed centres is 250 mm and the length of the slotted lever is 600
+mm. Find the ratio of the times taken on the cutting and idle strokes and effective stroke length.
+
+(4)
+
+®
+
+Page 1 of 3
 --- page 2 ---
-\ @
+(c) Sketch and explain Peaucellier straight line mechanism. Prove that the point traces an exact
 
-Q5 The mechanism, as shown in Figure below, has the dimensions of various links as follows: (14)
-AB = DE = 150 mm; BC = CD = 450 mm; EF= 375 mm.
-The crank AB makes an angle of 45° with the horizontal and rotates about A in the clockwise
-direction at a uniform speed of 120 r.p.m. The lever DC oscillates about the fixed-point D,
-which is connected to AB by the coupler BC. The block F moves in the horizontal guides, being
-driven by the link EF. Determine: 1. velocity of the block F, 2. angular velocity of DC, and 3.
-rubbing speed at the pin C which is 50 mm in diameter.
+straight line motion. (5)
 
-<—— 375 mm |
-D
+Q.3 The mechanism of a wrapping machine, as shown in Fig.1, has the following dimensions:
+O,A = 100 mm; AC = 700 mm; BC = 200 mm; 03C = 200 mm; O2E = 400 mm; O2D = 200
+mm and BD = 150 mm. The crank O;A rotates at a uniform speed of 100 rad/s. Find the velocity
+of the point E of the bell crank lever by instantaneous centre method. (14)
 
-i
-4 100 mm
-peanaeien
-1 2 =
-375 mm seal
-F
-/
-B
-|
-45°
-A c
-Q6 A_ Explain the terms ‘fluctuation of energy’ and ‘fluctuation of speed’ as applied to flywheels. (4)
-Q6 B_ The turning moment diagram for a multi-cylinder engine has.been drawn to a scale 1 mm = (10)
+Figure |
+4. An engine mechanism is shown in Fig. 2. The crank’‘CB = 100 mm and the connecting rod
 
-600 N-m vertically and 1 mm = 3° horizontally. The intercepted areas between the output
+BA = 300 mm with centre of gravity G, 100 mm from B. In the position shown, the crankshaft
+has a speed of 75 rad/s and an angular acceleration of 1200 rad/s2. Find: 1. Velocity of G and
+angular velocity of AB, and 2. Acceleration of G and angular acceleration of AB. (14)
 
-torque curve and the mean resistance line, taken in order from one end, are as follows: + 52,
+Figure 2
+5. (a) Two parallel shafts whose centre lines are 4.8 m apart, are connected by open belt drive.
 
-— 124, + 92,-140, + 85,-72 and + 107 mm?, when the engine is running at a speed of 600
+The diameter of the larger pulley is 1.5 m and that of smaller pulley 1 m. The initial tension in
+the belt when stationary is 3 kN. The mass of the belt is 1.5 kg / m length. The coefficient of
+friction between the belt and the pulley is 0.3. Taking centrifugal tension into account, calculate
+the power transmitted, when the smaller pulley rotates at 400 r.p.m. (7)
 
-r.p.m. If the total fluctuation of speed is not to exceed + 1.5% of the mean, find the necessary
+(b) Derive an equation to find the length of open belt drive (7)
 
-mass of the flywheel of radius 0.5 m. ,
-Q7 A Write notes on: - i) Oldham‘s coupling, ii) Whitworth quick return motion mechanism. (8)
-Q7 B_ Derive the condition for transmitting the maximum power in a flat belt drive. (6)
+Page 2 of 3
+--- page 3 ---
+Q.6 (a) The turning moment diagram for a multi-cylinder engine has been drawn to a scale 1
+mm = 600 N-m vertically and 1 mm = 3° horizontally. The intercepted areas between the output
+torque curve and the mean resistance line, taken in order from one end, are as follows: + 52, —
+A 124, + 92,— 140, + 85,72 and+ 107 mm?, when the engine is running at a speed of 600 r.p.m.
+If the total fluctuation of speed is not to exceed + 1.5% of the mean, find the necessary mass
+
+of the flywheel of radius 0.5 m. (7)
+
+(b) The crank and connecting rod of a steam engine are 0.3 m and 1.5 m in length. The crank
+rotates at 180 r.p.m. clockwise. Determine the velocity and acceleration of the piston when the
+crank is at 40 degrees from the inner dead centre position, also determine the position of the
+
+crank for zero acceleration of the piston. (7)
+
+Q.7 (a) Sketch a pantograph, explain its working and show that it can be used to reproduce to
+
+an enlarged scale a given figure. (6)
+
+(b) What is single slider crank mechanism? Sketch and explain any one mechanism of single
+
+slider crank mechanism. (5)
+
+(c) Explain Grubler’s criterion for determining degree of freedom for mechanisms. (3)
+
+Page 3 of 3
 ````
 
 ## 2018-19 · Re-Exam · Sem 4 · paper 89b4c2337cd8
@@ -710,6 +1159,7 @@ Q7 B_ Derive the condition for transmitting the maximum power in a flat belt dri
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Theory of Machines I/Theory of machines-I , F 18-19,Re-exam 17-18.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 13 April 2019
 - Text: ocr (3 pages), mean OCR confidence 92.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -813,7 +1263,6 @@ Write any four advantages and disadvantages of V-belt drive over flat belt drive
 The mechanism of a warping machine, as shown in figure has the following
 
 dimensions:
-0;A= 100 mm; AC = 700 mm; BC= 200 mm; BD= 150 mm; O2D= 200 mm; O2E=
 
 400mm; 03C= 200 mm.
 
@@ -997,6 +1446,368 @@ speeds of the driven shaft. (6)
 Page 3 of 3
 ````
 
+## 2017-18 · Final-Exam · Sem 3 · paper e53615ba289d
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINES I (MECHANICAL), FINAL EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 30 November 2017
+- Text: ocr (3 pages), mean OCR confidence 92.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) L Year: II - Semester: III _
+
+| Academic Year: 2017-2018 |
+
+Subject: Theory of Machines -I ~
+
+Marks: 70 -
+Time: 10.00 am, to 06pm
+Durations: 3° /Ussy
+
+ie
+
+No. of Page§:
+Final-Examination . BL :
+
+Date: 30 November 2017 ~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+In question 1 (a to f) Attempt any two from a to c and any two from d to f
+
+Q.1 (a) What do you understand by the term degree of freedom? For a planar mechanism, derive
+
+the expression for Gruebler’s criterion. (3)
+(b) Differentiate between machine and structure. (3)
+(c) Discuss the effect of slip of belt on the velocity ratio of belt drive - (3)
+
+(d) What do you understand by the, instantaneous center of rotation in kinematic of
+
+Machines? Discuss the three types of instantaneous centers for a mechanism. (4)
+(e) What is pantograph? Sketch a pantograph, explain it’s working. (4)
+(f) Derive an expression for the velocity of the piston for reciprocating engine. (4)
+— Q.2 (a) What is inversions of a mechanism? Draw and describe Elliptical trammel and
+Scotch yoke mechanism. (7)
+ge (b) In a crank and slotted lever quick return mechanism, the driving crank length is 75 mm. The
+
+distance between the fixed centers is 200 mm and the length of the slotted lever is 500 mm. Find
+
+Page 1 of 3
+--- page 2 ---
+the ratio of the times taken on the cutting and idle strokes. Determine the effective stroke also.
+
+(4)
+(c) For the kinematics linkage shown in Fig.1 calculate the number of kinematic pairs and degree
+of freedom. © (3)
+
+Figure 1
+
+Q.3 (a) What is the condition for correct steering? Sketch and show the two main types of
+steering gears and discuss their relative advantages. (8)
+(b)Determine the maximum permissible angle between the shaft axes of a universal joint if the
+driving shaft rotates at 800 rpm and the total fluctuation of speed does not exceed 60 rpm. Also
+find the maximum and minimum speed of the driven shafts. ; (6)
+
+Q.4 The mechanism of a wrapping machine, as shown in Fig. 2, has the following dimensions:
+mm and BD = 150 mm. The crank O;A rotates at a uniform speed of 100 rad/s. Find the velocity
+
+of the point E of the bell crank lever by instantaneous centre method. (14)
+
+| Os) °
+~<— 300 mm —)-<«— 400 mm ——>}
+
+Figure 2
+
+Page 2 of 3
+--- page 3 ---
+Q.5 Find out the velocity and acceleration of the slider D and, the angular velocity and angular
+acceleration of link CD for the engine mechanism shown in Fig. 3. The crank OA rotates
+uniformly at 180 rpm in clockwise direction. The various lengths are: OA = 150 mm; AB = 450
+
+Nara |
+IN}
+
+30° A
+Figure 3 (All dimensions are in mm)
+
+Q.6 (a) A shafi fitted with a flywheel rotates at 250 r.p.m. and drives a machine. The torque of
+machine varies in a cyclic manner over a period of 3 revolutions. The torque rises from 750 N-m
+to 3000 N-m uniformly during 1/2 revolution and remains constant for the following revolution.
+It then falls uniformly to 750 N-m during the next 1/2 revolution and remains constant for one
+
+revolution, the cycle being repeated thereafter. Determine the power required «> drive the
+machine and percentage fluctuation in speed, if the driving torque applied to the sha't is constant
+and the mass of the flywheel is 500 kg with radius of gyration of 600 mm. (10)
+(b) In a slider crank mechanism, the length of the crank and connecting rod are 150 mm and 600
+mm respectively. The crank position is 60° from inner dead centre. The ¢:.1\ shaft speed is 450
+rpm. (clockwise). Using analytical method, determine: 1. Velocity and acceleration of
+
+the slider, and 2. Angular velocity and angular acceleration of the connecting rod. (4)
+
+Q.7 (a) A leather belt is required to transmit 7.5 kW from a pulley 1.2 m in diameter, running at
+250 r.p.m. The angle embraced is 165° and the coefficient of friction between the belt and
+
+—s the pulley is 0.3. If the safe working stress for the leather belt is 1.5 MPa, density of leather 1
+Meg/m3 and thickness of belt 10 mm, determine the width of the belt taking centrifugal tension
+
+a] into account. (7)
+
+(b) Obtain an expression for the length of a belt in an open belt drive. (7)
+
+Page 3 of 3
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper 0f49c4412693
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINE I (MECHATRONICS), FINAL EXAM (2).pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 02 December 2017
+- Text: ocr (2 pages), mean OCR confidence 90.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+/ Programme: B. Tech (MECHATRONICS) Year: II Semester: III
+C “ \
+Academic Year: 2017-2018 \
+: ik bd 2
+Subject: Theory of Machines -I >» >
+
+Marks: 70 ay oN
+Date: 02 December 2017 - Time: 10. Come 8 f te a Od pe a
+
+Durations; 7
+No. of Page eS \. OZ Ze 46,
+
+May
+
+Final-Examination
+
+-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1) Attempt the following.
+a) What is the difference between Machine and Structure? (4M)
+OR
+b) What are the different types of Instantaneous centers? (4M)
+c) Explain different types of constrained motions. (5M)
+d) With neat sketch explain Bull engine. (5M)
+
+Q2a) What is Pantograph? Explain Peaucellier mechanism. (7M)
+Q2b) Derive the equation for the length of open flat belt drive. (7M)
+
+Q3a) Explain any one inversion of double slider crank chain. (5M)
+
+Q3b) Determine the width of 4 9.75 mm thick leather belt required to transmit 15 kW from a motor running at 900
+r.p.m. The diameter of the driving pulley of the motor is 300 mm. The driven pulley runs at 300_r.p.m. and the
+distance between the centre of two pulleys is 3 metres. The density of the leather is 1000 kg/m@. The maximum
+
+— allowable stress in the leather is 2.5 MPa. The coefficient of friction between the leather and pulley is 0.3. Assume
+open belt drive and neglect the sag and slip of the belt. (9M)
+Q4a) Define the terms ‘coefficient of fluctuation of energy’ and ‘coefficient of fluctuation of speed’, in the case of
+flywheels. (4M)
+2
+
+Frage ef] ehe2
+--- page 2 ---
+Q4b) The turning moment diagram for a petrol engine is drawn to the following scales: Turning moment, 1 mm =5
+N-m ; crank angle, 1 mm = 1°. The turning moment diagram repeats itself at every half revolution of the engine and
+the areas above and below the mean turning moment line taken in order are 295, 685, 40, 340, 960, 270 mm. The
+rotating parts are equivalent to a mass of 36 kg at a radius of gyration of 150 mm. Determine the coefficient of
+fluctuation of speed when the engine runs at 1800 r.p.m. (10M)
+
+Q5) The mechanism, as shown in Figure below, has the dimensions of various links as follows: AB = DE = 150 mm;
+BC = CD = 450 mm; EF = 375 mm.
+
+The crank AB makes an angle of 45° with the horizontal and rotates about A in the clockwise direction at a uniform
+speed of 120 r.p.m. The lever DC oscillates about the fixed-point D, which is connected to AB by the coupler BC. The
+block F moves in the horizontal guides, being driven by the link EF. Determine: 1. velocity of the block F, 2. angular
+velocity of DC, and 3. rubbing speed at the pin C which is 50 mm in diameter. (14M)
+
+|<—— 375 mm —|
+D
+
+| POT ae
+| \ 100 mm
+\ Y
+
+} 375 mm \ eT os
+
+dered
+
+Ee F
+
+epee
+
+Aase YO
+at - bc
+
+Q6) PQRS is a four-bar chain with link PS fixed. The lengths of the links are PQ = 62.5 mm; QR = 175 mm; RS =
+112.5 mm; and PS = 200 mm. The crank PQ rotates at 10 rad/s clockwise. Draw the velocity and acceleration diagram
+when angle QPS = 60° and Q and R lie on the same side of PS. Find the angular velocity and angular acceleration of
+links QR and RS. (14M)
+
+Q7a) Differentiate between Davis and Ackerman’s steering gear mechanism. (6M)
+Q7b) Write notes on :- i) Oldham’s coupling, ii) Whitworth quick return motion mechanism. (8M)
+
+Page 02 02
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 5627662c3ccb
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINE-I (BATCH 16-17) RE-EXAM(1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+- Programme: B.Tech (MECHANICAL) Year: II Semester: II
+
+Batch: 2016-17 -
+Academic Year: 2017-2018
+
+Subject: Theory of Machines-I
+Marks: 70 ;,,\\0 a
+Date: 30 November 2017 Time: 10.00-am to 1.00
+Durations: 3 (hrs) si
+No. of Pages: Ze ABW
+yr!
+C
+
+NS ® eae
+NS ar
+
+al ?
+
+sys XG &
+Re-Examination : hp
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+
+- cover of the answer Book, which is provided for their use.
+NB:
+
+1. Question No.1 is compulsory. Out of remaining questions, attempt any four questions.
+2. All questions carry equal marks.
+
+3. Answer to each new question to be started on fresh page.
+
+4. Figures in brackets on the right hand side indicate full marks.
+
+5. Assume suitable data whenever necessary.
+
+Qt Attempt any one from c toe.
+a) What is a machine? Giving example, differentiate between a machine and a structure. 5
+b) Sketch and explain any two inversions of a double slider crank chain. 5
+
+c) Determine thedegrees of freedom of the mechanism shown in Fig. using Kutzbach 4
+mobility criterion and classify them.
+
+3 4
+2 6
+sag 1 r
+d) Describe creep of belt. | 4
+e) Explain rubbing velocity in pin joint. 4
+
+Q.2a) What is the condition for correct steering? Sketch and show the two main types of 7
+steering gears and discuss their relative advantages.
+
+b) What do you mean by inversion? Explain with neat sketches of any two inversion of 7
+four bar chain mechanism.
+
+Q.3 In the toggle: mechanism shown in Figure, the slider D is constrained to move ona 14
+
+horizontal path. The crank OA is rotating in the counter-clockwise direction at a speed
+of 180 r.p.m increasing at the rate of 50 rad/s2. The dimensions of the various links are
+
+{Ig
+--- page 2 ---
+as follows: OA = 180 mm; CB = 240 mm ; AB = 360 mm ; and BD = 540 mm. For the
+given configuration,
+find1. Velocity of slider D and angular velocity of BD, and
+
+2. Acceleration of slider D and angular acceleration of BD.
+
+po
+
+“Q4a) The crank and connecting rod of a steam engine are 0.3 m and 1.5 m in length. The
+crank rotates at 180 r.p.m. clockwise. Determine the velocity and acceleration of the
+piston when the crank is at 40 degrees from the inner dead centre position. Also
+determine the position of the crank for zero acceleration of the piston.
+
+b) Locate all the instantaneous centers for a four bar mechanism as shown in Figure. The
+lengths of various links are: AD = 125 mm; AB = 62.5 mm; BC = CD = 75 mm. If the
+link AB rotates at a uniform speed of 10 r.p.m. in the clockwise direction, find the
+angular velocity of the links BC and CD.
+
+4 Cc
+
+60" ,
+
+Q.5a) A shaft rotating at 200 r.p.m. drives another shaft at 300 r.p.m. and transmits6 kW
+through a belt. The belt is 100 mm wide and 10 mm thick. The distance between the
+shafts is 4m.The smailer pulley is 0.5 m in diameter. Calculate the stress in the belt, if it
+is 1. An open belt driveand 2. A cross belt drive. Take p = 0.3.
+
+b) The turning moment diagram for 4 multicylinder engine has been drawn toa scale 1 mm
+= 600 N-m vertically and 1 mm = 3° horizontally. The intercepted areas between
+theoutput torque curve and the mean resistance line, taken in order from one end, are as
+follows: + 52, — 124, + 92, — 140, + 85, — 72 and + 107 mm’, when the engine is
+running at a speed of 600 r.p.m. If the total fluctuation of speed is not to exceed + 1.5%
+of the mean, find the necessary mass of the flywheel of radius 0.5 m.
+
+Q.6a) Derive an expression for the length of a chain.
+
+b) Derive the condition for transmitting the maximum power in a flat belt drive.
+
+Q.7 Attempt the following
+a Derive the equation for centrifugal tension in a belt.
+b Explain coriolies components of acceleration.
+
+c Explain paucellier straight line generation mechanism. oR
+d Explain withworth quick return chain mechanism.
+
+2/2
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper ac2ffdd2ef4e
 
 - Departments: Mechanical
@@ -1121,227 +1932,141 @@ cette
 Page 3 of 3
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper 1e85a42a40a0
+## 2017-18 · Re-Exam · Sem 3 · paper a4483e5c76dc
 
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINES I BATCH 16-17 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 15 November 2018
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINE-I (BATCH 16-17) RE-EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 02 December 2017
 - Text: ocr (3 pages), mean OCR confidence 91.8
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (MECHANICAL) Year: II Semester: II +
+——
+Programme: B.Tech (MECHATRONICS) < Year: II - Semester: III-
+} Batch: 2016-17 ~ sO -
+| Academic Year: 2017-2018 “
+ef
+Subject: Theory of Machines-I ¢ a ARS
+Marks: 70 <« ,;’* a
+Date: 02 December 2017 ” Time: 10.00 am to 1.00 pay, ‘iG
 
-Pg -
+Durations: 3 (hrs) ,
+No. of Pages:\, =
+Re-Examination Sa sewer —
 
-Academic Year: 2018-2019 y
-
-Subject: Theory of Machines-L_
-
-Date: 15 November 2018 _, Time: 2.00 pm
-
-No. of Pages :
-Re-examination (2016-17 / 2017-18) y
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+Instructions: Candidates should read carefully the instructions printed on the question paper chant on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. _1 is compulsory.
+1. Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any __4 -_ questions.
+2. Out of remaining questions attempt any four questions.
 
-3) In all_5_ questions to be attempted.
+3. Inall five questions to be attempted.
 
-4) All questions carry equal marks.
+4. All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5. Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume suitable data if necessary.
 
-Ql
-‘a. What is kinematic pair? Classify in detail. 4M
-b. State and explain Three-centers-in-line theorem. 3
-c. What is “slip” in belt drive? 4M
-d. What is transmission angle? State its significance. 3
+Q.1) ATTEMPT ANY FOUR QUESTION. (14)
+a) Explain Paucellier’s Mechanism with neat sketch.
+b) Explain type of kinematic pair.
+c) Explain Scotch Yoke Mechanism.
+d) What is the function of Flywheel and explain maximum Fluctuation of Energy .
+e) What is the Condition for carrect steering Mechanism?
+f) What is the Maximum power transmission condition by Flat Belt drive?
+Q.2) a) The length of crank and connecting rod of a horizontal reciprocating engine are (8)
 
-Q2 a. Define inversion. State.Enumerates the inversion a double slider crank mechanism with 7M
+100mm & 500mm respectively. The crank is rotating at 400rpm. When the crank has
+turned 30° from Inner Dead Centre. Find analytically i) Acceleration of Piston ii)
+Velocity of Piston iii) Velocity of connecting rod iv) Angular Acceleration of
+Connecting rod.
 
-example.
-b. State and explain fundamental equation of steering gear. Which steering gear fulfills this 7M
-condition?
-3 In a toggle mechanism shown in figure the crank OA rotates at 210 rpm CCW increasing 14M
+b) Derive Equation for length of Open Belt Drive. (6)
 
-at the rate of 60 rad/s2. Find:
-1. Velocity of slider D and angular velocity of link BD.
-2. Acceleration of slider D and angular acceleration of link BD.
-
-V,
+1/3
 --- page 2 ---
-Q4 a. Figure shows a six link mechanism. What will be the velocity of cutting tool D and the 9M
-angular velocities of links BC and CD if crank OA rotates at 10 rad/sec.
+Q.3 ) a) The mechanism of a wrapping machine, as shown in Fig., has the following
+dimensions :
+O1A = 100 mm; AC = 700 mm; BC = 200 mm; O3C = 200 mm; O2E = 400
+mm; O2D = 200 mm and BD = 150 mm. The crank O1A rotates at angular velocity of
+100 rad/s. Find the velocity of the point E of the bell crank lever by instantaneous
+centre method.
 
-aa
+b) Explain types of Kinematic Link with example. (4)
 
-Pi we
-AT :
+Q.4) a) The crank and connecting rod of a theoretical steam engine are 0.5 m and 2 m long (10)
+respectively. The crank makes 180 r.p.m. in the clockwise direction. When it has
+turned 45° from the inner dead centre position, determine : 1. velocity of piston, 2.
+angular velocity of connecting rod, 3. velocity of point E on the connecting
+rod 1.5 m from the gudgeon pin, by using Relative Velocity Method.
 
-: Al] domensions =
-: 2 mom
-45
-b. Explain with neat sketch Crank and slotted lever mechanism. 5M
-Q5 a Prove that a = eve. 7™
-
-2
-b. A belt is required to transmit 18.5 kW from a pulley of 1.2 m diameter running at 250 rpm 7M
-to another pulley which runs at 500 rpm. The distance between the centers of pulleys is
-2.7 m. The following data refer to an open belt drive, u = 0.25. Safe working stress for
-leather is 1.75 N/mm2. Thickness of belt = 10mm. Determine the length and width of belt-
-taking centrifugal tension into account.
-
-Q6 a. The turning moment diagram for multi-cylinder internal combustion engine is drawn on 8M
-
-the scale of 1 mm = 5 Nm, crank angle: 1 mm = 1°. The turning moment diagram cycle
-repeats at every half revolution of the engine. The areas above and below the mean torque
-
-7;
---- page 3 ---
-Q7
-
-line are taken in order are: 295, 685, 40,340, 960, 270 mm2. Mass of the all rotating bodies
-is 36 Kg at radius of gyration of 150 mm. Determine the co-efficient of fluctuation of speed
-when the engine running at 1800 rpm.
-
-What is turning moment diagram? Explain the turning moment diagram of 4-strokes SI_ 6M
-engine.
-
-Explain the Paucellier straight line motion mechanism. 5M
-“Centrifugal tension is independent of tension of tight and slack side”, Justify. 5M
-State and explain D’Alemberts principle. 4M
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper e51cbe8720b6
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINES I BATCH 16-17 17-18 RE EXAM_e51cbe8720.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 January 2019
-- Text: ocr (2 pages), mean OCR confidence 89.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF: TECHNOLOGY MANAGE
-
-Program: B. Tech (Mechanical) YZ
-Academic Year: 2018-2019 o “a ;
-| Subject: Theory of Machines-I Marks: 70 |
-- Time: 2.00 pm to 5.00 pm ;
-
-a
-
-Date: 14 January 2019 _
-al ary F Durations: 3 (hrs)
-
-No. of Pages: 2
-Re-examination (2016-17 / 2017-18) _~
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 i$ compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qi
-
-a) Sketch and explain the any two inversions of a slider crank chain. 5
-b) Determine the degrees of freedom of the mechanism shown in Fig. using Kutzbach 4
-
-mobility criterion and classify them.
-=
+XN
+>
 \
 
-ts) )
+\
 
-c) Derive the equation for Ratio of Driving Tensions For Flat Belt Drive. 5
-Q.2.a) What is the condition for correct steering? Sketch and derive equation Davis steering 7
-gear mechanism.
-b) What do you mean by inversion? Explain with neat sketches of any two inversion of 7
-four bar chain mechanism.
+P \
 
-— Q.3 In the mechanism, as shown in Figure the crank OA rotates at 20 r.p.m. anticlockwise 14
-and gives motion to the sliding blocks B and D. The dimensions of the various links are
-" OA = 300 mm; AB = 1200 mm; BC = 450 mm and CD = 450 mm.
-te For the given configuration, determine : 1. velocities of sliding at B and D, 2. Angular
-ES
+WPTEITTISELTTS \
 
-fo
---- page 2 ---
-velocity of CD, 3. linear acceleration of D, and 4. angular acceleration of CD.
+ele ae ee ome
+LULL 1,D.C. 0 0 D C
+b) Explain Crank and Slotted lever quick return motion Mechanism with it’s (4)
+application.
 
-‘ +
-gS |
-! , an —
-| ) : |
+Q.5) a) In a vertical double acting steam engine, the connecting rod is 4.5 times the crank. (10)
 
-=
+The weight of reciprocating parts is 120Kg and stroke of piston is 440mm. The
+engine runs at 250 rpm. If the net load on piston due to steam pressure is 25 KN.
+When the crank has turned through an angle 120° fron Top Dead Centre. Determine
+the
 
-Q.4a) The crank and connecting rod of a steam engine are 0.3 m and 1.5 m in length. The 7
-crank rotates at 180 r.p.m. clockwise. Determine the velocity and acceleration of the
-piston ‘when the crank is at 40 degrees from the inner dead centre position, also. -
-determine the position of the crank for zero acceleration of the piston.
+i) Thrust in connecting rod
 
-b) Ina pin jointed four bar mechanism, as shown in Fig. AB = 300 mm, BC = CD = 360 7
-mm, and AD = 600 mm. The angle BAD = 60°. The crank AB rotates uniformly at 100
-r.p.m. Locate all the instantaneous centres and find the angular velocity of the link BC.
+ii) Pressure on slide bars
 
-nn
+iii) Tangential force on crank pin
 
-a 2" \
-a ‘8
-S/ \3
-g/ \?
-3/5 60° \
+iv) Thurst on bearings
 
-A Ona PIEIITTR TRILL! TD
-}~«——— 600 mm
+v) Turning moment on crankshaft
 
-Q.5a) An open belt running over two pulleys 240 mm and 600 mm diameter connects two 7
-parallel shafts 3 meters apart and transmits 4 kW from the smaller pulley that rotates at
-300 r.p.m. Coefficient of friction between the belt and the pulley is 0.3 and the safe
-working tension is 10N per mm width. Determine: 1. minimum width of the belt, 2.
-initial belt tension, and 3. length of the belt required.
+b) Explain an Elliptical Trammel with neat sketch. (4)
 
-b) The turning moment diagram for a multi-cylinder engine has been drawn to a scale 1 7
-mm = 600 N-m vertically and | mm = 3° horizontally. The intercepted areas between
-the output torque curve and the mean resistance line, taken in order from one end, are as
-follows :+ 52, — 124, + 92, — 140, + 85, — 72 and + 107 mm2, when the engine is
-running at a speed of 600 r-p.m. If the total fluctuation of speed is not to exceed + 1.5%
-of the mean, find the necessary mass of the flywheel of radius 0.5 m.
+23
+--- page 3 ---
+Q.6) a) A belt drive consist of V-belt, on grooved pulleys of the same size. The angle of (8)
+groove is 30°. The cross sectional area of each belt is 750mm? and coefficient of
+friction is 0.12. The density of belt material is 1200 Kg/m? and maximum safe stress
+in material is 7MPa. Calculate the power that can be transmitted between pulleys 300
 
-— Q.6a) Derive an expression for the length of open belt drive. 7
-b) Derive the condition for transmitting the maximum power in a flat belt drive. 7
+mm diameter rotating at 1500 rpm. ( Take angle of lap=180°)
 
-st “7
-a Explain coriolies components of acceleration and its direction. 5
-b Explain paucellier straight line generation mechanism. 4
+b) In an open belt drive, the’ diameters of the larger and smaller pulleys are 1.2m and (6)
+0.8m respectively. The smaller pulley rotates at 320 rpm. The centre distance
+between shafts is 4m. When stationary, the initial tension in the belt is 2.8 KN. The
+mass of belt is 1.8Kg/m and coefficient of friction between belt and pulley is 0.25.
+Determine the power transmitted. ;
 
-c Define the terms ‘coefficient of fluctuation of energy’ and ‘coefficient of fluctuation of 5
-speed’, in the case of flywheels.
+Q.7) — Write short note on
 
-: ope
+a) What is centrifugal tension in belt?
+
+b) Explain Hart’s Mechanism.
+
+c) Derive equation for Ratio of Tension for Flat belt drive.
+d) Rubbing Velocity at pin joint.
+
+(4)
+
+Sls
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper f207061a5567
@@ -1473,6 +2198,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINES I BATCH 16-17 17-18 RE EXAM 2017-18(1) (1).pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 01 June 2018
 - Text: ocr (3 pages), mean OCR confidence 88.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1576,7 +2302,6 @@ Ks
 
 ; 00" \%,
 LEELEL S, 7: = ee 45° Ny
-By eT rere ees mms eee & ce YSN ¢ EH NEF ff SORE ED sa i?|O
 PEPOTTETTT RT Titty
 . b) Describe turning moment diagram for single cylinder four stroke engine. (4)
 Q.5)a) Describe Whithworth Quick return motion mechanism with neat sketch. (8)
@@ -1603,232 +2328,6 @@ a) Explain Hart’s Mechanism with neat sketch.
 
 b) Derive expression for displacement, velocity of Piston by analytical
 method.
-
-Page 3 of 3
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 583f74162507
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINES I BATCH 16-17 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’S NMIMS
-
-Program: B. Tech (Mechatronics) Year: Il Semester : Il
-4 Academic Year: 2018-2019 - <4
-: \
-! Subject: Theory of Machines-I Marks: 70 - \
-4 Time: 2.00 pm to 5.00 pm ¢
-Date : 21 January 2019 Durations:3 (hrs)
-il No. of Pages: 2
-
-Re-examination (2016-17 / 2017-18)   _ ; - oe
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume .guitable data if necessary. ;
-
-Q1) Attempt the following.
-a) State and explain Grashoff's law. (4M)
-b) Sketch a Pantograph, explain it’s working and show that it can be used to reproduce an enlarged scale of a
-given figure. (5M)
-c) Draw a neat sketch of Hart's mechanism and prove that it produces an exact straight-line motion. (5M)
-OR
-d) Derive the condition for transmitting the maximum power in a flat belt drive. (5M)
-
-Q2a) Two pulleys, one 450 mm diameter and the other 200 mm diameter are on parallel shafts 1.95 m apart and are
-connected by a crossed belt. Find the length of the belt required and the angle of contact between the belt and each
-pulley.
-
-What power can be transmitted by the belt when the larger pulley rotates at 200 rev/min, if the maximum
-permissible tension in the belt is 1 kN, and the coefficient of friction between the belt
-
-and pulley is 0.25? (10M)
-
-Q2b) Explain different types of constrained motions. (4M)
-
-emcee
-Q3a) What are the different types of Instantaneous centers? (4M) '
-pie Q3b) A three-cylinder single acting engine has its cranks set equally at 120° and it runs at 600 r.p.m. The torque-
-crank angle diagram for each cycle is a triangle for the power stroke with a maximum torque of 90 N-m at 60° from
-dead center of corresponding crank. The torque on the return stroke is sensibly zero. Determine: 1. power
-a 3
-
-Page of Of 02
---- page 2 ---
-developed. 2. coefficient of fluctuation of speed, if the mass of the flywheel is 12 kg and has a radius of gyration of
-80 mm, 3. coefficient of fluctuation of energy, and 4, maximum angular acceleration of the flywheel. (10M)
-
-Q4a) In Figure shown below, the angular velocity of the crank OA is 600 r.p.m. Determine the linear velocity of the
-slider D and the angular velocity of the link BD, when the crank is inclined at an angle of 75° to the vertical. The
-dimensions of various links are: OA = 28 mm; AB = 44mm; BC 49 mm; and BD = 46 mm. The center distance
-between the centers of rotation O and Cis 65 mm. The path of travel of the slider is 11 mm below the fixed-point C.
-The slider moves along a horizontal path and OC is vertical. (10M)
-
-rer
-|
-
-; |
-
-LULL
-
-ITIVE IT
-Q4b) Explain the terms ‘fluctuation of energy’ and ‘fluctuation of speed’ as applied to flywheels. (4M)
-Q5a) Discuss relative merits and demerits of belt, rope and chain drive for transmission of power. (6M)
-
-Q5b) For a flat belt, prove that 7 ee;
-2
-
-where T1= Tension in the tight side of the belt,
-
-T2= Tension in the slack side of the belt,
-
-u= Coefficient of friction between the belt and the pulley, and
-
-6= Angle of contact between the belt and the pulley (in radians.) (8M)
-
-Q6a) Power is transmitted using a V-belt drive. The included angle of V-groove is 30°. The belt is 20 mm deep and
-maximum width is 20 mm. If the mass of the belt is 0.35 kg per metre length and maximum allowable stress is 1.4
-MPa, determine the maximum power transmitted when the angle of lap is 140°. = 0.15. (8M)
-
-Q6b) Differentiate between. Davis and Ackerman’s steering gear mechanism. (6M)
-
-Q7a) Write notes on:- i) Oldham’s coupling, (4M)
-ii) Whitworth quick return motion mechanism. (6M)
-
-Q7b) What is the condition for correct steering? (4M)
-
-. page 62 % 02
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 46469be47373
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINES I RE EXAM BATCH 16-17 , 17-18.pdf`
-- Printed on paper: exam date: 22 November 2018
-- Text: ocr (3 pages), mean OCR confidence 93.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-— B. Tech (MECHATRONICS) Year: II y Semester: III
-Academic Year: 2018-2019
-Subject: Theory of Machines-I
-
-Date: 22 November 2018 Tim
-7
-
-Re-examination (2016-17 / 2017-18) y
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. :
-
-Q.1 Answer any two from a to ¢ and any two from d tof
-(a) What is Grashof’s law? Explain it for four bar mechanism. (3)
-
-(b) What is instantaneous centre of rotation? Discuss the three types of instantaneous centres
-
-for a mechanism. (3)
-
-(c) What is velocity of rubbing? How is it found? (3)
-
-(d).What is the condition for correct steering? Derive the formula. (4)
-
-(e) Discuss the effect of slip and creep on the velocity ratio of a belt drive. (4)
-
-_ (f) Derive an expression for the energy stored in flywheel. (4)
-
-oe Q2. (a) What is double slider crank mechanism? Sketch and explain elliptical ttammel. (5)
-(b) In a crank and slotted lever quick return mechanism, the driving crank length is 120 mm.
-The distance between the fixed centres is 250 mm and the length of the slotted lever is 600
-mm. Find the ratio of the times taken on the cutting and idle strokes and effective stroke length.
-
-(4)
-
-®
-
-Page 1 of 3
---- page 2 ---
-(c) Sketch and explain Peaucellier straight line mechanism. Prove that the point traces an exact
-
-straight line motion. (5)
-
-Q.3 The mechanism of a wrapping machine, as shown in Fig.1, has the following dimensions:
-O,A = 100 mm; AC = 700 mm; BC = 200 mm; 03C = 200 mm; O2E = 400 mm; O2D = 200
-mm and BD = 150 mm. The crank O;A rotates at a uniform speed of 100 rad/s. Find the velocity
-of the point E of the bell crank lever by instantaneous centre method. (14)
-
-Figure |
-4. An engine mechanism is shown in Fig. 2. The crank’‘CB = 100 mm and the connecting rod
-
-BA = 300 mm with centre of gravity G, 100 mm from B. In the position shown, the crankshaft
-has a speed of 75 rad/s and an angular acceleration of 1200 rad/s2. Find: 1. Velocity of G and
-angular velocity of AB, and 2. Acceleration of G and angular acceleration of AB. (14)
-
-Figure 2
-5. (a) Two parallel shafts whose centre lines are 4.8 m apart, are connected by open belt drive.
-
-The diameter of the larger pulley is 1.5 m and that of smaller pulley 1 m. The initial tension in
-the belt when stationary is 3 kN. The mass of the belt is 1.5 kg / m length. The coefficient of
-friction between the belt and the pulley is 0.3. Taking centrifugal tension into account, calculate
-the power transmitted, when the smaller pulley rotates at 400 r.p.m. (7)
-
-(b) Derive an equation to find the length of open belt drive (7)
-
-Page 2 of 3
---- page 3 ---
-Q.6 (a) The turning moment diagram for a multi-cylinder engine has been drawn to a scale 1
-mm = 600 N-m vertically and 1 mm = 3° horizontally. The intercepted areas between the output
-torque curve and the mean resistance line, taken in order from one end, are as follows: + 52, —
-A 124, + 92,— 140, + 85,72 and+ 107 mm?, when the engine is running at a speed of 600 r.p.m.
-If the total fluctuation of speed is not to exceed + 1.5% of the mean, find the necessary mass
-
-of the flywheel of radius 0.5 m. (7)
-
-(b) The crank and connecting rod of a steam engine are 0.3 m and 1.5 m in length. The crank
-rotates at 180 r.p.m. clockwise. Determine the velocity and acceleration of the piston when the
-crank is at 40 degrees from the inner dead centre position, also determine the position of the
-
-crank for zero acceleration of the piston. (7)
-
-Q.7 (a) Sketch a pantograph, explain its working and show that it can be used to reproduce to
-
-an enlarged scale a given figure. (6)
-
-(b) What is single slider crank mechanism? Sketch and explain any one mechanism of single
-
-slider crank mechanism. (5)
-
-(c) Explain Grubler’s criterion for determining degree of freedom for mechanisms. (3)
 
 Page 3 of 3
 ````
@@ -2220,6 +2719,163 @@ Where E = Mean energy of the flywheel, andC, = coefficient of fluctuation of spe
 ys
 ````
 
+## 2016-17 · Final-Exam · Sem 3 · paper c4e2670dd781
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINES I B TECH (MECHA), FINAL EXAM.pdf`
+- Printed on paper: exam date: 30 November 2016
+- Text: ocr (4 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) Year: II Semester: III \
+
+ye ~~ ae
+} i 7 z we. Se
+) Academic Year: 2016-2017 Z gee Sa
+
+MPSTME 6
+
+LIBRARY
+am to 1.00
+
+Subject : Theory of Machines-I
+
+Date : 30 November 2016 Time A
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+
+and on the cover of the answer Book, which is provided for their use.
+NB:
+
+1. Question No.1 is compulsory. Out of remaining questions, attempt any four questions.
+2. All questions carry equal marks.
+
+3. Answer to each new question to be started on fresh page.
+
+4. Figures in brackets on the right hand side indicate full marks.
+
+5. Assume suitable data whenever necessary.
+Attempt any two from a to c and any two from d tof
+
+Q.1 (a) What do you understand by the term degree of freedom? For a planar mechanism,
+derive the expression for Gruebler’s criterion. (3)
+(b) State and prove the ‘Aronhold Kennedy’s Theorem’ of three instantaneous centres. (3)
+
+(c)Explain the turning moment diagram of a four stroke cycle internal combustion engine.
+
+(3)
+(d) What do you understand by steering gear? Derive expression for the fundamental
+equation of correct steering. (4)
+(e) Derive the condition for transmitting the maximum power in a flat belt drive. (4)
+——— (f) What is the function of flywheel? Explain the term coefficient of fluctuation of energy and
+coefficient of fluctuation of speed. (4)
+cad Q.2 (a)What do you understand by inversion of a mechanism? Explain with sketches crank
+and slotted quick return mechanism and Scotch yoke mechanism (7)
+
+(b) Explain Hart’s mechanism with the help of neat sketch. Prove that it produces an exact
+
+straight line. (7).
+--- page 2 ---
+Q.3 (a)In a pin jointed four bar mechanism, as shown in Fig. 1, AB = 300 mm, BC = CD =
+360 mm, and AD = 600 mm. The angle BAD = 60°. The crank AB rotates uniformly at 100
+
+r.p.m. Locate all the instantaneous centres and find the angular velocity of the link BC.
+
+mn
+gmt
+ra | ;
+
+é
+£ ‘
+& ‘
+
+& :
+° * 60° |
+
+A Sari amma DD
+|~«——— 600 mm ——>|
+
+Figure 1 (4)
+
+(b) A quick return mechanism of the crank and slotted lever type shaping machine is shown
+in Fig.2.The dimensions of the various links are as follows :0;02= 800 mm ; 0:B = 300 mm;
+OoD = 1300 mm; DR = 400 mm.The crank O1B makes an angle of 45° withthe vertical and
+rotates at 40 r.p.m. in the counter clockwise direction. Find:1. velocity of the ram R, or the
+
+velocity of the cutting tool, and 2. angular velocity of link O2D. (10)
+
+All dimensions in mm.
+
+Figure 2
+
+oh,
+--- page 3 ---
+Q.4 Find out the acceleration of the slider D and the angular acceleration of link CD for the
+engine mechanism shown in Fig. 3. The crank OA rotates uniformly at 180 r.p.m. in
+
+clockwise direction. The various lengths are: OA =150 mm; AB = 450 mm;PB = 240 mm;
+
+BC =210 mm ; CD = 660 mm. (14)
+ats
+LEP
+i\
+1\
+je— 3OO—+j \
+I I |
+a! es \
+pi \
+~ | B \
+i ae
+420 1450 . Te
+
+|
+_ _ +0
+aN
+30° A
+All dimensions in mm
+
+Q.5 (a) Obtain an expression for the length of a belt in an open belt drive. (6)
+
+(b) Determine the width of a 9.75 mm thick leather belt required to transmit 15 kW from a
+motor running at 900 r.p.m. The diameter of the driving pulley of the motor is 300 mm.The
+driven pulley runs at 300 r.p.m. and the distance between the centre of two pulleys is 3
+metres.The density of the leather is 1000 kg/m?. The maximum allowable stress in the leather
+is 2.5 MPa. The coefficient of friction between the leather and pulley is 0.3. Assume open
+
+belt drive and neglect the sag and slip of the belt. (8)
+
+6. (a) Derive an expression for the inertia force due to reciprocating mass in reciprocating
+engine, neglectingthe mass of the connecting rod. (6)
+
+(b) The turning moment diagram for a petrol engine is drawn to the following scales: Turning
+moment, 1 mm =5 N-m; crank angle, 1 mm = 1°. The turning moment diagram repeats itself
+
+at every half revolution of the engine and the areas above and below the mean turning
+
+ty
+--- page 4 ---
+moment line taken in order are 295, 685, 40, 340, 960, 270 mm? . The rotating parts are
+
+equivalent to a mass of 36 kg at a radius of gyration of 150 mm. Determine the coefficient of
+
+fluctuation of speed when the engine runs at 1800 r.p.m. (@)
+Q.7 Answer, all.the questions
+(a) ey and. explain Oscillating cylinder engine. (4)
+(b) What is pantograph? Sketch and explain its working. (4)
+(c) Explain the phenomena of centrifugal tension and initial tension in a belt drive. (4)
+(d) Coriolis component of acceleration. (2)
+
+* =
+
+Ay
+````
+
 ## 2016-17 · Final-Exam · Sem 3 · paper e060b6451fdb
 
 - Departments: Mechatronics
@@ -2374,264 +3030,6 @@ Ne
 re ne
 
 Ae,
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 5627662c3ccb
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINE-I (BATCH 16-17) RE-EXAM(1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-- Programme: B.Tech (MECHANICAL) Year: II Semester: II
-
-Batch: 2016-17 -
-Academic Year: 2017-2018
-
-Subject: Theory of Machines-I
-Marks: 70 ;,,\\0 a
-Date: 30 November 2017 Time: 10.00-am to 1.00
-Durations: 3 (hrs) si
-No. of Pages: Ze ABW
-yr!
-C
-
-NS ® eae
-NS ar
-
-al ?
-
-sys XG &
-Re-Examination : hp
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-
-- cover of the answer Book, which is provided for their use.
-NB:
-
-1. Question No.1 is compulsory. Out of remaining questions, attempt any four questions.
-2. All questions carry equal marks.
-
-3. Answer to each new question to be started on fresh page.
-
-4. Figures in brackets on the right hand side indicate full marks.
-
-5. Assume suitable data whenever necessary.
-
-Qt Attempt any one from c toe.
-a) What is a machine? Giving example, differentiate between a machine and a structure. 5
-b) Sketch and explain any two inversions of a double slider crank chain. 5
-
-c) Determine thedegrees of freedom of the mechanism shown in Fig. using Kutzbach 4
-mobility criterion and classify them.
-
-3 4
-2 6
-sag 1 r
-d) Describe creep of belt. | 4
-e) Explain rubbing velocity in pin joint. 4
-
-Q.2a) What is the condition for correct steering? Sketch and show the two main types of 7
-steering gears and discuss their relative advantages.
-
-b) What do you mean by inversion? Explain with neat sketches of any two inversion of 7
-four bar chain mechanism.
-
-Q.3 In the toggle: mechanism shown in Figure, the slider D is constrained to move ona 14
-
-horizontal path. The crank OA is rotating in the counter-clockwise direction at a speed
-of 180 r.p.m increasing at the rate of 50 rad/s2. The dimensions of the various links are
-
-{Ig
---- page 2 ---
-as follows: OA = 180 mm; CB = 240 mm ; AB = 360 mm ; and BD = 540 mm. For the
-given configuration,
-find1. Velocity of slider D and angular velocity of BD, and
-
-2. Acceleration of slider D and angular acceleration of BD.
-
-po
-
-“Q4a) The crank and connecting rod of a steam engine are 0.3 m and 1.5 m in length. The
-crank rotates at 180 r.p.m. clockwise. Determine the velocity and acceleration of the
-piston when the crank is at 40 degrees from the inner dead centre position. Also
-determine the position of the crank for zero acceleration of the piston.
-
-b) Locate all the instantaneous centers for a four bar mechanism as shown in Figure. The
-lengths of various links are: AD = 125 mm; AB = 62.5 mm; BC = CD = 75 mm. If the
-link AB rotates at a uniform speed of 10 r.p.m. in the clockwise direction, find the
-angular velocity of the links BC and CD.
-
-4 Cc
-
-60" ,
-
-Q.5a) A shaft rotating at 200 r.p.m. drives another shaft at 300 r.p.m. and transmits6 kW
-through a belt. The belt is 100 mm wide and 10 mm thick. The distance between the
-shafts is 4m.The smailer pulley is 0.5 m in diameter. Calculate the stress in the belt, if it
-is 1. An open belt driveand 2. A cross belt drive. Take p = 0.3.
-
-b) The turning moment diagram for 4 multicylinder engine has been drawn toa scale 1 mm
-= 600 N-m vertically and 1 mm = 3° horizontally. The intercepted areas between
-theoutput torque curve and the mean resistance line, taken in order from one end, are as
-follows: + 52, — 124, + 92, — 140, + 85, — 72 and + 107 mm’, when the engine is
-running at a speed of 600 r.p.m. If the total fluctuation of speed is not to exceed + 1.5%
-of the mean, find the necessary mass of the flywheel of radius 0.5 m.
-
-Q.6a) Derive an expression for the length of a chain.
-
-b) Derive the condition for transmitting the maximum power in a flat belt drive.
-
-Q.7 Attempt the following
-a Derive the equation for centrifugal tension in a belt.
-b Explain coriolies components of acceleration.
-
-c Explain paucellier straight line generation mechanism. oR
-d Explain withworth quick return chain mechanism.
-
-2/2
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper a4483e5c76dc
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINE-I (BATCH 16-17) RE-EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 02 December 2017
-- Text: ocr (3 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-——
-Programme: B.Tech (MECHATRONICS) < Year: II - Semester: III-
-} Batch: 2016-17 ~ sO -
-| Academic Year: 2017-2018 “
-ef
-Subject: Theory of Machines-I ¢ a ARS
-Marks: 70 <« ,;’* a
-Date: 02 December 2017 ” Time: 10.00 am to 1.00 pay, ‘iG
-
-Durations: 3 (hrs) ,
-No. of Pages:\, =
-Re-Examination Sa sewer —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper chant on the cover
-of the Answer Book, which is provided for their use.
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions attempt any four questions.
-
-3. Inall five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume suitable data if necessary.
-
-Q.1) ATTEMPT ANY FOUR QUESTION. (14)
-a) Explain Paucellier’s Mechanism with neat sketch.
-b) Explain type of kinematic pair.
-c) Explain Scotch Yoke Mechanism.
-d) What is the function of Flywheel and explain maximum Fluctuation of Energy .
-e) What is the Condition for carrect steering Mechanism?
-f) What is the Maximum power transmission condition by Flat Belt drive?
-Q.2) a) The length of crank and connecting rod of a horizontal reciprocating engine are (8)
-
-100mm & 500mm respectively. The crank is rotating at 400rpm. When the crank has
-turned 30° from Inner Dead Centre. Find analytically i) Acceleration of Piston ii)
-Velocity of Piston iii) Velocity of connecting rod iv) Angular Acceleration of
-Connecting rod.
-
-b) Derive Equation for length of Open Belt Drive. (6)
-
-1/3
---- page 2 ---
-Q.3 ) a) The mechanism of a wrapping machine, as shown in Fig., has the following
-dimensions :
-O1A = 100 mm; AC = 700 mm; BC = 200 mm; O3C = 200 mm; O2E = 400
-mm; O2D = 200 mm and BD = 150 mm. The crank O1A rotates at angular velocity of
-100 rad/s. Find the velocity of the point E of the bell crank lever by instantaneous
-centre method.
-
-b) Explain types of Kinematic Link with example. (4)
-
-Q.4) a) The crank and connecting rod of a theoretical steam engine are 0.5 m and 2 m long (10)
-respectively. The crank makes 180 r.p.m. in the clockwise direction. When it has
-turned 45° from the inner dead centre position, determine : 1. velocity of piston, 2.
-angular velocity of connecting rod, 3. velocity of point E on the connecting
-rod 1.5 m from the gudgeon pin, by using Relative Velocity Method.
-
-XN
->
-\
-
-\
-
-P \
-
-WPTEITTISELTTS \
-
-ele ae ee ome
-LULL 1,D.C. 0 0 D C
-b) Explain Crank and Slotted lever quick return motion Mechanism with it’s (4)
-application.
-
-Q.5) a) In a vertical double acting steam engine, the connecting rod is 4.5 times the crank. (10)
-
-The weight of reciprocating parts is 120Kg and stroke of piston is 440mm. The
-engine runs at 250 rpm. If the net load on piston due to steam pressure is 25 KN.
-When the crank has turned through an angle 120° fron Top Dead Centre. Determine
-the
-
-i) Thrust in connecting rod
-
-ii) Pressure on slide bars
-
-iii) Tangential force on crank pin
-
-iv) Thurst on bearings
-
-v) Turning moment on crankshaft
-
-b) Explain an Elliptical Trammel with neat sketch. (4)
-
-23
---- page 3 ---
-Q.6) a) A belt drive consist of V-belt, on grooved pulleys of the same size. The angle of (8)
-groove is 30°. The cross sectional area of each belt is 750mm? and coefficient of
-friction is 0.12. The density of belt material is 1200 Kg/m? and maximum safe stress
-in material is 7MPa. Calculate the power that can be transmitted between pulleys 300
-
-mm diameter rotating at 1500 rpm. ( Take angle of lap=180°)
-
-b) In an open belt drive, the’ diameters of the larger and smaller pulleys are 1.2m and (6)
-0.8m respectively. The smaller pulley rotates at 320 rpm. The centre distance
-between shafts is 4m. When stationary, the initial tension in the belt is 2.8 KN. The
-mass of belt is 1.8Kg/m and coefficient of friction between belt and pulley is 0.25.
-Determine the power transmitted. ;
-
-Q.7) — Write short note on
-
-a) What is centrifugal tension in belt?
-
-b) Explain Hart’s Mechanism.
-
-c) Derive equation for Ratio of Tension for Flat belt drive.
-d) Rubbing Velocity at pin joint.
-
-(4)
-
-Sls
 ````
 
 ## 2015-16 · Final-Exam · Sem 3 · paper d5b1bcd7ad43
@@ -3119,6 +3517,115 @@ is 0.25. Calculate also the length required of each belt.
 6
 ````
 
+## 2015-16 · Re-Exam · Sem 3 · paper 52d652d1b077
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINES I B TECH (MECHATRONICS), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 04/12/2015
+- Text: ocr (2 pages), mean OCR confidence 90.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Mechatronics) Year: II Semester: III
+Batch: 2014-2015
+
+Academic Year: 2015-2016
+
+| Subject: Theory of Machines-I
+; Marks:
+Date: 04/12/2015 Time:
+
+Duration:
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. lis compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+a 3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Ql) Attempt any four of the following .
+a)Explain Paucelliers straight line generating mechanism. C3]
+
+__ 6) Write short notes on Pantograph. C3
+c) Write short notes on Whitworth quick return mechanism. (37
+d) Write short notes on open belt drive : [3]
+e) Write short notes on cross belt drive ; £4)
+f) What do you mean by initial tension in a belt drive? C3]
+
+Q2) a) Calculate the torque required (assuming no friction in the bearing) for static equilibrium of an in-
+line reciprocating engine in the position when crank angle 0 = 45 deg (from inner dead center). The
+
+dimensions are crank length r =30 mm, connecting rod length L = 70mm, and the piston force is P= 40 N
+a A
+
+) e P
+So, §
+| C6]
+b) What do you mean by inversion? Explain with neat sketches of any two inversion of double slider
+| crank. ; ce]
+Q3) a) Two parallel shafts connected by a crossed belt are provided with pulleys 480mm and 680 mm in
+j diameters .the lines of the shaft is 3m.find by how much the length of the belt should be changed if it is
+pew desired to alter the direction of rotation of the driven shaft. C£é]
+b) Derive the condition for maximum power transfer by a belt. [4]
+c) Explain why relative velocity of one end of a rigid link with respect to the other end is always
+perpendicular to the line joining the end points. C2)
+
+Lo
+--- page 2 ---
+Q4)a) Two parallel shafts that’are 3.5mm apart are connected by two pulleys of 1 m and 400mm diameter
+the larger pulley being the driver runs at 220rpm.the belt weighs 1.2 kg per meter length. The maximum
+tension in the belt is not to.exceed 1.8kN.The coefficient of friction is 0.28.Owing to slip on one of the
+pulley, the velocity of the‘driven shaft is 520 rpm only. Determine the following
+I. Torque on each shaft ,power transmitted,
+
+Il. power lost in friction, :
+
+Ill. Efficiency of the drive. (6x:
+b) Discuss some advantages and disadvantages of chain. 6)
+
+Q5) a) sketch a pantograph, explain its working and show that it can be used to reproduce an enlarged
+
+scale of a given figure. C#I
+b) What is a flywheel? Write a short note on application of flywheel. £5)
+
+Q6) An engine crankshaft drives a reciprocating pump through a mechanism as show in figure below. The
+crank rotates in the clockwise direction at 160 rpm.The diameter of the pump at F is 200 mm. Dimensions
+of the various links are OA=170mm (crank), CD=170mm, AB=660mm,BC=510mm,DE=830mm.
+
+For the position of the crank shown in the diagram, determine the following:
+
+I. velocity of the crosshead E
+Il. Velocity of the rubbing at the pins A,B,C & D, the diameters being 40,30,30 and 50mm
+
+respectively
+» Ill Torque required at the shaft to overcome a pressure of 300kN/m2 at the pump piston at F,
+
+45°
+A |
+
+=)
+te
+
+660 4804
+
+Ci2J
+
+el
+Q7) a) Explain coefficient of speed-fluctuation Derive expression for energy stored in a flywheel. C64
+a b) What is coriolis component of acceleration? Cay
+_c) Explain Watts mechanism. t4y
+````
+
 ## 2015-16 · Re-Exam · Sem 4 · paper 9f7fa547d822
 
 - Departments: Mechanical
@@ -3126,6 +3633,7 @@ is 0.25. Calculate also the length required of each belt.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Theory of Machines I/Theory of MAchines I Batch 2014-15 ,2015-16 Re Exam.pdf`
 - Printed on paper: exam date: 02 July 2016
 - Text: ocr (3 pages), mean OCR confidence 93.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \-
@@ -3172,7 +3680,6 @@ Q.2.a. Draw the neat sketch diagram and explain the ‘Crank and slotted (04)
 lever Quick return motion mechanism’.
 
 b. A mechanism, as shown in Fig. 1, has the following dimensions: (08)
-OA = 200 mm; AB = 1.5 m; BC = 600 mm; CD = 500 mm and BE
 = 400 mm. If crank OA rotates uniformly at 120 r.p.m. clockwise,
 find 1. The velocity of B, C and D by instantaneous centre method.
 Also find angular velocity of the link AB.
@@ -3268,6 +3775,7 @@ instantaneous centers.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINE-I B TECH (MECH), 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03/12/2014
 - Text: ocr (3 pages), mean OCR confidence 91.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS .
@@ -3275,7 +3783,6 @@ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
 ; Programme:B. Tech (MECH) Year: II Semester: III
 ft A i i ~
-j | cademic Year: 2014-2015 yg ase oF Akay
 Subject : Theory of Machine — I Lf i (PSTMBEB Ne
 Marks: 100 LIBR
 Date : 03/12/2014 Time : 10.00 am Bed om _ “Vie
@@ -3319,7 +3826,6 @@ b) In a link work, as shown in Fig. 2, the crank AB rotates about A at a uniform
 r.p.m. The lever DC oscillates about the fixed point D, being connected to AB by the connecting
 link BC. The block F moves, in horizontal guides being driven by the link EF, when the crank
 AB is at 30°. The dimensions of the various links are : AB = 150 mm ; BC = 450 mm ; CE= 300
-mm ; DE = 150 mm; and EF = 350 mm.
 
 Find, for the given configuration,
 
@@ -3568,6 +4074,7 @@ Q.7 (a) Describe Hart’s Mechanism with the help of neat sketch. (G marks)
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINE I B TECH (MECH), BATCH 14-15 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 11/06/2015
 - Text: ocr (3 pages), mean OCR confidence 86.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3649,7 +4156,6 @@ Q.4. Fig. 2 shows the mechanism of a radial valve gear. The crank OA turns unifo
 p.m and is pinned at A to rod AB. The point C in the rod is guided in the circular path with D as
 centre and DC as radius. The dimensions of various links are:
 
-OA = 150 mm ; AB = 550 mm ; AC = 450 mm ; DC = 500 mm ; BE = 350 mm.
 Determine velocity and acceleration of the ram E for the given position of the mechanism
 
 12
@@ -3812,113 +4318,148 @@ Qy
 2.
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper 52d652d1b077
+## 2014-15 · Re-Exam · Sem 3 · paper 412131d29f74
 
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINES I B TECH (MECHATRONICS), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 04/12/2015
-- Text: ocr (2 pages), mean OCR confidence 90.1
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINES I/THEORY OF MACHINES I BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 05/12/2014
+- Text: ocr (3 pages), mean OCR confidence 90.6
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Mechatronics) Year: II Semester: III
-Batch: 2014-2015
+Programme: MBA Tech (MECH) , Year: II Semester: III
 
-Academic Year: 2015-2016
+Academic Year: 2014-15 Batch: 2013-14
 
-| Subject: Theory of Machines-I
-; Marks:
-Date: 04/12/2015 Time:
+“Ate OF Mags
 
-Duration:
+Subject : Theory of Machines - I Vins eR Atay >
+Marks: 100 4 PSTMB ‘Ye
 
-Re-Examination
+Date : 05/12/2014 Time : 2. 00, aa 9) P0Apox )
+Durations: ‘ “is
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Re - Examination ef ee oy
+v
 
 NB:
-1) Question No. lis compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-a 3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
 
-Ql) Attempt any four of the following .
-a)Explain Paucelliers straight line generating mechanism. C3]
+1. Question No.Q1. is compulsory.
 
-__ 6) Write short notes on Pantograph. C3
-c) Write short notes on Whitworth quick return mechanism. (37
-d) Write short notes on open belt drive : [3]
-e) Write short notes on cross belt drive ; £4)
-f) What do you mean by initial tension in a belt drive? C3]
+2. Out of remaining questions, attempt ANY FOUR questions
 
-Q2) a) Calculate the torque required (assuming no friction in the bearing) for static equilibrium of an in-
-line reciprocating engine in the position when crank angle 0 = 45 deg (from inner dead center). The
+3. In all FIVE - 05 questions to be attempted
 
-dimensions are crank length r =30 mm, connecting rod length L = 70mm, and the piston force is P= 40 N
-a A
+4. All questions carry equal marks.
 
-) e P
-So, §
-| C6]
-b) What do you mean by inversion? Explain with neat sketches of any two inversion of double slider
-| crank. ; ce]
-Q3) a) Two parallel shafts connected by a crossed belt are provided with pulleys 480mm and 680 mm in
-j diameters .the lines of the shaft is 3m.find by how much the length of the belt should be changed if it is
-pew desired to alter the direction of rotation of the driven shaft. C£é]
-b) Derive the condition for maximum power transfer by a belt. [4]
-c) Explain why relative velocity of one end of a rigid link with respect to the other end is always
-perpendicular to the line joining the end points. C2)
+5. Answer to each new question to be started on a fresh page.
 
-Lo
+6. Figures. In brackets on the right hand side indicate full marks.
+
+7. Draw a neat a labelled sketches wherever applicable using only PENCIL
+8. Assume suitable data if necessary and mention the same clearly
+
+Q1. Solve any four questions. . [5x4]
+
+1. Explain the importance of Oldham’s coupling in power transmission?
+
+2. What do you understand by Body centrode and Space centrode for a rigid link in motion?
+3. Explain Scotch Yoke mechanism?
+
+4. Define slip in belt drive system? Explain the phenomena of ‘slip’ and ‘creep’ in a belt drive.
+5. Discuss the turning moment diagram of a Single cylinder Internal Combustion engine?
+
+6. Explain Arnold Kennedy (or Three Centres in Line) Theorem?
+
+Q2. Attempt following questions
+
+1. Giving examples Classify the Kinematic Pairs [06]
+
+2. Inthe mechanism, as shown in Fig. (a), the crank OA rotates at 20 r.p.m. anticlockwise and gives
+motion to the sliding blocks B and D. The dimensions of the various links are OA = 300 mm; AB =
+1200 mm; BC = 450 mm and CD = 450 mm. For the given configuration, determine: 1. velocities of
+sliding at B and D, 2. Angular velocity of CD, 3. linear acceleration of D, and 4. angular acceleration of
+CD. [14]
+
++ 1050 mm
+Figure (a)
+
+Y3
 --- page 2 ---
-Q4)a) Two parallel shafts that’are 3.5mm apart are connected by two pulleys of 1 m and 400mm diameter
-the larger pulley being the driver runs at 220rpm.the belt weighs 1.2 kg per meter length. The maximum
-tension in the belt is not to.exceed 1.8kN.The coefficient of friction is 0.28.Owing to slip on one of the
-pulley, the velocity of the‘driven shaft is 520 rpm only. Determine the following
-I. Torque on each shaft ,power transmitted,
+Q3. Attempt following questions
 
-Il. power lost in friction, :
+1. Explain how the acceleration of a point on a link (whose direction is known) is obtained when the
 
-Ill. Efficiency of the drive. (6x:
-b) Discuss some advantages and disadvantages of chain. 6)
+acceleration of some other point on the same link is given in magnitude and direction. [06]
+2. Fig b - (a) and (b) below indicates a mechanism apply Kutzbach Criterion and identify no of degrees of
+freedom
+[07]
+3 Wheel 3 2
+2 4
+1 1
+Figure (b)
+{b) {3}
 
-Q5) a) sketch a pantograph, explain its working and show that it can be used to reproduce an enlarged
+3. Derive an expression for the magnitude and direction of coriolis component of acceleration. [07]
+Q4. Attempt following questions
 
-scale of a given figure. C#I
-b) What is a flywheel? Write a short note on application of flywheel. £5)
+1. Discuss the importance of flywheel in an Internal Combustion Engine? [06]
 
-Q6) An engine crankshaft drives a reciprocating pump through a mechanism as show in figure below. The
-crank rotates in the clockwise direction at 160 rpm.The diameter of the pump at F is 200 mm. Dimensions
-of the various links are OA=170mm (crank), CD=170mm, AB=660mm,BC=510mm,DE=830mm.
+2. What is Pantograph explain? State its application? [06]
 
-For the position of the crank shown in the diagram, determine the following:
+3. Derive an expression for Condition for Equal Speeds of the Driving and Driven Shafts for Hooks Joint?
+[08]
 
-I. velocity of the crosshead E
-Il. Velocity of the rubbing at the pins A,B,C & D, the diameters being 40,30,30 and 50mm
+Q5. Attempt following questions
 
-respectively
-» Ill Torque required at the shaft to overcome a pressure of 300kN/m2 at the pump piston at F,
+1. Explain Hart’s Mechanism in detail? [06]
 
-45°
-A |
+2. Amechanism, as shown in Fig. (c), has the following dimensions: OA = 200 mm; AB = 1.5 m; BC = 600
+mm, CD = 500 mm and BE = 400 mm. Locate all the instantaneous centres. If crank OA rotates uniformly
+at 120 r.p.m. clockwise, find 1. The velocity of B, C and D, 2. The angular velocity of the links AB, BC and
 
-=)
-te
+CD. [14]
+D filth
+A L.
+oO nt
+ee a —
+{___ 135m
+Figure (c)
+Q6. Attempt following questions
+1. Derive the equation for correct steering condition for Davis Steering gear? [06]
 
-660 4804
+2 Fig. (d) shows the mechanism the angular velocity of the crank OA is 600 r.p.m. Determine the linear
+pia velocity of the slider D and the angular velocity of the link BD, when the crank is inclined at an angle of
+75° to the vertical. The dimensions of various links are: OA = 28 mm; AB = 44 mm; BC 49 mm; and
 
-Ci2J
+2/3
+--- page 3 ---
+BD = 46 mm. The centre distance between the centres of rotation O and C is 65 mm. The path of
+travel of the slider is 11 mm below the fixed point C. The slider moves along a horizontal path and OC
+is vertical. , [14]
 
-el
-Q7) a) Explain coefficient of speed-fluctuation Derive expression for energy stored in a flywheel. C64
-a b) What is coriolis component of acceleration? Cay
-_c) Explain Watts mechanism. t4y
+(77 cali it He
+. -
+
+RATT
+Figure (d)
+
+Q7. Attempt the following questions
+
+1. Fig (e) shows the turning moment diagram for a petrol engine is drawn to the following scales: Turning
+moment, 1 mm = 5 N-m; crank angle, 1 mm = 1°. The turning moment diagram repeats itself at every
+half revolution of the engine and the areas above and below the mean turning moment line taken in
+order are 295, 685, 40, 340, 960, 270 mm”. The rotating parts are equivalent to a mass of 36 kg ata
+radius of gyration of 150 mm. Determine the coefficient of fluctuation of speed when the engine runs at
+1800 r.p.m. [12]
+
+—— Crank angle —>
+Figure {e)
+2. Derive an expression for Condition for the Transmission of Maximum Power in the belt drive
+[08]
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 1b9e8320d233
@@ -4305,6 +4846,7 @@ marks]
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINE-I B TECH MECHANICAL BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12/06/2014
 - Text: ocr (3 pages), mean OCR confidence 89.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4374,7 +4916,6 @@ re
 
 b),The mechanism, as shown in Fig. 2, has the dimensions of various links as follows:
 
-AB = DE = 150 mm; BC = CD = 450 mm; EF = 375 mm.
 
 The.crank AB makes an angle of 45° with the horizontal and rotates about ‘A’ in the clockwise direction
 at a uniform speed of 120 r.p.m. The lever DC oscillates about the fixed point D, which is connected to
@@ -4403,7 +4944,6 @@ Q. 4. Find out the Velocity and acceleration of the slider D and the angular acc
 
 engine mechanism shown in Fig 3.
 The crank OA rotates uniformly at 180 r.p.m. in clockwise direction. The various lengths are:
-OA = 150 mm; AB = 450 mm; PB = 240 mm; BC = 210 mm; CD = 660 mm (20)
 
 23
 --- page 3 ---
@@ -4602,150 +5142,6 @@ rant
 Figure (d)
 
 KKKKKKKKERK
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 412131d29f74
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINES I/THEORY OF MACHINES I BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 05/12/2014
-- Text: ocr (3 pages), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (MECH) , Year: II Semester: III
-
-Academic Year: 2014-15 Batch: 2013-14
-
-“Ate OF Mags
-
-Subject : Theory of Machines - I Vins eR Atay >
-Marks: 100 4 PSTMB ‘Ye
-
-Date : 05/12/2014 Time : 2. 00, aa 9) P0Apox )
-Durations: ‘ “is
-
-Re - Examination ef ee oy
-v
-
-NB:
-
-1. Question No.Q1. is compulsory.
-
-2. Out of remaining questions, attempt ANY FOUR questions
-
-3. In all FIVE - 05 questions to be attempted
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures. In brackets on the right hand side indicate full marks.
-
-7. Draw a neat a labelled sketches wherever applicable using only PENCIL
-8. Assume suitable data if necessary and mention the same clearly
-
-Q1. Solve any four questions. . [5x4]
-
-1. Explain the importance of Oldham’s coupling in power transmission?
-
-2. What do you understand by Body centrode and Space centrode for a rigid link in motion?
-3. Explain Scotch Yoke mechanism?
-
-4. Define slip in belt drive system? Explain the phenomena of ‘slip’ and ‘creep’ in a belt drive.
-5. Discuss the turning moment diagram of a Single cylinder Internal Combustion engine?
-
-6. Explain Arnold Kennedy (or Three Centres in Line) Theorem?
-
-Q2. Attempt following questions
-
-1. Giving examples Classify the Kinematic Pairs [06]
-
-2. Inthe mechanism, as shown in Fig. (a), the crank OA rotates at 20 r.p.m. anticlockwise and gives
-motion to the sliding blocks B and D. The dimensions of the various links are OA = 300 mm; AB =
-1200 mm; BC = 450 mm and CD = 450 mm. For the given configuration, determine: 1. velocities of
-sliding at B and D, 2. Angular velocity of CD, 3. linear acceleration of D, and 4. angular acceleration of
-CD. [14]
-
-+ 1050 mm
-Figure (a)
-
-Y3
---- page 2 ---
-Q3. Attempt following questions
-
-1. Explain how the acceleration of a point on a link (whose direction is known) is obtained when the
-
-acceleration of some other point on the same link is given in magnitude and direction. [06]
-2. Fig b - (a) and (b) below indicates a mechanism apply Kutzbach Criterion and identify no of degrees of
-freedom
-[07]
-3 Wheel 3 2
-2 4
-1 1
-Figure (b)
-{b) {3}
-
-3. Derive an expression for the magnitude and direction of coriolis component of acceleration. [07]
-Q4. Attempt following questions
-
-1. Discuss the importance of flywheel in an Internal Combustion Engine? [06]
-
-2. What is Pantograph explain? State its application? [06]
-
-3. Derive an expression for Condition for Equal Speeds of the Driving and Driven Shafts for Hooks Joint?
-[08]
-
-Q5. Attempt following questions
-
-1. Explain Hart’s Mechanism in detail? [06]
-
-2. Amechanism, as shown in Fig. (c), has the following dimensions: OA = 200 mm; AB = 1.5 m; BC = 600
-mm, CD = 500 mm and BE = 400 mm. Locate all the instantaneous centres. If crank OA rotates uniformly
-at 120 r.p.m. clockwise, find 1. The velocity of B, C and D, 2. The angular velocity of the links AB, BC and
-
-CD. [14]
-D filth
-A L.
-oO nt
-ee a —
-{___ 135m
-Figure (c)
-Q6. Attempt following questions
-1. Derive the equation for correct steering condition for Davis Steering gear? [06]
-
-2 Fig. (d) shows the mechanism the angular velocity of the crank OA is 600 r.p.m. Determine the linear
-pia velocity of the slider D and the angular velocity of the link BD, when the crank is inclined at an angle of
-75° to the vertical. The dimensions of various links are: OA = 28 mm; AB = 44 mm; BC 49 mm; and
-
-2/3
---- page 3 ---
-BD = 46 mm. The centre distance between the centres of rotation O and C is 65 mm. The path of
-travel of the slider is 11 mm below the fixed point C. The slider moves along a horizontal path and OC
-is vertical. , [14]
-
-(77 cali it He
-. -
-
-RATT
-Figure (d)
-
-Q7. Attempt the following questions
-
-1. Fig (e) shows the turning moment diagram for a petrol engine is drawn to the following scales: Turning
-moment, 1 mm = 5 N-m; crank angle, 1 mm = 1°. The turning moment diagram repeats itself at every
-half revolution of the engine and the areas above and below the mean turning moment line taken in
-order are 295, 685, 40, 340, 960, 270 mm”. The rotating parts are equivalent to a mass of 36 kg ata
-radius of gyration of 150 mm. Determine the coefficient of fluctuation of speed when the engine runs at
-1800 r.p.m. [12]
-
-—— Crank angle —>
-Figure {e)
-2. Derive an expression for Condition for the Transmission of Maximum Power in the belt drive
-[08]
 ````
 
 ## 2012-13 · Exam not stated · Trim 5 · paper 0e3888175f06
@@ -5264,403 +5660,4 @@ and prove that the links are in the proportions of 1:2: 2.5.
 (e) Kinematic Chain (Explain with the help of examples)
 
 3) 2
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper e53615ba289d
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINES I (MECHANICAL), FINAL EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 30 November 2017
-- Text: ocr (3 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHANICAL) L Year: II - Semester: III _
-
-| Academic Year: 2017-2018 |
-
-Subject: Theory of Machines -I ~
-
-Marks: 70 -
-Time: 10.00 am, to 06pm
-Durations: 3° /Ussy
-
-ie
-
-No. of Page§:
-Final-Examination . BL :
-
-Date: 30 November 2017 ~
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-In question 1 (a to f) Attempt any two from a to c and any two from d to f
-
-Q.1 (a) What do you understand by the term degree of freedom? For a planar mechanism, derive
-
-the expression for Gruebler’s criterion. (3)
-(b) Differentiate between machine and structure. (3)
-(c) Discuss the effect of slip of belt on the velocity ratio of belt drive - (3)
-
-(d) What do you understand by the, instantaneous center of rotation in kinematic of
-
-Machines? Discuss the three types of instantaneous centers for a mechanism. (4)
-(e) What is pantograph? Sketch a pantograph, explain it’s working. (4)
-(f) Derive an expression for the velocity of the piston for reciprocating engine. (4)
-— Q.2 (a) What is inversions of a mechanism? Draw and describe Elliptical trammel and
-Scotch yoke mechanism. (7)
-ge (b) In a crank and slotted lever quick return mechanism, the driving crank length is 75 mm. The
-
-distance between the fixed centers is 200 mm and the length of the slotted lever is 500 mm. Find
-
-Page 1 of 3
---- page 2 ---
-the ratio of the times taken on the cutting and idle strokes. Determine the effective stroke also.
-
-(4)
-(c) For the kinematics linkage shown in Fig.1 calculate the number of kinematic pairs and degree
-of freedom. © (3)
-
-Figure 1
-
-Q.3 (a) What is the condition for correct steering? Sketch and show the two main types of
-steering gears and discuss their relative advantages. (8)
-(b)Determine the maximum permissible angle between the shaft axes of a universal joint if the
-driving shaft rotates at 800 rpm and the total fluctuation of speed does not exceed 60 rpm. Also
-find the maximum and minimum speed of the driven shafts. ; (6)
-
-Q.4 The mechanism of a wrapping machine, as shown in Fig. 2, has the following dimensions:
-O,A = 100 mm; AC = 700 mm; BC = 200 mm; O03 C = 200 mm; O2 E = 400 mm; O2 D = 200
-mm and BD = 150 mm. The crank O;A rotates at a uniform speed of 100 rad/s. Find the velocity
-
-of the point E of the bell crank lever by instantaneous centre method. (14)
-
-| Os) °
-~<— 300 mm —)-<«— 400 mm ——>}
-
-Figure 2
-
-Page 2 of 3
---- page 3 ---
-Q.5 Find out the velocity and acceleration of the slider D and, the angular velocity and angular
-acceleration of link CD for the engine mechanism shown in Fig. 3. The crank OA rotates
-uniformly at 180 rpm in clockwise direction. The various lengths are: OA = 150 mm; AB = 450
-mm; PB = 240 mm; BC = 210 mm CD = 660 mm. (14)
-
-Nara |
-IN}
-
-30° A
-Figure 3 (All dimensions are in mm)
-
-Q.6 (a) A shafi fitted with a flywheel rotates at 250 r.p.m. and drives a machine. The torque of
-machine varies in a cyclic manner over a period of 3 revolutions. The torque rises from 750 N-m
-to 3000 N-m uniformly during 1/2 revolution and remains constant for the following revolution.
-It then falls uniformly to 750 N-m during the next 1/2 revolution and remains constant for one
-
-revolution, the cycle being repeated thereafter. Determine the power required «> drive the
-machine and percentage fluctuation in speed, if the driving torque applied to the sha't is constant
-and the mass of the flywheel is 500 kg with radius of gyration of 600 mm. (10)
-(b) In a slider crank mechanism, the length of the crank and connecting rod are 150 mm and 600
-mm respectively. The crank position is 60° from inner dead centre. The ¢:.1\ shaft speed is 450
-rpm. (clockwise). Using analytical method, determine: 1. Velocity and acceleration of
-
-the slider, and 2. Angular velocity and angular acceleration of the connecting rod. (4)
-
-Q.7 (a) A leather belt is required to transmit 7.5 kW from a pulley 1.2 m in diameter, running at
-250 r.p.m. The angle embraced is 165° and the coefficient of friction between the belt and
-
-—s the pulley is 0.3. If the safe working stress for the leather belt is 1.5 MPa, density of leather 1
-Meg/m3 and thickness of belt 10 mm, determine the width of the belt taking centrifugal tension
-
-a] into account. (7)
-
-(b) Obtain an expression for the length of a belt in an open belt drive. (7)
-
-Page 3 of 3
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper c4e2670dd781
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/THEORY OF MACHINE I/THEORY OF MACHINES I B TECH (MECHA), FINAL EXAM.pdf`
-- Printed on paper: exam date: 30 November 2016
-- Text: ocr (4 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHANICAL) Year: II Semester: III \
-
-ye ~~ ae
-} i 7 z we. Se
-) Academic Year: 2016-2017 Z gee Sa
-
-MPSTME 6
-
-LIBRARY
-am to 1.00
-
-Subject : Theory of Machines-I
-
-Date : 30 November 2016 Time A
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-
-and on the cover of the answer Book, which is provided for their use.
-NB:
-
-1. Question No.1 is compulsory. Out of remaining questions, attempt any four questions.
-2. All questions carry equal marks.
-
-3. Answer to each new question to be started on fresh page.
-
-4. Figures in brackets on the right hand side indicate full marks.
-
-5. Assume suitable data whenever necessary.
-Attempt any two from a to c and any two from d tof
-
-Q.1 (a) What do you understand by the term degree of freedom? For a planar mechanism,
-derive the expression for Gruebler’s criterion. (3)
-(b) State and prove the ‘Aronhold Kennedy’s Theorem’ of three instantaneous centres. (3)
-
-(c)Explain the turning moment diagram of a four stroke cycle internal combustion engine.
-
-(3)
-(d) What do you understand by steering gear? Derive expression for the fundamental
-equation of correct steering. (4)
-(e) Derive the condition for transmitting the maximum power in a flat belt drive. (4)
-——— (f) What is the function of flywheel? Explain the term coefficient of fluctuation of energy and
-coefficient of fluctuation of speed. (4)
-cad Q.2 (a)What do you understand by inversion of a mechanism? Explain with sketches crank
-and slotted quick return mechanism and Scotch yoke mechanism (7)
-
-(b) Explain Hart’s mechanism with the help of neat sketch. Prove that it produces an exact
-
-straight line. (7).
---- page 2 ---
-Q.3 (a)In a pin jointed four bar mechanism, as shown in Fig. 1, AB = 300 mm, BC = CD =
-360 mm, and AD = 600 mm. The angle BAD = 60°. The crank AB rotates uniformly at 100
-
-r.p.m. Locate all the instantaneous centres and find the angular velocity of the link BC.
-
-mn
-gmt
-ra | ;
-
-é
-£ ‘
-& ‘
-
-& :
-° * 60° |
-
-A Sari amma DD
-|~«——— 600 mm ——>|
-
-Figure 1 (4)
-
-(b) A quick return mechanism of the crank and slotted lever type shaping machine is shown
-in Fig.2.The dimensions of the various links are as follows :0;02= 800 mm ; 0:B = 300 mm;
-OoD = 1300 mm; DR = 400 mm.The crank O1B makes an angle of 45° withthe vertical and
-rotates at 40 r.p.m. in the counter clockwise direction. Find:1. velocity of the ram R, or the
-
-velocity of the cutting tool, and 2. angular velocity of link O2D. (10)
-
-All dimensions in mm.
-
-Figure 2
-
-oh,
---- page 3 ---
-Q.4 Find out the acceleration of the slider D and the angular acceleration of link CD for the
-engine mechanism shown in Fig. 3. The crank OA rotates uniformly at 180 r.p.m. in
-
-clockwise direction. The various lengths are: OA =150 mm; AB = 450 mm;PB = 240 mm;
-
-BC =210 mm ; CD = 660 mm. (14)
-ats
-LEP
-i\
-1\
-je— 3OO—+j \
-I I |
-a! es \
-pi \
-~ | B \
-i ae
-420 1450 . Te
-
-|
-_ _ +0
-aN
-30° A
-All dimensions in mm
-
-Q.5 (a) Obtain an expression for the length of a belt in an open belt drive. (6)
-
-(b) Determine the width of a 9.75 mm thick leather belt required to transmit 15 kW from a
-motor running at 900 r.p.m. The diameter of the driving pulley of the motor is 300 mm.The
-driven pulley runs at 300 r.p.m. and the distance between the centre of two pulleys is 3
-metres.The density of the leather is 1000 kg/m?. The maximum allowable stress in the leather
-is 2.5 MPa. The coefficient of friction between the leather and pulley is 0.3. Assume open
-
-belt drive and neglect the sag and slip of the belt. (8)
-
-6. (a) Derive an expression for the inertia force due to reciprocating mass in reciprocating
-engine, neglectingthe mass of the connecting rod. (6)
-
-(b) The turning moment diagram for a petrol engine is drawn to the following scales: Turning
-moment, 1 mm =5 N-m; crank angle, 1 mm = 1°. The turning moment diagram repeats itself
-
-at every half revolution of the engine and the areas above and below the mean turning
-
-ty
---- page 4 ---
-moment line taken in order are 295, 685, 40, 340, 960, 270 mm? . The rotating parts are
-
-equivalent to a mass of 36 kg at a radius of gyration of 150 mm. Determine the coefficient of
-
-fluctuation of speed when the engine runs at 1800 r.p.m. (@)
-Q.7 Answer, all.the questions
-(a) ey and. explain Oscillating cylinder engine. (4)
-(b) What is pantograph? Sketch and explain its working. (4)
-(c) Explain the phenomena of centrifugal tension and initial tension in a belt drive. (4)
-(d) Coriolis component of acceleration. (2)
-
-* =
-
-Ay
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 0f49c4412693
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THEORY OF MACHINES-I/THEORY OF MACHINE I (MECHATRONICS), FINAL EXAM (2).pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 02 December 2017
-- Text: ocr (2 pages), mean OCR confidence 90.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-/ Programme: B. Tech (MECHATRONICS) Year: II Semester: III
-C “ \
-Academic Year: 2017-2018 \
-: ik bd 2
-Subject: Theory of Machines -I >» >
-
-Marks: 70 ay oN
-Date: 02 December 2017 - Time: 10. Come 8 f te a Od pe a
-
-Durations; 7
-No. of Page eS \. OZ Ze 46,
-
-May
-
-Final-Examination
-
--Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1) Attempt the following.
-a) What is the difference between Machine and Structure? (4M)
-OR
-b) What are the different types of Instantaneous centers? (4M)
-c) Explain different types of constrained motions. (5M)
-d) With neat sketch explain Bull engine. (5M)
-
-Q2a) What is Pantograph? Explain Peaucellier mechanism. (7M)
-Q2b) Derive the equation for the length of open flat belt drive. (7M)
-
-Q3a) Explain any one inversion of double slider crank chain. (5M)
-
-Q3b) Determine the width of 4 9.75 mm thick leather belt required to transmit 15 kW from a motor running at 900
-r.p.m. The diameter of the driving pulley of the motor is 300 mm. The driven pulley runs at 300_r.p.m. and the
-distance between the centre of two pulleys is 3 metres. The density of the leather is 1000 kg/m@. The maximum
-
-— allowable stress in the leather is 2.5 MPa. The coefficient of friction between the leather and pulley is 0.3. Assume
-open belt drive and neglect the sag and slip of the belt. (9M)
-Q4a) Define the terms ‘coefficient of fluctuation of energy’ and ‘coefficient of fluctuation of speed’, in the case of
-flywheels. (4M)
-2
-
-Frage ef] ehe2
---- page 2 ---
-Q4b) The turning moment diagram for a petrol engine is drawn to the following scales: Turning moment, 1 mm =5
-N-m ; crank angle, 1 mm = 1°. The turning moment diagram repeats itself at every half revolution of the engine and
-the areas above and below the mean turning moment line taken in order are 295, 685, 40, 340, 960, 270 mm. The
-rotating parts are equivalent to a mass of 36 kg at a radius of gyration of 150 mm. Determine the coefficient of
-fluctuation of speed when the engine runs at 1800 r.p.m. (10M)
-
-Q5) The mechanism, as shown in Figure below, has the dimensions of various links as follows: AB = DE = 150 mm;
-BC = CD = 450 mm; EF = 375 mm.
-
-The crank AB makes an angle of 45° with the horizontal and rotates about A in the clockwise direction at a uniform
-speed of 120 r.p.m. The lever DC oscillates about the fixed-point D, which is connected to AB by the coupler BC. The
-block F moves in the horizontal guides, being driven by the link EF. Determine: 1. velocity of the block F, 2. angular
-velocity of DC, and 3. rubbing speed at the pin C which is 50 mm in diameter. (14M)
-
-|<—— 375 mm —|
-D
-
-| POT ae
-| \ 100 mm
-\ Y
-
-} 375 mm \ eT os
-
-dered
-
-Ee F
-
-epee
-
-Aase YO
-at - bc
-
-Q6) PQRS is a four-bar chain with link PS fixed. The lengths of the links are PQ = 62.5 mm; QR = 175 mm; RS =
-112.5 mm; and PS = 200 mm. The crank PQ rotates at 10 rad/s clockwise. Draw the velocity and acceleration diagram
-when angle QPS = 60° and Q and R lie on the same side of PS. Find the angular velocity and angular acceleration of
-links QR and RS. (14M)
-
-Q7a) Differentiate between Davis and Ackerman’s steering gear mechanism. (6M)
-Q7b) Write notes on :- i) Oldham’s coupling, ii) Whitworth quick return motion mechanism. (8M)
-
-Page 02 02
 ````

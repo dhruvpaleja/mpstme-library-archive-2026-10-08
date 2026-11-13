@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/DATA SCIENCE/Sem_09/Applied Artificial Intelligence/Applied Artificial Intelligence 2025-26 Final Batch 2024-25 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 89.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -28,7 +29,6 @@ Subject: Applied Artificial Intelligence Time: 3 hrs (2:00 pm to 5:00 pm)
 Date: 26/25 No. of Pages: 04
 
 Marks: 100
-Final peel pation / Re-2olam 2e24-25
 
 _- Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
@@ -206,20 +206,6 @@ S aa requirements, algorithms, and typical applications.
 
 BL-4
 ````
-
-## 2025-26 · Final-Exam · Sem 6 · Dataset · paper e558914f10ca
-
-- Departments: Data Science
-- Programmes: BTech CSE DS 7057
-- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/Applied Artificial Intelligence/case_study_Applied Artificial Intelligence(702DB0C019)_Semester VI_2025-2026.xlsx`
-- Text: none (spreadsheet data set; no question text)
-
-## 2025-26 · Final-Exam · Sem 6 · Dataset · paper 890d8574a282
-
-- Departments: Data Science
-- Programmes: BTech CSE DS 7057
-- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/Applied Artificial Intelligence/data_set_Applied Artificial Intelligence(702DB0C019)_2025-2026.xlsx`
-- Text: none (spreadsheet data set; no question text)
 
 ## 2025-26 · Final-Exam · Sem 5 · paper 2951e938be5e
 
@@ -472,6 +458,20 @@ algorithm in detail and demonstrate its application using a simple example such 
 CNF.
 ********** 2 **********
 ````
+
+## 2025-26 · Final-Exam · Sem 6 · Dataset · paper e558914f10ca
+
+- Departments: Data Science
+- Programmes: BTech CSE DS 7057
+- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/Applied Artificial Intelligence/case_study_Applied Artificial Intelligence(702DB0C019)_Semester VI_2025-2026.xlsx`
+- Text: none (spreadsheet data set; no question text)
+
+## 2025-26 · Final-Exam · Sem 6 · Dataset · paper 890d8574a282
+
+- Departments: Data Science
+- Programmes: BTech CSE DS 7057
+- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/Applied Artificial Intelligence/data_set_Applied Artificial Intelligence(702DB0C019)_2025-2026.xlsx`
+- Text: none (spreadsheet data set; no question text)
 
 ## 2025-26 · Re-Exam · Sem 6 · paper 08e9c1b7edb5
 
@@ -963,6 +963,7 @@ BL- L6
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/APPLIED ARTIFICIAL INTELLIGENCE/Applied Artificial Intelligence, Sem-V, A Y 2023-24, Final Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 79.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -1038,7 +1039,6 @@ Short
 Coc Urolpse tu
 Giver
 H duets
-carpites Sunn Reinyy Cloud
 Obsereducbre
 atutes CoD   Gmtnena>
 CO-2; $0-1; Explain Hill climbing algorithm with the help of example. Also explain [10]

@@ -16,16 +16,16 @@ Also filed as: `THEORY OF MACHINES AND MECHANISM`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Theory of Machines and Mechanisms(701ME0C016)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Theory of Machines and Mechanisms 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | Integrated Mechanical 7031 | QP_Theory of Machines and Mechanisms(701ME0C016)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Theory of Machines and Mechanisms(701ME0C016)_2024-2025.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Theory of Machines and Mechanisms(701ME0C016)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / MECHANICAL | Theory of Machines and Mechanisms, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Theory of Machines and Mechanisms Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | Integrated Mechanical 7031 | QP_Theory of Machines and Mechanisms(701ME0C016)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Theory of Machines and Mechanisms(701ME0C016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Theory of Machines and Mechanisms(701ME0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Theory of Machines and Mechanisms Batch 2024-25 Re Exam0001.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | Integrated Mechanical 7031 | QP_Theory of Machines and Mechanisms(701ME0C016)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Theory of Machines and Mechanisms(701ME0C016)_2024-2025.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Theory of Machines and Mechanisms Batch 2023-24 Re Exam.pdf |
 | 2022 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Theory of Machines and Mechanisms Batch 2022 Final0001.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Theory of Machines and Mechanisms Batch 2022-23 Re Exam0001.pdf |

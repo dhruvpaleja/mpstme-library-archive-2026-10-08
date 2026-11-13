@@ -14,9 +14,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Fluid Power Automation(702MH0E020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | Fluid power Automation, Sem-VII, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Mechatronics 7004 | QP_Fluid Power Automation(702MH0E020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Fluid Power Automation(702MH0E020)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | Fluid Power Automation, Sem-VII, Final Exam 2024-25.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | Fluid Power Automation, Sem-VII, Fianl Exam, A Y 2023-24.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | Fluid Power Automation, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf |

@@ -1,6 +1,6 @@
 # Web Technology and Application: question papers in full
 
-4 unique papers · 2011-12 to 2011-12 · Information Technology
+4 unique papers · 2010-11 to 2011-12 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -227,7 +227,7 @@ With the explanation of all the MySQL commands
 h
 ````
 
-## Year not stated · Exam not stated · Trim 6 · paper 65d2ce3d234c
+## 2010-11 · Exam not stated · Trim 6 · paper 65d2ce3d234c
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T

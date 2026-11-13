@@ -1297,6 +1297,134 @@ eh phone_no). Derive a class Employee (eno, ename) from Person. Derive a
 and display all the information of the base classes into the manager class.
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 4 · paper cf947ec0c3fb
+
+- Departments: Cyber Security, Information Technology
+- Programmes: B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/OBJECT ORIENTED PROGRAMMING/Object Oriented Programming, Sem-IV, Final & Re Exam 2022-23.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 89.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+\T
+SVKM’S NMIMS |
+He: MPESTME Z,
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGEXEERING]
+di } AS
+
+SCHOOL OF TECHNOLOGY MANAGEME
+Academic Year: 2023-2024
+
+Program/s: B.Tech /MBA.Tech/B.Tech Cyber Security Year: II Semester: [V
+Stream/s :IT, CeSE-OS
+
+Subject: Object Oriented Programming . Time: 3 hrs (10:00 to 1:00 PM)
+Date:_30 / 04/2024 : No. of Pages:3
+
+Marks: 100.0,
+
+Final Examination/Re-Examination (2022 - 2093)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks. ,
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. °
+
+Qu Answer briefly: [20]
+
+a. Implement classes as shown in the Class diagram below. Write a test program to
+test the classes created.
+
+om
+CO-1;
+SO-1 ;
+BL-1
+CO-1; b. Implement a function that finds the number of occurrences of a specified character
+SO- 1; in the string. Write a test program that prompts the user to enter a string followed
+BL-1 by a character and displays the number of occurrences of the character in the string.
+--- page 2 ---
+Write a program to considered a class Shopping Portal which‘has total three
+methods with same name makePayment(). The business logic of this method is
+to perform the payment transactions. .
+
+Q2
+CO-2; SO- Payment can be done either of following modes. [20]
+1;
+BL-2 e Through Internet Bankirig.
+e Using UPI Support Application.
+e With Credit Card or Debit Card .
+Implement classes as shown in the Class diagram below. Create appropriate
+objects to demonstrate the usage of the classes created.
+StudentBody Student
+Q3 is] (ana) -firstName : String
++ main (args : String{]) -lastName : Sting
+CO-2; SO- “ schoolAddress : Address [20]
+1; BL-3 icine Ih
+Address
+= streetAddress : String
+~clty : String
+- state : String
+= zipCode : long
++ toString() : String .
+Write a program to implement three classes namely Student, Test and Result.
+Student class has member as rollno, Test class has members as sem1_marks and
+sem2_marks and Result class has member as total. Create an interface named
+sports that has a member score (). Derive Test class from Student and Result class
+has multiple inheritances from Test and Sports. Total is formula based on
+sem1_marks, sem2_mark and score.
+Q4
+CO-2,3;
+ae Stu
+$0-2: deat [20]
+BL-5
+Test Sports
+k a”
+—
+Result
+oP. Write a java code that creates validate( ) method which takes age( integer value
+SO-1 > as a parameter). If the age is less than 18, throw the Arithmetic Exception [20]
+otherwise print a message welcome to the System.
+BL-3
+Q6 Create a class ‘student’ having data members: name of the student, roll no of the
+CO-2; SO- student and division. Derive a class test from student having data members: [20]
+i marks of 3 subjects, total marks, average marks. Create a class result and check
+L BL-2 whether the student is passed or failed. Provide constructors, read () and display
+--- page 3 ---
+() methods in all classes. Create object of class result author and display all the
+details with status pass or fail. oe
+
+Write a Program to Implement a Library Management System.
+
+This system should consist of three classes: Book, Member, and Borrow.
+The Book class should have members such as bookld, title, and author.
+The Member class should have members like memberld, name, and email.
+
+Q7: Create an interface named LibraryServices that includes methods like
+
+SO-2- ° The Borrow class should inherit properties from both Book and Member classes
+
+BL- 5 and include additional members like borrowDate and returnDate.
+
+Implement LibraryServices in the Borrow class to check the availability of the
+book and calculate the fine based on the number of days a book has been
+borrowed.
+
+The fine calculation should consider factors like book demand and member type
+(e.g., student, faculty).
+````
+
 ## 2023-24 · Re-Exam · Sem 3 · paper 43b43f968d78
 
 - Departments: Computer Science and Business Systems
@@ -1445,112 +1573,109 @@ find the total marks obtained and another class derived from this class which
 calculates and displays the percentage of student.
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper cf947ec0c3fb
+## 2023-24 · Re-Exam · Sem 4 · paper b226aea1032a
 
 - Departments: Cyber Security, Information Technology
-- Programmes: B TECH / CSE-CYBER SECURITY, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/OBJECT ORIENTED PROGRAMMING/Object Oriented Programming, Sem-IV, Final & Re Exam 2022-23.pdf` (+1 identical copies)
+- Programmes: B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/OBJECT ORIENTED PROGRAMMING/Object Oriented Programming , Re-exam 2022-23.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 89.4
+- Text: ocr (3 pages), mean OCR confidence 86.7
 
 ````text
-\T
-SVKM’S NMIMS |
-He: MPESTME Z,
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGEXEERING]
-di } AS
+; if
 
-SCHOOL OF TECHNOLOGY MANAGEME
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
+SCHOOL OF TECHNOLOGY MANAGEMENT
 Academic Year: 2023-2024
 
-Program/s: B.Tech /MBA.Tech/B.Tech Cyber Security Year: II Semester: [V
-Stream/s :IT, CeSE-OS
+Program/s: B.Tech /MBA.Tech /B.Tech Cyber Security Year: Il Semester: IV
+Stream/s :IT, CSECS
 
-Subject: Object Oriented Programming . Time: 3 hrs (10:00 to 1:00 PM)
-Date:_30 / 04/2024 : No. of Pages:3
+Subject: Object Oriented Programming Time: 3 hrs (10:00 to 1:00 PM)
+Date: 5/° 7/2024 No. of Pages:3 Ane
 
-Marks: 100.0,
+Marks: 100 _—
 
-Final Examination/Re-Examination (2022 - 2093)
+_ Re-Examination (@g22-23yeat)
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
 1) Question No. _1___ is compulsory.
 
-2) Out of remaining questions, attempt any 4 __ questions.
+2) Out of remaining questions, attempt any __4__ questions.
 
-3) In all__5_ questions to be attempted.
+3) Inall___5_ questions to be attempted.
 
-4) All questions carry equal marks. ,
+4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. °
+7) Assume Suitable data if necessary.
 
-Qu Answer briefly: [20]
+Qi Answer briefly: [20]
 
 a. Implement classes as shown in the Class diagram below. Write a test program to
-test the classes created.
+test the classes created. '
 
-om
-CO-1;
-SO-1 ;
-BL-1
-CO-1; b. Implement a function that finds the number of occurrences of a specified character
-SO- 1; in the string. Write a test program that prompts the user to enter a string followed
-BL-1 by a character and displays the number of occurrences of the character in the string.
+‘Company
+-fame : Sling
+| tactName(): String
++setName(n ; String)
+
+m
+
+Department
+CO-1; -name : Sting
+SO-1 ; agetName() : String
+BL-1 +selName{n : String)
+
+manage
+
+|
+|
+1 1 | managediy
+__Employee
+shame : String
+title |.String =
+spetName): String
++setName{n : String)
++petTitied : String
+setTitle(n.: String)
 --- page 2 ---
-Write a program to considered a class Shopping Portal which‘has total three
-methods with same name makePayment(). The business logic of this method is
-to perform the payment transactions. .
+CO-1; b. Implement a function that finds the number of occurrences of a specified character
 
-Q2
-CO-2; SO- Payment can be done either of following modes. [20]
-1;
-BL-2 e Through Internet Bankirig.
-e Using UPI Support Application.
-e With Credit Card or Debit Card .
+SO- 1; in the string. Write a test program that prompts the user to enter a string followed
+
+BL-1 by a character and displays the number of occurrences of the character in the string.
+Create a class ‘student’ having data members: name of the student, roll no of the
+student and division. Derive a class test from student having data members:
+
+a so- marks of 3 subjects, total marks, average marks. Create a class result and check
+I: > whether the student is passed or failed. Provide constructors, read () and display [20]
+, () methods in all classes. Create object of class result author and display all the
+BL-2 aa :
+details with status pass or fail.
+
 Implement classes as shown in the Class diagram below. Create appropriate
 objects to demonstrate the usage of the classes created.
+
 StudentBody Student
-Q3 is] (ana) -firstName : String
-+ main (args : String{]) -lastName : Sting
-CO-2; SO- “ schoolAddress : Address [20]
-1; BL-3 icine Ih
-Address
+i 100
+2] [200] ~firetName : String
+Q3 + main (args : String) - testiente Sune a
+CO-2; SO- ~SehoclAddrss Address [20]
+1; BL-3 esmey:sume
+——_—_—_——————} String() : String
+Address fy | + t08tingd): Sting |
 = streetAddress : String
-~clty : String
+city : String
 - state : String
-= zipCode : long
-+ toString() : String .
-Write a program to implement three classes namely Student, Test and Result.
-Student class has member as rollno, Test class has members as sem1_marks and
-sem2_marks and Result class has member as total. Create an interface named
-sports that has a member score (). Derive Test class from Student and Result class
-has multiple inheritances from Test and Sports. Total is formula based on
-sem1_marks, sem2_mark and score.
-Q4
-CO-2,3;
-ae Stu
-$0-2: deat [20]
-BL-5
-Test Sports
-k a”
-—
-Result
-oP. Write a java code that creates validate( ) method which takes age( integer value
-SO-1 > as a parameter). If the age is less than 18, throw the Arithmetic Exception [20]
-otherwise print a message welcome to the System.
-BL-3
-Q6 Create a class ‘student’ having data members: name of the student, roll no of the
-CO-2; SO- student and division. Derive a class test from student having data members: [20]
-i marks of 3 subjects, total marks, average marks. Create a class result and check
-L BL-2 whether the student is passed or failed. Provide constructors, read () and display
---- page 3 ---
-() methods in all classes. Create object of class result author and display all the
-details with status pass or fail. oe
+~zipCode : long
+
++ toString() : String
 
 Write a Program to Implement a Library Management System.
 
@@ -1558,19 +1683,57 @@ This system should consist of three classes: Book, Member, and Borrow.
 The Book class should have members such as bookld, title, and author.
 The Member class should have members like memberld, name, and email.
 
-Q7: Create an interface named LibraryServices that includes methods like
+Q4 Create an interface named LibraryServices that includes methods like
 
-CO-2.3: checkA vailability() and calculateFine()._ [20]
-SO-2- ° The Borrow class should inherit properties from both Book and Member classes
+CO-2,3; checkAvailability() and calculateFine(). ; [20]
+SO-2; The Borrow class should inherit properties from both Book and Member classes
 
-BL- 5 and include additional members like borrowDate and returnDate.
+BL-5 and include additional members like borrowDate and returnDate.
 
 Implement LibraryServices in the Borrow class to check the availability of the
 book and calculate the fine based on the number of days a book has been
-borrowed.
 
+borrowed.
 The fine calculation should consider factors like book demand and member type
+
 (e.g., student, faculty).
+
+Q5 Write a java code to display all the contents of the file and apply exceptional
+CO-2; handling. 00
+SO-1; [20]
+BL-3
+Write a program to considered a class Shopping Portal which has total three
+
+Q6 , methods with same name makePayment(). The business logic of this method is
+
+CO-2; SO- to perform the payment transactions. F [20]
+1;
+
+BL-2 Payment can be done either of following modes.
+--- page 3 ---
+e Through Internet Banking. ,
+e Using UPI Support Application. rg
+e With Credit Card or Debit Card .
+
+classes namely Student, Test and Result. Student class
+has member as rollno, Test class has members as sem1_marks and sem2_marks
+and Result class has member as total. Create an interface named sports that has a
+member score (). Derive Test class from Student and Result class has multiple
+inheritances from Test and Sports. Total is formula based on sem1_marks,
+sem2_mark and score.
+
+WAP to implement three
+
+Q?:
+
+CO-2,3; [20]
+S0-2. Student
+
+BL-5 |
+
+Test Sports
+
+Result
 ````
 
 ## 2022-23 · Final-Exam · Sem 3 · paper 0abb5e572450
@@ -1918,169 +2081,6 @@ CO-2 Explain the use of this keyword with the help of an example. [5]
 BL-2
 ````
 
-## 2022-23 · Re-Exam · Sem 4 · paper b226aea1032a
-
-- Departments: Cyber Security, Information Technology
-- Programmes: B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/OBJECT ORIENTED PROGRAMMING/Object Oriented Programming , Re-exam 2022-23.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 86.7
-
-````text
-; if
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: B.Tech /MBA.Tech /B.Tech Cyber Security Year: Il Semester: IV
-Stream/s :IT, CSECS
-
-Subject: Object Oriented Programming Time: 3 hrs (10:00 to 1:00 PM)
-Date: 5/° 7/2024 No. of Pages:3 Ane
-
-Marks: 100 _—
-
-_ Re-Examination (@g22-23yeat)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4__ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20]
-
-a. Implement classes as shown in the Class diagram below. Write a test program to
-test the classes created. '
-
-‘Company
--fame : Sling
-| tactName(): String
-+setName(n ; String)
-
-m
-
-Department
-CO-1; -name : Sting
-SO-1 ; agetName() : String
-BL-1 +selName{n : String)
-
-manage
-
-|
-|
-1 1 | managediy
-__Employee
-shame : String
-title |.String =
-spetName): String
-+setName{n : String)
-+petTitied : String
-setTitle(n.: String)
---- page 2 ---
-CO-1; b. Implement a function that finds the number of occurrences of a specified character
-
-SO- 1; in the string. Write a test program that prompts the user to enter a string followed
-
-BL-1 by a character and displays the number of occurrences of the character in the string.
-Create a class ‘student’ having data members: name of the student, roll no of the
-student and division. Derive a class test from student having data members:
-
-a so- marks of 3 subjects, total marks, average marks. Create a class result and check
-I: > whether the student is passed or failed. Provide constructors, read () and display [20]
-, () methods in all classes. Create object of class result author and display all the
-BL-2 aa :
-details with status pass or fail.
-
-Implement classes as shown in the Class diagram below. Create appropriate
-objects to demonstrate the usage of the classes created.
-
-StudentBody Student
-i 100
-2] [200] ~firetName : String
-Q3 + main (args : String) - testiente Sune a
-CO-2; SO- ~SehoclAddrss Address [20]
-1; BL-3 esmey:sume
-——_—_—_——————} String() : String
-Address fy | + t08tingd): Sting |
-= streetAddress : String
-city : String
-- state : String
-~zipCode : long
-
-+ toString() : String
-
-Write a Program to Implement a Library Management System.
-
-This system should consist of three classes: Book, Member, and Borrow.
-The Book class should have members such as bookld, title, and author.
-The Member class should have members like memberld, name, and email.
-
-Q4 Create an interface named LibraryServices that includes methods like
-
-CO-2,3; checkAvailability() and calculateFine(). ; [20]
-SO-2; The Borrow class should inherit properties from both Book and Member classes
-
-BL-5 and include additional members like borrowDate and returnDate.
-
-Implement LibraryServices in the Borrow class to check the availability of the
-book and calculate the fine based on the number of days a book has been
-
-borrowed.
-The fine calculation should consider factors like book demand and member type
-
-(e.g., student, faculty).
-
-Q5 Write a java code to display all the contents of the file and apply exceptional
-CO-2; handling. 00
-SO-1; [20]
-BL-3
-Write a program to considered a class Shopping Portal which has total three
-
-Q6 , methods with same name makePayment(). The business logic of this method is
-
-CO-2; SO- to perform the payment transactions. F [20]
-1;
-
-BL-2 Payment can be done either of following modes.
---- page 3 ---
-e Through Internet Banking. ,
-e Using UPI Support Application. rg
-e With Credit Card or Debit Card .
-
-classes namely Student, Test and Result. Student class
-has member as rollno, Test class has members as sem1_marks and sem2_marks
-and Result class has member as total. Create an interface named sports that has a
-member score (). Derive Test class from Student and Result class has multiple
-inheritances from Test and Sports. Total is formula based on sem1_marks,
-sem2_mark and score.
-
-WAP to implement three
-
-Q?:
-
-CO-2,3; [20]
-S0-2. Student
-
-BL-5 |
-
-Test Sports
-
-Result
-````
-
 ## 2019-20 · Final-Exam · Sem 3 · paper 77fba0f01164
 
 - Departments: Computer Engineering
@@ -2170,6 +2170,158 @@ b. Explain the what are Bounded Wildcards? Explain any of its types with the hel
 c. Write a short note on the key features of SCALA. [4]
 
 d. Write a short note on Software Development Life Cycle. [4]
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 051f549d4193
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/OBJECT ORIENTED PROG/OBJECT ORIENTED PROGRAMMING B TECH (EXTC),__17-18 18-19_RE EXAM.pdf`
+- Printed on paper: exam date: 09 November 2019
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (EXTC) Year: II Semester: III
+7 y
+
+Academic Year: 2019-20
+
+Subject: Object Oriented Programing
+
+Date: 09 November 2019
+oC
+
+Re-Examination (2017-18 / 20
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql. a) What are features of object oriented programming paradigms? [3]
+b) What are the steps in java to make JDBC connectivity? [3]
+c) | Write an applet to draw rectangle, rounded rectangles & filled rectangle inside [3]
+
+applet visible area.
+d) Differentiate between final class and abstract class. BB]
+e) What would be the output of following code segments (2]
+i) ii)
+int i=5; int i=5;
+while(i-- > 0) while(--i > 0)
+System.out.print(i); System.out.print(i);
+Q2. a) Given the following class [8]
+class Test {
+int a;
+Test(int a) {
+this.a=a;
+}
+};
+a. Write a method called swap () which accepts two Test class objects as
+. parameters and interchange the Test class objects inside swap () method.
+b. Define main method and invoke swap ( ) method by passing two Test
+objects.
+c. What task is done by swap ( )?
+b) | What are packages? How are they created? Illustrate with an example. [6]
+
+Page 1/2
+--- page 2 ---
+Q3.
+
+Q4.
+
+Qs.
+
+Q6.
+
+Q7.
+
+a)
+
+b)
+
+a)
+
+b)
+c)
+
+a)
+b)
+c)
+a)
+
+b)
+
+Define a class MotorVehicle with data members model name, model Number,
+model price and dispay( ) method to display name, number & price. Define
+another class named Car that inherits the class MotorVehicle with data members
+discount rate and method dispay( ) to display car name, car model number, car
+price and discount rate & discount( ) method to compute discount. Write
+complete program.
+
+What does the “static” keywords means in front of variable, a methods and a
+class? Explain.
+
+Can we use this ( ) and super ( ) in same constructor? Justify.
+
+What 'is mean by constructor and parameterized constructor? Explain with proper
+example.
+
+Explain concept of Event Handling.
+
+Write a Pro
+
+Write a java program to create Calculator a as § shown i in figure. Write rood to
+implement any one arithmetic operation (+,-,* or /).
+
+When dealing with very small and very large numbers, what steps would you
+take to improve the accuracy of the calculations?
+
+Write a program, which will find sum of first cubes of first tene even numbers.
+What is for each loop? What are its limitations?
+
+Write a program, which shows how to read data from the a and write it
+into ‘nm.txt’ file.
+
+What is garbage collection? How unused objects are cleaned-up with garbage
+collector and finalization.
+
+a4 ye
+x a
+
+Page 2/2
+
+[7]
+
+[5]
+
+[2]
+[6]
+
+[4]
+[4]
+
+[14]
+
+[8]
+[3]
+(3]
+[8]
+
+[6]
 ````
 
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper d339d2e719ff
@@ -2385,158 +2537,6 @@ parameterized. Write display, multiplication, and overload + operator for additi
 complex numbers function in the complex number class.
 
 2/2
-````
-
-## 2018-19 · Re-Exam · Sem 3 · paper 051f549d4193
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/OBJECT ORIENTED PROG/OBJECT ORIENTED PROGRAMMING B TECH (EXTC),__17-18 18-19_RE EXAM.pdf`
-- Printed on paper: exam date: 09 November 2019
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech/ MBA Tech (EXTC) Year: II Semester: III
-7 y
-
-Academic Year: 2019-20
-
-Subject: Object Oriented Programing
-
-Date: 09 November 2019
-oC
-
-Re-Examination (2017-18 / 20
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql. a) What are features of object oriented programming paradigms? [3]
-b) What are the steps in java to make JDBC connectivity? [3]
-c) | Write an applet to draw rectangle, rounded rectangles & filled rectangle inside [3]
-
-applet visible area.
-d) Differentiate between final class and abstract class. BB]
-e) What would be the output of following code segments (2]
-i) ii)
-int i=5; int i=5;
-while(i-- > 0) while(--i > 0)
-System.out.print(i); System.out.print(i);
-Q2. a) Given the following class [8]
-class Test {
-int a;
-Test(int a) {
-this.a=a;
-}
-};
-a. Write a method called swap () which accepts two Test class objects as
-. parameters and interchange the Test class objects inside swap () method.
-b. Define main method and invoke swap ( ) method by passing two Test
-objects.
-c. What task is done by swap ( )?
-b) | What are packages? How are they created? Illustrate with an example. [6]
-
-Page 1/2
---- page 2 ---
-Q3.
-
-Q4.
-
-Qs.
-
-Q6.
-
-Q7.
-
-a)
-
-b)
-
-a)
-
-b)
-c)
-
-a)
-b)
-c)
-a)
-
-b)
-
-Define a class MotorVehicle with data members model name, model Number,
-model price and dispay( ) method to display name, number & price. Define
-another class named Car that inherits the class MotorVehicle with data members
-discount rate and method dispay( ) to display car name, car model number, car
-price and discount rate & discount( ) method to compute discount. Write
-complete program.
-
-What does the “static” keywords means in front of variable, a methods and a
-class? Explain.
-
-Can we use this ( ) and super ( ) in same constructor? Justify.
-
-What 'is mean by constructor and parameterized constructor? Explain with proper
-example.
-
-Explain concept of Event Handling.
-
-Write a Pro
-
-Write a java program to create Calculator a as § shown i in figure. Write rood to
-implement any one arithmetic operation (+,-,* or /).
-
-When dealing with very small and very large numbers, what steps would you
-take to improve the accuracy of the calculations?
-
-Write a program, which will find sum of first cubes of first tene even numbers.
-What is for each loop? What are its limitations?
-
-Write a program, which shows how to read data from the a and write it
-into ‘nm.txt’ file.
-
-What is garbage collection? How unused objects are cleaned-up with garbage
-collector and finalization.
-
-a4 ye
-x a
-
-Page 2/2
-
-[7]
-
-[5]
-
-[2]
-[6]
-
-[4]
-[4]
-
-[14]
-
-[8]
-[3]
-(3]
-[8]
-
-[6]
 ````
 
 ## 2018-19 · Re-Exam · paper a6b5a06ec753
@@ -2811,6 +2811,111 @@ of complex number. Create method to add, subtract, multiply and divide two compl
 
 (4)
 (14)
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper 9c8e3d134cf3
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/OBJECT ORIENTED PROG/OBJECT ORIENTED PROGRAMMING (EXTC), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 05 December 2017
+- Text: ocr (2 pages), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: I] ~ Semester: III] ~
+
+#
+
+Academic Year: 2017-2018
+
+Subject: Object Oriented Programming ~
+Marks: 70 ~
+Date: 05 December 2017 - Time: 10.00 am t
+Durations: 3 (
+No. of Pages,
+
+Instructions: Candidates should read carefully the instructions printed on th
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql. a) Write code segment to declare and initialize the 4X4 matrix with values [4]
+11,21,31,41,15,61,17,87,71,61,41,30 and display matrix elements using ‘for each’
+loop.
+
+b) | What does the “final” keyword mean in front of a variable, a method and a class? [3]
+c) List various Swing Components and explain the declaration, creation and use of [3]
+following. oo
+i. JButton ii. JTextField
+d) Write java program to read byte stream from file using FileInputStream. [4]
+Q2. a) Compare and contrast overloading and overriding methods, with the help example. [8]
+b) | The number in sequence [6]
+
+01123581321
+are called Fibonacci numbers. Write a program using a recursive function call to
+calculate and print the. first ‘m’ Fibonacci numbers.
+Q3. a) What is object? How it is declared and created? Explain with suitable example how [7]
+objects access the value into the member using get method and display it using
+display method.
+b) | What is scope? Explain scope and life time of variable with examples. [7]
+Q4. a) | Write a program to find the number of and sum of all integers greater than 100 and [7]
+less than equals to 200 that are divisible by 5.
+
+b) | What are the steps in java to make JDBC connectivity? [4]
+« c) Write note on BufferedReader and Buffered Writer. [3]
+pres QS. a) Write a java application for a temperature conversion that converts the temperature, [7]
+
+Fahrenheit to Celsius. The Fahrenheit temperature should be entered through
+keyboard via JTextField and another JTextField should display the converted
+
+Page 1/2
+--- page 2 ---
+temperature after pressing JButton. Refer following formula and_ figure:
+Celcius=5/9*(Fahrenheit-32). :
+
+|
+— ~ eatin iene ee
+
+b) What is variables? Differentiate between instance variable, local variable and class [7]
+
+variable.
+Q6. a) What is super? What are uses of super? Write a program to access the super class [6]
+method and instance variable by using super keyword.
+b) | What is exception handling mechanism? Explain with example. [4]
+c) Differentiate between Interface and Abstract Class. [4]
+Q.7. Write a java program to create Text Editor as shown in figure with following
+functionalities
+a) Create one Menu “File” with Save, Open and Exit as Menu Items. [4]
+
+When the user clicks on any menu items actions are performed as
+
+b)   File>Save is clicked/selected by user, the Save dialog box appears to save contents [4]
+to file. [Use FileInputStream to’ read contents from file]
+
+c)   File>Open is clicked/selected by user, the Load dialog box appears to select & open [4]
+text file. [Use FileOutputStream to write contents to file]
+
+d)   File>Exit is clicked/selected by user, My Editor will be closed. [2]
+
+~ My Editor: >. me
+
+Fig:- Text Editor
+
+Page 2/2
 ````
 
 ## 2017-18 · Final-Exam · paper 1a2dca68f077
@@ -3110,6 +3215,7 @@ g. Class
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/OBJECT ORIENTED PROGRAMMING/OBJECT ORIENTED PROGRAMMING BATCH 16-17 RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 09 May 2018
 - Text: ocr (3 pages), mean OCR confidence 91.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3173,7 +3279,6 @@ b=20;
 sum=atb;
 subtr=a-b;
 cout<<left;
-cout<<setw(5)<<"atb"<<setw(5)<<"a-b";
 cout<<setw(5)<<sum<<setw(5)<<subtr;
 }
 If originally x=2,y=3, and z=5, what is the value of x, y, and z after | (3m)
@@ -3631,109 +3736,4 @@ while and for loop
 4M
 
 12M
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 9c8e3d134cf3
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/OBJECT ORIENTED PROG/OBJECT ORIENTED PROGRAMMING (EXTC), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 05 December 2017
-- Text: ocr (2 pages), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: I] ~ Semester: III] ~
-
-#
-
-Academic Year: 2017-2018
-
-Subject: Object Oriented Programming ~
-Marks: 70 ~
-Date: 05 December 2017 - Time: 10.00 am t
-Durations: 3 (
-No. of Pages,
-
-Instructions: Candidates should read carefully the instructions printed on th
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql. a) Write code segment to declare and initialize the 4X4 matrix with values [4]
-11,21,31,41,15,61,17,87,71,61,41,30 and display matrix elements using ‘for each’
-loop.
-
-b) | What does the “final” keyword mean in front of a variable, a method and a class? [3]
-c) List various Swing Components and explain the declaration, creation and use of [3]
-following. oo
-i. JButton ii. JTextField
-d) Write java program to read byte stream from file using FileInputStream. [4]
-Q2. a) Compare and contrast overloading and overriding methods, with the help example. [8]
-b) | The number in sequence [6]
-
-01123581321
-are called Fibonacci numbers. Write a program using a recursive function call to
-calculate and print the. first ‘m’ Fibonacci numbers.
-Q3. a) What is object? How it is declared and created? Explain with suitable example how [7]
-objects access the value into the member using get method and display it using
-display method.
-b) | What is scope? Explain scope and life time of variable with examples. [7]
-Q4. a) | Write a program to find the number of and sum of all integers greater than 100 and [7]
-less than equals to 200 that are divisible by 5.
-
-b) | What are the steps in java to make JDBC connectivity? [4]
-« c) Write note on BufferedReader and Buffered Writer. [3]
-pres QS. a) Write a java application for a temperature conversion that converts the temperature, [7]
-
-Fahrenheit to Celsius. The Fahrenheit temperature should be entered through
-keyboard via JTextField and another JTextField should display the converted
-
-Page 1/2
---- page 2 ---
-temperature after pressing JButton. Refer following formula and_ figure:
-Celcius=5/9*(Fahrenheit-32). :
-
-|
-— ~ eatin iene ee
-
-b) What is variables? Differentiate between instance variable, local variable and class [7]
-
-variable.
-Q6. a) What is super? What are uses of super? Write a program to access the super class [6]
-method and instance variable by using super keyword.
-b) | What is exception handling mechanism? Explain with example. [4]
-c) Differentiate between Interface and Abstract Class. [4]
-Q.7. Write a java program to create Text Editor as shown in figure with following
-functionalities
-a) Create one Menu “File” with Save, Open and Exit as Menu Items. [4]
-
-When the user clicks on any menu items actions are performed as
-
-b)   File>Save is clicked/selected by user, the Save dialog box appears to save contents [4]
-to file. [Use FileInputStream to’ read contents from file]
-
-c)   File>Open is clicked/selected by user, the Load dialog box appears to select & open [4]
-text file. [Use FileOutputStream to write contents to file]
-
-d)   File>Exit is clicked/selected by user, My Editor will be closed. [2]
-
-~ My Editor: >. me
-
-Fig:- Text Editor
-
-Page 2/2
 ````

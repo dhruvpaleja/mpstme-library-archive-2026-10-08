@@ -99,6 +99,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/ERGONOMICS IN DESIGN/Ergonomics in Design 2025-26 Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 86.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -197,7 +198,6 @@ c | Discuss the concept and importance of hazard communication in
 CO-5; SO-4 occupational safety. [10]
 BL-3
 
-FRRRRR RRR DR RRA KARE
 ````
 
 ## 2025-26 · Re-Exam · Sem 7 · paper a7caf7df57b7

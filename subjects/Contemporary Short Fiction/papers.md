@@ -1282,6 +1282,7 @@ upheaval.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/CONTEMPORARY SHORT FICTION/Contempoorary Short Fiction, Sem-VII, Final Exam 2024-25 & Rexam 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1402,7 +1403,6 @@ SO-3
 BL2 a. Describe in the detail the use of any two literary devices used in [10]
 Strawberry Spring.
 
-BL4 b; Vasudhendra and Hansda Sowvendra Shekhar both use autobiographical [10]
 
 © non-fiction to draw attention to the challenges of the marginalized. What
 are the strengths and limitations of this first person autobiographical

@@ -248,6 +248,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/CLASSICAL CONTROL SYSTEMS/Classical Control Systems, Sem-V, Batch 2024-25, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 84.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -292,7 +293,6 @@ CO-2;SO-1 ; ;
 BL-3 Ha(s}
 A 8B c
 5 + + C{s)
-RO) Gis) G. Gs) exis) Le] ys) YH
 = oe D
 Hg(s)
 Hy(s) ;

@@ -214,6 +214,7 @@ Q7B _ Explain power flow within a synchronous Motor and draw its equivalent circ
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRICAL/SEM V/ELECTRICAL MACHINE II/ELECTRICAL MACHINES II (ELECTRICAL), FINAL EXAM 2017-18.pdf`
 - Printed on paper: exam date: 24 November 2017
 - Text: ocr (2 pages), mean OCR confidence 88.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -292,7 +293,6 @@ Q7 Write Short Notes on:-
 (c) | Significance and Steps to draw a Circle Diagram. (04)
 (d) Synchronizing power of an Alternator. (04)
 
-ee ee 2 2 ee ee ee 2 2 2 2 Ee eo oo oO OK OR OE
 
 > Page 2 of 2
 ````

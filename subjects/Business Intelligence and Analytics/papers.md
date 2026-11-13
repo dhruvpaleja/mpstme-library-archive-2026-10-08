@@ -168,6 +168,7 @@ BL-4   b) Describe the database design process in detail, including key steps an
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/BUSINESS INTELLIGENCE AND ANALYTICS/B Tech, Business Intelligence and Analytics, Sem-VIII, Batch 2025-26, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 10 Jul 2026
 - Text: ocr (2 pages), mean OCR confidence 86.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -243,7 +244,6 @@ CO-2; SO-2; | b) | Describe how clustering leads to actionable business insights
 
 BL-2
 
-FRR IG koa a ka a ok
 --- page 2 ---
 Q6 [10]
 CO-4; SO-6; | a) | Explain how ANN is used in financial time series modelling. [5]

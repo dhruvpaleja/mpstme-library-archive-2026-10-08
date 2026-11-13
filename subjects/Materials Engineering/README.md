@@ -16,15 +16,15 @@ Also filed as: `MATERIAL ENGINEERING`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Materials Engineering(702ME0C029)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Materials Engineering(702ME0C007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Material Engineering 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | BTech Mechanical 7003, Integrated Mechanical 7031 | QP_Materials Engineering(702ME0C029)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | Integrated Mechanical 7031 | QP_Materials Engineering(702ME0C007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Materials Engineering(702ME0C029)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Materials Engineering(702ME0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Materials Engineering(702ME0C029)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Materials Engineering(702ME0C007)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech Mechanical 7003 | QP_Materials Engineering(702ME0C029)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | Integrated Mechanical 7031 | QP_Materials Engineering(702ME0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Materials Engineering(702ME0C029)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Materials Engineering(702ME0C007)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL | Materials Engineering Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL | Materials Engineering, Sem-III, Batch 2022-23 23-24 & 2024-25 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL | Materials Engineering , Re-exam 2022-23,2023-24.pdf |

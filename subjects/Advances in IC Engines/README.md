@@ -16,10 +16,10 @@ Also filed as: `Advances in I C Engines`, `Advances in I.C.Engines`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Advances in IC Engines(702ME0E015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Advances in IC Engines(702ME0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechanical 7003 | QP_Advances in IC Engines(702ME0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Mechanical 7031 | QP_Advances in IC Engines(702ME0E015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Advances in IC Engines(702ME0E015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Advances in IC Engines(702ME0E015)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / MECHANICAL | Advances in IC Engines, Sem VI,Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / MECHANICAL | Advances in I C Engines Batch 2024-25 Final.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Advances in IC Engines , Re-exam 2023-2024.pdf |

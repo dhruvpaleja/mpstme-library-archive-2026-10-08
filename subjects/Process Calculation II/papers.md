@@ -378,6 +378,7 @@ the columns.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/PROCESS CALCULATION II/PROCESS CALCULATION II 2016-2017 FINAL.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 10 May 2017
 - Text: ocr (4 pages), mean OCR confidence 86.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -493,7 +494,6 @@ at 298 k.
 Data: Gross calorific value of crude oil at 298 k = 45071 kJ/kg of oil.
 Latent heat of water vabous at 298 k = 2442.5 kJ/kg.
 
-tery Rreasune Jo} 325 Ke Q CKi)/ lla faced
 
 Q5 a) Using antincen equation, calculate the normal boiling point (Tg) 07
 of ethanol.’ Also calculate its latent heat of vaporization at Tp
@@ -759,6 +759,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/PROCESS CALCULATION II/PROCESS CALCUATION II BATCH 2014-2015 Final exam.pdf`
 - Printed on paper: duration hours: 3; exam date: 11/05/2015
 - Text: ocr (3 pages), mean OCR confidence 83.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Ne SVKM’s NMIMS
@@ -878,7 +879,6 @@ required to be added using mean molal heat capacity in kJ/(kmol.K) given
 
 below: _
 
-Gas C° ym (373-298 K) Co pm (573. 298K)
 CH 37.5974 | 43.0821
 
 Air | 29.2908 | 29.6132
@@ -934,6 +934,7 @@ oa
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/PROCESS CALCULATION II/PROCESS CALCULATION II 2013-14 Final exam.pdf`
 - Printed on paper: exam date: 06/05/2014
 - Text: ocr (3 pages), mean OCR confidence 81.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1015,13 +1016,11 @@ temperature is 298K.From the settler the two phases separated are withdrawn
 separately. What quantity of MIBK must be fed to the process to reduce the
 acetone concentration, in waier rich phase to 5 weight % and also calculate the
 percentage of acetone in the original feed solution which remains unextracted?
-Raffinate phase : 5% acetone,92.5%waier and 2.5%MIBK
 . Extract Phase:10% acetone ,87%MiBK and 3% water
 Q4 a
 a. Differentiate between GCV and NCV. 10
 b. Calculate the gross and net calorific values of the natural gas at 298K having 10
 following molar composition: Specific volume at 298K and 101.3=24.465 m?/K mol
-Ciy:89.49%,CoHe25%, Cathe: 4.9%, n-CaHi9:4 %,CO2 0.7% and N2:2%
 Data:
 Component GCV,Ki/mol NCV,KJ/mol
 CHy 799.65 _ 702.62

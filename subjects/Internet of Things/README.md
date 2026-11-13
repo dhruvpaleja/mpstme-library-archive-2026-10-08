@@ -16,17 +16,17 @@ Also filed as: `Internet of Things ( IoT )`, `Internet of Things (IoT)`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech EXTC 7006 | QP_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated IT 7037 | QP_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 10 | B TECH / EXTC, B.TECH INTEGRATED / EXTC, B.TECH INTEGRATED / IT, MBA TECH / EXTC | Internet of Things ( IoT ) Batch 2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech EXTC 7006 | QP_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Internet of Things (IoT)(702EX0E003)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / EXTC, MBA TECH / ARTIFICIAL INTELLIGENCE | Internet of Things (IoT), Sem VI, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / EXTC | Internet of Things ( IoT ) Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / EXTC, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / EXTC | Internet of Things, Sem-VI, Final Exam 2023-24.pdf |

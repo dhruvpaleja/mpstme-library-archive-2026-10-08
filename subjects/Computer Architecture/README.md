@@ -15,13 +15,13 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 3 | MBA TECH / ARTIFICIAL INTELLIGENCE | Computer Organization and Architecture, Final Exam 2025-26 & Re Exam 2022-23, 2024-25.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Computer Architecture(702AI0C025)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Computer Architecture(702AI0C025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Computer Architecture, Sem-III, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech AI 7012 | QP_Computer Architecture(702AI0C025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech AI 7051 | QP_Computer Architecture(702AI0C025)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Computer Architecture(702AI0C025)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Computer Architecture(702AI0C025)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Computer Architecture(702AI0C025)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech AI 7051 | QP_Computer Architecture(702AI0C025)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Computer Architecture(702AI0C025)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Computer Architecture, Sem-III, Final Exam 2024-25 & Re Exam 2023-24, 2022-23.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Computer Architecture, Sem-III, Batch 2022-23, 23-24 & 2024-25 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Computer Architecture , Re-exam 2022-23,2023-24.pdf |

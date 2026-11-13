@@ -1,10 +1,10 @@
 # Problem Solving and Programming using C: question papers in full
 
-4 unique papers · 2012-13 to 2012-13 · Computer Applications (MCA)
+4 unique papers · 2012-13 to 2013-14 · Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Exam not stated · Trim 1 · paper 91fe9b51e9fd
+## 2013-14 · Exam not stated · Trim 1 · paper 91fe9b51e9fd
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -95,174 +95,7 @@ Je used in C programming language.
 AS
 ````
 
-## 2012-13 · Re-Exam · Trim 1 · paper 44eeae1e2c79
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/PROBLEM SOLVING AND PROGRAMMIMG USING C/PROBLEM SOLVING & PROGRAMMING I MCA 2012-13 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 10/6/2013
-- Text: text (2 pages)
-
-````text
-?< 3   SVKM's NMIMS   s
-Mukesh Pate1 School of Technolow Management & Engineerinm
-Programme: MCA   Year:   I   Trimester:   I   .I"..
-Academic Year :2012-2013   1   '   d
-Batch:   20 12-20 13
-Subject:   F'roblem Solving & Programming   Marks:   100 'x,
-Using C   Time:   10.00
-Date:   10/6/2013   Dur~tion: 3 hrs.
-Re - Examination
-lnstmction :Candidates should read carefully the instructions printed on the question paper and
-on the Answer Book, Which is provided for their use.
-NB:
-1. Question No 1is compulsory
-2. Out of remaining question, attempt any four questions
-3. In all five questions to be attempted
-4. All question cany equal marks.
-5. Awwer to each question to be started on fkesh page
-6. Figure in bracket indicate full marks.
-Q.1.
-a) Explain all steps required to solve the progratnming problems with certainproblem statement.
-10
-b) Write a program to print output in following format up to n&row using "for" loop. Accept the
-value of n from the user.   10
-A
-AB A
-ABCBA
-ABCDCBA   -.   I   .   8 . ._
-I
-Q.2.
-a) Explain conditional and bitwise operators with examples.
-b) Explain storage classes used in C programming with examples.
-4.3.   d
-a) Write a program to generate and print Armstrong numbers Mtweenthe ranges. User has to
-enter the startingand ending values of the range.   10
-b) Differentiate between Call by Value &Call by address. Write program to swap two numbers
-using both the methods.   10
-4.4.
-a) Explain symbolic constantswith its advantages   05
-b) Write a menu driven program using swith-case control structure to calluser defined fupctiom,
-which converts b i i to decimal and decimal to b   i separately. Pass parameters to these
-functionsfrom "main" function.   15
---- page 2 ---
-Ir l3: -
-.,. .-. -. -
-. (2, .. .   8 . , -   ~.- ~'- 7 C', -. .. :.   -.. .   WWtaxR. *'k8,4!.V,
-: 'k   A-. .   .a> -&?ER@.%!~~YM   un&jr-riw   .   .:   '.   . r   . .. . -   . =*:.A
-+   I   Q.5
-I   ' +' :,   a) What do you understand by Rkcpsion? Write a recursive function to evaluate the following
-equation y =xn.   08
-b) Write a program to read 100real values and calculate standard deviation using following
-fmulas. Write separate functions for each formula and give nested call to the functions. 12
-Standard deviation = Jvarianca
-n
-Variance = 1l nE(x, -mean)'
-1-1
-Where, n is number of elements inthe array, xi is i' elements of array, mean is
-average of array.
-4.6
-a) Write a program to create structure of student with name, roll nmber, division and total
-marks. Read the data of 60 students and write afunctionto search a student with name. 10
-b) Explaib any five fde manipulation functions with example.   10
-4.7 Write short notes on the following (any four)
-a) strcmpo and strcpyo functions
-b) Enumerated data type
-c) Error handliig in file
-d) Unions
-e) break and continue statements.
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 1f5dbb0d22d9
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/PROBLEM SOLVING AND PROGRAMMIMG USING C/scan0006(8).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
-- Text: ocr (2 pages), mean OCR confidence 94.2
-
-````text
-\ - SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MCA Year: I Trimester: I
-Academic Year : 2012-2013
-
-Subject: PROBLEM SOLVING & PROGRAMMING USING C Marks: 100
-Time: 10.00 a.
-Date: 26/10/2012 Duration: 3   hrs\%
-
-Final - Examination
-
-Instruction : Candidates should read carefully the instructions printed on the question paper an
-on the Answer Book, Which is provided for their use.
-
-NB:
-1. Question No | is compulsory
-2. Out of remaining question, attempt any four questions
-3. In all five questions to be attempted
-4. All question carry equal marks.
-5. Answer to each question to be started on fresh page
-6. Figure in bracket indicate full marks.
-
-Q.1.
-a) Explain the sequence of execution of C program along with the flowchart. Also specify
-different software require to execute C program. 10
-b) Write a program to print output in following format up to n" row using “for” loop. Accept the
-value of n from the user. 10
-A
-BAB
-CBABC
-DCBABCD
-}
-Q2.
-a) Explain storage classes used in C programming with examples. 10
-b) Explain all primitive data types used in C with its ranges in bytes. 10
-Q.3. a
-a) Write a program to generate and print all prime numbers between the ranges. User has to enter
-the starting and ending values of the range. 10
-b) Explain any five predefined function used to manipulate the strings. 10
-Q.4y |
-
-a) Write a program to make a calculator which performs five basic mathematical functions using
-swith-case control block. Use “+” for addition, “-“ for subtraction, “*” for multiplication. “/” for
-
-division and “%” for mod operations. 10
-b) What do you understand by Recursion? Write a recursive function to find the factorial of a
-
-number. Call this function in main to compute f, Where, f= 1! +2!+3!+...... +n! 10
-
-Yo
---- page 2 ---
-(C3
-a) Write a function to sort the elements of an array in ascending order. Call the function from
-main function-by passing an array by pointers as arguments. 10
-
-b) Write a program to create structure of an employee with name, id, department and gross
-
-salary. Read the data of 100 employees and write a function to search employee based on id.
-10
-
-Q6
-
-a) Explain any five functions used to manipulate the file with example. 10
-
-b) Write a program to read two matrices A and B of size M x N, write multiplication function to
-multiply two matrices and print the resultant matrix. Pass the matrices as an argument to the
-multiplication function from main. 10
-
-Q.7 Write short notes on the following (any four) 20
-
-a) Symbolic constant
-
-b) Enumerated data type
-c) Pointer to array
-
-d) Error handling in file
-e) Union
-````
-
-## Year not stated · Re-Exam · Trim 1 · paper 2e7abb9978e8
+## 2013-14 · Re-Exam · Trim 1 · paper 2e7abb9978e8
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -399,4 +232,171 @@ Q7. Write short note on any two [20 Marks]
 (d) Recursion
 
 (e) inline function
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper 1f5dbb0d22d9
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/PROBLEM SOLVING AND PROGRAMMIMG USING C/scan0006(8).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
+- Text: ocr (2 pages), mean OCR confidence 94.2
+
+````text
+\ - SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MCA Year: I Trimester: I
+Academic Year : 2012-2013
+
+Subject: PROBLEM SOLVING & PROGRAMMING USING C Marks: 100
+Time: 10.00 a.
+Date: 26/10/2012 Duration: 3   hrs\%
+
+Final - Examination
+
+Instruction : Candidates should read carefully the instructions printed on the question paper an
+on the Answer Book, Which is provided for their use.
+
+NB:
+1. Question No | is compulsory
+2. Out of remaining question, attempt any four questions
+3. In all five questions to be attempted
+4. All question carry equal marks.
+5. Answer to each question to be started on fresh page
+6. Figure in bracket indicate full marks.
+
+Q.1.
+a) Explain the sequence of execution of C program along with the flowchart. Also specify
+different software require to execute C program. 10
+b) Write a program to print output in following format up to n" row using “for” loop. Accept the
+value of n from the user. 10
+A
+BAB
+CBABC
+DCBABCD
+}
+Q2.
+a) Explain storage classes used in C programming with examples. 10
+b) Explain all primitive data types used in C with its ranges in bytes. 10
+Q.3. a
+a) Write a program to generate and print all prime numbers between the ranges. User has to enter
+the starting and ending values of the range. 10
+b) Explain any five predefined function used to manipulate the strings. 10
+Q.4y |
+
+a) Write a program to make a calculator which performs five basic mathematical functions using
+swith-case control block. Use “+” for addition, “-“ for subtraction, “*” for multiplication. “/” for
+
+division and “%” for mod operations. 10
+b) What do you understand by Recursion? Write a recursive function to find the factorial of a
+
+number. Call this function in main to compute f, Where, f= 1! +2!+3!+...... +n! 10
+
+Yo
+--- page 2 ---
+(C3
+a) Write a function to sort the elements of an array in ascending order. Call the function from
+main function-by passing an array by pointers as arguments. 10
+
+b) Write a program to create structure of an employee with name, id, department and gross
+
+salary. Read the data of 100 employees and write a function to search employee based on id.
+10
+
+Q6
+
+a) Explain any five functions used to manipulate the file with example. 10
+
+b) Write a program to read two matrices A and B of size M x N, write multiplication function to
+multiply two matrices and print the resultant matrix. Pass the matrices as an argument to the
+multiplication function from main. 10
+
+Q.7 Write short notes on the following (any four) 20
+
+a) Symbolic constant
+
+b) Enumerated data type
+c) Pointer to array
+
+d) Error handling in file
+e) Union
+````
+
+## 2012-13 · Re-Exam · Trim 1 · paper 44eeae1e2c79
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/PROBLEM SOLVING AND PROGRAMMIMG USING C/PROBLEM SOLVING & PROGRAMMING I MCA 2012-13 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 10/6/2013
+- Text: text (2 pages)
+
+````text
+?< 3   SVKM's NMIMS   s
+Mukesh Pate1 School of Technolow Management & Engineerinm
+Programme: MCA   Year:   I   Trimester:   I   .I"..
+Academic Year :2012-2013   1   '   d
+Batch:   20 12-20 13
+Subject:   F'roblem Solving & Programming   Marks:   100 'x,
+Using C   Time:   10.00
+Date:   10/6/2013   Dur~tion: 3 hrs.
+Re - Examination
+lnstmction :Candidates should read carefully the instructions printed on the question paper and
+on the Answer Book, Which is provided for their use.
+NB:
+1. Question No 1is compulsory
+2. Out of remaining question, attempt any four questions
+3. In all five questions to be attempted
+4. All question cany equal marks.
+5. Awwer to each question to be started on fkesh page
+6. Figure in bracket indicate full marks.
+Q.1.
+a) Explain all steps required to solve the progratnming problems with certainproblem statement.
+10
+b) Write a program to print output in following format up to n&row using "for" loop. Accept the
+value of n from the user.   10
+A
+AB A
+ABCBA
+ABCDCBA   -.   I   .   8 . ._
+I
+Q.2.
+a) Explain conditional and bitwise operators with examples.
+b) Explain storage classes used in C programming with examples.
+4.3.   d
+a) Write a program to generate and print Armstrong numbers Mtweenthe ranges. User has to
+enter the startingand ending values of the range.   10
+b) Differentiate between Call by Value &Call by address. Write program to swap two numbers
+using both the methods.   10
+4.4.
+a) Explain symbolic constantswith its advantages   05
+b) Write a menu driven program using swith-case control structure to calluser defined fupctiom,
+which converts b i i to decimal and decimal to b   i separately. Pass parameters to these
+functionsfrom "main" function.   15
+--- page 2 ---
+Ir l3: -
+.,. .-. -. -
+. (2, .. .   8 . , -   ~.- ~'- 7 C', -. .. :.   -.. .   WWtaxR. *'k8,4!.V,
+: 'k   A-. .   .a> -&?ER@.%!~~YM   un&jr-riw   .   .:   '.   . r   . .. . -   . =*:.A
++   I   Q.5
+I   ' +' :,   a) What do you understand by Rkcpsion? Write a recursive function to evaluate the following
+equation y =xn.   08
+b) Write a program to read 100real values and calculate standard deviation using following
+fmulas. Write separate functions for each formula and give nested call to the functions. 12
+Standard deviation = Jvarianca
+n
+Variance = 1l nE(x, -mean)'
+1-1
+Where, n is number of elements inthe array, xi is i' elements of array, mean is
+average of array.
+4.6
+a) Write a program to create structure of student with name, roll nmber, division and total
+marks. Read the data of 60 students and write afunctionto search a student with name. 10
+b) Explaib any five fde manipulation functions with example.   10
+4.7 Write short notes on the following (any four)
+a) strcmpo and strcpyo functions
+b) Enumerated data type
+c) Error handliig in file
+d) Unions
+e) break and continue statements.
 ````

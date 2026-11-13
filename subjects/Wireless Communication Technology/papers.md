@@ -1543,6 +1543,185 @@ uU
 [7]
 ````
 
+## 2018-19 · Re-Exam · Sem 7 · paper 3f962b6bca5d
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 January 2019
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+“SVKM’S NMIMS_—
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B. Tech(EXTC) < Year: IV Semester: VI]
+Academic Year: 2018-2019«
+
+Subject: Wireless Communication Technology ¢ Marks: 60 © .
+
+Time: 2.00 pm to 5.00 pm
+
+Date: 14 January 2019 © ¢
+* Durations: 3 (hrs)
+
+y No. of Pages:_ O2—
+Re-examination (2016-17)
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover ofthe answer book, which is provided for their use.
+
+1) Question No. 1.is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on.a fresh page.
+6) Figures on the right hand side indicate full marks.
+
+7) Assume_csuitable data if necessary.
+
+Q.l Answer the following : (Any 3) , 12
+a. Explain Cell dragging. 4
+b. List any four specifications of GSM. 4
+c. Define large scale and small scale propagation model. 4
+d. Discuss soft handoff in CDMA. 4
+
+Q2 a. Explain Microcell Zone concept to improve capacity of cellular system. 06
+
+b. Explain Proper and improper Handoff Situation with the help of diagram. 06
+
+3a. Derive the electric field strength using two-ray Ground Reflection model. 06
+
+——- b. — Explain GSM system architecture along with interfaces in detail with 06
+suitable diagram.
+
+a. Explain open loop and closed loop power control in detail in CDMA. 06
+
+b. — Explain AMPS voice modulation process with diagram. 06
+--- page 2 ---
+Q.5
+
+Q.6
+
+Q.7
+
+Write features of DECT. Explain its functional concept.
+
+Explain Pure Aloha and Slotted Aloha along with its throughput.
+
+Explain UMTS architecture with suitable diagram.
+
+Discuss CDMA IS-95 Reverse channel modulation process.
+
+Write short notes on:(any two)
+
+Types of small scale fading
+
+WLL (TR-45) Architecture
+
+Supervisory audio tone and signaling tone in AMPS.
+
+2/2
+
+06
+
+06
+
+06
+06
+
+12
+06
+06
+06
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper 23b3c46b9c5b
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY RE EXAM 2016-17.pdf`
+- Printed on paper: exam date: 16 November 2018
+- Text: ocr (1 page), mean OCR confidence 90.9
+
+````text
+O SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) © Year: IV Semester: VII
+
+j Academic Year: 2018-2019
+
+Subject: Wireless Communication Technology ~
+
+Date: 16 November 2018 + Time: 2.00 p
+
+No. of Pages! Is
+4 cy aS
+‘ Om SX
+Re-examination (2016-17) Ts
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Q.1 Attempt all questions
+a) What is meant by frequency reuse or frequency planning? 03
+b) What are the three basic propagation mechanisms which impact propagation in a mobile 03
+communication system?
+c) What is Grade of service? How are Erlang B formula and Erlang C formula used in 03
+cellular system.
+d) What are the effects of multi path propagation on CDMA? 03
+Q.2
+
+If a signal-to-interference ratio of 15 dB is required for satisfactory forward channel
+performance of a cellular system, what is the frequency reuse factor and cluster size that
+should be used for maximum capacity if the path loss exponent is
+
+A) _ _% 08
+(a)n=4, (b) n= 3?
+Assume that there are six cochannel cells in the first tier, and all of them are at the same
+distance from the mobile. Use suitable approximations.
+
+B) What is Cordless System? Debrief it with mentioning limitations. 04
+3
+A) Explain Two Ray Ground Reflection Model 06
+B) With neat labeled block diagram explain RAKE Receiver 06
+Q.4
+A) Write a short note on GSM Architecture 06
+B) Explain Forward Channels in WCDMA and CDMA2000 06
+Q.5
+What is the forward and reverse link frequency for AMPS? Write the specifications of
+se ‘)   DECT. 7
+B) What is DECT? Explain it in brief. 04
+Q6
+A) Explain handover technique Cellular Radio. State types of Hand over. 04
+B) Draw the neat schematic of UTRAN Architecture and explain it. 08
+Q.7
+A) Write a Short Note on 4G Network. 05
+® B) What is WLL in networking? What is a loop in telecommunication? 03
+C) Discuss the deployment issues in WLL development 04
+
+t/t.
+````
+
 ## 2018-19 · Re-Exam · Sem 7 · paper 498c44cb73dc
 
 - Departments: Electronics and Telecommunication
@@ -1807,6 +1986,77 @@ b.   GPRS Architecture   06
 c.   MIMO Antenna technology   06
 -
 2~
+````
+
+## 2017-18 · Re-Exam · Sem 7 · paper 7ad6cbcfafbe
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY (EXTC), BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 05 December 2017
+- Text: ocr (2 pages), mean OCR confidence 86.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: IV Semester: VII
+
+Batch: 2016-17
+¢ Academic Year: 2017-2018
+
+Subject: Wireless Communication Technology
+
+| Date: 05 December 2017
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+
+1) Question No. 1.is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Q.1 Answer the following : (Any 3) 12
+a. Discuss soft handoff in CDMA. 4
+b. List any four specifications of GSM. 4
+c. Explain Cell dragging. 4
+
+d. Define cluster. What are typical sizes of cluster? How is it related to channel capacity? 4
+Q.2. a. Discuss frame structure of GSM in detail with suitable diagram. 06
+
+b. Explain different techniques to improve capacity of cellular system. 06
+
+Q.3. a. What is near far effect in CDMA? How it can be overcome? Explain open loop and 06
+closed loop power control in detail.
+b. Discuss call handling process in AMPS/ETACS system. 06
+
+Q.4 a. _ Discuss and derive the electric field strength using two-ray model. 06
+
+b. Write features of DECT. Explain its functional concept. 06
+--- page 2 ---
+~
+
+Q.5 a. Discuss IS-95 Reverse channel modulation process. 06
+b. Write significance of handoff. Discuss Prioritizing handoff schemes. 06
+Q.6 a. Explain UMTS architecture with suitable diagram. 06
+
+b. | Discuss GSM security algorithms. wrt enor prion R owt wheal: ar 06
+
+Q.7 Write short notes on (any two) 12
+a. Supervisory signals of AMPS. 06
+b. Forward link characteristics of IS 95. 06
+c. | WLL( TR-45) architecture. : 06
 ````
 
 ## 2017-18 · Re-Exam · Sem 7 · paper 7fd1b33482f3
@@ -2152,77 +2402,6 @@ antenna.
 b. Discuss in brief the 4G Technology. 06
 ````
 
-## 2016-17 · Re-Exam · Sem 7 · paper 7ad6cbcfafbe
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY (EXTC), BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 05 December 2017
-- Text: ocr (2 pages), mean OCR confidence 86.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: IV Semester: VII
-
-Batch: 2016-17
-¢ Academic Year: 2017-2018
-
-Subject: Wireless Communication Technology
-
-| Date: 05 December 2017
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use.
-
-1) Question No. 1.is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Q.1 Answer the following : (Any 3) 12
-a. Discuss soft handoff in CDMA. 4
-b. List any four specifications of GSM. 4
-c. Explain Cell dragging. 4
-
-d. Define cluster. What are typical sizes of cluster? How is it related to channel capacity? 4
-Q.2. a. Discuss frame structure of GSM in detail with suitable diagram. 06
-
-b. Explain different techniques to improve capacity of cellular system. 06
-
-Q.3. a. What is near far effect in CDMA? How it can be overcome? Explain open loop and 06
-closed loop power control in detail.
-b. Discuss call handling process in AMPS/ETACS system. 06
-
-Q.4 a. _ Discuss and derive the electric field strength using two-ray model. 06
-
-b. Write features of DECT. Explain its functional concept. 06
---- page 2 ---
-~
-
-Q.5 a. Discuss IS-95 Reverse channel modulation process. 06
-b. Write significance of handoff. Discuss Prioritizing handoff schemes. 06
-Q.6 a. Explain UMTS architecture with suitable diagram. 06
-
-b. | Discuss GSM security algorithms. wrt enor prion R owt wheal: ar 06
-
-Q.7 Write short notes on (any two) 12
-a. Supervisory signals of AMPS. 06
-b. Forward link characteristics of IS 95. 06
-c. | WLL( TR-45) architecture. : 06
-````
-
 ## 2016-17 · Re-Exam · Sem 7 · paper aa174b20f4e1
 
 - Departments: Electronics and Telecommunication
@@ -2321,132 +2500,47 @@ B_ Discuss briefly 4G system and compare it with 3G. [06]
 2/2
 ````
 
-## 2016-17 · Re-Exam · Sem 7 · paper 3f962b6bca5d
+## 2015-16 · Final-Exam · Sem 7 · paper bc522d5acd2c
 
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 January 2019
-- Text: ocr (2 pages), mean OCR confidence 91.5
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY B TECH (ELECTRONICS), 2014-15 FINAL EXAM.pdf`
+- Printed on paper: exam date: 03/12/2015
+- Text: ocr (1 page), mean OCR confidence 86.4
 
 ````text
-“SVKM’S NMIMS_—
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Program: B. Tech(EXTC) < Year: IV Semester: VI]
-Academic Year: 2018-2019«
+Programme: B. Tech (Electronics) Year: IV
 
-Subject: Wireless Communication Technology ¢ Marks: 60 © .
+Semester: VII
 
-Time: 2.00 pm to 5.00 pm
+eae
 
-Date: 14 January 2019 © ¢
-* Durations: 3 (hrs)
+PATS >, SS
 
-y No. of Pages:_ O2—
-Re-examination (2016-17)
+AO NIN ca
+is ~e 4
 
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover ofthe answer book, which is provided for their use.
+"ed PSTME B)
+
+Academic Year: 2015-2016
+
+Subject: Wireless Communication Technology
+Marks
+
+Date: 03/12/2015
+
+Time 4, "10.00 am to 4, obtpm
+Durations “+ 23 ag 2 ay
+Final-Examination SY si i Seetee
+
+Instruction: Candidates should read carefully the instructions printed on the question paper a8 on the cover
+of the answer book, which is provided for their use.
+NB:
 
 1) Question No. 1.is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on.a fresh page.
-6) Figures on the right hand side indicate full marks.
-
-7) Assume_csuitable data if necessary.
-
-Q.l Answer the following : (Any 3) , 12
-a. Explain Cell dragging. 4
-b. List any four specifications of GSM. 4
-c. Define large scale and small scale propagation model. 4
-d. Discuss soft handoff in CDMA. 4
-
-Q2 a. Explain Microcell Zone concept to improve capacity of cellular system. 06
-
-b. Explain Proper and improper Handoff Situation with the help of diagram. 06
-
-3a. Derive the electric field strength using two-ray Ground Reflection model. 06
-
-——- b. — Explain GSM system architecture along with interfaces in detail with 06
-suitable diagram.
-
-a. Explain open loop and closed loop power control in detail in CDMA. 06
-
-b. — Explain AMPS voice modulation process with diagram. 06
---- page 2 ---
-Q.5
-
-Q.6
-
-Q.7
-
-Write features of DECT. Explain its functional concept.
-
-Explain Pure Aloha and Slotted Aloha along with its throughput.
-
-Explain UMTS architecture with suitable diagram.
-
-Discuss CDMA IS-95 Reverse channel modulation process.
-
-Write short notes on:(any two)
-
-Types of small scale fading
-
-WLL (TR-45) Architecture
-
-Supervisory audio tone and signaling tone in AMPS.
-
-2/2
-
-06
-
-06
-
-06
-06
-
-12
-06
-06
-06
-````
-
-## 2016-17 · Re-Exam · Sem 7 · paper 23b3c46b9c5b
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY RE EXAM 2016-17.pdf`
-- Printed on paper: exam date: 16 November 2018
-- Text: ocr (1 page), mean OCR confidence 90.9
-
-````text
-O SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) © Year: IV Semester: VII
-
-j Academic Year: 2018-2019
-
-Subject: Wireless Communication Technology ~
-
-Date: 16 November 2018 + Time: 2.00 p
-
-No. of Pages! Is
-4 cy aS
-‘ Om SX
-Re-examination (2016-17) Ts
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -2454,50 +2548,38 @@ cover of the Answer Book, which is provided for their use.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started ona fresh page.
+5) Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
+6) Figures on the right hand side indicate fuii marks.
 
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary
 
-Q.1 Attempt all questions
-a) What is meant by frequency reuse or frequency planning? 03
-b) What are the three basic propagation mechanisms which impact propagation in a mobile 03
-communication system?
-c) What is Grade of service? How are Erlang B formula and Erlang C formula used in 03
-cellular system.
-d) What are the effects of multi path propagation on CDMA? 03
-Q.2
+Q.1 Answer the following : (Any 3) 12
+a. Explain Umbrella cell approach. 4
+b. _ Explain the supervisory signals used in AMPS. 4
+c. Explain GSM services and features. 4
+d. | Compare WCDMA and CDMA 2000. 4
 
-If a signal-to-interference ratio of 15 dB is required for satisfactory forward channel
-performance of a cellular system, what is the frequency reuse factor and cluster size that
-should be used for maximum capacity if the path loss exponent is
+Q.2 a. Discuss the cell splitting and sectoring methods for improving the capacity of cellular 06
 
-A) _ _% 08
-(a)n=4, (b) n= 3?
-Assume that there are six cochannel cells in the first tier, and all of them are at the same
-distance from the mobile. Use suitable approximations.
+system.
+b. Discuss the effects of fading due to multipath time delay spread and due to Doppler 06
+spread.
+Q.3 a. Discuss the UMTS architecture along with the interfaces. 06
+- b. Discuss the TDMA frame and the types of burst used in GSM system. 06
+Q4 a. Discuss the handoff and the power control mechanism in CDMA System. 06
+b. Discuss the TR-45 WLL reference model. 06
+Q.5 a. Discuss the IS-95 (CDMA) forward channel modulation with the necessary 06
+justification of every block.
+b. Discuss CT2 system and its specifications. 06
+Q.6 a. Discuss DECT specifications and its functional concept. 06
+b. Discuss the GSM architecture. 06
+Q.7 Attempt any two of the following.
+a. AMPS call handling 06
+b. | GSM authentication and encryption 06
+c. Pure ALOHA and slotted ALOHA system 06
 
-B) What is Cordless System? Debrief it with mentioning limitations. 04
-3
-A) Explain Two Ray Ground Reflection Model 06
-B) With neat labeled block diagram explain RAKE Receiver 06
-Q.4
-A) Write a short note on GSM Architecture 06
-B) Explain Forward Channels in WCDMA and CDMA2000 06
-Q.5
-What is the forward and reverse link frequency for AMPS? Write the specifications of
-se ‘)   DECT. 7
-B) What is DECT? Explain it in brief. 04
-Q6
-A) Explain handover technique Cellular Radio. State types of Hand over. 04
-B) Draw the neat schematic of UTRAN Architecture and explain it. 08
-Q.7
-A) Write a Short Note on 4G Network. 05
-® B) What is WLL in networking? What is a loop in telecommunication? 03
-C) Discuss the deployment issues in WLL development 04
-
-t/t.
+fs
 ````
 
 ## 2015-16 · Final-Exam · Sem 7 · paper fe1211928031
@@ -2580,6 +2662,119 @@ Q.7 (a) Provide operational view of WLL in detail 6
 (b) Explain how capacity is increased and interference is reduced in cell sectoring 6
 
 oy,
+````
+
+## 2015-16 · Re-Exam · Sem 7 · paper d3f52a2bbf67
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY B TECH (ELECTRONICS), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 03/12/2015
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Electronics) Year: IV Semester: VII
+Batch: 2014-2015
+Academic Year: 2015-2016
+
+Subject: Wireless Communication Technology
+
+Marks: %e.,
+Date: 03/12/2015 Time: wPerpe Vo \
+Duration: si;
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+01. Solve any four ; Marks \2
+a) Explain frequency reuse concept. a
+b) Write a short note on CDMA 2000. iS)
+c) Explain RAKE receiver. 3
+d) Differentiate between FHSS and DSSS. 3
+e) Explain the wireless LAN topologies. 3
+02. a)” Ifasignal to interference ratio of 15dB is required for satisfactory forward 6
+
+channel performance of a cellular system, what is the frequency reuse factor
+and cluster size that should be used for maximum capacity if the path loss
+exponent is (i) n= 4, (ii) n= 3. Assume that there are 6 co-channel cells in the
+first tier and all of them are at the same distance from the mobile. Use-
+suitable approximation.
+
+b) Explain the architecture of DECT system with a neat sketch. 6
+
+03 a) Write ashort note on UTRAN system architecture with the help of a suitable 6
+
+diagram.
+b) Differentiate between soft and hard handoff. 4
+c) List the specifications of GSM system. 4
+
+bp
+--- page 2 ---
+04
+
+05
+
+06
+
+07
+
+b)
+
+a)
+
+b)
+
+Explain IEEE 302.111 wireless LAN standard in detail with suitable diagram.
+
+Explain the Packet radio protocols in detail with a neat sketch.
+
+What is the role of following for IS-95 CDMA forward channel with the help of
+
+neat sketch.
+(i)Long Code Generator
+(ii)Decimator
+(iii) Walsh Code Generator
+{iv)Block interleaver
+
+Explain WLL architecture highlighting IWF interfaces.
+
+Explain signal processing in GSM with suitable diagram.
+Explain the Ground Reflection (Two Ray) model in detail.
+
+Write short notes on
+Explain different types of Carrier Sense Multiple Access (CSMA) protocols
+
+Knife edge diffraction.
+
+Ifa total of 33MHz of bandwidth is allocated to a particular FDD cellular
+telephone system which uses two 25 KHz simplex channels to provide full
+duplex voice and.control channels, compute the number of channels available
+per cell if s system uses (i) 4 cell resue, (ii) 7 cell reuse and (iii) 12 cell reuse. If
+4MHz of the allocated spectrum is dedicated to control channels, determine
+an equitable distribution of control channels and voice channels in each cell
+for each of the 3 systems.
+
+x
+
+2
 ````
 
 ## 2015-16 · Re-Exam · Sem 7 · paper c64c97916b23
@@ -2796,88 +2991,6 @@ x
 20
 ````
 
-## 2014-15 · Final-Exam · Sem 7 · paper bc522d5acd2c
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY B TECH (ELECTRONICS), 2014-15 FINAL EXAM.pdf`
-- Printed on paper: exam date: 03/12/2015
-- Text: ocr (1 page), mean OCR confidence 86.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Electronics) Year: IV
-
-Semester: VII
-
-eae
-
-PATS >, SS
-
-AO NIN ca
-is ~e 4
-
-"ed PSTME B)
-
-Academic Year: 2015-2016
-
-Subject: Wireless Communication Technology
-Marks
-
-Date: 03/12/2015
-
-Time 4, "10.00 am to 4, obtpm
-Durations “+ 23 ag 2 ay
-Final-Examination SY si i Seetee
-
-Instruction: Candidates should read carefully the instructions printed on the question paper a8 on the cover
-of the answer book, which is provided for their use.
-NB:
-
-1) Question No. 1.is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures on the right hand side indicate fuii marks.
-
-7) Assume Suitable data if necessary
-
-Q.1 Answer the following : (Any 3) 12
-a. Explain Umbrella cell approach. 4
-b. _ Explain the supervisory signals used in AMPS. 4
-c. Explain GSM services and features. 4
-d. | Compare WCDMA and CDMA 2000. 4
-
-Q.2 a. Discuss the cell splitting and sectoring methods for improving the capacity of cellular 06
-
-system.
-b. Discuss the effects of fading due to multipath time delay spread and due to Doppler 06
-spread.
-Q.3 a. Discuss the UMTS architecture along with the interfaces. 06
-- b. Discuss the TDMA frame and the types of burst used in GSM system. 06
-Q4 a. Discuss the handoff and the power control mechanism in CDMA System. 06
-b. Discuss the TR-45 WLL reference model. 06
-Q.5 a. Discuss the IS-95 (CDMA) forward channel modulation with the necessary 06
-justification of every block.
-b. Discuss CT2 system and its specifications. 06
-Q.6 a. Discuss DECT specifications and its functional concept. 06
-b. Discuss the GSM architecture. 06
-Q.7 Attempt any two of the following.
-a. AMPS call handling 06
-b. | GSM authentication and encryption 06
-c. Pure ALOHA and slotted ALOHA system 06
-
-fs
-````
-
 ## 2014-15 · Final-Exam · Sem 7 · paper fb6a16b2d301
 
 - Departments: Electronics and Telecommunication
@@ -3077,119 +3190,6 @@ handoff in sectoring approach and yet increases capacity.
 fa taal
 
 aa
-````
-
-## 2014-15 · Re-Exam · Sem 7 · paper d3f52a2bbf67
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY B TECH (ELECTRONICS), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 03/12/2015
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Electronics) Year: IV Semester: VII
-Batch: 2014-2015
-Academic Year: 2015-2016
-
-Subject: Wireless Communication Technology
-
-Marks: %e.,
-Date: 03/12/2015 Time: wPerpe Vo \
-Duration: si;
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-01. Solve any four ; Marks \2
-a) Explain frequency reuse concept. a
-b) Write a short note on CDMA 2000. iS)
-c) Explain RAKE receiver. 3
-d) Differentiate between FHSS and DSSS. 3
-e) Explain the wireless LAN topologies. 3
-02. a)” Ifasignal to interference ratio of 15dB is required for satisfactory forward 6
-
-channel performance of a cellular system, what is the frequency reuse factor
-and cluster size that should be used for maximum capacity if the path loss
-exponent is (i) n= 4, (ii) n= 3. Assume that there are 6 co-channel cells in the
-first tier and all of them are at the same distance from the mobile. Use-
-suitable approximation.
-
-b) Explain the architecture of DECT system with a neat sketch. 6
-
-03 a) Write ashort note on UTRAN system architecture with the help of a suitable 6
-
-diagram.
-b) Differentiate between soft and hard handoff. 4
-c) List the specifications of GSM system. 4
-
-bp
---- page 2 ---
-04
-
-05
-
-06
-
-07
-
-b)
-
-a)
-
-b)
-
-Explain IEEE 302.111 wireless LAN standard in detail with suitable diagram.
-
-Explain the Packet radio protocols in detail with a neat sketch.
-
-What is the role of following for IS-95 CDMA forward channel with the help of
-
-neat sketch.
-(i)Long Code Generator
-(ii)Decimator
-(iii) Walsh Code Generator
-{iv)Block interleaver
-
-Explain WLL architecture highlighting IWF interfaces.
-
-Explain signal processing in GSM with suitable diagram.
-Explain the Ground Reflection (Two Ray) model in detail.
-
-Write short notes on
-Explain different types of Carrier Sense Multiple Access (CSMA) protocols
-
-Knife edge diffraction.
-
-Ifa total of 33MHz of bandwidth is allocated to a particular FDD cellular
-telephone system which uses two 25 KHz simplex channels to provide full
-duplex voice and.control channels, compute the number of channels available
-per cell if s system uses (i) 4 cell resue, (ii) 7 cell reuse and (iii) 12 cell reuse. If
-4MHz of the allocated spectrum is dedicated to control channels, determine
-an equitable distribution of control channels and voice channels in each cell
-for each of the 3 systems.
-
-x
-
-2
 ````
 
 ## 2014-15 · Re-Exam · Sem 7 · paper 62600c73753c

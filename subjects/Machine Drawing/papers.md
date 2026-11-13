@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/MACHINE DRAWING/Machine Drawing Batch 2024-25 Final.pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 67.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 > ‘
@@ -84,7 +85,6 @@ Mop &/= i
 
 =/3|318 SISIS| s 1 ~|
 
-STZ RS] S ty BA cs
 S '
 
 bed Bd ea ad iad Dd had bd -
@@ -201,7 +201,6 @@ Fundamental deviation in microns
 (1 micron = 0,001 mm)
 Diameter - _ Upper deviation (es) Lower deviation (ci)
 c steps in mm . jet
-« b c d e f 8 bl j &
 over | upto ; All grades 5.6 7 8 | 4t07/53,>7
 - “8 | -270| -140 | -o | -20/ -1 | -6 | -2 C) -2 | -4 -6 | -0/] -o
 3 6 —270 | —140'| -70 | -30 | -20 | -10 | 4 ° “Lg -4 — | +1 °
@@ -334,6 +333,7 @@ oo | 65 |-s2] -41 | ~53 | -65 | ~37 |-102| -122| ~ 144 |~ 172 | ~ 226 |~ 300] -4
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/MACHINE DRAWING/Machine Drawing , Final 2023-2024.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 80.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -511,7 +511,6 @@ Table 15.2 Fundamental deviations for shafts of types a to k of sizes upto 500mm
 Fundamental deviation in microns (1 micron:#0,001-mm)
 Diameter Upper deviation (es) Lower deviation (ei)
 steps in mm is*
-a b c d e f g h j k
 
 over | upto All grades 5.6 7 8 | 4to7}<3,>7
 _ *3 | -270| -140 | -60 | -20] -14 | -6 "| -2 tC) -2 | -4 -6 | -o | -o
@@ -580,6 +579,7 @@ yr
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/MACHINE DRAWING/Machine Drawing ,Re-exam 2023-24.pdf` (+2 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 J . 17 [02 2% = 10'c0om
@@ -739,7 +739,6 @@ sa
 
 Diameter Upper deviation (es) Lower deviation (ci)
 steps in mm Js*
-a b © d e f g h i &
 over | upto All grades 5.6 7 8 4to7|<3,>7
 = *3 - 270 | - 140 | -60 - 20 -14 -6 | -2 0 -2 -4 -6 -0 -0
 3 6 -270 | -140 | -70 -30 ~ 20 -10 -4 0 -2 -4 _ +1 it)

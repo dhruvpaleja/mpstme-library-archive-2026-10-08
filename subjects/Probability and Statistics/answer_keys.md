@@ -1635,6 +1635,8 @@ FRI ID AFR RK
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Civil_7005/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (13 pages), mean OCR confidence 35.6
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1671,17 +1673,13 @@ ae Sal" esis ———.
 At Stl, L9s @ for drow dusted feat 29 AX =1-9G—-» Im
 : elem Yo te accepted —> im
 
-©} e) Salving Un-Sy42az-0 2 con-9y- lop simul fonerwnn
 
-= qe y= 13 Y= i+ is in
 eee —
 im
-Let 4. S}+22-0 be Yrm equ” y= g4+ 23 > byne 4 ae
 =
 
 a Dae e ee 7 a > as 34192.5 bay 3 =O,US_» Jw
 
-vet) boy. bys Joeoue = 9.6 ——s ym
 
 Q2) a) Lot ne Soil temporodwre Y= Germinctin Sct).
 
@@ -1725,7 +1723,6 @@ z+ 68 = —_
 a oe 2.045 > a O. WEF D {= 0. $893 — Pam
 
 A ny
-m Bivomial Aithidin is DPD=“onprg* = Fens O-Mi7C0-S853) — 1 -
 
 a ° \ 2 2 y S
 
@@ -1749,7 +1746,6 @@ iel= | 33 = 2.436 —_ 36
 
 = a 621.96 — = im
 
-IM Se], ws Kefor hse Febled lial, ele =
 \>ZK > Yo Is qected|
 
 jal>24 rey
@@ -1760,7 +1756,6 @@ FIC 7) IC HOH
 --- page 5 ---
 63) 9) Given! Mel2, 6-3 , N =too cm Sie 4 battery
 
-%) porris)=p(z7i)= Aen to tte shed % |
 =0.6- Area bet” zac Qz=1
 atl | yz =0.5— 0,.3W8 = 0.1682 ~15. 8F°/, zm
 
@@ -1783,7 +1778,6 @@ i) Plocnct) = p (0.664220 .662)«hren bet™ 8.6640 0- “|
 
 —046, o6b -
 
-© 3) ») Giver * M=10. = No.4 poor qeavuilies Ne popledion ,
 Tow}! 4 Bic} DIE] F] G4 | |a
 
 Al [S] ISP te] 6] nw fi4l] fg ire
@@ -1816,20 +1810,17 @@ Si. mire erik: >)
 
 FEISS (5 FC ICRF
 --- page 6 ---
-©2) ) frsume Hor Abbibutes owe, Fdeperdent
 Hit Adbibctes ore, depend : tn Mi
 Esipected values | »
 
 Ue S public Be nat ie
 
-dranspert —_|Prblic trarsport ote
 
 Urban | 150 100 260
 = s | om
 Ruel | So lon 260 aan
 tote) ; 250 QD Con ,
 Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
-*“b z es - 150 t \o® ie 1oo
 =
 = O+4+6+4 =
 = 80
@@ -1842,14 +1833,12 @@ Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
 —__—s {mM
 
 a a
-b> pa 2D Ho is FY S —_—
 
 64) A) Let m= Nours Study Y= Werks
 2 TAY = 2210 ) T4219 —" 2™
 
 i's. » ey —-
 
-Ge Py ee y Ts tl Cte. 3S
 Val
 
 - Fd .
@@ -1913,7 +1902,6 @@ FIC QF OH ar
 im
 
 Be Studeut f< v commence \ PCE) = 0 Me
-Ler He shdet fo tsitt. dthchtn .
 
 ; + puja) = 0.95 2 P(A/e)-0.00 —+ 2m
 PCAla) = PCA) pHa) ——_ Im
@@ -1927,7 +1915,6 @@ pd pCM/A)+ PD P(e) =
 ©») b) b) Given for) - pee ,olye)
 lane ‘
 
-Meam = Ets) = *Cafendn ose =6 (Gasp —™
 cats at }'=6[4-4]= 0.9= && —oim
 ae)" Fffesnen = = fine “(ots _. im
 
@@ -1937,7 +1924,6 @@ ae)" Fffesnen = = fine “(ots _. im
 
 —— 2M.
 
-@5) <) ©) Arcume Ho: Al] Vehides fas come wean fuel offi effin
 —_ H.. At least are velcle los dithered yen fd ebhicion
 
 K= 9, mmMaeMses MHI T= FF Ta= 59 e-t2d¢nz281m
@@ -1960,7 +1946,6 @@ FOI 7 QF ICR Ir
 --- page 11 ---
 @e) 4) w=1.¢ A= No. 9 breakdowns
 
-4 &) b) bet A= Diver cnceed Lanit > p CA) = 0. 6s ]
 
 Poisson distbutin > peas ew"L Z!8 yg”
 
@@ -1969,7 +1954,6 @@ ae °
 
 “1 ime -",
 
-3H) pCnes) = peor=0u1 d= Faye penspen }
 =o, Ata 28 oP. 0.F306
 
 ity PCax2) =f- porea) = pr pore 0 »
@@ -2010,7 +1994,6 @@ Beet aes
 = 0.995F¢—» I
 
 At S*/. 10s 2fSs tise eiledfest ZK='.4G6 — iv
-leleZs a He ts accepstea} ———n bw
 
 ean Re
 --- page 12 ---
@@ -2068,7 +2051,6 @@ tt - _ Ee.
 
 = pedis — im
 
-AL s’l,.0s,fer me teil od fest 4 pof=nM2-2 =16
 =) thm! 346 ——> im
 
 —_
@@ -2087,6 +2069,8 @@ FOI 7 2 FC CR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_CyberSecurity_7010/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (13 pages), mean OCR confidence 35.6
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2123,17 +2107,13 @@ ae Sal" esis ———.
 At Stl, L9s @ for drow dusted feat 29 AX =1-9G—-» Im
 : elem Yo te accepted —> im
 
-©} e) Salving Un-Sy42az-0 2 con-9y- lop simul fonerwnn
 
-= qe y= 13 Y= i+ is in
 eee —
 im
-Let 4. S}+22-0 be Yrm equ” y= g4+ 23 > byne 4 ae
 =
 
 a Dae e ee 7 a > as 34192.5 bay 3 =O,US_» Jw
 
-vet) boy. bys Joeoue = 9.6 ——s ym
 
 Q2) a) Lot ne Soil temporodwre Y= Germinctin Sct).
 
@@ -2177,7 +2157,6 @@ z+ 68 = —_
 a oe 2.045 > a O. WEF D {= 0. $893 — Pam
 
 A ny
-m Bivomial Aithidin is DPD=“onprg* = Fens O-Mi7C0-S853) — 1 -
 
 a ° \ 2 2 y S
 
@@ -2201,7 +2180,6 @@ iel= | 33 = 2.436 —_ 36
 
 = a 621.96 — = im
 
-IM Se], ws Kefor hse Febled lial, ele =
 \>ZK > Yo Is qected|
 
 jal>24 rey
@@ -2212,7 +2190,6 @@ FIC 7) IC HOH
 --- page 5 ---
 63) 9) Given! Mel2, 6-3 , N =too cm Sie 4 battery
 
-%) porris)=p(z7i)= Aen to tte shed % |
 =0.6- Area bet” zac Qz=1
 atl | yz =0.5— 0,.3W8 = 0.1682 ~15. 8F°/, zm
 
@@ -2235,7 +2212,6 @@ i) Plocnct) = p (0.664220 .662)«hren bet™ 8.6640 0- “|
 
 —046, o6b -
 
-© 3) ») Giver * M=10. = No.4 poor qeavuilies Ne popledion ,
 Tow}! 4 Bic} DIE] F] G4 | |a
 
 Al [S] ISP te] 6] nw fi4l] fg ire
@@ -2268,20 +2244,17 @@ Si. mire erik: >)
 
 FEISS (5 FC ICRF
 --- page 6 ---
-©2) ) frsume Hor Abbibutes owe, Fdeperdent
 Hit Adbibctes ore, depend : tn Mi
 Esipected values | »
 
 Ue S public Be nat ie
 
-dranspert —_|Prblic trarsport ote
 
 Urban | 150 100 260
 = s | om
 Ruel | So lon 260 aan
 tote) ; 250 QD Con ,
 Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
-*“b z es - 150 t \o® ie 1oo
 =
 = O+4+6+4 =
 = 80
@@ -2294,14 +2267,12 @@ Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
 —__—s {mM
 
 a a
-b> pa 2D Ho is FY S —_—
 
 64) A) Let m= Nours Study Y= Werks
 2 TAY = 2210 ) T4219 —" 2™
 
 i's. » ey —-
 
-Ge Py ee y Ts tl Cte. 3S
 Val
 
 - Fd .
@@ -2365,7 +2336,6 @@ FIC QF OH ar
 im
 
 Be Studeut f< v commence \ PCE) = 0 Me
-Ler He shdet fo tsitt. dthchtn .
 
 ; + puja) = 0.95 2 P(A/e)-0.00 —+ 2m
 PCAla) = PCA) pHa) ——_ Im
@@ -2379,7 +2349,6 @@ pd pCM/A)+ PD P(e) =
 ©») b) b) Given for) - pee ,olye)
 lane ‘
 
-Meam = Ets) = *Cafendn ose =6 (Gasp —™
 cats at }'=6[4-4]= 0.9= && —oim
 ae)" Fffesnen = = fine “(ots _. im
 
@@ -2389,7 +2358,6 @@ ae)" Fffesnen = = fine “(ots _. im
 
 —— 2M.
 
-@5) <) ©) Arcume Ho: Al] Vehides fas come wean fuel offi effin
 —_ H.. At least are velcle los dithered yen fd ebhicion
 
 K= 9, mmMaeMses MHI T= FF Ta= 59 e-t2d¢nz281m
@@ -2412,7 +2380,6 @@ FOI 7 QF ICR Ir
 --- page 11 ---
 @e) 4) w=1.¢ A= No. 9 breakdowns
 
-4 &) b) bet A= Diver cnceed Lanit > p CA) = 0. 6s ]
 
 Poisson distbutin > peas ew"L Z!8 yg”
 
@@ -2421,7 +2388,6 @@ ae °
 
 “1 ime -",
 
-3H) pCnes) = peor=0u1 d= Faye penspen }
 =o, Ata 28 oP. 0.F306
 
 ity PCax2) =f- porea) = pr pore 0 »
@@ -2462,7 +2428,6 @@ Beet aes
 = 0.995F¢—» I
 
 At S*/. 10s 2fSs tise eiledfest ZK='.4G6 — iv
-leleZs a He ts accepstea} ———n bw
 
 ean Re
 --- page 12 ---
@@ -2520,7 +2485,6 @@ tt - _ Ee.
 
 = pedis — im
 
-AL s’l,.0s,fer me teil od fest 4 pof=nM2-2 =16
 =) thm! 346 ——> im
 
 —_
@@ -2539,6 +2503,8 @@ FOI 7 2 FC CR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_EXTC_7006/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (13 pages), mean OCR confidence 35.6
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2575,17 +2541,13 @@ ae Sal" esis ———.
 At Stl, L9s @ for drow dusted feat 29 AX =1-9G—-» Im
 : elem Yo te accepted —> im
 
-©} e) Salving Un-Sy42az-0 2 con-9y- lop simul fonerwnn
 
-= qe y= 13 Y= i+ is in
 eee —
 im
-Let 4. S}+22-0 be Yrm equ” y= g4+ 23 > byne 4 ae
 =
 
 a Dae e ee 7 a > as 34192.5 bay 3 =O,US_» Jw
 
-vet) boy. bys Joeoue = 9.6 ——s ym
 
 Q2) a) Lot ne Soil temporodwre Y= Germinctin Sct).
 
@@ -2629,7 +2591,6 @@ z+ 68 = —_
 a oe 2.045 > a O. WEF D {= 0. $893 — Pam
 
 A ny
-m Bivomial Aithidin is DPD=“onprg* = Fens O-Mi7C0-S853) — 1 -
 
 a ° \ 2 2 y S
 
@@ -2653,7 +2614,6 @@ iel= | 33 = 2.436 —_ 36
 
 = a 621.96 — = im
 
-IM Se], ws Kefor hse Febled lial, ele =
 \>ZK > Yo Is qected|
 
 jal>24 rey
@@ -2664,7 +2624,6 @@ FIC 7) IC HOH
 --- page 5 ---
 63) 9) Given! Mel2, 6-3 , N =too cm Sie 4 battery
 
-%) porris)=p(z7i)= Aen to tte shed % |
 =0.6- Area bet” zac Qz=1
 atl | yz =0.5— 0,.3W8 = 0.1682 ~15. 8F°/, zm
 
@@ -2687,7 +2646,6 @@ i) Plocnct) = p (0.664220 .662)«hren bet™ 8.6640 0- “|
 
 —046, o6b -
 
-© 3) ») Giver * M=10. = No.4 poor qeavuilies Ne popledion ,
 Tow}! 4 Bic} DIE] F] G4 | |a
 
 Al [S] ISP te] 6] nw fi4l] fg ire
@@ -2720,20 +2678,17 @@ Si. mire erik: >)
 
 FEISS (5 FC ICRF
 --- page 6 ---
-©2) ) frsume Hor Abbibutes owe, Fdeperdent
 Hit Adbibctes ore, depend : tn Mi
 Esipected values | »
 
 Ue S public Be nat ie
 
-dranspert —_|Prblic trarsport ote
 
 Urban | 150 100 260
 = s | om
 Ruel | So lon 260 aan
 tote) ; 250 QD Con ,
 Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
-*“b z es - 150 t \o® ie 1oo
 =
 = O+4+6+4 =
 = 80
@@ -2746,14 +2701,12 @@ Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
 —__—s {mM
 
 a a
-b> pa 2D Ho is FY S —_—
 
 64) A) Let m= Nours Study Y= Werks
 2 TAY = 2210 ) T4219 —" 2™
 
 i's. » ey —-
 
-Ge Py ee y Ts tl Cte. 3S
 Val
 
 - Fd .
@@ -2817,7 +2770,6 @@ FIC QF OH ar
 im
 
 Be Studeut f< v commence \ PCE) = 0 Me
-Ler He shdet fo tsitt. dthchtn .
 
 ; + puja) = 0.95 2 P(A/e)-0.00 —+ 2m
 PCAla) = PCA) pHa) ——_ Im
@@ -2831,7 +2783,6 @@ pd pCM/A)+ PD P(e) =
 ©») b) b) Given for) - pee ,olye)
 lane ‘
 
-Meam = Ets) = *Cafendn ose =6 (Gasp —™
 cats at }'=6[4-4]= 0.9= && —oim
 ae)" Fffesnen = = fine “(ots _. im
 
@@ -2841,7 +2792,6 @@ ae)" Fffesnen = = fine “(ots _. im
 
 —— 2M.
 
-@5) <) ©) Arcume Ho: Al] Vehides fas come wean fuel offi effin
 —_ H.. At least are velcle los dithered yen fd ebhicion
 
 K= 9, mmMaeMses MHI T= FF Ta= 59 e-t2d¢nz281m
@@ -2864,7 +2814,6 @@ FOI 7 QF ICR Ir
 --- page 11 ---
 @e) 4) w=1.¢ A= No. 9 breakdowns
 
-4 &) b) bet A= Diver cnceed Lanit > p CA) = 0. 6s ]
 
 Poisson distbutin > peas ew"L Z!8 yg”
 
@@ -2873,7 +2822,6 @@ ae °
 
 “1 ime -",
 
-3H) pCnes) = peor=0u1 d= Faye penspen }
 =o, Ata 28 oP. 0.F306
 
 ity PCax2) =f- porea) = pr pore 0 »
@@ -2914,7 +2862,6 @@ Beet aes
 = 0.995F¢—» I
 
 At S*/. 10s 2fSs tise eiledfest ZK='.4G6 — iv
-leleZs a He ts accepstea} ———n bw
 
 ean Re
 --- page 12 ---
@@ -2972,7 +2919,6 @@ tt - _ Ee.
 
 = pedis — im
 
-AL s’l,.0s,fer me teil od fest 4 pof=nM2-2 =16
 =) thm! 346 ——> im
 
 —_
@@ -2991,6 +2937,8 @@ FOI 7 2 FC CR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_IT_7001/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (13 pages), mean OCR confidence 35.6
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3027,17 +2975,13 @@ ae Sal" esis ———.
 At Stl, L9s @ for drow dusted feat 29 AX =1-9G—-» Im
 : elem Yo te accepted —> im
 
-©} e) Salving Un-Sy42az-0 2 con-9y- lop simul fonerwnn
 
-= qe y= 13 Y= i+ is in
 eee —
 im
-Let 4. S}+22-0 be Yrm equ” y= g4+ 23 > byne 4 ae
 =
 
 a Dae e ee 7 a > as 34192.5 bay 3 =O,US_» Jw
 
-vet) boy. bys Joeoue = 9.6 ——s ym
 
 Q2) a) Lot ne Soil temporodwre Y= Germinctin Sct).
 
@@ -3081,7 +3025,6 @@ z+ 68 = —_
 a oe 2.045 > a O. WEF D {= 0. $893 — Pam
 
 A ny
-m Bivomial Aithidin is DPD=“onprg* = Fens O-Mi7C0-S853) — 1 -
 
 a ° \ 2 2 y S
 
@@ -3105,7 +3048,6 @@ iel= | 33 = 2.436 —_ 36
 
 = a 621.96 — = im
 
-IM Se], ws Kefor hse Febled lial, ele =
 \>ZK > Yo Is qected|
 
 jal>24 rey
@@ -3116,7 +3058,6 @@ FIC 7) IC HOH
 --- page 5 ---
 63) 9) Given! Mel2, 6-3 , N =too cm Sie 4 battery
 
-%) porris)=p(z7i)= Aen to tte shed % |
 =0.6- Area bet” zac Qz=1
 atl | yz =0.5— 0,.3W8 = 0.1682 ~15. 8F°/, zm
 
@@ -3139,7 +3080,6 @@ i) Plocnct) = p (0.664220 .662)«hren bet™ 8.6640 0- “|
 
 —046, o6b -
 
-© 3) ») Giver * M=10. = No.4 poor qeavuilies Ne popledion ,
 Tow}! 4 Bic} DIE] F] G4 | |a
 
 Al [S] ISP te] 6] nw fi4l] fg ire
@@ -3172,20 +3112,17 @@ Si. mire erik: >)
 
 FEISS (5 FC ICRF
 --- page 6 ---
-©2) ) frsume Hor Abbibutes owe, Fdeperdent
 Hit Adbibctes ore, depend : tn Mi
 Esipected values | »
 
 Ue S public Be nat ie
 
-dranspert —_|Prblic trarsport ote
 
 Urban | 150 100 260
 = s | om
 Ruel | So lon 260 aan
 tote) ; 250 QD Con ,
 Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
-*“b z es - 150 t \o® ie 1oo
 =
 = O+4+6+4 =
 = 80
@@ -3198,14 +3135,12 @@ Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
 —__—s {mM
 
 a a
-b> pa 2D Ho is FY S —_—
 
 64) A) Let m= Nours Study Y= Werks
 2 TAY = 2210 ) T4219 —" 2™
 
 i's. » ey —-
 
-Ge Py ee y Ts tl Cte. 3S
 Val
 
 - Fd .
@@ -3269,7 +3204,6 @@ FIC QF OH ar
 im
 
 Be Studeut f< v commence \ PCE) = 0 Me
-Ler He shdet fo tsitt. dthchtn .
 
 ; + puja) = 0.95 2 P(A/e)-0.00 —+ 2m
 PCAla) = PCA) pHa) ——_ Im
@@ -3283,7 +3217,6 @@ pd pCM/A)+ PD P(e) =
 ©») b) b) Given for) - pee ,olye)
 lane ‘
 
-Meam = Ets) = *Cafendn ose =6 (Gasp —™
 cats at }'=6[4-4]= 0.9= && —oim
 ae)" Fffesnen = = fine “(ots _. im
 
@@ -3293,7 +3226,6 @@ ae)" Fffesnen = = fine “(ots _. im
 
 —— 2M.
 
-@5) <) ©) Arcume Ho: Al] Vehides fas come wean fuel offi effin
 —_ H.. At least are velcle los dithered yen fd ebhicion
 
 K= 9, mmMaeMses MHI T= FF Ta= 59 e-t2d¢nz281m
@@ -3316,7 +3248,6 @@ FOI 7 QF ICR Ir
 --- page 11 ---
 @e) 4) w=1.¢ A= No. 9 breakdowns
 
-4 &) b) bet A= Diver cnceed Lanit > p CA) = 0. 6s ]
 
 Poisson distbutin > peas ew"L Z!8 yg”
 
@@ -3325,7 +3256,6 @@ ae °
 
 “1 ime -",
 
-3H) pCnes) = peor=0u1 d= Faye penspen }
 =o, Ata 28 oP. 0.F306
 
 ity PCax2) =f- porea) = pr pore 0 »
@@ -3366,7 +3296,6 @@ Beet aes
 = 0.995F¢—» I
 
 At S*/. 10s 2fSs tise eiledfest ZK='.4G6 — iv
-leleZs a He ts accepstea} ———n bw
 
 ean Re
 --- page 12 ---
@@ -3424,7 +3353,6 @@ tt - _ Ee.
 
 = pedis — im
 
-AL s’l,.0s,fer me teil od fest 4 pof=nM2-2 =16
 =) thm! 346 ——> im
 
 —_
@@ -3443,6 +3371,8 @@ FOI 7 2 FC CR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Mechanical_7003/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (13 pages), mean OCR confidence 35.6
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3479,17 +3409,13 @@ ae Sal" esis ———.
 At Stl, L9s @ for drow dusted feat 29 AX =1-9G—-» Im
 : elem Yo te accepted —> im
 
-©} e) Salving Un-Sy42az-0 2 con-9y- lop simul fonerwnn
 
-= qe y= 13 Y= i+ is in
 eee —
 im
-Let 4. S}+22-0 be Yrm equ” y= g4+ 23 > byne 4 ae
 =
 
 a Dae e ee 7 a > as 34192.5 bay 3 =O,US_» Jw
 
-vet) boy. bys Joeoue = 9.6 ——s ym
 
 Q2) a) Lot ne Soil temporodwre Y= Germinctin Sct).
 
@@ -3533,7 +3459,6 @@ z+ 68 = —_
 a oe 2.045 > a O. WEF D {= 0. $893 — Pam
 
 A ny
-m Bivomial Aithidin is DPD=“onprg* = Fens O-Mi7C0-S853) — 1 -
 
 a ° \ 2 2 y S
 
@@ -3557,7 +3482,6 @@ iel= | 33 = 2.436 —_ 36
 
 = a 621.96 — = im
 
-IM Se], ws Kefor hse Febled lial, ele =
 \>ZK > Yo Is qected|
 
 jal>24 rey
@@ -3568,7 +3492,6 @@ FIC 7) IC HOH
 --- page 5 ---
 63) 9) Given! Mel2, 6-3 , N =too cm Sie 4 battery
 
-%) porris)=p(z7i)= Aen to tte shed % |
 =0.6- Area bet” zac Qz=1
 atl | yz =0.5— 0,.3W8 = 0.1682 ~15. 8F°/, zm
 
@@ -3591,7 +3514,6 @@ i) Plocnct) = p (0.664220 .662)«hren bet™ 8.6640 0- “|
 
 —046, o6b -
 
-© 3) ») Giver * M=10. = No.4 poor qeavuilies Ne popledion ,
 Tow}! 4 Bic} DIE] F] G4 | |a
 
 Al [S] ISP te] 6] nw fi4l] fg ire
@@ -3624,20 +3546,17 @@ Si. mire erik: >)
 
 FEISS (5 FC ICRF
 --- page 6 ---
-©2) ) frsume Hor Abbibutes owe, Fdeperdent
 Hit Adbibctes ore, depend : tn Mi
 Esipected values | »
 
 Ue S public Be nat ie
 
-dranspert —_|Prblic trarsport ote
 
 Urban | 150 100 260
 = s | om
 Ruel | So lon 260 aan
 tote) ; 250 QD Con ,
 Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
-*“b z es - 150 t \o® ie 1oo
 =
 = O+4+6+4 =
 = 80
@@ -3650,14 +3569,12 @@ Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
 —__—s {mM
 
 a a
-b> pa 2D Ho is FY S —_—
 
 64) A) Let m= Nours Study Y= Werks
 2 TAY = 2210 ) T4219 —" 2™
 
 i's. » ey —-
 
-Ge Py ee y Ts tl Cte. 3S
 Val
 
 - Fd .
@@ -3721,7 +3638,6 @@ FIC QF OH ar
 im
 
 Be Studeut f< v commence \ PCE) = 0 Me
-Ler He shdet fo tsitt. dthchtn .
 
 ; + puja) = 0.95 2 P(A/e)-0.00 —+ 2m
 PCAla) = PCA) pHa) ——_ Im
@@ -3735,7 +3651,6 @@ pd pCM/A)+ PD P(e) =
 ©») b) b) Given for) - pee ,olye)
 lane ‘
 
-Meam = Ets) = *Cafendn ose =6 (Gasp —™
 cats at }'=6[4-4]= 0.9= && —oim
 ae)" Fffesnen = = fine “(ots _. im
 
@@ -3745,7 +3660,6 @@ ae)" Fffesnen = = fine “(ots _. im
 
 —— 2M.
 
-@5) <) ©) Arcume Ho: Al] Vehides fas come wean fuel offi effin
 —_ H.. At least are velcle los dithered yen fd ebhicion
 
 K= 9, mmMaeMses MHI T= FF Ta= 59 e-t2d¢nz281m
@@ -3768,7 +3682,6 @@ FOI 7 QF ICR Ir
 --- page 11 ---
 @e) 4) w=1.¢ A= No. 9 breakdowns
 
-4 &) b) bet A= Diver cnceed Lanit > p CA) = 0. 6s ]
 
 Poisson distbutin > peas ew"L Z!8 yg”
 
@@ -3777,7 +3690,6 @@ ae °
 
 “1 ime -",
 
-3H) pCnes) = peor=0u1 d= Faye penspen }
 =o, Ata 28 oP. 0.F306
 
 ity PCax2) =f- porea) = pr pore 0 »
@@ -3818,7 +3730,6 @@ Beet aes
 = 0.995F¢—» I
 
 At S*/. 10s 2fSs tise eiledfest ZK='.4G6 — iv
-leleZs a He ts accepstea} ———n bw
 
 ean Re
 --- page 12 ---
@@ -3876,7 +3787,6 @@ tt - _ Ee.
 
 = pedis — im
 
-AL s’l,.0s,fer me teil od fest 4 pof=nM2-2 =16
 =) thm! 346 ——> im
 
 —_
@@ -3895,6 +3805,8 @@ FOI 7 2 FC CR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Mechatronics_7004/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (13 pages), mean OCR confidence 35.6
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3931,17 +3843,13 @@ ae Sal" esis ———.
 At Stl, L9s @ for drow dusted feat 29 AX =1-9G—-» Im
 : elem Yo te accepted —> im
 
-©} e) Salving Un-Sy42az-0 2 con-9y- lop simul fonerwnn
 
-= qe y= 13 Y= i+ is in
 eee —
 im
-Let 4. S}+22-0 be Yrm equ” y= g4+ 23 > byne 4 ae
 =
 
 a Dae e ee 7 a > as 34192.5 bay 3 =O,US_» Jw
 
-vet) boy. bys Joeoue = 9.6 ——s ym
 
 Q2) a) Lot ne Soil temporodwre Y= Germinctin Sct).
 
@@ -3985,7 +3893,6 @@ z+ 68 = —_
 a oe 2.045 > a O. WEF D {= 0. $893 — Pam
 
 A ny
-m Bivomial Aithidin is DPD=“onprg* = Fens O-Mi7C0-S853) — 1 -
 
 a ° \ 2 2 y S
 
@@ -4009,7 +3916,6 @@ iel= | 33 = 2.436 —_ 36
 
 = a 621.96 — = im
 
-IM Se], ws Kefor hse Febled lial, ele =
 \>ZK > Yo Is qected|
 
 jal>24 rey
@@ -4020,7 +3926,6 @@ FIC 7) IC HOH
 --- page 5 ---
 63) 9) Given! Mel2, 6-3 , N =too cm Sie 4 battery
 
-%) porris)=p(z7i)= Aen to tte shed % |
 =0.6- Area bet” zac Qz=1
 atl | yz =0.5— 0,.3W8 = 0.1682 ~15. 8F°/, zm
 
@@ -4043,7 +3948,6 @@ i) Plocnct) = p (0.664220 .662)«hren bet™ 8.6640 0- “|
 
 —046, o6b -
 
-© 3) ») Giver * M=10. = No.4 poor qeavuilies Ne popledion ,
 Tow}! 4 Bic} DIE] F] G4 | |a
 
 Al [S] ISP te] 6] nw fi4l] fg ire
@@ -4076,20 +3980,17 @@ Si. mire erik: >)
 
 FEISS (5 FC ICRF
 --- page 6 ---
-©2) ) frsume Hor Abbibutes owe, Fdeperdent
 Hit Adbibctes ore, depend : tn Mi
 Esipected values | »
 
 Ue S public Be nat ie
 
-dranspert —_|Prblic trarsport ote
 
 Urban | 150 100 260
 = s | om
 Ruel | So lon 260 aan
 tote) ; 250 QD Con ,
 Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
-*“b z es - 150 t \o® ie 1oo
 =
 = O+4+6+4 =
 = 80
@@ -4102,14 +4003,12 @@ Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
 —__—s {mM
 
 a a
-b> pa 2D Ho is FY S —_—
 
 64) A) Let m= Nours Study Y= Werks
 2 TAY = 2210 ) T4219 —" 2™
 
 i's. » ey —-
 
-Ge Py ee y Ts tl Cte. 3S
 Val
 
 - Fd .
@@ -4173,7 +4072,6 @@ FIC QF OH ar
 im
 
 Be Studeut f< v commence \ PCE) = 0 Me
-Ler He shdet fo tsitt. dthchtn .
 
 ; + puja) = 0.95 2 P(A/e)-0.00 —+ 2m
 PCAla) = PCA) pHa) ——_ Im
@@ -4187,7 +4085,6 @@ pd pCM/A)+ PD P(e) =
 ©») b) b) Given for) - pee ,olye)
 lane ‘
 
-Meam = Ets) = *Cafendn ose =6 (Gasp —™
 cats at }'=6[4-4]= 0.9= && —oim
 ae)" Fffesnen = = fine “(ots _. im
 
@@ -4197,7 +4094,6 @@ ae)" Fffesnen = = fine “(ots _. im
 
 —— 2M.
 
-@5) <) ©) Arcume Ho: Al] Vehides fas come wean fuel offi effin
 —_ H.. At least are velcle los dithered yen fd ebhicion
 
 K= 9, mmMaeMses MHI T= FF Ta= 59 e-t2d¢nz281m
@@ -4220,7 +4116,6 @@ FOI 7 QF ICR Ir
 --- page 11 ---
 @e) 4) w=1.¢ A= No. 9 breakdowns
 
-4 &) b) bet A= Diver cnceed Lanit > p CA) = 0. 6s ]
 
 Poisson distbutin > peas ew"L Z!8 yg”
 
@@ -4229,7 +4124,6 @@ ae °
 
 “1 ime -",
 
-3H) pCnes) = peor=0u1 d= Faye penspen }
 =o, Ata 28 oP. 0.F306
 
 ity PCax2) =f- porea) = pr pore 0 »
@@ -4270,7 +4164,6 @@ Beet aes
 = 0.995F¢—» I
 
 At S*/. 10s 2fSs tise eiledfest ZK='.4G6 — iv
-leleZs a He ts accepstea} ———n bw
 
 ean Re
 --- page 12 ---
@@ -4328,7 +4221,6 @@ tt - _ Ee.
 
 = pedis — im
 
-AL s’l,.0s,fer me teil od fest 4 pof=nM2-2 =16
 =) thm! 346 ——> im
 
 —_
@@ -4347,6 +4239,8 @@ FOI 7 2 FC CR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_IT_7041/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (13 pages), mean OCR confidence 35.6
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4383,17 +4277,13 @@ ae Sal" esis ———.
 At Stl, L9s @ for drow dusted feat 29 AX =1-9G—-» Im
 : elem Yo te accepted —> im
 
-©} e) Salving Un-Sy42az-0 2 con-9y- lop simul fonerwnn
 
-= qe y= 13 Y= i+ is in
 eee —
 im
-Let 4. S}+22-0 be Yrm equ” y= g4+ 23 > byne 4 ae
 =
 
 a Dae e ee 7 a > as 34192.5 bay 3 =O,US_» Jw
 
-vet) boy. bys Joeoue = 9.6 ——s ym
 
 Q2) a) Lot ne Soil temporodwre Y= Germinctin Sct).
 
@@ -4437,7 +4327,6 @@ z+ 68 = —_
 a oe 2.045 > a O. WEF D {= 0. $893 — Pam
 
 A ny
-m Bivomial Aithidin is DPD=“onprg* = Fens O-Mi7C0-S853) — 1 -
 
 a ° \ 2 2 y S
 
@@ -4461,7 +4350,6 @@ iel= | 33 = 2.436 —_ 36
 
 = a 621.96 — = im
 
-IM Se], ws Kefor hse Febled lial, ele =
 \>ZK > Yo Is qected|
 
 jal>24 rey
@@ -4472,7 +4360,6 @@ FIC 7) IC HOH
 --- page 5 ---
 63) 9) Given! Mel2, 6-3 , N =too cm Sie 4 battery
 
-%) porris)=p(z7i)= Aen to tte shed % |
 =0.6- Area bet” zac Qz=1
 atl | yz =0.5— 0,.3W8 = 0.1682 ~15. 8F°/, zm
 
@@ -4495,7 +4382,6 @@ i) Plocnct) = p (0.664220 .662)«hren bet™ 8.6640 0- “|
 
 —046, o6b -
 
-© 3) ») Giver * M=10. = No.4 poor qeavuilies Ne popledion ,
 Tow}! 4 Bic} DIE] F] G4 | |a
 
 Al [S] ISP te] 6] nw fi4l] fg ire
@@ -4528,20 +4414,17 @@ Si. mire erik: >)
 
 FEISS (5 FC ICRF
 --- page 6 ---
-©2) ) frsume Hor Abbibutes owe, Fdeperdent
 Hit Adbibctes ore, depend : tn Mi
 Esipected values | »
 
 Ue S public Be nat ie
 
-dranspert —_|Prblic trarsport ote
 
 Urban | 150 100 260
 = s | om
 Ruel | So lon 260 aan
 tote) ; 250 QD Con ,
 Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
-*“b z es - 150 t \o® ie 1oo
 =
 = O+4+6+4 =
 = 80
@@ -4554,14 +4437,12 @@ Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
 —__—s {mM
 
 a a
-b> pa 2D Ho is FY S —_—
 
 64) A) Let m= Nours Study Y= Werks
 2 TAY = 2210 ) T4219 —" 2™
 
 i's. » ey —-
 
-Ge Py ee y Ts tl Cte. 3S
 Val
 
 - Fd .
@@ -4625,7 +4506,6 @@ FIC QF OH ar
 im
 
 Be Studeut f< v commence \ PCE) = 0 Me
-Ler He shdet fo tsitt. dthchtn .
 
 ; + puja) = 0.95 2 P(A/e)-0.00 —+ 2m
 PCAla) = PCA) pHa) ——_ Im
@@ -4639,7 +4519,6 @@ pd pCM/A)+ PD P(e) =
 ©») b) b) Given for) - pee ,olye)
 lane ‘
 
-Meam = Ets) = *Cafendn ose =6 (Gasp —™
 cats at }'=6[4-4]= 0.9= && —oim
 ae)" Fffesnen = = fine “(ots _. im
 
@@ -4649,7 +4528,6 @@ ae)" Fffesnen = = fine “(ots _. im
 
 —— 2M.
 
-@5) <) ©) Arcume Ho: Al] Vehides fas come wean fuel offi effin
 —_ H.. At least are velcle los dithered yen fd ebhicion
 
 K= 9, mmMaeMses MHI T= FF Ta= 59 e-t2d¢nz281m
@@ -4672,7 +4550,6 @@ FOI 7 QF ICR Ir
 --- page 11 ---
 @e) 4) w=1.¢ A= No. 9 breakdowns
 
-4 &) b) bet A= Diver cnceed Lanit > p CA) = 0. 6s ]
 
 Poisson distbutin > peas ew"L Z!8 yg”
 
@@ -4681,7 +4558,6 @@ ae °
 
 “1 ime -",
 
-3H) pCnes) = peor=0u1 d= Faye penspen }
 =o, Ata 28 oP. 0.F306
 
 ity PCax2) =f- porea) = pr pore 0 »
@@ -4722,7 +4598,6 @@ Beet aes
 = 0.995F¢—» I
 
 At S*/. 10s 2fSs tise eiledfest ZK='.4G6 — iv
-leleZs a He ts accepstea} ———n bw
 
 ean Re
 --- page 12 ---
@@ -4780,7 +4655,6 @@ tt - _ Ee.
 
 = pedis — im
 
-AL s’l,.0s,fer me teil od fest 4 pof=nM2-2 =16
 =) thm! 346 ——> im
 
 —_
@@ -4799,6 +4673,8 @@ FOI 7 2 FC CR
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_IT_7037/Probability and Statistics/ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (13 pages), mean OCR confidence 35.6
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4835,17 +4711,13 @@ ae Sal" esis ———.
 At Stl, L9s @ for drow dusted feat 29 AX =1-9G—-» Im
 : elem Yo te accepted —> im
 
-©} e) Salving Un-Sy42az-0 2 con-9y- lop simul fonerwnn
 
-= qe y= 13 Y= i+ is in
 eee —
 im
-Let 4. S}+22-0 be Yrm equ” y= g4+ 23 > byne 4 ae
 =
 
 a Dae e ee 7 a > as 34192.5 bay 3 =O,US_» Jw
 
-vet) boy. bys Joeoue = 9.6 ——s ym
 
 Q2) a) Lot ne Soil temporodwre Y= Germinctin Sct).
 
@@ -4889,7 +4761,6 @@ z+ 68 = —_
 a oe 2.045 > a O. WEF D {= 0. $893 — Pam
 
 A ny
-m Bivomial Aithidin is DPD=“onprg* = Fens O-Mi7C0-S853) — 1 -
 
 a ° \ 2 2 y S
 
@@ -4913,7 +4784,6 @@ iel= | 33 = 2.436 —_ 36
 
 = a 621.96 — = im
 
-IM Se], ws Kefor hse Febled lial, ele =
 \>ZK > Yo Is qected|
 
 jal>24 rey
@@ -4924,7 +4794,6 @@ FIC 7) IC HOH
 --- page 5 ---
 63) 9) Given! Mel2, 6-3 , N =too cm Sie 4 battery
 
-%) porris)=p(z7i)= Aen to tte shed % |
 =0.6- Area bet” zac Qz=1
 atl | yz =0.5— 0,.3W8 = 0.1682 ~15. 8F°/, zm
 
@@ -4947,7 +4816,6 @@ i) Plocnct) = p (0.664220 .662)«hren bet™ 8.6640 0- “|
 
 —046, o6b -
 
-© 3) ») Giver * M=10. = No.4 poor qeavuilies Ne popledion ,
 Tow}! 4 Bic} DIE] F] G4 | |a
 
 Al [S] ISP te] 6] nw fi4l] fg ire
@@ -4980,20 +4848,17 @@ Si. mire erik: >)
 
 FEISS (5 FC ICRF
 --- page 6 ---
-©2) ) frsume Hor Abbibutes owe, Fdeperdent
 Hit Adbibctes ore, depend : tn Mi
 Esipected values | »
 
 Ue S public Be nat ie
 
-dranspert —_|Prblic trarsport ote
 
 Urban | 150 100 260
 = s | om
 Ruel | So lon 260 aan
 tote) ; 250 QD Con ,
 Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
-*“b z es - 150 t \o® ie 1oo
 =
 = O+4+6+4 =
 = 80
@@ -5006,14 +4871,12 @@ Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
 —__—s {mM
 
 a a
-b> pa 2D Ho is FY S —_—
 
 64) A) Let m= Nours Study Y= Werks
 2 TAY = 2210 ) T4219 —" 2™
 
 i's. » ey —-
 
-Ge Py ee y Ts tl Cte. 3S
 Val
 
 - Fd .
@@ -5077,7 +4940,6 @@ FIC QF OH ar
 im
 
 Be Studeut f< v commence \ PCE) = 0 Me
-Ler He shdet fo tsitt. dthchtn .
 
 ; + puja) = 0.95 2 P(A/e)-0.00 —+ 2m
 PCAla) = PCA) pHa) ——_ Im
@@ -5091,7 +4953,6 @@ pd pCM/A)+ PD P(e) =
 ©») b) b) Given for) - pee ,olye)
 lane ‘
 
-Meam = Ets) = *Cafendn ose =6 (Gasp —™
 cats at }'=6[4-4]= 0.9= && —oim
 ae)" Fffesnen = = fine “(ots _. im
 
@@ -5101,7 +4962,6 @@ ae)" Fffesnen = = fine “(ots _. im
 
 —— 2M.
 
-@5) <) ©) Arcume Ho: Al] Vehides fas come wean fuel offi effin
 —_ H.. At least are velcle los dithered yen fd ebhicion
 
 K= 9, mmMaeMses MHI T= FF Ta= 59 e-t2d¢nz281m
@@ -5124,7 +4984,6 @@ FOI 7 QF ICR Ir
 --- page 11 ---
 @e) 4) w=1.¢ A= No. 9 breakdowns
 
-4 &) b) bet A= Diver cnceed Lanit > p CA) = 0. 6s ]
 
 Poisson distbutin > peas ew"L Z!8 yg”
 
@@ -5133,7 +4992,6 @@ ae °
 
 “1 ime -",
 
-3H) pCnes) = peor=0u1 d= Faye penspen }
 =o, Ata 28 oP. 0.F306
 
 ity PCax2) =f- porea) = pr pore 0 »
@@ -5174,7 +5032,6 @@ Beet aes
 = 0.995F¢—» I
 
 At S*/. 10s 2fSs tise eiledfest ZK='.4G6 — iv
-leleZs a He ts accepstea} ———n bw
 
 ean Re
 --- page 12 ---
@@ -5232,7 +5089,6 @@ tt - _ Ee.
 
 = pedis — im
 
-AL s’l,.0s,fer me teil od fest 4 pof=nM2-2 =16
 =) thm! 346 ——> im
 
 —_
@@ -5251,6 +5107,8 @@ FOI 7 2 FC CR
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_Mechanical_7031/Probability and Statistics/ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (13 pages), mean OCR confidence 35.6
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5287,17 +5145,13 @@ ae Sal" esis ———.
 At Stl, L9s @ for drow dusted feat 29 AX =1-9G—-» Im
 : elem Yo te accepted —> im
 
-©} e) Salving Un-Sy42az-0 2 con-9y- lop simul fonerwnn
 
-= qe y= 13 Y= i+ is in
 eee —
 im
-Let 4. S}+22-0 be Yrm equ” y= g4+ 23 > byne 4 ae
 =
 
 a Dae e ee 7 a > as 34192.5 bay 3 =O,US_» Jw
 
-vet) boy. bys Joeoue = 9.6 ——s ym
 
 Q2) a) Lot ne Soil temporodwre Y= Germinctin Sct).
 
@@ -5341,7 +5195,6 @@ z+ 68 = —_
 a oe 2.045 > a O. WEF D {= 0. $893 — Pam
 
 A ny
-m Bivomial Aithidin is DPD=“onprg* = Fens O-Mi7C0-S853) — 1 -
 
 a ° \ 2 2 y S
 
@@ -5365,7 +5218,6 @@ iel= | 33 = 2.436 —_ 36
 
 = a 621.96 — = im
 
-IM Se], ws Kefor hse Febled lial, ele =
 \>ZK > Yo Is qected|
 
 jal>24 rey
@@ -5376,7 +5228,6 @@ FIC 7) IC HOH
 --- page 5 ---
 63) 9) Given! Mel2, 6-3 , N =too cm Sie 4 battery
 
-%) porris)=p(z7i)= Aen to tte shed % |
 =0.6- Area bet” zac Qz=1
 atl | yz =0.5— 0,.3W8 = 0.1682 ~15. 8F°/, zm
 
@@ -5399,7 +5250,6 @@ i) Plocnct) = p (0.664220 .662)«hren bet™ 8.6640 0- “|
 
 —046, o6b -
 
-© 3) ») Giver * M=10. = No.4 poor qeavuilies Ne popledion ,
 Tow}! 4 Bic} DIE] F] G4 | |a
 
 Al [S] ISP te] 6] nw fi4l] fg ire
@@ -5432,20 +5282,17 @@ Si. mire erik: >)
 
 FEISS (5 FC ICRF
 --- page 6 ---
-©2) ) frsume Hor Abbibutes owe, Fdeperdent
 Hit Adbibctes ore, depend : tn Mi
 Esipected values | »
 
 Ue S public Be nat ie
 
-dranspert —_|Prblic trarsport ote
 
 Urban | 150 100 260
 = s | om
 Ruel | So lon 260 aan
 tote) ; 250 QD Con ,
 Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
-*“b z es - 150 t \o® ie 1oo
 =
 = O+4+6+4 =
 = 80
@@ -5458,14 +5305,12 @@ Ee 4 0-£) ~ 1g0-1S0) > Fol *4 480), @o-te) *
 —__—s {mM
 
 a a
-b> pa 2D Ho is FY S —_—
 
 64) A) Let m= Nours Study Y= Werks
 2 TAY = 2210 ) T4219 —" 2™
 
 i's. » ey —-
 
-Ge Py ee y Ts tl Cte. 3S
 Val
 
 - Fd .
@@ -5529,7 +5374,6 @@ FIC QF OH ar
 im
 
 Be Studeut f< v commence \ PCE) = 0 Me
-Ler He shdet fo tsitt. dthchtn .
 
 ; + puja) = 0.95 2 P(A/e)-0.00 —+ 2m
 PCAla) = PCA) pHa) ——_ Im
@@ -5543,7 +5387,6 @@ pd pCM/A)+ PD P(e) =
 ©») b) b) Given for) - pee ,olye)
 lane ‘
 
-Meam = Ets) = *Cafendn ose =6 (Gasp —™
 cats at }'=6[4-4]= 0.9= && —oim
 ae)" Fffesnen = = fine “(ots _. im
 
@@ -5553,7 +5396,6 @@ ae)" Fffesnen = = fine “(ots _. im
 
 —— 2M.
 
-@5) <) ©) Arcume Ho: Al] Vehides fas come wean fuel offi effin
 —_ H.. At least are velcle los dithered yen fd ebhicion
 
 K= 9, mmMaeMses MHI T= FF Ta= 59 e-t2d¢nz281m
@@ -5576,7 +5418,6 @@ FOI 7 QF ICR Ir
 --- page 11 ---
 @e) 4) w=1.¢ A= No. 9 breakdowns
 
-4 &) b) bet A= Diver cnceed Lanit > p CA) = 0. 6s ]
 
 Poisson distbutin > peas ew"L Z!8 yg”
 
@@ -5585,7 +5426,6 @@ ae °
 
 “1 ime -",
 
-3H) pCnes) = peor=0u1 d= Faye penspen }
 =o, Ata 28 oP. 0.F306
 
 ity PCax2) =f- porea) = pr pore 0 »
@@ -5626,7 +5466,6 @@ Beet aes
 = 0.995F¢—» I
 
 At S*/. 10s 2fSs tise eiledfest ZK='.4G6 — iv
-leleZs a He ts accepstea} ———n bw
 
 ean Re
 --- page 12 ---
@@ -5684,7 +5523,6 @@ tt - _ Ee.
 
 = pedis — im
 
-AL s’l,.0s,fer me teil od fest 4 pof=nM2-2 =16
 =) thm! 346 ——> im
 
 —_
@@ -6297,6 +6135,8 @@ Attributes are independent. No significant association between gender and prefer
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CSE_DS_7057/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (19 pages), mean OCR confidence 45.3
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6525,9 +6365,7 @@ Solution:
 ********** 12 **********
 --- page 13 ---
 Ascume do. there t& wo atvorietion bet” Yair Leye Colour im
-Aoume Hit eve wc artoctation bel” hav 2 eke Colour —o a,
 
-Eve, Haiv obeeweed) een ae
 colour = @ leur (©) | © 2
 Booww Blak \o 16 2.25
 Grown for pik 22N 0,00 fF
@@ -6546,11 +6384,9 @@ Ee
 {= ihe > ae
 
 vb
-Ke Sef, tae Q pop= GDC MS Pa>Auer—s Le
 p> Ps
 
 > Ho ts vajected 5 z ia
-as stove te accociohm bet ia Q are Caled = Leal
 
 Q6 a) Calculate the Karl Pearson’s correlation coefficient from the following data
 x 12 9 8 10 11 13 7
@@ -6629,21 +6465,17 @@ A: 20 21,23 16,20
 Bi\8 0, \4,25,'5
 Ci 256, 28,22,28,32 ,
 
-Azcume Ho Ml Aractmewe ove envally, elpecive &
-Ys At leas} me treotwrentd or ditferad eed. J ==
 
 W= SB mH, Was, Ua=S SD newtnstnaciC
 
 “Tetols se
 “N= \oo 7 te =A9 7 Tea21385.
-—-Gravd Soted C@= Tle +I] =320 a ioe
 2 sale
 Ca rrechm yer weom (cm) = & = 4260
 oa iW)
 Teta) cow Q square Ce) “OP ag S60 he
 
 2 + >
-Peaorment sum aor )-(s eTevTS) on = 190 > ci)
 
 chuare (Se) TSS 3) Se Eee
 
@@ -6673,6 +6505,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CS_7055/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (19 pages), mean OCR confidence 45.3
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6901,9 +6735,7 @@ Solution:
 ********** 12 **********
 --- page 13 ---
 Ascume do. there t& wo atvorietion bet” Yair Leye Colour im
-Aoume Hit eve wc artoctation bel” hav 2 eke Colour —o a,
 
-Eve, Haiv obeeweed) een ae
 colour = @ leur (©) | © 2
 Booww Blak \o 16 2.25
 Grown for pik 22N 0,00 fF
@@ -6922,11 +6754,9 @@ Ee
 {= ihe > ae
 
 vb
-Ke Sef, tae Q pop= GDC MS Pa>Auer—s Le
 p> Ps
 
 > Ho ts vajected 5 z ia
-as stove te accociohm bet ia Q are Caled = Leal
 
 Q6 a) Calculate the Karl Pearson’s correlation coefficient from the following data
 x 12 9 8 10 11 13 7
@@ -7005,21 +6835,17 @@ A: 20 21,23 16,20
 Bi\8 0, \4,25,'5
 Ci 256, 28,22,28,32 ,
 
-Azcume Ho Ml Aractmewe ove envally, elpecive &
-Ys At leas} me treotwrentd or ditferad eed. J ==
 
 W= SB mH, Was, Ua=S SD newtnstnaciC
 
 “Tetols se
 “N= \oo 7 te =A9 7 Tea21385.
-—-Gravd Soted C@= Tle +I] =320 a ioe
 2 sale
 Ca rrechm yer weom (cm) = & = 4260
 oa iW)
 Teta) cow Q square Ce) “OP ag S60 he
 
 2 + >
-Peaorment sum aor )-(s eTevTS) on = 190 > ci)
 
 chuare (Se) TSS 3) Se Eee
 
@@ -7049,6 +6875,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Computer_7002/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (19 pages), mean OCR confidence 45.3
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7276,9 +7104,7 @@ Solution:
 ********** 12 **********
 --- page 13 ---
 Ascume do. there t& wo atvorietion bet” Yair Leye Colour im
-Aoume Hit eve wc artoctation bel” hav 2 eke Colour —o a,
 
-Eve, Haiv obeeweed) een ae
 colour = @ leur (©) | © 2
 Booww Blak \o 16 2.25
 Grown for pik 22N 0,00 fF
@@ -7297,11 +7123,9 @@ Ee
 {= ihe > ae
 
 vb
-Ke Sef, tae Q pop= GDC MS Pa>Auer—s Le
 p> Ps
 
 > Ho ts vajected 5 z ia
-as stove te accociohm bet ia Q are Caled = Leal
 
 Q6 a) Calculate the Karl Pearson’s correlation coefficient from the following data
 x 12 9 8 10 11 13 7
@@ -7380,21 +7204,17 @@ A: 20 21,23 16,20
 Bi\8 0, \4,25,'5
 Ci 256, 28,22,28,32 ,
 
-Azcume Ho Ml Aractmewe ove envally, elpecive &
-Ys At leas} me treotwrentd or ditferad eed. J ==
 
 W= SB mH, Was, Ua=S SD newtnstnaciC
 
 “Tetols se
 “N= \oo 7 te =A9 7 Tea21385.
-—-Gravd Soted C@= Tle +I] =320 a ioe
 2 sale
 Ca rrechm yer weom (cm) = & = 4260
 oa iW)
 Teta) cow Q square Ce) “OP ag S60 he
 
 2 + >
-Peaorment sum aor )-(s eTevTS) on = 190 > ci)
 
 chuare (Se) TSS 3) Se Eee
 
@@ -7424,6 +7244,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/Integrated_Computer_7032/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (20 pages), mean OCR confidence 48.4
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7639,8 +7461,6 @@ and eye color.
 Solution:
 ********** 13 **********
 --- page 14 ---
-Ascume do. hore t& wo aoriction bet” Yair Leye Colour im
-AMeume Hit Weve is artoctetion bel” hav f eke Colour i,
 
 Eye, Halv @hocewea) een iso
 Selo lou (0) rites 4 @ @
@@ -7739,8 +7559,6 @@ A: 20 21,23 16,20
 BI\@ 20, \4,25 15
 Ci 25, 28,22,28,32 ,
 
-dAzkcume Ho AN) tracctmeuwte owe a-alhy elective .
-Hs <A least ne dreodtwmenh or Aiiferad eed. ——
 
 K= 3) Wi=B, Mars, Va=S =» natitnsnel
 L im
@@ -7751,7 +7569,6 @@ L im
 T= \oo , te =A9 7 ale IS5u
 
 —_Gravd Total C @)= W+te +te +320 A i
-Ca rrechm yer weom (com) = Ge +260 ——
 
 Tote) sum 4 sqnane Ces) Sco AM _
 
@@ -7770,7 +7587,6 @@ Los Q per 212) > Fa = 9.2263
 
 At 5°.
 
-2d Ae Jeast ome Frantmert as diffpred ebPect ;
 
 =
 
@@ -7784,6 +7600,8 @@ FEC 9.0) FcR ok
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Civil_7005/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 37.3
+- 27 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7842,7 +7660,6 @@ x ral Sev a)
 
 F168 ay = {= Bc Sere 7)
 — Bi)
-Lek Ontyu Feo fe Yeo op eau"
 Me ott eS boy= <b—=s> 1m
 Be A+W-E=0 1's Yo <qu? ue
 ee) Tee As 9 » bya ab —s Lm
@@ -7870,7 +7687,6 @@ SD. Lan aa
 spa 6 > p= 196 . 1.96 = ONG S q-0- 0S a
 
 y
-x Rivewsal Mahsbibte. > DS Por) = =n ti apo Co M8) ( be. de
 —————
 2 Enpectes eee
 x“ © t 2 a b
@@ -7880,7 +7696,6 @@ EO) | 6.46 [25:99 | a4. |Z Q@) | 5-56 om
 ~@ =e) '2@) ©
 ©) Savuple 5 Wj=20 WHY , Gals ie
 Sowple: m2-180 , H-ya ) 8 =3.6
-fyssume Yor Mie to & Ht ah pate ——> 19
 
 1M
 
@@ -7903,7 +7718,6 @@ FC QI a iar
 = vy yonstor -
 ©3) a) Crvew } W = 200 )C=20 N= doe iP Coxisha ef
 
-aS PAP aNe) = aan sea to so mised 5 Fie OF
 
 = 0.0. dpm ber’ o£ 2-2
 —< | =0.0-oOugF2
@@ -7913,7 +7727,6 @@ aS PAP aNe) = aan sea to so mised 5 Fie OF
 aps le
 gee
 
-ap) pCa clo) = pcz<4.0) = dyeo $0 deo [eRt X= 4.6
 = 0.5 - tron bet” of 1.0
 ae er So. 04 o.yaaz
 4.5 = 0.068
@@ -7968,12 +7781,10 @@ FOR OR
 
 im
 --- page 5 ---
-©3) c) fase Hor Quali footer UE ASRS RMR =
 yy. Thon owe dependect. 8
 
 Ered Vrelues |
 
-Buahikeds| Peivate | Govemmend | Sth: rod “Tota
 
 Gedvote | 8ai5 56.0C (Sas | aco
 on- as ay
@@ -8023,7 +7834,6 @@ ay bo 6.y O.2 O62
 ai) pemer, Y=3) = preos' a O80 A aa ee
 a ; ‘ Oo
 = 0.| + 0.00 = OS =
-Kip) PGie2, VC 5) = =Pi=o,! ae poo ) +P(o2)-+ plojm)
 + POD + per, D+pe, ») (ee
 = 0.06 FO1+0.) + O11 +0.) 40.05 = 0.6
 
@@ -8061,12 +7871,9 @@ FLED Yo Is accegsted) cage
 
 a
 
-FOC IOICK GOR AOR Ra x
 --- page 7 ---
 ©8) 2) tet aH bs produced by made > plaasorlero.2
 pow is produced Ly Mochive B =) Cee o.uUS
-¢ = Hem ts chroducal by madsue C$ plc) =0.26
-tot p= Prociuced etom ts HOSEN ‘
 
 Se Ceh=0or , p(a)oees a p(elense—s 24
 
@@ -8085,7 +7892,6 @@ eae nem
 @5) b) Given foy= 26 =») ayers
 =e ©   , ohemse -
 
-Neon = EO) = toifern = EaatCEeD) oly
 
 2™
 = = an ety ae Ot : ae
@@ -8093,7 +7899,6 @@ AX 4
 EOP) = “Cteaninn Se odo
 ~alareyl~ a [eke 2] =
 = BH 0.2
-V tn) = EO) Ev)\= BE “Pe dL Saou mae
 
 FR CK
 
@@ -8101,8 +7906,6 @@ FR RK
 
 im
 --- page 8 ---
-Oo) <) foume Ho: Al froatmedts bods aqvol wyeam vane ve ; Egy
-Hitt lost one drootment Vos difjorort wyoom vecoveny Hue « =
 
 R=2 WEMe=Va=5 uate
 
@@ -8116,7 +7919,6 @@ wn
 —
 
 pe
-Teta! cuw 4, Squane Cis) = Pula eaey = 132.4 =
 
 ——$
 
@@ -8154,15 +7956,12 @@ ui
 >) POA el) = plo s1)= p(s) 40) — omy (Pass am
 as pe ee
 
--~) Enpeocteod mp4 bones = Ne pCaLi) = 61.79 z capri
 
 8) pooderpced=1-yoreiDe ogee
 
-. earecien wo. 9 bumes = Nx por>2) Goo —
 
 FOC IGICK QR rR AR x
 --- page 9 ---
-©) b) lod -He Compnjce ves emod| Pc) = 0.66
 
 Be Spyies Wes af NRE OS im
 
@@ -8188,7 +7987,6 @@ BD) pChvd)= pt p@)—plans)= oF
 Sug Ss —
 Mesto Are. > Re Bway Hs uf
 
-Agsume Hor Pie Pa to otdion a pai a
 yy! B AP2 rab ts veduced : es
 
 Ps a 0.1888 > 4 = 0-81! a in
@@ -8221,25 +8019,18 @@ Moc) =f Sp co5 Re Pe do = > Sars) é da im:
 = Catedn = a! (G-mddn = 2 = 0.088 -——> Le
 
 ——
-t tatefonalnn = 2 {QP Pd = i =0 168% —> i»
-dis iat a hodde= a! { Gr-atan = + = 0.) “> 1m
 
 b>) 2) ©) Gitar m=I2 , Hx 18.6 SIF2 fe on sm
 V2 =10 y Fa =16.9. - n=. ||
-Accuwe Ho ° MWA edly tc No, aloes ust howe bugher fuel oye ‘a
-4". Aa? Ap toh has Wepor 4ud Noes)
 
-Spe ) Cuda Coarse: mcy +(ns) So Ce = Ne QHE2 2
 | nitYs-2 —— ——
 
-Se em +i Peo) dee ae bn
 
 ee pote
 
 t4|= | #2 |- |2 Segkeab| ess th
 0.9554 | ———
 
-At 2]. 9S pfor me dailed tert & poP=w+Ms-2 =2) tha) 12]
 Tae
 se Atte tA Yots recta
 
@@ -8253,6 +8044,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CyberSecurity_7010/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 37.3
+- 27 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -8311,7 +8104,6 @@ x ral Sev a)
 
 F168 ay = {= Bc Sere 7)
 — Bi)
-Lek Ontyu Feo fe Yeo op eau"
 Me ott eS boy= <b—=s> 1m
 Be A+W-E=0 1's Yo <qu? ue
 ee) Tee As 9 » bya ab —s Lm
@@ -8339,7 +8131,6 @@ SD. Lan aa
 spa 6 > p= 196 . 1.96 = ONG S q-0- 0S a
 
 y
-x Rivewsal Mahsbibte. > DS Por) = =n ti apo Co M8) ( be. de
 —————
 2 Enpectes eee
 x“ © t 2 a b
@@ -8349,7 +8140,6 @@ EO) | 6.46 [25:99 | a4. |Z Q@) | 5-56 om
 ~@ =e) '2@) ©
 ©) Savuple 5 Wj=20 WHY , Gals ie
 Sowple: m2-180 , H-ya ) 8 =3.6
-fyssume Yor Mie to & Ht ah pate ——> 19
 
 1M
 
@@ -8372,7 +8162,6 @@ FC QI a iar
 = vy yonstor -
 ©3) a) Crvew } W = 200 )C=20 N= doe iP Coxisha ef
 
-aS PAP aNe) = aan sea to so mised 5 Fie OF
 
 = 0.0. dpm ber’ o£ 2-2
 —< | =0.0-oOugF2
@@ -8382,7 +8171,6 @@ aS PAP aNe) = aan sea to so mised 5 Fie OF
 aps le
 gee
 
-ap) pCa clo) = pcz<4.0) = dyeo $0 deo [eRt X= 4.6
 = 0.5 - tron bet” of 1.0
 ae er So. 04 o.yaaz
 4.5 = 0.068
@@ -8437,12 +8225,10 @@ FOR OR
 
 im
 --- page 5 ---
-©3) c) fase Hor Quali footer UE ASRS RMR =
 yy. Thon owe dependect. 8
 
 Ered Vrelues |
 
-Buahikeds| Peivate | Govemmend | Sth: rod “Tota
 
 Gedvote | 8ai5 56.0C (Sas | aco
 on- as ay
@@ -8492,7 +8278,6 @@ ay bo 6.y O.2 O62
 ai) pemer, Y=3) = preos' a O80 A aa ee
 a ; ‘ Oo
 = 0.| + 0.00 = OS =
-Kip) PGie2, VC 5) = =Pi=o,! ae poo ) +P(o2)-+ plojm)
 + POD + per, D+pe, ») (ee
 = 0.06 FO1+0.) + O11 +0.) 40.05 = 0.6
 
@@ -8530,12 +8315,9 @@ FLED Yo Is accegsted) cage
 
 a
 
-FOC IOICK GOR AOR Ra x
 --- page 7 ---
 ©8) 2) tet aH bs produced by made > plaasorlero.2
 pow is produced Ly Mochive B =) Cee o.uUS
-¢ = Hem ts chroducal by madsue C$ plc) =0.26
-tot p= Prociuced etom ts HOSEN ‘
 
 Se Ceh=0or , p(a)oees a p(elense—s 24
 
@@ -8554,7 +8336,6 @@ eae nem
 @5) b) Given foy= 26 =») ayers
 =e ©   , ohemse -
 
-Neon = EO) = toifern = EaatCEeD) oly
 
 2™
 = = an ety ae Ot : ae
@@ -8562,7 +8343,6 @@ AX 4
 EOP) = “Cteaninn Se odo
 ~alareyl~ a [eke 2] =
 = BH 0.2
-V tn) = EO) Ev)\= BE “Pe dL Saou mae
 
 FR CK
 
@@ -8570,8 +8350,6 @@ FR RK
 
 im
 --- page 8 ---
-Oo) <) foume Ho: Al froatmedts bods aqvol wyeam vane ve ; Egy
-Hitt lost one drootment Vos difjorort wyoom vecoveny Hue « =
 
 R=2 WEMe=Va=5 uate
 
@@ -8585,7 +8363,6 @@ wn
 —
 
 pe
-Teta! cuw 4, Squane Cis) = Pula eaey = 132.4 =
 
 ——$
 
@@ -8623,15 +8400,12 @@ ui
 >) POA el) = plo s1)= p(s) 40) — omy (Pass am
 as pe ee
 
--~) Enpeocteod mp4 bones = Ne pCaLi) = 61.79 z capri
 
 8) pooderpced=1-yoreiDe ogee
 
-. earecien wo. 9 bumes = Nx por>2) Goo —
 
 FOC IGICK QR rR AR x
 --- page 9 ---
-©) b) lod -He Compnjce ves emod| Pc) = 0.66
 
 Be Spyies Wes af NRE OS im
 
@@ -8657,7 +8431,6 @@ BD) pChvd)= pt p@)—plans)= oF
 Sug Ss —
 Mesto Are. > Re Bway Hs uf
 
-Agsume Hor Pie Pa to otdion a pai a
 yy! B AP2 rab ts veduced : es
 
 Ps a 0.1888 > 4 = 0-81! a in
@@ -8690,25 +8463,18 @@ Moc) =f Sp co5 Re Pe do = > Sars) é da im:
 = Catedn = a! (G-mddn = 2 = 0.088 -——> Le
 
 ——
-t tatefonalnn = 2 {QP Pd = i =0 168% —> i»
-dis iat a hodde= a! { Gr-atan = + = 0.) “> 1m
 
 b>) 2) ©) Gitar m=I2 , Hx 18.6 SIF2 fe on sm
 V2 =10 y Fa =16.9. - n=. ||
-Accuwe Ho ° MWA edly tc No, aloes ust howe bugher fuel oye ‘a
-4". Aa? Ap toh has Wepor 4ud Noes)
 
-Spe ) Cuda Coarse: mcy +(ns) So Ce = Ne QHE2 2
 | nitYs-2 —— ——
 
-Se em +i Peo) dee ae bn
 
 ee pote
 
 t4|= | #2 |- |2 Segkeab| ess th
 0.9554 | ———
 
-At 2]. 9S pfor me dailed tert & poP=w+Ms-2 =2) tha) 12]
 Tae
 se Atte tA Yots recta
 
@@ -8722,6 +8488,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_EXTC_7006/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 37.3
+- 27 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -8780,7 +8548,6 @@ x ral Sev a)
 
 F168 ay = {= Bc Sere 7)
 — Bi)
-Lek Ontyu Feo fe Yeo op eau"
 Me ott eS boy= <b—=s> 1m
 Be A+W-E=0 1's Yo <qu? ue
 ee) Tee As 9 » bya ab —s Lm
@@ -8808,7 +8575,6 @@ SD. Lan aa
 spa 6 > p= 196 . 1.96 = ONG S q-0- 0S a
 
 y
-x Rivewsal Mahsbibte. > DS Por) = =n ti apo Co M8) ( be. de
 —————
 2 Enpectes eee
 x“ © t 2 a b
@@ -8818,7 +8584,6 @@ EO) | 6.46 [25:99 | a4. |Z Q@) | 5-56 om
 ~@ =e) '2@) ©
 ©) Savuple 5 Wj=20 WHY , Gals ie
 Sowple: m2-180 , H-ya ) 8 =3.6
-fyssume Yor Mie to & Ht ah pate ——> 19
 
 1M
 
@@ -8841,7 +8606,6 @@ FC QI a iar
 = vy yonstor -
 ©3) a) Crvew } W = 200 )C=20 N= doe iP Coxisha ef
 
-aS PAP aNe) = aan sea to so mised 5 Fie OF
 
 = 0.0. dpm ber’ o£ 2-2
 —< | =0.0-oOugF2
@@ -8851,7 +8615,6 @@ aS PAP aNe) = aan sea to so mised 5 Fie OF
 aps le
 gee
 
-ap) pCa clo) = pcz<4.0) = dyeo $0 deo [eRt X= 4.6
 = 0.5 - tron bet” of 1.0
 ae er So. 04 o.yaaz
 4.5 = 0.068
@@ -8906,12 +8669,10 @@ FOR OR
 
 im
 --- page 5 ---
-©3) c) fase Hor Quali footer UE ASRS RMR =
 yy. Thon owe dependect. 8
 
 Ered Vrelues |
 
-Buahikeds| Peivate | Govemmend | Sth: rod “Tota
 
 Gedvote | 8ai5 56.0C (Sas | aco
 on- as ay
@@ -8961,7 +8722,6 @@ ay bo 6.y O.2 O62
 ai) pemer, Y=3) = preos' a O80 A aa ee
 a ; ‘ Oo
 = 0.| + 0.00 = OS =
-Kip) PGie2, VC 5) = =Pi=o,! ae poo ) +P(o2)-+ plojm)
 + POD + per, D+pe, ») (ee
 = 0.06 FO1+0.) + O11 +0.) 40.05 = 0.6
 
@@ -8999,12 +8759,9 @@ FLED Yo Is accegsted) cage
 
 a
 
-FOC IOICK GOR AOR Ra x
 --- page 7 ---
 ©8) 2) tet aH bs produced by made > plaasorlero.2
 pow is produced Ly Mochive B =) Cee o.uUS
-¢ = Hem ts chroducal by madsue C$ plc) =0.26
-tot p= Prociuced etom ts HOSEN ‘
 
 Se Ceh=0or , p(a)oees a p(elense—s 24
 
@@ -9023,7 +8780,6 @@ eae nem
 @5) b) Given foy= 26 =») ayers
 =e ©   , ohemse -
 
-Neon = EO) = toifern = EaatCEeD) oly
 
 2™
 = = an ety ae Ot : ae
@@ -9031,7 +8787,6 @@ AX 4
 EOP) = “Cteaninn Se odo
 ~alareyl~ a [eke 2] =
 = BH 0.2
-V tn) = EO) Ev)\= BE “Pe dL Saou mae
 
 FR CK
 
@@ -9039,8 +8794,6 @@ FR RK
 
 im
 --- page 8 ---
-Oo) <) foume Ho: Al froatmedts bods aqvol wyeam vane ve ; Egy
-Hitt lost one drootment Vos difjorort wyoom vecoveny Hue « =
 
 R=2 WEMe=Va=5 uate
 
@@ -9054,7 +8807,6 @@ wn
 —
 
 pe
-Teta! cuw 4, Squane Cis) = Pula eaey = 132.4 =
 
 ——$
 
@@ -9092,15 +8844,12 @@ ui
 >) POA el) = plo s1)= p(s) 40) — omy (Pass am
 as pe ee
 
--~) Enpeocteod mp4 bones = Ne pCaLi) = 61.79 z capri
 
 8) pooderpced=1-yoreiDe ogee
 
-. earecien wo. 9 bumes = Nx por>2) Goo —
 
 FOC IGICK QR rR AR x
 --- page 9 ---
-©) b) lod -He Compnjce ves emod| Pc) = 0.66
 
 Be Spyies Wes af NRE OS im
 
@@ -9126,7 +8875,6 @@ BD) pChvd)= pt p@)—plans)= oF
 Sug Ss —
 Mesto Are. > Re Bway Hs uf
 
-Agsume Hor Pie Pa to otdion a pai a
 yy! B AP2 rab ts veduced : es
 
 Ps a 0.1888 > 4 = 0-81! a in
@@ -9159,25 +8907,18 @@ Moc) =f Sp co5 Re Pe do = > Sars) é da im:
 = Catedn = a! (G-mddn = 2 = 0.088 -——> Le
 
 ——
-t tatefonalnn = 2 {QP Pd = i =0 168% —> i»
-dis iat a hodde= a! { Gr-atan = + = 0.) “> 1m
 
 b>) 2) ©) Gitar m=I2 , Hx 18.6 SIF2 fe on sm
 V2 =10 y Fa =16.9. - n=. ||
-Accuwe Ho ° MWA edly tc No, aloes ust howe bugher fuel oye ‘a
-4". Aa? Ap toh has Wepor 4ud Noes)
 
-Spe ) Cuda Coarse: mcy +(ns) So Ce = Ne QHE2 2
 | nitYs-2 —— ——
 
-Se em +i Peo) dee ae bn
 
 ee pote
 
 t4|= | #2 |- |2 Segkeab| ess th
 0.9554 | ———
 
-At 2]. 9S pfor me dailed tert & poP=w+Ms-2 =2) tha) 12]
 Tae
 se Atte tA Yots recta
 
@@ -9191,6 +8932,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_IT_7001/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 37.3
+- 27 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -9249,7 +8992,6 @@ x ral Sev a)
 
 F168 ay = {= Bc Sere 7)
 — Bi)
-Lek Ontyu Feo fe Yeo op eau"
 Me ott eS boy= <b—=s> 1m
 Be A+W-E=0 1's Yo <qu? ue
 ee) Tee As 9 » bya ab —s Lm
@@ -9277,7 +9019,6 @@ SD. Lan aa
 spa 6 > p= 196 . 1.96 = ONG S q-0- 0S a
 
 y
-x Rivewsal Mahsbibte. > DS Por) = =n ti apo Co M8) ( be. de
 —————
 2 Enpectes eee
 x“ © t 2 a b
@@ -9287,7 +9028,6 @@ EO) | 6.46 [25:99 | a4. |Z Q@) | 5-56 om
 ~@ =e) '2@) ©
 ©) Savuple 5 Wj=20 WHY , Gals ie
 Sowple: m2-180 , H-ya ) 8 =3.6
-fyssume Yor Mie to & Ht ah pate ——> 19
 
 1M
 
@@ -9310,7 +9050,6 @@ FC QI a iar
 = vy yonstor -
 ©3) a) Crvew } W = 200 )C=20 N= doe iP Coxisha ef
 
-aS PAP aNe) = aan sea to so mised 5 Fie OF
 
 = 0.0. dpm ber’ o£ 2-2
 —< | =0.0-oOugF2
@@ -9320,7 +9059,6 @@ aS PAP aNe) = aan sea to so mised 5 Fie OF
 aps le
 gee
 
-ap) pCa clo) = pcz<4.0) = dyeo $0 deo [eRt X= 4.6
 = 0.5 - tron bet” of 1.0
 ae er So. 04 o.yaaz
 4.5 = 0.068
@@ -9375,12 +9113,10 @@ FOR OR
 
 im
 --- page 5 ---
-©3) c) fase Hor Quali footer UE ASRS RMR =
 yy. Thon owe dependect. 8
 
 Ered Vrelues |
 
-Buahikeds| Peivate | Govemmend | Sth: rod “Tota
 
 Gedvote | 8ai5 56.0C (Sas | aco
 on- as ay
@@ -9430,7 +9166,6 @@ ay bo 6.y O.2 O62
 ai) pemer, Y=3) = preos' a O80 A aa ee
 a ; ‘ Oo
 = 0.| + 0.00 = OS =
-Kip) PGie2, VC 5) = =Pi=o,! ae poo ) +P(o2)-+ plojm)
 + POD + per, D+pe, ») (ee
 = 0.06 FO1+0.) + O11 +0.) 40.05 = 0.6
 
@@ -9468,12 +9203,9 @@ FLED Yo Is accegsted) cage
 
 a
 
-FOC IOICK GOR AOR Ra x
 --- page 7 ---
 ©8) 2) tet aH bs produced by made > plaasorlero.2
 pow is produced Ly Mochive B =) Cee o.uUS
-¢ = Hem ts chroducal by madsue C$ plc) =0.26
-tot p= Prociuced etom ts HOSEN ‘
 
 Se Ceh=0or , p(a)oees a p(elense—s 24
 
@@ -9492,7 +9224,6 @@ eae nem
 @5) b) Given foy= 26 =») ayers
 =e ©   , ohemse -
 
-Neon = EO) = toifern = EaatCEeD) oly
 
 2™
 = = an ety ae Ot : ae
@@ -9500,7 +9231,6 @@ AX 4
 EOP) = “Cteaninn Se odo
 ~alareyl~ a [eke 2] =
 = BH 0.2
-V tn) = EO) Ev)\= BE “Pe dL Saou mae
 
 FR CK
 
@@ -9508,8 +9238,6 @@ FR RK
 
 im
 --- page 8 ---
-Oo) <) foume Ho: Al froatmedts bods aqvol wyeam vane ve ; Egy
-Hitt lost one drootment Vos difjorort wyoom vecoveny Hue « =
 
 R=2 WEMe=Va=5 uate
 
@@ -9523,7 +9251,6 @@ wn
 —
 
 pe
-Teta! cuw 4, Squane Cis) = Pula eaey = 132.4 =
 
 ——$
 
@@ -9561,15 +9288,12 @@ ui
 >) POA el) = plo s1)= p(s) 40) — omy (Pass am
 as pe ee
 
--~) Enpeocteod mp4 bones = Ne pCaLi) = 61.79 z capri
 
 8) pooderpced=1-yoreiDe ogee
 
-. earecien wo. 9 bumes = Nx por>2) Goo —
 
 FOC IGICK QR rR AR x
 --- page 9 ---
-©) b) lod -He Compnjce ves emod| Pc) = 0.66
 
 Be Spyies Wes af NRE OS im
 
@@ -9595,7 +9319,6 @@ BD) pChvd)= pt p@)—plans)= oF
 Sug Ss —
 Mesto Are. > Re Bway Hs uf
 
-Agsume Hor Pie Pa to otdion a pai a
 yy! B AP2 rab ts veduced : es
 
 Ps a 0.1888 > 4 = 0-81! a in
@@ -9628,25 +9351,18 @@ Moc) =f Sp co5 Re Pe do = > Sars) é da im:
 = Catedn = a! (G-mddn = 2 = 0.088 -——> Le
 
 ——
-t tatefonalnn = 2 {QP Pd = i =0 168% —> i»
-dis iat a hodde= a! { Gr-atan = + = 0.) “> 1m
 
 b>) 2) ©) Gitar m=I2 , Hx 18.6 SIF2 fe on sm
 V2 =10 y Fa =16.9. - n=. ||
-Accuwe Ho ° MWA edly tc No, aloes ust howe bugher fuel oye ‘a
-4". Aa? Ap toh has Wepor 4ud Noes)
 
-Spe ) Cuda Coarse: mcy +(ns) So Ce = Ne QHE2 2
 | nitYs-2 —— ——
 
-Se em +i Peo) dee ae bn
 
 ee pote
 
 t4|= | #2 |- |2 Segkeab| ess th
 0.9554 | ———
 
-At 2]. 9S pfor me dailed tert & poP=w+Ms-2 =2) tha) 12]
 Tae
 se Atte tA Yots recta
 
@@ -9660,6 +9376,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Mechanical_7003/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 37.3
+- 27 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -9718,7 +9436,6 @@ x ral Sev a)
 
 F168 ay = {= Bc Sere 7)
 — Bi)
-Lek Ontyu Feo fe Yeo op eau"
 Me ott eS boy= <b—=s> 1m
 Be A+W-E=0 1's Yo <qu? ue
 ee) Tee As 9 » bya ab —s Lm
@@ -9746,7 +9463,6 @@ SD. Lan aa
 spa 6 > p= 196 . 1.96 = ONG S q-0- 0S a
 
 y
-x Rivewsal Mahsbibte. > DS Por) = =n ti apo Co M8) ( be. de
 —————
 2 Enpectes eee
 x“ © t 2 a b
@@ -9756,7 +9472,6 @@ EO) | 6.46 [25:99 | a4. |Z Q@) | 5-56 om
 ~@ =e) '2@) ©
 ©) Savuple 5 Wj=20 WHY , Gals ie
 Sowple: m2-180 , H-ya ) 8 =3.6
-fyssume Yor Mie to & Ht ah pate ——> 19
 
 1M
 
@@ -9779,7 +9494,6 @@ FC QI a iar
 = vy yonstor -
 ©3) a) Crvew } W = 200 )C=20 N= doe iP Coxisha ef
 
-aS PAP aNe) = aan sea to so mised 5 Fie OF
 
 = 0.0. dpm ber’ o£ 2-2
 —< | =0.0-oOugF2
@@ -9789,7 +9503,6 @@ aS PAP aNe) = aan sea to so mised 5 Fie OF
 aps le
 gee
 
-ap) pCa clo) = pcz<4.0) = dyeo $0 deo [eRt X= 4.6
 = 0.5 - tron bet” of 1.0
 ae er So. 04 o.yaaz
 4.5 = 0.068
@@ -9844,12 +9557,10 @@ FOR OR
 
 im
 --- page 5 ---
-©3) c) fase Hor Quali footer UE ASRS RMR =
 yy. Thon owe dependect. 8
 
 Ered Vrelues |
 
-Buahikeds| Peivate | Govemmend | Sth: rod “Tota
 
 Gedvote | 8ai5 56.0C (Sas | aco
 on- as ay
@@ -9899,7 +9610,6 @@ ay bo 6.y O.2 O62
 ai) pemer, Y=3) = preos' a O80 A aa ee
 a ; ‘ Oo
 = 0.| + 0.00 = OS =
-Kip) PGie2, VC 5) = =Pi=o,! ae poo ) +P(o2)-+ plojm)
 + POD + per, D+pe, ») (ee
 = 0.06 FO1+0.) + O11 +0.) 40.05 = 0.6
 
@@ -9937,12 +9647,9 @@ FLED Yo Is accegsted) cage
 
 a
 
-FOC IOICK GOR AOR Ra x
 --- page 7 ---
 ©8) 2) tet aH bs produced by made > plaasorlero.2
 pow is produced Ly Mochive B =) Cee o.uUS
-¢ = Hem ts chroducal by madsue C$ plc) =0.26
-tot p= Prociuced etom ts HOSEN ‘
 
 Se Ceh=0or , p(a)oees a p(elense—s 24
 
@@ -9961,7 +9668,6 @@ eae nem
 @5) b) Given foy= 26 =») ayers
 =e ©   , ohemse -
 
-Neon = EO) = toifern = EaatCEeD) oly
 
 2™
 = = an ety ae Ot : ae
@@ -9969,7 +9675,6 @@ AX 4
 EOP) = “Cteaninn Se odo
 ~alareyl~ a [eke 2] =
 = BH 0.2
-V tn) = EO) Ev)\= BE “Pe dL Saou mae
 
 FR CK
 
@@ -9977,8 +9682,6 @@ FR RK
 
 im
 --- page 8 ---
-Oo) <) foume Ho: Al froatmedts bods aqvol wyeam vane ve ; Egy
-Hitt lost one drootment Vos difjorort wyoom vecoveny Hue « =
 
 R=2 WEMe=Va=5 uate
 
@@ -9992,7 +9695,6 @@ wn
 —
 
 pe
-Teta! cuw 4, Squane Cis) = Pula eaey = 132.4 =
 
 ——$
 
@@ -10030,15 +9732,12 @@ ui
 >) POA el) = plo s1)= p(s) 40) — omy (Pass am
 as pe ee
 
--~) Enpeocteod mp4 bones = Ne pCaLi) = 61.79 z capri
 
 8) pooderpced=1-yoreiDe ogee
 
-. earecien wo. 9 bumes = Nx por>2) Goo —
 
 FOC IGICK QR rR AR x
 --- page 9 ---
-©) b) lod -He Compnjce ves emod| Pc) = 0.66
 
 Be Spyies Wes af NRE OS im
 
@@ -10064,7 +9763,6 @@ BD) pChvd)= pt p@)—plans)= oF
 Sug Ss —
 Mesto Are. > Re Bway Hs uf
 
-Agsume Hor Pie Pa to otdion a pai a
 yy! B AP2 rab ts veduced : es
 
 Ps a 0.1888 > 4 = 0-81! a in
@@ -10097,25 +9795,18 @@ Moc) =f Sp co5 Re Pe do = > Sars) é da im:
 = Catedn = a! (G-mddn = 2 = 0.088 -——> Le
 
 ——
-t tatefonalnn = 2 {QP Pd = i =0 168% —> i»
-dis iat a hodde= a! { Gr-atan = + = 0.) “> 1m
 
 b>) 2) ©) Gitar m=I2 , Hx 18.6 SIF2 fe on sm
 V2 =10 y Fa =16.9. - n=. ||
-Accuwe Ho ° MWA edly tc No, aloes ust howe bugher fuel oye ‘a
-4". Aa? Ap toh has Wepor 4ud Noes)
 
-Spe ) Cuda Coarse: mcy +(ns) So Ce = Ne QHE2 2
 | nitYs-2 —— ——
 
-Se em +i Peo) dee ae bn
 
 ee pote
 
 t4|= | #2 |- |2 Segkeab| ess th
 0.9554 | ———
 
-At 2]. 9S pfor me dailed tert & poP=w+Ms-2 =2) tha) 12]
 Tae
 se Atte tA Yots recta
 
@@ -10129,6 +9820,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Mechatronics_7004/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 37.3
+- 27 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -10187,7 +9880,6 @@ x ral Sev a)
 
 F168 ay = {= Bc Sere 7)
 — Bi)
-Lek Ontyu Feo fe Yeo op eau"
 Me ott eS boy= <b—=s> 1m
 Be A+W-E=0 1's Yo <qu? ue
 ee) Tee As 9 » bya ab —s Lm
@@ -10215,7 +9907,6 @@ SD. Lan aa
 spa 6 > p= 196 . 1.96 = ONG S q-0- 0S a
 
 y
-x Rivewsal Mahsbibte. > DS Por) = =n ti apo Co M8) ( be. de
 —————
 2 Enpectes eee
 x“ © t 2 a b
@@ -10225,7 +9916,6 @@ EO) | 6.46 [25:99 | a4. |Z Q@) | 5-56 om
 ~@ =e) '2@) ©
 ©) Savuple 5 Wj=20 WHY , Gals ie
 Sowple: m2-180 , H-ya ) 8 =3.6
-fyssume Yor Mie to & Ht ah pate ——> 19
 
 1M
 
@@ -10248,7 +9938,6 @@ FC QI a iar
 = vy yonstor -
 ©3) a) Crvew } W = 200 )C=20 N= doe iP Coxisha ef
 
-aS PAP aNe) = aan sea to so mised 5 Fie OF
 
 = 0.0. dpm ber’ o£ 2-2
 —< | =0.0-oOugF2
@@ -10258,7 +9947,6 @@ aS PAP aNe) = aan sea to so mised 5 Fie OF
 aps le
 gee
 
-ap) pCa clo) = pcz<4.0) = dyeo $0 deo [eRt X= 4.6
 = 0.5 - tron bet” of 1.0
 ae er So. 04 o.yaaz
 4.5 = 0.068
@@ -10313,12 +10001,10 @@ FOR OR
 
 im
 --- page 5 ---
-©3) c) fase Hor Quali footer UE ASRS RMR =
 yy. Thon owe dependect. 8
 
 Ered Vrelues |
 
-Buahikeds| Peivate | Govemmend | Sth: rod “Tota
 
 Gedvote | 8ai5 56.0C (Sas | aco
 on- as ay
@@ -10368,7 +10054,6 @@ ay bo 6.y O.2 O62
 ai) pemer, Y=3) = preos' a O80 A aa ee
 a ; ‘ Oo
 = 0.| + 0.00 = OS =
-Kip) PGie2, VC 5) = =Pi=o,! ae poo ) +P(o2)-+ plojm)
 + POD + per, D+pe, ») (ee
 = 0.06 FO1+0.) + O11 +0.) 40.05 = 0.6
 
@@ -10406,12 +10091,9 @@ FLED Yo Is accegsted) cage
 
 a
 
-FOC IOICK GOR AOR Ra x
 --- page 7 ---
 ©8) 2) tet aH bs produced by made > plaasorlero.2
 pow is produced Ly Mochive B =) Cee o.uUS
-¢ = Hem ts chroducal by madsue C$ plc) =0.26
-tot p= Prociuced etom ts HOSEN ‘
 
 Se Ceh=0or , p(a)oees a p(elense—s 24
 
@@ -10430,7 +10112,6 @@ eae nem
 @5) b) Given foy= 26 =») ayers
 =e ©   , ohemse -
 
-Neon = EO) = toifern = EaatCEeD) oly
 
 2™
 = = an ety ae Ot : ae
@@ -10438,7 +10119,6 @@ AX 4
 EOP) = “Cteaninn Se odo
 ~alareyl~ a [eke 2] =
 = BH 0.2
-V tn) = EO) Ev)\= BE “Pe dL Saou mae
 
 FR CK
 
@@ -10446,8 +10126,6 @@ FR RK
 
 im
 --- page 8 ---
-Oo) <) foume Ho: Al froatmedts bods aqvol wyeam vane ve ; Egy
-Hitt lost one drootment Vos difjorort wyoom vecoveny Hue « =
 
 R=2 WEMe=Va=5 uate
 
@@ -10461,7 +10139,6 @@ wn
 —
 
 pe
-Teta! cuw 4, Squane Cis) = Pula eaey = 132.4 =
 
 ——$
 
@@ -10499,15 +10176,12 @@ ui
 >) POA el) = plo s1)= p(s) 40) — omy (Pass am
 as pe ee
 
--~) Enpeocteod mp4 bones = Ne pCaLi) = 61.79 z capri
 
 8) pooderpced=1-yoreiDe ogee
 
-. earecien wo. 9 bumes = Nx por>2) Goo —
 
 FOC IGICK QR rR AR x
 --- page 9 ---
-©) b) lod -He Compnjce ves emod| Pc) = 0.66
 
 Be Spyies Wes af NRE OS im
 
@@ -10533,7 +10207,6 @@ BD) pChvd)= pt p@)—plans)= oF
 Sug Ss —
 Mesto Are. > Re Bway Hs uf
 
-Agsume Hor Pie Pa to otdion a pai a
 yy! B AP2 rab ts veduced : es
 
 Ps a 0.1888 > 4 = 0-81! a in
@@ -10566,25 +10239,18 @@ Moc) =f Sp co5 Re Pe do = > Sars) é da im:
 = Catedn = a! (G-mddn = 2 = 0.088 -——> Le
 
 ——
-t tatefonalnn = 2 {QP Pd = i =0 168% —> i»
-dis iat a hodde= a! { Gr-atan = + = 0.) “> 1m
 
 b>) 2) ©) Gitar m=I2 , Hx 18.6 SIF2 fe on sm
 V2 =10 y Fa =16.9. - n=. ||
-Accuwe Ho ° MWA edly tc No, aloes ust howe bugher fuel oye ‘a
-4". Aa? Ap toh has Wepor 4ud Noes)
 
-Spe ) Cuda Coarse: mcy +(ns) So Ce = Ne QHE2 2
 | nitYs-2 —— ——
 
-Se em +i Peo) dee ae bn
 
 ee pote
 
 t4|= | #2 |- |2 Segkeab| ess th
 0.9554 | ———
 
-At 2]. 9S pfor me dailed tert & poP=w+Ms-2 =2) tha) 12]
 Tae
 se Atte tA Yots recta
 
@@ -10598,6 +10264,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/MBATech_IT_7041/Probability and Statistics/ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 37.3
+- 27 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -10656,7 +10324,6 @@ x ral Sev a)
 
 F168 ay = {= Bc Sere 7)
 — Bi)
-Lek Ontyu Feo fe Yeo op eau"
 Me ott eS boy= <b—=s> 1m
 Be A+W-E=0 1's Yo <qu? ue
 ee) Tee As 9 » bya ab —s Lm
@@ -10684,7 +10351,6 @@ SD. Lan aa
 spa 6 > p= 196 . 1.96 = ONG S q-0- 0S a
 
 y
-x Rivewsal Mahsbibte. > DS Por) = =n ti apo Co M8) ( be. de
 —————
 2 Enpectes eee
 x“ © t 2 a b
@@ -10694,7 +10360,6 @@ EO) | 6.46 [25:99 | a4. |Z Q@) | 5-56 om
 ~@ =e) '2@) ©
 ©) Savuple 5 Wj=20 WHY , Gals ie
 Sowple: m2-180 , H-ya ) 8 =3.6
-fyssume Yor Mie to & Ht ah pate ——> 19
 
 1M
 
@@ -10717,7 +10382,6 @@ FC QI a iar
 = vy yonstor -
 ©3) a) Crvew } W = 200 )C=20 N= doe iP Coxisha ef
 
-aS PAP aNe) = aan sea to so mised 5 Fie OF
 
 = 0.0. dpm ber’ o£ 2-2
 —< | =0.0-oOugF2
@@ -10727,7 +10391,6 @@ aS PAP aNe) = aan sea to so mised 5 Fie OF
 aps le
 gee
 
-ap) pCa clo) = pcz<4.0) = dyeo $0 deo [eRt X= 4.6
 = 0.5 - tron bet” of 1.0
 ae er So. 04 o.yaaz
 4.5 = 0.068
@@ -10782,12 +10445,10 @@ FOR OR
 
 im
 --- page 5 ---
-©3) c) fase Hor Quali footer UE ASRS RMR =
 yy. Thon owe dependect. 8
 
 Ered Vrelues |
 
-Buahikeds| Peivate | Govemmend | Sth: rod “Tota
 
 Gedvote | 8ai5 56.0C (Sas | aco
 on- as ay
@@ -10837,7 +10498,6 @@ ay bo 6.y O.2 O62
 ai) pemer, Y=3) = preos' a O80 A aa ee
 a ; ‘ Oo
 = 0.| + 0.00 = OS =
-Kip) PGie2, VC 5) = =Pi=o,! ae poo ) +P(o2)-+ plojm)
 + POD + per, D+pe, ») (ee
 = 0.06 FO1+0.) + O11 +0.) 40.05 = 0.6
 
@@ -10875,12 +10535,9 @@ FLED Yo Is accegsted) cage
 
 a
 
-FOC IOICK GOR AOR Ra x
 --- page 7 ---
 ©8) 2) tet aH bs produced by made > plaasorlero.2
 pow is produced Ly Mochive B =) Cee o.uUS
-¢ = Hem ts chroducal by madsue C$ plc) =0.26
-tot p= Prociuced etom ts HOSEN ‘
 
 Se Ceh=0or , p(a)oees a p(elense—s 24
 
@@ -10899,7 +10556,6 @@ eae nem
 @5) b) Given foy= 26 =») ayers
 =e ©   , ohemse -
 
-Neon = EO) = toifern = EaatCEeD) oly
 
 2™
 = = an ety ae Ot : ae
@@ -10907,7 +10563,6 @@ AX 4
 EOP) = “Cteaninn Se odo
 ~alareyl~ a [eke 2] =
 = BH 0.2
-V tn) = EO) Ev)\= BE “Pe dL Saou mae
 
 FR CK
 
@@ -10915,8 +10570,6 @@ FR RK
 
 im
 --- page 8 ---
-Oo) <) foume Ho: Al froatmedts bods aqvol wyeam vane ve ; Egy
-Hitt lost one drootment Vos difjorort wyoom vecoveny Hue « =
 
 R=2 WEMe=Va=5 uate
 
@@ -10930,7 +10583,6 @@ wn
 —
 
 pe
-Teta! cuw 4, Squane Cis) = Pula eaey = 132.4 =
 
 ——$
 
@@ -10968,15 +10620,12 @@ ui
 >) POA el) = plo s1)= p(s) 40) — omy (Pass am
 as pe ee
 
--~) Enpeocteod mp4 bones = Ne pCaLi) = 61.79 z capri
 
 8) pooderpced=1-yoreiDe ogee
 
-. earecien wo. 9 bumes = Nx por>2) Goo —
 
 FOC IGICK QR rR AR x
 --- page 9 ---
-©) b) lod -He Compnjce ves emod| Pc) = 0.66
 
 Be Spyies Wes af NRE OS im
 
@@ -11002,7 +10651,6 @@ BD) pChvd)= pt p@)—plans)= oF
 Sug Ss —
 Mesto Are. > Re Bway Hs uf
 
-Agsume Hor Pie Pa to otdion a pai a
 yy! B AP2 rab ts veduced : es
 
 Ps a 0.1888 > 4 = 0-81! a in
@@ -11035,25 +10683,18 @@ Moc) =f Sp co5 Re Pe do = > Sars) é da im:
 = Catedn = a! (G-mddn = 2 = 0.088 -——> Le
 
 ——
-t tatefonalnn = 2 {QP Pd = i =0 168% —> i»
-dis iat a hodde= a! { Gr-atan = + = 0.) “> 1m
 
 b>) 2) ©) Gitar m=I2 , Hx 18.6 SIF2 fe on sm
 V2 =10 y Fa =16.9. - n=. ||
-Accuwe Ho ° MWA edly tc No, aloes ust howe bugher fuel oye ‘a
-4". Aa? Ap toh has Wepor 4ud Noes)
 
-Spe ) Cuda Coarse: mcy +(ns) So Ce = Ne QHE2 2
 | nitYs-2 —— ——
 
-Se em +i Peo) dee ae bn
 
 ee pote
 
 t4|= | #2 |- |2 Segkeab| ess th
 0.9554 | ———
 
-At 2]. 9S pfor me dailed tert & poP=w+Ms-2 =2) tha) 12]
 Tae
 se Atte tA Yots recta
 
@@ -11067,6 +10708,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_Computer_7032/Probability and Statistics/ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (19 pages), mean OCR confidence 45.3
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -11295,9 +10938,7 @@ Solution:
 ********** 12 **********
 --- page 13 ---
 Ascume do. there t& wo atvorietion bet” Yair Leye Colour im
-Aoume Hit eve wc artoctation bel” hav 2 eke Colour —o a,
 
-Eve, Haiv obeeweed) een ae
 colour = @ leur (©) | © 2
 Booww Blak \o 16 2.25
 Grown for pik 22N 0,00 fF
@@ -11316,11 +10957,9 @@ Ee
 {= ihe > ae
 
 vb
-Ke Sef, tae Q pop= GDC MS Pa>Auer—s Le
 p> Ps
 
 > Ho ts vajected 5 z ia
-as stove te accociohm bet ia Q are Caled = Leal
 
 Q6 a) Calculate the Karl Pearson’s correlation coefficient from the following data
 x 12 9 8 10 11 13 7
@@ -11399,21 +11038,17 @@ A: 20 21,23 16,20
 Bi\8 0, \4,25,'5
 Ci 256, 28,22,28,32 ,
 
-Azcume Ho Ml Aractmewe ove envally, elpecive &
-Ys At leas} me treotwrentd or ditferad eed. J ==
 
 W= SB mH, Was, Ua=S SD newtnstnaciC
 
 “Tetols se
 “N= \oo 7 te =A9 7 Tea21385.
-—-Gravd Soted C@= Tle +I] =320 a ioe
 2 sale
 Ca rrechm yer weom (cm) = & = 4260
 oa iW)
 Teta) cow Q square Ce) “OP ag S60 he
 
 2 + >
-Peaorment sum aor )-(s eTevTS) on = 190 > ci)
 
 chuare (Se) TSS 3) Se Eee
 
@@ -11443,6 +11078,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_IT_7037/Probability and Statistics/ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 37.3
+- 27 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -11501,7 +11138,6 @@ x ral Sev a)
 
 F168 ay = {= Bc Sere 7)
 — Bi)
-Lek Ontyu Feo fe Yeo op eau"
 Me ott eS boy= <b—=s> 1m
 Be A+W-E=0 1's Yo <qu? ue
 ee) Tee As 9 » bya ab —s Lm
@@ -11529,7 +11165,6 @@ SD. Lan aa
 spa 6 > p= 196 . 1.96 = ONG S q-0- 0S a
 
 y
-x Rivewsal Mahsbibte. > DS Por) = =n ti apo Co M8) ( be. de
 —————
 2 Enpectes eee
 x“ © t 2 a b
@@ -11539,7 +11174,6 @@ EO) | 6.46 [25:99 | a4. |Z Q@) | 5-56 om
 ~@ =e) '2@) ©
 ©) Savuple 5 Wj=20 WHY , Gals ie
 Sowple: m2-180 , H-ya ) 8 =3.6
-fyssume Yor Mie to & Ht ah pate ——> 19
 
 1M
 
@@ -11562,7 +11196,6 @@ FC QI a iar
 = vy yonstor -
 ©3) a) Crvew } W = 200 )C=20 N= doe iP Coxisha ef
 
-aS PAP aNe) = aan sea to so mised 5 Fie OF
 
 = 0.0. dpm ber’ o£ 2-2
 —< | =0.0-oOugF2
@@ -11572,7 +11205,6 @@ aS PAP aNe) = aan sea to so mised 5 Fie OF
 aps le
 gee
 
-ap) pCa clo) = pcz<4.0) = dyeo $0 deo [eRt X= 4.6
 = 0.5 - tron bet” of 1.0
 ae er So. 04 o.yaaz
 4.5 = 0.068
@@ -11627,12 +11259,10 @@ FOR OR
 
 im
 --- page 5 ---
-©3) c) fase Hor Quali footer UE ASRS RMR =
 yy. Thon owe dependect. 8
 
 Ered Vrelues |
 
-Buahikeds| Peivate | Govemmend | Sth: rod “Tota
 
 Gedvote | 8ai5 56.0C (Sas | aco
 on- as ay
@@ -11682,7 +11312,6 @@ ay bo 6.y O.2 O62
 ai) pemer, Y=3) = preos' a O80 A aa ee
 a ; ‘ Oo
 = 0.| + 0.00 = OS =
-Kip) PGie2, VC 5) = =Pi=o,! ae poo ) +P(o2)-+ plojm)
 + POD + per, D+pe, ») (ee
 = 0.06 FO1+0.) + O11 +0.) 40.05 = 0.6
 
@@ -11720,12 +11349,9 @@ FLED Yo Is accegsted) cage
 
 a
 
-FOC IOICK GOR AOR Ra x
 --- page 7 ---
 ©8) 2) tet aH bs produced by made > plaasorlero.2
 pow is produced Ly Mochive B =) Cee o.uUS
-¢ = Hem ts chroducal by madsue C$ plc) =0.26
-tot p= Prociuced etom ts HOSEN ‘
 
 Se Ceh=0or , p(a)oees a p(elense—s 24
 
@@ -11744,7 +11370,6 @@ eae nem
 @5) b) Given foy= 26 =») ayers
 =e ©   , ohemse -
 
-Neon = EO) = toifern = EaatCEeD) oly
 
 2™
 = = an ety ae Ot : ae
@@ -11752,7 +11377,6 @@ AX 4
 EOP) = “Cteaninn Se odo
 ~alareyl~ a [eke 2] =
 = BH 0.2
-V tn) = EO) Ev)\= BE “Pe dL Saou mae
 
 FR CK
 
@@ -11760,8 +11384,6 @@ FR RK
 
 im
 --- page 8 ---
-Oo) <) foume Ho: Al froatmedts bods aqvol wyeam vane ve ; Egy
-Hitt lost one drootment Vos difjorort wyoom vecoveny Hue « =
 
 R=2 WEMe=Va=5 uate
 
@@ -11775,7 +11397,6 @@ wn
 —
 
 pe
-Teta! cuw 4, Squane Cis) = Pula eaey = 132.4 =
 
 ——$
 
@@ -11813,15 +11434,12 @@ ui
 >) POA el) = plo s1)= p(s) 40) — omy (Pass am
 as pe ee
 
--~) Enpeocteod mp4 bones = Ne pCaLi) = 61.79 z capri
 
 8) pooderpced=1-yoreiDe ogee
 
-. earecien wo. 9 bumes = Nx por>2) Goo —
 
 FOC IGICK QR rR AR x
 --- page 9 ---
-©) b) lod -He Compnjce ves emod| Pc) = 0.66
 
 Be Spyies Wes af NRE OS im
 
@@ -11847,7 +11465,6 @@ BD) pChvd)= pt p@)—plans)= oF
 Sug Ss —
 Mesto Are. > Re Bway Hs uf
 
-Agsume Hor Pie Pa to otdion a pai a
 yy! B AP2 rab ts veduced : es
 
 Ps a 0.1888 > 4 = 0-81! a in
@@ -11880,25 +11497,18 @@ Moc) =f Sp co5 Re Pe do = > Sars) é da im:
 = Catedn = a! (G-mddn = 2 = 0.088 -——> Le
 
 ——
-t tatefonalnn = 2 {QP Pd = i =0 168% —> i»
-dis iat a hodde= a! { Gr-atan = + = 0.) “> 1m
 
 b>) 2) ©) Gitar m=I2 , Hx 18.6 SIF2 fe on sm
 V2 =10 y Fa =16.9. - n=. ||
-Accuwe Ho ° MWA edly tc No, aloes ust howe bugher fuel oye ‘a
-4". Aa? Ap toh has Wepor 4ud Noes)
 
-Spe ) Cuda Coarse: mcy +(ns) So Ce = Ne QHE2 2
 | nitYs-2 —— ——
 
-Se em +i Peo) dee ae bn
 
 ee pote
 
 t4|= | #2 |- |2 Segkeab| ess th
 0.9554 | ———
 
-At 2]. 9S pfor me dailed tert & poP=w+Ms-2 =2) tha) 12]
 Tae
 se Atte tA Yots recta
 
@@ -11912,6 +11522,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_Mechanical_7031/Probability and Statistics/ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 37.3
+- 27 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -11970,7 +11582,6 @@ x ral Sev a)
 
 F168 ay = {= Bc Sere 7)
 — Bi)
-Lek Ontyu Feo fe Yeo op eau"
 Me ott eS boy= <b—=s> 1m
 Be A+W-E=0 1's Yo <qu? ue
 ee) Tee As 9 » bya ab —s Lm
@@ -11998,7 +11609,6 @@ SD. Lan aa
 spa 6 > p= 196 . 1.96 = ONG S q-0- 0S a
 
 y
-x Rivewsal Mahsbibte. > DS Por) = =n ti apo Co M8) ( be. de
 —————
 2 Enpectes eee
 x“ © t 2 a b
@@ -12008,7 +11618,6 @@ EO) | 6.46 [25:99 | a4. |Z Q@) | 5-56 om
 ~@ =e) '2@) ©
 ©) Savuple 5 Wj=20 WHY , Gals ie
 Sowple: m2-180 , H-ya ) 8 =3.6
-fyssume Yor Mie to & Ht ah pate ——> 19
 
 1M
 
@@ -12031,7 +11640,6 @@ FC QI a iar
 = vy yonstor -
 ©3) a) Crvew } W = 200 )C=20 N= doe iP Coxisha ef
 
-aS PAP aNe) = aan sea to so mised 5 Fie OF
 
 = 0.0. dpm ber’ o£ 2-2
 —< | =0.0-oOugF2
@@ -12041,7 +11649,6 @@ aS PAP aNe) = aan sea to so mised 5 Fie OF
 aps le
 gee
 
-ap) pCa clo) = pcz<4.0) = dyeo $0 deo [eRt X= 4.6
 = 0.5 - tron bet” of 1.0
 ae er So. 04 o.yaaz
 4.5 = 0.068
@@ -12096,12 +11703,10 @@ FOR OR
 
 im
 --- page 5 ---
-©3) c) fase Hor Quali footer UE ASRS RMR =
 yy. Thon owe dependect. 8
 
 Ered Vrelues |
 
-Buahikeds| Peivate | Govemmend | Sth: rod “Tota
 
 Gedvote | 8ai5 56.0C (Sas | aco
 on- as ay
@@ -12151,7 +11756,6 @@ ay bo 6.y O.2 O62
 ai) pemer, Y=3) = preos' a O80 A aa ee
 a ; ‘ Oo
 = 0.| + 0.00 = OS =
-Kip) PGie2, VC 5) = =Pi=o,! ae poo ) +P(o2)-+ plojm)
 + POD + per, D+pe, ») (ee
 = 0.06 FO1+0.) + O11 +0.) 40.05 = 0.6
 
@@ -12189,12 +11793,9 @@ FLED Yo Is accegsted) cage
 
 a
 
-FOC IOICK GOR AOR Ra x
 --- page 7 ---
 ©8) 2) tet aH bs produced by made > plaasorlero.2
 pow is produced Ly Mochive B =) Cee o.uUS
-¢ = Hem ts chroducal by madsue C$ plc) =0.26
-tot p= Prociuced etom ts HOSEN ‘
 
 Se Ceh=0or , p(a)oees a p(elense—s 24
 
@@ -12213,7 +11814,6 @@ eae nem
 @5) b) Given foy= 26 =») ayers
 =e ©   , ohemse -
 
-Neon = EO) = toifern = EaatCEeD) oly
 
 2™
 = = an ety ae Ot : ae
@@ -12221,7 +11821,6 @@ AX 4
 EOP) = “Cteaninn Se odo
 ~alareyl~ a [eke 2] =
 = BH 0.2
-V tn) = EO) Ev)\= BE “Pe dL Saou mae
 
 FR CK
 
@@ -12229,8 +11828,6 @@ FR RK
 
 im
 --- page 8 ---
-Oo) <) foume Ho: Al froatmedts bods aqvol wyeam vane ve ; Egy
-Hitt lost one drootment Vos difjorort wyoom vecoveny Hue « =
 
 R=2 WEMe=Va=5 uate
 
@@ -12244,7 +11841,6 @@ wn
 —
 
 pe
-Teta! cuw 4, Squane Cis) = Pula eaey = 132.4 =
 
 ——$
 
@@ -12282,15 +11878,12 @@ ui
 >) POA el) = plo s1)= p(s) 40) — omy (Pass am
 as pe ee
 
--~) Enpeocteod mp4 bones = Ne pCaLi) = 61.79 z capri
 
 8) pooderpced=1-yoreiDe ogee
 
-. earecien wo. 9 bumes = Nx por>2) Goo —
 
 FOC IGICK QR rR AR x
 --- page 9 ---
-©) b) lod -He Compnjce ves emod| Pc) = 0.66
 
 Be Spyies Wes af NRE OS im
 
@@ -12316,7 +11909,6 @@ BD) pChvd)= pt p@)—plans)= oF
 Sug Ss —
 Mesto Are. > Re Bway Hs uf
 
-Agsume Hor Pie Pa to otdion a pai a
 yy! B AP2 rab ts veduced : es
 
 Ps a 0.1888 > 4 = 0-81! a in
@@ -12349,25 +11941,18 @@ Moc) =f Sp co5 Re Pe do = > Sars) é da im:
 = Catedn = a! (G-mddn = 2 = 0.088 -——> Le
 
 ——
-t tatefonalnn = 2 {QP Pd = i =0 168% —> i»
-dis iat a hodde= a! { Gr-atan = + = 0.) “> 1m
 
 b>) 2) ©) Gitar m=I2 , Hx 18.6 SIF2 fe on sm
 V2 =10 y Fa =16.9. - n=. ||
-Accuwe Ho ° MWA edly tc No, aloes ust howe bugher fuel oye ‘a
-4". Aa? Ap toh has Wepor 4ud Noes)
 
-Spe ) Cuda Coarse: mcy +(ns) So Ce = Ne QHE2 2
 | nitYs-2 —— ——
 
-Se em +i Peo) dee ae bn
 
 ee pote
 
 t4|= | #2 |- |2 Segkeab| ess th
 0.9554 | ———
 
-At 2]. 9S pfor me dailed tert & poP=w+Ms-2 =2) tha) 12]
 Tae
 se Atte tA Yots recta
 
@@ -12381,6 +11966,7 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Probability and Statistics/ANS_Probability and Statistics(703BS0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 May 2025
 - Text: mixed (6 pages), mean OCR confidence 74.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -12599,7 +12185,6 @@ dy 3ytl 19
 P(FIA) =
 
 Db solution Here x= 1550, s =120,n=25 and p= 1600.
-Ay x =u and Ay: xX <p
 Left-tailed test is to be used. LOS be 5%.
 ¥-m _ -50V24
 
@@ -12671,6 +12256,7 @@ FIC 6 I HF
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Probability and Statistics/ANS_Probability and Statistics(703BS0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2025
 - Text: mixed (7 pages), mean OCR confidence 74.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -12794,7 +12380,6 @@ Total number of items =n=5
 b} Straight line is y = ag + aux
 The two normal equations are
 Sy =nant+a ox
-YS ry =a) ext ay do 2x?
 n=7, dla = 113, Soa? = 1983, Sy = 182,d> vy = 3186
 
 Tag + 113a; = 182 ‘(1 M]
@@ -12909,7 +12494,6 @@ Req. frequencies 109,66,20,4,1,
 b | Formula
 y=16x+20
 x=40,y=660
-c nm, =400 , mm =600 , p,=.5, Py =0.5416 {1 M)
 
 Step 1 Null hypothesis
 

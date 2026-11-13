@@ -545,6 +545,134 @@ Figure - 2
 Page - 2 of 2
 ````
 
+## 2023-24 · Re-Exam · Sem 5 · paper c83e3159281c
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/DESIGN OF STEEL STRUCTURES/Design of steel Structures Batch 2021-22 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 4 / 7/2024
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2023-2024
+Program: B.Tech. / B.Tech. Integrated
+Stream: Civil Engineering
+Subject: Design of Steel Structures
+Date: 4 / 7/2024
+Marks: 100
+, Re-Examination
+
+Year: III /V
+
+Semester: VI /X
+
+Time: 3 Hrs. (2.00 p.m. to 5.00 p.m.)
+No. of Pages: 2
+
+(2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+8) Use of Steel Table and IS 800 — 2007 is permitted.
+
+Qi a. Determine the type of section and buckling class of ISWB600 @ 145.1 kg/m when used asa _ [05]
+
+column. [CO1, SO1, BL4]
+
+Qi b. Explain step by step procedure of design of a column with lacing. [CO3, SO1, BL2] [05]
+
+Qic. Determine the maximum load carrying capacity of bracketed connection as shown in [05]
+
+figure 1. [CO1, SO1, BL4]
+
+Qid. Explain in brief limit state of strength and limit state of serviceability. [CO1, SO7, BL2] [05]
+
+Q2a. Explain characteristic actions, design actions and design strength with reference to LSM of [10]
+
+design of steel structures. [CO1, SO7, BL2]
+
+Q2b. A bracketed connection is as shown in figure 2. Determine the diameter of the 4.6 grade bolt [10]
+
+required. [CO1, SO2, BL5]
+
+Q3 a. Design a tension member carrying a factored tensile load of 200 KN. Use single angle section’ [10)
+of 8 mm thick connected to 10 mm thick gusset plate. Also design the end connection.
+
+[CO1,2, SO2, BLS]
+
+Q3b. Determine the capacity of a single angle discontinuous strut having cross section [10]
+ISA100x100x8 connected by two bolts at its ends to a 10 mm thick gusset plate. The length
+
+of the strut is 3.2m. [CO3, SO1, BL4]
+Q4 Design a battened column 4 m long with channels placed
+
+back to back to carry factored [20]
+
+compressive load of 1600 kN. Both ends of the column are fixed. Assume 4.6 grade bolts.
+
+Also sketch the connection details. [CO1,3, SO2, BL5]
+
+Page - 1 of 2
+--- page 2 ---
+i
+
+Q5 Design a gusseted base for a column ISHB 300 @ 58.8 kg/m having a factored: déad of [20]
+1600 KN. Also determine the dimensions of concrete pedestal. Use yield strength of 250 MPa
+and M15 grade of concrete. Provide bolted connection for gusseted base. Use 24 mm
+diameter 4.6 grade bolts. Assume SBC of soil as 200kKN/m?. [CO1,3, SO2, BL5]
+
+Q6a. A column ISHB 400 is fixed at both ends. The length of the column is 10m. Determine the [10]
+load carrying capacity of the column. [CO3, SO1, BL4]
+
+Q6b. A beam ISMBS500 is simply supported over a span of 5m. The beam is laterally unsupported [10]
+throughout. Determine the maximum factored uniformly distributed load beam can carry over
+entire span. [CO2, SO1, BL4]
+
+Q7a. A beam is simply supported over a span of 5m and carries a factored load of 30 KN/m over [10]
+entire span. Design the beam with suitable ISMB section. Assume the beam is laterally
+supported throughout. Carry out deflection check. [CO1,2, SO2, BLS]
+
+Q7b. A beam ISMB300 transmits a reaction of 130 KN to flange of column ISHB200 @ 37.3 kg/m. [10]
+Design a stiffened seated welded connection. [CO1,2, SO2, BL5]
+
+4.6 grade /'
+
+6 mm Fillet Weld =)
+
+__150 150 |p 8 bolts 70 150 |100kN
+rm) mm am! [mam
+e
+E o
+3
+ray ' e |
+yy A 8mm e
+Thick Plate i 8 mm
+Flange of Thick Plate
+ISMBS500 Flange of
+__
+/ ISMB400
+Figure — 1 /
+Figure - 2
+
+Page - 2 of 2
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 50a1327b9ddf
 
 - Departments: Civil
@@ -830,6 +958,127 @@ sons factored axial compressive load of 1050 KN for the following condition: Loa
 BL-5 base plate by welded connections; the column end and the base plate are not machined for bearing.
 The base rests on concrete pedestal of grade M20. Assume Safe Bearing Capacity (SBC) of soil =
 170kKN/m?.
+````
+
+## 2022-23 · Re-Exam · Sem 6 · paper 8409ecf4b36a
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF STEEL STRUCTURES/Design of Steel Structures, Sem-VI, Batch 2021-22, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/Tune/2023
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’S NMIMS vs
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+Program: B.Tech. Stream: Civil Engineering Year: HI Semester: VI
+Subject: Design of Steel Structures Time: 3 Hrs.(2:00pm to 5:00 pm)
+Date: 27/Tune/2023 No. of Pages: 2
+Marks: 100
+Re-Examination (Batch 2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of IS 800: 2007 and Steel Table is permitted.
+
+Qlia. Explain different bolted and welded connections used in fabrication of steel [05]
+structures. [CO2,5, SO1, BL2]
+Q1b. What is Limit State? Explain different limit states. [CO1, SO1, BL2] [05]
+
+Qlc. Enlist different grades of steel used in fabrication of steel structures. Explain [05]
+their physical properties. [CO1, SO1, BL2]
+Qld. Write note on buckling classes of different cross sections. [CO1, SO3, BL2] [05]
+
+Q2a._ Explain step by step procedure for design of a compression member consisting [10]
+of a single angle section . [CO2 , SO2, BL3}
+
+Q2b. Write a note on design of beam end connections. Justify your answers with neat [10]
+sketches. [CO2,4, SO1, BLS]
+
+Q3a._ A axially loaded member consists of steel plates of 200 x 8 mm and 200x12 [10]
+mm of grade 410 joined together by a lap joint. Design the connection with
+bolts of grade 4.6 Also sketch the connection details. [CO2,4,5, SO2,4, BLS]
+
+Q3b. Design a stiffened seated welded connection to join ISMB300 with a flange of [10]
+column section ISMB600. The beam has to transmit an unfactored end reaction
+of 250 kN. [CO2,4, SO2,4, BLS]
+
+Page - | of 2
+--- page 2 ---
+Q4a.
+
+Q4b.
+
+Q5a.
+
+Q5b.
+
+Q6
+
+Q7
+
+;
+
+Design a suitable single angle section for a member ofa truss to carry a factored [10]
+tensile force of 100 kN using 4.6 grade M16 black bolts. The yield strength and
+ultimate strength of the material is 250MPa and 410MPa respectively. The
+length of the member is 3m. [CO2,4,5, SO2,4, BL5]
+
+Design a double equal angle section for a member of a truss as a continuous [10]
+strut to carry a factored load of 150 kN. Length of member is 1.8 m. The yield
+strength and ultimate strength of the material is 250MPa and 410MPa
+respectively. [CO2,4,5, SO2,4, BL5]
+
+Design a simply supported beam of span 5m carrying a reinforced concrete [10]
+floor capable of providing lateral restraint to the top compression flange. The
+factored uniformly distributed load is made up of 15 kN/m imposed load and
+
+12 kN/m dead load including self-weight. Assume yield strength and ultimate
+strength of the material is 250MPa and 410MPa respectively.
+
+[CO2,4, SO2,4, BLS] .
+
+Determine the factored load P for the connection shown in figure below. [10]
+[CO2,4, SO1, BL4]
+
+~T 22, Peo Coes
+of!
+
+oO
+
+20 bolt 4: 6grade
+
+immmbhk
+
+Design a gusseted base for a column ISMB 350 having a factored load of [20]
+800KN. Also determine the dimensions of concrete pedestal. Use yield strength
+
+of 250MPa and M10 grade of concrete. Provide bolted connection for gusseted
+
+base. Use 20 mm diameter 4.6 grade bolts. [CO2,3, SO2,4, BL5]
+
+Design a battened column 3 m long with channels placed face to face to carry [20]
+factored compressive load of 800kN. Both ends of the column are hinged.
+Assume welded connection. Also sketch the connection details
+
+[CO2,3, SO2,4, BLS]
+
+Page - 2 of 2
 ````
 
 ## 2022-23 · Re-Exam · Sem 6 · paper ade928126784
@@ -1241,255 +1490,6 @@ BL-3 ; BL-6 Illustrate with a neat labelled plan and elevation for the designed 
 3/3
 ````
 
-## 2021-22 · Re-Exam · Sem 5 · paper c83e3159281c
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/DESIGN OF STEEL STRUCTURES/Design of steel Structures Batch 2021-22 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 4 / 7/2024
-- Text: ocr (2 pages), mean OCR confidence 89.2
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2023-2024
-Program: B.Tech. / B.Tech. Integrated
-Stream: Civil Engineering
-Subject: Design of Steel Structures
-Date: 4 / 7/2024
-Marks: 100
-, Re-Examination
-
-Year: III /V
-
-Semester: VI /X
-
-Time: 3 Hrs. (2.00 p.m. to 5.00 p.m.)
-No. of Pages: 2
-
-(2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-8) Use of Steel Table and IS 800 — 2007 is permitted.
-
-Qi a. Determine the type of section and buckling class of ISWB600 @ 145.1 kg/m when used asa _ [05]
-
-column. [CO1, SO1, BL4]
-
-Qi b. Explain step by step procedure of design of a column with lacing. [CO3, SO1, BL2] [05]
-
-Qic. Determine the maximum load carrying capacity of bracketed connection as shown in [05]
-
-figure 1. [CO1, SO1, BL4]
-
-Qid. Explain in brief limit state of strength and limit state of serviceability. [CO1, SO7, BL2] [05]
-
-Q2a. Explain characteristic actions, design actions and design strength with reference to LSM of [10]
-
-design of steel structures. [CO1, SO7, BL2]
-
-Q2b. A bracketed connection is as shown in figure 2. Determine the diameter of the 4.6 grade bolt [10]
-
-required. [CO1, SO2, BL5]
-
-Q3 a. Design a tension member carrying a factored tensile load of 200 KN. Use single angle section’ [10)
-of 8 mm thick connected to 10 mm thick gusset plate. Also design the end connection.
-
-[CO1,2, SO2, BLS]
-
-Q3b. Determine the capacity of a single angle discontinuous strut having cross section [10]
-ISA100x100x8 connected by two bolts at its ends to a 10 mm thick gusset plate. The length
-
-of the strut is 3.2m. [CO3, SO1, BL4]
-Q4 Design a battened column 4 m long with channels placed
-
-back to back to carry factored [20]
-
-compressive load of 1600 kN. Both ends of the column are fixed. Assume 4.6 grade bolts.
-
-Also sketch the connection details. [CO1,3, SO2, BL5]
-
-Page - 1 of 2
---- page 2 ---
-i
-
-Q5 Design a gusseted base for a column ISHB 300 @ 58.8 kg/m having a factored: déad of [20]
-1600 KN. Also determine the dimensions of concrete pedestal. Use yield strength of 250 MPa
-and M15 grade of concrete. Provide bolted connection for gusseted base. Use 24 mm
-diameter 4.6 grade bolts. Assume SBC of soil as 200kKN/m?. [CO1,3, SO2, BL5]
-
-Q6a. A column ISHB 400 is fixed at both ends. The length of the column is 10m. Determine the [10]
-load carrying capacity of the column. [CO3, SO1, BL4]
-
-Q6b. A beam ISMBS500 is simply supported over a span of 5m. The beam is laterally unsupported [10]
-throughout. Determine the maximum factored uniformly distributed load beam can carry over
-entire span. [CO2, SO1, BL4]
-
-Q7a. A beam is simply supported over a span of 5m and carries a factored load of 30 KN/m over [10]
-entire span. Design the beam with suitable ISMB section. Assume the beam is laterally
-supported throughout. Carry out deflection check. [CO1,2, SO2, BLS]
-
-Q7b. A beam ISMB300 transmits a reaction of 130 KN to flange of column ISHB200 @ 37.3 kg/m. [10]
-Design a stiffened seated welded connection. [CO1,2, SO2, BL5]
-
-4.6 grade /'
-
-6 mm Fillet Weld =)
-
-__150 150 |p 8 bolts 70 150 |100kN
-rm) mm am! [mam
-e
-E o
-3
-ray ' e |
-yy A 8mm e
-Thick Plate i 8 mm
-Flange of Thick Plate
-ISMBS500 Flange of
-__
-/ ISMB400
-Figure — 1 /
-Figure - 2
-
-Page - 2 of 2
-````
-
-## 2021-22 · Re-Exam · Sem 6 · paper 8409ecf4b36a
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF STEEL STRUCTURES/Design of Steel Structures, Sem-VI, Batch 2021-22, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/Tune/2023
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’S NMIMS vs
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-Program: B.Tech. Stream: Civil Engineering Year: HI Semester: VI
-Subject: Design of Steel Structures Time: 3 Hrs.(2:00pm to 5:00 pm)
-Date: 27/Tune/2023 No. of Pages: 2
-Marks: 100
-Re-Examination (Batch 2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of IS 800: 2007 and Steel Table is permitted.
-
-Qlia. Explain different bolted and welded connections used in fabrication of steel [05]
-structures. [CO2,5, SO1, BL2]
-Q1b. What is Limit State? Explain different limit states. [CO1, SO1, BL2] [05]
-
-Qlc. Enlist different grades of steel used in fabrication of steel structures. Explain [05]
-their physical properties. [CO1, SO1, BL2]
-Qld. Write note on buckling classes of different cross sections. [CO1, SO3, BL2] [05]
-
-Q2a._ Explain step by step procedure for design of a compression member consisting [10]
-of a single angle section . [CO2 , SO2, BL3}
-
-Q2b. Write a note on design of beam end connections. Justify your answers with neat [10]
-sketches. [CO2,4, SO1, BLS]
-
-Q3a._ A axially loaded member consists of steel plates of 200 x 8 mm and 200x12 [10]
-mm of grade 410 joined together by a lap joint. Design the connection with
-bolts of grade 4.6 Also sketch the connection details. [CO2,4,5, SO2,4, BLS]
-
-Q3b. Design a stiffened seated welded connection to join ISMB300 with a flange of [10]
-column section ISMB600. The beam has to transmit an unfactored end reaction
-of 250 kN. [CO2,4, SO2,4, BLS]
-
-Page - | of 2
---- page 2 ---
-Q4a.
-
-Q4b.
-
-Q5a.
-
-Q5b.
-
-Q6
-
-Q7
-
-;
-
-Design a suitable single angle section for a member ofa truss to carry a factored [10]
-tensile force of 100 kN using 4.6 grade M16 black bolts. The yield strength and
-ultimate strength of the material is 250MPa and 410MPa respectively. The
-length of the member is 3m. [CO2,4,5, SO2,4, BL5]
-
-Design a double equal angle section for a member of a truss as a continuous [10]
-strut to carry a factored load of 150 kN. Length of member is 1.8 m. The yield
-strength and ultimate strength of the material is 250MPa and 410MPa
-respectively. [CO2,4,5, SO2,4, BL5]
-
-Design a simply supported beam of span 5m carrying a reinforced concrete [10]
-floor capable of providing lateral restraint to the top compression flange. The
-factored uniformly distributed load is made up of 15 kN/m imposed load and
-
-12 kN/m dead load including self-weight. Assume yield strength and ultimate
-strength of the material is 250MPa and 410MPa respectively.
-
-[CO2,4, SO2,4, BLS] .
-
-Determine the factored load P for the connection shown in figure below. [10]
-[CO2,4, SO1, BL4]
-
-~T 22, Peo Coes
-of!
-
-oO
-
-20 bolt 4: 6grade
-
-immmbhk
-
-Design a gusseted base for a column ISMB 350 having a factored load of [20]
-800KN. Also determine the dimensions of concrete pedestal. Use yield strength
-
-of 250MPa and M10 grade of concrete. Provide bolted connection for gusseted
-
-base. Use 20 mm diameter 4.6 grade bolts. [CO2,3, SO2,4, BL5]
-
-Design a battened column 3 m long with channels placed face to face to carry [20]
-factored compressive load of 800kN. Both ends of the column are hinged.
-Assume welded connection. Also sketch the connection details
-
-[CO2,3, SO2,4, BLS]
-
-Page - 2 of 2
-````
-
 ## 2021-22 · Re-Exam · Sem 6 · paper ac1bf0436c1e
 
 - Departments: Civil
@@ -1630,6 +1630,7 @@ Page - 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF STEEL STRUCTURES/Design of steel structure..Final 18-19,Re-exam 17-18.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 22 April 2019
 - Text: ocr (3 pages), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1675,7 +1676,6 @@ curve between moment and rotation. (3.5)
 Q.2 a) Design a single angle to carry a factored tensile load of 120 kN. Use M20 bolts for end
 
 connections having class 4.6. Yield and ultimate strengths are 250 and 410 MPa. (7)
-fev froctiw eA heed 2 -QWwe len
 
 b) Design a built up column using. I section and plates on each side. The unsupported length is
 
@@ -1743,6 +1743,7 @@ Allahabad, to support a galvanised corrugated iron sheet roof for the following 
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_08/DESIGN OF STEEL STRUCTURES/Design of Steel Structures 2018-19 Final.pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 75.9
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -1899,7 +1900,6 @@ column is 5 m. The column is supported on a pedestal of M 20 concrete.
 RISK COEFFIGIENTS.FOR DIFFERENT CLASSES OF STRUCTURES IN
 
 IFFERENT WIND SPEED ZONES
-Cuass or SrxvoturE Muss Propaste 4, Facror ror Basre Wino Sezep
 Desron Lire or (m/s) or
 Structure mv ¢ a ~
 Yranrs 33 39 44 47 50 55
@@ -1936,11 +1936,9 @@ structures
 _ FACTORS TO OBTAIN DESIGN WIND SPEED VARIATION WITH HEIGHT IN
 DIFFERENT TERRAINS FOR DIFFERENT CLASSES OF BUILDINGS/STRUCTURES
 
-Heweur Tuerarm Carecory 1 Tzreaw Carecory 2 Tesrais Carecony3 Tzeramn Carzcony 4
 
 Ag8 Crass Crass Crass
 | sietnadeaainins ™~ £ 2. * £ othe + ¢ he =
-™m A B c A B c A B c A B c
 
 a) 8) 6) 6) 8 (0) I) 2) (13)
 i905 10309900 098 09ST BBB. BOG GT
@@ -1966,7 +1964,6 @@ Page 3 of 4
 --- page 4 ---
 EXTERNAL PRESSURE COEFFICIENTS ( Cpo ) FOR PITCHED ROOFS OF RECTANGULAR CLAD BUILDINGS
 
-Beane Roey Wren Ancux 6 Winn Axoare 6
 Haeicue Axoin oe ; 90°
 Ratio &
 EF GH EG. FH
@@ -1995,6 +1992,376 @@ rT 7<é » ~10 ~-o5 | ~08 -07
 66 +05 ~05 | -08 -07
 
 Page 4 of 4
+````
+
+## 2018-19 · Re-Exam · Sem 6 · paper 7dd6b3ec1a2a
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF STEEL STRUCTURES/Design of steel structures...Re-exam 2017-18.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 18 June 2019
+- Text: ocr (3 pages), mean OCR confidence 85.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA. Tech / B.Tech (CIVIL) Year: IT Semester: VI
+Academic Year: 2018-19
+Subject: Design of Steel Structures : Marks: 70
+Date: 18 June 2019 Time: 10.00 am to 1.00 pm
+
+Duration: 3 (Hrs)
+No. of Pages: ~3
+
+Re- Examination (2017-18/2018-19)
+
+Instructions: Candidate’ should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. =
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+8) IS: 800 (2007) and Steel Table is permitted.
+
+Ql
+A) Attempt any two questions (8)
+1) List various advantages of steel as a structural material.
+2) Explain gusseted base in detail with neat sketches.
+3) Explain four classes of cross section based on moment rotation behavior showing curve
+between moment and rotation.
+B) Attempt any two questions (6)
+1) Explain shear lag and state shear lag factor for bolting and welding.
+2) What are the various parameters affecting the lateral stability of a flexural member?
+3) List any 3 buckling failures in struts and specify all parameters affecting the same with a
+neat sketch.
+
+Q.2
+a) A beam ISMB 400 transmits an end reaction of 240KN (factored) to the flange of a steel (7)
+
+column ISHB 250 @ 5lkg/m. Design welded stiffened seated connection.
+
+b) Calculate the moment carrying capacity of a laterally unsupported beam ISLB 400 for an (7)
+unsupported span of 4m.
+
+tp
+--- page 2 ---
+Q3
+a)
+
+b)
+
+Q.4
+
+Q5
+a)
+
+b)
+
+Q.6
+a)
+
+b)
+
+Q.7
+a)
+
+Design a tie member using suitable single unequal angle section to carry a tensile factored
+load of 200KN. The connection are with 20mm diameter bolts and 12mm thick gusset
+plate. Design strength of 20mm diameter bolts = 45.3KN. fy = 250MPa, fu = 410MPa.
+Longer leg is connected to the gusset plate.
+
+Design a double angle discontinuous strut used in a roof truss to carry a factored load of
+170KN. The length of member between centre to centre of intersection is 3m. The angles
+are placed back to back on either side of gusset plate. Also design bolted connection and
+show the design details in the form of a neat sketch. Use equal angle arrangement.
+
+Design a battened built-up column 9m long to carry a factored axial compressive load of
+1100KN. The column is fixed at both the ends. Provide bolted connections for the designed
+batten system. Channels are placed back to back. Use steel of grade Fe410.
+
+A hall of size 15m x 30m is provided with Howe type steel roof trusses at 3.75m c/c.
+Calculate panel point loads for dead load, live load and wind load cases from the
+following data.
+
+i) Unit weight of roof covering = 205 N/m?
+
+ii) Self-weight of purlin = 130 N/m?
+
+iii) Rise to span ratio = 1/5 =
+iv) Coefficient of external wind action = -0.7
+
+v) Coefficient of internal wind action = +0.2/-0.2
+
+vi) Design wind pressure = 1150 N/mm?
+vii) Total number of panels = 8
+
+Design an I-section purlin using the following data:
+Design wind pressure on roof sheet = 1300MPa
+Dead load of A.C. sheet = 159MPa
+
+Roof slope = 15 degrees to horizontal
+
+Span of purlin = 6m
+
+Spacing of purlin = 1.4m
+
+Assume suitable data if required.
+
+x
+
+Design a slab base for a column ISHB 350 @ 67.4kg/m carrying a factored load of
+1000kN. Also design the welded connection between the slab base and column. Use
+concrete grade M20 and Fe410 for steel.
+
+An ISMB 500 beam transmits an end reaction of 250KN to the web of a column ISHB 300
+@ 58.8kg/m. Design and sketch the stiffened seated connection. Use M24 grade black
+bolts.
+
+A simply supported beam 5.2m long carries a uniformly distributed load of SO0kN/m. The
+
+als
+
+(7)
+
+12)
+
+(14)
+
+©)
+
+12)
+
+(7)
+
+1)
+
+1)
+--- page 3 ---
+4
+beam is laterally supported. Design the section with necessary checks.
+
+b) Check the stability of the eccentric connection for the Fig.1 shown below. (7)
+A \v SOKN
+
+100mm |120mm_
+
+50mm t a ©
+J
+50mm 7 6
+somml * e| \
+50mm y © e 10mm thick bracket plate
+\ (Fe 410)
+
+20mm dia. 4.6 grade bolts
+
+Fig. 1
+
+MPSTME
+ws LIBRARY
+
+SN
+Vv * _
+SMM
+````
+
+## 2018-19 · Re-Exam · Sem 8 · paper af86a26d040d
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_08/DESIGN OF STEEL STRUCTURES/Design of Steel Structures Batch 2017-18 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 April 2019
+- Text: ocr (3 pages), mean OCR confidence 89.3
+
+````text
+: IV Semester: VIE 7
+
+4
+
+Program :B.Tech Integrated (CIVIL) —
+| Academic Year: 2018-2019
+
+Subject: Design of Steel Structures ~~ Marks: 60 —
+Date: 13 April 2019 _- Time: 10.00 am to 01.00 pm =~
+
+Duration: 3 (hrs)
+No. of Pages: 3
+
+: Re-examination (2017-18) -
+
+a |
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) IS 800(2007) IS 875 part III and Steel table is permitted
+
+QUESTION NO. 1 (SOLVE ANY FOUR) . (12)
+(a) Discuss advantages and disadvantages of Steel Construction over RCC.
+
+(b) List all factors affecting the strength of the column
+
+(c) Explain four classes of cross section based on moment rotation behavior.
+
+(d) Explain defects observed in welding process and their causes.
+
+(e) Explain Difference between Limit state Method and Working Stress Method.
+
+QUESTION NO. 2
+
+(a) Determine the tensile strength of a roof truss member 2 [SA 90x90x6 connected (6)
+to the gusset plate of 8mm thick on either side of the gusset plate by 6mm weld.
+Yield and Ultimate Strength of a section is 250 and 410 MPa respectively.
+
+(O]s
+--- page 2 ---
+(b)
+
+(a) .
+
+(b)
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+Design a single unequal angle section for a roof truss to carry a working tension
+load of ISOKN. The angle is connected to a gusset plate 10mm thick. The
+member is in tension experiences reversal of stresses for wind load. Draw a
+neat sketch to show the arrangement of bolt . The length of the member is 3.5m.
+Use M20 bolts of Grade 4.6. Yield and Ultimate Strength of a section is 250
+and 410 MPa respectively. Take kb as 0.5 and gauge distance as 40mm.
+
+QUESTION NO. 3
+
+Calculate the compressive strength of angle ISA 75x75x5, 2.5 m long loaded
+through a single leg The member is connected to a gusset plate with one bolt.
+The connection is fixed at both the ends of compression member. Take fy 250
+MPa and fu-410 MPa.
+
+Find the efficiency of double bolted lap joint connecting 2 plates of 8mm
+thickness with 20mm diameter bolt of 4.6 grade at a pitch of 75mm. Width of
+plate is 200mm Grade of plate Fe 410.
+
+QUESTION NO. 4
+
+Design a Slab base for-a column ISHB 350@ 72.4 kg/m carrying a factored
+load of 1000KN. Also design the welded connection between the slab base and
+column. Use concrete grade as M20 and Fe 410 Steel.
+
+Check the section ISMB400 for web buckling and web crippling if stiff bearing
+is over a length of b1=75mm subjected to an end reaction of 200kKN
+
+QUESTION NO. 5
+
+Design Battened built up 10m long to carry a factored axial compression of
+1O80KN. The column is fixed and at both ends. Provide bolted connection for
+the design batten system. Channels are placed back to back. Use Fe 410 Steel
+
+QUESTION NO. 6
+
+Calculate the design capacity of a beam ISMB 350 of span 4.5m which is
+laterally unsupported in compression and the ends are fully torsional restrained.
+
+A simply supported beam of span 6m supports the RCC Slab. The compression
+flange of a beam is restrained due to its connection with the slab. The Beam is
+subjected to a total load of 30kN/m (including self weight of beam). Design the
+beam.
+
+3
+
+(6)
+
+(6)
+
+(6)
+
+(6)
+
+(6)
+
+(12)
+
+(4)
+
+(8)
+--- page 3 ---
+QUESTION NO. 7
+
+(a) Determine the design loads on purlins of an industrial building near (6)
+Vishakhapatnam.
+Life of the building 50 years.
+Terrain Category 2
+Length of the building = 40m
+Width of the building = 15m
+Height of the building = 8m
+Topography — relatively smooth surface
+CPi = +/- 0.2
+Span of truss 15m
+Slope of the roof 20°
+Take Sheeting as AC Sheets
+Purlin Spacing = 1.35m
+Spacing of truss 4m
+Assume live load on sheeting as 0.5kN/sqm
+
+(b) Find the factored load P in KN which can applied safely on the connection as (6)
+shown in fig 1. The size of the weld is 8mm.
+
+PEN
+
+i
+i > t
+
+A
+
+1SOmm | 1ftirmem |
+
+Sa
+
+j 4
+i
+
+~ 1
+
+| |
+
+260mm || RY
+
+f 10mm thick
+
+| ¥~ Bracket plate (Fe 410)
+
+ot Bseeess Sf
+<—~ISHB 200
+A, (Thickness of flange 11mm}
+_ 200mm
+FIG. |
+
+(3)|3
 ````
 
 ## 2018-19 · Re-Exam · Sem 8 · paper bebb99efa642
@@ -2801,6 +3168,127 @@ x / (Fe 410) |
 Fig. 1 |
 ````
 
+## 2017-18 · Re-Exam · Sem 6 · paper be88df888af6
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF STEEL STRUCTURES/DESIGN_OF_STEEL_STRUCTURES_BATCH_15-16_16-17_RE_EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 03 July 2018
+- Text: ocr (2 pages), mean OCR confidence 94.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG
+
+Programme: B. Tech (CIVIL) Year: III Semester: VI
+
+Batch: (2015-16 / 2016-17)
+Academic Year: 2017-18
+
+Subject: Design of Steel Structures
+Marks: 60
+Date: 03 July 2018 - Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages: ___ 0%
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Bock, which is provided for their use.
+
+1) Question No. One is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) IS: 800 (2007) and Steel Table is permitted.
+
+Question No. 1 (Solve any Four) (12)
+a) List important advantages of steel construction over RCC construction.
+b) Explain shear lag and state shear lag factor for bolts and welds.
+c) Explain unstiffened seated connection.
+d) List various buckling failures and specify all parameters affecting the same.
+e) Explain step by step procedure for wind load calculations in an industrial truss shed.
+
+Question No. 2 (12)
+Design laced column 10m long with channels placed back to back to carry factored
+compressive load of 1080KN. Both ends are hinged. Assume bolted connection.
+
+Question No. 3 (12)
+Design a suitable I-section for a simply supported beam of span 5m carrying a dead load
+
+of 20kN/m and imposed load of 40kN/m. The beam is laterally unsupported throughout
+
+the span. Take fy=250 MPa
+
+netnieaiteal .
+Question No. 4
+a) A tension member consists of 2 ISA 90x90x8mm @10.8kg/m placed back to back on (6)
+ze either side of 10mm thick gusset plate. Determine design strength using bolted connection.
+
+Use 4.6 grade black bolts.
+--- page 2 ---
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+Design a double angle discontinuous strut used in a roof truss to carry a factored load of
+170KN. The length of member between centre to centre of intersection is 3m. The angles
+are placed back to back on either side of gusset plate, also design bolted connection and
+show the design details in the form of a neat sketch. Use equal angle arrangement.
+
+Question No. 5
+A beam ISMB 400 transmits an end reaction of 240kN (factored) to the flange of a steel
+column ISHB 250@5 kg/m. Design welded stiffened seated connection.
+
+Determine load carrying capacity of a compound column consisting ISMB 400@
+61.6kg/m with one cover plate of 300x20mm on each flange and having a length of Sm.
+One end of the column is fixed and other end is pinned. Assume Fy=250MPa.
+
+Question No. 6
+
+A simply supported beam 5m span carries uniformly distributed load of 40kN/m. In
+addition, the beam carries a central point load of SOKN. The beam is laterally supported.
+Design a suitable I-section and provide necessary checks except shear and deflection.
+
+A beam ISWB 550, having equal flange width to that of column, transfers a factored end
+reaction of 275KN to the flange of the column ISSC250. Design the stiffened seat angle
+connection using 20 mm bolts of grade 4.6. Assume Fy=250MPa.
+
+Question No. 7 :
+
+A column ISHB 350 @ 67.4kg/m having a factored load of 1800KN. Design a gusseted
+base. Use yield strength of 250MPa and M15 grade of concrete. Provide bolted connection
+for gusseted base. Use 24mm diameter 4.6 grade black bolts.
+
+Za
+
+(6)
+
+(6)
+
+(6)
+
+(6)
+
+(6)
+
+(12)
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper 74abf8b1ddb4
 
 - Departments: Civil
@@ -2938,376 +3426,6 @@ for gusseted base. Use 24mm diameter 4.6 grade black bolts.
 (14)
 ````
 
-## 2017-18 · Re-Exam · Sem 6 · paper 7dd6b3ec1a2a
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF STEEL STRUCTURES/Design of steel structures...Re-exam 2017-18.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 18 June 2019
-- Text: ocr (3 pages), mean OCR confidence 85.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA. Tech / B.Tech (CIVIL) Year: IT Semester: VI
-Academic Year: 2018-19
-Subject: Design of Steel Structures : Marks: 70
-Date: 18 June 2019 Time: 10.00 am to 1.00 pm
-
-Duration: 3 (Hrs)
-No. of Pages: ~3
-
-Re- Examination (2017-18/2018-19)
-
-Instructions: Candidate’ should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. =
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-8) IS: 800 (2007) and Steel Table is permitted.
-
-Ql
-A) Attempt any two questions (8)
-1) List various advantages of steel as a structural material.
-2) Explain gusseted base in detail with neat sketches.
-3) Explain four classes of cross section based on moment rotation behavior showing curve
-between moment and rotation.
-B) Attempt any two questions (6)
-1) Explain shear lag and state shear lag factor for bolting and welding.
-2) What are the various parameters affecting the lateral stability of a flexural member?
-3) List any 3 buckling failures in struts and specify all parameters affecting the same with a
-neat sketch.
-
-Q.2
-a) A beam ISMB 400 transmits an end reaction of 240KN (factored) to the flange of a steel (7)
-
-column ISHB 250 @ 5lkg/m. Design welded stiffened seated connection.
-
-b) Calculate the moment carrying capacity of a laterally unsupported beam ISLB 400 for an (7)
-unsupported span of 4m.
-
-tp
---- page 2 ---
-Q3
-a)
-
-b)
-
-Q.4
-
-Q5
-a)
-
-b)
-
-Q.6
-a)
-
-b)
-
-Q.7
-a)
-
-Design a tie member using suitable single unequal angle section to carry a tensile factored
-load of 200KN. The connection are with 20mm diameter bolts and 12mm thick gusset
-plate. Design strength of 20mm diameter bolts = 45.3KN. fy = 250MPa, fu = 410MPa.
-Longer leg is connected to the gusset plate.
-
-Design a double angle discontinuous strut used in a roof truss to carry a factored load of
-170KN. The length of member between centre to centre of intersection is 3m. The angles
-are placed back to back on either side of gusset plate. Also design bolted connection and
-show the design details in the form of a neat sketch. Use equal angle arrangement.
-
-Design a battened built-up column 9m long to carry a factored axial compressive load of
-1100KN. The column is fixed at both the ends. Provide bolted connections for the designed
-batten system. Channels are placed back to back. Use steel of grade Fe410.
-
-A hall of size 15m x 30m is provided with Howe type steel roof trusses at 3.75m c/c.
-Calculate panel point loads for dead load, live load and wind load cases from the
-following data.
-
-i) Unit weight of roof covering = 205 N/m?
-
-ii) Self-weight of purlin = 130 N/m?
-
-iii) Rise to span ratio = 1/5 =
-iv) Coefficient of external wind action = -0.7
-
-v) Coefficient of internal wind action = +0.2/-0.2
-
-vi) Design wind pressure = 1150 N/mm?
-vii) Total number of panels = 8
-
-Design an I-section purlin using the following data:
-Design wind pressure on roof sheet = 1300MPa
-Dead load of A.C. sheet = 159MPa
-
-Roof slope = 15 degrees to horizontal
-
-Span of purlin = 6m
-
-Spacing of purlin = 1.4m
-
-Assume suitable data if required.
-
-x
-
-Design a slab base for a column ISHB 350 @ 67.4kg/m carrying a factored load of
-1000kN. Also design the welded connection between the slab base and column. Use
-concrete grade M20 and Fe410 for steel.
-
-An ISMB 500 beam transmits an end reaction of 250KN to the web of a column ISHB 300
-@ 58.8kg/m. Design and sketch the stiffened seated connection. Use M24 grade black
-bolts.
-
-A simply supported beam 5.2m long carries a uniformly distributed load of SO0kN/m. The
-
-als
-
-(7)
-
-12)
-
-(14)
-
-©)
-
-12)
-
-(7)
-
-1)
-
-1)
---- page 3 ---
-4
-beam is laterally supported. Design the section with necessary checks.
-
-b) Check the stability of the eccentric connection for the Fig.1 shown below. (7)
-A \v SOKN
-
-100mm |120mm_
-
-50mm t a ©
-J
-50mm 7 6
-somml * e| \
-50mm y © e 10mm thick bracket plate
-\ (Fe 410)
-
-20mm dia. 4.6 grade bolts
-
-Fig. 1
-
-MPSTME
-ws LIBRARY
-
-SN
-Vv * _
-SMM
-````
-
-## 2017-18 · Re-Exam · Sem 8 · paper af86a26d040d
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_08/DESIGN OF STEEL STRUCTURES/Design of Steel Structures Batch 2017-18 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 April 2019
-- Text: ocr (3 pages), mean OCR confidence 89.3
-
-````text
-: IV Semester: VIE 7
-
-4
-
-Program :B.Tech Integrated (CIVIL) —
-| Academic Year: 2018-2019
-
-Subject: Design of Steel Structures ~~ Marks: 60 —
-Date: 13 April 2019 _- Time: 10.00 am to 01.00 pm =~
-
-Duration: 3 (hrs)
-No. of Pages: 3
-
-: Re-examination (2017-18) -
-
-a |
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) IS 800(2007) IS 875 part III and Steel table is permitted
-
-QUESTION NO. 1 (SOLVE ANY FOUR) . (12)
-(a) Discuss advantages and disadvantages of Steel Construction over RCC.
-
-(b) List all factors affecting the strength of the column
-
-(c) Explain four classes of cross section based on moment rotation behavior.
-
-(d) Explain defects observed in welding process and their causes.
-
-(e) Explain Difference between Limit state Method and Working Stress Method.
-
-QUESTION NO. 2
-
-(a) Determine the tensile strength of a roof truss member 2 [SA 90x90x6 connected (6)
-to the gusset plate of 8mm thick on either side of the gusset plate by 6mm weld.
-Yield and Ultimate Strength of a section is 250 and 410 MPa respectively.
-
-(O]s
---- page 2 ---
-(b)
-
-(a) .
-
-(b)
-
-(a)
-
-(b)
-
-(a)
-
-(b)
-
-Design a single unequal angle section for a roof truss to carry a working tension
-load of ISOKN. The angle is connected to a gusset plate 10mm thick. The
-member is in tension experiences reversal of stresses for wind load. Draw a
-neat sketch to show the arrangement of bolt . The length of the member is 3.5m.
-Use M20 bolts of Grade 4.6. Yield and Ultimate Strength of a section is 250
-and 410 MPa respectively. Take kb as 0.5 and gauge distance as 40mm.
-
-QUESTION NO. 3
-
-Calculate the compressive strength of angle ISA 75x75x5, 2.5 m long loaded
-through a single leg The member is connected to a gusset plate with one bolt.
-The connection is fixed at both the ends of compression member. Take fy 250
-MPa and fu-410 MPa.
-
-Find the efficiency of double bolted lap joint connecting 2 plates of 8mm
-thickness with 20mm diameter bolt of 4.6 grade at a pitch of 75mm. Width of
-plate is 200mm Grade of plate Fe 410.
-
-QUESTION NO. 4
-
-Design a Slab base for-a column ISHB 350@ 72.4 kg/m carrying a factored
-load of 1000KN. Also design the welded connection between the slab base and
-column. Use concrete grade as M20 and Fe 410 Steel.
-
-Check the section ISMB400 for web buckling and web crippling if stiff bearing
-is over a length of b1=75mm subjected to an end reaction of 200kKN
-
-QUESTION NO. 5
-
-Design Battened built up 10m long to carry a factored axial compression of
-1O80KN. The column is fixed and at both ends. Provide bolted connection for
-the design batten system. Channels are placed back to back. Use Fe 410 Steel
-
-QUESTION NO. 6
-
-Calculate the design capacity of a beam ISMB 350 of span 4.5m which is
-laterally unsupported in compression and the ends are fully torsional restrained.
-
-A simply supported beam of span 6m supports the RCC Slab. The compression
-flange of a beam is restrained due to its connection with the slab. The Beam is
-subjected to a total load of 30kN/m (including self weight of beam). Design the
-beam.
-
-3
-
-(6)
-
-(6)
-
-(6)
-
-(6)
-
-(6)
-
-(12)
-
-(4)
-
-(8)
---- page 3 ---
-QUESTION NO. 7
-
-(a) Determine the design loads on purlins of an industrial building near (6)
-Vishakhapatnam.
-Life of the building 50 years.
-Terrain Category 2
-Length of the building = 40m
-Width of the building = 15m
-Height of the building = 8m
-Topography — relatively smooth surface
-CPi = +/- 0.2
-Span of truss 15m
-Slope of the roof 20°
-Take Sheeting as AC Sheets
-Purlin Spacing = 1.35m
-Spacing of truss 4m
-Assume live load on sheeting as 0.5kN/sqm
-
-(b) Find the factored load P in KN which can applied safely on the connection as (6)
-shown in fig 1. The size of the weld is 8mm.
-
-PEN
-
-i
-i > t
-
-A
-
-1SOmm | 1ftirmem |
-
-Sa
-
-j 4
-i
-
-~ 1
-
-| |
-
-260mm || RY
-
-f 10mm thick
-
-| ¥~ Bracket plate (Fe 410)
-
-ot Bseeess Sf
-<—~ISHB 200
-A, (Thickness of flange 11mm}
-_ 200mm
-FIG. |
-
-(3)|3
-````
-
 ## 2017-18 · Re-Exam · Sem 8 · paper e1db4c33105f
 
 - Departments: Civil
@@ -3435,6 +3553,167 @@ various types of roof truss with diagram.
 FIG. |
 
 (3)
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 9e2c8da1f151
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Design of Steel Structures/Design_of_steel_structures_2015-16_2016-17 Re-exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 02 July 2018
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+ZaWTE OF MAK
+Oh ee te oN
+NEERING s
+© wesTMe
+LIBRA EY
+
+! SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E
+
+Programme: MBA Tech (Civil) Year: II Semester: VI
+
+/ Batch: 2015-16/ 2016-17
+f Academic Year: 2017-2018
+
+Subject: Design of Steel Structures Pa vterike: BB
+arks:
+
+Time: 10.00 am to 1.00 pm __
+Durations: 3 (Hrs)
+No. of Pages: oR
+
+Date: 02 July 2018,
+
+Re-Examination
+
+Instruction: Candidates should read carefu yt . instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. One is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+8) IS: 800 (2007) and Steel Table is permitted.
+
+Question No. i (Solve any Four) (42)
+a) List some important advantages of steel construction over RCC construction.
+b) Write advantages and disadvantages of bolted and welded connections.
+c) Explain with neat sketches various types of failures in bolts and plates.
+d) Explain four classes of cross section based on moment rotation behavior showing curve
+between moment and rotation.
+e) Explain slab base and gusseted base with sketches. Explain design steps of a gusseted
+base.
+
+Question No. 2 : .
+a) Design a suitable angle section to carry a factored tensile force of 210 kN assuming a (6)
+
+single row of 4.6 M20 grade black bolts. The yield strength and ultimate strength of the
+material is 250MPa and 410MPa respectively. The length of the member is 3m. Assume
+end distance as 30mm.
+
+b) Design a suitable I-section for a simply supported beam of span Sm carrying a dead load (6)
+
+of 20KN/m and imposed load of 40kN/m. The beam is laterally unsupported throughout
+the span. Fy=250Mpa.
+
+1/2
+--- page 2 ---
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+Question No. 3
+A single angle discontinuous member ISA 110x110x10mm with single bolted connection
+
+is 2.5m long. Calculate the design compressive strength of the section if it is connected by
+one bolt at each end. Fy=250MPa
+
+Design a double angle discontinuous strut used in a roof truss to carry a factored load of
+170KN. The length of member between centre to centre of intersection is 3m. The angles
+are placed back to back on either side of gusset plate, also design bolted connection and
+show the design details in the form of a neat sketch.
+
+Question No. 4
+Design laced column 10m long with channels placed back to back to carry factored
+compressive load of 1080KN. Both ends are hinged. Assume bolted connection.
+
+Question No. 5
+
+A simple framed truss of a factory building having a sloping span of 9m and a roof slope
+of 30degrees is placed at a spacing of 4m center to center at a site located near Mumbai.
+The roofing material consists of galvanized iron sheeting. Rise of the truss is 2.6m. Design
+wind pressure is 756N/m*. Wind blows normal to ridge. Coefficient of external wind
+pressure is -0.8. Coefficient of internal air pressure = +0.2 and -0.2. Design a suitable
+Channel section purlin by considering a suitable arrangement for the truss.
+
+Question No. 6
+
+A simply supported beam of span 5m carries a uniformly distributed load w=40kKN/m and
+acentral point load W=50KN. The beam is laterally supported throughout the span. Design
+the economical cross-section and provide check for deflection only.
+
+Design a slab base for a column ISHB 350 @ 67.4kg/m carrying a factored load of
+1000KN. ‘Iso design the welded connection between the slab base and column. Use
+concrete grade M20 and Fe410 for steel.
+
+Question No. 7
+A beam ISMB 400 transmits an end reaction of 240KN (factored) to the flange of a steel
+column ISHB 250 @ 51kg/m. Design welded stiffened seated connection.
+
+A bracket plate is welded to the flange of a column ISHB 200 as shown in the Fig.1
+Calculate the size of the weld required to support a factored load of 100KN.
+
+Ay — ‘100KN
+
+iS0mm: 100mm
+260mm R
+“10min thick
+Bracket plate (Fe 410)
+I*——ISHB 200
+
+N,
+200mm
+
+Fig. 1
+
+(6)
+
+(6)
+
+(12)
+
+(12)
+
+(6)
+
+(6)
+
+(6)
+
+(6)
+
+al2
 ````
 
 ## 2017-18 · Re-Exam · Sem 6 · paper fbd650164fc6
@@ -3699,11 +3978,11 @@ SHB 200
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF STEEL STRUCTURES/DESIGN OF STEEL STRUCTURES 16-17 FINAL EXAM (1).pdf` (+2 identical copies)
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 15 May 2017
 - Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 <
 
-ey se Parveen ie won? Lo) AOGVIKMPs NMIMSI< to ne cnone ie ato
 ; MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E!
 
 Programme: B. Tech (CIVIL) Year: III Semester: VI
@@ -3903,127 +4182,6 @@ p——— TSHB 200
 a
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper be88df888af6
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF STEEL STRUCTURES/DESIGN_OF_STEEL_STRUCTURES_BATCH_15-16_16-17_RE_EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 03 July 2018
-- Text: ocr (2 pages), mean OCR confidence 94.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG
-
-Programme: B. Tech (CIVIL) Year: III Semester: VI
-
-Batch: (2015-16 / 2016-17)
-Academic Year: 2017-18
-
-Subject: Design of Steel Structures
-Marks: 60
-Date: 03 July 2018 - Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-No. of Pages: ___ 0%
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Bock, which is provided for their use.
-
-1) Question No. One is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) IS: 800 (2007) and Steel Table is permitted.
-
-Question No. 1 (Solve any Four) (12)
-a) List important advantages of steel construction over RCC construction.
-b) Explain shear lag and state shear lag factor for bolts and welds.
-c) Explain unstiffened seated connection.
-d) List various buckling failures and specify all parameters affecting the same.
-e) Explain step by step procedure for wind load calculations in an industrial truss shed.
-
-Question No. 2 (12)
-Design laced column 10m long with channels placed back to back to carry factored
-compressive load of 1080KN. Both ends are hinged. Assume bolted connection.
-
-Question No. 3 (12)
-Design a suitable I-section for a simply supported beam of span 5m carrying a dead load
-
-of 20kN/m and imposed load of 40kN/m. The beam is laterally unsupported throughout
-
-the span. Take fy=250 MPa
-
-netnieaiteal .
-Question No. 4
-a) A tension member consists of 2 ISA 90x90x8mm @10.8kg/m placed back to back on (6)
-ze either side of 10mm thick gusset plate. Determine design strength using bolted connection.
-
-Use 4.6 grade black bolts.
---- page 2 ---
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-Design a double angle discontinuous strut used in a roof truss to carry a factored load of
-170KN. The length of member between centre to centre of intersection is 3m. The angles
-are placed back to back on either side of gusset plate, also design bolted connection and
-show the design details in the form of a neat sketch. Use equal angle arrangement.
-
-Question No. 5
-A beam ISMB 400 transmits an end reaction of 240kN (factored) to the flange of a steel
-column ISHB 250@5 kg/m. Design welded stiffened seated connection.
-
-Determine load carrying capacity of a compound column consisting ISMB 400@
-61.6kg/m with one cover plate of 300x20mm on each flange and having a length of Sm.
-One end of the column is fixed and other end is pinned. Assume Fy=250MPa.
-
-Question No. 6
-
-A simply supported beam 5m span carries uniformly distributed load of 40kN/m. In
-addition, the beam carries a central point load of SOKN. The beam is laterally supported.
-Design a suitable I-section and provide necessary checks except shear and deflection.
-
-A beam ISWB 550, having equal flange width to that of column, transfers a factored end
-reaction of 275KN to the flange of the column ISSC250. Design the stiffened seat angle
-connection using 20 mm bolts of grade 4.6. Assume Fy=250MPa.
-
-Question No. 7 :
-
-A column ISHB 350 @ 67.4kg/m having a factored load of 1800KN. Design a gusseted
-base. Use yield strength of 250MPa and M15 grade of concrete. Provide bolted connection
-for gusseted base. Use 24mm diameter 4.6 grade black bolts.
-
-Za
-
-(6)
-
-(6)
-
-(6)
-
-(6)
-
-(6)
-
-(12)
-````
-
 ## 2016-17 · Re-Exam · Sem 6 · paper 6db9c975a2df
 
 - Departments: Civil
@@ -4163,46 +4321,32 @@ Fig. 1
 (6)
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper 9e2c8da1f151
+## 2016-17 · Re-Exam · Sem 7 · paper ec34c48b7ffc
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Design of Steel Structures/Design_of_steel_structures_2015-16_2016-17 Re-exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 02 July 2018
-- Text: ocr (2 pages), mean OCR confidence 91.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/DESIGN OF STEEL STRUCTURE/Design of Steel Structures batch 2014-2015 Re exam.pdf`
+- Printed on paper: max marks: 60; exam date: 24 November 2016
+- Text: ocr (2 pages), mean OCR confidence 92.2
 
 ````text
-ZaWTE OF MAK
-Oh ee te oN
-NEERING s
-© wesTMe
-LIBRA EY
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-! SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E
+Programme : MBA. Tech (Civil) Year: IV © Semester : VII
+Batch : 2014-15
+Academic Year : 2016-2017
 
-Programme: MBA Tech (Civil) Year: II Semester: VI
+Subject : Design of Steel Structures Marks : 60
+Time: 10.
+Date : 24 November 2016 Duration :°
 
-/ Batch: 2015-16/ 2016-17
-f Academic Year: 2017-2018
+Re-Examination \
 
-Subject: Design of Steel Structures Pa vterike: BB
-arks:
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-Time: 10.00 am to 1.00 pm __
-Durations: 3 (Hrs)
-No. of Pages: oR
-
-Date: 02 July 2018,
-
-Re-Examination
-
-Instruction: Candidates should read carefu yt . instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. One is compulsory.
+1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -4211,117 +4355,84 @@ NB:
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
+7) Assume Suitable data if necessary
 
-8) IS: 800 (2007) and Steel Table is permitted.
+8) IS: 800 (2007) and Steel Table is permitted
 
-Question No. i (Solve any Four) (42)
-a) List some important advantages of steel construction over RCC construction.
-b) Write advantages and disadvantages of bolted and welded connections.
-c) Explain with neat sketches various types of failures in bolts and plates.
-d) Explain four classes of cross section based on moment rotation behavior showing curve
-between moment and rotation.
-e) Explain slab base and gusseted base with sketches. Explain design steps of a gusseted
-base.
+Question No. 1 (Solve any Four) (12)
+a) What are the various parameters affecting the lateral stability of a flexural member.
+b) List some important advantages of steel construction over RCC construction.
+c) State and explain the procedure to calculate various loads in design of a trussed structure.
+Enlist various load combinations for truss design.
+d) Explain in brief various defects observed in welding process and their cause.
+e) What are purlins? Explain the procedure for a purlin design stating its importance in the
+design.
 
-Question No. 2 : .
-a) Design a suitable angle section to carry a factored tensile force of 210 kN assuming a (6)
+Question No. 2 (12)
 
-single row of 4.6 M20 grade black bolts. The yield strength and ultimate strength of the
-material is 250MPa and 410MPa respectively. The length of the member is 3m. Assume
-end distance as 30mm.
-
-b) Design a suitable I-section for a simply supported beam of span Sm carrying a dead load (6)
-
-of 20KN/m and imposed load of 40kN/m. The beam is laterally unsupported throughout
-the span. Fy=250Mpa.
-
-1/2
---- page 2 ---
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-Question No. 3
-A single angle discontinuous member ISA 110x110x10mm with single bolted connection
-
-is 2.5m long. Calculate the design compressive strength of the section if it is connected by
-one bolt at each end. Fy=250MPa
-
-Design a double angle discontinuous strut used in a roof truss to carry a factored load of
-170KN. The length of member between centre to centre of intersection is 3m. The angles
-are placed back to back on either side of gusset plate, also design bolted connection and
-show the design details in the form of a neat sketch.
-
-Question No. 4
 Design laced column 10m long with channels placed back to back to carry factored
 compressive load of 1080KN. Both ends are hinged. Assume bolted connection.
 
-Question No. 5
+Question No. 3
+a) Calculate the moment carrying capacity of a laterally unsupported beam ISLB 400 for an (6)
 
-A simple framed truss of a factory building having a sloping span of 9m and a roof slope
-of 30degrees is placed at a spacing of 4m center to center at a site located near Mumbai.
-The roofing material consists of galvanized iron sheeting. Rise of the truss is 2.6m. Design
-wind pressure is 756N/m*. Wind blows normal to ridge. Coefficient of external wind
-pressure is -0.8. Coefficient of internal air pressure = +0.2 and -0.2. Design a suitable
-Channel section purlin by considering a suitable arrangement for the truss.
+unsupported span of 4m.
 
-Question No. 6
+b) Check the stability of the eccentric connection for the Fig.1 shown below. (6)
 
-A simply supported beam of span 5m carries a uniformly distributed load w=40kKN/m and
-acentral point load W=50KN. The beam is laterally supported throughout the span. Design
-the economical cross-section and provide check for deflection only.
+V2
+--- page 2 ---
+N\ 50kN
 
-Design a slab base for a column ISHB 350 @ 67.4kg/m carrying a factored load of
-1000KN. ‘Iso design the welded connection between the slab base and column. Use
-concrete grade M20 and Fe410 for steel.
+50mm i) ad ®
+eas .. 50mm| > ® © .
+Boy | @ © s
+50mm | e @. “10mm thick bracket plate
 
-Question No. 7
-A beam ISMB 400 transmits an end reaction of 240KN (factored) to the flange of a steel
-column ISHB 250 @ 51kg/m. Design welded stiffened seated connection.
+_ (Fe 410)
 
-A bracket plate is welded to the flange of a column ISHB 200 as shown in the Fig.1
-Calculate the size of the weld required to support a factored load of 100KN.
+20mm dia. 4.6 grade bolts
 
-Ay — ‘100KN
-
-iS0mm: 100mm
-260mm R
-“10min thick
-Bracket plate (Fe 410)
-I*——ISHB 200
-
-N,
-200mm
+A,
 
 Fig. 1
 
-(6)
+Question No. 4
 
-(6)
+a) Determine load carrying capacity of a compound column consisting ISMB 400@ (6)
+61.6kg/m with one cover plate of 300x20mm on each flange and having a length of 5m.
+One end of the column is fixed and other end is pinned. Assume Fy=250Mpa.
 
-(12)
+b) Design a double angle discontinuous strut used in a roof truss to carry a factored load of (6)
+170KN. The length of member between centre to centre of intersection is 3m. The angles
+are placed back to back on either side of gusset plate. Also design bolted connection and
+show the design details in the form of a neat sketch.
 
-(12)
+Question No. 5
 
-(6)
+A column ISHB 350 @ 67.4kg/m having a factored load of 1800KN. Design a gusseted (12)
+base. Use yield strength of 250MPa and M15 grade of concrete. Provide bolted connection
 
-(6)
+for gusseted base. Use 24mm diameter 4.6 grade black bolts.
 
-(6)
+Question No. 6
 
-(6)
+A simply supported beam of effective span 4m carries a factored point load of 350kN at (a2)
+mid-span. The section is laterally supported throughout the span. Design the beam using I-
+section neglecting self-weight.
 
-al2
+Question No. 7
+
+a) A tension member consists of 2 ISA 90x90x8mm @10.8kg/m placed back to back on (6)
+either side of 10mm thick gusset plate. Determine design strength using bolted connection.
+Use 4.6 grade black bolts.
+
+b) A beam ISMB 400 transmits an end reaction of 240KN (factored) to the flange of a steel (6)
+column ISHB 250 @ 51.6kg/m. Design welded stiffened seated connection.
+
+af2-
 ````
 
 ## 2015-16 · Final-Exam · Sem 6 · paper d1ae660c30e9
@@ -4597,6 +4708,111 @@ B
 3/3
 ````
 
+## 2015-16 · Re-Exam · Sem 6 · paper b0313401bdcc
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF STEEL STRUCTURES/DESIGN OF STEEL STRUCTURES B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Civil) Year: III Semester: VI
+
+Academic Year: 2015-16
+Batch:2014-15
+
+Subject: Design of Steel Structures Marks: 60
+Time: 2.00 p \
+
+Date: 12/05/2016 Durations: 3 HR
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. One is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+some of its important properties- (12)
+
+with fy= 250 MPa (4)
+
+Question No.1 (Solve any Four)
+
+1. Specify classifications of structural connection. Explain with sketches & graph.
+
+2. List all the parameters affecting the lateral stability of flexural member
+
+3. Explain the complete procedure for wind load calculation.
+
+4. Under what circumstances built up laced or battened columns are selected. Which
+system is stronger & why?
+
+5. List all the geometrical properties of steel sections & explain the signification of
+
+Question No.2
+
+a) Find tension capacity of 2 2 75x75x10 if connected on same side of gusset plate & tack
+bolted. Also design the end connection. Yield & ultimate strengths are 250&410MPA&
+
+use M24 bolt having class 4.6. Draw a neat sketch (8)
+accel
+ib) Design the seat angle connection between the beam ISMB250 and column ISHB200 for
+Ga. a factored reaction from beam equal to 85KN. Use M16 bolts of 4.6 grade and steel 410
+--- page 2 ---
+cee eb
+
+st”
+
+gy OE TEN . .
+# gh Question Nos"
+3 H Find the compressive strength of a discontinuous strut 2.5 m long. Take 24 70x70x6
+%! Yield strerfgth is 250 MPA
+»." "tay, a) Connected on same side by more than one bolt
+b)- Connected on both side of 8 mm thick plate by two bolts (6)
+A beam ISMB450 transfers a factored load of 260kN to a column ISHB250. Using Fe410
+grade steel design the stiffened seat connection with bolting (6)
+Question No.4
+Design Laced column with channels back to back to carry compressive load of 900KN &
+unsupported length of 9 m. Both ends are pinned. Assume bolted connection. (12)
+Question No.5
+c) Design a suitable I beam for a simply supported span of 5 m. and carrying a dead load of
+20 kN/m and imposed load of 40 kN/m Take fy = 250 MPa. Assuming the beam as
+restrained laterally but having stiff bearing (8)
+b) A beam ISMB400 transfers a factored load of 250kN to a column ISHB350. Using Fe410
+"grade steel design the stiffened seat connection with welding. (4)
+Question No.6
+Design a Gusseted base for a column ISMB250 having working load of 1200kN, yield
+strength 250 MPA & use M25 grade of concrete (12)
+Question No.7
+Q) Design a laterally unsupported beam of span 6 m & subjected to uniformly distributed
+load of 30kN/m. (8)
+=
+is) Design the welded cleat angle connection between the beam ISMB250 and column
+pees ISHB200 for a factored reaction from beam equal to 80KN. (4)
+
+y x
+
+2/9.
+````
+
 ## 2015-16 · Re-Exam · Sem 6 · paper 77f501ab05a5
 
 - Departments: Civil
@@ -4720,6 +4936,263 @@ q a sf
 (6)
 
 (6)
+````
+
+## 2015-16 · Re-Exam · Sem 7 · paper f8f15485064e
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/DESIGN OF STEEL STRUCTURES/DESIGN OF STEEL STRUCTURES B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: exam date: 26/11/2015
+- Text: ocr (3 pages), mean OCR confidence 72.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+™ SVKM’s NMIMS
+. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil) Year: IV Semester: VII
+Batch: 2014-2015
+
+Academic Year: 2015-2016 ene, ae
+
+- ? ss 1
+Subject: Design of Steel Structures ‘Ne a |
+, Marks: ;
+/ Date: 26/11/2015 Time:
+U Duration:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining question, attempt any 4 questions.
+3. in all 5 questions to attempted.
+4. All questions carry equal marks.
+
+@ 5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+G1) | ____ WRITE SHo&T NOTEs CANY FovR) Cin)
+2) What are the advantage of steel as structural material %
+b) (i) Web buckling/ web crippling (ii) shear lag effect a
+c) (i) effective length (ii) slenderness ratio 3
+| d) Effect of permeability and wind drag on truss a |
+| 2) Mechanical properties of steel. : 3
+Q.2) | Solve 2. |
+oO a) Write the classification of cross-section-plastic,compact, semi compact and| 6
+slender.
+b) Determine the design tensile strength of the plate 130mm x 12mm with the holes| 6
+for 16mm diameter bolts. Steel used is of fe 415 quality. Refer fig no I
+Q.3) | Solve 12]
+= a) Explain the limit state of strength and serviceability. 6
+b) A column 4m long” has to support a factored load of 6000K| 6
+= N. The column is effectively held at both ends and restrained in direction at one
+pi of the ends. Design the column using beam sections and plates.
+--- page 2 ---
+|-Q.4) | Solve ae 7
+a) Design a faced column with two channels back to back of length 10m to carry an| 6
+axial factored load of 1400KN.the column may be assumed to have restrained in
+
+—_ position but not in direction at both ends (hinged ends).
+b) Design a slab base for a column ISHB300@577 N/m carrying an axial factored | &
+load of 1000Kn. M20 concrete is used for the foundation. Provide welded
+connection between column and base plate.
+
+Q.5) | Solve 12.
+a) A roof of a hall measuring 8m x 12m consists of 100mm thick R.C slab supported | G
+on steel I- beam spaced 3m apart. The finishing load may be taken as 1.5 kKN/m”
+and live load as 1.5 kKN/m?. Design the steel beam. Refer fig no 2
+
+b) | An ISMB 450 is to be connected to the flange of a column ISHB300@618 N/m. the end | G
+reaction transmitted by the beam is 120KN. Design an unstiffened seated connection. Use
+M20 black bolts.
+
+Q.6) | Solve 12.
+a) An ISMB 400 is to be connected to ISHB250@537 N/m to transfer end force of 140KN. a
+Design double plated welded connection.
+
+b) Determine the design loads on the purlins of an industrial building near | 3
+Visakhapatnam, given:
+Class of building: General with life of 50 years.
+Terrain: category 2
+Maximum dimension : 40m
+Width of building: 15m
+Height at eye level : 8m
+Topography : @ less than 3°
+
+Q.7) | solve 2)
+a) Write the classification of types of beam connections 6
+
+b) A roof truss shed is to be built in lucknow for an industry. The size of shed is 44
+24m x 40m. The height of the building is 12m at the eyes. Determine the basic
+— wind pressure.
+(9) Advantage of bolted connection over welded connection 2.
+
+2/s
+--- page 3 ---
+4 2.
+os G- ae oe -®
+| |
+| |
+Z| | 1Bemm
+(=)
+ia) ( {
+| |
+Ah Ga mn = onl
+4
+Ve |
+| 35mm Gomyy |
+ran | |
+ffa.2
+- aN
+|
+| £
+)
+pr SER eae, Seay
+iN
+|
+ae
+|
+|
+
++
+````
+
+## 2015-16 · Re-Exam · Sem 6 · paper 24549e5607ae
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Design of Steel Structures/Design of Steel Structures Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 09/05/2016
+- Text: ocr (3 pages), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+NN
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA. Tech (Civil) Year:III
+
+Semester: VI
+Academic Year: 2015-16 190 Maga
+
+Batch: 2014-15 ©
+Subject: Design of Steel Structures .
+
+Date: 09/05/2016
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+ie 3. In all 5 questions to attempted
+4 Answer to each new question to be started on a fresh page.
+5 Assume suitable data wherever required but mention it.
+6. Use of Steel Table and IS Code 800:2007 is allowed. ~
+
+~   Q.1) Attempt any four Questions
+
+(a) Compare welded and bolted joints. : C3)
+(b) Define fillet welded joint , butt welded joint and state types of butt welded joint with
+sketches. _- (3)
+(c) What is partial safety factor? Why partial safety factor is used in the design of steel
+structure. Also state partial safety factors for materials. (3)
+‘ (d) Define limit state and explain types of limit state in short. (3)
+(e) Explain in short, types of failure in tension member. (3)
+
+Q. 2) Attempt following
+
+(a) Determine the tensile dtrength of member in roof truss consisting of single unequal angle
+90 x 65 x 8 connected to 10mm thick gusset plate with 6mm size weld. Gross area of ISA
+(90 x 65 x 8) is 1180mm? and Cxx = 28.8mm. longer leg is connected to gusset plate. Take fy =
+250N/mm? and fu = 410N/mm?. Length of top weld 150mm and length of bottom weld
+3001am. C6)
+
+\
+\
+
+}3
+--- page 2 ---
+.b) Design tension member in roof truss consisting of unequal angle section to carry factored
+tensile load of 340kKN. Use single row 20mm bolted connection. Take fy = 250N/mm? and fu =
+410N/mm7?. The length of member is 2.4m C6)
+
+Q. 3) Attempt following
+
+(a) Calculate the design strength of discontinuous angle strut of length 3.2m. the strut consist
+of two unequal angle 100 x 75 x 8mm and placed on same side of gusset plate of 12mm thick.
+
+(4)
+
+(b) Design unequal double angle section for discontinuous strut in truss to carry a factored
+load of 250KN. Centre to centre length of member is 2.5m. thickness of gusset plate is 10mm
+
+i) when-angles are placed on opposite side of 10mm thick gusset plate
+ii) when angels are placed on same side of 10mm thick gusset plate
+(8)
+Q. 4) Attempt following
+
+(a) A built up column consist of two channel section ISLC 350 @ 389N/m placed back to
+back. The unsupported length is 8m. it is effectively held in position at both ends and
+restrained against rotation at both ends. Determine the back to back distance between this
+two channel. Also calculate factored load carrying capacity. Properties of ISLC 350 are A=
+
+(b) Explain
+i) Write steps of design of Laced column. (3)
+ii) Explain Lacing and battening with neat sketches ¢3)
+
+Q. 5) Attempt following
+
+a) A column ISHB 350 @ 661.2N/m carries an axial compressive factored load of 1700KN.
+Design a suitable bolted gusset base. The base rests on M15 grade concrete pedestal. Use
+
+24mm diameter bolts of grade 4.6 for making the connections. (S)
+(b) i) Explain Unstiffened seat connection. Ci)
+ii) Explain steps in the design of Bolted Unstiffened seat connection. fa 3)
+--- page 3 ---
+_. 6) Attémpt following
+
+(a) A Simply supported welded compound beam formed by ISMB 450 @ 72.4 weight per
+metre with cover plate 400mm x 20mm at top and bottom pf flange of beam. Calculate safe
+
+UDL the beam can carry if effective span of beam is 12m. (é)
+(b) (i) Write steps in the design of a roof truss. (3)
+(ii) Design angle purlin for roof truss for following data (3)
+
+Span of truss = 6m
+Spacing of truss = 3m centre to centre
+Inclination of roof = 30 degree
+Spacing of purlin = 2m centre to centre
+Self weight of purlin = 100N/m
+
+Wind pressure = 1.5kN/m?
+Roof covering AC sheet weight = 200N/m?
+
+Q. 7) Attempt following
+
+(a) An ISLB 300 @ 369.8 N/m transmits an end recation of 385kn, under factored loads, to
+the web of ISMB 450 @ 710.2 N/m. Design a bolted framed connection. Use Fe410 and bolt
+grade 4.6. (6)
+
+(b) Calculate live load and wind load per panel point for roof truss having following details
+
+Span = 20m
+Rise=4m .
+Number of panel = 10
+Spacing of truss = 3m
+‘¢ Coefficient of external wind pressure = -0.6
+Coefficient of internal air pressure = +0.2 and -0.2
+Design wind pressure = 1200N/m?, wind blows normal to ridge. Ce)
+
+318
 ````
 
 ## 2015-16 · Re-Exam · Sem 6 · paper 422b29d2e550
@@ -5507,111 +5980,6 @@ x
 >
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper b0313401bdcc
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF STEEL STRUCTURES/DESIGN OF STEEL STRUCTURES B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Civil) Year: III Semester: VI
-
-Academic Year: 2015-16
-Batch:2014-15
-
-Subject: Design of Steel Structures Marks: 60
-Time: 2.00 p \
-
-Date: 12/05/2016 Durations: 3 HR
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. One is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-some of its important properties- (12)
-
-with fy= 250 MPa (4)
-
-Question No.1 (Solve any Four)
-
-1. Specify classifications of structural connection. Explain with sketches & graph.
-
-2. List all the parameters affecting the lateral stability of flexural member
-
-3. Explain the complete procedure for wind load calculation.
-
-4. Under what circumstances built up laced or battened columns are selected. Which
-system is stronger & why?
-
-5. List all the geometrical properties of steel sections & explain the signification of
-
-Question No.2
-
-a) Find tension capacity of 2 2 75x75x10 if connected on same side of gusset plate & tack
-bolted. Also design the end connection. Yield & ultimate strengths are 250&410MPA&
-
-use M24 bolt having class 4.6. Draw a neat sketch (8)
-accel
-ib) Design the seat angle connection between the beam ISMB250 and column ISHB200 for
-Ga. a factored reaction from beam equal to 85KN. Use M16 bolts of 4.6 grade and steel 410
---- page 2 ---
-cee eb
-
-st”
-
-gy OE TEN . .
-# gh Question Nos"
-3 H Find the compressive strength of a discontinuous strut 2.5 m long. Take 24 70x70x6
-%! Yield strerfgth is 250 MPA
-»." "tay, a) Connected on same side by more than one bolt
-b)- Connected on both side of 8 mm thick plate by two bolts (6)
-A beam ISMB450 transfers a factored load of 260kN to a column ISHB250. Using Fe410
-grade steel design the stiffened seat connection with bolting (6)
-Question No.4
-Design Laced column with channels back to back to carry compressive load of 900KN &
-unsupported length of 9 m. Both ends are pinned. Assume bolted connection. (12)
-Question No.5
-c) Design a suitable I beam for a simply supported span of 5 m. and carrying a dead load of
-20 kN/m and imposed load of 40 kN/m Take fy = 250 MPa. Assuming the beam as
-restrained laterally but having stiff bearing (8)
-b) A beam ISMB400 transfers a factored load of 250kN to a column ISHB350. Using Fe410
-"grade steel design the stiffened seat connection with welding. (4)
-Question No.6
-Design a Gusseted base for a column ISMB250 having working load of 1200kN, yield
-strength 250 MPA & use M25 grade of concrete (12)
-Question No.7
-Q) Design a laterally unsupported beam of span 6 m & subjected to uniformly distributed
-load of 30kN/m. (8)
-=
-is) Design the welded cleat angle connection between the beam ISMB250 and column
-pees ISHB200 for a factored reaction from beam equal to 80KN. (4)
-
-y x
-
-2/9.
-````
-
 ## 2014-15 · Re-Exam · Sem 6 · paper fa76efe25a1a
 
 - Departments: Civil
@@ -5751,131 +6119,6 @@ Design wind pressure = 1200N/m?, wind blows normal to ridge. C6)
 313
 ````
 
-## 2014-15 · Re-Exam · Sem 7 · paper f8f15485064e
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/DESIGN OF STEEL STRUCTURES/DESIGN OF STEEL STRUCTURES B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: exam date: 26/11/2015
-- Text: ocr (3 pages), mean OCR confidence 72.7
-
-````text
-™ SVKM’s NMIMS
-. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: IV Semester: VII
-Batch: 2014-2015
-
-Academic Year: 2015-2016 ene, ae
-
-- ? ss 1
-Subject: Design of Steel Structures ‘Ne a |
-, Marks: ;
-/ Date: 26/11/2015 Time:
-U Duration:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining question, attempt any 4 questions.
-3. in all 5 questions to attempted.
-4. All questions carry equal marks.
-
-@ 5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-PL ES I cE EE SE EEE ILI, OTE IT LO TO SLI A
-G1) | ____ WRITE SHo&T NOTEs CANY FovR) Cin)
-2) What are the advantage of steel as structural material %
-b) (i) Web buckling/ web crippling (ii) shear lag effect a
-c) (i) effective length (ii) slenderness ratio 3
-| d) Effect of permeability and wind drag on truss a |
-| 2) Mechanical properties of steel. : 3
-Q.2) | Solve 2. |
-oO a) Write the classification of cross-section-plastic,compact, semi compact and| 6
-slender.
-b) Determine the design tensile strength of the plate 130mm x 12mm with the holes| 6
-for 16mm diameter bolts. Steel used is of fe 415 quality. Refer fig no I
-Q.3) | Solve 12]
-= a) Explain the limit state of strength and serviceability. 6
-b) A column 4m long” has to support a factored load of 6000K| 6
-= N. The column is effectively held at both ends and restrained in direction at one
-pi of the ends. Design the column using beam sections and plates.
---- page 2 ---
-|-Q.4) | Solve ae 7
-a) Design a faced column with two channels back to back of length 10m to carry an| 6
-axial factored load of 1400KN.the column may be assumed to have restrained in
-
-—_ position but not in direction at both ends (hinged ends).
-b) Design a slab base for a column ISHB300@577 N/m carrying an axial factored | &
-load of 1000Kn. M20 concrete is used for the foundation. Provide welded
-connection between column and base plate.
-
-Q.5) | Solve 12.
-a) A roof of a hall measuring 8m x 12m consists of 100mm thick R.C slab supported | G
-on steel I- beam spaced 3m apart. The finishing load may be taken as 1.5 kKN/m”
-and live load as 1.5 kKN/m?. Design the steel beam. Refer fig no 2
-
-b) | An ISMB 450 is to be connected to the flange of a column ISHB300@618 N/m. the end | G
-reaction transmitted by the beam is 120KN. Design an unstiffened seated connection. Use
-M20 black bolts.
-
-Q.6) | Solve 12.
-a) An ISMB 400 is to be connected to ISHB250@537 N/m to transfer end force of 140KN. a
-Design double plated welded connection.
-
-b) Determine the design loads on the purlins of an industrial building near | 3
-Visakhapatnam, given:
-Class of building: General with life of 50 years.
-Terrain: category 2
-Maximum dimension : 40m
-Width of building: 15m
-Height at eye level : 8m
-Topography : @ less than 3°
-
-Q.7) | solve 2)
-a) Write the classification of types of beam connections 6
-
-b) A roof truss shed is to be built in lucknow for an industry. The size of shed is 44
-24m x 40m. The height of the building is 12m at the eyes. Determine the basic
-— wind pressure.
-(9) Advantage of bolted connection over welded connection 2.
-
-2/s
---- page 3 ---
-4 2.
-os G- ae oe -®
-| |
-| |
-Z| | 1Bemm
-(=)
-ia) ( {
-| |
-Ah Ga mn = onl
-4
-Ve |
-| 35mm Gomyy |
-ran | |
-ffa.2
-- aN
-|
-| £
-)
-pr SER eae, Seay
-iN
-|
-ae
-|
-|
-
-+
-````
-
 ## 2014-15 · Re-Exam · Sem 6 · paper 7ebc7c1b4951
 
 - Departments: Civil
@@ -5980,136 +6223,110 @@ fe.
 (04)
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper 24549e5607ae
+## 2014-15 · Re-Exam · Sem 7 · paper 3b4e6ccb035e
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Design of Steel Structures/Design of Steel Structures Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 09/05/2016
-- Text: ocr (3 pages), mean OCR confidence 92.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/DESIGN OF STEEL STRUCTURE/Design of Steel Structure Batch 2013-14 Re Exam.pdf`
+- Printed on paper: max marks: 10; exam date: 08/06/2015
+- Text: ocr (2 pages), mean OCR confidence 91.6
 
 ````text
-NN
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA. Tech (Civil) Year:III
 
-Semester: VI
-Academic Year: 2015-16 190 Maga
+Programme: MBA Tech (CIVIL) Year: IV Semester: VII
+Academic Year: 2014-15 y Zegoutere zor
+SS —
+Batch: 2013-14 \d MPSTME a
+‘ LIBRA RY
+ject: Desi f Steel Structure Marks: 10 fh. ie
+Subject: Design o Tne. 2.00 5.00 po ZZ
+ions: 3 Rrsfiigs seer“
+Date: 08/06/2015 Durations SY as yNN
+ates 08087 Re-Examination Neen
 
-Batch: 2014-15 ©
-Subject: Design of Steel Structures .
-
-Date: 09/05/2016
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-ie 3. In all 5 questions to attempted
-4 Answer to each new question to be started on a fresh page.
-5 Assume suitable data wherever required but mention it.
-6. Use of Steel Table and IS Code 800:2007 is allowed. ~
 
-~   Q.1) Attempt any four Questions
+1) Question No. One is compulsory.
 
-(a) Compare welded and bolted joints. : C3)
-(b) Define fillet welded joint , butt welded joint and state types of butt welded joint with
-sketches. _- (3)
-(c) What is partial safety factor? Why partial safety factor is used in the design of steel
-structure. Also state partial safety factors for materials. (3)
-‘ (d) Define limit state and explain types of limit state in short. (3)
-(e) Explain in short, types of failure in tension member. (3)
+2) Out of remaining questions, attempt any four questions.
 
-Q. 2) Attempt following
+3) In all five questions to be attempted.
 
-(a) Determine the tensile dtrength of member in roof truss consisting of single unequal angle
-90 x 65 x 8 connected to 10mm thick gusset plate with 6mm size weld. Gross area of ISA
-(90 x 65 x 8) is 1180mm? and Cxx = 28.8mm. longer leg is connected to gusset plate. Take fy =
-250N/mm? and fu = 410N/mm?. Length of top weld 150mm and length of bottom weld
-3001am. C6)
+4) All questions carry equal marks.
 
-\
-\
+5) Answer to each new question to be started on a fresh page.
 
-}3
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+5. List all the geometrical properties of steel sections & explain the signification of
+some of its important properties (20)
+b) A beam ISMB300 transfers a factored load of 100kN to a column ISHB250. Using
+Fe410 grade steel design the seat connection with welding (8)
+
+Question No.1 (Solve any Four)
+
+1. Specify classifications of structural connection. Explain with sketches & graph
+
+2. List all the parameters affecting the lateral stability of flexural member
+
+3. Explain the complete procedure for wind load calculation
+
+4. Under what circumstances built up laced or battened columns are selected. Which
+system is stronger & why?
+
+Question No.2
+
+a) Find tension capacity of 2 2 65x65x12 if connected on same side of gusset plate &
+tack bolted. Also design the end connection. Yield & ultimate strengths are 250 &
+410 MPA & use M20 bolt having class 4.6. Draw a neat sketch (12)
+
+?
 --- page 2 ---
-.b) Design tension member in roof truss consisting of unequal angle section to carry factored
-tensile load of 340kKN. Use single row 20mm bolted connection. Take fy = 250N/mm? and fu =
-410N/mm7?. The length of member is 2.4m C6)
+Question No.3
 
-Q. 3) Attempt following
+a) Find the compressive strength of a discontinuous strut 3.0 m long. Take Two 4
+75x75x8 Yield strength is 250 MPA
+i. Connected on same side by more than one bolt
+ii. Connected on both side of 8 mm thick plate by two bolts (12)
 
-(a) Calculate the design strength of discontinuous angle strut of length 3.2m. the strut consist
-of two unequal angle 100 x 75 x 8mm and placed on same side of gusset plate of 12mm thick.
+b) A beam ISMB350 transfers a factored load of 200KN to a column ISHB200. Using
+Fe410 grade steel design the stiffened seat connection with bolting (8)
 
-(4)
+Design battened column with channels back to back to carry compressive load of
 
-(b) Design unequal double angle section for discontinuous strut in truss to carry a factored
-load of 250KN. Centre to centre length of member is 2.5m. thickness of gusset plate is 10mm
+1000KN & unsupported length of 8 m. One end is fixed & other pinned. Assume welded
+connection. ‘ (20)
 
-i) when-angles are placed on opposite side of 10mm thick gusset plate
-ii) when angels are placed on same side of 10mm thick gusset plate
-(8)
-Q. 4) Attempt following
+20 kN/m and imposed load of 40 kN/m Take fy = 250 MPa. Assuming the beam as
+restrained laterally but having stiff bearing (20)
 
-(a) A built up column consist of two channel section ISLC 350 @ 389N/m placed back to
-back. The unsupported length is 8m. it is effectively held in position at both ends and
-restrained against rotation at both ends. Determine the back to back distance between this
-two channel. Also calculate factored load carrying capacity. Properties of ISLC 350 are A=
+Design a Gusseted base for a column ISMB200 having working load of 1100kN, yield
 
-49.50cm?, Ixx = 9330cm4, lyy = 396cem*, Cyy = 2.42cm, bf = 100mm. Ce)
-(b) Explain
-i) Write steps of design of Laced column. (3)
-ii) Explain Lacing and battening with neat sketches ¢3)
+strength 250 MPA & use M20 grade of concrete (20)
 
-Q. 5) Attempt following
+Question No.4
 
-a) A column ISHB 350 @ 661.2N/m carries an axial compressive factored load of 1700KN.
-Design a suitable bolted gusset base. The base rests on M15 grade concrete pedestal. Use
+Question No.5
 
-24mm diameter bolts of grade 4.6 for making the connections. (S)
-(b) i) Explain Unstiffened seat connection. Ci)
-ii) Explain steps in the design of Bolted Unstiffened seat connection. fa 3)
---- page 3 ---
-_. 6) Attémpt following
+Design a suitable I beam for a simply supported span of 6 m. and carrying a dead load of
 
-(a) A Simply supported welded compound beam formed by ISMB 450 @ 72.4 weight per
-metre with cover plate 400mm x 20mm at top and bottom pf flange of beam. Calculate safe
+Question No.6
 
-UDL the beam can carry if effective span of beam is 12m. (é)
-(b) (i) Write steps in the design of a roof truss. (3)
-(ii) Design angle purlin for roof truss for following data (3)
+Question No.7
 
-Span of truss = 6m
-Spacing of truss = 3m centre to centre
-Inclination of roof = 30 degree
-Spacing of purlin = 2m centre to centre
-Self weight of purlin = 100N/m
+a) Find maximum moment carrying capacity of ISMB400 having laterally
+unsupported span of 5.0m (12)
 
-Wind pressure = 1.5kN/m?
-Roof covering AC sheet weight = 200N/m?
+b) Design the welded stiffened seat angle connection betwéen the beam ISMB300
+and column ISHB300 for a factored reaction from beam equal to 210kN. (8)
 
-Q. 7) Attempt following
-
-(a) An ISLB 300 @ 369.8 N/m transmits an end recation of 385kn, under factored loads, to
-the web of ISMB 450 @ 710.2 N/m. Design a bolted framed connection. Use Fe410 and bolt
-grade 4.6. (6)
-
-(b) Calculate live load and wind load per panel point for roof truss having following details
-
-Span = 20m
-Rise=4m .
-Number of panel = 10
-Spacing of truss = 3m
-‘¢ Coefficient of external wind pressure = -0.6
-Coefficient of internal air pressure = +0.2 and -0.2
-Design wind pressure = 1200N/m?, wind blows normal to ridge. Ce)
-
-318
+ce
 ````
 
 ## 2014-15 · Re-Exam · Sem 7 · paper 223f08769b28
@@ -6119,6 +6336,7 @@ Design wind pressure = 1200N/m?, wind blows normal to ridge. Ce)
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/DESIGN OF STEEL STRUCTURE/Design of Steel Structure Batch 2014-15 Re Exam.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 08/06/2015
 - Text: ocr (2 pages), mean OCR confidence 87.6
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -6201,19 +6419,16 @@ ISHB250 for a factored reaction from beam equal to 70 kN. Use M16 bolts of 4.6
 grade and steel 410 with fy = 250 MPa. Design bolted connection. Draw a neat
 sketch 5
 
-iti te eee ee ee ee ee 2 ee et
 
 Q.4) Design Laced columh with channels back to back to carry compressive load of
 700 kN & unsupported length of 12 m. Both ends are pinned. Assume bolted
 connection. 12)
 
-iit eee eee eee oer Oer eee fe 2 ere ee ious
 
 Q.5) Laterally supported simply supported beam of span 6m is subjected to factored
 column load of 350 kN at center. Load is transformed through base plate of 175 mm
 length. Design the beam. Section available is ISMB 500. t2
 
-i ee ee PPP eee reece ree eee © fe ee eee tee
 
 Q.6)Design a Gusseted base for a beam-column ISHB250 having working load of
 1100 kN having yield strength of 250 MPA & use M20 grade of concrete Draw neat
@@ -6228,118 +6443,126 @@ steel grade of Fe 410 5
 2/2
 ````
 
-## 2014-15 · Re-Exam · Sem 7 · paper ec34c48b7ffc
+## 2014-15 · Re-Exam · Sem 7 · paper 904d4f2795a2
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/DESIGN OF STEEL STRUCTURE/Design of Steel Structures batch 2014-2015 Re exam.pdf`
-- Printed on paper: max marks: 60; exam date: 24 November 2016
-- Text: ocr (2 pages), mean OCR confidence 92.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/DESIGN OF STEEL STRUCTURE/Design of steel structure 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/11/2014
+- Text: ocr (2 pages), mean OCR confidence 91.9
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : MBA. Tech (Civil) Year: IV © Semester : VII
-Batch : 2014-15
-Academic Year : 2016-2017
+Programme: MBA Tech (CIVIL) Year: IV Semester: VII
+Academic Year: 2014-15 Batch: 2013-14
+Subject : Design of Steel Structure
+Marks: 100
+Date : 26/11/2014 Time : 2.00 pm to 5.00 pm
 
-Subject : Design of Steel Structures Marks : 60
-Time: 10.
-Date : 24 November 2016 Duration :°
+Durations: 3 (hrs)
+Re - Examination
 
-Re-Examination \
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and the cover of the answer book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+NB.:
+1. Question no. 1 is compulsory.
+2. Out of remaining questions, attempt any FOUR Questions.
+3. Inall FIVE questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks,
+7. Assume suitable data wherever required and state it clearly.
+8. Use of IS 800-2007 and the steel table is permitted.
 
-1) Question No. 1 is compulsory.
+Q.1 Attempt any FOUR questions (20)
+a) State the parameters that affects the strength of a compression member .
+b) Explain briefly the slab base, gusseted base and moment resisting base.
+c) How the strength of a tension member is calculated in case of plates?
+d) List the advantages of welding over bolting.
+__e) Explain différent beam end welded connections with neat sketches.
+Q2 A column 6 m long carries a factored axial load of 1800 kN. The column is
+restrained in position but not in direction at both ends. Design the column with
+two ISMB sections with battening system bolted at its ends, Assume grade of
+steel as Fe-410. (20)
+Q.3 a) Design a simply supported beam of span 3.0 m carrying a reinforced concrete
+floor capable of providing lateral restraint to the top compression flange. The
+beam’ is subjected to two point loads of 25 KN each placed at 1 m from each
+support. The above load is excluding of its self weight and shall be considered at
+its service stage. Assume Fe410 grade of steel. (10)
+b) Design a stiffened seat angle for a factored reaction of 200kN from a beam of
+ISMB 300 using 16 mm diameter bolts of grade 4.6. The beam has to be
 
-2) Out of remaining questions, attempt any 4 questions.
+— connected to the flange of column of ISHB 300 column. Assume Fe410 grade of
+steel. ; (10)
+ps Q4 A column in building has a cross section of ISMB 450. The column catries a
+factored load of 2000 KN. Assume the concrete grade as M10 and SBC as 150
 
-3) In all 5 questions to be attempted.
+kN/m’ design the gusseted base for the same. Illustrate your answers with a neat
+sketch showing plan and elevations of the gusseted base. (20)
 
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-8) IS: 800 (2007) and Steel Table is permitted
-
-Question No. 1 (Solve any Four) (12)
-a) What are the various parameters affecting the lateral stability of a flexural member.
-b) List some important advantages of steel construction over RCC construction.
-c) State and explain the procedure to calculate various loads in design of a trussed structure.
-Enlist various load combinations for truss design.
-d) Explain in brief various defects observed in welding process and their cause.
-e) What are purlins? Explain the procedure for a purlin design stating its importance in the
-design.
-
-Question No. 2 (12)
-
-Design laced column 10m long with channels placed back to back to carry factored
-compressive load of 1080KN. Both ends are hinged. Assume bolted connection.
-
-Question No. 3
-a) Calculate the moment carrying capacity of a laterally unsupported beam ISLB 400 for an (6)
-
-unsupported span of 4m.
-
-b) Check the stability of the eccentric connection for the Fig.1 shown below. (6)
-
-V2
+/
+4/2
 --- page 2 ---
-N\ 50kN
+Q.5
 
-50mm i) ad ®
-eas .. 50mm| > ® © .
-Boy | @ © s
-50mm | e @. “10mm thick bracket plate
+Q.6
 
-_ (Fe 410)
+Q7
 
-20mm dia. 4.6 grade bolts
+a) Calculate the moment carrying capacity of laterally unrestrained beam of section
+ISWB600 of length 8.0 m
+b) A 10 mm thick bracket plate is used to transmit a reaction of 80 KN (Factored) at
 
-A,
+an eccentricity of 80 mm from column flange. Design butt weld for grade Fe410
+steel
 
-Fig. 1
+TY T] go | 80kN
+H —
 
-Question No. 4
+a) A discontinuous strut consists of 2 - ISA 100x75x6 angles 2.2 m long connected
+on same side of the gusset plate through shorter leg with two or more bolts at its
+end. Determine the load ¢arrying capacity of the member if the grade of steel as
+Fe410.
 
-a) Determine load carrying capacity of a compound column consisting ISMB 400@ (6)
-61.6kg/m with one cover plate of 300x20mm on each flange and having a length of 5m.
-One end of the column is fixed and other end is pinned. Assume Fy=250Mpa.
+b) A continuous strut member of a space frame has a length of 1.8 m. The member
+is subjected to a factored load of 175 kN. Design the member if it is to be
+designed with a double angle unequal section connected on either side of the
+gusset plate with longer leg. Assume the grade of steel as Fe410 with bolted
+connection at its end. ;
 
-b) Design a double angle discontinuous strut used in a roof truss to carry a factored load of (6)
-170KN. The length of member between centre to centre of intersection is 3m. The angles
-are placed back to back on either side of gusset plate. Also design bolted connection and
-show the design details in the form of a neat sketch.
+a) Determine the net area for the ISA 150x75x8 with 20 mm diameter bolt holes as
 
-Question No. 5
+shown in figure below.
+40 60 60 60mm
+fo t t t i
+f
+, ! L150 x 75 x8 a °
+i
+4 ie 1,
+3
+ie ° °
+3 |
+! Ea a w
+40,1
 
-A column ISHB 350 @ 67.4kg/m having a factored load of 1800KN. Design a gusseted (12)
-base. Use yield strength of 250MPa and M15 grade of concrete. Provide bolted connection
+b) The diagonal member of the roof truss consists of double equal ISA section
+connected on either side of the gusset plate having length 6.0 m. Design the
+member to carry a factored load of 500 kN. Assume grade of steel as Fe410 and
+16 mm diameter bolts of grade 4.6.
 
-for gusseted base. Use 24mm diameter 4.6 grade black bolts.
+(12)
 
-Question No. 6
+(08)
 
-A simply supported beam of effective span 4m carries a factored point load of 350kN at (a2)
-mid-span. The section is laterally supported throughout the span. Design the beam using I-
-section neglecting self-weight.
+(10)
 
-Question No. 7
+(10)
+(10)
 
-a) A tension member consists of 2 ISA 90x90x8mm @10.8kg/m placed back to back on (6)
-either side of 10mm thick gusset plate. Determine design strength using bolted connection.
-Use 4.6 grade black bolts.
-
-b) A beam ISMB 400 transmits an end reaction of 240KN (factored) to the flange of a steel (6)
-column ISHB 250 @ 51.6kg/m. Design welded stiffened seated connection.
-
-af2-
+(10)
 ````
 
 ## 2013-14 · Final-Exam · Sem 7 · paper e9a8364133d7
@@ -6805,232 +7028,4 @@ Q.
 (12)
 
 (08)
-````
-
-## 2013-14 · Re-Exam · Sem 7 · paper 3b4e6ccb035e
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/DESIGN OF STEEL STRUCTURE/Design of Steel Structure Batch 2013-14 Re Exam.pdf`
-- Printed on paper: max marks: 10; exam date: 08/06/2015
-- Text: ocr (2 pages), mean OCR confidence 91.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL) Year: IV Semester: VII
-Academic Year: 2014-15 y Zegoutere zor
-SS —
-Batch: 2013-14 \d MPSTME a
-‘ LIBRA RY
-ject: Desi f Steel Structure Marks: 10 fh. ie
-Subject: Design o Tne. 2.00 5.00 po ZZ
-ions: 3 Rrsfiigs seer“
-Date: 08/06/2015 Durations SY as yNN
-ates 08087 Re-Examination Neen
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. One is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-5. List all the geometrical properties of steel sections & explain the signification of
-some of its important properties (20)
-b) A beam ISMB300 transfers a factored load of 100kN to a column ISHB250. Using
-Fe410 grade steel design the seat connection with welding (8)
-
-Question No.1 (Solve any Four)
-
-1. Specify classifications of structural connection. Explain with sketches & graph
-
-2. List all the parameters affecting the lateral stability of flexural member
-
-3. Explain the complete procedure for wind load calculation
-
-4. Under what circumstances built up laced or battened columns are selected. Which
-system is stronger & why?
-
-Question No.2
-
-a) Find tension capacity of 2 2 65x65x12 if connected on same side of gusset plate &
-tack bolted. Also design the end connection. Yield & ultimate strengths are 250 &
-410 MPA & use M20 bolt having class 4.6. Draw a neat sketch (12)
-
-?
---- page 2 ---
-Question No.3
-
-a) Find the compressive strength of a discontinuous strut 3.0 m long. Take Two 4
-75x75x8 Yield strength is 250 MPA
-i. Connected on same side by more than one bolt
-ii. Connected on both side of 8 mm thick plate by two bolts (12)
-
-b) A beam ISMB350 transfers a factored load of 200KN to a column ISHB200. Using
-Fe410 grade steel design the stiffened seat connection with bolting (8)
-
-Design battened column with channels back to back to carry compressive load of
-
-1000KN & unsupported length of 8 m. One end is fixed & other pinned. Assume welded
-connection. ‘ (20)
-
-20 kN/m and imposed load of 40 kN/m Take fy = 250 MPa. Assuming the beam as
-restrained laterally but having stiff bearing (20)
-
-Design a Gusseted base for a column ISMB200 having working load of 1100kN, yield
-
-strength 250 MPA & use M20 grade of concrete (20)
-
-Question No.4
-
-Question No.5
-
-Design a suitable I beam for a simply supported span of 6 m. and carrying a dead load of
-
-Question No.6
-
-Question No.7
-
-a) Find maximum moment carrying capacity of ISMB400 having laterally
-unsupported span of 5.0m (12)
-
-b) Design the welded stiffened seat angle connection betwéen the beam ISMB300
-and column ISHB300 for a factored reaction from beam equal to 210kN. (8)
-
-ce
-````
-
-## 2013-14 · Re-Exam · Sem 7 · paper 904d4f2795a2
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/DESIGN OF STEEL STRUCTURE/Design of steel structure 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/11/2014
-- Text: ocr (2 pages), mean OCR confidence 91.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL) Year: IV Semester: VII
-Academic Year: 2014-15 Batch: 2013-14
-Subject : Design of Steel Structure
-Marks: 100
-Date : 26/11/2014 Time : 2.00 pm to 5.00 pm
-
-Durations: 3 (hrs)
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and the cover of the answer book, which is provided for their use.
-
-NB.:
-1. Question no. 1 is compulsory.
-2. Out of remaining questions, attempt any FOUR Questions.
-3. Inall FIVE questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks,
-7. Assume suitable data wherever required and state it clearly.
-8. Use of IS 800-2007 and the steel table is permitted.
-
-Q.1 Attempt any FOUR questions (20)
-a) State the parameters that affects the strength of a compression member .
-b) Explain briefly the slab base, gusseted base and moment resisting base.
-c) How the strength of a tension member is calculated in case of plates?
-d) List the advantages of welding over bolting.
-__e) Explain différent beam end welded connections with neat sketches.
-Q2 A column 6 m long carries a factored axial load of 1800 kN. The column is
-restrained in position but not in direction at both ends. Design the column with
-two ISMB sections with battening system bolted at its ends, Assume grade of
-steel as Fe-410. (20)
-Q.3 a) Design a simply supported beam of span 3.0 m carrying a reinforced concrete
-floor capable of providing lateral restraint to the top compression flange. The
-beam’ is subjected to two point loads of 25 KN each placed at 1 m from each
-support. The above load is excluding of its self weight and shall be considered at
-its service stage. Assume Fe410 grade of steel. (10)
-b) Design a stiffened seat angle for a factored reaction of 200kN from a beam of
-ISMB 300 using 16 mm diameter bolts of grade 4.6. The beam has to be
-
-— connected to the flange of column of ISHB 300 column. Assume Fe410 grade of
-steel. ; (10)
-ps Q4 A column in building has a cross section of ISMB 450. The column catries a
-factored load of 2000 KN. Assume the concrete grade as M10 and SBC as 150
-
-kN/m’ design the gusseted base for the same. Illustrate your answers with a neat
-sketch showing plan and elevations of the gusseted base. (20)
-
-/
-4/2
---- page 2 ---
-Q.5
-
-Q.6
-
-Q7
-
-a) Calculate the moment carrying capacity of laterally unrestrained beam of section
-ISWB600 of length 8.0 m
-b) A 10 mm thick bracket plate is used to transmit a reaction of 80 KN (Factored) at
-
-an eccentricity of 80 mm from column flange. Design butt weld for grade Fe410
-steel
-
-TY T] go | 80kN
-H —
-
-a) A discontinuous strut consists of 2 - ISA 100x75x6 angles 2.2 m long connected
-on same side of the gusset plate through shorter leg with two or more bolts at its
-end. Determine the load ¢arrying capacity of the member if the grade of steel as
-Fe410.
-
-b) A continuous strut member of a space frame has a length of 1.8 m. The member
-is subjected to a factored load of 175 kN. Design the member if it is to be
-designed with a double angle unequal section connected on either side of the
-gusset plate with longer leg. Assume the grade of steel as Fe410 with bolted
-connection at its end. ;
-
-a) Determine the net area for the ISA 150x75x8 with 20 mm diameter bolt holes as
-
-shown in figure below.
-40 60 60 60mm
-fo t t t i
-f
-, ! L150 x 75 x8 a °
-i
-4 ie 1,
-3
-ie ° °
-3 |
-! Ea a w
-40,1
-
-b) The diagonal member of the roof truss consists of double equal ISA section
-connected on either side of the gusset plate having length 6.0 m. Design the
-member to carry a factored load of 500 kN. Assume grade of steel as Fe410 and
-16 mm diameter bolts of grade 4.6.
-
-(12)
-
-(08)
-
-(10)
-
-(10)
-(10)
-
-(10)
 ````

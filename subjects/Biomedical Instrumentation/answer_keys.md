@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechatronics_7004/Biomedical Instrumentation/ANS_Biomedical Instrumentation(702MH0E010)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (13 pages), mean OCR confidence 26.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

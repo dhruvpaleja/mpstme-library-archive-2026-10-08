@@ -541,6 +541,98 @@ BL-4   like selecting food, ordering, making payment, and handling success or fa
 ********** 2 **********
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper 25be974c6092
+
+- Departments: Data Science
+- Programmes: B TECH / CSE DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/SYSTEMS ANALYSIS AND DESIGN/System Analysis and Design, Sem-IV, Re Exam Batch 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024
+
+Program/s: B Tech Year: II Semester: [V
+
+Stream/s; Computer Science and Engineering (Data Science):
+
+Subject: System Analysis and Design “ Time: 03 hrs (or00amto 41:00pm)
+Date:_17_/4 /2024 No. of Pages:_2
+
+Marks: 100
+
+Re-Examination (AY 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+Co- 1; a. Draw a USE CASE diagram of any system and explain its components
+SO- 1;
+BL-3
+CO-2 ; b. Given problem can be analyzed using structural model” justify this with an
+sins example and draw its structural model.
+CO-3 ; c. Discuss four points of concern while balancing the functional and structural
+SO- 2; dels?
+BL3 models?
+CO.4 d. What is a test case? Why is it so important before deployment of the system?
+SoO- 2 Explain.
+BL-2
+2 a Explain the phased development-based model of system development life cycle
+in detail.
+CO-1; SO- [20]
+2;
+BL-1 b. Explain the Prototyping model of developing the software solution.
+Q3 a. Take an example and explain the importance of sequence diagram and its
+CO-2: SO- elements used while drawing it. [20]
+2; BL-2
+--- page 2 ---
+b. Take an example and explain the relationship between CRC card and Class
+
+Diagram
+Q4 a. Draw and explain the dependency of various domains in package diagram.
+CO-3; SO- [20]
+2; b. What is the Deployment model? Explain basic components used to design this
+BL-3
+
+diagram for any system.
+
+a. Explain integration testing w.r.t. following points: Types of tests, source of test
+
+Q5 plan, when these types can be used.
+CO-4; SO- [20]
+25 °
+BL-2 b. Explain 4 basic building blocks of any software application system, explain it in
+
+terms of architectural components.
+Q6 a Draw and explain steps of Enhanced unified modeling
+CO-1; SO- [20]
+& b. Describe basic rules [at least 10 unique points] of Agile methodology.
+BL-3
+
+a. Draw and explain the various levels of interaction coupling.
+
+Q7
+“i SO- |b. Draw and explain various MULTIPLICITY options that can be used while [20]
+BL-2 depicting the relationship between 2 classes in the class diagram
+
+FOO OR IORI CK IK i
+````
+
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper bc8b621c3e00
 
 - Departments: Data Science
@@ -658,98 +750,6 @@ Concepts, Cost, Complexity, example, importance.
 [20]
 ````
 
-## 2022-23 · Re-Exam · Sem 4 · paper 25be974c6092
-
-- Departments: Data Science
-- Programmes: B TECH / CSE DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/SYSTEMS ANALYSIS AND DESIGN/System Analysis and Design, Sem-IV, Re Exam Batch 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2023-2024
-
-Program/s: B Tech Year: II Semester: [V
-
-Stream/s; Computer Science and Engineering (Data Science):
-
-Subject: System Analysis and Design “ Time: 03 hrs (or00amto 41:00pm)
-Date:_17_/4 /2024 No. of Pages:_2
-
-Marks: 100
-
-Re-Examination (AY 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20]
-Co- 1; a. Draw a USE CASE diagram of any system and explain its components
-SO- 1;
-BL-3
-CO-2 ; b. Given problem can be analyzed using structural model” justify this with an
-sins example and draw its structural model.
-CO-3 ; c. Discuss four points of concern while balancing the functional and structural
-SO- 2; dels?
-BL3 models?
-CO.4 d. What is a test case? Why is it so important before deployment of the system?
-SoO- 2 Explain.
-BL-2
-2 a Explain the phased development-based model of system development life cycle
-in detail.
-CO-1; SO- [20]
-2;
-BL-1 b. Explain the Prototyping model of developing the software solution.
-Q3 a. Take an example and explain the importance of sequence diagram and its
-CO-2: SO- elements used while drawing it. [20]
-2; BL-2
---- page 2 ---
-b. Take an example and explain the relationship between CRC card and Class
-
-Diagram
-Q4 a. Draw and explain the dependency of various domains in package diagram.
-CO-3; SO- [20]
-2; b. What is the Deployment model? Explain basic components used to design this
-BL-3
-
-diagram for any system.
-
-a. Explain integration testing w.r.t. following points: Types of tests, source of test
-
-Q5 plan, when these types can be used.
-CO-4; SO- [20]
-25 °
-BL-2 b. Explain 4 basic building blocks of any software application system, explain it in
-
-terms of architectural components.
-Q6 a Draw and explain steps of Enhanced unified modeling
-CO-1; SO- [20]
-& b. Describe basic rules [at least 10 unique points] of Agile methodology.
-BL-3
-
-a. Draw and explain the various levels of interaction coupling.
-
-Q7
-“i SO- |b. Draw and explain various MULTIPLICITY options that can be used while [20]
-BL-2 depicting the relationship between 2 classes in the class diagram
-
-FOO OR IORI CK IK i
-````
-
 ## 2022-23 · Re-Exam · Sem 4 · paper 119124900910
 
 - Departments: Data Science
@@ -861,6 +861,109 @@ BL-1
 3. Agile software development methodology
 
 4. Relation between CRC and Class Diagram
+````
+
+## 2021-22 · Final-Exam · Sem 4 · paper 81296c504279
+
+- Departments: Data Science
+- Programmes: B TECH / CSE DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/SYSTEMS ANALYSIS AND DESIGN/B Tech, CSE Data Science, Systems Analysis and Design, 2nd Year, Sem-IV, Final Ex_91abf60d.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 April 2022
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+5 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN.
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN'
+
+Academic Year: 2021-22
+
+/ Programme: B.Tech CSE Data Science Year: II Semester: IV
+Subject: Systems Analysis and Design
+Marks: 100
+Date: 12 April 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+No. of Pages: _ O2—
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1. is compulsory.
+
+2) Out of remaining questions, attemptany 4 _ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi \
+Answer briefly: [20]
+Bi Describe different phases of unified process methodology.
+b. Analyze and discuss the following problem statement by means ofits state machine diagram and
+communication diagram.
+
+Problem statement: “Zo develop the student's portal registration form and to generate his/her
+userID and password using One time password (OTP) after successful completion of the
+
+registration.”
+
+G: Describe Object design activities in detail.
+
+d. “Unit testing and performance testing both are mandatory for any software system” justify this
+statement.
+
+a. Describe the Agile methodology of system analysis and design methodology in detail. Why it’s
+
+better approach than waterfall model?
+
+b. Design the class diagram with all possible relationships for following problem and explain it.
+
+“an online gaming system allows individuals to register on the portal, choose the game to play, play the
+Q2. game and earn reward points for every game played. Reward points can be earned as per the conditions [20]
+met. If player wins the game in first attempt he/she will be awarded 10 points, if two attempts taken to win
+the game then 5 points will be awarded otherwise 2 points for three attempts and zero points for any other
+case will be awarded. Top three performers of the month can be given free access to game of their choice
+for next one month. The free access of chosen game will not be available after it’s expiry date of one month
+from the date of access given. In case any top performer wants to access it even after the expiry date then
+he/she will have to pay discounted amount of 2% of its total cost within next I month from the expiry date.
+
+1|)Page
+2
+--- page 2 ---
+a. Design the Sequence diagram for the case study given in Q2b.
+
+Q3 b. Design the Package diagram forthe case study given in Q2b. [20]
+Q a. Compare and contrast between system testing and integration testing.
+4
+b. Design package dia gram depicting dependency relationship amongall four layers of design. [20]
+Qs a. Design Deployment Diagram of any TOP-Level Network Model and explain its usage in detail.
+b. Describe the usage of CRC CARDS with any suitable example. Draw therelevant class diagram [20]
+for the same.
+a. Compare parallel development with Phased development methodology w.rt. following points
+_ 1.Definition 2. Diagram 3. Process 4. Advanta ge/disadvantage 5. Example.
+b. Draw package diagram and sequence diagram forthe case study given below:
+“An online shopping system considered to be developed. The system should enable the staff of each
+sections (cosmetic, grocery, footwear etc.) to examine the items offered by their sections, add and remove
+items, and change the information about them (e.g., the maximum number of items permitted to be
+Q6 displayed as per current stock). It should permit staff to examine currently available items, add and
+remove items from their list, and examine the items. Section staff should be able to print a variety of reports [20]
+about the items and the customers. The system should ensure that no customer orders too many items in
+one booking and that customers who have any unpaid membership fees are not permitted to order any
+item”
+c. Justify importance of all necessary points of considerations to be followed while balancing
+functional models with structural models of any system.
+d. List various ‘security requirements’ needs to be taken into account while designing the |
+"architecture of any system. Explain them in detail.
+FE GOS AGG IK
+2j Page
+be
 ````
 
 ## 2021-22 · Re-Exam · Sem 4 · paper 6cb2e1bd9028
@@ -1036,6 +1139,72 @@ XK
 V1
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper fde624761884
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/SYSTEMS ANALYSIS AND DESIGN/scan0003(11).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07/01/2013
+- Text: ocr (1 page), mean OCR confidence 93.1
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA (Tech) -ALLSTREAMS Year: V_ Trimester: XIV
+Academic Year : 2012-2013
+
+yr
+
+Subject: SYSTEMS ANALYSIS AND DESIGN Marks: 50 o
+Time: 11.00 a.m To
+Date: 07/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions — Candidates should read carefully the instructions printed on the question paper and on the cover
+of the answer book, which is provided for their use.
+NB-
+
+1. Question No | is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+1] Explain and compare the features & properties, advantages and disadvantages of SSAD-Structured Systems
+Analysis & Design and OOAD-Object Oriented Analysis & Design. , [10 marks]
+
+2] You are required to analyze and design a software system for Savings Bank Applications which is a part of
+CBS - Core Banking Software Systems. Give a very brief prototype of this software system which will give
+some details of the Database and Programs to be used in your solution. {10 marks]
+
+3] You are required to analyze and design a software system for Domestic Electricity Billing Application which
+is a part of Electricity Supply & Distribution Software Systems. Give a very brief prototype of this software
+system which will give some details of the Database and Programs to be used in your solution. [10 marks]
+
+4] Explain the entire set of steps involved in SDLC-System Development Life Cycle,/ {10 marks]
+
+5] Explain the different models of SDLC-System Development Life Cycle giving properties, striking features
+and applications and limitations of each of them. [10 marks]
+
+6] Explain the DFD-Data Flow Diagrams with symbols, levels and physical & logical aspects. [10 marks]
+a!
+
+7| Explain the Decision Trees & Tables as effective tools used in SSAD. {10 marks]
+
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-=X-X-X-K-=X-X-X-X-K-X-
+
+\
+````
+
 ## 2009-10 · Exam not stated · Trim 15 · paper 2ff9b6214799
 
 - Departments: Common (all branches)
@@ -1178,6 +1347,7 @@ basic flow only. (5)
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/system analysis and Design/2008-2009(165).pdf`
 - Printed on paper: duration hours: 2; exam date: 02-02-2009
 - Text: ocr (2 pages), mean OCR confidence 92.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Subject: System Analysis & Design
@@ -1228,7 +1398,6 @@ a) Technical Feasibility Study (04)
 b) Decision Tree / Tables (03)
 c) Problems in the Waterfall Model (03)
 
-ee ey ae ery ee nn ee |
 --- page 2 ---
 SVKM’s NMIMS UNIVERSITY
 
@@ -1282,173 +1451,4 @@ END
 a oe
 
 Sr rin a
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper fde624761884
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/SYSTEMS ANALYSIS AND DESIGN/scan0003(11).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 07/01/2013
-- Text: ocr (1 page), mean OCR confidence 93.1
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MBA (Tech) -ALLSTREAMS Year: V_ Trimester: XIV
-Academic Year : 2012-2013
-
-yr
-
-Subject: SYSTEMS ANALYSIS AND DESIGN Marks: 50 o
-Time: 11.00 a.m To
-Date: 07/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions — Candidates should read carefully the instructions printed on the question paper and on the cover
-of the answer book, which is provided for their use.
-NB-
-
-1. Question No | is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. In all FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-1] Explain and compare the features & properties, advantages and disadvantages of SSAD-Structured Systems
-Analysis & Design and OOAD-Object Oriented Analysis & Design. , [10 marks]
-
-2] You are required to analyze and design a software system for Savings Bank Applications which is a part of
-CBS - Core Banking Software Systems. Give a very brief prototype of this software system which will give
-some details of the Database and Programs to be used in your solution. {10 marks]
-
-3] You are required to analyze and design a software system for Domestic Electricity Billing Application which
-is a part of Electricity Supply & Distribution Software Systems. Give a very brief prototype of this software
-system which will give some details of the Database and Programs to be used in your solution. [10 marks]
-
-4] Explain the entire set of steps involved in SDLC-System Development Life Cycle,/ {10 marks]
-
-5] Explain the different models of SDLC-System Development Life Cycle giving properties, striking features
-and applications and limitations of each of them. [10 marks]
-
-6] Explain the DFD-Data Flow Diagrams with symbols, levels and physical & logical aspects. [10 marks]
-a!
-
-7| Explain the Decision Trees & Tables as effective tools used in SSAD. {10 marks]
-
--X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-=X-X-X-K-=X-X-X-X-K-X-
-
-\
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper 81296c504279
-
-- Departments: Data Science
-- Programmes: B TECH / CSE DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/SYSTEMS ANALYSIS AND DESIGN/B Tech, CSE Data Science, Systems Analysis and Design, 2nd Year, Sem-IV, Final Ex_91abf60d.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 April 2022
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-5 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN.
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN'
-
-Academic Year: 2021-22
-
-/ Programme: B.Tech CSE Data Science Year: II Semester: IV
-Subject: Systems Analysis and Design
-Marks: 100
-Date: 12 April 2022 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-No. of Pages: _ O2—
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1. is compulsory.
-
-2) Out of remaining questions, attemptany 4 _ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi \
-Answer briefly: [20]
-Bi Describe different phases of unified process methodology.
-b. Analyze and discuss the following problem statement by means ofits state machine diagram and
-communication diagram.
-
-Problem statement: “Zo develop the student's portal registration form and to generate his/her
-userID and password using One time password (OTP) after successful completion of the
-
-registration.”
-
-G: Describe Object design activities in detail.
-
-d. “Unit testing and performance testing both are mandatory for any software system” justify this
-statement.
-
-a. Describe the Agile methodology of system analysis and design methodology in detail. Why it’s
-
-better approach than waterfall model?
-
-b. Design the class diagram with all possible relationships for following problem and explain it.
-
-“an online gaming system allows individuals to register on the portal, choose the game to play, play the
-Q2. game and earn reward points for every game played. Reward points can be earned as per the conditions [20]
-met. If player wins the game in first attempt he/she will be awarded 10 points, if two attempts taken to win
-the game then 5 points will be awarded otherwise 2 points for three attempts and zero points for any other
-case will be awarded. Top three performers of the month can be given free access to game of their choice
-for next one month. The free access of chosen game will not be available after it’s expiry date of one month
-from the date of access given. In case any top performer wants to access it even after the expiry date then
-he/she will have to pay discounted amount of 2% of its total cost within next I month from the expiry date.
-
-1|)Page
-2
---- page 2 ---
-a. Design the Sequence diagram for the case study given in Q2b.
-
-Q3 b. Design the Package diagram forthe case study given in Q2b. [20]
-Q a. Compare and contrast between system testing and integration testing.
-4
-b. Design package dia gram depicting dependency relationship amongall four layers of design. [20]
-Qs a. Design Deployment Diagram of any TOP-Level Network Model and explain its usage in detail.
-b. Describe the usage of CRC CARDS with any suitable example. Draw therelevant class diagram [20]
-for the same.
-a. Compare parallel development with Phased development methodology w.rt. following points
-_ 1.Definition 2. Diagram 3. Process 4. Advanta ge/disadvantage 5. Example.
-b. Draw package diagram and sequence diagram forthe case study given below:
-“An online shopping system considered to be developed. The system should enable the staff of each
-sections (cosmetic, grocery, footwear etc.) to examine the items offered by their sections, add and remove
-items, and change the information about them (e.g., the maximum number of items permitted to be
-Q6 displayed as per current stock). It should permit staff to examine currently available items, add and
-remove items from their list, and examine the items. Section staff should be able to print a variety of reports [20]
-about the items and the customers. The system should ensure that no customer orders too many items in
-one booking and that customers who have any unpaid membership fees are not permitted to order any
-item”
-c. Justify importance of all necessary points of considerations to be followed while balancing
-functional models with structural models of any system.
-d. List various ‘security requirements’ needs to be taken into account while designing the |
-"architecture of any system. Explain them in detail.
-FE GOS AGG IK
-2j Page
-be
 ````

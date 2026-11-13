@@ -818,6 +818,7 @@ ee a en
 - Programmes: M TECH / COMPUTER
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM III/Parallel Processing/Parallel Processing 2006-2007 Final.pdf`
 - Text: ocr (2 pages), mean OCR confidence 92.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS University
@@ -826,7 +827,6 @@ Mukesh Patel School of Technology Management and Engineerin
 Course: M-ECH ¢ /Comps) Trimester: III Max Matks! 100
 Academic Year: 2006-07. Duration:
 
-D atc ~ 3 |5| © Fgubject: Paraltet Processing Teme -2W OS Poe.
 
 Instructions:
 I. Question I is compulsory

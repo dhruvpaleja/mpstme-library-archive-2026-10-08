@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Computer_7032/Japanese A1/QP_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (4 pages), mean OCR confidence 47.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -146,6 +147,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_DS_7038/Japanese A1/QP_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (4 pages), mean OCR confidence 47.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -281,6 +283,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_IT_7037/Japanese A1/QP_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (4 pages), mean OCR confidence 47.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -416,6 +419,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Mechanical_7031/Japanese A1/QP_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (4 pages), mean OCR confidence 47.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -551,6 +555,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_10/Re-Exam/Integrated_Computer_7032/Japanese A1/QP_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 22.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -685,6 +690,7 @@ FTVe
 - Source: `02_Question_Papers/2025/Sem_10/Re-Exam/Integrated_DS_7038/Japanese A1/QP_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 22.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -819,6 +825,7 @@ FTVe
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/All Stream/Japanese AI/Japanese AI Batch 2025-26 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: ocr (4 pages), mean OCR confidence 69.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -856,13 +863,11 @@ r
 Ql) a HBRED PWSODILWWT BAR MRR, 10 >
 Cco-, 3 Write about the things you bought yesterday. . i
 BL-,3 7
-co-, 3 b HRED PDESICOWCT BAK D*?REAVY : 10
 BL-,3 Write 10 -12 lines about your family.
 Q2) a (dk AB ik C EE OPM KKELW BO ZENG <PREV 10
 cO-1 Choose the correct answers from (/k ZS lc G & ®)
 BL-2 Yes — KAAS Fe Ct,
 NHSEA EREO — IC-— FeCHA,
-3JoeEL — ERKSIX DED — FACET,
 Ait -— FR — PEM HYET,
 S\bEL — Lo&A -— ¥<LE CH.
 6) SAIL RY S<KEbOM te CH,

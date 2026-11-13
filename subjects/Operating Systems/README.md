@@ -16,17 +16,6 @@ Also filed as: `OPERATING SYSTEM`, `Operating System`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 5 | BTech AI 7012, BTech AIDS 7056, BTech CSE DS 7057, MBATech AI 7051, MBATech Computer 7047 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Computer 7032 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Operating Systems(703CO1C002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 5, Sem 9 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE Data Science (311), B.TECH INTEGRATED / COMPUTER, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / Computer | Operating Systems 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | B TECH / CSEDS-311 | Operating System, Sem-III, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 5 | BTech AI 7012, BTech AIDS 7056, MBATech AI 7051, MBATech Computer 7047 | QP_Operating Systems(702CO0C056)_2025-2026.pdf |
@@ -39,22 +28,17 @@ Also filed as: `OPERATING SYSTEM`, `Operating System`
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Operating Systems(703CO1C002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech IT 7041 | QP_Operating Systems(702CO0C056)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MCA | Operating Systems 2025-26 Final.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CS 7055 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSE DS 7057 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated Computer 7032 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Operating Systems(703CO1C002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech Computer 7047 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech Computer 7047 | ANS_Operating Systems(702CO1C002)_2025-2026_9a83737962.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 5 | BTech AI 7012, BTech AIDS 7056, BTech CSE DS 7057, MBATech AI 7051, MBATech Computer 7047 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Computer 7032 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Operating Systems(703CO1C002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / CSE-CYBER SECURITY, B TECH / IT, B.TECH INTEGRATED / IT, MBA TECH / COMPUTER, MBA TECH / I T | Operating Systems Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AI 7012 | QP_Operating Systems(702CO0C056)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AIDS 7056 | QP_Operating Systems(702CO0C056)_2025-2026.pdf |
@@ -72,20 +56,36 @@ Also filed as: `OPERATING SYSTEM`, `Operating System`
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech Computer 7047 | QP_Operating Systems(702CO1C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech Computer 7047 | QP_Operating Systems(702CO1C002)_2025-2026_7211d6756b.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | MBATech IT 7041 | QP_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CS 7055 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSE DS 7057 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated Computer 7032 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Operating Systems(703CO1C002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech Computer 7047 | ANS_Operating Systems(702CO1C002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech Computer 7047 | ANS_Operating Systems(702CO1C002)_2025-2026_9a83737962.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Operating Systems(702CO0C056)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSEDS-311 | Operating System, Sem-III, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3, Sem 5, Sem 9 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B.TECH INTEGRATED / COMPUTER, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / Computer | Operating Systems Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSBS, B TECH / CSE-CYBER SECURITY, MBA TECH / I T | Operating Systems, Sem IV, Operating Systems, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE | Operating Systems, Sem-III, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / IT | Operating Systems Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 1 | MCA | Operating Systmes 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Operating Systems(702CO1C002)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Operating Systems(703CO1C002)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5, Sem 9 | BTech Computer 7002, BTech CSE DS 7057, Integrated Computer 7032 | QP_Operating Systems(702CO1C002)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Operating Systems(703CO1C002)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Operating Systems(703CO1C002)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Operating Systems(702CO1C002)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Operating Systems(703CO1C002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / COMPUTER | Operating Systems, Sem-III, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Operating Systems(703CO1C002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MCA | Operating Systems Batch 2023-24,2024-25 Re Exam0001.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Operating Systems(703CO1C002)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER | Operating Systems, Sem-V, A Y 2023-24, Final Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | B TECH / CSBS | Operating Systems, Sem-III, Final Exam, A Y 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 4 | B TECH / CSBS, B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T | Operating Systems, Sem-IV, Final Exam 2023-24.pdf |

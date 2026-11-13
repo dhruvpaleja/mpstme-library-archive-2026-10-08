@@ -16,22 +16,6 @@ Also filed as: `OPERATION & SUPPLY CHAIN MANAGEMENT`, `OPERATIONS SUPPLY CHAIN M
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech Computer 7002, BTech DS 7009, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Operations and Supply Chain Management(702TO0C004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, Integrated Mechanical 7031 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 12 | Integrated Mechanical 7031 | ANS_Operations and Supply Chain Management(701ME0C032)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH | Operations and Supply Chain Management, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED, B.TECH INTEGRATED / IT | Operations and Supply chain Management 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech AI 7012, BTech Computer 7002, BTech DS 7009, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004 | QP_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
@@ -50,10 +34,26 @@ Also filed as: `OPERATION & SUPPLY CHAIN MANAGEMENT`, `OPERATIONS SUPPLY CHAIN M
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated IT 7037 | QP_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Mechanical 7031 | QP_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 12 | Integrated Mechanical 7031 | QP_Operations and Supply Chain Management(701ME0C032)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Operations and Supply Chain Management(702TO0C001)_2024-2025.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech Computer 7002, BTech DS 7009, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Operations and Supply Chain Management(702TO0C004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, Integrated Mechanical 7031 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 12 | Integrated Mechanical 7031 | ANS_Operations and Supply Chain Management(701ME0C032)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH, B.TECH INTEGRATED | Operations and Supply Chain Management Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH, MBA TECH | Operations and Supply Chain Management, Sem VI, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | BTech CSE DS 7011 | QP_Operations and Supply Chain Management(702TO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Operations and Supply Chain Management(702TO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH, B.TECH INTEGRATED | Operations and Supply Chain Management, Sem-V, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6 | B TECH, MBA TECH | Operations and Supply Chain Management, Sem VI, Final Exam 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE | Operations and Supply Chain Management, Sem-IV, Final Exam 2023-24.pdf |

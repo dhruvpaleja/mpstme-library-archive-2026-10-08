@@ -356,246 +356,7 @@ Strengths
 ********** 4 **********
 ````
 
-## 2024-25 · Final + Re-Exam · Sem 4 · paper 9fc1c34b5f94
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/Concrete Technology, Sem IV, Year 2024-25 Final Exam & 2022-23 & 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03/05/2025
-- Text: ocr (4 pages), mean OCR confidence 87.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-
-Program/s: B.tech Year: I/II Semester: IV/VI
-Stream/s : Civil
-
-Subject: Concrete Technology Time: 03 hrs (10:00 am to 1:00 pm)
-Date:03/05/2025 No. of Pages: 04
-
-Marks: 100
-
-Final Examination/Re-Examination (2022-23, 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1__ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20] -
--3; SO-6; : . : ;
-
-. . S0-6; Explain method of producing special concrete. [5]
--1; SO-1; b.
-
-a, 7 Soil, Illustrate the effects of water impurities on the properties of concrete. [5]
-
-CO-4; SO-7; z a . . —
-
-BL2 , ; ° Define workability. Explain factors affecting workability. [5]
-
-CO- 4; SO-6 ; a. Describe the compression test to determine the compressive strength of [5]
-
-BL-4 concrete,
-
-Q2a. Explain fiber-reinforced concrete and various types of fibers used in concrete.
-
-CO-3; SO-7; [10]
-
-BL-2
-
-Q2 b. Classify accelerator and retarder admixture. Make a list of commonly used
-
-CO-1; SO-1; accelerators and retarders. [10]
-
-BL-2
-
-Q3 a. .
-
-CO-4; SO-6; Construct different slump patterns. Also state limitations of slump test. [10]
-
-BL-3
-
-1of4
---- page 2 ---
-Q3 b. Explain creep and shrinkage in concrete.
-
-CO-1; SO-1; [10]
-BL-2
-Q4a. Describe different methods used for compacting concrete.
-CO-4; SO-7; [10]
-BL-3
-Q4b. Explain DOE method for mix design.
-CO-2; SO-1; [10]
-BL-2
-Q5a. Describe the procedure for determining the dry loose bulk density of aggregate
-CO-1; SO-6; in detail, including a diagrammatic representation. [10]
-BL-4
-Q5 b. Identify various Non-destructive testing of concrete and explain any one in
-CO-4; SO-6; detail. [10]
-BL-3
-Q6 a. Explain high density concrete and low-density concrete.
-CO-3; SO-1; [10]
-. | BL-2
-~ | Q6 b. Illustrate the benefits of Ready-Mix Concrete (RMC) compared to site-mixed
-CO-3; SO-7; concrete. [10]
-BL-2
-
-Estimate a concrete mix in laboratory for concrete grade M45 with the
-following data:
-
-- Cement — OPC 53 grade
-
-Exposure condition — Moderate
-
-Sand Zone — III
-
-Desired Slump = 100 mm (pumpable concrete)
-
-Q7 Coarse aggregate type: Rounded aggregate with MSA 20 mm in combination
-CO-2; SO-2; . we : [20]
-BL<5 of CA in SSD condition and sand with excess
-
-water content of 1%.
-Specific gravity of Sand — 2.75
-Specific gravity of Course Aggregate — 2.65
-Specific gravity of Cement — 3.15
-
-Note: Assume suitable data if necessary and state it clearly.
-
-20f 4
---- page 3 ---
-Data Sheet for Mix Design
-Table —1 & 2 of IS 10262-2019: Value of X and Assumed Standard Deviation
-
-M30, M35, M40, M65, M70,
-Grade of Concrete M10, M15 M20, M25 M45, M50, M35, M60 | M75, M80
-x 5.0 5.5 6.5 8.0
-Assumed Standard Deviation 3.5 4.0 5.0 6.0
-
-Table —-3 & 4 of IS 10262-2019: Approximate Air Content and Approximate Water Content (Water
-content for angular aggregate and 50 mm slump. For other conditions, water content may be increased at the
-rate of 3% for every 25 mm of slump and reduction of 10 kg, 15 kg and 20 kg for sub-angular, gravel with
-some crushed particles and rounded gravels respectively)
-
-Nominal maximum size of aggregate (mm) 10 20 40
-Entrapped air (% of volume of concrete) 1.5 1.0 0.8
-Water content (kg) 208 186 165
-
-Table — 5 of IS 10262-2019: Volume of Coarse Aggregate per Unit Volume of Total Aggregate for
-Different Zones of Fine Aggregate for Water-Cement/Water-Cementitious Materials Ratio of 0.50
-(Values may be increased at the rate of 0.01 for every decrease in w/c ratio by 0.05 or vice-versa)
-
-Volume of Coarse Aggregate per Unit Volume of Total Aggregate
-
-Sh Nomninalanimslinuuts for Different Zones of Fine Aggregate
-
-No. | size of aggregate (mm)
-
-Zone-IV Zone-Ii] Zone-II Zone-I
-1 10 0.54 0.52 0.50 _ 0.48
-2 20 0.66 0.64 0.62 0.60
-3 40 0.73 0.72 0.71 0.69
-
-Table — 9 of IS 383 2016: Fine Aggregates
-
-Sr. IS Sieve % Passing
-No. | Desienstion Grading Grading Grading Grading
-Zone - I Zone - II Zone - III Zone - IV
-
-1 10 mm 100 100 100 100
-2 4.75 mm 90-100 90 -— 100 90-100 95 — 100
-3 2.36 mm 60 —95 75 — 100 85 — 100 95 — 100
-4 1.18 mm 30-70 55-90 75 — 100 90 - 100
-5 | 600 microns 15-34 35-59 60-79 80 -— 100
-6 | 300 microns 5-20 8-30 12 —40 15-50
-7 | 150 microns 0-10 0-10 0-10 0-15
-
-3 of 4
---- page 4 ---
-Table —5 of IS 456 2000: Minimum Cement Content, Maximum Water-Cement Ratio and Minimum
-Grade of Concrete for Different Exposures with Normal Weight aggregates of 20 mm nominal
-maximum size.
-
-Plain Concrete Reinforced Concrete
-os Maximum 7 Maximum
-Minimum 7 Minimum .
-Sr. Exposure Cement Free Minimum Cement Free Minimum
-No. P Water- Grade of — Water- Grade of
-Content Content
-Kolm? Cement Concrete Kelm? Cement Concrete
-8 Ratio 8 Ratio
-1 Mild 220 0.60 --- 300 0.55 M20
-2 Moderate 240 0.60 M15 300 0.50 M25
-3 Severe 250 0.50 M20 320 0.45 M30
-4 | Very Severe 260 0.45 M20 340 0.45 M35
-5 Extreme 280 0.40 M25 360 0.40 M40
-80 =
-~ 70 IS
-=
-&
-= 60 N
-to CURVE 3
-oa
-2 50 v- -
-
-fo)
-
-o PN
-
-i. CURVE 2
-
-4 wee |
-
-= 40
-
-Ee *.
-io]
-
-z
-
-ig !
-
-30
-
-ee
-
-2 20 : =
-
-9 10
-
-0.25 0.3 0.35 Os 0.45 0.5 0.55 o.6 0.65
-
-FREE WATER CEMENT RATIO
-Curve 1 . for expected 28 days compressive strength of 33 and < 43 Némm?.
-Curve 2 for expected 28 days compressive strength af 43 and < 53 N/mm,
-Curve 3 : for expected 28 days compressive sirength of 53 Nimm? and above
-NOES
-1 Inthe absence of daia on actual 2X days compressive strength of cement, the curves 1,2 and 3 may be used for OPC 33, OPC 43 ond
-UPC 53, respect
-2 White osing PPC *. the apprapr per the actual may be) In the absence of the actual 28 dayxcompressive
-sircogth data, cure 2 may be uthzed
-
-Figure — 1 of IS 10262 2019: Relationship between Free Water-Cement Ratio and 28-Days
-Compressive Strength of Concrete for Cement of Various Expected 28-Days Compressive Strengths
-
-4o0f4
-````
-
-## 2024-25 · Re-Exam · Sem 4 · paper 243ad823eac4
+## 2025-26 · Re-Exam · Sem 4 · paper 243ad823eac4
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
@@ -837,6 +598,245 @@ y be utilized.
 In the absence of the actual 2% days compressive
 
 FOO IO OK
+````
+
+## 2024-25 · Final + Re-Exam · Sem 4 · paper 9fc1c34b5f94
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/Concrete Technology, Sem IV, Year 2024-25 Final Exam & 2022-23 & 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03/05/2025
+- Text: ocr (4 pages), mean OCR confidence 87.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: B.tech Year: I/II Semester: IV/VI
+Stream/s : Civil
+
+Subject: Concrete Technology Time: 03 hrs (10:00 am to 1:00 pm)
+Date:03/05/2025 No. of Pages: 04
+
+Marks: 100
+
+Final Examination/Re-Examination (2022-23, 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20] -
+-3; SO-6; : . : ;
+
+. . S0-6; Explain method of producing special concrete. [5]
+-1; SO-1; b.
+
+a, 7 Soil, Illustrate the effects of water impurities on the properties of concrete. [5]
+
+CO-4; SO-7; z a . . —
+
+BL2 , ; ° Define workability. Explain factors affecting workability. [5]
+
+CO- 4; SO-6 ; a. Describe the compression test to determine the compressive strength of [5]
+
+BL-4 concrete,
+
+Q2a. Explain fiber-reinforced concrete and various types of fibers used in concrete.
+
+CO-3; SO-7; [10]
+
+BL-2
+
+Q2 b. Classify accelerator and retarder admixture. Make a list of commonly used
+
+CO-1; SO-1; accelerators and retarders. [10]
+
+BL-2
+
+Q3 a. .
+
+CO-4; SO-6; Construct different slump patterns. Also state limitations of slump test. [10]
+
+BL-3
+
+1of4
+--- page 2 ---
+Q3 b. Explain creep and shrinkage in concrete.
+
+CO-1; SO-1; [10]
+BL-2
+Q4a. Describe different methods used for compacting concrete.
+CO-4; SO-7; [10]
+BL-3
+Q4b. Explain DOE method for mix design.
+CO-2; SO-1; [10]
+BL-2
+Q5a. Describe the procedure for determining the dry loose bulk density of aggregate
+CO-1; SO-6; in detail, including a diagrammatic representation. [10]
+BL-4
+Q5 b. Identify various Non-destructive testing of concrete and explain any one in
+CO-4; SO-6; detail. [10]
+BL-3
+Q6 a. Explain high density concrete and low-density concrete.
+CO-3; SO-1; [10]
+. | BL-2
+~ | Q6 b. Illustrate the benefits of Ready-Mix Concrete (RMC) compared to site-mixed
+CO-3; SO-7; concrete. [10]
+BL-2
+
+Estimate a concrete mix in laboratory for concrete grade M45 with the
+following data:
+
+- Cement — OPC 53 grade
+
+Exposure condition — Moderate
+
+Sand Zone — III
+
+Desired Slump = 100 mm (pumpable concrete)
+
+Q7 Coarse aggregate type: Rounded aggregate with MSA 20 mm in combination
+CO-2; SO-2; . we : [20]
+BL<5 of CA in SSD condition and sand with excess
+
+water content of 1%.
+Specific gravity of Sand — 2.75
+Specific gravity of Course Aggregate — 2.65
+Specific gravity of Cement — 3.15
+
+Note: Assume suitable data if necessary and state it clearly.
+
+20f 4
+--- page 3 ---
+Data Sheet for Mix Design
+Table —1 & 2 of IS 10262-2019: Value of X and Assumed Standard Deviation
+
+M30, M35, M40, M65, M70,
+Grade of Concrete M10, M15 M20, M25 M45, M50, M35, M60 | M75, M80
+x 5.0 5.5 6.5 8.0
+Assumed Standard Deviation 3.5 4.0 5.0 6.0
+
+Table —-3 & 4 of IS 10262-2019: Approximate Air Content and Approximate Water Content (Water
+content for angular aggregate and 50 mm slump. For other conditions, water content may be increased at the
+rate of 3% for every 25 mm of slump and reduction of 10 kg, 15 kg and 20 kg for sub-angular, gravel with
+some crushed particles and rounded gravels respectively)
+
+Nominal maximum size of aggregate (mm) 10 20 40
+Entrapped air (% of volume of concrete) 1.5 1.0 0.8
+Water content (kg) 208 186 165
+
+Table — 5 of IS 10262-2019: Volume of Coarse Aggregate per Unit Volume of Total Aggregate for
+Different Zones of Fine Aggregate for Water-Cement/Water-Cementitious Materials Ratio of 0.50
+(Values may be increased at the rate of 0.01 for every decrease in w/c ratio by 0.05 or vice-versa)
+
+Volume of Coarse Aggregate per Unit Volume of Total Aggregate
+
+Sh Nomninalanimslinuuts for Different Zones of Fine Aggregate
+
+No. | size of aggregate (mm)
+
+Zone-IV Zone-Ii] Zone-II Zone-I
+1 10 0.54 0.52 0.50 _ 0.48
+2 20 0.66 0.64 0.62 0.60
+3 40 0.73 0.72 0.71 0.69
+
+Table — 9 of IS 383 2016: Fine Aggregates
+
+Sr. IS Sieve % Passing
+No. | Desienstion Grading Grading Grading Grading
+Zone - I Zone - II Zone - III Zone - IV
+
+1 10 mm 100 100 100 100
+2 4.75 mm 90-100 90 -— 100 90-100 95 — 100
+3 2.36 mm 60 —95 75 — 100 85 — 100 95 — 100
+4 1.18 mm 30-70 55-90 75 — 100 90 - 100
+5 | 600 microns 15-34 35-59 60-79 80 -— 100
+6 | 300 microns 5-20 8-30 12 —40 15-50
+7 | 150 microns 0-10 0-10 0-10 0-15
+
+3 of 4
+--- page 4 ---
+Table —5 of IS 456 2000: Minimum Cement Content, Maximum Water-Cement Ratio and Minimum
+Grade of Concrete for Different Exposures with Normal Weight aggregates of 20 mm nominal
+maximum size.
+
+Plain Concrete Reinforced Concrete
+os Maximum 7 Maximum
+Minimum 7 Minimum .
+Sr. Exposure Cement Free Minimum Cement Free Minimum
+No. P Water- Grade of — Water- Grade of
+Content Content
+Kolm? Cement Concrete Kelm? Cement Concrete
+8 Ratio 8 Ratio
+1 Mild 220 0.60 --- 300 0.55 M20
+2 Moderate 240 0.60 M15 300 0.50 M25
+3 Severe 250 0.50 M20 320 0.45 M30
+4 | Very Severe 260 0.45 M20 340 0.45 M35
+5 Extreme 280 0.40 M25 360 0.40 M40
+80 =
+~ 70 IS
+=
+&
+= 60 N
+to CURVE 3
+oa
+2 50 v- -
+
+fo)
+
+o PN
+
+i. CURVE 2
+
+4 wee |
+
+= 40
+
+Ee *.
+io]
+
+z
+
+ig !
+
+30
+
+ee
+
+2 20 : =
+
+9 10
+
+0.25 0.3 0.35 Os 0.45 0.5 0.55 o.6 0.65
+
+FREE WATER CEMENT RATIO
+Curve 1 . for expected 28 days compressive strength of 33 and < 43 Némm?.
+Curve 2 for expected 28 days compressive strength af 43 and < 53 N/mm,
+Curve 3 : for expected 28 days compressive sirength of 53 Nimm? and above
+NOES
+1 Inthe absence of daia on actual 2X days compressive strength of cement, the curves 1,2 and 3 may be used for OPC 33, OPC 43 ond
+UPC 53, respect
+2 White osing PPC *. the apprapr per the actual may be) In the absence of the actual 28 dayxcompressive
+sircogth data, cure 2 may be uthzed
+
+Figure — 1 of IS 10262 2019: Relationship between Free Water-Cement Ratio and 28-Days
+Compressive Strength of Concrete for Cement of Various Expected 28-Days Compressive Strengths
+
+4o0f4
 ````
 
 ## 2023-24 · Final + Re-Exam · Sem 4 · paper 09373e104f2d
@@ -2168,6 +2168,7 @@ RoR
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY 18-19 FINAL AND RE EXAM 16-17 17-18.pdf`
 - Printed on paper: exam date: 22 April 2019
 - Text: ocr (4 pages), mean OCR confidence 64.2
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “4
@@ -2283,27 +2284,22 @@ ew
 a 2 gS B ie
 - i = £ &
 3 E zg ¥e2 |=
-r= Bn os = i ‘oe o|2Sr
 a) , a SBer See | Ba wen
 “ Ft Sr see oS “| oco
 he os Efe s/SSS Ps Ea] BSE 7"™
 Ee |se f/52= £8 $8 | 233
 =e 5s it) ‘| a =
 2m? | eo wehe|#e’ |= le
-BE OM cS ¢aw Si s& 9 2+ $s
 235 = tate | SON BYisss
-a 2 Bd Sy y ea Vwown N
 ow DES ghee SES
 oexzs eho - | oat
 tome gg So Bsmt xf 23 4 >
 ee om esc sein
-sae" Samet ESE |S alesse
 seexles seo e/s (|e -\oe°
 eno as eeu & - Ss
 EM 4} Eu aces
 eoeulee pe esl see
 EOE Ss SRE S 2 £ZONU|2235% ;
-aS alj#27e @/Sae 2 oe TILEELP Ee gqlees
 BSE s\35 > E | EseRE S/RRS
 Sens as Sain
 Re ROE m 3 Aa Se
@@ -2319,9 +2315,7 @@ cad as S| ces
 2
 g aa a
 > 5 é
-ge |é ge g SE a goF
 s S Zoos Zgee =
-Sa B Es ww Qo o Ey? 23
 Bm) esti + “i ea E> ge
 Ay) Bas Hl
 & cn £ = Bk ow
@@ -2330,9 +2324,7 @@ E < #8 «
 g<|2 Eme x
 mn teas
 Sai ao: 8
-Em | se Penpren   guaen tl aavertrara Sus Qs
 te nloknalee en Seevees <5 2
-g|geal2e a8 Basses Taz |zhfaeae
 2S|/22Slss 35 222222 g ape
 afc a &»
 g<
@@ -2813,6 +2805,136 @@ fe) — Cc
 — 53 2
 
 g|/f 4
+````
+
+## 2018-19 · Re-Exam · Sem 4 · paper 0a68e9221bda
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH _2016-17-18-19_RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 18 June 2019
+- Text: ocr (2 pages), mean OCR confidence 91.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech / MBA Tech(Civil) Year: If. Semester: TV
+Academic Year: 2018-2019
+Subject: Concrete Technology Marks: 70
+Date: 18 June 2019 Time: 2.00 pm to 5.00 pm -
+
+Duration: 3 (Hrs)
+
+. _ No. of Pages:__2
+Re- Examination (2016-17 / 2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted. o 2
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. = 4
+8) Use of non-programmable scientific calculator is allowed.
+
+9) Answer must be supported with neat diagrams wherever possible.
+
+Q.1 (a) Explain permeability of concrete. 03
+(b) Explain effect of impurities in water used for concreting. 03
+(c) The concrete mix design is carried out as per Indian Standard Method for M20 = 03
+concrete. The crushing strength test results of three cubes after 28 days of
+curing are 12 N/mm?, 20 N/mm? and 28 N/mm2. Can this result be accepted?
+If not, give specific reasons.
+
+(d) Enlist various special concretes used for repairs and rehabilitation of 3
+structures.
+
+(e) Explain carbonation of concrete. 02
+
+Q.2 (a) Explain ultrasonic pulse velocity test to be carried out on a concrete member. 07
+
+(b) Explain Flexural Test on concrete as carried out in a laboratory. What is the 07
+
+relation between flexural strength and characteristic strength of concrete as per
+IS 456-2000.
+
+Q.3 (a) Differentiate between structural and non-structural repairs. 05
+
+2a
+--- page 2 ---
+4
+Q.3 (b) : Design concrete mix using IS code method with the following information :
+
+(i) Grade of concrete — M25, type of structure - RCC
+(ii) Exposure conditions — Moderate; Limiting water cement ratio for
+
+exposure condition : 0.50
+(iii)Grade of cement — 53 Gr
+(iv) Sp. Gravity of cement — 2.96
+(v) Maximum nominal size of aggregates —- 20 mm
+(vi)Sp. Gravity of Coarse aggregates — 2.70
+(vii) Sp. Gravity of Fine aggregates — 2.55
+(viii) Water content for 20 mm maximum nominal size of aggregates —
+
+186 kg/m3
+(ix) Workability requirement in terms of slump value —25 mm
+(x) Surface Moisture content : Coarse aggregates — Nil
+Fine aggregates — 5%
+(xi) Water absorption: Coarse aggregates — 1 %
+Fine aggregates — Nil
+
+(xii) Fine aggregate belongs to Zone I ,
+
+=
+
+Proportion of CA to FA for 20 mm maximum nominal size of aggregates and
+FA of Zone I: 0.60:0.40 *
+Assume any other information if required and state the same clearly.
+
+Q.4 Write short notes on any four:
+1. Curing of Concrete
+2. Under water concreting
+3. Light weight concrete
+4. Mineral admixtures
+5. Grading of aggregates
+
+Q.5(a) Explain in brief various constituents of high performance concrete.
+
+(b) Discuss cold weather concreting. What are the problems associated with it?
+
+How can these problems be overcome?
+
+Q.6 (a) Enlist various types of cement along with their suitability.
+(b) Describe in detail various defects generated because of excessive use of
+admixture with their specific relevance with the admixture used.
+
+Q.7 (a) Explain durability of concrete. Explain the effect of water cement ratio on
+durability of concrete.
+(b) Explain in detail — arrangements for proper storage and batching of materials
+at Ready Mix Concrete plant.
+
+09
+
+14
+
+07
+07
+
+07
+07
+
+07
+
+07
+
+2/2.
 ````
 
 ## 2017-18 · Final + Re-Exam · Sem 4 · paper 3654911e85ea
@@ -3736,6 +3858,185 @@ ii. Self-compacting concrete
 ”)
 ````
 
+## 2016-17 · Re-Exam · Sem 4 · paper c71117a8e262
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 July 2017
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: II Semester: IV Zz
+
+» Batch: 2014-2015 / 2015-2016 ~ PAT j
+~~
+e
+
+; Academic Year: 2016-2017
+Subject: Concrete Technology
+
+Marks: 60 ~~
+Time: 10.00 am!
+Durations:3 (hrs)
+No. of Pages: _O2,
+
+Date: 11 July 2017   V
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any four of the following: 12
+
+a) Explain in detail various grades of concrete and characteristic strength of concrete.
+b) Write a note on ‘Bogue’s Compounds.
+
+c) Explain volume batching and weigh batching.
+
+d) State various types of cements and state practical applications of any two of them.
+e) Distinguish between plasticizer and super plasticizer.
+
+Q2
+a) State various stages of production of concrete. Explain various methods of transportation of 6
+concrete.
+b) Explain : (i) Sulphate attack (ii) Carbonation 6
+Q.3
+a) Define High Strength Concrete and state its ingredients. Explain at least two methods of 6
+_— producing high strength concrete.
+b) Explain step by step method of design of concrete mix by IS method. 6
+ae Q4
+a) Explain the test to determine workability of concrete mix with very stiff consistency. 6
+b) Explain Creep, Creep recovery and shrinkage of concrete. 6
+
+Zs
+--- page 2 ---
+Q.5
+
+a) Explain — Ultrasonic Pulse Velocity method for testing of concrete. 6
+
+b) Write a detailed note on Ferro-cement. 6
+Q.6
+
+a) List out various components of a Ready Mixed Concrete Plant. 6
+
+b) Explain the precautions to be taken for concreting in cold weather and hot weather. 6
+Q.7 Write short notes:(Any three) 12
+
+a) Fibre reinforced concrete
+b) Mineral additives for concrete
+c) Effect of impurities in water on concrete
+
+d) Partially impregnated and surface coated polymer concrete
+
+ea OR
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 61b539d7d0b9
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH 14-15,15-16 RE EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
+- Text: ocr (2 pages), mean OCR confidence 91.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) : Year: Il. Semester: IV
+Batch: 2014-2015/2015 - 2016 ~
+
+Academic Year: 2016-2017
+
+Subject: Concrete Technology
+
+®
+Marks: 60 - — BOL
+Date: 11 May 2017 « Time: 10.00 am to 1.00 pm WS
+
+Durations: 3 (hrs)
+No. of Pages: _2—
+Re-Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and on the
+cover of the answer book,which provided for their use.
+
+Note: 1) Question No.1 is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+4) All questions carry equal marks.
+5) Answers to each question to be started on fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1 Write note on following ( Any FOUR ) 12
+a) Self Compacting Concrete 7
+b) Concrete Grades ,
+c) Shape of aggregate
+d) Ordinary Portland Cement 53Grade
+e) Advantages of Ready Mix Concrete
+f) Slump Test
+
+Q.2(a) Explain in detail - Curing of Concrete. 06
+(b) Write note on following. 06
+i) Under water concrete
+
+ii) Rapid Chloride Penetration Test (RCPT)
+
+Q.3 (a) List various supplementary cementing materials used in concrete. Write detail 06
+se note on Ground Granulated Blast Furnace Slag (GGBFS).
+(b) Write note on following. 06
+_ i) , Free W/C Ratio
+
+ii) Permeability of Concrete
+
+i jy
+--- page 2 ---
+Q.4 (a) Explain in detail various components of Ready Mix Concrete Plant. 06
+
+(b) Write note on ; : 06
+
+i) Transit Mixers ii)Target Strength of concrete
+Q.5 (a) Explain in detail various parameters affecting workability of concrete. 06
+(b) Write note on 06
+
+i) Cold Weather Concrete
+
+ii) Various types of Concrete mixers
+
+Q.6 (a) Define - Durability of concrete. Explain in detail Carbonation of concrete. 06
+(b) Write note on following 06
+i) Concrete core test
+
+ii) Super-plasticizers
+
+Q.7 (a) Explain Concrete Mix Design. Explain various steps in design of concrete as per 06
+IS 10262-2009.
+(b) Write notes on following 06
+i) Sieve analysis of aggregates
+
+ii) Shrinkage of concrete
+
+Zh
+````
+
 ## 2016-17 · Re-Exam · Sem 4 · paper 09cb9a922a1b
 
 - Departments: Civil
@@ -3862,136 +4163,6 @@ iii. Application of High density Concrete.
 (4)
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper 0a68e9221bda
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH _2016-17-18-19_RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 18 June 2019
-- Text: ocr (2 pages), mean OCR confidence 91.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech / MBA Tech(Civil) Year: If. Semester: TV
-Academic Year: 2018-2019
-Subject: Concrete Technology Marks: 70
-Date: 18 June 2019 Time: 2.00 pm to 5.00 pm -
-
-Duration: 3 (Hrs)
-
-. _ No. of Pages:__2
-Re- Examination (2016-17 / 2017-18/2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted. o 2
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary. = 4
-8) Use of non-programmable scientific calculator is allowed.
-
-9) Answer must be supported with neat diagrams wherever possible.
-
-Q.1 (a) Explain permeability of concrete. 03
-(b) Explain effect of impurities in water used for concreting. 03
-(c) The concrete mix design is carried out as per Indian Standard Method for M20 = 03
-concrete. The crushing strength test results of three cubes after 28 days of
-curing are 12 N/mm?, 20 N/mm? and 28 N/mm2. Can this result be accepted?
-If not, give specific reasons.
-
-(d) Enlist various special concretes used for repairs and rehabilitation of 3
-structures.
-
-(e) Explain carbonation of concrete. 02
-
-Q.2 (a) Explain ultrasonic pulse velocity test to be carried out on a concrete member. 07
-
-(b) Explain Flexural Test on concrete as carried out in a laboratory. What is the 07
-
-relation between flexural strength and characteristic strength of concrete as per
-IS 456-2000.
-
-Q.3 (a) Differentiate between structural and non-structural repairs. 05
-
-2a
---- page 2 ---
-4
-Q.3 (b) : Design concrete mix using IS code method with the following information :
-
-(i) Grade of concrete — M25, type of structure - RCC
-(ii) Exposure conditions — Moderate; Limiting water cement ratio for
-
-exposure condition : 0.50
-(iii)Grade of cement — 53 Gr
-(iv) Sp. Gravity of cement — 2.96
-(v) Maximum nominal size of aggregates —- 20 mm
-(vi)Sp. Gravity of Coarse aggregates — 2.70
-(vii) Sp. Gravity of Fine aggregates — 2.55
-(viii) Water content for 20 mm maximum nominal size of aggregates —
-
-186 kg/m3
-(ix) Workability requirement in terms of slump value —25 mm
-(x) Surface Moisture content : Coarse aggregates — Nil
-Fine aggregates — 5%
-(xi) Water absorption: Coarse aggregates — 1 %
-Fine aggregates — Nil
-
-(xii) Fine aggregate belongs to Zone I ,
-
-=
-
-Proportion of CA to FA for 20 mm maximum nominal size of aggregates and
-FA of Zone I: 0.60:0.40 *
-Assume any other information if required and state the same clearly.
-
-Q.4 Write short notes on any four:
-1. Curing of Concrete
-2. Under water concreting
-3. Light weight concrete
-4. Mineral admixtures
-5. Grading of aggregates
-
-Q.5(a) Explain in brief various constituents of high performance concrete.
-
-(b) Discuss cold weather concreting. What are the problems associated with it?
-
-How can these problems be overcome?
-
-Q.6 (a) Enlist various types of cement along with their suitability.
-(b) Describe in detail various defects generated because of excessive use of
-admixture with their specific relevance with the admixture used.
-
-Q.7 (a) Explain durability of concrete. Explain the effect of water cement ratio on
-durability of concrete.
-(b) Explain in detail — arrangements for proper storage and batching of materials
-at Ready Mix Concrete plant.
-
-09
-
-14
-
-07
-07
-
-07
-07
-
-07
-
-07
-
-2/2.
-````
-
 ## 2016-17 · Re-Exam · Sem 5 · paper e6c60584dede
 
 - Departments: Civil
@@ -4106,6 +4277,7 @@ Gunniting
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH 2016-2017 RE EXAM.pdf`
 - Printed on paper: exam date: 12 July 2017
 - Text: ocr (2 pages), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4122,7 +4294,6 @@ j eeTUTE DN
 Marks: oe
 Date: 12 July 2017 Time: ae 305; 0@ p
 Durati @é
-No. of : oz x y
 Re-Examination hase WA
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and
@@ -4520,183 +4691,260 @@ and columns can be vibrated using immersion vibrator?
 3)3
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper c71117a8e262
+## 2015-16 · Re-Exam · Sem 4 · paper f36e2bcf9ab4
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 July 2017
-- Text: ocr (2 pages), mean OCR confidence 91.5
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY B TECH (CIVIL), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2016
+- Text: ocr (2 pages), mean OCR confidence 93.4
 
 ````text
+lim
+
+p
+
+J
+
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (CIVIL) Year: II Semester: IV Zz
+Programme: B.Tech (Civil) Year: II Semester: IV
+Academic Year: 2015-16
 
-» Batch: 2014-2015 / 2015-2016 ~ PAT j
-~~
-e
+Batch: 2013-14
 
-; Academic Year: 2016-2017
-Subject: Concrete Technology
-
-Marks: 60 ~~
-Time: 10.00 am!
-Durations:3 (hrs)
-No. of Pages: _O2,
-
-Date: 11 July 2017   V
+Subject: Concrete Technology Marks: 100
+Time: 10.00
+Date: 12/05/2016 Durations: 3 hrs?
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
 
+NB:
 1) Question No. 1 is compulsory.
-
 2) Out of remaining questions, attempt any 4 questions.
-
 3) In all 5 questions to be attempted.
-
 4) All questions carry equal marks.
-
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+7) Assume Suitable data if necessary
+8) Use of nonprogrammable scientific calculator is allowed
 
-Q.1 Attempt any four of the following: 12
+Q1 Attempt any four of the following
 
-a) Explain in detail various grades of concrete and characteristic strength of concrete.
-b) Write a note on ‘Bogue’s Compounds.
+a) Define segregation & bleeding and give reasons for their occurrence. 5
 
-c) Explain volume batching and weigh batching.
+b) Explain volume batching and weigh batching 5
 
-d) State various types of cements and state practical applications of any two of them.
-e) Distinguish between plasticizer and super plasticizer.
+c) Write stages of manufacturing of cement by dry process 5
 
-Q2
-a) State various stages of production of concrete. Explain various methods of transportation of 6
-concrete.
-b) Explain : (i) Sulphate attack (ii) Carbonation 6
+d) Explain flakiness index & elongation index 5
+
+e) Explain half cell potential test 5
+
+Q.2
+
+a) ’ Define workability of concrete. Explain factors affecting workability of concrete. 10
+Describe test to determine workability of concrete (any one test)
+
+b) Define curing of concrete. Explain various methods used for curing of concrete 10
+
 Q.3
-a) Define High Strength Concrete and state its ingredients. Explain at least two methods of 6
-_— producing high strength concrete.
-b) Explain step by step method of design of concrete mix by IS method. 6
-ae Q4
-a) Explain the test to determine workability of concrete mix with very stiff consistency. 6
-b) Explain Creep, Creep recovery and shrinkage of concrete. 6
 
-Zs
+a) Define normal consistency, initial setting time and final setting time of cement. 10
+Describe the test to determine initial and final setting time of cement
+
+b) The results of sieve analysis carried out on a 1 kg sample of fine aggregates are 5
+
+mentioned below :
+
+Sieve size Weight Retained in gm
+4.75mm 143
+
+2.36mm 173
+
+1.18 mm 345
+
+600 micron 234
+
+Yn
 --- page 2 ---
-Q.5
+ng ; -
 
-a) Explain — Ultrasonic Pulse Velocity method for testing of concrete. 6
+b)
 
-b) Write a detailed note on Ferro-cement. 6
-Q.6
+Q7
+(i)
+(ii)
+(iii)
+(iv)
+(v)
 
-a) List out various components of a Ready Mixed Concrete Plant. 6
+» 300 micron 67
+- 150 micron 38
 
-b) Explain the precautions to be taken for concreting in cold weather and hot weather. 6
-Q.7 Write short notes:(Any three) 12
+“Determine fineness modulus of the sample and state if it can be used for
+- concreting.
 
-a) Fibre reinforced concrete
-b) Mineral additives for concrete
-c) Effect of impurities in water on concrete
+Describe test to determine initial and final setting time of concrete
 
-d) Partially impregnated and surface coated polymer concrete
+Define High Strength Concrete.
 
-ea OR
+State its constituents.
+
+Describe various methods of producing high strength concrete
+
+Discuss advantages of high strength concrete over ordinary concrete.
+Discuss advantages of Ready Mix Concrete over conventional concrete
+
+Explain plastic shrinkage, drying shrinkage and the influencing factors
+Explain various types of chemical attacks on concrete
+Write short note on alkali aggregate reaction
+
+Explain in detail various types of mechanical equipment used for compaction of
+concrete. Draw figures wherever necessary.
+Write the step by step procedure of mix design by IS code method
+
+Write short notes (Any four)
+
+Polymer impregnated concrete
+
+Ferro cement
+
+Distress in concrete and its symptoms
+Use of sea water for concreting
+Slump test
+
+FEE
+
+14
+
+10
+
+10
+
+10
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 61b539d7d0b9
+## 2015-16 · Re-Exam · Sem 4 · paper d55ae58ebb9a
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH 14-15,15-16 RE EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
 - Text: ocr (2 pages), mean OCR confidence 91.6
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (CIVIL) : Year: Il. Semester: IV
-Batch: 2014-2015/2015 - 2016 ~
+Programme: B.Tech (Civil) Year: II Semester: [IV
 
-Academic Year: 2016-2017
+Academic Year: 2015-16
+
+Batch: 2014-15
+Marks: 60
+Time: 10.00 am - 1.
+
+Date: 12/05/2016 Durations: 3 hrs.
+Re-Examination
 
 Subject: Concrete Technology
 
-®
-Marks: 60 - — BOL
-Date: 11 May 2017 « Time: 10.00 am to 1.00 pm WS
+= en ly
 
-Durations: 3 (hrs)
-No. of Pages: _2—
-Re-Examination
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and on the
-cover of the answer book,which provided for their use.
+Instructions: Candidate should read carefully the instructions printed on the question paper
+and on the cover of the answer book, which provided for their use.
 
 Note: 1) Question No.1 is compulsory.
 2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
+3) in ali FIVE questions to be attempted.
 4) All questions carry equal marks.
 5) Answers to each question to be started on fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
 
-Q.1 Write note on following ( Any FOUR ) 12
-a) Self Compacting Concrete 7
-b) Concrete Grades ,
+Qi. Write note on following ( Any FOUR ) 12 Marks
+a) Self Compacting Concrete
+b) Concrete Grades
 c) Shape of aggregate
 d) Ordinary Portland Cement 53Grade
 e) Advantages of Ready Mix Concrete
+
 f) Slump Test
+Q2. a) Explain in detail - Curing of Concrete. 6 Marks
+b) Write note on following.
+i) Under water concrete 3 Marks
+ii) Rapid Chloride Penetration Test (RCPT) 3 Marks
+Q3. a) List various supplementary cementing materials used in 6 Marks
 
-Q.2(a) Explain in detail - Curing of Concrete. 06
-(b) Write note on following. 06
-i) Under water concrete
+concrete. Write detail note on Ground Granulated Blast
+Furnace Slag (GGBFS).
 
-ii) Rapid Chloride Penetration Test (RCPT)
+Va
+--- page 2 ---
+Q4.
 
-Q.3 (a) List various supplementary cementing materials used in concrete. Write detail 06
-se note on Ground Granulated Blast Furnace Slag (GGBFS).
-(b) Write note on following. 06
-_ i) , Free W/C Ratio
+Q6
 
+Q7
+
+a ee
+-« bp» Write note on
+
+b) Write note on following.
+i) Free W/C Ratio
 ii) Permeability of Concrete
 
-i jy
---- page 2 ---
-Q.4 (a) Explain in detail various components of Ready Mix Concrete Plant. 06
+a) Explain in detail various components of Ready-Mix Concrete
+- > Plant.
 
-(b) Write note on ; : 06
-
-i) Transit Mixers ii)Target Strength of concrete
-Q.5 (a) Explain in detail various parameters affecting workability of concrete. 06
-(b) Write note on 06
-
+vot) ¢Transit Mixers
+ii) Target Strength of concrete
+a) Explain in detail various parameters affecting workability of
+concrete.
+b) Write note on
 i) Cold Weather Concrete
-
 ii) Various types of Concrete mixers
 
-Q.6 (a) Define - Durability of concrete. Explain in detail Carbonation of concrete. 06
-(b) Write note on following 06
-i) Concrete core test
+a) Define — Durability of concrete. Explain in detail Carbonation
+of concrete.
 
-ii) Super-plasticizers
+b) Write note on following
+i) Concrete core Test
+ii) Superplastisizers
 
-Q.7 (a) Explain Concrete Mix Design. Explain various steps in design of concrete as per 06
-IS 10262-2009.
-(b) Write notes on following 06
+a) What is meant by Concrete Mix Design? Exptain var
+steps in design of concrete as per IS 10262-2009.
+b) Write note on following i
 i) Sieve analysis of aggregates
-
 ii) Shrinkage of concrete
 
-Zh
+3 Marks
+3 Marks
+
+6 Marks
+
+3 Marks
+3 Marks
+
+6 Marks
+
+3 Marks
+
+3 Marks
+
+6 Marks
+
+3 Marks
+3 Marks
+
+6 Marks
+
+6 Marks
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 5f37f178117a
@@ -4989,122 +5237,218 @@ ee OR
 06
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper d55ae58ebb9a
+## 2014-15 · Re-Exam · Sem 4 · paper b11d37a50b85
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
-- Text: ocr (2 pages), mean OCR confidence 91.6
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 13/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.8
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Civil) Year: II Semester: [IV
+Programme: B. Tech (CIVIL) Year: II Semester: IV
+Batch: 2013-14 aT OF
+Academic Year: 2014-2015 (er
+Subject: Concrete Technology £ ie OM PST 7 ;
+Marks: Ov yE RA 5
+Date: 13/05/2015 Time: ae pm ts
 
-Academic Year: 2015-16
-
-Batch: 2014-15
-Marks: 60
-Time: 10.00 am - 1.
-
-Date: 12/05/2016 Durations: 3 hrs.
-Re-Examination
-
-Subject: Concrete Technology
-
-= en ly
+Durations: Cm
 
 Instructions: Candidate should read carefully the instructions printed on the question paper
 and on the cover of the answer book, which provided for their use.
 
+Re-Examination
+
 Note: 1) Question No.1 is compulsory.
 2) Out of remaining questions, attempt any FOUR questions.
-3) in ali FIVE questions to be attempted.
+3) In all FIVE questions to be attempted.
 4) All questions carry equal marks.
 5) Answers to each question to be started on fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
 
-Qi. Write note on following ( Any FOUR ) 12 Marks
-a) Self Compacting Concrete
-b) Concrete Grades
-c) Shape of aggregate
-d) Ordinary Portland Cement 53Grade
-e) Advantages of Ready Mix Concrete
+Q1. Write note on following ( Any FOUR ) : 20 Marks
+a) Slump Test
+b) Bleeding
+c) Advantages of RMC
+d) Flakiness Index
+e) Under water concreting
+f) Portland Slag Cement
 
-f) Slump Test
-Q2. a) Explain in detail - Curing of Concrete. 6 Marks
+Q2. a) List various steps in concrete production. Explain in detail - 10 Marks
+Concrete transportation.
+
 b) Write note on following.
-i) Under water concrete 3 Marks
-ii) Rapid Chloride Penetration Test (RCPT) 3 Marks
-Q3. a) List various supplementary cementing materials used in 6 Marks
 
-concrete. Write detail note on Ground Granulated Blast
-Furnace Slag (GGBFS).
+i) Hydration of Cement 5 Marks
+ii) Plasticisers 5 Marks
+Q3. a) List various supplementary cementing materials used in 10 Marks
 
-Va
+concrete. Write detail note on Fly Ash.
+
+1/2.
+--- page 2 ---
+———--7—
+
+~b) Write note on following. —
+i) Free WIC Ratio
+
+ii) Flexural Strength 5 Marks
+5 Marks
+Q4. a) List components of Ready Mix Concrete Plant. Explain in 10 marks
+detail arrangements made for proper batching of various
+materials at RMC Plant.
+b) Write note on 5 marks
+i) Transit Mixers 5 marks
+ii) Creep of concrete
+Qs a) Explain in detail various parameters affecting strength of 10 marks
+concrete.
+b) Write note on
+i) Hot Weather Concrete 5 marks
+ii) Fibre Reinforced Concrete 5 Marks
+Qé6 a) Define — Durability of concrete. Explain in detail various 10 Marks
+parameters affecting durability of concrete.
+b) Write note on following
+i) Aggregate Impact Value 5 Marks
+ii) Core Test . 5 Marks
+Q7 a) What is meant by Concrete Mix Design? Explain various 10 Marks
+steps in design of concrete as per IS.
+b) List various Non Destructive Testing (NDT) methods. Explain 410 Marks
+
+in detail — UPV Test.
+
+2 fa.
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 128516a0a2c8
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY B TECH (CIVIL), BATCH 2013-14 RE EXAM_128516a0a2.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/07/2015
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: II Semester: IV
+Batch: 2013-14
+
+Academic Year: 2014-2015
+
+Subject: Concrete Technology e
+Marks: 100 “Re,
+Date: 02/07/2015 Time: ; 2,00 pm to'5.00 pat.
+Durations: || 3 (hrs)... ¥ Ja
+
+Re-Examination
+Ae-Examination
+
+Instructions: Candidate should read carefull
+
+y the instructions printed on the question paper
+and on the cover of the an$wer book, which
+
+provided for their use.
+
+Note: 1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answers to each question to be started on fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1. Write note on following (Any FOUR )
+a) Self Compacting Concrete
+b) Flexural Strength
+
+c) Flakiness Index of aggregates
+d) Vicat Apparatus
+e) Advantages of Ready Mix Concrete
+f) Flow Test
+Q2. a) Explain in detail - Curing of Concrete.
+b) Write note on foiiowing.
+i) Hot weather concrete 5 Marks
+ii) Rapid Chloride Penetration Test (RCPT) 5 Marks
+
+20 Marks
+
+10 Marks
+
+Q3. a) List various supplementary cementing materials used in 10 Marks
+
+concrete. Write detail note on Fly Ash in concrete.
+
+4/2
 --- page 2 ---
 Q4.
+
+Q5
 
 Q6
 
 Q7
 
-a ee
--« bp» Write note on
-
 b) Write note on following.
-i) Free W/C Ratio
-ii) Permeability of Concrete
+i) Free WIC Ratio
+ii) Distress in concrete structure
 
-a) Explain in detail various components of Ready-Mix Concrete
-- > Plant.
+a) Explain in detail various components of Ready Mix Concrete
+Plant.
 
-vot) ¢Transit Mixers
-ii) Target Strength of concrete
-a) Explain in detail various parameters affecting workability of
+b) Write note on
+i) Transit Mixers
+ii) Plastic Shrinkage of concrete
+a) Explain in detail various parameters affecting strength of
 concrete.
 b) Write note on
-i) Cold Weather Concrete
-ii) Various types of Concrete mixers
+i) Under water Concrete
+ii) Transportation of concrete
 
 a) Define — Durability of concrete. Explain in detail Carbonation
-of concrete.
+of concrete. :
 
 b) Write note on following
-i) Concrete core Test
+i) Ferrocement
 ii) Superplastisizers
+a) What is meant by Concrete Mix Design? Explain various
+steps in design of concrete as per 1S 10262-2009.
+b) Write note on following :
+i) Non destructive testing of concrete
+ii) Creep of concrete
 
-a) What is meant by Concrete Mix Design? Exptain var
-steps in design of concrete as per IS 10262-2009.
-b) Write note on following i
-i) Sieve analysis of aggregates
-ii) Shrinkage of concrete
+5 Marks
+5 Marks
 
-3 Marks
-3 Marks
+10 Marks
 
-6 Marks
+5 Marks
+5 Marks
 
-3 Marks
-3 Marks
+10 Marks
 
-6 Marks
+5 Marks
 
-3 Marks
+5 Marks
 
-3 Marks
+10 Marks
 
-6 Marks
+5 Marks
+5 Marks
 
-3 Marks
-3 Marks
+10 Marks
 
-6 Marks
-
-6 Marks
+10 Marks
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper a8dc9154b941
@@ -5114,6 +5458,7 @@ ii) Shrinkage of concrete
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
 - Printed on paper: exam date: 02/07/2015
 - Text: ocr (2 pages), mean OCR confidence 77.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5180,7 +5525,6 @@ W/C ratio for durability requirement= 0.45.
 Air Content 1%
 Specific Gravity of Cement=.3.15
 Specifie gravity of CA.=2.9
-| Specific eravily of F.A= 2.7 Acssume 2 stehe if aie! ccna
 
 Aakn is een re,
 
@@ -5199,6 +5543,94 @@ b). Explain non-.destructive Testing qDn - _ 3 |
 Le) Discuss causes of corrosion: — ms ; . 3
 dy What is shortcreting? Explain dry n mix process of shortcreting. 3
 ) | Explain ‘Tremie Method’ of underwater concreting : S|
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper fee16a1ed7f0
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 15/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Civil) Year: II Semester: IV
+Batch: 2013-14
+
+Academic Year: 2014-2015
+
+Subject: Concrete Technology f’.
+
+Marks? & /
+Date: 15/05/2015 Timed! &
+
+Durations:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining question, attempt any 4 questions.
+
+3. Inall 5 questions to attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+ee
+
+Q.1) | Attempt any four. 20
+a) Define following terms 05
+i) Bleeding ii) Segregation
+
+b) List out types of cement. 05
+c) Explain water cement ratio. 05
+d) Write short note on Hydration of cement. 05
+e) Explain stages of manufacturing of the concrete in brief. 05
+Q.2) | Solve 20
+a) Describe RMC plant with neat sketch. 10
+b) Explain step by step procedure of mix design as per LS. 10
+Q.3) [Solve ; 20 |
+a) Write short note on Hammer test. 10
+
+b) Explain sulphate resisting cement and rapid hardening Portland cement with uses. 10
+--- page 2 ---
+Q.4) | Solve 20
+
+a) Explain classification of aggregate on basis of Origin, Size, Shape and Unit weight. 10
+b) What are the various types of admixtures in concrete? Explain any two in detail. 10
+Q.5) | Solve 20
+a) What do you mean by workability of concrete? State the factors affecting | 10
+workability.
+b) Explain High performance concrete. 10
+Q.6) | Solve 20
+a) Write short note on Under water concreting with neat sketch. 10
+
+b) Explain briefly various types of polymer concrete with their application in civil] 10
+
+engineering.
+Q.7) | Write short noteson. (Any four) ‘ (20)
+a) Cold weather concreting. 05
+b) Grading of Fine aggregate 05
+c) Durability of Concrete 05
+d) Action of Plasticisers on concrete. 05
+e) Ferro-cement 05
+
+a’
+
+=
+
+a gQenent
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 0a5d1c6096e3
@@ -5296,6 +5728,131 @@ c) Shrinkage in concrete.
 d) Shotcrete.
 
 e) Acceptance criteria of concrete.
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 5d6b0e95ebf2
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/CONCRETE TECHNOLOGY/Concrete Technology Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03/07/2015
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CIVIL) Year: II Semester: IV
+Academic Year: 2014-15 at =
+oN
+Batch: 2013-14 - -
+eid a} = *
+Subject : Concrete Technology Marks: 100 iN i)
+Time : 10.00 am'@iso0 pm
+Date : 03/07/2015 Durations: 3 (hrs) Xf 4aig-juiene™
+Re-Examination = .
+
+Instructions: Candidate should read carefully the instructions printed on the question paper
+and on the cover of the answer book, which provided for their use.
+
+Note: 1) Question No.1 is campulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+4) All questions carry equal marks.
+5) Answers to each question to be started on fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1. Write note on following (Any FOUR) 20 Marks
+a) Cold weather Concrete
+b) Sieve Analysis
+c) Various types of concrete mixers
+d) Target Mean Strength
+€) 43 Grade Ordinary Portland Cement
+f) Carbonation of concrete
+Q2. a) Define — workability of concrete. List various tests to 10 Marks
+determine workability. Explain in detail — Slump Test.
+b) Write note on following.
+
+i) Segregation of concrete 5 Marks
+
+ii) Transit Mixer “ 5 Marks
+
+Q3. a) Explain influence of aggregate properties on concrete 10 Marks
+quality.
+
+b) Explain importance of compaction and various methods of 40 Marks
+
+compaction of concrete.
+Q4 a) Explain in detail procedure for sampling and testing of 10 marks
+
+,
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+b)
+
+a)
+
+b)
+
+b)
+
+a)
+
+hj
+
+concrete to determine its Compressive Strength.
+
+Write note on following
+
+i) Light weight concrete
+
+ii) Ultrasonic Pulse Velocity Test
+
+Define — Durability of Concrete. Explain various factors
+affecting durability of concrete.
+
+Write note on following
+
+i) Half Cell Potentiometer Test
+
+ii) Concrete Core Test
+
+Draw typical layout of a Ready Mix Concrete and explain
+arrangements for storage and batching of materials.
+
+Write note on following
+
+i) Advantages of Ready Mix Concrete
+
+ii) Use of Fly Ash in concrete
+
+List various chemical admixtures used in concrete. Explain
+in detail Retarding admixtures in concrete.
+
+Explain various steps in design of concrete mixes with IS
+Method (IS 10262-2009).
+
+5 marks
+5 marks
+
+10 Marks
+
+5 Marks
+5 Marks
+
+10 Marks
+
+10 Marks
+
+10 Marks
+
+10 Marks
 ````
 
 ## 2013-14 · Final-Exam · Sem 4 · paper d03e8491b214
@@ -5626,358 +6183,6 @@ e) Air entraining admixture. 5
 QI12
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper f36e2bcf9ab4
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY B TECH (CIVIL), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2016
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-lim
-
-p
-
-J
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Civil) Year: II Semester: IV
-Academic Year: 2015-16
-
-Batch: 2013-14
-
-Subject: Concrete Technology Marks: 100
-Time: 10.00
-Date: 12/05/2016 Durations: 3 hrs?
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-8) Use of nonprogrammable scientific calculator is allowed
-
-Q1 Attempt any four of the following
-
-a) Define segregation & bleeding and give reasons for their occurrence. 5
-
-b) Explain volume batching and weigh batching 5
-
-c) Write stages of manufacturing of cement by dry process 5
-
-d) Explain flakiness index & elongation index 5
-
-e) Explain half cell potential test 5
-
-Q.2
-
-a) ’ Define workability of concrete. Explain factors affecting workability of concrete. 10
-Describe test to determine workability of concrete (any one test)
-
-b) Define curing of concrete. Explain various methods used for curing of concrete 10
-
-Q.3
-
-a) Define normal consistency, initial setting time and final setting time of cement. 10
-Describe the test to determine initial and final setting time of cement
-
-b) The results of sieve analysis carried out on a 1 kg sample of fine aggregates are 5
-
-mentioned below :
-
-Sieve size Weight Retained in gm
-4.75mm 143
-
-2.36mm 173
-
-1.18 mm 345
-
-600 micron 234
-
-Yn
---- page 2 ---
-ng ; -
-
-b)
-
-Q7
-(i)
-(ii)
-(iii)
-(iv)
-(v)
-
-» 300 micron 67
-- 150 micron 38
-
-“Determine fineness modulus of the sample and state if it can be used for
-- concreting.
-
-Describe test to determine initial and final setting time of concrete
-
-Define High Strength Concrete.
-
-State its constituents.
-
-Describe various methods of producing high strength concrete
-
-Discuss advantages of high strength concrete over ordinary concrete.
-Discuss advantages of Ready Mix Concrete over conventional concrete
-
-Explain plastic shrinkage, drying shrinkage and the influencing factors
-Explain various types of chemical attacks on concrete
-Write short note on alkali aggregate reaction
-
-Explain in detail various types of mechanical equipment used for compaction of
-concrete. Draw figures wherever necessary.
-Write the step by step procedure of mix design by IS code method
-
-Write short notes (Any four)
-
-Polymer impregnated concrete
-
-Ferro cement
-
-Distress in concrete and its symptoms
-Use of sea water for concreting
-Slump test
-
-FEE
-
-14
-
-10
-
-10
-
-10
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper b11d37a50b85
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 13/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: IV
-Batch: 2013-14 aT OF
-Academic Year: 2014-2015 (er
-Subject: Concrete Technology £ ie OM PST 7 ;
-Marks: Ov yE RA 5
-Date: 13/05/2015 Time: ae pm ts
-
-Durations: Cm
-
-Instructions: Candidate should read carefully the instructions printed on the question paper
-and on the cover of the answer book, which provided for their use.
-
-Re-Examination
-
-Note: 1) Question No.1 is compulsory.
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-4) All questions carry equal marks.
-5) Answers to each question to be started on fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1. Write note on following ( Any FOUR ) : 20 Marks
-a) Slump Test
-b) Bleeding
-c) Advantages of RMC
-d) Flakiness Index
-e) Under water concreting
-f) Portland Slag Cement
-
-Q2. a) List various steps in concrete production. Explain in detail - 10 Marks
-Concrete transportation.
-
-b) Write note on following.
-
-i) Hydration of Cement 5 Marks
-ii) Plasticisers 5 Marks
-Q3. a) List various supplementary cementing materials used in 10 Marks
-
-concrete. Write detail note on Fly Ash.
-
-1/2.
---- page 2 ---
-———--7—
-
-~b) Write note on following. —
-i) Free WIC Ratio
-
-ii) Flexural Strength 5 Marks
-5 Marks
-Q4. a) List components of Ready Mix Concrete Plant. Explain in 10 marks
-detail arrangements made for proper batching of various
-materials at RMC Plant.
-b) Write note on 5 marks
-i) Transit Mixers 5 marks
-ii) Creep of concrete
-Qs a) Explain in detail various parameters affecting strength of 10 marks
-concrete.
-b) Write note on
-i) Hot Weather Concrete 5 marks
-ii) Fibre Reinforced Concrete 5 Marks
-Qé6 a) Define — Durability of concrete. Explain in detail various 10 Marks
-parameters affecting durability of concrete.
-b) Write note on following
-i) Aggregate Impact Value 5 Marks
-ii) Core Test . 5 Marks
-Q7 a) What is meant by Concrete Mix Design? Explain various 10 Marks
-steps in design of concrete as per IS.
-b) List various Non Destructive Testing (NDT) methods. Explain 410 Marks
-
-in detail — UPV Test.
-
-2 fa.
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 128516a0a2c8
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY B TECH (CIVIL), BATCH 2013-14 RE EXAM_128516a0a2.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/07/2015
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: IV
-Batch: 2013-14
-
-Academic Year: 2014-2015
-
-Subject: Concrete Technology e
-Marks: 100 “Re,
-Date: 02/07/2015 Time: ; 2,00 pm to'5.00 pat.
-Durations: || 3 (hrs)... ¥ Ja
-
-Re-Examination
-Ae-Examination
-
-Instructions: Candidate should read carefull
-
-y the instructions printed on the question paper
-and on the cover of the an$wer book, which
-
-provided for their use.
-
-Note: 1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answers to each question to be started on fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1. Write note on following (Any FOUR )
-a) Self Compacting Concrete
-b) Flexural Strength
-
-c) Flakiness Index of aggregates
-d) Vicat Apparatus
-e) Advantages of Ready Mix Concrete
-f) Flow Test
-Q2. a) Explain in detail - Curing of Concrete.
-b) Write note on foiiowing.
-i) Hot weather concrete 5 Marks
-ii) Rapid Chloride Penetration Test (RCPT) 5 Marks
-
-20 Marks
-
-10 Marks
-
-Q3. a) List various supplementary cementing materials used in 10 Marks
-
-concrete. Write detail note on Fly Ash in concrete.
-
-4/2
---- page 2 ---
-Q4.
-
-Q5
-
-Q6
-
-Q7
-
-b) Write note on following.
-i) Free WIC Ratio
-ii) Distress in concrete structure
-
-a) Explain in detail various components of Ready Mix Concrete
-Plant.
-
-b) Write note on
-i) Transit Mixers
-ii) Plastic Shrinkage of concrete
-a) Explain in detail various parameters affecting strength of
-concrete.
-b) Write note on
-i) Under water Concrete
-ii) Transportation of concrete
-
-a) Define — Durability of concrete. Explain in detail Carbonation
-of concrete. :
-
-b) Write note on following
-i) Ferrocement
-ii) Superplastisizers
-a) What is meant by Concrete Mix Design? Explain various
-steps in design of concrete as per 1S 10262-2009.
-b) Write note on following :
-i) Non destructive testing of concrete
-ii) Creep of concrete
-
-5 Marks
-5 Marks
-
-10 Marks
-
-5 Marks
-5 Marks
-
-10 Marks
-
-5 Marks
-
-5 Marks
-
-10 Marks
-
-5 Marks
-5 Marks
-
-10 Marks
-
-10 Marks
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 360f019afbb3
 
 - Departments: Civil
@@ -6233,217 +6438,79 @@ in detail - HammerTest.
 a2.
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper fee16a1ed7f0
+## 2013-14 · Re-Exam · Trim 7 · paper 68cd6f88b1a2
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 15/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/TRIM VII/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
+- Text: ocr (2 pages), mean OCR confidence 92.4
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS = J
 
-Programme: MBA Tech (Civil) Year: II Semester: IV
-Batch: 2013-14
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &. ENGINEERING
+Programme:MBA Tech (CIVIL) Year: III Trimester: VII
+Academic Year: 2013-14 Batch:2012-13
 
-Academic Year: 2014-2015
-
-Subject: Concrete Technology f’.
-
-Marks? & /
-Date: 15/05/2015 Timed! &
-
-Durations:
-
+Subject : Concrete Technology
+Marks: 100
+Date :10/12/2013 Time : 10.00 am to 1.00 pm
+Durations:3 (hrs)
 Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining question, attempt any 4 questions.
-
-3. Inall 5 questions to attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-ee
-
-Q.1) | Attempt any four. 20
-a) Define following terms 05
-i) Bleeding ii) Segregation
-
-b) List out types of cement. 05
-c) Explain water cement ratio. 05
-d) Write short note on Hydration of cement. 05
-e) Explain stages of manufacturing of the concrete in brief. 05
-Q.2) | Solve 20
-a) Describe RMC plant with neat sketch. 10
-b) Explain step by step procedure of mix design as per LS. 10
-Q.3) [Solve ; 20 |
-a) Write short note on Hammer test. 10
-
-b) Explain sulphate resisting cement and rapid hardening Portland cement with uses. 10
---- page 2 ---
-Q.4) | Solve 20
-
-a) Explain classification of aggregate on basis of Origin, Size, Shape and Unit weight. 10
-b) What are the various types of admixtures in concrete? Explain any two in detail. 10
-Q.5) | Solve 20
-a) What do you mean by workability of concrete? State the factors affecting | 10
-workability.
-b) Explain High performance concrete. 10
-Q.6) | Solve 20
-a) Write short note on Under water concreting with neat sketch. 10
-
-b) Explain briefly various types of polymer concrete with their application in civil] 10
-
-engineering.
-Q.7) | Write short noteson. (Any four) ‘ (20)
-a) Cold weather concreting. 05
-b) Grading of Fine aggregate 05
-c) Durability of Concrete 05
-d) Action of Plasticisers on concrete. 05
-e) Ferro-cement 05
-
-a’
-
-=
-
-a gQenent
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 5d6b0e95ebf2
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/CONCRETE TECHNOLOGY/Concrete Technology Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03/07/2015
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL) Year: II Semester: IV
-Academic Year: 2014-15 at =
-oN
-Batch: 2013-14 - -
-eid a} = *
-Subject : Concrete Technology Marks: 100 iN i)
-Time : 10.00 am'@iso0 pm
-Date : 03/07/2015 Durations: 3 (hrs) Xf 4aig-juiene™
-Re-Examination = .
 
 Instructions: Candidate should read carefully the instructions printed on the question paper
 and on the cover of the answer book, which provided for their use.
+Note: 1) Question No.1 is compulsory.
 
-Note: 1) Question No.1 is campulsory.
 2) Out of remaining questions, attempt any FOUR questions.
+
 3) In all FIVE questions to be attempted.
+
 4) All questions carry equal marks.
+
 5) Answers to each question to be started on fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
 
-Q1. Write note on following (Any FOUR) 20 Marks
-a) Cold weather Concrete
-b) Sieve Analysis
-c) Various types of concrete mixers
-d) Target Mean Strength
-€) 43 Grade Ordinary Portland Cement
-f) Carbonation of concrete
+Qi. Write note on following (Any FOUR ) 20 Marks
+a) Hot weather Concrete
+b) Batching of materials for concrete
+c) Compaction of concrete
+d) Free W/C Ratio
+e) Vicat Apparatus
+f) Self Compacting Concrete
+
 Q2. a) Define — workability of concrete. List various tests to 10 Marks
-determine workability. Explain in detail — Slump Test.
-b) Write note on following.
-
-i) Segregation of concrete 5 Marks
-
-ii) Transit Mixer “ 5 Marks
-
+determine workability. Explain in detail - Compaction
+Factor Test.
+b) Write note on following. 5 Marks
+i) Segregation 5 Marks
+ii) Target Strength
 Q3. a) Explain influence of aggregate properties on concrete 10 Marks
 quality.
+b) Explain importance of Curing and various methods of 40 Marks
+curing. :
 
-b) Explain importance of compaction and various methods of 40 Marks
-
-compaction of concrete.
-Q4 a) Explain in detail procedure for sampling and testing of 10 marks
-
-,
+4/2
 --- page 2 ---
-Q5
-
-Q6
-
-Q7
-
-b)
-
-a)
-
-b)
-
-b)
-
-a)
-
-hj
-
+Q4 a) Explain in detail procedure for sampling and testing of 10 marks
 concrete to determine its Compressive Strength.
+b) Write note on following
+i) Shrinkage of concrete 5 marks
+ii) Flexural Strength 5 marks
+Gs a) Define — Durability of Concrete. Explain Rapid Chloride 10 Marks
+. Penetration Test (RCPT).
+b) Write note on following
+i) Carbonation of Concrete 5 Marks
+ii) Sulphate Attack 5 Marks
+Qé a) List various mineral admixtures used in concrete. Explain 10 Marks
+role of chemical admixtures in concrete. _ /
+b) Explain design of concrete mixes with IS Method 410 Marks
 
-Write note on following
+(IS 10262-2009).
 
-i) Light weight concrete
-
-ii) Ultrasonic Pulse Velocity Test
-
-Define — Durability of Concrete. Explain various factors
-affecting durability of concrete.
-
-Write note on following
-
-i) Half Cell Potentiometer Test
-
-ii) Concrete Core Test
-
-Draw typical layout of a Ready Mix Concrete and explain
-arrangements for storage and batching of materials.
-
-Write note on following
-
-i) Advantages of Ready Mix Concrete
-
-ii) Use of Fly Ash in concrete
-
-List various chemical admixtures used in concrete. Explain
-in detail Retarding admixtures in concrete.
-
-Explain various steps in design of concrete mixes with IS
-Method (IS 10262-2009).
-
-5 marks
-5 marks
-
-10 Marks
-
-5 Marks
-5 Marks
-
-10 Marks
-
-10 Marks
-
-10 Marks
-
-10 Marks
+2/2.
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper 1830a5ea1f61
@@ -6521,136 +6588,7 @@ e) Air entraining admixture. 5
 We,
 ````
 
-## 2012-13 · Re-Exam · Trim 7 · paper 68cd6f88b1a2
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/TRIM VII/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-SVKM’s NMIMS = J
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &. ENGINEERING
-Programme:MBA Tech (CIVIL) Year: III Trimester: VII
-Academic Year: 2013-14 Batch:2012-13
-
-Subject : Concrete Technology
-Marks: 100
-Date :10/12/2013 Time : 10.00 am to 1.00 pm
-Durations:3 (hrs)
-Re-Examination
-
-Instructions: Candidate should read carefully the instructions printed on the question paper
-and on the cover of the answer book, which provided for their use.
-Note: 1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answers to each question to be started on fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Qi. Write note on following (Any FOUR ) 20 Marks
-a) Hot weather Concrete
-b) Batching of materials for concrete
-c) Compaction of concrete
-d) Free W/C Ratio
-e) Vicat Apparatus
-f) Self Compacting Concrete
-
-Q2. a) Define — workability of concrete. List various tests to 10 Marks
-determine workability. Explain in detail - Compaction
-Factor Test.
-b) Write note on following. 5 Marks
-i) Segregation 5 Marks
-ii) Target Strength
-Q3. a) Explain influence of aggregate properties on concrete 10 Marks
-quality.
-b) Explain importance of Curing and various methods of 40 Marks
-curing. :
-
-4/2
---- page 2 ---
-Q4 a) Explain in detail procedure for sampling and testing of 10 marks
-concrete to determine its Compressive Strength.
-b) Write note on following
-i) Shrinkage of concrete 5 marks
-ii) Flexural Strength 5 marks
-Gs a) Define — Durability of Concrete. Explain Rapid Chloride 10 Marks
-. Penetration Test (RCPT).
-b) Write note on following
-i) Carbonation of Concrete 5 Marks
-ii) Sulphate Attack 5 Marks
-Qé a) List various mineral admixtures used in concrete. Explain 10 Marks
-role of chemical admixtures in concrete. _ /
-b) Explain design of concrete mixes with IS Method 410 Marks
-
-(IS 10262-2009).
-
-2/2.
-````
-
-## 2012-13 · Re-Exam · Trim 7 · paper a52ae0bc35fd
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/TRIM VII/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY VIII (CIVIL) MBA TECH 2012-2013 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: text (2 pages)
-
-````text
-SVKM's NlVZIMS
-Programme: MBA Tech - CIVIL.
-Academic Year :2012-2013
-Batch:   2012-2013   v
-Subject:   , Concrete.Technology ,   Marks:   100 ,.
-., ..   Time:   10.00 am To 1.00 pm
-Date:   , . 11/6/2013.   Duration: 3 hrs.
-Re - Examination
-~nstructiohs: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-1. Question No. 1is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. In all 5 questions to attempted.   -..
-4. All questions carry equal marks.   7   .
-5. Answer to each new question to be started on a fiesh page.
-6. Figures in brackets on the right hand side indicate full marks.
-Q.1)
-a) Explain Normal Consistency, Initial and Final Setting Time.
-b) Mention different properties of cement with brief explanation.
-a) Explain workability and what are different factors affect on workability of concrete?
-b)What are different stages in manufacturing of concrete? ~ x p in k detail.
-Q.3)
-a) Explain the effect of super plasticizer on concrete property in fresh state.
-b) Write anote on "Self Compacting Concrete".
---- page 2 ---
-a) Draw a flow diagram of concrete manufacturing process in ready mix concrete plant with
-suitable explanation.
-b) Explain high performance concrete and its application in civil engineering field.
-Q.5)   (20)
-a) What are different test on concrete? Explain any twotests in detail.
-b) Explain various causes affect on durability of concrete.
-Q.6)
-a) Explain plasticizers, accelerators and retarders.
-b)Explain underwater concreting with suitable sketch.
-4.7) Write note on any four
-a) Tensile and flexural strength.
-b) Mix Design by DOE method.
-c) Light weight concrete.
-d) Creep in concrete.
-I
-e) Mineral admixtures.
-f ) Concreting in extreme weather condition.
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper 4273b88284c8
+## 2012-13 · Exam not stated · Trim 7 · paper 4273b88284c8
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -6747,4 +6685,58 @@ Standard Deviation — 5 N/mm2
 
 a
 Mest
+````
+
+## 2012-13 · Re-Exam · Trim 7 · paper a52ae0bc35fd
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/TRIM VII/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY VIII (CIVIL) MBA TECH 2012-2013 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: text (2 pages)
+
+````text
+SVKM's NlVZIMS
+Programme: MBA Tech - CIVIL.
+Academic Year :2012-2013
+Batch:   2012-2013   v
+Subject:   , Concrete.Technology ,   Marks:   100 ,.
+., ..   Time:   10.00 am To 1.00 pm
+Date:   , . 11/6/2013.   Duration: 3 hrs.
+Re - Examination
+~nstructiohs: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+1. Question No. 1is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. In all 5 questions to attempted.   -..
+4. All questions carry equal marks.   7   .
+5. Answer to each new question to be started on a fiesh page.
+6. Figures in brackets on the right hand side indicate full marks.
+Q.1)
+a) Explain Normal Consistency, Initial and Final Setting Time.
+b) Mention different properties of cement with brief explanation.
+a) Explain workability and what are different factors affect on workability of concrete?
+b)What are different stages in manufacturing of concrete? ~ x p in k detail.
+Q.3)
+a) Explain the effect of super plasticizer on concrete property in fresh state.
+b) Write anote on "Self Compacting Concrete".
+--- page 2 ---
+a) Draw a flow diagram of concrete manufacturing process in ready mix concrete plant with
+suitable explanation.
+b) Explain high performance concrete and its application in civil engineering field.
+Q.5)   (20)
+a) What are different test on concrete? Explain any twotests in detail.
+b) Explain various causes affect on durability of concrete.
+Q.6)
+a) Explain plasticizers, accelerators and retarders.
+b)Explain underwater concreting with suitable sketch.
+4.7) Write note on any four
+a) Tensile and flexural strength.
+b) Mix Design by DOE method.
+c) Light weight concrete.
+d) Creep in concrete.
+I
+e) Mineral admixtures.
+f ) Concreting in extreme weather condition.
 ````

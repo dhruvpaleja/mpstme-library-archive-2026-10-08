@@ -4,6 +4,118 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2019-20 · Final + Re-Exam · Sem 7 · paper 19835be31599
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/INTRODUCTION TO AUTOMATION/INTRODUCTION_TO_AUTOMATION_B TECH (EXTC), FINAL_EXAM_1920_RE_EXAM_18-19_.pdf`
+- Printed on paper: max marks: 70; exam date: 11 November 2019
+- Text: ocr (2 pages), mean OCR confidence 87.9
+
+````text
+ee
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ B.Tech Integrated (EXTC) Year: IV/ V Semester: VII/ Ix
+
+Academic Year: 2019-20
+Subject: Introduction to Automation
+
+; Marks: 70>
+Date: 11 November 2019 Time: 2.
+c Duration
+No. of Page
+Final Examination B. Tech. / B. Tech. Integrated (2019-20)/ Re 5.
+4 “ (2018-19) ”
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book; which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3) In all _5_ questions to be attempted.
+
+_ 4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+Q. No. Marks
+Q. 1) Attempt any 4 of the following;
+
+A. What are different methods of-Direction Control Valve (DCV) actuation, draw ISO 3.5
+
+symbol? .
+B. Enlist types of Automation used in production system and explain any one in details. 3.5
+C. Explain Input, Output modules in Programmable Logic Controller. - 3.5
+D. Give importance of heat dissipation in fluid power system. 3.5
+E. Explain Hydraulic power pack using neat sketch. 35
+F. Z transform theory in control system. 3.5
+Q. 2)
+A. Classify Hydraulic pumps & give selection criteria. 7
+B. What is PID controller? How PID controller is tuned? 7
+
+I/2
+--- page 2 ---
+Q. 3)
+
+A. Explain construction and working of inductive sensor & give their application. 7
+B. Design a Electro-pneumatics circuit for sequence B2+B4+B1-B3- : 7
+21 22
+B1 B2 B3 B4 Actuator
+i 1 I \ Ee
+i at A q rai = A Position for
+
+. T te | 1 J Reference
+Q. 4)
+
+A. Draw and explain meter out circuit, restrict fluid flow to 13.6 LPM. 7
+
+B. Classify Pressure Control Valve and give its role in Hydraulic & Pneumatic system 7
+Q. 5)
+
+A. Explain basic elements of automated system using block diagram. 7
+
+B. Explain things to consider while selecting sensor for industrial applications. 7
+Q.6)
+
+A. A feeder drops material on the 7
+
+conveyor which sends material
+
+Feeder
+
+for further process through one
+more conveyor. Conveyor must joes
+start automatically, | when
+material is dropped on it.
+
+Implement automation of this in
+
+PLC using Ladder Diagram
+
+Coad cella Motor2
+
+programming language
+
+B. What do you know by “FRL unit” in Pneumatics & give importance of lubrication in 7
+
+pneumatic system
+
+| Q.7) Attempt any 2 of the following;
+
+ee A. What are the different types of industrial Robots, give their applications. 7
+B. Explain Programmable logic controller using block diagram & give its applications. 7
+C. Explain Direct & Indirect control in Electro-pneumatics using one example. 7
+
+&
+
+ai
+````
+
 ## 2019-20 · Final-Exam · Sem 7 · paper 35bfa7c48c1f
 
 - Departments: Electronics and Telecommunication
@@ -119,118 +231,6 @@ C. Explain Direct & Indirect control in Electro-pneumatics using one example.
 |
 ````
 
-## 2018-19 · Final + Re-Exam · Sem 7 · paper 19835be31599
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/INTRODUCTION TO AUTOMATION/INTRODUCTION_TO_AUTOMATION_B TECH (EXTC), FINAL_EXAM_1920_RE_EXAM_18-19_.pdf`
-- Printed on paper: max marks: 70; exam date: 11 November 2019
-- Text: ocr (2 pages), mean OCR confidence 87.9
-
-````text
-ee
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech/ B.Tech Integrated (EXTC) Year: IV/ V Semester: VII/ Ix
-
-Academic Year: 2019-20
-Subject: Introduction to Automation
-
-; Marks: 70>
-Date: 11 November 2019 Time: 2.
-c Duration
-No. of Page
-Final Examination B. Tech. / B. Tech. Integrated (2019-20)/ Re 5.
-4 “ (2018-19) ”
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book; which is provided for their use.
-
-1) Question No. _1_ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-3) In all _5_ questions to be attempted.
-
-_ 4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -suitable data if necessary.
-
-Q. No. Marks
-Q. 1) Attempt any 4 of the following;
-
-A. What are different methods of-Direction Control Valve (DCV) actuation, draw ISO 3.5
-
-symbol? .
-B. Enlist types of Automation used in production system and explain any one in details. 3.5
-C. Explain Input, Output modules in Programmable Logic Controller. - 3.5
-D. Give importance of heat dissipation in fluid power system. 3.5
-E. Explain Hydraulic power pack using neat sketch. 35
-F. Z transform theory in control system. 3.5
-Q. 2)
-A. Classify Hydraulic pumps & give selection criteria. 7
-B. What is PID controller? How PID controller is tuned? 7
-
-I/2
---- page 2 ---
-Q. 3)
-
-A. Explain construction and working of inductive sensor & give their application. 7
-B. Design a Electro-pneumatics circuit for sequence B2+B4+B1-B3- : 7
-21 22
-B1 B2 B3 B4 Actuator
-i 1 I \ Ee
-i at A q rai = A Position for
-
-. T te | 1 J Reference
-Q. 4)
-
-A. Draw and explain meter out circuit, restrict fluid flow to 13.6 LPM. 7
-
-B. Classify Pressure Control Valve and give its role in Hydraulic & Pneumatic system 7
-Q. 5)
-
-A. Explain basic elements of automated system using block diagram. 7
-
-B. Explain things to consider while selecting sensor for industrial applications. 7
-Q.6)
-
-A. A feeder drops material on the 7
-
-conveyor which sends material
-
-Feeder
-
-for further process through one
-more conveyor. Conveyor must joes
-start automatically, | when
-material is dropped on it.
-
-Implement automation of this in
-
-PLC using Ladder Diagram
-
-Coad cella Motor2
-
-programming language
-
-B. What do you know by “FRL unit” in Pneumatics & give importance of lubrication in 7
-
-pneumatic system
-
-| Q.7) Attempt any 2 of the following;
-
-ee A. What are the different types of industrial Robots, give their applications. 7
-B. Explain Programmable logic controller using block diagram & give its applications. 7
-C. Explain Direct & Indirect control in Electro-pneumatics using one example. 7
-
-&
-
-ai
-````
-
 ## 2018-19 · Final-Exam · Sem 7 · paper d9d08f2a96ba
 
 - Departments: Electronics and Telecommunication
@@ -238,6 +238,7 @@ ai
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/INTRODUCTION TO AUTOMATION/INTRODUCTOIN_TO_AUTOMATION_B TECH (EXTC), FINAL_EXAM_2018-19_.pdf`
 - Printed on paper: exam date: 21 November 2018
 - Text: ocr (2 pages), mean OCR confidence 82.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -337,7 +338,6 @@ kaf
 22
 aed
 : Q . mi
-st Al Al Al ST Ee,
 Ki K2 K3
 A2 |” A2
 OV o ee tr
@@ -967,6 +967,88 @@ Q7) Write Short Notes: (any Three) (4x3=12-Marks)
 ‘Io
 ````
 
+## 2016-17 · Re-Exam · Sem 8 · paper b7e9443e69f2
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/INTRODUCTION TO AUTOMATION/Introduction To Automation Batch 2015-16 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 April 2017
+- Text: ocr (2 pages), mean OCR confidence 93.1
+
+````text
+. vari @ fags:
+
+SVKM’s NMIMS eee
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINSERING y.
+
+P ,?ST i. | o~
+Programme: MBA Tech (EXTC) Year: IV . Semestiyg VIB paARY F
+Batch: 2015-16 - : Be he
+Academic Year: 2016-17 NO we
+Subject: Introduction To Automation” Marks: 60
+; Time: 2.00 pm - 5.00 pm
+Date: 13 April 2017 ,. Durations: 3 Hrs .
+
+No. of pages Z
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal! marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data, if required.
+
+Ql Write in brief about followings » | 12
+a Vane Pump
+b Flow Control Valve
+c Role of Robotics in automation
+Q2 a Draw any one Hydraulic circuit 06
+b Explain with block diagram internal architecture of PLC 06
+Q3 a A, B, & C are three DAC, The final control valve for all three cylinders are 09
+
+solenoid valve. The motion sequence is
+A+ B+| Delay C+ A-| Delay (BC)-
+
+The auxiliary condition is single cycle/continuous cycle. Design & Draw the
+Electro Pneumatic circuit
+
+b Draw the Symbol of FRL Unit, Time delay valve 03
+
+Q4 a How OR logic is incorporated in Electro pneumatic circuit. Explain with a 09
+suitable example.
+Draw ladder logic diagram and PLC Diagram for OR Logic
+
+b Draw and explain the working of Twin Pressure valve (AND Logic) in 03
+pneumatics
+
+Q5 a Explain functions of ultrasonic and optical types of sensors 06
+
+b Explain PD, PID controller 06
+
+gps
+--- page 2 ---
+Q6 Explain Electro hydraulic system 06
+Explain with suitable example modular mechatronic system 06
+Q7 Write Short Note on following (any 2) 12
+
+Gear Motor
+
+Check valve
+
+Electric Motor
+````
+
 ## 2015-16 · Final-Exam · Sem 7 · paper dd106d3e3571
 
 - Departments: Electronics and Telecommunication
@@ -1160,88 +1242,6 @@ Q: 6) Draw relay ladder logic equivalent for following gates: (12 Marks)
 AND, OR, NAND, NOR, XOR, XNOR
 
 é
-````
-
-## 2015-16 · Re-Exam · Sem 8 · paper b7e9443e69f2
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/INTRODUCTION TO AUTOMATION/Introduction To Automation Batch 2015-16 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 April 2017
-- Text: ocr (2 pages), mean OCR confidence 93.1
-
-````text
-. vari @ fags:
-
-SVKM’s NMIMS eee
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINSERING y.
-
-P ,?ST i. | o~
-Programme: MBA Tech (EXTC) Year: IV . Semestiyg VIB paARY F
-Batch: 2015-16 - : Be he
-Academic Year: 2016-17 NO we
-Subject: Introduction To Automation” Marks: 60
-; Time: 2.00 pm - 5.00 pm
-Date: 13 April 2017 ,. Durations: 3 Hrs .
-
-No. of pages Z
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal! marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data, if required.
-
-Ql Write in brief about followings » | 12
-a Vane Pump
-b Flow Control Valve
-c Role of Robotics in automation
-Q2 a Draw any one Hydraulic circuit 06
-b Explain with block diagram internal architecture of PLC 06
-Q3 a A, B, & C are three DAC, The final control valve for all three cylinders are 09
-
-solenoid valve. The motion sequence is
-A+ B+| Delay C+ A-| Delay (BC)-
-
-The auxiliary condition is single cycle/continuous cycle. Design & Draw the
-Electro Pneumatic circuit
-
-b Draw the Symbol of FRL Unit, Time delay valve 03
-
-Q4 a How OR logic is incorporated in Electro pneumatic circuit. Explain with a 09
-suitable example.
-Draw ladder logic diagram and PLC Diagram for OR Logic
-
-b Draw and explain the working of Twin Pressure valve (AND Logic) in 03
-pneumatics
-
-Q5 a Explain functions of ultrasonic and optical types of sensors 06
-
-b Explain PD, PID controller 06
-
-gps
---- page 2 ---
-Q6 Explain Electro hydraulic system 06
-Explain with suitable example modular mechatronic system 06
-Q7 Write Short Note on following (any 2) 12
-
-Gear Motor
-
-Check valve
-
-Electric Motor
 ````
 
 ## 2015-16 · Re-Exam · Sem 8 · paper d3470da2e544

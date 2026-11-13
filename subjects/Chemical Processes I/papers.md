@@ -425,6 +425,82 @@ material. Kindly give details with process description, reactions, and PFD.
 y/
 ````
 
+## 2016-17 · Re-Exam · Sem 5 · paper 80f330272d3b
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/CHEMICAL PROCESSES I/CHEMICAL PROCESSES I BATCH 2015-16 RE EXAM.pdf`
+- Printed on paper: exam date: 26 May 2017
+- Text: ocr (1 page), mean OCR confidence 89.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Chemical) “ Year: II. Semester: V ~
+
+Batch: 2015-2016 ~
+Academic Year: 2016-2017. .
+
+Subject: Chemical Processes-I
+
+ogni ETE OF
+Mark: nN oN N ;
+Date: 26 May 2017 , Tim pm - 5.00 fe
+
+Durat gs: (8 F S
+No. WflBagdel BH A RY 5
+
+%
+
+Re-Examination
+
+1) Question No. 01 is compulsory, Out of remaining questions, attempt any 04 questions.
+2) All questions carry equal marks.
+
+3) Figures in brackets on the right hand side indicate full marks.
+
+4) All manufacturing process should contain PFD, Description, Process Condition and reaction
+unless otherwise stated. .
+
+Q.l Answer the following question (Any Three)
+
+a) Explain purification method for silicone for semiconductor manufacturing. (04)
+
+b) Describe sodium manufacturing. (04)
+
+c) Explain the process of acetylene manufacturing from calcium carbide. (04)
+
+d) Explain sulphur trioxide converter with diagram. (04)
+
+Q2a) Explain the Commercial preparation of phosphoric acid using HCI as raw material along (08)
+with PFD, raw materials and reactions.
+
+Q2b) Describe only reaction, raw materials used and process condition for synthesis of Nitric (04)
+acid.
+
+Q3A) Explain the process of cement manufacturing giving alternative for both wet and dry (08)
+grinding.
+
+Q3 B) Describe the process of how Aluminum is obtained from raw bauxite. (NO PFD) (04)
+
+Q4 A) Explain the process with reactions, process conditions, catalyst and raw materials for . (08)
+Ammonia Manufacturing from natural gas. (Only PED)
+
+Q4 B) Describe the process modifications that can be used in Urea plants. (04)
+
+QSA) Explain with PFD the commercial manufacturing of Sulfuric Acid. (08)
+
+Q5 g) Give commercial applications of Hydrochloric Acid. : (04)
+
+Q6 A) Draw the PFD for manufacturing of Soda Ash, also mention the reactions involved in it and (08)
+the raw materials used.
+
+Q6 B) Explain any one process of obtaining sulfur. (No PFD) (04)
+Q7A) Draw the PED for obtaining Pure Nitrogen. (06)
+Q7B) Draw PFD for Urea manufacturing. (06)
+````
+
 ## 2016-17 · Re-Exam · Sem 5 · paper 792351a7766c
 
 - Departments: Chemical
@@ -432,6 +508,7 @@ y/
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/CHEMICAL PROCESSES I/CHEMICAL PROCESSES I BATCH 2016-17 RE EXAM.pdf`
 - Printed on paper: exam date: 26 May 2017
 - Text: ocr (2 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -524,7 +601,6 @@ Q7B_ Draw Symbols for : (02)
 4) Settling tank with rake.
 
 oi a EK
-oe ROR OR OK RR oe 2 7 2 2 oR
 2 2 2 2 2 oo OR KK RK
 ````
 
@@ -600,82 +676,6 @@ Q7 Answer following questions: (i2)
 28 2K a2
 
 i.
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 80f330272d3b
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/CHEMICAL PROCESSES I/CHEMICAL PROCESSES I BATCH 2015-16 RE EXAM.pdf`
-- Printed on paper: exam date: 26 May 2017
-- Text: ocr (1 page), mean OCR confidence 89.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Chemical) “ Year: II. Semester: V ~
-
-Batch: 2015-2016 ~
-Academic Year: 2016-2017. .
-
-Subject: Chemical Processes-I
-
-ogni ETE OF
-Mark: nN oN N ;
-Date: 26 May 2017 , Tim pm - 5.00 fe
-
-Durat gs: (8 F S
-No. WflBagdel BH A RY 5
-
-%
-
-Re-Examination
-
-1) Question No. 01 is compulsory, Out of remaining questions, attempt any 04 questions.
-2) All questions carry equal marks.
-
-3) Figures in brackets on the right hand side indicate full marks.
-
-4) All manufacturing process should contain PFD, Description, Process Condition and reaction
-unless otherwise stated. .
-
-Q.l Answer the following question (Any Three)
-
-a) Explain purification method for silicone for semiconductor manufacturing. (04)
-
-b) Describe sodium manufacturing. (04)
-
-c) Explain the process of acetylene manufacturing from calcium carbide. (04)
-
-d) Explain sulphur trioxide converter with diagram. (04)
-
-Q2a) Explain the Commercial preparation of phosphoric acid using HCI as raw material along (08)
-with PFD, raw materials and reactions.
-
-Q2b) Describe only reaction, raw materials used and process condition for synthesis of Nitric (04)
-acid.
-
-Q3A) Explain the process of cement manufacturing giving alternative for both wet and dry (08)
-grinding.
-
-Q3 B) Describe the process of how Aluminum is obtained from raw bauxite. (NO PFD) (04)
-
-Q4 A) Explain the process with reactions, process conditions, catalyst and raw materials for . (08)
-Ammonia Manufacturing from natural gas. (Only PED)
-
-Q4 B) Describe the process modifications that can be used in Urea plants. (04)
-
-QSA) Explain with PFD the commercial manufacturing of Sulfuric Acid. (08)
-
-Q5 g) Give commercial applications of Hydrochloric Acid. : (04)
-
-Q6 A) Draw the PFD for manufacturing of Soda Ash, also mention the reactions involved in it and (08)
-the raw materials used.
-
-Q6 B) Explain any one process of obtaining sulfur. (No PFD) (04)
-Q7A) Draw the PED for obtaining Pure Nitrogen. (06)
-Q7B) Draw PFD for Urea manufacturing. (06)
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper 108470b6786b

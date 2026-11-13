@@ -1,10 +1,10 @@
 # Fundamentals of Structural Analysis: question papers in full
 
-1 unique papers · 2016-17 to 2016-17 · Mechanical
+1 unique papers · 2017-18 to 2017-18 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2016-17 · Re-Exam · Sem 5 · paper 64ea5b67f546
+## 2017-18 · Re-Exam · Sem 5 · paper 64ea5b67f546
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL

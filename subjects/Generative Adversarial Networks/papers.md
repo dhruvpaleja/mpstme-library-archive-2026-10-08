@@ -102,6 +102,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM I FALL BATCH/Generative Adversarial Networks/Generative Adversarial Network 2025-26 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 80.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -185,7 +186,6 @@ CO4-; SO-2; What are applications of GANs in detail.
 
 BL-2
 
-FICK A I A Ka a
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · paper 463074716c63

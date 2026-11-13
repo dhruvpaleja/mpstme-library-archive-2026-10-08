@@ -14,8 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 12 | BTech (ELECTRONICS & TELECOMMUNICATION | ANS_Cyber Physical Systems Security(702IT0E030)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / EXTC | Cyber Physical Systems Security Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | BTech (ELECTRONICS & TELECOMMUNICATION | QP_Cyber Physical Systems Security(702IT0E030)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 12 | BTech (ELECTRONICS & TELECOMMUNICATION | ANS_Cyber Physical Systems Security(702IT0E030)_2024-2025.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

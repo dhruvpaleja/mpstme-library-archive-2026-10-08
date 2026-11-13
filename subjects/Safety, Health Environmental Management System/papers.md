@@ -1,6 +1,6 @@
 # Safety, Health Environmental Management System: question papers in full
 
-11 unique papers · 2010-11 to 2014-15 · Chemical, Common (all branches), Information Technology, Civil, Manufacturing, Mechanical
+10 unique papers · 2010-11 to 2014-15 · Chemical, Common (all branches), Information Technology, Civil, Manufacturing, Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -149,6 +149,66 @@ Q7- Explain the role of Non-Governmental Organizations in enhancing the awarenes
 Safety, Health and Environment (SHE) in cities. (12 Marks)
 ````
 
+## 2013-14 · Exam not stated · Trim 8 · paper 754f61fddc4a
+
+- Departments: Chemical, Civil, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/safety health and environmental managem_de6a5c89/SAFETY HEALTH AND ENVIRONMENTAL MANAGEMENT SYSTEMS BATCH0001(3).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 17 /12/2013
+- Text: ocr (1 page), mean OCR confidence 91.6
+
+````text
+ev BHEO TET,
+
+SVKM’s NMIMS { ~ :
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MAN: \GEMENT & ENGINEERING
+\ Se eS
+Programme:MBA Tech (ALL) Year: Ill big 6 BN ester: VIII
+Academic Year: 2013-14 Batch:2012-13
+Subject : Safety, Health and Environmental Management Systems
+Marks:50
+Date :17 /12/2013 Time : 10.00 am to 12.00 pm
+
+Durations:2 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+Note:
+1. Answer any 5 questions.
+2. All questions carry equal marks.
+3. Answer to each question to be started on a fresh page.
+4, Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Write short notes on any two from the following: (5 Marks x 2 = 10 Marks)
+a. Cleaner Technologies
+b. Pollution prevention and Life Cycle Analysis
+c. Carbon credits business
+
+Q.2) Briefly explain the significance of safety management in an organization.
+What are the different steps in emergency planning? (10 Marks)
+
+Q.3) Discuss the importance of environmental legislations and voluntary initiatives as
+pressure factors for sustainable development. (10 Marks)
+
+Q.4) Discuss the different tools of risk assessment. (10 Marks)
+
+Q.5) Explain the role of triple bottom-line and multiple bottom-line concepts in sustainable
+
+development citing an example.
+(10 Marks)
+
+Q.6) Following Question is compulsory:
+Discuss Environmental Impact Analysis process in detail citing an example.
+(10 Marks)
+
+%
+
+1/2.
+````
+
 ## 2013-14 · Re-Exam · Sem 6 · paper c522b491b783
 
 - Departments: Chemical, Civil, Common (all branches), Mechanical
@@ -208,173 +268,6 @@ c. Life Cycle Analysis
 Y ms
 
 I
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper fae0abc688a4
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/SAFETY,HEALTH ENVIRONMENTAL MANAGEMENT SYSTEM/SAFETY,HEALTH ENVIRONMENTAL MANAGEMENT SYSTEM BATCH 2013-14 Re-exam.pdf`
-- Printed on paper: exam date: 05/07/2014
-- Text: ocr (3 pages), mean OCR confidence 76.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year: Ul Semester: VI
-Academic Year: 2013-14 gontetl o Rep,
-(Aa
-Batch:2013-2014 MPSTMBE )% *
-
-ae
-
-LIBRARY )& i;
-
-Subject : Project Management Ma:
-
-Date :05/07/2014 Durati
-Re-Examination
-
-Instructions: |] Question no:1 is compulsory. [ Carrying 14 marks]
-2] Attempt ANY THREE questions from Question nos 2 to 6
-3] Questions from 2 to 6 carry 12 marks each.
-4] Use of calculator and statistical tables permitted
-
-Q. No: 1] A] State True or False with reasons
-
-Al] Inan activity net-work, critical path is the one having activities with zero float.
-
-A2] An activity network always has only one critical path.
-
-A3]_ In an activity network critical path should not have a dummy activity.
-
-A4] An activity network can have all the paths as critical
-
-A5] An activity network gives different critical paths in AOA and AON
-
-A6] Crashing of an activity network can be considered complete when necessarily all the
-critical paths become further un-crashable.
-
-A7| Work Break-down Structure [WBS] is best suited for intangible deliverables whereas
-Process Break-down Structure [ PBS] is appropriate for tangible outcomes.
-
-Q. No: 2] List characteristics of a typical project.
-How Project Life Cycle is useful in project planning?
-
-Q. No: 3] Define ‘Risk’ in a project,
-
-What do you understand by Composite Likelihood factor [CLF] and Composite Impact
-
-Factor [CIF] in risk assessment
-
-Enumerate various risk mitigation methods
-.Q. No: 4] An NGO engaged in social welfare activities has planned an ophthalmic medical
-camp in a rural area. You are entrusted with managing the project of making all the necessary
-arrangements and infrastructure ready for the medical camp. The inauguration of the camp is 42
-days away from today .The activities involved in the project with their requisite data is provided
-below. The project is to start from today. Find out what is the chance [| probability] of the
-project completing before the inauguration [which is on the 43 rd day from today, hence the
-project to complete not beyond 42 days] ?
-[ The activity durations are assumed to follow normal frequency distributions]
-
-Activity | Description Preceded by | ‘to’ ‘tm’ ‘tp’
-
-a days days days
-| A Selection of location and site - 4 5 6
-|B Permission from Gram-panchayat A 2 2 2
-
-c _ Structural infrastructure iB 13 15 i
-dD Electricity, water provision ___©& 3 4 5
-
-E Awareness drive/ campaign B 17 20 23
-| E Obtaining medical supplies D 7 8 9
-|G Setting up emergency cell F | 5 6 7
-[_H Registration of patients | E | 8 12 i6 |
-
-1s
---- page 2 ---
-ts.
-
-hing by a day
-
-for each of these activities is also shown. The
-overhead cost for the project is estimated at the
-
-rate of Rs 3,000 per day .
-
-Maximum Crashed
-Duration —in days
-
-Crashing Cost /
-day--- in Rs.
-
-Find out a] Normal project duration and the minimum possible [ maximum crashed] project
-duration
-
-b] The optimum project duration with the least total project cost considering both
-the activity and overhead costs.
-
-c]
-
-How much lower is the least total project cost than the normal [ uncrashed ] total
-project cost?
-
--Q. No: 6: Write short notes on [any two]
-
-A] Sources of project cost escalation.
-
-B] Desirable attributes of Project Manager
-C] Matrix Organization for project
-
-D] Elements of a project master plan.
-
-OY 000000™™ y»y)
-
-2/3
---- page 3 ---
-Areas under the normal curve, 0 to z
-
-z 00 01 .02 03 04 05 06 07 08 09
-00 = 5 eaciess .0000 0040 -0080 0120 .0160 0199 0239 .0279 .0319 .0359
-
-01. +++, 0398 0438 0478 0517 0557 0596 0636 .0675 0714 .0753 A
-02. .0793 0832 0871 .0910 0948 .0987 1026 1064 1103 1141 :
-03. -1179 1217 1255 -1293 -1331 -1368 -1406 1443 -1480 1517 i
-
-0.4 1554 -1591 -1628 1664 -1700 1736 1772 -1808 1844 1879
-
-0.5 1915 -1950 1985 2019 -2054 -2088 -2123 2157 .2190 2224 i
-06. .   .2257 2291 2324 .2357 .2389 2422 2454 2486 2517 .2549
-07 _.2580_____.2611 +2642 .2673 -2703 .2734 .2764 .2794 2823 .2852
-08........ -2881 2910 .2939 .2967 2995 -3023 -3051 3078 3106 3133
-O9........ 3159. 3186 3212 3238 3264 3289 3315 3340 3365 3389
-10........ 3413 3438 3461 3485 3508 3531 -3554 3577 3599 3621
-11. 3643 3665 3686 3708 3729 3749 3770 .3790 3810. 3830
-a2. 3849 3869 3888 3907 3925 3944 3962 3980 3997 4015
-1.3 4032 4049’ 4066 4082 4099 AVIS 4131 A147 A162 ANT
-
-VA nasi.» 4192 4207 4222 4236 4251, 4265 4279 4292 4306 4319
-
-Vis 4332 A345 4357 4370 4382 4394 4406 A4B 4429 A441
-1.6 4452 4463 A474 A484 4495 4505 ASIS 4525 4535 4545
-17 A554 4564 4573 4582 4591 -4599 4608 A616 4625 4633
-18 4641 4649 4656 4664 4671 4678 4686 4693. 4699 4706 |
-
-19 4713 A719 4726 4732 4738 AT44 4750 4756 4761 4767
-
-2.0 ATT2 4778 4783 4788 A193 4798 4803 -4808 4812 4817.
-21 4821 4826 -4830 4834 4838 4842 A846 4850 4854 4857 |
-22 4861 4864 4868 4871 4875 4878 4881 4884 4887 -4890
-2B ondee see 4893 4896 4898 4901 4904 -4906 -4909 4911 4913 ASE
-yh ee A918 -4920 4922 4925 -4927 -4929 4931 4932 4934 4936
-’ 25 4938 4940 4941 4943 A945 4946 4948 -4949 4951 4952
-26 4953 4955 4956 4957 4959 4960 -4961 A962 A963 4964
-27 4965 A966 4967 A968 4969 4970 4971 4972 4973 4974
-28 ini 5 aie 4974 A975 4976 A977 4977 4978 4979 4979 4980 4981
-
-29s ss weisinn 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986
-8.0: sesacn -4987 4987 4987 4988 -4988 4989 -4989 -4989 -4990 4990
 ````
 
 ## 2012-13 · Re-Exam · Trim 8 · paper 9c24bb8f2e96
@@ -828,64 +721,4 @@ benefitted in introduction of carbon credits.
 7. Hazardous material handling. What are the procedures to be taken while handling hazardous
 
 material.
-````
-
-## Year not stated · Exam not stated · Trim 8 · paper 754f61fddc4a
-
-- Departments: Chemical, Civil, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/safety health and environmental managem_de6a5c89/SAFETY HEALTH AND ENVIRONMENTAL MANAGEMENT SYSTEMS BATCH0001(3).pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 17 /12/2013
-- Text: ocr (1 page), mean OCR confidence 91.6
-
-````text
-ev BHEO TET,
-
-SVKM’s NMIMS { ~ :
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MAN: \GEMENT & ENGINEERING
-\ Se eS
-Programme:MBA Tech (ALL) Year: Ill big 6 BN ester: VIII
-Academic Year: 2013-14 Batch:2012-13
-Subject : Safety, Health and Environmental Management Systems
-Marks:50
-Date :17 /12/2013 Time : 10.00 am to 12.00 pm
-
-Durations:2 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-Note:
-1. Answer any 5 questions.
-2. All questions carry equal marks.
-3. Answer to each question to be started on a fresh page.
-4, Figures in brackets on the right hand side indicate full marks.
-
-Q.1) Write short notes on any two from the following: (5 Marks x 2 = 10 Marks)
-a. Cleaner Technologies
-b. Pollution prevention and Life Cycle Analysis
-c. Carbon credits business
-
-Q.2) Briefly explain the significance of safety management in an organization.
-What are the different steps in emergency planning? (10 Marks)
-
-Q.3) Discuss the importance of environmental legislations and voluntary initiatives as
-pressure factors for sustainable development. (10 Marks)
-
-Q.4) Discuss the different tools of risk assessment. (10 Marks)
-
-Q.5) Explain the role of triple bottom-line and multiple bottom-line concepts in sustainable
-
-development citing an example.
-(10 Marks)
-
-Q.6) Following Question is compulsory:
-Discuss Environmental Impact Analysis process in detail citing an example.
-(10 Marks)
-
-%
-
-1/2.
 ````

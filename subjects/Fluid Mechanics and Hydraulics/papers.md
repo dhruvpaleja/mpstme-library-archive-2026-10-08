@@ -915,6 +915,292 @@ tanks. The Darcy’s friction factor is 0.02. *
 2/9.
 ````
 
+## 2023-24 · Re-Exam · Sem 5 · paper e7604b5a8870
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/FLUID MECHANICS AND HYDRAULICS/Fluid Mechanics & Hydraulics, Sem-V, Batch 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/02/2024
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+Program: B.Tech. Year: Ill Semester: V
+
+Stream: Civil Engineering
+Subject: Fluid Mechanics and Hydraulics C transition ) Time: 03 hrs (_ 2pnto 5p
+
+Date: 12/02/2024, - No. of Pages: 02
+
+Marks: 100
+Re Exam (o22 -24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. .
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+
+Answer briefly: [20]
+CO-1; SO-7; | a. | Define density and specific volume. What is the relation between them? [05]
+BL-1 Distinguish between ideal and real fluids.
+te BGai |e What is an equivalent pipe? What is total energy line and hydraulic grade line? 105]
+
+. . | ¢. | Discuss metacenter and metacentric height of a floating body* State the | [05]
+
+CO-2; SO-7; we : f
+BL2 position of metacenter, centre of gravity and centre of buoyancy for different
+
+types of equilibrium.
+CO-2; SO-7;. | d. | Draw a neat figure of Venturimeter and show 1) Datum line 2) HGL and | [05]
+BL-3 3)TEL.
+
+a. | Explain in detail Newton’s law of viscosity.
+1 liter of crude oil weighs 9.6 N. Calculate its specific weight, density and [10]
+
+Q2 specific gravity.
+
+CO-1; SO-1; B Define with sketch bulk modulus and compressibility. [05]
+
+BL-3 The surface tension of water droplet in contact with air at 20°C is 0.0725N/m. [05]
+The pressure inside a droplet is to be 0.02N/cm? greater than the outside
+pressure. calculate the diameter of droplet.
+
+Q3 a. | Derive expression for pressure variation in a fluid at rest. [10]
+--- page 2 ---
+¥
+
+CO-1; SO-7; | b. | Classify pressure measuring devices.
+
+BL-4 A simple manometer is used to measure pressure of oil (specific gravity=0.8) [04]
+flowing in a pipe line. Its right limb is open to the atmosphere and left limb is
+connected to the pipe. The centre of the pipe is 9 cm below the level of mercury | [06]
+in the right limb. If the difference in pressure of mercury level in the two limbs
+is 15 cm, determine the absolute pressure of the oil in the pipe in Nicm?.
+
+a. | A rectangular plate of 2 m wide is submerged in water vertically such that its
+
+Q4 top and bottom surfaces are 2 m and 5 m respectively below the free surface. [10]
+
+CO-2; SO- Determine the total pressure force on one side of the plate and the location of
+
+1,7; centre of pressure. ‘
+
+BL-4 b. | Explain with neat sketches, the conditions of equilibrium for floating and | [10]
+submerged bodies. .
+
+a. | 4 pipe 40 cm in diameter branches into two pipes of diameters 25 cm and 20
+cm respectively. The average velocity in 40 am diameter pipe is 3 m/s. Find 1) | [10]
+the discharge through 40 cm diameter pipe and 2) the average velocity in 25
+
+5
+Q cm diameter pipe, if the average velocity in 20 cm pipe is 2 m/s.
+CO-2; SO-7; -
+BL-4 b. | Define potential head, velocity head and datum head with neat sketch. [05]
+A circular orifice of diameter 20 mm is fitted at the side of a tank. The head of
+water over centre of the orifice is 1 m. The actual discharge through the orifice
+is 0.00085 m?/s. Find the coefficient of the discharge. [05]
+06 a. | Derive an expression of coefficient of discharge, Ca= CvxCc [10]
+CO-3; SO-; b. | Define the terms notch, weir, nappe and crest with neat sketch. [05]
+BL-2 Write down the difference between a notch and a weir and explain losses of [05
+energy in flow through pipes. ]
+| Water is flowing through a horizontal pipe at a flow rate of 200 liter/s. The
+diameter of the pipe is suddenly changed from 20 cm to 30 cm. Find he head | [10]
+Q7 loss due to sudden change in diameter.
+CO-3; SO-7; |b. | A 50 cm diameter pipe of length 500 m is connected in’a series to a 30 cm
+BL-4 diameter pipe of length 300 m to convey discharge. Assume that the friction 10]
+
+factor remains the same for both the pipes and the minor losses are negligible.
+Determine 1) an equivalent length of 40 cm diameter pipe and 2) an equivalent
+size of pipe of 800 m length.
+````
+
+## 2023-24 · Re-Exam · Sem 8 · paper f2a0ef6bc3f5
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_08/FLUID MECHANICS AND HYDRAULICS/Fluid Mechanics and Hydraulics Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 25-/ 6 /2024
+- Text: ocr (3 pages), mean OCR confidence 89.1
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: B.Tech./B.Tech.Intg. * Year: II/IV Semester: IV/VIII
+Stream/s; Civil Engineering ; 7
+
+Subject: Fluid Mechanics and Hydraulics _ Time: 3 __ hrs ((e:o9anmto_L: 00pm )
+Date: 25-/ 6 /2024 No. of Pages: 3
+
+Marks: 100
+
+an __Re-Examination (2022-23)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+1) Question No. it is compulsory.
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: (Any 4) 7
+SO1; BL2
+a. Discuss and derive Pascal’s law
+b. Discuss and derive an expression for Capillary Rise. Draw a neat sketch
+Col c. Explain the stability of a floating bodies. 120]
+EP d. Derive Bernoulli’s equation. Draw a neat sketch and explain all the
+parameters in it.
+e. Derive an expression for hydrostatic force and center of pressure on
+Co2 * cadfnaT cideFaca
+yertical surface:
+CO3 f. Derive an expression for the equivalent pipes connected in parallel.
+Col: S01; BL3 2. Illustrate Surface Tension and related three cases. [6]
+b. A cubical tank has sides of 1.8 m. It contains an oil of density 950 kg/m3
+Q2 for the upper 0.8 m depth. The lower remaining part is filled with water.
+
+CO1; $01; BLS For one vertical side of the tank, find the total pressure and position of
+
+centre of pressure.
+--- page 2 ---
+i
+
+-c. Determine the pressure difference between points A and B, as shéwn in
+
+Fig.1
+Mercury (13.6) jg
+, — 7
+20cm ‘
+Oil (0.9) Oil (0.8)
+12cm
+Fig. 1
+Q3 : . : . .
+Explain the hydraulic coefficients for Orifices. [6]
+CO1; SO1; BL3 .
+: ; b. A rectangular plate 1.5 m wide and 3 m deep lies in water in such a way
+that its plane makes an angle of 30° with the free surface of water, [7]
+Determine the total pressure force and position of centre of pressure, when
+03 the upper edge of the plate is 1.2 m below the free surface. ;
+c., The space between two square flat parallel plates is filled with oil. Each
+COL; SOL; BLS side of the plate is 25 cm long and the thickness of oil film is 15mm. The
+; upper plate which moves at 2.8 m/s requires a force of 14N to maintain [7]
+the speed. Determine (1) dynamic viscosity and (2) kinematic viscosity of
+oil, if the specific gravity of oil is 0.85.
+Q4 ; a. Illustrate the pressure measuring devices. Elaborate the working of [6]
+C02: SOI: BL3 manometer.
+b. . A wooden block (sp. gravity 0.9) of dimensions 1m x 0.6 m x 0.5m floats
+Q4 in water with its shortest axis vertical. Determine the metacentric height [7]
+CO1; SO1; BLS and state the condition of its equilibrium.
+c. A horizontal. Venturimeter measures the flow of oil of specific gravity
+0.82 and has an entrance diameter of 125 mm and a throat diameter of 50
+Q4 mm. There ae pressure gauges at the entrance and the throat showing a [7]
+CO2; SO2; BLS pressure difference of 3 kPa . If the coefficient of the meter is 0.97, find
+"the flow in m3/s.
+Qs & nce , , , ,
+erive an expression for the discharge in the vertical Venturimeter. [6]
+
+CO2; SO1; BL3
+--- page 3 ---
+Q5
+C02; SO1; BLS
+
+A 300 m long pipe has a slope of 1 in 100 and tapers from 1.2 m diatheter
+at higher end to 0.6 m diameter-at the lower end. It carries water at a rate
+of 100 lit/s. Find the average velocities at the higher and lower end. If the
+pressure at high end is 150 KN/m/, find the pressure at the low end.
+Neglect friction.
+
+[7]
+
+Q5
+CO3; SO2; BLS
+
+Two reservoirs are connected by two pipes in series of lengths 300 m and
+400 m and of diameter 30 cm and 40 cm, respectively. The difference of
+head between the two surfaces is 8 m. The friction factors for the two
+pipes are 0.02 and 0.015 respectively. Determine the flow rate. Consider
+
+"all the losses.
+
+[7]
+
+Q6
+CO2; SO1; BL3
+
+Derive an expression for the flow through a triangular notch.
+
+[6]
+
+rn
+
+Q6
+CO3; SO2; BLS
+
+_ A power transmission pipe 30 cm diameter and 400 m long is fitted with
+
+a nozzle of outlet diameter 10 cm at the exit. If the head available at the
+
+inlet of the pipe is 60 m, find the velocity of flow at the outlet of the
+
+nozzle. Assume Darcy’s factor as 0.02.
+
+i7]
+
+A large tank has a sharp edged circular orifice of 4 cm diameter at a depth
+of 5 m below the constant water level. The jet issues horizontally and in a
+horizontal distance of 3.6 m, it fails by 0.6 m. The measures discharge is
+7.5 litres/s. Determine the coefficients of velocity, discharge and
+contraction for the orifice.
+
+[7]
+
+Q7
+CO3; SO1; BL3
+
+Derive an expression for the frictional head loss in the pipe flow.
+
+[6]
+
+Q7
+
+C 3; $02; BLS
+
+Water flows over a trapezoidal notch which has a base width of 0.3 m.
+The notch is 0.9 m wide at the top and is 0.5 m in height. If the depth of
+water above the crest is 0.4 m, find the discharge over the notch. The
+coefficients of discharge for the rectangular and triangular portion are
+0.62 and 0.6, respectively.
+
+[7]
+
+A pipeline is connecting two reservoirs has its diameter reduced to 20%
+due to deposition of chemicals. For a given head difference in the
+reservoirs with unaltered friction factor, find the reduction in the
+discharge. Neglect all losses except pipe friction.
+
+[7]
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 89f08e95d66d
 
 - Departments: Civil
@@ -1234,121 +1520,6 @@ nozzle. Take f= 0.032.
 -1;!
 ````
 
-## 2022-23 · Re-Exam · Sem 5 · paper e7604b5a8870
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/FLUID MECHANICS AND HYDRAULICS/Fluid Mechanics & Hydraulics, Sem-V, Batch 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/02/2024
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-Program: B.Tech. Year: Ill Semester: V
-
-Stream: Civil Engineering
-Subject: Fluid Mechanics and Hydraulics C transition ) Time: 03 hrs (_ 2pnto 5p
-
-Date: 12/02/2024, - No. of Pages: 02
-
-Marks: 100
-Re Exam (o22 -24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. .
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-
-Answer briefly: [20]
-CO-1; SO-7; | a. | Define density and specific volume. What is the relation between them? [05]
-BL-1 Distinguish between ideal and real fluids.
-te BGai |e What is an equivalent pipe? What is total energy line and hydraulic grade line? 105]
-
-. . | ¢. | Discuss metacenter and metacentric height of a floating body* State the | [05]
-
-CO-2; SO-7; we : f
-BL2 position of metacenter, centre of gravity and centre of buoyancy for different
-
-types of equilibrium.
-CO-2; SO-7;. | d. | Draw a neat figure of Venturimeter and show 1) Datum line 2) HGL and | [05]
-BL-3 3)TEL.
-
-a. | Explain in detail Newton’s law of viscosity.
-1 liter of crude oil weighs 9.6 N. Calculate its specific weight, density and [10]
-
-Q2 specific gravity.
-
-CO-1; SO-1; B Define with sketch bulk modulus and compressibility. [05]
-
-BL-3 The surface tension of water droplet in contact with air at 20°C is 0.0725N/m. [05]
-The pressure inside a droplet is to be 0.02N/cm? greater than the outside
-pressure. calculate the diameter of droplet.
-
-Q3 a. | Derive expression for pressure variation in a fluid at rest. [10]
---- page 2 ---
-¥
-
-CO-1; SO-7; | b. | Classify pressure measuring devices.
-
-BL-4 A simple manometer is used to measure pressure of oil (specific gravity=0.8) [04]
-flowing in a pipe line. Its right limb is open to the atmosphere and left limb is
-connected to the pipe. The centre of the pipe is 9 cm below the level of mercury | [06]
-in the right limb. If the difference in pressure of mercury level in the two limbs
-is 15 cm, determine the absolute pressure of the oil in the pipe in Nicm?.
-
-a. | A rectangular plate of 2 m wide is submerged in water vertically such that its
-
-Q4 top and bottom surfaces are 2 m and 5 m respectively below the free surface. [10]
-
-CO-2; SO- Determine the total pressure force on one side of the plate and the location of
-
-1,7; centre of pressure. ‘
-
-BL-4 b. | Explain with neat sketches, the conditions of equilibrium for floating and | [10]
-submerged bodies. .
-
-a. | 4 pipe 40 cm in diameter branches into two pipes of diameters 25 cm and 20
-cm respectively. The average velocity in 40 am diameter pipe is 3 m/s. Find 1) | [10]
-the discharge through 40 cm diameter pipe and 2) the average velocity in 25
-
-5
-Q cm diameter pipe, if the average velocity in 20 cm pipe is 2 m/s.
-CO-2; SO-7; -
-BL-4 b. | Define potential head, velocity head and datum head with neat sketch. [05]
-A circular orifice of diameter 20 mm is fitted at the side of a tank. The head of
-water over centre of the orifice is 1 m. The actual discharge through the orifice
-is 0.00085 m?/s. Find the coefficient of the discharge. [05]
-06 a. | Derive an expression of coefficient of discharge, Ca= CvxCc [10]
-CO-3; SO-; b. | Define the terms notch, weir, nappe and crest with neat sketch. [05]
-BL-2 Write down the difference between a notch and a weir and explain losses of [05
-energy in flow through pipes. ]
-| Water is flowing through a horizontal pipe at a flow rate of 200 liter/s. The
-diameter of the pipe is suddenly changed from 20 cm to 30 cm. Find he head | [10]
-Q7 loss due to sudden change in diameter.
-CO-3; SO-7; |b. | A 50 cm diameter pipe of length 500 m is connected in’a series to a 30 cm
-BL-4 diameter pipe of length 300 m to convey discharge. Assume that the friction 10]
-
-factor remains the same for both the pipes and the minor losses are negligible.
-Determine 1) an equivalent length of 40 cm diameter pipe and 2) an equivalent
-size of pipe of 800 m length.
-````
-
 ## 2022-23 · Re-Exam · Sem 5 · paper e6d2fd466ce2
 
 - Departments: Civil
@@ -1512,177 +1683,6 @@ the maximum transmission of power through the nozzle, find the diameter of
 @ nozzle. Take f = 0.036.
 
 [07]
-````
-
-## 2022-23 · Re-Exam · Sem 8 · paper f2a0ef6bc3f5
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_08/FLUID MECHANICS AND HYDRAULICS/Fluid Mechanics and Hydraulics Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 25-/ 6 /2024
-- Text: ocr (3 pages), mean OCR confidence 89.1
-
-````text
-SVKM’S NMIMS
-
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: B.Tech./B.Tech.Intg. * Year: II/IV Semester: IV/VIII
-Stream/s; Civil Engineering ; 7
-
-Subject: Fluid Mechanics and Hydraulics _ Time: 3 __ hrs ((e:o9anmto_L: 00pm )
-Date: 25-/ 6 /2024 No. of Pages: 3
-
-Marks: 100
-
-an __Re-Examination (2022-23)
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-1) Question No. it is compulsory.
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: (Any 4) 7
-SO1; BL2
-a. Discuss and derive Pascal’s law
-b. Discuss and derive an expression for Capillary Rise. Draw a neat sketch
-Col c. Explain the stability of a floating bodies. 120]
-EP d. Derive Bernoulli’s equation. Draw a neat sketch and explain all the
-parameters in it.
-e. Derive an expression for hydrostatic force and center of pressure on
-Co2 * cadfnaT cideFaca
-yertical surface:
-CO3 f. Derive an expression for the equivalent pipes connected in parallel.
-Col: S01; BL3 2. Illustrate Surface Tension and related three cases. [6]
-b. A cubical tank has sides of 1.8 m. It contains an oil of density 950 kg/m3
-Q2 for the upper 0.8 m depth. The lower remaining part is filled with water.
-
-CO1; $01; BLS For one vertical side of the tank, find the total pressure and position of
-
-centre of pressure.
---- page 2 ---
-i
-
--c. Determine the pressure difference between points A and B, as shéwn in
-
-Fig.1
-Mercury (13.6) jg
-, — 7
-20cm ‘
-Oil (0.9) Oil (0.8)
-12cm
-Fig. 1
-Q3 : . : . .
-Explain the hydraulic coefficients for Orifices. [6]
-CO1; SO1; BL3 .
-: ; b. A rectangular plate 1.5 m wide and 3 m deep lies in water in such a way
-that its plane makes an angle of 30° with the free surface of water, [7]
-Determine the total pressure force and position of centre of pressure, when
-03 the upper edge of the plate is 1.2 m below the free surface. ;
-c., The space between two square flat parallel plates is filled with oil. Each
-COL; SOL; BLS side of the plate is 25 cm long and the thickness of oil film is 15mm. The
-; upper plate which moves at 2.8 m/s requires a force of 14N to maintain [7]
-the speed. Determine (1) dynamic viscosity and (2) kinematic viscosity of
-oil, if the specific gravity of oil is 0.85.
-Q4 ; a. Illustrate the pressure measuring devices. Elaborate the working of [6]
-C02: SOI: BL3 manometer.
-b. . A wooden block (sp. gravity 0.9) of dimensions 1m x 0.6 m x 0.5m floats
-Q4 in water with its shortest axis vertical. Determine the metacentric height [7]
-CO1; SO1; BLS and state the condition of its equilibrium.
-c. A horizontal. Venturimeter measures the flow of oil of specific gravity
-0.82 and has an entrance diameter of 125 mm and a throat diameter of 50
-Q4 mm. There ae pressure gauges at the entrance and the throat showing a [7]
-CO2; SO2; BLS pressure difference of 3 kPa . If the coefficient of the meter is 0.97, find
-"the flow in m3/s.
-Qs & nce , , , ,
-erive an expression for the discharge in the vertical Venturimeter. [6]
-
-CO2; SO1; BL3
---- page 3 ---
-Q5
-C02; SO1; BLS
-
-A 300 m long pipe has a slope of 1 in 100 and tapers from 1.2 m diatheter
-at higher end to 0.6 m diameter-at the lower end. It carries water at a rate
-of 100 lit/s. Find the average velocities at the higher and lower end. If the
-pressure at high end is 150 KN/m/, find the pressure at the low end.
-Neglect friction.
-
-[7]
-
-Q5
-CO3; SO2; BLS
-
-Two reservoirs are connected by two pipes in series of lengths 300 m and
-400 m and of diameter 30 cm and 40 cm, respectively. The difference of
-head between the two surfaces is 8 m. The friction factors for the two
-pipes are 0.02 and 0.015 respectively. Determine the flow rate. Consider
-
-"all the losses.
-
-[7]
-
-Q6
-CO2; SO1; BL3
-
-Derive an expression for the flow through a triangular notch.
-
-[6]
-
-rn
-
-Q6
-CO3; SO2; BLS
-
-_ A power transmission pipe 30 cm diameter and 400 m long is fitted with
-
-a nozzle of outlet diameter 10 cm at the exit. If the head available at the
-
-inlet of the pipe is 60 m, find the velocity of flow at the outlet of the
-
-nozzle. Assume Darcy’s factor as 0.02.
-
-i7]
-
-A large tank has a sharp edged circular orifice of 4 cm diameter at a depth
-of 5 m below the constant water level. The jet issues horizontally and in a
-horizontal distance of 3.6 m, it fails by 0.6 m. The measures discharge is
-7.5 litres/s. Determine the coefficients of velocity, discharge and
-contraction for the orifice.
-
-[7]
-
-Q7
-CO3; SO1; BL3
-
-Derive an expression for the frictional head loss in the pipe flow.
-
-[6]
-
-Q7
-
-C 3; $02; BLS
-
-Water flows over a trapezoidal notch which has a base width of 0.3 m.
-The notch is 0.9 m wide at the top and is 0.5 m in height. If the depth of
-water above the crest is 0.4 m, find the discharge over the notch. The
-coefficients of discharge for the rectangular and triangular portion are
-0.62 and 0.6, respectively.
-
-[7]
-
-A pipeline is connecting two reservoirs has its diameter reduced to 20%
-due to deposition of chemicals. For a given head difference in the
-reservoirs with unaltered friction factor, find the reduction in the
-discharge. Neglect all losses except pipe friction.
-
-[7]
 ````
 
 ## 2022-23 · Re-Exam · Sem 8 · paper 946b907bbfe0

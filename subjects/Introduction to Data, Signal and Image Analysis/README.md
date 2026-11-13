@@ -16,21 +16,21 @@ Also filed as: `INTRODUCTION TO DATA SIGNAL & IMAGE ANALYSIS`, `INTRODUCTION TO 
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7057 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech DS 7009 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech DS 7052 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CSE DS 7057 | QP_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech DS 7009 | QP_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated DS 7038 | QP_Introduction to Data, Signal and Image Analysis(702DB0C007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech DS 7052 | QP_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7057 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech DS 7009 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7057 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech DS 7009 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech DS 7052 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Data ,Signal and Image Analysis Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech CSE DS 7057 | QP_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech DS 7009 | QP_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated DS 7038 | QP_Introduction to Data, Signal and Image Analysis(702DB0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7057 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech DS 7009 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C007)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Data, Signal and Image Analysis ,Sem IV, Final Exam 2024-25 & Re _5570a6bc.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Data, Signal and Image Analysis, Sem IV, Final Exam 2024-25 & Re _b5d4aa4e.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 4 | B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Data Signal and Image analysis, Sem-IV, Year 2022-23, Final Exam.pdf |

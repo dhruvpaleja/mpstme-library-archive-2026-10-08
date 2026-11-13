@@ -1,6 +1,6 @@
 # Introduction to Electrical and Electronics Engineering: question papers in full
 
-26 unique papers · 2022-23 to 2025-26 · Common (all branches), Computer Engineering, Information Technology, Computer Science, Mechanical
+26 unique papers · 2021-22 to 2025-26 · Common (all branches), Computer Engineering, Information Technology, Computer Science, Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1069,6 +1069,289 @@ e) Reactance of the load
 ********** 2 **********
 ````
 
+## 2024-25 · Re-Exam · Sem 2 · paper e37ed52c65f3
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/INTRODUCTION TO ELECTRICAL AND ELECTRON_b5fa5eb9/Introducation to Electrical and Electronics Enigneering Batch 2022-23,2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 87.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT E
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: B.Tech Integrated Year: I Semester: Il
+
+Stream/s: Computer, IT, Mechanical, Data Science
+
+Subject: Introduction to Electrical and Electronics Engineering Time: 3 hrs( 2 p™ to 5 #™ )
+Date:_02 / O5/ 2025 No. of Pages: 3
+
+Marks: 100
+
+Re-Examination ( 2022-23 / 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+a
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted. _—
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitabie data if necessary.
+
+Ql Answer briefly: ; , [20]
+CO-1;
+SO-1; a. | State Kirchhoff’s voltage law with an example. : 5
+BL-1
+
+Define the following terms related to AC signal
+
+co-2; ies factor
+| so-1; | b. | 5% 5
+BL-1 —
+Time Period
+Average value
+CO-4;
+SO-1; c. | Explain the centre-tapped full wave rectifier circuit. 5
+BL-2
+CO-3;
+SO-1; d. | What is a universal motor? Give its applications. 5
+BL-1
+eo: Illustrate the circuit diagram of the RL series AC circuit and discuss the
+S O-L A | behavior in terms of voltage and current mathematical expression, current and [10]
+BL2 voltage waveforms, impedance formula, phasor diagram and power triangle.
+
+"fg
+--- page 2 ---
+i
+
+Determine the current through a 3Q resistor in the network shown by using’
+Thevenin's theorem.
+Q2 62 22
+CO-2;
+SO-1: B é [10]
+BL-3 wv 12 z 32
+
+>
+
+Q3 A 50 Hz ac voltage of 150 V is applied independently to
+CO-2; Resistance of 10 Q
+SO-1; Inductance of 0.2 H
+BL-2 Find the expression for the instantaneous current in both cases.
+
+[10]
+
+Q3
+CO-1; The resistance of a coil of wire increases from 80Qat 10°C to 96.6Qat 60°C.
+SO-1; Find the temperature coefficient of the material.
+BL-2
+
+[10]
+
+_ Q4
+CO-3; . : :
+80-1: A | Draw and explain the construction and working of the DC motor. [10]
+
+BL-2
+
+Q4
+CO-4;
+SO-1;
+BL-2
+
+B_ | Compare Half Wave Rectifier and Bridge Rectifier. ; [10]
+
+Q5 _
+CO-3; Explain the working of a transformer. Also, explain the Step Up and Step
+
+7 | A [10]
+SO-1; down transformer.
+BL-2 :
+
+Q5
+CO-4;
+SO-1;
+BL-3
+
+B | Prove that the NOR gate is called the universal gate. [10]
+
+Q6 -
+CO-4; What is a transistor? Explain the transistor action in an NPN type transistor -
+A [10]
+SO-1; using a suitable diagram.
+BL-1,2 :
+
+CO-4; . | Explain inverting operational amplifiers in brief with the help of a neat |
+B : [10]
+
+SO-1; diagram.
+
+BL-2
+
+aod
+--- page 3 ---
+Q7
+
+CO-4; List the basic gates, draw their symbolic representation and write their truth
+7 | A [10]
+SO-1; table
+BL-1,2
+eat. Construct the circuit for inverting the summing amplifier and explain it in
+S0-4. B | detail. [10] .
+
+BL-2,3
+
+ry
+````
+
+## 2023-24 · Exam not stated · Sem 2 · paper d8801fee5ea8
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/INTRODUCTION TO ELECTRICAL AND ELECTRON_b5fa5eb9/Introduction to Electrical and Electronics Engineering Batch 2021-22,2022-23,2023_0b196f0a.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 88.8
+
+````text
+SVKM’S NMIMS \\
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN ER :
+SCHOOL OF TECHNOLOGY MANAGEMENT can
+Academic Year: 2023-2024 :
+Program/s: B-Tech Integrated Year: I Semester: II
+Stream/s ; a otpputeniiiata Science/Information Technology
+Subject: Introduction to Electrical and Electronics Engineering Time: 3 hrs. (2pm to Spr7_)
+Date:_2%/ 06/2024 No. of Pages: 03
+Marks: 100
+
+Re (202\-22 [22-23./23-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+> the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+CO-2 ; a Define the following terms related with AC signal [5]
+SO-1 ; BL- i) Amplitude(Vm)
+1 ii) Average value(Vavg)
+
+iii) Frequency
+
+faa iv) Cycle
+
+v) Form factor
+CO-3 ; b Illustrate the construction of a transformer. Compare Step up and Step down [5]
+SO-1 ; BL- transformer.
+2
+CO-4 ; c Solve as directed, [5]
+SO-1 ; BL- i) Convert the Binary number (110101)2 to Decimal.
+3 ii) Give the symbol of the gate represented by the given equation:
+
+Y= (A*BfCy’
+
+iii) Prove that (A+B) (A+C) = A+BC
+iv) (A.B)’ = A’ +B? State if the given equation is True or False
+
+CO-4 ; d What is Operational Amplifiers (Op-Amp)? List down the important [5]
+SO-1 ; BL- characteristics of Op-Amp.
+1
+
+Page 1 of 3
+--- page 2 ---
+Q2 a Find the current I of the following electric circuit using the Mesh Analysis. y:; | [10]
+
+CO-1,2; 100
+SO-1; BL- AWN
+1 100 t
+
+2ov (¢) $200
+
+sv >
+
+Q2 b i) List any four advantages of Three Phase Power Supply System over Single [2+8]
+CO-2; SO- Phase Power Supply System.
+1; BL-1,2 ii) Illustrate the circuit diagram of RC series AC circuit and discuss the behavior
+
+in terms of voltage and current mathematical expression, voltage and current
+waveforms, Impedance equation, Phasor diagram, power triangle.
+
+Q3 a Explain construction and working principle of a DC motor with suitable [10]
+princip
+CO-3: SO- diagrams.
+1; BL-2
+Q3 b Explain the construction, symbol and working principle of PNP transistor with a | [10]
+CO-4: SO- neat diagram.
+1; BL-2
+Q4 a An alternating voltage is represented by i (¢) = 141.4sin 314 ¢. Determine [10]
+CO-2: §O- (i) The peak value
+I: BL-5 (ii) Frequency
+> (iii) Time Period
+(iv) Instantaneous value of current at t = 3 msec.
+(v) RMS Value
+Q4 b Prove that NAND gate is a universal gate. [10]
+CO-4; SO-
+1; BL- 5
+Q5 a State and explain Kirchhoff’s voltage law and Kirchhoff’s current law with [5]
+CO-1,2: diagram.
+SO-1; BL-
+2
+
+Page 2 of 3
+--- page 3 ---
+Q5 b Develop Norton’s Equivalent Circuit for the given network.(Rt=20Q) aw |B]
+CO-1,2; 100 16 A =
+NWN NN
+
+SO-1; BL- |
+3 100V | Z10n Ry = 200
+Q5 c Explain the working of full wave bridge rectifier with waveforms. Also, list down | [10]
+CO-4; SO- advantages and disadvantages.
+1; BL-1,2
+
+726 a Illustrate construction, principle of working and applications of Universal motor [10]
+CO-3: SO- with diagram.
+1; BL-2
+Q6 b Explain the working of non-inverting amplifier with a suitable circuit diagram. [10]
+CO-4; SO-
+1; BL-2
+Q7 a A coil has a resistance of 18Q at 20°C and 22 Q at 50°C. Find the rise in [5]
+CO-1,2; temperature when resistance becomes 24Q.The room temperature is 18°C.
+SO-1; BL-
+1
+Q7 b Explain Summing amplifier with diagram. [5]
+CO-4; SO-
+1; BL-2 ;
+Q7 € Explain the operation of Zener diode as a voltage stabilizer. [5]
+
+| CO-4; SO-
+
+4
+1; BL-2
+Q7 d Illustrate the logic circuit for the given expression Y= (A+B) (A +B’) and [5]
+CO-4; SO-
+
+1: BL2 simplify the expression.
+
+Page 3 of 3
+````
+
 ## 2023-24 · Final-Exam · Sem 2 · paper 29cb9d9f1f57
 
 - Departments: Common (all branches)
@@ -1217,176 +1500,36 @@ CO-4; SO-
 Page 3 of 3
 ````
 
-## 2023-24 · Re-Exam · Sem 2 · paper e37ed52c65f3
+## 2022-23 · Exam not stated · Sem 2 · paper 9a99cf767b1a
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/INTRODUCTION TO ELECTRICAL AND ELECTRON_b5fa5eb9/Introducation to Electrical and Electronics Enigneering Batch 2022-23,2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 87.7
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/INTRODUCTION TO ELECTRICAL AND ELECTRON_b5fa5eb9/Introducation to Electrical and Electronics Engineering0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/06/23
+- Text: ocr (3 pages), mean OCR confidence 86.7
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT E
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
+SVKM’S NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
 
-Program/s: B.Tech Integrated Year: I Semester: Il
+Academic Year: 2022-2023 Me
+Program: B.Tech. (Integrated) Stream: All streams Yeat: I Semester: II
+Subject: Introduction to Electrical and Electronics Engineering Time: 3 hrs (4o:00amto 4t00pm\)
+Date: 28/06/23 No. ef Pages: 03 5)
 
-Stream/s: Computer, IT, Mechanical, Data Science
-
-Subject: Introduction to Electrical and Electronics Engineering Time: 3 hrs( 2 p™ to 5 #™ )
-Date:_02 / O5/ 2025 No. of Pages: 3
-
+VA
 Marks: 100
 
-Re-Examination ( 2022-23 / 2023-24)
+Re- Examination (2021- 92]2022~- 23) —
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-a
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+> of the Answer Book, which is provided for their use.
+
 1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5_ questions to be attempted. _—
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitabie data if necessary.
 
-Ql Answer briefly: ; , [20]
-CO-1;
-SO-1; a. | State Kirchhoff’s voltage law with an example. : 5
-BL-1
+2) Out of remaining questions, attempt any __4 _ questions.
 
-Define the following terms related to AC signal
-
-co-2; ies factor
-| so-1; | b. | 5% 5
-BL-1 —
-Time Period
-Average value
-CO-4;
-SO-1; c. | Explain the centre-tapped full wave rectifier circuit. 5
-BL-2
-CO-3;
-SO-1; d. | What is a universal motor? Give its applications. 5
-BL-1
-eo: Illustrate the circuit diagram of the RL series AC circuit and discuss the
-S O-L A | behavior in terms of voltage and current mathematical expression, current and [10]
-BL2 voltage waveforms, impedance formula, phasor diagram and power triangle.
-
-"fg
---- page 2 ---
-i
-
-Determine the current through a 3Q resistor in the network shown by using’
-Thevenin's theorem.
-Q2 62 22
-CO-2;
-SO-1: B é [10]
-BL-3 wv 12 z 32
-
->
-
-Q3 A 50 Hz ac voltage of 150 V is applied independently to
-CO-2; Resistance of 10 Q
-SO-1; Inductance of 0.2 H
-BL-2 Find the expression for the instantaneous current in both cases.
-
-[10]
-
-Q3
-CO-1; The resistance of a coil of wire increases from 80Qat 10°C to 96.6Qat 60°C.
-SO-1; Find the temperature coefficient of the material.
-BL-2
-
-[10]
-
-_ Q4
-CO-3; . : :
-80-1: A | Draw and explain the construction and working of the DC motor. [10]
-
-BL-2
-
-Q4
-CO-4;
-SO-1;
-BL-2
-
-B_ | Compare Half Wave Rectifier and Bridge Rectifier. ; [10]
-
-Q5 _
-CO-3; Explain the working of a transformer. Also, explain the Step Up and Step
-
-7 | A [10]
-SO-1; down transformer.
-BL-2 :
-
-Q5
-CO-4;
-SO-1;
-BL-3
-
-B | Prove that the NOR gate is called the universal gate. [10]
-
-Q6 -
-CO-4; What is a transistor? Explain the transistor action in an NPN type transistor -
-A [10]
-SO-1; using a suitable diagram.
-BL-1,2 :
-
-CO-4; . | Explain inverting operational amplifiers in brief with the help of a neat |
-B : [10]
-
-SO-1; diagram.
-
-BL-2
-
-aod
---- page 3 ---
-Q7
-
-CO-4; List the basic gates, draw their symbolic representation and write their truth
-7 | A [10]
-SO-1; table
-BL-1,2
-eat. Construct the circuit for inverting the summing amplifier and explain it in
-S0-4. B | detail. [10] .
-
-BL-2,3
-
-ry
-````
-
-## 2022-23 · Exam not stated · Sem 2 · paper d8801fee5ea8
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/INTRODUCTION TO ELECTRICAL AND ELECTRON_b5fa5eb9/Introduction to Electrical and Electronics Engineering Batch 2021-22,2022-23,2023_0b196f0a.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 88.8
-
-````text
-SVKM’S NMIMS \\
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN ER :
-SCHOOL OF TECHNOLOGY MANAGEMENT can
-Academic Year: 2023-2024 :
-Program/s: B-Tech Integrated Year: I Semester: II
-Stream/s ; a otpputeniiiata Science/Information Technology
-Subject: Introduction to Electrical and Electronics Engineering Time: 3 hrs. (2pm to Spr7_)
-Date:_2%/ 06/2024 No. of Pages: 03
-Marks: 100
-
-Re (202\-22 [22-23./23-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-> the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
+3) In all___5_ questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -1395,109 +1538,93 @@ Instructions: Candidates should read carefully the instructions printed on the q
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Qi Answer briefly: [20]
-CO-2 ; a Define the following terms related with AC signal [5]
-SO-1 ; BL- i) Amplitude(Vm)
-1 ii) Average value(Vavg)
+Ql
+Answer briefly:
 
-iii) Frequency
+CO-1,2; SO-1; a. A copper coil has a resistance of 40 Q at 0 degree Celsius. Find the resistance of the coil at 60 [4]
 
-faa iv) Cycle
+BL-Moderate degrees Celsius (Reo). Resistance temperature coefficient of copper is 0.0043/degree Celsius.
+b. | Define following parameters of AC circuits 1]
+19° $0.1 (i) Time period
+-e 1 (ii) RMS Value (1)
+~ (iii) Phase Angle (1)
+(iv) Instantaneous amplitude (1)
+CO-1,3; SO-1; | ‘The number of primary and secondary windings in a transformer is 60 and 100 respectively. [4]
+BL-Moderate The secondary voltage is given by 250 V. Determine the primary voltage.
+CO-1,4; SO-1; d. a [4]
+BL-Moderate Compare NPN and PNP transistors.
+CO-4; SO-1; e. . 7
+BL-Low State and explain any one of De Morgan’s theorems. [4]
+a.
+Determine the current through 5 Q resistor in the circuit shown below using Thevenin's
+theorem. {10]
+62 22
 
-v) Form factor
-CO-3 ; b Illustrate the construction of a transformer. Compare Step up and Step down [5]
-SO-1 ; BL- transformer.
-2
-CO-4 ; c Solve as directed, [5]
-SO-1 ; BL- i) Convert the Binary number (110101)2 to Decimal.
-3 ii) Give the symbol of the gate represented by the given equation:
+Q2 NA WW
+CO-1,2; SO-1; |
 
-Y= (A*BfCy’
+10V 30 52
+BL-Moderate ] 19
+in
+: it
 
-iii) Prove that (A+B) (A+C) = A+BC
-iv) (A.B)’ = A’ +B? State if the given equation is True or False
-
-CO-4 ; d What is Operational Amplifiers (Op-Amp)? List down the important [5]
-SO-1 ; BL- characteristics of Op-Amp.
-1
-
-Page 1 of 3
+20V
 --- page 2 ---
-Q2 a Find the current I of the following electric circuit using the Mesh Analysis. y:; | [10]
+Q2
 
-CO-1,2; 100
-SO-1; BL- AWN
-1 100 t
-
-2ov (¢) $200
-
-sv >
-
-Q2 b i) List any four advantages of Three Phase Power Supply System over Single [2+8]
-CO-2; SO- Phase Power Supply System.
-1; BL-1,2 ii) Illustrate the circuit diagram of RC series AC circuit and discuss the behavior
-
-in terms of voltage and current mathematical expression, voltage and current
-waveforms, Impedance equation, Phasor diagram, power triangle.
-
-Q3 a Explain construction and working principle of a DC motor with suitable [10]
-princip
-CO-3: SO- diagrams.
-1; BL-2
-Q3 b Explain the construction, symbol and working principle of PNP transistor with a | [10]
-CO-4: SO- neat diagram.
-1; BL-2
-Q4 a An alternating voltage is represented by i (¢) = 141.4sin 314 ¢. Determine [10]
-CO-2: §O- (i) The peak value
-I: BL-5 (ii) Frequency
-> (iii) Time Period
-(iv) Instantaneous value of current at t = 3 msec.
-(v) RMS Value
-Q4 b Prove that NAND gate is a universal gate. [10]
-CO-4; SO-
-1; BL- 5
-Q5 a State and explain Kirchhoff’s voltage law and Kirchhoff’s current law with [5]
-CO-1,2: diagram.
-SO-1; BL-
-2
-
-Page 2 of 3
+Explain the working of a full wave rectifier with the help of a neat diagram. Also draw the [10]
+CO-1,4; SO-1; input and output waveforms.
+BL-Low
+a.
+(i) Draw the diagram of Capacitance in series & Parallel and state the formula for G5]
+capacitance in series and parallel.
+(ii) Calculate the effective resistance of the following circuit between points A and B.
+Qs san Pl
+CO-1,2; SO-1; o4. ce Oe
+BL-Moderate abn
+5
+Ly ___]
+b. | A resistance of 100 Q and a capacitor of 50 pF are connected in series across a 200 V, 50 Hz
+supply. Find
+Q3 (i) capacitive reactance [2]
+CO-1,2; SO-1; (ii) impedance [2]
+BL-Moderate (iii) current [2]
+(iv) power factor [2]
+(v) active and reactive power [2]
+Q4 a. | Discuss the behavior of following circuits in terms of current equation, angle, power factor and
+Tee impedance
+cats 0-1; (i) Purely Resistive Circuit a
+g (ii) Purely Inductive Circuit
+Q4 b.
+CO-1,4; SO-1; Draw and explain the V-I characteristics of a p-n junction diode. [10]
+BL-Low
+Q5 a.
+C0-1,3: $O-1: (i) Define the terms ‘efficiency’ and ‘voltage regulation’ in a transformer. [5]
+BL-Low > (ii) List the different types of losses in a transformer. [5]
+. b. (i) Write the Boolean expressions for OR gate and EX-OR gate. [5]
+(ii) Complete the truth tables for the following two gates. [5]
+Q5 input__| output P inputs output
+CO-4; SO-1; P xX |P xX xX P1Q {xX
+BL-Low > ¢ a 40
+NOT AND it i)
+1 1
+Qe Explain the following for a single-phase Induction motor with help of a suitable diagram
+CO-1,3; SO-1; (i) Construction [5]
+BL-Low (ii) Working [5]
+Q6 b.
+CO-1,4; SO-1; Explain inverting operational amplifier in brief with the help of a neat diagram. [10]
+BL-Low
+Q7 a State Kirchhoff’s voltage and current laws. [5]
 --- page 3 ---
-Q5 b Develop Norton’s Equivalent Circuit for the given network.(Rt=20Q) aw |B]
-CO-1,2; 100 16 A =
-NWN NN
+CO-1,2,4; SO- b. Draw the symbol of a Zener diode and explain its application as a voltage regulator. ; 5]
 
-SO-1; BL- |
-3 100V | Z10n Ry = 200
-Q5 c Explain the working of full wave bridge rectifier with waveforms. Also, list down | [10]
-CO-4; SO- advantages and disadvantages.
-1; BL-1,2
+1;
 
-726 a Illustrate construction, principle of working and applications of Universal motor [10]
-CO-3: SO- with diagram.
-1; BL-2
-Q6 b Explain the working of non-inverting amplifier with a suitable circuit diagram. [10]
-CO-4; SO-
-1; BL-2
-Q7 a A coil has a resistance of 18Q at 20°C and 22 Q at 50°C. Find the rise in [5]
-CO-1,2; temperature when resistance becomes 24Q.The room temperature is 18°C.
-SO-1; BL-
-1
-Q7 b Explain Summing amplifier with diagram. [5]
-CO-4; SO-
-1; BL-2 ;
-Q7 € Explain the operation of Zener diode as a voltage stabilizer. [5]
+BL-Low c. | Draw an inverting summing amplifier using Op-amp having three voltages as its input. *
 
-| CO-4; SO-
-
-4
-1; BL-2
-Q7 d Illustrate the logic circuit for the given expression Y= (A+B) (A +B’) and [5]
-CO-4; SO-
-
-1: BL2 simplify the expression.
-
-Page 3 of 3
+State the output expression for this inverting summing amplifier. [10]
+Also determine the output voltage (Vou) for an inverting summing amplifier having Vi = 6V,
+V2=7V, V3 = 5V, Ri = R2 = R3 = 5kQ and Re = 20kQ.
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper eed3c27a890c
@@ -1636,140 +1763,14 @@ BL-Low (iii) Output Resistance
 (v) Offset voltage
 ````
 
-## Year not stated · Exam not stated · Sem 2 · paper 9a99cf767b1a
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/INTRODUCTION TO ELECTRICAL AND ELECTRON_b5fa5eb9/Introducation to Electrical and Electronics Engineering0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/06/23
-- Text: ocr (3 pages), mean OCR confidence 86.7
-
-````text
-SVKM’S NMIMS :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2022-2023 Me
-Program: B.Tech. (Integrated) Stream: All streams Yeat: I Semester: II
-Subject: Introduction to Electrical and Electronics Engineering Time: 3 hrs (4o:00amto 4t00pm\)
-Date: 28/06/23 No. ef Pages: 03 5)
-
-VA
-Marks: 100
-
-Re- Examination (2021- 92]2022~- 23) —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-> of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly:
-
-CO-1,2; SO-1; a. A copper coil has a resistance of 40 Q at 0 degree Celsius. Find the resistance of the coil at 60 [4]
-
-BL-Moderate degrees Celsius (Reo). Resistance temperature coefficient of copper is 0.0043/degree Celsius.
-b. | Define following parameters of AC circuits 1]
-19° $0.1 (i) Time period
--e 1 (ii) RMS Value (1)
-~ (iii) Phase Angle (1)
-(iv) Instantaneous amplitude (1)
-CO-1,3; SO-1; | ‘The number of primary and secondary windings in a transformer is 60 and 100 respectively. [4]
-BL-Moderate The secondary voltage is given by 250 V. Determine the primary voltage.
-CO-1,4; SO-1; d. a [4]
-BL-Moderate Compare NPN and PNP transistors.
-CO-4; SO-1; e. . 7
-BL-Low State and explain any one of De Morgan’s theorems. [4]
-a.
-Determine the current through 5 Q resistor in the circuit shown below using Thevenin's
-theorem. {10]
-62 22
-
-Q2 NA WW
-CO-1,2; SO-1; |
-
-10V 30 52
-BL-Moderate ] 19
-in
-: it
-
-20V
---- page 2 ---
-Q2
-
-Explain the working of a full wave rectifier with the help of a neat diagram. Also draw the [10]
-CO-1,4; SO-1; input and output waveforms.
-BL-Low
-a.
-(i) Draw the diagram of Capacitance in series & Parallel and state the formula for G5]
-capacitance in series and parallel.
-(ii) Calculate the effective resistance of the following circuit between points A and B.
-Qs san Pl
-CO-1,2; SO-1; o4. ce Oe
-BL-Moderate abn
-5
-Ly ___]
-b. | A resistance of 100 Q and a capacitor of 50 pF are connected in series across a 200 V, 50 Hz
-supply. Find
-Q3 (i) capacitive reactance [2]
-CO-1,2; SO-1; (ii) impedance [2]
-BL-Moderate (iii) current [2]
-(iv) power factor [2]
-(v) active and reactive power [2]
-Q4 a. | Discuss the behavior of following circuits in terms of current equation, angle, power factor and
-Tee impedance
-cats 0-1; (i) Purely Resistive Circuit a
-g (ii) Purely Inductive Circuit
-Q4 b.
-CO-1,4; SO-1; Draw and explain the V-I characteristics of a p-n junction diode. [10]
-BL-Low
-Q5 a.
-C0-1,3: $O-1: (i) Define the terms ‘efficiency’ and ‘voltage regulation’ in a transformer. [5]
-BL-Low > (ii) List the different types of losses in a transformer. [5]
-. b. (i) Write the Boolean expressions for OR gate and EX-OR gate. [5]
-(ii) Complete the truth tables for the following two gates. [5]
-Q5 input__| output P inputs output
-CO-4; SO-1; P xX |P xX xX P1Q {xX
-BL-Low > ¢ a 40
-NOT AND it i)
-1 1
-Qe Explain the following for a single-phase Induction motor with help of a suitable diagram
-CO-1,3; SO-1; (i) Construction [5]
-BL-Low (ii) Working [5]
-Q6 b.
-CO-1,4; SO-1; Explain inverting operational amplifier in brief with the help of a neat diagram. [10]
-BL-Low
-Q7 a State Kirchhoff’s voltage and current laws. [5]
---- page 3 ---
-CO-1,2,4; SO- b. Draw the symbol of a Zener diode and explain its application as a voltage regulator. ; 5]
-
-1;
-
-BL-Low c. | Draw an inverting summing amplifier using Op-amp having three voltages as its input. *
-
-State the output expression for this inverting summing amplifier. [10]
-Also determine the output voltage (Vou) for an inverting summing amplifier having Vi = 6V,
-V2=7V, V3 = 5V, Ri = R2 = R3 = 5kQ and Re = 20kQ.
-````
-
-## Year not stated · Exam not stated · Sem 2 · paper 160cdcc5b575
+## 2021-22 · Exam not stated · Sem 2 · paper 160cdcc5b575
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/INTRODUCTION TO ELECTRICAL AND ELECTRON_b5fa5eb9/Introduction to electrical and Electronics Engineering B0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 July 2022
 - Text: ocr (3 pages), mean OCR confidence 86.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 - .
@@ -1839,7 +1840,6 @@ BL-1
 Q3 a | By mesh analysis find the mesh currents I; and bb in the circuit shown. | 10
 CO-2; ae 262
 80-1: [ lata | |
-BL-2 an = Z SQ z so
 23° Tt | {
 Q3 b | A circuit consists of a pure resistance of 10 ohms and is connected
 CO-1; across a ac supply of 230 V,50 Hz supply. Calculate

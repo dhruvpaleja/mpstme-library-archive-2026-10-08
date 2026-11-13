@@ -14,14 +14,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Compiler Design(702CO0C028)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Compiler Design(702CO0C028)_2025-2026_ee093fc0be.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / COMPUTER, B TECH / CSBS | Compiler Design, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech CSBS 7036 | QP_Compiler Design(702CO0C028)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CS 7055 | ANS_Compiler Design(702CS0C004)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Compiler Design(702CO0C028)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Compiler Design(702CO0C028)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Compiler Design(702CO0C028)_2025-2026_ee093fc0be.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech CS 7055 | QP_Compiler Design(702CS0C004)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech CSBS 7036 | QP_Compiler Design(702CO0C028)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CS 7055 | ANS_Compiler Design(702CS0C004)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Compiler Design(702CO0C028)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / CSBS | Compiler Design, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | Compiler Design, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | Compiler Design, Sem-V, Batch 2024-25, Re Exam_148864e54c.pdf |

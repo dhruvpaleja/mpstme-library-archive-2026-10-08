@@ -1643,6 +1643,7 @@ FI ICR D7 FAC HOH
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AIML_7053/Reinforcement Learning/ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (26 pages), mean OCR confidence 69.1
+- 15 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1913,7 +1914,6 @@ Vipd= -1 4 9 (wes) = ee Nio d= -1 +0108] =-)
 VCO el vel era ev Er ceo
 
 =. ap? E
-Nee — seep \ y CO} = o> ovat) = aan,
 
 Vp) = -2 + -4/ é WN - ess VCs} -
 NOS) = sy
@@ -2009,8 +2009,6 @@ oO Relative probability of the trajectory under the
 target and behavior policies (the importance
 sampling ratio) is
 
-TIES! (AlSe)p(Sers1SerAn) _ Fp w(ARlSe)
-THEE (ALISu)p(Sier1 |S A). ey ARIS)”
 
 * pur =
 
@@ -2068,7 +2066,6 @@ N(A) — N(A) +1 ce
 Q(A) © QA) + xt [R- aay]
 
 wy |
-sip lackey [oval | BO, Gr dO Cay) [Amon Choy Pe
 runk alrig~
 vik fel oa
 
@@ -2098,7 +2095,6 @@ Oy ( hy) = 0 ‘i 1
 aces te NTS
 ary)
 one Nos \ eee al 3
-O3C As oe vs + 1 Ee \ z a
 -B2 (pr) = : 2
 Woe Oe
 b A bird lives in a park that has two favorite spots — one near the fountain
@@ -2254,7 +2250,6 @@ on de Oe 29-8 SI.
 
 Sal meer AC \ =uor O=0
 —e : ne -
-To teger qe ty 39 Gi 0% =W
 C1,s0wr>
 Hod &= -1 + 0-8C4o =3)
 CH) cowh) gy
@@ -2286,8 +2281,6 @@ Qn, came) = 2)
 
 aC Al cowh y= yo
 
-pov wy Kare oh CL a . a
-a cae) > OCG Wary = ae fer
 b Consider the following environment with four states A, B, C, D.
 
 The state transitions and corresponding rewards collected are as given
@@ -2477,7 +2470,6 @@ sles
 --- page 20 ---
 wnt 4 ae
 _ = w
-wle0-4, pee Caraibi of gen we
 
 Snir
 
@@ -2505,7 +2497,6 @@ oF oF [08CO* ortor J = 0.
 
 N@> =
 ve Yd)
-= V (c ? =A t =O
 = 3
 : s tery 4 Teng hr > Al=n9nr
 . _ ;
@@ -2517,7 +2508,6 @@ Te righ
 20
 --- page 21 ---
 POW cw ge ay
-OMoy eydore — TI ( es rsh] Ssad-Vale)
 SEC
 
 for ona
@@ -2533,7 +2523,6 @@ NGS) > Vesa) uae pe
 
 ee vo ap” (E )
 forsinit Sb : ;
-Y (oy) = o-#( oe (=) + o2l3) J = OG
 TE Ar ;
 VG 5 14 [ pOheeet els
 Taw
@@ -2541,7 +2530,6 @@ WP Zz: VUb> => opm gtk (LL)
 Tentqgne Tbe ae
 Vls). = 03 [oe >t gece =
 Tengu : =e
-VC Se) 2 o-+[ >) Ore Ce) A = 23
 Te ur : ae
 N| (Sc \ 7? VGser =). ee Ce 5
 Tenght fee ee
@@ -2754,13 +2742,11 @@ A= ob ie e
 25
 --- page 26 ---
 Zpeth aku
-Sirorent Ae + at Leer 5) O Chen her?
 
 - (%
 O(se) 6) = ac — 6 (sey 0o)
 
 , = |
-eee Luo , AL Rex + gb G(X) 0, Oxy)!
 Abd =
 
 . = 2-22.

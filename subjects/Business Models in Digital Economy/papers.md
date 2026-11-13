@@ -256,6 +256,65 @@ x
 4/4
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper 44afe04eba8b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/BUSINESS MODELS IN DIGITAL ECONOMY/scan0017(7).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04/01/2013
+- Text: ocr (1 page), mean OCR confidence 94.4
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engine
+Programme: MBA (Tech) -ALL STREAMS Year: V_ Trimester: XIV
+Academic Year : 2012-2013
+
+Subject: BUSINESS MODELS IN DIGITAL ECONOMY Marks: 50
+Time: 11.00 a.m To 1.00 p.m
+Date: 04/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB (2):
+1. Attempt ANY 5 of the 7 Questions given.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in brackets on the right hand side indicate full marks.
+4. Make suitable assumptions wherever necessary and mention them clearly.
+
+Q1. “As per a recent tech shopper report by Google India, 70 percent tech buyers know the exact
+brand and model they intend to buy before entering the store.” Discuss how this affects the
+business models of electronic retail chains such as Croma or eZone. [ 10 Marks]
+
+Q2. Discuss the similarities and differences between the concepts of ‘Open Innovation’ and
+‘Disruptive Innovation’ giving suitable illustrations. [ 10 Marks ]
+
+Q3. Has the digital economy and Net Generation norms given an impetus to technology
+} entrepreneurs? Discuss this statement giving your opinion by citing examples for the same.
+[ 10 Marks]
+
+Q4. Explain giving suitable examples why organizations need to suitably incorporate the two Net
+Generation Norms — ‘Collaboration’ and ‘Speed’ in their business model. [ 10 Marks]
+
+Q5. Explain how ‘N=1 and R=G’ model can (or has been) applied in the hospitality industry
+
+giving suitable justifications. [ 10 Marks ]
+a?
+
+Q6. Explain the three waves of migration which an organization can evolve with example of
+
+organization(s) in each of the three levels of capability? [ 10 Marks |
+
+Q7. Discuss the guiding principles of the ‘New Model’ of education as described by Tapscott.
+: [ 10 Marks]
+
+Xa
+Mi
+````
+
 ## 2011-12 · Re-Exam · Trim 14 · paper 49f785088c97
 
 - Departments: Common (all branches)
@@ -382,6 +441,7 @@ ae)
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/BUSINESS MODELS IN DIGITAL ECONOMY/2009-2010(139).pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (1 page), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a aND?* ~uya.
@@ -419,7 +479,6 @@ economy.” Elaborate with examples. (10 marks)
 2. Explain the role of web chain valuation in the context of using the internet to enhance
 customer value.. (10 marks)
 
-o> atoaie “Ot oraved acess toil} eta cam~slevity cof PIP sammerce
 3Analyze the strategic sourcing process to illustrate the complexity of B2B commerce.
 
 (10 marks)
@@ -491,63 +550,4 @@ business models in the digital economy. (10 marks)
 
 5. Analyze the business model adopted by ITC’s e-Choupal in the light of what you
 have learnt in this course. : (10 marks)
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 44afe04eba8b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/BUSINESS MODELS IN DIGITAL ECONOMY/scan0017(7).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 04/01/2013
-- Text: ocr (1 page), mean OCR confidence 94.4
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engine
-Programme: MBA (Tech) -ALL STREAMS Year: V_ Trimester: XIV
-Academic Year : 2012-2013
-
-Subject: BUSINESS MODELS IN DIGITAL ECONOMY Marks: 50
-Time: 11.00 a.m To 1.00 p.m
-Date: 04/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB (2):
-1. Attempt ANY 5 of the 7 Questions given.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in brackets on the right hand side indicate full marks.
-4. Make suitable assumptions wherever necessary and mention them clearly.
-
-Q1. “As per a recent tech shopper report by Google India, 70 percent tech buyers know the exact
-brand and model they intend to buy before entering the store.” Discuss how this affects the
-business models of electronic retail chains such as Croma or eZone. [ 10 Marks]
-
-Q2. Discuss the similarities and differences between the concepts of ‘Open Innovation’ and
-‘Disruptive Innovation’ giving suitable illustrations. [ 10 Marks ]
-
-Q3. Has the digital economy and Net Generation norms given an impetus to technology
-} entrepreneurs? Discuss this statement giving your opinion by citing examples for the same.
-[ 10 Marks]
-
-Q4. Explain giving suitable examples why organizations need to suitably incorporate the two Net
-Generation Norms — ‘Collaboration’ and ‘Speed’ in their business model. [ 10 Marks]
-
-Q5. Explain how ‘N=1 and R=G’ model can (or has been) applied in the hospitality industry
-
-giving suitable justifications. [ 10 Marks ]
-a?
-
-Q6. Explain the three waves of migration which an organization can evolve with example of
-
-organization(s) in each of the three levels of capability? [ 10 Marks |
-
-Q7. Discuss the guiding principles of the ‘New Model’ of education as described by Tapscott.
-: [ 10 Marks]
-
-Xa
-Mi
 ````

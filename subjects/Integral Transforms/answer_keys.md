@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_AIDS_7056/Integral Transforms/ANS_Integral Transforms(702BS0C091)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (21 pages), mean OCR confidence 52.7
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -135,13 +137,11 @@ Step 6 (1 mark):
 1f1 (s—1)?-4
 3|(e-12 ” ((s—1p+4p
 
-Fe OR RR ok kk RK
 --- page 5 ---
 b. | Find the finite Fourier cosine transform of f(x) = x2,.0<x<L.
 
 2Cb) Find He fins Founirr contre bromafarn of
 Fe > cH EL
-Pha fit Fomor Corre browmafernn A Mefrrreal
 
 oA!
 Fem) = [AON GAMO dx
@@ -196,7 +196,6 @@ rn ee ! ©
 0
 vy
 ae ee is
-a [ (-r) We a d.
 D
 = Z fee]
 ny )
@@ -234,14 +233,12 @@ b, = r |e fin 0m ra
 0
 [+30
 
-m= ge in » nem fn pe
 = af a? ee fiw nee) y 7
 
 fy
 Kopn
 (He) |
 
-cE La lt fy One aa!
 
 p —T
 
@@ -265,9 +262,6 @@ p
 —ax
 b. | Find Fourier sine transform of f(x) = —, hence evaluate Ss tan“*(*) sinx dx.
 
-2m) Fd te -Rorier cic fewvstorm 9 fo =-2°"% hen
-evre}note _\ sew (Heivadn
-> csusidew Fe cc) = f= Ol fen siv Sahm
 =f" “<= SE isadon —_-[ J
 Biypjerechechig wort -s en bei. ste .
 gzfco= (2° =" fb (sinse) dn =e “Sons dy
@@ -282,7 +276,6 @@ SUFs = ={3 aas> .. (2)
 Tdeqeeh wrt. S ,we Jet
 oer see
 \ £2c)~ {2 gout G) Cote an
-Tneme fSunerv Syne Feavrtown \S oon
 Lory = Se | FeCc) Sinoads
 
 ~ JES Epo CAsinends
@@ -330,7 +323,6 @@ Using:
 
 Q4
 
-Fe OR RR QR RR RAK
 --- page 10 ---
 P,0<t<2
 
@@ -443,7 +435,6 @@ a =
 ate)
 = a = (ora)
 fae he ee. dg =e lyr”)
-ae v I» nor sa ae
 o
 a9 ad
 a p fh Hann
@@ -494,7 +485,6 @@ is orthogonal over (0,5).
 
 FRAC ACK RK 12 OR RRR KKK
 --- page 14 ---
-6.5) © lA Ip ta) = ws (rat) nm, pe WH
 
 fin lm) = os (zm 4!) m , meo,),2,-
 
@@ -620,8 +610,6 @@ at?
 
 FRAO RR 7 OR RRR RK
 --- page 18 ---
-B95) sole by Feusier Travatom! ~ os 42d 4po4= Shee)
-S Gren psy poe tHe
 
 . £3 UNF 3 £Sy!3 4263 97 aHe® Heo}
 
@@ -659,7 +647,6 @@ RSs a YES 24fs
 
 he tFgRrjtif - oe oF Ee 9
 
-ads SP yee th er HCH Se Puce)
 
 cat
 
@@ -685,7 +672,6 @@ bud Felony) 21 FfF(u? -
 oy SS
 but Qe Ye a
 - 76
-Fle StF fet (#)}= gto
 (5 a
 a= £9
 = I$) re ”s
@@ -788,6 +774,8 @@ SCR ACK RK 2] RR RR RAK
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_AIML_7053/Integral Transforms/ANS_Integral Transforms(702BS0C091)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (23 pages), mean OCR confidence 52.4
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -965,7 +953,6 @@ Find the finite Fourier cosine transform of f(x) = x2,0<x<L.
 
 FIC DI EH ar
 --- page 6 ---
-2Cb) Find the fate Foumer canine tomfanme o f
 
 F(X)2 2% gemee
 
@@ -1018,7 +1005,6 @@ Ne,
 * 4
 
 |
-Wh ase a ou ft ssi me (01)
 2.if arwe le ne
 
 a= J oJ os
@@ -1052,7 +1038,6 @@ a. | Find the Fourier series of f(x) = x? in (—1,7). 6
 
 nan Ky Ag Sa ssepscoacinns (0)
 
-EB FiS.. Pe bn fo nx — (7)
 n=)
 
 ee Lak #
@@ -1068,7 +1053,6 @@ n
 (48)
 
 n=
-= Loe i° (tes 0) be [vs an P
 —_" een _
 p n oe
 
@@ -1088,12 +1072,10 @@ Perr er re.
 --- page 9 ---
 b. | Find Fourier sine transform of f(x) = — hence evaluate J. tan“*(*) sinx dx.
 
-m2) Aid +e -Rurier Gue Feavatowm 9. FOP = 2°" lence
 evrebnote _S daw? (Heivadn :
 O> covsider Fee) = f= Ol fe ») Si Soc)
 ae nad wae as
 
-Biyhorertech! Wort S en bot. sYea .
 
 GzP = (29'S 2 (eines)dn= ef Sons ft
 = Ee y= — “eyssmdo,
@@ -1108,7 +1090,6 @@ Ca Ods 5 & Satz as?
 
 os = son =], as
 yy ec) = <_ Fou ey 49 dfea(S
-Tuyeme -euner sine Feavrtowy \S as
 
 fry = Se *\ Fee) Sinoods
 _ SGC (&)sivends
@@ -1284,7 +1265,6 @@ Q
 & a — (pra)
 rT
 
-ia ule n LL --t — [y 7)
 a mn Harr is “a
 
 D
@@ -1347,7 +1327,6 @@ is orthogonal over (0, *).
 
 dln) = (os (zm!) » , WOM A hae
 y/e cle
-| fe (n) fp in) dn = | tot (rmti) » jos (r04Dan a
 
 , _— dna)
 
@@ -1457,7 +1436,6 @@ where he &
 
 ?
 
-f l oo f [ot won dy
 
 2 ”
 ge a) (ot
@@ -1560,7 +1538,6 @@ b. | Examine Lf } using convolution theorem
 Ss
 (s?+25)(s?+9).
 
-DR ROR RK QD] RRR RK RK
 --- page 22 ---
 Step 1: Express as product (1 mark)
 8° é 5
@@ -1624,7 +1601,6 @@ seeeseeee (01 Mark)
 by = 2
 seeeseaee (01 Mark)
 a oo oo
-f@® = J+ Mn cose + 2 bn sin ax
 = n=
 sevesene (01 Mark)
 1 2 ~ cosmx 1.
@@ -1646,6 +1622,8 @@ FIR ICR 2 I OH
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_AI_7012/Integral Transforms/ANS_Integral Transforms(702BS0C091)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (23 pages), mean OCR confidence 52.4
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1823,7 +1801,6 @@ Find the finite Fourier cosine transform of f(x) = x2,0<x<L.
 
 FIC DI EH ar
 --- page 6 ---
-2Cb) Find the fate Foumer canine tomfanme o f
 
 F(X)2 2% gemee
 
@@ -1876,7 +1853,6 @@ Ne,
 * 4
 
 |
-Wh ase a ou ft ssi me (01)
 2.if arwe le ne
 
 a= J oJ os
@@ -1910,7 +1886,6 @@ a. | Find the Fourier series of f(x) = x? in (—1,7). 6
 
 nan Ky Ag Sa ssepscoacinns (0)
 
-EB FiS.. Pe bn fo nx — (7)
 n=)
 
 ee Lak #
@@ -1926,7 +1901,6 @@ n
 (48)
 
 n=
-= Loe i° (tes 0) be [vs an P
 —_" een _
 p n oe
 
@@ -1946,12 +1920,10 @@ Perr er re.
 --- page 9 ---
 b. | Find Fourier sine transform of f(x) = — hence evaluate J. tan“*(*) sinx dx.
 
-m2) Aid +e -Rurier Gue Feavatowm 9. FOP = 2°" lence
 evrebnote _S daw? (Heivadn :
 O> covsider Fee) = f= Ol fe ») Si Soc)
 ae nad wae as
 
-Biyhorertech! Wort S en bot. sYea .
 
 GzP = (29'S 2 (eines)dn= ef Sons ft
 = Ee y= — “eyssmdo,
@@ -1966,7 +1938,6 @@ Ca Ods 5 & Satz as?
 
 os = son =], as
 yy ec) = <_ Fou ey 49 dfea(S
-Tuyeme -euner sine Feavrtowy \S as
 
 fry = Se *\ Fee) Sinoods
 _ SGC (&)sivends
@@ -2142,7 +2113,6 @@ Q
 & a — (pra)
 rT
 
-ia ule n LL --t — [y 7)
 a mn Harr is “a
 
 D
@@ -2205,7 +2175,6 @@ is orthogonal over (0, *).
 
 dln) = (os (zm!) » , WOM A hae
 y/e cle
-| fe (n) fp in) dn = | tot (rmti) » jos (r04Dan a
 
 , _— dna)
 
@@ -2315,7 +2284,6 @@ where he &
 
 ?
 
-f l oo f [ot won dy
 
 2 ”
 ge a) (ot
@@ -2418,7 +2386,6 @@ b. | Examine Lf } using convolution theorem
 Ss
 (s?+25)(s?+9).
 
-DR ROR RK QD] RRR RK RK
 --- page 22 ---
 Step 1: Express as product (1 mark)
 8° é 5
@@ -2482,7 +2449,6 @@ seeeseeee (01 Mark)
 by = 2
 seeeseaee (01 Mark)
 a oo oo
-f@® = J+ Mn cose + 2 bn sin ax
 = n=
 sevesene (01 Mark)
 1 2 ~ cosmx 1.
@@ -2504,6 +2470,8 @@ FIR ICR 2 I OH
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_AI_7051/Integral Transforms/ANS_Integral Transforms(702BS0C091)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (23 pages), mean OCR confidence 52.4
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2681,7 +2649,6 @@ Find the finite Fourier cosine transform of f(x) = x2,0<x<L.
 
 FIC DI EH ar
 --- page 6 ---
-2Cb) Find the fate Foumer canine tomfanme o f
 
 F(X)2 2% gemee
 
@@ -2734,7 +2701,6 @@ Ne,
 * 4
 
 |
-Wh ase a ou ft ssi me (01)
 2.if arwe le ne
 
 a= J oJ os
@@ -2768,7 +2734,6 @@ a. | Find the Fourier series of f(x) = x? in (—1,7). 6
 
 nan Ky Ag Sa ssepscoacinns (0)
 
-EB FiS.. Pe bn fo nx — (7)
 n=)
 
 ee Lak #
@@ -2784,7 +2749,6 @@ n
 (48)
 
 n=
-= Loe i° (tes 0) be [vs an P
 —_" een _
 p n oe
 
@@ -2804,12 +2768,10 @@ Perr er re.
 --- page 9 ---
 b. | Find Fourier sine transform of f(x) = — hence evaluate J. tan“*(*) sinx dx.
 
-m2) Aid +e -Rurier Gue Feavatowm 9. FOP = 2°" lence
 evrebnote _S daw? (Heivadn :
 O> covsider Fee) = f= Ol fe ») Si Soc)
 ae nad wae as
 
-Biyhorertech! Wort S en bot. sYea .
 
 GzP = (29'S 2 (eines)dn= ef Sons ft
 = Ee y= — “eyssmdo,
@@ -2824,7 +2786,6 @@ Ca Ods 5 & Satz as?
 
 os = son =], as
 yy ec) = <_ Fou ey 49 dfea(S
-Tuyeme -euner sine Feavrtowy \S as
 
 fry = Se *\ Fee) Sinoods
 _ SGC (&)sivends
@@ -3000,7 +2961,6 @@ Q
 & a — (pra)
 rT
 
-ia ule n LL --t — [y 7)
 a mn Harr is “a
 
 D
@@ -3063,7 +3023,6 @@ is orthogonal over (0, *).
 
 dln) = (os (zm!) » , WOM A hae
 y/e cle
-| fe (n) fp in) dn = | tot (rmti) » jos (r04Dan a
 
 , _— dna)
 
@@ -3173,7 +3132,6 @@ where he &
 
 ?
 
-f l oo f [ot won dy
 
 2 ”
 ge a) (ot
@@ -3276,7 +3234,6 @@ b. | Examine Lf } using convolution theorem
 Ss
 (s?+25)(s?+9).
 
-DR ROR RK QD] RRR RK RK
 --- page 22 ---
 Step 1: Express as product (1 mark)
 8° é 5
@@ -3340,7 +3297,6 @@ seeeseeee (01 Mark)
 by = 2
 seeeseaee (01 Mark)
 a oo oo
-f@® = J+ Mn cose + 2 bn sin ax
 = n=
 sevesene (01 Mark)
 1 2 ~ cosmx 1.
@@ -3362,6 +3318,8 @@ FIR ICR 2 I OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AIDS_7056/Integral Transforms/ANS_Integral Transforms(702BS0C091)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (23 pages), mean OCR confidence 49.5
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3400,11 +3358,9 @@ Fouases sesres vf
 2
 
 {0~D => wm — 2 Fn (2,2),
-solubien » Giruer fun abhor ys ao aver function,
 
 -- bn =o — (017)
 = pin
-Sn a {lI = ap + a an bos OF
 fet Lae d&
 
 a 2
@@ -3448,7 +3404,6 @@ f(x) =e" for x = 0.
 
 FIC 2 I HH ar
 --- page 3 ---
-0) 0 pind h hates (offre taaas fos mo of
 
 fla) e rae fy do.
 
@@ -3600,7 +3555,6 @@ of flajs Sr gplnd#F,
 
 /
 
-tite F, (0) = [ye i [222) dy oi
 
 4
 7 pir
@@ -3651,7 +3605,6 @@ n=1,3,5,...
 og
 
 f (~) = ay 7 : is) om
-* Be [an let OP by te 2)
 fur 2422 3 45) L. [or
 
 at =
@@ -3671,7 +3624,6 @@ i
 oi
 
 od i
-bo = OY fle) he vn bn
 0
 
 4a (-1)
@@ -3730,7 +3682,6 @@ Find the Fourier transform of
 Co-
 
 1, _ (1 |x|, |x| <1
-so- |b T= lo Ix] >1
 BL- in2
 
 3 and hence determine f° a * dx.
@@ -3754,7 +3705,6 @@ _— lun)
 JF
 
 L 1 CF fot Sn ds
-an {lm Jes TT Go a
 
 i]
 oJ 1”)
@@ -3843,7 +3793,6 @@ DR ROR RK 13 FRR RR
 nm 12’
 n=1
 
-a.) Hue tlm) #6 ao eneo fuecboo.
 
 ke @ ol fide [tar
 
@@ -3932,7 +3881,6 @@ BL-
 
 where f(t + 2) = f(t).
 
-a6) @ (iven hun chan 1's puto de wifh
 
 pulod Joe, — [9 )
 ret fies
@@ -3973,7 +3921,6 @@ AOR AO CK
 FR RK
 --- page 19 ---
 9.610
-Nh} ada hAf Bar Fal Hoa ftsest
 
 ‘
 tos flr) z= a pena ys
@@ -4096,7 +4043,6 @@ t au
 c ibe y.e du
 a Au
 
-DR ROR RK QD HR RK KR RK
 --- page 23 ---
 So-
 
@@ -4150,6 +4096,8 @@ FIR ICR 2 I OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AIML_7053/Integral Transforms/ANS_Integral Transforms(702BS0C091)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (23 pages), mean OCR confidence 49.5
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4188,11 +4136,9 @@ Fouases sesres vf
 2
 
 {0~D => wm — 2 Fn (2,2),
-solubien » Giruer fun abhor ys ao aver function,
 
 -- bn =o — (017)
 = pin
-Sn a {lI = ap + a an bos OF
 fet Lae d&
 
 a 2
@@ -4236,7 +4182,6 @@ f(x) =e" for x = 0.
 
 FIC 2 I HH ar
 --- page 3 ---
-0) 0 pind h hates (offre taaas fos mo of
 
 fla) e rae fy do.
 
@@ -4388,7 +4333,6 @@ of flajs Sr gplnd#F,
 
 /
 
-tite F, (0) = [ye i [222) dy oi
 
 4
 7 pir
@@ -4439,7 +4383,6 @@ n=1,3,5,...
 og
 
 f (~) = ay 7 : is) om
-* Be [an let OP by te 2)
 fur 2422 3 45) L. [or
 
 at =
@@ -4459,7 +4402,6 @@ i
 oi
 
 od i
-bo = OY fle) he vn bn
 0
 
 4a (-1)
@@ -4518,7 +4460,6 @@ Find the Fourier transform of
 Co-
 
 1, _ (1 |x|, |x| <1
-so- |b T= lo Ix] >1
 BL- in2
 
 3 and hence determine f° a * dx.
@@ -4542,7 +4483,6 @@ _— lun)
 JF
 
 L 1 CF fot Sn ds
-an {lm Jes TT Go a
 
 i]
 oJ 1”)
@@ -4631,7 +4571,6 @@ DR ROR RK 13 FRR RR
 nm 12’
 n=1
 
-a.) Hue tlm) #6 ao eneo fuecboo.
 
 ke @ ol fide [tar
 
@@ -4720,7 +4659,6 @@ BL-
 
 where f(t + 2) = f(t).
 
-a6) @ (iven hun chan 1's puto de wifh
 
 pulod Joe, — [9 )
 ret fies
@@ -4761,7 +4699,6 @@ AOR AO CK
 FR RK
 --- page 19 ---
 9.610
-Nh} ada hAf Bar Fal Hoa ftsest
 
 ‘
 tos flr) z= a pena ys
@@ -4884,7 +4821,6 @@ t au
 c ibe y.e du
 a Au
 
-DR ROR RK QD HR RK KR RK
 --- page 23 ---
 So-
 
@@ -4938,6 +4874,8 @@ FIR ICR 2 I OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AI_7012/Integral Transforms/ANS_Integral Transforms(702BS0C091)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (23 pages), mean OCR confidence 49.5
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4976,11 +4914,9 @@ Fouases sesres vf
 2
 
 {0~D => wm — 2 Fn (2,2),
-solubien » Giruer fun abhor ys ao aver function,
 
 -- bn =o — (017)
 = pin
-Sn a {lI = ap + a an bos OF
 fet Lae d&
 
 a 2
@@ -5024,7 +4960,6 @@ f(x) =e" for x = 0.
 
 FIC 2 I HH ar
 --- page 3 ---
-0) 0 pind h hates (offre taaas fos mo of
 
 fla) e rae fy do.
 
@@ -5176,7 +5111,6 @@ of flajs Sr gplnd#F,
 
 /
 
-tite F, (0) = [ye i [222) dy oi
 
 4
 7 pir
@@ -5227,7 +5161,6 @@ n=1,3,5,...
 og
 
 f (~) = ay 7 : is) om
-* Be [an let OP by te 2)
 fur 2422 3 45) L. [or
 
 at =
@@ -5247,7 +5180,6 @@ i
 oi
 
 od i
-bo = OY fle) he vn bn
 0
 
 4a (-1)
@@ -5306,7 +5238,6 @@ Find the Fourier transform of
 Co-
 
 1, _ (1 |x|, |x| <1
-so- |b T= lo Ix] >1
 BL- in2
 
 3 and hence determine f° a * dx.
@@ -5330,7 +5261,6 @@ _— lun)
 JF
 
 L 1 CF fot Sn ds
-an {lm Jes TT Go a
 
 i]
 oJ 1”)
@@ -5419,7 +5349,6 @@ DR ROR RK 13 FRR RR
 nm 12’
 n=1
 
-a.) Hue tlm) #6 ao eneo fuecboo.
 
 ke @ ol fide [tar
 
@@ -5508,7 +5437,6 @@ BL-
 
 where f(t + 2) = f(t).
 
-a6) @ (iven hun chan 1's puto de wifh
 
 pulod Joe, — [9 )
 ret fies
@@ -5549,7 +5477,6 @@ AOR AO CK
 FR RK
 --- page 19 ---
 9.610
-Nh} ada hAf Bar Fal Hoa ftsest
 
 ‘
 tos flr) z= a pena ys
@@ -5672,7 +5599,6 @@ t au
 c ibe y.e du
 a Au
 
-DR ROR RK QD HR RK KR RK
 --- page 23 ---
 So-
 
@@ -5726,6 +5652,8 @@ FIR ICR 2 I OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/MBATech_AI_7051/Integral Transforms/ANS_Integral Transforms(702BS0C091)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (23 pages), mean OCR confidence 49.5
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5764,11 +5692,9 @@ Fouases sesres vf
 2
 
 {0~D => wm — 2 Fn (2,2),
-solubien » Giruer fun abhor ys ao aver function,
 
 -- bn =o — (017)
 = pin
-Sn a {lI = ap + a an bos OF
 fet Lae d&
 
 a 2
@@ -5812,7 +5738,6 @@ f(x) =e" for x = 0.
 
 FIC 2 I HH ar
 --- page 3 ---
-0) 0 pind h hates (offre taaas fos mo of
 
 fla) e rae fy do.
 
@@ -5964,7 +5889,6 @@ of flajs Sr gplnd#F,
 
 /
 
-tite F, (0) = [ye i [222) dy oi
 
 4
 7 pir
@@ -6015,7 +5939,6 @@ n=1,3,5,...
 og
 
 f (~) = ay 7 : is) om
-* Be [an let OP by te 2)
 fur 2422 3 45) L. [or
 
 at =
@@ -6035,7 +5958,6 @@ i
 oi
 
 od i
-bo = OY fle) he vn bn
 0
 
 4a (-1)
@@ -6094,7 +6016,6 @@ Find the Fourier transform of
 Co-
 
 1, _ (1 |x|, |x| <1
-so- |b T= lo Ix] >1
 BL- in2
 
 3 and hence determine f° a * dx.
@@ -6118,7 +6039,6 @@ _— lun)
 JF
 
 L 1 CF fot Sn ds
-an {lm Jes TT Go a
 
 i]
 oJ 1”)
@@ -6207,7 +6127,6 @@ DR ROR RK 13 FRR RR
 nm 12’
 n=1
 
-a.) Hue tlm) #6 ao eneo fuecboo.
 
 ke @ ol fide [tar
 
@@ -6296,7 +6215,6 @@ BL-
 
 where f(t + 2) = f(t).
 
-a6) @ (iven hun chan 1's puto de wifh
 
 pulod Joe, — [9 )
 ret fies
@@ -6337,7 +6255,6 @@ AOR AO CK
 FR RK
 --- page 19 ---
 9.610
-Nh} ada hAf Bar Fal Hoa ftsest
 
 ‘
 tos flr) z= a pena ys
@@ -6460,7 +6377,6 @@ t au
 c ibe y.e du
 a Au
 
-DR ROR RK QD HR RK KR RK
 --- page 23 ---
 So-
 

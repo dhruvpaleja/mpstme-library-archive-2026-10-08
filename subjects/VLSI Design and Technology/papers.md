@@ -448,6 +448,105 @@ d) Enhancement v/s Depletion type pull-ups
 A
 ````
 
+## 2015-16 · Re-Exam · Sem 7 · paper 4fcbfb7aa8e9
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/VLSI DESIGN AND TECHNOLOGY/VLSI DESIGN AND TECHNOLOGY B TECH (ELECTRONICS), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 26/11/2015
+- Text: ocr (2 pages), mean OCR confidence 86.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Electronics) Year: IV Semester: VII
+
+Batch: 2014-2015
+Academic Year: 2015-2016
+
+; “at Ra
+i Subject: VLSI Design and Technology fg Ne .
+: Marks: Hel « _
+
+Date: 26/11/2015 Time:
+Duration:
+
+Re-Examination
+
+Note: 1. Question Nol is compulsory.
+2. Out of the remaining 6 attempt any 4 questions
+3. Total five questions have to be attempted.
+4. All Questions carry equal marks
+5. Answers to each new question should start on a new page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Boltzman's Constant k = 1.38 x 1073 JK, q = 1.6x 107? C, &s = 1.035 x 10”? Flag
+
+QI. Answer any 4 [ax4 =12)
+
+a) Draw the circuit, stick and layout diagram depletion mode pull —up (AR = 2) NMOS
+NOR gate with design rules.
+
+b) Describe ASIC and its advantages.
+
+c) Describe noise — margin and explain high and low limits of noise — margins.
+
+d) Describe photolithography.
+
+e) Comment on various testing methodology employed in IC testing.
+
+Q2.
+
+a) Determine the drain — to — source voltage for an nMOS FET (aD
+kl = S0nA/V*, Vii =0.8V, Vos = 5V and Ip = 50nA.
+
+b) Determine the depletion region charge Qgo for a FET with the following parameters at (4)
+room temperature. tx = 400 A, Ng=1.5x1 0 / cm’.
+
+c) Schematically explain the various steps involved in pMOS FET fabrication CS)
+iil
+
+Q3. °
+sti a) Discuss different types of passive and active load pull — up FETs used in design of C 6)
+
+NMOS and CMOS inverters.
+
+b) Describe Transit time and derive an expression for transit time for a charge in channel. ( %)
+
+Ya
+--- page 2 ---
+c) Calculate the time taken by electrons cross a channel of length 4ym for a Vop = 5V. CH)
+
+Q4.
+
+a) For a long poly — Si transmission line, derive the expression for propagation delay as Ce)
+proportional the length of the line.
+
+b) Draw the complete circuit of CMOS super-buffer and describe the working. ce]
+Qs.
+a) Discuss the nMOS function block for two variables. ced
+
+b) Estimate the propagation delay (tg) of a nMOS inverter with a depletion mode pull -up £6]
+with Cy = 31fF, tn = 800 ent’ /Vs, Zpu = 2 and Zpa= 0.5.
+
+Q6.
+a) Discuss the problem of latch — up in scaled CMOS circuits. ced
+b) Draw 6 transistor SRAM cell cag
+
+Q7. Write short notes on
+C12)
+
+a) Linear and Saturation operation of FET
+
+b) Hot electron effect
+
+c) CMOS Design rules
+
+d) Butting and Buried Contacts.
+
+RRKKEK
+````
+
 ## 2014-15 · Final-Exam · Sem 7 · paper 7c772cb47f6a
 
 - Departments: Electronics
@@ -586,6 +685,7 @@ ea
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/VLSI DESIGN AND TECH/VLSI DESIGN AND TECHNOLOGY B TECH (EXTC), 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01/12/2014
 - Text: ocr (1 page), mean OCR confidence 73.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -629,7 +729,6 @@ lc): Enumerate five different CAD tools in VLSI.
 le): Testing IC chips.
 11): MOSFET threshold voltage.
 Q2a: Draw the output characteristics of MOSFET and derive an expression for current in the linear and
-SALAS TEBION... «2 romana sc ascumies ss satvetenis s namatenna a nate Fs saivnas 44 aalees 5 e mmTeG. 2 4 MeO 4 0 v5 aememee 4 & sore D8 a8
 2b: Indicate the different FET capacitances with the help of a diagram...............ce cee
 Q3 eGonipare NMOS aiid CMOS i1VETteTSs soc: « asm +s cares = « vemens & ¢ camtenes 513 eases 4 64 xermaren 2 +9 eee 3 4 (20).
 Q4a: Explain latch up in bulk CMOS. How can it be avoided............ cece cece cece eeee eee eeeeeeene es
@@ -645,105 +744,6 @@ realize AND OR NAND NOR and XOR gates...........0.ccccecceee cee eeeeeeeee eee e
 
 ? la
 “v;
-````
-
-## 2014-15 · Re-Exam · Sem 7 · paper 4fcbfb7aa8e9
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/VLSI DESIGN AND TECHNOLOGY/VLSI DESIGN AND TECHNOLOGY B TECH (ELECTRONICS), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 26/11/2015
-- Text: ocr (2 pages), mean OCR confidence 86.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Electronics) Year: IV Semester: VII
-
-Batch: 2014-2015
-Academic Year: 2015-2016
-
-; “at Ra
-i Subject: VLSI Design and Technology fg Ne .
-: Marks: Hel « _
-
-Date: 26/11/2015 Time:
-Duration:
-
-Re-Examination
-
-Note: 1. Question Nol is compulsory.
-2. Out of the remaining 6 attempt any 4 questions
-3. Total five questions have to be attempted.
-4. All Questions carry equal marks
-5. Answers to each new question should start on a new page.
-6. Figures in brackets on the right hand side indicate full marks.
-7. Boltzman's Constant k = 1.38 x 1073 JK, q = 1.6x 107? C, &s = 1.035 x 10”? Flag
-
-QI. Answer any 4 [ax4 =12)
-
-a) Draw the circuit, stick and layout diagram depletion mode pull —up (AR = 2) NMOS
-NOR gate with design rules.
-
-b) Describe ASIC and its advantages.
-
-c) Describe noise — margin and explain high and low limits of noise — margins.
-
-d) Describe photolithography.
-
-e) Comment on various testing methodology employed in IC testing.
-
-Q2.
-
-a) Determine the drain — to — source voltage for an nMOS FET (aD
-kl = S0nA/V*, Vii =0.8V, Vos = 5V and Ip = 50nA.
-
-b) Determine the depletion region charge Qgo for a FET with the following parameters at (4)
-room temperature. tx = 400 A, Ng=1.5x1 0 / cm’.
-
-c) Schematically explain the various steps involved in pMOS FET fabrication CS)
-iil
-
-Q3. °
-sti a) Discuss different types of passive and active load pull — up FETs used in design of C 6)
-
-NMOS and CMOS inverters.
-
-b) Describe Transit time and derive an expression for transit time for a charge in channel. ( %)
-
-Ya
---- page 2 ---
-c) Calculate the time taken by electrons cross a channel of length 4ym for a Vop = 5V. CH)
-
-Q4.
-
-a) For a long poly — Si transmission line, derive the expression for propagation delay as Ce)
-proportional the length of the line.
-
-b) Draw the complete circuit of CMOS super-buffer and describe the working. ce]
-Qs.
-a) Discuss the nMOS function block for two variables. ced
-
-b) Estimate the propagation delay (tg) of a nMOS inverter with a depletion mode pull -up £6]
-with Cy = 31fF, tn = 800 ent’ /Vs, Zpu = 2 and Zpa= 0.5.
-
-Q6.
-a) Discuss the problem of latch — up in scaled CMOS circuits. ced
-b) Draw 6 transistor SRAM cell cag
-
-Q7. Write short notes on
-C12)
-
-a) Linear and Saturation operation of FET
-
-b) Hot electron effect
-
-c) CMOS Design rules
-
-d) Butting and Buried Contacts.
-
-RRKKEK
 ````
 
 ## 2014-15 · Re-Exam · Sem 7 · paper 57c963ff098c
@@ -952,6 +952,7 @@ Q\2
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/VLSI DESIGN AND TECH/VLSI DESIGN AND TECHNOLOGY B TECH (EXTC), 2013-14 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05/12/2013
 - Text: ocr (2 pages), mean OCR confidence 84.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS ¥ OY
@@ -1004,12 +1005,10 @@ Q:5 ) What is a pass transistor? Using pass transistor logic, design a functiona
 block using two NMOS pass transistors to implement AND, NAND, OR, NOR,
 XOR, and XNOR gate and draw stick diagrams for NAND and NOR
 
-STRUCT TUN CS sincera remeien axaceremnn ears mo enema HaRENCETEEER NST nmEeaeeDO
 
 Q: 6a) What are transit and switching times for an inverter?
 
 Calculate the time for an electron to cross a channel of length 3 microns if Vdd
-1S5 VOUS .c..s..eccnsesnsenadenisceacas nesiescansvenrssesesssstsave owes cea sveavessedeumsuascens ae aneensceresnnaenmneenee LOS
 
 6b) For a capacitive load for an NMOS inverter, explain rise time and fall time
 for a step input. Explain propagation delay, with respect to a NMOS inverter

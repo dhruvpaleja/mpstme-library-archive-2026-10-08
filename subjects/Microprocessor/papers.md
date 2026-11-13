@@ -4,6 +4,80 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2012-13 · Exam not stated · Trim 4 · paper c4cfd2c02cf4
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/MICROPROCESSER/scan0073.pdf`
+- Printed on paper: max marks: 100; exam date: 27/10/2012
+- Text: ocr (1 page), mean OCR confidence 91.0
+
+````text
+SVKM’s NMIMS Ze. SCHOO,
+Mukesh Patel School Of Technology Management & Enginee PONSA Oe
+
+Programme: MBA (Tech) (COMP) Year: Il Trimester: IV
+Academic Year : 2012-2013
+
+Subject: MICROPROCESSOR Marks: 100
+Time: 2.00p
+Date: 27/10/2012 Duration: 3
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+On the cover of the answer book, which is provided for their use.
+NB: :
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
+
+Q1. Attempt All
+
+A) Discuss Programmable model of 8086 with diagram. 10
+‘B) Explain Addressing modes of 8086. 10
+Q2 .Attempt All ,
+; A) Write Features of 8086 co-processor. 10
+B) What does the CPU do when it receive an interrupt? How do you enable and disable 10
+interrupts in 8086.
+
+Q3. Attempt All
+A) Explain the working of 8288 with the help of suitable diagram. Also explain Memory 10
+Interface of 8086 in Max mode. 10
+B) Explain Interfacing between 8086 and NDP.
+Q4. Attempt All
+
+A) Explain the working of 8259 in cascade mode 10
+B) Explain what happen if 10
+a) On RESET of 8086 content of each internal register
+b) When READY pin is low.
+c) LOCK instruction Executed.
+S Attempt All
+A) Draw and Explain IC 8279 programmable Keyboard / display interface. 10
+_ B)_ Drawand explain IC 8253 software programmable timer /counter. 10
+Q6. Attempt All
+A) Draw and explain 8257 DMA controller. 10
+B) Explain why we use Assembler Directives with the help of following. 10
+
+1)EXTRN 2)LABEL 3) OFFSET 4)SEGMENTS AND END 5) PTR
+Q7. Attempt (Any 4)
+
+A). Timing Diagram for 8086. 05
+B) Discuss why Physical Address Generation in require in 8086 with example. 05 |
+C) Write a note on Memory module in 8051. 05
+D) Explain the difference between NEAR and FAR procedure of 8086 processor 05
+E) Compare Procedure and Macro 05
+
+F) List and Discuss Addressing mode of 8087. 05
+
+va
+/
+
+Komen
+````
+
 ## 2012-13 · Exam not stated · Trim 5 · paper d96ad2f8327b
 
 - Departments: Computer Engineering, Information Technology
@@ -776,78 +850,4 @@ b. Explain serial communication in 8051.
 10
 
 10
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper c4cfd2c02cf4
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/MICROPROCESSER/scan0073.pdf`
-- Printed on paper: max marks: 100; exam date: 27/10/2012
-- Text: ocr (1 page), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS Ze. SCHOO,
-Mukesh Patel School Of Technology Management & Enginee PONSA Oe
-
-Programme: MBA (Tech) (COMP) Year: Il Trimester: IV
-Academic Year : 2012-2013
-
-Subject: MICROPROCESSOR Marks: 100
-Time: 2.00p
-Date: 27/10/2012 Duration: 3
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-On the cover of the answer book, which is provided for their use.
-NB: :
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate full marks.
-
-Q1. Attempt All
-
-A) Discuss Programmable model of 8086 with diagram. 10
-‘B) Explain Addressing modes of 8086. 10
-Q2 .Attempt All ,
-; A) Write Features of 8086 co-processor. 10
-B) What does the CPU do when it receive an interrupt? How do you enable and disable 10
-interrupts in 8086.
-
-Q3. Attempt All
-A) Explain the working of 8288 with the help of suitable diagram. Also explain Memory 10
-Interface of 8086 in Max mode. 10
-B) Explain Interfacing between 8086 and NDP.
-Q4. Attempt All
-
-A) Explain the working of 8259 in cascade mode 10
-B) Explain what happen if 10
-a) On RESET of 8086 content of each internal register
-b) When READY pin is low.
-c) LOCK instruction Executed.
-S Attempt All
-A) Draw and Explain IC 8279 programmable Keyboard / display interface. 10
-_ B)_ Drawand explain IC 8253 software programmable timer /counter. 10
-Q6. Attempt All
-A) Draw and explain 8257 DMA controller. 10
-B) Explain why we use Assembler Directives with the help of following. 10
-
-1)EXTRN 2)LABEL 3) OFFSET 4)SEGMENTS AND END 5) PTR
-Q7. Attempt (Any 4)
-
-A). Timing Diagram for 8086. 05
-B) Discuss why Physical Address Generation in require in 8086 with example. 05 |
-C) Write a note on Memory module in 8051. 05
-D) Explain the difference between NEAR and FAR procedure of 8086 processor 05
-E) Compare Procedure and Macro 05
-
-F) List and Discuss Addressing mode of 8087. 05
-
-va
-/
-
-Komen
 ````

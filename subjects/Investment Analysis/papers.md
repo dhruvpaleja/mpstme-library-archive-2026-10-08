@@ -1,6 +1,6 @@
 # Investment Analysis: question papers in full
 
-3 unique papers · 2024-25 to 2025-26 · Computer Engineering, Common (all branches)
+3 unique papers · 2023-24 to 2025-26 · Computer Engineering, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -166,7 +166,7 @@ Yee 4. : ia . _ B.,
 gig
 ````
 
-## 2024-25 · Final-Exam · Sem 9 · paper 67e8a62f825e
+## 2023-24 · Final-Exam · Sem 9 · paper 67e8a62f825e
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH

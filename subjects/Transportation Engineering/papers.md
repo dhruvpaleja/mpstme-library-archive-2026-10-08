@@ -296,6 +296,116 @@ is 0.35 %, calculate the length of runway to be provided.
 2 |
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper 262d0cdad6ca
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/TRANSPORTATION ENGINEERING/Transportation Engineering Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 5/ 7/2024
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
+
+; Academic Year: 2023-2024
+
+Program: B.Tech. / B.Tech: Integrated Year: I ySemester: IV/vVa
+
+Stream: Civil Engineering
+
+Subject: Transportation Engineering Time: 03 hrs (10.00 am — 1.00 pm)
+Date: 5/ 7/2024 No. of Pages: 02
+Marks: 100
+
+'RE-EX AM (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+CO-2; SO-2; | a. | What are the various requirements of an ideal highway alignment? Discuss
+BL-2 briefly.
+CO-2; SO-2; |b. | How is the widening of pavements introduced in the field?
+BL-2 What is off-tracking? Give sketch.
+CO-2; SO-2; | c. | What are the various tests carried out on bitumen? Briefly mention uses of
+BL-3 each test.
+C0-3: $0-2: d. | Give reasons for the following: ;
+BL3 > 1. The orientation of runway along the head wind is desirable.
+
+2. It is necessary to know the minimum turning radius of an aircraft.
+
+a. | Find the total width of pavement on a horizontal curve for a new national
+highway to be aligned with horizontal curve of 200 m radius. Assume | [08]
+Q suitable data.
+CO-1; SO-1; .
+BL-5 e Classify roads as per Nagpur road plan. [06]
+Design the rate of superelevation for a horizontal highway curve of radius [06]
+500 m and speed 100 kmph.
+a. | Discuss different types of valley curves with sketch in detail. [08]
+8 b. | The speed of overtaking and overtaken vehicles are 70 and 40 kmph on a
+CO-2; SO-1; two-way traffic road. The average acceleration during overtaking may be [12]
+BL-4 assumed as 0.99 m/s?,
+
+1. Calculate safe overtaking sight distance
+
+Yo.
+--- page 2 ---
+2. What is the minimum length of overtaking zone? a<et
+3. Draw a neat sketch of overtaking zone and show the positions of the
+sign posts.
+
+4 Explain with sketches various factors controlling the alignment of road. [10]
+
+CO-2: SO-1: b. | What are the various types of traffic marking commonly used? What are the 06
+BL-3 > uses of each? Biel
+
+What is the significance of road user characteristics in traffic engineering? | [04]
+
+5 With neat sketch show some of the important types of regulatory signs and [12]
+
+Q warning signs. Mention the function of each.
+
+CO-1; SO-2;
+
+BL-4 b. | Define a permanent way. Mention its components and functions with sketch. | [04]
+Using sleeper density of M+5, find out the numbers of sleepers required for [04]
+constructing a railway track 640 m long (BG).
+
+a.
+06 Explain different types of signals used in station-yards. [10]
+CO-3; SO-2; | 6. | Discuss the necessity and effects of coning of wheels of rails along with [06]
+
+BL-2 sketch.
+
+Enumerate advantages and disadvantages of air transport. [04]
+
+a. | What are the different important components of an airport layout? Discuss [10]
+any five in detail.
+
+all b. | An airport is proposed at an elevation of 400 m above mean sea level where
+CO-3; SO-1; the mean of maximum and mean of average daily temperatures of the hottest
+BL-4 months are 44.8° C and 26.2° C respectively. The maximum elevation | [10]
+
+difference along the proposed profile of runway is 6.3 m. If the basic length
+of runway is 1260 m, determine the actual length of runway to be provided.
+````
+
 ## 2022-23 · Final-Exam · Sem 4 · paper 66f5e2e3127e
 
 - Departments: Civil
@@ -542,116 +652,6 @@ BL-4 proposed runway permits ascending gradient of 0.5%. Design the longitudinal
 ‘profile of runway.
 
 Zn
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper 262d0cdad6ca
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/TRANSPORTATION ENGINEERING/Transportation Engineering Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 5/ 7/2024
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
-
-; Academic Year: 2023-2024
-
-Program: B.Tech. / B.Tech: Integrated Year: I ySemester: IV/vVa
-
-Stream: Civil Engineering
-
-Subject: Transportation Engineering Time: 03 hrs (10.00 am — 1.00 pm)
-Date: 5/ 7/2024 No. of Pages: 02
-Marks: 100
-
-'RE-EX AM (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-CO-2; SO-2; | a. | What are the various requirements of an ideal highway alignment? Discuss
-BL-2 briefly.
-CO-2; SO-2; |b. | How is the widening of pavements introduced in the field?
-BL-2 What is off-tracking? Give sketch.
-CO-2; SO-2; | c. | What are the various tests carried out on bitumen? Briefly mention uses of
-BL-3 each test.
-C0-3: $0-2: d. | Give reasons for the following: ;
-BL3 > 1. The orientation of runway along the head wind is desirable.
-
-2. It is necessary to know the minimum turning radius of an aircraft.
-
-a. | Find the total width of pavement on a horizontal curve for a new national
-highway to be aligned with horizontal curve of 200 m radius. Assume | [08]
-Q suitable data.
-CO-1; SO-1; .
-BL-5 e Classify roads as per Nagpur road plan. [06]
-Design the rate of superelevation for a horizontal highway curve of radius [06]
-500 m and speed 100 kmph.
-a. | Discuss different types of valley curves with sketch in detail. [08]
-8 b. | The speed of overtaking and overtaken vehicles are 70 and 40 kmph on a
-CO-2; SO-1; two-way traffic road. The average acceleration during overtaking may be [12]
-BL-4 assumed as 0.99 m/s?,
-
-1. Calculate safe overtaking sight distance
-
-Yo.
---- page 2 ---
-2. What is the minimum length of overtaking zone? a<et
-3. Draw a neat sketch of overtaking zone and show the positions of the
-sign posts.
-
-4 Explain with sketches various factors controlling the alignment of road. [10]
-
-CO-2: SO-1: b. | What are the various types of traffic marking commonly used? What are the 06
-BL-3 > uses of each? Biel
-
-What is the significance of road user characteristics in traffic engineering? | [04]
-
-5 With neat sketch show some of the important types of regulatory signs and [12]
-
-Q warning signs. Mention the function of each.
-
-CO-1; SO-2;
-
-BL-4 b. | Define a permanent way. Mention its components and functions with sketch. | [04]
-Using sleeper density of M+5, find out the numbers of sleepers required for [04]
-constructing a railway track 640 m long (BG).
-
-a.
-06 Explain different types of signals used in station-yards. [10]
-CO-3; SO-2; | 6. | Discuss the necessity and effects of coning of wheels of rails along with [06]
-
-BL-2 sketch.
-
-Enumerate advantages and disadvantages of air transport. [04]
-
-a. | What are the different important components of an airport layout? Discuss [10]
-any five in detail.
-
-all b. | An airport is proposed at an elevation of 400 m above mean sea level where
-CO-3; SO-1; the mean of maximum and mean of average daily temperatures of the hottest
-BL-4 months are 44.8° C and 26.2° C respectively. The maximum elevation | [10]
-
-difference along the proposed profile of runway is 6.3 m. If the basic length
-of runway is 1260 m, determine the actual length of runway to be provided.
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper 81204f4485be
@@ -1226,6 +1226,84 @@ c F .
 ) New Austrian Tunneling method.
 ````
 
+## 2016-17 · Re-Exam · Sem 6 · paper 1f1190df8928
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/TRANSPORTATION ENGINEERING/TRANSPORTATION ENGINEERING BATCH 15-16 RE EXAM(1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 19 May 2017
+- Text: ocr (2 pages), mean OCR confidence 84.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+- SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
+
+a s,
+Programme: B. Tech (CIVIL) Year: III Semester: VI a7, a =
+a ‘ie yPSTMB
+Academic Year: 2016-2017 v En LIBRARY Y
+X
+i
+} Subject: Transportation Engineering NOT NO
+Marks: 60
+Date: 19 May 2017 Time: 2.00 pm to —— pm
+
+Durations: 3 (hrs)
+No. of Pages: _2.
+Final Examinations (Batch 2016-2017)/
+Re-Examination (Batch 2015-2016)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. 5
+
+QI. Explain the following briefly - (12)
+
+Q2. (12)
+a) Discuss the role of Airport Authority of India for functioning of Airports in India
+b) Explain causes of currents and its effects.
+
+Q3. (12)
+a) Explain various methods for “Tunnel ventilation”.
+b) Write a short note on wind rose diagram.
+
+Q4. (12)
+a) Explain the planning concept of terminal building, draw sketches.
+b) Compare transit shed and warehouse.
+
+—= Q5. (12)
+a) Explain significance of Buoys and LORAN.
+b) Draw the schematic diagram of harbour layout showing all components and briefly write function of
+
+aad each.
+
+Page 1 of 2
+--- page 2 ---
+
+a) Discuss various drainage systems for tunnel.
+b) Discuss about advantages and disadvantage of air and water transportation.
+
+Q7. (12)
+a) Enlist methods of tunneling in soft ground, explain any two in detail.
+b) Explain Importance of Grading and Lighting system on Airport.
+
+Page 2 of 2
+````
+
 ## 2015-16 · Final-Exam · Sem 6 · paper 0b6470d8e22f
 
 - Departments: Civil
@@ -1427,37 +1505,41 @@ SSE 4.7 1.3 0 NNW 3.7 0.1 0
 (Yr)
 ````
 
-## 2015-16 · Re-Exam · Sem 6 · paper 1f1190df8928
+## 2015-16 · Re-Exam · Sem 6 · paper 6589023cac0c
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/TRANSPORTATION ENGINEERING/TRANSPORTATION ENGINEERING BATCH 15-16 RE EXAM(1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 19 May 2017
-- Text: ocr (2 pages), mean OCR confidence 84.9
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/TRANSPORTATION ENGINEERING/TRANSPORTATION ENGINEERING B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 18/05/2016
+- Text: ocr (2 pages), mean OCR confidence 90.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-- SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING.
 
-a s,
-Programme: B. Tech (CIVIL) Year: III Semester: VI a7, a =
-a ‘ie yPSTMB
-Academic Year: 2016-2017 v En LIBRARY Y
-X
+oe tava
+Programme: B.Tech (Civil) Year: III Semester: VI a, \
 i
-} Subject: Transportation Engineering NOT NO
-Marks: 60
-Date: 19 May 2017 Time: 2.00 pm to —— pm
+Academic Year: 2015-16 re
+Li RY
+Batch:2014-15 , a y
 
-Durations: 3 (hrs)
-No. of Pages: _2.
-Final Examinations (Batch 2016-2017)/
-Re-Examination (Batch 2015-2016)
+Noe rae
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Subject: Transportation Engineering . Marks: 60
+Time: 2.00 pm - 5.00 pm
+Date: 18/05/2016 Durations: 3 hrs.
 
-1) Question No. lis compulsory.
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+
+cover of the Answer Book, which is provided for their use.
+
+NB: %
+
+1) Question No. | is compulsory. :
 
 2) Out of remaining questions, attempt any four questions.
 
@@ -1466,44 +1548,74 @@ of the Answer Book, which is provided for their use.
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
 
-7) Assume Suitable data if necessary. 5
+7) Assume Suitable data if necessary
 
-QI. Explain the following briefly - (12)
-(a) Fenders (b) Wharf (c) RO-RO ferry (d) VTOL (e) CTOL (f) Hanger
+Qu.l: | Attempt any four:- 12
+(a) Short note on site selection criteria for harbor. 3
+(b) Enlist the points to be considered while designing geometrics.of 3
+runway as per ICAO.
 
-Q2. (12)
-a) Discuss the role of Airport Authority of India for functioning of Airports in India
-b) Explain causes of currents and its effects.
+(c) Short note on FRM.
+; 3
+~(d) Enlist all the imaginary surfaces and explain approach zone. P
+(e) Brief any one en route aircraft traffic control aid. 4
 
-Q3. (12)
-a) Explain various methods for “Tunnel ventilation”.
-b) Write a short note on wind rose diagram.
+(b) An airport is proposed at an elevation of 420m above mean sea leve] where
+the mean of the maximum and mean of the average daily temperatures of | 7
+the hottest month are 45°C and 25°C respectively. Length of the runway
+under standard condition is 2100 m, and the gradient is 0.20%. Determine
+aa the corrected runway length.
 
-Q4. (12)
-a) Explain the planning concept of terminal building, draw sketches.
-b) Compare transit shed and warehouse.
+pis Qu.3: (a) Classify various types of navigational aids used for harbor and ports, also} 6
+discuss lighthouse.
+(b) Design an exit taxiway joining a romway and a parallel main taxiway,
+having angle of turn as 45° and the turn off speed as 60 kph. Draw the | 6
+neat sketch and show the design element also.
 
-—= Q5. (12)
-a) Explain significance of Buoys and LORAN.
-b) Draw the schematic diagram of harbour layout showing all components and briefly write function of
-
-aad each.
-
-Page 1 of 2
+V2.
 --- page 2 ---
-Cia - a. 2 NOUR AOE, YOR Tee cere ee ters mere wt (E25
+Qu.4: (a) Describe about the excavation process opted in the construction stage of
+any tunnel.
+(b) What is the necessity of dredging? Describe mechanical dredgers with
+sketch.
 
-a) Discuss various drainage systems for tunnel.
-b) Discuss about advantages and disadvantage of air and water transportation.
+Qu.5: (a) Differentiate between mound type breakwater and wall type breakwater.
+(b) What are the various methods of tunneling in soft soil? Explain any two
+with sketch.
 
-Q7. (12)
-a) Enlist methods of tunneling in soft ground, explain any two in detail.
-b) Explain Importance of Grading and Lighting system on Airport.
+Ou.6: (a) Discuss the necessity of dry docks, also explain floating docs.
 
-Page 2 of 2
+(a) The data given below refers to the direction, duration and intensity of wind
+at a particular site for 10 years. Determine the calm period and orientation
+of runway. Assume cross wind component as 25 kmph, Determine the total
+wind coverage (E-W) direction.
+
+Wind Direction Duration of wind percent (kmph)
+6.4-25 25-50 50-75
+
+N 23 1.3 2.1
+NNE 44 4.0 0.2
+NE 3.2 5.5) 0.2
+EEN 13 4.5 1.2
+E 1.2 1.2 12
+EES 1.2 1.3 13
+SE 55 13 [13
+SSE 43 3 2.3
+S 4.1 0.2 2.3
+SSW 4.0 0.8 0.8
+Sw 2.5 1.9 0.8
+WWS 2.6 1.2 0.0
+Ww 2.1 1.2 0.0
+WWN 0.0 0.0 0.1
+NW 1.2 0.0 0.3
+NNW d.2 0.2 0.3
+
+Qu.7: | (a) What are the different parking configurations for an aircraft? Write down the | 6
+merits and demerits of each.
+
+(b) Draw a schematic diagram of harbor describing all the components 6
 ````
 
 ## 2015-16 · Re-Exam · Sem 6 · paper 828d5a3c2ac1
@@ -1591,6 +1703,206 @@ Q. 7 b) Explain the process of tunneling in hard rock. Explain the role of TBM.
 (04 marks)
 
 Q. 7 c) Explain about lighting and drainage in tunnels. (04 marks)
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper a9c363e45fef
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/TRANSPORTATION ENGINEERING/TRANSPORTATION ENGINEERING B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 06/05/2016
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Civil) Year: IV Semester: VIII
+Academic Year: 2015-16
+
+Batch:2014-15
+
+Subject: Transportation Engineering Marks: 60 Pipe
+
+Time: 10.00 am - 1.00 pm
+Durations: 3 hrs.
+
+Date: 06/05/2016
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and cn the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all OS” questions to be attempted:
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresli page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Ql Attempt any four (12)
+a) Factors for determination of size of Apron and Gates
+b) Aircraft components
+c) imaginary surfaces
+d) Lunar Tides
+e) Differences between Warf and Jetty
+
+Q2 (12)
+a) What is dry dock? What is the need and use of dry docks? Explain the advantages
+and disadvantages of floating type dry docks.
+b) Give Classification of Harbors and explain in detail. What are the requirements for
+good Harbors?
+
+Q3 U2)
+a) List the common types of break waters in use and bring out the advantages of each
+of them. .
+—— b) Enlist and explain the different types of terminal building design in detail.
+
+pRG Q4 (12)
+
+a) Explain the functions of Air Traffic Control. Describe the various ATC networks.
+
+b) Explain different type of parking system in brief. The Length of runway under
+standard condition is 1750rm. The airpcrt site has an elevation of 250m. Its reference
+
+Yo
+--- page 2 ---
+temperature is 22.52°C. If the runway is to be constructed with an effective gradient
+of 0.18%, determine the corrected runway length.
+
+Q5 (12)
+a) Define the Gate capacity for Airports. What factors does Gate capacity depends
+upon? How is Gate determined?
+b) Enlist various method of tunneling in soft rock. Explain any one in detail.
+Q6 (12)
+a) Describe how the basic runway length under standard condition is determined. How
+design runway length calculated?
+b) Write notes on:
+i. Zoning Laws
+ii. Clear Zone
+iii. Approach surface
+Q7 (12)
+
+a) Describe tunneling in soft soil in detaiis.
+b) List different methods of tunneling. Describe any two.
+
+2/2
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper 4a0f78d077be
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/TRANSPORTATION ENGINEERING/Transportation Engineering Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13/04/2016
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+pe
+
+SVKM’s NMIMS F.
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
+
+7 Programme: MBA Tech (Civil) Year: IV Semester: VIII NY 7
+
+Academic Year: 2015-16
+Batch: 2014-15
+
+Subject: Transportation Engineering, Marks: 60
+
+Time: 2.00 pm - 5.00 pm
+
+Date: 13/04/2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper. aid-on the. .
+cover of the Answer Book, which is provided for their-uise:
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to cach new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Ql Attempt any four (12)
+a) Wind rose Diagram
+b) Distinguish between diurnal and semi-
+c) Imaginary surfaces ;
+d) Tunneling in soft material
+e) Aircraft parking system
+
+rnal tides
+
+Q2 , (2)
+a) Explain the different adjustment factors needed to provide for runway length design.
+Mention the ICAO standards. (figure if necessary)
+b) Describe passenger terminal system in detail.
+
+@ . (12)
+a) List the common types of break waters in use and bring out the advantages of each
+of them.
+b) Explain the different types of terminiai building design in detail.
+
+Q4 (12)
+a) List the data to be collected for a Regional Planning. Explain any five factors to be
+considered for Airport site selection. —
+
+ifs
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+b) What are the different types of tide, explain in brief. The length of a runway at mean
+sea level, standard temperature and zero gradients is 1500m. The site has an
+elevation of 210m. Determine the actual length of the runway at site.
+
+Data given: Mean of average daily temperatures for the hottest month: 18°C
+Mean of maximum daily temperatures: 30°C
+The construction plan includes the following data:
+
+Station to Station | Gradient (%)
+
+0-250 0.4
+250-700 -0.3
+700-1100 0.6
+1100-1500 | -0.4
+1500-1800 0.3
+(12)
+a) Explain in detail: (i) Littoral Drift
+(ii) Long-shore Current
+b) Enlist various method of tunneling in soft rock. Explain any one in detail.
+(12)
+
+a) Design an exit taxiway joining a runway and a parallel main taxiway. The total angle
+of turn is 30degree and the tur off sseed is 65kmph. Draw a neat sketch and show
+thereizi all the design elements. Sepayation clearance 190m, width of ninway and
+taxiway 45m and 22.5m respectively.
+
+b) What are the requirements of good harbor? Classify the harbor based on different
+criteria and explain in detail.
+
+(2)
+a) Explain different factors affecting tunnel alignment. What do you mean by tunnel
+lining? Explain in detail.
+b) Describe the ventilation and lighting system in tunnels.
 ````
 
 ## 2014-15 · Final-Exam · Sem 6 · paper 38fc34b18f2a
@@ -1953,119 +2265,6 @@ Explain in brief: (i) Advantages of T‘innel
 (ii) Lighting and vertilation in Tumel
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper 6589023cac0c
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/TRANSPORTATION ENGINEERING/TRANSPORTATION ENGINEERING B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 18/05/2016
-- Text: ocr (2 pages), mean OCR confidence 90.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING.
-
-oe tava
-Programme: B.Tech (Civil) Year: III Semester: VI a, \
-i
-Academic Year: 2015-16 re
-Li RY
-Batch:2014-15 , a y
-
-Noe rae
-
-Subject: Transportation Engineering . Marks: 60
-Time: 2.00 pm - 5.00 pm
-Date: 18/05/2016 Durations: 3 hrs.
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-
-cover of the Answer Book, which is provided for their use.
-
-NB: %
-
-1) Question No. | is compulsory. :
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Qu.l: | Attempt any four:- 12
-(a) Short note on site selection criteria for harbor. 3
-(b) Enlist the points to be considered while designing geometrics.of 3
-runway as per ICAO.
-
-(c) Short note on FRM.
-; 3
-~(d) Enlist all the imaginary surfaces and explain approach zone. P
-(e) Brief any one en route aircraft traffic control aid. 4
-Qu.2: (a) Define-(i) Littoral drift (ii) Quay (iii) Jetties (iv) Wharves (v) fenders 5
-
-(b) An airport is proposed at an elevation of 420m above mean sea leve] where
-the mean of the maximum and mean of the average daily temperatures of | 7
-the hottest month are 45°C and 25°C respectively. Length of the runway
-under standard condition is 2100 m, and the gradient is 0.20%. Determine
-aa the corrected runway length.
-
-pis Qu.3: (a) Classify various types of navigational aids used for harbor and ports, also} 6
-discuss lighthouse.
-(b) Design an exit taxiway joining a romway and a parallel main taxiway,
-having angle of turn as 45° and the turn off speed as 60 kph. Draw the | 6
-neat sketch and show the design element also.
-
-V2.
---- page 2 ---
-Qu.4: (a) Describe about the excavation process opted in the construction stage of
-any tunnel.
-(b) What is the necessity of dredging? Describe mechanical dredgers with
-sketch.
-
-Qu.5: (a) Differentiate between mound type breakwater and wall type breakwater.
-(b) What are the various methods of tunneling in soft soil? Explain any two
-with sketch.
-
-Ou.6: (a) Discuss the necessity of dry docks, also explain floating docs.
-
-(a) The data given below refers to the direction, duration and intensity of wind
-at a particular site for 10 years. Determine the calm period and orientation
-of runway. Assume cross wind component as 25 kmph, Determine the total
-wind coverage (E-W) direction.
-
-Wind Direction Duration of wind percent (kmph)
-6.4-25 25-50 50-75
-
-N 23 1.3 2.1
-NNE 44 4.0 0.2
-NE 3.2 5.5) 0.2
-EEN 13 4.5 1.2
-E 1.2 1.2 12
-EES 1.2 1.3 13
-SE 55 13 [13
-SSE 43 3 2.3
-S 4.1 0.2 2.3
-SSW 4.0 0.8 0.8
-Sw 2.5 1.9 0.8
-WWS 2.6 1.2 0.0
-Ww 2.1 1.2 0.0
-WWN 0.0 0.0 0.1
-NW 1.2 0.0 0.3
-NNW d.2 0.2 0.3
-
-Qu.7: | (a) What are the different parking configurations for an aircraft? Write down the | 6
-merits and demerits of each.
-
-(b) Draw a schematic diagram of harbor describing all the components 6
-````
-
 ## 2014-15 · Re-Exam · Sem 6 · paper 7c8795976771
 
 - Departments: Civil
@@ -2173,97 +2372,6 @@ taxiways, apron taxiway terminal building. Comment on your design about the
 positive and negative points of the layout. +
 
 e
-````
-
-## 2014-15 · Re-Exam · Sem 8 · paper a9c363e45fef
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/TRANSPORTATION ENGINEERING/TRANSPORTATION ENGINEERING B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 06/05/2016
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Civil) Year: IV Semester: VIII
-Academic Year: 2015-16
-
-Batch:2014-15
-
-Subject: Transportation Engineering Marks: 60 Pipe
-
-Time: 10.00 am - 1.00 pm
-Durations: 3 hrs.
-
-Date: 06/05/2016
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and cn the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all OS” questions to be attempted:
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresli page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Ql Attempt any four (12)
-a) Factors for determination of size of Apron and Gates
-b) Aircraft components
-c) imaginary surfaces
-d) Lunar Tides
-e) Differences between Warf and Jetty
-
-Q2 (12)
-a) What is dry dock? What is the need and use of dry docks? Explain the advantages
-and disadvantages of floating type dry docks.
-b) Give Classification of Harbors and explain in detail. What are the requirements for
-good Harbors?
-
-Q3 U2)
-a) List the common types of break waters in use and bring out the advantages of each
-of them. .
-—— b) Enlist and explain the different types of terminal building design in detail.
-
-pRG Q4 (12)
-
-a) Explain the functions of Air Traffic Control. Describe the various ATC networks.
-
-b) Explain different type of parking system in brief. The Length of runway under
-standard condition is 1750rm. The airpcrt site has an elevation of 250m. Its reference
-
-Yo
---- page 2 ---
-temperature is 22.52°C. If the runway is to be constructed with an effective gradient
-of 0.18%, determine the corrected runway length.
-
-Q5 (12)
-a) Define the Gate capacity for Airports. What factors does Gate capacity depends
-upon? How is Gate determined?
-b) Enlist various method of tunneling in soft rock. Explain any one in detail.
-Q6 (12)
-a) Describe how the basic runway length under standard condition is determined. How
-design runway length calculated?
-b) Write notes on:
-i. Zoning Laws
-ii. Clear Zone
-iii. Approach surface
-Q7 (12)
-
-a) Describe tunneling in soft soil in detaiis.
-b) List different methods of tunneling. Describe any two.
-
-2/2
 ````
 
 ## 2014-15 · Re-Exam · Sem 8 · paper 33229843dbe5
@@ -2500,115 +2608,6 @@ Define a port and bring out the differences between a port and a harbor. What ar
 requirements of good por{?
 What is Air Traffic Control? What is the need for Air Traffic Control? Describe the
 different Aids used in Air Traffic Control.
-````
-
-## 2014-15 · Re-Exam · Sem 8 · paper 4a0f78d077be
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/TRANSPORTATION ENGINEERING/Transportation Engineering Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 13/04/2016
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-pe
-
-SVKM’s NMIMS F.
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
-
-7 Programme: MBA Tech (Civil) Year: IV Semester: VIII NY 7
-
-Academic Year: 2015-16
-Batch: 2014-15
-
-Subject: Transportation Engineering, Marks: 60
-
-Time: 2.00 pm - 5.00 pm
-
-Date: 13/04/2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper. aid-on the. .
-cover of the Answer Book, which is provided for their-uise:
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to cach new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Ql Attempt any four (12)
-a) Wind rose Diagram
-b) Distinguish between diurnal and semi-
-c) Imaginary surfaces ;
-d) Tunneling in soft material
-e) Aircraft parking system
-
-rnal tides
-
-Q2 , (2)
-a) Explain the different adjustment factors needed to provide for runway length design.
-Mention the ICAO standards. (figure if necessary)
-b) Describe passenger terminal system in detail.
-
-@ . (12)
-a) List the common types of break waters in use and bring out the advantages of each
-of them.
-b) Explain the different types of terminiai building design in detail.
-
-Q4 (12)
-a) List the data to be collected for a Regional Planning. Explain any five factors to be
-considered for Airport site selection. —
-
-ifs
---- page 2 ---
-Q5
-
-Q6
-
-Q7
-
-b) What are the different types of tide, explain in brief. The length of a runway at mean
-sea level, standard temperature and zero gradients is 1500m. The site has an
-elevation of 210m. Determine the actual length of the runway at site.
-
-Data given: Mean of average daily temperatures for the hottest month: 18°C
-Mean of maximum daily temperatures: 30°C
-The construction plan includes the following data:
-
-Station to Station | Gradient (%)
-
-0-250 0.4
-250-700 -0.3
-700-1100 0.6
-1100-1500 | -0.4
-1500-1800 0.3
-(12)
-a) Explain in detail: (i) Littoral Drift
-(ii) Long-shore Current
-b) Enlist various method of tunneling in soft rock. Explain any one in detail.
-(12)
-
-a) Design an exit taxiway joining a runway and a parallel main taxiway. The total angle
-of turn is 30degree and the tur off sseed is 65kmph. Draw a neat sketch and show
-thereizi all the design elements. Sepayation clearance 190m, width of ninway and
-taxiway 45m and 22.5m respectively.
-
-b) What are the requirements of good harbor? Classify the harbor based on different
-criteria and explain in detail.
-
-(2)
-a) Explain different factors affecting tunnel alignment. What do you mean by tunnel
-lining? Explain in detail.
-b) Describe the ventilation and lighting system in tunnels.
 ````
 
 ## 2013-14 · Final-Exam · Sem 8 · paper 76954b4e6770

@@ -1,6 +1,6 @@
 # Electrical Drives and Traction
 
-**2** unique papers (2 copies across programmes) · 2017-18 to 2018-19 · 1 programme · Sem 6
+**3** unique papers (3 copies across programmes) · 2017-18 to 2018-19 · 2 programmes · Sem 6
 
 Download only this subject, sorted by academic year:
 
@@ -15,6 +15,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2018-19 | Final + Re-Exam | Question paper | Sem 6 | B TECH / ELECTRICAL | Electrical Drives ...Final 18-19 , Re-17-18.pdf |
+| 2018-19 | Final + Re-Exam | Question paper |  | MBA TECH / Electrical | Electrical_Drives_...Final_18-19___Re-17-18_.pdf [1] |
 | 2017-18 | Final-Exam | Question paper | Sem 6 | B TECH / ELECTRICAL | ELECTRICAL DRIVES AND TRACTION (ELECTRICAL) 2017-18 FINAL EXAM.pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "Electrical drive" but the paper is headed "Electrical Drives and Traction"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

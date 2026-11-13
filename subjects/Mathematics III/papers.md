@@ -121,6 +121,121 @@ perpendicular distance from origin to this plane.
 ********** 3 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 3 · paper 61f31a1c763d
+
+- Departments: Computer Engineering, Mechanical
+- Programmes: Integrated Computer 7032, Integrated Mechanical 7031
+- Source: `02_Question_Papers/2024/Sem_03/Re-Exam/Integrated_Computer_7032/Mathematics-III/QP_Mathematics-III(701BS0C015)_2024-2025.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/11/2025
+- Text: ocr (2 pages), mean OCR confidence 82.4
+
+````text
+SVKM?S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2025-2026
+
+Program: B.Tech. Integrated Stream: All Streams © Year: II Semester: II
+
+Subject: Mathematics III Time: 03 hrs. (10:00am to 1:00 pm)
+Date: 24/11/2025 "No. of Pages: 2
+
+Marks: 100
+
+Re-Examination (2022-23, 2023-24, 2024-25)
+
+-Instructions: Candidates should read carefully the instructions printed 0 on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question'No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Scientific calculator is allowed. |
+
+Ql Answer briefly:
+CO-1; SO]; | a. Find the equation of the parabola that has vertex at (0,0), passing through | [3]
+Biel (5,2) and symmetric with respect to y-axis.
+CO-2;SO1; | b. 2 3
+BES Evaluate f2xsin(x +1)dx. [3]
+CO-2; S02; | ¢. Find the area of the region bounded by the curve y = x? and the line y = 4, | [3]
+BE? | in-the first quadrant.
+ae SOl; | d. Find the direction cosines of the vector 2? + 2f — k. [3]
+CO-4; SOI; | e. How many 4 letter code can be formed using the first 10 letters of the | [4]
+BE? English alphabet, if no letter can be repeated? :
+CO-3; SO]; | f. If z,=3-—iand z, =2+5i find : . | [4]
+BL-1 ca
+
+(@)z,+2, . (ii) z,-z,° (iii) 2,2,
+Q2 a Find the equation of the ellipse whose foci are the points (4,0) and (— 4,0) | [6]
+CO-1; SO1; ee
+ae and whose eccentricity is 7
+CO-2; SO1; 6
+BL-2 b Evaluate je. Hence find i (6]
+
+1+cosx 1+cos x
+
+CO-4; SO]; | ¢ What is the number of ways of choosing 4 cards from a pack of 52 playing | [8]
+BL2 cards? In how many of these
+
+(i) all four cards are of the same suit ?
+(ii) all four cards are not of the same suit ?
+(iii) all four are face cards?
+--- page 2 ---
+Q3 a Using vectors, find the area of a triangle having points [6]
+
+CO-3; SO1; A(1,1,1), B(4,2,3), C(2,3,1) as its vertices.
+BL-3
+0-2; SO1; . 1 6
+BL2 . Evaluate (i) Jz a » i) [ dx. (6]
+—6x+13 x -9
+CO-1; S01; | ¢ Find the equation of the circle which passes through the points (2, — 2) and*} [8]
+BL-3 (3, 4) and whose centre lies on the line x + y = 2.
+Q4 a Ifa=2i—-37+k and b=i+ 2} — 3k are position vectors of point A | [6]
+fi Son "| and B respectively then find AB, |AB| and a vector of maniacs 7 along
+AB.
+CO-3; SOL; |b 1+ L+iv3- [6]
+BL-2 Find the modulus and argument (amplitude) of i
+3+i
+CO-2; SO1; | ¢ x24x41 . (8]
+BL-3 Evaluate ate | dx, using partial fractions.
+5 a Find the coordinates of the foci, the vertices, the eccentricity and the. [6]
+CO-1; SO1; : x? y .
+BL-2 length of the latus rectum of the hyperbola 2 te. =1.
+tr Sol; |b Find the angle between the vectors @ = 32+ f — 2k and b= i-37 44k. | [6]
+2; SOL; 5
+ae son |e Use properties of definite integral to find S "ye eet dx. [8]
+Q6 a Find the area bounded by x? -8x+y? =Oand y? = 4xin the first [6]
+CO-2; SO2; : .
+BL-3 quadrant.
+CO-4; SO1; | b (i) In how many ways can 4red, 3yellow and 2 green discs be arranged in | [6]
+BL-2 a row if the discs of the same color are indistinguishable?
+(ii) How many different 3-letter "words" can be formed using the letters
+_ from the word "MATH"?
+oe Sol; |c Using DeMoivre’s Theorem, find the value of (1 + i)? + (1 — i)**, [8]
+Q7 a £ [6]
+oie ope Find the value of J sin?x dk.
+“4
+os SOl; |b | Express the following complex numbers in the form of a+ib [6]
+i) caen(Zr) ji) StiN2
+8 1-iV2
+CO-3;SO1; | ¢ Letd = i—f+2kandb= 30+ 2j+k. [8]
+(i) Find the scalar m so that the vector 2? + f — mk is perpendicular to
+
+a+b.
+(ii) Find a vector perpendicular to both @ and B.
+
+* 2
+````
+
 ## 2025-26 · Re-Exam · Sem 3 · paper b44c1ec71e32
 
 - Departments: Computer Engineering
@@ -593,257 +708,7 @@ plane 𝑥−3𝑦+ 4𝑧−6 = 0 .
 ********** 3 **********
 ````
 
-## 2024-25 · Final + Re-Exam · paper c8274b837919
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Mathematics III/Mathematics III Batch 2024-25 Final Batch 2023-24,2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/11/2024
-- Text: ocr (3 pages), mean OCR confidence 79.6
-
-````text
-SVKM’S NMIMS . Ne ; Ss
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERS _
-
-Academic Year: 2024-2025 - a
-Program: B. Tech. Integrated Stream: All Streams Year: II Semester: Tl
-Subject: Mathematics III ; Time: 03 hrs. an to 5:00 pm)
-Date: 25/11/2024 ; se No. of Pages: 3
-Marks: 100 ; . . .
-
-Final Examination/ Re-Examination (2023-24) /€ 2022-23 >,
-€ 2024-25) ,
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-~~, 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks. wm
-5) Answer to each new question to be started on a fresh page,
-6) Figures in brackets on the right hand side indicate ful] marks.
-7) Assume Suitable data if necessary.
-8) Scientific calculator is allowed.
-
-Ql Answer briefly:
-CO-1; a. Find the coordinates of the focus, the equation of the directrix: | [3]
-SO1; and the length of the latus rectum for the parabola y= 10x.
-BL-1 .
-CO-2; |b. | Evaluate f Vx? — 6x dx. . [3]
-SOl;
-
-BL-2
-
-'|CO-2; Jc. Find the area of the region bounded by the curve y” = x , the [3]
-
-SO2; lines x = 1, x = 4 and the x-axis in the first quadrant.
-BL-3
-CO-3; d. Find the unit vector in the direction of the sum of the vectors | [3]
-SOl, a@=2i-j+3k and b=i-2j-Sk.
-BL-2 3
-
-CO-4; e. How many 3 digit numbers can be formed from the digits 1, 2, | [4]
-SOl1; 3, 4 and 5 when
-BL-2 a. Repetition of the digits is allowed.
-
-b. Repetition of the digits is not allowed.
---- page 2 ---
-CO-3; If z,=2—3i and z,=3+5i, find [4]
-SOl; a Z+Z,. .
-BL-1 b. z,-Z,
-
-C. ZZ,
-Q2 , Find the equation of the ellipse whose foci are the points (4,0) | [6]
-on and (— 4, 0) and whose eccentricity is 7
-BL-2 ;
-CO-2; Using Integration, find the area bounded by the circle [6]
-S$O2;
-BL2 x?+y%=4., ye
-CO-4; A committee of 7 has to be formed from 9 boys and 4 girls. In | [8]
-Sol; how many ways can this be done when the committee consists of
-BL-2 a. Exactly 3 girls
-
-‘b. At least 3 girls
-
-c. At most 3 girls
-Q3 Show that:the points 4, B and C given by the position vectors [6]
-cae ~274+37+5k,i+2j+3kand 7i—k are collinear.
-BL-2
-CO-2; 1—cosx [6] .
-SOl; Evaluate (eZ) .
-BL-3 ;
-CO-1; Find the equation of the circle passing through the points (2,3) | [8]
-SO1; and (— 1,1) and whose centre is on the line x - 3y- 11 = 0.
-BL-3 . chon ap + tgpt apt oer
-Q4 Find the angle between the vectors 7+4j+k and 47+j+k. [6]
-CO-3;
-SOl;
-BL-1
-CO-3; Ifz= cos > +isin = then find z? and z?2. ; [6]
-SOl1; ;
-
-BL-2
-
-am
---- page 3 ---
-CO-2; |e Evaluate —— using the method of partial [8]
-
-SOl; (x—2)?(x+1)
-BL-3 fractions. .
-Q5 ja Find the coordinates of the foci and the vertices, the eccentricity | [6]
-CO-1; and the length of the latus rectum, length of the conjugate axis
-SO1; ; of the hyperbola 49x” -16y? =784.
-BL-2. |
-CO-3; .|b Find the area of a parallelogram whose adjacent sides are given [6]
-SO1l; by the vectors i-2j+k and 47— 5k.
-BL-1
-: PS0-2: :
-
-ane © Evaluate peeeeertas ‘ , [8]
-BL-3 ta,
-Q6 a Find the area of the region bounded by the two parabolas [6]
-CO-2; 5 2
-so2: y=x*andy* =x.
-BL-3 ; ;
-CO-4; |b | Find the value of n such that "PB, = 42( "P,)s n>4, | [6]
-SOl1; :
-BL-2 : :
-CO-3; | ; [8]
-ice Find the polar form of the complex aumber = ~ ;
-
-€ 97 a 72 sin x [6]
-CO-2; Evaluate J ain? x+cos*x .
-SOI;
-BL-3
-CO-3; b Find the modulus of the complex number {6}
-SO1; (5 + 6i**) + (8i? + 1°).
-BL-1
-
-| CO-3; |e If a, b and @ are position vectors of the vertices of a triangle [8]
-mo where d = 42+ f+ 3k, b=1+3)+2kandé = 274+ 7k, then
-
-prove that the triangle is a right angled triangle.
-
-»
-````
-
-## 2024-25 · Re-Exam · Sem 3 · paper 61f31a1c763d
-
-- Departments: Computer Engineering, Mechanical
-- Programmes: Integrated Computer 7032, Integrated Mechanical 7031
-- Source: `02_Question_Papers/2024/Sem_03/Re-Exam/Integrated_Computer_7032/Mathematics-III/QP_Mathematics-III(701BS0C015)_2024-2025.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/11/2025
-- Text: ocr (2 pages), mean OCR confidence 82.4
-
-````text
-SVKM?S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2025-2026
-
-Program: B.Tech. Integrated Stream: All Streams © Year: II Semester: II
-
-Subject: Mathematics III Time: 03 hrs. (10:00am to 1:00 pm)
-Date: 24/11/2025 "No. of Pages: 2
-
-Marks: 100
-
-Re-Examination (2022-23, 2023-24, 2024-25)
-
--Instructions: Candidates should read carefully the instructions printed 0 on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question'No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Scientific calculator is allowed. |
-
-Ql Answer briefly:
-CO-1; SO]; | a. Find the equation of the parabola that has vertex at (0,0), passing through | [3]
-Biel (5,2) and symmetric with respect to y-axis.
-CO-2;SO1; | b. 2 3
-BES Evaluate f2xsin(x +1)dx. [3]
-CO-2; S02; | ¢. Find the area of the region bounded by the curve y = x? and the line y = 4, | [3]
-BE? | in-the first quadrant.
-ae SOl; | d. Find the direction cosines of the vector 2? + 2f — k. [3]
-CO-4; SOI; | e. How many 4 letter code can be formed using the first 10 letters of the | [4]
-BE? English alphabet, if no letter can be repeated? :
-CO-3; SO]; | f. If z,=3-—iand z, =2+5i find : . | [4]
-BL-1 ca
-
-(@)z,+2, . (ii) z,-z,° (iii) 2,2,
-Q2 a Find the equation of the ellipse whose foci are the points (4,0) and (— 4,0) | [6]
-CO-1; SO1; ee
-ae and whose eccentricity is 7
-CO-2; SO1; 6
-BL-2 b Evaluate je. Hence find i (6]
-
-1+cosx 1+cos x
-
-CO-4; SO]; | ¢ What is the number of ways of choosing 4 cards from a pack of 52 playing | [8]
-BL2 cards? In how many of these
-
-(i) all four cards are of the same suit ?
-(ii) all four cards are not of the same suit ?
-(iii) all four are face cards?
---- page 2 ---
-Q3 a Using vectors, find the area of a triangle having points [6]
-
-CO-3; SO1; A(1,1,1), B(4,2,3), C(2,3,1) as its vertices.
-BL-3
-0-2; SO1; . 1 6
-BL2 . Evaluate (i) Jz a » i) [ dx. (6]
-—6x+13 x -9
-CO-1; S01; | ¢ Find the equation of the circle which passes through the points (2, — 2) and*} [8]
-BL-3 (3, 4) and whose centre lies on the line x + y = 2.
-Q4 a Ifa=2i—-37+k and b=i+ 2} — 3k are position vectors of point A | [6]
-fi Son "| and B respectively then find AB, |AB| and a vector of maniacs 7 along
-AB.
-CO-3; SOL; |b 1+ L+iv3- [6]
-BL-2 Find the modulus and argument (amplitude) of i
-3+i
-CO-2; SO1; | ¢ x24x41 . (8]
-BL-3 Evaluate ate | dx, using partial fractions.
-5 a Find the coordinates of the foci, the vertices, the eccentricity and the. [6]
-CO-1; SO1; : x? y .
-BL-2 length of the latus rectum of the hyperbola 2 te. =1.
-tr Sol; |b Find the angle between the vectors @ = 32+ f — 2k and b= i-37 44k. | [6]
-2; SOL; 5
-ae son |e Use properties of definite integral to find S "ye eet dx. [8]
-Q6 a Find the area bounded by x? -8x+y? =Oand y? = 4xin the first [6]
-CO-2; SO2; : .
-BL-3 quadrant.
-CO-4; SO1; | b (i) In how many ways can 4red, 3yellow and 2 green discs be arranged in | [6]
-BL-2 a row if the discs of the same color are indistinguishable?
-(ii) How many different 3-letter "words" can be formed using the letters
-_ from the word "MATH"?
-oe Sol; |c Using DeMoivre’s Theorem, find the value of (1 + i)? + (1 — i)**, [8]
-Q7 a £ [6]
-oie ope Find the value of J sin?x dk.
-“4
-os SOl; |b | Express the following complex numbers in the form of a+ib [6]
-i) caen(Zr) ji) StiN2
-8 1-iV2
-CO-3;SO1; | ¢ Letd = i—f+2kandb= 30+ 2j+k. [8]
-(i) Find the scalar m so that the vector 2? + f — mk is perpendicular to
-
-a+b.
-(ii) Find a vector perpendicular to both @ and B.
-
-* 2
-````
-
-## 2024-25 · Re-Exam · paper 5f8aa0c38692
+## 2025-26 · Re-Exam · paper 5f8aa0c38692
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -968,6 +833,141 @@ ice Let@ = i-j+2kandb = 38+2j7+k. [8]
 (ii) Find a vector perpendicular to both @ and b.
 
 2
+````
+
+## 2024-25 · Final + Re-Exam · paper c8274b837919
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Mathematics III/Mathematics III Batch 2024-25 Final Batch 2023-24,2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/11/2024
+- Text: ocr (3 pages), mean OCR confidence 79.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS . Ne ; Ss
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERS _
+
+Academic Year: 2024-2025 - a
+Program: B. Tech. Integrated Stream: All Streams Year: II Semester: Tl
+Subject: Mathematics III ; Time: 03 hrs. an to 5:00 pm)
+Date: 25/11/2024 ; se No. of Pages: 3
+Marks: 100 ; . . .
+
+Final Examination/ Re-Examination (2023-24) /€ 2022-23 >,
+€ 2024-25) ,
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+~~, 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks. wm
+5) Answer to each new question to be started on a fresh page,
+6) Figures in brackets on the right hand side indicate ful] marks.
+7) Assume Suitable data if necessary.
+8) Scientific calculator is allowed.
+
+Ql Answer briefly:
+CO-1; a. Find the coordinates of the focus, the equation of the directrix: | [3]
+SO1; and the length of the latus rectum for the parabola y= 10x.
+BL-1 .
+CO-2; |b. | Evaluate f Vx? — 6x dx. . [3]
+SOl;
+
+BL-2
+
+'|CO-2; Jc. Find the area of the region bounded by the curve y” = x , the [3]
+
+SO2; lines x = 1, x = 4 and the x-axis in the first quadrant.
+BL-3
+CO-3; d. Find the unit vector in the direction of the sum of the vectors | [3]
+SOl, a@=2i-j+3k and b=i-2j-Sk.
+BL-2 3
+
+CO-4; e. How many 3 digit numbers can be formed from the digits 1, 2, | [4]
+SOl1; 3, 4 and 5 when
+BL-2 a. Repetition of the digits is allowed.
+
+b. Repetition of the digits is not allowed.
+--- page 2 ---
+CO-3; If z,=2—3i and z,=3+5i, find [4]
+SOl; a Z+Z,. .
+BL-1 b. z,-Z,
+
+C. ZZ,
+Q2 , Find the equation of the ellipse whose foci are the points (4,0) | [6]
+on and (— 4, 0) and whose eccentricity is 7
+BL-2 ;
+CO-2; Using Integration, find the area bounded by the circle [6]
+S$O2;
+BL2 x?+y%=4., ye
+CO-4; A committee of 7 has to be formed from 9 boys and 4 girls. In | [8]
+Sol; how many ways can this be done when the committee consists of
+BL-2 a. Exactly 3 girls
+
+‘b. At least 3 girls
+
+c. At most 3 girls
+Q3 Show that:the points 4, B and C given by the position vectors [6]
+cae ~274+37+5k,i+2j+3kand 7i—k are collinear.
+BL-2
+CO-2; 1—cosx [6] .
+SOl; Evaluate (eZ) .
+BL-3 ;
+CO-1; Find the equation of the circle passing through the points (2,3) | [8]
+SO1; and (— 1,1) and whose centre is on the line x - 3y- 11 = 0.
+Q4 Find the angle between the vectors 7+4j+k and 47+j+k. [6]
+CO-3;
+SOl;
+BL-1
+CO-3; Ifz= cos > +isin = then find z? and z?2. ; [6]
+SOl1; ;
+
+BL-2
+
+am
+--- page 3 ---
+CO-2; |e Evaluate —— using the method of partial [8]
+
+SOl; (x—2)?(x+1)
+BL-3 fractions. .
+Q5 ja Find the coordinates of the foci and the vertices, the eccentricity | [6]
+CO-1; and the length of the latus rectum, length of the conjugate axis
+SO1; ; of the hyperbola 49x” -16y? =784.
+BL-2. |
+CO-3; .|b Find the area of a parallelogram whose adjacent sides are given [6]
+SO1l; by the vectors i-2j+k and 47— 5k.
+BL-1
+: PS0-2: :
+
+ane © Evaluate peeeeertas ‘ , [8]
+BL-3 ta,
+Q6 a Find the area of the region bounded by the two parabolas [6]
+CO-2; 5 2
+so2: y=x*andy* =x.
+BL-3 ; ;
+CO-4; |b | Find the value of n such that "PB, = 42( "P,)s n>4, | [6]
+SOl1; :
+BL-2 : :
+CO-3; | ; [8]
+ice Find the polar form of the complex aumber = ~ ;
+
+€ 97 a 72 sin x [6]
+CO-2; Evaluate J ain? x+cos*x .
+SOI;
+BL-3
+CO-3; b Find the modulus of the complex number {6}
+SO1; (5 + 6i**) + (8i? + 1°).
+BL-1
+
+| CO-3; |e If a, b and @ are position vectors of the vertices of a triangle [8]
+mo where d = 42+ f+ 3k, b=1+3)+2kandé = 274+ 7k, then
+
+prove that the triangle is a right angled triangle.
+
+»
 ````
 
 ## 2024-25 · Re-Exam · paper 12f7062ceabb
@@ -1119,13 +1119,14 @@ triangle.
 
 ````
 
-## 2022-23 · Re-Exam · paper 827a72a9d069
+## 2023-24 · Re-Exam · paper 827a72a9d069
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Mathematics III/Mathematics III Batch 2022-23 Re Exam.pdf`
 - Printed on paper: max marks: 100; exam date: 21/11/23
 - Text: ocr (3 pages), mean OCR confidence 79.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS i
@@ -1232,7 +1233,6 @@ CO-2; SO-2; (x-l)’.
 BL-2
 b | Show that: / : [6]
 CO-3; SO-2; oe ee ee Oe ees ee ke
-BL-3 (bxc)x(axd)+(exa)x(5xd)x(axb)x(exd) = -2(a b e) d
 c | If a=cosat+isina, b=cosftisinB, c=cosy +isiny, find the value of | [8]
 CO-2; SO-1;
 BL2 ab_c
@@ -2012,6 +2012,7 @@ So dt?
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/MATHEMATICS-III/Mathematics-III, Final 2019-20.pdf`
 - Printed on paper: exam date: 12 November 2019
 - Text: ocr (5 pages), mean OCR confidence 73.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2093,7 +2094,6 @@ ce O<x<a
 b.odd function c neither even nor odd d.even and odd both
 The first central moment for a given probability distribution is always
 2 2 ’
-a0 bl oc py! -(u;') dun! —(u,')
 io Variance, i ial Distribution i
 The ratio ee for Binomial Distribution is
 
@@ -2114,7 +2114,6 @@ ae” be?” ce” de?
 The steady state two dimensional heat equation is
 au , Ou au Oru du O'u ,du_ Ou
 a.—> +5 = 0b. - By = 9 ODE d.— =-7
-Ox” Oy ax” Oy Ot Ox’ Oat Ox
 
 Match the Correct Pairs (25)
 
@@ -2354,6 +2353,7 @@ Mis |0.4641 (0.4649 [0.4664 (0.4671 [0.4678 0.4686" 0.4693 0.4699 (0.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/MATHEMATICS-III/MATHEMATICS III FINAL EXAM 2019-20.pdf`
 - Printed on paper: exam date: 07 November 2019
 - Text: ocr (3 pages), mean OCR confidence 76.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2385,7 +2385,6 @@ on the cover of the Answer Book, which is provided for their use.
 Q.1 (a) Choose the correct answer in each of the following problems:
 
 1) L{sinat} = -- 0
-Vos Dats Yas d)none ofthese
 
 2) If L{f(t)} = O(s) then L{e~* f(t)} = + a
 a) (s- a) b)P(s+a) c)G(=) d)none of these
@@ -2440,7 +2439,6 @@ ey dy VOGD d) None of these
 
 Match the pair:
 
-1) fy et sin St d=... a) 16
 2) The value of ao in Fourier series expansion
 pce = (h O<xe1. b) 5/4
 of f(x) = x, 1<x< 2 is...
@@ -2746,6 +2744,141 @@ of the canonical form.
 [7]
 ````
 
+## 2018-19 · Re-Exam · paper f6f5b6824b14
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Mathematics III/Engineering_Mathematics_III_Batch_2016-17_Re_Exam_9pArrlynzQ.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 January 2019
+- Text: ocr (2 pages), mean OCR confidence 77.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+. SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
+
+_Program: B.Tech Integrated (All Streams) — Year: II] ~ Semester: V
+~ Academic Year: 2018-2019
+
+Subject: Engineering Mathematics — III - Marks: 60
+
+Time: 2.00 pm to 5.00 pm
+
+Date: 11 January 2019 —
+al anuary Durations: 3 (hrs)
+
+No. of Pages: 2
+Re-examination (2016-17) —
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new qiestion to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Ql.
+(a) 1 2 3 (4)
+Verify Cayley-Hamilton theorem for the matrix A, where A4=|2 -l 4
+3 If —-
+() t,0<t<4 - (4)
+
+Find the Laplace Transform of f(t) =
+5,t>4
+
+(c) Find the Fourier series to represent f(x) =e™* in (0,27) and f(x+2)= f(x). (4)
+
+Q2.
+
+(a) Find the Laplace Transform of e™ sinh¢sin¢. (4)
+(b) Find the Laplace Transform of 1 H (t-4)+76 (1-4). (4)
+
+4
+©) Find the inverse Laplace Transform of Se, )
+s° -4s +13
+
+Q3.
+
+(a) 8 -8 -2 (4)
+
+Find the Eigen values and Eigen vectors of A=|4 -3 -2).
+3 -4 1 =
+
+(b) (4)
+
+2 1
+If A= , find A*.
+1 2
+
+(c) Reduce the quadratic form 2x; + 2x} + 2x; —2x,x, into canonical form through (4)
+orthogonal transformations.
+--- page 2 ---
+Q4.
+
+(a. . a ; -1; -m<x<0 (6)
+Find the Fourier series for periodic function f(x) = . State the
+x; O<x<a
+« 2
+value of f(x) at x =0 and hence deduce that >. =2.
+n=) (2n — 1) 8
+b 6
+(>) Show that the set of functions sin =) ,sin =) , sin (=) 5 iS ©)
+2L 2b 2L
+orthogonal over (0,L).
+Q5.
+(a) (6)
+
+Solve using Laplace Transformation 3% +2y=e", y=latt=0 .
+ft
+
+(b) . s . ae (6)
+Find the inverse Laplace transform of by using convolution
+
+(s? +a )(s° +b’)
+
+theorem.
+Q6.
+(a) -9 4 4 (6)
+
+Show that the matrix 4=| -8 3 4} is diagonalizable. Find the transforming
+
+-16 8 7
+
+matrix M and the diagonal matrix D.
+
+(b) sinu (6)
+
+dudt using Laplace Transform.
+
+oO t
+Eval Pt
+valuate Je ! 7
+
+Q7.
+
+(a) Obtain the Fourier series expansion of f(x) =x(z-x), 0<x<7 asahalf-range (4)
+
+cosine series.
+
+(b) Find the Fourier series for f(x)=1-x° in (-1,1). (4)
+(c) al (4)
+Find £1| 2 | .
+s°+3s4+2
+
+````
+
 ## 2018-19 · Re-Exam · paper 97c100335862
 
 - Departments: Common (all branches)
@@ -2976,105 +3109,7 @@ index, signature and value class of Q.
 2/2.
 ````
 
-## 2016-17 · Final-Exam · paper 2a7b3f81ac98
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Mathematics III/Engineering_Mathematics_III_Batch_2016-17_Final_PaEcG6DbT0.pdf`
-- Printed on paper: duration hours: 3; exam date: 23 November 2016
-- Text: ocr (2 pages), mean OCR confidence 81.2
-
-````text
-Programme: B. Tech Integrated (All Streams) Year: III Semester: V
-
-Academic Year: 2016-2017
-
-Subject : Engineering Mathematics-III ‘ g\R@YE ay :
-
-Date : 23 November 2016 te J F ooenseom a0
-
-Durations: 3 (hrs), &
-
-Final-Examination AN Ba nee
-es pee
-
-Instructions: Candidates should read carefully the instructions printed on the-qa
-the cover of the Answer Book, which is provided for their use.
-
-“e
-
-1) Question No. One is compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks. :
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-Q.1a) 2 -1 1
-Verify Cayley Hamilton theorem for A=]|—1 2 —1j} and find 4".
-la -1 2 4
-b) Find L(cosht) . 4
-c) Find the Fourier series of f(x) =-1, 0<x < 4
-=2,0<x<2n
-Q.2 a) Find the eigen values and the eigen vectors of the matrix 6
-4 6 6
-A=|1 3 2].
-—1 -4 -3
-
-b) Reduce the quadratic form Q=2x,? + 2x2? + 2x3? + 2x,x2 to canonical form by using 6
-
-orthogonal transformation. Also find the rank, index and signature of Q
-
-Q3 a) [2 1 30 4
-ifA=[5 | find 4°.
-b) Show that the matrix A is diagonalizable. Find the transforming matrix and the diagonal 4
-2:2 -3
-matrix ,where A=| 2 1 -6].
--1 2 0
-
-4/2
---- page 2 ---
-c) Find the Fourier series of f(x)=|z| in the interval (-z, 1).
-nm o1,1,121
-Hence deduce that > “2 tatat-
-
-Q4a) Find LES).
-
-b) Find the inverse Laplace transform of = : 3
-
-c) Solve using Laplace Transform, y" + 4y' + 8y = 1,y(0) = 0,y'(0) = 1. 6
-Q.5a) Find the Laplace transform of e*(1 + Vt)‘. 4
-b) Find L(e~** ff t sin3t dt). 4
-
-c) Find the Laplace transform of fi) = 1,0St<a 4
-
-=-la<t<2a
-where fit) is a periodic function with period 2a.
-
-Q.6a) Obtain half range cosine series for f(x) = x(x -x) in(0,z). 4
-b) Using Laplace transform show that fy e V2 — dt =". 4,
-
-c) Find L(tv1 + sint). 4
-6
-
-Q.7 a) Find the Fourier series of f(x)= 4 - x’ in the interval (0,2).
-
-2
-Hence deduce that meaty iy St tee
-6 1. 22° 32
-
-b) Prove that the set of functions {1, sin x, cos x, sin 2x, cos 2x, } is orthogonal in the 6
-
-interval (0,270) and construct the corresponding orthonormal set.
-````
-
-## 2016-17 · Re-Exam · paper c611abcf5842
+## 2017-18 · Re-Exam · paper c611abcf5842
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -3204,139 +3239,102 @@ Hence using Parseval’s identity deduce that oa = at 3 + z +
 (6)
 ````
 
-## 2016-17 · Re-Exam · paper f6f5b6824b14
+## 2016-17 · Final-Exam · paper 2a7b3f81ac98
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Mathematics III/Engineering_Mathematics_III_Batch_2016-17_Re_Exam_9pArrlynzQ.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 January 2019
-- Text: ocr (2 pages), mean OCR confidence 77.7
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Mathematics III/Engineering_Mathematics_III_Batch_2016-17_Final_PaEcG6DbT0.pdf`
+- Printed on paper: duration hours: 3; exam date: 23 November 2016
+- Text: ocr (2 pages), mean OCR confidence 81.2
 
 ````text
-. SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
+Programme: B. Tech Integrated (All Streams) Year: III Semester: V
 
-_Program: B.Tech Integrated (All Streams) — Year: II] ~ Semester: V
-~ Academic Year: 2018-2019
+Academic Year: 2016-2017
 
-Subject: Engineering Mathematics — III - Marks: 60
+Subject : Engineering Mathematics-III ‘ g\R@YE ay :
 
-Time: 2.00 pm to 5.00 pm
+Date : 23 November 2016 te J F ooenseom a0
 
-Date: 11 January 2019 —
-al anuary Durations: 3 (hrs)
+Durations: 3 (hrs), &
 
-No. of Pages: 2
-Re-examination (2016-17) —
+Final-Examination AN Ba nee
+es pee
 
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the-qa
+the cover of the Answer Book, which is provided for their use.
 
-NB:
+“e
 
-1) Question No. ONE is compulsory.
+1) Question No. One is compulsory.
 
-2) Out of remaining questions, attempt any FOUR questions.
+2) Out of remaining questions, attempt any Four questions.
 
-3) In all FIVE questions to be attempted.
+3) In all Five questions to be attempted.
 
-4) All questions carry equal marks.
+4) All questions carry equal marks. :
 
-5) Answer to each new qiestion to be started on a fresh page.
+5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
 
-7) Assume suitable data if necessary.
+Q.1a) 2 -1 1
+Verify Cayley Hamilton theorem for A=]|—1 2 —1j} and find 4".
+la -1 2 4
+b) Find L(cosht) . 4
+c) Find the Fourier series of f(x) =-1, 0<x < 4
+=2,0<x<2n
+Q.2 a) Find the eigen values and the eigen vectors of the matrix 6
+4 6 6
+A=|1 3 2].
+—1 -4 -3
 
-Ql.
-(a) 1 2 3 (4)
-Verify Cayley-Hamilton theorem for the matrix A, where A4=|2 -l 4
-3 If —-
-() t,0<t<4 - (4)
+b) Reduce the quadratic form Q=2x,? + 2x2? + 2x3? + 2x,x2 to canonical form by using 6
 
-Find the Laplace Transform of f(t) =
-5,t>4
+orthogonal transformation. Also find the rank, index and signature of Q
 
-(c) Find the Fourier series to represent f(x) =e™* in (0,27) and f(x+2)= f(x). (4)
+Q3 a) [2 1 30 4
+ifA=[5 | find 4°.
+b) Show that the matrix A is diagonalizable. Find the transforming matrix and the diagonal 4
+2:2 -3
+matrix ,where A=| 2 1 -6].
+-1 2 0
 
-Q2.
-
-(a) Find the Laplace Transform of e™ sinh¢sin¢. (4)
-(b) Find the Laplace Transform of 1 H (t-4)+76 (1-4). (4)
-
-4
-©) Find the inverse Laplace Transform of Se, )
-s° -4s +13
-
-Q3.
-
-(a) 8 -8 -2 (4)
-
-Find the Eigen values and Eigen vectors of A=|4 -3 -2).
-3 -4 1 =
-
-(b) (4)
-
-2 1
-If A= , find A*.
-1 2
-
-(c) Reduce the quadratic form 2x; + 2x} + 2x; —2x,x, into canonical form through (4)
-orthogonal transformations.
+4/2
 --- page 2 ---
-Q4.
+c) Find the Fourier series of f(x)=|z| in the interval (-z, 1).
+nm o1,1,121
+Hence deduce that > “2 tatat-
 
-(a. . a ; -1; -m<x<0 (6)
-Find the Fourier series for periodic function f(x) = . State the
-x; O<x<a
-« 2
-value of f(x) at x =0 and hence deduce that >. =2.
-n=) (2n — 1) 8
-b 6
-(>) Show that the set of functions sin =) ,sin =) , sin (=) 5 iS ©)
-2L 2b 2L
-orthogonal over (0,L).
-Q5.
-(a) (6)
+Q4a) Find LES).
 
-Solve using Laplace Transformation 3% +2y=e", y=latt=0 .
-ft
+b) Find the inverse Laplace transform of = : 3
 
-(b) . s . ae (6)
-Find the inverse Laplace transform of by using convolution
+c) Solve using Laplace Transform, y" + 4y' + 8y = 1,y(0) = 0,y'(0) = 1. 6
+Q.5a) Find the Laplace transform of e*(1 + Vt)‘. 4
+b) Find L(e~** ff t sin3t dt). 4
 
-(s? +a )(s° +b’)
+c) Find the Laplace transform of fi) = 1,0St<a 4
 
-theorem.
-Q6.
-(a) -9 4 4 (6)
+=-la<t<2a
+where fit) is a periodic function with period 2a.
 
-Show that the matrix 4=| -8 3 4} is diagonalizable. Find the transforming
+Q.6a) Obtain half range cosine series for f(x) = x(x -x) in(0,z). 4
+b) Using Laplace transform show that fy e V2 — dt =". 4,
 
--16 8 7
+c) Find L(tv1 + sint). 4
+6
 
-matrix M and the diagonal matrix D.
+Q.7 a) Find the Fourier series of f(x)= 4 - x’ in the interval (0,2).
 
-(b) sinu (6)
+2
+Hence deduce that meaty iy St tee
+6 1. 22° 32
 
-dudt using Laplace Transform.
+b) Prove that the set of functions {1, sin x, cos x, sin 2x, cos 2x, } is orthogonal in the 6
 
-oO t
-Eval Pt
-valuate Je ! 7
-
-Q7.
-
-(a) Obtain the Fourier series expansion of f(x) =x(z-x), 0<x<7 asahalf-range (4)
-
-cosine series.
-
-(b) Find the Fourier series for f(x)=1-x° in (-1,1). (4)
-(c) al (4)
-Find £1| 2 | .
-s°+3s4+2
-
-RR eR a oR a ee He Fe Ee eR A eR Ae eee 2 A fe 2 2 2 2 oR RR RRR RO RR RR
+interval (0,270) and construct the corresponding orthonormal set.
 ````
 
 ## 2016-17 · Re-Exam · paper b655cb21abba
@@ -3616,6 +3614,7 @@ v2 3
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Mathematics III/Engineering_Mathematics_III_Batch_2016-17_Re_Exam_eb0hjilRlD.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 14 November 2018
 - Text: ocr (2 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3723,7 +3722,6 @@ aw O<x<c
 Find ZL” :
 (s+4)?
 
-FR IR RR A OR OR ROR IC
 
 a
 ````

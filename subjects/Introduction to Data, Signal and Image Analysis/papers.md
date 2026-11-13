@@ -1161,128 +1161,7 @@ Page
 
 ````
 
-## 2022-23 · Final-Exam · Sem 4 · paper 61ff671cfd09
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/INTRODUCTION TO DATA SIGNAL & IMAGE ANALYSIS/Introduction to Data Signal and Image analysis, Sem-IV, Year 2022-23, Final Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 85.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
-Academic Year: 2022-2023
-
-Program/s: B.Tech/MBA Tech Year: II Semester: [V
-
-Stream/s ; Data science
-
-Subject: Introduction to data signal and image analysis Time: 03 hrs (4e:ooamto 4:00 pm)
-Date:_29 / 04/2023 No. of Pages: 03
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-“a 1) Question No. _1___ is compulsory.
-, 2) Out of remaining questions, attempt any 4 _ questions.
-3) In all___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql .
-Answer briefly: marks
-a. S2 .
-co-1; If X(S) = ——-——-——_~ then find x(0) and x(es) 5
-BL- 3 .(S24+2S4+2)(S+2)
-b. What is bit plane slicing? Find the bit planes of the given 3X3 image
-Hi 2 3
-cO-4; 5
-_ BL-1 4 5 (0)
-7 2 4
-& 5 x 5 image is defined by the following expression
-f(x,y)= x? ty?
-CO-4 ; 5
-BL-6 Construct the image, Determine the size of this image, Develop the image
-by retaining only row and column numbers 1, 3 and 5
-coa d. Obtain a discrete signal from x(t) = 4 cos 10mt. Plot discrete time signal for
-- 5
-BL-2
-
-unit and ramp function.
-
-Page 1 of 3
---- page 2 ---
-Q2
-
-_ Find FT for x(t)= e** Cos Wot ........ fort >0 10
-BL-3
-
-Evaluate transfer function, impulse response and step response
-Qu . :
-con; of a system given by the equation:- 10
-BLS
-
-y(n) — 3y(n — 1) + 2y(n — 2) = x(n)
-
-Determine trigonometric form of FS for the following waveform
-= 10
-CO1-; BL-3
-
-oO RK 2K 3h
-Q3 Write a detailed note on Time vs Frequency domain 10
-CO1-; BL-4
-4(S+1)(S+3) ;
-
-Qa ir X(S) = —————— then find x(t)
-CO-1; BL-3 (S+2)(S+4) 10
-
-Sketch the even and odd components of the signal
-Q4
-c01-; 10
-BL-2 —>
-Qs Calculate y(n) if x(n)= {1,2,3,4} and h(n) = {0,2,2,2} using Linear
-c032-; : 10
-BL-2 convolution. Enlist the different applications of convolution.
-os Perform Laplace for: -
-co1-; Eck i ; 10
-art Lif, et 7 sin2t. cosht. dt]
-6 ; Z(Z+0.5) ; ;
-co1-; Given X(Z) = find x(n) for all possible ROCs. 10
-
-BL-3
-
-(Z—1)(Z-0.2)(Z—0.3)
-
-Page 2 of 3
-
-a
---- page 3 ---
--
-
-Q6 What are FIR filters? Enlist the advantages of FIR Filters (compared to IIR 10
-CO2-; BL-1 filters)
-What is histogram equalization? Perform histogram equalization on the
-following 4 x 5 image. The gray level distribution of the image is given
-below. Plot histogram of original image and equalized image. Comment
-Q7 on the results obtained after equalization.
-co4-; 0 1 1 3 4 10
-oa 7 2 5 5 7
-6 3 2 1 1
-1 4 4 2 1
-Qq7 . . : .
-con: Define the following terms related to image fundamentals:- Image, Pixel, 10
-BLL color image, color spaces, size of an image
-
-Page 3 of 3
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper 133b4d819c23
+## 2023-24 · Re-Exam · Sem 4 · paper 133b4d819c23
 
 - Departments: Data Science
 - Programmes: B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
@@ -1420,6 +1299,127 @@ oOo
 Page 2,
 ````
 
+## 2022-23 · Final-Exam · Sem 4 · paper 61ff671cfd09
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/INTRODUCTION TO DATA SIGNAL & IMAGE ANALYSIS/Introduction to Data Signal and Image analysis, Sem-IV, Year 2022-23, Final Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 85.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
+Academic Year: 2022-2023
+
+Program/s: B.Tech/MBA Tech Year: II Semester: [V
+
+Stream/s ; Data science
+
+Subject: Introduction to data signal and image analysis Time: 03 hrs (4e:ooamto 4:00 pm)
+Date:_29 / 04/2023 No. of Pages: 03
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+“a 1) Question No. _1___ is compulsory.
+, 2) Out of remaining questions, attempt any 4 _ questions.
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql .
+Answer briefly: marks
+a. S2 .
+co-1; If X(S) = ——-——-——_~ then find x(0) and x(es) 5
+BL- 3 .(S24+2S4+2)(S+2)
+b. What is bit plane slicing? Find the bit planes of the given 3X3 image
+Hi 2 3
+cO-4; 5
+_ BL-1 4 5 (0)
+7 2 4
+& 5 x 5 image is defined by the following expression
+f(x,y)= x? ty?
+CO-4 ; 5
+BL-6 Construct the image, Determine the size of this image, Develop the image
+by retaining only row and column numbers 1, 3 and 5
+coa d. Obtain a discrete signal from x(t) = 4 cos 10mt. Plot discrete time signal for
+- 5
+BL-2
+
+unit and ramp function.
+
+Page 1 of 3
+--- page 2 ---
+Q2
+
+_ Find FT for x(t)= e** Cos Wot ........ fort >0 10
+BL-3
+
+Evaluate transfer function, impulse response and step response
+Qu . :
+con; of a system given by the equation:- 10
+BLS
+
+y(n) — 3y(n — 1) + 2y(n — 2) = x(n)
+
+Determine trigonometric form of FS for the following waveform
+= 10
+CO1-; BL-3
+
+oO RK 2K 3h
+Q3 Write a detailed note on Time vs Frequency domain 10
+CO1-; BL-4
+4(S+1)(S+3) ;
+
+Qa ir X(S) = —————— then find x(t)
+CO-1; BL-3 (S+2)(S+4) 10
+
+Sketch the even and odd components of the signal
+Q4
+c01-; 10
+BL-2 —>
+Qs Calculate y(n) if x(n)= {1,2,3,4} and h(n) = {0,2,2,2} using Linear
+c032-; : 10
+BL-2 convolution. Enlist the different applications of convolution.
+os Perform Laplace for: -
+co1-; Eck i ; 10
+art Lif, et 7 sin2t. cosht. dt]
+6 ; Z(Z+0.5) ; ;
+co1-; Given X(Z) = find x(n) for all possible ROCs. 10
+
+BL-3
+
+(Z—1)(Z-0.2)(Z—0.3)
+
+Page 2 of 3
+
+a
+--- page 3 ---
+-
+
+Q6 What are FIR filters? Enlist the advantages of FIR Filters (compared to IIR 10
+CO2-; BL-1 filters)
+What is histogram equalization? Perform histogram equalization on the
+following 4 x 5 image. The gray level distribution of the image is given
+below. Plot histogram of original image and equalized image. Comment
+Q7 on the results obtained after equalization.
+co4-; 0 1 1 3 4 10
+oa 7 2 5 5 7
+6 3 2 1 1
+1 4 4 2 1
+Qq7 . . : .
+con: Define the following terms related to image fundamentals:- Image, Pixel, 10
+BLL color image, color spaces, size of an image
+
+Page 3 of 3
+````
+
 ## 2022-23 · Re-Exam · Sem 4 · paper 16545c4b054d
 
 - Departments: Data Science
@@ -1550,102 +1550,7 @@ signal r(t)
 Page 3 of 3
 ````
 
-## 2021-22 · Re-Exam · Sem 4 · paper 55dd399b13cf
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/INTRODUCTION TO DATA SIGNAL & IMAGE ANALYSIS/Introduction to Data, Signal and Image Analysis, Sem-IV, Re-Exam, Year 2021-22.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2022
-- Text: ocr (2 pages), mean OCR confidence 85.5
-
-````text
-SVKM’s NMIMS ate
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG: EERING 7
-
-se SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING j
-“ MPSTMFE
-Academic Year: 2021-22 VIBRAR
-Programme: B. Tech (Data Science) Year: II
-
-Subject: Introduction to Data, Signal and Image Analysis
-; Marks: 100 .
-Date: 09 June 2022 Time: 10.00 am to 1.00 pm
-‘ Durations: 3 (Hrs)
-
-No. of Pages: _©Z
-Re-Examination (2021-22)
-
-of the Answer ‘Boole which is provided for their use.
-
-$ 1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any__4 _ questions.
-3) In all___5_ questions to be attempted.
-
-é
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-Qt Answet briefly: marks
-
-. . a. ‘
-C01; 302; Define even and odd signals 5
-BLi
-ne aor; |. Explain Butterworth filter 5
-oo S01; | c Define ROC for Z-transform 5
-C02; S06; | d. 5 3k
-BLA Compare fir vs iir 5
-a2 a. What are the possible outcomes Y[n] for: -
-x[n] = 12, 14, 18, 19, 23 and ,
-CO3; $O1; _ - 10
-ae h[n] = 3, 4, 6, 11, 12
-b. Identify the results of a0, an and bn for: -
-Ce)
-Q2 .
-CO1; SO6; 10
-BL3 ' |
-taal
-
-oO
---- page 2 ---
-S02; Discuss Sampling in detail 10
-
-How would you solve circular convolution for the periodic sequences
-. 10
-
-$01; 1,2,3 and 2,1
-Plot x(t) = 2u(t+4) — u(t+2) + r(t) — r(t-2) +u(t-4) — r(t-6) +r(t-8) and hence
-
-SO6; how would you improve on the given question (in terms of unit and 10
-ramp) to make it more comprehensible
-Write a program to perform enhancement and reduction of an image
-
-S07; using Log and power transformations (in any programming language of 10
-your choice)
-Interpret the following using FT: -
-Adle)
-
-506; —\ st 10
-
-¥ j
-Loe edged
-
-Write a program obtain the output for averaging filter and median filter
-
-307; ; 10
-(in any programming language of your choice)
-
-501; 10
-How would you outline all the possible ROC for Laplace 7
-
-301; How would you compare Digital and Analog Signals 10
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper c347f0fb06f5
+## 2021-22 · Final-Exam · Sem 4 · paper c347f0fb06f5
 
 - Departments: Data Science
 - Programmes: B TECH / DATA SCIENCE
@@ -1759,4 +1664,99 @@ BL2
 2/2
 
 ae
+````
+
+## 2021-22 · Re-Exam · Sem 4 · paper 55dd399b13cf
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/INTRODUCTION TO DATA SIGNAL & IMAGE ANALYSIS/Introduction to Data, Signal and Image Analysis, Sem-IV, Re-Exam, Year 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2022
+- Text: ocr (2 pages), mean OCR confidence 85.5
+
+````text
+SVKM’s NMIMS ate
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG: EERING 7
+
+se SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING j
+“ MPSTMFE
+Academic Year: 2021-22 VIBRAR
+Programme: B. Tech (Data Science) Year: II
+
+Subject: Introduction to Data, Signal and Image Analysis
+; Marks: 100 .
+Date: 09 June 2022 Time: 10.00 am to 1.00 pm
+‘ Durations: 3 (Hrs)
+
+No. of Pages: _©Z
+Re-Examination (2021-22)
+
+of the Answer ‘Boole which is provided for their use.
+
+$ 1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any__4 _ questions.
+3) In all___5_ questions to be attempted.
+
+é
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+Qt Answet briefly: marks
+
+. . a. ‘
+C01; 302; Define even and odd signals 5
+BLi
+ne aor; |. Explain Butterworth filter 5
+oo S01; | c Define ROC for Z-transform 5
+C02; S06; | d. 5 3k
+BLA Compare fir vs iir 5
+a2 a. What are the possible outcomes Y[n] for: -
+x[n] = 12, 14, 18, 19, 23 and ,
+CO3; $O1; _ - 10
+ae h[n] = 3, 4, 6, 11, 12
+b. Identify the results of a0, an and bn for: -
+Ce)
+Q2 .
+CO1; SO6; 10
+BL3 ' |
+taal
+
+oO
+--- page 2 ---
+S02; Discuss Sampling in detail 10
+
+How would you solve circular convolution for the periodic sequences
+. 10
+
+$01; 1,2,3 and 2,1
+Plot x(t) = 2u(t+4) — u(t+2) + r(t) — r(t-2) +u(t-4) — r(t-6) +r(t-8) and hence
+
+SO6; how would you improve on the given question (in terms of unit and 10
+ramp) to make it more comprehensible
+Write a program to perform enhancement and reduction of an image
+
+S07; using Log and power transformations (in any programming language of 10
+your choice)
+Interpret the following using FT: -
+Adle)
+
+506; —\ st 10
+
+¥ j
+Loe edged
+
+Write a program obtain the output for averaging filter and median filter
+
+307; ; 10
+(in any programming language of your choice)
+
+501; 10
+How would you outline all the possible ROC for Laplace 7
+
+301; How would you compare Digital and Analog Signals 10
 ````

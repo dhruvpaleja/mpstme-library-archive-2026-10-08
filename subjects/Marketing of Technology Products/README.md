@@ -16,16 +16,16 @@ Also filed as: `marketing Technology products`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Marketing of Technology Products(703TM0E016)_2024-2025.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 10 | MBA TECH | Marketing of Technology Products,SemX,Final,2021-22.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 10 | MBA TECH | Marketing of Technology products...Final 18-19.pdf |
 | 2017-18 | — | Question paper | Sem 10 | MBA TECH | Marketing of Technology products 2017-18.pdf |

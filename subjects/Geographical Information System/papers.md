@@ -1,94 +1,10 @@
 # Geographical Information System: question papers in full
 
-4 unique papers · 2013-14 to 2013-14 · Computer Engineering
+4 unique papers · 2013-14 to 2014-15 · Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2013-14 · Final-Exam · Sem 8 · paper 8aad95963a25
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/GEOGRAPHICAL INFORMATION SYSTEM/GEOGRAPHICAL INFORMATION SYSTEM B TECH (COMPUTER), 2013-14 FINAL EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/05/2014
-- Text: ocr (2 pages), mean OCR confidence 92.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (Computer) Year: IV Semester: VIII
-
-Academic Year: 2013-2014
-
-Subject : Geographical Information System xh
-
-Marks: 100
-
-Date : 13/05/2014 Time * 10.00 am to 1300 pm
-Duration’s? 3 (hrs) ;
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer book, which is provided for their use.
-
-1. Question No. 1 is compulsory for all.
-
-2. Each question carries 20 marks.
-
-3. Out of the remaining questions, attempt any 4 questions.
-
-4. Use equations and relevant diagrams wherever necessary.
-5. Use of non-programmable calculator is allowed.
-
-6. Figures in brackets on the right hand side indicate full marks.
-7. Answer to each new question to be started on a fresh page.
-
-Qi
-
-a. Explain Raster and Vector data format with examples? 6
-b. Explain application areas of GIS? Give a suitable case study 6
-Cc What is cartography? Explain the different steps involved in cartographic process? 8
-Q2
-
-a. Explain data modeling surfaces and networks? 10
-b: Explain spatial data structures in GIS? 10
-Q3
-
-a. Explain modeling the third and fourth dimensions in GIS? 10
-b. Explain the GIS database developments with case study? 10
-Q4
-
-a. Explain map overlay in terms of vector and raster data sets? 10
-b. What is buffering? Explain its types and applications? 10
-Qs
-
-a. Explain different types of process models? 10
-
-fo
---- page 2 ---
-Explain different types of projection systems available in GIS?
-
-Explain surface and near neighbor transformations?
-Explain transformations and operations in terms of attribute-based operations?
-
-Justify the investment in GIS with applications and users?
-Explain implementation and evaluation problems of GIS projects
-
-x —
-
-2}p.
-
-10
-
-10
-10
-
-10
-10
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper 46b1c04e6a1b
+## 2014-15 · Re-Exam · Sem 8 · paper 46b1c04e6a1b
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
@@ -177,7 +93,7 @@ design?
 10
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper 4cf098770ff7
+## 2014-15 · Re-Exam · Sem 8 · paper 4cf098770ff7
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
@@ -234,6 +150,90 @@ Q7 Write short note on any two{2¢
 a. GIS decision support 10
 b. Components of GIS 10
 G Overlay in GIS 10
+````
+
+## 2013-14 · Final-Exam · Sem 8 · paper 8aad95963a25
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/GEOGRAPHICAL INFORMATION SYSTEM/GEOGRAPHICAL INFORMATION SYSTEM B TECH (COMPUTER), 2013-14 FINAL EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/05/2014
+- Text: ocr (2 pages), mean OCR confidence 92.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (Computer) Year: IV Semester: VIII
+
+Academic Year: 2013-2014
+
+Subject : Geographical Information System xh
+
+Marks: 100
+
+Date : 13/05/2014 Time * 10.00 am to 1300 pm
+Duration’s? 3 (hrs) ;
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer book, which is provided for their use.
+
+1. Question No. 1 is compulsory for all.
+
+2. Each question carries 20 marks.
+
+3. Out of the remaining questions, attempt any 4 questions.
+
+4. Use equations and relevant diagrams wherever necessary.
+5. Use of non-programmable calculator is allowed.
+
+6. Figures in brackets on the right hand side indicate full marks.
+7. Answer to each new question to be started on a fresh page.
+
+Qi
+
+a. Explain Raster and Vector data format with examples? 6
+b. Explain application areas of GIS? Give a suitable case study 6
+Cc What is cartography? Explain the different steps involved in cartographic process? 8
+Q2
+
+a. Explain data modeling surfaces and networks? 10
+b: Explain spatial data structures in GIS? 10
+Q3
+
+a. Explain modeling the third and fourth dimensions in GIS? 10
+b. Explain the GIS database developments with case study? 10
+Q4
+
+a. Explain map overlay in terms of vector and raster data sets? 10
+b. What is buffering? Explain its types and applications? 10
+Qs
+
+a. Explain different types of process models? 10
+
+fo
+--- page 2 ---
+Explain different types of projection systems available in GIS?
+
+Explain surface and near neighbor transformations?
+Explain transformations and operations in terms of attribute-based operations?
+
+Justify the investment in GIS with applications and users?
+Explain implementation and evaluation problems of GIS projects
+
+x —
+
+2}p.
+
+10
+
+10
+10
+
+10
+10
 ````
 
 ## 2013-14 · Re-Exam · Sem 8 · paper 52b847c77e25

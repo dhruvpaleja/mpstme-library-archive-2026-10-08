@@ -2552,6 +2552,7 @@ Short Notes (Any two)
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/HUMAN RESOURCE OF MANAGEMENT/Human Resource Management 2015-16 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 2; exam date: 19/04/2016
 - Text: ocr (3 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a
@@ -2673,7 +2674,77 @@ Q7. Answer any one:
 (a) HR as Business Partner & Strategic Partner
 (b) Job Analysis
 
-TREK BRR RR RoR wf e meis rk
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper 636e703f650a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/HUMAN RESOURCE OF MANAGEMENT/Human Resource Management Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 19/04/2016
+- Text: ocr (1 page), mean OCR confidence 94.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
+
+Programme: MBA Tech (All Streams) Year: IV Semester: vit 7
+
+Academic Year: 2015-16
+Batch: 2014-15
+
+Subject: Human Resource Management Marks: 60
+Time: 2.00 pm - 4.00 pm
+Date: 19/04/2016 Durations: 2 (hrs) °
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. _01_ is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Sr. no Marks
+1 A mid size organization has a lot of performance problems. Even after 12
+training no improvement in their performance is observed. The managing
+director is confused. He comes to you for help. You say, “Training is not
+the solution”. The MD is further puzzled. Please justify your statement
+
+2 Describe recruitment policies organizations use to make job vacancies 12
+more attractive.
+
+3 Compare the major methods for measuring performance 12
+
+4 Describe how organizations use assessment of personality type, work 12
+behaviors, and job performance to plan employee development.
+
+5 Describe the Kirkpatrick’s Four-Level Model of Evaluation 12
+
+6 What are the conditionalities for create a high-performance work system. 12
+Do you think human resource management can contribute to high
+performance?
+
+7 Short Notes (Any two) 12
+a. Gratuity
+
+b. Hard and soft HR
+c. Difference between compensation and benefits
+
+é
+
+a/p
 ````
 
 ## 2015-16 · Re-Exam · Sem 8 · paper 1b9c6017c8f6
@@ -2995,75 +3066,67 @@ c. Steps in HR Planning
 th
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper 636e703f650a
+## 2014-15 · Re-Exam · Sem 8 · paper 9793c9c79cf2
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/HUMAN RESOURCE OF MANAGEMENT/Human Resource Management Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 19/04/2016
-- Text: ocr (1 page), mean OCR confidence 94.9
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/HUMAN RESOURCE OF MANAGEMENT/Human Resource Management 2013-14 Re Exam.pdf`
+- Printed on paper: max marks: 50; exam date: 25/04/2015
+- Text: ocr (1 page), mean OCR confidence 90.5
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (All Streams) Year: IV Semester: vit 7
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+Academic Year: 2014-15
+Batch: 2013-14
+: ge"
+Subject: Human Resource Management NS
+: ; Marks: 50 a: MPSTMB )o
+Date: 25/04/2015 Time: 2.00 pmi Ge RA *Y ig
+Durations: 2 (h:
 
-Academic Year: 2015-16
-Batch: 2014-15
+*
+Re-Examination Orr a *
 
-Subject: Human Resource Management Marks: 60
-Time: 2.00 pm - 4.00 pm
-Date: 19/04/2016 Durations: 2 (hrs) °
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Instruction:
+Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
 
 NB:
+1) Question No. __1__is compulsory.
+2) Out of remaining questions, attempt any _4 ‘questions.
 
-1) Question No. _01_ is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05_ questions to be attempted.
+3) Inall__5__ questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
 
-Sr. no Marks
-1 A mid size organization has a lot of performance problems. Even after 12
-training no improvement in their performance is observed. The managing
-director is confused. He comes to you for help. You say, “Training is not
-the solution”. The MD is further puzzled. Please justify your statement
+1. You are appearing for the final stage interview for a Rs. 100 crore S.B.U (of L&T or Godrej &
+Boyce) and you are asked to prepare a note covering the various aspects you would consider to
+set up the HR department in order to facilitate this venture from scratch.
 
-2 Describe recruitment policies organizations use to make job vacancies 12
-more attractive.
+10 Marks
+2. If you were to audit an existing performance- appraisal, which are the criteria you would use
+to judge its effectiveness?
 
-3 Compare the major methods for measuring performance 12
+10 Marks
 
-4 Describe how organizations use assessment of personality type, work 12
-behaviors, and job performance to plan employee development.
+3. Suggest suitable measures for human resource planning when an organization is coping with
+staff surpluses.
 
-5 Describe the Kirkpatrick’s Four-Level Model of Evaluation 12
-
-6 What are the conditionalities for create a high-performance work system. 12
-Do you think human resource management can contribute to high
-performance?
-
-7 Short Notes (Any two) 12
-a. Gratuity
-
-b. Hard and soft HR
-c. Difference between compensation and benefits
-
-é
-
-a/p
+10 Marks
+4. Explain various inputs required for training and development programme?
+10 Marks
+5. What are various challenges faced in contemporary trends of recruitment
+: 10 Marks
+6. Short notes
+a. Outplacements
+b. Job evaluation
+10 Marks
 ````
 
 ## 2013-14 · Final-Exam · Sem 8 · paper c2bf652919a4
@@ -3128,69 +3191,6 @@ results.
 6. Short notes on
 a. Employee orientation
 b. Traditional vs modern recruitment methods
-10 Marks
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper 9793c9c79cf2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/HUMAN RESOURCE OF MANAGEMENT/Human Resource Management 2013-14 Re Exam.pdf`
-- Printed on paper: max marks: 50; exam date: 25/04/2015
-- Text: ocr (1 page), mean OCR confidence 90.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-Academic Year: 2014-15
-Batch: 2013-14
-: ge"
-Subject: Human Resource Management NS
-: ; Marks: 50 a: MPSTMB )o
-Date: 25/04/2015 Time: 2.00 pmi Ge RA *Y ig
-Durations: 2 (h:
-
-*
-Re-Examination Orr a *
-
-Instruction:
-Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-1) Question No. __1__is compulsory.
-2) Out of remaining questions, attempt any _4 ‘questions.
-
-3) Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-1. You are appearing for the final stage interview for a Rs. 100 crore S.B.U (of L&T or Godrej &
-Boyce) and you are asked to prepare a note covering the various aspects you would consider to
-set up the HR department in order to facilitate this venture from scratch.
-
-10 Marks
-2. If you were to audit an existing performance- appraisal, which are the criteria you would use
-to judge its effectiveness?
-
-10 Marks
-
-3. Suggest suitable measures for human resource planning when an organization is coping with
-staff surpluses.
-
-10 Marks
-4. Explain various inputs required for training and development programme?
-10 Marks
-5. What are various challenges faced in contemporary trends of recruitment
-: 10 Marks
-6. Short notes
-a. Outplacements
-b. Job evaluation
 10 Marks
 ````
 

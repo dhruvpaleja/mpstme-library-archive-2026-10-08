@@ -2,6 +2,822 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Re-Exam · Sem 1 · Answer key · paper d2ed9502f63c
+
+- Departments: Computer Engineering, Cyber Security, Data Science, Mechanical
+- Programmes: BTech CyberSecurity 7010, Integrated Computer 7032, Integrated DS 7038, Integrated Mechanical 7031
+- Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CyberSecurity_7010/Programming for Problem Solving/ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf` (+4 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: mixed (18 pages), mean OCR confidence 39.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (Mech)
+Year: III/Semester V(Exam Year: 2025-2026)
+Subject: Programming for Problem Solving
+Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 18 pages.
+2. Question No. _1_ is compulsory
+3. Out of remaining questions, attempt any _4_ questions.
+4. In all _5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary
+Q1   Answer briefly:   [20]
+CO-1
+Draw a flowchart to accept student’s name, roll no and marks of 3 subjects from user
+SO-1   a.   [5]
+and calculate total, average marks and print it for ‘n’ students.
+BL-6
+Ans.
+********** 1 **********
+--- page 2 ---
+CO-2   Develop a solution for the following scenario.
+SO-7   Despite everyone's advice, Harshad has decided to gamble away his money.
+Today he chose a dice game to bet on. Harshad will roll 2 die one after the other, and
+b.   Harshad wins if and only if the sum of the 2 dice rolls is exactly x.   [5]
+BL-6   The die are standard fair 6-faced, with numbers 1 through 6 written on the sides.
+Harshad 's first roll turned up to be the number A. What number does Harshad need on
+his second roll to win the game? It can be proven that this number exists and is unique.
+#include <iostream>
+using namespace std;
+int main() {
+int A, X;
+Ans.
+cout << "Enter the first die roll (A): ";
+cin >> A;
+cout << "Enter the required total sum (X): ";
+********** 2 **********
+--- page 3 ---
+cin >> X;
+// Calculate the second die value
+int second_die = X - A;
+cout << "Harshad needs to roll a " << second_die << " on the second die to win."
+<< endl;
+return 0;
+}
+CO-3
+SO-6   c.   List and explain any four inbuild C-style string functions from <cstring>.   [5]
+BL-2
+C-style String Functions (from <cstring>):
+These functions operate on C-style strings (character arrays terminated by a null
+character \0).
+•   strlen(const char* str): Calculates the length of a C-style string.
+•   strcpy(char* dest, const char* src): Copies a source string to a destination.
+•   strncpy(char* dest, const char* src, size_t n): Copies a specified number of
+characters.
+Ans.   •   strcat(char* dest, const char* src): Concatenates two C-style strings.
+•   strncat(char* dest, const char* src, size_t n): Concatenates a specified number
+of characters.
+•   strcmp(const char* str1, const char* str2): Compares two C-style strings.
+•   strncmp(const char* str1, const char* str2, size_t n): Compares a specified
+number of characters.
+•   strstr(const char* haystack, const char* needle): Finds the first occurrence of a
+substring.
+CO-4
+SO-2   d.   Explain the concept of function overloading using an example program in C++.   [5]
+BL-2
+Function overloading is a C++ feature that allows you to define multiple functions with
+the same name in the same scope, but with different parameters. The compiler
+distinguishes between these functions based on the number, type, or order of their
+parameters. This is a form of compile-time polymorphism, enabling you to use a single,
+intuitive function name for a variety of tasks.
+#include <iostream>
+// Overloaded function 1: Adds two integers
+int add(int a, int b) {
+std::cout << "Using integer version." << std::endl;
+return a + b;
+Ans. }
+// Overloaded function 2: Adds two doubles
+double add(double a, double b) {
+std::cout << "Using double version." << std::endl;
+return a + b;
+}
+// Overloaded function 3: Adds an integer and a double
+double add(int a, double b) {
+std::cout << "Using integer and double version." << std::endl;
+return a + b;
+********** 3 **********
+--- page 4 ---
+}
+int main() {
+// Calling the integer version
+int sum1 = add(5, 10);
+std::cout << "Sum of integers: " << sum1 << std::endl;
+// Calling the double version
+double sum2 = add(5.5, 10.2);
+std::cout << "Sum of doubles: " << sum2 << std::endl;
+// Calling the integer and double version
+double sum3 = add(5, 10.2);
+std::cout << "Sum of integer and double: " << sum3 << std::endl;
+return 0;
+}
+Q2   [20]
+CO-2
+Explain recursive function and write a program to checks if a string is a palindrome
+SO-7   a.   [10]
+using recursive function. Avoid using loops or inbuilt functions.
+BL-2
+A recursive function is a function that calls itself to solve a smaller version of the
+same problem. This technique is based on the mathematical principle of recursion.
+The core components of any recursive solution are:
+1. Base Case: The condition that stops the recursion. Without a base case, the
+function would call itself infinitely, leading to a stack overflow error. The base
+case represents the simplest instance of the problem that can be solved
+directly.
+2. Recursive Step: The part of the function where the problem is broken down
+into a smaller, simpler version of itself, and the function calls itself with this
+smaller input.
+#include <iostream>
+int recursive_strlen(const char* str) {
+if (*str == '\0') {
+return 0; // Base Case: End of string reached
+}
+// Recursive Step: Add 1 to the length of the rest of the string
+Ans.   return 1 + recursive_strlen(str + 1);
+}
+bool is_palindrome_recursive(const char* str, int start, int end) {
+// 1. Base Case: If the substring is empty or has 1 character, it's a palindrome.
+if (start >= end) {
+return true;
+}
+// 2. Check current characters: If first and last characters don't match, return false.
+if (str[start] != str[end]) {
+return false;
+}
+// 3. Recursive Step: Check the inner substring.
+// Move start one step right and end one step left.
+return is_palindrome_recursive(str, start + 1, end - 1);
+}
+********** 4 **********
+--- page 5 ---
+int main() {
+// Note: Using C-style char array for basic string representation
+char str1[] = "madam";
+char str2[] = "level";
+char str3[] = "hello";
+// Test 1: madam
+int len1 = recursive_strlen(str1);
+bool result1 = is_palindrome_recursive(str1, 0, len1 - 1);
+std::cout << str1 << " is a palindrome: " << (result1 ? "True" : "False") << std::endl;
+// Test 2: level
+int len2 = recursive_strlen(str2);
+bool result2 = is_palindrome_recursive(str2, 0, len2 - 1);
+std::cout << str2 << " is a palindrome: " << (result2 ? "True" : "False") << std::endl;
+// Test 3: hello
+int len3 = recursive_strlen(str3);
+bool result3 = is_palindrome_recursive(str3, 0, len3 - 1);
+std::cout << str3 << " is a palindrome: " << (result3 ? "True" : "False") << std::endl;
+return 0;
+}
+CO-3   Design a C++ program that checks if a password entered by a user is Strong or Weak.
+SO-6   A password is considered Strong if it:
+• Has at least 8 characters
+b.   [10]
+•   Contains at least one uppercase letter, one lowercase letter, one digit, and one
+BL-6   special character.
+If any condition fails, display the reason (example: “Missing digit”).
+#include <iostream>
+#include <string>
+#include <cctype> // For isupper, islower, isdigit
+int main() {
+std::string password;
+bool has_uppercase = false;
+bool has_lowercase = false;
+bool has_digit = false;
+bool has_special = false;
+std::cout << "Enter a password to check its strength:" << std::endl;
+std::getline(std::cin, password);
+Ans.
+// Check length
+if (password.length() < 8) {
+std::cout << "Weak password: Must be at least 8 characters long." << std::endl;
+return 0;
+}
+// Iterate through password to check for character types
+for (char c : password) {
+if (std::isupper(c)) {
+has_uppercase = true;
+} else if (std::islower(c)) {
+has_lowercase = true;
+} else if (std::isdigit(c)) {
+has_digit = true;
+********** 5 **********
+--- page 6 ---
+} else {
+// Check for special characters by excluding letters and digits
+has_special = true;
+}
+}
+// Check all criteria and provide specific feedback
+if (has_uppercase && has_lowercase && has_digit && has_special) {
+std::cout << "Strong password." << std::endl;
+} else {
+std::cout << "Weak password. Missing requirements:" << std::endl;
+if (!has_uppercase) {
+std::cout << "- At least one uppercase letter" << std::endl;
+}
+if (!has_lowercase) {
+std::cout << "- At least one lowercase letter" << std::endl;
+}
+if (!has_digit) {
+std::cout << "- At least one digit" << std::endl;
+}
+if (!has_special) {
+std::cout << "- At least one special character" << std::endl;
+}
+}
+return 0;
+}
+Q3   [20]
+CO-4
+List and explain the different types of inheritance. Also, write a program to demonstrate
+SO-2   a.   [10]
+Multiple inheritance.
+BL-6
+1. What is Inheritance?
+Definition:
+Inheritance is an Object-Oriented Programming (OOP) feature in C++ that allows a
+derived class to reuse and extend the properties (data members) and behaviors
+(member functions) of a base class.
+It promotes code reusability, modularity, and hierarchical relationships between
+classes.
+2. Types of Inheritance in C++
+Diagram
+Ans.   Type   Description
+Represen
+1. Single Inheritance A single derived class inherits from one base class. A → B
+2. Multiple   A single derived class inherits from two or more
+A →B →
+Inheritance   base classes.
+3. Multilevel
+A class is derived from another derived class.   A → B →
+Inheritance
+4. Hierarchical
+Multiple classes inherit from the same base class.   A → B an
+Inheritance
+Combination of more than one type of inheritance
+5. Hybrid Inheritance   Mixed for
+(e.g., multiple + multilevel).
+********** 6 **********
+--- page 7 ---
+3. Example: Multiple Inheritance
+Concept:
+In multiple inheritance, a single class inherits from two or more base classes.
+This allows it to combine the features of multiple parent classes into one derived class.
+C++ Program: Demonstrating Multiple Inheritance
+#include <iostream>
+using namespace std;
+// Base class 1
+class Engine {
+public:
+void engineType() {
+cout << "Engine: Petrol Engine" << endl;
+}
+};
+// Base class 2
+class Body {
+public:
+void bodyType() {
+cout << "Body: Sedan Type" << endl;
+}
+};
+// Derived class inherits from both Engine and Body
+class Car : public Engine, public Body {
+public:
+void displayCar() {
+cout << "This is a Car combining Engine and Body features." << endl;
+}
+};
+int main() {
+Car myCar;
+// Accessing members from both base classes
+myCar.engineType();
+myCar.bodyType();
+myCar.displayCar();
+return 0;
+}
+Output:
+Engine: Petrol Engine
+Body: Sedan Type
+This is a Car combining Engine and Body features.
+4. Explanation
+• Engine and Body are two independent base classes.
+• Car inherits publicly from both of them, combining their properties.
+•   This demonstrates multiple inheritance, where the derived class (Car) can use
+methods from both parent classes.
+5. Advantages of Multiple Inheritance
+• Combines features of multiple classes into one.
+********** 7 **********
+--- page 8 ---
+• Promotes code reusability.
+•   Useful in modeling objects that share traits from different sources (e.g., a Car
+“has-a” Engine and Body).
+6. Ambiguity in Multiple Inheritance
+If both base classes have a function with the same name, ambiguity arises.
+Example:
+A::show();
+B::show();
+You must use the scope resolution operator (::) to specify which base class function
+to call.
+Summary Table
+Feature   Single Inheritance   Multiple Inheritance
+One class inherits from one base   One class inherits from two or more
+Definition
+class.   classes.
+Complexity Simple   Higher (can lead to ambiguity)
+Reusability Moderate   High
+Example   Student → Person   Car → Engine, Body
+CO-3   Write a program that counts the number of seats available, reserves a seat at a
+SO-2   b.   specified row and column, and shows the updated seating (0 = available, 1 = booked).   [10]
+BL-6   Show a message if it's already booked.
+#include <iostream>
+using namespace std;
+int main() {
+const int rows = 3;
+const int cols = 4;
+int seats[rows][cols] =
+{
+{0, 0, 1, 0},
+{1, 0, 0, 0},
+{0, 1, 0, 0}
+};
+int available = 0;
+for (int i = 0; i < rows; i++) {
+for (int j = 0; j < cols; j++) {
+if (seats[i][j] == 0)
+Ans.
+available++;
+}
+}
+cout << "Number of available seats: " << available << endl;
+cout << "\nCurrent seating (0 = available, 1 = booked):\n";
+for (int i = 0; i < rows; i++) {
+for (int j = 0; j < cols; j++) {
+cout << seats[i][j] << " ";
+}
+cout << endl;
+}
+int r, c;
+cout << "\nEnter row (0-" << rows - 1 << "): ";
+cin >> r;
+cout << "Enter column (0-" << cols - 1 << "): ";
+********** 8 **********
+--- page 9 ---
+cin >> c;
+if (r < 0 || r >= rows || c < 0 || c >= cols) {
+cout << "Invalid seat position!" << endl;
+return 0;
+}
+if (seats[r][c] == 0) {
+seats[r][c] = 1;
+cout << "\nSeat reserved successfully!\n";
+} else {
+cout << "\nSeat already booked!\n";
+}
+cout << "\nUpdated seating arrangement:\n";
+for (int i = 0; i < rows; i++) {
+for (int j = 0; j < cols; j++) {
+cout << seats[i][j] << " ";
+}
+cout << endl;
+}
+return 0;
+}
+Q4   [20]
+CO-3
+Write a C++ program to read integer values from user and store them in an array of
+SO-6   a.   [10]
+size ‘n’. Also, find the average of elements of the arrays using pointer.
+BL-6
+#include <iostream>
+double calculate_average_ptr(const int* arr_ptr, int n) {
+if (n <= 0) {
+return 0.0; // Avoid division by zero
+}
+long long sum = 0; // Use long long to prevent potential overflow for the sum
+for (int i = 0; i < n; ++i) {
+sum += *(arr_ptr + i);
+}
+Ans.
+return static_cast<double>(sum) / n;
+}
+int main() {
+int n;
+// Get the size of the array
+std::cout << "Enter the size of the array (n): ";
+if (!(std::cin >> n) || n <= 0) {
+std::cerr << "Invalid array size. Exiting." << std::endl;
+return 1;
+}
+********** 9 **********
+--- page 10 ---
+int* numbers = new int[n];
+if (numbers == nullptr) {
+std::cerr << "Memory allocation failed. Exiting." << std::endl;
+return 1;
+}
+std::cout << "Enter " << n << " integer elements:" << std::endl;
+for (int i = 0; i < n; ++i) {
+std::cout << "Element " << i + 1 << ": ";
+if (!(std::cin >> numbers[i])) {
+std::cerr << "Invalid input. Exiting." << std::endl;
+delete[] numbers;
+return 1;
+}
+}
+double average = calculate_average_ptr(numbers, n);
+std::cout << "\n--- Calculation Result ---" << std::endl;
+std::cout << "Array size: " << n << std::endl;
+std::cout << "Average of the elements: " << average << std::endl;
+std::cout << "--------------------------" << std::endl;
+// Free the dynamically allocated memory
+delete[] numbers;
+return 0;
+}
+CO-4
+What is friend function? List the properties of friend function and write a program to
+SO-2   b.   [10]
+illustrate the use of friend function in C++ programming language.
+BL-4
+A friend function in C++ is a function that, while not a member of a class, is granted
+access to its private and protected members. It's a way to break encapsulation when
+necessary, allowing an external function to interact with a class's internal data. A class
+declares a function as a friend using the friend keyword within its definition.
+Properties of a Friend Function
+• Not a Member Function: A friend function is not a member of the class it's
+befriended to. It's declared outside the class's scope and is not called with the
+dot operator (.) or arrow operator (->) on an object of that class.
+•   Access Rights: It has special access rights to the private and protected
+members of the class. This is its primary purpose.
+•   Declaration Location: A friend declaration can be placed anywhere in the
+Ans.   class definition (public, private, or protected section), as its access rights are
+not affected by its location.
+•   Overloading: A friend function can be overloaded. Each overloaded version
+must be separately declared as a friend.
+•   Inheritance: Friendship is not inherited. If a base class has a friend function,
+that function is not automatically a friend of the derived classes.
+#include <iostream>
+class FriendFunctionExample {
+private:
+int private_number;
+********** 10 **********
+--- page 11 ---
+public:
+// Constructor to initialize the private member
+FriendFunctionExample(int num) : private_number(num) {}
+// Declare a global function as a friend
+friend void displayPrivateData(const FriendFunctionExample& obj);
+};
+// Definition of the friend function
+// It can access obj.private_number directly
+void displayPrivateData(const FriendFunctionExample& obj) {
+std::cout << "The private number is: " << obj.private_number << std::endl;
+}
+int main() {
+// Create an object of the class
+FriendFunctionExample myObject(123);
+// Call the friend function, passing the object as an argument
+displayPrivateData(myObject);
+// Note: The following line would cause a compilation error
+// because main() cannot access the private member.
+// std::cout << myObject.private_number;
+return 0;
+}
+Q5   [20]
+CO-2   Compare for and do while loops. Write a program for the following scenario.
+SO-7   A particular month has 31 days, numbered from 1 to 31.
+Day 1 is a Monday, and the usual 7-day week is followed (so day 2 is Tuesday, day 3 is
+a.   Wednesday, and so on). Every Saturday and Sunday is a holiday. There are 𝑁 festival   [10]
+BL-4   days, which are also holidays. Note that it is possible for a festival day to occur on a
+Saturday or Sunday. You are given the dates of the festivals. Determine and print the
+total number of holidays in this month.
+Ans.
+#include <iostream>
+// Define constants for the week days (0=Mon, 6=Sun)
+********** 11 **********
+--- page 12 ---
+const int SATURDAY = 5;
+const int SUNDAY = 6;
+const int MAX_DAYS = 31; // Maximum days in a month for static array
+int main() {
+int days_in_month;
+int num_festivals;
+std::cout << "Enter the total number of days in the month (D): ";
+if (!(std::cin >> days_in_month) || days_in_month <= 0 || days_in_month >
+MAX_DAYS) {
+std::cerr << "Invalid day count. Please enter a value between 1 and " <<
+MAX_DAYS << "." << std::endl;
+return 1;
+}
+std::cout << "Enter the number of festival days (K): ";
+if (!(std::cin >> num_festivals) || num_festivals < 0) {
+std::cerr << "Invalid festival count. Exiting." << std::endl;
+return 1;
+}
+// Use a boolean array to track if a day is a holiday.
+// We use a fixed size to avoid dynamic allocation, which is a common
+// practice when vector is not allowed and the maximum size is known.
+bool is_holiday[MAX_DAYS + 1] = {false};
+int total_holidays = 0;
+// Mark Festival Days
+if (num_festivals > 0) {
+std::cout << "Enter the " << num_festivals << " festival dates:" << std::endl;
+for (int i = 0; i < num_festivals; ++i) {
+int date;
+std::cout << "Festival date " << i + 1 << ": ";
+if (!(std::cin >> date) || date < 1 || date > days_in_month) {
+std::cerr << "Invalid date. Exiting." << std::endl;
+return 1;
+}
+if (!is_holiday[date]) {
+is_holiday[date] = true;
+total_holidays++;
+}
+}
+}
+// Mark Weekend Days
+for (int date = 1; date <= days_in_month; ++date) {
+// Day 1 is Monday (index 0), so we use (date - 1) % 7 to get the day of the week.
+int day_index = (date - 1) % 7;
+if (day_index == SATURDAY || day_index == SUNDAY) {
+if (!is_holiday[date]) {
+is_holiday[date] = true;
+total_holidays++;
+}
+}
+}
+********** 12 **********
+--- page 13 ---
+std::cout << "\n----------------------------------------------------" << std::endl;
+std::cout << "Total number of holidays in the month: " << total_holidays <<
+std::endl;
+std::cout << "----------------------------------------------------" << std::endl;
+return 0;
+}
+CO-4   Define Constructor and Write a program for following scenario: A bank account has
+SO-2   accountNumber, accountHolder, and balance.
+b.   • Write a class BankAccount with default and parameterized constructors.   [10]
+BL-6   •   Initialize accounts and display account details.
+• Perform a deposit and withdrawal operation.
+#include <iostream>
+#include <string>
+using namespace std;
+class BankAccount {
+private:
+int accountNumber;
+string accountHolder;
+double balance;
+public:
+// Default Constructor
+BankAccount() {
+accountNumber = 0;
+accountHolder = "Unknown";
+balance = 0.0;
+}
+// Parameterized Constructor
+BankAccount(int accNo, string holder, double bal) {
+accountNumber = accNo;
+accountHolder = holder;
+Ans.   balance = bal;
+}
+// Function to display account details
+void display() {
+cout << "\nAccount Number: " << accountNumber;
+cout << "\nAccount Holder: " << accountHolder;
+cout << "\nBalance: Rs. " << balance << endl;
+}
+// Function to deposit money
+void deposit(double amount) {
+if (amount > 0) {
+balance += amount;
+cout << "Deposited Rs. " << amount << " successfully." << endl;
+} else {
+cout << "Invalid deposit amount!" << endl;
+}
+}
+// Function to withdraw money
+void withdraw(double amount) {
+if (amount > 0 && amount <= balance) {
+********** 13 **********
+--- page 14 ---
+balance -= amount;
+cout << "Withdrawn Rs. " << amount << " successfully." << endl;
+} else {
+cout << "Invalid withdrawal amount or insufficient balance!" << endl;
+}
+}
+};
+int main() {
+// Using default constructor
+cout << "Creating Default Account:" << endl;
+BankAccount acc1;
+acc1.display();
+// Using parameterized constructor
+cout << "\nCreating Parameterized Account:" << endl;
+BankAccount acc2(1001, "Rahul Sharma", 5000.0);
+acc2.display();
+// Performing deposit and withdrawal
+cout << "\nPerforming transactions on Rahul's account..." << endl;
+acc2.deposit(1500.0);
+acc2.withdraw(2000.0);
+// Display final details
+cout << "\nFinal Account Details:";
+acc2.display();
+return 0;
+}
+Q6   [20]
+CO-2   Write a program for following scenario.
+SO-7   Finally a monsoon has come. According to the Meteorological Department, there will
+be rain in the upcoming 𝑁 days in the city. Initially, the water level of the city is zero
+millimetres. The amount of rain on the 𝑖-th day can be described by an integer 𝐴𝑖 as
+follows:
+•   If 𝐴𝑖> 0, the water level of the city increases by 𝐴𝑖 millimetres on the 𝑖-th
+a.   [10]
+day.
+BL-6   •   If 𝐴𝑖= 0, there is no rain on the 𝑖-th day. The water level of the city decreases
+by 𝐷 millimetres on such a day. However, if the water level is less
+than 𝐷 millimetres before the 𝑖-th day, then it becomes zero instead.
+There will be a red alert in the city if the water level becomes strictly greater
+than 𝐻 millimetres on at least one of the 𝑁 days. Determine if there will be a red alert.
+#include <iostream>
+using namespace std;
+int main() {
+int N, D, H;
+Ans.   cout << "\nEnter N (days), D (decrease), and H (alert level): ";
+cin >> N >> D >> H;
+int A[N];
+cout << "Enter rainfall for " << N << " days: ";
+for (int i = 0; i < N; i++) {
+cin >> A[i];
+********** 14 **********
+--- page 15 ---
+}
+int waterLevel = 0;
+bool alert = false;
+for (int i = 0; i < N; i++) {
+if (A[i] > 0) {
+waterLevel += A[i]; // rain increases level
+} else {
+// no rain, decrease level safely
+waterLevel = max(0, waterLevel - D);
+}
+// check for red alert condition
+if (waterLevel > H) {
+alert = true;
+break;
+}
+}
+if (alert)
+cout << "YES - Red Alert!" << endl;
+else
+cout << "NO - Safe Water Level" << endl;
+return 0;
+}
+CO-3   Write a function that verifies a username by removing spaces, making sure it is
+SO-6   b.   between 5 and 15 characters long, beginning with a letter, and consisting only of   [10]
+BL-6   letters, numbers, or underscores.
+#include <iostream>
+#include <cctype>
+#include <string>
+using namespace std;
+bool verifyUsername(string username) {
+string clean = "";
+for (char c : username) {
+if (c != ' ')
+clean += c;
+}
+if (clean.length() < 5 || clean.length() > 15) {
+Ans.   cout << "Invalid: Username must be between 5 and 15 characters long.\n";
+return false;
+}
+if (!isalpha(clean[0])) {
+cout << "Invalid: Username must begin with a letter.\n";
+return false;
+}
+for (char c : clean) {
+if (!isalnum(c) && c != '_') {
+cout << "Invalid: Username can contain only letters, numbers, or
+underscores.\n";
+return false;
+********** 15 **********
+--- page 16 ---
+}
+}
+cout << "Valid username: " << clean << endl;
+return true;
+}
+int main() {
+string username;
+cout << "Enter a username: ";
+getline(cin, username);
+verifyUsername(username);
+return 0;
+}
+Q7   [20]
+CO-3   Define 2D array and write a program on following scenario: A class has 5 students and
+SO-6   3 subjects.
+a.   •   Store the marks in a 2D array (rows = students, columns = subjects).   [10]
+BL-6   •   Calculate total and average marks of each student.
+•   Display results in tabular form.
+#include <iostream>
+#include <iomanip> // for setw
+using namespace std;
+int main() {
+const int students = 5;
+const int subjects = 3;
+int marks[students][subjects];
+int total;
+double average;
+// Input marks
+for(int i = 0; i < students; i++) {
+cout << "Enter marks for student " << i+1 << ":\n";
+for(int j = 0; j < subjects; j++) {
+cout << "Subject " << j+1 << ": ";
+cin >> marks[i][j];
+}
+Ans.
+}
+// Display table header
+cout << "\nStudent\tSub1\tSub2\tSub3\tTotal\tAverage\n";
+cout << "-----------------------------------------------\n";
+// Calculate total and average
+for(int i = 0; i < students; i++) {
+total = 0;
+cout << " " << i+1 << "\t";
+for(int j = 0; j < subjects; j++) {
+cout << marks[i][j] << "\t";
+total += marks[i][j];
+}
+average = total / (double)subjects;
+cout << total << "\t" << fixed << setprecision(2) << average << endl;
+}
+********** 16 **********
+--- page 17 ---
+return 0;
+}
+CO-3   Write a program for the following scenario.
+SO-6   Sam wants to buy a new phone, but he is not willing to spend a lot of money. Instead,
+he checks the price of his chosen model everyday and waits for the price to drop to an
+acceptable value. So far, he has observed the price for 𝑁 days (numbere 1 through 𝑁);
+for each valid 𝑖, the price on the 𝑖-th day was 𝑃𝑖 rupees.
+On each day, Sam considers the price of the phone to be good if it is strictly smaller
+than all the prices he has observed during the previous five days. If there is no record
+of the price on some of the previous five days (because Sam has not started checking
+the price on that day yet), then Sam simply ignores that previous day ― we could say
+that he considers the price on that day to be infinite.
+Now, Sam is wondering ― on how many days has he considered the price to be good?
+b.   [10]
+Find the number of these days.
+BL-6   Example
+Input:
+7
+375 750 723 662 647 656 619
+Output:
+2
+Hint: Sam considers the price to be good on day 1, because he has not observed any
+prices on the previous days. The prices on days 2,3,4,5,6 are not considered good
+because they are greater than the price on day 1. Finally, the price on day 7 is
+considered good because it is smaller than all of the prices on days 2,3,4,5,6.
+#include <iostream>
+using namespace std;
+int main() {
+int N;
+cout << "Enter number of days: ";
+cin >> N;
+int P[1000]; // assuming max 1000 days
+cout << "Enter prices for " << N << " days: ";
+for (int i = 0; i < N; i++) {
+cin >> P[i];
+}
+int goodDays = 0;
+for (int i = 0; i < N; i++) {
+Ans.
+bool isGood = true;
+// Compare with up to 5 previous days
+for (int j = (i - 5 > 0 ? i - 5 : 0); j < i; j++) {
+if (P[i] >= P[j]) {
+isGood = false;
+break;
+}
+}
+if (isGood)
+goodDays++;
+}
+cout << "\nNumber of good days: " << goodDays << endl;
+return 0;
+********** 17 **********
+--- page 18 ---
+FR ICR 7] QA HH
+````
+
 ## 2024-25 · Final-Exam · Sem 1 · Answer key · paper 5cb3ee6e9963
 
 - Departments: AI and Data Science
@@ -15242,821 +16058,6 @@ return 0;
 c. Correct conversion – 2 Marks   5
 Correct Program with I/O – 3 Marks
 Page 18 of 18
-````
-
-## 2024-25 · Re-Exam · Sem 1 · Answer key · paper d2ed9502f63c
-
-- Departments: Computer Engineering, Cyber Security, Data Science, Mechanical
-- Programmes: BTech CyberSecurity 7010, Integrated Computer 7032, Integrated DS 7038, Integrated Mechanical 7031
-- Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CyberSecurity_7010/Programming for Problem Solving/ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf` (+4 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
-- Text: mixed (18 pages), mean OCR confidence 39.1
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (Mech)
-Year: III/Semester V(Exam Year: 2025-2026)
-Subject: Programming for Problem Solving
-Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 18 pages.
-2. Question No. _1_ is compulsory
-3. Out of remaining questions, attempt any _4_ questions.
-4. In all _5_ questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right-hand side indicate full marks.
-8. Assume Suitable data if necessary
-Q1   Answer briefly:   [20]
-CO-1
-Draw a flowchart to accept student’s name, roll no and marks of 3 subjects from user
-SO-1   a.   [5]
-and calculate total, average marks and print it for ‘n’ students.
-BL-6
-Ans.
-********** 1 **********
---- page 2 ---
-CO-2   Develop a solution for the following scenario.
-SO-7   Despite everyone's advice, Harshad has decided to gamble away his money.
-Today he chose a dice game to bet on. Harshad will roll 2 die one after the other, and
-b.   Harshad wins if and only if the sum of the 2 dice rolls is exactly x.   [5]
-BL-6   The die are standard fair 6-faced, with numbers 1 through 6 written on the sides.
-Harshad 's first roll turned up to be the number A. What number does Harshad need on
-his second roll to win the game? It can be proven that this number exists and is unique.
-#include <iostream>
-using namespace std;
-int main() {
-int A, X;
-Ans.
-cout << "Enter the first die roll (A): ";
-cin >> A;
-cout << "Enter the required total sum (X): ";
-********** 2 **********
---- page 3 ---
-cin >> X;
-// Calculate the second die value
-int second_die = X - A;
-cout << "Harshad needs to roll a " << second_die << " on the second die to win."
-<< endl;
-return 0;
-}
-CO-3
-SO-6   c.   List and explain any four inbuild C-style string functions from <cstring>.   [5]
-BL-2
-C-style String Functions (from <cstring>):
-These functions operate on C-style strings (character arrays terminated by a null
-character \0).
-•   strlen(const char* str): Calculates the length of a C-style string.
-•   strcpy(char* dest, const char* src): Copies a source string to a destination.
-•   strncpy(char* dest, const char* src, size_t n): Copies a specified number of
-characters.
-Ans.   •   strcat(char* dest, const char* src): Concatenates two C-style strings.
-•   strncat(char* dest, const char* src, size_t n): Concatenates a specified number
-of characters.
-•   strcmp(const char* str1, const char* str2): Compares two C-style strings.
-•   strncmp(const char* str1, const char* str2, size_t n): Compares a specified
-number of characters.
-•   strstr(const char* haystack, const char* needle): Finds the first occurrence of a
-substring.
-CO-4
-SO-2   d.   Explain the concept of function overloading using an example program in C++.   [5]
-BL-2
-Function overloading is a C++ feature that allows you to define multiple functions with
-the same name in the same scope, but with different parameters. The compiler
-distinguishes between these functions based on the number, type, or order of their
-parameters. This is a form of compile-time polymorphism, enabling you to use a single,
-intuitive function name for a variety of tasks.
-#include <iostream>
-// Overloaded function 1: Adds two integers
-int add(int a, int b) {
-std::cout << "Using integer version." << std::endl;
-return a + b;
-Ans. }
-// Overloaded function 2: Adds two doubles
-double add(double a, double b) {
-std::cout << "Using double version." << std::endl;
-return a + b;
-}
-// Overloaded function 3: Adds an integer and a double
-double add(int a, double b) {
-std::cout << "Using integer and double version." << std::endl;
-return a + b;
-********** 3 **********
---- page 4 ---
-}
-int main() {
-// Calling the integer version
-int sum1 = add(5, 10);
-std::cout << "Sum of integers: " << sum1 << std::endl;
-// Calling the double version
-double sum2 = add(5.5, 10.2);
-std::cout << "Sum of doubles: " << sum2 << std::endl;
-// Calling the integer and double version
-double sum3 = add(5, 10.2);
-std::cout << "Sum of integer and double: " << sum3 << std::endl;
-return 0;
-}
-Q2   [20]
-CO-2
-Explain recursive function and write a program to checks if a string is a palindrome
-SO-7   a.   [10]
-using recursive function. Avoid using loops or inbuilt functions.
-BL-2
-A recursive function is a function that calls itself to solve a smaller version of the
-same problem. This technique is based on the mathematical principle of recursion.
-The core components of any recursive solution are:
-1. Base Case: The condition that stops the recursion. Without a base case, the
-function would call itself infinitely, leading to a stack overflow error. The base
-case represents the simplest instance of the problem that can be solved
-directly.
-2. Recursive Step: The part of the function where the problem is broken down
-into a smaller, simpler version of itself, and the function calls itself with this
-smaller input.
-#include <iostream>
-int recursive_strlen(const char* str) {
-if (*str == '\0') {
-return 0; // Base Case: End of string reached
-}
-// Recursive Step: Add 1 to the length of the rest of the string
-Ans.   return 1 + recursive_strlen(str + 1);
-}
-bool is_palindrome_recursive(const char* str, int start, int end) {
-// 1. Base Case: If the substring is empty or has 1 character, it's a palindrome.
-if (start >= end) {
-return true;
-}
-// 2. Check current characters: If first and last characters don't match, return false.
-if (str[start] != str[end]) {
-return false;
-}
-// 3. Recursive Step: Check the inner substring.
-// Move start one step right and end one step left.
-return is_palindrome_recursive(str, start + 1, end - 1);
-}
-********** 4 **********
---- page 5 ---
-int main() {
-// Note: Using C-style char array for basic string representation
-char str1[] = "madam";
-char str2[] = "level";
-char str3[] = "hello";
-// Test 1: madam
-int len1 = recursive_strlen(str1);
-bool result1 = is_palindrome_recursive(str1, 0, len1 - 1);
-std::cout << str1 << " is a palindrome: " << (result1 ? "True" : "False") << std::endl;
-// Test 2: level
-int len2 = recursive_strlen(str2);
-bool result2 = is_palindrome_recursive(str2, 0, len2 - 1);
-std::cout << str2 << " is a palindrome: " << (result2 ? "True" : "False") << std::endl;
-// Test 3: hello
-int len3 = recursive_strlen(str3);
-bool result3 = is_palindrome_recursive(str3, 0, len3 - 1);
-std::cout << str3 << " is a palindrome: " << (result3 ? "True" : "False") << std::endl;
-return 0;
-}
-CO-3   Design a C++ program that checks if a password entered by a user is Strong or Weak.
-SO-6   A password is considered Strong if it:
-• Has at least 8 characters
-b.   [10]
-•   Contains at least one uppercase letter, one lowercase letter, one digit, and one
-BL-6   special character.
-If any condition fails, display the reason (example: “Missing digit”).
-#include <iostream>
-#include <string>
-#include <cctype> // For isupper, islower, isdigit
-int main() {
-std::string password;
-bool has_uppercase = false;
-bool has_lowercase = false;
-bool has_digit = false;
-bool has_special = false;
-std::cout << "Enter a password to check its strength:" << std::endl;
-std::getline(std::cin, password);
-Ans.
-// Check length
-if (password.length() < 8) {
-std::cout << "Weak password: Must be at least 8 characters long." << std::endl;
-return 0;
-}
-// Iterate through password to check for character types
-for (char c : password) {
-if (std::isupper(c)) {
-has_uppercase = true;
-} else if (std::islower(c)) {
-has_lowercase = true;
-} else if (std::isdigit(c)) {
-has_digit = true;
-********** 5 **********
---- page 6 ---
-} else {
-// Check for special characters by excluding letters and digits
-has_special = true;
-}
-}
-// Check all criteria and provide specific feedback
-if (has_uppercase && has_lowercase && has_digit && has_special) {
-std::cout << "Strong password." << std::endl;
-} else {
-std::cout << "Weak password. Missing requirements:" << std::endl;
-if (!has_uppercase) {
-std::cout << "- At least one uppercase letter" << std::endl;
-}
-if (!has_lowercase) {
-std::cout << "- At least one lowercase letter" << std::endl;
-}
-if (!has_digit) {
-std::cout << "- At least one digit" << std::endl;
-}
-if (!has_special) {
-std::cout << "- At least one special character" << std::endl;
-}
-}
-return 0;
-}
-Q3   [20]
-CO-4
-List and explain the different types of inheritance. Also, write a program to demonstrate
-SO-2   a.   [10]
-Multiple inheritance.
-BL-6
-1. What is Inheritance?
-Definition:
-Inheritance is an Object-Oriented Programming (OOP) feature in C++ that allows a
-derived class to reuse and extend the properties (data members) and behaviors
-(member functions) of a base class.
-It promotes code reusability, modularity, and hierarchical relationships between
-classes.
-2. Types of Inheritance in C++
-Diagram
-Ans.   Type   Description
-Represen
-1. Single Inheritance A single derived class inherits from one base class. A → B
-2. Multiple   A single derived class inherits from two or more
-A →B →
-Inheritance   base classes.
-3. Multilevel
-A class is derived from another derived class.   A → B →
-Inheritance
-4. Hierarchical
-Multiple classes inherit from the same base class.   A → B an
-Inheritance
-Combination of more than one type of inheritance
-5. Hybrid Inheritance   Mixed for
-(e.g., multiple + multilevel).
-********** 6 **********
---- page 7 ---
-3. Example: Multiple Inheritance
-Concept:
-In multiple inheritance, a single class inherits from two or more base classes.
-This allows it to combine the features of multiple parent classes into one derived class.
-C++ Program: Demonstrating Multiple Inheritance
-#include <iostream>
-using namespace std;
-// Base class 1
-class Engine {
-public:
-void engineType() {
-cout << "Engine: Petrol Engine" << endl;
-}
-};
-// Base class 2
-class Body {
-public:
-void bodyType() {
-cout << "Body: Sedan Type" << endl;
-}
-};
-// Derived class inherits from both Engine and Body
-class Car : public Engine, public Body {
-public:
-void displayCar() {
-cout << "This is a Car combining Engine and Body features." << endl;
-}
-};
-int main() {
-Car myCar;
-// Accessing members from both base classes
-myCar.engineType();
-myCar.bodyType();
-myCar.displayCar();
-return 0;
-}
-Output:
-Engine: Petrol Engine
-Body: Sedan Type
-This is a Car combining Engine and Body features.
-4. Explanation
-• Engine and Body are two independent base classes.
-• Car inherits publicly from both of them, combining their properties.
-•   This demonstrates multiple inheritance, where the derived class (Car) can use
-methods from both parent classes.
-5. Advantages of Multiple Inheritance
-• Combines features of multiple classes into one.
-********** 7 **********
---- page 8 ---
-• Promotes code reusability.
-•   Useful in modeling objects that share traits from different sources (e.g., a Car
-“has-a” Engine and Body).
-6. Ambiguity in Multiple Inheritance
-If both base classes have a function with the same name, ambiguity arises.
-Example:
-A::show();
-B::show();
-You must use the scope resolution operator (::) to specify which base class function
-to call.
-Summary Table
-Feature   Single Inheritance   Multiple Inheritance
-One class inherits from one base   One class inherits from two or more
-Definition
-class.   classes.
-Complexity Simple   Higher (can lead to ambiguity)
-Reusability Moderate   High
-Example   Student → Person   Car → Engine, Body
-CO-3   Write a program that counts the number of seats available, reserves a seat at a
-SO-2   b.   specified row and column, and shows the updated seating (0 = available, 1 = booked).   [10]
-BL-6   Show a message if it's already booked.
-#include <iostream>
-using namespace std;
-int main() {
-const int rows = 3;
-const int cols = 4;
-int seats[rows][cols] =
-{
-{0, 0, 1, 0},
-{1, 0, 0, 0},
-{0, 1, 0, 0}
-};
-int available = 0;
-for (int i = 0; i < rows; i++) {
-for (int j = 0; j < cols; j++) {
-if (seats[i][j] == 0)
-Ans.
-available++;
-}
-}
-cout << "Number of available seats: " << available << endl;
-cout << "\nCurrent seating (0 = available, 1 = booked):\n";
-for (int i = 0; i < rows; i++) {
-for (int j = 0; j < cols; j++) {
-cout << seats[i][j] << " ";
-}
-cout << endl;
-}
-int r, c;
-cout << "\nEnter row (0-" << rows - 1 << "): ";
-cin >> r;
-cout << "Enter column (0-" << cols - 1 << "): ";
-********** 8 **********
---- page 9 ---
-cin >> c;
-if (r < 0 || r >= rows || c < 0 || c >= cols) {
-cout << "Invalid seat position!" << endl;
-return 0;
-}
-if (seats[r][c] == 0) {
-seats[r][c] = 1;
-cout << "\nSeat reserved successfully!\n";
-} else {
-cout << "\nSeat already booked!\n";
-}
-cout << "\nUpdated seating arrangement:\n";
-for (int i = 0; i < rows; i++) {
-for (int j = 0; j < cols; j++) {
-cout << seats[i][j] << " ";
-}
-cout << endl;
-}
-return 0;
-}
-Q4   [20]
-CO-3
-Write a C++ program to read integer values from user and store them in an array of
-SO-6   a.   [10]
-size ‘n’. Also, find the average of elements of the arrays using pointer.
-BL-6
-#include <iostream>
-double calculate_average_ptr(const int* arr_ptr, int n) {
-if (n <= 0) {
-return 0.0; // Avoid division by zero
-}
-long long sum = 0; // Use long long to prevent potential overflow for the sum
-for (int i = 0; i < n; ++i) {
-sum += *(arr_ptr + i);
-}
-Ans.
-return static_cast<double>(sum) / n;
-}
-int main() {
-int n;
-// Get the size of the array
-std::cout << "Enter the size of the array (n): ";
-if (!(std::cin >> n) || n <= 0) {
-std::cerr << "Invalid array size. Exiting." << std::endl;
-return 1;
-}
-********** 9 **********
---- page 10 ---
-int* numbers = new int[n];
-if (numbers == nullptr) {
-std::cerr << "Memory allocation failed. Exiting." << std::endl;
-return 1;
-}
-std::cout << "Enter " << n << " integer elements:" << std::endl;
-for (int i = 0; i < n; ++i) {
-std::cout << "Element " << i + 1 << ": ";
-if (!(std::cin >> numbers[i])) {
-std::cerr << "Invalid input. Exiting." << std::endl;
-delete[] numbers;
-return 1;
-}
-}
-double average = calculate_average_ptr(numbers, n);
-std::cout << "\n--- Calculation Result ---" << std::endl;
-std::cout << "Array size: " << n << std::endl;
-std::cout << "Average of the elements: " << average << std::endl;
-std::cout << "--------------------------" << std::endl;
-// Free the dynamically allocated memory
-delete[] numbers;
-return 0;
-}
-CO-4
-What is friend function? List the properties of friend function and write a program to
-SO-2   b.   [10]
-illustrate the use of friend function in C++ programming language.
-BL-4
-A friend function in C++ is a function that, while not a member of a class, is granted
-access to its private and protected members. It's a way to break encapsulation when
-necessary, allowing an external function to interact with a class's internal data. A class
-declares a function as a friend using the friend keyword within its definition.
-Properties of a Friend Function
-• Not a Member Function: A friend function is not a member of the class it's
-befriended to. It's declared outside the class's scope and is not called with the
-dot operator (.) or arrow operator (->) on an object of that class.
-•   Access Rights: It has special access rights to the private and protected
-members of the class. This is its primary purpose.
-•   Declaration Location: A friend declaration can be placed anywhere in the
-Ans.   class definition (public, private, or protected section), as its access rights are
-not affected by its location.
-•   Overloading: A friend function can be overloaded. Each overloaded version
-must be separately declared as a friend.
-•   Inheritance: Friendship is not inherited. If a base class has a friend function,
-that function is not automatically a friend of the derived classes.
-#include <iostream>
-class FriendFunctionExample {
-private:
-int private_number;
-********** 10 **********
---- page 11 ---
-public:
-// Constructor to initialize the private member
-FriendFunctionExample(int num) : private_number(num) {}
-// Declare a global function as a friend
-friend void displayPrivateData(const FriendFunctionExample& obj);
-};
-// Definition of the friend function
-// It can access obj.private_number directly
-void displayPrivateData(const FriendFunctionExample& obj) {
-std::cout << "The private number is: " << obj.private_number << std::endl;
-}
-int main() {
-// Create an object of the class
-FriendFunctionExample myObject(123);
-// Call the friend function, passing the object as an argument
-displayPrivateData(myObject);
-// Note: The following line would cause a compilation error
-// because main() cannot access the private member.
-// std::cout << myObject.private_number;
-return 0;
-}
-Q5   [20]
-CO-2   Compare for and do while loops. Write a program for the following scenario.
-SO-7   A particular month has 31 days, numbered from 1 to 31.
-Day 1 is a Monday, and the usual 7-day week is followed (so day 2 is Tuesday, day 3 is
-a.   Wednesday, and so on). Every Saturday and Sunday is a holiday. There are 𝑁 festival   [10]
-BL-4   days, which are also holidays. Note that it is possible for a festival day to occur on a
-Saturday or Sunday. You are given the dates of the festivals. Determine and print the
-total number of holidays in this month.
-Ans.
-#include <iostream>
-// Define constants for the week days (0=Mon, 6=Sun)
-********** 11 **********
---- page 12 ---
-const int SATURDAY = 5;
-const int SUNDAY = 6;
-const int MAX_DAYS = 31; // Maximum days in a month for static array
-int main() {
-int days_in_month;
-int num_festivals;
-std::cout << "Enter the total number of days in the month (D): ";
-if (!(std::cin >> days_in_month) || days_in_month <= 0 || days_in_month >
-MAX_DAYS) {
-std::cerr << "Invalid day count. Please enter a value between 1 and " <<
-MAX_DAYS << "." << std::endl;
-return 1;
-}
-std::cout << "Enter the number of festival days (K): ";
-if (!(std::cin >> num_festivals) || num_festivals < 0) {
-std::cerr << "Invalid festival count. Exiting." << std::endl;
-return 1;
-}
-// Use a boolean array to track if a day is a holiday.
-// We use a fixed size to avoid dynamic allocation, which is a common
-// practice when vector is not allowed and the maximum size is known.
-bool is_holiday[MAX_DAYS + 1] = {false};
-int total_holidays = 0;
-// Mark Festival Days
-if (num_festivals > 0) {
-std::cout << "Enter the " << num_festivals << " festival dates:" << std::endl;
-for (int i = 0; i < num_festivals; ++i) {
-int date;
-std::cout << "Festival date " << i + 1 << ": ";
-if (!(std::cin >> date) || date < 1 || date > days_in_month) {
-std::cerr << "Invalid date. Exiting." << std::endl;
-return 1;
-}
-if (!is_holiday[date]) {
-is_holiday[date] = true;
-total_holidays++;
-}
-}
-}
-// Mark Weekend Days
-for (int date = 1; date <= days_in_month; ++date) {
-// Day 1 is Monday (index 0), so we use (date - 1) % 7 to get the day of the week.
-int day_index = (date - 1) % 7;
-if (day_index == SATURDAY || day_index == SUNDAY) {
-if (!is_holiday[date]) {
-is_holiday[date] = true;
-total_holidays++;
-}
-}
-}
-********** 12 **********
---- page 13 ---
-std::cout << "\n----------------------------------------------------" << std::endl;
-std::cout << "Total number of holidays in the month: " << total_holidays <<
-std::endl;
-std::cout << "----------------------------------------------------" << std::endl;
-return 0;
-}
-CO-4   Define Constructor and Write a program for following scenario: A bank account has
-SO-2   accountNumber, accountHolder, and balance.
-b.   • Write a class BankAccount with default and parameterized constructors.   [10]
-BL-6   •   Initialize accounts and display account details.
-• Perform a deposit and withdrawal operation.
-#include <iostream>
-#include <string>
-using namespace std;
-class BankAccount {
-private:
-int accountNumber;
-string accountHolder;
-double balance;
-public:
-// Default Constructor
-BankAccount() {
-accountNumber = 0;
-accountHolder = "Unknown";
-balance = 0.0;
-}
-// Parameterized Constructor
-BankAccount(int accNo, string holder, double bal) {
-accountNumber = accNo;
-accountHolder = holder;
-Ans.   balance = bal;
-}
-// Function to display account details
-void display() {
-cout << "\nAccount Number: " << accountNumber;
-cout << "\nAccount Holder: " << accountHolder;
-cout << "\nBalance: Rs. " << balance << endl;
-}
-// Function to deposit money
-void deposit(double amount) {
-if (amount > 0) {
-balance += amount;
-cout << "Deposited Rs. " << amount << " successfully." << endl;
-} else {
-cout << "Invalid deposit amount!" << endl;
-}
-}
-// Function to withdraw money
-void withdraw(double amount) {
-if (amount > 0 && amount <= balance) {
-********** 13 **********
---- page 14 ---
-balance -= amount;
-cout << "Withdrawn Rs. " << amount << " successfully." << endl;
-} else {
-cout << "Invalid withdrawal amount or insufficient balance!" << endl;
-}
-}
-};
-int main() {
-// Using default constructor
-cout << "Creating Default Account:" << endl;
-BankAccount acc1;
-acc1.display();
-// Using parameterized constructor
-cout << "\nCreating Parameterized Account:" << endl;
-BankAccount acc2(1001, "Rahul Sharma", 5000.0);
-acc2.display();
-// Performing deposit and withdrawal
-cout << "\nPerforming transactions on Rahul's account..." << endl;
-acc2.deposit(1500.0);
-acc2.withdraw(2000.0);
-// Display final details
-cout << "\nFinal Account Details:";
-acc2.display();
-return 0;
-}
-Q6   [20]
-CO-2   Write a program for following scenario.
-SO-7   Finally a monsoon has come. According to the Meteorological Department, there will
-be rain in the upcoming 𝑁 days in the city. Initially, the water level of the city is zero
-millimetres. The amount of rain on the 𝑖-th day can be described by an integer 𝐴𝑖 as
-follows:
-•   If 𝐴𝑖> 0, the water level of the city increases by 𝐴𝑖 millimetres on the 𝑖-th
-a.   [10]
-day.
-BL-6   •   If 𝐴𝑖= 0, there is no rain on the 𝑖-th day. The water level of the city decreases
-by 𝐷 millimetres on such a day. However, if the water level is less
-than 𝐷 millimetres before the 𝑖-th day, then it becomes zero instead.
-There will be a red alert in the city if the water level becomes strictly greater
-than 𝐻 millimetres on at least one of the 𝑁 days. Determine if there will be a red alert.
-#include <iostream>
-using namespace std;
-int main() {
-int N, D, H;
-Ans.   cout << "\nEnter N (days), D (decrease), and H (alert level): ";
-cin >> N >> D >> H;
-int A[N];
-cout << "Enter rainfall for " << N << " days: ";
-for (int i = 0; i < N; i++) {
-cin >> A[i];
-********** 14 **********
---- page 15 ---
-}
-int waterLevel = 0;
-bool alert = false;
-for (int i = 0; i < N; i++) {
-if (A[i] > 0) {
-waterLevel += A[i]; // rain increases level
-} else {
-// no rain, decrease level safely
-waterLevel = max(0, waterLevel - D);
-}
-// check for red alert condition
-if (waterLevel > H) {
-alert = true;
-break;
-}
-}
-if (alert)
-cout << "YES - Red Alert!" << endl;
-else
-cout << "NO - Safe Water Level" << endl;
-return 0;
-}
-CO-3   Write a function that verifies a username by removing spaces, making sure it is
-SO-6   b.   between 5 and 15 characters long, beginning with a letter, and consisting only of   [10]
-BL-6   letters, numbers, or underscores.
-#include <iostream>
-#include <cctype>
-#include <string>
-using namespace std;
-bool verifyUsername(string username) {
-string clean = "";
-for (char c : username) {
-if (c != ' ')
-clean += c;
-}
-if (clean.length() < 5 || clean.length() > 15) {
-Ans.   cout << "Invalid: Username must be between 5 and 15 characters long.\n";
-return false;
-}
-if (!isalpha(clean[0])) {
-cout << "Invalid: Username must begin with a letter.\n";
-return false;
-}
-for (char c : clean) {
-if (!isalnum(c) && c != '_') {
-cout << "Invalid: Username can contain only letters, numbers, or
-underscores.\n";
-return false;
-********** 15 **********
---- page 16 ---
-}
-}
-cout << "Valid username: " << clean << endl;
-return true;
-}
-int main() {
-string username;
-cout << "Enter a username: ";
-getline(cin, username);
-verifyUsername(username);
-return 0;
-}
-Q7   [20]
-CO-3   Define 2D array and write a program on following scenario: A class has 5 students and
-SO-6   3 subjects.
-a.   •   Store the marks in a 2D array (rows = students, columns = subjects).   [10]
-BL-6   •   Calculate total and average marks of each student.
-•   Display results in tabular form.
-#include <iostream>
-#include <iomanip> // for setw
-using namespace std;
-int main() {
-const int students = 5;
-const int subjects = 3;
-int marks[students][subjects];
-int total;
-double average;
-// Input marks
-for(int i = 0; i < students; i++) {
-cout << "Enter marks for student " << i+1 << ":\n";
-for(int j = 0; j < subjects; j++) {
-cout << "Subject " << j+1 << ": ";
-cin >> marks[i][j];
-}
-Ans.
-}
-// Display table header
-cout << "\nStudent\tSub1\tSub2\tSub3\tTotal\tAverage\n";
-cout << "-----------------------------------------------\n";
-// Calculate total and average
-for(int i = 0; i < students; i++) {
-total = 0;
-cout << " " << i+1 << "\t";
-for(int j = 0; j < subjects; j++) {
-cout << marks[i][j] << "\t";
-total += marks[i][j];
-}
-average = total / (double)subjects;
-cout << total << "\t" << fixed << setprecision(2) << average << endl;
-}
-********** 16 **********
---- page 17 ---
-return 0;
-}
-CO-3   Write a program for the following scenario.
-SO-6   Sam wants to buy a new phone, but he is not willing to spend a lot of money. Instead,
-he checks the price of his chosen model everyday and waits for the price to drop to an
-acceptable value. So far, he has observed the price for 𝑁 days (numbere 1 through 𝑁);
-for each valid 𝑖, the price on the 𝑖-th day was 𝑃𝑖 rupees.
-On each day, Sam considers the price of the phone to be good if it is strictly smaller
-than all the prices he has observed during the previous five days. If there is no record
-of the price on some of the previous five days (because Sam has not started checking
-the price on that day yet), then Sam simply ignores that previous day ― we could say
-that he considers the price on that day to be infinite.
-Now, Sam is wondering ― on how many days has he considered the price to be good?
-b.   [10]
-Find the number of these days.
-BL-6   Example
-Input:
-7
-375 750 723 662 647 656 619
-Output:
-2
-Hint: Sam considers the price to be good on day 1, because he has not observed any
-prices on the previous days. The prices on days 2,3,4,5,6 are not considered good
-because they are greater than the price on day 1. Finally, the price on day 7 is
-considered good because it is smaller than all of the prices on days 2,3,4,5,6.
-#include <iostream>
-using namespace std;
-int main() {
-int N;
-cout << "Enter number of days: ";
-cin >> N;
-int P[1000]; // assuming max 1000 days
-cout << "Enter prices for " << N << " days: ";
-for (int i = 0; i < N; i++) {
-cin >> P[i];
-}
-int goodDays = 0;
-for (int i = 0; i < N; i++) {
-Ans.
-bool isGood = true;
-// Compare with up to 5 previous days
-for (int j = (i - 5 > 0 ? i - 5 : 0); j < i; j++) {
-if (P[i] >= P[j]) {
-isGood = false;
-break;
-}
-}
-if (isGood)
-goodDays++;
-}
-cout << "\nNumber of good days: " << goodDays << endl;
-return 0;
-********** 17 **********
---- page 18 ---
-FR ICR 7] QA HH
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper c955858aff3a

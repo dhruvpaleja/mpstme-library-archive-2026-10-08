@@ -1,6 +1,6 @@
 # Business Communication
 
-**34** unique papers (78 copies across programmes) · 2007-08 to 2018-19 · 8 programmes · Sem 3, Trim 4, Trim 11, Trim 14
+**32** unique papers (75 copies across programmes) · 2007-08 to 2018-19 · 8 programmes · Sem 3, Trim 4, Trim 11, Trim 14
 
 Download only this subject, sorted by academic year:
 
@@ -18,7 +18,6 @@ Also filed as: `BUSINESS COMMUNICATIONS`
 | --- | --- | --- | --- | --- | --- |
 | 2018-19 | — | Question paper | Sem 3 | MBA TECH | Business communication 2018-19.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 3 | MBA TECH | Business Communication Final 2018-19.pdf |
-| 2017-18 | Re-Exam | Question paper | Sem 3 | MBA TECH / CHEMICAL | Business_Economics_2017-18 Re-exam.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 3 | MBA TECH | Business Communication Batch 2016-17 Final0001.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 3 | MBA TECH | BUSINESS COMMUNICATION BATCH 2016-2017 RE EXAM0001.pdf |
 | 2015-16 | Final-Exam | Question paper | Sem 3 | MBA TECH | Business Communication 2015-16 Final0001.pdf |
@@ -48,7 +47,6 @@ Also filed as: `BUSINESS COMMUNICATIONS`
 | 2008-09 | Re-Exam | Question paper | Trim 4 | MBA TECH / CHEMICAL | 2008-2009 re exam(18).pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 4 | MBA TECH / I T | 2008-2009 re exam(28).pdf |
 | 2007-08 | — | Question paper | Trim 4 | MBA TECH / I T | 2007-2008(43).pdf |
-| 2007-08 | Re-Exam | Question paper | Trim 4 | MBA TECH / CHEMICAL, MBA TECH / I T | 2007-2008 re exam(9) (1).pdf |
 | — | — | Question paper | Trim 4 | MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / COMPUTER, MBA TECH / I T | scan0007(10).pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

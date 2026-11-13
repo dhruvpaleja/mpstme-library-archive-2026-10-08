@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/Integrated_Computer_7032/Computer Graphics/ANS_Computer Graphics(701CO0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (20 pages), mean OCR confidence 54.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -555,6 +556,7 @@ FRI ICR DO) A RH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/Integrated_DS_7038/Computer Graphics/ANS_Computer Graphics(701CO0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (20 pages), mean OCR confidence 54.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

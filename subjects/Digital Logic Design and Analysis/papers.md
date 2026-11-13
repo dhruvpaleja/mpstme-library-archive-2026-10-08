@@ -98,6 +98,83 @@ ial
 [3]
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper 6e39bb19cecc
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/DIGITAL LOGIC DESIGN & ANALYSIS/Digital Logic Design and Analysis Batch 2017-18 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 November 2018
+- Text: ocr (2 pages), mean OCR confidence 89.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENG
+Program. B.Tech Integrated (COMPUTER) Year: HI = S
+Academic Year: 2018-2019
+Subject: Digital Logic Design & Analysis ~~ Marks: 70
+Date : 21 November 2018 Time:2.00 pm to 5.00 pni”
+Duration: 3 (hrs) a
+No. of Pages:_ 2
+Final Examination (2018-19)/Re-examination (2017-18) 4
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, whicli is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1A)_ Differentiate between Combinational Logic circuit and Sequential Logic circuit (4)
+B) Subtract (37)16 from (23)16 using 2’s compliment subtraction method (4)
+C) Perform the following conversions (3)
+
+i) (0100100110011.1101)2 to (2)s
+ii)(235)10 to (2)16
+iit) (345.5)10 to (2)2
+
+D) Add (345)scp with (434)scp (3)
+
+Q2A) Design the following logic function using 8:1 multiplexer (7)
+Y => m (1,2,4,5,7,9,11,12,13,15)
+
+B) Convert SR Flip-Flop to D Flip-Flop (1)
+
+t/a
+--- page 2 ---
+Q3 A) Design a Full Adder (7)
+
+B) Design a 2-bit Comparator (7)
+
+Q4 A) Design a Modulo-5 ripple counter using a 3-bit counter (7)
+Explain how Race around condition can be avoided in JK Flip Flop (7)
+
+Q5 A) Simplify the following expression and implement using basic gates (7)
+
+i) Y=¥ m(1,2,3,5,6,7,8,9)
+ii) Y=¥ m (0,1,2,6,10,14) + d(8,9)
+
+B) Explain how NAND can be used as universal gate. (7)
+Q6 A) Design a 3-bit Synchronous counter using T Flip Flop (7)
+
+B) Explain Positive Edge triggered S-R Flip Flop (7)
+Q7 Write shortnotes (Any 2) (14)
+
+i) Priority Encoder
+ii) Serial In Serial Out shift register
+iii) 3:8 Line Decoder
+
+2/2
+````
+
 ## 2018-19 · Re-Exam · Sem 5 · paper cad04122a5cf
 
 - Departments: Computer Engineering
@@ -283,83 +360,6 @@ J   K   Qn   Qn+l
 1   1   0   1
 1   1   1   0
 Design this sequential logic using SR flip-flop.
-````
-
-## 2017-18 · Re-Exam · Sem 5 · paper 6e39bb19cecc
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/DIGITAL LOGIC DESIGN & ANALYSIS/Digital Logic Design and Analysis Batch 2017-18 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 November 2018
-- Text: ocr (2 pages), mean OCR confidence 89.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENG
-Program. B.Tech Integrated (COMPUTER) Year: HI = S
-Academic Year: 2018-2019
-Subject: Digital Logic Design & Analysis ~~ Marks: 70
-Date : 21 November 2018 Time:2.00 pm to 5.00 pni”
-Duration: 3 (hrs) a
-No. of Pages:_ 2
-Final Examination (2018-19)/Re-examination (2017-18) 4
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, whicli is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1A)_ Differentiate between Combinational Logic circuit and Sequential Logic circuit (4)
-B) Subtract (37)16 from (23)16 using 2’s compliment subtraction method (4)
-C) Perform the following conversions (3)
-
-i) (0100100110011.1101)2 to (2)s
-ii)(235)10 to (2)16
-iit) (345.5)10 to (2)2
-
-D) Add (345)scp with (434)scp (3)
-
-Q2A) Design the following logic function using 8:1 multiplexer (7)
-Y => m (1,2,4,5,7,9,11,12,13,15)
-
-B) Convert SR Flip-Flop to D Flip-Flop (1)
-
-t/a
---- page 2 ---
-Q3 A) Design a Full Adder (7)
-
-B) Design a 2-bit Comparator (7)
-
-Q4 A) Design a Modulo-5 ripple counter using a 3-bit counter (7)
-Explain how Race around condition can be avoided in JK Flip Flop (7)
-
-Q5 A) Simplify the following expression and implement using basic gates (7)
-
-i) Y=¥ m(1,2,3,5,6,7,8,9)
-ii) Y=¥ m (0,1,2,6,10,14) + d(8,9)
-
-B) Explain how NAND can be used as universal gate. (7)
-Q6 A) Design a 3-bit Synchronous counter using T Flip Flop (7)
-
-B) Explain Positive Edge triggered S-R Flip Flop (7)
-Q7 Write shortnotes (Any 2) (14)
-
-i) Priority Encoder
-ii) Serial In Serial Out shift register
-iii) 3:8 Line Decoder
-
-2/2
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper 3874151cb51e

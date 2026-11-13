@@ -14,9 +14,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Lean Manufacturing(702ME0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Lean Manufacturing 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | QP_Lean Manufacturing(702ME0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Lean Manufacturing(702ME0E002)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Lean Manufacturing Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Lean Manufacturing, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Lean Manufacturing, Final exam ,2023-2024.pdf |

@@ -15,10 +15,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 1 | MCA | Java Programming Final 2025-26 Batch 2023-24,2024-25 Re Exam.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Java Programming(703CO0C018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Java Programming(703CO0C018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Java Programming(703CO0C018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Java Programming(703CO0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Java Programming(703CO0C018)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Java Programming(703CO0C018)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 1 | MCA | Java Programming 2024-25 Final Batch 2022-23 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MCA | Java Programming Batch 2022-23,2024-25 Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 1 | MCA | Java Programming Batch 2023-24 Final Batch 22-23 Re Exam.pdf |

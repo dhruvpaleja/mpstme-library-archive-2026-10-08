@@ -16,16 +16,16 @@ Also filed as: `ARTIFICIAL INTELLIGENCE WITH MACHINE LEARNING`, `Artificial Inte
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Artificial Intelligence and Machine Learning(702MH0C018)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_ARTIFICIAL INTELLIGENCE WITH MACHINE LEARNING(703DB0C072)_2025-2026.docx |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_ARTIFICIAL INTELLIGENCE WITH MACHINE LEARNING(703DB0C072)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_Artificial Intelligence and Machine Learning(702MH0C018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | M TECH / ARTIFICIAL INTELLIGENT | Artificial Intelligence with Machine Learning 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | QP_ARTIFICIAL INTELLIGENCE WITH MACHINE LEARNING(703DB0C072)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Artificial Intelligence and Machine Learning(702MH0C018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_ARTIFICIAL INTELLIGENCE WITH MACHINE LEARNING(703DB0C072)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Artificial Intelligence and Machine Learning(702MH0C018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_ARTIFICIAL INTELLIGENCE WITH MACHINE LEARNING(703DB0C072)_2025-2026.docx |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_ARTIFICIAL INTELLIGENCE WITH MACHINE LEARNING(703DB0C072)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_Artificial Intelligence and Machine Learning(702MH0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | QP_ARTIFICIAL INTELLIGENCE WITH MACHINE LEARNING(703DB0C072)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Artificial Intelligence and Machine Learning(702MH0C018)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_ARTIFICIAL INTELLIGENCE WITH MACHINE LEARNING(703DB0C072)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | Artificial Intelligence and Machine Learning, Sem VI, Final Exam 2024-25 & Re Exam 2022-23.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | M TECH / ARTIFICIAL INTELLIGENT | Artificial Learning with ML Batch 2024-25 Final.pdf |
 | 2022-23 | — | Question paper | Sem 6 | B TECH / MECHATRONICS | B Tech, Artificial Intelligence and Machine Learning, Sem-VI, Batch 2022-23 & 202_33421f82.pdf |

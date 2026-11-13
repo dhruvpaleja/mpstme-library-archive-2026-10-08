@@ -870,6 +870,181 @@ b) Explain operation of flyback converter in discontinuous mode with the help of
 diagram and waveforms.
 ````
 
+## 2014-15 · Re-Exam · Sem 8 · paper 3331244f163f
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_08/POWER ELECTRONICS/POWER ELECTRONICS B TECH (ELEX), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (ELEX) Year: IV Semesier: VIII
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Power Electronics ‘
+Marks: £160 a
+Date: 29/06/2015 Time: “2.00 pm to 5.60 bm _
+
+Durations*
+
+(hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data, if required.
+
+Q 1 Attempt the following... (20)
+a) Explain the operation of single- phase Inverter used in power electronics with neat circuit .
+diagram & necessary wave forms.
+b) Justify the use of three phase starter in 3 phase induction motor circuit ,giving neat circuit
+diagram.
+c) Explain, why D.C. series motor must not be started on no load. .
+
+d) Describe how speed can be varied in D.C. compound morors.
+Q.2 a) Differentiate between D.C. and A.C. Drives with suitable applications. (16)
+
+b) State different methods of speed control of induction motor. Explain any one method with neat
+circuit diagram. (10)
+
+Q.3 a) Describe the principle of “Induction heating” used in electronic industry with neat circuit
+diagram. State its limitations. (10)
+b) Describe operation of single phase cyclo -convertor with the help of neat circuit diagram
+
+and various wave forms. (10)
+
+Q.4 a) Explain the principle of Di- electric heating, giving phase diagram and explain its two
+Application (12)
+
+b) Compare Induction heating with Di- electric heating. (8)
+
+Page 1of2
+--- page 2 ---
+Q5 2) Explain how a three phase induction motor is started with the help of a rotor resistance
+starter giving neat circuit diagram & explain how would you control the speed of the
+motor. (10)
+
+b} Describe the operation of stator resistance starter with the help of neat circuit
+diagram. (10)
+
+Q.6 a)DC Shunt motor has a field resistance of 150 ohm and armature resistance of one ohm.
+“Motor is Rated for 1500 rpm and to be operated on 250 V de supply.
+How would you reduce speed to 1200 RPM & increase the speed to 1800 rpm. (10)
+b) Explain the operation of DC series motor starter with a neat circuit diagram . (10)
+Q.7 Answer the following :
+a) Bridge configuration of cyclo —convertor., (10)
+
+.
+
+b) Suitability of DC compound motor in DC drives with the help of neat sketches & wave forms.(10)
+
+Page 2 of 2
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper 2d7eb447bbb0
+
+- Departments: Electronics, Electronics and Telecommunication
+- Programmes: B TECH / ELECTRONICS, B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_08/POWER ELECTRONICS/POWER ELECTRONICS B TECH (ELEX), BATCH 2013-14 RE EXAM_2d7eb447bb.pdf` (+1 identical copies)
+- Printed on paper: exam date: 06/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (ELEX) . Year: IV 0 CELRES ET: Vill
+Batch: 2013-14 Pa “eq UOTE OP Bap,
+Academic Year: 2014-2015 han
+Subject: Power Electronics a SEE
+Mac % ¥
+
+Date: 06/05/2015 Time-\\ SA Eithob £848 1:00 pm
+
+hrs) ora
+eso
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instruction printed on the question
+paper and on the cover of the Answer Book, which is provided for their
+use.
+
+1. Question No.1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall FIVE questions to be attempted.
+
+4, Answer to each new question to be started on fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 a) Explain TWO applications of Dielectric heating. (5)
+
+b) Describe with the neat block diagram, slip power recovery scheme used in
+induction motor control drives. (5)
+
+c) Explain how would you control the speed of DC shunt motor a below normal
+speed with the help of neat sketches. (5)
+
+d) Describe TWO applications of induction heating with neat diagrams. (5)
+
+Q.2 a) Describe the operation of microcontroller based circuit for DC shunt motor
+control, giving neat flow chart/ block diagrams. (10)
+
+b) Describe how speed in three phase / slip ring induction motor can be controlled
+with the help of neat circuit diagram. (10)
+
+Q.3 a) Describe the operation of single phase to single phase cyclo-converter with the
+help of neat circuit diagram. . (10)
+
+b) Describe how you would control torque of compound motor with the help of
+neat circuit diagram. (10)
+
+Q.4 a) Describe how would you compensate for armature resistance drop in DC motor
+with the help of neat circuit diagram. (10)
+
+b) Explain how you would control the torque of DC shunt motor running at
+certain speed. : (10)
+--- page 2 ---
+Q.5 a) Explain how would you ‘control’ the speed of induction motor in the range of
+70% to 100% of rated motor speed with the help of neat circuit scheme. (10)
+
+b) Explain why DC series motor must not be switched on light load with the help
+of neat circuit diagram and analysis. (10)
+
+Q.6 a) Explain the operation of Four quadrant AC voltage controller. (10)
+b) Describe the operation of online UPS with help of neat block diagram. (10)
+
+Q.7 Write notes on any three of the following.
+a) Describe principle of operation of SMPS with neat diagram. (6)
+
+b) Describe the operation of current sources inverter motor drive with the help of
+neat circuit diagram and wave forms. (7)
+
+c) In critical continuous process application, describe the scheme of uninterrupted
+power supply used with the help neat and block diagram. (7)
+
+d) Comparison of linear voltage regulator & switched mode voltage regulator. (6)
+````
+
 ## 2014-15 · Re-Exam · Sem 8 · paper 9a1b7e579330
 
 - Departments: Electronics
@@ -1309,181 +1484,6 @@ It has 20 turns and carries 150 amperes current at a frequency of 500 KHz. The |
 resistivity of brass 6.8 x 10 micro — cm.
 
 Determine 1) Depth of penetration 2) Heat per unit area of the surface (7)
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper 3331244f163f
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_08/POWER ELECTRONICS/POWER ELECTRONICS B TECH (ELEX), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (ELEX) Year: IV Semesier: VIII
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Power Electronics ‘
-Marks: £160 a
-Date: 29/06/2015 Time: “2.00 pm to 5.60 bm _
-
-Durations*
-
-(hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data, if required.
-
-Q 1 Attempt the following... (20)
-a) Explain the operation of single- phase Inverter used in power electronics with neat circuit .
-diagram & necessary wave forms.
-b) Justify the use of three phase starter in 3 phase induction motor circuit ,giving neat circuit
-diagram.
-c) Explain, why D.C. series motor must not be started on no load. .
-
-d) Describe how speed can be varied in D.C. compound morors.
-Q.2 a) Differentiate between D.C. and A.C. Drives with suitable applications. (16)
-
-b) State different methods of speed control of induction motor. Explain any one method with neat
-circuit diagram. (10)
-
-Q.3 a) Describe the principle of “Induction heating” used in electronic industry with neat circuit
-diagram. State its limitations. (10)
-b) Describe operation of single phase cyclo -convertor with the help of neat circuit diagram
-
-and various wave forms. (10)
-
-Q.4 a) Explain the principle of Di- electric heating, giving phase diagram and explain its two
-Application (12)
-
-b) Compare Induction heating with Di- electric heating. (8)
-
-Page 1of2
---- page 2 ---
-Q5 2) Explain how a three phase induction motor is started with the help of a rotor resistance
-starter giving neat circuit diagram & explain how would you control the speed of the
-motor. (10)
-
-b} Describe the operation of stator resistance starter with the help of neat circuit
-diagram. (10)
-
-Q.6 a)DC Shunt motor has a field resistance of 150 ohm and armature resistance of one ohm.
-“Motor is Rated for 1500 rpm and to be operated on 250 V de supply.
-How would you reduce speed to 1200 RPM & increase the speed to 1800 rpm. (10)
-b) Explain the operation of DC series motor starter with a neat circuit diagram . (10)
-Q.7 Answer the following :
-a) Bridge configuration of cyclo —convertor., (10)
-
-.
-
-b) Suitability of DC compound motor in DC drives with the help of neat sketches & wave forms.(10)
-
-Page 2 of 2
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper 2d7eb447bbb0
-
-- Departments: Electronics, Electronics and Telecommunication
-- Programmes: B TECH / ELECTRONICS, B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_08/POWER ELECTRONICS/POWER ELECTRONICS B TECH (ELEX), BATCH 2013-14 RE EXAM_2d7eb447bb.pdf` (+1 identical copies)
-- Printed on paper: exam date: 06/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (ELEX) . Year: IV 0 CELRES ET: Vill
-Batch: 2013-14 Pa “eq UOTE OP Bap,
-Academic Year: 2014-2015 han
-Subject: Power Electronics a SEE
-Mac % ¥
-
-Date: 06/05/2015 Time-\\ SA Eithob £848 1:00 pm
-
-hrs) ora
-eso
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instruction printed on the question
-paper and on the cover of the Answer Book, which is provided for their
-use.
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall FIVE questions to be attempted.
-
-4, Answer to each new question to be started on fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 a) Explain TWO applications of Dielectric heating. (5)
-
-b) Describe with the neat block diagram, slip power recovery scheme used in
-induction motor control drives. (5)
-
-c) Explain how would you control the speed of DC shunt motor a below normal
-speed with the help of neat sketches. (5)
-
-d) Describe TWO applications of induction heating with neat diagrams. (5)
-
-Q.2 a) Describe the operation of microcontroller based circuit for DC shunt motor
-control, giving neat flow chart/ block diagrams. (10)
-
-b) Describe how speed in three phase / slip ring induction motor can be controlled
-with the help of neat circuit diagram. (10)
-
-Q.3 a) Describe the operation of single phase to single phase cyclo-converter with the
-help of neat circuit diagram. . (10)
-
-b) Describe how you would control torque of compound motor with the help of
-neat circuit diagram. (10)
-
-Q.4 a) Describe how would you compensate for armature resistance drop in DC motor
-with the help of neat circuit diagram. (10)
-
-b) Explain how you would control the torque of DC shunt motor running at
-certain speed. : (10)
---- page 2 ---
-Q.5 a) Explain how would you ‘control’ the speed of induction motor in the range of
-70% to 100% of rated motor speed with the help of neat circuit scheme. (10)
-
-b) Explain why DC series motor must not be switched on light load with the help
-of neat circuit diagram and analysis. (10)
-
-Q.6 a) Explain the operation of Four quadrant AC voltage controller. (10)
-b) Describe the operation of online UPS with help of neat block diagram. (10)
-
-Q.7 Write notes on any three of the following.
-a) Describe principle of operation of SMPS with neat diagram. (6)
-
-b) Describe the operation of current sources inverter motor drive with the help of
-neat circuit diagram and wave forms. (7)
-
-c) In critical continuous process application, describe the scheme of uninterrupted
-power supply used with the help neat and block diagram. (7)
-
-d) Comparison of linear voltage regulator & switched mode voltage regulator. (6)
 ````
 
 ## 2013-14 · Re-Exam · Sem 8 · paper 85e76fc0f42f

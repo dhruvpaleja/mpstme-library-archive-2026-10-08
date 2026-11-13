@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Design and Applications of Internet of Things(702CS0C007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CS 7055 | QP_Design and Applications of Internet of Things(702CS0C007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Design and Applications of Internet of Things(702CS0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Design and Applications of Internet of Things(702CS0C007)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech CS 7055 | QP_Design and Applications of Internet of Things(702CS0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Design and Applications of Internet of Things(702CS0C007)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER | Design and Applications of Internet of Things, Sem IV, Final Exam 2024-25 & Re Ex_7b0565bf.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 4 | B TECH / COMPUTER | Design & Application of Internet of Things, Sem-IV, Year 2022-23, Final Exam.pdf |
 

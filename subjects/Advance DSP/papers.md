@@ -229,6 +229,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/II SEMESTER/ADVANCES DSP/Advanced DSP 2014-15 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 06/05/2015
 - Text: ocr (3 pages), mean OCR confidence 87.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS PA ew
@@ -304,7 +305,6 @@ New sampling rate: fav = 8 kHz
 XA) Stage Mice, ee ee ee
 Anti-aliasing _ | : : [Anti-aliasing ; ; » y¥(m)
 : filter H1(z) [im | ‘ filter H2(z) iM :
-QAQKHZ:<-c2en sn ceteecece sete eeee sod DAKHZ torrecceses dese cbogs ose eta 2S BRHIZ
 A
 (b) Sketch the lattice structure for the (6M)
 
@@ -470,6 +470,7 @@ Q7 (a) Write short notes on any two (6x2=12)
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/II SEMESTER/ADVANCES DSP/Advanced DSP 2013-14 Final.pdf`
 - Printed on paper: exam date: 06/05/2014
 - Text: ocr (2 pages), mean OCR confidence 86.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -569,8 +570,6 @@ uncorrelated.
 Design a butterworth digital LPF using bilinear transformation ny taking T=0.1 to satisfy 10
 following specifications.
 
-O-G <IHCe!”)\ < 1.0 fey OSWLO'ZST
-tHces)| 2 ON fer OTT OST
 
 The transfer function of IIR filter is H(z)= 1+0.7z-1/1-0.9z-1. 10
 
@@ -742,6 +741,7 @@ ite)
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ELECTRONIC/TRIM II/ADVANCE DSP/Advanced DSP 2012-13 Final.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07/02/2013
 - Text: ocr (2 pages), mean OCR confidence 83.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 u
@@ -833,7 +833,6 @@ al aie
 
 25
 
-J] — en dw a de- sei?
 
 where o is the vatiance of the input sequence.
 
@@ -928,104 +927,7 @@ rk
 (b) Derive the Wiener-HopfOequation for FIRWiener filter.   1101
 ````
 
-## 2010-11 · Re-Exam · Trim 2 · ZIP of papers · paper 6f5110251584 · Advanced DSP 2010-11 Re-Exam.pdf.pdf
-
-- Departments: Electronics and Telecommunication
-- Programmes: M TECH / EXTC
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM II/ADVANCE DSP/M Tech EXTC TRIM II advanced DSP 2010-2011 Re exam.zip`
-- Text: ocr (2 pages), mean OCR confidence 77.3
-
-````text
-SVKM’s NMIMS
-
-\ Mukesh Patel School of Technology Management & Engineerin;
-Programme: M.TECH - EXTC Year: I Trimester: a
-Academic Year : 2010-2011
-Batch: 2010-2011
-Subject: Advanced DSP Marks:
-Time:
-Dae: 18/06/2011 Duration:
-
-NLRB Y
-3)
-i.   G) How do you compute the energy of a discrete signal in time and frequency domains? {12]
-(A)
-Gi) Define sample autocorrelation function. Give the é of this estimate.
-
-(Hi) Whai is the basic principle < ie power spectrum?
-(iv) Why are FIR filters widel
-(v) Definer Power spectrum
-ivi) Define Hilbert transform
-
-(B) (@) Explain Physical significance of spectral factorization. {8}
-Gi) Wiener — Khintchine theorem.
-
-2.(A) Consider the two systems shown in figure [10]
-
-erms of x[nj, M, aad L
-
-(i) Describe y,[n] and yz in} :
-you derived im part (@) to show that, if M and L are relatively
-
-(ii) Use the relationships th
-prime, then y,{n} = yo[n)
-
-(B) Explain the pole zero locations tor Type 1, Type if Type Il and Type fV linear phase FIR [10]
-filters.
-3.(A) Consider the two-channel QMF bank in figure with analysis and synthesis filters given by [10]
-Holz) =34427°-3827%42%42°%.   ilz) = Ho(--)
-Find a set of causal and stabie synthesis filters that result in perfect reconstruction.
-(B) Explain power spectrum estimation using Bartlet method. {10]
-
-Sampling rate of the input [10]
-
-as.
-
-4.(A) Implement a two stage decimator for ihe following specificati
-signal = 20000 Hz
-
-M=100
-
-Passband = 0 to 40 Hz
-Transition band 40 to 50 Hz
-Passband ripple = 0.01
-Stopband ripple = 0.002
-
-Vy
---- page 2 ---
-dogram, and {10}
-
-fidh
-
-{ iwY
-lHle" |< 0.1, 05<SaSm
-
-Use bilinear transformation and assuming T = sec
-
-(B) Explain LMS algorithm for direct FIR filters. {10]
-
-Perform the Haar decomposition, using (1/2, 1/2) and [10]
-
-6(A) Letx=[9501-6-5140-5750
-(1/2, -1/2) as Gecomposition {analys
-
-(B) Application of DSP in radar signa’ processing {10}
-
-Ts Write short notes on the following
-
-(A) Forware linear prediction 10]
-{10]
-
-(Bs FIR wiener filter
-
-IN
-
-i
-
-a
-````
-
-## Year not stated · Exam not stated · Trim 2 · paper ce3b6c37d883
+## 2011-12 · Exam not stated · Trim 2 · paper ce3b6c37d883
 
 - Departments: Electronics, Electronics and Telecommunication
 - Programmes: M TECH / ELECTRONIC, M TECH / EXTC
@@ -1126,7 +1028,7 @@ v7
 fa
 ````
 
-## Year not stated · Exam not stated · Trim 2 · ZIP of papers · paper e4c679642dd8 · ADVANCED DSP.pdf
+## 2011-12 · Exam not stated · Trim 2 · ZIP of papers · paper e4c679642dd8 · ADVANCED DSP.pdf
 
 - Departments: Electronics
 - Programmes: M TECH / ELECTRONIC
@@ -1227,7 +1129,7 @@ v7
 fa
 ````
 
-## Year not stated · Exam not stated · Trim 2 · ZIP of papers · paper 0ec41aaf73e8 · ADVANCED DSP.pdf
+## 2011-12 · Exam not stated · Trim 2 · ZIP of papers · paper 0ec41aaf73e8 · ADVANCED DSP.pdf
 
 - Departments: Electronics and Telecommunication
 - Programmes: M TECH / EXTC
@@ -1326,4 +1228,101 @@ x
 v7
 
 fa
+````
+
+## 2010-11 · Re-Exam · Trim 2 · ZIP of papers · paper 6f5110251584 · Advanced DSP 2010-11 Re-Exam.pdf.pdf
+
+- Departments: Electronics and Telecommunication
+- Programmes: M TECH / EXTC
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM II/ADVANCE DSP/M Tech EXTC TRIM II advanced DSP 2010-2011 Re exam.zip`
+- Text: ocr (2 pages), mean OCR confidence 77.3
+
+````text
+SVKM’s NMIMS
+
+\ Mukesh Patel School of Technology Management & Engineerin;
+Programme: M.TECH - EXTC Year: I Trimester: a
+Academic Year : 2010-2011
+Batch: 2010-2011
+Subject: Advanced DSP Marks:
+Time:
+Dae: 18/06/2011 Duration:
+
+NLRB Y
+3)
+i.   G) How do you compute the energy of a discrete signal in time and frequency domains? {12]
+(A)
+Gi) Define sample autocorrelation function. Give the é of this estimate.
+
+(Hi) Whai is the basic principle < ie power spectrum?
+(iv) Why are FIR filters widel
+(v) Definer Power spectrum
+ivi) Define Hilbert transform
+
+(B) (@) Explain Physical significance of spectral factorization. {8}
+Gi) Wiener — Khintchine theorem.
+
+2.(A) Consider the two systems shown in figure [10]
+
+erms of x[nj, M, aad L
+
+(i) Describe y,[n] and yz in} :
+you derived im part (@) to show that, if M and L are relatively
+
+(ii) Use the relationships th
+prime, then y,{n} = yo[n)
+
+(B) Explain the pole zero locations tor Type 1, Type if Type Il and Type fV linear phase FIR [10]
+filters.
+3.(A) Consider the two-channel QMF bank in figure with analysis and synthesis filters given by [10]
+Holz) =34427°-3827%42%42°%.   ilz) = Ho(--)
+Find a set of causal and stabie synthesis filters that result in perfect reconstruction.
+(B) Explain power spectrum estimation using Bartlet method. {10]
+
+Sampling rate of the input [10]
+
+as.
+
+4.(A) Implement a two stage decimator for ihe following specificati
+signal = 20000 Hz
+
+M=100
+
+Passband = 0 to 40 Hz
+Transition band 40 to 50 Hz
+Passband ripple = 0.01
+Stopband ripple = 0.002
+
+Vy
+--- page 2 ---
+dogram, and {10}
+
+fidh
+
+{ iwY
+lHle" |< 0.1, 05<SaSm
+
+Use bilinear transformation and assuming T = sec
+
+(B) Explain LMS algorithm for direct FIR filters. {10]
+
+Perform the Haar decomposition, using (1/2, 1/2) and [10]
+
+6(A) Letx=[9501-6-5140-5750
+(1/2, -1/2) as Gecomposition {analys
+
+(B) Application of DSP in radar signa’ processing {10}
+
+Ts Write short notes on the following
+
+(A) Forware linear prediction 10]
+{10]
+
+(Bs FIR wiener filter
+
+IN
+
+i
+
+a
 ````

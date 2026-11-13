@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7, Sem 11 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Design of Transmission Systems(702ME0E017)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7, Sem 11 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Design of Transmission Systems 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Mechanical 7003 | QP_Design of Transmission Systems(702ME0E017)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7, Sem 11 | BTech Mechanical 7003, Integrated Mechanical 7031 | QP_Design of Transmission Systems(702ME0E017)_2025-2026_471ab14551.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7, Sem 11 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Design of Transmission Systems(702ME0E017)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Design of Transmission Systems, Sem-VII, Final Exam 2024-25.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / MECHANICAL | Design of Transmission Systems, Sem-VII, A Y 2023-24, Final Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | MBA TECH / MECHANICAL | Design of Transmission systems,Final 23-24.pdf |

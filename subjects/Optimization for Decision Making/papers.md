@@ -537,6 +537,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Optimization for Decision Making/Optimization for Decision Making,Sem8,Final,2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 22 April 2022
 - Text: ocr (4 pages), mean OCR confidence 78.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVEM’s NMIMS x
@@ -705,7 +706,6 @@ CO-01, 02, 03; 3x4 +X2 —X3 $10,—xXq + 4x2 +X3 S$6,xX2 +X3 54 Xq,X7,X3 2 0
 ,5O-Post Optimality
 “Analysis of LPP; -1}2}-1/0]0)]-M] 0
 p= Lanes cs| Xs | B|ai|a2|a3|Si|S| Ar| Ss [10]
-fAnalyaes Destany o| s |6l/alol2lilolof-
 Evaluate ‘
 2 xr 4/Q0;1;12/0/;/0];0]1
 0 Ss WO] 1) O0};3;)/0};1]-1) 4

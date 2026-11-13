@@ -1272,6 +1272,7 @@ Indicator
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/Microservice and Architecture/Microservices and Architecture Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2024
 - Text: ocr (3 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Year: I1/Semester II[(Exam Year: 2024-2025) SE Na S
@@ -1326,7 +1327,6 @@ Docker containers and Kubernetes pods
 
 3A ‘| Explain the following API Gateway concepts 10
 
-HRAARAAARK RRR ERK EEK
 --- page 2 ---
 1. Header-based Routing
 2. Method-based Routing .

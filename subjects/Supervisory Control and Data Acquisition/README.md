@@ -14,12 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Supervisory Control and Data Acquisition(702MH0C016)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Supervisory Control and Data Acquisition, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CyberSecurity 7010 | QP_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
@@ -27,12 +21,18 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechanical 7003 | QP_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_Supervisory Control and Data Acquisition(702MH0C016)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Supervisory Control and Data Acquisition(702MH0C016)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH, B.TECH INTEGRATED, MBA TECH | Supervisory Control and Data Acquisition Batch 2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | B Tech, Supervisory control and Data Acquisition, Sem-VI, Batch 2022-23 & 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech DS 7009 | QP_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | Supervisory Control and Data Acquisition, Sem VI, Final Exam 2024-25 & Re Exam 2022-23,.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Supervisory Control and Data Acquisition, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH | Supervisory Control and Data Acquisition, Sem VI, Final Exam 2024-25.pdf |

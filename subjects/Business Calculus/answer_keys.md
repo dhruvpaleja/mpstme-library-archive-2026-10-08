@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CSE_DS_7011/Business Calculus/ANS_Business Calculus(702BS0C015)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (19 pages), mean OCR confidence 73.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -569,7 +570,6 @@ of the form p = Ae™ that best fits the given data points (x; pz) fork = 1,...,
 we first find the least-squares line y= mv + b for the data points (xy, In ps).
 Arrange the calculations as follows:
 
-k Xie Pk Ye = In PE Xk Xie
 1 6 743 6.61 39.66 36
 2 10-539 6.29 62.90 100
 3 17-308 5.73 9741 289
@@ -864,6 +864,7 @@ DR ROR RK SRR RR
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CSE_DS_7011/Business Calculus/ANS_Business Calculus(702BS0C015)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 77.8
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -902,13 +903,11 @@ Given: v 0-074 “tel ges
 B= £9,680
 To Find P
 /
-UL) Com poundoct Qunttrt y! Hone, K=4
 ~ KT tia
 P= 6 (ioe) = SBbD (I+ OOF
 k 4
 (2Mkg )
 = 9oe0rx bitogg = 6361-42 +
-ti) Co mpoun deol Contin woudly . Heng
 -¥T -oornd -0:35
 P= BE = JED = J600 ©
 = 96sd%X O'THF = 349.19 $ (2Mks)
@@ -1057,7 +1056,6 @@ follows:
 3x? = subtract x” from both sides
 3 x" =0 subtract : & m both side: 3Mks
 x(x-1l=0 factor out x~
-x=0,1 we=0 ifand only ifu=O0orv=0
 
 The corresponding points (0, 0) and (1. 1) are the only points of intersection.
 
@@ -1087,7 +1085,6 @@ time ft is:
 
 dQ AQdK | AQdL
 
-dt OK di OL dt 2Mks
 
 Step 2: Compute the partial derivatives
 

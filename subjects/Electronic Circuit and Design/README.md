@@ -1,6 +1,6 @@
 # Electronic Circuit and Design
 
-**20** unique papers (20 copies across programmes) · 2013-14 to 2018-19 · 1 programme · Sem 3
+**19** unique papers (19 copies across programmes) · 2013-14 to 2018-19 · 1 programme · Sem 3
 
 Download only this subject, sorted by academic year:
 
@@ -30,7 +30,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2013-14 | Final-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRONIC CIRCUIT ANALYSIS AND DESIGN 2013-14 FINAL EXAM.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRONIC CIRCUIT ANALYSIS AND DESIGN B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2013-14 RE EXAM.pdf |
-| 2013-14 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2013-14 RE EXAM_4b646729b3.pdf |
 | — | Final-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRONIC CIRCUIT ANALYSIS AND DESIGN (EXTC), FINAL EXAM.pdf |
 | — | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRONIC CIRCUIT ANALYSIS AND DESIGN B TECH (EXTC), BATCH 20214-15 RE EXAM.pdf |
 | — | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | Electronic circuit analysis & Design , Re-exam 17-18-19.pdf |

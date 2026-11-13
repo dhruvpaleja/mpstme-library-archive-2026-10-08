@@ -275,6 +275,139 @@ a : x
 YQ
 ````
 
+## 2012-13 · Exam not stated · Trim 15 · paper 6a1d218e2fe9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/MEDIA MARKETING/Scan 0019.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 12/4/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management (la
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV
+Academic Year : 2012-2013
+Subject:   MEDIA MARKETING   Marks:   50
+Time:
+Date:   12/4/2013   Duration:   2   hrs.
+Final - Examination
+Instructions: Candidates should carefully read the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+Note: Answer any two questions from each section. Each question in section A has 10 marks and in
+section B has 15 marks. Answer t o each question t o be started on a fresh page. Figures in brackets on
+the right hand side indicate full marks.
+SECTION A (Answer any two)
+Q.% Explain the methodology for calculating the Market Potential Value of districts in R K Swamy Guide
+to Urban Markets. Include in your answer the components, the weightage, and the rationale (10 marks)
+Q. 2 'Some television media planners use channels as a planning unit rather than day parts for
+television media planning. Which are the factors influencing TV channel selection process? (10 marks)
+Q,3 Describe the steps to deciding media weights (10 marks)
+SECTION B (Answer any two)
+Q.? Suggest the media mix for a pizza when the marketer has to achieve the following task (15 marks)
+- Communicate a weekly coupon offer
+- Promote the new cheese burst pizza
+1   - Advertise the 30 minute delivery guarantee
+- Promote the toll free hunger line
+- Get kids to be active influencers
+Q.5. Define the following terms and explain their usage in media planning (3 marks each)
+1. TRP as per diary system versus people meter
+2. Discrete and cumulative distribution
+3. Effective frequency and effective reach
+4. Stickiness index
+5. Selectivity Index
+8
+--- page 2 ---
+Q. 6. Consider the following creative of brand Samsung mobiles; Calculate the effective frequency for
+this brand using the FCB frequency estimator grid. (15 marks)
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper dec5d149564a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/MEDIA MARKETING/MEDIA MARKETING 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 3/4/2012
+- Text: ocr (2 pages), mean OCR confidence 88.9
+
+````text
+SVKM’s NMIMS UBRARY
+Mukesh Patel School Of Technology Management & Engineering? |
+
+: oO .
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV aN on
+Academic Year : 2011-2012
+
+Subject: MEDIA MARKETING Marks: 50
+Time: 2.00 pm To 4.00 pm
+Date: 3/4/2012 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should carefuily read the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+Note: Answer any one questions from Section A All questions in Section B are compulsory.
+
+Answer to each question to be started on a fresh page.
+
+Figures in brackets on the right hand side indicate full marks.
+
+SECTION A (Answer any one)
+
+Q. 1. Despite dominance and versatility of television, why do media planners use a media mix? Briefly
+state the factors influencing a media mix? (2@marks)
+
+Q. 2. Assume that you are developing a media plan that calls for extra advertising weight in markets
+| with sales strengths and/or good potential for sales growth. Now using the data in the table 1 select the
+y markets that are to get the extra advertising weight, from the 18 markets . Please explain your market
+selections with reasons? What additional data would you seek to facilitate market selection? (marks)
+
+SECTION B (All questions are compulsory)
+Q. 3. Define any four of the following terms and explain their usage in media planning (5 marks each)
+
+1. TRP as per diary system versus people meter
+2. Discrete and cumulative distribution
+3. Effective frequency and effective reach
+
+‘ 4 hi Stickiness index
+Selectivity Index
+
+. Q. 4.
+
+a) Which scheduling pattern is the best — continuity, flighting or pulsing? Explain (5 marks)
+b) What are the quantitative and qualitative factors affecting media mix. (5 marks)
+
+Vy
+--- page 2 ---
+Table 1:
+
+Area Current | Previous. | % Current: | Previous’ | Current
+eas year. | Year ; change | BDI year BDI} CDI
+sales( sales(000) cn Pe PA Beene ue
+000). : Rs.
+Rsv
+a. Andhra pradesh 464 A483 -2.9 62 68 so
+2; Arunachal Pradesh 561 498 +12.7 129 123 110
+3. Assam 580 481 +20.6 179 158 120
+4. Bihar 281 250 +12.4 104 98 98
+5. Delhi 276 278 -0.7 134 143 145
+6. gujarat 328 300 +93 164 159 155
+7. Haryana 188 170 +10.6 101 97 92
+8. Himachal 239 236 +1.3 141 140 155
+9. Karnataka 107 84 +27.4 70 58 102
+10. | Kerala 72 96 -25.0 54 77 115
+11. Maharashtra 112 125 -10.4 103 104 110
+12. NE 145 121 +19.8 118 104 110
+13. Orissa 153 163 -16.1 146 165 160
+(14. Punjab 119 95 +25.3 124 105 105
+las. | Rajasthan 38 50] -24.0 44 61 122
+16. TamilNadu 109 95 +15.8 119 110 109
+17. | Uttar Pradesh 109 66 +65.2 152 107 108
+18. | West Bengal 102 126 -19.0 118 122 129
+4
+````
+
 ## 2011-12 · Re-Exam · Trim 15 · paper bdbcfd798ab2
 
 - Departments: Common (all branches)
@@ -364,137 +497,4 @@ Rajasthan 38 50 -24.0 44 61 122
 | TamilNadu - 109 95 +15.8 119 110 109
 Uttar Pradesh 109 66 +65.2 152. 107 108
 West Bengal — 102 126 “19.08 © 178 122 129
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper dec5d149564a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/MEDIA MARKETING/MEDIA MARKETING 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 3/4/2012
-- Text: ocr (2 pages), mean OCR confidence 88.9
-
-````text
-SVKM’s NMIMS UBRARY
-Mukesh Patel School Of Technology Management & Engineering? |
-
-: oO .
-Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV aN on
-Academic Year : 2011-2012
-
-Subject: MEDIA MARKETING Marks: 50
-Time: 2.00 pm To 4.00 pm
-Date: 3/4/2012 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should carefuily read the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-Note: Answer any one questions from Section A All questions in Section B are compulsory.
-
-Answer to each question to be started on a fresh page.
-
-Figures in brackets on the right hand side indicate full marks.
-
-SECTION A (Answer any one)
-
-Q. 1. Despite dominance and versatility of television, why do media planners use a media mix? Briefly
-state the factors influencing a media mix? (2@marks)
-
-Q. 2. Assume that you are developing a media plan that calls for extra advertising weight in markets
-| with sales strengths and/or good potential for sales growth. Now using the data in the table 1 select the
-y markets that are to get the extra advertising weight, from the 18 markets . Please explain your market
-selections with reasons? What additional data would you seek to facilitate market selection? (marks)
-
-SECTION B (All questions are compulsory)
-Q. 3. Define any four of the following terms and explain their usage in media planning (5 marks each)
-
-1. TRP as per diary system versus people meter
-2. Discrete and cumulative distribution
-3. Effective frequency and effective reach
-
-‘ 4 hi Stickiness index
-Selectivity Index
-
-. Q. 4.
-
-a) Which scheduling pattern is the best — continuity, flighting or pulsing? Explain (5 marks)
-b) What are the quantitative and qualitative factors affecting media mix. (5 marks)
-
-Vy
---- page 2 ---
-Table 1:
-
-Area Current | Previous. | % Current: | Previous’ | Current
-eas year. | Year ; change | BDI year BDI} CDI
-sales( sales(000) cn Pe PA Beene ue
-000). : Rs.
-Rsv
-a. Andhra pradesh 464 A483 -2.9 62 68 so
-2; Arunachal Pradesh 561 498 +12.7 129 123 110
-3. Assam 580 481 +20.6 179 158 120
-4. Bihar 281 250 +12.4 104 98 98
-5. Delhi 276 278 -0.7 134 143 145
-6. gujarat 328 300 +93 164 159 155
-7. Haryana 188 170 +10.6 101 97 92
-8. Himachal 239 236 +1.3 141 140 155
-9. Karnataka 107 84 +27.4 70 58 102
-10. | Kerala 72 96 -25.0 54 77 115
-11. Maharashtra 112 125 -10.4 103 104 110
-12. NE 145 121 +19.8 118 104 110
-13. Orissa 153 163 -16.1 146 165 160
-(14. Punjab 119 95 +25.3 124 105 105
-las. | Rajasthan 38 50] -24.0 44 61 122
-16. TamilNadu 109 95 +15.8 119 110 109
-17. | Uttar Pradesh 109 66 +65.2 152 107 108
-18. | West Bengal 102 126 -19.0 118 122 129
-4
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 6a1d218e2fe9
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/MEDIA MARKETING/Scan 0019.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 12/4/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management (la
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV
-Academic Year : 2012-2013
-Subject:   MEDIA MARKETING   Marks:   50
-Time:
-Date:   12/4/2013   Duration:   2   hrs.
-Final - Examination
-Instructions: Candidates should carefully read the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-Note: Answer any two questions from each section. Each question in section A has 10 marks and in
-section B has 15 marks. Answer t o each question t o be started on a fresh page. Figures in brackets on
-the right hand side indicate full marks.
-SECTION A (Answer any two)
-Q.% Explain the methodology for calculating the Market Potential Value of districts in R K Swamy Guide
-to Urban Markets. Include in your answer the components, the weightage, and the rationale (10 marks)
-Q. 2 'Some television media planners use channels as a planning unit rather than day parts for
-television media planning. Which are the factors influencing TV channel selection process? (10 marks)
-Q,3 Describe the steps to deciding media weights (10 marks)
-SECTION B (Answer any two)
-Q.? Suggest the media mix for a pizza when the marketer has to achieve the following task (15 marks)
-- Communicate a weekly coupon offer
-- Promote the new cheese burst pizza
-1   - Advertise the 30 minute delivery guarantee
-- Promote the toll free hunger line
-- Get kids to be active influencers
-Q.5. Define the following terms and explain their usage in media planning (3 marks each)
-1. TRP as per diary system versus people meter
-2. Discrete and cumulative distribution
-3. Effective frequency and effective reach
-4. Stickiness index
-5. Selectivity Index
-8
---- page 2 ---
-Q. 6. Consider the following creative of brand Samsung mobiles; Calculate the effective frequency for
-this brand using the FCB frequency estimator grid. (15 marks)
 ````

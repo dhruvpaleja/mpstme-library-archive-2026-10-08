@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/TRIM XII/MARKETING RESEARCH/2007-2008(152).pdf` (+1 identical copies)
 - Printed on paper: max marks: 50
 - Text: ocr (3 pages), mean OCR confidence 80.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 oO
@@ -21,7 +22,6 @@ Noy
 eves VS
 eee — \2 aEeee :
 ahaa a nive yx a :
-Je Mokasls Patel Schaal of aay gunesung
 Ran. . 2-04 MARKS : 50 ae WE
 d GEL dee Gay a Qoaizii Se rare How aS? ‘Ye aa
 ee: ;
@@ -92,7 +92,6 @@ At whai designation would you go for luxury brands
 Indicate the number of products among the following list.that ,
 How strongly do you believe in value offered by luxury. brands.
 1. Thebrandsusemakesonestandoutinthecrowd ne
-2.Thebrandsisusedbypeopleexy presstheirindividuality wary gate CX aga? FEET
 3.The brands heip to seck attention
 4. The brands has more style in it.
 _5,The brands provide social visibility . Si AE

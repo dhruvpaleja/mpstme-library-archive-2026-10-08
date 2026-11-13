@@ -120,6 +120,7 @@ and the cycle efficiency.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/Engineering Themodynamics 2025-26 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -259,7 +260,6 @@ the water into the boiler. Assume ideal processes, find per kg of steam the net 
 
 and the cycle efficiency.
 
-FEC Fok cdot dick
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · paper a02b3ca7eab8
@@ -732,6 +732,7 @@ to engine Q; is equal to the heat absorbed by refrigerator Q.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics, Sem-III, Batch 2023-24 Final Batch 2022-23 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 88.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Cc
@@ -801,7 +802,6 @@ eae compression ratio is 8. Determine temperature and pressure at each point in 
 1; BL3 the cycle, the thermal efficiency.
 (For air take Cy = 0.718 kJ/kg K, and Cp = 1.005 kJ/kg K)
 Evaluate the values and complete the table using steam table:
-P T v x h s
 Q3 (bar) | @C) | Gm) | Gryness | (kd/kg) | (ca/kg K) |
 CO-3; SO- . fraction) [08]
 Oe 35 25.22 -- -
@@ -838,7 +838,6 @@ C02; SO-1; obtainable from two finite bodies at temperatures T1 and T2 using pri
 BL-3 of entropy increase.
 a A fluid is confined in a cylinder by a frictionless piston so that the pressure
 in the fluid is a linear function of the volume ( p = a+ bY), where p is
-in kPa, V is in m?.
 Qe If the fluid changes from an initial state of 170 kPa, 0.03m° to a final state
 pC0-2; SO-1; of 400 kPa, 0.06 m%, with no work other than that done on the piston, [08]
 BL-4 Determine the direction and magnitude of the work and heat transfer, take
@@ -867,6 +866,143 @@ c A Carnot engine whose low temperature reservoir is at 280 K has an
 Q7 efficiency of 40 % . It is desired to increase this to 50 %. -Determine by
 CO-2; SO-1; how much degrees must the temperature of the low temperature reservoir be | [06]
 BL-3 decreased if that of the high temperature reservoir remains constant.
+````
+
+## 2023-24 · Re-Exam · Sem 3 · paper 4d566faf342a
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics , Re-exam 2022-23.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; exam date: 10/02 /2024
+- Text: ocr (3 pages), mean OCR confidence 88.8
+
+````text
+SVKM’S NMIMS i
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT ¥
+Academic Year: 2023-2024 ~
+Program/s: B. TECH/MBA TECH /B.TECH Integrated
+
+Stream/s ; Mechanical Engineering
+
+Subject: Engineering Thermodynamics
+Date: 10/02 /2024
+
+a
+Marks: 100
+
+Now wh Ragee é
+
+| Re-Examination ( 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+8) Use of Steam Tables and Mollier diagram allowed
+
+Ql [20]
+Answer briefly:
+
+\
+CO-1; SO-1; a. | Describe thermodynamic state and thermodynamic process . [04]
+BL-2 ‘
+CO-2 ;SO-1; b. | Sketch PMM1 and discuss its non-possibility practically. [04]
+BL-3
+CO-2 ;SO-1; ¢. | Explain limitations of first law of thermodynamics [04]
+BL-3 :
+CO-3; SO-1; d. | Write van der Waals equation of state and explain its significance [04]
+BL-3
+CO-2; SO-1; €. | Explain use of Clausius inequality when one studies entropy [04]
+BL-3
+--- page 2 ---
+a In a steady flow device, the inlet and outlet conditions are given below. [08] | §
+Evaluate the heat loss/gain by the system. Take fluid flow rate as 2.1 kg/s
+and work output of device as 750 kW. Take acceleration due to gravity as
+
+9.81 m/s?
+@ Property _. Inlet Outlet
+CO-2; SO-1; Pressure (bar) 10 8.93
+BL-4 Specific enthalpy (kJ/kg) 2827 2341
+Velocity (m/s) 20 120
+Elevation (m) 3.2 0.5
+b Two Carnot refrigerators A and B operates in series. The refrigerator A | [08]
+absorbs energy at the rate of 1 kJ/s from body at temperature 300 K and |
+Q2 rejects heat energy to body at temperature T. The refrigerator B absorbs the >
+same quantity of heat energy rejected by refrigerator A to body at
+CO-2; SO-1; temperature T and rejects heat energy to body at temperature 1000 K. If
+BL-3 both refrigerators have same C.O.P., Determine: i) The temperature T of
+body; ii) The rate at which heat energy is rejected to body at temperature
+1000 K.
+Q2 ¢ Describe Kelvin-Plank statement of second law of thermodynamics [04]
+CO-2; $0-1; |
+BL-2
+a In an air standard Otto cycle, the compression ratio is 7 and compression | [08]
+Q3 begins at 35°C and 1 bar. The maximum temperature in the cycle is
+g Pp y'
+CO-2; SO-1; BL- 1100°C. Determine: Temperature and pressure at the cardinal points of the
+3 ‘
+cycle.
+Q3 b A vessel of volume 0.04 m° contains a mixture of saturated water and | [08] (=)
+saturated steam at a temperature of 250°C. The mass of liquid present is
+CO-3; SO-1; BL- :
+9 kg. Evaluate the pressure, the mass, the specific volume, the enthalpy of
+4
+mixture.
+Q3 c [04]
+CO-2; SO-1; BL- Sketch the Diesel cycle and name the thermodynamic processes
+3
+--- page 3 ---
+a A steam turbine having internal efficiency of 90% and works on Rankine [10]
+
+4 ; oe
+Q cycle receives steam at 70 bar, 550°C and pressure after expansion is-0.2
+ae alia: bar. Determine turbine work, and dryness fraction of steam at the exit of
+turbine.
+Q4 b [06]
+CO-3; SO-1; Explain use of throttling process to determine dryness fraction of steam
+BL-3
+Q4 c . [04]
+Apply SFEE (Steady Flow Energy Equation) to Steam Nozzle
+CO-2; SO-1;BL-3
+a A platinum wire is used as a resistance thermometer. The wire resistance | [08]
+@ was found to be 10 ohm and 16 ohm at ice point and steam point
+5 * : : :
+Q respectively and 30 ohm at Sulphur boiling point of 444.6°C. Determine
+we Sid; the resistance of wire at 500°C,600°C, and 700°C if the resistance varies
+with temperature by relation R = Ro (1 + At + Bt?)
+Ro — resistance at ice point and A & B are constant
+5 b 12
+Q Explain principle of increase of entropy and apply it to mixing of two [12]
+CO2; SO-1; fluids
+BL-3 ,
+a A system undergoes a cyclic process consist of four processes. The energy | [08]
+transfer is tabulated below. Complete the table and evaluate the power
+Q6 output.
+. : Process Q kJ/min_ | W kJ/min AU_kJ/min
+Soa 12 400 150 ?
+eo” 2-3 200 2 300
+3-4 -200 ? ; ?
+4-1 0 75 ; ?
+Q6 b Compare open thermodynamic system with closed thermodynamic system | [06]
+CO-1; SO-1;
+BL-4 .
+CO-2; SO-1; c [06]
+BL-3 Sketch and explain Rankine cycle with one reheat.
+Q7 a Explain reversible and irreversible process and list the causes of [06]
+CO-1,2; SO-1; irreversibility.
+BL-3
 ````
 
 ## 2022-23 · Final-Exam · Sem 3 · paper 1adc117727ed
@@ -1029,143 +1165,6 @@ turbine.
 28 RK End of Paper*****
 
 3)s
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper 4d566faf342a
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics , Re-exam 2022-23.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; exam date: 10/02 /2024
-- Text: ocr (3 pages), mean OCR confidence 88.8
-
-````text
-SVKM’S NMIMS i
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT ¥
-Academic Year: 2023-2024 ~
-Program/s: B. TECH/MBA TECH /B.TECH Integrated
-
-Stream/s ; Mechanical Engineering
-
-Subject: Engineering Thermodynamics
-Date: 10/02 /2024
-
-a
-Marks: 100
-
-Now wh Ragee é
-
-| Re-Examination ( 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-8) Use of Steam Tables and Mollier diagram allowed
-
-Ql [20]
-Answer briefly:
-
-\
-CO-1; SO-1; a. | Describe thermodynamic state and thermodynamic process . [04]
-BL-2 ‘
-CO-2 ;SO-1; b. | Sketch PMM1 and discuss its non-possibility practically. [04]
-BL-3
-CO-2 ;SO-1; ¢. | Explain limitations of first law of thermodynamics [04]
-BL-3 :
-CO-3; SO-1; d. | Write van der Waals equation of state and explain its significance [04]
-BL-3
-CO-2; SO-1; €. | Explain use of Clausius inequality when one studies entropy [04]
-BL-3
---- page 2 ---
-a In a steady flow device, the inlet and outlet conditions are given below. [08] | §
-Evaluate the heat loss/gain by the system. Take fluid flow rate as 2.1 kg/s
-and work output of device as 750 kW. Take acceleration due to gravity as
-
-9.81 m/s?
-@ Property _. Inlet Outlet
-CO-2; SO-1; Pressure (bar) 10 8.93
-BL-4 Specific enthalpy (kJ/kg) 2827 2341
-Velocity (m/s) 20 120
-Elevation (m) 3.2 0.5
-b Two Carnot refrigerators A and B operates in series. The refrigerator A | [08]
-absorbs energy at the rate of 1 kJ/s from body at temperature 300 K and |
-Q2 rejects heat energy to body at temperature T. The refrigerator B absorbs the >
-same quantity of heat energy rejected by refrigerator A to body at
-CO-2; SO-1; temperature T and rejects heat energy to body at temperature 1000 K. If
-BL-3 both refrigerators have same C.O.P., Determine: i) The temperature T of
-body; ii) The rate at which heat energy is rejected to body at temperature
-1000 K.
-Q2 ¢ Describe Kelvin-Plank statement of second law of thermodynamics [04]
-CO-2; $0-1; |
-BL-2
-a In an air standard Otto cycle, the compression ratio is 7 and compression | [08]
-Q3 begins at 35°C and 1 bar. The maximum temperature in the cycle is
-g Pp y'
-CO-2; SO-1; BL- 1100°C. Determine: Temperature and pressure at the cardinal points of the
-3 ‘
-cycle.
-Q3 b A vessel of volume 0.04 m° contains a mixture of saturated water and | [08] (=)
-saturated steam at a temperature of 250°C. The mass of liquid present is
-CO-3; SO-1; BL- :
-9 kg. Evaluate the pressure, the mass, the specific volume, the enthalpy of
-4
-mixture.
-Q3 c [04]
-CO-2; SO-1; BL- Sketch the Diesel cycle and name the thermodynamic processes
-3
---- page 3 ---
-a A steam turbine having internal efficiency of 90% and works on Rankine [10]
-
-4 ; oe
-Q cycle receives steam at 70 bar, 550°C and pressure after expansion is-0.2
-ae alia: bar. Determine turbine work, and dryness fraction of steam at the exit of
-turbine.
-Q4 b [06]
-CO-3; SO-1; Explain use of throttling process to determine dryness fraction of steam
-BL-3
-Q4 c . [04]
-Apply SFEE (Steady Flow Energy Equation) to Steam Nozzle
-CO-2; SO-1;BL-3
-a A platinum wire is used as a resistance thermometer. The wire resistance | [08]
-@ was found to be 10 ohm and 16 ohm at ice point and steam point
-5 * : : :
-Q respectively and 30 ohm at Sulphur boiling point of 444.6°C. Determine
-we Sid; the resistance of wire at 500°C,600°C, and 700°C if the resistance varies
-with temperature by relation R = Ro (1 + At + Bt?)
-Ro — resistance at ice point and A & B are constant
-5 b 12
-Q Explain principle of increase of entropy and apply it to mixing of two [12]
-CO2; SO-1; fluids
-BL-3 ,
-a A system undergoes a cyclic process consist of four processes. The energy | [08]
-transfer is tabulated below. Complete the table and evaluate the power
-Q6 output.
-. : Process Q kJ/min_ | W kJ/min AU_kJ/min
-Soa 12 400 150 ?
-eo” 2-3 200 2 300
-3-4 -200 ? ; ?
-4-1 0 75 ; ?
-Q6 b Compare open thermodynamic system with closed thermodynamic system | [06]
-CO-1; SO-1;
-BL-4 .
-CO-2; SO-1; c [06]
-BL-3 Sketch and explain Rankine cycle with one reheat.
-Q7 a Explain reversible and irreversible process and list the causes of [06]
-CO-1,2; SO-1; irreversibility.
-BL-3
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper 6cf7cbcf54df
@@ -1791,6 +1790,269 @@ turbine per kg of steam using:
 [10]
 ````
 
+## 2019-20 · Re-Exam · Sem 3 · paper 5c5525e9ca6f
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics,Re-exam 2016-17-18-19.pdf` (+1 identical copies)
+- Printed on paper: exam date: 07 November 2019
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (Mechanical) Year: II
+a rd
+Academic Year: 2019-20
+Subject: Engineering Thermodynamics
+
+a
+
+Semester: III
+
+Date: 07 November 2019
+
+Ps
+
+SHmen2i00 pth 5, od ph
+QuratidnBR3\ (Hts) /=;
+Si. of Pages: 2
+
+Re-Examination (2016-17 / 2017-
+
+NB:
+1. Question No. 1 is compulsory,
+2. Out of remaining questions attempt any four questions.
+3. In all five questions to be attempted.
+4. All questions carry equal marks.
+5. Use of steam table is permitted.
+6. Assume suitable data, if required.
+
+Q.1 a Attempt the following (Any Four)
+
+i) Explain Microscopic and Macroscopic approach
+
+ii) Define Path function and Point function
+
+iii) Define reversible and irreversible process
+
+iv) Define extensive and intensive Properties
+
+v) State Zeroth law of thermodynamics and its significance
+
+vi) What is entropy? Prove that entropy is a property of system
+
+vii) Define available energy and unavailable energy
+
+viii) State and explain the Gibbs law a
+Q.2 a State the limitation of first law of thermodynamics
+
+b 680 kg of fish at 5°C are to be frozen and stored at — 12°C. The specific heat of fish above
+freezing point is 3.182 kJ/kg K and below freezing point is1.717 kJ/kg K. The freezing point is
+— 2°C, and the latent heat of fusion is 234.5 kJ/kg. How much heat must be removed to cool
+the fish, and what per cent of this is latent heat?
+
+c The properties of a certain fluid are related as follows:
+u= 196 + 0.718¢
+pv = 0.287 (t + 273)
+
+Where u is the specific internal energy (kJ/kg), t is in °C, p is pressure (KN/m°), and v is
+specific volume (m3/kg). For this fluid, find Cv and Cp.
+Q.3 a Apply steady flow energy equation to nozzle and turbine.
+
+b A mass of 8 kg gas expands within a flexible container so that the p—v relationship i is of the
+from pv'? = constant. The initial pressure is 1000 KPa and the initial volume is 1 m°. The final
+pressure is 5 KPa. If specific internal energy of the gas decreases by 40 kJ/kg, find the heat
+transfer in magnitude and direction.
+
+c A blower handles | kg/s of air at 20°C and consumes a power of 15 Kw. The inlet and outlet
+
+aps
+--- page 2 ---
+Q.4
+
+Q.5
+
+Q.6-
+
+Q7
+
+velocities of air are 100 m/s and 150 m/s respectively. Find the exit air temperature, assuming
+adiabatic conditions Take Cp of air is 1.005 kJ/kg-K.
+
+» State Kelvin-Plank and Clausius statement of second law of thermodynamics and Prove 6
+
+their equivalence.
+A refrigeration plant for a food store operates as a reversed Carnot heat engine cycle. The store 4
+is to be maintained at a temperature of — 5°C and the heat transfer from the store to the cycle is
+at the rate of 5 kW. If heat is transferred from the cycle to the atmosphere at a temperature of
+25°C, Calculate the power required to drive the plant.
+An inventor claims to have developed an engine that takes in 105 MJ at a temperature of 400 4
+K, rejects 42 MJ at a temperature of 200 K, and delivers 15 kWh of mechanical work. Would
+you advise investing money to put this engine in the market?
+
+State the Dalton’s law of partial pressure 2
+State and Prove clausius inequality 6
+The usual cooking gas (mostly methane) cylinder is about 25 cm in diameter and 80 cm in 6
+height. It is changed to 12 MPa at room temperature (27°C). (a) Assuming the ideal gas law,
+find the mass of gas filled in the cylinder. (b) Explain how the actual cylinder contains nearly
+15 kg of gas. (c) If the cylinder is to be protected against excessive pressure by means of a
+fusible plug, at what temperature should the plug melt to limit the maximum pressure to 15
+MPa?
+Explain the following terms relating to steam formation : te
+i).Saturation temperature (ii) Latent of heat steam (iii) Dryness fraction of steam, (iv) enthalpy
+of wet steam, and (v) Entropy of superheated steam
+Eighty kg of water at 100°C are mixed with 50 kg of water at 60°C, while the temperature of 4
+the surroundings is 15°C. Determine the decrease in available energy due to mixing.
+Derive an expression for heat transfer and work transfer in polytrophic process. 6
+A rigid vessel of volume 0.86 m? contains 1 kg of steam at a pressure of 2 bar. Evaluate the 4
+specific volume, dryness fraction, enthalpy, and entropy of steam.
+An adiabatic vessel contains 2 kg of water at 25°C. By paddle-wheel work transfer, the
+temperature of water is increased to 30°C. If the specific heat of water is assumed constant at 4
+4.187 kJ/kg K, find the entropy change of the universe.
+
+af.
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 67b19c3b6ce0
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Batch 2017-18,2017-18,2018-2019 Re Exam_67b19c3b6c.pdf`
+- Printed on paper: exam date: 14 November 2019
+- Text: ocr (3 pages), mean OCR confidence 92.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Program :B.Tech Integrated (Mechanical) Year: IT Semester MI
+Academic Year: 2019-2020
+Subject: Engineering Thermodynamics
+
+Date : 14 November 2019
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+’ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+8) Use of Steam table and Mollier diagram allowed.
+
+Ql] Solve any four of following [14]
+A] Define and explain following:
+1. State; 2.Process ; 3. Cycle; 4. Latent heat
+
+B] Define Specific heat at constant pressure and Specific heat at constant
+
+volume.
+C] What is thermal energy reservoir? Explain the terms source and sink.
+D] What four thermodynamic processes constitute a Carnot Cycle? Show
+
+it on p-V and T-s plot.
+E] Explain the concept of availability and irreversibility.
+F] Explain following terms associated with steam:
+
+1. Dryness fraction; 2. Superheated steam; 3. Degree of superheat
+
+Q2] A) | Convert the following readings of pressure into kPa and bar, assuming | [7]
+barometer reads 760 mm of Hg.
+1. 40 em Hg vacuum
+2. 90 cm Hg gauge
+3. 1.21 m of M20 gauge
+Take mass density of Hg as 13600 kg/m? and
+Mass density of H20 as 1000 kg/m?
+
+B] A 1 kg of gas in cylinder-piston arrangement expands from an initial | [7]
+state at pressure P1 bar and volume V1 m°/kg to a volume of V2 m3/kg.
+Calculate the work by the gas, when expansion is:
+1. Isobaric
+2. Isothermal with relation P V = Constant
+
+3._Isentropic with relation P VY = Constant
+
+‘/a
+--- page 2 ---
+4. Polytropic with relation P V" = Constant
+
+Q3] A] | A system undergoes a cyclic process consist of four processes. The [7]
+energy transfer is tabulated below. Complete the table and determine
+the power output.
+Process Q kJ/min W kJ/min AU _ kJ/min
+
+1-2 400 150 ?
+2-3 200 ? 300
+3-4 -200 ? 2
+4-1 0 75 ?
+B] In a steady flow device, the inlet and outlet conditions are given below. | [7]
+Determine the heat loss/gain by the system.
+Property Inlet Outlet
+Pressure (bar) 10 8.93
+Specific enthalpy 2827 2341
+(kJ/kg)
+Velocity (m/s) 20 120
+Elevation (m) 3.2, 15
+
+Fluid flow rate through the device is 2.5 kg/s. The work output of the
+device is 750 kW. Take acceleration due to gravity g = 9.81 m/s?.
+
+Q4] A] | Explain following and support your explanation with diagram: (7]
+1. Efficiency of heat engine
+2. Coefficient of performance of heat pump
+
+3. Coefficient of performance of refrigerator
+4. PMM-2
+
+B] A reversible heat engine operates between two reservoirs at [7]
+temperature of 873 K and 313 K. The engine drives a reversible
+refrigerator which operates between the same 313 K reservoir and a
+reservoir at 255 K. The heat taken from high temperature reservoir in
+heat engine is 2100 kJ and net work output of 370 kJ from the:
+combined heat engine-refrigerator plant. Find total heat transfer to
+reservoir at 313 K.
+
+Q5] A] | One kg of ice at temperature of 253 K is exposed to atmosphere which | [7]
+is at temperature of 293 K. The ice melts and comes into thermal
+equilibrium with the atmosphere. Calculate the entropy increase of the
+universe.
+
+Take Cp for ice as 2.093 kJ/kg.K
+C) for liquid water as 4.187 kJ/kg.K
+Latent heat of fusion of ice as 334.5 kJ/kg
+
+B] Define entropy and prove that entropy is a property. (7]
+
+Q6] A] | Define ideal gas, and explain following law associated with gases and | [7]
+gas mixtures:
+1. Avogadro’s law
+2. Dalton’s law of partial pressures
+
+2%
+--- page 3 ---
+B] The exhaust gas at 650°C from a boiler is used to heat the water. The [7]
+rate of gas flow is 1510 kg/min and the rate of water flow is 1890
+kg/min. The water enters the heat exchanger at 35°C and the gas
+leaves the heat exchanger at 145°C. Assume mean specific heat of gas
+and water as 1.088 kJ/kg K and 4.27 kJ/kg K respectively. The
+atmospheric temperature is 27°C. Determine the loss of available
+energy resulting from heat transfer.
+
+Q7] A] | Draw the phase equilibrium diagram for pure substance on T-s plot [7]
+with relevant constant property lines and explain following:
+1.Critical point; 2. Saturated vapour line; 3. Saturated liquid line
+
+B] Steam initially at 15 bar, 300°C expands reversibly and adiabatically [7]
+in a steam turbine to 50°C. Determine the ideal work output of the
+turbine per kg of steam using:
+1. Steam tables
+2. Mollier diagram
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper c18ce61066f9
 
 - Departments: Mechanical
@@ -2119,6 +2381,250 @@ Steam at 140 bar has an enthalpy of 3001.9 KJ/Kg, Find the temperature, specific
 — ¢
 ````
 
+## 2018-19 · Re-Exam · Sem 3 · paper 6001ae8d1aee
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS BATCH 14-15, 15-16, RE EXAM.pdf`
+- Printed on paper: exam date: 17 November 2018
+- Text: ocr (2 pages), mean OCR confidence 90.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) Year: II Semester: III
+
+_ o z (STITUTE OF SN
+A “ a.
+
+Academic Year: 2018-2019 DON
+
+’
+
+4B com. 1
+J Subject: Engineering Thermodynamics ‘ Li ant |
+7 ,Marks\60 ee: \
+Date: 17 November 2018 __ Time: 2
+a : DurationsSS$ VEESN'
+
+No. of Pages :
+Re-examination (2014-15 / 2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicaie full marks.
+7) Assume suitable data if necessary.
+
+8) Use of ‘Steam Tables and Mollier Diagram’ is allowed.
+
+Q.1 Attempt any four question from following .
+
+(A) Distinguish between the terras ‘change of State’, ‘path’, and ‘process’. [3]
+(B) State the first law of thermodynamics for a closed system undergoing a cycle. 3]
+(C) What is PMM2? Why is it impossible? [3]
+(D) Why is the Carnot cycle on T-s plot a rectangle? [3]
+(E) Derive the expression of work transfer for an ideal gas in a reversible isothermal [3]
+process.
+(F) What are saturation states? (3]
+Q.2 (A) Show that heat is a path function and not a property. [4]
+
+(B) A gas expands from an initial state where the pressure is 340kPa and the volume is [4]
+0.0425 m} to a final pressure of 136 kPa. The relationship between the pressure and
+volume of the gas is pv? = constant. Determine the work for the process.
+
+(C) Explain mechanical, chemical and thermal equilibrium. [4]
+| Q3 (A) vel be the velocity of a fluid leaving a nozzle, if the velocity of approach is very [4]
+small?
+(B) The rate of heat transfer between a certain electric motor and its surroundings varies [4]
+are with time as Q = -0.2 [1- e°®"] where t is in seconds and Q is in kW. The shaft of the
+
+motor rotates at a constant speed of 100 rad/s and applies a constant torque of 18 Nm
+
+Yo
+--- page 2 ---
+to an external load. The motor draws a constant electrical power input of 2 kW. Obtain
+an expression for the time rate of change of energy of the motor.
+(C) In a steady flow apparatus, 135 kJ of work is done by each kg of fluid. The specific [4]
+
+volume of the fluid, pressure, and velocity at the inlet are 0.37 m/kg, 600 kPa, and 16
+m/s. The inlet is 32 m above the floor, and the discharge pipe is at floor level. The
+discharge conditions are 0.62 m*/kg, 100 kPa, and 270. m/s. The total heat loss between
+the inlet and discharge is 9 kJ/kg of fluid. In flowing through this apparatus, does the
+specific internal energy increase or decrease, and by how much?
+
+Q4 (A) Establish the equivaténce of Kelvin-Planck and Clausius statements. [6]
+(B) A heat engine operating between two reservoirs at temperatures 600°C and 40°C drives [6]
+a refrigerator operating between reservoirs at temperatures of 40°C and -15°C. The heat
+transfer to the heat engine is 2500 kJ and the net work output of the combined engine
+and refrigerator plant is 400 kJ. The efficiency of the heat engine and the COP of the
+refrigerator are each 40% of the maximum possible values. Estimate the heat transfer
+to the refrigerant and the net heat transfer to the reservoir at 40°C.
+
+Q.5 (A) A system has a heat capacity at constant volume [6]
+i. : Cy=AT?
+where A’= 0.042 J/K?. .
+The system is originally at 200 K, and a thermal reservoir at 100 K is available. What
+is the maximum amount of work that can be recovered as the system is cooled down to
+the temperature of the reservoir?
+(B) An isolated system consists of a closed copper vessel of mass 0.1 kg immersed in 20 [6]
+
+kg of liquid water initially at 20°C. The copper vessel contains | kg of liquid water,
+each initially at 5°C. The system is allowed,to come to equilibrium. Determine (a) the
+final temperature, (b) the entropy change for the copper vessel and each of the liquid
+water masses, (c) the amount of éntropy produced. Take Cp of copper = 0.89 kJ/kgK
+and that of water = 4.18 kJ/kgK.
+
+Q.6 (A) Why is there no temperature change when an ideal gas is throttled? {3}
+(B) What is meant by quality of energy? [3]
+(C) Two kg of air at 500 kPa, 80°C expands adiabatically in a closed system until its volume [6]
+is doubled and its temperature becomes equal to that of the surroundings which is at
+100 kPa, 5°C. For this process, determine (a) the maximum work, (b) the change in
+availability, and (c) the irreversibility. For air, take cy = 0.718 kJ/kgK, u = cyT where
+cy is constant, and pV = mRT where p is pressure in kPa, V volume in m3, m mass in
+kg, R a constant equal to 0.287 kJ/kgK, and T temperature in K.
+
+Q.7 (A) What do you understand by triple point? [3]
+(B) Draw the phase equilibrium diagram for a pure substance on h-s plot with relevant [4]
+constant property lines.
+
+—T (C) Steam at 0.8 MPa, 250°C and flowing at the rate of 1 kg/s passes into a pipe carrying [5]
+wet steam at 0.8 MPa, 0.95 dry. After adiabatic mixing the flow rate is 2.3 kg/s.
+ne Determine the condition of steam after mixing.
+
+Ap
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 633f2bfa26a2
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 January 2019
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT 4
+
+Program: B.Tech/ MBA Tech (Mechanical) ~~ Year: H Semester : Il
+Academic Year: 2018-19
+
+Subject: Engineering Thermodynamics ~ : Marks: 70 “
+Time: 2.00 pm to 5.00 pm
+
+Date: 16 January 2019 ~
+° ay Durations: 3 (hrs)
+
+No. of Pages:_ O2__
+Re-examination (2016-17 / 2017-18/ 2018-19) ~—
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+8) Use of steam table is permitted.
+
+1. Define the following — 14
+
+a) Quasi-static process
+b) Zeroth law of thermodynamics
+c) First law of thermodynamics
+d) Heat engine and heat pump
+e) Unavailable energy
+f) Dalton’s law of partial pressure
+g) Isentropic process
+
+2. A. Derive the steady flow energy equation for a single stream entering and single stream leaving the 06
+control volume.
+
+B. Consider a cyclic process in a closed system which includes three heat interactions, namely QI = 04
+20 kJ, Q2 = -6kJ, and Q3 = -4 kJ and two work interactions for which W1 = 4500 N-m. Compute
+the magnitude of the second work interaction W2 in Nm.
+
+C. A gas system, confined by a piston and cylinder, undergoes a change of state such that the product 04
+of pressure and volume remains constant. If the process begins at a pressure of 3 bar anda volume
+0.015m? and proceeds until the pressure falls to half its initial value, determine the magnitude
+and direction of the work flow.
+
+3. A. State Kelvin-Planck and Clausius statement for second law and also show the equivalence 06
+between two statements.
+
+B. A Heat engine is used to drive a heat pump. The heat transfers from the heat engine and from the 08
+heat pump are used to heat the water circulating through the radiators of a building. The efficiency
+of the heat engine is 27% and the coefficient performance of heat pump is 4. Evaluate the ratio
+of heat transfer to the circulating water to the heat transfer to the heat engine.
+
+4. A. Write short note on Entropy Principle along with one application.
+
+to
+
+05
+--- page 2 ---
+B. One kg of water at 273 K is brought into contact with a heat reservoir at 373 K. When the water 05
+has reached 373 K, find the entropy change of water, the heat reservoir and of the universe.
+C. Consider the flow of heat from the reservoir at temp Tl to that at T2 across the conductor. 04
+Conductor is the system. In the steady state there is no change in the state of the system. Take
+T\= 500K T2= 250K and heat transferred from T) temp. reservoir is 1000 kJ. Classify that process
+is irreversible/reversible/impossible.
+5. A. State and prove Carnot theorem. 06
+B. Exhaust gases leave an internal combustion engine at 800°C and 1 atm, after having done 1050 08
+kJ of work per kg of gas in the engine (cp of gas = 1.1 kJ/kg K). The temperature of the
+surroundings is 30°C.
+a) How much available energy per kg of gas is lost by throwing away the exhaust gases?
+' b) What is the ratio of the lost available energy to the engine work?
+
+6. ‘A.A domestic refrigerator is loaded with food and the-door closed. During a certain period the 05
+machine consumes | kWhr of energy and the-internal energy of the system drops by 5000 kJ.
+Find the net heat transfer for the system.
+
+B. Steam flows in a pipeline at 1.5Mpa. After expanding to 0.1MPa in a throttling calorimeter, the 05
+temperature is found to be 120°C. Find the quality of steam in the pipe line.
+
+C. A certain amount of gas is compressed from | bar and 0.1m? to 5 bar and 0.03m>. The process is 04
+according to the law pV" = K. Determine the magnitude and direction of work.
+
+7. A. Write short on (any two) — 10
+
+a) Maximum Useful Work.
+b) Carnot cycle.
+c) Macroscopic and Microscopic view point.
+
+B. Indicate in the following cases, the heat exchange and work exchange are positive, negative or 04
+zero, and why — .
+a) A copper block of | kg heated to 100°C is dipped into water at 15°C. Consider copper as
+system.
+b) Heat is added to a gas in a rigid container such that pressure and temperature increases.
+Consider gas as system.
+c) Gas from a bottle is used to inflate a balloon which is originally flat. Consider gas as system.
+d) An insulated wire is stretched. Consider wire as system.
+
+oh
+````
+
 ## 2018-19 · Re-Exam · Sem 3 · paper 90e86b3dc65d
 
 - Departments: Mechanical
@@ -2257,144 +2763,6 @@ Steam at 140 bar has an enthalpy of 3001.9 KJ/Kg, Find the temperature, specific
 either steam table or mollier chart) G3)
 
 o}o
-````
-
-## 2018-19 · Re-Exam · Sem 3 · paper 67b19c3b6ce0
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Batch 2017-18,2017-18,2018-2019 Re Exam_67b19c3b6c.pdf`
-- Printed on paper: exam date: 14 November 2019
-- Text: ocr (3 pages), mean OCR confidence 92.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Program :B.Tech Integrated (Mechanical) Year: IT Semester MI
-Academic Year: 2019-2020
-Subject: Engineering Thermodynamics
-
-Date : 14 November 2019
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-’ 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-8) Use of Steam table and Mollier diagram allowed.
-
-Ql] Solve any four of following [14]
-A] Define and explain following:
-1. State; 2.Process ; 3. Cycle; 4. Latent heat
-
-B] Define Specific heat at constant pressure and Specific heat at constant
-
-volume.
-C] What is thermal energy reservoir? Explain the terms source and sink.
-D] What four thermodynamic processes constitute a Carnot Cycle? Show
-
-it on p-V and T-s plot.
-E] Explain the concept of availability and irreversibility.
-F] Explain following terms associated with steam:
-
-1. Dryness fraction; 2. Superheated steam; 3. Degree of superheat
-
-Q2] A) | Convert the following readings of pressure into kPa and bar, assuming | [7]
-barometer reads 760 mm of Hg.
-1. 40 em Hg vacuum
-2. 90 cm Hg gauge
-3. 1.21 m of M20 gauge
-Take mass density of Hg as 13600 kg/m? and
-Mass density of H20 as 1000 kg/m?
-
-B] A 1 kg of gas in cylinder-piston arrangement expands from an initial | [7]
-state at pressure P1 bar and volume V1 m°/kg to a volume of V2 m3/kg.
-Calculate the work by the gas, when expansion is:
-1. Isobaric
-2. Isothermal with relation P V = Constant
-
-3._Isentropic with relation P VY = Constant
-
-‘/a
---- page 2 ---
-4. Polytropic with relation P V" = Constant
-
-Q3] A] | A system undergoes a cyclic process consist of four processes. The [7]
-energy transfer is tabulated below. Complete the table and determine
-the power output.
-Process Q kJ/min W kJ/min AU _ kJ/min
-
-1-2 400 150 ?
-2-3 200 ? 300
-3-4 -200 ? 2
-4-1 0 75 ?
-B] In a steady flow device, the inlet and outlet conditions are given below. | [7]
-Determine the heat loss/gain by the system.
-Property Inlet Outlet
-Pressure (bar) 10 8.93
-Specific enthalpy 2827 2341
-(kJ/kg)
-Velocity (m/s) 20 120
-Elevation (m) 3.2, 15
-
-Fluid flow rate through the device is 2.5 kg/s. The work output of the
-device is 750 kW. Take acceleration due to gravity g = 9.81 m/s?.
-
-Q4] A] | Explain following and support your explanation with diagram: (7]
-1. Efficiency of heat engine
-2. Coefficient of performance of heat pump
-
-3. Coefficient of performance of refrigerator
-4. PMM-2
-
-B] A reversible heat engine operates between two reservoirs at [7]
-temperature of 873 K and 313 K. The engine drives a reversible
-refrigerator which operates between the same 313 K reservoir and a
-reservoir at 255 K. The heat taken from high temperature reservoir in
-heat engine is 2100 kJ and net work output of 370 kJ from the:
-combined heat engine-refrigerator plant. Find total heat transfer to
-reservoir at 313 K.
-
-Q5] A] | One kg of ice at temperature of 253 K is exposed to atmosphere which | [7]
-is at temperature of 293 K. The ice melts and comes into thermal
-equilibrium with the atmosphere. Calculate the entropy increase of the
-universe.
-
-Take Cp for ice as 2.093 kJ/kg.K
-C) for liquid water as 4.187 kJ/kg.K
-Latent heat of fusion of ice as 334.5 kJ/kg
-
-B] Define entropy and prove that entropy is a property. (7]
-
-Q6] A] | Define ideal gas, and explain following law associated with gases and | [7]
-gas mixtures:
-1. Avogadro’s law
-2. Dalton’s law of partial pressures
-
-2%
---- page 3 ---
-B] The exhaust gas at 650°C from a boiler is used to heat the water. The [7]
-rate of gas flow is 1510 kg/min and the rate of water flow is 1890
-kg/min. The water enters the heat exchanger at 35°C and the gas
-leaves the heat exchanger at 145°C. Assume mean specific heat of gas
-and water as 1.088 kJ/kg K and 4.27 kJ/kg K respectively. The
-atmospheric temperature is 27°C. Determine the loss of available
-energy resulting from heat transfer.
-
-Q7] A] | Draw the phase equilibrium diagram for pure substance on T-s plot [7]
-with relevant constant property lines and explain following:
-1.Critical point; 2. Saturated vapour line; 3. Saturated liquid line
-
-B] Steam initially at 15 bar, 300°C expands reversibly and adiabatically [7]
-in a steam turbine to 50°C. Determine the ideal work output of the
-turbine per kg of steam using:
-1. Steam tables
-2. Mollier diagram
 ````
 
 ## 2017-18 · Exam not stated · Sem 3 · paper 6a925909b1bf
@@ -2537,6 +2905,191 @@ kg/s. determine the condition of steam after mixing.
 The mixture is now expanded in a frictionless nozzle isentropic ally to a pressure of
 0.4 MPa. Determine the velocity of the steam leaving the nozzle. Neglect the
 velocity of steam in the pipeline.
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper fc33e6bb0bd7
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS (MECHANICAL), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 November 2017
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) Year: II Semester: III
+a“ _ pn
+Academic Year: 2017-2018 eecthtOTE BP Ban
+ge aS
+Subject: Engineering Thermodynamics Pd
+— Marks: 70 —
+
+Date: 25 November 2017 — Time: 10.00 am to
+
+Ql
+
+Q2
+
+Q.3
+
+NB:
+1. Question No. 1 is compulsory
+
+Durations: 3 (hrs) >
+No. of Pages: :
+Final-Examination
+
+2. Out of remaining questions attempt any four questions.
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Use of steam table is permitted.
+
+6. Assume suitable data if required.
+
+A Attempt the following (Any Four)
+
+i) Define Path function and Point function
+
+ii) Define extensive and intensive Properties
+
+iti) Define reversible and irreversible process
+
+iv) State the limitation of first law of thermodynamics
+
+v) Define PMM I and PMM II
+
+vi) What is entropy? Prove that entropy is a property of system
+vii) | Define available and unavailable emery
+
+vili) | State and explain the Gibbs law
+
+A State and explain the first law of thermodynamics for closed system
+
+undergoing cycle and change of state.
+
+B 680 kg of fish at 5°C are to be frozen and stored at — 12°C. The
+
+specific heat of fish above freezing point is 3.182 kJ/kg K and below
+freezing point is 1.717 kJ/kg K. The freezing point is — 2°C, and the
+latent heat of fusion is 234.5 kJ/kg. How much heat must be removed
+to cool the fish and what percent of this is latent heat?
+
+iC A mass of 8 kg gas expands within a flexible container so that the p—v
+
+relationship is of the from pv'*= constant. The initial pressure is 1000
+KPa and the initial volume is 1 m°*. The final pressure is 5 KPa. If
+specific internal energy of the gas decreases by 40 kJ/kg, find the heat
+transfer in magnitude and direction.
+
+A Apply the steady flow energy equation to nozzle and turbine.
+
+State and Prove the Clausius inequality.
+
+A turbine operates under steady flow conditions, receiving steam at
+the following state: Pressure 1.2 MPa, temperature 188°C, enthalpy
+2785 kJ/kg, velocity 33.3 m/s and elevation 3 m. The steam leaves
+
+Va
+
+14
+
+06
+
+04
+
+04
+
+04
+04
+06
+--- page 2 ---
+Q.4
+
+.Q5
+
+Q.6
+
+Q.7
+
+the turbine at the following state: Pressure 20 kPa, enthalpy 2512
+kJ/kg, velocity 100 m/s, and elevation 0 m. Heat is lost to the
+surroundings at the rate of 0.29 kJ/s. If the rate of steam flow through
+the turbine is 0.42 kg/s, what is the power output of the turbine in
+kW?
+
+State Kelvin Plank and Clausius statement of second law and Prove
+their equivalence.
+
+A heat pump working on the Carnot cycle takes in heat from a
+reservoir at 5°C and delivers heat to a reservoir at 60°C. The heat
+pump is driven by a reversible heat engine which takes in heat from a
+reservoir at 840°C and rejects heat to a reservoir at 60°C. The
+reversible heat engine also drives a machine that absorbs 30 kW. If
+the heat pump extracts 17 kJ/s from the 5°C reservoir, determine
+
+(a) The rate of heat supply from the 840°C source.
+
+(b) The rate of heat rejection to the 60°C sink.
+
+Define Available energy, Unavailable energy. Useful work and
+irreversibility.
+
+Two kg of water at 80°C are mixed adiabatically with 3 kg of water at
+30°C in a constant pressure process of 1 atmosphere. Find the
+increase in the entropy of the total mass of water due to the mixing
+process (Cp of water = 4.187 kJ/kg K).
+
+Exhaust gases leave an internal combustion engine at 800°C and 1
+atm, after having done 1050 kJ of work per kg of gas in the engine
+(Cp of gas = 1.1 kJ/kg K). The temperature of the surroundings is
+30°C. (a) How much available energy per kg of gas is lost by
+throwing away the exhaust gases? (b) What is the ratio of the lost
+available energy to the engine work?
+
+Explain the following terms relating to steam formation (Any Four):
+(i) Sensible heat of water, (ii) Saturation pressure (iii) Dryness
+fraction of steam, (iv) Entropy of wet steam, and (v) Degree of
+superheat vi) Saturation temperature.
+
+A rigid vessel of volume 0.86 m? contains 1 kg of steam at a pressure
+of 2 bar. Evaluate the specific volume, temperature, dryness fraction,
+internal energy, enthalpy, and entropy of steam.
+
+State the Dalton’s Law of partial pressure.
+
+State and prove Carnot theorem.
+
+The usual cooking gas (mostly methane) cylinder is about 25 cm in
+diameter and 80 cm in height. It is changed to 12 MPa at room
+temperature (27°C). (a) Assuming the ideal gas law, find the mass of
+gas filled in the cylinder. (b) Explain how the actual cylinder contains
+nearly 15 kg of gas. (c) If the cylinder is to be protected against
+excessive pressure by means of a fusible plug, at what temperature
+should the plug melt to limit the maximum pressure to 15 MPa?
+
+2/2
+
+08
+
+06
+
+04
+
+10)
+
+05
+
+08
+
+06
+
+02
+06
+06
 ````
 
 ## 2017-18 · Final-Exam · Sem 3 · paper b3028d3cd684
@@ -2799,6 +3352,174 @@ _b) Carnot Cycle
 c) Apply SFEE for turbine with proper assumptions
 B. An inventor claim to have developed a heat engine that receives 700 kJ of heat from a source at 500 K and 04
 produces 300 kJ of net work while rejecting waste heat to a sink at 290 K. Is this a reasonable claim? Why?
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper eca2444e2bdd
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS (BATCH 16-17) RE-EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 25 November 2017
+- Text: ocr (4 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (MECHANICAL) « Year: II Semester: III“
+Batch: 2016-17 ¢ ara tant
+Academic Year: 2017-2018 7,0 2 NM
+Subject: Engineering Thermodynamics ode sy ak Ve
+Marks: 70( LI sRARY Da
+Date: 25 November 2017 - Time: 10390 4m to 1.00 ppfé
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining 6 questions, attempt any 4 questions
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary,‘
+
+8) Use of steam table is permitted.
+
+Qu.(1) Attempt any seven questions. (2x7)
+a) Define a thermodynamic system. Differentiate between open systems, closed system.
+
+b) What is a quasi-static process? Explain.
+
+c) What do you understand by zero’th law? Give its significance.
+
+d) Explain briefly about Intensive and Extensive Properties.
+
+e) What is a pure substance? Explain with suitable example.
+
+f) State and explain Van der Waals’ equation.
+
+g) State first law of thermodynamics for cyclic process? Show that the
+
+i) What do you understand about high grade and low grade energy? Explain in brief.
+
+)) Explain the term ‘availability’. What are the factors on which it depends?
+
+4/4
+--- page 2 ---
+Qu.(2) Attempt the following questions
+
+a)   Accylinder contains | kg of a certain fluid at an initial pressure of 20 bar. The fluid is allowed to (6)
+expand reversibly behind a piston according to a law pV? = constant, until the volume is doubled.
+The fluid is then cooled reversibly at constant pressure until the piston regains its original position;
+heat is then supplied reversibly with the piston firmly locked in position until the pressure rises
+to the original value of 20 bar. Calculate-the net work done by the fluid, for an initial volume of
+0.05 m?.
+
+b) By using steam table, find the specific volume, enthalpy and internal energy of wet steam at 18 (4)
+bar, dryness fraction 0.85.
+
+c) Draw and explain a p-T (pressure-temperature) and T-s:(temperature —specific entropy) diagram (4)
+for a pure substance, and explain salient points.
+
+Qu.(3) Attempt the following questions
+
+a) A reversible heat engine operates between two reservoirs at temperatures 700°C and 50°C. The (6)
+engine drives a reversible refrigerator which operates between reservoirs at temperatures of 50°C
+and — 25°C. The heat transfer to the engine is 2500 kJ and the net work done output of the
+combined engine refrigerator plant is 400 kJ. (i) Determine the heat transfer to the refrigerant and
+the net heat transfer to the reservoir at 50°C; (ii) Reconsider (i) given that the efficiency of the
+heat engine and the C.O.P. of the refrigerator are each 45 per cent of their maximum possible
+values.
+
+b) — Explain the following terms relating to steam formation: (i) Sensible heat of water, (ii) Latent (4)
+heat of steam, (iii) Dryness fraction of steam, (iv) Enthalpy of wet steam, and (v) Superheated
+steam.
+
+c) What are the characteristics of entropy? Prove that entropy is a property of a system (i.e. state (4)
+
+function).
+
+Qu.(4) Attempt the following questions
+a) A closed system of constant volume experiences a temperature rise of 25°C when a certain process (6)
+
+occurs. The heat transferred in the process is 30 kJ. The specific heat at constant volume for the
+pure substance comprising the system is 1.2 kJ/kg°C, and the system contains 2.5 kg of this
+substance. Determine: (i) The change in internal energy; (ii) The work done.
+
+d) Distinguish between irreversible and reversible heat engine. Derive an expression for the (4)
+efficiency of the reversible heat engine.
+
+2/4
+--- page 3 ---
+e) The efficiency of a Carnot engine can be increased either by decreasing the Sink temperature (4)
+while keeping the source temperature constant or by increasing the source temperature while
+keeping the sink temperature constant. Which one of the above two possibilities is more effective?
+
+Qu.(5) Attempt the following questions
+
+a) Prove the following relation- (4)
+
+nM, _ 1
+pa me
+
+M,
+Where, M; = Molecular weight of the mixture,
+= Number of moles of an any constituent,
+mp = Mass fraction of the constituent, and
+M;= Molecular weight of the constituent.
+
+b) Show that for a polytropic process, change in entropy is given by (4)
+
+Where letters have their usual meaning ,
+a :
+
+c) 3 kg of water at 80°C is mixed with 4 kg of water at 15°C in an isolated system. Calculate the (6)
+change of entropy due to mixing process.
+
+Qu.(6) Attempt the following questions
+
+a) In agas turbine unit, the gases flow through the turbine is 15 kg/s and the power developed by — (4)
+the turbine is 12000 kW. The enthalpies of gases at the inlet and outlet are 1260 kJ/kg and 400
+kJ/kg respectively, and the velocity of gases at the inlet and outlet are 50 m/s and 110 m/s
+
+respectively. Calculate :
+(i) The rate at which heat is rejected i to the turbine, and
+(ii) The area of the inlet pipe given that the specific volume of the gases at the inlet is
+
+0.45 m/kg.
+
+b) Prove the Clausius inequality- (5)
+
+f2<o
+
+3/4
+--- page 4 ---
+c) A pressure cooker contains 1.5 kg of saturated steam at 5 bar. Find the quantity of heat which (5)
+
+must be rejected so as to reduce the quality to 60% dry. Determine the pressure and temperature
+of the steam at the new state.
+
+Qu.(7) Attempt the following questions
+a) Derive an expression of availability of a steady flow system. (4)
+b) A mixture of hydrogen (Hz) and oxygen (O2) is to be made so that the ratio of H2 to Oo is 2:1 by (5)
+volume. If the pressure and temperature are 1 bar and 25°C respectively.
+Calculate :(i) The mass of O02 required; (ii) The volume of the container.
+
+c) 2.5 kg of air at 6 bar, 90°C expands adiabatically is a closed system until its volume is doubled (5)
+and its temperature becomes equal to that of the surroundings which is at 1 bar, 5°C. For this
+process determine: (i) The maximum work; (ii) The change in availability; (iii) The irreversibility.
+
+For air take: Cy = 0.718 kJ/kg K, R = 0.287 kJ/kg K.
+
+4/4
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper caa254758f30
@@ -3085,6 +3806,260 @@ b) Carnot Cycle
 c) SFEE applied to turbine
 B. A heat engine works on the Carnot cycle between temperature 900° C & 200° C. Calculate the heat required 04
 by the engine to produce 36 kW power.
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 3e8deda88a84
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Batch 2015-16 Re Exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 01 June 2018
+- Text: ocr (3 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (Mechanical) 7 Year: II ° Semester: III «
+
+Batch: 2015-16 ~
+Academic Year: 2017-2018"
+
+. oo. . pe —"
+Subject: Engineering Thermodynamics §« ; / <7
+
+; urks: 60 Ye!
+Date: 01 June 2018 “ gE ime: .2,00 pm % ey m
+
+a ‘Durations: 3 (hr,
+
+ec
+Cte ageS:
+Re-Examination Se imag yas a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+8) Use of Steam Tables and Mollier diagram allowed
+
+Ql] Solve following (any four) [12]
+
+i) Explain briefly: 1. Quasi-static process; 2. Reversible process;
+3. Irreversible process.
+ii) State and explain the First law of thermodynamics.
+iii) What is a Carnot Cycle? Represent it on p-v and 7-s diagrams.
+iv) A heat engine is supplied with 2512 kJ/min of heat at 650°C. The heat
+
+rejection takes place at 100°C. Specify which of the following heat
+rejections represents a reversible, irreversible or impossible results using
+Clausius inequality: a) 867 kJ/min; b) 1015 kJ/min; c) 1494 kJ/min
+
+v) What is mean by Wet Steam, Dry saturated steam and superheated
+steam?
+
+vi) Define the following terms as applied to gas mixtures: 1. Mass fraction;
+2. Mole Fraction; 3. Volume Fraction.
+
+vii) Draw the Diesel Cycle on p-v and T-s co-ordinates and name the
+
+thermodynamic processes.
+
+Q2] a) The pressure of the gas supplied to an engine is measured as 76.2 mm of [06]
+water gauge. If the barometer reads 730 mm of Hg, What is the absolute
+pressure of the gas in mm of Hg and kPa.
+
+b) 150 kJ of work is supplied to a closed system. If the initial volume is [06]
+0.5 m? and the pressure of the system changes as p = 8-4v, where p is in
+bars and v is in m3, determine the final volume and pressure of the system.
+
+1[Page
+--- page 2 ---
+Q3] a) A thermodynamic system undergoes a cycle which comprises the four [06]
+process 1+2, 2-3, 3-4, and 4-1. The energy transfer are tabulated below:
+
+Complete the table.
+PROCESS Q (kJ/sec) W (kJ/sec) AU (kJ/sec)
+1-2 40 ? 25
+2-3 20 -10 ?
+3-4 -20 ? ?
+4-1 0 8 ?
+b) In a gas turbine, the gas enters at the rate of 5 kg/s with a velocity of 50 [06]
+
+m/s and enthalpy of 900 kJ/kg and leaves the turbine with a velocity of
+150 m/s and enthalpy of 400 kJ/kg. The loss of heat from the gases to the
+surroundings is 25 kJ/kg. Assume for gas, R = 0.285 kJ/kg K and
+
+Cp = 1.004 kJ/kg K. The inlet condition is at 100 kPa and 27°C.
+Determine the power output of turbine using Steady Flow Energy
+
+Equation.
+Q4] a) i) Explain following: 1. Heat Engine; 2. Heat pump. [03]
+ii) State and briefly explain Carnot’s theorem. [03]
+b) A Carnot heat engine works between two temperature of source at 900 K [06]
+and sink at 300 K. It runs a Carnot refrigerator working between two
+temperatures of 300 K and 250 K. The engine is supplied 3000 kJ/min
+and network output of the heat engine-refrigerator plant is 10 kW.
+Determine: 1. The heat transferred to the refrigerant and the net heat
+transfer to the sink reservoir maintained at 300 K.
+Q5] a) Explain the principle of entropy increase. [06]
+b) Derive expression for air standard efficiency of Dual cycle. [06]
+Q6] a)i) Explain use of Mollier diagram. [03]
+ii) Explain the throttling process for steam and show it on h-s diagram. [03]
+b) A rigid vessel (2 m* capacity) holding steam at 20 bar and 300°C, is [06]
+
+cooled till the steam becomes just dry saturated. Determine:
+1. Mass of the steam in the vessel;
+2. Final pressure of the steam;
+3. Amount of the heat transferred from the vessel to the
+surroundings.
+
+2lgage
+--- page 3 ---
+Q7] a)
+
+b)
+
+3| fase
+
+A turbine working on a Rankine cycle is supplied with dry saturated steam [06]
+at 25 bar and exhaust takes place at 0.2 bar. For a steam flow rate of
+10 kg/s; Determine:
+
+1. Dryness fraction of steam at the end of <apansia
+
+2. Turbine shaft work;
+
+3. Power required to drive the pump;
+
+4. Efficiency of Rankine cycle.
+
+In an air standard Otto cycle, the compression ratio is 7 and compression [06]
+begins at 35°C and 0.1 MPa. The maximum temperature in the cycle is
+1100°C. Find:
+
+1.Temperature and pressure at the cardinal points of the cycle;
+
+2. The heat supplied per kg of air
+
+3. The cycle efficiency.
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 42c17cf649ab
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Batch 2016-17 Re Exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 01 December 2017
+- Text: text (3 pages)
+
+````text
+"
+SVKM'S NMIMS
+\\.
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING   \.
+~   Academic Year:   2017 - 2018
+J Program: B. Tech Integrated   (Mechanical)   /   Year: n   Semester:IH
+Batch: 2016-1 q <   Marks: 70   "(-
+Subject: Engineering   Thermodynamics"   Time: 02.00 pm to 05.00 pm
+Date: 01 December 2017 /   Duration:3 hrs   ,
+No.of Pages: 03
+~------
+RE - EXAMINATION
+Instructions:   Candidates   should read carefully the instructions   printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+1) Question No. 1is compulsory.
+2) Out of remaining §...questions, attempt any ~questions
+3) In all ~ questions to be attempted.
+- n' s»   -
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page. _
+6) Figures in brackets on the right hand side indicate full marks .
+...   ~-:~:.-7)Ass!:':l!1e'suitable data if necessary,_.   .   .._
+-~-,~~~c---c-~"7--8) Steamtable use is allowed. ---   -----   -- .
+Qu.(l)   Attempt any seven questions.   (2x7)
+a)
+What is the perpetual motion machine of the second kind? Explain.
+b)
+State Camot theorem.
+c)
+What is the relation between (C.O.P.) Heat pump and (C.O.P.) Refrigerator?
+d)
+What do you understand by dryness fraction? Explain.
+e)
+What is the effectiveness of a system and how does it.differ from efficiency?
+f)
+What is the difference between intensive and extensive properties?
+g)
+Explain briefly-I?alton's law and Gibbs-Dalton law.
+h)
+What does the principle of entropy increase, specify?
+i)
+What do you understand by thermodynamic process? Distinguish between reversible
+and irreversible process.
+--- page 2 ---
+{Qu.(2)   Attempt the following questions
+a)   What is a polytropic process? Represent a polytropic process on PV- diagram. Show that for a polytropic   (6)
+reversible .   process the work d one IS . given .   b y W = PIVI-P2V2 , were h   n IS . th e po I ytropic .. m d ex.
+n-l
+b)   Explain the First Law of Thermodynamics   as referred to closed systems undergoing a cyclic change.   (4)
+c)   What is the difference between an ideal and a perfect gas?   (4)
+Qu.(3)   Attempt the following questions
+a)   A stream of gases at 7.5 bar, 750°C and 140 m/s is passed through a turbine of a jet engine. The   (6)
+. stream comes out of the turbine at 2.0 bar, 550°C and 280 m/so The process may be assumed
+adiabatic. The enthalpies of gas at the entry and exit of the turbine are 950 kJ/kg and 650 kJ/kg of
+gas respectively. Determine the work capacity of the turbine if the gas flow is 5 kg/so .
+b)   Draw and explain a Tvs (temperature -specific entropy) and P-v (Pressure -specific volume)   (4)
+diagram for a pure substance; zznd explain salient points.
+c)   What do you understand by entropy? Prove that entropy is a property of a system (i.e. state   (4)
+function).
+Qu.(4)   Attempt the following questions
+a)   Prove the Clausius inequality-   (6)
+b) .   Distinguish between irreversible and reversible heat engine. Derive an expression for the   (4)
+efficiency of the reversible heat engine.
+c)   Derive general expression for steady flow energy equation.   (4)
+Qu.(S)   Attempt the following questions
+. t
+a)   A reversible heat engine operates between 600° C and 40°C and drives a reversible Refrigerator   (4)
+operating between 40°C and -18° C. Still there is a net output of work equal to 370 kl, while the
+heat received by the engine is 2100 kJ. Determine the cooling effect.
+--- page 3 ---
+b)   For an Ideal gas Show that: Cp =L, R Cv . =- R   (6)
+y-l   y-l
+0.3 kg of air at 120°C expands adiabatically to three times its original volume and during the
+process, there is a fall in temperature to 10°e. The work done during the process is 70 kJ.
+Calculate Cp and c-,
+e)   Determine enthalpy, specific volume, and specific entropy of 10 % quality at 0.15 MPa.   (4)
+Qu.(6)   Attempt the following questions
+a)   Derive expressions for entropy changes for a closed system under going heat addition process.   (4)
+b)   Dry saturated steam at 100 bar expands isothermally and reversibly to a pressure of lObar.   (6)
+Calculate per kg of steam:   .
+(i) The heat supplied;
+(ii) The work done.
+e)   A Carnot engine operates between two reservoirs at the temperature ofTl (K) and T2 (K). The   (4)
+work output of the engine is 0.6 times that of heat rejected. Given that difference in temperature
+between the source and sink is 200 K. Calculate the source temperature, sink temperature, and
+thermal efficiency.
+Qu.(7)   Attempt the following questions-.   _
+a)   (i) A reversible heat pump is used to maintain a temperature o(o-oC·lD. a refrigeratorwhen   it rejeds'---(5) .....-._--
+the heat to the surroundings at 25°C. If the heat removal rate from the refrigerator is 1440 kJ/min,
+determine the C.O.P. of the machine and work input required. (ii) If the required input to run the
+pump is developed by a reversible engine which receives heat at 380°C and rejects heat to
+atmosphere, then determine the overall C.O.P. of the system.
+b)   Prove that the violation of kelvin Planck's statement violates Clausius statement.   (5)
+e)   Explain the term 'availability'. What are the factors on which it depends?   (4)
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper a3accbe4ae5e
@@ -3876,202 +4851,170 @@ d. Derive steady flow energy equation for nozzle and turbine.
 (04)
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper eca2444e2bdd
+## 2016-17 · Re-Exam · Sem 3 · paper 5ead89186789
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS (BATCH 16-17) RE-EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 25 November 2017
-- Text: ocr (4 pages), mean OCR confidence 92.0
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMCIS B TECH (MECHANICAL), BATCH 2014-15 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 25 November 2016
+- Text: ocr (3 pages), mean OCR confidence 94.3
+
+````text
+\y SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (MECHANICAL) Year: II Semester : III
+. Batch : 2014-2015 / 2015-2016 .
+| Academic Year : 2016-2017
+Subject : Engineering Thermodynamics
+Date : 25 November 2016
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1(one) is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+8) Use of Steam Tables ,Mollier Diagram allowed.
+
+Q1] Solve any Four of following: [12-Marks]
+a) Define and explain with example extensive property and intensive property.
+b) What isa PMM1? Why is it impossible?
+c) What is heat pump? How does it differs from a refrigerator?
+d) Why Clausius inequality is important to study?
+e) Define an ideal gas?
+f) What do you understand by Triple point? Give the pressure and temperature of water at its
+triple point.
+g) What is meant by Quality of energy?
+
+Q?2]a) i) The steam leaving a turbine is at a pressure of 70 kPa vacuum. Find the absolute pressure
+in bar, if the atmospheric pressure is 101 kPa. [03-Marks]
+
+ii) The temperature T on a thermometric scale is defined in terms of a property K by the relation
+T=a logeK+b
+
+Where a and b are constants. The values of K are found to be 1.83 and 6.78 at the ice point and the
+steam point. Determine the temperature corresponding to a reading of & equal to 2.42 on the
+thermometer. [03-Marks]
+
+i"
+--- page 2 ---
+b) A mass of 1 kg gas held in a cylinder-piston assembly is allowed to expand reversibly from
+10bar, 0.05m? toa final volume of 0.1m3 in accordance with the law P= CV” where C is constant.
+Then it is cooled reversibly and isobarically till it restores its initial volume. Thereafter, it is heated
+reversibly keeping the piston in the same position till the gas pressure rises to the initial pressure
+(10 bar). Sketch the cycle on P-v co-ordinate and determine the net work done by the gas.
+
+[06-Marks]
+Q3] a) i) What are the modes in which energy is stored in a system? [03-Marks]
+
+ii) Air stream of 5kg/sec with velocity of 30m/s having temperature 30°C is mixed with another
+air stream of 4kg/sec having velocity 65 m/s and temperature 60°C. The mixture leaves with the
+velocity of 25 m/s and 25 kJ of heat per kg is lost to the surroundings during mixing. Find the
+temperature of stream after mixing. [03-Marks]
+
+b) A fluid is confined in a cylinder by a spring-loaded, frictionless piston so that the pressure in
+the fluid is a linear function of the volume ( p= atb V).The internal energy of the fluid is given
+by the equation: U=34+3.15 pV
+
+Where U is in kJ, p in kPa and V in cubic meter. If the fluid changes from an initial state of
+170kPa and 0.03m3 to a final state of 400kPa, 0.06m3, with no work other than that done on the
+piston, find the direction and magnitude of the work and heat transfer. [06-Marks]
+
+Q4] a) i) Give the Clausius’ statement and Kelvin-Planck statement’ of the second law of
+thermodynamics. [63-Marks]
+
+ii) An inventor claims to have developed a refrigeration unit which maintains -10°C in the
+refrigerated space which is kept in a room where the temperature is 25°C and which has COP of
+8.5, How do you evaluate his claim? [03-Marks]
+
+b) A heat pump working on the Carnot cycle takes heat from a reservoir at 5°C and delivers heat
+to a reservoir at 60°C. The heat pump is driven by a reversible heat engine which takes heat from
+a reservoir at 840°C and rejects heat to a reservoir at 60°C. The reversible heat engine also drives
+a machine that absorbs 30KW. If the heat pump extracts 17 kJ/sec from 5°C reservoir, determine
+the heat taken from 840°C heat source. [06-Marks]
+
+Q5] a) i) Explain use of T-s plot to analyze different thermodynamic processes. [03-Marks]
+
+ii) In a power station a waste heat recovery boiler is used to evaporate water at 252°C using hot
+gases from a furnace. The gases are cooled from 1100°C to 550°C, which transferring heat to
+water. If Cp for gas is 1.005 kJ/kg K and latent heat of vaporization of steam is 1692 kJ/kg. Find
+the increase in total entropy of combined system of gas and water as per kg water basis. [03-Marks]
+
+Es
+--- page 3 ---
+b) 1 kg of ice at -5°C is exposed to the atmosphere which is at 25°C. The ice melts and comes into
+thermal equilibrium, 1.Determine the entropy increase of the universe; 2. What is the minimum
+amount of work necessary to convert the water back into ice at -5°C.
+
+Take: Cp of ice = 2.093 kJ/kg °C, Latent heat of fusion of ice = 333.33 kJ/kg [06-Marks]
+
+Q6]a) i) Draw the phase equilibrium diagram for a pure substance on p-T coordinates. [03-Marks]
+ii) Find enthalpy, entropy and volume for following conditions for a mass of 1.2 kg of steam.
+1. 10bar pressure and 0.95 dry; 2. 20bar pressure and 100°C of superheat. [03-Marks]
+
+b) Steam at 0.8 MPa, 250°C and flowing at the rate of 1kg/s passes into a pipe carrying wet
+steam at 0.8MPa, 0.95 dry. After adiabatic mixing the flow rate is 2.3kg/s. Determine the
+condition of steam after mixing. The mixture is now expanded in a frictionless nozzle
+isentropically to a pressure of 0.4 MPa. Determine the velocity of the steam leaving nozzle.
+Neglect the velocity of steam in the pipeline. [06-Marks]
+
+Q7] a) i) Explain the significance and use of Zeroth law of thermodynamics. [03-Marks]
+
+ii) Dry saturated steam is throttled from 25bar to a pressure of Sbar and is then allowed to expand
+isentropically to Ibar. Use Moiller diagram to find: 1. Dryness fraction of the steam in the final
+state; 2. Temperature of the steam in the final state; 3.Total enthalpy change. [03-Marks]
+
+b) i) Explain in brief : 1. Available energy; 2. Unavailable energy. [03-Marks]
+
+ii) A rigid vessel contains @.5kg of carbon monoxide and 2kg of nitrogen at a temperature of 300K
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper b3b15e8398f2
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Batch 2015-16 Re Exam_b3b15e8398.pdf`
+- Printed on paper: exam date: 31-May-17
+- Text: ocr (2 pages), mean OCR confidence 92.0
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (MECHANICAL) « Year: II Semester: III“
-Batch: 2016-17 ¢ ara tant
-Academic Year: 2017-2018 7,0 2 NM
-Subject: Engineering Thermodynamics ode sy ak Ve
-Marks: 70( LI sRARY Da
-Date: 25 November 2017 - Time: 10390 4m to 1.00 ppfé
+Programme: B.Tech Integrated (MECHANICAL) Year: II Semester: III
+
+Batch: 2015-16
+
+Ry ed ys
+Subject: Engineering Thermodynamics / ge ‘= ND
+aks: 60 = tae
+
+ire: 02.00 pam’ to Be
+pions: 8 (hrs) 4
+
+Academic Year: 2016-2017
+
+Date: 31-May-17
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
 
-1) Question No. 1 is compulsory.
-
-2) Out of remaining 6 questions, attempt any 4 questions
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary,‘
-
-8) Use of steam table is permitted.
-
-Qu.(1) Attempt any seven questions. (2x7)
-a) Define a thermodynamic system. Differentiate between open systems, closed system.
-
-b) What is a quasi-static process? Explain.
-
-c) What do you understand by zero’th law? Give its significance.
-
-d) Explain briefly about Intensive and Extensive Properties.
-
-e) What is a pure substance? Explain with suitable example.
-
-f) State and explain Van der Waals’ equation.
-
-g) State first law of thermodynamics for cyclic process? Show that the
-
-i) What do you understand about high grade and low grade energy? Explain in brief.
-
-)) Explain the term ‘availability’. What are the factors on which it depends?
-
-4/4
---- page 2 ---
-Qu.(2) Attempt the following questions
-
-a)   Accylinder contains | kg of a certain fluid at an initial pressure of 20 bar. The fluid is allowed to (6)
-expand reversibly behind a piston according to a law pV? = constant, until the volume is doubled.
-The fluid is then cooled reversibly at constant pressure until the piston regains its original position;
-heat is then supplied reversibly with the piston firmly locked in position until the pressure rises
-to the original value of 20 bar. Calculate-the net work done by the fluid, for an initial volume of
-0.05 m?.
-
-b) By using steam table, find the specific volume, enthalpy and internal energy of wet steam at 18 (4)
-bar, dryness fraction 0.85.
-
-c) Draw and explain a p-T (pressure-temperature) and T-s:(temperature —specific entropy) diagram (4)
-for a pure substance, and explain salient points.
-
-Qu.(3) Attempt the following questions
-
-a) A reversible heat engine operates between two reservoirs at temperatures 700°C and 50°C. The (6)
-engine drives a reversible refrigerator which operates between reservoirs at temperatures of 50°C
-and — 25°C. The heat transfer to the engine is 2500 kJ and the net work done output of the
-combined engine refrigerator plant is 400 kJ. (i) Determine the heat transfer to the refrigerant and
-the net heat transfer to the reservoir at 50°C; (ii) Reconsider (i) given that the efficiency of the
-heat engine and the C.O.P. of the refrigerator are each 45 per cent of their maximum possible
-values.
-
-b) — Explain the following terms relating to steam formation: (i) Sensible heat of water, (ii) Latent (4)
-heat of steam, (iii) Dryness fraction of steam, (iv) Enthalpy of wet steam, and (v) Superheated
-steam.
-
-c) What are the characteristics of entropy? Prove that entropy is a property of a system (i.e. state (4)
-
-function).
-
-Qu.(4) Attempt the following questions
-a) A closed system of constant volume experiences a temperature rise of 25°C when a certain process (6)
-
-occurs. The heat transferred in the process is 30 kJ. The specific heat at constant volume for the
-pure substance comprising the system is 1.2 kJ/kg°C, and the system contains 2.5 kg of this
-substance. Determine: (i) The change in internal energy; (ii) The work done.
-
-d) Distinguish between irreversible and reversible heat engine. Derive an expression for the (4)
-efficiency of the reversible heat engine.
-
-2/4
---- page 3 ---
-e) The efficiency of a Carnot engine can be increased either by decreasing the Sink temperature (4)
-while keeping the source temperature constant or by increasing the source temperature while
-keeping the sink temperature constant. Which one of the above two possibilities is more effective?
-
-Qu.(5) Attempt the following questions
-
-a) Prove the following relation- (4)
-
-nM, _ 1
-pa me
-
-M,
-Where, M; = Molecular weight of the mixture,
-= Number of moles of an any constituent,
-mp = Mass fraction of the constituent, and
-M;= Molecular weight of the constituent.
-
-b) Show that for a polytropic process, change in entropy is given by (4)
-
-Where letters have their usual meaning ,
-a :
-
-c) 3 kg of water at 80°C is mixed with 4 kg of water at 15°C in an isolated system. Calculate the (6)
-change of entropy due to mixing process.
-
-Qu.(6) Attempt the following questions
-
-a) In agas turbine unit, the gases flow through the turbine is 15 kg/s and the power developed by — (4)
-the turbine is 12000 kW. The enthalpies of gases at the inlet and outlet are 1260 kJ/kg and 400
-kJ/kg respectively, and the velocity of gases at the inlet and outlet are 50 m/s and 110 m/s
-
-respectively. Calculate :
-(i) The rate at which heat is rejected i to the turbine, and
-(ii) The area of the inlet pipe given that the specific volume of the gases at the inlet is
-
-0.45 m/kg.
-
-b) Prove the Clausius inequality- (5)
-
-f2<o
-
-3/4
---- page 4 ---
-c) A pressure cooker contains 1.5 kg of saturated steam at 5 bar. Find the quantity of heat which (5)
-
-must be rejected so as to reduce the quality to 60% dry. Determine the pressure and temperature
-of the steam at the new state.
-
-Qu.(7) Attempt the following questions
-a) Derive an expression of availability of a steady flow system. (4)
-b) A mixture of hydrogen (Hz) and oxygen (O2) is to be made so that the ratio of H2 to Oo is 2:1 by (5)
-volume. If the pressure and temperature are 1 bar and 25°C respectively.
-Calculate :(i) The mass of O02 required; (ii) The volume of the container.
-
-c) 2.5 kg of air at 6 bar, 90°C expands adiabatically is a closed system until its volume is doubled (5)
-and its temperature becomes equal to that of the surroundings which is at 1 bar, 5°C. For this
-process determine: (i) The maximum work; (ii) The change in availability; (iii) The irreversibility.
-
-For air take: Cy = 0.718 kJ/kg K, R = 0.287 kJ/kg K.
-
-4/4
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 633f2bfa26a2
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 January 2019
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT 4
-
-Program: B.Tech/ MBA Tech (Mechanical) ~~ Year: H Semester : Il
-Academic Year: 2018-19
-
-Subject: Engineering Thermodynamics ~ : Marks: 70 “
-Time: 2.00 pm to 5.00 pm
-
-Date: 16 January 2019 ~
-° ay Durations: 3 (hrs)
-
-No. of Pages:_ O2__
-Re-examination (2016-17 / 2017-18/ 2018-19) ~—
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
+1) Question No.1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -4079,318 +5022,226 @@ the Answer Book, which is provided for their use.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5) Ariswer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary.
 
-8) Use of steam table is permitted.
+8) Use of steam tables and Moiller diagram allowed.
 
-1. Define the following — 14
+Ql] Solve following (any four) [12]
+i) Define and briefly explain:
+1. Thermodynamic System 2. Control volume
+ii) What is PMM-I?
+iii) Define following:
 
-a) Quasi-static process
-b) Zeroth law of thermodynamics
-c) First law of thermodynamics
-d) Heat engine and heat pump
-e) Unavailable energy
-f) Dalton’s law of partial pressure
-g) Isentropic process
+1.COP of Heat pump 2. COP of refrigerator
+3. Efficiency of heat engine
 
-2. A. Derive the steady flow energy equation for a single stream entering and single stream leaving the 06
-control volume.
+iv) Why Carnot cycle is rectangle on T-s plot.
 
-B. Consider a cyclic process in a closed system which includes three heat interactions, namely QI = 04
-20 kJ, Q2 = -6kJ, and Q3 = -4 kJ and two work interactions for which W1 = 4500 N-m. Compute
-the magnitude of the second work interaction W2 in Nm.
+v) What is mean by superheated steam and degree of superheat.
+vi) State and briefly explain Dalton’s law of partial pressure.
 
-C. A gas system, confined by a piston and cylinder, undergoes a change of state such that the product 04
-of pressure and volume remains constant. If the process begins at a pressure of 3 bar anda volume
-0.015m? and proceeds until the pressure falls to half its initial value, determine the magnitude
-and direction of the work flow.
+vii) Draw an ideal Rankine cycle on T-s co-ordinate and name the
 
-3. A. State Kelvin-Planck and Clausius statement for second law and also show the equivalence 06
-between two statements.
+thermodynamic processes.
 
-B. A Heat engine is used to drive a heat pump. The heat transfers from the heat engine and from the 08
-heat pump are used to heat the water circulating through the radiators of a building. The efficiency
-of the heat engine is 27% and the coefficient performance of heat pump is 4. Evaluate the ratio
-of heat transfer to the circulating water to the heat transfer to the heat engine.
+Q2] a) | Name and explain the law that forms the basis for temperature [06]
+measurement. Support your explanation with example.
+b) A gas expands from an initial state where the pressure is 340 kPa and the | [06]
 
-4. A. Write short note on Entropy Principle along with one application.
+volume is 0.0425 m? to a final pressure of 136 kPa. The relationship
+between the pressure and volume of the gas is pv” = constant. Determine
+the work for the process.
 
-to
+Q3] a) | A piston and cylinder machine contains a fluid system which passes | [06]
+through a complete cycle of four processes. During a cycle, the sum of all
 
-05
+1]page
 --- page 2 ---
-B. One kg of water at 273 K is brought into contact with a heat reservoir at 373 K. When the water 05
-has reached 373 K, find the entropy change of water, the heat reservoir and of the universe.
-C. Consider the flow of heat from the reservoir at temp Tl to that at T2 across the conductor. 04
-Conductor is the system. In the steady state there is no change in the state of the system. Take
-T\= 500K T2= 250K and heat transferred from T) temp. reservoir is 1000 kJ. Classify that process
-is irreversible/reversible/impossible.
-5. A. State and prove Carnot theorem. 06
-B. Exhaust gases leave an internal combustion engine at 800°C and 1 atm, after having done 1050 08
-kJ of work per kg of gas in the engine (cp of gas = 1.1 kJ/kg K). The temperature of the
-surroundings is 30°C.
-a) How much available energy per kg of gas is lost by throwing away the exhaust gases?
-' b) What is the ratio of the lost available energy to the engine work?
+heat transfer is -170 kJ. The system completes 100 cycles per min.
+Complete the following table showing the method for each item and
+compute the net rate of work out put in kW.
 
-6. ‘A.A domestic refrigerator is loaded with food and the-door closed. During a certain period the 05
-machine consumes | kWhr of energy and the-internal energy of the system drops by 5000 kJ.
-Find the net heat transfer for the system.
+PROCESS Q (kJ/min) W (kJ/min) AE (kJ/min)
+a-b ; 0 2170 ?
+b-c 21000 0 2
+c-d -2100 ? -36600
+d-a ? ? ?
+b) Air enters a compressor operating at steady state at a pressure of 1 bar, a | [06]
 
-B. Steam flows in a pipeline at 1.5Mpa. After expanding to 0.1MPa in a throttling calorimeter, the 05
-temperature is found to be 120°C. Find the quality of steam in the pipe line.
+temperature of 290 K and a velocity of 6 m/s through an inlet with an area
+of 0.1 m?. At exit, the pressure is 7 bar, the temperature is 450 K and the
+velocity is 2 m/s. Heat transfer from the compressor to the surroundings
+occurs at the rate of 180 kJ/min. Using steady flow energy equation, find
+the work input to the compressor. (Take Cp for air as 1.005kJ/kg-k)
 
-C. A certain amount of gas is compressed from | bar and 0.1m? to 5 bar and 0.03m>. The process is 04
-according to the law pV" = K. Determine the magnitude and direction of work.
+Q4] a) | Write the Kelvin-Plank and Clausius’s statements of second law of | [06]
+thermodynamics.
 
-7. A. Write short on (any two) — 10
+b) | A reversible heat engine operates between two reservoirs at temperatures | [06]
+of 600°C and 40°C. The engine drives reversible refrigerator which
+operates between reservoirs at 40°C and -20°C. The heat transfer to the heat
 
-a) Maximum Useful Work.
-b) Carnot cycle.
-c) Macroscopic and Microscopic view point.
+<OCC K\| engine is200-kJ-and network output of the combined engine —refrigerator
+plant is 360 kJ. Evaluate the net heat transfer to the reservoir at 40°C.
 
-B. Indicate in the following cases, the heat exchange and work exchange are positive, negative or 04
-zero, and why — .
-a) A copper block of | kg heated to 100°C is dipped into water at 15°C. Consider copper as
-system.
-b) Heat is added to a gas in a rigid container such that pressure and temperature increases.
-Consider gas as system.
-c) Gas from a bottle is used to inflate a balloon which is originally flat. Consider gas as system.
-d) An insulated wire is stretched. Consider wire as system.
+Q5] a) | One kg of ice at -5°C is exposed to atmosphere which is at 20°C. The ice | [06]
+melts and comes into thermal equilibrium with the atmosphere. Determine
+the entropy increase of universe.
 
-oh
+b) Derive expression for air standard efficiency of Otto cycle in terms of | [06]
+compression ratio.
+
+Q6] a) | What is mean by dryness fraction of steam, and explain any one method | [06]
+of its determination.
+
+b) Steam initially at 1.5 MPa, 300°C expands reversible and adiabatically in a | [06]
+steam turbine to 40°C. Determine the ideal work output of turbine per kg
+of steam.
+
+Q7] a) | A steam turbine receives steam at 7 MPa and 550°C and exhaust at 20 KPa. | [06]
+If the efficiency of turbine is 90%, find work produced by turbine, and
+quality of steam after expansion in turbine.
+
+b) A Diesel cycle has compression ratio of 14 and cut off takes place at 6% | [06]
+stroke. Find the air standard efficiency.
+
+2) Page
+E28
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 5c5525e9ca6f
+## 2016-17 · Re-Exam · Sem 3 · paper d4f7a0d2fd0c
 
 - Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics,Re-exam 2016-17-18-19.pdf` (+1 identical copies)
-- Printed on paper: exam date: 07 November 2019
-- Text: ocr (2 pages), mean OCR confidence 93.2
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Batch 2015-16 Re Exam_d4f7a0d2fd.pdf`
+- Printed on paper: max marks: 60; exam date: 03 December 2016
+- Text: ocr (3 pages), mean OCR confidence 92.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech/ MBA Tech (Mechanical) Year: II
-a rd
-Academic Year: 2019-20
-Subject: Engineering Thermodynamics
+Programme: B. Tech Integrated (MECHANICAL) Year: II Semester: III
 
-a
+Academic Year: 2016-2017
 
-Semester: III
+Subject : Engineering Thermodynamics BATCH: 2015-201
+Marks: 60 Ke sy
+Date : 03 December 2016 Time : 10.00 afgito’ 1.00 pm ““\
+. Durations: ae: ‘< MPSy My
 
-Date: 07 November 2019
+Re -Examination NN '8RAR ¥
 
-Ps
-
-SHmen2i00 pth 5, od ph
-QuratidnBR3\ (Hts) /=;
-Si. of Pages: 2
-
-Re-Examination (2016-17 / 2017-
+Instruction: Candidates should read carefully the instructions printed on the question Dobe
+cover of the Answer Book, which is provided for their use.
 
 NB:
-1. Question No. 1 is compulsory,
-2. Out of remaining questions attempt any four questions.
-3. In all five questions to be attempted.
-4. All questions carry equal marks.
-5. Use of steam table is permitted.
-6. Assume suitable data, if required.
 
-Q.1 a Attempt the following (Any Four)
+1) Question No.1 (one) is compulsory.
 
-i) Explain Microscopic and Macroscopic approach
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
 
-ii) Define Path function and Point function
-
-iii) Define reversible and irreversible process
-
-iv) Define extensive and intensive Properties
-
-v) State Zeroth law of thermodynamics and its significance
-
-vi) What is entropy? Prove that entropy is a property of system
-
-vii) Define available energy and unavailable energy
-
-viii) State and explain the Gibbs law a
-Q.2 a State the limitation of first law of thermodynamics
-
-b 680 kg of fish at 5°C are to be frozen and stored at — 12°C. The specific heat of fish above
-freezing point is 3.182 kJ/kg K and below freezing point is1.717 kJ/kg K. The freezing point is
-— 2°C, and the latent heat of fusion is 234.5 kJ/kg. How much heat must be removed to cool
-the fish, and what per cent of this is latent heat?
-
-c The properties of a certain fluid are related as follows:
-u= 196 + 0.718¢
-pv = 0.287 (t + 273)
-
-Where u is the specific internal energy (kJ/kg), t is in °C, p is pressure (KN/m°), and v is
-specific volume (m3/kg). For this fluid, find Cv and Cp.
-Q.3 a Apply steady flow energy equation to nozzle and turbine.
-
-b A mass of 8 kg gas expands within a flexible container so that the p—v relationship i is of the
-from pv'? = constant. The initial pressure is 1000 KPa and the initial volume is 1 m°. The final
-pressure is 5 KPa. If specific internal energy of the gas decreases by 40 kJ/kg, find the heat
-transfer in magnitude and direction.
-
-c A blower handles | kg/s of air at 20°C and consumes a power of 15 Kw. The inlet and outlet
-
-aps
---- page 2 ---
-Q.4
-
-Q.5
-
-Q.6-
-
-Q7
-
-velocities of air are 100 m/s and 150 m/s respectively. Find the exit air temperature, assuming
-adiabatic conditions Take Cp of air is 1.005 kJ/kg-K.
-
-» State Kelvin-Plank and Clausius statement of second law of thermodynamics and Prove 6
-
-their equivalence.
-A refrigeration plant for a food store operates as a reversed Carnot heat engine cycle. The store 4
-is to be maintained at a temperature of — 5°C and the heat transfer from the store to the cycle is
-at the rate of 5 kW. If heat is transferred from the cycle to the atmosphere at a temperature of
-25°C, Calculate the power required to drive the plant.
-An inventor claims to have developed an engine that takes in 105 MJ at a temperature of 400 4
-K, rejects 42 MJ at a temperature of 200 K, and delivers 15 kWh of mechanical work. Would
-you advise investing money to put this engine in the market?
-
-State the Dalton’s law of partial pressure 2
-State and Prove clausius inequality 6
-The usual cooking gas (mostly methane) cylinder is about 25 cm in diameter and 80 cm in 6
-height. It is changed to 12 MPa at room temperature (27°C). (a) Assuming the ideal gas law,
-find the mass of gas filled in the cylinder. (b) Explain how the actual cylinder contains nearly
-15 kg of gas. (c) If the cylinder is to be protected against excessive pressure by means of a
-fusible plug, at what temperature should the plug melt to limit the maximum pressure to 15
-MPa?
-Explain the following terms relating to steam formation : te
-i).Saturation temperature (ii) Latent of heat steam (iii) Dryness fraction of steam, (iv) enthalpy
-of wet steam, and (v) Entropy of superheated steam
-Eighty kg of water at 100°C are mixed with 50 kg of water at 60°C, while the temperature of 4
-the surroundings is 15°C. Determine the decrease in available energy due to mixing.
-Derive an expression for heat transfer and work transfer in polytrophic process. 6
-A rigid vessel of volume 0.86 m? contains 1 kg of steam at a pressure of 2 bar. Evaluate the 4
-specific volume, dryness fraction, enthalpy, and entropy of steam.
-An adiabatic vessel contains 2 kg of water at 25°C. By paddle-wheel work transfer, the
-temperature of water is increased to 30°C. If the specific heat of water is assumed constant at 4
-4.187 kJ/kg K, find the entropy change of the universe.
-
-af.
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 42c17cf649ab
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Batch 2016-17 Re Exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 01 December 2017
-- Text: text (3 pages)
-
-````text
-"
-SVKM'S NMIMS
-\\.
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING   \.
-~   Academic Year:   2017 - 2018
-J Program: B. Tech Integrated   (Mechanical)   /   Year: n   Semester:IH
-Batch: 2016-1 q <   Marks: 70   "(-
-Subject: Engineering   Thermodynamics"   Time: 02.00 pm to 05.00 pm
-Date: 01 December 2017 /   Duration:3 hrs   ,
-No.of Pages: 03
-~------
-RE - EXAMINATION
-Instructions:   Candidates   should read carefully the instructions   printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-1) Question No. 1is compulsory.
-2) Out of remaining §...questions, attempt any ~questions
-3) In all ~ questions to be attempted.
-- n' s»   -
 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page. _
-6) Figures in brackets on the right hand side indicate full marks .
-...   ~-:~:.-7)Ass!:':l!1e'suitable data if necessary,_.   .   .._
--~-,~~~c---c-~"7--8) Steamtable use is allowed. ---   -----   -- .
-Qu.(l)   Attempt any seven questions.   (2x7)
-a)
-What is the perpetual motion machine of the second kind? Explain.
-b)
-State Camot theorem.
-c)
-What is the relation between (C.O.P.) Heat pump and (C.O.P.) Refrigerator?
-d)
-What do you understand by dryness fraction? Explain.
-e)
-What is the effectiveness of a system and how does it.differ from efficiency?
-f)
-What is the difference between intensive and extensive properties?
-g)
-Explain briefly-I?alton's law and Gibbs-Dalton law.
-h)
-What does the principle of entropy increase, specify?
-i)
-What do you understand by thermodynamic process? Distinguish between reversible
-and irreversible process.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the.right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of Steam Tables, Mollier Diagram allowed.
+
+QI] Solve any Four of following: [12]
+a) What do you understand by thermometric property and thermometric substance?
+b) Define internal energy? Is it a function of state or a process?
+c) State and briefly explain Carnot’s theorem.
+d) Explain the principle of entropy increase.
+e) How throttling helps in determining dryness fraction of steam?
+f) Define Partial pressure and explain its use for analyzing mixture of gases.
+g) Define compression ratio. How does it affect the air standard efficiency of an Otto cycle?
+
+Q2]a) i) A U-tube mercury manometer with one arm open to atmosphere is used to measure the
+pressure of steam flowing through a pipe. The level of mercury in the open-ended arm stands 95
+mm higher than that in the arm connected to steam pipe. Some of the steam condenses in the arm
+in communication with the steam pipe. If the height of this column is 32 mm. Find the absolute
+pressure of steam. Take atmospheric pressure equal to 760 mm of mercury. [03]
+
+ii) State the difference between extensive, intensive and specific properties of thermodynamic
+system. , [03]
+
+peqe \/3
+
+4,
 --- page 2 ---
-{Qu.(2)   Attempt the following questions
-a)   What is a polytropic process? Represent a polytropic process on PV- diagram. Show that for a polytropic   (6)
-reversible .   process the work d one IS . given .   b y W = PIVI-P2V2 , were h   n IS . th e po I ytropic .. m d ex.
-n-l
-b)   Explain the First Law of Thermodynamics   as referred to closed systems undergoing a cyclic change.   (4)
-c)   What is the difference between an ideal and a perfect gas?   (4)
-Qu.(3)   Attempt the following questions
-a)   A stream of gases at 7.5 bar, 750°C and 140 m/s is passed through a turbine of a jet engine. The   (6)
-. stream comes out of the turbine at 2.0 bar, 550°C and 280 m/so The process may be assumed
-adiabatic. The enthalpies of gas at the entry and exit of the turbine are 950 kJ/kg and 650 kJ/kg of
-gas respectively. Determine the work capacity of the turbine if the gas flow is 5 kg/so .
-b)   Draw and explain a Tvs (temperature -specific entropy) and P-v (Pressure -specific volume)   (4)
-diagram for a pure substance; zznd explain salient points.
-c)   What do you understand by entropy? Prove that entropy is a property of a system (i.e. state   (4)
-function).
-Qu.(4)   Attempt the following questions
-a)   Prove the Clausius inequality-   (6)
-b) .   Distinguish between irreversible and reversible heat engine. Derive an expression for the   (4)
-efficiency of the reversible heat engine.
-c)   Derive general expression for steady flow energy equation.   (4)
-Qu.(S)   Attempt the following questions
-. t
-a)   A reversible heat engine operates between 600° C and 40°C and drives a reversible Refrigerator   (4)
-operating between 40°C and -18° C. Still there is a net output of work equal to 370 kl, while the
-heat received by the engine is 2100 kJ. Determine the cooling effect.
+b) A non-flow reversible process occurs for which pressure and volume are correlated by the
+
+expression p = V2+ 6/V, where p is in bar and V is in m3. What amount of work will be done when
+volume changes from 2 to. 4 m3. [06]
+
+Q3] a) A piston and cylinder machine contains a fluid system which passes through a complete
+
+cycle of four processes. During a cycle, the sum of all heat transfer is -150 kJ and the system
+completes 100 cycles per minute. Complete the following table, and calculate the net rate of work
+
+output. [06]
+Process Q (kJ/min) W (kJ/min) dU (kJ/min)
+1-2 0 21500 ee eeeeeeeeee ?
+2-3 20000 OD eee eeees ? ~
+a
+3-4 2000 J eae eee teens 7 -36000
+b) i) Write the steady flow energy equation and point out the significance of various terms
+involved. {63}
+ii) A certain water heater operates under steady flow conditions receiving 4.2 kg/s of water at 75°C
+temperature, enthalpy 313.93 kJ/kg. The water is heated by mixing with steam which is supplied
+to the heater at temperature of 100.2°C and enthalpy 2676 kJ/kg. The mixture leaves the heater as
+liquid water at temperature of 100°C and enthalpy 419kJ/kg. How much steam must be supplied
+to the heater per hour? [03]
+Q4] a) i) State and explain importance of third law of thermodynamics. [03] e@
+
+ii) An inventor claims to have developed an engine that operates between a source at 450 K anda
+sink at 280 K and is capable of delivering 540 kJ of work for every 1200 kJ of heat received.
+Evaluate the claim of inventor. [03]
+
+b) Two reversible engines E1 and E2 are kept in series between a hot reservoir at 600 K and cold
+reservoir at 300 K. Engine El receives 500 kJ of heat from reservoir at 600 K. Presuming that both
+the engines have equal thermal efficiency determine: 1. The temperature at which heat is rejected
+
+by engine El and is received by engine E2; 2. Thermal efficiency of each engine; 3.The heat
+rejected by the engine E2 to cold reservoir. [06]
+
+QS] a) i) What is pure substance? Can air be treated as a pure substance? [03]
+
+poge 2/3
 --- page 3 ---
-b)   For an Ideal gas Show that: Cp =L, R Cv . =- R   (6)
-y-l   y-l
-0.3 kg of air at 120°C expands adiabatically to three times its original volume and during the
-process, there is a fall in temperature to 10°e. The work done during the process is 70 kJ.
-Calculate Cp and c-,
-e)   Determine enthalpy, specific volume, and specific entropy of 10 % quality at 0.15 MPa.   (4)
-Qu.(6)   Attempt the following questions
-a)   Derive expressions for entropy changes for a closed system under going heat addition process.   (4)
-b)   Dry saturated steam at 100 bar expands isothermally and reversibly to a pressure of lObar.   (6)
-Calculate per kg of steam:   .
-(i) The heat supplied;
-(ii) The work done.
-e)   A Carnot engine operates between two reservoirs at the temperature ofTl (K) and T2 (K). The   (4)
-work output of the engine is 0.6 times that of heat rejected. Given that difference in temperature
-between the source and sink is 200 K. Calculate the source temperature, sink temperature, and
-thermal efficiency.
-Qu.(7)   Attempt the following questions-.   _
-a)   (i) A reversible heat pump is used to maintain a temperature o(o-oC·lD. a refrigeratorwhen   it rejeds'---(5) .....-._--
-the heat to the surroundings at 25°C. If the heat removal rate from the refrigerator is 1440 kJ/min,
-determine the C.O.P. of the machine and work input required. (ii) If the required input to run the
-pump is developed by a reversible engine which receives heat at 380°C and rejects heat to
-atmosphere, then determine the overall C.O.P. of the system.
-b)   Prove that the violation of kelvin Planck's statement violates Clausius statement.   (5)
-e)   Explain the term 'availability'. What are the factors on which it depends?   (4)
+ii) Find the specific volume, enthalpy, entropy of wet steam at 15 bar pressure and dryness fraction
+of 0.8 [03]
+
+b) A rigid tank of 1m? volume contains dry saturated steam at 0.2 MPa. Due to poor thermal
+insulation, there is heat transfer to the surroundings and pressure drops to 0.1 MPa after some time.
+Make calculations for the final condition of the steam and the amount of heat transferred. [06]
+
+Q6] a) i) List the assumptions made in the analysis of air standard cycles like Otto cycle. [03]
+
+ii) Show that the thermal efficiency of a regenerative cycle is always greater than that of simple
+Rankine cycle regardless of where steam is tapped off. [03]
+
+b) An air standard Otto cycle is designed to operate with the following conditions:
+* Maximum cycle pressure and temperature: 5 MPa, 2250 K
+
+Minimum cycle pressure and temperature: 0.1 MPa, 300 K Determine the work output per unit
+mass of working fluid and the thermal efficiency. [06]
+
+Q7] a) A steel ball of mass 8 kg at 1000 K is dropped in 80 kg of oil at 300 K. Make calculations
+for the entropy change of steel ball, the oil and the universe. Take Specific heat of steel as 0.5
+
+kJ/kg K and specific heat of oil as 3.5 kJ/kg K. [06]
+b) i) Explain “ Equation of state for gas”. [03]
+ii) Define entropy and explain its significance in thermodynamics. [03]
+
+poge- 2/2
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper e4f5199c9a7f
@@ -5126,411 +5977,6 @@ Q7) Write short note on following (any three) [12-Marks]
 2/9,
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 5ead89186789
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMCIS B TECH (MECHANICAL), BATCH 2014-15 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 25 November 2016
-- Text: ocr (3 pages), mean OCR confidence 94.3
-
-````text
-\y SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (MECHANICAL) Year: II Semester : III
-. Batch : 2014-2015 / 2015-2016 .
-| Academic Year : 2016-2017
-Subject : Engineering Thermodynamics
-Date : 25 November 2016
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1(one) is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-8) Use of Steam Tables ,Mollier Diagram allowed.
-
-Q1] Solve any Four of following: [12-Marks]
-a) Define and explain with example extensive property and intensive property.
-b) What isa PMM1? Why is it impossible?
-c) What is heat pump? How does it differs from a refrigerator?
-d) Why Clausius inequality is important to study?
-e) Define an ideal gas?
-f) What do you understand by Triple point? Give the pressure and temperature of water at its
-triple point.
-g) What is meant by Quality of energy?
-
-Q?2]a) i) The steam leaving a turbine is at a pressure of 70 kPa vacuum. Find the absolute pressure
-in bar, if the atmospheric pressure is 101 kPa. [03-Marks]
-
-ii) The temperature T on a thermometric scale is defined in terms of a property K by the relation
-T=a logeK+b
-
-Where a and b are constants. The values of K are found to be 1.83 and 6.78 at the ice point and the
-steam point. Determine the temperature corresponding to a reading of & equal to 2.42 on the
-thermometer. [03-Marks]
-
-i"
---- page 2 ---
-b) A mass of 1 kg gas held in a cylinder-piston assembly is allowed to expand reversibly from
-10bar, 0.05m? toa final volume of 0.1m3 in accordance with the law P= CV” where C is constant.
-Then it is cooled reversibly and isobarically till it restores its initial volume. Thereafter, it is heated
-reversibly keeping the piston in the same position till the gas pressure rises to the initial pressure
-(10 bar). Sketch the cycle on P-v co-ordinate and determine the net work done by the gas.
-
-[06-Marks]
-Q3] a) i) What are the modes in which energy is stored in a system? [03-Marks]
-
-ii) Air stream of 5kg/sec with velocity of 30m/s having temperature 30°C is mixed with another
-air stream of 4kg/sec having velocity 65 m/s and temperature 60°C. The mixture leaves with the
-velocity of 25 m/s and 25 kJ of heat per kg is lost to the surroundings during mixing. Find the
-temperature of stream after mixing. [03-Marks]
-
-b) A fluid is confined in a cylinder by a spring-loaded, frictionless piston so that the pressure in
-the fluid is a linear function of the volume ( p= atb V).The internal energy of the fluid is given
-by the equation: U=34+3.15 pV
-
-Where U is in kJ, p in kPa and V in cubic meter. If the fluid changes from an initial state of
-170kPa and 0.03m3 to a final state of 400kPa, 0.06m3, with no work other than that done on the
-piston, find the direction and magnitude of the work and heat transfer. [06-Marks]
-
-Q4] a) i) Give the Clausius’ statement and Kelvin-Planck statement’ of the second law of
-thermodynamics. [63-Marks]
-
-ii) An inventor claims to have developed a refrigeration unit which maintains -10°C in the
-refrigerated space which is kept in a room where the temperature is 25°C and which has COP of
-8.5, How do you evaluate his claim? [03-Marks]
-
-b) A heat pump working on the Carnot cycle takes heat from a reservoir at 5°C and delivers heat
-to a reservoir at 60°C. The heat pump is driven by a reversible heat engine which takes heat from
-a reservoir at 840°C and rejects heat to a reservoir at 60°C. The reversible heat engine also drives
-a machine that absorbs 30KW. If the heat pump extracts 17 kJ/sec from 5°C reservoir, determine
-the heat taken from 840°C heat source. [06-Marks]
-
-Q5] a) i) Explain use of T-s plot to analyze different thermodynamic processes. [03-Marks]
-
-ii) In a power station a waste heat recovery boiler is used to evaporate water at 252°C using hot
-gases from a furnace. The gases are cooled from 1100°C to 550°C, which transferring heat to
-water. If Cp for gas is 1.005 kJ/kg K and latent heat of vaporization of steam is 1692 kJ/kg. Find
-the increase in total entropy of combined system of gas and water as per kg water basis. [03-Marks]
-
-Es
---- page 3 ---
-b) 1 kg of ice at -5°C is exposed to the atmosphere which is at 25°C. The ice melts and comes into
-thermal equilibrium, 1.Determine the entropy increase of the universe; 2. What is the minimum
-amount of work necessary to convert the water back into ice at -5°C.
-
-Take: Cp of ice = 2.093 kJ/kg °C, Latent heat of fusion of ice = 333.33 kJ/kg [06-Marks]
-
-Q6]a) i) Draw the phase equilibrium diagram for a pure substance on p-T coordinates. [03-Marks]
-ii) Find enthalpy, entropy and volume for following conditions for a mass of 1.2 kg of steam.
-1. 10bar pressure and 0.95 dry; 2. 20bar pressure and 100°C of superheat. [03-Marks]
-
-b) Steam at 0.8 MPa, 250°C and flowing at the rate of 1kg/s passes into a pipe carrying wet
-steam at 0.8MPa, 0.95 dry. After adiabatic mixing the flow rate is 2.3kg/s. Determine the
-condition of steam after mixing. The mixture is now expanded in a frictionless nozzle
-isentropically to a pressure of 0.4 MPa. Determine the velocity of the steam leaving nozzle.
-Neglect the velocity of steam in the pipeline. [06-Marks]
-
-Q7] a) i) Explain the significance and use of Zeroth law of thermodynamics. [03-Marks]
-
-ii) Dry saturated steam is throttled from 25bar to a pressure of Sbar and is then allowed to expand
-isentropically to Ibar. Use Moiller diagram to find: 1. Dryness fraction of the steam in the final
-state; 2. Temperature of the steam in the final state; 3.Total enthalpy change. [03-Marks]
-
-b) i) Explain in brief : 1. Available energy; 2. Unavailable energy. [03-Marks]
-
-ii) A rigid vessel contains @.5kg of carbon monoxide and 2kg of nitrogen at a temperature of 300K
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 6001ae8d1aee
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS BATCH 14-15, 15-16, RE EXAM.pdf`
-- Printed on paper: exam date: 17 November 2018
-- Text: ocr (2 pages), mean OCR confidence 90.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHANICAL) Year: II Semester: III
-
-_ o z (STITUTE OF SN
-A “ a.
-
-Academic Year: 2018-2019 DON
-
-’
-
-4B com. 1
-J Subject: Engineering Thermodynamics ‘ Li ant |
-7 ,Marks\60 ee: \
-Date: 17 November 2018 __ Time: 2
-a : DurationsSS$ VEESN'
-
-No. of Pages :
-Re-examination (2014-15 / 2015-16)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicaie full marks.
-7) Assume suitable data if necessary.
-
-8) Use of ‘Steam Tables and Mollier Diagram’ is allowed.
-
-Q.1 Attempt any four question from following .
-
-(A) Distinguish between the terras ‘change of State’, ‘path’, and ‘process’. [3]
-(B) State the first law of thermodynamics for a closed system undergoing a cycle. 3]
-(C) What is PMM2? Why is it impossible? [3]
-(D) Why is the Carnot cycle on T-s plot a rectangle? [3]
-(E) Derive the expression of work transfer for an ideal gas in a reversible isothermal [3]
-process.
-(F) What are saturation states? (3]
-Q.2 (A) Show that heat is a path function and not a property. [4]
-
-(B) A gas expands from an initial state where the pressure is 340kPa and the volume is [4]
-0.0425 m} to a final pressure of 136 kPa. The relationship between the pressure and
-volume of the gas is pv? = constant. Determine the work for the process.
-
-(C) Explain mechanical, chemical and thermal equilibrium. [4]
-| Q3 (A) vel be the velocity of a fluid leaving a nozzle, if the velocity of approach is very [4]
-small?
-(B) The rate of heat transfer between a certain electric motor and its surroundings varies [4]
-are with time as Q = -0.2 [1- e°®"] where t is in seconds and Q is in kW. The shaft of the
-
-motor rotates at a constant speed of 100 rad/s and applies a constant torque of 18 Nm
-
-Yo
---- page 2 ---
-to an external load. The motor draws a constant electrical power input of 2 kW. Obtain
-an expression for the time rate of change of energy of the motor.
-(C) In a steady flow apparatus, 135 kJ of work is done by each kg of fluid. The specific [4]
-
-volume of the fluid, pressure, and velocity at the inlet are 0.37 m/kg, 600 kPa, and 16
-m/s. The inlet is 32 m above the floor, and the discharge pipe is at floor level. The
-discharge conditions are 0.62 m*/kg, 100 kPa, and 270. m/s. The total heat loss between
-the inlet and discharge is 9 kJ/kg of fluid. In flowing through this apparatus, does the
-specific internal energy increase or decrease, and by how much?
-
-Q4 (A) Establish the equivaténce of Kelvin-Planck and Clausius statements. [6]
-(B) A heat engine operating between two reservoirs at temperatures 600°C and 40°C drives [6]
-a refrigerator operating between reservoirs at temperatures of 40°C and -15°C. The heat
-transfer to the heat engine is 2500 kJ and the net work output of the combined engine
-and refrigerator plant is 400 kJ. The efficiency of the heat engine and the COP of the
-refrigerator are each 40% of the maximum possible values. Estimate the heat transfer
-to the refrigerant and the net heat transfer to the reservoir at 40°C.
-
-Q.5 (A) A system has a heat capacity at constant volume [6]
-i. : Cy=AT?
-where A’= 0.042 J/K?. .
-The system is originally at 200 K, and a thermal reservoir at 100 K is available. What
-is the maximum amount of work that can be recovered as the system is cooled down to
-the temperature of the reservoir?
-(B) An isolated system consists of a closed copper vessel of mass 0.1 kg immersed in 20 [6]
-
-kg of liquid water initially at 20°C. The copper vessel contains | kg of liquid water,
-each initially at 5°C. The system is allowed,to come to equilibrium. Determine (a) the
-final temperature, (b) the entropy change for the copper vessel and each of the liquid
-water masses, (c) the amount of éntropy produced. Take Cp of copper = 0.89 kJ/kgK
-and that of water = 4.18 kJ/kgK.
-
-Q.6 (A) Why is there no temperature change when an ideal gas is throttled? {3}
-(B) What is meant by quality of energy? [3]
-(C) Two kg of air at 500 kPa, 80°C expands adiabatically in a closed system until its volume [6]
-is doubled and its temperature becomes equal to that of the surroundings which is at
-100 kPa, 5°C. For this process, determine (a) the maximum work, (b) the change in
-availability, and (c) the irreversibility. For air, take cy = 0.718 kJ/kgK, u = cyT where
-cy is constant, and pV = mRT where p is pressure in kPa, V volume in m3, m mass in
-kg, R a constant equal to 0.287 kJ/kgK, and T temperature in K.
-
-Q.7 (A) What do you understand by triple point? [3]
-(B) Draw the phase equilibrium diagram for a pure substance on h-s plot with relevant [4]
-constant property lines.
-
-—T (C) Steam at 0.8 MPa, 250°C and flowing at the rate of 1 kg/s passes into a pipe carrying [5]
-wet steam at 0.8 MPa, 0.95 dry. After adiabatic mixing the flow rate is 2.3 kg/s.
-ne Determine the condition of steam after mixing.
-
-Ap
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 3e8deda88a84
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Batch 2015-16 Re Exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 01 June 2018
-- Text: ocr (3 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (Mechanical) 7 Year: II ° Semester: III «
-
-Batch: 2015-16 ~
-Academic Year: 2017-2018"
-
-. oo. . pe —"
-Subject: Engineering Thermodynamics §« ; / <7
-
-; urks: 60 Ye!
-Date: 01 June 2018 “ gE ime: .2,00 pm % ey m
-
-a ‘Durations: 3 (hr,
-
-ec
-Cte ageS:
-Re-Examination Se imag yas a
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-8) Use of Steam Tables and Mollier diagram allowed
-
-Ql] Solve following (any four) [12]
-
-i) Explain briefly: 1. Quasi-static process; 2. Reversible process;
-3. Irreversible process.
-ii) State and explain the First law of thermodynamics.
-iii) What is a Carnot Cycle? Represent it on p-v and 7-s diagrams.
-iv) A heat engine is supplied with 2512 kJ/min of heat at 650°C. The heat
-
-rejection takes place at 100°C. Specify which of the following heat
-rejections represents a reversible, irreversible or impossible results using
-Clausius inequality: a) 867 kJ/min; b) 1015 kJ/min; c) 1494 kJ/min
-
-v) What is mean by Wet Steam, Dry saturated steam and superheated
-steam?
-
-vi) Define the following terms as applied to gas mixtures: 1. Mass fraction;
-2. Mole Fraction; 3. Volume Fraction.
-
-vii) Draw the Diesel Cycle on p-v and T-s co-ordinates and name the
-
-thermodynamic processes.
-
-Q2] a) The pressure of the gas supplied to an engine is measured as 76.2 mm of [06]
-water gauge. If the barometer reads 730 mm of Hg, What is the absolute
-pressure of the gas in mm of Hg and kPa.
-
-b) 150 kJ of work is supplied to a closed system. If the initial volume is [06]
-0.5 m? and the pressure of the system changes as p = 8-4v, where p is in
-bars and v is in m3, determine the final volume and pressure of the system.
-
-1[Page
---- page 2 ---
-Q3] a) A thermodynamic system undergoes a cycle which comprises the four [06]
-process 1+2, 2-3, 3-4, and 4-1. The energy transfer are tabulated below:
-
-Complete the table.
-PROCESS Q (kJ/sec) W (kJ/sec) AU (kJ/sec)
-1-2 40 ? 25
-2-3 20 -10 ?
-3-4 -20 ? ?
-4-1 0 8 ?
-b) In a gas turbine, the gas enters at the rate of 5 kg/s with a velocity of 50 [06]
-
-m/s and enthalpy of 900 kJ/kg and leaves the turbine with a velocity of
-150 m/s and enthalpy of 400 kJ/kg. The loss of heat from the gases to the
-surroundings is 25 kJ/kg. Assume for gas, R = 0.285 kJ/kg K and
-
-Cp = 1.004 kJ/kg K. The inlet condition is at 100 kPa and 27°C.
-Determine the power output of turbine using Steady Flow Energy
-
-Equation.
-Q4] a) i) Explain following: 1. Heat Engine; 2. Heat pump. [03]
-ii) State and briefly explain Carnot’s theorem. [03]
-b) A Carnot heat engine works between two temperature of source at 900 K [06]
-and sink at 300 K. It runs a Carnot refrigerator working between two
-temperatures of 300 K and 250 K. The engine is supplied 3000 kJ/min
-and network output of the heat engine-refrigerator plant is 10 kW.
-Determine: 1. The heat transferred to the refrigerant and the net heat
-transfer to the sink reservoir maintained at 300 K.
-Q5] a) Explain the principle of entropy increase. [06]
-b) Derive expression for air standard efficiency of Dual cycle. [06]
-Q6] a)i) Explain use of Mollier diagram. [03]
-ii) Explain the throttling process for steam and show it on h-s diagram. [03]
-b) A rigid vessel (2 m* capacity) holding steam at 20 bar and 300°C, is [06]
-
-cooled till the steam becomes just dry saturated. Determine:
-1. Mass of the steam in the vessel;
-2. Final pressure of the steam;
-3. Amount of the heat transferred from the vessel to the
-surroundings.
-
-2lgage
---- page 3 ---
-Q7] a)
-
-b)
-
-3| fase
-
-A turbine working on a Rankine cycle is supplied with dry saturated steam [06]
-at 25 bar and exhaust takes place at 0.2 bar. For a steam flow rate of
-10 kg/s; Determine:
-
-1. Dryness fraction of steam at the end of <apansia
-
-2. Turbine shaft work;
-
-3. Power required to drive the pump;
-
-4. Efficiency of Rankine cycle.
-
-In an air standard Otto cycle, the compression ratio is 7 and compression [06]
-begins at 35°C and 0.1 MPa. The maximum temperature in the cycle is
-1100°C. Find:
-
-1.Temperature and pressure at the cardinal points of the cycle;
-
-2. The heat supplied per kg of air
-
-3. The cycle efficiency.
-````
-
 ## 2015-16 · Re-Exam · Sem 3 · paper 863f1e8d36f1
 
 - Departments: Mechanical
@@ -5663,268 +6109,6 @@ water reaches 373 K, find the entropy change of the water, of the heat reservoir
 ii) Show that the adiabatic mixing of two fluids is irreversible. [03]
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper b3b15e8398f2
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Batch 2015-16 Re Exam_b3b15e8398.pdf`
-- Printed on paper: exam date: 31-May-17
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated (MECHANICAL) Year: II Semester: III
-
-Batch: 2015-16
-
-Ry ed ys
-Subject: Engineering Thermodynamics / ge ‘= ND
-aks: 60 = tae
-
-ire: 02.00 pam’ to Be
-pions: 8 (hrs) 4
-
-Academic Year: 2016-2017
-
-Date: 31-May-17
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Ariswer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of steam tables and Moiller diagram allowed.
-
-Ql] Solve following (any four) [12]
-i) Define and briefly explain:
-1. Thermodynamic System 2. Control volume
-ii) What is PMM-I?
-iii) Define following:
-
-1.COP of Heat pump 2. COP of refrigerator
-3. Efficiency of heat engine
-
-iv) Why Carnot cycle is rectangle on T-s plot.
-
-v) What is mean by superheated steam and degree of superheat.
-vi) State and briefly explain Dalton’s law of partial pressure.
-
-vii) Draw an ideal Rankine cycle on T-s co-ordinate and name the
-
-thermodynamic processes.
-
-Q2] a) | Name and explain the law that forms the basis for temperature [06]
-measurement. Support your explanation with example.
-b) A gas expands from an initial state where the pressure is 340 kPa and the | [06]
-
-volume is 0.0425 m? to a final pressure of 136 kPa. The relationship
-between the pressure and volume of the gas is pv” = constant. Determine
-the work for the process.
-
-Q3] a) | A piston and cylinder machine contains a fluid system which passes | [06]
-through a complete cycle of four processes. During a cycle, the sum of all
-
-1]page
---- page 2 ---
-heat transfer is -170 kJ. The system completes 100 cycles per min.
-Complete the following table showing the method for each item and
-compute the net rate of work out put in kW.
-
-PROCESS Q (kJ/min) W (kJ/min) AE (kJ/min)
-a-b ; 0 2170 ?
-b-c 21000 0 2
-c-d -2100 ? -36600
-d-a ? ? ?
-b) Air enters a compressor operating at steady state at a pressure of 1 bar, a | [06]
-
-temperature of 290 K and a velocity of 6 m/s through an inlet with an area
-of 0.1 m?. At exit, the pressure is 7 bar, the temperature is 450 K and the
-velocity is 2 m/s. Heat transfer from the compressor to the surroundings
-occurs at the rate of 180 kJ/min. Using steady flow energy equation, find
-the work input to the compressor. (Take Cp for air as 1.005kJ/kg-k)
-
-Q4] a) | Write the Kelvin-Plank and Clausius’s statements of second law of | [06]
-thermodynamics.
-
-b) | A reversible heat engine operates between two reservoirs at temperatures | [06]
-of 600°C and 40°C. The engine drives reversible refrigerator which
-operates between reservoirs at 40°C and -20°C. The heat transfer to the heat
-
-<OCC K\| engine is200-kJ-and network output of the combined engine —refrigerator
-plant is 360 kJ. Evaluate the net heat transfer to the reservoir at 40°C.
-
-Q5] a) | One kg of ice at -5°C is exposed to atmosphere which is at 20°C. The ice | [06]
-melts and comes into thermal equilibrium with the atmosphere. Determine
-the entropy increase of universe.
-
-b) Derive expression for air standard efficiency of Otto cycle in terms of | [06]
-compression ratio.
-
-Q6] a) | What is mean by dryness fraction of steam, and explain any one method | [06]
-of its determination.
-
-b) Steam initially at 1.5 MPa, 300°C expands reversible and adiabatically in a | [06]
-steam turbine to 40°C. Determine the ideal work output of turbine per kg
-of steam.
-
-Q7] a) | A steam turbine receives steam at 7 MPa and 550°C and exhaust at 20 KPa. | [06]
-If the efficiency of turbine is 90%, find work produced by turbine, and
-quality of steam after expansion in turbine.
-
-b) A Diesel cycle has compression ratio of 14 and cut off takes place at 6% | [06]
-stroke. Find the air standard efficiency.
-
-2) Page
-E28
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper d4f7a0d2fd0c
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Batch 2015-16 Re Exam_d4f7a0d2fd.pdf`
-- Printed on paper: max marks: 60; exam date: 03 December 2016
-- Text: ocr (3 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (MECHANICAL) Year: II Semester: III
-
-Academic Year: 2016-2017
-
-Subject : Engineering Thermodynamics BATCH: 2015-201
-Marks: 60 Ke sy
-Date : 03 December 2016 Time : 10.00 afgito’ 1.00 pm ““\
-. Durations: ae: ‘< MPSy My
-
-Re -Examination NN '8RAR ¥
-
-Instruction: Candidates should read carefully the instructions printed on the question Dobe
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 (one) is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the.right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of Steam Tables, Mollier Diagram allowed.
-
-QI] Solve any Four of following: [12]
-a) What do you understand by thermometric property and thermometric substance?
-b) Define internal energy? Is it a function of state or a process?
-c) State and briefly explain Carnot’s theorem.
-d) Explain the principle of entropy increase.
-e) How throttling helps in determining dryness fraction of steam?
-f) Define Partial pressure and explain its use for analyzing mixture of gases.
-g) Define compression ratio. How does it affect the air standard efficiency of an Otto cycle?
-
-Q2]a) i) A U-tube mercury manometer with one arm open to atmosphere is used to measure the
-pressure of steam flowing through a pipe. The level of mercury in the open-ended arm stands 95
-mm higher than that in the arm connected to steam pipe. Some of the steam condenses in the arm
-in communication with the steam pipe. If the height of this column is 32 mm. Find the absolute
-pressure of steam. Take atmospheric pressure equal to 760 mm of mercury. [03]
-
-ii) State the difference between extensive, intensive and specific properties of thermodynamic
-system. , [03]
-
-peqe \/3
-
-4,
---- page 2 ---
-b) A non-flow reversible process occurs for which pressure and volume are correlated by the
-
-expression p = V2+ 6/V, where p is in bar and V is in m3. What amount of work will be done when
-volume changes from 2 to. 4 m3. [06]
-
-Q3] a) A piston and cylinder machine contains a fluid system which passes through a complete
-
-cycle of four processes. During a cycle, the sum of all heat transfer is -150 kJ and the system
-completes 100 cycles per minute. Complete the following table, and calculate the net rate of work
-
-output. [06]
-Process Q (kJ/min) W (kJ/min) dU (kJ/min)
-1-2 0 21500 ee eeeeeeeeee ?
-2-3 20000 OD eee eeees ? ~
-a
-3-4 2000 J eae eee teens 7 -36000
-od ree : ns (errrreT core PN ae eranmars sane ?
-b) i) Write the steady flow energy equation and point out the significance of various terms
-involved. {63}
-ii) A certain water heater operates under steady flow conditions receiving 4.2 kg/s of water at 75°C
-temperature, enthalpy 313.93 kJ/kg. The water is heated by mixing with steam which is supplied
-to the heater at temperature of 100.2°C and enthalpy 2676 kJ/kg. The mixture leaves the heater as
-liquid water at temperature of 100°C and enthalpy 419kJ/kg. How much steam must be supplied
-to the heater per hour? [03]
-Q4] a) i) State and explain importance of third law of thermodynamics. [03] e@
-
-ii) An inventor claims to have developed an engine that operates between a source at 450 K anda
-sink at 280 K and is capable of delivering 540 kJ of work for every 1200 kJ of heat received.
-Evaluate the claim of inventor. [03]
-
-b) Two reversible engines E1 and E2 are kept in series between a hot reservoir at 600 K and cold
-reservoir at 300 K. Engine El receives 500 kJ of heat from reservoir at 600 K. Presuming that both
-the engines have equal thermal efficiency determine: 1. The temperature at which heat is rejected
-
-by engine El and is received by engine E2; 2. Thermal efficiency of each engine; 3.The heat
-rejected by the engine E2 to cold reservoir. [06]
-
-QS] a) i) What is pure substance? Can air be treated as a pure substance? [03]
-
-poge 2/3
---- page 3 ---
-ii) Find the specific volume, enthalpy, entropy of wet steam at 15 bar pressure and dryness fraction
-of 0.8 [03]
-
-b) A rigid tank of 1m? volume contains dry saturated steam at 0.2 MPa. Due to poor thermal
-insulation, there is heat transfer to the surroundings and pressure drops to 0.1 MPa after some time.
-Make calculations for the final condition of the steam and the amount of heat transferred. [06]
-
-Q6] a) i) List the assumptions made in the analysis of air standard cycles like Otto cycle. [03]
-
-ii) Show that the thermal efficiency of a regenerative cycle is always greater than that of simple
-Rankine cycle regardless of where steam is tapped off. [03]
-
-b) An air standard Otto cycle is designed to operate with the following conditions:
-* Maximum cycle pressure and temperature: 5 MPa, 2250 K
-
-Minimum cycle pressure and temperature: 0.1 MPa, 300 K Determine the work output per unit
-mass of working fluid and the thermal efficiency. [06]
-
-Q7] a) A steel ball of mass 8 kg at 1000 K is dropped in 80 kg of oil at 300 K. Make calculations
-for the entropy change of steel ball, the oil and the universe. Take Specific heat of steel as 0.5
-
-kJ/kg K and specific heat of oil as 3.5 kJ/kg K. [06]
-b) i) Explain “ Equation of state for gas”. [03]
-ii) Define entropy and explain its significance in thermodynamics. [03]
-
-poge- 2/2
-````
-
 ## 2014-15 · Final-Exam · Sem 3 · paper 92f88f47e502
 
 - Departments: Mechanical
@@ -5932,6 +6116,7 @@ poge- 2/2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS B TECH (MECH), 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; exam date: 28/11/2014
 - Text: ocr (3 pages), mean OCR confidence 92.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -6018,7 +6203,6 @@ b-c 21000 Oe 2
 
 c-d 21000 ee 2 -36600
 
-dea eee 5 eee a eee ?
 
 Q4ja] Establish the equivalence of Kelvin-Planck and Clausius statements. [05]
 
@@ -6083,6 +6267,7 @@ foqe No: 3]
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/Engineering Thermodynamics Final Exam 2014-15.pdf`
 - Printed on paper: max marks: 100; exam date: 28/11/2014
 - Text: ocr (3 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Ql
@@ -6142,7 +6327,6 @@ rateof work output in kW
 Complete the following table showing the method for each item, and compute the net rate
 of work output in kW.
 
-Process Q fhdimin} W (hd Imin) AE (kJtmin}
 2 0 4340 ae
 2-3 42000 0 _
 Bt —4200- — ~ 73300
@@ -6266,6 +6450,185 @@ N (7) What is an equation of state?
 z : a
 
 3/3
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 0404565150a2
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS B TECH (MECH) 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 28/11/2014
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: II Semester: III
+
+Batch: 2013-2014 “AV8TE OF
+Academic Year: 2014-2015 Z gos
+
+Subject: Engineering Thermodynamics tf M PSTM a \%
+
+Marks: i
+Date: 28/11/2014 Time: (ia EAs
+
+Durations:
+RG ur his rae
+
+Re-Examination
+
+1. Question No. 1 is compulsory
+
+2. Oui of remaining questions attempt any four questions.
+3. All questions carry equal marks.
+
+4. Assume suitable data, if necessary.
+
+Qi Attempt the following (Any Five) 20
+i) Define Path function and Point function
+ii) Define extensive and intensive Properties
+iii) State Kevin plank and Clausius statement of Second law
+iv) Define exergy and anergy
+v) Define reversible and irreversible process
+vi) Explain Dalton’s Law of partial pressure
+
+Q2 a State limitation of first law of thermodynamics 04
+b For a polytropic process, derive the following relation. 06
+
+Qi2= [(y-1)/( y-n)] x Polytropic Work aaranistor (W1.-2)
+c The piston of an oil engine, of area 0.0045 m’, moves downwards 75mm, 05
+
+drawing in 0.00028 m° of fresh air from the atmosphere. The pressure in
+
+the cylinder is uniform during the process at 80 kPa, while the atmospheric
+pressure is 101.325 kPa, the difference being due to the flow resistance in
+
+the induction pipe and the inlet valve. Estimate the displacement work
+done by the air finally in the cylinder.
+
+d 680 kg of fish at 5°C are to be frozen and stored at — 12°C. The specific 05
+
+heat of fish above freezing point is 3.182, and below freezing point is
+1.717 kI/kg K. The freezing point-is — 2°C, and the latent heat of fusion is
+234.5 kJ/kg. How much heat must be removed to cool the fish, and what
+percent of this is latent heat?
+
+Q3 a Apply Steady flow energy equation to i) Nozzle ii) Reciprocating 04
+Compressor.
+b A gas undergoes a thermodynamic cycle consisting of three processes 08
+
+beginning at an initial state where P; = 1 bar, V; = 1.5 m? and U; = 512
+kJ.The processes are as follows: (i) Process 1-2: Compression with PV =
+constant to P2 = 2 bar, U2 = 690 kJ (ii) Process 2-3: W23 = 0, Qo3 = —150
+kJ, and (iii) Process 3-1: W3, = +50 kJ. Neglecting KE and PE changes,
+determine the heat interactions Q)2 and Q3).
+
+\ V/9
+--- page 2 ---
+Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+A turbine operates under steady flow conditions, receiving steam at the
+following state: Pressure 1.2 MPa, temperature 188°C, enthalpy 2785
+kJ/kg, velocity 33.3 m/s and elevation 3 m. The steam leaves the turbine at
+the following state: Pressure 20 kPa, enthalpy 2512 kJ/kg, velocity 100
+m/s, and elevation 0 m. Heat is lost to the surroundings at the rate of 0.29
+kJ/s. If the rate of steam flow through the turbine is 0.42 kg/s, what is the
+power output of the turbine in kW?
+
+State Kelvin Plank and Clausius statement of second law and Prove their
+equivalence.
+
+Using an engine of 30% thermal efficiency to drive a refrigerator having a
+COP of 5, what is the heat input into the engine for each MJ removed from
+the cold body by the refrigerator? If this system is used as a heat pump,
+how many MJ of heat would be available for heating for each MJ of heat
+input to the engine?
+
+Two kg of water at 80°C are mixed adiabatically with 3 kg of water at
+30°C in a constant pressure process of 1 atmosphere. Find the increase in
+the entropy of the total mass of water due to the mixing process, Cp of
+water = 4.187 kJ/kg K.
+
+Define i) Useful work ii) Dead state
+
+Exhaust gases leave an internal combustion engine at 800°C and | atm,
+after having done 1050 kJ of work per kg of gas in the engine (cp of gas =
+1.1 kJ/kg K). The temperature of the surroundings is 30°C.
+
+(a) How much available energy per kg of gas is lost by throwing away
+
+the exhaust gases?
+
+(b) What is the ratio of the lost available energy to the engine work?
+Air flows through an adiabatic compressor at 2 kg/s. The inlet conditions
+are 1 bar and 310 K and the exit conditions are 7 bar and 560 K. Compute
+the net rate of availability transfer and the irreversibility. Take 7p = 298 K.
+Explain the following terms relating to steam formation (Any Four):
+
+(i) Sensible heat of water, (ii) Tripple point line, (iii) Dryness fraction of
+steam, (iv) Enthalpy of wet steam, and (v) Saturation pressure.
+
+Determine the amount of heat, which should be supplied to 2 kg of water at
+25°C to convert it into steam at 5 bar and 0.9 dry. Relevant steam table
+extract is given below.
+
+At 5 bar : he = 640.1 kJ/kg ; hy = 2107.4 kJ/kg
+
+Determine the mass of 0.15 m° of wet steam at a pressitle of 4 bar and
+dryness fraction 0.8. Also calculate the heat of 1 m? of steam. Relevant
+steam iable extract is given below.
+
+At 4 bar : Vz = 0.462 m/kg, hp = 604.7 kJ/kg, hyg = 2133 kJ/kg
+
+Define the following terms.
+
+i).Apparent molecular weight ii) Apparent gas constant
+
+State and Prove Clausius theorem.
+
+A vessel of 0.35 m? capacity contains 0.4 kg of carbon monoxide
+(molecular weight = 28) and 1 kg of air at 20°C. Calculate :
+
+(i) The partial pressure of each constituent.
+
+(ii) The total pressure in the vessel.
+
+The gravimetric analysis of air is to be taken as 23.3% oxygen (molecular
+weight = 32) and\]6.7% nitrogen (molecular weight = 28).
+
+ro <7
+
+08
+
+07
+
+07
+
+06
+
+04
+08
+
+08
+
+08
+
+06
+
+06
+
+04
+
+08
+08
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 57d335d77bb2
@@ -6690,6 +7053,7 @@ entropy. 74 . :
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS B TECH MECHANICAL 2013-14 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29/11/2013
 - Text: ocr (3 pages), mean OCR confidence 77.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Programme: B. Tech (MECH) Year: II
@@ -6864,7 +7228,6 @@ mp. / press Sat. ; Sas. Sat. : ‘Sat. Sat. Sat. Sar
 
 - d apt nage Liquid — Evap. Vapour Liquid Vapour — Liquid Vopour
 
-a a Uy Nig 4, fy h, Sy ‘
 0.01 0.001600 206.132 0.00 2375.3 2375.3 9.00 - 9.1562
 
 5 mal o.p1000 147.18 20.97 2361.3 23822 20.98 25105 Ag4n6
@@ -6907,7 +7270,6 @@ _fnternal Energy. kifkg
 
 Temp. “Pou n Sat Sat. Sat. Sati .
 °C kPa, MPa —-Liguid Vapour Liguid Evap. Vapour Liquid Evap. Vapour Liquid Vapour
-| a P MW Ye uy Ye Up he gg by S ie Sg
 7.2958
 
 2072.3 2512.3 440.13 9243.7 2683.8
@@ -7193,185 +7555,6 @@ ne do
 3)3
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 0404565150a2
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS B TECH (MECH) 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 28/11/2014
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: II Semester: III
-
-Batch: 2013-2014 “AV8TE OF
-Academic Year: 2014-2015 Z gos
-
-Subject: Engineering Thermodynamics tf M PSTM a \%
-
-Marks: i
-Date: 28/11/2014 Time: (ia EAs
-
-Durations:
-RG ur his rae
-
-Re-Examination
-
-1. Question No. 1 is compulsory
-
-2. Oui of remaining questions attempt any four questions.
-3. All questions carry equal marks.
-
-4. Assume suitable data, if necessary.
-
-Qi Attempt the following (Any Five) 20
-i) Define Path function and Point function
-ii) Define extensive and intensive Properties
-iii) State Kevin plank and Clausius statement of Second law
-iv) Define exergy and anergy
-v) Define reversible and irreversible process
-vi) Explain Dalton’s Law of partial pressure
-
-Q2 a State limitation of first law of thermodynamics 04
-b For a polytropic process, derive the following relation. 06
-
-Qi2= [(y-1)/( y-n)] x Polytropic Work aaranistor (W1.-2)
-c The piston of an oil engine, of area 0.0045 m’, moves downwards 75mm, 05
-
-drawing in 0.00028 m° of fresh air from the atmosphere. The pressure in
-
-the cylinder is uniform during the process at 80 kPa, while the atmospheric
-pressure is 101.325 kPa, the difference being due to the flow resistance in
-
-the induction pipe and the inlet valve. Estimate the displacement work
-done by the air finally in the cylinder.
-
-d 680 kg of fish at 5°C are to be frozen and stored at — 12°C. The specific 05
-
-heat of fish above freezing point is 3.182, and below freezing point is
-1.717 kI/kg K. The freezing point-is — 2°C, and the latent heat of fusion is
-234.5 kJ/kg. How much heat must be removed to cool the fish, and what
-percent of this is latent heat?
-
-Q3 a Apply Steady flow energy equation to i) Nozzle ii) Reciprocating 04
-Compressor.
-b A gas undergoes a thermodynamic cycle consisting of three processes 08
-
-beginning at an initial state where P; = 1 bar, V; = 1.5 m? and U; = 512
-kJ.The processes are as follows: (i) Process 1-2: Compression with PV =
-constant to P2 = 2 bar, U2 = 690 kJ (ii) Process 2-3: W23 = 0, Qo3 = —150
-kJ, and (iii) Process 3-1: W3, = +50 kJ. Neglecting KE and PE changes,
-determine the heat interactions Q)2 and Q3).
-
-\ V/9
---- page 2 ---
-Q.4
-
-Q.5
-
-Q.6
-
-Q.7
-
-A turbine operates under steady flow conditions, receiving steam at the
-following state: Pressure 1.2 MPa, temperature 188°C, enthalpy 2785
-kJ/kg, velocity 33.3 m/s and elevation 3 m. The steam leaves the turbine at
-the following state: Pressure 20 kPa, enthalpy 2512 kJ/kg, velocity 100
-m/s, and elevation 0 m. Heat is lost to the surroundings at the rate of 0.29
-kJ/s. If the rate of steam flow through the turbine is 0.42 kg/s, what is the
-power output of the turbine in kW?
-
-State Kelvin Plank and Clausius statement of second law and Prove their
-equivalence.
-
-Using an engine of 30% thermal efficiency to drive a refrigerator having a
-COP of 5, what is the heat input into the engine for each MJ removed from
-the cold body by the refrigerator? If this system is used as a heat pump,
-how many MJ of heat would be available for heating for each MJ of heat
-input to the engine?
-
-Two kg of water at 80°C are mixed adiabatically with 3 kg of water at
-30°C in a constant pressure process of 1 atmosphere. Find the increase in
-the entropy of the total mass of water due to the mixing process, Cp of
-water = 4.187 kJ/kg K.
-
-Define i) Useful work ii) Dead state
-
-Exhaust gases leave an internal combustion engine at 800°C and | atm,
-after having done 1050 kJ of work per kg of gas in the engine (cp of gas =
-1.1 kJ/kg K). The temperature of the surroundings is 30°C.
-
-(a) How much available energy per kg of gas is lost by throwing away
-
-the exhaust gases?
-
-(b) What is the ratio of the lost available energy to the engine work?
-Air flows through an adiabatic compressor at 2 kg/s. The inlet conditions
-are 1 bar and 310 K and the exit conditions are 7 bar and 560 K. Compute
-the net rate of availability transfer and the irreversibility. Take 7p = 298 K.
-Explain the following terms relating to steam formation (Any Four):
-
-(i) Sensible heat of water, (ii) Tripple point line, (iii) Dryness fraction of
-steam, (iv) Enthalpy of wet steam, and (v) Saturation pressure.
-
-Determine the amount of heat, which should be supplied to 2 kg of water at
-25°C to convert it into steam at 5 bar and 0.9 dry. Relevant steam table
-extract is given below.
-
-At 5 bar : he = 640.1 kJ/kg ; hy = 2107.4 kJ/kg
-
-Determine the mass of 0.15 m° of wet steam at a pressitle of 4 bar and
-dryness fraction 0.8. Also calculate the heat of 1 m? of steam. Relevant
-steam iable extract is given below.
-
-At 4 bar : Vz = 0.462 m/kg, hp = 604.7 kJ/kg, hyg = 2133 kJ/kg
-
-Define the following terms.
-
-i).Apparent molecular weight ii) Apparent gas constant
-
-State and Prove Clausius theorem.
-
-A vessel of 0.35 m? capacity contains 0.4 kg of carbon monoxide
-(molecular weight = 28) and 1 kg of air at 20°C. Calculate :
-
-(i) The partial pressure of each constituent.
-
-(ii) The total pressure in the vessel.
-
-The gravimetric analysis of air is to be taken as 23.3% oxygen (molecular
-weight = 32) and\]6.7% nitrogen (molecular weight = 28).
-
-ro <7
-
-08
-
-07
-
-07
-
-06
-
-04
-08
-
-08
-
-08
-
-06
-
-06
-
-04
-
-08
-08
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper 179751c1ab88
 
 - Departments: Mechanical
@@ -7527,189 +7710,4 @@ x +f
 
 08
 08
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper fc33e6bb0bd7
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING THERMODYNAMICS/ENGINEERING THERMODYNAMICS (MECHANICAL), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 November 2017
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHANICAL) Year: II Semester: III
-a“ _ pn
-Academic Year: 2017-2018 eecthtOTE BP Ban
-ge aS
-Subject: Engineering Thermodynamics Pd
-— Marks: 70 —
-
-Date: 25 November 2017 — Time: 10.00 am to
-
-Ql
-
-Q2
-
-Q.3
-
-NB:
-1. Question No. 1 is compulsory
-
-Durations: 3 (hrs) >
-No. of Pages: :
-Final-Examination
-
-2. Out of remaining questions attempt any four questions.
-3. In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Use of steam table is permitted.
-
-6. Assume suitable data if required.
-
-A Attempt the following (Any Four)
-
-i) Define Path function and Point function
-
-ii) Define extensive and intensive Properties
-
-iti) Define reversible and irreversible process
-
-iv) State the limitation of first law of thermodynamics
-
-v) Define PMM I and PMM II
-
-vi) What is entropy? Prove that entropy is a property of system
-vii) | Define available and unavailable emery
-
-vili) | State and explain the Gibbs law
-
-A State and explain the first law of thermodynamics for closed system
-
-undergoing cycle and change of state.
-
-B 680 kg of fish at 5°C are to be frozen and stored at — 12°C. The
-
-specific heat of fish above freezing point is 3.182 kJ/kg K and below
-freezing point is 1.717 kJ/kg K. The freezing point is — 2°C, and the
-latent heat of fusion is 234.5 kJ/kg. How much heat must be removed
-to cool the fish and what percent of this is latent heat?
-
-iC A mass of 8 kg gas expands within a flexible container so that the p—v
-
-relationship is of the from pv'*= constant. The initial pressure is 1000
-KPa and the initial volume is 1 m°*. The final pressure is 5 KPa. If
-specific internal energy of the gas decreases by 40 kJ/kg, find the heat
-transfer in magnitude and direction.
-
-A Apply the steady flow energy equation to nozzle and turbine.
-
-State and Prove the Clausius inequality.
-
-A turbine operates under steady flow conditions, receiving steam at
-the following state: Pressure 1.2 MPa, temperature 188°C, enthalpy
-2785 kJ/kg, velocity 33.3 m/s and elevation 3 m. The steam leaves
-
-Va
-
-14
-
-06
-
-04
-
-04
-
-04
-04
-06
---- page 2 ---
-Q.4
-
-.Q5
-
-Q.6
-
-Q.7
-
-the turbine at the following state: Pressure 20 kPa, enthalpy 2512
-kJ/kg, velocity 100 m/s, and elevation 0 m. Heat is lost to the
-surroundings at the rate of 0.29 kJ/s. If the rate of steam flow through
-the turbine is 0.42 kg/s, what is the power output of the turbine in
-kW?
-
-State Kelvin Plank and Clausius statement of second law and Prove
-their equivalence.
-
-A heat pump working on the Carnot cycle takes in heat from a
-reservoir at 5°C and delivers heat to a reservoir at 60°C. The heat
-pump is driven by a reversible heat engine which takes in heat from a
-reservoir at 840°C and rejects heat to a reservoir at 60°C. The
-reversible heat engine also drives a machine that absorbs 30 kW. If
-the heat pump extracts 17 kJ/s from the 5°C reservoir, determine
-
-(a) The rate of heat supply from the 840°C source.
-
-(b) The rate of heat rejection to the 60°C sink.
-
-Define Available energy, Unavailable energy. Useful work and
-irreversibility.
-
-Two kg of water at 80°C are mixed adiabatically with 3 kg of water at
-30°C in a constant pressure process of 1 atmosphere. Find the
-increase in the entropy of the total mass of water due to the mixing
-process (Cp of water = 4.187 kJ/kg K).
-
-Exhaust gases leave an internal combustion engine at 800°C and 1
-atm, after having done 1050 kJ of work per kg of gas in the engine
-(Cp of gas = 1.1 kJ/kg K). The temperature of the surroundings is
-30°C. (a) How much available energy per kg of gas is lost by
-throwing away the exhaust gases? (b) What is the ratio of the lost
-available energy to the engine work?
-
-Explain the following terms relating to steam formation (Any Four):
-(i) Sensible heat of water, (ii) Saturation pressure (iii) Dryness
-fraction of steam, (iv) Entropy of wet steam, and (v) Degree of
-superheat vi) Saturation temperature.
-
-A rigid vessel of volume 0.86 m? contains 1 kg of steam at a pressure
-of 2 bar. Evaluate the specific volume, temperature, dryness fraction,
-internal energy, enthalpy, and entropy of steam.
-
-State the Dalton’s Law of partial pressure.
-
-State and prove Carnot theorem.
-
-The usual cooking gas (mostly methane) cylinder is about 25 cm in
-diameter and 80 cm in height. It is changed to 12 MPa at room
-temperature (27°C). (a) Assuming the ideal gas law, find the mass of
-gas filled in the cylinder. (b) Explain how the actual cylinder contains
-nearly 15 kg of gas. (c) If the cylinder is to be protected against
-excessive pressure by means of a fusible plug, at what temperature
-should the plug melt to limit the maximum pressure to 15 MPa?
-
-2/2
-
-08
-
-06
-
-04
-
-10)
-
-05
-
-08
-
-06
-
-02
-06
-06
 ````

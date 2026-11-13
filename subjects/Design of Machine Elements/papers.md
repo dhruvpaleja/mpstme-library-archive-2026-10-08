@@ -908,6 +908,211 @@ including Width (mm) | Thickness (mm) | ° including Width (mm) | Thickness (mm)
 
 ````
 
+## 2024-25 · Re-Exam · Sem 6 · paper 91e30f3cc70a
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Design of Machine Elements/Design of machine element , Re-exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 74.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+' MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: MBA Tech. Stream : Mechanical Year: II] Semester: VI
+Subject: Design of Machine Elements "Time: 3 hrs (4 pm to 2 pm)
+Date: o3\os 2026" : : No. of Pages: 05
+
+Marks: 100.
+
+=R&>Examination ( 2022- 22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. ;
+
+. 1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted. :
+4) All questions carry equal marks.
+5). Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Use of design data book is allowed.
+8) Assume Suitable data if necessary.’
+
+1
+2 Attempt the following. : [20]
+CO- 1; SO-1; es Explain the basic steps involved in the design process of a machine element with [05]
+BL-2 an example. ;
+a ‘ SO-1; | b. Differentiate between rigid and flexible couplings with examples. [05]
+* . | ce : :
+
+oe pO: What is the self-locking condition of a power screw? Explain its importance. [05]
+CO-2;§0-1; | d- Explain the classification of levers based on mechanical advantage. [05]
+BL-1
+Q2 Design a cotter joint to connect two rods subjected to an axial tensile load of 50 | [20]
+CO-3; SO- kN. The materials for the rods and cotter are same with-its Yield strength = 250
+oar MPa andFactor of Safety (FOS) = 4.
+
+The layout of a transmission shaft carrying two pulleys B and C and supported on | [20]
+Q3 ; bearings A and D is shown in figure 1. Power is supplied to the shaft by means of
+ore SO-7; vertical belt on the pulley B which is then transmitted to the pulley C carrying a
+
+horizontal belt. The maximum tension in the belt on the pulley B is 2.5 KN. The
+--- page 2 ---
+angle of wrap for both the pulleys is 180° and the coefficient of friction is 0.24. The
+shaft is made of plain carbon steel 30C8 (Sy. = 400 N/mm”) and factor of safety is
+
+3. Determine the diameter of the shaft.
+
+209, 600.4 200
+
+A (a)
+All Dimensions in mm
+Figure No. 1- -
+a. The construction of a shaft straightener used on the shop floor is shown in figure | [10]
+
+2. The screw has single start square threads of 80 mm nominal diameter and 10
+mm pitch. The screw required to exert a maximum axial force of 10 KN. The mean
+radius of the friction collar is 30 mm. The axial length of the nut is 40 mm. The
+coefficient. of friction at the threads and the collar is 0.12. The mean diameter of
+the rim of the hand wheel is 500 mm. Determine:
+1. the force exerted at the rim to drive the screws
+_ 2. the efficiency of the straightener; and
+
+3. the bearing pressure on the threads in the nut.
+
+Handwheet
+04 c : —
+‘| C0-3; 80-7;
+BL-5, 6 _ 1
+. . - ee
+Nut |
+
+Figure No. 2
+--- page 3 ---
+b. The lead screw of a lathe has single-start ISO metric trapezoidal threads of 52 mm
+nominal diameter and 8 mm pitch. The screw is required to exert an axial force of
+2. KN in order to drive the tool carriage daniigihirtine operation. The thrust carried
+on a collar of 100 mm outer diameter and 60 mm inner diameter. The values of | [10]
+coefficient of friction at the screw thread and collar are 0.15 and 0.12 respectively.
+The lead screw rotates at 30 rpm. Design for the power required to drive the lead
+
+screw and efficiency of the screw.
+
+a. - | Design a rigid flange coupling to transmit 30 kW power at 900 rpm. The following [10}
+data is given:
+e - Permissible shear stress for shaft and key material = 40 N/mm2
+° Permissible shear stress for bolts = N/mm2
+¢ Permissible crushing stress for key material = 80 N/mm2
+e Number of bolts = 4
+
+b. A welded connection, as shown in fig. 3 is subjected to an eccentric force of 7.5 | [10]
+KN. Design for the size of the weld if permissible shear stress for the weld is 100
+
+Qs N/mm. [J=t.*1(3b’+12)/6.
+CO-3; SO-
+2,7;
+
+BL-6
+
+Figure No. 3
+All dimension in mm
+
+a. Design a close coiled helical compression spring for a service load ranging from | [10]
+2250 N to 2750 N. The axial deflection of the spring for the load range is 6 mm.
+
+Assume a spring index of 5. The permissible shear stress intensity is 420 N/mm?
+
+Q6
+and modulus of rigidity, G = 84 kN/mm?.
+CO-3; SO-2;
+BL-6 b. Design a valve spring of a petrol engine for the following operating conditions: | [10]
+
+Spring load when the valve is open = 400 N; Spring load when the valve is closed
+= 250 N; Maximum inside diameter of the spring = 25 mm; Length of the spring
+--- page 4 ---
+when the valve is open = 40 mm; Length of the spring when the valve is closed =
+50 mm; Maximum permissible shear stress = 400 N/mm’; modules of rigidity =80
+
+kN/mm’.
+
+a. A lever loaded safety valve is 70 mm in diameter and is to be designed for | [10]
+a boiler to blow-off at pressure of 1 N/mm? gauge. Design a suitable mild
+steel lever of rectangular cross-section using the following permissible
+
+stresses: Tensile stress = 70 N/mm?; Shear stress = 50 N/mm7;. Bearing
+
+Q7
+; ee 2 Ap T=
+
+0-3: $0-2: pressure intensity = 25 N/mm?. (Assume b=4t; 1,=1.25d,) ;
+
+BL-6 The pin is also made of mild steel. The distance from the fulcrum to the
+
+| weight of the lever is 880 mm and the distance between the fulcrum and pin
+
+connecting the valve spindle links to the lever is 80 mm.
+
+b. A bracket is supported by means of 4 rivets of same size, as shown in figure
+4. Determine the diameter of the rivet if the maximum shear stress is 140
+N/mm.
+
+20 kN
+
+k 80
+
+[10]
+
+Figure No. 4
+All dimension in mm
+--- page 5 ---
+Shaft diameter Key cross-section Shaft diameter Key cross-section
+
+finn) upto and (mm) upto and
+including | Width (nm) | Thickness (num) including Fidth (mm) | Thickness (mn)
+
+6 a — 85 25 14
+8 fe 3 95 28 16
+10 4 4 110 32 18
+12 5 5 130 36 20
+17 oe 6 150 40 22
+22 8 OO 170 45 - 25
+90 2 le 8 200 50 28
+38 12 8 230 56 ))
+50 16 10 290 10 36
+58 ae ll 330. 80 40
+65 20 2 380 | 90 45
+
+5 2 14 440 100° 50
+--- page 6 ---
+‘ : : ; i :
+. . - age Soe 7 . -
+i eat: eo & cay t
+7 : : : - : i
+; : ! go 3 _ i :
+& lee 2 ~ si 2 Z
+. 7 i i i
+
+ee oe : . z - ahs : i 7
+
++ - i : 7 ? £ * 7 E .
+4 - & +
+to reo £ - . 5 i yo
+. ae on : . - .
+
+, ' . ; cos a ;
+ue - oe 8 : 4 - -
+: . - 8 j
+7 y ® : Ae - 4 + - i
+cae } BB . oF e
+y * - 2 4 4
+. £30! ; : Ja i. : }
+| Be i “ . : & t {
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper 806536b4768a
 
 - Departments: Mechanical
@@ -1576,6 +1781,231 @@ Figure No. 5
 All dimension in mm
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper da990c25a913
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Design of Machine Elements/Design of Machine Elements.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 92.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech. Stream : Mechanical Year: III Semester: VI
+Subject: Design of Machine Elements Time: 3 hrs (2 pm toS pm )
+Date:_24/04/2023 No. of Pages: 06
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Use of design data book is allowed.
+
+8) Assume Suitable data if necessary.
+
+1
+Q Attempt the following. [20]
+ae Justify the statement “A factor of safety increases the safety of people and reduces
+CO-1; SO- 1; [05]
+BL-5 the risk of failure of a product”?
+CO-2; 0-1; | b. Why are riveted joints replaced by welded joints? [05]
+BL-3
+m™ c Designate the following materials on the basis of composition and carbon content:
+CO- 2; SO-1; AISI 1040 Steel [05]
+BL-2
+AISI 4340 Steel
+CO-1;$0-1; | Illustrate with an example stresses in power screws? [05]
+BL-2
+Design a joint to connect a piston rod to the crosshead of an engine. The maximum [20]
+Q2 load on the piston rod is 45 kN. Assuming that all the parts are made of the same
+CO-3; SO- material having the following permissible stresses: Tensile Stress (c,) = 60 N/mm’;
+a Shear Stress (t) = 70 N/mm? and Crushing Stress (o.) = 100 N/mm’.
+--- page 2 ---
+Q3
+
+The layout of a transmission shaft carrying two pulleys B and C and supported on
+bearings A and D is shown in figure 1. Power is supplied to the shaft by means of
+vertical belt on the pulley B which is then transmitted to the pulley C carrying a
+horizontal belt. The maximum tension in the belt on the pulley B is 2.5 kN. The
+angle of wrap for both the pulleys is 180° and the coefficient of friction is 0.24. The
+shaft is made of plain carbon steel 30C8 (Sy: = 400 N/mm?) and factor of safety is
+
+3. Determine the diameter of the shaft.
+
+200, G00 | 209) a5 p44 50G¢
+CO-3; $O-7; —- i as va El
+BL-5 | PS.
+A
+All Dimensions in mm
+Figure No. 1
+
+The screw, as shown in Figure 2. is operated by a torque applied to the lower end. [10]
+
+The nut is loaded and prevented from turning by guides. Assume friction in the all
+
+bearing to be negligible. The screw is a triple start trapezoidal thread. The outside
+
+diameter of the screw is 48 mm and pitch is 8 mm. The coefficient of friction of
+
+the threads is 0.15. Find: Load which can be raised by a torque of 40 N-m; Whether
+
+the screw is overhauling and average bearing pressure between the screw and nut
+
+thread surface.
+Q4
+CO-3; SO-7;
+BL-5
+
+All dimensions in mm
+
+Figure No. 2
+
+o~
+--- page 3 ---
+The construction of gate valve used in high-pressure pipeline is shown in figure 3. [10]
+The screw is rotated in its place by means of the handle. The nut is fixed to the
+b. gate. When the screw rotates, the nut along with the gate moves downwards or
+upwards upon the direction of rotation of the screw. The screw has single-start
+square threads of 40 mm outer diameter and 7 mm pitch. The weight of the gate is
+5 KN. The water pressure in the pipeline includes frictional resistance in the axial
+direction is 2 KN. The inner and outer diameters of the thrust washer are 40 and 80
+mm respectively. The handle is rotated by two arms, each exerting equal force at a
+radius of 500 mm from the axis of the screw. Estimate (i) the maximum force
+exerted by each arm when the gate is being raised; (ii) the maximum fore exerted
+by each arm when the gate is being lowered; (iii) the efficiency of the gate
+
+mechanism; (iv) the height of the nut, if the permissible bearing pressure is 5
+
+N/mm’.
+Gate
+All dimensions in mm
+Figure No. 3
+a A bracket carrying a load of 15KN is to be welded as shown in figure 4. Design for [10]
+Q5 the size of the weld required if the allowable shear stress is not to exceed 80 N/mm’.
+ia [J=t*1Gb?+P)/6]
+
+BL-6
+--- page 4 ---
+\ 50 |
+———— ——
+All dimension in mm
+Figure No. 4
+b. It is required to design a protected type of flange coupling to connect two shafts. [10] a
+
+The input shaft transmits 37.5 kW of power at 180 rpm to the output shaft through
+coupling. The service factor for the application is 1.5. The shaft is subjected to
+torsional shear stress. On the basis of strength, plain carbon steel of grade 40C8
+(Sy = 380 N/mm’) is selected. The factor of safety for the shaft is assumed to be
+2.5. The keys and bolts are subjected to shear and compressive stresses. On the
+basis of strength criteria, plain carbon steel of grade 30C8 (Sy: = 400 N/mm”) is
+selected. The factor of safety for the keys and bolts is taken as 2.5 (Take 4 bolts).
+Grey cast iron the material selected for flanges Fg 200 (Su = 200 N/mm’) from
+manufacturing considerations. The factor of safety for the flanges is assumed as 6.
+
+(Take D=2d; L=1.5d; D; =3d and t=0.5d)
+
+a. A helical compression spring is used in the spring balance to measure the weights. [10]
+One end of the spring is attached to the rigid support while the other end, which is
+free, carries the weight attached to the spring balance is 1500 N and the length of
+the scale should be approximately 100 mm. The spring index can be taken as 6.
+
+The spring is made of oil-hardened and tempered steel wire with ultimate tensile
+
+Q6
+0-4-3022: strength 1360 N/mm? and modulus of rigidity of 81370 N/mm’. The permissible
+BL-6 shear stress for the spring wire should be taken as 50% of ultimate tensile strength.
+
+Design the spring and calculate: i) wire diameter ii) mean coil diameter iii) number
+of active turns iv) total number of turns v) solid length vi) free length vii) pitch of
+
+coil.
+--- page 5 ---
+oe
+
+Design a close coiled helical compression spring for a service load ranging from
+2250 N to 2750 N. The axial deflection of the spring for the load range is 6 mm.
+Assume a spring index of 5. The permissible shear stress intensity is 420 N/mm?
+
+and modulus of rigidity, G = 84 kN/mm?.
+
+[10]
+
+Q7
+
+CO-3; SO-2;
+BL-5
+
+A bracket attached to a vertical column by means of four identical rivets, is
+subjected to an eccentric force of 25 KN ash shown in figure 5. Determine
+
+the diameter of the rivets, if the permissible shear stress is 60 N/mm?.
+
+(T3609)
+7b 25 KN
+
+i 1
+
+All dimension in mm
+
+Figure No. 5
+
+[10]
+
+A foot lever is 1 m from the centre of shaft to the point of application of 800
+N load. Find: 1. Diameter of the shaft, 2. Dimensions of the key, and 3.
+Dimensions of rectangular arm of the foot lever at 60 mm from the centre
+of shaft assuming width of the arm as 3 times thickness.
+
+The allowable tensile stress may be taken as 73 N/mm? and allowable shear
+stress as 70 N/mm’. (Diameter of the boss d2= 1.6 d; thickness of boss tz =
+0.3 d and length of boss l2 = 1.25 d)
+
+[10]
+--- page 6 ---
+Shajt diameter
+
+Key cross-section
+
+Shaft diameter
+
+Key cross-section
+
+finm) ipto and finn) upto and
+including Width (mm) | Thickness (mn) including Width (mm) | Thickness (mm)
+6 2 2 85 25 14
+8 3 3 95 28 16
+10 4 4 110 32 18
+12 5 5 130 36 20
+17 6 6 150 40 22
+22 8 T 170 45 25
+30 10 8 200 50° 28
+38 12 8 230 56 32
+44 14 9 260 63 32
+50 16 10 290 70 36
+58 18 li 330 80 40
+65 20 12 380 90 45
+75 22 ‘14 440 100 50
+
+a
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper b55456d84f4c
 
 - Departments: Mechanical
@@ -2055,212 +2485,6 @@ including Width (mm) | Thickness (ann) including Width (mm) | Thickness (mm)
 71S 22 14 440 100 50
 ````
 
-## 2022-23 · Re-Exam · Sem 6 · paper 91e30f3cc70a
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Design of Machine Elements/Design of machine element , Re-exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 74.5
-
-````text
-SVKM’S NMIMS
-' MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: MBA Tech. Stream : Mechanical Year: II] Semester: VI
-Subject: Design of Machine Elements "Time: 3 hrs (4 pm to 2 pm)
-Date: o3\os 2026" : : No. of Pages: 05
-
-Marks: 100.
-
-=R&>Examination ( 2022- 22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. ;
-
-. 1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted. :
-4) All questions carry equal marks.
-5). Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Use of design data book is allowed.
-8) Assume Suitable data if necessary.’
-
-1
-2 Attempt the following. : [20]
-CO- 1; SO-1; es Explain the basic steps involved in the design process of a machine element with [05]
-BL-2 an example. ;
-a ‘ SO-1; | b. Differentiate between rigid and flexible couplings with examples. [05]
-* . | ce : :
-
-oe pO: What is the self-locking condition of a power screw? Explain its importance. [05]
-CO-2;§0-1; | d- Explain the classification of levers based on mechanical advantage. [05]
-BL-1
-Q2 Design a cotter joint to connect two rods subjected to an axial tensile load of 50 | [20]
-CO-3; SO- kN. The materials for the rods and cotter are same with-its Yield strength = 250
-oar MPa andFactor of Safety (FOS) = 4.
-
-The layout of a transmission shaft carrying two pulleys B and C and supported on | [20]
-Q3 ; bearings A and D is shown in figure 1. Power is supplied to the shaft by means of
-ore SO-7; vertical belt on the pulley B which is then transmitted to the pulley C carrying a
-
-horizontal belt. The maximum tension in the belt on the pulley B is 2.5 KN. The
---- page 2 ---
-angle of wrap for both the pulleys is 180° and the coefficient of friction is 0.24. The
-shaft is made of plain carbon steel 30C8 (Sy. = 400 N/mm”) and factor of safety is
-
-3. Determine the diameter of the shaft.
-
-209, 600.4 200
-
-A (a)
-All Dimensions in mm
-Figure No. 1- -
-a. The construction of a shaft straightener used on the shop floor is shown in figure | [10]
-
-2. The screw has single start square threads of 80 mm nominal diameter and 10
-mm pitch. The screw required to exert a maximum axial force of 10 KN. The mean
-radius of the friction collar is 30 mm. The axial length of the nut is 40 mm. The
-coefficient. of friction at the threads and the collar is 0.12. The mean diameter of
-the rim of the hand wheel is 500 mm. Determine:
-1. the force exerted at the rim to drive the screws
-_ 2. the efficiency of the straightener; and
-
-3. the bearing pressure on the threads in the nut.
-
-Handwheet
-04 c : —
-‘| C0-3; 80-7;
-BL-5, 6 _ 1
-. . - ee
-Nut |
-
-Figure No. 2
---- page 3 ---
-b. The lead screw of a lathe has single-start ISO metric trapezoidal threads of 52 mm
-nominal diameter and 8 mm pitch. The screw is required to exert an axial force of
-2. KN in order to drive the tool carriage daniigihirtine operation. The thrust carried
-on a collar of 100 mm outer diameter and 60 mm inner diameter. The values of | [10]
-coefficient of friction at the screw thread and collar are 0.15 and 0.12 respectively.
-The lead screw rotates at 30 rpm. Design for the power required to drive the lead
-
-screw and efficiency of the screw.
-
-a. - | Design a rigid flange coupling to transmit 30 kW power at 900 rpm. The following [10}
-data is given:
-e - Permissible shear stress for shaft and key material = 40 N/mm2
-° Permissible shear stress for bolts = N/mm2
-¢ Permissible crushing stress for key material = 80 N/mm2
-e Number of bolts = 4
-
-b. A welded connection, as shown in fig. 3 is subjected to an eccentric force of 7.5 | [10]
-KN. Design for the size of the weld if permissible shear stress for the weld is 100
-
-Qs N/mm. [J=t.*1(3b’+12)/6.
-CO-3; SO-
-2,7;
-
-BL-6
-
-Figure No. 3
-All dimension in mm
-
-a. Design a close coiled helical compression spring for a service load ranging from | [10]
-2250 N to 2750 N. The axial deflection of the spring for the load range is 6 mm.
-
-Assume a spring index of 5. The permissible shear stress intensity is 420 N/mm?
-
-Q6
-and modulus of rigidity, G = 84 kN/mm?.
-CO-3; SO-2;
-BL-6 b. Design a valve spring of a petrol engine for the following operating conditions: | [10]
-
-Spring load when the valve is open = 400 N; Spring load when the valve is closed
-= 250 N; Maximum inside diameter of the spring = 25 mm; Length of the spring
---- page 4 ---
-when the valve is open = 40 mm; Length of the spring when the valve is closed =
-50 mm; Maximum permissible shear stress = 400 N/mm’; modules of rigidity =80
-
-kN/mm’.
-
-a. A lever loaded safety valve is 70 mm in diameter and is to be designed for | [10]
-a boiler to blow-off at pressure of 1 N/mm? gauge. Design a suitable mild
-steel lever of rectangular cross-section using the following permissible
-
-stresses: Tensile stress = 70 N/mm?; Shear stress = 50 N/mm7;. Bearing
-
-Q7
-; ee 2 Ap T=
-
-0-3: $0-2: pressure intensity = 25 N/mm?. (Assume b=4t; 1,=1.25d,) ;
-
-BL-6 The pin is also made of mild steel. The distance from the fulcrum to the
-
-| weight of the lever is 880 mm and the distance between the fulcrum and pin
-
-connecting the valve spindle links to the lever is 80 mm.
-
-b. A bracket is supported by means of 4 rivets of same size, as shown in figure
-4. Determine the diameter of the rivet if the maximum shear stress is 140
-N/mm.
-
-20 kN
-
-k 80
-
-[10]
-
-Figure No. 4
-All dimension in mm
---- page 5 ---
-Shaft diameter Key cross-section Shaft diameter Key cross-section
-
-finn) upto and (mm) upto and
-including | Width (nm) | Thickness (num) including Fidth (mm) | Thickness (mn)
-
-6 a — 85 25 14
-8 fe 3 95 28 16
-10 4 4 110 32 18
-12 5 5 130 36 20
-17 oe 6 150 40 22
-22 8 OO 170 45 - 25
-90 2 le 8 200 50 28
-38 12 8 230 56 ))
-4g 4 Bo be 2 ge Sh 8 ag
-50 16 10 290 10 36
-58 ae ll 330. 80 40
-65 20 2 380 | 90 45
-
-5 2 14 440 100° 50
---- page 6 ---
-‘ : : ; i :
-. . - age Soe 7 . -
-i eat: eo & cay t
-7 : : : - : i
-; : ! go 3 _ i :
-& lee 2 ~ si 2 Z
-. 7 i i i
-
-ee oe : . z - ahs : i 7
-
-+ - i : 7 ? £ * 7 E .
-4 - & +
-to reo £ - . 5 i yo
-. ae on : . - .
-
-, ' . ; cos a ;
-ue - oe 8 : 4 - -
-: . - 8 j
-7 y ® : Ae - 4 + - i
-cae } BB . oF e
-y * - 2 4 4
-. £30! ; : Ja i. : }
-| Be i “ . : & t {
-Setar Bie ag oe or oo + sees ve a nee Miele pared atest ae Aten wep ne es elt a ies cen sseatgtrasa es weal ean
-````
-
 ## 2021-22 · Re-Exam · paper 5988a6832cd2
 
 - Departments: Mechatronics
@@ -2268,6 +2492,7 @@ Setar Bie ag oe or oo + sees ve a nee Miele pared atest ae Aten wep ne es elt a 
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/DESIGN OF MACHINE ELEMENT/Design of Machine Elements, Sem-VI, Re-Exam, Year 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2022
 - Text: ocr (5 pages), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 fi
@@ -2401,7 +2626,6 @@ to yield strength in tension.
 ka
 CO-3,4 rat lo .
 SO-7 iz” [12]
-BL-3 p a es) | I p
 IN ~ ¢
 i
 LV |:
@@ -2926,116 +3150,123 @@ twice that of width.
 2/2
 ````
 
-## 2016-17 · Final-Exam · paper 990a27f7573b
+## 2017-18 · Final-Exam · paper eca4525f66bf
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/DESIGN OF MACHINE ELEMENT/DESIGN OF MACHINE ELEMENTS B TECH (MECHATRONICS), 2016-17 FINAL EXAM.pdf`
-- Printed on paper: exam date: 24 November 2016
-- Text: ocr (4 pages), mean OCR confidence 79.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/DESIGN OF MACHINE ELEMENT/DESIGN OF MACHINE ELEMENTS (MECHATRONICS), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 22 November 2017
+- Text: ocr (2 pages), mean OCR confidence 90.5
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN GINEERING
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (MECHATRONICS) Year: III Semester: V
-Academic Year: 2016-2017 J
-Subject : Design of Machine Elements
+Programme: B. Tech (MECHATRONICS) Year: II Semester: V _
+Academic Year: 2017-2018 — :
+htt Tagg
 
-Date : 24 November 2016 Time di
+Subject: Design of Machine Elements _ : Samy
 
-Final-Examinatioh ,
-NB: . Aas 9
-1) Attempt any five Questions including question no.1 which is compulsory.
-2) Answer to each new question should be started on a fresh page.
-3) Assume suitable data if required
-4) Figures in brackets on the right hand side indicate full marks
-5) Use of PSG Design Data book permitted.
+Marks: 70 : x nA ‘
+Date: 22 November 2017 .- Time: 2.00 pm to. 5. 00 pry
 
-Qi Answer following questions (Any four)
-a) Compare gear drive with belt drive.
-b) Compare welding joint with riveted joint.
+‘I
+Durations: 3 (ars) °
+No. of Pages: _¢
 
-c) Explain with examples factors which are considered in selecting material for
-Machine elements.
+Final-Examination
 
-d) Explain general procedure in design of machine elements.
+INSTRUCTION: Candidates should read the instructions carefully the instruct
+the-question paper and on the cover of the Answer Book.
 
-e) Explain phenomenon of stress concentration. What are ways to reduce it?
+N.B.
 
-Q2 a) Discuss in detail different types of keys used in transmitting torque
+(1) Question no. 1 is compulsory.
 
-b) A rigid coupling is used to transmit 15kW power at 500 rpm. There
-are four bolts and pitch circle diameter of the bolt is 120 mm.The bolts are
-made of steel having Syt=380N/mm? and factor of safety is 3.Determine
-size of bolts.
+(2) Attempt any Four question out of Six.
 
-Assume that the bolts are finger tight in reamed and ground holes.
+(3) In all Five questions to be attempted.
 
-8 a
+(4) Answer to each new question to be started on fresh page.
+
+(5) Draw neat diagram and explain whenever required.
+
+(6) Figure in the brackets on the right hand side indicates full marks.
+(7) Use of design data book is allowed.
+
+(8) Assume suitable data wherever is necessary.
+
+Q.1a) Answer any three of the following: 12
+
+i) Discuss the materials and practical applications for the various types of
+springs.”
+ii) Write a short note on preferred series and numbers
+
+iii) What are the assumptions made in the design of welded joint?
+iv) List the important factors that influence the magnitude of factor of safety.
+v) Write note on aesthetics consideration of design.
+
+b) Attempt any one of the following: 02
+i) What is the function of key? Draw a neat sketch of rectangular key.
+ii) What is stress concentration? What are the methods to reduce it?
+
+Q.2a) Design a cast iron flange coupling for a mild steel shaft transmitting 90 kW at 10
+
+250 rpm. The allowable shear stress in the shaft is 40 MPa and the angle of twist
+° is not to exceed 1° in a length of 20 diameters. The allowable shear stress in the
+pats coupling bolts is 30 MPa. Assume no of bolts = 4
+b) Discuss the interference fit with suitable sketch. 04
+; Page 1/2
 --- page 2 ---
-Q3_ a) Determine the dimensions of cross section of C frame ( Refer fig 1)------- --(07)
-Details are given below
-i) Material of frame Steel Sy,=350 N/mm”
-ii) Factor of safety=3.5
-iii) Force acting on frame =25kKN
+Q.3.a) Design a closed coil helical compression spring for maximum load of 1500 N for 07
+a deflection of 30 mm. Assume spring index of 6. The maximum permissible
+shear stress for spring wire is 450 N/mm? and modulus of rigidity is 84 KN/mm’.
 
-b) With suitable diagrams explain shear and bending failure of pin = -------- (05)
-in knuckle joint.
-Q4__ Design helical compression spring having following requirements------------- (12)
+b) A steel plate subjected to a force of 3 KN and fixed to vertical channel by means 07
+of four identical bolts as shown in figure. The bolts are made of plain carbon steel
+with Syt = 380 N/mm? and factor of safety is 2. Determine diameter of shank.
 
-a) Maximum force on spring=1300N and corresponding deflection=35 mm(appx.)
-b) Spring index=6.
+er
+; H
 
-c) Spring material is spring steel having Sut=1090N/mm?, G=81370 N/mm?
+é: akN
 
-d) Permissible shear stress for spring material= 50% of Sut. Calculate
+mb aoe —_—
+' S|
 
-i) Wire diameter (ii) Mean coil diameter (iii) Number of active coils
-iv)Total number of coils (v)Free length of spring (vi) pitch of coil
+See!
 
-Q5 a) Briefly explain why involute profile is recommended for gear teeth ? (06)
+Q.4 A shaft is supported by two bearings placed | m apart. A 600 mm diameter pulley 14
 
-b) Calculate wear strength for a pair of spur gears having following -----------~ (06)
-specifications
+me is mounted at a distance of 300 mm to the right of left hand bearing and this
+drives a pulley directly below it with the help of belt having maximum tension of
+2.25 kN. Another pulley 400 mm diameter is placed 200 mm to the left of right
+hand bearing and is driven with the help of electric motor and belt, which is
+placed horizontally to the right. The angle of contact for both the pulleys is 180°
+and = 0.24. Determine the suitable diameter for a solid shaft, allowing working
+stress of 63 MPa in tension and 42 MPa in shear for the material of shaft. Assume
+no transmission losses.
 
-i)Pinion teeth=30, Gear teeth=61 (ii) Gear material= Steel havingSut=400N/mm?
-iii)Surface hardness for both gears=400BHN (iv)Pinion rpm=1450
+Q.5a) State the assumptions for Lewis beam strength equation. 04
+b) Derive the Lewis equation for the beam strength of the gear tooth. 10
 
-v) Module=3mm __(vi) Face width= 40mm. (vii) Factor of safety=1.5
---- page 3 ---
-Q6 a) Asteel plate 130 mm wide and 10mm thick is joined with another plate: —(06)
-by means of single transverse and double parallel fillet weld as shown
-in fig.2.The strength of the welded joint should be equal to strength of plates
-to be joined.The permissible tensile and shear stresses for both weld and plate
-are 70 N/mm’and 50N/mm? Find length of each parallel fillet weld
-b) Compare Flat belts with V belts. (06)
+Q.6a) Design a knuckle joint to transmit 150 KN. The design stresses may be taken as 10
+75 MPa in tension, 60 MPa in shear and 150 MPa in compression.
 
-Q7 a)A bracket is fastened to the horizontal plate by means of two identical bolts ---(06)
-The bolts are made of steel having permissible tensile stress = 70 N/mm
-Force acting on bracket = 30 kN
-Calculate the size of bolts. ( Refer Fig.3)
+b) What is Wahl factor? Explain its significance. 04
 
-b) Explain significance of Wahl factor in design of helical springs.
+Q.7a) Two parallel shafts, whose centre lines are 4.8 m apart, are connected by an open 10
+ea belt drive. The diameter of the larger pulley is 1.5 m and that of smaller pulley 1
+m. The initial tension in the belt when stationary is 3 KN. The mass of the belt is
+od 7 1.5 kg/m length. The coefficient of friction between the belt and the pulley is 0.3.
+Taking centrifugal tension into account, calculate the power transmitted, when
+the smaller pulley rotates at 400 rpm.
 
-the the
-
-Section at XX
-
-Fig.1
---- page 4 ---
-Fig. No. 2 0.6.a
-
-lel __le)
-
-400-2
-
-EL
-a a
-L j
+b) State the advantages and disadvantages of V belts. 04
 ````
 
-## 2016-17 · Re-Exam · paper b268b8206b07
+## 2017-18 · Re-Exam · paper b268b8206b07
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -3172,6 +3403,115 @@ The belt is open-type.
 
 (b) What are the advantages and disadvantages of belt drives over the other type of (4)
 drives?
+````
+
+## 2016-17 · Final-Exam · paper 990a27f7573b
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/DESIGN OF MACHINE ELEMENT/DESIGN OF MACHINE ELEMENTS B TECH (MECHATRONICS), 2016-17 FINAL EXAM.pdf`
+- Printed on paper: exam date: 24 November 2016
+- Text: ocr (4 pages), mean OCR confidence 79.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN GINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: III Semester: V
+Academic Year: 2016-2017 J
+Subject : Design of Machine Elements
+
+Date : 24 November 2016 Time di
+
+Final-Examinatioh ,
+NB: . Aas 9
+1) Attempt any five Questions including question no.1 which is compulsory.
+2) Answer to each new question should be started on a fresh page.
+3) Assume suitable data if required
+4) Figures in brackets on the right hand side indicate full marks
+5) Use of PSG Design Data book permitted.
+
+Qi Answer following questions (Any four)
+a) Compare gear drive with belt drive.
+b) Compare welding joint with riveted joint.
+
+c) Explain with examples factors which are considered in selecting material for
+Machine elements.
+
+d) Explain general procedure in design of machine elements.
+
+e) Explain phenomenon of stress concentration. What are ways to reduce it?
+
+Q2 a) Discuss in detail different types of keys used in transmitting torque
+
+b) A rigid coupling is used to transmit 15kW power at 500 rpm. There
+are four bolts and pitch circle diameter of the bolt is 120 mm.The bolts are
+made of steel having Syt=380N/mm? and factor of safety is 3.Determine
+size of bolts.
+
+Assume that the bolts are finger tight in reamed and ground holes.
+
+8 a
+--- page 2 ---
+Q3_ a) Determine the dimensions of cross section of C frame ( Refer fig 1)------- --(07)
+Details are given below
+i) Material of frame Steel Sy,=350 N/mm”
+ii) Factor of safety=3.5
+iii) Force acting on frame =25kKN
+
+b) With suitable diagrams explain shear and bending failure of pin = -------- (05)
+in knuckle joint.
+Q4__ Design helical compression spring having following requirements------------- (12)
+
+a) Maximum force on spring=1300N and corresponding deflection=35 mm(appx.)
+b) Spring index=6.
+
+c) Spring material is spring steel having Sut=1090N/mm?, G=81370 N/mm?
+
+d) Permissible shear stress for spring material= 50% of Sut. Calculate
+
+i) Wire diameter (ii) Mean coil diameter (iii) Number of active coils
+iv)Total number of coils (v)Free length of spring (vi) pitch of coil
+
+Q5 a) Briefly explain why involute profile is recommended for gear teeth ? (06)
+
+b) Calculate wear strength for a pair of spur gears having following -----------~ (06)
+specifications
+
+i)Pinion teeth=30, Gear teeth=61 (ii) Gear material= Steel havingSut=400N/mm?
+iii)Surface hardness for both gears=400BHN (iv)Pinion rpm=1450
+
+v) Module=3mm __(vi) Face width= 40mm. (vii) Factor of safety=1.5
+--- page 3 ---
+Q6 a) Asteel plate 130 mm wide and 10mm thick is joined with another plate: —(06)
+by means of single transverse and double parallel fillet weld as shown
+in fig.2.The strength of the welded joint should be equal to strength of plates
+to be joined.The permissible tensile and shear stresses for both weld and plate
+are 70 N/mm’and 50N/mm? Find length of each parallel fillet weld
+b) Compare Flat belts with V belts. (06)
+
+Q7 a)A bracket is fastened to the horizontal plate by means of two identical bolts ---(06)
+The bolts are made of steel having permissible tensile stress = 70 N/mm
+Force acting on bracket = 30 kN
+Calculate the size of bolts. ( Refer Fig.3)
+
+b) Explain significance of Wahl factor in design of helical springs.
+
+the the
+
+Section at XX
+
+Fig.1
+--- page 4 ---
+Fig. No. 2 0.6.a
+
+lel __le)
+
+400-2
+
+EL
+a a
+L j
 ````
 
 ## 2016-17 · Re-Exam · paper 0b44670a58ab
@@ -3440,6 +3780,7 @@ Fig. No. 2 Q 7.a
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM VI/DESIGN OF MACHINES ELEMNTS/DESIGN OF MACHINE ELEMENTS I FINAL 2012-13MBA TECH.pdf`
 - Printed on paper: exam date: 9/5/2013
 - Text: mixed (7 pages), mean OCR confidence 80.6
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM's NMIMS
@@ -3516,7 +3857,6 @@ SA
 a
 150 mm Ly . i
 aN aia
-¥ iC ) a rt ms one HS “an jf
 Bed WI 4
 ly
 < 500 mm »
@@ -3636,7 +3976,6 @@ a, =! &
 qa Soo
 rey Be WwW Ww ?t = 5 2
 ~ ONO rh tn s WW Oe oe ee eel eed = =
-Ann oR HD ON aw OF A 1S RB
 y Sf 8
 09 3 8
 28
@@ -3664,7 +4003,6 @@ mH
 =z >
 s = &
 a>
-me WW WH YY NHN NF FY RF ee , — = 8
 FAW OA YW DAA wre RS =
 a ss ss = es
 a 8
@@ -3673,7 +4011,6 @@ x8
 =|
 a
 — 5 y | Se
-ao Ye FAD wM ne HY WH hw |S
 SO DWM A GOH GBA Ww A tr ~
 Oo 2 | %
 a
@@ -3684,7 +4021,6 @@ a | 4
 ~ '
 Ss | 8
 aye] s
-Af ww wh YN NY BF eS eS ITB =.
 GnAoannvn anv Gan f ]S 2
 =>
 ty
@@ -3821,345 +4157,4 @@ Shem stresson bolts =l~OQ W a
 M e ?designing the various elhcqts, make a neat sketch of the assembly indicating the
 important dimensions. The stresses developed in the various members may be checked if th~unb
 rules are used for fixing the dimensions.   a   (10)
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper da990c25a913
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Design of Machine Elements/Design of Machine Elements.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 92.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech. Stream : Mechanical Year: III Semester: VI
-Subject: Design of Machine Elements Time: 3 hrs (2 pm toS pm )
-Date:_24/04/2023 No. of Pages: 06
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Use of design data book is allowed.
-
-8) Assume Suitable data if necessary.
-
-1
-Q Attempt the following. [20]
-ae Justify the statement “A factor of safety increases the safety of people and reduces
-CO-1; SO- 1; [05]
-BL-5 the risk of failure of a product”?
-CO-2; 0-1; | b. Why are riveted joints replaced by welded joints? [05]
-BL-3
-m™ c Designate the following materials on the basis of composition and carbon content:
-CO- 2; SO-1; AISI 1040 Steel [05]
-BL-2
-AISI 4340 Steel
-CO-1;$0-1; | Illustrate with an example stresses in power screws? [05]
-BL-2
-Design a joint to connect a piston rod to the crosshead of an engine. The maximum [20]
-Q2 load on the piston rod is 45 kN. Assuming that all the parts are made of the same
-CO-3; SO- material having the following permissible stresses: Tensile Stress (c,) = 60 N/mm’;
-a Shear Stress (t) = 70 N/mm? and Crushing Stress (o.) = 100 N/mm’.
---- page 2 ---
-Q3
-
-The layout of a transmission shaft carrying two pulleys B and C and supported on
-bearings A and D is shown in figure 1. Power is supplied to the shaft by means of
-vertical belt on the pulley B which is then transmitted to the pulley C carrying a
-horizontal belt. The maximum tension in the belt on the pulley B is 2.5 kN. The
-angle of wrap for both the pulleys is 180° and the coefficient of friction is 0.24. The
-shaft is made of plain carbon steel 30C8 (Sy: = 400 N/mm?) and factor of safety is
-
-3. Determine the diameter of the shaft.
-
-200, G00 | 209) a5 p44 50G¢
-CO-3; $O-7; —- i as va El
-BL-5 | PS.
-A
-All Dimensions in mm
-Figure No. 1
-
-The screw, as shown in Figure 2. is operated by a torque applied to the lower end. [10]
-
-The nut is loaded and prevented from turning by guides. Assume friction in the all
-
-bearing to be negligible. The screw is a triple start trapezoidal thread. The outside
-
-diameter of the screw is 48 mm and pitch is 8 mm. The coefficient of friction of
-
-the threads is 0.15. Find: Load which can be raised by a torque of 40 N-m; Whether
-
-the screw is overhauling and average bearing pressure between the screw and nut
-
-thread surface.
-Q4
-CO-3; SO-7;
-BL-5
-
-All dimensions in mm
-
-Figure No. 2
-
-o~
---- page 3 ---
-The construction of gate valve used in high-pressure pipeline is shown in figure 3. [10]
-The screw is rotated in its place by means of the handle. The nut is fixed to the
-b. gate. When the screw rotates, the nut along with the gate moves downwards or
-upwards upon the direction of rotation of the screw. The screw has single-start
-square threads of 40 mm outer diameter and 7 mm pitch. The weight of the gate is
-5 KN. The water pressure in the pipeline includes frictional resistance in the axial
-direction is 2 KN. The inner and outer diameters of the thrust washer are 40 and 80
-mm respectively. The handle is rotated by two arms, each exerting equal force at a
-radius of 500 mm from the axis of the screw. Estimate (i) the maximum force
-exerted by each arm when the gate is being raised; (ii) the maximum fore exerted
-by each arm when the gate is being lowered; (iii) the efficiency of the gate
-
-mechanism; (iv) the height of the nut, if the permissible bearing pressure is 5
-
-N/mm’.
-Gate
-All dimensions in mm
-Figure No. 3
-a A bracket carrying a load of 15KN is to be welded as shown in figure 4. Design for [10]
-Q5 the size of the weld required if the allowable shear stress is not to exceed 80 N/mm’.
-ia [J=t*1Gb?+P)/6]
-
-BL-6
---- page 4 ---
-\ 50 |
-———— ——
-All dimension in mm
-Figure No. 4
-b. It is required to design a protected type of flange coupling to connect two shafts. [10] a
-
-The input shaft transmits 37.5 kW of power at 180 rpm to the output shaft through
-coupling. The service factor for the application is 1.5. The shaft is subjected to
-torsional shear stress. On the basis of strength, plain carbon steel of grade 40C8
-(Sy = 380 N/mm’) is selected. The factor of safety for the shaft is assumed to be
-2.5. The keys and bolts are subjected to shear and compressive stresses. On the
-basis of strength criteria, plain carbon steel of grade 30C8 (Sy: = 400 N/mm”) is
-selected. The factor of safety for the keys and bolts is taken as 2.5 (Take 4 bolts).
-Grey cast iron the material selected for flanges Fg 200 (Su = 200 N/mm’) from
-manufacturing considerations. The factor of safety for the flanges is assumed as 6.
-
-(Take D=2d; L=1.5d; D; =3d and t=0.5d)
-
-a. A helical compression spring is used in the spring balance to measure the weights. [10]
-One end of the spring is attached to the rigid support while the other end, which is
-free, carries the weight attached to the spring balance is 1500 N and the length of
-the scale should be approximately 100 mm. The spring index can be taken as 6.
-
-The spring is made of oil-hardened and tempered steel wire with ultimate tensile
-
-Q6
-0-4-3022: strength 1360 N/mm? and modulus of rigidity of 81370 N/mm’. The permissible
-BL-6 shear stress for the spring wire should be taken as 50% of ultimate tensile strength.
-
-Design the spring and calculate: i) wire diameter ii) mean coil diameter iii) number
-of active turns iv) total number of turns v) solid length vi) free length vii) pitch of
-
-coil.
---- page 5 ---
-oe
-
-Design a close coiled helical compression spring for a service load ranging from
-2250 N to 2750 N. The axial deflection of the spring for the load range is 6 mm.
-Assume a spring index of 5. The permissible shear stress intensity is 420 N/mm?
-
-and modulus of rigidity, G = 84 kN/mm?.
-
-[10]
-
-Q7
-
-CO-3; SO-2;
-BL-5
-
-A bracket attached to a vertical column by means of four identical rivets, is
-subjected to an eccentric force of 25 KN ash shown in figure 5. Determine
-
-the diameter of the rivets, if the permissible shear stress is 60 N/mm?.
-
-(T3609)
-7b 25 KN
-
-i 1
-
-All dimension in mm
-
-Figure No. 5
-
-[10]
-
-A foot lever is 1 m from the centre of shaft to the point of application of 800
-N load. Find: 1. Diameter of the shaft, 2. Dimensions of the key, and 3.
-Dimensions of rectangular arm of the foot lever at 60 mm from the centre
-of shaft assuming width of the arm as 3 times thickness.
-
-The allowable tensile stress may be taken as 73 N/mm? and allowable shear
-stress as 70 N/mm’. (Diameter of the boss d2= 1.6 d; thickness of boss tz =
-0.3 d and length of boss l2 = 1.25 d)
-
-[10]
---- page 6 ---
-Shajt diameter
-
-Key cross-section
-
-Shaft diameter
-
-Key cross-section
-
-finm) ipto and finn) upto and
-including Width (mm) | Thickness (mn) including Width (mm) | Thickness (mm)
-6 2 2 85 25 14
-8 3 3 95 28 16
-10 4 4 110 32 18
-12 5 5 130 36 20
-17 6 6 150 40 22
-22 8 T 170 45 25
-30 10 8 200 50° 28
-38 12 8 230 56 32
-44 14 9 260 63 32
-50 16 10 290 70 36
-58 18 li 330 80 40
-65 20 12 380 90 45
-75 22 ‘14 440 100 50
-
-a
-````
-
-## Year not stated · Final-Exam · paper eca4525f66bf
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/DESIGN OF MACHINE ELEMENT/DESIGN OF MACHINE ELEMENTS (MECHATRONICS), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 22 November 2017
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: II Semester: V _
-Academic Year: 2017-2018 — :
-htt Tagg
-
-Subject: Design of Machine Elements _ : Samy
-
-Marks: 70 : x nA ‘
-Date: 22 November 2017 .- Time: 2.00 pm to. 5. 00 pry
-
-‘I
-Durations: 3 (ars) °
-No. of Pages: _¢
-
-Final-Examination
-
-INSTRUCTION: Candidates should read the instructions carefully the instruct
-the-question paper and on the cover of the Answer Book.
-
-N.B.
-
-(1) Question no. 1 is compulsory.
-
-(2) Attempt any Four question out of Six.
-
-(3) In all Five questions to be attempted.
-
-(4) Answer to each new question to be started on fresh page.
-
-(5) Draw neat diagram and explain whenever required.
-
-(6) Figure in the brackets on the right hand side indicates full marks.
-(7) Use of design data book is allowed.
-
-(8) Assume suitable data wherever is necessary.
-
-Q.1a) Answer any three of the following: 12
-
-i) Discuss the materials and practical applications for the various types of
-springs.”
-ii) Write a short note on preferred series and numbers
-
-iii) What are the assumptions made in the design of welded joint?
-iv) List the important factors that influence the magnitude of factor of safety.
-v) Write note on aesthetics consideration of design.
-
-b) Attempt any one of the following: 02
-i) What is the function of key? Draw a neat sketch of rectangular key.
-ii) What is stress concentration? What are the methods to reduce it?
-
-Q.2a) Design a cast iron flange coupling for a mild steel shaft transmitting 90 kW at 10
-
-250 rpm. The allowable shear stress in the shaft is 40 MPa and the angle of twist
-° is not to exceed 1° in a length of 20 diameters. The allowable shear stress in the
-pats coupling bolts is 30 MPa. Assume no of bolts = 4
-b) Discuss the interference fit with suitable sketch. 04
-; Page 1/2
---- page 2 ---
-Q.3.a) Design a closed coil helical compression spring for maximum load of 1500 N for 07
-a deflection of 30 mm. Assume spring index of 6. The maximum permissible
-shear stress for spring wire is 450 N/mm? and modulus of rigidity is 84 KN/mm’.
-
-b) A steel plate subjected to a force of 3 KN and fixed to vertical channel by means 07
-of four identical bolts as shown in figure. The bolts are made of plain carbon steel
-with Syt = 380 N/mm? and factor of safety is 2. Determine diameter of shank.
-
-er
-; H
-
-é: akN
-
-mb aoe —_—
-' S|
-
-See!
-
-Q.4 A shaft is supported by two bearings placed | m apart. A 600 mm diameter pulley 14
-
-me is mounted at a distance of 300 mm to the right of left hand bearing and this
-drives a pulley directly below it with the help of belt having maximum tension of
-2.25 kN. Another pulley 400 mm diameter is placed 200 mm to the left of right
-hand bearing and is driven with the help of electric motor and belt, which is
-placed horizontally to the right. The angle of contact for both the pulleys is 180°
-and = 0.24. Determine the suitable diameter for a solid shaft, allowing working
-stress of 63 MPa in tension and 42 MPa in shear for the material of shaft. Assume
-no transmission losses.
-
-Q.5a) State the assumptions for Lewis beam strength equation. 04
-b) Derive the Lewis equation for the beam strength of the gear tooth. 10
-
-Q.6a) Design a knuckle joint to transmit 150 KN. The design stresses may be taken as 10
-75 MPa in tension, 60 MPa in shear and 150 MPa in compression.
-
-b) What is Wahl factor? Explain its significance. 04
-
-Q.7a) Two parallel shafts, whose centre lines are 4.8 m apart, are connected by an open 10
-ea belt drive. The diameter of the larger pulley is 1.5 m and that of smaller pulley 1
-m. The initial tension in the belt when stationary is 3 KN. The mass of the belt is
-od 7 1.5 kg/m length. The coefficient of friction between the belt and the pulley is 0.3.
-Taking centrifugal tension into account, calculate the power transmitted, when
-the smaller pulley rotates at 400 rpm.
-
-b) State the advantages and disadvantages of V belts. 04
 ````

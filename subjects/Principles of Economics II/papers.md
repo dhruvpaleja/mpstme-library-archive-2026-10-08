@@ -246,6 +246,7 @@ FC QI a iar
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSEDS-311/SEM-III/PRINCIPLES OF ECONOMICS-II/Principles of Economics-II, Sem-III, Year 2025-26, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 80.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MRase)
@@ -381,7 +382,6 @@ affect the money supply?
 3. Explain how the Central Bank acts as a lender of last resort in this
 situation.
 
-FIR 2 Aa i a i i
 --- page 3 ---
 Ko
 
@@ -394,7 +394,6 @@ crisis.
 nye C
 Aa
 
-FICO toto tio tok
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · paper 362d988a7379

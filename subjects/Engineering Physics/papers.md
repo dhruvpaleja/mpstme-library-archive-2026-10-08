@@ -161,6 +161,191 @@ Q.7 Define Resolving power and Dispersive power of grating with its mathematical
 Cc.
 ````
 
+## 2019-20 · Re-Exam · Sem 1 · paper 5f65556e87c1
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS (ALL STREAMS) BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 08 November 2019
+- Text: ocr (3 pages), mean OCR confidence 93.6
+
+````text
+MPSTME ~
+
+LIBRARY
+
+/ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (All Streams) Year: I Semester: I
+a
+Academic Year: 2019-20 - “
+Subject: Engineering Physics
+@ ; Marks: 70 ~
+Date: 08 November 2019 Time: 10.00 am - 1.00 pm
+‘ Durations: 3 (hrs) ~
+No. of Pages:
+
+Re-Examination (2016-17)   ~
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume-guitable data if necessary.
+
+Q.1 Attempt any seven.
+
+a. Define unit cell and primitive cell. [02]
+
+b. Describe the method along with appropriate formula to measure phase [02]
+difference between two signals using cathode ray oscilloscope.
+
+c. Give any two applications of wedge-shaped air film. [02]
+
+d. Give any two advantages and disadvantages of magnetostriction oscillator. [02]
+
+e. Define Fermi level in semiconductor. Draw diagram showing the position of [02]
+
+ial Fermi levels in case of n-type and p-type semiconductors.
+
+f. Give any four properties of high Tc superconductors. [02]
+
+g. Explain why simple heating cannot achieve population inversion. [02]
+
+h. State Boltzmann’s distribution law and hence show that in normal conditions [02]
+ground state will remain most populated.
+
+Ls Define dielectric strength and give any two factors affecting apparent dielectric [02]
+strength.
+
+&
+
+i/3
+--- page 2 ---
+Q2
+
+Q.3
+
+Q.4.
+
+Determine atomic radius, effective number of atoms, co-ordination number,
+atomic packing fraction and density of FCC lattice with the help of appropriate
+diagram.
+
+Determine the limiting radius ratios for ligancies 3 and 4 of an ionic crystal
+with the help of appropriate diagrams.
+
+X-rays of unknown wavelength give first order Bragg reflection at glancing
+
+angle 20° with (212) planes of copper having FCC structure. Calculate the
+wavelength of X-rays if the lattice constant for copper is 3.615 A.
+
+Define Hall Effect and derive expressions for the hall voltage and hall
+coefficient with the help of appropriate diagram.
+
+Sketch and explain variation of Fermi level with temperature for n-type
+semiconductor. Also sketch the variation of Fermi level with increasing donor
+concentration for n-type semiconductor.
+
+A sample of intrinsic Si at room temperature has a carrier concentration of
+1.5 x 10'8/m*. A donor impurity is added to the extent of 1 donor atom per 108
+atoms of Si. If the concentration of Si atoms is 5 x 107° atoms/m?, determine
+the resistivity of the material. (Given: Mobility of electrons = 0.135 m2/V.s and
+Mobility of holes = 0.048 m?/V.s.; Charge of electron = 1.602 x 1079 C).
+
+Derive expression for the horizontal and vertical distance travelled by an
+electron projected at an angle 6 with the horizontal direction into a uniform
+electric field with the help of appropriate diagram.
+
+Explain with neat diagram electrostatic focusing.
+
+An electron shot into a uniform magnetic field at an angle 60°moves in a spiral
+of diameter 10 cm and with a period of 6 x 10° s. Determine the magnetic
+induction and electron velocity.
+
+(Mass of electron = 9.11 x 107! kg; Charge of electron = 1.602 x 10°7!? C).
+
+Explain interference in thin films and obtain the condition for maxima and
+minima of light reflected from a thin transparent film of uniform thickness with
+the help of appropriate diagram.
+
+What is a diffraction grating? Give the expression for intensity due to
+diffraction from grating and explain the meaning of each term in this
+expression. Also draw the intensity distribution curve for the same.
+
+In a Newton’s ring experiment, the diameter of the 15" ring was found to be
+0.59 cm and that of the 5" ring was 0.336 cm. If the radius of the plane-convex
+lens is 100 cm, calculate the wavelength of light used. Also, calculate the
+diameter of 15" ring if air film is replaced with liquid of refractive index 1.5.
+
+2/3
+
+[6]
+
+[4]
+[4]
+
+[6]
+[4]
+
+[4]
+
+(6]
+
+[4]
+[4]
+
+[6]
+[4]
+
+[4]
+
+\
+--- page 3 ---
+Aa
+
+Explain with neat diagrams the construction and working of He-Ne laser.
+
+Describe the propagation of light in an optical fibre and obtain expressions for
+critical angle and numerical aperture in terms of its core and cladding refractive
+indices with the help of appropriate diagram.
+
+Calculate the ratio of populations of two states in a He-Ne laser that produces
+
+light of wavelength 6328 A at 27. (Given: Boltzmann’s constant
+k=8.61 x 10° eV).
+
+Explain any three thermal properties of materials in brief.
+
+Explain the salient features of BCS theory.
+
+A quartz crystal having thickness t is vibrating at resonance. The fundamental
+frequency of vibration is f. If the thickness is made twice its original value,
+what will be its new frequency? If thickness is reduced to half what will be its
+frequency?
+
+3/3
+
+[6]
+[4]
+
+[4]
+
+[6]
+[4]
+[4]
+````
+
 ## 2018-19 · Final-Exam · Sem 1 · paper 9a20c58401b9
 
 - Departments: Common (all branches)
@@ -168,6 +353,7 @@ Cc.
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/PHYSICS (ALL STREAMS) FINAL EXAM 2018-19.pdf`
 - Printed on paper: exam date: 16 November 2018
 - Text: ocr (3 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a
@@ -288,7 +474,6 @@ A point charge +q is placed at the center of an electrically neutral spherical c
 with inner radius a and outer radius b.
 a. What charge appears on the inner and outer surface of the shell and
 b. What is the net electric field at a distance r from the center of the shell if
-(i) r <a, (ii) b> r> a, and (iii) r > b?
 
 (20)
 Derive an expression for the internal field seen by an atom in an infinite array of atoms 8
@@ -664,6 +849,379 @@ Find the thickness of the soap film of refractive index 1.33 which will appear y
 [6]
 ````
 
+## 2018-19 · Re-Exam · Sem 1 · paper a760d2d60449
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS (ALL STREAMS) BATCH 17-18 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 10 January 2019
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+MPSTME ~
+
+LIBRARY
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+5
+
+Program: B. Tech (All Streams) Year: I Semester : [
+“ Academic Year: 2018-2019
+
+Subject: Engineering Physics ; Marks: 70 |
+
+ca
+
+Time: 2.00 pm to 5.
+Date : 10 January 2019 pe 0pm
+a Durations: 3 (hrs)
+No. of Pages: 02
+Re-examination (2017-18) a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | (ONE) is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘suitable data, if necessary.
+
+[Data given: Electronic mass, me = 9.1 x 10°! kg, Electronic charge, e = 1.6.x 10" C, Planck’s constant,
+h = 6.625 x 10% J-s = 4.14 x 10°” eV-s, speed of light, c= 3 x 10° m/s, Boltzmann’s constant, k = 8.625 x
+10° eV/K]
+
+Q.1 Attempt any seven
+
+a. What is a crystal? How it is different from the amorphous materials? [2]
+b. Explain two types of point defect with proper diagram. : [2]
+c. Draw the following plane and direction with reference to the cubic unit cell (3-12), [110]. [2]
+d. How can Lissajous patterns be used to find out unknown frequencies using a cathode ray [2]
+oscilloscope?
+e. Explain isotope effect of elirrenedini eta, [2]
+f. Define any two electrical properties of materials. (2]
+g. Why it is not possible to obtain laser with a two level system? (2]
+
+h. Optical power of 1 mW is launched into an optical fiber of length 100 m. If the power emerging = [2]
+from the other end is 0.2 mW, calculate the fiber attenuation.
+
+——— i. What are coherent waves? How do we define optical path? (2]
+oe Q2
+a. Whatare ligancy and critical (limiting) radius ratio? Calculate the critical radius ratio for {6]
+ligancy 6.
+
+Vy
+--- page 2 ---
+b. Determine the wavelength of X-ray beam incident at 12° for the first order reflection froma [4]
+calcite crystal, if the inter-planar spacing for the crystal is 3.035 A.
+
+c. Anelectron beam passes through a magnetic field of 3 x 10° wb/m? and ari electric field of 6x [4]
+10‘ V/m both acting simultaneously at right angles to each other and to the path of electrons. If
+the electrons path remains unchanged, find the speed of electrons. If the electric field is removed
+what will be the radius of the electron path?
+
+Q.3
+a What is a Hall effect? How it can be used to determine (i) mobility (ii) carrier concentration. [6]
+
+b. The electron and hole mobilities in a Si sample are 0.135 and 0.048 m?/V-s respectively. If the [4]
+conductivity of intrinsic Si at 300 K is 4.39 x 10* (Q-m)", determine the intrinsic carrier
+concentration of Si at that temperature.
+
+c A step index fiber has a core diameter of 40 1m and core and cladding refractive indices are [4]
+1.46] and 1.456, respectively. It’s working at a wavelength of 850 nm. Find out the V-number
+
+and the number of modes guided in the core.
+
+Q.4
+a Obtain the expression for velocity of an electron moving in a mutually perpendicular electric [6]
+and magnetic field. Hence explain the working of a velocity selector.
+b Differentiate between type I and type IT superconductors. [4]
+c The transition temperature of mercury with atomic mass of 199.5 amu is 4.185 K. Find the [4]
+transition temperature of its isotope with atomic mass 203.4 amu.
+Q.5
+
+a Derive the conditions for constructive and destructive interference in a plane parallel film due to [6]
+reflected light with proper diagram.
+
+b Define and derive an expression for the dispersive power of a grating. [4]
+
+c What are the advantages of optical fiber vis-a-vis conventional metal wires? [4]
+Q.6
+
+a Explain the construction and working of any gas laser. [6]
+
+b Discuss different loss mechanisms encountered in an optical fiber. [4]
+
+c Ruby laser has its metastable state at 1.79 eV above the ground level from which the stimulated [4]
+emission produces laser light. Calculate the wave length of the light. If 1.1 mole of Cr*? ions are
+involved in population inversion process in a pulse, calculate the pulse energy.
+
+Q.7
+a Describe three of mechanical properties of materials. [6]
+— b Write short notes on different medical applications of ultrasonic waves. [4]
+c Calculate the frequency of the ultrasonic wave produced due to an iron rod of length 12cmused [4]
+et: in magnetostriction oscillator. Density from iron = 7.23 x 10° kg/m’. Young’s modulus of iron =
+11.6 x 10!° N/m’. Why ultrasonic waves are used for echo sounding technique.
+
+2a
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper 38f7fce2e1c8
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 November 2018
+- Text: ocr (3 pages), mean OCR confidence 93.6
+
+````text
+ee
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Semester: I
+~ = “
+Academic Year: 2018-2019
+
+Subject: Engineering Physics
+
+“ Marks: 70
+Date: 16 November 2018 Time: 10.00 am
+‘ “ Durations: 3 (hrs
+
+No. of Pages : Dp cu
+Re-examination (2015-16 / 2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Attempt any seven
+
+a. Draw a neat sketch of the temperature variation of carrier concentration [02]
+in n-type semiconductor.
+b. Define the following 1) Diffraction of light 2) Dispersive power of grating. [02]
+c. What is the need of the aquadag coating inside the glass bulb ina CRT? [02]
+d. Discuss in brief the Schottky defect. [02]
+e. Explain electrical properties: ferroelectricity and dielectric strength. [02]
+f. Enlist any four properties of high Tc superconductors. [02]
+g. Write a short note on loss of optical signal due to scattering. [02]
+h. Enlist any four applications of ultrasonic waves. [02]
+i. Describe with formula the coefficient of thermal conductivity of a material. [02]
+
+1,
+--- page 2 ---
+Q.2
+
+a. Define thin film. Obtain an expression for the path difference for interference in [06]
+parallel thin film due to reflected light.
+
+b. Explain edge and screw dislocations with neat diagrams. [04]
+
+c. Define resolving power of grating. The sodium yellow doublet has wavelengths [04]
+
+5890 A and 5896 A. What should be the resolving power of grating to resolve these lines?
+
+Q.3
+
+a. Explain in brief type I and type II superconductors. [06]
+b. Describe the losses in optical fiber due to materials. [04]
+c. Ina hall experiment, a current of 0.30 A is sent through a metal strip having [04]
+
+thickness 0.2 mm and width 5 mm. The Hall voltage is found to be 0.20 mV
+when a magnetic field of 2000 gauss is used.
+
+(1) What is the carrier concentration?
+
+(2) What is the drift velocity of the carriers?
+
+Q4
+a. What is Hall effect? Derive the relation between Hall voltage and Hall coefficient. [06]
+
+b. 2 keV positron is projected into a uniform magnetic field of induction 0.1 T with [04]
+its velocity vector making an angle of 89 degree with the field. Find the period and
+pitch of the helical path of the positron.
+(mass of positron = 9.11 x 107! kg, charge of positron = 1.60 x 107° C)
+
+c. The density of copper is 8980 kg/m? and unit cell dimension is 3.61 A. Atomic wt. [04]
+of copper is 63.54. Determine crystal structure. Calculate atomic radius.
+(Avogadro number = 6.02 x 107°/ k.mol.)
+
+Q5
+
+a. What is Magnetostriction effect? Explain the working of a Magnetostriction [06]
+oscillator with its merits and demerits.
+
+b. (1) The critical field of niobium is-1 x 10° A/m at 8 K and 2 x 10° A/m at 0K. [04]
+
+Calculate the transition temperature of the element.
+(2) The critical magnetic field at 5 K is 2 x 10° A/m in a superconductor ring
+of radius 0.02 m. Find the value of critical current.
+c. Explain in brief elasticity and plasticity in-accordance with the stress — strain curve. [04]
+Also explain the yield point on the curve.
+
+Q.6
+
+a.-Explain with neat diagrams the construction and working of Ruby laser. [06]
+b. Derive the expression for the Fermi level in the intrinsic semiconductor. [04]
+c. Ina Newton’s rings experiment the diameter of the 4" and 12" dark rings are [04]
+
+0.500 cm and 0.800 cm respectively. Determine the diameter of 20" dark ring.
+
+2)
+--- page 3 ---
+Q7
+
+a. What is homogeneous magnetic field? Determine e/m of an electron by Thomson [06]
+method.
+
+b. Draw crystal planes having Miller indices (2 00), (110),(111)and(100)ina [04]
+simple cubic crystal.
+
+c. A laser beam has a power of 70 mW. It has an aperture of 5 x 10° m and [04]
+wavelength 7000 A. The beam is focused with a lens of focal length of 0.2 m.
+Calculate the areal spread and intensity of the image.
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper 93ef2ebbaf3b
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 16 November 2018
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Semester: I .
+
+Academic Year: 2018-2019
+
+Marks: 70
+Time: 10. 00 a
+
+Subject: Engineering Physics
+oo
+
+Date: 16 November 2018
+
+° No. of Pages : oe
+Re-examination (2017-18) L
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Que.1 Attempt any seven from following
+
+i Draw the plane (3. 1 2) and direction [2 0 3] in cubic unit cell. [02]
+
+ii Compare Fresnel and Fraunhoffer class of diffraction. (02]
+iii How will you measure an unknown DC voltage using a CRO? [02]
+iv Compare electrical conductivity of a conductor with respect to semiconductor giving their [02]
+
+expressions.
+v_ Explain Hall effect giving a diagram. ; [02]
+vi Explain AC Josephson effect [02]
+vii What are important properties of LASER ? [02]
+vill What do you mean by cavitation? [C2]
+ix Compare spontaneous and stimulated emission transition processes. [02]
+Que. 2
+
+a What are Newton’s rings? Show that diameters of all dark rings are proportional to [06]
+square roots of natural numbers, giving neatray diagram.
+b Define i) grating element, ii) dispersive power and iii) resolving power of a grating giving [04]
+= their expressions.
+c A thin transparent liquid of refractive index 1.46 is spread over water. Light of different [04]
+wavelength is reflected from the liquid surface, except of wavelength 6000 A. Determine
+ai the thickness of the oil film.
+
+1/2
+--- page 2 ---
+Que. 3
+a Discuss the motion of electrons in a perpendicular electric filed with a neat diagram and [06]
+
+show the path traversed is parabolic.
+b Explain with neat diagram the working of electrostatic lens. [04]
+
+c An electron beam passes through a magnetic field of 2.5 x 10° Wb/m?. And an electric [04]
+field of 5 x 10* V/m both act simultaneously at right angles to each other and to the path
+of electron. If the electric field is removed what will be the radius of electric path?
+
+Que. 4
+a Discuss the variation in critical temperature with increase in externally applied magnetic [06]
+field in superconductors. €ompare Type I and Type II superconductors giving
+neat diagrams.
+b Explain any four important mechanical properties of materials. [04]
+
+c Determine the critical magnetic field at 4.2 K for a given specimen of superconductor, if [04]
+the critical fields are 1.41 x 10° A/m and 4.205 x 10° A/m at 1.41 K and 12.9 K
+
+respectively.
+
+a Explain the construction and working of Bragg’s X-rays diffractometer giving [06].
+appropriate diagram. .
+
+b What is ligancy? Determine critical radius ratio for ligancy 4. [04]
+
+c Calculate the number of atoms per unit cell and predict the type of crystal structure fora [04]
+metal having the lattice constant 2.9 A and density 7.87 gm/cm?. Atomic weight of the
+metal is 55.85 and Avogadro constant is 6.0238 x 107? / mole.
+
+Que. 6
+a Explain the construction and working of atomic gas LASER, using neat diagram. [06]
+b Describe fiber optic communication system giving a block diagram. [04]
+
+c A step index fiber is made with core refractive index 1.52, a diameter of 29 um anda [04]
+fractional difference index of 0.0007. It is operated at a wavelength of 1.3 um. Find the
+V-number and the number of modes fiber will support.
+
+Que. 7
+a Give a description of classification of all the solid materials on the basis of band theory. [06]
+b Explain the construction and working of a high frequency ultrasonic oscillator. [04]
+
+c Find the resistivity of intrinsic Ge crystal at 300 K. Density of charge carriers is 2.5 x [04]
+109 m3, e=1.6x 10°C, pn =0.39 m7/V sg, Hp= 0.19 m’/V s.
+
+2/2
+````
+
 ## 2018-19 · Re-Exam · Sem 1 · paper d5532675c26f
 
 - Departments: Common (all branches)
@@ -928,6 +1486,402 @@ of electron = 9.11 x 103! kg,)
 [05]
 
 [04]
+````
+
+## 2018-19 · Re-Exam · Sem 2 · paper 362221eee82d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engg physics ...Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 June 2019
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program MBA Tech (All Streams)~ Year: I~ Semester:II
+Academic Year: 2018-2019
+
+Marks: 70 “
+
+Time:10.00 am to 1.00 pm ~
+Duration: 3 (hrs)
+
+No. of Pages: Q :
+
+Subject: Engineering Physics ~
+Date : 12 June 2019 “
+
+Re-Examination (2017-18) -
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No, 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume _aiitable data if necessary.
+
+Q.1 Attempt any seven questions:-
+a. State any two conditions necessary for obtaining sustainable interference pattern using two 2
+sources.
+b. How phase and frequency can be measured using Lissajous pattern on CRO? 2
+c. Explain any two thermal properties of materials. 2
+
+d. How many types of point defects are possible in crystalline solids? Explain any one defect 2
+with suitable diagram.
+
+e. What is Fermi energy level? Show the variation of Fermi energy level with temperature in 2
+N-type semiconductor.
+
+f. Define the Inverse Piezoelectric effect for generating ultrasonic waves. Discuss its any two 2
+advantages.
+
+g. Draw the refractive index profile of step index fiber and graded index fiber. Write any two 2
+differences between them.
+
+h. Explain the property “critical magnetic field” of superconductors. 2
+
+i Ina Newton’s ring experiment, the diameter of 10" dark ring due to wavelength 6000A° in 2
+air is 0.5 cm. Find the radius of curvature of the lens.
+
+j. Draw the following: (123), (102), [110], [101]. 2
+k. Find the numerical aperture of an optical fiber of core index 1.4 and A 0.02. 2
+Q.2 Attempt all-
+
+a. What do you mean by thin film? Derive an expression for condition of maxima and minima 6
+for reflected in case of thin transparent film of uniform thickness.
+
+Wd
+--- page 2 ---
+Q.3
+
+Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+State Rayleigh criteria for the resolution of spectral lines. Distinguish between the resolving
+power and dispersive power of the grating.
+
+A plane diffraction grating has a value of grating constant equal to 15 x 10+ cm. Calculate
+the position of the third order maximum for 4 = 2.4 x 10+ cm.
+
+Attempt all-
+
+A particle of mass “m” and charge “q” enters a region of uniform magnetic induction field
+“B” with velocity ‘v’ making an angle @ with the direction of field. Discuss its motion and
+derive the expression for: (i) radius of path (ii) pitch of helical path (iii) frequency of
+revolution.
+
+Draw neat energy band diagram of N-type semiconductor at T= 0K and T= 300K.
+
+A copper strip 2 cm wide and 1 mm thick is placed ina magnetic field. B= 1.5 wb/m*. If 4
+
+_ current of 200 A is set up in a strip, Calculate Hall voltage that appears across the strip.
+
+Given Ru = 6 x 107 m/C.
+
+Attempt all-
+
+Differentiate between types I and type II superconductors with the help of M-H curve.
+The transition temperature for Pb is 7.2 K. However, at 5 K it loses the superconducting
+property if subjected to magnetic field of 3.3 x 10* A/m. Find the maximum value of H
+which will allow the metal to retain its superconductivity at 0 K.
+
+Explain with neat diagrams electrostatic focusing.
+
+Electrons accelerated under a potential of 250 V enter an electric field at an angle of
+incidence of 50° and gets refracted through an angle of 30°. Find the potential difference
+between the two equipotential surfaces.
+
+Attempt all-
+
+Explain construction, working and energy level diagram of He-Ne laser. ~ .
+
+Derive the expression for numerical aperture in case of step index fiber. Also write the
+expression in terms of fractional refractive index of fiber.
+
+Define attenuation in optical fibers. Optical power of 1 mW is launched into an optical fiber
+of length 100 m. If the power emerging from the other end is 0.3 mW, calculate the fiber
+attenuation.
+
+Attempt all- :
+
+What is meant by limiting radius ratio (critical radius ratio)? Calculate the limiting radius
+ratios (critical radius ratio) for co-ordinations (ligancies) 3and 6.
+
+Explain how Braggs’ X-ray spectrometer can be used to determine the interplanar spacing.
+A substance with face-centered cubic lattice has density 6250 kg/m? and molecular weight
+60.2 gm. Calculate the lattice constant ‘a’ and the atomic radius r. Given Avogadro number
+N = 6.02 x 10° (kg.mole)-1.
+
+Attempt all-
+
+Define the Magnetostriction effect. Discuss in detail the working of a magnetostriction
+oscillator for the production of ultrasonic waves.
+
+Discuss any four electrical properties of material.
+
+A quartz crystal having 3 mm thickness is vibrating at resonance. Calculate the fundamental
+frequency of vibration for which ultrasonic waves are generated. [Given: Density of quartz
+= 2650 kg/ m3, and Young’s modulus = 7.9 x 10!° N/m2]
+
+2\2
+````
+
+## 2018-19 · Re-Exam · Sem 2 · paper 01ee60bdcb6f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engineering Physics Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 April 2019
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+=
+
+<Su A\WUTE OF
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) ° Year: I * Semester: II <
+
+Academic Year: 2018-2019 -
+
+Subject: Engineering Physics :
+Marks: 70~
+Date: 12 April 2019” Time: 10.00 am to 1.00 pm-
+Durations: 3 (hrs) 2,
+« No. of Pages:
+Re-Examination (2017-18) ~
+
+Instructions: Candidates dion read carefully th the instructions printed on the pesto paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. : =.
+Q.1 Attempt any seven questions:-
+a. Why itis not possible to obtain laser with a two level system? 2
+b. Draw the following planes with reference to the cubic unit cell (313) and (210). z
+
+c. Optical power of 1 mW is launched into an optical fiber of length 100.m. If the power emerging 2
+
+from the other end is 0.3 mW, calculate the fiber attenuation.
+
+d. Explain atomic packing factor and its significance. 2
+e. How can we find out an unknown frequency using a cathode ray oscilloscope? 2
+f. What are coherent waves? How do we.define optical path? 2
+g. Define electric field intensity and magnetic field intensity. z
+
+h. The electron and hole mobilities in a Si sample are 0.135 and 0.048 m?/V-s respectively. If the 2
+conductivity of intrinsic Si at 300 K is 4.39 x 10* (Q-my', determine the intrinsic carrier
+concentration of Si at that temperature.
+
+i What are ductility and malleability in relation with the mechanical properties of materials? 2
+
+Q.2 Attempt all-
+a. State and prove Bragg’s law related to x-ray diffraction by crystals. Why x-ray is used to study 6
+
+crystal structure by diffraction method?
+
+b. Differentiate between Schottky and Frenkel defects with appropriate diagram.. -
+
+Vo
+--- page 2 ---
+Q3
+
+Q4
+
+Q.5
+
+Q.6
+
+Q7
+
+An element crystallizes into fcc structure with its unit cell parameter as 2 A. Calculate its density if
+0.2 kg of the element contains 24 x 10” atoms.
+Attempt all-
+
+Obtain the expression for velocity of an electron moving in a mutually perpendicular electric and
+magnetic field. How this concept is used as a velocity selector?
+
+Show that for an intrinsic semiconductor at low temperature Fermi level lies at the half of its energy
+A Si sample is doped with 10"’ phosphorous atoms/cm}, mobility of charge carrier is 700 cm’/V-
+sec. Find the resistivity and Hall voltage in a sample 100 um thick, if = 1 mA and B, = 10°
+Wolem’. Le=vexte 4c
+
+Attempt all-
+
+An electron beam passes through a magnetic field of 2.5 x 10° wb/m’ and an electric field of 5 x
+10* V/m both acting simultaneously at right angles to each other and to the path of electrons. If the
+electrons follow an undeviated path, find the speed of electrons. If the electric field is removed what
+will be the radius of the electron path? L@> t'6* totT ee, Mes Ale lon * eg]
+
+Differentiate between type I and type II superconductors.
+What is isotope effect in superconductor? The transition temperature of mercury with an average
+
+atomic mass of 199.5 amu is 4.185 K. Determine the transition temperature of one of its isotopes,
+
+soHg"?**.
+
+Attempt all-
+Prove that the diameter of the nth dark ring in Newton’s ring is directly proportidmal to square root
+
+of ring number.
+In a Newton’s ring experiment, the diameter of the 15" ring was found to be 0.59 cm and that of 5h
+
+ring was 0.336 cm. What is the radius of curvature of the plano-convex lens when light of
+
+wavelength 5880 A is used?
+
+Define and derive an expression for the dispersive power of a grating in terms of grating constant
+and diffraction angle.
+
+Attempt all-
+
+Explain population inversion, active system and pumping.
+
+Discuss different loss mechanisms encountered in an optical fiber.
+
+A laser having power of 75 mW, wavelength 720 nm and an aperture 5 mm is focussed with a lens
+of focal length of 0.1 m. Calculate the area and intensity of the image.
+
+Attempt all-
+
+What is magnetostriction effect? Explain with appropriate schematic diagram how it is used for the
+production of ultrasonic waves.
+
+A quartz crystal having 3 mm thickness is vibrating at resonance. Calculate the fundamental
+frequency of vibration for which ultrasonic waves are generated. [Given: Density of quartz = 2650
+kg/ m3, and Young’s modulus = 7.9 x 10"° N/m’] Can this wave be sent to the moon from the
+NMIMS laboratory?
+
+Write short note on any two thermal properties of the materials.
+
+ab
+````
+
+## 2018-19 · Re-Exam · Sem 2 · paper dab1a0b2d82c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engineering physics Re-exam 2015-16-17.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 April 2019
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+. SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA Tech (All Streams) Year: I Semester: II i
+
+Academic Year: 2018-2019
+
+ject: Engineering Physics
+=—_ “ ad Marks: 70
+Date: 12 April 2019 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: Ol
+Re-Examination (2015-16 / 2016-17)
+
+Instructions:
+1) Question No. | is compulsory.
+2) Out'of remaining questions, attempt any 4 questions.
+3) Inall 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answers to each new question to be started on a fresh page.
+6) Figures in bracket on the right hand side of each question indicate full marks.
+
+Que.1: Attempt any seven of the following:
+a) Determine the intensity of a 10 mW laser beam of beam diameter 1.6 mm. [02]
+b) Draw the planes (012) and (221) with reference to the cubic unit cell. [02]
+
+c) Determine the resistivity of an intrinsic semiconductor at 300 °K, if intrinsic carrier density [02]
+is 2.5x10!'°/m*. Given that, [te= 0.39 m’/ Vs, le = 0.19 m?/ Vs and e = 1.6x10 °C,
+
+d) What is Meissner effect? [02]
+e) Howan unknown DC voltage can be measured using a CRO? — [02]
+f) Define cavitation. [02]
+g) What is thermal conductivity? : [02]
+h) Define grating and grating element. [02]
+i) Mention any four important properties of Laser light. [02]
+
+Que.2: a) Determine the following terms for SCC crystal structure-(i) effective number of atoms per [06]
+unit cell, (ii) coordination number, (iii) APF.
+b) Determine critical radius ratio for ligancy 3. [04]
+c) Find density of a metal with FCC structure which has the interplaner spacing of 2.08 A
+for the set of (111) planes. [Given Atomic weight of metal = 63.54 and
+Avogadro’s No.= 6.023 x 1073 atoms per mole.] [04]
+
+Que.3: a) Show that in Intrinsic semiconductors Fermi energy level lies exactly in between the [06]
+conduction‘band and the valance band.
+
+b) What is Fermi-Dirac probability function? [04]
+
+c) Explain Hall effect using a diagram. [04]
+
+Que.4: a) Derive an expression for magnetostatic deflection produced when an electron beam enters [06]
+normally to an uniform magnetic field.
+
+Page 1 of 2
+--- page 2 ---
+b) How frequency of an unknown AC signal can be determined using Lissajous patterns ? [04]
+c) Anelectron beam passes through mutually perpendicular electric field of 3.4 x 10* V/m
+and magnetic field of 2 x 10° Wb/m?. It is found that path of the beam is unaffected.
+What is the velocity of electrons? If the electric field is switched off, what will be the
+radius of curved path ? Given that, me=9.1x103! Kg and e = 1.610“ C, [04]
+Que.5: a) Derive the conditions of maxima and minima in Newton’s rings, giving a neat ray [06]
+diagram.
+b) Define (i) dispersive power and (ii) resolving power of grating, giving their expressions. [04]
+c) A parallel beam of light of wavelength 5890 A, is incident on a glass plate of refractive
+index 1.5, such that the angle of refraction into plate is 60°. Find out the least thickness of
+the plate so that it appears dark in reflected light. [04]
+
+‘Que.6: a) Explain the construction and working of Ruby laser giving necessary diagrams. [06]
+b) A fiber is made of glass with refractive index 1.55 and is claded with another glass with a
+refractive index 1.51. The fiber has a core diameter of 50 um and is used at a wavelength
+
+of 0.8 um. Determine (i) numerical aperture (ii) acceptance angle (iii) V- no. and (iv) [04]
+number of modes propagating.
+c) Explain DC Josephson effect in superconductors.. [04]
+Que.7: a) Explain any three important mechanical properties of the materials in brief. [06]
+
+b) The ultrasonic echo pulse method is used with defective and non-defective steel bars
+of thickness 40 cm. If pulse arrival times are 30 ts and 80 us, respectively then locate the
+
+distance at which defect is present. 3 [04]
+c) Determine the critical field of a material at 2 K, which has a critical temperature of 3.7 K
+in absence of magnetic field and a critical field of 0.0306 T at 0 K. [04]
+
+Page 2 of 2
 ````
 
 ## 2018-19 · Re-Exam · Sem 2 · paper 87440dbb5f91
@@ -1659,161 +2613,30 @@ m. An ultrasonic pulse travels in it with a velocity of 5.9 x 103 m/s. Calculate
 [4]
 ````
 
-## 2017-18 · Re-Exam · Sem 1 · paper a760d2d60449
+## 2017-18 · Re-Exam · Sem 1 · paper 93c8cf529193
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS (ALL STREAMS) BATCH 17-18 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 10 January 2019
-- Text: ocr (2 pages), mean OCR confidence 90.3
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS BATCH 15-16 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 30 May 2018
+- Text: ocr (3 pages), mean OCR confidence 93.0
 
 ````text
-MPSTME ~
+j SVKM’s NMIMS j
 
-LIBRARY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING “
+: Programme: B. Tech (All Streams) 2 Year: I Semester: I
+co
+Batch: 2015-16 / 2016-17
+a Academic Year: 2017-2018
+Subject: Enggineering Physics
+- Marks
+Date: 30 May 2018 — Time: 1@
 
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Re-Examination
 
-5
-
-Program: B. Tech (All Streams) Year: I Semester : [
-“ Academic Year: 2018-2019
-
-Subject: Engineering Physics ; Marks: 70 |
-
-ca
-
-Time: 2.00 pm to 5.
-Date : 10 January 2019 pe 0pm
-a Durations: 3 (hrs)
-No. of Pages: 02
-Re-examination (2017-18) a
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | (ONE) is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ‘suitable data, if necessary.
-
-[Data given: Electronic mass, me = 9.1 x 10°! kg, Electronic charge, e = 1.6.x 10" C, Planck’s constant,
-h = 6.625 x 10% J-s = 4.14 x 10°” eV-s, speed of light, c= 3 x 10° m/s, Boltzmann’s constant, k = 8.625 x
-10° eV/K]
-
-Q.1 Attempt any seven
-
-a. What is a crystal? How it is different from the amorphous materials? [2]
-b. Explain two types of point defect with proper diagram. : [2]
-c. Draw the following plane and direction with reference to the cubic unit cell (3-12), [110]. [2]
-d. How can Lissajous patterns be used to find out unknown frequencies using a cathode ray [2]
-oscilloscope?
-e. Explain isotope effect of elirrenedini eta, [2]
-f. Define any two electrical properties of materials. (2]
-g. Why it is not possible to obtain laser with a two level system? (2]
-
-h. Optical power of 1 mW is launched into an optical fiber of length 100 m. If the power emerging = [2]
-from the other end is 0.2 mW, calculate the fiber attenuation.
-
-——— i. What are coherent waves? How do we define optical path? (2]
-oe Q2
-a. Whatare ligancy and critical (limiting) radius ratio? Calculate the critical radius ratio for {6]
-ligancy 6.
-
-Vy
---- page 2 ---
-b. Determine the wavelength of X-ray beam incident at 12° for the first order reflection froma [4]
-calcite crystal, if the inter-planar spacing for the crystal is 3.035 A.
-
-c. Anelectron beam passes through a magnetic field of 3 x 10° wb/m? and ari electric field of 6x [4]
-10‘ V/m both acting simultaneously at right angles to each other and to the path of electrons. If
-the electrons path remains unchanged, find the speed of electrons. If the electric field is removed
-what will be the radius of the electron path?
-
-Q.3
-a What is a Hall effect? How it can be used to determine (i) mobility (ii) carrier concentration. [6]
-
-b. The electron and hole mobilities in a Si sample are 0.135 and 0.048 m?/V-s respectively. If the [4]
-conductivity of intrinsic Si at 300 K is 4.39 x 10* (Q-m)", determine the intrinsic carrier
-concentration of Si at that temperature.
-
-c A step index fiber has a core diameter of 40 1m and core and cladding refractive indices are [4]
-1.46] and 1.456, respectively. It’s working at a wavelength of 850 nm. Find out the V-number
-
-and the number of modes guided in the core.
-
-Q.4
-a Obtain the expression for velocity of an electron moving in a mutually perpendicular electric [6]
-and magnetic field. Hence explain the working of a velocity selector.
-b Differentiate between type I and type IT superconductors. [4]
-c The transition temperature of mercury with atomic mass of 199.5 amu is 4.185 K. Find the [4]
-transition temperature of its isotope with atomic mass 203.4 amu.
-Q.5
-
-a Derive the conditions for constructive and destructive interference in a plane parallel film due to [6]
-reflected light with proper diagram.
-
-b Define and derive an expression for the dispersive power of a grating. [4]
-
-c What are the advantages of optical fiber vis-a-vis conventional metal wires? [4]
-Q.6
-
-a Explain the construction and working of any gas laser. [6]
-
-b Discuss different loss mechanisms encountered in an optical fiber. [4]
-
-c Ruby laser has its metastable state at 1.79 eV above the ground level from which the stimulated [4]
-emission produces laser light. Calculate the wave length of the light. If 1.1 mole of Cr*? ions are
-involved in population inversion process in a pulse, calculate the pulse energy.
-
-Q.7
-a Describe three of mechanical properties of materials. [6]
-— b Write short notes on different medical applications of ultrasonic waves. [4]
-c Calculate the frequency of the ultrasonic wave produced due to an iron rod of length 12cmused [4]
-et: in magnetostriction oscillator. Density from iron = 7.23 x 10° kg/m’. Young’s modulus of iron =
-11.6 x 10!° N/m’. Why ultrasonic waves are used for echo sounding technique.
-
-2a
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper 93ef2ebbaf3b
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 16 November 2018
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Semester: I .
-
-Academic Year: 2018-2019
-
-Marks: 70
-Time: 10. 00 a
-
-Subject: Engineering Physics
-oo
-
-Date: 16 November 2018
-
-° No. of Pages : oe
-Re-examination (2017-18) L
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer Book, which is provided for their use.
 
 1) Question No. 1 is compulsory.
 
@@ -1828,78 +2651,99 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-Que.1 Attempt any seven from following
+Q.1 Attempt any seven
 
-i Draw the plane (3. 1 2) and direction [2 0 3] in cubic unit cell. [02]
+a. Draw the energy band structure of an insulator and semiconductor. ‘ [02]
 
-ii Compare Fresnel and Fraunhoffer class of diffraction. (02]
-iii How will you measure an unknown DC voltage using a CRO? [02]
-iv Compare electrical conductivity of a conductor with respect to semiconductor giving their [02]
+b. Define the following 1) Interference of light 2) Resolving power of grating, ; [02]
 
-expressions.
-v_ Explain Hall effect giving a diagram. ; [02]
-vi Explain AC Josephson effect [02]
-vii What are important properties of LASER ? [02]
-vill What do you mean by cavitation? [C2]
-ix Compare spontaneous and stimulated emission transition processes. [02]
-Que. 2
+c. How CRO can be used in the determination of unknown frequency using
 
-a What are Newton’s rings? Show that diameters of all dark rings are proportional to [06]
-square roots of natural numbers, giving neatray diagram.
-b Define i) grating element, ii) dispersive power and iii) resolving power of a grating giving [04]
-= their expressions.
-c A thin transparent liquid of refractive index 1.46 is spread over water. Light of different [04]
-wavelength is reflected from the liquid surface, except of wavelength 6000 A. Determine
-ai the thickness of the oil film.
+Lissajous pattern method? [02]
 
-1/2
+d. Discuss in brief the Frenkel defect. [02]
+
+e. Explain the thermal properties: heat capacity and thermal conductivity. [02]
+
+f. Define the superconductivity. Enlist any two properties of superconductors. [02]
+
+g. Mention any four applications of optical fibers. [02]
+
+h. Enlist any four properties of ultrasonic waves. [02]
+— i. Describe with formula the electrical conductivity of a material. [02]
+we Q.2
+
+a. Define Newton’s rings. Obtain an expression for the diameter of m™ dark rings in
+
+ib
 --- page 2 ---
-Que. 3
-a Discuss the motion of electrons in a perpendicular electric filed with a neat diagram and [06]
+reflected system. Explain why the central fringe a dark spot when examined in
 
-show the path traversed is parabolic.
-b Explain with neat diagram the working of electrostatic lens. [04]
+reflected light? [06]
+b. Explain surface and volume defects in a crystal. [04]
+c. Define dispersive power of grating. A grating has 15 cm of the surface ruled \
 
-c An electron beam passes through a magnetic field of 2.5 x 10° Wb/m?. And an electric [04]
-field of 5 x 10* V/m both act simultaneously at right angles to each other and to the path
-of electron. If the electric field is removed what will be the radius of electric path?
+with 6000 lines / cm. What is the resolving power of grating
 
-Que. 4
-a Discuss the variation in critical temperature with increase in externally applied magnetic [06]
-field in superconductors. €ompare Type I and Type II superconductors giving
-neat diagrams.
-b Explain any four important mechanical properties of materials. [04]
+in the first order? [04]
 
-c Determine the critical magnetic field at 4.2 K for a given specimen of superconductor, if [04]
-the critical fields are 1.41 x 10° A/m and 4.205 x 10° A/m at 1.41 K and 12.9 K
+Q.3
+‘a. What is uniform electric field? Obtain the equation of the path travelled by
 
-respectively.
+an electron in a uniform transverse electric field. An electron starts from rest and
+moves freely in an electric field of intensity 1500 V/m. Determine acceleration
+attained by the electron.
 
-a Explain the construction and working of Bragg’s X-rays diffractometer giving [06].
-appropriate diagram. .
+‘(Charge of electron = 1.602 x 1079 C, mass of electron = 9.11 x 10°! Kg). [06]
+b. Draw crystal planes having Miller indices (1 1 1), (1 1 0), (2 1 1) and (3 2 1) ina
+simple cubic-crystal. : [04]
 
-b What is ligancy? Determine critical radius ratio for ligancy 4. [04]
+c. A laser beam has a power of 50 mW. It has an aperture of 5 x 10° m and
+wavelength 7000 A. The beam is focused with a lens of focal length of 0.2 m.
 
-c Calculate the number of atoms per unit cell and predict the type of crystal structure fora [04]
-metal having the lattice constant 2.9 A and density 7.87 gm/cm?. Atomic weight of the
-metal is 55.85 and Avogadro constant is 6.0238 x 107? / mole.
+Calculate the areal spread and intensity of the image. [04]
+Q4
+a. Explain the effect of impurity concentration and variation of temperature on the
 
-Que. 6
-a Explain the construction and working of atomic gas LASER, using neat diagram. [06]
-b Describe fiber optic communication system giving a block diagram. [04]
+Fermi level in an N type semiconductor with energy band diagrams. [06]
 
-c A step index fiber is made with core refractive index 1.52, a diameter of 29 um anda [04]
-fractional difference index of 0.0007. It is operated at a wavelength of 1.3 um. Find the
-V-number and the number of modes fiber will support.
+b. An electron is projected at an angle of 37° to the horizontal at an initial speed of
+4.5 x 10° m/s in a region of uniform electric field 200 N/C.
+(i) Find the time it takes the electron to return to its initial height.
 
-Que. 7
-a Give a description of classification of all the solid materials on the basis of band theory. [06]
-b Explain the construction and working of a high frequency ultrasonic oscillator. [04]
+(ii) Find the maximum height reached by the electron. [04]
+c. Determine the lattice constant for FCC lead crystal of radius 1.746 A.
+Also find the spacing of (i) (111) planes, (ii) (200) planes, (iii) (220) planes. [04]
+Q.5
+a. Explain with neat diagrams the construction and working of He —Ne laser. [061
+b. Show that the Fermi level in an intrinsic semiconductor lies in the middle of the
+energy gap. : [04]
+c. Ina Newton’s rings experiment the diameter of the 4" and 12" dark rings are
+0.400 cm and 0.700 cm respectively. Determine the diameter of 20" dark ring. [04]
+Q.6
+— a. What is attenuation in an optical fibre? Explain the attenuation mechanisms. [06]
+b. Explain in brief type I and type II superconductors. [04]
+pes c. Ina hall experiment, a current of 0.25 A is sent through a metal strip having
+thickness 0.2 mm and width 5 mm. The Hall voltage is found to be 0.15 mV
 
-c Find the resistivity of intrinsic Ge crystal at 300 K. Density of charge carriers is 2.5 x [04]
-109 m3, e=1.6x 10°C, pn =0.39 m7/V sg, Hp= 0.19 m’/V s.
+b
+--- page 3 ---
+when a magnetic field of 2000 gauss is used.
+(1) What is the carrier concentration?
 
-2/2
+(2) What is the drift velocity of the carriers? [04]
+Q.7
+a. What is piezoelectric effect? Explain the working of a piezoelectric oscillator
+
+with its merits and demerits. [06]
+
+b. (1) The critical field of niobium is 1 x 10° A/m at 8 K and 2 x 10° A/m at 0 K.
+Calculate the transition temperature of the element.
+(2) The critical magnetic field at 5 K is 2 x 10° A/m in a superconductor ring
+
+of radius 0.02 m. Find the value of critical current. [04]
+c..Explain in brief elasticity and plasticity in accordance with the stress — strain curve.
+Also explain the yield point on the curve. [04]
 ````
 
 ## 2017-18 · Re-Exam · Sem 1 · paper 0dd546fe76d5
@@ -2035,304 +2879,293 @@ fractional difference index of 0.0007. It is operated at a wavelength of 1.3 um.
 number and the number of modes the fiber will support.
 ````
 
-## 2017-18 · Re-Exam · Sem 2 · paper 362221eee82d
+## 2017-18 · Re-Exam · Sem 2 · paper 8f4d7a15df6f
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engg physics ...Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 June 2019
-- Text: ocr (2 pages), mean OCR confidence 92.4
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engineeirng physics Re-exam 2015-16,2016-17.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 05 May 2018
+- Text: ocr (3 pages), mean OCR confidence 92.3
 
 ````text
-SVKM’S NMIMS
+‘ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program MBA Tech (All Streams)~ Year: I~ Semester:II
-Academic Year: 2018-2019
+Programme:MBA Tech (All Streams) Year: I Semester: IT
+Academic Year: 2017-2018
 
-Marks: 70 “
+Subject:Engineering Physics .
 
-Time:10.00 am to 1.00 pm ~
-Duration: 3 (hrs)
+‘ Marks:70
 
-No. of Pages: Q :
+Date:05 May 2018 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
 
-Subject: Engineering Physics ~
-Date : 12 June 2019 “
+No. of Pages : - OF
 
-Re-Examination (2017-18) -
+Re-examination (2015-16 / 2016-17)
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
-1) Question No, 1 is compulsory.
+1) Question No. ONE is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2) Out of remaining questions, attempt any FOUR questions.
 
-3) In all 5 questions to be attempted.
+3) In all FIVE questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume _aiitable data if necessary.
+7) Assume Suitable data if necessary.
 
-Q.1 Attempt any seven questions:-
-a. State any two conditions necessary for obtaining sustainable interference pattern using two 2
-sources.
-b. How phase and frequency can be measured using Lissajous pattern on CRO? 2
-c. Explain any two thermal properties of materials. 2
+[Data given: Electronic mass, me = 9.1 x 10°! kg, Electronic charge, e = 1.6 x 10°” C, Planck’s constant,
+h = 6.625 x 10" J-s = 4.14x 10°” eV-s, speed of light, c= 3 x 108 m/s, Boltzmann’s constant, k = 8.625 x
+10° eV/K.)
 
-d. How many types of point defects are possible in crystalline solids? Explain any one defect 2
-with suitable diagram.
+Q.1 Attempt any seven
+a. Describe lattice parameters with a proper figure. [2]
+b. Define Miller indices. What do they signify? [2]
+c. Consider the Fermi level 0.3 eV below the conduction band at room temperature (=27°C) inan [2]
+n-type semiconductor. If the temperature is raised to 57°C, what would be the new position of
+Fermi level?
 
-e. What is Fermi energy level? Show the variation of Fermi energy level with temperature in 2
-N-type semiconductor.
-
-f. Define the Inverse Piezoelectric effect for generating ultrasonic waves. Discuss its any two 2
-advantages.
-
-g. Draw the refractive index profile of step index fiber and graded index fiber. Write any two 2
-differences between them.
-
-h. Explain the property “critical magnetic field” of superconductors. 2
-
-i Ina Newton’s ring experiment, the diameter of 10" dark ring due to wavelength 6000A° in 2
-air is 0.5 cm. Find the radius of curvature of the lens.
-
-j. Draw the following: (123), (102), [110], [101]. 2
-k. Find the numerical aperture of an optical fiber of core index 1.4 and A 0.02. 2
-Q.2 Attempt all-
-
-a. What do you mean by thin film? Derive an expression for condition of maxima and minima 6
-for reflected in case of thin transparent film of uniform thickness.
-
-Wd
+d. How can we find out an unknown frequency using a cathode ray oscilloscope? [2]
+e. Explain isotope effect of superconductor. [2]
+f. Define electrical conductivity and dielectric strength. [2]
+g. What is meant by population inversion? Why it is significant for laser production? [2]
+EE
+Is
 --- page 2 ---
-Q.3
+Q.2
 
-Q.4
+A silica optical fiber has a core refractive index of 1.48 and a numerical aperture of 0.649.
+Determine (i) the refractive index of the cladding and (ii) the critical angle at the core — cladding
+interface.
 
-Q.5
+Describe the formation of color in soap film as seen in sunlight.
 
-Q.6
-
-Q.7
-
-State Rayleigh criteria for the resolution of spectral lines. Distinguish between the resolving
-power and dispersive power of the grating.
-
-A plane diffraction grating has a value of grating constant equal to 15 x 10+ cm. Calculate
-the position of the third order maximum for 4 = 2.4 x 10+ cm.
-
-Attempt all-
-
-A particle of mass “m” and charge “q” enters a region of uniform magnetic induction field
-“B” with velocity ‘v’ making an angle @ with the direction of field. Discuss its motion and
-derive the expression for: (i) radius of path (ii) pitch of helical path (iii) frequency of
-revolution.
-
-Draw neat energy band diagram of N-type semiconductor at T= 0K and T= 300K.
-
-A copper strip 2 cm wide and 1 mm thick is placed ina magnetic field. B= 1.5 wb/m*. If 4
-
-_ current of 200 A is set up in a strip, Calculate Hall voltage that appears across the strip.
-
-Given Ru = 6 x 107 m/C.
-
-Attempt all-
-
-Differentiate between types I and type II superconductors with the help of M-H curve.
-The transition temperature for Pb is 7.2 K. However, at 5 K it loses the superconducting
-property if subjected to magnetic field of 3.3 x 10* A/m. Find the maximum value of H
-which will allow the metal to retain its superconductivity at 0 K.
-
-Explain with neat diagrams electrostatic focusing.
-
-Electrons accelerated under a potential of 250 V enter an electric field at an angle of
-incidence of 50° and gets refracted through an angle of 30°. Find the potential difference
-between the two equipotential surfaces.
-
-Attempt all-
-
-Explain construction, working and energy level diagram of He-Ne laser. ~ .
-
-Derive the expression for numerical aperture in case of step index fiber. Also write the
-expression in terms of fractional refractive index of fiber.
-
-Define attenuation in optical fibers. Optical power of 1 mW is launched into an optical fiber
-of length 100 m. If the power emerging from the other end is 0.3 mW, calculate the fiber
-attenuation.
-
-Attempt all- :
-
-What is meant by limiting radius ratio (critical radius ratio)? Calculate the limiting radius
-ratios (critical radius ratio) for co-ordinations (ligancies) 3and 6.
-
-Explain how Braggs’ X-ray spectrometer can be used to determine the interplanar spacing.
-A substance with face-centered cubic lattice has density 6250 kg/m? and molecular weight
-60.2 gm. Calculate the lattice constant ‘a’ and the atomic radius r. Given Avogadro number
-N = 6.02 x 10° (kg.mole)-1.
-
-Attempt all-
-
-Define the Magnetostriction effect. Discuss in detail the working of a magnetostriction
-oscillator for the production of ultrasonic waves.
-
-Discuss any four electrical properties of material.
-
-A quartz crystal having 3 mm thickness is vibrating at resonance. Calculate the fundamental
-frequency of vibration for which ultrasonic waves are generated. [Given: Density of quartz
-= 2650 kg/ m3, and Young’s modulus = 7.9 x 10!° N/m2]
-
-2\2
-````
-
-## 2017-18 · Re-Exam · Sem 2 · paper 01ee60bdcb6f
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engineering Physics Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 April 2019
-- Text: ocr (2 pages), mean OCR confidence 91.1
-
-````text
-=
-
-<Su A\WUTE OF
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) ° Year: I * Semester: II <
-
-Academic Year: 2018-2019 -
-
-Subject: Engineering Physics :
-Marks: 70~
-Date: 12 April 2019” Time: 10.00 am to 1.00 pm-
-Durations: 3 (hrs) 2,
-« No. of Pages:
-Re-Examination (2017-18) ~
-
-Instructions: Candidates dion read carefully th the instructions printed on the pesto paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary. : =.
-Q.1 Attempt any seven questions:-
-a. Why itis not possible to obtain laser with a two level system? 2
-b. Draw the following planes with reference to the cubic unit cell (313) and (210). z
-
-c. Optical power of 1 mW is launched into an optical fiber of length 100.m. If the power emerging 2
-
-from the other end is 0.3 mW, calculate the fiber attenuation.
-
-d. Explain atomic packing factor and its significance. 2
-e. How can we find out an unknown frequency using a cathode ray oscilloscope? 2
-f. What are coherent waves? How do we.define optical path? 2
-g. Define electric field intensity and magnetic field intensity. z
-
-h. The electron and hole mobilities in a Si sample are 0.135 and 0.048 m?/V-s respectively. If the 2
-conductivity of intrinsic Si at 300 K is 4.39 x 10* (Q-my', determine the intrinsic carrier
-concentration of Si at that temperature.
-
-i What are ductility and malleability in relation with the mechanical properties of materials? 2
-
-Q.2 Attempt all-
-a. State and prove Bragg’s law related to x-ray diffraction by crystals. Why x-ray is used to study 6
-
+State and prove Bragg’s law related to x-ray diffraction by crystals. Why x-ray is used to study
 crystal structure by diffraction method?
 
-b. Differentiate between Schottky and Frenkel defects with appropriate diagram.. -
+An element has atomic mass 120 gm and BCC structure. Density of the element is 5.2 gm/cm?.
+Calculate the number of unit cells in 20 gm.
 
-Vo
+' Ina CRT the distance from the centre of the coil to the screen is 0.3m. The length of the field
+
+along the axis is 5 cm. Calculate the magnetic flux density B required to produce a deflection of
+3 cm on the screen if the accelerating anode voltage is 1 KV.
+
+What is an intrinsic semiconductor? Derive the expression for the conductivity of an intrinsic
+semiconductor in terms of mobility and concentrations of charge carriers.
+
+An electric field of 100 V/m is applied to a sample of n-type semiconductor whose Hall
+coefficient is -0.0125 m3/C. Determine the current density in the sample, assuming the electron
+mobility to be 0.36 m?V"s",
+
+A step index fibre has a core diameter of 40 tm and and core and cladding refractive indices are
+1.461 and 1.456, respectively. It’s working at a wavelength of 850 nm. Find out the V-number
+and the number of modes guided in the core.
+
+Obtain the expression for the deflection of the charged particle passing perpendicular to uniform
+magnetic field.
+
+Explain Meissner effect in superconductors with proper diagram and hence show that
+superconductors have a magnetic susceptibility equal to -1.
+
+Determine the penetration depth of mercury at OK, if the critical temperature of mercury is 4.2K
+and the penetration depth is 57 nm at 2.9 K.
+
+Derive the conditions for constructive and destructive interference in a wedge shaped film due
+to reflected light with proper diagram.
+
+Why the central fringe of a Newton’s ring appears dark when viewed through reflected light?
+What are the advantages of optical fiber vis-a-vis conventional metal wires?
+
+What are Einstein’s A and B coefficients for laser action? Derive the relationship between them.
+Describe the merits of 4-level lasers compared with 3-level lasers.
+
+A typical gas laser system is capable of lasing at infrared wavelength of 3.124 um. What is the
+difference in the energy levels of the excited state and metastable states? What will the energy
+
+‘p
+
+[2]
+
+[2]
+
+[6]
+[4]
+
+[4]
+
+[6]
+
+[4]
+
+[4]
+
+[6]
+[4]
+
+[4]
+
+[6]
+
+[4]
+[4]
+
+[6]
+[4]
+[4]
+--- page 3 ---
+Q.7
+
+of the photon emitted? What will be the frequency of the light emitted? If 1 mole of molecules
+are involved in lasing transitions per second, what is the power of laser output?
+
+Describe three of thermal properties of materials.
+
+Write short notes on different medical applications of ultrasonic waves.
+
+Calculate the frequency of the ultrasonic wave produced due to an iron rod of length 10 cm used
+in magnetostriction oscillator. Density from iron = 7.23 x 10° kg/m. Young’s modulus of iron =
+11.6 x 10'° N/m?. Why ultrasonic waves are used in SONAR?
+
+[6]
+[4]
+[4]
+````
+
+## 2017-18 · Re-Exam · Sem 2 · paper d0d2e8f38545
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engineering_Physiscs_2015-16_2016 Re-exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 29 June 2018
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+; SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &yEX
+
+Programme: MBA Tech (All Streams) Year: I Semesfié
+
+Batch: 2015-16/ 2016-17.
+“ Academic Year: 2017-2018
+
+Subject: Engineering Physics
+
+Marks: 707
+Date: 29 June 2018 Time: 10.00 am to 1.00 pm
+o Durations: 3 (Hrs) a
+
+. No. of Pages: ©2—
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is’compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Attempt any seven
+
+a. What is Josephson effect? [2]
+b. Explain any two point defects. ; (2]
+c. Enlist the Electrical properties of the materials and explain anyone in detail. [2]
+d. Define Fermi-Dirac distribution function. (2]
+6: Write a short note on GRIN fiber. (2]
+f. Determine the thickness of a thin film needed to be coated on a glass plate to make it [2]
+nonreflecting for normal incidence. (Given wavelength of the light =5500 A and w= 1.38)
+g. How frequency of an a.c. signal can be measured using a CRO? [2]
+h. Define cavitation and give any two applications of it. [2]
+Q.2 .
+a. Explain the construction and working of a molecular gas laser. (7]
+b. Give a brief comparison of three and four energy level pumping schemes. {4]
+c. Find the necessary core radius for single mode operation at 850 nm in step index fiber with [3]
+
+refractive indices of core and cladding 1.48 and 1.47 respectively, also determine the numerical
+aperture and maximum acceptance angle of this fiber.
+
+a. Discuss the diffraction from a diffraction grating by giving expression of intensity at a point on [6]
+screen with neat labeled diagram, also define dispersive power and resolving power of grating.
+
+b. Derive the conditions for maxima and minima in the interference pattern obtained in reflected [6]
+light from a thin parallel film.
+c. In Newton's rings experiment the diameters of 5" and 15" dark rings are found 0.336 cm and (2]
+
+0.590 cm respectively. What is the radius of curvature of the plano-convex lens when light of
+
+'Jo_
 --- page 2 ---
-Q3
+Q.4
 
-Q4
+wavelength 5893 A is used?
 
-Q.5
+What is magnetostriction effect? Explain the construction and working of a magnetostriction
+based method for generation of ultrasonic waves, giving a neat diagram and necessary
+expressions.
 
-Q.6
+" Derive an expression for magneto-static deflection of an electron moving with velocity *v’ ina
 
-Q7
+perpendicular magnetic field.
+Explain BCS theory of superconductivity.
 
-An element crystallizes into fcc structure with its unit cell parameter as 2 A. Calculate its density if
-0.2 kg of the element contains 24 x 10” atoms.
-Attempt all-
+Determine the following for most densely packed cubic crystal structure (i) effective number of
+atoms per unit cell (ii) atomic radius (iii) coordination number (iv) APF and (v) void space.
+Derive the relatton between interplanar distance and lattice constant of a cubic crystal structure.
+Determine the wavelength of X-ray beam incident at 12° for the first order reflection from a
+calcite crystal, if the inter-planar spacing for the crystal is 3.035 A,
 
-Obtain the expression for velocity of an electron moving in a mutually perpendicular electric and
-magnetic field. How this concept is used as a velocity selector?
+Explain Meissner effect. Distinguish between Type | and Type II superconductors giving
 
-Show that for an intrinsic semiconductor at low temperature Fermi level lies at the half of its energy
-A Si sample is doped with 10"’ phosphorous atoms/cm}, mobility of charge carrier is 700 cm’/V-
-sec. Find the resistivity and Hall voltage in a sample 100 um thick, if = 1 mA and B, = 10°
-Wolem’. Le=vexte 4c
+suitable diagram.
+What is a Hall effect? How it can be used to determine ( i) mobility (ii) carrier concentration.
 
-Attempt all-
+Derive an expression for Fermi level in n-type semiconductor giving a neat diagram.
 
-An electron beam passes through a magnetic field of 2.5 x 10° wb/m’ and an electric field of 5 x
-10* V/m both acting simultaneously at right angles to each other and to the path of electrons. If the
-electrons follow an undeviated path, find the speed of electrons. If the electric field is removed what
-will be the radius of the electron path? L@> t'6* totT ee, Mes Ale lon * eg]
+Obtain the expression for velocity of an electron moving in a mutually perpendicular electric
+and magnetic field. How this concept is used as a velocity selector?
 
-Differentiate between type I and type II superconductors.
-What is isotope effect in superconductor? The transition temperature of mercury with an average
+Explain any five mechanical properties of the materials.
 
-atomic mass of 199.5 amu is 4.185 K. Determine the transition temperature of one of its isotopes,
+An electron beam passes through a point where magnetic field of 2x1 0° Wb/m’ and electric
+field of 3.4x 10* V/m both acting simultaneously and perpendicular to each other so that the path
+of electrons remains unchanged. Calculate the speed of electrons. If the electric field is switched
+off, what will be the radius‘of circular path? Hence verify the correctness of the value of the
+specific charge of the electron. (Given, m = 9.1x10°' Kg and e =1.6 x 10° C)
 
-soHg"?**.
+[6]
 
-Attempt all-
-Prove that the diameter of the nth dark ring in Newton’s ring is directly proportidmal to square root
+[4]
+[4]
 
-of ring number.
-In a Newton’s ring experiment, the diameter of the 15" ring was found to be 0.59 cm and that of 5h
+[6]
 
-ring was 0.336 cm. What is the radius of curvature of the plano-convex lens when light of
+[5]
+[3]
 
-wavelength 5880 A is used?
+[6]
+[4]
+[4]
+6]
 
-Define and derive an expression for the dispersive power of a grating in terms of grating constant
-and diffraction angle.
-
-Attempt all-
-
-Explain population inversion, active system and pumping.
-
-Discuss different loss mechanisms encountered in an optical fiber.
-
-A laser having power of 75 mW, wavelength 720 nm and an aperture 5 mm is focussed with a lens
-of focal length of 0.1 m. Calculate the area and intensity of the image.
-
-Attempt all-
-
-What is magnetostriction effect? Explain with appropriate schematic diagram how it is used for the
-production of ultrasonic waves.
-
-A quartz crystal having 3 mm thickness is vibrating at resonance. Calculate the fundamental
-frequency of vibration for which ultrasonic waves are generated. [Given: Density of quartz = 2650
-kg/ m3, and Young’s modulus = 7.9 x 10"° N/m’] Can this wave be sent to the moon from the
-NMIMS laboratory?
-
-Write short note on any two thermal properties of the materials.
-
-ab
+[5]
+(3]
 ````
 
 ## 2017-18 · Re-Exam · Sem 2 · paper 5a8c2e9dd5a5
@@ -2884,452 +3717,362 @@ c Foracertain metal the critical magnetic field is 5 x 103 A/m at 6 K and 2x 10*
 Determine its transition temperature. .
 ````
 
-## 2016-17 · Re-Exam · Sem 1 · paper 5f65556e87c1
+## 2016-17 · Re-Exam · Sem 1 · paper 7a26fd483d90
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS (ALL STREAMS) BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 08 November 2019
-- Text: ocr (3 pages), mean OCR confidence 93.6
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS (ALL STREAMS), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 26 May 2017
+- Text: ocr (2 pages), mean OCR confidence 91.3
 
 ````text
-MPSTME ~
-
-LIBRARY
-
-/ SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (All Streams) Year: I Semester: I
-a
-Academic Year: 2019-20 - “
-Subject: Engineering Physics
-@ ; Marks: 70 ~
-Date: 08 November 2019 Time: 10.00 am - 1.00 pm
-‘ Durations: 3 (hrs) ~
-No. of Pages:
-
-Re-Examination (2016-17)   ~
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume-guitable data if necessary.
-
-Q.1 Attempt any seven.
-
-a. Define unit cell and primitive cell. [02]
-
-b. Describe the method along with appropriate formula to measure phase [02]
-difference between two signals using cathode ray oscilloscope.
-
-c. Give any two applications of wedge-shaped air film. [02]
-
-d. Give any two advantages and disadvantages of magnetostriction oscillator. [02]
-
-e. Define Fermi level in semiconductor. Draw diagram showing the position of [02]
-
-ial Fermi levels in case of n-type and p-type semiconductors.
-
-f. Give any four properties of high Tc superconductors. [02]
-
-g. Explain why simple heating cannot achieve population inversion. [02]
-
-h. State Boltzmann’s distribution law and hence show that in normal conditions [02]
-ground state will remain most populated.
-
-Ls Define dielectric strength and give any two factors affecting apparent dielectric [02]
-strength.
-
-&
-
-i/3
---- page 2 ---
-Q2
-
-Q.3
-
-Q.4.
-
-Determine atomic radius, effective number of atoms, co-ordination number,
-atomic packing fraction and density of FCC lattice with the help of appropriate
-diagram.
-
-Determine the limiting radius ratios for ligancies 3 and 4 of an ionic crystal
-with the help of appropriate diagrams.
-
-X-rays of unknown wavelength give first order Bragg reflection at glancing
-
-angle 20° with (212) planes of copper having FCC structure. Calculate the
-wavelength of X-rays if the lattice constant for copper is 3.615 A.
-
-Define Hall Effect and derive expressions for the hall voltage and hall
-coefficient with the help of appropriate diagram.
-
-Sketch and explain variation of Fermi level with temperature for n-type
-semiconductor. Also sketch the variation of Fermi level with increasing donor
-concentration for n-type semiconductor.
-
-A sample of intrinsic Si at room temperature has a carrier concentration of
-1.5 x 10'8/m*. A donor impurity is added to the extent of 1 donor atom per 108
-atoms of Si. If the concentration of Si atoms is 5 x 107° atoms/m?, determine
-the resistivity of the material. (Given: Mobility of electrons = 0.135 m2/V.s and
-Mobility of holes = 0.048 m?/V.s.; Charge of electron = 1.602 x 1079 C).
-
-Derive expression for the horizontal and vertical distance travelled by an
-electron projected at an angle 6 with the horizontal direction into a uniform
-electric field with the help of appropriate diagram.
-
-Explain with neat diagram electrostatic focusing.
-
-An electron shot into a uniform magnetic field at an angle 60°moves in a spiral
-of diameter 10 cm and with a period of 6 x 10° s. Determine the magnetic
-induction and electron velocity.
-
-(Mass of electron = 9.11 x 107! kg; Charge of electron = 1.602 x 10°7!? C).
-
-Explain interference in thin films and obtain the condition for maxima and
-minima of light reflected from a thin transparent film of uniform thickness with
-the help of appropriate diagram.
-
-What is a diffraction grating? Give the expression for intensity due to
-diffraction from grating and explain the meaning of each term in this
-expression. Also draw the intensity distribution curve for the same.
-
-In a Newton’s ring experiment, the diameter of the 15" ring was found to be
-0.59 cm and that of the 5" ring was 0.336 cm. If the radius of the plane-convex
-lens is 100 cm, calculate the wavelength of light used. Also, calculate the
-diameter of 15" ring if air film is replaced with liquid of refractive index 1.5.
-
-2/3
-
-[6]
-
-[4]
-[4]
-
-[6]
-[4]
-
-[4]
-
-(6]
-
-[4]
-[4]
-
-[6]
-[4]
-
-[4]
-
-\
---- page 3 ---
-Aa
-
-Explain with neat diagrams the construction and working of He-Ne laser.
-
-Describe the propagation of light in an optical fibre and obtain expressions for
-critical angle and numerical aperture in terms of its core and cladding refractive
-indices with the help of appropriate diagram.
-
-Calculate the ratio of populations of two states in a He-Ne laser that produces
-
-light of wavelength 6328 A at 27. (Given: Boltzmann’s constant
-k=8.61 x 10° eV).
-
-Explain any three thermal properties of materials in brief.
-
-Explain the salient features of BCS theory.
-
-A quartz crystal having thickness t is vibrating at resonance. The fundamental
-frequency of vibration is f. If the thickness is made twice its original value,
-what will be its new frequency? If thickness is reduced to half what will be its
-frequency?
-
-3/3
-
-[6]
-[4]
-
-[4]
-
-[6]
-[4]
-[4]
-````
-
-## 2016-17 · Re-Exam · Sem 1 · paper 93c8cf529193
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS BATCH 15-16 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 30 May 2018
-- Text: ocr (3 pages), mean OCR confidence 93.0
-
-````text
-j SVKM’s NMIMS j
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING “
-: Programme: B. Tech (All Streams) 2 Year: I Semester: I
-co
-Batch: 2015-16 / 2016-17
-a Academic Year: 2017-2018
-Subject: Enggineering Physics
-- Marks
-Date: 30 May 2018 — Time: 1@
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Attempt any seven
-
-a. Draw the energy band structure of an insulator and semiconductor. ‘ [02]
-
-b. Define the following 1) Interference of light 2) Resolving power of grating, ; [02]
-
-c. How CRO can be used in the determination of unknown frequency using
-
-Lissajous pattern method? [02]
-
-d. Discuss in brief the Frenkel defect. [02]
-
-e. Explain the thermal properties: heat capacity and thermal conductivity. [02]
-
-f. Define the superconductivity. Enlist any two properties of superconductors. [02]
-
-g. Mention any four applications of optical fibers. [02]
-
-h. Enlist any four properties of ultrasonic waves. [02]
-— i. Describe with formula the electrical conductivity of a material. [02]
-we Q.2
-
-a. Define Newton’s rings. Obtain an expression for the diameter of m™ dark rings in
-
-ib
---- page 2 ---
-reflected system. Explain why the central fringe a dark spot when examined in
-
-reflected light? [06]
-b. Explain surface and volume defects in a crystal. [04]
-c. Define dispersive power of grating. A grating has 15 cm of the surface ruled \
-
-with 6000 lines / cm. What is the resolving power of grating
-
-in the first order? [04]
-
-Q.3
-‘a. What is uniform electric field? Obtain the equation of the path travelled by
-
-an electron in a uniform transverse electric field. An electron starts from rest and
-moves freely in an electric field of intensity 1500 V/m. Determine acceleration
-attained by the electron.
-
-‘(Charge of electron = 1.602 x 1079 C, mass of electron = 9.11 x 10°! Kg). [06]
-b. Draw crystal planes having Miller indices (1 1 1), (1 1 0), (2 1 1) and (3 2 1) ina
-simple cubic-crystal. : [04]
-
-c. A laser beam has a power of 50 mW. It has an aperture of 5 x 10° m and
-wavelength 7000 A. The beam is focused with a lens of focal length of 0.2 m.
-
-Calculate the areal spread and intensity of the image. [04]
-Q4
-a. Explain the effect of impurity concentration and variation of temperature on the
-
-Fermi level in an N type semiconductor with energy band diagrams. [06]
-
-b. An electron is projected at an angle of 37° to the horizontal at an initial speed of
-4.5 x 10° m/s in a region of uniform electric field 200 N/C.
-(i) Find the time it takes the electron to return to its initial height.
-
-(ii) Find the maximum height reached by the electron. [04]
-c. Determine the lattice constant for FCC lead crystal of radius 1.746 A.
-Also find the spacing of (i) (111) planes, (ii) (200) planes, (iii) (220) planes. [04]
-Q.5
-a. Explain with neat diagrams the construction and working of He —Ne laser. [061
-b. Show that the Fermi level in an intrinsic semiconductor lies in the middle of the
-energy gap. : [04]
-c. Ina Newton’s rings experiment the diameter of the 4" and 12" dark rings are
-0.400 cm and 0.700 cm respectively. Determine the diameter of 20" dark ring. [04]
-Q.6
-— a. What is attenuation in an optical fibre? Explain the attenuation mechanisms. [06]
-b. Explain in brief type I and type II superconductors. [04]
-pes c. Ina hall experiment, a current of 0.25 A is sent through a metal strip having
-thickness 0.2 mm and width 5 mm. The Hall voltage is found to be 0.15 mV
-
-b
---- page 3 ---
-when a magnetic field of 2000 gauss is used.
-(1) What is the carrier concentration?
-
-(2) What is the drift velocity of the carriers? [04]
-Q.7
-a. What is piezoelectric effect? Explain the working of a piezoelectric oscillator
-
-with its merits and demerits. [06]
-
-b. (1) The critical field of niobium is 1 x 10° A/m at 8 K and 2 x 10° A/m at 0 K.
-Calculate the transition temperature of the element.
-(2) The critical magnetic field at 5 K is 2 x 10° A/m in a superconductor ring
-
-of radius 0.02 m. Find the value of critical current. [04]
-c..Explain in brief elasticity and plasticity in accordance with the stress — strain curve.
-Also explain the yield point on the curve. [04]
-````
-
-## 2016-17 · Re-Exam · Sem 1 · paper 38f7fce2e1c8
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 November 2018
-- Text: ocr (3 pages), mean OCR confidence 93.6
-
-````text
-ee
-
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (All Streams) Year: I Semester: I
-~ = “
-Academic Year: 2018-2019
+Programme: B. Tech. (All Streams) : Year: I Semester:I
 
-Subject: Engineering Physics
+Batch: 2013-14 ra
 
-“ Marks: 70
-Date: 16 November 2018 Time: 10.00 am
-‘ “ Durations: 3 (hrs
+Academic Year: 2016-2017 pn
+Pr Lid
+Subject: Engineering Physics . a -
+co Marks: 100. bY
+Date: 26 May 2017 — Time: 10.00 amto 1.00pm ~ /
 
-No. of Pages : Dp cu
-Re-examination (2015-16 / 2016-17)
+Durations: 3 (he " S, &
+No. of Pages: “4 a ,
+Re-Examination Se
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer Book, which is provided for their use.
+Instructions:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answers to each new question to be started on a fresh page.
+6. Figures in bracket on the right hand side indicate full marks.
 
-1) Question No. 1 is compulsory.
+Que.1: Attempt any five of the following.
+a) Draw plane (021) and direction [130]. [04]
+b) Define any four mechanical properties of materials. [04]
+c) Explain the resolving power and dispersive power of grating. [04]
+d) How an unknown a.c. voltage can be measured using a CRO? . [04]
+e) What is Fermi-Dirac Distribution function? [04]
+f) What is V-number? Mention its importance in fibers. . [04]
+g) Explain Isotope law in superconductors. [04]
 
-2) Out of remaining questions, attempt any 4 questions.
+Que.2: a) Describe the structure of SCC lattice and hence, compute the (i) effective no. of atoms per [10]
+unit cell (ii) coordination number iii) atomic radius and (iv) atomic packing fraction and v)
+void space in it.
 
-3) In all 5 questions to be attempted.
+b) Derive the relation dix = a/V h?+k?+I2, giving a diagram, where the symbols have their [06]
+usual meanings,
+
+c) The spacing between the principal planes in a crystal of NaCl is 2.82 A® . If First order [04]
+Bragg reflection occurs at 10° , determine the wavelength of X- rays. At what angle the
+second order reflection will occur?
+
+Que.3: a) Derive the conditions for maxima and minima in the interference pattern obtained in [10]
+reflected light from a thin parallel film.
+
+=o b) Discuss the diffraction from a diffraction grating by giving expression of intensity at a [06]
+. point on screen with neat labeled diagram. What is grating equation?
+pias c) In Newton’s rings experiment the diameters of 5" and 15" dark rings are found 0.336 cm [04]
+
+and 0.590 cm, respectively. What is the radius of curvature of the plano-convex lens when
+light of wavelength 5893 A is used?
+--- page 2 ---
+Que.4: a) Derive an expression of deflection produced of an electron beam entering perpendicular to [10]
+a transverse magnetic field.
+b) Derive the relation Er = Ec / 2, giving a diagram, where the symbols have their usual [06]
+
+meanings.
+c) What is Hall effect? [04]
+Que.5: a) Explain the construction and working of Ruby laser with energy level diagram. [10]
+b) Discuss the Fiber optic communication in brief, giving block diagram. [06]
+
+c) Find the necessary core radius for single mode operation at 850 nm in step index fiber with [04]
+refractive indices of core and cladding 1.48 and 1.47, respectively. Also determine the
+numerical aperture and acceptance angle of this fiber. ;
+
+Que.6: a) Describe the principle, construction and working of a piezoelectric oscillator for generation [10]
+
+of ultrasonic waves.
+b) Explain (i) NDT and (ii) Cavitation. [06]
+
+c) The transition temperature for given metal is 7.26 K. The maximum critical field for that [04]
+- metal is 8 x 105 A/m. Determine the temperature below which the material will become
+superconductor at a magnetic field of 4 x 10 4 A/m.
+
+Que.7: a) What is superconductivity? Give BCS theory in brief to explain it. [10]
+b) Compare Type-I and Type-II superconductors. c ; [06]
+c) Define any four important thermal properties of materials. [04]
+
+Zh
+````
+
+## 2016-17 · Re-Exam · Sem 1 · paper b365ec499b0b
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (AL STREAMS), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 26 November 2016
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+a
+
+: SVKMW’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (All Streams) Year : I Semester : I
+Batch : 2015-2016 .
+
+Academic Year : 2016-2017
+
+\ ae
+Subject : Engineering Physics Marks : 70
+
+Time: 2.0 tA Ere a
+i Date : 26 November 2016 Duration : 3'{
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. -
+
+NB: :
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) Inall FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on’a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any seven
+
+a. Define ligancy and critical radius ratio. . [2]
+b. Draw the following planes with reference to the cubic unit cell [2]
+(211) and (301).
+
+_c. The electron and hole mobilities ina Si sample ar are 0.135 and 0.048 m’/V-s respectively. If the [2]
+conductivity of intrinsic Si at 300 K is 4.39 x 10% (Q-m)", determine the intrinsic carrier
+concentration of Si at that temperature.
+
+d: Define electric field intensity and magnetic field intensity. [2]
+e. Explain isotope effect of superconductor. [2]
+f. _ Define ductility and malleability of materials. [2]
+g. State the basic differences between a laser and an ordinary light. [2]
+h. Define V- number. How it is related to the number of modes that are allowed to pass througha = [2]
+step index fiber? ~ .
+i. What are coherent waves? How do we define optical path? . [2]
+Q2
+— a Explain stam packing factor. What is its significance? Determine the atomic <Badling factor for [6]
+: SC and FCC unit cell. ; :
+oe vA .b. Determine the perpendicular distance between the two planes indicated by the Miller indices [4]
+
+(121) and (212) in a unit cell of a cubic lattice with a lattice constant parameter ‘a’.
+c. An electron with energy of 50 eV enters a perpendicular field of magnetic strength 0.04 Wb/ m.. [4]
+Find the radius of its path in the field.
+
+ah man des 41 rio 3! Fg
+
+: .
+Change serve ne Me
+--- page 2 ---
+Q.3
+
+What is Fermi level? Prove that for an intrinsic semiconductor Fermi level lies half way between _
+
+valance and conduction band. °
+
+‘A Si sample is doped with 10"” phosphorus atoms/ cm®. Mobility of charge carrier is 700 cm’/V-
+sec. Find the resistivity and Hall voltage in a sample 100 ym thick, if], =1 mA and B= 1kG=
+10° Wb/cm?. :
+
+Briefly explain the different loss mechanism of signals in optical fiber.
+
+Obtain the expression for velocity of an electron moving in a mutually perpendicular electric
+and magnetic field. How this concept is used as a velocity selector?
+
+Differentiate between type I and type II superconductors.
+
+The critical field and critical temperature of lead are 6.5 x 10* Am" and 7.18 K, respectively.
+Calculate critical current density for 1 mm diameter wire of lead at 4.2 K.
+
+Prove that the diameter of the nth dark ring in Newton’s ring is directly proportional to square
+root of ring number.
+
+Define and derive an expression for the dispersive power of a grating.
+
+Differentiate between single mode and multimode optical fiber.
+
+Explain the construction and operation of He-Ne laser along with energy level diagram.
+What. is meant by pumping in relation with laser production? Why it is not possible to
+achieve population inversion by simply heating the lasing material?
+
+A ruby laser has its metastable state at 1.79 eV from which the stimulated emission
+produces laser light. Calculate the wave length of the light. If 1 mole of Cr*? ions are
+involved in population inversion process in a pulse, calculate the pulse energy in eV.
+[Given, h = 6.625 x 104 J-s = 4.14 x 10°? eV-s, c= 3 x 10° m/s]
+
+Describe different types of electrical properties of materials. Explain thermal conductivity and
+heat capacity of materials.
+
+Explain how a magnetostriction oscillator can be used to generate ultrasonic waves.
+
+Calculate the length of an iron rod which can be used to produce ultrasonic waves of 20
+KHz. Density from iron = 7.23 x 10? kg/m’. Young’s modulus of iron = 11.6 x 10'°
+N/m?. Can this wave be sent to the moon from the NMIMS laboratory?
+
+%
+
+[6]
+[4]
+
+‘4
+
+[6]
+
+[4]
+[4]
+
+[6]
+[4]
+[4]
+[6]
+[4]
+
+[4]
+
+[6]
+
+[4]
+[4]
+````
+
+## 2016-17 · Re-Exam · Sem 1 · paper b7778db69efe
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS BATCH 15-16-16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 26 May 2017
+- Text: ocr (2 pages), mean OCR confidence 93.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech. (All Streams) Year: I Semester: I
+
+Batch: 2015-16 / 2016-17
+Academic Year: 2016-2017
+
+Subject: Engineering Physics ~ 3
+f Marks: 70 ~ i |
+ie Date: 26 May 2017 ~ Time: 10.00
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
 
-Q.1 Attempt any seven
+7) Assume Suitable data if necessary and draw neat labeled diagram wherever necessary.
 
-a. Draw a neat sketch of the temperature variation of carrier concentration [02]
-in n-type semiconductor.
-b. Define the following 1) Diffraction of light 2) Dispersive power of grating. [02]
-c. What is the need of the aquadag coating inside the glass bulb ina CRT? [02]
-d. Discuss in brief the Schottky defect. [02]
-e. Explain electrical properties: ferroelectricity and dielectric strength. [02]
-f. Enlist any four properties of high Tc superconductors. [02]
-g. Write a short note on loss of optical signal due to scattering. [02]
-h. Enlist any four applications of ultrasonic waves. [02]
-i. Describe with formula the coefficient of thermal conductivity of a material. [02]
+Que.1: Attempt any seven of the following:
+a) What are Bravais lattices? . [02]
+b) Give any four applications of Newton’s rings phenomenon. [02]
+c) Compare stimulated and spontaneous emission processes (any four). * : [02]
+d) What is Meissner effect? [02]
 
-1,
+e) Discuss in brief the principle used in the method for generation of low frequency [02]
+ultrasonic waves.
+
+f) How frequency ofan a.c. signal can be measured using a CRO? [02]
+g) Why sheath/jacket is needed in fibers? [02]
+h) Define Fermi-Dirac distribution function with expression. ; [02]
+i) Enlist thermal properties of the materials and explain any one. [02]
+
+Que.2: a) Determine the following terms for BCC crystal structure-(i) effective number of atoms [06]
+per unit cell, (ii) atomic radius (iii) coordination number (iv) APF.
+b) Derive the relation between interplanar distance and lattice constant of a cubic crystal [04]
+structure.
+— c) The lattice constant for unit cell of Aluminium is 1.04 A. Determine the distances [04]
+between planes with Miller indices (i) <200>, (ii) <110>, (iii) <111>.
+
+Que.3: a) Show that in Intrinsic Semiconductors Fermi energy level lies exactly in between the [06]
+conduction band and the valance band.
+b) Determine the probability of occupancy for a state whose energy is (i) 0.1 eV above and [04]
+Gi) ~ 0.1 eV below, the Fermi energy level and (iii) equal to the Fermi energy, at a
+temperature of 800 K.
+c) Explain Hall effect using a diagram. What parameters of semiconductor crystals canbe [04]
+determined using Hall effect?
+
+yp
 --- page 2 ---
-Q.2
+Que.4: a) Show how the concept of motion of charged particles can yield measurement of specific [06]
 
-a. Define thin film. Obtain an expression for the path difference for interference in [06]
-parallel thin film due to reflected light.
+charge of the electrons.
 
-b. Explain edge and screw dislocations with neat diagrams. [04]
+b) Discuss the motion of electrons perpendicular to the magnetic field. [04]
 
-c. Define resolving power of grating. The sodium yellow doublet has wavelengths [04]
+c) An electron beam passes through a magnetic field of 2 x 10° Wb/m? and an electric [04]
+field of 3.4 x 10‘ V/m both acting simultaneously perpendicular to each other. If the
+path of the electrons remains undeviated, calculate the speed of electrons. What will be
+the radius of the electron path if the electric field is switched off?
 
-5890 A and 5896 A. What should be the resolving power of grating to resolve these lines?
+Que.5: a) Derive the condition for minima in Newton’s rings, and hence prove that radii of dark [06]
 
-Q.3
+rings are proportional to square root of natural numbers. ,
 
-a. Explain in brief type I and type II superconductors. [06]
-b. Describe the losses in optical fiber due to materials. [04]
-c. Ina hall experiment, a current of 0.30 A is sent through a metal strip having [04]
+b) Define (i) grating element (ii) dispersive power and (iii) resolving power of grating, [04]
+giving their expressions.
 
-thickness 0.2 mm and width 5 mm. The Hall voltage is found to be 0.20 mV
-when a magnetic field of 2000 gauss is used.
+c) A diffraction grating used at normal incidence gives a spectral line of wavelength [04]
+6000A in a certain order, which is superimposed on other spectral line of wavelength
+4500 A of the next order. If the angle of diffraction is 33°, how many lines/cm are there
+in the grating.
 
-(1) What is the carrier concentration?
+Que.6: a) Explain the construction and working of CO? gas laser. [06]
 
-(2) What is the drift velocity of the carriers?
+b) A fiber is made of glass with refractive index 1.55 and is claded with another glass with [04]
+a refractive index 1.51. The fiber has a core diameter of 50 pm and is used at a
+wavelength of 0.8 um. Determine (i) numerical aperture (ii) critical angle (iii) V- no.
+and (iv) number of modes propagating.
 
-Q4
-a. What is Hall effect? Derive the relation between Hall voltage and Hall coefficient. [06]
+c) Determine the ratio of the population in the two states in a He-Ne laser producing a [04]
+light beam of wavelength of 6328 A at a temperature of 27° C. Given: K = 1.38 x 103
+J/K and h = 6.63 x 104 J.s.
 
-b. 2 keV positron is projected into a uniform magnetic field of induction 0.1 T with [04]
-its velocity vector making an angle of 89 degree with the field. Find the period and
-pitch of the helical path of the positron.
-(mass of positron = 9.11 x 107! kg, charge of positron = 1.60 x 107° C)
+Que.7: a) Explain any three mechanical properties of the materials in brief. [06]
+b) The ultrasonic echo pulse method is used with defective and non-defective steel bars [04]
+of thickness 50 cm. If pulse arrival times are 35 us and 75 us, respectively then locate
+the distance at which defect is present.
+c) Determine the critical field of a material at 2 K, which has a critical temperature of 3.7 [04]
+K in absence of magnetic field and a critical field of 0.0306 T at0 K.
 
-c. The density of copper is 8980 kg/m? and unit cell dimension is 3.61 A. Atomic wt. [04]
-of copper is 63.54. Determine crystal structure. Calculate atomic radius.
-(Avogadro number = 6.02 x 107°/ k.mol.)
-
-Q5
-
-a. What is Magnetostriction effect? Explain the working of a Magnetostriction [06]
-oscillator with its merits and demerits.
-
-b. (1) The critical field of niobium is-1 x 10° A/m at 8 K and 2 x 10° A/m at 0K. [04]
-
-Calculate the transition temperature of the element.
-(2) The critical magnetic field at 5 K is 2 x 10° A/m in a superconductor ring
-of radius 0.02 m. Find the value of critical current.
-c. Explain in brief elasticity and plasticity in-accordance with the stress — strain curve. [04]
-Also explain the yield point on the curve.
-
-Q.6
-
-a.-Explain with neat diagrams the construction and working of Ruby laser. [06]
-b. Derive the expression for the Fermi level in the intrinsic semiconductor. [04]
-c. Ina Newton’s rings experiment the diameter of the 4" and 12" dark rings are [04]
-
-0.500 cm and 0.800 cm respectively. Determine the diameter of 20" dark ring.
-
-2)
---- page 3 ---
-Q7
-
-a. What is homogeneous magnetic field? Determine e/m of an electron by Thomson [06]
-method.
-
-b. Draw crystal planes having Miller indices (2 00), (110),(111)and(100)ina [04]
-simple cubic crystal.
-
-c. A laser beam has a power of 70 mW. It has an aperture of 5 x 10° m and [04]
-wavelength 7000 A. The beam is focused with a lens of focal length of 0.2 m.
-Calculate the areal spread and intensity of the image.
+24
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper baa262663a01
@@ -3647,166 +4390,6 @@ Ya
 [4]
 ````
 
-## 2016-17 · Re-Exam · Sem 2 · paper 8f4d7a15df6f
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engineeirng physics Re-exam 2015-16,2016-17.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 05 May 2018
-- Text: ocr (3 pages), mean OCR confidence 92.3
-
-````text
-‘ SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (All Streams) Year: I Semester: IT
-Academic Year: 2017-2018
-
-Subject:Engineering Physics .
-
-‘ Marks:70
-
-Date:05 May 2018 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-
-No. of Pages : - OF
-
-Re-examination (2015-16 / 2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-[Data given: Electronic mass, me = 9.1 x 10°! kg, Electronic charge, e = 1.6 x 10°” C, Planck’s constant,
-h = 6.625 x 10" J-s = 4.14x 10°” eV-s, speed of light, c= 3 x 108 m/s, Boltzmann’s constant, k = 8.625 x
-10° eV/K.)
-
-Q.1 Attempt any seven
-a. Describe lattice parameters with a proper figure. [2]
-b. Define Miller indices. What do they signify? [2]
-c. Consider the Fermi level 0.3 eV below the conduction band at room temperature (=27°C) inan [2]
-n-type semiconductor. If the temperature is raised to 57°C, what would be the new position of
-Fermi level?
-
-d. How can we find out an unknown frequency using a cathode ray oscilloscope? [2]
-e. Explain isotope effect of superconductor. [2]
-f. Define electrical conductivity and dielectric strength. [2]
-g. What is meant by population inversion? Why it is significant for laser production? [2]
-EE
-Is
---- page 2 ---
-Q.2
-
-A silica optical fiber has a core refractive index of 1.48 and a numerical aperture of 0.649.
-Determine (i) the refractive index of the cladding and (ii) the critical angle at the core — cladding
-interface.
-
-Describe the formation of color in soap film as seen in sunlight.
-
-State and prove Bragg’s law related to x-ray diffraction by crystals. Why x-ray is used to study
-crystal structure by diffraction method?
-
-An element has atomic mass 120 gm and BCC structure. Density of the element is 5.2 gm/cm?.
-Calculate the number of unit cells in 20 gm.
-
-' Ina CRT the distance from the centre of the coil to the screen is 0.3m. The length of the field
-
-along the axis is 5 cm. Calculate the magnetic flux density B required to produce a deflection of
-3 cm on the screen if the accelerating anode voltage is 1 KV.
-
-What is an intrinsic semiconductor? Derive the expression for the conductivity of an intrinsic
-semiconductor in terms of mobility and concentrations of charge carriers.
-
-An electric field of 100 V/m is applied to a sample of n-type semiconductor whose Hall
-coefficient is -0.0125 m3/C. Determine the current density in the sample, assuming the electron
-mobility to be 0.36 m?V"s",
-
-A step index fibre has a core diameter of 40 tm and and core and cladding refractive indices are
-1.461 and 1.456, respectively. It’s working at a wavelength of 850 nm. Find out the V-number
-and the number of modes guided in the core.
-
-Obtain the expression for the deflection of the charged particle passing perpendicular to uniform
-magnetic field.
-
-Explain Meissner effect in superconductors with proper diagram and hence show that
-superconductors have a magnetic susceptibility equal to -1.
-
-Determine the penetration depth of mercury at OK, if the critical temperature of mercury is 4.2K
-and the penetration depth is 57 nm at 2.9 K.
-
-Derive the conditions for constructive and destructive interference in a wedge shaped film due
-to reflected light with proper diagram.
-
-Why the central fringe of a Newton’s ring appears dark when viewed through reflected light?
-What are the advantages of optical fiber vis-a-vis conventional metal wires?
-
-What are Einstein’s A and B coefficients for laser action? Derive the relationship between them.
-Describe the merits of 4-level lasers compared with 3-level lasers.
-
-A typical gas laser system is capable of lasing at infrared wavelength of 3.124 um. What is the
-difference in the energy levels of the excited state and metastable states? What will the energy
-
-‘p
-
-[2]
-
-[2]
-
-[6]
-[4]
-
-[4]
-
-[6]
-
-[4]
-
-[4]
-
-[6]
-[4]
-
-[4]
-
-[6]
-
-[4]
-[4]
-
-[6]
-[4]
-[4]
---- page 3 ---
-Q.7
-
-of the photon emitted? What will be the frequency of the light emitted? If 1 mole of molecules
-are involved in lasing transitions per second, what is the power of laser output?
-
-Describe three of thermal properties of materials.
-
-Write short notes on different medical applications of ultrasonic waves.
-
-Calculate the frequency of the ultrasonic wave produced due to an iron rod of length 10 cm used
-in magnetostriction oscillator. Density from iron = 7.23 x 10° kg/m. Young’s modulus of iron =
-11.6 x 10'° N/m?. Why ultrasonic waves are used in SONAR?
-
-[6]
-[4]
-[4]
-````
-
 ## 2015-16 · Final-Exam · Sem 1 · paper a40be031dd8e
 
 - Departments: Common (all branches)
@@ -3814,6 +4397,7 @@ in magnetostriction oscillator. Density from iron = 7.23 x 10° kg/m. Young’s 
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (ALL STRAMS), FINAL EXAM YEAR 2015-16.pdf`
 - Printed on paper: exam date: 28/11/2015
 - Text: ocr (2 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3859,7 +4443,6 @@ Q2
 a Show that the spacing between consecutive planes in cubic crystals defined by Miller {6]
 indices (hkl) is given by, dinky = a / (h? + k? + I*)!?. Cu has FCC structure. If the
 interplaner spacing is 2.08 A for the set of (111) planes, find the density of the Cu atom.
-Atomic weight of Cu is 63.54. Abfogacl gong = 601K 1922 aden Jamntte
 — b Differentiate between Schottky defect and Frenkel defects. ( Minimum four points) [4]
 c Draw the following planes and direction. [4]
 od (120), (1 2 1), [312] and [200].
@@ -4235,6 +4818,118 @@ having density = 7300 kg/m? and Y = 11.6 x 10!° N/m’.
 \
 ````
 
+## 2015-16 · Re-Exam · Sem 1 · paper 1b0f0815b487
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS ALL STREAMS BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 June 2016
+- Text: ocr (2 pages), mean OCR confidence 89.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (All Streams) Year: I Semester: I
+
+Academic Year: 2015-16
+
+Batch: 2014-15 Marks: 60
+Subject: Engineering Physics Time: 2.00 pm — 5.00 pm
+Date: 09 June 2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instructions: candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB: WA NN
+
+1. Question no | is compulsory. f~ :
+2. Out of remaining attempt any 4 questions. f f MPSTME YS
+3. In all 5 questions to be attempted. LIBRARY ip :
+4. All questions carry equal marks.
+
+5. Answers to each new question to be started on a fresh page.
+
+6. Figure in brackets on the right hand side indicates full marks.
+
+Ql. Attempt any six of the following (12)
+
+(a) Find out the Miller Indices of the given plane (123).
+
+(b) | Draw the variation of Fermi energy level of p-type and n-type semiconductors with
+change in temperature.
+
+(c) State Bethe’s law and also write its mathematical form.
+
+(d) | Why the Newton’s rings are circular and centre of interference pattern (reflected
+system) always dark?
+
+(e) | What is population inversion?
+
+(f) Find the NA of the fiber, which has the refractive index of cladding as 1.45 anda
+core refractive index of 1.5.
+
+(g) | Mention any two properties of Ultrasonic waves.
+
+(h) Define ferroelectricity.
+
+a Q2. Attempt the following
+
+(a) Draw neat diagrams of SC, BCC and FCC unit cells and show that the void space in (8)
+aaa SC, BCC and FCC monoatomic crystal is 47.6%, 32% and 26% respectively.
+
+(b) Calculate the glancing angle on cube (100) of rocksalt having lattice constant 2.814 (4)
+
+A corresponding to first order diffraction maximum for x-rays of wavelength 1.541
+
+A.
+
+| /2
+--- page 2 ---
+Q3. Attempt the following
+
+(a) | What are intrinsic semiconductors? Show that for an intrinsic semiconductor at low (8)
+temperature, Er = (Ec + Ev) /2.
+
+(b) Find the resistivity and conductivity of intrinsic germanium at 300 K. Given the (4)
+
+density of carriers as 2.5 x 10!9 /m3, pe= 0.45 m?/ volt-sec and n= 0.25 m?/ volt-
+
+sec.
+
+Q4. Atiempt the following
+(a) Explain electrostatic focusing, in detail, along with figure. (8)
+
+(b) Prove that the phase shift of a signal is @ = Sin! (AA’/BB’), using CRO. (4)
+
+Q5. Attempt the following
+
+(a) | Define Fringe width. Find the fringe width for a wedge shaped film. (8)
+
+(b) Light containing two wavelengths 11 and 22 falls normally on Plano convex lens of (4)
+radius of curvature R resting on glass plate. If the n® dark ring due to 11 that the
+
+radius of (n + 1)™ dark ring A2. Prove that the radius of nth dark ring of du is given
+
+by [a1 22R) / (Aa — 22) J.
+
+Q6. Attempt the following
+(a) Explain total internal reflection and Numerical Aperture. Derive the Numerical (8)
+Aperture for Step Index fiber.
+
+(b) Draw the construction figure and energy level diagram of Ruby laser. (4)
+
+Q7. Attempt the following
+(a) | Define Magnetostriction Effect. Explain how ultrasonic waves can be produced by (8)
+using Magnetostriction Oscillator.
+
+(b) Explain any two mechanical properties of a material. (4)
+
+Z/2
+````
+
 ## 2015-16 · Re-Exam · Sem 1 · paper 932b44319498
 
 - Departments: Common (all branches)
@@ -4349,151 +5044,281 @@ c) Determine the critical field of a material at 2 K, which has a critical tempe
 in absence of magnetic field and a critical field of 0.0306 T at 0 K.
 ````
 
-## 2015-16 · Re-Exam · Sem 1 · paper b365ec499b0b
+## 2015-16 · Re-Exam · Sem 1 · paper 3fbe834bd134
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (AL STREAMS), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 26 November 2016
-- Text: ocr (2 pages), mean OCR confidence 89.2
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 28/11/2015
+- Text: ocr (3 pages), mean OCR confidence 89.8
 
 ````text
-a
+Re-Examination
 
-: SVKMW’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (All Streams) Year : I Semester : I
-Batch : 2015-2016 .
+Programme: B. Tech (All Streams) Year: I Semester: I
+Batch: 2013-2014
+Academic Year: 2015-2016
 
-Academic Year : 2016-2017
+Subject: Engineering Physics
+Marks: 100
 
-\ ae
-Subject : Engineering Physics Marks : 70
+Date: 28/11/2015 Time: 2.00 Dae y A:
 
-Time: 2.0 tA Ere a
-i Date : 26 November 2016 Duration : 3'{
+"46 .,
+core
+Oa ae
+Re-Examination
+
+Instructions: candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+
+1. Question no 1 is compulsory.
+
+2. Out of remaining attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answers to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicates full marks.
+
+Q1. Attempt any five of the following (20)
+
+(a) Explain why first ring of the Newton’s ring is always a dark ring. Justify your
+answer with relevant expressions.
+
+(b) | What is point defect in crystals? List number of point defects and draw self-
+explanatory diagram to define the type of point defects.
+
+(c) State Hall effect. List any four applications with relevant formula of Hall effect.
+
+(d) | What is population inversion and stimulated emission?
+
+(e) Explain how phase difference between two signals and frequency of an unknown
+signal can be obtained using CRO.
+
+(f) List any four differences between type | and type I] superconductors.
+
+(g) Sate magnetostriction effect. Write the formula used to calculate the ultrasonic
+wave frequency generated by magnetostriction oscillator. Define each term used in
+
+it.
+
+| Le,
+--- page 2 ---
+Q2 Attempt the following
+
+(a) Derive the expression of maxima and minima in case of thin film with uniform (15)
+thickness. Write any two examples from real life where you can observe maxima
+minima from thin film.
+
+(b) How many orders will be visible if the wave length of the incident radiation is (5)
+
+5893A° and the number of lines on the grating is 2540/inch.
+
+Q3 Attempt the following
+
+(a) What is numerical aperture of the optical fiber? Derive the expression for (10)
+Numerical Aperture and acceptance angle for Step Index fiber.
+
+(b) Consider a multimode step index fiber with core refractive index nl=1.53 and core (10)
+refractive index n2=1.50, and wavelength of incident light is 50 micrometer then
+calculate the V number of the fiber, and number of modes supported by the fiber.
+
+In order to make the above fiber a single mode fiber, what should be the change in
+
+radius of the core?
+
+Q4 Attempt the following
+
+(a) Define Ligancy for the ionic crystals? Calculate the ratio of radius of cation to (10)
+radius of anion for ligancy 3.
+
+(b) Derive the expression for inter-planar spacing in terms of miller indices fora cubic (5)
+
+crystal.
+(b) Calculate the glancing angles on the cube (100) of a rock salt (a=2.814A°) (5)
+
+corresponding to second order diffraction maximum for the X-rays of wavelength
+
+0.710 A.
+ee
+Q5 Attempt the following
+aa (a) Describe the construction and working of He Ne Laser with energy level diagram. (12)
+
+(b) With the neat diagram explain construction and reconstruction of hologram. (8)
+
+1
+
+—
+--- page 3 ---
+Q6 = Attempt the following
+
+(a) Define what is critical temperature, critical current density and critical magnetic (12)
+field for superconductors. Explain the phenomena of superconductivity with BCS
+theory.
+
+(b) The ultrasonic pulse echo method (flaw detection) is used with defective and non- (8)
+defective steel bar of thickness 40cm. If pulse arrival time are 30us and 60us, locate
+
+the distance at which the defect has occurred.
+
+Q7 Attempt the following
+(a) Inacrystal whose primitives are 1.2 , 1,8 and2 AU, aplane (231) cuts an intercepts (8)
+1.2 A° along X axis. Find the length of the intercepts along Y and Z axis.
+(b) Draw following with given set of intercepts (110), (142). (4)
+(b) Define following properties of the material (8)
+a Ferro electricity
+6 Elasticity
+° Electrical conductivity
+
+Stress
+
+%
+````
+
+## 2015-16 · Re-Exam · Sem 1 · paper a65cffd7d82c
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (ALL STREAMS), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 28/11/2015
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Semester: I
+Batch: 2014-2015
+
+Academic Year: 2015-2016 oaG\t OTE BF Rap,
+
+gro
+
+i upstuE )e |
+
+sebbbi YS
+(eon UAry
+Ore A
+
+Subject: Engineering Physics
+Marks: 60 §
+Date: 28/11/2015 Time: 2.00 j
+Duration: 3 (hrs.
 
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. -
-
-NB: :
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) Inall FIVE questions to be attempted.
-
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book which is provided for their use.
+NB: es
+1) Question No. one is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on-the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+Que 1. Attempt any four of the following (12]
+a. Describe Schottky defect and Frankel defect.
 
-5) Answer to each new question to be started on’a fresh page.
+_ b. Find out the maximum core diameter of an optical fibre whose core and
+cladding have refractive indices as 1.460 and 1.457 respectively, and
+which supports only one mode at 1.25 x 10° m wavelength.
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+c. A critical magnetic field of lead wire is 6.5 x 10° A/m at 0K. At what
+temperature would the critical magnetic field of lead drop to 4.5 x 10°
+A/m if the critical temperature of lead is 7.18 K? What is the critical
+current density at that temperature if the diameter of the wire is 2 x 10°
+m.
 
-Q.1 Attempt any seven
+d. Differentiate between type I and type II superconductors.
 
-a. Define ligancy and critical radius ratio. . [2]
-b. Draw the following planes with reference to the cubic unit cell [2]
-(211) and (301).
+e. Categorize lasers according to the energy levels and Jasing medium.
 
-_c. The electron and hole mobilities ina Si sample ar are 0.135 and 0.048 m’/V-s respectively. If the [2]
-conductivity of intrinsic Si at 300 K is 4.39 x 10% (Q-m)", determine the intrinsic carrier
-concentration of Si at that temperature.
+f, Explain thermal conductivity and thermal stresses of the material.
 
-d: Define electric field intensity and magnetic field intensity. [2]
-e. Explain isotope effect of superconductor. [2]
-f. _ Define ductility and malleability of materials. [2]
-g. State the basic differences between a laser and an ordinary light. [2]
-h. Define V- number. How it is related to the number of modes that are allowed to pass througha = [2]
-step index fiber? ~ .
-i. What are coherent waves? How do we define optical path? . [2]
-Q2
-— a Explain stam packing factor. What is its significance? Determine the atomic <Badling factor for [6]
-: SC and FCC unit cell. ; :
-oe vA .b. Determine the perpendicular distance between the two planes indicated by the Miller indices [4]
+a Calculate the number of atoms per unit cell, co-ordination number Cé]
+atomic radius, and atomic packing factor of FCC structure. Cu has FCC
+structure and atomic radius is 1.28 A. Calculate its density if its atomic
+weight is 63.5 Avogadro Number 6.023 x 10” /gm.mole
 
-(121) and (212) in a unit cell of a cubic lattice with a lattice constant parameter ‘a’.
-c. An electron with energy of 50 eV enters a perpendicular field of magnetic strength 0.04 Wb/ m.. [4]
-Find the radius of its path in the field.
+b What is ligancy and critical radius ratio? Find the value of critical radius Ce]
 
-ah man des 41 rio 3! Fg
+ratio for co-ordination number 6. What is the maximum size of cation in
 
-: .
-Change serve ne Me
+ligancy 6 configuration when the radius of anion is 2.86 A?
+
+Que 3. Attempt the following
+a, Explain the formation of energy bands on-the basis of band theory of [6]
+
+solids. Distinguish solids according to the energy band structure.
+b. i) Compare the variation of fermi levels in P and N type semiconductors (6]
+with temperature and doping concentration with suitable diagrams.
+ii) Fermi level in potassium is 2.1 eV. What are the energies for which
+the probability of occupancy at 300 K is 0.99 and 0.01?
+
+4 fe
 --- page 2 ---
-Q.3
+Que 4.
 
-What is Fermi level? Prove that for an intrinsic semiconductor Fermi level lies half way between _
+Que 5.
 
-valance and conduction band. °
+Que 6.
 
-‘A Si sample is doped with 10"” phosphorus atoms/ cm®. Mobility of charge carrier is 700 cm’/V-
-sec. Find the resistivity and Hall voltage in a sample 100 ym thick, if], =1 mA and B= 1kG=
-10° Wb/cm?. :
+Que 7.
 
-Briefly explain the different loss mechanism of signals in optical fiber.
+Obtain an expression for the deflection ‘y’ of a charged particle [6]
+subjected to uniform transverse magnetic field. If an electron moving
+with a effective vekoomy of 1.7 x 10’ m/s passes through a transverse
+orl field of 2 x 10° wb / m’, find the radius of the electron path.
 
-Obtain the expression for velocity of an electron moving in a mutually perpendicular electric
-and magnetic field. How this concept is used as a velocity selector?
+= 91x107!kg,e= 1.6 x 109°C
+ein the construction of CRO with suitable diagram and discuss the {6}
+frequency and phase angle between two signals measurement using
 
-Differentiate between type I and type II superconductors.
+CRO.
 
-The critical field and critical temperature of lead are 6.5 x 10* Am" and 7.18 K, respectively.
-Calculate critical current density for 1 mm diameter wire of lead at 4.2 K.
+Describe the formation of Newton’s ring in reflected light. Show that [6]
+the diameters of dark rings are proportional to square root of natural ”
+number. Why does the central spot in Newton’s ring appear to be dark
 
-Prove that the diameter of the nth dark ring in Newton’s ring is directly proportional to square
-root of ring number.
+in the reflected system?
+i)What is plane diffraction grating. Discuss and derive the resolving {6]
 
-Define and derive an expression for the dispersive power of a grating.
+power of the grating.
+ii) A diffraction grating has 5000 lines per cm and the total ruled width
+is 5 cm. Calculate, the resolving power and the smallest value of da
 
-Differentiate between single mode and multimode optical fiber.
+which can be resolved for 4 = 6000 A in second order.
 
-Explain the construction and operation of He-Ne laser along with energy level diagram.
-What. is meant by pumping in relation with laser production? Why it is not possible to
-achieve population inversion by simply heating the lasing material?
+Review the structure of typical optical fibre. Classify it based on index {e]
+pattern. Write differences between them.
 
-A ruby laser has its metastable state at 1.79 eV from which the stimulated emission
-produces laser light. Calculate the wave length of the light. If 1 mole of Cr*? ions are
-involved in population inversion process in a pulse, calculate the pulse energy in eV.
-[Given, h = 6.625 x 104 J-s = 4.14 x 10°? eV-s, c= 3 x 10° m/s]
+i) What is stimulated emission, optical pumping and population L 6]
+inversion?
 
-Describe different types of electrical properties of materials. Explain thermal conductivity and
-heat capacity of materials.
+ii) A laser beam of 693.95 nm wavelength on earth is focused by a lens
 
-Explain how a magnetostriction oscillator can be used to generate ultrasonic waves.
+or mirror of 2 m diameter onto a moon. The distance of the moon is
 
-Calculate the length of an iron rod which can be used to produce ultrasonic waves of 20
-KHz. Density from iron = 7.23 x 10? kg/m’. Young’s modulus of iron = 11.6 x 10'°
-N/m?. Can this wave be sent to the moon from the NMIMS laboratory?
+3.82 x 10° m from the earth. How much larger will be the spot on the
+moon? Neglect the effect of earth’s atmosphere.
 
-%
+Write four electrical properties of materials. Explain two of them in tél]
+detail.
 
-[6]
-[4]
+i) Explain the generation of ultrasonic waves by magnetostriction effect. Le]
+ii) Calculate the length of nickel rod required to produce ultrasonic
+waves of frequencies of 50 kHz and 100 kHz. Consider the fundamental
 
-‘4
-
-[6]
-
-[4]
-[4]
-
-[6]
-[4]
-[4]
-[6]
-[4]
-
-[4]
-
-[6]
-
-[4]
-[4]
+mode of vibration of the rod. Given: vines of nickel = 8908 kg/m’,
+Young’s modulus of nickel = 2.14 x 10!) N/m’.
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 83fe847f573a
@@ -4635,6 +5460,128 @@ With the help of neat diagram, explain the different parts of a windmill.
 (4)
 
 (4)
+(4)
+(4)
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper eabef2b535d2
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engineering Physics Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 01 July 2016
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: | Semester: II
+
+Academic Year: 2015-16
+
+Batch: 2014-15
+Subject: Engineering Physics
+
+Date: 01 July 2016
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+
+Note: 1. Question No. 1 is compulsory.
+2. Out of remaining six questions, attempt any four questions.
+3. In all five questions to be attempted.
+io 4. All questions carry equal marks. ;
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicates full marks,
+
+Ql Attempt any six of the following
+a) Define acceptance angle and numerical aperture of an optical fiber. (2)
+b) Explain the term population inversion for a LASER. i (2)
+c) What is Lissajous figure? (2)
+d) Draw the lattice plane (231) and directions for [1 3 2] in simple cubic unit cell. (2)
+e) What are n-type semiconductors? (2)
+f) Define critical magnetic field in superconductors. (2)
+g) List the applications of Newton’s rings. (2)
+Q.2. a) Derive the number of atoms per unit cell and atomic packing factor for FCC (4)
+crystal structure.
+b) Differentiate between n-type and p-type semiconductors. (4)
+c) Explain any two electrical properties of materials. (4)
+Q3 a) Explain the formation of p-n junction. (4)
+b) Classify the crystal defects according to dimensions. Explain in detail the various (4)
+point defects, ;
+al
+c) Calculate the conductivity of pure Silicon at room temperature, when the (4)
+"7 concentration of carriers is 1.6 x 10'/em?. (He = 1500cm?/v-s, [u, = 500cm?/y-s).
+
+ve
+--- page 2 ---
+Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+a)
+b)
+°)
+a)
+
+b)
+
+¢)
+
+a)
+b)
+°)
+a)
+
+b)
+
+c)
+
+Explain the motion of electron in perpendicular electric field.
+Classify different thermal properties of the materials.
+
+Explain in detail any two uses of CRO.
+
+What is Diffraction Grating? Discuss in brief the diffraction of light rays through
+
+diffraction grating. Also show the variation of intensity with a neat diagram.
+Explain the physical structure of an optical fiber.
+
+Two straight and narrow parallel slits 0.5 mm apart are illuminated by a
+monochromatic light of wavelength 5893A°. Calculate the width of fringes obtained on
+screen kept at a distance of 60 cm from the slit. [ 1A° = 10°'m]
+
+Explain the working of He-Ne LASER.
+Differentiate between Type I and Type II superconductors.
+Explain any two applications of ultrasound in detail.
+
+Define Critical Temperature, Critical Magnetic field and Critical current
+density for superconductors. . a
+
+Describe working of Magnetostriction Oscillator.
+
+The critical temperature for a metal with isotopic mass 199.5 is 4.2K.
+Calculate the isotopic mass if the critical temperature falls to 4.1K.
+
+(4)
+(4)
+(4)
+(4)
+
+(4)
+(4)
+
+@)
+(4)
+(4)
+(4)
+
 (4)
 (4)
 ````
@@ -4804,231 +5751,6 @@ N/m?. Can this wave be sent to the moon from the NMIMS laboratory?
 [6]
 [4]
 [4]
-````
-
-## 2015-16 · Re-Exam · Sem 2 · paper dab1a0b2d82c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engineering physics Re-exam 2015-16-17.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 April 2019
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-. SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA Tech (All Streams) Year: I Semester: II i
-
-Academic Year: 2018-2019
-
-ject: Engineering Physics
-=—_ “ ad Marks: 70
-Date: 12 April 2019 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages: Ol
-Re-Examination (2015-16 / 2016-17)
-
-Instructions:
-1) Question No. | is compulsory.
-2) Out'of remaining questions, attempt any 4 questions.
-3) Inall 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answers to each new question to be started on a fresh page.
-6) Figures in bracket on the right hand side of each question indicate full marks.
-
-Que.1: Attempt any seven of the following:
-a) Determine the intensity of a 10 mW laser beam of beam diameter 1.6 mm. [02]
-b) Draw the planes (012) and (221) with reference to the cubic unit cell. [02]
-
-c) Determine the resistivity of an intrinsic semiconductor at 300 °K, if intrinsic carrier density [02]
-is 2.5x10!'°/m*. Given that, [te= 0.39 m’/ Vs, le = 0.19 m?/ Vs and e = 1.6x10 °C,
-
-d) What is Meissner effect? [02]
-e) Howan unknown DC voltage can be measured using a CRO? — [02]
-f) Define cavitation. [02]
-g) What is thermal conductivity? : [02]
-h) Define grating and grating element. [02]
-i) Mention any four important properties of Laser light. [02]
-
-Que.2: a) Determine the following terms for SCC crystal structure-(i) effective number of atoms per [06]
-unit cell, (ii) coordination number, (iii) APF.
-b) Determine critical radius ratio for ligancy 3. [04]
-c) Find density of a metal with FCC structure which has the interplaner spacing of 2.08 A
-for the set of (111) planes. [Given Atomic weight of metal = 63.54 and
-Avogadro’s No.= 6.023 x 1073 atoms per mole.] [04]
-
-Que.3: a) Show that in Intrinsic semiconductors Fermi energy level lies exactly in between the [06]
-conduction‘band and the valance band.
-
-b) What is Fermi-Dirac probability function? [04]
-
-c) Explain Hall effect using a diagram. [04]
-
-Que.4: a) Derive an expression for magnetostatic deflection produced when an electron beam enters [06]
-normally to an uniform magnetic field.
-
-Page 1 of 2
---- page 2 ---
-b) How frequency of an unknown AC signal can be determined using Lissajous patterns ? [04]
-c) Anelectron beam passes through mutually perpendicular electric field of 3.4 x 10* V/m
-and magnetic field of 2 x 10° Wb/m?. It is found that path of the beam is unaffected.
-What is the velocity of electrons? If the electric field is switched off, what will be the
-radius of curved path ? Given that, me=9.1x103! Kg and e = 1.610“ C, [04]
-Que.5: a) Derive the conditions of maxima and minima in Newton’s rings, giving a neat ray [06]
-diagram.
-b) Define (i) dispersive power and (ii) resolving power of grating, giving their expressions. [04]
-c) A parallel beam of light of wavelength 5890 A, is incident on a glass plate of refractive
-index 1.5, such that the angle of refraction into plate is 60°. Find out the least thickness of
-the plate so that it appears dark in reflected light. [04]
-
-‘Que.6: a) Explain the construction and working of Ruby laser giving necessary diagrams. [06]
-b) A fiber is made of glass with refractive index 1.55 and is claded with another glass with a
-refractive index 1.51. The fiber has a core diameter of 50 um and is used at a wavelength
-
-of 0.8 um. Determine (i) numerical aperture (ii) acceptance angle (iii) V- no. and (iv) [04]
-number of modes propagating.
-c) Explain DC Josephson effect in superconductors.. [04]
-Que.7: a) Explain any three important mechanical properties of the materials in brief. [06]
-
-b) The ultrasonic echo pulse method is used with defective and non-defective steel bars
-of thickness 40 cm. If pulse arrival times are 30 ts and 80 us, respectively then locate the
-
-distance at which defect is present. 3 [04]
-c) Determine the critical field of a material at 2 K, which has a critical temperature of 3.7 K
-in absence of magnetic field and a critical field of 0.0306 T at 0 K. [04]
-
-Page 2 of 2
-````
-
-## 2015-16 · Re-Exam · Sem 2 · paper d0d2e8f38545
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engineering_Physiscs_2015-16_2016 Re-exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 29 June 2018
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-; SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &yEX
-
-Programme: MBA Tech (All Streams) Year: I Semesfié
-
-Batch: 2015-16/ 2016-17.
-“ Academic Year: 2017-2018
-
-Subject: Engineering Physics
-
-Marks: 707
-Date: 29 June 2018 Time: 10.00 am to 1.00 pm
-o Durations: 3 (Hrs) a
-
-. No. of Pages: ©2—
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is’compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Attempt any seven
-
-a. What is Josephson effect? [2]
-b. Explain any two point defects. ; (2]
-c. Enlist the Electrical properties of the materials and explain anyone in detail. [2]
-d. Define Fermi-Dirac distribution function. (2]
-6: Write a short note on GRIN fiber. (2]
-f. Determine the thickness of a thin film needed to be coated on a glass plate to make it [2]
-nonreflecting for normal incidence. (Given wavelength of the light =5500 A and w= 1.38)
-g. How frequency of an a.c. signal can be measured using a CRO? [2]
-h. Define cavitation and give any two applications of it. [2]
-Q.2 .
-a. Explain the construction and working of a molecular gas laser. (7]
-b. Give a brief comparison of three and four energy level pumping schemes. {4]
-c. Find the necessary core radius for single mode operation at 850 nm in step index fiber with [3]
-
-refractive indices of core and cladding 1.48 and 1.47 respectively, also determine the numerical
-aperture and maximum acceptance angle of this fiber.
-
-a. Discuss the diffraction from a diffraction grating by giving expression of intensity at a point on [6]
-screen with neat labeled diagram, also define dispersive power and resolving power of grating.
-
-b. Derive the conditions for maxima and minima in the interference pattern obtained in reflected [6]
-light from a thin parallel film.
-c. In Newton's rings experiment the diameters of 5" and 15" dark rings are found 0.336 cm and (2]
-
-0.590 cm respectively. What is the radius of curvature of the plano-convex lens when light of
-
-'Jo_
---- page 2 ---
-Q.4
-
-wavelength 5893 A is used?
-
-What is magnetostriction effect? Explain the construction and working of a magnetostriction
-based method for generation of ultrasonic waves, giving a neat diagram and necessary
-expressions.
-
-" Derive an expression for magneto-static deflection of an electron moving with velocity *v’ ina
-
-perpendicular magnetic field.
-Explain BCS theory of superconductivity.
-
-Determine the following for most densely packed cubic crystal structure (i) effective number of
-atoms per unit cell (ii) atomic radius (iii) coordination number (iv) APF and (v) void space.
-Derive the relatton between interplanar distance and lattice constant of a cubic crystal structure.
-Determine the wavelength of X-ray beam incident at 12° for the first order reflection from a
-calcite crystal, if the inter-planar spacing for the crystal is 3.035 A,
-
-Explain Meissner effect. Distinguish between Type | and Type II superconductors giving
-
-suitable diagram.
-What is a Hall effect? How it can be used to determine ( i) mobility (ii) carrier concentration.
-
-Derive an expression for Fermi level in n-type semiconductor giving a neat diagram.
-
-Obtain the expression for velocity of an electron moving in a mutually perpendicular electric
-and magnetic field. How this concept is used as a velocity selector?
-
-Explain any five mechanical properties of the materials.
-
-An electron beam passes through a point where magnetic field of 2x1 0° Wb/m’ and electric
-field of 3.4x 10* V/m both acting simultaneously and perpendicular to each other so that the path
-of electrons remains unchanged. Calculate the speed of electrons. If the electric field is switched
-off, what will be the radius‘of circular path? Hence verify the correctness of the value of the
-specific charge of the electron. (Given, m = 9.1x10°' Kg and e =1.6 x 10° C)
-
-[6]
-
-[4]
-[4]
-
-[6]
-
-[5]
-[3]
-
-[6]
-[4]
-[4]
-6]
-
-[5]
-(3]
 ````
 
 ## 2014-15 · Final-Exam · Sem 1 · paper 93da0d8bfded
@@ -5421,116 +6143,245 @@ electric field is switched off, what will be the radius of circular path?
 c) Explain the construction and working of a piezo-electric oscillator giving a neat diagram. [03]
 ````
 
-## 2014-15 · Re-Exam · Sem 1 · paper 1b0f0815b487
+## 2014-15 · Re-Exam · Sem 1 · paper 1f96b1415881
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS ALL STREAMS BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 June 2016
-- Text: ocr (2 pages), mean OCR confidence 89.3
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (ALL STREAM) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 29/11/2014
+- Text: ocr (2 pages), mean OCR confidence 92.2
 
 ````text
-SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (All Streams) Year: I Semester: I
+Programme: B. Tech (All Streams) Year: I Semester: /
+Batch: 2013-2014
 
-Academic Year: 2015-16
+Academic Year: 2014-2015 Zeng “ey,
 
-Batch: 2014-15 Marks: 60
-Subject: Engineering Physics Time: 2.00 pm — 5.00 pm
-Date: 09 June 2016 Durations: 3 (hrs)
+Subject: Engineering Physics Vonks: fA MPSTMB Ne
+Date: 29/11/2014 Time: Bb ath SREY
+Durations: SOs)
+
+Ding xO
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book which is provided for their use.
 
 Re-Examination
 
-Instructions: candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+NB:
+1. Question no 1 is compulsory.
+2. Out of remaining attempt any 4 questions.
+3. In all five questions to be attempted.
+4. All questions carry equal marks
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicates full marks
+Que. 1. Attempt any four of the following: [20]
 
-NB: WA NN
+a) What is unit cell? Draw direction for [102] and plane for (120).
 
-1. Question no | is compulsory. f~ :
-2. Out of remaining attempt any 4 questions. f f MPSTME YS
-3. In all 5 questions to be attempted. LIBRARY ip :
-4. All questions carry equal marks.
+b) Calculate the energy gap in silicon given that it is transparent to the radiation of
+wavelength greater than 11000A. h = 6.62 x 10°43 s,c =3 x 10° m/s
 
-5. Answers to each new question to be started on a fresh page.
+c) Describe the measurement of phase angle between two A.C. voltages using CRO.
 
-6. Figure in brackets on the right hand side indicates full marks.
+d) How refractive index of liquid can be determined using Newton’s rings experiment.
 
-Ql. Attempt any six of the following (12)
+e) List the applications of laser in different fields.
 
-(a) Find out the Miller Indices of the given plane (123).
+f) ‘ Describe heat capacity and specific heat of materials.
 
-(b) | Draw the variation of Fermi energy level of p-type and n-type semiconductors with
-change in temperature.
+Que 2. Attempt the following:
+a) Draw neat diagrams of SC, BCC and FCC unit cells and derive the expression of atomic
 
-(c) State Bethe’s law and also write its mathematical form.
+radius with diagram. [10]
+b) Classify the defects observed in crystals and explain line defects. [6]
+c) Find the value of critical radius ratio for ligancy 6 in ionic crystal. [4]
 
-(d) | Why the Newton’s rings are circular and centre of interference pattern (reflected
-system) always dark?
+Que 3. Attempt the following:
+a) What do you understand by extrinsic semiconductor? Describe any one type with the
 
-(e) | What is population inversion?
+help of energy ban diagram. [6]
+b) Using Fermi Dirac Probability function, derive the position of Fermi level in intrinsic
+semiconductor. [6]
 
-(f) Find the NA of the fiber, which has the refractive index of cladding as 1.45 anda
-core refractive index of 1.5.
+c) What are different electrical properties of materials? Explain any two ofthem. —[8]
 
-(g) | Mention any two properties of Ultrasonic waves.
-
-(h) Define ferroelectricity.
-
-a Q2. Attempt the following
-
-(a) Draw neat diagrams of SC, BCC and FCC unit cells and show that the void space in (8)
-aaa SC, BCC and FCC monoatomic crystal is 47.6%, 32% and 26% respectively.
-
-(b) Calculate the glancing angle on cube (100) of rocksalt having lattice constant 2.814 (4)
-
-A corresponding to first order diffraction maximum for x-rays of wavelength 1.541
-
-A.
-
-| /2
+Vo.
 --- page 2 ---
-Q3. Attempt the following
+Que 4. Attempt the following:
 
-(a) | What are intrinsic semiconductors? Show that for an intrinsic semiconductor at low (8)
-temperature, Er = (Ec + Ev) /2.
+a) Obtain an expression for the deflection ‘y’ of a charged particle passing perpendicular to
 
-(b) Find the resistivity and conductivity of intrinsic germanium at 300 K. Given the (4)
+a uniform electric field where the distance of the screen from the centre of the field is D.
+[10]
 
-density of carriers as 2.5 x 10!9 /m3, pe= 0.45 m?/ volt-sec and n= 0.25 m?/ volt-
+b) In CRT the distance of the centre of the coil from the screen is 0.3 m. The length of the
+field along the axis is 5 cm. Calculate the magnetic flux density Brequired to produce a
+deflection of 3 cm on the screen if the accelerating anode voltage is 1000 V.
+e€=1.6 x 10’coulomb, m=9.1 x 107! kg [6]
 
-sec.
+c) Describe the significance of crossed fields. [4]
 
-Q4. Atiempt the following
-(a) Explain electrostatic focusing, in detail, along with figure. (8)
+Que 5. Attempt the following:
 
-(b) Prove that the phase shift of a signal is @ = Sin! (AA’/BB’), using CRO. (4)
+a) Discuss the interference of light through a wedge shaped film indicating conditions
+maxima and minima. [10]
 
-Q5. Attempt the following
+b) A Newton’s rings set up is used with a source emitting two wavelengths 2, = 6000 A and
+2 = 4500 A. It is found that the n" dark ring due to dycoincides with (n+2)" dark ring
+due to Az. If the radius of curvature of the lens is 90 cm. Find the diameter of n® dark
+ring of Ay. [6]
 
-(a) | Define Fringe width. Find the fringe width for a wedge shaped film. (8)
+c) Derive an expression for resolving power of a grating. A grating has 15 cm of the surface
+ruled with 6000 lines per cm. What is the resolving power of grating in the first order?
 
-(b) Light containing two wavelengths 11 and 22 falls normally on Plano convex lens of (4)
-radius of curvature R resting on glass plate. If the n® dark ring due to 11 that the
+[4]
 
-radius of (n + 1)™ dark ring A2. Prove that the radius of nth dark ring of du is given
+Que 6. Attempt the following:
+a) Describe the light propagation mechanism through the fibres and hence derive
+expressions for NA, acceptance angle and fractional refractive index. [10]
+b) Define V-number? How do we get number of allowed modes in step index fibre?
+Calculate the acceptance angle for an optical fibre whose core refractive index is 1.55 and
+’ cladding refractive index is 1.50. [6]
+c) Distinguish between stimulated emission and spontaneous emission. [4]
 
-by [a1 22R) / (Aa — 22) J.
+Que 7. Attempting the following:
+a) Define piezoelectric effect. Draw the circuit diagram for the production of ultrasonic
+waves using quartz crystal. Explain its working. [10]
+b) Discuss how Cooper pairs are formed in superconductors. [4]
+c) Assuming that the critical magnetic field depends upon temperature, find the critical
+current density for 1 mm diameter wire of lead at 4.2 K. Given: T, for lead is 7.18 K and
+H, for lead is 6.51 x 10 A/m. [6]
+````
 
-Q6. Attempt the following
-(a) Explain total internal reflection and Numerical Aperture. Derive the Numerical (8)
-Aperture for Step Index fiber.
+## 2014-15 · Re-Exam · Sem 1 · paper 13ebf327d0dd
 
-(b) Draw the construction figure and energy level diagram of Ruby laser. (4)
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (ALL STREAMS), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 09/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.5
 
-Q7. Attempt the following
-(a) | Define Magnetostriction Effect. Explain how ultrasonic waves can be produced by (8)
-using Magnetostriction Oscillator.
+````text
+SVKM’s NMIMS é
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-(b) Explain any two mechanical properties of a material. (4)
+Programme: B. Tech (All Streams) Year: I Semester: I
+Batch: 2013-14 oa ay
+Academic Year: 2014-2015 LGB Rag
+Subject: Engineering Physics ‘or : a
+Marks: 100, ? 2) se )
+Date: 09/06/2015 Time: 10.00 am to 1.00 pm* =
 
-Z/2
+Durations: 3 ( BAS XY
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book which is provided for their use.
+NB:
+1) Question No. one is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+Que 1. Attempt any five of the following [20]
+a. Describe any two point defects in crystalline materials.
+b. An optical fibre has NA of 0.2 and R.I. of cladding is 1.59. Determine the
+acceptance angle for the fibre in water which has R.I. of 1.33.
+c. Assuming that the critical magnetic field Gepends on T, find the critical
+current density for 1 mm diameter wire of lead at 4.2 K. T. for lead is
+7.18 K and Hp for lead as 6.51 x 10* A/m.
+d. Define critical temperature and critical magnetic field.
+e. Differentiate between spontaneous emission and stimulated emission.
+f. Explain thermal conductivity and thermal stresses of the material.
+
+a Define ligancy and critical radius ratio in ionic-crystals. Show that critical [10]
+radius ratio for ligancy 3 is 0.155 and that for ligancy 6 is 0.4142.
+
+b_ i)Derive the expression for the interplaner separation dix between two [10]
+consecutive planes in the hkl set in a cubic lattice.
+iij Siiver is FCC moncatomic. [ts atomic radius is known to be 1.441 A.
+Find the spacing of (2 2 0) and (1 1 1) planes
+
+Que 3.
+a. i) Compare the variation of Fermi levels in P and N type semiconductors [10]
+with temperature and doping concentration with suitable diagrams.
+ii) In N type semiconductor, the Fermi level lies 0.3 eV below the
+conduction band at room temperature. If the temperature is increases to
+330 K, find the position of Fermi level.
+
+b. Explain the concept of hole and hole current with the help of suitable [10]
+diagram. Explain the formation of depletion layer and potential barrier
+in a P-N junction.
+
+1s
+
+aliases
+--- page 2 ---
+Que 4.
+
+Que 7.
+
+i) Describe crossed fields and its significance.
+
+ii) An electron beam passes through a magnetic field of 2 x 103 wb/m?
+and an electric field of 3.4 x 104 V/m acting simultaneously over the same
+region. If the path of electrons remains undeviated, calculate the speed of
+electrons. What will be the radius of the electron path if the electrical
+field is switched off? me= 9.1 x 103! kg,e= 1.6x 10°C
+
+Explain the construction of CRO with suitable diagram and discuss the
+frequency and phase angle between two signals measurement using CRO.
+
+Describe the formation of Newton’s ring in reflected light. Show that the
+diameters of dark rings are proportional to square root of natural number.
+How the central dark spot can be converted into bright one?
+
+iyWhat is plane diffraction grating. Discuss dispersive power of the
+
+grating.
+ii) How many orders will be visible if the wavelength of incident radiation
+is 5000 A, and the number of lines on the grating is 2620 per inch?
+
+Differentiate between single mode and multimode fibre. Write advantages
+
+of optical fibre cable.
+
+i) What is spontaneous emission, stimulated emission and population
+inversion?
+
+ii) A 0.1 W laser beam with an aperture of 5 mm emits a light of
+wavelength 6943 A. Calculate the areal spread when the beam is focused
+with a lens having focal length 100 mm.
+
+Write four Mechanical properties of materials. Explain two of them in
+detail.
+
+i) Explain the generation of ultrasonic waves by piezoelectric effect.
+
+ii) Calculate the thickness of quartz plate needed to produce ultrasonic
+waves of frequency 2 MHz Given: density= 2650 kg /m3 and Young’s
+modulus = 8 x 10!° N/m?.
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+[10]
 ````
 
 ## 2014-15 · Re-Exam · Sem 1 · paper 033ada6b58f9
@@ -5664,143 +6515,131 @@ Q.7
 5a.
 ````
 
-## 2014-15 · Re-Exam · Sem 1 · paper a65cffd7d82c
+## 2014-15 · Re-Exam · Sem 2 · paper 7add46ca8f8e
 
 - Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (ALL STREAMS), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 28/11/2015
-- Text: ocr (2 pages), mean OCR confidence 90.8
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS BATCH 2013-14 RE EXAM_7add46ca8f.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07/05/2015
+- Text: ocr (2 pages), mean OCR confidence 93.2
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (All Streams) Year: I Semester: I
-Batch: 2014-2015
+Programme: MBA Tech (All Streams) Year: I Semester: II
 
-Academic Year: 2015-2016 oaG\t OTE BF Rap,
+Academic Year: 2014-2015
+Batch: 2013-14
 
-gro
-
-i upstuE )e |
-
-sebbbi YS
-(eon UAry
-Ore A
-
-Subject: Engineering Physics
-Marks: 60 §
-Date: 28/11/2015 Time: 2.00 j
-Duration: 3 (hrs.
+Subject: Engineering Physics Marks: 100
+Time: 2.00 pm to 5.00 pm
+Date: 07/05/2015 Durations: 3 (hrs)
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book which is provided for their use.
-NB: es
-1) Question No. one is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on-the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-Que 1. Attempt any four of the following (12]
-a. Describe Schottky defect and Frankel defect.
+Instructions:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) Inall 5 questions to be attempted.
+4) Ail questions carry equal marks.
+5) Answers to each new question to be started on a fresh page.
+6) Figures in bracket on the right hand side indicate full marks.
 
-_ b. Find out the maximum core diameter of an optical fibre whose core and
-cladding have refractive indices as 1.460 and 1.457 respectively, and
-which supports only one mode at 1.25 x 10° m wavelength.
+Que.1: Attempt any four of the following.
+a) Explain the cyclotron. [05]
+b) Explain the difference between the Type I and Type II superconductors. [05]
+c) Enlist the thermal properties of the materials and explain any two in brief. [05]
+d) Explain an extrinsic semiconductor. [05]
+e) Classify types of point defect. [05]
 
-c. A critical magnetic field of lead wire is 6.5 x 10° A/m at 0K. At what
-temperature would the critical magnetic field of lead drop to 4.5 x 10°
-A/m if the critical temperature of lead is 7.18 K? What is the critical
-current density at that temperature if the diameter of the wire is 2 x 10°
-m.
+f) Determine the transition temperature and critical field at 4.2 K for a given specimen of [05]
+a superconductor if the critical fields are 1.41x10° A/m and 4.205x10° A/m at 1.41 K
 
-d. Differentiate between type I and type II superconductors.
+and 12.9 K respectively.
 
-e. Categorize lasers according to the energy levels and Jasing medium.
+Que.2: a) Explain the construction and working of molecular gas laser. [07]
+b) Give any three applications of laser. [03]
+c) Draw block diagram of an optical fiber communications system and explain the [07]
+function of each block.
+d) An ultrasonic source Of 0.6 MHz sends down a pulse towards the seabed which returns [03]
+after 0.68 sec. The velocity of sound wave in sea water is 1700 m/s. Calculate the
+depth of sea and wavelength of pulse.
 
-f, Explain thermal conductivity and thermal stresses of the material.
+Que.3: a) Explain the mechanical properties of materials: 1) Elasticity, 2) Toughness, [10]
+3) Ductility, 4) Brittleness and 5) wear resistance.
 
-a Calculate the number of atoms per unit cell, co-ordination number Cé]
-atomic radius, and atomic packing factor of FCC structure. Cu has FCC
-structure and atomic radius is 1.28 A. Calculate its density if its atomic
-weight is 63.5 Avogadro Number 6.023 x 10” /gm.mole
+b) Derive an expression for diameters of dark and bright rings. [06]
 
-b What is ligancy and critical radius ratio? Find the value of critical radius Ce]
+c) A parallel beam of light strikes an oil film (u=1.4), floating on a surface of water [04]
 
-ratio for co-ordination number 6. What is the maximum size of cation in
+(1=1.33). When viewed at an angle of 30° from the normal 6" dark fringe is seen. Find
+the thickness of the film. (Given wavelength of light = 589 nm).
 
-ligancy 6 configuration when the radius of anion is 2.86 A?
+Que.4: a) What is piezo-electric effect? Explain the construction and working of Piezo-electric [10]
 
-Que 3. Attempt the following
-a, Explain the formation of energy bands on-the basis of band theory of [6]
+oscillator.
 
-solids. Distinguish solids according to the energy band structure.
-b. i) Compare the variation of fermi levels in P and N type semiconductors (6]
-with temperature and doping concentration with suitable diagrams.
-ii) Fermi level in potassium is 2.1 eV. What are the energies for which
-the probability of occupancy at 300 K is 0.99 and 0.01?
+b) A glass clad fiber is made with core glass of refractive index 1.5 and the cladding is [06]
+doped to give a fractional index difference 0.0005. Find i) the cladding index, ii) the
+critical angle, iii) the acceptance angle, iv) the NA
 
-4 fe
+c) What is the NDT? Explain pulse-echo method to determine the defects within [04]
+material.
+
+2/2
+/
 --- page 2 ---
-Que 4.
+Que.5: a) Discuss the Fraunhofer diffraction at sin,
+the width of a narrow slit.
 
-Que 5.
+b) Derive the following terms for BCC crystal structure-
+unit cell, ii) atomic radius. iii) APF.
 
-Que 6.
+c) The Bragg angle corresponding to the first order reflection from plane (111) in a [04]
+crystal is 30° when X-rays of wavelength 1.75 A° are used. Calculate the interatomic
+spacing.
 
-Que 7.
+d) Determine the grating element for a
+maxima at an angle 23.7° from t
+normally incident on it.
 
-Obtain an expression for the deflection ‘y’ of a charged particle [6]
-subjected to uniform transverse magnetic field. If an electron moving
-with a effective vekoomy of 1.7 x 10’ m/s passes through a transverse
-orl field of 2 x 10° wb / m’, find the radius of the electron path.
+gle slit. Show how it can be used to determine [08]
 
-= 91x107!kg,e= 1.6 x 109°C
-ein the construction of CRO with suitable diagram and discuss the {6}
-frequency and phase angle between two signals measurement using
+i) effective number of atoms per [06]
 
-CRO.
+plane transmission grating which produces second [02]
+he normal, when light of wavelength 6400 A° is
 
-Describe the formation of Newton’s ring in reflected light. Show that [6]
-the diameters of dark rings are proportional to square root of natural ”
-number. Why does the central spot in Newton’s ring appear to be dark
+Que.6: a) Derive an expression for Fermi level in n-type semiconductor
+b) What is Hall effect? Derive an ex
 
-in the reflected system?
-i)What is plane diffraction grating. Discuss and derive the resolving {6]
+find the Hall coefficient of sodi
+4.28 A°.
 
-power of the grating.
-ii) A diffraction grating has 5000 lines per cm and the total ruled width
-is 5 cm. Calculate, the resolving power and the smallest value of da
+¢) Explain the BCS theory for superconductivity.
 
-which can be resolved for 4 = 6000 A in second order.
+[06]
+pression for Hall voltage. Using free electron model, [10]
+um assuming BCC structure for sodium of cell side
 
-Review the structure of typical optical fibre. Classify it based on index {e]
-pattern. Write differences between them.
+[04]
 
-i) What is stimulated emission, optical pumping and population L 6]
-inversion?
+Que.7: a) Derive an expression for e/m of an electron usin
+in a cathode ray tube with neat diagram.
 
-ii) A laser beam of 693.95 nm wavelength on earth is focused by a lens
+b) An electron beam passes through a magnetic field of 2.1x10° wb/m2 and an electric [04]
+field of 3.3x10* V/m acting simultaneously over the same region. If the path of the
+electrons remains undeviated. Calculate the velocity of the electrons. What will be the
+radius of the electron path if the electric field is switched off?
 
-or mirror of 2 m diameter onto a moon. The distance of the moon is
+c) Derive Bragg’s law of crystal diffraction 2d sin0=n). and give its significance. [06]
 
-3.82 x 10° m from the earth. How much larger will be the spot on the
-moon? Neglect the effect of earth’s atmosphere.
+g crossed electric and magnetic fields [10]
 
-Write four electrical properties of materials. Explain two of them in tél]
-detail.
+—_——- x -—on*
 
-i) Explain the generation of ultrasonic waves by magnetostriction effect. Le]
-ii) Calculate the length of nickel rod required to produce ultrasonic
-waves of frequencies of 50 kHz and 100 kHz. Consider the fundamental
-
-mode of vibration of the rod. Given: vines of nickel = 8908 kg/m’,
-Young’s modulus of nickel = 2.14 x 10!) N/m’.
+ey
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper 73912620e0a5
@@ -5912,128 +6751,6 @@ c Calculate the length of iron rod needed to produce ultrasonic wave of frequenc
 density = 7.3 gm/em’. Y = 12 x 10'° N/m’.
 
 2/2.
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper eabef2b535d2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/Engineering Physics Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 01 July 2016
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: | Semester: II
-
-Academic Year: 2015-16
-
-Batch: 2014-15
-Subject: Engineering Physics
-
-Date: 01 July 2016
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use.
-
-Note: 1. Question No. 1 is compulsory.
-2. Out of remaining six questions, attempt any four questions.
-3. In all five questions to be attempted.
-io 4. All questions carry equal marks. ;
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicates full marks,
-
-Ql Attempt any six of the following
-a) Define acceptance angle and numerical aperture of an optical fiber. (2)
-b) Explain the term population inversion for a LASER. i (2)
-c) What is Lissajous figure? (2)
-d) Draw the lattice plane (231) and directions for [1 3 2] in simple cubic unit cell. (2)
-e) What are n-type semiconductors? (2)
-f) Define critical magnetic field in superconductors. (2)
-g) List the applications of Newton’s rings. (2)
-Q.2. a) Derive the number of atoms per unit cell and atomic packing factor for FCC (4)
-crystal structure.
-b) Differentiate between n-type and p-type semiconductors. (4)
-c) Explain any two electrical properties of materials. (4)
-Q3 a) Explain the formation of p-n junction. (4)
-b) Classify the crystal defects according to dimensions. Explain in detail the various (4)
-point defects, ;
-al
-c) Calculate the conductivity of pure Silicon at room temperature, when the (4)
-"7 concentration of carriers is 1.6 x 10'/em?. (He = 1500cm?/v-s, [u, = 500cm?/y-s).
-
-ve
---- page 2 ---
-Q.4
-
-Q.5
-
-Q.6
-
-Q.7
-
-a)
-b)
-°)
-a)
-
-b)
-
-¢)
-
-a)
-b)
-°)
-a)
-
-b)
-
-c)
-
-Explain the motion of electron in perpendicular electric field.
-Classify different thermal properties of the materials.
-
-Explain in detail any two uses of CRO.
-
-What is Diffraction Grating? Discuss in brief the diffraction of light rays through
-
-diffraction grating. Also show the variation of intensity with a neat diagram.
-Explain the physical structure of an optical fiber.
-
-Two straight and narrow parallel slits 0.5 mm apart are illuminated by a
-monochromatic light of wavelength 5893A°. Calculate the width of fringes obtained on
-screen kept at a distance of 60 cm from the slit. [ 1A° = 10°'m]
-
-Explain the working of He-Ne LASER.
-Differentiate between Type I and Type II superconductors.
-Explain any two applications of ultrasound in detail.
-
-Define Critical Temperature, Critical Magnetic field and Critical current
-density for superconductors. . a
-
-Describe working of Magnetostriction Oscillator.
-
-The critical temperature for a metal with isotopic mass 199.5 is 4.2K.
-Calculate the isotopic mass if the critical temperature falls to 4.1K.
-
-(4)
-(4)
-(4)
-(4)
-
-(4)
-(4)
-
-@)
-(4)
-(4)
-(4)
-
-(4)
-(4)
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper 26d2b5e7b9f4
@@ -6394,99 +7111,6 @@ x 10° A/m and its critical temperature is 9.20 K.
 2).
 ````
 
-## 2013-14 · Re-Exam · Sem 1 · paper 7a26fd483d90
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS (ALL STREAMS), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 26 May 2017
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech. (All Streams) : Year: I Semester:I
-
-Batch: 2013-14 ra
-
-Academic Year: 2016-2017 pn
-Pr Lid
-Subject: Engineering Physics . a -
-co Marks: 100. bY
-Date: 26 May 2017 — Time: 10.00 amto 1.00pm ~ /
-
-Durations: 3 (he " S, &
-No. of Pages: “4 a ,
-Re-Examination Se
-
-Instructions:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answers to each new question to be started on a fresh page.
-6. Figures in bracket on the right hand side indicate full marks.
-
-Que.1: Attempt any five of the following.
-a) Draw plane (021) and direction [130]. [04]
-b) Define any four mechanical properties of materials. [04]
-c) Explain the resolving power and dispersive power of grating. [04]
-d) How an unknown a.c. voltage can be measured using a CRO? . [04]
-e) What is Fermi-Dirac Distribution function? [04]
-f) What is V-number? Mention its importance in fibers. . [04]
-g) Explain Isotope law in superconductors. [04]
-
-Que.2: a) Describe the structure of SCC lattice and hence, compute the (i) effective no. of atoms per [10]
-unit cell (ii) coordination number iii) atomic radius and (iv) atomic packing fraction and v)
-void space in it.
-
-b) Derive the relation dix = a/V h?+k?+I2, giving a diagram, where the symbols have their [06]
-usual meanings,
-
-c) The spacing between the principal planes in a crystal of NaCl is 2.82 A® . If First order [04]
-Bragg reflection occurs at 10° , determine the wavelength of X- rays. At what angle the
-second order reflection will occur?
-
-Que.3: a) Derive the conditions for maxima and minima in the interference pattern obtained in [10]
-reflected light from a thin parallel film.
-
-=o b) Discuss the diffraction from a diffraction grating by giving expression of intensity at a [06]
-. point on screen with neat labeled diagram. What is grating equation?
-pias c) In Newton’s rings experiment the diameters of 5" and 15" dark rings are found 0.336 cm [04]
-
-and 0.590 cm, respectively. What is the radius of curvature of the plano-convex lens when
-light of wavelength 5893 A is used?
---- page 2 ---
-Que.4: a) Derive an expression of deflection produced of an electron beam entering perpendicular to [10]
-a transverse magnetic field.
-b) Derive the relation Er = Ec / 2, giving a diagram, where the symbols have their usual [06]
-
-meanings.
-c) What is Hall effect? [04]
-Que.5: a) Explain the construction and working of Ruby laser with energy level diagram. [10]
-b) Discuss the Fiber optic communication in brief, giving block diagram. [06]
-
-c) Find the necessary core radius for single mode operation at 850 nm in step index fiber with [04]
-refractive indices of core and cladding 1.48 and 1.47, respectively. Also determine the
-numerical aperture and acceptance angle of this fiber. ;
-
-Que.6: a) Describe the principle, construction and working of a piezoelectric oscillator for generation [10]
-
-of ultrasonic waves.
-b) Explain (i) NDT and (ii) Cavitation. [06]
-
-c) The transition temperature for given metal is 7.26 K. The maximum critical field for that [04]
-- metal is 8 x 105 A/m. Determine the temperature below which the material will become
-superconductor at a magnetic field of 4 x 10 4 A/m.
-
-Que.7: a) What is superconductivity? Give BCS theory in brief to explain it. [10]
-b) Compare Type-I and Type-II superconductors. c ; [06]
-c) Define any four important thermal properties of materials. [04]
-
-Zh
-````
-
 ## 2013-14 · Re-Exam · Sem 1 · paper 189ce3713ad6
 
 - Departments: Common (all branches)
@@ -6580,385 +7204,6 @@ at 0 K ? The transition temperature of the material is 7.2 K. [04]
 (b) Describe any five important mechanical properties of materials, [10]
 
 ft *
-````
-
-## 2013-14 · Re-Exam · Sem 1 · paper 1f96b1415881
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (ALL STREAM) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 29/11/2014
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Semester: /
-Batch: 2013-2014
-
-Academic Year: 2014-2015 Zeng “ey,
-
-Subject: Engineering Physics Vonks: fA MPSTMB Ne
-Date: 29/11/2014 Time: Bb ath SREY
-Durations: SOs)
-
-Ding xO
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book which is provided for their use.
-
-Re-Examination
-
-NB:
-1. Question no 1 is compulsory.
-2. Out of remaining attempt any 4 questions.
-3. In all five questions to be attempted.
-4. All questions carry equal marks
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicates full marks
-Que. 1. Attempt any four of the following: [20]
-
-a) What is unit cell? Draw direction for [102] and plane for (120).
-
-b) Calculate the energy gap in silicon given that it is transparent to the radiation of
-wavelength greater than 11000A. h = 6.62 x 10°43 s,c =3 x 10° m/s
-
-c) Describe the measurement of phase angle between two A.C. voltages using CRO.
-
-d) How refractive index of liquid can be determined using Newton’s rings experiment.
-
-e) List the applications of laser in different fields.
-
-f) ‘ Describe heat capacity and specific heat of materials.
-
-Que 2. Attempt the following:
-a) Draw neat diagrams of SC, BCC and FCC unit cells and derive the expression of atomic
-
-radius with diagram. [10]
-b) Classify the defects observed in crystals and explain line defects. [6]
-c) Find the value of critical radius ratio for ligancy 6 in ionic crystal. [4]
-
-Que 3. Attempt the following:
-a) What do you understand by extrinsic semiconductor? Describe any one type with the
-
-help of energy ban diagram. [6]
-b) Using Fermi Dirac Probability function, derive the position of Fermi level in intrinsic
-semiconductor. [6]
-
-c) What are different electrical properties of materials? Explain any two ofthem. —[8]
-
-Vo.
---- page 2 ---
-Que 4. Attempt the following:
-
-a) Obtain an expression for the deflection ‘y’ of a charged particle passing perpendicular to
-
-a uniform electric field where the distance of the screen from the centre of the field is D.
-[10]
-
-b) In CRT the distance of the centre of the coil from the screen is 0.3 m. The length of the
-field along the axis is 5 cm. Calculate the magnetic flux density Brequired to produce a
-deflection of 3 cm on the screen if the accelerating anode voltage is 1000 V.
-e€=1.6 x 10’coulomb, m=9.1 x 107! kg [6]
-
-c) Describe the significance of crossed fields. [4]
-
-Que 5. Attempt the following:
-
-a) Discuss the interference of light through a wedge shaped film indicating conditions
-maxima and minima. [10]
-
-b) A Newton’s rings set up is used with a source emitting two wavelengths 2, = 6000 A and
-2 = 4500 A. It is found that the n" dark ring due to dycoincides with (n+2)" dark ring
-due to Az. If the radius of curvature of the lens is 90 cm. Find the diameter of n® dark
-ring of Ay. [6]
-
-c) Derive an expression for resolving power of a grating. A grating has 15 cm of the surface
-ruled with 6000 lines per cm. What is the resolving power of grating in the first order?
-
-[4]
-
-Que 6. Attempt the following:
-a) Describe the light propagation mechanism through the fibres and hence derive
-expressions for NA, acceptance angle and fractional refractive index. [10]
-b) Define V-number? How do we get number of allowed modes in step index fibre?
-Calculate the acceptance angle for an optical fibre whose core refractive index is 1.55 and
-’ cladding refractive index is 1.50. [6]
-c) Distinguish between stimulated emission and spontaneous emission. [4]
-
-Que 7. Attempting the following:
-a) Define piezoelectric effect. Draw the circuit diagram for the production of ultrasonic
-waves using quartz crystal. Explain its working. [10]
-b) Discuss how Cooper pairs are formed in superconductors. [4]
-c) Assuming that the critical magnetic field depends upon temperature, find the critical
-current density for 1 mm diameter wire of lead at 4.2 K. Given: T, for lead is 7.18 K and
-H, for lead is 6.51 x 10 A/m. [6]
-````
-
-## 2013-14 · Re-Exam · Sem 1 · paper 13ebf327d0dd
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (ALL STREAMS), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 09/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS é
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Semester: I
-Batch: 2013-14 oa ay
-Academic Year: 2014-2015 LGB Rag
-Subject: Engineering Physics ‘or : a
-Marks: 100, ? 2) se )
-Date: 09/06/2015 Time: 10.00 am to 1.00 pm* =
-
-Durations: 3 ( BAS XY
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book which is provided for their use.
-NB:
-1) Question No. one is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-Que 1. Attempt any five of the following [20]
-a. Describe any two point defects in crystalline materials.
-b. An optical fibre has NA of 0.2 and R.I. of cladding is 1.59. Determine the
-acceptance angle for the fibre in water which has R.I. of 1.33.
-c. Assuming that the critical magnetic field Gepends on T, find the critical
-current density for 1 mm diameter wire of lead at 4.2 K. T. for lead is
-7.18 K and Hp for lead as 6.51 x 10* A/m.
-d. Define critical temperature and critical magnetic field.
-e. Differentiate between spontaneous emission and stimulated emission.
-f. Explain thermal conductivity and thermal stresses of the material.
-
-a Define ligancy and critical radius ratio in ionic-crystals. Show that critical [10]
-radius ratio for ligancy 3 is 0.155 and that for ligancy 6 is 0.4142.
-
-b_ i)Derive the expression for the interplaner separation dix between two [10]
-consecutive planes in the hkl set in a cubic lattice.
-iij Siiver is FCC moncatomic. [ts atomic radius is known to be 1.441 A.
-Find the spacing of (2 2 0) and (1 1 1) planes
-
-Que 3.
-a. i) Compare the variation of Fermi levels in P and N type semiconductors [10]
-with temperature and doping concentration with suitable diagrams.
-ii) In N type semiconductor, the Fermi level lies 0.3 eV below the
-conduction band at room temperature. If the temperature is increases to
-330 K, find the position of Fermi level.
-
-b. Explain the concept of hole and hole current with the help of suitable [10]
-diagram. Explain the formation of depletion layer and potential barrier
-in a P-N junction.
-
-1s
-
-aliases
---- page 2 ---
-Que 4.
-
-Que 7.
-
-i) Describe crossed fields and its significance.
-
-ii) An electron beam passes through a magnetic field of 2 x 103 wb/m?
-and an electric field of 3.4 x 104 V/m acting simultaneously over the same
-region. If the path of electrons remains undeviated, calculate the speed of
-electrons. What will be the radius of the electron path if the electrical
-field is switched off? me= 9.1 x 103! kg,e= 1.6x 10°C
-
-Explain the construction of CRO with suitable diagram and discuss the
-frequency and phase angle between two signals measurement using CRO.
-
-Describe the formation of Newton’s ring in reflected light. Show that the
-diameters of dark rings are proportional to square root of natural number.
-How the central dark spot can be converted into bright one?
-
-iyWhat is plane diffraction grating. Discuss dispersive power of the
-
-grating.
-ii) How many orders will be visible if the wavelength of incident radiation
-is 5000 A, and the number of lines on the grating is 2620 per inch?
-
-Differentiate between single mode and multimode fibre. Write advantages
-
-of optical fibre cable.
-
-i) What is spontaneous emission, stimulated emission and population
-inversion?
-
-ii) A 0.1 W laser beam with an aperture of 5 mm emits a light of
-wavelength 6943 A. Calculate the areal spread when the beam is focused
-with a lens having focal length 100 mm.
-
-Write four Mechanical properties of materials. Explain two of them in
-detail.
-
-i) Explain the generation of ultrasonic waves by piezoelectric effect.
-
-ii) Calculate the thickness of quartz plate needed to produce ultrasonic
-waves of frequency 2 MHz Given: density= 2650 kg /m3 and Young’s
-modulus = 8 x 10!° N/m?.
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-[10]
-````
-
-## 2013-14 · Re-Exam · Sem 1 · paper 3fbe834bd134
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 28/11/2015
-- Text: ocr (3 pages), mean OCR confidence 89.8
-
-````text
-Re-Examination
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Semester: I
-Batch: 2013-2014
-Academic Year: 2015-2016
-
-Subject: Engineering Physics
-Marks: 100
-
-Date: 28/11/2015 Time: 2.00 Dae y A:
-
-"46 .,
-core
-Oa ae
-Re-Examination
-
-Instructions: candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-
-1. Question no 1 is compulsory.
-
-2. Out of remaining attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answers to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicates full marks.
-
-Q1. Attempt any five of the following (20)
-
-(a) Explain why first ring of the Newton’s ring is always a dark ring. Justify your
-answer with relevant expressions.
-
-(b) | What is point defect in crystals? List number of point defects and draw self-
-explanatory diagram to define the type of point defects.
-
-(c) State Hall effect. List any four applications with relevant formula of Hall effect.
-
-(d) | What is population inversion and stimulated emission?
-
-(e) Explain how phase difference between two signals and frequency of an unknown
-signal can be obtained using CRO.
-
-(f) List any four differences between type | and type I] superconductors.
-
-(g) Sate magnetostriction effect. Write the formula used to calculate the ultrasonic
-wave frequency generated by magnetostriction oscillator. Define each term used in
-
-it.
-
-| Le,
---- page 2 ---
-Q2 Attempt the following
-
-(a) Derive the expression of maxima and minima in case of thin film with uniform (15)
-thickness. Write any two examples from real life where you can observe maxima
-minima from thin film.
-
-(b) How many orders will be visible if the wave length of the incident radiation is (5)
-
-5893A° and the number of lines on the grating is 2540/inch.
-
-Q3 Attempt the following
-
-(a) What is numerical aperture of the optical fiber? Derive the expression for (10)
-Numerical Aperture and acceptance angle for Step Index fiber.
-
-(b) Consider a multimode step index fiber with core refractive index nl=1.53 and core (10)
-refractive index n2=1.50, and wavelength of incident light is 50 micrometer then
-calculate the V number of the fiber, and number of modes supported by the fiber.
-
-In order to make the above fiber a single mode fiber, what should be the change in
-
-radius of the core?
-
-Q4 Attempt the following
-
-(a) Define Ligancy for the ionic crystals? Calculate the ratio of radius of cation to (10)
-radius of anion for ligancy 3.
-
-(b) Derive the expression for inter-planar spacing in terms of miller indices fora cubic (5)
-
-crystal.
-(b) Calculate the glancing angles on the cube (100) of a rock salt (a=2.814A°) (5)
-
-corresponding to second order diffraction maximum for the X-rays of wavelength
-
-0.710 A.
-ee
-Q5 Attempt the following
-aa (a) Describe the construction and working of He Ne Laser with energy level diagram. (12)
-
-(b) With the neat diagram explain construction and reconstruction of hologram. (8)
-
-1
-
-—
---- page 3 ---
-Q6 = Attempt the following
-
-(a) Define what is critical temperature, critical current density and critical magnetic (12)
-field for superconductors. Explain the phenomena of superconductivity with BCS
-theory.
-
-(b) The ultrasonic pulse echo method (flaw detection) is used with defective and non- (8)
-defective steel bar of thickness 40cm. If pulse arrival time are 30us and 60us, locate
-
-the distance at which the defect has occurred.
-
-Q7 Attempt the following
-(a) Inacrystal whose primitives are 1.2 , 1,8 and2 AU, aplane (231) cuts an intercepts (8)
-1.2 A° along X axis. Find the length of the intercepts along Y and Z axis.
-(b) Draw following with given set of intercepts (110), (142). (4)
-(b) Define following properties of the material (8)
-a Ferro electricity
-6 Elasticity
-° Electrical conductivity
-
-Stress
-
-%
 ````
 
 ## 2013-14 · Re-Exam · Sem 2 · paper 157595b25ae0
@@ -7096,249 +7341,4 @@ at 0 K and 4.2 K.
 [6]
 
 [4]
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper 7add46ca8f8e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS BATCH 2013-14 RE EXAM_7add46ca8f.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07/05/2015
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: I Semester: II
-
-Academic Year: 2014-2015
-Batch: 2013-14
-
-Subject: Engineering Physics Marks: 100
-Time: 2.00 pm to 5.00 pm
-Date: 07/05/2015 Durations: 3 (hrs)
-
-Re-Examination
-
-Instructions:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) Inall 5 questions to be attempted.
-4) Ail questions carry equal marks.
-5) Answers to each new question to be started on a fresh page.
-6) Figures in bracket on the right hand side indicate full marks.
-
-Que.1: Attempt any four of the following.
-a) Explain the cyclotron. [05]
-b) Explain the difference between the Type I and Type II superconductors. [05]
-c) Enlist the thermal properties of the materials and explain any two in brief. [05]
-d) Explain an extrinsic semiconductor. [05]
-e) Classify types of point defect. [05]
-
-f) Determine the transition temperature and critical field at 4.2 K for a given specimen of [05]
-a superconductor if the critical fields are 1.41x10° A/m and 4.205x10° A/m at 1.41 K
-
-and 12.9 K respectively.
-
-Que.2: a) Explain the construction and working of molecular gas laser. [07]
-b) Give any three applications of laser. [03]
-c) Draw block diagram of an optical fiber communications system and explain the [07]
-function of each block.
-d) An ultrasonic source Of 0.6 MHz sends down a pulse towards the seabed which returns [03]
-after 0.68 sec. The velocity of sound wave in sea water is 1700 m/s. Calculate the
-depth of sea and wavelength of pulse.
-
-Que.3: a) Explain the mechanical properties of materials: 1) Elasticity, 2) Toughness, [10]
-3) Ductility, 4) Brittleness and 5) wear resistance.
-
-b) Derive an expression for diameters of dark and bright rings. [06]
-
-c) A parallel beam of light strikes an oil film (u=1.4), floating on a surface of water [04]
-
-(1=1.33). When viewed at an angle of 30° from the normal 6" dark fringe is seen. Find
-the thickness of the film. (Given wavelength of light = 589 nm).
-
-Que.4: a) What is piezo-electric effect? Explain the construction and working of Piezo-electric [10]
-
-oscillator.
-
-b) A glass clad fiber is made with core glass of refractive index 1.5 and the cladding is [06]
-doped to give a fractional index difference 0.0005. Find i) the cladding index, ii) the
-critical angle, iii) the acceptance angle, iv) the NA
-
-c) What is the NDT? Explain pulse-echo method to determine the defects within [04]
-material.
-
-2/2
-/
---- page 2 ---
-Que.5: a) Discuss the Fraunhofer diffraction at sin,
-the width of a narrow slit.
-
-b) Derive the following terms for BCC crystal structure-
-unit cell, ii) atomic radius. iii) APF.
-
-c) The Bragg angle corresponding to the first order reflection from plane (111) in a [04]
-crystal is 30° when X-rays of wavelength 1.75 A° are used. Calculate the interatomic
-spacing.
-
-d) Determine the grating element for a
-maxima at an angle 23.7° from t
-normally incident on it.
-
-gle slit. Show how it can be used to determine [08]
-
-i) effective number of atoms per [06]
-
-plane transmission grating which produces second [02]
-he normal, when light of wavelength 6400 A° is
-
-Que.6: a) Derive an expression for Fermi level in n-type semiconductor
-b) What is Hall effect? Derive an ex
-
-find the Hall coefficient of sodi
-4.28 A°.
-
-¢) Explain the BCS theory for superconductivity.
-
-[06]
-pression for Hall voltage. Using free electron model, [10]
-um assuming BCC structure for sodium of cell side
-
-[04]
-
-Que.7: a) Derive an expression for e/m of an electron usin
-in a cathode ray tube with neat diagram.
-
-b) An electron beam passes through a magnetic field of 2.1x10° wb/m2 and an electric [04]
-field of 3.3x10* V/m acting simultaneously over the same region. If the path of the
-electrons remains undeviated. Calculate the velocity of the electrons. What will be the
-radius of the electron path if the electric field is switched off?
-
-c) Derive Bragg’s law of crystal diffraction 2d sin0=n). and give its significance. [06]
-
-g crossed electric and magnetic fields [10]
-
-—_——- x -—on*
-
-ey
-````
-
-## Year not stated · Re-Exam · Sem 1 · paper b7778db69efe
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ENGINEERING PHYSICS/ENGINEERING PHYSICS BATCH 15-16-16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 26 May 2017
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech. (All Streams) Year: I Semester: I
-
-Batch: 2015-16 / 2016-17
-Academic Year: 2016-2017
-
-Subject: Engineering Physics ~ 3
-f Marks: 70 ~ i |
-ie Date: 26 May 2017 ~ Time: 10.00
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary and draw neat labeled diagram wherever necessary.
-
-Que.1: Attempt any seven of the following:
-a) What are Bravais lattices? . [02]
-b) Give any four applications of Newton’s rings phenomenon. [02]
-c) Compare stimulated and spontaneous emission processes (any four). * : [02]
-d) What is Meissner effect? [02]
-
-e) Discuss in brief the principle used in the method for generation of low frequency [02]
-ultrasonic waves.
-
-f) How frequency ofan a.c. signal can be measured using a CRO? [02]
-g) Why sheath/jacket is needed in fibers? [02]
-h) Define Fermi-Dirac distribution function with expression. ; [02]
-i) Enlist thermal properties of the materials and explain any one. [02]
-
-Que.2: a) Determine the following terms for BCC crystal structure-(i) effective number of atoms [06]
-per unit cell, (ii) atomic radius (iii) coordination number (iv) APF.
-b) Derive the relation between interplanar distance and lattice constant of a cubic crystal [04]
-structure.
-— c) The lattice constant for unit cell of Aluminium is 1.04 A. Determine the distances [04]
-between planes with Miller indices (i) <200>, (ii) <110>, (iii) <111>.
-
-Que.3: a) Show that in Intrinsic Semiconductors Fermi energy level lies exactly in between the [06]
-conduction band and the valance band.
-b) Determine the probability of occupancy for a state whose energy is (i) 0.1 eV above and [04]
-Gi) ~ 0.1 eV below, the Fermi energy level and (iii) equal to the Fermi energy, at a
-temperature of 800 K.
-c) Explain Hall effect using a diagram. What parameters of semiconductor crystals canbe [04]
-determined using Hall effect?
-
-yp
---- page 2 ---
-Que.4: a) Show how the concept of motion of charged particles can yield measurement of specific [06]
-
-charge of the electrons.
-
-b) Discuss the motion of electrons perpendicular to the magnetic field. [04]
-
-c) An electron beam passes through a magnetic field of 2 x 10° Wb/m? and an electric [04]
-field of 3.4 x 10‘ V/m both acting simultaneously perpendicular to each other. If the
-path of the electrons remains undeviated, calculate the speed of electrons. What will be
-the radius of the electron path if the electric field is switched off?
-(e= 1.6 x 10°79 C, me = 9.1 x 107! kg)
-
-Que.5: a) Derive the condition for minima in Newton’s rings, and hence prove that radii of dark [06]
-
-rings are proportional to square root of natural numbers. ,
-
-b) Define (i) grating element (ii) dispersive power and (iii) resolving power of grating, [04]
-giving their expressions.
-
-c) A diffraction grating used at normal incidence gives a spectral line of wavelength [04]
-6000A in a certain order, which is superimposed on other spectral line of wavelength
-4500 A of the next order. If the angle of diffraction is 33°, how many lines/cm are there
-in the grating.
-
-Que.6: a) Explain the construction and working of CO? gas laser. [06]
-
-b) A fiber is made of glass with refractive index 1.55 and is claded with another glass with [04]
-a refractive index 1.51. The fiber has a core diameter of 50 pm and is used at a
-wavelength of 0.8 um. Determine (i) numerical aperture (ii) critical angle (iii) V- no.
-and (iv) number of modes propagating.
-
-c) Determine the ratio of the population in the two states in a He-Ne laser producing a [04]
-light beam of wavelength of 6328 A at a temperature of 27° C. Given: K = 1.38 x 103
-J/K and h = 6.63 x 104 J.s.
-
-Que.7: a) Explain any three mechanical properties of the materials in brief. [06]
-b) The ultrasonic echo pulse method is used with defective and non-defective steel bars [04]
-of thickness 50 cm. If pulse arrival times are 35 us and 75 us, respectively then locate
-the distance at which defect is present.
-c) Determine the critical field of a material at 2 K, which has a critical temperature of 3.7 [04]
-K in absence of magnetic field and a critical field of 0.0306 T at0 K.
-
-24
 ````

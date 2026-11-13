@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/Integrated_Mechanical_7031/Fundamentals of Engineering Design/ANS_Fundamentals of Engineering Design(701ME0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (7 pages), mean OCR confidence 48.8
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -173,8 +175,6 @@ dni = 0" tT
 8.3b> as ae *
 Ay= AS - _ 3 bxiF Tort
 > 2 We TW = ;
-Bs -d) * y as xd T
-BEA OE sean age ase
 {go
 => DF
 Py = .
@@ -220,10 +220,8 @@ g~ = 60 n }rom
 t= Ww -AaAMYWY)
 b= Qt = 56.kEmMy
 
-FOC IOICK GOR AOR Ra x
 --- page 7 ---
 Primo Shear fe
-R= P= Pe = Py = QOXID”_ BZooo Nn
 4
 - = 45 m L
 ot sont bark
@@ -251,6 +249,8 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/Integrated_Mechanical_7031/Fundamentals of Engineering Design/ANS_Fundamentals of Engineering Design(701ME0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (8 pages), mean OCR confidence 39.4
+- 18 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -304,13 +304,11 @@ Q6   Correct explanation of any five design considerations
 a   02 marks for each considerations
 ********** 2 **********
 --- page 3 ---
-§.345 Given dala dy: ao mw A y= 2S mm Aye 3omm
 Pe dew nw Ls koomm € = 2105 0/mm™
 
 i: - L . a
 Ay = Yi, 22 > B34. WY mm A> © (30% a‘) QIS-1S pam
 
-Teale fooce m Od 2 Sees free er) bribe [i marie |
 Tr Ay = % AL
 Gy = ObeF OE
 oe = 1 aa q2.¢ Nm T, © Ob Rx ™7 > 63-66 Jm LL
@@ -320,7 +318,6 @@ ov’ quant Aptain - D625 meer
 
 } mo |
 
-sO b6W = Inevease in lems th 4 vod 4 elecrease in lent 4 dasbe
 
 Ooe- Sl, +t Et fame |
 c Sep + Mh 4
@@ -338,18 +335,14 @@ oe = 63. 63 Mmm —>{1
 
 FC QI a iar
 --- page 4 ---
-ab ian data H- Albom 4s asmm No peo rprn
-Lz apco mm = OSs B.FLEX 15° Yeo! Gj E410" WO)
 d= b-2b = Homm
 
 a ror
 Polar Mt = J* x (ata) ce 107 36x 16 mt
 
 “n-mm_y [a mow]
-T, G46 5 T= 39-358 “io wm (2 on
 Took
 
-Aa’ Se an fron” fos 2 aot alfa = ©
 - Sut ~ gtle nN] rim * aie mot |
 
 Trae ~ os
@@ -367,7 +360,6 @@ arn , > Boo
 
 FIC 7) IC HOH
 --- page 5 ---
-9.5 Sopentic Grmwrhs tombe try
 
 TOtel= FOteotV
 
@@ -403,7 +395,6 @@ Poly pwd
 "4 Poly vate = 3: Sb 9 wore:
 
 Teh a ol ql T&S
-poly ane em mattriad ——> (i rant |
 
 FORK DG Kr
 --- page 6 ---
@@ -415,7 +406,6 @@ a>) Given P= Skw €=800 mm cl = 60 A/ram*
 Setenday Shear furs, er
 P | = = } f
 B,24yr43° Age lO mm p.
-fe = pe 7 he of ° ‘) x
 Br Ast hg 144 % P p’
 "pt pt. p 0 Lt mow.
 Piz? -Py-P - @Gr-aron .
@@ -428,7 +418,6 @@ P2> PptP,'= 3K? | me
 Aiamettn 9, Rivet r
 Redd >? ?
 V » |
-oie B49 Jem diaspom- ts cna
 —— re |
 
 (2 mona)
@@ -442,14 +431,10 @@ SN ER Ue ey
 weld s-
 
 Tovale dneagth 4 plate
-paloh jae = Town) —> Lrwe |
 
-_ Streyth 4 povallel fillet anol Traverse feld
 P = o.pphiG = 4490N —>(02 moa |
 _ Atrytin 3 olonole parallel fillet weed
-Pi bal hla = porrd > (2 mond |
 ~ Loy 4 parallel fillet weal
-Arvong th 4 welded jowd - dnt 4
 feove = 47 440¢7074
 d> 290) —> Canons |
 Add iy mann bor Aeppiay 4 Bening =p the weld un
@@ -465,7 +450,6 @@ ef
 Ae > ag* = 4o87 rm
 +
 --- page 8 ---
-Teaep Krys 4 Steed 4- ttvole &draun
 c Tem Anan 4
 
 Ua
@@ -494,7 +478,6 @@ SS.
 5 490-7
 
 io | ones
-\nurease eee ae Plngohon § aie
 
 - GL -~ LL dsr |) - 2844
 2 ag LAt + aT [ 5) un
@@ -502,7 +485,6 @@ io | ones
 { 5h: 284mm aol \4 soos}
 
 naboo wi iwaol —> fmol
-ae dep me A Awe dut fe imprah
 
 _ hove —— 04 marys
 
@@ -518,6 +500,8 @@ FOG OA Kar
 - Source: `02_Question_Papers/2024/Sem_06/Final-Exam/Integrated_Mechanical_7031/Fundamentals of Engineering Design/ANS_Fundamentals of Engineering Design(701ME0C013)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
 - Text: mixed (12 pages), mean OCR confidence 37.9
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -611,14 +595,12 @@ c) Avoid very thin sections : correct explanation with diagram 2 marks
 --- page 4 ---
 Aii
 — ; . daca de 32m
-. -asm- Qsomm ds 2omm aige! Oey
 aby Given data Le asm P10 EN hed Ese axioSwimnt
 L
 - Oy, - oo 1mm
 As= ods
 
 L Ey, 70x 10S Jam
-Ab sil (30% 20h )= acts mm V6 2 AXL epeneio 7 m3
 “y}
 
 «ot onals ane Red (Shroun will he ame)
@@ -654,7 +636,6 @@ Bi
 
 2qy —
 
-fyBS- lous Acesel gla)
 ABS ear lJ
 LTS p2xS pane 5astHS
 ann 030644 0. BFA A b+ 23 Ib x 4
@@ -738,7 +719,6 @@ zs OC«*#t
 J * GA I2KIO
 
 D = lersmr | aha
-eqye enterat diameker 1s Hlawrrkte MAX
 = ¥. diame ; _
 [ope ss mw ] v2 ponies |
 
@@ -803,7 +783,6 @@ P= So EN) e= g00mm * 60 Mifa
 é
 priwany Seon fo
 ‘ple Re Po | 5555. SEN
-Pp 2 Ree by 1004 Rovels a SEN wore
 
 Sttond Aner ind
 
@@ -851,13 +830,10 @@ Fi
 
 fa> Given data P= BSxi0? Syp= 400 MPa fos= 4
 
-peru sible deunle is end
 aT = 4M. 190 A/mm ™ > i mort |
 a
 
-ALluahion 4 dived 4 Bevoling Shed
 
-oz - Phe 2 gsxi02 2 1FSXID? > 2 mare
 : ar fe
 
 Mp= P x14d = asx 1D 140 = 35x10? v-mw
@@ -895,7 +871,6 @@ Em: p(h+é4) LTT aA .\ y
 —__——— h
 Ae PEL pho | Collor
 (eee NL
-TS auadrabic <ul ee ee Ty
 
 [oma J + (" (ae
 
@@ -911,6 +886,8 @@ DR ROR RK 12 FR RR
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_Mechanical_7031/Fundamentals of Engineering Design/ANS_Fundamentals of Engineering Design(701ME0C013)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2025
 - Text: mixed (12 pages), mean OCR confidence 39.2
+- 14 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1010,14 +987,12 @@ re he . goes
 Th (pt_d* pt_d4
 le
 
-. pal decors pote Rpvali)
 LE Ginsegl | TH aoa
 
 hensey “Thtrvol Arron
 Fp Ome) Ya a
 ob Coeggicint ic
 3S Bbowric muaclatod .
-A) lavewraios avd bourcony Gro om?
 5
 Zz Explamaion qe" fw,
 
@@ -1025,18 +1000,13 @@ ps nants Qu = SMOKE:
 
 FR CK
 --- page 4 ---
-LD ~ Banc prmuples Kiveted joint — Qmark
 TAPS 4 Riveleal joint
 y. Basel on Rived avrangemerd
-lop joint & Gutt [owt
 101 i Bult jot
 lp jont a en Roce! pagent
 le Rouble Qvontlt
-- Aowat * | iveled jowt yor Hn
 - mMutple Aivettd jo
-— mulli Riveled (ont woth ie
 Unaun Avvangemerd Chain ee
-- Mulk Siveted joiné worth f_ Lig a4 hyvoy ¢
 Ty ty atlangement
 
 Agplierions
@@ -1053,7 +1023,6 @@ o:
 @ Given dala
 All B= 241x107 Mia d- Ao mm L- = 60x 10°’mno
 V2 36Kmph =) M[s
-KE 4 poayorn is jr ened to id rohen wagon Astops Sreldenty
 KE = Ybmv = (483894 nimm
 a,
 2
@@ -1102,7 +1071,6 @@ A D04Ly
 Be Given datla as ~32 dz 3fgRB C= 63 0)mm>
 
 =
-od p= poor? W Ne NOYPM “Twas 2 Tm eau
 Cee s000mm OF hah 0102443 Vad
 
 20h Trean
@@ -1162,7 +1130,6 @@ pee
 
 BD Honlpy = 6227 % 63 bw eS
 
-BS gox pp? 100 Fw a, we
 
 » gorge = bo ew
 
@@ -1175,7 +1142,6 @@ BS gox pp? 100 Fw a, we
 » - 620
 
 EX porn > Plow
-Kaho feutoy gp = Hox ges 620 => gh > bAl4 a pre
 
 S AOx 0’ = 40 =<
 > AED > 56:48 ~% $6
@@ -1225,7 +1191,6 @@ FIC QF OH ar
 \
 
 Gay Chear dite
--_ Pi pie pis P= axo*. aso > [} morte]
 Pie Poe Pe = hy ms nm
 
 Setondary Shear 4ce
@@ -1261,7 +1226,6 @@ FRR ICR 7 OI HOH
 Fel. votdte i
 gm. Sut. 400 = 160 W]mmr —> imo
 4+ * Thos * os :
-Colt 4 diaet amd bemsliny Sere .
 100 almm> —> ae"
 
 T. = Pla - sg
@@ -1279,7 +1243,6 @@ degomm = P= BuRIDP
 
 Extevdien withe) hole
 
-sls PL = Bexi’xtwee ~ 9, 2120 > [a mort]
 AE Ty 40074 20
 
 a

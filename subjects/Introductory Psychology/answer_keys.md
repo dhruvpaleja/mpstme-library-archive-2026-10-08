@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CSE_DS_7011/Introductory Psychology/ANS_Introductory Psychology(702BS0C016)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Dec 2024
 - Text: mixed (12 pages), mean OCR confidence 52.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

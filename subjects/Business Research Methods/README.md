@@ -14,30 +14,23 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Business Research Methods(703TG0C006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_Business Research Methods(703TG0C006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Business Research Methods(703TG0C006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Business Research Methods(703TG0C006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Business Research Methods(703TG0C006)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBA TECH | Business Research Methods, Sem-VIII, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_Business Research Methods(703TG0C006)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Business Research Methods(703TG0C006)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Business Research Methods(703TG0C006)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Business Research Methods(703TG0C006)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
@@ -45,16 +38,23 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Business Research Methods(703TG0C006)_2024-2025.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 8 | MBA TECH | Business Research Methods,Sem8,Final,2021-22.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 8 | MBA TECH | Business Research Methods , Re-exam 2021-22.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 8 | MBA TECH | Business Research Methods , Re-exam 2021-22_7807e93bb4.pdf |

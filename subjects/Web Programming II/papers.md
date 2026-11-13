@@ -130,6 +130,7 @@ demonstrate the use of DTD.
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/WEB PROGRAMMING II/Web Programmimng II 2017-18 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 07 May 2018
 - Text: ocr (2 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ye . ef f
@@ -212,7 +213,6 @@ B) What is DHTML? What are the features of DHTML? What is the difference 07
 
 between DHTML and HTML?
 
-woe Nseries mre emee route sEe ie daaEa ren tenennenengnenne reer a nansenmnenenn seaEee
 
 a —
 ````
@@ -496,6 +496,7 @@ smn,
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/WEB PROGRAMMING II/Web Programmimng II 2014-15 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 11/05/2015
 - Text: ocr (3 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS EE ’
@@ -589,7 +590,6 @@ b. SORT DATA d. HAVING
 In XML DOM, ___ property or method of Document objcet returns the specified node,
 and all its child nodes, as a NodeList.
 
-a. createElement(tagName) c. getElementByTagName(tagName)
 
 b. doctype d. getElementByld()
 

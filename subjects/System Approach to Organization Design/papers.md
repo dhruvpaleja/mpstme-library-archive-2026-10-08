@@ -1,6 +1,6 @@
 # System Approach to Organization Design: question papers in full
 
-4 unique papers · 2013-14 to 2014-15 · Common (all branches)
+4 unique papers · 2012-13 to 2014-15 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -177,13 +177,14 @@ Pharmaceutical / Automobile.
 f v4
 ````
 
-## Year not stated · Exam not stated · Trim 15 · paper af2746319967
+## 2012-13 · Exam not stated · Trim 15 · paper af2746319967
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/SYSTEM APPROACH TO ORGANISATION DESIGN/Scan 0012(1).pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 16/4/2013
 - Text: mixed (5 pages), mean OCR confidence 43.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 Academic Year : 2012-2013

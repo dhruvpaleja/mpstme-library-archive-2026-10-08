@@ -1,6 +1,6 @@
 # Software Engineering Methodology
 
-**13** unique papers (13 copies across programmes) · 2007-08 to 2011-12 · 2 programmes · Trim 1
+**14** unique papers (14 copies across programmes) · 2007-08 to 2011-12 · 2 programmes · Trim 1, Trim 3
 
 Download only this subject, sorted by academic year:
 
@@ -22,6 +22,7 @@ Also filed as: `SOFTWARE ENGINEERING METROLOGY`
 | 2009-10 | — | ZIP of papers | Trim 1 | M TECH / I T | M Tech I T TRIM I Software Engineering Methodology 2009-2010.zip |
 | 2009-10 | Final-Exam | Question paper | Trim 1 | M TECH / COMPUTER | Software Engineering Methodology 2009-2010 Final.pdf |
 | 2009-10 | Re-Exam | Question paper | Trim 1 | M TECH / COMPUTER | Software Engineering Methodolgy Batch 2009-2010 Re Exam.pdf |
+| 2009-10 | Re-Exam | Question paper | Trim 3 | M TECH / COMPUTER | Software Architecture & Project Management Batch 2009-2010 Re Exam.pdf [1] |
 | 2008-09 | — | ZIP of papers | Trim 1 | M TECH / I T | M Tech I T TRIM I Software Engineering Methodology 2008-2009.zip |
 | 2008-09 | Final-Exam | Question paper | Trim 1 | M TECH / COMPUTER | Software Engineering Methodology 2008-2009 Final.pdf |
 | 2007-08 | — | ZIP of papers | Trim 1 | M TECH / I T | M Tech I T TRIM I Software Engineering Methodology 2007-2008.zip |
@@ -29,5 +30,9 @@ Also filed as: `SOFTWARE ENGINEERING METROLOGY`
 | — | — | Question paper | Trim 1 | M TECH / I T | scan0056.pdf |
 | — | — | ZIP of papers | Trim 1 | M TECH / I T | M Tech I T TRIM I Software Engineering Methodology SOFTWARE ENGINEERING METHODOLO_8d698dd9.zip |
 | — | — | ZIP of papers | Trim 1 | M TECH / I T | M Tech I T TRIM I Software Engineering Methodology software engineering methodolg_e45a5c4e.zip |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "Software Architecture & Project Management" but the paper is headed "Software Engineering Methodology"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

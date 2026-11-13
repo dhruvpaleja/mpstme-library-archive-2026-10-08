@@ -1,6 +1,6 @@
 # Electronic Systems: question papers in full
 
-13 unique papers · 2022-23 to 2025-26 · Mechatronics
+14 unique papers · 2022-23 to 2025-26 · Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -649,6 +649,111 @@ ff BL-1
 Page 3 of 3
 ````
 
+## 2023-24 · Re-Exam · Sem 3 · paper 6ae327d3337b
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/Electronic Systems, Sem-III, Batch 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 82.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+Program: B. Tech Stream : Mechatronics Year: II Semester: III
+Subject: Electronic Systems Time: 3 hrs (10 AM to 1 PM)
+Date:_t2./ 02 / 20% No. of Pages:03
+
+Marks:100
+
+Re-Examination(2022-2023)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Answer briefly:
+
+Ql. | CO-1;SO-1; a.
+
+BL What is CMOS inverter? How does it work? [04]
+CO- 1; SO- 1; b. :
+_ How does the Zener diode work as voltage regulator? [04]
+CO- 1; SO- 1; c. . . .
+bie Why we use linear regulated power supply? Draw its block diagram. [04]
+CO- 2; SO- 1; d. sous
+BLO What do you mean by CMRR of Op-amp? How is it important? [04]
+CO-2;SO-1; | e. | How do we form a differentiator circuit using Op-amp? Write down its [04]
+4
+BL-2 output expression.
+oh
+Q2. | CO-1;S0-1; | a. . . . eo, .
+BLD Explain the construction and working of NPN Transistor in detail. [10]
+CO-3;SO-1; | b. | Draw the pin diagram of IC-555 timer and explain its operation in astable
+10]
+Binz mode.
+Q3. | CO-1;SO-1; | a. | Calculate the emitter current in the voltage divider circuit shown in figure [10]
+
+BL-5 below. Also find the value of Vcg and collector potential Vc
+--- page 2 ---
++Voc=20V
+
+: ”
+B= 1kQ i
+R, 210kQ ?
+
+ley
+
+E
+Ry 10k 3 Rp=5kQ
+
+CO-2;SO-1; | b. | Discuss the inverting Schmitt Trigger with suitable circuit diagram and
+
+Pied waveforms. i
+Q4. | CO-1;SO-1; | a. | Draw the circuit diagram of CMOS Transmission Gate and discuss its
+Bled working in detail. a)
+CO-2;SO-1; | b. | Draw the pin diagram of Op-amp (IC-741) and derive the expression of
+BL-3 gain for non-inverting mode. ne
+Q5. | CO-2;SO-1; | a. | What is an instrumentation amplifier? Explain the instrumentation
+BL-2 amplifier using three Op-amps. ms
+CO-2;SO-1; | b. | Describe sample and hold circuit with suitable circuit diagram and
+BL-2 waveforms. (10)
+om a un) & Draw the output waveform of the following circuit. Assume a and D2
+to be practical having Vy =0.7V
+[06]
+CO-1;SO-1; | b. | Describe the working of PN junction diode and sketch its VI-
+BE2 characteristics. we)
+CO-1;SO-1; | c. | What is the role of rectifiers in power supply? Discuss various types of
+cea rectifier circuits in detail. es)
+Q7. | Write short notes on the following:
+--- page 3 ---
+CO- 2; SO- 1; a.
+
+Ideal vs Practical Op-Amp j [05]
+BL-1 t
+CO- 2; SO- 1; b.
+Op- P. t . 05
+BL-1 p-amp Parameters ee [05]
+CO-1;SO-1; | c. :
+BJT as a switch [05]
+BL-1
+CO-3;SO-1; | d. . . r
+Biel Low pass and High Pass Filter using Op-amp [05]
+````
+
 ## 2023-24 · Re-Exam · Sem 3 · paper 1e65ade4123e
 
 - Departments: Mechatronics
@@ -656,6 +761,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC SYSTEMS/Electronic Systems, Sem-III, Re Exam 2022-23, A Y 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 / 11 / 2023
 - Text: ocr (3 pages), mean OCR confidence 81.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -694,7 +800,6 @@ CO- 1; SO- 1; . 7
 —_ ° What is SMPS and how it works? [04]
 CO- 2; SO- 1; d. . .
 ii Compare ideal and practical Op-amps. [04]
-ma CO-2;SO-1; | e. 3 P P ae
 BLD What is V to I Converter? List down any of its two applications. [04]
 Q2. | CO-1;SO-1; | a. | With the help of suitable diagram, explain the construction and working 110)
 BL-2 of NPN Transistor.

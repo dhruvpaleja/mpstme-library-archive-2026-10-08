@@ -1373,6 +1373,125 @@ BL-2 representation. Enlist its applications. *
 2/2
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 39aeee59fd85
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/3D PRINTING/3D Printing.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/05/2023
+- Text: ocr (2 pages), mean OCR confidence 94.9
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2022-2023
+Program: B. Tech./MBA Tech Stream : All streams (Open Elective) Year: III Semester: VI
+
+Subject: 3D Printing Time: 3 hrs (10 am to 1 pm)
+Date:04/05/2023 No. of Pages:02
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Solve the following sub-questions.
+
+CO-1; SO-7; . | Demonstrate classification of 3D Printing processes.
+
+BL-2
+
+CO-3; SO-6; . | Analyze form then bond method used in laminated object manufacturing.
+BL-4
+
+CO-3; SO-7; . | Justify the statement- Support removal is the compulsory technique used
+BL-5 for FDM printed parts.
+
+CO-3; SO-7; . | Illustrate topology optimization in short with suitable example.
+BL-2
+
+Q2
+
+CO-2; SO-7; . | Describe steps involved in additive manufacturing process chain in detail
+BL-2 with proper example.
+
+CO-1; SO-7; . | What do you understand by material jetting (MJ) process? Explain
+BL-3 continuous method of MJ with neat sketch.
+
+Q3
+
+CO-1; SO-6; a. | Analyse factors affecting cost of 3D printing? Which are the common
+BL-4 ways using which you can reduce cost of 3D printed parts? Explain.
+CO-2; SO-7; . | What do you understand by Laser Engineered Net Shaping process?
+BL-2 Explain the process in detail with neat sketch. Enlist its applications.
+--- page 2 ---
+Q4
+
+CO-2; SO-6; a. | Analyze how do part orientation affect 3D printed parts with respect to its [10]
+
+BL-4 accuracy, print time, strength and surface finish? Explain with appropriate
+examples.
+
+CO-1; SO-7; b. | Enlist various parameters affecting 3D printing process. Describe [05]
+
+BL-2 importance of layer height and infill density in accordance with 3D
+printing.
+
+CO-3; SO-6; c. | Evaluate the role of 3D printing in accelerating innovation in the medical [05]
+
+BL-5 industry.
+
+Q5
+
+CO-1; SO-7; a. | Illustrate material extrusion process. Explain working of fused deposition | [10]
+
+BL-2 modelling (FDM) process with neat diagram.
+
+CO-2; SO-7; b. | Illustrate design for additive manufacturing. [05]
+
+BL-2
+
+CO-3; SO-6; c. | Justify the statement — Additive manufacturing is considered to be an [05]
+
+BL-5 essential ingredient of Industry 4.0
+
+Q6
+
+CO-2; SO-7; a. | Enlist various AM file formats used in 3D printing. Describe -stl file [10]
+
+BL-2 format in detail.
+
+CO-1; SO-7; b. | Explain working of selective laser sintering (SLS) process in detail with [10]
+
+BL-3 neat diagram. Enlist its applications.
+
+Q7
+
+CO-2; SO-6; a. | Asses the common issues faced by 3D printed parts. Write a note on post [10]
+
+BL-5 processing of SLM printed parts.
+
+CO-1; SO-7; b. | Explain in detail about the parameters affecting UAM process. Enlist [10]
+
+BL-3 various areas where UAM can be used effectively.
+
+2/2
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper b8a9a469e126
 
 - Departments: Common (all branches)
@@ -1581,125 +1700,6 @@ ii. _ Surface finish improvement
 CO-3; SO-7; b. | Describe binder jetting process. Explain in short about common materials | [10]
 BL-2 used in binder jetting additive manufacturing process. Enlist applications of
 binder jetting process.
-
-2/2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 39aeee59fd85
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/3D PRINTING/3D Printing.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/05/2023
-- Text: ocr (2 pages), mean OCR confidence 94.9
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-Program: B. Tech./MBA Tech Stream : All streams (Open Elective) Year: III Semester: VI
-
-Subject: 3D Printing Time: 3 hrs (10 am to 1 pm)
-Date:04/05/2023 No. of Pages:02
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Solve the following sub-questions.
-
-CO-1; SO-7; . | Demonstrate classification of 3D Printing processes.
-
-BL-2
-
-CO-3; SO-6; . | Analyze form then bond method used in laminated object manufacturing.
-BL-4
-
-CO-3; SO-7; . | Justify the statement- Support removal is the compulsory technique used
-BL-5 for FDM printed parts.
-
-CO-3; SO-7; . | Illustrate topology optimization in short with suitable example.
-BL-2
-
-Q2
-
-CO-2; SO-7; . | Describe steps involved in additive manufacturing process chain in detail
-BL-2 with proper example.
-
-CO-1; SO-7; . | What do you understand by material jetting (MJ) process? Explain
-BL-3 continuous method of MJ with neat sketch.
-
-Q3
-
-CO-1; SO-6; a. | Analyse factors affecting cost of 3D printing? Which are the common
-BL-4 ways using which you can reduce cost of 3D printed parts? Explain.
-CO-2; SO-7; . | What do you understand by Laser Engineered Net Shaping process?
-BL-2 Explain the process in detail with neat sketch. Enlist its applications.
---- page 2 ---
-Q4
-
-CO-2; SO-6; a. | Analyze how do part orientation affect 3D printed parts with respect to its [10]
-
-BL-4 accuracy, print time, strength and surface finish? Explain with appropriate
-examples.
-
-CO-1; SO-7; b. | Enlist various parameters affecting 3D printing process. Describe [05]
-
-BL-2 importance of layer height and infill density in accordance with 3D
-printing.
-
-CO-3; SO-6; c. | Evaluate the role of 3D printing in accelerating innovation in the medical [05]
-
-BL-5 industry.
-
-Q5
-
-CO-1; SO-7; a. | Illustrate material extrusion process. Explain working of fused deposition | [10]
-
-BL-2 modelling (FDM) process with neat diagram.
-
-CO-2; SO-7; b. | Illustrate design for additive manufacturing. [05]
-
-BL-2
-
-CO-3; SO-6; c. | Justify the statement — Additive manufacturing is considered to be an [05]
-
-BL-5 essential ingredient of Industry 4.0
-
-Q6
-
-CO-2; SO-7; a. | Enlist various AM file formats used in 3D printing. Describe -stl file [10]
-
-BL-2 format in detail.
-
-CO-1; SO-7; b. | Explain working of selective laser sintering (SLS) process in detail with [10]
-
-BL-3 neat diagram. Enlist its applications.
-
-Q7
-
-CO-2; SO-6; a. | Asses the common issues faced by 3D printed parts. Write a note on post [10]
-
-BL-5 processing of SLM printed parts.
-
-CO-1; SO-7; b. | Explain in detail about the parameters affecting UAM process. Enlist [10]
-
-BL-3 various areas where UAM can be used effectively.
 
 2/2
 ````

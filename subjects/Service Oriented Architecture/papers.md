@@ -1,6 +1,6 @@
 # Service Oriented Architecture: question papers in full
 
-35 unique papers · 2011 to 2019-20 · Information Technology, Computer Applications (MCA), Common (all branches)
+35 unique papers · 2011-12 to 2019-20 · Information Technology, Computer Applications (MCA), Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -87,6 +87,7 @@ ah -.
 - Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/Sem_05/SERVICE ORINETED ARCHITECTURE/Service Oriented Architecture 2019-20 Final.pdf`
 - Printed on paper: exam date: 09 November 2019
 - Text: ocr (2 pages), mean OCR confidence 86.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -112,7 +113,6 @@ _ 1) Question No._1___ is compulsory.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume -suitable data if necessary.
 
-eR RR RR EO 2 oe 2 eK Oo ee OO KK KE EEE KEK
 
 Q1.(a) Write short note on:
 
@@ -148,7 +148,6 @@ Q7. Differentiate between:
 (c) WS —Choreography and WS-Orchestration. [3]
 (d) Services vs Service Candidates [3]
 
-of eo oe oo oe oo oo KE KE
 ````
 
 ## 2018-19 · Final-Exam · Sem 8 · paper a2fa6dd33389
@@ -1436,6 +1435,7 @@ Q7. Write short notes on (Any Four) [12]
 - Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/Sem_05/SERVICE ORINETED ARCHITECTURE/Service Oriented Architecture Batch 2015-16 Re Exam.pdf`
 - Printed on paper: max marks: 60; exam date: 09 June 2016
 - Text: ocr (2 pages), mean OCR confidence 88.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1486,7 +1486,6 @@ correct answer)
 a. WSDL b. SOAP c. Policy d. UDDI
 
 6 Find the MEP for given WSDL.
-<portT ype name="glossaryTerms">
 <operation name="setTerm">
 <input name="newTerm* message="newTermValues"/>
 </operation>
@@ -1504,7 +1503,6 @@ b. WS-Reliable Message d. WS-Addressing
 Process Execution Language (WS-BPEL). (True/False). Justify
 12 Choose the correct nesting of WSDL elements
 i. <operation> ii. <definitions> iii.<portType> iv. <input message>
-a. i, ii, iii, iv b. iii, ii, iv, i c. iv, ii, iii, i d. ii, iii, i, iv
 
 Q.2 (a) What is SOA? Explain two business related benefits and two IT related benefits of [06]
 SOA.
@@ -1817,6 +1815,178 @@ e Explain how version control is achieved using WS-Metadata Exchange
 x x
 
 af
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper eca7f3322944
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/SERVICE ORIENTED ARCHITECTURE/SERVICE ORIENTED ARCHITECTURE B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 1.3; exam date: 08/05/2015
+- Text: ocr (2 pages), mean OCR confidence 90.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: IV
+
+Semester: VIII
+Batch: 2013-14
+
+Academic Year: 2014-2015
+
+Subject: Service Oriented Architecture
+Date: 08/05/2015 a] 10. 00rarhlto
+Durations: 1.3 (hrs) * ¥
+Re-Examination we Ae
+=. AL si Wer
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1(a) What is the concept ofa service in Service Oriented Architecture? Explain SOA [10]
+Components with diagram.
+Q.1(b) Explain the following Delivery Strategy with its pros and cons. [10]
+
+i)Top-Down strategy
+ii)Bottom -up strategy
+iii)Agile strategy
+
+Q.2 (a) What is SOAP? What is its significance in SOA? Explain how SOAP is [10]
+transported using HTTP. ;
+
+Q.2(b) Explain the various non-functional requirements to be determined during [10]
+analysis of SOA:
+
+Q.3 (a) Design a service framework for a firm specializing in inventory control. The [10]
+
+framework should contain business processes like vendor profile, accounting
+services, electronic invoice, purchase order details, etc.
+Explain i) Analysis steps iii) Service Modeling ii) steps to compose SOA.
+
+Q.3(b) Write a note on Web Services Description Language. Explain its need in SOA. [10]
+
+Q.4 (a) Explain WS Reliable Messaging in detail. [10]
+Q.4(b) What is SLA? What are the various Service-level agreement considerations [10]
+required?
+--- page 2 ---
+Q.5(a) Explain with neat diagram, the steps of: [10]
+
+i) WS-Coordination registration process.
+ii) WS-Coordination completion process.
+Q.5(b) Explain the use of registry in SOA. Describe the UDDI registry record [10]
+
+components in detail.
+
+Q.6(a) Explain service design guidelines of SOA. What are task centric business [10]
+services?
+Q.6(b) Explain need of service layers from enterprise viewpoint. Explain its various {10}
+
+sub layers in detail.
+
+Q.7 Write a short note on (any 4) [20]
+
+A Intermediary services
+
+B_ Business centric SOA benefits
+
+C Contemporary issues related to SOA
+D_ SOA Vs Traditional systems.
+
+E Orchestration vs Choreography
+
+— x
+
+@
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper a8089dc90144
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/SERVICE ORIENTED ARCHITECTURE/SERVICE ORIENTED ARCHITECTURE B TECH (IT), BATCH 2013-14 RE EXAM_a8089dc901.pdf`
+- Printed on paper: exam date: 30/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (1.T.) Year: IV Semester: VIII
+Batch: 2013-14 ; /
+Academic Year: 2014-2015 ; =
+
+Subject: Service Oriented Architecture é NN ly,
+Marks: NS,
+
+Date: 30/06/2015 Time: 2.00 pm to 5:00pm
+Durations: \, 3:(hrs) wy
+
+Re-Examination OT ag, eget *
+Instructions:
+
+1. Question No 1 is compulsory
+
+2. Out of remaining questions, attempt any 4 questions.
+3. In all, 5 questions to be attempted.
+
+4. All questions carry equal marks
+
+5. Figure to the right indicate full marks
+
+6. Assume suitable data wherever required
+
+Ql) a) Justify the following statement”SOA promotes loose coupling throughout the
+
+enterprise” (5M)
+
+b) Explain the concept of atomic transactions in SOA (5M)
+
+c) How does SOA differ from distributed internet architecture? (5M)
+
+d) What are the common misperceptions related to SOA? (SM)
+
+Q2 a) What is WS-Coordination? Explain the WS coordination registration process (10M)
+b) Write a detailed note on XML schema with suitable example. (10M)
+Q3) a) What are the contemporary issues related to SOA? (10M)
+b) Explain abstract and concrete WSDL document structure along with its syntax. (10M)
+
+Q4) a) What are benefits of UDDI? Explain the basic structure of UDDI service registry (10M)
+
+b) Explain concept of Web service reliable messaging in detail (10M)
+Q5) a) What is WS-Security? Explain the concept of single sign on. (10M)
+b) Explain the non-functional requirements of service oriented business system (10M)
+
+ye
+--- page 2 ---
+Q6) a) In the context of contemporary SOA explain the following: (10M)
+i. Orchestration
+ii. Choreography
+
+b) Explain the WS Metadata specification in detail with suitable diagram. (10M)
+
+Q7) a) Define SOA governance. Why is it required? Explain how SOA governance is (10M)
+
+different from IT governance.
+
+b) Explain the bottom up delivery strategy in SOA .Give its pros and cons. (10M)
+
+2/2
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper 7a63b237d246
@@ -2333,104 +2503,6 @@ Q. 7 (b) | Explain various layers of Service layer. [10]
 212.
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper eca7f3322944
-
-- Departments: Information Technology
-- Programmes: B TECH / IT
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/SERVICE ORIENTED ARCHITECTURE/SERVICE ORIENTED ARCHITECTURE B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 1.3; exam date: 08/05/2015
-- Text: ocr (2 pages), mean OCR confidence 90.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: IV
-
-Semester: VIII
-Batch: 2013-14
-
-Academic Year: 2014-2015
-
-Subject: Service Oriented Architecture
-Date: 08/05/2015 a] 10. 00rarhlto
-Durations: 1.3 (hrs) * ¥
-Re-Examination we Ae
-=. AL si Wer
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1(a) What is the concept ofa service in Service Oriented Architecture? Explain SOA [10]
-Components with diagram.
-Q.1(b) Explain the following Delivery Strategy with its pros and cons. [10]
-
-i)Top-Down strategy
-ii)Bottom -up strategy
-iii)Agile strategy
-
-Q.2 (a) What is SOAP? What is its significance in SOA? Explain how SOAP is [10]
-transported using HTTP. ;
-
-Q.2(b) Explain the various non-functional requirements to be determined during [10]
-analysis of SOA:
-
-Q.3 (a) Design a service framework for a firm specializing in inventory control. The [10]
-
-framework should contain business processes like vendor profile, accounting
-services, electronic invoice, purchase order details, etc.
-Explain i) Analysis steps iii) Service Modeling ii) steps to compose SOA.
-
-Q.3(b) Write a note on Web Services Description Language. Explain its need in SOA. [10]
-
-Q.4 (a) Explain WS Reliable Messaging in detail. [10]
-Q.4(b) What is SLA? What are the various Service-level agreement considerations [10]
-required?
---- page 2 ---
-Q.5(a) Explain with neat diagram, the steps of: [10]
-
-i) WS-Coordination registration process.
-ii) WS-Coordination completion process.
-Q.5(b) Explain the use of registry in SOA. Describe the UDDI registry record [10]
-
-components in detail.
-
-Q.6(a) Explain service design guidelines of SOA. What are task centric business [10]
-services?
-Q.6(b) Explain need of service layers from enterprise viewpoint. Explain its various {10}
-
-sub layers in detail.
-
-Q.7 Write a short note on (any 4) [20]
-
-A Intermediary services
-
-B_ Business centric SOA benefits
-
-C Contemporary issues related to SOA
-D_ SOA Vs Traditional systems.
-
-E Orchestration vs Choreography
-
-— x
-
-@
-````
-
 ## 2013-14 · Re-Exam · Sem 8 · paper 26de11ceb831
 
 - Departments: Information Technology
@@ -2499,78 +2571,86 @@ B__ ACID Transactions in SOA
 C Orchestration & Choreography
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper a8089dc90144
+## 2013-14 · Re-Exam · Trim 7 · paper 19c9a0aec010
 
 - Departments: Information Technology
-- Programmes: B TECH / IT
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/SERVICE ORIENTED ARCHITECTURE/SERVICE ORIENTED ARCHITECTURE B TECH (IT), BATCH 2013-14 RE EXAM_a8089dc901.pdf`
-- Printed on paper: exam date: 30/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.5
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SERVICES ORIENTED ARCHITECTURE/SERVICE ORIENTED ARCHITECTURE BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 9/12/2013
+- Text: ocr (1 page), mean OCR confidence 90.4
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (1.T.) Year: IV Semester: VIII
-Batch: 2013-14 ; /
-Academic Year: 2014-2015 ; =
+Programme:MBA Tech (IT) Year: Ill Trimester: VID oe
+a ¢ MAMI?
+Academic Year: 2013-14 Batch:2012-13 se geet =
 
-Subject: Service Oriented Architecture é NN ly,
-Marks: NS,
+Subject : Service Oriented Architecture {x
+{&4
 
-Date: 30/06/2015 Time: 2.00 pm to 5:00pm
-Durations: \, 3:(hrs) wy
+Marks:100
+Date :9/12/2013 Time : 10.00
 
-Re-Examination OT ag, eget *
-Instructions:
+Bis
+t&1.00 pm
+Durations:3 (hr ez,
 
-1. Question No 1 is compulsory
+Re-Examination — .
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+NB :1. Out of QNo.1 to QNo.7 questions, attempt any FIVE questions.
 
-2. Out of remaining questions, attempt any 4 questions.
-3. In all, 5 questions to be attempted.
+Ds All questions carry equal marks.
 
-4. All questions carry equal marks
+3. Answer to each new question should be started on a fresh page.
 
-5. Figure to the right indicate full marks
+4. Figures in brackets on the right hand side indicate full marks.
 
-6. Assume suitable data wherever required
+Q.la. Describe the characteristics/principles of SOA. Explain the components of SOA [10]
+through a diagram.
+Q.1b. ‘Compare and Contrast between SOA vs Object Orientation & Distributed [10]
 
-Ql) a) Justify the following statement”SOA promotes loose coupling throughout the
+Architecture.
 
-enterprise” (5M)
+Q.2a. Describe the SOAP message format through a diagram. Explain the importance of [10]
+SOAP for messaging.
 
-b) Explain the concept of atomic transactions in SOA (5M)
+Q.2b. Describe the UDDI format. Explain the classification of registry data. [10]
 
-c) How does SOA differ from distributed internet architecture? (5M)
+Q.3a. Explain the process steps of top-up delivery strategy with its pros & cons. [10]
 
-d) What are the common misperceptions related to SOA? (SM)
+Q.3b. Describe the Web Service Framework. Why is Web Service technology apt for SOA [10]
+implementation?
 
-Q2 a) What is WS-Coordination? Explain the WS coordination registration process (10M)
-b) Write a detailed note on XML schema with suitable example. (10M)
-Q3) a) What are the contemporary issues related to SOA? (10M)
-b) Explain abstract and concrete WSDL document structure along with its syntax. (10M)
+Q.4a. Compare & Contrast between Transport-Level & Message-Level Security. Describe [10]
+the WS-Policy framework and the SOA features achieved by implementing WS-
+Policy. ;
 
-Q4) a) What are benefits of UDDI? Explain the basic structure of UDDI service registry (10M)
+Q.4b. Distinguish between Orchestration & Choreography. Explain the need for Metadata [10]
+Exchange & its discoverability SOA feature.
 
-b) Explain concept of Web service reliable messaging in detail (10M)
-Q5) a) What is WS-Security? Explain the concept of single sign on. (10M)
-b) Explain the non-functional requirements of service oriented business system (10M)
+Q.5a. Describe WS-BPEL process definition framework. Describe WS-Coordination types [10]
+(Atomic Transaction & Business Activity).
 
-ye
---- page 2 ---
-Q6) a) In the context of contemporary SOA explain the following: (10M)
-i. Orchestration
-ii. Choreography
+Q.5b. Describe the importance of WS-ReliableMessaging within SOA. How does WS- [10]
+Addressing achieve transport standardization within SOA?
 
-b) Explain the WS Metadata specification in detail with suitable diagram. (10M)
+Q.6a. Explain benefits of business-centric SOA. Explain system design guidelines of SOA. [10]
+Q.6b. Describe service modeling basic building blocks. - [10]
 
-Q7) a) Define SOA governance. Why is it required? Explain how SOA governance is (10M)
+Q.7 _ Write short notes on: (ANY. FOUR) [20]
+a. SOA Governance.
+b. SOA Platforms.
+c. WS-BPEL.
+d. SOA Delivery life cycle.
+e. Web Services Protocol Stack.
+f. WS-Coordination types.
 
-different from IT governance.
+K
 
-b) Explain the bottom up delivery strategy in SOA .Give its pros and cons. (10M)
-
-2/2
+Page 1 of 1
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper 17bdcf00c177
@@ -2705,86 +2785,83 @@ Q.7(b) Benefits of business-centric SOA [10]
 1 nar 0
 ````
 
-## 2012-13 · Re-Exam · Trim 7 · paper 19c9a0aec010
+## 2012-13 · Exam not stated · Trim 7 · paper c9a4052f2bc2
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SERVICES ORIENTED ARCHITECTURE/SERVICE ORIENTED ARCHITECTURE BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 9/12/2013
-- Text: ocr (1 page), mean OCR confidence 90.4
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SERVICES ORIENTED ARCHITECTURE/scan0016(4).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 1/10/2012
+- Text: ocr (1 page), mean OCR confidence 87.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (IT) Year: Ill Trimester: VID oe
-a ¢ MAMI?
-Academic Year: 2013-14 Batch:2012-13 se geet =
+Mukesh Patel School Of Technology Management & Engineering ——
+Programme: MBA (Tech) -I.T. Year: III Trimester: VII ai
 
-Subject : Service Oriented Architecture {x
-{&4
+Academic Year : 2012-2013
 
-Marks:100
-Date :9/12/2013 Time : 10.00
+‘< SVKMArS
+Subject: SERVICES ORIENTED ARCHITECTURE Marks: 100 *( Meet “ersity yg
+Time: 10.00am To 1.4pprh | Liaanky I}
+Date: 1/10/2012 Duration: 3 hrs. %
+Final - Examination ‘ og
 
-Bis
-t&1.00 pm
-Durations:3 (hr ez,
 
-Re-Examination — .
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
+Instructions: Candidates should read carefully the instructions printed on the question paperane.
 the cover of the Answer Book, which is provided for their use.
-NB :1. Out of QNo.1 to QNo.7 questions, attempt any FIVE questions.
+NB:
 
-Ds All questions carry equal marks.
+1. Out of QNo.1 to QNo.7 questions, attempt any FIVE questions.
+
+2. All questions carry equal marks.
 
 3. Answer to each new question should be started on a fresh page.
 
 4. Figures in brackets on the right hand side indicate full marks.
 
-Q.la. Describe the characteristics/principles of SOA. Explain the components of SOA [10]
+Q.la, Describe the characteristics/principles of SOA. Explain the components of SOA [10]
+
 through a diagram.
-Q.1b. ‘Compare and Contrast between SOA vs Object Orientation & Distributed [10]
+Q.1b. Compare and Contrast between SOA vs Object Orientation & Distributed [10]
+Q.7 Write short notes on: (ANY FOUR) [20]
+a. SOA Governance.
+
+Q.2a. Describe the SOAP message format through a diagram. Explain the importance of [10]
+
+SOAP for messaging.
+Q.2b. Describe the UDDI format. Explain the classification of registry data. [10]
+Q.3a. Explain the process steps of bottom-up delivery strategy with its pros & cons. [10]
+Q.3b. Explain Non-Functional requirements of a service-oriented business system. [10]
 
 Architecture.
 
-Q.2a. Describe the SOAP message format through a diagram. Explain the importance of [10]
-SOAP for messaging.
-
-Q.2b. Describe the UDDI format. Explain the classification of registry data. [10]
-
-Q.3a. Explain the process steps of top-up delivery strategy with its pros & cons. [10]
-
-Q.3b. Describe the Web Service Framework. Why is Web Service technology apt for SOA [10]
-implementation?
-
-Q.4a. Compare & Contrast between Transport-Level & Message-Level Security. Describe [10]
-the WS-Policy framework and the SOA features achieved by implementing WS-
-Policy. ;
+Q.4a. iCompare & Contrast between Transport-Level & Message-Level Security. Describe [10]
+jhe WS-Policy framework and the SOA features achieved by implementing WS-
+Policy.
 
 Q.4b. Distinguish between Orchestration & Choreography. Explain the need for Metadata [10]
 Exchange & its discoverability SOA feature.
 
-Q.5a. Describe WS-BPEL process definition framework. Describe WS-Coordination types [10]
-(Atomic Transaction & Business Activity).
+Q.5a. With respect to WSDL structure explain namespace, abstract description, concrete [10]
+description, operation patterns & metadata.
 
 Q.5b. Describe the importance of WS-ReliableMessaging within SOA. How does WS- [10]
-Addressing achieve transport standardization within SOA?
+Addregsing achieve transport standardization within SOA?
 
-Q.6a. Explain benefits of business-centric SOA. Explain system design guidelines of SOA. [10]
-Q.6b. Describe service modeling basic building blocks. - [10]
+Q.6a. ; Explgit benefits of business-centric SOA. Explain system design guidelines of SOA. —_ [10]
 
-Q.7 _ Write short notes on: (ANY. FOUR) [20]
-a. SOA Governance.
+Q.6b. Describe service modeling basic building blocks. . [10]
 b. SOA Platforms.
+
 c. WS-BPEL.
 d. SOA Delivery life cycle.
+
 e. Web Services Protocol Stack.
 f. WS-Coordination types.
 
-K
-
-Page 1 of 1
+Page | of 1
 ````
 
 ## 2012-13 · Re-Exam · Trim 7 · paper 0f1ced9e69b9
@@ -2837,7 +2914,7 @@ b. Explain WS- reliable messaging within SOA. How does WS-Addressing achieve tra
 standardization within SOA?
 ````
 
-## 2011 · Exam not stated · Trim 7 · paper 6d5de2085cfa
+## 2011-12 · Exam not stated · Trim 7 · paper 6d5de2085cfa
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
@@ -2919,83 +2996,4 @@ f. WSDL Format.
 om
 
 Page 1 of 1
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper c9a4052f2bc2
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SERVICES ORIENTED ARCHITECTURE/scan0016(4).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 1/10/2012
-- Text: ocr (1 page), mean OCR confidence 87.0
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering ——
-Programme: MBA (Tech) -I.T. Year: III Trimester: VII ai
-
-Academic Year : 2012-2013
-
-‘< SVKMArS
-Subject: SERVICES ORIENTED ARCHITECTURE Marks: 100 *( Meet “ersity yg
-Time: 10.00am To 1.4pprh | Liaanky I}
-Date: 1/10/2012 Duration: 3 hrs. %
-Final - Examination ‘ og
-
-we aeksen ac sneoMMnn nes UU So Manas ewes
-
-Instructions: Candidates should read carefully the instructions printed on the question paperane.
-the cover of the Answer Book, which is provided for their use.
-NB:
-
-1. Out of QNo.1 to QNo.7 questions, attempt any FIVE questions.
-
-2. All questions carry equal marks.
-
-3. Answer to each new question should be started on a fresh page.
-
-4. Figures in brackets on the right hand side indicate full marks.
-
-Q.la, Describe the characteristics/principles of SOA. Explain the components of SOA [10]
-
-through a diagram.
-Q.1b. Compare and Contrast between SOA vs Object Orientation & Distributed [10]
-Q.7 Write short notes on: (ANY FOUR) [20]
-a. SOA Governance.
-
-Q.2a. Describe the SOAP message format through a diagram. Explain the importance of [10]
-
-SOAP for messaging.
-Q.2b. Describe the UDDI format. Explain the classification of registry data. [10]
-Q.3a. Explain the process steps of bottom-up delivery strategy with its pros & cons. [10]
-Q.3b. Explain Non-Functional requirements of a service-oriented business system. [10]
-
-Architecture.
-
-Q.4a. iCompare & Contrast between Transport-Level & Message-Level Security. Describe [10]
-jhe WS-Policy framework and the SOA features achieved by implementing WS-
-Policy.
-
-Q.4b. Distinguish between Orchestration & Choreography. Explain the need for Metadata [10]
-Exchange & its discoverability SOA feature.
-
-Q.5a. With respect to WSDL structure explain namespace, abstract description, concrete [10]
-description, operation patterns & metadata.
-
-Q.5b. Describe the importance of WS-ReliableMessaging within SOA. How does WS- [10]
-Addregsing achieve transport standardization within SOA?
-
-Q.6a. ; Explgit benefits of business-centric SOA. Explain system design guidelines of SOA. —_ [10]
-
-Q.6b. Describe service modeling basic building blocks. . [10]
-b. SOA Platforms.
-
-c. WS-BPEL.
-d. SOA Delivery life cycle.
-
-e. Web Services Protocol Stack.
-f. WS-Coordination types.
-
-Page | of 1
 ````

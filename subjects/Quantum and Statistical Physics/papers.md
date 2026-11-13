@@ -1,8 +1,474 @@
 # Quantum and Statistical Physics: question papers in full
 
-49 unique papers · 2021-22 to 2024-25 · Computer Engineering, Common (all branches), Data Science, Information Technology, Computer Science, Cyber Security, Electronics and Telecommunication, Mechatronics
+49 unique papers · 2021-22 to 2025-26 · Computer Engineering, Common (all branches), Data Science, Information Technology, Computer Science, Cyber Security, Electronics and Telecommunication, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 2 · paper 886db28f6c66
+
+- Departments: Computer Engineering
+- Programmes: BTech Computer 7002
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Computer_7002/Quantum and Statistical Physics/QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Quantum and Statistical Physics
+Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in bracket on right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Attempt any four questions from Question Nos. 2.1 to 2.6.
+6. Assume suitable data wherever necessary.
+7. Use non-programmable scientific calculator.
+Given: h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s, Speed of light, c = 3 x 108 m/s, electronic mass, me = 9.11 x
+10-31 kg, electronic charge, e = 1.6 x 10-19 C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K.
+Q1   Answer briefly:   [20]
+CO-1,2 ;   a.   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann [4]
+BL-1   law and Wien’s displacement law.
+CO- 1,2;   b.
+BL- 1   Write the linear superposition principle with mathematical expression.   [4]
+CO- 1,3;   c.   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-
+[4]
+BL- 1   ordinates and the expression of quantized energy eigenvalue.
+CO- 4;   d.
+State the four basic postulates of Bose-Einstein Distribution.   [4]
+BL-1
+CO- 4;   e.   Which type of statistical distribution is applied to derive Planck’s radiation
+BL- 1   formula with suitable reason? Write the equation describing Planck’s radiation [4]
+law.
+Q2   [20]
+a.   State and explain Heisenberg’s uncertainty principle for position-momentum
+CO- 1,2;   and energy-time with mathematical expressions. In atomic transition from   [10]
+BL- 1   atomic state the time interval is of the order of 10-7 sec.Find out the energy
+uncertainty.
+b.   Interpret the reason behind an electron not being allowed to take zero energy in
+CO- 1,2;   infinite potential well. Calculate the energy required for an electron to jump from [6]
+BL-1   ground state to the second excited state in an infinite potential well of width L.
+CO-1,2,   c.   An electron is trapped in an infinite potential well of length 3 Å. In the ground
+BL-3   state, determine the probability of finding the electron in the region x = 0 to 0.5 [4]
+Å.
+Q3   [20]
+********** 1 **********
+--- page 2 ---
+CO- 1,2;   a.   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in
+BL-2   the position of a cricket ball is, say, 1 mm and comment on the relevance of [10]
+uncertainty principle in case of macro-bodies.
+CO-1,2,   b.   Derive the normalized wave-function of an electron confined in a 1-D potential
+BL-1   well of length L and infinite depth and draw the wavefunctions for three lowest [6]
+states.
+CO-1,2,   c.   Find which of the following functions are eigenfunctions of the momentum [4]
+BL-2   operator (k is a constant): (a) Sinkx (b) eikx .
+Q4   [20]
+CO-1,2;   a.   Write down time independent Schrödinger’s equation free particle and show that
+BL-3   the energy value is continuous.   [10]
+CO-1,3:   b.   Explain “the half-life of polonium that emits 8-MeV α-particles is only
+BL-2   hundreds of milliseconds and the half-life of uranium that emits 4-MeV α-   [6]
+particles is billions of years” by applying quantum mechanical tunnelling.
+CO-1,3,   c.
+BL-2   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.   [4]
+Q5   [20]
+CO-1,3;   a.   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit [10]
+BL-2   of hydrogen atom.
+CO-4;   b.   Find the mathematical formulation for the probability W of distribution for a large [6]
+BL-2   assembly of n distinguishable particles amongst k cells.
+c. A system has non-degenerate single-particle states with 0,1,2,3 energy units.
+Three particles are to be distributed in these states such that the total energy of
+CO-4;   the system is 3 units. Find the number of microstates if the particles obey (i) MB [4]
+BL-3   statistics (ii) BE statistics (iii)FD statistics. Find the corresponding macrostates
+and microstates also.
+Q6   [20]
+CO-4:   a.   Explain the micro canonical and grand canonical ensembles in statistical
+BL-1   mechanics, highlighting their key features, differences, and thermodynamic   [10]
+variables. Support your explanation with appropriate diagrams.
+CO-4;   b.
+Using statistical mechanics, obtain Planck’s distribution law and discuss its [6]
+BL-3   physical significance in describing blackbody radiation
+CO-4;   c.
+Calculate the number of photons per cubic meter at 2000 K.   [4]
+BL-3
+Q7   [20]
+CO-4;   a.
+Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac   [10]
+BL-1   statistics distribution function.
+CO-1,2;   b.   X-rays of 71pm are scattered by free electrons in a block of carbon through
+30°.Find the wavelength of the scattered X-ray. What is the largest shift that can [6]
+BL-2
+be expected in this experiment?
+********** 2 **********
+--- page 3 ---
+CO-1,2;   c.   The wave-function for a quantum particle of mass m confined to move in the
+domain 0 < x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)   [4]
+BL-3
+Calculate the normalization constant N.
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 849721a7346f
+
+- Departments: Information Technology
+- Programmes: BTech IT 7001
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_IT_7001/Quantum and Statistical Physics/QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Quantum and Statistical Physics
+Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in bracket on right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Attempt any four questions from Question Nos. 2.1 to 2.6.
+6. Assume suitable data wherever necessary.
+7. Use non-programmable scientific calculator.
+Given: h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s, Speed of light, c = 3 x 108 m/s, electronic mass, me = 9.11 x
+10-31 kg, electronic charge, e = 1.6 x 10-19 C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K.
+Q1   Answer briefly:   [20]
+CO-1,2 ;   a.   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann [4]
+BL-1   law and Wien’s displacement law.
+CO- 1,2;   b.
+BL- 1   Write the linear superposition principle with mathematical expression.   [4]
+CO- 1,3;   c.   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-
+[4]
+BL- 1   ordinates and the expression of quantized energy eigenvalue.
+CO- 4;   d.
+State the four basic postulates of Bose-Einstein Distribution.   [4]
+BL-1
+CO- 4;   e.   Which type of statistical distribution is applied to derive Planck’s radiation
+BL- 1   formula with suitable reason? Write the equation describing Planck’s radiation [4]
+law.
+Q2   [20]
+a.   State and explain Heisenberg’s uncertainty principle for position-momentum
+CO- 1,2;   and energy-time with mathematical expressions. In atomic transition from   [10]
+BL- 1   atomic state the time interval is of the order of 10-7 sec.Find out the energy
+uncertainty.
+b.   Interpret the reason behind an electron not being allowed to take zero energy in
+CO- 1,2;   infinite potential well. Calculate the energy required for an electron to jump from [6]
+BL-1   ground state to the second excited state in an infinite potential well of width L.
+CO-1,2,   c.   An electron is trapped in an infinite potential well of length 3 Å. In the ground
+BL-3   state, determine the probability of finding the electron in the region x = 0 to 0.5 [4]
+Å.
+Q3   [20]
+********** 1 **********
+--- page 2 ---
+CO- 1,2;   a.   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in
+BL-2   the position of a cricket ball is, say, 1 mm and comment on the relevance of [10]
+uncertainty principle in case of macro-bodies.
+CO-1,2,   b.   Derive the normalized wave-function of an electron confined in a 1-D potential
+BL-1   well of length L and infinite depth and draw the wavefunctions for three lowest [6]
+states.
+CO-1,2,   c.   Find which of the following functions are eigenfunctions of the momentum [4]
+BL-2   operator (k is a constant): (a) Sinkx (b) eikx .
+Q4   [20]
+CO-1,2;   a.   Write down time independent Schrödinger’s equation free particle and show that
+BL-3   the energy value is continuous.   [10]
+CO-1,3:   b.   Explain “the half-life of polonium that emits 8-MeV α-particles is only
+BL-2   hundreds of milliseconds and the half-life of uranium that emits 4-MeV α-   [6]
+particles is billions of years” by applying quantum mechanical tunnelling.
+CO-1,3,   c.
+BL-2   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.   [4]
+Q5   [20]
+CO-1,3;   a.   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit [10]
+BL-2   of hydrogen atom.
+CO-4;   b.   Find the mathematical formulation for the probability W of distribution for a large [6]
+BL-2   assembly of n distinguishable particles amongst k cells.
+c. A system has non-degenerate single-particle states with 0,1,2,3 energy units.
+Three particles are to be distributed in these states such that the total energy of
+CO-4;   the system is 3 units. Find the number of microstates if the particles obey (i) MB [4]
+BL-3   statistics (ii) BE statistics (iii)FD statistics. Find the corresponding macrostates
+and microstates also.
+Q6   [20]
+CO-4:   a.   Explain the micro canonical and grand canonical ensembles in statistical
+BL-1   mechanics, highlighting their key features, differences, and thermodynamic   [10]
+variables. Support your explanation with appropriate diagrams.
+CO-4;   b.
+Using statistical mechanics, obtain Planck’s distribution law and discuss its [6]
+BL-3   physical significance in describing blackbody radiation
+CO-4;   c.
+Calculate the number of photons per cubic meter at 2000 K.   [4]
+BL-3
+Q7   [20]
+CO-4;   a.
+Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac   [10]
+BL-1   statistics distribution function.
+CO-1,2;   b.   X-rays of 71pm are scattered by free electrons in a block of carbon through
+30°.Find the wavelength of the scattered X-ray. What is the largest shift that can [6]
+BL-2
+be expected in this experiment?
+********** 2 **********
+--- page 3 ---
+CO-1,2;   c.   The wave-function for a quantum particle of mass m confined to move in the
+domain 0 < x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)   [4]
+BL-3
+Calculate the normalization constant N.
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper eefebdd90224
+
+- Departments: Data Science
+- Programmes: MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_DS_7052/Quantum and Statistical Physics/QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Quantum and Statistical Physics
+Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in bracket on right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Attempt any four questions from Question Nos. 2.1 to 2.6.
+6. Assume suitable data wherever necessary.
+7. Use non-programmable scientific calculator.
+Given: h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s, Speed of light, c = 3 x 108 m/s, electronic mass, me = 9.11 x
+10-31 kg, electronic charge, e = 1.6 x 10-19 C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K.
+Q1   Answer briefly:   [20]
+CO-1,2 ;   a.   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann [4]
+BL-1   law and Wien’s displacement law.
+CO- 1,2;   b.
+BL- 1   Write the linear superposition principle with mathematical expression.   [4]
+CO- 1,3;   c.   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-
+[4]
+BL- 1   ordinates and the expression of quantized energy eigenvalue.
+CO- 4;   d.
+State the four basic postulates of Bose-Einstein Distribution.   [4]
+BL-1
+CO- 4;   e.   Which type of statistical distribution is applied to derive Planck’s radiation
+BL- 1   formula with suitable reason? Write the equation describing Planck’s radiation [4]
+law.
+Q2   [20]
+a.   State and explain Heisenberg’s uncertainty principle for position-momentum
+CO- 1,2;   and energy-time with mathematical expressions. In atomic transition from   [10]
+BL- 1   atomic state the time interval is of the order of 10-7 sec.Find out the energy
+uncertainty.
+b.   Interpret the reason behind an electron not being allowed to take zero energy in
+CO- 1,2;   infinite potential well. Calculate the energy required for an electron to jump from [6]
+BL-1   ground state to the second excited state in an infinite potential well of width L.
+CO-1,2,   c.   An electron is trapped in an infinite potential well of length 3 Å. In the ground
+BL-3   state, determine the probability of finding the electron in the region x = 0 to 0.5 [4]
+Å.
+Q3   [20]
+********** 1 **********
+--- page 2 ---
+CO- 1,2;   a.   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in
+BL-2   the position of a cricket ball is, say, 1 mm and comment on the relevance of [10]
+uncertainty principle in case of macro-bodies.
+CO-1,2,   b.   Derive the normalized wave-function of an electron confined in a 1-D potential
+BL-1   well of length L and infinite depth and draw the wavefunctions for three lowest [6]
+states.
+CO-1,2,   c.   Find which of the following functions are eigenfunctions of the momentum [4]
+BL-2   operator (k is a constant): (a) Sinkx (b) eikx .
+Q4   [20]
+CO-1,2;   a.   Write down time independent Schrödinger’s equation free particle and show that
+BL-3   the energy value is continuous.   [10]
+CO-1,3:   b.   Explain “the half-life of polonium that emits 8-MeV α-particles is only
+BL-2   hundreds of milliseconds and the half-life of uranium that emits 4-MeV α-   [6]
+particles is billions of years” by applying quantum mechanical tunnelling.
+CO-1,3,   c.
+BL-2   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.   [4]
+Q5   [20]
+CO-1,3;   a.   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit [10]
+BL-2   of hydrogen atom.
+CO-4;   b.   Find the mathematical formulation for the probability W of distribution for a large [6]
+BL-2   assembly of n distinguishable particles amongst k cells.
+c. A system has non-degenerate single-particle states with 0,1,2,3 energy units.
+Three particles are to be distributed in these states such that the total energy of
+CO-4;   the system is 3 units. Find the number of microstates if the particles obey (i) MB [4]
+BL-3   statistics (ii) BE statistics (iii)FD statistics. Find the corresponding macrostates
+and microstates also.
+Q6   [20]
+CO-4:   a.   Explain the micro canonical and grand canonical ensembles in statistical
+BL-1   mechanics, highlighting their key features, differences, and thermodynamic   [10]
+variables. Support your explanation with appropriate diagrams.
+CO-4;   b.
+Using statistical mechanics, obtain Planck’s distribution law and discuss its [6]
+BL-3   physical significance in describing blackbody radiation
+CO-4;   c.
+Calculate the number of photons per cubic meter at 2000 K.   [4]
+BL-3
+Q7   [20]
+CO-4;   a.
+Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac   [10]
+BL-1   statistics distribution function.
+CO-1,2;   b.   X-rays of 71pm are scattered by free electrons in a block of carbon through
+30°.Find the wavelength of the scattered X-ray. What is the largest shift that can [6]
+BL-2
+be expected in this experiment?
+********** 2 **********
+--- page 3 ---
+CO-1,2;   c.   The wave-function for a quantum particle of mass m confined to move in the
+domain 0 < x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)   [4]
+BL-3
+Calculate the normalization constant N.
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 67253a24913d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/QUANTUM & STATISTICAL PHYSICS/Quantum and Statistical Physics, Sem-II, Batch 2022-26, 2023-24, 2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 04 July 2026
+- Text: ocr (2 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+a : SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Academic Year: 2025-26
+Program: B Tech/ MBA Tech (IT/COMP/EXTC/MXTC/DS/CSE-CS ‘CS)
+
+Year: | Semester : 1 me secre
+
+Subject: Quantum and Statistical Physics
+Date : 04 July 2026
+
+No. of Pages: O2
+Marks: 100
+
+Re-Exam (2022-23/2023-24/2024-25)
+
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in bracket on right hand side indicates full marks.
+4. Question No. | is compulsory.
+5. Attempt any four questions from Question Nos. 2.1 to 2.6.
+6. Assume suitable data wherever necessary.
+7. Use non-programmable scientific calculator.
+
+Given: h = 6.625 x 10 J-s = 4.14 x 10°* eV-s, Speed of light, c = 3 x 10° m/s, electronic mass, me = 9.11 x 10°
+*! kg, electronic charge, e = 1.6 x 107? C, Boltzmann’s constant, kp = 1.38 x 1073 J/K.
+
+Ql ‘
+Answer briefly: . [20]
+CO-1,2 ; a.
+BL-1 What is de Broglie hypothesis? [4]
+CO- 1,2; b.
+BL- 1 Explain normalization and single valued behaviour of the wave function. < [4]
+CO- 1,3; c Obtain the expressions for reflection and transmission coefficients for a finite potential [4]
+BL- 1 :
+~ barrier.
+CO- 4; d.
+BL-1 Explain (a) thermodynamic probability, (b) phase space. [4]
+“™ CO-4; e. :
+BL- 1 Explain degrees of freedom and the law of equipartition of energy. [4]
+Q2 . [20]
+CO- 1.2: a. Define photoelectric effect and state all its five experimental results. Explain how the
+BL-1 _ photon model succeeds whereas the wave model fails in explaining the photoelectric [10]
+: effect.
+CO-1,2; b. Write the Schrodinger's equation in its one-dimensional and three-dimensional form.
+= BL- 1 _ | Explain any two properties of Schrodinger's equation. [6]
+- CO-12 c. The wave-function for a quantum particle of mass m confined to move in the domain 0
+1,2, <x < zis given by [4]
+BL-3 Wer) = Nsin(7x)
+Calculate the normalization constant N.
+Q3 {20]
+
+FOG Gok
+--- page 2 ---
+-CO- 1,2; a. [10]
+
+BL-2 Describe in detail the Davisson-Germer Experiment that verifies de Broglie hypothesis
+
+CO-1,2, b. Write the time- independent Schrodinger equation and its corresponding solutions in the
+
+BL-1 three different regions for a particle confined in a finite potential well of l&hgth L and [6]
+height Vo. a
+
+CO-1,2, (om c 5 . . . ‘ 5 a?
+
+BL2 Find which of the following functions are eigenfunctions of the operator 75: {4]
+(a) coskx (b) x*.
+
+Q4 [20]
+
+CO-1,2; a. Differentiate between infinite and finite potential well. [10]
+
+BL-3
+
+CO-1,3: b. Explain the phenomenon of quantum tunnelling. State and explain the mathematical
+
+BL-2 expression of tunnelling probability of a particle in a potential barrier. Also, identify [6]
+the factors that increase the tunnelling probability.
+
+CO-1,3, c Calculate the tunnelling probability for an electron of total energy 5 eV incident upon a | [4]
+
+BL-2 rectangular potential barrier of height 10 eV and width 0.5 nm.
+
+Q5 [20]
+
+a Find the expectation value <x> for the first two states of harmonic oscillator.
+
+CO-1,3; cy, omv\ 1/4 74y\i/2 + . Dane
+
+BL-2 Given: Y= (FM) er? =F) G) @iey= Fr Oo
+
+CO-4; BL- | b. ’
+
+2 Explain (a) postulate of equal a priori probability, (b) thermodynamic probability. [6]
+
+CO-4; BL- | ¢. Two particles are to be distributed in three cells. Find out the total number afoomitle
+
+3 ways both from formula and in tabular form if the particles follow (i) MB statistics [4]
+(i)BE statistics (iii) FD statistics.
+
+Q6 {20]
+
+cO-4: BL- | Explain the canonical and grand canonical ensembles in statistical mechanics,
+
+highlighting their key features, differences, and thermodynamic variables. Support your | [10]
+explanation with appropriate diagrams.
+
+CO-4; b.
+
+Starting from the Maxwell-Boltzmann distribution, establish the law of equipartition of | [6]
+BL-3 energy and discuss its significance.
+CO-4; om ee
+BL-3 Calculate the number of photons per cubic meter at 5000 K. 4]
+Q7 [20]
+CO-4; ‘a.
+BL-1 Distinguish between MB, FD and BE statistics. [10]
+CO-1,2; | b. ; . _. . ;
+
+Light of wavelength 2000 A falls on an aluminium surface with work function 4.2 eV. | [6]
+BL-2 Calculate (i) threshold wavelength and (ii) stopping potential.
+CO-1.2: c. Write down the position, momentum, kinetic energy and total energy operators in [4]
+
+_ Quantum Mechanics.
+
+BL-3
+
+````
 
 ## 2024-25 · Final-Exam · Sem 2 · paper bf797ecc1826
 
@@ -1297,115 +1763,6 @@ BL-3   distinction.
 ********** 3 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · paper 886db28f6c66
-
-- Departments: Computer Engineering
-- Programmes: BTech Computer 7002
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Computer_7002/Quantum and Statistical Physics/QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Quantum and Statistical Physics
-Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in bracket on right hand side indicates full marks.
-4. Question No. 1 is compulsory.
-5. Attempt any four questions from Question Nos. 2.1 to 2.6.
-6. Assume suitable data wherever necessary.
-7. Use non-programmable scientific calculator.
-Given: h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s, Speed of light, c = 3 x 108 m/s, electronic mass, me = 9.11 x
-10-31 kg, electronic charge, e = 1.6 x 10-19 C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K.
-Q1   Answer briefly:   [20]
-CO-1,2 ;   a.   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann [4]
-BL-1   law and Wien’s displacement law.
-CO- 1,2;   b.
-BL- 1   Write the linear superposition principle with mathematical expression.   [4]
-CO- 1,3;   c.   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-
-[4]
-BL- 1   ordinates and the expression of quantized energy eigenvalue.
-CO- 4;   d.
-State the four basic postulates of Bose-Einstein Distribution.   [4]
-BL-1
-CO- 4;   e.   Which type of statistical distribution is applied to derive Planck’s radiation
-BL- 1   formula with suitable reason? Write the equation describing Planck’s radiation [4]
-law.
-Q2   [20]
-a.   State and explain Heisenberg’s uncertainty principle for position-momentum
-CO- 1,2;   and energy-time with mathematical expressions. In atomic transition from   [10]
-BL- 1   atomic state the time interval is of the order of 10-7 sec.Find out the energy
-uncertainty.
-b.   Interpret the reason behind an electron not being allowed to take zero energy in
-CO- 1,2;   infinite potential well. Calculate the energy required for an electron to jump from [6]
-BL-1   ground state to the second excited state in an infinite potential well of width L.
-CO-1,2,   c.   An electron is trapped in an infinite potential well of length 3 Å. In the ground
-BL-3   state, determine the probability of finding the electron in the region x = 0 to 0.5 [4]
-Å.
-Q3   [20]
-********** 1 **********
---- page 2 ---
-CO- 1,2;   a.   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in
-BL-2   the position of a cricket ball is, say, 1 mm and comment on the relevance of [10]
-uncertainty principle in case of macro-bodies.
-CO-1,2,   b.   Derive the normalized wave-function of an electron confined in a 1-D potential
-BL-1   well of length L and infinite depth and draw the wavefunctions for three lowest [6]
-states.
-CO-1,2,   c.   Find which of the following functions are eigenfunctions of the momentum [4]
-BL-2   operator (k is a constant): (a) Sinkx (b) eikx .
-Q4   [20]
-CO-1,2;   a.   Write down time independent Schrödinger’s equation free particle and show that
-BL-3   the energy value is continuous.   [10]
-CO-1,3:   b.   Explain “the half-life of polonium that emits 8-MeV α-particles is only
-BL-2   hundreds of milliseconds and the half-life of uranium that emits 4-MeV α-   [6]
-particles is billions of years” by applying quantum mechanical tunnelling.
-CO-1,3,   c.
-BL-2   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.   [4]
-Q5   [20]
-CO-1,3;   a.   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit [10]
-BL-2   of hydrogen atom.
-CO-4;   b.   Find the mathematical formulation for the probability W of distribution for a large [6]
-BL-2   assembly of n distinguishable particles amongst k cells.
-c. A system has non-degenerate single-particle states with 0,1,2,3 energy units.
-Three particles are to be distributed in these states such that the total energy of
-CO-4;   the system is 3 units. Find the number of microstates if the particles obey (i) MB [4]
-BL-3   statistics (ii) BE statistics (iii)FD statistics. Find the corresponding macrostates
-and microstates also.
-Q6   [20]
-CO-4:   a.   Explain the micro canonical and grand canonical ensembles in statistical
-BL-1   mechanics, highlighting their key features, differences, and thermodynamic   [10]
-variables. Support your explanation with appropriate diagrams.
-CO-4;   b.
-Using statistical mechanics, obtain Planck’s distribution law and discuss its [6]
-BL-3   physical significance in describing blackbody radiation
-CO-4;   c.
-Calculate the number of photons per cubic meter at 2000 K.   [4]
-BL-3
-Q7   [20]
-CO-4;   a.
-Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac   [10]
-BL-1   statistics distribution function.
-CO-1,2;   b.   X-rays of 71pm are scattered by free electrons in a block of carbon through
-30°.Find the wavelength of the scattered X-ray. What is the largest shift that can [6]
-BL-2
-be expected in this experiment?
-********** 2 **********
---- page 3 ---
-CO-1,2;   c.   The wave-function for a quantum particle of mass m confined to move in the
-domain 0 < x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)   [4]
-BL-3
-Calculate the normalization constant N.
-********** 3 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · paper e3ecbfde3444
 
 - Departments: Cyber Security
@@ -1775,115 +2132,6 @@ BL-3   distinction.
 ********** 3 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · paper 849721a7346f
-
-- Departments: Information Technology
-- Programmes: BTech IT 7001
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_IT_7001/Quantum and Statistical Physics/QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Quantum and Statistical Physics
-Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in bracket on right hand side indicates full marks.
-4. Question No. 1 is compulsory.
-5. Attempt any four questions from Question Nos. 2.1 to 2.6.
-6. Assume suitable data wherever necessary.
-7. Use non-programmable scientific calculator.
-Given: h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s, Speed of light, c = 3 x 108 m/s, electronic mass, me = 9.11 x
-10-31 kg, electronic charge, e = 1.6 x 10-19 C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K.
-Q1   Answer briefly:   [20]
-CO-1,2 ;   a.   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann [4]
-BL-1   law and Wien’s displacement law.
-CO- 1,2;   b.
-BL- 1   Write the linear superposition principle with mathematical expression.   [4]
-CO- 1,3;   c.   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-
-[4]
-BL- 1   ordinates and the expression of quantized energy eigenvalue.
-CO- 4;   d.
-State the four basic postulates of Bose-Einstein Distribution.   [4]
-BL-1
-CO- 4;   e.   Which type of statistical distribution is applied to derive Planck’s radiation
-BL- 1   formula with suitable reason? Write the equation describing Planck’s radiation [4]
-law.
-Q2   [20]
-a.   State and explain Heisenberg’s uncertainty principle for position-momentum
-CO- 1,2;   and energy-time with mathematical expressions. In atomic transition from   [10]
-BL- 1   atomic state the time interval is of the order of 10-7 sec.Find out the energy
-uncertainty.
-b.   Interpret the reason behind an electron not being allowed to take zero energy in
-CO- 1,2;   infinite potential well. Calculate the energy required for an electron to jump from [6]
-BL-1   ground state to the second excited state in an infinite potential well of width L.
-CO-1,2,   c.   An electron is trapped in an infinite potential well of length 3 Å. In the ground
-BL-3   state, determine the probability of finding the electron in the region x = 0 to 0.5 [4]
-Å.
-Q3   [20]
-********** 1 **********
---- page 2 ---
-CO- 1,2;   a.   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in
-BL-2   the position of a cricket ball is, say, 1 mm and comment on the relevance of [10]
-uncertainty principle in case of macro-bodies.
-CO-1,2,   b.   Derive the normalized wave-function of an electron confined in a 1-D potential
-BL-1   well of length L and infinite depth and draw the wavefunctions for three lowest [6]
-states.
-CO-1,2,   c.   Find which of the following functions are eigenfunctions of the momentum [4]
-BL-2   operator (k is a constant): (a) Sinkx (b) eikx .
-Q4   [20]
-CO-1,2;   a.   Write down time independent Schrödinger’s equation free particle and show that
-BL-3   the energy value is continuous.   [10]
-CO-1,3:   b.   Explain “the half-life of polonium that emits 8-MeV α-particles is only
-BL-2   hundreds of milliseconds and the half-life of uranium that emits 4-MeV α-   [6]
-particles is billions of years” by applying quantum mechanical tunnelling.
-CO-1,3,   c.
-BL-2   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.   [4]
-Q5   [20]
-CO-1,3;   a.   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit [10]
-BL-2   of hydrogen atom.
-CO-4;   b.   Find the mathematical formulation for the probability W of distribution for a large [6]
-BL-2   assembly of n distinguishable particles amongst k cells.
-c. A system has non-degenerate single-particle states with 0,1,2,3 energy units.
-Three particles are to be distributed in these states such that the total energy of
-CO-4;   the system is 3 units. Find the number of microstates if the particles obey (i) MB [4]
-BL-3   statistics (ii) BE statistics (iii)FD statistics. Find the corresponding macrostates
-and microstates also.
-Q6   [20]
-CO-4:   a.   Explain the micro canonical and grand canonical ensembles in statistical
-BL-1   mechanics, highlighting their key features, differences, and thermodynamic   [10]
-variables. Support your explanation with appropriate diagrams.
-CO-4;   b.
-Using statistical mechanics, obtain Planck’s distribution law and discuss its [6]
-BL-3   physical significance in describing blackbody radiation
-CO-4;   c.
-Calculate the number of photons per cubic meter at 2000 K.   [4]
-BL-3
-Q7   [20]
-CO-4;   a.
-Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac   [10]
-BL-1   statistics distribution function.
-CO-1,2;   b.   X-rays of 71pm are scattered by free electrons in a block of carbon through
-30°.Find the wavelength of the scattered X-ray. What is the largest shift that can [6]
-BL-2
-be expected in this experiment?
-********** 2 **********
---- page 3 ---
-CO-1,2;   c.   The wave-function for a quantum particle of mass m confined to move in the
-domain 0 < x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)   [4]
-BL-3
-Calculate the normalization constant N.
-********** 3 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · paper f3cdb9bb0ea8
 
 - Departments: Mechatronics
@@ -2130,115 +2378,6 @@ BL-3   distinction.
 ********** 3 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · paper eefebdd90224
-
-- Departments: Data Science
-- Programmes: MBATech DS 7052
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_DS_7052/Quantum and Statistical Physics/QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Quantum and Statistical Physics
-Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in bracket on right hand side indicates full marks.
-4. Question No. 1 is compulsory.
-5. Attempt any four questions from Question Nos. 2.1 to 2.6.
-6. Assume suitable data wherever necessary.
-7. Use non-programmable scientific calculator.
-Given: h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s, Speed of light, c = 3 x 108 m/s, electronic mass, me = 9.11 x
-10-31 kg, electronic charge, e = 1.6 x 10-19 C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K.
-Q1   Answer briefly:   [20]
-CO-1,2 ;   a.   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann [4]
-BL-1   law and Wien’s displacement law.
-CO- 1,2;   b.
-BL- 1   Write the linear superposition principle with mathematical expression.   [4]
-CO- 1,3;   c.   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-
-[4]
-BL- 1   ordinates and the expression of quantized energy eigenvalue.
-CO- 4;   d.
-State the four basic postulates of Bose-Einstein Distribution.   [4]
-BL-1
-CO- 4;   e.   Which type of statistical distribution is applied to derive Planck’s radiation
-BL- 1   formula with suitable reason? Write the equation describing Planck’s radiation [4]
-law.
-Q2   [20]
-a.   State and explain Heisenberg’s uncertainty principle for position-momentum
-CO- 1,2;   and energy-time with mathematical expressions. In atomic transition from   [10]
-BL- 1   atomic state the time interval is of the order of 10-7 sec.Find out the energy
-uncertainty.
-b.   Interpret the reason behind an electron not being allowed to take zero energy in
-CO- 1,2;   infinite potential well. Calculate the energy required for an electron to jump from [6]
-BL-1   ground state to the second excited state in an infinite potential well of width L.
-CO-1,2,   c.   An electron is trapped in an infinite potential well of length 3 Å. In the ground
-BL-3   state, determine the probability of finding the electron in the region x = 0 to 0.5 [4]
-Å.
-Q3   [20]
-********** 1 **********
---- page 2 ---
-CO- 1,2;   a.   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in
-BL-2   the position of a cricket ball is, say, 1 mm and comment on the relevance of [10]
-uncertainty principle in case of macro-bodies.
-CO-1,2,   b.   Derive the normalized wave-function of an electron confined in a 1-D potential
-BL-1   well of length L and infinite depth and draw the wavefunctions for three lowest [6]
-states.
-CO-1,2,   c.   Find which of the following functions are eigenfunctions of the momentum [4]
-BL-2   operator (k is a constant): (a) Sinkx (b) eikx .
-Q4   [20]
-CO-1,2;   a.   Write down time independent Schrödinger’s equation free particle and show that
-BL-3   the energy value is continuous.   [10]
-CO-1,3:   b.   Explain “the half-life of polonium that emits 8-MeV α-particles is only
-BL-2   hundreds of milliseconds and the half-life of uranium that emits 4-MeV α-   [6]
-particles is billions of years” by applying quantum mechanical tunnelling.
-CO-1,3,   c.
-BL-2   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.   [4]
-Q5   [20]
-CO-1,3;   a.   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit [10]
-BL-2   of hydrogen atom.
-CO-4;   b.   Find the mathematical formulation for the probability W of distribution for a large [6]
-BL-2   assembly of n distinguishable particles amongst k cells.
-c. A system has non-degenerate single-particle states with 0,1,2,3 energy units.
-Three particles are to be distributed in these states such that the total energy of
-CO-4;   the system is 3 units. Find the number of microstates if the particles obey (i) MB [4]
-BL-3   statistics (ii) BE statistics (iii)FD statistics. Find the corresponding macrostates
-and microstates also.
-Q6   [20]
-CO-4:   a.   Explain the micro canonical and grand canonical ensembles in statistical
-BL-1   mechanics, highlighting their key features, differences, and thermodynamic   [10]
-variables. Support your explanation with appropriate diagrams.
-CO-4;   b.
-Using statistical mechanics, obtain Planck’s distribution law and discuss its [6]
-BL-3   physical significance in describing blackbody radiation
-CO-4;   c.
-Calculate the number of photons per cubic meter at 2000 K.   [4]
-BL-3
-Q7   [20]
-CO-4;   a.
-Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac   [10]
-BL-1   statistics distribution function.
-CO-1,2;   b.   X-rays of 71pm are scattered by free electrons in a block of carbon through
-30°.Find the wavelength of the scattered X-ray. What is the largest shift that can [6]
-BL-2
-be expected in this experiment?
-********** 2 **********
---- page 3 ---
-CO-1,2;   c.   The wave-function for a quantum particle of mass m confined to move in the
-domain 0 < x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)   [4]
-BL-3
-Calculate the normalization constant N.
-********** 3 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · paper dd25401db728
 
 - Departments: Information Technology
@@ -2360,145 +2499,6 @@ CO- 1,2;   (c)   Differentiate between bound and unbound states. Give any two po
 BL-3   distinction.
 ************************************************************
 ********** 3 **********
-````
-
-## 2024-25 · Re-Exam · Sem 2 · paper 67253a24913d
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/QUANTUM & STATISTICAL PHYSICS/Quantum and Statistical Physics, Sem-II, Batch 2022-26, 2023-24, 2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 04 July 2026
-- Text: ocr (2 pages), mean OCR confidence 85.8
-
-````text
-a : SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Academic Year: 2025-26
-Program: B Tech/ MBA Tech (IT/COMP/EXTC/MXTC/DS/CSE-CS ‘CS)
-
-Year: | Semester : 1 me secre
-
-Subject: Quantum and Statistical Physics
-Date : 04 July 2026
-
-No. of Pages: O2
-Marks: 100
-
-Re-Exam (2022-23/2023-24/2024-25)
-
-Instructions:
-1. This question paper contains 2 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in bracket on right hand side indicates full marks.
-4. Question No. | is compulsory.
-5. Attempt any four questions from Question Nos. 2.1 to 2.6.
-6. Assume suitable data wherever necessary.
-7. Use non-programmable scientific calculator.
-
-Given: h = 6.625 x 10 J-s = 4.14 x 10°* eV-s, Speed of light, c = 3 x 10° m/s, electronic mass, me = 9.11 x 10°
-*! kg, electronic charge, e = 1.6 x 107? C, Boltzmann’s constant, kp = 1.38 x 1073 J/K.
-
-Ql ‘
-Answer briefly: . [20]
-CO-1,2 ; a.
-BL-1 What is de Broglie hypothesis? [4]
-CO- 1,2; b.
-BL- 1 Explain normalization and single valued behaviour of the wave function. < [4]
-CO- 1,3; c Obtain the expressions for reflection and transmission coefficients for a finite potential [4]
-BL- 1 :
-~ barrier.
-CO- 4; d.
-BL-1 Explain (a) thermodynamic probability, (b) phase space. [4]
-“™ CO-4; e. :
-BL- 1 Explain degrees of freedom and the law of equipartition of energy. [4]
-Q2 . [20]
-CO- 1.2: a. Define photoelectric effect and state all its five experimental results. Explain how the
-BL-1 _ photon model succeeds whereas the wave model fails in explaining the photoelectric [10]
-: effect.
-CO-1,2; b. Write the Schrodinger's equation in its one-dimensional and three-dimensional form.
-= BL- 1 _ | Explain any two properties of Schrodinger's equation. [6]
-- CO-12 c. The wave-function for a quantum particle of mass m confined to move in the domain 0
-1,2, <x < zis given by [4]
-BL-3 Wer) = Nsin(7x)
-Calculate the normalization constant N.
-Q3 {20]
-
-FOG Gok
---- page 2 ---
--CO- 1,2; a. [10]
-
-BL-2 Describe in detail the Davisson-Germer Experiment that verifies de Broglie hypothesis
-
-CO-1,2, b. Write the time- independent Schrodinger equation and its corresponding solutions in the
-
-BL-1 three different regions for a particle confined in a finite potential well of l&hgth L and [6]
-height Vo. a
-
-CO-1,2, (om c 5 . . . ‘ 5 a?
-
-BL2 Find which of the following functions are eigenfunctions of the operator 75: {4]
-(a) coskx (b) x*.
-
-Q4 [20]
-
-CO-1,2; a. Differentiate between infinite and finite potential well. [10]
-
-BL-3
-
-CO-1,3: b. Explain the phenomenon of quantum tunnelling. State and explain the mathematical
-
-BL-2 expression of tunnelling probability of a particle in a potential barrier. Also, identify [6]
-the factors that increase the tunnelling probability.
-
-CO-1,3, c Calculate the tunnelling probability for an electron of total energy 5 eV incident upon a | [4]
-
-BL-2 rectangular potential barrier of height 10 eV and width 0.5 nm.
-
-Q5 [20]
-
-a Find the expectation value <x> for the first two states of harmonic oscillator.
-
-CO-1,3; cy, omv\ 1/4 74y\i/2 + . Dane
-
-BL-2 Given: Y= (FM) er? =F) G) @iey= Fr Oo
-
-CO-4; BL- | b. ’
-
-2 Explain (a) postulate of equal a priori probability, (b) thermodynamic probability. [6]
-
-CO-4; BL- | ¢. Two particles are to be distributed in three cells. Find out the total number afoomitle
-
-3 ways both from formula and in tabular form if the particles follow (i) MB statistics [4]
-(i)BE statistics (iii) FD statistics.
-
-Q6 {20]
-
-cO-4: BL- | Explain the canonical and grand canonical ensembles in statistical mechanics,
-
-highlighting their key features, differences, and thermodynamic variables. Support your | [10]
-explanation with appropriate diagrams.
-
-CO-4; b.
-
-Starting from the Maxwell-Boltzmann distribution, establish the law of equipartition of | [6]
-BL-3 energy and discuss its significance.
-CO-4; om ee
-BL-3 Calculate the number of photons per cubic meter at 5000 K. 4]
-Q7 [20]
-CO-4; ‘a.
-BL-1 Distinguish between MB, FD and BE statistics. [10]
-CO-1,2; | b. ; . _. . ;
-
-Light of wavelength 2000 A falls on an aluminium surface with work function 4.2 eV. | [6]
-BL-2 Calculate (i) threshold wavelength and (ii) stopping potential.
-CO-1.2: c. Write down the position, momentum, kinetic energy and total energy operators in [4]
-
-_ Quantum Mechanics.
-
-BL-3
-
-ae OR A DR A Ak
 ````
 
 ## 2023-24 · Final + Re-Exam · Sem 2 · paper 9716247b0cd7
@@ -2845,6 +2845,129 @@ CO-1,2,3;
 
 SO- 1; Calculate the density of states of relativistic electrons. A
 BL-1,2
+````
+
+## 2022-23 · Exam not stated · Sem 2 · paper 4133ef54de1a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/QUANTUM & STATISTICAL PHYSICS/Quantum and Statistical Physics.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2022-2023 ;
+Year: I Semester: IT
+
+Program/s: B. Tech. / MBA Tech.
+
+Stream/s : B Tech IT, EXTC, MXTC, CSE-CS, CE, CS, DS/ MBA Tech IT,
+
+COMP, DS
+
+Subject: Quantum and Statistical Physics Time: 3 hrs (J{zopamto 2200pm)
+Date:_}s/ 5/2023 No. of Pages: 3
+
+Marks: 100
+
+Final Examination / Re ExaminattorL
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all__5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+[Given: Planck’s constant h = 6.625 x 104 J-s = 4.14 x 10° eV-s, Speed of light, c =3 x1 0° m/s, electronic
+mass, me = 9.1 x 10°! kg, electronic charge, e = 1.6.x 10° C, Boltzmann’s constant, ks = 1.38 x 10°73 J/K]
+
+Qi :
+Answer briefly: [20]
+an e iad Explain ultraviolet catastrophe with proper diagram. [4]
+Cco- b. ‘An electron is confined to a one-dimensional potential well of length 5 A. Find the 14]
+al 12 quantized energy values for the ground state and the first excited state.
+c. Explain the phenomenon of quantum tunneling. Give the mathematical expression
+EL. eo of tunneling probability of a particle in a potential barrier and identify the factors | [4]
+_ that increase the tunneling probability.
+re fa d. What are microstates and macrostates as described in statistical physics? [4]
+co- ‘le. oo. oo
+1,2,3; Find the density of states of a relativistic particle like electron or proton. [4]
+BL —- 1,2
+--- page 2 ---
+[20]
+
+Q2
+co-12: |* What are the failures of classical electromagnetic theory in explaining the [10]
+BL - 12 photoelectric effect? How Einstein was able to explain this phenomena?
+co- b. An electron is confined in a box of length 10° cm. Evaluate the minimum
+1,2,3; soe : [6]
+BL_45 uncertainty in its velocity.
+CO-1,2; | ¢. : 7 _ «as
+BL-34 Explain the term “normalization of a wave function”. [4]
+Q3 [20]
+CO-1,2; | What is a wave function? What are the necessary conditions of a well-behaved 110]
+BL~1,2 wave function?
+cO- b. X-rays with initial wavelength 0.5 x 10” m undergo Compton scattering. For what
+1,2,3; scattering angle is the wavelength of the scattered X-rays greater than that of the | [6]
+BL-4,5 incident X-rays by one percent?
+eg = °. Categorize eigenfunction and eigenvalue. [4]
+Q4 [20]
+a. Explain the following observation in the light of quantum tunneling: “The half-life
+ie 123 of polonium that emits 8-MeV a-particles is only hundreds of milliseconds and the | [10]
+, half-life of uranium that emits 4-MeV a-particles is billions of years” .
+CcoO- b. Examine if we can observe the energy states of a ball of mass 100 g moving in a
+1,2,3; [6]
+BL_4,5 box of length Im.
+CO-1,2; | ¢ What is the “zero point” energy of a harmonic oscillator? Analyze if the zero point [4]
+BL-3,4 energy can take the value of zero with proper logic.
+Q5 (20)
+ont 76 as Compare between MB, FD and BE statistics, along with the appropriate graph. [10]
+co b. Calculate the probability of transmission of an electron with an energy of 2 eV
+1,2,3: incident upon a rectangular potential energy barrier of height 4 eV and width 0.5 | [6]
+BL -4,5 nm.
+BL-3,4 Distinguish between a priori probability and the thermodynamic probability. {4]
+Q6 ; [20]
+CO -12: a. Explain Planck’s distribution law for blackbody radiation in the light of statistical 16
+BL -1,2 mechanics. 10]
+--- page 3 ---
+cb b. Two particles are to be distributed in three cells. Determine the total number of
+
+1,2,3; possible ways in tabular form if the particles follow (i) MB statistics (ii) BE | [6]
+
+BL - 4,5 statistics (iii) FD statistics.
+
+Co-12: |°¢ Describe the concept of particle flux from quantum mechanical point of view and
+
+BL-3,4 [4]
+72s find its mathematical expression.
+
+Q7 [20]
+
+CO-1,2; | | Formulate the time independent Schrédinger’ [10]
+
+BL-34 ormulate the time independent Schrédinger’s wave equation.
+
+co- b. Evaluate the frequency of the incident radiation to eject electron of maximum speed (6]
+
+a 45 10° m/s from potassium? Work function of potassium is 2.26 eV.
+
+ig 7 Discuss the probability of drawing two kings from a deck of 52 cards. [4]
+--- page 4 ---
+
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper a62d968aeb3b
@@ -3580,127 +3703,4 @@ BL-4,5 emission of photoelectrons from the material. Evaluate the maximum kineti
 photoelectrons emitted by the surface exposed to the radiation of 2000 A.
 
 bp
-````
-
-## Year not stated · Exam not stated · Sem 2 · paper 4133ef54de1a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/QUANTUM & STATISTICAL PHYSICS/Quantum and Statistical Physics.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 87.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2022-2023 ;
-Year: I Semester: IT
-
-Program/s: B. Tech. / MBA Tech.
-
-Stream/s : B Tech IT, EXTC, MXTC, CSE-CS, CE, CS, DS/ MBA Tech IT,
-
-COMP, DS
-
-Subject: Quantum and Statistical Physics Time: 3 hrs (J{zopamto 2200pm)
-Date:_}s/ 5/2023 No. of Pages: 3
-
-Marks: 100
-
-Final Examination / Re ExaminattorL
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all__5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-[Given: Planck’s constant h = 6.625 x 104 J-s = 4.14 x 10° eV-s, Speed of light, c =3 x1 0° m/s, electronic
-mass, me = 9.1 x 10°! kg, electronic charge, e = 1.6.x 10° C, Boltzmann’s constant, ks = 1.38 x 10°73 J/K]
-
-Qi :
-Answer briefly: [20]
-an e iad Explain ultraviolet catastrophe with proper diagram. [4]
-Cco- b. ‘An electron is confined to a one-dimensional potential well of length 5 A. Find the 14]
-al 12 quantized energy values for the ground state and the first excited state.
-c. Explain the phenomenon of quantum tunneling. Give the mathematical expression
-EL. eo of tunneling probability of a particle in a potential barrier and identify the factors | [4]
-_ that increase the tunneling probability.
-re fa d. What are microstates and macrostates as described in statistical physics? [4]
-co- ‘le. oo. oo
-1,2,3; Find the density of states of a relativistic particle like electron or proton. [4]
-BL —- 1,2
---- page 2 ---
-[20]
-
-Q2
-co-12: |* What are the failures of classical electromagnetic theory in explaining the [10]
-BL - 12 photoelectric effect? How Einstein was able to explain this phenomena?
-co- b. An electron is confined in a box of length 10° cm. Evaluate the minimum
-1,2,3; soe : [6]
-BL_45 uncertainty in its velocity.
-CO-1,2; | ¢. : 7 _ «as
-BL-34 Explain the term “normalization of a wave function”. [4]
-Q3 [20]
-CO-1,2; | What is a wave function? What are the necessary conditions of a well-behaved 110]
-BL~1,2 wave function?
-cO- b. X-rays with initial wavelength 0.5 x 10” m undergo Compton scattering. For what
-1,2,3; scattering angle is the wavelength of the scattered X-rays greater than that of the | [6]
-BL-4,5 incident X-rays by one percent?
-eg = °. Categorize eigenfunction and eigenvalue. [4]
-Q4 [20]
-a. Explain the following observation in the light of quantum tunneling: “The half-life
-ie 123 of polonium that emits 8-MeV a-particles is only hundreds of milliseconds and the | [10]
-, half-life of uranium that emits 4-MeV a-particles is billions of years” .
-CcoO- b. Examine if we can observe the energy states of a ball of mass 100 g moving in a
-1,2,3; [6]
-BL_4,5 box of length Im.
-CO-1,2; | ¢ What is the “zero point” energy of a harmonic oscillator? Analyze if the zero point [4]
-BL-3,4 energy can take the value of zero with proper logic.
-Q5 (20)
-ont 76 as Compare between MB, FD and BE statistics, along with the appropriate graph. [10]
-co b. Calculate the probability of transmission of an electron with an energy of 2 eV
-1,2,3: incident upon a rectangular potential energy barrier of height 4 eV and width 0.5 | [6]
-BL -4,5 nm.
-CO - 1,2; c. ar ae ae 5 on
-BL-3,4 Distinguish between a priori probability and the thermodynamic probability. {4]
-Q6 ; [20]
-CO -12: a. Explain Planck’s distribution law for blackbody radiation in the light of statistical 16
-BL -1,2 mechanics. 10]
---- page 3 ---
-cb b. Two particles are to be distributed in three cells. Determine the total number of
-
-1,2,3; possible ways in tabular form if the particles follow (i) MB statistics (ii) BE | [6]
-
-BL - 4,5 statistics (iii) FD statistics.
-
-Co-12: |°¢ Describe the concept of particle flux from quantum mechanical point of view and
-
-BL-3,4 [4]
-72s find its mathematical expression.
-
-Q7 [20]
-
-CO-1,2; | | Formulate the time independent Schrédinger’ [10]
-
-BL-34 ormulate the time independent Schrédinger’s wave equation.
-
-co- b. Evaluate the frequency of the incident radiation to eject electron of maximum speed (6]
-
-a 45 10° m/s from potassium? Work function of potassium is 2.26 eV.
-
-ig 7 Discuss the probability of drawing two kings from a deck of 52 cards. [4]
---- page 4 ---
-
 ````

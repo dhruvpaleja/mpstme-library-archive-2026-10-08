@@ -10,6 +10,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Programmes: MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/TELECOM AND COMPUTER NETWORKS/2009-2010(94).pdf`
 - Text: ocr (1 page), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -19,7 +20,6 @@ Mukesh Patel School of Technology Management & Engineering |
 Programme /V/SA Lee Ls) Tt flovp /éxt— Year i Trimester ‘Vi -
 "Academic Year: 2009 - 2010
 
-Subject: oletom £Lorpibe. Veta’
 
 Date: 7 / Sho
 Final Examination
@@ -170,6 +170,7 @@ b) Explain guided and unguided transmission media with suitable examples. (10)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/TELECOM AND COMPUTER NETWORKS/2008-2009(93).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 81.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Be
@@ -177,7 +178,6 @@ KRi’s NMIMS UNIVERSITY ve
 
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN#’ AND | ENGINEERING
 MBA( Tech) (Teleom &17¢ Comp FER) su
-Ir Yeon Trimister VI, 2008-09 tay iat
 Subject: Telecom and Computer Networks \ Max: Marks: 100
 Date: oYy-os- C1 2-0-5 ‘QOPm Time Allowed: 3hrs
 Tastructions: Candidate should read carefully the instructions printed oa questiog-paper
@@ -190,7 +190,6 @@ NB: —=
 5. Answer to each new question to be started on a fresh page.
 6. Figure in brackets indicate full marks.
 
-SVEI Reo MREIRES FIT EFVERSIEY
 
 1. Write short notes on :
 : I. Bluetooth [5x4]
@@ -210,7 +209,6 @@ b) Explain HDLC data link control [7]
 
 °) What is the remainder obtained by dividing X’+ X°+1 by the generator
 d polynomial xXO+12 [5]
-Comtelh <<— 9 Aithatarettre finetions- of NCP and LCP protocls?. a
 5. a) What are the different CSMA protocols? Explain any one in detail. [10]
 b) Explain 802.11 frame structure [10]
 6. a) Compare datagram and virtual circuit subnet. [4]

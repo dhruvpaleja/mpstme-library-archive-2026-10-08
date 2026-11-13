@@ -729,6 +729,482 @@ BL-2
 Page 3 of 3
 ````
 
+## 2016-17 · Re-Exam · Sem 4 · paper 2f83293d84fb
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/DIGITAL SIGNAL AND IMAGE PROCESSING/DIGITAL SIGNAL AND IMAGE PROCESSING BATCH 13-14 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2017
+- Text: ocr (2 pages), mean OCR confidence 87.6
+
+````text
+SVKM’s NMIMS
+
+Programme: B. Tech (LT.) . Year: Il Semester: IV ~
+
+Batch: 2013-2014 -
+
+Ly,
+
+Biuiscany
+Sen Y
+
+Marks: 100 ¢ Sais GOO
+
+Date: 16 May 2017 + Time: 10.00 am to 1.00-pm ~
+Durations: 3 (hrs}
+No. of Pages: 2
+
+Academic Year: 2016-2017
+
+Subject: Digital Signal and Image Processing ~
+
+Re-Examination
+
+Instructions: 1.Question no. | is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks,
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on right hand side indicate full marks.
+
+7. Scientific Calculator is allowed.
+QI.Answer any four (5 marks each) ‘ (20)
+
+|. Explain concept of Edge detection in Image.
+2. Express how FFT is efficient algorithm for DFT computation.
+3, Determine the impulse response for the cascade of two LTI systems having impulse responses
+
+Al (n)=E)" u(n) and A2 G2) = (0.2) " un)
+
+4, Describe the dilation and erosion morphological operations.
+5. Dose the Histogram equalization de image enhancement? Comment on it.
+6. Draw butterfly diagram for 8 point FFT
+
+Q2) a) What is neighborhood processing, Explain different types of Image filters based on this concepts?
+
+(10)
+b) Using partial fraction expansion method finds inverse Z transform of following
+system given by:-
+Z (Z?-4Z+5)
+X(Z) = (10)
+
+(Z-1) (2-2) (2-3)
+
+For ROC being |Z|>3, 2<|Z|<3, [Z|<2.
+
+V2
+--- page 2 ---
+Q3 a) Design a FIR High pass filter with a cut off frequency of 1.5 KHz and sampling rate
+5 KHz with 7 Samples Fourier series. (10)
+
+b) Apply DCT on the following sub-image.
+
+2 4 4 2
+4 6 8 3
+
+2 8 10 | 4
+3 8 6 2
+
+(10)
+
+Q4) a) Given x (n) = { 0, 1, 2, 3, 4, 5, 6, 7}. Find X (k) using DIT FET. (10)
+b) Explain any Image compression techniques and state it’s quality factors. (10)
+Q5) a) Explain the different Image Segmentation techniques in brief. coy
+
+b) AnLTI system is described by the equation, y(n)=x(n)+0.8x(n-1)+0.8x(n-2) -0.49y(n-2) (10)
+Determine the transfer function of the system. Sketch the poles and zeros on the z-plane.
+
+Q6) a) Explain different operations of Analog to Digital conversion. (10)
+b) How do you define Histogram of Image and how Histogram modelling techniques
+is useful to improve images? (10)
+Q7) Write notes on any four. (5 marks each) : (20) ,
+1) Hough Transform
+2) TIR-Filter
+
+3) Properties of Z- Transform
+4) Walsh-Hadamard Transform
+5) Types of LTI systems
+````
+
+## 2015-16 · Exam not stated · Sem 4 · paper 9186cdc999e7
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/DIGITAL SIGNAL AND IMAGE PROCESSING/DIGITAL SIGNAL AND IMAGE PROCESSING B TECH (IT), BATCH 10001(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16/05/2016
+- Text: ocr (2 pages), mean OCR confidence 87.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (IT) Year: II Semester: IV
+
+Academic Year: 2015-16
+Batch:2013-14
+
+Subject: Digital Signal and Image Processing Marks: 100
+
+Time: 10.00
+
+Date: 16/05/2016 Durations: 3 hrs?
+Re-Examination
+
+Inséructions:-candidates should read carefully the instructions printed on the question
+—paper and on the cover of the answer book, which is provided for their use.
+
+NB: - 1) Question No ONE is compulsory
+2) Out of remaining attempt FOUR questions,
+3) All Questions carry equal marks.
+
+4) Figures in brackets on right hand side indicate full marks
+
+Qi.. Attempt All
+A) Explain High Pass & Low Pass image filters with their applications. (10)
+B) Explain the following edge extraction operators (10)
+1. Sobel 2. Prewitt 3. Robberts
+Q2. Attempt All
+
+A) Give the classification of Discrete time signal. (10)
+8B) Obtain the Huffman code for following stream of data (10)
+{1, 1, 1,1, 1,1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3,3, 4, 4, 4, 4, 5,5, 5, 6, 6, 7}
+
+Q3. Attempt All
+
+A) Determine Z-transform of the following signal: (10)
+pe: x(n)=cos @n u(n)
+B) Explain Dilation & Erosion with the help of example (10)
+
+t/a.
+--- page 2 ---
+Q4. Attempt All
+A) Find the DFT of the given signal and also find inverse DFT of the result (10)
+obtained. x(n)={11, 21, 3, 4}
+
+B) Explain different redundancies present in Image. (10)
+Os seme Al
+
+* A) Explain any four point processing techniques of image enhancement. (10)
+5) Compute:the Hadamard transform of the image shown (10)
+
+.. oe 2 {1 [2 |i
+
+aout
+1 |2 |3 {2
+2 |3 |4 13
+
+1 |2 |3 42
+
+Q6. Attempt All
+A) What is mean by Histogram of Image? Explain histogram stretching with the (10)
+help of Example.
+B) Explain the different techniques of Region Based Segmentation (10)
+Q7. Write Short Note (Attempt Any 2) (20)
+A) Explain the steps of Analog to Digital Conversion
+B) Explain Homomorphic filters in detail.
+C) Use discrete convolution to find the response to the input x(n)=a" u(n) of the
+
+LTI system with impulse response h(n)=b" u(n)
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper be2b830cd783
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/DIGITAL SIGNAL AND IMAGE PROCESSING/DIGITAL SIGNAL AND IMAGE PROCESSING BATCH 2013-14 RE EXA0001(2).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 July 2016
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+SVKM’s NMIMS eee gate
+ratte Nite, PU GINEERING
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY 1
+
+Programme: B.Tech (1.T.) Year: II
+
+Academic Year: 2015-16
+
+Batch: 2013-14 «
+
+Subject: Digital Signal and Image Processing « Marks: 100 © .
+Time: 10.00 am - 1.00 pm
+Date: 07 July 2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:,
+
+1. Question No.1 is compulsory.
+
+2. Attempt any four out of remaining six questions.
+
+3. In all 5 questions to be attempted
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on fresh page.
+
+6. Figures in bracket on the right hand side indicate full marks.
+7. Assume suitable data where-ever required
+
+Q1.Answer any four (§ marks each) (20)
+1 DFT vs FFT.
+
+2. Compare DIT and DIF radix -2 FFT:
+
+3. Explain concept of Edge detection in Image .
+
+4. Draw butterfly diagram for 8 point FFT.
+
+5. Define sampling and aliasing with suitable example.
+
+Q2-A) Explain the terms
+
+(10)
+
+a) Contrast stretching b) Thresholding c) Range compression d) Bit slicing
+B) Define Signal and explain the types of signal in Discrete time domain. (10)
+Q3-A) Find the DFT of the Sequence x(n) = {0,1,2,1} (10)
+
+B) Design a FIR Low pass filter with a cut off frequency of 1 KHz and sampling rate 4 KHz
+with 11 Samples Fourier series. (10)
+
+Vo
+--- page 2 ---
+Q4-A) Explain the Image compression model in detail. (10)
+B) If x(n)=2 8 (n)+3 8(n-1)+4 8(n-2)+5 S(n-3).
+Find 4 point DFT X(k) using Fast Fourier Transform flow graph. (10)
+
+Q5-A) What is Segmentation? Explain the image segmentation based on discontinuity. (10)
+B) Perform histogram stretching on the following Histogram: (10)
+
+W
+
+Gray level | 0 1 2 3 4 5 6 7
+
+oy?
+
+r
+
+No. of 100 | 90 | 85 70 0 0 0 0
+
+pixels ‘n’ aa
+Q6-A) Explain Homomorphic filtering in detail. . (10)
+B) Perform Walsh Transform on given data as x(n)={1,2,3,4,1,2,3,4}, (10)
+Q7) Answer any four questions: (§ each) (20)
+
+1) Error free Compression.
+
+2) Region based Segmentation.
+
+3) Image morphological operations.
+
+4) FIR filters.
+
+5) Define Signals and it’s types and advantage of DSP .
+
++ t
+````
+
+## 2014-15 · Exam not stated · Sem 4 · paper a275d329d6c5
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/DIGITAL SIGNAL AND IMAGE PROCESSING/DIGITAL SIGNAL AND IMAGE PROCESSING B TECH (IT), BATCH 20001.pdf`
+- Printed on paper: exam date: 11/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: II Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Digital Signal and Image Processing
+Marks
+Date: 11/05/2015 Time: a
+
+$; 13i (lars)
+men
+
+Re-Examination x th pea” SE
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for the use.
+NB.
+
+1. Question No.1 is compulsory
+
+2. Out of remaining 6 questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question should be started on a Fresh page.
+
+6. Figure in brackets indicate full marks.
+
+Q1).Answer any four (5 marks each) (20)
+
+1. What is image morphing and what are it’s applications?
+
+2. List different classification Discrete Time systems? State Generalized Difference
+Equation of DTS?
+
+3. Explain concept of Edge detection in Image processing.
+
+4. Prove that Hadamard matrix is orthogonal.
+
+5. Test the stability of LTI system, whose impulse response are
+
+n
+a) h(n)= 0.2 0 u(n) + 7" u(n) b)h(n)= 0.1 u(n+6)
+6. Give spatial domain concepts of image processing?
+
+Q2) a )Explain the significance of Histogram of the Image, analyze process of
+
+Histogram Equalization? Equalize the given Histogram: (10 )
+| Gray level | 0 1 {2 3 4 5 6 7
+| No. of 590 1024 | 650 850 | 333 245 i222 281
+pixels
+
+b) Explain primitive discrete time signal with waveform and expression?
+
+State applications of these signals in DSP, with suitable examples? (10)
+Q3) a) Compute circular convolution of x(n)={0,1,0,1} and h(n)={1,2,1,2} (10 )
+by DFT?
+b) What is neighborhood Image processing, Explain different three different
+types of Image filters based on this concept? (10 )
+
+1/2
+--- page 2 ---
+Q4) a) Obtain transfer function in z-domain(H(z)) for FIR Low pass filter with a
+cut off frequency of 3 KHz and sampling rate 7 KHz with 11 Samples
+Fourier series? (10)
+b) Explain any five properties of Z- transform (10)
+Q5) a) Develop Walsh W(8) Transform from basic Hadamard transform. (10)
+b) State your understanding about signals and system? Give different type (10)
+of signals with suitable example and expressions?
+Q6) a)Find the transfer function and unit sample response of the second order
+difference equation with zero initial condition (10)
+y(n) =x(n)-0.25y(n-2)
+b) Define one dimensional DCT sequence for f(x) (10)
+Apply DCT on the following sub-image sequence (2,4,8,6)
+Q7) Answer any four from following (5 marks each) (20)
+a) Image segmentation
+b) Draw neat Butterfly diagram for all the stages of 8-points DFT via radix-2 DIF FFT
+with twiddle factors values?
+c) Hit or Miss Transform
+d) Explain lossy and loss- less image compression techniques, one of each type.
+e) Digital filters.
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper 1bcfa16f66b2
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/DIGITAL SIGNAL AND IMAGE PROCESSING/DIGITAL SIGNAL AND IMAGE PROCESSING B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 27/11/2014
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: Ill Semester: V
+Batch: 2013-2014
+Academic Year: 2014-2015
+Subject: Digital Signal and Image Processing
+Marks
+Date: 27/11/2014 Time:
+Durations
+
+Re-Examination
+
+Instructions: 1.Question no. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4 All questions carry equal marks.
+5. Answer to each new question to be started ona fresh page.
+6.Figures in brackets on right hand side indicate full marks.
+7. Scientific Calculator is allowed
+
+Q1.Answer any four (5 marks each)
+
+(20)
+
+1. Explain the concept of radix 2 FFT and define DIT and DIF.
+2 What is the stability requirement for the System?
+
+. What is the difference between point processing and neighbor-hood processing?
+4. What is morphing and what are it’s applications?
+5. Draw butterfly diagram for 8 point FFT?
+
+6. Explain Image Histogram and give it’s usefulness and draw backs.
+
+Q2) a) Find the DCT of the following sequence. Also write the Properties of DCT. (10)
+{1, 2, 4, 7}
+
+b) A low pass has the desired response as given below (10)
+
+Ha(e ae gam O<w<TT/2
+
+0 TI/2<w<TT
+--- page 2 ---
+Q3) a) Given the data sequence x (n) = {1, 2, 1, 1, 3, 2,1, 2}’, use the Fast Hadamard Transform to compute the
+transform. (10)
+
+b) An LTI system is described by the equation y(n) = x(n) + 0.8 x(n-2) — 0.49 y(n-2). Determine the transfer
+
+function of the system. Sketch the poles and zeros on the z-plane. (10)
+Q4) a) Perform histogram stretching on the following Histogram: (10)
+Gray 0 1 2 3 4 5 6 7
+level ‘r’
+No. of 0 280 440 150 80 20 0 0
+pixels |
+‘’
+b) Develop Walsh W(8) Transform from basic Hadamard transform. (10)
+
+Q5) a) Determine the inverse Z-transform of the following X (z) by partial fraction expansion (10)
+
+Z4+2
+
+X (z) =--
+227-72+3
+If the ROCs are (a) |z|>3 (b) |z|<1/2 and (c)1/2 <|z|<3
+b) Explain region based image segmentation techniques. (10)
+
+Q6) a) Given x(n) = {0, 1, 2, 3, 4, 5, 6, 7}. Find X(k) using DIT FFT. (10)
+
+b) The impulse response of linear invariant is h(n) = {1, 2, 1, -1}.
+
+Determine the response of system to the input x(n) = {1, 2, 3, 1} using tabular method. (10)
+
+ft
+
+Q7) Answer any four questions. (5 each) (20)
+1) Explain concept of edge detection, give expression of for different edge detector
+Mask?
+
+2) Write a short note on:-Hit or Miss Transform
+
+3) Explain fidelity criteria in detail.
+
+4) Explain difference between linear and circular convolution.
+5) Write a short note on:- IIR-Filter
+
+6) Explain any five properties of Z- transform
+
+——
+````
+
 ## 2013-14 · Exam not stated · Sem 4 · paper afd9d26d8d27
 
 - Departments: Information Technology
@@ -951,104 +1427,6 @@ Q7) Write notes on any four (5 marks each)
 5) Signals , it’s types and advantage of DSP.
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 2f83293d84fb
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/DIGITAL SIGNAL AND IMAGE PROCESSING/DIGITAL SIGNAL AND IMAGE PROCESSING BATCH 13-14 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2017
-- Text: ocr (2 pages), mean OCR confidence 87.6
-
-````text
-SVKM’s NMIMS
-
-Programme: B. Tech (LT.) . Year: Il Semester: IV ~
-
-Batch: 2013-2014 -
-
-Ly,
-
-Biuiscany
-Sen Y
-
-Marks: 100 ¢ Sais GOO
-
-Date: 16 May 2017 + Time: 10.00 am to 1.00-pm ~
-Durations: 3 (hrs}
-No. of Pages: 2
-
-Academic Year: 2016-2017
-
-Subject: Digital Signal and Image Processing ~
-
-Re-Examination
-
-Instructions: 1.Question no. | is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks,
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on right hand side indicate full marks.
-
-7. Scientific Calculator is allowed.
-QI.Answer any four (5 marks each) ‘ (20)
-
-|. Explain concept of Edge detection in Image.
-2. Express how FFT is efficient algorithm for DFT computation.
-3, Determine the impulse response for the cascade of two LTI systems having impulse responses
-
-Al (n)=E)" u(n) and A2 G2) = (0.2) " un)
-
-4, Describe the dilation and erosion morphological operations.
-5. Dose the Histogram equalization de image enhancement? Comment on it.
-6. Draw butterfly diagram for 8 point FFT
-
-Q2) a) What is neighborhood processing, Explain different types of Image filters based on this concepts?
-
-(10)
-b) Using partial fraction expansion method finds inverse Z transform of following
-system given by:-
-Z (Z?-4Z+5)
-X(Z) = (10)
-
-(Z-1) (2-2) (2-3)
-
-For ROC being |Z|>3, 2<|Z|<3, [Z|<2.
-
-V2
---- page 2 ---
-Q3 a) Design a FIR High pass filter with a cut off frequency of 1.5 KHz and sampling rate
-5 KHz with 7 Samples Fourier series. (10)
-
-b) Apply DCT on the following sub-image.
-
-2 4 4 2
-4 6 8 3
-
-2 8 10 | 4
-3 8 6 2
-
-(10)
-
-Q4) a) Given x (n) = { 0, 1, 2, 3, 4, 5, 6, 7}. Find X (k) using DIT FET. (10)
-b) Explain any Image compression techniques and state it’s quality factors. (10)
-Q5) a) Explain the different Image Segmentation techniques in brief. coy
-
-b) AnLTI system is described by the equation, y(n)=x(n)+0.8x(n-1)+0.8x(n-2) -0.49y(n-2) (10)
-Determine the transfer function of the system. Sketch the poles and zeros on the z-plane.
-
-Q6) a) Explain different operations of Analog to Digital conversion. (10)
-b) How do you define Histogram of Image and how Histogram modelling techniques
-is useful to improve images? (10)
-Q7) Write notes on any four. (5 marks each) : (20) ,
-1) Hough Transform
-2) TIR-Filter
-
-3) Properties of Z- Transform
-4) Walsh-Hadamard Transform
-5) Types of LTI systems
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 09b9b8107976
 
 - Departments: Information Technology
@@ -1157,208 +1535,6 @@ Page 2 of 2
 10
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper be2b830cd783
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/DIGITAL SIGNAL AND IMAGE PROCESSING/DIGITAL SIGNAL AND IMAGE PROCESSING BATCH 2013-14 RE EXA0001(2).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 July 2016
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS eee gate
-ratte Nite, PU GINEERING
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY 1
-
-Programme: B.Tech (1.T.) Year: II
-
-Academic Year: 2015-16
-
-Batch: 2013-14 «
-
-Subject: Digital Signal and Image Processing « Marks: 100 © .
-Time: 10.00 am - 1.00 pm
-Date: 07 July 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:,
-
-1. Question No.1 is compulsory.
-
-2. Attempt any four out of remaining six questions.
-
-3. In all 5 questions to be attempted
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on fresh page.
-
-6. Figures in bracket on the right hand side indicate full marks.
-7. Assume suitable data where-ever required
-
-Q1.Answer any four (§ marks each) (20)
-1 DFT vs FFT.
-
-2. Compare DIT and DIF radix -2 FFT:
-
-3. Explain concept of Edge detection in Image .
-
-4. Draw butterfly diagram for 8 point FFT.
-
-5. Define sampling and aliasing with suitable example.
-
-Q2-A) Explain the terms
-
-(10)
-
-a) Contrast stretching b) Thresholding c) Range compression d) Bit slicing
-B) Define Signal and explain the types of signal in Discrete time domain. (10)
-Q3-A) Find the DFT of the Sequence x(n) = {0,1,2,1} (10)
-
-B) Design a FIR Low pass filter with a cut off frequency of 1 KHz and sampling rate 4 KHz
-with 11 Samples Fourier series. (10)
-
-Vo
---- page 2 ---
-Q4-A) Explain the Image compression model in detail. (10)
-B) If x(n)=2 8 (n)+3 8(n-1)+4 8(n-2)+5 S(n-3).
-Find 4 point DFT X(k) using Fast Fourier Transform flow graph. (10)
-
-Q5-A) What is Segmentation? Explain the image segmentation based on discontinuity. (10)
-B) Perform histogram stretching on the following Histogram: (10)
-
-W
-
-Gray level | 0 1 2 3 4 5 6 7
-
-oy?
-
-r
-
-No. of 100 | 90 | 85 70 0 0 0 0
-
-pixels ‘n’ aa
-Q6-A) Explain Homomorphic filtering in detail. . (10)
-B) Perform Walsh Transform on given data as x(n)={1,2,3,4,1,2,3,4}, (10)
-Q7) Answer any four questions: (§ each) (20)
-
-1) Error free Compression.
-
-2) Region based Segmentation.
-
-3) Image morphological operations.
-
-4) FIR filters.
-
-5) Define Signals and it’s types and advantage of DSP .
-
-+ t
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 1bcfa16f66b2
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/DIGITAL SIGNAL AND IMAGE PROCESSING/DIGITAL SIGNAL AND IMAGE PROCESSING B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 27/11/2014
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: Ill Semester: V
-Batch: 2013-2014
-Academic Year: 2014-2015
-Subject: Digital Signal and Image Processing
-Marks
-Date: 27/11/2014 Time:
-Durations
-
-Re-Examination
-
-Instructions: 1.Question no. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4 All questions carry equal marks.
-5. Answer to each new question to be started ona fresh page.
-6.Figures in brackets on right hand side indicate full marks.
-7. Scientific Calculator is allowed
-
-Q1.Answer any four (5 marks each)
-
-(20)
-
-1. Explain the concept of radix 2 FFT and define DIT and DIF.
-2 What is the stability requirement for the System?
-
-. What is the difference between point processing and neighbor-hood processing?
-4. What is morphing and what are it’s applications?
-5. Draw butterfly diagram for 8 point FFT?
-
-6. Explain Image Histogram and give it’s usefulness and draw backs.
-
-Q2) a) Find the DCT of the following sequence. Also write the Properties of DCT. (10)
-{1, 2, 4, 7}
-
-b) A low pass has the desired response as given below (10)
-
-Ha(e ae gam O<w<TT/2
-
-0 TI/2<w<TT
---- page 2 ---
-Q3) a) Given the data sequence x (n) = {1, 2, 1, 1, 3, 2,1, 2}’, use the Fast Hadamard Transform to compute the
-transform. (10)
-
-b) An LTI system is described by the equation y(n) = x(n) + 0.8 x(n-2) — 0.49 y(n-2). Determine the transfer
-
-function of the system. Sketch the poles and zeros on the z-plane. (10)
-Q4) a) Perform histogram stretching on the following Histogram: (10)
-Gray 0 1 2 3 4 5 6 7
-level ‘r’
-No. of 0 280 440 150 80 20 0 0
-pixels |
-‘’
-b) Develop Walsh W(8) Transform from basic Hadamard transform. (10)
-
-Q5) a) Determine the inverse Z-transform of the following X (z) by partial fraction expansion (10)
-
-Z4+2
-
-X (z) =--
-227-72+3
-If the ROCs are (a) |z|>3 (b) |z|<1/2 and (c)1/2 <|z|<3
-b) Explain region based image segmentation techniques. (10)
-
-Q6) a) Given x(n) = {0, 1, 2, 3, 4, 5, 6, 7}. Find X(k) using DIT FFT. (10)
-
-b) The impulse response of linear invariant is h(n) = {1, 2, 1, -1}.
-
-Determine the response of system to the input x(n) = {1, 2, 3, 1} using tabular method. (10)
-
-ft
-
-Q7) Answer any four questions. (5 each) (20)
-1) Explain concept of edge detection, give expression of for different edge detector
-Mask?
-
-2) Write a short note on:-Hit or Miss Transform
-
-3) Explain fidelity criteria in detail.
-
-4) Explain difference between linear and circular convolution.
-5) Write a short note on:- IIR-Filter
-
-6) Explain any five properties of Z- transform
-
-——
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper 442289828b1d
 
 - Departments: Information Technology
@@ -1462,180 +1638,4 @@ Q7) Write notes on any four? (5 each) (20)
 5) DTS classification
 
 6) Hotelling Transform
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 9186cdc999e7
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/DIGITAL SIGNAL AND IMAGE PROCESSING/DIGITAL SIGNAL AND IMAGE PROCESSING B TECH (IT), BATCH 10001(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16/05/2016
-- Text: ocr (2 pages), mean OCR confidence 87.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (IT) Year: II Semester: IV
-
-Academic Year: 2015-16
-Batch:2013-14
-
-Subject: Digital Signal and Image Processing Marks: 100
-
-Time: 10.00
-
-Date: 16/05/2016 Durations: 3 hrs?
-Re-Examination
-
-Inséructions:-candidates should read carefully the instructions printed on the question
-—paper and on the cover of the answer book, which is provided for their use.
-
-NB: - 1) Question No ONE is compulsory
-2) Out of remaining attempt FOUR questions,
-3) All Questions carry equal marks.
-
-4) Figures in brackets on right hand side indicate full marks
-
-Qi.. Attempt All
-A) Explain High Pass & Low Pass image filters with their applications. (10)
-B) Explain the following edge extraction operators (10)
-1. Sobel 2. Prewitt 3. Robberts
-Q2. Attempt All
-
-A) Give the classification of Discrete time signal. (10)
-8B) Obtain the Huffman code for following stream of data (10)
-{1, 1, 1,1, 1,1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3,3, 4, 4, 4, 4, 5,5, 5, 6, 6, 7}
-
-Q3. Attempt All
-
-A) Determine Z-transform of the following signal: (10)
-pe: x(n)=cos @n u(n)
-B) Explain Dilation & Erosion with the help of example (10)
-
-t/a.
---- page 2 ---
-Q4. Attempt All
-A) Find the DFT of the given signal and also find inverse DFT of the result (10)
-obtained. x(n)={11, 21, 3, 4}
-
-B) Explain different redundancies present in Image. (10)
-Os seme Al
-
-* A) Explain any four point processing techniques of image enhancement. (10)
-5) Compute:the Hadamard transform of the image shown (10)
-
-.. oe 2 {1 [2 |i
-
-aout
-1 |2 |3 {2
-2 |3 |4 13
-
-1 |2 |3 42
-
-Q6. Attempt All
-A) What is mean by Histogram of Image? Explain histogram stretching with the (10)
-help of Example.
-B) Explain the different techniques of Region Based Segmentation (10)
-Q7. Write Short Note (Attempt Any 2) (20)
-A) Explain the steps of Analog to Digital Conversion
-B) Explain Homomorphic filters in detail.
-C) Use discrete convolution to find the response to the input x(n)=a" u(n) of the
-
-LTI system with impulse response h(n)=b" u(n)
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper a275d329d6c5
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/DIGITAL SIGNAL AND IMAGE PROCESSING/DIGITAL SIGNAL AND IMAGE PROCESSING B TECH (IT), BATCH 20001.pdf`
-- Printed on paper: exam date: 11/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Digital Signal and Image Processing
-Marks
-Date: 11/05/2015 Time: a
-
-$; 13i (lars)
-men
-
-Re-Examination x th pea” SE
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for the use.
-NB.
-
-1. Question No.1 is compulsory
-
-2. Out of remaining 6 questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question should be started on a Fresh page.
-
-6. Figure in brackets indicate full marks.
-
-Q1).Answer any four (5 marks each) (20)
-
-1. What is image morphing and what are it’s applications?
-
-2. List different classification Discrete Time systems? State Generalized Difference
-Equation of DTS?
-
-3. Explain concept of Edge detection in Image processing.
-
-4. Prove that Hadamard matrix is orthogonal.
-
-5. Test the stability of LTI system, whose impulse response are
-
-n
-a) h(n)= 0.2 0 u(n) + 7" u(n) b)h(n)= 0.1 u(n+6)
-6. Give spatial domain concepts of image processing?
-
-Q2) a )Explain the significance of Histogram of the Image, analyze process of
-
-Histogram Equalization? Equalize the given Histogram: (10 )
-| Gray level | 0 1 {2 3 4 5 6 7
-| No. of 590 1024 | 650 850 | 333 245 i222 281
-pixels
-
-b) Explain primitive discrete time signal with waveform and expression?
-
-State applications of these signals in DSP, with suitable examples? (10)
-Q3) a) Compute circular convolution of x(n)={0,1,0,1} and h(n)={1,2,1,2} (10 )
-by DFT?
-b) What is neighborhood Image processing, Explain different three different
-types of Image filters based on this concept? (10 )
-
-1/2
---- page 2 ---
-Q4) a) Obtain transfer function in z-domain(H(z)) for FIR Low pass filter with a
-cut off frequency of 3 KHz and sampling rate 7 KHz with 11 Samples
-Fourier series? (10)
-b) Explain any five properties of Z- transform (10)
-Q5) a) Develop Walsh W(8) Transform from basic Hadamard transform. (10)
-b) State your understanding about signals and system? Give different type (10)
-of signals with suitable example and expressions?
-Q6) a)Find the transfer function and unit sample response of the second order
-difference equation with zero initial condition (10)
-y(n) =x(n)-0.25y(n-2)
-b) Define one dimensional DCT sequence for f(x) (10)
-Apply DCT on the following sub-image sequence (2,4,8,6)
-Q7) Answer any four from following (5 marks each) (20)
-a) Image segmentation
-b) Draw neat Butterfly diagram for all the stages of 8-points DFT via radix-2 DIF FFT
-with twiddle factors values?
-c) Hit or Miss Transform
-d) Explain lossy and loss- less image compression techniques, one of each type.
-e) Digital filters.
 ````

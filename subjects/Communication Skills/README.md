@@ -1,6 +1,6 @@
 # Communication Skills
 
-**72** unique papers (80 copies across programmes) · 2007-08 to 2024-25 · 4 programmes · Sem 1, Sem 2, Trim 1, Trim 2
+**75** unique papers (82 copies across programmes) · 2006-07 to 2024-25 · 4 programmes · Sem 1, Sem 2, Trim 1, Trim 2
 
 Download only this subject, sorted by academic year:
 
@@ -79,14 +79,24 @@ Also filed as: `COMMUNICACTION SKILLS`, `COMUNICATION SKILLS`
 | 2011-12 | Re-Exam | Question paper | Trim 2 | MCA | COMMUNICATION SKILL II MCA 2011-12 RE EXAM.pdf |
 | 2011-12 | Re-Exam | Question paper | Trim 2 | MCA | COMMUNICATION SKILLS BATCH 2011-12 RE EXAM0001.pdf |
 | 2011-12 | Re-Exam | Question paper | Trim 2 | MCA | communication skills BATCH 2011-12 RE EXAMscan0003.pdf |
+| 2010-11 | — | Question paper | Trim 2 | B TECH | 2010-2011 (1).pdf [1] |
 | 2010-11 | — | Question paper | Trim 2 | B TECH | COMMUNICATION SKILLS BATCH 2010-2011.pdf |
 | 2010-11 | Re-Exam | Question paper | Trim 2 | B TECH | COMMUNICATION SKILLS BATCH 2010-11 RE EXAM0001.pdf |
 | 2009-10 | — | Question paper | Trim 2 | MBA TECH, MCA | 2009-2010(41).pdf |
 | 2009-10 | Re-Exam | Question paper | Trim 2 | B TECH | COMMUNICATION SKILLS BATCH 2009-10 RE EXAM0001.pdf |
 | 2009-10 | Re-Exam | Question paper | Trim 2 | B TECH | COMUNICATION SKILL BATCH 2009-2010 RE EXAM (1).pdf |
 | 2008-09 | — | Question paper | Trim 2 | MBA TECH, MCA | 2008-2009(28).pdf |
+| 2007-08 | — | Question paper | Trim 2 | B TECH | 2007-2008.pdf [2] |
 | 2007-08 | — | Question paper | Trim 2 | MBA TECH, MCA | 2007-2008(21).pdf |
-| — | — | Question paper | Trim 2 | B TECH | scan0002(8) (1).pdf |
+| 2007-08 | Re-Exam | Question paper | Trim 2 | B TECH | 2007-2008 re exam (1).pdf [3] |
+| 2006-07 | — | Question paper | Trim 2 | B TECH | 2006-2007 (1).pdf [4] |
 | — | — | Question paper | Trim 1 | MCA | scan0004(10).pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "BASIC ELECTRONICS" but the paper is headed "Communication Skills"
+2. filed under "BASIC ELECTRONICS" but the paper is headed "Communication Skills"
+3. filed under "BASIC ELECTRONICS" but the paper is headed "Communication Skills"
+4. filed under "BASIC ELECTRONICS" but the paper is headed "Communication Skills"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

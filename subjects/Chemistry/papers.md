@@ -2186,6 +2186,196 @@ Page 4/4
 (5)
 ````
 
+## 2021-22 · Exam not stated · Sem 2 · paper 9cdd95690a9a
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/CHEMISTRY/Chemistry.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 July 2022
+- Text: ocr (3 pages), mean OCR confidence 92.3
+
+````text
+STL
+TBRAL
+SVKM’s NMIMS yy
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /_ bay”
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ~*~
+
+Academic Year: 2021-2022
+
+Programme: MBA Tech / B. Tech / Year:1/ III Semester: II / VI
+B. Tech Integrated (Mechanical/ Civil)
+
+Subject: Chemistry
+Marks: 100 r
+Date: 01 July 2022 _ Time: 11.00 am to'2.00 pm
+Durations: 3 (Hrs)
+
+No. of Pages: __0%3-
+Re-Examination(2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+Note:
+
+1) Question No. 1 is compulsory.
+
+2) Out of the remaining questions, attempt any 4 questions.
+
+3) Inall5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Non-graphing scientific calculator can be used for numerical solving.
+
+7) Figures in brackets on the right hand side indicate full marks.
+
+8) Assume Suitable data if necessary.
+
+9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Ba=
+137, Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, Fr=223,
+H=1, He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, P=31,
+$=32, Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2
+
+Qi. Answer the following:
+
+CO-3; | a. | Asample of coal contains C = 75%, H = 8%, 0 = 6%, S= 2%, N= 1.8% and remaining | (4)
+SO-1; ash. Calculate the HCV and NCV.
+
+BL-2
+
+CO-2; | b. | Differentiate between temporary, and permanent hardness (4)
+SO-1;
+
+BL-1
+
+CO-1; | c. | Discuss briefly any four factors causing corrosion. (4)
+SO-1;
+
+BL-1
+
+CO-2; | d. | What do you mean by melting and glass transition temperature? Discuss its | (4)
+SO-1; significance.
+
+BL-2
+
+CO-1; | e. | Discuss briefly any four applications of nanomaterials. . (4)
+SO-1;
+
+BL-3
+
+Page 1/3
+--- page 2 ---
+Q2. What is copolymerization? With a general structural arrangement of the | (5)
+CO-2; monomers, write briefly about the different types of copolymers.
+
+SO-1;
+
+BL-1
+
+CcO-3; Briefly discuss the functions of lubricants. (5)
+SO-1;
+
+BL-1
+
+CO-3; Write a short note on mining of petroleum. (5)
+SO-1; —
+
+BL-2
+
+CO-2; A water sample has the following impurities in ppm: NaCl =5, NaNO3=5, Ca(HCOs)2 | (5)
+SO-; = 20, Mg(HCOs)2 = 20, KCI = 10, KNO3 = 10, CaCl, = 25, MgClz = 25. Calculate the
+
+BL-2 temporary, permanent, and the total hardness of the given water sample.
+
+Q:3.. With a suitable diagram briefly explain the hot lime-soda method of water | (5)
+CO-2; softening.
+
+SO-1;
+“BL-2
+
+CO-2; Write a short note on doped conducting polymers with suitable examples. (5)
+SO-1;
+
+BL-1
+
+CO-3; Briefly explain hydrodynamic lubrication. (5)
+SO-1;
+
+BL-3
+
+CO-3; An air dried coal sample weighing 3.2 g was taken for volatile matter | (5)
+SO-1; determination. After heating the coal sample for 1 hour at 950 + 25°C, the sample
+
+BL-6 weighed 2.82 g. If it contains 5.7% moisture, find out the %volatile matter in it.
+
+Q4. What is meant by cracking of heavy oils? Explain briefly why cracking is done. (5)
+CO-3;
+
+SO-1;
+
+BL-1 :
+
+CO-1; Write a short note on the sacrificial anode protection method for the prevention | (5)
+SO-1; of corrosion.
+
+BL-1
+
+CO-2; What are self-healing polymers? Discuss briefly autonomic and non-autonomic | (5)
+SO-1; healing.
+
+BL-2
+
+co-1; Write a short note on the different types of carbon steels. (5)
+SO-1;
+
+BL-5
+
+Page 2/3
+--- page 3 ---
+Q5. a. | With a suitable diagram write a short note on tinning. (5)
+CO-1;
+
+SO-1;
+
+BL-1
+
+co-3; | b. | Calculate the weight of air needed for complete combustion of 0.3 kg (300 g) of | (5)
+SO-1; coal containing: C = 74%, H = 12%, N = 5%, O = 7% and remaining ash. Express the
+BL-1 air requirement in terms of volume.
+
+Co-2; | c. | With reaction write a short note on the regeneration of a cation exchange column. | (5)
+SO-1;
+BL-2
+
+CoO-1; | d. | What is brass? With applications write about any four types of brass (5)
+SO-1;
+BL-4
+
+Qé6. a. | What are composites? Write briefly about the classification of composites. (5)
+CO-1;
+
+SO-1;
+
+BL-1
+
+CO-1; | b. | With examples, discuss the different types of oxide films formed on the metal | (5)
+SO-1; surface because of corrosion.
+BL-1
+
+CO-2; | c. | Define tacticity. With a general structure show isotactic, syndiotactic, and atactic | (5)
+SO-1; arrangement.
+BL-3
+
+co-3; | d. | Write a short note on boundary lubrication, and extreme pressure lubrication. (5)
+SO-1;
+BL-2
+
+Page 3/3
+````
+
 ## 2021-22 · Final-Exam · Sem 2 · paper 3a97fef0f6e9
 
 - Departments: Common (all branches)
@@ -2918,196 +3108,6 @@ Page 3/3
 - Departments: Civil, Common (all branches), Mechanical
 - Programmes: B TECH, B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/CHEMISTRY/Chemistry Batch 2021-22 Re Exam.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 July 2022
-- Text: ocr (3 pages), mean OCR confidence 92.3
-
-````text
-STL
-TBRAL
-SVKM’s NMIMS yy
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /_ bay”
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ~*~
-
-Academic Year: 2021-2022
-
-Programme: MBA Tech / B. Tech / Year:1/ III Semester: II / VI
-B. Tech Integrated (Mechanical/ Civil)
-
-Subject: Chemistry
-Marks: 100 r
-Date: 01 July 2022 _ Time: 11.00 am to'2.00 pm
-Durations: 3 (Hrs)
-
-No. of Pages: __0%3-
-Re-Examination(2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-Note:
-
-1) Question No. 1 is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) Inall5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Non-graphing scientific calculator can be used for numerical solving.
-
-7) Figures in brackets on the right hand side indicate full marks.
-
-8) Assume Suitable data if necessary.
-
-9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Ba=
-137, Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, Fr=223,
-H=1, He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, P=31,
-$=32, Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2
-
-Qi. Answer the following:
-
-CO-3; | a. | Asample of coal contains C = 75%, H = 8%, 0 = 6%, S= 2%, N= 1.8% and remaining | (4)
-SO-1; ash. Calculate the HCV and NCV.
-
-BL-2
-
-CO-2; | b. | Differentiate between temporary, and permanent hardness (4)
-SO-1;
-
-BL-1
-
-CO-1; | c. | Discuss briefly any four factors causing corrosion. (4)
-SO-1;
-
-BL-1
-
-CO-2; | d. | What do you mean by melting and glass transition temperature? Discuss its | (4)
-SO-1; significance.
-
-BL-2
-
-CO-1; | e. | Discuss briefly any four applications of nanomaterials. . (4)
-SO-1;
-
-BL-3
-
-Page 1/3
---- page 2 ---
-Q2. What is copolymerization? With a general structural arrangement of the | (5)
-CO-2; monomers, write briefly about the different types of copolymers.
-
-SO-1;
-
-BL-1
-
-CcO-3; Briefly discuss the functions of lubricants. (5)
-SO-1;
-
-BL-1
-
-CO-3; Write a short note on mining of petroleum. (5)
-SO-1; —
-
-BL-2
-
-CO-2; A water sample has the following impurities in ppm: NaCl =5, NaNO3=5, Ca(HCOs)2 | (5)
-SO-; = 20, Mg(HCOs)2 = 20, KCI = 10, KNO3 = 10, CaCl, = 25, MgClz = 25. Calculate the
-
-BL-2 temporary, permanent, and the total hardness of the given water sample.
-
-Q:3.. With a suitable diagram briefly explain the hot lime-soda method of water | (5)
-CO-2; softening.
-
-SO-1;
-“BL-2
-
-CO-2; Write a short note on doped conducting polymers with suitable examples. (5)
-SO-1;
-
-BL-1
-
-CO-3; Briefly explain hydrodynamic lubrication. (5)
-SO-1;
-
-BL-3
-
-CO-3; An air dried coal sample weighing 3.2 g was taken for volatile matter | (5)
-SO-1; determination. After heating the coal sample for 1 hour at 950 + 25°C, the sample
-
-BL-6 weighed 2.82 g. If it contains 5.7% moisture, find out the %volatile matter in it.
-
-Q4. What is meant by cracking of heavy oils? Explain briefly why cracking is done. (5)
-CO-3;
-
-SO-1;
-
-BL-1 :
-
-CO-1; Write a short note on the sacrificial anode protection method for the prevention | (5)
-SO-1; of corrosion.
-
-BL-1
-
-CO-2; What are self-healing polymers? Discuss briefly autonomic and non-autonomic | (5)
-SO-1; healing.
-
-BL-2
-
-co-1; Write a short note on the different types of carbon steels. (5)
-SO-1;
-
-BL-5
-
-Page 2/3
---- page 3 ---
-Q5. a. | With a suitable diagram write a short note on tinning. (5)
-CO-1;
-
-SO-1;
-
-BL-1
-
-co-3; | b. | Calculate the weight of air needed for complete combustion of 0.3 kg (300 g) of | (5)
-SO-1; coal containing: C = 74%, H = 12%, N = 5%, O = 7% and remaining ash. Express the
-BL-1 air requirement in terms of volume.
-
-Co-2; | c. | With reaction write a short note on the regeneration of a cation exchange column. | (5)
-SO-1;
-BL-2
-
-CoO-1; | d. | What is brass? With applications write about any four types of brass (5)
-SO-1;
-BL-4
-
-Qé6. a. | What are composites? Write briefly about the classification of composites. (5)
-CO-1;
-
-SO-1;
-
-BL-1
-
-CO-1; | b. | With examples, discuss the different types of oxide films formed on the metal | (5)
-SO-1; surface because of corrosion.
-BL-1
-
-CO-2; | c. | Define tacticity. With a general structure show isotactic, syndiotactic, and atactic | (5)
-SO-1; arrangement.
-BL-3
-
-co-3; | d. | Write a short note on boundary lubrication, and extreme pressure lubrication. (5)
-SO-1;
-BL-2
-
-Page 3/3
-````
-
-## Year not stated · Exam not stated · Sem 2 · paper 9cdd95690a9a
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/CHEMISTRY/Chemistry.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 July 2022
 - Text: ocr (3 pages), mean OCR confidence 92.3
 

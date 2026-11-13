@@ -16,9 +16,9 @@ Also filed as: `Design of Reinforced Concrete Structure`, `DESIGN OF REINFORECED
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Design of Reinforced Concrete Structures(702CI0C016)_2025-2026.PDF |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / CIVIL | Design of Reinforced Concrete Structures, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech Civil 7005 | QP_Design of Reinforced Concrete Structures(702CI0C016)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Design of Reinforced Concrete Structures(702CI0C016)_2025-2026.PDF |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / CIVIL | Design of Reinforced Concrete Structures, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / CIVIL | Design of Reinforced Concrete Structures Batch 2024-25 Re Exam.pdf |
 | 2023-24 | — | Question paper | Sem 5 | B TECH / CIVIL | Design of Rainforces Concrete Structures, Sem-V, Batch 2023-24 F0001.pdf |

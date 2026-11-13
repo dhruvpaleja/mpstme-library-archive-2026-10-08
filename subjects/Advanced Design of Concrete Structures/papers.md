@@ -125,6 +125,7 @@ v4
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/ADVANCED DESIGN OF CONCRETE STRUCTURES/ADVANCED_DESIGN_OF_CONCRETE_STRUCTURES B TECH (CIVIL), BATCH_18-19_RE_EXAM_.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 12 June 2019
 - Text: ocr (3 pages), mean OCR confidence 78.5
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -183,7 +184,6 @@ overall. The materials are M20 grade concrete and HYSD reinforcement at grade Fe
 Bl B2. B3 ;
 a — i a
 4 6 1 2 4 &4 3m
-2 BA BS A Be © y
 ea a
 
 a Blo Bll Bl I
@@ -230,14 +230,12 @@ Table 2 Permissible Stresses in Concrete
 
 Table 1 Permissible Concrete Stresses in ; All values are in N/mm?.
 Calculations Relating to Resistance — —
-to Cracking Sl Gradeof Permistible Stressin   Permlsnible
 ‘ No. ‘Comerete Compression Stress in Road
 
 [Clauses 4.5.1(c), 4.5.2.1 and 6.3(0)] ——_ arerase) for
 _ . Pisia Bari in
 
 Sl) Grade of Perminibie Coacrete Stresses, Bending Direct Tenaloa
-No Comerete Ninn? Saxe Gee Tu
 poo ee q) Q@) 8) 4) : @)
 ‘ erect — i) M3 i 60 os
 ne . ar . i M30 10.0 30 10
@@ -245,7 +243,6 @@ ne . ar . i M30 10.0 30 10
 mM i] @) -~ ey MMO BO 19.0 12
 ay ~~ : _ 3] Mas 145 1h 13
 i Mas GW is yO 14
-i er GB 20 vi} MSO 16.0 128 .. l-
 iit} MGS 16 22 NOTES
 iv) M40 iz 14 1 The values of permissible shear stress in concrete are given in
 y MAS 20 26 Table 3. -_
@@ -421,6 +418,7 @@ Figure 1
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/ADVANCED DESIGN OF CONCRETE STRUCTURES/ADVANCED DESIGN OF CONCRETE STURCTURES B TECH (CIVIL), 2015-16 RE EXAM AND 16-17 _4b5d20e0.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 04 May 2017
 - Text: ocr (9 pages), mean OCR confidence 63.5
+- 19 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -621,7 +619,6 @@ Fout Sides with Provision for Tarsion at Corners
 (Clazrses D-1,1 and 244.1}
 
 Cone Type of Panel ond Short Span Coeificientx 11, Lang Span
-Ne. Moments Coneltered (¥alues aff i2,) Cocifictents
 , for All
 Waluss of
 1a | 1z imal i ie Ts Pa it,
@@ -632,42 +629,28 @@ Negative rement arcangnnaucedge = 12032. Gay OsM7 GOR) DSS ODE) 0065 O0%2
 Prmitive mexinent at mid-span amd O02 ant 46 6.0 ow Qs 0049 04
 
 2 Que Shares Eolpe Cantinaaus:
-Begalive moment ot continuausedpe = O37 Cadt oak asd SS 0st Dowd = thU6R oat
 Positive moment of unid-spuir OW OA aT OT OM4 = 088 AED Cee
 
-J Que Lamy Eelue Cisvanitinctenre: .
-‘Negalive iocient at continususedpe = GO3T nas GST OHA OST IIT ORS aT
-Pusitive incu at snidl-spar Lhd SLA a9 tO ORT B05 «ROAR ous
 
-4+ Thee Adkireene Eales fisvarcinvains:
 Negative moment at cantinuaus ede net nats 160 LIS OT OUTS DOR Oot CLs?
-Porities insures al nuisl-spar GOs O4do OMS ldo COLL Net AOE ods
 
-8 Tue Shed Eelyes Biseanvoninsara:
 Negaltey truncal af continuaixedgr = 0065 Ud
 Positive aanwmne al inid-spare Oss O37
 
 CASS tt =
 qUM43 O04d OS noae 4LOS2 OURS.
 
-Fives Laie dynes Davy enews:
 Negive moment 2¢ coutineus edge | _ _ = _ - = Dish
-Positives meiment at mislspar: Dat os) fod AT ea ELE DARN Ch DOS
 
 Ui Thive biaes Dhevordimninice
 
-Lae Dorey alge Comdinwnisy:
 Negative iament 2¢ continiaus edge MSF OAM MTG tee (rth 4M} NT _
-Pastore nantnent af inid-spsirt OTs UST CINE eI LT
 
 &   Theow Eiyes Discrrcdinns .
-ifr Mvert Ele Comubeiconns' :
 
 cimmen! a ponginasus edge - ~ - - = - cis?
-Herttoeead all rekd-spam hea OAR Cn ALNGR GOT] (AAR LIG   OOEA
 
 Paver Eefye s Darevuitemterans .
-Pusitive trcugectel of ttiéch spor: O05 Od RTE ALOT | GBS nag De ae USE
 
 Table 1 Permissible Concrete Stresses in
 
@@ -695,7 +678,6 @@ shall be as given in 1S 456.
 Tuble 2 Permissible Stresses in Concrete
 All values are in N/mm?.
 
-Sl Gradeof Permiselble Stressia — Permelsaibie
 No. Coucrete Compression Stress is Boad
 
 A (Average) for
@@ -805,7 +787,6 @@ gaouw Awa =
 z 8 S888 Siece sees
 
 Hl 7 rTT TT Fertt FESh
-~ nase sed PEARR gaan
 i | |g © 88583 S828 See
 a 9999s $8999 4999
 
@@ -837,7 +818,6 @@ i F+Httt F+44+4+ I 8
 . = « $9558 9088! 9888 |
 
 S605 Seee5 S260
-Bla = teeee cesses eeez 7%
 mroue on
 
 ar
@@ -850,7 +830,6 @@ wi? kg ( triangular )
 pm Cocficient X 4 #H kg ( rectangular )
 A] H tg (moment at base }
 mi TRIANGULAR RECTANGULAR TRIANGULAR O8 Moment
-Dr Loan Freep Loap Foun Rezctanoutar Loan aT
 Base Bass Hincgp Bass Ear
 o-4 +0436 40-755 40-245 156
 0-8 +0-374 4-0-552 4-0-234 175
@@ -881,6 +860,7 @@ af
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/ADVANCED DESIGN OF CONCRETE STRUCTURES/ADVANCED DESIGN OF CONCRETE STRUCTURES B TECH (CIVIL), 2015-16 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 06/05/2016
 - Text: ocr (5 pages), mean OCR confidence 65.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -979,7 +959,6 @@ wH? kg ( triangular )
 9 = Coefficient x { pH kg ( rectangular )
 M/H kg (moment at base )
 mm TRIANGULAR RECTANGULAR TRIANGULAR OR Moment
-Bb Loan Frxap Loap Foxy ~—— Recranoutar Loan aT
 . Base Base Hinogp Basz Evos
 0-4 +0-436 +0-755 +0-245 —1-58
 0-8 +0-374 +0-552 40-234 1-75
@@ -1161,6 +1140,7 @@ S500D 3sdE0S SOS5S 3°
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/ADVANCED DESIGN OF CONCRETE STRUCTURES/ADVANCED DESIGN OF CONCRETE STRUCTURES B TECH (CIVIL), BATCH 2015-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 30 June 2016
 - Text: ocr (5 pages), mean OCR confidence 65.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS _ AAT Mage =~
@@ -1267,7 +1247,6 @@ o = Coefficient x + pH kg ( rectangular )
 M/H kg (moment at base )
 
 Ht TRIANGULAR RECTANGULAR TRIANGULAR OR Moment
-Bb Loan Frxep Loap Frxzp = Recranautar Loap AT
 
 ; BAse Basa Hinceo Base Epor
 0-4 +0-436 +0-755 +0-245 —1-58
@@ -1347,7 +1326,6 @@ a g SOeNs wet akon - .
 7 = @ Seese $5585 2222
 he $1444 F324 ="
 
-ale => tmwNVo SCOoCoCSSD SoCo
 
 wy SOmTK—N MeO OO Ont
 

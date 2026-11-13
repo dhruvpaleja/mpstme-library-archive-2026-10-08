@@ -4,6 +4,71 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2012-13 · Exam not stated · Trim 10 · paper 2b560f4406f0
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/E BUSINESS/scan0021(1).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03/19/2012
+- Text: ocr (1 page), mean OCR confidence 84.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management
+
+Programme: MBA (Tech) (All Stream) Year: IV Trimester: X
+Academic Year : 2012-2013
+
+S( xwivs Unversity oo \
+( Mumbai - 54, =|
+
+Subject: E - Business Marks: 50
+
+xf AARY de i
+Time: 2.00 hnkTo 4400pin 1S
+Date: 03/19/2012 Duration: 2 hrs \%\ 7$
+
+Final - Examination
+
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+Qi. Review some of the Advertising formats-which-have been adopted’ on E-Commerce sites
+giving suitable examples. Highlight how effective these online ads been in generating user
+traffic? [10 Marks]
+
+Q2. Compare and contrast between Consumer to Customer (B2C) and Customer to Business
+(C2B) E-Commerce model giving suitable illustrations. [10 Marks]
+
+Q3. Explain why the ‘Click —n—Brick’ strategy is inevitable for any existing business giving
+suitable examples from any one industry. [ 10 Marks ]
+
+Qh. What are some of the challenges in adopting the Internet platform for a traditional print
+and television company (such as Bennett, Coleman and Co. Ltd.) from the Indian context?
+
+[10 Marks ]
+
+Q5. How and why do governments attempt to control the flow of information and use of the
+Internet? What are the legal provisions in the I.T. Act, 2000 (amended version, 2008).
+
+} [ 10 Marks |
+
+ry
+\
+
+Q6. pxbidin, using the COBIT Framework, the steps involved in Information Risk Management.
+. [10 Marks ]
+
+‘
+
+Q7. What are the eight most important factors affecting Web site design? Explain using suitable
+examples, how these factors can affect the extent to which they can influence the popularity
+of the website. [10 Marks ]
+````
+
 ## 2012-13 · Re-Exam · Trim 10 · paper f54accd8a384
 
 - Departments: Chemical, Information Technology, Manufacturing
@@ -820,70 +885,4 @@ v _
 OR
 
 (b) Write a brief note on the protocols S-HTTP, SSL, SET , UTL & HTML [5]
-````
-
-## Year not stated · Exam not stated · Trim 10 · paper 2b560f4406f0
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/E BUSINESS/scan0021(1).pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 03/19/2012
-- Text: ocr (1 page), mean OCR confidence 84.8
-
-````text
-germane IE Ny pe a pg lt te
-
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management
-
-Programme: MBA (Tech) (All Stream) Year: IV Trimester: X
-Academic Year : 2012-2013
-
-S( xwivs Unversity oo \
-( Mumbai - 54, =|
-
-Subject: E - Business Marks: 50
-
-xf AARY de i
-Time: 2.00 hnkTo 4400pin 1S
-Date: 03/19/2012 Duration: 2 hrs \%\ 7$
-
-Final - Examination
-
-teres wasianciens adecremateciceaniy veteran « z
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-Qi. Review some of the Advertising formats-which-have been adopted’ on E-Commerce sites
-giving suitable examples. Highlight how effective these online ads been in generating user
-traffic? [10 Marks]
-
-Q2. Compare and contrast between Consumer to Customer (B2C) and Customer to Business
-(C2B) E-Commerce model giving suitable illustrations. [10 Marks]
-
-Q3. Explain why the ‘Click —n—Brick’ strategy is inevitable for any existing business giving
-suitable examples from any one industry. [ 10 Marks ]
-
-Qh. What are some of the challenges in adopting the Internet platform for a traditional print
-and television company (such as Bennett, Coleman and Co. Ltd.) from the Indian context?
-
-[10 Marks ]
-
-Q5. How and why do governments attempt to control the flow of information and use of the
-Internet? What are the legal provisions in the I.T. Act, 2000 (amended version, 2008).
-
-} [ 10 Marks |
-
-ry
-\
-
-Q6. pxbidin, using the COBIT Framework, the steps involved in Information Risk Management.
-. [10 Marks ]
-
-‘
-
-Q7. What are the eight most important factors affecting Web site design? Explain using suitable
-examples, how these factors can affect the extent to which they can influence the popularity
-of the website. [10 Marks ]
 ````

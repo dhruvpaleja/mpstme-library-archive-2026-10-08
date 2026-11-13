@@ -1,6 +1,6 @@
 # Marketing Strategy: question papers in full
 
-36 unique papers · 2013-14 to 2025-26 · Common (all branches), Computer Engineering, Information Technology, Chemical, Mechanical, Artificial Intelligence, Data Science, Electronics and Telecommunication
+36 unique papers · 2012-13 to 2025-26 · Common (all branches), Computer Engineering, Information Technology, Chemical, Mechanical, Artificial Intelligence, Data Science, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1866,6 +1866,134 @@ SO-; effectiveness Auditing is important so as to ensure corrective actions. Est
 BL- 4 explain minimum 5 types of Audits that you as a marketer can use?
 ````
 
+## 2022-23 · Exam not stated · Sem 10 · paper cc8c48b66a8e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Marketing Strategy/Marketing Strategy.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 89.1
+
+````text
+SVKM’S NMIMS i
+
+y
+sg
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINE
+Academic Year: 2022-2023 :
+Program/s: MBA (Tech) Year: V_ Semester: _X
+
+Stream/s ; All streams
+
+Subject: Marketing strategy Time: _2 hrs (_10:00 to 12:00 noon)
+Date:__04 /05__/ 2023 No. of Pages: 2
+
+Marks: 50 marks
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) In all___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly: [10]
+
+ot 1S0-; | a. Explain the term ‘Business strategy’ 12.5]
+Understand
+
+CO-1 ; SO- ; b. : . . .
+
+BL- Explain the potential sources of competitive advantage for Pioneers [2.5]
+Understand
+
+a 180-5 | Explain the term ‘Behavioral segmentation’ and its benefits 25]
+Understand
+
+CO- 1; SO- ; d. 7 ee .
+
+vo BL- Explain the guidelines for market-oriented management [2.5]
+Understand
+
+Q2
+
+Answer the following questions:
+
+= so. a The Boston Consultancy Group’s (BCG’s) Growth-share matrix is one of the
+
+ei most popular portfolio models. Explain the four distinct cells of the model with
+
+i : feng [5]
+reference to resource allocation and discuss the limitations of the model.
+
+Understand
+
+Qa In view of the limitations of BCG matrix, a number of firms have used alternative
+CO-1; SO-; bi zs ;
+
+BL: - portfolio models to improve the basic portfolio model. Describe any such [5]
+Understand alternative-portfolio model.
+
+V/2
+--- page 2 ---
+Food and Indians have a unique relationship. The food market in India has grown
+steadily, and in 2018 it was valued at 3.7 trillion, with about 10 per cent annual
+growth. Casual dining restaurants and QSR (Quick Service Restaurants) account
+
+for more than 74 per cent of the market and are growing exponentially. It is
+
+Q3 estimated that India’s quick service restaurants (QSR) market is USD 690.21
+ee [10]
+Bean’ million in 2022 and is expected to reach USD 1069.3 million by 2027, growing at
+a CAGR of 9.15 per cent. Apply the seven domains of attractive opportunities
+framework to determine the attractiveness of the QSR industry and QSR market.
+Discuss with special reference to the demographic and socio-cultural environment
+in our country.
+You have recently joined Emami Ltd and the company has given you the
+Q4 responsibility to analyze the protein bars market in Indian consumer market.
+CO-2; SO-; Examine the market-attractiveness factors that you will consider before taking a | [10]
+BL- Apply decision to launch the new product.
+Dettol is the one of the largest brands in selling & distributing antiseptic solutions.
+Qs While the antiseptic liquid enjoyed an 85 per cent market share, Dettol hand wash
+accounted for 60 per cent of the total market according to independent research
+CO-3; $O-; f , 24s [10]
+BL-Create figures. Recommend some of the marketing strategies for Dettol, which is a market
+leader, in a rapidly growing market such as India.
+A well-functioning performance measurement system is critical to the success of
+an automobile company such as Maruti-Suzuki. The performance management
+a6 monitors the extent to which the company is achieving its objectives. Develop a 10)
+CO-2; SO-;
+BL-Apply suitable performance management process for the company to support their long
+term decision making.
+The India edible oil market size reached 24.3 Million Tons in 2022. The Edible
+Oils segment in India is projected to grow by 7.63% (2023-2027) resulting in
+a market volume of US$37.89bn in 2027. Hindustan Unilever (HUL) is India's
+largest fast moving consumer goods company, with leadership in Home & Personal
+Q7 Care Products and Foods & Beverages. It is planning to enter the edible oil _
+CO-3; SO-;
+BL- Create business. You have recently joined the company in their marketing department —
+
+new product development division. The company has entrusted you the overall
+responsibility to launch the product. Prepare a marketing plan for the product.
+
+Make suitable assumptions.
+
+2/2
+````
+
 ## 2021-22 · Final-Exam · Sem 10 · paper d0ea96e371e7
 
 - Departments: Common (all branches)
@@ -2442,135 +2570,7 @@ x =e
 iW)
 ````
 
-## Year not stated · Exam not stated · Sem 10 · paper cc8c48b66a8e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Marketing Strategy/Marketing Strategy.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 89.1
-
-````text
-SVKM’S NMIMS i
-
-y
-sg
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINE
-Academic Year: 2022-2023 :
-Program/s: MBA (Tech) Year: V_ Semester: _X
-
-Stream/s ; All streams
-
-Subject: Marketing strategy Time: _2 hrs (_10:00 to 12:00 noon)
-Date:__04 /05__/ 2023 No. of Pages: 2
-
-Marks: 50 marks
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-
-3) In all___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly: [10]
-
-ot 1S0-; | a. Explain the term ‘Business strategy’ 12.5]
-Understand
-
-CO-1 ; SO- ; b. : . . .
-
-BL- Explain the potential sources of competitive advantage for Pioneers [2.5]
-Understand
-
-a 180-5 | Explain the term ‘Behavioral segmentation’ and its benefits 25]
-Understand
-
-CO- 1; SO- ; d. 7 ee .
-
-vo BL- Explain the guidelines for market-oriented management [2.5]
-Understand
-
-Q2
-
-Answer the following questions:
-
-= so. a The Boston Consultancy Group’s (BCG’s) Growth-share matrix is one of the
-
-ei most popular portfolio models. Explain the four distinct cells of the model with
-
-i : feng [5]
-reference to resource allocation and discuss the limitations of the model.
-
-Understand
-
-Qa In view of the limitations of BCG matrix, a number of firms have used alternative
-CO-1; SO-; bi zs ;
-
-BL: - portfolio models to improve the basic portfolio model. Describe any such [5]
-Understand alternative-portfolio model.
-
-V/2
---- page 2 ---
-Food and Indians have a unique relationship. The food market in India has grown
-steadily, and in 2018 it was valued at 3.7 trillion, with about 10 per cent annual
-growth. Casual dining restaurants and QSR (Quick Service Restaurants) account
-
-for more than 74 per cent of the market and are growing exponentially. It is
-
-Q3 estimated that India’s quick service restaurants (QSR) market is USD 690.21
-ee [10]
-Bean’ million in 2022 and is expected to reach USD 1069.3 million by 2027, growing at
-a CAGR of 9.15 per cent. Apply the seven domains of attractive opportunities
-framework to determine the attractiveness of the QSR industry and QSR market.
-Discuss with special reference to the demographic and socio-cultural environment
-in our country.
-You have recently joined Emami Ltd and the company has given you the
-Q4 responsibility to analyze the protein bars market in Indian consumer market.
-CO-2; SO-; Examine the market-attractiveness factors that you will consider before taking a | [10]
-BL- Apply decision to launch the new product.
-Dettol is the one of the largest brands in selling & distributing antiseptic solutions.
-Qs While the antiseptic liquid enjoyed an 85 per cent market share, Dettol hand wash
-accounted for 60 per cent of the total market according to independent research
-CO-3; $O-; f , 24s [10]
-BL-Create figures. Recommend some of the marketing strategies for Dettol, which is a market
-leader, in a rapidly growing market such as India.
-A well-functioning performance measurement system is critical to the success of
-an automobile company such as Maruti-Suzuki. The performance management
-a6 monitors the extent to which the company is achieving its objectives. Develop a 10)
-CO-2; SO-;
-BL-Apply suitable performance management process for the company to support their long
-term decision making.
-The India edible oil market size reached 24.3 Million Tons in 2022. The Edible
-Oils segment in India is projected to grow by 7.63% (2023-2027) resulting in
-a market volume of US$37.89bn in 2027. Hindustan Unilever (HUL) is India's
-largest fast moving consumer goods company, with leadership in Home & Personal
-Q7 Care Products and Foods & Beverages. It is planning to enter the edible oil _
-CO-3; SO-;
-BL- Create business. You have recently joined the company in their marketing department —
-
-new product development division. The company has entrusted you the overall
-responsibility to launch the product. Prepare a marketing plan for the product.
-
-Make suitable assumptions.
-
-2/2
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 07c66a44d7c5
+## 2012-13 · Exam not stated · Trim 14 · paper 07c66a44d7c5
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH

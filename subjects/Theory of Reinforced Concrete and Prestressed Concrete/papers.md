@@ -824,6 +824,141 @@ Fig. 6.2
 ~
 ````
 
+## 2018-19 · Re-Exam · Sem 6 · paper 17b614116e25
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/THEORY OF REINFORCED CONCRETE AND PRETR_e88ee2e4/THEORY OF REINFORCED CONCRETE AND PRESTRESSED CONCRETE BATCH 15-16 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 18 April 2019
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+ny
+
+MPSTME -
+
+_& IBRARY
+Cn
+> Le ——— eS
+SVKM’S NMIMS CES
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENG
+7 Year: Iff Semester: VI
+
+Program B. Tech (CIVIL)
+Academic Year: 2018-2019 '
+
+Subject: Theory of Reinforced Concrete and Prestressed Concrete’ Marks: 60 /
+Time:10.00 am to1.00 pm
+
+Duration: 3 (hrs)
+4 No. of Pages: a
+
+Y
+Re-Examination (2015-16 / 2016-17)
+
+Date: 18 April 2019 “
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book,-which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+8) Use of IS 456 is permitted in exam. a
+
+Q:1
+a. Determine the values of neutral axis constant, lever arm constant and constant for moment of (3)
+resistance for a balanced rectangular section for M30 Grade of concrete and Mild steel.
+
+b. Write any three advantages of Prestressed concrete over Reinforced Cement Concrete. (3)
+c. Differentiate one way slab and two way slab. (3)
+d. Determine the recommended effective lengths for column as per IS:456-2000, (3)
+
+i. Both ends are fixed
+ii. Bothe ends are hinge
+iii. | One end is fixed other end free
+
+Q:2
+a. A simply supported beam of size 230 mm x 600 mm (overall) is reinforced with 0.35 % steel. (6)
+Determine moment of resistance for the 4 m span of beam considering grade of concrete as
+
+M335 and grade of steel as Fe-415.
+
+b. A doubly reinforced rectangular beam is 240 mm wide and 500 mm deep. If concrete is M30 (6)
+and steel is Fe250 determine the steel areas to resist bending moment of 100 kN-m.
+
+Ye
+--- page 2 ---
+Q:3
+a. A T-beam 300 x 600 mm supports RCC slab of 100 mm thick. Width of the flange is 1900 mm. (6)
+beam is simply supported over a span of 6 m and it is reinforced with 3 bars of 25 mm dia.
+Tension side only. Determine the maximum superimposed load that a beam can carry with M20
+
+and Fe415.
+
+b. A beam 230 x 600 mm overall has a span of 6 m having total load of 30 kN/m. Tensile (6)
+reinforcement is 5 bars of 16 mm @. If concrete is M20 and steel is Fe-415, design shear
+reinforcement.
+
+Q:4
+
+a. Design a roof slab over a room of size 3m x 8 m measured internally. The slab is simply (12)
+supported on all four sides on 300 mm thick walls. Live load on the slab is 3 KN/m? and floor
+finish load is 2 kN/m?. Consider grade of concrete as M20 and grade of steel as Fe-415. Show
+the reinforcement details in typical mid- span section along short span. Carry out necessary
+checks.
+
+05
+
+a. Design a circular column to carry load of 1000 kN with lateral ties. Use M20 and Fe-415. (6)
+
+Column one end is fixed and other is free having length of 6 m.
+
+b. Acolumn 450 mm x 450 mm in cross-section is reinforced with 8 bars of 20 mm diameter ata (6)
+clear cover of 40 mm. A load of 400 kN is applied on the column. Determine the maximum
+eccentricity of the load along diagonal of the column cross section. Consider grade of concrete
+as M25 and grade of steel as Fe-415. Consider uncracked theory.
+
+Q:6
+a. A rectangular concrete beam, 100 mm wide and 250 mm deep spanning over 8 m is prestressed (6)
+by a straight cable carrying an initial prestressing force of 250 kN located at an eccentricity of
+40 mm. The beam supports a live load of 1.2 KN/m. Draw the resultant stress distribution for
+the central cross section of beam at transfer stage and at working stage. Assume loss of 20%.
+
+b. A prestressed beam 300 mm x 600 mm is pre-stressed with a parabolic cable cable profile at an (6)
+eccentricity of 250 mm below CGC at mid span and concentric at support. The effective
+prestressing force in the cable is 100 kN. Span of the beam is 10 m and the total load including
+self-weight is 25 kN/m. plot the location of a thrust line.
+
+Q:7 :
+
+a. A pre tensioned beam 250 mm wide and 300 mm deep is prestressed by 12 wires each of 7 mm (9)
+diameter initially stressed to 1200 N/mm? with their centroids located 100 mm from the soffit.
+Estimate the final loss of stress due to elastic deformation, creep, shrinkage and relaxation
+using following data:
+
+Relaxation of steel stress = 90 N/mm?
+Es; = 210 GPa, E. = 35 GPa
+
+a Creep coefficient = 1.6
+Shrinkage strain = 3 x 104
+
+b. Explain kern points for prestressed concrete beam with neat sketch. (3)
+
+Seececee teen nee! YX(---------------------
+````
+
 ## 2018-19 · Re-Exam · Sem 6 · paper 6b0c9c9a48d6
 
 - Departments: Civil
@@ -932,6 +1067,160 @@ of 2000 mm? of steel and has a parabolic profile with maximum eccentricity of 12
 at the middle of span. Determine the loss of pre-stress, given that E, = 2.1 x 10° N/mm?.
 Use M-30 concrete. Assume minimum ultimate tensile strength of pre-stréSsing steel as
 1500 N/émm?,
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper e40507aa4940
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_07/THEORY OF REINFORCED CONCRETE AND PREST_41658795/Theory of Reinforced Concrete and Prestressed Conrete Batch 2017-18 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 November 2018
+- Text: ocr (2 pages), mean OCR confidence 93.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGI
+
+fe)
+Program B.Tech Integrated (CIVIL) ~ Year: IV Sek
+Academic Year: 2018-2019
+
+f
+
+: Subject: Theory of Reinforced Concrete and Prestressed Concrete — Marks: 60 —
+Date : 20 November 2018 Time:10.00 am to 1.00 pm —
+Duration: 3 (hrs)
+No. of Pages: 2 _
+
+Re-examination (2017-18) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all _5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+8) Use of LS. 456 : 2000 is permitted.
+
+Q.1. Attempt Any Three Out Of Five [12]
+(a) Enlist advantages of Prestressed Concrete. (4)
+
+(b) Find Development Length of 20 mm diameter HYSD bar both in Tension & (4)
+Compression. Take Grade Of Concrete M 25 & Grade Of Steel Fe 415.
+
+(c) Using Grade Of Concrete M 25 & Grade Of Steel Fe 415, for a Balanced Singly (4)
+Reinforced Rectangular Section find —
+(i) Modular Ratio
+(ii) Lever Arm Constant
+{iii) Constant for Moment of Resistance
+(iv) Percentage of Steel
+
+(d) As per I.S. 456 : 2000, find recommended Effective Lengths for column when — (4)
+{i) both ends are fixed,
+{ii) both ends are hinged
+{iii) one end fixed and other end hinged
+(iv) one end fixed and other end free
+
+(e) Differentiate between Pre-tensioning & Post-tensioning in Prestressed Concrete. (4)
+Q.2 (a) Design the Cross Section and Area of Steel required for a Singly Reinforced R.C.C. (6)
+beam resisting bending moment of 200 KN-m. Take clear cover as 40 mm & use
+
+Grade Of Concrete M 30 & Grade Of Steel Fe 415. Assume width of beam as 0.4
+times that of overall depth of beam.
+
+Page 1 of 2
+--- page 2 ---
+Q.3
+
+0.4
+
+Qs
+
+Q.6
+
+Q.7
+
+(b) A230 mm x 600 mm Singly Reinforced simply supported R.C.C. beam with span of 5
+meter is reinforced with 3 T 20 mm tension steel. Take clear cover as 40 mm &
+Grade of Concrete M 25 & Grade of Steel Fe 415. Calculate Stresses in concrete &
+steel, also, calculate U.D.L. (inclusive of self-weight) beam can carry.
+
+(a) A 230mm x 400 mm Doubly Reinforced simply supported R.C.C. beam with span of
+3 meter is reinforced with 3 T 25 mm on tension side & 2 T 20 mm on compression
+side. Take clear cover as 40 mm & use Grade of Concrete M 25 & Grade of Steel Fe
+415. Calculate Moment of Resistance of the beam, also, calculate Point Load at
+center of span beam can carry. (neglect self-weight of beam)
+
+(b) A 230 mm x 700 mm Rectangular beam with 3 T 20 mm on tension side carries
+U.D.L. of 45 KN/m (inclusive of self-weight) over the span of 4 meters. Take clear
+cover as 40 mm & use Grade of Concrete M 25 & Grade of Steel Fe 415. Design the
+Shear Reinforcement.
+
+AR.C.C. T beam has width of web = 300 mm; width of flange = 1400 mm; depth of flange
+= 140 mm & overall depth of beam = 750 mm. Take clear cover as 30 mm & use Grade of
+Concrete M 20 & Grade of Steel Fe 415. Calculate Moment of Resistance for following
+cases of Area of Tension Steel provided — (i) 3 T 25; (ii) 5 T 25; (iii) 8T 25
+
+Design a Rectangular Column having width = 450 mm to carry Axial Load of 2000 KN. The
+Effective Length of the column is 4.5 meters. Take clear cover as 40 mm & use Grade of
+Concrete M 25 & Grade of Steel Fe 415, also comment on Load Carrying Capacity &
+Design of column if Effective Length of the column is 5.5 meters.
+
+A Prestressed concrete T beam supports live load of 20 KN/m over a simply supported
+span of 8 meters. The beam has overall depth of 800 mm. The depth of Flange is 200
+mm. The width of flange & web are 800 mm & 300 mm respectively. The Prestressing
+Force at Working Stage is 1700 KN. Find the following such that resultant stress at
+bottom of beam at center of span is 12 Mpa at working stage.
+
+(i) Eccentricity required
+
+(ii) Initial Prestressing Force considering 15 % losses when tendon is concentric
+
+Assume Density of Concrete as 25 KN /Cu.m.
+
+Attempt Any Two Out of Three
+
+(a) Write a short note on Losses in Prestress In Post Tensioned Members.
+
+(b) A prestressed concrete beam of section 120 mm wide by 300 mm deep is used over
+an effective span of 6 m to support a uniformly distributed load of 4 kN/m, which
+includes the self-weight of the beam. The beam is prestressed by a straight cable
+carrying a force of 180 kN & located at an eccentricity of 50 mm. Determine the
+location of the thrust-line in the beam and plot its position at quarter and central
+span sections.
+
+(c) Write steps for designing One Way Slab.
+
+(6)
+
+(6)
+
+(6)
+
+[12]
+
+[12]
+
+[12]
+
+[12]
+
+(6)
+(6)
+
+(6)
+
+Page 2 of 2
 ````
 
 ## 2018-19 · Re-Exam · Sem 7 · paper 82c0eed76d96
@@ -1330,6 +1619,287 @@ ay
 ~—m
 ````
 
+## 2018-19 · Re-Exam · Sem 7 · paper 8311065f8db4
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/THEORY OF REINFORCED CONCRETE AND PREST_a53aec72/Theory of Reinforced...Re-exam 2015-16-17-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 January 2019
+- Text: ocr (2 pages), mean OCR confidence 94.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (Civil) Year: IV Semester : VII
+Academic Year: 2018-2019
+
+! Subject: Theory of Reinforced concrete and Prestressed Concrete Marks: 60
+
+n
+
+Time: 2.00 pm to 5.00 pm
+Date: 11 January 2019
+
+Durations: 3 (hrs)
+
+No. of Pages: _ O7
+
+Re- examination (2015- -16/2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1.. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any Four questions.
+
+3. Inall Five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume suitable data if necessary.
+
+8. Use of IS 456 is permitted in examination.
+
+SSMS GNNERSIO EF
+
+Q.1 a. Differentiate between one way slab and two way slab. [03]
+b. Enlist all the design constants used in working stress method considering M30
+concrete and Fe415 steel. [03]
+c. Explain pressure line in prestressed concrete section- [03]
+d. Why high strength concrete and high strength steel is required in prestressed
+concrete section? [03]
+
+Q.2 a. Areinforced concrete beam is simply suppurted ot on a span of 3 m and carries a
+superimposed load of 20 kN/m over the entire span. The cross section of the
+beam is 230 x 600 mm overall and is reinforced with 3 bars of 16 mm diameter
+on tension side. Determine the stresses developed in concrete and steel
+assuming M-20 grade of concrete and Fe-415 grade of steel. [06]
+
+b. A reinforced concrete beam is simply supported over a span of 5 m and has a
+
+cross section of 230 x 450 mm overall. It is subjected to a superimposed
+
+uniformly distributed load of 25 kN/m over the entire span. Design a doubly
+reinforced section if M-20 grade of concrete and Fe-415 grade of steel is used. [06]
+
+3 a. A Tee beam has following cross section properties. Width of flange = 1000 mm,
+
+depth of flange = 100 mm, width of rib = 300 mm and overall depth of 750 mm.
+
+It is simply supported over a span of 6 m and carries a uniformly distributed
+
+load of 30 kN/m inclusive of its self-weight. Considering M-20 grade of
+concrete and Fe-415 grade of steel, determine the area of tension steel required. [06]
+
+b. A reinforced concrete beam is simply supported over a span of 5m and carries
+
+a load of 40 kN/m over the entire span. The cross section of the beam is
+
+230 x 750 mm overall and is reinforced with 6 bars of 25 mm diameter on
+
+tension side. Design shear reinforcement for the beam assuming M-20 grade of
+concrete and Fe-415 grade of steel. [06]
+
+Q4 Design a RCC slab over a clear room size of 3.2 m X 7.5 m. the slab is simply
+supported on all sides. Slab carries a live load of 4.0 kN/m? and a floor finish of
+1.5 KN/m?. Consider M-20 grade of concrete and Fe-415 grade of steel. Draw
+the details of reinforcements along section through short span. [12]
+
+Page | of 2
+--- page 2 ---
+Q5 a.
+
+Q.6
+
+Q.7 a.
+
+Design a short square column to support an axial compressive load of 2000 kN.
+The length of the column is 10 m and both the ends of the column are effectively
+held in position and restrained against rotation. Consider M-20 grade of
+concrete and Fe- 415 grade of steel. [06]
+A prestressed concrete beam of span 20 m has a rectangular cross section
+300 mm X 600 mm. The beam supports a live load of 20 kN/m inclusive of its
+own weight over entire span. The beam is prestressed with a triangular cable
+profile concentric at support and with an eccentricity of 250 mm below CGC at
+mid-span with a prestressing force of 2000 KN. Plot the variation of pressure
+line or thrust line mentioning their values at mid-span and quarter-span section. [06]
+A prestressed concrete girder has an unsymmetrical cross-section and has
+following properties: Top flange = 1500 mm wide and 200 mm depth, Bottom
+flange = 750 mm wide and 400 mm deep, web thickness = 300 mm and overall
+depth = 1800 mm. The girder has a span of 20 m and carries a live load of
+20 kN/m. The girder is prestressed with an initial prestressing force of 2500 kN
+and losses are expected to be 15%. The cable profile is parabolic with
+eccentricity of 150 mm and 900 mm measured from soffit of the girder at
+mid-span and at support respectively. Determine the stresses at mid-span and at
+support section at transfer and at service stage. [12]
+Explain the losses in prestressed concrete section in detail. [06]
+A post-tensioned beam 300 mm wide and 600 mm deep and 15 m length is
+prestressed by 10 wires of 7 mm diameter initially stressed to 1000 MPa with
+their centroids located 100 mm from the soffit. Determine the losses in prestress
+due to elastic deformation of concrete, creep, shrinkage, anchorage slip, friction
+and relaxation of wires. Use the following data: E; = 210 GPa, Ec = 35 GPa,
+Creep coefficient = 1.6, Total residual shrinkage strain = 200 x 10°, relaxation
+of wires = 5%, stressing done from one end in two stages, k = 0.0015 per meter,
+anchorage slip = 5 mm. [06]
+
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper aa77f636873f
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/THEORY OF REINFORCED CONCRETE AND PREST_a53aec72/Theory_of_Reinforced_concrete_and_prestresssed_concrete_ 2015-16,2017-18 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 November 2018
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+CY
+
+SVKM’s NMIMS
+
+‘.
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN ENGIN:
+Programme: MBA Tech (Civil) Year: IV ~ Semester: VII ~
+
+Academic Year: 2018-2019
+
+Subject: Theory of Reinforced concrete and Prestressed Concrete
+
+Marks: 60 ~
+
+Date: 14 November 2018° Time: 2.00 pm - 5.00 pm *
+Durations: 3 Hrs- 2
+No. of Pages :
+
+Re-Examination (2015-16/2017-18) ,
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page..
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+8) Use of IS: 456 is permitted in examination.
+
+Q:1 Attempt any three: (12)
+
+a. From the first principle, derive the equation for Moment of Resistance of a singly reinforced
+concrete.
+
+b. Which are the conditions required for doubly reinforced section?
+
+c. Explain in brief: “Methods of Pre-stressing”
+
+d. Differentiate short column and long column.
+
+Q:2
+
+a. The cross section of singly reinforced beam is 320 mm wide and 450 mm deep to the center of (6)
+the reinforcement. The reinforcement consists of 4 bars 16 mm. Determine the moment of
+resistance of the beam section. Take M15 and Fe250.
+
+b. A doubly reinforced rectangular beam is 240 mm wide and 500 mm deep (overall). If concrete (6)
+is M30 and steel is Fe250 determine the steel area for bending moment of 100 kN.m
+Q:3
+a. Flange of isolated T-beam is 120 mm thick & 1200 mm wide and web of the beam is 300 mm_ (6)
+wide. Effective depth of the beam is 700 mm & reinforcement consists of 5 bars of 25 mm dia.
+If the beam is subjected to total Bending moment of 200 kN-m. Determine stresses developed
+in steel & concrete. Assume m = 18 and span of the beam as 6m.
+
+cY2)
+--- page 2 ---
+Q:4
+
+Q:5
+
+Q:6
+
+Q:7
+
+RC beam 300 x 600 mm overall is reinforced with 6 bars of 25 mm diameter in tension zone at
+effective cover of 75 mm. the beam is simply supported over a span of 9 m and subjected to a
+load of 40KN/m over entire span. Consider M20 and Fe415. Design the shear reinforcement
+and sketch the details.
+
+Design a circular column to carry an axial compressive load of 2000 KN. The column has an
+unsupported length of 5m. Both the ends of the column are effectively held in position and
+restrained against rotation. Assume grade of concrete M20 and Fe-415 steel.
+
+A reinforced concrete column 450 mm X 450 mm is reinforced with 8 bars of 20 mm diameter.
+The column carries a compressive load of 300 KN at an eccentricity measured along diagonal
+of cross-section of the column. Considering M-20 Concrete and mild steel, determine the
+maximum eccentricity of the load. Use un-cracked theory. Modulus of Rupture = 2.4.
+
+Design a roof slab over a room of size 3 m x 8 m measured internally. The slab is supported on
+all four sides on all four sides on 300 mm thick walls. Live load on the slab is 3 kN/m? and
+finish load is 2 KN/m?: Consider grade of concrete as M20 and grade of steel as Fe-415.draw
+the reinforcement details in typical mid span section along short span. Carry out necessary
+checks.
+
+A prestressed concrete girder has an unsymmetrical cross section and has following properties:
+
+Top flange = 1200 mm wide and 200 mm depth
+
+Bottom flange = 600 mm wide and 300 mm deep
+
+Web thickness = 300 mm
+
+Overall depth = 1500 mm. .
+The girder has a span of 20 m and carries a live load of 25 kN/m. the girder is prestressed with
+an initial prestressing force of 2500 kN and losses are expected to be 25 %. The cable profile is
+parabolic with eccentricity of 150 mm and 750 mm measured from soffit of the girder at mid-
+span and at support respectively. Determine the stresses at mid-span and at support section at
+transfer and at service stage.
+
+Enlist various losses that may occur in pre-stressed concrete section. Explain elastic
+deformation loss in detail.
+
+A post tensioned concrete beam 200 mm wide and 300 mm deep having 16 m span is subjected
+to initial prestress of 1458 kN. Cable profile is straight with eccentricity of 100 mm measured
+from bottom. Area of prestressing wire is 1400mm?. If Es = 210 GPa, Ec = 38.2 GPa,
+relaxation of steel is 4 % of initial prestress, Creep co-efficient = 1.6, slip at anchorage is 3
+mm, friction coefficient for wave effect = 0.0015 per m, shrinkage of concrete is 200 x 10°
+estimate the loss prestress for the following:
+
+I. Loss due to elastic shortening
+Il. Loss due to shrinkage of concrete
+Ill. Loss due to creep of concrete
+IV. Loss due to anchorage slip
+V. Loss due to relaxation of steel & Loss due to friction
+
+C2/2)
+
+(6)
+
+(6)
+
+(6)
+
+(12)
+
+(12)
+
+(3)
+
+(9)
+````
+
 ## 2017-18 · Final-Exam · Sem 7 · paper fbc5ad5b35a7
 
 - Departments: Civil
@@ -1709,42 +2279,35 @@ VI. Loss due to friction
 2/2
 ````
 
-## 2017-18 · Re-Exam · Sem 6 · paper 17b614116e25
+## 2017-18 · Re-Exam · Sem 6 · paper 543f45c6eaff
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/THEORY OF REINFORCED CONCRETE AND PRETR_e88ee2e4/THEORY OF REINFORCED CONCRETE AND PRESTRESSED CONCRETE BATCH 15-16 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 18 April 2019
-- Text: ocr (2 pages), mean OCR confidence 91.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/THEORY OF REINFORCED CONCRETE AND PRETR_e88ee2e4/THEORY OF REINFORCED CONCRETE AND PRESTRESSED CONCRETE BATCH 15-16 16-17 RE EX (1).pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 11 May 2018
+- Text: ocr (3 pages), mean OCR confidence 87.7
 
 ````text
-ny
+an SVKM’s NMIMS
+‘ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-MPSTME -
+Programme:B. Tech (CIVIL) Year: Ill Semester: VI
 
-_& IBRARY
-Cn
-> Le ——— eS
-SVKM’S NMIMS CES
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENG
-7 Year: Iff Semester: VI
+Academic Year: 2017-2018
 
-Program B. Tech (CIVIL)
-Academic Year: 2018-2019 '
+Subject:Theory of Reinforced Concrete and Prestressed eee y, sh \ ;
 
-Subject: Theory of Reinforced Concrete and Prestressed Concrete’ Marks: 60 /
-Time:10.00 am to1.00 pm
+Time: 2.00 ot td 5/00 pm
+Durations: 3 (hrs);
+No. of Pages : eS.
+Re-examination (2015-16 / 2016-17) x
 
-Duration: 3 (hrs)
-4 No. of Pages: a
+| Date:11 May 2018
 
-Y
-Re-Examination (2015-16 / 2016-17)
+Instruction: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
 
-Date: 18 April 2019 “
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book,-which is provided for their use.
+NB:
 
 1) Question No. 1 is compulsory.
 
@@ -1757,91 +2320,275 @@ of the Answer Book,-which is provided for their use.
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary and state it clearly.
 
-7) Assume Suitable data if necessary.
+8) Use of IS 456 and IS 1343 is not permitted.
 
-8) Use of IS 456 is permitted in exam. a
+Q.1.a Why losses occur in prestressed concrete section. Explain in detail. [06]
+b_ Enlist various design constants. Explain their use. Tabulate these constants for M30 concrete
+and Fe500 steel. [06]
 
-Q:1
-a. Determine the values of neutral axis constant, lever arm constant and constant for moment of (3)
-resistance for a balanced rectangular section for M30 Grade of concrete and Mild steel.
+Q.2a ARCC beam 300 mm X 600 mm overall is to be designed for a superimposed load of 20kKN/m
+over a simply supported span of 6 m. The clear cover to main reinforcement is 25 mm. design
+the beam for flexure. Consider grade of concrete as M20 and grade of steel as Fe-415. [06]
+b AT beam has a flange width of 2500 mm, effective depth of 600 mm, depth of the flange as
+150 mm and width of the rib as 300 mm. The beam is reinforced with 8 bars of 25 mm diameter
+on tension side. Determine the moment of resistance of the section. Consider grade of concrete
+as M20 and grade of steel as Fe-415. [06]
+Q.3.a Design a column to carry an axial compressive load of 2500 kN. The column has an
+unsupported length of 10 m. The ends of the columns are effectively held in position and
+restrained against rotation. One side of the column is restricted to 230 mm. Consider grade of [06]
+concrete as M20 and grade of steel as Fe-415.
+b Acolumn 230 mm X 230 mm in cross-section is reinforced with 4 bars of 16 mm diameter at
+a clear cover of 40 mm. A load of 100 KN is applied eccentrically on the column. Determine
+the maximum eccentricity of the load. Consider grade of concrete as M20 and grade of steel
+as Fe-415. Use cracked theory. [06]
+Q.4 . Design a roof slab over a room of size 3.5 m X 8 m measured internally. The slab is simply
+supported on all four sides on 230 mm thick walls. Live load on the slab is 5 KN/m? and floor
+pase finish load is 1.5 KN/m?. Consider grade of concrete as M20 and grade of steel as Fe-415. Show
+the reinforcement details in typical mid-span section along short span. Carry out necessary
+checks. [12]
+Q.5a A beam 300 mm x 600 mm overall is reinforced with 8 bars of 25 mm diameter in tension zone
+at an effective cover of 75 mm. It is also reinforced with 8 mm diameter two legged stirrups at
+150 mm c/c throughout the length of the beam. The beam is simply supported over a span of
+8 m. The width of the support is 300 mm. Consider grade of concrete as M20 and grade of
+steel as Fe-415. Determine the maximum superimposed ud] the beam can carry over the entire
+span with respect to flexure theory and shear theory. [09]
 
-b. Write any three advantages of Prestressed concrete over Reinforced Cement Concrete. (3)
-c. Differentiate one way slab and two way slab. (3)
-d. Determine the recommended effective lengths for column as per IS:456-2000, (3)
-
-i. Both ends are fixed
-ii. Bothe ends are hinge
-iii. | One end is fixed other end free
-
-Q:2
-a. A simply supported beam of size 230 mm x 600 mm (overall) is reinforced with 0.35 % steel. (6)
-Determine moment of resistance for the 4 m span of beam considering grade of concrete as
-
-M335 and grade of steel as Fe-415.
-
-b. A doubly reinforced rectangular beam is 240 mm wide and 500 mm deep. If concrete is M30 (6)
-and steel is Fe250 determine the steel areas to resist bending moment of 100 kN-m.
-
-Ye
+I
+Ves
 --- page 2 ---
-Q:3
-a. A T-beam 300 x 600 mm supports RCC slab of 100 mm thick. Width of the flange is 1900 mm. (6)
-beam is simply supported over a span of 6 m and it is reinforced with 3 bars of 25 mm dia.
-Tension side only. Determine the maximum superimposed load that a beam can carry with M20
+Q.6
 
-and Fe415.
+Q7a
 
-b. A beam 230 x 600 mm overall has a span of 6 m having total load of 30 kN/m. Tensile (6)
-reinforcement is 5 bars of 16 mm @. If concrete is M20 and steel is Fe-415, design shear
-reinforcement.
+A pre-stressed concrete beam has a cross section as unsymmetrical I section. The top flange is
+1200 mm X 200 mm, bottom flange is 450mm x 450 mm and web is 200 mm thick. The overall
+depth of the beam is 1500 mm. Determine the efficiency of the section.
 
-Q:4
+A pre-stressed concrete beam has a cross section as symmetrical I section and is supported
+over a simply supported span of 18 m. The flanges are 1200 mm X 150 mm and web is 150
+mm thick. The overall depth of the beam is 1200 mm. Losses are assumed to be 20%. The
+beam is subjected to a live load as 20 kN/m. If the permissible stresses in compression and
+tension are limited to 12MPa and |MPa respectively, Determine
 
-a. Design a roof slab over a room of size 3m x 8 m measured internally. The slab is simply (12)
-supported on all four sides on 300 mm thick walls. Live load on the slab is 3 KN/m? and floor
-finish load is 2 kN/m?. Consider grade of concrete as M20 and grade of steel as Fe-415. Show
-the reinforcement details in typical mid- span section along short span. Carry out necessary
-checks.
+i. The range of eccentricity at mid-span if the initial pre-stressing force 2500 kN
+ii. _ Range of prestressing force if maximum eccentricity of 150 mm at mid-span.
 
-05
+Explain the concept of pressure line in prestressed concrete beam.
 
-a. Design a circular column to carry load of 1000 kN with lateral ties. Use M20 and Fe-415. (6)
+A pre-stressed concrete beam has a cross section as symmetrical I section and is supported
+over a simply supported span of 25 m. The flanges are 1200 mm X 200 mm and web is 200
+mm thick. The overall depth of the beam is 1500 mm. It is pre-stressed with 100 wires of 5
+mm diameter initially tensioned to 1000 MPa and located at a distance of 150 mm from the
+soffit of the beam at mid-span and concentric at support. Calculate the losses due to friction,
+shrinkage, creep, elastic deformation of concrete and relaxation of steel. Take the modulus of
+elasticity of steel and concrete as 210 GPa and 28 GPa respectively and assume that
 
-Column one end is fixed and other is free having length of 6 m.
+the prestressing is done in 4 stages and from one end of the beam.
 
-b. Acolumn 450 mm x 450 mm in cross-section is reinforced with 8 bars of 20 mm diameter ata (6)
-clear cover of 40 mm. A load of 400 kN is applied on the column. Determine the maximum
-eccentricity of the load along diagonal of the column cross section. Consider grade of concrete
-as M25 and grade of steel as Fe-415. Consider uncracked theory.
+Use the following data-
 
-Q:6
-a. A rectangular concrete beam, 100 mm wide and 250 mm deep spanning over 8 m is prestressed (6)
-by a straight cable carrying an initial prestressing force of 250 kN located at an eccentricity of
-40 mm. The beam supports a live load of 1.2 KN/m. Draw the resultant stress distribution for
-the central cross section of beam at transfer stage and at working stage. Assume loss of 20%.
+Coefficient of friction for curvature effect = 0.55
+k for length effect = 0.003 per m
+Creep coefficient = 2.2
+Shrinkage strain = 0.0002
+Relaxation of steel wires = 3%
 
-b. A prestressed beam 300 mm x 600 mm is pre-stressed with a parabolic cable cable profile at an (6)
-eccentricity of 250 mm below CGC at mid span and concentric at support. The effective
-prestressing force in the cable is 100 kN. Span of the beam is 10 m and the total load including
-self-weight is 25 kN/m. plot the location of a thrust line.
+20
 
-Q:7 :
+ATAN
+we AK Nd
+« NIN NX
 
-a. A pre tensioned beam 250 mm wide and 300 mm deep is prestressed by 12 wires each of 7 mm (9)
-diameter initially stressed to 1200 N/mm? with their centroids located 100 mm from the soffit.
-Estimate the final loss of stress due to elastic deformation, creep, shrinkage and relaxation
-using following data:
+°o SN SY
+5 NO = $° 120
 
-Relaxation of steel stress = 90 N/mm?
-Es; = 210 GPa, E. = 35 GPa
+, gt JN =
+% ee
+a 06 ahi 4s»290
+uw
+a
+4 {
+=z
 
-a Creep coefficient = 1.6
-Shrinkage strain = 3 x 104
+04 Note:'fg {S STEEL STRESS OF SERVICE
+LOADS IN Nimm?
 
-b. Explain kern points for prestressed concrete beam with neat sketch. (3)
+0 O8 08 12 16 20 2% 28 30
+PERCENTAGE TENSION REINFORCEMENT
 
-Seececee teen nee! YX(---------------------
+Areaof cross-section of stec] required
+f 00.58 f,
+Areaof cross-section of steel provided
+
+Fig. 4 Mopiricarion FAcTor For TENSION REINFORCEMENT
+
+7/5
+
+[03]
+
+[12]
+[03]
+[09]
+--- page 3 ---
+B-5.2.1.1 For solid slabs the permissible shear stress
+in concrete shall be kt, where k has the value given
+
+below:
+Overall depth 300 or 275 250 225 200 175 1500r
+of slab,mm_ more less
+
+k 1.00 1.05 1,10 1.15 1.201.25 1.30
+
+Table 24 Maximum Shear Stress, 7... N/mm?
+(Clauses B-5.2.3, B-5.2.3.1, B-5.5.1 and B-6.3.1)
+
+Concrete Grade MIS5 M20 M25 M30 M45 M 40 and above
+Ton N/mm? 16 18 . 1 22 23 25
+100 oe Permissible Shear Stress in Concrete, £,, Nimm?
+Grade of Concrete
+M 15 M 20 M25 M 30 M35 M 40
+and above
+(1) (2) 3) (4) (5) (6) te)
+< 0.15 0.18 0.18 0.19 0.20 0.20 0.20
+0.25 0.22 0.22 023 0.23 0.23 0.23
+0.50 0.29 0.90 Oat om O31 0.32
+0.78 0.34 0.45 0.36 037 0.47 0.38
+1.00 0.37 0.39 0.40 041 0.42 0.42
+1.25 0.40 0.42 0.44 0.45 0.45 0.46
+1.50 0.42 0.45 046 0.48 0.49 0.49
+1.75 0.44 0.47 0.49 0.50 0.52 0.52
+2.00 0.44 0.49 0.51 _ 0.53 0.54 0.55
+2.25 0.44 0.5! 0.53 0.55 0.56 0.57
+2.50 ° 0.44 0.51 0.55 0.57 0.58 0.60
+278 0.44 O51 0.56 0.58 0.60 0.62
+3.00 and 0.44 Ost 0.57 0.60 0.62 0.63
+gbove
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 8c5115a13843
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/THEORY OF REINFORCED CONCRETE AND PRETR_e88ee2e4/THEORY_OF_REINFORCED_CONCRETE_AND_PRESTRESSED_CONCRETE_BATCH 15-16 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2018
+- Text: ocr (2 pages), mean OCR confidence 94.5
+
+````text
+SVKM’s NMIMS
+
+Programme: B. Tech (CIVIL) Year: III Semester: VIZ
+
+} Batch: (2015-16 / 2016-17)
+Academic Year: 2017-18
+
+Subject: Theory of Reinforced Concrete and Prestressed Concrete
+Marks: 60
+Date: 02 July 2018 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages: _OZ
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. | is compulsory.
+
+2. Out of remaining questions, attempt any Four questions.
+
+3. In all Five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+7. Assume suitable data if necessary. \
+8. Use of IS 456 is permitted in examination.
+
+Q.1 a. Differentiate between one-way slab and two-way slab. [03]
+b. Enlist all the design constants used in working stress method considering M30
+
+concrete and Fe415 steel. [03]
+
+c. Explain kern points in prestressed concrete section. [03]
+
+d. What is safe cable zone in prestressed concrete section ? [03]
+
+Q.2 a. A reinforced concrete beam is simply supported on a span of 6 m and carries a
+superimposed load of 12 kKN/m over the entire span. The cross section of the
+beam is 230 x 600 mm overall. Design a singly reinforced section assuming
+M-20 grade of concrete and Fe-415 grade of steel. [06]
+
+b. A reinforced concrete beam is simply supported on a span of 4.5 mand hasa —
+cross section of 230 x 450 mm overall. It is reinforced with 4 bars of 16 mm
+diameter on tension side and 3 bars of 12 mm diameter on compression side.
+Determine the maximum superimposed uniformly distributed load beam can
+carry if M-20 grade of concrete and Fe-415 grade of steel is used. [06]
+
+Q.3 a. A Tee beam has following cross section properties. Width of flange = 1200 mm,
+depth of flange = 150 mm, width of rib = 300 mm and overall depth of 750 mm.
+
+It is simply supported over a span of 6 m and carries a uniformly distributed
+load of 40 KN/m inclusive of its self-weight. It is reinforced with 6 bars of 25
+mm diameter on tension side. Considering M-20 grade of concrete and Fe-415
+grade of steel, determine the stresses developed in concrete and steel. Hence
+
+— comment on safety of the beam. [06]
+b. A reinforced concrete beam is simply supported on a span of 6 m and carries a
+_ load of 30 kN/m over the entire span. The cross section of the beam is
+. 230 x 600 mm overall and is reinforced with 5 bars of 16 mm diameter on
+tension side. Design shear reinforcement for the beam assuming M-20 grade of
+concrete and Fe-415 grade of steel. [06]
+Page | of 2
+--- page 2 ---
+Q4
+
+Q5 a.
+
+Q.6
+
+Q.7 a.
+
+Design a RCC slab over a clear room size of 4.0 m X 7.5 m. the slab is simply
+supported on all sides and corners are free to lift. Slab carries a live load of 4.0
+kN/m and a floor finish of 1.5 kKN/m. Consider M-20 grade of concrete and Fe-
+415 grade of steel. Draw the details of reinforcements along section through
+short span and long span. [12]
+Design a circular column with helical reinforcement to support an axial
+compressive load of 1500 KN. The length of the column is 6 m and both the
+ends of the column are effectively held in position but not restrained against
+rotation. Consider M-20 grade of concrete and Fe- 415 grade of steel. [06]
+A prestressed concrete beam of span 20 m has a rectangular cross section
+300 mm X 750 mm. The beam supports a live load of 20 kN/m inclusive of its
+own weight over entire span. The beam is prestressed with a parabolic cable
+concentric at support and with an eccentricity of 250 mm below CGC at
+mid-span. Plot the variation of pressure line or thrust line mentioning their
+values at mid-span and quarter-span section. [06]
+A prestressed concrete girder has an unsymmetrical cross-section and has
+following properties: Top flange = 1200 mm. wide and 200 mm depth, Bottom
+flange = 600 mm wide and 300 mm deep, web thickness = 300 mm and overall
+depth = 1500 mm. the girder has a span of 20 m and carries a live load of
+25 kN/m. The girder is prestressed with an initial prestressing force of 2500 kN
+and losses are expected to be 25%. The cable profile is parabolic with
+eccentricity of 150 mm and 750 mm measured from soffit of the girder at
+mid-span and at support respectively. Determine the stresses at mid-span and at
+
+support section at transfer and at service stage. [12]
+Explain why losses occur in prestressed concrete section. Explain elastic
+deformation loss and friction loss in detail. [06]
+
+A pre-tensioned beam 200 mm wide and 300 mm deep is prestressed by 10
+wires of 7 mm diameter initially stressed to 1200 MPa with their centroids
+located 100 mm from the soffit. Determine the losses in prestress due to elastic
+deformation of concrete, creep, shrinkage and relaxation of wires. Use the
+following data: Es = 210 GPa, Ec = 36.9 GPa, Creep coefficient = 1.8, Total
+residual shrinkage strain = 300 x 10°, relaxation of wires = 5%. [06]
+
+Page 2 of 2
 ````
 
 ## 2017-18 · Re-Exam · Sem 6 · paper 73a65f9d97ca
@@ -1951,160 +2698,6 @@ b Draw stress-stain curve diagram for steel and concrete. (4)
 i Lo
 ````
 
-## 2017-18 · Re-Exam · Sem 7 · paper e40507aa4940
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_07/THEORY OF REINFORCED CONCRETE AND PREST_41658795/Theory of Reinforced Concrete and Prestressed Conrete Batch 2017-18 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 November 2018
-- Text: ocr (2 pages), mean OCR confidence 93.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGI
-
-fe)
-Program B.Tech Integrated (CIVIL) ~ Year: IV Sek
-Academic Year: 2018-2019
-
-f
-
-: Subject: Theory of Reinforced Concrete and Prestressed Concrete — Marks: 60 —
-Date : 20 November 2018 Time:10.00 am to 1.00 pm —
-Duration: 3 (hrs)
-No. of Pages: 2 _
-
-Re-examination (2017-18) —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all _5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-8) Use of LS. 456 : 2000 is permitted.
-
-Q.1. Attempt Any Three Out Of Five [12]
-(a) Enlist advantages of Prestressed Concrete. (4)
-
-(b) Find Development Length of 20 mm diameter HYSD bar both in Tension & (4)
-Compression. Take Grade Of Concrete M 25 & Grade Of Steel Fe 415.
-
-(c) Using Grade Of Concrete M 25 & Grade Of Steel Fe 415, for a Balanced Singly (4)
-Reinforced Rectangular Section find —
-(i) Modular Ratio
-(ii) Lever Arm Constant
-{iii) Constant for Moment of Resistance
-(iv) Percentage of Steel
-
-(d) As per I.S. 456 : 2000, find recommended Effective Lengths for column when — (4)
-{i) both ends are fixed,
-{ii) both ends are hinged
-{iii) one end fixed and other end hinged
-(iv) one end fixed and other end free
-
-(e) Differentiate between Pre-tensioning & Post-tensioning in Prestressed Concrete. (4)
-Q.2 (a) Design the Cross Section and Area of Steel required for a Singly Reinforced R.C.C. (6)
-beam resisting bending moment of 200 KN-m. Take clear cover as 40 mm & use
-
-Grade Of Concrete M 30 & Grade Of Steel Fe 415. Assume width of beam as 0.4
-times that of overall depth of beam.
-
-Page 1 of 2
---- page 2 ---
-Q.3
-
-0.4
-
-Qs
-
-Q.6
-
-Q.7
-
-(b) A230 mm x 600 mm Singly Reinforced simply supported R.C.C. beam with span of 5
-meter is reinforced with 3 T 20 mm tension steel. Take clear cover as 40 mm &
-Grade of Concrete M 25 & Grade of Steel Fe 415. Calculate Stresses in concrete &
-steel, also, calculate U.D.L. (inclusive of self-weight) beam can carry.
-
-(a) A 230mm x 400 mm Doubly Reinforced simply supported R.C.C. beam with span of
-3 meter is reinforced with 3 T 25 mm on tension side & 2 T 20 mm on compression
-side. Take clear cover as 40 mm & use Grade of Concrete M 25 & Grade of Steel Fe
-415. Calculate Moment of Resistance of the beam, also, calculate Point Load at
-center of span beam can carry. (neglect self-weight of beam)
-
-(b) A 230 mm x 700 mm Rectangular beam with 3 T 20 mm on tension side carries
-U.D.L. of 45 KN/m (inclusive of self-weight) over the span of 4 meters. Take clear
-cover as 40 mm & use Grade of Concrete M 25 & Grade of Steel Fe 415. Design the
-Shear Reinforcement.
-
-AR.C.C. T beam has width of web = 300 mm; width of flange = 1400 mm; depth of flange
-= 140 mm & overall depth of beam = 750 mm. Take clear cover as 30 mm & use Grade of
-Concrete M 20 & Grade of Steel Fe 415. Calculate Moment of Resistance for following
-cases of Area of Tension Steel provided — (i) 3 T 25; (ii) 5 T 25; (iii) 8T 25
-
-Design a Rectangular Column having width = 450 mm to carry Axial Load of 2000 KN. The
-Effective Length of the column is 4.5 meters. Take clear cover as 40 mm & use Grade of
-Concrete M 25 & Grade of Steel Fe 415, also comment on Load Carrying Capacity &
-Design of column if Effective Length of the column is 5.5 meters.
-
-A Prestressed concrete T beam supports live load of 20 KN/m over a simply supported
-span of 8 meters. The beam has overall depth of 800 mm. The depth of Flange is 200
-mm. The width of flange & web are 800 mm & 300 mm respectively. The Prestressing
-Force at Working Stage is 1700 KN. Find the following such that resultant stress at
-bottom of beam at center of span is 12 Mpa at working stage.
-
-(i) Eccentricity required
-
-(ii) Initial Prestressing Force considering 15 % losses when tendon is concentric
-
-Assume Density of Concrete as 25 KN /Cu.m.
-
-Attempt Any Two Out of Three
-
-(a) Write a short note on Losses in Prestress In Post Tensioned Members.
-
-(b) A prestressed concrete beam of section 120 mm wide by 300 mm deep is used over
-an effective span of 6 m to support a uniformly distributed load of 4 kN/m, which
-includes the self-weight of the beam. The beam is prestressed by a straight cable
-carrying a force of 180 kN & located at an eccentricity of 50 mm. Determine the
-location of the thrust-line in the beam and plot its position at quarter and central
-span sections.
-
-(c) Write steps for designing One Way Slab.
-
-(6)
-
-(6)
-
-(6)
-
-[12]
-
-[12]
-
-[12]
-
-[12]
-
-(6)
-(6)
-
-(6)
-
-Page 2 of 2
-````
-
 ## 2017-18 · Re-Exam · Sem 7 · paper 793ea3f5752d
 
 - Departments: Civil
@@ -2112,6 +2705,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_07/THEORY OF REINFORCED CONCRETE AND PREST_41658795/Theory of Reinforced Concrete and Prestressed Conrete Batch 2017-18 Re Exam_793ea3f575.pdf`
 - Printed on paper: exam date: 30 May 2018
 - Text: ocr (2 pages), mean OCR confidence 92.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2172,7 +2766,6 @@ steel. The material are M15 grade of concrete and HYSD reinforcement of grade Fe
 
 Q:3
 a. An RCC T-beam has the following dimensions. (6)
-br= 1500 mm, Dr= 150 mm, by = 100 mm, d = 850 mm, m = 18.66 and Ast = 4500 mm?
 Find (i) neutral axis (ii) stress in steel and concrete; if the beam is subjected to a bending
 moment of 500 kNm.
 
@@ -2596,156 +3189,6 @@ Page 04/04
 I
 ````
 
-## 2017-18 · Re-Exam · Sem 7 · paper aa77f636873f
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/THEORY OF REINFORCED CONCRETE AND PREST_a53aec72/Theory_of_Reinforced_concrete_and_prestresssed_concrete_ 2015-16,2017-18 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 November 2018
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-CY
-
-SVKM’s NMIMS
-
-‘.
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN ENGIN:
-Programme: MBA Tech (Civil) Year: IV ~ Semester: VII ~
-
-Academic Year: 2018-2019
-
-Subject: Theory of Reinforced concrete and Prestressed Concrete
-
-Marks: 60 ~
-
-Date: 14 November 2018° Time: 2.00 pm - 5.00 pm *
-Durations: 3 Hrs- 2
-No. of Pages :
-
-Re-Examination (2015-16/2017-18) ,
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page..
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-8) Use of IS: 456 is permitted in examination.
-
-Q:1 Attempt any three: (12)
-
-a. From the first principle, derive the equation for Moment of Resistance of a singly reinforced
-concrete.
-
-b. Which are the conditions required for doubly reinforced section?
-
-c. Explain in brief: “Methods of Pre-stressing”
-
-d. Differentiate short column and long column.
-
-Q:2
-
-a. The cross section of singly reinforced beam is 320 mm wide and 450 mm deep to the center of (6)
-the reinforcement. The reinforcement consists of 4 bars 16 mm. Determine the moment of
-resistance of the beam section. Take M15 and Fe250.
-
-b. A doubly reinforced rectangular beam is 240 mm wide and 500 mm deep (overall). If concrete (6)
-is M30 and steel is Fe250 determine the steel area for bending moment of 100 kN.m
-Q:3
-a. Flange of isolated T-beam is 120 mm thick & 1200 mm wide and web of the beam is 300 mm_ (6)
-wide. Effective depth of the beam is 700 mm & reinforcement consists of 5 bars of 25 mm dia.
-If the beam is subjected to total Bending moment of 200 kN-m. Determine stresses developed
-in steel & concrete. Assume m = 18 and span of the beam as 6m.
-
-cY2)
---- page 2 ---
-Q:4
-
-Q:5
-
-Q:6
-
-Q:7
-
-RC beam 300 x 600 mm overall is reinforced with 6 bars of 25 mm diameter in tension zone at
-effective cover of 75 mm. the beam is simply supported over a span of 9 m and subjected to a
-load of 40KN/m over entire span. Consider M20 and Fe415. Design the shear reinforcement
-and sketch the details.
-
-Design a circular column to carry an axial compressive load of 2000 KN. The column has an
-unsupported length of 5m. Both the ends of the column are effectively held in position and
-restrained against rotation. Assume grade of concrete M20 and Fe-415 steel.
-
-A reinforced concrete column 450 mm X 450 mm is reinforced with 8 bars of 20 mm diameter.
-The column carries a compressive load of 300 KN at an eccentricity measured along diagonal
-of cross-section of the column. Considering M-20 Concrete and mild steel, determine the
-maximum eccentricity of the load. Use un-cracked theory. Modulus of Rupture = 2.4.
-
-Design a roof slab over a room of size 3 m x 8 m measured internally. The slab is supported on
-all four sides on all four sides on 300 mm thick walls. Live load on the slab is 3 kN/m? and
-finish load is 2 KN/m?: Consider grade of concrete as M20 and grade of steel as Fe-415.draw
-the reinforcement details in typical mid span section along short span. Carry out necessary
-checks.
-
-A prestressed concrete girder has an unsymmetrical cross section and has following properties:
-
-Top flange = 1200 mm wide and 200 mm depth
-
-Bottom flange = 600 mm wide and 300 mm deep
-
-Web thickness = 300 mm
-
-Overall depth = 1500 mm. .
-The girder has a span of 20 m and carries a live load of 25 kN/m. the girder is prestressed with
-an initial prestressing force of 2500 kN and losses are expected to be 25 %. The cable profile is
-parabolic with eccentricity of 150 mm and 750 mm measured from soffit of the girder at mid-
-span and at support respectively. Determine the stresses at mid-span and at support section at
-transfer and at service stage.
-
-Enlist various losses that may occur in pre-stressed concrete section. Explain elastic
-deformation loss in detail.
-
-A post tensioned concrete beam 200 mm wide and 300 mm deep having 16 m span is subjected
-to initial prestress of 1458 kN. Cable profile is straight with eccentricity of 100 mm measured
-from bottom. Area of prestressing wire is 1400mm?. If Es = 210 GPa, Ec = 38.2 GPa,
-relaxation of steel is 4 % of initial prestress, Creep co-efficient = 1.6, slip at anchorage is 3
-mm, friction coefficient for wave effect = 0.0015 per m, shrinkage of concrete is 200 x 10°
-estimate the loss prestress for the following:
-
-I. Loss due to elastic shortening
-Il. Loss due to shrinkage of concrete
-Ill. Loss due to creep of concrete
-IV. Loss due to anchorage slip
-V. Loss due to relaxation of steel & Loss due to friction
-
-C2/2)
-
-(6)
-
-(6)
-
-(6)
-
-(12)
-
-(12)
-
-(3)
-
-(9)
-````
-
 ## 2016-17 · Final-Exam · Sem 6 · paper bf9d4563669f
 
 - Departments: Civil
@@ -3100,194 +3543,6 @@ Fic. 4 Mopirication FAcTor FoR TENSION REINPORCEMENT
 Page 05/05
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper 543f45c6eaff
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/THEORY OF REINFORCED CONCRETE AND PRETR_e88ee2e4/THEORY OF REINFORCED CONCRETE AND PRESTRESSED CONCRETE BATCH 15-16 16-17 RE EX (1).pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3; exam date: 11 May 2018
-- Text: ocr (3 pages), mean OCR confidence 87.7
-
-````text
-an SVKM’s NMIMS
-‘ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (CIVIL) Year: Ill Semester: VI
-
-Academic Year: 2017-2018
-
-Subject:Theory of Reinforced Concrete and Prestressed eee y, sh \ ;
-
-Time: 2.00 ot td 5/00 pm
-Durations: 3 (hrs);
-No. of Pages : eS.
-Re-examination (2015-16 / 2016-17) x
-
-| Date:11 May 2018
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary and state it clearly.
-
-8) Use of IS 456 and IS 1343 is not permitted.
-
-Q.1.a Why losses occur in prestressed concrete section. Explain in detail. [06]
-b_ Enlist various design constants. Explain their use. Tabulate these constants for M30 concrete
-and Fe500 steel. [06]
-
-Q.2a ARCC beam 300 mm X 600 mm overall is to be designed for a superimposed load of 20kKN/m
-over a simply supported span of 6 m. The clear cover to main reinforcement is 25 mm. design
-the beam for flexure. Consider grade of concrete as M20 and grade of steel as Fe-415. [06]
-b AT beam has a flange width of 2500 mm, effective depth of 600 mm, depth of the flange as
-150 mm and width of the rib as 300 mm. The beam is reinforced with 8 bars of 25 mm diameter
-on tension side. Determine the moment of resistance of the section. Consider grade of concrete
-as M20 and grade of steel as Fe-415. [06]
-Q.3.a Design a column to carry an axial compressive load of 2500 kN. The column has an
-unsupported length of 10 m. The ends of the columns are effectively held in position and
-restrained against rotation. One side of the column is restricted to 230 mm. Consider grade of [06]
-concrete as M20 and grade of steel as Fe-415.
-b Acolumn 230 mm X 230 mm in cross-section is reinforced with 4 bars of 16 mm diameter at
-a clear cover of 40 mm. A load of 100 KN is applied eccentrically on the column. Determine
-the maximum eccentricity of the load. Consider grade of concrete as M20 and grade of steel
-as Fe-415. Use cracked theory. [06]
-Q.4 . Design a roof slab over a room of size 3.5 m X 8 m measured internally. The slab is simply
-supported on all four sides on 230 mm thick walls. Live load on the slab is 5 KN/m? and floor
-pase finish load is 1.5 KN/m?. Consider grade of concrete as M20 and grade of steel as Fe-415. Show
-the reinforcement details in typical mid-span section along short span. Carry out necessary
-checks. [12]
-Q.5a A beam 300 mm x 600 mm overall is reinforced with 8 bars of 25 mm diameter in tension zone
-at an effective cover of 75 mm. It is also reinforced with 8 mm diameter two legged stirrups at
-150 mm c/c throughout the length of the beam. The beam is simply supported over a span of
-8 m. The width of the support is 300 mm. Consider grade of concrete as M20 and grade of
-steel as Fe-415. Determine the maximum superimposed ud] the beam can carry over the entire
-span with respect to flexure theory and shear theory. [09]
-
-I
-Ves
---- page 2 ---
-Q.6
-
-Q7a
-
-A pre-stressed concrete beam has a cross section as unsymmetrical I section. The top flange is
-1200 mm X 200 mm, bottom flange is 450mm x 450 mm and web is 200 mm thick. The overall
-depth of the beam is 1500 mm. Determine the efficiency of the section.
-
-A pre-stressed concrete beam has a cross section as symmetrical I section and is supported
-over a simply supported span of 18 m. The flanges are 1200 mm X 150 mm and web is 150
-mm thick. The overall depth of the beam is 1200 mm. Losses are assumed to be 20%. The
-beam is subjected to a live load as 20 kN/m. If the permissible stresses in compression and
-tension are limited to 12MPa and |MPa respectively, Determine
-
-i. The range of eccentricity at mid-span if the initial pre-stressing force 2500 kN
-ii. _ Range of prestressing force if maximum eccentricity of 150 mm at mid-span.
-
-Explain the concept of pressure line in prestressed concrete beam.
-
-A pre-stressed concrete beam has a cross section as symmetrical I section and is supported
-over a simply supported span of 25 m. The flanges are 1200 mm X 200 mm and web is 200
-mm thick. The overall depth of the beam is 1500 mm. It is pre-stressed with 100 wires of 5
-mm diameter initially tensioned to 1000 MPa and located at a distance of 150 mm from the
-soffit of the beam at mid-span and concentric at support. Calculate the losses due to friction,
-shrinkage, creep, elastic deformation of concrete and relaxation of steel. Take the modulus of
-elasticity of steel and concrete as 210 GPa and 28 GPa respectively and assume that
-
-the prestressing is done in 4 stages and from one end of the beam.
-
-Use the following data-
-
-Coefficient of friction for curvature effect = 0.55
-k for length effect = 0.003 per m
-Creep coefficient = 2.2
-Shrinkage strain = 0.0002
-Relaxation of steel wires = 3%
-
-20
-
-ATAN
-we AK Nd
-« NIN NX
-
-°o SN SY
-5 NO = $° 120
-
-, gt JN =
-% ee
-a 06 ahi 4s»290
-uw
-a
-4 {
-=z
-
-04 Note:'fg {S STEEL STRESS OF SERVICE
-LOADS IN Nimm?
-
-0 O8 08 12 16 20 2% 28 30
-PERCENTAGE TENSION REINFORCEMENT
-
-Areaof cross-section of stec] required
-f 00.58 f,
-Areaof cross-section of steel provided
-
-Fig. 4 Mopiricarion FAcTor For TENSION REINFORCEMENT
-
-7/5
-
-[03]
-
-[12]
-[03]
-[09]
---- page 3 ---
-B-5.2.1.1 For solid slabs the permissible shear stress
-in concrete shall be kt, where k has the value given
-
-below:
-Overall depth 300 or 275 250 225 200 175 1500r
-of slab,mm_ more less
-
-k 1.00 1.05 1,10 1.15 1.201.25 1.30
-
-Table 24 Maximum Shear Stress, 7... N/mm?
-(Clauses B-5.2.3, B-5.2.3.1, B-5.5.1 and B-6.3.1)
-
-Concrete Grade MIS5 M20 M25 M30 M45 M 40 and above
-Ton N/mm? 16 18 . 1 22 23 25
-100 oe Permissible Shear Stress in Concrete, £,, Nimm?
-Grade of Concrete
-M 15 M 20 M25 M 30 M35 M 40
-and above
-(1) (2) 3) (4) (5) (6) te)
-< 0.15 0.18 0.18 0.19 0.20 0.20 0.20
-0.25 0.22 0.22 023 0.23 0.23 0.23
-0.50 0.29 0.90 Oat om O31 0.32
-0.78 0.34 0.45 0.36 037 0.47 0.38
-1.00 0.37 0.39 0.40 041 0.42 0.42
-1.25 0.40 0.42 0.44 0.45 0.45 0.46
-1.50 0.42 0.45 046 0.48 0.49 0.49
-1.75 0.44 0.47 0.49 0.50 0.52 0.52
-2.00 0.44 0.49 0.51 _ 0.53 0.54 0.55
-2.25 0.44 0.5! 0.53 0.55 0.56 0.57
-2.50 ° 0.44 0.51 0.55 0.57 0.58 0.60
-278 0.44 O51 0.56 0.58 0.60 0.62
-3.00 and 0.44 Ost 0.57 0.60 0.62 0.63
-gbove
-````
-
 ## 2016-17 · Re-Exam · Sem 6 · paper cf8586bf141a
 
 - Departments: Civil
@@ -3428,130 +3683,6 @@ Take shear strength of concrete as 0.34N/mm2
 
 b) i) Explain in short frysinnet system of prestressing in short with sketch. (3)
 ii) Explain concept of kern distance with sketch- (3)
-````
-
-## 2016-17 · Re-Exam · Sem 6 · paper 8c5115a13843
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/THEORY OF REINFORCED CONCRETE AND PRETR_e88ee2e4/THEORY_OF_REINFORCED_CONCRETE_AND_PRESTRESSED_CONCRETE_BATCH 15-16 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2018
-- Text: ocr (2 pages), mean OCR confidence 94.5
-
-````text
-SVKM’s NMIMS
-
-Programme: B. Tech (CIVIL) Year: III Semester: VIZ
-
-} Batch: (2015-16 / 2016-17)
-Academic Year: 2017-18
-
-Subject: Theory of Reinforced Concrete and Prestressed Concrete
-Marks: 60
-Date: 02 July 2018 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-No. of Pages: _OZ
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1. Question No. | is compulsory.
-
-2. Out of remaining questions, attempt any Four questions.
-
-3. In all Five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-7. Assume suitable data if necessary. \
-8. Use of IS 456 is permitted in examination.
-
-Q.1 a. Differentiate between one-way slab and two-way slab. [03]
-b. Enlist all the design constants used in working stress method considering M30
-
-concrete and Fe415 steel. [03]
-
-c. Explain kern points in prestressed concrete section. [03]
-
-d. What is safe cable zone in prestressed concrete section ? [03]
-
-Q.2 a. A reinforced concrete beam is simply supported on a span of 6 m and carries a
-superimposed load of 12 kKN/m over the entire span. The cross section of the
-beam is 230 x 600 mm overall. Design a singly reinforced section assuming
-M-20 grade of concrete and Fe-415 grade of steel. [06]
-
-b. A reinforced concrete beam is simply supported on a span of 4.5 mand hasa —
-cross section of 230 x 450 mm overall. It is reinforced with 4 bars of 16 mm
-diameter on tension side and 3 bars of 12 mm diameter on compression side.
-Determine the maximum superimposed uniformly distributed load beam can
-carry if M-20 grade of concrete and Fe-415 grade of steel is used. [06]
-
-Q.3 a. A Tee beam has following cross section properties. Width of flange = 1200 mm,
-depth of flange = 150 mm, width of rib = 300 mm and overall depth of 750 mm.
-
-It is simply supported over a span of 6 m and carries a uniformly distributed
-load of 40 KN/m inclusive of its self-weight. It is reinforced with 6 bars of 25
-mm diameter on tension side. Considering M-20 grade of concrete and Fe-415
-grade of steel, determine the stresses developed in concrete and steel. Hence
-
-— comment on safety of the beam. [06]
-b. A reinforced concrete beam is simply supported on a span of 6 m and carries a
-_ load of 30 kN/m over the entire span. The cross section of the beam is
-. 230 x 600 mm overall and is reinforced with 5 bars of 16 mm diameter on
-tension side. Design shear reinforcement for the beam assuming M-20 grade of
-concrete and Fe-415 grade of steel. [06]
-Page | of 2
---- page 2 ---
-Q4
-
-Q5 a.
-
-Q.6
-
-Q.7 a.
-
-Design a RCC slab over a clear room size of 4.0 m X 7.5 m. the slab is simply
-supported on all sides and corners are free to lift. Slab carries a live load of 4.0
-kN/m and a floor finish of 1.5 kKN/m. Consider M-20 grade of concrete and Fe-
-415 grade of steel. Draw the details of reinforcements along section through
-short span and long span. [12]
-Design a circular column with helical reinforcement to support an axial
-compressive load of 1500 KN. The length of the column is 6 m and both the
-ends of the column are effectively held in position but not restrained against
-rotation. Consider M-20 grade of concrete and Fe- 415 grade of steel. [06]
-A prestressed concrete beam of span 20 m has a rectangular cross section
-300 mm X 750 mm. The beam supports a live load of 20 kN/m inclusive of its
-own weight over entire span. The beam is prestressed with a parabolic cable
-concentric at support and with an eccentricity of 250 mm below CGC at
-mid-span. Plot the variation of pressure line or thrust line mentioning their
-values at mid-span and quarter-span section. [06]
-A prestressed concrete girder has an unsymmetrical cross-section and has
-following properties: Top flange = 1200 mm. wide and 200 mm depth, Bottom
-flange = 600 mm wide and 300 mm deep, web thickness = 300 mm and overall
-depth = 1500 mm. the girder has a span of 20 m and carries a live load of
-25 kN/m. The girder is prestressed with an initial prestressing force of 2500 kN
-and losses are expected to be 25%. The cable profile is parabolic with
-eccentricity of 150 mm and 750 mm measured from soffit of the girder at
-mid-span and at support respectively. Determine the stresses at mid-span and at
-
-support section at transfer and at service stage. [12]
-Explain why losses occur in prestressed concrete section. Explain elastic
-deformation loss and friction loss in detail. [06]
-
-A pre-tensioned beam 200 mm wide and 300 mm deep is prestressed by 10
-wires of 7 mm diameter initially stressed to 1200 MPa with their centroids
-located 100 mm from the soffit. Determine the losses in prestress due to elastic
-deformation of concrete, creep, shrinkage and relaxation of wires. Use the
-following data: Es = 210 GPa, Ec = 36.9 GPa, Creep coefficient = 1.8, Total
-residual shrinkage strain = 300 x 10°, relaxation of wires = 5%. [06]
-
-Page 2 of 2
 ````
 
 ## 2016-17 · Re-Exam · Sem 7 · paper 0304d2b7cc54
@@ -3785,6 +3916,7 @@ Page 05/05
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/THEORY OF REINFORCED CONCRETE AND PRETR_e88ee2e4/THEORY OF REINFORCED CONCRETE AND PRESTRESSED CONCRETE 2015-16 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 07/05/2016
 - Text: ocr (3 pages), mean OCR confidence 85.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \y SVKM’s NMIMS
@@ -3915,7 +4047,6 @@ of wires
 
 12 £2 165
 ing XS r—~
-z NJ Ppl tes 190 OA a en
 5 a ee
 2 os £5290
 : |
@@ -4340,6 +4471,225 @@ Y »
 IE)
 ````
 
+## 2015-16 · Re-Exam · Sem 6 · paper ee3c0ae3cb1f
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/THEORY OF REINFORCED CONCRETE AND PRETR_e88ee2e4/THEORY OF REINFORCED CONCRETE AND PRESTRESSED CONCRETE BATCH 2014-15 RE EXAM_ee3c0ae3cb.pdf`
+- Printed on paper: exam date: 07/05/2016
+- Text: ocr (4 pages), mean OCR confidence 83.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Civil) Year: III Semester: VI
+
+Academic Year: 2015-16
+Batch: 2014-15
+
+Subject: Theory of Reinforced Concrete and Prestressed Concrete Mark
+
+Date: 07/05/2016
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary and state it clearly
+
+8) Use of IS 456 and IS 1343 is not permitted
+
+Q.la From the basic principles, derive the equations for neutral axis constant, lever arm 6
+constant, constant for moment of resistance and percentage tension reinforcement for a
+balanced rectangular cross section.
+
+b_ Explain the significance of kern point distances for a pre-stressed concrete section with 6
+neat sketches.
+
+Q.2a A beam 230 mm X 450 mm overall is reinforced with 3 bars of 25 mm diameter on 6
+tension side and 2 bars of 20 mm diameter on compression side. The clear cover to
+
+sain ceinfore
+main reimiore
+
+im safe sunerimposed udl the
+um safe superimposed ud! the
+
+ement is 25 mm. Deteritiine the
+beam can carry if it is simply supported over a span of 4 m. Consider grade of coricrete
+as M20 and grade of steel as Fe-415.
+
+b A T beam has a flange width of 1200 mm, effective depth of 550 mm, depth of the 6
+flange as 150 mm and width of the rib as 300 mm. The beam is subjecied to 2 udi of 30
+kN/m over a simply supported span of § m. Determine the area of tension
+reinforcement required. Consider grade of concrete as M20 and grade of steel as
+Fe-415.
+
+V,
+--- page 2 ---
+\+ 3 a Design a rectangular column to carry an axial compressive load of 2000 kN. The
+
+colutnn has an unsupported length of 6 m. One end of the column is effectively held in
+position and restrained against rotation while the other end is effectively held in
+position and not restrained against rotation. One side of the column is 230 mm.
+Consider grade of concrete as M20 and grade of steel as Fe-415.
+
+~b° A column 300 mm X 300 mm in cross-section is reinforced with 4 bars of 20 mm
+diameter at a clear cover of 40 mm. A load of 300 KN is applied on the column.
+Determine the maximum eccentricity of the load. Consider grade of concrete as M20
+and grade of steel as Fe-415. Use cracked theory.
+
+Q.4 . Design a roof slab over a room of size 3 m X 5 m. The slab is simply supported on all
+four sides on 230 mm thick walls and corners of the slab are free to lift. Live Joad on
+the slab-is-2°5 KN/m? and floor finish load’is 1 KN/m?. Consider grade of concrete as
+M20 and grade of steel as Fe-415. Show the reinforcement details in typical mid-span
+section along short span and along long span. Carry out necessary checks.
+
+Q.5a A beam 300 mm x 600 mm overall is reinforced with 6 bars of 25 mm diameter in
+tension zone at an effective cover of 75 mm. The beam is simply supported over a span
+of 9 m and subjected to a load of 40 KN/m over entire span. The width of the support is
+230 mm. Consider grade of concrete as M20 and grade of steel as Fe-415. Design the
+shear reinforcement and sketch the reinforcement details showing zone of minimum
+shear reinforcement and design shear reinforcement.
+
+b A pre-stressed beam 100 mm x 300 mm is pre-stressed with linear cable profile at an
+eccentricity of 45 mm below CGC at centre of the beam and concentric at supports. The
+effective pre-stressing force in the cable is 100 KN. Span of the beam is 5 m and the
+total load including self-weight is 2.5 KN/m. Determine the location of a pressure line at
+mid-span and at quarter span.
+
+Q.6a A pre-stressed concrete beam has a cross section as symmetrical I section and is
+supported over a simply supported span of 8 m. The flanges are 300 mm X 75 mm and
+web is 150 mm thick. The overall depth of the beam is 600 mm. The beam is
+pre-stressed with a parabolic cable with an eccentricity of 250. mm at mid-span and
+concentric at thé supports. The initial pre-stressing force 200 kN and. effective
+
+ce ig 175 KN. The beam is subiected td a live load as 10 KN/m. Draw
+
+© 20a!
+
+the stress : distriban at transfer and at service stage at mid-span and at support section.
+Assume the density of concrete as 24 kKN/m?.
+b Determine the efficiency of pre-stressed concrete symmetrical I section with flanges
+300 mm X 50 mm and web 100 mm thick with overall depth as 600 mm.
+Q.7a_ Explain the loss due to friction in pre-stressed concrete section.
+
+2/4
+
+12
+--- page 3 ---
+b_ A post tensioned pre-stressed concrete beam has a cross section as unsymmetrical I_9
+section and is supported over a simply supported span of 25 m. The top flange is 800
+mm X 200 mm, bottom flange is 400 mm x 400 mm and web is 200 mm thick. The
+overall depth of the beam is 1500 mm. It is pre-stressed with 4 cables with effective
+area 500 mm* each initially tensioned to 1200 MPa and located at a distance of 200 mm
+from the soffit of the beam. Calculate the losses due to friction, shrinkage, creep, elastic
+deformation of concrete and relaxation of steel. Use the following data-
+
+k for length effect = 0.3 per 100 m
+
+Modulus of Elasticity of steel and concrete as 210 GPa and 28 GPa respectively
+Creep coefficient = 2.2
+
+Shrinkage strain = 0.0002
+
+Relaxation of steel wires = 3%
+
+Note that the cables are stressed successively.
+
+TATA
+rth AN
+« LAIN UN
+
+J XN N oS f
+“4 = S* 129
+@ 12 NN a fgetas =
+3 NE ae a
+E hain | | tse20-
+Q 06 TF 45 +290
+aw
+6
+4 t
+=
+O% Note: 4g (S STEEL STRESS OF SERVICE
+LOADS WW Nim?
+) O4 o8 2 16 20 26 28 30
+
+PERCENTAGE TENSION REINFORCEMENT
+
+Araaof cross-section of ates] required
+fe 0.58 f, ~
+Aresot cross-section of steel provided
+
+Fig. 4 MopiecaTion Factor For TENSION REINFORCEMENT
+
+B-5.2.1.1 For solid slabs the permissible shear stress
+in concrete shall be kt, where & has the value given
+
+€
+
+below:
+Overall depth 20 oc 275 250 225 200 175 150 or
+of slab, mm =more less
+
+k 1.00 1.05 1.10 1.15 1.201.25 1.30
+
+3/4
+--- page 4 ---
+Table 27 Bending Moment Coefficients for Stabs Spanning in Two Directions at
+Right Angles, Simply Supported on Four Sides
+(Clause D-2.1) :
+
+1A, LO it f2 3 4 15 1.75 20 2.5
+a, ‘0.062 0.074 0.084 0.093 0.099 0.104 ).113 O18 0.122
+a, 0.062 0.061 0.059 0,055 0.051 0.046 0.037 0.029 0.020
+
+Table 24 Maximum Sheer Stress, 7, ,,..9 N/mm?
+(Clauses B-5.2.3, B-5.2.3.1, B-5.5.1 and B-6.3.1)
+
+Concrete Grade MIS M20 M25 M30 Mas M 40 and above
+
+as Niomra? 16 18 19 "22 as) 28
+
+100 a Permissibie Shear Stress In Concrete, T., N/mm?
+
+Grade of Concrete
+MIS M20 M25 MM M35 M40
+and above
+qa) (2) @) (4) G) (6) @
+ss O15 O18 O18 0.19 0.20 0.20 0.20
+0.25 0.22 O22 °°: - - 023 0.23 0.23 623
+0.50 0.29 0.30 oa : 6.35 0.31 42
+0.78 ou = 08S 86 0.37 OM 0.38
+1.00 0.37 0.39 O40 Oat 0.42 0.42
+1.25 0.40 0.42 044 045 (4S 0.45
+£.50 0.42 0.45 046 O48 0,49 Gas
+1.75 0.44 0.47 049 ~ 0,50 : 0.52 0.52
+2.00 0.44 0.49 0.51 , 0.33 0.54 0.55
+2.25 0.44 0.51 0.53 0.55 0.56 0.57
+2) U4 Gl O55 O57 O58 0.60
+275 0.44 O41 : O56 0.58 0.60 O42
+3.00 and 0.44 O51 0.57 0.60: 9.62 6.63
+above
+~~ D>
+
+4/ 4
+````
+
 ## 2015-16 · Re-Exam · Sem 7 · paper 82a6c67a900d
 
 - Departments: Civil
@@ -4565,137 +4915,6 @@ above
 ~— ¥
 ````
 
-## 2015-16 · Re-Exam · Sem 7 · paper 8311065f8db4
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/THEORY OF REINFORCED CONCRETE AND PREST_a53aec72/Theory of Reinforced...Re-exam 2015-16-17-18.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 January 2019
-- Text: ocr (2 pages), mean OCR confidence 94.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (Civil) Year: IV Semester : VII
-Academic Year: 2018-2019
-
-! Subject: Theory of Reinforced concrete and Prestressed Concrete Marks: 60
-
-n
-
-Time: 2.00 pm to 5.00 pm
-Date: 11 January 2019
-
-Durations: 3 (hrs)
-
-No. of Pages: _ O7
-
-Re- examination (2015- -16/2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1.. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any Four questions.
-
-3. Inall Five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume suitable data if necessary.
-
-8. Use of IS 456 is permitted in examination.
-
-SSMS GNNERSIO EF
-
-Q.1 a. Differentiate between one way slab and two way slab. [03]
-b. Enlist all the design constants used in working stress method considering M30
-concrete and Fe415 steel. [03]
-c. Explain pressure line in prestressed concrete section- [03]
-d. Why high strength concrete and high strength steel is required in prestressed
-concrete section? [03]
-
-Q.2 a. Areinforced concrete beam is simply suppurted ot on a span of 3 m and carries a
-superimposed load of 20 kN/m over the entire span. The cross section of the
-beam is 230 x 600 mm overall and is reinforced with 3 bars of 16 mm diameter
-on tension side. Determine the stresses developed in concrete and steel
-assuming M-20 grade of concrete and Fe-415 grade of steel. [06]
-
-b. A reinforced concrete beam is simply supported over a span of 5 m and has a
-
-cross section of 230 x 450 mm overall. It is subjected to a superimposed
-
-uniformly distributed load of 25 kN/m over the entire span. Design a doubly
-reinforced section if M-20 grade of concrete and Fe-415 grade of steel is used. [06]
-
-3 a. A Tee beam has following cross section properties. Width of flange = 1000 mm,
-
-depth of flange = 100 mm, width of rib = 300 mm and overall depth of 750 mm.
-
-It is simply supported over a span of 6 m and carries a uniformly distributed
-
-load of 30 kN/m inclusive of its self-weight. Considering M-20 grade of
-concrete and Fe-415 grade of steel, determine the area of tension steel required. [06]
-
-b. A reinforced concrete beam is simply supported over a span of 5m and carries
-
-a load of 40 kN/m over the entire span. The cross section of the beam is
-
-230 x 750 mm overall and is reinforced with 6 bars of 25 mm diameter on
-
-tension side. Design shear reinforcement for the beam assuming M-20 grade of
-concrete and Fe-415 grade of steel. [06]
-
-Q4 Design a RCC slab over a clear room size of 3.2 m X 7.5 m. the slab is simply
-supported on all sides. Slab carries a live load of 4.0 kN/m? and a floor finish of
-1.5 KN/m?. Consider M-20 grade of concrete and Fe-415 grade of steel. Draw
-the details of reinforcements along section through short span. [12]
-
-Page | of 2
---- page 2 ---
-Q5 a.
-
-Q.6
-
-Q.7 a.
-
-Design a short square column to support an axial compressive load of 2000 kN.
-The length of the column is 10 m and both the ends of the column are effectively
-held in position and restrained against rotation. Consider M-20 grade of
-concrete and Fe- 415 grade of steel. [06]
-A prestressed concrete beam of span 20 m has a rectangular cross section
-300 mm X 600 mm. The beam supports a live load of 20 kN/m inclusive of its
-own weight over entire span. The beam is prestressed with a triangular cable
-profile concentric at support and with an eccentricity of 250 mm below CGC at
-mid-span with a prestressing force of 2000 KN. Plot the variation of pressure
-line or thrust line mentioning their values at mid-span and quarter-span section. [06]
-A prestressed concrete girder has an unsymmetrical cross-section and has
-following properties: Top flange = 1500 mm wide and 200 mm depth, Bottom
-flange = 750 mm wide and 400 mm deep, web thickness = 300 mm and overall
-depth = 1800 mm. The girder has a span of 20 m and carries a live load of
-20 kN/m. The girder is prestressed with an initial prestressing force of 2500 kN
-and losses are expected to be 15%. The cable profile is parabolic with
-eccentricity of 150 mm and 900 mm measured from soffit of the girder at
-mid-span and at support respectively. Determine the stresses at mid-span and at
-support section at transfer and at service stage. [12]
-Explain the losses in prestressed concrete section in detail. [06]
-A post-tensioned beam 300 mm wide and 600 mm deep and 15 m length is
-prestressed by 10 wires of 7 mm diameter initially stressed to 1000 MPa with
-their centroids located 100 mm from the soffit. Determine the losses in prestress
-due to elastic deformation of concrete, creep, shrinkage, anchorage slip, friction
-and relaxation of wires. Use the following data: E; = 210 GPa, Ec = 35 GPa,
-Creep coefficient = 1.6, Total residual shrinkage strain = 200 x 10°, relaxation
-of wires = 5%, stressing done from one end in two stages, k = 0.0015 per meter,
-anchorage slip = 5 mm. [06]
-
-Page 2 of 2
-````
-
 ## 2014-15 · Final-Exam · Sem 6 · paper be929cc49ede
 
 - Departments: Civil
@@ -4703,6 +4922,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/THEORY OF REINFORCED CONCRETE AND PRETR_e88ee2e4/THEORY OF REINFORCED CONTRETE AND PRESTRESSED CONCRETE 2014-15 FINAL EXAM.pdf`
 - Printed on paper: exam date: 07/05/2015
 - Text: ocr (4 pages), mean OCR confidence 81.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4837,7 +5057,6 @@ S \ \ oS a, NE 2
 o \ N ~ —~ &* 129
 gz 12 ‘ea ad
 eee
-z Ww = ~~ fi =199 oe ee ae |
 & ee i ee
 z 197290
 a
@@ -4868,7 +5087,6 @@ Table 27 Bending Moment Cvefficients for Slabs Spanning in {wo Directions at
 Right Angles, Simply Supported on Four Sides
 (Clause D-2.1) :
 
-LA, 1.6 hi 12 id i ha. lard) eG a5
 a, 0.062 0.074 0.084 0.093 0.099 0104 0.013 O18 0.122
 a, 0.062 0.061 0.059 0.085 0.05) (0,086 0.037 ° 0.029 0,020
 — Table 24 Maxinium Shear Stress, 1... N/mm?
@@ -5144,223 +5362,4 @@ above
 aly
 
 A/4
-````
-
-## 2014-15 · Re-Exam · Sem 6 · paper ee3c0ae3cb1f
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/THEORY OF REINFORCED CONCRETE AND PRETR_e88ee2e4/THEORY OF REINFORCED CONCRETE AND PRESTRESSED CONCRETE BATCH 2014-15 RE EXAM_ee3c0ae3cb.pdf`
-- Printed on paper: exam date: 07/05/2016
-- Text: ocr (4 pages), mean OCR confidence 83.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Civil) Year: III Semester: VI
-
-Academic Year: 2015-16
-Batch: 2014-15
-
-Subject: Theory of Reinforced Concrete and Prestressed Concrete Mark
-
-Date: 07/05/2016
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary and state it clearly
-
-8) Use of IS 456 and IS 1343 is not permitted
-
-Q.la From the basic principles, derive the equations for neutral axis constant, lever arm 6
-constant, constant for moment of resistance and percentage tension reinforcement for a
-balanced rectangular cross section.
-
-b_ Explain the significance of kern point distances for a pre-stressed concrete section with 6
-neat sketches.
-
-Q.2a A beam 230 mm X 450 mm overall is reinforced with 3 bars of 25 mm diameter on 6
-tension side and 2 bars of 20 mm diameter on compression side. The clear cover to
-
-sain ceinfore
-main reimiore
-
-im safe sunerimposed udl the
-um safe superimposed ud! the
-
-ement is 25 mm. Deteritiine the
-beam can carry if it is simply supported over a span of 4 m. Consider grade of coricrete
-as M20 and grade of steel as Fe-415.
-
-b A T beam has a flange width of 1200 mm, effective depth of 550 mm, depth of the 6
-flange as 150 mm and width of the rib as 300 mm. The beam is subjecied to 2 udi of 30
-kN/m over a simply supported span of § m. Determine the area of tension
-reinforcement required. Consider grade of concrete as M20 and grade of steel as
-Fe-415.
-
-V,
---- page 2 ---
-\+ 3 a Design a rectangular column to carry an axial compressive load of 2000 kN. The
-
-colutnn has an unsupported length of 6 m. One end of the column is effectively held in
-position and restrained against rotation while the other end is effectively held in
-position and not restrained against rotation. One side of the column is 230 mm.
-Consider grade of concrete as M20 and grade of steel as Fe-415.
-
-~b° A column 300 mm X 300 mm in cross-section is reinforced with 4 bars of 20 mm
-diameter at a clear cover of 40 mm. A load of 300 KN is applied on the column.
-Determine the maximum eccentricity of the load. Consider grade of concrete as M20
-and grade of steel as Fe-415. Use cracked theory.
-
-Q.4 . Design a roof slab over a room of size 3 m X 5 m. The slab is simply supported on all
-four sides on 230 mm thick walls and corners of the slab are free to lift. Live Joad on
-the slab-is-2°5 KN/m? and floor finish load’is 1 KN/m?. Consider grade of concrete as
-M20 and grade of steel as Fe-415. Show the reinforcement details in typical mid-span
-section along short span and along long span. Carry out necessary checks.
-
-Q.5a A beam 300 mm x 600 mm overall is reinforced with 6 bars of 25 mm diameter in
-tension zone at an effective cover of 75 mm. The beam is simply supported over a span
-of 9 m and subjected to a load of 40 KN/m over entire span. The width of the support is
-230 mm. Consider grade of concrete as M20 and grade of steel as Fe-415. Design the
-shear reinforcement and sketch the reinforcement details showing zone of minimum
-shear reinforcement and design shear reinforcement.
-
-b A pre-stressed beam 100 mm x 300 mm is pre-stressed with linear cable profile at an
-eccentricity of 45 mm below CGC at centre of the beam and concentric at supports. The
-effective pre-stressing force in the cable is 100 KN. Span of the beam is 5 m and the
-total load including self-weight is 2.5 KN/m. Determine the location of a pressure line at
-mid-span and at quarter span.
-
-Q.6a A pre-stressed concrete beam has a cross section as symmetrical I section and is
-supported over a simply supported span of 8 m. The flanges are 300 mm X 75 mm and
-web is 150 mm thick. The overall depth of the beam is 600 mm. The beam is
-pre-stressed with a parabolic cable with an eccentricity of 250. mm at mid-span and
-concentric at thé supports. The initial pre-stressing force 200 kN and. effective
-
-ce ig 175 KN. The beam is subiected td a live load as 10 KN/m. Draw
-
-© 20a!
-
-the stress : distriban at transfer and at service stage at mid-span and at support section.
-Assume the density of concrete as 24 kKN/m?.
-b Determine the efficiency of pre-stressed concrete symmetrical I section with flanges
-300 mm X 50 mm and web 100 mm thick with overall depth as 600 mm.
-Q.7a_ Explain the loss due to friction in pre-stressed concrete section.
-
-2/4
-
-12
---- page 3 ---
-b_ A post tensioned pre-stressed concrete beam has a cross section as unsymmetrical I_9
-section and is supported over a simply supported span of 25 m. The top flange is 800
-mm X 200 mm, bottom flange is 400 mm x 400 mm and web is 200 mm thick. The
-overall depth of the beam is 1500 mm. It is pre-stressed with 4 cables with effective
-area 500 mm* each initially tensioned to 1200 MPa and located at a distance of 200 mm
-from the soffit of the beam. Calculate the losses due to friction, shrinkage, creep, elastic
-deformation of concrete and relaxation of steel. Use the following data-
-
-k for length effect = 0.3 per 100 m
-
-Modulus of Elasticity of steel and concrete as 210 GPa and 28 GPa respectively
-Creep coefficient = 2.2
-
-Shrinkage strain = 0.0002
-
-Relaxation of steel wires = 3%
-
-Note that the cables are stressed successively.
-
-TATA
-rth AN
-« LAIN UN
-
-J XN N oS f
-“4 = S* 129
-@ 12 NN a fgetas =
-3 NE ae a
-E hain | | tse20-
-Q 06 TF 45 +290
-aw
-6
-4 t
-=
-O% Note: 4g (S STEEL STRESS OF SERVICE
-LOADS WW Nim?
-) O4 o8 2 16 20 26 28 30
-
-PERCENTAGE TENSION REINFORCEMENT
-
-Araaof cross-section of ates] required
-fe 0.58 f, ~
-Aresot cross-section of steel provided
-
-Fig. 4 MopiecaTion Factor For TENSION REINFORCEMENT
-
-B-5.2.1.1 For solid slabs the permissible shear stress
-in concrete shall be kt, where & has the value given
-
-€
-
-below:
-Overall depth 20 oc 275 250 225 200 175 150 or
-of slab, mm =more less
-
-k 1.00 1.05 1.10 1.15 1.201.25 1.30
-
-3/4
---- page 4 ---
-Table 27 Bending Moment Coefficients for Stabs Spanning in Two Directions at
-Right Angles, Simply Supported on Four Sides
-(Clause D-2.1) :
-
-1A, LO it f2 3 4 15 1.75 20 2.5
-a, ‘0.062 0.074 0.084 0.093 0.099 0.104 ).113 O18 0.122
-a, 0.062 0.061 0.059 0,055 0.051 0.046 0.037 0.029 0.020
-
-Table 24 Maximum Sheer Stress, 7, ,,..9 N/mm?
-(Clauses B-5.2.3, B-5.2.3.1, B-5.5.1 and B-6.3.1)
-
-Concrete Grade MIS M20 M25 M30 Mas M 40 and above
-
-as Niomra? 16 18 19 "22 as) 28
-
-100 a Permissibie Shear Stress In Concrete, T., N/mm?
-
-Grade of Concrete
-MIS M20 M25 MM M35 M40
-and above
-qa) (2) @) (4) G) (6) @
-ss O15 O18 O18 0.19 0.20 0.20 0.20
-0.25 0.22 O22 °°: - - 023 0.23 0.23 623
-0.50 0.29 0.30 oa : 6.35 0.31 42
-0.78 ou = 08S 86 0.37 OM 0.38
-1.00 0.37 0.39 O40 Oat 0.42 0.42
-1.25 0.40 0.42 044 045 (4S 0.45
-£.50 0.42 0.45 046 O48 0,49 Gas
-1.75 0.44 0.47 049 ~ 0,50 : 0.52 0.52
-2.00 0.44 0.49 0.51 , 0.33 0.54 0.55
-2.25 0.44 0.51 0.53 0.55 0.56 0.57
-2) U4 Gl O55 O57 O58 0.60
-275 0.44 O41 : O56 0.58 0.60 O42
-3.00 and 0.44 O51 0.57 0.60: 9.62 6.63
-above
-~~ D>
-
-4/ 4
 ````

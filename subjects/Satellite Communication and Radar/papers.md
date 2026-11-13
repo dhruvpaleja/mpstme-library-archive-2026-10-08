@@ -1,8 +1,112 @@
 # Satellite Communication and Radar: question papers in full
 
-10 unique papers · 2016-17 to 2022-23 · Electronics and Telecommunication
+10 unique papers · 2016-17 to 2023-24 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2023-24 · Exam not stated · Sem 6 · paper 0ec55deb4cd2
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/SATELLITE COMMUNICATION AND RADAR/Satellite communication and Radar.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS wa !
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING y
+Academic Year: 2023-2024 SY ie Siaitas oe NA
+
+Program/s: MBA. Tech Year: II] Semester?
+
+Stream/s ; EXTC nie
+
+Subject: Satellite Communication and Radar Time: 3 hrs( 2p" to 5pm )
+Date:_20 /Ap4/ 2024 No. of Pages:02
+
+Marks: 100
+
+Re-Examination (202) -22-)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. Draw diagrams wherever necessary.
+
+Qi Answer briefly: [20]
+CO-2;SO- | a. Explain Kepler’s three laws of planetary motion with the help of diagram. | [05]
+1; BL-2
+CO-2;SO- | b, Discuss orbital effects in communications systems performance. [05]
+1; BL-6
+CO-4;SO- | c, Label, draw and explain a Radar Set and state Radar frequencies. [05]
+6; BL-1,2
+CO-4; SO- | d. Compare CW and FMCW radar and also give their applications. [05]
+6; BL-2
+Q2 a. Distinguish FDMA, TDMA, TDMA techniques with diagram and give [10]
+CO-1; SO- their applications.
+
+1; BL-4
+
+- 0-2: SO- b. Name all six orbital elements and explain each in detail with diagram.
+1; BL-1, 5 [10]
+Q3 a. Discuss Radar system losses with diagrams and mathematical formulation. | [10]
+CO-4; SO-
+1; BL-6
+CO-4; SO- Demonstrate working principle, limitations and applications of Moving
+1; BL-2 b. Target Indicator (MTI) radar system with diagram. [10]
+Q4 a. Classify types of transponder utilized in Communication sub-system. Explain any | [10]
+CO-1; SO- one in detail with block schematic.
+1; BL-2
+CO-2.3: Classify numerous types of satellite orbits and give their applications. [10]
+SO-1: BL-2 b. Explain in short look angle determination with diagram.
+Q5 a. Solve the following: [10]
+
+MTI radar operates at 5 GHz, with a pulse repetition frequency of 800
+
+Page 1 of 2
+--- page 2 ---
+mae - pps. Calculate the lowest three blind speeds of this radar. (3M)
+
+»6; BL- 1 Zhe
+(ii) Calculate the maximum range of a radar system which operates at
+3cm_ with a peak pulse power of 500 kW if its minimum receivable
+power is 10°!3 W, the capture area of its antenna is 5 m?, and the radar
+cross-sectional area of the target is 20 m?.
+
+nent Ib. Develop general link design link equation. Formulate mathematical [10]
+, equations for C/N and G/T ratio in satellite communication.
+
+Q6 a. What are the various segments of Global Positioning System (GPS)? [10]
+CO-4; SO- Illustrate with diagram GPS signal structure.
+
+1; BL-1,2
+
+co-4: so. | >: Illustrate with diagram block schematic of Low noise block converter
+
+1; BL-2 circuit (LNBC). Also specify frequencies at the input and output of LNBC. | [10]
+Q7 a. Name the frequency spectrum used in Indian Regional Navigation Satellite | [07]
+aa po System (IRNSS). Discuss IRNSS architecture with neat block schematic.
+co-3:so. |»: What do you mean by Cross Polarization discrimination and polarization [07]
+2: BL-1,2 isolation? Explain in detail.
+
+noe fem Explain how Radar can detect different types of Radar Clutters in real time | [06]
+
+applications.
+
+Page 2 of 2
+````
 
 ## 2022-23 · Exam not stated · Sem 6 · paper ebd08f604893
 
@@ -108,6 +212,111 @@ CO- 2: b. | Write short note on orbital perturbation. [8]
 S$0-6,7; BL-1
 CO- 3; c. | Explain transmission losses in radio wave propagation. [6]
 $O-6,7: BL-2
+
+Page 2 of 2
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper 5726bdf500f5
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/SATELLITE COMMUNICATION AND RADAR/Satellite Communication and Radar_5726bdf500.pdf`
+- Text: ocr (2 pages), mean OCR confidence 84.1
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2022-2023
+
+Program: MBA Tech_ Year: HI_ Semester: yVi_
+Stream; EXTC_
+
+Subject: _ Satellite Communication and Radar_ Time: _03_hrs (2200pm to S#oopm)
+Date:_4 / 7/2023 . No. of Pages: _02_
+Marks: _100_
+
+Re-Examination (Batch:2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all __5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+
+Answer briefly:(Each question is of four marks) [20]
+Sousa BLA a. | Write the frequency allocated for satellite communication services.
+os _— b. | Define any four orbital elements of satellite communication.
+CO- 3; c. | What is intermodulation noise?
+S0-6,7; BL-2
+CO- 4; d. | List any four applications of RADAR.
+$0-6,7; BL-1
+CO- 4; e. | Define the principle of global positioning systems.
+
+> | 50-65:BL-2 princip g P 8 SY:
+Q2 a . . . . oo.
+pee x Describe orbital effects in satellite communications systems performance. [10]
+80-6.7; BL-2
+CO-3: b | What is rain attenuation? Write the steps to calculate rain attenuation of satellite
+S0-6.7; BL-2 . [10]
+a signals.
+Q3 a. | Derive satellite link power budget equation in terms of carrier to noise ratio for
+[10]
+CO- 3; uplink.
+S0-6,7; BL-3
+b. | Draw and explain telemetry, tracking, command and monitoring systems of
+
+CO- 1; .
+SOE ELS satellite. {10]
+
+Page 1 of 2
+--- page 2 ---
+Q4 a.
+
+co0-3 Explain rain and ice depolarization of satellite signals. aa | [10]
+SO-6,7; BL-2
+CO- 1; b. : ; : : :
+S0-6.7; BL2 Discuss TDMA frame structure with suitable diagram. [10]
+Q5 a.
+CO-4: Explain direct broadcast satellite receiver with suitable diagram. [10]
+S0-6,7; BL-2
+CO-4: b. | Derive radar range equation for minimum detectable signal. Write the factor [10]
+45 1
+$0-6,7; BL-3 affecting radar range equation.
+Q6 a.
+co-4: Define radar cross section of target. Differentiate simple and complex target. [10]
+$0-6,7; BL-
+CO-4: b. | Explain principle, operation, limitations, and application of FMCW radar with [10]
+: 10
+
+80-6,7; BL-2 suitable diagram.
+Q7 a. | Discuss system design considerations for satellite communication. [6]
+CO- 4;
+SO-6,7; BL-2
+oa r b. | A satellite has an apogee and perigee distance from surface of earth are 3936 [6]
+
+km and 615 Km respectively. Determine the orbital period of satellite, velocity
+
+at perigee and apogee point. [Assume radius of earth = 6370km],
+
+3
+
+Kepler's constant = 3.986 « 105 km / 2 ]
+
+td BL c. | Compare single conversion and double conversion transponder of satellite sub [8]
+
+systems.
 
 Page 2 of 2
 ````
@@ -630,6 +839,7 @@ VSAT
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/SATELLITE COMMUNICATION AND RADAR/satellite communication and Radar 2017-18_580cda8cf4.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 30 June 2018
 - Text: ocr (2 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -744,7 +954,6 @@ Q.7(a) Explain Indian Regional Navigational Satellite System architecture and fr
 
 (b) Describe radar antenna scanning and Tracking systems in detail. [07]
 
-i Ko ke i ok 2 ie ak 2 ae 2 2 2 ao 2K Ko ok
 
 Lo
 ````
@@ -962,213 +1171,4 @@ GPS
 [2]
 
 [12]
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 5726bdf500f5
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/SATELLITE COMMUNICATION AND RADAR/Satellite Communication and Radar_5726bdf500.pdf`
-- Text: ocr (2 pages), mean OCR confidence 84.1
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-
-Program: MBA Tech_ Year: HI_ Semester: yVi_
-Stream; EXTC_
-
-Subject: _ Satellite Communication and Radar_ Time: _03_hrs (2200pm to S#oopm)
-Date:_4 / 7/2023 . No. of Pages: _02_
-Marks: _100_
-
-Re-Examination (Batch:2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all __5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-
-Answer briefly:(Each question is of four marks) [20]
-Sousa BLA a. | Write the frequency allocated for satellite communication services.
-os _— b. | Define any four orbital elements of satellite communication.
-CO- 3; c. | What is intermodulation noise?
-S0-6,7; BL-2
-CO- 4; d. | List any four applications of RADAR.
-$0-6,7; BL-1
-CO- 4; e. | Define the principle of global positioning systems.
-
-> | 50-65:BL-2 princip g P 8 SY:
-Q2 a . . . . oo.
-pee x Describe orbital effects in satellite communications systems performance. [10]
-80-6.7; BL-2
-CO-3: b | What is rain attenuation? Write the steps to calculate rain attenuation of satellite
-S0-6.7; BL-2 . [10]
-a signals.
-Q3 a. | Derive satellite link power budget equation in terms of carrier to noise ratio for
-[10]
-CO- 3; uplink.
-S0-6,7; BL-3
-b. | Draw and explain telemetry, tracking, command and monitoring systems of
-
-CO- 1; .
-SOE ELS satellite. {10]
-
-Page 1 of 2
---- page 2 ---
-Q4 a.
-
-co0-3 Explain rain and ice depolarization of satellite signals. aa | [10]
-SO-6,7; BL-2
-CO- 1; b. : ; : : :
-S0-6.7; BL2 Discuss TDMA frame structure with suitable diagram. [10]
-Q5 a.
-CO-4: Explain direct broadcast satellite receiver with suitable diagram. [10]
-S0-6,7; BL-2
-CO-4: b. | Derive radar range equation for minimum detectable signal. Write the factor [10]
-45 1
-$0-6,7; BL-3 affecting radar range equation.
-Q6 a.
-co-4: Define radar cross section of target. Differentiate simple and complex target. [10]
-$0-6,7; BL-
-CO-4: b. | Explain principle, operation, limitations, and application of FMCW radar with [10]
-: 10
-
-80-6,7; BL-2 suitable diagram.
-Q7 a. | Discuss system design considerations for satellite communication. [6]
-CO- 4;
-SO-6,7; BL-2
-oa r b. | A satellite has an apogee and perigee distance from surface of earth are 3936 [6]
-
-km and 615 Km respectively. Determine the orbital period of satellite, velocity
-
-at perigee and apogee point. [Assume radius of earth = 6370km],
-
-3
-
-Kepler's constant = 3.986 « 105 km / 2 ]
-
-td BL c. | Compare single conversion and double conversion transponder of satellite sub [8]
-
-systems.
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 0ec55deb4cd2
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/SATELLITE COMMUNICATION AND RADAR/Satellite communication and Radar.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS wa !
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING y
-Academic Year: 2023-2024 SY ie Siaitas oe NA
-
-Program/s: MBA. Tech Year: II] Semester?
-
-Stream/s ; EXTC nie
-
-Subject: Satellite Communication and Radar Time: 3 hrs( 2p" to 5pm )
-Date:_20 /Ap4/ 2024 No. of Pages:02
-
-Marks: 100
-
-Re-Examination (202) -22-)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary. Draw diagrams wherever necessary.
-
-Qi Answer briefly: [20]
-CO-2;SO- | a. Explain Kepler’s three laws of planetary motion with the help of diagram. | [05]
-1; BL-2
-CO-2;SO- | b, Discuss orbital effects in communications systems performance. [05]
-1; BL-6
-CO-4;SO- | c, Label, draw and explain a Radar Set and state Radar frequencies. [05]
-6; BL-1,2
-CO-4; SO- | d. Compare CW and FMCW radar and also give their applications. [05]
-6; BL-2
-Q2 a. Distinguish FDMA, TDMA, TDMA techniques with diagram and give [10]
-CO-1; SO- their applications.
-
-1; BL-4
-
-- 0-2: SO- b. Name all six orbital elements and explain each in detail with diagram.
-1; BL-1, 5 [10]
-Q3 a. Discuss Radar system losses with diagrams and mathematical formulation. | [10]
-CO-4; SO-
-1; BL-6
-CO-4; SO- Demonstrate working principle, limitations and applications of Moving
-1; BL-2 b. Target Indicator (MTI) radar system with diagram. [10]
-Q4 a. Classify types of transponder utilized in Communication sub-system. Explain any | [10]
-CO-1; SO- one in detail with block schematic.
-1; BL-2
-CO-2.3: Classify numerous types of satellite orbits and give their applications. [10]
-SO-1: BL-2 b. Explain in short look angle determination with diagram.
-Q5 a. Solve the following: [10]
-
-MTI radar operates at 5 GHz, with a pulse repetition frequency of 800
-
-Page 1 of 2
---- page 2 ---
-mae - pps. Calculate the lowest three blind speeds of this radar. (3M)
-
-»6; BL- 1 Zhe
-(ii) Calculate the maximum range of a radar system which operates at
-3cm_ with a peak pulse power of 500 kW if its minimum receivable
-power is 10°!3 W, the capture area of its antenna is 5 m?, and the radar
-cross-sectional area of the target is 20 m?.
-
-nent Ib. Develop general link design link equation. Formulate mathematical [10]
-, equations for C/N and G/T ratio in satellite communication.
-
-Q6 a. What are the various segments of Global Positioning System (GPS)? [10]
-CO-4; SO- Illustrate with diagram GPS signal structure.
-
-1; BL-1,2
-
-co-4: so. | >: Illustrate with diagram block schematic of Low noise block converter
-
-1; BL-2 circuit (LNBC). Also specify frequencies at the input and output of LNBC. | [10]
-Q7 a. Name the frequency spectrum used in Indian Regional Navigation Satellite | [07]
-aa po System (IRNSS). Discuss IRNSS architecture with neat block schematic.
-co-3:so. |»: What do you mean by Cross Polarization discrimination and polarization [07]
-2: BL-1,2 isolation? Explain in detail.
-
-noe fem Explain how Radar can detect different types of Radar Clutters in real time | [06]
-
-applications.
-
-Page 2 of 2
 ````

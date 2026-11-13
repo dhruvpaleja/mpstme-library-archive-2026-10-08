@@ -194,6 +194,167 @@ BL-4
 ********** 2 **********
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 2 · paper c6e5a0e794d5
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/CRITICAL THINKING IN HUMANITIES/Critical Thinking in Humanities, Sem-II, Final & Re Exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 92.4
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024 ge
+Program/s: B Tech Year: I Semester: IT
+Stream/s CSE-DS:
+
+Subject: Critical Thinking in Humanities “ Time: 3 hrs ( Z,to 32
+Date:_20 / 04/2024 No. of Pages:4
+Marks: 100
+
+Final Examination/Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+é
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any 4 __ questions.
+3) Inall__5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql Answer briefly ; [20]
+CO-1 ; a. What are causal loops? Explain with an example. [3]
+SO- 6/7;
+BL-2
+CO-3 ; b. Discuss the significance of Ashis Nandy’s title “The Intimate Enemy” 3]
+SO-6/7 ;
+~~ | BL-3
+CO-3 ; c. Compare ‘Othering’ and ‘Dichotomous Thinking’ [3]
+SO- 6/7;
+BL-4
+CO- 3; d. Explain the ways in which westernization and globalization have altered | [3]
+SO-6/7 ; caste practices in India.
+BL-5
+CO- 1; & Critical thinkers are not empathetic. Assess this claim. 3]
+SO- 6/7;
+BL-5 :
+CO- 2; f. What is the relationship between the teacher and student in the banking and [3]
+SO- 6/7; problem-posing model of education?
+BL-2
+CO-1 ; g. Supply the missing content and convert the following to (i) a valid [2]
+| SO-6/7 ; argument and (ii) an invalid argument:
+BL-3 If the railway is packed with passengers, it is not a public holiday.
+--- page 2 ---
+Q2 Answer the following questions [20]
+CO-2; a. Compare the banking and problem-posing models on the following points: | [10]
+SO-6/7; objective, outcome and process of education. ‘=
+BL-3
+CO-3; b. What measures did Ambedkar propose to create a casteless society? [5]
+SO-6/7;
+BL-2 i
+CO-3; c. Explain standpoint theory. State its strength and weakness. [5]
+SO-6/7;
+BL-2
+Q3 Answer the following questions [20]
+CO-1; a. Identify and discuss the type of arguments: [10]
+SO-6/7; rN
+BL-3 (i) The Phoenix Mars lander exposed a bright, white substance while
+
+digging in the Maritan soil. The substance vanished after being exposed to
+
+sunlight for several days. The substance must have been water ice if it
+
+vanished when exposed to sunlight for several days. Thus, the Phoenix
+
+lander uncovered water ice.
+
+(ii) If money is the most important thing in life, then we will pursue it for
+
+its own sake. We do not pursue money for its own sake, but rather as a
+
+means to achieve something else. Thus, money is not the naost important
+
+thing in life.
+CO-1; b. Read the following argument, and supplement premises to make it (a) a [10]
+ao deductive argument (b) a weak inductive argument (c) a fallacious a
+
+argument
+
+Some people insist that Americans never really landed on the moon. They
+say that the moon landings were an elaborate hoax. NASA employed
+thousands of people to (allegedly) put astronauts on the moon, but in the
+decades since the first landing, no one involved in the project has claimed
+that the landings were staged. Suppose for a moment that the landings
+were a hoax. It’s ridiculous to think that NASA could have kept all of
+those people silent. Thus, the only reasonable thing to believe is that the
+
+landings were not a hoax.
+--- page 3 ---
+o
+
+Q4 Answer the following questions ! [20]
+CO-1; Write a short note on conditional arguments. Give two examples‘each of [10]
+poate valid and invalid forms of conditionals.
+CO-3; What are the four key features of dichotomous thinking? In the context of | [10]
+SO-6/7; . . . Loe F
+et gender, what is the impact of dichotomous thinking on our society?
+Q5 Answer the following questions [20]
+CO-3; State and discuss the points of agreement and disagreement between [10]
+SO-6/7; Ambedkar and Gandhi when it came to dealing with caste in India.
+BL-1
+CO-1; Define the following and give an example: [5]
+SO-6/7; a. Analogical Induction
+BL-2 b. Slippery Slope Fallacy
+CO-3; Should decolonization be a priority for India in the twenty-first century? If | [5]
+SO-6/7; yes, what are the specific steps that the nation and individual citizens must
+BL-S take towards this?
+Q6 Answer the following questions [20]
+CO-3; Write short notes on: [10]
+SO-6/7;
+BL-2 (i) Orientalism
+(ii) Validity
+
+CO-2; [5]
+SO-6/7; Elaborate on the Problem-Posing Model proposed by Freire by discussing
+BL-3 the following:
+
+a. The name ‘problem-posing’ and what it means
+
+b. The relation between the individuals and reality/world
+CO-1;. The following is a chat between two teachers and this is what one ofthem | [5]
+ie was heard saying. Convert what the teacher said into an argument; clearly
+
+state the premises, conclusions and non-argumentative material.
+--- page 4 ---
+Generative AI such as Chat GPT have made students intellectually lazy
+and dependent. But not dishonest, thank god! Yesterday I asked*in my
+class how many had used Chat GPT to complete their work and nearly all
+hands went up. We want our students to think and articulate their own
+responses. At least that iswhat I think. Unless we are preparing them to
+become like cattle and toe the line. The only way out is to completely ban
+
+Chat GPT.
+
+Q7 Answer the following questions [20]
+CO-1; a. Write short notes on: [10]
+SO-6/7;
+BL-2 (i) Mills Method of Division
+
+(ii) Red Herring Fallacy
+CO-3; b. What is agency? Also, giving examples, discuss the nature of interaction [5]
+SO-6/7; between social structures and an individual’s agency.
+BL-2
+CO-1; Cs List the conditions that strengthen the probability of an enumerative [5]
+SO-6/7; inductive argument being true.
+BL-1
+
+(=>
+````
+
 ## 2023-24 · Re-Exam · Sem 2 · paper b13e09125c6f
 
 - Departments: Common (all branches)
@@ -403,167 +564,6 @@ ae an argument that uses Analogical Induction
 
 a
 \
-````
-
-## 2022-23 · Final + Re-Exam · Sem 2 · paper c6e5a0e794d5
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/CRITICAL THINKING IN HUMANITIES/Critical Thinking in Humanities, Sem-II, Final & Re Exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 92.4
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2023-2024 ge
-Program/s: B Tech Year: I Semester: IT
-Stream/s CSE-DS:
-
-Subject: Critical Thinking in Humanities “ Time: 3 hrs ( Z,to 32
-Date:_20 / 04/2024 No. of Pages:4
-Marks: 100
-
-Final Examination/Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-é
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any 4 __ questions.
-3) Inall__5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql Answer briefly ; [20]
-CO-1 ; a. What are causal loops? Explain with an example. [3]
-SO- 6/7;
-BL-2
-CO-3 ; b. Discuss the significance of Ashis Nandy’s title “The Intimate Enemy” 3]
-SO-6/7 ;
-~~ | BL-3
-CO-3 ; c. Compare ‘Othering’ and ‘Dichotomous Thinking’ [3]
-SO- 6/7;
-BL-4
-CO- 3; d. Explain the ways in which westernization and globalization have altered | [3]
-SO-6/7 ; caste practices in India.
-BL-5
-CO- 1; & Critical thinkers are not empathetic. Assess this claim. 3]
-SO- 6/7;
-BL-5 :
-CO- 2; f. What is the relationship between the teacher and student in the banking and [3]
-SO- 6/7; problem-posing model of education?
-BL-2
-CO-1 ; g. Supply the missing content and convert the following to (i) a valid [2]
-| SO-6/7 ; argument and (ii) an invalid argument:
-BL-3 If the railway is packed with passengers, it is not a public holiday.
---- page 2 ---
-Q2 Answer the following questions [20]
-CO-2; a. Compare the banking and problem-posing models on the following points: | [10]
-SO-6/7; objective, outcome and process of education. ‘=
-BL-3
-CO-3; b. What measures did Ambedkar propose to create a casteless society? [5]
-SO-6/7;
-BL-2 i
-CO-3; c. Explain standpoint theory. State its strength and weakness. [5]
-SO-6/7;
-BL-2
-Q3 Answer the following questions [20]
-CO-1; a. Identify and discuss the type of arguments: [10]
-SO-6/7; rN
-BL-3 (i) The Phoenix Mars lander exposed a bright, white substance while
-
-digging in the Maritan soil. The substance vanished after being exposed to
-
-sunlight for several days. The substance must have been water ice if it
-
-vanished when exposed to sunlight for several days. Thus, the Phoenix
-
-lander uncovered water ice.
-
-(ii) If money is the most important thing in life, then we will pursue it for
-
-its own sake. We do not pursue money for its own sake, but rather as a
-
-means to achieve something else. Thus, money is not the naost important
-
-thing in life.
-CO-1; b. Read the following argument, and supplement premises to make it (a) a [10]
-ao deductive argument (b) a weak inductive argument (c) a fallacious a
-
-argument
-
-Some people insist that Americans never really landed on the moon. They
-say that the moon landings were an elaborate hoax. NASA employed
-thousands of people to (allegedly) put astronauts on the moon, but in the
-decades since the first landing, no one involved in the project has claimed
-that the landings were staged. Suppose for a moment that the landings
-were a hoax. It’s ridiculous to think that NASA could have kept all of
-those people silent. Thus, the only reasonable thing to believe is that the
-
-landings were not a hoax.
---- page 3 ---
-o
-
-Q4 Answer the following questions ! [20]
-CO-1; Write a short note on conditional arguments. Give two examples‘each of [10]
-poate valid and invalid forms of conditionals.
-CO-3; What are the four key features of dichotomous thinking? In the context of | [10]
-SO-6/7; . . . Loe F
-et gender, what is the impact of dichotomous thinking on our society?
-Q5 Answer the following questions [20]
-CO-3; State and discuss the points of agreement and disagreement between [10]
-SO-6/7; Ambedkar and Gandhi when it came to dealing with caste in India.
-BL-1
-CO-1; Define the following and give an example: [5]
-SO-6/7; a. Analogical Induction
-BL-2 b. Slippery Slope Fallacy
-CO-3; Should decolonization be a priority for India in the twenty-first century? If | [5]
-SO-6/7; yes, what are the specific steps that the nation and individual citizens must
-BL-S take towards this?
-Q6 Answer the following questions [20]
-CO-3; Write short notes on: [10]
-SO-6/7;
-BL-2 (i) Orientalism
-(ii) Validity
-
-CO-2; [5]
-SO-6/7; Elaborate on the Problem-Posing Model proposed by Freire by discussing
-BL-3 the following:
-
-a. The name ‘problem-posing’ and what it means
-
-b. The relation between the individuals and reality/world
-CO-1;. The following is a chat between two teachers and this is what one ofthem | [5]
-ie was heard saying. Convert what the teacher said into an argument; clearly
-
-state the premises, conclusions and non-argumentative material.
---- page 4 ---
-Generative AI such as Chat GPT have made students intellectually lazy
-and dependent. But not dishonest, thank god! Yesterday I asked*in my
-class how many had used Chat GPT to complete their work and nearly all
-hands went up. We want our students to think and articulate their own
-responses. At least that iswhat I think. Unless we are preparing them to
-become like cattle and toe the line. The only way out is to completely ban
-
-Chat GPT.
-
-Q7 Answer the following questions [20]
-CO-1; a. Write short notes on: [10]
-SO-6/7;
-BL-2 (i) Mills Method of Division
-
-(ii) Red Herring Fallacy
-CO-3; b. What is agency? Also, giving examples, discuss the nature of interaction [5]
-SO-6/7; between social structures and an individual’s agency.
-BL-2
-CO-1; Cs List the conditions that strengthen the probability of an enumerative [5]
-SO-6/7; inductive argument being true.
-BL-1
-
-(=>
 ````
 
 ## 2022-23 · Final-Exam · Sem 2 · paper ea5fa57ae86b

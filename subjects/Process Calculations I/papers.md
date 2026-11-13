@@ -511,6 +511,7 @@ Page 5 of 3
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/PROCESS CLACULATIONS I/PROCESS CALCULATION I BATCH 2016-2017 RE EXAM.pdf`
 - Text: ocr (4 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -601,7 +602,6 @@ in the figure as shown:
 
 IS Sohd SSy Concentrated
 3 to — -- -
-Rea Evapovatos iy maa uice.
 Yor, Sokid
 
 quice.
@@ -677,6 +677,145 @@ C3H8 on mole basis. Calculate the proportion in which they
 should be mixed.
 
 Page 4 of 4
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper ae944da81442
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/PROCESS CLACULATIONS I/Process Calculations I Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 28/11/2015
+- Text: ocr (3 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CHEMICAL) Year:II . Semester: III
+Academic Year: 2015 - 16
+
+Batch:2013-14
+
+Subject : Process Calculations - I
+
+Date :28/11/2015
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Ql a) How many moles of K2CO;3 will contain 117 kg of ‘K’? 05
+
+b) A sample of gas having volume of 1 m? is compressed to half of its original 05
+volume. The operation is carried out for a fixed mass of gas at constant
+temperature. Calculate the percent increase in pressure.
+
+c) It is desired to make up 1000 kg of a solution containing 35% by weight of 05
+‘A’. Two solutions are available, one containing 10 weight % ‘A’ and other
+containing 50 weight % ‘A’. How many kilograms of each solution will be
+required?
+
+d) In manufacture of sulphur trioxide, feed to a reactor consists of 50 kmol SO, 05
+and 150 kmol air. Calculate the % excess air is used.
+
+Q.2 a) A feed to a continuous fractionating column analyses by weight 28% benzene 08
+and 72% toluene. The analysis of the distillate shows 52 weight% benzene and
+5 weight% benzene was found in the bottom product. Calculate the amount of
+distillate and bottom per 1000 kg of feed per hour. Also calculate % recovery
+of benzene.
+
+b) A multiple effect evaporator system has capacity of processing of one ton per 12
+day of solid caustic soda when it concentrate weak liquors from 4 to 25 %
+(both on mass basis). When the plant is fed with with 5% weak liquorand if it
+is concentrated to 50% (both on mass basis), find the capacity of plant in terms
+of solid caustic soda, assuming water evaporating capacity is same in both the
+cases.
+
+ifs
+--- page 2 ---
+Q.3
+
+Q.4
+
+Q.5
+
+Q.6
+
+The fresh feed to methanol synthesis unit contains 32mole % CO, 64 mole % H, and 4 20
+mole % N> and flows at a rate of 100 mole/hr. The fresh feed is mixed with recycle
+feed flowing at a rate 400 mole/hr to produce a reactor feed containing 13 mole% No.
+The product stream leaving the condenser (after reactor) contains only liquid
+methanol. For preventing a build up of nitrogen in the system, a purge stream is
+withdrawn from the gas stream leaving the condenser. The gases not purged constitute
+
+the stream recycled to the reactor. Compute the production rate of methanol (mole/hr),
+
+the molar flow rate and composition of the purge gas, and the overall and single pass
+conversion.
+
+a) In production of chlorine gas by oxidation of hydrochloric acid gas, airisused 12
+30% in excess of that theoretically required. Based on 4 kmol HCl, calculate:
+i. The weight ratio of air to hydrochioric acid gas in feed.
+ii. If oxidation is 80% complete, find the composition of product stream
+on mole basis.
+
+b) One hundred millilitres per minute of a 5 molar aqueous solution of NaOH
+(sp.gr. 1.18) are mixed with a 10 molar aqueous solution of NaOH (sp. Gr. 08
+1.37). It is desired to produce a solution containing 11.7 mole % NaOH.
+Calculate the required volumetric flow rate (ml/min) of the 10 molar solution.
+
+a) A closed vessel contains a mixture of 40% NO and 60% N20, at a 10
+temperature of 311 K and a pressure of 531.96 kPa. When the temperature is
+increased to 333 K, some of N20, dissociates to NO2 and a pressure rises to
+679.95 kPa. Calculate the composition of gases at 60 °C by weight.
+
+b) A feed containing 60 mole % A, 30 mole % B and 10 mole % inerts enters a 10
+reactor. The product stream leaving the reactor is found to contain 2 mole %
+A. Reaction taking place is: 2A +B=C.
+Find the percentage of original A getting converted to C.
+
+Pure sulphur is burnt in a burner at the rate 0.3 kg/s. Fresh dry air is supplied at 303 K 20
+and 100 kPa. The gases from the burner contain 16.5% SO2, 3% Oy» and rest Nz on
+SO; volume free basis. The gases leave the burner at 1073K and 101.325 kPa .
+Calculate
+I. The fraction of sulphur burnt into SO3.
+Il. The percentage excess air over the amount required to oxidise the
+sulphur to SOz.
+Il. The volume of dry air in m3/sec.
+IV. The volume of burner gases in m3/sec.
+--- page 3 ---
+Q.7
+
+a) An ideal gas mixture contains 40 % N2, 30 % CO and 30 % H2 by volume at
+P= 202.65 kPa (absolute) and 338 K. Calculate:
+i. The partial pressure of each component.
+ii. The mass fraction of nitrogen.
+iii. | The average molecular weight of the gas.
+iv. The density of gas (g/l)
+
+b) Define the following:
+i. Molarity and Molality.
+ii. Limiting reactant and Excess reactant.
+iii. | Recycle ratio and Purge ratio.
+iv. Tie component.
+
+12
+
+08
 ````
 
 ## 2014-15 · Final-Exam · Sem 3 · paper 31435fe386ce
@@ -827,6 +966,315 @@ d) Methods of expressing the composition of Mixtures and Solution. 5
 a i
 
 33
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 8fa2a84b613a
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/PROCESS CLACULATIONS I/PROCESS CALCULATIONS I BATCH 2013-14 RE EXAM_8fa2a84b61.pdf`
+- Printed on paper: max marks: 100; exam date: 28/11/2014
+- Text: ocr (3 pages), mean OCR confidence 93.1
+
+````text
+he SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CHEM) Year:ll Semester: III
+
+Academic Year: 2014-15 Batch: 2013-14
+
+| Subject : Process Calculations I
+Marks: 100
+
+Date : 28/11/2014 Time : 2.00 p
+Durations: 3
+
+Re - Examination
+
+NOTE
+1. Question No.1 is compulsory.
+
+2. Attempt any Four out of remaining Six questions.
+3. Figures in bracket indicate full marks.
+
+Q.1A) — Explain with the help of numerical formulas: (10)
+
+1. Percent Excess
+2. Conversion
+
+3. Yield
+
+4. Selectivity
+
+5. Limiting Reactant
+
+B) _ Give definitions with relevant formulas for any five definitions: (10)
+i) Morality ii) Normality iii) Purge ratio iv) Amagat’s gas law
+v) Percentage excess reactant vi) percentage humidity
+vii) Pressure—absolute, gauge & vacuum.
+Q.2A) Make the following conversion: (10)
+(a) 204 g/L H2SO, to Normality
+(b) 4.8 mg/ml CaCl, To Normality.
+(C) 9 N H3PO, to g/L
+(d) 34.75 g/L HCI To molarity
+(e) 9 Molar K,SO4
+
+B) A multiple-effect evaporator system has a capacity of processing 500
+Kg per day of solid caustic soda when it concentrates weak liquor
+--- page 2 ---
+from 5 to 25% by weight Caustic Soda. When the same plant is fed
+with 8% weak liquor and if it is concentrated to 32% (both on weight
+basis), find the capacity of plant in terms of solid caustic soda.Assume
+that the water evaporating capacity to be same in both cases. (10)
+
+Q.3A) A gas analyzing CO2 = 15.5, CO = 15%, H2 = 13%, Ch4 = 1.5% and N2 =
+55% (by volume) is burnt in furnance with air which is 7% excess over that
+required to burn CO, H2 and CH, completely. Give the analysis of product
+gas mixture, assuming all reaction proceeds to completion. (14)
+
+B) A sample of milliolite lime stone, obtained from Porbandar, Gujrat, is found
+to contain 64.5% CaO(by mass). If this CaO is present as CaCO; in the lime
+stone find the content of CaCO; in the lime stone. (6)
+
+Q.4A) In manufacture of chlorine, feed containing hydrochloric acid gas and air
+are fed to oxidizer. The product gases leaving the oxidizer are found
+to contain 20.2% HCl, 6.3% Oo, 35.9% No, 30% Cl, and 7.6% H,O
+(by weight). Calculate (a) the percent excess air used. (b) The
+composition by weight of gases entering the oxidizer, (c) the degree of
+completion of oxidation. (10)
+
+(B) A gas mixture has the following composition by volume: SO) = 8.5%,
+O,=10% and N> = 81.5%.Find (a) the density of gas mixture at 373K and
+250.65 KPa (gauge):and (b) composition by weight. (10)
+
+Q.5 (A) A wet solid contains 25% moisture and are to be dried to water
+content of 2% by circulating hot air over them. Fresh air contains 0.02% kg
+water vapour per kg dry air and exhaust air contains 0.099 kg water vapor
+per kg dry air. Calculate the volumetric flow rate of fresh air drying 1500
+kg/hr of wet solids if it is available at 320 K and 101.325 kPa pressure. (12)
+
+(B) In production of SO3, 100 kmol of SO, & 100 kmol of air are fed to
+the reactor. If the conversion of SO, is 70%, calculate composition of
+product gases on mole basis. (8)
+
+Q.6 (A) A 100 ml sample of mixture of H, and O was placed in a
+vessel at 291K (18°C) and 101.325 kPa. A spark was applied so that the
+formation of water was complete. The remaining pure gas had a volume of
+--- page 3 ---
+10 ml at 291K (18°C) and 101.325 kPa presuure. If the remaining gas was
+H>, What was the initial mole % of H, in the mixture? (10)
+
+(B) Acoke is known to contain 90% carbon and 10% non- combustible ash (by
+
+weight) (10)
+(a) How many moles of oxygen are theoretically required to burn 100
+kg of coke completely?
+
+(b) If 30% excess air is supplied, calculate the analyses of gases at the
+end of combustion.
+
+Q.7 (A) __ Fresh juice contains 20% solids & 80% water by weight. It is
+concentrated to contain 50% solids by weight. In single evaporation
+system, it is found that volatile constituents of juice escape with
+water leaving flat the concentrated juice with flat taste. To
+overcome this problem, part of fresh juice by passes the evaporator.
+Concentrated juice leaves evaporator with 65%solids. Calculate
+(a)Concentrated juice produced containing 50% solids from 100
+Kg of fresh juice.
+
+(b)Fraction of juice that bypasses the evaporator. (10)
+
+(B) Ethylene Oxide is produced by oxidation of ethylene. 100 kmol
+ethylene & 100 kmol O, are fed to the reactor & the product is found to
+contain 85 kmol ethylene oxide & 5 kmol CO). Calculate: a) % conversion
+
+of ethylene b) % yield of ethylene oxide. (10)
+Ko!
+BR
+ao)
+
+43
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 973876ca5caf
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/PROCESS CLACULATIONS I/PROCESS CALCULATIONS I BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 09/06/2015
+- Text: ocr (3 pages), mean OCR confidence 90.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CHEMICAL) Year:II Semester: III
+
+Academic Year: 2014-15
+
+Batch: 2013-14
+
+Subject :Process Calculations-I Marks: 100
+
+a
+Ve LTTE 9? ms
+
+POON om,
+Time : 2. oops *600pm
+
+Date : 09/06/2015 Durations:3, (rs) «PB ¥ -
+
+NOTE
+
+Ql
+
+Q.2.
+
+Q.3
+
+Re-Examination
+
+Question-No.1is compulsory.
+Attempt any Four out of remaining Six questions.
+Figures in bracket indicate full marks.
+
+Explain the following (Any Four): 20
+a) Raoult’s Law and Henry’s Law. ,
+b) Explain following operation: Extraction & Drying.
+c) Give importance of tie compounds in material balance.
+d) Explain following operation: Mixing & Crystallization.
+e) Write application of Dalton’s and Amagat’s law for ideal gases.
+
+a) A solution of caustic soda contains 20% NaOH by weight. Taking 8
+density of the solution 1.196 Kg/I find the normality, molarity and
+molality of the solution.
+
+b) By electrolyzing a mixed brine, a gaseous mixture is obtained at
+the cathode having the following composition by weight: 12
+Cl= 67%, Bry= 28% and O2= 5%.
+
+Calculate: a) composition of gas by volume, b) average molecular
+weight and c) density of gas mixture at 298 K and 101.325 kPa.
+(Atomic weight Cl= 35.5, Br = 80, O= 16).
+
+a) A mixture of CuSO4.5H2O and FeSO,.7H20 weighing 100 gmin 8
+
+an oven at 373 K for the removal of water of hydration (by
+evaporation). The weight of the mixture after drying is found to
+
+be 60 gm. Calculate the weight ration of the CuSO4.5H2O to
+FeSO,.7HO in the original mixture. (Atomic weieet Cu=63,
+S=32, O=16, Fe=56, H=1).
+
+b) Wet solid containing 50% water and 50% solids : are to be driedto 12
+get solids with 5% water by weight. Fresh air contains 0.010 kg
+water vapour per kg dry air and the air leaving the dryer.contains
+
+Zs
+--- page 2 ---
+Q.4
+
+Q.5
+
+a)
+
+b)
+
+a)
+
+0.05 kg water vapour pet kg dry air. If 100 kg of.dry air enters the
+
+dryer for every kg of dry solids, calculate the quantity of fresh air
+and the fraction of air recirculated and recycle ratio.
+
+In the manufacture of benzaldehyde, a mixture containing dry air
+and toluene fed to a converter at a temperature of 448 K and
+100kPa g pressure. The mixture passes through the catalyst bed in
+the converter. The product gas stream leaves the converter at 468
+K. the reaction occurring is as follows:
+
+CéHsCH3 (g) + O2(g) —~—*   CeHsCHO (g) + H20 (g)
+The dry air is passed at 100% excess so as to maintain the high
+yield of benzaldehyde. The side reaction taking place is
+
+CsHsCH3 (g) + 902 (g) “> 7CO2 (g) + 4420 (g)
+At above mentioned conditions, the overall conversion is 13%
+based on toluene. Approximately 0.5% of the toluene charged
+burns to CO, and HO. Calculate the composition gas stream
+leaving the converter.
+In the Decon process for the manufacture of chlorine for the
+manufacture of chlorine, a dry mixture of hydrochloric acid gas
+and air is passed over a heated catalyst which promotes oxidation
+of acid. Air is used 30% in excess of that theoretically required.
+Calculate the weight of air supplied per kg of the acid.
+(At. weight: Chlorine=35.5, Air contains 23.2% O2 by weight)
+
+The analysis of coal indicates 70% C, 20% H, 2% S and the
+balance non combustible ash (by weight). The coal is burned at a
+rate of 5000 Kg/h and the feed rate of air to the furnace is 50
+kmol/min. All of ash and 6% of the carbon in the fuel leave the
+furnace as a molten slag; the remainder of the carbon leaves in the
+stack gas as CO and CO); the hydrogen in the coal is oxidized to
+water and the sulphur emerges as SO3. The selectivity of CO; to
+CO production is 10:1.
+
+I. Calculate the percent excess air fed to a reactor.
+
+Il. Calculate the mole fraction of the gaseous pollutants: CO
+
+and SO, in stack gas. ae
+
+%
+
+12
+
+12
+--- page 3 ---
+Q.6
+
+Q.7
+
+b) The waste acid from a nitrating process contains 30 % H)SO,,
+35% HNO; , and 35% HO by wt. The acid is to be concentrated
+to contain 39% H»,SO, and 42% HNO; by addition of 10% oleum
+and concentrated nitric acid containing 72% HNO}. Calculate the
+quantities of three acids to be mixed to get 1000 Kg of desired
+mixed acid.
+
+a) Soyabean seeds are extracted with hexane in batch extractors. The
+flaked seeds are found to contain 18.6% oil, 69% solid and 12.4%
+moisture (by weight). At the end of the extraction process, cake is
+separated from hexane — oil mixture. The cake is analysed to
+contain 0.8% oil, 87.7% solids and 11.5% moisture (by weight).
+Find the percentage recovery of oil.
+
+b) An evaporator is fed with 1500 kg/h of a solution containing 10%
+NaCl, 15% NaOH and rest water. In the operation water is
+evaporated and NaCl is precipitated as crystals. The thick liquor
+leaving the evaporator contains 45% NaOH, 2% NaCl and rest
+water. Calculate: a) kg/h water evaporated, b) kg/h salt
+precipitated, c) kg/h thick liquor.
+
+a) 2 liters of NH; at 303 K and 20.265 kPa is neutralized by 135 ml
+of solution of H»SO,. Find the normality of the acid.
+
+b) Convert 200 W in HP and (kgf.m)/s.
+
+c) Find the equivalent moles of Na2SO, in 644 g of NaySO4.10H20
+crystals.
+
+d) Methods of expressing the composition of Mixtures and Solution.
+
+—_———— *’
+
+%
+
+0g
+
+10
+
+10
 ````
 
 ## 2013-14 · Final-Exam · Sem 3 · paper 1c113bd747f8
@@ -1106,452 +1554,4 @@ d) Overall conversion
 —*
 
 w.
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 8fa2a84b613a
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/PROCESS CLACULATIONS I/PROCESS CALCULATIONS I BATCH 2013-14 RE EXAM_8fa2a84b61.pdf`
-- Printed on paper: max marks: 100; exam date: 28/11/2014
-- Text: ocr (3 pages), mean OCR confidence 93.1
-
-````text
-he SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CHEM) Year:ll Semester: III
-
-Academic Year: 2014-15 Batch: 2013-14
-
-| Subject : Process Calculations I
-Marks: 100
-
-Date : 28/11/2014 Time : 2.00 p
-Durations: 3
-
-Re - Examination
-
-NOTE
-1. Question No.1 is compulsory.
-
-2. Attempt any Four out of remaining Six questions.
-3. Figures in bracket indicate full marks.
-
-Q.1A) — Explain with the help of numerical formulas: (10)
-
-1. Percent Excess
-2. Conversion
-
-3. Yield
-
-4. Selectivity
-
-5. Limiting Reactant
-
-B) _ Give definitions with relevant formulas for any five definitions: (10)
-i) Morality ii) Normality iii) Purge ratio iv) Amagat’s gas law
-v) Percentage excess reactant vi) percentage humidity
-vii) Pressure—absolute, gauge & vacuum.
-Q.2A) Make the following conversion: (10)
-(a) 204 g/L H2SO, to Normality
-(b) 4.8 mg/ml CaCl, To Normality.
-(C) 9 N H3PO, to g/L
-(d) 34.75 g/L HCI To molarity
-(e) 9 Molar K,SO4
-
-B) A multiple-effect evaporator system has a capacity of processing 500
-Kg per day of solid caustic soda when it concentrates weak liquor
---- page 2 ---
-from 5 to 25% by weight Caustic Soda. When the same plant is fed
-with 8% weak liquor and if it is concentrated to 32% (both on weight
-basis), find the capacity of plant in terms of solid caustic soda.Assume
-that the water evaporating capacity to be same in both cases. (10)
-
-Q.3A) A gas analyzing CO2 = 15.5, CO = 15%, H2 = 13%, Ch4 = 1.5% and N2 =
-55% (by volume) is burnt in furnance with air which is 7% excess over that
-required to burn CO, H2 and CH, completely. Give the analysis of product
-gas mixture, assuming all reaction proceeds to completion. (14)
-
-B) A sample of milliolite lime stone, obtained from Porbandar, Gujrat, is found
-to contain 64.5% CaO(by mass). If this CaO is present as CaCO; in the lime
-stone find the content of CaCO; in the lime stone. (6)
-
-Q.4A) In manufacture of chlorine, feed containing hydrochloric acid gas and air
-are fed to oxidizer. The product gases leaving the oxidizer are found
-to contain 20.2% HCl, 6.3% Oo, 35.9% No, 30% Cl, and 7.6% H,O
-(by weight). Calculate (a) the percent excess air used. (b) The
-composition by weight of gases entering the oxidizer, (c) the degree of
-completion of oxidation. (10)
-
-(B) A gas mixture has the following composition by volume: SO) = 8.5%,
-O,=10% and N> = 81.5%.Find (a) the density of gas mixture at 373K and
-250.65 KPa (gauge):and (b) composition by weight. (10)
-
-Q.5 (A) A wet solid contains 25% moisture and are to be dried to water
-content of 2% by circulating hot air over them. Fresh air contains 0.02% kg
-water vapour per kg dry air and exhaust air contains 0.099 kg water vapor
-per kg dry air. Calculate the volumetric flow rate of fresh air drying 1500
-kg/hr of wet solids if it is available at 320 K and 101.325 kPa pressure. (12)
-
-(B) In production of SO3, 100 kmol of SO, & 100 kmol of air are fed to
-the reactor. If the conversion of SO, is 70%, calculate composition of
-product gases on mole basis. (8)
-
-Q.6 (A) A 100 ml sample of mixture of H, and O was placed in a
-vessel at 291K (18°C) and 101.325 kPa. A spark was applied so that the
-formation of water was complete. The remaining pure gas had a volume of
---- page 3 ---
-10 ml at 291K (18°C) and 101.325 kPa presuure. If the remaining gas was
-H>, What was the initial mole % of H, in the mixture? (10)
-
-(B) Acoke is known to contain 90% carbon and 10% non- combustible ash (by
-
-weight) (10)
-(a) How many moles of oxygen are theoretically required to burn 100
-kg of coke completely?
-
-(b) If 30% excess air is supplied, calculate the analyses of gases at the
-end of combustion.
-
-Q.7 (A) __ Fresh juice contains 20% solids & 80% water by weight. It is
-concentrated to contain 50% solids by weight. In single evaporation
-system, it is found that volatile constituents of juice escape with
-water leaving flat the concentrated juice with flat taste. To
-overcome this problem, part of fresh juice by passes the evaporator.
-Concentrated juice leaves evaporator with 65%solids. Calculate
-(a)Concentrated juice produced containing 50% solids from 100
-Kg of fresh juice.
-
-(b)Fraction of juice that bypasses the evaporator. (10)
-
-(B) Ethylene Oxide is produced by oxidation of ethylene. 100 kmol
-ethylene & 100 kmol O, are fed to the reactor & the product is found to
-contain 85 kmol ethylene oxide & 5 kmol CO). Calculate: a) % conversion
-
-of ethylene b) % yield of ethylene oxide. (10)
-Ko!
-BR
-ao)
-
-43
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 973876ca5caf
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/PROCESS CLACULATIONS I/PROCESS CALCULATIONS I BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 09/06/2015
-- Text: ocr (3 pages), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CHEMICAL) Year:II Semester: III
-
-Academic Year: 2014-15
-
-Batch: 2013-14
-
-Subject :Process Calculations-I Marks: 100
-
-a
-Ve LTTE 9? ms
-
-POON om,
-Time : 2. oops *600pm
-
-Date : 09/06/2015 Durations:3, (rs) «PB ¥ -
-
-NOTE
-
-Ql
-
-Q.2.
-
-Q.3
-
-Re-Examination
-
-Question-No.1is compulsory.
-Attempt any Four out of remaining Six questions.
-Figures in bracket indicate full marks.
-
-Explain the following (Any Four): 20
-a) Raoult’s Law and Henry’s Law. ,
-b) Explain following operation: Extraction & Drying.
-c) Give importance of tie compounds in material balance.
-d) Explain following operation: Mixing & Crystallization.
-e) Write application of Dalton’s and Amagat’s law for ideal gases.
-
-a) A solution of caustic soda contains 20% NaOH by weight. Taking 8
-density of the solution 1.196 Kg/I find the normality, molarity and
-molality of the solution.
-
-b) By electrolyzing a mixed brine, a gaseous mixture is obtained at
-the cathode having the following composition by weight: 12
-Cl= 67%, Bry= 28% and O2= 5%.
-
-Calculate: a) composition of gas by volume, b) average molecular
-weight and c) density of gas mixture at 298 K and 101.325 kPa.
-(Atomic weight Cl= 35.5, Br = 80, O= 16).
-
-a) A mixture of CuSO4.5H2O and FeSO,.7H20 weighing 100 gmin 8
-
-an oven at 373 K for the removal of water of hydration (by
-evaporation). The weight of the mixture after drying is found to
-
-be 60 gm. Calculate the weight ration of the CuSO4.5H2O to
-FeSO,.7HO in the original mixture. (Atomic weieet Cu=63,
-S=32, O=16, Fe=56, H=1).
-
-b) Wet solid containing 50% water and 50% solids : are to be driedto 12
-get solids with 5% water by weight. Fresh air contains 0.010 kg
-water vapour per kg dry air and the air leaving the dryer.contains
-
-Zs
---- page 2 ---
-Q.4
-
-Q.5
-
-a)
-
-b)
-
-a)
-
-0.05 kg water vapour pet kg dry air. If 100 kg of.dry air enters the
-
-dryer for every kg of dry solids, calculate the quantity of fresh air
-and the fraction of air recirculated and recycle ratio.
-
-In the manufacture of benzaldehyde, a mixture containing dry air
-and toluene fed to a converter at a temperature of 448 K and
-100kPa g pressure. The mixture passes through the catalyst bed in
-the converter. The product gas stream leaves the converter at 468
-K. the reaction occurring is as follows:
-
-CéHsCH3 (g) + O2(g) —~—*   CeHsCHO (g) + H20 (g)
-The dry air is passed at 100% excess so as to maintain the high
-yield of benzaldehyde. The side reaction taking place is
-
-CsHsCH3 (g) + 902 (g) “> 7CO2 (g) + 4420 (g)
-At above mentioned conditions, the overall conversion is 13%
-based on toluene. Approximately 0.5% of the toluene charged
-burns to CO, and HO. Calculate the composition gas stream
-leaving the converter.
-In the Decon process for the manufacture of chlorine for the
-manufacture of chlorine, a dry mixture of hydrochloric acid gas
-and air is passed over a heated catalyst which promotes oxidation
-of acid. Air is used 30% in excess of that theoretically required.
-Calculate the weight of air supplied per kg of the acid.
-(At. weight: Chlorine=35.5, Air contains 23.2% O2 by weight)
-
-The analysis of coal indicates 70% C, 20% H, 2% S and the
-balance non combustible ash (by weight). The coal is burned at a
-rate of 5000 Kg/h and the feed rate of air to the furnace is 50
-kmol/min. All of ash and 6% of the carbon in the fuel leave the
-furnace as a molten slag; the remainder of the carbon leaves in the
-stack gas as CO and CO); the hydrogen in the coal is oxidized to
-water and the sulphur emerges as SO3. The selectivity of CO; to
-CO production is 10:1.
-
-I. Calculate the percent excess air fed to a reactor.
-
-Il. Calculate the mole fraction of the gaseous pollutants: CO
-
-and SO, in stack gas. ae
-
-%
-
-12
-
-12
---- page 3 ---
-Q.6
-
-Q.7
-
-b) The waste acid from a nitrating process contains 30 % H)SO,,
-35% HNO; , and 35% HO by wt. The acid is to be concentrated
-to contain 39% H»,SO, and 42% HNO; by addition of 10% oleum
-and concentrated nitric acid containing 72% HNO}. Calculate the
-quantities of three acids to be mixed to get 1000 Kg of desired
-mixed acid.
-
-a) Soyabean seeds are extracted with hexane in batch extractors. The
-flaked seeds are found to contain 18.6% oil, 69% solid and 12.4%
-moisture (by weight). At the end of the extraction process, cake is
-separated from hexane — oil mixture. The cake is analysed to
-contain 0.8% oil, 87.7% solids and 11.5% moisture (by weight).
-Find the percentage recovery of oil.
-
-b) An evaporator is fed with 1500 kg/h of a solution containing 10%
-NaCl, 15% NaOH and rest water. In the operation water is
-evaporated and NaCl is precipitated as crystals. The thick liquor
-leaving the evaporator contains 45% NaOH, 2% NaCl and rest
-water. Calculate: a) kg/h water evaporated, b) kg/h salt
-precipitated, c) kg/h thick liquor.
-
-a) 2 liters of NH; at 303 K and 20.265 kPa is neutralized by 135 ml
-of solution of H»SO,. Find the normality of the acid.
-
-b) Convert 200 W in HP and (kgf.m)/s.
-
-c) Find the equivalent moles of Na2SO, in 644 g of NaySO4.10H20
-crystals.
-
-d) Methods of expressing the composition of Mixtures and Solution.
-
-—_———— *’
-
-%
-
-0g
-
-10
-
-10
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper ae944da81442
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/PROCESS CLACULATIONS I/Process Calculations I Batch 2013-14 Re Exam.pdf`
-- Printed on paper: exam date: 28/11/2015
-- Text: ocr (3 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CHEMICAL) Year:II . Semester: III
-Academic Year: 2015 - 16
-
-Batch:2013-14
-
-Subject : Process Calculations - I
-
-Date :28/11/2015
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Ql a) How many moles of K2CO;3 will contain 117 kg of ‘K’? 05
-
-b) A sample of gas having volume of 1 m? is compressed to half of its original 05
-volume. The operation is carried out for a fixed mass of gas at constant
-temperature. Calculate the percent increase in pressure.
-
-c) It is desired to make up 1000 kg of a solution containing 35% by weight of 05
-‘A’. Two solutions are available, one containing 10 weight % ‘A’ and other
-containing 50 weight % ‘A’. How many kilograms of each solution will be
-required?
-
-d) In manufacture of sulphur trioxide, feed to a reactor consists of 50 kmol SO, 05
-and 150 kmol air. Calculate the % excess air is used.
-
-Q.2 a) A feed to a continuous fractionating column analyses by weight 28% benzene 08
-and 72% toluene. The analysis of the distillate shows 52 weight% benzene and
-5 weight% benzene was found in the bottom product. Calculate the amount of
-distillate and bottom per 1000 kg of feed per hour. Also calculate % recovery
-of benzene.
-
-b) A multiple effect evaporator system has capacity of processing of one ton per 12
-day of solid caustic soda when it concentrate weak liquors from 4 to 25 %
-(both on mass basis). When the plant is fed with with 5% weak liquorand if it
-is concentrated to 50% (both on mass basis), find the capacity of plant in terms
-of solid caustic soda, assuming water evaporating capacity is same in both the
-cases.
-
-ifs
---- page 2 ---
-Q.3
-
-Q.4
-
-Q.5
-
-Q.6
-
-The fresh feed to methanol synthesis unit contains 32mole % CO, 64 mole % H, and 4 20
-mole % N> and flows at a rate of 100 mole/hr. The fresh feed is mixed with recycle
-feed flowing at a rate 400 mole/hr to produce a reactor feed containing 13 mole% No.
-The product stream leaving the condenser (after reactor) contains only liquid
-methanol. For preventing a build up of nitrogen in the system, a purge stream is
-withdrawn from the gas stream leaving the condenser. The gases not purged constitute
-
-the stream recycled to the reactor. Compute the production rate of methanol (mole/hr),
-
-the molar flow rate and composition of the purge gas, and the overall and single pass
-conversion.
-
-a) In production of chlorine gas by oxidation of hydrochloric acid gas, airisused 12
-30% in excess of that theoretically required. Based on 4 kmol HCl, calculate:
-i. The weight ratio of air to hydrochioric acid gas in feed.
-ii. If oxidation is 80% complete, find the composition of product stream
-on mole basis.
-
-b) One hundred millilitres per minute of a 5 molar aqueous solution of NaOH
-(sp.gr. 1.18) are mixed with a 10 molar aqueous solution of NaOH (sp. Gr. 08
-1.37). It is desired to produce a solution containing 11.7 mole % NaOH.
-Calculate the required volumetric flow rate (ml/min) of the 10 molar solution.
-
-a) A closed vessel contains a mixture of 40% NO and 60% N20, at a 10
-temperature of 311 K and a pressure of 531.96 kPa. When the temperature is
-increased to 333 K, some of N20, dissociates to NO2 and a pressure rises to
-679.95 kPa. Calculate the composition of gases at 60 °C by weight.
-
-b) A feed containing 60 mole % A, 30 mole % B and 10 mole % inerts enters a 10
-reactor. The product stream leaving the reactor is found to contain 2 mole %
-A. Reaction taking place is: 2A +B=C.
-Find the percentage of original A getting converted to C.
-
-Pure sulphur is burnt in a burner at the rate 0.3 kg/s. Fresh dry air is supplied at 303 K 20
-and 100 kPa. The gases from the burner contain 16.5% SO2, 3% Oy» and rest Nz on
-SO; volume free basis. The gases leave the burner at 1073K and 101.325 kPa .
-Calculate
-I. The fraction of sulphur burnt into SO3.
-Il. The percentage excess air over the amount required to oxidise the
-sulphur to SOz.
-Il. The volume of dry air in m3/sec.
-IV. The volume of burner gases in m3/sec.
---- page 3 ---
-Q.7
-
-a) An ideal gas mixture contains 40 % N2, 30 % CO and 30 % H2 by volume at
-P= 202.65 kPa (absolute) and 338 K. Calculate:
-i. The partial pressure of each component.
-ii. The mass fraction of nitrogen.
-iii. | The average molecular weight of the gas.
-iv. The density of gas (g/l)
-
-b) Define the following:
-i. Molarity and Molality.
-ii. Limiting reactant and Excess reactant.
-iii. | Recycle ratio and Purge ratio.
-iv. Tie component.
-
-12
-
-08
 ````

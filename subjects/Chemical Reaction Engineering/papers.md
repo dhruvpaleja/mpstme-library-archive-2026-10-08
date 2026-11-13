@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/CHEMICAL REACTION ENGINEERING/Chemical Reaction Engineering,Final,2022-23.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 22 November 2022
 - Text: ocr (4 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS Mili
@@ -74,7 +75,6 @@ Vy
 Q2 A gas mixture consisting of 50 mol% A and 50 mol% inert enters the reactor with the | [20]
 CO-2; flow rate of 6 lit/s at 144°C and 10atm. The rate data is as follows:
 BL-5
-Xa -ra (mol/l. s) Ka -ra (mol/l. s)
 0 0.0053 0.5 0.00330
 0.1 0.0052 0.6 0.00250
 0.2 0.0050 0.7 0.00180
@@ -211,6 +211,7 @@ hip
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/CHEMICAL REACTION ENGINEERING/Chemical Reaction engineering,Re-exam 2022-23.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 January 2023
 - Text: ocr (4 pages), mean OCR confidence 86.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS :
@@ -313,7 +314,6 @@ Q5 [20]
 CO-1; | a. | Using separate feeds of A and B sketch the contacting pattern and reactor conditions | [6]
 BL-3 , which would best promote the formation of product R for the following systems of
 elementary reactions. , @® AxkQ—> FR Baten
-@ Axe—R 4 Piss sushern aa $s § Ryser
 A —s anoT
 A*Q— RL g ' @D ALB SB Flow
 A — >s Sysien QA —>s Syste
@@ -401,6 +401,7 @@ the R/S ratio produced for 90% conversion of an equimolar feed of Fao = Fpo =
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Chemical Reaction Engineering/Chemical Reaction engg Final 2018-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 16 April 2019
 - Text: ocr (3 pages), mean OCR confidence 86.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4 . SVKM’S NMIMS
@@ -494,7 +495,6 @@ Calculate conversion using
 
 Par . Bo 3 omit
 | 5. (A) Liquid reactant A me ai tee ki Cr k,- ou [molmin [5]
-A 2.6 Yor ka G k= a mint
 a feed of aqueous A(Cao = 40mol/m?) enters a reactor decomposes and a mixture of A,R
 
 and S leaves. Find Cr and Cs and t for Xa= 0.9 in a mixed flow reactor.
@@ -521,7 +521,6 @@ that concentration in the effluent stream from this reactor?
 
 is % [4]
 seed) FR. 10 Co
-R (cles ed) AR - 19 Cm Co
 
 (B) Consider the aqueous reactions,
 
@@ -1126,6 +1125,7 @@ reaction
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/CHEMICAL REACTION ENGINEERING/Chemical Reaction engineering 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2013
 - Text: ocr (3 pages), mean OCR confidence 88.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “am
@@ -1189,7 +1189,6 @@ reaction.
 (10)
 
 (b) Liquid reactant A decomposes as per the scheme given below:
-ne R PR = hq, k) 20-4 wml me
 \ 7 iw,
 6 fbe nm, Kae 2 rye)
 An aqueous feed with Cao = 40 mol/m’ enters a reactor , decomposes and mixture of A, R
@@ -1243,7 +1242,6 @@ re
 maximum concentration of R and the space time at which it occurs is given by
 
 tw aol - = Cpe ae
-ln me 7 Re ~ LF ey
 
 (10)
 Q-5)
@@ -1299,119 +1297,7 @@ he
 3)3
 ````
 
-## 2012-13 · Final-Exam · Trim 8 · paper e8d69fb1e83c
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/CHEMCIAL REACTION ENGINEERING/Chemical Reaction Engineering 2012-2013 FINALscan0077.pdf`
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-—
-
-SVKM’s NMIMS
-
-’rogramme: MBA (Tech) - CHEMICAL Year: II Tri
-
-oy, pS VKM'S
-Academic Year : 2012-2013
-
-Uniy
-Mur nba. S68 de
-
-subject: Chemical Reaction Engineering Mar
-
-ate: 16/01/2013 Damion
-Final - Examination
-
-INSTRUCTIONS: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-NB:
-
-1. Question No. one is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicate full marks.
-
-7. Molecular Weights: O=16,N=14, H=1, C=12.
-
-Q-1)
-
-(a) Differentiate between fixed bed reactor and fluidized bed reactor.
-
-(b) Derive performance equation for PFR and define space time and space velocity.
-(c) What are the non-ideal flow patterns in process equipment?
-
-(d) Explain the effect of early mixing and late mixing in behavior of reactor.
-
-(20 marks)
-Q-2)
-(a) Substance A reacts according to second order kinetics and conversion is 95 % from a single
-j flow reactor. We buy a second unit identical to the first one. For the same degree of
-conversion, by how much is the capacity increased if we operate these two units in parallel or
-series if
-(1) The reactors are both plug flow
-(2) The mixed flow reactors are used in series.
-(20 marks)
-Q3)
-
-(a) The elementary irreversible aqueous phase reaction A+ B ® R+S_ is carried out isothermally
-as given below.
-Equal volumetric flow rates of the two liquid streams are fed in to a 4 It mixing tank. One stream
-q! contains reactant A with Cao = 0.020 mols/It and other contains reactant B with Cgo = 1400 mols/It.
-A mixed stream is passed through a 16 It plug flug flow reactor. It is found that some R is formed in
-a mixing tank, its concentration being 0.002 mols/It. Assume that mixing tank acts as MFR. Find the
-concentration of R at exit of the plug flow reactor and the fraction of initial A that has been
-converted in the system
-
-(10 marks)
-(b) Write the graphical procedure for finding the concentration of the reactant A form the series
-of mixed flow reactors. Explain with diagram. (10 marks)
-
-Vy
---- page 2 ---
-Q-4)
-
-(a) Explain how RTD.of a non-ideal reactor is obtained by experiment. (10 marks)
-
-(b) Drive using material balance the performance equation of Mixed flow reactor to evaluate the
-amount of catalyst to be used for required conversion at a given molar flow rate.
-
-‘ (10 marks)
-Q-5) How much catalyst is needed in a packed bed reactor for 80 % conversion of 100 m°/hr of pure
-gaseous reactant A( Cao= 100 mol/m’) if
-
-1. A> Rand -ra’ =50C, (1 + 0.02 Ca) , mol/kg.hr
-
-2. A®Rand -ra’ =8Ca’, mol/kg.hr (20 marks)
-Q-6) For a pulse input sketch the RTD curve for Tanks- in-series model and define Eg.max, Epinf
-and Ag. Give the relation to find out number of tanks(N) from the above.
-
-(a)IfRTD of Tanks- in-series model gives Fymax = 1.2, find N
-
-(b)If RTD of Tanks- in-series model gives AG =0.6, find N (20 marks)
-
-Bree
-
-Q-7) Attempt any two question from the following.
-(a)Explain the concept of different types of reactors in series with diagram and obtain
-necessary equations.
-(b)Derive performance equation for CSTR and define space time and space velocity.
-(c) Write the merits and demerits of experimental integral reactor and mixed flow reactor.
-
-(20 marks)
-
-2}.
-````
-
-## 2012-13 · Re-Exam · Trim 8 · paper b663f29673c3
+## 2013-14 · Re-Exam · Trim 8 · paper b663f29673c3
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -1539,6 +1425,118 @@ c. Derive batch time equation for first order irreversible constant density reac
 batch reactor.
 
 S/S
+````
+
+## 2012-13 · Final-Exam · Trim 8 · paper e8d69fb1e83c
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/CHEMCIAL REACTION ENGINEERING/Chemical Reaction Engineering 2012-2013 FINALscan0077.pdf`
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+—
+
+SVKM’s NMIMS
+
+’rogramme: MBA (Tech) - CHEMICAL Year: II Tri
+
+oy, pS VKM'S
+Academic Year : 2012-2013
+
+Uniy
+Mur nba. S68 de
+
+subject: Chemical Reaction Engineering Mar
+
+ate: 16/01/2013 Damion
+Final - Examination
+
+INSTRUCTIONS: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+NB:
+
+1. Question No. one is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicate full marks.
+
+7. Molecular Weights: O=16,N=14, H=1, C=12.
+
+Q-1)
+
+(a) Differentiate between fixed bed reactor and fluidized bed reactor.
+
+(b) Derive performance equation for PFR and define space time and space velocity.
+(c) What are the non-ideal flow patterns in process equipment?
+
+(d) Explain the effect of early mixing and late mixing in behavior of reactor.
+
+(20 marks)
+Q-2)
+(a) Substance A reacts according to second order kinetics and conversion is 95 % from a single
+j flow reactor. We buy a second unit identical to the first one. For the same degree of
+conversion, by how much is the capacity increased if we operate these two units in parallel or
+series if
+(1) The reactors are both plug flow
+(2) The mixed flow reactors are used in series.
+(20 marks)
+Q3)
+
+(a) The elementary irreversible aqueous phase reaction A+ B ® R+S_ is carried out isothermally
+as given below.
+Equal volumetric flow rates of the two liquid streams are fed in to a 4 It mixing tank. One stream
+q! contains reactant A with Cao = 0.020 mols/It and other contains reactant B with Cgo = 1400 mols/It.
+A mixed stream is passed through a 16 It plug flug flow reactor. It is found that some R is formed in
+a mixing tank, its concentration being 0.002 mols/It. Assume that mixing tank acts as MFR. Find the
+concentration of R at exit of the plug flow reactor and the fraction of initial A that has been
+converted in the system
+
+(10 marks)
+(b) Write the graphical procedure for finding the concentration of the reactant A form the series
+of mixed flow reactors. Explain with diagram. (10 marks)
+
+Vy
+--- page 2 ---
+Q-4)
+
+(a) Explain how RTD.of a non-ideal reactor is obtained by experiment. (10 marks)
+
+(b) Drive using material balance the performance equation of Mixed flow reactor to evaluate the
+amount of catalyst to be used for required conversion at a given molar flow rate.
+
+‘ (10 marks)
+Q-5) How much catalyst is needed in a packed bed reactor for 80 % conversion of 100 m°/hr of pure
+gaseous reactant A( Cao= 100 mol/m’) if
+
+1. A> Rand -ra’ =50C, (1 + 0.02 Ca) , mol/kg.hr
+
+2. A®Rand -ra’ =8Ca’, mol/kg.hr (20 marks)
+Q-6) For a pulse input sketch the RTD curve for Tanks- in-series model and define Eg.max, Epinf
+and Ag. Give the relation to find out number of tanks(N) from the above.
+
+(a)IfRTD of Tanks- in-series model gives Fymax = 1.2, find N
+
+(b)If RTD of Tanks- in-series model gives AG =0.6, find N (20 marks)
+
+Bree
+
+Q-7) Attempt any two question from the following.
+(a)Explain the concept of different types of reactors in series with diagram and obtain
+necessary equations.
+(b)Derive performance equation for CSTR and define space time and space velocity.
+(c) Write the merits and demerits of experimental integral reactor and mixed flow reactor.
+
+(20 marks)
+
+2}.
 ````
 
 ## 2012-13 · Re-Exam · Trim 8 · paper 1c286df27fa4
@@ -2503,6 +2501,7 @@ End of Paper
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/CHEMCIAL REACTION ENGINEERING/2007-2008(90).pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07th January 2007
 - Text: ocr (2 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -2582,7 +2581,6 @@ I+SolS
 reactant in the feed. Find the rate expression if surface reaction controls. (20)
 
 Q.6 Oxidation of NO is catalyzed by an active carbon according to the following rate:
--t = (po Por )/ (atbp*note poz )
 
 Where a= 0.0001619, b=4.812, c=0.001352, p= partial pressure in atm.
 

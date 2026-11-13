@@ -596,6 +596,7 @@ yy
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/CAD CAM CAE/CAD CAM CIM B TECH (MECHANICAL), 2016-17 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 06 May 2017
 - Text: ocr (2 pages), mean OCR confidence 90.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVEM’s NMIMS
@@ -645,7 +646,6 @@ Q2: (A) Discuss how Internet is an enabling tool for collaborative product devel
 
 improvement of the product cycle. (06)
 32 (A) A-éubic spline is represented by the following equation: (08)
-P(u) = Csu? + Cou? + Cru + Co Where 0 <u<1
 — Where C3, C2, Cy, Co are the polynomial coefficients. Determine the four control points
 of an identical Bezier curve in terms of these coefficients.
 ual (B) Briefly explain the advantages of AS/RS (Automated storage and Retrieval system) in
@@ -669,6 +669,93 @@ present time? : _ (06)
 Q7: (A) What are the canned cycles used on CNC lathes? Explain G71 cycle using suitable (10)
 example for CNC lathe along with diagram.
 (B) Write a brief note on rapid prototyping technology. _ * (02)
+````
+
+## 2015-16 · Final-Exam · paper ab8f9d37072f
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/CAD CAM CAE/CAD CAM CAE B TECH (MECHATORNICS), FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: III Semester: VI
+Academic Year: 2015-2016
+
+Subject : CAD/CAM/CAE
+Marks: 60
+Date : 14/05/2016 Time : 2.00 pm t
+Durations: 3 (hrs)
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q, 1 Solve any Four [12M
+a) Explain Feature based Modeling
+
+b) What is Collaborative Engineering?
+
+c) Write any four G-codes
+
+d) What is group technology?
+
+e) What are CIM benefits?
+
+Q.2 (a) Explain Rapid prototyping technique with neat sketch. [6M]
+(b) What is role of CAD/CAM in CIM? [6M]
+
+Q.3 Write a manual part program for machining the component shown in figure. Assume spindle speed
+as 200rpm and feed rate as 0.5 mm/rev. {12M]
+--- page 2 ---
+.
+
+Q.4 (a) consider a triangle ABC having coordinates A(5,5)B(8,5)C(5,10).determine new vertex position
+positions if (i) the triangle is rotated by 60° anticlockwise about vertex A. (ii) the triangle is scaled by
+
+2times in X direction and 3times in Y direction about vertex A. [6M]
+ae
+
+(b) Explain vars Prototyping {6M]
+
+Qs (a) Explain Generative type Process planning and its benefits. [6M]
+
+(b) Explain Artificial Intelligence in CAPP [6M]
+
+Q.6 (a) Write 3D transformation matrix for translation, scaling and rotation about X-axis (YZ plane),
+Y-axis(ZX plane) and Z-axis(XY plane). [6M]
+
+(b) ) Fit a Cubic Bezier curve for the control points (2,2),(2,3), (3,3)and (3,2).Find the equation of the
+Bezier curve. [6M]
+
+Q.7 Write Short on any three of the following [12M]
+a) Graphics Standards
+
+b) Design for Manufacturing
+
+c) Contact Inspection Methods
+
+d) NC coordinate Systems
+
+e) Bill of Materials
 ````
 
 ## 2015-16 · Final-Exam · Sem 8 · paper 64f0e000cf5f
@@ -792,6 +879,7 @@ d) Similarity coefficient matrix
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/CADCAMCIM/CADCAMCAE Batch 2015-16 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
 - Text: ocr (2 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Q.1
@@ -887,7 +975,6 @@ a) What are the various approaches available for computer-aided process planning
 
 b) Explain the types of coding systems possible for group technology (06)
 
-FREE EEE EEE ETE EE EEE EEE EE ETT EEEET EEE EEE EEE EEET TEP ETE P EEE PAPE EEE TEETER EE
 
 Alo
 ````
@@ -899,6 +986,7 @@ Alo
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/CAD CAM CAE/CAD CAM CAE B TECH (MECHATRONICS), BATCH 2015-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 05 July 2016
 - Text: ocr (2 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Programme: B.Tech (Mechatronics) Year: III
@@ -975,9 +1063,209 @@ d) Advantages and limitations of CAD/CAM.
 
 (12)
 
-FAIS SISSIES CI GOSS SEI CII ICO FIGS SIOI ICICI GIO GEIS IASI SIGE SSI OI I GIS A Kaa
 
 z/2
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper 8d263d8e24db
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/CAD CAM CAE/CAD CAM CAE B TECH (MECHANICAL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11/05/2016
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Mechanical) Year: IV Semester: VIII
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: CAD/CAM/CAE Marks: 60
+Time: 10.00 a
+Date: 11/05/2016 Durations: 3 hr
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1 (a) Explain product life cycle with CAD/CAM overlay. 6
+(b) Explain with neat sketches, the different layouts of FMS. 6
+
+Q2 (a) Find the equation of Bezier curve defined by four points Po (2, 2), Pi (2, 3), 8
+P> (3, 3) and P3 (3, 2). Also find the points on the curve for u = 0.25, 0.5 &
+
+0.75.
+(b) Explain generative type of process planning in detail. 4
+Q3 Write a manual part program for machining outer surface and drilling the 12
+
+holes for the component as shown in figure below. Assume suitable speed and
+feed for machining.
+
+la 10 through
+L
+/ i
+J
+ie
+na
+R30
+ad 150 Thickness 10 mm
+
+Vo_
+--- page 2 ---
+Q4 (a) Explain CIM wheel in detail.
+“ _(b) Explain different types of engineering database management systems in
+. Ra eta,
+Q5 @ A triangle A(0,0), B(4,0) and C(2,3), is to be translated by 4 units in
+= X-direction and Y-direction, then it is rotated by 90° in anticlockwise
+af : direction about new position of point R. Find the new co-ordinates of the
+triangle.
+(b) Write the benefits of CIM.
+
+Q6 (a) Write a complete APT program for the component as shown in the figure
+below. The component is 5 mm thick. The end mill used is 5 mm
+diameter. Assume spindle speed 1000 rpm and feed 200 mm/rev.
+
+SL &
+ff a x 7
+/ \
+| — eeereneonnaye
+| | |
+on iL4
+\ 212 } js |
+ae yer | = |
+LS aA I~
+
+(b) Justify the need of the graphics standards and list any five.
+
+Q7_ Write short notes on (any three)
+a) Feature based modeling
+bv) Concurrent engineering
+c) Rapid prototyping
+d) Similarity coefficient matrix
+e) Group technology
+
+12
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 8baad25bc2f4
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/CAD CAM CAE/CAD-CAM-CAE Batch 2014-15 RE Exam.pdf`
+- Printed on paper: exam date: 01/12/2015
+- Text: ocr (2 pages), mean OCR confidence 81.5
+
+````text
+: SVKM’s NMIMS
+NN MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (MECHANICAL) Year: lll Semester: V
+
+Academic Year: 2015 - 16
+
+Batch:2014-15
+LUTE OF 7
+| Pe
+Subject : CAD/CAM/CAE Marks:6 9 / »
+
+“uP STB
+Time :}Q38Q0 am - 11. py
+Date :01/12/2015 Durati rs} ie
+
+Re-Examination
+
+y New,
+» = t
+NS Gini OE
+
+Instructions: Candidate should read carefully the instructions printed on the question pa-
+per and on the cover of the answer book, which is provided for their use.
+
+NB.
+1. Question no. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. Inall5 questions to be attempted.
+- 4. All questions carry equal marks.
+5. Answers to be each question to be started on fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1
+Solve any 4 (12)
+a) Write CIM benefits in brief.
+b) What are the salient features of GKS ( Graphical Kernel System).
+c) Write a brief note on B-spline bringing out their important advantages.
+d) What is Structured Query Language (SQL)?
+e) How CAQC can be integrated with CAD and CAM?
+
+(~ f) Why is a recirculating ball screw universally used in the actuation system in CNC machine
+tools?
+
+g) What are the major elements of FMS?
+
+Q.2
+a) How concurrent engineering can help to reduce product development time? (6)
+
+a cacieel : ;
+
+b) Discuss how Internet is an enabling tool for collaborative product development. (6)
+--- page 2 ---
+Q.3
+The following component is to be made using a CNC turning centre equipped with a FANUC
+controller. Prepare the part program using canned cycle to completely machine the part from (tz)
+rolled stock. The work material is aluminum: °
+; 45
+4 <a BO —_-
+<< I7-5 > <0
+5 aan,
+j ' MN
+xX Z ns
+. aN
+| : a |
+—- 20- 4% ~~ 4 _ _ —j{o2 —~H4 | ~   _ to
+eB ,
+bb
+uF | [7
+Cc “Ail Dimensions in mm )
+Q4
+a) Classify a component using either OPITZ or MICLASS system. (€)
+b) What is generative process planning ? 6)
+Qs
+a) Explain with block diagram what you know about EDM (Engineering Data Management)
+systems. (6 )
+b) Write the 3D transformation matrix for the translation, reflection, rotation about X-axis
+(XYZ plane), rotation about Y-axis (ZX plane), scaling. (6)
+Q.6 . . . . F . y
+a) Explain why Bezier surfaces are used in creating automobile bodies. (3)
+b) What is synthetic curve? Give some types of synthetic curves and their applications. (6)
+¢ ) Write Short Note on ‘Bicubic Hermite Spline Surfaces’. * {3 )
+Q.7
+a) Explain the major functions in CIM along with block diagram. (6)
+
+b) Draw and explain CIM wheel of the SME to show involvement of the all the functions of an 6}
+
+(Oo }
+enterprise.
+
+[2h]
 ````
 
 ## 2014-15 · Final-Exam · Sem 8 · paper 38105d15845d
@@ -1161,6 +1449,214 @@ d. Machining centres
 41g
 ````
 
+## 2014-15 · Re-Exam · Sem 8 · paper 9872158c4ba8
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/CAD CAM CAE/CAD CAM CAE B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 01/07/2015
+- Text: ocr (1 page), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (MECH) Year: IV Semester: VIII
+Batch: 2013-14
+Academic Year: 2014-2015 ~
+Subject: CAD/CAM/CAE : é
+Marks: / bo
+Date: 01/07/2015 Time:
+
+Durations:\ 3, (hrs)
+
+ike Gk
+Re-Examination NG ‘
+
+Instructionsto Candidate
+
+1) Attempt any five questions
+
+2) All questions.carry equal marks
+
+3) Assume suitable data wherever necessary
+
+4) Numbers inside the brackets on right indwcate marks.
+
+Q.1) a. List down the fields in which CAD/CAM can be used. Explain how it is useful in
+
+these fields.
+b. What is the basic structure of a CAD/CAM software.
+
+Cisto]
+
+Q.2) a. What is the need of ereplites standards. Explain the methodology on which IGES [io+ 10]
+
+works.
+b. Explain wireframe, surface and solid modds
+
+Q.3) A line with original co-ordinates as (0,0) and (1,3) is rotated by 60° in the anti-
+clockwise direction about first point and then scaled uniformly by a scaling factor of
+3, and is finally translated by a vector 7i + j — 2k.
+i) Determine the concatenated matrix used for above sequential transformation.
+ii) Find the transformed co-ordinates of the line.
+
+Q.4) a. Differentiate between PTP and contouring operations (5+5+10)
+b. Explain the concept of tool compensation.
+c. Enlist the major components of CNC m/c unit
+
+Q.5) a) Generate the motion sequence for the tool that has to traverse the path as indicated
+below. Write corresponding APT statements. (10+10)
+
+—~)
+
+20
+
+&
+
+we a
+(b) What is meant by group technology. Define part family. (10+10)
+
+Q.6) a) Explain computer aided process planning
+b)What are the different technologies of cIM?
+
+Q.7) Write noté on:-
+a) AGV
+b) Concurrent engineering
+c) Any 3 G-codesand 2 M-codes
+d) Differentiate between GOTO and GO/TO
+
+[20]
+
+(2 00 pm to 5.00 pm ¥ &
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper b3a12de0611d
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/CAD CAM CAE/CAD CAM CAE B TECH (MECH), BATCH 201314 RE EXAM.pdf`
+- Printed on paper: exam date: 11/05/2015
+- Text: ocr (3 pages), mean OCR confidence 91.9
+
+````text
+Q.1
+
+Q.2
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) ; Year: IV Semester: VII
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: CAD/CAM/CAE
+Mark: .
+Date: 11/05/2015 Time: 30.00,atn¥o PO, pm
+
+wa. suet Nol A ew I
+Re-Examination MS aiees of
+
+1. Question no. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answers to be each question to be started on fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+solve any 4 (20)
+a) What is CAD system architecture?
+
+b) Write a note on NURBS bringing out their important advantages.
+c) Explain the requirements for a graphic database.
+d) Describe the term ‘Numerical control’.
+
+e) What is the importance of ‘G96’ in CNC lathe programming?
+
+f) Show with diagram, how CAQC can be integrated with CAD and CAM?
+
+a) Discuss the significance of concurrent engineering approach in limiting design changes. (10)
+
+b) Discuss how Internet is an enabling tool for collaborative product development. (10)
+--- page 2 ---
+3
+
+Q.4
+
+a) Write a part program for the machining of following component using G71 cycle for CNC
+lathe machine or using APT language.
+
+Stock dia Positioning point
+i
+
+Stock dimensions: Diameter 180 mm, Length 110 mm
+All dimensions are in mm
+
+b) What are the major elements of FMS?
+
+a) Explain about the Opitz coding system generally used in group technology.
+
+b) What are the various approaches available for computer aided process planning?
+
+(15)
+
+(05)
+
+(10)
+
+(10)
+
+r
+
+P
+--- page 3 ---
+Q.s
+
+Q.6
+
+Q.7
+
+a) A square with an edge length of 10 units is located in the origin with one of the edges at an
+angle of 30° with the X-axis. Calculate the new position of the square if it is rotated about
+the Z-axis by an angle of 30° in the clockwise direction.
+
+YA
+
+b) Write the 3D transformation matrix for the translation, reflection, rotation about X-axis
+(XYZ plane), rotation about Y-axis (ZX plane), rotation about Z-axis (XY plane),
+
+a) A cubic Bézier curve is defined by the control points as (20,20), (60,80), (120,100) and
+(150,30). Find the equation of the curve and its midpoint.
+
+b) Explain any one of the curve-fitting techniques that is relevant in CAD application.
+
+a) Explain the major functions in CIM with the help of flow diagram
+
+b) Draw and explain CIM wheel of the SME to show involvement of the all the functions of an
+enterprise.
+
+r
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+t
+````
+
 ## 2014-15 · Re-Exam · Sem 8 · paper e6ad9d30c7ea
 
 - Departments: Mechanical
@@ -1255,205 +1751,128 @@ FOC OOOO III CC ICICICICI ISIC ICICI ICICI ICICI ICI IOI IEICE AE AK
 A} de
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper 8d263d8e24db
+## 2014-15 · Re-Exam · Sem 5 · paper 8f6eac607187
 
 - Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/CAD CAM CAE/CAD CAM CAE B TECH (MECHANICAL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11/05/2016
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/CAD CAM CAE/CAD CAM CAE BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 02/12/2014
 - Text: ocr (2 pages), mean OCR confidence 88.2
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Mechanical) Year: IV Semester: VIII
-Academic Year: 2015-16
+Programme:MBA Tech (MECH) Year: III Semester: V
 
-Batch: 2014-15
+Academic Year: 2014-15 Batch: 2013-14 Leen,
 
-Subject: CAD/CAM/CAE Marks: 60
-Time: 10.00 a
-Date: 11/05/2016 Durations: 3 hr
+Subject : CAD/CAM/ CAE yy
 
-Re-Examination
+u/ MPSTME
+AUEIERARE Ji
+SF
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Date : 02/12/2014 Time : 10.0 yto 1.00 et
 
-NB:
+Durations:
+Re - Examination
 
-1) Question No. | is compulsory.
+~ ed
+as FO
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
-2) Out of remaining questions, attempt any four questions.
+1. Attempt any 5 questions.
 
-3) In all five questions to be attempted.
+2. Assume suitable data if it is necessary.
 
-4) All questions carry equal marks.
+3. All questions carry equal marks.
 
-5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
+4. Answer to each new question to be started on a fresh page.
 
-Q1 (a) Explain product life cycle with CAD/CAM overlay. 6
-(b) Explain with neat sketches, the different layouts of FMS. 6
+5. Figures in brackets on the right hand side indicate the full marks.
 
-Q2 (a) Find the equation of Bezier curve defined by four points Po (2, 2), Pi (2, 3), 8
-P> (3, 3) and P3 (3, 2). Also find the points on the curve for u = 0.25, 0.5 &
+Q 1. Explain Following terms with suitable figure: (Any Four) [20]
 
-0.75.
-(b) Explain generative type of process planning in detail. 4
-Q3 Write a manual part program for machining outer surface and drilling the 12
+a) Data base requirement of CIM
 
-holes for the component as shown in figure below. Assume suitable speed and
-feed for machining.
+b) Wire frame Modeling
 
-la 10 through
-L
-/ i
-J
-ie
-na
-R30
-ad 150 Thickness 10 mm
+c) Geometric modeling and its function
+d) NC motion control modes
 
-Vo_
+e) Collaborative engineering
+
+f). CAD System architecture
+
+Q 2. a) Define product cycle in CAD/CAM environment with sketch? [10]
+
+b) Explain the role of Concurrent engineering in product design and development? [10]
+
+Q 3. a) Explain the following Graphic exchange standard: [10]
+i. DXF
+iii IGES
+iii. STEP
+
+b) What is Constructive Solid Geometry and also explain B-representation and Sweep
+representation with diagram? [10]
 --- page 2 ---
-Q4 (a) Explain CIM wheel in detail.
-“ _(b) Explain different types of engineering database management systems in
-. Ra eta,
-Q5 @ A triangle A(0,0), B(4,0) and C(2,3), is to be translated by 4 units in
-= X-direction and Y-direction, then it is rotated by 90° in anticlockwise
-af : direction about new position of point R. Find the new co-ordinates of the
-triangle.
-(b) Write the benefits of CIM.
+g the geometric
 
-Q6 (a) Write a complete APT program for the component as shown in the figure
-below. The component is 5 mm thick. The end mill used is 5 mm
-diameter. Assume spindle speed 1000 rpm and feed 200 mm/rev.
+Q 4. a) Explain various graphic transformations required for manipulatin
+[10]
 
-SL &
-ff a x 7
-/ \
-| — eeereneonnaye
-| | |
-on iL4
-\ 212 } js |
-ae yer | = |
-LS aA I~
+information. What do you understand by concatenation?
 
-(b) Justify the need of the graphics standards and list any five.
+Circle, Parabola, Ellipse and line? Also explain
 
-Q7_ Write short notes on (any three)
-a) Feature based modeling
-bv) Concurrent engineering
-c) Rapid prototyping
-d) Similarity coefficient matrix
-e) Group technology
+b) Write down the parametric form of
+[10]
 
-12
-````
+ParaSolid and modeling function of ParaSolid?
+Q5. a) Write a manual CNC part program for a simple job and explain various parameters in the
 
-## 2014-15 · Re-Exam · Sem 5 · paper 8baad25bc2f4
+program. Explain linear and circular interpolations in CNC system, [10]
 
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/CAD CAM CAE/CAD-CAM-CAE Batch 2014-15 RE Exam.pdf`
-- Printed on paper: exam date: 01/12/2015
-- Text: ocr (2 pages), mean OCR confidence 81.5
+b) Write down CNC program for drilling three holes in plate by using APT language? [10]
 
-````text
-: SVKM’s NMIMS
-NN MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+65 mm
+2dftpm
+ez
+P 70 mm
+CNP el
+. OP GS
+30\mm
+30 mm. 70mm 201mm
 
-Programme:MBA Tech (MECHANICAL) Year: lll Semester: V
+soo — 1 OS
+° » Li Li Tit + 20 mm
 
-Academic Year: 2015 - 16
+hnology? State advantages and limitations of GT. Explain the one
+[10]
 
-Batch:2014-15
-LUTE OF 7
-| Pe
-Subject : CAD/CAM/CAE Marks:6 9 / »
+type CAPP systems List down the
+[10]
 
-“uP STB
-Time :}Q38Q0 am - 11. py
-Date :01/12/2015 Durati rs} ie
+Q 6. a) What is group tec
+method of classification of parts in GT.
+b) Differentiate between retrieval type and generative
 
-Re-Examination
+merits and de-merits of each type.
 
-y New,
-» = t
-NS Gini OE
+ment of
 
-Instructions: Candidate should read carefully the instructions printed on the question pa-
-per and on the cover of the answer book, which is provided for their use.
+Q 7. a) What are the various elements of CIM and explain their functions in the improve
+[10]
 
-NB.
-1. Question no. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. Inall5 questions to be attempted.
-- 4. All questions carry equal marks.
-5. Answers to be each question to be started on fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
+quality and quantity of production?
 
-Q.1
-Solve any 4 (12)
-a) Write CIM benefits in brief.
-b) What are the salient features of GKS ( Graphical Kernel System).
-c) Write a brief note on B-spline bringing out their important advantages.
-d) What is Structured Query Language (SQL)?
-e) How CAQC can be integrated with CAD and CAM?
+f data
+[10]
 
-(~ f) Why is a recirculating ball screw universally used in the actuation system in CNC machine
-tools?
-
-g) What are the major elements of FMS?
-
-Q.2
-a) How concurrent engineering can help to reduce product development time? (6)
-
-a cacieel : ;
-
-b) Discuss how Internet is an enabling tool for collaborative product development. (6)
---- page 2 ---
-Q.3
-The following component is to be made using a CNC turning centre equipped with a FANUC
-controller. Prepare the part program using canned cycle to completely machine the part from (tz)
-rolled stock. The work material is aluminum: °
-; 45
-4 <a BO —_-
-<< I7-5 > <0
-5 aan,
-j ' MN
-xX Z ns
-. aN
-| : a |
-—- 20- 4% ~~ 4 _ _ —j{o2 —~H4 | ~   _ to
-eB ,
-bb
-uF | [7
-Cc “Ail Dimensions in mm )
-Q4
-a) Classify a component using either OPITZ or MICLASS system. (€)
-b) What is generative process planning ? 6)
-Qs
-a) Explain with block diagram what you know about EDM (Engineering Data Management)
-systems. (6 )
-b) Write the 3D transformation matrix for the translation, reflection, rotation about X-axis
-(XYZ plane), rotation about Y-axis (ZX plane), scaling. (6)
-Q.6 . . . . F . y
-a) Explain why Bezier surfaces are used in creating automobile bodies. (3)
-b) What is synthetic curve? Give some types of synthetic curves and their applications. (6)
-¢ ) Write Short Note on ‘Bicubic Hermite Spline Surfaces’. * {3 )
-Q.7
-a) Explain the major functions in CIM along with block diagram. (6)
-
-b) Draw and explain CIM wheel of the SME to show involvement of the all the functions of an 6}
-
-(Oo }
-enterprise.
-
-[2h]
+b) What is FMS? List down the benefits of FMS. What are the different types 0
+associated with FMS?
 ````
 
 ## 2013-14 · Final-Exam · Sem 8 · paper cb968f94c633
@@ -1652,89 +2071,6 @@ e. DNC
 Z2)2
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper 9872158c4ba8
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/CAD CAM CAE/CAD CAM CAE B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 01/07/2015
-- Text: ocr (1 page), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (MECH) Year: IV Semester: VIII
-Batch: 2013-14
-Academic Year: 2014-2015 ~
-Subject: CAD/CAM/CAE : é
-Marks: / bo
-Date: 01/07/2015 Time:
-
-Durations:\ 3, (hrs)
-
-ike Gk
-Re-Examination NG ‘
-
-Instructionsto Candidate
-
-1) Attempt any five questions
-
-2) All questions.carry equal marks
-
-3) Assume suitable data wherever necessary
-
-4) Numbers inside the brackets on right indwcate marks.
-
-Q.1) a. List down the fields in which CAD/CAM can be used. Explain how it is useful in
-
-these fields.
-b. What is the basic structure of a CAD/CAM software.
-
-Cisto]
-
-Q.2) a. What is the need of ereplites standards. Explain the methodology on which IGES [io+ 10]
-
-works.
-b. Explain wireframe, surface and solid modds
-
-Q.3) A line with original co-ordinates as (0,0) and (1,3) is rotated by 60° in the anti-
-clockwise direction about first point and then scaled uniformly by a scaling factor of
-3, and is finally translated by a vector 7i + j — 2k.
-i) Determine the concatenated matrix used for above sequential transformation.
-ii) Find the transformed co-ordinates of the line.
-
-Q.4) a. Differentiate between PTP and contouring operations (5+5+10)
-b. Explain the concept of tool compensation.
-c. Enlist the major components of CNC m/c unit
-
-Q.5) a) Generate the motion sequence for the tool that has to traverse the path as indicated
-below. Write corresponding APT statements. (10+10)
-
-—~)
-
-20
-
-&
-
-we a
-(b) What is meant by group technology. Define part family. (10+10)
-
-Q.6) a) Explain computer aided process planning
-b)What are the different technologies of cIM?
-
-Q.7) Write noté on:-
-a) AGV
-b) Concurrent engineering
-c) Any 3 G-codesand 2 M-codes
-d) Differentiate between GOTO and GO/TO
-
-[20]
-
-(2 00 pm to 5.00 pm ¥ &
-````
-
 ## 2013-14 · Re-Exam · Sem 8 · paper 8b9488882acc
 
 - Departments: Mechanical
@@ -1905,340 +2241,4 @@ Ag
 (4X5)
 
 oN
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 8f6eac607187
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/CAD CAM CAE/CAD CAM CAE BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 02/12/2014
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (MECH) Year: III Semester: V
-
-Academic Year: 2014-15 Batch: 2013-14 Leen,
-
-Subject : CAD/CAM/ CAE yy
-
-u/ MPSTME
-AUEIERARE Ji
-SF
-
-Date : 02/12/2014 Time : 10.0 yto 1.00 et
-
-Durations:
-Re - Examination
-
-~ ed
-as FO
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1. Attempt any 5 questions.
-
-2. Assume suitable data if it is necessary.
-
-3. All questions carry equal marks.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate the full marks.
-
-Q 1. Explain Following terms with suitable figure: (Any Four) [20]
-
-a) Data base requirement of CIM
-
-b) Wire frame Modeling
-
-c) Geometric modeling and its function
-d) NC motion control modes
-
-e) Collaborative engineering
-
-f). CAD System architecture
-
-Q 2. a) Define product cycle in CAD/CAM environment with sketch? [10]
-
-b) Explain the role of Concurrent engineering in product design and development? [10]
-
-Q 3. a) Explain the following Graphic exchange standard: [10]
-i. DXF
-iii IGES
-iii. STEP
-
-b) What is Constructive Solid Geometry and also explain B-representation and Sweep
-representation with diagram? [10]
---- page 2 ---
-g the geometric
-
-Q 4. a) Explain various graphic transformations required for manipulatin
-[10]
-
-information. What do you understand by concatenation?
-
-Circle, Parabola, Ellipse and line? Also explain
-
-b) Write down the parametric form of
-[10]
-
-ParaSolid and modeling function of ParaSolid?
-Q5. a) Write a manual CNC part program for a simple job and explain various parameters in the
-
-program. Explain linear and circular interpolations in CNC system, [10]
-
-b) Write down CNC program for drilling three holes in plate by using APT language? [10]
-
-65 mm
-2dftpm
-ez
-P 70 mm
-CNP el
-. OP GS
-30\mm
-30 mm. 70mm 201mm
-
-soo — 1 OS
-° » Li Li Tit + 20 mm
-
-hnology? State advantages and limitations of GT. Explain the one
-[10]
-
-type CAPP systems List down the
-[10]
-
-Q 6. a) What is group tec
-method of classification of parts in GT.
-b) Differentiate between retrieval type and generative
-
-merits and de-merits of each type.
-
-ment of
-
-Q 7. a) What are the various elements of CIM and explain their functions in the improve
-[10]
-
-quality and quantity of production?
-
-f data
-[10]
-
-b) What is FMS? List down the benefits of FMS. What are the different types 0
-associated with FMS?
-````
-
-## Year not stated · Final-Exam · paper ab8f9d37072f
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/CAD CAM CAE/CAD CAM CAE B TECH (MECHATORNICS), FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: III Semester: VI
-Academic Year: 2015-2016
-
-Subject : CAD/CAM/CAE
-Marks: 60
-Date : 14/05/2016 Time : 2.00 pm t
-Durations: 3 (hrs)
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q, 1 Solve any Four [12M
-a) Explain Feature based Modeling
-
-b) What is Collaborative Engineering?
-
-c) Write any four G-codes
-
-d) What is group technology?
-
-e) What are CIM benefits?
-
-Q.2 (a) Explain Rapid prototyping technique with neat sketch. [6M]
-(b) What is role of CAD/CAM in CIM? [6M]
-
-Q.3 Write a manual part program for machining the component shown in figure. Assume spindle speed
-as 200rpm and feed rate as 0.5 mm/rev. {12M]
---- page 2 ---
-.
-
-Q.4 (a) consider a triangle ABC having coordinates A(5,5)B(8,5)C(5,10).determine new vertex position
-positions if (i) the triangle is rotated by 60° anticlockwise about vertex A. (ii) the triangle is scaled by
-
-2times in X direction and 3times in Y direction about vertex A. [6M]
-ae
-
-(b) Explain vars Prototyping {6M]
-
-Qs (a) Explain Generative type Process planning and its benefits. [6M]
-
-(b) Explain Artificial Intelligence in CAPP [6M]
-
-Q.6 (a) Write 3D transformation matrix for translation, scaling and rotation about X-axis (YZ plane),
-Y-axis(ZX plane) and Z-axis(XY plane). [6M]
-
-(b) ) Fit a Cubic Bezier curve for the control points (2,2),(2,3), (3,3)and (3,2).Find the equation of the
-Bezier curve. [6M]
-
-Q.7 Write Short on any three of the following [12M]
-a) Graphics Standards
-
-b) Design for Manufacturing
-
-c) Contact Inspection Methods
-
-d) NC coordinate Systems
-
-e) Bill of Materials
-````
-
-## Year not stated · Re-Exam · Sem 8 · paper b3a12de0611d
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/CAD CAM CAE/CAD CAM CAE B TECH (MECH), BATCH 201314 RE EXAM.pdf`
-- Printed on paper: exam date: 11/05/2015
-- Text: ocr (3 pages), mean OCR confidence 91.9
-
-````text
-Q.1
-
-Q.2
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) ; Year: IV Semester: VII
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: CAD/CAM/CAE
-Mark: .
-Date: 11/05/2015 Time: 30.00,atn¥o PO, pm
-
-wa. suet Nol A ew I
-Re-Examination MS aiees of
-
-1. Question no. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answers to be each question to be started on fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-solve any 4 (20)
-a) What is CAD system architecture?
-
-b) Write a note on NURBS bringing out their important advantages.
-c) Explain the requirements for a graphic database.
-d) Describe the term ‘Numerical control’.
-
-e) What is the importance of ‘G96’ in CNC lathe programming?
-
-f) Show with diagram, how CAQC can be integrated with CAD and CAM?
-
-a) Discuss the significance of concurrent engineering approach in limiting design changes. (10)
-
-b) Discuss how Internet is an enabling tool for collaborative product development. (10)
---- page 2 ---
-3
-
-Q.4
-
-a) Write a part program for the machining of following component using G71 cycle for CNC
-lathe machine or using APT language.
-
-Stock dia Positioning point
-i
-
-Stock dimensions: Diameter 180 mm, Length 110 mm
-All dimensions are in mm
-
-b) What are the major elements of FMS?
-
-a) Explain about the Opitz coding system generally used in group technology.
-
-b) What are the various approaches available for computer aided process planning?
-
-(15)
-
-(05)
-
-(10)
-
-(10)
-
-r
-
-P
---- page 3 ---
-Q.s
-
-Q.6
-
-Q.7
-
-a) A square with an edge length of 10 units is located in the origin with one of the edges at an
-angle of 30° with the X-axis. Calculate the new position of the square if it is rotated about
-the Z-axis by an angle of 30° in the clockwise direction.
-
-YA
-
-b) Write the 3D transformation matrix for the translation, reflection, rotation about X-axis
-(XYZ plane), rotation about Y-axis (ZX plane), rotation about Z-axis (XY plane),
-
-a) A cubic Bézier curve is defined by the control points as (20,20), (60,80), (120,100) and
-(150,30). Find the equation of the curve and its midpoint.
-
-b) Explain any one of the curve-fitting techniques that is relevant in CAD application.
-
-a) Explain the major functions in CIM with the help of flow diagram
-
-b) Draw and explain CIM wheel of the SME to show involvement of the all the functions of an
-enterprise.
-
-r
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-t
 ````

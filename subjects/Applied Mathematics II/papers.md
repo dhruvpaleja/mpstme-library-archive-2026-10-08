@@ -1,10 +1,10 @@
 # Applied Mathematics II: question papers in full
 
-47 unique papers · 2004-05 to 2017-18 · Common (all branches), Data Science
+47 unique papers · 2004-05 to 2018-19 · Common (all branches), Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2017-18 · Re-Exam · Sem 2 · paper e0afa730e50b
+## 2018-19 · Re-Exam · Sem 2 · paper e0afa730e50b
 
 - Departments: Common (all branches), Data Science
 - Programmes: B TECH, B TECH / DATA SCIENCE
@@ -114,32 +114,240 @@ Find the area bounded by y? = 42x, x> 0, y>0.
 Find the area lying between the parabola y = 4x — x? and the line yHx.
 ````
 
-## 2012-13 · Exam not stated · Trim 2 · paper bcc76c88d45d
+## 2015-16 · Re-Exam · Trim 2 · paper a9195c1a75ba
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2009-10,10-11,11-12,12-13 R0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2014
-- Text: ocr (2 pages), mean OCR confidence 76.2
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2010-11, 11-12, 12-13 RE EX0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 23 June 2016
+- Text: ocr (2 pages), mean OCR confidence 78.4
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & Bf
+Mukesh Patel School Of Technolo
 
-SANTO 8
-(gi ee
+Programme: B. Tech (All Streams) Year: I Trimester: II
 
-‘upstmE y
+Academic Year : 2015-2016
 
-Programme: B. Tech (ALL STREAMS) Year: I Trimester: II LIBRAR
-Batch : 2009-10/10-11/11-12/12-13 Ke vanes
-Academic Year: 2013-2014 Ca Tannen *
-Subject : Applied Mathematics —II
-Marks: 100
-Date : 20/06/2014 Time: 10.00 am to 1.00 pm
+Batch: 2010-11/2011-12/2012-13
+Subject: Applied Mathematics - IT Marks: 100
 
-Durations: 3 (hrs)
+Time: 10.00 am - 1.00 pm
+Date: 23 June 2016 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+NB:
+
+a) Question No. 1 is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c) In all five questions to be attempted.
+
+d) All questions carry equal marks.
+
+e) Answer to each new question to be stated on a fresh page.
+
+f) Figure in brackets on the right hand side indicate full marks. =
+Qi a) If tanh x = : then find the value of x & also cosh 2x. (6)
+b) Evaluate Se So fe" xyz dx dy dz. 6)
+c) Evaluate i y*(8 — y3)"V3dy. 6)
+d) Solve [1+log (xy)] dx + (+) dy =0. (5)
+2 iay3/4 “6
+a a) Find all the values of G + H) and show that their continued product is 1. 6)
+b) If sinha + sinh”'b =sinh™'x then prove that x = aV1 + b? + bv1 + a?. (6)
+c) Find the principal value of i!°8¢* and show that its real part is (8)
+
+eW™/9 cos(= log 2).
+
+Q.3 a) Evaluate {ff dxdydz over the volume of the tetrahedron bounded by x = 0,y = 0, (6)
+
+z=0, 2424221,
+a beoe
+
+b) Evaluate ff pox + 4y?)dxdy where R is the region in the upper half of the area (6)
+
+pie bounded by the circle x?+ y?=1 & x?+y?=4.
+c) Find the volume cut off from the paraboloid x? + : y?+ z= 1 by the plane z= 0. 8)
+Q.4 a) Evaluate SS xe~* dx (6)
+
+4
+--- page 2 ---
+b) Evaluate i x sin5x cos*x dx = == (6)
+
+315°
+
+c) State & Prove Duplication formula of Gamma function. (8)
+Q5 a) Change the order of integration and Evaluate iM aie dy dx. (6)
+b) Change to polar coordinates and Evaluate i fy xdxdy. (6)
+a! mw ete 6)
+
+c) Prove that J Ee ax J yre dy = 5
+
+dx
+Q.6 a) Show that Io ares = = cosec (). (6)
+b) Solve using method of variation of parameters (D? + 1)y = cotx. (6)
+a a? d -
+c) Solve x94 + 6x22 4 8x2 4 2y = x? 432-4. (8)
+yi oy 4 (122%) 6
+Q7 Solve 2+ (=F)y=1. (6)
+b) Solve (D? — 2D? — 5D + 6)y = e* +8. (6)
+ay _ ay = 3y2 (8)
+c) Solve — 2= + 4y = 3x 5x+2.
+
+x
+````
+
+## 2014-15 · Exam not stated · Trim 2 · paper 6cb22f065072
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II B TECH (ALL STREAMS) BATCH 10-11,0001.pdf`
+- Printed on paper: exam date: 22/06/2015
+- Text: ocr (2 pages), mean OCR confidence 79.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Trimester: II
+Batch: 2010-11, 2011-12, 2012-13
+Academic Year: 2014-2015
+Subject: Applied Mathematics -II
+Marks: bi ” F
+Date: 22/06/2015 Time: 19.00 am to 1.00pm
+
+Durations: 3 (hes)
+
 Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. one is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+QI (1+i)* (1-3)
+a) Express ; inthe form of a+ib (5)
+
+(1-i)' (1413)
+
+b) Evaluate [xe ae (6)
+0
+c) Solve (sinxcosh y)dx—(cosxsinh y)dy=0; y(0) =3 (5)
+Lx?
+d) Find ff e*ayie , (5)
+00
+2
+Q a) If w=log un(2+8)| , prove that tanh“ = tao” and coshucos@ =1 (8)
+\4 2) 2 2
+b) Find n” roots of unity and prove that they are in geometric progression. (6)
+c) If log(x+iy)=e?"", prove that y = xtan@ where 26 = tang log (x? + y) (6)
+Q3 a) Solve (D? +4)y=x? +sin2x+e™ (8)
+b) sotve S4( = |yex9 ©
+dx \I-x ;
+c) Solve y(t xy)dx + x(l+ xy + x’ y*)dy = 0 (6)
+
+4/2
+--- page 2 ---
+Q4
+
+Q.5
+
+Q.6
+
+Q.7
+
+a) Solve (D? -4D+4)y = e?* sec? x by the method of variation of
+parameters.
+tan“! y
+b) Solve im 7 = ce
+dy yl y +1
+,dy dy
+c) Solve x" a EE Be Y 4 5y=sin(logx
+) ar ot ty (log x)
+1l+x
+a) Prove that pte eat.
+(1+ x) 5005
+%
+b) Evaluate ! cos® 30sin’ 66d0
+c) Evaluate [ |, {log (1/x) dx
+a) Find me mass of a plate which is formed by the co- ordinate planes and the
+plane — ane _ +2 =1, the density is given by p = kxyz
+a c
+b) Evaluate II r? sin@drd@ where R is the region of the circle r =2acos@
+lying abanre the initial line.
+c) Evaluate {iy dxdydz over the region V enclosed by x* + y° =9and planes
+x=0,y=0,z=O0and y=8.
+5 2+x
+a) Change the order of integration and evaluate the integral: { [ dydx
+0 2-x
+8
+b) Evaluate fas —x)(x-3) dx
+3
+c) Show that the principal value of sin” (ix) is ‘log (= +V14+x° )
+
+(8)
+(6)
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+(6)
+````
+
+## 2014-15 · Exam not stated · Trim 2 · paper 999e1e6cdc31
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS-II B TECH (ALL STREAMS), BATCH 2010-0001.pdf`
+- Printed on paper: exam date: 15/12/2014
+- Text: ocr (2 pages), mean OCR confidence 71.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’'s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Trimester: II
+Batch: 2010-11, 2011-12, 2012-13 Zz = Wa, .
+Academic Year: 2014-2015 jeer ao
+Subject: Applied Mathematics -II jf @ f h
+Marks: j Bots Tun 2}
+Date: 15/12/2014 Time: 410. ot er gee
+Durations} rs AGS
+a ai ea
+
+Re-Examination —
 
 Instructions: Candidates should read carefully the instructions printed on the question
 paper and on the cover of the Answer Book, which is provided for their use.
@@ -152,207 +360,75 @@ d) All questions carry equal marks.
 e) Answer to each new question to be stated on a fresh page.
 f) Figure in brackets on the right hand side indicate full marks.
 
-Q.1 . ;
-
-a) Hf arg(z+2i) = A & arg(z—2i)=34/,, find z. (5)
-
-b) Evaluate: [ eh ae. ; (5)
-
-©) Solve: & 4 ¥0osx+siny+Y _ 9. (5)
-
-_ ax sinx+xcosy+x
-ay a? -x?
-d) Evaluate: J J xy dydx . (5)
-0 0
+Q.1
+a) Evaluate [, e* dx. (5)
+Ly ,
+b) Evaluate [fave dxdy | (5)
+00
+(cos 50 —isin 50) (cos 76 + isin 70)"
+c) Prove that 5 goal. (5)
+(cos 46 —isin 40) (cos@ +isind)
+d) Solve {D°+6D* +9D*} y=0. (5)
 Q.2
-1 3"
-a) Find all the values of & 8) and show that their continued product is 1. (8)
-Af: 7]
-
-b) Prove that sech™' (sin @) = log cot = (6)
-
-c) Find the value of log[sin(x + iy)]. ; (6)
-Q.3
-
-mr
-a) Show that [ x” cos ax dx= [mt os (=) . (8)
-a 2
-b) Evaluate: ( sin’ 26d, (6)
-3 |
-c) Evaluate: (x (9 = x)? dx 5 (6)
+oot 2 6 a
+q) Evaluat —= dx fe’ dy=—. 8
+b) Evaluate [,(logx)‘ae. (6)
+c) Evaluate [7 cos’ 30 sin’ 66d0. (6)
+Q3
+a) Solve @ a1-x(y-x)-¥ (ya) (8)
+he
+b) Solve (xy-2y")de-(x° -3xy) dy =0.: (6)
+c) Solve pat} Bo. : (6)
+y jax
 --- page 2 ---
-QA
+Q.4
 
+dxdydz : 242452 —
+a) Evaluate i Vi-v-y-2 over the volume of the sphere ~ +y' +2 =I in the
+positive octant. (8)
+= x2 =
+b) Evaluate {I ydx dV \ here R is the region bounded by” = * >* ty=2. (6)
+R
+1/2 acosO
+2
+9) Evaluate J J rdOdr | (6)
 Q.5
-
-Q.6
-
-Q.7
-
-b) Change to polar coordinates and solve | j
-
-a)
-b)
-
-a)
-b)
-c)
-
-a)
-
-b)
-¢)
-
-a 2a-x
-
-Change the order of integration and solve | f xy dydx.
-
-0 x*/a
-
-a Va?-x? (+/)
-e dydx.
-
-0 0
-
-2ax x
-
-Evaluate: j f [oz dzdydkx .
-
-0O0y
-
-d’y dy
-Solve: (x +2)’ —>7- x42) + y=3xt4.
-e: (x +2) ie ( are y
-
-Solve: (D° _2p?-5D+6)y=e" +8.
-dy : 3 2
-Solve: —-+xsin2y=x cos y-
-dk xsin2y y
-g 4 Ww
-Show that: | ¥ e* dx. | x e* dx= .
-I I ~ 16V2
-
+a) Prove that the general value of (1+/tan a)" is
+enna [cos(logcosa) + isin (log cosa’) |. (8)
+b) Solve x°-i=0. . (6)
 4
-Solve: wy y= ! ee
-dx x +1 (x? +1)
-& 2 2
-Find the area of an ellipse att
-a
+(1+) (1-iv3)
+c) Solve — : (6)
+(1-1) (1+iv3)
+Q.6
+a) Solve (4x?D? —4xD +1) =0 where y(1)=0,y'(1)= V3. (8)
+b) Solve(D? +1)y = sinxsin 2x. (6)
+2
+c) Solve using variation of parameters, a> + y=cosecx. (6)
+M4
+Q.7
+a 2a-x
+‘a) Change the order of integration f J f (x.y) dxdy, (8)
+0 x/a
+sod ~4x*
+b) Evaluate [, (7) > dk (6)
+3/2
+dx. (6)
 
-3x
+1 x! 3 x
+c) Evaluate La [, Gx)” x
 
-d of variation of parameters: (D’? -6D+9)y=—-
-%
-
-im whose base is the triangle in the xy-plane
-
-p lies in the plane z=3-x-y.
-
-Solve by the metho
-
-Find the volume of the pris
-bounded by y=0, y=; and x =1 and whose to
-
-Show that cos50 =5cos@—20 cos? @+16cos’ 0.
-
-2/2
-
-(8)
-
-(6)
-
-(6)
-
-(8)
-
-(6)
-(6)
-
-(8)
-
-(6)
-
-(6)
-
-(8)
-
-(6)
-(6)
+& ¥
 ````
 
-## 2012 · Exam not stated · Trim 2 · paper 2e126b863e37
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II 2012-113.pdf`
-- Printed on paper: exam date: 08/02/2013
-- Text: text (2 pages)
-
-````text
-SVMM's NMIMS
-Mukesh Pate1 School Of Technologv Management & En
-Programme: \   MBA (Tech) -ALL STREAM5   Year:   I
-Academic Year : 2012-2013
-Subject:   APPLIED MATHEMATICS -11
-Date:   08/02/2013
-Final - Examination
-Instructions: Candidates should read caref~~lly the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-a) Question No. 1 is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) In all five questions to be attempted.
-d) All questions carry equal marks.
-e) Answer to each new question to be stated on a fresh page.
-f) Figure in brackets on the right hand side indicate full marks.
-I
-a) Evaluate
-2 r .lc
-b) Evaluate I I I x ? ~ dzdyd~.
-c) Find z, if arg(zc1 =- 7r & arg(z-I)=- 2 r
-' 6   3
-d) Solve ((D' + 1)' (D' + D + I)'} = O .
-X 3 / 2   ls-. dx
-a) Evaluate -
-I-x
-b) Evaluate [ qoe[t 1.".   'Y' C&   ~   1 ,) 'L\ 1 22
-./ %
-i- n
-Evaluate [I4 cos3 20 sin4 40dB.
-Q.3
-I   a) Solve 2xy- dv = (y' + 6 ) + x"' (y' + 6 ) 4 .
-ak
-b) Solve (J~en'+4y1)hi-(xe"'+12xy2 -2y)dy = 0 , y ( 0 ) = 2 .
-c) Solve ylog ydr+(x - logy) dy =0 .
-a) Evaluate f f , hdydz   over the volume of sphere X   ' + ~ ~ + 2 Z = a 2 .   ( 8 )
-v   a - - x   - y -z-
---- page 2 ---
-5   (a) A drop of oil of volume 0.2cc is dropped on a surface of a tank of water of area
-1 sq-m. The film spreads uniformly over the whole surface and white light which is
-incident normally, is observed through a spectrometer. The spectrum is seen to contain
-one dark band whose center has wavelength 5.5x10-~ cm. Find index of refraction of oil
-141
-(b) Explain the formation of Newton's rings and show that the radii of dark rings are
-proportional to under root of wavelength.   [GI
-6   (a) For a grating with grating element 18000 A", calculate the dispersive powers in the
-first and third order spectra around 1 = 5000 A", assuming normal incidence.   141
-(b) Define the resolving power of a grating.   [ 1 1
-(c) Discuss the Fraunhofer diffraction pattern given by a double slit.   [51
-7   (a) What is magnetostriction effect? Draw circuit diagram of magnetostriction oscillator.
-Explain its working.   [61
-(b) Show that for the hndamental mode of vibration, thickness of quartz plate is given by
-t = U2. A quartz crystal of thickness 0.001 m is vibrating at resonance. Calculate the
-fundamental frequency. Calculate the fundamental frequency. Given Y = 7.9 X 10" N 1
-m2 and p = 2650 kg/ m3.   [41
-````
-
-## 2012-13 · Exam not stated · Trim 2 · paper 3c5bbc22f2e1
+## 2014-15 · Exam not stated · Trim 2 · paper 3c5bbc22f2e1
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/Applied Mathematics II Batch 2011-12,2012-130001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16/12/2014
 - Text: ocr (2 pages), mean OCR confidence 72.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -466,7 +542,6 @@ dy
 Solve x? —3x—+5y=sin(log x).
 Te me (log x)
 
-Solve secy © + 2xsin y =2xcosy.
 x
 
 Solve by using method of variation of parameters (D? -6D+ 9) =" .
@@ -518,263 +593,7 @@ y— ~¥
 (6)
 ````
 
-## 2012-13 · Re-Exam · Trim 2 · paper a9195c1a75ba
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2010-11, 11-12, 12-13 RE EX0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 23 June 2016
-- Text: ocr (2 pages), mean OCR confidence 78.4
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technolo
-
-Programme: B. Tech (All Streams) Year: I Trimester: II
-
-Academic Year : 2015-2016
-
-Batch: 2010-11/2011-12/2012-13
-Subject: Applied Mathematics - IT Marks: 100
-
-Time: 10.00 am - 1.00 pm
-Date: 23 June 2016 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-NB:
-
-a) Question No. 1 is compulsory.
-
-b) Out of remaining questions, attempt any 4 questions.
-
-c) In all five questions to be attempted.
-
-d) All questions carry equal marks.
-
-e) Answer to each new question to be stated on a fresh page.
-
-f) Figure in brackets on the right hand side indicate full marks. =
-Qi a) If tanh x = : then find the value of x & also cosh 2x. (6)
-b) Evaluate Se So fe" xyz dx dy dz. 6)
-c) Evaluate i y*(8 — y3)"V3dy. 6)
-d) Solve [1+log (xy)] dx + (+) dy =0. (5)
-2 iay3/4 “6
-a a) Find all the values of G + H) and show that their continued product is 1. 6)
-b) If sinha + sinh”'b =sinh™'x then prove that x = aV1 + b? + bv1 + a?. (6)
-c) Find the principal value of i!°8¢* and show that its real part is (8)
-
-eW™/9 cos(= log 2).
-
-Q.3 a) Evaluate {ff dxdydz over the volume of the tetrahedron bounded by x = 0,y = 0, (6)
-
-z=0, 2424221,
-a beoe
-
-b) Evaluate ff pox + 4y?)dxdy where R is the region in the upper half of the area (6)
-
-pie bounded by the circle x?+ y?=1 & x?+y?=4.
-c) Find the volume cut off from the paraboloid x? + : y?+ z= 1 by the plane z= 0. 8)
-Q.4 a) Evaluate SS xe~* dx (6)
-
-4
---- page 2 ---
-b) Evaluate i x sin5x cos*x dx = == (6)
-
-315°
-
-c) State & Prove Duplication formula of Gamma function. (8)
-Q5 a) Change the order of integration and Evaluate iM aie dy dx. (6)
-b) Change to polar coordinates and Evaluate i fy xdxdy. (6)
-a! mw ete 6)
-
-c) Prove that J Ee ax J yre dy = 5
-
-dx
-Q.6 a) Show that Io ares = = cosec (). (6)
-b) Solve using method of variation of parameters (D? + 1)y = cotx. (6)
-a a? d -
-c) Solve x94 + 6x22 4 8x2 4 2y = x? 432-4. (8)
-yi oy 4 (122%) 6
-Q7 Solve 2+ (=F)y=1. (6)
-b) Solve (D? — 2D? — 5D + 6)y = e* +8. (6)
-ay _ ay = 3y2 (8)
-c) Solve — 2= + 4y = 3x 5x+2.
-
-x
-````
-
-## 2012-13 · Re-Exam · Trim 2 · paper d34d9f1d0617
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2011-12,2012-13 RE EXAM0001 (1).pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3; exam date: 21/06/2014
-- Text: ocr (2 pages), mean OCR confidence 75.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year: Trimester: II
-
-Academic Year: 2013-14 Batch : 2011
-
-Subject : Applied Mathematics II
-%
-Date : 21/06/2014 Time \ 0:99 am-
-_ (ool Durations. 3 (hrs
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-
-a) Question No. 1 is compulsory.
-
-b) Out of remaining questions, attempt any 4 questions.
-
-c) All questions carry equal marks.
-
-d) Answer to each new question to be started on a fresh page.
-e) Figure in brackets on the right hand side indicate full marks.
-
-Qi.
-a) Evaluate (V3 + i)" + (v3 - i)” (5)
-b) Solve (y+1)dx+[x-(y+2)e”]dy=0 (5)
-c) Evaluate | oe dx : (5)
-1 x?
-d) Evaluate Jfe” dy dx 5)
-00
-Q2
-a) If u = log tan( 2 2), prove that (i)coshu =sec@, (8)
-(ii)tanh u = sin @ (iii) tanh = tan 2
-_— bi 2
-b) Show that tan, ilog = =| = —_ (6)
-a+ bi), a~—b
-
-3/4
-c) Find all the values or( he oa and find their continued product (6)
-
-Q3
-
-a) Evaluate J =
-
-o   adx
-} (i+ xy" du Vian (8)
-5) Evaluate i A(x —7)Q1- x) dx ; (6)
-
-“Zs
---- page 2 ---
-c) Show that ‘eon cosax dx = (m cos 22) (6)
-0 a” 2
-
-a4
-a’ a
-a) Solve oe te +e + cos2x (8)
-e*
-b) Solve by method of variation of parameters (DO -6D+9) yas (6)
-x
-dy 3 oin2 . _ 3
-c) Solve a? sin° y+ xsin2y = x (6)
-x
-Q5
-1 4 >
-a) Change the order of integration and evaluate ffe dx dy (8)
-04y
-1 V2x-x?
-b) Change to polar coordinates and evaluate J J (x? + y?)dydx (6)
-0 Xs
-log2 x x+y
-c) Evaiuate J J [ett dx dy dz (6)
-0 0 0
-Q6
-a) Show sat | ————aqe k= * cosec( =| (8)
-0 (a’ - x") n n
-nl6
-b) Evaluate f cos*3@sin* 60 dé (6)
-0
-c) Solve (D‘ -1)y =e* + cosxcos3x . (6)
-Q7 .
-a) Find the continued product of all values of (-1 + iV3)" (8)
-1 Vi+x? 1 (6)
-b) Evaluate —_—_.—— dy dx
-) ! ! L4+ x7 4+ y? ~
-c) Show that sin 50 =5sin@ —-20sin°@+16sin°@ (6)
-x!
-ol
-````
-
-## 2012-13 · Re-Exam · Trim 2 · paper 50d1acfdd784
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/Applied Mathematics II Batch 2012-13 Re Exam (1).pdf` (+2 identical copies)
-- Printed on paper: exam date: 17/06/2013
-- Text: text (2 pages)
-
-````text
-SVI(Mk -8
-2 4-
-hgramme:
-Aaademic Year:2012-2013
-I B ~ c h :   2012-2013
-Subject:   Applied Mathemattas-11
-Time:
-Date:   17/06/2013   Duration: 3 ---.
-Re - Examination   iunq
-----.d d"   7 t, - .f7 \ *,,l~VJ
-N.B:
-a) Question No 1 is compulsory.
-b) Out of remaining questions attempt any 4questiom.
-c) A11 questions wry equal marks
-d) Answer to each new question should be stated on fresh page.
-e) Figure in bracket indicate full marks
-If In = w,show that   = ;;;;-In n+l   and hence find Is .
-121
-Solve - d" -yy=xsinhx.
-dx2
-EvaluateJ:   st-"(x + y)dy dx
-If cosawshp =-; X   sinasinh/3=- Y ,Prowthat   ( I. I :   .   5
-2   2   ,,,,,. ~!! p, <,:   8 , u,, s t   .   I!+(   ,t.: 2..
-sec (a-ip)+ sec(a+ip)= 4x   I . -. g-!2;   .   . . .   * . . I   I . .
-x2+ y2   7 +ti , . --
-Prove that 1+cos6e = 16cos4 8-24cos2 8+9.
-1+cos26'
-Prove that, if n is a positive integer, then
-(a+ib)% + (a-ib)':= 2 ( ~ ) % ma(~m-lk) .
-n   IIa
-Find the .-   of the series, l+xcosa+2 cor:;?rx+2m3a+.................. n   8
-terms, where x <l . Also find the sum to infinity.
-Evaluate J:   1: $7 ex+y+" dx d~ d z
-Evaluate$$$V xZyzdx dy dz where V is the volume bounded by planes x = 0 ; 6
-y=oz=0,*=1
-Explain why dxdy = rdrd8 in polar transformation? Use polar transformation   8
-to compute*$:   som   sin {2(a2-x2 -y2)} dx dy
---- page 2 ---
-Solve tan y -+ dv tanx=cos y.cos3 x
-dx   6
-In a ckuit containinginductance L, resistance R and voltage E, the current I is   6
-given by L-+RI=E. dl   Find the current I at tlmet if at t=O,Z=Oand   L, R, E
-dt
-are constants.
-Solve (D'- 4 ~ + 4 ) = ~ 8a.ez'.sin2x
-Evaluate $: xa-'(log P - l d x (a > 0).
-Evaluate $i(x -cQrn(b-x ) ~ ~ x
-Evaluate Somxrn-'cosux dx = 5cos7
-Usethe method of variation of parameters to solve
-that J;   Jl4(a2-z*1ca-y>h-x1 *'   =~~tjy~iychangingtheorder 6
-If cosec(x+ j)=u+iv, Provethat   8
-Solve y"+ 4y1+4y= 3sinx+4cosx.   I f ~(0)=1(UIEd Y'(O)= 0.   6
-A lamina is bounded by the curvesy = x2 -3%and y = 2%ifthe dodryat any 6
-point is given by ~ x y ,find the mass of the lamina
-Solve (3y-7x+7)dw + (7y-3x+3)dy = 0   I
-````
-
-## 2012-13 · Re-Exam · Trim 2 · paper fb1b1ccf5c2a
+## 2014-15 · Re-Exam · Trim 2 · paper fb1b1ccf5c2a
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -953,7 +772,572 @@ Evaluate { x? (1 — x? y dx
 (6)
 ````
 
-## 2012-13 · Re-Exam · Trim 2 · paper 6d2b68ee8696
+## 2013-14 · Exam not stated · Trim 2 · paper bcc76c88d45d
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2009-10,10-11,11-12,12-13 R0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2014
+- Text: ocr (2 pages), mean OCR confidence 76.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & Bf
+
+SANTO 8
+(gi ee
+
+‘upstmE y
+
+Programme: B. Tech (ALL STREAMS) Year: I Trimester: II LIBRAR
+Batch : 2009-10/10-11/11-12/12-13 Ke vanes
+Academic Year: 2013-2014 Ca Tannen *
+Subject : Applied Mathematics —II
+Marks: 100
+Date : 20/06/2014 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) In all five questions to be attempted.
+d) All questions carry equal marks.
+e) Answer to each new question to be stated on a fresh page.
+f) Figure in brackets on the right hand side indicate full marks.
+
+Q.1 . ;
+
+a) Hf arg(z+2i) = A & arg(z—2i)=34/,, find z. (5)
+
+b) Evaluate: [ eh ae. ; (5)
+
+©) Solve: & 4 ¥0osx+siny+Y _ 9. (5)
+
+_ ax sinx+xcosy+x
+ay a? -x?
+d) Evaluate: J J xy dydx . (5)
+0 0
+Q.2
+1 3"
+a) Find all the values of & 8) and show that their continued product is 1. (8)
+Af: 7]
+
+b) Prove that sech™' (sin @) = log cot = (6)
+
+c) Find the value of log[sin(x + iy)]. ; (6)
+Q.3
+
+mr
+a) Show that [ x” cos ax dx= [mt os (=) . (8)
+a 2
+b) Evaluate: ( sin’ 26d, (6)
+3 |
+c) Evaluate: (x (9 = x)? dx 5 (6)
+--- page 2 ---
+QA
+
+Q.5
+
+Q.6
+
+Q.7
+
+b) Change to polar coordinates and solve | j
+
+a)
+b)
+
+a)
+b)
+c)
+
+a)
+
+b)
+¢)
+
+a 2a-x
+
+Change the order of integration and solve | f xy dydx.
+
+0 x*/a
+
+a Va?-x? (+/)
+e dydx.
+
+0 0
+
+2ax x
+
+Evaluate: j f [oz dzdydkx .
+
+0O0y
+
+d’y dy
+Solve: (x +2)’ —>7- x42) + y=3xt4.
+e: (x +2) ie ( are y
+
+Solve: (D° _2p?-5D+6)y=e" +8.
+dy : 3 2
+Solve: —-+xsin2y=x cos y-
+dk xsin2y y
+g 4 Ww
+Show that: | ¥ e* dx. | x e* dx= .
+I I ~ 16V2
+
+4
+Solve: wy y= ! ee
+dx x +1 (x? +1)
+& 2 2
+Find the area of an ellipse att
+a
+
+3x
+
+d of variation of parameters: (D’? -6D+9)y=—-
+%
+
+im whose base is the triangle in the xy-plane
+
+p lies in the plane z=3-x-y.
+
+Solve by the metho
+
+Find the volume of the pris
+bounded by y=0, y=; and x =1 and whose to
+
+Show that cos50 =5cos@—20 cos? @+16cos’ 0.
+
+2/2
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+(6)
+````
+
+## 2013-14 · Re-Exam · Trim 2 · paper 942eeb9bc2a7
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2008-09,09-10,10-11,11-12 RE EXAN.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 /12/2013
+- Text: ocr (2 pages), mean OCR confidence 75.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (All) : Year: I Trimester : II
+
+Academic Year :2013-14 Batch :2008-09,09-10, 10-11, 11-12
+Subject :Applied Mathematics —II Marks: 100
+
+Date : 13 /12/2013 Time : 10.00 am. - 1.00 pm
+
+Durations:3 Hrs.
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the questi
+
+cover of the Answer Book, which is provided for their use. / guy Xe,
+NB: ae NY,
+a! «PSTMB Vo
+a) Question No. 1 is compulsory. \ 3 4 LIBRA RY s
+b) Out of remaining questions, attempt any 4 questions. \ % ~~ we
+
+Po) x
+c) All questions carry equal marks. YL Annas
+d) Answer to each new question to be started on a fresh page.
+
+e) Figure in brackets on the right hand side indicate full marks.
+
+qi.
+
+a) Evaluate a+iy+qa-iy” (5)
+
+b) Solve (eer )ax ee (1-2 lay =o (5)
+
+y
+
+i -
+
+c) Evaluate [ x’ cos”'xdx ()
+0
+
+. 2 V2x-x?
+
+d) Evaluate J J xy dxdy (5)
+0 0
+
+Q2
+
+a) If coshx = sec, prove that (i) x = log (sec@ + tan@), (8)
+
+(ii)tanh > tan & (ii) @ = 5-2 tan" (e-*)
+
+b) Find the principle value of i'®“*) and hence find its real part. (6)
+
+c) if a@,a@’,a*,a* are the roots of x°-1=0, find them. (6)
+
+Q3
+
+1 L138 fy \728
+a) Evaluate pz Ges)
+
+0 (1+ 2x) a . (8)
+
+b) Evaluate {(@-sy (6 -— x) dx (6)
+--- page 2 ---
+. 1-1)!
+c) Show that [x"'sinax dx = ~ sin (22 |
+On a
+
+or
+a) Solve: (D? - 1)y = x’ sin 3x
+2.
+b) Apply the method of variation to solve 3 4 + y=cosecx
+x .
+
+d . .
+c) Solve —* x? sin? y+ xsin2y = x°
+x
+
+Q5
+a 2a-x
+a) Change the order of integration and evaluate | f xy dydx
+0 x/a
+1 V2x-x?
+b) Change to polar coordinates and evaluate J J (x? + y* )dydx
+0 #
+2 x 2x+2y
+c) Evaluate f | J e**’** dzdydx
+0 0 0 :
+Q6
+a) Show that _—_— dx = ~ cosec(=|
+0 (a” - x") n n
+b) Evaluate — dx
+
+0 (atx)
+
+d .
+c) Solve + xsin2y=x*cos’ y
+x .
+
+Q7
+3/5
+a) Find the continued’ product of all values of (-1+ iv3 )
+
+b) Find the area bound by the curves x? 4+y?=a’> andxt+y=a
+
+in the first quadrant.
+
+c) If sin6@ = acos’ @sin@ + bcos’? @sin?>@ +ccos@sin’ O,
+Find the values of a,b,c.
+
+(6) \
+
+(8)
+(6)
+(6)
+(8)
+(6)
+(6)
+(8)
+
+(6)
+(6)
+
+(8)
+(6)
+
+(6)
+````
+
+## 2013-14 · Re-Exam · Trim 2 · paper d34d9f1d0617
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2011-12,2012-13 RE EXAM0001 (1).pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 21/06/2014
+- Text: ocr (2 pages), mean OCR confidence 75.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: Trimester: II
+
+Academic Year: 2013-14 Batch : 2011
+
+Subject : Applied Mathematics II
+%
+Date : 21/06/2014 Time \ 0:99 am-
+_ (ool Durations. 3 (hrs
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+
+a) Question No. 1 is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c) All questions carry equal marks.
+
+d) Answer to each new question to be started on a fresh page.
+e) Figure in brackets on the right hand side indicate full marks.
+
+Qi.
+a) Evaluate (V3 + i)" + (v3 - i)” (5)
+b) Solve (y+1)dx+[x-(y+2)e”]dy=0 (5)
+c) Evaluate | oe dx : (5)
+1 x?
+d) Evaluate Jfe” dy dx 5)
+00
+Q2
+a) If u = log tan( 2 2), prove that (i)coshu =sec@, (8)
+(ii)tanh u = sin @ (iii) tanh = tan 2
+_— bi 2
+b) Show that tan, ilog = =| = —_ (6)
+a+ bi), a~—b
+
+3/4
+c) Find all the values or( he oa and find their continued product (6)
+
+Q3
+
+a) Evaluate J =
+
+o   adx
+} (i+ xy" du Vian (8)
+5) Evaluate i A(x —7)Q1- x) dx ; (6)
+
+“Zs
+--- page 2 ---
+c) Show that ‘eon cosax dx = (m cos 22) (6)
+0 a” 2
+
+a4
+a’ a
+a) Solve oe te +e + cos2x (8)
+e*
+b) Solve by method of variation of parameters (DO -6D+9) yas (6)
+x
+dy 3 oin2 . _ 3
+c) Solve a? sin° y+ xsin2y = x (6)
+x
+Q5
+1 4 >
+a) Change the order of integration and evaluate ffe dx dy (8)
+04y
+1 V2x-x?
+b) Change to polar coordinates and evaluate J J (x? + y?)dydx (6)
+0 Xs
+log2 x x+y
+0 0 0
+Q6
+a) Show sat | ————aqe k= * cosec( =| (8)
+0 (a’ - x") n n
+nl6
+b) Evaluate f cos*3@sin* 60 dé (6)
+0
+c) Solve (D‘ -1)y =e* + cosxcos3x . (6)
+Q7 .
+a) Find the continued product of all values of (-1 + iV3)" (8)
+1 Vi+x? 1 (6)
+b) Evaluate —_—_.—— dy dx
+) ! ! L4+ x7 4+ y? ~
+c) Show that sin 50 =5sin@ —-20sin°@+16sin°@ (6)
+x!
+ol
+````
+
+## 2013-14 · Re-Exam · Trim 2 · paper b82aebd5c5ab
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 /12/2013
+- Text: ocr (2 pages), mean OCR confidence 74.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANA
+
+Programme:MBA Tech (ALL)
+
+Year: I
+Academic Year: 2013-14 Batch:2011-12* j
+Subject : Applied Mathematics II tA
+Marks:100
+Date :14 /12/2013
+
+Time : 10.00 am to 1.00 pm
+
+Durations:3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) In all five questions to be attempted.
+d) All questions carry equal marks.
+e) Answer to each new question to be stated on a fresh page.
+f) Figure in brackets on the right hand side indicate full marks.
+
+Q.1
+26 —isin 20)’ (cos 50 +isin50)°
+a) Simplify: (cos isin ) (cos isin ) . 6)
+(cos 6 + isin 68) (cos3@-isin 30)
+b) Solve sec’ x tan ydx+sec? y tanxdy =0 (5)
+_¢) If arg(z+1) == and arg(z—1) = =. Find z. (5)
+d) Evaluate t xe dx (5)
+Q.2
+a) Solve the equation x*+x° +x? +x+1=0 (8)
+b) If u+iv=cosec 2 ix , araive that (w? + y = 2(u? -v’) . (6)
+4
+2 tan! [ *
+c) If plog(a+ib) =(x+iy)logm prove that ia 4b (6)
+x log (a +b )
+Q3
+3 2
+a) Solve PY 6 FV eV poyaxt aan 4 (8)
+dx dx dx
+b) Solve [» sin (xy) + xy’ cos (xv) | dx+ [x sin (xy) +x°ycos (xv) | dy=0 (6)
+2
+
+c) Apply the method of undetermined coefficients to solve ay y=e'sinx. (6)
+
+1/2
+--- page 2 ---
+Q4
+a)
+
+b)
+°)
+
+Q5
+a)
+
+b)
+
+c)
+
+Q.6
+
+b)
+
+°)
+Q.7
+
+a)
+
+b)
+
+c)
+
+a 2a-x
+
+Change the order of integration and evaluate: i) i) xy dx dy
+0 x/a
+Vex 1. 1
+Evaluate i) [ x3y ?(1-x—y)? dxdy
+
+-10
+
+Evaluate [[Vxv- y’ dxdy where R is a triangle whose vertices are (0,0), (10,1)
+R
+
+and (1,1).
+
+Solve (D + 2D+1)y =xcosx
+d’y
+Apply the method of variation of parameters to solve he +y=tanx.
+
+dy y y 2
+Solve —+log y ==;(lo
+dx x a sal 87)
+
+- 4
+Evaluate fw .
+(1+cos6)"
+
+3/2
+
+Evaluate ( x (1 -x° ) dx
+
+Show that [(x-5) (6~x)’ de = B(6,7)
+
+a3 Vx? +0?
+dx d.
+Evaluate xan ay
+
+22 yaxta
+
+11 l-x
+
+Evaluate [ { | xdxdydz
+
+oy 0
+
+a 1
+If tan(@ +i¢) = tana +iseca , prove that ef =c0b 5.20 = hme, bai
+
+x
+
+2/2
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+(6)
+(6)
+
+(8)
+
+(6)
+(6)
+
+(8)
+
+(6)
+
+(6)
+````
+
+## 2013-14 · Re-Exam · Trim 2 · paper 6d2b68ee8696
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1064,6 +1448,462 @@ p)Evaiuate Jo Jo Jo x dxdyaz. (6)
 c)Find the roots of the equation x°-i=0. (6)
 
 2}2-
+````
+
+## 2012-13 · Exam not stated · Trim 2 · paper 2e126b863e37
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II 2012-113.pdf`
+- Printed on paper: exam date: 08/02/2013
+- Text: text (2 pages)
+
+````text
+SVMM's NMIMS
+Mukesh Pate1 School Of Technologv Management & En
+Programme: \   MBA (Tech) -ALL STREAM5   Year:   I
+Academic Year : 2012-2013
+Subject:   APPLIED MATHEMATICS -11
+Date:   08/02/2013
+Final - Examination
+Instructions: Candidates should read caref~~lly the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) In all five questions to be attempted.
+d) All questions carry equal marks.
+e) Answer to each new question to be stated on a fresh page.
+f) Figure in brackets on the right hand side indicate full marks.
+I
+a) Evaluate
+2 r .lc
+b) Evaluate I I I x ? ~ dzdyd~.
+c) Find z, if arg(zc1 =- 7r & arg(z-I)=- 2 r
+' 6   3
+d) Solve ((D' + 1)' (D' + D + I)'} = O .
+X 3 / 2   ls-. dx
+a) Evaluate -
+I-x
+b) Evaluate [ qoe[t 1.".   'Y' C&   ~   1 ,) 'L\ 1 22
+./ %
+i- n
+Evaluate [I4 cos3 20 sin4 40dB.
+Q.3
+I   a) Solve 2xy- dv = (y' + 6 ) + x"' (y' + 6 ) 4 .
+ak
+b) Solve (J~en'+4y1)hi-(xe"'+12xy2 -2y)dy = 0 , y ( 0 ) = 2 .
+c) Solve ylog ydr+(x - logy) dy =0 .
+a) Evaluate f f , hdydz   over the volume of sphere X   ' + ~ ~ + 2 Z = a 2 .   ( 8 )
+v   a - - x   - y -z-
+--- page 2 ---
+5   (a) A drop of oil of volume 0.2cc is dropped on a surface of a tank of water of area
+1 sq-m. The film spreads uniformly over the whole surface and white light which is
+incident normally, is observed through a spectrometer. The spectrum is seen to contain
+one dark band whose center has wavelength 5.5x10-~ cm. Find index of refraction of oil
+141
+(b) Explain the formation of Newton's rings and show that the radii of dark rings are
+proportional to under root of wavelength.   [GI
+6   (a) For a grating with grating element 18000 A", calculate the dispersive powers in the
+first and third order spectra around 1 = 5000 A", assuming normal incidence.   141
+(b) Define the resolving power of a grating.   [ 1 1
+(c) Discuss the Fraunhofer diffraction pattern given by a double slit.   [51
+7   (a) What is magnetostriction effect? Draw circuit diagram of magnetostriction oscillator.
+Explain its working.   [61
+(b) Show that for the hndamental mode of vibration, thickness of quartz plate is given by
+t = U2. A quartz crystal of thickness 0.001 m is vibrating at resonance. Calculate the
+fundamental frequency. Calculate the fundamental frequency. Given Y = 7.9 X 10" N 1
+m2 and p = 2650 kg/ m3.   [41
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 97ffdb072163
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/Applied Mathematics II Batch 2008-09,09-10,10-11,11-12 Re Exam (1).pdf` (+2 identical copies)
+- Printed on paper: duration hours: 3; exam date: 17/06/2013
+- Text: text (2 pages)
+
+````text
+Sll'Ewcl rmms
+Programme:   Year:   I
+I   Academic Year :2012-2013
+Batch:   2008-09, 2009-10,2010-11,2011-12
+Subject:   Applied Mathematics - II   Marks:
+Time:   10.00a m To 1.00 arn
+Date:   17/06/2013   Duration: 3hrs.
+Re - Examination   .1
+Instructions: Candidates should read carefully the instructions printed on the question   --!.,v ,'.X-. -C 7
+paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+a) Question No. 1is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) In aU five questions to be attempted.
+d) All questions carry equal marks.
+e) Answer to each new question to be stated on a fresh page.   .   I
+f ) Figure in brackets on the right hand side indicate full marks.   ., .....
+Q.1
+a) Find z ifarg(a t.I)= -and x   @(z- I).= --. 2n
+6   3,
+b) Solve (x3 +y3)dx-3vz& =0
+x7
+C) Evaluate cFdX   .
+d v   t   I d m   '
+0   0   I-x -y
+Q.2
+a) Sdve the equation
+q,~f coshu =see0,p,ve   thati) sinhu =tan0 ,ii)&,u =ah@,,   - .,
+I   I   '   ?
+(6)
+r: , .
+(6)
+a) Solve (2x +512- *" -6(2x+S)-+8y=&. dv
+fir2   dx
+dZy
+b) Apply the method of undetermined coefficients to solve--   y=eXsinx.   (6)
+&?
+e) Solve(x' +y4)& -xy3dy=0.   (6)
+--- page 2 ---
+b) Evaluate f(x -5)' (6-x r dr =,8(6,7)
+a) Evaluate   sin4xcos2xdn .
+a) Change the order of integration and solve 5I 2*r [&&.
+a 1-r
+1 *3r-r- 7:
+b) Evaluate by changing to polar coordinates:   1 (x' +~ ~ ' ) d y d x
+0.6 I d   z 1 7   @.
+c) Evaluate
+o   o Y 2+ x 2 + a 2
+b) Apply the method of variation of parameters to solve(D2 -2D+ 2)y =ex tmx . (6)
+c) solve-dy + [2xtan-' -x3)(1+ ya)=o .   (6)
+rtr
+4.7
+a) Evaluate ~IIxyzdndyydzover the positive octant Pf the sphere x2+y2 +z2 =a2. (8)
+b) Evaluate 111 ;A'+= ~ ( x + y + z ) & & ~ $
+- I 0 x-:
+c) Show thatsinS 0 =-(sin50 1   -5sin30+lOsinB).
+16
+Page 2 of 2
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 50d1acfdd784
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/Applied Mathematics II Batch 2012-13 Re Exam (1).pdf` (+2 identical copies)
+- Printed on paper: exam date: 17/06/2013
+- Text: text (2 pages)
+
+````text
+SVI(Mk -8
+2 4-
+hgramme:
+Aaademic Year:2012-2013
+I B ~ c h :   2012-2013
+Subject:   Applied Mathemattas-11
+Time:
+Date:   17/06/2013   Duration: 3 ---.
+Re - Examination   iunq
+----.d d"   7 t, - .f7 \ *,,l~VJ
+N.B:
+a) Question No 1 is compulsory.
+b) Out of remaining questions attempt any 4questiom.
+c) A11 questions wry equal marks
+d) Answer to each new question should be stated on fresh page.
+e) Figure in bracket indicate full marks
+If In = w,show that   = ;;;;-In n+l   and hence find Is .
+121
+Solve - d" -yy=xsinhx.
+dx2
+EvaluateJ:   st-"(x + y)dy dx
+If cosawshp =-; X   sinasinh/3=- Y ,Prowthat   ( I. I :   .   5
+2   2   ,,,,,. ~!! p, <,:   8 , u,, s t   .   I!+(   ,t.: 2..
+sec (a-ip)+ sec(a+ip)= 4x   I . -. g-!2;   .   . . .   * . . I   I . .
+x2+ y2   7 +ti , . --
+Prove that 1+cos6e = 16cos4 8-24cos2 8+9.
+1+cos26'
+Prove that, if n is a positive integer, then
+(a+ib)% + (a-ib)':= 2 ( ~ ) % ma(~m-lk) .
+n   IIa
+Find the .-   of the series, l+xcosa+2 cor:;?rx+2m3a+.................. n   8
+terms, where x <l . Also find the sum to infinity.
+Evaluate J:   1: $7 ex+y+" dx d~ d z
+Evaluate$$$V xZyzdx dy dz where V is the volume bounded by planes x = 0 ; 6
+y=oz=0,*=1
+Explain why dxdy = rdrd8 in polar transformation? Use polar transformation   8
+to compute*$:   som   sin {2(a2-x2 -y2)} dx dy
+--- page 2 ---
+Solve tan y -+ dv tanx=cos y.cos3 x
+dx   6
+In a ckuit containinginductance L, resistance R and voltage E, the current I is   6
+given by L-+RI=E. dl   Find the current I at tlmet if at t=O,Z=Oand   L, R, E
+dt
+are constants.
+Solve (D'- 4 ~ + 4 ) = ~ 8a.ez'.sin2x
+Evaluate $: xa-'(log P - l d x (a > 0).
+Evaluate $i(x -cQrn(b-x ) ~ ~ x
+Evaluate Somxrn-'cosux dx = 5cos7
+Usethe method of variation of parameters to solve
+that J;   Jl4(a2-z*1ca-y>h-x1 *'   =~~tjy~iychangingtheorder 6
+If cosec(x+ j)=u+iv, Provethat   8
+Solve y"+ 4y1+4y= 3sinx+4cosx.   I f ~(0)=1(UIEd Y'(O)= 0.   6
+A lamina is bounded by the curvesy = x2 -3%and y = 2%ifthe dodryat any 6
+point is given by ~ x y ,find the mass of the lamina
+Solve (3y-7x+7)dw + (7y-3x+3)dy = 0   I
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 429099511fd0
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/Applied mathematics II BATCH 2011-2012 RE EXAMscan0027.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07/02/2013
+- Text: ocr (2 pages), mean OCR confidence 76.7
+
+````text
+; —
+SVKM’s NMIMS eee
+
+Mukesh Patel School Of Technology Management & Engi:
+L IBRARY
+~ we
+i x*
+
+Programme: B-Tech - All Streams Year: I Trimester: II
+
+Academic Year : 2012-2013
+
+Batch: 206 |\- 2012
+Subject: Applied Mathematics-II Marks: 100
+
+Time: 2.00 pm To 5.00 pm
+Date: 07/02/2013 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+
+a) Question No. 1 is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c) All questions carry equal marks.
+
+d) Answer to each new question to be started on a fresh page.
+
+e) Figure in right indicate full marks.
+
+Que.1)
+1
+a) Evaluate fea - x2)4% dx.
+
+0
+
+ay
+b) Change the Order of Integration: f f f(x,y) dx dy.
+00
+
+c) Solve(I +e” ds ver (1-2)ay = 0.
+y
+d) Find two complex numbers whose sum is 4 and whose product is 8.
+
+Que.2)
+
+a) State and Prove that Duplication Formula of Gamma function
+
+! " m-1 Im mI
+b) Show that fx cos ax dx = —~cos —
+rf a 2
+
+* : 1
+c) Prove that fx sin’ xcos* x dx = 17
+1155
+
+0
+
+Que.3)
+a) Evaluate Sff(e? ty? 427 )dxdydz over the first octant of the sphere VP+y+r=a.
+v
+
+by ‘Find the area bounded by the curves x? + y? =a’ andx+y=a in the first quadrant.
+c) Evaluate fe + y de dy over the area of triangle whose vertices are (0, 1), (1, 1) and (1, 2).
+
+Que.4)
+
+a) If cosh x = sec @, prove that
+
+i) x=log(secO+tan@), ii) 0 = a: 2tan'(e*) iii) tanh >= tan ©.
+
+fa.
+
+20
+
+20
+
+6
+
+20
+--- page 2 ---
+Que.5)
+
+Que.6)
+
+Que.7)
+
+b)
+
+5)
+
+a)
+
+b)
+
+¢)
+
+a)
+
+b)
+
+°)
+
+a)
+
+b)
+
+°)
+
+B 3
+
+4
+Find all values of [; + rf) and show that their continued product is 1.
+
+2
+
+Find the principle value of 7 pa
+
+2
+Solve dy 4 dy +4y =x" +e" +c0s2x.
+de dx
+Apply the method of variation of parameters to solve (D° -1) y= , 2 As
++e
+Solve 2.4.x? sin’ ytxsin2y=x°.
+* dx n
+Prove that_ |} ———————_ = — ~B (z. >)
+| (e *~+e% y 2°2
+16
+Find the modulus and the principle value of the argument of hein
+i
+
+Solve by using method of undetermined coefficients: (D> -1) y=e* sinx.
+
+dy dy
+
+Solve x) 2% G, Ay = coslogx + xsin log x.
+
+2 x 2x+2y
+
+Evaluate | J J e**’** dx dy dz.
+
+00 0
+a a? -x?
+. : -(x7+y?) dxd
+Change into Polar co-ordinate and evaluate e xay.,
+0 0
+
+; e® cos! Z
+and show that its real part is © “ -COS Pha .
+
+—
+
+2
+
+20
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 198b4e5605d5
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 18/06/2013
+- Text: text (2 pages)
+
+````text
+SVKIvI's NMIMS
+-Program&e:
+,.   ,   Academic Year :2012-2013
+Batch:   20 11-2012
+..   Subject:   Applied-MathematissII
+Date:   18/06/2013   Duration: 3 hrs.
+Re - Examination
+- - ---
+Instructions: Candidates should read carefullythe instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) In all five questions to be attempted.
+d) All questions carry equal marks.
+e) Answer to each new question to be stated on a fresh page.
+f) Figure in brackets on the right hand side indicate full marks.
+-
+a) Solve -+---- dY   4 v -   1
+dx x2+1 (,z+q3
+b) Ifz =cosB+isinB; Prove that -- l + z -rcot-. . 6
+1-z   2
+C) Evaluate r&-e-2d
+-,
+d) Evaluate IJV~-*&~Y
+0 0
+I Q.2   .   .   . .
+a) Evaluate IJJxyz(x2+y2 +z2)drdYdz over the first octant of the sphere   .   .   . .-
+x2+yz+z2=a2   . .   ( 8 ) .   ~~
+log2 x x+
+b) Evaluate   fe"~"dx&dz
+0 0 0
+c) Find the roots of the equation x4-x3 +xZ -x+1=0
+Q-3
+a) Solve (l+x)'--+(l+x)-+y=coslog(l+x) d2y   dv
+dx2   &
+b) Solve (2ay4eY+2xy3+y)dx +(x2y4eY-x2v2-3x)dy =0
+c) Solve -=x3y3-ay.. dr
+dx
+--- page 2 ---
+a) Change to polar coordinates and evaluate: 1 4uyI d x d ~.
+.......   ...   0 ./40 v 2 /
+.   .   .   .   , *.-   -.. .--...-.--
+b) Evaluate jIJ2xy -y dxdy where R is a triangle whose vertices are (0,0), (1 0,l)
+R
+and (1,l).
+Y I S   3   1
+c) Express as single integral and evaluate I =   drQ + Idy Jdr .
+0 -6   1   -1
+Q.5
+a) If sina+2sin~+3siny=0,cosa+2cos,f?+3cosy=O,provethat
+sin3a+8sin3~+27sin3y=18sin(a+~+y~cos3~+8cos3~+27cos3y =lBcos(a+p+y)
+(8)
+b) If tan- X =tanh- U ,Prove that
+2   2
+i) sinhu =tanx
+ii) coshu =secx   (6)
+..
+Q.6   ..   :, e,
+a) Solve (DZ-5D+6)y = e-' secZ x(1+ 2 tanx) ,by using method of variation of   .
+parameters.'   (8)
+b) Solve ( ~ ~ - 2 ~ + l ) ~ = x e ~ s i n x   (6)
+c) Solve y-=x-yx2siny dr . .
+dv   ' X   g . .   A
+'   .   .   . .V
+Q.7   -   . . . .   . ,;: :4 .$fgV;. ,!:. . ? .   .
+a) prove that   dn   =-p(-,-) 1   n n andhenre ivduatc jsec h8x'&   . ~.-x8~j ... .-:   ,   ..=
+(ex+e-")"   4   2 2   . .. .   8   ...... . .   -.
+~ ' ( 1+x ~ )   . . .   .   d s   . .   .   .   . ..
+b) Evaluate   (1+x)16 dx   .   .   (6) .
+0   1 .:, . ..   -   .......... , -" .-.
+c) Evaluate 5"   sin46' dB   u I. ,~   -   PI   * '"'2 :. -
+.(I+ cosq2   ',   .,,,   ,. -   :   . , . L =..... ;<
+YU   .J   ,..=,:   ,   . . . : -.   ,,
 ````
 
 ## 2012-13 · Re-Exam · Trim 2 · paper ffbc299835f7
@@ -1280,6 +2120,126 @@ aN
 (6)
 ````
 
+## 2011-12 · Exam not stated · Trim 2 · paper d4508a28498f
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/scan0001(12).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 81.1
+
+````text
+Programme:
+
+Batch:
+Subject:
+
+Date:
+
+4
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+B.Tech (ALL STREAMS) Year: I Trimester: II 7
+
+Academic Year : 2011-2012
+
+2010-2011
+Applied Mathematics-II Marks: 100
+
+Time: 11.00 am To 2.00 pm
+11/09/2012 Duration: 3 hrs.
+
+Special Re-Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question paper
+and on the cover of the Answer book which is provided for their use
+
+NB:
+a) Question No:1 is compulsory
+b) Out of remaining questions attempt any 4 questions
+c) Answers to each new question to be started on a fresh page
+d) Figures in brackets on the right hand side indicate full marks
+1
+QI a) Evaluate [V1-x*dr (5)
+0
+b) Solve PY _5FV gH gyno (5)
+de de de
+1 rl
+c) If x+—=2cos@ , then prove that x” +— =2cosr@ (5)
+ou x
+x? y
+d) Find the area of the ellipse — + a =1 . (5)
+a
+j
+y!
+Q.ll a) Find the roots common to x*+1=0 and x°-i=0 (6)
+b) Separate ( +iv3 ye into real and imaginary parts | (6)
+2
+c) Solve x? oe - »@ + 4y =cos(logx) + xsin(logx) (8)
+--- page 2 ---
+3
+
+a ee <
+JI a) Prove that } j=a@] yve* dy = — 6
+Q a) Prove thai re J 9 (6)
+
+b) The density of a uniform circular lamina of radius ‘ a’ varies as the square of its
+distance from a fixed point on the circumference of the circle. Find the mass of the
+
+lamina (6)
+
+c) Evaluate [f-y.deay over the region bounded by x — axis, ordinate at x = 2a and
+
+the parabola x? = 4ay (8)
+a3 Va?+x? xdydx
+QIV a) Evaluate i} = er (6)
+7 (8 Perey
+a 2a-x
+b) Change the order of integration in the integral } J F(x, y)abedy (6)
+Ory
+a
+c) Evaluate the integral ff 7 over one loop of the lemniscates (8)
+r°+a
+r? =a’.cos20
+aVa?-x? a-x’-y?
+Q.V a) Evaluate triple integral i) i) Je ty? +2" \dxdydz (6)
+0 0 0
+oy
+. b) Find the moment of inertia of a quadrant of the ellipse —- + ~<- =1 of mass M
+P| ) a b
+about the z-axis, if the density at a point is proportional to xy (8)
+
+7 y2 “e z
+c) Change into polar coordinate system and evaluate = addy (6)
+0 oe xr ty?
+
+2
+--- page 3 ---
+2
+Q.VI a) Solve (1+.x)’ ma +(1+ »@ + y= 4coslog(l +x) (8)
+Z 2
+b) Solve tye * logx (6)
+c) Solve y(xy + e* )dx —e*dy =0 (6)
+a(xdy — ydx)
+Q.VII a) Solve xdx + ydy = so ere (6)
+b) Solve (D? -2aD+a*)y = ta 6)
+x
+
+c) When a switch is closed in a circuit containing a battery E, a resistance R and
+
+inductance L, the current ‘i’ builds up at the rate given by ros Ri=E
+
+?
+
+Find * i’ as a function of t . How long will it be before the current has reached one
+
+half its maximum value, if E = 6 volts, R= 100 ohms and L = 0.1 Henry ? (8)
+
+q!
+````
+
 ## 2011-12 · Exam not stated · Trim 2 · paper ea142af8be33
 
 - Departments: Common (all branches)
@@ -1445,243 +2405,169 @@ c) Find the roots of the equation x° -i=0
 =~ =
 ````
 
-## 2011-12 · Re-Exam · Trim 2 · paper 942eeb9bc2a7
+## 2011-12 · Re-Exam · Trim 2 · paper 9c586be9e0ab
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2008-09,09-10,10-11,11-12 RE EXAN.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 /12/2013
-- Text: ocr (2 pages), mean OCR confidence 75.0
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2010-11 RE EXAM0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 18/06/2012
+- Text: ocr (3 pages), mean OCR confidence 77.6
+
+````text
+—
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: II
+
+Academic Year : 2011-2012
+
+_ Batch: 2010-2011 [ =, 8 5, \
+«Subject: Applied Mathematics-II Marks: 1404 LF 2
+Time: 10:90 am To 1. 00 Ee ;
+Date: 18/06/2012 Duration: 3 hrs& dehy ee
+Re - Examination pe
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+Ou: F
+(a) Evaluate J (x logx)3 dx (5)
+me) Solve (Xy? + y)dx + (xy - x)dy =0 (5)
+éc) Simplify (cos 28+ i sin 2@)*. (cos 3@- isin 36)5 (5)
+
+(cos 4G+ i sin 46)*. (cos 5 8+4i sin 56)-4
+
+(d) Find by double integration the area bounded by the lines y=a+x, y=a-xand (5)
+
+X=a,(a>0).
+Q.2. .
+(a) ifarg (z+1)= 1m andarg(z-1)=an__ find the complex number z. (6)
+. i 6 3
+a)
+
+(b) Find the volume of the tetrahedron bounded by the planes x =0, y = 0,z=0, (6)
+. Xty+z=a
+
+(c) If cos hx = sec ©, prove that (8)
+i) tanh 2 — + ton &
+
+i ee TW - 2 tan” '(é”)
+
+Page 1 of 3
+--- page 2 ---
+Q.3.
+
+(a) Solve (D +3D+2)y=-e" (6)
+2
+(b) Solve § x ay + LK oy — 204 = (&+ \) . (6)
+dn? ane
+
+(c) Using the transformation, u =x + y,v = x - 2y. Evaluate [{(x+y)@dxdy whereR (8)
+is the parallelogram in the xy plane with vertices (1,0) 13,1) (2,2) and (0,1).
+
+QA. ; 5
+(a) i) Provethat sec’ Cine) = leq cot © (6)
+
+oi =. 3
+ii) Prove that Sink CK) = bog (« ats i
+
+2 2
+(b)Solves Caet) AY _ 9 (reti) dy _ 124 =6% (6)
+de de
+i
+(c) Evaluate f dx J @-v y* log y dy by changing the order of integration. (8)
+0 '
+
+5.
+b Solveix cos x dy +y (xsinx+cosx)=1 (6)
+“dx
+ei
+(b) Find the mass of the Lamina in the form of as ellipse 3 + yp =I ifthe density (6)
+at any point varies as the product of the distance from thé axes of the ellipse.
+
+(c) Using method of uadetermined multiplier solve the equation’ (8)
+, (D +3D+2)y=10 G3 + 4x2
+v!
+Q.6.
+(a) Change to polar coordinates and evaluate ‘i rx dx dy (6)
+o
+(b) Solve; dy 4x3y2+ycosxy _ (6)
+
+“dx 2x4y + X COS Xy
+
+Page 2 of 3
+--- page 3 ---
+(c) The charge Q of a condenser, capacity C, discharged in a circuit of resistance R and self
+~ inductance L satisfies the differential equation
+
+LAS aR 4848 LO
+
+dy? at fe
+Solve the equation with initial conditions that Q = Qand dQ - pwhen t=0 (8)
+2 dt
+
+and CR AAL
+
+Q.7.
+
+(a) Find the nth roots of unity and find their continued products. (6)
+
+242. . 3
+(b) Solve xd-y 4 % Ay y 2 by (6)
+dum aot rie
+
+the method of variation of parameters.
+
+(c) Prove that 4 Bom,n) = Tm , [n- and hence show that (8)
+
+a
+
+fm+n
+
+——— K —
+
+Page 3 of 3
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper 723a9e7a850a
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2010-2011 RE EXAM (1).pdf` (+2 identical copies)
+- Printed on paper: exam date: 03/02/2012
+- Text: ocr (2 pages), mean OCR confidence 71.7
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (All) : Year: I Trimester : II
+Programme: B.Tech - ALL STREAMS Year: I
+Academic Year : 2011-2012
 
-Academic Year :2013-14 Batch :2008-09,09-10, 10-11, 11-12
-Subject :Applied Mathematics —II Marks: 100
+} Batch: 2010-2011
 
-Date : 13 /12/2013 Time : 10.00 am. - 1.00 pm
+5 SVKM'S \*
+Subject: APPLIED MATHEMATICS-II Marks: ( ni@O: University © \ |
+Timd| x   2:00%pm°Fo 5}
+, t £
+Date: 03/02/2012 DuraVoal 3 hrs. sf,
+Re - Examination es . ») =
 
-Durations:3 Hrs.
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the questi
-
-cover of the Answer Book, which is provided for their use. / guy Xe,
-NB: ae NY,
-a! «PSTMB Vo
-a) Question No. 1 is compulsory. \ 3 4 LIBRA RY s
-b) Out of remaining questions, attempt any 4 questions. \ % ~~ we
-
-Po) x
-c) All questions carry equal marks. YL Annas
-d) Answer to each new question to be started on a fresh page.
-
-e) Figure in brackets on the right hand side indicate full marks.
-
-qi.
-
-a) Evaluate a+iy+qa-iy” (5)
-
-b) Solve (eer )ax ee (1-2 lay =o (5)
-
-y
-
-i -
-
-c) Evaluate [ x’ cos”'xdx ()
-0
-
-. 2 V2x-x?
-
-d) Evaluate J J xy dxdy (5)
-0 0
-
-Q2
-
-a) If coshx = sec, prove that (i) x = log (sec@ + tan@), (8)
-
-(ii)tanh > tan & (ii) @ = 5-2 tan" (e-*)
-
-b) Find the principle value of i'®“*) and hence find its real part. (6)
-
-c) if a@,a@’,a*,a* are the roots of x°-1=0, find them. (6)
-
-Q3
-
-1 L138 fy \728
-a) Evaluate pz Ges)
-
-0 (1+ 2x) a . (8)
-
-b) Evaluate {(@-sy (6 -— x) dx (6)
---- page 2 ---
-. 1-1)!
-c) Show that [x"'sinax dx = ~ sin (22 |
-On a
-
-or
-a) Solve: (D? - 1)y = x’ sin 3x
-2.
-b) Apply the method of variation to solve 3 4 + y=cosecx
-x .
-
-d . .
-c) Solve —* x? sin? y+ xsin2y = x°
-x
-
-Q5
-a 2a-x
-a) Change the order of integration and evaluate | f xy dydx
-0 x/a
-1 V2x-x?
-b) Change to polar coordinates and evaluate J J (x? + y* )dydx
-0 #
-2 x 2x+2y
-c) Evaluate f | J e**’** dzdydx
-0 0 0 :
-Q6
-a) Show that _—_— dx = ~ cosec(=|
-0 (a” - x") n n
-b) Evaluate — dx
-
-0 (atx)
-
-d .
-c) Solve + xsin2y=x*cos’ y
-x .
-
-Q7
-3/5
-a) Find the continued’ product of all values of (-1+ iv3 )
-
-b) Find the area bound by the curves x? 4+y?=a’> andxt+y=a
-
-in the first quadrant.
-
-c) If sin6@ = acos’ @sin@ + bcos’? @sin?>@ +ccos@sin’ O,
-Find the values of a,b,c.
-
-(6) \
-
-(8)
-(6)
-(6)
-(8)
-(6)
-(6)
-(8)
-
-(6)
-(6)
-
-(8)
-(6)
-
-(6)
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper 97ffdb072163
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/Applied Mathematics II Batch 2008-09,09-10,10-11,11-12 Re Exam (1).pdf` (+2 identical copies)
-- Printed on paper: duration hours: 3; exam date: 17/06/2013
-- Text: text (2 pages)
-
-````text
-Sll'Ewcl rmms
-Programme:   Year:   I
-I   Academic Year :2012-2013
-Batch:   2008-09, 2009-10,2010-11,2011-12
-Subject:   Applied Mathematics - II   Marks:
-Time:   10.00a m To 1.00 arn
-Date:   17/06/2013   Duration: 3hrs.
-Re - Examination   .1
-Instructions: Candidates should read carefully the instructions printed on the question   --!.,v ,'.X-. -C 7
-paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-a) Question No. 1is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) In aU five questions to be attempted.
-d) All questions carry equal marks.
-e) Answer to each new question to be stated on a fresh page.   .   I
-f ) Figure in brackets on the right hand side indicate full marks.   ., .....
-Q.1
-a) Find z ifarg(a t.I)= -and x   @(z- I).= --. 2n
-6   3,
-b) Solve (x3 +y3)dx-3vz& =0
-x7
-C) Evaluate cFdX   .
-d v   t   I d m   '
-0   0   I-x -y
-Q.2
-a) Sdve the equation
-q,~f coshu =see0,p,ve   thati) sinhu =tan0 ,ii)&,u =ah@,,   - .,
-I   I   '   ?
-(6)
-r: , .
-(6)
-a) Solve (2x +512- *" -6(2x+S)-+8y=&. dv
-fir2   dx
-dZy
-b) Apply the method of undetermined coefficients to solve--   y=eXsinx.   (6)
-&?
-e) Solve(x' +y4)& -xy3dy=0.   (6)
---- page 2 ---
-b) Evaluate f(x -5)' (6-x r dr =,8(6,7)
-a) Evaluate   sin4xcos2xdn .
-a) Change the order of integration and solve 5I 2*r [&&.
-a 1-r
-1 *3r-r- 7:
-b) Evaluate by changing to polar coordinates:   1 (x' +~ ~ ' ) d y d x
-0.6 I d   z 1 7   @.
-c) Evaluate
-o   o Y 2+ x 2 + a 2
-b) Apply the method of variation of parameters to solve(D2 -2D+ 2)y =ex tmx . (6)
-c) solve-dy + [2xtan-' -x3)(1+ ya)=o .   (6)
-rtr
-4.7
-a) Evaluate ~IIxyzdndyydzover the positive octant Pf the sphere x2+y2 +z2 =a2. (8)
-b) Evaluate 111 ;A'+= ~ ( x + y + z ) & & ~ $
-- I 0 x-:
-c) Show thatsinS 0 =-(sin50 1   -5sin30+lOsinB).
-16
-Page 2 of 2
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper 429099511fd0
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/Applied mathematics II BATCH 2011-2012 RE EXAMscan0027.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07/02/2013
-- Text: ocr (2 pages), mean OCR confidence 76.7
-
-````text
-; —
-SVKM’s NMIMS eee
-
-Mukesh Patel School Of Technology Management & Engi:
-L IBRARY
-~ we
-i x*
-
-Programme: B-Tech - All Streams Year: I Trimester: II
-
-Academic Year : 2012-2013
-
-Batch: 206 |\- 2012
-Subject: Applied Mathematics-II Marks: 100
-
-Time: 2.00 pm To 5.00 pm
-Date: 07/02/2013 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+F ; ; . . “06 a ®
+Instructions: Candidates should read carefully the instructions printed on The qléseiehy bapér and on the
 cover of the Answer Book, which is provided for their use.
 NB:
 
@@ -1696,130 +2582,230 @@ d) Answer to each new question to be started on a fresh page.
 e) Figure in right indicate full marks.
 
 Que.1)
+a Simplify i+ e087 isin 8)
+
+1+cos@-isin@
+
+lL x
+
+b) Evaluate [ fxrG@ + y)dydx
+
+0 x?
+
 1
-a) Evaluate fea - x2)4% dx.
+c) Evaluate [roa x?) dx
 
 0
 
-ay
-b) Change the Order of Integration: f f f(x,y) dx dy.
-00
-
-c) Solve(I +e” ds ver (1-2)ay = 0.
+d) Solve (2x+cosh(xy)) de +22 Costa) —sinhay) (5, _ 9
 y
-d) Find two complex numbers whose sum is 4 and whose product is 8.
 
 Que.2)
 
-a) State and Prove that Duplication Formula of Gamma function
+- 1 4
+a) Change the order of integration and evaluate J J e* dx d y
+0 4y
 
-! " m-1 Im mI
-b) Show that fx cos ax dx = —~cos —
-rf a 2
+b) Find the area between the curves y? = 4x and2x—3y+4=0.
+log2 x xty
 
-* : 1
-c) Prove that fx sin’ xcos* x dx = 17
-1155
+¢) Evaluate J f Jew dx dy dz
+0 0 0
 
-0
+L(—xt)% 11 71
+} a) Prove that J dx = —.—> (z.+}
+0 (1+ x") 4 2% 4°3
 
-Que.3)
-a) Evaluate Sff(e? ty? 427 )dxdydz over the first octant of the sphere VP+y+r=a.
-v
+" m-l Im mr
+b) Show that fx cos ax dx = —-cos|,—
+a, a 2
 
-by ‘Find the area bounded by the curves x? + y? =a’ andx+y=a in the first quadrant.
-c) Evaluate fe + y de dy over the area of triangle whose vertices are (0, 1), (1, 1) and (1, 2).
+2. 2
 
+x
+c) Evaluate ———7_ ax,
+! (1+ x6)%
+
+1 Vo
+--- page 2 ---
 Que.4)
 
-a) If cosh x = sec @, prove that
-
-i) x=log(secO+tan@), ii) 0 = a: 2tan'(e*) iii) tanh >= tan ©.
-
-fa.
-
-20
-
-20
-
-6
-
-20
---- page 2 ---
 Que.5)
 
 Que.6)
 
 Que.7)
 
-b)
-
-5)
-
 a)
 
 b)
 
+c)
+
+b)
 ¢)
 
 a)
-
 b)
 
-°)
+c)
 
 a)
-
 b)
 
-°)
+Solve (D—1)*(D? +1)y =e* + sin’ (}
 
-B 3
+Sok dy ne x?y>4+2y
+Oe dx 2x-2x?y?-
 
-4
-Find all values of [; + rf) and show that their continued product is 1.
+Solve (1+ y’)dx = (ew'” = x )dy.
 
-2
+If cosh x =sec@, Prove that
+i) x=log(secO+tan@) _— ii) 9=%—2tan""(e™*) iii) tanh= = tan
 
-Find the principle value of 7 pa
+Find the principle value of (i + i)" .
 
-2
-Solve dy 4 dy +4y =x" +e" +c0s2x.
-de dx
-Apply the method of variation of parameters to solve (D° -1) y= , 2 As
-+e
-Solve 2.4.x? sin’ ytxsin2y=x°.
-* dx n
-Prove that_ |} ———————_ = — ~B (z. >)
-| (e *~+e% y 2°2
-16
-Find the modulus and the principle value of the argument of hein
-i
+Find the value of 2/1 + iV3 + */1-iV3 .
 
-Solve by using method of undetermined coefficients: (D> -1) y=e* sinx.
+State and Prove that Duplication Formula of Gamma function.
+1 V2-9?
+Change the Order of Integration J i) f(x,y) dx dy
 
-dy dy
+0 1
+Find the Volume common to the cylinders x? + y? =a® andx* +z? =a’.
 
-Solve x) 2% G, Ay = coslogx + xsin log x.
+Apply the method of variation of parameters to solve (D? -2D +2)y =e* tan x.
+d’y d*y . dy
+3 2 2
+Solve X + 6x° —>-+8x—+2y=x°4+3x-4,
+oe ae} det dx
 
-2 x 2x+2y
+a
+: TU
+Prove that sin? x cos’ x dx = <
 
-Evaluate | J J e**’** dx dy dz.
+—a
 
-00 0
-a a? -x?
-. : -(x7+y?) dxd
-Change into Polar co-ordinate and evaluate e xay.,
-0 0
-
-; e® cos! Z
-and show that its real part is © “ -COS Pha .
-
-—
-
-2
+— my
 
 20
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper 9462d495d114
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2009-10,11,12 RE EXAM0001.pdf`
+- Printed on paper: exam date: 19/06/2012
+- Text: ocr (2 pages), mean OCR confidence 75.5
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+: Programme: MBA Tech Year: I Trimester: II
+/ 2.00916 [2010-U| [Academic Year : 2011-2012 Ce WSTITUZE 5
+Batch: 2011-12 { * oe My,
+
+Mo,
+
+Subject: Applied Mathematics II Marks: [s 100 % \
+Time: 310. 00 pm To 1. 004 pm
+Date: 19/06/2012 Duration: 34; irs. ¢
+
+oo ~ >
+NOT
+-
+
+Re - Examination
+
+Instructions:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted
+
+4) Answers to each new question to be started on a fresh page.
+5) Figures in bracket on the right hand side indicate full marks.
+
+x
+
+Q.1 a) Evaluate ie ~ dx using Gamma function (5)
+b) Evaluate an +(1-)" (5)
+dy : a
+c) Solve —+2y ti =sinx aty=0,x=— i
+) er wae a ayetess (5)
+li-x 1 +
+d) Evaluate 1 Jey? y ?(l-x- yp dxdy (5)
+-10
+a2
+= a) If w=logtan (3 +3) Prove that tanh = = tans and coshucos@=1 (8)
+8
+j L+sin2+icos™
+b) Simplify) ——’——8 | . (6)
+1+sin2-icos=
+8 8
+c) Expand cos’ @ ina series of cosines of multiples of @ . (6)
+ee 1 m-1 nl
+Q a) Prove that B(m,n) = loa (8)
+x
+} 0
+\ b) Show that fy y =“ cos ee(=] (6)
+q } 0( a’- = A n
+c) Evaluate j sin’ @(1+cos 6) do (6)
+0
+
+Lo
+--- page 2 ---
+Q4
+
+Q.5
+
+Q.6
+
+bs
+
+a) Evaluate J Jf? yzdxdydz throughout the volume bounded by planes
+
+x=0,y=0,2=0and~ 4247 <1. (8)
+abe
+
+b) Find the area included between the curves y= x —6x+3, y=2x—9 by double
+
+integration. (6)
+Lx
+c) Change to polar coordinates and evaluate J jf (x+ y)dydx (6)
+00
+a) Solve (D?-2D+4)y =e" cos’ x (8)
+b) Voltage Ee is applied at t= 0 to a circuit contains inductance L and resistance R.
+~Rt
+Show that the current at any time t is given by i= |e" et ) (6)
+R-aL )
+2,
+c) Solve “ z + = using method of Variation of parameters (6)
+dx” dx = \+e
+Mey
+
+Zi
+a) Change the order of integration and evaluate J J apa TE 1 aaegy (8)
+
+600 VI-x?J1-x?-y?
+
+b) Find the mass of the lamina bounded by the curves y” = ax and x’ =ay if the density
+
+of the lamina at any point varies as the square of its distance from the origin. (6)
+c) Evaluate ies (6)
+0
+a) Solve x? FB aay = cos(log x) + xsin(log x) (8)
+b) Solve(y* +2y)de-+(xy" +24 —4x)dy =0 (6)
+c) Evaluate fe sin” xdx (6)
+d
+
+}
+
+‘ 22
 ````
 
 ## 2011-12 · Re-Exam · Trim 2 · paper 424a501c6f18
@@ -1994,395 +2980,27 @@ B) Change the order of   $,r - a f (x, y)dydx
 C) Find the volume of the tetrahedron bounded by the planes x = 0, y = 0, z = 0 and
 ````
 
-## 2011-12 · Re-Exam · Trim 2 · paper b82aebd5c5ab
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 /12/2013
-- Text: ocr (2 pages), mean OCR confidence 74.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANA
-
-Programme:MBA Tech (ALL)
-
-Year: I
-Academic Year: 2013-14 Batch:2011-12* j
-Subject : Applied Mathematics II tA
-Marks:100
-Date :14 /12/2013
-
-Time : 10.00 am to 1.00 pm
-
-Durations:3 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-a) Question No. 1 is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) In all five questions to be attempted.
-d) All questions carry equal marks.
-e) Answer to each new question to be stated on a fresh page.
-f) Figure in brackets on the right hand side indicate full marks.
-
-Q.1
-26 —isin 20)’ (cos 50 +isin50)°
-a) Simplify: (cos isin ) (cos isin ) . 6)
-(cos 6 + isin 68) (cos3@-isin 30)
-b) Solve sec’ x tan ydx+sec? y tanxdy =0 (5)
-_¢) If arg(z+1) == and arg(z—1) = =. Find z. (5)
-d) Evaluate t xe dx (5)
-Q.2
-a) Solve the equation x*+x° +x? +x+1=0 (8)
-b) If u+iv=cosec 2 ix , araive that (w? + y = 2(u? -v’) . (6)
-4
-2 tan! [ *
-c) If plog(a+ib) =(x+iy)logm prove that ia 4b (6)
-x log (a +b )
-Q3
-3 2
-a) Solve PY 6 FV eV poyaxt aan 4 (8)
-dx dx dx
-b) Solve [» sin (xy) + xy’ cos (xv) | dx+ [x sin (xy) +x°ycos (xv) | dy=0 (6)
-2
-
-c) Apply the method of undetermined coefficients to solve ay y=e'sinx. (6)
-
-1/2
---- page 2 ---
-Q4
-a)
-
-b)
-°)
-
-Q5
-a)
-
-b)
-
-c)
-
-Q.6
-
-b)
-
-°)
-Q.7
-
-a)
-
-b)
-
-c)
-
-a 2a-x
-
-Change the order of integration and evaluate: i) i) xy dx dy
-0 x/a
-Vex 1. 1
-Evaluate i) [ x3y ?(1-x—y)? dxdy
-
--10
-
-Evaluate [[Vxv- y’ dxdy where R is a triangle whose vertices are (0,0), (10,1)
-R
-
-and (1,1).
-
-Solve (D + 2D+1)y =xcosx
-d’y
-Apply the method of variation of parameters to solve he +y=tanx.
-
-dy y y 2
-Solve —+log y ==;(lo
-dx x a sal 87)
-
-- 4
-Evaluate fw .
-(1+cos6)"
-
-3/2
-
-Evaluate ( x (1 -x° ) dx
-
-Show that [(x-5) (6~x)’ de = B(6,7)
-
-a3 Vx? +0?
-dx d.
-Evaluate xan ay
-
-22 yaxta
-
-11 l-x
-
-Evaluate [ { | xdxdydz
-
-oy 0
-
-a 1
-If tan(@ +i¢) = tana +iseca , prove that ef =c0b 5.20 = hme, bai
-
-x
-
-2/2
-
-(8)
-
-(6)
-
-(6)
-
-(8)
-(6)
-(6)
-
-(8)
-
-(6)
-(6)
-
-(8)
-
-(6)
-
-(6)
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper 198b4e5605d5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 18/06/2013
-- Text: text (2 pages)
-
-````text
-SVKIvI's NMIMS
--Program&e:
-,.   ,   Academic Year :2012-2013
-Batch:   20 11-2012
-..   Subject:   Applied-MathematissII
-Date:   18/06/2013   Duration: 3 hrs.
-Re - Examination
-- - ---
-Instructions: Candidates should read carefullythe instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-a) Question No. 1 is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) In all five questions to be attempted.
-d) All questions carry equal marks.
-e) Answer to each new question to be stated on a fresh page.
-f) Figure in brackets on the right hand side indicate full marks.
--
-a) Solve -+---- dY   4 v -   1
-dx x2+1 (,z+q3
-b) Ifz =cosB+isinB; Prove that -- l + z -rcot-. . 6
-1-z   2
-C) Evaluate r&-e-2d
--,
-d) Evaluate IJV~-*&~Y
-0 0
-I Q.2   .   .   . .
-a) Evaluate IJJxyz(x2+y2 +z2)drdYdz over the first octant of the sphere   .   .   . .-
-x2+yz+z2=a2   . .   ( 8 ) .   ~~
-log2 x x+
-b) Evaluate   fe"~"dx&dz
-0 0 0
-c) Find the roots of the equation x4-x3 +xZ -x+1=0
-Q-3
-a) Solve (l+x)'--+(l+x)-+y=coslog(l+x) d2y   dv
-dx2   &
-b) Solve (2ay4eY+2xy3+y)dx +(x2y4eY-x2v2-3x)dy =0
-c) Solve -=x3y3-ay.. dr
-dx
---- page 2 ---
-a) Change to polar coordinates and evaluate: 1 4uyI d x d ~.
-.......   ...   0 ./40 v 2 /
-.   .   .   .   , *.-   -.. .--...-.--
-b) Evaluate jIJ2xy -y dxdy where R is a triangle whose vertices are (0,0), (1 0,l)
-R
-and (1,l).
-Y I S   3   1
-c) Express as single integral and evaluate I =   drQ + Idy Jdr .
-0 -6   1   -1
-Q.5
-a) If sina+2sin~+3siny=0,cosa+2cos,f?+3cosy=O,provethat
-sin3a+8sin3~+27sin3y=18sin(a+~+y~cos3~+8cos3~+27cos3y =lBcos(a+p+y)
-(8)
-b) If tan- X =tanh- U ,Prove that
-2   2
-i) sinhu =tanx
-ii) coshu =secx   (6)
-..
-Q.6   ..   :, e,
-a) Solve (DZ-5D+6)y = e-' secZ x(1+ 2 tanx) ,by using method of variation of   .
-parameters.'   (8)
-b) Solve ( ~ ~ - 2 ~ + l ) ~ = x e ~ s i n x   (6)
-c) Solve y-=x-yx2siny dr . .
-dv   ' X   g . .   A
-'   .   .   . .V
-Q.7   -   . . . .   . ,;: :4 .$fgV;. ,!:. . ? .   .
-a) prove that   dn   =-p(-,-) 1   n n andhenre ivduatc jsec h8x'&   . ~.-x8~j ... .-:   ,   ..=
-(ex+e-")"   4   2 2   . .. .   8   ...... . .   -.
-~ ' ( 1+x ~ )   . . .   .   d s   . .   .   .   . ..
-b) Evaluate   (1+x)16 dx   .   .   (6) .
-0   1 .:, . ..   -   .......... , -" .-.
-c) Evaluate 5"   sin46' dB   u I. ,~   -   PI   * '"'2 :. -
-.(I+ cosq2   ',   .,,,   ,. -   :   . , . L =..... ;<
-YU   .J   ,..=,:   ,   . . . : -.   ,,
-````
-
-## 2010-11 · Exam not stated · Trim 2 · paper 6cb22f065072
+## 2010-11 · Exam not stated · Trim 2 · paper da7744530ba8
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II B TECH (ALL STREAMS) BATCH 10-11,0001.pdf`
-- Printed on paper: exam date: 22/06/2015
-- Text: ocr (2 pages), mean OCR confidence 79.7
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BACTH 2008-2009.pdf`
+- Printed on paper: exam date: 17/06/2011
+- Text: ocr (2 pages), mean OCR confidence 78.9
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS <i
+Mukesh Patel School of Technology Management & Engineering
+Programme: B.Tech (ALL STREAMS) Year: I Trimesterj, I
+Academic Year : 2010-2011 {
 
-Programme: B. Tech (All Streams) Year: I Trimester: II
-Batch: 2010-11, 2011-12, 2012-13
-Academic Year: 2014-2015
-Subject: Applied Mathematics -II
-Marks: bi ” F
-Date: 22/06/2015 Time: 19.00 am to 1.00pm
+Batch: 2008-2009 \
+Subject: Applied Mathematics-II Marks: \ -100
 
-Durations: 3 (hes)
+Time: \\10,00 am To 1,00;6m
+Date: 17/06/2011 Duration: 3:hrs! Wwe
 
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. one is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-QI (1+i)* (1-3)
-a) Express ; inthe form of a+ib (5)
-
-(1-i)' (1413)
-
-b) Evaluate [xe ae (6)
-0
-c) Solve (sinxcosh y)dx—(cosxsinh y)dy=0; y(0) =3 (5)
-Lx?
-d) Find ff e*ayie , (5)
-00
-2
-Q a) If w=log un(2+8)| , prove that tanh“ = tao” and coshucos@ =1 (8)
-\4 2) 2 2
-b) Find n” roots of unity and prove that they are in geometric progression. (6)
-c) If log(x+iy)=e?"", prove that y = xtan@ where 26 = tang log (x? + y) (6)
-Q3 a) Solve (D? +4)y=x? +sin2x+e™ (8)
-b) sotve S4( = |yex9 ©
-dx \I-x ;
-c) Solve y(t xy)dx + x(l+ xy + x’ y*)dy = 0 (6)
-
-4/2
---- page 2 ---
-Q4
-
-Q.5
-
-Q.6
-
-Q.7
-
-a) Solve (D? -4D+4)y = e?* sec? x by the method of variation of
-parameters.
-tan“! y
-b) Solve im 7 = ce
-dy yl y +1
-,dy dy
-c) Solve x" a EE Be Y 4 5y=sin(logx
-) ar ot ty (log x)
-1l+x
-a) Prove that pte eat.
-(1+ x) 5005
-%
-b) Evaluate ! cos® 30sin’ 66d0
-c) Evaluate [ |, {log (1/x) dx
-a) Find me mass of a plate which is formed by the co- ordinate planes and the
-plane — ane _ +2 =1, the density is given by p = kxyz
-a c
-b) Evaluate II r? sin@drd@ where R is the region of the circle r =2acos@
-lying abanre the initial line.
-c) Evaluate {iy dxdydz over the region V enclosed by x* + y° =9and planes
-x=0,y=0,z=O0and y=8.
-5 2+x
-a) Change the order of integration and evaluate the integral: { [ dydx
-0 2-x
-8
-b) Evaluate fas —x)(x-3) dx
-3
-c) Show that the principal value of sin” (ix) is ‘log (= +V14+x° )
-
-(8)
-(6)
-
-(6)
-
-(8)
-
-(6)
-
-(6)
-(8)
-
-(6)
-
-(6)
-
-(8)
-
-(6)
-(6)
-````
-
-## 2010 · Exam not stated · Trim 2 · paper 999e1e6cdc31
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS-II B TECH (ALL STREAMS), BATCH 2010-0001.pdf`
-- Printed on paper: exam date: 15/12/2014
-- Text: ocr (2 pages), mean OCR confidence 71.8
-
-````text
-SVKM’'s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Trimester: II
-Batch: 2010-11, 2011-12, 2012-13 Zz = Wa, .
-Academic Year: 2014-2015 jeer ao
-Subject: Applied Mathematics -II jf @ f h
-Marks: j Bots Tun 2}
-Date: 15/12/2014 Time: 410. ot er gee
-Durations} rs AGS
-a ai ea
-
-Re-Examination —
+Re - Examination —
 
 Instructions: Candidates should read carefully the instructions printed on the question
 paper and on the cover of the Answer Book, which is provided for their use.
@@ -2390,602 +3008,167 @@ paper and on the cover of the Answer Book, which is provided for their use.
 NB:
 a) Question No. 1 is compulsory.
 b) Out of remaining questions, attempt any 4 questions.
-c) In all five questions to be attempted.
-d) All questions carry equal marks.
-e) Answer to each new question to be stated on a fresh page.
-f) Figure in brackets on the right hand side indicate full marks.
+c) All questions carry equal marks.
+d) Answer to each new question to be stated on a fresh page.
+e) Figure in brackets indicate full marks.
 
 Q.1
-a) Evaluate [, e* dx. (5)
-Ly ,
-b) Evaluate [fave dxdy | (5)
-00
-(cos 50 —isin 50) (cos 76 + isin 70)"
-c) Prove that 5 goal. (5)
-(cos 46 —isin 40) (cos@ +isind)
-d) Solve {D°+6D* +9D*} y=0. (5)
+2+i)(1+2i
+a. Express in form of x+iy , (2+#)(1+2/) (5)
+(3+ 4i)
+z
+b. Evaluate: [cos’ 20sin” 40d0 (5)
+0
+c. Solve(x’ + y*)dx—3xy*dy =0 (5)
+d. Prove that t sin? xdxe r sin?" xdx = ee i) (5)
 Q.2
-oot 2 6 a
-q) Evaluat —= dx fe’ dy=—. 8
-a) valuate J, “T= [oe ly 9 (8)
-b) Evaluate [,(logx)‘ae. (6)
-c) Evaluate [7 cos’ 30 sin’ 66d0. (6)
-Q3
-a) Solve @ a1-x(y-x)-¥ (ya) (8)
-he
-b) Solve (xy-2y")de-(x° -3xy) dy =0.: (6)
-c) Solve pat} Bo. : (6)
-y jax
+a. Find zif arg(z-+1)=7 & arg(z-1) === (6)
+. 6
+b. Find the modulus and principal value of (+ivs}" (6)
+(V3 -i}
+ce. If atib= prove: (a +f°)(a’ +b’)=1 (8)
+at+ip
+Q.3
+a. Solve [eva (6)
+b. Evaluate: fe (2- x) Pde (6)
+
+fo
 --- page 2 ---
+. 4
+Solve [ _ fn tie (8)
+
+(1+cos6)
 Q.4
-
-dxdydz : 242452 —
-a) Evaluate i Vi-v-y-2 over the volume of the sphere ~ +y' +2 =I in the
-positive octant. (8)
-= x2 =
-b) Evaluate {I ydx dV \ here R is the region bounded by” = * >* ty=2. (6)
-R
-1/2 acosO
-2
-9) Evaluate J J rdOdr | (6)
+a. Solve sec’ x tan ydx+sec’ y tanxdx =0 (6)
+i 1 1
+b. Find the value of (-1)5, (-i)3, (32)5 (6)
+ec. Solve ® ry tanx =sinx aty=0,x=— (8)
+dx 3
 Q.5
-a) Prove that the general value of (1+/tan a)" is
-enna [cos(logcosa) + isin (log cosa’) |. (8)
-b) Solve x°-i=0. . (6)
-4
-(1+) (1-iv3)
-c) Solve — : (6)
-(1-1) (1+iv3)
+4 9-yx
+a. Change the order of integral [ [f(x y)dedy (6)
+0 y/2
+b. Find the area between the parabola y=x* — 6x+ 3 and the line y= 2x-9. (6)
+ec. Calculate [ [Pardo over the area included between the circles r = 2sin 6,r = 4sin0
+(8)
 Q.6
-a) Solve (4x?D? —4xD +1) =0 where y(1)=0,y'(1)= V3. (8)
-b) Solve(D? +1)y = sinxsin 2x. (6)
-2
-c) Solve using variation of parameters, a> + y=cosecx. (6)
-M4
+d d
+a. Solve x Sy 2 + dy =x loge (6)
+b. Solve the equation x’ +x*+x°+1=0 (6)
+c. Find the volume of the tetrahedron bounded by the planesx =0, y=0, z=0
+and x+y+z=a (8)
 Q.7
-a 2a-x
-‘a) Change the order of integration f J f (x.y) dxdy, (8)
-0 x/a
-sod ~4x*
-b) Evaluate [, (7) > dk (6)
-3/2
-dx. (6)
+a. Solve (D?+D+1)y=(1+sinx) (6)
+b. Solve (D? + D) y= ; I + using method of variation of parameters. (6)
++e
+d dy 3
+ec. Solve 6-2. +17—+12y=e ? +2*, by using method of undetermined
+dx
+coefficients . (8)
 
-1 x! 3 x
-c) Evaluate La [, Gx)” x
-
-& ¥
+4,
 ````
 
-## 2010-11 · Exam not stated · Trim 2 · paper 8fbc441419e0
+## 2010-11 · Exam not stated · Trim 2 · paper 9e63771392c5
 
 - Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2010-2011(7).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08/02/2011
-- Text: ocr (2 pages), mean OCR confidence 75.5
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2008-2009 (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17/06/2011
+- Text: ocr (2 pages), mean OCR confidence 79.6
 
 ````text
-ES BAS | RSP ST RRNA ea ESE SN —
-\ SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (TECH)- ALL STREAMS Year: I Trimester: II
+SVKM’s NMIMS !
+Mukesh Patel School of Technology Management & Engineering
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: [I .
 Academic Year : 2010-2011
 
-Subject: APPLIED MATHEMATICS - Il Marks: 100
-Time: 10.00 AM TO 1.00 PM |
-Date: 08/02/2011 Duration: 3 hrs.
+Zz
 
-Final - Examination
+Batch: 2008-2009 \ Ge,
+Subject: Applied Mathematics-II Marks: 100 Sen
 
-Note:-
-1) Question No. 1 is compulsory
-2) Out of remaining 6 questions, attempt any 4 questions
-3) Figures to the right indicate full marks
+Time: 10.00 am To 1.00 pm
+Date: 17/06/2011 Duration: 3 hrs.
 
-Q.1. a) Given that 1+2i is one of the root of the equation x*. 3x3 + 8x? — 7x + 5 =0 Find other
-roots and hence find sum of all roots of the given equation.
+Re - Examination
 
-b) Solve:- oy e*%(e*-e”)
-
-we uty
-
-Jog
-c) Evaluate:- 5 § if e*'* dx dy dz
-o 6 ¢
-
-d) Change the order of integration and evaluate
-! 2)
-
-Sa J etyttog yay (20)
-oO Qo
-Q.2. a) Solve completely (8)
-(D’ - D?+ 3D +5) y = e*cos3x
-b) Solve: (6)
-(y — 2x’) dx — x (1 -xy) dy =0
-c) If tan * tan ve (6)
-Show that:-
-i) Sin hu = tan x
-ii) Cos hu—cos x = 1
-
-iii) U=log tan(7+*
-Hi) log tan ( 4°93 )
-Q.3. a) If cos hx = sec@ prove that — (8)
-
-i) x = log (secO + tanO)
-ii) O= a 2 tan" (e”)
-
-b) Find the roots common of (6)
-x4+41=0 and x°-i=0
-
-c) Expand sin’ @ in series of sine multiples of © (6)
-
-fa
---- page 2 ---
-Q4.
-
-Q5.
-
-Q.6.
-
-Q.7.
-
-a) Find by double integration the area common to the circles x*+y-4y = 0 and x+y? — 4x.
-
-—4y+4=0 1% (8)
-
-b) Evaluate: - f sin’ 60 . cos°30 dO (6)
-6
-
-c) Evaluate: - ff f x yz dx dy dz over the positive (6)
-
-Octant of the sphere x’+y?+z" = a”
-
-a) State and prove relation between Beta and gamma functions. (8)
-a
-
-b) Prove that: 5) de © wach n> ©
-
-a " fon gen n
-
-i]
-a
-c) Show that: 5 fmm de » =i i ©)
-ES
-o z
-
-Solve: -
-
-a) (3x +27 & + 30x42) 2 - 36y = 3x7 +4x +1 (8)
-
-b) Using ‘aan of parameter method solve (6)
-a ba = cosec x
-dx dx
-
-c) Using method of undetermined coefficient solve (6)
-
-& -2 yy = e*sinx
-dx? dx
-
-a) IfZ=-1+i V3 andnisan integer, prove that 27" + 2".z" +27" =O ifnis nota
-
-multiple of 3 (8)
-b) Change the order of oe (6)
-t {t-xe®
-J § du oly
-3 PN ee iey*
-c) Find the volume sie ‘sae fo night circular . (6)
-
-cylinders x 2 by? =a’ and x°+z? = a?
-
-1.
-````
-
-## 2010-11 · Re-Exam · Trim 2 · paper 9c586be9e0ab
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 18/06/2012
-- Text: ocr (3 pages), mean OCR confidence 77.6
-
-````text
-—
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: II
-
-Academic Year : 2011-2012
-
-_ Batch: 2010-2011 [ =, 8 5, \
-«Subject: Applied Mathematics-II Marks: 1404 LF 2
-Time: 10:90 am To 1. 00 Ee ;
-Date: 18/06/2012 Duration: 3 hrs& dehy ee
-Re - Examination pe
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
 
 NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-Ou: F
-(a) Evaluate J (x logx)3 dx (5)
-me) Solve (Xy? + y)dx + (xy - x)dy =0 (5)
-éc) Simplify (cos 28+ i sin 2@)*. (cos 3@- isin 36)5 (5)
-
-(cos 4G+ i sin 46)*. (cos 5 8+4i sin 56)-4
-
-(d) Find by double integration the area bounded by the lines y=a+x, y=a-xand (5)
-
-X=a,(a>0).
-Q.2. .
-(a) ifarg (z+1)= 1m andarg(z-1)=an__ find the complex number z. (6)
-. i 6 3
-a)
-
-(b) Find the volume of the tetrahedron bounded by the planes x =0, y = 0,z=0, (6)
-. Xty+z=a
-
-(c) If cos hx = sec ©, prove that (8)
-i) tanh 2 — + ton &
-
-i ee TW - 2 tan” '(é”)
-
-Page 1 of 3
---- page 2 ---
-Q.3.
-
-(a) Solve (D +3D+2)y=-e" (6)
-2
-(b) Solve § x ay + LK oy — 204 = (&+ \) . (6)
-dn? ane
-
-(c) Using the transformation, u =x + y,v = x - 2y. Evaluate [{(x+y)@dxdy whereR (8)
-is the parallelogram in the xy plane with vertices (1,0) 13,1) (2,2) and (0,1).
-
-QA. ; 5
-(a) i) Provethat sec’ Cine) = leq cot © (6)
-
-oi =. 3
-ii) Prove that Sink CK) = bog (« ats i
-
-2 2
-(b)Solves Caet) AY _ 9 (reti) dy _ 124 =6% (6)
-de de
-i
-(c) Evaluate f dx J @-v y* log y dy by changing the order of integration. (8)
-0 '
-
-5.
-b Solveix cos x dy +y (xsinx+cosx)=1 (6)
-“dx
-ei
-(b) Find the mass of the Lamina in the form of as ellipse 3 + yp =I ifthe density (6)
-at any point varies as the product of the distance from thé axes of the ellipse.
-
-(c) Using method of uadetermined multiplier solve the equation’ (8)
-, (D +3D+2)y=10 G3 + 4x2
-v!
-Q.6.
-(a) Change to polar coordinates and evaluate ‘i rx dx dy (6)
-o
-(b) Solve; dy 4x3y2+ycosxy _ (6)
-
-“dx 2x4y + X COS Xy
-
-Page 2 of 3
---- page 3 ---
-(c) The charge Q of a condenser, capacity C, discharged in a circuit of resistance R and self
-~ inductance L satisfies the differential equation
-
-LAS aR 4848 LO
-
-dy? at fe
-Solve the equation with initial conditions that Q = Qand dQ - pwhen t=0 (8)
-2 dt
-
-and CR AAL
-
-Q.7.
-
-(a) Find the nth roots of unity and find their continued products. (6)
-
-242. . 3
-(b) Solve xd-y 4 % Ay y 2 by (6)
-dum aot rie
-
-the method of variation of parameters.
-
-(c) Prove that 4 Bom,n) = Tm , [n- and hence show that (8)
-
-a
-
-fm+n
-
-——— K —
-
-Page 3 of 3
-````
-
-## 2010-11 · Re-Exam · Trim 2 · paper 723a9e7a850a
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2010-2011 RE EXAM (1).pdf` (+2 identical copies)
-- Printed on paper: exam date: 03/02/2012
-- Text: ocr (2 pages), mean OCR confidence 71.7
-
-````text
-SVKM’s NMIMS
-
-Programme: B.Tech - ALL STREAMS Year: I
-Academic Year : 2011-2012
-
-} Batch: 2010-2011
-
-5 SVKM'S \*
-Subject: APPLIED MATHEMATICS-II Marks: ( ni@O: University © \ |
-Timd| x   2:00%pm°Fo 5}
-, t £
-Date: 03/02/2012 DuraVoal 3 hrs. sf,
-Re - Examination es . ») =
-
-F ; ; . . “06 a ®
-Instructions: Candidates should read carefully the instructions printed on The qléseiehy bapér and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-
 a) Question No. 1 is compulsory.
-
 b) Out of remaining questions, attempt any 4 questions.
-
 c) All questions carry equal marks.
+d) Answer to each new question to be stated on a fresh page.
+e) Figure in brackets indicate full marks.
 
-d) Answer to each new question to be started on a fresh page.
+Q.1
+(2+i)(1+2i)
 
-e) Figure in right indicate full marks.
-
-Que.1)
-a Simplify i+ e087 isin 8)
-
-1+cos@-isin@
-
-lL x
-
-b) Evaluate [ fxrG@ + y)dydx
-
-0 x?
-
-1
-c) Evaluate [roa x?) dx
-
-0
-
-d) Solve (2x+cosh(xy)) de +22 Costa) —sinhay) (5, _ 9
-y
-
-Que.2)
-
-- 1 4
-a) Change the order of integration and evaluate J J e* dx d y
-0 4y
-
-b) Find the area between the curves y? = 4x and2x—3y+4=0.
-log2 x xty
-
-¢) Evaluate J f Jew dx dy dz
-0 0 0
-
-L(—xt)% 11 71
-} a) Prove that J dx = —.—> (z.+}
-0 (1+ x") 4 2% 4°3
-
-" m-l Im mr
-b) Show that fx cos ax dx = —-cos|,—
-a, a 2
-
-2. 2
-
-x
-c) Evaluate ———7_ ax,
-! (1+ x6)%
-
-1 Vo
---- page 2 ---
-Que.4)
-
-Que.5)
-
-Que.6)
-
-Que.7)
-
-a)
-
-b)
-
-c)
-
-b)
-¢)
-
-a)
-b)
-
-c)
-
-a)
-b)
-
-Solve (D—1)*(D? +1)y =e* + sin’ (}
-
-Sok dy ne x?y>4+2y
-Oe dx 2x-2x?y?-
-
-Solve (1+ y’)dx = (ew'” = x )dy.
-
-If cosh x =sec@, Prove that
-i) x=log(secO+tan@) _— ii) 9=%—2tan""(e™*) iii) tanh= = tan
-
-Find the principle value of (i + i)" .
-
-Find the value of 2/1 + iV3 + */1-iV3 .
-
-State and Prove that Duplication Formula of Gamma function.
-1 V2-9?
-Change the Order of Integration J i) f(x,y) dx dy
-
-0 1
-Find the Volume common to the cylinders x? + y? =a® andx* +z? =a’.
-
-Apply the method of variation of parameters to solve (D? -2D +2)y =e* tan x.
-d’y d*y . dy
-3 2 2
-Solve X + 6x° —>-+8x—+2y=x°4+3x-4,
-oe ae} det dx
-
-a
-: TU
-Prove that sin? x cos’ x dx = <
-
-—a
-
-— my
-
-20
-````
-
-## 2009-10 · Exam not stated · Trim 2 · paper bd43cad8d26a
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/2009-2010.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 79.1
-
-````text
-~~
-
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E
-
-PROGRAMME:B. TECH ( ALL STREAMS) I YEAR TRIMEST.
-FINAL EXAMINATION(2009-10)
-
-Subject : APPLIED MATHEMTAICS - I DATE : 8" February 2010
-MARKS : 100
-TIME : 3 hrs. (3.00 p.m. to 6.00 p.m.)
-
-Instruction : Candidates should read carefully the instructions printed in the question paper and on
-the cover of the answer book, which is provided for their use.
-
-NB:
-a) Question No. 1 is compulsory
-b) Out of remaining questions, attempt any 4 questions
-c) All questions carry equal marks
-
-d) Figure in bracket indicates full marks.
-
-1. a) Using Gamma functions Prove that (5)
-
-\j a
-jemol=*. | m+’ = sa 2m
-. apt % _ .
-b) Solve diya dy y = log XSin (log X). a-% (5)
-¢) Change the order of integration ‘ xy dxdy (5)
-and hence evaluate the same. °
-
-d) Solve the equations: (5)
-i) Cos hx- #3 Sinhx = 1
-ii) tan hz —€othz=2i , where 2=x+iy
-
-Q. 2. a) Find tan hx, if 5 Sin hx — Cos hx = 5 (6)
-b) Find the General Solutions of ty +4y (6)
-=5+3 Cos 2x + 4 Sin 2x.
-¢) Show that tan WX wettmmmlgc=Sinh'/ xk (8)
-Shap gbiclt
-= Cos h™
-
+a. Express in form of x+iy , G " di) (5)
 i
-Vx
+b. Evaluate: J cos® 20 sin? 40d0 (5)
+t 0
+c. Solve (x? +y ) de —3xy*dy =0 (5)
+(2. » [2 pal _ 2
+d. Prove that f sin xdee [ sin?" xdx = 2(p+i) (5)
+Q2
+a. Find if arg(2+1)= & arg(z—1) === 6)
+. 6
+b. Find the modulus and principal value of (ris) (6)
+(3) |
+c. If atib= prove: (a@°+f)(a@ +b’)=1 (8)
+atip
+Q.3
+a. Solve [eva (6)
+b. Evaluate: fe (2- x) "de (6)
 
-P.T.O.
+Yo
 --- page 2 ---
-a taeda
-Q. 3..a) Using Polar form, evaluate f {> + y) dx dy <6)
-()
-b) Evaluate: ul} Z dx dy dz over the volume
+. 4
+c. Solve [se (8)
 
-common to sphere x? + y” *s? = a” and Cylinder x+y = ax.
+(1 +cos 6)
+Q. 4
+a. Solve sec’ x tan ydx+sec” y tan xdx =0 (6)
+1 1 1
+b. Find the value of (-1)5, (-i)3, (32)5 (6)
+ec. Solve ® soy tan x =sinx at y=0,x=— (8)
+dx 3
+Q.5
+4. 9-yx
+a. Change the order of integral f f I (x, y)dxdy (6)
 
-(¢)
+0 y/2
+b. Find the area between the parabola y= x’ — 6x+ 3 and the line y= 2x-9. (6)
+e. Calculate i) [r°ardo over the area included between the circles 7 = 2sin @,r = 4sin@
 
-c) Find the volume of a Paraboloid of revolutionX + Pf ? — 4Zand cut off by the (8)
-
-planeZ=4
-
-Q. 4.) A lamina is in the shape of Cardiode r= a (1 + Cos @). If the density at any point
 (8)
 
-of lamina is Ky2. Find the mass of damina.
-(6)
+Q.6
 
-b) Show that the area o, the curve
-= y(2G-y)isna
-}
-c) Evaluate: J 4 / @-3)(7-x) ee ©
+d dj
 
-Q.5) a) Evaluate: ) § oe at; % y “dx dy ; over acircle x + y=a (8)
-ee
+a. Solve x yr + Dy =x loge (6)
+b. Solve the equation x’ +.x*+x°+1=0 (6)
+c. Find the volume of the tetrahedron bounded by the planesx =0, y=0, z=0
+and x+y+z=a (8)
 
-b) Solve: y e4 =(y° + 2x€%) dy (6)
+Q.7
+a. Solve (D?+D+1)y=(I+sinx) (6)
+b. Solve (D° + D) y= i u using method of variation of parameters. (6)
 
-dx
-c) Solve: dy = Sin?y — Siny Cosy (6)
++e
+dy dy ae . .
+c. Solve ar HT +12y=e ? +2*, by using method of undetermined
 
-dx x” x:
-Q.6.a) Solve: (D? +4) y=x’ Sin2x (6)
-b) Solve: (D?- D’- 4D +4) y =e ™ (6)
-c) InanL-C-R circuit, the charge qn a plate of a condenser is given by (8)
+coefficients . (8)
 
-Lady, +Ridgesg, << = ESin. pt
-di dt c
-
-The circuit is tuned to resonance so that
-
-Oye wos
-p? =1/LC. Ifinitially the current i and the charge qbe zero, Show that, for small values
-of R/L, the current in the circuit at time t is given by (Ev/2L) Sin pt
-
-Q. 7. a) Solve the equation dy + 3dy + 2y = 2e* Cos/x. (6)
-dx’ dx 2.
-b) Evaluate   {x°y dxdy ; over the positive quadrent of an ellipse x, + ie =1 (©)
-a b
-c) Change the order and evaluate (8)
-he a-g
-ffi
-(a) al 2
-
-X x X: >, ¢ Xx: Xx: x: Xx
-
-=
+hh
 ````
 
-## 2009-10 · Exam not stated · Trim 2 · paper b5aed29ec87a
+## 2010-11 · Exam not stated · Trim 2 · paper b5aed29ec87a
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -3127,111 +3310,132 @@ c) Solve x’ —x5 +x*-1=0
 06
 ````
 
-## 2009-10 · Exam not stated · Trim 2 · paper 167de729f2d0
+## 2010-11 · Exam not stated · Trim 2 · paper 8fbc441419e0
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2009-2010(38).pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 70.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2010-2011(7).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08/02/2011
+- Text: ocr (2 pages), mean OCR confidence 75.5
 
 ````text
-y gr theta.
-ae IBRARY j& s
+ES BAS | RSP ST RRNA ea ESE SN —
+\ SVKM’s NMIMS
 
-Rare i
-FINAL EXAM (2004-10)
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (TECH)- ALL STREAMS Year: I Trimester: II
+Academic Year : 2010-2011
 
-SUB: Applied Mathematics II Marks : 100
-Date: 8° Gobruary 2010 Time: 3 has (2 pr to be)
-d
+Subject: APPLIED MATHEMATICS - Il Marks: 100
+Time: 10.00 AM TO 1.00 PM |
+Date: 08/02/2011 Duration: 3 hrs.
 
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
+Final - Examination
 
-Programme : MBA Tech. (Ate Stress Iyear
+Note:-
+1) Question No. 1 is compulsory
+2) Out of remaining 6 questions, attempt any 4 questions
+3) Figures to the right indicate full marks
 
-Note: 1. Question No. 1 is compulsory
-2. Out of remaining 6 Questions, attempt any 4 Questions.
-3. Figures to the right indicate full marks
-Q.1. (a) Find all values of (1 - x8 and the product of these values.
+Q.1. a) Given that 1+2i is one of the root of the equation x*. 3x3 + 8x? — 7x + 5 =0 Find other
+roots and hence find sum of all roots of the given equation.
 
-(b) Solve the equation: ay =xy (xy +1) (xy - 1)
+b) Solve:- oy e*%(e*-e”)
 
-xtZ
-(c) Evaluate i i (x+y+<z) @euipiz dy dz dz
-—| OO xz ' 2-2c>
-(d) Change the order of integration : ; F (x, y) dy dae
-ro)
-ea)
-Q.2. (a) Solve completely
-(D7+4D+4)y=cosh2x+ os 2x+1 (8)
-(b) Solve (1 +y?) dx = (tang-x ) dy ae (6)
-(c)If u=log [ tan ( z + $y) prove that
-Tanh a = tan g and Cos hu = sec (9 (65
-Q.3 (a) Prove that €osh?x =1 + §inh*x , hence or otherwise find <in h Q@c+y) and
-Cosh (x + y) where ‘Cosh x= 3 and sinhy = 2 (85
-(b) Show that the roots of 3? = | are in geometric progression and find the sum
-of these root. (6)
-(c) Expand tose in a series of cosines of multiples of ©, (6)-
+we uty
 
-Q.4 (a) Using Double integration find the area of circlex? + y?=2 ax, which lies outside the
+Jog
+c) Evaluate:- 5 § if e*'* dx dy dz
+o 6 ¢
 
-; a aa f
-circle x t+y~=a £8)
-(b) Using Spherical polar co-ordinates, evaluate ¢ _
+d) Change the order of integration and evaluate
+! 2)
 
-sate (es
+Sa J etyttog yay (20)
+oO Qo
+Q.2. a) Solve completely (8)
+(D’ - D?+ 3D +5) y = e*cos3x
+b) Solve: (6)
+(y — 2x’) dx — x (1 -xy) dy =0
+c) If tan * tan ve (6)
+Show that:-
+i) Sin hu = tan x
+ii) Cos hu—cos x = 1
 
-ame
+iii) U=log tan(7+*
+Hi) log tan ( 4°93 )
+Q.3. a) If cos hx = sec@ prove that — (8)
+
+i) x = log (secO + tanO)
+ii) O= a 2 tan" (e”)
+
+b) Find the roots common of (6)
+x4+41=0 and x°-i=0
+
+c) Expand sin’ @ in series of sine multiples of © (6)
+
+fa
 --- page 2 ---
-peas 2 elt
+Q4.
 
-Clo) ely et
-J ‘ st ti Over volume of hemisphere
-Vinx y% 3g
-x + y?+ 27 = 1, lying above xoy plane. {63
-C
-1%
-(c) Evaluate {63
-jin ¥ Sin ® £5 Cosa do
-3 '
-Q.5 (a) if f ay dx. =k 7 find ‘k’ es)
-oO comes (2) Jt- <4
-ce —
-(b) Prove that « J et Peles Pik a Cae mt {6}
-ce oe
-7 ee *
-3 :
-(c) Evaluate i Cx leg a alos {6}
-°
-3
-3 a. fF t.
-.6(a) Solve ne 2 = xc +8. 8
-Q6(a) spits + Si, + 2y= lol te) &)
-(b) Using variation of parameter method, solve ( D4} a”) y=sec ax (6)
-(c) Using method of undetermined coefficients Solve
-d*y d oe ;
-5. 72 gt +Y= 2 oshe+t sin & (6)
+Q5.
 
-Q. 7 (a) State True / False with proper justification
-i. There are infinite number of solutions to the equation Z tHe lz fe =0 where%
-is a complex number. Pn
-ii. Ifn is natural number, 12! =1 and = all -j,thn 2
-is real number. peg aN
-iii. Cos ( |-3%) is negative. (8)
+Q.6.
 
-(b) Change the order of integration and evaluate
-ee et ow,
-} al ils Dasa OE (6)
-cit e9 rye ye -
+Q.7.
 
-(c) Find the volume common to the cy inders —
+a) Find by double integration the area common to the circles x*+y-4y = 0 and x+y? — 4x.
 
-x°+ y?=a~andy 7+ 27= a> 6)
+—4y+4=0 1% (8)
+
+b) Evaluate: - f sin’ 60 . cos°30 dO (6)
+6
+
+c) Evaluate: - ff f x yz dx dy dz over the positive (6)
+
+Octant of the sphere x’+y?+z" = a”
+
+a) State and prove relation between Beta and gamma functions. (8)
+a
+
+b) Prove that: 5) de © wach n> ©
+
+a " fon gen n
+
+i]
+a
+c) Show that: 5 fmm de » =i i ©)
+ES
+o z
+
+Solve: -
+
+a) (3x +27 & + 30x42) 2 - 36y = 3x7 +4x +1 (8)
+
+b) Using ‘aan of parameter method solve (6)
+a ba = cosec x
+dx dx
+
+c) Using method of undetermined coefficient solve (6)
+
+& -2 yy = e*sinx
+dx? dx
+
+a) IfZ=-1+i V3 andnisan integer, prove that 27" + 2".z" +27" =O ifnis nota
+
+multiple of 3 (8)
+b) Change the order of oe (6)
+t {t-xe®
+J § du oly
+3 PN ee iey*
+c) Find the volume sie ‘sae fo night circular . (6)
+
+cylinders x 2 by? =a’ and x°+z? = a?
+
+1.
 ````
 
-## 2009-10 · Exam not stated · Trim 2 · paper 50b3cb18baab
+## 2010-11 · Exam not stated · Trim 2 · paper 50b3cb18baab
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -3392,536 +3596,7 @@ If cos & ia oosh [+ if) =1 where a,b are real. Prove that 2b = log(2 + V3)
 ~—
 ````
 
-## 2009-10 · Re-Exam · Trim 2 · paper f0b299f201e5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2009-2010 re exam(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08/02/2011
-- Text: ocr (2 pages), mean OCR confidence 77.4
-
-````text
-; SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (TECH) -ALL STREAMS Year: I Trimester: II
-Academic Year : 2010-2011
-
-Batch: 2009-2010
-Subject: APPLIED MATHEMATICS - II Marks: 100
-Time: 10.00 AM TO 1.00 PM
-Date: 08/02/2011 Duration: 3 hrs.
-Re - Examination
-Instructions:
-
-1) Question No. 1 is compulsory. Each sub question carries ‘5 marks’ each.
-
-2) Out of remaining 6 questions, attempt any 4 questions. From Question No. 2 to
-Question No. 7 part (a) carries 8 marks, part (b) and (c) carries 6 marks each.
-
-3) Answers to each new question to be started on a fresh page.
-
-« mal
-Q.1 a) Evaluate f D dx using Gamma function.
-0
-
-Whom >
-b) Ifvi =a+if prove that a7 +f? =e *”
-a3 Vaex?
-¢) Find ff 2S
-6 96 tx +y
-
-d) Solve the equation (os x)log(2y-8) +a » Hina
-x
-
-40 = 0
-Q.2 a) ae. eae
-i)sin® asin? B+ sin* y =c0s* a +005" B +00" 7 =>
-ii) cos2a+cos2+cos2y =0
-iii) cos(a+ 8) +cos(B+y)+cos(y+a) =0=sin(a+ f)+sin(B+y)+sin(y+a)
-
-b) If cosec( 4] =u +iv, prove that (uw? +Vv y = 2(w -v’)
-
-c) Show that the principal value of sin“'(ix) is ‘log (x tyl4x )
-
-Q3 Loe
-
-a) Change the order of integration and evaluate J f hyde
-\x+y’
-
-b) Evaluate (-———— eo taken through out the volume of the sphere
-1-x Zz
-x’ +y’ +z? =1using spherical coordinates.
-
-c) Find the mass of the lamina bounded by the curves y’ = ax and x” = ay if the density of
-the lamina at any point varies as the square of its distance from the origin.
---- page 2 ---
-Q4
-
-Q5
-
-Q.6
-
-Q7
-
-x3
-a) Find Bos 3 x’dx using Beta function.
-
-b) Show that (ty = cos ee(=)
-; (a" 7 x") mn on n
-
-c) Show that fer ‘cos axdx = e cos(
-i
-
-a) Solve {D' +2D’ +1)y =x’ cosx
-
-b) Solve: tany 2 tan x(1—cos y) =0
-he
-
-c) Solve by the method of undetermined coefficients (D? +3D+ 2) y =3x"+2e*
-
-a) Apply the method of variation of parameters to solve (D -2D+ 2) y=e*tanx
-b) Acondenser of capacity C is discharged through an inductance L and resistance R in a
-
-28 4 Loi) Given that
-dt *C
-
-L=0 .25 henries, R=250 ohms, C =2x10~ farads and that at t=0, g =0.002 coulombs
-
-series and charge q at a time satisfies the equation L a4 Gyro
-It
-
-and the current =0. Obtain q in terms of t
-
-c) Find fsin’ O(1+cos6)'d@ using Beta function.
-0
-
-a) calculate the volume of the solid bounded by the following surfaces:
-z=0;+y =h xt y+72=3
-
-b) Find the area inside the cardioide r = a(1+cos@) and outside the circle r=a
-
-c) Solve the equation x’ +x*+2°+1=0
-
-7.
-````
-
-## 2009-10 · Re-Exam · Trim 2 · paper 9462d495d114
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2009-10,11,12 RE EXAM0001.pdf`
-- Printed on paper: exam date: 19/06/2012
-- Text: ocr (2 pages), mean OCR confidence 75.5
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-: Programme: MBA Tech Year: I Trimester: II
-/ 2.00916 [2010-U| [Academic Year : 2011-2012 Ce WSTITUZE 5
-Batch: 2011-12 { * oe My,
-
-Mo,
-
-Subject: Applied Mathematics II Marks: [s 100 % \
-Time: 310. 00 pm To 1. 004 pm
-Date: 19/06/2012 Duration: 34; irs. ¢
-
-oo ~ >
-NOT
--
-
-Re - Examination
-
-Instructions:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted
-
-4) Answers to each new question to be started on a fresh page.
-5) Figures in bracket on the right hand side indicate full marks.
-
-x
-
-Q.1 a) Evaluate ie ~ dx using Gamma function (5)
-b) Evaluate an +(1-)" (5)
-dy : a
-c) Solve —+2y ti =sinx aty=0,x=— i
-) er wae a ayetess (5)
-li-x 1 +
-d) Evaluate 1 Jey? y ?(l-x- yp dxdy (5)
--10
-a2
-= a) If w=logtan (3 +3) Prove that tanh = = tans and coshucos@=1 (8)
-8
-j L+sin2+icos™
-b) Simplify) ——’——8 | . (6)
-1+sin2-icos=
-8 8
-c) Expand cos’ @ ina series of cosines of multiples of @ . (6)
-ee 1 m-1 nl
-Q a) Prove that B(m,n) = loa (8)
-x
-} 0
-\ b) Show that fy y =“ cos ee(=] (6)
-q } 0( a’- = A n
-c) Evaluate j sin’ @(1+cos 6) do (6)
-0
-
-Lo
---- page 2 ---
-Q4
-
-Q.5
-
-Q.6
-
-bs
-
-a) Evaluate J Jf? yzdxdydz throughout the volume bounded by planes
-
-x=0,y=0,2=0and~ 4247 <1. (8)
-abe
-
-b) Find the area included between the curves y= x —6x+3, y=2x—9 by double
-
-integration. (6)
-Lx
-c) Change to polar coordinates and evaluate J jf (x+ y)dydx (6)
-00
-a) Solve (D?-2D+4)y =e" cos’ x (8)
-b) Voltage Ee is applied at t= 0 to a circuit contains inductance L and resistance R.
-~Rt
-Show that the current at any time t is given by i= |e" et ) (6)
-R-aL )
-2,
-c) Solve “ z + = using method of Variation of parameters (6)
-dx” dx = \+e
-Mey
-
-Zi
-a) Change the order of integration and evaluate J J apa TE 1 aaegy (8)
-
-600 VI-x?J1-x?-y?
-
-b) Find the mass of the lamina bounded by the curves y” = ax and x’ =ay if the density
-
-of the lamina at any point varies as the square of its distance from the origin. (6)
-c) Evaluate ies (6)
-0
-a) Solve x? FB aay = cos(log x) + xsin(log x) (8)
-b) Solve(y* +2y)de-+(xy" +24 —4x)dy =0 (6)
-c) Evaluate fe sin” xdx (6)
-d
-
-}
-
-‘ 22
-````
-
-## 2008-09 · Exam not stated · Trim 2 · paper da7744530ba8
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BACTH 2008-2009.pdf`
-- Printed on paper: exam date: 17/06/2011
-- Text: ocr (2 pages), mean OCR confidence 78.9
-
-````text
-SVKM’s NMIMS <i
-Mukesh Patel School of Technology Management & Engineering
-Programme: B.Tech (ALL STREAMS) Year: I Trimesterj, I
-Academic Year : 2010-2011 {
-
-Batch: 2008-2009 \
-Subject: Applied Mathematics-II Marks: \ -100
-
-Time: \\10,00 am To 1,00;6m
-Date: 17/06/2011 Duration: 3:hrs! Wwe
-
-Re - Examination —
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-a) Question No. 1 is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) All questions carry equal marks.
-d) Answer to each new question to be stated on a fresh page.
-e) Figure in brackets indicate full marks.
-
-Q.1
-2+i)(1+2i
-a. Express in form of x+iy , (2+#)(1+2/) (5)
-(3+ 4i)
-z
-b. Evaluate: [cos’ 20sin” 40d0 (5)
-0
-c. Solve(x’ + y*)dx—3xy*dy =0 (5)
-d. Prove that t sin? xdxe r sin?" xdx = ee i) (5)
-Q.2
-a. Find zif arg(z-+1)=7 & arg(z-1) === (6)
-. 6
-b. Find the modulus and principal value of (+ivs}" (6)
-(V3 -i}
-ce. If atib= prove: (a +f°)(a’ +b’)=1 (8)
-at+ip
-Q.3
-a. Solve [eva (6)
-b. Evaluate: fe (2- x) Pde (6)
-
-fo
---- page 2 ---
-. 4
-Solve [ _ fn tie (8)
-
-(1+cos6)
-Q.4
-a. Solve sec’ x tan ydx+sec’ y tanxdx =0 (6)
-i 1 1
-b. Find the value of (-1)5, (-i)3, (32)5 (6)
-ec. Solve ® ry tanx =sinx aty=0,x=— (8)
-dx 3
-Q.5
-4 9-yx
-a. Change the order of integral [ [f(x y)dedy (6)
-0 y/2
-b. Find the area between the parabola y=x* — 6x+ 3 and the line y= 2x-9. (6)
-ec. Calculate [ [Pardo over the area included between the circles r = 2sin 6,r = 4sin0
-(8)
-Q.6
-d d
-a. Solve x Sy 2 + dy =x loge (6)
-b. Solve the equation x’ +x*+x°+1=0 (6)
-c. Find the volume of the tetrahedron bounded by the planesx =0, y=0, z=0
-and x+y+z=a (8)
-Q.7
-a. Solve (D?+D+1)y=(1+sinx) (6)
-b. Solve (D? + D) y= ; I + using method of variation of parameters. (6)
-+e
-d dy 3
-ec. Solve 6-2. +17—+12y=e ? +2*, by using method of undetermined
-dx
-coefficients . (8)
-
-4,
-````
-
-## 2008-09 · Exam not stated · Trim 2 · paper 9e63771392c5
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II BATCH 2008-2009 (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 17/06/2011
-- Text: ocr (2 pages), mean OCR confidence 79.6
-
-````text
-SVKM’s NMIMS !
-Mukesh Patel School of Technology Management & Engineering
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: [I .
-Academic Year : 2010-2011
-
-Zz
-
-Batch: 2008-2009 \ Ge,
-Subject: Applied Mathematics-II Marks: 100 Sen
-
-Time: 10.00 am To 1.00 pm
-Date: 17/06/2011 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-a) Question No. 1 is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) All questions carry equal marks.
-d) Answer to each new question to be stated on a fresh page.
-e) Figure in brackets indicate full marks.
-
-Q.1
-(2+i)(1+2i)
-
-a. Express in form of x+iy , G " di) (5)
-i
-b. Evaluate: J cos® 20 sin? 40d0 (5)
-t 0
-c. Solve (x? +y ) de —3xy*dy =0 (5)
-(2. » [2 pal _ 2
-d. Prove that f sin xdee [ sin?" xdx = 2(p+i) (5)
-Q2
-a. Find if arg(2+1)= & arg(z—1) === 6)
-. 6
-b. Find the modulus and principal value of (ris) (6)
-(3) |
-c. If atib= prove: (a@°+f)(a@ +b’)=1 (8)
-atip
-Q.3
-a. Solve [eva (6)
-b. Evaluate: fe (2- x) "de (6)
-
-Yo
---- page 2 ---
-. 4
-c. Solve [se (8)
-
-(1 +cos 6)
-Q. 4
-a. Solve sec’ x tan ydx+sec” y tan xdx =0 (6)
-1 1 1
-b. Find the value of (-1)5, (-i)3, (32)5 (6)
-ec. Solve ® soy tan x =sinx at y=0,x=— (8)
-dx 3
-Q.5
-4. 9-yx
-a. Change the order of integral f f I (x, y)dxdy (6)
-
-0 y/2
-b. Find the area between the parabola y= x’ — 6x+ 3 and the line y= 2x-9. (6)
-e. Calculate i) [r°ardo over the area included between the circles 7 = 2sin @,r = 4sin@
-
-(8)
-
-Q.6
-
-d dj
-
-a. Solve x yr + Dy =x loge (6)
-b. Solve the equation x’ +.x*+x°+1=0 (6)
-c. Find the volume of the tetrahedron bounded by the planesx =0, y=0, z=0
-and x+y+z=a (8)
-
-Q.7
-a. Solve (D?+D+1)y=(I+sinx) (6)
-b. Solve (D° + D) y= i u using method of variation of parameters. (6)
-
-+e
-dy dy ae . .
-c. Solve ar HT +12y=e ? +2*, by using method of undetermined
-
-coefficients . (8)
-
-hh
-````
-
-## 2008-09 · Re-Exam · Trim 2 · paper d96376e763da
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2008-2009 re exam I(1).pdf` (+1 identical copies)
-- Text: ocr (2 pages), mean OCR confidence 77.8
-
-````text
-SVKM’S NMIMS UNIVERSITY
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ANY!
-
-(MBA)TECH -I YEAR
-TRIMESTER 11 2008-09 ( Re -
-APPLIED MATHEMATICS II
-Date: 20-06 -aG
-
-Time:ig— 4 ~
-
-Instructions:
-
-1) Question No. 1 is compulsory. Each sub question carries ‘5 marks’ each.
-
-2) Out of remaining 6 questions, attempt any 4 questions. From Question No. 2 to
-Question No. 7 part (a) carries 8 marks, part (b) and (c) carry 6 marks each.
-
-3) Answers to each new question to be started on a fresh page.
-
-Q.1)
-
-a) If a, are the roots of the equation x? -2x+2=0 prove that a” + 8” =2.2? cos. Hence
-deduce that a* + 6% =32
-dy
-
-b) Solve ROOSR== + Kaa ees) =1
-
-1 VI-x’
-c) Change the order of integration and integrate J j
-
-= x
-o 4
-
-d) Evaluate =a
-34
-
-Q.2)
-a) If tanz = (1-1), prove that z= Stan" 2+ logs
-
-b) If if = A+iB, considering principal values, Prove that tan( -" and
-A+B =e"
-c) Find all roots of x* =1+i and represent them in Argand's diagram
-
-Q.3)
-
-a) Prove that E x d=x)"" 5, - Amn)
-
-(1+ +x)"" Pia
-
-b) Evaluate eT e using Beta function.
-7
-
-os ax”
-c) Evaluate feos ax "ds
-0
-
-PTO
---- page 2 ---
-QA)
-2
-a) Solve (5+2x)’ 2665421) 2 +8y = 6x
-
-b) Solve y(xy+2x*y*)de+xQxytxy)dy = oO
-2
-c) Use the method of variation of parameters to solve a + 32 +2y=e"
-
-Q.5)
-a) Find the volume enclosed between the cylinders x? + y? =ax and z’ =ax
-
-Lx
-b) Change to polar coordinates and evauate J f+ y)dydx
-00
-
-c) Evaluate She +)? +2” |dxdydz over the first octant of the sphere x?+y* +2? =a’,
-
-converting to spherical coordinates.
-Q.6)
-a) Solve (D? +4)y=xsin’ x
-b) In a simple circuit of resistance R, self-inductance L and voltage E, the current ‘i
-
-at any time is given by LE +Ri=E.
-
-If Eis constant and initially no current passes through the circuit prove that
-fal. (RIL)
-T= ri mai. ]
-
-c) Find zif arg(z+1)=7 & arg(z~1) ==
-
-Q.7)
-a) Find the Moment of Inertia of the area bounded by the curve
-7? =a’ cos20 about its axis.
-
-b) Find [sy ax dy where Ris x=y’,x=2-y,y=0
-R
-
-1
-c) Evaluate fx‘ cos" xdx
-0
-
-aa
-````
-
-## 2008-09 · Re-Exam · Trim 2 · paper b82c7e5d0988
+## 2010-11 · Re-Exam · Trim 2 · paper b82c7e5d0988
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -4047,6 +3722,451 @@ Evaluate: i { 7 x dzdxdy
 Solve: x° +1=0
 
 —~-
+````
+
+## 2010-11 · Re-Exam · Trim 2 · paper f0b299f201e5
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2009-2010 re exam(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08/02/2011
+- Text: ocr (2 pages), mean OCR confidence 77.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+; SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (TECH) -ALL STREAMS Year: I Trimester: II
+Academic Year : 2010-2011
+
+Batch: 2009-2010
+Subject: APPLIED MATHEMATICS - II Marks: 100
+Time: 10.00 AM TO 1.00 PM
+Date: 08/02/2011 Duration: 3 hrs.
+Re - Examination
+Instructions:
+
+1) Question No. 1 is compulsory. Each sub question carries ‘5 marks’ each.
+
+2) Out of remaining 6 questions, attempt any 4 questions. From Question No. 2 to
+Question No. 7 part (a) carries 8 marks, part (b) and (c) carries 6 marks each.
+
+3) Answers to each new question to be started on a fresh page.
+
+« mal
+Q.1 a) Evaluate f D dx using Gamma function.
+0
+
+Whom >
+b) Ifvi =a+if prove that a7 +f? =e *”
+a3 Vaex?
+¢) Find ff 2S
+6 96 tx +y
+
+d) Solve the equation (os x)log(2y-8) +a » Hina
+x
+
+40 = 0
+Q.2 a) ae. eae
+i)sin® asin? B+ sin* y =c0s* a +005" B +00" 7 =>
+ii) cos2a+cos2+cos2y =0
+iii) cos(a+ 8) +cos(B+y)+cos(y+a) =0=sin(a+ f)+sin(B+y)+sin(y+a)
+
+b) If cosec( 4] =u +iv, prove that (uw? +Vv y = 2(w -v’)
+
+c) Show that the principal value of sin“'(ix) is ‘log (x tyl4x )
+
+Q3 Loe
+
+a) Change the order of integration and evaluate J f hyde
+\x+y’
+
+b) Evaluate (-———— eo taken through out the volume of the sphere
+1-x Zz
+x’ +y’ +z? =1using spherical coordinates.
+
+c) Find the mass of the lamina bounded by the curves y’ = ax and x” = ay if the density of
+the lamina at any point varies as the square of its distance from the origin.
+--- page 2 ---
+Q4
+
+Q5
+
+Q.6
+
+Q7
+
+x3
+a) Find Bos 3 x’dx using Beta function.
+
+b) Show that (ty = cos ee(=)
+
+c) Show that fer ‘cos axdx = e cos(
+i
+
+a) Solve {D' +2D’ +1)y =x’ cosx
+
+b) Solve: tany 2 tan x(1—cos y) =0
+he
+
+c) Solve by the method of undetermined coefficients (D? +3D+ 2) y =3x"+2e*
+
+a) Apply the method of variation of parameters to solve (D -2D+ 2) y=e*tanx
+b) Acondenser of capacity C is discharged through an inductance L and resistance R in a
+
+28 4 Loi) Given that
+dt *C
+
+L=0 .25 henries, R=250 ohms, C =2x10~ farads and that at t=0, g =0.002 coulombs
+
+series and charge q at a time satisfies the equation L a4 Gyro
+It
+
+and the current =0. Obtain q in terms of t
+
+c) Find fsin’ O(1+cos6)'d@ using Beta function.
+0
+
+a) calculate the volume of the solid bounded by the following surfaces:
+z=0;+y =h xt y+72=3
+
+b) Find the area inside the cardioide r = a(1+cos@) and outside the circle r=a
+
+c) Solve the equation x’ +x*+2°+1=0
+
+7.
+````
+
+## 2009-10 · Exam not stated · Trim 2 · paper bd43cad8d26a
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/2009-2010.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 79.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+~~
+
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E
+
+PROGRAMME:B. TECH ( ALL STREAMS) I YEAR TRIMEST.
+FINAL EXAMINATION(2009-10)
+
+Subject : APPLIED MATHEMTAICS - I DATE : 8" February 2010
+MARKS : 100
+TIME : 3 hrs. (3.00 p.m. to 6.00 p.m.)
+
+Instruction : Candidates should read carefully the instructions printed in the question paper and on
+the cover of the answer book, which is provided for their use.
+
+NB:
+a) Question No. 1 is compulsory
+b) Out of remaining questions, attempt any 4 questions
+c) All questions carry equal marks
+
+d) Figure in bracket indicates full marks.
+
+1. a) Using Gamma functions Prove that (5)
+
+\j a
+jemol=*. | m+’ = sa 2m
+. apt % _ .
+b) Solve diya dy y = log XSin (log X). a-% (5)
+¢) Change the order of integration ‘ xy dxdy (5)
+and hence evaluate the same. °
+
+d) Solve the equations: (5)
+i) Cos hx- #3 Sinhx = 1
+ii) tan hz —€othz=2i , where 2=x+iy
+
+Q. 2. a) Find tan hx, if 5 Sin hx — Cos hx = 5 (6)
+b) Find the General Solutions of ty +4y (6)
+=5+3 Cos 2x + 4 Sin 2x.
+¢) Show that tan WX wettmmmlgc=Sinh'/ xk (8)
+Shap gbiclt
+= Cos h™
+
+i
+Vx
+
+P.T.O.
+--- page 2 ---
+a taeda
+Q. 3..a) Using Polar form, evaluate f {> + y) dx dy <6)
+()
+b) Evaluate: ul} Z dx dy dz over the volume
+
+common to sphere x? + y” *s? = a” and Cylinder x+y = ax.
+
+(¢)
+
+c) Find the volume of a Paraboloid of revolutionX + Pf ? — 4Zand cut off by the (8)
+
+planeZ=4
+
+Q. 4.) A lamina is in the shape of Cardiode r= a (1 + Cos @). If the density at any point
+(8)
+
+of lamina is Ky2. Find the mass of damina.
+(6)
+
+b) Show that the area o, the curve
+= y(2G-y)isna
+}
+c) Evaluate: J 4 / @-3)(7-x) ee ©
+
+Q.5) a) Evaluate: ) § oe at; % y “dx dy ; over acircle x + y=a (8)
+ee
+
+b) Solve: y e4 =(y° + 2x€%) dy (6)
+
+dx
+c) Solve: dy = Sin?y — Siny Cosy (6)
+
+dx x” x:
+Q.6.a) Solve: (D? +4) y=x’ Sin2x (6)
+b) Solve: (D?- D’- 4D +4) y =e ™ (6)
+c) InanL-C-R circuit, the charge qn a plate of a condenser is given by (8)
+
+Lady, +Ridgesg, << = ESin. pt
+di dt c
+
+The circuit is tuned to resonance so that
+
+Oye wos
+p? =1/LC. Ifinitially the current i and the charge qbe zero, Show that, for small values
+of R/L, the current in the circuit at time t is given by (Ev/2L) Sin pt
+
+Q. 7. a) Solve the equation dy + 3dy + 2y = 2e* Cos/x. (6)
+dx’ dx 2.
+b) Evaluate   {x°y dxdy ; over the positive quadrent of an ellipse x, + ie =1 (©)
+a b
+c) Change the order and evaluate (8)
+he a-g
+ffi
+(a) al 2
+
+
+=
+````
+
+## 2009-10 · Exam not stated · Trim 2 · paper 167de729f2d0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2009-2010(38).pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 70.2
+
+````text
+y gr theta.
+ae IBRARY j& s
+
+Rare i
+FINAL EXAM (2004-10)
+
+SUB: Applied Mathematics II Marks : 100
+Date: 8° Gobruary 2010 Time: 3 has (2 pr to be)
+d
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
+
+Programme : MBA Tech. (Ate Stress Iyear
+
+Note: 1. Question No. 1 is compulsory
+2. Out of remaining 6 Questions, attempt any 4 Questions.
+3. Figures to the right indicate full marks
+Q.1. (a) Find all values of (1 - x8 and the product of these values.
+
+(b) Solve the equation: ay =xy (xy +1) (xy - 1)
+
+xtZ
+(c) Evaluate i i (x+y+<z) @euipiz dy dz dz
+—| OO xz ' 2-2c>
+(d) Change the order of integration : ; F (x, y) dy dae
+ro)
+ea)
+Q.2. (a) Solve completely
+(D7+4D+4)y=cosh2x+ os 2x+1 (8)
+(b) Solve (1 +y?) dx = (tang-x ) dy ae (6)
+(c)If u=log [ tan ( z + $y) prove that
+Tanh a = tan g and Cos hu = sec (9 (65
+Q.3 (a) Prove that €osh?x =1 + §inh*x , hence or otherwise find <in h Q@c+y) and
+Cosh (x + y) where ‘Cosh x= 3 and sinhy = 2 (85
+(b) Show that the roots of 3? = | are in geometric progression and find the sum
+of these root. (6)
+(c) Expand tose in a series of cosines of multiples of ©, (6)-
+
+Q.4 (a) Using Double integration find the area of circlex? + y?=2 ax, which lies outside the
+
+; a aa f
+circle x t+y~=a £8)
+(b) Using Spherical polar co-ordinates, evaluate ¢ _
+
+sate (es
+
+ame
+--- page 2 ---
+peas 2 elt
+
+Clo) ely et
+J ‘ st ti Over volume of hemisphere
+Vinx y% 3g
+x + y?+ 27 = 1, lying above xoy plane. {63
+C
+1%
+(c) Evaluate {63
+jin ¥ Sin ® £5 Cosa do
+3 '
+Q.5 (a) if f ay dx. =k 7 find ‘k’ es)
+oO comes (2) Jt- <4
+ce —
+(b) Prove that « J et Peles Pik a Cae mt {6}
+ce oe
+7 ee *
+3 :
+(c) Evaluate i Cx leg a alos {6}
+°
+3
+3 a. fF t.
+.6(a) Solve ne 2 = xc +8. 8
+Q6(a) spits + Si, + 2y= lol te) &)
+(b) Using variation of parameter method, solve ( D4} a”) y=sec ax (6)
+(c) Using method of undetermined coefficients Solve
+d*y d oe ;
+5. 72 gt +Y= 2 oshe+t sin & (6)
+
+Q. 7 (a) State True / False with proper justification
+i. There are infinite number of solutions to the equation Z tHe lz fe =0 where%
+is a complex number. Pn
+ii. Ifn is natural number, 12! =1 and = all -j,thn 2
+is real number. peg aN
+iii. Cos ( |-3%) is negative. (8)
+
+(b) Change the order of integration and evaluate
+ee et ow,
+} al ils Dasa OE (6)
+cit e9 rye ye -
+
+(c) Find the volume common to the cy inders —
+
+x°+ y?=a~andy 7+ 27= a> 6)
+````
+
+## 2008-09 · Re-Exam · Trim 2 · paper d96376e763da
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2008-2009 re exam I(1).pdf` (+1 identical copies)
+- Text: ocr (2 pages), mean OCR confidence 77.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS UNIVERSITY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ANY!
+
+(MBA)TECH -I YEAR
+TRIMESTER 11 2008-09 ( Re -
+APPLIED MATHEMATICS II
+Date: 20-06 -aG
+
+Time:ig— 4 ~
+
+Instructions:
+
+1) Question No. 1 is compulsory. Each sub question carries ‘5 marks’ each.
+
+2) Out of remaining 6 questions, attempt any 4 questions. From Question No. 2 to
+Question No. 7 part (a) carries 8 marks, part (b) and (c) carry 6 marks each.
+
+3) Answers to each new question to be started on a fresh page.
+
+Q.1)
+
+a) If a, are the roots of the equation x? -2x+2=0 prove that a” + 8” =2.2? cos. Hence
+deduce that a* + 6% =32
+dy
+
+
+1 VI-x’
+c) Change the order of integration and integrate J j
+
+= x
+o 4
+
+d) Evaluate =a
+34
+
+Q.2)
+a) If tanz = (1-1), prove that z= Stan" 2+ logs
+
+b) If if = A+iB, considering principal values, Prove that tan( -" and
+A+B =e"
+c) Find all roots of x* =1+i and represent them in Argand's diagram
+
+Q.3)
+
+a) Prove that E x d=x)"" 5, - Amn)
+
+(1+ +x)"" Pia
+
+b) Evaluate eT e using Beta function.
+7
+
+os ax”
+c) Evaluate feos ax "ds
+0
+
+PTO
+--- page 2 ---
+QA)
+2
+a) Solve (5+2x)’ 2665421) 2 +8y = 6x
+
+b) Solve y(xy+2x*y*)de+xQxytxy)dy = oO
+2
+c) Use the method of variation of parameters to solve a + 32 +2y=e"
+
+Q.5)
+a) Find the volume enclosed between the cylinders x? + y? =ax and z’ =ax
+
+Lx
+b) Change to polar coordinates and evauate J f+ y)dydx
+00
+
+c) Evaluate She +)? +2” |dxdydz over the first octant of the sphere x?+y* +2? =a’,
+
+converting to spherical coordinates.
+Q.6)
+a) Solve (D? +4)y=xsin’ x
+b) In a simple circuit of resistance R, self-inductance L and voltage E, the current ‘i
+
+at any time is given by LE +Ri=E.
+
+If Eis constant and initially no current passes through the circuit prove that
+fal. (RIL)
+T= ri mai. ]
+
+c) Find zif arg(z+1)=7 & arg(z~1) ==
+
+Q.7)
+a) Find the Moment of Inertia of the area bounded by the curve
+7? =a’ cos20 about its axis.
+
+b) Find [sy ax dy where Ris x=y’,x=2-y,y=0
+R
+
+1
+c) Evaluate fx‘ cos" xdx
+0
+
+aa
 ````
 
 ## 2008-09 · Re-Exam · Trim 2 · paper 83894ae6cbc8
@@ -4341,6 +4461,7 @@ a
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2007-2008(18).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 75.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -4374,7 +4495,6 @@ de x 4l” (x? +1)°
 
 5tan 6-10 tan °O + tan °O
 b) Show that tan( 50) = 06
-p Rhett: a A Te a Oe ee en PO (08)
 
 1 vase?
 c) Evaluate [ [ er. or (08)
@@ -4653,6 +4773,7 @@ x
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2007-2008 re exam I.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 79.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKWM’S NMIMS UNIVERSITY
@@ -4719,7 +4840,6 @@ c) Using triple integral find the volume of the =: B AEFjorn Loundiect by (08)
 
 H=0,Y=0, s=0 Ano Art I=;
 
-= a ae ee cd be ae v2 _ Wenn w—Ir_ If tha dancitv at anv noint is
 --- page 2 ---
 _—- 2°>——
 
@@ -4759,9 +4879,10 @@ sum of nth root of unity.
 - Programmes: B TECH
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/2006-2007.pdf`
 - Text: ocr (3 pages), mean OCR confidence 52.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
-Narsee Monjee Tnstifi. of Maha gement
 
 j 4. Hig her Bedias 7 ii 4d
 / —_ Chaves University) \ : : a
@@ -4867,7 +4988,6 @@ hots. vy. @) By Method of Variabeny of a
 
 —
 
-dy +4 3 dy ae 2y = e* G
 dla of x¢
 (c) Solve oe y 8 dae + (ey ~a)dy = O a
 ````
@@ -4879,6 +4999,7 @@ dla of x¢
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2006-2007(4).pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 76.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 (DEEMED UNIVERSITY)
@@ -4913,7 +5034,6 @@ Q.6
 Peron
 gh ala
 
-NARSEE MONJEE INSTITUTE OF MANAGEME {sr UDIES aN
 
 “os = University yo
 
@@ -5032,6 +5152,7 @@ a
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2004-2005(7).pdf`
 - Text: ocr (2 pages), mean OCR confidence 71.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NARSEE MONJEE INSTITUTE OF MANAGEM
@@ -5096,7 +5217,6 @@ b) Find all the values of (3+ ai) . Also find the sum and product of these numbe
 c) If tan[log(x+iy)] =a+ib show that tan[log(x? + y?)]= —
 oe?
 
-FR A AR AR RC OR A RR
 ````
 
 ## Year not stated · Exam not stated · Trim 2 · paper 03901778525e
@@ -5106,6 +5226,7 @@ FR A AR AR RC OR A RR
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/APPLIED MATHEMATICS II B TECH (ALL STREAMS), BATCH 10-110001.pdf`
 - Printed on paper: exam date: 14/12/2015
 - Text: ocr (2 pages), mean OCR confidence 74.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5186,7 +5307,6 @@ J i 7 dx
 ___~b) Change to polar co-ordinates and evaluate the integral- (6)
 1viy
 
-| J (x? + y?) dx dy
 
 0
 
@@ -5202,126 +5322,6 @@ b) Apply the method of variation of parameter to solve (D? — 2D + 2)y = e* tan
 c) Solve (x + ae Ale) 2) = 6y =X. @)
 
 — he
-````
-
-## Year not stated · Exam not stated · Trim 2 · paper d4508a28498f
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/scan0001(12).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 81.1
-
-````text
-Programme:
-
-Batch:
-Subject:
-
-Date:
-
-4
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-B.Tech (ALL STREAMS) Year: I Trimester: II 7
-
-Academic Year : 2011-2012
-
-2010-2011
-Applied Mathematics-II Marks: 100
-
-Time: 11.00 am To 2.00 pm
-11/09/2012 Duration: 3 hrs.
-
-Special Re-Examination
-
-Instructions: Candidate should read carefully the instructions printed on the question paper
-and on the cover of the Answer book which is provided for their use
-
-NB:
-a) Question No:1 is compulsory
-b) Out of remaining questions attempt any 4 questions
-c) Answers to each new question to be started on a fresh page
-d) Figures in brackets on the right hand side indicate full marks
-1
-QI a) Evaluate [V1-x*dr (5)
-0
-b) Solve PY _5FV gH gyno (5)
-de de de
-1 rl
-c) If x+—=2cos@ , then prove that x” +— =2cosr@ (5)
-ou x
-x? y
-d) Find the area of the ellipse — + a =1 . (5)
-a
-j
-y!
-Q.ll a) Find the roots common to x*+1=0 and x°-i=0 (6)
-b) Separate ( +iv3 ye into real and imaginary parts | (6)
-2
-c) Solve x? oe - »@ + 4y =cos(logx) + xsin(logx) (8)
---- page 2 ---
-3
-
-a ee <
-JI a) Prove that } j=a@] yve* dy = — 6
-Q a) Prove thai re J 9 (6)
-
-b) The density of a uniform circular lamina of radius ‘ a’ varies as the square of its
-distance from a fixed point on the circumference of the circle. Find the mass of the
-
-lamina (6)
-
-c) Evaluate [f-y.deay over the region bounded by x — axis, ordinate at x = 2a and
-
-the parabola x? = 4ay (8)
-a3 Va?+x? xdydx
-QIV a) Evaluate i} = er (6)
-7 (8 Perey
-a 2a-x
-b) Change the order of integration in the integral } J F(x, y)abedy (6)
-Ory
-a
-c) Evaluate the integral ff 7 over one loop of the lemniscates (8)
-r°+a
-r? =a’.cos20
-aVa?-x? a-x’-y?
-Q.V a) Evaluate triple integral i) i) Je ty? +2" \dxdydz (6)
-0 0 0
-oy
-. b) Find the moment of inertia of a quadrant of the ellipse —- + ~<- =1 of mass M
-P| ) a b
-about the z-axis, if the density at a point is proportional to xy (8)
-
-7 y2 “e z
-c) Change into polar coordinate system and evaluate = addy (6)
-0 oe xr ty?
-
-2
---- page 3 ---
-2
-Q.VI a) Solve (1+.x)’ ma +(1+ »@ + y= 4coslog(l +x) (8)
-Z 2
-b) Solve tye * logx (6)
-c) Solve y(xy + e* )dx —e*dy =0 (6)
-a(xdy — ydx)
-Q.VII a) Solve xdx + ydy = so ere (6)
-b) Solve (D? -2aD+a*)y = ta 6)
-x
-
-c) When a switch is closed in a circuit containing a battery E, a resistance R and
-
-inductance L, the current ‘i’ builds up at the rate given by ros Ri=E
-
-?
-
-Find * i’ as a function of t . How long will it be before the current has reached one
-
-half its maximum value, if E = 6 volts, R= 100 ohms and L = 0.1 Henry ? (8)
-
-q!
 ````
 
 ## Year not stated · Exam not stated · Trim 2 · paper d0bbea4d7f02

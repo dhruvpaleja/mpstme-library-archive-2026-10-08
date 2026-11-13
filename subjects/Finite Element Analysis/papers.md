@@ -275,6 +275,134 @@ FORGE 2 RGR x
 a .
 ````
 
+## 2025-26 · Re-Exam · Sem 8 · paper cd25d4e4a6b7
+
+- Departments: Mechanical
+- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
+- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Finite Element Analysis/QP_Finite Element Analysis(702ME0C022)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY
+MANAGEMENT (MECHANICAL ENGINEERING)
+Year: IV/Semester VIII(Exam Year: 2025-2026)
+Subject: Finite Element Analysis
+Date: 12 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. _1___ is compulsory.
+3. Out of remaining questions, attempt any __4___ questions.
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:   [20]
+CO-01 ;   a
+What are the basic procedures involved in applying the Finite Element
+SO-03 ;   4
+Method?
+BL-01
+b   Find the axial stress in each bar element illustrated in the figure
+CO-02 ;
+SO-03 ;   3
+BL-01
+CO-01 ;   c
+SO-03 ;   Give a description of a nodal hinge as used in beam elements.   4
+BL-01
+CO-01 ;   d
+SO-03 ;   Explain the fundamental ideas behind plane stress and plane strain   3
+BL-01
+CO-03 ;   e
+SO-03 ;   Describe how mesh refinement is carried out using the h-method   3
+BL-01
+CO-03 ;   f
+Define convection and discuss the terms related to it for a one-dimensional
+SO-03 ;   3
+element
+BL-01
+Q2   [20]
+CO-01 ;   a   Using the direct stiffness method, compute the nodal displacements, element
+10
+SO-01 ;   forces, and support reactions for the bar assemblies illustrated in the figures
+********** 1 **********
+--- page 2 ---
+BL-02
+CO-01 ;   b
+Establish the relationship between the global and local displacement matrices
+SO-01 ;   10
+for a two-dimensional element
+BL-03
+Q3   [20]
+a   For the element illustrated in the figure, compute the stresses assuming
+plane-stress conditions. The coordinates are given in inches, with E = 30×10⁶
+psi, Poisson’s ratio = 0.25, and thickness t = 1 in. The nodal displacements
+are: u₁ = 0.0, v₁ = 0.0025 in, u₂ = 0.0012 in, v₂ = 0.0, u₃ = 0.0, and v₃ =
+CO-01 ;
+0.0025 in.
+SO-01 ;   10
+BL-03
+b   Find the temperature variation along the rod shown in the figure, assuming
+its perimeter is insulated. The left end is maintained at 100°F, and the
+surrounding fluid temperature is 10°F. Use h = 10 Btu/(h-ft²-°F) and thermal
+conductivity Kxx = 20 Btu/(h-ft-°F). These values correspond to forced
+CO-03 ;   convection and typical carbon-steel conductivity. (Note:- 1Btu/(h-
+SO-01 ;   ft^2-°F)=5.67 W/(m2°C)   10
+BL-02
+Q4   [20]
+CO-01 ;   a
+List various FEM software packages and describe their advantages and
+SO-01 ;   10
+disadvantages
+BL-01
+b A line heat source of Q = 65 W is positioned at (5, 2) within the element
+CO-03 ;
+shown. Determine how this heat source is distributed among the element’s
+SO-01 ;   10
+nodes. Coordinates are given in inches, and element thickness is t = 1 in
+BL-02
+Q5
+a   Using the symmetry of the truss shown in the figure, calculate the nodal
+CO-01 ;
+displacements for all elements. Assume E = 30×10⁶ psi, with elements 1, 2,
+SO-01 ;   15
+4, and 5 having a cross-sectional area of 10 in², and element 3 having an area
+BL-03
+of 20 in².
+********** 2 **********
+--- page 3 ---
+CO-02 ;   b
+SO-03 ;   Explain the idea of aspect ratio   5
+BL-01
+Q6   [20]
+a   For the beam shown, which contains an internal hinge at node 3, compute the
+slope at node 2 and both the slope and deflection at node 3. Nodes 1 and 4
+are fixed, and node 2 supports a knife-edge. Use E = 210 GPa and I = 2 × 10⁴
+CO-01 ;   m⁴
+SO-01 ;   15
+BL-03
+CO-02 ;   b
+SO-03 ;   Explain the idea of symmetry with an illustration   5
+BL-02
+Q7   [20]
+a   For the beam systems illustrated, each containing an internal hinge, calculate
+the deflection at the hinge location. Use E = 210 GPa and I = 2 × 10⁻⁴ m⁴,
+CO-01 ;   assuming the hinge lies on the right side of element 1
+SO-01 ;   15
+BL-03
+CO-01 ;   b
+Demonstrate the relationship e = [B]{U} for a constant-strain triangle (CST)
+SO-02 ;   5
+element
+BL-02
+********** 3 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 7 · paper a46625122e10
 
 - Departments: Mechanical
@@ -740,134 +868,6 @@ Mbddddddddd la
 2 ft
 ````
 
-## 2024-25 · Re-Exam · Sem 8 · paper cd25d4e4a6b7
-
-- Departments: Mechanical
-- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
-- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Finite Element Analysis/QP_Finite Element Analysis(702ME0C022)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 May 2026
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY
-MANAGEMENT (MECHANICAL ENGINEERING)
-Year: IV/Semester VIII(Exam Year: 2025-2026)
-Subject: Finite Element Analysis
-Date: 12 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Question No. _1___ is compulsory.
-3. Out of remaining questions, attempt any __4___ questions.
-4. In all ___5_ questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right-hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1   Answer briefly:   [20]
-CO-01 ;   a
-What are the basic procedures involved in applying the Finite Element
-SO-03 ;   4
-Method?
-BL-01
-b   Find the axial stress in each bar element illustrated in the figure
-CO-02 ;
-SO-03 ;   3
-BL-01
-CO-01 ;   c
-SO-03 ;   Give a description of a nodal hinge as used in beam elements.   4
-BL-01
-CO-01 ;   d
-SO-03 ;   Explain the fundamental ideas behind plane stress and plane strain   3
-BL-01
-CO-03 ;   e
-SO-03 ;   Describe how mesh refinement is carried out using the h-method   3
-BL-01
-CO-03 ;   f
-Define convection and discuss the terms related to it for a one-dimensional
-SO-03 ;   3
-element
-BL-01
-Q2   [20]
-CO-01 ;   a   Using the direct stiffness method, compute the nodal displacements, element
-10
-SO-01 ;   forces, and support reactions for the bar assemblies illustrated in the figures
-********** 1 **********
---- page 2 ---
-BL-02
-CO-01 ;   b
-Establish the relationship between the global and local displacement matrices
-SO-01 ;   10
-for a two-dimensional element
-BL-03
-Q3   [20]
-a   For the element illustrated in the figure, compute the stresses assuming
-plane-stress conditions. The coordinates are given in inches, with E = 30×10⁶
-psi, Poisson’s ratio = 0.25, and thickness t = 1 in. The nodal displacements
-are: u₁ = 0.0, v₁ = 0.0025 in, u₂ = 0.0012 in, v₂ = 0.0, u₃ = 0.0, and v₃ =
-CO-01 ;
-0.0025 in.
-SO-01 ;   10
-BL-03
-b   Find the temperature variation along the rod shown in the figure, assuming
-its perimeter is insulated. The left end is maintained at 100°F, and the
-surrounding fluid temperature is 10°F. Use h = 10 Btu/(h-ft²-°F) and thermal
-conductivity Kxx = 20 Btu/(h-ft-°F). These values correspond to forced
-CO-03 ;   convection and typical carbon-steel conductivity. (Note:- 1Btu/(h-
-SO-01 ;   ft^2-°F)=5.67 W/(m2°C)   10
-BL-02
-Q4   [20]
-CO-01 ;   a
-List various FEM software packages and describe their advantages and
-SO-01 ;   10
-disadvantages
-BL-01
-b A line heat source of Q = 65 W is positioned at (5, 2) within the element
-CO-03 ;
-shown. Determine how this heat source is distributed among the element’s
-SO-01 ;   10
-nodes. Coordinates are given in inches, and element thickness is t = 1 in
-BL-02
-Q5
-a   Using the symmetry of the truss shown in the figure, calculate the nodal
-CO-01 ;
-displacements for all elements. Assume E = 30×10⁶ psi, with elements 1, 2,
-SO-01 ;   15
-4, and 5 having a cross-sectional area of 10 in², and element 3 having an area
-BL-03
-of 20 in².
-********** 2 **********
---- page 3 ---
-CO-02 ;   b
-SO-03 ;   Explain the idea of aspect ratio   5
-BL-01
-Q6   [20]
-a   For the beam shown, which contains an internal hinge at node 3, compute the
-slope at node 2 and both the slope and deflection at node 3. Nodes 1 and 4
-are fixed, and node 2 supports a knife-edge. Use E = 210 GPa and I = 2 × 10⁴
-CO-01 ;   m⁴
-SO-01 ;   15
-BL-03
-CO-02 ;   b
-SO-03 ;   Explain the idea of symmetry with an illustration   5
-BL-02
-Q7   [20]
-a   For the beam systems illustrated, each containing an internal hinge, calculate
-the deflection at the hinge location. Use E = 210 GPa and I = 2 × 10⁻⁴ m⁴,
-CO-01 ;   assuming the hinge lies on the right side of element 1
-SO-01 ;   15
-BL-03
-CO-01 ;   b
-Demonstrate the relationship e = [B]{U} for a constant-strain triangle (CST)
-SO-02 ;   5
-element
-BL-02
-********** 3 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 7 · paper 7367f03cc107
 
 - Departments: Mechanical
@@ -1055,6 +1055,207 @@ T = 100°F ~
 » = 50F
 Vdddiidddida
 2 ft
+````
+
+## 2023-24 · Exam not stated · Sem 8 · paper afdb4435187d
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VIII SEMESTER/FINITE ELEMENT ANALYSIS/Finite element analysis.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 83.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024 ihe
+Program: MBA.Tech Year: [V Semester: VIII
+
+Stream :Mechanical Engineering
+
+Subject: Finite Element Analysis . Time: 03 hrs ((o:00amto 4: oop)
+Date:_30/ 4 /2024 . No. of Pages:04
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. ;
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all ___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+
+CO-01; [a
+
+SO-03 ; What is FEA? Describe briefly. 3
+
+BL-01
+
+CO-02; |b .
+
+S0-03 ; Identify and explain practical problems on truss. 3
+
+BL-01
+
+CO-01 ; c oo
+
+S0-03 ; Write a note on beam element in brief. 4
+©) | BL-01
+
+CO-01; | d : -
+
+S0-03 ; Explain plane stress & plane strain condition. 4
+
+BL-01
+
+CO-02; |e _ ,
+
+SO-03 ; How aspect ratio does affects the result accuracy? Explain in detail. 3
+
+BL-01 -
+
+CO-03 ; f | What is convection? Explain the term associated with it for framing element
+
+03° 3
+ape > stiffness matrix
+
+Q2 [20]
+CO-Ol; | a | State the following with respect to FEA
+
+SO-01 ; : 10
+BL-02 a. Application b. Advantages c. Dis-advantages
+--- page 2 ---
+[ b_ | For the bar assemblages shown in Figures, determine the nodal displacements,
+
+the forces in each element, and the reactions. Use the direct stiffness method for
+
+CO-01 ; these problems.
+SO-01 ; . 10
+BL-03 ! EA 2 Eyea 3 _!5.000 Ib E, = 30 x 10° psi
+] "Ey = 1S X 10° psi
+Q3 [20]
+a | Determine the displacement components at node 3 and the element forces for the
+plane truss shown in Figure. Let A= 3 in? and E= 30* 10° psi for all elements.
+CO-01 ;
+SO-01 ; 15
+BL-03
+40 ft
+CO-02 ; b
+SO-03 ; Explain the sizing of the element with p &h type. 5
+BL-01
+Q4 [20]
+| a | For the rigid frames shown in Figures, determine the displacements and rotations
+of the nodes, the element forces, and the reactions. The values of E, A and I to be
+used are listed next to figure.
+CO-01 ; —
+SO-01 ; 15
+BL-03 4m E = 10GPa
+A=3x 107? a?
+1=3.x 10m
+! oe
+L 3m 3 ws
+/C0-02; |b
+SO-03 ; Describe Equilibrium and Compatibility of Finite Element results. 5
+BL-02
+--- page 3 ---
+a a [20]
+
+a_ | For the beams shown in Figures, determine the displacements and the slopes at
+
+the nodes, the forces in each element, and the reactions. Also, draw the shear
+
+CO-01: force and bending moment diagrams.
+SO-01 ; 1 kip I5
+BL-03 ;
+
+I 2 3 E = 30 x 10° psi
+
+1 = 100 in*
+20t ee we
+
+b_ | Evaluate the shape function NI, N2 , N3 at the interior point "P" for the triangular
+
+element shown in figure.
+
+CO-01;
+SO-01 ; 5
+BL-02
+1(1.5.2)
+S
+¢
+Q6 [20]
+a_ | Evaluate the stiffness matrix for the elements shown in Figure. The coordinates
+are in units of inches. Assume plane stress conditions. Let E= 30 _ 108 psi, v=
+0.25, and thickness t=1 in. .
+CO-01;
+SO-01 ; 10
+BL-03
+t
+(0. -1)
+b | Determine the temperature distribution along the length of the rod shown in
+CO-03: Figure with an insulated perimeter. The temperature at the left end is a constant
+SO-01 ; 100°F and the free-stream temperature is 10°F. Let h = 10 Btu/(h-ft?-°F) and Kax= | 10
+BL-02
+
+20 Btu/(h-ft-°F). The value of h is typical for forced air convection and the value
+
+of Kxx is a typical conductivity for carbon steel.
+--- page 4 ---
+Insulated perimeter ,
+
+\ —— I-in. radius
+
+100° F ah, TT
+
+aT a AT 7 ar oem este emer es
+
+40 in.
+
+Q : [20]
+
+a_ | For the spring assemblage with arbitrarily numbered nodes shown in Figure
+Obtain (a) the global stiffness matrix, (b) the displacements of nodes 3 and 4,. A
+
+force of 5000 ib is applied at node 4 in the x direction. The spring constants are
+
+CO-01: given in the figure. Nodes | and 2 are fixed.
+OG ky = 1000 Ib/in. ky = 2000 Ib/i ky = 3000 Ibi 10
+BL-01 a in. 7 in. 1 = 3 fin.
+
+i 3 4 P 2
+
+@ @ . 5000 Ib G) y,
+
+b | For the two-dimensional body shown in Figure, determine the stiffness matrix.
+The temperature at the left side of the body is maintained at 100F. The edges on
+the top and bottom of the body are insulated. There is heat convection from the
+right side with convection coefficient h= 20 Btu/(h-f?°F). The freestream
+
+temperature is Ty=5OF. The coefficients of thermal conductivity are Kxx=Kyy=25
+
+CO-03 ; Btu/(h-ft-°F). The dimensions are shown in the figure. Assume the thickness to
+$0-015 be | fi. 10
+BL-02
+T= 100°F }—_»
+2ft p   # = 20
+T, = SO°F
+Y? Ys
+2 tt
 ````
 
 ## 2023-24 · Final-Exam · Sem 7 · paper fd1a347511a3
@@ -1909,13 +2110,14 @@ et ; response
 Page 4 of 4
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper 4460b666d31c
+## 2022-23 · Final-Exam · Sem 9 · paper 4460b666d31c
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM IX/Finite Element Analysis/Finite Element Analysis Batch 2022 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 November 2022
 - Text: ocr (3 pages), mean OCR confidence 78.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS fi
@@ -2028,7 +2230,6 @@ P, = 20kN
 AT = 60°C rise
 100 mm 80mm | 60mm
 Steel : Brass ‘ Aluminium .
-A = 1000 mn? A = 500mm? A= 300 mn?
 E = 210.GPa EB = 100GPa E = 75 GPa
 
 asRxWrre a= wxiwre a = ux PC
@@ -2591,6 +2792,7 @@ List down various engineering applications of FEA and give examples.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_08/FINITE ELEMENT ANALYSIS/Finite Element Analysis 2018-19 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 82.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 vie we
@@ -2643,7 +2845,6 @@ dy, 2-
 apg 1B + Sk =0;0<x<2
 Boundary conditions are y(0) = 0, y(2) = 2. Use four sub-divisions.
 Q3 4 Evaluate using Newton-cotes method J = f, xt — 4x? + 6)dx a
-riW W: Ww: Ws Ws Ws
 2[os3—Tas
 316 46 16
 41s 38 28 Vs
@@ -2723,6 +2924,7 @@ Y
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VIII SEMESTER/FINITE ELEMENT ANALYSIS/Finite element analysis , Final 2018-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 20 April 2919
 - Text: ocr (2 pages), mean OCR confidence 81.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2769,7 +2971,6 @@ dy dy
 , ax a x ;0<x<
 Boundary conditions are y(0) = 0, y'(Q)=1
 @ a Evaluate using Newton-cotes method J = i (3x* — 4x? + 6)dx Ee
-| Tw [ww [wi Tw, Tw. |
 11 —=
 2105 0.5
 3 | 16 4I6 6
@@ -3238,6 +3439,7 @@ actual value:
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_08/FINITE ELEMENT ANALYSIS/Finite Element Analysis 2017-18 Final.pdf`
 - Printed on paper: max marks: 60; exam date: 07 May 2018
 - Text: ocr (3 pages), mean OCR confidence 85.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3347,7 +3549,6 @@ reaction. Assume modulus of elasticity as 80 x 103N/mm2.
 y S8Q15 .
 4 Wall
 F=90kN
-Siar Setanta @Aae ERO
 4 150 150
 L. 300 0.5mm
 (b) Derive the element stiffness matrix for 1D element. (4)
@@ -3496,6 +3697,144 @@ B/x
 (2)
 ````
 
+## 2017-18 · Re-Exam · Sem 7 · paper 13ce89999b24
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS (MECHANICAL), BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 28 November 2017
+- Text: ocr (3 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) Year: IV Semester: VII
+; Batch: 2016-17 y
+ry, Academic Year: 2017-2018 ces wo
+, gs 2 ia
+Subject: Finite Element Analysis st
+
+2
+
+Marks: 6(
+Date: 28 November 2017 i
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q 1. Answer any 6 out of these. Each question carry 2 marks. (12)
+
+i. What are the fields of engineering where finite element analysis (FEA) can be used and
+
+what are the limitations of FEA?
+
+ii. Write down 1-D Polynomial and 2-D Polynomial Shape function.
+
+iii. Why boundary conditions are significant in finite element analysis?
+
+iv. How mass element is represented in FEA? Why and where this is used in FEA?
+
+v. Explain with sketch though a 3-D element how would you differentiate between mid-side
+node, centre node and corner node?
+
+vi. What is degree of freedom (dof)? How dof is calculated and with which it is attached?
+
+vii. How element stiffness matrix and global stiffness matrix are connected? How to calculate
+size of global stiffness matrix?
+ge viii. How do you differentiate between bar element and beam element?
+
+ix. Define Constant Strain Triangle (CST) element. What is the size of element stiffness
+matrix for CST?
+x. Draw one 2-D and one 3-D Finite Elements which show linear strain behavior.
+
+page |/
+--- page 2 ---
+Q 2. (a) Why FEA is an approximate technique? What are its advantages and disadvantages? (6)
+
+(b) What is numerical integration? Is Gauss Quadrature numerical integration method?
+What are its advantages over other techniques? (6)
+
+Q 3. (a) Define continuity concept in FEA and describe C° and C! continuity with examples.
+
+What is discretisation in FEA? (6)
+(b) For an integral Se f dx, derive the two — point Gauss Quadrature Rule. (6)
+Q 4. (a) Derive element stiffness matrix of a truss element. (6)
+
+(b) Find out the element stiffness matrix of each element for the balcony truss as shown
+below. Horizontal elements (1), (2), 4 and vertical element (3) lengths are 300 cm.
+Modulus of elasticity is 60 GPa and cross sectional areas of all element are 100 cm. The
+inclined members (6) and (5) make 45° and 135° from the horizontal direction in an
+
+anticlockwise manner. (6)
+300 cm 300 cm P= 100 kN
+A
+A
+(1) (2)
+300 emy
+
+(5) (3) (6)
+
+(4)
+
+v
+
+Q 5. (a) Define Principle of Minimum Potential Energy. How Strong and Weak formulation
+differ with each other? (6)
+
+(b) For the configuration shown below without any axial load and using only beam element
+write the element stiffness matrix and the Global Stiffness Matrix [K]. Modulus of
+elasticity ‘E’= 200 GPa and Poisson ratio is 0.3. The Moment of Inertia I is 10° mm‘ for
+
+both element and length are 500 mm and 750 mm as shown in figure below. (6)
+IkN
+a
+500 mm
+750 mm
+
+t; > —_
+
+pxge 2/3
+--- page 3 ---
+Q 6. (a) Derive the element stiffness matrix for bar element. (6)
+
+(b) Draw a plate with constant thickness “t” and length “L” and width “B”, One side of the
+width is fitted on to a wall. The ratio of L/B is 5. The plate should be discretised with
+CST elements and the both the width sides should have four CST element. Show the
+
+discretisation with the given conditions and write the total degrees of freedom for the
+discretised configuration. (6)
+
+.Q7. A circular fin of 4 cm diameter is fixed to a base maintained at 50°C as shown below. The
+fin is insulated on the surface except the end face which is exposed to air at 25°C. The
+length of the fin is 100 cm. The fin is made up a metal with thermal conductivity 37 W/m K.
+If the convection heat transfer coefficient with air is 15W/m°K, find out the temperature
+distribution at 25 cm, 50 cm, 75 cm and 100 cm from the base. (Figure is not to scale) (12)
+
+
+Soc
+
+3 Fo 2 2k ok
+
+page 3/3
+````
+
 ## 2017-18 · Re-Exam · Sem 8 · paper 3d5799a80de4
 
 - Departments: Mechanical
@@ -3503,6 +3842,7 @@ B/x
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VIII SEMESTER/FINITE ELEMENT ANALYSIS/Finite_Element_Analysis_2016-17_2017-18_ Re-exam.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 29 June 2018
 - Text: ocr (3 pages), mean OCR confidence 86.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3623,7 +3963,6 @@ A tapered bar is as shown in Fig., Model the bar by considering it as, made of 1
 Plot the deflections in the bar at 100 mm, 200 mm and 300 mm from the fixed end for
 each of the cases. Assume the modulus of elasticity as 200 GPa.
 
-oe KK oR ok oe ok
 
 (12)
 ````
@@ -3907,142 +4246,129 @@ oe 2 ie 2 2 2
 Ga)
 ````
 
-## 2016-17 · Re-Exam · Sem 7 · paper 13ce89999b24
+## 2016-17 · Re-Exam · Sem 7 · paper c6646582550c
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS (MECHANICAL), BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 28 November 2017
-- Text: ocr (3 pages), mean OCR confidence 90.3
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS B TECH (MECHANICAL), BATCH 14-15 2015-16 RE EXAM.pdf`
+- Printed on paper: exam date: 28 November 2016
+- Text: ocr (3 pages), mean OCR confidence 89.5
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (MECHANICAL) Year: IV Semester: VII
-; Batch: 2016-17 y
-ry, Academic Year: 2017-2018 ces wo
-, gs 2 ia
-Subject: Finite Element Analysis st
+Programme : B. Tech (MECHANICAL)
 
-2
+Baten aie 16 / eye Year : IV Semester : VII
+Academic Year : 2016-2017 Pa
+aN
 
-Marks: 6(
-Date: 28 November 2017 i
+Subject : Finite Element Analysis
+
+Marks :
+Date : 28 November 2016 fae : a A >) |
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
 
-1) Question No. | is compulsory.
+NB:
 
-2) Out of remaining questions, attempt any 4 questions.
+1) Question SET A is compulsory.
+
+2) From SET B out of 6 questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
 
-Q 1. Answer any 6 out of these. Each question carry 2 marks. (12)
+SETA: This is a group of 8 questions, answer any 4 questions (each carrying 3 marks.)
 
-i. What are the fields of engineering where finite element analysis (FEA) can be used and
+(1) Why FEA is important in Engineering world?
 
-what are the limitations of FEA?
+(2) Why polynomial type interpolation functions are preferred?
 
-ii. Write down 1-D Polynomial and 2-D Polynomial Shape function.
+(3) What is the concept of potential energy? Which principle is based on minimum potential energy?
+(4) What are the properties of global stiffness matrix?
 
-iii. Why boundary conditions are significant in finite element analysis?
+(5) Define Shape function and its properties.
 
-iv. How mass element is represented in FEA? Why and where this is used in FEA?
+(6) What type of problems one can address as 1-D problem? Where one can use 0-D element?
 
-v. Explain with sketch though a 3-D element how would you differentiate between mid-side
-node, centre node and corner node?
+(7) Define aspect ratio. Write its significance in FEA.
 
-vi. What is degree of freedom (dof)? How dof is calculated and with which it is attached?
+(8) What is Constant Triangle Element?
 
-vii. How element stiffness matrix and global stiffness matrix are connected? How to calculate
-size of global stiffness matrix?
-ge viii. How do you differentiate between bar element and beam element?
+SETB : This is set of 6 (six) Questions from which you need to answer 4 (Four) Questions only.
 
-ix. Define Constant Strain Triangle (CST) element. What is the size of element stiffness
-matrix for CST?
-x. Draw one 2-D and one 3-D Finite Elements which show linear strain behavior.
+(1) (i) What are the steps involved in Finite Element Analysis when Displacement Approach is
+considered? Elaborate these through points. (6)
+(ii) Write the strong form and weak form of problem statement. (6)
 
-page |/
+(2) (i) Explain the process of discretisation in Finite Element Method. Using 2-D CST element, carryout
+the discretisation for the configuration shown below. The two cut outs — Circular and Elliptical are in
+same line. (8)
+
+1/3
 --- page 2 ---
-Q 2. (a) Why FEA is an approximate technique? What are its advantages and disadvantages? (6)
+Co O
 
-(b) What is numerical integration? Is Gauss Quadrature numerical integration method?
-What are its advantages over other techniques? (6)
+(ii) Calculate the element stiffness matrix for both the elements, when the bar is loaded with axial
+tensile load as shown. Modulus of Elasticity ‘E’ = 210 GPa. (4)
 
-Q 3. (a) Define continuity concept in FEA and describe C° and C! continuity with examples.
+100 kN
 
-What is discretisation in FEA? (6)
-(b) For an integral Se f dx, derive the two — point Gauss Quadrature Rule. (6)
-Q 4. (a) Derive element stiffness matrix of a truss element. (6)
+wy
+~\ Area — 50 cm?
+Area — 100 cm? Length -5 cm
+Length - 10cm
+(3) (i) Derive the Shape Functions of CST element and show that > Ni= 1,i=1-3. (6)
+(ii) For the configuration shown below with beam element (no axial load), find the Global Stiffness
+Matrix [K]. Given ‘E’= 200 GPa. (6)
 
-(b) Find out the element stiffness matrix of each element for the balcony truss as shown
-below. Horizontal elements (1), (2), 4 and vertical element (3) lengths are 300 cm.
-Modulus of elasticity is 60 GPa and cross sectional areas of all element are 100 cm. The
-inclined members (6) and (5) make 45° and 135° from the horizontal direction in an
-
-anticlockwise manner. (6)
-300 cm 300 cm P= 100 kN
-A
-A
-(1) (2)
-300 emy
-
-(5) (3) (6)
-
-(4)
-
-v
-
-Q 5. (a) Define Principle of Minimum Potential Energy. How Strong and Weak formulation
-differ with each other? (6)
-
-(b) For the configuration shown below without any axial load and using only beam element
-write the element stiffness matrix and the Global Stiffness Matrix [K]. Modulus of
-elasticity ‘E’= 200 GPa and Poisson ratio is 0.3. The Moment of Inertia I is 10° mm‘ for
-
-both element and length are 500 mm and 750 mm as shown in figure below. (6)
-IkN
-a
 500 mm
-750 mm
 
-t; > —_
+(4) (i) For an integral iM f(x)dx, derive the one — point Gauss Quadrature Rule. (6)
 
-pxge 2/3
+(ii) Using 2 — point Gauss Quadrature find out approximately the distance covered by a Rocket from
+t= 8sec tot = 20 sec as given by relation. Assume x1= -0.5773503, X2= +0.5773503 and c1=c2=1.0
+
+X= f;°{1000 In [140000/(140000 — 2100 t)] — 9.8 ¢} at (6)
+
+Als,
 --- page 3 ---
-Q 6. (a) Derive the element stiffness matrix for bar element. (6)
+(5) (i) What are C° and C? continuity elements? (4)
+(ii) Consider a 4 bar Truss configuration as shown in Fig. below. The Modulus of Elasticity “E” is 200
+GPa and cross section area is 5 cm?. Discretise with appropriate type of finite element and show the
 
-(b) Draw a plate with constant thickness “t” and length “L” and width “B”, One side of the
-width is fitted on to a wall. The ratio of L/B is 5. The plate should be discretised with
-CST elements and the both the width sides should have four CST element. Show the
+elements, nodes, applied loads and boundary conditions. (8)
 
-discretisation with the given conditions and write the total degrees of freedom for the
-discretised configuration. (6)
+Y \* KN
 
-.Q7. A circular fin of 4 cm diameter is fixed to a base maintained at 50°C as shown below. The
-fin is insulated on the surface except the end face which is exposed to air at 25°C. The
-length of the fin is 100 cm. The fin is made up a metal with thermal conductivity 37 W/m K.
-If the convection heat transfer coefficient with air is 15W/m°K, find out the temperature
-distribution at 25 cm, 50 cm, 75 cm and 100 cm from the base. (Figure is not to scale) (12)
+800 mm
 
-a 2 Slm Se LT Om he 26%, a Am A
+\, ss
 
-Soc
+}¢———— 1000 mm ————>|
 
-3 Fo 2 2k ok
+(6) Determine the temperature distribution in 1-D rectangular cross-section Fin as shown in Fig. below.
+The dimension are : length 80 mm, width 5 mm and thickness 1 mm. Assume that convection heat
+loss occurs from the end of the fin. Assume k= 168 W/m °C ,h=30W/m?°C , To =20°C. (12)
 
-page 3/3
+100°C
+
+€é nee"
+
+imm
+
+| 80mm |
+
+XXXXXX
 ````
 
 ## 2016-17 · Re-Exam · Sem 7 · paper 4194ce954583
@@ -4052,6 +4378,7 @@ page 3/3
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS BATCH 14-15, 15-16, 16-17 RE EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 26 May 2017
 - Text: ocr (3 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / SVKM’s NMIMS
@@ -4178,7 +4505,6 @@ is exposed to air at 40°C. (12)
 
 love 4
 
-2g 2 2 og ak a a ak ak ok KK oR ok
 
 pe page 2/3 .
 ````
@@ -4442,131 +4768,6 @@ the elements to be quadratic in nature.
 he
 ````
 
-## 2015-16 · Re-Exam · Sem 7 · paper c6646582550c
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS B TECH (MECHANICAL), BATCH 14-15 2015-16 RE EXAM.pdf`
-- Printed on paper: exam date: 28 November 2016
-- Text: ocr (3 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (MECHANICAL)
-
-Baten aie 16 / eye Year : IV Semester : VII
-Academic Year : 2016-2017 Pa
-aN
-
-Subject : Finite Element Analysis
-
-Marks :
-Date : 28 November 2016 fae : a A >) |
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-
-1) Question SET A is compulsory.
-
-2) From SET B out of 6 questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-SETA: This is a group of 8 questions, answer any 4 questions (each carrying 3 marks.)
-
-(1) Why FEA is important in Engineering world?
-
-(2) Why polynomial type interpolation functions are preferred?
-
-(3) What is the concept of potential energy? Which principle is based on minimum potential energy?
-(4) What are the properties of global stiffness matrix?
-
-(5) Define Shape function and its properties.
-
-(6) What type of problems one can address as 1-D problem? Where one can use 0-D element?
-
-(7) Define aspect ratio. Write its significance in FEA.
-
-(8) What is Constant Triangle Element?
-
-SETB : This is set of 6 (six) Questions from which you need to answer 4 (Four) Questions only.
-
-(1) (i) What are the steps involved in Finite Element Analysis when Displacement Approach is
-considered? Elaborate these through points. (6)
-(ii) Write the strong form and weak form of problem statement. (6)
-
-(2) (i) Explain the process of discretisation in Finite Element Method. Using 2-D CST element, carryout
-the discretisation for the configuration shown below. The two cut outs — Circular and Elliptical are in
-same line. (8)
-
-1/3
---- page 2 ---
-Co O
-
-(ii) Calculate the element stiffness matrix for both the elements, when the bar is loaded with axial
-tensile load as shown. Modulus of Elasticity ‘E’ = 210 GPa. (4)
-
-100 kN
-
-wy
-~\ Area — 50 cm?
-Area — 100 cm? Length -5 cm
-Length - 10cm
-(3) (i) Derive the Shape Functions of CST element and show that > Ni= 1,i=1-3. (6)
-(ii) For the configuration shown below with beam element (no axial load), find the Global Stiffness
-Matrix [K]. Given ‘E’= 200 GPa. (6)
-
-500 mm
-
-(4) (i) For an integral iM f(x)dx, derive the one — point Gauss Quadrature Rule. (6)
-
-(ii) Using 2 — point Gauss Quadrature find out approximately the distance covered by a Rocket from
-t= 8sec tot = 20 sec as given by relation. Assume x1= -0.5773503, X2= +0.5773503 and c1=c2=1.0
-
-X= f;°{1000 In [140000/(140000 — 2100 t)] — 9.8 ¢} at (6)
-
-Als,
---- page 3 ---
-(5) (i) What are C° and C? continuity elements? (4)
-(ii) Consider a 4 bar Truss configuration as shown in Fig. below. The Modulus of Elasticity “E” is 200
-GPa and cross section area is 5 cm?. Discretise with appropriate type of finite element and show the
-
-elements, nodes, applied loads and boundary conditions. (8)
-
-Y \* KN
-
-800 mm
-
-\, ss
-
-}¢———— 1000 mm ————>|
-
-(6) Determine the temperature distribution in 1-D rectangular cross-section Fin as shown in Fig. below.
-The dimension are : length 80 mm, width 5 mm and thickness 1 mm. Assume that convection heat
-loss occurs from the end of the fin. Assume k= 168 W/m °C ,h=30W/m?°C , To =20°C. (12)
-
-100°C
-
-€é nee"
-
-imm
-
-| 80mm |
-
-XXXXXX
-````
-
 ## 2015-16 · Re-Exam · Sem 7 · paper d0878e35b724
 
 - Departments: Mechanical
@@ -4797,6 +4998,401 @@ Tair = 20°C. (20)
 x=
 
 aR
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper 4e5131c6d1f2
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 09/05/2015
+- Text: ocr (3 pages), mean OCR confidence 86.5
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+: ster: VI
+Programme: B. Tech (CIVIL) Year: III wester:
+Batch: 2013-14 Zorn. AS
+Academic Year: 2014-2015 __, oe, Ns
+
+A
+i ini i MPSYME }-
+Subject: Finite Element Analysis f ;
+”) Marks % LI®RARY =
+Date: 09/05/2015 Time: 10.00 am pm
+Duration! Me,
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the Answer
+Book, which is provided for their use.
+
+NB:
+
+1. Qu. 1 is compulsory
+
+2. Out of remaining questions attempt Any 4 questions
+
+3. All questions carry equal marks
+
+4. Answer to each question to be started on a fresh page
+
+5. Assume suitable additional data, if not given & mention it clearly.
+
+Qu. 1: Answer any FOUR(AII carry equal marks)
+
+a. What do you understand by Strong and Weak formulations?
+
+b. Write a short note on Eigenvalues with respect to beam.
+
+c. Give examples of stress and displacement boundary conditions.
+d. Illustrate the construction of shape functions with an example.
+e. What do you understand by numerical modelling?
+
+Qu. 2 (a): For the spring system shown in figure, calculate the forces in all the members.(Use relation F=Ku)
+
+(10)
+
+K,=1200 N/mm K,=2500 N/mm K,=3200 N/m
+
+3
+P3=1500 N
+
+Qu. 2 (b): Analyse the shaft shown in Figure below using FEM. Let G=70 GPa, J=4 x 10%m* and L=2m.(Use
+
+T= or) where, T is torsion and ® is angular rotation (10)
+Ix
+--- page 2 ---
+20 KN -m
+
+an
+toes a 30 kN-m
+L L
+1 2 3
+Qu. 3: Consider the:problem of an axially loaded member with two loads as shown in Figure. (20)
+Fixed
+End
+; | Cross Sectional Area = A
+H _-~ Young's Modulus = €
+Liz :
+
+X axis
+
+| 20 Cross Sectional Area = A/?
+Young’s Modulus = E
+
+ule | ;
+iY
+
+Determine the reaction at the fixed end and the displacements at the centre and the free end of the beam by
+
+FEM.(Use linear deformation formula)
+
+Qu. 4: Determine the nodal displacements and rotations and the global and elemental forces for the beam
+shown in Figure. There are three nodes. The nodes are, fixed, resting on a roller and supported by an elastic
+
+spring, respectively. Node 3 is subjected to a downward vertical force P = 50 kN. Let E = 210 GPa and I = 2x
+10 throughout the beam and let k = 200 kN/m. (20) -
+
+|" = YEN
+'
+
+Ce? DK
+ela Ait nn al
+i } }
+
+xx |
+
+Qu. 5: A truss made of two members is shown in Figure. The coordinate axes are shown at node 1. A force of P
+= 1000 KN is applied at node 1 as shown. Let E = 210 GPa and A =6x 10“ m? for each member. Determine the
+
+displacement of node 1 in the y direction and the axial force in each member.(20)
+--- page 3 ---
+x
+1
+3m
+2 Y
+y 3 2 1000 kN
+4m nN
+200 kN
+
+Qu. 6: Analyse the plane frame in the figure by using finite element method. Take E=100GPa; I=2 x 10“%m*
+A=1 x 107m’.
+
+Fe P
+
+5m
+
+Qu. 7: Explain in detail Galerkin’s approach in FEM. Compare it with Rayleigh Ritz method (20)
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper ef687679b7f4
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS B TECH (CIVIL), BATCH 2013-14 RE EXAM_ef687679b7.pdf`
+- Printed on paper: max marks: 14; exam date: 02/07/2015
+- Text: ocr (2 pages), mean OCR confidence 79.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: VI
+Batch: 2013-14
+
+Academic Year: 2014-2015
+
+Subject: Finite Element Analysis a . iy
+Marks: ‘100 en Y
+Date: 02/07/2015 Time: 10.00 am to 1.00 phy
+Durations: | 3:(hrs) ~F
+a am
+Re-Examination NN
+
+which is provided for their use.
+
+NB:
+11. Qu. 1 is compulsory
+i2. Gut of remaining questions attempt Any 4 questions
+13. All questions carry equal marks
+
+14. Answer to each question to be started on the fresh page
+15. Assume suitable additional data, if not given & mention it clearly.
+
+Qu.l: Solve any FOUR j 20
+
+a) Explain pre-processing and post processing
+
+b) Give merits of FEM over FDM on the basis of approach, boundaries and
+pre-processing and computing difficulties.
+
+c) Write a note on direct approach in FEM
+
+d) “What are different types of Governing equations in FEM. Explain with
+examples
+
+e) Explain Galerkin’s approach of FEM for solving Governing equation of
+groundwater flow
+
+Qu.2: For the electrical network shown in Fig.1, the voltage difference between node 1 and 20
+6 is 200V.Calculate the voltage at various nodes and current in each element using
+direct approach of FEM (Hint Use Kirchoff’s law as V=IR)
+
+R=10 9 R=5Q
+3 2 VS a
+. | v=200v
+R=5 Te
+i V=0
+|
+4 6
+R=15Q 9 R=20.0
+
+Qu.3: Analyse the shaft shown in Fig.3 using FEM. Let G=70 GPa, J=4 x 10“m‘ and 20
+
+L=2m.(Use T=GJ &) where, T is torsion and © is angular rotation
+x.
+
+20 kN -m
+TaN Ee
+LX Ry 30kN-m
+L L
+1 2 3
+
+Qu.4: Find the flow rates in each of the elements in the network shown in figure. The 20
+diameters of pies are 8,8,8,8,10 cm respectively. The lengths are 800, 800,800,800
+and 1100mm respectively. t/a
+--- page 2 ---
+40
+L=8m;D=8cm 4
+
+10
+5
+a p=1.5poise;
+E 4
+5 ~ saat ~Fh)
+4 L=8m;D=8cm
+10 10
+Qu.5: Analyse the beam shown in figure below
+20kN/m
+| ty
+Y, ya®
+/ 5m 2.5m
+
+Consider E= 200 GPa, A= 1x 10°m?,1=2 x 10“m!
+
+Qu.6: Analyse the frame shown in figure below
+
+20kN
+
+2.5m | 2.5m
+—_—_——
+
+10 wi | 5m
+
+=
+
+Consider E= 200 GPa, A= 1x 10%m?, 1 =2 x 10%m*
+
+Qu.7: Analyse the truss show in the figure below
+
+|
+> | 80 kN
+
+Consider E= 200 GPa, A= 1x 10°m’, 1=2x 10“m*
+
+4m
+
+2/2
+
+20
+
+20
+
+20
+````
+
+## 2014-15 · Re-Exam · Sem 7 · paper e9b93a968135
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS B TECH (MECH) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 01/12/2014
+- Text: ocr (3 pages), mean OCR confidence 87.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: IV Semester: Vil
+Batch: 2013-2014 a ;
+Academic Year: 2014-2015 Ries Mies,
+~~ ®
+
+Subject: Finite Element Analysis :
+
+Marks: .
+Date: 01/12/2014 Time:
+
+Durations:
+
+Re-Examination
+
+NOTE : Question Set (A) is Compulsory Questions (20 marks). Question Set (B) is set of 6 (six) Questions
+from which you need to answer 4 (Four) Questions only and each question carries 20 marks.
+
+SET A : This is a group of 10 questions each carrying 2 marks.
+
+(1) What is meant by FEA? Why we need FEA?
+
+(2) Why polynomial type interpolation functions are preferred?
+
+(3) What is the concept of potential energy? Which principle is based on minimum potential
+energy?
+
+(4) State the main steps of FEA. List 5 (Five) FEA software.
+
+(5) What are the properties of stiffness matrix?
+
+(6) Define Shape function and its properties.
+
+(7) What type of problems one can address as 1-D problem?
+
+(8) How do you define aspect ratio? Why it is significant in FEA?
+
+(9) Define higher order element with one example and why they are preferred.
+
+(10)Define Natural coordinate system and active coordinate system.
+
+SET B : This is set of 6 (six) Questions from which you need to answer 4 (Four) Questions only.
+
+(1) (i) Explain the steps involved in Finite Element Analysis when Displacement Approach is
+considered. (8)
+
+(ii) A beam AB of span “L” simply supported at the ends and carrying a concentrated load
+“P” at the centre “C” as shown in figure below. Determine the deflection at the mid span by
+using Rayleigh-Ritz method and compare with exact solution. Use a suitable one term
+trigonometric trial function. q 2)
+Pp :
+
+A ¢ B
+--- page 2 ---
+(2) (i) Explain in details the process of discretisation in Finite Element Method. (0 )
+(ii) Calculate the nodal displacements and forces for the bar loaded in axial tensile load as
+
+shown. F = 200 &Pzp (lo)
+
+¥&
+
+SE ganymmiky |
+
+| 12 kN/mm (ky) | |
+(3) (i) Derive the Stiffness matrix of CST element. (1 0)
+
+(ii) For the truss shown below find the assembled stiffness matrix. Given ‘E’= 200 GPa.
+
+{? kN ct o)
+
+A) ==
+
+4 100 mm?
+500 mm
+
+1250 mm*
+
+750mm
+le >
+
+(4) (i) For an integral JP rides, derive the one — point Gauss Quadrature Rule.
+
+(4)
+
+(ii) Using 2 — point Gauss Quadrature find out approximately the distance covered by a
+Rocket from t= 8 sec to t = 30 sec as given by relation. (2)
+
+X= i-"{2000In [140000/(140000 — 2100 5] -9.8 4} dt
+
+2/5
+--- page 3 ---
+(5) (i) Discuss about C° and ct continuity elements in detail. (6)
+
+(ii) Consider a 4 bar Truss configuration as shown in Fig. below. The Modulus of Elasticity “E”
+is 200 GPa and cross section area is 500 mm? . Determine Nodal Displacements and Support
+
+Reactions. d 4)
+Y | 15 «Nv
+
+Z (4)
+
+4 3
+800 mm (3) (2)
+
+y : (1) 10kN
+
+1 2 4 X
+—_>
+
+1000
+mm
+
+(6) Determine the temperature distribution in 1-D rectangular cross-section Fin as shown in Fig.
+below. The dimension are : length 8 cm, width 1 cm and thickness0.4 cm. Assume that
+convection heat loss occurs from the end of the fin. Assume k=3 W/cm2 °C ,»h=0.1 W/cm2
+
+0 co = 0
+C ,Tex=20°C (20)
+80°C
+
+= 7K
+|
+
+0.4cm
+
+8cm
 ````
 
 ## 2014-15 · Re-Exam · Sem 7 · paper 5470cb944e1e
@@ -5231,6 +5827,7 @@ XXXXXX
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS 2013-14 Final exam.pdf`
 - Printed on paper: exam date: 12/05/2014
 - Text: ocr (4 pages), mean OCR confidence 82.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5370,7 +5967,6 @@ TOKIO SORES
 mf ee ee
 be “3 13 “4 i ee
 \op=an0dtem! | \ f= 20000 rat
-a= 14t em” at= Tu ca"
 (8) UG
 
 } f= 20000 ern”
@@ -5383,262 +5979,6 @@ ge)
 (20)
 
 (20)
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 4e5131c6d1f2
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 09/05/2015
-- Text: ocr (3 pages), mean OCR confidence 86.5
-
-````text
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-: ster: VI
-Programme: B. Tech (CIVIL) Year: III wester:
-Batch: 2013-14 Zorn. AS
-Academic Year: 2014-2015 __, oe, Ns
-
-A
-i ini i MPSYME }-
-Subject: Finite Element Analysis f ;
-”) Marks % LI®RARY =
-Date: 09/05/2015 Time: 10.00 am pm
-Duration! Me,
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the Answer
-Book, which is provided for their use.
-
-NB:
-
-1. Qu. 1 is compulsory
-
-2. Out of remaining questions attempt Any 4 questions
-
-3. All questions carry equal marks
-
-4. Answer to each question to be started on a fresh page
-
-5. Assume suitable additional data, if not given & mention it clearly.
-
-Qu. 1: Answer any FOUR(AII carry equal marks)
-
-a. What do you understand by Strong and Weak formulations?
-
-b. Write a short note on Eigenvalues with respect to beam.
-
-c. Give examples of stress and displacement boundary conditions.
-d. Illustrate the construction of shape functions with an example.
-e. What do you understand by numerical modelling?
-
-Qu. 2 (a): For the spring system shown in figure, calculate the forces in all the members.(Use relation F=Ku)
-
-(10)
-
-K,=1200 N/mm K,=2500 N/mm K,=3200 N/m
-
-3
-P3=1500 N
-
-Qu. 2 (b): Analyse the shaft shown in Figure below using FEM. Let G=70 GPa, J=4 x 10%m* and L=2m.(Use
-
-T= or) where, T is torsion and ® is angular rotation (10)
-Ix
---- page 2 ---
-20 KN -m
-
-an
-toes a 30 kN-m
-L L
-1 2 3
-Qu. 3: Consider the:problem of an axially loaded member with two loads as shown in Figure. (20)
-Fixed
-End
-; | Cross Sectional Area = A
-H _-~ Young's Modulus = €
-Liz :
-
-X axis
-
-| 20 Cross Sectional Area = A/?
-Young’s Modulus = E
-
-ule | ;
-iY
-
-Determine the reaction at the fixed end and the displacements at the centre and the free end of the beam by
-
-FEM.(Use linear deformation formula)
-
-Qu. 4: Determine the nodal displacements and rotations and the global and elemental forces for the beam
-shown in Figure. There are three nodes. The nodes are, fixed, resting on a roller and supported by an elastic
-
-spring, respectively. Node 3 is subjected to a downward vertical force P = 50 kN. Let E = 210 GPa and I = 2x
-10 throughout the beam and let k = 200 kN/m. (20) -
-
-|" = YEN
-'
-
-Ce? DK
-ela Ait nn al
-i } }
-
-xx |
-
-Qu. 5: A truss made of two members is shown in Figure. The coordinate axes are shown at node 1. A force of P
-= 1000 KN is applied at node 1 as shown. Let E = 210 GPa and A =6x 10“ m? for each member. Determine the
-
-displacement of node 1 in the y direction and the axial force in each member.(20)
---- page 3 ---
-x
-1
-3m
-2 Y
-y 3 2 1000 kN
-4m nN
-200 kN
-
-Qu. 6: Analyse the plane frame in the figure by using finite element method. Take E=100GPa; I=2 x 10“%m*
-A=1 x 107m’.
-
-Fe P
-
-5m
-
-Qu. 7: Explain in detail Galerkin’s approach in FEM. Compare it with Rayleigh Ritz method (20)
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper ef687679b7f4
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS B TECH (CIVIL), BATCH 2013-14 RE EXAM_ef687679b7.pdf`
-- Printed on paper: max marks: 14; exam date: 02/07/2015
-- Text: ocr (2 pages), mean OCR confidence 79.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: VI
-Batch: 2013-14
-
-Academic Year: 2014-2015
-
-Subject: Finite Element Analysis a . iy
-Marks: ‘100 en Y
-Date: 02/07/2015 Time: 10.00 am to 1.00 phy
-Durations: | 3:(hrs) ~F
-a am
-Re-Examination NN
-
-which is provided for their use.
-
-NB:
-11. Qu. 1 is compulsory
-i2. Gut of remaining questions attempt Any 4 questions
-13. All questions carry equal marks
-
-14. Answer to each question to be started on the fresh page
-15. Assume suitable additional data, if not given & mention it clearly.
-
-Qu.l: Solve any FOUR j 20
-
-a) Explain pre-processing and post processing
-
-b) Give merits of FEM over FDM on the basis of approach, boundaries and
-pre-processing and computing difficulties.
-
-c) Write a note on direct approach in FEM
-
-d) “What are different types of Governing equations in FEM. Explain with
-examples
-
-e) Explain Galerkin’s approach of FEM for solving Governing equation of
-groundwater flow
-
-Qu.2: For the electrical network shown in Fig.1, the voltage difference between node 1 and 20
-6 is 200V.Calculate the voltage at various nodes and current in each element using
-direct approach of FEM (Hint Use Kirchoff’s law as V=IR)
-
-R=10 9 R=5Q
-3 2 VS a
-. | v=200v
-R=5 Te
-i V=0
-|
-4 6
-R=15Q 9 R=20.0
-
-Qu.3: Analyse the shaft shown in Fig.3 using FEM. Let G=70 GPa, J=4 x 10“m‘ and 20
-
-L=2m.(Use T=GJ &) where, T is torsion and © is angular rotation
-x.
-
-20 kN -m
-TaN Ee
-LX Ry 30kN-m
-L L
-1 2 3
-
-Qu.4: Find the flow rates in each of the elements in the network shown in figure. The 20
-diameters of pies are 8,8,8,8,10 cm respectively. The lengths are 800, 800,800,800
-and 1100mm respectively. t/a
---- page 2 ---
-40
-L=8m;D=8cm 4
-
-10
-5
-a p=1.5poise;
-E 4
-5 ~ saat ~Fh)
-4 L=8m;D=8cm
-10 10
-Qu.5: Analyse the beam shown in figure below
-20kN/m
-bbb diiitl titi ise
-| ty
-Y, ya®
-/ 5m 2.5m
-
-Consider E= 200 GPa, A= 1x 10°m?,1=2 x 10“m!
-
-Qu.6: Analyse the frame shown in figure below
-
-20kN
-
-2.5m | 2.5m
-—_—_——
-
-10 wi | 5m
-
-=
-
-Consider E= 200 GPa, A= 1x 10%m?, 1 =2 x 10%m*
-
-Qu.7: Analyse the truss show in the figure below
-
-|
-> | 80 kN
-
-Consider E= 200 GPa, A= 1x 10°m’, 1=2x 10“m*
-
-4m
-
-2/2
-
-20
-
-20
-
-20
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper 83420994f2cd
@@ -5761,145 +6101,6 @@ For groundwater flow using FE Weighted Residual Approach (Galerkin’s method)
 nes
 
 A.
-````
-
-## 2013-14 · Re-Exam · Sem 7 · paper e9b93a968135
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/FINITE ELEMENT ANALYSIS/FINITE ELEMENT ANALYSIS B TECH (MECH) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 01/12/2014
-- Text: ocr (3 pages), mean OCR confidence 87.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: IV Semester: Vil
-Batch: 2013-2014 a ;
-Academic Year: 2014-2015 Ries Mies,
-~~ ®
-
-Subject: Finite Element Analysis :
-
-Marks: .
-Date: 01/12/2014 Time:
-
-Durations:
-
-Re-Examination
-
-NOTE : Question Set (A) is Compulsory Questions (20 marks). Question Set (B) is set of 6 (six) Questions
-from which you need to answer 4 (Four) Questions only and each question carries 20 marks.
-
-SET A : This is a group of 10 questions each carrying 2 marks.
-
-(1) What is meant by FEA? Why we need FEA?
-
-(2) Why polynomial type interpolation functions are preferred?
-
-(3) What is the concept of potential energy? Which principle is based on minimum potential
-energy?
-
-(4) State the main steps of FEA. List 5 (Five) FEA software.
-
-(5) What are the properties of stiffness matrix?
-
-(6) Define Shape function and its properties.
-
-(7) What type of problems one can address as 1-D problem?
-
-(8) How do you define aspect ratio? Why it is significant in FEA?
-
-(9) Define higher order element with one example and why they are preferred.
-
-(10)Define Natural coordinate system and active coordinate system.
-
-SET B : This is set of 6 (six) Questions from which you need to answer 4 (Four) Questions only.
-
-(1) (i) Explain the steps involved in Finite Element Analysis when Displacement Approach is
-considered. (8)
-
-(ii) A beam AB of span “L” simply supported at the ends and carrying a concentrated load
-“P” at the centre “C” as shown in figure below. Determine the deflection at the mid span by
-using Rayleigh-Ritz method and compare with exact solution. Use a suitable one term
-trigonometric trial function. q 2)
-Pp :
-
-A ¢ B
---- page 2 ---
-(2) (i) Explain in details the process of discretisation in Finite Element Method. (0 )
-(ii) Calculate the nodal displacements and forces for the bar loaded in axial tensile load as
-
-shown. F = 200 &Pzp (lo)
-
-¥&
-
-SE ganymmiky |
-
-| 12 kN/mm (ky) | |
-(3) (i) Derive the Stiffness matrix of CST element. (1 0)
-
-(ii) For the truss shown below find the assembled stiffness matrix. Given ‘E’= 200 GPa.
-
-{? kN ct o)
-
-A) ==
-
-4 100 mm?
-500 mm
-
-1250 mm*
-
-750mm
-le >
-
-(4) (i) For an integral JP rides, derive the one — point Gauss Quadrature Rule.
-
-(4)
-
-(ii) Using 2 — point Gauss Quadrature find out approximately the distance covered by a
-Rocket from t= 8 sec to t = 30 sec as given by relation. (2)
-
-X= i-"{2000In [140000/(140000 — 2100 5] -9.8 4} dt
-
-2/5
---- page 3 ---
-(5) (i) Discuss about C° and ct continuity elements in detail. (6)
-
-(ii) Consider a 4 bar Truss configuration as shown in Fig. below. The Modulus of Elasticity “E”
-is 200 GPa and cross section area is 500 mm? . Determine Nodal Displacements and Support
-
-Reactions. d 4)
-Y | 15 «Nv
-
-Z (4)
-
-4 3
-800 mm (3) (2)
-
-y : (1) 10kN
-
-1 2 4 X
-—_>
-
-1000
-mm
-
-(6) Determine the temperature distribution in 1-D rectangular cross-section Fin as shown in Fig.
-below. The dimension are : length 8 cm, width 1 cm and thickness0.4 cm. Assume that
-convection heat loss occurs from the end of the fin. Assume k=3 W/cm2 °C ,»h=0.1 W/cm2
-
-0 co = 0
-C ,Tex=20°C (20)
-80°C
-
-= 7K
-|
-
-0.4cm
-
-8cm
 ````
 
 ## 2013-14 · Re-Exam · Sem 7 · paper dc2c8f08a070
@@ -6172,205 +6373,4 @@ For the element shown in figure below, derive the shape function 10
 f >
 
 2/9_
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper afdb4435187d
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VIII SEMESTER/FINITE ELEMENT ANALYSIS/Finite element analysis.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 83.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024 ihe
-Program: MBA.Tech Year: [V Semester: VIII
-
-Stream :Mechanical Engineering
-
-Subject: Finite Element Analysis . Time: 03 hrs ((o:00amto 4: oop)
-Date:_30/ 4 /2024 . No. of Pages:04
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. ;
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all ___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-
-CO-01; [a
-
-SO-03 ; What is FEA? Describe briefly. 3
-
-BL-01
-
-CO-02; |b .
-
-S0-03 ; Identify and explain practical problems on truss. 3
-
-BL-01
-
-CO-01 ; c oo
-
-S0-03 ; Write a note on beam element in brief. 4
-©) | BL-01
-
-CO-01; | d : -
-
-S0-03 ; Explain plane stress & plane strain condition. 4
-
-BL-01
-
-CO-02; |e _ ,
-
-SO-03 ; How aspect ratio does affects the result accuracy? Explain in detail. 3
-
-BL-01 -
-
-CO-03 ; f | What is convection? Explain the term associated with it for framing element
-
-03° 3
-ape > stiffness matrix
-
-Q2 [20]
-CO-Ol; | a | State the following with respect to FEA
-
-SO-01 ; : 10
-BL-02 a. Application b. Advantages c. Dis-advantages
---- page 2 ---
-[ b_ | For the bar assemblages shown in Figures, determine the nodal displacements,
-
-the forces in each element, and the reactions. Use the direct stiffness method for
-
-CO-01 ; these problems.
-SO-01 ; . 10
-BL-03 ! EA 2 Eyea 3 _!5.000 Ib E, = 30 x 10° psi
-] "Ey = 1S X 10° psi
-Ni 30 in. t 30 in. =| A = Sin?
-Q3 [20]
-a | Determine the displacement components at node 3 and the element forces for the
-plane truss shown in Figure. Let A= 3 in? and E= 30* 10° psi for all elements.
-CO-01 ;
-SO-01 ; 15
-BL-03
-40 ft
-CO-02 ; b
-SO-03 ; Explain the sizing of the element with p &h type. 5
-BL-01
-Q4 [20]
-| a | For the rigid frames shown in Figures, determine the displacements and rotations
-of the nodes, the element forces, and the reactions. The values of E, A and I to be
-used are listed next to figure.
-CO-01 ; —
-SO-01 ; 15
-BL-03 4m E = 10GPa
-A=3x 107? a?
-1=3.x 10m
-! oe
-L 3m 3 ws
-/C0-02; |b
-SO-03 ; Describe Equilibrium and Compatibility of Finite Element results. 5
-BL-02
---- page 3 ---
-a a [20]
-
-a_ | For the beams shown in Figures, determine the displacements and the slopes at
-
-the nodes, the forces in each element, and the reactions. Also, draw the shear
-
-CO-01: force and bending moment diagrams.
-SO-01 ; 1 kip I5
-BL-03 ;
-
-I 2 3 E = 30 x 10° psi
-
-1 = 100 in*
-20t ee we
-
-b_ | Evaluate the shape function NI, N2 , N3 at the interior point "P" for the triangular
-
-element shown in figure.
-
-CO-01;
-SO-01 ; 5
-BL-02
-1(1.5.2)
-S
-¢
-Q6 [20]
-a_ | Evaluate the stiffness matrix for the elements shown in Figure. The coordinates
-are in units of inches. Assume plane stress conditions. Let E= 30 _ 108 psi, v=
-0.25, and thickness t=1 in. .
-CO-01;
-SO-01 ; 10
-BL-03
-t
-(0. -1)
-b | Determine the temperature distribution along the length of the rod shown in
-CO-03: Figure with an insulated perimeter. The temperature at the left end is a constant
-SO-01 ; 100°F and the free-stream temperature is 10°F. Let h = 10 Btu/(h-ft?-°F) and Kax= | 10
-BL-02
-
-20 Btu/(h-ft-°F). The value of h is typical for forced air convection and the value
-
-of Kxx is a typical conductivity for carbon steel.
---- page 4 ---
-Insulated perimeter ,
-
-\ —— I-in. radius
-
-100° F ah, TT
-
-aT a AT 7 ar oem este emer es
-
-40 in.
-
-Q : [20]
-
-a_ | For the spring assemblage with arbitrarily numbered nodes shown in Figure
-Obtain (a) the global stiffness matrix, (b) the displacements of nodes 3 and 4,. A
-
-force of 5000 ib is applied at node 4 in the x direction. The spring constants are
-
-CO-01: given in the figure. Nodes | and 2 are fixed.
-OG ky = 1000 Ib/in. ky = 2000 Ib/i ky = 3000 Ibi 10
-BL-01 a in. 7 in. 1 = 3 fin.
-
-i 3 4 P 2
-
-@ @ . 5000 Ib G) y,
-
-b | For the two-dimensional body shown in Figure, determine the stiffness matrix.
-The temperature at the left side of the body is maintained at 100F. The edges on
-the top and bottom of the body are insulated. There is heat convection from the
-right side with convection coefficient h= 20 Btu/(h-f?°F). The freestream
-
-temperature is Ty=5OF. The coefficients of thermal conductivity are Kxx=Kyy=25
-
-CO-03 ; Btu/(h-ft-°F). The dimensions are shown in the figure. Assume the thickness to
-$0-015 be | fi. 10
-BL-02
-T= 100°F }—_»
-2ft p   # = 20
-T, = SO°F
-Y? Ys
-2 tt
 ````

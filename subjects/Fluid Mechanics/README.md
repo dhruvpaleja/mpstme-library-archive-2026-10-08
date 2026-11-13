@@ -16,18 +16,18 @@ Also filed as: `FLUID MECHANIES`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Fluid Mechanics(702ME0C012)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Fluid Mechanics(702MH0C028)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Fluid Mechanics 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | QP_Fluid Mechanics(702ME0C012)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Mechatronics 7004 | QP_Fluid Mechanics(702MH0C028)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechanical 7003 | ANS_Fluid Mechanics(702ME0C012)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Fluid Mechanics(702MH0C028)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Fluid Mechanics(702ME0C012)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Fluid Mechanics(702ME0C012)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Fluid Mechanics(702MH0C028)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / MECHATRONICS | B Tech, Fluid Mechanics, Sem-IV, BBatch 2022-23, 2023-24, 2024-25 & 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Mechanical 7003 | QP_Fluid Mechanics(702ME0C012)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech Mechatronics 7004 | QP_Fluid Mechanics(702MH0C028)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | Integrated Mechanical 7031 | QP_Fluid Mechanics(702ME0C012)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechanical 7003 | ANS_Fluid Mechanics(702ME0C012)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Fluid Mechanics(702MH0C028)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Fluid Mechanics(702ME0C012)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHATRONICS | Fluid Mechanics, Sem IV, Year 2024-25 Final Exam & 2022-23 and 2023-24 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Fluid Mechanics Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Fluid Mechanics, Sem-V, Year 2024-25, Re Exam.pdf |

@@ -1,6 +1,6 @@
 # German: question papers in full
 
-55 unique papers · 2022 to 2025-26 · Computer Engineering, Common (all branches), Data Science, Mechanical, AI and Data Science, Artificial Intelligence, Civil, Electronics and Telecommunication, Mechatronics, Cyber Security, Computer Science and Business Systems, Information Technology
+55 unique papers · 2022-23 to 2025-26 · Computer Engineering, Common (all branches), Data Science, Mechanical, AI and Data Science, Artificial Intelligence, Civil, Electronics and Telecommunication, Mechatronics, Cyber Security, Computer Science and Business Systems, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -5002,6 +5002,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/GERMAN/German, Sem-VI, Batch 2025-2026, Re Exam.pdf` (+7 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: ocr (7 pages), mean OCR confidence 86.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -5050,7 +5051,6 @@ deutschen Stadten gibt es einen oder mehrere Marktplatze. Hier findet wéchentli
 
 Markt statt. Man kann Obst, Gemiise, Blumen, Kase, Wurst usw. kaufen.
 
-SRR a a a a ok ok
 --- page 2 ---
 Manchmal sieht man auf den Platzen Strassenmusikanten. Sie geben ein Konzert und
 die Leute héren gern zu. Platze sind gut fiir Feste : Weinfeste, Bierfeste usw. Es gibt
@@ -5100,7 +5100,6 @@ aufstehen)
 
 cd lernen)
 
-SRR RR RR DR a a a oa OR A
 --- page 3 ---
 9. (30. Juni / 19:30 / sie / ins Kino gehen)
 10. (2. April / 11:10 / der Kurs / e.
@@ -5255,7 +5254,6 @@ Paul Brot, Wurst
 
 [10]
 
-FIC AR Daa aa ak a ak
 --- page 6 ---
 Hallo Lena,
 
@@ -5306,7 +5304,6 @@ a. Bilden Sie vollstandige Satze mit trennbaren Verben. [10]
 
 7. (17:00 / er / ausgehen)
 
-FOI I Gk a a kak a ak ok
 --- page 7 ---
 8. (18:30 / wir / einladen / die Freunde)
 
@@ -5336,6 +5333,7 @@ FRR 7 dG RR a
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/GERMAN/German, Sem VI, Final Exam 2024-25.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 84.8
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -5433,7 +5431,6 @@ iv) Thr Leben
 
 vy) ~~ Thre Universitit |
 a. | Erganzen Sie das Urlaubsziel!. . [10]
-a. Urlaub zu Hause b. Campingurlaub an c. Skiurlaub in Graubiinden
 ! . -dem Bodensee iia!
 d. Stadtreise nach «: | f. Ferienwohnung auf e. Fahrrad fahren
 Ha mburg Rigen
@@ -5480,29 +5477,21 @@ Mutter/Sie sqll die Tabletten nehmen. °
 
 2: Ich habe viel Stress und kann nicht gut schlafen.
 
-3.lhr esst ungesundes Essen.
 
 4. Ich habe Halsschmerzen.
 
 Q3
-CO-1; BL- 5. Frau Meier tut.das Bein weh. : [10]
 2,4
 b. Formulieren Sie Sitze ! Addieren Sie mehr, wenn Sie wollen !
 1. Haltestelle / Claraplatz / aussteigen
-2 Ruhig / Patienten / Wartezimmer / Krankenhaus
-3. Schrank / Regal / Biicher / Herr Schneider
-4. Freizeit / verschiedene Sprachen / iiben / Lehrer
 S: Wahrscheinlich / regnen / Samstag / viel _
 a. Im Kaufhaus. Wo ist das? Lesen Sie die Tafel und erganzen Sie. [10]
 z.B. der Schwimmanzug — Der Schwimmanzug ist im dritten Stock.
 3. Stock Sportkleidung / Sportartikel / Bademode / Kino / Restaurant
 Q4 2. Stock Mode fiir Kinder und Jugendliche / Spielwaren
-CO-3; 1. Stock Damenmode / Freizeitkleidung / Abendkleidung
 BL-2,3
 
-Erdgeschoss Herrenmode / Anziige / Freizeitkleidung / Schuhe fiir sie und ihn
 
-Untergeschoss Lebensmittel / Alles fiir die Kiiche / Schreibwaren / Biicher /. Kosmetik
 --- page 4 ---
 1. der Lippenstift -
 2. das Kleid -
@@ -5605,6 +5594,7 @@ b. Nennen Sie zwei:
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/GERMAN/German, Sem-VII, Final Exam 2024-25.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/24
 - Text: ocr (10 pages), mean OCR confidence 90.3
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -5734,7 +5724,6 @@ Page 2 of 10
 
 BL3
 
-L durfen — konnen — méchten — miissen — sollen -- wollen |
 
 1] Meine Schwester hat Fieber. Sie zwei Tage im Bett bleiben [stay in
 
@@ -5742,7 +5731,6 @@ bed].
 2] Robert ist 12 Jahre alt. Er nicht Autofahren. me
 3] Peter, du einen Kaffee trinken?
 
-4] Meine Tochter an der Berliner Universitat studieren.
 
 5] Ritas Mann ist zu dick. Er eine Didt machen.
 
@@ -5758,7 +5746,6 @@ BL3
 (i) Schreiben Sie drei Sitze iiber Ingrid Bachmann. Write 3.sentences in German | (5)
 about Ingrid Bachmann, based on the information given below:
 
-Ingrid Bachmann Das ist Ingrid Bachmann.
 Beruf: Arztin Sie kommt aus Osterreich.
 
 Arbeitzeiten: So-Fr 1]
@@ -5860,7 +5847,6 @@ class)
 
 Anna: Toll! Wir miissen alles organisieren. Zuerst, das Essen!! Wer bringt was?
 
-Fabio: Ich mache (1) e Nudelsalat (m).
 Mark: Super! Ich bringe (2) d Bratwiirste (pl) fiir alle.
 Tina: Ich kann (3) e Torte (f) mitbringen. Und du, Anna?
 
@@ -5970,9 +5956,7 @@ Q5. 20
 CO1 | a | (i) Welches Wort passt nicht? Pick the odd one out and write the word in your answer (5)
 BL3 sheet: (3 marks)
 
-1] Buch — Landkarte — Mappe — Heft >
 
-2] Klimaanlage (AC) — Ventilator — Tafel — Heizung >
 
 3] Professor — Lehrer — Hochschule — Universitat >
 (ii) Schreiben Sie die Pluralformen. Write the plural forms of the given words:
@@ -6038,7 +6022,6 @@ Page 7 of 10
 
 (9) Ingenieur
 
-Sprachen . | Spanisch, Deutsch, Englisch
 
 (10) Filme sehen , Musik héren, Sprachen lernen
 
@@ -6046,7 +6029,6 @@ Q6. 20
 CO2 | a | Fill in the blanks with the given words. You can write the blank number and the answer in | (5)
 
 CO3 your answer sheet:
-BL3 -- Nachtleben — Fernsehturm — Grofstadt — Parlament — Zoo — Haupstadt — Attraktionen —
 Universitat — Symbol — Kirche -- Rg
 
 Berlin ist die (1) von Deutschland. Das ist eine (2). Jedes
@@ -6177,6 +6159,7 @@ Page 10 of 10
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/German/German Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 88.6
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -6276,7 +6259,6 @@ a. [10]
 
 Erganzen Sie das Urlaubsziel!
 
-a. Urlaub zu Hause b. Campingurlaub an c. Skiurlaub in Graublinden
 dem Bodensee
 d. Stadtreise nach f. Ferienwohnung auf. e. Fahrrad fahren
 Hamburg Rigen |
@@ -6331,29 +6313,22 @@ Mutter/Sie soll die Tabletten nehmen.
 
 2. Ich habe viel Stress und kann nicht gut schlafen.
 
-3.lhr esst ungesundes Essen.
 
 4. Ich habe Halsschmerzen.
 
 Q3
-CO-1; BL- 5. Frau Meier tut das Bein weh. [10]
 2,4
 b. Formulieren Sie Satze ! Addieren Sie mehr, wenn Sie wollen !
 1, Haltestelle / Claraplatz / aussteigen
-2. Ruhig / Patienten / Wartezimmer / Krankenhaus
-3.. _... Schrank / Regal / Biicher / Herr Schneider
-4. Freizeit / verschiedene Sprachen / iiben / Lehrer
 3h Wahrscheinlich / regnen / Samstag / viel
 a. Im Kaufhaus. Wo ist das? Lesen Sie die Tafel und erganzen Sie. [10]
 z.B. der Schwimmanzug — Der Schwimmanzug ist im dritten Stock.
 3. Stock Sportkleidung / Sportartikel / Bademode / Kino / Restaurant
 Q4 2. Stock Mode fiir Kinder und Jugendliche / Spielwaren
-CO-3; 1. Stock Damenmode / Freizeitkleidung / Abendkleidung
 BL-2,3
 
 Erdgeschoss Herrenmode / Anziige / Freizeitkleidung / Schuhe fir sie und ihn
 
-Untergeschoss Lebensmittel / Alles fiir die Kiiche / Schreibwaren / Biicher / Kosmetik
 --- page 4 ---
 1. der Lippenstift - aie
 2. das Kleid -
@@ -6389,7 +6364,6 @@ Welches verb passt? Erginzen Sie die richtige Konjugation !
 CO-3: ? “) 2: Bg ____ die Flasche auf den Boden: (liegt / legt)
 BL-5,1 3. Der Tisch : zwischen den Schrinken. (steht / stellt)
 4. Der Kleiderschrank sin das Schlafzimmer. (geht / ist)
-5.DasBild_ saan der Wand. (hingt / liegt)
 6. Thre Gaste den Kuchen ___?(mitbringen/ anfangen)
 7. Wann die Besprechung ? (aufhéren/einladen)
 8. Heidi mit dem Auto.(schreiben/fahren)
@@ -6438,6 +6412,7 @@ b)
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/GERMAN/German, Sem-VII, Batch 2024-25 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (10 pages), mean OCR confidence 91.2
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -6524,7 +6499,6 @@ CO1|c | Ergiinzen Sie die Verb-Konjugation Tabelle. Complete the verb conjugatio
 
 BL2 and present it in this tabular format in your answer sheet:
 treffen wollen antworten geben
-ich treffe antworte gebe
 du
 sie (she) will
 
@@ -6541,7 +6515,6 @@ Hier man nicht
 2]
 
 [ii] Translate the following sentences to English:
-1] Herzlichen Gliickwunsch zur Hochzeit!
 
 2] Alles Gute!
 
@@ -6653,7 +6626,6 @@ BL1
 
 4] gibt es im Regal? — Biicher
 
-5] Biicher gibt es im Regal? — 25 Biicher
 
 Page 4 of 9
 --- page 5 ---
@@ -6776,7 +6748,6 @@ Bett eine Couch?
 Page 6 of 9
 --- page 7 ---
 CO1 | c¢ | Fill in the blanks with the words given below: (5)
-Cco2 -- Hausfrau -- Grofeltern -- Einzelkind -- Schreib -- liebevoll -- Haustier --
 BL3 -- Familienfoto -- verheiratet -- klein -- Beruf --
 
 Lieber Rex,
@@ -6817,7 +6788,6 @@ Q6. 20
 COl1 | a | Wo kauft man was? Write the items in a tabular format based one where would one (5)
 Cco2 buy these: 2
 
-BL1 -- Eistee -- Brétchen -- Schinken -- Sekt -- Bananen -- Kuchen -- Salat --
 -- Mineralwasser -- Salami -- Kartoffeln —
 In der Backerei In der Fleischerei Auf dem Im Getrinkemarkt
 Bauernmarkt
@@ -6963,6 +6933,7 @@ Page 9 of 9
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/GERMAN/German, Sem VI, Final Exam 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 2/5/2024
 - Text: ocr (10 pages), mean OCR confidence 90.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 fo* SVKM’S NMIMS
@@ -7214,8 +7185,6 @@ BL1 the sentences. Write the complete sentences in your answer sheet:
 2] Das Kind im Schlafzimmer nicht . (diirfen, essen)
 3] Wir heute Abend auf der Terrasse eine Party . (machen, kénnen)
 (ii) Welches Wort passt nicht?
-1] Sessel — Deckstuhl — Teppich — Essstuhl =>
-2] Spiegel — Kiihlschrank — Elektroherd —-Waschmaschine =>
 CO2 | ¢ | Erginzen Sie die Liicken. Fill in the blanks with the given words (Two words will (5)
 CO3 remain unused):
 BL3.
@@ -7446,7 +7415,6 @@ CO2/c | Your friend Alberto Fernandez from Brazil wants to join a Sports Club in
 Co3 doesn’t know German very well. Help him complete this registration form by filling
 BL3 in the missing information based on the text given:
 
-Alberto Fernandez ist am 23.06.2003 in Rio de Janeiro, Brasilien geboren. Er studiert
 Jura (Law) in Berlin. Er wohnt in der GartnerstraBe 15. Die PLZ ist 10176. Er hat nur
 am Nachmittag Zeit. Seine Hobbys sind Ballspiele und schwimmen. Er hat viele
 Freunde und Freundinnen, aber er ist noch ledig. Er méchte im Sportklub einen
@@ -7983,6 +7951,7 @@ Page 9 of 9
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/GERMAN/German , Re-exam 2023-2024.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (9 pages), mean OCR confidence 88.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS Ve
@@ -8253,7 +8222,6 @@ méchten bezahlen.
 (4) Zusammen, bitte.
 Das macht 18,50 Euro. Hier sind 20 Euro. (5)
 (Keep the change)
-Vielen Dank! Auf Wiedersehen! Auf Wiedersehen!
 CO1 |b | Wie heift das auf Deutsch? Name the following in German: (5)
 co2 :
 -| BLI 1] Name two popular street food items in Germany. (Other than Wiener Schnitzel)
@@ -8408,11 +8376,9 @@ mannlich weiblich
 
 (ii) Welches Wort passt nicht. Pick the odd word out.
 
-1] Mechniker, Polizist, Bruder, Architekt => _
 
 2] morgens, nachmittags, freitags, abends =>
 
-3] Hausfrau, Fotograf, Hausmann, Student =>
 
 CO3 | d
 BL6
@@ -8435,6 +8401,7 @@ Page 9 of 11
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/GERMAN/German ,Re-exam 2023-24.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; exam date: 16/02/2024
 - Text: ocr (9 pages), mean OCR confidence 90.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -8624,7 +8591,6 @@ Co2 article is given: .
 
 BLI 1] Wir kaufen e Flasche (f) Wein.
 2] Paula isst e Brétchen (n) mit Marmalade
-3] Trinkst du d Milchkaffee (m) im Cafe Sonnenschein?
 4] Ich bin krank. Ich kann heute leider k Eis (n) essen.
 5] Mochtest du heute e Kuchen (m) backen?
 CO2 | c | Read the texts and answer the questions in one-two words, as required: (5)
@@ -8712,7 +8678,6 @@ BLI1 and locations in the city and fill in the blanks with the correct word:
 5] Man wartet auf den Zug am . [nhaBofh]
 CO2 | d | Complete the dialogue between the salesman in the boutique (Verkaufer) and | (5)
 CoO3 the customer (Kunde) with the words given below:
-BL3 [Farbe — Kann -- kostet — Kreditkarte -- GréBe]
 Verkaufer ; Kunde
 Guten Tag. (1) ich Ihnen helfen? Ja, ich méchte ein Tshirt
 : kaufen.
@@ -8915,13 +8880,14 @@ BL6
 Page 9 of 9
 ````
 
-## 2022 · Final-Exam · paper dc9e3f599930
+## 2022-23 · Final-Exam · paper dc9e3f599930
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/All Stream/German/German Batch 2022 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 November 2022
 - Text: ocr (8 pages), mean OCR confidence 85.5
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ; . A oY ‘ ; i/ N
@@ -9008,7 +8974,6 @@ coO2 |e | Inyour answer sheet make a table like the one given below. There are 2
 
 BL1 given below that. You have to write 4 words in the respective category — which —
 means 16 words in all. Please note that 4 words will remain unused:
-Getranke In der Kleidung Wohnzimmer
 
 Schultasche
 
@@ -9144,13 +9109,11 @@ BODENSEE-RUNDFAHRT
 
 Anmeldung
 
-Familienname, Vorname: Forster, Sofie”
 
 Anzahl der Personen (1)
 
 Davon Kinder (2)
 
-Urlaubsadresse Hotel Sonnenschein, BurgstraBe 34
 
 PLZ, Urlaubsort 30192, (3)
 
@@ -9179,7 +9142,6 @@ Qs.
 
 co3 a_ | Fillin the blanks with the given words: > . (5) a
 BL1 ‘
-BL3 | - Regenjacke (f) --- Krawatte (f) -- Miitze (f) -- formelle --- Mantel (m)
 
 Heute ist es kalt. Die Temperatur ist erst 5 Grad Celsius. Ich trage einen
 
@@ -9337,6 +9299,7 @@ Page 8 of 8
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/All Stream/German/German Batch 2022-23 Re Exam0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 February 2023
 - Text: ocr (8 pages), mean OCR confidence 90.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 .
@@ -9522,7 +9485,6 @@ Das ist fir Sie. Trinkgeld 5 Euro. (5)
 Auf Wiedersehen! _
 - Alles zusammen oder getrennt?
 - Und hier ist das Restgeld 5 euro.
-- Vielen Dank! Auf Wiedersehen!
 - Wie schmeckt Ihnen das Essen?
 - Das macht 15 Euro.
 col d | Unjumble the words to get the names of some fruits and vegetables in German. | (5)
@@ -9551,7 +9513,6 @@ BL1 1] Living room
 4] Bedroom
 5] Balcony
 co2 c | Fillin the blanks with the following words: (5)
-BL3 (kocht -- Wohnung -- gemiitlich -- Verkauferin -- Wohngemeinschaft)
 In Deutschland wohnen viele junge Leute zusammen in der
 (1) : (WG). Claudia lebt mit zwei Freudinnen in einer
 (2) in Hannover. Das Appartement ist klein, aber
@@ -9756,7 +9717,6 @@ CO2 .\|d_ | Complete the dialogue with the help of the sentences given below: (5
 CcO3 °
 BL3 hin Doris Miller Herr Merkel
 Empfangsdame [Receptionist] [Patient]
-Praxis Dr. Bolivar. Doris Miller. Guten | (1)
 Morgen!
 Wie kann ich Ihnen helfen? (2)
 
@@ -9788,6 +9748,7 @@ Page 8 of 8
 - Programmes: B.TECH INTEGRATED
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/All Stream/German/German Batch 2022-23 Re Exam0002.pdf`
 - Text: ocr (9 pages), mean OCR confidence 91.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS :
@@ -9910,7 +9871,6 @@ Supermarkt. Ich kaufe (3) Biicher und Colas. (4) 12 Uhr
 komme ich nach Hause. Dann esse ich zu Mittag. (5) Nachmittag schlafe
 ich.
 co3 d_ | (i) Information about Germany: Fill in the blanks with the given words: (5)
-BL2 Wahrung — Sprache — Hauptstadt -- Europa
 1] Die offizielle von Deutschland ist Deutsch.
 2] Deustchland liegt in :
 3] Euro ist die von Deutschland.

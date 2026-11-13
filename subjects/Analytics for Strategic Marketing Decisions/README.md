@@ -16,23 +16,23 @@ Also filed as: `Analytics for Strategic Marketing Decision`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech AI 7051 | QP_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech DS 7052 | QP_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech AI 7051 | QP_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBA TECH | Analytics for strategic Marketing Decisions, , Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Analytics for Strategic Marketing Decisions(703TM0E006)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Analytics for Strategic Marketing Decisions(703TM0E006)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analytics for Strategic Marketing Decisions(703TM0E006)_2024-2025.pdf |
 | 2023-24 | — | Question paper | Sem 9 | MBA TECH | Analytics for Strategic Marketing Decsisions ,2023-24.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 9 | MBA TECH | Analytics for strategic Marketing,Re-exam 2022-23.pdf |
 | 2019-20 | — | Question paper | Sem 9 | MBA TECH | Analytics for Strategic Marketing Decisions 2019-20.pdf |

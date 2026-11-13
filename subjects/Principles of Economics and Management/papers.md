@@ -739,6 +739,7 @@ company’s performance.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CS_7055/Principles of Economics and Management/QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -857,6 +858,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Civil_7005/Principles of Economics and Management/QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -975,6 +977,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Mechanical_7003/Principles of Economics and Management/QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1093,6 +1096,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/MBATech_Computer_7047/Principles of Economics and Management/QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1523,6 +1527,7 @@ company’s performance.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/Integrated_Computer_7032/Principles of Economics and Management/QP_Principles of Economics and Management(702TG0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1641,6 +1646,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/Integrated_DS_7038/Principles of Economics and Management/QP_Principles of Economics and Management(702TG0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1759,6 +1765,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/Integrated_Mechanical_7031/Principles of Economics and Management/QP_Principles of Economics and Management(702TG0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1877,6 +1884,7 @@ FC QI a iar
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/PRINCIPLES OF ECONOMICS AND MANAGEMENT/Principles of Economics and Managment 2025-26 Final.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -1925,7 +1933,6 @@ Q3 . [20]
 Understand & Apply Critically discuss their relevance in analyzing consumer behavior.
 CO-2; b. | Discuss the Law of Diminishing Returns. Explain the various stages [10]
 of this law with the help of a table and diagram.
-. RRR RR KKK 1 OR RK KK KK
 4
 --- page 2 ---
 BL- Understand &
@@ -2863,6 +2870,7 @@ for reducing cost and achieving operational efficiency.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Computer_7002/Principles of Economics and Management/QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -3711,6 +3719,201 @@ complaints arrive from the market. Explain how controlling and quality control
 can help the company. Suggest a suitable control process for this case.
 
 FRR OR Rk
+````
+
+## 2024-25 · Exam not stated · Sem 4 · paper c6efcb83ce00
+
+- Departments: Artificial Intelligence, Civil, Computer Engineering, Cyber Security, Data Science, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/PRINCIPLES OF ECONOMICS AND MANAGEMENT/Principles of Economics and Management, Sem II, Batch 2021-2022-2023 & 2023-24.pdf` (+8 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/5/25
+- Text: ocr (2 pages), mean OCR confidence 88.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024 - 25
+
+Program: B. Tech IT, Comp Saas MECH, MXTC, CIVIL, DS, CSECS, Year: Ps 7202-23
+AIML, COMP Science, AIDS, CSE DS Semester: II, [V
+
+Subject: Principles of Economics and Management Time:3 hrs. (10 am to 4. pm)
+Date: 13/5/25 No. of Pages: 2
+
+Marks: 100
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Re- Examination (21-22 922-28, 23-24)
+
+Q.1. | Write Short Notes on:
+
+(a) | Law of Demand. 4 CO: 1&2 SO:1
+. ‘BL: Understand
+(b) | GDP ép |CO: 2   SO:4
+BL: Remember.
+(c) Marginal Cost. : dy | CO:2 S0:2
+BL:Understand.
+(d) | HRM & COB SO: 4
+- | BL: Analyse.
+(e) Strategic Management. a CO:3 SO: 3
+BL:Apply
+ont
+(a) Price elasticity of a product impacts the revenue of a business — lo CO: 1&2 S0O:2
+Explain the statement with reference to types of price elasticity. BL:Evaluate
+(b) | “Perfect Competition Market structure is prefect in all aspect” — to | CO:2 80:3
+What are the characteristics which the statement is referring to please BL:Analyse
+explain?
+OB
+(a) | Asa Central Banker the role of RBI is very crucial for India’s To | CO:1&2 SO: 4
+
+development what are the functions performed by RBI? BL:Apply
+
+Page 1 of 2
+--- page 2 ---
+(b) Cost-Push inflation is there in India, what are factors which causes €Oz2 SO:4
+
+the same in India? le BL: Analyse
+
+Q4.
+
+(a) Being in the Management of a Business What are the functions ) CO:3 ° SO:4
+expected from you? 10 | BL-Understand.
+
+(b) In Short run production function not all the resourses are variable , (CO SO: 3
+explain the statement with refernce to Law of diminishing Marginal }o BL:Analyse
+returns.
+
+O'S:
+
+(a) | Discuss and seven principles of management given by Henry Fayol \o CO: 3 SO: 4
+
+BL:Apply
+
+(b) | Asa General manager of the company what are the various steps \ CO33 S0:3
+which you would undertake to plan a process? 0 BL: Evaluate
+
+Q.6.
+
+(a) | Maslow’s theory of Hierarchy of needs — How is it practically CO3 SO: 3
+applicable in a company to motivate employees at different levels? * \o BL: Apply,
+
+(b) | As the operations head of the company what process would you CO:3 SO: 4
+follow of lo | BL:Understand
+
+Controlling of the operations in you company?
+
+P.T.O.
+
+Page 2 of 2
+````
+
+## 2024-25 · Exam not stated · Sem 7 · paper 542d88d2d0ad
+
+- Departments: Common (all branches), Information Technology
+- Programmes: B.TECH INTEGRATED, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/ALL STREAM/Sem_07/Principles of Economics and Management/Principles of Economics and Management Batch 2022-23,2023-24.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/02/ 2025
+- Text: ocr (2 pages), mean OCR confidence 86.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+: Academic Year: 2024-2025
+Program/s: B Tech/MBA Tech/B Tech (Int.) : Year: IV/TV Semester: III/VII
+Stream/s: IT/CE
+
+Subject: Principles of Economics and Management (PEM) Time: 3 Hrs (10 am to 1 pm)
+Date:24/02/ 2025 : - No. of Pages: 02
+Marks: 100
+
+: Re-Examination (2022-23 & 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+oe Write a Short Note.on: : [20]
+CO- 1; BL- a. :
+egeecand Business Cycle [5]
+CO-1; BL- Apply b. | Iso Quant Curve [5].
+CO- 3; BL- Analyze ° | Line Organizational Structure [5]
+CO-3; BL- d. ; ' : :
+t
+Tides cand Financial Managemeni [5]
+Q2 [20]
+CO-1 a. | In a fully competitive market, how can a company make losses and |.
+super-normal profits in the near term? Discuss in brief with suitable
+BL- Apply & : 3 [10]
+examples and diagram
+Analyse
+b. | In what way might a Production Possibilities Frontier/Curve depict
+CO- 1; BL- economic growth? Enumerate the various factors that can lead to [10]
+
+Understand and Apply economic expansion.
+--- page 2 ---
+~ [20]
+
+a. | The prolonged pandemic is making it challenging for the government to
+
+CO-1; BL- collect enough tax money to cover its expenses. Making or printing
+Understand & extra money is one of the options offered. What are this option's | [10]
+Analyze advantages and disadvantages? Could it lead to inflation?
+
+CO-1 & 2; © b.. |-What circumstances resulted in the Indian Government's Policy shift in
+
+BL- Remember Apply the 1990s from a closed, socialist, heavily regulated economy to an |’
+
+open, deregulated economy? Why, in your opinion, did it cause the GDP | [10]
+to increase quickly?
+
+Q4 : [20]
+CO- 1&2: BL- a. | What do you mean by the Law of Diminishing Marginal Utility? Discuss
+nig Ss Marginal and Total Utility about the Law of Diminishing Marginal | [10]
+3 Utility.
+CO-3: BL- b. | Examine the role of a manager and its associated functions with
+_| Understand & Apply eeeuiples [10]
+Q5 [20]
+CO-2 & 3: BL- a. | Why is planning seen as a fundamental managerial role, and what does
+2 the planning process entail? [10]
+Apply and Analyze i
+Cosby b. | Write a Note on Human Resource Management in an organization and
+BL- Understand & its merits : [10]
+Apply
+Q6 [20]
+CO-3: a. | Explain the management function “controlling” and discuss any two
+BE- nee : controlling techniques in brief. [10]
+
+CO-3; BL- Remember b. | Discuss Herzberg’s Two-factor ae of Motivation and its application
+
+an ely in contemporary times. ; [10]
+Q7 [20]
+5 ee = a ee be i of the Elasticity of Demand concept in the real world [10]
+Analyze ” f
+
+CO- 3; BL- b. | Discuss the Scientific Approach to ea and its relevance in the
+
+Understand & Apply growth of a firm. Be
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper 949d1269eb8e
@@ -5807,126 +6010,32 @@ all:
 
 ````
 
-## 2023-24 · Exam not stated · Sem 4 · paper c6efcb83ce00
+## 2023-24 · Final + Re-Exam · Sem 2 · paper 2799a0472327
 
-- Departments: Artificial Intelligence, Civil, Computer Engineering, Cyber Security, Data Science, Information Technology, Mechanical, Mechatronics
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/PRINCIPLES OF ECONOMICS AND MANAGEMENT/Principles of Economics and Management, Sem II, Batch 2021-2022-2023 & 2023-24.pdf` (+8 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/5/25
-- Text: ocr (2 pages), mean OCR confidence 88.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024 - 25
-
-Program: B. Tech IT, Comp Saas MECH, MXTC, CIVIL, DS, CSECS, Year: Ps 7202-23
-AIML, COMP Science, AIDS, CSE DS Semester: II, [V
-
-Subject: Principles of Economics and Management Time:3 hrs. (10 am to 4. pm)
-Date: 13/5/25 No. of Pages: 2
-
-Marks: 100
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Re- Examination (21-22 922-28, 23-24)
-
-Q.1. | Write Short Notes on:
-
-(a) | Law of Demand. 4 CO: 1&2 SO:1
-. ‘BL: Understand
-(b) | GDP ép |CO: 2   SO:4
-BL: Remember.
-(c) Marginal Cost. : dy | CO:2 S0:2
-BL:Understand.
-(d) | HRM & COB SO: 4
-- | BL: Analyse.
-(e) Strategic Management. a CO:3 SO: 3
-BL:Apply
-ont
-(a) Price elasticity of a product impacts the revenue of a business — lo CO: 1&2 S0O:2
-Explain the statement with reference to types of price elasticity. BL:Evaluate
-(b) | “Perfect Competition Market structure is prefect in all aspect” — to | CO:2 80:3
-What are the characteristics which the statement is referring to please BL:Analyse
-explain?
-OB
-(a) | Asa Central Banker the role of RBI is very crucial for India’s To | CO:1&2 SO: 4
-
-development what are the functions performed by RBI? BL:Apply
-
-Page 1 of 2
---- page 2 ---
-(b) Cost-Push inflation is there in India, what are factors which causes €Oz2 SO:4
-
-the same in India? le BL: Analyse
-
-Q4.
-
-(a) Being in the Management of a Business What are the functions ) CO:3 ° SO:4
-expected from you? 10 | BL-Understand.
-
-(b) In Short run production function not all the resourses are variable , (CO SO: 3
-explain the statement with refernce to Law of diminishing Marginal }o BL:Analyse
-returns.
-
-O'S:
-
-(a) | Discuss and seven principles of management given by Henry Fayol \o CO: 3 SO: 4
-
-BL:Apply
-
-(b) | Asa General manager of the company what are the various steps \ CO33 S0:3
-which you would undertake to plan a process? 0 BL: Evaluate
-
-Q.6.
-
-(a) | Maslow’s theory of Hierarchy of needs — How is it practically CO3 SO: 3
-applicable in a company to motivate employees at different levels? * \o BL: Apply,
-
-(b) | As the operations head of the company what process would you CO:3 SO: 4
-follow of lo | BL:Understand
-
-Controlling of the operations in you company?
-
-P.T.O.
-
-Page 2 of 2
-````
-
-## 2023-24 · Exam not stated · Sem 7 · paper 542d88d2d0ad
-
-- Departments: Common (all branches), Information Technology
-- Programmes: B.TECH INTEGRATED, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/ALL STREAM/Sem_07/Principles of Economics and Management/Principles of Economics and Management Batch 2022-23,2023-24.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/02/ 2025
-- Text: ocr (2 pages), mean OCR confidence 86.8
+- Departments: Artificial Intelligence, Civil, Common (all branches), Computer Engineering, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED, B.TECH INTEGRATED / IT, MBA TECH, MBA TECH / COMPUTER, MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/Principles of Economics and Managment, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf` (+17 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 86.3
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-: Academic Year: 2024-2025
-Program/s: B Tech/MBA Tech/B Tech (Int.) : Year: IV/TV Semester: III/VII
-Stream/s: IT/CE
 
-Subject: Principles of Economics and Management (PEM) Time: 3 Hrs (10 am to 1 pm)
-Date:24/02/ 2025 : - No. of Pages: 02
+Academic Year: 2023-2024 . :
+Program/s: B Tech/MBA Tech/B Tech (Int.) Year: I/II/II/IV ~~
+Stream/s: DS/CE/CS/CSE-CS/ IT/Mech./AI/Civil/EXTC/ MXTC/ Semester: II/LV/VI/VIII
+AIML/AIDS/CSE-DS
+Subject: Principles of Economics and Management (PEM) Time: 3 Hrs (2 pm to 5 pm)
+Date:_22/04/ 2024 No. of Pages: 02
+
 Marks: 100
+Final Examination/Re-examination (2021-22/202
 
-: Re-Examination (2022-23 & 2023-24)
+Instructions: Candidates should read carefully the instructions printed on the questi
+of the Answer Book, which is provided for their use. NY
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
+1) Question No. | is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -5939,67 +6048,211 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-oe Write a Short Note.on: : [20]
-CO- 1; BL- a. :
-egeecand Business Cycle [5]
-CO-1; BL- Apply b. | Iso Quant Curve [5].
-CO- 3; BL- Analyze ° | Line Organizational Structure [5]
-CO-3; BL- d. ; ' : :
-t
-Tides cand Financial Managemeni [5]
+Ql
+
+Write a Short Note on: [20]
+CO- 1&2; BL- a.
+
+3 : 5
+Understand Phases of Business Cycle [5]
+CO-3; BL- ,
+
+; . : Maslow’s Motivation Model [5]
+Comprehension
+CO- 1; BL- c.
+
+‘ ies of Iso- 5
+Bnowledgs Properties of Iso-quant Curve [5]
+CO- 2&3; BL- d. . -
+Understand Marketing Management [5]
 Q2 [20]
-CO-1 a. | In a fully competitive market, how can a company make losses and |.
-super-normal profits in the near term? Discuss in brief with suitable
-BL- Apply & : 3 [10]
-examples and diagram
-Analyse
-b. | In what way might a Production Possibilities Frontier/Curve depict
-CO- 1; BL- economic growth? Enumerate the various factors that can lead to [10]
+CO-i a . .
 
-Understand and Apply economic expansion.
---- page 2 ---
-~ [20]
+BL- Understand and What do you ae by tie Law of demand? Explain the price elasticity [10] LS
+of demand and its role in the growth of business.
 
-a. | The prolonged pandemic is making it challenging for the government to
-
-CO-1; BL- collect enough tax money to cover its expenses. Making or printing
-Understand & extra money is one of the options offered. What are this option's | [10]
-Analyze advantages and disadvantages? Could it lead to inflation?
-
-CO-1 & 2; © b.. |-What circumstances resulted in the Indian Government's Policy shift in
-
-BL- Remember Apply the 1990s from a closed, socialist, heavily regulated economy to an |’
-
-open, deregulated economy? Why, in your opinion, did it cause the GDP | [10]
-to increase quickly?
-
-Q4 : [20]
-CO- 1&2: BL- a. | What do you mean by the Law of Diminishing Marginal Utility? Discuss
-nig Ss Marginal and Total Utility about the Law of Diminishing Marginal | [10]
-3 Utility.
-CO-3: BL- b. | Examine the role of a manager and its associated functions with
-_| Understand & Apply eeeuiples [10]
-Q5 [20]
-CO-2 & 3: BL- a. | Why is planning seen as a fundamental managerial role, and what does
-2 the planning process entail? [10]
-Apply and Analyze i
-Cosby b. | Write a Note on Human Resource Management in an organization and
-BL- Understand & its merits : [10]
 Apply
-Q6 [20]
-CO-3: a. | Explain the management function “controlling” and discuss any two
-BE- nee : controlling techniques in brief. [10]
 
-CO-3; BL- Remember b. | Discuss Herzberg’s Two-factor ae of Motivation and its application
+CO- 1: BL b. | Economies constantly struggle to reach an optimal production
 
-an ely in contemporary times. ; [10]
-Q7 [20]
-5 ee = a ee be i of the Elasticity of Demand concept in the real world [10]
-Analyze ” f
+: capacity. Scarcity always forces an economy to forgo some choice in
+Understand and : . : [10]
+Analyze favor of another. Explain the above statement with the Production
 
-CO- 3; BL- b. | Discuss the Scientific Approach to ea and its relevance in the
+Possibility curve.
+--- page 2 ---
+Q3 ,
 
-Understand & Apply growth of a firm. Be
+[20]
+CO-1&2; BL- ; . . nye #
+Understand & . Define matin income. Distinguish between monopoly and perfectly [10]
+competitive market structure.
+Evaluate ‘
+CO-1&2; b. | Explain various types of inflation and causes responsible for inflation in [10]
+BL- Apply our economy.
+Q4 [20]
+CO- 1&2: BL a. | How does the concept of the Law of Diminishing Marginal Utility help
+- a explain why you might enjoy the first few bites of each snack more than
+Understand & . ; [10]
+subsequent ones when you are at a party with a buffet of snacks: chips,
+Analyze °
+popcorn, and cookies?
+CO-1&2: BL b. | Discuss the role of the Central Bank (RBI) in maintaining economic
+~ > - ope + . . . . h
+Understand stability in India, particularly in light of recent challenges faced by our | [10]
+economy.
+5
+7 (20)
+CO- 1; BL- a. | “Cost is an important component of every company in the short-run as
+Understand and well as in the long-run”. Explain the relationship between various | [10]
+Analyze components of Total Cost and Average Cost with relevant examples.
+CO0-2&3: b. | Evaluate the effectiveness of Human Resource Management (HRM) in
+a > . . . . . . . ” t ]
+BL- Evaluate any organization with the consideration of its impact on employees, and | [10]
+the organization.
+6
+° (20)
+CO-3; a. | “Organizing function is one of the most important functions of [101
+BL- Apply management”. Elaborate the statement with a suitable example. i
+CO-2&3; BL- b. .. . _ .
+“Decision-making is the core activity of the manager”. However, what barriers _
+Remember and . : .. . [10]
+do managers face in the process of effective decision-making?
+Evaluate
+7
+z [20]
+CO-2&3; BL- a. | Describe in detail the procedures involved in planning within a structured [10]
+Understand business.
+CO- 2&3: BL- Apply b. | Explain waniotis functions of management and their relevance in the [10]
+current business scenario.
+````
+
+## 2023-24 · Final + Re-Exam · Sem 3 · paper bb6e42d7e0e0
+
+- Departments: Artificial Intelligence, Civil, Computer Engineering, Cyber Security, Information Technology, Mechanical
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/PRINCIPLES OF ECONOMICS & MANAGEMENT/Principles of Economics & Management(PEM), Sem-III, Final Exam & Re Exam 2021-22 & 2022-23.pdf` (+5 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2023
+- Text: ocr (2 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024
+
+er
+
+Program/s: B Tech/MBA Tech/B Tech (Int.) Year: II/IV Semester: III/VII
+Stream/s: CE/CS/CSE Cyber sec./IT/Mech./AI/Civil
+
+Subject: Principles of Economics and Management (PEM) Time: 3 Hrs (10 am to | pm)
+Date: 30/11/2023 :
+
+Marks: 100
+
+No. of Pages: 02
+
+Final Examination/Re-examination (202 1-22/2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+i) Question No. i is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks,
+7) Assume suitable data if necessary.
+
+uF Write a Short Note on: [20]
+CO- 1&2; BL- 2. | Globalization as a Catalyst for International Peace [5]
+Understand
+
+CO-3 ; BL- b. Inventory Control for Business Growth [5]
+Comprehension
+
+CO- 1; BL-Remember | ©. | Average Fixed Cost & Total Variable Cost [5]
+CO- 3; BL- Analyze d. | Advantages of Delegation of Authorities : re [5]
+Q2 [20]
+CO-l a. | How the price is determined in a market by demand and supply forces?
+
+BL- Understand & ie [10]
+
+Explain with suitable examples.
+
+Apply
+
+CO-1&2; BL- b. | “Demand-pull inflation and cost-push inflation are two major threats to
+Understand and any economy.” Elaborate the statement and determine the factors leads [10]
+Analyze to both types of inflation.
+
+= (20)
+CO-1; BL- a.
+
+What do you mean by change in quantity demanded? How Price
+Knowledge & ., ' weicdstinn [10]
+‘Anal elasticity of demand helps businesspersons in pricing a product.
+
+nalyze
+--- page 2 ---
+é
+;
+
+CO-1&2; b. | Define GDP and GNP. What happen to an economy if they fail in
+
+BL- Evaluate calculating national income in appropriate manner? Discuss with [10]
+
+suitable example.
+
+Q4 [20]
+
+CO- 3; BL- a. | Explain with a suitable example how various management functions are
+
+Understand & : [10]
+organically related to the process of management.
+
+Analyze
+
+CO-1&2: BL- b. | Explain various functions and objectives of Reserve Bank of India,
+
+, : 10
+Understand & Apply which helps in our economic growth. (10)
+5 (20):
+
+a. | Describe the various levels at which management works and how an
+CO- 3; BL- organization ensure the integration of strategies at various level of | [10]
+Understand and Apply : rele ‘ sat
+
+: management for smooth coordination and achievement of objectives.
+CO-1&2; b. | What are the objectives and tools of Monetary Policy? How it helps in
+Analyze Bins nom.
+6
+7 (20)
+CO-3: a. | Discuss about implications of scientific approach and administrative
+BL- Apply approach in modern management era with suitable examples in brief. na]
+CO- 1, BL- bs Explain the Law of Returns and Return to Scale with suitable examples. | [10]
+Remember and Apply z
+7
+
+° (20)
+
+a. | Henry Fayol has said that, “Everything, which goes to increase the
+CO-3: BL- importance of subordinate role is decentralization, everything that goes
+Understand and to reduce it is centralization”. Illustrate the statement with explaining the | [10]
+Analyze differences between centralisation and decentralization and explain how
+
+to strike a balance between both?
+
+b.
+CO- 2&3: BL- Identify functional areas of Financial Manager and Marketing Manager
+Understand & Apply for organizational growth and development. el
 ````
 
 ## 2023-24 · Final + Re-Exam · Sem 7 · paper 6a790e936503
@@ -6120,6 +6373,122 @@ CO- 2&3; BL- Identify functional areas of Financial Manager and Marketing Manage
 Understand & Apply for organizational growth and development.
 ````
 
+## 2023-24 · Re-Exam · Sem 2 · paper 561cdb114a05
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/Principle of Economics & Mgmt, Re-exam 2021-22,2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+—— +
+
+RQ
+
+SVKM’S NMIMS
+
+Academic Year: 2023-2024
+
+Program/s: B Tech/MBA Tech/B Tech (Int.) Year: VIVUIV™.
+
+Stream/s: DS/CE/CS/CSE-CS/ IT/Mech./AI/Civil/EXTC/ MXTC/ Semester: II/IV/VI/VIUE
+AIML/AIDS/CSE-DS Tes 7
+
+Subject: Principles of Economics and Management (PEM) Time: 3 Hrs (2 pm to 5 pm)
+
+Date: 2 we 24 No. of Pages: 02
+
+Marks: 100
+
+'__ Re-examination (2021-22/2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1
+
+Q Write a Short Note on: [20]
+CO- 1&2; BL- a. '
+Understand Effect of Inflation on the Economy [5]
+CO-2&3; BL- b. Lo. ' ‘ .
+
+a Objectives of Financial Management for a Business [5]
+Comprehension
+CO-1;BL- Analyze | | Relation between Average Cost and Marginal Cost [5]
+CO- 3; BL- d.
+
+5 *oatt ]
+Understand Organizational Structure [5]
+Q2 [20]
+CO-1 a. | “The fundamental idea of economics is making decisions in the face of
+BL- Appl shortage or scarcity of resources.” Examine this statement in the context | [10]
+
+PPIY of the Production possibility curve.
+
+CO- 1&2; BL- b. | What do you mean by business cycle? Illustrate the importance of
+Understand and national income data for developing economiessto-become developed [10]
+Analyze economies. ;
+--- page 2 ---
+Q3
+
+ao [20]
+a. | “Law of Demand explains the direction of change in demand and Price
+CO-1; BL- variable but Price Elasticity of Demand exhibits the degree of change
+Understand & in demand due to change in price variable”. Comment on this [10]
+Analyze statement and explain the types of Price Elasticity of Demand with the
+help of a diagram.
+CO-1; b. | Explain the situations of super normal profit and loss-making under a
+ws . . [10]
+BL- Apply perfectly competitive market structure with the help of a diagram.
+Q4 [20]
+CO- 1&2; BL- : . . . :
+> a Why did the Government of India adopt economic reforms in 1991?
+Understand & . —_ . [10]
+Explain about reforms initiated under the LPG policy of 1991.
+Analyze
+CO-3; BL- b. , a
+; Why a good business leader is important for the success of an
+Understand & mes . : [10]
+organization? Measure the functions performed by the business leader.
+Evaluate
+5
+° [20]
+CO- 1; BL- a. | Define Production Function. Illustrate various stages of the Law of
+Understand and Variable Proportions under production analysis. As a rational producer, | [10]
+Analyze which stage is optimal to produce?
+CO-2&3; b. | Every problem and the decision taken to tackle the same remains unique,
+BL- Understand & However, every manager does follow some common Techniques of Decision | [10]
+Analyze Making” — Elaborate in detail on the above statement.
+6
+Q [20]
+CO-3; a. | What are the skills required by the manager for their effective functioning? [10]
+BL- Analyze How do these skills vary in different levels of management? :
+CO-3; BL- Remember | b. “Functions of the management remain to be universal, irrespective of the level [10]
+and Evaluate of the management” Justify the statement in detail with examples.
+7
+Q [20]
+CO-3; BL- a. | What do you mean by inventory? Why inventory control is important
+Understand and for a business with demand fluctuations? Explain your reasoning. [10]
+Analyze
+CO-2&3; BL- Apply b. | How do policies like monetary policy and fiscal policy work in [10]
+
+recovering an economy? Highlight the objectives. of both policies.
+````
+
 ## 2023-24 · Re-Exam · Sem 2 · paper b3a85113c0fe
 
 - Departments: Common (all branches)
@@ -6222,6 +6591,110 @@ Analyze
 CO- 2&3; BL- Apply b. | How do policies like monetary policy and fiscal policy work in [10]
 
 recovering an economy? Highlight the objectives of both policies. .
+````
+
+## 2023-24 · Re-Exam · Sem 3 · paper 22ed1ed58c86
+
+- Departments: Artificial Intelligence, Civil, Computer Engineering, Cyber Security, Information Technology, Mechanical
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / MECHANICAL, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/PRINCIPLES OF ECONOMICS & MANAGEMENT/Principles of Eco & Mgmt , Re-exam 2021-22,23,24.pdf` (+13 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+\Z|o2\24 = \o'WwaAan
+
+SVKM’S NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+Program/s: B Tech/MBA Tech/B Tech (Int.)
+Stream/s: CE/CS/CSE Cyber sec./IT/Mech./AI/Civil
+
+Subject: Principles of Economics and Management (PEM)
+
+Date: 43/o2]202y Nosof Pages: 02
+
+Marks: 100 . “Se
+Re-examination (2021-22/2022-23) (2023- 24) -
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+-~ 1) Question No. 1 is compulsory.
+
+y
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. .
+
+Qi Write a Short Note on: [20]
+COs 1482) Bie . Stabilization Policies of the Government at Macroeconomic Level [5]
+Understand :
+
+CO-3 ; BL- b. | Purpose of classifying inventories into groups-as the ABC classification [5]
+Comprehension does. :
+
+CO- 1; BL-Remember | c. | Marginal Cost & Average Cost . [5]
+CO- 3; BL- Analyze | d. | Types of Leadership Styles [5]
+Q2 : [20]
+CO-1 a. | Define Production Possibility Curve. How will PPC help an economy to | __
+BL- Analyze grow in a better way? Explain with a suitable example and diagram. [10]
+CO- 1&2; BL- b. | Identify the problems faced by the Government of India in calculating [10]
+Understand and Apply the national income of the country.
+
+°° (20)
+CO-1; BL- a. Write a note on monopolistic market structure. Demonstrate the [10]
+Understand & Apply features of monopoly market with suitable examples.
+
+CO-1&2; b. | Elaborate on the different types of unemployment faced in India. Give
+
+BL- Evaluate your comment on possible reasons for not solving the problem of | [10]
+
+unemployment in Indian context so far.
+--- page 2 ---
+Q4 pe [20]
+
+CO- 2&3; BL- a How do you support the view that management must be defined in terms
+Understand & : aa a [10]
+of effectiveness, coordination of resources, and objectives?
+Analyze ;
+b. | Reserve bank of India has proved its mettle by discharging its functions
+CO-1&2; BL- ; seamlessly and contributing to the growth of the economy. Argue with [10]
+Understand & Apply various substantive issues RBI dealt with in the backdrop its functions
+and their impact.
+es (20)
+a. | “A good manager is known for better decision-making”. Explain this
+CO- 263; BL- statement highlighting various decisional roles of a manager in the | [10]
+Understand and Apply or — ‘ 8
+organization.
+GO-12) % What are the objectives and tools of fiscal policy? Critically discuss the
+BL- Understand & = : ‘ [10]
+concept of fiscal deficit and various tools of fiscal policy.
+Analyze
+6
+. [20]
+CO-3; a. | Demonstrate the role played by scientific approach and administrative [10]
+BL- Apply | approach in better management and target achievement.
+b. | Identify functional areas of business management and how do they
+CO-2&3; BL- function, coordinate and complement each other with a view to [10]
+Remember and Apply maximize total revenue, minimize cost and achieve reasonable level of
+profit to grow further and contribute to the society.
+7
+Q . ‘ [20]
+CO-1; BL- a. | Explain the Law of Diminishing Return and its stages. State why the law [10]
+Understand and Apply applies mostly to agriculture and allied industries. |
+b.
+CO- 1&2; BL- Apply Explain how Maslow’s Theory of motivation can be helpful in achieving [10]
+
+greater success in life.
 ````
 
 ## 2023-24 · Re-Exam · Sem 3 · paper 9f876abc588e
@@ -6356,32 +6829,33 @@ Understand the importance of this role with a suitable example. [10]
 
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 2 · paper 2799a0472327
+## 2022-23 · Exam not stated · Sem 2 · paper 0b644db2dd96
 
-- Departments: Artificial Intelligence, Civil, Common (all branches), Computer Engineering, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
-- Programmes: B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED, B.TECH INTEGRATED / IT, MBA TECH, MBA TECH / COMPUTER, MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/Principles of Economics and Managment, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf` (+17 identical copies)
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/PRINCIPLE OF ECONOMICS AND MANAGEMENT/Principles of economics and Management (PEM).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 86.3
+- Text: ocr (2 pages), mean OCR confidence 91.8
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
 
-Academic Year: 2023-2024 . :
-Program/s: B Tech/MBA Tech/B Tech (Int.) Year: I/II/II/IV ~~
-Stream/s: DS/CE/CS/CSE-CS/ IT/Mech./AI/Civil/EXTC/ MXTC/ Semester: II/LV/VI/VIII
-AIML/AIDS/CSE-DS
-Subject: Principles of Economics and Management (PEM) Time: 3 Hrs (2 pm to 5 pm)
-Date:_22/04/ 2024 No. of Pages: 02
+Program/s: B Tech/MBA Tech Year: I Semester: II
+Stream/s: AI/DS/IT/AIML/AIDS/CSDS/Cyber Sec./EXTC/Mechatronics
+
+Subject: Principles of Economics and Management (PEM) Time: 3 Hrs (14:00 am to 2: oopm)
+Date: 17 Jos ]2023 No. of Pages: 02
 
 Marks: 100
-Final Examination/Re-examination (2021-22/202
 
-Instructions: Candidates should read carefully the instructions printed on the questi
-of the Answer Book, which is provided for their use. NY
+Final Examination
 
-1) Question No. | is compulsory.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -6394,211 +6868,69 @@ of the Answer Book, which is provided for their use. NY
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-Ql
+Qi Write a Short Note on: [20]
+CO- 1; BL- Understand | 3 Monopoly and Oligopoly [5]
+CO-3 ; BL- Analyze b. Why delegation is important in business organization [5]
+CO- 3; BL-Apply c. Controlling is blind without Planning (5]
+CO- 1; BL- Remember d. Law of Diminishing Returns [5]
+Q2z [20]
 
-Write a Short Note on: [20]
-CO- 1&2; BL- a.
+a. Explain market equilibrium of demand and supply? Discuss about
+co-1 the effect of shift in demand and supply curve with the help of
 
-3 : 5
-Understand Phases of Business Cycle [5]
-CO-3; BL- ,
+; [10]
 
-; . : Maslow’s Motivation Model [5]
-Comprehension
-CO- 1; BL- c.
+BL- Analyze diagram?
+CO- 1; BL- Understand | b. What do you mean by Producer’s equilibrium? Demonstrate various [10]
+and Apply characteristics of Iso-quant curves with suitable example.
+° [20]
+CO-1; BL- Understand & | a. What are the central problems of an economy? Mention the causes [10]
+Analyze and list of economic problems?
+CO-1&2; b. Finance Minister is the head of fiscal policies in India, what
+BL- Evaluate instruments does the Finance Minister has to make fiscal policy | [10]
 
-‘ ies of Iso- 5
-Bnowledgs Properties of Iso-quant Curve [5]
-CO- 2&3; BL- d. . -
-Understand Marketing Management [5]
-Q2 [20]
-CO-i a . .
-
-BL- Understand and What do you ae by tie Law of demand? Explain the price elasticity [10] LS
-of demand and its role in the growth of business.
-
-Apply
-
-CO- 1: BL b. | Economies constantly struggle to reach an optimal production
-
-: capacity. Scarcity always forces an economy to forgo some choice in
-Understand and : . : [10]
-Analyze favor of another. Explain the above statement with the Production
-
-Possibility curve.
+changes in the country.
 --- page 2 ---
-Q3 ,
-
-[20]
-CO-1&2; BL- ; . . nye #
-Understand & . Define matin income. Distinguish between monopoly and perfectly [10]
-competitive market structure.
-Evaluate ‘
-CO-1&2; b. | Explain various types of inflation and causes responsible for inflation in [10]
-BL- Apply our economy.
-Q4 [20]
-CO- 1&2: BL a. | How does the concept of the Law of Diminishing Marginal Utility help
-- a explain why you might enjoy the first few bites of each snack more than
-Understand & . ; [10]
-subsequent ones when you are at a party with a buffet of snacks: chips,
-Analyze °
-popcorn, and cookies?
-CO-1&2: BL b. | Discuss the role of the Central Bank (RBI) in maintaining economic
-~ > - ope + . . . . h
-Understand stability in India, particularly in light of recent challenges faced by our | [10]
-economy.
-5
-7 (20)
-CO- 1; BL- a. | “Cost is an important component of every company in the short-run as
-Understand and well as in the long-run”. Explain the relationship between various | [10]
-Analyze components of Total Cost and Average Cost with relevant examples.
-CO0-2&3: b. | Evaluate the effectiveness of Human Resource Management (HRM) in
-a > . . . . . . . ” t ]
-BL- Evaluate any organization with the consideration of its impact on employees, and | [10]
-the organization.
-6
-° (20)
-CO-3; a. | “Organizing function is one of the most important functions of [101
-BL- Apply management”. Elaborate the statement with a suitable example. i
-CO-2&3; BL- b. .. . _ .
-“Decision-making is the core activity of the manager”. However, what barriers _
-Remember and . : .. . [10]
-do managers face in the process of effective decision-making?
-Evaluate
-7
-z [20]
-CO-2&3; BL- a. | Describe in detail the procedures involved in planning within a structured [10]
-Understand business.
-CO- 2&3: BL- Apply b. | Explain waniotis functions of management and their relevance in the [10]
-current business scenario.
-````
-
-## 2022-23 · Final + Re-Exam · Sem 3 · paper bb6e42d7e0e0
-
-- Departments: Artificial Intelligence, Civil, Computer Engineering, Cyber Security, Information Technology, Mechanical
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/PRINCIPLES OF ECONOMICS & MANAGEMENT/Principles of Economics & Management(PEM), Sem-III, Final Exam & Re Exam 2021-22 & 2022-23.pdf` (+5 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2023
-- Text: ocr (2 pages), mean OCR confidence 88.5
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2023-2024
-
-er
-
-Program/s: B Tech/MBA Tech/B Tech (Int.) Year: II/IV Semester: III/VII
-Stream/s: CE/CS/CSE Cyber sec./IT/Mech./AI/Civil
-
-Subject: Principles of Economics and Management (PEM) Time: 3 Hrs (10 am to | pm)
-Date: 30/11/2023 :
-
-Marks: 100
-
-No. of Pages: 02
-
-Final Examination/Re-examination (202 1-22/2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-i) Question No. i is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks,
-7) Assume suitable data if necessary.
-
-uF Write a Short Note on: [20]
-CO- 1&2; BL- 2. | Globalization as a Catalyst for International Peace [5]
-Understand
-
-CO-3 ; BL- b. Inventory Control for Business Growth [5]
-Comprehension
-
-CO- 1; BL-Remember | ©. | Average Fixed Cost & Total Variable Cost [5]
-CO- 3; BL- Analyze d. | Advantages of Delegation of Authorities : re [5]
-Q2 [20]
-CO-l a. | How the price is determined in a market by demand and supply forces?
-
-BL- Understand & ie [10]
-
-Explain with suitable examples.
-
-Apply
-
-CO-1&2; BL- b. | “Demand-pull inflation and cost-push inflation are two major threats to
-Understand and any economy.” Elaborate the statement and determine the factors leads [10]
-Analyze to both types of inflation.
-
-= (20)
-CO-1; BL- a.
-
-What do you mean by change in quantity demanded? How Price
-Knowledge & ., ' weicdstinn [10]
-‘Anal elasticity of demand helps businesspersons in pricing a product.
-
-nalyze
---- page 2 ---
-é
-;
-
-CO-1&2; b. | Define GDP and GNP. What happen to an economy if they fail in
-
-BL- Evaluate calculating national income in appropriate manner? Discuss with [10]
-
-suitable example.
-
 Q4 [20]
 
-CO- 3; BL- a. | Explain with a suitable example how various management functions are
+Discuss the key elements of Administrative Management Theory by
 
-Understand & : [10]
-organically related to the process of management.
+CO- 3; BL- Understand | * ie
+neers Henry Fayol. Also establish ongoing impact of Henry Fayol’s [10]
 
-Analyze
+& Apply Administrative Management Theory.
+CO-1&2; BL- b. What are the tools available in the hands of the RBI to bring about [10]
+Understand & Analyze Monetary Policy changes in the economy?
+ae (20)
+CO- 3; BL- Understand j a. What are Line and Staff Authority in an organization? Summarize [10]
+and Evaluate the significance of Line and Staff Authority with relevant examples.
 
-CO-1&2: BL- b. | Explain various functions and objectives of Reserve Bank of India,
+CO-1; b.
 
-, : 10
-Understand & Apply which helps in our economic growth. (10)
-5 (20):
+BL- Understand & Define Market Economy and illustrate the Role of Government in a [10]
 
-a. | Describe the various levels at which management works and how an
-CO- 3; BL- organization ensure the integration of strategies at various level of | [10]
-Understand and Apply : rele ‘ sat
-
-: management for smooth coordination and achievement of objectives.
-CO-1&2; b. | What are the objectives and tools of Monetary Policy? How it helps in
-BL- Understand & sianiiine auréconamy? [10]
-Analyze Bins nom.
+Market Economy with suitable example.
+Apply
 6
-7 (20)
-CO-3: a. | Discuss about implications of scientific approach and administrative
-BL- Apply approach in modern management era with suitable examples in brief. na]
-CO- 1, BL- bs Explain the Law of Returns and Return to Scale with suitable examples. | [10]
-Remember and Apply z
+
+2 [20]
+CO-3; a. Explain Maslow's Theory of Motivation and demonstrate its [10]
+BL- Apply usefulness current context ?
+
+CO- 1&2; BL- b. How does inflation affect the earning power or the value of salary | 1 q)
+Understand and Evaluate for a salaried person in particular in Indian context?
+
 7
 
-° (20)
+8 [20]
 
-a. | Henry Fayol has said that, “Everything, which goes to increase the
-CO-3: BL- importance of subordinate role is decentralization, everything that goes
-Understand and to reduce it is centralization”. Illustrate the statement with explaining the | [10]
-Analyze differences between centralisation and decentralization and explain how
+CO-2&3; BL- a. What is Planning? Write steps used in Planning functions and [10]
+Understand and Apply explain the advantages of Planning for a business organization..
 
-to strike a balance between both?
+b. Mention any two Characteristics of Controlling with suitable
+CO- 3; BL- Understand example. Explain briefly any two traditional techniques of [10]
 
-b.
-CO- 2&3: BL- Identify functional areas of Financial Manager and Marketing Manager
-Understand & Apply for organizational growth and development. el
+& Analyze Controlling.
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 3 · paper b496ff4c13ef
@@ -6967,122 +7299,6 @@ CO- 1&2: BL. b. Discuss about Keynes Theory of Demand for Money. Explain about
 Un derstan d & Apply existence of Liquidity Traps and ineffectiveness of monetary policy in [10]
 
 any economy.
-````
-
-## 2022-23 · Re-Exam · Sem 2 · paper 561cdb114a05
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/Principle of Economics & Mgmt, Re-exam 2021-22,2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-—— +
-
-RQ
-
-SVKM’S NMIMS
-
-Academic Year: 2023-2024
-
-Program/s: B Tech/MBA Tech/B Tech (Int.) Year: VIVUIV™.
-
-Stream/s: DS/CE/CS/CSE-CS/ IT/Mech./AI/Civil/EXTC/ MXTC/ Semester: II/IV/VI/VIUE
-AIML/AIDS/CSE-DS Tes 7
-
-Subject: Principles of Economics and Management (PEM) Time: 3 Hrs (2 pm to 5 pm)
-
-Date: 2 we 24 No. of Pages: 02
-
-Marks: 100
-
-'__ Re-examination (2021-22/2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-1
-
-Q Write a Short Note on: [20]
-CO- 1&2; BL- a. '
-Understand Effect of Inflation on the Economy [5]
-CO-2&3; BL- b. Lo. ' ‘ .
-
-a Objectives of Financial Management for a Business [5]
-Comprehension
-CO-1;BL- Analyze | | Relation between Average Cost and Marginal Cost [5]
-CO- 3; BL- d.
-
-5 *oatt ]
-Understand Organizational Structure [5]
-Q2 [20]
-CO-1 a. | “The fundamental idea of economics is making decisions in the face of
-BL- Appl shortage or scarcity of resources.” Examine this statement in the context | [10]
-
-PPIY of the Production possibility curve.
-
-CO- 1&2; BL- b. | What do you mean by business cycle? Illustrate the importance of
-Understand and national income data for developing economiessto-become developed [10]
-Analyze economies. ;
---- page 2 ---
-Q3
-
-ao [20]
-a. | “Law of Demand explains the direction of change in demand and Price
-CO-1; BL- variable but Price Elasticity of Demand exhibits the degree of change
-Understand & in demand due to change in price variable”. Comment on this [10]
-Analyze statement and explain the types of Price Elasticity of Demand with the
-help of a diagram.
-CO-1; b. | Explain the situations of super normal profit and loss-making under a
-ws . . [10]
-BL- Apply perfectly competitive market structure with the help of a diagram.
-Q4 [20]
-CO- 1&2; BL- : . . . :
-> a Why did the Government of India adopt economic reforms in 1991?
-Understand & . —_ . [10]
-Explain about reforms initiated under the LPG policy of 1991.
-Analyze
-CO-3; BL- b. , a
-; Why a good business leader is important for the success of an
-Understand & mes . : [10]
-organization? Measure the functions performed by the business leader.
-Evaluate
-5
-° [20]
-CO- 1; BL- a. | Define Production Function. Illustrate various stages of the Law of
-Understand and Variable Proportions under production analysis. As a rational producer, | [10]
-Analyze which stage is optimal to produce?
-CO-2&3; b. | Every problem and the decision taken to tackle the same remains unique,
-BL- Understand & However, every manager does follow some common Techniques of Decision | [10]
-Analyze Making” — Elaborate in detail on the above statement.
-6
-Q [20]
-CO-3; a. | What are the skills required by the manager for their effective functioning? [10]
-BL- Analyze How do these skills vary in different levels of management? :
-CO-3; BL- Remember | b. “Functions of the management remain to be universal, irrespective of the level [10]
-and Evaluate of the management” Justify the statement in detail with examples.
-7
-Q [20]
-CO-3; BL- a. | What do you mean by inventory? Why inventory control is important
-Understand and for a business with demand fluctuations? Explain your reasoning. [10]
-Analyze
-CO-2&3; BL- Apply b. | How do policies like monetary policy and fiscal policy work in [10]
-
-recovering an economy? Highlight the objectives. of both policies.
 ````
 
 ## 2022-23 · Re-Exam · Sem 2 · paper 3f7c8303536a
@@ -7886,110 +8102,6 @@ BL- Analyze Explain the steps that are to be followed during a controlling proce
 Page 2 of 2
 ````
 
-## 2021-22 · Re-Exam · Sem 3 · paper 22ed1ed58c86
-
-- Departments: Artificial Intelligence, Civil, Computer Engineering, Cyber Security, Information Technology, Mechanical
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / MECHANICAL, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/PRINCIPLES OF ECONOMICS & MANAGEMENT/Principles of Eco & Mgmt , Re-exam 2021-22,23,24.pdf` (+13 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-\Z|o2\24 = \o'WwaAan
-
-SVKM’S NMIMS :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-Program/s: B Tech/MBA Tech/B Tech (Int.)
-Stream/s: CE/CS/CSE Cyber sec./IT/Mech./AI/Civil
-
-Subject: Principles of Economics and Management (PEM)
-
-Date: 43/o2]202y Nosof Pages: 02
-
-Marks: 100 . “Se
-Re-examination (2021-22/2022-23) (2023- 24) -
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
--~ 1) Question No. 1 is compulsory.
-
-y
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary. .
-
-Qi Write a Short Note on: [20]
-COs 1482) Bie . Stabilization Policies of the Government at Macroeconomic Level [5]
-Understand :
-
-CO-3 ; BL- b. | Purpose of classifying inventories into groups-as the ABC classification [5]
-Comprehension does. :
-
-CO- 1; BL-Remember | c. | Marginal Cost & Average Cost . [5]
-CO- 3; BL- Analyze | d. | Types of Leadership Styles [5]
-Q2 : [20]
-CO-1 a. | Define Production Possibility Curve. How will PPC help an economy to | __
-BL- Analyze grow in a better way? Explain with a suitable example and diagram. [10]
-CO- 1&2; BL- b. | Identify the problems faced by the Government of India in calculating [10]
-Understand and Apply the national income of the country.
-
-°° (20)
-CO-1; BL- a. Write a note on monopolistic market structure. Demonstrate the [10]
-Understand & Apply features of monopoly market with suitable examples.
-
-CO-1&2; b. | Elaborate on the different types of unemployment faced in India. Give
-
-BL- Evaluate your comment on possible reasons for not solving the problem of | [10]
-
-unemployment in Indian context so far.
---- page 2 ---
-Q4 pe [20]
-
-CO- 2&3; BL- a How do you support the view that management must be defined in terms
-Understand & : aa a [10]
-of effectiveness, coordination of resources, and objectives?
-Analyze ;
-b. | Reserve bank of India has proved its mettle by discharging its functions
-CO-1&2; BL- ; seamlessly and contributing to the growth of the economy. Argue with [10]
-Understand & Apply various substantive issues RBI dealt with in the backdrop its functions
-and their impact.
-es (20)
-a. | “A good manager is known for better decision-making”. Explain this
-CO- 263; BL- statement highlighting various decisional roles of a manager in the | [10]
-Understand and Apply or — ‘ 8
-organization.
-GO-12) % What are the objectives and tools of fiscal policy? Critically discuss the
-BL- Understand & = : ‘ [10]
-concept of fiscal deficit and various tools of fiscal policy.
-Analyze
-6
-. [20]
-CO-3; a. | Demonstrate the role played by scientific approach and administrative [10]
-BL- Apply | approach in better management and target achievement.
-b. | Identify functional areas of business management and how do they
-CO-2&3; BL- function, coordinate and complement each other with a view to [10]
-Remember and Apply maximize total revenue, minimize cost and achieve reasonable level of
-profit to grow further and contribute to the society.
-7
-Q . ‘ [20]
-CO-1; BL- a. | Explain the Law of Diminishing Return and its stages. State why the law [10]
-Understand and Apply applies mostly to agriculture and allied industries. |
-b.
-CO- 1&2; BL- Apply Explain how Maslow’s Theory of motivation can be helpful in achieving [10]
-
-greater success in life.
-````
-
 ## 2021-22 · Re-Exam · Sem 6 · paper fadf4f321171
 
 - Departments: Electronics and Telecommunication
@@ -8643,6 +8755,82 @@ A) DELEGATION OF AUTHORITY
 B) STAFFING AND TRAINING
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 1fca6e4f2d05
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/PRINCIPLES OF ECONOMICS AND MANAGEMENT (IT), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 27 November 2017
+- Text: ocr (1 page), mean OCR confidence 90.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (IT) ; Year: III Semester: V
+
+Batch: 2014-15/ 2016-17 oF
+: : Academic Year: 2017-2018
+
+Subject: Principles of Economics and Management
+
+iyi
+Marks: QQy** IRN :
+Date: 27 November 2017 Time: 2,06°pm to 5.0 yr,
+
+Duratigr/s: @ (hrsf *
+No. of Bagési 3 B/* La
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the qu
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. ;
+
+Q 1. Write short notes on the following (any four): (3 marks each),
+a. Types of Economy Systems
+b. Findings of Hawthorne Experiments
+c. Price Index
+d. Forms of Imperfect Competition
+e. ABC Analysis for Inventory Control
+f. Nature of Line-staff Relationship
+
+Q 2. Describe the process of défegation of authority. Which measures can be taken for making delegation more
+effective? (12 marks)
+
+Q3. Explain any two of the following theories of Motivation: (6 marks each)
+a. Maslow’s Hierarchy of Needs
+b. Herzberg Hygiene Theory
+c. McClelland Achievement Theory *
+
+Q 4. Which are the barriers to effective planning? Discuss the measures for making planning effective. (12 marks)
+
+Q 5. Explain five factors affecting demand and five factors affecting supply with an example of a pen. Explain
+
+substitution effect and income effect. (12 marks)
+cael
+
+Q 6. Discuss main functions of Reserve Bank of India (RBI). What is Cash Reserve Ratio, Statutory Liquidity Ratio
+eeu and Bank Rate? Explain repo rate and reverse repo rate. (12 marks)
+
+Q7. Write a detailed note on Liberalization, Privatization and Globalization. What are your viewpoints on its impact
+on Indian Economy? : (12 marks)
+
+® Vv
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper 67af54be76f5
 
 - Departments: Information Technology
@@ -8869,80 +9057,386 @@ Q 7. What are pros and cons of Decentralization? How it can be made more effecti
 . 1h
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 1fca6e4f2d05
+## 2015-16 · Re-Exam · Sem 5 · paper 1de6f0668259
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/PRINCIPLES OF ECONOMICS AND MANAGEMENT (IT), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 27 November 2017
-- Text: ocr (1 page), mean OCR confidence 90.0
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/PRINCIPLES OF ECONOMICS AND MANAGEMENT B TECH (IT), BATCH 2014-15 RE EXAM_1de6f06682.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
+- Text: ocr (2 pages), mean OCR confidence 91.3
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG
 
-Programme: B. Tech (IT) ; Year: III Semester: V
+Programme: B.Tech (I.T.) Year: III. Semester: V
 
-Batch: 2014-15/ 2016-17 oF
-: : Academic Year: 2017-2018
+Academic Year: 2015-16
 
-Subject: Principles of Economics and Management
-
-iyi
-Marks: QQy** IRN :
-Date: 27 November 2017 Time: 2,06°pm to 5.0 yr,
-
-Duratigr/s: @ (hrsf *
-No. of Bagési 3 B/* La
+Batch: 2014-15 Marks:60
+Subject: Principles of Economics & Management Time: 2.00 pm - 5.00 pm
+Date: 10 June 2016 Durations: 3 (hrs)
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the qu
-of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
 
-1) Question No. 1 is compulsory.
+NB:*
+
+1. Question Ne. 1 is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions. »
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6.. Figures in brackets on the right hand side indicate full marks.
+
+1. Write a short note on any four of the following: (4x3 =12)
+(a) Theory Y
+(b) Mixed economy
+(c) Perfect Markets
+(d) Gross Domestic Product
+
+(e) Depreciation
+
+—_
+
+(f) Span of Control
+
+2. Explain the concept of Price Elasticity of demand, Cross Elasticity of demand and Income Elasticity i
+of demand. Refer to the following table showing a demand schedule to answer following questions:
+
+Price (Rs) Quantity demanded |
+
+(Units) . |
+
+~ 4 1250 .| 7500 e '
+1000 10500
+
+If price falls from Rs 1250 to Rs 1000, calculate elasticity of demand over this range using Midpoint
+method? . 12 Manes)
+
+h-
+--- page 2 ---
+. 3.'9 Define Inflation. Explain any 5 measures to control it. (6 Marks)
+3.b Define and explain the concept of Liberalization. Explain any 4 liberalization measures taken by the
+(6 Marks)
+
+Government of India in 1991.
+
+4.a Explain the concept of Current Account in Balance of Payment. (6 Marks)
+4.b Explain the important functions of Reserve Bank of India. (6 Marks)
+5.a. Distinguish between Centralization and Decentralization. (6 Marks)
+5.9. Explain Henri Fayol’s any 6 principles of management (6 Marks)
+6.2Explain any 3 importance of training and also explain any 3 methods of training. (6 Marks)
+(6 Marks)
+
+6.b Explain the concept of Marketing and also explain 4 P’s of Marketing.
+
+- 7, Write a short note on any four of the following: (4x3=12 Marks)
+
+(a) EOQ
+(b) Sources of Recruitment an
+(ce) Types of Returns to Scale
+
+(d) Breakeven Analysis
+(e) Exceptions or limitations to law of demand
+
+d their advantages and disadvantages
+````
+
+## 2014-15 · Exam not stated · Sem 5 · paper 50bef5c68a40
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/PRINCIPLES OF ECONOMICAS AND MANAGEMENT B TECH (IT), FIN0001.pdf`
+- Printed on paper: max marks: 100; exam date: 02/12/2014
+- Text: ocr (2 pages), mean OCR confidence 90.9
+
+````text
+SVKMW’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (I.T.) Year: III Semester: V
+
+Academic Year: 2014-2015 |
+
+OTE rm
+ge ae. ee
+
+TM ye
+Bosnians Js |
+
+Subject : Principles of Economics and Management
+Marks: 100
+Date : 02/12/2014 Time : 2.00 p:
+Durations: 3.
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+J) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
-4) All questions carry equal marks.
+4) Answer to each new question to be started on a fresh page.
 
-5) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. ;
+1. Differentiate between : (Any 4 only) (4 x5= 20)
+(a) Increasing Returns to Scale and Decreasing Retums to Scale
+(b) Current Account and Capital Account
+(c) Line and Staff Relationships
+(d) OMO and MBO
+’ (e) Expansion of Supply and Increase in Supply.
 
-Q 1. Write short notes on the following (any four): (3 marks each),
-a. Types of Economy Systems
-b. Findings of Hawthorne Experiments
-c. Price Index
-d. Forms of Imperfect Competition
-e. ABC Analysis for Inventory Control
-f. Nature of Line-staff Relationship
+2. (a) Discuss the basic characteristics/ features of various forms of Imperfect Market. (10)
+(b) State the merits and demerits of a Socialist Economy. (10)
 
-Q 2. Describe the process of défegation of authority. Which measures can be taken for making delegation more
-effective? (12 marks)
+3. (a) Given the following total cost function TC = 1500 + 15Q —6Q? + Q°.
+(@) Determine the total fixed cost for producing 1000 units of output and 500 units of
 
-Q3. Explain any two of the following theories of Motivation: (6 marks each)
-a. Maslow’s Hierarchy of Needs
-b. Herzberg Hygiene Theory
-c. McClelland Achievement Theory *
+output.
+(ii) What is AFC at (a) 10001 units of output, and (b) 500 units of output? :
+(iii) Determine TVC, AVC, MC and AC at 50 units of output. (10)
+3.b) Explain the term inflation. What are various causes of inflation?
+~ (10):
+4. (a) State the important functions of Reserve-Bank of India. (10)
 
-Q 4. Which are the barriers to effective planning? Discuss the measures for making planning effective. (12 marks)
+I/5.
+--- page 2 ---
+(b) Briefly state the advantages and disadvantages of Privatisation. (10)
 
-Q 5. Explain five factors affecting demand and five factors affecting supply with an example of a pen. Explain
+5. (a) Discuss the important steps of Planning. (10)
+(b) Explain the importance of the outcome of Hawthorne Studies. (10)
 
-substitution effect and income effect. (12 marks)
-cael
+6. (a) Compare and Contrast Maslow’s need-hierarchy theory with Herzberg’s Two factor
 
-Q 6. Discuss main functions of Reserve Bank of India (RBI). What is Cash Reserve Ratio, Statutory Liquidity Ratio
-eeu and Bank Rate? Explain repo rate and reverse repo rate. (12 marks)
+theory. : (10)
+(b) Briefly discuss some of the important methods adopted by companies to train new
+recruits. (10)
+7. (a) What is break even analysis? Explain the importance of such analysis. (10)
+(b) Explain the importance of marketing mix. (10)
+x Me
+````
 
-Q7. Write a detailed note on Liberalization, Privatization and Globalization. What are your viewpoints on its impact
-on Indian Economy? : (12 marks)
+## 2014-15 · Re-Exam · Sem 5 · paper c2d421dbc359
 
-® Vv
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/PRINCIPLES OF ECONOMICS AND MANAGEMENT B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 10/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+/
+
+Programme: B. Tech (L.T.) Year: III Semester: V
+Batch: 2013-14 —_—
+Academic Year: 2014-2015 7 ght OF aie
+Subject: Principles of Economics & Management vr 7
+Marks: 100 ms
+Date: 10/06/2015 Time: 10.00:am to 1.00 pm
+; Durations: 3 ANS ; oA) .
+\ :
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+Section -1 and Section- 2 are to be attempted in the same answer book.
+
+Section -1
+NB:
+1) Question No. | is compulsory. *
+2) Out of remaining questions, attempt any 3 questions.
+3) In all 4 questions to be attempted from Section 1.
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+
+1. What is elasticity of demand and how it is related to total revenue? Explain through an
+
+example.
+[20 Marks]
+2. Explain different type of inflation and describe the relationship between inflation and
+unemployment both for short run and long run. [10 Marks]
+3. How does the Central Bank of India implement monetary policy? [10 Marks]
+
+4. Explain different type of inflation and describe the relationship between inflation and
+unemployment both for short run and long run. [10 Marks]
+
+5. National income does not necessarily refer to income produced within the borders of a
+country. In the context of this statement, explain the difference between GNP and GDP.
+; [10 Marks]
+6. Write a short note on any Two (2 x 5 =10 Marks]
+a. Economic system
+b. Diminishing return to scale
+c. Disinvestment
+
+fe
+--- page 2 ---
+Section- 2
+NB:
+1) Question No. 7 is compulsory.
+2) Out of remaining questions, attempt any 3 questions.
+3) In all 4 questions to be attempted from Section 2.
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+
+7. What is scientific management? Explain the important principles of scientific management.
+{20 Marks]
+
+8. Compare and contrast Maslow’s Need Hierarchy Theory with Herzberg’s Motivation-
+
+Hygiene Theory. [10 Marks]
+
+9. What do you mean by training? How will you identify the training needs of an employee?
+[10 Marks]
+
+10. “Decision making is an integral part of planning”. — Discuss. [10 Marks]
+
+11. What is delegation of authority? Under what conditions will it prove beneficial to the
+
+Organisation? [10 Marks]
+
+12. Write short notes on: (any 2) [2x 5=10 Marks]
+
+a) Importance of Advertisement.
+
+b) Span of management.
+
+c) Budgeting and Budgetary Control.
+d) Marketing Mix
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper f30ad99232d0
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/PRINCIPLES OF ECONOMICS AND MANAGEMENT B TECH (IT), BATCH 2013-14 RE EXAM_f30ad99232.pdf`
+- Printed on paper: exam date: 02/12/2014
+- Text: ocr (2 pages), mean OCR confidence 94.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: III Semester: V
+
+Batch: 2013-2014
+Academic Year: 2014-2015
+
+Subject: Principles of Economics & Management
+Marks:
+Date: 02/12/2014 Time: |
+Duration
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+Section 1 and Section 2 are to be attempted in the same answer book.
+
+Section 1
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 3 questions.
+3) In all 4 questions to be attempted from Section 1.
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks,
+
+1. Differentiate between: (any 4) [4x 5 =20 Marks]
+(a) Marginal Utility and Total Utility
+(b) Cardinal concept of utility and Ordinal concept of utility
+(c) Increasing Returns to Scale and Decreasing Returns to Scale
+(d) GDP and GNP.
+(e) Repo rate and Reverse Repo rate.
+
+2. Based on the given Demand Function Q= 400 -4P complete the following table. [10 Marks]
+
+Price (P) | Quantity Total Marginal Point Price-
+(Q) Revenue Revenue elasticity
+
+100 7) 100
+
+90 40 80
+
+80 80 -4.00
+70 8,400 40 -2.33
+60 9,600
+
+50 10,000
+
+40 240 -20
+--- page 2 ---
+30 280 -0.43
+
+20 -60 -0.25
+
+10 360 3,600 -0.11
+
+3. Draw a Demand Curve showing price elasticitye ,>1,e,<1l,e,=1,e,=0ande,=0.
+[10 Marks}
+
+4. What are the different types of economic system? [10 Marks]
+
+5. “In the perfect market, firms are price-takers and as such can earn abnormal loss as well as
+
+abnormal profit also.” Discuss the validity of the statement. [10 Marks]
+6. Briefly discuss the monetary policies of India. [10 Marks]
+Section 2
+
+NB:
+
+1) Question No. 7 is compulsory.
+
+2) Out of remaining questions, attempt any 3 questions.
+
+3) In all 4 questions to be attempted from Section 2.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+
+7. “The main objective of financial management is to achieve wealth- maximization and not
+profit maximisation”. Discuss. In this context briefly state how capital structure decisions
+and cost of capital decision leads to wealth maximization ofa firm. [20 Marks]
+
+8. Compare and contrast Maslow’s Need Hierarchy Theory with Herzberg’s Motivation-
+
+Hygiene Theory. [10 Marks]
+
+9. What do you mean by training? How will you identify the training needs of an employee?
+[10 Marks]
+
+10. “Decision making is an integral part of planning”. — Discuss. [10 Marks]
+
+11. What is Inventory Control? Discuss various techniques of Inventory Management to
+improve productivity. [10 Marks]
+
+12. Write short notes on: (any 2) [2 x 5 =10 Marks]
+a) Scientific management.
+
+b) Role of delegation of Authority.
+
+c) Importance of Advertisement.
+
+d) Span of management
+
+RX
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper 6215c91d4f64
@@ -9061,191 +9555,6 @@ G
 ~<
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 1de6f0668259
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/PRINCIPLES OF ECONOMICS AND MANAGEMENT B TECH (IT), BATCH 2014-15 RE EXAM_1de6f06682.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG
-
-Programme: B.Tech (I.T.) Year: III. Semester: V
-
-Academic Year: 2015-16
-
-Batch: 2014-15 Marks:60
-Subject: Principles of Economics & Management Time: 2.00 pm - 5.00 pm
-Date: 10 June 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-NB:*
-
-1. Question Ne. 1 is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions. »
-3. In all FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6.. Figures in brackets on the right hand side indicate full marks.
-
-1. Write a short note on any four of the following: (4x3 =12)
-(a) Theory Y
-(b) Mixed economy
-(c) Perfect Markets
-(d) Gross Domestic Product
-
-(e) Depreciation
-
-—_
-
-(f) Span of Control
-
-2. Explain the concept of Price Elasticity of demand, Cross Elasticity of demand and Income Elasticity i
-of demand. Refer to the following table showing a demand schedule to answer following questions:
-
-Price (Rs) Quantity demanded |
-
-(Units) . |
-
-~ 4 1250 .| 7500 e '
-1000 10500
-
-If price falls from Rs 1250 to Rs 1000, calculate elasticity of demand over this range using Midpoint
-method? . 12 Manes)
-
-h-
---- page 2 ---
-. 3.'9 Define Inflation. Explain any 5 measures to control it. (6 Marks)
-3.b Define and explain the concept of Liberalization. Explain any 4 liberalization measures taken by the
-(6 Marks)
-
-Government of India in 1991.
-
-4.a Explain the concept of Current Account in Balance of Payment. (6 Marks)
-4.b Explain the important functions of Reserve Bank of India. (6 Marks)
-5.a. Distinguish between Centralization and Decentralization. (6 Marks)
-5.9. Explain Henri Fayol’s any 6 principles of management (6 Marks)
-6.2Explain any 3 importance of training and also explain any 3 methods of training. (6 Marks)
-(6 Marks)
-
-6.b Explain the concept of Marketing and also explain 4 P’s of Marketing.
-
-- 7, Write a short note on any four of the following: (4x3=12 Marks)
-
-(a) EOQ
-(b) Sources of Recruitment an
-(ce) Types of Returns to Scale
-
-(d) Breakeven Analysis
-(e) Exceptions or limitations to law of demand
-
-d their advantages and disadvantages
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper c2d421dbc359
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/PRINCIPLES OF ECONOMICS AND MANAGEMENT B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 10/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-/
-
-Programme: B. Tech (L.T.) Year: III Semester: V
-Batch: 2013-14 —_—
-Academic Year: 2014-2015 7 ght OF aie
-Subject: Principles of Economics & Management vr 7
-Marks: 100 ms
-Date: 10/06/2015 Time: 10.00:am to 1.00 pm
-; Durations: 3 ANS ; oA) .
-\ :
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-Section -1 and Section- 2 are to be attempted in the same answer book.
-
-Section -1
-NB:
-1) Question No. | is compulsory. *
-2) Out of remaining questions, attempt any 3 questions.
-3) In all 4 questions to be attempted from Section 1.
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-
-1. What is elasticity of demand and how it is related to total revenue? Explain through an
-
-example.
-[20 Marks]
-2. Explain different type of inflation and describe the relationship between inflation and
-unemployment both for short run and long run. [10 Marks]
-3. How does the Central Bank of India implement monetary policy? [10 Marks]
-
-4. Explain different type of inflation and describe the relationship between inflation and
-unemployment both for short run and long run. [10 Marks]
-
-5. National income does not necessarily refer to income produced within the borders of a
-country. In the context of this statement, explain the difference between GNP and GDP.
-; [10 Marks]
-6. Write a short note on any Two (2 x 5 =10 Marks]
-a. Economic system
-b. Diminishing return to scale
-c. Disinvestment
-
-fe
---- page 2 ---
-Section- 2
-NB:
-1) Question No. 7 is compulsory.
-2) Out of remaining questions, attempt any 3 questions.
-3) In all 4 questions to be attempted from Section 2.
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-
-7. What is scientific management? Explain the important principles of scientific management.
-{20 Marks]
-
-8. Compare and contrast Maslow’s Need Hierarchy Theory with Herzberg’s Motivation-
-
-Hygiene Theory. [10 Marks]
-
-9. What do you mean by training? How will you identify the training needs of an employee?
-[10 Marks]
-
-10. “Decision making is an integral part of planning”. — Discuss. [10 Marks]
-
-11. What is delegation of authority? Under what conditions will it prove beneficial to the
-
-Organisation? [10 Marks]
-
-12. Write short notes on: (any 2) [2x 5=10 Marks]
-
-a) Importance of Advertisement.
-
-b) Span of management.
-
-c) Budgeting and Budgetary Control.
-d) Marketing Mix
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper 71ac209a4d5d
 
 - Departments: Information Technology
@@ -9361,305 +9670,4 @@ d) On-the —job techniques
 3/Q
 
 ~~
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper f30ad99232d0
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/PRINCIPLES OF ECONOMICS AND MANAGEMENT B TECH (IT), BATCH 2013-14 RE EXAM_f30ad99232.pdf`
-- Printed on paper: exam date: 02/12/2014
-- Text: ocr (2 pages), mean OCR confidence 94.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: III Semester: V
-
-Batch: 2013-2014
-Academic Year: 2014-2015
-
-Subject: Principles of Economics & Management
-Marks:
-Date: 02/12/2014 Time: |
-Duration
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-Section 1 and Section 2 are to be attempted in the same answer book.
-
-Section 1
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 3 questions.
-3) In all 4 questions to be attempted from Section 1.
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks,
-
-1. Differentiate between: (any 4) [4x 5 =20 Marks]
-(a) Marginal Utility and Total Utility
-(b) Cardinal concept of utility and Ordinal concept of utility
-(c) Increasing Returns to Scale and Decreasing Returns to Scale
-(d) GDP and GNP.
-(e) Repo rate and Reverse Repo rate.
-
-2. Based on the given Demand Function Q= 400 -4P complete the following table. [10 Marks]
-
-Price (P) | Quantity Total Marginal Point Price-
-(Q) Revenue Revenue elasticity
-
-100 7) 100
-
-90 40 80
-
-80 80 -4.00
-70 8,400 40 -2.33
-60 9,600
-
-50 10,000
-
-40 240 -20
---- page 2 ---
-30 280 -0.43
-
-20 -60 -0.25
-
-10 360 3,600 -0.11
-
-3. Draw a Demand Curve showing price elasticitye ,>1,e,<1l,e,=1,e,=0ande,=0.
-[10 Marks}
-
-4. What are the different types of economic system? [10 Marks]
-
-5. “In the perfect market, firms are price-takers and as such can earn abnormal loss as well as
-
-abnormal profit also.” Discuss the validity of the statement. [10 Marks]
-6. Briefly discuss the monetary policies of India. [10 Marks]
-Section 2
-
-NB:
-
-1) Question No. 7 is compulsory.
-
-2) Out of remaining questions, attempt any 3 questions.
-
-3) In all 4 questions to be attempted from Section 2.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-
-7. “The main objective of financial management is to achieve wealth- maximization and not
-profit maximisation”. Discuss. In this context briefly state how capital structure decisions
-and cost of capital decision leads to wealth maximization ofa firm. [20 Marks]
-
-8. Compare and contrast Maslow’s Need Hierarchy Theory with Herzberg’s Motivation-
-
-Hygiene Theory. [10 Marks]
-
-9. What do you mean by training? How will you identify the training needs of an employee?
-[10 Marks]
-
-10. “Decision making is an integral part of planning”. — Discuss. [10 Marks]
-
-11. What is Inventory Control? Discuss various techniques of Inventory Management to
-improve productivity. [10 Marks]
-
-12. Write short notes on: (any 2) [2 x 5 =10 Marks]
-a) Scientific management.
-
-b) Role of delegation of Authority.
-
-c) Importance of Advertisement.
-
-d) Span of management
-
-RX
-````
-
-## Year not stated · Exam not stated · Sem 5 · paper 50bef5c68a40
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/PRINCIPLES OF ECONOMICS AND MANAGEMENT/PRINCIPLES OF ECONOMICAS AND MANAGEMENT B TECH (IT), FIN0001.pdf`
-- Printed on paper: max marks: 100; exam date: 02/12/2014
-- Text: ocr (2 pages), mean OCR confidence 90.9
-
-````text
-SVKMW’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (I.T.) Year: III Semester: V
-
-Academic Year: 2014-2015 |
-
-OTE rm
-ge ae. ee
-
-TM ye
-Bosnians Js |
-
-Subject : Principles of Economics and Management
-Marks: 100
-Date : 02/12/2014 Time : 2.00 p:
-Durations: 3.
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-J) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-
-5) Figures in brackets on the right hand side indicate full marks.
-
-1. Differentiate between : (Any 4 only) (4 x5= 20)
-(a) Increasing Returns to Scale and Decreasing Retums to Scale
-(b) Current Account and Capital Account
-(c) Line and Staff Relationships
-(d) OMO and MBO
-’ (e) Expansion of Supply and Increase in Supply.
-
-2. (a) Discuss the basic characteristics/ features of various forms of Imperfect Market. (10)
-(b) State the merits and demerits of a Socialist Economy. (10)
-
-3. (a) Given the following total cost function TC = 1500 + 15Q —6Q? + Q°.
-(@) Determine the total fixed cost for producing 1000 units of output and 500 units of
-
-output.
-(ii) What is AFC at (a) 10001 units of output, and (b) 500 units of output? :
-(iii) Determine TVC, AVC, MC and AC at 50 units of output. (10)
-3.b) Explain the term inflation. What are various causes of inflation?
-~ (10):
-4. (a) State the important functions of Reserve-Bank of India. (10)
-
-I/5.
---- page 2 ---
-(b) Briefly state the advantages and disadvantages of Privatisation. (10)
-
-5. (a) Discuss the important steps of Planning. (10)
-(b) Explain the importance of the outcome of Hawthorne Studies. (10)
-
-6. (a) Compare and Contrast Maslow’s need-hierarchy theory with Herzberg’s Two factor
-
-theory. : (10)
-(b) Briefly discuss some of the important methods adopted by companies to train new
-recruits. (10)
-7. (a) What is break even analysis? Explain the importance of such analysis. (10)
-(b) Explain the importance of marketing mix. (10)
-x Me
-````
-
-## Year not stated · Exam not stated · Sem 2 · paper 0b644db2dd96
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/PRINCIPLE OF ECONOMICS AND MANAGEMENT/Principles of economics and Management (PEM).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program/s: B Tech/MBA Tech Year: I Semester: II
-Stream/s: AI/DS/IT/AIML/AIDS/CSDS/Cyber Sec./EXTC/Mechatronics
-
-Subject: Principles of Economics and Management (PEM) Time: 3 Hrs (14:00 am to 2: oopm)
-Date: 17 Jos ]2023 No. of Pages: 02
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qi Write a Short Note on: [20]
-CO- 1; BL- Understand | 3 Monopoly and Oligopoly [5]
-CO-3 ; BL- Analyze b. Why delegation is important in business organization [5]
-CO- 3; BL-Apply c. Controlling is blind without Planning (5]
-CO- 1; BL- Remember d. Law of Diminishing Returns [5]
-Q2z [20]
-
-a. Explain market equilibrium of demand and supply? Discuss about
-co-1 the effect of shift in demand and supply curve with the help of
-
-; [10]
-
-BL- Analyze diagram?
-CO- 1; BL- Understand | b. What do you mean by Producer’s equilibrium? Demonstrate various [10]
-and Apply characteristics of Iso-quant curves with suitable example.
-° [20]
-CO-1; BL- Understand & | a. What are the central problems of an economy? Mention the causes [10]
-Analyze and list of economic problems?
-CO-1&2; b. Finance Minister is the head of fiscal policies in India, what
-BL- Evaluate instruments does the Finance Minister has to make fiscal policy | [10]
-
-changes in the country.
---- page 2 ---
-Q4 [20]
-
-Discuss the key elements of Administrative Management Theory by
-
-CO- 3; BL- Understand | * ie
-neers Henry Fayol. Also establish ongoing impact of Henry Fayol’s [10]
-
-& Apply Administrative Management Theory.
-CO-1&2; BL- b. What are the tools available in the hands of the RBI to bring about [10]
-Understand & Analyze Monetary Policy changes in the economy?
-ae (20)
-CO- 3; BL- Understand j a. What are Line and Staff Authority in an organization? Summarize [10]
-and Evaluate the significance of Line and Staff Authority with relevant examples.
-
-CO-1; b.
-
-BL- Understand & Define Market Economy and illustrate the Role of Government in a [10]
-
-Market Economy with suitable example.
-Apply
-6
-
-2 [20]
-CO-3; a. Explain Maslow's Theory of Motivation and demonstrate its [10]
-BL- Apply usefulness current context ?
-
-CO- 1&2; BL- b. How does inflation affect the earning power or the value of salary | 1 q)
-Understand and Evaluate for a salaried person in particular in Indian context?
-
-7
-
-8 [20]
-
-CO-2&3; BL- a. What is Planning? Write steps used in Planning functions and [10]
-Understand and Apply explain the advantages of Planning for a business organization..
-
-b. Mention any two Characteristics of Controlling with suitable
-CO- 3; BL- Understand example. Explain briefly any two traditional techniques of [10]
-
-& Analyze Controlling.
 ````

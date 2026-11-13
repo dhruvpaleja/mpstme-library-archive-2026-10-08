@@ -133,6 +133,7 @@ BL-3   systems
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSE CYBER SECURITY/SEM-VII/INFORMATION SYSTEM AUDIT/Information Systems Audit, Sem-VII, Year 2025-26, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 90.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 >>
@@ -274,7 +275,6 @@ BL-3 systems
 la
 lon
 
-FG ak dk a dk ek
 
 4 .
 ````
@@ -286,6 +286,7 @@ FG ak dk a dk ek
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_CyberSecurity_7010/Information Systems Audit/QP_Information Systems Audit(702IT0E033)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

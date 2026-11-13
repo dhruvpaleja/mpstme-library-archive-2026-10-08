@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Mechatronics_7004/Industrial Drives/ANS_Industrial Drives(702MH0C011)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: mixed (18 pages), mean OCR confidence 61.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -97,7 +98,6 @@ I ! i i
 i I I I ;
 a 1 1 T Tac
 : : H | \ Sail
-Ta T 1 t 1 H : =a
 : 1 1 t ! f
 \ 4 H !
 : ! =
@@ -445,6 +445,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_Mechatronics_7004/Industrial Drives/ANS_Industrial Drives(702MH0C011)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (16 pages), mean OCR confidence 75.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -721,7 +722,6 @@ triggering of the SCR. The voltage at B, when the UJT is “off” must
 be smaller than the voltage needed to trigger the SCR, otherwise the SCR will be
 triggered immediately upon switch closure. Thus, we have the requirement
 
-Vy (off) < (I, x 1 kQ + Vp)
 
 FIR ICR 7] QI HO
 --- page 14 ---
@@ -740,7 +740,6 @@ control Inverter IM
 —
 (a) Block diagram (b) Space-weetor diagram
 Control Machine
-ib & ia i A fis ls
 tg P| if N i, _ | a-b-e dg Machine
 " to - to = v ' to to . #9
 fe | age | | abe |_& E fe | teat |e | ge | le] model

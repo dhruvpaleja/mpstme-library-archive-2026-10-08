@@ -1,6 +1,6 @@
 # Python Programming
 
-**5** unique papers (24 copies across programmes) · 2022-23 to 2024-25 · 12 programmes · Sem 2, Sem 3, Sem 4, Sem 6
+**5** unique papers (25 copies across programmes) · 2022-23 to 2024-25 · 12 programmes · Sem 2, Sem 3, Sem 4, Sem 6
 
 Download only this subject, sorted by academic year:
 
@@ -17,7 +17,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Python Programming, Sem-II, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T | Python Programming, Sem-III, Final Exam 2024-25 & Re Exam 2023-24, 2022-23.pdf |
 | 2022-23 | Final + Re-Exam, Final-Exam | Question paper | Sem 2, Sem 4, Sem 6 | B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / MECHATRONICS, MBA TECH, MBA TECH / COMPUTER, MBA TECH / EXTC | Python Programming, Sem-II, Final Exam 2022-23.pdf |
-| 2022-23 | Re-Exam | Question paper | Sem 2 | B TECH, MBA TECH | Python Programming, Re-exam 2022-23.pdf |
+| 2022-23 | Re-Exam | Question paper | Sem 2 | B TECH, MBA TECH | Python Programming, Re-exam 2022-23.pdf [1] [2] |
 | 2022-23 | Re-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / I T, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T | Python Programming , Re-exam 2022-23.pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "PYTHON PROGRAMMING" but the paper is headed "Python Programming"
+2. filed under "PYTHON FOR DATA ANALYSIS" but the paper is headed "Python Programming"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

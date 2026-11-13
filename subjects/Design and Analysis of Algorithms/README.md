@@ -16,12 +16,6 @@ Also filed as: `DESIGN & ANALYSIS ALGORITHMS`, `DESIGN AND ANALYSS OF ALGORITHMS
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech CSBS 7036, MBATech AI 7051 | ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Design and Analysis of Algorithms(702CO0C068)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / CSBS, MBA TECH / ARTIFICIAL INTELLIGENCE | Design and Analysis of Algorithms, Sem-V, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech AI 7012, BTech CSBS 7036, MBATech AI 7051 | QP_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CS 7055 | QP_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
@@ -29,13 +23,12 @@ Also filed as: `DESIGN & ANALYSIS ALGORITHMS`, `DESIGN AND ANALYSS OF ALGORITHMS
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Computer 7002 | QP_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated Computer 7032 | QP_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech Computer 7047 | QP_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Design and Analysis of Algorithms(702CO0C068)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech AI 7051 | ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech CSBS 7036, MBATech AI 7051 | ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Design and Analysis of Algorithms(702CO0C068)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER | Design and Analysis of Algorithms Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech CS 7055 | QP_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech CSBS 7036 | QP_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
@@ -44,13 +37,20 @@ Also filed as: `DESIGN & ANALYSIS ALGORITHMS`, `DESIGN AND ANALYSS OF ALGORITHMS
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated Computer 7032 | QP_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech AI 7051 | QP_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | MBATech Computer 7047 | QP_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Design and Analysis of Algorithms(702CO0C068)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech AI 7051 | ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf |
 | 2024-25 | — | Question paper | Sem 4 | B TECH / CSEDS-311 | B Tech, Design and Analysis of Algorithms, Sem-IV, Batch, 2023-24, 2024-25, 2025-_eba13105.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER, MBA TECH / COMPUTER | Design and Analysis of Algorithms, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 a_2c6a9957.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / COMPUTER | Design and Analysis of Algorithms Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / CSBS | Design and Analysis of Algorithms, Sem-V, Final Exam 2024-25.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Design and Analysis of Algorithms(702CO0C010)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / CSBS | Design and Analysis of Algorithms, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 4 | BTech CSE DS 7011 | QP_Design and Analysis of Algorithms(702CO0C010)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Design and Analysis of Algorithms(702CO0C010)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / CSBS, MBA TECH / ARTIFICIAL INTELLIGENCE | Design and Analysis of Algorithms , Final 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Design & Analysis of Algorithms , Re-exam 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER | Design and Analysis of Algorithms Batch 2022-23,2023-24 Re Exam.pdf |

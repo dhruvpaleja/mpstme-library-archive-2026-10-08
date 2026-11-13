@@ -62,6 +62,69 @@ b. Discuss in detail the importance of Super frame structure along with its fram
 Yj
 ````
 
+## 2017-18 · Exam not stated · Sem 8 · paper 85477edabe87
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/NETWORK DESIGN AND PLANNING/Network_Design_and_planning_2015-16.pdf`
+- Printed on paper: max marks: 60; exam date: 28 June 2018
+- Text: ocr (1 page), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+
+Programme: MBA Tech (EXTC) Year: IV
+
+Batch: 2015-16 -
+
+Academic Year: 2017-2018 -
+
+Subject: Network Design and Planning -
+
+Marks: 60 :
+
+Date: 28 June 2018’ -Time: 2.00 pm - 5.00 pm °
+Durations: SHrs.
+No. of Pages : ol
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary,
+
+a) Explain Capacity planning. : (3)
+b) Explain in detail WiMax Forum. (3)
+c) Explain different types of Ethernet cables. (3)
+d) Explain the features of IPv6. (3)
+a) What are the different redundancy or protection methods in SDH? (6)
+b) Compare WiFi, WiMAX, and 3G. (6)
+a) Draw and explain Erbium doped fiber amplifier. *- (6)
+b) Explain the steps for Radio Frequency’Spectrum planning in case of GSM/CDMA (6)
+network.
+a) Draw and explain different types of Optical fiber cables. (6)
+b) Discuss the process of preparing network documentation. (6)
+a) Explain the concept of virtual LAN and also explain (a)frame filtering (b)frame tagging. (6)
+b) Discuss short term, mid-term and long term planning. (6)
+a) What is WAN traffic? Explain its types and flows. (6)
+b) Explain top down approach in detail with a neat sketch. (6)
+
+Vi
+````
+
 ## 2017-18 · Final-Exam · Sem 8 · paper fc8f736779f7
 
 - Departments: Electronics and Telecommunication
@@ -418,69 +481,6 @@ b. Short-term, mid-term and long-term planning. . 6
 6
 
 c. NGN migration strategies.
-
-Vi
-````
-
-## 2015-16 · Exam not stated · Sem 8 · paper 85477edabe87
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/NETWORK DESIGN AND PLANNING/Network_Design_and_planning_2015-16.pdf`
-- Printed on paper: max marks: 60; exam date: 28 June 2018
-- Text: ocr (1 page), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-
-Programme: MBA Tech (EXTC) Year: IV
-
-Batch: 2015-16 -
-
-Academic Year: 2017-2018 -
-
-Subject: Network Design and Planning -
-
-Marks: 60 :
-
-Date: 28 June 2018’ -Time: 2.00 pm - 5.00 pm °
-Durations: SHrs.
-No. of Pages : ol
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary,
-
-a) Explain Capacity planning. : (3)
-b) Explain in detail WiMax Forum. (3)
-c) Explain different types of Ethernet cables. (3)
-d) Explain the features of IPv6. (3)
-a) What are the different redundancy or protection methods in SDH? (6)
-b) Compare WiFi, WiMAX, and 3G. (6)
-a) Draw and explain Erbium doped fiber amplifier. *- (6)
-b) Explain the steps for Radio Frequency’Spectrum planning in case of GSM/CDMA (6)
-network.
-a) Draw and explain different types of Optical fiber cables. (6)
-b) Discuss the process of preparing network documentation. (6)
-a) Explain the concept of virtual LAN and also explain (a)frame filtering (b)frame tagging. (6)
-b) Discuss short term, mid-term and long term planning. (6)
-a) What is WAN traffic? Explain its types and flows. (6)
-b) Explain top down approach in detail with a neat sketch. (6)
 
 Vi
 ````

@@ -81,7 +81,7 @@ application of the Deployment diagram.
 ********** 2 **********
 ````
 
-## 2023-24 · Re-Exam · Sem 4 · paper 02df1d1ceaea
+## 2024-25 · Re-Exam · Sem 4 · paper 02df1d1ceaea
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -194,7 +194,7 @@ CO2,SO02,BL4
 2a
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 3a4f95052acc
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 3a4f95052acc
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -305,107 +305,7 @@ CO2,S02,BL4 | b | What is the purpose of testing? What are stubs and drives? Wit
 top-down and bottom-up approach followed in testing.
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 7043b8746ca8
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/SOFTWARE DESIGN WITH UML/Software Design with UML, Sem-IV, Year 2022-23, Final Exam & Re Exam.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&*
-Academic Year: 2022-2023
-
-Program/s: B.Tech CSBS Year: II Semester: _1V
-Stream/s : CSBS
-
-Subject: Software Design with UML Time: _03_ hrs (40:00qmto 1:00 Pm)
-Date:__25 / 04 / 2023 . No. of Pages:__02___
-
-Marks: 100
-
-Final Examination } Re- Examination .
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any _4___ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-CO-1;SO-; | @ Short note on software crises. 5
-BL-1
-o r SO-; | b. What are the goals of Unified modelling language? 5
-Bi SO-; c What is the difference between the access and import dependencies in a package diagram ? 5
-a SO-; | d. Short note on actor and elaborate the same with an example. 5
-* [20]
->
-Tae SOx 4. | Differentiate between waterfall model and spiral model.
-b. | Suppose you need to make a software in which when the user confirms order and confirmation need
-
-CO-2; SO-; the confirmation depends upon the product selection, calculation of price with tax and payment.
-
-BL- 6 Payment can be through PayPal or credit card. Draw the use case diagram.
-
-e (20]
-CO-4; SO-; a. | Explain the major difference between Sequence diagram and Collaboration diagram? Design
-
-BL-3 collaboration diagram for Library Management system.
-
-b. | Discuss the following with respect to state transition diagram
-. . a. Event
-€0-3,80-; b. State
-BL-1 c. Transition
-d. Fork
-
-e. Join
---- page 2 ---
-Q4
-
-[20]
-t
-ee SO-; Illustrate the applications and advantages of using Distributed systems.
-ae SO-; Draw a deployment diagram to show the working of a webserver.
-Q5
-[20]
-CO- 3; SO- Discuss the difference between Aggregation and Composition with respect to class diagram?
-;BL-3 Design a class diagram for a food ordering system
-Many people have cats. Suppose you want to develop software enabling them to keep track the
-location of their cats; give a use case diagram modeling this software. In this example, just decide by
-CO-2; SO- yourself what you want from this software.
-;BL-6 (a) What is the main purpose of use case modeling?
-(b) Give few examples of non-functional requirements that could be sensible for this software.
-How do you position use-case modeling with respect to such requirements?
-Q6 :
-[20]
-CO-3; SO-; Identify the various objects and illustrate with the help of sequence diagram the process of a
-BL-2 customer booking a cab to pick up from source A to drop at destination B using OLA.
-CO-4; SO-; For an OTT platform draw appropriate component diagram representing the following
-BL-6 functionalities: login, Sign-in, search video, watch video, download video.
-Q7
-[20]
-CO-2; $O-; Classify the relationships in use case diagram with an appropriate example. Also explain when to
-BL-2 use a use case diagram.
-7 3% What is UML database modelling
-
-S
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper 9dc1c99ac2f2
+## 2023-24 · Re-Exam · Sem 4 · paper 9dc1c99ac2f2
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -510,6 +410,106 @@ b | What are the key differences between a stub and a driver? What is the purpos
 
 CO2,SO02,BL3 cases in software testing? Explain with an example of “login on a webpage” as an
 example.
+````
+
+## 2022-23 · Final + Re-Exam · Sem 4 · paper 7043b8746ca8
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/SOFTWARE DESIGN WITH UML/Software Design with UML, Sem-IV, Year 2022-23, Final Exam & Re Exam.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&*
+Academic Year: 2022-2023
+
+Program/s: B.Tech CSBS Year: II Semester: _1V
+Stream/s : CSBS
+
+Subject: Software Design with UML Time: _03_ hrs (40:00qmto 1:00 Pm)
+Date:__25 / 04 / 2023 . No. of Pages:__02___
+
+Marks: 100
+
+Final Examination } Re- Examination .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any _4___ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+CO-1;SO-; | @ Short note on software crises. 5
+BL-1
+o r SO-; | b. What are the goals of Unified modelling language? 5
+Bi SO-; c What is the difference between the access and import dependencies in a package diagram ? 5
+a SO-; | d. Short note on actor and elaborate the same with an example. 5
+* [20]
+>
+Tae SOx 4. | Differentiate between waterfall model and spiral model.
+b. | Suppose you need to make a software in which when the user confirms order and confirmation need
+
+CO-2; SO-; the confirmation depends upon the product selection, calculation of price with tax and payment.
+
+BL- 6 Payment can be through PayPal or credit card. Draw the use case diagram.
+
+e (20]
+CO-4; SO-; a. | Explain the major difference between Sequence diagram and Collaboration diagram? Design
+
+BL-3 collaboration diagram for Library Management system.
+
+b. | Discuss the following with respect to state transition diagram
+. . a. Event
+€0-3,80-; b. State
+BL-1 c. Transition
+d. Fork
+
+e. Join
+--- page 2 ---
+Q4
+
+[20]
+t
+ee SO-; Illustrate the applications and advantages of using Distributed systems.
+ae SO-; Draw a deployment diagram to show the working of a webserver.
+Q5
+[20]
+CO- 3; SO- Discuss the difference between Aggregation and Composition with respect to class diagram?
+;BL-3 Design a class diagram for a food ordering system
+Many people have cats. Suppose you want to develop software enabling them to keep track the
+location of their cats; give a use case diagram modeling this software. In this example, just decide by
+CO-2; SO- yourself what you want from this software.
+;BL-6 (a) What is the main purpose of use case modeling?
+(b) Give few examples of non-functional requirements that could be sensible for this software.
+How do you position use-case modeling with respect to such requirements?
+Q6 :
+[20]
+CO-3; SO-; Identify the various objects and illustrate with the help of sequence diagram the process of a
+BL-2 customer booking a cab to pick up from source A to drop at destination B using OLA.
+CO-4; SO-; For an OTT platform draw appropriate component diagram representing the following
+BL-6 functionalities: login, Sign-in, search video, watch video, download video.
+Q7
+[20]
+CO-2; $O-; Classify the relationships in use case diagram with an appropriate example. Also explain when to
+BL-2 use a use case diagram.
+7 3% What is UML database modelling
+
+S
 ````
 
 ## 2021-22 · Final-Exam · Sem 4 · paper f0698b1c1fda

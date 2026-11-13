@@ -1,6 +1,6 @@
 # Sensors and Transducers: question papers in full
 
-2 unique papers · 2022 to 2023-24 · Mechanical
+2 unique papers · 2022-23 to 2023-24 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -176,7 +176,7 @@ BL-5 gauge
 statement and describe Spiral-type Bourdon element based pressure [08]
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper de48ff5fbdb4
+## 2022-23 · Final-Exam · Sem 9 · paper de48ff5fbdb4
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL

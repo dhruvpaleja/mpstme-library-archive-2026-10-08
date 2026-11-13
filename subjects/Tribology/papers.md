@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VIII SEMESTER/TRIBIOLOGY/Tribology , Final exam 20181-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 17 April 2019
 - Text: ocr (4 pages), mean OCR confidence 82.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -148,7 +149,6 @@ Dvanreter a e
 
 steps Et
 
-ae ai] s ge 40 fi eo 6 7 & 9
 over to 2s es es et
 
 0 3 —20 ~34 is —6() 8) ~14 | -—20 —24 ~28 39

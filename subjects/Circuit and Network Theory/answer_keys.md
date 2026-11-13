@@ -208,6 +208,7 @@ BL-1
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_EXTC_7006/Circuit and Network Theory/ANS_Circuit and Network Theory(702EX0C030)_2025-2026_afcdc69dd1.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (8 pages), mean OCR confidence 69.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -302,7 +303,6 @@ the numerator and denominator polynomials in ascending
 
 219-6
 
-tooo poo mne vaca
 
 The impedances are connected in the series branches whereas the
 admittances are connected in the parallel branches in a Cauer oF
@@ -319,7 +319,6 @@ vo)
 Solution At/=0° the network is shown in Fig. 6139,
 a Fig. 6.139
 At1=0° the 6.140, 2
-Atr=0% thee 3 source ofS V :
 Ho'y= 50-1254 ae ) ea Smoy
 Ko") = )
 

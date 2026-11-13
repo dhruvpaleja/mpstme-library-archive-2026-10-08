@@ -1,6 +1,6 @@
 # Nutrition for Health: question papers in full
 
-38 unique papers · 2023-24 to 2025-26 · Computer Engineering, Artificial Intelligence, Data Science, Common (all branches), Cyber Security, Information Technology, Electronics and Telecommunication, Mechatronics, Civil, AI and Machine Learning, Mechanical, Computer Science, Computer Science and Business Systems
+38 unique papers · 2022-23 to 2025-26 · Computer Engineering, Artificial Intelligence, Data Science, Common (all branches), Cyber Security, Information Technology, Electronics and Telecommunication, Mechatronics, Civil, AI and Machine Learning, Mechanical, Computer Science, Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1927,7 +1927,7 @@ b. | Discuss the factors effecting meal planning and food related behavior
 i=. [10]
 ````
 
-## Year not stated · Exam not stated · Sem 6 · paper aea772eab346
+## 2022-23 · Exam not stated · Sem 6 · paper aea772eab346
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH

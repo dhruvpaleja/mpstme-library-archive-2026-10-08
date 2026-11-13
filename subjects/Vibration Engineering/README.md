@@ -14,13 +14,13 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Vibration Engineering(702ME0E016)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Vibration Engineering(702ME0E016)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechanical 7003 | QP_Vibration Engineering(702ME0E016)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Mechanical 7031 | QP_Vibration Engineering(702ME0E016)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Vibration Engineering(702ME0E016)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Vibration Engineering(702ME0E016)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Vibration Engineering(702ME0E016)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 10 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Vibration Engineering Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Mechanical 7003 | QP_Vibration Engineering(702ME0E016)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Vibration Engineering(702ME0E016)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / MECHANICAL | Vibration Engineering, Sem-VI, Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / MECHANICAL | Vibration Engineering Batch 2024-25 Final.pdf |
 | 2018-19 | Final + Re-Exam | Question paper | Sem 5 | MBA TECH / MECHANICAL | Vibration engineering , Final 2016-20,Re-exam 18-19.pdf |

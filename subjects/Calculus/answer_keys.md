@@ -8,6 +8,8 @@ Answer keys and model answers published on the portal, newest first.
 - Programmes: BTech AIDS 7056, BTech AIML 7053, BTech Computer 7002, BTech CS 7055, BTech CSE DS 7057, BTech DS 7009, BTech EXTC 7006, BTech Mechanical 7003, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_AIDS_7056/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf` (+11 identical copies)
 - Text: mixed (17 pages), mean OCR confidence 54.2
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 Q1   Answer briefly:
@@ -53,7 +55,6 @@ FRG 2 RAG OK Rk
 ‘O-
 aA © | ig f=(4e)i+(O0?)7+(92')k, find div f and curl f at (1,2,1).
 
-FIO IO IK 3 I aC ak kf
 --- page 4 ---
 The Wi-Fi signal strength inside an office building is modelled by the function
 𝑆(𝑥, 𝑦, 𝑧) = −2𝑥ଶ−𝑦ଶ−3𝑧ଶ+ 8𝑥+ 6𝑦+ 12𝑧+ 40 , where 𝑥 and 𝑦 are horizontal
@@ -384,7 +385,6 @@ ARR RACK | RAR OK RK
 \ { is
 Sin} The Ucluivt of rtgton RI given et | Sl The vole Of AGOn Ris given by
 
-Ve 446 dv CI) =~ Y= IN) av
 : wane ‘ js we region bounded by
 
 poxebolorl attyt=* § toy
@@ -394,7 +394,6 @@ polit a is Yo aun banda He
 
 Perabeleid Ktar=z h Zt. {1 M) i
 abel) q = % eles { sage] /)
-Changing to Cylinel aia Coredintches 28 ey! a
 
 Kea TP Yo rin wz 7 y
 
@@ -412,11 +411,9 @@ fe ENA pat te to ar2lt
 Bet eal i * *
 aK 4 dt= ade @ des Edt
 & 2 de — (im) “8 ee"
-| \3 NE) drdo (| eas Foote ~ a sute-b't dt - ()
 = PE (Eyer) Arde gSeendt§
 
 1 1 ! /\
-heat + (ym) = u(spegy as tye tae “pha YU
 ‘Ee Laceateas
 
 Wa
@@ -505,7 +502,6 @@ Soy xP o
 Pah © + Pah G —_. Gin
 ss limit does not ents} — (1)
 
-AR AR RAR | 7 RR OK RK
 ````
 
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper ccc18ee044ea
@@ -515,6 +511,8 @@ AR AR RAR | 7 RR OK RK
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_AI_7012/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: mixed (16 pages), mean OCR confidence 55.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -855,10 +853,8 @@ BL-3 z=4.
 
 FIR ICR 7] QI HO
 --- page 14 ---
-Sin; Tre ucla ef rtgion RIS green
 ve sf av cp
 
-tobint ki is Poe regen bends by fe
 
 Perabaleid wotyt=z kh cat. —{1M)
 
@@ -877,7 +873,6 @@ vs | \* Vazide de —(™)
 ®=0 7
 TeOrgae
 
-TPE (2 vay t arae — lim)
 - igh ng r(4-17) drde
 : \*r [ = at uae — am
 
@@ -970,6 +965,8 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_CSBS_7036/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (17 pages), mean OCR confidence 51.8
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1053,7 +1050,6 @@ ACR 2 rok GR OK Rk
 Cco-
 pea [© [If f=(4x*)i+ (Oxy?) 7+(xy2")k, find div f and curl f at (1,2,1).
 
-FO IO II (3 ACI a I Gk 4k
 --- page 4 ---
 The Wi-Fi signal strength inside an office building is modelled by the function
 𝑆(𝑥, 𝑦, 𝑧) = −2𝑥ଶ−𝑦ଶ−3𝑧ଶ+ 8𝑥+ 6𝑦+ 12𝑧+ 40 , where 𝑥 and 𝑦 are horizontal
@@ -1387,13 +1383,11 @@ BL-3 z=4.
 
 FRAGA ACK 7 7 ORR OK KK
 --- page 15 ---
-Sin} The Uclumat of Hgtor Ris tyren
 Ve 46 dv —C)
 R
 tolunt al We reauin banda He
 Parabel aid Wtgiez hd z-4. —{1M)
 
-art | Seln Tre volure of 9% ks giver by
 
 Ve WS) dv
 R
@@ -1404,12 +1398,9 @@ porebslorl ateyt=* fo tem
 Tee
 
 x aaa 7 dds] /) :)
-Changing to Cylinel aia Coredineches , , U v
-X= TWP Y>ranO zz ye sate ory Tl
 Ainiets, feote tar °°
 Oco fp Oe an Fe {Vato = sta yi 1 ge
 Tetdor-t (1M) OR t #1, i
-Myo dvz dhe dey de = wdy dv dd =f a (Tey - Jot Dead - a5 @)
 Gaon Ci 2 ae ve ead 4
 Bg TT eats j (= BY de 2 fistegt ye “Bi esy ad
 . i | tdzidy do —(in")
@@ -1423,7 +1414,6 @@ dts 2dxo de t dt
 ments va) * drde — (Im) ,
 > xy
 
-sags ponte mat - a seeccpie” at - 0
 ‘ Sg Sa gotta
 = PE (> yr) arte pies
 : u (sped) 85 emu-eyae “15 3)) )
@@ -1433,7 +1423,6 @@ lo < * > 4fs al, -3 (3:3) fees
 ie - oO: 6 S i
 \, (B-+)a8 = 4(0) = Ux Setar - tifa wi Marr
 —— ss = gM wbic'd =
-velume [Ve Ox tuba units | — (im . y sna _
 
 CO-4;
 BL-2
@@ -1497,7 +1486,6 @@ a Given Puncim tt nor don hnuoud — (im)
 ii) Evaluate the following lim = 2—*_.
 (x,y) (0,0) y+x
 
-FRAO ACR AGR 7] 6 AOR OK OK KK
 --- page 17 ---
 Path) !- lim Ve lim yd ) — Tm)
 Cay (90) $498 TOPs
@@ -1509,7 +1497,6 @@ Soy XPo
 Pan ® + Pah G —_ Gin
 vs Smit does not eatsp — (1)
 
-ACR ACR ACR AG | 7 ORR OK KK
 ````
 
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper d7486f38e049
@@ -1519,6 +1506,8 @@ ACR ACR ACR AG | 7 ORR OK KK
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_CSBS_7036/Calculus/ANS_Calculus(702BS0C001)_2025-2026_d7486f38e0.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: mixed (16 pages), mean OCR confidence 55.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1859,10 +1848,8 @@ BL-3 z=4.
 
 FIR ICR 7] QI HO
 --- page 14 ---
-Sin; Tre ucla ef rtgion RIS green
 ve sf av cp
 
-tobint ki is Poe regen bends by fe
 
 Perabaleid wotyt=z kh cat. —{1M)
 
@@ -1881,7 +1868,6 @@ vs | \* Vazide de —(™)
 ®=0 7
 TeOrgae
 
-TPE (2 vay t arae — lim)
 - igh ng r(4-17) drde
 : \*r [ = at uae — am
 
@@ -1974,6 +1960,8 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_EXTC_7006/Calculus/ANS_Calculus(702BS0C001)_2025-2026_e10eff2f54.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: mixed (16 pages), mean OCR confidence 55.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2314,10 +2302,8 @@ BL-3 z=4.
 
 FIR ICR 7] QI HO
 --- page 14 ---
-Sin; Tre ucla ef rtgion RIS green
 ve sf av cp
 
-tobint ki is Poe regen bends by fe
 
 Perabaleid wotyt=z kh cat. —{1M)
 
@@ -2336,7 +2322,6 @@ vs | \* Vazide de —(™)
 ®=0 7
 TeOrgae
 
-TPE (2 vay t arae — lim)
 - igh ng r(4-17) drde
 : \*r [ = at uae — am
 
@@ -2429,6 +2414,8 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/MBATech_DS_7052/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: mixed (16 pages), mean OCR confidence 55.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2769,10 +2756,8 @@ BL-3 z=4.
 
 FIR ICR 7] QI HO
 --- page 14 ---
-Sin; Tre ucla ef rtgion RIS green
 ve sf av cp
 
-tobint ki is Poe regen bends by fe
 
 Perabaleid wotyt=z kh cat. —{1M)
 
@@ -2791,7 +2776,6 @@ vs | \* Vazide de —(™)
 ®=0 7
 TeOrgae
 
-TPE (2 vay t arae — lim)
 - igh ng r(4-17) drde
 : \*r [ = at uae — am
 
@@ -2883,6 +2867,8 @@ FRR ICR 7 6 AC OH
 - Programmes: Integrated Computer 7032, Integrated Mechanical 7031
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/Integrated_Computer_7032/Calculus/ANS_Calculus(701BS0C029)_2025-2026.pdf` (+1 identical copies)
 - Text: mixed (17 pages), mean OCR confidence 54.2
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 Q1   Answer briefly:
@@ -2928,7 +2914,6 @@ FRG 2 RAG OK Rk
 ‘O-
 aA © | ig f=(4e)i+(O0?)7+(92')k, find div f and curl f at (1,2,1).
 
-FIO IO IK 3 I aC ak kf
 --- page 4 ---
 The Wi-Fi signal strength inside an office building is modelled by the function
 𝑆(𝑥, 𝑦, 𝑧) = −2𝑥ଶ−𝑦ଶ−3𝑧ଶ+ 8𝑥+ 6𝑦+ 12𝑧+ 40 , where 𝑥 and 𝑦 are horizontal
@@ -3259,7 +3244,6 @@ ARR RACK | RAR OK RK
 \ { is
 Sin} The Ucluivt of rtgton RI given et | Sl The vole Of AGOn Ris given by
 
-Ve 446 dv CI) =~ Y= IN) av
 : wane ‘ js we region bounded by
 
 poxebolorl attyt=* § toy
@@ -3269,7 +3253,6 @@ polit a is Yo aun banda He
 
 Perabeleid Ktar=z h Zt. {1 M) i
 abel) q = % eles { sage] /)
-Changing to Cylinel aia Coredintches 28 ey! a
 
 Kea TP Yo rin wz 7 y
 
@@ -3287,11 +3270,9 @@ fe ENA pat te to ar2lt
 Bet eal i * *
 aK 4 dt= ade @ des Edt
 & 2 de — (im) “8 ee"
-| \3 NE) drdo (| eas Foote ~ a sute-b't dt - ()
 = PE (Eyer) Arde gSeendt§
 
 1 1 ! /\
-heat + (ym) = u(spegy as tye tae “pha YU
 ‘Ee Laceateas
 
 Wa
@@ -3380,7 +3361,6 @@ Soy xP o
 Pah © + Pah G —_. Gin
 ss limit does not ents} — (1)
 
-AR AR RAR | 7 RR OK RK
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper d4d49ffa0981
@@ -3390,6 +3370,8 @@ AR AR RAR | 7 RR OK RK
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_AIDS_7056/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.6
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3445,7 +3427,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -3756,7 +3737,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -3790,7 +3770,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -3860,12 +3839,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -3962,6 +3939,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_AIML_7053/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4017,7 +3996,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -4294,7 +4272,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -4328,7 +4305,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -4398,12 +4374,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -4500,6 +4474,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_AI_7012/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4555,7 +4531,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -4832,7 +4807,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -4866,7 +4840,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -4936,12 +4909,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -5038,6 +5009,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_CSBS_7036/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5093,7 +5066,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -5370,7 +5342,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -5404,7 +5375,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -5474,12 +5444,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -5576,6 +5544,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_CSE_DS_7057/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5631,7 +5601,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -5908,7 +5877,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -5942,7 +5910,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -6012,12 +5979,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -6114,6 +6079,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_CS_7055/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6169,7 +6136,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -6446,7 +6412,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -6480,7 +6445,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -6550,12 +6514,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -6652,6 +6614,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_Civil_7005/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6707,7 +6671,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -6984,7 +6947,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -7018,7 +6980,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -7088,12 +7049,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -7190,6 +7149,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_CyberSecurity_7010/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7245,7 +7206,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -7522,7 +7482,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -7556,7 +7515,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -7626,12 +7584,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -7728,6 +7684,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_DS_7009/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7783,7 +7741,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -8060,7 +8017,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -8094,7 +8050,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -8164,12 +8119,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -8266,6 +8219,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_EXTC_7006/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -8321,7 +8276,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -8598,7 +8552,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -8632,7 +8585,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -8702,12 +8654,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -8804,6 +8754,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_IT_7001/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -8859,7 +8811,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -9136,7 +9087,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -9170,7 +9120,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -9240,12 +9189,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -9342,6 +9289,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_Mechanical_7003/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -9397,7 +9346,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -9674,7 +9622,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -9708,7 +9655,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -9778,12 +9724,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -9880,6 +9824,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_Mechatronics_7004/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -9935,7 +9881,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -10212,7 +10157,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -10246,7 +10190,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -10316,12 +10259,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -10418,6 +10359,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/MBATech_AI_7051/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -10473,7 +10416,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -10750,7 +10692,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -10784,7 +10725,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -10854,12 +10794,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -10956,6 +10894,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/MBATech_DS_7052/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -11011,7 +10951,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -11288,7 +11227,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -11322,7 +11260,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -11392,12 +11329,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -11494,6 +11429,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/MBATech_IT_7041/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -11549,7 +11486,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -11826,7 +11762,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -11860,7 +11795,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -11930,12 +11864,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -12032,6 +11964,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/Integrated_Computer_7032/Calculus/ANS_Calculus(701BS0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.6
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -12364,7 +12298,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -12398,7 +12331,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -12468,7 +12400,6 @@ ve (" - i- Az dude — (im)
 
 \ Cc (Ors dy doa —UM)
 
-z ha 1 aang) ay de o dey
 
 f! (way dx 0M) = ‘aan
 
@@ -12565,6 +12496,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/Integrated_DS_7038/Calculus/ANS_Calculus(701BS0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -12620,7 +12553,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -12897,7 +12829,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -12931,7 +12862,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -13001,12 +12931,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -13103,6 +13031,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/Integrated_IT_7037/Calculus/ANS_Calculus(701BS0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -13158,7 +13088,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -13435,7 +13364,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -13469,7 +13397,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -13539,12 +13466,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -13641,6 +13566,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/Integrated_Mechanical_7031/Calculus/ANS_Calculus(701BS0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (17 pages), mean OCR confidence 52.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -13696,7 +13623,6 @@ Let | = [x°(1-x2)!2dx y
 0 * ° .
 1
 1
-co =[y*(1-y)'"* dy rm LY ie ft
 ; aly a
 gos fe | tbe mm
 “ay yr
@@ -13973,7 +13899,6 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 a J ax eae
 , = \ wees
-t= ( ( Bl yeeeye Ay qx Bi De®
 
 \ a
 
@@ -14007,7 +13932,6 @@ FRI ICR 7 FI OH
 --- page 12 ---
 6>@ Evaluate ({@2497) dusty over Ihe aver
 
-a We {riongle whose verbces ave (0!),
 (it), (18)-
 Sol :-
 ~~" (tr) dudy ,
@@ -14077,12 +14001,10 @@ ve (" - i- Az dude — (im)
 
 TA 8 ay de tur
 
-z ha 1 aang) ay de o dey
 ds (way AX Aimy) . 1 (-04t)
 
 co]
 
-jot rthwy—bChay fda | Fe __fimy
 
 f(t. = {Wine z
 \ (verry thy" du Volum, V’ +
@@ -14179,6 +14101,7 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_AIDS_7056/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -14360,7 +14283,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -14475,21 +14397,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -14512,7 +14430,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -14703,6 +14620,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_AIML_7053/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -14884,7 +14802,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -14999,21 +14916,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -15036,7 +14949,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -15227,6 +15139,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_AI_7012/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -15408,7 +15321,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -15523,21 +15435,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -15560,7 +15468,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -15751,6 +15658,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CSE_DS_7057/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -15932,7 +15840,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -16047,21 +15954,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -16084,7 +15987,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -16275,6 +16177,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CS_7055/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -16456,7 +16359,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -16571,21 +16473,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -16608,7 +16506,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -16799,6 +16696,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_Civil_7005/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -16980,7 +16878,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -17095,21 +16992,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -17132,7 +17025,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -17323,6 +17215,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_Computer_7002/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -17504,7 +17397,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -17619,21 +17511,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -17656,7 +17544,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -17847,6 +17734,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CyberSecurity_7010/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -18028,7 +17916,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -18143,21 +18030,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -18180,7 +18063,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -18371,6 +18253,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_DS_7009/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -18552,7 +18435,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -18667,21 +18549,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -18704,7 +18582,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -18895,6 +18772,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_EXTC_7006/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -19076,7 +18954,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -19191,21 +19068,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -19228,7 +19101,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -19419,6 +19291,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_IT_7001/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -19600,7 +19473,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -19715,21 +19587,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -19752,7 +19620,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -19943,6 +19810,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_Mechanical_7003/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -20124,7 +19992,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -20239,21 +20106,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -20276,7 +20139,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -20467,6 +20329,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_Mechatronics_7004/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -20648,7 +20511,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -20763,21 +20625,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -20800,7 +20658,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -20991,6 +20848,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_AI_7051/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -21172,7 +21030,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -21287,21 +21144,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -21324,7 +21177,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -21515,6 +21367,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_Computer_7047/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -21696,7 +21549,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -21811,21 +21663,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -21848,7 +21696,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -22039,6 +21886,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_DS_7052/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -22220,7 +22068,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -22335,21 +22182,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -22372,7 +22215,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -22563,6 +22405,7 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_IT_7041/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2024
 - Text: mixed (23 pages), mean OCR confidence 67.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -22744,7 +22587,6 @@ Silubon : le oe. ifr pf
 
 r/e fv
 = Vr Vp i :
-ie fo 20.0 a" i ho” 9 ls "4 Ig
 
 D
 '
@@ -22859,21 +22701,17 @@ Page 12 of 23
 Page 13 of 23
 
 : 2,2
-kt A= zy” , B= az , C= Za
 tz
 oA = 2% , BB = 25 ,BG= 2% |
 3A ee TA
 —2 = ;
-a J, Or Ox — im)
 Now Wr £(A BC) esp
-ox ah O% OB. ai :
 )
 au
 U agen. 2X Fe
 oe d - g ou 2+ C1) _——(r's™)
 x 9 ; a sy of, +2u.26
 , Q
-a 7 a4. oa t 88 ag at |
 a ‘
 = — 24 au, +29 a6
 — Urs
@@ -22896,7 +22734,6 @@ fin
 ~ qe cage = Gm)
 oe dye ukdt ;
 eo ek
-2 Ty a f te tdk — Gy
 
 © ‘ 84
 = 2 ée*. & dt
@@ -23087,6 +22924,8 @@ Page 23 of 23
 - Source: `02_Question_Papers/2024/Sem_05/Final-Exam/Integrated_Computer_7032/Calculus/ANS_Calculus(701BS0C029)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Dec 2024
 - Text: mixed (22 pages), mean OCR confidence 47.5
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -23173,7 +23012,6 @@ taf Y) _ ; (oO
 iy 8 (eT ODNOD= O_o,
 we gx =i, @% b= 2 .
 — —3y- + an —442, RE
-. F a arn a “gt od . »
 cp = v¢ —(01
 fa) “+ 2yths =D pe ar ryth 3g d™
 on - a? pied TADS
@@ -23183,7 +23021,6 @@ J e - 84° - +o
 a i a
 
 o% Bib beg —Y3T3 FG
-‘tk Ss HD kY AH -3 2 op 22 €
 p zr d ; = - ty
 
 [7]
@@ -23248,7 +23085,6 @@ FIC QF EH 1
 
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-© QA) (ce a cs any c + Sry J AP =ANE cdyftclsle.
 C
 
 =: 9 ee FB
@@ -23283,7 +23119,6 @@ RK KKK RK KK 12 2h KKK RK Kk KK
 
 >
 R —(0'?
-R = yim t 2m a by =) y= me
 x, 0 © 4fo1d yan? Foam
 fe m4 =6¢
 4 2su n= 4474
@@ -23335,7 +23170,6 @@ oO
 ~ a (ME gives d co 830 ole
 °
 
-ox Ae ks BBY of > dt
 put 302+ OF & > dle a
 
 ene ©
@@ -23379,7 +23213,6 @@ e Ag dy dx
 LP Lee at
 
 * +
-: ‘ad J Je. en oly A>
 , re
 
 0 i)
@@ -23423,7 +23256,6 @@ eden at Je a dx
 Ba
 sam S ava yas dx
 
-= ATT Va i- \V Kh dz
 
 0
 3
@@ -23459,7 +23291,6 @@ Me 4? 2Hy saat idee
 eM - — or BN. = olny
 “y d "e?
 SS 2-28 dndy dry ray HA yr ty 2
-on ey y= J (te d i
 2 d’ —(0')
 2 raat + dxy ) ry ol
 as F (s fits” 4.5
@@ -23505,10 +23336,8 @@ d x ati Aes: «
 In Ry DACD, 22 Yy-2T
 _ “ ,d bee: Fs e
 2; t= ce Ay dm
-i i Ay a =f i s J —fov)
 oe] y-2 -3 ad
 4 2
-= i 5- y+? Ay + j B=a+y ag
 >
 ae
 
@@ -23528,6 +23357,8 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2024/Sem_05/Final-Exam/Integrated_DS_7038/Calculus/ANS_Calculus(701BS0C029)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Dec 2024
 - Text: mixed (22 pages), mean OCR confidence 47.5
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -23614,7 +23445,6 @@ taf Y) _ ; (oO
 iy 8 (eT ODNOD= O_o,
 we gx =i, @% b= 2 .
 — —3y- + an —442, RE
-. F a arn a “gt od . »
 cp = v¢ —(01
 fa) “+ 2yths =D pe ar ryth 3g d™
 on - a? pied TADS
@@ -23624,7 +23454,6 @@ J e - 84° - +o
 a i a
 
 o% Bib beg —Y3T3 FG
-‘tk Ss HD kY AH -3 2 op 22 €
 p zr d ; = - ty
 
 [7]
@@ -23689,7 +23518,6 @@ FIC QF EH 1
 
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-© QA) (ce a cs any c + Sry J AP =ANE cdyftclsle.
 C
 
 =: 9 ee FB
@@ -23724,7 +23552,6 @@ RK KKK RK KK 12 2h KKK RK Kk KK
 
 >
 R —(0'?
-R = yim t 2m a by =) y= me
 x, 0 © 4fo1d yan? Foam
 fe m4 =6¢
 4 2su n= 4474
@@ -23776,7 +23603,6 @@ oO
 ~ a (ME gives d co 830 ole
 °
 
-ox Ae ks BBY of > dt
 put 302+ OF & > dle a
 
 ene ©
@@ -23820,7 +23646,6 @@ e Ag dy dx
 LP Lee at
 
 * +
-: ‘ad J Je. en oly A>
 , re
 
 0 i)
@@ -23864,7 +23689,6 @@ eden at Je a dx
 Ba
 sam S ava yas dx
 
-= ATT Va i- \V Kh dz
 
 0
 3
@@ -23900,7 +23724,6 @@ Me 4? 2Hy saat idee
 eM - — or BN. = olny
 “y d "e?
 SS 2-28 dndy dry ray HA yr ty 2
-on ey y= J (te d i
 2 d’ —(0')
 2 raat + dxy ) ry ol
 as F (s fits” 4.5
@@ -23946,10 +23769,8 @@ d x ati Aes: «
 In Ry DACD, 22 Yy-2T
 _ “ ,d bee: Fs e
 2; t= ce Ay dm
-i i Ay a =f i s J —fov)
 oe] y-2 -3 ad
 4 2
-= i 5- y+? Ay + j B=a+y ag
 >
 ae
 
@@ -23969,6 +23790,8 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2024/Sem_05/Final-Exam/Integrated_IT_7037/Calculus/ANS_Calculus(701BS0C029)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Dec 2024
 - Text: mixed (22 pages), mean OCR confidence 47.5
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -24055,7 +23878,6 @@ taf Y) _ ; (oO
 iy 8 (eT ODNOD= O_o,
 we gx =i, @% b= 2 .
 — —3y- + an —442, RE
-. F a arn a “gt od . »
 cp = v¢ —(01
 fa) “+ 2yths =D pe ar ryth 3g d™
 on - a? pied TADS
@@ -24065,7 +23887,6 @@ J e - 84° - +o
 a i a
 
 o% Bib beg —Y3T3 FG
-‘tk Ss HD kY AH -3 2 op 22 €
 p zr d ; = - ty
 
 [7]
@@ -24130,7 +23951,6 @@ FIC QF EH 1
 
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-© QA) (ce a cs any c + Sry J AP =ANE cdyftclsle.
 C
 
 =: 9 ee FB
@@ -24165,7 +23985,6 @@ RK KKK RK KK 12 2h KKK RK Kk KK
 
 >
 R —(0'?
-R = yim t 2m a by =) y= me
 x, 0 © 4fo1d yan? Foam
 fe m4 =6¢
 4 2su n= 4474
@@ -24217,7 +24036,6 @@ oO
 ~ a (ME gives d co 830 ole
 °
 
-ox Ae ks BBY of > dt
 put 302+ OF & > dle a
 
 ene ©
@@ -24261,7 +24079,6 @@ e Ag dy dx
 LP Lee at
 
 * +
-: ‘ad J Je. en oly A>
 , re
 
 0 i)
@@ -24305,7 +24122,6 @@ eden at Je a dx
 Ba
 sam S ava yas dx
 
-= ATT Va i- \V Kh dz
 
 0
 3
@@ -24341,7 +24157,6 @@ Me 4? 2Hy saat idee
 eM - — or BN. = olny
 “y d "e?
 SS 2-28 dndy dry ray HA yr ty 2
-on ey y= J (te d i
 2 d’ —(0')
 2 raat + dxy ) ry ol
 as F (s fits” 4.5
@@ -24387,10 +24202,8 @@ d x ati Aes: «
 In Ry DACD, 22 Yy-2T
 _ “ ,d bee: Fs e
 2; t= ce Ay dm
-i i Ay a =f i s J —fov)
 oe] y-2 -3 ad
 4 2
-= i 5- y+? Ay + j B=a+y ag
 >
 ae
 
@@ -24410,6 +24223,8 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2024/Sem_05/Final-Exam/Integrated_Mechanical_7031/Calculus/ANS_Calculus(701BS0C029)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Dec 2024
 - Text: mixed (22 pages), mean OCR confidence 47.5
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -24496,7 +24311,6 @@ taf Y) _ ; (oO
 iy 8 (eT ODNOD= O_o,
 we gx =i, @% b= 2 .
 — —3y- + an —442, RE
-. F a arn a “gt od . »
 cp = v¢ —(01
 fa) “+ 2yths =D pe ar ryth 3g d™
 on - a? pied TADS
@@ -24506,7 +24320,6 @@ J e - 84° - +o
 a i a
 
 o% Bib beg —Y3T3 FG
-‘tk Ss HD kY AH -3 2 op 22 €
 p zr d ; = - ty
 
 [7]
@@ -24571,7 +24384,6 @@ FIC QF EH 1
 
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-© QA) (ce a cs any c + Sry J AP =ANE cdyftclsle.
 C
 
 =: 9 ee FB
@@ -24606,7 +24418,6 @@ RK KKK RK KK 12 2h KKK RK Kk KK
 
 >
 R —(0'?
-R = yim t 2m a by =) y= me
 x, 0 © 4fo1d yan? Foam
 fe m4 =6¢
 4 2su n= 4474
@@ -24658,7 +24469,6 @@ oO
 ~ a (ME gives d co 830 ole
 °
 
-ox Ae ks BBY of > dt
 put 302+ OF & > dle a
 
 ene ©
@@ -24702,7 +24512,6 @@ e Ag dy dx
 LP Lee at
 
 * +
-: ‘ad J Je. en oly A>
 , re
 
 0 i)
@@ -24746,7 +24555,6 @@ eden at Je a dx
 Ba
 sam S ava yas dx
 
-= ATT Va i- \V Kh dz
 
 0
 3
@@ -24782,7 +24590,6 @@ Me 4? 2Hy saat idee
 eM - — or BN. = olny
 “y d "e?
 SS 2-28 dndy dry ray HA yr ty 2
-on ey y= J (te d i
 2 d’ —(0')
 2 raat + dxy ) ry ol
 as F (s fits” 4.5
@@ -24828,10 +24635,8 @@ d x ati Aes: «
 In Ry DACD, 22 Yy-2T
 _ “ ,d bee: Fs e
 2; t= ce Ay dm
-i i Ay a =f i s J —fov)
 oe] y-2 -3 ad
 4 2
-= i 5- y+? Ay + j B=a+y ag
 >
 ae
 
@@ -24851,6 +24656,7 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_AIDS_7056/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -24889,7 +24695,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -24980,7 +24785,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -24988,12 +24792,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -25030,7 +24831,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -25065,7 +24865,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -25143,7 +24942,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -25179,7 +24977,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -25198,7 +24995,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -25255,7 +25051,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -25358,7 +25153,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -25394,7 +25188,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -25430,13 +25223,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -25464,6 +25254,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_AIML_7053/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -25502,7 +25293,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -25593,7 +25383,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -25601,12 +25390,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -25643,7 +25429,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -25678,7 +25463,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -25756,7 +25540,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -25792,7 +25575,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -25811,7 +25593,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -25868,7 +25649,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -25971,7 +25751,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -26007,7 +25786,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -26043,13 +25821,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -26077,6 +25852,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_AI_7012/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -26115,7 +25891,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -26206,7 +25981,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -26214,12 +25988,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -26256,7 +26027,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -26291,7 +26061,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -26369,7 +26138,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -26405,7 +26173,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -26424,7 +26191,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -26481,7 +26247,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -26584,7 +26349,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -26620,7 +26384,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -26656,13 +26419,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -26703,6 +26463,7 @@ Page   of
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CS_7055/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -26741,7 +26502,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -26832,7 +26592,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -26840,12 +26599,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -26882,7 +26638,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -26917,7 +26672,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -26995,7 +26749,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -27031,7 +26784,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -27050,7 +26802,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -27107,7 +26858,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -27210,7 +26960,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -27246,7 +26995,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -27282,13 +27030,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -27316,6 +27061,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_Civil_7005/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -27354,7 +27100,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -27445,7 +27190,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -27453,12 +27197,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -27495,7 +27236,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -27530,7 +27270,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -27608,7 +27347,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -27644,7 +27382,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -27663,7 +27400,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -27720,7 +27456,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -27823,7 +27558,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -27859,7 +27593,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -27895,13 +27628,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -27929,6 +27659,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_Computer_7002/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -27967,7 +27698,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -28058,7 +27788,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -28066,12 +27795,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -28108,7 +27834,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -28143,7 +27868,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -28221,7 +27945,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -28257,7 +27980,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -28276,7 +27998,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -28333,7 +28054,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -28436,7 +28156,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -28472,7 +28191,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -28508,13 +28226,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -28542,6 +28257,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CyberSecurity_7010/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -28580,7 +28296,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -28671,7 +28386,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -28679,12 +28393,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -28721,7 +28432,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -28756,7 +28466,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -28834,7 +28543,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -28870,7 +28578,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -28889,7 +28596,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -28946,7 +28652,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -29049,7 +28754,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -29085,7 +28789,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -29121,13 +28824,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -29155,6 +28855,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_DS_7009/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -29193,7 +28894,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -29284,7 +28984,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -29292,12 +28991,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -29334,7 +29030,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -29369,7 +29064,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -29447,7 +29141,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -29483,7 +29176,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -29502,7 +29194,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -29559,7 +29250,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -29662,7 +29352,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -29698,7 +29387,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -29734,13 +29422,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -29768,6 +29453,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_EXTC_7006/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -29806,7 +29492,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -29897,7 +29582,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -29905,12 +29589,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -29947,7 +29628,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -29982,7 +29662,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -30060,7 +29739,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -30096,7 +29774,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -30115,7 +29792,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -30172,7 +29848,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -30275,7 +29950,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -30311,7 +29985,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -30347,13 +30020,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -30381,6 +30051,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_IT_7001/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -30419,7 +30090,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -30510,7 +30180,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -30518,12 +30187,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -30560,7 +30226,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -30595,7 +30260,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -30673,7 +30337,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -30709,7 +30372,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -30728,7 +30390,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -30785,7 +30446,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -30888,7 +30548,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -30924,7 +30583,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -30960,13 +30618,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -30994,6 +30649,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_Mechanical_7003/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -31032,7 +30688,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -31123,7 +30778,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -31131,12 +30785,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -31173,7 +30824,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -31208,7 +30858,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -31286,7 +30935,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -31322,7 +30970,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -31341,7 +30988,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -31398,7 +31044,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -31501,7 +31146,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -31537,7 +31181,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -31573,13 +31216,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -31607,6 +31247,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_Mechatronics_7004/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -31645,7 +31286,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -31736,7 +31376,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -31744,12 +31383,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -31786,7 +31422,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -31821,7 +31456,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -31899,7 +31533,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -31935,7 +31568,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -31954,7 +31586,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -32011,7 +31642,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -32114,7 +31744,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -32150,7 +31779,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -32186,13 +31814,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -32220,6 +31845,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_AI_7051/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -32258,7 +31884,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -32349,7 +31974,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -32357,12 +31981,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -32399,7 +32020,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -32434,7 +32054,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -32512,7 +32131,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -32548,7 +32166,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -32567,7 +32184,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -32624,7 +32240,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -32727,7 +32342,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -32763,7 +32377,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -32799,13 +32412,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -32833,6 +32443,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_Computer_7047/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -32871,7 +32482,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -32962,7 +32572,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -32970,12 +32579,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -33012,7 +32618,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -33047,7 +32652,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -33125,7 +32729,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -33161,7 +32764,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -33180,7 +32782,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -33237,7 +32838,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -33340,7 +32940,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -33376,7 +32975,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -33412,13 +33010,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -33446,6 +33041,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_DS_7052/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -33484,7 +33080,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -33575,7 +33170,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -33583,12 +33177,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -33625,7 +33216,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -33660,7 +33250,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -33738,7 +33327,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -33774,7 +33362,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -33793,7 +33380,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -33850,7 +33436,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -33953,7 +33538,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -33989,7 +33573,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -34025,13 +33608,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -34059,6 +33639,7 @@ el
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_IT_7041/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (24 pages), mean OCR confidence 61.8
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -34097,7 +33678,6 @@ oe iat
 _ | (n+1)? (2n-D)!
 “ay (Qn+1)!   n?
 7 (n+1)? (2n — 1)!
-= i, Get i) Gn) Ga— il
 (n+1)°
 
 = lim
@@ -34188,7 +33768,6 @@ Sxy _3yt uy sty ~F]
 = UL 4 yr 3 (Ia) + (I): (2™)
 0 (QD Gms.
 
-fv. Gn Yk — a. (taf (ay Jace pe $Y ees (a) tal
 
 Pos (SH) oy sae OY
 
@@ -34196,12 +33775,9 @@ Page 6 of 24
 --- page 7 ---
 Hot F= Sin 4 coe a (14 Woy). J
 Wr [7 d? = ne Cidn af)
-(on wd 4 oi Cla loa) d eh) —(im)
 
-( Sorg dat ACI tory) 49 = I,riey ms) dudy . ®
 Cc
 
-Bry PA Greer cor? [hat Pedy) = i aD dada ay () 9)
 
 where PL de sige pond aide Lag= Qh
 YA ig Aug dink ave
@@ -34238,7 +33814,6 @@ ae fc hs aed : es } a
 J by ee
 ;
 ee
-ee ee = paw ae = |B h
 
 ae
 
@@ -34273,7 +33848,6 @@ apa iF 4 (2 de =
 
 such that:
 
-Or "Oy Oz \Ozx’ dy’ dz
 
 That is: 80)
 
@@ -34351,7 +33925,6 @@ Se? — e+ 9-7 = 0.
 19c7 —B4e +5 = 0.
 Using the quadratic formula ¢ = =EEWE soc,
 
-EV EMP HET Ma Ves BO MS VOI MEAT |, VET
 ~ 2-12 3 of , *~e 6
 
 Since Oe < 4, we discard the value that is outside this interval:
@@ -34387,7 +33960,6 @@ at. ge 9475 laze laz+e%R
 su av ORL OM fae
 --- page 13 ---
 a na 3 41
-ie -e dx ( an y er
 0 ©
 Ret Tr YS,
 f 6
@@ -34406,7 +33978,6 @@ Jet 4a Y=0oo Dt — Um)
 dy = at dt
 
 we
-4 R=4 (et b t dt —. Cm)
 
 Page 13 of 24
 
@@ -34463,7 +34034,6 @@ At pont (Cy 243) ie
 TP C23) = at 4} 44rk
 Tre pesthynvectoy & PR = oa -oP
 
-Re PB a (clrop+Ahy- CE 428) om)
 2-pa2 Wisi +& a
 The unit noah valoy ic = - Hid) pre _SP>
 
@@ -34566,7 +34136,6 @@ en) 0 a
 
 2H
 
-zh Jal dg - a? on - or
 
 Ya 4
 
@@ -34602,7 +34171,6 @@ Page 21 of 24
 1. Given Us boy Creme Hons + HM x)
 
 2
-oi =, SC ey He SL ta]
 3% temnet remy tM
 Wee irae chy 2% ES
 
@@ -34638,13 +34206,10 @@ O% Fama thems ur &
 — atane = —(3) ——¢eS M)
 Fama + rans +H
 By adding eg” ¢)))(2) 3 (3)
-siya 24 4 sinay Me cinazot = 2 — UsMy
 ay ay Dir ad
 
 Page 22 of 24
 --- page 23 ---
-‘A nity! th oli 4 4, awd 4) 4a tion 4 bey
-Ne lig ti Me (eS (nvlvy jwit f ack
 
 [Per dye dy
 
@@ -34671,6 +34236,8 @@ el
 - Programmes: BTech Civil 7005, BTech CyberSecurity 7010, BTech IT 7001, Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037
 - Source: `02_Question_Papers/2023/Sem_05/Re-Exam/Integrated_DS_7038/Calculus/ANS_Calculus(702BS0C001)_2023-2024.pdf` (+6 identical copies)
 - Text: mixed (17 pages), mean OCR confidence 52.8
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 Q1   Answer briefly:
@@ -34728,7 +34295,6 @@ FRG 2 RAG OK Rk
 ‘O-
 aA © | ig f=(40)i+(6x) 7+(a92°)k, find div f and curl f at (1,2,1).
 
-FIO IO IK 3 I aC ak kf
 --- page 4 ---
 The Wi-Fi signal strength inside an office building is modelled by the function
 𝑆(𝑥, 𝑦, 𝑧) = −2𝑥ଶ−𝑦ଶ−3𝑧ଶ+ 8𝑥+ 6𝑦+ 12𝑧+ 40 , where 𝑥 and 𝑦 are horizontal
@@ -35073,7 +34639,6 @@ ARR RACK | RAR OK RK
 \ { is
 Sin} The Ucluivt of rtgton RI given et | Sl The vole Of AGOn Ris given by
 
-Ve 446 dv CI) =~ Y= IN) av
 : wane ‘ js we region bounded by
 
 poxebolorl attyt=* § toy
@@ -35083,7 +34648,6 @@ olin g ib Pw reauin banda He
 
 Perabelsid otyt=z h ca. —{1M) +
 at, * “J oeetey yaaa]
-Changing to Cylinel aia Coredintches 2 Fey
 
 Kea TP Yo rin wz 7 y
 
@@ -35092,21 +34656,16 @@ Kea TP Yo rin wz 7 y
 Aivieds feodte var _
 Ooo by O< an acm tics - Plast - 4! rae in
 ett tots be (1M) OR ° | ] 5
-Hise dvs didg des dead ehh athe, tenn. eee Of
 q wha Tea, jonam Das O)
 tom (1) eater Mey at gtyyeatyh Feat
-aa PEt yor gy de feud ya aie gy as]
 ve | | tdzidrde —(m")
 re Pes pt te 2 > arnt
 120 gey te “yy
-aK 4 (im) dt= ada des t dt
 : my drde — (IM) me oh
-t y TE) ee Fabs pone Mat ~ a sute-b't dt - 0
 = PE (Eyer) Arde g Seettetat §
 
 1 i t an
 
-\O" | ae xt yas (ym) 2 afapdegyeay eeeevtat ZPG DS
 : 7 hye —t :
 alin
 
@@ -35193,5 +34752,4 @@ Soy xP o
 Pah © + Pah G —_. Gin
 ss limit does not ents} — (1)
 
-AR AR RAR | 7 RR OK RK
 ````

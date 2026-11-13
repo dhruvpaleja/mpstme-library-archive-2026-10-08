@@ -517,7 +517,7 @@ closing of accounts.
 ********** 5 **********
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 2 · paper d6293f226f67
+## 2023-24 · Final + Re-Exam · Sem 2 · paper d6293f226f67
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -767,6 +767,256 @@ Prepare the cash flow statement using indirect method for the year ended
 December 31, 2021.
 CO-1; SO- |b. | Explain the advantages of maintaining ledger accounts in accounting cycle [05]
 3; BL-2 to companies.
+````
+
+## 2023-24 · Re-Exam · Sem 2 · paper 04fbf342127d
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ACCOUNTIG-I/Principles of Accounting-I, Year, Re Exam.pdf`
+- Printed on paper: max marks: 10; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 92.2
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024
+
+Program/s: B.Tech Year: I Semester: II
+
+Stream/s : CSE-DS ~
+
+Subject: Principles of Accounting-I Time: 3hrsC2ivopm to S300p™)
+Date: a7 Qu No. of Pages:4
+
+Marks: 10
+
+“Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+> 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Ql Answer briefly: [20]
+
+a. | Classify whether the below mentioned transactions are capital expenditure
+or revenue expenditure or deferred revenue expenditure:
+(i) Asum of Rs. 10,000 spent on painting of a new factory.
+
+CO- 1; SO- (ii) A lump sum of Rs. 50,000 paid to the employee for the loss of job. [05]
+
+7; BL-4 (iii)Rs. 20,000 paid by a company as brokerage on issue of shares.
+
+(iv) The pharmaceutical company incurred research and development
+Expenses of Rs. 1,00,000. :
+(v) Custom duty of Rs. 10,000 paid for purchase of raw material.
+
+b. | Identify whether the below mentioned items are cash flow from operating
+activities or cash flow from investing activities or cash flow from financing
+activities.
+
+(i) Issue of 4,000 shares to raise money for expansion.
+(ii) Sale of machinery lead company to earn Rs. 2,00,000.
+(iii)Payment of Rs. 75,000 made to the suppliers, who have sold goods on
+credit.
+(iv) Depreciation of Rs. 50,000 charged on equipment.
+(v) Payment of Rs. 20,000 interest to the bank.
+CO- 2; SO- | c. | Explain the concept of convertible bonds and mention its advantages and | [95]
+3; BL-2 disadvantages to the investors.
+d. | Prepare an Accounting Equation for the following transactions:
+(i) Started business with cash Rs. 200,000.
+CO-1 ; SO- (ii) Paid rent in advance of Rs. 4000. [05]
+2; BL-3 (iii) Purchased goods for cash Rs. 15,000 and credit Rs. 20,000.
+(iv) Sold goods for cash Rs. 80,000 and on credit Rs. 40,000.
+(v) Bought motorcycle for personal use Rs. 30,000.
+
+> CO-2 ; SO-
+4; BL-1
+
+[05]
+
+Q2 a. | The following trial balance is extracted from the books of M/s Jhelum Ltd.
+CO-2; SO- as on 31st March, 2019: [15]
+6; BL-2
+--- page 2 ---
+Particulars Debit(Rs.) | Credit(Rs.)
+
+Opening Stock 1,75,000 \
+Purchases 3,00,000
+
+Cash in hand 30,000 aoe
+Bank Loan 1,00,000
+
+Machinery (at original
+
+cost) 2,50,000
+
+Sundry creditors we 1,40,000
+Advertisement 5,000
+
+Sundry Debtors 1,70,000
+
+Goodwill 1,20,000
+
+Land and Building 6,00,000
+
+Fuel 15,000
+
+Furniture(at original
+
+cost) 45,000
+
+Discount 1,800 3,600 >
+Capital 6,00,000
+
+Sales 9,00,000
+
+Interest 10,000
+Drawings 31,800
+Salaries and Wages 10,000
+
+17,53,600 17,53,600
+
+From the following information you are required to prepare profit and loss
+account and balance sheet for the year ended 31st March, 2019:
+
+(i) Closing stock as on 31st March, 2019 is Rs. 50,000.
+
+(ii) Depreciation machinery by 10% and furniture by 5%.
+
+(iii) The provision of 5% to be created on sundry debtors for
+
+doubtful debts.
+(iv) _ The advertising expenses not paid to the extent of Rs. 5,000.
+CO-1; SO- | b. | Explain the importance of financing accounting to customers and suppliers
+
+[05]
+3; BL-2 of a company. _|
+a. | The following information relates to the business of Isa: -)
+Trade Bad debts | Bad debts to’) Provision for
+Receivables | written off | be written off | doubtful
+Q3 Year | (Rs.) (Rs.) (Rs.) debts (%)
+2015 | 1,20,000 10,000 9,000 3 [10]
+CO-2; SO- 2016 | 1,40,000 15,000 4,500 4
+62 2017 | 1,60,000 | 20,000 - 2.5
+2018 | 1,80,000 - ‘| 3,000 4
+Prepare balance sheet extract for each of the year 2008, 2009, 2010 and
+2011 showing trade receivables and allowance for doubtful debts.
+CO-1; SO- | b. | Explain with an example any five profitability ratios to users of financial [10]
+3; BL-1 information.
+Q4 a. | On Ist Jan. 2015 machinery was purchased for Rs. 100,000. On Ist Jan.
+2016 additions were made to the machinery of Rs. 60,000. On 31st March [15]
+CO-2; SO- 2017, machinery purchased on Ist January 2016, costing Rs 20,000 was
+7; BL-3 sold for Rs 18,000, and on 30th June 2017, machinery purchased on Ist
+2
+--- page 3 ---
+Jan. 2015 costing Rs 52,000, was sold for Rs. 36,700. On Ist Oct. 2018
+additions were made to the amount of Rs. 30,000. Depreciation was
+provided at 10% p.a. on Diminishing Balance Method. :
+
+Show the Machinery Account for the three years from December,3:1st 2015
+to December 31st 2018. =
+
+CO-2; SO-
+4; BL-2
+
+Contrast periodic and perpetual inventory management system.
+
+[5]
+
+Q5
+
+CO-2; SO-
+7; BL-3
+
+a. | Porter Technology Inc. issues a Rs. 600,000, 9%, 10-year mortgage note
+
+on December 31, 2022, to’ obtain needed financing for a new research
+laboratory. The terms provide for annual installment payments of Rs.
+60,000. Calculate the installment payment schedule for first five years.
+
+[10]
+
+CO-2; SO-
+™@ | 4; BL-2
+
+b. | Passbook of Gopal Sharma showed a balance of Rs. 30,000 as on 30%
+
+December, 2020.Calculate the bank balance as per the cash book from the
+transactions given below:
+(i) Mr. Karan Ahuja directly deposited Rs. 50,000 into our bank
+account. The information was received on 1° January,2021.
+(ii) A cheque recorded as issued but not actually sent to the party
+concerned Rs. 10,000.
+(iii)A cheque issued to creditor for Rs. 5,000.The party collected the
+amount but the entry for the same was recorded in the cash column
+of Cash Book.
+
+(iv)A cheque recorded s deposited but left off to be banked Rs. 7,000.
+
+[10]
+
+Q6CO-2;
+SO-7; BL-4
+
+Stock financing is a better option for company to issue than bond financing.
+Validate the statement by mentioning reasons for the same.
+
+[10]
+
+CO-1; SO-
+3; BL-4
+
+b. | Identify the accounting principles or conventions or concepts applicable
+
+for the transactions given below and give reason for the same:
+
+(i) The company reports the cash and credit transactions.
+
+(ii) The company will continue for a foreseeable future, unless
+something otherwise happens.
+
+(iii) | The company follows same method of depreciation throughout the
+years unless there is some merger or acquisition.
+
+(iv) The company should report the expenses related to the revenue
+earned during that time period.
+
+(v) The company will report only those things in annua! report that will
+materially affect the financial statements
+
+[10]
+
+- CO-2; SO-
+4; BL-2
+
+Aman Ltd. has provided the following financial information for the year
+ended December 31, 2023:
+¢ Net income: Rs. 190,000
+¢ Depreciation expense: Rs. 50,000
+¢ Amortization expense: Rs. 17,000
+¢ Increase in accounts receivable: Rs. 30,000
+¢ Decrease in inventory: Rs. 15,000
+¢ Increase in accounts payable: Rs. 20,000
+¢ Gain on sale of equipment: Rs. 20,000
+¢ Loss on sale of investments: Rs. 9,000
+¢ Purchase of property, plant, and equipment: Rs. 70,000
+¢ Issuance of long-term debt: Rs. 140,000
+« Repayment of long-term debt: Rs. 100,000
+| ¢ Dividends paid: Rs. 30,000
+
+[20]
+--- page 4 ---
+e Cash balance as on 1.1.2023 is Rs. 60,000
+Using the indirect method, prepare the cash flow statement for Aman Ltd.
+for the year ended December 31, 2023.
+
+a
 ````
 
 ## 2022-23 · Final-Exam · Sem 2 · paper 14810123b181
@@ -1713,254 +1963,4 @@ Give overview of Accounts receivable
 (10)
 
 (10)
-````
-
-## Year not stated · Re-Exam · Sem 2 · paper 04fbf342127d
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ACCOUNTIG-I/Principles of Accounting-I, Year, Re Exam.pdf`
-- Printed on paper: max marks: 10; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 92.2
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2023-2024
-
-Program/s: B.Tech Year: I Semester: II
-
-Stream/s : CSE-DS ~
-
-Subject: Principles of Accounting-I Time: 3hrsC2ivopm to S300p™)
-Date: a7 Qu No. of Pages:4
-
-Marks: 10
-
-“Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-> 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-Ql Answer briefly: [20]
-
-a. | Classify whether the below mentioned transactions are capital expenditure
-or revenue expenditure or deferred revenue expenditure:
-(i) Asum of Rs. 10,000 spent on painting of a new factory.
-
-CO- 1; SO- (ii) A lump sum of Rs. 50,000 paid to the employee for the loss of job. [05]
-
-7; BL-4 (iii)Rs. 20,000 paid by a company as brokerage on issue of shares.
-
-(iv) The pharmaceutical company incurred research and development
-Expenses of Rs. 1,00,000. :
-(v) Custom duty of Rs. 10,000 paid for purchase of raw material.
-
-b. | Identify whether the below mentioned items are cash flow from operating
-activities or cash flow from investing activities or cash flow from financing
-activities.
-
-(i) Issue of 4,000 shares to raise money for expansion.
-(ii) Sale of machinery lead company to earn Rs. 2,00,000.
-(iii)Payment of Rs. 75,000 made to the suppliers, who have sold goods on
-credit.
-(iv) Depreciation of Rs. 50,000 charged on equipment.
-(v) Payment of Rs. 20,000 interest to the bank.
-CO- 2; SO- | c. | Explain the concept of convertible bonds and mention its advantages and | [95]
-3; BL-2 disadvantages to the investors.
-d. | Prepare an Accounting Equation for the following transactions:
-(i) Started business with cash Rs. 200,000.
-CO-1 ; SO- (ii) Paid rent in advance of Rs. 4000. [05]
-2; BL-3 (iii) Purchased goods for cash Rs. 15,000 and credit Rs. 20,000.
-(iv) Sold goods for cash Rs. 80,000 and on credit Rs. 40,000.
-(v) Bought motorcycle for personal use Rs. 30,000.
-
-> CO-2 ; SO-
-4; BL-1
-
-[05]
-
-Q2 a. | The following trial balance is extracted from the books of M/s Jhelum Ltd.
-CO-2; SO- as on 31st March, 2019: [15]
-6; BL-2
---- page 2 ---
-Particulars Debit(Rs.) | Credit(Rs.)
-
-Opening Stock 1,75,000 \
-Purchases 3,00,000
-
-Cash in hand 30,000 aoe
-Bank Loan 1,00,000
-
-Machinery (at original
-
-cost) 2,50,000
-
-Sundry creditors we 1,40,000
-Advertisement 5,000
-
-Sundry Debtors 1,70,000
-
-Goodwill 1,20,000
-
-Land and Building 6,00,000
-
-Fuel 15,000
-
-Furniture(at original
-
-cost) 45,000
-
-Discount 1,800 3,600 >
-Capital 6,00,000
-
-Sales 9,00,000
-
-Interest 10,000
-Drawings 31,800
-Salaries and Wages 10,000
-
-17,53,600 17,53,600
-
-From the following information you are required to prepare profit and loss
-account and balance sheet for the year ended 31st March, 2019:
-
-(i) Closing stock as on 31st March, 2019 is Rs. 50,000.
-
-(ii) Depreciation machinery by 10% and furniture by 5%.
-
-(iii) The provision of 5% to be created on sundry debtors for
-
-doubtful debts.
-(iv) _ The advertising expenses not paid to the extent of Rs. 5,000.
-CO-1; SO- | b. | Explain the importance of financing accounting to customers and suppliers
-
-[05]
-3; BL-2 of a company. _|
-a. | The following information relates to the business of Isa: -)
-Trade Bad debts | Bad debts to’) Provision for
-Receivables | written off | be written off | doubtful
-Q3 Year | (Rs.) (Rs.) (Rs.) debts (%)
-2015 | 1,20,000 10,000 9,000 3 [10]
-CO-2; SO- 2016 | 1,40,000 15,000 4,500 4
-62 2017 | 1,60,000 | 20,000 - 2.5
-2018 | 1,80,000 - ‘| 3,000 4
-Prepare balance sheet extract for each of the year 2008, 2009, 2010 and
-2011 showing trade receivables and allowance for doubtful debts.
-CO-1; SO- | b. | Explain with an example any five profitability ratios to users of financial [10]
-3; BL-1 information.
-Q4 a. | On Ist Jan. 2015 machinery was purchased for Rs. 100,000. On Ist Jan.
-2016 additions were made to the machinery of Rs. 60,000. On 31st March [15]
-CO-2; SO- 2017, machinery purchased on Ist January 2016, costing Rs 20,000 was
-7; BL-3 sold for Rs 18,000, and on 30th June 2017, machinery purchased on Ist
-2
---- page 3 ---
-Jan. 2015 costing Rs 52,000, was sold for Rs. 36,700. On Ist Oct. 2018
-additions were made to the amount of Rs. 30,000. Depreciation was
-provided at 10% p.a. on Diminishing Balance Method. :
-
-Show the Machinery Account for the three years from December,3:1st 2015
-to December 31st 2018. =
-
-CO-2; SO-
-4; BL-2
-
-Contrast periodic and perpetual inventory management system.
-
-[5]
-
-Q5
-
-CO-2; SO-
-7; BL-3
-
-a. | Porter Technology Inc. issues a Rs. 600,000, 9%, 10-year mortgage note
-
-on December 31, 2022, to’ obtain needed financing for a new research
-laboratory. The terms provide for annual installment payments of Rs.
-60,000. Calculate the installment payment schedule for first five years.
-
-[10]
-
-CO-2; SO-
-™@ | 4; BL-2
-
-b. | Passbook of Gopal Sharma showed a balance of Rs. 30,000 as on 30%
-
-December, 2020.Calculate the bank balance as per the cash book from the
-transactions given below:
-(i) Mr. Karan Ahuja directly deposited Rs. 50,000 into our bank
-account. The information was received on 1° January,2021.
-(ii) A cheque recorded as issued but not actually sent to the party
-concerned Rs. 10,000.
-(iii)A cheque issued to creditor for Rs. 5,000.The party collected the
-amount but the entry for the same was recorded in the cash column
-of Cash Book.
-
-(iv)A cheque recorded s deposited but left off to be banked Rs. 7,000.
-
-[10]
-
-Q6CO-2;
-SO-7; BL-4
-
-Stock financing is a better option for company to issue than bond financing.
-Validate the statement by mentioning reasons for the same.
-
-[10]
-
-CO-1; SO-
-3; BL-4
-
-b. | Identify the accounting principles or conventions or concepts applicable
-
-for the transactions given below and give reason for the same:
-
-(i) The company reports the cash and credit transactions.
-
-(ii) The company will continue for a foreseeable future, unless
-something otherwise happens.
-
-(iii) | The company follows same method of depreciation throughout the
-years unless there is some merger or acquisition.
-
-(iv) The company should report the expenses related to the revenue
-earned during that time period.
-
-(v) The company will report only those things in annua! report that will
-materially affect the financial statements
-
-[10]
-
-- CO-2; SO-
-4; BL-2
-
-Aman Ltd. has provided the following financial information for the year
-ended December 31, 2023:
-¢ Net income: Rs. 190,000
-¢ Depreciation expense: Rs. 50,000
-¢ Amortization expense: Rs. 17,000
-¢ Increase in accounts receivable: Rs. 30,000
-¢ Decrease in inventory: Rs. 15,000
-¢ Increase in accounts payable: Rs. 20,000
-¢ Gain on sale of equipment: Rs. 20,000
-¢ Loss on sale of investments: Rs. 9,000
-¢ Purchase of property, plant, and equipment: Rs. 70,000
-¢ Issuance of long-term debt: Rs. 140,000
-« Repayment of long-term debt: Rs. 100,000
-| ¢ Dividends paid: Rs. 30,000
-
-[20]
---- page 4 ---
-e Cash balance as on 1.1.2023 is Rs. 60,000
-Using the indirect method, prepare the cash flow statement for Aman Ltd.
-for the year ended December 31, 2023.
-
-a
 ````

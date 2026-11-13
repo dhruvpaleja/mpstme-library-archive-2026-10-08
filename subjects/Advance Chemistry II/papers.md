@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/ADVANCE CHEMISTRY II/2009-2010(50).pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 21.01.10
 - Text: ocr (2 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NSTITUTE OF
@@ -55,7 +56,6 @@ Q3a. Match the following:- (5x2=10)
 S.No. | A B i Cc
 1. Aromatic aldehyde disproportionation Knoevanagel’ reaction
 2. Acid azide Perkin’ reaction isocyanate
-3. ketoxime Beckmann rearrangement | amide
 4. Active Methylene compound Curtius rearrangement a,B-unsaturated carboxylic acid
 5. Aldehydes pyridine Cannizzaro reaction
 Q3b. Write an informative note on malonic ester or acetoacetic ester. (10)
@@ -114,6 +114,7 @@ A
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/ADVANCE CHEMISTRY II/2008-2009(45).pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03.10.08
 - Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 =
@@ -175,7 +176,6 @@ O
 
 Q2.A) Explain the mechanism and write one application of (any one) (10)
 i) Cannizaro reaction.
-ii) Benzil-Benzilic acid rearrangement.
 
 Q2.B) What would the boiling point of a 0.75 m BeF> (strong electrolyte) solution be?
 K,(H20) = 0.51° C/m. (10)
@@ -339,6 +339,7 @@ Q7.B) Elaborate the preparation of malonic ester. (10)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/ADVANCE CHEMISTRY II/2008-2009 re exam(21).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 90.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 x, SVKM"< \«n \
@@ -418,7 +419,6 @@ Q7. Write the chemical equation corresponding to the following reactions: (20)
 i) Knoevenagel reaction.
 ii) Perkin’s reaction.
 iii) Gattermann aldehyde synthesis.
-iv) Benzyl-benzilic acid rearrangement.
 v) Fries rearrangement.
 
 END
@@ -538,6 +538,7 @@ XX “ee
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/ADVANCE CHEMISTRY II/2005-2006(19).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 82.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \
@@ -567,7 +568,6 @@ ii) 2C6H6 + CH2CL2 Lewis acid ;
 
 Lewis aed
 
-iii) 3C6H6 + CHCL3 EWS Ose 5
 iv)   3C6H6 + cc   Seedis acid .
 
 >) What products would be formed in following reactions?

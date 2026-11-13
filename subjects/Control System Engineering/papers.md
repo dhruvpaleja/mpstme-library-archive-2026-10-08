@@ -253,6 +253,7 @@ iii) Damped Natural frequency (Wd)
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/CONTROL SYSTEM ENGINEERING/B Tech, Control System Engineering, Sem-IV, Batch 2025-26, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: ocr (3 pages), mean OCR confidence 83.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -363,7 +364,6 @@ ot aie
 ~~
 ‘
 ‘
-i i A { B t \
 a a a
 \ \ }
 \ \ /
@@ -714,6 +714,7 @@ BL-1
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/CONTROL SYSTEM ENGINEERING/Control System Engineering (CSE), A Y 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 2.8 /06
 - Text: ocr (4 pages), mean OCR confidence 82.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 PS
@@ -832,7 +833,6 @@ BL-1
 L Make use of the root locus for the open loop transfer function of a unity
 ( 50-2: feedback system given below, ;
 SO-1; det k [10]
-BLS GOH) = SEDE+DCHH)
 Comment on stability of the system.
 Define and derive the following time domain specifications for a second
 saad Q6 order system. .
@@ -1028,6 +1028,7 @@ BL-2 c) Non Linear System
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_06/CONTROL SYSTEM ENGINEERING/Control Systme Engineering 2021-22 Final0001.pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 82.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 5\
@@ -1094,7 +1095,6 @@ Page 1 of 3
 Q2 a. Find transfer function using Block Diagram Reduction Rules.
 CO-1;
 
-a Gutsy HEEL Gayay LY - - Cts)
 4 [10]
 VAD is) be Yai) | ses
 Hy(s)
@@ -1108,7 +1108,6 @@ SO-1;
 BL-1
 1
 G(s} GAs) 1 Gxs)
-RI O— O CD cs | [10]
 7 Vals) Vs(s9
 ~Hy{s)
 “Hy {s)
@@ -1408,6 +1407,208 @@ b)| What is Nyquist plot? Explain the principle of Augment. [7]
 Page 2/2
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper 2e20449c7b3d
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/CONTROL SYSTEM ENGINEERING/CONTROL SYSTEM ENGINEERING B TECH (EXTC),BATCH _2017-18-19_RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 June 2019
+- Text: ocr (4 pages), mean OCR confidence 83.3
+
+````text
+SVKM’S NMIMS ‘it
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Year: If © Semester: IV~’
+
+Programme: B. Tech/ MBA Tech (EXTC)-
+Academic Year: 2018-2019
+
+Marks: 70°
+Time: 2.00 pm to 5.00 pm
+
+Duration: 3 (Hrs)
+No. of Pages:_ 4
+
+Subject: Control System Engineering
+
+Date : 17 June 2019-
+
+Re- Examination (2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. =
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures on the right hand side indicate full marks. ~.
+7) Assume -suitable data if necessary.
+
+Q.1 a. Explaininbrief: (i) Linear and non Linear Control Systems 04
+(ii) Time variant and Time invariant Control Systems
+
+b. 04
+
+Find the Percentage Overshoot % My, Damped Frequency of Oscillations wa, Peak
+Time Tp and Settling Time T; for the following Transfer function, also write their unit.
+
+T(s)= ————
+(s° +s+A4)
+e. Determine the state space equations for the given system in the figure: 03
+
+—j—» x{}
+
+K
+
+M pm fA
+--- page 2 ---
+Q.2
+
+Q.3
+
+d.
+
+a.
+
+b.
+
+a.
+
+Figure shows lines of constant peak time tp, constant overshoot fp, and constant settling
+time ts, identify and justify them with relevant formulae.
+
+Line 3 jo.
+Line 1 ~, a
+Line 2 —> \
+< +o
+
+Using the block diagram reduction technique, obtain the transfer function of the figure
+shown below
+
+R
+S46 ?) S, +6 ; Gs *C ) eS os)
+Hy Hp
+
+Hy
+
+Determine the overall gain (Transfer Function) of the system given in figure using
+Mason’s gain formulae.
+
+Find the state space representation in Phase Variable Form of the given transfer function
+shown in figure and also draw the block diagram for the same.
+
+Cis) 100
+R(s) gs? +225? +175 +100
+
+“hy
+
+03
+
+07
+
+07
+
+07
+--- page 3 ---
+Q.4
+
+Q.5
+
+ae
+
+a.
+
+Given the following state space representation of a system, find the response y(t), if
+u(t) is a unit step function.
+
+k(D= Le | x(t) + [?] u(t)
+
+yO=L Ox x(0)= Hl
+
+Draw the Electrical series anology for the given mechanical System.
+(Find the Equation of Motion in Time Domain and Laplace Transform by using Force-
+Displacement Terminology)
+
+_ tg |
+4 fm 7 + uy
+OOD dm | om | me HOO
+i nf ia ao nr =
+mt TT T .
+j 7 l ! 7) I
+i fi, °
+
+Derive the formula of Tp , Tr and Mp for second order underdamped control system.
+
+A unity feedback control system has an open loop transfer function
+
+G(s) = a
+s(s+2)(s +4)
+
+Sketch the Root Locus of the above system.
+
+A unity feedback control system is characterized by the open loop transfer function
+
+10(s +2)(s +3)
+
+Sts) = s(s +1)(s +5)(s +4)
+
+Determine Kp , Ky ,Ka and steady- state errors for the input r(t)}=3 + t + (t? /2) for the
+given system.
+
+y
+
+07
+
+07
+
+09
+
+05
+--- page 4 ---
+Q.6 a. Construct the Bode plot for a unity feedback control system having an open loop transfer 09
+function
+
+2000
+
+G(s) = —————_
+s(s +1)(s +100)
+From the Bode plots determine,
+
+(i) Gain Margin
+
+(ii) Phase Margin
+Comment on the stability of the system.
+
+b. “Using Routh-Hurwitz Criterion, determine the stability of the following characteristic 05
+
+equation .
+s° + 5s° +1 1s* +2533 +36s* +30s+36 =0
+Q.7 a. Sketch the Nyquist plot for the open loop transfer function 09
+G(s) H(s) = _ Kk
+S(s+2)(s +10)
+Determine the values of K for stability.
+b. Draw/ Make a polar plot for each function given below (use frequency response 05
+method)
+1
+(a) Gijw) = —~
+; Qo)
+a
+(b) G§jw) = (1 + joa)
+© G(ja) = —+____
+(1+ j@a)(1+ jab)
+OR
+b. Define controllability and observability by taking simple examples.
+
+“le
+````
+
 ## 2018-19 · Re-Exam · Sem 6 · paper 877ca8cf232c
 
 - Departments: Electronics and Telecommunication
@@ -1649,6 +1850,7 @@ as [O “|
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_06/CONTROL SYSTEM ENGINEERING/Control System Engineering 2017-18 Final.pdf`
 - Printed on paper: exam date: 05 May 2018
 - Text: ocr (2 pages), mean OCR confidence 85.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1697,7 +1899,6 @@ C(s/R(s). [7]
 Hs
 
 Ris} £3 Cut
-—— Gy be a &)- G; G
 
 (b) Obtain the closed loop transfer function of the system given in Q. 2a above using Mason’s [7]
 Gain Formula.
@@ -1898,208 +2099,6 @@ system.
 
 b. Derive the values of steady state error for Type-0, Type-1 and Type-2 system with step [07]
 input, ramp and parabolic input function.
-````
-
-## 2017-18 · Re-Exam · Sem 4 · paper 2e20449c7b3d
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/CONTROL SYSTEM ENGINEERING/CONTROL SYSTEM ENGINEERING B TECH (EXTC),BATCH _2017-18-19_RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 June 2019
-- Text: ocr (4 pages), mean OCR confidence 83.3
-
-````text
-SVKM’S NMIMS ‘it
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Year: If © Semester: IV~’
-
-Programme: B. Tech/ MBA Tech (EXTC)-
-Academic Year: 2018-2019
-
-Marks: 70°
-Time: 2.00 pm to 5.00 pm
-
-Duration: 3 (Hrs)
-No. of Pages:_ 4
-
-Subject: Control System Engineering
-
-Date : 17 June 2019-
-
-Re- Examination (2017-18/2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted. =
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures on the right hand side indicate full marks. ~.
-7) Assume -suitable data if necessary.
-
-Q.1 a. Explaininbrief: (i) Linear and non Linear Control Systems 04
-(ii) Time variant and Time invariant Control Systems
-
-b. 04
-
-Find the Percentage Overshoot % My, Damped Frequency of Oscillations wa, Peak
-Time Tp and Settling Time T; for the following Transfer function, also write their unit.
-
-T(s)= ————
-(s° +s+A4)
-e. Determine the state space equations for the given system in the figure: 03
-
-—j—» x{}
-
-K
-
-M pm fA
---- page 2 ---
-Q.2
-
-Q.3
-
-d.
-
-a.
-
-b.
-
-a.
-
-Figure shows lines of constant peak time tp, constant overshoot fp, and constant settling
-time ts, identify and justify them with relevant formulae.
-
-Line 3 jo.
-Line 1 ~, a
-Line 2 —> \
-< +o
-
-Using the block diagram reduction technique, obtain the transfer function of the figure
-shown below
-
-R
-S46 ?) S, +6 ; Gs *C ) eS os)
-Hy Hp
-
-Hy
-
-Determine the overall gain (Transfer Function) of the system given in figure using
-Mason’s gain formulae.
-
-Find the state space representation in Phase Variable Form of the given transfer function
-shown in figure and also draw the block diagram for the same.
-
-Cis) 100
-R(s) gs? +225? +175 +100
-
-“hy
-
-03
-
-07
-
-07
-
-07
---- page 3 ---
-Q.4
-
-Q.5
-
-ae
-
-a.
-
-Given the following state space representation of a system, find the response y(t), if
-u(t) is a unit step function.
-
-k(D= Le | x(t) + [?] u(t)
-
-yO=L Ox x(0)= Hl
-
-Draw the Electrical series anology for the given mechanical System.
-(Find the Equation of Motion in Time Domain and Laplace Transform by using Force-
-Displacement Terminology)
-
-_ tg |
-4 fm 7 + uy
-OOD dm | om | me HOO
-i nf ia ao nr =
-mt TT T .
-j 7 l ! 7) I
-i fi, °
-
-Derive the formula of Tp , Tr and Mp for second order underdamped control system.
-
-A unity feedback control system has an open loop transfer function
-
-G(s) = a
-s(s+2)(s +4)
-
-Sketch the Root Locus of the above system.
-
-A unity feedback control system is characterized by the open loop transfer function
-
-10(s +2)(s +3)
-
-Sts) = s(s +1)(s +5)(s +4)
-
-Determine Kp , Ky ,Ka and steady- state errors for the input r(t)}=3 + t + (t? /2) for the
-given system.
-
-y
-
-07
-
-07
-
-09
-
-05
---- page 4 ---
-Q.6 a. Construct the Bode plot for a unity feedback control system having an open loop transfer 09
-function
-
-2000
-
-G(s) = —————_
-s(s +1)(s +100)
-From the Bode plots determine,
-
-(i) Gain Margin
-
-(ii) Phase Margin
-Comment on the stability of the system.
-
-b. “Using Routh-Hurwitz Criterion, determine the stability of the following characteristic 05
-
-equation .
-s° + 5s° +1 1s* +2533 +36s* +30s+36 =0
-Q.7 a. Sketch the Nyquist plot for the open loop transfer function 09
-G(s) H(s) = _ Kk
-S(s+2)(s +10)
-Determine the values of K for stability.
-b. Draw/ Make a polar plot for each function given below (use frequency response 05
-method)
-1
-(a) Gijw) = —~
-; Qo)
-a
-(b) G§jw) = (1 + joa)
-© G(ja) = —+____
-(1+ j@a)(1+ jab)
-OR
-b. Define controllability and observability by taking simple examples.
-
-“le
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper 3d77ca88a8e0

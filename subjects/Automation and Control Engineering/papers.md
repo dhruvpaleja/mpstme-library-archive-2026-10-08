@@ -4,6 +4,91 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2012-13 · Exam not stated · Trim 10 · paper 82ddbf75ac3a
+
+- Departments: Manufacturing
+- Programmes: MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MANUFACTURING/TRIM X/AUTOMATION AND CONTROL ENGINEERING/scan0026(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/09/2012
+- Text: ocr (2 pages), mean OCR confidence 89.7
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engine
+
+Programme: MBA-(Tech) - MANF Year: IV Trimester: X ae vars
+Academic Year : 2012-2013 FC ers inevttity a
+/ 7 . haomoai — 56, je
+_ AUTOMATION & CONTROL capi
+Subject: ENGINEERING Marks: 100 N y Zz
+XN ey
+
+Time: 2.00 pm
+Duration: 3 hrs.
+Final - Examination
+
+<< *
+Date: 27/09/2012
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+6. Question No 1 is compulsory. Attempt any FOUR from remaining.
+7. All questions carry equal marks.
+8. Answer to each new question should be started on a fresh page.
+9. Figure in brackets on the right hand side indicate full marks.
+10. Assume suitable data if necessary.
+
+Q1) a) Explain Automation and types of automation in brief. (08-Marks)
+b) Explain open loop and closed loop control system with a neat block diagram. (05-
+Marks) ;
+j c) With suitable example explain ladder logic diagram for a PLC. (07 marks)
+
+Q2) a) Draw the complete root locus for the,
+G(s) Hs) -SCSA4IE-SA4-B-S+ 2) ©
+
+Determine value of K for stability also find oscillating frequencies.
+
+: (12-Marks)
+b) Explain mathematical modeling with the help of electro — mechanical system.
+| (08-Marks)
+ye) a) What is actuator? List different types of pneumatic actuators and explain them.
+(12-Marks) .
+
+; b) Explain stability of control system with suitable example. (08-Marks)
+Q4) a) Compare Pneumatic. and Hydraulic systems with different criteria.
+(11-Marks)
+
+b) Draw following pneumatics valves. (09-Marks)
+
+1) 3/2 open normal position valve
+2) 5/3 closed central position valve
+3) Sequence valve
+--- page 2 ---
+Q5) Design and explain a sequential circuit using cascade method for the following
+
+sequence in pneumatic system.
+A*BTA’B’ (20-Marks)
+
+Q6 a) What is a PLC? Explain the elements of PLC with block diagram.
+
+(12-Marks) ;
+b) Explain AND, OR, NOT, NAND Logic Gates. (08-Marks)
+Q7) Write Short Notes: (any three) (20-Marks)
+
+1 DC Servomotors.
+
+2 Future of Automation
+
+3 Robot Anatomy
+
+4 Automated Guided Vehicle (AGV)
+5 Applications of robotics
+
+ae
+````
+
 ## 2012-13 · Re-Exam · Trim 10 · paper 5f1344aeae31
 
 - Departments: Manufacturing
@@ -258,89 +343,4 @@ D) What do you mean by poles and zeros? Explain their significance.
 (20)
 
 2/2.
-````
-
-## Year not stated · Exam not stated · Trim 10 · paper 82ddbf75ac3a
-
-- Departments: Manufacturing
-- Programmes: MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MANUFACTURING/TRIM X/AUTOMATION AND CONTROL ENGINEERING/scan0026(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/09/2012
-- Text: ocr (2 pages), mean OCR confidence 89.7
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engine
-
-Programme: MBA-(Tech) - MANF Year: IV Trimester: X ae vars
-Academic Year : 2012-2013 FC ers inevttity a
-/ 7 . haomoai — 56, je
-_ AUTOMATION & CONTROL capi
-Subject: ENGINEERING Marks: 100 N y Zz
-XN ey
-
-Time: 2.00 pm
-Duration: 3 hrs.
-Final - Examination
-
-<< *
-Date: 27/09/2012
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-6. Question No 1 is compulsory. Attempt any FOUR from remaining.
-7. All questions carry equal marks.
-8. Answer to each new question should be started on a fresh page.
-9. Figure in brackets on the right hand side indicate full marks.
-10. Assume suitable data if necessary.
-
-Q1) a) Explain Automation and types of automation in brief. (08-Marks)
-b) Explain open loop and closed loop control system with a neat block diagram. (05-
-Marks) ;
-j c) With suitable example explain ladder logic diagram for a PLC. (07 marks)
-
-Q2) a) Draw the complete root locus for the,
-G(s) Hs) -SCSA4IE-SA4-B-S+ 2) ©
-
-Determine value of K for stability also find oscillating frequencies.
-
-: (12-Marks)
-b) Explain mathematical modeling with the help of electro — mechanical system.
-| (08-Marks)
-ye) a) What is actuator? List different types of pneumatic actuators and explain them.
-(12-Marks) .
-
-; b) Explain stability of control system with suitable example. (08-Marks)
-Q4) a) Compare Pneumatic. and Hydraulic systems with different criteria.
-(11-Marks)
-
-b) Draw following pneumatics valves. (09-Marks)
-
-1) 3/2 open normal position valve
-2) 5/3 closed central position valve
-3) Sequence valve
---- page 2 ---
-Q5) Design and explain a sequential circuit using cascade method for the following
-
-sequence in pneumatic system.
-A*BTA’B’ (20-Marks)
-
-Q6 a) What is a PLC? Explain the elements of PLC with block diagram.
-
-(12-Marks) ;
-b) Explain AND, OR, NOT, NAND Logic Gates. (08-Marks)
-Q7) Write Short Notes: (any three) (20-Marks)
-
-1 DC Servomotors.
-
-2 Future of Automation
-
-3 Robot Anatomy
-
-4 Automated Guided Vehicle (AGV)
-5 Applications of robotics
-
-ae
 ````

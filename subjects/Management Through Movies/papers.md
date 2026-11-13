@@ -4432,6 +4432,91 @@ Q7 XYZ Ltd. is into manufacturing of home and kitchen appliances, it wants to me
 suggest ways to overcome that resistance.
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 1f52d4d0dfd9
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/MANAGEMENT THROUGH MOVIES (OE-IV)/Management Through Movies (OE-IV).pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 5 / 5/2023
+- Text: ocr (2 pages), mean OCR confidence 91.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
+Academic Year: 2022-2023
+
+Program: B. Tech / MBA Tech Year: IN/IV_ Semester: VI/VIII
+Stream; ALL
+
+Subject: Management Through Movies (OE-IV) Time: 3 hrs (10 am_to 1 pm)
+Date: 5 / 5/2023 No. of Pages: 2
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [20]
+CO-1 ; BL-2 a. | Describe 4 types of Market Segmentation. [5]
+CO- 1; BL-2 b. | What are various forces of change? Explain. [5]
+a hy ¢. | Explain Process for motivation in detail with an example [5]
+Co- 1, d. Compare Leader Vs Manager [5]
+BL-2
+Q2 “The True Cost: The Bitter Truth behind Fast Fashion”, Explain the Environmental 120]
+CO-2; BL-4 CSR required for sustainable development in perspective of given statement.
+Q3 a. | Apply STP within any automobile product of your choice and also explain how they 110]
+CO-2; BL-3 relate to the Marketing Mix elements.
+Q3 b. | Formulate a strategy to maintain ethical culture in your organization. [10]
+CO-2; BL-6
+--- page 2 ---
+John has been a project leader at XYZ corp. for five years. John’s job
+description involves scheduling work for his team, coordinating their work
+
+with that of the other departments, and providing feedback. However, XYZ
+
+4 corp. off late started hiring experienced people. John’s, who has successfully | [20]
+CO-2; BL-4 . : toes : : :
+led this team, believes that it is his task-oriented and directive approach that
+has helped him in the last five years and will be effective in future as well. Do
+you agree with John? Give reasons. Also, explain other styles of leadership
+Qs a. | Determine any 3 industry uses of ChatGPT ? What are the various challenges for
+. j : [10]
+CO-2; BL-5 companies which want to create and use ChatGPT like applications.
+Q5 b. | Appraise Elon Musk as an Entrepreneur from the lens of the traits that a great 110]
+CO-2; BL-5 entrepreneur must possess.
+a. | Sunita's parents used to pay her an allowance every week to feed the cats and
+to do a few other chores around the house. However, once her mother lost her
+job, her parents stopped giving her an allowance. Although Sunita quit making
+Q6 her bed every morning, she still continued to feed the cats.
+“very g
+CO-2; SO-; a) Explain Sunita’s behavior. [10]
+BL-3 b) If you are General Manager Sales and due to financial crunch (organization
+is facing) you are not able to pay incentives to your sales force; what steps will
+you take to motivate your employees.
+Q6 b. Dissect the motivations in Maslow’s Hierarchy of Needs that are met by the
+-2; [10]
+or Superbikes (Motorbikes priced INR 10 Lacs+). Justify your view.
+Q7 : ; ; :
+Explain the process and elements of project management in detail [20]
+CO-1; BL-2
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 431e68446328
 
 - Departments: Common (all branches)
@@ -4858,89 +4943,4 @@ Q6 Reflecting upon the movie “SooraraiPottru”. Explain in your own words wha
 CO-2; BL-2 takes to be a successful entrepreneur.
 
 QQ} 2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 1f52d4d0dfd9
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/MANAGEMENT THROUGH MOVIES (OE-IV)/Management Through Movies (OE-IV).pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 5 / 5/2023
-- Text: ocr (2 pages), mean OCR confidence 91.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
-Academic Year: 2022-2023
-
-Program: B. Tech / MBA Tech Year: IN/IV_ Semester: VI/VIII
-Stream; ALL
-
-Subject: Management Through Movies (OE-IV) Time: 3 hrs (10 am_to 1 pm)
-Date: 5 / 5/2023 No. of Pages: 2
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [20]
-CO-1 ; BL-2 a. | Describe 4 types of Market Segmentation. [5]
-CO- 1; BL-2 b. | What are various forces of change? Explain. [5]
-a hy ¢. | Explain Process for motivation in detail with an example [5]
-Co- 1, d. Compare Leader Vs Manager [5]
-BL-2
-Q2 “The True Cost: The Bitter Truth behind Fast Fashion”, Explain the Environmental 120]
-CO-2; BL-4 CSR required for sustainable development in perspective of given statement.
-Q3 a. | Apply STP within any automobile product of your choice and also explain how they 110]
-CO-2; BL-3 relate to the Marketing Mix elements.
-Q3 b. | Formulate a strategy to maintain ethical culture in your organization. [10]
-CO-2; BL-6
---- page 2 ---
-John has been a project leader at XYZ corp. for five years. John’s job
-description involves scheduling work for his team, coordinating their work
-
-with that of the other departments, and providing feedback. However, XYZ
-
-4 corp. off late started hiring experienced people. John’s, who has successfully | [20]
-CO-2; BL-4 . : toes : : :
-led this team, believes that it is his task-oriented and directive approach that
-has helped him in the last five years and will be effective in future as well. Do
-you agree with John? Give reasons. Also, explain other styles of leadership
-Qs a. | Determine any 3 industry uses of ChatGPT ? What are the various challenges for
-. j : [10]
-CO-2; BL-5 companies which want to create and use ChatGPT like applications.
-Q5 b. | Appraise Elon Musk as an Entrepreneur from the lens of the traits that a great 110]
-CO-2; BL-5 entrepreneur must possess.
-a. | Sunita's parents used to pay her an allowance every week to feed the cats and
-to do a few other chores around the house. However, once her mother lost her
-job, her parents stopped giving her an allowance. Although Sunita quit making
-Q6 her bed every morning, she still continued to feed the cats.
-“very g
-CO-2; SO-; a) Explain Sunita’s behavior. [10]
-BL-3 b) If you are General Manager Sales and due to financial crunch (organization
-is facing) you are not able to pay incentives to your sales force; what steps will
-you take to motivate your employees.
-Q6 b. Dissect the motivations in Maslow’s Hierarchy of Needs that are met by the
--2; [10]
-or Superbikes (Motorbikes priced INR 10 Lacs+). Justify your view.
-Q7 : ; ; :
-Explain the process and elements of project management in detail [20]
-CO-1; BL-2
 ````

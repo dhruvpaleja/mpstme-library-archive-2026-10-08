@@ -651,6 +651,7 @@ it.(Use an Idiom)
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BUSINESS COMMUNICATION & VALUE SCIENCE-I/Business Communication & Value Science-I, Sem-I, A Y 2023-24, Final Exam.pdf`
 - Printed on paper: max marks: 100; exam date: 22 /11 /2023
 - Text: ocr (8 pages), mean OCR confidence 92.3
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS (S( jisR
@@ -842,7 +843,6 @@ B. "Some plants require a great deal of light in order to grow."
 
 C. "No one knows this town like I do."
 
-D. "Jessica Hampton is my bestest friend."
 --- page 5 ---
 ee
 
@@ -854,10 +854,8 @@ C. politician
 D. actor
 
 4. John Wilkes Booth can best be described as: [1]
-A. treacherous, meaning unfaithful or disloyal
 B. patriotic, meaning devoted to one's country
 C. amicable, meaning friendly or agreeable
-D. idiotic, meaning senselessly foolish or stupid
 
 5. As used in the final paragraph, dubious most nearly means [1]
 
@@ -973,7 +971,6 @@ ing in the daylight, the estate
 takes on
 option from the given list)
 
-A. aneerie B.astately C.ajovial D.a marvelous
 
 peanuts: the smallest taste of peanut butter can
 
@@ -1869,6 +1866,7 @@ X- a
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BUSINESS COMMUNICATION & VALUE SCIENCE-I/BUSINESS COMMUNICATION AND VALUE SCIENCE I 2019-20 FINAL 2019-20.pdf`
 - Printed on paper: exam date: 18 November 2019
 - Text: ocr (7 pages), mean OCR confidence 93.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 &
@@ -2039,7 +2037,6 @@ A. highlight the reasons why English Ivy’s fast growth rate is beneficial
 B. argue that English Ivy is an essential plant for homeowners
 
 C. educate readers about how to use English Ivy to insulate their homes
-D. belittle detractors of English Ivy
 
 E. defend the reputation of English Ivy
 

@@ -4,6 +4,152 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Exam not stated · Sem 2 · paper 110dcd399507
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS/Linear Algebra and Differential Equations, Sem-II, Batch Batch 2022-23, 2023-24 &_62fdf422.pdf`
+- Printed on paper: max marks: 100; exam date: 29 June 2026
+- Text: ocr (3 pages), mean OCR confidence 78.6
+
+````text
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENG
+
+Program: B Tech/ MBA Tech (IT/ AI/DS/COMP/EXTC/ MXTC/CSE-CS/CS/ °
+AIML/AIDS/MECH/CIVIL/CSE-DS(7057)/CSBS 7
+
+Subject: Linear Algebra and Differential Equations Year: I Semester: [I
+
+Date : 29 June 2026
+
+Marks: 100
+
+SVKM’S NMIMS
+
+Academic Year: 2025-26
+
+Time: 10.00 am to 1.00 pm (3-hrs)
+No. of Pages: 03
+
+Re-Exam (2022-23/2023-24/2024-25)
+
+Instructions:
+
+1. This question paper contains 3 pages.
+
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+
+4. Question No. 1 is compulsory.
+
+5. Out of remaining questions, attempt any 4 questions.
+
+6. All questions carry equal marks.
+C 7. Assume Suitable data if necessary.
+
+Ql. Answer briefly: Marks
+is 6 1 3 8
+2 6 .-1 :
+CO-1; SO-1;BL-1 Reduce the matrix 1 309 7 to row-echelon form and find its rank. [4]
+3
+16 4 12 15
+b.
+. } Draw the image of the unit square with comers (0,0) , (1,0), (1,1) , (0,1) [4]
+CO) S0-L:BL-l and its image under the linear map T(x, y) = (x + 4y, y) and explain the
+geometric effect of T on the square mentioned above.
+€,
+CO-3; SO-1;BL-2 Find the orthogonal trajectories of each of the following family of curves: x-4y=c. [4]
+a
+\ d. 2 21 2
+Co-4; SO-1:BL-2 Solve ((p +4) (D -1)| y=0. [4]
+CO-5; SO-1:BL-2 ©. | Form.the PDE by eliminating the arbitrary function from Z = y + f(x? -y’) . [4]
+Q2. a. “ 4 : 2
+Solve 3x+3y+2z=1;x+2y =4;10y+3z=-2;2x-3y—z=S. [6]
+CO-1; SO-1;BL-3
+b.
+Show that T: R° — R? be defined T(x, y,z) =(x+y,x+z,x+y+2z) is invertible. If
+CO-2; $O-1;BL-2 (yz)=(e+y, y+2z) [6]
+invertible, find 7.
+c. | Apply method of variation of parameter to solve the differential equation [8]
+CO-4; SO-2;BL-2 (D?-1)y= .
+l+e* ,
+Q3. a. [6]
+
+CO-1; SO-1; BL¥3
+
+Show that W = {(x,9.2) eR? /x+y-z =0} is the subspace of 0°.
+
+FG 7 ke kk
+--- page 2 ---
+of
+
+@
+
+1 3 4
+
+CO-2; SO-2;BL-3 Verify Cayley-Hamilton theorem and hence find Aland A*,whereA=|2 -1 2 [6]
+. eo 1 -l .
+Coes L Obtain power series solution in power of x of the differential equation . [8]
+-4; SO-2;BL-2 , .
+; ; (x? —Dy"4+3xy'+2xy =0 with y(0)=4and y'(0) =6.
+Q4. a2
+DY 5 9¥ 4 gy = 09% [6]
+CO-4; SO-2;BL-3 Solve : x2 G2 t XG + SY =a.
+11 -l
+CO-2; SO-2;BL-1 Find eigen values and eigen vectorsofd=|2 -l 0 [6]
+2 0 -l
+Determine a basis and dimension of the solution space of following homogeneous systems
+x + 2X -3x3 + xy = 0 [8
+CO-1; SO-2; BL-2 Ai, ty: ila iy, <0 ]
+-2x, -4x_ + 7x3 -2x4 = 0.
+x, -4X_ + 7x3 -2 X4 a_|
+5. 8 :
+‘: Solve a =e, (6]
+CO-4; SO-1:BL-1 dx
+CO-3; SO-1;BL-2 Solve (2xy cos x2— 2xy + 1) dx + (sin x? - x2) dy=0. [6]
+Examine the following sets of vectors for linear dependence/independence
+i) {(13, -4), (1,4, -3), 2,3,-1)} in? (8]
+CO-1; SO-2;BL-1 i) (3, 4), ( ) 23-1} in
+ii) {(1,2, 3), G, 1,0), -2,1;3)} inR®.
+Q6 . Oz . a
+4 Solve the PDE using direct integration method —,— —sin(x-7y)=0. [6]
+CO-5; SO-2;BL-3 Ox" Oy
+A popullation P(t) grows ata rate proportional to its size but is limited by overcrowding . In
+an electric circuit, a time-varying voltage source supplies current to a device. Due to circuit
+-6: SO-2:BL- dP 6
+G0-6;'S0-2;BL-3 properties, the current satisfies the differential equation a +0.5P=0.01, i
+7 )
+Solve the differential equation and obtain the current popullation P(t) b
+= 1 2 1
+0-2; $0-2:BL-2 Show that the matrix 4=| 6 —1 0 | is diagonalizable. Find the transforming matrix M [8]
+=f «2 =]
+and the diagonal matrix D .
+a.
+Q7. Solve the following by the method of Undetermined coefficients [6] -
+24 :
+CO-4; SO-2;BL-3 (D -3D+3)y=sin2x.
+7 i i i i iabl =4 =
+CO-5; SO-2;BL-2 Determine the solution of PDE using the method of separation of variables Ox = By . (6]
+
+FRR 2 Ra Af
+--- page 3 ---
+vy
+
+CO-2; SO-2;BL-3
+
+c.
+
+Find the range and kernel of T: R® > R? defined by T (x,y,z) = (x = Yet z) . Find the
+
+range and kernel of and verify Rank-Nullity theorem.
+
+[8]
+
+G
+
+GR ick tod
+````
+
 ## 2025-26 · Final-Exam · Sem 2 · paper f4740b6f6dbf
 
 - Departments: AI and Data Science, Artificial Intelligence, Computer Engineering, Computer Science, Data Science, Information Technology, Mechanical
@@ -1806,6 +1952,242 @@ CO-5; SO-
 BL- High   3   + 2   = 0, where u ( x ,0) = 4 e   .
  x    y
 ********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper b94595d29b18
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_AI_7051/Linear Algebra and Differential Equations/QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
+- Text: mixed (3 pages), mean OCR confidence 72.9
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+Q1.   Answer briefly:   Marks
+a.    1   2 − 1 4 
+   
+ 2   4   3   4 
+Reduce the matrix   to row-echelon form and find its   [4]
+CO-1; SO-1;BL-1    1   2   3   4 
+   
+ − 1 − 2 6 − 7 
+rank.
+b. Draw the image of the unit square with corners (0,0),(1,0),(1,1) , (0,1)
+under the following linear maps and explain the geometric effect of T
+CO-2; SO-1;BL-1   [4]
+a) T ( x , y ) = ( x ,2 y )
+b) T ( x , y ) = ( x ,2 x + y ) .
+c.   Find the orthogonal trajectories of each of the following family of curve:   [4]
+CO-3; SO-1;BL-2   x + 2 y = c .
+d. Solve  ( D − 2) 3 ( D 2 − 2 D + 2 ) 2  y = 0 .   [4]
+CO-4; SO-1;BL-2
+e. Form the PDE by eliminating the arbitrary function from
+CO-5; SO-1;BL-2   z = x − y − f ( xy ) .   [4]
+Q2.   a.   Solve x1 + 2x2 + 3x3 = 0, 2x1 + 3x2 + x3 = 0,
+4x1 + 5x2 + 4x3 = 0, x1 + 2x2 − 2x3 = 0.   [6]
+CO-1; SO-1;BL-3
+b.
+Show that T: R 3 → R 3 defined by T( x , y , z ) = (3 x − 2 z , y ,3 x + 4 y ) is
+CO-2; SO-1;BL-2   invertible, also find T −. 1   [6]
+c.   [8]
+Apply method of variation of parameters to solve the given differential
+CO-4; SO-2;BL-2
+(D2 + a2) y = sec ax.
+********** 1 **********
+--- page 2 ---
+Q3.   a. Show that W =  ( x , y , z )  R 3 / 2 x − y + 3 z = 0  is the subspace of   3 .   [6]
+CO-4; SO-1; BL-3
+b.   Verify Cayley-Hamilton theorem and hence find A− 1 and A 4 , where
+ 2 0 − 1 
+CO-3; SO-2;BL-3         [6]
+A =  0 2 0  .
+  − 1 0 2  
+c.   Obtain power series solution in power of x of the differential equation
+CO-4; SO-2;BL-2   y  + xy  + ( x 2 + 2) y = 0.   [8]
+Q4.   a.   Solve the following Euler-Cauchy differential equation
+2 d 3 y   d 2 y dy   2   [6]
+CO-4; SO-2;BL-3   x   3 + 3x   2 +   = x logx .
+dx   dx   dx
+b.    2 1 − 3 
+CO-2; SO-2;BL-1   Find eigenvalues and eigenvectors of A =  1 2 0  .   [6]
+   
+  − 1 0 2  
+c. Examine the following sets of vectors for linear dependence/independence
+i)    (2, − 1, 4), (3, 6, 2), (2, 10, − 4)  in R3   [8]
+CO-1; SO-2; BL-2
+ii)    (1, 3, 3), (0, 1, 4), (5, 6, 3)  in R3 .
+Q5.   a.   Solve d 2 y − 3 dy + 2y = e 2x .   [6]
+CO-4; SO-1;BL-1   dx 2   dx
+CO-3; SO-1;BL-2   b. Solve (e y + 1)cosx dx + e y sinx dy = 0.   [6]
+c.   Find the basis and dimension of solution space of the following system
+i)    ( x , y , z )    3 / x + 2 y − z = 0  in   3 .   [8]
+CO-1; SO-2;BL-1
+ii)    ( x , y , z )    3 / x = 3 t , y = t , z = 5 t t   in   3
+Q6.   a.    2 z   y    z   − y
+Solve the PDE   = z for z = e and   = e   .   [6]
+CO-5; SO-2;BL-3    x 2    x
+b.   In an electric circuit, a time-varying voltage source supplies current I ( t )
+to a device. Due to circuit properties, the current satisfies the differential
+CO-6; SO-2;BL-3   equation ( t + 1 ) dI + I = t 2 + t   [6]
+dt
+Solve the differential equation and obtain the current I ( t ) .
+c.    − 2 2 − 3 
+   
+Show that the matrix A =  2   1 − 6  is diagonalizable. Also find the   [8]
+CO-2; SO-2;BL-2
+  − 1 − 2 0  
+diagonal matrix and transforming matrix.
+Q7.   a.   Solve the following by the method of Undetermined coefficients
+CO-4; SO-2;BL-3   ( D 2 − 3 D + 3 ) y = 12sin3 x .   [6]
+b. Determine the solution of PDE using the method of separation of variables
+CO-5; SO-2;BL-2   4  u +  u = 3 u , given that u = 3 e − y − e − 5 y when x = 0.   [6]
+ x  y
+********** 2 **********
+--- page 3 ---
+Find rank and nullity of T: R* + R° defined by
+
+T (x, ys z) = (x —Y,Y-Z,2- x) and verify rank — nullity theorem. [8]
+
+CO-2; SO-2;BL-3
+
+FC QI a iar
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 613927df69f3
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
+- Text: mixed (3 pages), mean OCR confidence 72.9
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+Q1.   Answer briefly:   Marks
+a.    1   2 − 1 4 
+   
+ 2   4   3   4 
+Reduce the matrix   to row-echelon form and find its   [4]
+CO-1; SO-1;BL-1    1   2   3   4 
+   
+ − 1 − 2 6 − 7 
+rank.
+b. Draw the image of the unit square with corners (0,0),(1,0),(1,1) , (0,1)
+under the following linear maps and explain the geometric effect of T
+CO-2; SO-1;BL-1   [4]
+a) T ( x , y ) = ( x ,2 y )
+b) T ( x , y ) = ( x ,2 x + y ) .
+c.   Find the orthogonal trajectories of each of the following family of curve:   [4]
+CO-3; SO-1;BL-2   x + 2 y = c .
+d. Solve  ( D − 2) 3 ( D 2 − 2 D + 2 ) 2  y = 0 .   [4]
+CO-4; SO-1;BL-2
+e. Form the PDE by eliminating the arbitrary function from
+CO-5; SO-1;BL-2   z = x − y − f ( xy ) .   [4]
+Q2.   a.   Solve x1 + 2x2 + 3x3 = 0, 2x1 + 3x2 + x3 = 0,
+4x1 + 5x2 + 4x3 = 0, x1 + 2x2 − 2x3 = 0.   [6]
+CO-1; SO-1;BL-3
+b.
+Show that T: R 3 → R 3 defined by T( x , y , z ) = (3 x − 2 z , y ,3 x + 4 y ) is
+CO-2; SO-1;BL-2   invertible, also find T −. 1   [6]
+c.   [8]
+Apply method of variation of parameters to solve the given differential
+CO-4; SO-2;BL-2
+(D2 + a2) y = sec ax.
+********** 1 **********
+--- page 2 ---
+Q3.   a. Show that W =  ( x , y , z )  R 3 / 2 x − y + 3 z = 0  is the subspace of   3 .   [6]
+CO-4; SO-1; BL-3
+b.   Verify Cayley-Hamilton theorem and hence find A− 1 and A 4 , where
+ 2 0 − 1 
+CO-3; SO-2;BL-3         [6]
+A =  0 2 0  .
+  − 1 0 2  
+c.   Obtain power series solution in power of x of the differential equation
+CO-4; SO-2;BL-2   y  + xy  + ( x 2 + 2) y = 0.   [8]
+Q4.   a.   Solve the following Euler-Cauchy differential equation
+2 d 3 y   d 2 y dy   2   [6]
+CO-4; SO-2;BL-3   x   3 + 3x   2 +   = x logx .
+dx   dx   dx
+b.    2 1 − 3 
+CO-2; SO-2;BL-1   Find eigenvalues and eigenvectors of A =  1 2 0  .   [6]
+   
+  − 1 0 2  
+c. Examine the following sets of vectors for linear dependence/independence
+i)    (2, − 1, 4), (3, 6, 2), (2, 10, − 4)  in R3   [8]
+CO-1; SO-2; BL-2
+ii)    (1, 3, 3), (0, 1, 4), (5, 6, 3)  in R3 .
+Q5.   a.   Solve d 2 y − 3 dy + 2y = e 2x .   [6]
+CO-4; SO-1;BL-1   dx 2   dx
+CO-3; SO-1;BL-2   b. Solve (e y + 1)cosx dx + e y sinx dy = 0.   [6]
+c.   Find the basis and dimension of solution space of the following system
+i)    ( x , y , z )    3 / x + 2 y − z = 0  in   3 .   [8]
+CO-1; SO-2;BL-1
+ii)    ( x , y , z )    3 / x = 3 t , y = t , z = 5 t t   in   3
+Q6.   a.    2 z   y    z   − y
+Solve the PDE   = z for z = e and   = e   .   [6]
+CO-5; SO-2;BL-3    x 2    x
+b.   In an electric circuit, a time-varying voltage source supplies current I ( t )
+to a device. Due to circuit properties, the current satisfies the differential
+CO-6; SO-2;BL-3   equation ( t + 1 ) dI + I = t 2 + t   [6]
+dt
+Solve the differential equation and obtain the current I ( t ) .
+c.    − 2 2 − 3 
+   
+Show that the matrix A =  2   1 − 6  is diagonalizable. Also find the   [8]
+CO-2; SO-2;BL-2
+  − 1 − 2 0  
+diagonal matrix and transforming matrix.
+Q7.   a.   Solve the following by the method of Undetermined coefficients
+CO-4; SO-2;BL-3   ( D 2 − 3 D + 3 ) y = 12sin3 x .   [6]
+b. Determine the solution of PDE using the method of separation of variables
+CO-5; SO-2;BL-2   4  u +  u = 3 u , given that u = 3 e − y − e − 5 y when x = 0.   [6]
+ x  y
+********** 2 **********
+--- page 3 ---
+Find rank and nullity of T: R* + R° defined by
+
+T (x, ys z) = (x —Y,Y-Z,2- x) and verify rank — nullity theorem. [8]
+
+CO-2; SO-2;BL-3
+
+FC QI a iar
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · paper b99a52dccaf6
@@ -8134,124 +8516,6 @@ CO-2; SO-2;BL-3   T ( x , y , z ) = ( x − y , y − z , z − x ) and verify R
 ********** 3 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · paper b94595d29b18
-
-- Departments: Artificial Intelligence
-- Programmes: MBATech AI 7051
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_AI_7051/Linear Algebra and Differential Equations/QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
-- Text: mixed (3 pages), mean OCR confidence 72.9
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
-(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Linear Algebra and Differential Equations
-Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. All questions carry equal marks.
-7. Assume Suitable data if necessary.
-Q1.   Answer briefly:   Marks
-a.    1   2 − 1 4 
-   
- 2   4   3   4 
-Reduce the matrix   to row-echelon form and find its   [4]
-CO-1; SO-1;BL-1    1   2   3   4 
-   
- − 1 − 2 6 − 7 
-rank.
-b. Draw the image of the unit square with corners (0,0),(1,0),(1,1) , (0,1)
-under the following linear maps and explain the geometric effect of T
-CO-2; SO-1;BL-1   [4]
-a) T ( x , y ) = ( x ,2 y )
-b) T ( x , y ) = ( x ,2 x + y ) .
-c.   Find the orthogonal trajectories of each of the following family of curve:   [4]
-CO-3; SO-1;BL-2   x + 2 y = c .
-d. Solve  ( D − 2) 3 ( D 2 − 2 D + 2 ) 2  y = 0 .   [4]
-CO-4; SO-1;BL-2
-e. Form the PDE by eliminating the arbitrary function from
-CO-5; SO-1;BL-2   z = x − y − f ( xy ) .   [4]
-Q2.   a.   Solve x1 + 2x2 + 3x3 = 0, 2x1 + 3x2 + x3 = 0,
-4x1 + 5x2 + 4x3 = 0, x1 + 2x2 − 2x3 = 0.   [6]
-CO-1; SO-1;BL-3
-b.
-Show that T: R 3 → R 3 defined by T( x , y , z ) = (3 x − 2 z , y ,3 x + 4 y ) is
-CO-2; SO-1;BL-2   invertible, also find T −. 1   [6]
-c.   [8]
-Apply method of variation of parameters to solve the given differential
-CO-4; SO-2;BL-2
-(D2 + a2) y = sec ax.
-********** 1 **********
---- page 2 ---
-Q3.   a. Show that W =  ( x , y , z )  R 3 / 2 x − y + 3 z = 0  is the subspace of   3 .   [6]
-CO-4; SO-1; BL-3
-b.   Verify Cayley-Hamilton theorem and hence find A− 1 and A 4 , where
- 2 0 − 1 
-CO-3; SO-2;BL-3         [6]
-A =  0 2 0  .
-  − 1 0 2  
-c.   Obtain power series solution in power of x of the differential equation
-CO-4; SO-2;BL-2   y  + xy  + ( x 2 + 2) y = 0.   [8]
-Q4.   a.   Solve the following Euler-Cauchy differential equation
-2 d 3 y   d 2 y dy   2   [6]
-CO-4; SO-2;BL-3   x   3 + 3x   2 +   = x logx .
-dx   dx   dx
-b.    2 1 − 3 
-CO-2; SO-2;BL-1   Find eigenvalues and eigenvectors of A =  1 2 0  .   [6]
-   
-  − 1 0 2  
-c. Examine the following sets of vectors for linear dependence/independence
-i)    (2, − 1, 4), (3, 6, 2), (2, 10, − 4)  in R3   [8]
-CO-1; SO-2; BL-2
-ii)    (1, 3, 3), (0, 1, 4), (5, 6, 3)  in R3 .
-Q5.   a.   Solve d 2 y − 3 dy + 2y = e 2x .   [6]
-CO-4; SO-1;BL-1   dx 2   dx
-CO-3; SO-1;BL-2   b. Solve (e y + 1)cosx dx + e y sinx dy = 0.   [6]
-c.   Find the basis and dimension of solution space of the following system
-i)    ( x , y , z )    3 / x + 2 y − z = 0  in   3 .   [8]
-CO-1; SO-2;BL-1
-ii)    ( x , y , z )    3 / x = 3 t , y = t , z = 5 t t   in   3
-Q6.   a.    2 z   y    z   − y
-Solve the PDE   = z for z = e and   = e   .   [6]
-CO-5; SO-2;BL-3    x 2    x
-b.   In an electric circuit, a time-varying voltage source supplies current I ( t )
-to a device. Due to circuit properties, the current satisfies the differential
-CO-6; SO-2;BL-3   equation ( t + 1 ) dI + I = t 2 + t   [6]
-dt
-Solve the differential equation and obtain the current I ( t ) .
-c.    − 2 2 − 3 
-   
-Show that the matrix A =  2   1 − 6  is diagonalizable. Also find the   [8]
-CO-2; SO-2;BL-2
-  − 1 − 2 0  
-diagonal matrix and transforming matrix.
-Q7.   a.   Solve the following by the method of Undetermined coefficients
-CO-4; SO-2;BL-3   ( D 2 − 3 D + 3 ) y = 12sin3 x .   [6]
-b. Determine the solution of PDE using the method of separation of variables
-CO-5; SO-2;BL-2   4  u +  u = 3 u , given that u = 3 e − y − e − 5 y when x = 0.   [6]
- x  y
-********** 2 **********
---- page 3 ---
-Find rank and nullity of T: R* + R° defined by
-
-T (x, ys z) = (x —Y,Y-Z,2- x) and verify rank — nullity theorem. [8]
-
-CO-2; SO-2;BL-3
-
-FC QI a iar
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · paper 3b976e4e7db0
 
 - Departments: Artificial Intelligence
@@ -8366,124 +8630,6 @@ CO-5; SO-2;BL-2   variables 4  u +  u = 3 u , given that u = 3 e− y when
 c.   Find the range and kernel of T : R 3 → R 3 defined by   [8]
 CO-2; SO-2;BL-3   T ( x , y , z ) = ( x − y , y − z , z − x ) and verify Rank-Nullity theorem.
 ********** 3 **********
-````
-
-## 2024-25 · Re-Exam · Sem 2 · paper 613927df69f3
-
-- Departments: Computer Engineering
-- Programmes: MBATech Computer 7047
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
-- Text: mixed (3 pages), mean OCR confidence 72.9
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
-(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Linear Algebra and Differential Equations
-Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. All questions carry equal marks.
-7. Assume Suitable data if necessary.
-Q1.   Answer briefly:   Marks
-a.    1   2 − 1 4 
-   
- 2   4   3   4 
-Reduce the matrix   to row-echelon form and find its   [4]
-CO-1; SO-1;BL-1    1   2   3   4 
-   
- − 1 − 2 6 − 7 
-rank.
-b. Draw the image of the unit square with corners (0,0),(1,0),(1,1) , (0,1)
-under the following linear maps and explain the geometric effect of T
-CO-2; SO-1;BL-1   [4]
-a) T ( x , y ) = ( x ,2 y )
-b) T ( x , y ) = ( x ,2 x + y ) .
-c.   Find the orthogonal trajectories of each of the following family of curve:   [4]
-CO-3; SO-1;BL-2   x + 2 y = c .
-d. Solve  ( D − 2) 3 ( D 2 − 2 D + 2 ) 2  y = 0 .   [4]
-CO-4; SO-1;BL-2
-e. Form the PDE by eliminating the arbitrary function from
-CO-5; SO-1;BL-2   z = x − y − f ( xy ) .   [4]
-Q2.   a.   Solve x1 + 2x2 + 3x3 = 0, 2x1 + 3x2 + x3 = 0,
-4x1 + 5x2 + 4x3 = 0, x1 + 2x2 − 2x3 = 0.   [6]
-CO-1; SO-1;BL-3
-b.
-Show that T: R 3 → R 3 defined by T( x , y , z ) = (3 x − 2 z , y ,3 x + 4 y ) is
-CO-2; SO-1;BL-2   invertible, also find T −. 1   [6]
-c.   [8]
-Apply method of variation of parameters to solve the given differential
-CO-4; SO-2;BL-2
-(D2 + a2) y = sec ax.
-********** 1 **********
---- page 2 ---
-Q3.   a. Show that W =  ( x , y , z )  R 3 / 2 x − y + 3 z = 0  is the subspace of   3 .   [6]
-CO-4; SO-1; BL-3
-b.   Verify Cayley-Hamilton theorem and hence find A− 1 and A 4 , where
- 2 0 − 1 
-CO-3; SO-2;BL-3         [6]
-A =  0 2 0  .
-  − 1 0 2  
-c.   Obtain power series solution in power of x of the differential equation
-CO-4; SO-2;BL-2   y  + xy  + ( x 2 + 2) y = 0.   [8]
-Q4.   a.   Solve the following Euler-Cauchy differential equation
-2 d 3 y   d 2 y dy   2   [6]
-CO-4; SO-2;BL-3   x   3 + 3x   2 +   = x logx .
-dx   dx   dx
-b.    2 1 − 3 
-CO-2; SO-2;BL-1   Find eigenvalues and eigenvectors of A =  1 2 0  .   [6]
-   
-  − 1 0 2  
-c. Examine the following sets of vectors for linear dependence/independence
-i)    (2, − 1, 4), (3, 6, 2), (2, 10, − 4)  in R3   [8]
-CO-1; SO-2; BL-2
-ii)    (1, 3, 3), (0, 1, 4), (5, 6, 3)  in R3 .
-Q5.   a.   Solve d 2 y − 3 dy + 2y = e 2x .   [6]
-CO-4; SO-1;BL-1   dx 2   dx
-CO-3; SO-1;BL-2   b. Solve (e y + 1)cosx dx + e y sinx dy = 0.   [6]
-c.   Find the basis and dimension of solution space of the following system
-i)    ( x , y , z )    3 / x + 2 y − z = 0  in   3 .   [8]
-CO-1; SO-2;BL-1
-ii)    ( x , y , z )    3 / x = 3 t , y = t , z = 5 t t   in   3
-Q6.   a.    2 z   y    z   − y
-Solve the PDE   = z for z = e and   = e   .   [6]
-CO-5; SO-2;BL-3    x 2    x
-b.   In an electric circuit, a time-varying voltage source supplies current I ( t )
-to a device. Due to circuit properties, the current satisfies the differential
-CO-6; SO-2;BL-3   equation ( t + 1 ) dI + I = t 2 + t   [6]
-dt
-Solve the differential equation and obtain the current I ( t ) .
-c.    − 2 2 − 3 
-   
-Show that the matrix A =  2   1 − 6  is diagonalizable. Also find the   [8]
-CO-2; SO-2;BL-2
-  − 1 − 2 0  
-diagonal matrix and transforming matrix.
-Q7.   a.   Solve the following by the method of Undetermined coefficients
-CO-4; SO-2;BL-3   ( D 2 − 3 D + 3 ) y = 12sin3 x .   [6]
-b. Determine the solution of PDE using the method of separation of variables
-CO-5; SO-2;BL-2   4  u +  u = 3 u , given that u = 3 e − y − e − 5 y when x = 0.   [6]
- x  y
-********** 2 **********
---- page 3 ---
-Find rank and nullity of T: R* + R° defined by
-
-T (x, ys z) = (x —Y,Y-Z,2- x) and verify rank — nullity theorem. [8]
-
-CO-2; SO-2;BL-3
-
-FC QI a iar
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · paper 7c4aaa69ae39
@@ -9187,6 +9333,7 @@ BL- Low
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/Linear Algebra and Differential Equations/Linear Algebra and Differential Equations Batch 2024-25 Batch 2022-23,2023-24 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: ocr (2 pages), mean OCR confidence 74.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Programme: B.
@@ -9321,153 +9468,236 @@ BL. Low traffic flow:
 
 3x+2y+4z=7; xt yt+z=4,x+3y+5z=2. -
 
-oh oR oR RR RR 2: oR RK RK KE
 ````
 
-## 2023-24 · Exam not stated · Sem 2 · paper 110dcd399507
+## 2023-24 · Final + Re-Exam · Sem 2 · paper dd95df3526b8
 
 - Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS/Linear Algebra and Differential Equations, Sem-II, Batch Batch 2022-23, 2023-24 &_62fdf422.pdf`
-- Printed on paper: max marks: 100; exam date: 29 June 2026
-- Text: ocr (3 pages), mean OCR confidence 78.6
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS/Linear Algebra & Differential equations, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf` (+1 identical copies)
+- Printed on paper: exam date: 18/04/2024
+- Text: ocr (3 pages), mean OCR confidence 76.9
 
 ````text
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENG
+| SVKM’S NMIMS-
 
-Program: B Tech/ MBA Tech (IT/ AI/DS/COMP/EXTC/ MXTC/CSE-CS/CS/ °
-AIML/AIDS/MECH/CIVIL/CSE-DS(7057)/CSBS 7
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
 
-Subject: Linear Algebra and Differential Equations Year: I Semester: [I
+Academic Year:2023-2024
 
-Date : 29 June 2026
+Program: B TECH / MBA TECH/ BTI Civil Year: / Semester? II / VI
 
-Marks: 100
+Stream : IT/EXTC/MXTC/CSE CS/ DS/Comp Engg/Comp at
+Sci/AI/AIML/AIDS/Mechanical/Civil/CSEDS_ ——_/BTI Civil ~
 
-SVKM’S NMIMS
+Subject: Linear Algebra and Differential Equations " Time: 2.00 pm to 5.00 pm (3 Hes)
+Date: 18/04/2024 No. of Pages: 03
 
-Academic Year: 2025-26
+Marks:.100- -
+- Final Examination/Re-exam 2021-22, 2022-23
 
-Time: 10.00 am to 1.00 pm (3-hrs)
-No. of Pages: 03
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
 
-Re-Exam (2022-23/2023-24/2024-25)
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql ;
+Answer briefly:
+EAS 2
+CO-3; (a) ; 1-5 1.
+SO-1: Reduce to row.echelon form and find the rank of a matrix A= 1 st" [4]
+~~. BL-Low ‘
 
-Instructions:
-
-1. This question paper contains 3 pages.
-
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-
-4. Question No. 1 is compulsory.
-
-5. Out of remaining questions, attempt any 4 questions.
-
-6. All questions carry equal marks.
-C 7. Assume Suitable data if necessary.
-
-Ql. Answer briefly: Marks
-is 6 1 3 8
-2 6 .-1 :
-CO-1; SO-1;BL-1 Reduce the matrix 1 309 7 to row-echelon form and find its rank. [4]
-3
-16 4 12 15
-b.
-. } Draw the image of the unit square with comers (0,0) , (1,0), (1,1) , (0,1) [4]
-CO) S0-L:BL-l and its image under the linear map T(x, y) = (x + 4y, y) and explain the
-geometric effect of T on the square mentioned above.
-€,
-CO-3; SO-1;BL-2 Find the orthogonal trajectories of each of the following family of curves: x-4y=c. [4]
-a
-\ d. 2 21 2
-Co-4; SO-1:BL-2 Solve ((p +4) (D -1)| y=0. [4]
-CO-5; SO-1:BL-2 ©. | Form.the PDE by eliminating the arbitrary function from Z = y + f(x? -y’) . [4]
-Q2. a. “ 4 : 2
-Solve 3x+3y+2z=1;x+2y =4;10y+3z=-2;2x-3y—z=S. [6]
-CO-1; SO-1;BL-3
-b.
-Show that T: R° — R? be defined T(x, y,z) =(x+y,x+z,x+y+2z) is invertible. If
-CO-2; $O-1;BL-2 (yz)=(e+y, y+2z) [6]
-invertible, find 7.
-c. | Apply method of variation of parameter to solve the differential equation [8]
-CO-4; SO-2;BL-2 (D?-1)y= .
-l+e* ,
-Q3. a. [6]
-
-CO-1; SO-1; BL¥3
-
-Show that W = {(x,9.2) eR? /x+y-z =0} is the subspace of 0°.
-
-FG 7 ke kk
+; 5. 3 -6
+CO-1; (b) Show that the following mapping is a linear transformation . [4]
+SO-1; bey 13 3 o 1 g
+Pt ont TR? >R’, T(x, y,z) =(x,»,0). .
+cO0-2; : [4]
+ie Solve e” dk+ (xe”+2y)dy =0.
+Moderate
+CO-2, () 7 - [4]
+SO-2; Solve Hy 13 ¥ Y 4 36y= 0. ,
+BL-2 a' de
+Moderate . ;
+co-2; © © Form the partial differential equation by eliminating the arbitrary function fromthe [4]
+SO-2; - following equation
+BL-High z=x+y+ f(xy).
 --- page 2 ---
-of
+Q2
+CO-3;
+SO-2;
+BL-Low
+CO-1;
+“SO-1;
+BL-
+Moderate
+CO-2;
+SO-2;
+BL-
+Moderate
+
+Q3 |
+CO-1;
+SO-1;
+BL-
+Moderate
+
+CO-4;
+SO-1;
+BL-
+Moderate
+
+CO-4;
+SO-2;
+
+a
+
+BL-Low .-
+
+Q4
+CO-2;
+SO-2;
+BL-
+Moderate
+
+CO-3;
+SO-2;
+BL-Low
+
+CO-1;
+SO-1;
+BL-High
+
+(a)
+
+(b).
+
+(©)
+
+(a)
+
+)
+
+‘(©)
 
 @
 
-1 3 4
+(b)
 
-CO-2; SO-2;BL-3 Verify Cayley-Hamilton theorem and hence find Aland A*,whereA=|2 -1 2 [6]
-. eo 1 -l .
-Coes L Obtain power series solution in power of x of the differential equation . [8]
--4; SO-2;BL-2 , .
-; ; (x? —Dy"4+3xy'+2xy =0 with y(0)=4and y'(0) =6.
-Q4. a2
-DY 5 9¥ 4 gy = 09% [6]
-CO-4; SO-2;BL-3 Solve : x2 G2 t XG + SY =a.
-11 -l
-CO-2; SO-2;BL-1 Find eigen values and eigen vectorsofd=|2 -l 0 [6]
-2 0 -l
-Determine a basis and dimension of the solution space of following homogeneous systems
-x + 2X -3x3 + xy = 0 [8
-CO-1; SO-2; BL-2 Ai, ty: ila iy, <0 ]
--2x, -4x_ + 7x3 -2x4 = 0.
-x, -4X_ + 7x3 -2 X4 a_|
-5. 8 :
-‘: Solve a =e, (6]
-CO-4; SO-1:BL-1 dx
-CO-3; SO-1;BL-2 Solve (2xy cos x2— 2xy + 1) dx + (sin x? - x2) dy=0. [6]
-Examine the following sets of vectors for linear dependence/independence
-i) {(13, -4), (1,4, -3), 2,3,-1)} in? (8]
-CO-1; SO-2;BL-1 i) (3, 4), ( ) 23-1} in
-ii) {(1,2, 3), G, 1,0), -2,1;3)} inR®.
-Q6 . Oz . a
-4 Solve the PDE using direct integration method —,— —sin(x-7y)=0. [6]
-CO-5; SO-2;BL-3 Ox" Oy
-A popullation P(t) grows ata rate proportional to its size but is limited by overcrowding . In
-an electric circuit, a time-varying voltage source supplies current to a device. Due to circuit
--6: SO-2:BL- dP 6
-G0-6;'S0-2;BL-3 properties, the current satisfies the differential equation a +0.5P=0.01, i
-7 )
-Solve the differential equation and obtain the current popullation P(t) b
-= 1 2 1
-0-2; $0-2:BL-2 Show that the matrix 4=| 6 —1 0 | is diagonalizable. Find the transforming matrix M [8]
-=f «2 =]
-and the diagonal matrix D .
-a.
-Q7. Solve the following by the method of Undetermined coefficients [6] -
-24 :
-CO-4; SO-2;BL-3 (D -3D+3)y=sin2x.
-7 i i i i iabl =4 =
-CO-5; SO-2;BL-2 Determine the solution of PDE using the method of separation of variables Ox = By . (6]
+()
 
-FRR 2 Ra Af
---- page 3 ---
-vy
+Test the consistency and solve if possible
 
-CO-2; SO-2;BL-3
+x+2yt+2z=-l, Ixt+y+zZ=2, 3x-2y-2z=1, .
+Find the linear map 7 : IR? -> R? for which (1,2) =(2,3) and T(0,1) = (1,4), find
+a formula for T(x, y). Is T invertible? If so, find 77.
 
-c.
+3x
 
-Find the range and kernel of T: R® > R? defined by T (x,y,z) = (x = Yet z) . Find the
+Use variation of parameters method to solve (D? -6D+ 9) y= e in
+x
 
-range and kernel of and verify Rank-Nullity theorem.
+Show that W = {(x, y,z)€ R°/2x-3y +725 o} is subspace of R?.
+
+Find the characteristic equation of the matrix A given below. Show that the matrix
+A satisfies the characteristic equation and hence find 4“! and A* where
+
+1.2 3
+A=|2 -1 4
+BL. =I
+
+Obtain power series solution for y"+xy'+x? y=0.
+
+Solve the following differential equation
+dy
+xf grt tts logx.
+Find the eigenvalues and eigenvectors of the following matrix:
+-- 10 1
+A= :
+~ 110
+
+i) In R’, show that the vector (2,10) is in the linear span of S = {(2,1),(0,3)}
+
+but (2,10) is not in the linear span of W = {(2.1),(4, 2)}
+ii) Examine.the following set of vectors for linear dependence / independence
+
+{(1,3,7),(2,4,10),(3,4,12)} in R°.
+
+2
+
+[6]
+
+[6]
 
 [8]
 
-G
+[6]
 
-GR ick tod
+[6]
+
+[8]
+
+[6]
+
+[6]
+
+[8]
+
+~~
+--- page 3 ---
+Q5 (a)
+
+C03 Solve the following differential equation by using operator method — }
+SO-2; (D? -4D+3)y = e* cos2x. Cy
+BL-Low.
+
+CO-3; (b)
+
+SO-1, Solve (x*+y")dx—xy'dy =0. [6]
+BL-High ~
+
+CO-1: (c) Find the basis and dimension of following
+
+S0-1; i) x,—2x, +3x, =0, 2x +52, +625 =0. . 3]
+BL- ,
+
+Moderate ii) W= {(xy, z,u)/x=3y, 2= 2u} .
+
+é »
+2
+
+CO-2; ~ (a) Solve eZ =z given that when x=0, a =siny and Oz -0. (6]
+SO-2; ox ‘ ax ay
+BL-High
+CO-2; (b) .
+SO-1; Solve (—x2) 2 +2xy =x f=? a o
+BL-Low i dx
+
+(c) Find the algebraic multiplicity and geometric multiplicity of each eigenvalue of the
+CO-3; : 1 6 4
+
+SO-2; - . - [8]
+BL-Low matrix 4=|0 4 2].
+
+‘ 0 -6 -3
+Q7 (a) Solve the following differential equation by the method of undetermined [6]
+oO . coefficient
+80-2; 2 2x 2
+BL-High (D* +1)y = 2e* +3x°.
+co-4; ° (b) — [6]
+SO-2; Solve by the method of separation of variables qt SH ay,
+BL- ; Ox oy
+Moderate
+CO-1; (c) Find the kernel, range, nullity and rank of 7 :IR* + R? defined by [8]
+SO-1;
+BL-Low T (x,y,z) =(x—y,x+2). Also, verify Rank- Nullity theorem for the linear
+
+transformation.
 ````
 
 ## 2023-24 · Final + Re-Exam · paper c00e100e3b06
@@ -9902,6 +10132,7 @@ Page | 3/3
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_06/LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS/Linear Algebra and Differential Equations Batch 2022-230001.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 77.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -9985,7 +10216,6 @@ BL-3 A’ -4A° -204° -344* -44 -204’ -33A4+1, where 4=|4 2 3].
 te 80-1; | ©) | sotve (D* +8D> + 16) y =cos’ x. [6]
 (c) | Use method of separation of variables to solve
 CO-2; SO-2; [8]
-Bied glk, OM aw subjectto u=3eY whenx=0.
 ox dy
 
 Page | 2/3
@@ -10020,6 +10250,188 @@ CO-2; SO-1; : ae .
 BL- 5 SO-1; | © Using variation of parameter method, solve (~? + y y=xsinx. 18]
 
 Page | 3/3
+````
+
+## 2022-23 · Exam not stated · Sem 2 · paper 0bcf2a25170c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS/Linear algebra and Differential equations.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 May 2023
+- Text: ocr (4 pages), mean OCR confidence 80.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year:2022-2023
+Program: B. Tech/ MBA Tech Stream : B. Tech IT, EXTC, MXTC, Year: I Semester: II
+CSE-CS, CE, CS, DS, AI, AIML, AIDS, MECH, Civil, CSE-DS (7057)/
+MBA Tech IT, COMP, DS, AI
+
+Subject: Linear Algebra and Differential Equations Time: 11.00 am to 2.00 pm (3hrs)
+Date: 10 May 2023 No. of Pages: 03
+Marks: 100
+
+Final Examination /Re Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1
+° Answer briefly:
+12 -3
+CO-3; (a) . 2 1 -l
+=n Reduce to row echelon form and find the rank of a matrix A= . [4]
+SO-1; 1-1 2
+BL-L
+—- 5 4 -S
+CO-1; (b) Show that the following mapping is a linear transformation [4]
+SO-1; T:R? OR, T(x, y)=2x+3y.
+BL-Low »
+CO-2; (c) [4]
+Bets Solve (ax+hy+g)de+ (ix+by+f)dy =0.
+Moderate
+CO-2; (d) a 14)
+SO-2; Solve oY ay =0.
+BL-2 dx
+Moderate
+(e) Form the partial differential equation by eliminating the arbitrary constant [4]
+CO-2; : :
+S0-2: from the following equation
+BL-High erry? +(z-c) =a’.
+--- page 2 ---
+@ @) Test for consistency, if consistent find the solution
+
+coat x+y+2z=8, —x—-2y43z=1, 3x-7y+4z=10. Is)
+BL-Low
+
+CO-1; (b)
+
+SO-1; Let 7: R® — R? be the linear transformation defined by 16]
+BL- T (x,y,z) =(2y +z,x-4y,3x). Is T invertible ? If so, then find 7” (x, y,z).
+Moderate
+
+CO-2; (c) 3
+at Use variation of parameters method to solve 3 +a’y=secax. [8]
+Moderate ;
+
+Q3 (a)
+
+CO-1; Show that W = {(x. yzye R?/3x+4y4+z= 0} is the subspace of vector space
+soe
+
+Moderate
+
+[6]
+
+(b) Find the characteristic equation of the matrix A given below. Show that the
+matrix A satisfies the characteristic equation and hence find A“ and 4* where
+
+CO-4;
+1 21 [6]
+Moderate Z-l-b © e-
+2 -1 1
+CO-4; (c)
+SO-2; Obtain power series solution for y"+xy'+ (x? +2) y=0. [8]
+BL-Low
+Q4 (a) Solve the following differential equation
+CO-2; ; [6]
+SO-2; PAY 9D ayy? s2h0gx.
+BL- ax dx
+Moderate
+(6) Find the eigenvalues and eigenvectors of the following matrix:
+CO-3; 6 -2 2
+SO-2; [6]
+BL-Low A=|-2 3 ~1
+[ 2 -l 3
+(c) (i) Examine the following set of vectors for linear dependence/independence
+{(2,-1, 4), (3, 6, 2), (2, 10,—4)} in R>.
+CO-1; 7 A ; in .
+SO-1: (ii) In R’ , show that the vector (3,7)is in the linear span of [8]
+BL-High
+
+S={(1,2),(0,1)} but (3,7)is not in the linear span of
+
+W ={(12).(2.4}.
+--- page 3 ---
+Q5 (a)
+
+Solve the following differential equation by using operator method
+
+CO-3; [6]
+
+SO-2; (D? + D-6)y =e” sin3x.
+
+BL-Low
+
+CO-3; (b)
+
+SO-1; Solve xe* (dx—- dy) +e"dx + ye’dy =0. [6]
+
+BL-High
+
+CO-1; (©) Find the basis and dimension of
+
+SO-1; [8]
+
+BL- X, +3x, +¥3 +X, =0, 2x, —2x, +x, +2x, =0, x, + 11x, +2x, +x, =0.
+
+Moderate
+
+Q6 (a)
+
+2
+
+CO-2; Solve 22 = 33 +y', [6]
+
+SO-2; Oxy
+
+BL-High
+
+CO-2; (b)
+
+SO-1; Solve dx+xdy =e” sec? ydy. [6]
+BL-Low
+
+(c) Find the algebraic multiplicity and geometric multiplicity of each eigenvalue of
+
+CO-3; 4 6 6
+
+SO-2; F [8]
+BL-Low the matrix} 1 3 2/4].
+
+-1 -5 -2
+
+Q7 (a) Solve the following differential equation by the method of undetermined [6]
+CO-2; coefficient
+
+SO-2; 5 F -
+BL-High (D? +2D+4)y =4x? +3e7.
+CO-4; (b) : . : du, Ou [6]
+
+Using the method of tion of bl lve —=2—+u.
+§0-2: sing the method of separation of variables solve Be ay tt
+BL-
+Moderate
+CcO-1; (c) Find the kernel, range, nullity and rank of 7:R°>—>R defined by [8]
+es T(x, y,2z) =3x—-2y+z. Also verify Rank- nullity theorem for the linear
+-Low ;
+transformation.
+--- page 4 ---
+
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper 8a8c449f96d7
@@ -10328,236 +10740,6 @@ transformation.
 [6]
 
 [8]
-````
-
-## 2022-23 · Final + Re-Exam · Sem 2 · paper dd95df3526b8
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS/Linear Algebra & Differential equations, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf` (+1 identical copies)
-- Printed on paper: exam date: 18/04/2024
-- Text: ocr (3 pages), mean OCR confidence 76.9
-
-````text
-| SVKM’S NMIMS-
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-
-Academic Year:2023-2024
-
-Program: B TECH / MBA TECH/ BTI Civil Year: / Semester? II / VI
-
-Stream : IT/EXTC/MXTC/CSE CS/ DS/Comp Engg/Comp at
-Sci/AI/AIML/AIDS/Mechanical/Civil/CSEDS_ ——_/BTI Civil ~
-
-Subject: Linear Algebra and Differential Equations " Time: 2.00 pm to 5.00 pm (3 Hes)
-Date: 18/04/2024 No. of Pages: 03
-
-Marks:.100- -
-- Final Examination/Re-exam 2021-22, 2022-23
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql ;
-Answer briefly:
-EAS 2
-CO-3; (a) ; 1-5 1.
-SO-1: Reduce to row.echelon form and find the rank of a matrix A= 1 st" [4]
-~~. BL-Low ‘
-
-; 5. 3 -6
-CO-1; (b) Show that the following mapping is a linear transformation . [4]
-SO-1; bey 13 3 o 1 g
-Pt ont TR? >R’, T(x, y,z) =(x,»,0). .
-cO0-2; : [4]
-ie Solve e” dk+ (xe”+2y)dy =0.
-Moderate
-CO-2, () 7 - [4]
-SO-2; Solve Hy 13 ¥ Y 4 36y= 0. ,
-BL-2 a' de
-Moderate . ;
-co-2; © © Form the partial differential equation by eliminating the arbitrary function fromthe [4]
-SO-2; - following equation
-BL-High z=x+y+ f(xy).
---- page 2 ---
-Q2
-CO-3;
-SO-2;
-BL-Low
-CO-1;
-“SO-1;
-BL-
-Moderate
-CO-2;
-SO-2;
-BL-
-Moderate
-
-Q3 |
-CO-1;
-SO-1;
-BL-
-Moderate
-
-CO-4;
-SO-1;
-BL-
-Moderate
-
-CO-4;
-SO-2;
-
-a
-
-BL-Low .-
-
-Q4
-CO-2;
-SO-2;
-BL-
-Moderate
-
-CO-3;
-SO-2;
-BL-Low
-
-CO-1;
-SO-1;
-BL-High
-
-(a)
-
-(b).
-
-(©)
-
-(a)
-
-)
-
-‘(©)
-
-@
-
-(b)
-
-()
-
-Test the consistency and solve if possible
-
-x+2yt+2z=-l, Ixt+y+zZ=2, 3x-2y-2z=1, .
-Find the linear map 7 : IR? -> R? for which (1,2) =(2,3) and T(0,1) = (1,4), find
-a formula for T(x, y). Is T invertible? If so, find 77.
-
-3x
-
-Use variation of parameters method to solve (D? -6D+ 9) y= e in
-x
-
-Show that W = {(x, y,z)€ R°/2x-3y +725 o} is subspace of R?.
-
-Find the characteristic equation of the matrix A given below. Show that the matrix
-A satisfies the characteristic equation and hence find 4“! and A* where
-
-1.2 3
-A=|2 -1 4
-BL. =I
-
-Obtain power series solution for y"+xy'+x? y=0.
-
-Solve the following differential equation
-dy
-xf grt tts logx.
-Find the eigenvalues and eigenvectors of the following matrix:
--- 10 1
-A= :
-~ 110
-
-i) In R’, show that the vector (2,10) is in the linear span of S = {(2,1),(0,3)}
-
-but (2,10) is not in the linear span of W = {(2.1),(4, 2)}
-ii) Examine.the following set of vectors for linear dependence / independence
-
-{(1,3,7),(2,4,10),(3,4,12)} in R°.
-
-2
-
-[6]
-
-[6]
-
-[8]
-
-[6]
-
-[6]
-
-[8]
-
-[6]
-
-[6]
-
-[8]
-
-~~
---- page 3 ---
-Q5 (a)
-
-C03 Solve the following differential equation by using operator method — }
-SO-2; (D? -4D+3)y = e* cos2x. Cy
-BL-Low.
-
-CO-3; (b)
-
-SO-1, Solve (x*+y")dx—xy'dy =0. [6]
-BL-High ~
-
-CO-1: (c) Find the basis and dimension of following
-
-S0-1; i) x,—2x, +3x, =0, 2x +52, +625 =0. . 3]
-BL- ,
-
-Moderate ii) W= {(xy, z,u)/x=3y, 2= 2u} .
-
-é »
-2
-
-CO-2; ~ (a) Solve eZ =z given that when x=0, a =siny and Oz -0. (6]
-SO-2; ox ‘ ax ay
-BL-High
-CO-2; (b) .
-SO-1; Solve (—x2) 2 +2xy =x f=? a o
-BL-Low i dx
-
-(c) Find the algebraic multiplicity and geometric multiplicity of each eigenvalue of the
-CO-3; : 1 6 4
-
-SO-2; - . - [8]
-BL-Low matrix 4=|0 4 2].
-
-‘ 0 -6 -3
-Q7 (a) Solve the following differential equation by the method of undetermined [6]
-oO . coefficient
-80-2; 2 2x 2
-BL-High (D* +1)y = 2e* +3x°.
-co-4; ° (b) — [6]
-SO-2; Solve by the method of separation of variables qt SH ay,
-BL- ; Ox oy
-Moderate
-CO-1; (c) Find the kernel, range, nullity and rank of 7 :IR* + R? defined by [8]
-SO-1;
-BL-Low T (x,y,z) =(x—y,x+2). Also, verify Rank- Nullity theorem for the linear
-
-transformation.
 ````
 
 ## 2022-23 · Re-Exam · Sem 2 · paper 0a4966df7354
@@ -11408,186 +11590,4 @@ SO-2 ; du, Ou [8]
 BL-Low Be at g (x,0)
 
 3
-````
-
-## Year not stated · Exam not stated · Sem 2 · paper 0bcf2a25170c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS/Linear algebra and Differential equations.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 May 2023
-- Text: ocr (4 pages), mean OCR confidence 80.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year:2022-2023
-Program: B. Tech/ MBA Tech Stream : B. Tech IT, EXTC, MXTC, Year: I Semester: II
-CSE-CS, CE, CS, DS, AI, AIML, AIDS, MECH, Civil, CSE-DS (7057)/
-MBA Tech IT, COMP, DS, AI
-
-Subject: Linear Algebra and Differential Equations Time: 11.00 am to 2.00 pm (3hrs)
-Date: 10 May 2023 No. of Pages: 03
-Marks: 100
-
-Final Examination /Re Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1
-° Answer briefly:
-12 -3
-CO-3; (a) . 2 1 -l
-=n Reduce to row echelon form and find the rank of a matrix A= . [4]
-SO-1; 1-1 2
-BL-L
-—- 5 4 -S
-CO-1; (b) Show that the following mapping is a linear transformation [4]
-SO-1; T:R? OR, T(x, y)=2x+3y.
-BL-Low »
-CO-2; (c) [4]
-Bets Solve (ax+hy+g)de+ (ix+by+f)dy =0.
-Moderate
-CO-2; (d) a 14)
-SO-2; Solve oY ay =0.
-BL-2 dx
-Moderate
-(e) Form the partial differential equation by eliminating the arbitrary constant [4]
-CO-2; : :
-S0-2: from the following equation
-BL-High erry? +(z-c) =a’.
---- page 2 ---
-@ @) Test for consistency, if consistent find the solution
-
-coat x+y+2z=8, —x—-2y43z=1, 3x-7y+4z=10. Is)
-BL-Low
-
-CO-1; (b)
-
-SO-1; Let 7: R® — R? be the linear transformation defined by 16]
-BL- T (x,y,z) =(2y +z,x-4y,3x). Is T invertible ? If so, then find 7” (x, y,z).
-Moderate
-
-CO-2; (c) 3
-at Use variation of parameters method to solve 3 +a’y=secax. [8]
-Moderate ;
-
-Q3 (a)
-
-CO-1; Show that W = {(x. yzye R?/3x+4y4+z= 0} is the subspace of vector space
-soe
-
-Moderate
-
-[6]
-
-(b) Find the characteristic equation of the matrix A given below. Show that the
-matrix A satisfies the characteristic equation and hence find A“ and 4* where
-
-CO-4;
-1 21 [6]
-Moderate Z-l-b © e-
-2 -1 1
-CO-4; (c)
-SO-2; Obtain power series solution for y"+xy'+ (x? +2) y=0. [8]
-BL-Low
-Q4 (a) Solve the following differential equation
-CO-2; ; [6]
-SO-2; PAY 9D ayy? s2h0gx.
-BL- ax dx
-Moderate
-(6) Find the eigenvalues and eigenvectors of the following matrix:
-CO-3; 6 -2 2
-SO-2; [6]
-BL-Low A=|-2 3 ~1
-[ 2 -l 3
-(c) (i) Examine the following set of vectors for linear dependence/independence
-{(2,-1, 4), (3, 6, 2), (2, 10,—4)} in R>.
-CO-1; 7 A ; in .
-SO-1: (ii) In R’ , show that the vector (3,7)is in the linear span of [8]
-BL-High
-
-S={(1,2),(0,1)} but (3,7)is not in the linear span of
-
-W ={(12).(2.4}.
---- page 3 ---
-Q5 (a)
-
-Solve the following differential equation by using operator method
-
-CO-3; [6]
-
-SO-2; (D? + D-6)y =e” sin3x.
-
-BL-Low
-
-CO-3; (b)
-
-SO-1; Solve xe* (dx—- dy) +e"dx + ye’dy =0. [6]
-
-BL-High
-
-CO-1; (©) Find the basis and dimension of
-
-SO-1; [8]
-
-BL- X, +3x, +¥3 +X, =0, 2x, —2x, +x, +2x, =0, x, + 11x, +2x, +x, =0.
-
-Moderate
-
-Q6 (a)
-
-2
-
-CO-2; Solve 22 = 33 +y', [6]
-
-SO-2; Oxy
-
-BL-High
-
-CO-2; (b)
-
-SO-1; Solve dx+xdy =e” sec? ydy. [6]
-BL-Low
-
-(c) Find the algebraic multiplicity and geometric multiplicity of each eigenvalue of
-
-CO-3; 4 6 6
-
-SO-2; F [8]
-BL-Low the matrix} 1 3 2/4].
-
--1 -5 -2
-
-Q7 (a) Solve the following differential equation by the method of undetermined [6]
-CO-2; coefficient
-
-SO-2; 5 F -
-BL-High (D? +2D+4)y =4x? +3e7.
-CO-4; (b) : . : du, Ou [6]
-
-Using the method of tion of bl lve —=2—+u.
-§0-2: sing the method of separation of variables solve Be ay tt
-BL-
-Moderate
-CcO-1; (c) Find the kernel, range, nullity and rank of 7:R°>—>R defined by [8]
-es T(x, y,2z) =3x—-2y+z. Also verify Rank- nullity theorem for the linear
--Low ;
-transformation.
---- page 4 ---
-
 ````

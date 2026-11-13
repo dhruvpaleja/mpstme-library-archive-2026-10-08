@@ -1,6 +1,6 @@
 # Operations and Supply Chain Management: question papers in full
 
-48 unique papers · 2022-23 to 2025-26 · Data Science, Mechanical, Computer Engineering, Information Technology, Common (all branches), Artificial Intelligence, Mechatronics, Civil, Cyber Security, Electronics and Telecommunication
+48 unique papers · 2021-22 to 2025-26 · Data Science, Mechanical, Computer Engineering, Information Technology, Common (all branches), Artificial Intelligence, Mechatronics, Civil, Cyber Security, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -2288,6 +2288,7 @@ Discuss benefits of VMI and RFID systems.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/OPERATION & SUPPLY CHAIN MANAGEMENT/Operations and Supply Chain Management, Sem-V, Year 2025-26, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: ocr (4 pages), mean OCR confidence 89.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -2399,7 +2400,6 @@ implementing Production Planning and Control.
 
 2. Illustrate with examples how PPC can help in:
 
-v3 FIC IG 2 cdo a tok cde
 &
 --- page 3 ---
 o Reducing production costs
@@ -4259,7 +4259,7 @@ CO-2, SO-4 Explain in detail the emerging trends and issues in supply chain? [10
 BL-2
 ````
 
-## Year not stated · Exam not stated · Sem 4 · paper f5b6938c2691
+## 2021-22 · Exam not stated · Sem 4 · paper f5b6938c2691
 
 - Departments: Data Science
 - Programmes: B TECH / CSE DATA SCIENCE

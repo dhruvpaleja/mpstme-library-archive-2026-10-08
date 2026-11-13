@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CSBS_7036/Linear Algebra/ANS_Linear Algebra(702BS0C072)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (15 pages), mean OCR confidence 34.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -69,6 +70,7 @@ FOI 7 5 FCI IC Cr
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSBS_7036/Linear Algebra/ANS_Linear Algebra(702BS0C072)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2025
 - Text: mixed (14 pages), mean OCR confidence 34.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

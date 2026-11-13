@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechatronics_7004/Total Quality Management/QP_Total Quality Management(702MH0E014)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -894,6 +895,7 @@ BL-4
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/TOTAL QUALITY MANAGEMENT/Total Quality Management Batch 2022-23 Final0001.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (4 pages), mean OCR confidence 83.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1004,7 +1006,6 @@ ability of the process to produce items within these specifications?
 CO-1,SO-7,Bl-2 b Describe the implementation and documentation steps a company must 110]
 go through to obtain a ISO 14000 certification. -
 
-26 oo ok ok 2 oe og 2 ok 2 2K 2
 --- page 4 ---
 Area under Standard Normal Curve between 0 andz
 — a a
@@ -2023,6 +2024,7 @@ Alternately you may give the example of CED for house paint peeling as given in 
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/1st YEAR/TRIM III/Total Quality Management/Total Quality Management Batch 2018-19 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 July 2019
 - Text: ocr (2 pages), mean OCR confidence 85.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 STITUTE OF OF pa
@@ -2069,7 +2071,6 @@ the other 40 %.
 2b What is COPQ; explain with examples . Draw the diagram showing the 4 dimensions of cost of quality ,
 
 explaining each of the dimensions with example from RE... - onarnee
-2c Wame & elaborate on the 7 service differentiators , eee seseesseneees deseseeeeaees 6
 3a Whatarethe 9 Elements of TQM, &also the lack of which causes TQM to fail ............ sees 8
 
 3b Select a product eg a hair dryer / mixie / cement drum mixer & describe how the 10 dimensions of quality
@@ -2097,7 +2098,6 @@ Alternately you may give the example of CED for house paint peeling as given in 
 a vendor supplies windows of following length against a target of 40 +/- Linch size .
 
 Find the mean, standard deviation , range .. How many are beyond the 20 limit «00.0 we
-What is Cp & Cpk. . a eee een
 What should the vendor do to improve Cpk to 0.5 or More...
 Window
 No length
@@ -2541,7 +2541,7 @@ Page 2 of 2
 (6)
 ````
 
-## 2015 · Final-Exam · Trim 3 · paper 17254474256e
+## 2015-16 · Final-Exam · Trim 3 · paper 17254474256e
 
 - Departments: Real Estate and Construction Management
 - Programmes: PGDM (Real Estate Construction AND Management)

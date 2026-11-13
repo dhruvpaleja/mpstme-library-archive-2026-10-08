@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Civil_7005/Design of Steel Structures/ANS_Design of Steel Structures(702CI0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
 - Text: mixed (15 pages), mean OCR confidence 75.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -134,7 +135,6 @@ fa 10 9575, and 1.0
 fu
 
 Hence, ky, = 0.50
-Vaya = 25 % 0.50 x 20 x 9.0 x HO x 107 = 73.8 KN
 
 Hence, the strength of the bolt, V,,= 45.26 kN
 Let us provide bolts in two vertical rows. Number of bolts required in one row,
@@ -322,7 +322,6 @@ ISA 100 x 75 x 8mm
 (b)
 
 (b) Angles placed on same side of gusset plate
-A= 2672 mm’, r= 21.8 mm, n= 44.1 mm
 Effective length, / = KL=0.85L
 
 = 0.85 x 3.2 x 10° = 2720 mm
@@ -335,7 +334,6 @@ stress from Table 8.7,
 fog = 79.216 N/mm?
 
 The design compressive strength,
-Pa =Ae fea = 2672 x 79.216 x 107 = 211.66 KN
 
 [10]
 
@@ -365,7 +363,6 @@ By =7—- = 0.5 (since Jj. = I)
 ’ Tie + Ih ’
 
 c/c distance between flanges, hy = 350 - t= 350 - 11.4 = 338.6 mm
-I,, = (1 -0.5) x 0.5 x 631.9 x 10* x 338.67 = 1.81 x 10!! mm®
 
 Ma. = 10° x631.9 x 10° x (16923 x 108 x 20.8 x 108 + TX 2X1 L8Ix wo")
 30007 30007
@@ -488,7 +485,6 @@ CO-5 Therefore, the load from the column will be transferred to the base plate t
 welded connection.
 
 Length available for welding around column profile,
-L,=2 x 250 + 2 x (250 - 10.1) + 2 x (350-2 x 11.6) = 1633.4 mm
 
 Let us provide 8 mm fillet weld. Since welding will not be possible at toes and
 fillets of the ISHB section, end returns (25) will have to be subtracted at the end of
@@ -711,7 +707,6 @@ since shear is high the check has been applied to show that it is nat (required.
 Refer to Fig. Ex. 9.5.
 Assume a stiff bearing length, 6 = 100 mm.
 
-Ay = B, fy =(b +2) ty = (100 + 175) x 7.4 = 2035 mm? (n= = 30 = 175 m in|
 
 Effective length of web, KL = 0.7d = 0.7 * 295.2 = 206.04 mm
 

@@ -17,20 +17,6 @@ Also filed as: `DATA STRCUTURE & ALGORITHMS`, `DATA STRUCTURE & ALGORITHMS`, `DA
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / CSEDS-311, B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / IT, MBA TECH / COMPUTER, MBA TECH / DATA SCIENCE, MBA TECH / I T | B Tech, Data Structures and Algorithms, 2025-26 Final Batch 2023-24 ,2024-25 Re Exam.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AI 7012, BTech AIDS 7056, BTech CS 7055, MBATech Computer 7047 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Data Structures and Algorithms(702CO0C057)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech CSE DS 7057, BTech CyberSecurity 7010, Integrated Computer 7032, Integrated IT 7037 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Data Structures and Algorithms(702CO1C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Data Structures and Algorithms(703CO0C006)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | B TECH / CSEDS-311 | Data Structures and Algorithms, Sem-III, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | BTech AI 7012, BTech AIDS 7056, BTech CS 7055, BTech CSE DS 7057, Integrated Computer 7032, Integrated IT 7037, MBATech Computer 7047, MBATech IT 7041 | QP_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech AIML 7053 | QP_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
@@ -46,24 +32,20 @@ Also filed as: `DATA STRCUTURE & ALGORITHMS`, `DATA STRUCTURE & ALGORITHMS`, `DA
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech AI 7051 | QP_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech DS 7052 | QP_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MCA | Data Structures and Algorithms Final 2025-26.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Data Structures and Algorithms(702CO0C057)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Computer 7002 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Computer 7032 | ANS_Data Structures and Algorithms(702CO1C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Data Structures and Algorithms(703CO0C006)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AI 7012, BTech AIDS 7056, BTech CS 7055, MBATech Computer 7047 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Data Structures and Algorithms(702CO0C057)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech CSE DS 7057, BTech CyberSecurity 7010, Integrated Computer 7032, Integrated IT 7037 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Data Structures and Algorithms(702CO1C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Data Structures and Algorithms(703CO0C006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AI 7012 | QP_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AIDS 7056 | QP_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AIML 7053 | QP_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
@@ -82,23 +64,26 @@ Also filed as: `DATA STRCUTURE & ALGORITHMS`, `DATA STRUCTURE & ALGORITHMS`, `DA
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech Computer 7047 | QP_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech DS 7052 | QP_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech IT 7041 | QP_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Data Structures and Algorithms(702CO0C057)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Computer 7002 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Computer 7032 | ANS_Data Structures and Algorithms(702CO1C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Data Structures and Algorithms(703CO0C006)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf |
 | 2024-25 | — | Question paper | Sem 1 | MCA | Data Structures and Algorithms Batch 2023-24,2024-25 Re0001.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3, Sem 5, Sem 7 | B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / IT, MBA TECH / Computer | Data Structures and Algorithms Batch 2024-25 Final Batch 2023-24 Re Exam (1).pdf [1] |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech Computer 7002 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech CyberSecurity 7010 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Data Structures and Algorithms(703CO0C006)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | BTech AIDS 7056 | QP_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | BTech AIML 7053 | QP_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | BTech CS 7055 | QP_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
@@ -115,20 +100,21 @@ Also filed as: `DATA STRCUTURE & ALGORITHMS`, `DATA STRUCTURE & ALGORITHMS`, `DA
 | 2024-25 | Final-Exam | Question paper | Sem 3 | MBATech DS 7052 | QP_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | MBATech IT 7041 | QP_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MCA | Data Structures and Algorithms Batch 2024-25 Final.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech CyberSecurity 7010 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Data Structures and Algorithms(703CO0C006)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech Computer 7002 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech CyberSecurity 7010 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Data Structures and Algorithms(703CO0C006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE | Data Structures and Algorithms, Sem-III, 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | BTech AI 7012 | QP_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | BTech AIDS 7056 | QP_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
@@ -144,6 +130,20 @@ Also filed as: `DATA STRCUTURE & ALGORITHMS`, `DATA STRUCTURE & ALGORITHMS`, `DA
 | 2024-25 | Re-Exam | Question paper | Sem 3 | MBATech AI 7051 | QP_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | MBATech Computer 7047 | QP_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | MBATech IT 7041 | QP_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech CyberSecurity 7010 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Data Structures and Algorithms(703CO0C006)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Data Structures and Algorithms(702CO1C001)_2024-2025.pdf |
 | 2023-24 | — | Question paper | Sem 7 | B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / IT | Data Stuctures and Algorithms Batch 2022-23,2023-24,20240001.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE | Data Structures & Algorithms, Sem-III, Final Exam 2023-24 & Re Exam 2022-23, A Y 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3, Sem 5, Sem 7 | B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE & DATA SCIENCE, B TECH / ARTIFICIAL INTELLIGENCE & MACHINE LEARNING, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED / COMPUTER, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / Computer, MBA TECH / DATA SCIENCE, MBA TECH / I T | Data Structure and Algorithms, Sem-III, Batch 2023-24 Final.pdf |

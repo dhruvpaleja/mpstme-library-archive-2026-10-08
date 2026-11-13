@@ -14,8 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Wireless Communication Technology(702EX0C024)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech EXTC 7006 | QP_Wireless Communication Technology(702EX0C024)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Wireless Communication Technology(702EX0C024)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 10 | B TECH / EXTC, B.TECH INTEGRATED / EXTC | Wireless Communication Technology Batch 2024-25,2025-26 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / EXTC | Wireless Communication Technology, Sem VI, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / EXTC | Wireless CommunicationTechnology Batch 2024-25 Final.pdf |

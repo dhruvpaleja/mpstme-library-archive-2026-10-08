@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Managerial economics/Managerial Economics...Final 2018-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 2; exam date: 11 April 2019
 - Text: ocr (4 pages), mean OCR confidence 94.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -109,7 +110,6 @@ government. Analyze the results of this program. Show the results through fig (4
 Q4 A. Using your knowledge of the relationships among the various cost functions, complete the following
 table: (12)
 
-Q STC STFC STVC SATC SAFC SAVC SMC
 
 0 1250
 

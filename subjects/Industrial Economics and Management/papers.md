@@ -179,6 +179,7 @@ fe
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/INDUSTRIAL ECONOMICS AND MANAGEMENT/INDUSTRIAL ECONOMICS AND MANAGEMENT 2018-19 FINAL EXAM 2017-18 RE EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 11 April 2019
 - Text: ocr (2 pages), mean OCR confidence 82.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -246,7 +247,6 @@ D 80 120
 6. What is Organization Structure? Explain the types of Organization Structure. (14 Marks)
 7. ‘ Explain the techniques of Capital Budgeting. (14 Marks)
 
-JERI SI SSIS SICI ICIRSICICISICI ICI R IE CASI I CI AEA CAC A A CS A CB A RSE AR A ST a ok ek
 ````
 
 ## 2018-19 · Final-Exam · Sem 8 · paper 70e271121e82
@@ -1882,6 +1882,170 @@ advantage and disadvantage of each.
 2 of 2
 ````
 
+## 2015-16 · Re-Exam · Sem 6 · paper 0ab7e25bc808
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/INDUSTRIAL ECONOMICS AND MANAGEMENT/INDUSTRIAL ECONOMICS AND MANAGEMENT B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 12/05/2016
+- Text: ocr (2 pages), mean OCR confidence 94.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: III Semester: VI
+
+Academic Year: 2015-16
+Batch:2014-15
+
+Subject: Industrial Economics and Management Marks: 60
+
+Time: 2.00
+Durations: 3
+
+Date: 12/05/2016
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No._1 and 4 are compulsory.
+
+2) Out of remaining questions, attempt any 3 questions.
+
+3) In all_5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Sr. No Marks
+
+1 Write notes on any three of the following: 12
+a) Functions of IMF and World Bank.
+
+b) Definition of Economics.
+c) Causes of inflation
+
+d) Law of Diminishing Marginal utility.
+2 Define production function and explain economies of scale. 12
+
+3 a) Solve the following: 12
+Given the total cost function
+TC = 1000 + 10Q — 0.9Q? + 0.04Q3
+Find the rate of output that result in minimum average variable cost.
+
+b) Define national income and discuss simple two sector model.
+
+Vo.
+--- page 2 ---
+Write notes on any three of the following:
+a)§teps in control process
+
+b) How do problems differ?
+
+c) Types of Departmentalization
+
+d) Three-needs theory
+
+Why is market research the most important aspect before launching a new
+product?
+
+Discuss Herzberg’s contribution in management literature?
+
+12
+
+12
+
+12
+````
+
+## 2015-16 · Re-Exam · Sem 6 · paper 6379d844e7f8
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/INDUSTRIAL ECONOMICS AND MANAGEMENT/INDUSTRIAL ECONOMICS AND MANAGEMET B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 14/05/2016
+- Text: ocr (2 pages), mean OCR confidence 88.1
+
+````text
+4 / SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (EXTC) Year: III Semester: VI
+Academic Year: 2015-16 7
+| Batch: 2014-15 i ae
+Subject: Industrial Economics and Management Marks: 60 4 il u
+Time: 2.00
+
+&.00 p
+Date: 14/05/2016 Durations: 3 hans Gane
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No._1 and 4 are compulsory.
+
+2) Out of remaining questions, attempt any 3 questions.
+
+3) In all_5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Sr.
+No
+1 Write notes on any three of the following: 12
+a) Economies of scale.
+b) Demand function.
+c) Features of Monopoly.
+d) Definitions of Economics
+2 Define inflation and discuss the causes of inflation. 12
+3 a) Explain the four sector open economy model with circular flow of income. 12
+
+b) A new firm has launched its product in the market. The average price of the
+product in the market is Rs. 10 per unit and, as, large number of sellers are
+prevalent in the market the price is not affected by the new entrant. The owner
+of the new firm estimates that monthly total cost including normal profit would
+be-
+
+TC = 1000 + 2Q + 0.01Q?
+
+To maximise the total profit, how many units should be produced each month?
+In the short run, what would be the economic profit earned each month?
+
+Vo
+--- page 2 ---
+"fun @ «Write notes on any three of the following:
+
+a) Centralization and decentralization
+oan b) Elements of organization structure
+wo. c) Three-needs theory
+
+; -d) Management by Objectives
+
+5 What did Herzberg contribute in management?
+
+6 Explain the 4 P’s of marketing mix
+
+12
+
+12
+
+12
+````
+
 ## 2014-15 · Final-Exam · Sem 6 · paper ed7ba4e7ff34
 
 - Departments: Computer Engineering
@@ -1999,6 +2163,7 @@ Zof 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/INDUSTRIAL ECONOMICS AND MANAGEMENT/INDUSTRIAL ECONOMICS AND MANAGEMENT B TECH (EXTC), 2014-15 FINAL EXAM.pdf`
 - Printed on paper: exam date: 14/05/2015
 - Text: ocr (1 page), mean OCR confidence 86.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2049,7 +2214,6 @@ average physical product (APP), and marginal physical product (MPP) for the prod
 
 = Q=50 Q=70 Q=95 Q=117 Q = 130
 
-L K L K L K L K L K
 
 1 20 2 20 3 20 4 20 5 20
 
@@ -2156,168 +2320,134 @@ the organization
 EIPe
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper 0ab7e25bc808
+## 2014-15 · Re-Exam · Sem 6 · paper 02eb54a2857a
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/INDUSTRIAL ECONOMICS AND MANAGEMENT/INDUSTRIAL ECONOMICS AND MANAGEMENT B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 12/05/2016
-- Text: ocr (2 pages), mean OCR confidence 94.5
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/INDUSTRIAL ECONOMICS AND MANAGEMENT/INDUSTRIAL ECONOMICS AND MANAGEMENT B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 02/07/2015
+- Text: ocr (1 page), mean OCR confidence 93.9
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Computer) Year: III Semester: VI
+Programme: B. Tech (COMP/ELEX/EXTC) Year: III Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015...
 
-Academic Year: 2015-16
-Batch:2014-15
+Subject: Industrial Economics and Management
 
-Subject: Industrial Economics and Management Marks: 60
+Marks: DO
+Date: 02/07/2015 Time: 40,00 am to 1.00 pm
+Durations: *3.(hrs)
 
-Time: 2.00
-Durations: 3
+Re-Examination ”
 
-Date: 12/05/2016
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No._1 and 4 are compulsory.
+1) Question No.1 is compulsory.
 
-2) Out of remaining questions, attempt any 3 questions.
+2) Out of remaining questions, attempt any 4 questions.
 
-3) In all_5_ questions to be attempted.
+3) In all 5S questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
 
-Sr. No Marks
+1. A) Reasons behind the implementation of liberalization in India (10 Marks)
+B) Define planning and explain various types of plans (10 Marks)
 
-1 Write notes on any three of the following: 12
-a) Functions of IMF and World Bank.
+2. Define Price elasticity of demand. Explain the relationship between total revenue and
+Price elasticity demand. (20 Marks)
 
-b) Definition of Economics.
-c) Causes of inflation
+3. What are the functions of central bank? (20 Marks)
 
-d) Law of Diminishing Marginal utility.
-2 Define production function and explain economies of scale. 12
+4. What are the three stages of short run production function? Why does it not make any
+economic sense to produce in stagel or 3? (20 Marks)
 
-3 a) Solve the following: 12
-Given the total cost function
-TC = 1000 + 10Q — 0.9Q? + 0.04Q3
-Find the rate of output that result in minimum average variable cost.
+5. Explain the 14 principles of scientific management (20 Marks)
 
-b) Define national income and discuss simple two sector model.
+6. What is control and what are the three Approaches to Control Systems (20 Marks)
 
-Vo.
---- page 2 ---
-Write notes on any three of the following:
-a)§teps in control process
+7. Identify the five different ways by which management can departmentalize (20 Marks)
 
-b) How do problems differ?
-
-c) Types of Departmentalization
-
-d) Three-needs theory
-
-Why is market research the most important aspect before launching a new
-product?
-
-Discuss Herzberg’s contribution in management literature?
-
-12
-
-12
-
-12
+6),
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper 6379d844e7f8
+## 2014-15 · Re-Exam · Sem 6 · paper da9056ef02ef
 
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/INDUSTRIAL ECONOMICS AND MANAGEMENT/INDUSTRIAL ECONOMICS AND MANAGEMET B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 14/05/2016
-- Text: ocr (2 pages), mean OCR confidence 88.1
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/INDUSTRIAL ECONOMICS AND MANAGEMENT/INDUSTRIAL ECONOMICS AND MANAGEMENT B TECH (COMPUTER) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 12/05/2015
+- Text: ocr (1 page), mean OCR confidence 90.9
 
 ````text
-4 / SVKM’s NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (EXTC) Year: III Semester: VI
-Academic Year: 2015-16 7
-| Batch: 2014-15 i ae
-Subject: Industrial Economics and Management Marks: 60 4 il u
-Time: 2.00
+Programme: B. Tech (COMP/ELEX/EXTC) Year: III Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015
 
-&.00 p
-Date: 14/05/2016 Durations: 3 hans Gane
-Re-Examination
+Subject: Industrial Economics and Management : -
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Marks: | 3 foo: eS TME
+Date: 12/05/2015 Time: — 4,1 0.00:arnrto’ 120
+
+Durations::, «3 (hrs) re
+
+NN ~~, et
+“\S af 05
+
+Re-Examination ies, ne
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No._1 and 4 are compulsory.
+1) Question No.1 is compulsory.
 
-2) Out of remaining questions, attempt any 3 questions.
+2) Out of remaining questions, attempt any 4 questions.
 
-3) In all_5_ questions to be attempted.
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
 
-Sr.
-No
-1 Write notes on any three of the following: 12
-a) Economies of scale.
-b) Demand function.
-c) Features of Monopoly.
-d) Definitions of Economics
-2 Define inflation and discuss the causes of inflation. 12
-3 a) Explain the four sector open economy model with circular flow of income. 12
+1. A) What are the three stages of short run production function? Why does it not make any
+economic sense to produce in stagel or 3? (10M)
+B) Explain the reasons behind the implementation of liberalization. (10M)
 
-b) A new firm has launched its product in the market. The average price of the
-product in the market is Rs. 10 per unit and, as, large number of sellers are
-prevalent in the market the price is not affected by the new entrant. The owner
-of the new firm estimates that monthly total cost including normal profit would
-be-
+2. What do you mean by line and staff organization structure? What are its benefits and
 
-TC = 1000 + 2Q + 0.01Q?
+limitations? (20M)
+3. Describe in detail Maslow’s theory of need hierarchy. (20M)
+4. What do you mean by Quality Circle? What are the various phases involved in developing
 
-To maximise the total profit, how many units should be produced each month?
-In the short run, what would be the economic profit earned each month?
+Quality Circle? (20M)
+5. What do you understand by delegation of authority? (20M)
 
-Vo
---- page 2 ---
-"fun @ «Write notes on any three of the following:
+Explain its significance. What are the steps involved in it?
 
-a) Centralization and decentralization
-oan b) Elements of organization structure
-wo. c) Three-needs theory
+6. Write a short note on any two (20M)
+a) Diminishing return to scale
+b) Oligopoly
+c) Gross Domestic product
 
-; -d) Management by Objectives
+7. Define Price elasticity of demand. Explain the relationship between total revenue and price
+elasticity demand. (20M)
 
-5 What did Herzberg contribute in management?
-
-6 Explain the 4 P’s of marketing mix
-
-12
-
-12
-
-12
+4/4,
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper 9cf8c3518f23
@@ -2839,136 +2969,6 @@ Discuss the outcomes of those experiments.
 x a
 
 2)Q.
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 02eb54a2857a
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/INDUSTRIAL ECONOMICS AND MANAGEMENT/INDUSTRIAL ECONOMICS AND MANAGEMENT B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 02/07/2015
-- Text: ocr (1 page), mean OCR confidence 93.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP/ELEX/EXTC) Year: III Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015...
-
-Subject: Industrial Economics and Management
-
-Marks: DO
-Date: 02/07/2015 Time: 40,00 am to 1.00 pm
-Durations: *3.(hrs)
-
-Re-Examination ”
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5S questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-1. A) Reasons behind the implementation of liberalization in India (10 Marks)
-B) Define planning and explain various types of plans (10 Marks)
-
-2. Define Price elasticity of demand. Explain the relationship between total revenue and
-Price elasticity demand. (20 Marks)
-
-3. What are the functions of central bank? (20 Marks)
-
-4. What are the three stages of short run production function? Why does it not make any
-economic sense to produce in stagel or 3? (20 Marks)
-
-5. Explain the 14 principles of scientific management (20 Marks)
-
-6. What is control and what are the three Approaches to Control Systems (20 Marks)
-
-7. Identify the five different ways by which management can departmentalize (20 Marks)
-
-6),
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper da9056ef02ef
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/INDUSTRIAL ECONOMICS AND MANAGEMENT/INDUSTRIAL ECONOMICS AND MANAGEMENT B TECH (COMPUTER) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 12/05/2015
-- Text: ocr (1 page), mean OCR confidence 90.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP/ELEX/EXTC) Year: III Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Industrial Economics and Management : -
-
-Marks: | 3 foo: eS TME
-Date: 12/05/2015 Time: — 4,1 0.00:arnrto’ 120
-
-Durations::, «3 (hrs) re
-
-NN ~~, et
-“\S af 05
-
-Re-Examination ies, ne
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-1. A) What are the three stages of short run production function? Why does it not make any
-economic sense to produce in stagel or 3? (10M)
-B) Explain the reasons behind the implementation of liberalization. (10M)
-
-2. What do you mean by line and staff organization structure? What are its benefits and
-
-limitations? (20M)
-3. Describe in detail Maslow’s theory of need hierarchy. (20M)
-4. What do you mean by Quality Circle? What are the various phases involved in developing
-
-Quality Circle? (20M)
-5. What do you understand by delegation of authority? (20M)
-
-Explain its significance. What are the steps involved in it?
-
-6. Write a short note on any two (20M)
-a) Diminishing return to scale
-b) Oligopoly
-c) Gross Domestic product
-
-7. Define Price elasticity of demand. Explain the relationship between total revenue and price
-elasticity demand. (20M)
-
-4/4,
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper 05167f029d4c

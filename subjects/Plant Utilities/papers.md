@@ -168,6 +168,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/PLANT UTILITIES/Plant Utilities , Final 2019-20.pdf`
 - Printed on paper: max marks: 70; exam date: 09 November 2019
 - Text: ocr (2 pages), mean OCR confidence 93.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -246,7 +247,6 @@ Calculate the cost savings for changing over to paddy husk.
 
 Calorific value of coal = 4800 kcal/kg
 Cost of coal = Rs. 2500 / MT
-GCV of paddy husk (Keal/kg) = 3568
 Cost of Paddy Husk = Rs. 1100 / MT
 Quantity of steam requirement = 15 TPH
 Enthalpy of steam = 770 kCal / kg
@@ -639,6 +639,7 @@ steam at 150 deg C. Calculate the quantity of flash steam available per hour.
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/PLANT UTILITIES/PLANT UTILITES 2016-17 RE EXAM.pdf`
 - Printed on paper: exam date: 30 May 2017
 - Text: ocr (2 pages), mean OCR confidence 93.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -735,7 +736,6 @@ d. Quantity of refrigeration.
 
 Properties of Ammonia
 
-Ps, Ts, Vs, A, Dys Si, Sy,
 KPa K cum/kg | KJ/kg KJ/kg | KJ/kg.K | KJ/kg.K
 
 226.3 | 258 0.509 112.17 | 1424.92 0.456 5.54
@@ -759,104 +759,7 @@ Cpl: 4.844 KJ/kg.K
 [12]
 ````
 
-## 2015-16 · Final-Exam · Sem 5 · paper a41894eb7e06
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/PLANT UTILITIES/PLANT UTILITIES 2015-16 Final.pdf`
-- Printed on paper: exam date: 03/12/2015
-- Text: ocr (2 pages), mean OCR confidence 90.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA. Tech (CHEMICAL) Year: Ill Semester: V
-
-‘ nee
-Academic Year: 2015-2016 7 AON ETE OF
-
-; x
-Subject: Plant Utilities MPSTME )~
-
-Marks LIBRARY é
-Date: 03/12/2015 Time ? am to 1.00
-Durations : 3
-
-Final-Examination
-NOTE:
-1. Question number | is compulsory. Explain any three parts in Q1.
-2. Attempt any four questions from the remaining questions.
-
-a
-
-3. Use steam tables wherever necessary.
-
-Answer ony Three
-(
-
-Qi (A) fuel economy & condensate treatment {4]
-
-(B) Working of Reciprocating air Compressor [4]
-
-(C) Thermic fluid heating and its advantages over steam heating. [4]
-
-_ (D) Fuel supply system [4]
-Q2 Determine the Quality of steam in the following cases: [12]
-
-a) Absolute pressure of steam is 5 bar and specific volume is 0.32 m3/kg
-b) Absolute pressure of steam is 8 bar and temperature is 200 °C
-
-c) Absolute pressure of steam is 10 bar and enthalpy is 2605 kJ/kg
-
-d) Absolute pressure of steam is 10 bar and enthalpy is 2940°kJ/kg
-
-Q3 (A) A back pressure turbine is using 30 TPH of steam. Inlet steam is at 1500 kPa [6]
-and 250 °C. Its enthalpy is 2923.5 kJ/kg. Exhaust steam is at 198.54 kPa and
-120 °C. Enthalpy of exhaust steam is 2706 kJ/kg. Calculate the theoretical
-power delivered by the turbine.
-
-[6]
-
-(B) Write a short note on boiler accessories.
-
-Q4 (A) A Single-stage single-acting compressor delivers 15 mof free air per minute [8]
-from 1 bar to 8 bar. The speed of compressor is 300 r.p.m.
-Assuming that compression and expansion follows the law PV1!3 =
-constant and clearance is 1/16 th of swept volume, find the diameter and
-stroke of the compressor. Take L/D= 1.5
-The temperature and pressure of air at the suction are same as atmospheric
-air.
-
-(B) State the rationale of selecting Dowtherm as heating medium. [4]
-
-Q5 (A) A refrigeration system requires 1 kW of power for a refrigeration rate of 3 3/s [6]
---- page 2 ---
-a) What is the Coefficient of Performance?
-
-b) How much heat is rejected from the system?
-
-c) Ifheat rejection is at 35°C, what is the lowest possible temperature the
-system can maintain?
-
-(B) If 1 kg of steam at pressure of 20 bar exists at the following conditions: {6}
-a. Wet with dryness fraction of 0.8
-b. Temperature of steam is 500 K
-Find Enthalpy, Specific Volume and Internal Energy for both the
-
-cases.
-
-Q6 (A) What are the advantages and disadvantages of air as a refrigerant? (3)
-(B) 20 TPH of condensate is available at 220 °C and 2319.8 Pa. It is flashed to [6]
-give steam at 150 °C. Calculate the quantity of flash steam available per
-
-hour.
-(C) Why are combustion gases not directly used for process heating? [3]
-Q7 (A) Write a note on solvent sealed liquid ring vacuum pumps. [4]
-(B) Steam Jet Refrigeration (4]
-(C) Absorption Refrigeration [4]
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 59ba6e175dcd
+## 2016-17 · Re-Exam · Sem 5 · paper 59ba6e175dcd
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -984,6 +887,234 @@ steam at 150 deg C. Calculate the quantity of flash steam available per hour.
 [3]
 
 [6]
+````
+
+## 2015-16 · Final-Exam · Sem 5 · paper a41894eb7e06
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/PLANT UTILITIES/PLANT UTILITIES 2015-16 Final.pdf`
+- Printed on paper: exam date: 03/12/2015
+- Text: ocr (2 pages), mean OCR confidence 90.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA. Tech (CHEMICAL) Year: Ill Semester: V
+
+‘ nee
+Academic Year: 2015-2016 7 AON ETE OF
+
+; x
+Subject: Plant Utilities MPSTME )~
+
+Marks LIBRARY é
+Date: 03/12/2015 Time ? am to 1.00
+Durations : 3
+
+Final-Examination
+NOTE:
+1. Question number | is compulsory. Explain any three parts in Q1.
+2. Attempt any four questions from the remaining questions.
+
+a
+
+3. Use steam tables wherever necessary.
+
+Answer ony Three
+(
+
+Qi (A) fuel economy & condensate treatment {4]
+
+(B) Working of Reciprocating air Compressor [4]
+
+(C) Thermic fluid heating and its advantages over steam heating. [4]
+
+_ (D) Fuel supply system [4]
+Q2 Determine the Quality of steam in the following cases: [12]
+
+a) Absolute pressure of steam is 5 bar and specific volume is 0.32 m3/kg
+b) Absolute pressure of steam is 8 bar and temperature is 200 °C
+
+c) Absolute pressure of steam is 10 bar and enthalpy is 2605 kJ/kg
+
+d) Absolute pressure of steam is 10 bar and enthalpy is 2940°kJ/kg
+
+Q3 (A) A back pressure turbine is using 30 TPH of steam. Inlet steam is at 1500 kPa [6]
+and 250 °C. Its enthalpy is 2923.5 kJ/kg. Exhaust steam is at 198.54 kPa and
+120 °C. Enthalpy of exhaust steam is 2706 kJ/kg. Calculate the theoretical
+power delivered by the turbine.
+
+[6]
+
+(B) Write a short note on boiler accessories.
+
+Q4 (A) A Single-stage single-acting compressor delivers 15 mof free air per minute [8]
+from 1 bar to 8 bar. The speed of compressor is 300 r.p.m.
+Assuming that compression and expansion follows the law PV1!3 =
+constant and clearance is 1/16 th of swept volume, find the diameter and
+stroke of the compressor. Take L/D= 1.5
+The temperature and pressure of air at the suction are same as atmospheric
+air.
+
+(B) State the rationale of selecting Dowtherm as heating medium. [4]
+
+Q5 (A) A refrigeration system requires 1 kW of power for a refrigeration rate of 3 3/s [6]
+--- page 2 ---
+a) What is the Coefficient of Performance?
+
+b) How much heat is rejected from the system?
+
+c) Ifheat rejection is at 35°C, what is the lowest possible temperature the
+system can maintain?
+
+(B) If 1 kg of steam at pressure of 20 bar exists at the following conditions: {6}
+a. Wet with dryness fraction of 0.8
+b. Temperature of steam is 500 K
+Find Enthalpy, Specific Volume and Internal Energy for both the
+
+cases.
+
+Q6 (A) What are the advantages and disadvantages of air as a refrigerant? (3)
+(B) 20 TPH of condensate is available at 220 °C and 2319.8 Pa. It is flashed to [6]
+give steam at 150 °C. Calculate the quantity of flash steam available per
+
+hour.
+(C) Why are combustion gases not directly used for process heating? [3]
+Q7 (A) Write a note on solvent sealed liquid ring vacuum pumps. [4]
+(B) Steam Jet Refrigeration (4]
+(C) Absorption Refrigeration [4]
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 1d3447be23ad
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/PLANT UTILITIES/Plant Utilities Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 03/12/2015
+- Text: ocr (2 pages), mean OCR confidence 83.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CHEMICAL) YeariIII Semester: V
+Academic Year: 2015 - 16
+
+Batch:2014-15
+
+es/TE BF yay
+és ve
+. tine Pal as Yo
+Subject : Plant Uiilities Marks:60/ 3¢ Re
+Time: 10.
+Date :03/12/2015
+
+Durations:
+
+Re-Examination
+A€-ExXamination
+
+NOTE:
+
+1. Question number 1 is compulsory. Attempt any four parts.
+2. Attempt any four questions from the remaining questiozs..
+3. Figures in bracket indicate full marks.
+
+Ql () Importance of wall temperature in Thermic fluid heati
+
+ing [3]
+a (B) Importance of blow down in cooling tower, boiler, etc. (3
+(C) -’ Fuel Supply System. _ ; f=]
+“(D) Importance of de-aerator cum expansion tank. [5]
+
+. (By Caract COP & inferénces from it.
+
+{3
+
+Q2 (A) 500 TR capacity cooling tower has water rate of 600 cum/hr. TDS of 4]
+circulating water is 180 PPM whereas TDS of make-up water is 50 PPM,
+Calculate quantity of blow down and make up water. Lisi your assumptions.
+(B) Explain the methods adopted for cooling waiter. [5
+(€) Write a short note on Multi Stage Compression. fs]
+)3 (A) A steam generator is
+from BFW at 100 d
+following:
+
+a) Fuel requirement
+
+b) Air requirement
+
+c} BFW requirement
+
+d) Electricity requirement
+Datagiven: .
+Pressure of steam := 1554.9 KPa :
+-Enthalpy of steam = 2790.9 KI/Kg
+Enthalpy of water at 100 deg C=419 KJ/Kg
+Density of oil = 900 K. g/in8
+
+Net Calor:
+
+producing 20 TPH of saturated steam at 200 degC 14}
+eg C. furnace oil is used as a fuel. Calculate the
+
+ic Value Of olf = 9650 Keal/Ke
+
+| : Efficiency of Boiler = 83% a ;
+C= 84%, H= 11%, S=3.5%, Water= 1%, Ash= 0.5%
+; Assume Excess air used.
+
+Assume the efficiencies of pumips used and 4H in metres of water.
+
+(B) Write down the applications of Vaccum.
+
+(3)
+--- page 2 ---
+Q4 (A) Why combustion gases are not directly used for process heating? [4]
+
+(B) Advantages & limitations of Steam heating & Thermic fluid heating. ral
+(C) Reasons for selecting Dowtherm as heating medium 4]
+
+Q5 (A) A-vapor compression refrigeration unit of 15 TR capacity using Freon 12 [q]
+operates between 151 KPa and 746.6 KPa. The fluid leaving the evaporator |
+is saturated vapor and leaves the condenser at 303K. Calculate: |
+a) Refrigeration effect
+b) Power required
+c) Coefficient of performance
+d) Quantity of Refrigeration’
+
+Ps, Ts, K | Vs, Enthalpy, | Enthalpy, | Entropy
+
+KPa cum/Kg | KJ/Kg, Hi | KJ/Kg, KI/Kg.K
+Ev
+
+151 253 | 0.1093 17.81 179.63 0.7123
+
+746.6 | 303 | 0.0236 64.77 201.10 0.6903
+
+Given: Cov = 0.74 KI/Kg.K & Cp=0.9914Ki/Kg K
+
+) Write a short note on Absorption Refrigeration. 5}
+
+Q6 (A) Explain Forced drafi, induced draft & balance draft in combustion system -[4}
+along with block diagrams. :
+
+(8) Determine the degree of superheat of steam when absolute pressure of steam [4]
+is 10 bar and enthalpy is 2940 KJ/Kg. Specific heat capacity of steam is 2.1
+KJ/Kg.degC
+
+(€) Write a note on Steam Drum with a neat diagram. [4]
+
+Q7 (A) A medium hazard category of industry is ‘set up in a plot of area 1000 m * [4]
+400 m. Compute the number of fire hydrants that can be installed in this
+_ industry. Also Calculate the pump capa acity and fire water storage capacity,
+(8) “Diaw Chasaztetistic ourve bf Pwinp and inferences drawn from this curve. 47
+(C} 400 TR cooling tower has cir culating water rate of 400 cum/hr. Temperaturs [4%
+difference between top and bottom water of the tower is 4 deg C.
+Calculate: ;
+a) Evaporation loss
+b) Windage loss
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper 42ce43ef5261
@@ -1225,137 +1356,6 @@ iB). Steam Jor Pevigeision {8}
 x x
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 1d3447be23ad
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/PLANT UTILITIES/Plant Utilities Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; exam date: 03/12/2015
-- Text: ocr (2 pages), mean OCR confidence 83.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CHEMICAL) YeariIII Semester: V
-Academic Year: 2015 - 16
-
-Batch:2014-15
-
-es/TE BF yay
-és ve
-. tine Pal as Yo
-Subject : Plant Uiilities Marks:60/ 3¢ Re
-Time: 10.
-Date :03/12/2015
-
-Durations:
-
-Re-Examination
-A€-ExXamination
-
-NOTE:
-
-1. Question number 1 is compulsory. Attempt any four parts.
-2. Attempt any four questions from the remaining questiozs..
-3. Figures in bracket indicate full marks.
-
-Ql () Importance of wall temperature in Thermic fluid heati
-
-ing [3]
-a (B) Importance of blow down in cooling tower, boiler, etc. (3
-(C) -’ Fuel Supply System. _ ; f=]
-“(D) Importance of de-aerator cum expansion tank. [5]
-
-. (By Caract COP & inferénces from it.
-
-{3
-
-Q2 (A) 500 TR capacity cooling tower has water rate of 600 cum/hr. TDS of 4]
-circulating water is 180 PPM whereas TDS of make-up water is 50 PPM,
-Calculate quantity of blow down and make up water. Lisi your assumptions.
-(B) Explain the methods adopted for cooling waiter. [5
-(€) Write a short note on Multi Stage Compression. fs]
-)3 (A) A steam generator is
-from BFW at 100 d
-following:
-
-a) Fuel requirement
-
-b) Air requirement
-
-c} BFW requirement
-
-d) Electricity requirement
-Datagiven: .
-Pressure of steam := 1554.9 KPa :
--Enthalpy of steam = 2790.9 KI/Kg
-Enthalpy of water at 100 deg C=419 KJ/Kg
-Density of oil = 900 K. g/in8
-
-Net Calor:
-
-producing 20 TPH of saturated steam at 200 degC 14}
-eg C. furnace oil is used as a fuel. Calculate the
-
-ic Value Of olf = 9650 Keal/Ke
-
-| : Efficiency of Boiler = 83% a ;
-C= 84%, H= 11%, S=3.5%, Water= 1%, Ash= 0.5%
-; Assume Excess air used.
-
-Assume the efficiencies of pumips used and 4H in metres of water.
-
-(B) Write down the applications of Vaccum.
-
-(3)
---- page 2 ---
-Q4 (A) Why combustion gases are not directly used for process heating? [4]
-
-(B) Advantages & limitations of Steam heating & Thermic fluid heating. ral
-(C) Reasons for selecting Dowtherm as heating medium 4]
-
-Q5 (A) A-vapor compression refrigeration unit of 15 TR capacity using Freon 12 [q]
-operates between 151 KPa and 746.6 KPa. The fluid leaving the evaporator |
-is saturated vapor and leaves the condenser at 303K. Calculate: |
-a) Refrigeration effect
-b) Power required
-c) Coefficient of performance
-d) Quantity of Refrigeration’
-
-Ps, Ts, K | Vs, Enthalpy, | Enthalpy, | Entropy
-
-KPa cum/Kg | KJ/Kg, Hi | KJ/Kg, KI/Kg.K
-Ev
-
-151 253 | 0.1093 17.81 179.63 0.7123
-
-746.6 | 303 | 0.0236 64.77 201.10 0.6903
-
-Given: Cov = 0.74 KI/Kg.K & Cp=0.9914Ki/Kg K
-
-) Write a short note on Absorption Refrigeration. 5}
-
-Q6 (A) Explain Forced drafi, induced draft & balance draft in combustion system -[4}
-along with block diagrams. :
-
-(8) Determine the degree of superheat of steam when absolute pressure of steam [4]
-is 10 bar and enthalpy is 2940 KJ/Kg. Specific heat capacity of steam is 2.1
-KJ/Kg.degC
-
-(€) Write a note on Steam Drum with a neat diagram. [4]
-
-Q7 (A) A medium hazard category of industry is ‘set up in a plot of area 1000 m * [4]
-400 m. Compute the number of fire hydrants that can be installed in this
-_ industry. Also Calculate the pump capa acity and fire water storage capacity,
-(8) “Diaw Chasaztetistic ourve bf Pwinp and inferences drawn from this curve. 47
-(C} 400 TR cooling tower has cir culating water rate of 400 cum/hr. Temperaturs [4%
-difference between top and bottom water of the tower is 4 deg C.
-Calculate: ;
-a) Evaporation loss
-b) Windage loss
-````
-
 ## 2014-15 · Re-Exam · Sem 5 · paper e9d7f36d4651
 
 - Departments: Chemical
@@ -1482,6 +1482,7 @@ YY
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/PLANT UTILITIES/PLANT UTILITIES 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03/12/2013
 - Text: ocr (3 pages), mean OCR confidence 92.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS >
@@ -1554,7 +1555,6 @@ f) Flashing in throttling valve
 Data: Cpl=0.99 KJ/KgC, Cpv=0.74 KJ/KgC
 
 Pressure, Temperature, Enthalpy, KJ/Kg Entropy, KJ/KgC
-KPa K L Vv L Vv
 235.4 265 28.77 185.13 0.115 0.7048
 746.6 303 64.77 201.10 0.2406 0.6903
 

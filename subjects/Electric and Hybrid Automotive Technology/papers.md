@@ -1,6 +1,6 @@
 # Electric and Hybrid Automotive Technology: question papers in full
 
-15 unique papers · 2022 to 2025-26 · Mechanical, Mechatronics
+15 unique papers · 2021-22 to 2025-26 · Mechanical, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -264,6 +264,7 @@ FC QI a iar
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/ELECTRIC HYBRID AUTOMOTIVE TECHNOLOGY/Electric and Hybrid Automotive Technology 2025-26 Final.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 81.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -385,7 +386,6 @@ eo
 
 “e
 
-2 oe a a ok 3 OR OR OK
 ````
 
 ## 2024-25 · Final-Exam · Sem 6 · paper 5a931749a1de
@@ -395,6 +395,7 @@ eo
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/ELECTRICAL & HYBRID AUTOMOTIVE TECHNOLOGY/Electric and Hybrid Automotive Technology, Sem VI, Year 2024-25, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07/05/2025
 - Text: ocr (2 pages), mean OCR confidence 88.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _ SVKM’S NMIMS
@@ -519,7 +520,6 @@ Discuss the integration of Gazebo plugins and RViz visualization to simulate the
 and control. of the car in a virtual environment.
 
 Cor 02; Illustrate a Series Hybrid Electric Vehicle (HEV) configuration with a labeled diagram. (05)
-SO-01; |b. |, A i ne 4 b 5
 BL -02 Explain how the engine, generator, and electric motor interact to drive the vehicle.
 
 Qi . [20]
@@ -530,6 +530,91 @@ ea 7 - transportation. Compare their advantages and limitations against Battery 
 BL-0. 4 in terms of energy efficiency, infrastructuré requirements, and environmental impact. Would
 
 FCEVs be a better alternative for heavy-duty applications? Justify your answer.
+````
+
+## 2023-24 · Final-Exam · Sem 5 · paper b84ac0a2a0fb
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/ELECTRIC HYBRID AUTOMOTIVE TECHNOLOGY/Electric & Hybrid Automative Technology, Final 2022-24.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 87.5
+
+````text
+SVKM’S NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING/
+
+SCHOOL OF TECHNOLOGY MANAGEMENT F
+Academic Year: 2023-2024 ~
+Program/s: BTech /MBATech Year: 3% Semester: V
+Stream/s :Mechanical Engineering ;
+Subject: Electric and Hybrid Automotive Technology Time: 03 hrs (2: pM to 5: pm )
+Date:_02 /12 / 2023 No. of Pages: 02
+
+Marks: 100
+
+Final Examination —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+CO-1;SO-2;BL-1 a. | Describe electric vehicle in brief. [05]
+CO-2;SO-2;BL-2 b. | Explain brushed DC motor used in electric vehicle with neat sketch. [05]
+CO-2;SO-2;BL-1 c. | Explain controllers used in electric vehicle. [05]
+CO-3:S0-6;BL-2 d. | Describe simple discrete model in brief with example. [05]
+*
+| @ a Explain analytical models with its advantages and disadvantages. [10]
+CO-3;SO-6;BL-3 :
+b. _| Illustrate rolling resistance force and aerodynamic drag force of electric vehicle in
+CO-1;SO-1;BL-4 . [10]
+detail.
+Q3 a Explain different parameters and sensors used in a battery of electric vehicle? [10]
+CO-2;SO-2;BL-3
+CO-2;SO-2:BL-6 b. | Justify, reluctance motor are synchronous motors with neat diagram. [10]
+of & Illustrate plug-in hybrid electric vehicle in detail with examples. [10]
+CO-1;SO-1;BL-3
+CO-3;SO-6:BL-4 b. | mustrate dynamic analysis of electric vehicle in detail with example. [10]
+Q5 a. | Recommend suitable brushed DC motor based on commutation, speed range, [10]
+CO-2;SO-2:BL-5 control requirement, applications and maintenance.
+Page 1|2
+--- page 2 ---
+b. | Battery management system plays important role in electric vehicle, justify with
+
+CO-1;SO-2;BL-6 ; [10]
+
+neat diagram.
+
+a. | Calculate tractive force in vehicle.
+
+Rolling resistant constant = 0.02
+
+Mass of vehicle = 1210 Kj
+°° Se [10]
+CO-1:S0-1:BL-3 Gravity = 9.80 m/s? Air density = 1.25 Kg/ m?
+
+Width = 0.95m Height = 1.45m
+
+Drag coefficient = 0.30 Velocity of vehicle = 50kmph
+CO-2;S0-2:BL-4 | >- Describe electric vehicles powertrain in brief with example. [10]
+Q7 a | Explain method of repurposing of batteries in electric vehicle. [10]
+CO-2;SO-2;BL-4
+CO-3; SO-5:BL-3 |». | Explain barriers to the adoption of electric vehicles. [10]
+
+Page 2|2
 ````
 
 ## 2023-24 · Final-Exam · Sem 6 · paper 1b4710457f2a
@@ -887,91 +972,6 @@ BL-4
 Page 2 of 2
 ````
 
-## 2022 · Final-Exam · Sem 5 · paper b84ac0a2a0fb
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/ELECTRIC HYBRID AUTOMOTIVE TECHNOLOGY/Electric & Hybrid Automative Technology, Final 2022-24.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 87.5
-
-````text
-SVKM’S NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING/
-
-SCHOOL OF TECHNOLOGY MANAGEMENT F
-Academic Year: 2023-2024 ~
-Program/s: BTech /MBATech Year: 3% Semester: V
-Stream/s :Mechanical Engineering ;
-Subject: Electric and Hybrid Automotive Technology Time: 03 hrs (2: pM to 5: pm )
-Date:_02 /12 / 2023 No. of Pages: 02
-
-Marks: 100
-
-Final Examination —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20]
-CO-1;SO-2;BL-1 a. | Describe electric vehicle in brief. [05]
-CO-2;SO-2;BL-2 b. | Explain brushed DC motor used in electric vehicle with neat sketch. [05]
-CO-2;SO-2;BL-1 c. | Explain controllers used in electric vehicle. [05]
-CO-3:S0-6;BL-2 d. | Describe simple discrete model in brief with example. [05]
-*
-| @ a Explain analytical models with its advantages and disadvantages. [10]
-CO-3;SO-6;BL-3 :
-b. _| Illustrate rolling resistance force and aerodynamic drag force of electric vehicle in
-CO-1;SO-1;BL-4 . [10]
-detail.
-Q3 a Explain different parameters and sensors used in a battery of electric vehicle? [10]
-CO-2;SO-2;BL-3
-CO-2;SO-2:BL-6 b. | Justify, reluctance motor are synchronous motors with neat diagram. [10]
-of & Illustrate plug-in hybrid electric vehicle in detail with examples. [10]
-CO-1;SO-1;BL-3
-CO-3;SO-6:BL-4 b. | mustrate dynamic analysis of electric vehicle in detail with example. [10]
-Q5 a. | Recommend suitable brushed DC motor based on commutation, speed range, [10]
-CO-2;SO-2:BL-5 control requirement, applications and maintenance.
-Page 1|2
---- page 2 ---
-b. | Battery management system plays important role in electric vehicle, justify with
-
-CO-1;SO-2;BL-6 ; [10]
-
-neat diagram.
-
-a. | Calculate tractive force in vehicle.
-
-Rolling resistant constant = 0.02
-
-Mass of vehicle = 1210 Kj
-°° Se [10]
-CO-1:S0-1:BL-3 Gravity = 9.80 m/s? Air density = 1.25 Kg/ m?
-
-Width = 0.95m Height = 1.45m
-
-Drag coefficient = 0.30 Velocity of vehicle = 50kmph
-CO-2;S0-2:BL-4 | >- Describe electric vehicles powertrain in brief with example. [10]
-Q7 a | Explain method of repurposing of batteries in electric vehicle. [10]
-CO-2;SO-2;BL-4
-CO-3; SO-5:BL-3 |». | Explain barriers to the adoption of electric vehicles. [10]
-
-Page 2|2
-````
-
 ## 2022-23 · Final-Exam · Sem 5 · paper fbc8ffe14bfe
 
 - Departments: Mechanical
@@ -1265,7 +1265,91 @@ BL-4 :
 Page 2 of 2
 ````
 
-## 2022 · Final-Exam · Sem 6 · paper 7aca6583c288
+## 2022-23 · Re-Exam · Sem 6 · paper 6a7da61aeaa6
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/ELECTRICAL & HYBRID AUTOMOTIVE TECHNOLOGY/Electric & Hybrid Automotive Technology, Sem-VI, Year 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/06/2023
+- Text: ocr (2 pages), mean OCR confidence 85.0
+
+````text
+SVKM’S NMIMS i ai
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B.Tech Stream ; Mechatronics Year: III Semester: VI
+
+Subject: Electric and Hybrid Automotive Technology Time: 03 hrs (02:00 pm to 05:00 pm)
+Date: 28/06/2023 No. of Pages: 01
+
+Marks: 100 (Printed on both sides)
+
+Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO-1; SO-2;
+or > a. | Summarize the components used in plugin hybrid electric vehicles (05)
+CO-2; SO-1; . .
+BL-2 b. | Classify the vehicle types based on sources of energy. (05)
+-1; SO-2;
+CO BL2 > c, | Illustrate the series-parallel configuration of hybrid electric architecture. (05)
+CO-3; SO-1; ‘
+BL-3 d. | Solve and determine the force needed to accelerate a mass of 1000 kg at 1.32 m/s?. (05)
+~ Q2 [20]
+-1; SO-2; rf ‘ : 2
+CO Boe a. | Cite the well to wheel concept used in electric vehicles. (05)
+CO-3; SO-1;
+BL 3 ° b. | Sketch the Power electronics converters used in a series HEV. (15)
+al Q3 {20}
+CO-3; SO-1;
+—_ or 1 a. | Cite the process to guide a vehicle from a maze. (10)
+wi: CO2; SO-1; 5 . . . . . . . .
+BL-4 b. | With neat diagram explain the detailed battery model applicable to NiMH including hysteresis. (10)
+--- page 2 ---
+ee
+
+Q4
+CO-2; SO-1;
+
+Evaluate and discuss the FAME-I subsidy. ; [20]
+BL-5 ‘
+Qs [20]
+Plan the modeling and analysis of a hybrid electric vehicle for FTP cycle. The entire FTP-75 cycle consists
+of the following segments:
+CO-3; SO-1; ¢ — Cold start transient phase (ambient temperature 20-30°C), 0-505 s, 15
+BL-4 ¢ — Stabilized phase, 506-1372 s, (1s)
+e Hot soak (min 540 s, max 660 s),
+e — Hot start transient phase, 0-505 s.
+CO-1; SO-2; — ; . . . z
+BL3 Criticize the environmental challenges and role of government policy for electric vehicles. (05)
+Q6 [20]
+CO-2; SO-1; . . ‘
+BL3 Determine the Idealized blended PHEV model for power management study. (10)
+CO-3; SO-1; . 5 : : ' . «
+BL-3 Discover the different types of modes that can be achieved in a Parallel hybrid electric vehicle. (10)
+Q7
+CO-4; SO-2; Plan a controller with all basic elements along with the configuration needed to control a Series HEV. [20]
+BL-4
+````
+
+## 2021-22 · Final-Exam · Sem 6 · paper 7aca6583c288
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -1353,88 +1437,4 @@ CO-3; SO-1; b Discover Mode 0: Vehicle Launch and Backup and Mode 1: Low Range m
 BL-3 planetary gear train.
 
 Page 2 of 2
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper 6a7da61aeaa6
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/ELECTRICAL & HYBRID AUTOMOTIVE TECHNOLOGY/Electric & Hybrid Automotive Technology, Sem-VI, Year 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/06/2023
-- Text: ocr (2 pages), mean OCR confidence 85.0
-
-````text
-SVKM’S NMIMS i ai
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B.Tech Stream ; Mechatronics Year: III Semester: VI
-
-Subject: Electric and Hybrid Automotive Technology Time: 03 hrs (02:00 pm to 05:00 pm)
-Date: 28/06/2023 No. of Pages: 01
-
-Marks: 100 (Printed on both sides)
-
-Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-CO-1; SO-2;
-or > a. | Summarize the components used in plugin hybrid electric vehicles (05)
-CO-2; SO-1; . .
-BL-2 b. | Classify the vehicle types based on sources of energy. (05)
--1; SO-2;
-CO BL2 > c, | Illustrate the series-parallel configuration of hybrid electric architecture. (05)
-CO-3; SO-1; ‘
-BL-3 d. | Solve and determine the force needed to accelerate a mass of 1000 kg at 1.32 m/s?. (05)
-~ Q2 [20]
--1; SO-2; rf ‘ : 2
-CO Boe a. | Cite the well to wheel concept used in electric vehicles. (05)
-CO-3; SO-1;
-BL 3 ° b. | Sketch the Power electronics converters used in a series HEV. (15)
-al Q3 {20}
-CO-3; SO-1;
-—_ or 1 a. | Cite the process to guide a vehicle from a maze. (10)
-wi: CO2; SO-1; 5 . . . . . . . .
-BL-4 b. | With neat diagram explain the detailed battery model applicable to NiMH including hysteresis. (10)
---- page 2 ---
-ee
-
-Q4
-CO-2; SO-1;
-
-Evaluate and discuss the FAME-I subsidy. ; [20]
-BL-5 ‘
-Qs [20]
-Plan the modeling and analysis of a hybrid electric vehicle for FTP cycle. The entire FTP-75 cycle consists
-of the following segments:
-CO-3; SO-1; ¢ — Cold start transient phase (ambient temperature 20-30°C), 0-505 s, 15
-BL-4 ¢ — Stabilized phase, 506-1372 s, (1s)
-e Hot soak (min 540 s, max 660 s),
-e — Hot start transient phase, 0-505 s.
-CO-1; SO-2; — ; . . . z
-BL3 Criticize the environmental challenges and role of government policy for electric vehicles. (05)
-Q6 [20]
-CO-2; SO-1; . . ‘
-BL3 Determine the Idealized blended PHEV model for power management study. (10)
-CO-3; SO-1; . 5 : : ' . «
-BL-3 Discover the different types of modes that can be achieved in a Parallel hybrid electric vehicle. (10)
-Q7
-CO-4; SO-2; Plan a controller with all basic elements along with the configuration needed to control a Series HEV. [20]
-BL-4
 ````

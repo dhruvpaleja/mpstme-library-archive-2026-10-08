@@ -224,6 +224,77 @@ hydrothermal resource with the help of neat sketch.
 b) Explain the construction and working of oscillating water column with neat sketch. (06)
 ````
 
+## 2017-18 · Re-Exam · Sem 7 · paper dba0f647dfdc
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VII SEMESTER/NON CONVENTIONAL ENERGY SOURCES/Non Conventional energy sources 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 25 November 2017
+- Text: text (2 pages)
+
+````text
+•
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA Tech (Mechanical)   Year: IV
+Batch: 2016-17
+Academic Year: 2017-2018
+I
+J
+Subject: Non Conventional Energy Sources   /
+Marks: 60 _   '.•.,I ,   -~-'
+Date: 25 November 2017·   T· Ime: 2 . 00 pm - 5 . 00 pm r •••.   ~.;; '.,   • .~' .;
+Durations: 3 Hrs   ---
+No. of Pages:   o1.-c---
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover ofthe Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+--7) Assume $uitable data if necessary.
+Q.l   Solve any four   (12)
+a. State the limitations of conventional energy.
+b. Define altitude, zenith angle, azimuth angle.
+c. Explain the working principle of horizontal axis wind mill.
+d. What are the environmental issues associated with geothermal energy.
+e. Explain the working of open cycle OTEC system.
+f.   List out the factors affecting biogas production.
+Q.2   a)   Calculate the day hours on May 02 and Dec 01 on a surface sloping southwards at an   (08)
+angle of 40° at a place of 19°07' North latitude and 72.51 East longitude.
+b) What is meant by acid rain? Explain.   (04)
+Q.3   a) Wind at 1 standard atmospheric pressure and 15° C has a velocity of lSmJs. Calculate   (08)
+1. Total power density' in the wind stream
+2. The maximum obtainable power density
+3. A reasonable obtainable power density
+4. Tot~( power   .
+Given: Turbine diameter = 120 m and turbine operating speed = 40 rpm at maximum
+efficiency. Propeller type wind turbine is considered.
+b)   State merits and demerits of fuel cells.   (04)
+--- page 2 ---
+Q.4   a) The following data are given for a family biogas digester suitable for the output of five   (OS)
+cows:
+Retention period is 20 days and temperature = 30DC;
+Dry matter consumed per day per cow = 2 kg; biogas yield is 0.24 rrr' per kg; efficiency
+of burner is 60%; methane proportion   is 0.8; Heat of combustion of methane is 28
+MJ/m3   ; Calculate volume of biogas digester and power available in biogas digester
+when density of fluid volume is 50 kg/rrr' .
+b) What is the working principle of single basin tidal power plant?   (04)
+--I >,\10
+Q.5   a)   Explain any'type of fuel cell developed in industry with neat sketch.   (08)
+b) What is the working principle of solar air heater? Explain with neat sketch.   (04)
+Q.6   a)   Explain the construction and working of Liquid flat plate collector with neat sketch.   (06)
+"
+b) What are the basic component of wind energy conversion system? Explain with neat   (06)
+sketch.
+Q.7   a)   Explain the vapor dominated system belongs to geothermal energy.   (06)
+b)   Explain the construction and working of oscillating water column with neat sketch.   (06,
+2)~
+( 1._
+````
+
 ## 2016-17 · Final-Exam · Sem 7 · paper 32cf76228e25
 
 - Departments: Mechanical
@@ -517,77 +588,6 @@ fuel cell? What are the applications of fuel cells?
 fy
 ````
 
-## 2016-17 · Re-Exam · Sem 7 · paper dba0f647dfdc
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VII SEMESTER/NON CONVENTIONAL ENERGY SOURCES/Non Conventional energy sources 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 25 November 2017
-- Text: text (2 pages)
-
-````text
-•
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA Tech (Mechanical)   Year: IV
-Batch: 2016-17
-Academic Year: 2017-2018
-I
-J
-Subject: Non Conventional Energy Sources   /
-Marks: 60 _   '.•.,I ,   -~-'
-Date: 25 November 2017·   T· Ime: 2 . 00 pm - 5 . 00 pm r •••.   ~.;; '.,   • .~' .;
-Durations: 3 Hrs   ---
-No. of Pages:   o1.-c---
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover ofthe Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
---7) Assume $uitable data if necessary.
-Q.l   Solve any four   (12)
-a. State the limitations of conventional energy.
-b. Define altitude, zenith angle, azimuth angle.
-c. Explain the working principle of horizontal axis wind mill.
-d. What are the environmental issues associated with geothermal energy.
-e. Explain the working of open cycle OTEC system.
-f.   List out the factors affecting biogas production.
-Q.2   a)   Calculate the day hours on May 02 and Dec 01 on a surface sloping southwards at an   (08)
-angle of 40° at a place of 19°07' North latitude and 72.51 East longitude.
-b) What is meant by acid rain? Explain.   (04)
-Q.3   a) Wind at 1 standard atmospheric pressure and 15° C has a velocity of lSmJs. Calculate   (08)
-1. Total power density' in the wind stream
-2. The maximum obtainable power density
-3. A reasonable obtainable power density
-4. Tot~( power   .
-Given: Turbine diameter = 120 m and turbine operating speed = 40 rpm at maximum
-efficiency. Propeller type wind turbine is considered.
-b)   State merits and demerits of fuel cells.   (04)
---- page 2 ---
-Q.4   a) The following data are given for a family biogas digester suitable for the output of five   (OS)
-cows:
-Retention period is 20 days and temperature = 30DC;
-Dry matter consumed per day per cow = 2 kg; biogas yield is 0.24 rrr' per kg; efficiency
-of burner is 60%; methane proportion   is 0.8; Heat of combustion of methane is 28
-MJ/m3   ; Calculate volume of biogas digester and power available in biogas digester
-when density of fluid volume is 50 kg/rrr' .
-b) What is the working principle of single basin tidal power plant?   (04)
---I >,\10
-Q.5   a)   Explain any'type of fuel cell developed in industry with neat sketch.   (08)
-b) What is the working principle of solar air heater? Explain with neat sketch.   (04)
-Q.6   a)   Explain the construction and working of Liquid flat plate collector with neat sketch.   (06)
-"
-b) What are the basic component of wind energy conversion system? Explain with neat   (06)
-sketch.
-Q.7   a)   Explain the vapor dominated system belongs to geothermal energy.   (06)
-b)   Explain the construction and working of oscillating water column with neat sketch.   (06,
-2)~
-( 1._
-````
-
 ## 2015-16 · Final-Exam · Sem 7 · paper af9f3f702070
 
 - Departments: Mechanical
@@ -669,6 +669,7 @@ To
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/NON CONVENTIONAL ENERGY SOURCES/NON CONVENTIONAL ENERGY SOURCES B TECH (MECHANICAL), 2013-14 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05/12/2013
 - Text: ocr (2 pages), mean OCR confidence 89.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -756,7 +757,6 @@ Q7 Write a note on any four [20 marks]
 (d) Benefit of cogeneration
 (e) Solar refrigeration
 
-FH EEE EET EEE EEE EEE EEE EE EEE EEE EEE EEE EEE EEE EEE EEE EEE EE
 
 Q]
 ````

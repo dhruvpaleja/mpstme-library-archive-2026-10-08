@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING FINAL EXAM 19-20 RE EXAM 2018-19.pdf`
 - Printed on paper: exam date: 09 November 2019
 - Text: ocr (4 pages), mean OCR confidence 76.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 vA SVKM’s NMIMS
@@ -210,7 +211,6 @@ S 401
 uo EX] 30 $e 186
 t 59 <0 $06
 TRAFIC) {mae} TRAFFIC (mee!
-~ Gi ose Wl cp BS pM OB ae fost i os waoey BE st
 
 IRC 3T- 1604
 
@@ -225,7 +225,6 @@ PLATE 1 = RECOMMENDED DESIGNS FOR TRAFFIC RANGE 1-10 mse
 PLATE 1 ~ RECOMMENDED DESIGNS FOR TRAFFIC RANGE 1-10 ose
 : CBR 5% CBR t% -
 Foul PAVEMENT COMPOSITION. Camuisive) Total PAVEMENT COMPOST i
-Pavement] Bituminous Surfacing) Graauler ] ‘Trafic | Pavement|   Biturninous Surfacing, Genie s Shik
 Wearing | Binder Base | Sub-base {esa} | Thickness [Wearing | Binder brent ‘cnre)
 Course | Course (mm) | (mm) | | (mm) | Course | Course (om) °
 i (mam) | <mm) - : (comp | (om)
@@ -247,7 +246,6 @@ Zicse Mss
 
 TRAFFIC (msa)
 
-Faeu Wem Bac ma soec TEPC
 
 Pana
 
@@ -738,6 +736,254 @@ under different conditions.
 oh
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 855080e910dd
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING (CIVIL), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2017
+- Text: ocr (5 pages), mean OCR confidence 78.0
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (CIVIL) . "Year: II Semester: V
+‘\
+Batch: 2015-16
+| é Academic Year: 2017-2018
+Subject: Highway and Railway Engineering —_
+7 Marks: 60..49°'°°°" “! <8,
+Date: 24 November 2017 Time: 2. 90, pm to 5.00 Pat,
+r Durations! 3 (hrs) Fs ra
+No. 0} Pas eS: [OA aY
+
+Re-Examination % ae
+o,
+
+*
+
+Orr canoe
+Instructions: Candidates should read carefully the instructions printed on
+paper and on the cover of the Answer Book, which is provided for their use.
+
+} . 1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any Four questions.
+: 3) In all Five questions to be attempted. (Compulsory)
+: 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+I ’ 7) Assume Suitable data if necessary.
+
+———~ J. =. Answer any 6 of the following : : a =
+________a) _ Write a short note on PMGSY. et (2)
+b) Enlist the factors affecting the geometric design of highways. (2)
+c) List down the width of carriageway for various classes of roads standardized by (2)
+IRC. “
+d) Describe the objectives of providing a transition curve on highways. : (2)
+e) Enlist the vehicular characteristics and briefly explain their effect on geometric (2)
+4 design. a
+f) Explain the necessity of Aggregate impact test. (2)
+
+g) Describe the function of surface course in a flexible pavement and name any 2 (2)
+materials generally used as a surface course.
+
+h) What is ballast? List down any 2 functions of the ballast. , (2)
+2. a) Sketch the cross section of a track and label the parts. 3) -
+—— b) Ona broad gauge 3°curve, the equilibrium cant is provided for a speed of 70 kmph. (3)
+. Calculate the value of equilibrium cant. Allowing a maximum cant deficiency,
+ee what would be the maximum permissible speed on the track?
+i c) Discuss in brief the various tractions on railways. (6)
+Us
+--- page 2 ---
+3. a) Calculate the safe overtaking sight distance for a one-way traffic road and a two- (6)
+
+way traffic road for a design speed of 85 kmph.
+b) Calculate the total lengths of NH, SH and MDR needed in a district as per second (6)
+
+twenty year road development plan or Bombay Road plan. The data collected from
+the district is given below
+Total Area= 20000 km?
+Developed and agricultural land= 10000 km?
+Undeveloped area= 5000 km?
+
+Population range | Number of towns
+
+<500 200
+500-1000 300
+1000-2000 700
+2000-5000 350.
+5000-10000 150
+
+10000-20000 80
+20000-50000 20
+50000-100000 10
+>100000 5
+
+" 4. A horizontal curve of radius 500 m and length 300 m has to be introduced in a 2
+lane highway, passing through a plain terrain, with a design speed of 100 kmph.
+a) Design the super elevation for the horizontal curve. (4)
+b) Calculate the extra widening required at the curve if the longest wheel base of
+vehicle expected on the road is 6.5 m and the highway is 4 lane. (3)
+c) Design the length of transition curve. (5)
+
+5. a) Define gradient. Briefly explain the four types of gradient in design of vertical (5)
+alignment of highways.
+
+b) A valley curve is formed by a descending gradient of 1 in 40 which meets an (4)
+ascending gradient of 1 in 30. Design the total length of the valley curve if the
+design speed is 100 kmph so as to fulfill both comfort condition head light sight
+distance for night driving. Assume c=0.6 m/s?.
+
+c) The deviation angle at a summit curve is 0.02 and the overtaking sight distance is (3)
+300 m. Find the length of the summit curve required.
+--- page 3 ---
+6. a) Spot speed studies were carried out at a certain stretch of a highway with mixed (8)
+traffic flow and the consolidated data cdllected are given below:
+
+Speed Range (kmph) | No. of vehicles observed
+
+0 to 10 12
+10 to 20 18
+20 to 30 68
+30 to 40 89
+40 to 50 204
+50 to 60 255
+60 to 70 119
+70 to 80 43
+80 to 90 33
+90 to 100 9
+
+Plot the graph and determine the upper and lower speed limits for installing
+regulations signs at this road stretch.
+
+b) Briefly explain the different traffic engineering studies generally carried out (Any (4)
+four)
+
+7. a) Enumerate the differences between flexible pavement and rigid pavement with (8)
+labelled diagrams. =
+b) The initial traffic after completion of construction of a 2 lane highway is estimated (4)
+to be 3500 cv per day. Design the flexible pavement for a life of 15 years using
+the data given below. (Refer the design charts). Design CBR value= 5%, Growth
+rate of cv=6.5%, Average VDF value of cv= 4
+
+8. a) Briefly explain the factors to be considered for the design of rigid pavements (Any (3)
+
+three)
+b) Briefly explain any one test conducted on Bitumen (3)
+c) Explain the overtaking manoeuvre for calculating the overtaking sight distance. (3)
+d) Define the following (3)
+i. Creep
+ii. Camber
+
+iii. Headlight Sight Distance
+
+3/5
+--- page 4 ---
+CBR ZN
+900; =
+i ~ Le: > Some
+LT
+je ; x
+an
+Lt : Z
+0}
+62
+4005 2030 300 in ~ 100
+_— _ DESIGN TRAFFIC, msa .
+“: Fig. 2. Pavemetit Thickness Design Chait for Traffic 10-150 msa
+300,
+Se ory a
+CBR ZK
+8oof}—_|
+--- page 5 ---
+2C:37-2001
+IRC:37-2001
+PAVEMENT DESIGN CATALOGUE i
+
+PLATE 2 - RECOMMENDED DESIGNS FOR TRAFFIC RANGE 10-150 msa
+
+! CBR 5%
+
+PAVEMENT DESIGN CATALOGUE
+PLATE 2 - RECOMMENDED DESIGNS FOR TRAFFIC RANGE 10-150 msa
+
+CBR 6%
+wuatve | oul PAVEMENT COMPOSITION Cumulative | Total PAVEMENT COMPOSITION
+Sevens Biuminows Surfacing | Granular Base Traffic Pavement [Bituminous Surfacing | Granular Base
+ickne : ic E
+(aa). en ) rae & Sub-base (masa) Thickness BC DBM & Sub-base
+; 660 fon) Gam) (mm) (mm) (mm)
+= iid 10 615 40 65
+690 40 100
+oe a 20 640 40 30
+: a 30 655 40 105 | Base = 250
+Fad. 40 140
+ae on : 30 675 40 125
+= 7 SO __] Subicbase-= 300 100 700 30 140 | Sub-base = 260
+7
+sti 150 720 50 160
+CBR 5%   * CBR 6"
+= L
+z
+£ . 2 ead
+5 600! a | cS 600
+2 3 L
+~ 2
+3 z
+S «cal S 400F
+~ a
+a 'o ne r
+= zo0b g S ro0hi
+g 4
+>[AY z
+ol = 4
+17 20 30 30 56 156 fo 26 30 30 Too 150
+TRAFFIC (mea) TRAFFIC (ms
+IRC:37-2001 . TRO:37-2901
+PAVEMENT DESIGN CATALOGUE PAVEMENT DESIGN CATALOGUE
+PLATE. | ~ RECOMMENDED DESIGNS FOR TRAFFIC RANGE 1-10 ms | pLATE 1 - RECOMMENDED DESIGNS FOR TRAFFIC RANGE 1-10 msa
+mnie
+CBR 5% CBR 6% .
+
+Cumulative] Total PAVEMENT COMPOSITION Camuletive] Total PAVEMENT COMPOSITION
+Traffic | Pavement| Bituminous Surfacing] Granular | Granuiar ‘Teattic | Paverent|   Biuminous Surfacing] Granular | Granular
+(msa} Thickness | Wearing Binder Base [ Sub-base (esa) Thickness | Wearing Binder Base | Sub-base
+
+(mm) Course | Course (mm) (mm) i (mm) Course | Course (mm) Gam}
+| ae (mm) (mm) : ; (man) (mm)
+I 430__-[ 20 PC Bs) ae | | 7 3590 | 20 PO 225 165
+2 __ 490 | aPC $0 BM 225 218 2 450 | 20 PC $0 BM 225 135
+3 | F390 | 20 PC 50 BM 250 230 3 49a | 20 PC 50 BM 250 190
+te 660 40 BC 10 DBM 250 300 10 g635 40 BC 65 DBM |. 280 260
+=
+E so0f £7 CBR 6%
+¢ CBR Sh
+Sd Z soot
+= sor é
+2 =
+5 2
+3 % 400r
+= 400 o
+g 2 f
+“
+we i g z00r
+$ 200) z
+z k $ L
+3 =
+ts r 8 ‘ 2 7 by 10
+° ’ 3 5 |: TRAFFIC {msa)
+TRAFFIC (msa) ”
+
+
+Pansd
+
+=
+
+at hed
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper 372cf19908a0
 
 - Departments: Civil
@@ -1058,457 +1304,112 @@ Se
 2fPage
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper e5e9a329e105
+## 2016-17 · Final-Exam · Sem 5 · paper e2d8d12c81cb
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 27 May 2017
-- Text: ocr (2 pages), mean OCR confidence 91.9
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING B TECH (CIVL), FINAL EXAM.pdf`
+- Printed on paper: exam date: 26 November 2016
+- Text: ocr (2 pages), mean OCR confidence 91.2
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (CIVIL) Year: III Semester: V
-Batch: 2015-16/ 2016-17 yan
-Academic Year:'2016-2017 ae
-, t: Sy ‘
-Subject: Highway and Railway Engineering ey (a A2STME ¥
-Marks: 60 @{ * RAR
-Date: 27 May 2017 Time: 10.00 aints.c0 0 00 pm_y
-Durations: 3 (hrs}* Book aoe
+Programme: B. Tech (CIVIL) Year: Ill Semester: V
 
-No. of Pages: _ 2—
-Re-Examination
+; : yvtatl Bay, %
+j Academic Year: 2016-2017 a ‘ TARR,
+d : asf MPstM B o |
+Subject : Highway and Railway Engineering tu IBRARY J
+"Marks: wi NG (J
+Date : 26 November 2016 Time : 2.
+Durations:
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Final-Examination
 
-NB:
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
 1) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any four questions.
+2) Out of remaining questions, attempt any 4 questions.
 
-3) In all 4 questions to be attempted.
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql Attempt any four (Produce appropriate figures/drawings wherever required) - (12)
-a) Thirteenth highest hourly traffic
-b) Desire Lines
-c) Types of traffic signal systems (explain any 1) .
-d) Gl method for pavement design
-e) Obligatory points
+Q.1) Attempt Any Four questions (12)
+(a) Write a short note on Different Road Development Plans in India. (03)
+(b) Differentiate between Flexible and Rigid paverhent. (03)
+(c) Discuss the functions of ballast in railway. (03)
 
-Q2 (12)
-a) Explain total reaction time of driver and factors on which it depends. Explain PEIV theory..
-b) List the various transition curves used in highways. Explain what an ideal transition curve is«
+(4) | What do you mean by Transition Curve? What are the various conditions for calculating the (03)
+length of transition curves?
 
-Q3 (12)
-a) What is traffic rotary? What are its advantages and disadvantages referring to the traffic
-conditions in India?
-b) Describe CBR test: Explain how the test is conducted in Laboratory with Neat Diagram. How
-are CBR test result interpreted?
-— Q4 (12)
-a) Enlist and explain various types of resistances encountered by a locomotive.
-
-ges b) Enumerate the various methods of flexible pavement design. Briefly explain the design basis
-in each case.
-
-Y
---- page 2 ---
-Qs
-
-Q6
-
-Q7
-
-b)
-
-b)
-
-b)
-
-(12)
-A drain needs to be design along a highway lane where the cumulative quantity of drain water
-calculated is 1.2 cumec. for the respective watershed. Given the constraint that the width of
-the drain is to be limited to 1 and side slope of 1(V):1.5(H), calculate the cross sectional area,
-depth and slope that needs to be provided suitable for drain.
-Given: allowable velocity for flow in the drain is 1.5 m/sec and Manning’s constant is 0.035
-(Earthen drain)
-Explain the salient features of Nagpur road plan, explaining the significance of this plan for
-road development in India. Formulations used in plan to be mentioned.
-
+(ce) Enlist the types of fixtures and fastenings for railways permanent way. (03)
+(f) Describe Creep. Also enlist the different causes of creep. (03)
 (12)
 
-Explain ESWL. If the 5860 kg is the loaded weight on the rear dual wheel axis of a truck with
-c/c spacing and clear space of dual wheel are 25cm and 8cm respectively, then calculate the
-ESWL for pavement thickness of i) 25cm, ii) 45cm and iii) 65cm.
+Q.2) Attempt following
 
-What are the various tests carried out on Bitumen? Briefly mention the principal and uses of
-each test.
+(a) The design speed of a highway is 85 kmph. There is a horizontal curve of radius 200. mona (06)
+certain locality. Calculate the super elevation needed to maintain this speed. If the maximum
+super elevation of 0.07 is not to be exceeded, calculate the maximum allowable speed on this
+horizontal curve as it is not possible to increase the radius. Safe limit of transverse coefficient
 
-(12)
-Define: (i) Equilibrium cant, (ii) Cant deficiency. What would be equilibrium cant on a M.G.
-track of 5° curve for a speed of 40 km/h? What would be the maximum permissible speed
-after allowing the maximum cant deficiency?
-Explain what is Creep? Howis creep measured? What are the methods generally implemented
-for prevention of creep?
-
-oe
-
--eo
-````
-
-## 2015-16 · Final-Exam · Sem 6 · paper 4ab38add6d59
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Highway and Railway Engineering/Highway and Railway Engineering Batch 2015-16 Final.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
-- Text: ocr (2 pages), mean OCR confidence 88.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING. .
-
-ABs,
-Programme: MBA. Tech (CIVIL) Year: IT. Semester: Vie es got Rati
-& 2 4%
-Academic Year: 2015-2016 2 i Me i
-af fi
-Ay *
-Subject : Highway and Railway Engineering a a aS A
-; Marks: 60 3 aie
-Date : 10/05/2016 Time : 10.00 am ?
-
-Durations: 3 (hrs)
-Final-Examination ‘
-
-Instructions:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all attempt 5 questions.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks
-
-Q.1 a) Differentiate between time mean speed and space mean speed. (04 marks)
-
-Q.1 b) Draw a neat sketch explaining the attainment of super elevation by rotating around
-the centre. (04 marks)
-
-Q.1 ¢) State the advantages and disadvantages of grade separated intersections. (04 marks)
-
-Q.2 a) Calculate the safe stopping sight distance for the design speed of 41 kmph for
-i) Twe way traffic in two lane road
-ii) Two way traffic in single lane road.
-Assume coefficient of friction as 0.37 and reaction time 2.5 sec. (04 marks)
-
-Q. 2 b) Calculate the length of the summit curve for a stopping sight distance of 189 m for a
-National Highway at a junction of upward gradient of 1 % & downward gradient of 3 %.
-Assume the height of the driver’s eye above G.L. as 1.5 m and height of object 0.15 m.
-
-(04 marks)
-Q. 2 c) Explain PIEV theory (04 marks)
-Q. 3) een in amet (412 marks)
-
-ili) Rotary island, its advantages and limitations
-iv) Explain any three methods to ene! traffic volume survey. CUE -
-1) Hore 9.20 dient ploy oe in decici ina cose ena. in Summit & Valley Cw
-
-ii) Explninag peacentile, SO Perce le and BS percentile & Poh oped .
-
-Vo
+a of friction is 0.15.
+(b) Explain the various advantages and disadvantages of Traffic Signals. (06)
 --- page 2 ---
-Q. 4 a) Compare flexible pavement and rigid pavement (04 marks)
+Q.3) Attempt following . (12)
 
-Q. 4 b) Distresses observed in flexible pavement after a few years of construction.
-(04 marks)
+(a) Enlist the different tests which are used to find the strength of aggregates. Explain any one test (06)
+in detail. ; :
 
-Q. 4 c) Explain in details the procedure for construction of W.B.M. roads. (04 marks)
+(b) What do you understand by Traffic engineering? What are the various Road user and (06)
+vehicular characteristics?
 
-Q. 5 a) Draw a neat and labelled sketch of cross section of a B.G. tack in double line section
+Q.4) Attempt following ‘ (12)
 
-in embankment. Explain the functions of its various cemponerts. (06 marks)
+(a) Write a short note on maintenance of pavement. (06)
+(b) Explain the various factors which affect the design of pavement. Also discuss the (06)
+requirements of an ideal pavement.
 
-Q. 5 b) Explain with a neat and labelled sketch about theory of coning of wheels and tilting of
-rails. (06 marks)
+Q.5) Attempt following (12)
 
-Q. 6 a) Explain in details about various gradients used in railway tracks. (04 marks)
+(a) The average annual flow of traffic on cross roads A and B during design period are 500 and (06)
+250 PCU per hour, the saturation flow values on these roads are estimated as 1500 and 950
+PCU per hour respectively. The all red time required for the pedestrian crossing is 12 seconds.
+Design two phase traffic signal by Webster’s method.
 
-Q. 6 b) a 6° curve on branch line diverges from 4° curve on mainline in reverse direction in a
-B.G. railway yard. If the speed of the train on the branch lines is restricted to 30 kmph,
-calculate the speed for restriction to be put on main line. (08 marks)
+(b) What do you understand by speed and delay studies? What are the various methods of (06)
+carrying out speed and delay studies? Explain any two in detail.
 
-Q. 7 a) Explain in brief various types of yards in railways. (04 marks)
-Q. 7 b) Explain the term interlocking. How is it related to Signaling ? {04 marks}
+Q.6) Attempt following (12)
 
-Q. 7c) Comapre different types of sleepers used for railway tracks. (04 marks)
+(a) A vertical summit curve is to be designed when two grades, +1/40 and -1/75 meets on a (06)
+highway. The stopping sight distance and overtaking sight distance required are 175 m and
+620 m respectively. But due to site conditions the length of vertical curve has to be restricted
+to a maximum value of 500 m if possible. Calculate the length of summit curve needed to
+fulfill the requirements of —
+i. Stopping Sight distance
+ii. Overtaking Sight distance or at least Intermediate sight distance and discuss the result.
 
-g *
+(b) | What do you understand by soil stabilization? Explain any two soil stabilization methods. (06)
+Q.7) Attempt Any Two questions. (12)
+(a) What do you mean by sleepers in railways? Write down its various types and functions. (06)
+(b) Write a detailed note on Points and crossings. (06)
+(c) Write a short note on Permanent Way with neat sketch. (06)
 
-2/Q
+Page - 2.0} >
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 855080e910dd
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING (CIVIL), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2017
-- Text: ocr (5 pages), mean OCR confidence 78.0
-
-````text
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (CIVIL) . "Year: II Semester: V
-‘\
-Batch: 2015-16
-| é Academic Year: 2017-2018
-Subject: Highway and Railway Engineering —_
-7 Marks: 60..49°'°°°" “! <8,
-Date: 24 November 2017 Time: 2. 90, pm to 5.00 Pat,
-r Durations! 3 (hrs) Fs ra
-No. 0} Pas eS: [OA aY
-
-Re-Examination % ae
-o,
-
-*
-
-Orr canoe
-Instructions: Candidates should read carefully the instructions printed on
-paper and on the cover of the Answer Book, which is provided for their use.
-
-} . 1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any Four questions.
-: 3) In all Five questions to be attempted. (Compulsory)
-: 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-I ’ 7) Assume Suitable data if necessary.
-
-———~ J. =. Answer any 6 of the following : : a =
-________a) _ Write a short note on PMGSY. et (2)
-b) Enlist the factors affecting the geometric design of highways. (2)
-c) List down the width of carriageway for various classes of roads standardized by (2)
-IRC. “
-d) Describe the objectives of providing a transition curve on highways. : (2)
-e) Enlist the vehicular characteristics and briefly explain their effect on geometric (2)
-4 design. a
-f) Explain the necessity of Aggregate impact test. (2)
-
-g) Describe the function of surface course in a flexible pavement and name any 2 (2)
-materials generally used as a surface course.
-
-h) What is ballast? List down any 2 functions of the ballast. , (2)
-2. a) Sketch the cross section of a track and label the parts. 3) -
-—— b) Ona broad gauge 3°curve, the equilibrium cant is provided for a speed of 70 kmph. (3)
-. Calculate the value of equilibrium cant. Allowing a maximum cant deficiency,
-ee what would be the maximum permissible speed on the track?
-i c) Discuss in brief the various tractions on railways. (6)
-Us
---- page 2 ---
-3. a) Calculate the safe overtaking sight distance for a one-way traffic road and a two- (6)
-
-way traffic road for a design speed of 85 kmph.
-b) Calculate the total lengths of NH, SH and MDR needed in a district as per second (6)
-
-twenty year road development plan or Bombay Road plan. The data collected from
-the district is given below
-Total Area= 20000 km?
-Developed and agricultural land= 10000 km?
-Undeveloped area= 5000 km?
-
-Population range | Number of towns
-
-<500 200
-500-1000 300
-1000-2000 700
-2000-5000 350.
-5000-10000 150
-
-10000-20000 80
-20000-50000 20
-50000-100000 10
->100000 5
-
-" 4. A horizontal curve of radius 500 m and length 300 m has to be introduced in a 2
-lane highway, passing through a plain terrain, with a design speed of 100 kmph.
-a) Design the super elevation for the horizontal curve. (4)
-b) Calculate the extra widening required at the curve if the longest wheel base of
-vehicle expected on the road is 6.5 m and the highway is 4 lane. (3)
-c) Design the length of transition curve. (5)
-
-5. a) Define gradient. Briefly explain the four types of gradient in design of vertical (5)
-alignment of highways.
-
-b) A valley curve is formed by a descending gradient of 1 in 40 which meets an (4)
-ascending gradient of 1 in 30. Design the total length of the valley curve if the
-design speed is 100 kmph so as to fulfill both comfort condition head light sight
-distance for night driving. Assume c=0.6 m/s?.
-
-c) The deviation angle at a summit curve is 0.02 and the overtaking sight distance is (3)
-300 m. Find the length of the summit curve required.
---- page 3 ---
-6. a) Spot speed studies were carried out at a certain stretch of a highway with mixed (8)
-traffic flow and the consolidated data cdllected are given below:
-
-Speed Range (kmph) | No. of vehicles observed
-
-0 to 10 12
-10 to 20 18
-20 to 30 68
-30 to 40 89
-40 to 50 204
-50 to 60 255
-60 to 70 119
-70 to 80 43
-80 to 90 33
-90 to 100 9
-
-Plot the graph and determine the upper and lower speed limits for installing
-regulations signs at this road stretch.
-
-b) Briefly explain the different traffic engineering studies generally carried out (Any (4)
-four)
-
-7. a) Enumerate the differences between flexible pavement and rigid pavement with (8)
-labelled diagrams. =
-b) The initial traffic after completion of construction of a 2 lane highway is estimated (4)
-to be 3500 cv per day. Design the flexible pavement for a life of 15 years using
-the data given below. (Refer the design charts). Design CBR value= 5%, Growth
-rate of cv=6.5%, Average VDF value of cv= 4
-
-8. a) Briefly explain the factors to be considered for the design of rigid pavements (Any (3)
-
-three)
-b) Briefly explain any one test conducted on Bitumen (3)
-c) Explain the overtaking manoeuvre for calculating the overtaking sight distance. (3)
-d) Define the following (3)
-i. Creep
-ii. Camber
-
-iii. Headlight Sight Distance
-
-3/5
---- page 4 ---
-CBR ZN
-900; =
-i ~ Le: > Some
-LT
-je ; x
-an
-Lt : Z
-0}
-62
-4005 2030 300 in ~ 100
-_— _ DESIGN TRAFFIC, msa .
-“: Fig. 2. Pavemetit Thickness Design Chait for Traffic 10-150 msa
-300,
-Se ory a
-CBR ZK
-8oof}—_|
---- page 5 ---
-2C:37-2001
-IRC:37-2001
-PAVEMENT DESIGN CATALOGUE i
-
-PLATE 2 - RECOMMENDED DESIGNS FOR TRAFFIC RANGE 10-150 msa
-
-! CBR 5%
-
-PAVEMENT DESIGN CATALOGUE
-PLATE 2 - RECOMMENDED DESIGNS FOR TRAFFIC RANGE 10-150 msa
-
-CBR 6%
-wuatve | oul PAVEMENT COMPOSITION Cumulative | Total PAVEMENT COMPOSITION
-Sevens Biuminows Surfacing | Granular Base Traffic Pavement [Bituminous Surfacing | Granular Base
-ickne : ic E
-(aa). en ) rae & Sub-base (masa) Thickness BC DBM & Sub-base
-; 660 fon) Gam) (mm) (mm) (mm)
-= iid 10 615 40 65
-690 40 100
-oe a 20 640 40 30
-: a 30 655 40 105 | Base = 250
-Fad. 40 140
-ae on : 30 675 40 125
-= 7 SO __] Subicbase-= 300 100 700 30 140 | Sub-base = 260
-7
-sti 150 720 50 160
-CBR 5%   * CBR 6"
-= L
-z
-£ . 2 ead
-5 600! a | cS 600
-2 3 L
-~ 2
-3 z
-S «cal S 400F
-~ a
-a 'o ne r
-= zo0b g S ro0hi
-g 4
->[AY z
-ol = 4
-17 20 30 30 56 156 fo 26 30 30 Too 150
-TRAFFIC (mea) TRAFFIC (ms
-&@6ss cp 3 BM oR ac facs8 Mi cB fBoem GB ec
-IRC:37-2001 . TRO:37-2901
-PAVEMENT DESIGN CATALOGUE PAVEMENT DESIGN CATALOGUE
-PLATE. | ~ RECOMMENDED DESIGNS FOR TRAFFIC RANGE 1-10 ms | pLATE 1 - RECOMMENDED DESIGNS FOR TRAFFIC RANGE 1-10 msa
-mnie
-CBR 5% CBR 6% .
-
-Cumulative] Total PAVEMENT COMPOSITION Camuletive] Total PAVEMENT COMPOSITION
-Traffic | Pavement| Bituminous Surfacing] Granular | Granuiar ‘Teattic | Paverent|   Biuminous Surfacing] Granular | Granular
-(msa} Thickness | Wearing Binder Base [ Sub-base (esa) Thickness | Wearing Binder Base | Sub-base
-
-(mm) Course | Course (mm) (mm) i (mm) Course | Course (mm) Gam}
-| ae (mm) (mm) : ; (man) (mm)
-I 430__-[ 20 PC Bs) ae | | 7 3590 | 20 PO 225 165
-2 __ 490 | aPC $0 BM 225 218 2 450 | 20 PC $0 BM 225 135
-3 | F390 | 20 PC 50 BM 250 230 3 49a | 20 PC 50 BM 250 190
-|S | 0 assppc| ssbam [250 [250 3 338 |25SpBC] S0DBM | 250 210
-te 660 40 BC 10 DBM 250 300 10 g635 40 BC 65 DBM |. 280 260
-=
-E so0f £7 CBR 6%
-¢ CBR Sh
-Sd Z soot
-= sor é
-2 =
-5 2
-3 % 400r
-= 400 o
-g 2 f
-“
-we i g z00r
-$ 200) z
-z k $ L
-3 =
-ts r 8 ‘ 2 7 by 10
-° ’ 3 5 |: TRAFFIC {msa)
-TRAFFIC (msa) ”
-
-Bacse Mics Eivem (Yam BA sc MH soec farc
-fAcse Dlce EJ0eM SY sm Bec MEsoBC EBPC
-
-Pansd
-
-=
-
-at hed
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 3ae8eeb43a9b
+## 2016-17 · Re-Exam · Sem 5 · paper 3ae8eeb43a9b
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
@@ -1637,6 +1538,324 @@ thal m
 8 8 &
 ````
 
+## 2016-17 · Re-Exam · Sem 5 · paper e5e9a329e105
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 27 May 2017
+- Text: ocr (2 pages), mean OCR confidence 91.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: V
+Batch: 2015-16/ 2016-17 yan
+Academic Year:'2016-2017 ae
+, t: Sy ‘
+Subject: Highway and Railway Engineering ey (a A2STME ¥
+Marks: 60 @{ * RAR
+Date: 27 May 2017 Time: 10.00 aints.c0 0 00 pm_y
+Durations: 3 (hrs}* Book aoe
+
+No. of Pages: _ 2—
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all 4 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Attempt any four (Produce appropriate figures/drawings wherever required) - (12)
+a) Thirteenth highest hourly traffic
+b) Desire Lines
+c) Types of traffic signal systems (explain any 1) .
+d) Gl method for pavement design
+e) Obligatory points
+
+Q2 (12)
+a) Explain total reaction time of driver and factors on which it depends. Explain PEIV theory..
+b) List the various transition curves used in highways. Explain what an ideal transition curve is«
+
+Q3 (12)
+a) What is traffic rotary? What are its advantages and disadvantages referring to the traffic
+conditions in India?
+b) Describe CBR test: Explain how the test is conducted in Laboratory with Neat Diagram. How
+are CBR test result interpreted?
+— Q4 (12)
+a) Enlist and explain various types of resistances encountered by a locomotive.
+
+ges b) Enumerate the various methods of flexible pavement design. Briefly explain the design basis
+in each case.
+
+Y
+--- page 2 ---
+Qs
+
+Q6
+
+Q7
+
+b)
+
+b)
+
+b)
+
+(12)
+A drain needs to be design along a highway lane where the cumulative quantity of drain water
+calculated is 1.2 cumec. for the respective watershed. Given the constraint that the width of
+the drain is to be limited to 1 and side slope of 1(V):1.5(H), calculate the cross sectional area,
+depth and slope that needs to be provided suitable for drain.
+Given: allowable velocity for flow in the drain is 1.5 m/sec and Manning’s constant is 0.035
+(Earthen drain)
+Explain the salient features of Nagpur road plan, explaining the significance of this plan for
+road development in India. Formulations used in plan to be mentioned.
+
+(12)
+
+Explain ESWL. If the 5860 kg is the loaded weight on the rear dual wheel axis of a truck with
+c/c spacing and clear space of dual wheel are 25cm and 8cm respectively, then calculate the
+ESWL for pavement thickness of i) 25cm, ii) 45cm and iii) 65cm.
+
+What are the various tests carried out on Bitumen? Briefly mention the principal and uses of
+each test.
+
+(12)
+Define: (i) Equilibrium cant, (ii) Cant deficiency. What would be equilibrium cant on a M.G.
+track of 5° curve for a speed of 40 km/h? What would be the maximum permissible speed
+after allowing the maximum cant deficiency?
+Explain what is Creep? Howis creep measured? What are the methods generally implemented
+for prevention of creep?
+
+oe
+
+-eo
+````
+
+## 2015-16 · Exam not stated · Sem 5 · paper c2023a8a6e6b
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING B TECH (CIVIL), BATCH 200001(1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 27/11/2015
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil) Year: Ill Semester: V
+Batch: 2014-2015
+
+; Academic Year: 2015-2016 gtr wr Bay
+Pn NEN, Ne,
+Subject: Highway and Railway Engineering %,
+
+Marks: 6 MPSTMB . ‘
+Date: 27/11/2015 Time: 2. se 4 Ss
+Ae
+
+Duration: 3 (A
+
+ne
+ee
+
+Re-Examination
+
+an ih
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on-the
+cover of the answer book, which is provided for their use.
+NB:
+
+1. Question No 1 is compulsory
+
+2. Out of the remaining questions, attempt any 4 questions
+
+3. In all 5 questions to be attempted
+
+4, Answer to each question to be started on a fresh paper.
+
+5. Figures to the right hand side indicate full marks.
+
+Q.1. Attempt any fur questions . [3 X4s12]
+a) Explain in detail about “National Highway Development Project”.
+b) Why camber is provided. Explain different types of camber.
+c) Explain in detail “Los angeles abrasion test” for aggregate?
+d) Explain the fundamental diagrams of traffic flow theory?
+e) Write a short note on cant deficiency. .
+f) What is the use of providing transition curve in highway design?
+Q2. (6x2=i2)
+a) What are the factors affecting overtaking sight distance? Calculate the length of
+transition curve using the following data.
+Design speed = 64kmph
+Radius of curve = 230m
+Allowable rete of introduction of super-elevation (pavement rotated about the
+center line) is lin 150.
+Pavement width including extra widening = 10.5m
+
+b) Compare flexible and rigid pavement with respect to their structural behavior with a
+
+sketch.
+
+4/2.
+--- page 2 ---
+3. [6x2=|2]
+a) Calculate ESWL by equal stress criteria for a dual wheel assembly carrying 2044 kg each
+for a pavement thickness of 5, 20, 25, 30 and 50 cms. The distance between walls of the
+tyre is 11 cm and contact radius of 7em. Use functional method.
+b) Why camber is provided. Explain different types of camber. Briefly explain the cross-
+sectional elements.
+
+Q4. [&x2=12]
+2) A new four lane divided highway is to be constructed on a subgrade of CBR 2.5 %. The
+ADT of truck traffic based on the last count was 7000. The directional split of traffic is
+50:50. Vehicle damage factor based on axle load survey was 4.0. Design a suitable
+pavement section for a design life of 20 years. The last traffic count was taken 1 year back
+and the project would be completed in 3 years from now. Growth rate of traffic = 7%
+
+b) Enlist various test on bituminous material. Explain penetration and ductility test for
+bitumen.
+
+Q5. [6x2=\2]
+
+a) A7°branch curve diverges out from a 4° main curve in opposite direction of a BG track. If the speed
+on the branch line is restricted to 40 kmph and the permissible cant is 7.5 cm, what should be the
+speed restriction on the main line? ;
+
+b) Discuss the maintenance of points and crossings. What are the types of crossings.
+
+Q6. [ 6x2=12]
+a) Explain Creep. Discuss the theories to explain probable causes of creep.
+
+b) The width of approaches for a rotary intersection is 13 m. The entry and exit width at the
+
+rotary is 10 m and 12m respectively. Table below gives the traffic from the four approaches,
+
+traversing the intersection. Find the capacity of the rotary.
+
+Approach Left Turn Straight Right Turn
+North 450 720 300
+South 320 450 380
+East 220 380 510
+asiaeatiiaal
+West 350° 450 550
+
+pas Q7. [6 x2=12]
+
+a) How do you measure saturation flow at signalized intersection. Explain the factors
+affecting delay at interaction.
+
+b) Explain different types of road signs and markings used for Road users?
+
+x2
+````
+
+## 2015-16 · Final-Exam · Sem 6 · paper 4ab38add6d59
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Highway and Railway Engineering/Highway and Railway Engineering Batch 2015-16 Final.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
+- Text: ocr (2 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING. .
+
+ABs,
+Programme: MBA. Tech (CIVIL) Year: IT. Semester: Vie es got Rati
+& 2 4%
+Academic Year: 2015-2016 2 i Me i
+af fi
+Ay *
+Subject : Highway and Railway Engineering a a aS A
+; Marks: 60 3 aie
+Date : 10/05/2016 Time : 10.00 am ?
+
+Durations: 3 (hrs)
+Final-Examination ‘
+
+Instructions:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all attempt 5 questions.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks
+
+Q.1 a) Differentiate between time mean speed and space mean speed. (04 marks)
+
+Q.1 b) Draw a neat sketch explaining the attainment of super elevation by rotating around
+the centre. (04 marks)
+
+Q.1 ¢) State the advantages and disadvantages of grade separated intersections. (04 marks)
+
+Q.2 a) Calculate the safe stopping sight distance for the design speed of 41 kmph for
+i) Twe way traffic in two lane road
+ii) Two way traffic in single lane road.
+Assume coefficient of friction as 0.37 and reaction time 2.5 sec. (04 marks)
+
+Q. 2 b) Calculate the length of the summit curve for a stopping sight distance of 189 m for a
+National Highway at a junction of upward gradient of 1 % & downward gradient of 3 %.
+Assume the height of the driver’s eye above G.L. as 1.5 m and height of object 0.15 m.
+
+(04 marks)
+Q. 2 c) Explain PIEV theory (04 marks)
+Q. 3) een in amet (412 marks)
+
+ili) Rotary island, its advantages and limitations
+iv) Explain any three methods to ene! traffic volume survey. CUE -
+
+ii) Explninag peacentile, SO Perce le and BS percentile & Poh oped .
+
+Vo
+--- page 2 ---
+Q. 4 a) Compare flexible pavement and rigid pavement (04 marks)
+
+Q. 4 b) Distresses observed in flexible pavement after a few years of construction.
+(04 marks)
+
+Q. 4 c) Explain in details the procedure for construction of W.B.M. roads. (04 marks)
+
+Q. 5 a) Draw a neat and labelled sketch of cross section of a B.G. tack in double line section
+
+in embankment. Explain the functions of its various cemponerts. (06 marks)
+
+Q. 5 b) Explain with a neat and labelled sketch about theory of coning of wheels and tilting of
+rails. (06 marks)
+
+Q. 6 a) Explain in details about various gradients used in railway tracks. (04 marks)
+
+Q. 6 b) a 6° curve on branch line diverges from 4° curve on mainline in reverse direction in a
+B.G. railway yard. If the speed of the train on the branch lines is restricted to 30 kmph,
+calculate the speed for restriction to be put on main line. (08 marks)
+
+Q. 7 a) Explain in brief various types of yards in railways. (04 marks)
+Q. 7 b) Explain the term interlocking. How is it related to Signaling ? {04 marks}
+
+Q. 7c) Comapre different types of sleepers used for railway tracks. (04 marks)
+
+g *
+
+2/Q
+````
+
 ## 2015-16 · Re-Exam · Sem 5 · paper 50299ea53d9e
 
 - Departments: Civil
@@ -1749,6 +1968,107 @@ Q.No.7. Solve any four: oi 2]
 (e) Draw neat sketch of Left Hand Turnout
 
 To
+````
+
+## 2015-16 · Re-Exam · Sem 7 · paper 81610c9607fa
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 01/12/2015
+- Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil)
+
+Year: IV SS) ter: V]
+Batch: 2014-2015 —
+
+Academic Year: 2015-2016 |
+Subject: Highway and Railway Engineering
+
+Marks: 60
+Date: 01/12/2015 Time: 10.00 am to 1.00 pm
+Duration: 3 (hrs)
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+-“ NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. Inall 5S questions to attempted.
+4. All questions carry equal marks.
+5. Answer lo each new question to, be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) | Attempt any FOUR [2 |
+
+a) What are the difference between Nagpur and Mumbai road plan? “3
+|b) | What are the facters affecting road user characteristics? . e)
+
+c) Draw and Discuss Detail Cross section of road in embankment? a
+
+d) What are the necessity of highway drainage? 3
+
+e) Draw cross section of railway track and explain its components? 3
+
+Q.2) | Solve yo
+
+a) The speed of overtaking and overtaken vehicles are 70 & 401. &
+
+Kmph,respectivelyon a two way traffic road .If the acceleration of overtaking
+vehicle is 0.99 m/s2,
+
+(a) Calculate safe overtaking sight distance
+(b) Mension the minimum length of the overtaking zone and
+
+(c) Draw neat sketch of overtaking zone and show the positions of the sign
+posts.
+
+b) Enlist various test on bituminous material? Explain Penetration and Ductility 6
+_ test for bitumen?
+
+A/2
+--- page 2 ---
+| Q.3) | Solve (2.
+
+a) Explain various traffic signs & Signal systems? &
+b) Enlist object of traffic volume studies? Elaborate on counting of traffic volume ? 6
+_Q.4) | Solve a 12. |
+a) Explain step by step process of road construction with labeled sketch? 6
+b) Explain subsurface drainage system of highways? 6
+[Q.5) | Solve 12 |
+a) What are the function of sleeper? What are material used for sleeper? 6
+b) Discuss maintainance of points and crossings? What are the types of Crossing? 6
+[_ 9.6) | Solve 12
+a) Define super elevation on road? 6
+
+The radius of horizontal circular curve is 100 m.The design speed is 50Kmph
+and design coefficient of lateral friction is 0.15.
+(a) Calculate the superelevation requires if full lateral friction is assume to
+i develop
+(b) Calculate coeffieient of friction neededif no super elevation is provided.
+(c) Calculate equilibrium superelevation if the pressure on inner and outer
+wheels should be equal.
+
+Q.7) | Attempt any FOUR (12)
+a) Explain rotary intersection with labeled sketch?
+
+b) Define kerb? Discuss its types??
+
+c) Find out the number of sleeper required for construction of broad guage track 900 m long
+
+using sleeper density n+5.
+
+(d) Define Guage of track? What are the facters affecting choice of guage?
+
+(e) Compare Road and Railways?
 ````
 
 ## 2015-16 · Re-Exam · Sem 6 · paper fe264c176897
@@ -2497,107 +2817,6 @@ ive
 ue
 ````
 
-## 2014-15 · Re-Exam · Sem 7 · paper 81610c9607fa
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 01/12/2015
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil)
-
-Year: IV SS) ter: V]
-Batch: 2014-2015 —
-
-Academic Year: 2015-2016 |
-Subject: Highway and Railway Engineering
-
-Marks: 60
-Date: 01/12/2015 Time: 10.00 am to 1.00 pm
-Duration: 3 (hrs)
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
--“ NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. Inall 5S questions to attempted.
-4. All questions carry equal marks.
-5. Answer lo each new question to, be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) | Attempt any FOUR [2 |
-
-a) What are the difference between Nagpur and Mumbai road plan? “3
-|b) | What are the facters affecting road user characteristics? . e)
-
-c) Draw and Discuss Detail Cross section of road in embankment? a
-
-d) What are the necessity of highway drainage? 3
-
-e) Draw cross section of railway track and explain its components? 3
-
-Q.2) | Solve yo
-
-a) The speed of overtaking and overtaken vehicles are 70 & 401. &
-
-Kmph,respectivelyon a two way traffic road .If the acceleration of overtaking
-vehicle is 0.99 m/s2,
-
-(a) Calculate safe overtaking sight distance
-(b) Mension the minimum length of the overtaking zone and
-
-(c) Draw neat sketch of overtaking zone and show the positions of the sign
-posts.
-
-b) Enlist various test on bituminous material? Explain Penetration and Ductility 6
-_ test for bitumen?
-
-A/2
---- page 2 ---
-| Q.3) | Solve (2.
-
-a) Explain various traffic signs & Signal systems? &
-b) Enlist object of traffic volume studies? Elaborate on counting of traffic volume ? 6
-_Q.4) | Solve a 12. |
-a) Explain step by step process of road construction with labeled sketch? 6
-b) Explain subsurface drainage system of highways? 6
-[Q.5) | Solve 12 |
-a) What are the function of sleeper? What are material used for sleeper? 6
-b) Discuss maintainance of points and crossings? What are the types of Crossing? 6
-[_ 9.6) | Solve 12
-a) Define super elevation on road? 6
-
-The radius of horizontal circular curve is 100 m.The design speed is 50Kmph
-and design coefficient of lateral friction is 0.15.
-(a) Calculate the superelevation requires if full lateral friction is assume to
-i develop
-(b) Calculate coeffieient of friction neededif no super elevation is provided.
-(c) Calculate equilibrium superelevation if the pressure on inner and outer
-wheels should be equal.
-
-b) Explain Overtaking monouever of vahicle? 6
-Q.7) | Attempt any FOUR (12)
-a) Explain rotary intersection with labeled sketch?
-
-b) Define kerb? Discuss its types??
-
-c) Find out the number of sleeper required for construction of broad guage track 900 m long
-
-using sleeper density n+5.
-
-(d) Define Guage of track? What are the facters affecting choice of guage?
-
-(e) Compare Road and Railways?
-````
-
 ## 2014-15 · Re-Exam · Sem 7 · paper bdcc1d5c43bc
 
 - Departments: Civil
@@ -2857,6 +3076,7 @@ Differentiate between Station and Yard.
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/Highway & Railway Engineering Batch 2014-15 Re Exam.pdf`
 - Printed on paper: exam date: 09/06/2015
 - Text: ocr (1 page), mean OCR confidence 80.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Ql.
@@ -2926,7 +3146,6 @@ study in detail) - ; :
 
 b) List the requirements of ideal bplliist “9 : g
 
-‘aj. Explain the wor ae. Srocedure. ‘of AUsctute’ plock ‘space fatervaijsystem fortram. 6
 movement with fi ARUN. :
 
 b) ~ Why is drainage required for highways? Also write abort the principles of geod 4
@@ -3010,228 +3229,4 @@ b) Explain: . 10 9
 2) Overtaking sight distance
 
 Mt.
-````
-
-## Year not stated · Exam not stated · Sem 5 · paper c2023a8a6e6b
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING B TECH (CIVIL), BATCH 200001(1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 27/11/2015
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: Ill Semester: V
-Batch: 2014-2015
-
-; Academic Year: 2015-2016 gtr wr Bay
-Pn NEN, Ne,
-Subject: Highway and Railway Engineering %,
-
-Marks: 6 MPSTMB . ‘
-Date: 27/11/2015 Time: 2. se 4 Ss
-Ae
-
-Duration: 3 (A
-
-ne
-ee
-
-Re-Examination
-
-an ih
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on-the
-cover of the answer book, which is provided for their use.
-NB:
-
-1. Question No 1 is compulsory
-
-2. Out of the remaining questions, attempt any 4 questions
-
-3. In all 5 questions to be attempted
-
-4, Answer to each question to be started on a fresh paper.
-
-5. Figures to the right hand side indicate full marks.
-
-Q.1. Attempt any fur questions . [3 X4s12]
-a) Explain in detail about “National Highway Development Project”.
-b) Why camber is provided. Explain different types of camber.
-c) Explain in detail “Los angeles abrasion test” for aggregate?
-d) Explain the fundamental diagrams of traffic flow theory?
-e) Write a short note on cant deficiency. .
-f) What is the use of providing transition curve in highway design?
-Q2. (6x2=i2)
-a) What are the factors affecting overtaking sight distance? Calculate the length of
-transition curve using the following data.
-Design speed = 64kmph
-Radius of curve = 230m
-Allowable rete of introduction of super-elevation (pavement rotated about the
-center line) is lin 150.
-Pavement width including extra widening = 10.5m
-
-b) Compare flexible and rigid pavement with respect to their structural behavior with a
-
-sketch.
-
-4/2.
---- page 2 ---
-3. [6x2=|2]
-a) Calculate ESWL by equal stress criteria for a dual wheel assembly carrying 2044 kg each
-for a pavement thickness of 5, 20, 25, 30 and 50 cms. The distance between walls of the
-tyre is 11 cm and contact radius of 7em. Use functional method.
-b) Why camber is provided. Explain different types of camber. Briefly explain the cross-
-sectional elements.
-
-Q4. [&x2=12]
-2) A new four lane divided highway is to be constructed on a subgrade of CBR 2.5 %. The
-ADT of truck traffic based on the last count was 7000. The directional split of traffic is
-50:50. Vehicle damage factor based on axle load survey was 4.0. Design a suitable
-pavement section for a design life of 20 years. The last traffic count was taken 1 year back
-and the project would be completed in 3 years from now. Growth rate of traffic = 7%
-
-b) Enlist various test on bituminous material. Explain penetration and ductility test for
-bitumen.
-
-Q5. [6x2=\2]
-
-a) A7°branch curve diverges out from a 4° main curve in opposite direction of a BG track. If the speed
-on the branch line is restricted to 40 kmph and the permissible cant is 7.5 cm, what should be the
-speed restriction on the main line? ;
-
-b) Discuss the maintenance of points and crossings. What are the types of crossings.
-
-Q6. [ 6x2=12]
-a) Explain Creep. Discuss the theories to explain probable causes of creep.
-
-b) The width of approaches for a rotary intersection is 13 m. The entry and exit width at the
-
-rotary is 10 m and 12m respectively. Table below gives the traffic from the four approaches,
-
-traversing the intersection. Find the capacity of the rotary.
-
-Approach Left Turn Straight Right Turn
-North 450 720 300
-South 320 450 380
-East 220 380 510
-asiaeatiiaal
-West 350° 450 550
-
-pas Q7. [6 x2=12]
-
-a) How do you measure saturation flow at signalized intersection. Explain the factors
-affecting delay at interaction.
-
-b) Explain different types of road signs and markings used for Road users?
-
-x2
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper e2d8d12c81cb
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING B TECH (CIVL), FINAL EXAM.pdf`
-- Printed on paper: exam date: 26 November 2016
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: Ill Semester: V
-
-; : yvtatl Bay, %
-j Academic Year: 2016-2017 a ‘ TARR,
-d : asf MPstM B o |
-Subject : Highway and Railway Engineering tu IBRARY J
-"Marks: wi NG (J
-Date : 26 November 2016 Time : 2.
-Durations:
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1) Attempt Any Four questions (12)
-(a) Write a short note on Different Road Development Plans in India. (03)
-(b) Differentiate between Flexible and Rigid paverhent. (03)
-(c) Discuss the functions of ballast in railway. (03)
-
-(4) | What do you mean by Transition Curve? What are the various conditions for calculating the (03)
-length of transition curves?
-
-(ce) Enlist the types of fixtures and fastenings for railways permanent way. (03)
-(f) Describe Creep. Also enlist the different causes of creep. (03)
-(12)
-
-Q.2) Attempt following
-
-(a) The design speed of a highway is 85 kmph. There is a horizontal curve of radius 200. mona (06)
-certain locality. Calculate the super elevation needed to maintain this speed. If the maximum
-super elevation of 0.07 is not to be exceeded, calculate the maximum allowable speed on this
-horizontal curve as it is not possible to increase the radius. Safe limit of transverse coefficient
-
-a of friction is 0.15.
-(b) Explain the various advantages and disadvantages of Traffic Signals. (06)
---- page 2 ---
-Q.3) Attempt following . (12)
-
-(a) Enlist the different tests which are used to find the strength of aggregates. Explain any one test (06)
-in detail. ; :
-
-(b) What do you understand by Traffic engineering? What are the various Road user and (06)
-vehicular characteristics?
-
-Q.4) Attempt following ‘ (12)
-
-(a) Write a short note on maintenance of pavement. (06)
-(b) Explain the various factors which affect the design of pavement. Also discuss the (06)
-requirements of an ideal pavement.
-
-Q.5) Attempt following (12)
-
-(a) The average annual flow of traffic on cross roads A and B during design period are 500 and (06)
-250 PCU per hour, the saturation flow values on these roads are estimated as 1500 and 950
-PCU per hour respectively. The all red time required for the pedestrian crossing is 12 seconds.
-Design two phase traffic signal by Webster’s method.
-
-(b) What do you understand by speed and delay studies? What are the various methods of (06)
-carrying out speed and delay studies? Explain any two in detail.
-
-Q.6) Attempt following (12)
-
-(a) A vertical summit curve is to be designed when two grades, +1/40 and -1/75 meets on a (06)
-highway. The stopping sight distance and overtaking sight distance required are 175 m and
-620 m respectively. But due to site conditions the length of vertical curve has to be restricted
-to a maximum value of 500 m if possible. Calculate the length of summit curve needed to
-fulfill the requirements of —
-i. Stopping Sight distance
-ii. Overtaking Sight distance or at least Intermediate sight distance and discuss the result.
-
-(b) | What do you understand by soil stabilization? Explain any two soil stabilization methods. (06)
-Q.7) Attempt Any Two questions. (12)
-(a) What do you mean by sleepers in railways? Write down its various types and functions. (06)
-(b) Write a detailed note on Points and crossings. (06)
-(c) Write a short note on Permanent Way with neat sketch. (06)
-
-Page - 2.0} >
 ````

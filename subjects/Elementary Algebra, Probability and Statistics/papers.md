@@ -1,10 +1,177 @@
 # Elementary Algebra, Probability and Statistics: question papers in full
 
-2 unique papers · 2021-22 to 2021-22 · Computer Engineering, Mechanical
+2 unique papers · 2022-23 to 2022-23 · Computer Engineering, Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2021-22 · Re-Exam · Sem 3 · paper c9163718475b
+## 2022-23 · Exam not stated · Sem 3 · paper e3ba0a0f3089
+
+- Departments: Computer Engineering, Mechanical
+- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/Elementary Algebra ,Probability and Statistics/Elementary Algebra ,probability and Statitics Batch 20210001.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; exam date: 02 February 2023
+- Text: ocr (3 pages), mean OCR confidence 84.4
+
+````text
+S i$ NU RRR gz,
+
+. 2/o (2z~ 2299 FM
+_ SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING / ;
+3 SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING f
+
+/ Program: B. Tech Integrated (Computer/Mechanical) : Year: I Semester : III
+
+d
+
+f
+
+AcademicYear: 2022-2023
+Subject: Elementaty Algebra, Probability and Statistics Marks: 100
+Time: 2.00 pm - 5.00 pm
+
+Date : 02 February 2023 Durations: (his)
+
+Re-Examination (2021-22) No. of Pages:_3 _
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+| on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+>   3)Inall5 questions te be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+| 7) Assume Suitable data if necessary. ;
+
+Ql
+, Answer briefly:
+CO-1; a. 5
+SO-1; Expand (x +3 y) using binomial expansion. [4]
+BL-1
+CO-2; b. 41424
+SO-1; Describe —~“ in the formr(cos@+isin@) . [4]
+1-3i
+BL-1
+C. fl 2 3 43 2
+co | CO-3; 2 T ,
+SO-1; Find (AB) (transpose of AB), if A=|}4 0 1/,B=|1 1 Oj. | | [4]
+BL-1 22 4). |0 4 1
+co , d. | Solve the following LPP by graphical method Minimize z= 5x1+4x2 Subject to
+43
+SO-1; constraints 4x1+ x2 > 40 ; 2x1+3x2 > 90 and x1, x2 > 0: [4]
+BL-1
+e. | Describe the sample space of the following experiment: _
+at i. when a die is rolled and a coin is tossed simultaneously. (4)
+BL- l ii. when a die is rolled or a coin is tossed. .
+iii. when two coins are tossed simultaneously.
+Q2 a
+4
+CO-1; Expand (v3 +5 ) using binomial expansion. | [6]
+SO-1;
+BL-1
+
+1/3
+--- page 2 ---
+}
+
+co-3; > 12 -1
+
+SO-1; If A=|2 0 1 |, find-adjoint(A) and hence find A*. [6]
+BL-1 0 3 -1
+c | Estimate the mean and the variance for the following data:
+Pe Class 200-201 | 201-202 | 202-203 | 203-204 | 204-205 | 205-206 ra
+BL2 intervals
+Frequency | 13 27 - | 18 10 1 1
+Q3 a.
+Find cube roots of unity.
+CO-2; ; [6]
+SO-1; :
+BL-1
+CO-1; b : i
+SO-2; Solve by writing the first four terms in the expansion of (1 + x)" |x| <1. [6]
+BL-3
+CO-3: c | Solve the system of linear equation by Cramer’s rule:
+SO-2; xt+y=2,x-y+z=4,x+y-z=6 [8]
+BL-3 :
+Q4 a
+CO-2; Ifz= —L+—L and z isthe conjugate of z, prove that (z)!° + (z)"°=0. [6]
+SO-1; v2 V2
+BL-4
+CO-4; b
+SO-1; Maximize Z = 3x; + 4x2 subject to x1 —x2 <—1; -xi ty < 0 and x1, x2 > 0. [6]
+BL-4
+¢ | 3 coins are tossed. Events E,,E,,E, are defined as follows:
+203: E, occurrence of at least 2 heads, E, : occurrence of 2 tails, E, :occurrence of at
+SO-1; most | head. : [8]
+BL-2
+Find the sample space, events E,, E,, E, . Justify whether £,,E, mutually exclusive
+events. Also justify whether E,,E, are equal.
+Q5 a | Suppose 30% of the women in a class received an A on the test and 25% of the
+oA men received an A. The class is 60% women. Given that a person chosen at random | [6]
+BL3 received an A, what is the probability this person is a women?
+CO-4: b | A furniture dealer deals only two items viz., tables and chairs. He has to invest Rs.
+SO-1; 10,000/- and a space to store at most 60 pieces. A table cost him Rs.500/- and a [6]
+BL-4 .
+
+chair Rs.200/-. He can sell all the items that he buys. He is getting a profit of Rs.50
+
+af
+--- page 3 ---
+per table and Rs.15 per chair. Formulate this problem as an LPP, so as to maximize
+
+the profit.
+
+CO-2; c
+
+SO-1; Find all the roots of x!*- 1=0 [8]
+BL-1
+
+Q6 a
+
+CO-3: Find the mean and variance for an ungrouped data 5,12,3,18,6,8,2,10. (6)
+SO-1;
+
+BL-1
+
+b | Solve the following LPP:
+
+CO-4; ,
+
+SO-1; Maximize Z = 2 x; +5x2 [6]
+1 3
+
+subject to the conditions x1+ 4x2 < 24,3x1+x2 < 21 ,xitx2 < Yand x1, x2 > 0
+
+CO-2; | ¢ (1+) (1-V3i)
+
+SO-1; Find the real and imaginary parts of ; 7. [8]
+BL-1 (1-1)' (143i)
+
+7
+vr 124
+ni " Express A=|3 0 2] as the sum of symmetric and skew symmetric matrices. [6]
+BL-1 725
+CO-2; b :
+SO-2; Prove that: ae 60 =16cos* @—16cos*6+3. [6]
+BL-2 sin 20
+
+| c | A dietician wishes to mix two types of food F; and F2 in such a way that the
+
+€ NS
+vitamin contents of the mixture contains at least 6units of vitamin A and 9 units of
+
+Son vitamin B. Food F; costs Rs.50 per kg and F2 costs Rs 70 per kg. Food F; contains 8]
+BL-3 4 units per kg of vitamin A and 6 units per kg of vitamin B while food F2 contains 5
+
+units per kg of vitamin A and 3 units per kg of vitamin B. Formulate the above
+
+problem as a linear programming problem to minimize the cost of mixture.
+````
+
+## 2022-23 · Re-Exam · Sem 3 · paper c9163718475b
 
 - Departments: Computer Engineering, Mechanical
 - Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / MECHANICAL
@@ -199,171 +366,4 @@ XX, 20
 [8]
 
 5
-````
-
-## Year not stated · Exam not stated · Sem 3 · paper e3ba0a0f3089
-
-- Departments: Computer Engineering, Mechanical
-- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/Elementary Algebra ,Probability and Statistics/Elementary Algebra ,probability and Statitics Batch 20210001.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; exam date: 02 February 2023
-- Text: ocr (3 pages), mean OCR confidence 84.4
-
-````text
-S i$ NU RRR gz,
-
-. 2/o (2z~ 2299 FM
-_ SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING / ;
-3 SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING f
-
-/ Program: B. Tech Integrated (Computer/Mechanical) : Year: I Semester : III
-
-d
-
-f
-
-AcademicYear: 2022-2023
-Subject: Elementaty Algebra, Probability and Statistics Marks: 100
-Time: 2.00 pm - 5.00 pm
-
-Date : 02 February 2023 Durations: (his)
-
-Re-Examination (2021-22) No. of Pages:_3 _
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-| on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
->   3)Inall5 questions te be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-| 7) Assume Suitable data if necessary. ;
-
-Ql
-, Answer briefly:
-CO-1; a. 5
-SO-1; Expand (x +3 y) using binomial expansion. [4]
-BL-1
-CO-2; b. 41424
-SO-1; Describe —~“ in the formr(cos@+isin@) . [4]
-1-3i
-BL-1
-C. fl 2 3 43 2
-co | CO-3; 2 T ,
-SO-1; Find (AB) (transpose of AB), if A=|}4 0 1/,B=|1 1 Oj. | | [4]
-BL-1 22 4). |0 4 1
-co , d. | Solve the following LPP by graphical method Minimize z= 5x1+4x2 Subject to
-43
-SO-1; constraints 4x1+ x2 > 40 ; 2x1+3x2 > 90 and x1, x2 > 0: [4]
-BL-1
-e. | Describe the sample space of the following experiment: _
-at i. when a die is rolled and a coin is tossed simultaneously. (4)
-BL- l ii. when a die is rolled or a coin is tossed. .
-iii. when two coins are tossed simultaneously.
-Q2 a
-4
-CO-1; Expand (v3 +5 ) using binomial expansion. | [6]
-SO-1;
-BL-1
-
-1/3
---- page 2 ---
-}
-
-co-3; > 12 -1
-
-SO-1; If A=|2 0 1 |, find-adjoint(A) and hence find A*. [6]
-BL-1 0 3 -1
-c | Estimate the mean and the variance for the following data:
-Pe Class 200-201 | 201-202 | 202-203 | 203-204 | 204-205 | 205-206 ra
-BL2 intervals
-Frequency | 13 27 - | 18 10 1 1
-Q3 a.
-Find cube roots of unity.
-CO-2; ; [6]
-SO-1; :
-BL-1
-CO-1; b : i
-SO-2; Solve by writing the first four terms in the expansion of (1 + x)" |x| <1. [6]
-BL-3
-CO-3: c | Solve the system of linear equation by Cramer’s rule:
-SO-2; xt+y=2,x-y+z=4,x+y-z=6 [8]
-BL-3 :
-Q4 a
-CO-2; Ifz= —L+—L and z isthe conjugate of z, prove that (z)!° + (z)"°=0. [6]
-SO-1; v2 V2
-BL-4
-CO-4; b
-SO-1; Maximize Z = 3x; + 4x2 subject to x1 —x2 <—1; -xi ty < 0 and x1, x2 > 0. [6]
-BL-4
-¢ | 3 coins are tossed. Events E,,E,,E, are defined as follows:
-203: E, occurrence of at least 2 heads, E, : occurrence of 2 tails, E, :occurrence of at
-SO-1; most | head. : [8]
-BL-2
-Find the sample space, events E,, E,, E, . Justify whether £,,E, mutually exclusive
-events. Also justify whether E,,E, are equal.
-Q5 a | Suppose 30% of the women in a class received an A on the test and 25% of the
-oA men received an A. The class is 60% women. Given that a person chosen at random | [6]
-BL3 received an A, what is the probability this person is a women?
-CO-4: b | A furniture dealer deals only two items viz., tables and chairs. He has to invest Rs.
-SO-1; 10,000/- and a space to store at most 60 pieces. A table cost him Rs.500/- and a [6]
-BL-4 .
-
-chair Rs.200/-. He can sell all the items that he buys. He is getting a profit of Rs.50
-
-af
---- page 3 ---
-per table and Rs.15 per chair. Formulate this problem as an LPP, so as to maximize
-
-the profit.
-
-CO-2; c
-
-SO-1; Find all the roots of x!*- 1=0 [8]
-BL-1
-
-Q6 a
-
-CO-3: Find the mean and variance for an ungrouped data 5,12,3,18,6,8,2,10. (6)
-SO-1;
-
-BL-1
-
-b | Solve the following LPP:
-
-CO-4; ,
-
-SO-1; Maximize Z = 2 x; +5x2 [6]
-1 3
-
-subject to the conditions x1+ 4x2 < 24,3x1+x2 < 21 ,xitx2 < Yand x1, x2 > 0
-
-CO-2; | ¢ (1+) (1-V3i)
-
-SO-1; Find the real and imaginary parts of ; 7. [8]
-BL-1 (1-1)' (143i)
-
-7
-vr 124
-ni " Express A=|3 0 2] as the sum of symmetric and skew symmetric matrices. [6]
-BL-1 725
-CO-2; b :
-SO-2; Prove that: ae 60 =16cos* @—16cos*6+3. [6]
-BL-2 sin 20
-
-| c | A dietician wishes to mix two types of food F; and F2 in such a way that the
-
-€ NS
-vitamin contents of the mixture contains at least 6units of vitamin A and 9 units of
-
-Son vitamin B. Food F; costs Rs.50 per kg and F2 costs Rs 70 per kg. Food F; contains 8]
-BL-3 4 units per kg of vitamin A and 6 units per kg of vitamin B while food F2 contains 5
-
-units per kg of vitamin A and 3 units per kg of vitamin B. Formulate the above
-
-problem as a linear programming problem to minimize the cost of mixture.
 ````

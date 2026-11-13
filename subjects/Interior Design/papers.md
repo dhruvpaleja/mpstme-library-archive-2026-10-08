@@ -794,6 +794,7 @@ CO- 3; BL-2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/INTERIOR DESIGN/Interior Design, Sem-V, Year 2025-26, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; exam date: 10 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -858,7 +859,6 @@ CQ-3; BL- ,
 
 2
 
-RRRRARRERE RRR RRA RAE
 --- page 2 ---
 Q4 a. Illustrate the precautions to be taken while designing the moulded- folded [10]
 CO-3; BL- furniture. ;
@@ -1129,6 +1129,7 @@ CO- 3; BL-2   house they can be used and for what purpose.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/INTERIOR DESIGN/Interior Design, Sem-VI, Batch 2025-26, Re Exam.pdf` (+6 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1211,7 +1212,6 @@ BL-2
 Q.7) b) Discuss ANY FIVE ‘Types of Artifacts’ and explain in which room of the [10]
 CO- 3; BL-2 house they can be used and for what purpose.
 
-FICCI 2 a a ak ok a
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 6 · paper f0c34b429687
@@ -2112,6 +2112,108 @@ CO-3; SO-
 Page 2 of 2
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 0fb837870ffd
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/INTERIOR DESIGN/Interior Design.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/05/2023
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN!
+Academic Year: 2022-2023
+
+hy _
+>
+
+Program: B. Tech./MBA Tech Year: II Semest
+
+Stream: ALL (Except B Tech CSBS and B Tech CSE (DS))
+
+Subject: Interior Design Time: 03 hrs. (10.00 a.m. to 1.00 p.m.)
+Date: 04/05/2023 No. of Pages: 2
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+
+) Answer briefly:
+CO- 1; SO-7; | a) Explain the concept of ‘Space Management’ justifying its need. [05]
+BL-2
+CO- 3; b) Discuss the concept of ‘Colour Temperature.’ [05]
+SO- 4;
+
+BL- 4
+CO- 3; SO- 2; | c) Explain ‘Dry Bulb’ and ‘Wet Bulb’ temperature. [05]
+BL- 4
+© * SO-7; | d) Discuss the importance of art work in the interior design. [05]
+Q.2) a) Explain the phases of planning of an interior design project. [10]
+CO- 1; SO- 4;
+
+BL- 3
+Q.2) b) Discuss the ‘Radicle Two Rectangle’ with its construction and examples of [10]
+CO- 2; SO- 7; structures in reality.
+
+BL- 4
+Q3) a) Explain the characteristics and applicability of the following colours: [10]
+CO- 3; SO- 7; (i) Red, and (ii) Orange.
+BL-3
+Q.3) b) Explain ‘Shower Rose’ and ‘Aerated Faucets’ along with their applications. [10]
+CO- 3; SO- 6;
+BL-4
+
+Page 1 of 2
+--- page 2 ---
+Q.4) a) Discuss the ‘Factors Affecting Selection of Furniture.’ [10]
+CO- 3; SO- 4;
+BL-4
+Q.4) b) Discuss the points to be considered while designing the commercial spaces. [10]
+CO- 3; SO- 4;
+BL-3
+Q.5) a) Explain features, merits, and demerits of the following types of paints: [10]
+CO-3; SO-7; (i) Enamel, and (ii) Metallic Paint.
+BL- 3
+Q.5) b) Assess the different types of lighting which as an interior designer you will [10]
+CO- 3; SO-1; provide for an interior space of ‘College Building.’
+BL-5 :
+Q.6) a) Discuss the necessity of ‘Art Elements’ in an interior space. [10]
+CO- 3; SO- 7;
+BL- 3
+Q.6) b) State the step-by step procedure for painting old wall surface. [10]
+CO- 3; SO-7;
+BL-3
+Q.7) a) Explain the following types of Light Sources: [10]
+CO- 3; SO-7; (i) Mercury Vapour Lamps, and (ii) Sodium Vapour Lamps
+BL-4
+| a7 b) Discuss the features of Gypsum Board False Ceiling with its Pros and Cons. [10]
+CO- 3; SO-7;
+BL-4
+
+Page 2 of 2
+
+—
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 5765e8d51dbd
 
 - Departments: Common (all branches)
@@ -2320,106 +2422,4 @@ Q.7) b) Discuss the features of PVC False Ceiling with its Pros and Cons. [10]
 CO- 3; SO-
 7; BL-4
 Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 0fb837870ffd
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/INTERIOR DESIGN/Interior Design.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/05/2023
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN!
-Academic Year: 2022-2023
-
-hy _
->
-
-Program: B. Tech./MBA Tech Year: II Semest
-
-Stream: ALL (Except B Tech CSBS and B Tech CSE (DS))
-
-Subject: Interior Design Time: 03 hrs. (10.00 a.m. to 1.00 p.m.)
-Date: 04/05/2023 No. of Pages: 2
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-
-) Answer briefly:
-CO- 1; SO-7; | a) Explain the concept of ‘Space Management’ justifying its need. [05]
-BL-2
-CO- 3; b) Discuss the concept of ‘Colour Temperature.’ [05]
-SO- 4;
-
-BL- 4
-CO- 3; SO- 2; | c) Explain ‘Dry Bulb’ and ‘Wet Bulb’ temperature. [05]
-BL- 4
-© * SO-7; | d) Discuss the importance of art work in the interior design. [05]
-Q.2) a) Explain the phases of planning of an interior design project. [10]
-CO- 1; SO- 4;
-
-BL- 3
-Q.2) b) Discuss the ‘Radicle Two Rectangle’ with its construction and examples of [10]
-CO- 2; SO- 7; structures in reality.
-
-BL- 4
-Q3) a) Explain the characteristics and applicability of the following colours: [10]
-CO- 3; SO- 7; (i) Red, and (ii) Orange.
-BL-3
-Q.3) b) Explain ‘Shower Rose’ and ‘Aerated Faucets’ along with their applications. [10]
-CO- 3; SO- 6;
-BL-4
-
-Page 1 of 2
---- page 2 ---
-Q.4) a) Discuss the ‘Factors Affecting Selection of Furniture.’ [10]
-CO- 3; SO- 4;
-BL-4
-Q.4) b) Discuss the points to be considered while designing the commercial spaces. [10]
-CO- 3; SO- 4;
-BL-3
-Q.5) a) Explain features, merits, and demerits of the following types of paints: [10]
-CO-3; SO-7; (i) Enamel, and (ii) Metallic Paint.
-BL- 3
-Q.5) b) Assess the different types of lighting which as an interior designer you will [10]
-CO- 3; SO-1; provide for an interior space of ‘College Building.’
-BL-5 :
-Q.6) a) Discuss the necessity of ‘Art Elements’ in an interior space. [10]
-CO- 3; SO- 7;
-BL- 3
-Q.6) b) State the step-by step procedure for painting old wall surface. [10]
-CO- 3; SO-7;
-BL-3
-Q.7) a) Explain the following types of Light Sources: [10]
-CO- 3; SO-7; (i) Mercury Vapour Lamps, and (ii) Sodium Vapour Lamps
-BL-4
-| a7 b) Discuss the features of Gypsum Board False Ceiling with its Pros and Cons. [10]
-CO- 3; SO-7;
-BL-4
-
-Page 2 of 2
-
-—
 ````

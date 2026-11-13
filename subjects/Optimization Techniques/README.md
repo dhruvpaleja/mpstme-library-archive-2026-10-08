@@ -14,22 +14,22 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AI 7012 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AIDS 7056 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AIML 7053 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech AI 7051 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech AI 7012 | QP_Optimization Techniques(702AI0C031)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech AIDS 7056 | QP_Optimization Techniques(702AI0C031)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech AIML 7053 | QP_Optimization Techniques(702AI0C031)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech AI 7051 | QP_Optimization Techniques(702AI0C031)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech AI 7012 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech AIDS 7056 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech AIML 7053 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech AI 7051 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AI 7012 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AIDS 7056 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AIML 7053 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech AI 7051 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech AI 7012 | QP_Optimization Techniques(702AI0C031)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech AIDS 7056 | QP_Optimization Techniques(702AI0C031)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech AIML 7053 | QP_Optimization Techniques(702AI0C031)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | MBATech AI 7051 | QP_Optimization Techniques(702AI0C031)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech AI 7012 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech AIDS 7056 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech AIML 7053 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech AI 7051 | ANS_Optimization Techniques(702AI0C031)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Optimization Techniques, Sem IV, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE | Optimization Techniques, Sem-IV, Batch 2023-24 &2024-25, Re Exam.pdf [1] |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Optimization Techniques, Sem-IV, Final Exam & Re Exam 2022-23.pdf |

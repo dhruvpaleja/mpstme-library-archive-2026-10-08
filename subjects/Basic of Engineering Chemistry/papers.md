@@ -1,6 +1,6 @@
 # Basic of Engineering Chemistry: question papers in full
 
-4 unique papers · 2021-22 to 2023-24 · Computer Engineering, Mechanical
+3 unique papers · 2022-23 to 2023-24 · Computer Engineering, Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -106,301 +106,7 @@ BL-2
 2] y_
 ````
 
-## 2023-24 · Re-Exam · Sem 3 · paper 1621f18b5c4d
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/Basic of Engineering Chemistry/Basic Electronics Batch 2021-22,2022-23,2023-24 Re Exam0001.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 87.5
-
-````text
-SVKM’S NMIMS i
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024 a
-
-Program/s: B.TECH INTG
-
-Stream/s: Computer/ Data Science
-
-Subject: Basic Electronics me:
-\s »
-
-Date:_08 /02 / 2024 , No ses
-Marks: 100
-
-Re — Examination (2021-22/ 2022-23) isan
-
-Instructions: Candidates should read carefully the instructions ees on the question paper and on the cover
-of ihe Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20]
-ante a. | Compare solar cell and photodiode. 05
-a ire b. | Explain transistor as switch. 05
-CO-3; 80-1: c. | Define the following parameters of JFET. ”
-
-BL2 1. Amplification factor
-
-2. Transconductance
-
-CO-4:; SO-1; d. | Find the frequency of oscillations for a Hartley Oscillator having L1 = | uwH, L2
-
-05
-Cc BL-1 = 100 pH, M=50 pH and C = 100pF.
-Q2A Explain the construction and working of LED.
-CO-1; 80-1; 10
-BL-2
-Q2B Develop the expression for Ip, Ic and Vcr for fixed bias BJT circuit.
-CO-3; SO-1; 10
-BL-3
-Q3A What is a multi-vibrator? List different types of multi-vibrator. Explain Asatable
-CO-2; SO-1; | multivibrator in detail. 10
-BL-1,2
-
-Vp
---- page 2 ---
-Q3B
-CO-3; SO-1;
-BL-5
-
-Determine Vos, Ip, Vos, Vs, Vp and Vo in JFET fixed biased circuit where, Re=.
-2 MQ, Rp = 2 kQ, Vac = 3 V and Ipss = 10 mA Vp=-8 V and Vpp = 18 V.
-
-10
-
-Q4A
-
-CO-4; SO-1;
-BL-2
-
-Explain with help of neat circuit diagram working of a Colpitts oscillator.
-
-10
-
-Q4B
-
-CO-2; SO-1;
-BL-2
-
-Illustrate and explain the with neat diagram Transfer characteristics of an n-
-
-channel JFET.
-
-10
-
-Q5A
-
-CO-2; SO-1;
-BL-5
-
-Determine Ip, Ic and Vcr, Vc, and Vg of emitter bias circuit.
-+Vcc= 20V
-
-ReH 4.7 kQ
-
-B=85
-
-10
-
-Q5B
-
-CO-3; SO-1;
-BL-2
-
-Summarize with neat circuit diagram working of common emitter BJT amplifier.
-
-@
-
-10
-
-Q6A
-
-CO-4; SO-1;
-BL-2
-
-Explain with help of neat circuit diagram working of a Crystal oscillator.
-
-10
-
-Q6B
-
-CO-3; SO-1;
-BL-3
-
-Develop the expressions for Vas, Ip, Vos, Vc, Vp and Vs for a voltage divider
-
-biased JFET circuit.
-
-10
-
-Q7A
-
-CO-4; SO-1;
-BL-2
-
-Explain feedback amplifiers with example.
-
-10
-
-Q7B
-
-CO-1; SO-1;
-BL-2
-
-Illustrate and explain varactor diode in detail.
-
-10
-
-7/9
-````
-
-## 2021-22 · Re-Exam · Sem 3 · paper bcab2ec72c05
-
-- Departments: Computer Engineering, Mechanical
-- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/Basic of Engineering Chemistry/Basic of Engineering Chemistry Batch 2021-22 Re Exam0001.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 February 2023
-- Text: ocr (3 pages), mean OCR confidence 85.4
-
-````text
-svkM’snmims 0316:/23 = 2:0DF7
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-/ Program: B. Tech Integrated (Computer/Mechanical) : Year: I Semester : III
-
-AcademicYear: 2022-2023
-Subject: Basic of Engineering Chemisty Marks: 100
-
-Time: 2.00 pm - 5.00 pm
-Durations: (3 hrs)
-
-No. of Pages:__ 0S
-
-Date : 03 February 2023
-
-Re-Examination (2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-2) Out of remaining questions, attempt any ___4 _ questions.
-> 3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-8)Atomic weights: H=1, C=12, O=16, N=14, Na=23, Mg=24, P=31, S=32, Cl=35.5, Ca=40,
-
-Zn=65.3.
-Qi
-Answer briefly: [20]
-CO-1;BL-2 |* Explain periodicity in electronegativity. [3]
-b. State the formula for i) molarity, ii) molality iii) normality
-CO-4; BL-1 . . . [4]
-iv) equivalent weight
-© |co-3;BL2 |* Explain Hybridization in ethene. [4]
-CO- 3; BL-2 d. Discuss any two methods of preparation of alcohols | [3]
-e. 4 g of metal ‘M’ reacts with oxygen to form a metal oxide of 5.6g. i
-CO-2 ; BL-3 . . [3]
-Calculate the equivalent weight of M?
-Cco-3 ; BL-1 |f Define Isomerism & Chain isomerism with example. [3]
-Q2 a Describe atomic radii and explain periodicity with atomic radii.
-CO-1 ; [5]
-BL-2
-
-CO-1;BL-2. |b Explain Electron affinity and discuss periodicity with Electron affinity. [5]
-
-fs
---- page 2 ---
-CO-2 ; BL-3 Predict the initial concentration of a 100 ml solution that has been [5]
-diluted to give 500 ml of a 0.5 M aqueous solution?
-
-CO-2 ; Calculate the mass of Fe in the compound Fe3Osg including 4.8 x 1023 [5]
-
-Blt atoms oxygen. Atomic weight of Fe = 56 amu
-
-Q3 Explain Hybridization in CHa.
-
-CO-3 ; [5]
-
-BL-2-
-
-CO-3 ; Explain SP hybridization with an appropriate example. [5]
-
-ea ; Explain Lowering of Vapor Pressure [5]
-
-or ;BL-2- Discuss Depression in freezing point [5]
-Predict the structure for following compounds
-
-4 i) cyclohexene ii) 1-methylcyclobutene iii) 4-methyl-2-pentene [10]
-
-Clr BLS iv) propane v) 1-methylCyclopentane
-
-C0-3 :BL2 Discuss methods of preparation of aldehyde &ketone [5]
-
-CO-3 :BL-2 scans Aldol Condensation and Wittig Reaction [5]
-
-Q5 Explain Modern Periodic table [5]
-
-CO-1 ;BL-2
-
-CO-1 ;:BL-2 Discuss Effective nuclear charge and shielding . [5]
-
-CO-2;BL-3 Calculate the mass of NaCl will be required to prepare 700 ml of 2.5 M | [5]
-aqueous solution Of NaCl?
-A compound of carbon, hydrogen and nitrogen contains the three [5]
-elements in the respective ratio of 9:1:3.5 respectively. Calculate the
-
-CO-2; BL-3 empirical formula
-
-Q6 Discuss.electron arrangements and octet fule. [5]
-
-CO-3 ;BL-2-
-
-CO-3 ;BL-2- Discuss inductive effect, mesomeric effect. [5]
-Predict the boiling point of 1.7 m sugar (C12H22011) aqueous solution.
-
-CO-4 :BL-2- [5]
-
-Kp of water is 0.512 °C/m.
-
-; 2
-—
---- page 3 ---
-d Discuss Osmotic pressure and it’s applications. [5]
-
-CO-4 ;BL-2-
-a Label IUPAC name for following compounds
-i) CH3- CH=CH2
-Q7 ii) CH3~CH 2-CH(Cl)CH 2- CH 2 -CH 2-CH 3 [10]
-CO-3 :BL-3 iii) CH3CH=CHCH 3
-iv) CH3CH(Br)CH2CH=CHCH
-v) CH3- CH=CHCH2CH3
-CO-3;BL-3_ | > Explain methods of preparation of carboxylic acids _ [5]
-CO-3 :BL-3 |¢ Discuss réactidns of alcohols. [5]
-a
-a
-
-+)
-````
-
-## 2021-22 · Re-Exam · Sem 3 · paper 8f36eeb51f43
+## 2023-24 · Re-Exam · Sem 3 · paper 8f36eeb51f43
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
@@ -542,4 +248,137 @@ Define functional Brou . Explain the three types of alcohol with appropriate
 CO-2; BL3 group. Exp YP PProp: [5]
 
 examples.
+````
+
+## 2022-23 · Re-Exam · Sem 3 · paper bcab2ec72c05
+
+- Departments: Computer Engineering, Mechanical
+- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/Basic of Engineering Chemistry/Basic of Engineering Chemistry Batch 2021-22 Re Exam0001.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 February 2023
+- Text: ocr (3 pages), mean OCR confidence 85.4
+
+````text
+svkM’snmims 0316:/23 = 2:0DF7
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+/ Program: B. Tech Integrated (Computer/Mechanical) : Year: I Semester : III
+
+AcademicYear: 2022-2023
+Subject: Basic of Engineering Chemisty Marks: 100
+
+Time: 2.00 pm - 5.00 pm
+Durations: (3 hrs)
+
+No. of Pages:__ 0S
+
+Date : 03 February 2023
+
+Re-Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any ___4 _ questions.
+> 3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8)Atomic weights: H=1, C=12, O=16, N=14, Na=23, Mg=24, P=31, S=32, Cl=35.5, Ca=40,
+
+Zn=65.3.
+Qi
+Answer briefly: [20]
+CO-1;BL-2 |* Explain periodicity in electronegativity. [3]
+b. State the formula for i) molarity, ii) molality iii) normality
+CO-4; BL-1 . . . [4]
+iv) equivalent weight
+© |co-3;BL2 |* Explain Hybridization in ethene. [4]
+CO- 3; BL-2 d. Discuss any two methods of preparation of alcohols | [3]
+e. 4 g of metal ‘M’ reacts with oxygen to form a metal oxide of 5.6g. i
+CO-2 ; BL-3 . . [3]
+Calculate the equivalent weight of M?
+Cco-3 ; BL-1 |f Define Isomerism & Chain isomerism with example. [3]
+Q2 a Describe atomic radii and explain periodicity with atomic radii.
+CO-1 ; [5]
+BL-2
+
+CO-1;BL-2. |b Explain Electron affinity and discuss periodicity with Electron affinity. [5]
+
+fs
+--- page 2 ---
+CO-2 ; BL-3 Predict the initial concentration of a 100 ml solution that has been [5]
+diluted to give 500 ml of a 0.5 M aqueous solution?
+
+CO-2 ; Calculate the mass of Fe in the compound Fe3Osg including 4.8 x 1023 [5]
+
+Blt atoms oxygen. Atomic weight of Fe = 56 amu
+
+Q3 Explain Hybridization in CHa.
+
+CO-3 ; [5]
+
+BL-2-
+
+CO-3 ; Explain SP hybridization with an appropriate example. [5]
+
+ea ; Explain Lowering of Vapor Pressure [5]
+
+or ;BL-2- Discuss Depression in freezing point [5]
+Predict the structure for following compounds
+
+4 i) cyclohexene ii) 1-methylcyclobutene iii) 4-methyl-2-pentene [10]
+
+Clr BLS iv) propane v) 1-methylCyclopentane
+
+C0-3 :BL2 Discuss methods of preparation of aldehyde &ketone [5]
+
+CO-3 :BL-2 scans Aldol Condensation and Wittig Reaction [5]
+
+Q5 Explain Modern Periodic table [5]
+
+CO-1 ;BL-2
+
+CO-1 ;:BL-2 Discuss Effective nuclear charge and shielding . [5]
+
+CO-2;BL-3 Calculate the mass of NaCl will be required to prepare 700 ml of 2.5 M | [5]
+aqueous solution Of NaCl?
+A compound of carbon, hydrogen and nitrogen contains the three [5]
+elements in the respective ratio of 9:1:3.5 respectively. Calculate the
+
+CO-2; BL-3 empirical formula
+
+Q6 Discuss.electron arrangements and octet fule. [5]
+
+CO-3 ;BL-2-
+
+CO-3 ;BL-2- Discuss inductive effect, mesomeric effect. [5]
+Predict the boiling point of 1.7 m sugar (C12H22011) aqueous solution.
+
+CO-4 :BL-2- [5]
+
+Kp of water is 0.512 °C/m.
+
+; 2
+—
+--- page 3 ---
+d Discuss Osmotic pressure and it’s applications. [5]
+
+CO-4 ;BL-2-
+a Label IUPAC name for following compounds
+i) CH3- CH=CH2
+Q7 ii) CH3~CH 2-CH(Cl)CH 2- CH 2 -CH 2-CH 3 [10]
+CO-3 :BL-3 iii) CH3CH=CHCH 3
+iv) CH3CH(Br)CH2CH=CHCH
+v) CH3- CH=CHCH2CH3
+CO-3;BL-3_ | > Explain methods of preparation of carboxylic acids _ [5]
+CO-3 :BL-3 |¢ Discuss réactidns of alcohols. [5]
+a
+a
+
++)
 ````

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/ADVANCED STATISTICAL ANALYSIS 2012-2013 FINALscan0040.pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; exam date: 24/01/2013
 - Text: ocr (11 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -352,7 +353,6 @@ a
 
 -2000.00-4
 
-T T T T T T T r
 -400.00 -200.90 0.00 206.00 400.00 600.00 800.00 1000.00
 
 C/,
@@ -1358,6 +1358,7 @@ cone eeenen ene ay, a,
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/2007-2008(132).pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 85.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 j
@@ -1527,9 +1528,7 @@ Programming problem ety
 
 Cp Cj > bi
 ghee Basie” > a x, re ee Solution
-PGs act ed a ye og i
 ice hence, “So Be ba re ac ee a ae
-: bi ¢ « ae pee OVS PRR OEE ye SS oe pa
 “J
 Cj-Zi
 The formulation is : Ent, : wet |

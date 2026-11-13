@@ -1,6 +1,6 @@
 # Management of Technology: question papers in full
 
-18 unique papers · 2007-08 to 2018-19 · Chemical, Information Technology, Manufacturing, Common (all branches)
+17 unique papers · 2007-08 to 2018-19 · Chemical, Information Technology, Manufacturing, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -369,6 +369,53 @@ Q7 Write short notes on: (any Two) : 12
 1.
 ````
 
+## 2014-15 · Re-Exam · Sem 8 · paper f79cf179ada9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/MANAGEMENT OF TECHNOLOGY/Management of Technology Batch 2013-14 Re Exam.pdf`
+- Printed on paper: max marks: 50; exam date: 22/04/2015
+- Text: ocr (1 page), mean OCR confidence 87.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+Academic Year: 2014-15 arene g
+Batch: 2013-14 Fs AA Reig, ,
+($f %
+Subject: Management of Technology ic s4 MPSTMBE )<
+Marks: 50 | LIBRARY )J&
+Date: 22/04/2015 Time: 2.00 p 00 pm eS
+
+Durations: 2 (SxS et
+urations i» rae .
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Q.No.1 is compulsory
+2. Attempt any 3 questions from Q.No.2 to Q.No.5 the following.
+
+3. In all 4 Questions to be attempted.
+
+Q.1. Write an essay on impact of Technology on one of the following industries and critical factors for such
+industries using Technology as an important resource for competitive advantage. (Banking / Automobile
+
+mfg / Pharmaceutical / Retail ) (20)
+Q.2. Draw and explain concept of Technology Life Cycle (10)
+Q.3. Define Technology Audit & Explain in detail Technology Audit Model (TAM) (10)
+
+Q.4. What mechanism are available for organising for research and development. Explain the critical
+factors for organising for R & D. (10)
+
+Q.5. Explain methods of Technology acquisition and factors affecting acquisition in detail. (10)
+````
+
 ## 2013-14 · Final-Exam · Sem 8 · paper b9499714f74d
 
 - Departments: Common (all branches)
@@ -479,53 +526,6 @@ Technology Atlas. (10)
 Q.6. Define Technology Audit & explain Technology Audit Model (TAM). (10)
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper f79cf179ada9
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/MANAGEMENT OF TECHNOLOGY/Management of Technology Batch 2013-14 Re Exam.pdf`
-- Printed on paper: max marks: 50; exam date: 22/04/2015
-- Text: ocr (1 page), mean OCR confidence 87.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-Academic Year: 2014-15 arene g
-Batch: 2013-14 Fs AA Reig, ,
-($f %
-Subject: Management of Technology ic s4 MPSTMBE )<
-Marks: 50 | LIBRARY )J&
-Date: 22/04/2015 Time: 2.00 p 00 pm eS
-
-Durations: 2 (SxS et
-urations i» rae .
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Q.No.1 is compulsory
-2. Attempt any 3 questions from Q.No.2 to Q.No.5 the following.
-
-3. In all 4 Questions to be attempted.
-
-Q.1. Write an essay on impact of Technology on one of the following industries and critical factors for such
-industries using Technology as an important resource for competitive advantage. (Banking / Automobile
-
-mfg / Pharmaceutical / Retail ) (20)
-Q.2. Draw and explain concept of Technology Life Cycle (10)
-Q.3. Define Technology Audit & Explain in detail Technology Audit Model (TAM) (10)
-
-Q.4. What mechanism are available for organising for research and development. Explain the critical
-factors for organising for R & D. (10)
-
-Q.5. Explain methods of Technology acquisition and factors affecting acquisition in detail. (10)
-````
-
 ## 2012-13 · Exam not stated · Trim 12 · paper 8e42503607c5
 
 - Departments: Chemical, Information Technology, Manufacturing
@@ -557,6 +557,37 @@ Q.4. Justify significance of technology strategy and explain domains of technolo
 business strategy   (1 2)
 Q.4. What mechanism are available for organising for research and development. Explain the cirtical
 factors for organising for R & D   (1 2)
+````
+
+## 2012-13 · Re-Exam · Trim 12 · paper d95fd63746c8
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/management of technology/MANAGEMENT OF TECHNOLOGY BATCH 2011-12 RE EXAM(1).pdf` (+5 identical copies)
+- Printed on paper: duration hours: 2; exam date: 29/04/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technology Management & E
+Programme: MBA (Tech) -ALL STREAMS   Year: IV   Trimester:
+1   Academic Year : 2012-2013
+Batch:   2011-2012
+Subject:   Management of Technology   Marks:
+Time:
+Date   29/04/2013   Duration:   2 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+I. Attempt any 5 questions
+Q1. Explain Competition dynamics in mature technology phase with reference to TLC
+Q.2. What is Technology audit. Explain Garica-Arreola Model
+Q.3. Define MOT and explain critical factors in management of technology
+I
+Q.4.Explain types of technology transfer and critical issues in Technology Transfer
+Q.5. Explain the factors affecting technology acquisition
+Q.6. Explain the concept of diffusion of innovation in detail
+t
 ````
 
 ## 2012-13 · Re-Exam · Trim 12 · paper 26c6965352e6
@@ -653,95 +684,6 @@ Q.7. Write an essay on ‘Organisations of the Future’ w.r.to aspects such as 
 and technology
 ````
 
-## 2011 · Exam not stated · Trim 12 · paper 58dab5d6ba01
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/management of technology/MANAGEMENT OF TECHNOLOGY 2011.pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 21/04/2011
-- Text: ocr (1 page), mean OCR confidence 93.8
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
-
-Academic Year : 2010-2011
-
-Subject: Management of Technology Marks: 50
-Time: 2.00 pm To 4.00 pm
-Date: 21/04/2011 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use
-
-1. Attempt any five(5) questions
-
-2. All questions carry equal marks
-
-3. Answer to each new question to be started on a fresh page
-
-4. Number the answered question properly.
-
-5. Figures in brackets on the right hand side indicate marks for each question.
-
-Q.1. Explain the principles that can help focus management in a new
-paradigm to deal with both change & stability. [10]
-
-Q.2. Explain the MOT paradigm for the management of the
-enterprise. [10]
-
-Q.3. What are the different methods of acquisition of technology. [10]
-
-Q.4.What are the channels of technology transfer available for a firm?
-When are these employed? [10]
-
-Q.5.Summarize the key elements or components of MOT
-philosophies. [10]
-
-Q.6.Comment and discuss the possibility of organizations of the future
-will probably be different from the past or current
-organizations. [10]
-
-------0000000------
-
-/
-````
-
-## 2011-12 · Re-Exam · Trim 12 · paper d95fd63746c8
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/management of technology/MANAGEMENT OF TECHNOLOGY BATCH 2011-12 RE EXAM(1).pdf` (+5 identical copies)
-- Printed on paper: duration hours: 2; exam date: 29/04/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technology Management & E
-Programme: MBA (Tech) -ALL STREAMS   Year: IV   Trimester:
-1   Academic Year : 2012-2013
-Batch:   2011-2012
-Subject:   Management of Technology   Marks:
-Time:
-Date   29/04/2013   Duration:   2 hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-I. Attempt any 5 questions
-Q1. Explain Competition dynamics in mature technology phase with reference to TLC
-Q.2. What is Technology audit. Explain Garica-Arreola Model
-Q.3. Define MOT and explain critical factors in management of technology
-I
-Q.4.Explain types of technology transfer and critical issues in Technology Transfer
-Q.5. Explain the factors affecting technology acquisition
-Q.6. Explain the concept of diffusion of innovation in detail
-t
-````
-
 ## 2011-12 · Re-Exam · Trim 12 · paper 8f6a7c483878
 
 - Departments: Chemical, Information Technology, Manufacturing
@@ -800,6 +742,64 @@ Q.7. What are the channels of technology transfer available for a firm? When are
 employed?
 
 th
+````
+
+## 2010-11 · Exam not stated · Trim 12 · paper 58dab5d6ba01
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/management of technology/MANAGEMENT OF TECHNOLOGY 2011.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 21/04/2011
+- Text: ocr (1 page), mean OCR confidence 93.8
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
+
+Academic Year : 2010-2011
+
+Subject: Management of Technology Marks: 50
+Time: 2.00 pm To 4.00 pm
+Date: 21/04/2011 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use
+
+1. Attempt any five(5) questions
+
+2. All questions carry equal marks
+
+3. Answer to each new question to be started on a fresh page
+
+4. Number the answered question properly.
+
+5. Figures in brackets on the right hand side indicate marks for each question.
+
+Q.1. Explain the principles that can help focus management in a new
+paradigm to deal with both change & stability. [10]
+
+Q.2. Explain the MOT paradigm for the management of the
+enterprise. [10]
+
+Q.3. What are the different methods of acquisition of technology. [10]
+
+Q.4.What are the channels of technology transfer available for a firm?
+When are these employed? [10]
+
+Q.5.Summarize the key elements or components of MOT
+philosophies. [10]
+
+Q.6.Comment and discuss the possibility of organizations of the future
+will probably be different from the past or current
+organizations. [10]
+
+------0000000------
+
+/
 ````
 
 ## 2009-10 · Re-Exam · Trim 12 · paper 6305610b2397
@@ -909,233 +909,6 @@ Q.3 a. Explain “Limited Liability’ under the Companies Act
 b. How digital signature is better than the traditional signature?
 
 x. RE 7
-````
-
-## 2008-09 · Exam not stated · Trim 12 · paper fd80b3613f88
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/management of technology/2008-2009(189).pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (4 pages), mean OCR confidence 91.7
-
-````text
-SVKM’S NMIMS UNIVERSITY ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME Tt ke LBaagy aa
-
-ENGINEERING a =,/
-i i ___ sae \ % Sf
-MBA (TECH) fKOGRAMME (MANAGEMENT) 4™ YEAR | art Zs
-TRIMESTER XII, 2008-09
-Subject: BUSINESS COMMUNICATIONS I Max. Marks: 50
-Date: Y¥- O05 -O 9 Time Allowed: 2hrs &-0O “46Opm
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which
-is provided for their use.
-
-NB.
-1. All questions are compulsory. 2
-2. All questions carry equal marks.
-3. Answer to each new question to be started on a fresh page.
-4. Figure in brackets indicate full marks.
-
-PART A
-
-1. Multiple choice questions.
-For the following set of 10 questions, choose any one from the given five
-options. [10]
-
-(a) Choose the best medium for asking an informational question:
-(i) Meeting
-(ii) Phone call
-(iii) Hard copy
-(iv) Voice mail
-(v)E-mail
-
-(b) Choose the best medium for making a simple request:
-(i) Meeting ,
-(ii) Phone call
-(iii) Hard copy
-(iv)Voice mail
-(v)E-mail
-
-(c) Choose the best medium for giving complex instructions:
-(i) Meeting
-(ii) Phone call
-(iii) Hard copy
-(iv)Voice mail
-(v)E-mail
-
-PTO
---- page 2 ---
-(d) What is the number of communication channels formed, if 15 people are involved
-in the project:
-
-(i) 135
-
-(ii) 109
-
-(iii) 105
-
-(iv)145
-
-(v)155
-
-(e) Which process is applicable when project managers retreat from a actual or
-potential disagreement?
-
-(i) Confrontation
-
-(ii) Compromise
-
-(iii) Smoothing
-
-(iv) Forcing
-
-(vy) Withdrawal
-
-(f) Choose the best medium for assessing commitment:
-(i) Meeting
-(ii) Phone call
-(iii) Hard copy
-(iv) Voice mail
-(v)E-mail
-
-(g) Which process is applicable when project managers directly face a conflict
-using a problem-solving approach that allows affected parties to work through
-their disagreements?
-
-(vi) | Confrontation
-
-(vii) Compromise
-
-(viii) Smoothing
-
-(ix) Forcing
-
-(x) Withdrawal
-
-(h) Which process is applicable when project managers use a give and take
-approach to resolving conflicts?
-
-(i) Confrontation
-
-(ii) Compromise
-
-(iii)Smoothing
-
-(iv)Forcing
-
-(v) Withdrawal
-
-PTO
---- page 3 ---
-HI
-EN
-
-(i) Which process is applicable when project managers avoids areas of !
-
-c
-
-differences and emphasizes areas of agreement?
-(i)Confrontation
-
-(ii) Compromise
-
-(iii) Smoothing
-
-(iv)Forcing
-
-(v) Withdrawal
-
-(j) Which process is applicable when project managers exert their viewpoint at
-the potential expense of another viewpoint?
-(i)Confrontation
-(ii)Compromise
-(iii)Smoothing
-(iv)Forcing
-(v) Withdrawal!
-
-PART B
-
-2. What does the client look out for in a business proposal? [10]
-
-3. What are the different elements of a business plan? Give a brief description of each
-constituent component of each element of a business plan. [10]
-
-4. What items should a communications management plan address? How can a
-stakeholder analysis assist in preparing and implementing parts of this plan? [10]
-
-PART C
-
-5. Case Study Analysis [10]
-
-Tokyo Disneyland, the largest amusement park in Japan, draws nearly as many
-visitors each year as the Magic Kingdom here in the United States. But like all theme
-parks, the Tokyo park understood the need to offer fresh attractions and exciting new
-rides to keep the crowds coming back year after year. In its search for dynamic new
-ideas to expand its already popular park, Tokyo Disneyland turned to Walt Disney
-Imagineering.
-
-Generating and implementing new ideas for the Disney theme parks are tasks of Walt
-Disney Imagineering, the research, design, and engineering subsidiary of Walt Disney
-Attractions. Although Tokyo Disneyland is a Disney theme park and Disney retains
-the creative control of the park, the park is actually owned and operated by the
-Oriental Land Company. This company makes all financial and investment decisions.
-While creative concepts come from Disney Imagineering teams, those ideas are not
-automatically accepted by theme park owners. Imagineering teams not only had to
-dream up exciting concepts for the Tokyo park, but they also had to sell the ideas and
-
-PTC
---- page 4 ---
-Ly
-
-win the approval of Japanese owners. Millions of dollars of contracts and hundreds of
-jobs in the United States and in Japan rested on successful presentations to the owners
-of Tokyo Disneyland.
-
-Jon Georges, lead show producer for the Tokyo Disneyland Project, was part of a
-talented Imagineering team that came up with a totally new attraction and restaurant
-concept for the Disney theme park. Based on Winnie the Pooh and Alice in
-Wonderland characters, the creative project involved two phases. The first was a
-theme restaurant called the “Queens of Hearts Banquet Hall.” The second was a major
-ride attraction based on Winnie the Pooh characters. Both concepts required
-considerable persuasion to win approval.
-
-Traditionally, the Japanese park owners had accepted only attractions that had proved
-technically successful in other theme parks. Naturally, they were reluctant to try a
-restaurant concept and a ride technology that were both brand new. Selling the
-Japanese on the new concepts required oral presentations from Jon Georges and the
-Imagineering team.
-
-Understanding the audience and anticipating its reaction were integral part of Jon’s
-preparation for a presentation. For the Tokyo Disneyland project, Jon and the
-Imagineering team wanted to present their concepts in broad terms to see if the
-financiers liked the total idea. But Jon also knew that this audience would be detail
-oriented. “Japanese tend to want particulars — like the colour of the concrete, the
-number of restrooms, and the exact location where visitors would exit an attraction.”
-
-Other adaptations Jon made for the Tokyo presentation involved choice of language
-and presentation style. Carefully avoiding Disney and design jargon, he consciously
-used common words and simple sentences, which the translator had little trouble
-converting to Japanese. In making his presentation, Jon kept in mind three important
-elements: organization, visuals, and focus. Although he had thousands of details in
-mind, he forced himself to keep his presentation logical and simple. He concentrated
-on one powerful point: convincing his Japanese listeners that the new attractions
-would enhance the value of Tokyo Disneyland and would draw more visitors through
-the turnstiles. :
-
-1. What questions was Jon Georges asking himself in anticipating the audience
-for the Tokyo Disneyland presentation? [4]
-
-2. Why is simplicity important in an oral presentation and why was it particularly
-
-important for the Tokyo Disneyland presentation? [4]
-
-3. Why are visual aids critical for both local and international audiences? [2]
-
-~ pe
 ````
 
 ## 2008-09 · Re-Exam · Trim 12 · paper a50fadeacb14
@@ -1293,6 +1066,7 @@ totes cosas sees LHd Of Paper
 - Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/management of technology/2007-2008(137).pdf` (+2 identical copies)
 - Text: ocr (3 pages), mean OCR confidence 78.0
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 va
@@ -1307,7 +1081,6 @@ SVKM’s NMIMS UNIVERSITY \
 2ATEL SCHOOL OF TECHNOLOGY MANAGEMENT && ENG
 PABA (Tech) - Year tV ~ Trimester NIL -- 2007-2008
 
-SupECT: MANAGHENT OF INNOVATIONS ¢T ECHMOLO OY
 
 FINAL EXAMINATION
 Time: 2 p.m- 4 p.m. @ hours}
@@ -1406,14 +1179,12 @@ a
 hs
 
 SVEKM’s NMIMS UNIVERSITY
-‘\. MttGi3"P TEI, SCHOOL-OF HICHNOLOGY MANAGEMENT & ENGIN
 
 SV Kes:
 
 “PAPER L
 
 eh * MB& (Tech) ~ Year IV-— Yrimester XII 2007-20080.
-“BAL EXAMINATION: Oss oui SUBIRCT: MANAGIHENT OF INNOY pectice eet ceuw104)
 Friday; May 02,2008 9... : 5@ marks” » Time: 2 p.m.- 4 pm. ( hours}
 
 Instructions: Candidates shouid read carefully the instructions printed on ihe,question,
@@ -1523,7 +1294,6 @@ examples from like sof
 
 consumer elecironics, 10
 
-sy Sainte oer anon ree enamine nee
 
 ry é
 

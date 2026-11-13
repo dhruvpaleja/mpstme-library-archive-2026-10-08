@@ -4,6 +4,128 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Exam not stated · Sem 5 · paper 5594cfd75881
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/APPLIED THERMODYNAMICS/Applied Thermodynamics_5594cfd758.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2025-2026
+
+Program: MBA.Tech. Year: If Semester: V
+Stream: Mechanical Engineering
+Subject: Applied Thermodynamics Time: 3 hrs ( Zr00pm te St oop)
+Date: at fl 2f/ Dig No. of Pages:02
+Marks: 100
+Re-Exam 2023-24
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [4x5=20]
+CO-1,3; a. Explain the principle of a Combined Cycle Power Plant.
+
+SO-1; BL-2
+
+CO-2; b. Define and state two key condenser performance parameters.
+
+SO-1; BL-2
+
+CO-2; c. List the four main components of a Vapour Compression System and their
+SO-1; BL-1 function.
+
+CO-2; d. Differentiate between Port Timing and Valve Timing in IC Engines.
+
+SO-1; BL-1
+
+CO-1; e. Draw a neat, simple diagram of a Cochran boiler and label its main type.
+
+SO-1; BL-2
+
+Q2 a. Illustrate the P-V diagram for a single-stage reciprocating compressor considering
+CO-1,3;
+
+clearance volume. Derive the expression for the Volumetric Efficiency and explain | [10]
+
+BesB lie the effect of clearance volume on FAD.
+
+b. A single-stage, single-acting reciprocating air compressor has a bore of 25 cm and [10]
+an a stroke of 35 cm. It runs at 600 rpm. The clearance volume is 6% of the swept
+$0-1; BL-2 volume, and n=1.3. The suction is at 0.95 bar, 20°C, and delivery is at 8 bar.
+
+Determine the Volumetric Efficiency (nv) and the Indicated Power (kW).
+--- page 2 ---
+Q3 a Explain the working principle of a Lobe-type compressor with a neat sketch. State } [10]
+
+C0-1,3; its primary application.
+SO-1; BL-5
+Q3 b Compare and Contrast the operational differences, advantages and disadvantages | [10]
+CO-2; of Forced Draught and Induced Draught systems in boilers.
+SO-7; BL-5
+Q4 a Tllustrate with a neat sketch and explain the construction and working of a Babcock [10]
+CO-2; & Wilcox water-tube boiler. Additionally, explain and justify the function of an
+
+SO-1; BL-2 Air Preheater, particularly its effect on flue gas temperature and boiler efficiency.
+
+Q4 b Classify steam condensers based on the method of cooling (Direct/Surface). | [10]
+CO-2; Explain the working of a Surface Condenser used in a thermal power plant with a
+
+SO-1; BL-3 labeled diagram, detailing the purpose of maintaining a high vacuum.
+
+Q5 a Explain the working principle of a Cooling Tower, focusing on the concept of [10]
+CO-2; __ | evaporative cooling and:the difference between natural draught and mechanical
+
+SO-1; BL- draught towers.
+
+1,2
+
+Qs b Explain the working principle of a Vapor Absorption Refrigeration System | [10]
+CO-3; (VARS) with a neat sketch, focusing on the distinct thermodynamic roles of the
+
+$0-1; BL-2 absorber and the generator.
+
+Q6 a Define the term refrigerant and list the desirable properties they must possess. [10]
+CO-1,3; Discuss the diverse uses and applications of cryogenics across the fields of
+S0-6; BL-3 medicine, aerospace, and energy.
+
+Q6 b Draw, Label, and Elaborate on the various events shown on the valve timing | [10]
+CO-1,3; diagram for a four-stroke petrol (S.I.) engine.
+
+$O-1; BL-3
+
+Q7 a Discuss and Differentiate the four main operational and constructional differences | [10]
+
+CO-3; SO- between a four-stroke petrol (S.I.) engine and a Diesel (C.1.) engine.
+
+1; BL-2
+
+Q7 b Explain with a neat sketch the principle and application of velocity compounding [10]
+
+cO-3; SO- in impulse steam turbines. How does this compounding method help manage blade
+
+1; BL-2 speed and erosion?
+
+RERREE End of Paper******
+````
+
 ## 2025-26 · Final-Exam · Sem 4 · paper 69ad03e8eb29
 
 - Departments: Mechanical
@@ -890,251 +1012,7 @@ BL-2 [06]
 >
 ````
 
-## 2023-24 · Final + Re-Exam · Sem 4 · paper 323b355ab55a
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/APPLIED THERMODYNAMCIS/Applied Thermodynamics Batch 2023-24 Final Batch 2021-22 Re Exam.pdf` (+1 identical copies)
-- Text: ocr (3 pages), mean OCR confidence 88.7
-
-````text
-SVKM’S NMIMS i
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/,
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Program/s: B-Tech /MBA Tech/ B.Tech (Integrated) — Stream/s : Mechanical Year: Il/ IV Semester: [V/VIII
-Subject: Applied Thermodynamics Time: 08 _ hrs (40-00 amto 4-00 pm)
-Date:_27_/ 04 / 2024 ~ No. of Pages:03
-
-Marks: __ 100
-
-Final Examination/Re-Examination (2021-22, 2022-23) if
-
-Instructions: Candidates should read carefully the instructions printed on the apestio
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1____is compulsory.
-2) Out of remaining questions, attempt any 4 _ questions.
-& 3) In all _5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-[ Qi :
-Answer briefly: [20]
-Fi SO-7, | a. Explain working of reciprocating air compressor. [4]
-ee SO-7; | b. Differentiate boiler mountings and accessories with examples. [4]
-“1 a SO-7; |. Discuss velocity compounding of steam turbines. [4]
-CO-2;SO-7; | d. Illustrate and explain working of cooling tower. [4]
-BL-2
-a ee 380-7; |e. Define indicated power and brake specific fuel consumption of an IC engine. [4]
-a A single-stage, single-acting reciprocating air compressor has a bore of 20 cm and
-a stroke of 30 cm. The compressor runs at 700 rpm. The clearance volume is 4%
-Q2 of the swept volume and index of expansion and compression is 1.2. The suction
-CO-3: SO-1: conditions are at 0.97 bar and 27°C and delivery pressure is 6 bar. The atmospheric | [10]
-BL-3 conditions are at 1.01 bar and 17°C. Determine, (a) The free air delivered in m?/min
-(b) The volumetric efficiency referred to the free air conditions and (c) The
-indicated power.
-CO-2; SO-7; b Illustrate with a neat sketch and explain the working of a fire tube boiler. [10]
-BL-3
---- page 2 ---
-a. | A steam power plant operates on a theoretical reheat cycle. The steam from boiler
-ov
-
-at 40 bar and 550°C expands through the high-pressure turbine. It is reheated at
-
-Q3 constant pressure of 5 bar to 550°C and expands through the low-pressure turbine
-a SO-1; to a condenser pressure of 0.04 bar. Draw T -s and h -s diagrams and find (a). 010]
-Quality of steam at turbine exhaust, (b) Thermal efficiency of the cycle, (c) Steam
-rate in kg/k Wh.
-b. | Calculate the equivalent evaporation from and at 100°C for a boiler, which receives
-water at 60°C and produces steam at 1.5 MPa and 300°C. The steam-generation
-CO-2; SO-1; rate is 15000 kg/h. Coal is burnt at the rate of 2000 kg/h. The calorific value of coal 110)
-BL-3 is 34750 kJ/kg. Also calculate the thermal efficiency of the boiler.
-If the thermal efficiency of the boiler increases by 6% due to use of an economiser,
-find the saving in coal consumption per hour:
-a. | Ina convergent-divergent nozzle, the steam enters at 20 bar and 400°C and leaves |’
-om at a pressure of 1.5 bar. The inlet velocity to the nozzle is 160 m/ s. Find the
-ar sett required throat and exit areas for mass flowrate of 2 kg/s. Assume nozzle efficiency 00)
-to be 98%. Take Cy;=2.4kJ/kg K.
-b. | The following data and results refer to a test on a single-cylinder, two-stroke
-cycle engine:
-Indicated mean effective pressure = 550 kPa
-Cylinder diameter = 21 cm
-Piston stroke = 28 cm
-Engine speed = 360 rpm
-CO-3: SO-1: Brake torque = 628 Nm
-BL3 Fuel consumption = 8.16 kg/h a
-
-calorific value of fuel = 42700 kJ/kg
-Evaluate
-
-(a) Mechanical efficiency,
-
-(b) Indicated thermal efficiency,
-
-(c) Brake thermal efficiency, and
-
-(d) Brake-specific fuel consumption in kg/kWh.
---- page 3 ---
-a. | The steam is supplied to a de-Laval turbine at a velocity of 1200 m/s at an angle of |
-
-20°. The blade velocity is 300 m /s and the blades are symmetrical. The mass-flow
-
-Q5
-CO-2; SO-1; rate of the steam is 0.8 kg /s. Considering a friction factor of 0.82, evaluate (a) | [10]
-BL-3 Blade efficiency (b) Power developed (c) Stage efficiency, if the nozzle efficiency
-is 95%.
-nti ahah b. | Describe desirable properties of a refrigerant. [6]
-Ei 80-1; ©- | Discuss the various applications of cryogenics. [4]
-Q6 a Illustrate and explain working of 4-Stroke SI Engine with different working
-g
-©) CO-1; SO-7; —— [10]
-BL-3 :
-b. | A vapour compression refrigeration system works between the pressure limits of
-60 bar and 25 bar. The working fluid is just dry at the end of compression and there
-is no under cooling of the liquid before expansion in the expansion valve.
-Determine 1. COP of the cycle 2. Capacity of the refrigerator if the fluid flow is at
-CO-3; SO-1; the rate of 10 kg / min. [10]
-BL-3 Pressure | Saturation Enthalpy (kJ/kg) Entropy (kJ/kg K)
-(bar) Temperature Liquid ‘Vapour Liquid Vapour
-(K)
-60 295 151.96 293.29 0.554 1.0332
-25 261 56.32 322.58 0.226 1.2464
-Q7 Answer the following [20]
-inl SUT; a. | Elaborate valve timing diagram for 4 Stroke CI Engine. [6]
-ve aah, b. | Discuss types of condensers. [6]
-neg SO- © | Discuss choking in a steam nozzle. [4]
-aa BO) a Compare forced and induced draught. {4]
-on
-````
-
-## 2023-24 · Re-Exam · Sem 4 · paper 34b3440b7d37
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/APPLIED THERMODYNAMCIS/Applied Themodynamics Batch 2021-22,2022-23,2023-24 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
-SCHOOL OF TECHNOLOGY MANAGEMENT ~ .
-Academic Year: 2023-2024
-Program/s: B Tech/MBA Tech/ B Tech (Integrated) Stream/s ; Mechanical Year: II/[V Semester: IV/VIII
-
-Subject: Applied Thermodynamics ws Time: 3__ hrs (18am to 1 pm_)
-Date:_25 / 06/24 No. of Pages: 03
-Marks: 100. __
-
-Re-Examination (2021-22, 2022-23J2023- 2)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-vo 1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any 4 _ questions.
-3) In all _5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks. ®
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [20]
-a SO-7; | a. | Describe the advantages and disadvantages of multistage compressors. (4]
-“7 SO-7; | b. | Discuss boiler classifications with examples. [4]
-Le SO-7; | c. | Discuss pressure compounding of steam turbines. [4]
-an peas BOF; | a Explain the working of a cooling tower. [4]
-o A SO-7; | © | Define brake power and indicated specific fuel consumption of an IC engine. [4]
-
-a. | 3 kg/s of air enters the LP cylinder of a two-stage, reciprocating air compressor. The
-
-Q2 overall pressure ratio is 10. The air at inlet to compressor is at 100 kPa and 35°C. The
-CO-3: $O-1: index of compression in each cylinder is 1.3. Find the intercooler pressure for perfect | [10]
-
-BL-3 intercooling. Also, find the minimum power required for compression, and percentage
-
-saving over single-stage compression.
-
-CO-2; SO-7; | >. [10]
-BL-3 Illustrate with a neat sketch the working of a La-Mont boiler.
-
-7
---- page 2 ---
-i
-
-A steam power plant operates on a theoretical reheat cycle. The steam from boiler at 150
-
-bar and 550°C expands through the high-pressure turbine. It is reheated at’ constant
-
-oes SO-1; pressure of 30 bar to 550°C and expands through the low-pressure turbine to a condenser | [10]
-BL-3 pressure of 0.1 bar. Draw T -s and h -s diagrams and find (a) Quality of steam at turbine
-exhaust, (b) Thermal efficiency of the cycle, (c) Steam rate in kg/kWh.
-A boiler generates 10 kg of steam per kg of fuel burnt at a pressure of 15 bar from feed
-CO-2: SO-1; water entering at 80°C. The boiler is 80 % efficient and its factor of evaporation is 1.15.
--—_ Calculate (a) Degree of superheat and temperature of steam generated, (b) Calorific value | [10]
-of fuel in kJ/kg, (c) Equivalent evaporation in kg of steam per kg of fuel.
-Take specific heat of superheated steam as 2.3 kJ/kg K.
-rm,
-Through a convergent-divergent nozzle steam is entering at 2 MPa and 400°C with a
-Q4 negligible velocity and mass-flow rate of 3 kg/s and it exits at a pressure of 300 k Pa.
-ide BO]; The flow is isentropic between the nozzle entrance and throat and overall nozzle ~
-efficiency is 93 %. Determine (a) throat, and (b) exit areas.
-During trial of a single cylinder, 4 stroke oil engine the following results were obtained:
-Cylinder bore=200 mm, Stroke=400 mm, Mean effective pressure = 6 bar,
-Torque= 407 Nm, Speed=250 RPM, Oil consumption=4kg / hr, CV. of fuel=43 MJ/kg,
-CO-3:; SO-1; Cooling water rate=4.5kg/min, Air used per kg of fuel= 30 kg,
-7 Rise in cooling water temperature = 45°C, [10]
-Temperature of exhaust gases = 420°C, Room temp = 20°C,
-Mean specific heat of exhaust gases = 1kJ/kg K,
-Specific heat of water=4.18kJ/kg K, Barometric pressure=1.01325 bar i
-Find IP, BP and draw up heat balance sheet in kJ/hr.
-In a de- Laval turbine, steam issues from the nozzles with a velocity of 900 m/s. The nozzle
-angle is 20°. Mean blade velocity is 300 m/s and the blades are equiangular. The mass flow
-Q5 rate is 1500 kg / min. The fiction factor is 0.8. Determine :
-CO-:2 SO-1; 1. Blade angles [10]
-BL-4
-
-2. Axial thrust on the bearings
-3. Power developed in kW
-4. Blade efficiency
---- page 3 ---
-CO-2; SO-7; b.
-
-BL3 Illustrate with a neat sketch the working of vapour compression refrigeration eycle. [10]
-Q6 a.
-CO-3; SO-7; Illustrate and explain working of 4-Stroke CI Engine with different working strokes. [10]
-BL-3
-b. | An ammonia refrigerator works on vapour compression refrigeration system between the
-pressure limits of 25 °C and -15°C. The working fluid is just dry at the end of compression
-and there is no under cooling of the liquid before expansion in the expansion valve.
-Determine 1. COP of the cycle 2. Capacity of the refrigerator if the fluid flow is at the rate
-CO-3; SO-1; . [10]
-of 10 kg / min.
-BL-3
-Temperature Enthalpy (kJ/kg) Entropy ( kJ / kg K)
-(°C) Liquid Vapour Liquid Vapour
-25 298.9 1465.84 1.1242 5.0391
--15 112.34 1426.54 0.4572 5.5490
-Q7 Answer the following
-na BOT: | | eiahoeme valve timing diagram for 4 Stroke CI Engine. [6]
-CO-2; SO-7; b.
-Illustrate elements of a condensing plant. [6]
-BL-2
-CO-2; SO-7; c. .
-~_ Discuss the functions of fusible plug and economizer. [4]
-, CO-1; SO-7; d. Bailsfath : i J
-xplain the types of nozzles.
-BL2 p yp [4]
-````
-
-## 2023-24 · Re-Exam · Sem 5 · paper 83c6c0b9317c
+## 2024-25 · Re-Exam · Sem 5 · paper 83c6c0b9317c
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -1266,7 +1144,7 @@ CO-2; SO-1; BL-2 | d. | Define draught and draw natural draught system. [4]
 2
 ````
 
-## 2023-24 · Re-Exam · Sem 5 · paper 6a25cd276e55
+## 2024-25 · Re-Exam · Sem 5 · paper 6a25cd276e55
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -1396,7 +1274,129 @@ CO-2; SO-1; BL-2 Compare forced and induced draught. [4]
 y
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 09a1836c06b8
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 323b355ab55a
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/APPLIED THERMODYNAMCIS/Applied Thermodynamics Batch 2023-24 Final Batch 2021-22 Re Exam.pdf` (+1 identical copies)
+- Text: ocr (3 pages), mean OCR confidence 88.7
+
+````text
+SVKM’S NMIMS i
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/,
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Program/s: B-Tech /MBA Tech/ B.Tech (Integrated) — Stream/s : Mechanical Year: Il/ IV Semester: [V/VIII
+Subject: Applied Thermodynamics Time: 08 _ hrs (40-00 amto 4-00 pm)
+Date:_27_/ 04 / 2024 ~ No. of Pages:03
+
+Marks: __ 100
+
+Final Examination/Re-Examination (2021-22, 2022-23) if
+
+Instructions: Candidates should read carefully the instructions printed on the apestio
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+& 3) In all _5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+[ Qi :
+Answer briefly: [20]
+Fi SO-7, | a. Explain working of reciprocating air compressor. [4]
+ee SO-7; | b. Differentiate boiler mountings and accessories with examples. [4]
+“1 a SO-7; |. Discuss velocity compounding of steam turbines. [4]
+CO-2;SO-7; | d. Illustrate and explain working of cooling tower. [4]
+BL-2
+a ee 380-7; |e. Define indicated power and brake specific fuel consumption of an IC engine. [4]
+a A single-stage, single-acting reciprocating air compressor has a bore of 20 cm and
+a stroke of 30 cm. The compressor runs at 700 rpm. The clearance volume is 4%
+Q2 of the swept volume and index of expansion and compression is 1.2. The suction
+CO-3: SO-1: conditions are at 0.97 bar and 27°C and delivery pressure is 6 bar. The atmospheric | [10]
+BL-3 conditions are at 1.01 bar and 17°C. Determine, (a) The free air delivered in m?/min
+(b) The volumetric efficiency referred to the free air conditions and (c) The
+indicated power.
+CO-2; SO-7; b Illustrate with a neat sketch and explain the working of a fire tube boiler. [10]
+BL-3
+--- page 2 ---
+a. | A steam power plant operates on a theoretical reheat cycle. The steam from boiler
+ov
+
+at 40 bar and 550°C expands through the high-pressure turbine. It is reheated at
+
+Q3 constant pressure of 5 bar to 550°C and expands through the low-pressure turbine
+a SO-1; to a condenser pressure of 0.04 bar. Draw T -s and h -s diagrams and find (a). 010]
+Quality of steam at turbine exhaust, (b) Thermal efficiency of the cycle, (c) Steam
+rate in kg/k Wh.
+b. | Calculate the equivalent evaporation from and at 100°C for a boiler, which receives
+water at 60°C and produces steam at 1.5 MPa and 300°C. The steam-generation
+CO-2; SO-1; rate is 15000 kg/h. Coal is burnt at the rate of 2000 kg/h. The calorific value of coal 110)
+BL-3 is 34750 kJ/kg. Also calculate the thermal efficiency of the boiler.
+If the thermal efficiency of the boiler increases by 6% due to use of an economiser,
+find the saving in coal consumption per hour:
+a. | Ina convergent-divergent nozzle, the steam enters at 20 bar and 400°C and leaves |’
+om at a pressure of 1.5 bar. The inlet velocity to the nozzle is 160 m/ s. Find the
+ar sett required throat and exit areas for mass flowrate of 2 kg/s. Assume nozzle efficiency 00)
+to be 98%. Take Cy;=2.4kJ/kg K.
+b. | The following data and results refer to a test on a single-cylinder, two-stroke
+cycle engine:
+Indicated mean effective pressure = 550 kPa
+Cylinder diameter = 21 cm
+Piston stroke = 28 cm
+Engine speed = 360 rpm
+CO-3: SO-1: Brake torque = 628 Nm
+BL3 Fuel consumption = 8.16 kg/h a
+
+calorific value of fuel = 42700 kJ/kg
+Evaluate
+
+(a) Mechanical efficiency,
+
+(b) Indicated thermal efficiency,
+
+(c) Brake thermal efficiency, and
+
+(d) Brake-specific fuel consumption in kg/kWh.
+--- page 3 ---
+a. | The steam is supplied to a de-Laval turbine at a velocity of 1200 m/s at an angle of |
+
+20°. The blade velocity is 300 m /s and the blades are symmetrical. The mass-flow
+
+Q5
+CO-2; SO-1; rate of the steam is 0.8 kg /s. Considering a friction factor of 0.82, evaluate (a) | [10]
+BL-3 Blade efficiency (b) Power developed (c) Stage efficiency, if the nozzle efficiency
+is 95%.
+nti ahah b. | Describe desirable properties of a refrigerant. [6]
+Ei 80-1; ©- | Discuss the various applications of cryogenics. [4]
+Q6 a Illustrate and explain working of 4-Stroke SI Engine with different working
+g
+©) CO-1; SO-7; —— [10]
+BL-3 :
+b. | A vapour compression refrigeration system works between the pressure limits of
+60 bar and 25 bar. The working fluid is just dry at the end of compression and there
+is no under cooling of the liquid before expansion in the expansion valve.
+Determine 1. COP of the cycle 2. Capacity of the refrigerator if the fluid flow is at
+CO-3; SO-1; the rate of 10 kg / min. [10]
+BL-3 Pressure | Saturation Enthalpy (kJ/kg) Entropy (kJ/kg K)
+(bar) Temperature Liquid ‘Vapour Liquid Vapour
+(K)
+60 295 151.96 293.29 0.554 1.0332
+25 261 56.32 322.58 0.226 1.2464
+Q7 Answer the following [20]
+inl SUT; a. | Elaborate valve timing diagram for 4 Stroke CI Engine. [6]
+ve aah, b. | Discuss types of condensers. [6]
+neg SO- © | Discuss choking in a steam nozzle. [4]
+aa BO) a Compare forced and induced draught. {4]
+on
+````
+
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 09a1836c06b8
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
@@ -1526,13 +1526,14 @@ we SO-1; a. Compare forced and induced draught. [4]
 3
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 5 · paper 49dcd94bfbfe
+## 2023-24 · Final + Re-Exam · Sem 5 · paper 49dcd94bfbfe
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/APPLIED THERMODYNAMICS/Applied Thermodynamics,Final,Re-exam 22-23.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01/12/2023
 - Text: ocr (3 pages), mean OCR confidence 91.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1661,7 +1662,410 @@ c) Pressure-Velocity compounding of steam turbine
 
 d) cryoelectronics
 
-oe OR A a 2 End of Papereeee**
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper 34b3440b7d37
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/APPLIED THERMODYNAMCIS/Applied Themodynamics Batch 2021-22,2022-23,2023-24 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
+SCHOOL OF TECHNOLOGY MANAGEMENT ~ .
+Academic Year: 2023-2024
+Program/s: B Tech/MBA Tech/ B Tech (Integrated) Stream/s ; Mechanical Year: II/[V Semester: IV/VIII
+
+Subject: Applied Thermodynamics ws Time: 3__ hrs (18am to 1 pm_)
+Date:_25 / 06/24 No. of Pages: 03
+Marks: 100. __
+
+Re-Examination (2021-22, 2022-23J2023- 2)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+vo 1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+3) In all _5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks. ®
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [20]
+a SO-7; | a. | Describe the advantages and disadvantages of multistage compressors. (4]
+“7 SO-7; | b. | Discuss boiler classifications with examples. [4]
+Le SO-7; | c. | Discuss pressure compounding of steam turbines. [4]
+an peas BOF; | a Explain the working of a cooling tower. [4]
+o A SO-7; | © | Define brake power and indicated specific fuel consumption of an IC engine. [4]
+
+a. | 3 kg/s of air enters the LP cylinder of a two-stage, reciprocating air compressor. The
+
+Q2 overall pressure ratio is 10. The air at inlet to compressor is at 100 kPa and 35°C. The
+CO-3: $O-1: index of compression in each cylinder is 1.3. Find the intercooler pressure for perfect | [10]
+
+BL-3 intercooling. Also, find the minimum power required for compression, and percentage
+
+saving over single-stage compression.
+
+CO-2; SO-7; | >. [10]
+BL-3 Illustrate with a neat sketch the working of a La-Mont boiler.
+
+7
+--- page 2 ---
+i
+
+A steam power plant operates on a theoretical reheat cycle. The steam from boiler at 150
+
+bar and 550°C expands through the high-pressure turbine. It is reheated at’ constant
+
+oes SO-1; pressure of 30 bar to 550°C and expands through the low-pressure turbine to a condenser | [10]
+BL-3 pressure of 0.1 bar. Draw T -s and h -s diagrams and find (a) Quality of steam at turbine
+exhaust, (b) Thermal efficiency of the cycle, (c) Steam rate in kg/kWh.
+A boiler generates 10 kg of steam per kg of fuel burnt at a pressure of 15 bar from feed
+CO-2: SO-1; water entering at 80°C. The boiler is 80 % efficient and its factor of evaporation is 1.15.
+-—_ Calculate (a) Degree of superheat and temperature of steam generated, (b) Calorific value | [10]
+of fuel in kJ/kg, (c) Equivalent evaporation in kg of steam per kg of fuel.
+Take specific heat of superheated steam as 2.3 kJ/kg K.
+rm,
+Through a convergent-divergent nozzle steam is entering at 2 MPa and 400°C with a
+Q4 negligible velocity and mass-flow rate of 3 kg/s and it exits at a pressure of 300 k Pa.
+ide BO]; The flow is isentropic between the nozzle entrance and throat and overall nozzle ~
+efficiency is 93 %. Determine (a) throat, and (b) exit areas.
+During trial of a single cylinder, 4 stroke oil engine the following results were obtained:
+Cylinder bore=200 mm, Stroke=400 mm, Mean effective pressure = 6 bar,
+Torque= 407 Nm, Speed=250 RPM, Oil consumption=4kg / hr, CV. of fuel=43 MJ/kg,
+CO-3:; SO-1; Cooling water rate=4.5kg/min, Air used per kg of fuel= 30 kg,
+7 Rise in cooling water temperature = 45°C, [10]
+Temperature of exhaust gases = 420°C, Room temp = 20°C,
+Mean specific heat of exhaust gases = 1kJ/kg K,
+Specific heat of water=4.18kJ/kg K, Barometric pressure=1.01325 bar i
+Find IP, BP and draw up heat balance sheet in kJ/hr.
+In a de- Laval turbine, steam issues from the nozzles with a velocity of 900 m/s. The nozzle
+angle is 20°. Mean blade velocity is 300 m/s and the blades are equiangular. The mass flow
+Q5 rate is 1500 kg / min. The fiction factor is 0.8. Determine :
+CO-:2 SO-1; 1. Blade angles [10]
+BL-4
+
+2. Axial thrust on the bearings
+3. Power developed in kW
+4. Blade efficiency
+--- page 3 ---
+CO-2; SO-7; b.
+
+BL3 Illustrate with a neat sketch the working of vapour compression refrigeration eycle. [10]
+Q6 a.
+CO-3; SO-7; Illustrate and explain working of 4-Stroke CI Engine with different working strokes. [10]
+BL-3
+b. | An ammonia refrigerator works on vapour compression refrigeration system between the
+pressure limits of 25 °C and -15°C. The working fluid is just dry at the end of compression
+and there is no under cooling of the liquid before expansion in the expansion valve.
+Determine 1. COP of the cycle 2. Capacity of the refrigerator if the fluid flow is at the rate
+CO-3; SO-1; . [10]
+of 10 kg / min.
+BL-3
+Temperature Enthalpy (kJ/kg) Entropy ( kJ / kg K)
+(°C) Liquid Vapour Liquid Vapour
+25 298.9 1465.84 1.1242 5.0391
+-15 112.34 1426.54 0.4572 5.5490
+Q7 Answer the following
+na BOT: | | eiahoeme valve timing diagram for 4 Stroke CI Engine. [6]
+CO-2; SO-7; b.
+Illustrate elements of a condensing plant. [6]
+BL-2
+CO-2; SO-7; c. .
+~_ Discuss the functions of fusible plug and economizer. [4]
+, CO-1; SO-7; d. Bailsfath : i J
+xplain the types of nozzles.
+BL2 p yp [4]
+````
+
+## 2023-24 · Re-Exam · Sem 5 · paper 3fef8944558f
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/APPLIED THERMODYNAMICS/Applied Thermodynamics, Re-exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/ 02/2024
+- Text: ocr (3 pages), mean OCR confidence 92.1
+
+````text
+SVKM’S NMIMS SSS TERS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+q
+
+Academic Year: 2023-2024 ‘
+Program: MBA.Tech. Year: IIT Semester: Vv
+Stream: Mechanical Engineering
+Subject: Applied Thermodynamics ; Time: 3 hrs (2.00 pm to 5.00 pm)
+
+Date: 13/ 02/2024 No. of Pages:03
+Marks: 100 ,
+
+Re-Exam (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+“ee
+
+Ql Answer briefly: [4x5=20]
+CO-1,3; a. Summarize the principle behind the intercooling process in multi-stage air
+SO-1; BL-2 compression.
+CO-2; b. Describe the difference between natural draft and mechanical draft cooling
+SO-1; BL-2 towers. :
+CO-2; é, Summarize the differences between fire-tube and water-tube boilers and
+© | so-1; BL-1 their respective adsantiges,
+CO-2; d. Recall the basic contponents of a convergent-divergent (CD) nozzle with
+SO-1; BL-1 sketch.
+CO-1; e. With a schematic diagram discuss LiBr-H2O vapour absorption
+SO-1; BL-2 refrigeration system.
+Q2 a. A single acting reciprocating air compressor has cylinder diameter and | [10]
+CO-1,3; stroke of 200 mm and 300 mm respectively. The compressor sucks air at 1
+80-1; BL-3 bar and 27°C and delivers at 8 bar while running at 100 r.p.m Calculate: 1.
+Indicated power of the compressor; 2. Mass of air delivered by the
+L compressor per minute; and 3. temperature of the delivered by the
+--- page 2 ---
+compressor. The compression follows the law PV!?5= C Take R as 287,J/kg
+K oe
+
+Q2 With the help of neat sketch explain the construction and working of a [10]
+CO-2; Cochran boiler.
+SO-1; BL-2
+Q3 In a two-stage air compressor, air undergoes compression from an initial | [10]
+CO-1,3; state of 1 bar and 25°C to a final state of 42 bar. Utilizing the compression
+80-1; BL-5 law PV1.35=constant and ensuring complete intercooling to 25°C,
+determine, per kilogram of air: (a) The work done during the compression
+process. (b) The quantity of water required to extract the heat in the
+intercooler, considering a temperature increase of 30°C in the cooling water.
+Q3 Dry saturated steam at 5 bar with 40 m/s velocity expands isentropically [10]
+CO-2; in a convergent nozzle to | bar and dryness fraction 0.90. Determine the
+80-7; BL-S velocity of steam leaving the nozzle.
+Q4 With the neat sketch explain the working-principle of Induced draught and | [10]
+CO-2; Forced draught systems.
+SO-1; BL-2
+Q4 The data pertaining to impulse turbine is as follows: steam velocity =500 | [10]
+CO-2; m/s, blade speed = 200 m/s, exit angle of moving blade = 25°, nozzle angle
+SO-1; BL-3 = 25° Neglecting the effect of friction when passing through the blade
+passages, calculate (i) inlet angle of moving blade (ii) exit velocity and «
+direction (iii) work done per kg of steam (iv) axial thrust and power for a
+steam flow rate of 5 kg/s and (v) diagram efficiency
+Q5 Classify and explain the condensers in detail with neat sketches. ' [10]
+CO-2;
+SO-1; BL-
+1,2
+Qs Explain the principle-operation of an air-conditioning. Also, Illustrate it in | [10]
+CO-3; detail according to the purpose.
+SO-1; BL-2
+Q6 In a trial of a single cylinder oil engine working on dual cycle, the following | [10]
+
+observations were made
+--- page 3 ---
+CO-1,3; Compression ratio = 15
+
+SO-6; BL-3 Oil consumption = 10.2 kg/h
+Calorific value of fuel = 43890 kJ/kg
+Air consumption = 3.8 kg/min
+Speed = 1900 r.p.m
+Torque on the brake drum= 186 N-m
+Quantity of cooling water used = 15.5 kg/min
+Temperature rise = 36°C
+Exhaust gas temperature = 410°C
+Room temperature = 20°C
+cp for exhaust gases = 1.17 kJ/kg-K
+Calculate: (i) Brake power,
+(ii) Brake specific fuel consumption and
+(iii) Brake thermal efficiency.
+
+Draw heat balance sheet on minute basis
+
+Q6 b A vapour compression refrigerator uses methyl chloride (R-40) and operates | [10]
+CO-1,3; between temperature limits of -10°C and 45°C. At entry to the compressor,
+80-1; BL-3 the refrigerant is dry saturated and after compression it acquires a
+
+temperature of 60°C. Find the C.O.P. of the refrigerator. The relevant
+
+properties of methyl chloride are as follows.
+
+TCC) hf (kJ/kg) hg (kJ/kg) sg (kJ/kg-K) | sf (kJ/kg-K)*
+
+-10 45.4 460.7 1.637 0.183
+
+45 133.0 483.6 1.587 0.485
+Q7 Write short notes on the following: [5 x 4=
+CO-1,2,3; a) Rankine cycle 20)
+
+$0-1; BL-2 b) Components of an I C engine
+
+c) Pressure- Velocity compounding of steam turbine
+
+d) Cryosurgery
+
+wee End of Paper******
+````
+
+## 2022-23 · Exam not stated · Sem 5 · paper d5b7aae4844b
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/APPLIED THERMODYNAMICS/Applied Thermodynamics.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 89.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023 = ee
+
+aaa ee
+
+Program:-M.B.A Tech Stream ;_ Mechanical Year: III Semester: Vv
+
+Subject: Applied Thermodynamics Time: 03 hrs (44!00amto 2:00pm)
+Date:_12/06 / 23 : No. of Pages:03
+
+Marks: 100
+
+Special Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+| > 3)Inall__5_ questions to be attempted.
+4) All questions carry equal marks.
+| 5) Answer to each new question to be started on a fresh page.
+| 6) Figures in brackets on the right hand side indicate full marks.
+| 7) Assume Suitable data if necessary.
+| 8) Use of steam table and Mollier Diagram is permitted.
+
+Ql
+
+Answer briefly: [20]
+CO-2 ; a.
+| SO-1; Describe working of vapour power cycle with neat diagram. [05]
+| BL-2
+CO-2 ; b.
+SO-1; Classify boilers in detail. [05]
+BL-2
+CO- 1,2; c. .
+> SO-1; Explain difference between impulse and reaction turbine. [05]
+BL-3
+“| CO-1,3; d. ;
+SO-1; Describe working of vapour compression refrigeration cycle. [05]
+BL-1
+| a. | A single acting reciprocating compressor with cylinder of 10 cm diameter
+Q2 and 15cm stroke has a clearance volume of 3% of swept volume. It takes in
+CO-3; air at | bar, 20°C and delivers at Sbar while running at 1000 rpm. The actual | [10]
+ae power input is 15kW. Estimate (a) Power required to drive the unit (b)
+Mechanical Efficiency.
+o b | Describe boiler mountings and accessories. Explain the working of any one [10]
+
+of each.
+
+face)
+--- page 2 ---
+CO-2;
+
+SO-1;
+BL-3
+
+Q3 a A steam turbine receives steam at 150 bar and 500°C. It is exhausted steam
+CO-2; at 1 bar. For the ideal Rankine cycle, calculate network, specific steam | [10]
+a consumption, cycle efficiency.
+
+Q3 b 0.05kg /s dry saturated steam at 14 bar enters in a nozzle and exhausted at
+3. 0.10 bar. Find the diameter at the exit of the nozzle and the quality of the | [10]
+BL-2 » | steam which is to be finally expanded as it leaves the nozzle.
+
+Q4 a
+OE With neat sketch describe working of any fire tube boiler. , [10]
+BL-2
+
+b | A refrigerator works between -6.7°C and 26.7°C the vapour being dry and
+saturated at the end of the compression. The liquid refrigerant is expanded
+through a throttle valve after leaving the condenser. Sketch the cycle on T-
+
+4 s and p-h diagram and determine refrigeration capacity in TR if the mass
+0-3; flow rate of a refrigerant is 10 kg/min and the COP of the system. Take the 110]
+SO-2; following properties:
+
+BLS Temperature Enthalpy (ki/kg) Entropy (ki/kg K)
+Liquid . Vapour Liquid Vapour
+-6.7°C 152.18 137.03 0.6016 5.4308
+~ 26.7°C 307.18 1467.03 1.1515 5.0203
+a . | Draft produced by chimney is 4 cm of water column. Temperature of flue
+
+Qs gas is 500°C and ambient temperature is 35°C. The flue gases formed per kg
+cO-2; of fuel burnt is 25 kg. Neglect the losses and take the diameter of the [10]
+SO-2; chimney as 2 m. Calculate:
+
+BLS 1. Height of chimney in m
+2. Mass of flue gasses flowing through the chimney in kg/ min
+
+Q5 b | In a De-Laval turbine steam issues from the nozzle with a velocity of 10]
+
+Soo 1000m/s. The nozzle angle is 20°C the mean blade velocity is 350 m/s and
+
+cy
+--- page 3 ---
+BL-3 the inlet and outlet angles of the blades are equal. The mass of steam flowing
+through the turbine per hour is 1500 kg.
+Calculate
+1. Blade angles
+2. Relative velocity of blade entering the blade
+3. Power developed
+4. Blade efficiency
+Take blade velocity- coefficient as 0.75.
+
+Q6 a. :
+
+e So Differentiate working of Spark Ignition and Compression Ignition engine. | [10]
+BL-2
+
+CO-3; b
+SO-1; Explain properties of an ideal refrigerant. ; [06]
+BL-2
+
+CO-3; c
+SO-1; Describe working of an air conditioner. [04]
+BL-2 ;
+
+Q7
+
+Answer the following
+
+CO-2; a.
+SO-1 ; Explain working of cooling towers. [06]
+BL-2 :
+
+©) CO-2; b.
+SO-1; Differentiate between velocity and pressure compounding. [06]
+_BL-2
+
+CO-1 ; ic.
+SO-1 ; Explain working of four stroke petrol engines. [08]
+BL-2
+
+€3)
 ````
 
 ## 2022-23 · Final-Exam · Sem 4 · paper 216b4a8072ee
@@ -2193,141 +2597,6 @@ oR KR RK End of Paper******
 [5 x 4= 20]
 ````
 
-## 2022-23 · Re-Exam · Sem 5 · paper 3fef8944558f
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/APPLIED THERMODYNAMICS/Applied Thermodynamics, Re-exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/ 02/2024
-- Text: ocr (3 pages), mean OCR confidence 92.1
-
-````text
-SVKM’S NMIMS SSS TERS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-q
-
-Academic Year: 2023-2024 ‘
-Program: MBA.Tech. Year: IIT Semester: Vv
-Stream: Mechanical Engineering
-Subject: Applied Thermodynamics ; Time: 3 hrs (2.00 pm to 5.00 pm)
-
-Date: 13/ 02/2024 No. of Pages:03
-Marks: 100 ,
-
-Re-Exam (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-“ee
-
-Ql Answer briefly: [4x5=20]
-CO-1,3; a. Summarize the principle behind the intercooling process in multi-stage air
-SO-1; BL-2 compression.
-CO-2; b. Describe the difference between natural draft and mechanical draft cooling
-SO-1; BL-2 towers. :
-CO-2; é, Summarize the differences between fire-tube and water-tube boilers and
-© | so-1; BL-1 their respective adsantiges,
-CO-2; d. Recall the basic contponents of a convergent-divergent (CD) nozzle with
-SO-1; BL-1 sketch.
-CO-1; e. With a schematic diagram discuss LiBr-H2O vapour absorption
-SO-1; BL-2 refrigeration system.
-Q2 a. A single acting reciprocating air compressor has cylinder diameter and | [10]
-CO-1,3; stroke of 200 mm and 300 mm respectively. The compressor sucks air at 1
-80-1; BL-3 bar and 27°C and delivers at 8 bar while running at 100 r.p.m Calculate: 1.
-Indicated power of the compressor; 2. Mass of air delivered by the
-L compressor per minute; and 3. temperature of the delivered by the
---- page 2 ---
-compressor. The compression follows the law PV!?5= C Take R as 287,J/kg
-K oe
-
-Q2 With the help of neat sketch explain the construction and working of a [10]
-CO-2; Cochran boiler.
-SO-1; BL-2
-Q3 In a two-stage air compressor, air undergoes compression from an initial | [10]
-CO-1,3; state of 1 bar and 25°C to a final state of 42 bar. Utilizing the compression
-80-1; BL-5 law PV1.35=constant and ensuring complete intercooling to 25°C,
-determine, per kilogram of air: (a) The work done during the compression
-process. (b) The quantity of water required to extract the heat in the
-intercooler, considering a temperature increase of 30°C in the cooling water.
-Q3 Dry saturated steam at 5 bar with 40 m/s velocity expands isentropically [10]
-CO-2; in a convergent nozzle to | bar and dryness fraction 0.90. Determine the
-80-7; BL-S velocity of steam leaving the nozzle.
-Q4 With the neat sketch explain the working-principle of Induced draught and | [10]
-CO-2; Forced draught systems.
-SO-1; BL-2
-Q4 The data pertaining to impulse turbine is as follows: steam velocity =500 | [10]
-CO-2; m/s, blade speed = 200 m/s, exit angle of moving blade = 25°, nozzle angle
-SO-1; BL-3 = 25° Neglecting the effect of friction when passing through the blade
-passages, calculate (i) inlet angle of moving blade (ii) exit velocity and «
-direction (iii) work done per kg of steam (iv) axial thrust and power for a
-steam flow rate of 5 kg/s and (v) diagram efficiency
-Q5 Classify and explain the condensers in detail with neat sketches. ' [10]
-CO-2;
-SO-1; BL-
-1,2
-Qs Explain the principle-operation of an air-conditioning. Also, Illustrate it in | [10]
-CO-3; detail according to the purpose.
-SO-1; BL-2
-Q6 In a trial of a single cylinder oil engine working on dual cycle, the following | [10]
-
-observations were made
---- page 3 ---
-CO-1,3; Compression ratio = 15
-
-SO-6; BL-3 Oil consumption = 10.2 kg/h
-Calorific value of fuel = 43890 kJ/kg
-Air consumption = 3.8 kg/min
-Speed = 1900 r.p.m
-Torque on the brake drum= 186 N-m
-Quantity of cooling water used = 15.5 kg/min
-Temperature rise = 36°C
-Exhaust gas temperature = 410°C
-Room temperature = 20°C
-cp for exhaust gases = 1.17 kJ/kg-K
-Calculate: (i) Brake power,
-(ii) Brake specific fuel consumption and
-(iii) Brake thermal efficiency.
-
-Draw heat balance sheet on minute basis
-
-Q6 b A vapour compression refrigerator uses methyl chloride (R-40) and operates | [10]
-CO-1,3; between temperature limits of -10°C and 45°C. At entry to the compressor,
-80-1; BL-3 the refrigerant is dry saturated and after compression it acquires a
-
-temperature of 60°C. Find the C.O.P. of the refrigerator. The relevant
-
-properties of methyl chloride are as follows.
-
-TCC) hf (kJ/kg) hg (kJ/kg) sg (kJ/kg-K) | sf (kJ/kg-K)*
-
--10 45.4 460.7 1.637 0.183
-
-45 133.0 483.6 1.587 0.485
-Q7 Write short notes on the following: [5 x 4=
-CO-1,2,3; a) Rankine cycle 20)
-
-$0-1; BL-2 b) Components of an I C engine
-
-c) Pressure- Velocity compounding of steam turbine
-
-d) Cryosurgery
-
-wee End of Paper******
-````
-
 ## 2022-23 · Re-Exam · Sem 5 · paper 86ec98d9f8aa
 
 - Departments: Mechanical
@@ -2780,13 +3049,14 @@ density as 13600 kg/m?, g = 9.81 m/s?.
 =
 ````
 
-## 2012-13 · Re-Exam · Trim 4 · paper b6d701f1bef9
+## 2014-15 · Re-Exam · Trim 4 · paper b6d701f1bef9
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/APPLIED THEMODYNAMICS/APPLIED THERMODYNAMICS BATCH 2012-13 RE EXAM0001(2).pdf`
 - Printed on paper: max marks: 100; exam date: 10/12/2014
 - Text: ocr (19 pages), mean OCR confidence 80.6
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . : SVKM’s NMIMS
@@ -2919,7 +3189,6 @@ Saturatéd Water and Steam (Temperature) Tables
 “Temp. Absolute Specific enthalpy Specific entropy Specific volume
 | (°C) | pressure (RI Ig). (hI kg K) (m3 /kg)
 (bar) .
-é P vi Neg hg Sp fe Ss uf Ys
 
 O -| 0.0061: |-0.02 2501.4 2501.3 |- 0.0001 9.1566 © 9.1565 0.0010002 206.3
 0.01 | 0.0061 0.01 2501.3 2501.4 0.000 9.156 9.156 0.0010002 206.2
@@ -2975,7 +3244,6 @@ Temp. | Absolute Specific enthalpy Specific entropy Specific volume
 (°C) | pressure (kJ/kg) (kJ/kg K) (m3 /kg)
 (bar)
 
-7 P i hey hy Sf Ste Sg UF 2
 36 0.0595 150.9 2416.2 2567.1 0.519 7.815 8.334 0.001006 23.94
 37 0.0628 155.0 2413.9 2568.9 0.532 7.182 8.314 0.001007 22.74
 38 0.0663 159.2 2411.5 2570.7 0.546 7.749 8.295 0.001007 21.60
@@ -3025,7 +3293,6 @@ Saturated Water and Steam (Pressure) Tables
 Absolute: |-Temp..| °°. Specific enthalpy :-~ +; : Specific entropy = Specific volume
 ~pressure .|..(°C)-- | - (kJ/kg) (kJ/kg K) (m3 /kg)
 (bar) :
-Pp t Ay Aig he Sf Sie 8, % Xe
 
 0.006113) 0.01 0.04. 2501.3 2 5014 0.000 9.156 9.156 |0.0010002 206.14
 0.010 7.0 29.3 2484.9. 2514.2 0.106 8.870 8.976 |0.0010000 129.21
@@ -3076,7 +3343,6 @@ Absoli ute | Temp. Specific enthalpy . Specific entropy Sp
 ecific volume
 pressure Cc) kd lkg) (kJ/kg K) (m3/kg)
 (bar) ; . i
-P hy a hy Sp —.—- Sy Sg an vg ss
 ee {a anwens 3—— : es
 0.25 65.0 272.0 2 346.4 2618.3 0.893 2 6.939 1 7.832 3 0.001020 6.205 :
 0.26 65.9 275.7 2 344.2 2619.9 0.904 1 6.9147 78188 0.001020 5.980
@@ -3290,7 +3556,6 @@ iia _ THERMAL ENGINEERING | | N
 [ Adsotute | Temp. Specific enthalpy Specific entropy i Specific volume £
 pressure | (°C) (ho Ihg) (hed Ig K) (m3/kg) :
 (bar) 4
-Pp t, hy hig hy S Sig Sy U, Ug q
 4a
 9.0 175.4 742.6 2 029.5 2772.1 2.094 1 4.5250 6.6192 0.001121 0.215 5
 9.2 176.3 746.8 2 026.2 2773.0 2.103 3 4.508 3 6.6116 0.001123 0.210 ®
@@ -3393,7 +3658,6 @@ THERMAL ENGINEERING | ‘
 Absolute | Temp. Specific enthalpy Specific entropy Specific volume | ‘
 pressure (°C) (kJ/kg) (kJ/kg K) (m3 /kg) z
 (bar) : j
-P t, hy Neg Ng Sf Sie Sg UF Ug :
 55.0 269.9 | 1 184.9 1 605.0 2 789.9 2.975 7 2.955 2 5.9309 0.001302 0.0356 i
 56.0 271.1 | 1 190.8 1 598.2 2789.0 2.986 3 2.936 4 5.9227 0.001306 0.0349 H
 57.0 272.2 |1 196.6 1591.4 2 788.0 2.996 7 2.9179 5.9146 0.001309 0.0343 :
@@ -3546,7 +3810,6 @@ TABLE [it
 Superheated Steam at Various Pressures and Temperatures
 
 t,(°C) 50°}, 100...) 150° 200 ; 250 300 |. 400 500
-oo - F ca Aen BM a
 
 -p | 149.1 172.2 195.3 218.4 241.5 264.5 310:7 356.8
 
@@ -3768,7 +4031,6 @@ s 4.810 5.407 5.811 6.066 6.269 6.444 6.745 i
 --- page 19 ---
 —_ Specific entropy (s) fk kg K-74}...
 4.2 oA 6.6 68 7.0 72 14 16 ke £0
-q T i T 7 | Y
 i : H woe ae
 IIL Of MF
 PT ff
@@ -3804,154 +4066,7 @@ bo |
 Mollier Diagram for Steam
 ````
 
-## 2012-13 · Re-Exam · Trim 4 · paper 33f126b97b0c
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/APPLIED THEMODYNAMICS/APPLIED THERMODYNAMICS BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 9/12/2013
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-SVKM’s NMIMS & bs
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ‘3
-8
-
-Programme:MBA Tech (MECHANICAL) Year: I Trimester: ly,
-
-Academic Year: 2013-14 Batch:2012-13
-
-Subject : Applied Thermodynamics
-Marks: 100
-Date :9/12/2013 Time : 2.00pm - 5.00pm
-Durations:3 (hrs)
-Re-Examination
-
-NB:
-1. Question No. 1 is compulsory
-2. Out of remaining questions attempt any four questions.
-3. Inall five questions to be attempted.
-4. Assume suitable data, if necessary.
-
-Q.1 a Attempt the following (Any five) 20
-i) Define PMM I and PMM II
-ii) State Zeroth law of Thermodynamics and its significance.
-
-iii) | (COP)yp =(COP)g +1
-iv) Explain Quasi-static process
-v) State and explain principle of increase of entropy
-vi) Define partial pressure and Mole fraction
-Q.2 a Derive Steady flow energy equation on time basis and state assumptions made. Also 10
-apply SFEE to nozzle.
-
-b In a gas turbine unit, the gases flow through the turbine is 15 kg/s and the power 10
-developed by the turbine is 12000 kW. The enthalpies of gases at the inlet and outlet are
-1260 kJ/kg and 400 kJ/kg respectively and the velocity of gases at the inlet and outlet are
-50 m/s and 110 m/s respectively. Calculate
-(i) The rate at which heat is rejected to the turbine, and
-(ii) The area of the inlet pipe given that the specific volume of the gases at
-
-the inlet is 0.45 m*/kg.
-
-Q.3 a State Kelvin-Plank and Clausius statement of second law of thermodynamics 04
-b 90 kJ of heat is supplied to a system at a constant volume. The system rejects 95 kJ of 08
-heat at constant pressure and 18 kJ of work is done on it. The system is brought to
-
-original state by adiabatic process. Determine :
-(i) The adiabatic work ;
-(ii) The values of internal energy at all end states if initial value is 105 kJ.
-
-c A reversible heat engine operates between two reservoirs at temperatures 700°C and 08
-50°C. The engine drives a reversible refrigerator which operates between reservoirs at
-temperatures of 50°C and — 25°C. The heat transfer to the engine is 2500 kJ and the net
-work output of the combined engine refrigerator plant is 400 kJ. Determine
-
-i) the heat transfer to the refrigerant and
-ii) the net heat transfer to the reservoir at 50°C
-
-io
---- page 2 ---
-Q4 a
-
-Q5 a
-
-Q6 a
-
-Q7 a
-
-Derive an expression for efficiency of carnot cycle. Also state the reason for
-impracticability of carnot cycle.
-
-A 50 Kg of block of iron casting at 500 K is thrown in to large lake, which is at a
-temperature of 285 K. After iron block reaches thermal equilibrium with the lake water.
-Take Cp of iron block as 0.45 KJ/KgK. Determine i) Entropy change for iron block ii)
-Entropy change for lake water iii) The total entropy change during the process.
-
-Compare Otto, Diesel and Dual cycle with P-V and T-S diagram.
-
-Calculate the percentage loss in the ideal efficiency of a diesel engine with compression
-ratio 14 if the fuel cut-off is delayed from 5% to 8%.
-
-In an Otto cycle, the temperatures at the beginning and at the end of compression process
-are 43°C and 323°C respectively. Determine the air standard efficiency and compression
-ratio. Take y = 1.4.
-
-Explain the following terms relating to steam formation
-
-(i) Sensible heat of water, (ii) Latent heat of steam, (iii) Dryness fraction of steam, (iv)
-Enthalpy of wet steam, and (v) Saturation temperature.
-
-10 kg of wet saturated steam at 15 bar pressure is superheated to the temperature of
-290°C at constant pressure. Find the heat required and the total heat of steam. Dryness
-fraction of steam is 0.85. Relevant steam table extract is given below.
-
-Absolute Saturation Specific enthalpy kJ/kg
-pressure (P) temperature (t) Water Latent heat
-(bar) °C (nf) (hfg)
-
-15 198.3 844.6 1947
-
-State and explain Dalton’s law of partial pressure.
-
-State and Prove clausius inequality
-
-A Rankine cycle operates between pressures of 80 bar and 0.1 bar. The maximum cycle
-temperature is 600°C. If the steam turbine and condensate pump efficiencies are 0.9 and
-
-0.8 respectively, calculate the specific work and thermal efficiency. Relevant steam table
-extract is given below.
-
-p(bar) | t(°C) | Specific volume Specific enthalpy Specific entropy (kJ/kg
-(m3/kg) (kJ/kg) K)
-vf vg hf hfg hg sf Sfg Sg
-
-0.1 | 45.84 | 0,00101 | 14.680 | 191.9 | 2392.3 | 2584.2 | 0.6488 7.5006 | 8.1494
-
-80__| 296.1 | 0.00138 | 0.0235 | 1317 | 1440.5 | 2757.5 | 3.2073 | 2.5351 5.7424
-
-SEES a
-
-XL] 2.
-
-10
-
-10
-
-08
-06
-
-06
-
-10
-
-10
-
-04
-08
-08
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper 8058f09e5eb5
+## 2014-15 · Re-Exam · Trim 4 · paper 8058f09e5eb5
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -4140,6 +4255,403 @@ steam considering linear variation of specific volume.
 08
 ````
 
+## 2013-14 · Re-Exam · Trim 4 · paper 33f126b97b0c
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/APPLIED THEMODYNAMICS/APPLIED THERMODYNAMICS BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 9/12/2013
+- Text: ocr (2 pages), mean OCR confidence 93.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS & bs
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ‘3
+8
+
+Programme:MBA Tech (MECHANICAL) Year: I Trimester: ly,
+
+Academic Year: 2013-14 Batch:2012-13
+
+Subject : Applied Thermodynamics
+Marks: 100
+Date :9/12/2013 Time : 2.00pm - 5.00pm
+Durations:3 (hrs)
+Re-Examination
+
+NB:
+1. Question No. 1 is compulsory
+2. Out of remaining questions attempt any four questions.
+3. Inall five questions to be attempted.
+4. Assume suitable data, if necessary.
+
+Q.1 a Attempt the following (Any five) 20
+i) Define PMM I and PMM II
+ii) State Zeroth law of Thermodynamics and its significance.
+
+iii) | (COP)yp =(COP)g +1
+iv) Explain Quasi-static process
+v) State and explain principle of increase of entropy
+vi) Define partial pressure and Mole fraction
+Q.2 a Derive Steady flow energy equation on time basis and state assumptions made. Also 10
+apply SFEE to nozzle.
+
+b In a gas turbine unit, the gases flow through the turbine is 15 kg/s and the power 10
+developed by the turbine is 12000 kW. The enthalpies of gases at the inlet and outlet are
+1260 kJ/kg and 400 kJ/kg respectively and the velocity of gases at the inlet and outlet are
+50 m/s and 110 m/s respectively. Calculate
+(i) The rate at which heat is rejected to the turbine, and
+(ii) The area of the inlet pipe given that the specific volume of the gases at
+
+the inlet is 0.45 m*/kg.
+
+Q.3 a State Kelvin-Plank and Clausius statement of second law of thermodynamics 04
+b 90 kJ of heat is supplied to a system at a constant volume. The system rejects 95 kJ of 08
+heat at constant pressure and 18 kJ of work is done on it. The system is brought to
+
+original state by adiabatic process. Determine :
+(i) The adiabatic work ;
+(ii) The values of internal energy at all end states if initial value is 105 kJ.
+
+c A reversible heat engine operates between two reservoirs at temperatures 700°C and 08
+50°C. The engine drives a reversible refrigerator which operates between reservoirs at
+temperatures of 50°C and — 25°C. The heat transfer to the engine is 2500 kJ and the net
+work output of the combined engine refrigerator plant is 400 kJ. Determine
+
+i) the heat transfer to the refrigerant and
+ii) the net heat transfer to the reservoir at 50°C
+
+io
+--- page 2 ---
+Q4 a
+
+Q5 a
+
+Q6 a
+
+Q7 a
+
+Derive an expression for efficiency of carnot cycle. Also state the reason for
+impracticability of carnot cycle.
+
+A 50 Kg of block of iron casting at 500 K is thrown in to large lake, which is at a
+temperature of 285 K. After iron block reaches thermal equilibrium with the lake water.
+Take Cp of iron block as 0.45 KJ/KgK. Determine i) Entropy change for iron block ii)
+Entropy change for lake water iii) The total entropy change during the process.
+
+Compare Otto, Diesel and Dual cycle with P-V and T-S diagram.
+
+Calculate the percentage loss in the ideal efficiency of a diesel engine with compression
+ratio 14 if the fuel cut-off is delayed from 5% to 8%.
+
+In an Otto cycle, the temperatures at the beginning and at the end of compression process
+are 43°C and 323°C respectively. Determine the air standard efficiency and compression
+ratio. Take y = 1.4.
+
+Explain the following terms relating to steam formation
+
+(i) Sensible heat of water, (ii) Latent heat of steam, (iii) Dryness fraction of steam, (iv)
+Enthalpy of wet steam, and (v) Saturation temperature.
+
+10 kg of wet saturated steam at 15 bar pressure is superheated to the temperature of
+290°C at constant pressure. Find the heat required and the total heat of steam. Dryness
+fraction of steam is 0.85. Relevant steam table extract is given below.
+
+Absolute Saturation Specific enthalpy kJ/kg
+pressure (P) temperature (t) Water Latent heat
+(bar) °C (nf) (hfg)
+
+15 198.3 844.6 1947
+
+State and explain Dalton’s law of partial pressure.
+
+State and Prove clausius inequality
+
+A Rankine cycle operates between pressures of 80 bar and 0.1 bar. The maximum cycle
+temperature is 600°C. If the steam turbine and condensate pump efficiencies are 0.9 and
+
+0.8 respectively, calculate the specific work and thermal efficiency. Relevant steam table
+extract is given below.
+
+p(bar) | t(°C) | Specific volume Specific enthalpy Specific entropy (kJ/kg
+(m3/kg) (kJ/kg) K)
+
+0.1 | 45.84 | 0,00101 | 14.680 | 191.9 | 2392.3 | 2584.2 | 0.6488 7.5006 | 8.1494
+
+80__| 296.1 | 0.00138 | 0.0235 | 1317 | 1440.5 | 2757.5 | 3.2073 | 2.5351 5.7424
+
+SEES a
+
+XL] 2.
+
+10
+
+10
+
+08
+06
+
+06
+
+10
+
+10
+
+04
+08
+08
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper 02cb3b6ca358
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/APPLIED THEMODYNAMICS/scan0034(3).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
+- Text: ocr (4 pages), mean OCR confidence 84.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (Tech) -MECH Year: II Trimester: IV
+Academic Year : 2012-2013
+
+<i5 SCH
+
+Lg fo NR fe)
+Subject: APPLIED THERMODYNAMICS Marks: 100 is Pn
+. Time: 2.00 p.m ffoS(OONpeM = University Lyd
+Date: 26/10/2012 Duration: 3 hrdj# Mum - 56, 2
+
+A Pa if LiBAaRY
+Final - Examination y
+
+\
+\
+
+J
+ON Ne AF
+Mawagene®
+
+1. Question No. 1 is compulsory
+
+2. Out of remaining question attempt any four question
+3. In all five questions to be attempted.
+
+4. Steam table, Gas tables are permitted..
+
+Q.1 Answer any five of the following. 20
+a) State the Zeroth law of thermodynamics. What is its significance?
+b) Define point function and path function with example
+c) Define i) Reversible and irreversible process
+ii) Intensive and Extensive properties
+d) What is quasi-static process? State its significance.
+f) Show (COP)yp = 1 + (COP)g
+g) State and explain the principle of increase of entropy
+i) What is cut-off ratio? How does it effect the thermal efficiency of Diesel cycle?
+Q.2 a) Derive steady flow energy equation. State the assumption made. 04
+{ b) One kg of nitrogen at a temperature of 150°C occupies a volume of 0.2 m°.The gas 08
+; undergoes fully restricted constant-pressure expansion without friction to a final
+volume of 0.36 m?.Calculate the final temperature, work done, heat transferred and
+change in entropy. Take Cp= 0.743 KJ/KgK, R=0.297 KJ/KgK
+4 c) In a gas turbine the gas enters at the rate of 5 kg/s with a velocity of 50 m/s and 08
+} enthalpy of 900 KJ/Kg and leaves the turbine with a velocity of 150 m/s and enthalpy
+400 KJ/Kg. The loss of heat from the gases to the surrounding is 25 KJ/Kg..The inlet
+condition to be 100 KPa and 27°C.Determine the power output of the turbine and
+diameter of the pipe Assume for gas R= 0.285 KJ/KgK and Cp = 1.004 KJ/KgK
+Q.3 a) State Kelvin- plank and clausis statement of second law of thermodynamics. Also - 07
+prove equivalence of these statements
+b) A heat pump is used to maintain an auditorium at 25°C, when the atmospheric 07
+temperature is 10 °C.The heat load of the hall is 1500 KJ/min.Calculate the power
+required to run the heat pump. If its COP is 30 % of the carnot heat pump working
+between the same temperatures. >
+. c) ASO kg of block iron casting at 500 K is thrown in to large lake which is at a 06
+q ) temperature of 285 K .After the iron block reaches thermal equilibrium with the lake
+water. Take Cp of iron block as 0.4 KJ/KgK. Determine
+a) Entropy change for iron block
+b) Entropy change of the lake water
+c) The total e3ntropy change during the process.
+Q.4 a) State and prove the Carnot theorem 08
+b) State and explain Daltons law of partial pressure 04
+
+A
+--- page 2 ---
+Q.5
+
+Q.6
+
+Q.7
+
+a)
+
+b)
+
+a)
+
+b)
+c)
+
+a)
+
+b)
+
+300 Kg of fish is to be frozen at -2 °C.The specific heat of fish above freezing point is
+4.187 KJ/KgK and the latent heat of fusion is 234.5 KJ/Kg..The freezing point is -2
+°C.A refrigerator is used for this purpose which rejects the heat in ambient at 40
+°C.The COP of the refrigerator is 60 % of COP of the carnot refrigerator operating
+between between the same temperature limit. How much power must be required to
+remove the heat in 10 hrs?
+
+Compare Otto, Diesel and Dual cycle for same compression ratio and same heat
+supply with the help of P-V and T-S diagram.
+
+The compression and expansion ratio of an oil engine working on air standard dual cycle are
+9 and 5 respectively. The initial temperature and pressure are 1 bar and 30 °C respectively.
+The heat librated at constant pressure is twice the heat librated at constant volume.
+The expansion and compression follows the law PV'*°= C. Determine
+
+i) Pressure and temperature at all the salient point in the cycle
+
+ii) The mean effective pressure in the cycle
+
+iii) Thermal efficiency of the cycle
+
+iv) Power developed of the engine. If eight cycles complete in one second.
+
+Take cylinder bore = 250 mm and stroke = 400 mm
+
+Why carnot cycle cannot be considered as theoretical cycle for steam power plant even though
+its efficiency is maximum ?
+State and explain methods to improve efficiency of the rankine cycle and their limitations.
+In a steam power plant, steam at inlet to the turbine is 40 bar, 400°C and condenser
+pressure is 0.08 bar absolute. If the turbine and pump work with 80% mechanical
+efficiency each, Calculate
+
+a) Cycle efficiency b) Work ratio c) Specific steam consumption.
+Define i) Saturation temperature ii) Saturation pressure iii) Wet steam iv) Quality of
+steam v) Subcooled liquid vi) Degree of super heat
+5 Kg of steam is throttled from 10 bar initial pressure to 0.5 bar final pressure. The
+temperature at the final state is 107°C. Find the following for the initial state.
+
+a) Dryness fraction b) Specific entropy c) Specific volume
+
+08
+
+08
+
+12
+
+04
+
+06
+10
+
+12
+
+08
+--- page 3 ---
+Thermal Engineering
+
+Table Properties of Saturated Water (Liquid vapour): Pressure Table
+: Table A.
+Specific Volume | Internal Energy Enthalpy Entropy
+ml/kg ki/kg ki/kg kI/kg-K
+Sat. Sat. Sat. Sat. Sat. Sat. Evap. ‘Sat. Sat. Sat.
+Press. | Temp. | Liquid. |’ Vapour | Liquid | Vapour | Liquid Vapour | Liquid | Vapour |. Press.
+0.04 | 28.96 1.0040 | 34.800 - 121.45 | 2415.2 121.46 2432.9 | 2554.4 0.4226 | 8.4746
+0.06 36.16 1.0064 | 23.739 151,53 | 2425.0 15:53 2415.9" | 2567.4: | 0.5210 | 8.3304
+
+0.08] 41.51 1.0084 | 18.103" 173.87 | 2432.2 173.88 | 2403.1 | 2577.0 | 0.5926 | 8.2287
+0.10 | 45.81 1.0102 | 14.674 181.82 | 2437.9 191.83 | 2392.8 |-2584.7-| 0.6493 | 8.1502
+
+0.20 | 60.06 | 1.0172 | 7.649 251.38 | 2456.7 | 251.40 | 2358.3 | .26¢9.7 | 0.8320 | 7.9085
+0.30 | 69.10 | 1.0223 | 5.229 289.20 | 2468.4 | 289.23 | 2336.1 | 2625.3 | 0.9439 | 7.7686
+0.40.| 75.87 | 1.0265 | 3.993 317.53 | 2477.0 | 317.58 | 2319.2 | 2636.8 | 1.0259 | 7.6700
+0.50 | 81.33 |» 1.0300 | 3.240 340.44 | 2483.9 | ~ 340.49') 2305.4 | 2645.9 | 1.0910 | 7.5939
+0.60 | 85.94 | 1.0331 | 2.732 359.79 | 2489.6 | 359.86 | 2293.6 | 2653.5 | 1.1453 | 7.5320
+0.70 | 89.95 | 1.0360 | 2.365 376.63 | 2494.5 | 376.70 |. 2283.3 |. 2660.0 | 1.1919 | 7.4797
+0.8¢.| 93.50 | ‘1.0380 } 2.087 391.58 | 24988 | 391.66.) 2274.1 }:2665.8 | 1.2329 | 7.4346
+0.90'| 96.71 | ‘t.0410 | 1.869. | 405.06 | 2502.6 | 405.15 |: 2265.7. |°2670.9 | 1.2695 | 7.3949
+1.00'| 99.63 | 1.0432 | 1.694 417.36 | 2506.1 | 417.46 |» 2258.0) 2675.5 | 1.3026 | 7.3594
+1.50 | 1114 [1.0528 | 1.159 466.94! 2519.7 | 467.11 |~-2226.5 |'2693.6 | 1.4336 | 7.2233
+
+-2.00°] 120.2 1.0605 |-0.8857 .| 504.49] 2529.5 | 504.70 |. 2201.9. | 2706.7 | 1.5301 | 7.1271
+2.50°| 127.4 1.0672 | ‘0.7187 | 535.10 | 2537.2 |°.535.37/| ‘2181.5 |-2716.9 | 1.6072 | 7.0527
+3.00 | 133.6 1.0732 |'0.6058 | 561.15 | 2543.6 | ‘561.47'|' :2163.8°|' 2725.3 | 1.6718 | 6.9919
+3.50 | 138.9 1.0786] 0.5243 | 583.95] 2546.9 | 584.33-} 2148.1':|2732.4 | 1.7275 | 6.9405
+400°] 143.6 | 1.0836 ‘| ‘0.4625 | 604.31 | 2553.6 | °.604.74:| 2133.8 -|-2738.6 | 1.7766 | 6.8959
+4.50'| 147.9 1.0882 |°0.4140 .| 622.25 | 2557.6 | 623.25.| 2120.7. | 2743.9 | 1.8207 | 6.8565
+5.00 | 151.9 1.0926 | 0.3749 | 639.68 | 2561.2 | 640.23'| 2108.5 | 2748.7 | 1.8607 | 6.8212
+6.00'} 158.9 1.1006 | 03157 | 669.90 | 2567.4 | 670.56 | 2086.3: | 2756.8 | 1.9312 | 6.7600
+7.00 | 165.0 1.1080} 0.2729 - | 696.44 | 2572.5 | 697.22 | 2066.3 | 2763.5 | 1.9922 | 6.7080
+8.00°| 170.4 1.1148°| 0.2404 | 720.22 | 2576.8 | 721.11.| 2048.0. | 2769.1 | 2.0462 | 6.6628
+9.00 | 175.4 1.1212°| 0.2150. | 741.83 | 2580.5 | 742.83 | 2031.1.|-2773.9 | 2.0946 | 6.6226
+
+, 10.0 "| 179.9 11273 | 0.1944 | 761.68 | 2583.6 | 762.81 |. 2015.3°} 2778.1 | 2.1387 | 6.5863
+
+ath 198.3 | 1.1539 | 0.4318. | 843.16 | 2594.5 | 844.84 |. 19473 2792.2 | 2.3150 | 6.4448
+20.0. | 212.4 1.1767} 0.09963 | 906.44 | 2600.3. |. 908.79 |. 1890.7 | 2799.5] 2.4474 | 6.3409
+25.0. | 224.0 | 1.1983 | 0.07998: | —959-11-|: 2603.1." 962.11-:|'°1841.0 |-2803.1 | 2.5547 | 6.2575
+30.0. | 233.9 12165: g | 1004.8 | 2604.1 | 1008.4 | 2804.2 | 2.6457 | 6.1869
+35.0 | 242.6 | 1.2347. 1045.4 | 2603.7 | 1049.8 4.| 2.7253 | 6.1253
+40.0 | 2504 |- 1.2522" 1082.3. | 2602.3 |. 1087.3 -| 28014 | 2.7964 | 6.0701
+45.0. | 257.5 1.2692 | 0.04406 | 1116.2 | 2600.1 | 1121.9 5.4} 27983 | 2.8610 | 6.0199 0
+50.0. | 264.0 1.2859 | 0.03944 | 1147.8 | 2597.1 | 1154.2 | 1640.1° |/2794.3 | 2.9202 | 5.9734 |. 50.0
+
+} Contd.
+
+“1
+--- page 4 ---
+Thermal Engineering
+
+Table Contd. Foy sup erheated Steam * Table A.14
+ce m/kg kilkg kilkg | ki/kg- K m/kg ki/kg kkg | ki/kg-K °E
+p = 40 bar = 4.0 MPa p = 60 bar = 6.0 MPa
+(Tsat = 250.4°C) (Tsat = 275.64°C)
+Sat. 0.04978 | 2602.3 2801.4 6.0701 0.03244 | 2589.7 2784.3 5.8892 Sat.
+280 0.05546. |. 2680.0 2901,8 6.2568 0.03317 | 2605.2 2804.2 5.9252 360.
+320 0.06199 | 2767.4 3015.4 6.4553 * 0.03876 } 2720.0 2952.6 6.1846 - “400
+360 0.06788 | 2845.7 3117.2 6.6215 0.04331 2811.2 3071.1 6.3782 “440
+400. 0.07341 2919.9 3213.3 6.7690 0.04793 | 2892.9 -| 3177.2 6.5408 480
+440 0.07872 | 2992.2 3307.1 6.9041 0.05122 | 2970.0 3277.3 6.6853 520
+500 0.08643 | 3099.5 3445.3 7.0901 0.05665 3982.2 3422.2 6.8803 560
+540: 0.09145 3171.1 3536.9 7.2056 0.06015 | 3156.1 3517.0 6.9999 600.
+600 0.09885 | © 3279.1 3674.4 | -7.3688 0.06525 | 3266.9 3658.4 7.1677 640
+640 0.1037 3351.8 3766.6 74720 0.06859 | 3341.0 3752.6 7.2731 700
+700 0.1110 3462.1 3905.9 7.6198 0.07352 | 3453.1 3894.1 7.4234 740
+740. 0.1157 3536.6 3999.6 |. 7.7141 0.07677 | 3528.3 3989.2 7.5190
+p = 80 bar = 8.0 MPa p = 100 bar = 10.0 MPa
+. (Tsat = 295.06°C) (Tsar = 311.06°C)
+Sat: 0.02352 | 2569.8 2758.0 5.7432 0.01803 | 2544.4 2724.7 5.6141
+°320 0.02682 | 2662.7 2877.2 | 5.9489 0.01925 |» 2588.8 2781.3 5.7103
+360 0.03089 2772.7 3019.8 6.1819: 0.02331 2729.1 2962.1 6.0060
+400 0.03432 | 2863.8 3138.3 6.3634 0.02641 2832.4 3096.5 §.2120
+440... 0.03742 | 2946.7 3246.1 6.5190 0.02911 | 2922.1 3213.2 6.3805
+- 480 0.04034 |. 3025.7 3348.4 | 6.6586 0.03160 | 3005.4 3321.4 6.5282
+$20 0.04313 3102.7 3447.7 6.7871 0.03394 | 3085.6 3425.1 6.6622
+560 0.04582 | 3178.7 3545.3 6.9072 0.03619 | 3164.1 3526.0 | 6.7864
+; 600. 0.04845 | 3254.4 3642.0 7.0206 0.03837 | 3241.7 3625.3 6.9029
+~ 640 0.05102 | 3330.1 3738.3 7.1283 0.04048 | 3318.9 3723.7 7.0131
+700 0.05481 3443.9 3882.4 7.2812 0.04358 | 3434.7 3870.5 7.1687
+740° 0.05729 | 3520.4 3978.7 7.3782 0.04560 | 3512.4 3968.1 7.2670
+} p = 120 bar = 12.0 MPa p = 140 bar = 14.0 MPa
+(Tsat = 324.75°C) (Tsat = 336.75°C)
+0.01426 |. 2513.7 2684.9 | 5.4924. 0.01149 | 2476.8 | 2637.61 | 5.3717
+0.01811 2678.4 2895.7 5.8361 0.01422 | 2617.4 | 2816.5 5.6602
+0.02108 | 2798.3 3051.3 6.0747 0.01722 |. 2760.9 | 3001.9 5.9448
+0.02355 |. 2896.1 3178.7 6.2586 0.01954 | 2868.6. | 3142.2 6.1474
+0.02576 | 2984.4 3293.5 6.4154, 0.02157 | 2962.5 | 3264.5 6.3143:
+0.02781 3068.0 3401.8 6.5555 0.02343 3049.8 | 3377.8 6.4610
+0.02977 | 3149.0 3506.2 6.6840 0.02517 | 3133.6 | 3486.0 6.5941
+, 0.03164 | 3228.7 3608.3 6.8037 0.02683 3215.4 | 3591.1 6.7172
+0.03345 3307.5 3709.0 6.9164 0.02843 3296.0 3694.1 6.8326
+
+3425.2 3858.4 7.0749 0.03075 3415.7 3846.2 6.9939
+3503.7 3957.4 TATA6 0.03225 3495.2 3946.7} 7.0952
+````
+
 ## 2012-13 · Re-Exam · Trim 4 · paper 58b9e2938e58
 
 - Departments: Mechanical
@@ -4219,6 +4731,7 @@ F) Explain working of Ranklne cycle.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/APPLIED THEMODYNAMICS/APPLIED THERMODYNAMICS 2011-12.pdf`
 - Printed on paper: exam date: 31/10/2011
 - Text: ocr (10 pages), mean OCR confidence 70.5
+- 26 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Programme: MBA(Tech)- MECHANICAL . Year: I Trimester:
@@ -4454,7 +4967,6 @@ i -_Internal Energy, kI/k
 en Seg i Bom ig
 , Vi eer . ss . at.
 a 3 zs _—_ ~ oan Evap. Vapour Liquid Evap. Vapour Lid Evap. Ve ot
-- f ig a he h 5 fapour
 0.01 0.6113 0.001000 206.132 “ i he 5 5 5
 i 0.00 2375.3 2375 . £
 
@@ -4502,7 +5014,6 @@ a) Specific Volume, m*/kg Internal Energy, ki/kg Enthalpy, kJ/kg Entropy, ki/kg 
 Temp. Pressure Sat. Sat. Sat. Sat. Sat. Sat. Sat. Sat
 
 a kPa, MPa Liquid Vapour Liquid Evap. Vapour — Liquid Evap. Vapour Liquid Evap. Vapour
-T P Ve Ve Ur Ur us * hy he h, Sp Sty 5g”
 
 105 0.12082 0.001047 1.4194 440.00 2072.3 2512.3 440.13 2243.7 2683.8 1.3629 5.9328 7.2958
 110 0.14328 0.001052 1.2102 461.12 2057.0 2518.1 = 461.27 2230.2 2691.5 1.4184 5.8202 7.2386
@@ -4587,7 +5098,6 @@ Saturated Water: Pressure Table
 Specific Volume, mfkg Internal nergy, W/kg Enthalpy, kI/kg Entropy, ki/kg K
 Pressure Tem. Sat. Sat. Sat. Sat. Sat. Sat. Sat. Sat
 kPa 1° Liquid Vapour Liquid   Evep. — Vapour Liquid Evap. Vapour Liquid — Evap. Vapour
-P } T Ve Vy Uy Ute Ue hy hey hy Sp Sty Sy
 0.6113 0.01 0.001000 206.132 0 23753 2375.3 0.00 2501.3. 2501.3 0 9.1562 9.1562
 1.0 6.98   0,001000 129.208 29.29 2355.7 2385.0 29.29 2484.9 2514.2 0.1059 8.8697 8.9756
 15 13.03 0.001001 —_—87.980 54.70 2338.6 2393.3 54.70 2470.6 2525.3 0.1956 8.6322 8.8278
@@ -4622,7 +5132,6 @@ Specific Volume, m'/kg Internal Energy, Ki/kg Enthalpy, Ii/kg Entropy, kJ/kg K
 Pressure Temp. Sat. Sat. Sat. Sat. Sat. Sat. Sat. Sat.
 
 @a °C. Liquid Vapour Liquid Evap. Vapour Liquid Evap. Vapour Liquid Evap. Vapour
-P T Ve Ye Us Use uy hy hey h, Sf Ste 5,
 
 0.275 130.60 0.001070 0.6573 548.57 1992.0 2540.5 548.87 2172.4 2721.3, 1.6407 5.3801 7.0208
 0.300 133.55 0.001073 0.6058 = 561,13 1982.4 2543.6 561.45 2163.9 2725.3 1.6717 5.3201 6.9918
@@ -4693,7 +5202,6 @@ er en aoapaad 1205.41 1384.3 2589.7 -1213.32-1571.0 2784.3 3.0266
 26922 5.8132
 697 1505.1 27721 3.1210 &
 125751 1323.0 2580.5 126 a aes ST
-i st } oooi3es coeeig 1305.54 «(12643 2569.8 © «1316.61 uals 7518 Se es ETT
 8.0 295. . : 3 25578 1363.23 . : 5.6140
 4 «1350.47 1207. ; 7 33595 «2.2545 5
 9.9 303.40 0.001418 0.0208 4 25444 1407.53. 1317.1. 2724. : = ana
@@ -4748,26 +5256,18 @@ at. 14.674 2437.9 25846 8. ;
 E 14869 24439 p5one SOL 3.240 248326459 75059 LepadD5061 6G 7.3593
 17.196 2515, 18 2511 582 69. 6958 2506 TE
 10 17196 25155 26875 p79 341825116 26825 7.6967 1.6958 25086 26769 1.36
-200 21825 pers aay SERS «3.889 25856 27801 79400 19364 2597 ane? 73814
-250 2413627369 ery, RUST 4356 26898 28776 81579 21793 deseo apres 78133
-300 2644528121 soree SIONAL 27350 29760 83555 24060 amaag gee 78
 400 31.063 29689 gaye Gott? 5.284 alg 30755 85372 ese 8104 ames 223%?
 500 3567931523 aang OUTS ©6209 29684 32789 eat 3.1006 20678 Soren Ca)
 00 40295 330023 3s gt? = 719431319 34886 91545 35655 Iss same, Oak
-700 4491134706 yng, IOUS B08 33022 37051 918177 ane aso gan Sad!
 mo a 96 87 04m 8981 34795 3928.5 9.6599 4.4899 3479.2 3098 9 3308
 900 Sala 38589 ateeg 106281 9.904 3663.7 41589 98852 49517 36685 anaes Se
-lon Seay Heres gine Hoses 10.828 3854.9 4396.3 10.0967 5.4135 3854.8 43961 9.77 ;
-1100 a7, 42575 appre 10392 TSI 40529 4640.5 10.296 S753 wasn aeey gare?
 1100 conn) 2508 9912 11228 12.674 4257.4 4891.1 104858’ «6.3370 4257348909 10 16s8
-I0_ rem 46.7 on? _iseio__ tas gs SWZ? 106862 sr 7 Shang tases
 : i i 3, i .8382 7.2603 4683.5 5409.5 10,5
 = 05182
 7 — ae kPa VRE = P = 300 kPa (133.55) P = 400 kPa (143.65)
 sa 0.95964 25769 2168s GAZI! 6052 25436 27253 69918 “0.46245 05536 PRES -ETOEE
 ae a a jemna pier 0.63388 2570.8 2761.0 7.0778 0.47084 2564.5 27528 6.9299
 oo Ligean a. sort ass 0.71629 2650.7 2865.5 7.3115 0.53422 2646.8 2860.5 7.1706
-250 131616 2086 sone ral 079636 27287 29676 73165 059512 2061 yeaa pee
 300 154930 2966.7 says 226087529 28067 3060.3 7.7022 o.6s484 20s sore aes
 > i pe139 rial aaee asian 1.03151 2965.5 3275.0 8.0329 0.77262 2964.4 3273.4 78984
 a or sone in nioon 1.18669 3130.0 3486.0 8.3250 0.88934 3129.2 3484.9 8.1912
@@ -4780,7 +5280,6 @@ ser
 Table A.1.3 (Contd.)
 
 P = 200 kPa (120.23) P = 300 kPa (133.55) P = 400 kPa (143.63)
-T I v u h Ss v u h 5 v u A s
 
 900 } 2.70643 3854.5 4395.8 9.4565 1.80406 3854.2 4395.4 9.2691 1.35288 3853.9 4395.1 9.1361
 1000 2.93740 4052.5 4640.0 9.6563 1.95812 4052.3 4639.7 9.4689 1.46847 4052.0 4639.43 9.3360
@@ -4817,7 +5316,6 @@ ch 3 (Contd)
 Table A.1.3 (Contd.)
 
 P = 1.00 MPa (179.91) P = 1.20 MPa (187.99) P = 1.40 MPa (195.07)
-T v u h s v u h 5 v u h s
 
 600 0.40109 3296.8 3697.9 8.0289 0.33393 3295.6 3696.3 7.9434 0.28596 3294.4 3694.8 7.8710
 700 0.44779 3475.4 3923.1 8.2731 . 0.37294 3474.5 3922.0 8.1881 0.31947 3473.6 3920.9 8.1160
@@ -4918,13 +5416,11 @@ a i 7.0300 0.06857 7
 
 700 (0.11095 3462.1 3905.9 7.
 i ; -6198 0.09847 4. ;
-; Pe Men iad poe dios 3459.9 3903.0 7.5631 0.08849 3457.7 3900.1 7.5122
 
 yu asa or 3648.4 4139.4 7.7942 0.09811 3646.6 4137.
 
 60) age res ‘ eel 0.11965 3842.1 4380.6 8.0091 0.10762 3840.7 pati ae
 
-100 oisees tase tron ent 0.13013 4041.6 4627.2 8.2108 0.11707 4040.3 4625.7 8.1612
 
 fox eer. cea ne how 0.14056 4246.8 4879.3 8.4014 0.12648 4245.6 4878.0 8.3519
 
@@ -4937,7 +5433,6 @@ Table A.1.3 (Contd.)
 
 P = 6.00 MPa (275.64) P = 7.00 MPa (285.88) P = 8.00 MPa (295.06)
 
-Ty) v u kr s v u h s v u h s
 
 Sat 0.03244 2589.7 2784.3 5.8891 0.02737 2580.5 2772.1 = 5.8132 0.02352 2569.8 2757.9 5.7431
 300 =: 0.03616 2667.2 2884.2 6.0673 0.02947 2632.1 2838.4 5.9304 0.02426 2590.9 2785.0 5.7905
@@ -4978,7 +5473,6 @@ P = 9.00 MPa (303.40)
 T v u A
 
 P = 10.00 MPa (311.06)
-s v u h 5 v u A 5
 800 0.05409 3632.5 4199.4 7.4597 > 0.04859 3629.0 4114.9 7.4077 0.03869 3620.0 4103.7 7.2965
 900 0.5950 3829.2 4364.7 7.6782 0.05349 3826.3 4361.2 7.6272 0.04267 3819.1 4352.5 7.518]
 1000 0.06485 4030.3 4613.9 7.8821 0.05832 4027.8 4611.0 7.8315 0.04658 4021.6 4603.8 7.7237
@@ -5022,14 +5516,12 @@ Table A.1.3 (Contd.)
 = (Pa
 P=25 MPa P= i0iPa - ° = —_ F
 1T y # i : . 762.4 3.8721
-i 375 001973. «1798.6 ~—-1847.9 4.0319 001789 1737.8 1791.4 3.9303 pote tae eens tod
 (906008 2430.1 2580.2 5.1418 Mn Geet: Gis ete 003428 2253.4 2373.4 4.7747
 ae pes 02 28063 5.4722 005304 2455.1 2614.2 5.1503 0034: ot Ea. en
 1 OI 0} | oT RGM «OOM 20S) tha Shah. OEE i MBs - 51%
 ae ID. aoa 3162.4 5.9592 008679 2820.7 3081.0 5.7904 «0069272 sb 3213.0 5.9025
 en age 3335.6 6.1764 O10168 29703 32754 6.032 00EMS 28209 32130 5.9005
 a ta. ae 3491.4 6.3602 O144s 31005 34439 62390 009527 30620 32855 56.1178
-= gee eas 3637.5 6.5229 012596 3221.0 35989 6.4057 0105753189. nap sang
 ee 3771.6 6.6707 013661 3335.8 3745.7 6.5606 —«011533 33099 SHAG. GA!
 oe a ee 4047.1 6.9345 015623 35556 40043 64332015278 35368 40015 6.7450
 oe, coe sal amt ~ Gin a es aes ee | ee a
@@ -5046,10 +5538,7 @@ P= s0MPa —— 8 0015027 ro 1699.5 3.1740
 500 0056225 2678.4 29033 5.4699 0038924 2525.5 2720.1 5.1725 oo
 600 008094330226 3346.4 6.0113 0061123 2942.0 3247.6 5.8177 oo as
 650 0090636 3158.0 3520.6 6.2054 0069657 3093.6 34418 6.0342 ee ee tee ae
-700 0099415 32836 3681.3 6.3750 Dorr 32905 36169 Gaim — 0062719 SITS HSE GOR
-800 0115228 3517.9 3978.8 6.6662 ROTEL S409 SOLS Kien ANAS AML SHH ATE
 900 0129626 3739.4 42579 6.9150 ooassi 31103 42044 6:7RE2 0085083 36810 41915 GBS
-1000 0143238 3954.6 4527.6 7.1356 DUATES S580 4S TOMS OH) Jone AAT a8
 1100 0156426 4167.4 4793.1 7.3364 0124966 4145.7 4770.6 7.2183 eS ee
 1200 0169403 4380.1 5057.7 7.5224 185606 4359.1 $0372 T40se — OTISLe? 48382 50172 7.908
 1300 __.0182292 4594.3 5323.5 7.6969 0146159 4572.8 5303.6 _7.5807__.
@@ -5059,7 +5548,6 @@ Vio
 ( Compressed Liquid Water ‘ N
 
 P = 5.00 MPa (263.99) P = 10.00 MPa (311.06) P = 15.00 MPa (342.24)
-T v u h 5 v u h s v u h 5
 
 Sat. 0012859 1147.78 1154.21 2.9201 0014524 ° 1393.00 1407.53 3.3595 0016581 1585.58 1610.45 3.6847
 0 0009977 0.03 5.02 0.0001 0009952 0.10 10.05 0.0003 -0009928 0.15 15.04 0.0004
@@ -5085,7 +5573,6 @@ Sat. 0012859 1147.78 1154.21 2.9201 0014524 ° 1393.00 1407.53 3.3595 0016581 15
 a niet unaccaandneal
 Table A.1.4 (Contd.)
 P = 20 MPa (365.81) P = 30 MPa P=50MPa
-\r v u h s v u A 5 v u h an!
 Sat 0020353 1785.47. 1826.18 4.0137 _ _ _ _ — _ = =
 0 -0009904 0.02 20.00 0.0004 -0009856 _ 0.25 29.82 0.0001 0009766 - 0.20 49.03 -0.0014
 20 0009928 82.75 102.61 0.2922 0009886 82.16 111.82 0.2898 0009804 80.98 130.00 0.2847
@@ -5118,6 +5605,8 @@ Sat 0020353 1785.47. 1826.18 4.0137 _ _ _ _ — _ = =
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/APPLIED THEMODYNAMICS/APPLIED THEMODYNAMICS BATCH 2011-12 RE EXAM0001.pdf`
 - Printed on paper: exam date: 11/06/2012
 - Text: ocr (5 pages), mean OCR confidence 52.3
+- 35 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 ~~ ' SVKM’s NMIMS
@@ -5219,7 +5708,6 @@ RT QreovOy ish mim NO BS
 
 erat nA a oonunst |
 RANA AAAS ees ’
-AAA ea A A AN oe wD
 
 SY Wah OTA Dans }
 ARWaAQ FOAvo-   , i
@@ -5240,7 +5728,6 @@ DRAMA TNR ARG
 
 Cweouptweonoenn
 DBD ms A 200,10; 1 = 00
-SS OS OMe So Ol ee
 Soran an any
 
 oh Oy NO ASSESSES
@@ -5260,7 +5747,6 @@ esos,gesceseegaq a
 SSSSSSGsosscca 3
 
 z lS.,enonenonenonononone@eeononone ' ”
-BE OWlSu See gS eereeg es eerste set aaaans 4 ae
 --- page 4 ---
 : SREP RNXAYH NN NN Dt
 ty SPIAA wae EOL &
@@ -5286,67 +5772,39 @@ on
 Pe ee a
 
 GARD a
-t oe ren Se ee ee eo ee me ee ee ee ee Le
-‘ DRERERSRER ERRATA RRSRASSSSnS SREB EESES
-Bo eS 00. BS ° RS Ea eo oN RAR eS AS SL LS ‘
-ie iS SLesgeSeoen eT ES kePes PS eRe sks é
 ion PAO AUR RE ONS Gi bg OG iN ECO BR OBR CASE OW oe
-sib OPS ARO. ROO MR ONG OR GES SS eS Bo. Se :
 ite er ; . i a . . wn
-HS (RRO RE EE RR RRR R SR EE SN ey ey ypPNnNnnn iv Es
-H Be eA A GH I GR S Aw wn A mn r
 ‘ Oy <1" 08 Romar} oS SAYA AAA STI e
-a UR SOAR SERS S15 S SAves FOE LE sy Ep
-i Besse i waoeoue SRW S in fe ee cea
-Fs PIANO we SWS m= OSS eA aAEREA aay eo
-i hee ey a Ree eee d Dre bs.
 6 RoES = : WAY ANAAHA = pt
 Wr, S90 Or OSS, B-OIVaAaS F
-BSS ESE SRA Ss =~ONAGH S| OY
 SYVSROoRG UE Bow ly in-e L Q PN
 _ ASIAN EK FON awa = 2
 : ’ : how - oF hy ¢ ‘ >
 ‘. iS) ywy c 7
-fe i i eo Smee 1 i RE =
 i SREARLRYAAABRIUAIISe eesesessegvter mS fe.
 ry : Sowa eS SR BR Bu scrie Or EFRBESES SQL SIS Se le
-BR BS eS BSS ay RR So FROAN CR SIS SF):
-LE OE Se Oe a Gy Be! a, © ein yo. Pe :
-nth oe OS OS a RR SZ ey ew ANU SS Do &
 ‘y NRNNRY NN NNN NN DDL Nw wy wow br] 99
 BQARISESSS82222 28 VV VWVAN SS ad
 BAD DS oF oS Ss IIA RAH ZS ee .
-: Sh oR oS § ew oR SP ei
 F 0.208 "ko SEWN Sw BD
 1 ; wea aS Dan Ss =
 i Poll aes ‘ = : S| :
 if are , : ” . . ‘ .
 Bee ewe ey NNN NNR SD NW NNYNe= ee ee ee
-VRE =o. SO. mm SND Dain = Sec owe ae oe
 Won = wpe 2 ws ES GT Sy 6 BR.GES eye
 ye BS B88 ty SoS Ba B.S SS. SB oom SPSL Ss a
 i 2G WO (8 WN WE ASS a oe Ae & =
 
-i PRR PRN RN ow & Owe Ure ww ww ou!
 
 Ree fe RY a
-¢ GEVSIPSESSS>Sveeegagatie ss - RAD woos 4. ¥ "
-We RS 2 SM MP wea aR DD Dw BG SSO V/s. Bs:
-BE BwD wes = FOG SSS eS Nioqasek SEAN P RS
 afr oO BS ott SN NOD) OS Ss SOR aS SG. $
-a) fn : — . Lr is? eo eo a
-4 DARN ARDAR AAR AMARA AD wd a2 :
 : =) neon. i WD aO YW YY & _—
 S2E3 SPARS Aw SB Pref *
 = a os ive) : ;
-f BW So SS Dio Ry 6B Re eb Be cee 3
 : ; : = : 2° Re e
-é SRRBRRNNAN HY NYHN DYDD Peeks e ap ee nel “4
 ! SvVGCwMeaIIAaH Oi OS: SUV oO sQaA AG SL «
-i TIAA STH Wn SRSRSACSASYSS| Aapeh
 | : : See aie hs S
 
-: : Aug ainyesodwia y “JOVBM payeames
 --- page 5 ---
 Sg ee — i ale SxS ge a
 Gi eg
@@ -5356,543 +5814,19 @@ SASSER BM S.o 9 o'd wo
 
 ~ fo ft the Be IN Oy: 00) Se 69 AAO MES TAP Ga en: ny
 a] o).S Qt SoD AQ OWA oF OS OI
-s ofals Sess eee lee Ras
 2 BSss'see3 3-85 S
 s aL aks S.5 S'S 'S S'S Ssss
 =| be SHS SSSSES SSS 83.38}
 iS t
 gy ee ee ee ee
 : iy ‘ SDN sa ins Ae:
-t ah $91 DES 100 OG A in I. Ow SS
 a need E E Saw iQ ost Oe ae a
 if TT bark = Se eGo ke ae
 ve . 7
 = mono wn TD IREOo oS G
-a oD 8 00 OF Ot tA I HOO wae
-i Vs £9 A Een gn on Ye Ps
 tS a *
 a ey
 z ;
 !
 — == i : =
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 02cb3b6ca358
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/APPLIED THEMODYNAMICS/scan0034(3).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
-- Text: ocr (4 pages), mean OCR confidence 84.9
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (Tech) -MECH Year: II Trimester: IV
-Academic Year : 2012-2013
-
-<i5 SCH
-
-Lg fo NR fe)
-Subject: APPLIED THERMODYNAMICS Marks: 100 is Pn
-. Time: 2.00 p.m ffoS(OONpeM = University Lyd
-Date: 26/10/2012 Duration: 3 hrdj# Mum - 56, 2
-
-A Pa if LiBAaRY
-Final - Examination y
-
-\
-\
-
-J
-ON Ne AF
-Mawagene®
-
-1. Question No. 1 is compulsory
-
-2. Out of remaining question attempt any four question
-3. In all five questions to be attempted.
-
-4. Steam table, Gas tables are permitted..
-
-Q.1 Answer any five of the following. 20
-a) State the Zeroth law of thermodynamics. What is its significance?
-b) Define point function and path function with example
-c) Define i) Reversible and irreversible process
-ii) Intensive and Extensive properties
-d) What is quasi-static process? State its significance.
-f) Show (COP)yp = 1 + (COP)g
-g) State and explain the principle of increase of entropy
-i) What is cut-off ratio? How does it effect the thermal efficiency of Diesel cycle?
-Q.2 a) Derive steady flow energy equation. State the assumption made. 04
-{ b) One kg of nitrogen at a temperature of 150°C occupies a volume of 0.2 m°.The gas 08
-; undergoes fully restricted constant-pressure expansion without friction to a final
-volume of 0.36 m?.Calculate the final temperature, work done, heat transferred and
-change in entropy. Take Cp= 0.743 KJ/KgK, R=0.297 KJ/KgK
-4 c) In a gas turbine the gas enters at the rate of 5 kg/s with a velocity of 50 m/s and 08
-} enthalpy of 900 KJ/Kg and leaves the turbine with a velocity of 150 m/s and enthalpy
-400 KJ/Kg. The loss of heat from the gases to the surrounding is 25 KJ/Kg..The inlet
-condition to be 100 KPa and 27°C.Determine the power output of the turbine and
-diameter of the pipe Assume for gas R= 0.285 KJ/KgK and Cp = 1.004 KJ/KgK
-Q.3 a) State Kelvin- plank and clausis statement of second law of thermodynamics. Also - 07
-prove equivalence of these statements
-b) A heat pump is used to maintain an auditorium at 25°C, when the atmospheric 07
-temperature is 10 °C.The heat load of the hall is 1500 KJ/min.Calculate the power
-required to run the heat pump. If its COP is 30 % of the carnot heat pump working
-between the same temperatures. >
-. c) ASO kg of block iron casting at 500 K is thrown in to large lake which is at a 06
-q ) temperature of 285 K .After the iron block reaches thermal equilibrium with the lake
-water. Take Cp of iron block as 0.4 KJ/KgK. Determine
-a) Entropy change for iron block
-b) Entropy change of the lake water
-c) The total e3ntropy change during the process.
-Q.4 a) State and prove the Carnot theorem 08
-b) State and explain Daltons law of partial pressure 04
-
-A
---- page 2 ---
-Q.5
-
-Q.6
-
-Q.7
-
-a)
-
-b)
-
-a)
-
-b)
-c)
-
-a)
-
-b)
-
-300 Kg of fish is to be frozen at -2 °C.The specific heat of fish above freezing point is
-4.187 KJ/KgK and the latent heat of fusion is 234.5 KJ/Kg..The freezing point is -2
-°C.A refrigerator is used for this purpose which rejects the heat in ambient at 40
-°C.The COP of the refrigerator is 60 % of COP of the carnot refrigerator operating
-between between the same temperature limit. How much power must be required to
-remove the heat in 10 hrs?
-
-Compare Otto, Diesel and Dual cycle for same compression ratio and same heat
-supply with the help of P-V and T-S diagram.
-
-The compression and expansion ratio of an oil engine working on air standard dual cycle are
-9 and 5 respectively. The initial temperature and pressure are 1 bar and 30 °C respectively.
-The heat librated at constant pressure is twice the heat librated at constant volume.
-The expansion and compression follows the law PV'*°= C. Determine
-
-i) Pressure and temperature at all the salient point in the cycle
-
-ii) The mean effective pressure in the cycle
-
-iii) Thermal efficiency of the cycle
-
-iv) Power developed of the engine. If eight cycles complete in one second.
-
-Take cylinder bore = 250 mm and stroke = 400 mm
-
-Why carnot cycle cannot be considered as theoretical cycle for steam power plant even though
-its efficiency is maximum ?
-State and explain methods to improve efficiency of the rankine cycle and their limitations.
-In a steam power plant, steam at inlet to the turbine is 40 bar, 400°C and condenser
-pressure is 0.08 bar absolute. If the turbine and pump work with 80% mechanical
-efficiency each, Calculate
-
-a) Cycle efficiency b) Work ratio c) Specific steam consumption.
-Define i) Saturation temperature ii) Saturation pressure iii) Wet steam iv) Quality of
-steam v) Subcooled liquid vi) Degree of super heat
-5 Kg of steam is throttled from 10 bar initial pressure to 0.5 bar final pressure. The
-temperature at the final state is 107°C. Find the following for the initial state.
-
-a) Dryness fraction b) Specific entropy c) Specific volume
-
-08
-
-08
-
-12
-
-04
-
-06
-10
-
-12
-
-08
---- page 3 ---
-Thermal Engineering
-
-Table Properties of Saturated Water (Liquid vapour): Pressure Table
-: Table A.
-Specific Volume | Internal Energy Enthalpy Entropy
-ml/kg ki/kg ki/kg kI/kg-K
-Sat. Sat. Sat. Sat. Sat. Sat. Evap. ‘Sat. Sat. Sat.
-Press. | Temp. | Liquid. |’ Vapour | Liquid | Vapour | Liquid Vapour | Liquid | Vapour |. Press.
-bar Ss UXT 0 Ug uf Ug hy hyp th Sf Sg
-0.04 | 28.96 1.0040 | 34.800 - 121.45 | 2415.2 121.46 2432.9 | 2554.4 0.4226 | 8.4746
-0.06 36.16 1.0064 | 23.739 151,53 | 2425.0 15:53 2415.9" | 2567.4: | 0.5210 | 8.3304
-
-0.08] 41.51 1.0084 | 18.103" 173.87 | 2432.2 173.88 | 2403.1 | 2577.0 | 0.5926 | 8.2287
-0.10 | 45.81 1.0102 | 14.674 181.82 | 2437.9 191.83 | 2392.8 |-2584.7-| 0.6493 | 8.1502
-
-0.20 | 60.06 | 1.0172 | 7.649 251.38 | 2456.7 | 251.40 | 2358.3 | .26¢9.7 | 0.8320 | 7.9085
-0.30 | 69.10 | 1.0223 | 5.229 289.20 | 2468.4 | 289.23 | 2336.1 | 2625.3 | 0.9439 | 7.7686
-0.40.| 75.87 | 1.0265 | 3.993 317.53 | 2477.0 | 317.58 | 2319.2 | 2636.8 | 1.0259 | 7.6700
-0.50 | 81.33 |» 1.0300 | 3.240 340.44 | 2483.9 | ~ 340.49') 2305.4 | 2645.9 | 1.0910 | 7.5939
-0.60 | 85.94 | 1.0331 | 2.732 359.79 | 2489.6 | 359.86 | 2293.6 | 2653.5 | 1.1453 | 7.5320
-0.70 | 89.95 | 1.0360 | 2.365 376.63 | 2494.5 | 376.70 |. 2283.3 |. 2660.0 | 1.1919 | 7.4797
-0.8¢.| 93.50 | ‘1.0380 } 2.087 391.58 | 24988 | 391.66.) 2274.1 }:2665.8 | 1.2329 | 7.4346
-0.90'| 96.71 | ‘t.0410 | 1.869. | 405.06 | 2502.6 | 405.15 |: 2265.7. |°2670.9 | 1.2695 | 7.3949
-1.00'| 99.63 | 1.0432 | 1.694 417.36 | 2506.1 | 417.46 |» 2258.0) 2675.5 | 1.3026 | 7.3594
-1.50 | 1114 [1.0528 | 1.159 466.94! 2519.7 | 467.11 |~-2226.5 |'2693.6 | 1.4336 | 7.2233
-
--2.00°] 120.2 1.0605 |-0.8857 .| 504.49] 2529.5 | 504.70 |. 2201.9. | 2706.7 | 1.5301 | 7.1271
-2.50°| 127.4 1.0672 | ‘0.7187 | 535.10 | 2537.2 |°.535.37/| ‘2181.5 |-2716.9 | 1.6072 | 7.0527
-3.00 | 133.6 1.0732 |'0.6058 | 561.15 | 2543.6 | ‘561.47'|' :2163.8°|' 2725.3 | 1.6718 | 6.9919
-3.50 | 138.9 1.0786] 0.5243 | 583.95] 2546.9 | 584.33-} 2148.1':|2732.4 | 1.7275 | 6.9405
-400°] 143.6 | 1.0836 ‘| ‘0.4625 | 604.31 | 2553.6 | °.604.74:| 2133.8 -|-2738.6 | 1.7766 | 6.8959
-4.50'| 147.9 1.0882 |°0.4140 .| 622.25 | 2557.6 | 623.25.| 2120.7. | 2743.9 | 1.8207 | 6.8565
-5.00 | 151.9 1.0926 | 0.3749 | 639.68 | 2561.2 | 640.23'| 2108.5 | 2748.7 | 1.8607 | 6.8212
-6.00'} 158.9 1.1006 | 03157 | 669.90 | 2567.4 | 670.56 | 2086.3: | 2756.8 | 1.9312 | 6.7600
-7.00 | 165.0 1.1080} 0.2729 - | 696.44 | 2572.5 | 697.22 | 2066.3 | 2763.5 | 1.9922 | 6.7080
-8.00°| 170.4 1.1148°| 0.2404 | 720.22 | 2576.8 | 721.11.| 2048.0. | 2769.1 | 2.0462 | 6.6628
-9.00 | 175.4 1.1212°| 0.2150. | 741.83 | 2580.5 | 742.83 | 2031.1.|-2773.9 | 2.0946 | 6.6226
-
-, 10.0 "| 179.9 11273 | 0.1944 | 761.68 | 2583.6 | 762.81 |. 2015.3°} 2778.1 | 2.1387 | 6.5863
-
-ath 198.3 | 1.1539 | 0.4318. | 843.16 | 2594.5 | 844.84 |. 19473 2792.2 | 2.3150 | 6.4448
-20.0. | 212.4 1.1767} 0.09963 | 906.44 | 2600.3. |. 908.79 |. 1890.7 | 2799.5] 2.4474 | 6.3409
-25.0. | 224.0 | 1.1983 | 0.07998: | —959-11-|: 2603.1." 962.11-:|'°1841.0 |-2803.1 | 2.5547 | 6.2575
-30.0. | 233.9 12165: g | 1004.8 | 2604.1 | 1008.4 | 2804.2 | 2.6457 | 6.1869
-35.0 | 242.6 | 1.2347. 1045.4 | 2603.7 | 1049.8 4.| 2.7253 | 6.1253
-40.0 | 2504 |- 1.2522" 1082.3. | 2602.3 |. 1087.3 -| 28014 | 2.7964 | 6.0701
-45.0. | 257.5 1.2692 | 0.04406 | 1116.2 | 2600.1 | 1121.9 5.4} 27983 | 2.8610 | 6.0199 0
-50.0. | 264.0 1.2859 | 0.03944 | 1147.8 | 2597.1 | 1154.2 | 1640.1° |/2794.3 | 2.9202 | 5.9734 |. 50.0
-
-} Contd.
-
-“1
---- page 4 ---
-Thermal Engineering
-
-Table Contd. Foy sup erheated Steam * Table A.14
-I v u h Ss v u h s T
-ce m/kg kilkg kilkg | ki/kg- K m/kg ki/kg kkg | ki/kg-K °E
-p = 40 bar = 4.0 MPa p = 60 bar = 6.0 MPa
-(Tsat = 250.4°C) (Tsat = 275.64°C)
-Sat. 0.04978 | 2602.3 2801.4 6.0701 0.03244 | 2589.7 2784.3 5.8892 Sat.
-280 0.05546. |. 2680.0 2901,8 6.2568 0.03317 | 2605.2 2804.2 5.9252 360.
-320 0.06199 | 2767.4 3015.4 6.4553 * 0.03876 } 2720.0 2952.6 6.1846 - “400
-360 0.06788 | 2845.7 3117.2 6.6215 0.04331 2811.2 3071.1 6.3782 “440
-400. 0.07341 2919.9 3213.3 6.7690 0.04793 | 2892.9 -| 3177.2 6.5408 480
-440 0.07872 | 2992.2 3307.1 6.9041 0.05122 | 2970.0 3277.3 6.6853 520
-500 0.08643 | 3099.5 3445.3 7.0901 0.05665 3982.2 3422.2 6.8803 560
-540: 0.09145 3171.1 3536.9 7.2056 0.06015 | 3156.1 3517.0 6.9999 600.
-600 0.09885 | © 3279.1 3674.4 | -7.3688 0.06525 | 3266.9 3658.4 7.1677 640
-640 0.1037 3351.8 3766.6 74720 0.06859 | 3341.0 3752.6 7.2731 700
-700 0.1110 3462.1 3905.9 7.6198 0.07352 | 3453.1 3894.1 7.4234 740
-740. 0.1157 3536.6 3999.6 |. 7.7141 0.07677 | 3528.3 3989.2 7.5190
-p = 80 bar = 8.0 MPa p = 100 bar = 10.0 MPa
-. (Tsat = 295.06°C) (Tsar = 311.06°C)
-Sat: 0.02352 | 2569.8 2758.0 5.7432 0.01803 | 2544.4 2724.7 5.6141
-°320 0.02682 | 2662.7 2877.2 | 5.9489 0.01925 |» 2588.8 2781.3 5.7103
-360 0.03089 2772.7 3019.8 6.1819: 0.02331 2729.1 2962.1 6.0060
-400 0.03432 | 2863.8 3138.3 6.3634 0.02641 2832.4 3096.5 §.2120
-440... 0.03742 | 2946.7 3246.1 6.5190 0.02911 | 2922.1 3213.2 6.3805
-- 480 0.04034 |. 3025.7 3348.4 | 6.6586 0.03160 | 3005.4 3321.4 6.5282
-$20 0.04313 3102.7 3447.7 6.7871 0.03394 | 3085.6 3425.1 6.6622
-560 0.04582 | 3178.7 3545.3 6.9072 0.03619 | 3164.1 3526.0 | 6.7864
-; 600. 0.04845 | 3254.4 3642.0 7.0206 0.03837 | 3241.7 3625.3 6.9029
-~ 640 0.05102 | 3330.1 3738.3 7.1283 0.04048 | 3318.9 3723.7 7.0131
-700 0.05481 3443.9 3882.4 7.2812 0.04358 | 3434.7 3870.5 7.1687
-740° 0.05729 | 3520.4 3978.7 7.3782 0.04560 | 3512.4 3968.1 7.2670
-} p = 120 bar = 12.0 MPa p = 140 bar = 14.0 MPa
-(Tsat = 324.75°C) (Tsat = 336.75°C)
-0.01426 |. 2513.7 2684.9 | 5.4924. 0.01149 | 2476.8 | 2637.61 | 5.3717
-0.01811 2678.4 2895.7 5.8361 0.01422 | 2617.4 | 2816.5 5.6602
-0.02108 | 2798.3 3051.3 6.0747 0.01722 |. 2760.9 | 3001.9 5.9448
-0.02355 |. 2896.1 3178.7 6.2586 0.01954 | 2868.6. | 3142.2 6.1474
-0.02576 | 2984.4 3293.5 6.4154, 0.02157 | 2962.5 | 3264.5 6.3143:
-0.02781 3068.0 3401.8 6.5555 0.02343 3049.8 | 3377.8 6.4610
-0.02977 | 3149.0 3506.2 6.6840 0.02517 | 3133.6 | 3486.0 6.5941
-, 0.03164 | 3228.7 3608.3 6.8037 0.02683 3215.4 | 3591.1 6.7172
-0.03345 3307.5 3709.0 6.9164 0.02843 3296.0 3694.1 6.8326
-
-3425.2 3858.4 7.0749 0.03075 3415.7 3846.2 6.9939
-3503.7 3957.4 TATA6 0.03225 3495.2 3946.7} 7.0952
-````
-
-## Year not stated · Exam not stated · Sem 5 · paper d5b7aae4844b
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/APPLIED THERMODYNAMICS/Applied Thermodynamics.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 89.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023 = ee
-
-aaa ee
-
-Program:-M.B.A Tech Stream ;_ Mechanical Year: III Semester: Vv
-
-Subject: Applied Thermodynamics Time: 03 hrs (44!00amto 2:00pm)
-Date:_12/06 / 23 : No. of Pages:03
-
-Marks: 100
-
-Special Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any 4 _ questions.
-| > 3)Inall__5_ questions to be attempted.
-4) All questions carry equal marks.
-| 5) Answer to each new question to be started on a fresh page.
-| 6) Figures in brackets on the right hand side indicate full marks.
-| 7) Assume Suitable data if necessary.
-| 8) Use of steam table and Mollier Diagram is permitted.
-
-Ql
-
-Answer briefly: [20]
-CO-2 ; a.
-| SO-1; Describe working of vapour power cycle with neat diagram. [05]
-| BL-2
-CO-2 ; b.
-SO-1; Classify boilers in detail. [05]
-BL-2
-CO- 1,2; c. .
-> SO-1; Explain difference between impulse and reaction turbine. [05]
-BL-3
-“| CO-1,3; d. ;
-SO-1; Describe working of vapour compression refrigeration cycle. [05]
-BL-1
-| a. | A single acting reciprocating compressor with cylinder of 10 cm diameter
-Q2 and 15cm stroke has a clearance volume of 3% of swept volume. It takes in
-CO-3; air at | bar, 20°C and delivers at Sbar while running at 1000 rpm. The actual | [10]
-ae power input is 15kW. Estimate (a) Power required to drive the unit (b)
-Mechanical Efficiency.
-o b | Describe boiler mountings and accessories. Explain the working of any one [10]
-
-of each.
-
-face)
---- page 2 ---
-CO-2;
-
-SO-1;
-BL-3
-
-Q3 a A steam turbine receives steam at 150 bar and 500°C. It is exhausted steam
-CO-2; at 1 bar. For the ideal Rankine cycle, calculate network, specific steam | [10]
-a consumption, cycle efficiency.
-
-Q3 b 0.05kg /s dry saturated steam at 14 bar enters in a nozzle and exhausted at
-3. 0.10 bar. Find the diameter at the exit of the nozzle and the quality of the | [10]
-BL-2 » | steam which is to be finally expanded as it leaves the nozzle.
-
-Q4 a
-OE With neat sketch describe working of any fire tube boiler. , [10]
-BL-2
-
-b | A refrigerator works between -6.7°C and 26.7°C the vapour being dry and
-saturated at the end of the compression. The liquid refrigerant is expanded
-through a throttle valve after leaving the condenser. Sketch the cycle on T-
-
-4 s and p-h diagram and determine refrigeration capacity in TR if the mass
-0-3; flow rate of a refrigerant is 10 kg/min and the COP of the system. Take the 110]
-SO-2; following properties:
-
-BLS Temperature Enthalpy (ki/kg) Entropy (ki/kg K)
-Liquid . Vapour Liquid Vapour
--6.7°C 152.18 137.03 0.6016 5.4308
-~ 26.7°C 307.18 1467.03 1.1515 5.0203
-a . | Draft produced by chimney is 4 cm of water column. Temperature of flue
-
-Qs gas is 500°C and ambient temperature is 35°C. The flue gases formed per kg
-cO-2; of fuel burnt is 25 kg. Neglect the losses and take the diameter of the [10]
-SO-2; chimney as 2 m. Calculate:
-
-BLS 1. Height of chimney in m
-2. Mass of flue gasses flowing through the chimney in kg/ min
-
-Q5 b | In a De-Laval turbine steam issues from the nozzle with a velocity of 10]
-
-Soo 1000m/s. The nozzle angle is 20°C the mean blade velocity is 350 m/s and
-
-cy
---- page 3 ---
-BL-3 the inlet and outlet angles of the blades are equal. The mass of steam flowing
-through the turbine per hour is 1500 kg.
-Calculate
-1. Blade angles
-2. Relative velocity of blade entering the blade
-3. Power developed
-4. Blade efficiency
-Take blade velocity- coefficient as 0.75.
-
-Q6 a. :
-
-e So Differentiate working of Spark Ignition and Compression Ignition engine. | [10]
-BL-2
-
-CO-3; b
-SO-1; Explain properties of an ideal refrigerant. ; [06]
-BL-2
-
-CO-3; c
-SO-1; Describe working of an air conditioner. [04]
-BL-2 ;
-
-Q7
-
-Answer the following
-
-CO-2; a.
-SO-1 ; Explain working of cooling towers. [06]
-BL-2 :
-
-©) CO-2; b.
-SO-1; Differentiate between velocity and pressure compounding. [06]
-_BL-2
-
-CO-1 ; ic.
-SO-1 ; Explain working of four stroke petrol engines. [08]
-BL-2
-
-€3)
-````
-
-## Year not stated · Exam not stated · Sem 5 · paper 5594cfd75881
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/APPLIED THERMODYNAMICS/Applied Thermodynamics_5594cfd758.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2025-2026
-
-Program: MBA.Tech. Year: If Semester: V
-Stream: Mechanical Engineering
-Subject: Applied Thermodynamics Time: 3 hrs ( Zr00pm te St oop)
-Date: at fl 2f/ Dig No. of Pages:02
-Marks: 100
-Re-Exam 2023-24
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [4x5=20]
-CO-1,3; a. Explain the principle of a Combined Cycle Power Plant.
-
-SO-1; BL-2
-
-CO-2; b. Define and state two key condenser performance parameters.
-
-SO-1; BL-2
-
-CO-2; c. List the four main components of a Vapour Compression System and their
-SO-1; BL-1 function.
-
-CO-2; d. Differentiate between Port Timing and Valve Timing in IC Engines.
-
-SO-1; BL-1
-
-CO-1; e. Draw a neat, simple diagram of a Cochran boiler and label its main type.
-
-SO-1; BL-2
-
-Q2 a. Illustrate the P-V diagram for a single-stage reciprocating compressor considering
-CO-1,3;
-
-clearance volume. Derive the expression for the Volumetric Efficiency and explain | [10]
-
-BesB lie the effect of clearance volume on FAD.
-
-b. A single-stage, single-acting reciprocating air compressor has a bore of 25 cm and [10]
-an a stroke of 35 cm. It runs at 600 rpm. The clearance volume is 6% of the swept
-$0-1; BL-2 volume, and n=1.3. The suction is at 0.95 bar, 20°C, and delivery is at 8 bar.
-
-Determine the Volumetric Efficiency (nv) and the Indicated Power (kW).
---- page 2 ---
-Q3 a Explain the working principle of a Lobe-type compressor with a neat sketch. State } [10]
-
-C0-1,3; its primary application.
-SO-1; BL-5
-Q3 b Compare and Contrast the operational differences, advantages and disadvantages | [10]
-CO-2; of Forced Draught and Induced Draught systems in boilers.
-SO-7; BL-5
-Q4 a Tllustrate with a neat sketch and explain the construction and working of a Babcock [10]
-CO-2; & Wilcox water-tube boiler. Additionally, explain and justify the function of an
-
-SO-1; BL-2 Air Preheater, particularly its effect on flue gas temperature and boiler efficiency.
-
-Q4 b Classify steam condensers based on the method of cooling (Direct/Surface). | [10]
-CO-2; Explain the working of a Surface Condenser used in a thermal power plant with a
-
-SO-1; BL-3 labeled diagram, detailing the purpose of maintaining a high vacuum.
-
-Q5 a Explain the working principle of a Cooling Tower, focusing on the concept of [10]
-CO-2; __ | evaporative cooling and:the difference between natural draught and mechanical
-
-SO-1; BL- draught towers.
-
-1,2
-
-Qs b Explain the working principle of a Vapor Absorption Refrigeration System | [10]
-CO-3; (VARS) with a neat sketch, focusing on the distinct thermodynamic roles of the
-
-$0-1; BL-2 absorber and the generator.
-
-Q6 a Define the term refrigerant and list the desirable properties they must possess. [10]
-CO-1,3; Discuss the diverse uses and applications of cryogenics across the fields of
-S0-6; BL-3 medicine, aerospace, and energy.
-
-Q6 b Draw, Label, and Elaborate on the various events shown on the valve timing | [10]
-CO-1,3; diagram for a four-stroke petrol (S.I.) engine.
-
-$O-1; BL-3
-
-Q7 a Discuss and Differentiate the four main operational and constructional differences | [10]
-
-CO-3; SO- between a four-stroke petrol (S.I.) engine and a Diesel (C.1.) engine.
-
-1; BL-2
-
-Q7 b Explain with a neat sketch the principle and application of velocity compounding [10]
-
-cO-3; SO- in impulse steam turbines. How does this compounding method help manage blade
-
-1; BL-2 speed and erosion?
-
-RERREE End of Paper******
 ````

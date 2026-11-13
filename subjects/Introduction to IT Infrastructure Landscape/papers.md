@@ -1,16 +1,173 @@
 # Introduction to IT Infrastructure Landscape: question papers in full
 
-7 unique papers · 2023-24 to 2024-25 · Information Technology
+7 unique papers · 2023-24 to 2025-26 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2024 · Exam not stated · paper 6c3da99c4e13
+## 2025-26 · Final-Exam · paper 61e22f017700
+
+- Departments: Information Technology
+- Programmes: B.TECH INTEGRATED / IT
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Introduction to IT Infrastructure Landscape/Introduction to IT Infractructure Landscape 2024-26 Final.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
+- Text: ocr (4 pages), mean OCR confidence 88.6
+
+````text
+vo
+
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: BACHELOR OF TECHNOLOGY (INFORMATION TECHRGLE*)
+YEARS INTEGRATED PROGRAM
+Year: III/Semester V(Exam Year: 2025-2026)
+Subject: Introduction to IT Infrastructure Landscape
+Date: 01 Dec 2025 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. | is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+
+FIO IIR 7 Fok ok dak a tek
+--- page 2 ---
+« »
+
+Ql 20
+
+a. | CO- Explain the concept of Application Architecture. Describe a common application
+
+1;SO- architecture pattern and discuss how it is used in real-world applications.
+1,BL-2 ‘
+
+b. -| CO- In (a) Mash network topology and (b) Ring network topology setup where 8854
+2;SO- devices are present.
+1,BL-4
+
+i. _ How many connections can be established by one node?
+ii. How many physical connections are required to established such a
+network?
+iii. | How many I/O ports are required to established such a network?
+
+c. | CO- Explain Encryption and Decryption techniques in brief. A Caesar Cipher shifts each
+2;SO- letter in the plaintext by Three fixed number of positions down the alphabet. For
+1,BL-2 | example, with a shift of 3, A D. Find Cipher text and find out key for encryption
+
+and decryption for the message HELLO.
+
+d. | CO- Discuss the key responsibilities of a System Administrator in managing an
+4;SO- organization’s IT infrastructure.
+1,BL-2
+
+Q.2 20
+
+a. Cco- How do you differentiate between the performance of an infrastructure design and the
+1;SO- performance of a running system? Explain with examples.
+1,BL-2
+
+b. | CO- For each of the following scenarios, identify whether a LAN, MAN, or WAN
+2;SO- | network setup is most appropriate and explain why:
+1,BL-2
+
+I. A university campus with multiple. buildings needs to connect all
+computers, printers, and servers for students and staff within the campus.
+II. A city government wants to connect all municipal offices and public
+service centres spread across the city to share resources and communicate
+efficiently.
+II. A multinational corporation requires a network to connect its
+headquarters and branch offices located in different countries worldwide.
+IV. A university that wants to connect multiple campuses located throughout
+a city.
+Vv. A global company that requires communication between its offices in
+different countries.
+Q.3 ‘ + 20
+a. | CO# Identify IT infrastructure components for Cloud Storage based applications.
+1;SO-
+2,BL-4
+
+FIO oR Ak ak
+--- page 3 ---
+b. co- Discuss impotence of network Security. Explain the main reasons for
+2;SO- implementing security measures in a computer network. Discuss the role of
+1,BL-2 | firewalls in network security and explain the different types of firewalls.
+ad ¥
+Q4 20
+a. Cco- |. Compare and contrast DBMS vs Data warehouse. 5
+2;SO-
+1,BL-2 Il. Identify Type of data (Structured / Unstructured/ semi structured) used 5
+for following real-world Use Cases: °
+1. Social media posts
+2. Sensor Data
+3. Email messages
+4. Customer database with fields like Name, Age, Email, Phone Number.
+5. Customer Information in a CRM System
+b. | CO- Functional attributes are domain dependent and Non-functional attributes
+1;SO- are domain independent for any IT infrastructure — Justify.
+1,BL-2
+Qs
+a. co- Explain the duties and responsibilities of a Network Administrator in managing
+3;SO- and securing a computer network.
+1,BL-2
+b. Co- Differentiate RAID 0, RAID 1, RAID 5, and RAID 10 Redundant Array of
+2;SO- Independent Disks storage technology based on following parameters:
+2,BL-3 ;
+e =Minimum Disks
+e Performance
+e Fault Tolerance
+e Storage Efficiency
+e Suitable use cases .
+which one is the best RAID technique as per your opinion.
+Q.6 20
+a. co- Discuss role and responsibilities of DBMS Administrator
+3;SO-
+1,BL-2
+b. co- Justify following: “Virtualization helps organizations reduce costs, improve flexibility,
+2;S0- enhance security, and maximize resource use.” Also discuss types of virtualizations in
+2,BL-3 brief.
+Q.7 F 20
+a|a. Cco- Discuss how Startups using cloud to scale*quickly without heavy investments. Also
+2;50- throw light on following:
+1,BL-2 e Cloud deployment model
+
+e Cloud service model
+
+RR RK Kk
+4 .
+--- page 4 ---
+b.
+
+co-
+2;S0-
+1,BL-3
+
+Justify - “Server technology is a foundation of modern computing”
+Discuss following in detail:
+
+e Rack server
+
+e Blade server
+
+e Enterprise server
+
+«
+
+FR aR RK
+````
+
+## 2024-25 · Exam not stated · paper 6c3da99c4e13
 
 - Departments: Information Technology
 - Programmes: B.TECH INTEGRATED / IT
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Introduction to IT Infrastructure Landscape/Introduction to IT Infrastructure Landscape Batch 2024-20001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: ocr (3 pages), mean OCR confidence 90.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS ©
@@ -167,163 +324,6 @@ Cco- b. Explain cloud computing in detail. Compare and contrast
 Discuss role of cloud technology in enhancement of global
 business.
 
-FIG Ga i i ak a
-````
-
-## 2024 · Final-Exam · paper 61e22f017700
-
-- Departments: Information Technology
-- Programmes: B.TECH INTEGRATED / IT
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Introduction to IT Infrastructure Landscape/Introduction to IT Infractructure Landscape 2024-26 Final.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
-- Text: ocr (4 pages), mean OCR confidence 88.6
-
-````text
-vo
-
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-
-Programme: BACHELOR OF TECHNOLOGY (INFORMATION TECHRGLE*)
-YEARS INTEGRATED PROGRAM
-Year: III/Semester V(Exam Year: 2025-2026)
-Subject: Introduction to IT Infrastructure Landscape
-Date: 01 Dec 2025 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 4 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. | is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-
-FIO IIR 7 Fok ok dak a tek
---- page 2 ---
-« »
-
-Ql 20
-
-a. | CO- Explain the concept of Application Architecture. Describe a common application
-
-1;SO- architecture pattern and discuss how it is used in real-world applications.
-1,BL-2 ‘
-
-b. -| CO- In (a) Mash network topology and (b) Ring network topology setup where 8854
-2;SO- devices are present.
-1,BL-4
-
-i. _ How many connections can be established by one node?
-ii. How many physical connections are required to established such a
-network?
-iii. | How many I/O ports are required to established such a network?
-
-c. | CO- Explain Encryption and Decryption techniques in brief. A Caesar Cipher shifts each
-2;SO- letter in the plaintext by Three fixed number of positions down the alphabet. For
-1,BL-2 | example, with a shift of 3, A D. Find Cipher text and find out key for encryption
-
-and decryption for the message HELLO.
-
-d. | CO- Discuss the key responsibilities of a System Administrator in managing an
-4;SO- organization’s IT infrastructure.
-1,BL-2
-
-Q.2 20
-
-a. Cco- How do you differentiate between the performance of an infrastructure design and the
-1;SO- performance of a running system? Explain with examples.
-1,BL-2
-
-b. | CO- For each of the following scenarios, identify whether a LAN, MAN, or WAN
-2;SO- | network setup is most appropriate and explain why:
-1,BL-2
-
-I. A university campus with multiple. buildings needs to connect all
-computers, printers, and servers for students and staff within the campus.
-II. A city government wants to connect all municipal offices and public
-service centres spread across the city to share resources and communicate
-efficiently.
-II. A multinational corporation requires a network to connect its
-headquarters and branch offices located in different countries worldwide.
-IV. A university that wants to connect multiple campuses located throughout
-a city.
-Vv. A global company that requires communication between its offices in
-different countries.
-Q.3 ‘ + 20
-a. | CO# Identify IT infrastructure components for Cloud Storage based applications.
-1;SO-
-2,BL-4
-
-FIO oR Ak ak
---- page 3 ---
-b. co- Discuss impotence of network Security. Explain the main reasons for
-2;SO- implementing security measures in a computer network. Discuss the role of
-1,BL-2 | firewalls in network security and explain the different types of firewalls.
-ad ¥
-Q4 20
-a. Cco- |. Compare and contrast DBMS vs Data warehouse. 5
-2;SO-
-1,BL-2 Il. Identify Type of data (Structured / Unstructured/ semi structured) used 5
-for following real-world Use Cases: °
-1. Social media posts
-2. Sensor Data
-3. Email messages
-4. Customer database with fields like Name, Age, Email, Phone Number.
-5. Customer Information in a CRM System
-b. | CO- Functional attributes are domain dependent and Non-functional attributes
-1;SO- are domain independent for any IT infrastructure — Justify.
-1,BL-2
-Qs
-a. co- Explain the duties and responsibilities of a Network Administrator in managing
-3;SO- and securing a computer network.
-1,BL-2
-b. Co- Differentiate RAID 0, RAID 1, RAID 5, and RAID 10 Redundant Array of
-2;SO- Independent Disks storage technology based on following parameters:
-2,BL-3 ;
-e =Minimum Disks
-e Performance
-e Fault Tolerance
-e Storage Efficiency
-e Suitable use cases .
-which one is the best RAID technique as per your opinion.
-Q.6 20
-a. co- Discuss role and responsibilities of DBMS Administrator
-3;SO-
-1,BL-2
-b. co- Justify following: “Virtualization helps organizations reduce costs, improve flexibility,
-2;S0- enhance security, and maximize resource use.” Also discuss types of virtualizations in
-2,BL-3 brief.
-Q.7 F 20
-a|a. Cco- Discuss how Startups using cloud to scale*quickly without heavy investments. Also
-2;50- throw light on following:
-1,BL-2 e Cloud deployment model
-
-e Cloud service model
-
-RR RK Kk
-4 .
---- page 4 ---
-b.
-
-co-
-2;S0-
-1,BL-3
-
-Justify - “Server technology is a foundation of modern computing”
-Discuss following in detail:
-
-e Rack server
-
-e Blade server
-
-e Enterprise server
-
-«
-
-FR aR RK
 ````
 
 ## 2024-25 · Final-Exam · paper faab8f48b8f3

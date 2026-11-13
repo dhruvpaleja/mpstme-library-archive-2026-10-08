@@ -4,20 +4,6 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2025-26 · Final-Exam · Sem 6 · Dataset · paper a8c58ddd8ee4
-
-- Departments: Artificial Intelligence, Civil, Data Science, Information Technology
-- Programmes: BTech AI 7012, BTech Civil 7005, BTech DS 7009, BTech IT 7001
-- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AI_7012/Basic Decision making with Spreadsheet/data_set_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.xlsx` (+3 identical copies)
-- Text: none (spreadsheet data set; no question text)
-
-## 2025-26 · Final-Exam · Sem 6 · Dataset · paper 248ee0a28749
-
-- Departments: Computer Engineering, Cyber Security, Data Science
-- Programmes: BTech Computer 7002, BTech CSE DS 7057, BTech CyberSecurity 7010
-- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/Basic Decision making with Spreadsheet/data_set_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.xlsx` (+5 identical copies)
-- Text: none (spreadsheet data set; no question text)
-
 ## 2025-26 · Final-Exam · Sem 6 · paper ad5ab37216ac
 
 - Departments: Artificial Intelligence
@@ -2286,6 +2272,20 @@ Goalseek technique (What-if-Analysis function).
 ********** 8 **********
 ````
 
+## 2025-26 · Final-Exam · Sem 6 · Dataset · paper a8c58ddd8ee4
+
+- Departments: Artificial Intelligence, Civil, Data Science, Information Technology
+- Programmes: BTech AI 7012, BTech Civil 7005, BTech DS 7009, BTech IT 7001
+- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AI_7012/Basic Decision making with Spreadsheet/data_set_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.xlsx` (+3 identical copies)
+- Text: none (spreadsheet data set; no question text)
+
+## 2025-26 · Final-Exam · Sem 6 · Dataset · paper 248ee0a28749
+
+- Departments: Computer Engineering, Cyber Security, Data Science
+- Programmes: BTech Computer 7002, BTech CSE DS 7057, BTech CyberSecurity 7010
+- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/Basic Decision making with Spreadsheet/data_set_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.xlsx` (+5 identical copies)
+- Text: none (spreadsheet data set; no question text)
+
 ## 2025-26 · Re-Exam · Sem 6 · paper a51df1bca3f2
 
 - Departments: Data Science
@@ -3159,6 +3159,7 @@ required
 - Programmes: B TECH, MBA TECH
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/BASIC DECISION MAKING WITH SPREADSHEET/Basic Decision Making with Apreadsheet, Sem-V, Final Exam 2024-25 & Re Exam 2023-24.pdf` (+2 identical copies)
 - Text: ocr (5 pages), mean OCR confidence 84.5
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3259,12 +3260,9 @@ o Build a scenario for best & worst cases of Cash Flow, Growth Rates &
 COC of 10% on either side
 --- page 3 ---
 Customer fan Mar 7, re re, a:
-1soo10. —2oygon' —2snomo! ——_gongon’—3anowo! magma; asygoo, Suga» 580000
 70000000 googoo! — snogw0: —140n00: 120000" 130000. 40mg00! 15,0000
-iBonoon' _oygan: _mgoygon'_ayoggon. __gnoan0'__28on000._snonomn| 30900 _ 340000
 4000 440,000: 4800000; 5200000 560000, 600,000: 6400000 eonon0. 72,0000)
 syonom 3onc00; 94co000} 9309000. 0409000 1090000 14oyoe0- 19,0900 4.240000,
-1;ggomm0. 4450000, 1s1gnoun| _1s7angi0 __43.onotn| 4.8040 | _steo0,_ 18700000;
 20500000 71300000: 2.240000 2.290000 2.37,00000. 2,45,09000 21,0000. 2,69,0,000
 298,00,000,_3,02,00,000;_31,00,000' 32000000 3,29,00000, 33800000. 3 enoto, 365,00
 sgypnooo 40400000, 4600000' 42809000 440.0000 45209000. 46409000, 4.76,09000- 488.0000,
@@ -3356,6 +3354,7 @@ oad
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/BASIC DECISION MAKING WITH SPREADSHEET/Basic Decision making with Spreadsheet, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2025
 - Text: ocr (6 pages), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVIM?S NMIMS
@@ -3627,7 +3626,6 @@ oii te eee
 
 10 SOUS. -yenid di aes
 
-a Le a ke AO [20]
 12 4.6 7.6
 
 13 8.09 fo 11.8
@@ -3647,6 +3645,154 @@ of 5.5 feet and a standard deviation of 0.5 feet. What proportion of
 students are between 5.81 feet and 6.3 feet ?
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 6 · paper 86669fdbed07
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/BASIC DECISION MAKING WITH SPREADSHEET/Basic Decision Making with Spreadsheets, Sem VI, Final Exam & Re Exam 2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 86.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
+Academic Year: 2023-2024
+
+Program: BTech/ MBA Tech; All Applicable Streams Year: III Semester: VI
+
+Subject: Basic Decision Making with Spreadsheets Time: __3___ hrs (2:00pn to 520 Opw)
+Date:_30 /4 / 24. . No. of Pages:05
+
+Marks: 100 .
+
+Final Examination(Re-examination 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+_. 2) Out of remaining questions, attempt any__4 _ questions.
+3) Inall__5_ questions to be attempted,
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page (worksheet).
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. ,
+
+r
+
+Ql ; :
+Answer briefly: [20]
+CO1 :So- a. Build upon the statement “the Developer Function helps execute sensitivity [05]
+1; BL-2 analysis in varied scenarios”.
+CO1; SO- b. In the context of Regression, explain how the coefficient of Determination [05]
+1;BL-1 is arrived at and the significance of the same.
+CO1:S01 c. Elaborate upon the uses of “WLookUp & HLookUp” function and its [05]
+©) -BL-1 shortcomings if any indicating alternatives, like may be Index Match.
+: 7 ee :
+CO1;S01 d. How are nested IF statements used in Excel? Explain with suitable examples [05]
+
+-BL-2 as to how they could be used intuitively for decision making in excel?
+--- page 2 ---
+Pg ee
+
+Look at the appended Financials for TeeKay Services (in $ Mn).
+
+31/12/19 31/12/20 31/12/21 , 31/12/22
+
+: Revenues 157.00. 164.00 175.00 190.00
+
+4 coGs 79.00 __85.00 __94.00 __107.00
+
+- -G/p 78.00 79.00. 81.00 83.00
+
+; “() Opex 26,00: ___ 28.00 ___30.00__32.00 '
+
+_: BIT 52.00; 51,00 51.00. 51.00
+
+4 Interest 7.00 __10.00 __14.00 16.00.
+
+Qe __ PBT 45.00 41.00 37.00 35,00.
+CO1-;SO- _ ; i]. Bol
+
+7; BL-3 ot) Tax -15.00 16.00 17.00 __18.00
+
+PAT 30.00 25.00. 20.00' 17.00 |
+
+You are required to forecast the financials for the ensuing 4 years’ basis the
+
+following:
+
+a) Revenues to follow a linear forecast
+b) COGS to be based on CAGR
+
+c) Opex to increase by $2 Mn annually
+d) Interest to stay at 2022 level
+
+e) Corporate Taxes to be at the average of the historical rates
+--- page 3 ---
+You are given the following tax -slabs for the FY 23-24.
+
+Revised Income tax slabs under the new tax regime for FY 2023-24
+Income tax slabs undernew Income tax rates under
+
+tax regime new tax regime
+Oto Rs 3 lakh fe)
+Q3 Rs 3 lakh to Rs 6 lakh 5%
+co2 Sol Rs 6 lakh to Rs 9 lakh 10% . [20]
+BL-3 Rs 9 lakh to Rs 12 lakh 15%
+l= Rs 12 lakh to Rs 15 lakh 20%
+: Income above Rs 15 lakh 30%
+*Cess at the rate of 4% will be added to the income tax amount
+“Surcharge will be applicable on taxable incomes above Rs 50 lakh
+Use the IF-AND (Nested) functions to arrive at the Tax Liability of
+Meenakshi, who has a Taxable Income of INR 40 Lacs?
+A hardware major is considering production of Mini & Maxi Tablets.
+The inputs for production of every unit are as under, along with the
+constraints around inputs:
+C wee —
+Q4 . Maxi Mini — Available [20]
+CO1,SO1
+Bef Labour Hrs 6 9 <=7000
+‘Chip Sets 1 4 <=1000
+
+“Components 15 10 ~—-<=14000
+--- page 4 ---
+The firm targets a profit of $182/u & $139/u for the two models
+
+respectively.
+
+a) . Create a consumption matrix that maximizes the profit within the
+constraints mentioned?
+
+b) What is the max profit that can be achieved?
+
+A project is expected to have revenues a $7500 Mn. The estimated GPM
+is 60% and Opex is maintained at 20% of Revenues (including
+Depreciation of $700 Mn). The firm has an annual interest obligation of
+$1000 Mn and Corporate Taxes are payable @ 40%.
+
+The project has a useful life of 7 years during which the forecasted cash
+flows will be generated and the Cost of the Capital proposed to be
+deployed (substantially equity) is 12.5%.
+
+5
+_ so- The envisaged investment in to the project is $6800 Mn. [20]
+31 BL4
+a) Construct a financial model clearly exhibiting the inputs and the
+output to assess the financial viability of the project. (Use
+CFAT=PAT + Depreciation)
+b) Construct a scenario manager highlighting!
+1. Revenues (Best Case $10,000 Mn & Worst Case $5000 Mn)
+2. GPM (Best Case 75% & Worst Case 45%) .
+3. COC.(Best Case 9% and Worst Case 16%)
+Shyam wants to invest in a manner that, after three years from now, he
+Q6 receives INR 1,00,000. The rate of interest is 6% per year and the payment
+C02-;S0- [20]
+
+will be made at the start of each month.
+7;BL-4
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper 84e2d23aa0f5
 
 - Departments: Common (all branches)
@@ -3654,6 +3800,7 @@ students are between 5.81 feet and 6.3 feet ?
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/BASIC DECISION MAKING WITH SPREADSHEET/Basic Decision Making with Spreadsheet ,Final 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (5 pages), mean OCR confidence 87.0
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3714,15 +3861,11 @@ statement.
 --- page 2 ---
 Customer Jan Feb Mar Apr May Jun Jul Aug Sep
 
-oc «1000 pjgoo— stoma» 300000 stood 4agano 450000 5,0 550,000"
 be -—-7go0d»=—«80000 «Sonam = t00jo00 —s4.yand—2ane00 1300000140000 15,00
 GH 100000 2000000 «2200000 «2400000 «2600000200000 3000000 32,00,000 34,0000
-mayo © a4gogma——agpogmo. 54000 S6ygo0 —ajoggn ——s4a00m0 ——_GBNAND—_TPYAND
-vio -—-«saojood-——ajgogmo—4pogmo—3N0MN—YoKoAND 4.809000 114000 11900000 1240000
 pak «13900000 145 00g00 8109000. 1570000 16300000 16900000 17500000 48100000 187,00000
 sw 050000 24800000 2240000 2a3moo0 2870000 24500000 25300000 26400000 26,0000
 wx 28809000 3400000 3400000 32900000 33809000 3.300000 347000 33600000 36,0000
-YL 39290000 04a 4260n000 42800000 4ajooona —4szm0000 4540000 47EADONO 4 NOON
 Q You can observe a pattern in the sales invoices for various customers over (20)
 ee various months. Use smart skills to quickly populate the table in excel &
 : BL-
@@ -4034,152 +4177,313 @@ sensitivity of Yields to Bond Prices & establish the relation that
 exists. Use a range of 1% to 15% with a unit increment.
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 6 · paper 86669fdbed07
+## 2022-23 · Exam not stated · Sem 6 · paper cfeed839e398
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/BASIC DECISION MAKING WITH SPREADSHEET/Basic Decision Making with Spreadsheets, Sem VI, Final Exam & Re Exam 2022-23.pdf` (+1 identical copies)
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/BASIC DECISION MAKING WITH SPREADSHEET/Basic Decision Making with Spreadsheets.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 86.5
+- Text: ocr (4 pages), mean OCR confidence 92.1
 
 ````text
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
-Academic Year: 2023-2024
+& “ i
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E KINEERING _Z
+UTS
+Academic Year: 2022-2023 iS UNIVERSE.
+Program: BTech/ MBA Tech; All Streams Year: III Semester: VI
+Subject: Basic Decision Making with Spreadsheets Time: 3 _ hrs @0:00amto01!00pn7)
 
-Program: BTech/ MBA Tech; All Applicable Streams Year: III Semester: VI
+Date:_04 iMaia0es No. of Pages; 0S
 
-Subject: Basic Decision Making with Spreadsheets Time: __3___ hrs (2:00pn to 520 Opw)
-Date:_30 /4 / 24. . No. of Pages:05
+Marks: 100
 
-Marks: 100 .
-
-Final Examination(Re-examination 2022-23)
+Final Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No._1___ is compulsory.
-_. 2) Out of remaining questions, attempt any__4 _ questions.
-3) Inall__5_ questions to be attempted,
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+
+>, 3)Imall___5_ questions to be attempted.
 4) All questions carry equal marks.
 5) Answer to each new question to be started on a fresh page (worksheet).
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. ,
-
-r
-
-Ql ; :
+7) Assume Suitable data if necessary.
+Ql
 Answer briefly: [20]
-CO1 :So- a. Build upon the statement “the Developer Function helps execute sensitivity [05]
-1; BL-2 analysis in varied scenarios”.
-CO1; SO- b. In the context of Regression, explain how the coefficient of Determination [05]
-1;BL-1 is arrived at and the significance of the same.
-CO1:S01 c. Elaborate upon the uses of “WLookUp & HLookUp” function and its [05]
-©) -BL-1 shortcomings if any indicating alternatives, like may be Index Match.
-: 7 ee :
-CO1;S01 d. How are nested IF statements used in Excel? Explain with suitable examples [05]
+a. Build upon the statement “ a Monte Carlo Simulation is used to estimate the
+ute probabilities of different outcomes that are difficult to predict owing to the [05]
+, intervention of random variables”.
+b. In the context of Time Series Analysis, explain the Moving Average Method
+ae nO and how do traders use moving average to generate buy and sell signals in [05]
+> ; stock market.
+corsol | ° Elaborate upon the uses of “ VLookUp & HLookUp” function and it’s [05]
+-BL-1 shortcomings if any indicating alternatives.
+COLSO1 d. How are nested IF statements used in Excel? Explain with suitable examples
+
+[05]
+-BL-2 as to how they could be used intuitively for decision making in excel?
+--- page 2 ---
+A) Look at the database for the students’ marksheet for “Finance
+
+Electives”.
+
+Student FM COFI M&A
+
+Aayushi 75 87 92
+
+Babita 46 52 63
+
+Chaitanya 87 98 75
+
+Deveshi 58 96 75
+
+Eshan 68 75 96
+
+Fatima 78 49 94 \
+
+Gurpreet 86 76 51
+
+Hatim 54 65 52
+
+lravadi 89 78 45
+@ Joyita 98 54 65
+CO1-;S0- [20]
+7; BL-3
+
+Use Index & Match (in combination with no hard-coding & linkages only)to
+
+populate results for
+
+Deveshi, Fatima & Iravadi
+
+B) Given the below tax slabs for FY 21-22:
+
+Upto 2.5L NIL
+2-SL-SL 5%
+5L-10L 20%
+
+>10L 30%
+--- page 3 ---
+Should Vir have a taxable income of Rs 15,00,002, estimate his tax liability,
+
+using the IF AND function.
+
+Meenakshi has constructed a portfolio consisting of 2 stocks A & B. A has
+forecasted return & risk of 25% & 20% and B has forecasted return & risk
+
+of 15% & 12% respectively.
+
+Q3
+
+C02,S01 The coefficient of correlation between them is 0.28. [20]
+BL-3
+e a) Optimise Meenakshi’s Portfolio given that the G-secs yield 6%
+b) Estimate the risk & return of the Optimized Portfolio |
+c) Construct a data table to validate the results
+Mohan is an investment banker and is analyzing the following stocks with
+prices as under.
+Calculate the 95%, 1 Day VaR for an equal weighted portfolio of 5 stocks
+having the following prices at the end of each of the last 5 years:
+Q4
+Years A B Cc D E [20]
+pe tt) 317 281 400 437 277
+° 1 350 300 370 478 = 310
+_ 2 300 277 457 526 347
+c 3 280. 256 415 564 386
+4 325 310 460 612 423
+5 380 396 510 644 458
+A project is expected to have revenues of $7500 Mn. The estimated GPM
+Q5 is 60% and Opex is maintained at 20% of Revenues (including 120]
+ae Depreciation of $700 Mn). The firm has an annual interest obligation of
+
+$1000 Mn and Corporate Taxes are payable @ 40%. The project has a
+--- page 4 ---
+(annually). The Bond has 5 years to maturity. Use the Excel
+
+Functions and the tabular approach to achieve the results.
+
+B) Additionally, also use the Spin Change Form Controls to test the
+sensitivity of Yields to Bond Prices & establish the relation that
+
+exists. Use a range of 1% to 15% with a unit increment.
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper 896e8dfa9b70
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/BASIC DECISION MAKING WITH SPREADSHEET/Basic Decision Making with Spreadsheets0002.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (5 pages), mean OCR confidence 93.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2022-2023
+
+Program: BTech/ MBA Tech; All Streams Year: II] Semester: VI
+Subject: Basic Decision Making with Spreadsheets Time: 3 __ hrs €0:00amto01/00pnm1)
+
+Date:_04 May/2025 No. of Pages; 0S
+
+Marks: 100
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any _4 _ questions.
+© 3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page (worksheet).
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+
+a. Build upon the statement “a Monte Carlo Simulation is used to estimate the
+
+oe probabilities of different outcomes that are difficult to predict owing to the [05]
+, intervention of random variables”.
+
+b. In the context of Time Series Analysis, explain the Moving Average Method
+CO1; SO- and how do traders use moving average to generate buy and sell signals in [05]
+1;BL-1 7 6
+
+“a stock market.
+CO1:;SO1 c: Elaborate upon the uses of “ VLookUp & HLookUp” function and it’s [05]
+-BL-1 shortcomings if any indicating alternatives.
+: A a : -
+
+CO1;s01 d. How are nested IF statements used in Excel? Explain with suitable examples [05]
 
 -BL-2 as to how they could be used intuitively for decision making in excel?
 --- page 2 ---
-Pg ee
+Q2
 
-Look at the appended Financials for TeeKay Services (in $ Mn).
+CO1-;SO-
+7; BL-3
 
-31/12/19 31/12/20 31/12/21 , 31/12/22
+A) Look at the database for the students’ marksheet for “Finance
 
-: Revenues 157.00. 164.00 175.00 190.00
+Electives”.
 
-4 coGs 79.00 __85.00 __94.00 __107.00
+Student FM COFI M&A
+Aayushi 75 87 92
+Babita 46 52 63
+Chaitanya 87 98 75
+Deveshi 58 96 75
+Eshan 68 75 96
+Fatima 78 49 94
+Gurpreet 86 76 51
+Hatim 54 65 52
+lravadi 89 78 45
+Joyita 98 54 65
 
-- -G/p 78.00 79.00. 81.00 83.00
+Use Index & Match (in combination with no hard-coding & linkages only)to
 
-; “() Opex 26,00: ___ 28.00 ___30.00__32.00 '
+populate results for
 
-_: BIT 52.00; 51,00 51.00. 51.00
+Deveshi, Fatima & Iravadi
 
-4 Interest 7.00 __10.00 __14.00 16.00.
+B) Given the below tax slabs for FY 21-22:
 
-Qe __ PBT 45.00 41.00 37.00 35,00.
-CO1-;SO- _ ; i]. Bol
+Upto 2.5L NIL
+2-5L-5L 5%
+5L-10L 20%
 
-7; BL-3 ot) Tax -15.00 16.00 17.00 __18.00
+>10L 30%
 
-PAT 30.00 25.00. 20.00' 17.00 |
+[20]
 
-You are required to forecast the financials for the ensuing 4 years’ basis the
-
-following:
-
-a) Revenues to follow a linear forecast
-b) COGS to be based on CAGR
-
-c) Opex to increase by $2 Mn annually
-d) Interest to stay at 2022 level
-
-e) Corporate Taxes to be at the average of the historical rates
+a,
 --- page 3 ---
-You are given the following tax -slabs for the FY 23-24.
+7>
 
-Revised Income tax slabs under the new tax regime for FY 2023-24
-Income tax slabs undernew Income tax rates under
+Should Vir have a taxable income of Rs 15,00,002, estimate his tax liability,
+using the IF AND function.
 
-tax regime new tax regime
-Oto Rs 3 lakh fe)
-Q3 Rs 3 lakh to Rs 6 lakh 5%
-co2 Sol Rs 6 lakh to Rs 9 lakh 10% . [20]
-BL-3 Rs 9 lakh to Rs 12 lakh 15%
-l= Rs 12 lakh to Rs 15 lakh 20%
-: Income above Rs 15 lakh 30%
-*Cess at the rate of 4% will be added to the income tax amount
-“Surcharge will be applicable on taxable incomes above Rs 50 lakh
-Use the IF-AND (Nested) functions to arrive at the Tax Liability of
-Meenakshi, who has a Taxable Income of INR 40 Lacs?
-A hardware major is considering production of Mini & Maxi Tablets.
-The inputs for production of every unit are as under, along with the
-constraints around inputs:
-C wee —
-Q4 . Maxi Mini — Available [20]
-CO1,SO1
-Bef Labour Hrs 6 9 <=7000
-‘Chip Sets 1 4 <=1000
+Meenakshi has constructed a portfolio consisting of 2 stocks A & B. A has
+forecasted return & risk of 25% & 20% and B has forecasted return & risk
+of 15% & 12% respectively. .
 
-“Components 15 10 ~—-<=14000
+Q3
+C02,S01 The coefficient of correlation between them is 0.28. [20]
+BL-3
+a) Optimise Meenakshi’s Portfolio given that the G-secs yield 6%
+b) Estimate the risk & return of the Optimized Portfolio
+c) Construct a data table to validate the results
+Mohan is an investment banker and is analyzing the following stocks with
+prices as under.
+Calculate the 95%, 1 Day VaR for an equal weighted portfolio of 5 stocks
+having the following prices at the end of each of the last 5 years:
+Q4
+Years A B c D E [20]
+Soran 0 317 281 400 437 277
+7 1 350 300 370 478 310
+2 300 277 457 526 347
+3 280 256 415 564 386
+4 325 310 460 612 423
+5 380 396 510 644 458
+A project is expected to have revenues of $7500 Mn. The estimated GPM
+Q5 is 60% and Opex is maintained at 20% of Revenues (including (20)
+vee Depreciation of $700 Mn). The firm has an annual interest obligation of
+
+$1000 Mn and Corporate Taxes are payable @ 40%. The project has a
 --- page 4 ---
-The firm targets a profit of $182/u & $139/u for the two models
+useful life of 7 years and the Cost of the Capital proposed to be deployed
+(substantially equity) is 12.5%.
 
-respectively.
+The envisaged investment in to the project is $6800 Mn.
 
-a) . Create a consumption matrix that maximizes the profit within the
-constraints mentioned?
-
-b) What is the max profit that can be achieved?
-
-A project is expected to have revenues a $7500 Mn. The estimated GPM
-is 60% and Opex is maintained at 20% of Revenues (including
-Depreciation of $700 Mn). The firm has an annual interest obligation of
-$1000 Mn and Corporate Taxes are payable @ 40%.
-
-The project has a useful life of 7 years during which the forecasted cash
-flows will be generated and the Cost of the Capital proposed to be
-deployed (substantially equity) is 12.5%.
-
-5
-_ so- The envisaged investment in to the project is $6800 Mn. [20]
-31 BL4
 a) Construct a financial model clearly exhibiting the inputs and the
-output to assess the financial viability of the project. (Use
-CFAT=PAT + Depreciation)
+output to assess the financial viability of the project. .
 b) Construct a scenario manager highlighting!
 1. Revenues (Best Case $10,000 Mn & Worst Case $5000 Mn)
-2. GPM (Best Case 75% & Worst Case 45%) .
-3. COC.(Best Case 9% and Worst Case 16%)
-Shyam wants to invest in a manner that, after three years from now, he
-Q6 receives INR 1,00,000. The rate of interest is 6% per year and the payment
-C02-;S0- [20]
+2. GPM (Best Case 75% & Worst Case 45%)
+3. COC (Best Case 9% and Worst Case 16%)
 
-will be made at the start of each month.
-7;BL-4
+Shyam wants to invest in a manner that, after three years from now, he
+receives $75,000. The rate of interest is 4.5% per year and the payment will
+
+be made at the start of each month.
+
+a) What monthly investment should he be making?
+b) Construct a movement schedule to validate your results.
+c) Shyam also wants to understand how much investment he needs
+
+to make monthly when? (use a two-way data table to populate)
+
+Q6
+C02-;S0- aa
+7;BL-4 Rate of Interest ]1% [2% [3% [4% [45% | 5%
+$ to be received 10000 | 20000 | 30000 | 40000 | 50000 | 60000
+at end of 3 years
+d) Should he change his objective after 12 months and he wishes to
+receive Rs 125,000 instead after the remainder period, estimate the
+new deposit amount and validate your results with the movement
+schedule?
+Q7
+C03-; A) Estimate the Price of a Bond that has a FV of $1000, and carrying [20]
+SO-8; an annual coupon of 6%. The Bond Investors expect a YTM of 8%
+
+BL-5
+
+‘es
+--- page 5 ---
+(annually). The Bond has 5 years to maturity. Use the Excel
+
+Functions and the tabular approach to achieve the results.
+
+B) Additionally, also use the Spin Change Form Controls to test the
+sensitivity of Yields to Bond Prices & establish the relation that
+
+exists. Use a range of 1% to 15% with a unit increment.
 ````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper e6bb9ca3513a
@@ -4797,313 +5101,4 @@ B) Additionally, also use the Spin Change Form Controls to test the
 sensitivity of Yields to Bond Prices & establish the relation that
 
 exists. Use a range of 1% to 15% with a unit increment!
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper cfeed839e398
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/BASIC DECISION MAKING WITH SPREADSHEET/Basic Decision Making with Spreadsheets.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 92.1
-
-````text
-SVKM’S NMIMS
-& “ i
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E KINEERING _Z
-UTS
-Academic Year: 2022-2023 iS UNIVERSE.
-Program: BTech/ MBA Tech; All Streams Year: III Semester: VI
-Subject: Basic Decision Making with Spreadsheets Time: 3 _ hrs @0:00amto01!00pn7)
-
-Date:_04 iMaia0es No. of Pages; 0S
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-
->, 3)Imall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page (worksheet).
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql
-Answer briefly: [20]
-a. Build upon the statement “ a Monte Carlo Simulation is used to estimate the
-ute probabilities of different outcomes that are difficult to predict owing to the [05]
-, intervention of random variables”.
-b. In the context of Time Series Analysis, explain the Moving Average Method
-ae nO and how do traders use moving average to generate buy and sell signals in [05]
-> ; stock market.
-corsol | ° Elaborate upon the uses of “ VLookUp & HLookUp” function and it’s [05]
--BL-1 shortcomings if any indicating alternatives.
-COLSO1 d. How are nested IF statements used in Excel? Explain with suitable examples
-
-[05]
--BL-2 as to how they could be used intuitively for decision making in excel?
---- page 2 ---
-A) Look at the database for the students’ marksheet for “Finance
-
-Electives”.
-
-Student FM COFI M&A
-
-Aayushi 75 87 92
-
-Babita 46 52 63
-
-Chaitanya 87 98 75
-
-Deveshi 58 96 75
-
-Eshan 68 75 96
-
-Fatima 78 49 94 \
-
-Gurpreet 86 76 51
-
-Hatim 54 65 52
-
-lravadi 89 78 45
-@ Joyita 98 54 65
-CO1-;S0- [20]
-7; BL-3
-
-Use Index & Match (in combination with no hard-coding & linkages only)to
-
-populate results for
-
-Deveshi, Fatima & Iravadi
-
-B) Given the below tax slabs for FY 21-22:
-
-Upto 2.5L NIL
-2-SL-SL 5%
-5L-10L 20%
-
->10L 30%
---- page 3 ---
-Should Vir have a taxable income of Rs 15,00,002, estimate his tax liability,
-
-using the IF AND function.
-
-Meenakshi has constructed a portfolio consisting of 2 stocks A & B. A has
-forecasted return & risk of 25% & 20% and B has forecasted return & risk
-
-of 15% & 12% respectively.
-
-Q3
-
-C02,S01 The coefficient of correlation between them is 0.28. [20]
-BL-3
-e a) Optimise Meenakshi’s Portfolio given that the G-secs yield 6%
-b) Estimate the risk & return of the Optimized Portfolio |
-c) Construct a data table to validate the results
-Mohan is an investment banker and is analyzing the following stocks with
-prices as under.
-Calculate the 95%, 1 Day VaR for an equal weighted portfolio of 5 stocks
-having the following prices at the end of each of the last 5 years:
-Q4
-Years A B Cc D E [20]
-pe tt) 317 281 400 437 277
-° 1 350 300 370 478 = 310
-_ 2 300 277 457 526 347
-c 3 280. 256 415 564 386
-4 325 310 460 612 423
-5 380 396 510 644 458
-A project is expected to have revenues of $7500 Mn. The estimated GPM
-Q5 is 60% and Opex is maintained at 20% of Revenues (including 120]
-ae Depreciation of $700 Mn). The firm has an annual interest obligation of
-
-$1000 Mn and Corporate Taxes are payable @ 40%. The project has a
---- page 4 ---
-(annually). The Bond has 5 years to maturity. Use the Excel
-
-Functions and the tabular approach to achieve the results.
-
-B) Additionally, also use the Spin Change Form Controls to test the
-sensitivity of Yields to Bond Prices & establish the relation that
-
-exists. Use a range of 1% to 15% with a unit increment.
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 896e8dfa9b70
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/BASIC DECISION MAKING WITH SPREADSHEET/Basic Decision Making with Spreadsheets0002.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (5 pages), mean OCR confidence 93.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-Academic Year: 2022-2023
-
-Program: BTech/ MBA Tech; All Streams Year: II] Semester: VI
-Subject: Basic Decision Making with Spreadsheets Time: 3 __ hrs €0:00amto01/00pnm1)
-
-Date:_04 May/2025 No. of Pages; 0S
-
-Marks: 100
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any _4 _ questions.
-© 3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page (worksheet).
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-
-a. Build upon the statement “a Monte Carlo Simulation is used to estimate the
-
-oe probabilities of different outcomes that are difficult to predict owing to the [05]
-, intervention of random variables”.
-
-b. In the context of Time Series Analysis, explain the Moving Average Method
-CO1; SO- and how do traders use moving average to generate buy and sell signals in [05]
-1;BL-1 7 6
-
-“a stock market.
-CO1:;SO1 c: Elaborate upon the uses of “ VLookUp & HLookUp” function and it’s [05]
--BL-1 shortcomings if any indicating alternatives.
-: A a : -
-
-CO1;s01 d. How are nested IF statements used in Excel? Explain with suitable examples [05]
-
--BL-2 as to how they could be used intuitively for decision making in excel?
---- page 2 ---
-Q2
-
-CO1-;SO-
-7; BL-3
-
-A) Look at the database for the students’ marksheet for “Finance
-
-Electives”.
-
-Student FM COFI M&A
-Aayushi 75 87 92
-Babita 46 52 63
-Chaitanya 87 98 75
-Deveshi 58 96 75
-Eshan 68 75 96
-Fatima 78 49 94
-Gurpreet 86 76 51
-Hatim 54 65 52
-lravadi 89 78 45
-Joyita 98 54 65
-
-Use Index & Match (in combination with no hard-coding & linkages only)to
-
-populate results for
-
-Deveshi, Fatima & Iravadi
-
-B) Given the below tax slabs for FY 21-22:
-
-Upto 2.5L NIL
-2-5L-5L 5%
-5L-10L 20%
-
->10L 30%
-
-[20]
-
-a,
---- page 3 ---
-7>
-
-Should Vir have a taxable income of Rs 15,00,002, estimate his tax liability,
-using the IF AND function.
-
-Meenakshi has constructed a portfolio consisting of 2 stocks A & B. A has
-forecasted return & risk of 25% & 20% and B has forecasted return & risk
-of 15% & 12% respectively. .
-
-Q3
-C02,S01 The coefficient of correlation between them is 0.28. [20]
-BL-3
-a) Optimise Meenakshi’s Portfolio given that the G-secs yield 6%
-b) Estimate the risk & return of the Optimized Portfolio
-c) Construct a data table to validate the results
-Mohan is an investment banker and is analyzing the following stocks with
-prices as under.
-Calculate the 95%, 1 Day VaR for an equal weighted portfolio of 5 stocks
-having the following prices at the end of each of the last 5 years:
-Q4
-Years A B c D E [20]
-Soran 0 317 281 400 437 277
-7 1 350 300 370 478 310
-2 300 277 457 526 347
-3 280 256 415 564 386
-4 325 310 460 612 423
-5 380 396 510 644 458
-A project is expected to have revenues of $7500 Mn. The estimated GPM
-Q5 is 60% and Opex is maintained at 20% of Revenues (including (20)
-vee Depreciation of $700 Mn). The firm has an annual interest obligation of
-
-$1000 Mn and Corporate Taxes are payable @ 40%. The project has a
---- page 4 ---
-useful life of 7 years and the Cost of the Capital proposed to be deployed
-(substantially equity) is 12.5%.
-
-The envisaged investment in to the project is $6800 Mn.
-
-a) Construct a financial model clearly exhibiting the inputs and the
-output to assess the financial viability of the project. .
-b) Construct a scenario manager highlighting!
-1. Revenues (Best Case $10,000 Mn & Worst Case $5000 Mn)
-2. GPM (Best Case 75% & Worst Case 45%)
-3. COC (Best Case 9% and Worst Case 16%)
-
-Shyam wants to invest in a manner that, after three years from now, he
-receives $75,000. The rate of interest is 4.5% per year and the payment will
-
-be made at the start of each month.
-
-a) What monthly investment should he be making?
-b) Construct a movement schedule to validate your results.
-c) Shyam also wants to understand how much investment he needs
-
-to make monthly when? (use a two-way data table to populate)
-
-Q6
-C02-;S0- aa
-7;BL-4 Rate of Interest ]1% [2% [3% [4% [45% | 5%
-$ to be received 10000 | 20000 | 30000 | 40000 | 50000 | 60000
-at end of 3 years
-d) Should he change his objective after 12 months and he wishes to
-receive Rs 125,000 instead after the remainder period, estimate the
-new deposit amount and validate your results with the movement
-schedule?
-Q7
-C03-; A) Estimate the Price of a Bond that has a FV of $1000, and carrying [20]
-SO-8; an annual coupon of 6%. The Bond Investors expect a YTM of 8%
-
-BL-5
-
-‘es
---- page 5 ---
-(annually). The Bond has 5 years to maturity. Use the Excel
-
-Functions and the tabular approach to achieve the results.
-
-B) Additionally, also use the Spin Change Form Controls to test the
-sensitivity of Yields to Bond Prices & establish the relation that
-
-exists. Use a range of 1% to 15% with a unit increment.
 ````

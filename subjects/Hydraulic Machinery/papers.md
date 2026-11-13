@@ -813,6 +813,135 @@ Q.7(b) Draw a neat sketch and explain the principle and working of a hydraulic p
 2/2|Page
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper b056375049e6
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULICS MACHINERY/Hydraulic Machinery Re-exam 17-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 Jan 2019
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (Civil) Year: Ul Semester : V
+Academic Year: 2018-19
+
+Subject: Hydraulic Machinery Marks: 70
+
+Time: 2.00 pm to 5.00 pm
+
+Date: 19 Jan 2019
+“= Durations: 3 (hrs)
+
+No. of Pages:__»z
+_Re-examination (201 7-18) 201 3- -15)
+
+Instructions: Candidates should read carefully the instructions printed on the Uce el ag the cover
+of the Answer Book, which is provided for their use. x
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Qu.l: Solve any Four
+
+(a) Derive an expression for impact of jet striking hinged flat plate | \(35)
+(b) Derive expressions for variation of velocity in reciprocating pump | 1/85)
+(c) Explain the working principle of Hydraulic Press. Draw neat sketch hes 5) |
+(d) Priming is important in Centrifugal Pump. Discuss Gs) |
+(e) Compare working principle of Kaplan and Francis turbine 15) |
+(f) Explain the working of hydro-power plant with neat sketch 65)
+
+Qu.2A: A water jet of 70 mm diameter with a velocity of 20m/s impinges on a curved vane moving inthe same (07)
+direction as that of the jet with a velocity of 6m/s. The jet leaves the vane at an angle of 165° with the
+direction of motion of vane. Find
+
+(a) The force exerted by the jet in the direction of motion of the vane
+(b) The power developed by the jet and
+(c) The efficiency of the vane
+
+Qu.2B: _ A ship driven a jet propulsion draws water through inlet openings at bow facing the direction of motion. (07)
+The absolute velocity of the jet discharged at the stern is 10 m/s when the ship is moving in the seawater
+with a speed of 25 km/h. If the area of the jet is 0.05m’, find (a) the propulsive force, (b) propulsive
+power, (c) efficiency of propulsion, (d) power required by the pump.
+
+Qu.3A: . Explain working principle of Pelton Wheel Turbine, also plot velocity triangles for Pelton Wheel (07)
+Turbine
+
+<
+--- page 2 ---
+Qu.3B: A Pelton turbine is to work at the foot of dam whose reservoir level is 450m. The friction losses in the (07)
+penstock amounts to 60m of head. The turbine is to operate at 500 rpm and develop a power of 9500 kW.
+The buckets deflect the jet through an angle of 170°. Assuming the blade to jet speed ratio as 0.46 and
+the coefficient of velocity as 0.98, determine the wheel diameter and hydraulic efficiency.
+
+Qu.4A: 600 kW Francis turbine is to be designed to develop a power under a head of 80m while running ata (07)
+speed of 900 rpm. Following are some data pertinent to the turbine:
+(1) Ratio of width of runner to outer diameter of the runner = 0.15
+
+(2) Ratio of inner diameter to outer diameter of the runner = 0.6
+(3) Flow ratio = 0.18
+
+(4) Hydraulic efficiency = 92%
+
+(5) Overall efficiency = 85%
+
+Circumferential area occupied by thickness of vanes = 5%.
+Assuming velocity of flow constant, calculate guide vane angle at inlet and runner vane angles at inlet
+and outlet. The radial velocity is equal to 4.8m/s.
+
+Qu.4B: Derive an expression for the efficiency of a draft tube, also discuss why draft tube is required in the (07)
+turbine.
+
+Qu.5A: A centrifugal pump is running at 1200rpm delivers water. The diameter of impeller at inlet is 100mm (07)
+and the outlet is 300mm. The width of the impeller s 50mm at the inlet and 20mm at the outlet. The blade
+angle at outlet is 30°. If the velocity of flow at inlet is 2.2.m/s, find the velocity of flow at outlet, also
+find the head developed if the manometric efficiency is 75%.
+
+Qu.5B: A 1/Sth scale model of a centrifugal pump absorbs 20kW when pumping against a head of Sm at its best (07)
+speed of 2500rpm. If the actual pump works against 40m head, find the speed and power required for the
+actual pump, also find the ratio of water discharged by the two pumps.
+
+Qu.6A: A single acting reciprocating pump has the following data: (07)
+Cylinder diameter= 40 cm; Stroke =40 cm; Static suction head = 5m; Diameter of suction pipe = 20cm;
+Suction pipe length = 6m; Crank speed = 25 rpm; Delivery pipe diameter = 20cm; Length of delivery
+pipe = 25m; Static delivery head = 20m.Calculate the pressure head in the cylinder at the start, middle
+and end of each stroke. Take atmospheric pressure as 10.3m of water. Take Darcy-Weisbach friction
+factor f=0.02.
+
+Qu.6B: A Kaplan turbine develops 25 MW when running at 150 rpm under a head of 18m. The outer diameter (07)
+of the runner is Sm and hub diameter is 2.5m. The hydraulic and overall efficiency of the turbine is 92%
+and 86% respectively. Determine the discharge through the turbine and the blade angles at inlet and
+outlet, measured at mean radius of the runner.
+
+Qu.7: Attempt any Four
+
+(a) Compare pumps in series and parallel. (35)
+
+(b) What is indicator diagram? Explain the effect of acceleration on indicator diagram. (5)
+
+(c) Define NPSH. Derive an expression of NPSH. (35)
+
+(d) Explain the characteristics curves of centrifugal pump (Efficiency, Power and Discharge (35)
+with sketches.
+
+(e) Derive Thoma’s cavitation factor. ; (35)
+
+(f) Differentiate between Air lift pump and Gear pump. (3-5)
+
+Gly
+````
+
 ## 2017-18 · Final-Exam · Sem 5 · paper 38b08b64f519
 
 - Departments: Civil
@@ -1167,6 +1296,7 @@ cavitation.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULIC MACHINERY/HYDRAULIC MACHINERY BATCH 17-18 RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 31 May 2018
 - Text: ocr (2 pages), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS ¢
@@ -1273,7 +1403,6 @@ b) Explain: Head Discharge curve for a centrifugal pump.
 c) Discuss efficiency of a draft tube.
 d) Explain with neat sketch working of hydraulic crane.
 e) Explain: Jet Propulsion of ship.
-3K Ro Rk ok oi eo ok ok oie eo ok ok ok ok ok ok
 
 2)
 
@@ -1287,6 +1416,116 @@ e) Explain: Jet Propulsion of ship.
 07
 
 14
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper b3f96b33ddee
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULICS MACHINERY/HYDRAULIC MACHINERY BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 November 2017
+- Text: text (3 pages)
+
+````text
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MEA Tech (Civil)   Year: III   Semester: V
+Batch: 2016-17
+1!   Academic Year: 2017-2018
+SUbject: Hydraulic Machinery
+Marks: 60
+Date: 29 November 2017   Time: 10.00 am - 1.00 P
+Durations: 3 Hrs
+No. of.Pages:   0;:1
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on th'8i~Qtiiml1iF~'
+the cover of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In aIlS questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+Q.l Attempt any four questions   Marks
+a. Explain governing of pelton turbines   3
+b. Explain air lift pump with sketch   3
+c. Explain-asd   la:e+i,¥ Centrifugal pump with sketch   3
+d. Explain unit q,uantities for speed, discharge and power   3
+e. Explain an Ideal indicator diagram for Reciprocating Pump   3
+Q.2   Q.. The head of the water from the center of the orifice which is fitted to one side of the 6
+tank is maintained at 2 m of water. Take C, = 0.97
+1. The tank is not allowed to move and the diameter of orifice is 100 mm. find the
+force exerted by the jet of the water on the tank.
+2. The tank is fixed with frictionless wheels and allowed to move with.a velocity of
+2 m/sec., determine
+a. Propelling force on tank
+b. Work done by the propelling force per second
+c. Efficiency of the propulsion
+b. A jet of water having a velocity of 30 m/s strikes a series of radial curved vanes   6
+mounted on wheel which is rotating at 300 rpm. The jets make an angle of 300 with   -
+tangent to the wheel at inlet and leaves the wheel with a velocity of 4 m/s at an angle
+of 1200 to the tangent to the wheel at outlet. Water is flowing from outward in a radial
+direction. The outer and inner redid of the wheel are 0.6 m and 0.3 m respectively.
+Determine
+1.   Vane angles at inlet and outlet
+11. Work done per unit weight of water
+--- page 2 ---
+Q.3   a. A pelton wheel is revolving at a speed of200 rpm and develop 5586 kW shaft power.   6
+When working under a head of 200 m with an overall efficiency of 80 % determine
+the unit speed, unit discharge, and unit power. The speed ratio for the turbine is given
+as 0.48. find the speed, discharge and power when this turbine working under a head
+of 150 m
+b. A reaction turbine works at 500 rpm under the head of 100 m. its diameter at inlet is 6
+100 cm and the flow area is 0.35 m2• The angles made by the absolute and relative
+velocities at inlet are 15° and 60° respectively with the tangential velocity. Determine:
+a. The volume flow rate
+b. The power developed
+c. Hydraulic efficiency. Assume whirl at outlet to be zero
+Q.4   a. A Kaplan turbine runner is to be designed to develop 9000 kW shaft power. The net 6
+available head is 7.5 m. assume that the speed ratio based on outer diameter is 2.2 and
+flow ratio is 0.66, and the overall efficiency is 86 %. The diameter ofthe boss is 0.35
+times of the external diameter of the wheel. Find the diameter of the runner and its
+specific speed
+b. A Francis turbine with an overall efficiency of 70 % is required to produce 147.15 6
+kW. It is working under a head of 8 m. the peripheral velocity is 0.30 ..J(2gH) and
+radial velocity of flow at inlet is 0.96 ..J(2gH). The wheel runs at 200 rpm and the
+hydraulic losses in turbine are 20 % of the available energy. Assume radial discharge.
+Determine
+a. Guide blade angle
+b. The wheel vane angle at inlet
+c. Diameter of the wheel at inlet,
+d. Width of wheel at inlet.
+Q.5   a. A one fifth scale model of a p:ump was tested in a laboratory at 1000 rpm. The head 6
+developed and the power input at the best efficiency point were found to be 8 m and
+30kw respectively.   If the proto type of pump has to work against a head of 25 m,
+determine its working speed, the power required to drive it and the ratio of the flow
+rates handled by the two pumps.
+-
+b. Find the rise in pressure in the impeller of a centrifugal pump through which water is 6
+flowing the rate of 15 lit/sec. The internal and external diameters of the impeller are
+20 cm and 40 cm respectively. The width of the impeller at inlet and outlet are 1.6 cm
+and 0.8 cm. the pump is running at 1200 rpm. The water enters the impeller radially
+at inlet and impeller vane angle at outlet is 30°. Neglect losses through the impeller
+v/J
+--- page 3 ---
+----------------~.~----------~------
+Q.6   a. A double acting reciprocating pump running at 40 rpm, delivers 1000 lit per minute   6
+of water. The diameter of the piston is 20 cm and stroke length 40 cm. the delivery
+and suction heads are 21 m and 5 m respectively. Determine: the slip of the pump
+and power required to drive the pump
+b. A Single acting reciprocating pump has a plunger of 100 mm diameter and a stroke 6
+length of 200 mm. the centre of the pump is 4 m above the water level in the sump
+and 14 m below the water level in the tank to which water is delivered by the pump.
+The diameter and length of the suction pipe are 4q mm and 6 m while of the delivery
+pipe are 30 mm and 18 m respectively. Determine the maximum speed at which the
+pump may be run without separation, if separation occurs at 7.848 Nzcm? below the
+atmospheric pressure. Take atmospheric pressure head = 10.3 m of water.
+Q.7   Explain:   12
+1. Hydraulic press   3
+2. Hydraulic ram   3
+3. Draft Tube   3
+4. Net Positive Suction Head   3
+-
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper 631e77d3af22
@@ -1423,6 +1662,7 @@ Lea
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULICS MACHINERY/Hydraulic Machinery Batch 2016-17 Final.pdf`
 - Printed on paper: exam date: 30 November 2016
 - Text: ocr (2 pages), mean OCR confidence 93.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1530,7 +1770,110 @@ pump.
 
 Explain its significance in the performance analysis of centrifugal (06)
 
-FG GIGI RR a ok kok i a a6 ok ko kk
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper cbec52c5703d
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULIC MACHINERY/HYDRAULIC MACHINERY B TECH (CIVIL), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 01 December 2016
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (CIVIL) Year : III iS :
+Batch : 2015-2016 smestens V
+Academic Year : 2016-2017 ~
+nT ag
+Subject : Hydraulic Machinery Marks P . “~
+Time i‘ pm to 5.60 =
+
+Date : 01 December 2016 Durafi
+
+3(hrs) “¥% é)
+\ ?
+Re-Examination Rao ae wo
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Answer Book, which is provided for their use.
+NB:
+1. Qu. 1 is compulsory.
+2. Out of remaining questions attempt Amy 4 questions.
+3. All questions carry equal marks.
+4. Answer to each question to be started on the fresh page-
+5. Assume suitable additional data, if not given & mention it clearly.
+
+Qu.l: Write notes on: 12
+Attempt any Four(Each carrying equal marks)
+(a) Jet propulsion of ship
+(b) Use of draft Tube
+(c) Differentiate between Pelton wheel and Kaplan turbines
+(d) Minimum starting speed of a Centrifugal pump
+(e) NPSH in Centrifugal pump
+
+Qu.2a: Explain characteristic curves of centrifugal pump. 06
+Qu.2b: A centrifugal pump is running at 1500rpm delivers water. The diameter of impeller at inlet 06
+is 100mm and the outlet is 350mm. The width of the impeller s 70mm at the inlet and 20mm
+at the outlet. The blade angle at outlet is 35°. If the velocity of flow at inlet is 2.15m/s, find
+the velocity of flow at outlet. Also find the head developed if the manometric efficiency is
+80%
+
+Qu.3a: An inward flow reaction turbine running at 600 rpm has an external diameter is 750 mm 06
+and a width of 180 mm. If the guide vanes are at 20° to the wheel tangent and the absolute
+velocity of water at inlet is 28 m/s, find (a) discharge through the turbine (b) inlet vane
+angle.
+
+Qu.3b: A Pelton wheel Turbine having wheel diameter of 1.9m rotates at 500 rpm. Water is 06
+supplied at the rate of 12000LPM under a head of 520m. If the buckets deflect the jet
+through an angle of 165°, find the power developed and hydraulic efficiency of the turbine.
+Assume coefficient of velocity as 0.95 and neglect the frictional losses in the bucket.
+
+aa /2
+--- page 2 ---
+Qu.4a: Derive an expression for force exerted by a liquid jet striking a symmetrical moving curved
+vane tangentially at one of the tips.
+
+Qu.4b: A jet of water of diameter 50 mm strikes a stationary, symmetrical curved plate with a
+velocity of 40 m/s. Find the force extended by the jet at the center of plate along its axis if
+the jet is deflected through 120° at the outlet of the curved plate. ;
+
+Qu.5a: Explain in detail the effect of acceleration on Indicator Diagram of Reciprocating pump 06
+(with sketch).
+
+Qu.5b: The peripheral velocity at inlet of an outward flow reaction turbine is 15 m/s. The internal 06
+diameter is 0.75 times the external diameter. The vanes are radial at entrance and the vane
+angle at outlet is 25°. The velocity of flow through the runner at inlet is 5 m/s. If the final
+discharge is radial and the turbine is situated 1 m below tail water level, determine:
+
+1. The guide blade angle
+
+2. The absolute velocity of water leaving the guides
+3. The head on the turbine
+
+4. The hydraulic efficiency
+
+Qu.6: A single acting reciprocating pump has the following data: 12
+
+Cylinder diameter = 15cm, Stroke length = 30cm, Static suction head = 5m, Diameter of
+suction pipe = 6cm, Suction pipe length = 8m, Crank speed = 40rpm, Delivery pipe diameter
+=6 cm, Length of delivery pipe = 28m, Static delivery head = 18m. Estimate the pressure
+head on the piston at the (1) beginning (2) mid and (3) end of the suction and delivery
+strokes. Assume atmospheric pressure = 10m of water (abs) and Darcy Weisbach friction
+factor f=0.015. Draw Indicator diagram also.
+
+Qu.7: Attempt any Four(Each carrying equal marks) 12
+
+(a) Differentiate between pumps in series and parallel
+
+(b) Explain working principle of Francis turbine (with sketch)
+
+(c) Differentiate between priming and cavitation
+
+(d) Derive an expression for impact of jet striking on hinged inclined plate
+(e) Explain in brief the working of Hydraulic press (with sketch)
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper 49c720227ecf
@@ -1540,6 +1883,7 @@ FG GIGI RR a ok kok i a a6 ok ko kk
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULIC MACHINERY/HYDRAULIC MACHNERY BATCH 16-17 RE EXAM.pdf`
 - Printed on paper: exam date: 30 May 2017
 - Text: ocr (2 pages), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1641,117 +1985,6 @@ of the plunger is 250 mm. The weight lifted by the press is 2000 N and the dista
 weight is 1.5 m in 30 min. Determine (a) the force applied on the plunger (b) number of strokes
 performed by the plunger and (c) the power required driving the plunger.
 
-SC ORC IORI RR a aR aR AR OK
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper b3f96b33ddee
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULICS MACHINERY/HYDRAULIC MACHINERY BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 November 2017
-- Text: text (3 pages)
-
-````text
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MEA Tech (Civil)   Year: III   Semester: V
-Batch: 2016-17
-1!   Academic Year: 2017-2018
-SUbject: Hydraulic Machinery
-Marks: 60
-Date: 29 November 2017   Time: 10.00 am - 1.00 P
-Durations: 3 Hrs
-No. of.Pages:   0;:1
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on th'8i~Qtiiml1iF~'
-the cover of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In aIlS questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-Q.l Attempt any four questions   Marks
-a. Explain governing of pelton turbines   3
-b. Explain air lift pump with sketch   3
-c. Explain-asd   la:e+i,¥ Centrifugal pump with sketch   3
-d. Explain unit q,uantities for speed, discharge and power   3
-e. Explain an Ideal indicator diagram for Reciprocating Pump   3
-Q.2   Q.. The head of the water from the center of the orifice which is fitted to one side of the 6
-tank is maintained at 2 m of water. Take C, = 0.97
-1. The tank is not allowed to move and the diameter of orifice is 100 mm. find the
-force exerted by the jet of the water on the tank.
-2. The tank is fixed with frictionless wheels and allowed to move with.a velocity of
-2 m/sec., determine
-a. Propelling force on tank
-b. Work done by the propelling force per second
-c. Efficiency of the propulsion
-b. A jet of water having a velocity of 30 m/s strikes a series of radial curved vanes   6
-mounted on wheel which is rotating at 300 rpm. The jets make an angle of 300 with   -
-tangent to the wheel at inlet and leaves the wheel with a velocity of 4 m/s at an angle
-of 1200 to the tangent to the wheel at outlet. Water is flowing from outward in a radial
-direction. The outer and inner redid of the wheel are 0.6 m and 0.3 m respectively.
-Determine
-1.   Vane angles at inlet and outlet
-11. Work done per unit weight of water
---- page 2 ---
-Q.3   a. A pelton wheel is revolving at a speed of200 rpm and develop 5586 kW shaft power.   6
-When working under a head of 200 m with an overall efficiency of 80 % determine
-the unit speed, unit discharge, and unit power. The speed ratio for the turbine is given
-as 0.48. find the speed, discharge and power when this turbine working under a head
-of 150 m
-b. A reaction turbine works at 500 rpm under the head of 100 m. its diameter at inlet is 6
-100 cm and the flow area is 0.35 m2• The angles made by the absolute and relative
-velocities at inlet are 15° and 60° respectively with the tangential velocity. Determine:
-a. The volume flow rate
-b. The power developed
-c. Hydraulic efficiency. Assume whirl at outlet to be zero
-Q.4   a. A Kaplan turbine runner is to be designed to develop 9000 kW shaft power. The net 6
-available head is 7.5 m. assume that the speed ratio based on outer diameter is 2.2 and
-flow ratio is 0.66, and the overall efficiency is 86 %. The diameter ofthe boss is 0.35
-times of the external diameter of the wheel. Find the diameter of the runner and its
-specific speed
-b. A Francis turbine with an overall efficiency of 70 % is required to produce 147.15 6
-kW. It is working under a head of 8 m. the peripheral velocity is 0.30 ..J(2gH) and
-radial velocity of flow at inlet is 0.96 ..J(2gH). The wheel runs at 200 rpm and the
-hydraulic losses in turbine are 20 % of the available energy. Assume radial discharge.
-Determine
-a. Guide blade angle
-b. The wheel vane angle at inlet
-c. Diameter of the wheel at inlet,
-d. Width of wheel at inlet.
-Q.5   a. A one fifth scale model of a p:ump was tested in a laboratory at 1000 rpm. The head 6
-developed and the power input at the best efficiency point were found to be 8 m and
-30kw respectively.   If the proto type of pump has to work against a head of 25 m,
-determine its working speed, the power required to drive it and the ratio of the flow
-rates handled by the two pumps.
--
-b. Find the rise in pressure in the impeller of a centrifugal pump through which water is 6
-flowing the rate of 15 lit/sec. The internal and external diameters of the impeller are
-20 cm and 40 cm respectively. The width of the impeller at inlet and outlet are 1.6 cm
-and 0.8 cm. the pump is running at 1200 rpm. The water enters the impeller radially
-at inlet and impeller vane angle at outlet is 30°. Neglect losses through the impeller
-v/J
---- page 3 ---
-----------------~.~----------~------
-Q.6   a. A double acting reciprocating pump running at 40 rpm, delivers 1000 lit per minute   6
-of water. The diameter of the piston is 20 cm and stroke length 40 cm. the delivery
-and suction heads are 21 m and 5 m respectively. Determine: the slip of the pump
-and power required to drive the pump
-b. A Single acting reciprocating pump has a plunger of 100 mm diameter and a stroke 6
-length of 200 mm. the centre of the pump is 4 m above the water level in the sump
-and 14 m below the water level in the tank to which water is delivered by the pump.
-The diameter and length of the suction pipe are 4q mm and 6 m while of the delivery
-pipe are 30 mm and 18 m respectively. Determine the maximum speed at which the
-pump may be run without separation, if separation occurs at 7.848 Nzcm? below the
-atmospheric pressure. Take atmospheric pressure head = 10.3 m of water.
-Q.7   Explain:   12
-1. Hydraulic press   3
-2. Hydraulic ram   3
-3. Draft Tube   3
-4. Net Positive Suction Head   3
--
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper 34383d48c0d8
@@ -1881,6 +2114,114 @@ e) Explain with a net sketch, the working of air lift pump.
 12
 
 — AN
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper 52391d9b6d92
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULICS MACHINERY/Hydraulic Machinery Batch 2015-16 Re Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 30 November 2016
+- Text: ocr (2 pages), mean OCR confidence 93.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : MBA. Tech (Civil) Year : III Semester: V
+Batch : 2015-16
+Academic Year : 2016-2017 a
+
+Subject : Hydraulic Machinery _ Marks : 60
+
+Time: 2. wri e 3.00 pic he
+Date : 30 November 2016 _ Duration : rg) {BRAR "Ng
+t, eo:
+one
+
+ee
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Answer Book, which is provided for their use.
+
+NB:
+
+1. Qu. 1 is compulsory.
+
+2. Out of remaining questions attempt Any 4 questions.
+
+3. All questions carry equal marks. -
+
+4. Answer to each question to be started on the fresh page.
+
+5. Assume suitable additional data, if not given & mention it clearly.
+
+Re-Examination
+
+Qu.1: |, Write notes on the following: 12
+Attempt any Four(Each carrying equal marks)
+
+(a) Jet propulsion of ship
+
+(b) Draft Tube
+
+(c) Differentiate between inward and outward turbines
+(d) Specific speed of a Centrifugal pump
+
+(e) Air lift pumps
+
+Qu.2a: Derive an expression for force exerted by a liquid jet striking an unsymmetrical moving 06
+curved vane tangentially at one of the tips
+
+Qu.2b: A flat plate, weighing 80N is suspended vertically by a hinge on the top. A horizontal jet of 06
+water 30mm diameter having velocity of 6m/s strikes the plate normally in such a way that
+the axis of the jet is 200mm below the hinge. The center of gravity of the plate is 120mm
+below the hinge. Find the magnitude of horizontal force applied at the center of gravity to
+keep the plate in vertical position. Find the corresponding velocity of jet, if the plate is
+deflected through an angle 30° and the same force continues to act at the center of gravity
+of the plane
+
+— Qu.3a: Derive expressions for unit discharge, unit power and unit speed in turbines. 06
+Qu.3b: A centrifugal pump while running at 1000 rpm discharges 80 L/s against anet head of 16m. 06
+ed The manometric efficiency of the pump is 0.85. If the vane angle at the outlet is 35@ and
+the velocity of flow is 1'5 m/s, estimate the outer diameter of the impeller and its width at
+that diameter.
+
+Qu.4a: A reaction turbine works at 450 rpm under a head of 120m. Its diameter at inlet is 120cm 06
+and the flow area is 0.4m2. The angle made by the absolute and relative velocities at inlet
+are 269 and 608 respectively with the tangential velocity. Determine (a) the discharge
+--- page 2 ---
+through the turbine, (b) power developed and (c) efficiency. Assume radial discharge at
+outlet.
+
+Qu.4b: A Pelton wheel turbine has to develop 13230kW under a net head of 800m while running 06
+at a speed of 600 rpm. If Cv=0.97, speed ratio 0.46 and ratio of jet diameter is 1/16 of wheel
+diameter. Calculate: (a) pitch circle diameter (b) diameter of jet (c ) the quantity of water
+supplied to the wheel (d) the number of jets required. Assume overall efficiency as 85%.
+
+Qu.5a: Why reciprocating pumps are called constant flow machines? Explain with sketch. 06
+
+Qu.5b: A double acting reciprocating pump is discharging 2000 litres of water per minute running 06
+at 60 rpm. The diameter of plunger is 300mm. The pump has stroke length of 600mm. The
+suction and delivery heads are 5m and 30m respectively. Find the slip of pump, % slip,
+force in suction and delivery pipe and power required to drive the pump.
+
+Qu.6a: A Kaplan turbine develops 20,000kW at a head of 35m and at a rotational speed of 420 rpm. 06
+The outer diameter of the blades is 2.5m and the hub diameter is 85cm. If the overall
+efficiency is 85% and the hydraulic efficiency is 88%, calculate the discharge, the inlet flow
+angle and the blade angle at the inlet.
+
+Qu.6b: Explain the working principle of Kaplan turbine (with sketch). 06
+
+Qu.7: Write notes on the following: 12
+Attempt any Four(Each carrying equal marks)
+(a) Classification of turbines
+(b) Priming of pumps
+(c) Derive an expression for propulsive force and efficiency for a jet of ship when the
+inlet orifices are facing the direction of motion of the ship
+
+(d) Working principle of Francis turbine
+(e) Characteristic curves for centrifugal pump
 ````
 
 ## 2015-16 · Final-Exam · Sem 5 · paper 2044183ef700
@@ -2132,108 +2473,142 @@ Attempt any Four(Each carrying equal marks)
 (e) Characteristic curves for centrifugal pump
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper cbec52c5703d
+## 2015-16 · Re-Exam · Sem 5 · paper 55c368aabb9b
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULIC MACHINERY/HYDRAULIC MACHINERY B TECH (CIVIL), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 01 December 2016
-- Text: ocr (2 pages), mean OCR confidence 93.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULIC MACHINERY/HYDRAULIC MACHINERY B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 91.4
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS
+“ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (CIVIL) Year : III iS :
-Batch : 2015-2016 smestens V
-Academic Year : 2016-2017 ~
-nT ag
-Subject : Hydraulic Machinery Marks P . “~
-Time i‘ pm to 5.60 =
+Programme: B. Tech (Civil) Year: Il Semester: V
+Batch: 2014-2015
+Academic Year: 2015-2016
 
-Date : 01 December 2016 Durafi
+Subject: Hydraulic Machinery
+¥ Marks:
+Date: 02/12/2015 Time:
+Duration:
 
-3(hrs) “¥% é)
-\ ?
-Re-Examination Rao ae wo
+lA “y
+i NZ UVR ie 7
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Answer Book, which is provided for their use.
-NB:
-1. Qu. 1 is compulsory.
-2. Out of remaining questions attempt Amy 4 questions.
-3. All questions carry equal marks.
-4. Answer to each question to be started on the fresh page-
-5. Assume suitable additional data, if not given & mention it clearly.
+| Re-Examination ~
 
-Qu.l: Write notes on: 12
-Attempt any Four(Each carrying equal marks)
-(a) Jet propulsion of ship
-(b) Use of draft Tube
-(c) Differentiate between Pelton wheel and Kaplan turbines
-(d) Minimum starting speed of a Centrifugal pump
-(e) NPSH in Centrifugal pump
+Note-
+1. Q.1is compulsory
+2. Out of remaining six questions, attempt any four question + ..
+3. All question carry equal marks
+4. Figure in the brackets on the right hand indicate full marks
 
-Qu.2a: Explain characteristic curves of centrifugal pump. 06
-Qu.2b: A centrifugal pump is running at 1500rpm delivers water. The diameter of impeller at inlet 06
-is 100mm and the outlet is 350mm. The width of the impeller s 70mm at the inlet and 20mm
-at the outlet. The blade angle at outlet is 35°. If the velocity of flow at inlet is 2.15m/s, find
-the velocity of flow at outlet. Also find the head developed if the manometric efficiency is
-80%
+Q.i1 Attempt any four questions Marks
+_ a. Classify turbines in detailed cy
+b. Explain draft tube an
+c. Explain air lift pump with sketch %
+d. Explain operation of the reciprocating pump 3
+e. Explain working of centrifugal pumps 5)
+Q.2 a. Ajet of water having a velocity of 20m/s strikes a curved vane, whichis moving 6
 
-Qu.3a: An inward flow reaction turbine running at 600 rpm has an external diameter is 750 mm 06
-and a width of 180 mm. If the guide vanes are at 20° to the wheel tangent and the absolute
-velocity of water at inlet is 28 m/s, find (a) discharge through the turbine (b) inlet vane
-angle.
+with a velocity of 10m/sec. the jet makes an angle of 20° with direction of
+motion of vane at inlet and leaves at an angle of 130° to the direction of
+motion of vane at outlet. Calculate- i) Vane angles if the water enter and leaves
+the vane without shock.
 
-Qu.3b: A Pelton wheel Turbine having wheel diameter of 1.9m rotates at 500 rpm. Water is 06
-supplied at the rate of 12000LPM under a head of 520m. If the buckets deflect the jet
-through an angle of 165°, find the power developed and hydraulic efficiency of the turbine.
-Assume coefficient of velocity as 0.95 and neglect the frictional losses in the bucket.
+ii) work done per second per unit weight of water striking the vane per second.
 
-aa /2
+b. A jet water moving at 12m/sec impinges on a vane shaped to deflect the jet ©
+through 120° when stationary. If the vane is moving with a velocity of 5
+m/sec. Find the angle of jet so that there is no shock. What is the absolute
+velocity of the jet at outlet in magnitude and direction and work done per
+second per unit weight of water striking? Assume the vane to be smooth.
+
+—_— Q3 a. A Pelton wheel is designed for a head of 60 m when running at 200rpm. The 6
+pelton wheel develops95.6475kW shaft power. The velocity of buckets =0.45
+times the velocity of jet, overall efficiency= 0.85 and co-efficient of velocity is
+equal to 0.98. Determine:
+
+i. Wheel Diameter and jet diameter
+ii. Width and depth of buckets
+iii. Number of buckets on the whee!
+
+b. Areaction turbine works at 450 rpm under the head of 120 m. its diameter at &
+inlet is 120 cm and the flow area is 0.4 m’. The angles made by the absolute
+and relative velocities at inlet are 20° and 60° respectively with the tangential
+velocity. Determine:
+i)the volume flow rate,
+
+si ii)the power developed,
+
+iii) hydraulic efficiency. Assume whirl at outlet to be zero
+
+Q.4 a. Write Short note on governing of Turbines
+_ oe 3
+b. Explain Impulse Momentum Principle 3
+
+Io
 --- page 2 ---
-Qu.4a: Derive an expression for force exerted by a liquid jet striking a symmetrical moving curved
-vane tangentially at one of the tips.
+Q.5
 
-Qu.4b: A jet of water of diameter 50 mm strikes a stationary, symmetrical curved plate with a
-velocity of 40 m/s. Find the force extended by the jet at the center of plate along its axis if
-the jet is deflected through 120° at the outlet of the curved plate. ;
+Q6
 
-Qu.5a: Explain in detail the effect of acceleration on Indicator Diagram of Reciprocating pump 06
-(with sketch).
+Q.7
 
-Qu.5b: The peripheral velocity at inlet of an outward flow reaction turbine is 15 m/s. The internal 06
-diameter is 0.75 times the external diameter. The vanes are radial at entrance and the vane
-angle at outlet is 25°. The velocity of flow through the runner at inlet is 5 m/s. If the final
-discharge is radial and the turbine is situated 1 m below tail water level, determine:
+c. A centrifugal pump with 1.2 m diameter runs at 200 rpm and pumps 1880
 
-1. The guide blade angle
+lit/sec, the average lift being 6 m. the angle which the vane makes at exit with
+the tangent to the impeller is 26°and the radial velocity of flow is 2.5 m/s.
+determine the manometeric efficiency and the least speed to start pumping
+against head of 6 m, the inner diameter of the impeller being 0.6 m
 
-2. The absolute velocity of water leaving the guides
-3. The head on the turbine
+a. A three stage centrifugal pump has a impeller 40 cm in diameter and 2.5 cm
+wide at outlet. The vanes are curved back at outlet at-30° and reduce the
+circumferential area by 15 %. The manometeric efficiency is 85% and overall
+efficiency is 75%. Determine the head generated by the pump when running
+at 12000 rpm and discharging 0.06 m?/s. Find the shaft power.
 
-4. The hydraulic efficiency
+(6)
 
-Qu.6: A single acting reciprocating pump has the following data: 12
+)
 
-Cylinder diameter = 15cm, Stroke length = 30cm, Static suction head = 5m, Diameter of
-suction pipe = 6cm, Suction pipe length = 8m, Crank speed = 40rpm, Delivery pipe diameter
-=6 cm, Length of delivery pipe = 28m, Static delivery head = 18m. Estimate the pressure
-head on the piston at the (1) beginning (2) mid and (3) end of the suction and delivery
-strokes. Assume atmospheric pressure = 10m of water (abs) and Darcy Weisbach friction
-factor f=0.015. Draw Indicator diagram also.
+b. i) Classify Draft Tubes with neat sketches. (3)
 
-Qu.7: Attempt any Four(Each carrying equal marks) 12
+ii) Explain Phenomenon of Cavitation in hydraulic machines. &-))
 
-(a) Differentiate between pumps in series and parallel
+a. A double acting reciprocating pump running at 50 rpm, delivers 900 lit per
+minute of water. The diameter of the piston is 25 cm and stroke length 40
+cm. the delivery and suction heads are 25 m and 4m respectively. Determine:
+the slip of the pump and power required to drive the pump
 
-(b) Explain working principle of Francis turbine (with sketch)
+b. Write Short notes on:-
+a. Hydraulic Ram , b. Hydraulic Press
 
-(c) Differentiate between priming and cavitation
+a. Ahydraulic lift is required to lift a load of 12kN through a height of 10 m, once
+in a every 1.75 minutes. The speed of the lift is 0.75 m/s. during working
+stroke of the lift, water from accumulator and the pump at a pressure of 400
+N/cm’ is supplied to the lift. if the efficiency of the pump is 8 % and that of lift
+75 %, find the power required to drive the pump and minimum capacity of
+the accumulator. Neglect friction losses in a pipe.
 
-(d) Derive an expression for impact of jet striking on hinged inclined plate
-(e) Explain in brief the working of Hydraulic press (with sketch)
+b. The efficiency of the hydraulic crane which is supplied water under a pressure
+of 70 N/cm* for lifting a weight through a height of 10 m, is 60%. If the
+
+(6)
+
+4)
+
+(6)
+
+(6)
+
+ata
+
+diameter of the ram is 150 mm and velocity ratio 6, Find i) weight lifted by the
+
+crane, iijthe volume of water required in litres to lift the weight.
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper d08335e9d25d
@@ -2342,112 +2717,142 @@ Attempt any Four(Each carrying equal marks)
 A
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 52391d9b6d92
+## 2015-16 · Re-Exam · Sem 5 · paper 6a2ae487b7e2
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULICS MACHINERY/Hydraulic Machinery Batch 2015-16 Re Exam.pdf`
-- Printed on paper: max marks: 60; exam date: 30 November 2016
-- Text: ocr (2 pages), mean OCR confidence 93.4
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULICS MACHINERY/Hydraulic Machinery Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 01/12/2015
+- Text: ocr (2 pages), mean OCR confidence 91.8
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS
+“hy MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : MBA. Tech (Civil) Year : III Semester: V
-Batch : 2015-16
-Academic Year : 2016-2017 a
+Programme:MBA Tech (CIVIL) Year:III Semester: V
 
-Subject : Hydraulic Machinery _ Marks : 60
+Academic Year: 2015 - 16
 
-Time: 2. wri e 3.00 pic he
-Date : 30 November 2016 _ Duration : rg) {BRAR "Ng
-t, eo:
-one
+—, oF
+Batch:2014-15 ee A
+Subject : Hydraulic Machinery Marks:6, af ¢? ST - & Es
+Time: 1 aln‘-“1*00 a) Fr ;
+Date :01/12/2015 Duration’
 
-ee
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Answer Book, which is provided for their use.
-
-NB:
-
-1. Qu. 1 is compulsory.
-
-2. Out of remaining questions attempt Any 4 questions.
-
-3. All questions carry equal marks. -
-
-4. Answer to each question to be started on the fresh page.
-
-5. Assume suitable additional data, if not given & mention it clearly.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 Re-Examination
 
-Qu.1: |, Write notes on the following: 12
-Attempt any Four(Each carrying equal marks)
+NB:
 
-(a) Jet propulsion of ship
+1) Question No. 1 is compulsory.
 
-(b) Draft Tube
+2) Out of remaining questions, attempt any 4 questions.
 
-(c) Differentiate between inward and outward turbines
-(d) Specific speed of a Centrifugal pump
+3) In all 5 questions to be attempted.
 
-(e) Air lift pumps
+4) All questions carry equal marks.
 
-Qu.2a: Derive an expression for force exerted by a liquid jet striking an unsymmetrical moving 06
-curved vane tangentially at one of the tips
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
-Qu.2b: A flat plate, weighing 80N is suspended vertically by a hinge on the top. A horizontal jet of 06
-water 30mm diameter having velocity of 6m/s strikes the plate normally in such a way that
-the axis of the jet is 200mm below the hinge. The center of gravity of the plate is 120mm
-below the hinge. Find the magnitude of horizontal force applied at the center of gravity to
-keep the plate in vertical position. Find the corresponding velocity of jet, if the plate is
-deflected through an angle 30° and the same force continues to act at the center of gravity
-of the plane
+Q 1. Attempt any four questions @D
+a. What is cavitation in centrifugal pump? Give the essential precautions against ¢ 3)
+cavitation.
 
-— Qu.3a: Derive expressions for unit discharge, unit power and unit speed in turbines. 06
-Qu.3b: A centrifugal pump while running at 1000 rpm discharges 80 L/s against anet head of 16m. 06
-ed The manometric efficiency of the pump is 0.85. If the vane angle at the outlet is 35@ and
-the velocity of flow is 1'5 m/s, estimate the outer diameter of the impeller and its width at
-that diameter.
+b. What is jet propulsion? Analyse the case of jet propulsion of ship through inlet orifices ¢ 3)
+which are placed normal to the direction of motion of the ship.
 
-Qu.4a: A reaction turbine works at 450 rpm under a head of 120m. Its diameter at inlet is 120cm 06
-and the flow area is 0.4m2. The angle made by the absolute and relative velocities at inlet
-are 269 and 608 respectively with the tangential velocity. Determine (a) the discharge
+c. Explain in detail the classification of turbines. (3)
+d. Distinguish between centrifugal pump and reciprocating pump. (3)
+e. Explain the general layout of hydroelectric plant. (3)
+
+Q.2. a. Analyse the case of a jet striking a series of radial curved vanes and derive an equation (6)
+for efficiency of the vane.
+
+é b. A70 mm diameter jet having a velocity of 30 m/s, strikes a flat plate, the normal (6)
+of which is inclined at 45° to the axis of the jet. Calculate the normal force
+exerted on the plate a) when the plate is stationary, b) when the plate is moving
+with a velocity of 15 m/s in the direction of the jet c) when the plate is moving
+with a velocity of 10 m/s parallel to itself and in the direction of the normal to
+its surface.
+
+es Q.3. a With a neat sketch obtain an expression for the work done per unit time by water on (6)
+the runner of a pelton wheel. Also obtain an expression for maximum efficiency of the
+a] pelton wheel.
+J b. A Francis turbine has to be designed to develop 589.48 HP under a head of 80 m while ¢ 6)
+running at a speed equal to 850 rpm. For a ratio of width of runner to the outer
+
+if
 --- page 2 ---
-through the turbine, (b) power developed and (c) efficiency. Assume radial discharge at
-outlet.
+Q. 4.
 
-Qu.4b: A Pelton wheel turbine has to develop 13230kW under a net head of 800m while running 06
-at a speed of 600 rpm. If Cv=0.97, speed ratio 0.46 and ratio of jet diameter is 1/16 of wheel
-diameter. Calculate: (a) pitch circle diameter (b) diameter of jet (c ) the quantity of water
-supplied to the wheel (d) the number of jets required. Assume overall efficiency as 85%.
+Q. 5.
 
-Qu.5a: Why reciprocating pumps are called constant flow machines? Explain with sketch. 06
+Q.6.
 
-Qu.5b: A double acting reciprocating pump is discharging 2000 litres of water per minute running 06
-at 60 rpm. The diameter of plunger is 300mm. The pump has stroke length of 600mm. The
-suction and delivery heads are 5m and 30m respectively. Find the slip of pump, % slip,
-force in suction and delivery pipe and power required to drive the pump.
+Q.7.
 
-Qu.6a: A Kaplan turbine develops 20,000kW at a head of 35m and at a rotational speed of 420 rpm. 06
-The outer diameter of the blades is 2.5m and the hub diameter is 85cm. If the overall
-efficiency is 85% and the hydraulic efficiency is 88%, calculate the discharge, the inlet flow
-angle and the blade angle at the inlet.
+a.
 
-Qu.6b: Explain the working principle of Kaplan turbine (with sketch). 06
+diameter of runner = 0.2; ratio of inner diameter to outer diameter = 0.5; flow ratio =
+0.20; th = 97 %; 7m = 87 %; circumferential area occupied by thickness of vanes = 7
+%; radial velocity = 4.1 m/sec and assuming velocity of flow constant, calculate the
+guide vane angle at inlet and runner vane angles at inlet and outlet.
 
-Qu.7: Write notes on the following: 12
-Attempt any Four(Each carrying equal marks)
-(a) Classification of turbines
-(b) Priming of pumps
-(c) Derive an expression for propulsive force and efficiency for a jet of ship when the
-inlet orifices are facing the direction of motion of the ship
+Draw and discuss different characteristic curves of a centrifugal pump
+Determine specific: speed of a centrifugal pump running at 1500 r.p.m. having the
+characteristics as given below:
 
-(d) Working principle of Francis turbine
-(e) Characteristic curves for centrifugal pump
+Discharge Q (Ips) | 13.7 19.9 26.2 32.5) 38.7 45 | 51.2
+
+Head Hn (m) 29.5 28.6 27.6 26.2 24.6 21.9 | 19.2
+
+No (%) 66 71 74 75 73 70 | 64
+Draw the operating characteristics of the pump on graph paper and calculate the
+discharge and no for the head of 25 m. If the pump is driven by a motor, determine the
+power of the motor when operating at maximum efficiency.
+
+How will you prove that area of indicator diagram is proportional to the work done by
+the reciprocating pump? Obtain an expression to determine the effect of friction in
+suction and delivery pipes on indicator diagram.
+
+The cylinder bore diameter of a single acting reciprocating pump is 175 mm and its
+stroke is 450 mm. The pump runs at 65 r.p.m. and lifts water through a height of 30 m.
+The delivery pipe is 25 m long and 110 mm in diameter. Calculate the theoretical
+discharge and theoretical power required to run the pump. If the actual discharge is 5.1
+Ips, find the percentage slip. Also calculate the acceleration head at the beginning and
+middle of the delivery stroke.
+
+What is specific speed of a turbine and derive its expression. Also give its significance.
+Design a pelton wheel for a head of 70 m when running at 250 rpm. The pelton wheel
+develops 98 kW shaft power. The velocity of the buckets = 0.50 times the velocity of
+the jet, overall efficiency = 0.87 and coefficient of velocity = 0.97.
+
+With a neat diagram obtain the discharge and work done through a double acting
+reciprocating pump.
+Differentiate between
+
+i) The turbines and pumps ii) The impulse and reaction turbines
+The centrifugal pump is operating at a maximum efficiency of 85 %, It delivers
+3.00 m3/s under a head of 15 m while running at 4000 r.p.m. speed. Compute
+the specific speed of the pump. Also determine the discharge, head and power
+input to pump at a shaft speed of 2400 r.p.m. Cite the assumption made, if any.
+
+6)
+
+(6)
+
+(6)
+(6)
+(6)
+
+@)
+)
+
+(6)
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper 887970b6604d
@@ -2628,6 +3033,141 @@ iii.
 (6)
 ````
 
+## 2014-15 · Final-Exam · Sem 5 · paper 7eebed1d5a45
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULIC MACHINERY/HYDRAULIC MACHINERY B TECH (CIVIL) SEM V FINAL EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 04/12/2014
+- Text: ocr (3 pages), mean OCR confidence 88.3
+
+````text
+\ ; 4 : SVKM’s NMIMS |
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B: Tech (CIVIL) ; Year: Il Semester: V
+
+AOTC,
+
+Academic Year: 2014-2015
+
+ganiT0Te er
+\ ; . : Ls om semen, Ruy, Su
+\ Subject : Hydraulic Machinery ss NG
+\ Marks: 100 ff m@( MPSTME )%
+Date : 04/12/2014 Time : 2.00 p rieares ARY ps
+Durations: 3 (hiy*, haw AF ’
+
+Final-Examination or “aR “g
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and.on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. 1 is compulsory.
+2) Cut of remaining questions, attempt any 4 questions.
+
+3) th al! 5 questions to be atte a
+3} In ab 3 questions to be atterapted.
+
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+QI. Attempt any 5 questions:
+a) What is indicator diagram? Explain in brief ideal indicator diagram. 4
+b) Derive an expression for the efficiency’ of propulsion for a ship when inlet orifices face the
+direction of motion of the ship. 4
+c) Explain the principle on which a hydraulic press works. 4
+
+a) What are multistage centrifugal pumps? How are the pumps connected to get: i) High Head ii)
+
+High Discharge 4
+e) Define: i} Hydraulic efficiency of turbine ii) Mechanical efficiency of turbine iii) overall
+‘efficiency
+f) Explain cavitation in a centrifugal pump. 4
+Q2.a) What are characteristic curves of Turbines? Explain the different types. 10
+
+b) A centrifugal pump having an outer diameter equal to 2 times inner diameter and running at
+1500 rp. n works agains a total head of SO m. The velocity of flow through the impeller is
+constant and equal to 2 m's. The vanes angle at outlet is of 40°. If the outer diameter of impeller is
+600.mm and width at cutlet is 45 mm, determine: i) vane angle ut inlet, i) Work done by impeller
+
+on water per second and iii) Manometric efficiency. Also find the discharge through a
+--- page 2 ---
+geometrically similar pump having speed of rotation as 1000 r.p.m and working under a head of 20
+
+m. 10
+
+Q 2 -a) What isa draft tube? Give the classification of draft tubes. Derive an expression for pressure at
+
+inlet of draft tube. . 10
+
+b) A Pelton wheel is to be designed for the following specifications: Shaft Power =10000 kW; Head
+= 400 m; Speed = $00 r.p.m; Overall efficiency =86% and jet diameter should not exceed one
+sixth of wheel diameter. Determine i) wheel diameter ii) The number of jets required iii)
+
+Diameter of jet. Take coefficient of velocity as 0.985 and speed ratio as 0.45. Also calculate
+
+specific speed of the turbine. 10
+
+Q 4. a) Draw a sketch showing the various components of a reciprocating pump. Expiain it’s working.
+
+¥ are reciprocating pumps classified? i9
+
+b) A single acting reciprocating pump has a bore of 20 om and stroke of 30 cm, runs at 50 rpm. The
+pump is raising water to a height of 20 m above the pump level at a rate of 0.0078 m 3/s. The
+efficiency of the pump is 75%. Determine 2) ‘Theoretical discharge, b) percentage slip c) the
+coefficient of discharge d) the theoretical power e) the actual power required to run the pump. 10
+
+Q5. a) Explain the pri inciple of working ole hydraulic ram with a neat diagram. Also write the
+
+expression for Rankine’s efficiency of hydraulic ram. 10
+b) What is priming of a pump? Why is it necessary? s
+c) Explain Governing of Turbines. 5
+
+16
+
+Q6. a) Obtain an expression for minimum starting speed of a centrifugal pump.
+b) A centrifugal pamp rotating at 1006 rpm delivers 160 litres/ sec of water against a head of 30 m.
+
+vhere amospheric presse is 1X 10°N/m’. and vapour pressure
+
+The pump is installed at a place w
+of water is 3 kPa. The head loss in suction pipe is equivalent to 6.2 m of water. Calculate :)
+
+Mininyum NPSH and ii) Maxinsire allow able | height of the pump f from free surface of the water in
+
+the sump. 10°
+
+Q7. a) A conical draft tube having diameter at the top as 2.5 m and pressure head as 7 m of water
+(vaccum), discharges water at the outlet with a velocity of 2 m/s at the rate of 20 m3/s. if the
+
+atmospheric pressure head is 10.3 m of water and losses between inlet aad outlet of the draft tubes
+
+as | are negligible find the length of draft tebe idmersed i in water. Total longta qfobe =5r6 6m)
+, i b) A hydraulic press has aram of 200 min diameter and a plunger of 30 mm diameter. It is usea for
+lifting. a weight of of 3 KN. Find the force re equired at the plunger. Also find the work doae.by the
+
+plunger if fF the stroke i is 100 mm. 5
+--- page 3 ---
+c) A jet of water having a velocity 15 m/s, strikes a curved vane which is moving with a velocity of
+5 m/s. The vane is symmetrical and it is so shaped that the jet is deflected through an angle 120°.
+Find the angle of jet at inlet so that there is no shock. What is the absolute velocity of the jet at
+
+outlet in magnitude and direction and the work done per unit weight of water. Assume vane to be
+
+smooth. # 10
+
+Ln
+
+xX
+
+iw
+
+2%
+````
+
 ## 2014-15 · Final-Exam · Sem 5 · paper cf5b47d17884
 
 - Departments: Civil
@@ -2738,282 +3278,6 @@ b. What is the significance of unit quantities in hydraulic turbine studies. 05
 hydraulic ram, which raises 300 litres per minute to a height of 30 m from the ram. The
 length and diameter of the delivery pipe is 100 m and 70 mm respectively. Calculate the
 Rankine’s efficiency of the hydraulic ram ifthe co-efficient of friction 0.009
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 55c368aabb9b
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULIC MACHINERY/HYDRAULIC MACHINERY B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS
-“ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: Il Semester: V
-Batch: 2014-2015
-Academic Year: 2015-2016
-
-Subject: Hydraulic Machinery
-¥ Marks:
-Date: 02/12/2015 Time:
-Duration:
-
-lA “y
-i NZ UVR ie 7
-
-| Re-Examination ~
-
-Note-
-1. Q.1is compulsory
-2. Out of remaining six questions, attempt any four question + ..
-3. All question carry equal marks
-4. Figure in the brackets on the right hand indicate full marks
-
-Q.i1 Attempt any four questions Marks
-_ a. Classify turbines in detailed cy
-b. Explain draft tube an
-c. Explain air lift pump with sketch %
-d. Explain operation of the reciprocating pump 3
-e. Explain working of centrifugal pumps 5)
-Q.2 a. Ajet of water having a velocity of 20m/s strikes a curved vane, whichis moving 6
-
-with a velocity of 10m/sec. the jet makes an angle of 20° with direction of
-motion of vane at inlet and leaves at an angle of 130° to the direction of
-motion of vane at outlet. Calculate- i) Vane angles if the water enter and leaves
-the vane without shock.
-
-ii) work done per second per unit weight of water striking the vane per second.
-
-b. A jet water moving at 12m/sec impinges on a vane shaped to deflect the jet ©
-through 120° when stationary. If the vane is moving with a velocity of 5
-m/sec. Find the angle of jet so that there is no shock. What is the absolute
-velocity of the jet at outlet in magnitude and direction and work done per
-second per unit weight of water striking? Assume the vane to be smooth.
-
-—_— Q3 a. A Pelton wheel is designed for a head of 60 m when running at 200rpm. The 6
-pelton wheel develops95.6475kW shaft power. The velocity of buckets =0.45
-times the velocity of jet, overall efficiency= 0.85 and co-efficient of velocity is
-equal to 0.98. Determine:
-
-i. Wheel Diameter and jet diameter
-ii. Width and depth of buckets
-iii. Number of buckets on the whee!
-
-b. Areaction turbine works at 450 rpm under the head of 120 m. its diameter at &
-inlet is 120 cm and the flow area is 0.4 m’. The angles made by the absolute
-and relative velocities at inlet are 20° and 60° respectively with the tangential
-velocity. Determine:
-i)the volume flow rate,
-
-si ii)the power developed,
-
-iii) hydraulic efficiency. Assume whirl at outlet to be zero
-
-Q.4 a. Write Short note on governing of Turbines
-_ oe 3
-b. Explain Impulse Momentum Principle 3
-
-Io
---- page 2 ---
-Q.5
-
-Q6
-
-Q.7
-
-c. A centrifugal pump with 1.2 m diameter runs at 200 rpm and pumps 1880
-
-lit/sec, the average lift being 6 m. the angle which the vane makes at exit with
-the tangent to the impeller is 26°and the radial velocity of flow is 2.5 m/s.
-determine the manometeric efficiency and the least speed to start pumping
-against head of 6 m, the inner diameter of the impeller being 0.6 m
-
-a. A three stage centrifugal pump has a impeller 40 cm in diameter and 2.5 cm
-wide at outlet. The vanes are curved back at outlet at-30° and reduce the
-circumferential area by 15 %. The manometeric efficiency is 85% and overall
-efficiency is 75%. Determine the head generated by the pump when running
-at 12000 rpm and discharging 0.06 m?/s. Find the shaft power.
-
-(6)
-
-)
-
-b. i) Classify Draft Tubes with neat sketches. (3)
-
-ii) Explain Phenomenon of Cavitation in hydraulic machines. &-))
-
-a. A double acting reciprocating pump running at 50 rpm, delivers 900 lit per
-minute of water. The diameter of the piston is 25 cm and stroke length 40
-cm. the delivery and suction heads are 25 m and 4m respectively. Determine:
-the slip of the pump and power required to drive the pump
-
-b. Write Short notes on:-
-a. Hydraulic Ram , b. Hydraulic Press
-
-a. Ahydraulic lift is required to lift a load of 12kN through a height of 10 m, once
-in a every 1.75 minutes. The speed of the lift is 0.75 m/s. during working
-stroke of the lift, water from accumulator and the pump at a pressure of 400
-N/cm’ is supplied to the lift. if the efficiency of the pump is 8 % and that of lift
-75 %, find the power required to drive the pump and minimum capacity of
-the accumulator. Neglect friction losses in a pipe.
-
-b. The efficiency of the hydraulic crane which is supplied water under a pressure
-of 70 N/cm* for lifting a weight through a height of 10 m, is 60%. If the
-
-(6)
-
-4)
-
-(6)
-
-(6)
-
-ata
-
-diameter of the ram is 150 mm and velocity ratio 6, Find i) weight lifted by the
-
-crane, iijthe volume of water required in litres to lift the weight.
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 6a2ae487b7e2
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULICS MACHINERY/Hydraulic Machinery Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 01/12/2015
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-“hy MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CIVIL) Year:III Semester: V
-
-Academic Year: 2015 - 16
-
-—, oF
-Batch:2014-15 ee A
-Subject : Hydraulic Machinery Marks:6, af ¢? ST - & Es
-Time: 1 aln‘-“1*00 a) Fr ;
-Date :01/12/2015 Duration’
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-Re-Examination
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q 1. Attempt any four questions @D
-a. What is cavitation in centrifugal pump? Give the essential precautions against ¢ 3)
-cavitation.
-
-b. What is jet propulsion? Analyse the case of jet propulsion of ship through inlet orifices ¢ 3)
-which are placed normal to the direction of motion of the ship.
-
-c. Explain in detail the classification of turbines. (3)
-d. Distinguish between centrifugal pump and reciprocating pump. (3)
-e. Explain the general layout of hydroelectric plant. (3)
-
-Q.2. a. Analyse the case of a jet striking a series of radial curved vanes and derive an equation (6)
-for efficiency of the vane.
-
-é b. A70 mm diameter jet having a velocity of 30 m/s, strikes a flat plate, the normal (6)
-of which is inclined at 45° to the axis of the jet. Calculate the normal force
-exerted on the plate a) when the plate is stationary, b) when the plate is moving
-with a velocity of 15 m/s in the direction of the jet c) when the plate is moving
-with a velocity of 10 m/s parallel to itself and in the direction of the normal to
-its surface.
-
-es Q.3. a With a neat sketch obtain an expression for the work done per unit time by water on (6)
-the runner of a pelton wheel. Also obtain an expression for maximum efficiency of the
-a] pelton wheel.
-J b. A Francis turbine has to be designed to develop 589.48 HP under a head of 80 m while ¢ 6)
-running at a speed equal to 850 rpm. For a ratio of width of runner to the outer
-
-if
---- page 2 ---
-Q. 4.
-
-Q. 5.
-
-Q.6.
-
-Q.7.
-
-a.
-
-diameter of runner = 0.2; ratio of inner diameter to outer diameter = 0.5; flow ratio =
-0.20; th = 97 %; 7m = 87 %; circumferential area occupied by thickness of vanes = 7
-%; radial velocity = 4.1 m/sec and assuming velocity of flow constant, calculate the
-guide vane angle at inlet and runner vane angles at inlet and outlet.
-
-Draw and discuss different characteristic curves of a centrifugal pump
-Determine specific: speed of a centrifugal pump running at 1500 r.p.m. having the
-characteristics as given below:
-
-Discharge Q (Ips) | 13.7 19.9 26.2 32.5) 38.7 45 | 51.2
-
-Head Hn (m) 29.5 28.6 27.6 26.2 24.6 21.9 | 19.2
-
-No (%) 66 71 74 75 73 70 | 64
-Draw the operating characteristics of the pump on graph paper and calculate the
-discharge and no for the head of 25 m. If the pump is driven by a motor, determine the
-power of the motor when operating at maximum efficiency.
-
-How will you prove that area of indicator diagram is proportional to the work done by
-the reciprocating pump? Obtain an expression to determine the effect of friction in
-suction and delivery pipes on indicator diagram.
-
-The cylinder bore diameter of a single acting reciprocating pump is 175 mm and its
-stroke is 450 mm. The pump runs at 65 r.p.m. and lifts water through a height of 30 m.
-The delivery pipe is 25 m long and 110 mm in diameter. Calculate the theoretical
-discharge and theoretical power required to run the pump. If the actual discharge is 5.1
-Ips, find the percentage slip. Also calculate the acceleration head at the beginning and
-middle of the delivery stroke.
-
-What is specific speed of a turbine and derive its expression. Also give its significance.
-Design a pelton wheel for a head of 70 m when running at 250 rpm. The pelton wheel
-develops 98 kW shaft power. The velocity of the buckets = 0.50 times the velocity of
-the jet, overall efficiency = 0.87 and coefficient of velocity = 0.97.
-
-With a neat diagram obtain the discharge and work done through a double acting
-reciprocating pump.
-Differentiate between
-
-i) The turbines and pumps ii) The impulse and reaction turbines
-The centrifugal pump is operating at a maximum efficiency of 85 %, It delivers
-3.00 m3/s under a head of 15 m while running at 4000 r.p.m. speed. Compute
-the specific speed of the pump. Also determine the discharge, head and power
-input to pump at a shaft speed of 2400 r.p.m. Cite the assumption made, if any.
-
-6)
-
-(6)
-
-(6)
-(6)
-(6)
-
-@)
-)
-
-(6)
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper b6877f762417
@@ -3428,90 +3692,7 @@ Cavitation and effect of cavitations
 [05]
 ````
 
-## 2012-13 · Exam not stated · Trim 5 · paper 2fd40df59984
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM V/HYDRLULIC MACHINERY/HYDRAULIC MACHINERY 2012-2013 Scan 001.pdf`
-- Printed on paper: duration hours: 3; exam date: 08/02/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technolo* Management &
-Programme: MBA (Tech) -CIVIL   Year:   I1 Trimester:
-Academic Year : 2012-2013
-Subject:   HYDRAULIC MACHINERY   Marks:
-Time:   2.00 p.m To 5.00 p.m
-Date:   08/02/2013   Duration:   3   hrs.
-Final - Examination
-. .   .   .   .
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book which is provided for their use.
-N. B.:
-1. Question No. 01 is compulsory.
-2. Out of remaining questions, attempt any four questions.
-3. In all, 05 question to be attempted.
-4. Group all sub questions together.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-Q.No.1.   Write short notes on: (any four)
-(a) Geometric, Kinematic and Dynamic similarities
-(b) Characteristics curves of Hydraulic turbines.
-(c) Minimum starting speed of a centrifugal pump.
-(d) Draft tube of a reaction turbine.
-(e)   Differentiate between hydraulic turbines and pumps.
-Q.No.2..   (a)   Prove that the force exerted by a jet of water on a fixed semi circular plate in the   (10)
-1   direction of the jet when the jet strikes at the center of the semi-circular plate is
-twice the force exerted by the jet on a fixed vertical plate.
-(b) ' A jet of water 75 mm diameter having a velocity of 20 m/s strikes normally a (10)
-smooth flat plate. Determine the thrust on the plate if the plate is (A) at rest and
-(B) moving in the same direction as the jet with a velocity of 5 m/s. Also, find the
-work done per second on the plate in each case and the efficiency of the jet when
-the plate is moving.
-Q.No.3.   (a) Compare pumps in series and pumps in parallel.   (05)
-(b) Explain in brief the different type of pumps.   (05)
-(c) A centrifugal pump lifts water under a static lift of 40 meter of which 4 meter is (10)
-@   suction lift. The suction an? delivery pipes both are 30 cm in diameter. The friction
-loss in suction pipe is 3 meter and' in delivery pipe it is 4 meter. The impeller is 50
-cm in diameter and 40 mm wide at outlet and runs at 1200 rpm. The exit blade
-angle is 25 degrees. If the manometric efficiency of the pump is 84 %, Determine
-(i)   Discharge from the pump and
-(ii)   Pressures at th'e suction and delivery ends of the pump.
---- page 2 ---
-Q.No.4.   (a) Explain in detail classification of turbine.   (05)
-(b) A turbine wheel, revolving at a speed of 250 rpm, develops 5500 kW when   (05)
-working under a head of 200 m. Determine unit speed, unit discharge and unit
-power given that the turbine operates with an overall efficiency of 80%.
-(c) The following data refers to a Kaplan turbine:   (10)
-Speed ratio = 2.19, iiow ratio = 0.65, overail efficiency = 85 7;. ir generates 6500
-kW of power at the turbine shaft under a net head of 6 meter. If the hub diameter
-of the wheel is 0.35 times the outside diameter, calculate the runner diameter and
-its rotational speed.
-Q.No.5   (a) Explain the concept of velocity triangles with neat sketches.   (05)
-(b) Explain the importance of the term "Specific speed of a turbine."   (05)
-(c) A reaction turbine works at 550 rpm under a head of 100 meter. The inlet (10)
-diameter is 1.25 m and the flow area is 0.48 m2. The angles made by absolute and
-relative velocities with the tangential velocity at inlet are 20' and 50' respectively.
-Calculate (A) volume flow rate, (B) power deve!oped and (C) hydraulic efficiency.
-Q.No.6.   (a) Explain Buckingham's rt - theorem of dimensional analysis.   (10)
-(b) Using dimensional analysis technique, derive suitable parameters t o represent the   (10)
-thrust developed by a propeller. Assume that thrust T depends upon the angular
-velocity w, speed of advance V, diameter D, dynamic viscosity p, mass density p
-and elasticity of the fluid medium which can be represented by the speed of sound
-C in the medium.
-Q.No.7.   (a) Define and Explain Impulse momentum principle.   (05)
-(b) Define unit quantities of a hydraulic turbine.   (05)
-1   (c) A Pelton wheel is supplied with 5 m3/sec of water at gross head of 275 m. The (10)
-turbine has two runners with two jets per runner. All the jets are of same
-. diameter. The penstock pipe is 3 kM. long. Given that the efficiency of power
-transmission through the pipe and nozzle is 92% and that of each runner is 89 %
-determine the power generated and diameters of each jet and of the pipe.
-Consider Coefficient of velocity of nozzle = 0.96 and friction factor (f) = 0.022.
-````
-
-## 2012-13 · Re-Exam · Trim 5 · paper 651385d4cfaf
+## 2013-14 · Re-Exam · Trim 5 · paper 651385d4cfaf
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -3605,6 +3786,89 @@ b) Define specific speed of a centrifugal pump. Derive an expression for the sam
 4/4
 
 a a
+````
+
+## 2012-13 · Exam not stated · Trim 5 · paper 2fd40df59984
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM V/HYDRLULIC MACHINERY/HYDRAULIC MACHINERY 2012-2013 Scan 001.pdf`
+- Printed on paper: duration hours: 3; exam date: 08/02/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technolo* Management &
+Programme: MBA (Tech) -CIVIL   Year:   I1 Trimester:
+Academic Year : 2012-2013
+Subject:   HYDRAULIC MACHINERY   Marks:
+Time:   2.00 p.m To 5.00 p.m
+Date:   08/02/2013   Duration:   3   hrs.
+Final - Examination
+. .   .   .   .
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book which is provided for their use.
+N. B.:
+1. Question No. 01 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. In all, 05 question to be attempted.
+4. Group all sub questions together.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+Q.No.1.   Write short notes on: (any four)
+(a) Geometric, Kinematic and Dynamic similarities
+(b) Characteristics curves of Hydraulic turbines.
+(c) Minimum starting speed of a centrifugal pump.
+(d) Draft tube of a reaction turbine.
+(e)   Differentiate between hydraulic turbines and pumps.
+Q.No.2..   (a)   Prove that the force exerted by a jet of water on a fixed semi circular plate in the   (10)
+1   direction of the jet when the jet strikes at the center of the semi-circular plate is
+twice the force exerted by the jet on a fixed vertical plate.
+(b) ' A jet of water 75 mm diameter having a velocity of 20 m/s strikes normally a (10)
+smooth flat plate. Determine the thrust on the plate if the plate is (A) at rest and
+(B) moving in the same direction as the jet with a velocity of 5 m/s. Also, find the
+work done per second on the plate in each case and the efficiency of the jet when
+the plate is moving.
+Q.No.3.   (a) Compare pumps in series and pumps in parallel.   (05)
+(b) Explain in brief the different type of pumps.   (05)
+(c) A centrifugal pump lifts water under a static lift of 40 meter of which 4 meter is (10)
+@   suction lift. The suction an? delivery pipes both are 30 cm in diameter. The friction
+loss in suction pipe is 3 meter and' in delivery pipe it is 4 meter. The impeller is 50
+cm in diameter and 40 mm wide at outlet and runs at 1200 rpm. The exit blade
+angle is 25 degrees. If the manometric efficiency of the pump is 84 %, Determine
+(i)   Discharge from the pump and
+(ii)   Pressures at th'e suction and delivery ends of the pump.
+--- page 2 ---
+Q.No.4.   (a) Explain in detail classification of turbine.   (05)
+(b) A turbine wheel, revolving at a speed of 250 rpm, develops 5500 kW when   (05)
+working under a head of 200 m. Determine unit speed, unit discharge and unit
+power given that the turbine operates with an overall efficiency of 80%.
+(c) The following data refers to a Kaplan turbine:   (10)
+Speed ratio = 2.19, iiow ratio = 0.65, overail efficiency = 85 7;. ir generates 6500
+kW of power at the turbine shaft under a net head of 6 meter. If the hub diameter
+of the wheel is 0.35 times the outside diameter, calculate the runner diameter and
+its rotational speed.
+Q.No.5   (a) Explain the concept of velocity triangles with neat sketches.   (05)
+(b) Explain the importance of the term "Specific speed of a turbine."   (05)
+(c) A reaction turbine works at 550 rpm under a head of 100 meter. The inlet (10)
+diameter is 1.25 m and the flow area is 0.48 m2. The angles made by absolute and
+relative velocities with the tangential velocity at inlet are 20' and 50' respectively.
+Calculate (A) volume flow rate, (B) power deve!oped and (C) hydraulic efficiency.
+Q.No.6.   (a) Explain Buckingham's rt - theorem of dimensional analysis.   (10)
+(b) Using dimensional analysis technique, derive suitable parameters t o represent the   (10)
+thrust developed by a propeller. Assume that thrust T depends upon the angular
+velocity w, speed of advance V, diameter D, dynamic viscosity p, mass density p
+and elasticity of the fluid medium which can be represented by the speed of sound
+C in the medium.
+Q.No.7.   (a) Define and Explain Impulse momentum principle.   (05)
+(b) Define unit quantities of a hydraulic turbine.   (05)
+1   (c) A Pelton wheel is supplied with 5 m3/sec of water at gross head of 275 m. The (10)
+turbine has two runners with two jets per runner. All the jets are of same
+. diameter. The penstock pipe is 3 kM. long. Given that the efficiency of power
+transmission through the pipe and nozzle is 92% and that of each runner is 89 %
+determine the power generated and diameters of each jet and of the pipe.
+Consider Coefficient of velocity of nozzle = 0.96 and friction factor (f) = 0.022.
 ````
 
 ## 2012-13 · Re-Exam · Trim 5 · paper c2dcad605fe2
@@ -3909,268 +4173,4 @@ velocity of flow is constant at 2.10 meter/sec, calculate:
 FOGG SIICICICICIC ICICI I ICI ISI Ka CH x
 
 2/5 |
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper 7eebed1d5a45
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULIC MACHINERY/HYDRAULIC MACHINERY B TECH (CIVIL) SEM V FINAL EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 04/12/2014
-- Text: ocr (3 pages), mean OCR confidence 88.3
-
-````text
-\ ; 4 : SVKM’s NMIMS |
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B: Tech (CIVIL) ; Year: Il Semester: V
-
-AOTC,
-
-Academic Year: 2014-2015
-
-ganiT0Te er
-\ ; . : Ls om semen, Ruy, Su
-\ Subject : Hydraulic Machinery ss NG
-\ Marks: 100 ff m@( MPSTME )%
-Date : 04/12/2014 Time : 2.00 p rieares ARY ps
-Durations: 3 (hiy*, haw AF ’
-
-Final-Examination or “aR “g
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and.on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. 1 is compulsory.
-2) Cut of remaining questions, attempt any 4 questions.
-
-3) th al! 5 questions to be atte a
-3} In ab 3 questions to be atterapted.
-
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-QI. Attempt any 5 questions:
-a) What is indicator diagram? Explain in brief ideal indicator diagram. 4
-b) Derive an expression for the efficiency’ of propulsion for a ship when inlet orifices face the
-direction of motion of the ship. 4
-c) Explain the principle on which a hydraulic press works. 4
-
-a) What are multistage centrifugal pumps? How are the pumps connected to get: i) High Head ii)
-
-High Discharge 4
-e) Define: i} Hydraulic efficiency of turbine ii) Mechanical efficiency of turbine iii) overall
-‘efficiency
-f) Explain cavitation in a centrifugal pump. 4
-Q2.a) What are characteristic curves of Turbines? Explain the different types. 10
-
-b) A centrifugal pump having an outer diameter equal to 2 times inner diameter and running at
-1500 rp. n works agains a total head of SO m. The velocity of flow through the impeller is
-constant and equal to 2 m's. The vanes angle at outlet is of 40°. If the outer diameter of impeller is
-600.mm and width at cutlet is 45 mm, determine: i) vane angle ut inlet, i) Work done by impeller
-
-on water per second and iii) Manometric efficiency. Also find the discharge through a
---- page 2 ---
-geometrically similar pump having speed of rotation as 1000 r.p.m and working under a head of 20
-
-m. 10
-
-Q 2 -a) What isa draft tube? Give the classification of draft tubes. Derive an expression for pressure at
-
-inlet of draft tube. . 10
-
-b) A Pelton wheel is to be designed for the following specifications: Shaft Power =10000 kW; Head
-= 400 m; Speed = $00 r.p.m; Overall efficiency =86% and jet diameter should not exceed one
-sixth of wheel diameter. Determine i) wheel diameter ii) The number of jets required iii)
-
-Diameter of jet. Take coefficient of velocity as 0.985 and speed ratio as 0.45. Also calculate
-
-specific speed of the turbine. 10
-
-Q 4. a) Draw a sketch showing the various components of a reciprocating pump. Expiain it’s working.
-
-¥ are reciprocating pumps classified? i9
-
-b) A single acting reciprocating pump has a bore of 20 om and stroke of 30 cm, runs at 50 rpm. The
-pump is raising water to a height of 20 m above the pump level at a rate of 0.0078 m 3/s. The
-efficiency of the pump is 75%. Determine 2) ‘Theoretical discharge, b) percentage slip c) the
-coefficient of discharge d) the theoretical power e) the actual power required to run the pump. 10
-
-Q5. a) Explain the pri inciple of working ole hydraulic ram with a neat diagram. Also write the
-
-expression for Rankine’s efficiency of hydraulic ram. 10
-b) What is priming of a pump? Why is it necessary? s
-c) Explain Governing of Turbines. 5
-
-16
-
-Q6. a) Obtain an expression for minimum starting speed of a centrifugal pump.
-b) A centrifugal pamp rotating at 1006 rpm delivers 160 litres/ sec of water against a head of 30 m.
-
-vhere amospheric presse is 1X 10°N/m’. and vapour pressure
-
-The pump is installed at a place w
-of water is 3 kPa. The head loss in suction pipe is equivalent to 6.2 m of water. Calculate :)
-
-Mininyum NPSH and ii) Maxinsire allow able | height of the pump f from free surface of the water in
-
-the sump. 10°
-
-Q7. a) A conical draft tube having diameter at the top as 2.5 m and pressure head as 7 m of water
-(vaccum), discharges water at the outlet with a velocity of 2 m/s at the rate of 20 m3/s. if the
-
-atmospheric pressure head is 10.3 m of water and losses between inlet aad outlet of the draft tubes
-
-as | are negligible find the length of draft tebe idmersed i in water. Total longta qfobe =5r6 6m)
-, i b) A hydraulic press has aram of 200 min diameter and a plunger of 30 mm diameter. It is usea for
-lifting. a weight of of 3 KN. Find the force re equired at the plunger. Also find the work doae.by the
-
-plunger if fF the stroke i is 100 mm. 5
---- page 3 ---
-c) A jet of water having a velocity 15 m/s, strikes a curved vane which is moving with a velocity of
-5 m/s. The vane is symmetrical and it is so shaped that the jet is deflected through an angle 120°.
-Find the angle of jet at inlet so that there is no shock. What is the absolute velocity of the jet at
-
-outlet in magnitude and direction and the work done per unit weight of water. Assume vane to be
-
-smooth. # 10
-
-Ln
-
-xX
-
-iw
-
-2%
-````
-
-## Year not stated · Re-Exam · Sem 5 · paper b056375049e6
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/HYDRAULICS MACHINERY/Hydraulic Machinery Re-exam 17-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 Jan 2019
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (Civil) Year: Ul Semester : V
-Academic Year: 2018-19
-
-Subject: Hydraulic Machinery Marks: 70
-
-Time: 2.00 pm to 5.00 pm
-
-Date: 19 Jan 2019
-“= Durations: 3 (hrs)
-
-No. of Pages:__»z
-_Re-examination (201 7-18) 201 3- -15)
-
-Instructions: Candidates should read carefully the instructions printed on the Uce el ag the cover
-of the Answer Book, which is provided for their use. x
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qu.l: Solve any Four
-
-(a) Derive an expression for impact of jet striking hinged flat plate | \(35)
-(b) Derive expressions for variation of velocity in reciprocating pump | 1/85)
-(c) Explain the working principle of Hydraulic Press. Draw neat sketch hes 5) |
-(d) Priming is important in Centrifugal Pump. Discuss Gs) |
-(e) Compare working principle of Kaplan and Francis turbine 15) |
-(f) Explain the working of hydro-power plant with neat sketch 65)
-
-Qu.2A: A water jet of 70 mm diameter with a velocity of 20m/s impinges on a curved vane moving inthe same (07)
-direction as that of the jet with a velocity of 6m/s. The jet leaves the vane at an angle of 165° with the
-direction of motion of vane. Find
-
-(a) The force exerted by the jet in the direction of motion of the vane
-(b) The power developed by the jet and
-(c) The efficiency of the vane
-
-Qu.2B: _ A ship driven a jet propulsion draws water through inlet openings at bow facing the direction of motion. (07)
-The absolute velocity of the jet discharged at the stern is 10 m/s when the ship is moving in the seawater
-with a speed of 25 km/h. If the area of the jet is 0.05m’, find (a) the propulsive force, (b) propulsive
-power, (c) efficiency of propulsion, (d) power required by the pump.
-
-Qu.3A: . Explain working principle of Pelton Wheel Turbine, also plot velocity triangles for Pelton Wheel (07)
-Turbine
-
-<
---- page 2 ---
-Qu.3B: A Pelton turbine is to work at the foot of dam whose reservoir level is 450m. The friction losses in the (07)
-penstock amounts to 60m of head. The turbine is to operate at 500 rpm and develop a power of 9500 kW.
-The buckets deflect the jet through an angle of 170°. Assuming the blade to jet speed ratio as 0.46 and
-the coefficient of velocity as 0.98, determine the wheel diameter and hydraulic efficiency.
-
-Qu.4A: 600 kW Francis turbine is to be designed to develop a power under a head of 80m while running ata (07)
-speed of 900 rpm. Following are some data pertinent to the turbine:
-(1) Ratio of width of runner to outer diameter of the runner = 0.15
-
-(2) Ratio of inner diameter to outer diameter of the runner = 0.6
-(3) Flow ratio = 0.18
-
-(4) Hydraulic efficiency = 92%
-
-(5) Overall efficiency = 85%
-
-Circumferential area occupied by thickness of vanes = 5%.
-Assuming velocity of flow constant, calculate guide vane angle at inlet and runner vane angles at inlet
-and outlet. The radial velocity is equal to 4.8m/s.
-
-Qu.4B: Derive an expression for the efficiency of a draft tube, also discuss why draft tube is required in the (07)
-turbine.
-
-Qu.5A: A centrifugal pump is running at 1200rpm delivers water. The diameter of impeller at inlet is 100mm (07)
-and the outlet is 300mm. The width of the impeller s 50mm at the inlet and 20mm at the outlet. The blade
-angle at outlet is 30°. If the velocity of flow at inlet is 2.2.m/s, find the velocity of flow at outlet, also
-find the head developed if the manometric efficiency is 75%.
-
-Qu.5B: A 1/Sth scale model of a centrifugal pump absorbs 20kW when pumping against a head of Sm at its best (07)
-speed of 2500rpm. If the actual pump works against 40m head, find the speed and power required for the
-actual pump, also find the ratio of water discharged by the two pumps.
-
-Qu.6A: A single acting reciprocating pump has the following data: (07)
-Cylinder diameter= 40 cm; Stroke =40 cm; Static suction head = 5m; Diameter of suction pipe = 20cm;
-Suction pipe length = 6m; Crank speed = 25 rpm; Delivery pipe diameter = 20cm; Length of delivery
-pipe = 25m; Static delivery head = 20m.Calculate the pressure head in the cylinder at the start, middle
-and end of each stroke. Take atmospheric pressure as 10.3m of water. Take Darcy-Weisbach friction
-factor f=0.02.
-
-Qu.6B: A Kaplan turbine develops 25 MW when running at 150 rpm under a head of 18m. The outer diameter (07)
-of the runner is Sm and hub diameter is 2.5m. The hydraulic and overall efficiency of the turbine is 92%
-and 86% respectively. Determine the discharge through the turbine and the blade angles at inlet and
-outlet, measured at mean radius of the runner.
-
-Qu.7: Attempt any Four
-
-(a) Compare pumps in series and parallel. (35)
-
-(b) What is indicator diagram? Explain the effect of acceleration on indicator diagram. (5)
-
-(c) Define NPSH. Derive an expression of NPSH. (35)
-
-(d) Explain the characteristics curves of centrifugal pump (Efficiency, Power and Discharge (35)
-with sketches.
-
-(e) Derive Thoma’s cavitation factor. ; (35)
-
-(f) Differentiate between Air lift pump and Gear pump. (3-5)
-
-Gly
 ````

@@ -16,15 +16,15 @@ Also filed as: `EMBEDDED SYSTEM`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech IT 7001, Integrated IT 7037, MBATech IT 7041 | ANS_Embedded Systems(702IT0C015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / I T, B.TECH INTEGRATED / IT, MBA TECH / I T | Embedded Systems 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | BTech IT 7001, Integrated IT 7037, MBATech IT 7041 | QP_Embedded Systems(702IT0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech IT 7001 | ANS_Embedded Systems(702IT0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated IT 7037 | ANS_Embedded Systems(702IT0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech IT 7041 | ANS_Embedded Systems(702IT0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech IT 7001, Integrated IT 7037, MBATech IT 7041 | ANS_Embedded Systems(702IT0C015)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech IT 7001 | QP_Embedded Systems(702IT0C015)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | Integrated IT 7037 | QP_Embedded Systems(702IT0C015)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech IT 7041 | QP_Embedded Systems(702IT0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech IT 7001 | ANS_Embedded Systems(702IT0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated IT 7037 | ANS_Embedded Systems(702IT0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech IT 7041 | ANS_Embedded Systems(702IT0C015)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / I T, MBA TECH / I T | Embedded Systems, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / EXTC | Embedded Systmes Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / I T, MBA TECH / I T | Embedded Systems, Sem-V, Batch 2024-25, Re Exam.pdf |

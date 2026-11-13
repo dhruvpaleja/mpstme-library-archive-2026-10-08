@@ -1437,6 +1437,116 @@ d) Electro dialysis.
 03
 ````
 
+## 2015-16 · Re-Exam · Sem 5 · paper 8053d3ea337a
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/MASS TRANSFER OPERATIONS II/Mass Transfer Operations II Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 28/11/2015
+- Text: ocr (2 pages), mean OCR confidence 85.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+“—
+Programme:MBA Tech (CHEMICAL) Year: I Semester: V
+Academic Year: 2015 - 16
+Batch:2014-15 rw aT: &) Rey,
+Subject :Mass Transfer Operations - II Marks: fy 7 *N%
+Time :1 eee 31,00 gra,
+Date : 28/11/2015 Duratid wink it
+Re-Examination *
+ae Mansy
+NOTE: 3
+Question number 1 is compulsory.
+2. Attempt any four questions from the remaining 6 questions.
+3. Figures in bracket indicate full marks.
+Q1 (A) Aniline is purified by steam distillation. method at 745 mm Hg. absolute (4)
+ressure. It is immiscible with water. Vapor pressure data are given below:
+=> Temp C Vapor — pressure of | Vapor pressure ~ of
+. | Aniline, mm Hyg water, mm Hg
+69.4 WO 228
+82 20 385
+96.7 _ 40 675
+106 60 938
+Calculate: 1) Distillation temperature
+, 2) Kg. Aniline distilled per kg steam
+©) Derive Fenskey’s equation for finding the theoretical number of plates for (44)
+total reflux.
+(C) Difference between functioning of total condenser and partial condenser. (41)
+Q2 (A) State similarity & differences between Azeotropis & Extractive distillation. (5)
+(8) A rectification columu is fed with 1000 kmol/ir of a mixture of 60 mol% (+)
+benzene & 40 mol% toluene. Feed, is 50% mixture of saturated iiquid & ;
+i vapour.. The distillate coritains 96: mol% benzene & bottoms coritain 7 mol%
+
+benzene. Reflux ratio is Z times minimum reflux. Relative volatility is 2.55.
+Calculate: A) kmol/hr of distillate & bottoms. 8) No of theoretical trays
+required C) Feed tray location D) Minimum reflux ratio
+
+A
+
+Q3 Write short notes on any four: : i (12)
+a) q line. . _
+
+b) Reverse Osmosis ~~
+
+_ ©) Pervaporation proces :
+
+— d) Classification of molecalar sieves “~~ 2
+
+: _e) Air drying by adsoipiion procgss “> °°
+
+Q4 (A E Explain working of Swenson Walker Crystatligser
+(B) Salt solution weighing 15,090 kg & is containing 27% by wt. MgCl2, It is (6)
+enalad to 290K. The sait crystallizes as decahyirate. 5% of total weight of
+
+pf
+--- page 2 ---
+solution is lost as water vapor during adiabatic cooling. Solubility of MgCl2
+is 23 kg anhydrous MgCl2 per 100 kg of total water. Determine quantity of
+
+crystals produced.
+(C) Importance of Supersaturation in crystallization. (3)
+
+Q5 (A) Write a short note on various types of Adsorption Isotherms. (Ss)
+(B) For extraction of Dioxane from water, Benzene is used as Solvent. At 25°C, C#
+the equilibrium distribution of Dioxane between water & benzene is given as
+
+follows:
+Wt% of Dioxane in water | 5.1 | 18.9 25.2
+Wi% of Dioxane in [5.2 [22.5 32
+Benzene : | |
+
+At these concentrations water & benzene are insoluble. 100 kg solution
+containing 25% Dioxane is to be extracted with Benzene. If extraction were
+done in four stage cross current units using 600 kg pure Benzene each time.
+Find final raffinate concentration & % Dioxane removed.
+
+Q6 (A) Explain the calculation procedure for deterniining the number of theoretical 5
+stages in case of multi stage cross current leaching operation.
+
+(B) Vegetable oil seeds containing 100 gm insoluble solid & 25 gm oil are 2
+contacted with 300 gm solvent in a single stage Leaching operation. Solvent
+used is fresh. Determine the amount of oil left in oil seeds after leaching. The
+equilibrium data can be expressed as: N= -3.8y +7.5
+Where N-gm insoluble/(gm solvent+ gm oil)
+
+y- gm oil/(gm solvent+ gm oil) in seed phase
+x- gm oil/(gm solvent+ gm oil) in solvent phase
+Tie line data are:
+
+y 0.26 0.28 0.31 0.34
+X 0.02 0.04 0.06 0.08
+(C) . Describe any one Leaching equipment in detail. 5
+
+Q7 (A) Enlist the assumptions. in MoCabe-Thiele method of computing no. of (%)
+
+theoretical stages. .
+(8) Importance of HETP or HTU in deciding height of the column (6)
+(C) What do you understand by Optimum reflux ratio (3)
+````
+
 ## 2014-15 · Final-Exam · Sem 5 · paper 73ffda426dcf
 
 - Departments: Chemical
@@ -1595,116 +1705,6 @@ stg
 
 6
 8
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 8053d3ea337a
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/MASS TRANSFER OPERATIONS II/Mass Transfer Operations II Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 28/11/2015
-- Text: ocr (2 pages), mean OCR confidence 85.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-“—
-Programme:MBA Tech (CHEMICAL) Year: I Semester: V
-Academic Year: 2015 - 16
-Batch:2014-15 rw aT: &) Rey,
-Subject :Mass Transfer Operations - II Marks: fy 7 *N%
-Time :1 eee 31,00 gra,
-Date : 28/11/2015 Duratid wink it
-Re-Examination *
-ae Mansy
-NOTE: 3
-Question number 1 is compulsory.
-2. Attempt any four questions from the remaining 6 questions.
-3. Figures in bracket indicate full marks.
-Q1 (A) Aniline is purified by steam distillation. method at 745 mm Hg. absolute (4)
-ressure. It is immiscible with water. Vapor pressure data are given below:
-=> Temp C Vapor — pressure of | Vapor pressure ~ of
-. | Aniline, mm Hyg water, mm Hg
-69.4 WO 228
-82 20 385
-96.7 _ 40 675
-106 60 938
-Calculate: 1) Distillation temperature
-, 2) Kg. Aniline distilled per kg steam
-©) Derive Fenskey’s equation for finding the theoretical number of plates for (44)
-total reflux.
-(C) Difference between functioning of total condenser and partial condenser. (41)
-Q2 (A) State similarity & differences between Azeotropis & Extractive distillation. (5)
-(8) A rectification columu is fed with 1000 kmol/ir of a mixture of 60 mol% (+)
-benzene & 40 mol% toluene. Feed, is 50% mixture of saturated iiquid & ;
-i vapour.. The distillate coritains 96: mol% benzene & bottoms coritain 7 mol%
-
-benzene. Reflux ratio is Z times minimum reflux. Relative volatility is 2.55.
-Calculate: A) kmol/hr of distillate & bottoms. 8) No of theoretical trays
-required C) Feed tray location D) Minimum reflux ratio
-
-A
-
-Q3 Write short notes on any four: : i (12)
-a) q line. . _
-
-b) Reverse Osmosis ~~
-
-_ ©) Pervaporation proces :
-
-— d) Classification of molecalar sieves “~~ 2
-
-: _e) Air drying by adsoipiion procgss “> °°
-
-Q4 (A E Explain working of Swenson Walker Crystatligser
-(B) Salt solution weighing 15,090 kg & is containing 27% by wt. MgCl2, It is (6)
-enalad to 290K. The sait crystallizes as decahyirate. 5% of total weight of
-
-pf
---- page 2 ---
-solution is lost as water vapor during adiabatic cooling. Solubility of MgCl2
-is 23 kg anhydrous MgCl2 per 100 kg of total water. Determine quantity of
-
-crystals produced.
-(C) Importance of Supersaturation in crystallization. (3)
-
-Q5 (A) Write a short note on various types of Adsorption Isotherms. (Ss)
-(B) For extraction of Dioxane from water, Benzene is used as Solvent. At 25°C, C#
-the equilibrium distribution of Dioxane between water & benzene is given as
-
-follows:
-Wt% of Dioxane in water | 5.1 | 18.9 25.2
-Wi% of Dioxane in [5.2 [22.5 32
-Benzene : | |
-
-At these concentrations water & benzene are insoluble. 100 kg solution
-containing 25% Dioxane is to be extracted with Benzene. If extraction were
-done in four stage cross current units using 600 kg pure Benzene each time.
-Find final raffinate concentration & % Dioxane removed.
-
-Q6 (A) Explain the calculation procedure for deterniining the number of theoretical 5
-stages in case of multi stage cross current leaching operation.
-
-(B) Vegetable oil seeds containing 100 gm insoluble solid & 25 gm oil are 2
-contacted with 300 gm solvent in a single stage Leaching operation. Solvent
-used is fresh. Determine the amount of oil left in oil seeds after leaching. The
-equilibrium data can be expressed as: N= -3.8y +7.5
-Where N-gm insoluble/(gm solvent+ gm oil)
-
-y- gm oil/(gm solvent+ gm oil) in seed phase
-x- gm oil/(gm solvent+ gm oil) in solvent phase
-Tie line data are:
-
-y 0.26 0.28 0.31 0.34
-X 0.02 0.04 0.06 0.08
-(C) . Describe any one Leaching equipment in detail. 5
-
-Q7 (A) Enlist the assumptions. in MoCabe-Thiele method of computing no. of (%)
-
-theoretical stages. .
-(8) Importance of HETP or HTU in deciding height of the column (6)
-(C) What do you understand by Optimum reflux ratio (3)
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper d6e96d87894e
@@ -2006,6 +2006,7 @@ Q 7 c Minimum, maximum & operating reflux ratio in distillation operations.   6
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/MASS TRANSFERT OPERATIONS II/MASS TRANSFER OPERATIONS II 2011-120001.pdf`
 - Printed on paper: duration hours: 3; exam date: 08/05/2012
 - Text: ocr (2 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2116,11 +2117,136 @@ benzene & 45 mol% toluene. Feed is 10% saturated liquid. The distillate
 contains 93 mol% benzene & bottoms contain 6 mol% benzene. Reflux ratio is
 3.5:1. Relative volatility is 2.5. Calculate: a) kmol/hr of distillate & bottoms. b)
 No of theoretical trays required c) Feed tray location
-y ) TERR RRR a ee SRARK KKK EK
 
 ZL
 
 12
+````
+
+## 2010-11 · Exam not stated · Trim 6 · paper 76caf7e26da1
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/MASS TRANSFERT OPERATIONS II/MASS TRANSFER OPERATIONS II(1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 09/05/2011
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+— SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Eng Bige ari
+Programme: MBA (TECH)-Chemical Year: II Trimester: * eS ro
+Academic Year : 2010-2011 i
+
+Subject: Mass Transfer Operations- II Marks: ie
+Time: \ Bo pm To 5.00%
+Date: 09/05/2011 Duration: y
+
+Final - Examination
+
+Ie — . xs
+esF
+
+NOTE: 1) Question no. 1 is compulsory and solve any 4 from 6 questions.
+2) Figures to right in bracket indicate marks.
+3) Assumptions made must be clearly indicated.
+
+Ql Write short notes on any four: (20)
+1. Major Application of adsorption operations.
+2. Formation of Liquid Membrane
+3. q-—line
+4. Optimum reflux ratio
+5. Effect of reboiler in distillation operations
+
+Q2A_ With the help of flow diagram explain the pressure swing adsorption giving the (10)
+four stage cycle.
+
+Q2B In cross current, two stage adsorption operation the feed contains 60 units of (10)
+impurity per Kg of water. If adsorption isotherm is Y = X/25 and the ratio of
+adsorbent to water is 0.2Kg per Kg of water in each stage. Find the outlet
+concentration of impurities?
+
+Q3A_ Draw the concentration profile diagram and explain the pervaporation process (10)
+
+of separation.
+Q3B_ Explain the process of reverse osmosis and write its applications. (10)
+Q4A_ Write note on adsorption materials (10)
+Q4B Derive Rayleigh’s equation for batch distillation & list drawback of batch (5)
+distillation
+
+Q4C Method of determining equilibrium compositions in flash distillation. State (5)
+limitations of flash distillation.
+
+Q5A_ Aniline is purified by steam distillation method at total pressure of 725 mm Hg. (5)
+It is immiscible with water. Vapor pressure data are given below:
+
+Temp C Vapor pressure of| Vapor pressure of
+Aniline, mm Hg water, mm Hg
+
+69.4 10 228
+
+82 20 385
+
+96.7 40 675
+
+106 60 938
+
+Calculate: 1) Distillation temperature
+2) Kg. Aniline distilled per 100 kg steam
+
+hy
+--- page 2 ---
+Q5B A rectification column is fed with 800 kmol/hr of a mixture of 50 mol% (10) —_—
+benzene & 50 mol% toluene. Feed is 50% saturated vapour-liquid mixture. The
+distillate contains 94 mol% benzene & bottoms contain 8 mol% benzene.
+Reflux ratio is 2 times minimum reflux ratio. Relative volatility is 2.4.
+Calculate: a) kmol/hr of distillate & bottoms.
+b) No of theoretical trays required
+' ¢) Feed tray location
+d) Minimum reflux ratio
+Q5C_ Various methods of creating supersaturation in crystallization. (5)
+
+Q6A_ Explain working of Draft Tube Baffle Crystallizer (6)
+
+Q6B Salt solution weighing 10,000 kg & is containing 28% by wt. MgCh. It is (6)
+cooled to 296 K. The salt crystallizes as hexahydrate 8% of total weight of
+solution is lost as water vapor during adiabatic cooling. Solubility of MgCl
+is 22 kg anhydrous MgCl per 100 kg of total water. Determine quantity of
+crystals produced.
+
+Q6C_ Explain the calculation procedure for determining the number of theoretical (8)
+stages in case of multi stage counter current leaching operation.
+
+Q7A_ Vegetable oil seeds containing 100 gm insoluble solid & 21 gm oil are (6)
+contacted with 250 gm solvent in-a single stage Leaching operation. Solvent
+used is fresh. Determine the amount of oil left in oil seeds after leaching. The
+equilibrium data can be expressed as:'N'= -3.9y + 7.8
+Where N-gm insoluble/(gm solvent+ gin oil)
+
+y- gm oil/(gm solvent+ gm oil) in seed phase
+x- gm oil/(gm solvent+ gm oil) in solvent phase
+Tie line data are:
+
+y 0.26 0.28 0.31 . 0.34
+x 0.02 0.04 ***0.06 0.08
+Q7B_ Enumerate various criteria for selecting solvent for liquid-liquid extraction (6)
+
+Q7C For extraction of Dioxane from water, Benzene is used as Solvent. At 25°C, (8)
+the equilibrium distribution of Dioxane between water & benzene is given as
+
+follows:
+Wt% of Dioxane in water | 5.1 18.9 25.2.
+Wt% of Dioxane in 5.2 22.5 32
+Benzene
+
+At these concentrations water & benzene are insoluble. 100 kg solution
+containing 25% Dioxane is to be extracted with Benzene. If extraction were
+done in two stage cross current units using 300 kg pure Benzene each time.
+Find final raffinate concentration & % Dioxane removed.
+
+RkRKKK EK
+
+kKeKKKRKKE
 ````
 
 ## 2009-10 · Exam not stated · Trim 6 · paper ce3801869069
@@ -2257,6 +2383,7 @@ T
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/MASS TRANSFERT OPERATIONS II/2008-2009(53).pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06-05-09
 - Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY LER StH
@@ -2322,7 +2449,6 @@ Q4b.*) Salt solution weighing 15,000 kg & containing 30% by wt. Na,CO3. It is 12
 solution is lost as water vapor during adiabatic cooling. Solubility of Na2CO3
 is 25 kg anhydrous Naz CO3 per 100 kg of total water.
 
-\Nhat wy be yretd of Neg Cg: oy © eryeeels a?
 
 PTO
 --- page 2 ---
@@ -2379,6 +2505,7 @@ HEKHREREEE AT J THE BES T#** #4 * 4 t 4% —
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/MASS TRANSFERT OPERATIONS II/2008-2009 re exam(26).pdf`
 - Printed on paper: exam date: 94-06-09
 - Text: ocr (2 pages), mean OCR confidence 92.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -2482,7 +2609,6 @@ iv)\Molecular sieves Applicalt ti
 v) Classification of molecular sieves
 vi) Air drying by adsorption process
 
-FE AE A a a a eo oo OR
 ````
 
 ## 2007-08 · Exam not stated · Trim 6 · paper 01e1aa96dfd8
@@ -2610,6 +2736,7 @@ f) Reverse Osmosis
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/MASS TRANSFERT OPERATIONS II/2007-2008 batch re exam(2).pdf`
 - Text: ocr (2 pages), mean OCR confidence 91.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS “ate
@@ -2721,7 +2848,6 @@ distillate contains 93 mol% benzene & bottoms contain 7 mol% benzene.
 Reflux ratio is 3.5:1. Relative volatility is 2.5. Calculate: a) kmol/hr of distillate
 & bottoms. b) No of theoretical trays required c) Feed tray location
 
-2 a oR oR oR a oo Rok oR ROK KK
 ````
 
 ## 2007-08 · Re-Exam · Trim 6 · paper 44ddf6dae4ae
@@ -2859,6 +2985,7 @@ PTO
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/MASS TRANSFERT OPERATIONS II/2006-2007(22).pdf`
 - Printed on paper: max marks: 100; exam date: 20/4/07
 - Text: ocr (2 pages), mean OCR confidence 86.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ~—
@@ -2896,7 +3023,6 @@ Draw neat sketch wherever necessary.
 
 Assume suitable data if necessary. 7
 
-Totelmumber ef Cuctiows are Sev cw
 
 (a) (Gi) Give the classification of various types of membranes. 5
 (ii) Give the advantages of extraction process over the distillation process. 5
@@ -3048,130 +3174,4 @@ a) Vacuum crystallizers.
 b) Modern absorbents.
 
 c) Sieve plate extraction column.
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper 76caf7e26da1
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/MASS TRANSFERT OPERATIONS II/MASS TRANSFER OPERATIONS II(1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 09/05/2011
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-— SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Eng Bige ari
-Programme: MBA (TECH)-Chemical Year: II Trimester: * eS ro
-Academic Year : 2010-2011 i
-
-Subject: Mass Transfer Operations- II Marks: ie
-Time: \ Bo pm To 5.00%
-Date: 09/05/2011 Duration: y
-
-Final - Examination
-
-Ie — . xs
-esF
-
-NOTE: 1) Question no. 1 is compulsory and solve any 4 from 6 questions.
-2) Figures to right in bracket indicate marks.
-3) Assumptions made must be clearly indicated.
-
-Ql Write short notes on any four: (20)
-1. Major Application of adsorption operations.
-2. Formation of Liquid Membrane
-3. q-—line
-4. Optimum reflux ratio
-5. Effect of reboiler in distillation operations
-
-Q2A_ With the help of flow diagram explain the pressure swing adsorption giving the (10)
-four stage cycle.
-
-Q2B In cross current, two stage adsorption operation the feed contains 60 units of (10)
-impurity per Kg of water. If adsorption isotherm is Y = X/25 and the ratio of
-adsorbent to water is 0.2Kg per Kg of water in each stage. Find the outlet
-concentration of impurities?
-
-Q3A_ Draw the concentration profile diagram and explain the pervaporation process (10)
-
-of separation.
-Q3B_ Explain the process of reverse osmosis and write its applications. (10)
-Q4A_ Write note on adsorption materials (10)
-Q4B Derive Rayleigh’s equation for batch distillation & list drawback of batch (5)
-distillation
-
-Q4C Method of determining equilibrium compositions in flash distillation. State (5)
-limitations of flash distillation.
-
-Q5A_ Aniline is purified by steam distillation method at total pressure of 725 mm Hg. (5)
-It is immiscible with water. Vapor pressure data are given below:
-
-Temp C Vapor pressure of| Vapor pressure of
-Aniline, mm Hg water, mm Hg
-
-69.4 10 228
-
-82 20 385
-
-96.7 40 675
-
-106 60 938
-
-Calculate: 1) Distillation temperature
-2) Kg. Aniline distilled per 100 kg steam
-
-hy
---- page 2 ---
-Q5B A rectification column is fed with 800 kmol/hr of a mixture of 50 mol% (10) —_—
-benzene & 50 mol% toluene. Feed is 50% saturated vapour-liquid mixture. The
-distillate contains 94 mol% benzene & bottoms contain 8 mol% benzene.
-Reflux ratio is 2 times minimum reflux ratio. Relative volatility is 2.4.
-Calculate: a) kmol/hr of distillate & bottoms.
-b) No of theoretical trays required
-' ¢) Feed tray location
-d) Minimum reflux ratio
-Q5C_ Various methods of creating supersaturation in crystallization. (5)
-
-Q6A_ Explain working of Draft Tube Baffle Crystallizer (6)
-
-Q6B Salt solution weighing 10,000 kg & is containing 28% by wt. MgCh. It is (6)
-cooled to 296 K. The salt crystallizes as hexahydrate 8% of total weight of
-solution is lost as water vapor during adiabatic cooling. Solubility of MgCl
-is 22 kg anhydrous MgCl per 100 kg of total water. Determine quantity of
-crystals produced.
-
-Q6C_ Explain the calculation procedure for determining the number of theoretical (8)
-stages in case of multi stage counter current leaching operation.
-
-Q7A_ Vegetable oil seeds containing 100 gm insoluble solid & 21 gm oil are (6)
-contacted with 250 gm solvent in-a single stage Leaching operation. Solvent
-used is fresh. Determine the amount of oil left in oil seeds after leaching. The
-equilibrium data can be expressed as:'N'= -3.9y + 7.8
-Where N-gm insoluble/(gm solvent+ gin oil)
-
-y- gm oil/(gm solvent+ gm oil) in seed phase
-x- gm oil/(gm solvent+ gm oil) in solvent phase
-Tie line data are:
-
-y 0.26 0.28 0.31 . 0.34
-x 0.02 0.04 ***0.06 0.08
-Q7B_ Enumerate various criteria for selecting solvent for liquid-liquid extraction (6)
-
-Q7C For extraction of Dioxane from water, Benzene is used as Solvent. At 25°C, (8)
-the equilibrium distribution of Dioxane between water & benzene is given as
-
-follows:
-Wt% of Dioxane in water | 5.1 18.9 25.2.
-Wt% of Dioxane in 5.2 22.5 32
-Benzene
-
-At these concentrations water & benzene are insoluble. 100 kg solution
-containing 25% Dioxane is to be extracted with Benzene. If extraction were
-done in two stage cross current units using 300 kg pure Benzene each time.
-Find final raffinate concentration & % Dioxane removed.
-
-RkRKKK EK
-
-kKeKKKRKKE
 ````

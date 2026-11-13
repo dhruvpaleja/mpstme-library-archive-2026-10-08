@@ -14,18 +14,18 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Indian Financial System(703TF0E001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Indian Financial System(703TF0E001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Indian Financial System(703TF0E001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Indian Financial System(703TF0E001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Indian Financial System(703TF0E001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Indian Financial System(703TF0E001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Indian Financial System(703TF0E001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Indian Financial System(703TF0E001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Indian Financial System(703TF0E001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Indian Financial System(703TF0E001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Indian Financial System(703TF0E001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Indian Financial System(703TF0E001)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 9 | MBA TECH | Indian Final System, Re-exam 2024-25.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Indian Financial System(703TF0E001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBA TECH | Indian Financial System,, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Indian Financial System(703TF0E001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Indian Financial System(703TF0E001)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 9 | MBA TECH | Indian Financial System , Final 2023-2024.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 9 | MBA TECH | Indian Financial System,Final,2022-23.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 9 | MBA TECH | Indian Financial system , Final 2019-20.pdf |

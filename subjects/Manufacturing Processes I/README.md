@@ -14,16 +14,16 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Manufacturing Processes-I(702ME0C027)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Manufacturing Processes-I(702ME0C005)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Manufacturing Processes - I 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / MECHANICAL | Manufacturing Processes -I 2025-26 Final0001.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech Mechanical 7003 | QP_Manufacturing Processes-I(702ME0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | Integrated Mechanical 7031 | QP_Manufacturing Processes-I(702ME0C005)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Manufacturing Processes-I(702ME0C027)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Manufacturing Processes-I(702ME0C005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Manufacturing Processes-I(702ME0C027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Manufacturing Processes-I(702ME0C005)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech Mechanical 7003 | QP_Manufacturing Processes-I(702ME0C027)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | Integrated Mechanical 7031 | QP_Manufacturing Processes-I(702ME0C005)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Manufacturing Processes-I(702ME0C027)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Manufacturing Processes-I(702ME0C005)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL | Manufacturing Processes -I Batch 2024-25 Final Batch 2022-24,2023-24 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL | Manufacturing Processes-I, Sem-III, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL | Manufacturing Processes , Re-exam 2022-23,2023-24.pdf |

@@ -14,8 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Fundamentals of Economics(702TG0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Fundamentals of Economics(702TG0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Fundamentals of Economics(702TG0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | B TECH | B Tech, Fundamentals of Economics, Sem-II, Batch 2022-23 & 2024-25, Re Exam.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Fundamentals of Economics, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 2 | B TECH | Fundamentals of Economics, Sem-II, Year_2020-21, 21-22 & 22-23, Re Exam.pdf |

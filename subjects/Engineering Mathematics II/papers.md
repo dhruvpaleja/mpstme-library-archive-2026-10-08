@@ -1,6 +1,6 @@
 # Engineering Mathematics II: question papers in full
 
-33 unique papers · 2013-14 to 2018-19 · Common (all branches)
+35 unique papers · 2013-14 to 2018-19 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/MATHEMATICS-II_ALL STREAMS FINAL EXAM_2018-19.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 77.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -73,7 +74,6 @@ type
 vi) If I= [f(x +y?)dedy where R is r=2, then J is . [1]
 R
 
-a) 27 b) 8m c) 4m d) Sz.
 
 vil) if fo , then z=0 is of f(z). I}
 
@@ -251,6 +251,7 @@ surface bounded by x?+ y?= 16,z = 0,2 =5.
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/MATHEMATICS II ALL STREAMS BATCH 2018-19 RE EXAM.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 June 2019
 - Text: ocr (4 pages), mean OCR confidence 75.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -430,8 +431,6 @@ a)— b)— c)— d)——
 2a Vax-x?
 xX. On converting into polar coordinates i) i) dxdy = ......
 0 tv)
-x/2 2acosé 1/2 acosO m 2acos@ % acos
-a) i} J rdrd@ ’) f f rdrd@ +) j f rdrd@ a) J j rdrdO
 ; 0 0 0 0 0 0 0 0
 Q1. b) Match the following [10]
 The order and degree of| a 8
@@ -526,6 +525,150 @@ c) Find by double integration the area lying between the parabola y = x° —6x 
 and the line y=2x-9. [8]
 
 5
+````
+
+## 2018-19 · Re-Exam · Sem 2 · paper f042a922bd0a
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2016-17_2017-18_2018-19_Re_Exam_PcjOuNB1gL.pdf`
+- Printed on paper: duration hours: 3; exam date: 14 June 2019
+- Text: ocr (3 pages), mean OCR confidence 74.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Program :B.Tech Integrated (All Streams) Year: IT Semester: IV
+Academic Year: 2018-2019
+Subject: Engineering Mathematics - I , : Marks: -70 >
+Date: 14 June 2019 | . Time:,-10.00 am to 1.00 pm
+?
+
+Duration: 3 (hrs)
+No. of Pages: a ;
+Re-examination(2016-17/2017-18/18-19) ~~ _ Se
+
+Thatrocsions: Cuntidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary. a
+
+Q1)a) Choose the correct alternative and answer the question: (6)
+12.3
+y Rank of the matrix A=|2 5 7} is
+3 1 2
+a) 0 b) 1 c) 2 d) 3
+” EE
+616°
+%
+3) jane cos! @ d0=
+pq pti ax
+=pi£Ft b
+» 402.2} »
+1 of pti gti Pp z)
+= g| £2" d fa
+°) 5A 2 2 ral 2
+--- page 2 ---
+4) Rank of matrix A of order n with |4|#0 is
+a)on b) n-1 ce) wr d) n+1
+5) The integrating factor of (x* + dey? dy =0
+a) x! by + ) + ox
+x x
+
+* 2-4 Sot
+b) Show that [xe dx |e at
+
+©) Solve »-(x2y— 2xy" dx — (x3 ~3x? y)dy =0
+Q2) a) For the following matrix A find non-singular matrices P and Q such that
+PAQ is in normal form and hence or otherwise find the rank of A. Also find
+1 1 0 2
+A” if it exists, A= 2 — ’
+2-3. 4
+b) Test the Consistency of the following equations and solve them if possible:
+4x—2y+6z=8, X+y—3z=-1, 15x-3y+9z =21
+c) Examine whether the follo
+
+Q3) a)
+
+b)
+
+c)
+
+Q4) a)
+b)
+
+¢)
+
+wing vectors are linearly independent or
+dependent. If linearly dependent then find the relation between them.
+
+X, =[1,0,2,1], X, =[3,1,2,1],X, =[4,6,2,-4], x, =[-6,0, 3,4]
+Evaluate: - i” (x? + 4) er" de
+
+32
+Prove that: r sin? x dy f 0 sin? x de = Ge i)
+
+Prove that: j, “x4 (2 - cs de = an
+
+Solve : (xy cos x— ysin x—2)dx+xsin x dy=0
+Solve: Pie sin’ y+ xsin2y =x
+
+Solve by variable separable method: (x? + yee ~ Ixy dy=0
+
+6)
+
+(4)
+(S)
+
+6)
+
+(4)
+
+()
+S)
+
+(4)
+
+6)
+S)
+4)
+--- page 3 ---
+Q5) a) Investigate for what values of 1 and y the equations
+
+x+2y+3z=4, x+3y+4z=5, x+3y+dz=y have 6)
+@ no solution (ii) a unique solution (iii) an infinite no. of solutions.
+b) 2
+Solve: ay SP 2B a sy =sin’ x ; ()
+a Solve: (D> +3D+2)y=e” where D= a
+” ~ Ok (4)
+
+Q6) a) Change the nail of integration and evaluate:
+
+j _= dy dx @
+vavy' =e
+b) Change to = co-ordinates and evaluate:
+iietaee | °
+> 3 (2 +9’)
+Q7) a) Find the mass of lamina bounded by y? =xand x? =y, the density at (7)
+any point varies as the square of its distance from the origin. _
+b) )
+
+Solve: (D? -4D+4)y =e" +x? +cos2x where D= <
+
+3[%
 ````
 
 ## 2017-18 · Final-Exam · Sem 2 · paper 25803f779b30
@@ -949,6 +1092,155 @@ Find the volume bounded by y? = x,x° = yand the planes z = 0 andx + y+2= 1.
 2/2
 ````
 
+## 2016-17 · Final-Exam · Sem 2 · paper 613a2f514673
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2016-2017_Final_PUAIJEEetJ.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 04 May 2017
+- Text: ocr (2 pages), mean OCR confidence 78.4
+
+````text
+SVKM’S ‘NMIMS ers ARS,
+f Pe pe .
+« MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGSSEERING We *
+
+zt sata B \s
+Academic Year: 2016 - 2017 OAL bee ARE DB
+Program: B. Tech Integrated (All Streams) Year: Semesige. IV ya |
+Subject: Engineering Mathematics - Time: 10.00 am to: 1 agin
+Date: 04 May 2017 Duration: 3 (hrs) _
+
+No. of Pages: 2
+Marks: 70 FINAL EXAMINATION Aes
+
+Instructions: Candidates should read carefully the instructions printed on the
+
+question paper and on the cover of the Answer Book, which is provided for their
+use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+“ 4) All questions carry equal marks.
+5) Auswer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1
+a) Reduce the following matrix to Echelon form and also find its rank. (3)
+13 22
+12 13
+243 4
+3.7 4 8 -
+b) Evaluate [ yer ad ; (3)
+0
+c) Evaluate (z cos )ae-[2 sin 2 + cos 65 =0 (4)
+x x yx x
+1 "2
+1
+d) Evaluate [ [ — «ys (4) -
+0 0 1-x? - y
+Q2 :
+a) Reduce the following matrix to Normal form and also find its rank. (4)
+1 2 2 3
+2 5 -4 6
+-1 32 -2
+2 4 -1 6 :
+
+b) Determine the linear independence or dependence of the vectors [1, 1, 1, 3];
+[1, 2, 3, 4]; [2, 3, 4,7]. Find the relation between them, if dependent. (5)
+
+c) Test for consistency the following equations and solve them, if possible
+2x—3y+5z=1; 3x+y—-z=2; x+4y-6z=1. (5)
+
+A
+--- page 2 ---
+Q3
+a) Evaluate f 5 oe
+
+0
+L v2
+b) Evaluate f vi-2” a& J 2y-4y" dy
+0 0
+7
+c) Evaluate f 4(x-3)(7-x) d&
+
+Q4
+
+a) Show that the following differential equation is exact and hence solve:
+(1+ lost) ae+{1+=]ay =0, given y(0) = 4.
+y
+dy
+
+b) Solve the linear differential equation: xcos i +y (x sinx + cosx)=1.
+
+c) Solve: (D*-2D?-5D+ 6)y=e* +8.
+
+Q.5
+1 pva?+x? dydx
+a) Evaluate il i, Fasteye :
+b) Change the order of integration and evaluate { (? 5 Z: 7 dedy «
+y x+y
+
+c) Find the area of the region bounded by y =x, x-axis andx = 1.
+
+Q.6
+1 1 2
+
+a) Find non-singular matrices P and Q such that A=) 1 2 3 jis reduced to
+0 -l -l
+
+normal form.
+
+b) Solve the following system of linear equations
+
+xt ytz=3,x+2y+3z=4,x+4y+9z=6
+c) Find the integrating factor and hence solve (2x logx —xy)dx +2ydy=0-
+
+Q7
+a) Evaluate f sin’ A(1+cos 6) do
+0
+
+b) Solve the Bernoulli’s equation: x4 y=x'ys
+
+c) Evaluate ff x(x—y)dxdy where R is the triangle with the vertices
+
+(0,0), (12), 04)
+
+@)
+
+65)
+
+G)
+
+@)
+(5)
+
+6)
+
+(4)
+
+(5)
+6)
+
+(4)
+
+(6)
+
+(5)
+
+@)
+
+G)
+
+6)
+
+%
+
+Se
+````
+
 ## 2016-17 · Final-Exam · Sem 2 · paper 465962763019
 
 - Departments: Common (all branches)
@@ -1251,6 +1543,281 @@ x2 y? z
 pe kk
 ````
 
+## 2016-17 · Re-Exam · Sem 2 · paper b99a38038867
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II B TECH (ALL STREAMS), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
+- Text: ocr (2 pages), mean OCR confidence 76.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING Zag a,
+
+Programme: B. Tech (All Streams) Year: I Semester: II ors
+j Mu Pst He B
+
+LIER ART
+
+Batch: 2014 - 2015
+Academic Year: 2016-2017
+
+Subject: Engineering Mathematics —II
+
+Marks: 60
+Date: 05 May 2017 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: _2—
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. *
+7) Assume Suitable data if necessary.
+
+Ql.
+a) 3 2/3 a *   @)
+If A=| 2/3 1/3 6} is orthogonal, find a, b, c.
+2/3 -2/3 ¢ -
+b) _ @)
+Evaluate f3 dx.
+0
+°) Solve y(xyt+e )ae- e* dy =0. G3)
+d) log2 x x+y G)
+Evaluate i) f i) e* dzdydx .
+000
+Q.2.
+a) 3.2 5 7 12 (4)
+Reduce the matrix A=|1 1 2 3 5 |to normal form and find its rank.
+3 3 6 9 15
+b) 3 22 (4)
+| IfA=|1 3 1, Find adjd and A". Also find a matrix B such that
+5 3 4
+eg “(34 2
+AB=|1 6 1}.
+5 6 4
+c) 2+3i 2 3i (4)
+Express the matrix A=] —2i 0 142i | as sum of Hermitian and Skew-
+~ 4 245i -i
+Hermitian matrix. /
+lh
+
+-
+--- page 2 ---
+Q3.
+a)
+
+b)
+c)
+
+Q4.
+a)
+
+b)
+
+c)
+
+Q.5
+a)
+
+b)
+Q.6.
+a)
+
+b)
+
+c)
+
+Q.7.
+a)
+
+b)
+
+Prove that J, ye” ‘dy: [°* a=
+
+Evaluate ( x, (2ax -x dx
+Evaluate f. «{xlog(1/x )dx.
+
+3
+dy = af 6 2cosh? 2x.
+dx dx
+
+dj :
+Solve xeosx + y(xsin x+c0sx) =1.
+
+Solve (D° -3D+2)y = 2e* cos ,
+
+ad 1
+Solve by method of variation of parameters a +y=
+dx
+
+1+sinx~
+
+Solve (x+2)' = dy —(x+2)—= Baye 3x+4.
+
+Evaluate ff x’dx dy where R is region in first quadrant bounded by
+
+yao 28, y=0and y=x.
+x
+
+Chane to polar coordinates and evaluate {fare
+x+y
+
+Find the volume bounded by y? =x, x2 =y andtheplanes z = 0 and
+x+y+z=2.
+
+Bacay ee or x
+Change the order of integration
+J J V1-x? Jl-x?
+
+evaluate it.
+Find the mass of lamina bounded by y’ = ax and x? = ay, the density at any point
+varies as the square of its distance from the origin.
+
+—— —ardy and hence
+
+(4)
+
+(4)
+(4)
+
+(4)
+
+(4)
+
+(4)
+
+(6)
+
+(6)
+
+4)
+
+(4)
+
+(4)
+
+(6)
+
+(6)
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper 2fc8afa95d69
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II BATCH 2014-15 RE EXAM_2fc8afa95d.pdf`
+- Printed on paper: max marks: 60; exam date: 08 July 2017
+- Text: ocr (2 pages), mean OCR confidence 82.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) é Year: I Semester: II
+
+Batch: 2014-2015 c
+Academic Year: 2016-2017
+
+Subject: Engineering Mathematics - II
+
+Marks: 60
+Date: 08 July 2017. Time: 10.00 and
+Durations:,
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the ques
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted. :
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1 a) Prove that the following matrix is orthogonal and hence find A7?.
+
+cosa 0 sina (3)
+A= 0 1 0 |
+- sing 0 cosa
+b) Solve y(1+ xy)dx - x(1- xy)dy = 0. (3)
+c) Evaluate fue de. (3)
+0
+d) Evaluate Seo fx + y)dxdy. (3)
+
+Q2 1 k+4 4k+2
+a) For what values of k,the matrix A=|0 k-2 -k+2] rankis3,alsofindtherank (4)
+1 2k-4 -k+2
+for the remaining values of k.
+7+2i 6 4i
+b) Express the matrix A=| i 8 —2+i | as sum of Hermitian and Skew (4)
+1-i -3+i7 0
+
+Hermitian matrices.
+
+1-1 3 6 (4)
+c). Reduce the matrix to normal form and finditsrank A= ]1 3 -3 -4|.
+5 3 3. 11
+Q3 a) Solve + Qxy = 2e7**. (4)
+b). Salve (= - e*) dx - x*ydy = 0. (4)
+c). Solve (D? - 2D + 1)y = x+ e* cosx. (4)
+2
+Q4 a) Solve by method of variation of parameters = -y= <5. (6)
+b) Solve x2 £4 xs y = (logx)?. (6)
+
+Yo
+--- page 2 ---
+“95
+
+Q6
+
+Q7
+
+(4)
+
+o i =x? roe) e7x? 1
+a).Prove that [, x#e* dx - J, ex = aR
+m x 4
+b) Prove that {? Vtanx dx- [? Vcotxdx = 17/2. 4)
+c) Evaluate Jo Xax. (4)
+(4)
+
+az
+a) Change the order of integration in Sz fy) dy dx.
+
+b) Change to polar coordinate and evaluate Se 1/,/xy dx dy. Where R is the (4)
+region of integration bounded by x? + y*- x = Oandy = 0.
+
+c) Evaluate {{ xy dx dy over the area bounded by the parabolas y = x*andx = - y? (4)
+
+a) Find the volume bounded by the cylinder x? + y* = 4 andtheplane y+ z= 4 (6)
+
+andz= 0.
+
+b) Find the mass of the tetrahedron bounded by the coordinates planes and the (6)
+
+plane 7 + + - = 1, the variable density p = pxyz.
+````
+
 ## 2016-17 · Re-Exam · Sem 2 · paper 7ea536d67c2f
 
 - Departments: Common (all branches)
@@ -1369,6 +1936,139 @@ Evaluate imi [OP er dedydz,
 Zh
 ````
 
+## 2015-16 · Exam not stated · Sem 2 · paper 782d4e6a771f
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II B TECH (ALL STREAMS), BATCH 2013-14.pdf`
+- Printed on paper: max marks: 100; exam date: 06/05/2016
+- Text: ocr (2 pages), mean OCR confidence 76.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (All Streams) Year: I Semester: II
+
+Academic Year: 2015-16
+
+ao Batch: 2013-14
+
+Subject: Engineering Mathematics —II Marks: 100
+Time: 2.00 p
+
+Date: 06/05/2016 Durations: 3
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. one is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Qi (20)
+2 -1 3
+a) f A=|1 1° 1], find A?.Use adjoint method. 6)
+1 -1 1
+b) Eval ja dz . 5
+) Evaluate leas (5)
+0
+€) Solve 24 Yoosxesiny+y 9, '
+sinx+xcosy+x (5)
+LL dxdy
+d) Evaluate { |———-__. 6)
+Joya)
+Q.2 (20)
+a) Reduce A to Normal form and hence find its Rank, ’
+1 -1 2 -3 (8)
+4 1 0 2
+Where A =
+03 1 4
+01 0 2
+
+b) Prove that the following matrices are orthogonal and hence find 47.
+
+(6)
+cosa 0 sina 0 3 v3
+
+1
+pe A=| 0 1 0 J; 4=4)2 1 =I
+v6
+
+-sina 0 cosa v2 -J2 V2
+
+c) Express the following matrix as sum of symmetric and skew symmetric
+
+ye
+--- page 2 ---
+1 0 53 (6)
+
+2
+matrices, where A = -e .
+2 7 1
+4 -4 2 0
+R304 so es (20)
+oo a “Pyahunte (7 Peo x5(1- xy dx (8)
++ y
+“A » Baus J cos® 30 sin? 60d0 6)
+wig ges
+t
+¢) Prove that [xe dx[x*e™ —
+) j [re ~ 162 ©
+Q.4 (20)
+a) Solve (D*-1)y = coshxcosx. ;
+( ) (8) SS
+b) Solve (2x? -y)de+xdy =0.
+(6)
+dy . 32
+Solve —+ 2y= .
+c) Solve - xsin2y=x° cos’ y (6)
+Q.5 . (20)
+a) Use the method of variation of parameters to solve
+5 ee (10)
+(D? -6D+9) yom
+(10)
+
+b) Solve (x+2) ay ~(0+ Ye ya3xd4.
+Q.6 (20)
+
+a) Express in polar coordinated and evaluate,
+
+a atya’—y? dydx
+
+J J T,.2, 2,2) (8)
+
+0 oy (4a 4x7 +")
+b) Evaluate [femanay. (6)
+00 6
+
+c) Find by double integration area included between the curves
+ya3x? —x-3, y= 2x? +4047.
+Q.7 (20)
+a) Find the volume bounded by the cylinder y’ +x° =4 and the planes (aay
+
+pac yt+z=4,7=0
+
+b) Evaluate ff i} (x? yty et 2x") dxdydz where V is the volume
+: (10)
+bounded by the sphere eryee = a.
+
+—2/2—-
+````
+
 ## 2015-16 · Final-Exam · Sem 2 · paper 1cfb499e91d4
 
 - Departments: Common (all branches)
@@ -1376,6 +2076,7 @@ Zh
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II B TECH (ALL STRAMS), 2015-16 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 06/05/2016
 - Text: ocr (2 pages), mean OCR confidence 78.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Mi
@@ -1445,7 +2146,6 @@ c. Prove that fxsin xcos” xdx = —— 4
 Q4 a If} is an integrating factor of y(2x’y + e°) de — (e + Y)dy = 0, find n and solve the 5
 "equation.
 b. Solve the following equation a =axy—xy. 5
-c. Solve (xysin xy + cos.xy) yak + (xysin xy —cosxy) xdy = 0. 4 =
 Q5 4 Solve (x°D? ~4xD + 6)y =~x‘sinx 5
 b. Solve (D +4)y=xsin? x 5
 c. Solve y"—2y'+4 =e sec? x using the method of variation of parameters. 4
@@ -1584,6 +2284,339 @@ LVi-? yi-r-
 5a] ordinates.
 
 K x
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper 3f2060a3d443
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II ALL STREAMS BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 01 July 2016
+- Text: ocr (2 pages), mean OCR confidence 79.3
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT. & ENGINEERING
+
+Programme: B.Tech (All Streams) Year: gst =
+
+Academic Year: 2015-16
+
+Batch: 2013-14
+
+Subject: Engineering Mathematics-II Mark: <i
+Time: 2.00 pm — 5.00 pm
+Date: 01 July 2016 , Durations: 3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answers to each new question to be started on a fresh page.
+
+6) Figures in bracket on the right hand side indicate full marks.
+
+Q.1 a) Solve (D +4D+4)y =cosh2x+sin2x. , . (5)
+3 2-i 142i
+b) Express the hermitian matrix A4=| 2+i 2   3-2i|as P+iQwhere P is real
+1-2: 3+2i 0
+
+symmetric and Q is real skew symmetric matrix. (5)
+: ;
+c) Evaluate J Vian 6d6 . (5)
+* 7 ZxXtz
+d) Evaluate SJ f (x+y +2) dxdydz . (5)
+
+-10 x-z
+
+Q.2 a) Find the possible values of k for which the rank of A is 1, 2, 3
+k 44
+
+where A=|4 k 4 (8)
+44k
+
+[ J2 =i 0|
+
+b) Show that 4 -5 iJ2 -J2 0 |is unitary and hence find its inverse. (6)
+0 0 2
+
+c) Reduce the following matrix to its normal form and hence find its rank
+
+6 1 3 8
+where 4 = _2& = (6)
+103 9 7
+
+16 4 12 15
+
+Vo
+--- page 2 ---
+Q.3
+
+Q4
+
+Q.5
+
+Q.6
+
+Q.7
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+2)
+
+dy, ay
+
+Solve x? re +2x——6y=x° logx . (8)
+2
+
+Solve To 144 4y = x00sx . (6)
+
+2 Ns 2
+
+Solve | xv —e dx—x°ydy=0. (6)
+2x8 (1 - x°)
+
+Evaluate | “dx. (8)
+0 (1+x)
+
+Evaluate fsin? O(1+cos8) do . (6)
+
+0
+
+Evaluate J xe™ dx. ede . (6)
+0 to)
+
+Evaluate fff dxdydz over the volume of the tetrahedron bounded by
+
+x=0,y=0,z=0and ~+247=1 . (8)
+
+abe
+Change the order of the integration and evaluate ff x°dxdy where R is the region in *
+R ,
+
+the first quadrant bounded by xy =a’,x=2a,y=0,y=x . (6)
+
+Find the area between the curves 2x-3y =—4 and y? =4x. (6)
+
+Evaluate fff z’°dxdydz over the volume bounded by the cylinder x” + y? =a’ and the
+
+paraboloid x? +y* =zand the plane z=0. (8)
+a Va? =x?
+Change to polar co-ordinates and evaluate J J yx? + ydydx . (6)
+0 0
+dy 2x .
+Solve ++ y= + given that y=Owhen x=1. (6)
+dk x +l (2 + 1)
+2
+VigD nye .
+Solve Sz +I——+4Y=€ by the method of variation of parameters (8)
+ax dx
+Solve (D-1)°(D?+1)y=sin?= - 6
+( ) ( )y=sin 5 (6)
+cl m ma
+Show that fx cos axdx =~—cos} —] - (6)
+J a” 2
+-—
+
+2/2
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper 6e45d6434c11
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II ALL STREAMS BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 01 July 2016
+- Text: ocr (2 pages), mean OCR confidence 75.5
+
+````text
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT EERING
+
+Programme: B.Tech (All Streams) Year: \ er: II
+
+Academic Year: 2015-16 {
+
+if
+
+Batch: 2014-15
+
+Subject: Engineering Mathematics-II Marks* all
+. Time: 2.00 pm - 5.00 pm
+Date: 01 July 2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions. =
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Q1 a) Solve : (ye-2y?) dx + (xe-6xy?-2y) dy=0 (3)
+eval © ooxt g @)
+») Evaluate J) e7* dx
+2 ox, 02K (3)
+ce) Evaluate [ff xd-dyax
+: 00 0
+- 253 @)
+d , - A
+) Find the ddj A, A=|3 1 2),
+12 ]
+d
+Q2 a) Solve : tany a + tanx= cosy cos*x (6)
+b) Solve by inethod of variation of parameters (Dp? ~-dD+4 )y =e ™ sec’ x, (6)
+r ] = ks of 7 ; 6
+=| Q3 a) Evaluate fff Pecan: dx dy az throughout the volume of the sphere (6)
+
+_ ») ee yy +2° =a". ©
+
+Evaluate {f- —; dvdy over the region R where R is bounded by xv = vand x= +,
+
+R x
+Vo
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+a)
+
+b)
+
+7)
+
+a)
+
+b)
+a)
+
+b)
+
+a)
+
+b)
+
+c)
+
+Evaluate Sy 778 dx
+Evaluate Sy Vx e7V* dx
+
+; 2
+Prove that fx V8-x° dy at (; | .
+i)
+
+3° (373
+12° dj .
+Solve x? = a =x 4 4y=coslogx+xsinlogx.
+dx” dx °
+
+Find the area between the curve xy=4/9 and the straight line 2x+y=2.
+
+Solve (D4 +8D? +16) y =sin? x
+
+ao Var
+
+i x i e ‘ ‘
+Evaluate | { —-+—~ dydy by changing the order of the integration.
+
+oy X +P
+
+Prove that the following matrix is orthogonal and hence find A™.
+
+V3 -1 0
+
+A=} 1 V8 ol,
+2
+0 0 2
+
+Verify if A is a unitary matrix. Also find A if A is a Unitary matrix.
+
+0 1 0
+-1ti L-i
+te «(OO =
+4=/ V6 V3
+2 1
+L v6 V3
+
+Reduce the following matrix to normal form & obtain its rank
+
+3 4 1 1
+2 4 3 6
+-1 -2 6 4
+1 -1 2 -2
+
+y *
+
+(4)
+
+(4)
+
+(4)
+(6)
+
+(6)
+(6)
+(6)
+
+(4)
+
+(4)
+
+(4)
 ````
 
 ## 2015-16 · Re-Exam · Sem 2 · paper 115921302e07
@@ -1917,6 +2950,446 @@ G)
 Qo
 ````
 
+## 2015-16 · Re-Exam · Sem 2 · paper 2527ef063c47
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING_MATHEMATICS_II_ALL STREAMS B_TECH_14-15_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; exam date: 06/05/2016
+- Text: ocr (2 pages), mean OCR confidence 72.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (All Streams) Year: I Semester: II
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Engineering Mathematics —II Marks: 60
+Time: 2.00 p
+Date: 06/05/2016 Durations: 3 h e
+Re-Examination awe
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer book, which is provided for their use.
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answers to each new question to be started on a fresh page.
+6) Figures in bracket on the right hand side indicate full marks.
+a) Solve xedse + yey + BYE _ (3)
+Ql xray
+1-i 243i 3-i
+b) Express the matrix 4=| 2   2-i 142i |as P+iQwhere P and Q both are
+3i 0 1+7
+hermitian matrices. (3)
+; a x
+c) Evaluate [ (sinO+cos0)*d0. (3)
+d) Evaluate ff e***’ dxdy over the triangle x =0, y=0, xt y=. (3)
+Q2 a) Solve (D? =1) y= xe* +c0s" x (4)
+b) Solve (a? +y)de+2(x2y? +x+y")dy=0 (4)
+c) Solve (1 + y) dx = (tan y-x)dy (4)
+3 123 4
+a) Reduce the matrix 4=|2 1 4 3 |to itsnormal form and hence finditsrank (4)
+3.0 5 -10
+Y Ua
+i J
+b) If A= Ys VA b |is orthogonal then find a, b, c also find 4”. (4)
+2Z 2
+A -7 &
+(3 2.2 34 2
+c) If A4=|1 3 1 find adj Aand 4". Also find B such that 4B=|1 6 | (4)
+5 3 4 5 6 4
+
+Vo.
+--- page 2 ---
+Ss over the volume of sphere x? + y? +2? =a? 4+)
+py Tptesmt Ib dxdy throughout the area bounded by y= x’ andx+y=2. (+)
+nS CBange the order of th deval ty 7 (4)
+~ c) , Change the order of the integration and evaluate oo a 4
+PH ye ues 0 0 (e?+1)yl--y
+Q.5 ‘(1 +x °) a
+a) Evaluate [eae (4).
+(1 +X
+1 1
+b) Prove that B(x,x)= pal B a (4)
+i) a io] ee
+c) Evaluate | x e~* dx dx (4)
+fretal
+
+Q.6
+
+4 Vi6-x7 dvax
+@}) Change to polar coordinates and evaluate ) f as
+
+> (6),
+0 ee V16- x? -y
+
+ra
+b) Prove that Nt (9-x)(x- Sax == | : (6)
+
+Q7
+dy @ x _ :
+ay Solve x? y +92 y =~ by the method of variation of parameters. (6)
+. x” dx x +] ;
+) Find the mass of lamina bounded by the curves of y’ = ax and x’ = ay if the density
+ofthe lamina at any point varies as the square of its distance trom the origin. (6)
+
+\
+
+2/2,
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper 1f8b03dfe1a2
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/Engineering Mathematics II Batch 2013-14 Re Exam_1f8b03dfe1.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06/05/2016
+- Text: ocr (2 pages), mean OCR confidence 78.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year:I1 Semester: II
+
+Academic Year: 2015-16
+
+Batch: 2013-14 .
+
+Subject: Engineering Mathematics — II . Marks: 100 | ’
+
+Date: 06/05/2016 - Duration: 3 (hrs)
+Re-Examination ;
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. one is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted. '
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Q1
+a) Express the following matrix as sum of Hermitian and Skew- (5)
+2+3i 2 3i
+Hermitian matrices: | —27 O 142i |.
+4 245i -i
+€ ud
+. _ atxdy — yd) .
+b) Solve: xdx+ ydy = ee : (5)
+2
+c) Evaluate: ix V8—x° dx, 6)
+2 V2x-x? - (8)
+d) Evaluate: | jx dydx
+0) 0
+Q.2 12 1 90
+3 2 1 2 (8)
+a) Findrankof|2 -1 2 5 | by reducing it to normal form.
+-atateial
+5 6 3 2
+ge 1 3 -1 -3
+1 3 2
+b) Verify that (adj4)' =(adjA") for A=|-1 -2 0}. (6)
+2 0 1
+
+Yo.
+--- page 2 ---
+0 2m n
+c) Determine /,m,n andfind A if A=|1 m = —n}| is orthogonal. (6)
+
+1 -m on
+Q.3
+3x
+a) Solve: (D’ -6D+ 9) y= e z by the method of variation of parameters. (8)
+x
+dy 3.6
+b) Solve: x—+y= 3 6
+) x ce yaxy (6)
+c) Solve: (I+x+29")dy+(y+y*)dv=0. (6)
+Q.4
+ad’y dy (8)
+a) Solve: (x+2) qe ta ty aaet4, .
+b) Solve: (D? -5D+6)y=sin3x. 6)
+c) Solve: (D’-3D+2)y=x. (6)
+Q.5
+%
+dx a
+a) Prove that = : (8)
+) Prov lFoteeE sin’x 2ab
+oO x3 oO
+e 6
+b) Evaluate: dk y'e* dy. (6)
+b Beats |
+c) Evaluate: f xsin’ xcos‘ x dx. (6)
+0
+Q.6 4a y 2 cag
+a) Change to polar coordinates and evaluate f J io a dxdy . (8)
+0/ x+y
+b) Change the order of integration and evaluate ©
+1 Vi-x? y
+f J ——_£ dyadx.
+a 2
+00 (e? +1 l-x*-y
+c) Evaluate: ff (x? -y? )x dxdy over the positive quadrant of the circle 6)
+xr+y=a.,
+a) Find the mass of the lamina bounded by the curves y* = ax and
+2 x” =ay if the density of the lamina at any point varies as the square a
+of its distance from the origin.
+b) Find the volume of the tetrahedron bounded by the planes
+| x=0,y=0,2=Oandx+yt+z=a. (6)
+1 I-x (x+y)?
+c) Evaluate: i) f fx dzdydx .
+pass: 0 0 0 (6)
+* t
+
+2/o_
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper 58a27429a277
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/Engineering Mathematics II Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 06/05/2016
+- Text: ocr (2 pages), mean OCR confidence 70.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year:1 Semester: II
+Academic Year: 2015-16 gee ~~
+of i ‘i
+Batch: 2014-15 , if ( fb
+Subject: Engineering Mathematics — II o Marks: 60 | a ~)
+Time: 10.00 amt
+Date: 06/05/2016 . Duration: 3 (ars)
+
+Re-Examination
+
+Instructions:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted
+
+4) Answers to each new question to be started on a fresh page.
+_.. 5) Figvres in bracket on the right hand side indicate full marks.
+
+Q.1) .
+a) Solve [ise Jter[1-4}oy=0 ; 3
+y
+re
+b) Evaluate J J ——~7 dé dr 3
+0 (8 (1 + 7)
+c) Evaluate f(¥ +4) eo dx 3
+0
+2+3i O 4
+d) Express the matrix A=| 5 i 8 | as the sum of a Hermitian and a Skew Hermitian
+1-i -3+i 6
+- matrix. : 3
+Q.2)
+a) Solve xy (1+ xy?) =1
+xy(14 xy?) 2 4
+. dy .
+b) Solve Hit Bo + PORCHES SDR x)=2 : E
+Ix
+C) Use method: of variation of parameters to solve (D? + 1) y = cosec x ; h
+aia
+Q.3)
+a) Solve (x*p* +5xD +3) y = 284 6
+x .
+p) Solve (4D? + 8D+3)y=x eo cosx ° 6
+
+4/2
+--- page 2 ---
+Q.4)
+
+x
+
+z
+a) Evaluate | tan” x dx = sec (=
+; 2 \2
+
+2 -p!
+b) Show that fe" sin ax dx=+ vn a) sin( ™)
+0
+
+; a 2
+" ¢) Show that po dk = a 1, Hence evaluate jeaeee
+2)
+a) Evaluate [x e* dex [x oe dx
+0 0
+
+Lvl-y et
+b) Evaluate [ J ae
+0
+
+0 VI-x’Jl-x’-y’
+
+c) Evaluate ff y dx dy where R is the region bounded by x” = y and x+2=y
+R
+
+dxdy
+
+Q.6) ;
+
+a) Change the order of integration and evaluate f j x e dy dx
+00
+
+1 ve") fey dxdydz
+b) Evaluate [ y
+0
+
+2 2 2
+0 0 1-x -y-Zz
+
+c) Evaluate ff fey z dx dy dz over the region bounded by x =0, y=0, z=Oandx+y+z=1.
+
+Q.7)
+(0 2m n
+a) Find J,m,nand A‘if 4=|1 m   —n [is orthogonal.
+l -m on ;
+0 142i +1. a 7 . * .
+b) If A= oo show that (I-A)(I+A) is a unitary matrix, where I is a unit matrix.
+. —1+2i
+1 2 3 -1
+
+-1 -1 -3 =I lio normal fort and hence find its rank.
+1 Oo 1 ]
+
+0 1 1 =!
+
+c) Reduce the matrix 4 =
+
+[24
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper a7e204cfaada
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/Engineering Mathematics II Batch 2014-15 Re Exam_a7e204cfaa.pdf`
+- Printed on paper: exam date: 30 June 2016
+- Text: ocr (2 pages), mean OCR confidence 79.0
+
+````text
+—
+
+SVKM’s NMIMS
+
+~~ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: I Semester: II
+
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Engineering Mathematics — II
+Marks: 6 » a .
+Time: 10.00 am - 1.00 pi
+
+Date: 30 June 2016 Duration:'@.Hrs = Eee
+
+Me eer” a
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. one is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+
+‘4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Ql (12)
+3) Solve @ = 28-3741 | ;
+dx 3x+4y—5 (3)
+1 (I-x)
+b) Prove that J f (x+y)dxdy = 7 (3)
+0 0
+1
+c) Solve [(log x) dx. (3)
+0
+2 -1 3
+d) If A=|1 1 1|,find 4?using adjoint method. @)
+1 -1 1
+Q2 (12)
+a) Solve by operator method (D’ + iy = sinxsin 2x. (4)
+b) Solve (x+tany) dy =sin2ydx. -
+c) Solve (x? +y° +x) dx +xydy =0 (4)
+
+4/2
+--- page 2 ---
+Q.3 (12)
+2
+a) Use the method of variation of parameters to solve oh. y=cosecx. (6)
+b) Solve, (6)
+2d’y dy .
+(1+x) prt (lta ty = 2sin| log(1+¥) |
+Q.4 (12)
+%
+a) Evaluate J cos’ 30sin’ 60d0 (4)
+0
+<0 e* og
+b) Prove that if el, ye dy= 5" (8) 7
+»Q5 te : (12)
+a) Find the area enclosed between the parabolas y* = 4ax and (6)
+x? = Aby by sketching the region of integration.
+. (6)
+b) Evaluate ——___ dO over one loop of the lemniscate
+J 4 (@ +r? ) 2 ~
+r? =a’ cos20.
+Q.6 (12)
+x/2 asin@ (@°-r?)/a (6)
+a) Evaluate i) i) i) r dOdrdz
+0 0 0
+b) Find the volume of the triangular prism formed by the planes (6)
+ay =bx,y=0,x=a,z=Oandz=c+xy.
+Q7 (12)
+[1 2 3 -2
+a) Findrankof 4=|2 -2 1 3 (4)
+3 0 4 1
+2+3i 2 3i
+b) Express matrix | —2i 0   1+2i | as sum of Hermitian and skew (4)
+4 2+5i -i
+peek Hermitian matrices
+c) Prove that the matrix 4 is orthogonal and hence find A”. (4)
+0 VB V3
+
+Where , fo 2 d -l
+
+V8) BOE
+````
+
 ## 2015-16 · Re-Exam · Sem 2 · paper 3a656066816d
 
 - Departments: Common (all branches)
@@ -1924,6 +3397,7 @@ Qo
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/Engineering Mathematics II Batch 2015-16 Re Exam.pdf`
 - Printed on paper: exam date: 30 June 2016
 - Text: ocr (2 pages), mean OCR confidence 75.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2012,7 +3486,6 @@ as its distance from the pole, find the mass of the wire. (6)
 b) Find the volume in the first octant bounded by the cylinder x? + y = 2 and the planes y =x, z=0
 and x = 0. ; (8)
 
-CC COCO COGO OOO OOOO @@@@2OLO@OLO@O CO OLLCO@@LHO@E@@
 
 2)a
 ````
@@ -2199,335 +3672,142 @@ af
 (6)
 ````
 
-## 2014-15 · Re-Exam · Sem 2 · paper 6e45d6434c11
+## 2014-15 · Re-Exam · Sem 2 · paper 8d86c4350022
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II ALL STREAMS BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 01 July 2016
-- Text: ocr (2 pages), mean OCR confidence 75.5
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 75.2
 
 ````text
-SVKM’s NMIMS .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT EERING
+SVKM’s NMIMS ;
 
-Programme: B.Tech (All Streams) Year: \ er: II
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (All Streams) Year: I Semester: I
 
-Academic Year: 2015-16 {
+Batch: 2013-14
 
-if
+Academic Year: 2014-2015, 325,
 
-Batch: 2014-15
+Subject: Engineering Mathematics -II j ;
 
-Subject: Engineering Mathematics-II Marks* all
-. Time: 2.00 pm - 5.00 pm
-Date: 01 July 2016 Durations: 3 (hrs)
+Marks:
 
-Re-Examination
+Date: 29/06/2015 Time:
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
+Instructions: Candidates should read carefully the instructions printed on
+and on the cover of the Answer Book, which is provided for their use.
 NB:
 
-1) Question No. 1 is compulsory.
+a) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions. =
-3) In all 5 questions to be attempted.
+b) Out of remaining questions, attempt any 4 questions.
 
-4) All questions carry equal marks.
+c) Ail questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+d) Answer to each new question to be stated on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
+e) Figure in brackets on the right hand side indicate full marks.
 
-7) Assume Suitable data if necessary
+€ question paper
 
-Q1 a) Solve : (ye-2y?) dx + (xe-6xy?-2y) dy=0 (3)
-eval © ooxt g @)
-») Evaluate J) e7* dx
-2 ox, 02K (3)
-ce) Evaluate [ff xd-dyax
-: 00 0
-- 253 @)
-d , - A
-) Find the ddj A, A=|3 1 2),
-12 ]
-d
-Q2 a) Solve : tany a + tanx= cosy cos*x (6)
-b) Solve by inethod of variation of parameters (Dp? ~-dD+4 )y =e ™ sec’ x, (6)
-r ] = ks of 7 ; 6
-=| Q3 a) Evaluate fff Pecan: dx dy az throughout the volume of the sphere (6)
+Q.1
+a) solve St y= 5
+olve [+7 a YT:
+dx (x? +1) (x? +1) (5)
+2 5.3
+b) Find «adj A, A=|3 1 2), (5)
+12 1
+c) Evaluate j vx eo ax
+: . (5)
+d) Evaluate fff Pade : (5)
+0 0 0
+Q.2
+a) Solve by method of variation of parameters (D? -6D+ 9)y = oa ‘ (6)
+x
+b) Solve x? “3-322 + 5y =sin(og2) ; : 6
+2
+c) Solve a ~49y =e" -cos2x. (8)
+Q.3
+a) Express matrix A as P+iQ, where P is real symmetric & Q is real skew-symmetric
+1 24% -1+i]
+matrix A=} 2-i 1 2i |. (6)
+. ~|~f ~Z 0
+a bc] “™
+b) If34=)-2 1 2) andif A is orthogonal, find a, b,c. (6)
+1 -2 2
+c) Reduce the following matrix to normal form and find the rank
+13 4 5
+12 6 7). (8)
+15 0 10 ;
 
-_ ») ee yy +2° =a". ©
+4/e
 
-Evaluate {f- —; dvdy over the region R where R is bounded by xv = vand x= +,
-
-R x
-Vo
+Pa
 --- page 2 ---
-Q4
+Q.4
+a)
 
-Q5
+b)
 
-Q6
+¢)
+
+Q.5
+a)
+
+b)
+
+c)
+
+Q.6
+a)
+
+b)
+
+°)
 
 Q7
-
 a)
 
 b)
 
 7)
 
-a)
+cA
 
-b)
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-Evaluate Sy 778 dx
-Evaluate Sy Vx e7V* dx
-
-; 2
-Prove that fx V8-x° dy at (; | .
-i)
-
-3° (373
-12° dj .
-Solve x? = a =x 4 4y=coslogx+xsinlogx.
-dx” dx °
-
-Find the area between the curve xy=4/9 and the straight line 2x+y=2.
-
-Solve (D4 +8D? +16) y =sin? x
-
-ao Var
-
-i x i e ‘ ‘
-Evaluate | { —-+—~ dydy by changing the order of the integration.
-
-oy X +P
-
-Prove that the following matrix is orthogonal and hence find A™.
-
-V3 -1 0
-
-A=} 1 V8 ol,
-2
-0 0 2
-
-Verify if A is a unitary matrix. Also find A if A is a Unitary matrix.
-
-0 1 0
--1ti L-i
-te «(OO =
-4=/ V6 V3
-2 1
-L v6 V3
-
-Reduce the following matrix to normal form & obtain its rank
-
-3 4 1 1
-2 4 3 6
--1 -2 6 4
-1 -1 2 -2
-
-y *
-
-(4)
-
-(4)
-
-(4)
-(6)
-
-(6)
-(6)
-(6)
-
-(4)
-
-(4)
-
-(4)
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper b99a38038867
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II B TECH (ALL STREAMS), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
-- Text: ocr (2 pages), mean OCR confidence 76.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING Zag a,
-
-Programme: B. Tech (All Streams) Year: I Semester: II ors
-j Mu Pst He B
-
-LIER ART
-
-Batch: 2014 - 2015
-Academic Year: 2016-2017
-
-Subject: Engineering Mathematics —II
-
-Marks: 60
-Date: 05 May 2017 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages: _2—
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks. *
-7) Assume Suitable data if necessary.
-
-Ql.
-a) 3 2/3 a *   @)
-If A=| 2/3 1/3 6} is orthogonal, find a, b, c.
-2/3 -2/3 ¢ -
-b) _ @)
-Evaluate f3 dx.
+Evaluate 7 dx (6)
 0
-°) Solve y(xyt+e )ae- e* dy =0. G3)
-d) log2 x x+y G)
-Evaluate i) f i) e* dzdydx .
-000
-Q.2.
-a) 3.2 5 7 12 (4)
-Reduce the matrix A=|1 1 2 3 5 |to normal form and find its rank.
-3 3 6 9 15
-b) 3 22 (4)
-| IfA=|1 3 1, Find adjd and A". Also find a matrix B such that
-5 3 4
-eg “(34 2
-AB=|1 6 1}.
-5 6 4
-c) 2+3i 2 3i (4)
-Express the matrix A=] —2i 0 142i | as sum of Hermitian and Skew-
-~ 4 245i -i
-Hermitian matrix. /
-lh
+Evaluate f x? V2ax-x? dx
+0 (6)
+Prove that i xsin® xcos*x dx = = (8)
 
--
---- page 2 ---
-Q3.
-a)
+A lamina is bounded by the curves y= x2 —3x and y= 2x. If the density at any point is
 
-b)
-c)
+given by (24/25)xy. find the mass of the lamina. (6)
+Evaluate { [ f — dx dy dz throughout the volume of the sphere
+xX +y +z
+vey tz? =a’. (6)
+aly
+Evaluate f j =—= dx dy by changing the order of the integration. (8)
+5 RY
+Solve (2xlogx—xy)dy+ 2ydx=0. (6)
+Solve tan yo +tan x =cos y.cos’ x (6)
+8 4 3
+If 4=|2 1 11], find A”. (8)
+i215
+Show that [ xe sinbxdx = 20 (6)
+0 (@ +b?)
 
-Q4.
-a)
+Determine the rank of following matrix by reducing it to echelon form
+f3 4 1°41
 
-b)
-
-c)
-
-Q.5
-a)
-
-b)
-Q.6.
-a)
-
-b)
-
-c)
-
-Q.7.
-a)
-
-b)
-
-Prove that J, ye” ‘dy: [°* a=
-
-Evaluate ( x, (2ax -x dx
-Evaluate f. «{xlog(1/x )dx.
-
-3
-dy = af 6 2cosh? 2x.
-dx dx
-
-dj :
-Solve xeosx + y(xsin x+c0sx) =1.
-
-Solve (D° -3D+2)y = 2e* cos ,
-
-ad 1
-Solve by method of variation of parameters a +y=
-dx
-
-1+sinx~
-
-Solve (x+2)' = dy —(x+2)—= Baye 3x+4.
-
-Evaluate ff x’dx dy where R is region in first quadrant bounded by
-
-yao 28, y=0and y=x.
-x
-
-Chane to polar coordinates and evaluate {fare
-x+y
-
-Find the volume bounded by y? =x, x2 =y andtheplanes z = 0 and
-x+y+z=2.
-
-Bacay ee or x
-Change the order of integration
-J J V1-x? Jl-x?
-
-evaluate it.
-Find the mass of lamina bounded by y’ = ax and x? = ay, the density at any point
-varies as the square of its distance from the origin.
-
-—— —ardy and hence
-
-(4)
-
-(4)
-(4)
-
-(4)
-
-(4)
-
-(4)
-
-(6)
-
-(6)
-
-4)
-
-(4)
-
-(4)
-
-(6)
-
-(6)
+2 4 3 6
+-] 2 6 4
+1 -1 2 -3]° (6)
+2 10 V18
+Evaluate { Z sole ax . (8)
+> (1+x)
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper e31724f71d44
@@ -2667,202 +3947,122 @@ c) Reduce to normal form and find the rank of the matrix A = 1264) (4)
 2 of 2
 ````
 
-## 2014-15 · Re-Exam · Sem 2 · paper 2527ef063c47
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING_MATHEMATICS_II_ALL STREAMS B_TECH_14-15_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; exam date: 06/05/2016
-- Text: ocr (2 pages), mean OCR confidence 72.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (All Streams) Year: I Semester: II
-Academic Year: 2015-16
-
-Batch: 2014-15
-
-Subject: Engineering Mathematics —II Marks: 60
-Time: 2.00 p
-Date: 06/05/2016 Durations: 3 h e
-Re-Examination awe
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer book, which is provided for their use.
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answers to each new question to be started on a fresh page.
-6) Figures in bracket on the right hand side indicate full marks.
-a) Solve xedse + yey + BYE _ (3)
-Ql xray
-1-i 243i 3-i
-b) Express the matrix 4=| 2   2-i 142i |as P+iQwhere P and Q both are
-3i 0 1+7
-hermitian matrices. (3)
-; a x
-c) Evaluate [ (sinO+cos0)*d0. (3)
-d) Evaluate ff e***’ dxdy over the triangle x =0, y=0, xt y=. (3)
-Q2 a) Solve (D? =1) y= xe* +c0s" x (4)
-b) Solve (a? +y)de+2(x2y? +x+y")dy=0 (4)
-c) Solve (1 + y) dx = (tan y-x)dy (4)
-3 123 4
-a) Reduce the matrix 4=|2 1 4 3 |to itsnormal form and hence finditsrank (4)
-3.0 5 -10
-Y Ua
-i J
-b) If A= Ys VA b |is orthogonal then find a, b, c also find 4”. (4)
-2Z 2
-A -7 &
-(3 2.2 34 2
-c) If A4=|1 3 1 find adj Aand 4". Also find B such that 4B=|1 6 | (4)
-5 3 4 5 6 4
-
-Vo.
---- page 2 ---
-Ss over the volume of sphere x? + y? +2? =a? 4+)
-py Tptesmt Ib dxdy throughout the area bounded by y= x’ andx+y=2. (+)
-nS CBange the order of th deval ty 7 (4)
-~ c) , Change the order of the integration and evaluate oo a 4
-PH ye ues 0 0 (e?+1)yl--y
-Q.5 ‘(1 +x °) a
-a) Evaluate [eae (4).
-(1 +X
-1 1
-b) Prove that B(x,x)= pal B a (4)
-i) a io] ee
-c) Evaluate | x e~* dx dx (4)
-fretal
-
-Q.6
-
-4 Vi6-x7 dvax
-@}) Change to polar coordinates and evaluate ) f as
-
-> (6),
-0 ee V16- x? -y
-
-ra
-b) Prove that Nt (9-x)(x- Sax == | : (6)
-
-Q7
-dy @ x _ :
-ay Solve x? y +92 y =~ by the method of variation of parameters. (6)
-. x” dx x +] ;
-) Find the mass of lamina bounded by the curves of y’ = ax and x’ = ay if the density
-ofthe lamina at any point varies as the square of its distance trom the origin. (6)
-
-\
-
-2/2,
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 2fc8afa95d69
+## 2014-15 · Re-Exam · Sem 2 · paper 70fd582263fd
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II BATCH 2014-15 RE EXAM_2fc8afa95d.pdf`
-- Printed on paper: max marks: 60; exam date: 08 July 2017
-- Text: ocr (2 pages), mean OCR confidence 82.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICES II BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/05/2015
+- Text: ocr (2 pages), mean OCR confidence 73.5
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA. Tech (All Streams) é Year: I Semester: II
+Programme: MBA Tech (All Streams) Year: I Semester: II
 
-Batch: 2014-2015 c
-Academic Year: 2016-2017
+Academic Year: 2014-2015
+Batch: 2013-14
 
-Subject: Engineering Mathematics - II
-
-Marks: 60
-Date: 08 July 2017. Time: 10.00 and
-Durations:,
+Subject: Engineering Mathematics - II Marks: 100
+Time: 2.00 pm to 5.00 pm
+Date: 05/05/2015 Durations: 3 (hrs)
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the ques
-on the cover of the Answer Book, which is provided for their use.
+Instructions:
 
-1) Question No. 1 is compulsory.
+1) Question No. | is compulsory.
 
-2) Out of remaining questions, attempt any four questions.
+2) Out of remaining questions, attempt any 4 questions.
 
-3) In all five questions to be attempted. :
+3) In all 5 questions to be attempted
 
-4) All questions carry equal marks.
+4) Answers to each new question to be started on a fresh page.
+5) Figures in bracket on the right hand side indicate full marks.
 
-5) Answer to each new question to be started on a fresh page.
+Q.1)
+a) Solve xcos By y(xsin x+cosx)=1 (5)
+b) Change the order of integration and evaluate f j ae dydx (5)
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+J
+b
+c) Show that [(x-a)”(b—x)" dx =(b-a)""""' B(m+1,n +1) (5)
+24+3i 0 4i
+d) Express the matrix A=| 5 i 8 | as the sum of a Hermitian and a Skew Hermitian
+1-i -3+i 6
 
-Q1 a) Prove that the following matrix is orthogonal and hence find A7?.
+matrix. (5)
 
-cosa 0 sina (3)
-A= 0 1 0 |
-- sing 0 cosa
-b) Solve y(1+ xy)dx - x(1- xy)dy = 0. (3)
-c) Evaluate fue de. (3)
-0
-d) Evaluate Seo fx + y)dxdy. (3)
+Q.2)
+a) Solve [+ yrs 1 )ax +(ssv -+}ay=0 : (6)
 
-Q2 1 k+4 4k+2
-a) For what values of k,the matrix A=|0 k-2 -k+2] rankis3,alsofindtherank (4)
-1 2k-4 -k+2
-for the remaining values of k.
-7+2i 6 4i
-b) Express the matrix A=| i 8 —2+i | as sum of Hermitian and Skew (4)
-1-i -3+i7 0
+y
+b) Solve (D?-2D + 4)y =x'+3x?-5x+42 (6)
+2x
 
-Hermitian matrices.
+c) Use the method of variation of parameters to solve (D* — 6D? +12D—8)y = e (8)
 
-1-1 3 6 (4)
-c). Reduce the matrix to normal form and finditsrank A= ]1 3 -3 -4|.
-5 3 3. 11
-Q3 a) Solve + Qxy = 2e7**. (4)
-b). Salve (= - e*) dx - x*ydy = 0. (4)
-c). Solve (D? - 2D + 1)y = x+ e* cosx. (4)
-2
-Q4 a) Solve by method of variation of parameters = -y= <5. (6)
-b) Solve x2 £4 xs y = (logx)?. (6)
+Q3)
+a) Solve yt [x-2)2-o (6)
 
-Yo
+dx
+b) Solve (4D? + 8D +3)y=x e” cosx (6)
+d’y
+
+c) Solve (x—-13 4% -y2 tay = 4 log(x-1) (8)
+
+L
 --- page 2 ---
-“95
+Q.4)
 
-Q6
+a) Evaluate f(2 + 4) eo” dx (6) \
+0
+1
+Fi 3 16x
+b) Show that | x(8—x°) de= —— 6
+) [aSex'} ee oF )
+x ml L(xS 4x3
+c) Show that |\—- awe = B(m,n). Hence evaluate i! ; ) xdx (8)
+> (1+x) : 9 (+x)
+Q5)
+1 ;
+a) Evaluate [(xlog x) dk (6)
+0
 
-Q7
+we cos! x
+b) Evaluate [ j
 
-(4)
+ad 6
+0 0 Vor fle yp ©)
 
-o i =x? roe) e7x? 1
-a).Prove that [, x#e* dx - J, ex = aR
-m x 4
-b) Prove that {? Vtanx dx- [? Vcotxdx = 17/2. 4)
-c) Evaluate Jo Xax. (4)
-(4)
+c) Evaluate [[ io ~x—y) dxdy where R is the region bounded by x=0, y=Oandx+y=1 (8)
+R
 
-az
-a) Change the order of integration in Sz fy) dy dx.
+Q.(6))
+a Vax?
+0 Stow tt © Zan) -2(.-e*) ©
 
-b) Change to polar coordinate and evaluate Se 1/,/xy dx dy. Where R is the (4)
-region of integration bounded by x? + y*- x = Oandy = 0.
+EF payee
 
-c) Evaluate {{ xy dx dy over the area bounded by the parabolas y = x*andx = - y? (4)
+b) Evaluate onenein: an (6)
+J 4 : hx? -y 2
+c) Evaluate [fe ty 42 )dedyde over the first octant of the sphere x? + y? +z? =a’ (8)
+Q.7)
+0 2m n
+a) Find /,m,nand A‘if 4=|1 m   -n {is orthogonal. (6)
+1 -m n
+12 41
+b) Find A” by adjoint method if A=|0 2 2 (6)
+21 #41
+3 -2 0 -l
+c) Reduce the matrix A = Be f 4 to normal form and hence find its rank. (8)
+1 2 -3
+0 1 2 1
+PR A
 
-a) Find the volume bounded by the cylinder x? + y* = 4 andtheplane y+ z= 4 (6)
-
-andz= 0.
-
-b) Find the mass of the tetrahedron bounded by the coordinates planes and the (6)
-
-plane 7 + + - = 1, the variable density p = pxyz.
+2,
+2
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper ee7b16f48ade
@@ -3149,368 +4349,6 @@ If a| | Show that AA* is a Hermitian matrix
 (4)
 ````
 
-## 2014-15 · Re-Exam · Sem 2 · paper 58a27429a277
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/Engineering Mathematics II Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; exam date: 06/05/2016
-- Text: ocr (2 pages), mean OCR confidence 70.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year:1 Semester: II
-Academic Year: 2015-16 gee ~~
-of i ‘i
-Batch: 2014-15 , if ( fb
-Subject: Engineering Mathematics — II o Marks: 60 | a ~)
-Time: 10.00 amt
-Date: 06/05/2016 . Duration: 3 (ars)
-
-Re-Examination
-
-Instructions:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted
-
-4) Answers to each new question to be started on a fresh page.
-_.. 5) Figvres in bracket on the right hand side indicate full marks.
-
-Q.1) .
-a) Solve [ise Jter[1-4}oy=0 ; 3
-y
-re
-b) Evaluate J J ——~7 dé dr 3
-0 (8 (1 + 7)
-c) Evaluate f(¥ +4) eo dx 3
-0
-2+3i O 4
-d) Express the matrix A=| 5 i 8 | as the sum of a Hermitian and a Skew Hermitian
-1-i -3+i 6
-- matrix. : 3
-Q.2)
-a) Solve xy (1+ xy?) =1
-xy(14 xy?) 2 4
-. dy .
-b) Solve Hit Bo + PORCHES SDR x)=2 : E
-Ix
-C) Use method: of variation of parameters to solve (D? + 1) y = cosec x ; h
-aia
-Q.3)
-a) Solve (x*p* +5xD +3) y = 284 6
-x .
-p) Solve (4D? + 8D+3)y=x eo cosx ° 6
-
-4/2
---- page 2 ---
-Q.4)
-
-x
-
-z
-a) Evaluate | tan” x dx = sec (=
-; 2 \2
-
-2 -p!
-b) Show that fe" sin ax dx=+ vn a) sin( ™)
-0
-
-; a 2
-" ¢) Show that po dk = a 1, Hence evaluate jeaeee
-2)
-a) Evaluate [x e* dex [x oe dx
-0 0
-
-Lvl-y et
-b) Evaluate [ J ae
-0
-
-0 VI-x’Jl-x’-y’
-
-c) Evaluate ff y dx dy where R is the region bounded by x” = y and x+2=y
-R
-
-dxdy
-
-Q.6) ;
-
-a) Change the order of integration and evaluate f j x e dy dx
-00
-
-1 ve") fey dxdydz
-b) Evaluate [ y
-0
-
-2 2 2
-0 0 1-x -y-Zz
-
-c) Evaluate ff fey z dx dy dz over the region bounded by x =0, y=0, z=Oandx+y+z=1.
-
-Q.7)
-(0 2m n
-a) Find J,m,nand A‘if 4=|1 m   —n [is orthogonal.
-l -m on ;
-0 142i +1. a 7 . * .
-b) If A= oo show that (I-A)(I+A) is a unitary matrix, where I is a unit matrix.
-. —1+2i
-1 2 3 -1
-
--1 -1 -3 =I lio normal fort and hence find its rank.
-1 Oo 1 ]
-
-0 1 1 =!
-
-c) Reduce the matrix 4 =
-
-[24
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper a7e204cfaada
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/Engineering Mathematics II Batch 2014-15 Re Exam_a7e204cfaa.pdf`
-- Printed on paper: exam date: 30 June 2016
-- Text: ocr (2 pages), mean OCR confidence 79.0
-
-````text
-—
-
-SVKM’s NMIMS
-
-~~ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: I Semester: II
-
-Academic Year: 2015-16
-
-Batch: 2014-15
-
-Subject: Engineering Mathematics — II
-Marks: 6 » a .
-Time: 10.00 am - 1.00 pi
-
-Date: 30 June 2016 Duration:'@.Hrs = Eee
-
-Me eer” a
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. one is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-
-‘4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Ql (12)
-3) Solve @ = 28-3741 | ;
-dx 3x+4y—5 (3)
-1 (I-x)
-b) Prove that J f (x+y)dxdy = 7 (3)
-0 0
-1
-c) Solve [(log x) dx. (3)
-0
-2 -1 3
-d) If A=|1 1 1|,find 4?using adjoint method. @)
-1 -1 1
-Q2 (12)
-a) Solve by operator method (D’ + iy = sinxsin 2x. (4)
-b) Solve (x+tany) dy =sin2ydx. -
-c) Solve (x? +y° +x) dx +xydy =0 (4)
-
-4/2
---- page 2 ---
-Q.3 (12)
-2
-a) Use the method of variation of parameters to solve oh. y=cosecx. (6)
-b) Solve, (6)
-2d’y dy .
-(1+x) prt (lta ty = 2sin| log(1+¥) |
-Q.4 (12)
-%
-a) Evaluate J cos’ 30sin’ 60d0 (4)
-0
-<0 e* og
-b) Prove that if el, ye dy= 5" (8) 7
-»Q5 te : (12)
-a) Find the area enclosed between the parabolas y* = 4ax and (6)
-x? = Aby by sketching the region of integration.
-. (6)
-b) Evaluate ——___ dO over one loop of the lemniscate
-J 4 (@ +r? ) 2 ~
-r? =a’ cos20.
-Q.6 (12)
-x/2 asin@ (@°-r?)/a (6)
-a) Evaluate i) i) i) r dOdrdz
-0 0 0
-b) Find the volume of the triangular prism formed by the planes (6)
-ay =bx,y=0,x=a,z=Oandz=c+xy.
-Q7 (12)
-[1 2 3 -2
-a) Findrankof 4=|2 -2 1 3 (4)
-3 0 4 1
-2+3i 2 3i
-b) Express matrix | —2i 0   1+2i | as sum of Hermitian and skew (4)
-4 2+5i -i
-peek Hermitian matrices
-c) Prove that the matrix 4 is orthogonal and hence find A”. (4)
-0 VB V3
-
-Where , fo 2 d -l
-
-V8) BOE
-````
-
-## 2013-14 · Exam not stated · Sem 2 · paper 782d4e6a771f
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II B TECH (ALL STREAMS), BATCH 2013-14.pdf`
-- Printed on paper: max marks: 100; exam date: 06/05/2016
-- Text: ocr (2 pages), mean OCR confidence 76.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (All Streams) Year: I Semester: II
-
-Academic Year: 2015-16
-
-ao Batch: 2013-14
-
-Subject: Engineering Mathematics —II Marks: 100
-Time: 2.00 p
-
-Date: 06/05/2016 Durations: 3
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. one is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Qi (20)
-2 -1 3
-a) f A=|1 1° 1], find A?.Use adjoint method. 6)
-1 -1 1
-b) Eval ja dz . 5
-) Evaluate leas (5)
-0
-€) Solve 24 Yoosxesiny+y 9, '
-sinx+xcosy+x (5)
-LL dxdy
-d) Evaluate { |———-__. 6)
-Joya)
-Q.2 (20)
-a) Reduce A to Normal form and hence find its Rank, ’
-1 -1 2 -3 (8)
-4 1 0 2
-Where A =
-03 1 4
-01 0 2
-
-b) Prove that the following matrices are orthogonal and hence find 47.
-
-(6)
-cosa 0 sina 0 3 v3
-
-1
-pe A=| 0 1 0 J; 4=4)2 1 =I
-v6
-
--sina 0 cosa v2 -J2 V2
-
-c) Express the following matrix as sum of symmetric and skew symmetric
-
-ye
---- page 2 ---
-1 0 53 (6)
-
-2
-matrices, where A = -e .
-2 7 1
-4 -4 2 0
-R304 so es (20)
-oo a “Pyahunte (7 Peo x5(1- xy dx (8)
-+ y
-“A » Baus J cos® 30 sin? 60d0 6)
-wig ges
-t
-¢) Prove that [xe dx[x*e™ —
-) j [re ~ 162 ©
-Q.4 (20)
-a) Solve (D*-1)y = coshxcosx. ;
-( ) (8) SS
-b) Solve (2x? -y)de+xdy =0.
-(6)
-dy . 32
-Solve —+ 2y= .
-c) Solve - xsin2y=x° cos’ y (6)
-Q.5 . (20)
-a) Use the method of variation of parameters to solve
-5 ee (10)
-(D? -6D+9) yom
-(10)
-
-b) Solve (x+2) ay ~(0+ Ye ya3xd4.
-Q.6 (20)
-
-a) Express in polar coordinated and evaluate,
-
-a atya’—y? dydx
-
-J J T,.2, 2,2) (8)
-
-0 oy (4a 4x7 +")
-b) Evaluate [femanay. (6)
-00 6
-
-c) Find by double integration area included between the curves
-ya3x? —x-3, y= 2x? +4047.
-Q.7 (20)
-a) Find the volume bounded by the cylinder y’ +x° =4 and the planes (aay
-
-pac yt+z=4,7=0
-
-b) Evaluate ff i} (x? yty et 2x") dxdydz where V is the volume
-: (10)
-bounded by the sphere eryee = a.
-
-—2/2—-
-````
-
 ## 2013-14 · Final-Exam · Sem 2 · paper 2ac777abc2e6
 
 - Departments: Common (all branches)
@@ -3747,178 +4585,6 @@ Evaluate f, Gaxisy O. (8)
 x x
 ````
 
-## 2013-14 · Re-Exam · Sem 2 · paper 3f2060a3d443
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II ALL STREAMS BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 01 July 2016
-- Text: ocr (2 pages), mean OCR confidence 79.3
-
-````text
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT. & ENGINEERING
-
-Programme: B.Tech (All Streams) Year: gst =
-
-Academic Year: 2015-16
-
-Batch: 2013-14
-
-Subject: Engineering Mathematics-II Mark: <i
-Time: 2.00 pm — 5.00 pm
-Date: 01 July 2016 , Durations: 3 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answers to each new question to be started on a fresh page.
-
-6) Figures in bracket on the right hand side indicate full marks.
-
-Q.1 a) Solve (D +4D+4)y =cosh2x+sin2x. , . (5)
-3 2-i 142i
-b) Express the hermitian matrix A4=| 2+i 2   3-2i|as P+iQwhere P is real
-1-2: 3+2i 0
-
-symmetric and Q is real skew symmetric matrix. (5)
-: ;
-c) Evaluate J Vian 6d6 . (5)
-* 7 ZxXtz
-d) Evaluate SJ f (x+y +2) dxdydz . (5)
-
--10 x-z
-
-Q.2 a) Find the possible values of k for which the rank of A is 1, 2, 3
-k 44
-
-where A=|4 k 4 (8)
-44k
-
-[ J2 =i 0|
-
-b) Show that 4 -5 iJ2 -J2 0 |is unitary and hence find its inverse. (6)
-0 0 2
-
-c) Reduce the following matrix to its normal form and hence find its rank
-
-6 1 3 8
-where 4 = _2& = (6)
-103 9 7
-
-16 4 12 15
-
-Vo
---- page 2 ---
-Q.3
-
-Q4
-
-Q.5
-
-Q.6
-
-Q.7
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-2)
-
-dy, ay
-
-Solve x? re +2x——6y=x° logx . (8)
-2
-
-Solve To 144 4y = x00sx . (6)
-
-2 Ns 2
-
-Solve | xv —e dx—x°ydy=0. (6)
-2x8 (1 - x°)
-
-Evaluate | “dx. (8)
-0 (1+x)
-
-Evaluate fsin? O(1+cos8) do . (6)
-
-0
-
-Evaluate J xe™ dx. ede . (6)
-0 to)
-
-Evaluate fff dxdydz over the volume of the tetrahedron bounded by
-
-x=0,y=0,z=0and ~+247=1 . (8)
-
-abe
-Change the order of the integration and evaluate ff x°dxdy where R is the region in *
-R ,
-
-the first quadrant bounded by xy =a’,x=2a,y=0,y=x . (6)
-
-Find the area between the curves 2x-3y =—4 and y? =4x. (6)
-
-Evaluate fff z’°dxdydz over the volume bounded by the cylinder x” + y? =a’ and the
-
-paraboloid x? +y* =zand the plane z=0. (8)
-a Va? =x?
-Change to polar co-ordinates and evaluate J J yx? + ydydx . (6)
-0 0
-dy 2x .
-Solve ++ y= + given that y=Owhen x=1. (6)
-dk x +l (2 + 1)
-2
-VigD nye .
-Solve Sz +I——+4Y=€ by the method of variation of parameters (8)
-ax dx
-Solve (D-1)°(D?+1)y=sin?= - 6
-( ) ( )y=sin 5 (6)
-cl m ma
-Show that fx cos axdx =~—cos} —] - (6)
-J a” 2
--—
-
-2/2
-````
-
 ## 2013-14 · Re-Exam · Sem 2 · paper c2d61affd87b
 
 - Departments: Common (all branches)
@@ -3926,6 +4592,7 @@ J a” 2
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II ALL STREAMS BATCH 2013-14 RE EXAM_c2d61affd8.pdf`
 - Printed on paper: duration hours: 3; exam date: 06/05/2014
 - Text: ocr (2 pages), mean OCR confidence 74.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a SVKM’s NMIMS
@@ -4013,7 +4680,6 @@ Q6
 as dy ( x is :
 
 a) Soive —+ =x 6
-b) Solve (xysin xy + cosxy) y dx +(xysin xy—cosxy)xdy =0 : (6)
 2 -1 3 :
 
 c) If A=|1 1 1, find A. (8)
@@ -4031,144 +4697,6 @@ b) Determine the rank of following matrix by reducing it to echelon form
 c) Evaluate 6 Gan (8)
 
 2)2.
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper 8d86c4350022
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICS II B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 75.2
-
-````text
-SVKM’s NMIMS ;
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (All Streams) Year: I Semester: I
-
-Batch: 2013-14
-
-Academic Year: 2014-2015, 325,
-
-Subject: Engineering Mathematics -II j ;
-
-Marks:
-
-Date: 29/06/2015 Time:
-
-Instructions: Candidates should read carefully the instructions printed on
-and on the cover of the Answer Book, which is provided for their use.
-NB:
-
-a) Question No. 1 is compulsory.
-
-b) Out of remaining questions, attempt any 4 questions.
-
-c) Ail questions carry equal marks.
-
-d) Answer to each new question to be stated on a fresh page.
-
-e) Figure in brackets on the right hand side indicate full marks.
-
-€ question paper
-
-Q.1
-a) solve St y= 5
-olve [+7 a YT:
-dx (x? +1) (x? +1) (5)
-2 5.3
-b) Find «adj A, A=|3 1 2), (5)
-12 1
-c) Evaluate j vx eo ax
-: . (5)
-d) Evaluate fff Pade : (5)
-0 0 0
-Q.2
-a) Solve by method of variation of parameters (D? -6D+ 9)y = oa ‘ (6)
-x
-b) Solve x? “3-322 + 5y =sin(og2) ; : 6
-2
-c) Solve a ~49y =e" -cos2x. (8)
-Q.3
-a) Express matrix A as P+iQ, where P is real symmetric & Q is real skew-symmetric
-1 24% -1+i]
-matrix A=} 2-i 1 2i |. (6)
-. ~|~f ~Z 0
-a bc] “™
-b) If34=)-2 1 2) andif A is orthogonal, find a, b,c. (6)
-1 -2 2
-c) Reduce the following matrix to normal form and find the rank
-13 4 5
-12 6 7). (8)
-15 0 10 ;
-
-4/e
-
-Pa
---- page 2 ---
-Q.4
-a)
-
-b)
-
-¢)
-
-Q.5
-a)
-
-b)
-
-c)
-
-Q.6
-a)
-
-b)
-
-°)
-
-Q7
-a)
-
-b)
-
-7)
-
-cA
-
-Evaluate 7 dx (6)
-0
-Evaluate f x? V2ax-x? dx
-0 (6)
-Prove that i xsin® xcos*x dx = = (8)
-
-A lamina is bounded by the curves y= x2 —3x and y= 2x. If the density at any point is
-
-given by (24/25)xy. find the mass of the lamina. (6)
-Evaluate { [ f — dx dy dz throughout the volume of the sphere
-xX +y +z
-vey tz? =a’. (6)
-aly
-Evaluate f j =—= dx dy by changing the order of the integration. (8)
-5 RY
-Solve (2xlogx—xy)dy+ 2ydx=0. (6)
-Solve tan yo +tan x =cos y.cos’ x (6)
-8 4 3
-If 4=|2 1 11], find A”. (8)
-i215
-Show that [ xe sinbxdx = 20 (6)
-0 (@ +b?)
-
-Determine the rank of following matrix by reducing it to echelon form
-f3 4 1°41
-
-2 4 3 6
--] 2 6 4
-1 -1 2 -3]° (6)
-2 10 V18
-Evaluate { Z sole ax . (8)
-> (1+x)
 ````
 
 ## 2013-14 · Re-Exam · Sem 2 · paper c3c32d4b7a93
@@ -4279,124 +4807,6 @@ b) Determine the rank of following matrix by reducing it to echelon form
 c) Prove that Sy Gtx? dx = ap PG: (8)
 
 oe x
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper 70fd582263fd
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/ENGINEERING MATHEMATICES II BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/05/2015
-- Text: ocr (2 pages), mean OCR confidence 73.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: I Semester: II
-
-Academic Year: 2014-2015
-Batch: 2013-14
-
-Subject: Engineering Mathematics - II Marks: 100
-Time: 2.00 pm to 5.00 pm
-Date: 05/05/2015 Durations: 3 (hrs)
-
-Re-Examination
-
-Instructions:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted
-
-4) Answers to each new question to be started on a fresh page.
-5) Figures in bracket on the right hand side indicate full marks.
-
-Q.1)
-a) Solve xcos By y(xsin x+cosx)=1 (5)
-b) Change the order of integration and evaluate f j ae dydx (5)
-
-J
-b
-c) Show that [(x-a)”(b—x)" dx =(b-a)""""' B(m+1,n +1) (5)
-24+3i 0 4i
-d) Express the matrix A=| 5 i 8 | as the sum of a Hermitian and a Skew Hermitian
-1-i -3+i 6
-
-matrix. (5)
-
-Q.2)
-a) Solve [+ yrs 1 )ax +(ssv -+}ay=0 : (6)
-
-y
-b) Solve (D?-2D + 4)y =x'+3x?-5x+42 (6)
-2x
-
-c) Use the method of variation of parameters to solve (D* — 6D? +12D—8)y = e (8)
-
-Q3)
-a) Solve yt [x-2)2-o (6)
-
-dx
-b) Solve (4D? + 8D +3)y=x e” cosx (6)
-d’y
-
-c) Solve (x—-13 4% -y2 tay = 4 log(x-1) (8)
-
-L
---- page 2 ---
-Q.4)
-
-a) Evaluate f(2 + 4) eo” dx (6) \
-0
-1
-Fi 3 16x
-b) Show that | x(8—x°) de= —— 6
-) [aSex'} ee oF )
-x ml L(xS 4x3
-c) Show that |\—- awe = B(m,n). Hence evaluate i! ; ) xdx (8)
-> (1+x) : 9 (+x)
-Q5)
-1 ;
-a) Evaluate [(xlog x) dk (6)
-0
-
-we cos! x
-b) Evaluate [ j
-
-ad 6
-0 0 Vor fle yp ©)
-
-c) Evaluate [[ io ~x—y) dxdy where R is the region bounded by x=0, y=Oandx+y=1 (8)
-R
-
-Q.(6))
-a Vax?
-0 Stow tt © Zan) -2(.-e*) ©
-
-EF payee
-
-b) Evaluate onenein: an (6)
-J 4 : hx? -y 2
-c) Evaluate [fe ty 42 )dedyde over the first octant of the sphere x? + y? +z? =a’ (8)
-Q.7)
-0 2m n
-a) Find /,m,nand A‘if 4=|1 m   -n {is orthogonal. (6)
-1 -m n
-12 41
-b) Find A” by adjoint method if A=|0 2 2 (6)
-21 #41
-3 -2 0 -l
-c) Reduce the matrix A = Be f 4 to normal form and hence find its rank. (8)
-1 2 -3
-0 1 2 1
-PR A
-
-2,
-2
 ````
 
 ## 2013-14 · Re-Exam · Sem 2 · paper bc12daf6d39c
@@ -4515,122 +4925,4 @@ c) If N -| iad Dt that the matrix (J- N)(I+N) ‘is unitary. (8)
 « ~~
 
 2/9
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper 1f8b03dfe1a2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MATHEMATICS II/Engineering Mathematics II Batch 2013-14 Re Exam_1f8b03dfe1.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 06/05/2016
-- Text: ocr (2 pages), mean OCR confidence 78.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year:I1 Semester: II
-
-Academic Year: 2015-16
-
-Batch: 2013-14 .
-
-Subject: Engineering Mathematics — II . Marks: 100 | ’
-
-Date: 06/05/2016 - Duration: 3 (hrs)
-Re-Examination ;
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. one is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted. '
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Q1
-a) Express the following matrix as sum of Hermitian and Skew- (5)
-2+3i 2 3i
-Hermitian matrices: | —27 O 142i |.
-4 245i -i
-€ ud
-. _ atxdy — yd) .
-b) Solve: xdx+ ydy = ee : (5)
-2
-c) Evaluate: ix V8—x° dx, 6)
-2 V2x-x? - (8)
-d) Evaluate: | jx dydx
-0) 0
-Q.2 12 1 90
-3 2 1 2 (8)
-a) Findrankof|2 -1 2 5 | by reducing it to normal form.
--atateial
-5 6 3 2
-ge 1 3 -1 -3
-1 3 2
-b) Verify that (adj4)' =(adjA") for A=|-1 -2 0}. (6)
-2 0 1
-
-Yo.
---- page 2 ---
-0 2m n
-c) Determine /,m,n andfind A if A=|1 m = —n}| is orthogonal. (6)
-
-1 -m on
-Q.3
-3x
-a) Solve: (D’ -6D+ 9) y= e z by the method of variation of parameters. (8)
-x
-dy 3.6
-b) Solve: x—+y= 3 6
-) x ce yaxy (6)
-c) Solve: (I+x+29")dy+(y+y*)dv=0. (6)
-Q.4
-ad’y dy (8)
-a) Solve: (x+2) qe ta ty aaet4, .
-b) Solve: (D? -5D+6)y=sin3x. 6)
-c) Solve: (D’-3D+2)y=x. (6)
-Q.5
-%
-dx a
-a) Prove that = : (8)
-) Prov lFoteeE sin’x 2ab
-oO x3 oO
-e 6
-b) Evaluate: dk y'e* dy. (6)
-b Beats |
-c) Evaluate: f xsin’ xcos‘ x dx. (6)
-0
-Q.6 4a y 2 cag
-a) Change to polar coordinates and evaluate f J io a dxdy . (8)
-0/ x+y
-b) Change the order of integration and evaluate ©
-1 Vi-x? y
-f J ——_£ dyadx.
-a 2
-00 (e? +1 l-x*-y
-c) Evaluate: ff (x? -y? )x dxdy over the positive quadrant of the circle 6)
-xr+y=a.,
-a) Find the mass of the lamina bounded by the curves y* = ax and
-2 x” =ay if the density of the lamina at any point varies as the square a
-of its distance from the origin.
-b) Find the volume of the tetrahedron bounded by the planes
-| x=0,y=0,2=Oandx+yt+z=a. (6)
-1 I-x (x+y)?
-c) Evaluate: i) f fx dzdydx .
-pass: 0 0 0 (6)
-* t
-
-2/o_
 ````

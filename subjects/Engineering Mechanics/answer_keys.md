@@ -547,6 +547,8 @@ Conversion of UDL and UVL in to point load. [3 marks]
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Mechanical_7003/Engineering Mechanics/ANS_Engineering Mechanics(702ME0C025)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2025
 - Text: mixed (9 pages), mean OCR confidence 59.9
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -653,7 +655,6 @@ Va - 5-12-93 +VpR=0
 FIC 2 I HH ar
 --- page 3 ---
 | _
-| paceman Wey = 100 ada sad/g
 
 a = 16oxK0@?
 A dh an TPM
@@ -676,7 +677,6 @@ In OQOAB, oy Sine sale
 Sin@o sin 40
 AB = F5-3 mm 2™/
 is
-rom | é}———_1n_sapt,_by cine Rute
 Co SS Bo ;
 TA _ 363 — I8 _
 bx SINFO Sno Stree 1
@@ -685,7 +685,6 @@ oF 6 = DA=AGI-l me
 2] FB= 42S om [Tom]
 O Ve _ = |
 — LivkKiA® Va = FB VaR = = 424-4 9X ng —
-Mia = TAX Osan = 4Gi-1 X Oran _ |
 : QOOO — BE BS) | am\
 ( - OWAB= ea = ABBE V {2
 
@@ -745,12 +744,10 @@ O} 20 60 20
 
 MI about the centroidal axes
 
-rd (120 x 20 x 10) + (60 x 20 x 50) + (20 x 60 x 90)
 
 (120 x 20) + (60 x 20) + (20 x 60)
 x = 40 mm
 
-rd (120 x 20 x 60) + (60 x 20 x 10) + (20 x 60 x 30)
 
 ' (120 x 20) + (60 x 20) + (20 x 60)
 
@@ -934,6 +931,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Mechatronics_7004/Engineering Mechanics/ANS_Engineering Mechanics(702ME0C025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2025
 - Text: ocr (9 pages), mean OCR confidence 60.9
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1070,7 +1068,6 @@ ie 7S B 4
 
 : ae
 
-Cronk OA pesfoams aolaional motianatO.
 
 ~ Va= 9A X65, = 200x SBE (00
 
@@ -1083,13 +1080,11 @@ BOG... AS
 Sin@o   sin40
 -- AB = 435-9 mm [2m
 s |
-Fem éoj}_—In_aaps, by cine Rue _
 a - Be
 TA _ — 3%-3 — 35
 PAS Sing Syn50 Sree
 XS AGO
 Gs 40 - SAH[AGI sm
-ae oo il = TB = 424-9 mm fori]
 . “= tS
 Link A® Ve = IB KWag = A2Z49x Oye |
 See Maz TAX O5ap = 4G Xe |
@@ -1164,12 +1159,10 @@ a.
 
 MI about the centroidal axes
 
-x (120 x 20 x 10) + (60 x 20 x 50) + (20 x 60 x 90)
 ; (120 x 20) + (60 x 20) + (20 x 60)
 
 Ix = 40 mm
 
-7 (120 x 20 x 60) + (60 x 20 x 10) + (20 x 60 x 30)
 i (120 x 20) + (60 x 20) + (20 x 60)
 
 ly = 40mm
@@ -1311,7 +1304,6 @@ RRRRRRRRRR QR RRR EEK
 --- page 9 ---
 i - ea [6]
 }ComB'= Ag= Gro, Ug= O_ =
-Retodve posi” vel &ace™ af Barth A = y
 
 ac oe a
 Sa= 5 K4x62 = bow
@@ -1320,7 +1312,6 @@ oe et aoe
 
 — Se=4K 6x52 = 75m IM]
 
-- Relative posi? of & uxt A = D5 m(ofod ) °
 OF
 
 vam
@@ -1425,6 +1416,7 @@ acceleration of A and B – 1 marks each
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
 - Text: mixed (6 pages), mean OCR confidence 74.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1536,7 +1528,6 @@ Draw FBD
 [3 marks]
 XA, =0_ or, Rp = 2000 N
 YF. =0 or, Ra—Rc=0
-xX Mp =0_ or, Rc X 30 - 1000 X 40 = 0
 Ra = Re = 1333.33 N [5 marks]
 Q6(b)
 
@@ -1568,6 +1559,7 @@ Also show the support reaction for all of them.   [3 marks]
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
 - Text: mixed (6 pages), mean OCR confidence 74.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1679,7 +1671,6 @@ Draw FBD
 [3 marks]
 XA, =0_ or, Rp = 2000 N
 YF. =0 or, Ra—Rc=0
-xX Mp =0_ or, Rc X 30 - 1000 X 40 = 0
 Ra = Re = 1333.33 N [5 marks]
 Q6(b)
 
@@ -1711,6 +1702,7 @@ Also show the support reaction for all of them.   [3 marks]
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
 - Text: mixed (6 pages), mean OCR confidence 74.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1822,7 +1814,6 @@ Draw FBD
 [3 marks]
 XA, =0_ or, Rp = 2000 N
 YF. =0 or, Ra—Rc=0
-xX Mp =0_ or, Rc X 30 - 1000 X 40 = 0
 Ra = Re = 1333.33 N [5 marks]
 Q6(b)
 
@@ -1854,6 +1845,8 @@ Also show the support reaction for all of them.   [3 marks]
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Mechanical_7003/Engineering Mechanics/ANS_Engineering Mechanics(702ME0C025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (12 pages), mean OCR confidence 56.8
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1998,7 +1991,6 @@ FC QI a iar
 Q.3
 
 10 kN (53 24) P
-H, A C D B E F
 st } ]
 am "20 kKN-m
 V4 5m Rg
@@ -2053,7 +2045,6 @@ Ay
 i
 
 ink PC!— Ve = OC X Woe = 100 K12-5}) = (257 gm/e |
-Vc = IC XK Odpc = ES |: Onc = LSQ2iays
 
 = few
 
@@ -2101,8 +2092,6 @@ Teste Masts [10]
 
 : uy=30S5 2[M]
 Oye asin
-aoe Hoa zontal dis) Coresed is = Ux t = 300f25 xt,
-J | Vewtical dick Gvesod   Yauytt+pas?
 CA 3B) a
 : “Y=[3sin2srt)— Dx 9-6 =
 = :
@@ -2110,7 +2099,6 @@ CA 3B) a
 / | Now fan 25° ==: -* | Mf SS 90 tanga EM]
 °. From ea? G) x 4an25 =(36inasx?) - 4-342
 - —_ 2 [M]
-_| = Faroe ea"(1) ~ Gcosas x4) 4ana5 =(3.sinnsx4) 4.2
 Since |fan= $0 2
 Cs sity
 
@@ -2309,6 +2297,8 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Mechatronics_7004/Engineering Mechanics/ANS_Engineering Mechanics(702ME0C025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (12 pages), mean OCR confidence 56.8
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2454,7 +2444,6 @@ FC QI a iar
 Q.3
 
 10 kN (53 24) P
-H, A C D B E F
 st } ]
 am "20 kKN-m
 V4 5m Rg
@@ -2509,7 +2498,6 @@ Ay
 i
 
 ink PC!— Ve = OC X Woe = 100 K12-5}) = (257 gm/e |
-Vc = IC XK Odpc = ES |: Onc = LSQ2iays
 
 = few
 
@@ -2557,8 +2545,6 @@ Teste Masts [10]
 
 : uy=30S5 2[M]
 Oye asin
-aoe Hoa zontal dis) Coresed is = Ux t = 300f25 xt,
-J | Vewtical dick Gvesod   Yauytt+pas?
 CA 3B) a
 : “Y=[3sin2srt)— Dx 9-6 =
 = :
@@ -2566,7 +2552,6 @@ CA 3B) a
 / | Now fan 25° ==: -* | Mf SS 90 tanga EM]
 °. From ea? G) x 4an25 =(36inasx?) - 4-342
 - —_ 2 [M]
-_| = Faroe ea"(1) ~ Gcosas x4) 4ana5 =(3.sinnsx4) 4.2
 Since |fan= $0 2
 Cs sity
 
@@ -2765,6 +2750,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_Civil_7005/Engineering Mechanics/ANS_Engineering Mechanics(702ME0C025)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
 - Text: mixed (12 pages), mean OCR confidence 74.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2956,7 +2942,6 @@ Solution
 
 -120 x 3 - 30 x 6-40-90 x 8.67+R,x 10=0
 
-Ry = 136.03KN (T) (Fx 4x as kN
 (ili) EF, = 0 eet ees
 
 H,=0 Pe A B
@@ -3012,7 +2997,6 @@ R= 3687.82N Ans.
 - 6 = 7747" Ans.
 
 (vil) Position of the resultant [Refer to Fig. 2_9(c)]
-EI F,is +ve(—) and = F, is +ve (tT)
 
 2. tesultant force R lies in the first quadrant. @=7747°
 
@@ -3696,6 +3680,7 @@ Calculation of Xc and Yc - 5 marks
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Civil_7005/Engineering Mechanics/ANS_Engineering Mechanics(702ME0C025)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2025
 - Text: mixed (14 pages), mean OCR confidence 75.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3743,7 +3728,6 @@ Since # is the resultant of P and Q, it follows that the sum P, + Q, of the y co
 forces P and Q is equal to the y component #, of their resultant R.
 
 ie. R, = P,+Q,
-Ry = RsinO, P, =PsinO,; and @,=Qsin Os
 - Rsin@ = PsinO, +O sind,
 Multiplying both sides by length O4
 Rx Odsind = Px O4 sinO, + Ox Od sind,
@@ -3970,7 +3954,6 @@ F
 
 PeT=0
 
-H, A c fa] 3] E
 
 F
 
@@ -4435,6 +4418,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2025
 - Text: mixed (4 pages), mean OCR confidence 47.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

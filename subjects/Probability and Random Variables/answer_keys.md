@@ -2,6 +2,842 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 485e99cabf9f
+
+- Departments: AI and Machine Learning
+- Programmes: BTech AIML 7053
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_AIML_7053/Probability and Random Variables/ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
+- Text: mixed (9 pages), mean OCR confidence 67.1
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Probability and Random Variables
+Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 9 pages.
+2. Question No. _1___ is compulsory
+3. Out of remaining questions, attempt any __4___ questions
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks
+8. Assume Suitable data if necessary
+Q1. a.
+Q1. b.
+********** 1 **********
+--- page 2 ---
+fx(e)-22e*, f(y) = 2ye*
+
+f(x,y) = fx(2)fy(y)
+
+Ql.c.
+X is uniform on {2, 4, 6,8, 10}, each value has probability
+1
+P(X =zr)=-=
+(X=2)=,
+2
+P(X <6)= -
+1
+P(X =8)==-
+5
+Ql.d.
+
+P(A) = 0.68, P(B)=0.72, P(ANB) = 0.55
+(i) Probability that a student uses online learning platforms or attends seminars
+Using the union formula:
+P(AUB) = P(A) + P(B) — P(ANB)
+P(AU B) = 0.68 + 0.72 — 0.55
+P(AUB) = 0.85
+
+(ii) Probability that a student uses online learning platforms or attends seminars but not both
+
+P(A only) = P(A) — P(AN B) = 0.68 — 0.55 = 0.13
+
+P(B only) = P(B) — P(AN B) = 0.72 — 0.55 = 0.17
+
+P(exactly one) = 0.13 + 0.17 = 0.30
+
+Q?2. a.
+
+4
+= — = 0.05, = 0.95
+Pp 80 >
+
+P(X =5) = q*- p= (0.95)*(0.05)
+= 0.8145 x 0.05 = 0.0407
+
+1 ol
+E(X) = --——~- 20
+(X) p 0.05
+
+FIC 2 I HH ar
+--- page 3 ---
+q _ 0.95 — 0.95
+Var(X) - 4 = = = 380
+ar(X) = 73 = (0.052 ~ 0.0025
+
+Q2.b.
+(i) P(Fiction | Available)
+
+40 4
+
+=== +--—0.5714
+70 67
+(ii) P(Issued | Non-Fiction)
+25 5
+= W= a — 0.4545
+55 ll
+Q2.c.
+w= > xP(x) = (—1)(0.2) + 0 + 2(0.25) + 4(0.20)
+= —0.24+040.5+40.8=1.1
+= So (@ — )?P(2) = 3.29
+= So(a = p)*P(z) = 15.36
+us 15.36 _ 15.36
+== "1.42
+Pa we (3.29) 10.82
+By <3
+Distribution is Platykurtic (flatter than normal)
+Q3.a.
+
+E[XY] = $° ay: P(z,y)
+
+= (-1)(—1)(0.1) + (—1)(0)(0.2) + (—1)(1) (0.1)
++(0)(—1)(0.1) + (0)(0)(0.2) + (0) (1) (0.1)
++(1)(—1)(0) + (1)(0)(0.1) + (1)(1)(0-1)
+
+=0.14+0-0.14+04+04+0+40+4+0401=0.1
+P(Y =-1)=0.14014+0=0.2
+
+P(Y =0) =0.24+0.2+01=0.5
+
+P(Y =1)=0.14+01401=0.3
+E(Y) = (—1)(0.2) + 0(0.5) + 1(0.3) = 0.1
+E(Y*) = 1(0.2) +0 + 1(0.3) = 0.5
+
+FC QI a iar
+--- page 4 ---
+Var (Y) = E(Y*) — [E(Y)? = 0.5 — (0.1)? = 0.49
+Q3.b.
+
+[ree \) dx = 1
+
+0
+kil? + a]8 —1
+k(9+ 3) =12k=1
+
+1
+k- —
+12
+
+3 3
+E(X) = | af(«) de — S; 2 (2x +1) dz
+
+0
+3
+
+2x?
+= fp | a’ + a)dax
+
+1 [2a _@ 5
+~p|3 "2 0
+22.5
+= pls +45 = 1.875
+( = 45
+Q3.c.
+f= 1200, o — 100
+
+z, — 100-1200,
+t 100 7
+
+1300 — 1200 |
+100
+
+P(-1 < Z < 1) = 0.6826
+
+_ 1400 — 1200 |
+100
+
+P(Z > 2) = 0.0228
+Q4.a.
+
+9 =
+
+0.10 + 0.20 + 0.30 + 0.25+4+ K = 1
+
+0.854+K=-1=> kK=0.15
+
+FIC 7) IC HOH
+--- page 5 ---
+= So aP(a)
+= (—2)(0.10) + (—1)(0.20) + 0 + 1(0.25) + 2(0.15)
+
+= —0.2 —0.2+04+0.254+ 0.3 = 0.15
+E(X?) = 4(0.10) + 1(0.20) + 0 + 1(0.25) + 4(0.15) = 0.4 + 0.2 + 0.25 + 0.6 = 1.45
+
+Var(X) = E(X*) — [E(X)|? = 1.45 — (0.15)? = 1.4275
+Q4.b.
+
+1 2
+/ [ K (3xy + 2y”)dydz — 1
+0 tH)
+
+2 16
+[ Geu+2y)dy = 60+ >
+0
+1 16 16 25
+6 — — 34+
+[ wes )da 3 3
+25 :
+K-14 K-23
+3 25
+2
+3 18a + 16
+—_— 4 d —_— —
+fx(x) 0 f(z, y) Y 55 (Oe 3 16) 95
+fr(y) = “tenet
+v(y) = fo Fley)de = 55(5
+
+1
+E(X) -| efy(x)de = 0.56
+
+2
+EY) = | viv(uldy = 1.32
+
+0
+
+Q4.c.
+1
+P(D,) = P(D2) = P(D3) = 3
+P(+|D,) = 0.6, P(+|D2)=0.8, P(+|D3) = 0.5
+
+P(2+,1—|D,) = (;
+
+>) (0.6)2(0.4) = 3(0.36)(0.4) = 0.432
+
+P(2+,1—|D2) = 3(0.8)7(0.2) = 3(0.64)(0.2) = 0.384
+
+P(2+,1—|D3) = 3(0.5)?(0.5) = 3(0.25)(0.5) = 0.375
+
+FIC DI EH ar
+--- page 6 ---
+0.3844
+
+P(Do\data) = 5
+3 (0.432 + 0.384 + 0.375)
+0.384
+= —— = 0.322
+1.191
+Q5.a.
+
+my — 1.5, my — 2.8, my — 6.2, my — 18
+polt+m=—1415=-2.5
+
+Hi = 0
+
+pig = My — m; =2.8-— (1.5)? = 0.55
+
+fig = m3 — 3mgm, + 2m} = 6.2 — 3(2.8)(1.5) + 2(1.5)* = 0.35
+
+M4 — mg — 4m3gm, + 6mym7? - 3mi = 18 — 37.2 + 37.8 — 15.1875 — 3.4125
+Q5.b.
+Given: = 5,6P(X = 3) = P(X = 1)
+
+“(ee Ce
+6 - 10p*q? = 5pq?
+60p"q? — 5pq* > 12p” = q?
+q-2V3p, q=1-p
+
+1
+l—-p=2v3p > p= we 0.224
+
+1423
+E(X) = np = 5(0.224) = 1.12
+
+Var(X) = npq = 5(0.224)(0.776) = 0.869
+Q5.c.
+
+1
+(6h + 12h 4+ 12h) = 30h =~1>h= 30
+
+P(X =0) =0.2, P(X =1) =0.4, P(X =2)=04
+P(Y =0) =0.2, P(Y =1) = 0.4, P(Y =2)=04
+E|X] = 0(0.2) + 1(0.4) + 2(0.4) = 1.2
+E(Y]=12
+42
+B|XY] = 42h = = 14
+
+FIC 6 I HF
+--- page 7 ---
+Cou(X,Y) = E[XY] — E[X]B[Y] = 1.4 — (1.2)? = —0.04
+
+Q6.a.
+Total balls = 5(W) + 4(B) + 3(Q) = 12.
+
+a) _ 12x11x10 _ 449
+
+3x2x1
+i) All three balls are different colors (1W, 1B, 10):
+
+Ways = (*) x (‘) x (*) =5x4x3=60.
+1 1 1
+
+- 0 _3
+P= oy = Uy 802727
+
+ii) All three balls are the same color (3W or 3B or 30):
+
+Ways = (:) + (‘) + (3) =104+4+4+1=15.
+3 3 3
+
+-15_3
+= 390 = 44 es 0.0682
+
+Total ways to draw 3 balls = (
+
+iii) Exactly two balls are white (2W and 1 non-white):
+Non-white balls =44+3 = 7.
+
+Ways = (:) x (") =10x7=70.
+2 1
+
+P= = = - ry 0.3182
+Q6.b.
+
+Given n = 120 and p = 0.03. Since nis large and p is small, we use the Poisson
+distribution with A = np = 120 x 0.03 = 3.6.
+
+i) At least one component is defective:
+
+AX > 1)=1- Ax =0)=1-e%*
+
+Pr 1 —0.0273 = 0.9727
+
+ii) Exactly 5 components are defective:
+e 3% (3.6)? 0.0273 x 604.66
+
+AX = 5) = 5! 120
+Ps 0.1376
+Q6.c.
+
+FIC 7 IC OHH
+--- page 8 ---
+i) Marginal density of X:
+i
+
+I 2
+fxc)= | oxydy = 6x| =| = 3x
+0 2
+
+0
+
+ii) Marginal density of Y:
+Il 971
+x
+for= oxy dx = by B = 3y
+0 i)
+
+iii) Conditional density of X (fy,y):
+f(x,y) _ Oxy
+Fxyyely) = = 3 =x
+
+fy) 3y
+iv) Conditional density of ¥ (fy,x):
+f(x,y) Oxy
+(y x) = =— =72
+PmxOP) = "Fay ax 79
+Q7.a.
+
+Given: Average w = 4 minutes. The rate parameter A = I = 0.25.
+H
+
+The formula for the cumulative probability is PLY < x) — 1— eo,
+i) Less than 1 minute:
+PX <1) =1-—¢ 8 8) = 1 — 69 2 0.2212
+
+ii) More than 6 minutes:
+PX > 6) = 8 PO = 6H!) 0.2231
+
+Q7.b.
+
+1 1 1 4
+Y=1)= — = —=— =04
+A ) i0* 5° 10 10
+
+1 l l 4
+Y=2)= — — —=-— =
+x ) 20° 10 * 20 20
+
+1 1 1 4
+AY=3)=—+-4+—=—=04
+
+10.5 10 #10
+
+E[Y] =(1 x 0.4) + (2 x 0.2) +(3 x 0.4) =04404412=20
+1/10
+
+X =0|Y= 3) = — =0.25
+ral | ) 04
+1/5
+rm | ) 0.4
+1/10
+
+X =2/¥=3) = — =0.35
+ral | ) 04
+
+E{X|Y = 3] =(0 x 0.25) + (1 x 0.5) 4+ (2 0.25) =0.54+05=1.0
+
+FIC QF EH 1
+--- page 9 ---
+Q7T.c.
+
+oo
+f(x) = ke. First, find k: [ ke dx =1=> : =1=$k=3.
+
+ti
+Moment Generating Function (MGF):
+
+oo oo 3
+M,(t) = Ele*] = [ el (3e**)dx = 3 | e SOX dx = za (fort <3)
+0 0 ~
+
+d = 3 1
+= M0) = £[33 —1)7'] = —> att=0 ==
+E[X] = M"(0) at t) | Gop att = 0, ELX] 3
+2 _ agten, — Frag »-2)_ __ 6 _ 24. 6 _2
+ELX*] = M"(0) = — BG t) I= Gop t= 0 FL m9
+Mean = E[X] = 4
+3
+‘ance — ETX¥2] — 2-2 l2_2_1_1
+Variance = ELX“] — [ECX)] =5 (3) =o 979
+
+FIC QF OH ar
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 6cc4ca7fd053
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_AI_7051/Probability and Random Variables/ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
+- Text: mixed (9 pages), mean OCR confidence 67.1
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Probability and Random Variables
+Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 9 pages.
+2. Question No. _1___ is compulsory
+3. Out of remaining questions, attempt any __4___ questions
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks
+8. Assume Suitable data if necessary
+Q1. a.
+Q1. b.
+********** 1 **********
+--- page 2 ---
+fx(e)-22e*, f(y) = 2ye*
+
+f(x,y) = fx(2)fy(y)
+
+Ql.c.
+X is uniform on {2, 4, 6,8, 10}, each value has probability
+1
+P(X =zr)=-=
+(X=2)=,
+2
+P(X <6)= -
+1
+P(X =8)==-
+5
+Ql.d.
+
+P(A) = 0.68, P(B)=0.72, P(ANB) = 0.55
+(i) Probability that a student uses online learning platforms or attends seminars
+Using the union formula:
+P(AUB) = P(A) + P(B) — P(ANB)
+P(AU B) = 0.68 + 0.72 — 0.55
+P(AUB) = 0.85
+
+(ii) Probability that a student uses online learning platforms or attends seminars but not both
+
+P(A only) = P(A) — P(AN B) = 0.68 — 0.55 = 0.13
+
+P(B only) = P(B) — P(AN B) = 0.72 — 0.55 = 0.17
+
+P(exactly one) = 0.13 + 0.17 = 0.30
+
+Q?2. a.
+
+4
+= — = 0.05, = 0.95
+Pp 80 >
+
+P(X =5) = q*- p= (0.95)*(0.05)
+= 0.8145 x 0.05 = 0.0407
+
+1 ol
+E(X) = --——~- 20
+(X) p 0.05
+
+FIC 2 I HH ar
+--- page 3 ---
+q _ 0.95 — 0.95
+Var(X) - 4 = = = 380
+ar(X) = 73 = (0.052 ~ 0.0025
+
+Q2.b.
+(i) P(Fiction | Available)
+
+40 4
+
+=== +--—0.5714
+70 67
+(ii) P(Issued | Non-Fiction)
+25 5
+= W= a — 0.4545
+55 ll
+Q2.c.
+w= > xP(x) = (—1)(0.2) + 0 + 2(0.25) + 4(0.20)
+= —0.24+040.5+40.8=1.1
+= So (@ — )?P(2) = 3.29
+= So(a = p)*P(z) = 15.36
+us 15.36 _ 15.36
+== "1.42
+Pa we (3.29) 10.82
+By <3
+Distribution is Platykurtic (flatter than normal)
+Q3.a.
+
+E[XY] = $° ay: P(z,y)
+
+= (-1)(—1)(0.1) + (—1)(0)(0.2) + (—1)(1) (0.1)
++(0)(—1)(0.1) + (0)(0)(0.2) + (0) (1) (0.1)
++(1)(—1)(0) + (1)(0)(0.1) + (1)(1)(0-1)
+
+=0.14+0-0.14+04+04+0+40+4+0401=0.1
+P(Y =-1)=0.14014+0=0.2
+
+P(Y =0) =0.24+0.2+01=0.5
+
+P(Y =1)=0.14+01401=0.3
+E(Y) = (—1)(0.2) + 0(0.5) + 1(0.3) = 0.1
+E(Y*) = 1(0.2) +0 + 1(0.3) = 0.5
+
+FC QI a iar
+--- page 4 ---
+Var (Y) = E(Y*) — [E(Y)? = 0.5 — (0.1)? = 0.49
+Q3.b.
+
+[ree \) dx = 1
+
+0
+kil? + a]8 —1
+k(9+ 3) =12k=1
+
+1
+k- —
+12
+
+3 3
+E(X) = | af(«) de — S; 2 (2x +1) dz
+
+0
+3
+
+2x?
+= fp | a’ + a)dax
+
+1 [2a _@ 5
+~p|3 "2 0
+22.5
+= pls +45 = 1.875
+( = 45
+Q3.c.
+f= 1200, o — 100
+
+z, — 100-1200,
+t 100 7
+
+1300 — 1200 |
+100
+
+P(-1 < Z < 1) = 0.6826
+
+_ 1400 — 1200 |
+100
+
+P(Z > 2) = 0.0228
+Q4.a.
+
+9 =
+
+0.10 + 0.20 + 0.30 + 0.25+4+ K = 1
+
+0.854+K=-1=> kK=0.15
+
+FIC 7) IC HOH
+--- page 5 ---
+= So aP(a)
+= (—2)(0.10) + (—1)(0.20) + 0 + 1(0.25) + 2(0.15)
+
+= —0.2 —0.2+04+0.254+ 0.3 = 0.15
+E(X?) = 4(0.10) + 1(0.20) + 0 + 1(0.25) + 4(0.15) = 0.4 + 0.2 + 0.25 + 0.6 = 1.45
+
+Var(X) = E(X*) — [E(X)|? = 1.45 — (0.15)? = 1.4275
+Q4.b.
+
+1 2
+/ [ K (3xy + 2y”)dydz — 1
+0 tH)
+
+2 16
+[ Geu+2y)dy = 60+ >
+0
+1 16 16 25
+6 — — 34+
+[ wes )da 3 3
+25 :
+K-14 K-23
+3 25
+2
+3 18a + 16
+—_— 4 d —_— —
+fx(x) 0 f(z, y) Y 55 (Oe 3 16) 95
+fr(y) = “tenet
+v(y) = fo Fley)de = 55(5
+
+1
+E(X) -| efy(x)de = 0.56
+
+2
+EY) = | viv(uldy = 1.32
+
+0
+
+Q4.c.
+1
+P(D,) = P(D2) = P(D3) = 3
+P(+|D,) = 0.6, P(+|D2)=0.8, P(+|D3) = 0.5
+
+P(2+,1—|D,) = (;
+
+>) (0.6)2(0.4) = 3(0.36)(0.4) = 0.432
+
+P(2+,1—|D2) = 3(0.8)7(0.2) = 3(0.64)(0.2) = 0.384
+
+P(2+,1—|D3) = 3(0.5)?(0.5) = 3(0.25)(0.5) = 0.375
+
+FIC DI EH ar
+--- page 6 ---
+0.3844
+
+P(Do\data) = 5
+3 (0.432 + 0.384 + 0.375)
+0.384
+= —— = 0.322
+1.191
+Q5.a.
+
+my — 1.5, my — 2.8, my — 6.2, my — 18
+polt+m=—1415=-2.5
+
+Hi = 0
+
+pig = My — m; =2.8-— (1.5)? = 0.55
+
+fig = m3 — 3mgm, + 2m} = 6.2 — 3(2.8)(1.5) + 2(1.5)* = 0.35
+
+M4 — mg — 4m3gm, + 6mym7? - 3mi = 18 — 37.2 + 37.8 — 15.1875 — 3.4125
+Q5.b.
+Given: = 5,6P(X = 3) = P(X = 1)
+
+“(ee Ce
+6 - 10p*q? = 5pq?
+60p"q? — 5pq* > 12p” = q?
+q-2V3p, q=1-p
+
+1
+l—-p=2v3p > p= we 0.224
+
+1423
+E(X) = np = 5(0.224) = 1.12
+
+Var(X) = npq = 5(0.224)(0.776) = 0.869
+Q5.c.
+
+1
+(6h + 12h 4+ 12h) = 30h =~1>h= 30
+
+P(X =0) =0.2, P(X =1) =0.4, P(X =2)=04
+P(Y =0) =0.2, P(Y =1) = 0.4, P(Y =2)=04
+E|X] = 0(0.2) + 1(0.4) + 2(0.4) = 1.2
+E(Y]=12
+42
+B|XY] = 42h = = 14
+
+FIC 6 I HF
+--- page 7 ---
+Cou(X,Y) = E[XY] — E[X]B[Y] = 1.4 — (1.2)? = —0.04
+
+Q6.a.
+Total balls = 5(W) + 4(B) + 3(Q) = 12.
+
+a) _ 12x11x10 _ 449
+
+3x2x1
+i) All three balls are different colors (1W, 1B, 10):
+
+Ways = (*) x (‘) x (*) =5x4x3=60.
+1 1 1
+
+- 0 _3
+P= oy = Uy 802727
+
+ii) All three balls are the same color (3W or 3B or 30):
+
+Ways = (:) + (‘) + (3) =104+4+4+1=15.
+3 3 3
+
+-15_3
+= 390 = 44 es 0.0682
+
+Total ways to draw 3 balls = (
+
+iii) Exactly two balls are white (2W and 1 non-white):
+Non-white balls =44+3 = 7.
+
+Ways = (:) x (") =10x7=70.
+2 1
+
+P= = = - ry 0.3182
+Q6.b.
+
+Given n = 120 and p = 0.03. Since nis large and p is small, we use the Poisson
+distribution with A = np = 120 x 0.03 = 3.6.
+
+i) At least one component is defective:
+
+AX > 1)=1- Ax =0)=1-e%*
+
+Pr 1 —0.0273 = 0.9727
+
+ii) Exactly 5 components are defective:
+e 3% (3.6)? 0.0273 x 604.66
+
+AX = 5) = 5! 120
+Ps 0.1376
+Q6.c.
+
+FIC 7 IC OHH
+--- page 8 ---
+i) Marginal density of X:
+i
+
+I 2
+fxc)= | oxydy = 6x| =| = 3x
+0 2
+
+0
+
+ii) Marginal density of Y:
+Il 971
+x
+for= oxy dx = by B = 3y
+0 i)
+
+iii) Conditional density of X (fy,y):
+f(x,y) _ Oxy
+Fxyyely) = = 3 =x
+
+fy) 3y
+iv) Conditional density of ¥ (fy,x):
+f(x,y) Oxy
+(y x) = =— =72
+PmxOP) = "Fay ax 79
+Q7.a.
+
+Given: Average w = 4 minutes. The rate parameter A = I = 0.25.
+H
+
+The formula for the cumulative probability is PLY < x) — 1— eo,
+i) Less than 1 minute:
+PX <1) =1-—¢ 8 8) = 1 — 69 2 0.2212
+
+ii) More than 6 minutes:
+PX > 6) = 8 PO = 6H!) 0.2231
+
+Q7.b.
+
+1 1 1 4
+Y=1)= — = —=— =04
+A ) i0* 5° 10 10
+
+1 l l 4
+Y=2)= — — —=-— =
+x ) 20° 10 * 20 20
+
+1 1 1 4
+AY=3)=—+-4+—=—=04
+
+10.5 10 #10
+
+E[Y] =(1 x 0.4) + (2 x 0.2) +(3 x 0.4) =04404412=20
+1/10
+
+X =0|Y= 3) = — =0.25
+ral | ) 04
+1/5
+rm | ) 0.4
+1/10
+
+X =2/¥=3) = — =0.35
+ral | ) 04
+
+E{X|Y = 3] =(0 x 0.25) + (1 x 0.5) 4+ (2 0.25) =0.54+05=1.0
+
+FIC QF EH 1
+--- page 9 ---
+Q7T.c.
+
+oo
+f(x) = ke. First, find k: [ ke dx =1=> : =1=$k=3.
+
+ti
+Moment Generating Function (MGF):
+
+oo oo 3
+M,(t) = Ele*] = [ el (3e**)dx = 3 | e SOX dx = za (fort <3)
+0 0 ~
+
+d = 3 1
+= M0) = £[33 —1)7'] = —> att=0 ==
+E[X] = M"(0) at t) | Gop att = 0, ELX] 3
+2 _ agten, — Frag »-2)_ __ 6 _ 24. 6 _2
+ELX*] = M"(0) = — BG t) I= Gop t= 0 FL m9
+Mean = E[X] = 4
+3
+‘ance — ETX¥2] — 2-2 l2_2_1_1
+Variance = ELX“] — [ECX)] =5 (3) =o 979
+
+FIC QF OH ar
+````
+
 ## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 7d34713b0180
 
 - Departments: AI and Data Science
@@ -1556,424 +2392,6 @@ No of students getting marks between more than 75 = 1000* 0.1587 = 15 ……….
 ********** 6 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 485e99cabf9f
-
-- Departments: AI and Machine Learning
-- Programmes: BTech AIML 7053
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_AIML_7053/Probability and Random Variables/ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
-- Text: mixed (9 pages), mean OCR confidence 67.1
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Probability and Random Variables
-Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 9 pages.
-2. Question No. _1___ is compulsory
-3. Out of remaining questions, attempt any __4___ questions
-4. In all ___5_ questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks
-8. Assume Suitable data if necessary
-Q1. a.
-Q1. b.
-********** 1 **********
---- page 2 ---
-fx(e)-22e*, f(y) = 2ye*
-
-f(x,y) = fx(2)fy(y)
-
-Ql.c.
-X is uniform on {2, 4, 6,8, 10}, each value has probability
-1
-P(X =zr)=-=
-(X=2)=,
-2
-P(X <6)= -
-1
-P(X =8)==-
-5
-Ql.d.
-
-P(A) = 0.68, P(B)=0.72, P(ANB) = 0.55
-(i) Probability that a student uses online learning platforms or attends seminars
-Using the union formula:
-P(AUB) = P(A) + P(B) — P(ANB)
-P(AU B) = 0.68 + 0.72 — 0.55
-P(AUB) = 0.85
-
-(ii) Probability that a student uses online learning platforms or attends seminars but not both
-
-P(A only) = P(A) — P(AN B) = 0.68 — 0.55 = 0.13
-
-P(B only) = P(B) — P(AN B) = 0.72 — 0.55 = 0.17
-
-P(exactly one) = 0.13 + 0.17 = 0.30
-
-Q?2. a.
-
-4
-= — = 0.05, = 0.95
-Pp 80 >
-
-P(X =5) = q*- p= (0.95)*(0.05)
-= 0.8145 x 0.05 = 0.0407
-
-1 ol
-E(X) = --——~- 20
-(X) p 0.05
-
-FIC 2 I HH ar
---- page 3 ---
-q _ 0.95 — 0.95
-Var(X) - 4 = = = 380
-ar(X) = 73 = (0.052 ~ 0.0025
-
-Q2.b.
-(i) P(Fiction | Available)
-
-40 4
-
-=== +--—0.5714
-70 67
-(ii) P(Issued | Non-Fiction)
-25 5
-= W= a — 0.4545
-55 ll
-Q2.c.
-w= > xP(x) = (—1)(0.2) + 0 + 2(0.25) + 4(0.20)
-= —0.24+040.5+40.8=1.1
-= So (@ — )?P(2) = 3.29
-= So(a = p)*P(z) = 15.36
-us 15.36 _ 15.36
-== "1.42
-Pa we (3.29) 10.82
-By <3
-Distribution is Platykurtic (flatter than normal)
-Q3.a.
-
-E[XY] = $° ay: P(z,y)
-
-= (-1)(—1)(0.1) + (—1)(0)(0.2) + (—1)(1) (0.1)
-+(0)(—1)(0.1) + (0)(0)(0.2) + (0) (1) (0.1)
-+(1)(—1)(0) + (1)(0)(0.1) + (1)(1)(0-1)
-
-=0.14+0-0.14+04+04+0+40+4+0401=0.1
-P(Y =-1)=0.14014+0=0.2
-
-P(Y =0) =0.24+0.2+01=0.5
-
-P(Y =1)=0.14+01401=0.3
-E(Y) = (—1)(0.2) + 0(0.5) + 1(0.3) = 0.1
-E(Y*) = 1(0.2) +0 + 1(0.3) = 0.5
-
-FC QI a iar
---- page 4 ---
-Var (Y) = E(Y*) — [E(Y)? = 0.5 — (0.1)? = 0.49
-Q3.b.
-
-[ree \) dx = 1
-
-0
-kil? + a]8 —1
-k(9+ 3) =12k=1
-
-1
-k- —
-12
-
-3 3
-E(X) = | af(«) de — S; 2 (2x +1) dz
-
-0
-3
-
-2x?
-= fp | a’ + a)dax
-
-1 [2a _@ 5
-~p|3 "2 0
-22.5
-= pls +45 = 1.875
-( = 45
-Q3.c.
-f= 1200, o — 100
-
-z, — 100-1200,
-t 100 7
-
-1300 — 1200 |
-100
-
-P(-1 < Z < 1) = 0.6826
-
-_ 1400 — 1200 |
-100
-
-P(Z > 2) = 0.0228
-Q4.a.
-
-9 =
-
-0.10 + 0.20 + 0.30 + 0.25+4+ K = 1
-
-0.854+K=-1=> kK=0.15
-
-FIC 7) IC HOH
---- page 5 ---
-= So aP(a)
-= (—2)(0.10) + (—1)(0.20) + 0 + 1(0.25) + 2(0.15)
-
-= —0.2 —0.2+04+0.254+ 0.3 = 0.15
-E(X?) = 4(0.10) + 1(0.20) + 0 + 1(0.25) + 4(0.15) = 0.4 + 0.2 + 0.25 + 0.6 = 1.45
-
-Var(X) = E(X*) — [E(X)|? = 1.45 — (0.15)? = 1.4275
-Q4.b.
-
-1 2
-/ [ K (3xy + 2y”)dydz — 1
-0 tH)
-
-2 16
-[ Geu+2y)dy = 60+ >
-0
-1 16 16 25
-6 — — 34+
-[ wes )da 3 3
-25 :
-K-14 K-23
-3 25
-2
-3 18a + 16
-—_— 4 d —_— —
-fx(x) 0 f(z, y) Y 55 (Oe 3 16) 95
-fr(y) = “tenet
-v(y) = fo Fley)de = 55(5
-
-1
-E(X) -| efy(x)de = 0.56
-
-2
-EY) = | viv(uldy = 1.32
-
-0
-
-Q4.c.
-1
-P(D,) = P(D2) = P(D3) = 3
-P(+|D,) = 0.6, P(+|D2)=0.8, P(+|D3) = 0.5
-
-P(2+,1—|D,) = (;
-
->) (0.6)2(0.4) = 3(0.36)(0.4) = 0.432
-
-P(2+,1—|D2) = 3(0.8)7(0.2) = 3(0.64)(0.2) = 0.384
-
-P(2+,1—|D3) = 3(0.5)?(0.5) = 3(0.25)(0.5) = 0.375
-
-FIC DI EH ar
---- page 6 ---
-0.3844
-
-P(Do\data) = 5
-3 (0.432 + 0.384 + 0.375)
-0.384
-= —— = 0.322
-1.191
-Q5.a.
-
-my — 1.5, my — 2.8, my — 6.2, my — 18
-polt+m=—1415=-2.5
-
-Hi = 0
-
-pig = My — m; =2.8-— (1.5)? = 0.55
-
-fig = m3 — 3mgm, + 2m} = 6.2 — 3(2.8)(1.5) + 2(1.5)* = 0.35
-
-M4 — mg — 4m3gm, + 6mym7? - 3mi = 18 — 37.2 + 37.8 — 15.1875 — 3.4125
-Q5.b.
-Given: = 5,6P(X = 3) = P(X = 1)
-
-“(ee Ce
-6 - 10p*q? = 5pq?
-60p"q? — 5pq* > 12p” = q?
-q-2V3p, q=1-p
-
-1
-l—-p=2v3p > p= we 0.224
-
-1423
-E(X) = np = 5(0.224) = 1.12
-
-Var(X) = npq = 5(0.224)(0.776) = 0.869
-Q5.c.
-
-1
-(6h + 12h 4+ 12h) = 30h =~1>h= 30
-
-P(X =0) =0.2, P(X =1) =0.4, P(X =2)=04
-P(Y =0) =0.2, P(Y =1) = 0.4, P(Y =2)=04
-E|X] = 0(0.2) + 1(0.4) + 2(0.4) = 1.2
-E(Y]=12
-42
-B|XY] = 42h = = 14
-
-FIC 6 I HF
---- page 7 ---
-Cou(X,Y) = E[XY] — E[X]B[Y] = 1.4 — (1.2)? = —0.04
-
-Q6.a.
-Total balls = 5(W) + 4(B) + 3(Q) = 12.
-
-a) _ 12x11x10 _ 449
-
-3x2x1
-i) All three balls are different colors (1W, 1B, 10):
-
-Ways = (*) x (‘) x (*) =5x4x3=60.
-1 1 1
-
-- 0 _3
-P= oy = Uy 802727
-
-ii) All three balls are the same color (3W or 3B or 30):
-
-Ways = (:) + (‘) + (3) =104+4+4+1=15.
-3 3 3
-
--15_3
-= 390 = 44 es 0.0682
-
-Total ways to draw 3 balls = (
-
-iii) Exactly two balls are white (2W and 1 non-white):
-Non-white balls =44+3 = 7.
-
-Ways = (:) x (") =10x7=70.
-2 1
-
-P= = = - ry 0.3182
-Q6.b.
-
-Given n = 120 and p = 0.03. Since nis large and p is small, we use the Poisson
-distribution with A = np = 120 x 0.03 = 3.6.
-
-i) At least one component is defective:
-
-AX > 1)=1- Ax =0)=1-e%*
-
-Pr 1 —0.0273 = 0.9727
-
-ii) Exactly 5 components are defective:
-e 3% (3.6)? 0.0273 x 604.66
-
-AX = 5) = 5! 120
-Ps 0.1376
-Q6.c.
-
-FIC 7 IC OHH
---- page 8 ---
-i) Marginal density of X:
-i
-
-I 2
-fxc)= | oxydy = 6x| =| = 3x
-0 2
-
-0
-
-ii) Marginal density of Y:
-Il 971
-x
-for= oxy dx = by B = 3y
-0 i)
-
-iii) Conditional density of X (fy,y):
-f(x,y) _ Oxy
-Fxyyely) = = 3 =x
-
-fy) 3y
-iv) Conditional density of ¥ (fy,x):
-f(x,y) Oxy
-(y x) = =— =72
-PmxOP) = "Fay ax 79
-Q7.a.
-
-Given: Average w = 4 minutes. The rate parameter A = I = 0.25.
-H
-
-The formula for the cumulative probability is PLY < x) — 1— eo,
-i) Less than 1 minute:
-PX <1) =1-—¢ 8 8) = 1 — 69 2 0.2212
-
-ii) More than 6 minutes:
-PX > 6) = 8 PO = 6H!) 0.2231
-
-Q7.b.
-
-1 1 1 4
-Y=1)= — = —=— =04
-A ) i0* 5° 10 10
-
-1 l l 4
-Y=2)= — — —=-— =
-x ) 20° 10 * 20 20
-
-1 1 1 4
-AY=3)=—+-4+—=—=04
-
-10.5 10 #10
-
-E[Y] =(1 x 0.4) + (2 x 0.2) +(3 x 0.4) =04404412=20
-1/10
-
-X =0|Y= 3) = — =0.25
-ral | ) 04
-1/5
-rm | ) 0.4
-1/10
-
-X =2/¥=3) = — =0.35
-ral | ) 04
-
-E{X|Y = 3] =(0 x 0.25) + (1 x 0.5) 4+ (2 0.25) =0.54+05=1.0
-
-FIC QF EH 1
---- page 9 ---
-Q7T.c.
-
-oo
-f(x) = ke. First, find k: [ ke dx =1=> : =1=$k=3.
-
-ti
-Moment Generating Function (MGF):
-
-oo oo 3
-M,(t) = Ele*] = [ el (3e**)dx = 3 | e SOX dx = za (fort <3)
-0 0 ~
-
-d = 3 1
-= M0) = £[33 —1)7'] = —> att=0 ==
-E[X] = M"(0) at t) | Gop att = 0, ELX] 3
-2 _ agten, — Frag »-2)_ __ 6 _ 24. 6 _2
-ELX*] = M"(0) = — BG t) I= Gop t= 0 FL m9
-Mean = E[X] = 4
-3
-‘ance — ETX¥2] — 2-2 l2_2_1_1
-Variance = ELX“] — [ECX)] =5 (3) =o 979
-
-FIC QF OH ar
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper f50dbfa40d20
 
 - Departments: Artificial Intelligence
@@ -2250,424 +2668,6 @@ No of students getting marks between 60 and 75 = 1000* 0.8185 = 818
 ii)   When P(X 75) then P(Z > 1) = 0.5-0.3413 = 0.1587
 No of students getting marks between more than 75 = 1000* 0.1587 = 15 ………..(8)
 ********** 6 **********
-````
-
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 6cc4ca7fd053
-
-- Departments: Artificial Intelligence
-- Programmes: MBATech AI 7051
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_AI_7051/Probability and Random Variables/ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
-- Text: mixed (9 pages), mean OCR confidence 67.1
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Probability and Random Variables
-Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 9 pages.
-2. Question No. _1___ is compulsory
-3. Out of remaining questions, attempt any __4___ questions
-4. In all ___5_ questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks
-8. Assume Suitable data if necessary
-Q1. a.
-Q1. b.
-********** 1 **********
---- page 2 ---
-fx(e)-22e*, f(y) = 2ye*
-
-f(x,y) = fx(2)fy(y)
-
-Ql.c.
-X is uniform on {2, 4, 6,8, 10}, each value has probability
-1
-P(X =zr)=-=
-(X=2)=,
-2
-P(X <6)= -
-1
-P(X =8)==-
-5
-Ql.d.
-
-P(A) = 0.68, P(B)=0.72, P(ANB) = 0.55
-(i) Probability that a student uses online learning platforms or attends seminars
-Using the union formula:
-P(AUB) = P(A) + P(B) — P(ANB)
-P(AU B) = 0.68 + 0.72 — 0.55
-P(AUB) = 0.85
-
-(ii) Probability that a student uses online learning platforms or attends seminars but not both
-
-P(A only) = P(A) — P(AN B) = 0.68 — 0.55 = 0.13
-
-P(B only) = P(B) — P(AN B) = 0.72 — 0.55 = 0.17
-
-P(exactly one) = 0.13 + 0.17 = 0.30
-
-Q?2. a.
-
-4
-= — = 0.05, = 0.95
-Pp 80 >
-
-P(X =5) = q*- p= (0.95)*(0.05)
-= 0.8145 x 0.05 = 0.0407
-
-1 ol
-E(X) = --——~- 20
-(X) p 0.05
-
-FIC 2 I HH ar
---- page 3 ---
-q _ 0.95 — 0.95
-Var(X) - 4 = = = 380
-ar(X) = 73 = (0.052 ~ 0.0025
-
-Q2.b.
-(i) P(Fiction | Available)
-
-40 4
-
-=== +--—0.5714
-70 67
-(ii) P(Issued | Non-Fiction)
-25 5
-= W= a — 0.4545
-55 ll
-Q2.c.
-w= > xP(x) = (—1)(0.2) + 0 + 2(0.25) + 4(0.20)
-= —0.24+040.5+40.8=1.1
-= So (@ — )?P(2) = 3.29
-= So(a = p)*P(z) = 15.36
-us 15.36 _ 15.36
-== "1.42
-Pa we (3.29) 10.82
-By <3
-Distribution is Platykurtic (flatter than normal)
-Q3.a.
-
-E[XY] = $° ay: P(z,y)
-
-= (-1)(—1)(0.1) + (—1)(0)(0.2) + (—1)(1) (0.1)
-+(0)(—1)(0.1) + (0)(0)(0.2) + (0) (1) (0.1)
-+(1)(—1)(0) + (1)(0)(0.1) + (1)(1)(0-1)
-
-=0.14+0-0.14+04+04+0+40+4+0401=0.1
-P(Y =-1)=0.14014+0=0.2
-
-P(Y =0) =0.24+0.2+01=0.5
-
-P(Y =1)=0.14+01401=0.3
-E(Y) = (—1)(0.2) + 0(0.5) + 1(0.3) = 0.1
-E(Y*) = 1(0.2) +0 + 1(0.3) = 0.5
-
-FC QI a iar
---- page 4 ---
-Var (Y) = E(Y*) — [E(Y)? = 0.5 — (0.1)? = 0.49
-Q3.b.
-
-[ree \) dx = 1
-
-0
-kil? + a]8 —1
-k(9+ 3) =12k=1
-
-1
-k- —
-12
-
-3 3
-E(X) = | af(«) de — S; 2 (2x +1) dz
-
-0
-3
-
-2x?
-= fp | a’ + a)dax
-
-1 [2a _@ 5
-~p|3 "2 0
-22.5
-= pls +45 = 1.875
-( = 45
-Q3.c.
-f= 1200, o — 100
-
-z, — 100-1200,
-t 100 7
-
-1300 — 1200 |
-100
-
-P(-1 < Z < 1) = 0.6826
-
-_ 1400 — 1200 |
-100
-
-P(Z > 2) = 0.0228
-Q4.a.
-
-9 =
-
-0.10 + 0.20 + 0.30 + 0.25+4+ K = 1
-
-0.854+K=-1=> kK=0.15
-
-FIC 7) IC HOH
---- page 5 ---
-= So aP(a)
-= (—2)(0.10) + (—1)(0.20) + 0 + 1(0.25) + 2(0.15)
-
-= —0.2 —0.2+04+0.254+ 0.3 = 0.15
-E(X?) = 4(0.10) + 1(0.20) + 0 + 1(0.25) + 4(0.15) = 0.4 + 0.2 + 0.25 + 0.6 = 1.45
-
-Var(X) = E(X*) — [E(X)|? = 1.45 — (0.15)? = 1.4275
-Q4.b.
-
-1 2
-/ [ K (3xy + 2y”)dydz — 1
-0 tH)
-
-2 16
-[ Geu+2y)dy = 60+ >
-0
-1 16 16 25
-6 — — 34+
-[ wes )da 3 3
-25 :
-K-14 K-23
-3 25
-2
-3 18a + 16
-—_— 4 d —_— —
-fx(x) 0 f(z, y) Y 55 (Oe 3 16) 95
-fr(y) = “tenet
-v(y) = fo Fley)de = 55(5
-
-1
-E(X) -| efy(x)de = 0.56
-
-2
-EY) = | viv(uldy = 1.32
-
-0
-
-Q4.c.
-1
-P(D,) = P(D2) = P(D3) = 3
-P(+|D,) = 0.6, P(+|D2)=0.8, P(+|D3) = 0.5
-
-P(2+,1—|D,) = (;
-
->) (0.6)2(0.4) = 3(0.36)(0.4) = 0.432
-
-P(2+,1—|D2) = 3(0.8)7(0.2) = 3(0.64)(0.2) = 0.384
-
-P(2+,1—|D3) = 3(0.5)?(0.5) = 3(0.25)(0.5) = 0.375
-
-FIC DI EH ar
---- page 6 ---
-0.3844
-
-P(Do\data) = 5
-3 (0.432 + 0.384 + 0.375)
-0.384
-= —— = 0.322
-1.191
-Q5.a.
-
-my — 1.5, my — 2.8, my — 6.2, my — 18
-polt+m=—1415=-2.5
-
-Hi = 0
-
-pig = My — m; =2.8-— (1.5)? = 0.55
-
-fig = m3 — 3mgm, + 2m} = 6.2 — 3(2.8)(1.5) + 2(1.5)* = 0.35
-
-M4 — mg — 4m3gm, + 6mym7? - 3mi = 18 — 37.2 + 37.8 — 15.1875 — 3.4125
-Q5.b.
-Given: = 5,6P(X = 3) = P(X = 1)
-
-“(ee Ce
-6 - 10p*q? = 5pq?
-60p"q? — 5pq* > 12p” = q?
-q-2V3p, q=1-p
-
-1
-l—-p=2v3p > p= we 0.224
-
-1423
-E(X) = np = 5(0.224) = 1.12
-
-Var(X) = npq = 5(0.224)(0.776) = 0.869
-Q5.c.
-
-1
-(6h + 12h 4+ 12h) = 30h =~1>h= 30
-
-P(X =0) =0.2, P(X =1) =0.4, P(X =2)=04
-P(Y =0) =0.2, P(Y =1) = 0.4, P(Y =2)=04
-E|X] = 0(0.2) + 1(0.4) + 2(0.4) = 1.2
-E(Y]=12
-42
-B|XY] = 42h = = 14
-
-FIC 6 I HF
---- page 7 ---
-Cou(X,Y) = E[XY] — E[X]B[Y] = 1.4 — (1.2)? = —0.04
-
-Q6.a.
-Total balls = 5(W) + 4(B) + 3(Q) = 12.
-
-a) _ 12x11x10 _ 449
-
-3x2x1
-i) All three balls are different colors (1W, 1B, 10):
-
-Ways = (*) x (‘) x (*) =5x4x3=60.
-1 1 1
-
-- 0 _3
-P= oy = Uy 802727
-
-ii) All three balls are the same color (3W or 3B or 30):
-
-Ways = (:) + (‘) + (3) =104+4+4+1=15.
-3 3 3
-
--15_3
-= 390 = 44 es 0.0682
-
-Total ways to draw 3 balls = (
-
-iii) Exactly two balls are white (2W and 1 non-white):
-Non-white balls =44+3 = 7.
-
-Ways = (:) x (") =10x7=70.
-2 1
-
-P= = = - ry 0.3182
-Q6.b.
-
-Given n = 120 and p = 0.03. Since nis large and p is small, we use the Poisson
-distribution with A = np = 120 x 0.03 = 3.6.
-
-i) At least one component is defective:
-
-AX > 1)=1- Ax =0)=1-e%*
-
-Pr 1 —0.0273 = 0.9727
-
-ii) Exactly 5 components are defective:
-e 3% (3.6)? 0.0273 x 604.66
-
-AX = 5) = 5! 120
-Ps 0.1376
-Q6.c.
-
-FIC 7 IC OHH
---- page 8 ---
-i) Marginal density of X:
-i
-
-I 2
-fxc)= | oxydy = 6x| =| = 3x
-0 2
-
-0
-
-ii) Marginal density of Y:
-Il 971
-x
-for= oxy dx = by B = 3y
-0 i)
-
-iii) Conditional density of X (fy,y):
-f(x,y) _ Oxy
-Fxyyely) = = 3 =x
-
-fy) 3y
-iv) Conditional density of ¥ (fy,x):
-f(x,y) Oxy
-(y x) = =— =72
-PmxOP) = "Fay ax 79
-Q7.a.
-
-Given: Average w = 4 minutes. The rate parameter A = I = 0.25.
-H
-
-The formula for the cumulative probability is PLY < x) — 1— eo,
-i) Less than 1 minute:
-PX <1) =1-—¢ 8 8) = 1 — 69 2 0.2212
-
-ii) More than 6 minutes:
-PX > 6) = 8 PO = 6H!) 0.2231
-
-Q7.b.
-
-1 1 1 4
-Y=1)= — = —=— =04
-A ) i0* 5° 10 10
-
-1 l l 4
-Y=2)= — — —=-— =
-x ) 20° 10 * 20 20
-
-1 1 1 4
-AY=3)=—+-4+—=—=04
-
-10.5 10 #10
-
-E[Y] =(1 x 0.4) + (2 x 0.2) +(3 x 0.4) =04404412=20
-1/10
-
-X =0|Y= 3) = — =0.25
-ral | ) 04
-1/5
-rm | ) 0.4
-1/10
-
-X =2/¥=3) = — =0.35
-ral | ) 04
-
-E{X|Y = 3] =(0 x 0.25) + (1 x 0.5) 4+ (2 0.25) =0.54+05=1.0
-
-FIC QF EH 1
---- page 9 ---
-Q7T.c.
-
-oo
-f(x) = ke. First, find k: [ ke dx =1=> : =1=$k=3.
-
-ti
-Moment Generating Function (MGF):
-
-oo oo 3
-M,(t) = Ele*] = [ el (3e**)dx = 3 | e SOX dx = za (fort <3)
-0 0 ~
-
-d = 3 1
-= M0) = £[33 —1)7'] = —> att=0 ==
-E[X] = M"(0) at t) | Gop att = 0, ELX] 3
-2 _ agten, — Frag »-2)_ __ 6 _ 24. 6 _2
-ELX*] = M"(0) = — BG t) I= Gop t= 0 FL m9
-Mean = E[X] = 4
-3
-‘ance — ETX¥2] — 2-2 l2_2_1_1
-Variance = ELX“] — [ECX)] =5 (3) =o 979
-
-FIC QF OH ar
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper e6811f65538e

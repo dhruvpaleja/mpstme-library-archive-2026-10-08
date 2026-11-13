@@ -14,13 +14,13 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Alternative Fuels(702ME0E003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 11 | Integrated Mechanical 7031 | ANS_Alternative Fuels(702ME0E003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9, Sem 11 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | B Tech, Alternative Fuels, Sem-V, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | QP_Alternative Fuels(702ME0E003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 11 | Integrated Mechanical 7031 | QP_Alternative Fuels(702ME0E003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechanical 7003 | ANS_Alternative Fuels(702ME0E003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Alternative Fuels(702ME0E003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 11 | Integrated Mechanical 7031 | ANS_Alternative Fuels(702ME0E003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Mechanical 7003 | QP_Alternative Fuels(702ME0E003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechanical 7003 | ANS_Alternative Fuels(702ME0E003)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Alternative Fuels Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / MECHANICAL | Alternative Fuels Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / MECHANICAL | Alternative Fuels Batch 2024-25 Final.pdf |

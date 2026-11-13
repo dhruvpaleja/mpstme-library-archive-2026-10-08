@@ -1,136 +1,8 @@
 # Object Oriented Modeling and Design: question papers in full
 
-25 unique papers · 2008-09 to 2022-23 · Information Technology, Computer Applications (MCA)
+24 unique papers · 2008-09 to 2018-19 · Information Technology, Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper cf947ec0c3fb
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OBJECT ORIENTED MODELING AND DESIGN/Object Oriented Programming, Sem-IV, Final & Re Exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 89.4
-
-````text
-\T
-SVKM’S NMIMS |
-He: MPESTME Z,
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGEXEERING]
-di } AS
-
-SCHOOL OF TECHNOLOGY MANAGEME
-Academic Year: 2023-2024
-
-Program/s: B.Tech /MBA.Tech/B.Tech Cyber Security Year: II Semester: [V
-Stream/s :IT, CeSE-OS
-
-Subject: Object Oriented Programming . Time: 3 hrs (10:00 to 1:00 PM)
-Date:_30 / 04/2024 : No. of Pages:3
-
-Marks: 100.0,
-
-Final Examination/Re-Examination (2022 - 2093)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks. ,
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. °
-
-Qu Answer briefly: [20]
-
-a. Implement classes as shown in the Class diagram below. Write a test program to
-test the classes created.
-
-om
-CO-1;
-SO-1 ;
-BL-1
-CO-1; b. Implement a function that finds the number of occurrences of a specified character
-SO- 1; in the string. Write a test program that prompts the user to enter a string followed
-BL-1 by a character and displays the number of occurrences of the character in the string.
---- page 2 ---
-Write a program to considered a class Shopping Portal which‘has total three
-methods with same name makePayment(). The business logic of this method is
-to perform the payment transactions. .
-
-Q2
-CO-2; SO- Payment can be done either of following modes. [20]
-1;
-BL-2 e Through Internet Bankirig.
-e Using UPI Support Application.
-e With Credit Card or Debit Card .
-Implement classes as shown in the Class diagram below. Create appropriate
-objects to demonstrate the usage of the classes created.
-StudentBody Student
-Q3 is] (ana) -firstName : String
-+ main (args : String{]) -lastName : Sting
-CO-2; SO- “ schoolAddress : Address [20]
-1; BL-3 icine Ih
-Address
-= streetAddress : String
-~clty : String
-- state : String
-= zipCode : long
-+ toString() : String .
-Write a program to implement three classes namely Student, Test and Result.
-Student class has member as rollno, Test class has members as sem1_marks and
-sem2_marks and Result class has member as total. Create an interface named
-sports that has a member score (). Derive Test class from Student and Result class
-has multiple inheritances from Test and Sports. Total is formula based on
-sem1_marks, sem2_mark and score.
-Q4
-CO-2,3;
-ae Stu
-$0-2: deat [20]
-BL-5
-Test Sports
-k a”
-—
-Result
-oP. Write a java code that creates validate( ) method which takes age( integer value
-SO-1 > as a parameter). If the age is less than 18, throw the Arithmetic Exception [20]
-otherwise print a message welcome to the System.
-BL-3
-Q6 Create a class ‘student’ having data members: name of the student, roll no of the
-CO-2; SO- student and division. Derive a class test from student having data members: [20]
-i marks of 3 subjects, total marks, average marks. Create a class result and check
-L BL-2 whether the student is passed or failed. Provide constructors, read () and display
---- page 3 ---
-() methods in all classes. Create object of class result author and display all the
-details with status pass or fail. oe
-
-Write a Program to Implement a Library Management System.
-
-This system should consist of three classes: Book, Member, and Borrow.
-The Book class should have members such as bookld, title, and author.
-The Member class should have members like memberld, name, and email.
-
-Q7: Create an interface named LibraryServices that includes methods like
-
-CO-2.3: checkA vailability() and calculateFine()._ [20]
-SO-2- ° The Borrow class should inherit properties from both Book and Member classes
-
-BL- 5 and include additional members like borrowDate and returnDate.
-
-Implement LibraryServices in the Borrow class to check the availability of the
-book and calculate the fine based on the number of days a book has been
-borrowed.
-
-The fine calculation should consider factors like book demand and member type
-(e.g., student, faculty).
-````
 
 ## 2018-19 · Final + Re-Exam · Sem 6 · paper d1618afb56ef
 
@@ -1001,6 +873,7 @@ d. Composite state
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/OBJECT ORIENTED MODELING AND DESIGN/OBJECT ORIENTED ANALYSIS AND DESIGN B TECH (IT), BATCH 2015-16 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 05/05/2016
 - Text: ocr (2 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1100,7 +973,6 @@ Difficulties in Quality Assurance
 Mapping Object Model to database schema
 Facade Design Pattern
 
-Bie 6 eae oe kc Ce a a ke aa
 
 06
 
@@ -2226,6 +2098,105 @@ d) Homomorphism
 y x
 ````
 
+## 2012-13 · Exam not stated · Trim 4 · paper 3e364711e5ad
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM IV/OBJECT ORIENTED MODELING AND DESIGN/scan0002(16).pdf`
+- Printed on paper: max marks: 100; exam date: 27/10/2012
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+
+Programme: MCA Year: II Trimester: IV
+Academic Year : 2012-2013
+
+> f SVKm's
+( nmims Universi.
+
+Subject: OBJECT ORIENTED MODELING &DESIGN Marks: 100 ( tear *
+Time: 2.00p % 00pm
+
+Date: 27/10/2012 Duration: 3 hi
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Cover of the Answer Book, which is provided for their use.
+1. Attempt any 5 questions out of 7 questions.
+2. All questions carry equal marks.
+3. Answer to each new question to be started on a fresh page.
+4. Figure in brackets indicates full marks.
+5. Make your assumptions where ever required.
+
+Q.1(a) Explain Object Oriented Design Axioms and Corollaries. Explain relation [10]
+between them. ‘
+
+Q.1(b) Draw class diagram for the below case study [10]
+
+Case Study- Computer Hardware store
+
+A computer hardware store wants to acquire an automated tool for order
+processing. An order may be placed by a registered Customer. A given customer
+may place a number of orders. An order consists of a number of items in the
+stock. The system should keep track of the stock level of each item. The order is
+either pending or serviced. The first strategy is that an order is serviced only if the
+stock level meets the request. An invoice is made at the time of servicing the
+order. The second strategy is that an invoice is based on the current item prices
+(the time when the order is being serviced).
+
+An order may be deleted or edited before being serviced. An order must include
+i at least one item (No null order). A given item may not be selected more than
+} once on the same order.
+
+A valid order must consist of at least one item. The desired quantity of a placed
+item must not be null. An order is serviced when the customer is ready to pay the
+integral part of the amount of a given order. The order can only be serviced if the
+number of units of each item ordered is in stock. The: customer can pay by cash,
+or credit card. The credit card must be under the name of the customer. The
+validity of the credit card must exceed at least two weeks the current date of the
+order servicing. The credit level must exceed the amount due of the order.
+
+’ mo) 2(a) Explain Rum Baugh object modeling technique for Object Oriented System [08]
+) Development
+Q.2(b) Draw a context level, 1 level and 2"™ level use case diagram for case study given [12]
+
+in question | (b).
+
+Q.3(a) Explain object oriented SDLC and compare it with traditional approaches [10]
+Q.3(b) Draw an Activity Diagram for Online Air Ticket Booking. State your [10]
+assumptions.
+
+fo
+--- page 2 ---
+Q. 4 (a) Explain the macro and micro processes of view layer design. [10]
+Q.4(b) Draw sequence diagram for purchase and billing use case for case study given in [10]
+question | (b). Distinguish between sequence and collaboration diagram.
+
+Q.5 (a) Explain concurrency policy with respect to database organization and access [10]
+control. Explain client server computing and how it is different from distributed
+computing.
+
+Q.5(b) Explain Implementation Diagram with example. {10]
+Q.6(a) Explain dynamic modeling with reference to state, events, conditions, activity [10]
+and action. Draw state diagram of Order instance for case study given in question
+
+1(b). ,
+Q.6(b) Explain OODBMS and client server computing. [10]
+Q.7(a) Explain following terms using diagram notation and example [10]
+
+1. Composite association between classes
+2. Include Use Case
+3. Use case Generalization
+4. Association class.
+Q.7(b) Explain Object Oriented Design Process. Explain patterns and how it is different, [10]
+
+from framework.
+
+jp.
+````
+
 ## 2012-13 · Re-Exam · Trim 4 · paper b25a5b78098b
 
 - Departments: Computer Applications (MCA)
@@ -2663,103 +2634,4 @@ ALL THE BEST-----
 —_—_——_.
 
 KO
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 3e364711e5ad
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM IV/OBJECT ORIENTED MODELING AND DESIGN/scan0002(16).pdf`
-- Printed on paper: max marks: 100; exam date: 27/10/2012
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-
-Programme: MCA Year: II Trimester: IV
-Academic Year : 2012-2013
-
-> f SVKm's
-( nmims Universi.
-
-Subject: OBJECT ORIENTED MODELING &DESIGN Marks: 100 ( tear *
-Time: 2.00p % 00pm
-
-Date: 27/10/2012 Duration: 3 hi
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Cover of the Answer Book, which is provided for their use.
-1. Attempt any 5 questions out of 7 questions.
-2. All questions carry equal marks.
-3. Answer to each new question to be started on a fresh page.
-4. Figure in brackets indicates full marks.
-5. Make your assumptions where ever required.
-
-Q.1(a) Explain Object Oriented Design Axioms and Corollaries. Explain relation [10]
-between them. ‘
-
-Q.1(b) Draw class diagram for the below case study [10]
-
-Case Study- Computer Hardware store
-
-A computer hardware store wants to acquire an automated tool for order
-processing. An order may be placed by a registered Customer. A given customer
-may place a number of orders. An order consists of a number of items in the
-stock. The system should keep track of the stock level of each item. The order is
-either pending or serviced. The first strategy is that an order is serviced only if the
-stock level meets the request. An invoice is made at the time of servicing the
-order. The second strategy is that an invoice is based on the current item prices
-(the time when the order is being serviced).
-
-An order may be deleted or edited before being serviced. An order must include
-i at least one item (No null order). A given item may not be selected more than
-} once on the same order.
-
-A valid order must consist of at least one item. The desired quantity of a placed
-item must not be null. An order is serviced when the customer is ready to pay the
-integral part of the amount of a given order. The order can only be serviced if the
-number of units of each item ordered is in stock. The: customer can pay by cash,
-or credit card. The credit card must be under the name of the customer. The
-validity of the credit card must exceed at least two weeks the current date of the
-order servicing. The credit level must exceed the amount due of the order.
-
-’ mo) 2(a) Explain Rum Baugh object modeling technique for Object Oriented System [08]
-) Development
-Q.2(b) Draw a context level, 1 level and 2"™ level use case diagram for case study given [12]
-
-in question | (b).
-
-Q.3(a) Explain object oriented SDLC and compare it with traditional approaches [10]
-Q.3(b) Draw an Activity Diagram for Online Air Ticket Booking. State your [10]
-assumptions.
-
-fo
---- page 2 ---
-Q. 4 (a) Explain the macro and micro processes of view layer design. [10]
-Q.4(b) Draw sequence diagram for purchase and billing use case for case study given in [10]
-question | (b). Distinguish between sequence and collaboration diagram.
-
-Q.5 (a) Explain concurrency policy with respect to database organization and access [10]
-control. Explain client server computing and how it is different from distributed
-computing.
-
-Q.5(b) Explain Implementation Diagram with example. {10]
-Q.6(a) Explain dynamic modeling with reference to state, events, conditions, activity [10]
-and action. Draw state diagram of Order instance for case study given in question
-
-1(b). ,
-Q.6(b) Explain OODBMS and client server computing. [10]
-Q.7(a) Explain following terms using diagram notation and example [10]
-
-1. Composite association between classes
-2. Include Use Case
-3. Use case Generalization
-4. Association class.
-Q.7(b) Explain Object Oriented Design Process. Explain patterns and how it is different, [10]
-
-from framework.
-
-jp.
 ````

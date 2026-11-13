@@ -1,8 +1,61 @@
 # Advance Operating Systems: question papers in full
 
-5 unique papers · 2011-12 to 2012-13 · Information Technology
+5 unique papers · 2010-11 to 2012-13 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2012-13 · Final-Exam · Trim 6 · paper 021dd9b9237c
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/ADVANCE OPERATING SYSTMES/Advanced Operating System Final 23.pdf`
+- Printed on paper: exam date: 9/5/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technolorn Management & Engineering;
+Programme: M8A (TECH)-I.T.   Year:   I1   Trimester:   - Vl
+Academic Year : 2012-2013
+Subject:   Advanced Operating System
+Date:   9/5/2013
+Final - Examination
+1
+Instr .uctions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for the use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. In all FIVE questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question should be started on a fi-esh page.
+6. Figure in brackets indicate full marks.
+a) Explain different architectures of Multiprocessor system.   (10)
+b) Discuss goal and different types of distributed operating system.   (10)
+Q2.
+a) Explain the working of centralized deadlock detection algorithm.   .(I 0)
+b) Explain the working of distributed mutual exclusion algorithm.   (1 0)
+-   -   - - --
+a) Explain event ordering in distributed environment.
+e
+b) Compare the following:
+.i) Distributed operating system and network operating system
+ii) Monolithic System structures and Layered System structures
+--- page 2 ---
+a) What is Transparency? Explain it's various types.   (10)
+b) Explain the need, features and different types of real time systems.   (10)
+Q5.
+a) State different real time CPU scheduling algorithms. Explain any one algorithm in detail. (10)
+b) Explain how multicomputer system handles load balancing with suitable algorithm.   (10)
+Q6.
+a) What are the issues in client server binding? Explain how these issues are handled
+b) Explain atomicity in detail.   (10.)
+Q7.
+a) Explain deadlock avoidance algorithm with an example.   (10) .
+b) Write short note on the following:   (10)
+i) System calls
+ii) Linux Operating Systems
+````
 
 ## 2012-13 · Re-Exam · Trim 6 · paper 42d7eb69fb9b
 
@@ -309,7 +362,7 @@ i
 20(4*5)
 ````
 
-## Year not stated · Exam not stated · Trim 6 · paper 4001d9451ab7
+## 2010-11 · Exam not stated · Trim 6 · paper 4001d9451ab7
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
@@ -421,57 +474,4 @@ Write short note on: (10)
 i) Linux operating system.
 
 ii) Event ordering in Distributed environment.
-````
-
-## Year not stated · Final-Exam · Trim 6 · paper 021dd9b9237c
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/ADVANCE OPERATING SYSTMES/Advanced Operating System Final 23.pdf`
-- Printed on paper: exam date: 9/5/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technolorn Management & Engineering;
-Programme: M8A (TECH)-I.T.   Year:   I1   Trimester:   - Vl
-Academic Year : 2012-2013
-Subject:   Advanced Operating System
-Date:   9/5/2013
-Final - Examination
-1
-Instr .uctions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for the use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. In all FIVE questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question should be started on a fi-esh page.
-6. Figure in brackets indicate full marks.
-a) Explain different architectures of Multiprocessor system.   (10)
-b) Discuss goal and different types of distributed operating system.   (10)
-Q2.
-a) Explain the working of centralized deadlock detection algorithm.   .(I 0)
-b) Explain the working of distributed mutual exclusion algorithm.   (1 0)
--   -   - - --
-a) Explain event ordering in distributed environment.
-e
-b) Compare the following:
-.i) Distributed operating system and network operating system
-ii) Monolithic System structures and Layered System structures
---- page 2 ---
-a) What is Transparency? Explain it's various types.   (10)
-b) Explain the need, features and different types of real time systems.   (10)
-Q5.
-a) State different real time CPU scheduling algorithms. Explain any one algorithm in detail. (10)
-b) Explain how multicomputer system handles load balancing with suitable algorithm.   (10)
-Q6.
-a) What are the issues in client server binding? Explain how these issues are handled
-b) Explain atomicity in detail.   (10.)
-Q7.
-a) Explain deadlock avoidance algorithm with an example.   (10) .
-b) Write short note on the following:   (10)
-i) System calls
-ii) Linux Operating Systems
 ````

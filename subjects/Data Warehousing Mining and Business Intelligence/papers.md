@@ -1,8 +1,135 @@
 # Data Warehousing Mining and Business Intelligence: question papers in full
 
-7 unique papers · 2007-08 to 2011-12 · Information Technology
+7 unique papers · 2007-08 to 2012-13 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2012-13 · Exam not stated · Trim 10 · paper 7f767e9d9ef0
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/TRIM X/DATA WAREHOUSING MINING AND BUSINESS IN_9dade3f3/scan0024(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/09/2012
+- Text: ocr (2 pages), mean OCR confidence 88.1
+
+````text
+A 2 SVKM’s NMIMS
+
+‘ukesh Patel School Of Technology Management & Engineering
+
+Programm MBA(Tech)-I.T. /COMP Year: IV Trimester: X
+Academic Year : 2012-2013
+
+Subject: DATA WAREHOUSING & MINING Marks: 100
+Time: 2.00pm To 5.
+Date: 27/09/2012 Duration: 3 hrs.
+Final - Examination % &
+~
+Instructions: Candidates should read carefully the instructions printed on the que Go,parer : and, ZS
+on the cover of the Answer Book, which is provided for use. MAN AGENEN
+
+1. Question No.1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question should be started on a fresh page.
+
+Q.ja. What is the importance of creating Information Package? Give an example of [10]
+Information Package for restaurant billing.
+
+Q.1b. Giving the following database with 5 transactions and a minimum support [10]
+threshold of 60% and a minimum confidence threshold of 80%, find all
+frequent itemsets using Apriori Algorithm. List any two association rules.
+
+TID | Items
+
+Tl rice, dal, sugar, bread, jam, tea
+T2 jam, dal, rice, bread, sugar
+
+T3 dal, milk, tea, sugar, rice, bread
+T4 sugar, tea, juice, bread
+
+TS juice, bread, jam
+
+Q.}a. Define data warehouse with features? Explain the different components ofa [10]
+data warehouse with suitable block diagram?
+Q.2b. Show the dendrogram created by the single, complete and average link [10]
+
+clustering algorithms using the following adjacency matrix.
+Item |A|B/|C|D
+A 0|1/41/5
+
+®
+
+B 1|0{[2 |6
+
+Cc 4}2/0}3
+
+’ | D 5 |6|3 {0
+Q.3a. Fxglain Type 1, Type 2 & Type 3 slowly changing dimensions. [10]
+
+Q.3b. Suppose the data for clustering is {2, 4, 10, 12, 3, 20, 11, 25}. Consider K=2 & [10]
+K=3 then cluster the given data using K-Means algorithm assuming the first 2
+
+and 3 means,
+Q.4a. Explain the techniques of data extraction & explain five transformation tasks. [10]
+Q.4b. Given the database with 9 records build a decision tree using ID3 algorithm [10]
+
+and classify the new record {Adam, Male, 1.97 m}.
+Consider the height ranges for calculations (0,1.6] , (1.6,1.7] , (1.7,1.8], (1.8,
+
+Page | of 2
+--- page 2 ---
+me ST
+
+1.9] , (1.9,2.0],, (2.0,infinity).
+
+Person ID | Name Gender _ | Height | Class
+1 Kristina Female | 1.6m Short
+12 Jim Male 2m Tall
+13 Maggie Female [1.9m | Medium
+4 Martha | Female =| 2.1m Tall
+5 Stephanie | Female | 1.7m Short
+6 Bob Male 1.85m__| Medium
+7 Kathy Female | 1.6m Short
+8 Dave Male 1.7m Short
+9 Warren Male 2.2m Tall
+
+Q.5a. Give features of dimension table & fact table. Why is a dimension table wide [10]
+and fact table deep?
+
+Q.5b. Explain Information Package with an example. How is Requirements Gathering [10]
+of DW different from OLTP systems?
+
+Q.6a Explain top-down & bottom-up approach for building a Data Warehouse. [10]
+Q.6b. Given the following database with 5 transactions generate a FP growth Tree. [10]
+Minimum support threshold of 60% and a minimum confidence threshold of
+80%, find all frequent item sets using FP growth Algorithm. List all strong
+
+association rules.
+
+TID | Items
+Tl T, 0,8, T,E,R
+T2 TO; YsS:1,O;R5 ¥
+T3 A, N,1,M, A, L
+T4 C,A,R,A,M,E,L
+£5 8, W, E, A, T, E,R
+
+Q.7. Write short notes on : (ANY FOUR) [20]
+
+a. Factless Fact Table.
+}b. DBSCAN Algorithm
+c. Data warehouse vs Data Mart
+d. Interestingness measures used for data mining.
+e. Snowflake vs Star Schema
+f. OLTP vs OLAP.
+
+r ) Page 2 of 2
+````
 
 ## 2011-12 · Exam not stated · Trim 10 · paper fc8dc5009142
 
@@ -469,131 +596,4 @@ c) STAR schema keys
 d) SnapShot and Transaction Tables
 
 x
-````
-
-## Year not stated · Exam not stated · Trim 10 · paper 7f767e9d9ef0
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/TRIM X/DATA WAREHOUSING MINING AND BUSINESS IN_9dade3f3/scan0024(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/09/2012
-- Text: ocr (2 pages), mean OCR confidence 88.1
-
-````text
-A 2 SVKM’s NMIMS
-
-‘ukesh Patel School Of Technology Management & Engineering
-
-Programm MBA(Tech)-I.T. /COMP Year: IV Trimester: X
-Academic Year : 2012-2013
-
-Subject: DATA WAREHOUSING & MINING Marks: 100
-Time: 2.00pm To 5.
-Date: 27/09/2012 Duration: 3 hrs.
-Final - Examination % &
-~
-Instructions: Candidates should read carefully the instructions printed on the que Go,parer : and, ZS
-on the cover of the Answer Book, which is provided for use. MAN AGENEN
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question should be started on a fresh page.
-
-Q.ja. What is the importance of creating Information Package? Give an example of [10]
-Information Package for restaurant billing.
-
-Q.1b. Giving the following database with 5 transactions and a minimum support [10]
-threshold of 60% and a minimum confidence threshold of 80%, find all
-frequent itemsets using Apriori Algorithm. List any two association rules.
-
-TID | Items
-
-Tl rice, dal, sugar, bread, jam, tea
-T2 jam, dal, rice, bread, sugar
-
-T3 dal, milk, tea, sugar, rice, bread
-T4 sugar, tea, juice, bread
-
-TS juice, bread, jam
-
-Q.}a. Define data warehouse with features? Explain the different components ofa [10]
-data warehouse with suitable block diagram?
-Q.2b. Show the dendrogram created by the single, complete and average link [10]
-
-clustering algorithms using the following adjacency matrix.
-Item |A|B/|C|D
-A 0|1/41/5
-
-®
-
-B 1|0{[2 |6
-
-Cc 4}2/0}3
-
-’ | D 5 |6|3 {0
-Q.3a. Fxglain Type 1, Type 2 & Type 3 slowly changing dimensions. [10]
-
-Q.3b. Suppose the data for clustering is {2, 4, 10, 12, 3, 20, 11, 25}. Consider K=2 & [10]
-K=3 then cluster the given data using K-Means algorithm assuming the first 2
-
-and 3 means,
-Q.4a. Explain the techniques of data extraction & explain five transformation tasks. [10]
-Q.4b. Given the database with 9 records build a decision tree using ID3 algorithm [10]
-
-and classify the new record {Adam, Male, 1.97 m}.
-Consider the height ranges for calculations (0,1.6] , (1.6,1.7] , (1.7,1.8], (1.8,
-
-Page | of 2
---- page 2 ---
-me ST
-
-1.9] , (1.9,2.0],, (2.0,infinity).
-
-Person ID | Name Gender _ | Height | Class
-1 Kristina Female | 1.6m Short
-12 Jim Male 2m Tall
-13 Maggie Female [1.9m | Medium
-4 Martha | Female =| 2.1m Tall
-5 Stephanie | Female | 1.7m Short
-6 Bob Male 1.85m__| Medium
-7 Kathy Female | 1.6m Short
-8 Dave Male 1.7m Short
-9 Warren Male 2.2m Tall
-
-Q.5a. Give features of dimension table & fact table. Why is a dimension table wide [10]
-and fact table deep?
-
-Q.5b. Explain Information Package with an example. How is Requirements Gathering [10]
-of DW different from OLTP systems?
-
-Q.6a Explain top-down & bottom-up approach for building a Data Warehouse. [10]
-Q.6b. Given the following database with 5 transactions generate a FP growth Tree. [10]
-Minimum support threshold of 60% and a minimum confidence threshold of
-80%, find all frequent item sets using FP growth Algorithm. List all strong
-
-association rules.
-
-TID | Items
-Tl T, 0,8, T,E,R
-T2 TO; YsS:1,O;R5 ¥
-T3 A, N,1,M, A, L
-T4 C,A,R,A,M,E,L
-£5 8, W, E, A, T, E,R
-
-Q.7. Write short notes on : (ANY FOUR) [20]
-
-a. Factless Fact Table.
-}b. DBSCAN Algorithm
-c. Data warehouse vs Data Mart
-d. Interestingness measures used for data mining.
-e. Snowflake vs Star Schema
-f. OLTP vs OLAP.
-
-r ) Page 2 of 2
 ````

@@ -14,12 +14,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Computer 7032, Integrated IT 7037, Integrated Mechanical 7031 | ANS_Data Analytics(702DB0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Data Analytics(702DB0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Dataset | Sem 10 | Integrated Computer 7032 | data_set_Data Analytics(702DB0I001)_2025-2026.xlsx |
 | 2025-26 | Final-Exam | Question paper |  | B.TECH INTEGRATED | Data Analytics 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | Integrated Computer 7032, Integrated IT 7037, Integrated Mechanical 7031 | QP_Data Analytics(702DB0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Computer 7032 | QP_Data Analytics(702DB0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Computer 7032, Integrated IT 7037, Integrated Mechanical 7031 | ANS_Data Analytics(702DB0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Data Analytics(702DB0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Dataset | Sem 10 | Integrated Computer 7032 | data_set_Data Analytics(702DB0I001)_2025-2026.xlsx |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH, B.TECH INTEGRATED, MBA TECH | Data Analytics Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED, MBA TECH | Data Analytics Batch 2024-25 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Data Analytics, 3rd Year, Sem V, Year 2022-23, Final Exam.pdf |

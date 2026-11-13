@@ -1,6 +1,6 @@
 # Control Systems II: question papers in full
 
-2 unique papers · 2018-19 to 2018-19 · Electrical
+2 unique papers · 2017-18 to 2018-19 · Electrical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRICAL/SEM VI/CONTROL SYSTEMS II/Control systems-II , Final 2018-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 20 April 2019
 - Text: ocr (3 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -113,7 +114,6 @@ Find the close loop transfer function T(z) =
 (2) for the following system:
 Zz
 
-Om] Gus) bY Gals) O- Gals) COS),
 
 Ai(s) }=-O
 
@@ -154,7 +154,7 @@ Page 3 of 3
 05
 ````
 
-## Year not stated · Final-Exam · Sem 6 · paper 5d0b716a7ad7
+## 2017-18 · Final-Exam · Sem 6 · paper 5d0b716a7ad7
 
 - Departments: Electrical
 - Programmes: B TECH / ELECTRICAL

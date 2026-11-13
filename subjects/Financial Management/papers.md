@@ -1358,6 +1358,138 @@ FRR 0 a kk
 .
 ````
 
+## 2025-26 · Re-Exam · Sem 8 · paper ab5fa9188d5e
+
+- Departments: Mechanical
+- Programmes: MBATech(MECHANICAL ENGINEERING) - 7046
+- Source: `02_Question_Papers/2023/Sem_08/Re-Exam/MBATech(MECHANICAL ENGINEERING) - 7046/Financial Management/QP_Financial Management(703TF0C003)_2023-2024.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 02 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (Comp)/MBA Tech (Mech)
+Year: IV/Sem 8 Re-exam/Semester VIII(Exam Year: 2025-2026)
+Subject: Financial Management
+Date: 02 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2023-2024)
+Instructions:
+1. This question paper contains 3 pages.
+2. This question paper contains 1 pages.
+3. Question 1 is Compulsory.
+4. From remaining questions, attempt any four.
+5. In all five questions to be attempted.
+6. Figure in right hand side indicates full marks
+7. Answer to each new question to be started on a fresh page.
+8. All questions carry equal marks.
+9. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-2;   Mr. Sharma invests ₹20,000 per month in a systematic savings
+a.
+SO- ;   plan that offers 1.2% monthly interest compounded monthly. What   [2.5]
+BL- Apply   will be the value of his investment after 8 years?
+ABC Ltd. is considering a project that requires an initial
+investment of $120,000 that will generate annual cash flows after
+CO- 2; SO- ;   b.
+taxes of $40,000; $38,000; $42,000 and $35,000 respectively.   [2.5]
+BL-Apply
+Suggest whether the company should invest in this project if the
+cutoff period is 3 years.
+CO- 1; SO- ;
+c. Cost of capital is considered an important basis for evaluating
+BL-   [2.5]
+capital investment decisions. Explain and justify this statement.
+Understand
+CO- 1; SO- ;
+d. What do you mean by Financing decisions in Financial
+BL-   [2.5]
+Management?
+Understand
+Q2   Answer the following:   [10]
+Ms. Neha is planning for a steady annual income and expects a
+return of 7%. How much should she invest for each of the
+CO-2 ; SO- ;
+following alternatives? Which alternative should she choose?   [05]
+BL- Apply   a
+i. Earn ₹12,000 at the end of each year for the next 12 years
+ii. Earn ₹6,000 at the end of each year for the next 22 years
+CO-1 ; SO- ;
+Explain the role and importance of financial markets in an
+BL-   b   [05]
+economy.
+Understand
+********** 1 **********
+--- page 2 ---
+Kavya Industries is evaluating a project for manufacturing a new
+product. The machinery required will cost ₹1,80,000 with a life of
+3 years and a salvage value of ₹15,000. Additional working capital
+requirement is ₹40,000.
+Q3   The selling price per unit is ₹10 and variable cost per unit is ₹5.
+CO-3; SO-;   Annual fixed cost will be ₹70,000.   [10]
+BL- Analyse   Expected demand is 60,000 units, 58,000 units, and 55,000 units
+over the next three years. The firm falls under a 35% tax bracket.
+If the cost of capital is 16% and depreciation is charged using the
+straight-line method, should the project be accepted as per NPV
+method?
+PQR Ltd. has the following book value capital structure:
+Particulars   ₹ in crore
+Equity share capital (₹10 each, fully paid)   100
+13% Preference share capital (₹100 each)   20
+10.5% Debentures (₹100 each)   40
+Q4   12% Term Loan   15
+CO-2; SO-;   The expected dividend per equity share next year is ₹5.50, growing   [10]
+BL- Apply   at 9% annually. The current market price per share is ₹70. The
+corporate tax rate is 35%.
+Preference shares, redeemable after 12 years, are selling at ₹102,
+and debentures, redeemable after 7 years, are selling at ₹98.
+Compute the weighted average cost of capital using:
+(a) Book value proportions (b) Market value proportions
+Following data of Alpha Industries Ltd. and Beta Industries Ltd.
+is available to you:
+Selling Price = ₹120 per unit
+Variable Cost = 65% of sales
+Fixed Cost = ₹6,00,000
+a. Prepare the Operating Income Statement of Alpha Industries
+Ltd. and Beta Industries Ltd.
+Q5   b. Calculate the Operating Leverage if Alpha Industries Ltd. and
+CO-3; SO-;   Beta Industries Ltd. produce and sell 18,000 units and 22,000   [10]
+BL- Analyse   units respectively
+c. If sales increase by 6%, what would be the percentage change
+in EBIT?
+d. Gamma Ltd. is planning to acquire one of the above
+companies. Which one would you recommend if Gamma Ltd.
+prefers high risk and high returns? Justify your answer.
+********** 2 **********
+--- page 3 ---
+Nova Limited is planning to consider raising a Capital of Rs.
+25,00,000.
+Different Financing Plans and relevant information is as below:
+Financing Plan   Equity (%)   Debt (%)   Preference (%)
+A   40%   60%   -
+Q6   B   30%   40%   30%
+CO-2; SO-;   [10]
+BL- Apply
+C   20%   50%   30%
+• Cost of debt is 9%
+• Cost of Preference share is 12%
+• Tax rate 30%
+• Face value of Equity share is Rs. 100 per share
+• Expected EBIT 8,00,000
+Suggest which financial Plan should be chosen by the Nova
+Limited
+Ganga Ltd. has an investment of ₹25 crore divided into 25 lakh
+ordinary shares. The equity capitalization rate is 11%. Determine
+Q7
+the optimum dividend payout policy of the company using
+CO-2; SO-;   [10]
+Gordon’s Model if rate of return on investment is 18%
+BL- Apply
+Write a note on Gordon’s Model
+********** 3 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 7 · paper 9d27efbe1308
 
 - Departments: Computer Science and Business Systems
@@ -2348,6 +2480,286 @@ SO-;   long-term financing for a company.   [05]
 BL-
 Remember
 ********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 8 · paper 1e0f2d19287a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management, Sem-VIII, Batch 2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (5 pages), mean OCR confidence 90.5
+
+````text
+va SVKMs NMIMS
+
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-
+
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA
+Tech (EXTC)/MBA Tech (IT)/MBA Tech (Mech)
+Year: [V/Semester VIII(Exam Year: 2025-26 )
+Subject: Financial Management
+
+Date: 2.9 Sune 2026 Time: 2:00pm to 5:00pm C2 H48.
+Max. Marks: 100
+
+RE EXAMINATION (Acad. Year:2024-2025)
+
+Instructions:
+
+1. This question paper contains 5 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question No.1 is compulsory.
+
+5. Out of the remaining questions, attempt any 4 questions.
+
+6. All questions carry equal marks.
+
+C Q.1 a. | The following data relates to two companies, A and B: - [05]
+Co -2 Particulars Company A (2%) | Company B (2)
+BL - Sales 12,00,000 12,00,000
+Apply Variable Cost | 7,20,000 9,00,000
+Fixed Cost 3,00,000 1,20,000
+Required: ;
+a) Calculate the Degree of Operating Leverage (DOL) for both
+companies.
+
+b) Identify which company has higher business risk and justify
+your answer.
+
+Q.1 b. | A father promises to give his child a certain amount of money for [05]
+CoO-2 5 years, to support education expenses. The payments are planned
+BL- / as follows:
+i Apply Year Amount (2)
+0 1,00,000
+~ 1 | 1,20,000
+2 1,40,000
+ra 3 1,60,000
+4 1,80,000
+Assuming a discount rate of 10% per annum, determine the
+| present value of these payments.
+| Q.1 c. | A company plans to raise additional capital of 712,00,000 for [05]
+CoO -2 expansion. It is considering the following financing alternatives:
+BL- Apply e Plan A: Issue equity shares of 710 each
+e Plan B: Raise entire =12,00,000 through 12% preference
+shares
+--- page 2 ---
+The company currently has 60,000 equity ‘shares outstanding and
+no existing debt. ,
+
+The expansion is expected to generate total EBIT of %4,809000. 8
+Corporate tax rate = 25% A i,
+Required:
+
+a) Calculate EPS under both plans
+b) Recommend the better plan based on EPS
+
+Q.1 d. | Explain fund-based and non-fund-based services of banks with [05]
+CcCoO-1 suitable examples.
+
+BL-
+Remember
+Q.2 Two companies, Alpha Ltd. and Beta Ltd., are planning to [20]
+co -3 evaluate their cost of capital for investment decisions. The
+BL Apply following are the sources of capital (book values) of both
+companies:
+
+Sources of Capital (2)
+Particulars Alpha Ltd. (2) | Beta Ltd. (2)
+Equity Share Capital | 12,00,000 10,00,000
+“Retained Earnings | 4,00,000 6,00,000
+10% Debentures 4,00,000 4,00,000
+Total Capital .| 20,00,000 20,00,000
+
+Additional Information: .
+
+1. The cost of equity is to be calculated using the Security
+Market Line (SML) approach.
+The risk-free rate is 6%, and the expected market return is
+14%. The beta (8) of Alpha Ltd. is 1.2, while that of Beta
+Ltd. is 0.9.
+
+2. The debentures of both companies carry an interest rate of
+10% and are redeemable after 5 years at par. The current
+market price of debentures is 95 for Alpha Ltd. and 298
+
+for Beta Ltd.
+3. The corporate tax rate applicable to both companies is
+i 30%.
+Required:
+
+Calculate the Weighted Average Cost of Capital (WACC)
+for both companies using book value weights
+and state which company has a better WACC.
+
+Q3 I XYZ Ltd. is evaluating two mutually exclusive projects, Project A [20]
+CO -2,3 and Project B, each having a useful life of five years. The company
+BL can undertake only one of the two projects due to limited financial
+Analyze resources. Project A requires an initial investment of %12,00,000,
+f whereas Project B requires an initial investment of 215,00,000.
+
+Both projects also require an investment in working capital of
+--- page 3 ---
+~—
+
+oN
+
+%2,00,000 at the beginning, which will be fully recovered at the end
+of the fifth year.
+
+The machines under both projects are expected to have a salwage
+value of %2,00,000 (Project A) and 2,50,000 (Project B) at the end
+of five years. Depreciation is to be charged using the Straight Line
+Method over five years. The estimated earnings before
+depreciation and tax (EBDT) for both projects vary over time. The
+corporate tax rate is 30%, and the cost of capital is 12%.
+
+The expected annual cash inflows (before depreciation and tax) are
+as follows:
+
+Cash Inflows (Before Depreciation and Tax)
+
+Year | Project A (2) | Project B (@)
+
+i 4,00,000 5,00,000
+2 4,50,000 5,50,000
+3 5,00,000 4,50,000
+4 4,00,000 4,00,000
+
+P 3,50,000° 3,50,000
+
+Which project should be selected based on the NPV criterion?
+
+Q.4
+co-4
+BL Apply
+
+A manufacturing company provides the following cost details per
+unit:
+
+“Particulars Amount per unit (2)
+Raw Material 120
+Direct Labour 50
+
+Production Overheads | 90 (%20 is depreciation)
+
+Total Cost 260
+Profit 40
+Selling Price 300
+
+The company plans to produce and sell 1,80,000 units per annum.
+Production is carried out evenly throughout the year.
+
+“| Additional Information (in weeks):
+
+e Raw materials are held in stock for 6 weeks
+
+e Work-in-progress remains in process for 4 weeks, with:
+o 100% material
+o 70% labour and overheads completion
+
+e Finished goods are held for 2 weeks
+
+¢ Credit allowed by suppliers: 6 weeks
+
+* Credit allowed to debtors: 4 weeks
+
+¢ 30% of sales are on cash basis, remaining on credit
+
+e Time lag in payment of wages: 3 weeks
+
+e Time lag in payment of overheads: 5 weeks
+
+[20]
+--- page 4 ---
+e Desired cash balance = 6,00,000
+e Assume 52 weeks in a year
+
+Lad e
+Requirement:
+Prepare a statement of working capital requirement
+Q.5 a. The capital structure of PQR Ltd. is as follows: : [12]
+CO-2,4 Particulars | Amount (2 Lakhs)
+BL Equity Share Capital (10 each) 50
+Analyze 12% Preference Shares 20
+9% Debentures 30
+Total Capital 100
+Expansion Plan
+The company plans to raise 780 Lakhs for a new project.
+Financing Options ~
+
+Plan X (Rights Issue):
+Equity shares are issued to existing shareholders at %16 per share.
+Plan Y (Debt Financing): ,
+Entire amount is raised through 10% debentures.
+Plan Z (Balanced Plan): :
+e 50% through equity shares at %20 per share
+e 50% through 11% debentures
+
+Additional Information
+
+The present EBIT of the company is =10,00,000, and it is
+expected to increase to =16,00,000 after expansion. The tax rate
+applicable to the company is 25%. Calculate the Earnings Per
+Share (EPS) for an EBIT of 216,00,000 under all the proposed
+financial plans and suggest the plan that should be adopted.
+
+Q.5 b. A company has the following details: [08]
+CoO -2 e Earnings per share (EPS) = 210 | 2)
+BL Apply ¢ Cost of equity (ke) = 12%
+
+e Number of shares outstanding = 1,00,000
+
+e Market price per share (Po) = %80
+
+e Total investment requirement (I) = =10,00,000
+The company is considering paying a dividend of %4 per share.
+Calculate the value of the firm under the MM dividend
+irrelevance approach, if the relevant assumptions hold, in the
+following cases:
+(i) when dividend is paid, and
+(ii) when dividend is not paid.”
+Also comment on yoursanswer.
+
+Q.6 a. Managers may not always act in the best interest of shareholders. [10]
+CcoO-1 Explain this statement and suggest measures to reduce such
+
+BL conflicts.
+Remember :
+--- page 5 ---
+>
+
+Q.6 b.
+
+What are the motives for holding cash? Illustrate your answer [10]
+Cco-1 with reference to Tata Consultancy Services and discuss how
+BL effective cash management improves financial efficiency
+Remember P
+Q.7a PQR Ltd. has annual credit sales of 36,00,000. The selling price [12]
+Co -3 per unit is 715, and the variable cost is 60% of the selling price.
+BL The company requires a rate of return of 20% on investment in
+Remember receivables. ;
+The firm currently incurs an annual collection cost of 80,000,
+and the percentage of bad debts is 4%. The average collection
+period is 3 months.
+The company is considering revising its credit policy by adopting
+one of the following collection programs:
+Program A B |
+Average collection period (months) | 2.0 1.5
+“Annual collection expenditure (2) | 1,10,000 , 1,80,000
+Percentage of bad debts (%) 3 2
+Requirement:
+Evaluate the existing policy and the two proposed collection
+programs. Advise which program should be adopted. Show all
+necessary calculations. Assume 360 days in a year.
+Q.7b Many financially strong firms still choose to use debt in their [08]
+CoO-1 capital structure. Discuss the rationale behind this decision and
+BL evaluate the benefits and drawbacks of debt financing.
+Remember
 ````
 
 ## 2025-26 · Re-Exam · Sem 8 · paper de140af9b7a4
@@ -6501,284 +6913,361 @@ n 5.453 5.234 5.029 4.836 4.656 4.486 4.327 3.776 3.335 2.978 2.683 2.438
 30 7.003 6.566 6.177 5.829 5.517 5.235 4.979 4.160 3.569 3.124 2.778 2.500
 ````
 
-## 2024-25 · Re-Exam · Sem 8 · paper 1e0f2d19287a
+## 2024-25 · Re-Exam · Sem 8 · paper 0beada9ebfdc
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management, Sem-VIII, Batch 2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (5 pages), mean OCR confidence 90.5
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management , Re-exam 2022-23,2023-24.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 28/04/2025
+- Text: ocr (4 pages), mean OCR confidence 91.8
 
 ````text
-va SVKMs NMIMS
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
 
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-
+Program/s: MBA Tech Year: TV Semester: VIII
+Stream/s ; All Streams
 
-Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA
-Tech (EXTC)/MBA Tech (IT)/MBA Tech (Mech)
-Year: [V/Semester VIII(Exam Year: 2025-26 )
-Subject: Financial Management
+Subject: Financial Management Time: 2 hours (10 am to 12 noon)
+Date: 28/04/2025 ; No. of Pages: 04
 
-Date: 2.9 Sune 2026 Time: 2:00pm to 5:00pm C2 H48.
-Max. Marks: 100
+Marks: 50
 
-RE EXAMINATION (Acad. Year:2024-2025)
+Re-Examination 2022-23 & 2023-24
 
-Instructions:
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-1. This question paper contains 5 pages.
+1) Question No. _1____ is compulsory.
 
-2. Answer to each new question to be started on a fresh page.
+2) Out of remaining questions, attempt any__4 _ questions.
 
-3. Figure in right hand side indicates full marks
+3) In all__ 5_ questions to be attempted. = =
 
-4. Question No.1 is compulsory.
+4) All questions carry equal marks.
 
-5. Out of the remaining questions, attempt any 4 questions.
+5) Answer to each new question to be started on a fresh page. _
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
-6. All questions carry equal marks.
-
-C Q.1 a. | The following data relates to two companies, A and B: - [05]
-Co -2 Particulars Company A (2%) | Company B (2)
-BL - Sales 12,00,000 12,00,000
-Apply Variable Cost | 7,20,000 9,00,000
-Fixed Cost 3,00,000 1,20,000
-Required: ;
-a) Calculate the Degree of Operating Leverage (DOL) for both
-companies.
-
-b) Identify which company has higher business risk and justify
-your answer.
-
-Q.1 b. | A father promises to give his child a certain amount of money for [05]
-CoO-2 5 years, to support education expenses. The payments are planned
-BL- / as follows:
-i Apply Year Amount (2)
-0 1,00,000
-~ 1 | 1,20,000
-2 1,40,000
-ra 3 1,60,000
-4 1,80,000
-Assuming a discount rate of 10% per annum, determine the
-| present value of these payments.
-| Q.1 c. | A company plans to raise additional capital of 712,00,000 for [05]
-CoO -2 expansion. It is considering the following financing alternatives:
-BL- Apply e Plan A: Issue equity shares of 710 each
-e Plan B: Raise entire =12,00,000 through 12% preference
-shares
---- page 2 ---
-The company currently has 60,000 equity ‘shares outstanding and
-no existing debt. ,
-
-The expansion is expected to generate total EBIT of %4,809000. 8
-Corporate tax rate = 25% A i,
-Required:
-
-a) Calculate EPS under both plans
-b) Recommend the better plan based on EPS
-
-Q.1 d. | Explain fund-based and non-fund-based services of banks with [05]
-CcCoO-1 suitable examples.
-
+1 .
+: Answer briefly: [10]
+a. A person has two investment options:
+Option A: Invest %60,000 in a fixed deposit that offers an 8% interest rate,
+CO- 2; SO- compounded annually, for 4 years.
+: Option B: Invest %80,000 in a different scheme that offers 7% interest rate [03]
+BL- Apply compounded annually per year for 4 years.
+Which investment option is better based on the future value of money?
+CO-2;SO- | b. [04]
+; Write a note on Payback Period
+BL- Apply
+CO- 1; SO- | c. [03]
+> 7 How does Financial Management help in wealth maximization?
 BL-
-Remember
-Q.2 Two companies, Alpha Ltd. and Beta Ltd., are planning to [20]
-co -3 evaluate their cost of capital for investment decisions. The
-BL Apply following are the sources of capital (book values) of both
-companies:
+Understand
+Q2 You want to borrow Rs. 8,00,000 from a bank to purchase a car. The loan requires
+CO-2: 0 repayment in 5 equal annual instalments. The rate of interest offered by the bank is
+; ; 10.25% per annum. Calculate the annual instalment amount. 10
+BL- Apply mu
 
-Sources of Capital (2)
-Particulars Alpha Ltd. (2) | Beta Ltd. (2)
-Equity Share Capital | 12,00,000 10,00,000
-“Retained Earnings | 4,00,000 6,00,000
-10% Debentures 4,00,000 4,00,000
-Total Capital .| 20,00,000 20,00,000
+Page 1of4
+--- page 2 ---
+A company is considering two mutually exclusive investment projects, Project A
+and Project B. Both projects require an initial investment of Rs. 5,00,000. The
+company’s required rate of return is 10% per annum. The projected cash flows over
 
-Additional Information: .
+5 years are as follows:
 
-1. The cost of equity is to be calculated using the Security
-Market Line (SML) approach.
-The risk-free rate is 6%, and the expected market return is
-14%. The beta (8) of Alpha Ltd. is 1.2, while that of Beta
-Ltd. is 0.9.
+Q3 Year Project A (Rs.) Project B (Rs.)
+CO-3: $0- [1 |[1,50,000 |[1,00,000 |
+; 2 |[.40,000 |[1,20,000 |
+BL- B |[1,30,000 [1,50,000 |
+Analysis [4 |[1.20,000 |[1,60,000 | [10]
+[s |[1,10,000 |[2,00,000 ]
+Requirement:
+7 Evaluate and compare the two projects using the following capital budgeting
+techniques: : ;
+1. Net Present Value (NPV) — Assume a discount rate of 10%.
+2. Determine how long it takes for each project to recover the initial
+investment.
+Based on your analysis, recommend which project the company should undertake
+and justify your decision.
+Zenith Ltd. has the following book value capital structure:
+[Source of Capital [Amount (Rs. crores) |
+Q4 [Equity capital (Rs. 10 per share, fully paid) I 30 |
+CO- 2: SO- [10% Preference capital (Rs. 100 per share, fully paid) | 5 | [10]
+e [Retained earnings : I 50 ]
+BL- Apply [12% Debentures (Rs. 100 each) l 15
+[11% Term loans I 20 |
 
-2. The debentures of both companies carry an interest rate of
-10% and are redeemable after 5 years at par. The current
-market price of debentures is 95 for Alpha Ltd. and 298
+The next expected dividend on equity shares is Rs. 6 per share, with an expected
+growth rate of 7% per annum. The market price per equity share is Rs. 60.
 
-for Beta Ltd.
-3. The corporate tax rate applicable to both companies is
-i 30%.
+The preference shares, redeemable in 8 years, are currently selling for Rs. 85 per
+share.
+
+Debentures, redeemable after 6 years, are trading at Rs. 92 per debenture.
+
+The company’s corporate tax rate is 25%.
+
+Requirement:
+
+Compute the Weighted Average Cost of Capital (WACC) for Zenith Ltd. assuming
+
+market value weights.
+
+Page 2 of 4
+--- page 3 ---
+Colin Ltd. providés the following financial details:
+e Units produced and sold = 50,000
+e Selling price per unit = Rs. 15
+
+Q5 e Variable cost per unit = Rs. 5
+CO- 2: SO- e Fixed Cost = Rs. 1,00,000
+5 ¢ 8% Debentures = Rs. 1,50,000
+BL- Apply ¢ 10% Preference Share Capital = Rs. 1,50,000 [10]
+° Tax Rate = 30%
+Requirements:
+1. Prepare the Income Statement.
+2. Calculate Operating Leverage, Financial Leverage, and Combined
+- Leverage. 7
+Bluestone Ltd. is planning to expand its operations and requires Rs. 50 crore for
+this purpose. The company is evaluating two different capital structures for raising
+the required funds. The current capital structure of the company is as follows:
+Current Capital Structure:
+1. Equity Share Capital = Rs. 40 crore
+2. Retained Earnings = Rs. 10 crore
+Q6 3. 9% Debentures = Rs. 20 crore
+— 4. Tax Rate = 30% .
+BL- The company is considering two alternative financial plans for the additional capital [10]
+Analyse of Rs. 50 crore:
+
+Plan A (Conservative Approach):
+Raise Rs. 50 crore entirely through Equity
+Plan B (Aggressive Approach):
+
+a) Raise Rs. 25 crore through additional equity
+
+b) Raise Rs. 25 crore through additional 10% Debentures
+Expected EBIT after Expansion = Rs, 15 crore
+Calculate the EPS under both financial plans. Assume total profit is taxed at 30%.
+Assume equity cost (Ke) = 15% in both cases.
+
+Analyze and comment on which financial plan is better
+
+Page 3 of 4
+--- page 4 ---
+[10]
+
+Q7
+
+CO- 2; SO- A company has Earnings Per Share (EPS) of 28. It is capitalized at a rate of 12%,
+; and its rate of return on investment is 18%.
+
+BL- Apply
+
 Required:
 
-Calculate the Weighted Average Cost of Capital (WACC)
-for both companies using book value weights
-and state which company has a better WACC.
+1. According to Walter’s Model, what should be the price per share if the
+company follows a 40% dividend payout ratio?
 
-Q3 I XYZ Ltd. is evaluating two mutually exclusive projects, Project A [20]
-CO -2,3 and Project B, each having a useful life of five years. The company
-BL can undertake only one of the two projects due to limited financial
-Analyze resources. Project A requires an initial investment of %12,00,000,
-f whereas Project B requires an initial investment of 215,00,000.
+2. Is this the optimum payout ratio according to Walter’s Model?
 
-Both projects also require an investment in working capital of
+3. According to the optimum dividend payout ratio as per Walter’s Model,
+what would be the price of the equity share?
+
+Page 4 of 4
+````
+
+## 2023-24 · Exam not stated · paper 780c9a13739d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Financial Management/Financial Management.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 18 / 04 / 2024
+- Text: ocr (3 pages), mean OCR confidence 90.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT.
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: MBA Tech Year: [V Semester: VII
+Stream/s ; All Streams
+
+Subject: Financial Management
+Date: 18 / 04 / 2024
+Marks: 50
+
+Time: 2 hours (10.00am to 12.00pm)
+No. of Pages: 03 pages
+
+Final Examination/Re-Examination ( 2022-23)”
+
+Instructions: Candidates should read carefully the instructions printed on the question Paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+questions.
+
+-
+Ql Answer briefly: [10]
+4
+i a Star Bank pays 12% and compounds interest quarterly. If Rs 2000 is
+Apply a. deposited initially, how much shall it grow at the end of 5 years ? [2]
+CO-2: $0 XYZ Company is considering investing in a project that requires an
+2 BL ua b initial investment of $100,000 ina machinery. There will be net inflow
+A h "| after tax of $20,000 for the first two years, $10,000 in years three and [3]
+Pply four, and $30,000 in year five. Compute ARR for this investment.
+CO- 1; SO- : F
+3 . 9
+- BL- °. What is a Primary Market? 2]
+Understand
+CO- 1; SO-
+; BL- d. | What are the ways to overcome agency problem? [3]
+Understand
+Q2 i Answer the following: [10] |
+
+Page 1 of 3
+--- page 2 ---
+Ms Rupali is interested in fixed annual income. She can earn 8%*rate
+
+of return. How much should Rupali invest for each of the following
+alternatives? Which is a better alternative?
+
+i. Earn Rs 14,000 at the end of
+
+each year for the next 10 years
+ii. Earn Rs 7,000 at the end:of each
+
+year for the next 20 years
+
+Elaborate on Corporate Finance decisions
+
+Understand
+
+Sarita manufacturing company has under conside
+
+production of high quality product.. The necess
+cost Rs. 2,00,000 and would la
+Rs. 20,000. Additional
+
+Q3 product can be sold for R
+
+ration the proposal of
+ary equipment would
+st for 3 years with the salvage value of
+working capital required Rs. 50,000. The
+
+s. 12 per unit, its variable cost per unit is Rs.
+CO-3; SO- 6. Regardless of the level of production, the manufacturer will incur a [10]
+; BL- fixed cost of 75,000 each year if the project is undertaken.
+Analyse The manufacturer estima
+
+tes the demand for the product would 55,000
+57,000 units from 1 to 3 years respectively.
+tax bracket. Assuming 20% cost of capital and
+depreciation. Should the proposed equipment be
+
+units, 56,000 units, and
+Company is in 35%
+straight line method
+purchased?
+
+-}———_——______| |
+
+XYZ Ltd., has the following book value capital structure: ,
+
+Rs. in crore
+
+Equity capital
+
+(in shares of Rs 10 each, fully paid up—at ar) 125
+
+12% Preference capital :
+
+(in shares of Rs 100 each, fully paid up—at par) 10
+
+11.5% Debentures
+
+(of Rs 100 each) 25
+Q4 11% Term Loan 20
+CO-2; SO- The next expected dividend on equity shares per share is Rs 6.60; the [10]
+dividend per share is expected to grow at the rate of 8 per cent. The
+
+Pply
+
+market price per share is Rs 75. The Income: tax rate for the
+
+company is 30 per cent. Preference stock, redeemable after ten years,
+is currently selling at Rs. 105 per share. Debentures, redeemable after
+six years, are currently selling-at Rs 102 per debenture.
+
+You are required to compute the wei
+using:
+(a) Book value proportions
+
+(b) Market value proportions
+
+Page 2 of 3
+
+ghted average cost of capital
 --- page 3 ---
-~—
+i‘
 
-oN
+The capital Structure of Weave Ltd consists of Ordinary share capital
+of Rs 50,00,000 (face value per share is Rs 100) and Rs 20,00,000 of
+12% Debenture. Corporate Tax rate is 40%.
 
-%2,00,000 at the beginning, which will be fully recovered at the end
-of the fifth year.
+Following further information is made available:
 
-The machines under both projects are expected to have a salwage
-value of %2,00,000 (Project A) and 2,50,000 (Project B) at the end
-of five years. Depreciation is to be charged using the Straight Line
-Method over five years. The estimated earnings before
-depreciation and tax (EBDT) for both projects vary over time. The
-corporate tax rate is 30%, and the cost of capital is 12%.
+Qs Selling Price “Rs 150 per unit
+C0-3: SO- Variable Cost 60% of sales
+. BL-- Fixed Cost Rs 10,00,000 [10]
+‘Ancilyse Units sold 10,00,000
+You are required to:
+a. Prepare Income Statement of Weave Ltd .
+b. Compute Degree of Operating and Financial leverages.
+c. If Swiss Ltd is wanting to take over Weave Ltd, do you
+recommend the takeover considering that Swiss is a low risk taker
+and does not want to undertake any financial risk
+Bruce Limited is planning to consider raising a Capital of Rs.
+25,00,000.
+Different Financing Plans and relevant information is as below:
+. : _ Preference
+Financing Plan Equity (%) Debt (%) (%)
+Oo A 70% 30% :
+a eae B 50% 40% 10% [10]
+Apply ¢ Cost of debt is 7%
+¢ Cost of Preference share is 12%
+e Tax rate 30%
+e Face value of Equity share is Rs. 225 per share and it is issued
+at a premium of Rs.25
+e Expected EBIT 8,00,000
+Suggest which Financial Plan should be chosen by the Bruce Limited
+Q7 Sarasvati Ltd has an investment of Rs. 30 crore divided into 30 lakh
+CO-2: SO- ordinary shares and equity capitalisation rate is 12.5%. Determine the
+. BL optimum dividend pay-out policy of the company and the price of [10]
+Apply share using Walter’s Model if - ;
+Evaluate a. The profitability rate on investment is 20%?
 
-The expected annual cash inflows (before depreciation and tax) are
-as follows:
+b. Explain Walters theory of Dividend Policy
 
-Cash Inflows (Before Depreciation and Tax)
-
-Year | Project A (2) | Project B (@)
-
-i 4,00,000 5,00,000
-2 4,50,000 5,50,000
-3 5,00,000 4,50,000
-4 4,00,000 4,00,000
-
-P 3,50,000° 3,50,000
-
-Which project should be selected based on the NPV criterion?
-
-Q.4
-co-4
-BL Apply
-
-A manufacturing company provides the following cost details per
-unit:
-
-“Particulars Amount per unit (2)
-Raw Material 120
-Direct Labour 50
-
-Production Overheads | 90 (%20 is depreciation)
-
-Total Cost 260
-Profit 40
-Selling Price 300
-
-The company plans to produce and sell 1,80,000 units per annum.
-Production is carried out evenly throughout the year.
-
-“| Additional Information (in weeks):
-
-e Raw materials are held in stock for 6 weeks
-
-e Work-in-progress remains in process for 4 weeks, with:
-o 100% material
-o 70% labour and overheads completion
-
-e Finished goods are held for 2 weeks
-
-¢ Credit allowed by suppliers: 6 weeks
-
-* Credit allowed to debtors: 4 weeks
-
-¢ 30% of sales are on cash basis, remaining on credit
-
-e Time lag in payment of wages: 3 weeks
-
-e Time lag in payment of overheads: 5 weeks
-
-[20]
---- page 4 ---
-e Desired cash balance = 6,00,000
-e Assume 52 weeks in a year
-
-Lad e
-Requirement:
-Prepare a statement of working capital requirement
-Q.5 a. The capital structure of PQR Ltd. is as follows: : [12]
-CO-2,4 Particulars | Amount (2 Lakhs)
-BL Equity Share Capital (10 each) 50
-Analyze 12% Preference Shares 20
-9% Debentures 30
-Total Capital 100
-Expansion Plan
-The company plans to raise 780 Lakhs for a new project.
-Financing Options ~
-
-Plan X (Rights Issue):
-Equity shares are issued to existing shareholders at %16 per share.
-Plan Y (Debt Financing): ,
-Entire amount is raised through 10% debentures.
-Plan Z (Balanced Plan): :
-e 50% through equity shares at %20 per share
-e 50% through 11% debentures
-
-Additional Information
-
-The present EBIT of the company is =10,00,000, and it is
-expected to increase to =16,00,000 after expansion. The tax rate
-applicable to the company is 25%. Calculate the Earnings Per
-Share (EPS) for an EBIT of 216,00,000 under all the proposed
-financial plans and suggest the plan that should be adopted.
-
-Q.5 b. A company has the following details: [08]
-CoO -2 e Earnings per share (EPS) = 210 | 2)
-BL Apply ¢ Cost of equity (ke) = 12%
-
-e Number of shares outstanding = 1,00,000
-
-e Market price per share (Po) = %80
-
-e Total investment requirement (I) = =10,00,000
-The company is considering paying a dividend of %4 per share.
-Calculate the value of the firm under the MM dividend
-irrelevance approach, if the relevant assumptions hold, in the
-following cases:
-(i) when dividend is paid, and
-(ii) when dividend is not paid.”
-Also comment on yoursanswer.
-
-Q.6 a. Managers may not always act in the best interest of shareholders. [10]
-CcoO-1 Explain this statement and suggest measures to reduce such
-
-BL conflicts.
-Remember :
---- page 5 ---
->
-
-Q.6 b.
-
-What are the motives for holding cash? Illustrate your answer [10]
-Cco-1 with reference to Tata Consultancy Services and discuss how
-BL effective cash management improves financial efficiency
-Remember P
-Q.7a PQR Ltd. has annual credit sales of 36,00,000. The selling price [12]
-Co -3 per unit is 715, and the variable cost is 60% of the selling price.
-BL The company requires a rate of return of 20% on investment in
-Remember receivables. ;
-The firm currently incurs an annual collection cost of 80,000,
-and the percentage of bad debts is 4%. The average collection
-period is 3 months.
-The company is considering revising its credit policy by adopting
-one of the following collection programs:
-Program A B |
-Average collection period (months) | 2.0 1.5
-“Annual collection expenditure (2) | 1,10,000 , 1,80,000
-Percentage of bad debts (%) 3 2
-Requirement:
-Evaluate the existing policy and the two proposed collection
-programs. Advise which program should be adopted. Show all
-necessary calculations. Assume 360 days in a year.
-Q.7b Many financially strong firms still choose to use debt in their [08]
-CoO-1 capital structure. Discuss the rationale behind this decision and
-BL evaluate the benefits and drawbacks of debt financing.
-Remember
+Page 3 of 3
 ````
 
 ## 2023-24 · Final-Exam · Sem 7 · paper b1b40ac38581
@@ -7005,138 +7494,6 @@ Sooccd
 
 ````
 
-## 2023-24 · Re-Exam · Sem 8 · paper ab5fa9188d5e
-
-- Departments: Mechanical
-- Programmes: MBATech(MECHANICAL ENGINEERING) - 7046
-- Source: `02_Question_Papers/2023/Sem_08/Re-Exam/MBATech(MECHANICAL ENGINEERING) - 7046/Financial Management/QP_Financial Management(703TF0C003)_2023-2024.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 02 May 2026
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: MBA Tech (Comp)/MBA Tech (Mech)
-Year: IV/Sem 8 Re-exam/Semester VIII(Exam Year: 2025-2026)
-Subject: Financial Management
-Date: 02 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
-Max. Marks: 50
-RE EXAMINATION (Acad. Year:2023-2024)
-Instructions:
-1. This question paper contains 3 pages.
-2. This question paper contains 1 pages.
-3. Question 1 is Compulsory.
-4. From remaining questions, attempt any four.
-5. In all five questions to be attempted.
-6. Figure in right hand side indicates full marks
-7. Answer to each new question to be started on a fresh page.
-8. All questions carry equal marks.
-9. Assume suitable data if necessary
-Q1   Answer briefly:   [10]
-CO-2;   Mr. Sharma invests ₹20,000 per month in a systematic savings
-a.
-SO- ;   plan that offers 1.2% monthly interest compounded monthly. What   [2.5]
-BL- Apply   will be the value of his investment after 8 years?
-ABC Ltd. is considering a project that requires an initial
-investment of $120,000 that will generate annual cash flows after
-CO- 2; SO- ;   b.
-taxes of $40,000; $38,000; $42,000 and $35,000 respectively.   [2.5]
-BL-Apply
-Suggest whether the company should invest in this project if the
-cutoff period is 3 years.
-CO- 1; SO- ;
-c. Cost of capital is considered an important basis for evaluating
-BL-   [2.5]
-capital investment decisions. Explain and justify this statement.
-Understand
-CO- 1; SO- ;
-d. What do you mean by Financing decisions in Financial
-BL-   [2.5]
-Management?
-Understand
-Q2   Answer the following:   [10]
-Ms. Neha is planning for a steady annual income and expects a
-return of 7%. How much should she invest for each of the
-CO-2 ; SO- ;
-following alternatives? Which alternative should she choose?   [05]
-BL- Apply   a
-i. Earn ₹12,000 at the end of each year for the next 12 years
-ii. Earn ₹6,000 at the end of each year for the next 22 years
-CO-1 ; SO- ;
-Explain the role and importance of financial markets in an
-BL-   b   [05]
-economy.
-Understand
-********** 1 **********
---- page 2 ---
-Kavya Industries is evaluating a project for manufacturing a new
-product. The machinery required will cost ₹1,80,000 with a life of
-3 years and a salvage value of ₹15,000. Additional working capital
-requirement is ₹40,000.
-Q3   The selling price per unit is ₹10 and variable cost per unit is ₹5.
-CO-3; SO-;   Annual fixed cost will be ₹70,000.   [10]
-BL- Analyse   Expected demand is 60,000 units, 58,000 units, and 55,000 units
-over the next three years. The firm falls under a 35% tax bracket.
-If the cost of capital is 16% and depreciation is charged using the
-straight-line method, should the project be accepted as per NPV
-method?
-PQR Ltd. has the following book value capital structure:
-Particulars   ₹ in crore
-Equity share capital (₹10 each, fully paid)   100
-13% Preference share capital (₹100 each)   20
-10.5% Debentures (₹100 each)   40
-Q4   12% Term Loan   15
-CO-2; SO-;   The expected dividend per equity share next year is ₹5.50, growing   [10]
-BL- Apply   at 9% annually. The current market price per share is ₹70. The
-corporate tax rate is 35%.
-Preference shares, redeemable after 12 years, are selling at ₹102,
-and debentures, redeemable after 7 years, are selling at ₹98.
-Compute the weighted average cost of capital using:
-(a) Book value proportions (b) Market value proportions
-Following data of Alpha Industries Ltd. and Beta Industries Ltd.
-is available to you:
-Selling Price = ₹120 per unit
-Variable Cost = 65% of sales
-Fixed Cost = ₹6,00,000
-a. Prepare the Operating Income Statement of Alpha Industries
-Ltd. and Beta Industries Ltd.
-Q5   b. Calculate the Operating Leverage if Alpha Industries Ltd. and
-CO-3; SO-;   Beta Industries Ltd. produce and sell 18,000 units and 22,000   [10]
-BL- Analyse   units respectively
-c. If sales increase by 6%, what would be the percentage change
-in EBIT?
-d. Gamma Ltd. is planning to acquire one of the above
-companies. Which one would you recommend if Gamma Ltd.
-prefers high risk and high returns? Justify your answer.
-********** 2 **********
---- page 3 ---
-Nova Limited is planning to consider raising a Capital of Rs.
-25,00,000.
-Different Financing Plans and relevant information is as below:
-Financing Plan   Equity (%)   Debt (%)   Preference (%)
-A   40%   60%   -
-Q6   B   30%   40%   30%
-CO-2; SO-;   [10]
-BL- Apply
-C   20%   50%   30%
-• Cost of debt is 9%
-• Cost of Preference share is 12%
-• Tax rate 30%
-• Face value of Equity share is Rs. 100 per share
-• Expected EBIT 8,00,000
-Suggest which financial Plan should be chosen by the Nova
-Limited
-Ganga Ltd. has an investment of ₹25 crore divided into 25 lakh
-ordinary shares. The equity capitalization rate is 11%. Determine
-Q7
-the optimum dividend payout policy of the company using
-CO-2; SO-;   [10]
-Gordon’s Model if rate of return on investment is 18%
-BL- Apply
-Write a note on Gordon’s Model
-********** 3 **********
-````
-
 ## 2023-24 · Re-Exam · Sem 7 · paper 7d873cb119b0
 
 - Departments: Computer Science and Business Systems
@@ -7144,6 +7501,7 @@ Write a note on Gordon’s Model
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSBS/SEM-VII/FINANCIAL MANAGEMENT/Financial Management, Sem-VII, Year 2023-24, Re Exam.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 7/02/2024
 - Text: ocr (11 pages), mean OCR confidence 65.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7328,7 +7686,6 @@ aren nddd aad GSusKaeang
 ix DID a
 R eebeehceeeeet
 
-Pal Ao oH oH WH HIN 1 O
 
 er SREB
 ae 4   SRUABEBSEGAEE! eS
@@ -7339,7 +7696,6 @@ rw
 Seeseqa SEEEEEEE:
 
 3 BS BRSRER BES
-saisbbaaet cas RNgeag ese
 
 mete A ai 5 OH 0 0
 
@@ -7387,173 +7743,6 @@ TAO OONDASHALY OCR eD
 y xipuaddy
 --- page 11 ---
 
-````
-
-## 2023-24 · Re-Exam · Sem 8 · paper 0beada9ebfdc
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management , Re-exam 2022-23,2023-24.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 28/04/2025
-- Text: ocr (4 pages), mean OCR confidence 91.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program/s: MBA Tech Year: TV Semester: VIII
-Stream/s ; All Streams
-
-Subject: Financial Management Time: 2 hours (10 am to 12 noon)
-Date: 28/04/2025 ; No. of Pages: 04
-
-Marks: 50
-
-Re-Examination 2022-23 & 2023-24
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all__ 5_ questions to be attempted. = =
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page. _
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1 .
-: Answer briefly: [10]
-a. A person has two investment options:
-Option A: Invest %60,000 in a fixed deposit that offers an 8% interest rate,
-CO- 2; SO- compounded annually, for 4 years.
-: Option B: Invest %80,000 in a different scheme that offers 7% interest rate [03]
-BL- Apply compounded annually per year for 4 years.
-Which investment option is better based on the future value of money?
-CO-2;SO- | b. [04]
-; Write a note on Payback Period
-BL- Apply
-CO- 1; SO- | c. [03]
-> 7 How does Financial Management help in wealth maximization?
-BL-
-Understand
-Q2 You want to borrow Rs. 8,00,000 from a bank to purchase a car. The loan requires
-CO-2: 0 repayment in 5 equal annual instalments. The rate of interest offered by the bank is
-; ; 10.25% per annum. Calculate the annual instalment amount. 10
-BL- Apply mu
-
-Page 1of4
---- page 2 ---
-A company is considering two mutually exclusive investment projects, Project A
-and Project B. Both projects require an initial investment of Rs. 5,00,000. The
-company’s required rate of return is 10% per annum. The projected cash flows over
-
-5 years are as follows:
-
-Q3 Year Project A (Rs.) Project B (Rs.)
-CO-3: $0- [1 |[1,50,000 |[1,00,000 |
-; 2 |[.40,000 |[1,20,000 |
-BL- B |[1,30,000 [1,50,000 |
-Analysis [4 |[1.20,000 |[1,60,000 | [10]
-[s |[1,10,000 |[2,00,000 ]
-Requirement:
-7 Evaluate and compare the two projects using the following capital budgeting
-techniques: : ;
-1. Net Present Value (NPV) — Assume a discount rate of 10%.
-2. Determine how long it takes for each project to recover the initial
-investment.
-Based on your analysis, recommend which project the company should undertake
-and justify your decision.
-Zenith Ltd. has the following book value capital structure:
-[Source of Capital [Amount (Rs. crores) |
-Q4 [Equity capital (Rs. 10 per share, fully paid) I 30 |
-CO- 2: SO- [10% Preference capital (Rs. 100 per share, fully paid) | 5 | [10]
-e [Retained earnings : I 50 ]
-BL- Apply [12% Debentures (Rs. 100 each) l 15
-[11% Term loans I 20 |
-
-The next expected dividend on equity shares is Rs. 6 per share, with an expected
-growth rate of 7% per annum. The market price per equity share is Rs. 60.
-
-The preference shares, redeemable in 8 years, are currently selling for Rs. 85 per
-share.
-
-Debentures, redeemable after 6 years, are trading at Rs. 92 per debenture.
-
-The company’s corporate tax rate is 25%.
-
-Requirement:
-
-Compute the Weighted Average Cost of Capital (WACC) for Zenith Ltd. assuming
-
-market value weights.
-
-Page 2 of 4
---- page 3 ---
-Colin Ltd. providés the following financial details:
-e Units produced and sold = 50,000
-e Selling price per unit = Rs. 15
-
-Q5 e Variable cost per unit = Rs. 5
-CO- 2: SO- e Fixed Cost = Rs. 1,00,000
-5 ¢ 8% Debentures = Rs. 1,50,000
-BL- Apply ¢ 10% Preference Share Capital = Rs. 1,50,000 [10]
-° Tax Rate = 30%
-Requirements:
-1. Prepare the Income Statement.
-2. Calculate Operating Leverage, Financial Leverage, and Combined
-- Leverage. 7
-Bluestone Ltd. is planning to expand its operations and requires Rs. 50 crore for
-this purpose. The company is evaluating two different capital structures for raising
-the required funds. The current capital structure of the company is as follows:
-Current Capital Structure:
-1. Equity Share Capital = Rs. 40 crore
-2. Retained Earnings = Rs. 10 crore
-Q6 3. 9% Debentures = Rs. 20 crore
-— 4. Tax Rate = 30% .
-BL- The company is considering two alternative financial plans for the additional capital [10]
-Analyse of Rs. 50 crore:
-
-Plan A (Conservative Approach):
-Raise Rs. 50 crore entirely through Equity
-Plan B (Aggressive Approach):
-
-a) Raise Rs. 25 crore through additional equity
-
-b) Raise Rs. 25 crore through additional 10% Debentures
-Expected EBIT after Expansion = Rs, 15 crore
-Calculate the EPS under both financial plans. Assume total profit is taxed at 30%.
-Assume equity cost (Ke) = 15% in both cases.
-
-Analyze and comment on which financial plan is better
-
-Page 3 of 4
---- page 4 ---
-[10]
-
-Q7
-
-CO- 2; SO- A company has Earnings Per Share (EPS) of 28. It is capitalized at a rate of 12%,
-; and its rate of return on investment is 18%.
-
-BL- Apply
-
-Required:
-
-1. According to Walter’s Model, what should be the price per share if the
-company follows a 40% dividend payout ratio?
-
-2. Is this the optimum payout ratio according to Walter’s Model?
-
-3. According to the optimum dividend payout ratio as per Walter’s Model,
-what would be the price of the equity share?
-
-Page 4 of 4
 ````
 
 ## 2023-24 · Re-Exam · Sem 8 · paper 4d2e3ce1cba1
@@ -7731,6 +7920,287 @@ Prove that the payment and non-payment of dividend does not affect the
 value of firm if all the assumptions of MM hypothesis hold true. Explain
 ‘Irrelevance of Dividend Theory’.
 
+Page 3 of 3
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper ec85377d3906
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/ 06 /2023
+- Text: ocr (4 pages), mean OCR confidence 93.3
+
+````text
+SVKM’S NMIMS XS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
+Academic Year: 2022-2023
+Program/s: MBA Tech Year: IV Semester: Vill
+Stream/s ; All Streams
+
+Subject: Financial Management Time: 2 hrs (10 am to 12 nosa)
+Date: 26/ 06 /2023 No. of Pages: 04
+Marks: 50
+
+Re- Examination (2o2/- 22/2 022-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+,e-, 2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+il Answer briefly: [10]
+co-2;   |*
+SO-: > In order to have 10 lakhs at the age of 50, assuming 10% annual interest
+BL- rate, how much one should invest at the age of 20 if investment is done at [03]
+the end of each year ?
+Apply
+b. Power Nigam Limited has decided to issue debentures with the face value | [03]
+of Rs 100 with coupon of 13% payable annually. The tenure of the
+© |co-2; debentures is 10 years and it would be redeemed at a premium of 5% to the
+.“. > face value. The floatation cost is placed at 5% of the face value. The firm
+Apply pays 30% tax. What is the after tax cost of debt if the firm is able to market
+its debenture a) at face value b) at a premium of 5% to face value c) at a
+discount of 5% to face value.
+Co- 1; Cs [04]
+SO-;
+BL- Differentiate between Primary Market and Secondary Market
+Understan
+d
+
+Page 1 of 4
+--- page 2 ---
+Q2
+
+CO- 2; You have been hired as a financial advisor to Joel Joseph. He has received
+a two offers for playing professional basketball and wants to select the best
+Apply offer, based on considerations of money only. Offer A is $2m a year for 5 (10)
+years. Offer B is offer of $1m a year for four years and $7m in year 5.
+Compare the 2 options by assuming an interest rate, from 8% and 10%.
+What is your advice?
+Sun Life Hospital is considering 2 alternatives:
+i. Purchase a radiography machine which is priced at Rs
+2,00,000, requiring a working capital of Rs 75,000. The
+projected life of the machine is 5 years and has an expected
+salvage value of Rs 50,000 at the end of 5" year. The annual
+operating cost of the machine is Rs 20,000. It is expected to
+@ generate revenues of Rs 1,50,000 per year for 5 years. Tax rate
+ro * is 40%. Cost of capital is 15%.
+BL- ii. Outsourcing the radiography work to its neighboring test center
+ante ya earn a commission of Rs 50,000 p.a net of taxes. [10]
+Analyze whether it would be profitable for the hospital to purchase the an
+
+machine or outsource the radiography work. Give your recommendation
+
+under Net Present Value method
+
+Page 2 of 4
+--- page 3 ---
+The following is the capital structure of Paras Ltd. as of 31st March:2023
+
+Particulars Rs.
+Equity shares- 50,000 shares of Rs. 100 each Rs 50,00,000
+11% Preference shares of Rs. 100 each Rs 6,00,000
+13% Debentures . Rs 14,00,000
+Total Rs 70,00,000
+Q4 The market price of the company’s share is Rs. 104, and it is expected that
+CO-2; ; a dividend of Rs.11 per share would be declared after 1 year. The dividend
+SO- ; growth rate is 7%. [10]
+Bie (i) If the company is in the 30% tax bracket, compute the weighted average
+Apply cost of capital
+(ii) Assuming that to finance an expansion plan, the company intends to
+borrow a fund of Rs. 40 lakhs bearing a 15% rate of interest, what will be
+the company’s revised weighted average cost of capital?
+This financing decision is expected to increase the dividend from Rs. 11 to
+Rs. 13 per share. However, the market price of equity shares is expected to
+decline from Rs. 104 to Rs. 101 per share while growth rate is 7%
+Qs Following information are given in respect of Delta Ltd.: [10]
+CO-2; Selling Price Rs. 40 per units
+~| SO-; Variable cost Rs. 30 per unit
+BL: Fixed cost Rs. 1,00,000
+Apply Present capacity of Delta Ltd is 30,000 units
+5% Debentures Rs. 8,00,000
+10% Preference share capital Rs. 4,00,000
+Equity share capital (Rs. 10 per share) Rs. 2,00,000
+
+Tax Rate is 20%
+
+Prepare Income Statement and Calculate Operating Leverage, Financial
+Leverage and Combined Leverage
+
+Page 3 of 4
+--- page 4 ---
+Suraj Ltd has equity capital of Rs 2,00,000 divided into shares of Rs 100
+each. Current market price is Rs 200 per share. It wishes to raise Rs
+
+5,00,000 further for expansion.
+
+Q6 The company plans the following financing schemes:
+CO- 2; (a) All common stock.
+ie (b) Rs 3,00,000 in common stock and balance in debt @ 10% p.a.
+Apply (c) All by way of 10% debts [10]
+(d) Rs 3,00,000 in common stock and Rs 2,00,000 in preference capital
+with the rate of dividend at 8%.
+The company’s expected earnings before interest and tax (EBIT) are Rs. 1,
+50,000. The corporate rate of tax is 50%.
+Determine the Earnings per share (EPS) in each plan and recommend the
+best plan.
+Zavi Ltd has a total investments of Rs 5,00,000 in assets and 50,000
+ordinary shares at Rs 10 per share. It earns a rate of 15% on its investments
+and has a policy of retaining 50% of the earnings. If the equity
+Q7 capitalization of the firm is 10%, determine the price of its share using
+So. 4 Gordon’s model. What would be the price of the share if the company has [10]
+BL- a payout of 80%?
+Apply What is the crux of Gordon’s model of Dividend decision?
+
+What are the implications of Gordon’s model?
+
+Page 4 of 4
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper a9a57af26a13
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management_a9a57af26a.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (3 pages), mean OCR confidence 91.2
+
+````text
+mpstTMs |
+SVKM’S NMIMS LIBRA Wy,
+: ‘ S
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING <<
+
+5 UNNESS
+Academic Year: 2022-2023
+
+Program/s: MBA Tech Year: TV Semester: VIII
+Stream/s ; All Streams
+
+Subject: Financial Management Time: 2 hours (10 am to 12 pm)
+Date:__19 / 04 /2023 No. of Pages: 03
+
+Marks: 50
+
+Final Examination | Re- Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+m 2) Out of remaining questions, attempt any__4 _ questions.
+3) Inall__5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+“ Answer briefly: [10]
+
+a.
+CO-2: SO An employee has been offered with following retirement plans. Which one
+=e he should choose if his expected return is 10% p.a. [03]
+’BL- Appl e An annuity of Rs. 13,200 at the end of each year for 20 years
+
+Pply © Rs. 1,00,000 cash right now
+b. | Fashion Retails Limited has its shares quoted in the market for last several | [03]
+tf 6-35-86 years. Its beta is estimated to be 1.75. The yield on T - Bills is 4.5% per annum
+: ; and market return is expected to be 13.5%. Find the cost of equity and expected
+BL- Apply price of share for Fashion Retails Limited if next year dividend is expected to
+be Rs.8 per share and constant growth of 7% per annum.
+aa 1;SO- | c.. | What are agency costs? Suggest the measures to mitigate agency cost. [04]
+BL-
+Understand
+Page 1 of 3
+--- page 2 ---
+-
+
+Q2 Suppose you want to borrow Rs. 5,00,000 from a bank to purchase a car.
+
+CO- 2; SO- Loan requires to be repaid in 6 equal annual installments. The rate of interest
+
+: . 5 .
+
+BL- Apply offered by the bank is 9.50% per annum. Calculate the loan installment and [10]
+
+prepare loan amortization schedule.
+
+Merito Ltd is considering buying a new equipment which would have a
+
+useful life of 3 years, a cost of Rs 5,00,000 and a scrap value of Rs 50,000
+
+Q3 with 80% of the cost being payable at the start of the project and 20% at the
+
+CO. 3) 50- end of the 1st year. The machine would produce 5,00,000 units p.a of a new
+
+BL- product with an estimated selling price of Rs 3 per unit. Variable costs would
+
+iuatysts be Rs 1.75 per unit and annual fixed costs excluding depreciation would be [10]
+Rs 1,00,000. In the 1% and 2" year , special sales promotion expenditure not
+included in the above costs would be incurred amounting to Rs 10,000 and
+Rs 15,000 respectively. Tax rate is 40%. Calculate NPV of the project for
+investment appraisal, assuming that the company’s cost of is 10%. Is it worth
+investing in the equipment? Justify.
+Citrus Ltd., has the following book value capital structure: (Rs crores)
+
+Q4 Equity capital (in shares of Rs 10 each, fully paid up—at par) 25
+
+CO- 2; $0- 11% Preference capital (in shares of Rs 100 each, fully paid up—at par) 2 [10]
+
+; Retained earnings 40
+
+Bi- Apply 14% Debentures (of Rs 100 each) 10
+12% Term loans 10
+
+The next expected dividend on equity shares per share is Rs 5; the dividend
+per share is expected to grow at the rate of 8 per cent. The market price per
+share is Rs 50. Preference stock, redeemable at par after ten years, is
+currently selling at Rs. 90 per share. Debentures, redeemable at par after five
+years, are selling at Rs 95 per debenture. The Income- tax rate for the
+company is 30 per cent. You are required to calculate the weighted average
+
+cost of capital using book value proportions.
+
+, Page 2 of 3
+--- page 3 ---
+~~ -
+
+e
+
+Prepare Income Statement and Calculate Operating Leverage, Financial
+
+Q5 Leverage and Combined Leverage on the basis of the following information:
+CO- 2; SO- Units produced and sold 40,000
+4 Selling price per unit 12 [10]
+BL- Apply Variable cost per unit 4
+Fixed Cost 75,000
+6% Debentures 1,00,000
+9% Preference share capital 1,00,000
+Tax Rate 25%
+A new project under consideration requires a capital outlay of Rs. 450 lakhs.
+C The required funds can be raised either fully by equity shares of Rs. 100 each
+Q6 or by equity shares.of the value of Rs. 300 lakhs and by loan of Rs. 150
+a lakhs @ 15% interest. The required funds can be raised either fully by
+———E equity shares of Rs. 100 each under both the options. Assuming a tax rate of
+BL- Apply =a [10]
+Calculate the figures of profit before interest and tax (EBIT) that would keep
+the equity investors indifferent to the two options. Which option would you
+suggest if the EBIT forecasted is Rs 80,00,000.
+What is the EPS under both the options
+A company has EPS &5. It is capitalised at the rate of 10% and has a rate of
+Cc return on investment of 16%. According to the Walters model, what should
+Q7 be the price per share at 50% dividend payout ratio?
+CO- 2; SO- Is this optimum payout ratio according to Walter? [10]
+BL- Apply According to the optimum Dividend Payout ratio as per Walter’s Model,
+what would be the price of Equity Share?
+Explain Walter’s Theory of relevance related to Dividend decisions
 Page 3 of 3
 ````
 
@@ -8973,6 +9443,173 @@ Write short notes:
 10
 ````
 
+## 2018-19 · Re-Exam · Sem 8 · paper 515cef871da9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management ,Re-exam 15-16-17-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 10 April 2019
+- Text: ocr (3 pages), mean OCR confidence 94.1
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN YGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+Academic Year: 2018-2019
+
+Subject: Financial Management >)
+Marks: 60
+
+Date: 10 April 2019 Time: 2.00 pm to 4.00 pm
+Durations: 2 Hrs
+No. of Pages: _O3
+
+Re-Examination (2015-16/ 2016-17/ 2017-18)
+|
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1. Answer the following:
+
+a. : - (04*3=12 Marks)
+An investor is thinking of investing in a recurring deposit scheme that offers an interest rate of 12% per
+annum. The investment that he is planning is for the higher education of his some who is just two years
+now. In case investor decides to invest 20,000 every year beginning from today, what will be the total
+money available to him when his son reaches the age of 20 years?
+
+b. A new project under consideration by your company requires a capital investment of Rs.150 lakhs.
+Interest on loan is 12% and tax rate is 50 %. If debt equity ratio insisted by the financing agencies is 2:1,
+calculate the point of indifference for the project.
+
+c. A company invests Rs. 13,00,000 in a project which has a life of five years. The net cash inflows are Rs.
+3,00,000, Rs. 4,00,000, Rs. 3,50,000, Rs. 5,00,000 and Rs. 2,50,000 for years 1,2,3,4 and 5 respectively.
+Find out payback period.
+
+Q.2. A company is considering two mutually exclusive proposals, X and Y. Proposal X will require the
+purchase of machine X, for Rs 1,50,000 with no salvage value but an increase in the level of working capital
+to the tune of Rs 50,000 over its life. The project will generate additional sales of Rs 1,30,000 and require
+
+\
+‘.
+
+Page 1 of 3
+--- page 2 ---
+cash expenses of Rs 30,000 in each of the 5 years of its life. Proposal Y will require the purchase of
+machine Y for Rs 2,50,000 with no salvage value and additional working capital of Rs 70,000. The project
+is expected to generate additional sales of Rs 2,00,000 with cash expenses aggregating Rs 50,000.
+
+Both the machines are subject to written down value method of depreciation at the rate of 20 per cent.
+Assuming the company does not have any other asset in the block of 20 per cent; has 12 per cent cost of
+
+capital and is subject to 35 per cent tax, advise which machine it should purchase? (12 Marks)
+Q.3. The following data presents the book value capital structure of a particular company: (12 Marks)
+
+Particulars Amount
+
+Debenture (Rs. 100 per 7,00,000
+
+debenture)
+
+Preference Shares (Rs. 100 per 3,00,000
+
+share)
+
+Equity Shares (Rs. 10 per share) 10,00,000
+
+All these securities are traded on capital market and their recent market prices are: Debentures Rs.110 per
+debenture, Preference Share Rs. 120 per share and Equity share Rs.20 per share.
+
+Further details are given below:
+
+Face value of a debenture Rs. 100, redeemable after 8 years, 13% interest rate and 4% flotation cost.
+
+14% Preference shares redeemable after 5 years, flotation cost of 5% and face value is Rs. 100.
+
+Equity share selling price of Rs. 20 per share, the dividend expected on equity share at the end of the year is
+Rs.2 per share. The anticipated growth rate in dividends is 6% and the firm has the practice of paying all its
+earnings in the form of dividends. ,
+
+The corporate tax rate is 35%.
+
+You are required to calculate WACC based on book value weights and market value weights.
+
+Q4. Calculate OL, FL and TL under situations A, B and C and Financial Plans 1,2 and 3 from the following
+data related to ABC co. also find out the combination of OL and FL which gives the highest and Lowest
+value and how these calculations could be used by a finance Manager.
+
+Installed capacity: 1200units
+
+Actual Product and Sales: 800units
+
+Selling price per unit Rs.i5
+
+Variable Cost per unit Rs.10
+
+Fixed Cost: Situation 1: Rs.1,000; Situation 2: Rs.2,000; Situation 3: Rs.3,000
+
+Capital Structure /Financial A B Cc
+Plan:
+
+Equity 5,000 | 7,500 | 2,500
+Debt 5,000 | 2,500 | 7,500
+Cost of Debt 12% | 12% | 12%
+
+Page 2 of 3
+--- page 3 ---
+Q5.
+
+a. Two firms A and B are identical in all respects
+3,00,000, while firm B has no debt. Both the firms e
+n rate is 10% and the corporate tax rate is 60%.
+
+xcept the degree of leverage. Firm A has 6% debt of Rs.
+arning an EBT of Rs.1,20,000 each. The equity
+Compute the market value of the two firms.
+
+capitalizatio
+(06 Marks)
+
+w and expects to live for 15 years thereafter. He wishes to have a
+s he will live after retirement. He wants the pension to start one
+8% and expected to remain same, what lump sum amount should
+
+b. Amol wishes to retire 20 years from no
+yearly pension of Rs. 2,00,000 for 15 year:
+
+year after retirement. If the interest rate is
+Amol set aside today to facilitate this? (06 Marks)
+Q6. Following are the details regarding three companies A Itd, B Itd and C ltd: (12 Marks)
+A ltd B ltd C itd
+r= 15% r=5% r=10%
+Ke= 10% Ke= 10% Ke= 10%
+E=Rs. 12 E=Rs. 12 E=Rs. 12
+Calculate the value of an equity share of each of these companies applying Walter’s formula when dividend
+payment ratio (D/P ratio) is: a) 50% b) 75% c) 25% .. :
+
+Q7. Write Short Notes on: (2*6=12 Marks)
+a. Decisions in Financial Management
+
+b. Indian Financial System
+
+Page 3 of 3
+````
+
 ## 2018-19 · Re-Exam · Sem 8 · paper f6eeacf99e93
 
 - Departments: Common (all branches)
@@ -9130,6 +9767,118 @@ a. Agency Problem
 b. Money Market and Capital Markets
 
 Page 3 of 3
+````
+
+## 2018-19 · Re-Exam · Sem 8 · paper f9fda2460beb
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial_Management_....Re-exam_2015-16-17-18 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 17 June 2019
+- Text: ocr (2 pages), mean OCR confidence 94.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+, Program MBA Tech (All Streams) Year: IV Semester: VIII
+, AcademicYear: 2018-2019
+Subject: Financial Management Marks: 60
+Date : 17 June 2019 Time:2.00 pm to 4.00 pm
+“ Duration: 2 (hrs)
+
+No. of Pages: vv
+Re-Examination (2015-16 /2016-17/ 2017-18)
+
+Instructions: Candidates ghould read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary,
+
+Q.1 (3*4 Marks= 12 Marks)
+
+A. Given the following facts about a firm, compute the cost of equity capital using Capital Asset Pricing
+Model (CAPM) assuming a market return of 15 percent next year. What would be the cost of equity if
+beta rises to 1.75? Risk free rate of return is 11%. Beta co-efficient of the firm is 1.25.
+
+B. Suppose that a bank charges a nominal interest rate of 6% per year, compounded quarterly for a loan,
+what is the effective interest rate? If the interest is compounded semi-annually what would be the effective
+interest rate?
+
+C. Vadilal Company Ltd. has Capitalization rate of 15%. It’s earnings per share is Rs.50 per share. The
+
+company declares Rs.10 as dividend .You are required to calculate share price assuming 20% return on
+investment using Walter’s Model. What should be the optimum dividend payout as per the Walters model?
+
+Q. 2 SK Manufacturing Company uses discounted payback period to evaluate investments in capital assets.
+
+The company expects the following annual cash flows from an investment of Rs 35,00,000: (12)
+YEAR l 2 3 4 5 6 7 8
+
+CASH 6,00,000 | 8,00,000 | 8,00,000 | 9,00,000 | 10,00,000 | 10,00,000 | 12,00,000 | 14,00,000
+FLOWS (RS)
+
+No salvage/residual value is expected. The company’s cost of capital is 10%.
+Advise the management if the proposal is worth considering using:
+
+|. NPV. 2. Profitability Index 3. Simple Payback period 4. Discounted Payback period
+
+Page 1 of 2
+--- page 2 ---
+Q. 3 Calculate the Degree of Operating Leverage (DOL), Degree of Financial leverage (DFL) and the
+
+Degree of Combined Leverage (DCL) for the following firms. (12)
+Firm A Firm B Firm C
+
+Output (units) 60,000 15,000 1,00,000
+
+Fixed Costs (Rs) 7,000 14,000 1,500
+
+Variable cost per unit (Rs.) 0.20 1.50 0.02
+
+Interest on borrowed funds 4,000 8,000 --
+
+Selling price per unit (Rs) 0.60 5.00 0.10
+
+Q.4 XYZ Ltd. has the following book — value capital structure as on March 31, 2016. (12)
+
+Equity Share Capital of Rs 10 per share 40,00,000
+
+11.5% Preference Shares of Rs 100 per share 10,00,000
+
+10% Debenture of Rs 100 per debenture 30,00,000
+
+The equity share of the co. sells for Rs.50. It is expected that the company will pay next year a dividend of
+Rs. 2 per equity share, which is expected to grow @ 5% p.a. forever. Assume a corporate tax @ 40%.
+Current market price of preference shares is Rs 110 per share and Debenture is currently selling at Rs 120
+
+per debenture.
+
+Required ;
+
+1. Compute Weighted average cost of capital (WACC) of the company using book vatue weight
+2. Compute Weighted average cost of capital (WACC) of the company using Market value weight
+
+Q.5 An investor borrows Rs 5,00,000 from a bank to be repaid in five equal instalments at the end of each
+of the next five years. The interest rate on this loan payable is 10%. What is the amount of each instalment
+
+payment? Prepare a loan amortization Schedule. (12)
+Q.6 (12)
+Explain the MM hypotheses of dividends and prove how it supports irrelevance of Dividend Theory.
+Q.7 Write Short Notes on (12)
+a. ARR b. NI theory of capital structure c. Operating Leverage
+
+Page 2 of 2
 ````
 
 ## 2017-18 · Final-Exam · Trim 5 · paper 7fef01dbdbc9
@@ -9427,6 +10176,184 @@ b. Cost of Debt
 c. Agency Problem
 ````
 
+## 2017-18 · Re-Exam · Sem 8 · paper bef2c8022a27
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management 2015-16,2016-17 Re-exam_bef2c8022a.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 17 April 2018
+- Text: ocr (3 pages), mean OCR confidence 92.6
+
+````text
+(ie eet
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &, FEI
+
+Li >
+Programme: MBA Tech ( All Streams) Year: IV Semester| BRA x Y is
+* a
+Academic Year: 2017-2018 KS *
+~ a
+Subject: Financial Management
+Marks: 60
+Date: 17 April 2018 Time: 2.00 pm - 4.00 pm
+
+Durations: 2 Hrs.
+No. of Pages; _©-3
+Final-Examination (2017-18)/
+Re-Examination (2015-16/2016-17) .
+
+Instructions: Coraiaaus should read carefully the instractions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, “attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+é
+
+Q.1. (3 Que.*04 Marks= 12 Marks)
+(A) You can invest today in a financial instrument that will pay you Rs 1,000 every year starting
+
+at the end of this year for the next five years and Rs 5,000 at the end of the five years. If you
+
+require a 12% return, how much should you be willing to pay for this instrument?
+
+(B) From the following information supplied to you, determine the theoretical market value of
+
+equity shares of a company as per Walter’s model.{s this optimum dividend payout policy as per
+
+the Walters model?
+
+Earnings of the company Rs. 15, 00,000; Dividend paid Rs. 6, 00,000
+Number of shares outstanding 10, 00,000; Equity capitalization rate is 10%;
+
+Rate of return on investment 12%.
+
+(C) Explain structure of Indian Financial System diagrammatically.
+--- page 2 ---
+Q. 2 A company is considering the replacement of its existing machine which is obsolete and
+unable to meet the rapidly rising demand for its product. The company is faced with two
+alternatives: (12 Marks)
+(i) To buy Machine A which is similar to the existing machine or
+
+(ii) To go in for Machine B which is more expensive and has much greater capacity.
+
+The cash flows at the present level of operations under the two alternatives are as follows:
+Year 0 1 2 3 4 5
+
+Machine A -25 0 5 20 14 14
+
+Machine B -40 10 14 16 17 15
+
+The company’s cost of capital is 10%. The finance manager tries to evaluate the machines by
+calculating the following:
+
+i) Net Present Value
+
+ii) Profitability Index’
+
+iii) Payback period
+
+iv) Discounted Payback period
+
+At the end of his calculations, however, the finance manager is unable to make up his mind as to
+which machine to recommend, You are required to make these calculation and in the light thereof
+to advise the finance manager About the proposed jnvestment.
+
+*
+Q.3. An Electric Equipment Manufacturing company wishes to determine the weighted average
+cost of capital. You have been provided with following information: (12 Marks)
+
+Balance Sheet of Electric Equipment Manufacturing company
+
+Liabilities Amount Assets Amount
+Equity Share Capital 12,00,000 | Fixed Assets 25,00,000
+Preference Share Capital 4,50,000 | Current Assets 15,00,000
+Debentures 9,00,000
+Retained Earnings 4,50,000
+Current Liabilities 10,00,000
+
+40.00.000 40.00.000
+
+Additional information is given below:
+
+a. 20 Years, 14% debentures of Rs.2500 face value, Redeemable at 5%premium sold at par,
+2% floatation cost
+
+b. 15% Preference shares, selling price is Rs.100/share, 2% floatation cost.
+
+c. Equity shares selling for Rs.115/share. The expected dividend at the end of the year one
+is | 1/share and expected growth in dividend is 8%per annum.
+
+d. The corporate tax rate is 55%
+
+Assume that the company is satisfied with its present capital structure and intend to maintain it.
+--- page 3 ---
+Q.4 The balance sheet of Star Company is as follows: (12 Marks)
+
+Liabilities Amount Assets Amount
+Equity share capital 60,000 Fixed Assets 1,50,000
+Retained Earnings 20,000 Current Assets 50,000
+
+10% longterm debt —_ 80,000
+Current Liabilities 40.000
+2.00.000 ‘2.00.000
+
+The company’s total assets turnover ratio is 3, its fixed operating costs are Rs.1,00,000 and its
+variable operating cost ratio is 40%. The income tax rate is 50%. Prepare the income statement
+of Star Company and calculate the Operating, Financial and Combined leverages given that the
+face value of share is Rs.10.
+
+Q. 5 A company’s present capital structure consists of 10,00,000 shares of equity stock of Rs.20
+each. It requires Rs. 1,00,00,000 of external financing for which it is considering three
+
+alternatives. %
+
+Alternative 1: Issue 5,00,000 equity shares of Rs. 10 par at Rs.20 each.
+
+a
+Alternative 2: Issue of 3,00,000 equity shares of Rs:10 par at Rs.20 each and 4,00,000 preference
+shares of Rs.10 par carrying 11% dividend.
+
+Alternative 3: Issue 1,00,000 equity shares of Rs.10 par at Rs.20 each and 80 million of
+debenture carrying 14% interest rate. Qol
+
+The company’s tax rate is 40%.
+i) What is the EPS for these three alternatives assuming EBIT to be Rs.90,00,000?
+_ li) What is EPS-EBIT indifference point for alternatives 1 and 2?
+
+Q. 6 a. The equity capitalization rate of Jupiter Industries Ltd is 12%. The Company has 50,000
+
+shares outstanding which have a market price of 200 each. The company expects a net income of
+Rs.7, 00,000 at the end of one year and plans to declare a dividend of Rs. 6 per share at that time.
+The company also plans to invest Rs. 10,00,000 in a project after one year. It is assumed that the
+
+assumptions underlying the Modigliani-Miller model on dividend policy are applicable. You are
+
+required to show that the Modigliani-Miller model on dividend policy holds good irrespective of
+whether dividend are paid or not. (06 Marks)
+
+b.
+
+Metro Corporation has to retire Rs.20 million of debentures each at the end of 6, 7, and 8 years
+from now. How much should the firm deposit in a sinking fund account annually for 5 years, in
+order to meet the debenture retirement need? The net interest rate earned is 10 %. (06 Marks)
+
+Q. 7 Write Short Notes on (3 Que.*04 Marks= 12 Marks)
+a. Investment Decisions in Financial Management _ b. Cost of Equity ec. ARR
+3
+f5
+````
+
 ## 2016-17 · Final-Exam · Trim 5 · paper 4fdb2e792b47
 
 - Departments: Real Estate and Construction Management
@@ -9713,184 +10640,6 @@ c. Time value of Money
 Page 3 of 3
 ````
 
-## 2016-17 · Re-Exam · Sem 8 · paper bef2c8022a27
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management 2015-16,2016-17 Re-exam_bef2c8022a.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 17 April 2018
-- Text: ocr (3 pages), mean OCR confidence 92.6
-
-````text
-(ie eet
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &, FEI
-
-Li >
-Programme: MBA Tech ( All Streams) Year: IV Semester| BRA x Y is
-* a
-Academic Year: 2017-2018 KS *
-~ a
-Subject: Financial Management
-Marks: 60
-Date: 17 April 2018 Time: 2.00 pm - 4.00 pm
-
-Durations: 2 Hrs.
-No. of Pages; _©-3
-Final-Examination (2017-18)/
-Re-Examination (2015-16/2016-17) .
-
-Instructions: Coraiaaus should read carefully the instractions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, “attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-é
-
-Q.1. (3 Que.*04 Marks= 12 Marks)
-(A) You can invest today in a financial instrument that will pay you Rs 1,000 every year starting
-
-at the end of this year for the next five years and Rs 5,000 at the end of the five years. If you
-
-require a 12% return, how much should you be willing to pay for this instrument?
-
-(B) From the following information supplied to you, determine the theoretical market value of
-
-equity shares of a company as per Walter’s model.{s this optimum dividend payout policy as per
-
-the Walters model?
-
-Earnings of the company Rs. 15, 00,000; Dividend paid Rs. 6, 00,000
-Number of shares outstanding 10, 00,000; Equity capitalization rate is 10%;
-
-Rate of return on investment 12%.
-
-(C) Explain structure of Indian Financial System diagrammatically.
---- page 2 ---
-Q. 2 A company is considering the replacement of its existing machine which is obsolete and
-unable to meet the rapidly rising demand for its product. The company is faced with two
-alternatives: (12 Marks)
-(i) To buy Machine A which is similar to the existing machine or
-
-(ii) To go in for Machine B which is more expensive and has much greater capacity.
-
-The cash flows at the present level of operations under the two alternatives are as follows:
-Year 0 1 2 3 4 5
-
-Machine A -25 0 5 20 14 14
-
-Machine B -40 10 14 16 17 15
-
-The company’s cost of capital is 10%. The finance manager tries to evaluate the machines by
-calculating the following:
-
-i) Net Present Value
-
-ii) Profitability Index’
-
-iii) Payback period
-
-iv) Discounted Payback period
-
-At the end of his calculations, however, the finance manager is unable to make up his mind as to
-which machine to recommend, You are required to make these calculation and in the light thereof
-to advise the finance manager About the proposed jnvestment.
-
-*
-Q.3. An Electric Equipment Manufacturing company wishes to determine the weighted average
-cost of capital. You have been provided with following information: (12 Marks)
-
-Balance Sheet of Electric Equipment Manufacturing company
-
-Liabilities Amount Assets Amount
-Equity Share Capital 12,00,000 | Fixed Assets 25,00,000
-Preference Share Capital 4,50,000 | Current Assets 15,00,000
-Debentures 9,00,000
-Retained Earnings 4,50,000
-Current Liabilities 10,00,000
-
-40.00.000 40.00.000
-
-Additional information is given below:
-
-a. 20 Years, 14% debentures of Rs.2500 face value, Redeemable at 5%premium sold at par,
-2% floatation cost
-
-b. 15% Preference shares, selling price is Rs.100/share, 2% floatation cost.
-
-c. Equity shares selling for Rs.115/share. The expected dividend at the end of the year one
-is | 1/share and expected growth in dividend is 8%per annum.
-
-d. The corporate tax rate is 55%
-
-Assume that the company is satisfied with its present capital structure and intend to maintain it.
---- page 3 ---
-Q.4 The balance sheet of Star Company is as follows: (12 Marks)
-
-Liabilities Amount Assets Amount
-Equity share capital 60,000 Fixed Assets 1,50,000
-Retained Earnings 20,000 Current Assets 50,000
-
-10% longterm debt —_ 80,000
-Current Liabilities 40.000
-2.00.000 ‘2.00.000
-
-The company’s total assets turnover ratio is 3, its fixed operating costs are Rs.1,00,000 and its
-variable operating cost ratio is 40%. The income tax rate is 50%. Prepare the income statement
-of Star Company and calculate the Operating, Financial and Combined leverages given that the
-face value of share is Rs.10.
-
-Q. 5 A company’s present capital structure consists of 10,00,000 shares of equity stock of Rs.20
-each. It requires Rs. 1,00,00,000 of external financing for which it is considering three
-
-alternatives. %
-
-Alternative 1: Issue 5,00,000 equity shares of Rs. 10 par at Rs.20 each.
-
-a
-Alternative 2: Issue of 3,00,000 equity shares of Rs:10 par at Rs.20 each and 4,00,000 preference
-shares of Rs.10 par carrying 11% dividend.
-
-Alternative 3: Issue 1,00,000 equity shares of Rs.10 par at Rs.20 each and 80 million of
-debenture carrying 14% interest rate. Qol
-
-The company’s tax rate is 40%.
-i) What is the EPS for these three alternatives assuming EBIT to be Rs.90,00,000?
-_ li) What is EPS-EBIT indifference point for alternatives 1 and 2?
-
-Q. 6 a. The equity capitalization rate of Jupiter Industries Ltd is 12%. The Company has 50,000
-
-shares outstanding which have a market price of 200 each. The company expects a net income of
-Rs.7, 00,000 at the end of one year and plans to declare a dividend of Rs. 6 per share at that time.
-The company also plans to invest Rs. 10,00,000 in a project after one year. It is assumed that the
-
-assumptions underlying the Modigliani-Miller model on dividend policy are applicable. You are
-
-required to show that the Modigliani-Miller model on dividend policy holds good irrespective of
-whether dividend are paid or not. (06 Marks)
-
-b.
-
-Metro Corporation has to retire Rs.20 million of debentures each at the end of 6, 7, and 8 years
-from now. How much should the firm deposit in a sinking fund account annually for 5 years, in
-order to meet the debenture retirement need? The net interest rate earned is 10 %. (06 Marks)
-
-Q. 7 Write Short Notes on (3 Que.*04 Marks= 12 Marks)
-a. Investment Decisions in Financial Management _ b. Cost of Equity ec. ARR
-3
-f5
-````
-
 ## 2016-17 · Re-Exam · Sem 8 · paper 42f453fd6566
 
 - Departments: Common (all branches)
@@ -10058,2423 +10807,7 @@ a. Net Income Theory of Capital Structure b. CAPM c. Accounting rate of return
 Af.
 ````
 
-## 2015-16 · Final-Exam · Sem 8 · paper e9d77161921d
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management 2015-16 Final.pdf`
-- Printed on paper: max marks: 60; exam date: 21/04/2016
-- Text: ocr (2 pages), mean OCR confidence 94.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
-
-Pregramme: MBA Tech (All Streams) Year: IV Semester: VIII
-
-Academic Year: 2015-16
-
-Subject: Financial Management Marks: 60
-
-Time: 2.00 «
-Date: 21/04/2016 Durations: Pu pm
-Final Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer
-Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1. Assuming a discount rate of 12% find out which one of the following gives the highest returns: (12)
-a. Rs 1,60,000 available today
-
-b. Rs 1,75,000 to be received after 8 years
-
-c. Rs 25,000 p.a. in perpetuity
-
-d. Rs 10,000 per month for a year and Rs 1,00,000 at the end of the year
-
-e. Rs 25,000 per year for the next 10 years.
-
-2. A project is costing Rs 120 crore. The life of the project is 8 years. The annual cost including depreciation is Rs 50 crore. If
-the required rate of return is 15% find out what minimum revenue the project must generate to make it viable. Assume
-depreciation at SLM and tax rate of 40%. (12)
-
-3. (12)
-MangalDass Enterprises is in the business of manufacture and export of garments. Currently in its capital structure it has a
-debt of Rs 15 crores with cost of 10%. The cost of equity is reckoned at 15%. It has earnings level of Rs 3.75 crores and does
-not pay any taxes being tax-exempt unit. The Managing Director of the firm believes that the level of debt is too high and
-would like to repay the debt by issuing additional shares to the extent of Rs 5 crore. According to him reduced level of
-leverage would reduce the cost of capital because of two reasons - cost of debt falling from existing 10% to 9%, and cost of
-equity falling from 15% to 14%. Evaluate the option of the Managing Director to replace debt with equity. Also find the
-WACC and value of the firm in both the situations.
-
-4. a) ABC Ltd. has expected earnings at Rs 30 per share of which it expects to distribute Rs 15 as dividend. Dividend has been
-growing at the rate of 15% previously. The market price of its share is Rs 300.
-
-Find the following:
-
-i) Current cost of equity (3)
-ii) Cost of new equity if the firm issues fresh shares at current market price but with floatation cost of 5% (3)
-b) What do you understand by business risk? How can this be measures? (6)
-
-Y2
---- page 2 ---
-5 Ke = \>"I
-
-MultiactivityLtd is has series of projects that can generate returns of 10%, 12% and 14%. Currently it has earnings of Rs 12
-per share of which 25% is the minimum dividend payout has to be maintained due to investors preference for current income.
-The managing director of the firm is considering three alternative dividend policies of 25%, 50% and 75% payout.
-
-i) What is the likely impact on the value of the share of dividend policy under different rein’
-ii) What conclusions can you draw?
-
-(12)
-
-vestment rate under Walter Model?
-
-6. What are the major forms of business? Describe in brief. (12)
-
-7. Discuss the types of Financial Markets and their relationship. (12)
-
-2/2-
-````
-
-## 2015-16 · Re-Exam · Sem 8 · paper 22834f218926
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management Batch 2015-16 Re Exam.pdf`
-- Printed on paper: exam date: 08 July 2016
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-
-Academic Year: 2015-16
-
-a IN i
-Batch: 2015-16 EGO.
-Subject: Financial Management r4 C=
-Mafk $40 ye ST MB
-Timbs210q pre MRAP
-Date: 08 July 2016 re
-
-Dura’ : 2 Hrs
-
-NB: ; Nite
-1) Question No. 1(One)is compulsory. _
-2) Out of remaining questions, attempt any 4(Four)questions.
-
-3) In all 5 (Five) questions to be attempted.
-
-4) All questions carry equal marks.
-
-Re-Examination eer?
-a- uM
-
-5) Answer to each new question to be started on a fresh page.
-7 6) Figures in brackets on the right hand side indicate full marks,
-7) Assume Suitable data if necessary
-
-Qu.1. (12)
-A) What do you mean by Internal Rate of Return?
-
-B) X company earns Rs 5 per share is capitalized at a rate of 10%and has a rate of Return on
-Investment of 18%. According to Walters Model what should be the price per share at 25% dividend
-payout ratio,
-C) Factors affecting Dividend policy,
-
-Q.2 A company had the following Balance sheet as on March 31, 2015:
-
-(12)
-(Rs. crores)
-| Liabilities and Equity | Amount | Assets Amount
-Equity share capital
-
-Fixed assets (Net)
-
-(one crore shares of Rs. 10 each) 10 | Current assets
-
-Reserves and surplus 2
-
-15% Debentures 20
-
-Current liabilities 8
-
-| 40 |
-The additional information given is as under:
-- Fixed costs per annum (excluding interest) Rs. 8 crores
-
-Variable operating costs ratio 65%
-Total assets turnover ratio 2.5
-Income — Tax rate
-
-40%
-Required: Calculate the following and comment:
-
-i) Eamings per share ii)Operating leverage iii)Financial
-
-leverage iv)Combined leverage
-Q3 (12)
-The following is the capital structure if Simons Company Ltd. as on 31-3-2015:
-Qs.)
-Equity Shares: 10,000 shares (of Rs. 100 each) 10,00,000
-10% Preference Shares (of Rs. 100 each) 4,00,000
-— 12% Debentures 6,00.000
-20,00,000
-pati The market price of the company’s share is Rs. 110 and it is expected that a dividend of Rs. 10 per
-share would be declared for the
-
-year 2015-16. The dividend growth rate is 6%.
-
-i) Ifthe company is in the 50% tax bracket, compute the weighted average cost of capital.
-
-ii) Assuming that in order to finance an expansion plan, the company intends to borrow a fund of
-Rs. 10 lakh bearing 14% rate of interest, what will be the company’s revised weighted average
-cost of capital? This financing decision is expected to increase dividend from Rs. 10 to Rs. 12 per
-
-share. However, the market price of equity share is expected to decline from Rs. 110 to Rs, 105
-per share, tt fees
-
-SA.
---- page 2 ---
-Q.4
-The Modern Chemicals Ltd. requi
-before interest and taxes of Rs. 5,00
-
-case, by issuing equity shares. The
-decline to Rs. 125 in case the fu
-borrowed at the rate of 10% uptoRs. 2,50,000, at 15
-
-at 20% over Rs, 10,00,000. The tax rate applicable to the
-should the company choose?
-
-nds are borrowed in e
-
-Caravan Corporation is venturing in a new project. Initial investm
-of depreciation 25% on WDV basis.
-Calculate:
-
-i) ARR
-
-ii) Discounted pay back period _
-
-Earning Before Tax (Rs. In Lakhs)
-
-Q.6 _Write in Brief
-A) Role of the finance Manager.
-B) Capital Structure based on Durand Theory
-
-Q.7
-
-Write a note on
-1, Graham and Dodd Model
-2. Time Value of money
-3. Leverages
-
-of Dividend decision
-
-% over Rs, 2,50,000
-
-The rate of discount is ]
-
-Year 2005 2006
-
-pected to yield earnings
-mancial plan, the company
-€ alternatives to finance the
-00,000 and the balance, in each
-iTently selling at Rs, 150, but is expected to
-xcess of Rs. 10,00,000. The funds can be
-
-and uptoRs. 10,00,000 and
-company is 50%. Which ferm of financing
-
-(1
-ent for the project is Rs, 20 lakhs. The rate
-
-0%, Tax rate is 40%,
-
-se (12)
-
-es Y
-````
-
-## 2015-16 · Re-Exam · Sem 8 · paper f9fda2460beb
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial_Management_....Re-exam_2015-16-17-18 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 17 June 2019
-- Text: ocr (2 pages), mean OCR confidence 94.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-, Program MBA Tech (All Streams) Year: IV Semester: VIII
-, AcademicYear: 2018-2019
-Subject: Financial Management Marks: 60
-Date : 17 June 2019 Time:2.00 pm to 4.00 pm
-“ Duration: 2 (hrs)
-
-No. of Pages: vv
-Re-Examination (2015-16 /2016-17/ 2017-18)
-
-Instructions: Candidates ghould read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary,
-
-Q.1 (3*4 Marks= 12 Marks)
-
-A. Given the following facts about a firm, compute the cost of equity capital using Capital Asset Pricing
-Model (CAPM) assuming a market return of 15 percent next year. What would be the cost of equity if
-beta rises to 1.75? Risk free rate of return is 11%. Beta co-efficient of the firm is 1.25.
-
-B. Suppose that a bank charges a nominal interest rate of 6% per year, compounded quarterly for a loan,
-what is the effective interest rate? If the interest is compounded semi-annually what would be the effective
-interest rate?
-
-C. Vadilal Company Ltd. has Capitalization rate of 15%. It’s earnings per share is Rs.50 per share. The
-
-company declares Rs.10 as dividend .You are required to calculate share price assuming 20% return on
-investment using Walter’s Model. What should be the optimum dividend payout as per the Walters model?
-
-Q. 2 SK Manufacturing Company uses discounted payback period to evaluate investments in capital assets.
-
-The company expects the following annual cash flows from an investment of Rs 35,00,000: (12)
-YEAR l 2 3 4 5 6 7 8
-
-CASH 6,00,000 | 8,00,000 | 8,00,000 | 9,00,000 | 10,00,000 | 10,00,000 | 12,00,000 | 14,00,000
-FLOWS (RS)
-
-No salvage/residual value is expected. The company’s cost of capital is 10%.
-Advise the management if the proposal is worth considering using:
-
-|. NPV. 2. Profitability Index 3. Simple Payback period 4. Discounted Payback period
-
-Page 1 of 2
---- page 2 ---
-Q. 3 Calculate the Degree of Operating Leverage (DOL), Degree of Financial leverage (DFL) and the
-
-Degree of Combined Leverage (DCL) for the following firms. (12)
-Firm A Firm B Firm C
-
-Output (units) 60,000 15,000 1,00,000
-
-Fixed Costs (Rs) 7,000 14,000 1,500
-
-Variable cost per unit (Rs.) 0.20 1.50 0.02
-
-Interest on borrowed funds 4,000 8,000 --
-
-Selling price per unit (Rs) 0.60 5.00 0.10
-
-Q.4 XYZ Ltd. has the following book — value capital structure as on March 31, 2016. (12)
-
-Equity Share Capital of Rs 10 per share 40,00,000
-
-11.5% Preference Shares of Rs 100 per share 10,00,000
-
-10% Debenture of Rs 100 per debenture 30,00,000
-
-The equity share of the co. sells for Rs.50. It is expected that the company will pay next year a dividend of
-Rs. 2 per equity share, which is expected to grow @ 5% p.a. forever. Assume a corporate tax @ 40%.
-Current market price of preference shares is Rs 110 per share and Debenture is currently selling at Rs 120
-
-per debenture.
-
-Required ;
-
-1. Compute Weighted average cost of capital (WACC) of the company using book vatue weight
-2. Compute Weighted average cost of capital (WACC) of the company using Market value weight
-
-Q.5 An investor borrows Rs 5,00,000 from a bank to be repaid in five equal instalments at the end of each
-of the next five years. The interest rate on this loan payable is 10%. What is the amount of each instalment
-
-payment? Prepare a loan amortization Schedule. (12)
-Q.6 (12)
-Explain the MM hypotheses of dividends and prove how it supports irrelevance of Dividend Theory.
-Q.7 Write Short Notes on (12)
-a. ARR b. NI theory of capital structure c. Operating Leverage
-
-Page 2 of 2
-````
-
-## 2014-15 · Final-Exam · Sem 8 · paper c913cb832c40
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial management Batch 2014-15 Final Exam.pdf`
-- Printed on paper: max marks: 60; exam date: 24/04/2015
-- Text: ocr (18 pages), mean OCR confidence 37.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-
-Academic Year: 2014-15 ” ~
-gens Se,
-A
-
-Subject: Financial Management
-Marks: 60
-
-Time: 2.00
-Durations: 2
-
-Final-Examination
-
-Date: 24/04/2015
-Cr THER
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-PC arstus ye
-KS bd BRARY ) Ss
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-43
-=tt*
-
-QI (a) Nirmal deposits Rs.100,000 on retirement in a bank which pays 10% annual interest.
-
-How much can he withdraw annually for a period of ten years (4)
-
-ket price of shares with the help of following information available for a
-
-QI (b) Calculate the mar!
-(4)
-
-firm’ as per Walter model.
-‘Capitalization rate Ke= 10%
-Earnings Per Share = Rs 10
-Rate of return on Investment = 15%
-Dividend Payout ratio is 50%
-
-es with the help of following information available for a
-
-(4)
-
-QI (c) Calculate the market price of shar
-firm as per Gordon model.
-Capitalization rate Ke= 20%
-Earnings Per Share = Rs 20
-Rate of return on Investment = 12%
-“Dividend Payout ratio is 50%
-
-4/2.
---- page 2 ---
-having a cost of Rs. 120000/ and life of 6
-
-Q2. A company is to start a new project which is
-and follows SLM for depreciation. The
-
-years. Salvage Value is nil, Applicable Tax rate is 50%
-cash flow before Tax (CFBT) are as follows: ;
-
-Year 1 2 3 4 5 6
-CFBT 12000 15000 20000 30000 40000 40000
-Compuie the following when cost of capital is 10 %
-
-a) Discounted Payback Period b) NPV c) IRR (12)
-
-equal installments. If the loan carries a rate of
-
-Q3. A loan of Rs 100,000 is to be repaid in five
-interest of 14%, calculate the installment and show the breakup of each installment into principal
-(12)
-
-and interest component.
-are in the same risk class, and are identical in every
-
-bt , while Company Beni does not. The levered firm has
-ms 20% operating profit on
-
-Q4. Company Ani and Company Beni
-respect except that Company Ani uses de
-900,000 debentures, carrying 10% rate of return. Both the forms ea
-
-their total assets of 15 lakhs.
-
-a) ) Compute the value of Company Ani and Company Beni using Net Operating Income
-
-Approach. Assuming overall capitalization rate is 15%.
-b) Using Net Operating Income approach, calculate equity capitalization rate for both the
-
-firms.
-c) Explain the Net income theory of Capital structure. 5 (12)
-
-Q5.   Zigma Limited has the following capital structure:
-(Rs in lakh)
-Equity Capital (10 lakh shares at par value) 100
-12% Preference Capital (10,000 shares at par value) 10
-Retained Earnings 120
-14% Non-Convertible debentures (70,000 debentures at par value) 70
-14% Term Loan 100
-Total | 400
-
-5. The next expected dividend per share is Rs 2.00 and
-
-expected to grow at constant rate of 8%. The preference shares and Non-Convertible debentures
-0 per share and are redeemable after 7 and 6 years
-
-are currently quoting at Rs 75 and Rs 9
-respectively. Applicable tax rate is 50% for the firm. Calculate the weighted average cost of
-(12)
-
-capital on the basis of Book value.
-
-The market price per equity share is Rs 2
-
--Q6. Describe Walter's model, Gordon's Model & Modigliani-Miller Modei of Dividend policy in
-detail. (12)
-Q7. Write a short note on: (4*3=12)
-
-a) Floatation cost
-b) Capital Assets Pricing Model
-c) Effective vs. Nominal interest rate
-
-X
-
-of
---- page 3 ---
-3s
-ODON- ARABDBNRODT
-ea) ed Sek :*; (Qaen*%
-ors nonoornr anon
-aaowrr
-
-onnwoooordorey
-ttoOoWDNNe
-
-Vaasa acar+nHnnoeootns
-rraoet
-
-° ote wate ar ONOe hr SOSZQSASagae
-@ 2 ERGO BNSCBOVTIAISALS
-SONNROARST
-
-a PANNA AAA OTAGO
-oer
-
-elo wmesoSh eS esese Sse ngsRegesss
-“ SCOOP YSSanHvoakveun see
-
-te eee NAN
---- page 4 ---
-A.4 Appendices
-
-ooo
-
-oo Ww
-
-rT
-
-o|erQ
-Rlooadt
-
-¢
-
-vm hee
-
-on
-Sioa
-io |=
-ol a
-~ os
-3
-S
-S
-Q eo
-°
-9 |&|2s8
-Qj jee
-a
-3
-ems
-o on
-c |e lon
-oO jelnan
-9 [rN
-_ cr
-°
-3
-(ty owt
-
-= ~—i|o3r
-°
-
-om
-
-E
-
-fe} ejOn
-£ o oO
-O JSIEN
-o TIES
-c=
-
-ee
-
--
-
-1
-
-<x
-
-7 =
-
-2 Siow
-< >
-
-oaoonae
-
-innoy
-
-oon
-OO
-NNO
-
-nwo ce
-
-AAO
-
-rH NNN OD
-
-aronaogn
-
-HANNO
-
-annunrn
-
-rr NNN
-
-HK ANN
-
-rAd ST
-
-erin
-
-aonoo
-
-er rN
-
-“onuoonen
-
-anu oO
-
-toh
-ato
-
-ork
-
-Xroo
-
-or
-1) ©
-
--
-
-NO
---- page 5 ---
-Appendices A.5S
-
-con @emnunsOnSERas +tTORT Ore 5
-—-anw OND RavyrOonawronoao Om ae)
-: : mMroomnnmms c
---- page 6 ---
-A.& Appendices
-
-cor MOE BE QBS ZESERS
-w~|/oOr gs a~x+ wo eC PESLTRAE ESL asss
-e/SB2 85 RRR Soe eer OK ss BaannrnQOoe
-= 2 OF Bee eee eH BUSSE SE SSH Se BS
-S¥SSSEL TBE SASSER BIALaSS
-T~HESFHOHK ONNSYS
-rr NIDODD
-
-3 LH AN OWNOMAG
-SPARGMHRKSRAOE
-SCP2AGZHDRSOTARSS
-SEEeEnnrar wo
-r ON
-- wo
-
-otrornr vo
-
-+o Ssanoconnwngs
-X(BRSSSAO oer wass ) :
-oO FB oe OER BSR SABA SSI RIE BB
-SHBSISTBSRLSASASSSRZESS
-NEQSSSa2- ONT SSS
-~~ Kennmnnon
-—-hK QD
-oD
-fo] annuowoh
-
-comer menereesnBXBks
-32 SSM EBVSSESBSSRrSESB HAS BaCS
-
-Es eee eee ecco Shee Ree heres
-
-oO Be ee ee eee SSSEEBRBESSISB
-
-HWE ASELSSSHISSErZssrB
-
-SCPMORSTGOr-OUSLS
-
-er nok ®
-
-eto
-
-N
-
-so | NNO
-
-_ Rlaatatore rh 2 um
-
-_ BO @ ESS S ar PSN SSBSNSHSS SSB
-3 ~¥SUSSSSRSNSSTOSSZaLTy
-c NEAnNTOR ACTS x
-fo} Hr OOS
-G =
-
-=
-
-coor om ee ger eIEIeNBSSEssaagss
-Seog ssS0qoynase?
-Soetanennnnes
-
-se FOOngdnne@gD
-= 4 LBAeOHAWK LCR
-
-=] SlicanvHr ene
-oc SEPA otrooore2g
-STAQSATOHOM HVS
-rr ODOT
-NN
-_
-
-_ x0 |
-° Pa te oar : , 2 2 2
-BBR S GSB oon Sse RN BRS AS SSBR SS
-£ SGXrSSSENBAUSISSSCRAZ SE
-3 NOVADHROANT OS
-a - or
-N oO
-wa .
-= po on SONS SSIESRBSN SLSR SEh Sse
-3 exe SSSeeSsas8 sae elses ere aces
-° 2 |SS 88883 ee eee eee Scaggs se
-Q MLDREEE EE RrPae trree er Peete eet
-£ ASHHSSSSS ISH SISL SHB bH
-~VTP2RQaHtroror ey
-Cc -t oOo
-Oo -— oOo
-o
-a cow at HOME SISMSSSSSKSBSBR BSE
-OteyNNAnRe 2ASAULSASSSVToHseansas
-ae Rath bra been aaa
-conn than
-
-oO
-F |e [eR aanoces
-
-ae he r
-Ble rand wHoorst
-- rTreeaotyonro
-‘ Raf NePaanvoonh
-< OND
-it
-
-w L a
-
-oO seat moneeSENQgasa?d
-a | wotmon aol rN Steerer aannanees
-
-‘
---- page 7 ---
-Appendices A.7
-
-se SST SSK SCR SLSSASR SA Seer ocoyowor eas
-
-LISGONHAHAGCGH HH RORSHRASHNRGOHNGARGZNO
-
-RISONHQAHROTTOHRCNHI AN HYERYET ORE NDOT
-
-RICON
-
-RISSHHORAQTK ARHGADONGAGBRNAQHHHOYRA
-
-TN
-3 CONSCONNMAKARKRMDORONRODNOrOMORME
-3 OnnMrNOTTNROrTTORNMNOYTANNOYrTOYTONDHIAOT
-
-TH [XLISSCHAHAAHOHADRARHHODK HON HAQHKRYHRROH
-
-c - rN
-oO
-_
-° CONHHOoMDATNOWOORNAMDMYTRHYONrDaMOwamOaNNortervsnR YT
-
-c errr rT rH KH NNNNNNOOYOYTY an wo
-N10
-
-Cc
-
-<
-
-c OOrtOoOnnontraonwoonw~rwtrhr OWOONWNHOONroaordrt
-
-id OMADODOODMWOOMDAK- DAMN OrrRARONONWONOOYD
-
-- |FISCOKNTOMDK YD OOMK NTH MONTY HTInh
-
-2 =
-3
->}
-> COONTDHTMNNOAMANOCTMNAANONR DAM r Ontreh
-
-ro) rer rT TK KET NAUNNNNNN OOTY OR DO
-
-Qa
-
-=
-
-& OOO SCNT OO NER ee BT ES BR SRS SS Bes
-~-MNOONrDOWOWODOTYRNYMHr yar METRY OANOHR O
-
-o 4
-clr lEeN OF HON DDOKANDYTGORODGDONNYNHNOOY- HD OY
-E were eee eK ANNAN SET HS
-by -
-<x
-“4G
-
-C NO Ow oaomno NO wrNoORWOMOrTVNOMOTNWDONONMA
-ae ‘ Serre eee ee SH
---- page 8 ---
-A.8 Appendices
-
-SOC MUN OOPABISLOYYSLBEAR
-
-elOSZ BR SeS 888K 8S 8I BES BSS RsG Saeed) =
-- olen BI Bee eB Bee BTR BOON oases cS
-
-N BB BAGS ANE BS SSSRE SSE SIIRS
-
-AGCGEASLZSRSSA Hoar aselaaag
-SNOPANMATH AON S| —
-
-r-nNR OW
-
-rv
-
-COOKKRMOMANMAVQOSA
-2@QSSyronnoorTOBVs
-arReoOrnhnt
-
-- Chao wNoaadwar Shey ees
-
-AHPISHLZSR AK HCHVSYS SHS
-
-TEP FAnnatTagaNnaw i
-
-a0 oO i
-
--o |
-
-|
-
-|
-cow TARR ORME OOBBESVLSVSSRSSSRE
-|\egeee Ze SS GB RSS ss ake seaeesaesas
-AEE eee eee eee errr herr es
-Oe ao ONNR AH ESYHSTBSYSLERS
-BQAYFrRoToyoronyn
-
-DI~- ADDR ANN
-L22aanntrnona
-SN FSC aAannnar or
-
-coarthaernaesags
-SASSSCTRGEQRME OG
-7s -RQO~~ TOR
-
-LIBR BR SNR RON GR SSOS Lt
-- Be eee ee SSP SSSESE LH TESTS
-HYOARASEBSERGSEMwMOTZISILSS
-TES HKENNnNorer DO
-
-rOonow
-
-- —
-8 Joomen ne S2gBSSXBaessese
-Cc eS SSSR RS SLASBSE BRE SBE SS BSNRBRaS
-S 2/8 2885 BT AGAR BR Eee BO ee os ess
-1S) © IO BOS OE SK SRO SDSELBABBS
-ee! EYE RASHTHOCROBMOOTE NaNnNOWo OD
-
-reer eanonr ood
-
-() -ayto
-
-oe =
-a .
-
-= leone SEN SSSSRS STR BE SSB E SSR BERR
-
-oc elISSXSPRBNSSISSSBrESEISBNSERK SSS
-
-2/8 BE 82 ESRRSASSB BRS SHS BON oe EeBe
-
-Seon wwwaeNnor PsN seesr
-
-aomnaroaneaner
-
-o |rlodontoor MOOoF
-Sagas yworoor
-
-& =e
-
-. a
-
-— an
-+
-Cc
-
-> jlocon ope QBS KC Seg Sr gers sgg erases
-
-- 2 ISSSR BSS BSIK SES BE BSS SPAS BR BSLS
-
-SB jsljen +e2e SO BBSRS RAR BARON TNO er Sss
-
-c SO 8 OO BO GNIAR IS RSS SSR BSBSTRS
-
-c SHGASHAELSRSRSSAMHLE BIBS
-
-eer re KT NODNMD
-
-<q “AT
-c
-
-o loonooe ee SSL SSAE ESAS ESSSI25 8585
-
-el/SSSSSRB Be SE BESS ERAS SSS NR Ol EBSs
-
-SUS BSSSERAR ATTIC sa
-
-onunonnrt @
-
-218 GS Swoon wHoOrY =)
-NAnNattoHonR DAO 255 ¥
-og 5
-
-g eer
-3 a
->
-paargonmMmaax2aANsesSsgsr
-Boeoaonananooaoh
-
-COT DanNnoO®
-GowUOMNNHRDNDTO
-ns FOADEAKNAMOANA
-
-3 Yo Garoaocodvnre ss
-a. = SATNHRZANKHOT THON VHS
-
-err NT Kr OD
-
-E 7
-
-2]
-
-oO SO NO MOMATNE MT HBSSSSASLELR SEBS LS
-
-YSPC BSBSSSCOK IEE ORSOR
-
-RANANK HK TONVOE
-
-—
-x= 2
-= e-leadnv~ororste
-rTEFAnnaasone T2S8
-SES
-a y 7
-9
-< |
-a S| wowmoneaorNOTVOr 22 QaNRAKsssls
-On ANTOPE SF ANCNAANNO OYTO
---- page 9 ---
-Appendices A.g
-
-AHN ;
-SSENHNTHBOMRKFNBDNANAMAHNAMOWOODW
-w to
-
-SSANNMOHNDODOTDHOAaNMK- TRON
-
-ofOoNdr Oh
-
-8 QIlo as woKi HBOGTHN OND -KAGKrGDKOAREHR TPL
-al TPR NOT HOROKTHNOTODDODrROOTYVOE
-
-KK KTNMNNTORDADOLK O
-oa rKH ANDO
-a —- ON
-a ~
-
-SliwciocoMOR AMANNODODD
-ToOnTHtTDONMORYAE
-
-nN : ie: te a et ek ee ee 2 3 es
-a CAHOHOKHMDODHAATDOBDVDGVARVDOVOAR SSS
-c TMP SBS<HWGDOOMKKERYANMDETDTOND DO
-[e) -— er NNOMTNODONDOG
-
-r- NDOT
-% =
-
-°
-=H |Sloeqgnovrar nr tTONaoD
-
-c err nntneo
-
-< eee KH NANT OR DORK ©
-
-anno
-
-c ao
-o
-
-RonoarrecoO©anrsd
-
-. ©ejoongtrnea CAMMRnNRADADD
-‘Oo oS KR RAODUDYKYDORTH~DONDO
-
-fe) ONtTODORMDOHKRQD
-S/SGR G9 ten Gh h BOQ te eavaeead
-© CAO BNGYTOHDODNGOYTANYAUGON VRE VQOCHESSBS
-3 SCT ONBOTORGOK~-TRrONRGOONOOBRHG -
-a z TP SCNnaHotHornr org
-> nono
-wt
-ne]
-
-a. TVawNnoaNdaoHtTHoauryoorRr Engages se
-£ ~ SCOPNSSTFBSHAONCHAMBOHNNDAHODAL
-ONES ANHDTHORRGDAD
-
-Oo rvtnst
-a)
-
-“ ores QM Gea) sr De TT SEnnmnyotnena
-at « roo
-
-om jo)
-<q [| HOt Or OO OT See eer eT NAN ANA Oe
-
-| l | | | | | i 1 t r .
---- page 10 ---
-|
-
-| |
-
-A.10 Appendices
-
-sf
-
-oleadt
-
-> |2l|oeooo
-
-=) SRlowon
-
-2 Slot
-
-ot
-
-a
-E
-c
-
-1 Oo \
-o |x1geo
-= _ a
-F 15 |28
-Y
-= | |
-w x |
-a}|Sjuan
-< \7
-ran fad
-
-el|Saao0tTN
-
-|
-
-|
-
-|
-
-I
-
-|
-
-1
---- page 11 ---
-Appendices A.t4
-
-3s NO DOOINOSOCOUBOSSRReRRS Teer woxnaseson
-
-x OR EOCTSASFSRSESSSSSNCENnee2sesss
-
-3s DOONOS - rT ro RVeoeesee2eos Ses sssaggeltses
-
-oF 1 Ql 00:10: 0D 00 OO Palo Oe ie Or Oreo eoerersekS
-
-{o) SRIRnYRKeDOMKDoOYtTNODHWOTNGODRNHNNDNODORY NOON
-H|RARQQHORKL KR ECHGOHHHHHHTTEQAVY
-
-cIOMNTOODOrMNREOYTAMDANAYTOONMNOHRYNONONMON
-
-a
-
-o
-
-hh
-
-a
-
-o
-
-£ ceICOr Ke HNMNMNYTNORMOrMNYTODOrMNDONDHAD®D
-
-- BIDRDRONTONANKFOBODRRONYT RAUNT OMDDDYONR DAS
-
-°?
-
-< x
-
-oa] ae
-
-E SIKnNMFTNHNORAMROKAMTNORMROrAVNMRYTNHOAHNONGS
-
-Ss weer rr rr TK TH TH NNN NOOO
---- page 12 ---
-iS
-
-A.Ai2 Appendices
-par er2nr22858s >
-
-anon
-met aOMANTs
-
-wewlared
-
-Ss 1D ao
-
-£|B SRS SRRRSEK TK eoee® 2
-1S)
---- page 13 ---
-S1ZS
-ai 2
-Cares
-sine
-a {ss @
-Sloe
-xis ©
-e|no
-X58
-al{s@
-sjt oO
-SIO
-ais @
-e]oo
-xlot
-au}2 2
-—
-BD
-=
-
-ce
-S
-Na CO)
-+{|2
-g [alee
-Qa
-
-3
-[om
-
-Fa
-
-Ca
-6 |X |2
-i?)
-
-o
-
-=
-
-KS
-
-elo
-~- 11a
-coc 1N Ia
-o ;N)-
-a
-
-o
-
-ts
-
-Q
-
-Fa
-
-elo
-Fe }tia
-a |e
-&
-
-<x
-
-wef
-ao} Si
-
-=
-
-Q
-oO
-
-=
-
-foo]
-
-KR
-
-foe]
-
-Q
-
-ae
-
-t+
-
-oO
-
-wo
-
-Appendices A.i3
---- page 14 ---
-°
-oF
-
-°
-of
-
-°
-of
-
-°
-
-°
-x
-
-me)
-
-nN
-
-oS
-
-w
-
-=
-
-paid
-
-L~O
-
-_
-
-sea
-
-ivi
-
-|
-
-is]
-
-|
-
-| |
-
-onn
-
-N
-
-cS
-
-Q
-
-jo}
-
-ite)
-
-|
-
-|
-
-|
-
-|
---- page 15 ---
-Appendices Ais
-
-Om mp >
-ROxl oy
-Nao} s
-
-Foo or) 8
-
-e PRPONKRNONWORYMHNAOR@ADOY
-
-S TANOTOHO GON DDEDSOSHK KANN OOS HKONNGD
-EZ Pr re ee ee eee em et ee ee ee Ge
-@
-i=
-(e}
-
-° NOWMWONANMNrY OHHOMDONDAOtOOD
-
-3s SOTNTr DE NADAHHMDAMROOHARL DIS
-
-nwo z 4 restr won
-TMNOTOONNDADOK KADY YHKHOCONGDH OS
-
-S a a ae el le oe ee
-
-o
-
-3
-
-SS SISSLZSENROXVQELMOMRMANNDANK-ONY+HYKROoHOYN
-
-> CIPBSSSRCESROVPMPRITSOCTRGDARHOHK HSH ANDSBSSY
-
-= RlPASLASLTAKM AN HANK HDGHNHRGMSGNUAHSROSY
-
-c N TNONDMONDDAGHANNDYTHONNDOOATK GH
-
-Cty . TTS TTT Serer Tr eK KN OO
-
-n”
-
-Q
-
-=.
-
-a.
-
-ca QS Or:
-TNOTOON DASH AVITYHORDODOrK-AKHaAGoS
-Prd TTT TTT SH TK KKK NUNN OOO
-+
-UJ .
-< -
-uy .
-a BI-ANMTHOKHOHRETAMtTHORDROrADeHOoWOMDS
-
-TTT TTT HK KK NNANNANN OOS YD
-x >
---- page 16 ---
-A.16 Appendices
-
-pd N
-
-ZIQHLHARnQQOW OS &
-
-N Do ogee teed ee eS 9 }
-Y |
-
-OHHH HWW
-
-MAOanKR TH DBRODVWARDAY D
-
-silo o~
-TB BNR RANT COAT OE SU UHHH ECHH HD OW!
-_ BN Ne ES EEO WHO HHHHOGCH OOOO!
-
-rloorQD onowre
-
-ZEISS ZLHBSaSQor oe gore ae 7, NS
-
-a ™ Be EE FG HVGHHGBGHHHHGGCCOOCOOCS
-
-2
-
-S
-
-S) {\
-
-a
-
-o ° cw moma ORAOTE VISES SSSIUSSSEBET BS
-
-3 elOSSRMSSSRZSSSATEIASYE SRL IH SESE
-
-g |e Benoannre thon te SASL ANHQALTINOORS
-
-s |" BOO TF BU U HHH GCCGSCOCCCOOOS
-
-oc
-
-o
-
-=
-
-° ° paw araaeorogNIBPESQssagRse sas
-2PSYNVTBRERBASTSORQESREONS
-
-7 Rranoorne
-
-s HeANNoOarT NNN
-
-Lo]
-
-oO
-
-3
-
-© mown met OR OOs Or TOSS SAPO SI RL YRS
-CX RQRSGSGHOTH-OTONAAS
-
-JS IZIVGBSHOHKGDONQMAGS
-10 2 PE SHAUN AQNTHONN LSS
-
-wo |NIVE 7 >
-
-5 _ Ci oars FT HHHHSOGCONNNE
-n
-oO
-o
-a
-
-CAUK MANARQMOHHOATHESY
-
-onuonoert
-
-re Rlor-asoanr TO
-
-roie HEAaaoaorr~onnooe
-
-xt.
-
-zs *
-
-<x
-
-ber =
-
-a Bl woe mon moor dee MOL SPA gNRARs sees
-CH AODTOOTPSANNANAND DT TP
---- page 17 ---
-Appendices 4.17
-
-al
-
-=
-
-a
-
-Cc
-
-Cc
-
-< LRintH ODMNARDMAAUNMDMNAMAMMAANANTDOMDBONRN
-
-c HSlIm-RnrTOONKKROCHOMHONHDKTORDOrKe NOVAS
-
-FIRB PTSLTOSHNHGEN ARGH KK AAANAARQIIQIIVIS
-
-- KENANNHMHMOMOMHOYTOWVTYYTte rr
-
-o
-
-o
-
-2
-
-a celONNtTTROMOGHMHRAMNETANAOOCBMAKYYr Yow
-
-> RINaTOAOOrKONMNANOHOrNOArYORDOO~ OTIS
-
-~ INISSSLOKEORACKHANHNHNMYTTYTTHNH NNN NY
-
-5 N HENANANKOMMOMoOt~etyoe ett
-
-7)
-
-oO
-
-2
-
-a
-
-o xo OtOWONDONTRANADHNHDNNRNMNONMr OODENA
-
-i an) cs) WOONRNTAFTONDOHNRROVDDNMNNOMONRAROHK NTN OOO
-_—| E ISIN BSHBGABRAGCKENHNYTHHOCOCORNENARER
-
-=i
-vt > wee eee OHH TH TH NNN H NINOS TWO
-=
---- page 18 ---
-A.i8 Appendices
-
-~s [OIRNBHRoOrnanytvery yee er yyy HH HHH
-
-as NNOMOONNMNDANNKNDOrKTKANANANNADAANMNNNIDAYN A
-
-° WOMNOKTAMANONAMDROORMRONMNNDOOR OOD
-
-DITO LP TRE KR KE NANANNANNANNANN ANNAN NN ANNAN NNN
-
-o wIT MONON DANNAAMAMTNYOTDONYVTOONREE DE
-r)
-
-> KKNNNANANNNANNANNNNNNANNANNANNANAN AA
-
-°
-> SKI MORLTMNRDONARK FT ORDMROOYT KTH ANANNANNANN
-
-oa we {MPOrDODMDTtTARBRDORDVOVDNE HT NON ArTNN OOOO
-°
-
-| APPLE EAUNANANANDHDHDHHANDHHNHNNHAMNNHNAHANDGA
-qT
-
-"| <x .
-a|6
-a OITH- NOMTNORDMOFTNMNYTNORNDHDOrAVAMYTHONOHSD
-xt > rrr ero HTH HTH KH NANANNANNOO ST YT
-````
-
-## 2014-15 · Re-Exam · Sem 8 · paper ba1031d0221e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management Batch (2014-15) ReExam.pdf`
-- Printed on paper: exam date: 08/07/2015
-- Text: ocr (18 pages), mean OCR confidence 40.1
-
-````text
-- 7 SVKM’s NMIMS
-. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: IV Semester: VII
-Academic Year: 2014-15 °
-
-Batch: 2014-15
-Subject : Financial Management
-
-Date : 08/07/2015
-
-Re-Examination
-
-Sees
-
-on the
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-cover of the Answer Book, which is provided for their use:
-
-NB:
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any _ 4 questions.
-3) Inall_5____ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets.on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-QI. a) Identify the source for identifying a promising investment opportunity and the nature of investment
-
-decision by citing a corporate example. (3)
-b) What is an optimum capital structure? What do the capital structure theories refer to? (3)
-c) “Money has time value” Explain with Example. (3)
-d) Calculate the required rate of return on equity from the given information. (3)
-Dividend paid for the last 4 years are as follows: :
-Year 1 2 [3 4 “|
-Dividend 1.25 1.35 | 4.00 4.10
-
-Current Market Price is Rs 25
-
-Q2).S. Ltd manufactures shoes. Mr. D, president is considering the company’s ordering, inventory and
-billing procedures. He estimates that the annual savings from computerization include a reduction
-of 10 clerical staff with annual salaries of Rs 15000/- each, Rs 8000/- from reduced production
-delays caused by inventory problems, Rs 12000/- from lost sales due to inventory stock outs and
-Rs 3000/-associated with timely billing procedures. The purchase price of the system is Rs
-200,000/- and installation costs are Rs 50000/-. These outlays will be capitalized (depreciated) on
-a straight line basis to zero book salvage value which is also its market value at the end of the 5
-years. Operation of the system-requires 2 computer specialists with annual salaries of Rs 40,000/-
-per person. Also annual maintenance and operating (cash) expenses of Rs 12000/- are estimated to
-be required. The company’s tax rate is 40% and cost of capital for this project is 12%.
-
-You are required to- (12)
-i) " . Find the project’s initial net cash outlay:
-
-ii) Find the project’s operating and terminal value cash flows over its 5 year life.
-
-iii) Evaluate the project using NPV method.
-
-iv) Calculate the project’s payback period.
---- page 2 ---
-Q3) The following information has been extracted from the Balance sheet of F Ltd as on 31.12.2014:
-
-Capital Rs in lacs
-Equity Share Capital 400
-12% Debentures 400
-18% Term loan 1200
-2000
-
-a) Determine the Weighted Average Cost of Capital of the company. It has been paying dividends at a
-
-consistent rate of 20% per annum.
-b) What difference will it make ifthe current price of the Rs 100 share is Rs 160/-
-c) Determine the effect of Income tax on the cost of capital under both premises (Tax rate 40%) (12)
-
-Q 4.What is lease? How it is beneficial to the firm? Discuss various types of lease. (12)
-
-Q5.a) Comment on the emerging role of the finance manager in India. (10)
-
-b) Mr. X. deposits Rs 2000 at the end of every year for 5 years in his saving account paying 5%
-interest compounded annually. He wants to determine how much sum of money he will have at the
-
-end of the 5 th year. (2)
-
-Q6) A textile company belongs to a risk class for which the appropriate P/E ratio is 10. It currently has
-50000 outstanding shares selling at Rs 100 each. The company is contemplating the declaration of
-Rs 8 dividend at the end of the current fiscal year which has just started. Given the assumption of
-
-MM, answer the following questions:-
-
-i) What will the price of the share be at the end of the year: a) if dividend is not declared and b) if
-itis declared? (4)
-
-ii)Assuming that the firm pays the dividend, has a net income (y) of Rs 5,00,000 and makes a new
-investment of Rs. 10,00,000 during the period, how many new share must be issued? (4)
-
-iii) What will the value of the firm be: a) if dividend is declared b) if dividend is not declared? (4)
-
-Q7) Company X & Y are in the same risk class, and are identical in every respect except that Company
-X uses debt, while company Y does not. The levered firm has Rs 9,00,000 debentures carrying
-10% rate of interest. Both the companies earn 20% operating profit on their total assets of Rs. 15
-lakhs. Assume perfect markets, rational investors etc., and a tax rate of 35% and capitalisation rate
-
-of 15% for an all equity company. -
-
-a) Compute the value of the companies X & Y using Net Income (NI) Approach. (3)
-b) Compute the value of the companies X & Y using Net Operating Income (NOI) Approach. (3)
-
-c) Using the NOI Approach, calculate the overall cost of capital (k,) for both the companies X & Y. (3)
-
-d) Which of these two companies has an optimal capital structure according to NOI approach?
-(3)
-
-2/2
---- page 3 ---
-Appendices A.3
-
-wlOBSOBRYHKARNDORANOGOSL OT o
-c HARVORKOROKTILONNS
-eo)
-
-wlOMMr Nr ODOR NNYOBRRNAGOLOOLSS N
-3 emo} RYTOTRUEREOYW
-
-: NN ts did NTN ONS
--er
-
-so CANDHOHORKREDROOHDSAMARKH QOH TOON
-2 RODONNDOANRANDAVNK VTOO
-
-| SEES SZ SAA e ee Ke ddnanndn saan or
-
-elonmmonmoearearegreP@Onr ree xg sseears
-Cy 2 SRO BSE SNSHMSHOMORTNOMREOSOAISSES
-| o SISSLERAHARTSE HSER SHACK KNHYTHONAQVAT
-) - meee eee ee PP PP HK KH KE NNANNANNNANNN OOD TIO
-o
-£
-fe) Llormoaronnyyoearnannanesoxrosh egaag
-QADvArowoea
-
-Peet rena NANOS
-
-ro) SOS t esses eee deere
-
-be} xe COKNTORANMAMHYHROMSOMDROOHON REM SS
-YH8rTESSeSRss
-
-eerrrerrrrrreree
-
-Oo COOK KANNMTNONDMAK~ MOTOR ONYRE
-aroneryress
-
-o |RIETCHSTHORBBROKAMTORVAGH
-SIP ISSS Se eegternnas5 nt EAR AANA eS
-= a a ol ool oe ce
-=
-
-5 .
-
-<x
-
-aw |S
-
-ue|s
-2Z1SlenmewnonamnOrK-antMONMMAOTNOTOYSROLYS
-ra > Sete ee ee KK NNNNANNO OTT
---- page 4 ---
-Lo
-
-A.4 Appendices
-
-woOMADnoao®
-CBS moDOnrarRs
-
-ePIOTAR LOR
-SIV SRST a HQ EDO eA eT ene
-BN See BENS SN SSNS SSE REL SRRSES [e}
-SAMOA EESHOHGROOBORBS Oo
-* N nuwsror] —
-—-— OD
-
-commegor Mente SSSrsSaRangas
-se SEeupesSRasgreaysragsa Qoanrnoaeayoe
-S BE BB BSS NEBR BB AON Oe eorss
-bois eS OCR BSS O -GSSARASE SSR SIRS
-
-TH SOANAFSATHONSTLYES
-
--TONWD
-
--—a1w
-
-xe Saoroaowonmnnganr
-© SSESRRARINE NE OU goanas 2 = OH OD OO
-7, KBEAun Ege Senasr TOSS ns Sl BSIasrg
-SrFOlSRAHAHt~Morgersy
-Om TS OB
-
-as
-
-RIN O2OOReSSE
-RIE SSSrHSHrBeneoeande 2OOoS
-- Bee ee ge ew UNSONTOSTRESSRIEBES
-ONTOLSRnayyver sors
-
-~-nanory
-
-—N
-
-eIGSSroePAhSsrus
-© PS BPH Gan SSESE SERS
-BFS BET SSIS SES SRA SNESINESSSSSESE
-CONTE ZFANANMTOOR OE
-
-=
-
-oononmoenarn'
-HBOntreanr- rh eves
-
-°
-Rinanayryr rr Oe
-BI(PARLSHSCHOeNT eon 2 De BN.
-
-> BIL RRR SR Cogs boraasdt SSR ZRH BSSRs
-= SONTOFANANNGOMOBS
-ES -NNO
-[= _
-38
-1S)
-a loon eye BAS SPR eSSESBSESRESZRERS
-° SSASQSN BAS SSS SS SCE BPS Ssnlasese
-3 ee Se ee hee rere er er
-o eR Bee Apa THER SISASOTRLKSSBBS
-CNS SE AANA Oe ©
-2 - OR
-c
-2 lon ogee eesSS ee eee sea gic SBR serge
-c ° Cro SYA BR SPSSBSRESASBRALERAKSRSE
-(e) S|SESBSSB BSS Be eee eee eee eae aNaTs
-nae m NS BBC O eGo ee EW ORNOSTOSSSASRS RG
-ray STS SKK nyo
-. HAT
-3
-wn oe tate OOS SOBEL SRSTSSSHLG BRIBE
-SESE SEES SSR BS RS BBB SSSS BK SBR SSS
-ov (Sao Bee ee ee eS ee SoS adec asses
-£ RE SS BRA A Ads aoe TO SEN SOSHASECR SSSR
-J Sry rer tNNnoow
-° —N
-Q.
-fed Jon mages a gag seer esses gaags gag
-(S) 3 CUMlVOCOVSANSZlB KS sVssEsehshays
-Bee eS SSB eee BOR He BN eNOS Eas
-o HENS ORO Nga Goa eHUEN OOO NONGESESS
-x= Sr rer NMNOOW
-
-| e - F
-
-_
-
-u -
-
-<x
-
-iw »
-G oe not HoneoOrNOZNS sees
-
-a §|-aovoonwoersereereaesacceeee
-
-EE
---- page 5 ---
-Ay, Sites c
-Appendices A.5
-
-SINnHVennrSGeoMmoeGnagunes 2 TS, ; 4
-NIK KE NNODFTHODONO BACOTSOHT HK HDOMDNROAA
-SHOR RSSSSGHSnNGSCHNAY SES
-err Annonneg
-
-QINHATOQNATS f 1; SEM, Se
-> NOS eR BN oH TONG HETHES SYS I FESRBS
-a} TT OVA HFHSDOMOr-GHOSHNES
-2 — rr NNDOTRH DOS
-= AN NS
-fe) ARN
-1S)
-
-Rar NRBOROOSOHR CH
-
-Q SIA BA BRS ROOM O NO eegorsdtrs
-oO NTU OCDOMDOSCH HK DDROTPSRS - OT QD
-a SMEARS SOTODRAHKTROBOVSS
-err NODTOO
-3 - mono
-c -v
-2 lOO r PV QQQzOI5 Vert VSVlSssBsESIsas
-° SOEB@©OSSISISSEEITBAR IC S{ZO BSR ars
-oO BIRD ER SSNNT AR SS Te oe Neo eRe ese
-ro SAN THON GDH YOANN VIS HDononroo®
-q o THT TONVNSFHGRGOHKYRVBOCSIT
-perry Tarn
-- orn
-, ist - oO
-3
-N ed Y aed
-| 2) OMDOoNnrMnmMAanNANTY wtoMmnwnuonananree 2.o
-RS ees ee eee eee hee
-ac) NRE Ete. Cee eee rrr rrr rs.
-c NIN ORGS EUR ASSHSTTSIGISBSSLIBSSSS
-3 SMPOMDVIBSBSHROKro-sQUVISR
-) 3° Zt acwmonr
-a. =-ANRO
-. Q 8
-= ° plosa seer eeysSeageEMSRasee ser swe
-oO eIOSUTSSSBSRS Rl aS Her oweyrssanane
-baie ee ee ce ee Re RR Ed
-® NN oe eo wor eNeeSoheeesEr Sesser
-cS =TERAaaoyvHeaoarSRgar
-FE me Q io
-y =
-7 .
-< .
-w lS
-a wl woe men moor NOTMONDZOE ANGER SIASIB
-2 2 SrN tree er Ke Kr NNNNNN :
---- page 6 ---
-A.6 Appendices
-
-one
-3 | O a
-512 a2e
-Bi-<a
-
-a eo RON Ee MESES SISBIEBLESSER SSB
-32 SESRSSSSSSSSSSSSTSSIESS SAKES
-o SSRN SS BBE SRR eRe SOS eee Sees
-GG BSoOSSHSELSRLAS FToOWoooT
-SSEIEBSRKSAEGSeZRICSS
-NEQSFSGoOH-oOnNTSSss
-
-SK NDWDM
-
-* rhe DD
-
-oo)
-
-On rK- MOnMOr Ne m:
-
-32 CroAgsBessrrsyssggan
-2|/RBBRSS SSSR AR SCS eeeagS —-NoQaD
-oO Fee oe Oe EO BAN ESSSIGS SET ESSE
-Ar geeSSl Besar s5Zoesss
-THRASH RORALLASL
-err nnoyv
-- CoD
---- page 7 ---
-Appendices A.7
-
-RISSnHaynnoorne
-
-RISSNNHVWVWARAO
-
-3 CONCONAANDROERRMBOKHSNSBSABOCSL SLE RY
-ISSRCASTZURSK TSR RIO SSE ZSBRISRGS
-a eSB RB TRS BRS BHO DH MON QQ ON eo Sa
-© SIPEG Sb b6oaHrne GN aOrHHHSRBUsrIeSSass
-pal
-
-a
-
-=
-
-S
-
-> COON TOE MMSANSTHASANANSHE SSYUCSSSSSR
-BZBroor Kr FTRDDBLTUROBROOELE
-
-BixiSSStaaronanrwveavec
-
-S$ RIESE SGN aoaSAGDTHROSr TA
-re} SNOETLTSKEANANANNANANDTTOND
-=
-8 COO OK NT OMARANASRE VOTH SSrOLLIZ SRG
-SOSSSNTSSSSSSISHHK SSSR KH AKBares
-1 DONTNAVNROOTS
-
-RISSSSFHKNADTHOQMARONTA
-
-o 2
-—— 7 SEHOGNHBHDSOKAGDYONDBOVG
-= 7 AN Or NOTES Sannnannnarsoo
-
-oy :
-
-<
-
-y |
-
-Blam vmonaoor Ans MOn2AQgQQaRasess
-g \2° orgy eersrrannnnnantyo
---- page 8 ---
-A.8 Appendices
-
-CONDHOBRABSPOGONONASDOBETAO SSL r
-
-e|/SSEBLSSSSSSeSo RT ArRBSSRaQaras 3S
-
-PSST RSPR KRIS ST HH RESON T Regal Ss
-OuonROanoow IOODONnN MN DOTONR OAT ao
-
-isp) SADONKTAARAOTYTDHRO
-
-COOrTKRAMRMAMDAN|
-
-CONmM TNE Hh OrNrAnDy +
-HOOK AT TODARAMODOLR
-
-SICA OUR GAHADDTUYSSNE a) q SB vibed
-
-= NOOVRATHBORDTSGNTROVZOTOEP ORS
-
-ocooartkh aA OMONMODN D
-SPSSOoTRoonMODS@SNyTSss
-
-Eliade bNaKE FOUN USE OCL :
-TTONHRSSTHWORGDHMHOKTHRPUOED
-err rNNnNnNoOovr OO
--Oow
--_
-
-pe
-
-3 sIS@QOORRSTSM@HVSOSNSHOSHRESTSLONSBASY
-+ ROAKFTORTTSRTSAAVDY
-
-CO lrlneanoseoor¥nxr bos -Or 5
-— TTM AN BSOFHGEROBDAKMNAK AON
-
-o
-Q r~NTO
-onuNnara
-
-3 lCCNMATHROEVAOCNTSHOSreSsxs
-c LRISMDRGAYTHONDOLONVSS Roar vyonmnnoannrne®
-
-CcOOrOoOMmMOMMARTrT aK ASK ORAS SBSSE
-ONOManonRNOROD
-
-2 TIO NSS SSSGSGORARGDSRHOrS ;
-STDOHDORMONNDNDNOBDIHD
-
-c
-
-< “At
-
-=]
-
-s CONCOMMROOTOFTANKSTSORSRSSLONSESY
-: ATTODONKTDROOODT
-
-2 IF Ga eC OSONH GH HBDTSOGK OS
-SNOLZATANDTT HOR DDONVNNNG
-
-o
-3 errr NnNon”r
-ic na
->
-
-aoow
-
-COTAMMAOOBANMAADMMVABRNBANATYB
-mood annoooh
-
-3 Moe o wooden oy eAKRADKHAAE NTS =
-BISTHORDHDOKNDYTMNOWD
-
-oo Stteaaann
-
-SESSA n ag
-£ =O
-fe}
-
-Oo CONSDHDMNHMAY x
-Vor raoeeeanoortR TF OCTS
-rOM DON
-
-oy
-
-< -
-
-w e
-
-a Sl-annwMoOn@aaoranvyMOreZQOnNVagsasess
-< > STN PTH KK KK ANNNNANND OT TO
---- page 9 ---
-Appendices A.g
-
-wCIDFONRMOENDRQNOnoTrrvayeo mmonwnn|l >
-g SSESVSQSRLSSQal SRI FSRsssERsoars 3
-* 4 ao *
-
-SENONTORANOrYDBRANDNAOAOCD
-KFKNANMNTODONAOVEASR
-
-QIAN BGONKNNDOVBRI-OBRASBter Sor NK NN
-AT NSOSRSSLSRBSSSEBRESHSOATR
-Sr rnnyoRaanoerYses
-rer Nnor ed
-oS!
-oO
-
-SR SSR EH KHBHMHAOMANRANANHRQENTE
-
-NBS ON ONGDHOSHTSH KH HSH HK SASTSO
-
-NONSSSRLSSISRSBSSLESSSEORG
-: 2
-
-BROMO ENE DESH HDGNGDSTING
-onm
-
-—N te]
-ZTSPaanyvrononoroynanoorys
-~SeeranantoraH- Toone
-rere TNNO
-- OM,
-1 7
-~
-Bo) slogoewmayvenones ener ags ss ossr Beha
-
-8 BN HB SOE UNO GBGOHHKANGEGNOAS
-De RONDYTNDER
-
-) FEF aAnaAtTHR OT MNRISH
-EH rTANAHATORANQVE SB
-
-o —- ANDO
-@ - ON
-Qa. ~
-= elOQOMORAMAANRLERBSASESSYSVrsReAgRGas
-m | SSPESSRYISHSSGraSOHns HT eogVgery sa
-OORuHANROR
-
-CO OGDODHONDADDIATNODS
-19 ©
-
-2 =Aowornonandt
-TRPARQSIHGDOMKERYTAUNDETDON
-Q Serer ANMNATNODONDOSO
-- ODOT
-% as
-
-E'NiztadboovaoxrroOStTeSeoh 5
-Cc STORES RFSSSNHVSOTSORODMNAIONG
-< Se KE KNOMNTOR DORR O
-AN ae
-c No
-a
-OAR DODAMODNRONNMr TOCLRHTD
-NO ©
-
-w= |wloonrnear SB
-8 SB2BaornGonor one OW
-
-ir] e FPrernnnatrnornroro
-> Non
-ot
-
-Bb
-onatryyor?e
-
-Qa CAG BONOOKRADHTHRHNTOVBIRS
-
-£ SOrFNVASFHSCDOANNVADBOHONBOMSE
-SPH KNnNMNYNORNR ADD
-
-fe} rvns
-
-oO -— 4
-
-SoNXNGanrHKhRY¥ATKT MDBW
-nN — SORTHSYHSRGK FRE GSE ORIYA
-D TYSFanmnyouyrena
-<x ‘ - 9 OwW
-a | & a
-a S >
-oO
-
-i ao atNnONnDMROrNMTNOVBOY
-< Sle aasr MN On DDOT NBS PTeK HK Annnnngaaty
-
-! ' , .
-
-ppp rb bbb
---- page 10 ---
-°
-wv
-3s
-Q
-isp)
-3
-o
-ro)
-of
-—
-o
-
-> |x
-Bile
-ec |@
-S
-[s)
-~~
-o
-o
-a
-3 | 3
-cjyjw
-oO
-(3)
-c
-{e)
-=
-o
-> | &
-figs
-5s | O
-oy
-a =
-<
-&
-- |S
-isp)
-° 18
-()
-=
-©
->
-Blo
-c i]s
-a 1a
-oo
-a
-£
-[o}
-O
-® | 3
-= Le
-F | o
-Yl
-<x
-a|&
-2 |o
-- 1 >
-
-oO
-
-N
-
-o
-7
-nN
-
-co}
-
-s
-nN
-
-(=)
-it)
-nN
-
-Oo
-oO
-
-om
-
-N
-
-i=)
-
-N
-
-a
-
-~
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1
-
-'
---- page 11 ---
-Appendices A.11
-
-3 NQOOB OST SOUMROTe BR BRSaTe2eePeeyvessren
-
-PISSSPECSHARRSSSEAERCE RR EA REE aes
-RID SSN STORY rE RHRSQVHr AR eyaArAnaeyrs
-SIPRSSHOPPOESSSEREES Sees oesaenehs
-6 |x BP SSSR LSS INSSSIRSSEBSNSSESBSSS
-
-= RIDOFTNDODRNHNHNADCDKNYANFODROVTAOANKNOWKKR
-
-KF |SIDORGHFTOMNFORDRROVDINAVrODDDATONR AGS
-
-o
-< .
-215
-
-] 9 OITMNOMTPTFNORDHOKTNMYTNONDHROYTANONTNDONONS
---- page 12 ---
-A.12 Appendices
-
-DanannmoanyrNoar ONDNNMDOYNT SS
-
-30 CONMAANOLDHROOYTTAYANTRE rT ONMNOON
-NW err OOoeooeo
-
-2 BREHSIHAANNK HRT TEE Qeeeeeeeee2ee
-
-& elaoamanoveperrssgukrSsk
-e ACOneortT~nroaoanononrnresce
-
-ro -
-°
-© .
-2
-S
-3 MDRNORRATHEARRANMQDODHTAVRTORRWHAe CY
-
-Slwelener arnarr an oe
-
-be LISS SZSRSHSQaH - MHHoaRwWOMNTOBSESSSSs
-H|BSRBBRSIRARQAANNAM MAMTA TAGPQlAAASs
-
-sie
-
-< .
-
-w rm
---- page 13 ---
-Appendices A.13
---- page 14 ---
-A.14 Appendices
-
-Q PTOTOCOMNASDHNDNMNDAOVWOMN
-Seesooeoeeseeeeseses
-
-Oonoemrnr R®OvrMNNNr rr esSeesess
-
-o|—- om
-STOONWHONMBONMANrT rT SOOSS
-8 TSESSN SS SSSSSSSOCSSSSSSSSOOPSAIVA®S
-
-—
-
-Dd
-
-=
-
-c
-
-is)
-
-ClelannnoorOnna
-(e) SISSAASSHSEHZOSNEESSSSSSsssgsgsss
-Rel BIR BERALKKosgegggeeeegggeesaaaaae
-°
-o
-2
-s
-otnaan
-
-< elaoMNOnDer NODNKDROOKNMOROVSOH
-ke jae BEeTTHOANr-BDONAMArr Tr OBOSOSS
-
-lap)
-o .
-<x
-bes y
-9 Gl-anmtMNONnomaOraAnMTMONNDB®Ongg
-ra > errr rr err TT NNN
-
-Lila eli tt
---- page 15 ---
-App
-
-Ppendices
-
-amos
-~
-
-o
-N25 8
-AA! S
-
-8
-
-g
-i N
-boo
-NOQ
-ooo
---- page 16 ---
-6 {22
-Sian
-oj/2
-nN =
-
-or
-Silos
-a;o
-- oo
-
-ol\MMBOMMAANETZLSL i “
-o ¢ BAUORMONOHANTOEONOER
-RlawBannerhanyoeee DORNRN DODO
-_ He NNoOnoaovds TT
-
-Jj CS See SHH HHo HHH
-
-fy7 doo YH HHH OH
-
-iva
-
-o
-
-Cc
-
-oO Rae mgeoeonsgagBeEsSgsegsesResas
-DADTOOMDRORONO
-
-ee HUH CCOOSOON
---- page 17 ---
-Appendices
-
-AAT
---- page 18 ---
-pd TXT SSBSSZETLPLEA@R yrA9ANrTOoOR DOO
-ro)
-
-3 SS PBROQBONRONAMROK-NHRar-ANE
-
-TTT NNN ANN ANA AMAA MAAN
-````
-
-## 2014-15 · Re-Exam · Sem 8 · paper 0a2f4274c1a1
+## 2016-17 · Re-Exam · Sem 8 · paper 0a2f4274c1a1
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -12615,7 +10948,101 @@ a. Finance Lease b. Traditional Techniques of Capital Budgeting
 c. Shareholders wealth maximisation objective
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper 964f7011b6fe
+## 2015-16 · Final-Exam · Sem 8 · paper e9d77161921d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management 2015-16 Final.pdf`
+- Printed on paper: max marks: 60; exam date: 21/04/2016
+- Text: ocr (2 pages), mean OCR confidence 94.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
+
+Pregramme: MBA Tech (All Streams) Year: IV Semester: VIII
+
+Academic Year: 2015-16
+
+Subject: Financial Management Marks: 60
+
+Time: 2.00 «
+Date: 21/04/2016 Durations: Pu pm
+Final Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer
+Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+1. Assuming a discount rate of 12% find out which one of the following gives the highest returns: (12)
+a. Rs 1,60,000 available today
+
+b. Rs 1,75,000 to be received after 8 years
+
+c. Rs 25,000 p.a. in perpetuity
+
+d. Rs 10,000 per month for a year and Rs 1,00,000 at the end of the year
+
+e. Rs 25,000 per year for the next 10 years.
+
+2. A project is costing Rs 120 crore. The life of the project is 8 years. The annual cost including depreciation is Rs 50 crore. If
+the required rate of return is 15% find out what minimum revenue the project must generate to make it viable. Assume
+depreciation at SLM and tax rate of 40%. (12)
+
+3. (12)
+MangalDass Enterprises is in the business of manufacture and export of garments. Currently in its capital structure it has a
+debt of Rs 15 crores with cost of 10%. The cost of equity is reckoned at 15%. It has earnings level of Rs 3.75 crores and does
+not pay any taxes being tax-exempt unit. The Managing Director of the firm believes that the level of debt is too high and
+would like to repay the debt by issuing additional shares to the extent of Rs 5 crore. According to him reduced level of
+leverage would reduce the cost of capital because of two reasons - cost of debt falling from existing 10% to 9%, and cost of
+equity falling from 15% to 14%. Evaluate the option of the Managing Director to replace debt with equity. Also find the
+WACC and value of the firm in both the situations.
+
+4. a) ABC Ltd. has expected earnings at Rs 30 per share of which it expects to distribute Rs 15 as dividend. Dividend has been
+growing at the rate of 15% previously. The market price of its share is Rs 300.
+
+Find the following:
+
+i) Current cost of equity (3)
+ii) Cost of new equity if the firm issues fresh shares at current market price but with floatation cost of 5% (3)
+b) What do you understand by business risk? How can this be measures? (6)
+
+Y2
+--- page 2 ---
+5 Ke = \>"I
+
+MultiactivityLtd is has series of projects that can generate returns of 10%, 12% and 14%. Currently it has earnings of Rs 12
+per share of which 25% is the minimum dividend payout has to be maintained due to investors preference for current income.
+The managing director of the firm is considering three alternative dividend policies of 25%, 50% and 75% payout.
+
+i) What is the likely impact on the value of the share of dividend policy under different rein’
+ii) What conclusions can you draw?
+
+(12)
+
+vestment rate under Walter Model?
+
+6. What are the major forms of business? Describe in brief. (12)
+
+7. Discuss the types of Financial Markets and their relationship. (12)
+
+2/2-
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper 964f7011b6fe
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -12729,13 +11156,15 @@ Q6. What is a primary market and what is the basic function of primary market? (
 of Soe
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper a78a12553ad2
+## 2015-16 · Re-Exam · Sem 8 · paper a78a12553ad2
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management Batch 2014-15 Re Exam_a78a12553a.pdf`
 - Printed on paper: max marks: 60; duration hours: 2; exam date: 21/04/2016
 - Text: ocr (18 pages), mean OCR confidence 39.8
+- 31 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM’s NMIMS : ==
@@ -13072,18 +11501,13 @@ ZPISABHDHKARHDSDADRDREDPTSNOGDTFORMANAROON BD
 OCTRANDANAMHK-NONDRANNAND anmno
 ° SSSSXVVeSVsSSSRSSSSIYHRSEGRLHSSHAGS
 
-CORYTODMDDMDOMNONMNATKT NMrOOWMW foo} maowmwow
-2 SOR SSeS eC RSME SS SRSRSRSHSTSESILHSK
 
-AIL K ANOS ON DH HVOTH OK GHADDOANYDHNODY
 
 CMOKTORRMNNDANDANADRNANYANNSOMODRAR CHE
 Pe SINGSGSBAHKARHDHADHONNON HK DHOKHQNMKOCHOTMOCHRE
 
 AIL HANDY HODODKAUDGONDAADAKANYRDOONORYA
-Kerr NNMOTNKR GOK NDYTOBDWOBBAOT
 
-N SCN OTH OSONGOSHASCSTOHL HOE HODHHDODT
 SKK ANHFHODONOSCHOANAH TOY
 
 o ONMKNNDMOKTMNANORANROAHY DBOONMR
@@ -13096,7 +11520,6 @@ se) QR
 CORYTANHDADKETRNOBDNAOCONATANDRDROOROR
 
 = oO
-RIF SOGDHDHOODNANK DK DTYTTMDDODRANDTE NOD
 8 F(VBARAGHHAQOTCAMVEADNONQ HO QO MOSS
 o KH KO NANUDYHODONHOOUrDDDYNTMNOYr TO OTD
 a reer NNONTOROrFYTRONDNOA®D
@@ -13109,7 +11532,6 @@ o COKANMAARTOOK MRK VTOMDMNNODMOBOKNRYVOOUS
 £ RISVZSSLKOHHTATATATHTFOANRMVOIFADNMONATNS
 RESERBSCHVNGHN AANA
 
-oe a Nee eNO te DH ONGDHK FT OANRGDKE HK ANRN ODO i
 
 Oo FPreeannnarvrnonarty~rRroorrh
 
@@ -13137,14 +11559,12 @@ Ee nN
 aot
 
 | BIS TR OO oe Senta ade
-i o Sid OTH GHOGDHK TNT HORHFOGSOKNRATBSSNR
 i = FEKANMAMNTHORAMKGSRSaK
 ! iE _ noo
 eal : ~
 Tv
 : , <x
 " w ononse
-H a 9 o foo) fo) NOTNORDMDOYANOY WY
 a oi * voor MOT VNMTHOOROMI ANA awe TF
 roe
 --- page 6 ---
@@ -13217,7 +11637,6 @@ fo}
 5 SOrYBOANNMRYTDNDODKRrt+TROCOHNDOHNrOOY
 
 e/QP2A®W®BDHGODHGDODrDHAHNOKT KT RRHADAHNOOLS
-%s [SISSOUMNMTOOKN TOK OOHHKHNR YH DOHTYTTHOTINEA
 
 ~ SLM KH AGT HORGSHATHDRGOSHOHDOCBOUNTONGHOAN
 a TTT TK KK ANNANNANNAMDMNMNTHONOL
@@ -13229,7 +11648,6 @@ Cj
 
 >
 
-fo} eel eee ee a a m= OT ON ON NOOYTYTON
 E
 8 SBOEPSSOrAYOMDNNRAVNARR DOTY ADMroOoNMAYHOND Or
 
@@ -13397,7 +11815,6 @@ ocooonto moan own NOT HK NT ONAN TH
 => fo) 7) ono (oe) nb
 
 °
-SZ I|SI6FROTDK ANH YTHNRDOGDK HK NANMBHDONANANDDADONM
 
 c K-rrNMNYTNWDDAONNDAYTONODANATNON NY
 
@@ -13412,7 +11829,6 @@ te CDC OMTMDFOMAMARDARMNANONMNNMrrDoOAhkKrd
 
 VM IXNIZD Gi sUN SOFT OHSOODNOTAYTAGKROHDHVOLTSONS
 
-2 ST SPN OHTHRAHK-YRHL OMOSGOUGOANSG
 a . Sr rNNNTNORTOHKD
 > AON
 
@@ -13455,7 +11871,6 @@ era oe a ee
 pa
 
 CONDKONRMMNAANKTDBODMDNMBDDNADWNAYW
-elLQ@VNSTHAYTOOR SHINO DOBORONORASS
 
 4 KN AN SOHHDHDNRNBDDOVNHDHDHNARYOKDDONND
 
@@ -13487,7 +11902,6 @@ A9IH NT ODYCHDDYFT HK ORYYBDONNGONDADOS
 
 Q KAAHDHRONMDHTORMDMOROQARY
 
-c Ker KNOT ODEK NHK HOOK
 
 (s) rHKHNNDH |
 N
@@ -13552,7 +11966,6 @@ PEs tT E LE b bre
 Appendices A.i4
 
 21D Oo oO TON ADONRAMD ~EONTOH
-ZjiSSnSs roo 2 Sesg_ggauaan
 
 32 REYNVSSORNDONDHDOANArAYOtOCHHOMON
 
@@ -13604,7 +12017,6 @@ fo) SIP SSESELRVQPHr MONMDNMNoVotrdcCwVMranROoN
 oe
 a
 aQ o ono NOFODORNDROrNMYHOMNOMSD
-fa el/ TV orwoon TERE SS SOS ZA AN RAR SBSLS
 --- page 14 ---
 = ee err
 
@@ -13618,7 +12030,6 @@ ao &
 --- page 16 ---
 A.16 Appendices
 
-nmwmoare REAR OMNKMOWMUNMOT BORA
 
 SIANSCDAN SO ONNMAEROARTTRRONOTE
 
@@ -13631,11 +12042,8 @@ aa ne ea a es
 e|rRwoyrono WDMTOMODANAMONMYONK RE
 SISSFSRCSSERSGHGOK-SBONR ET OSTOYVEE
 SIS HE SL LSSRLTORAQWGKANNQNN TA Sa
-™ “ANH oOoOtT YT TT HUH HH KoBNHM DONO ww
 (MQ WON MAAR TSSSQOAISLILASSRGSA
 SIIB BOVRBSNSHDRMOK-NAUDORMABNOBANLS
-PIBBAR ABARAT OCHQRANNT I OOO aw
-= HANH OGY ITY TH HHH HKD NHNN OW)
 
 eS
 
@@ -13643,7 +12051,6 @@ eS
 ) MOOS SSITSHSACHSTOROTEENESSSSE
 SISBZARNGSHSSORATHONQQAVWVARSS
 
-> ~ HEAAHOaOT TT THOU HHH HHDHDHNNOOOOO
 
 2
 
@@ -13655,11 +12062,8 @@ SISBZARNGSHSSORATHONQQAVWVARSS
 
 o o/SOCOeATSEN®ITE SAS SS SSSLBSSES
 
-o ° CES BRD SSSR ESE HBANMRATHTA®DOE SSELS
 
-a SISBBSASHARE STRONY OR DRT NOOO Soe
 
-s {7 KAAKDHOY TT HHHH HHH OHGHHOHODOOCO
 
 oc
 
@@ -13683,11 +12087,9 @@ c
 
 =
 
-< Lio aoe tROMOARAVONODNAATFORANCS SSS
 
 c SIVBSSRESNGSHADK-NSOHSNVNTHVANONVASS
 
-a COIS SSSHEIRETOAK ATOR QAQUAINARS
 
 _ KHANH ATYTHHHHNDCHOKDOGCORNEERENE
 
@@ -13697,7 +12099,6 @@ o
 
 2
 
-CS o|BOUR Or FOSSPSASrU SA SSSssee sew
 
 > 3 SPSRBSHKSSNHMGDANKEKRAHMOOOTr OSs
 
@@ -13716,7 +12117,6 @@ o ol|RMTAOT ASH SENSASLSASSRRGIAS
 
 <= |e SPITS BSaHKSFHGHODHHHAETOROERLSIVS
 
-i TIGR SS BSARKBQVITN ARMOR QAOK NOSE
 
 . r ZA OTTO HDHOOCGORNEERERERDDDDDO
 oe ‘
@@ -13889,7 +12289,6 @@ i=
 
 < wo |VRAAAQAMrQHARr ET VSSRAhORQRgenessass
 c [2 NE YSSS2NawanHnaaor Kr ANANANNOSSSS
-& [BIR BR S8 TORR GB BOG HOODOO OOOO ae >
 & SBMA ANA NANANNANADHDGHAOGDIAGAMOMMAI OO
 fo]
 
@@ -13905,278 +12304,1298 @@ Yt
 * -
 z215
 a Plame HONNHOKAMYHMONMAOKUNG AAS HS SS
-< = Se Hee eer Kr KANNAN NNANOOST YS OO
 ````
 
-## 2013-14 · Final-Exam · Sem 8 · paper 6921abc70b07
+## 2015-16 · Re-Exam · Sem 8 · paper 22834f218926
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management 2013-14 Final.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 23/04/2014
-- Text: ocr (3 pages), mean OCR confidence 89.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management Batch 2015-16 Re Exam.pdf`
+- Printed on paper: exam date: 08 July 2016
+- Text: ocr (2 pages), mean OCR confidence 90.6
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-a \WiNTDTE SF yyy
-mester: VIN .
-‘ %
 
-Programme:MBA Tech (ALL STREAMS) Year: IV
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
 
-Academic Year:2013-14 ( Li SR Y Je j
-ae
-Subject : Financial Management Mags ree
-7 UNIVER®
-Marks: 50 ae
-Date : 23/04/2014 Time : 10.30 am to 12.30 pm
+Academic Year: 2015-16
 
-Durations 2 (hrs)
-Final Examination
+a IN i
+Batch: 2015-16 EGO.
+Subject: Financial Management r4 C=
+Mafk $40 ye ST MB
+Timbs210q pre MRAP
+Date: 08 July 2016 re
 
-INSTRUCTIONS: Candidate should read carefully the instructions printed on the question paper
-and on cover of Answer book, which is provided for their use
-NOTE : qd) Total No. of questions — 6 (Part A — 3 and Part B - 3)
+Dura’ : 2 Hrs
 
-Q) Part A questions are compulsory - Total Questions to be Attempted 5
+NB: ; Nite
+1) Question No. 1(One)is compulsory. _
+2) Out of remaining questions, attempt any 4(Four)questions.
 
-(3) Working will form part of answer
+3) In all 5 (Five) questions to be attempted.
 
-(4) Answer for each question to start from a fresh page
+4) All questions carry equal marks.
 
-PART A — Compulsory Questions
+Re-Examination eer?
+a- uM
 
-Q.1 (Total 10 Marks)
-i. How much amount should be deposited today in order to receive Rs. 5000 next year, which
-grows at a rate of 4% forever? Discount rate is 14% p.a. (2 Marks)
-a. Rs. 500
-b. Rs. 5,000
-c. Rs. 50,000
+5) Answer to each new question to be started on a fresh page.
+7 6) Figures in brackets on the right hand side indicate full marks,
+7) Assume Suitable data if necessary
 
-d. Rs. 5,00,000
-ii. After 10 years from now Mr. X will start receiving a pension of Rs. 8,000 a year for next
-16 years. If interest rate is 10% present value of the pensionis__ (2 Marks)
-a. Rs. 18,760 ;
-b. Rs. 21,365
-c. Rs. 24,160
-d. Rs. 23,414
-iii. If long term rate of interest offered by a bank is 6.19% p.a. What is the doubling period
-under “Rule of 69”? : , (2 Marks)
-a. 11.15 years ;
-b. 11.50 years
-c. 11.85 years
-d. 12.15 years .
-iv. What is the present value of the investment having maturity value ‘of Rs. 7,500 after 10
-years and discount rate is 10% p.a.
-(2 Marks)
-a. Rs. 1009.10
-b. Rs..2,038.95
-c. Rs. 2,891.57
-d. Rs. 3,195.80
+Qu.1. (12)
+A) What do you mean by Internal Rate of Return?
 
-1/3
+B) X company earns Rs 5 per share is capitalized at a rate of 10%and has a rate of Return on
+Investment of 18%. According to Walters Model what should be the price per share at 25% dividend
+payout ratio,
+C) Factors affecting Dividend policy,
+
+Q.2 A company had the following Balance sheet as on March 31, 2015:
+
+(12)
+(Rs. crores)
+| Liabilities and Equity | Amount | Assets Amount
+Equity share capital
+
+Fixed assets (Net)
+
+(one crore shares of Rs. 10 each) 10 | Current assets
+
+Reserves and surplus 2
+
+15% Debentures 20
+
+Current liabilities 8
+
+| 40 |
+The additional information given is as under:
+- Fixed costs per annum (excluding interest) Rs. 8 crores
+
+Variable operating costs ratio 65%
+Total assets turnover ratio 2.5
+Income — Tax rate
+
+40%
+Required: Calculate the following and comment:
+
+i) Eamings per share ii)Operating leverage iii)Financial
+
+leverage iv)Combined leverage
+Q3 (12)
+The following is the capital structure if Simons Company Ltd. as on 31-3-2015:
+Qs.)
+Equity Shares: 10,000 shares (of Rs. 100 each) 10,00,000
+10% Preference Shares (of Rs. 100 each) 4,00,000
+— 12% Debentures 6,00.000
+20,00,000
+pati The market price of the company’s share is Rs. 110 and it is expected that a dividend of Rs. 10 per
+share would be declared for the
+
+year 2015-16. The dividend growth rate is 6%.
+
+i) Ifthe company is in the 50% tax bracket, compute the weighted average cost of capital.
+
+ii) Assuming that in order to finance an expansion plan, the company intends to borrow a fund of
+Rs. 10 lakh bearing 14% rate of interest, what will be the company’s revised weighted average
+cost of capital? This financing decision is expected to increase dividend from Rs. 10 to Rs. 12 per
+
+share. However, the market price of equity share is expected to decline from Rs. 110 to Rs, 105
+per share, tt fees
+
+SA.
 --- page 2 ---
-v. Which of the following t
-a. Credit risk
-b. Interest rate risk
-c. Purchasing power risk
-d. Market risk
-vi. A 2 year redeemable bond is arket and held to maiurity, the rate of return
-is called (1 Mark)
-a. Coupon rate
-b. Required rate of return
-c. Yield to maturity
-d. Current yield
+Q.4
+The Modern Chemicals Ltd. requi
+before interest and taxes of Rs. 5,00
 
-Q. 2 M/s A Ltd. has provide following information
+case, by issuing equity shares. The
+decline to Rs. 125 in case the fu
+borrowed at the rate of 10% uptoRs. 2,50,000, at 15
 
-i. Net operating income Rs. 40 million
-ii. Interest on debt Rs. 10 million
-ili. Cost of equity 18%
-iv. Cost of debt 12%
-v. Work out
-a. Market value of debt
-b. Market value of equity
-c. Average cost of capital
-vi. Assume further that A Ltd.
-a. Takes additional debt of Rs. 100 million
-b. Uses the additional debt to fin
+at 20% over Rs, 10,00,000. The tax rate applicable to the
+should the company choose?
 
-operating income of Rs, 20 million
-c. There are no taxes
+nds are borrowed in e
 
-work out following by using Net Operating Income (NOD approach taking into
-account additional details of point (vi
+Caravan Corporation is venturing in a new project. Initial investm
+of depreciation 25% on WDV basis.
+Calculate:
 
-) also
-a. Equity earnings
-b. Market value of debt
-c. Market value of equity
-d. Average cost of capital
+i) ARR
 
-ypes of risks is/are not systematic risk? ’ Gd Mark)
+ii) Discounted pay back period _
 
-purchased from m
+Earning Before Tax (Rs. In Lakhs)
 
-ance a project which earns additional
+Q.6 _Write in Brief
+A) Role of the finance Manager.
+B) Capital Structure based on Durand Theory
 
-Vii.
+Q.7
 
-Q.3 XYZ itd. is considerin
+Write a note on
+1, Graham and Dodd Model
+2. Time Value of money
+3. Leverages
 
-depreciated @ 33 & 1/3 9
+of Dividend decision
 
-remaining life of 5 years after which, on disposal, it would fetch a value equal to its
-then book value
+% over Rs, 2,50,000
 
-© revenues by Rs. 2,00,000 per year and reduce operating
-cost (excluding depreciation) by Rs. 1,50,000 per year.
-Compute the incremental post tax cash flows associated with the replacement
-proposal assuming a tax rate of 50%
+The rate of discount is ]
 
-(10Marks)
+Year 2005 2006
 
-dayl
---- page 3 ---
-4
+pected to yield earnings
+mancial plan, the company
+€ alternatives to finance the
+00,000 and the balance, in each
+iTently selling at Rs, 150, but is expected to
+xcess of Rs. 10,00,000. The funds can be
 
-Q5
+and uptoRs. 10,00,000 and
+company is 50%. Which ferm of financing
 
-Q.6
+(1
+ent for the project is Rs, 20 lakhs. The rate
 
-PART B-— Answer Any Two questions out of 3 (All questions 10 marks each)
+0%, Tax rate is 40%,
 
-What are the different methods of distributing dividends to the shareholders? Explain the
-methods and differences between them. Also explain difference between bonus and stock
+se (12)
 
-split.
-
-What are the assumptions and limitations of MM approach? How arbitrage method works
-in proposition I of MM approach? Give example also.
-
-Short Notes (Attempt any 2)
-1. Walter’s Model of dividend policy and Gorden’s Growth model of dividend policy _
-
-2. Traditional approach in Capital structure
-3. Lease V/s Ownership and Lease V/s Loan
-
-a KR
-
-ae
+es Y
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper 6890ddaf8ea6
+## 2014-15 · Final-Exam · Sem 8 · paper c913cb832c40
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management 2013-14 Re-exam.pdf`
-- Printed on paper: exam date: 05/07/2014
-- Text: ocr (2 pages), mean OCR confidence 92.5
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial management Batch 2014-15 Final Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 24/04/2015
+- Text: ocr (18 pages), mean OCR confidence 37.3
+- 54 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (ALL Stream) Year: IV Semester: VII
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
 
-Academic Year: 2013-14
+Academic Year: 2014-15 ” ~
+gens Se,
+A
 
-Batch:2013-2014
+Subject: Financial Management
+Marks: 60
 
-O0*ainto T2YO Bo mn
-OS (a Oye?
+Time: 2.00
+Durations: 2
 
-ee
-Migs uNieRs™ wv
+Final-Examination
 
-Subject : Financial Management Mar
-
-Date :05/07/2014 Dura
-Re-Examination
-
+Date: 24/04/2015
+Cr THER
 Instruction: Candidates should read carefully the instructions printed on the question paper and
+
 on the cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) All questions of Part-A are compulsory.
+1) Question No. 1 is compulsory.
 
-2) Attempt any 2 from Part-B
+2) Out of remaining questions, attempt any 4 questions.
 
-3) All questions carry equal marks.
+3) In all 5 questions to be attempted.
 
-4) Answer to each new question to be started on a fresh page.
+4) All questions carry equal marks.
 
-Part-A (All questions are compulsory)
-1.(a) The management of NBC Auto Company is considering to replace an old machine with
-a new one. The new machine will be capable of performing some tasks much faster than the old
-one. The installation of machine will cost Rs.88,475 and will reduce the annual labor cost by
-Rs1,5000. The useful life of the machine will be 10 years with no salvage value. The minimum
-required rate of return is 15%. (5)
+5) Answer to each new question to be started on a fresh page.
 
-Required: Should NBC Auto Company purchase the machine? Use internal rate of return (IRR)
-method for your conclusion.
+PC arstus ye
+KS bd BRARY ) Ss
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
-1.(b) Payment of 9 years annuity of Rs 10,000 will begin 7 years hence. What is the value of
+43
+=tt*
 
-this annuity now if the discount rate is 12%? (5)
-2. The following information belongs to four investment opportunities: (10)
-Project 1 2, 3 4
+QI (a) Nirmal deposits Rs.100,000 on retirement in a bank which pays 10% annual interest.
 
-Funds needed (Rs) (960,000) (720,000) (540,000) (900,000)
+How much can he withdraw annually for a period of ten years (4)
 
-Present value of cash inflows 1,134,540 866,800 672,280 1,045,940
+ket price of shares with the help of following information available for a
 
-Net present value 174,540 146,800 132,280 145,940
-Project life 6 years I2years 6years 3 years
-Internal rate of return (IRR) 16% 14% 18% 19%
-Due to limited funds, all projects cannot be accepted.
+QI (b) Calculate the mar!
+(4)
 
-Required:
+firm’ as per Walter model.
+‘Capitalization rate Ke= 10%
+Earnings Per Share = Rs 10
+Rate of return on Investment = 15%
+Dividend Payout ratio is 50%
 
-Va.
+es with the help of following information available for a
+
+(4)
+
+QI (c) Calculate the market price of shar
+firm as per Gordon model.
+Capitalization rate Ke= 20%
+Earnings Per Share = Rs 20
+Rate of return on Investment = 12%
+“Dividend Payout ratio is 50%
+
+4/2.
 --- page 2 ---
-i. Compute profitability index (present value index) for all the projects.
-ii. Rank the four investment projects according to (a) net present value (b) profitability index
-(c) internal rate of return
+having a cost of Rs. 120000/ and life of 6
 
-3. Nomura Fancy Limited has the following capital structure:
+Q2. A company is to start a new project which is
+and follows SLM for depreciation. The
 
+years. Salvage Value is nil, Applicable Tax rate is 50%
+cash flow before Tax (CFBT) are as follows: ;
+
+Year 1 2 3 4 5 6
+CFBT 12000 15000 20000 30000 40000 40000
+Compuie the following when cost of capital is 10 %
+
+a) Discounted Payback Period b) NPV c) IRR (12)
+
+equal installments. If the loan carries a rate of
+
+Q3. A loan of Rs 100,000 is to be repaid in five
+interest of 14%, calculate the installment and show the breakup of each installment into principal
+(12)
+
+and interest component.
+are in the same risk class, and are identical in every
+
+bt , while Company Beni does not. The levered firm has
+ms 20% operating profit on
+
+Q4. Company Ani and Company Beni
+respect except that Company Ani uses de
+900,000 debentures, carrying 10% rate of return. Both the forms ea
+
+their total assets of 15 lakhs.
+
+a) ) Compute the value of Company Ani and Company Beni using Net Operating Income
+
+Approach. Assuming overall capitalization rate is 15%.
+b) Using Net Operating Income approach, calculate equity capitalization rate for both the
+
+firms.
+c) Explain the Net income theory of Capital structure. 5 (12)
+
+Q5.   Zigma Limited has the following capital structure:
 (Rs in lakh)
 Equity Capital (10 lakh shares at par value) 100
 12% Preference Capital (10,000 shares at par value) 10
 Retained Earnings 120
 14% Non-Convertible debentures (70,000 debentures at par value) 70
 14% Term Loan 100
-Total 400
+Total | 400
 
-The market price per equity share is Rs 25. The next expected dividend per share is Rs 2.00 and
+5. The next expected dividend per share is Rs 2.00 and
+
 expected to grow at constant rate of 8%. The preference shares and Non-Convertible debentures
-are currently quoting at Rs 75 and Rs 90 per share and are redeemable after 7 and 6 years
+0 per share and are redeemable after 7 and 6 years
+
+are currently quoting at Rs 75 and Rs 9
 respectively. Applicable tax rate is 50% for the firm. Calculate the weighted average cost of
-capital. (10)
+(12)
 
-Part-B (Attempt any two)
+capital on the basis of Book value.
 
-4. Describe in detail:- Walter's model, Gordon's Model & Modigliani-Miller Model of Dividend
+The market price per equity share is Rs 2
 
-policy. (10)
-5. What are the determinants of capital structure of a company? Explain in brief. (10)
-6. Write a short note on any two: . (5*2=10)
+-Q6. Describe Walter's model, Gordon's Model & Modigliani-Miller Modei of Dividend policy in
+detail. (12)
+Q7. Write a short note on: (4*3=12)
 
-a) Floatation cost ;
-
+a) Floatation cost
 b) Capital Assets Pricing Model
-
 c) Effective vs. Nominal interest rate
 
-- x
+X
 
-2/ a
+of
+--- page 3 ---
+3s
+ODON- ARABDBNRODT
+ea) ed Sek :*; (Qaen*%
+ors nonoornr anon
+aaowrr
+
+onnwoooordorey
+ttoOoWDNNe
+
+Vaasa acar+nHnnoeootns
+rraoet
+
+@ 2 ERGO BNSCBOVTIAISALS
+SONNROARST
+
+a PANNA AAA OTAGO
+oer
+
+“ SCOOP YSSanHvoakveun see
+
+te eee NAN
+--- page 4 ---
+A.4 Appendices
+
+ooo
+
+oo Ww
+
+rT
+
+o|erQ
+Rlooadt
+
+¢
+
+vm hee
+
+on
+Sioa
+io |=
+ol a
+~ os
+3
+S
+S
+Q eo
+°
+9 |&|2s8
+Qj jee
+a
+3
+ems
+o on
+c |e lon
+oO jelnan
+9 [rN
+_ cr
+°
+3
+(ty owt
+
+= ~—i|o3r
+°
+
+om
+
+E
+
+fe} ejOn
+£ o oO
+O JSIEN
+o TIES
+c=
+
+ee
+
+-
+
+1
+
+<x
+
+7 =
+
+2 Siow
+< >
+
+oaoonae
+
+innoy
+
+oon
+OO
+NNO
+
+nwo ce
+
+AAO
+
+rH NNN OD
+
+aronaogn
+
+HANNO
+
+annunrn
+
+rr NNN
+
+HK ANN
+
+rAd ST
+
+erin
+
+aonoo
+
+er rN
+
+“onuoonen
+
+anu oO
+
+toh
+ato
+
+ork
+
+Xroo
+
+or
+1) ©
+
+-
+
+NO
+--- page 5 ---
+Appendices A.5S
+
+con @emnunsOnSERas +tTORT Ore 5
+—-anw OND RavyrOonawronoao Om ae)
+: : mMroomnnmms c
+--- page 6 ---
+A.& Appendices
+
+e/SB2 85 RRR Soe eer OK ss BaannrnQOoe
+= 2 OF Bee eee eH BUSSE SE SSH Se BS
+T~HESFHOHK ONNSYS
+rr NIDODD
+
+3 LH AN OWNOMAG
+SPARGMHRKSRAOE
+SCP2AGZHDRSOTARSS
+SEEeEnnrar wo
+r ON
+- wo
+
+otrornr vo
+
++o Ssanoconnwngs
+X(BRSSSAO oer wass ) :
+SHBSISTBSRLSASASSSRZESS
+NEQSSSa2- ONT SSS
+~~ Kennmnnon
+—-hK QD
+oD
+fo] annuowoh
+
+comer menereesnBXBks
+
+
+oO Be ee ee eee SSSEEBRBESSISB
+
+HWE ASELSSSHISSErZssrB
+
+SCPMORSTGOr-OUSLS
+
+er nok ®
+
+eto
+
+N
+
+so | NNO
+
+_ Rlaatatore rh 2 um
+
+_ BO @ ESS S ar PSN SSBSNSHSS SSB
+3 ~¥SUSSSSRSNSSTOSSZaLTy
+c NEAnNTOR ACTS x
+fo} Hr OOS
+G =
+
+=
+
+coor om ee ger eIEIeNBSSEssaagss
+Seog ssS0qoynase?
+Soetanennnnes
+
+se FOOngdnne@gD
+= 4 LBAeOHAWK LCR
+
+=] SlicanvHr ene
+oc SEPA otrooore2g
+STAQSATOHOM HVS
+rr ODOT
+NN
+_
+
+_ x0 |
+° Pa te oar : , 2 2 2
+£ SGXrSSSENBAUSISSSCRAZ SE
+3 NOVADHROANT OS
+a - or
+N oO
+wa .
+= po on SONS SSIESRBSN SLSR SEh Sse
+° 2 |SS 88883 ee eee eee Scaggs se
+~VTP2RQaHtroror ey
+Cc -t oOo
+Oo -— oOo
+o
+a cow at HOME SISMSSSSSKSBSBR BSE
+OteyNNAnRe 2ASAULSASSSVToHseansas
+ae Rath bra been aaa
+conn than
+
+oO
+F |e [eR aanoces
+
+ae he r
+Ble rand wHoorst
+- rTreeaotyonro
+‘ Raf NePaanvoonh
+< OND
+it
+
+w L a
+
+oO seat moneeSENQgasa?d
+
+‘
+--- page 7 ---
+Appendices A.7
+
+
+LISGONHAHAGCGH HH RORSHRASHNRGOHNGARGZNO
+
+
+RICON
+
+RISSHHORAQTK ARHGADONGAGBRNAQHHHOYRA
+
+TN
+3 CONSCONNMAKARKRMDORONRODNOrOMORME
+3 OnnMrNOTTNROrTTORNMNOYTANNOYrTOYTONDHIAOT
+
+TH [XLISSCHAHAAHOHADRARHHODK HON HAQHKRYHRROH
+
+c - rN
+oO
+_
+° CONHHOoMDATNOWOORNAMDMYTRHYONrDaMOwamOaNNortervsnR YT
+
+N10
+
+Cc
+
+<
+
+c OOrtOoOnnontraonwoonw~rwtrhr OWOONWNHOONroaordrt
+
+id OMADODOODMWOOMDAK- DAMN OrrRARONONWONOOYD
+
+
+2 =
+3
+>}
+> COONTDHTMNNOAMANOCTMNAANONR DAM r Ontreh
+
+
+Qa
+
+=
+
+& OOO SCNT OO NER ee BT ES BR SRS SS Bes
+
+o 4
+E were eee eK ANNAN SET HS
+by -
+<x
+“4G
+
+C NO Ow oaomno NO wrNoORWOMOrTVNOMOTNWDONONMA
+ae ‘ Serre eee ee SH
+--- page 8 ---
+A.8 Appendices
+
+SOC MUN OOPABISLOYYSLBEAR
+
+
+N BB BAGS ANE BS SSSRE SSE SIIRS
+
+AGCGEASLZSRSSA Hoar aselaaag
+SNOPANMATH AON S| —
+
+r-nNR OW
+
+rv
+
+COOKKRMOMANMAVQOSA
+2@QSSyronnoorTOBVs
+arReoOrnhnt
+
+
+AHPISHLZSR AK HCHVSYS SHS
+
+TEP FAnnatTagaNnaw i
+
+a0 oO i
+
+-o |
+
+|
+
+|
+Oe ao ONNR AH ESYHSTBSYSLERS
+BQAYFrRoToyoronyn
+
+DI~- ADDR ANN
+L22aanntrnona
+SN FSC aAannnar or
+
+coarthaernaesags
+SASSSCTRGEQRME OG
+7s -RQO~~ TOR
+
+LIBR BR SNR RON GR SSOS Lt
+HYOARASEBSERGSEMwMOTZISILSS
+TES HKENNnNorer DO
+
+rOonow
+
+- —
+8 Joomen ne S2gBSSXBaessese
+S 2/8 2885 BT AGAR BR Eee BO ee os ess
+1S) © IO BOS OE SK SRO SDSELBABBS
+ee! EYE RASHTHOCROBMOOTE NaNnNOWo OD
+
+reer eanonr ood
+
+() -ayto
+
+oe =
+a .
+
+= leone SEN SSSSRS STR BE SSB E SSR BERR
+
+oc elISSXSPRBNSSISSSBrESEISBNSERK SSS
+
+
+
+aomnaroaneaner
+
+o |rlodontoor MOOoF
+Sagas yworoor
+
+& =e
+
+. a
+
+— an
++
+Cc
+
+
+- 2 ISSSR BSS BSIK SES BE BSS SPAS BR BSLS
+
+SB jsljen +e2e SO BBSRS RAR BARON TNO er Sss
+
+c SO 8 OO BO GNIAR IS RSS SSR BSBSTRS
+
+c SHGASHAELSRSRSSAMHLE BIBS
+
+eer re KT NODNMD
+
+<q “AT
+c
+
+
+el/SSSSSRB Be SE BESS ERAS SSS NR Ol EBSs
+
+SUS BSSSERAR ATTIC sa
+
+onunonnrt @
+
+218 GS Swoon wHoOrY =)
+NAnNattoHonR DAO 255 ¥
+og 5
+
+g eer
+3 a
+>
+paargonmMmaax2aANsesSsgsr
+Boeoaonananooaoh
+
+COT DanNnoO®
+GowUOMNNHRDNDTO
+ns FOADEAKNAMOANA
+
+3 Yo Garoaocodvnre ss
+a. = SATNHRZANKHOT THON VHS
+
+err NT Kr OD
+
+E 7
+
+2]
+
+oO SO NO MOMATNE MT HBSSSSASLELR SEBS LS
+
+
+RANANK HK TONVOE
+
+—
+x= 2
+= e-leadnv~ororste
+rTEFAnnaasone T2S8
+SES
+a y 7
+9
+< |
+a S| wowmoneaorNOTVOr 22 QaNRAKsssls
+On ANTOPE SF ANCNAANNO OYTO
+--- page 9 ---
+Appendices A.g
+
+AHN ;
+SSENHNTHBOMRKFNBDNANAMAHNAMOWOODW
+w to
+
+SSANNMOHNDODOTDHOAaNMK- TRON
+
+ofOoNdr Oh
+
+al TPR NOT HOROKTHNOTODDODrROOTYVOE
+
+KK KTNMNNTORDADOLK O
+oa rKH ANDO
+a —- ON
+a ~
+
+SliwciocoMOR AMANNODODD
+ToOnTHtTDONMORYAE
+
+a CAHOHOKHMDODHAATDOBDVDGVARVDOVOAR SSS
+c TMP SBS<HWGDOOMKKERYANMDETDTOND DO
+[e) -— er NNOMTNODONDOG
+
+r- NDOT
+% =
+
+°
+=H |Sloeqgnovrar nr tTONaoD
+
+c err nntneo
+
+< eee KH NANT OR DORK ©
+
+anno
+
+c ao
+o
+
+RonoarrecoO©anrsd
+
+. ©ejoongtrnea CAMMRnNRADADD
+‘Oo oS KR RAODUDYKYDORTH~DONDO
+
+fe) ONtTODORMDOHKRQD
+3 SCT ONBOTORGOK~-TRrONRGOONOOBRHG -
+a z TP SCNnaHotHornr org
+> nono
+wt
+ne]
+
+a. TVawNnoaNdaoHtTHoauryoorRr Engages se
+£ ~ SCOPNSSTFBSHAONCHAMBOHNNDAHODAL
+ONES ANHDTHORRGDAD
+
+Oo rvtnst
+a)
+
+“ ores QM Gea) sr De TT SEnnmnyotnena
+at « roo
+
+om jo)
+<q [| HOt Or OO OT See eer eT NAN ANA Oe
+
+| l | | | | | i 1 t r .
+--- page 10 ---
+|
+
+| |
+
+A.10 Appendices
+
+sf
+
+oleadt
+
+> |2l|oeooo
+
+=) SRlowon
+
+2 Slot
+
+ot
+
+a
+E
+c
+
+1 Oo \
+o |x1geo
+= _ a
+F 15 |28
+Y
+= | |
+w x |
+a}|Sjuan
+< \7
+ran fad
+
+el|Saao0tTN
+
+|
+
+|
+
+|
+
+I
+
+|
+
+1
+--- page 11 ---
+Appendices A.t4
+
+3s NO DOOINOSOCOUBOSSRReRRS Teer woxnaseson
+
+x OR EOCTSASFSRSESSSSSNCENnee2sesss
+
+3s DOONOS - rT ro RVeoeesee2eos Ses sssaggeltses
+
+oF 1 Ql 00:10: 0D 00 OO Palo Oe ie Or Oreo eoerersekS
+
+{o) SRIRnYRKeDOMKDoOYtTNODHWOTNGODRNHNNDNODORY NOON
+H|RARQQHORKL KR ECHGOHHHHHHTTEQAVY
+
+cIOMNTOODOrMNREOYTAMDANAYTOONMNOHRYNONONMON
+
+a
+
+o
+
+hh
+
+a
+
+o
+
+£ ceICOr Ke HNMNMNYTNORMOrMNYTODOrMNDONDHAD®D
+
+
+°?
+
+< x
+
+oa] ae
+
+E SIKnNMFTNHNORAMROKAMTNORMROrAVNMRYTNHOAHNONGS
+
+Ss weer rr rr TK TH TH NNN NOOO
+--- page 12 ---
+iS
+
+A.Ai2 Appendices
+par er2nr22858s >
+
+anon
+met aOMANTs
+
+wewlared
+
+Ss 1D ao
+
+£|B SRS SRRRSEK TK eoee® 2
+1S)
+--- page 13 ---
+S1ZS
+ai 2
+Cares
+sine
+a {ss @
+Sloe
+xis ©
+e|no
+X58
+al{s@
+sjt oO
+SIO
+ais @
+e]oo
+xlot
+au}2 2
+—
+BD
+=
+
+ce
+S
+Na CO)
++{|2
+g [alee
+Qa
+
+3
+[om
+
+Fa
+
+Ca
+6 |X |2
+i?)
+
+o
+
+=
+
+KS
+
+elo
+~- 11a
+coc 1N Ia
+o ;N)-
+a
+
+o
+
+ts
+
+Q
+
+Fa
+
+elo
+Fe }tia
+a |e
+&
+
+<x
+
+wef
+ao} Si
+
+=
+
+Q
+oO
+
+=
+
+foo]
+
+KR
+
+foe]
+
+Q
+
+ae
+
+t+
+
+oO
+
+wo
+
+Appendices A.i3
+--- page 14 ---
+°
+oF
+
+°
+of
+
+°
+of
+
+°
+
+°
+x
+
+me)
+
+nN
+
+oS
+
+w
+
+=
+
+paid
+
+L~O
+
+_
+
+sea
+
+ivi
+
+|
+
+is]
+
+|
+
+| |
+
+onn
+
+N
+
+cS
+
+Q
+
+jo}
+
+ite)
+
+|
+
+|
+
+|
+
+|
+--- page 15 ---
+Appendices Ais
+
+Om mp >
+ROxl oy
+Nao} s
+
+Foo or) 8
+
+e PRPONKRNONWORYMHNAOR@ADOY
+
+@
+i=
+(e}
+
+° NOWMWONANMNrY OHHOMDONDAOtOOD
+
+3s SOTNTr DE NADAHHMDAMROOHARL DIS
+
+nwo z 4 restr won
+TMNOTOONNDADOK KADY YHKHOCONGDH OS
+
+
+o
+
+3
+
+SS SISSLZSENROXVQELMOMRMANNDANK-ONY+HYKROoHOYN
+
+> CIPBSSSRCESROVPMPRITSOCTRGDARHOHK HSH ANDSBSSY
+
+= RlPASLASLTAKM AN HANK HDGHNHRGMSGNUAHSROSY
+
+c N TNONDMONDDAGHANNDYTHONNDOOATK GH
+
+
+n”
+
+Q
+
+=.
+
+a.
+
+ca QS Or:
+Prd TTT TTT SH TK KKK NUNN OOO
++
+UJ .
+< -
+uy .
+a BI-ANMTHOKHOHRETAMtTHORDROrADeHOoWOMDS
+
+TTT TTT HK KK NNANNANN OOS YD
+x >
+--- page 16 ---
+A.16 Appendices
+
+pd N
+
+ZIQHLHARnQQOW OS &
+
+N Do ogee teed ee eS 9 }
+Y |
+
+OHHH HWW
+
+MAOanKR TH DBRODVWARDAY D
+
+silo o~
+
+rloorQD onowre
+
+ZEISS ZLHBSaSQor oe gore ae 7, NS
+
+a ™ Be EE FG HVGHHGBGHHHHGGCCOOCOOCS
+
+2
+
+S
+
+S) {\
+
+a
+
+
+3 elOSSRMSSSRZSSSATEIASYE SRL IH SESE
+
+
+s |" BOO TF BU U HHH GCCGSCOCCCOOOS
+
+oc
+
+o
+
+=
+
+° ° paw araaeorogNIBPESQssagRse sas
+2PSYNVTBRERBASTSORQESREONS
+
+7 Rranoorne
+
+s HeANNoOarT NNN
+
+Lo]
+
+oO
+
+3
+
+CX RQRSGSGHOTH-OTONAAS
+
+JS IZIVGBSHOHKGDONQMAGS
+10 2 PE SHAUN AQNTHONN LSS
+
+wo |NIVE 7 >
+
+5 _ Ci oars FT HHHHSOGCONNNE
+n
+oO
+o
+a
+
+CAUK MANARQMOHHOATHESY
+
+onuonoert
+
+re Rlor-asoanr TO
+
+roie HEAaaoaorr~onnooe
+
+xt.
+
+zs *
+
+<x
+
+ber =
+
+a Bl woe mon moor dee MOL SPA gNRARs sees
+CH AODTOOTPSANNANAND DT TP
+--- page 17 ---
+Appendices 4.17
+
+al
+
+=
+
+a
+
+Cc
+
+Cc
+
+< LRintH ODMNARDMAAUNMDMNAMAMMAANANTDOMDBONRN
+
+c HSlIm-RnrTOONKKROCHOMHONHDKTORDOrKe NOVAS
+
+
+- KENANNHMHMOMOMHOYTOWVTYYTte rr
+
+o
+
+o
+
+2
+
+a celONNtTTROMOGHMHRAMNETANAOOCBMAKYYr Yow
+
+> RINaTOAOOrKONMNANOHOrNOArYORDOO~ OTIS
+
+~ INISSSLOKEORACKHANHNHNMYTTYTTHNH NNN NY
+
+5 N HENANANKOMMOMoOt~etyoe ett
+
+7)
+
+oO
+
+2
+
+a
+
+o xo OtOWONDONTRANADHNHDNNRNMNONMr OODENA
+
+i an) cs) WOONRNTAFTONDOHNRROVDDNMNNOMONRAROHK NTN OOO
+_—| E ISIN BSHBGABRAGCKENHNYTHHOCOCORNENARER
+
+=i
+vt > wee eee OHH TH TH NNN H NINOS TWO
+=
+--- page 18 ---
+A.i8 Appendices
+
+
+as NNOMOONNMNDANNKNDOrKTKANANANNADAANMNNNIDAYN A
+
+° WOMNOKTAMANONAMDROORMRONMNNDOOR OOD
+
+
+o wIT MONON DANNAAMAMTNYOTDONYVTOONREE DE
+r)
+
+> KKNNNANANNNANNANNNNNNANNANNANNANAN AA
+
+°
+
+°
+
+| APPLE EAUNANANANDHDHDHHANDHHNHNNHAMNNHNAHANDGA
+qT
+
+"| <x .
+a|6
+a OITH- NOMTNORDMOFTNMNYTNORNDHDOrAVAMYTHONOHSD
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper a06b907259b0
+## 2014-15 · Re-Exam · Sem 8 · paper a06b907259b0
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -14260,7 +13679,832 @@ to remain same, what lump sum amount should Amol set aside today to facilitate t
 Marks 10
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper e02feb0bdf48
+## 2014-15 · Re-Exam · Sem 8 · paper ba1031d0221e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management Batch (2014-15) ReExam.pdf`
+- Printed on paper: exam date: 08/07/2015
+- Text: ocr (18 pages), mean OCR confidence 40.1
+- 46 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+- 7 SVKM’s NMIMS
+. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: IV Semester: VII
+Academic Year: 2014-15 °
+
+Batch: 2014-15
+Subject : Financial Management
+
+Date : 08/07/2015
+
+Re-Examination
+
+Sees
+
+on the
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+cover of the Answer Book, which is provided for their use:
+
+NB:
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any _ 4 questions.
+3) Inall_5____ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets.on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+QI. a) Identify the source for identifying a promising investment opportunity and the nature of investment
+
+decision by citing a corporate example. (3)
+b) What is an optimum capital structure? What do the capital structure theories refer to? (3)
+c) “Money has time value” Explain with Example. (3)
+d) Calculate the required rate of return on equity from the given information. (3)
+Dividend paid for the last 4 years are as follows: :
+Year 1 2 [3 4 “|
+Dividend 1.25 1.35 | 4.00 4.10
+
+Current Market Price is Rs 25
+
+Q2).S. Ltd manufactures shoes. Mr. D, president is considering the company’s ordering, inventory and
+billing procedures. He estimates that the annual savings from computerization include a reduction
+of 10 clerical staff with annual salaries of Rs 15000/- each, Rs 8000/- from reduced production
+delays caused by inventory problems, Rs 12000/- from lost sales due to inventory stock outs and
+Rs 3000/-associated with timely billing procedures. The purchase price of the system is Rs
+200,000/- and installation costs are Rs 50000/-. These outlays will be capitalized (depreciated) on
+a straight line basis to zero book salvage value which is also its market value at the end of the 5
+years. Operation of the system-requires 2 computer specialists with annual salaries of Rs 40,000/-
+per person. Also annual maintenance and operating (cash) expenses of Rs 12000/- are estimated to
+be required. The company’s tax rate is 40% and cost of capital for this project is 12%.
+
+You are required to- (12)
+i) " . Find the project’s initial net cash outlay:
+
+ii) Find the project’s operating and terminal value cash flows over its 5 year life.
+
+iii) Evaluate the project using NPV method.
+
+iv) Calculate the project’s payback period.
+--- page 2 ---
+Q3) The following information has been extracted from the Balance sheet of F Ltd as on 31.12.2014:
+
+Capital Rs in lacs
+Equity Share Capital 400
+12% Debentures 400
+18% Term loan 1200
+2000
+
+a) Determine the Weighted Average Cost of Capital of the company. It has been paying dividends at a
+
+consistent rate of 20% per annum.
+b) What difference will it make ifthe current price of the Rs 100 share is Rs 160/-
+c) Determine the effect of Income tax on the cost of capital under both premises (Tax rate 40%) (12)
+
+Q 4.What is lease? How it is beneficial to the firm? Discuss various types of lease. (12)
+
+Q5.a) Comment on the emerging role of the finance manager in India. (10)
+
+b) Mr. X. deposits Rs 2000 at the end of every year for 5 years in his saving account paying 5%
+interest compounded annually. He wants to determine how much sum of money he will have at the
+
+end of the 5 th year. (2)
+
+Q6) A textile company belongs to a risk class for which the appropriate P/E ratio is 10. It currently has
+50000 outstanding shares selling at Rs 100 each. The company is contemplating the declaration of
+Rs 8 dividend at the end of the current fiscal year which has just started. Given the assumption of
+
+MM, answer the following questions:-
+
+i) What will the price of the share be at the end of the year: a) if dividend is not declared and b) if
+itis declared? (4)
+
+ii)Assuming that the firm pays the dividend, has a net income (y) of Rs 5,00,000 and makes a new
+investment of Rs. 10,00,000 during the period, how many new share must be issued? (4)
+
+iii) What will the value of the firm be: a) if dividend is declared b) if dividend is not declared? (4)
+
+Q7) Company X & Y are in the same risk class, and are identical in every respect except that Company
+X uses debt, while company Y does not. The levered firm has Rs 9,00,000 debentures carrying
+10% rate of interest. Both the companies earn 20% operating profit on their total assets of Rs. 15
+lakhs. Assume perfect markets, rational investors etc., and a tax rate of 35% and capitalisation rate
+
+of 15% for an all equity company. -
+
+a) Compute the value of the companies X & Y using Net Income (NI) Approach. (3)
+b) Compute the value of the companies X & Y using Net Operating Income (NOI) Approach. (3)
+
+c) Using the NOI Approach, calculate the overall cost of capital (k,) for both the companies X & Y. (3)
+
+d) Which of these two companies has an optimal capital structure according to NOI approach?
+(3)
+
+2/2
+--- page 3 ---
+Appendices A.3
+
+wlOBSOBRYHKARNDORANOGOSL OT o
+c HARVORKOROKTILONNS
+eo)
+
+wlOMMr Nr ODOR NNYOBRRNAGOLOOLSS N
+3 emo} RYTOTRUEREOYW
+
+: NN ts did NTN ONS
+-er
+
+so CANDHOHORKREDROOHDSAMARKH QOH TOON
+2 RODONNDOANRANDAVNK VTOO
+
+
+Cy 2 SRO BSE SNSHMSHOMORTNOMREOSOAISSES
+) - meee eee ee PP PP HK KH KE NNANNANNNANNN OOD TIO
+o
+£
+fe) Llormoaronnyyoearnannanesoxrosh egaag
+QADvArowoea
+
+Peet rena NANOS
+
+
+be} xe COKNTORANMAMHYHROMSOMDROOHON REM SS
+YH8rTESSeSRss
+
+eerrrerrrrrreree
+
+Oo COOK KANNMTNONDMAK~ MOTOR ONYRE
+aroneryress
+
+o |RIETCHSTHORBBROKAMTORVAGH
+SIP ISSS Se eegternnas5 nt EAR AANA eS
+=
+
+5 .
+
+<x
+
+aw |S
+
+ue|s
+2Z1SlenmewnonamnOrK-antMONMMAOTNOTOYSROLYS
+ra > Sete ee ee KK NNNNANNO OTT
+--- page 4 ---
+Lo
+
+A.4 Appendices
+
+woOMADnoao®
+CBS moDOnrarRs
+
+ePIOTAR LOR
+BN See BENS SN SSNS SSE REL SRRSES [e}
+SAMOA EESHOHGROOBORBS Oo
+* N nuwsror] —
+—-— OD
+
+commegor Mente SSSrsSaRangas
+se SEeupesSRasgreaysragsa Qoanrnoaeayoe
+bois eS OCR BSS O -GSSARASE SSR SIRS
+
+TH SOANAFSATHONSTLYES
+
+-TONWD
+
+-—a1w
+
+xe Saoroaowonmnnganr
+© SSESRRARINE NE OU goanas 2 = OH OD OO
+SrFOlSRAHAHt~Morgersy
+Om TS OB
+
+as
+
+RIN O2OOReSSE
+RIE SSSrHSHrBeneoeande 2OOoS
+- Bee ee ge ew UNSONTOSTRESSRIEBES
+ONTOLSRnayyver sors
+
+~-nanory
+
+—N
+
+eIGSSroePAhSsrus
+BFS BET SSIS SES SRA SNESINESSSSSESE
+CONTE ZFANANMTOOR OE
+
+=
+
+oononmoenarn'
+HBOntreanr- rh eves
+
+°
+Rinanayryr rr Oe
+BI(PARLSHSCHOeNT eon 2 De BN.
+
+> BIL RRR SR Cogs boraasdt SSR ZRH BSSRs
+= SONTOFANANNGOMOBS
+ES -NNO
+[= _
+38
+1S)
+a loon eye BAS SPR eSSESBSESRESZRERS
+° SSASQSN BAS SSS SS SCE BPS Ssnlasese
+o eR Bee Apa THER SISASOTRLKSSBBS
+CNS SE AANA Oe ©
+2 - OR
+c
+c ° Cro SYA BR SPSSBSRESASBRALERAKSRSE
+nae m NS BBC O eGo ee EW ORNOSTOSSSASRS RG
+ray STS SKK nyo
+. HAT
+3
+wn oe tate OOS SOBEL SRSTSSSHLG BRIBE
+SESE SEES SSR BS RS BBB SSSS BK SBR SSS
+ov (Sao Bee ee ee eS ee SoS adec asses
+J Sry rer tNNnoow
+° —N
+Q.
+(S) 3 CUMlVOCOVSANSZlB KS sVssEsehshays
+x= Sr rer NMNOOW
+
+| e - F
+
+_
+
+u -
+
+<x
+
+iw »
+G oe not HoneoOrNOZNS sees
+
+a §|-aovoonwoersereereaesacceeee
+
+EE
+--- page 5 ---
+Ay, Sites c
+Appendices A.5
+
+SINnHVennrSGeoMmoeGnagunes 2 TS, ; 4
+SHOR RSSSSGHSnNGSCHNAY SES
+err Annonneg
+
+QINHATOQNATS f 1; SEM, Se
+> NOS eR BN oH TONG HETHES SYS I FESRBS
+a} TT OVA HFHSDOMOr-GHOSHNES
+2 — rr NNDOTRH DOS
+= AN NS
+fe) ARN
+1S)
+
+Rar NRBOROOSOHR CH
+
+Q SIA BA BRS ROOM O NO eegorsdtrs
+oO NTU OCDOMDOSCH HK DDROTPSRS - OT QD
+a SMEARS SOTODRAHKTROBOVSS
+err NODTOO
+3 - mono
+c -v
+oO BIRD ER SSNNT AR SS Te oe Neo eRe ese
+q o THT TONVNSFHGRGOHKYRVBOCSIT
+perry Tarn
+- orn
+, ist - oO
+3
+N ed Y aed
+| 2) OMDOoNnrMnmMAanNANTY wtoMmnwnuonananree 2.o
+ac) NRE Ete. Cee eee rrr rrr rs.
+3 SMPOMDVIBSBSHROKro-sQUVISR
+) 3° Zt acwmonr
+a. =-ANRO
+. Q 8
+oO eIOSUTSSSBSRS Rl aS Her oweyrssanane
+® NN oe eo wor eNeeSoheeesEr Sesser
+cS =TERAaaoyvHeaoarSRgar
+FE me Q io
+y =
+7 .
+< .
+w lS
+2 2 SrN tree er Ke Kr NNNNNN :
+--- page 6 ---
+A.6 Appendices
+
+one
+3 | O a
+512 a2e
+Bi-<a
+
+a eo RON Ee MESES SISBIEBLESSER SSB
+32 SESRSSSSSSSSSSSSTSSIESS SAKES
+GG BSoOSSHSELSRLAS FToOWoooT
+SSEIEBSRKSAEGSeZRICSS
+NEQSFSGoOH-oOnNTSSss
+
+SK NDWDM
+
+* rhe DD
+
+oo)
+
+On rK- MOnMOr Ne m:
+
+32 CroAgsBessrrsyssggan
+oO Fee oe Oe EO BAN ESSSIGS SET ESSE
+Ar geeSSl Besar s5Zoesss
+THRASH RORALLASL
+err nnoyv
+- CoD
+--- page 7 ---
+Appendices A.7
+
+RISSnHaynnoorne
+
+RISSNNHVWVWARAO
+
+3 CONCONAANDROERRMBOKHSNSBSABOCSL SLE RY
+© SIPEG Sb b6oaHrne GN aOrHHHSRBUsrIeSSass
+pal
+
+a
+
+=
+
+S
+
+BZBroor Kr FTRDDBLTUROBROOELE
+
+BixiSSStaaronanrwveavec
+
+S$ RIESE SGN aoaSAGDTHROSr TA
+re} SNOETLTSKEANANANNANANDTTOND
+=
+SOSSSNTSSSSSSISHHK SSSR KH AKBares
+1 DONTNAVNROOTS
+
+RISSSSFHKNADTHOQMARONTA
+
+o 2
+—— 7 SEHOGNHBHDSOKAGDYONDBOVG
+= 7 AN Or NOTES Sannnannnarsoo
+
+oy :
+
+<
+
+y |
+
+Blam vmonaoor Ans MOn2AQgQQaRasess
+g \2° orgy eersrrannnnnantyo
+--- page 8 ---
+A.8 Appendices
+
+CONDHOBRABSPOGONONASDOBETAO SSL r
+
+e|/SSEBLSSSSSSeSo RT ArRBSSRaQaras 3S
+
+
+isp) SADONKTAARAOTYTDHRO
+
+COOrTKRAMRMAMDAN|
+
+CONmM TNE Hh OrNrAnDy +
+HOOK AT TODARAMODOLR
+
+
+= NOOVRATHBORDTSGNTROVZOTOEP ORS
+
+ocooartkh aA OMONMODN D
+SPSSOoTRoonMODS@SNyTSss
+
+TTONHRSSTHWORGDHMHOKTHRPUOED
+err rNNnNnNoOovr OO
+-Oow
+-_
+
+pe
+
+3 sIS@QOORRSTSM@HVSOSNSHOSHRESTSLONSBASY
++ ROAKFTORTTSRTSAAVDY
+
+CO lrlneanoseoor¥nxr bos -Or 5
+— TTM AN BSOFHGEROBDAKMNAK AON
+
+o
+Q r~NTO
+onuNnara
+
+3 lCCNMATHROEVAOCNTSHOSreSsxs
+c LRISMDRGAYTHONDOLONVSS Roar vyonmnnoannrne®
+
+ONOManonRNOROD
+
+2 TIO NSS SSSGSGORARGDSRHOrS ;
+STDOHDORMONNDNDNOBDIHD
+
+c
+
+< “At
+
+=]
+
+s CONCOMMROOTOFTANKSTSORSRSSLONSESY
+: ATTODONKTDROOODT
+
+SNOLZATANDTT HOR DDONVNNNG
+
+o
+3 errr NnNon”r
+ic na
+>
+
+aoow
+
+COTAMMAOOBANMAADMMVABRNBANATYB
+mood annoooh
+
+3 Moe o wooden oy eAKRADKHAAE NTS =
+BISTHORDHDOKNDYTMNOWD
+
+oo Stteaaann
+
+SESSA n ag
+£ =O
+fe}
+
+Oo CONSDHDMNHMAY x
+Vor raoeeeanoortR TF OCTS
+rOM DON
+
+oy
+
+< -
+
+w e
+
+a Sl-annwMoOn@aaoranvyMOreZQOnNVagsasess
+< > STN PTH KK KK ANNNNANND OT TO
+--- page 9 ---
+Appendices A.g
+
+wCIDFONRMOENDRQNOnoTrrvayeo mmonwnn|l >
+g SSESVSQSRLSSQal SRI FSRsssERsoars 3
+* 4 ao *
+
+SENONTORANOrYDBRANDNAOAOCD
+KFKNANMNTODONAOVEASR
+
+AT NSOSRSSLSRBSSSEBRESHSOATR
+Sr rnnyoRaanoerYses
+rer Nnor ed
+oS!
+oO
+
+SR SSR EH KHBHMHAOMANRANANHRQENTE
+
+
+NONSSSRLSSISRSBSSLESSSEORG
+: 2
+
+BROMO ENE DESH HDGNGDSTING
+onm
+
+—N te]
+ZTSPaanyvrononoroynanoorys
+~SeeranantoraH- Toone
+rere TNNO
+- OM,
+1 7
+~
+
+8 BN HB SOE UNO GBGOHHKANGEGNOAS
+De RONDYTNDER
+
+) FEF aAnaAtTHR OT MNRISH
+EH rTANAHATORANQVE SB
+
+o —- ANDO
+@ - ON
+Qa. ~
+= elOQOMORAMAANRLERBSASESSYSVrsReAgRGas
+m | SSPESSRYISHSSGraSOHns HT eogVgery sa
+OORuHANROR
+
+CO OGDODHONDADDIATNODS
+19 ©
+
+2 =Aowornonandt
+TRPARQSIHGDOMKERYTAUNDETDON
+Q Serer ANMNATNODONDOSO
+- ODOT
+% as
+
+E'NiztadboovaoxrroOStTeSeoh 5
+Cc STORES RFSSSNHVSOTSORODMNAIONG
+< Se KE KNOMNTOR DORR O
+AN ae
+c No
+a
+OAR DODAMODNRONNMr TOCLRHTD
+NO ©
+
+w= |wloonrnear SB
+8 SB2BaornGonor one OW
+
+ir] e FPrernnnatrnornroro
+> Non
+ot
+
+Bb
+onatryyor?e
+
+Qa CAG BONOOKRADHTHRHNTOVBIRS
+
+£ SOrFNVASFHSCDOANNVADBOHONBOMSE
+SPH KNnNMNYNORNR ADD
+
+fe} rvns
+
+oO -— 4
+
+SoNXNGanrHKhRY¥ATKT MDBW
+D TYSFanmnyouyrena
+<x ‘ - 9 OwW
+a | & a
+a S >
+oO
+
+i ao atNnONnDMROrNMTNOVBOY
+
+! ' , .
+
+ppp rb bbb
+--- page 10 ---
+°
+wv
+3s
+Q
+isp)
+3
+o
+ro)
+of
+—
+o
+
+> |x
+Bile
+ec |@
+S
+[s)
+~~
+o
+o
+a
+3 | 3
+cjyjw
+oO
+(3)
+c
+{e)
+=
+o
+> | &
+figs
+5s | O
+oy
+a =
+<
+&
+- |S
+isp)
+° 18
+()
+=
+©
+>
+Blo
+c i]s
+a 1a
+oo
+a
+£
+[o}
+O
+® | 3
+= Le
+F | o
+Yl
+<x
+a|&
+2 |o
+- 1 >
+
+oO
+
+N
+
+o
+7
+nN
+
+co}
+
+s
+nN
+
+(=)
+it)
+nN
+
+Oo
+oO
+
+om
+
+N
+
+i=)
+
+N
+
+a
+
+~
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+'
+--- page 11 ---
+Appendices A.11
+
+
+PISSSPECSHARRSSSEAERCE RR EA REE aes
+RID SSN STORY rE RHRSQVHr AR eyaArAnaeyrs
+SIPRSSHOPPOESSSEREES Sees oesaenehs
+6 |x BP SSSR LSS INSSSIRSSEBSNSSESBSSS
+
+= RIDOFTNDODRNHNHNADCDKNYANFODROVTAOANKNOWKKR
+
+KF |SIDORGHFTOMNFORDRROVDINAVrODDDATONR AGS
+
+o
+< .
+215
+
+] 9 OITMNOMTPTFNORDHOKTNMYTNONDHROYTANONTNDONONS
+--- page 12 ---
+A.12 Appendices
+
+DanannmoanyrNoar ONDNNMDOYNT SS
+
+30 CONMAANOLDHROOYTTAYANTRE rT ONMNOON
+NW err OOoeooeo
+
+2 BREHSIHAANNK HRT TEE Qeeeeeeeee2ee
+
+& elaoamanoveperrssgukrSsk
+e ACOneortT~nroaoanononrnresce
+
+ro -
+°
+© .
+2
+S
+3 MDRNORRATHEARRANMQDODHTAVRTORRWHAe CY
+
+Slwelener arnarr an oe
+
+be LISS SZSRSHSQaH - MHHoaRwWOMNTOBSESSSSs
+H|BSRBBRSIRARQAANNAM MAMTA TAGPQlAAASs
+
+sie
+
+< .
+
+w rm
+--- page 13 ---
+Appendices A.13
+--- page 14 ---
+A.14 Appendices
+
+Q PTOTOCOMNASDHNDNMNDAOVWOMN
+Seesooeoeeseeeeseses
+
+Oonoemrnr R®OvrMNNNr rr esSeesess
+
+o|—- om
+STOONWHONMBONMANrT rT SOOSS
+8 TSESSN SS SSSSSSSOCSSSSSSSSOOPSAIVA®S
+
+—
+
+Dd
+
+=
+
+c
+
+is)
+
+ClelannnoorOnna
+(e) SISSAASSHSEHZOSNEESSSSSSsssgsgsss
+Rel BIR BERALKKosgegggeeeegggeesaaaaae
+°
+o
+2
+s
+otnaan
+
+< elaoMNOnDer NODNKDROOKNMOROVSOH
+
+lap)
+o .
+<x
+bes y
+9 Gl-anmtMNONnomaOraAnMTMONNDB®Ongg
+ra > errr rr err TT NNN
+
+Lila eli tt
+--- page 15 ---
+App
+
+Ppendices
+
+amos
+~
+
+o
+N25 8
+AA! S
+
+8
+
+g
+i N
+boo
+NOQ
+ooo
+--- page 16 ---
+6 {22
+Sian
+oj/2
+nN =
+
+or
+Silos
+a;o
+- oo
+
+ol\MMBOMMAANETZLSL i “
+o ¢ BAUORMONOHANTOEONOER
+RlawBannerhanyoeee DORNRN DODO
+_ He NNoOnoaovds TT
+
+
+fy7 doo YH HHH OH
+
+iva
+
+o
+
+Cc
+
+oO Rae mgeoeonsgagBeEsSgsegsesResas
+DADTOOMDRORONO
+
+ee HUH CCOOSOON
+--- page 17 ---
+Appendices
+
+AAT
+--- page 18 ---
+ro)
+
+3 SS PBROQBONRONAMROK-NHRar-ANE
+
+TTT NNN ANN ANA AMAA MAAN
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper e02feb0bdf48
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -14434,94 +14678,165 @@ Q7)
 (b) )* Risk and uncertainty are quite inherent in capital budgeting”- comment
 ````
 
-## 2012-13 · Exam not stated · Trim 12 · paper ad5368bde91a
+## 2013-14 · Final-Exam · Sem 8 · paper 6921abc70b07
 
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/FINANCIAL MANAGEMENT/FINANCIAL MANAGEMENT 2012-13.pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 27/4/2013
-- Text: text (4 pages)
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management 2013-14 Final.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 23/04/2014
+- Text: ocr (3 pages), mean OCR confidence 89.8
 
 ````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management 86
-Programme : MBA (Tech) -ALL STREAMS   Year: IV Trimester:
-Academic Year : 2012-20 13
-Subject:   FINANCIAL MANAGEMENT   Marks:   50
-Time:   11.00am To 1.00pm
-Date:   27/4/2013   Duration:   2   hrs.
-Final - Examination
-INSTRUC'I'IONS: Caildidate s l i o ~ ~ l I-cad d   ca~.cf'ully the instructions 111-intctl 011 the q~~estiori papel- atid on cover i)f
-thc Answer book, which is PI-o~rided f'or their use.
-NOI'E: (1) Total No. ol'cli~estions -7
-(2) Part A 3 questions corupulsor)~, Part B - ans\vcl- 2 out 01'4.
-1   (3) Total cluestions to be ;tns\\le~-etl 5
-(4) \?/ol-liitlg will for-m 1);~'t of anu\"u-
-P A R T A - Con) pulsot-y Questions
-(2.1   (IMark each total 5 Marks)
-i ) Which of the fi,l lowing is nor a l'actor dctel-min ing cost oi'capi[al of lie li1.m-'?
-a) Risl; Free interes~ Irate
-b) Business I-islc
-c) Mismatch I-islc
-d) 1"inancial l-isli
-t   .   .
-ii) ARK technique of C:alli~al Bildget111g 1g11ol.e~-
-c) Cash ge~~cratio~i by tax shields of depl-eciation
-1   d) All the above
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+a \WiNTDTE SF yyy
+mester: VIN .
+‘ %
+
+Programme:MBA Tech (ALL STREAMS) Year: IV
+
+Academic Year:2013-14 ( Li SR Y Je j
+ae
+Subject : Financial Management Mags ree
+7 UNIVER®
+Marks: 50 ae
+Date : 23/04/2014 Time : 10.30 am to 12.30 pm
+
+Durations 2 (hrs)
+Final Examination
+
+INSTRUCTIONS: Candidate should read carefully the instructions printed on the question paper
+and on cover of Answer book, which is provided for their use
+NOTE : qd) Total No. of questions — 6 (Part A — 3 and Part B - 3)
+
+Q) Part A questions are compulsory - Total Questions to be Attempted 5
+
+(3) Working will form part of answer
+
+(4) Answer for each question to start from a fresh page
+
+PART A — Compulsory Questions
+
+Q.1 (Total 10 Marks)
+i. How much amount should be deposited today in order to receive Rs. 5000 next year, which
+grows at a rate of 4% forever? Discount rate is 14% p.a. (2 Marks)
+a. Rs. 500
+b. Rs. 5,000
+c. Rs. 50,000
+
+d. Rs. 5,00,000
+ii. After 10 years from now Mr. X will start receiving a pension of Rs. 8,000 a year for next
+16 years. If interest rate is 10% present value of the pensionis__ (2 Marks)
+a. Rs. 18,760 ;
+b. Rs. 21,365
+c. Rs. 24,160
+d. Rs. 23,414
+iii. If long term rate of interest offered by a bank is 6.19% p.a. What is the doubling period
+under “Rule of 69”? : , (2 Marks)
+a. 11.15 years ;
+b. 11.50 years
+c. 11.85 years
+d. 12.15 years .
+iv. What is the present value of the investment having maturity value ‘of Rs. 7,500 after 10
+years and discount rate is 10% p.a.
+(2 Marks)
+a. Rs. 1009.10
+b. Rs..2,038.95
+c. Rs. 2,891.57
+d. Rs. 3,195.80
+
+1/3
 --- page 2 ---
-... 1 1 1 ) Ii'tlie   01' ii-~~ci-ebt is O'i4 and [lie ras ].ate is 50'K) [lie cost ol'slioi-1 [ci.iii loan 01. deb1 issued a[ pal- \AJ~II hc-
-I'
-a) 4%
-\> ) ; -7 . -5 0;
-C ) 4.5%
-d) None ot'tlic abovc.
-iv) \YhicIi ol'tlic lOllo\.\:iiig is no1 an assumption undel. Waltei-'s ivlodel on di\~iclencl policy-
-; I ) A l l iilvcstmcnt pc-oposals o l ' l l ~ c   arc to bc Iinnnccld t h ~ - o i ~ g i.c~ailiccl h   cai-nings oiily.
-b) Uusiiiess I-isl.: colliplesion ol'tlie 111.111 I-enlains same.
-cl) No exlei-nal finances arc a\lailable [o tlie li1.111.
-1.0 Conglomei.a~c i\/lci.yci- is o niergcl o l -
-c ) '1'\\,0   01.   rn(1l.e tirnis olm.a(inS ill the salnc industl-1, but ar dil'Yc~.cn[ stages c~t'pi.oduc~ion oi
-disll.ihiition system.
-d) T\+YI 01. mol-c opci-aring iil-rns ill [lie same industl-y and at the same stages ol'p~-oduction 01- disll-ibi~lion
-sysleni.
-I3
-Q.2 A l.td is i~cqliii.ii~g il\\tl~e o ~ i t ~ t i ~ i , d ~ i i ( ~ j u g i t y sliai-zs o f f   l.,td. hy c s c l i a ~ i g i one ~ i ~ slial-c o r i t s o w n eqiiity
->ha[-es lor- cnch shai-c ol'Y I..tcl. 14 1-tcl. has a policy ol'lieel~ing 50 pel. cc11t ol'ils capital sti.ilc\ilre in debt. 7'lie
-c a p i ~ a ~Li-c~clui-e l   ol'both of Lhesc fi1.111~ brl'ol-e tlie merger is Ibl lc~\,\:s.
-(Ks. in lal;li)
-.................   ............   1. . . . . . . . . . . . . . . .   . . . . . . . . . .   I
-! j ___._____--__ l:cliiit!: capital ( o l ' l ? ~ 100 .   c;lcli) _-   2 0   - -
-! I_ , Retained .   ~   c ~ ~ - ~ . - r - n i n g   - .   .   ......
-I 14'li;) ,   I'~.cl'crc~~cc Sl~arcs   5   ...   .
-L I -) .... /O _ D - e b ~   ..   .......   -.   ........   ----   --
+v. Which of the following t
+a. Credit risk
+b. Interest rate risk
+c. Purchasing power risk
+d. Market risk
+vi. A 2 year redeemable bond is arket and held to maiurity, the rate of return
+is called (1 Mark)
+a. Coupon rate
+b. Required rate of return
+c. Yield to maturity
+d. Current yield
+
+Q. 2 M/s A Ltd. has provide following information
+
+i. Net operating income Rs. 40 million
+ii. Interest on debt Rs. 10 million
+ili. Cost of equity 18%
+iv. Cost of debt 12%
+v. Work out
+a. Market value of debt
+b. Market value of equity
+c. Average cost of capital
+vi. Assume further that A Ltd.
+a. Takes additional debt of Rs. 100 million
+b. Uses the additional debt to fin
+
+operating income of Rs, 20 million
+c. There are no taxes
+
+work out following by using Net Operating Income (NOD approach taking into
+account additional details of point (vi
+
+) also
+a. Equity earnings
+b. Market value of debt
+c. Market value of equity
+d. Average cost of capital
+
+ypes of risks is/are not systematic risk? ’ Gd Mark)
+
+purchased from m
+
+ance a project which earns additional
+
+Vii.
+
+Q.3 XYZ itd. is considerin
+
+depreciated @ 33 & 1/3 9
+
+remaining life of 5 years after which, on disposal, it would fetch a value equal to its
+then book value
+
+© revenues by Rs. 2,00,000 per year and reduce operating
+cost (excluding depreciation) by Rs. 1,50,000 per year.
+Compute the incremental post tax cash flows associated with the replacement
+proposal assuming a tax rate of 50%
+
+(10Marks)
+
+dayl
 --- page 3 ---
-I-ii-m be'?   -mine the pcr-cent
-... 111) I-lo\.\~ 111~1cli additional debt can the combinccl firm bol-ro\+ to l-elai~: a capiii~l str-LIC~LII-c, 50 pel- cent of\\Ihich
-is debt? (15 hl;t~-Its)
-1 1   -. .   ..   - - - - _   . _ . .   (Aniount in Rs. .   I_alih) .
-1. Ecluit\/ .- .   slial-es ..;. o f Rs. -. - I00 -- each - -   -   . - . -   ..   - . - .~   .. .   -'. 3 0   . ..
-i lic~alned earnrngs   1 0
-'The co~npany's EBIT is a1 Lhe ate of' I 2 1 x 1 . cent 011 its capital emplo)/ed \,vl~ich is likely to I-emain unchanged
-aftel- expansion. The expansion involves additional finances aggregating Ks.25 la1;li fo~. which the following
-al~e~.na[ives are available to il:
-i ) I ~ S ~ o I f C ?!). 000 eql~ir-J. s!la!-es at ;! p~.enlil.~~i? of Ks. 25 1 x 1 - si1a1.t'.
-ii) Issuc of 10% P~.et'el.ence slial-cs.
-\ .
-I t is estimated that the PIE I-alio in cast: ol'eclllity sI1:u.e~. p1.c lel.ence sliai.es ancl dcbenti11.e~ I?nancirlg c v o ~ ~ be l d
-15, 12 and I 0 rcspccti\;ely. Which ol'tlie financing altel-native \vo~lld you I-ecommencl and \vli!l? 'l'he corporate
-Lax I-ate is 35%. (10 Ma)-l<s)
-PAR'I' H - Answer any two questions out of foul- (All questions 10 marks cach)
-Q.4 " E q ~ ~ i t Slia1.e~ y   lia\le no cost of capital" discc~ss
-Q.6 I;lnhor-atc '-l'oison Pill" defensive sti-atesy encl oflknsive "Pacman St~.atcgy" to avoid a tale over bid
---- page 4 ---
-Q.7 sliol-t notes (Atlcliipt an)   I ~ ) L I I . )
-2) C.r;i\\lli~)g lJeg
-3) Assumptions of Capital AsseL Pricing Model
-~
-5 ) (;lobal I)eposi[o~.y Receipts
+4
+
+Q5
+
+Q.6
+
+PART B-— Answer Any Two questions out of 3 (All questions 10 marks each)
+
+What are the different methods of distributing dividends to the shareholders? Explain the
+methods and differences between them. Also explain difference between bonus and stock
+
+split.
+
+What are the assumptions and limitations of MM approach? How arbitrage method works
+in proposition I of MM approach? Give example also.
+
+Short Notes (Attempt any 2)
+1. Walter’s Model of dividend policy and Gorden’s Growth model of dividend policy _
+
+2. Traditional approach in Capital structure
+3. Lease V/s Ownership and Lease V/s Loan
+
+a KR
+
+ae
 ````
 
-## 2012-13 · Re-Exam · Trim 12 · paper c7a2152c53aa
+## 2013-14 · Re-Exam · Trim 12 · paper c7a2152c53aa
 
 - Departments: Chemical, Computer Engineering, Information Technology, Manufacturing
 - Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MANUFACTURING
@@ -14640,7 +14955,7 @@ i
 oe
 ````
 
-## 2012-13 · Re-Exam · Trim 12 · paper 03a6270a4cfd
+## 2013-14 · Re-Exam · Trim 12 · paper 03a6270a4cfd
 
 - Departments: Chemical, Information Technology
 - Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
@@ -14790,6 +15105,321 @@ Q.6 Short Notes (Attempt any 2 short notes)
 
 —YyY—*
 
+Page 3 of 3
+````
+
+## 2013-14 · Re-Exam · Sem 8 · paper 6890ddaf8ea6
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management 2013-14 Re-exam.pdf`
+- Printed on paper: exam date: 05/07/2014
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL Stream) Year: IV Semester: VII
+
+Academic Year: 2013-14
+
+Batch:2013-2014
+
+O0*ainto T2YO Bo mn
+OS (a Oye?
+
+ee
+Migs uNieRs™ wv
+
+Subject : Financial Management Mar
+
+Date :05/07/2014 Dura
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) All questions of Part-A are compulsory.
+
+2) Attempt any 2 from Part-B
+
+3) All questions carry equal marks.
+
+4) Answer to each new question to be started on a fresh page.
+
+Part-A (All questions are compulsory)
+1.(a) The management of NBC Auto Company is considering to replace an old machine with
+a new one. The new machine will be capable of performing some tasks much faster than the old
+one. The installation of machine will cost Rs.88,475 and will reduce the annual labor cost by
+Rs1,5000. The useful life of the machine will be 10 years with no salvage value. The minimum
+required rate of return is 15%. (5)
+
+Required: Should NBC Auto Company purchase the machine? Use internal rate of return (IRR)
+method for your conclusion.
+
+1.(b) Payment of 9 years annuity of Rs 10,000 will begin 7 years hence. What is the value of
+
+this annuity now if the discount rate is 12%? (5)
+2. The following information belongs to four investment opportunities: (10)
+Project 1 2, 3 4
+
+Funds needed (Rs) (960,000) (720,000) (540,000) (900,000)
+
+Present value of cash inflows 1,134,540 866,800 672,280 1,045,940
+
+Net present value 174,540 146,800 132,280 145,940
+Project life 6 years I2years 6years 3 years
+Internal rate of return (IRR) 16% 14% 18% 19%
+Due to limited funds, all projects cannot be accepted.
+
+Required:
+
+Va.
+--- page 2 ---
+i. Compute profitability index (present value index) for all the projects.
+ii. Rank the four investment projects according to (a) net present value (b) profitability index
+(c) internal rate of return
+
+3. Nomura Fancy Limited has the following capital structure:
+
+(Rs in lakh)
+Equity Capital (10 lakh shares at par value) 100
+12% Preference Capital (10,000 shares at par value) 10
+Retained Earnings 120
+14% Non-Convertible debentures (70,000 debentures at par value) 70
+14% Term Loan 100
+Total 400
+
+The market price per equity share is Rs 25. The next expected dividend per share is Rs 2.00 and
+expected to grow at constant rate of 8%. The preference shares and Non-Convertible debentures
+are currently quoting at Rs 75 and Rs 90 per share and are redeemable after 7 and 6 years
+respectively. Applicable tax rate is 50% for the firm. Calculate the weighted average cost of
+capital. (10)
+
+Part-B (Attempt any two)
+
+4. Describe in detail:- Walter's model, Gordon's Model & Modigliani-Miller Model of Dividend
+
+policy. (10)
+5. What are the determinants of capital structure of a company? Explain in brief. (10)
+6. Write a short note on any two: . (5*2=10)
+
+a) Floatation cost ;
+
+b) Capital Assets Pricing Model
+
+c) Effective vs. Nominal interest rate
+
+- x
+
+2/ a
+````
+
+## 2012-13 · Exam not stated · Trim 12 · paper ad5368bde91a
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/FINANCIAL MANAGEMENT/FINANCIAL MANAGEMENT 2012-13.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 27/4/2013
+- Text: text (4 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management 86
+Programme : MBA (Tech) -ALL STREAMS   Year: IV Trimester:
+Academic Year : 2012-20 13
+Subject:   FINANCIAL MANAGEMENT   Marks:   50
+Time:   11.00am To 1.00pm
+Date:   27/4/2013   Duration:   2   hrs.
+Final - Examination
+INSTRUC'I'IONS: Caildidate s l i o ~ ~ l I-cad d   ca~.cf'ully the instructions 111-intctl 011 the q~~estiori papel- atid on cover i)f
+thc Answer book, which is PI-o~rided f'or their use.
+NOI'E: (1) Total No. ol'cli~estions -7
+(2) Part A 3 questions corupulsor)~, Part B - ans\vcl- 2 out 01'4.
+1   (3) Total cluestions to be ;tns\\le~-etl 5
+(4) \?/ol-liitlg will for-m 1);~'t of anu\"u-
+P A R T A - Con) pulsot-y Questions
+(2.1   (IMark each total 5 Marks)
+i ) Which of the fi,l lowing is nor a l'actor dctel-min ing cost oi'capi[al of lie li1.m-'?
+a) Risl; Free interes~ Irate
+b) Business I-islc
+c) Mismatch I-islc
+d) 1"inancial l-isli
+t   .   .
+ii) ARK technique of C:alli~al Bildget111g 1g11ol.e~-
+c) Cash ge~~cratio~i by tax shields of depl-eciation
+1   d) All the above
+--- page 2 ---
+... 1 1 1 ) Ii'tlie   01' ii-~~ci-ebt is O'i4 and [lie ras ].ate is 50'K) [lie cost ol'slioi-1 [ci.iii loan 01. deb1 issued a[ pal- \AJ~II hc-
+I'
+a) 4%
+\> ) ; -7 . -5 0;
+C ) 4.5%
+d) None ot'tlic abovc.
+iv) \YhicIi ol'tlic lOllo\.\:iiig is no1 an assumption undel. Waltei-'s ivlodel on di\~iclencl policy-
+; I ) A l l iilvcstmcnt pc-oposals o l ' l l ~ c   arc to bc Iinnnccld t h ~ - o i ~ g i.c~ailiccl h   cai-nings oiily.
+b) Uusiiiess I-isl.: colliplesion ol'tlie 111.111 I-enlains same.
+cl) No exlei-nal finances arc a\lailable [o tlie li1.111.
+1.0 Conglomei.a~c i\/lci.yci- is o niergcl o l -
+c ) '1'\\,0   01.   rn(1l.e tirnis olm.a(inS ill the salnc industl-1, but ar dil'Yc~.cn[ stages c~t'pi.oduc~ion oi
+disll.ihiition system.
+d) T\+YI 01. mol-c opci-aring iil-rns ill [lie same industl-y and at the same stages ol'p~-oduction 01- disll-ibi~lion
+sysleni.
+I3
+Q.2 A l.td is i~cqliii.ii~g il\\tl~e o ~ i t ~ t i ~ i , d ~ i i ( ~ j u g i t y sliai-zs o f f   l.,td. hy c s c l i a ~ i g i one ~ i ~ slial-c o r i t s o w n eqiiity
+>ha[-es lor- cnch shai-c ol'Y I..tcl. 14 1-tcl. has a policy ol'lieel~ing 50 pel. cc11t ol'ils capital sti.ilc\ilre in debt. 7'lie
+c a p i ~ a ~Li-c~clui-e l   ol'both of Lhesc fi1.111~ brl'ol-e tlie merger is Ibl lc~\,\:s.
+(Ks. in lal;li)
+.................   ............   1. . . . . . . . . . . . . . . .   . . . . . . . . . .   I
+! j ___._____--__ l:cliiit!: capital ( o l ' l ? ~ 100 .   c;lcli) _-   2 0   - -
+! I_ , Retained .   ~   c ~ ~ - ~ . - r - n i n g   - .   .   ......
+I 14'li;) ,   I'~.cl'crc~~cc Sl~arcs   5   ...   .
+L I -) .... /O _ D - e b ~   ..   .......   -.   ........   ----   --
+--- page 3 ---
+I-ii-m be'?   -mine the pcr-cent
+... 111) I-lo\.\~ 111~1cli additional debt can the combinccl firm bol-ro\+ to l-elai~: a capiii~l str-LIC~LII-c, 50 pel- cent of\\Ihich
+is debt? (15 hl;t~-Its)
+1 1   -. .   ..   - - - - _   . _ . .   (Aniount in Rs. .   I_alih) .
+1. Ecluit\/ .- .   slial-es ..;. o f Rs. -. - I00 -- each - -   -   . - . -   ..   - . - .~   .. .   -'. 3 0   . ..
+i lic~alned earnrngs   1 0
+'The co~npany's EBIT is a1 Lhe ate of' I 2 1 x 1 . cent 011 its capital emplo)/ed \,vl~ich is likely to I-emain unchanged
+aftel- expansion. The expansion involves additional finances aggregating Ks.25 la1;li fo~. which the following
+al~e~.na[ives are available to il:
+i ) I ~ S ~ o I f C ?!). 000 eql~ir-J. s!la!-es at ;! p~.enlil.~~i? of Ks. 25 1 x 1 - si1a1.t'.
+ii) Issuc of 10% P~.et'el.ence slial-cs.
+\ .
+I t is estimated that the PIE I-alio in cast: ol'eclllity sI1:u.e~. p1.c lel.ence sliai.es ancl dcbenti11.e~ I?nancirlg c v o ~ ~ be l d
+15, 12 and I 0 rcspccti\;ely. Which ol'tlie financing altel-native \vo~lld you I-ecommencl and \vli!l? 'l'he corporate
+Lax I-ate is 35%. (10 Ma)-l<s)
+PAR'I' H - Answer any two questions out of foul- (All questions 10 marks cach)
+Q.4 " E q ~ ~ i t Slia1.e~ y   lia\le no cost of capital" discc~ss
+Q.6 I;lnhor-atc '-l'oison Pill" defensive sti-atesy encl oflknsive "Pacman St~.atcgy" to avoid a tale over bid
+--- page 4 ---
+Q.7 sliol-t notes (Atlcliipt an)   I ~ ) L I I . )
+2) C.r;i\\lli~)g lJeg
+3) Assumptions of Capital AsseL Pricing Model
+~
+5 ) (;lobal I)eposi[o~.y Receipts
+````
+
+## 2012-13 · Re-Exam · Trim 12 · paper 12e33fea80ce
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/FINANCIAL MANAGEMENT/FINANCIAL MANAGEMENT BATCH 2011-12 RE EXAM(1).pdf` (+5 identical copies)
+- Printed on paper: duration hours: 2; exam date: 27/04/2013
+- Text: text (3 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Patel School of Technology Management & E
+Programme: MBA (Tech)ALL STREAMS   Year: IV
+Academic Year :2012-2013
+Batch:   2011-2012
+Subject:   FINANCIAL MANAGEMENT
+Time:   11 .OO am To 1 .OO pm
+Date:   27/04/2013   Duration:   2 hrs.
+Re - Examination
+INSTRUCTIONS: Candidate should r&d carefully the instructions printed on
+the question paper and on cover of Answer book, which is provided for their use
+NOTE :   (1)   Total No. of questions - 7
+(2)   Part A 3 questions compulsory, Part B - answer 2 out of 4.
+(3)   Total Questions to be answered 5
+(4)   Working will form part of answer
+PART A - Compulsory Questions
+Q. 1   (1 Mark each total 5 marks)
+i.   Annuity means
+a Stream of constant cash flows occurring at regular intervals for a fixed
+period of time
+6. Stream of constant cash flows occurring at irregular intervals for a
+fixed period of time
+c. Stream of constant cash flows occurring at regular intervals for an
+infinite period
+. .   d. Payment of a loan in single installment
+11.   Under net operating income approach, if the degree of leverage increases
+a. The cost of debt increases
+b. The required return on equity increases
+c. The overall capitalization rate increases
+...   d. The overall capitalization rate decreases
+in.   Under which of the following approaches cost of equity capital is assumed to
+be constant with the changes in leverage?
+a. Net Income Approach
+b. Net Operating Income Approach
+c. Modigliani and Miller approach
+d. All of the above
+iv.   Payback period ignores cash flows
+L   a. Of initial years
+b. Beyond the payback period
+c. After 3 years
+d. Does not ignore any cash flows
+v. IRR does not gwe similar results like NPV when
+a. The project is using own funds
+b. Cash flows are not conventional
+c. The decision is to be taken for an independent project
+d. Both do not give similar results under any situations
+Page 1 of 3
+--- page 2 ---
+XYZ Itd. desires to use equity, preference and debt capital in following
+proportions:
+Equity   0.45
+*, 1, -. .   Preference   0.05
+. - .   Debt   0.50
+Based on the discussions with lenders the company estimates that the cost of
+each of its three sources of finance for various levels of usage is:
+Source of capital   Target proportion   Range of new   Cost
+fmancing (Rs, lakhs)
+Equity   45 %   0 - 10   15%
+10- 30   16.5%
+30 and above   18%
+Preference   5%   0- 1   14.5%
+1 and above   15%
+Debt   50%   0- 15   7.5%
+15- 40   8%
+40 and above   8.4%
+Note: The above mentioned ranges are for the respective source of finance and not for
+total new finance
+Given the target capital structure proportions, the financing ranges for each
+source of finance, the breaking points for each source of finance, and the
+corresponding ranges of total new financing, Calculate the WACC for various
+ranges of total financing and the Weighted average marginal cost of capital
+schedule
+(10Marks)
+1   Q. 3   Cash flows of two projects, under consideration, are as follows:
+(h.1   (b.1
+Year   Cash Flows Project A   Cash Flows Project B
+0   (-) 1,10,000   (-) 1,10,000
+1   3 1,000   71,000
+2   40,000   40,000
+3   50,000   40,000
+4   70,000   20,000
+Cost of capital is 10%
+I   a Decide whch project to be accepted through
+i. Payback period
+ii. Discounted Payback period
+t   iii. NPV method
+iv. IRR method
+b. Discuss also the limitations of all the four methods
+(15Marks)
+Page 2 of 3
+--- page 3 ---
+PART &Answer Any Two questions out of Four (All questions 10 marks each)
+Q. 4 Explain various important aspects about the Dividend policy to be adopted by a
+firm. What is pay-out ratio and its importance in dividend decisions?
+Q.5 Discuss the rational and regulations applicable to share buybacks. What are
+common objections to share buybacks?
+4.6 What is relationship between leverage and cost of capital as per Net Income (NI)
+approach, Net Operating Income (NOI) approach and traditional approach?
+Explain with example.
+Q.7 Short Notes (Attempt any 4 short notes)
+1. Share buyback and its effects
+2. Dividend irrelevance theory
+3. Lease V/s Hire-purchase
+4. Ratio analysis for capital structure decisions
+5. Agency & Financial Distress costs
+6. Net Operating Income Approach of capital structure
 Page 3 of 3
 ````
 
@@ -15098,299 +15728,6 @@ on ee
 Page 3 of 3
 ````
 
-## 2011 · Exam not stated · Trim 12 · paper 93a5b1e28471
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/FINANCIAL MANAGEMENT/FINANCIAL MANGEMENT 2011.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 20/04/2011
-- Text: ocr (3 pages), mean OCR confidence 93.5
-
-````text
-NN
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
-Academic Year : 2010-2011
-
-Subject: Financial Management Marks: 50
-Time: 2.00 pm To 4.00 pm
-Date: 20/04/2011 Duration: 2 hrs.
-
-Final - Examination
-
-INSTRUCTIONS: Candidate should read carefully the instructions printed on
-the question paper and on cover of Answer book, which is provided for their use
-NOTE: (1) ‘Total No. of questions - 7
-
-(2) Part A 3 questions compulsory, Part B - answer 2 out of 4.
-
-(3) Total Questions to be answered 5
-
-(4) Working will form part of answer
-
-PART A — Compulsory Questions
-Q1 (iMark each total 5 Marks)
-i. Annuity means
-a. Stream of constant cash flows occurring at regular intervals for a fixed
-period of time
-b. Stream of constant cash flows occurring at irregular intervals for a
-fixed period of time
-c. Stream of constant cash flows occurring at regular intervals for an
-infinite period
-d. Payment of a loan in single installment
-ii. ABC Ltd. has cost of capital of 15%, cost of debt of 10% and D/E ratio of
-0.176, the cost of equity will be
-a 14.9%
-b. 15.9%
-c. 16.9%
-d. 179%
-ili. | Under which of the following approaches cost of equity capital is assumed to
-be constant with the changes in leverage?
-a. Net Income Approach
-b. Net Operating Income Approach
-~t. “Modigliani and Miller approach
-d. All of the above ;
-iv. To calculate ARR one of the components taken in to account is................
-a Average of total assets for the period
-b. Average of fixed assets for the period
-c. Average of current assets for the period
-d. Average of Gross Profits of the firm
-v. IRR does not give similar results like NPV when
-a. The project is using own funds
-b. Cash flows are not conventional
-c. The decision is to be taken for an independent project
-d. Both do not give similar results under any situations
-
-Page 1 of 3
---- page 2 ---
-A
-
--27—
-
-Q.2 Firm Z has following base data
-
-Number of shares 5,00,000
-Price per share Rs. 20
-
-Market value of shares Rs. - 1,00,00,000
-Operating income Rs. 20,00,000
-
-i. Mr. B CEO of the firm believes that the shareholders of the firm
-will be benefited in case the firm has debt equity ratio of 1:1
-ii. Therefore Mr. B proposes to issue 15% non convertible debenture
-of Rs.50,00,000 and use the proceeds to repurchase.2,50,000 shares
-and reduce the share capital to 50,00,000
-iii. | Mr. B would like to check the results at operating income levels of
-Rs.10,00,000 and Rs.30,00,000 also
-iv. The finance manager of the firm differs from Mr. B and opines that
-a. When share holders have the option to borrow on their
-own account why the firm need borrow |
-b. If investor put his own money of Rs.20, borrows Rs.20
-himself and invests Rs.40 in 2 shares of unlevered firm
-‘7
-c. The returm on his own investment will be same as that of
-what he will get from his investment in 1 share of levered
-firm
-V. calculate the following for all 3 levels of operating income
-a, equity earning of unlevered firm Z
-b. earning per share of unlevered firm Z
-c. return on equity of unlevered firm Z
-d. prepare base data for levered firm Z at operating income
-level of 20,00,000
-e. equity earning of levered firm Z
-f. earning per share of levered firm Z
-g. return on equity of levered firm Z
-h. what are your conclusions with reasons? Do you agree
-with CEO
-i. prepare earning per share and retum on equity for the
-investor, who resorts to personal leverage, for all 3 levels
-of operating income
-j. what are your conclusions with reasons? Do you agree
-with Finance manager
-(15 Marks)
-
-Page 2 of 3
---- page 3 ---
-A
-
-= Ds
-Q.3 XYZ lid. desires to use equity, preference and debt capital in following
-proportions:
-Equity 0.45
-Preference 0.05
-Debt 0.50
-
-Based on the discussions with lenders the company estimates that the cost of
-each of its three sources of finance for various levels of usage is:
-
-Source of capital Target proportion Range of new Cost
-financing (Rs, lakhs)
-
-Equity 45% 0-10 15%
-10-30 16.5%
-30 and above 18%
-
-Preference 5% 0-1 14.5%
-1 and above 15%
-
-Debt 50% QO-15 15%
-15-40 8%
-40 and above 8.4%
-
-Note: The above mentioned ranges are for the respective source of finance and not for
-total new finance
-
-Given the target capital structure proportions, the financing ranges for each
-source of finance, the breaking points for each source of finance, and the
-corresponding ranges of total new financing, Calculate the WACC for various
-ranges of total financing and the Weighted average marginal cost of capital
-schedule
-
-(10Marks)
-
-PART B — Answer Any Two questions out of Four (All questions 10 marks each)
-
-Q. 4 Explain various important aspects about the Dividend policy to be adopted by a
-firm. What is pay-out ratio and its importance in dividend decisions?
-
-Q. 5 What is weighted average cost of capital (WACC) and the Proportions of various
-components of capital. Explain WACC with an example
-
-Q.6 What is relationship between leverage and cost of capital as per Net Income (NI)
-approach, Net Operating Income (NOD approach and traditional approach?
-Explain with example.
-
-Q.7 Short Notes (Attempt any 4 shert notes)
-1. Share buybacks and its effects
-2. Walter’s Model of dividend policy
-3. NPV V/s IRR
-4. Dividend policy and legal provisions
-5. Net Operating Income Approach of capital structure
-6. Signaling theory & Pecking order of financing,
-
-Page 3 of 3
-````
-
-## 2011-12 · Re-Exam · Trim 12 · paper 12e33fea80ce
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/FINANCIAL MANAGEMENT/FINANCIAL MANAGEMENT BATCH 2011-12 RE EXAM(1).pdf` (+5 identical copies)
-- Printed on paper: duration hours: 2; exam date: 27/04/2013
-- Text: text (3 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School of Technology Management & E
-Programme: MBA (Tech)ALL STREAMS   Year: IV
-Academic Year :2012-2013
-Batch:   2011-2012
-Subject:   FINANCIAL MANAGEMENT
-Time:   11 .OO am To 1 .OO pm
-Date:   27/04/2013   Duration:   2 hrs.
-Re - Examination
-INSTRUCTIONS: Candidate should r&d carefully the instructions printed on
-the question paper and on cover of Answer book, which is provided for their use
-NOTE :   (1)   Total No. of questions - 7
-(2)   Part A 3 questions compulsory, Part B - answer 2 out of 4.
-(3)   Total Questions to be answered 5
-(4)   Working will form part of answer
-PART A - Compulsory Questions
-Q. 1   (1 Mark each total 5 marks)
-i.   Annuity means
-a Stream of constant cash flows occurring at regular intervals for a fixed
-period of time
-6. Stream of constant cash flows occurring at irregular intervals for a
-fixed period of time
-c. Stream of constant cash flows occurring at regular intervals for an
-infinite period
-. .   d. Payment of a loan in single installment
-11.   Under net operating income approach, if the degree of leverage increases
-a. The cost of debt increases
-b. The required return on equity increases
-c. The overall capitalization rate increases
-...   d. The overall capitalization rate decreases
-in.   Under which of the following approaches cost of equity capital is assumed to
-be constant with the changes in leverage?
-a. Net Income Approach
-b. Net Operating Income Approach
-c. Modigliani and Miller approach
-d. All of the above
-iv.   Payback period ignores cash flows
-L   a. Of initial years
-b. Beyond the payback period
-c. After 3 years
-d. Does not ignore any cash flows
-v. IRR does not gwe similar results like NPV when
-a. The project is using own funds
-b. Cash flows are not conventional
-c. The decision is to be taken for an independent project
-d. Both do not give similar results under any situations
-Page 1 of 3
---- page 2 ---
-XYZ Itd. desires to use equity, preference and debt capital in following
-proportions:
-Equity   0.45
-*, 1, -. .   Preference   0.05
-. - .   Debt   0.50
-Based on the discussions with lenders the company estimates that the cost of
-each of its three sources of finance for various levels of usage is:
-Source of capital   Target proportion   Range of new   Cost
-fmancing (Rs, lakhs)
-Equity   45 %   0 - 10   15%
-10- 30   16.5%
-30 and above   18%
-Preference   5%   0- 1   14.5%
-1 and above   15%
-Debt   50%   0- 15   7.5%
-15- 40   8%
-40 and above   8.4%
-Note: The above mentioned ranges are for the respective source of finance and not for
-total new finance
-Given the target capital structure proportions, the financing ranges for each
-source of finance, the breaking points for each source of finance, and the
-corresponding ranges of total new financing, Calculate the WACC for various
-ranges of total financing and the Weighted average marginal cost of capital
-schedule
-(10Marks)
-1   Q. 3   Cash flows of two projects, under consideration, are as follows:
-(h.1   (b.1
-Year   Cash Flows Project A   Cash Flows Project B
-0   (-) 1,10,000   (-) 1,10,000
-1   3 1,000   71,000
-2   40,000   40,000
-3   50,000   40,000
-4   70,000   20,000
-Cost of capital is 10%
-I   a Decide whch project to be accepted through
-i. Payback period
-ii. Discounted Payback period
-t   iii. NPV method
-iv. IRR method
-b. Discuss also the limitations of all the four methods
-(15Marks)
-Page 2 of 3
---- page 3 ---
-PART &Answer Any Two questions out of Four (All questions 10 marks each)
-Q. 4 Explain various important aspects about the Dividend policy to be adopted by a
-firm. What is pay-out ratio and its importance in dividend decisions?
-Q.5 Discuss the rational and regulations applicable to share buybacks. What are
-common objections to share buybacks?
-4.6 What is relationship between leverage and cost of capital as per Net Income (NI)
-approach, Net Operating Income (NOI) approach and traditional approach?
-Explain with example.
-Q.7 Short Notes (Attempt any 4 short notes)
-1. Share buyback and its effects
-2. Dividend irrelevance theory
-3. Lease V/s Hire-purchase
-4. Ratio analysis for capital structure decisions
-5. Agency & Financial Distress costs
-6. Net Operating Income Approach of capital structure
-Page 3 of 3
-````
-
 ## 2011-12 · Re-Exam · Trim 12 · paper a0a261b41127
 
 - Departments: Chemical, Information Technology, Manufacturing
@@ -15653,6 +15990,181 @@ x.
 Page 2 of 2
 ````
 
+## 2010-11 · Exam not stated · Trim 12 · paper 93a5b1e28471
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/FINANCIAL MANAGEMENT/FINANCIAL MANGEMENT 2011.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 20/04/2011
+- Text: ocr (3 pages), mean OCR confidence 93.5
+
+````text
+NN
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
+Academic Year : 2010-2011
+
+Subject: Financial Management Marks: 50
+Time: 2.00 pm To 4.00 pm
+Date: 20/04/2011 Duration: 2 hrs.
+
+Final - Examination
+
+INSTRUCTIONS: Candidate should read carefully the instructions printed on
+the question paper and on cover of Answer book, which is provided for their use
+NOTE: (1) ‘Total No. of questions - 7
+
+(2) Part A 3 questions compulsory, Part B - answer 2 out of 4.
+
+(3) Total Questions to be answered 5
+
+(4) Working will form part of answer
+
+PART A — Compulsory Questions
+Q1 (iMark each total 5 Marks)
+i. Annuity means
+a. Stream of constant cash flows occurring at regular intervals for a fixed
+period of time
+b. Stream of constant cash flows occurring at irregular intervals for a
+fixed period of time
+c. Stream of constant cash flows occurring at regular intervals for an
+infinite period
+d. Payment of a loan in single installment
+ii. ABC Ltd. has cost of capital of 15%, cost of debt of 10% and D/E ratio of
+0.176, the cost of equity will be
+a 14.9%
+b. 15.9%
+c. 16.9%
+d. 179%
+ili. | Under which of the following approaches cost of equity capital is assumed to
+be constant with the changes in leverage?
+a. Net Income Approach
+b. Net Operating Income Approach
+~t. “Modigliani and Miller approach
+d. All of the above ;
+iv. To calculate ARR one of the components taken in to account is................
+a Average of total assets for the period
+b. Average of fixed assets for the period
+c. Average of current assets for the period
+d. Average of Gross Profits of the firm
+v. IRR does not give similar results like NPV when
+a. The project is using own funds
+b. Cash flows are not conventional
+c. The decision is to be taken for an independent project
+d. Both do not give similar results under any situations
+
+Page 1 of 3
+--- page 2 ---
+A
+
+-27—
+
+Q.2 Firm Z has following base data
+
+Number of shares 5,00,000
+Price per share Rs. 20
+
+Market value of shares Rs. - 1,00,00,000
+Operating income Rs. 20,00,000
+
+i. Mr. B CEO of the firm believes that the shareholders of the firm
+will be benefited in case the firm has debt equity ratio of 1:1
+ii. Therefore Mr. B proposes to issue 15% non convertible debenture
+of Rs.50,00,000 and use the proceeds to repurchase.2,50,000 shares
+and reduce the share capital to 50,00,000
+iii. | Mr. B would like to check the results at operating income levels of
+Rs.10,00,000 and Rs.30,00,000 also
+iv. The finance manager of the firm differs from Mr. B and opines that
+a. When share holders have the option to borrow on their
+own account why the firm need borrow |
+b. If investor put his own money of Rs.20, borrows Rs.20
+himself and invests Rs.40 in 2 shares of unlevered firm
+‘7
+c. The returm on his own investment will be same as that of
+what he will get from his investment in 1 share of levered
+firm
+V. calculate the following for all 3 levels of operating income
+a, equity earning of unlevered firm Z
+b. earning per share of unlevered firm Z
+c. return on equity of unlevered firm Z
+d. prepare base data for levered firm Z at operating income
+level of 20,00,000
+e. equity earning of levered firm Z
+f. earning per share of levered firm Z
+g. return on equity of levered firm Z
+h. what are your conclusions with reasons? Do you agree
+with CEO
+i. prepare earning per share and retum on equity for the
+investor, who resorts to personal leverage, for all 3 levels
+of operating income
+j. what are your conclusions with reasons? Do you agree
+with Finance manager
+(15 Marks)
+
+Page 2 of 3
+--- page 3 ---
+A
+
+= Ds
+Q.3 XYZ lid. desires to use equity, preference and debt capital in following
+proportions:
+Equity 0.45
+Preference 0.05
+Debt 0.50
+
+Based on the discussions with lenders the company estimates that the cost of
+each of its three sources of finance for various levels of usage is:
+
+Source of capital Target proportion Range of new Cost
+financing (Rs, lakhs)
+
+Equity 45% 0-10 15%
+10-30 16.5%
+30 and above 18%
+
+Preference 5% 0-1 14.5%
+1 and above 15%
+
+Debt 50% QO-15 15%
+15-40 8%
+40 and above 8.4%
+
+Note: The above mentioned ranges are for the respective source of finance and not for
+total new finance
+
+Given the target capital structure proportions, the financing ranges for each
+source of finance, the breaking points for each source of finance, and the
+corresponding ranges of total new financing, Calculate the WACC for various
+ranges of total financing and the Weighted average marginal cost of capital
+schedule
+
+(10Marks)
+
+PART B — Answer Any Two questions out of Four (All questions 10 marks each)
+
+Q. 4 Explain various important aspects about the Dividend policy to be adopted by a
+firm. What is pay-out ratio and its importance in dividend decisions?
+
+Q. 5 What is weighted average cost of capital (WACC) and the Proportions of various
+components of capital. Explain WACC with an example
+
+Q.6 What is relationship between leverage and cost of capital as per Net Income (NI)
+approach, Net Operating Income (NOD approach and traditional approach?
+Explain with example.
+
+Q.7 Short Notes (Attempt any 4 shert notes)
+1. Share buybacks and its effects
+2. Walter’s Model of dividend policy
+3. NPV V/s IRR
+4. Dividend policy and legal provisions
+5. Net Operating Income Approach of capital structure
+6. Signaling theory & Pecking order of financing,
+
+Page 3 of 3
+````
+
 ## 2009-10 · Re-Exam · Trim 11 · paper 25d4c6aea2c7
 
 - Departments: Chemical, Information Technology
@@ -15787,6 +16299,7 @@ oo
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/FINACIAL MANAGEMENT/2008-2009(181).pdf` (+1 identical copies)
 - Printed on paper: duration hours: 2
 - Text: ocr (5 pages), mean OCR confidence 89.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 cL SCHo SN
@@ -15806,7 +16319,6 @@ SUBJECT WFINAMEIAL AMANAGEM ENT
 DATE: 30 Ol 09 ANSWER ANY FIVE QUESTIONS
 TIME ALLOWED 2 HouRS Q-G-0 ~ly OOP)
 
-FREER EEE EEE EE EEE EEE EEEE EEE EEE EEE FEE EE FE EEE E+E HEH Htt te
 
 Qi. X Ltd. is considering a project with the following cash flows:
 
@@ -16008,642 +16520,4 @@ that of Abacus?
 
 see.
 Xx =
-````
-
-## Year not stated · Exam not stated · paper 780c9a13739d
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Financial Management/Financial Management.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 18 / 04 / 2024
-- Text: ocr (3 pages), mean OCR confidence 90.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT.
-
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: MBA Tech Year: [V Semester: VII
-Stream/s ; All Streams
-
-Subject: Financial Management
-Date: 18 / 04 / 2024
-Marks: 50
-
-Time: 2 hours (10.00am to 12.00pm)
-No. of Pages: 03 pages
-
-Final Examination/Re-Examination ( 2022-23)”
-
-Instructions: Candidates should read carefully the instructions printed on the question Paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-questions.
-
--
-Ql Answer briefly: [10]
-4
-i a Star Bank pays 12% and compounds interest quarterly. If Rs 2000 is
-Apply a. deposited initially, how much shall it grow at the end of 5 years ? [2]
-CO-2: $0 XYZ Company is considering investing in a project that requires an
-2 BL ua b initial investment of $100,000 ina machinery. There will be net inflow
-A h "| after tax of $20,000 for the first two years, $10,000 in years three and [3]
-Pply four, and $30,000 in year five. Compute ARR for this investment.
-CO- 1; SO- : F
-3 . 9
-- BL- °. What is a Primary Market? 2]
-Understand
-CO- 1; SO-
-; BL- d. | What are the ways to overcome agency problem? [3]
-Understand
-Q2 i Answer the following: [10] |
-
-Page 1 of 3
---- page 2 ---
-Ms Rupali is interested in fixed annual income. She can earn 8%*rate
-
-of return. How much should Rupali invest for each of the following
-alternatives? Which is a better alternative?
-
-i. Earn Rs 14,000 at the end of
-
-each year for the next 10 years
-ii. Earn Rs 7,000 at the end:of each
-
-year for the next 20 years
-
-Elaborate on Corporate Finance decisions
-
-Understand
-
-Sarita manufacturing company has under conside
-
-production of high quality product.. The necess
-cost Rs. 2,00,000 and would la
-Rs. 20,000. Additional
-
-Q3 product can be sold for R
-
-ration the proposal of
-ary equipment would
-st for 3 years with the salvage value of
-working capital required Rs. 50,000. The
-
-s. 12 per unit, its variable cost per unit is Rs.
-CO-3; SO- 6. Regardless of the level of production, the manufacturer will incur a [10]
-; BL- fixed cost of 75,000 each year if the project is undertaken.
-Analyse The manufacturer estima
-
-tes the demand for the product would 55,000
-57,000 units from 1 to 3 years respectively.
-tax bracket. Assuming 20% cost of capital and
-depreciation. Should the proposed equipment be
-
-units, 56,000 units, and
-Company is in 35%
-straight line method
-purchased?
-
--}———_——______| |
-
-XYZ Ltd., has the following book value capital structure: ,
-
-Rs. in crore
-
-Equity capital
-
-(in shares of Rs 10 each, fully paid up—at ar) 125
-
-12% Preference capital :
-
-(in shares of Rs 100 each, fully paid up—at par) 10
-
-11.5% Debentures
-
-(of Rs 100 each) 25
-Q4 11% Term Loan 20
-CO-2; SO- The next expected dividend on equity shares per share is Rs 6.60; the [10]
-dividend per share is expected to grow at the rate of 8 per cent. The
-
-Pply
-
-market price per share is Rs 75. The Income: tax rate for the
-
-company is 30 per cent. Preference stock, redeemable after ten years,
-is currently selling at Rs. 105 per share. Debentures, redeemable after
-six years, are currently selling-at Rs 102 per debenture.
-
-You are required to compute the wei
-using:
-(a) Book value proportions
-
-(b) Market value proportions
-
-Page 2 of 3
-
-ghted average cost of capital
---- page 3 ---
-i‘
-
-The capital Structure of Weave Ltd consists of Ordinary share capital
-of Rs 50,00,000 (face value per share is Rs 100) and Rs 20,00,000 of
-12% Debenture. Corporate Tax rate is 40%.
-
-Following further information is made available:
-
-Qs Selling Price “Rs 150 per unit
-C0-3: SO- Variable Cost 60% of sales
-. BL-- Fixed Cost Rs 10,00,000 [10]
-‘Ancilyse Units sold 10,00,000
-You are required to:
-a. Prepare Income Statement of Weave Ltd .
-b. Compute Degree of Operating and Financial leverages.
-c. If Swiss Ltd is wanting to take over Weave Ltd, do you
-recommend the takeover considering that Swiss is a low risk taker
-and does not want to undertake any financial risk
-Bruce Limited is planning to consider raising a Capital of Rs.
-25,00,000.
-Different Financing Plans and relevant information is as below:
-. : _ Preference
-Financing Plan Equity (%) Debt (%) (%)
-Oo A 70% 30% :
-a eae B 50% 40% 10% [10]
-Apply ¢ Cost of debt is 7%
-¢ Cost of Preference share is 12%
-e Tax rate 30%
-e Face value of Equity share is Rs. 225 per share and it is issued
-at a premium of Rs.25
-e Expected EBIT 8,00,000
-Suggest which Financial Plan should be chosen by the Bruce Limited
-Q7 Sarasvati Ltd has an investment of Rs. 30 crore divided into 30 lakh
-CO-2: SO- ordinary shares and equity capitalisation rate is 12.5%. Determine the
-. BL optimum dividend pay-out policy of the company and the price of [10]
-Apply share using Walter’s Model if - ;
-Evaluate a. The profitability rate on investment is 20%?
-
-b. Explain Walters theory of Dividend Policy
-
-Page 3 of 3
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper ec85377d3906
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/ 06 /2023
-- Text: ocr (4 pages), mean OCR confidence 93.3
-
-````text
-SVKM’S NMIMS XS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
-Academic Year: 2022-2023
-Program/s: MBA Tech Year: IV Semester: Vill
-Stream/s ; All Streams
-
-Subject: Financial Management Time: 2 hrs (10 am to 12 nosa)
-Date: 26/ 06 /2023 No. of Pages: 04
-Marks: 50
-
-Re- Examination (2o2/- 22/2 022-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-,e-, 2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-il Answer briefly: [10]
-co-2;   |*
-SO-: > In order to have 10 lakhs at the age of 50, assuming 10% annual interest
-BL- rate, how much one should invest at the age of 20 if investment is done at [03]
-the end of each year ?
-Apply
-b. Power Nigam Limited has decided to issue debentures with the face value | [03]
-of Rs 100 with coupon of 13% payable annually. The tenure of the
-© |co-2; debentures is 10 years and it would be redeemed at a premium of 5% to the
-.“. > face value. The floatation cost is placed at 5% of the face value. The firm
-Apply pays 30% tax. What is the after tax cost of debt if the firm is able to market
-its debenture a) at face value b) at a premium of 5% to face value c) at a
-discount of 5% to face value.
-Co- 1; Cs [04]
-SO-;
-BL- Differentiate between Primary Market and Secondary Market
-Understan
-d
-
-Page 1 of 4
---- page 2 ---
-Q2
-
-CO- 2; You have been hired as a financial advisor to Joel Joseph. He has received
-a two offers for playing professional basketball and wants to select the best
-Apply offer, based on considerations of money only. Offer A is $2m a year for 5 (10)
-years. Offer B is offer of $1m a year for four years and $7m in year 5.
-Compare the 2 options by assuming an interest rate, from 8% and 10%.
-What is your advice?
-Sun Life Hospital is considering 2 alternatives:
-i. Purchase a radiography machine which is priced at Rs
-2,00,000, requiring a working capital of Rs 75,000. The
-projected life of the machine is 5 years and has an expected
-salvage value of Rs 50,000 at the end of 5" year. The annual
-operating cost of the machine is Rs 20,000. It is expected to
-@ generate revenues of Rs 1,50,000 per year for 5 years. Tax rate
-ro * is 40%. Cost of capital is 15%.
-BL- ii. Outsourcing the radiography work to its neighboring test center
-ante ya earn a commission of Rs 50,000 p.a net of taxes. [10]
-Analyze whether it would be profitable for the hospital to purchase the an
-
-machine or outsource the radiography work. Give your recommendation
-
-under Net Present Value method
-
-Page 2 of 4
---- page 3 ---
-The following is the capital structure of Paras Ltd. as of 31st March:2023
-
-Particulars Rs.
-Equity shares- 50,000 shares of Rs. 100 each Rs 50,00,000
-11% Preference shares of Rs. 100 each Rs 6,00,000
-13% Debentures . Rs 14,00,000
-Total Rs 70,00,000
-Q4 The market price of the company’s share is Rs. 104, and it is expected that
-CO-2; ; a dividend of Rs.11 per share would be declared after 1 year. The dividend
-SO- ; growth rate is 7%. [10]
-Bie (i) If the company is in the 30% tax bracket, compute the weighted average
-Apply cost of capital
-(ii) Assuming that to finance an expansion plan, the company intends to
-borrow a fund of Rs. 40 lakhs bearing a 15% rate of interest, what will be
-the company’s revised weighted average cost of capital?
-This financing decision is expected to increase the dividend from Rs. 11 to
-Rs. 13 per share. However, the market price of equity shares is expected to
-decline from Rs. 104 to Rs. 101 per share while growth rate is 7%
-Qs Following information are given in respect of Delta Ltd.: [10]
-CO-2; Selling Price Rs. 40 per units
-~| SO-; Variable cost Rs. 30 per unit
-BL: Fixed cost Rs. 1,00,000
-Apply Present capacity of Delta Ltd is 30,000 units
-5% Debentures Rs. 8,00,000
-10% Preference share capital Rs. 4,00,000
-Equity share capital (Rs. 10 per share) Rs. 2,00,000
-
-Tax Rate is 20%
-
-Prepare Income Statement and Calculate Operating Leverage, Financial
-Leverage and Combined Leverage
-
-Page 3 of 4
---- page 4 ---
-Suraj Ltd has equity capital of Rs 2,00,000 divided into shares of Rs 100
-each. Current market price is Rs 200 per share. It wishes to raise Rs
-
-5,00,000 further for expansion.
-
-Q6 The company plans the following financing schemes:
-CO- 2; (a) All common stock.
-ie (b) Rs 3,00,000 in common stock and balance in debt @ 10% p.a.
-Apply (c) All by way of 10% debts [10]
-(d) Rs 3,00,000 in common stock and Rs 2,00,000 in preference capital
-with the rate of dividend at 8%.
-The company’s expected earnings before interest and tax (EBIT) are Rs. 1,
-50,000. The corporate rate of tax is 50%.
-Determine the Earnings per share (EPS) in each plan and recommend the
-best plan.
-Zavi Ltd has a total investments of Rs 5,00,000 in assets and 50,000
-ordinary shares at Rs 10 per share. It earns a rate of 15% on its investments
-and has a policy of retaining 50% of the earnings. If the equity
-Q7 capitalization of the firm is 10%, determine the price of its share using
-So. 4 Gordon’s model. What would be the price of the share if the company has [10]
-BL- a payout of 80%?
-Apply What is the crux of Gordon’s model of Dividend decision?
-
-What are the implications of Gordon’s model?
-
-Page 4 of 4
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper a9a57af26a13
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management_a9a57af26a.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (3 pages), mean OCR confidence 91.2
-
-````text
-mpstTMs |
-SVKM’S NMIMS LIBRA Wy,
-: ‘ S
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING <<
-
-5 UNNESS
-Academic Year: 2022-2023
-
-Program/s: MBA Tech Year: TV Semester: VIII
-Stream/s ; All Streams
-
-Subject: Financial Management Time: 2 hours (10 am to 12 pm)
-Date:__19 / 04 /2023 No. of Pages: 03
-
-Marks: 50
-
-Final Examination | Re- Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-m 2) Out of remaining questions, attempt any__4 _ questions.
-3) Inall__5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-“ Answer briefly: [10]
-
-a.
-CO-2: SO An employee has been offered with following retirement plans. Which one
-=e he should choose if his expected return is 10% p.a. [03]
-’BL- Appl e An annuity of Rs. 13,200 at the end of each year for 20 years
-
-Pply © Rs. 1,00,000 cash right now
-b. | Fashion Retails Limited has its shares quoted in the market for last several | [03]
-tf 6-35-86 years. Its beta is estimated to be 1.75. The yield on T - Bills is 4.5% per annum
-: ; and market return is expected to be 13.5%. Find the cost of equity and expected
-BL- Apply price of share for Fashion Retails Limited if next year dividend is expected to
-be Rs.8 per share and constant growth of 7% per annum.
-aa 1;SO- | c.. | What are agency costs? Suggest the measures to mitigate agency cost. [04]
-BL-
-Understand
-Page 1 of 3
---- page 2 ---
--
-
-Q2 Suppose you want to borrow Rs. 5,00,000 from a bank to purchase a car.
-
-CO- 2; SO- Loan requires to be repaid in 6 equal annual installments. The rate of interest
-
-: . 5 .
-
-BL- Apply offered by the bank is 9.50% per annum. Calculate the loan installment and [10]
-
-prepare loan amortization schedule.
-
-Merito Ltd is considering buying a new equipment which would have a
-
-useful life of 3 years, a cost of Rs 5,00,000 and a scrap value of Rs 50,000
-
-Q3 with 80% of the cost being payable at the start of the project and 20% at the
-
-CO. 3) 50- end of the 1st year. The machine would produce 5,00,000 units p.a of a new
-
-BL- product with an estimated selling price of Rs 3 per unit. Variable costs would
-
-iuatysts be Rs 1.75 per unit and annual fixed costs excluding depreciation would be [10]
-Rs 1,00,000. In the 1% and 2" year , special sales promotion expenditure not
-included in the above costs would be incurred amounting to Rs 10,000 and
-Rs 15,000 respectively. Tax rate is 40%. Calculate NPV of the project for
-investment appraisal, assuming that the company’s cost of is 10%. Is it worth
-investing in the equipment? Justify.
-Citrus Ltd., has the following book value capital structure: (Rs crores)
-
-Q4 Equity capital (in shares of Rs 10 each, fully paid up—at par) 25
-
-CO- 2; $0- 11% Preference capital (in shares of Rs 100 each, fully paid up—at par) 2 [10]
-
-; Retained earnings 40
-
-Bi- Apply 14% Debentures (of Rs 100 each) 10
-12% Term loans 10
-
-The next expected dividend on equity shares per share is Rs 5; the dividend
-per share is expected to grow at the rate of 8 per cent. The market price per
-share is Rs 50. Preference stock, redeemable at par after ten years, is
-currently selling at Rs. 90 per share. Debentures, redeemable at par after five
-years, are selling at Rs 95 per debenture. The Income- tax rate for the
-company is 30 per cent. You are required to calculate the weighted average
-
-cost of capital using book value proportions.
-
-, Page 2 of 3
---- page 3 ---
-~~ -
-
-e
-
-Prepare Income Statement and Calculate Operating Leverage, Financial
-
-Q5 Leverage and Combined Leverage on the basis of the following information:
-CO- 2; SO- Units produced and sold 40,000
-4 Selling price per unit 12 [10]
-BL- Apply Variable cost per unit 4
-Fixed Cost 75,000
-6% Debentures 1,00,000
-9% Preference share capital 1,00,000
-Tax Rate 25%
-A new project under consideration requires a capital outlay of Rs. 450 lakhs.
-C The required funds can be raised either fully by equity shares of Rs. 100 each
-Q6 or by equity shares.of the value of Rs. 300 lakhs and by loan of Rs. 150
-a lakhs @ 15% interest. The required funds can be raised either fully by
-———E equity shares of Rs. 100 each under both the options. Assuming a tax rate of
-BL- Apply =a [10]
-Calculate the figures of profit before interest and tax (EBIT) that would keep
-the equity investors indifferent to the two options. Which option would you
-suggest if the EBIT forecasted is Rs 80,00,000.
-What is the EPS under both the options
-A company has EPS &5. It is capitalised at the rate of 10% and has a rate of
-Cc return on investment of 16%. According to the Walters model, what should
-Q7 be the price per share at 50% dividend payout ratio?
-CO- 2; SO- Is this optimum payout ratio according to Walter? [10]
-BL- Apply According to the optimum Dividend Payout ratio as per Walter’s Model,
-what would be the price of Equity Share?
-Explain Walter’s Theory of relevance related to Dividend decisions
-Page 3 of 3
-````
-
-## Year not stated · Re-Exam · Sem 8 · paper 515cef871da9
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/FINANCIAL MANAGEMENT/Financial Management ,Re-exam 15-16-17-18.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 10 April 2019
-- Text: ocr (3 pages), mean OCR confidence 94.1
-
-````text
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN YGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-Academic Year: 2018-2019
-
-Subject: Financial Management >)
-Marks: 60
-
-Date: 10 April 2019 Time: 2.00 pm to 4.00 pm
-Durations: 2 Hrs
-No. of Pages: _O3
-
-Re-Examination (2015-16/ 2016-17/ 2017-18)
-|
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1. Answer the following:
-
-a. : - (04*3=12 Marks)
-An investor is thinking of investing in a recurring deposit scheme that offers an interest rate of 12% per
-annum. The investment that he is planning is for the higher education of his some who is just two years
-now. In case investor decides to invest 20,000 every year beginning from today, what will be the total
-money available to him when his son reaches the age of 20 years?
-
-b. A new project under consideration by your company requires a capital investment of Rs.150 lakhs.
-Interest on loan is 12% and tax rate is 50 %. If debt equity ratio insisted by the financing agencies is 2:1,
-calculate the point of indifference for the project.
-
-c. A company invests Rs. 13,00,000 in a project which has a life of five years. The net cash inflows are Rs.
-3,00,000, Rs. 4,00,000, Rs. 3,50,000, Rs. 5,00,000 and Rs. 2,50,000 for years 1,2,3,4 and 5 respectively.
-Find out payback period.
-
-Q.2. A company is considering two mutually exclusive proposals, X and Y. Proposal X will require the
-purchase of machine X, for Rs 1,50,000 with no salvage value but an increase in the level of working capital
-to the tune of Rs 50,000 over its life. The project will generate additional sales of Rs 1,30,000 and require
-
-\
-‘.
-
-Page 1 of 3
---- page 2 ---
-cash expenses of Rs 30,000 in each of the 5 years of its life. Proposal Y will require the purchase of
-machine Y for Rs 2,50,000 with no salvage value and additional working capital of Rs 70,000. The project
-is expected to generate additional sales of Rs 2,00,000 with cash expenses aggregating Rs 50,000.
-
-Both the machines are subject to written down value method of depreciation at the rate of 20 per cent.
-Assuming the company does not have any other asset in the block of 20 per cent; has 12 per cent cost of
-
-capital and is subject to 35 per cent tax, advise which machine it should purchase? (12 Marks)
-Q.3. The following data presents the book value capital structure of a particular company: (12 Marks)
-
-Particulars Amount
-
-Debenture (Rs. 100 per 7,00,000
-
-debenture)
-
-Preference Shares (Rs. 100 per 3,00,000
-
-share)
-
-Equity Shares (Rs. 10 per share) 10,00,000
-
-All these securities are traded on capital market and their recent market prices are: Debentures Rs.110 per
-debenture, Preference Share Rs. 120 per share and Equity share Rs.20 per share.
-
-Further details are given below:
-
-Face value of a debenture Rs. 100, redeemable after 8 years, 13% interest rate and 4% flotation cost.
-
-14% Preference shares redeemable after 5 years, flotation cost of 5% and face value is Rs. 100.
-
-Equity share selling price of Rs. 20 per share, the dividend expected on equity share at the end of the year is
-Rs.2 per share. The anticipated growth rate in dividends is 6% and the firm has the practice of paying all its
-earnings in the form of dividends. ,
-
-The corporate tax rate is 35%.
-
-You are required to calculate WACC based on book value weights and market value weights.
-
-Q4. Calculate OL, FL and TL under situations A, B and C and Financial Plans 1,2 and 3 from the following
-data related to ABC co. also find out the combination of OL and FL which gives the highest and Lowest
-value and how these calculations could be used by a finance Manager.
-
-Installed capacity: 1200units
-
-Actual Product and Sales: 800units
-
-Selling price per unit Rs.i5
-
-Variable Cost per unit Rs.10
-
-Fixed Cost: Situation 1: Rs.1,000; Situation 2: Rs.2,000; Situation 3: Rs.3,000
-
-Capital Structure /Financial A B Cc
-Plan:
-
-Equity 5,000 | 7,500 | 2,500
-Debt 5,000 | 2,500 | 7,500
-Cost of Debt 12% | 12% | 12%
-
-Page 2 of 3
---- page 3 ---
-Q5.
-
-a. Two firms A and B are identical in all respects
-3,00,000, while firm B has no debt. Both the firms e
-n rate is 10% and the corporate tax rate is 60%.
-
-xcept the degree of leverage. Firm A has 6% debt of Rs.
-arning an EBT of Rs.1,20,000 each. The equity
-Compute the market value of the two firms.
-
-capitalizatio
-(06 Marks)
-
-w and expects to live for 15 years thereafter. He wishes to have a
-s he will live after retirement. He wants the pension to start one
-8% and expected to remain same, what lump sum amount should
-
-b. Amol wishes to retire 20 years from no
-yearly pension of Rs. 2,00,000 for 15 year:
-
-year after retirement. If the interest rate is
-Amol set aside today to facilitate this? (06 Marks)
-Q6. Following are the details regarding three companies A Itd, B Itd and C ltd: (12 Marks)
-A ltd B ltd C itd
-r= 15% r=5% r=10%
-Ke= 10% Ke= 10% Ke= 10%
-E=Rs. 12 E=Rs. 12 E=Rs. 12
-Calculate the value of an equity share of each of these companies applying Walter’s formula when dividend
-payment ratio (D/P ratio) is: a) 50% b) 75% c) 25% .. :
-
-Q7. Write Short Notes on: (2*6=12 Marks)
-a. Decisions in Financial Management
-
-b. Indian Financial System
-
-Page 3 of 3
 ````

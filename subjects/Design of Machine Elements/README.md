@@ -16,11 +16,11 @@ Also filed as: `DESIGN OF MACHINE ELEMENT`, `DESIGN OF MACHINES ELEMNTS`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam, Re-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Design of Machine Elements(702ME0C014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / MECHANICAL | Design of Machine Elements 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam, Re-Exam | Question paper | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | QP_Design of Machine Elements(702ME0C014)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Design of Machine Elements(702ME0C014)_2025-2026.pdf |
+| 2025-26 | Final-Exam, Re-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Design of Machine Elements(702ME0C014)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | Integrated Mechanical 7031 | QP_Design of Machine Elements(702ME0C014)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Design of Machine Elements(702ME0C014)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / MECHANICAL | Design of Machine Elements Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / MECHANICAL | Design of Machine Elements, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / MECHANICAL | Design of Machine Elements, Sem-V, Final Exam, A Y 2023-24.pdf |

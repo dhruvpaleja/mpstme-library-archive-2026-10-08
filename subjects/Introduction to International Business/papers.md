@@ -790,6 +790,167 @@ volumes. This strategy helps foster the distribution channels they have in place
 Pasze>
 ````
 
+## 2021-22 · Exam not stated · Sem 4 · paper b8499d4fb3db
+
+- Departments: Data Science
+- Programmes: B TECH / CSE DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/INTRODUCTION TO INTERNATIONAL BUSINESS/B Tech, CSE Data Science, Introduction to International Business, 2nd Year, Sem-I_e8cbbeac.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVEM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EX
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE: 2
+
+“4
+
+Academic Year: 2021-22
+
+Programme: B.Tech CSE Data Science Year: II Semester: IV
+
+Subject: Introduction to International Business
+
+Marks: 100
+
+Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+
+No. of Pages: 4
+
+Date: 14\April 2022
+
+Final Examination
+
+i
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Questiok No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures i in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi k
+<P . [20]
+A
+CO - 3; j a. Explain the relationship between Core Competencies and choosing the Entry
+SO-6; Mode in Global Business, Give examples to prove your point.
+BL-
+CO-4; 4) b.
+SO-6: | t: Explain how declining Trade and Investment barriers are drivers of globalization
+BL- 2 ° [Biving examples.
+CO-3; €] c. ? a . ” “ . ” fart
+SO- 6: f Explain the terms “Experience Curve” and “Learning effects” for a multinational
+BL fl firm when it engages in global business giving examples. |
+SO- 6: Explain the term “Strategic alliances” and give the advantages of companies
+oe adopting this strategy giving an example.
+BL- &
+i Discuss any two factors affecting Country Attractiveness for Global Business
+Q2 Ey | giving examples :
+i)a :
+CO-3; | ; ; a ; [20]
+SO-6:   % ‘Explain the meaning of Culture in relation to a country and how it affects doing
+BL- , business in that country. Give examples.
+
+Mh
+--- page 2 ---
+a "] Give the advantages / disadvantages of entering a country to do global business i
+Q3 through Exporting.
+CO-3; b Give the advantages / disadvantages of entering a country to do global busines [20]
+SO- 6; through Joint Ventures / Mergers / Takeovers.
+BL- :
+Read the Case Study and answer the questions given below
+Q4 ; }
+: What political factors explain Indonesia's poor economic performance? ° 56
+SO. ” 5 : What economic factors? Are these two related? F [20]
+BL- |b ia i ly 2000s? What
+Why do you think foreign firms exited Indonesia in the early s? Wha
+are the implications for the country? What is required to reverse this trend?
+Read the Case Study and answer the questions given below ‘
+Q5 a Why is Corruption so endemic in Indonesia? What are its consequences. j
+CO-2; What are the risks facing foreign firms that do business in Indonesia? What is4 [20]
+— #5 b required to reduce these risks? 7 é
+sr ,
+k,
+6 a Discuss the methods for reducing Transaction and Translation exposure in
+Q i relation to foreign exchange.
+CO-7 [20]
+SO- 6-; b Explain with the help of a diagram the determinants of National Competitive i
+BL- Advantage (Porter’s Diamond). i
+
+Case Study (Pertains to Question 1)
+
+Indonesia-Asia's Stumbling Giant
+
+Indonesia is a vast country. Its 220 million people are spread out over some 17 ,000 islands that span an arc
+3,200 miles long from Sumatra in the west to Irian Jaya in the east. It is the world's most populous Muslim
+nation-some 85 percent of the population count themselves as Muslims-but also one of the most ethnically
+diverse. More than 500 languages are spoken in the country, and separatists are active in a nuthber of
+provinces. For 30 years the strong arm of President Suharto held this sprawling nation together. Suharto was
+a virtual dictator who was backed by the military establishment. Under his rule, the Indonesian economy
+grew steadily, but there was a cost. Suharto brutally repressed internal dissent. He was also famous for
+Market Potential Index (MPI) is a yearly study conducted by the Michigan State University Center for
+International Business Education and Research (MSUCIBER) to compare emerging markets on a variety of
+dimensions. Provide a description of the indicators used in the index. Which of the indicators would have
+greater importance for a company that markets laptop computers? Considering the MPI rankings, which
+developing countries would you advise such a company to enter first? "Crony capitalism," using his
+command of the political system to favor the business enterprises of his supporters and family. In the end,
+
+ys
+--- page 3 ---
+Suharto was overtaken by massive debts that Indonesia had accumulated during the 1990s. In 1997, the
+Indonesian'economy went into a tailspin. The International Monetary Fund stepped in with a $43 billion
+rescue package. When it was revealed that much of this money found its way into the personal coffers of
+Suharto and his cronies, people took to the streets in protest and he was forced to resign. After Suharto,
+Indonesia moved rapidly toward a vigorous democracy, culminating in October 2004 with the inauguration
+of Susilo Bambang Yudhoyono, the country's first directly elected president (he was elected to a second
+term in 2009). The economic front has also seen progress. Public debt as a percentage of GDP fell from
+close to 100 percent in 2000 to around 27 percent by 2010. Inflation declined from 12 percent annually in
+2001 to 5 percent in 2010. The economy grew by between 4 and 6 percent per annum during 2001-10, and
+hit a high of 6.9 percent growth in 2010. But Indonesia lags behind its Southeast Asian neighbors. Its
+economic growth trails that of China, Malaysia, and Thailand. Unemployment is still hi gh at about 7 percent
+of the working population. Growth in labor productivity has been sluggish at best. Worse still, significant
+foreign capital has left the country. Sony made headlines by shutting down an audio equipment factory in
+2003, and 4 number of apparel enterprises have left Indonesia for China and Vietnam. Between 2001 and
+2004 the stock of foreign direct investment in Indonesia fell from $24.8 billion to $11.4 billion. It has since
+increased to more than $80 billion, largely as a result of investment in Indonesia's natural resources,
+including mining, oil and gas production, and forestry, but outside of extractive industries, foreign
+investment has remained low. Some observers feel that Indonesian is hobbled by its poor infrastructure.
+Public infrastructure investment has been low for years. The road system is a mess, half of the country's
+population has no access to electricity, the number of brownouts is on the rise as the electri city grid ages,
+and over 90 percent of the population lacks access to modern sewerage facilities. The tsunami that ravaged
+the coast of Sumatra in late 2004 only made matters worse. Mirroring the decline in public investment has
+been a slump in private investment. Investment in the country's all-important oil industry fell from $3.8
+billion in 1996 to just $187 million in 2002, although it has picked up since. Oil production, which peaked
+at |. 7 million barrels a day in the mid-1990s, declined to less than 1 million barrels a day by 2010, even
+though dilfftices were close to record highs. Once a net exporter of oil, Indonesia is now an importer.
+According to a World Bank study, business activity in Indonesia is hurt by excessive red tape. It takes 151
+days on avgtage to complete the paperwork necessary to start a business, compared to 30 days in Malaysia
+and just 8 days in Singapore. Another problem is the endemically high level of corruption. Transparency
+International, which studies corruption around the world, ranks Indonesia among the most corrupt, listing it
+110 out of the 178 countries it tracked in 2010. Government bureaucrats, whose salaries are very low,
+inevitably demand bribes from any company that crosses their path-and Indonesia's penchant for
+bureaucratic red tape means a long line of officials might require bribes. Abdul Rahman Saleh, the former
+attorney general in Indonesia, has stated that the entire legal system, including the police and the
+prosecutors, is mired in corruption. The police have been known to throw the executives of foreign
+enterprises into jail on the flimsiest of pretexts, although some well-placed bribes can secure their release.
+Even though Indonesia has launched an anticorruption drive, critics claim it lacks teeth. The political elite
+are reportedly so corrupt that it is not in their interests to do anything meaningful to fix the system.
+
+; @®
+````
+
 ## 2021-22 · Re-Exam · Sem 4 · paper 75f6ca5a3a71
 
 - Departments: Data Science
@@ -923,165 +1084,4 @@ United States performed in Singapore, where the company reckons that the quality
 the average American hospital.
 
 ’
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper b8499d4fb3db
-
-- Departments: Data Science
-- Programmes: B TECH / CSE DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/INTRODUCTION TO INTERNATIONAL BUSINESS/B Tech, CSE Data Science, Introduction to International Business, 2nd Year, Sem-I_e8cbbeac.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 90.2
-
-````text
-SVEM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EX
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE: 2
-
-“4
-
-Academic Year: 2021-22
-
-Programme: B.Tech CSE Data Science Year: II Semester: IV
-
-Subject: Introduction to International Business
-
-Marks: 100
-
-Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-
-No. of Pages: 4
-
-Date: 14\April 2022
-
-Final Examination
-
-i
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Questiok No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures i in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi k
-<P . [20]
-A
-CO - 3; j a. Explain the relationship between Core Competencies and choosing the Entry
-SO-6; Mode in Global Business, Give examples to prove your point.
-BL-
-CO-4; 4) b.
-SO-6: | t: Explain how declining Trade and Investment barriers are drivers of globalization
-BL- 2 ° [Biving examples.
-CO-3; €] c. ? a . ” “ . ” fart
-SO- 6: f Explain the terms “Experience Curve” and “Learning effects” for a multinational
-BL fl firm when it engages in global business giving examples. |
-CO- 6; d. ye . “a nS aT ¥ . .
-SO- 6: Explain the term “Strategic alliances” and give the advantages of companies
-oe adopting this strategy giving an example.
-BL- &
-i Discuss any two factors affecting Country Attractiveness for Global Business
-Q2 Ey | giving examples :
-i)a :
-CO-3; | ; ; a ; [20]
-SO-6:   % ‘Explain the meaning of Culture in relation to a country and how it affects doing
-BL- , business in that country. Give examples.
-
-Mh
---- page 2 ---
-a "] Give the advantages / disadvantages of entering a country to do global business i
-Q3 through Exporting.
-CO-3; b Give the advantages / disadvantages of entering a country to do global busines [20]
-SO- 6; through Joint Ventures / Mergers / Takeovers.
-BL- :
-Read the Case Study and answer the questions given below
-Q4 ; }
-: What political factors explain Indonesia's poor economic performance? ° 56
-SO. ” 5 : What economic factors? Are these two related? F [20]
-BL- |b ia i ly 2000s? What
-Why do you think foreign firms exited Indonesia in the early s? Wha
-are the implications for the country? What is required to reverse this trend?
-Read the Case Study and answer the questions given below ‘
-Q5 a Why is Corruption so endemic in Indonesia? What are its consequences. j
-CO-2; What are the risks facing foreign firms that do business in Indonesia? What is4 [20]
-— #5 b required to reduce these risks? 7 é
-sr ,
-k,
-6 a Discuss the methods for reducing Transaction and Translation exposure in
-Q i relation to foreign exchange.
-CO-7 [20]
-SO- 6-; b Explain with the help of a diagram the determinants of National Competitive i
-BL- Advantage (Porter’s Diamond). i
-
-Case Study (Pertains to Question 1)
-
-Indonesia-Asia's Stumbling Giant
-
-Indonesia is a vast country. Its 220 million people are spread out over some 17 ,000 islands that span an arc
-3,200 miles long from Sumatra in the west to Irian Jaya in the east. It is the world's most populous Muslim
-nation-some 85 percent of the population count themselves as Muslims-but also one of the most ethnically
-diverse. More than 500 languages are spoken in the country, and separatists are active in a nuthber of
-provinces. For 30 years the strong arm of President Suharto held this sprawling nation together. Suharto was
-a virtual dictator who was backed by the military establishment. Under his rule, the Indonesian economy
-grew steadily, but there was a cost. Suharto brutally repressed internal dissent. He was also famous for
-Market Potential Index (MPI) is a yearly study conducted by the Michigan State University Center for
-International Business Education and Research (MSUCIBER) to compare emerging markets on a variety of
-dimensions. Provide a description of the indicators used in the index. Which of the indicators would have
-greater importance for a company that markets laptop computers? Considering the MPI rankings, which
-developing countries would you advise such a company to enter first? "Crony capitalism," using his
-command of the political system to favor the business enterprises of his supporters and family. In the end,
-
-ys
---- page 3 ---
-Suharto was overtaken by massive debts that Indonesia had accumulated during the 1990s. In 1997, the
-Indonesian'economy went into a tailspin. The International Monetary Fund stepped in with a $43 billion
-rescue package. When it was revealed that much of this money found its way into the personal coffers of
-Suharto and his cronies, people took to the streets in protest and he was forced to resign. After Suharto,
-Indonesia moved rapidly toward a vigorous democracy, culminating in October 2004 with the inauguration
-of Susilo Bambang Yudhoyono, the country's first directly elected president (he was elected to a second
-term in 2009). The economic front has also seen progress. Public debt as a percentage of GDP fell from
-close to 100 percent in 2000 to around 27 percent by 2010. Inflation declined from 12 percent annually in
-2001 to 5 percent in 2010. The economy grew by between 4 and 6 percent per annum during 2001-10, and
-hit a high of 6.9 percent growth in 2010. But Indonesia lags behind its Southeast Asian neighbors. Its
-economic growth trails that of China, Malaysia, and Thailand. Unemployment is still hi gh at about 7 percent
-of the working population. Growth in labor productivity has been sluggish at best. Worse still, significant
-foreign capital has left the country. Sony made headlines by shutting down an audio equipment factory in
-2003, and 4 number of apparel enterprises have left Indonesia for China and Vietnam. Between 2001 and
-2004 the stock of foreign direct investment in Indonesia fell from $24.8 billion to $11.4 billion. It has since
-increased to more than $80 billion, largely as a result of investment in Indonesia's natural resources,
-including mining, oil and gas production, and forestry, but outside of extractive industries, foreign
-investment has remained low. Some observers feel that Indonesian is hobbled by its poor infrastructure.
-Public infrastructure investment has been low for years. The road system is a mess, half of the country's
-population has no access to electricity, the number of brownouts is on the rise as the electri city grid ages,
-and over 90 percent of the population lacks access to modern sewerage facilities. The tsunami that ravaged
-the coast of Sumatra in late 2004 only made matters worse. Mirroring the decline in public investment has
-been a slump in private investment. Investment in the country's all-important oil industry fell from $3.8
-billion in 1996 to just $187 million in 2002, although it has picked up since. Oil production, which peaked
-at |. 7 million barrels a day in the mid-1990s, declined to less than 1 million barrels a day by 2010, even
-though dilfftices were close to record highs. Once a net exporter of oil, Indonesia is now an importer.
-According to a World Bank study, business activity in Indonesia is hurt by excessive red tape. It takes 151
-days on avgtage to complete the paperwork necessary to start a business, compared to 30 days in Malaysia
-and just 8 days in Singapore. Another problem is the endemically high level of corruption. Transparency
-International, which studies corruption around the world, ranks Indonesia among the most corrupt, listing it
-110 out of the 178 countries it tracked in 2010. Government bureaucrats, whose salaries are very low,
-inevitably demand bribes from any company that crosses their path-and Indonesia's penchant for
-bureaucratic red tape means a long line of officials might require bribes. Abdul Rahman Saleh, the former
-attorney general in Indonesia, has stated that the entire legal system, including the police and the
-prosecutors, is mired in corruption. The police have been known to throw the executives of foreign
-enterprises into jail on the flimsiest of pretexts, although some well-placed bribes can secure their release.
-Even though Indonesia has launched an anticorruption drive, critics claim it lacks teeth. The political elite
-are reportedly so corrupt that it is not in their interests to do anything meaningful to fix the system.
-
-; @®
 ````

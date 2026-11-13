@@ -276,6 +276,7 @@ b) Elaborate on integrated materials management
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM V/Material Management/Material Management 2016-17 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 17 February 2017
 - Text: ocr (4 pages), mean OCR confidence 93.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -366,7 +367,6 @@ planned-order release necessary to meet delivery requirements under
 the condition below:
 20-units-for-frames -and-70-units—
 
-eee ee J Sot fu Lot orde tas,
 
 Define codification. What is importance and criteria for effective 07
 

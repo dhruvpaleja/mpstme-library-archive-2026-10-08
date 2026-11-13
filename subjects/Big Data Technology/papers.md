@@ -562,7 +562,7 @@ Write a HIVE query using UDF convert_rain.py to output full record where rainfal
 converted into inches
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper 8ea20b7f95ce
+## 2022-23 · Final-Exam · Sem 3 · paper 8ea20b7f95ce
 
 - Departments: Artificial Intelligence
 - Programmes: M TECH / ARTIFICIAL INTELLIGENCE
@@ -1006,6 +1006,7 @@ converted into inches
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/BIG DATA TECHNOLOGY/Big Data Technology Batch 2021-22 Re Exam0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 June 2022
 - Text: ocr (4 pages), mean OCR confidence 85.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 oat a
@@ -1103,7 +1104,6 @@ And print a graph shown below using Excel/Tableau
 --- page 3 ---
 Top 5 Batsmen with Most Run
 
-4506 ee ones aenattenee teensntnanheti enhnnaac ern tinsintionnnnenstenehtntnietater anita
 4115 4106 —_
 
 4000 : : Rae = 3634
@@ -1321,6 +1321,7 @@ into inches.
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/BIG DATA TECHNOLOGY/Big Data Technology 2018-19 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 April 2019
 - Text: ocr (2 pages), mean OCR confidence 88.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 A <S
@@ -1377,9 +1378,6 @@ Download Traffic data with London as parameter (London.csv) (32981 records).
 Write Pig Latin scripts to do the following:
 
 a) ImportYear CP Estimation_method Estimation_method_detailed | Region LocalAuthority
-Road RoadCategory Easting Northing Startlunction EndJunction — LinkLength_miles
-PedalCycles Motorcycles CarsTaxis BusesCoaches LightGoodsVehicles
-V2AxleRigid HGV V3AxleRigidHGV V4or5AxleRigidHGV V30r4AxleArticHGV
 V5AxleArticHGV V6orMoreAxleArticHGV AIIHGVsAllMotorVehicles
 
 b) Write the data to a file in HDFS

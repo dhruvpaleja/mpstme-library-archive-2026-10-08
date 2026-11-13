@@ -93,6 +93,104 @@ SO:- 3; Amazon.
 BL:- 6;
 ````
 
+## 2022-23 · Exam not stated · Sem 10 · paper efe2e0f5442f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/BEST PRACTICES IN OPERATIONS/Best Practices in Operations.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’S NMIMS a
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech Stream:All Year: V Semester: X
+Subject: Best Practices in Operations Time: 2 hrs @:00pmto 4:0 Opm)
+
+Date:_O4 Auto 23... No. of Pages: 2
+
+Marks: 50
+_Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining 6 questions, attempt any __4 _ questions.
+
+3) Inall__5_ questions are to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [10]
+CO-2: BL- a. Highlight the key characteristic features of ‘just-in-time (JIT)’ scheduling for a [2]
+2 manufacturing firm.
+CO-3: BL- b. Which techniques are employed to automate the detection for smart manufacturing [2]
+7 1 systems/devices/technologies? Just enlist these techniques.
+c. Which lean waste (MUDA) is attributed to the outcome of other two (2) lean wastes [3]
+] _ BL- namely, overproduction and waiting? Summarily state its impact and cite few
+examples of such type of wastes.
+CO-2: BL- d. Discuss in short the inner significance of ‘group technology (GT)’ towards the 13]
+2 process improvements in manufacturing operations.
+Make a distinct comparison between ‘push’ system conforming to make-to-stock
+2 (MTS)/build-to-stock (BTS) manufacturing environment versus ‘pull’ system
+rine Biz complying with make-to-order (MTO)/build-to-order (BTO) manufacturing | [10]
+
+environment with schematic sketches. Analyze the significance of ‘push’ system
+
+versus ‘pull’ system for service operations citing examples of your own.
+
+—_-)}—
+--- page 2 ---
+a. Ten high-intensity bulbs are tested for 100 hours each. One failed at 40°hours;
+
+Q3 another failed at 70 hours; all others completed the test..Compute the FR(%), [4]
+CO-1; BL- FR(N), and MTBF.
+; b. “Lean manufacturing is lean, because it consumes less of everything” Highlight
+
+the crucial interpretations addressing this concern in conformance to ‘EVILs’ or
+
+2: BL- [6]
+0-2; BL “WRONGs’ of the manufacturing systems specified by ‘3 M’s of Lean
+
+, Manufacturing’.
+Q4 a. Weekly usage of a product is 8 units. Since the plant operates 50 weeks per year,
+CO-2; BL- . this leads to annua! usage of 400 units. Setup cost is $40 and annualized carrying
+3 cost is $80. Weekly production of this product is 12 units. Lead time is four weeks, [5]
+and safety stock is one week's production. What is optimal Kanban size? What is
+the optimal number of Kanbans? :
+CO-3: BL- b. Discuss about the basic procedural steps in rank-order cluster (ROC) algorithm [5]
+a employed for the identification of part families.
+Qs a. Discuss how will you apply one of the tools/techniques of ‘lean’ practices, namely,
+CO-2; BL- ‘Ishikawa (fish bone/cause-and-effect) diagram’ for a specific case of determining (6]
+4 the root cause of high inventory level pinpointing the MUDA (waste) of excess
+inventory. Analyze this specific scenario citing a small case example.
+CO-3; BL- b. Enlist the key objectives of ‘Industry 4.0’ deployment. Summarily explain how (4)
+2 industrial internet of things (IloT) will impact the manufacturing operations.
+a. Present a schematic view of ‘total productive maintenance (TPM)’ highlighting its
+not 1. eight (8) pillars. Briefly address the core significance of TPM practices while [4]
+2 handling the equipment maintenance.
+CO-t: er. Give the summarized overview of Goldratt’s second insight into manufacturing
+2 operations linked to differentiating ‘process batch size’ versus ‘transfer batch size’. [6]
+Summarily elaborate the stages of ‘TOC’ scheduling procedure.
+Write short notes on Any Two:
+Q7 a. Basic Structure of OPTIZ Parts Classification and Coding System ee
+ae b. Glass Wall Management for ‘World Class Manufacturing (WCM)’ [5 2]
+
+c. Cyber-Physical Systems (CPS) conforming to Industry 4.0 Technologies
+
+ee
+````
+
 ## 2021-22 · Final-Exam · Sem 10 · paper fffedb2512b9
 
 - Departments: Common (all branches)
@@ -191,6 +289,7 @@ Evaluation operations. Justify. .
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/BEST PRACTICES IN OPERATIONS/Best practices in operations...Final 18-19.pdf`
 - Printed on paper: max marks: 60; duration hours: 2; exam date: 15 April 2019
 - Text: ocr (2 pages), mean OCR confidence 90.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -259,7 +358,6 @@ b. TLS
 c.. Steps in implementing TOC
 d. Machine Work cells
 
-Re ee Ae ee ee 2 A A RR ROR OR KR ROR KK KKK
 ````
 
 ## 2018-19 · Re-Exam · Sem 10 · paper 35a6d780a205
@@ -269,6 +367,7 @@ Re ee Ae ee ee 2 A A RR ROR OR KR ROR KK KKK
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/BEST PRACTICES IN OPERATIONS/Best practices in operations....Re-exam 2018-19.pdf`
 - Printed on paper: max marks: 12; duration hours: 2
 - Text: ocr (2 pages), mean OCR confidence 83.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a
@@ -333,7 +432,6 @@ b. Binary Ordering algorithm
 c. Steps in implementing TOC
 d. Drum-Buffer-Rope
 
-SR OR OR ACR IORI OR CR CR CR CE RA A A A CE OR OO KR OR AR OR ORK EE EK
 
 eK
 ````
@@ -401,102 +499,4 @@ c. Steps in implementing TOC
 d. Drum-Buffer-Rope
 
 Bye Ab 1/4
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper efe2e0f5442f
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/BEST PRACTICES IN OPERATIONS/Best Practices in Operations.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’S NMIMS a
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech Stream:All Year: V Semester: X
-Subject: Best Practices in Operations Time: 2 hrs @:00pmto 4:0 Opm)
-
-Date:_O4 Auto 23... No. of Pages: 2
-
-Marks: 50
-_Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining 6 questions, attempt any __4 _ questions.
-
-3) Inall__5_ questions are to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [10]
-CO-2: BL- a. Highlight the key characteristic features of ‘just-in-time (JIT)’ scheduling for a [2]
-2 manufacturing firm.
-CO-3: BL- b. Which techniques are employed to automate the detection for smart manufacturing [2]
-7 1 systems/devices/technologies? Just enlist these techniques.
-c. Which lean waste (MUDA) is attributed to the outcome of other two (2) lean wastes [3]
-] _ BL- namely, overproduction and waiting? Summarily state its impact and cite few
-examples of such type of wastes.
-CO-2: BL- d. Discuss in short the inner significance of ‘group technology (GT)’ towards the 13]
-2 process improvements in manufacturing operations.
-Make a distinct comparison between ‘push’ system conforming to make-to-stock
-2 (MTS)/build-to-stock (BTS) manufacturing environment versus ‘pull’ system
-rine Biz complying with make-to-order (MTO)/build-to-order (BTO) manufacturing | [10]
-
-environment with schematic sketches. Analyze the significance of ‘push’ system
-
-versus ‘pull’ system for service operations citing examples of your own.
-
-—_-)}—
---- page 2 ---
-a. Ten high-intensity bulbs are tested for 100 hours each. One failed at 40°hours;
-
-Q3 another failed at 70 hours; all others completed the test..Compute the FR(%), [4]
-CO-1; BL- FR(N), and MTBF.
-; b. “Lean manufacturing is lean, because it consumes less of everything” Highlight
-
-the crucial interpretations addressing this concern in conformance to ‘EVILs’ or
-
-2: BL- [6]
-0-2; BL “WRONGs’ of the manufacturing systems specified by ‘3 M’s of Lean
-
-, Manufacturing’.
-Q4 a. Weekly usage of a product is 8 units. Since the plant operates 50 weeks per year,
-CO-2; BL- . this leads to annua! usage of 400 units. Setup cost is $40 and annualized carrying
-3 cost is $80. Weekly production of this product is 12 units. Lead time is four weeks, [5]
-and safety stock is one week's production. What is optimal Kanban size? What is
-the optimal number of Kanbans? :
-CO-3: BL- b. Discuss about the basic procedural steps in rank-order cluster (ROC) algorithm [5]
-a employed for the identification of part families.
-Qs a. Discuss how will you apply one of the tools/techniques of ‘lean’ practices, namely,
-CO-2; BL- ‘Ishikawa (fish bone/cause-and-effect) diagram’ for a specific case of determining (6]
-4 the root cause of high inventory level pinpointing the MUDA (waste) of excess
-inventory. Analyze this specific scenario citing a small case example.
-CO-3; BL- b. Enlist the key objectives of ‘Industry 4.0’ deployment. Summarily explain how (4)
-2 industrial internet of things (IloT) will impact the manufacturing operations.
-a. Present a schematic view of ‘total productive maintenance (TPM)’ highlighting its
-not 1. eight (8) pillars. Briefly address the core significance of TPM practices while [4]
-2 handling the equipment maintenance.
-CO-t: er. Give the summarized overview of Goldratt’s second insight into manufacturing
-2 operations linked to differentiating ‘process batch size’ versus ‘transfer batch size’. [6]
-Summarily elaborate the stages of ‘TOC’ scheduling procedure.
-Write short notes on Any Two:
-Q7 a. Basic Structure of OPTIZ Parts Classification and Coding System ee
-ae b. Glass Wall Management for ‘World Class Manufacturing (WCM)’ [5 2]
-
-c. Cyber-Physical Systems (CPS) conforming to Industry 4.0 Technologies
-
-ee
 ````

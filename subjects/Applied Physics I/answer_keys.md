@@ -538,6 +538,8 @@ Energy: [M1L2T−2]
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 Dec 2024
 - Text: mixed (14 pages), mean OCR confidence 39.5
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -560,7 +562,6 @@ Instructions:
 --- page 2 ---
 ol.
 
-Kinghe& Entry zy Yobentah Cranyy
 Lp) " abi { eran ca wih
 Pnamplen.
 Jr xk —s(un)
@@ -585,12 +586,10 @@ aM :
 --- page 3 ---
 By
 
-\ Lek Hmt pentod Xf osUllaion be 7
 mi od wt qe 3 .
 
 WR m ap many)
 
-Moun oy CR fliy unit eng Hy
 dek T = A mat > 32")
 
 A>
@@ -641,7 +640,6 @@ Fe m-Q= 20 x10= QoON oem
 --- page 5 ---
 oni vei ory
 
-ute mM, UW, +m, = mY, mV, =")
 
 QD,
 WNolumea os [snJ
@@ -679,7 +677,6 @@ explantsion -3Meuc,
 Eneny 4 with examples,
 Powen & wuk Brx3=407,
 
-Aish Vaniown St oxrmd * wala. J
 
 _ Mechoow cok onan)
 — Pac entnay a {\ nJ
@@ -691,7 +688,6 @@ a
 Qh.
 Gz,
 
-Any Sos of cbf eran cg
 bhus Concunsion |
 (onvedion 4
 Radsalion
@@ -718,7 +714,6 @@ Ao 4 Vawumal (oadbuthivyy ae {anJ
 TheymomebriC Subs banc,
 — The mabtualo whose properhen
 
-Uhungs Gori fox wil bemp
 
 om Progen en — funy
 Ghote . eves 4 Gvopeshey
@@ -738,10 +733,8 @@ Fov Brann > an)
 Bly> & AT = 018205 Cry :
 ae 3S
 
-Cov gyead, Abn = abt OrRbem [QM
 
 Ly
-Tolot th a lanky ,AL=ALA4SL, aOR
 \o ona. in ~~ , Seaton Qn)
 --- page 9 ---
 Q6
@@ -808,7 +801,6 @@ aoe aad BRON
 Va = vrlood.
 
 = ai nm
-Miu 7 Mata = mv rm Vy (s J
 
 vy = G6 33:33 m/¢ > (ing
 
@@ -818,7 +810,6 @@ Q}
 
 C. h = Qy ws
 358
-be 2> Subs hhh Dimrans tone
 fo made. = é mn)
 [ve v\ pal rae + \
 Terre t |
@@ -842,6 +833,8 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 Dec 2024
 - Text: mixed (14 pages), mean OCR confidence 39.5
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -864,7 +857,6 @@ Instructions:
 --- page 2 ---
 ol.
 
-Kinghe& Entry zy Yobentah Cranyy
 Lp) " abi { eran ca wih
 Pnamplen.
 Jr xk —s(un)
@@ -889,12 +881,10 @@ aM :
 --- page 3 ---
 By
 
-\ Lek Hmt pentod Xf osUllaion be 7
 mi od wt qe 3 .
 
 WR m ap many)
 
-Moun oy CR fliy unit eng Hy
 dek T = A mat > 32")
 
 A>
@@ -945,7 +935,6 @@ Fe m-Q= 20 x10= QoON oem
 --- page 5 ---
 oni vei ory
 
-ute mM, UW, +m, = mY, mV, =")
 
 QD,
 WNolumea os [snJ
@@ -983,7 +972,6 @@ explantsion -3Meuc,
 Eneny 4 with examples,
 Powen & wuk Brx3=407,
 
-Aish Vaniown St oxrmd * wala. J
 
 _ Mechoow cok onan)
 — Pac entnay a {\ nJ
@@ -995,7 +983,6 @@ a
 Qh.
 Gz,
 
-Any Sos of cbf eran cg
 bhus Concunsion |
 (onvedion 4
 Radsalion
@@ -1022,7 +1009,6 @@ Ao 4 Vawumal (oadbuthivyy ae {anJ
 TheymomebriC Subs banc,
 — The mabtualo whose properhen
 
-Uhungs Gori fox wil bemp
 
 om Progen en — funy
 Ghote . eves 4 Gvopeshey
@@ -1042,10 +1028,8 @@ Fov Brann > an)
 Bly> & AT = 018205 Cry :
 ae 3S
 
-Cov gyead, Abn = abt OrRbem [QM
 
 Ly
-Tolot th a lanky ,AL=ALA4SL, aOR
 \o ona. in ~~ , Seaton Qn)
 --- page 9 ---
 Q6
@@ -1112,7 +1096,6 @@ aoe aad BRON
 Va = vrlood.
 
 = ai nm
-Miu 7 Mata = mv rm Vy (s J
 
 vy = G6 33:33 m/¢ > (ing
 
@@ -1122,7 +1105,6 @@ Q}
 
 C. h = Qy ws
 358
-be 2> Subs hhh Dimrans tone
 fo made. = é mn)
 [ve v\ pal rae + \
 Terre t |
@@ -1146,6 +1128,8 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 Dec 2024
 - Text: mixed (14 pages), mean OCR confidence 39.5
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1168,7 +1152,6 @@ Instructions:
 --- page 2 ---
 ol.
 
-Kinghe& Entry zy Yobentah Cranyy
 Lp) " abi { eran ca wih
 Pnamplen.
 Jr xk —s(un)
@@ -1193,12 +1176,10 @@ aM :
 --- page 3 ---
 By
 
-\ Lek Hmt pentod Xf osUllaion be 7
 mi od wt qe 3 .
 
 WR m ap many)
 
-Moun oy CR fliy unit eng Hy
 dek T = A mat > 32")
 
 A>
@@ -1249,7 +1230,6 @@ Fe m-Q= 20 x10= QoON oem
 --- page 5 ---
 oni vei ory
 
-ute mM, UW, +m, = mY, mV, =")
 
 QD,
 WNolumea os [snJ
@@ -1287,7 +1267,6 @@ explantsion -3Meuc,
 Eneny 4 with examples,
 Powen & wuk Brx3=407,
 
-Aish Vaniown St oxrmd * wala. J
 
 _ Mechoow cok onan)
 — Pac entnay a {\ nJ
@@ -1299,7 +1278,6 @@ a
 Qh.
 Gz,
 
-Any Sos of cbf eran cg
 bhus Concunsion |
 (onvedion 4
 Radsalion
@@ -1326,7 +1304,6 @@ Ao 4 Vawumal (oadbuthivyy ae {anJ
 TheymomebriC Subs banc,
 — The mabtualo whose properhen
 
-Uhungs Gori fox wil bemp
 
 om Progen en — funy
 Ghote . eves 4 Gvopeshey
@@ -1346,10 +1323,8 @@ Fov Brann > an)
 Bly> & AT = 018205 Cry :
 ae 3S
 
-Cov gyead, Abn = abt OrRbem [QM
 
 Ly
-Tolot th a lanky ,AL=ALA4SL, aOR
 \o ona. in ~~ , Seaton Qn)
 --- page 9 ---
 Q6
@@ -1416,7 +1391,6 @@ aoe aad BRON
 Va = vrlood.
 
 = ai nm
-Miu 7 Mata = mv rm Vy (s J
 
 vy = G6 33:33 m/¢ > (ing
 
@@ -1426,7 +1400,6 @@ Q}
 
 C. h = Qy ws
 358
-be 2> Subs hhh Dimrans tone
 fo made. = é mn)
 [ve v\ pal rae + \
 Terre t |
@@ -1450,6 +1423,8 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 Dec 2024
 - Text: mixed (14 pages), mean OCR confidence 39.5
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1472,7 +1447,6 @@ Instructions:
 --- page 2 ---
 ol.
 
-Kinghe& Entry zy Yobentah Cranyy
 Lp) " abi { eran ca wih
 Pnamplen.
 Jr xk —s(un)
@@ -1497,12 +1471,10 @@ aM :
 --- page 3 ---
 By
 
-\ Lek Hmt pentod Xf osUllaion be 7
 mi od wt qe 3 .
 
 WR m ap many)
 
-Moun oy CR fliy unit eng Hy
 dek T = A mat > 32")
 
 A>
@@ -1553,7 +1525,6 @@ Fe m-Q= 20 x10= QoON oem
 --- page 5 ---
 oni vei ory
 
-ute mM, UW, +m, = mY, mV, =")
 
 QD,
 WNolumea os [snJ
@@ -1591,7 +1562,6 @@ explantsion -3Meuc,
 Eneny 4 with examples,
 Powen & wuk Brx3=407,
 
-Aish Vaniown St oxrmd * wala. J
 
 _ Mechoow cok onan)
 — Pac entnay a {\ nJ
@@ -1603,7 +1573,6 @@ a
 Qh.
 Gz,
 
-Any Sos of cbf eran cg
 bhus Concunsion |
 (onvedion 4
 Radsalion
@@ -1630,7 +1599,6 @@ Ao 4 Vawumal (oadbuthivyy ae {anJ
 TheymomebriC Subs banc,
 — The mabtualo whose properhen
 
-Uhungs Gori fox wil bemp
 
 om Progen en — funy
 Ghote . eves 4 Gvopeshey
@@ -1650,10 +1618,8 @@ Fov Brann > an)
 Bly> & AT = 018205 Cry :
 ae 3S
 
-Cov gyead, Abn = abt OrRbem [QM
 
 Ly
-Tolot th a lanky ,AL=ALA4SL, aOR
 \o ona. in ~~ , Seaton Qn)
 --- page 9 ---
 Q6
@@ -1720,7 +1686,6 @@ aoe aad BRON
 Va = vrlood.
 
 = ai nm
-Miu 7 Mata = mv rm Vy (s J
 
 vy = G6 33:33 m/¢ > (ing
 
@@ -1730,7 +1695,6 @@ Q}
 
 C. h = Qy ws
 358
-be 2> Subs hhh Dimrans tone
 fo made. = é mn)
 [ve v\ pal rae + \
 Terre t |
@@ -1754,6 +1718,8 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: mixed (11 pages), mean OCR confidence 39.9
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1783,7 +1749,6 @@ ewe ERS 5 Cing
 Jesy- LO) ss Lind
 Q2z
 Q DVimenstonn 4 physical qty Cn
-Mower Wy vids fundamatel [pang
 Woks musk be nosed in
 
 Dimensionol fquahion —
@@ -1795,7 +1760,6 @@ Mmanoionn of hy Sica ty
 
 Given an [rt "be |
 
-Convenk 10 ink dyn Sen
 Dimannional fovea “Ley —
 
 Aer VN = X Dyn. ee
@@ -1851,7 +1815,6 @@ O3 \.
 Moment) r
 = Vax, Gan Oe RNS)
 Lonjeinedd in h boy |
-Himondional formula - Triality jay
 Ut - kam ls (' m)
 
 Pz my.
@@ -1862,7 +1825,6 @@ Pz my.
 
 — -Produw- of ove teen
 
-4 sto totem o hme oy roe
 oP bs
 
 poe formula - caury- ”
@@ -1882,7 +1844,6 @@ M= SOkKK, UAmls.
 
 En
 
-A. S aie ee OF. 6 [in
 
 finch deputy =N
 
@@ -1893,7 +1854,6 @@ mM,O, = Cmyrmg)V- ;
 ee Mm Uy
 MH LANE -
 
-= eS ee ee oo ee mls. [ard
 
 SOxvdX
 
@@ -1913,7 +1873,6 @@ dushlaLimant= -
 Ws Fos
 wik 2 Nom Ge
 
-Pimansiona Jovrud “Unie vy | {ing
 
 — [io
 
@@ -1924,7 +1883,6 @@ Ly joven on WL books,
 
 “| = Kg - Kj
 
-——   PYop4r ois ial. sand
 anc) onli cahiony . ;
 
 Co Mpa y ent of Lins Loypanpiog
@@ -1978,7 +1936,6 @@ Qs
 ~ Londuuh on
 —   (oavedion | = (in}
 ~   (adsation
-Onglanahon 0} cack wilh pmopur
 Qocamphwn > sm ean
 anx > = {4 nj
 
@@ -2016,7 +1973,6 @@ Work dons = F xX S$
 Angular velod ty > (any
 Linnan voovly (an)
 
-Relwion b) uw engulen X \inanr vel > (6nJ
 
 Noo AS
 ak > [2rd
@@ -2106,6 +2062,8 @@ DR ROR RK 11 FRR HR RK
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: mixed (11 pages), mean OCR confidence 39.9
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2135,7 +2093,6 @@ ewe ERS 5 Cing
 Jesy- LO) ss Lind
 Q2z
 Q DVimenstonn 4 physical qty Cn
-Mower Wy vids fundamatel [pang
 Woks musk be nosed in
 
 Dimensionol fquahion —
@@ -2147,7 +2104,6 @@ Mmanoionn of hy Sica ty
 
 Given an [rt "be |
 
-Convenk 10 ink dyn Sen
 Dimannional fovea “Ley —
 
 Aer VN = X Dyn. ee
@@ -2203,7 +2159,6 @@ O3 \.
 Moment) r
 = Vax, Gan Oe RNS)
 Lonjeinedd in h boy |
-Himondional formula - Triality jay
 Ut - kam ls (' m)
 
 Pz my.
@@ -2214,7 +2169,6 @@ Pz my.
 
 — -Produw- of ove teen
 
-4 sto totem o hme oy roe
 oP bs
 
 poe formula - caury- ”
@@ -2234,7 +2188,6 @@ M= SOkKK, UAmls.
 
 En
 
-A. S aie ee OF. 6 [in
 
 finch deputy =N
 
@@ -2245,7 +2198,6 @@ mM,O, = Cmyrmg)V- ;
 ee Mm Uy
 MH LANE -
 
-= eS ee ee oo ee mls. [ard
 
 SOxvdX
 
@@ -2265,7 +2217,6 @@ dushlaLimant= -
 Ws Fos
 wik 2 Nom Ge
 
-Pimansiona Jovrud “Unie vy | {ing
 
 — [io
 
@@ -2276,7 +2227,6 @@ Ly joven on WL books,
 
 “| = Kg - Kj
 
-——   PYop4r ois ial. sand
 anc) onli cahiony . ;
 
 Co Mpa y ent of Lins Loypanpiog
@@ -2330,7 +2280,6 @@ Qs
 ~ Londuuh on
 —   (oavedion | = (in}
 ~   (adsation
-Onglanahon 0} cack wilh pmopur
 Qocamphwn > sm ean
 anx > = {4 nj
 
@@ -2368,7 +2317,6 @@ Work dons = F xX S$
 Angular velod ty > (any
 Linnan voovly (an)
 
-Relwion b) uw engulen X \inanr vel > (6nJ
 
 Noo AS
 ak > [2rd
@@ -2458,6 +2406,8 @@ DR ROR RK 11 FRR HR RK
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: mixed (11 pages), mean OCR confidence 39.9
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2487,7 +2437,6 @@ ewe ERS 5 Cing
 Jesy- LO) ss Lind
 Q2z
 Q DVimenstonn 4 physical qty Cn
-Mower Wy vids fundamatel [pang
 Woks musk be nosed in
 
 Dimensionol fquahion —
@@ -2499,7 +2448,6 @@ Mmanoionn of hy Sica ty
 
 Given an [rt "be |
 
-Convenk 10 ink dyn Sen
 Dimannional fovea “Ley —
 
 Aer VN = X Dyn. ee
@@ -2555,7 +2503,6 @@ O3 \.
 Moment) r
 = Vax, Gan Oe RNS)
 Lonjeinedd in h boy |
-Himondional formula - Triality jay
 Ut - kam ls (' m)
 
 Pz my.
@@ -2566,7 +2513,6 @@ Pz my.
 
 — -Produw- of ove teen
 
-4 sto totem o hme oy roe
 oP bs
 
 poe formula - caury- ”
@@ -2586,7 +2532,6 @@ M= SOkKK, UAmls.
 
 En
 
-A. S aie ee OF. 6 [in
 
 finch deputy =N
 
@@ -2597,7 +2542,6 @@ mM,O, = Cmyrmg)V- ;
 ee Mm Uy
 MH LANE -
 
-= eS ee ee oo ee mls. [ard
 
 SOxvdX
 
@@ -2617,7 +2561,6 @@ dushlaLimant= -
 Ws Fos
 wik 2 Nom Ge
 
-Pimansiona Jovrud “Unie vy | {ing
 
 — [io
 
@@ -2628,7 +2571,6 @@ Ly joven on WL books,
 
 “| = Kg - Kj
 
-——   PYop4r ois ial. sand
 anc) onli cahiony . ;
 
 Co Mpa y ent of Lins Loypanpiog
@@ -2682,7 +2624,6 @@ Qs
 ~ Londuuh on
 —   (oavedion | = (in}
 ~   (adsation
-Onglanahon 0} cack wilh pmopur
 Qocamphwn > sm ean
 anx > = {4 nj
 
@@ -2720,7 +2661,6 @@ Work dons = F xX S$
 Angular velod ty > (any
 Linnan voovly (an)
 
-Relwion b) uw engulen X \inanr vel > (6nJ
 
 Noo AS
 ak > [2rd

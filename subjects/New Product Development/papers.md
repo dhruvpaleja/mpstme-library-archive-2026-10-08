@@ -311,6 +311,7 @@ b) Why are Agency certifications an integral part of the Development process? (6
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/NEW PRODUCT DEVELOPMENT/New Product Development 2014-15 Final.pdf`
 - Printed on paper: exam date: 11/05/2015
 - Text: ocr (1 page), mean OCR confidence 91.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -374,7 +375,6 @@ differentiation achieved in this approach? (12)
 
 motor part which they are developing.
 
-—_—+ YEAR EOYO _. EOY 1 EOY 2 EOY 3 EOY4 | EOY5
 Cash Flows -14,100* +3700 +2980 +6540 +7810 | +6320
 * initial
 investment
@@ -396,6 +396,7 @@ aft
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/NEW PRODUCT DEVELOPMENT/New Product development 2013-14 Final.pdf`
 - Printed on paper: duration hours: 2; exam date: 09/05/2014
 - Text: ocr (3 pages), mean OCR confidence 90.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -530,7 +531,6 @@ IPR in order to be competitive?(10)
 Q 6. M/S Modern Plastics Ltd. has estimated the following annual data for the
 introduction of a new “automobile brake oil container” which they are developing. (10)
 
-—_—* YEAR ip EOY1 |EOY2 |EOY |-EOY4 EOY
 3 5
 
 Cash Flows: | -14,500 | +3700 +2980 | +6540 | +7810 | +6320
@@ -554,6 +554,7 @@ cr
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/NEW PRODUCT DEVELOPMENT/New Product development 2013-14 Re-exam.pdf`
 - Printed on paper: exam date: 02/07/2014
 - Text: ocr (3 pages), mean OCR confidence 93.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -690,7 +691,6 @@ examples.
 Q 6. Assume that M/S Paramount Inc. has estimated the following annual data for the
 introduction of a new pen drive in the market (10)
 
-YEAR EOY0 |EOY1 |EOY2 |EOY | EOY4| EOY
 3 5
 
 Cash Flows | -14,600 | +3700 | +2980 | +6540 +7810 | +6320
@@ -703,6 +703,1140 @@ b) How would you interpret these values in terms of NPD?
 7 X
 
 3/3
+````
+
+## 2012-13 · Exam not stated · Trim 15 · paper 911aaaa09df7
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/Scan 0017.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 13/4/2013
+- Text: text (11 pages)
+
+````text
+SVKM's NMIMS
+Academic Year : 2012-2013
+Subject:   NEW PRODUCT DEVELOPMENT   Marks:   50
+Time:
+Date:   13/4/2013   Duration:   2   hrs.
+Final - Examination
+QUESTION NO. 1 IS COMPULSORY. ANSWER ANY FOUR OF THE REMAINING FIVE QUESTIONS.
+ALL QUESTIONS CARRY EQUAL MARKS
+WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER. START ANSWER TO EACH
+QUESTION ON A FRESH PAGE
+ANSWER TO THEORY QUESTIONS SHOULD INCLUDE THE THEORY PORTION, FOLLOWED BY
+EXAMPLES FROM THE CASES/PRODUCT PRESENTATIONS COVERED IN THE CLASS, WHEREVER
+APPLICABLE, AND RECENT EXAMPLES FROM INDUSTRY
+1) How do companies use NPD as a competitive weapon in Marketing? What are the learning in
+Product Positioning from the Clean Edge Razor Case?
+2) What are the steps in the refining of the product concept into a new product and business?
+Describe any one step in more detail.
+3) What are the broad items included in a typical Business Plan for a NPD? Describe any one of the
+elements (items) in more detail.
+4) What are the factors in "Designing to Cost" in NPD? Explain the concept of triad of Product
+performance, Cost and Design speed in NPD.
+5) Explain the general financial model for new product development. What is the "fallacy of the
+Hockey Stick" in forecasting for NPD? What are the financial and management implications?
+6) Progressive Engineering Company had spent Rs 12 Crore on a new product development and
+expects to get returns for 3 years from this venture. The company has to decide on one of the
+three locations ( A.P, Gujarat, M.P.) for the launch. Each of these locations is projected to give
+1   different pattern of cash flows as follows:
+-
+Location/Year   First year   Second year   Third year
+A.P.   2   4   12
+Gujarat   10   3   3
+M.P.   4   6   7
+Value given is in Rs Crores
+Progressive Company wishes to decide which location to select for the new product launch
+a) Calculate the NPVvalues for the three locations considering the cost of capital as 10%.
+4   According to you, which location out of the three would you recommend for the NPD launch
+based on the NPV criteria? b) What if NPV criteria were not used in this evaluation and
+instead the actual cash flow figures are taken? Which location would you choose in that
+case?
+--- page 2 ---
+JOHN A. QUELCH
+HEATHER BECKHAM
+Clean Edge Razor:
+Splitting Hairs in Product Positioning
+On August 9, 2010, a group of executives from Paramount Health and Beauty Company   -.
+(Paramount) sat k~ a research room intently observing a dozen men shaving on the other side of a
+two-way mirror. 'The subjects were testing out Paramount's newest nondisposable razor, Cleari Edge,
+and discussing the experience. The verdict was extremely encouraging. The majority of men felt it
+was the closest, cleanest, and smoothest shave they had encountered.
+Clean Edgetsimproved design provided superior performance by &tilizing a vibrating technology .   . .   .
+to stimulate hair follicles and lift the hair from the skin, allowing for a more ,thorough shave.'
+Jackson Randall, product manager for Clean Edge, sat in the darkened observation room cons id;^^   .   '
+the positioning strategy for this new product. He had led the new product development process and
+was now grappling with how to position the product for h e upcoming launch. All executives.at
+Paramount agreed Clean Edge should be priced in the super-premium segment of 'the market.
+However, some executives,believed Clean Edge should be launched. as a mainstream entry within
+that segment, with the broad appeal of being the most effective razor &ailable on the market. others
+I   felt a more differentiated niche strategy, targeting .the most intensely involved super-premium . .
+consumers, would be optimal. Paramount had decided to launch this technologically advanced
+product into the men's market first where the company had the strongest presence, with an
+introduction into the women's market following soon after.
+As Stuart Quimby, director of Paramount's U.S. Grooming Divisich, left the observation room, he
+asked Randall to provide a recommendation to the executive steering committee by the end of the
+week for product positioning, brand name, and marketing budget allocations for the launch. Randall
+felt he understood this new product better than anyone; now he just had to determine the best course   .
+of action for Clean Edge and convince his boss of the merits of'his strategy.
+Paramount would be the first company to provide scientific testing by a third-party lab to back these claims.
+--- page 3 ---
+4249   1 (3lean.Edge Razorr Splitting Hairs in Product Positioning
+The U.S. Razor Market
+Background
+The U.S. Razor market could be broken up into several categories, including nondisposable
+razors, refill cartridges, disposable razors, shaving cream, and depilatories. Clean Edge competed in
+the nondisposable razor and refill cartridge categories.   Nondisposable razors experienced
+approximately 5% growth per year from 2007 to 2010,,with refill cartridges capturing slightly less
+growth of approximately 2% per year over the same time period. Most of the growth in this market
+can be attributed to innovations and new product introductions. Table A provides retail sales for the   ,
+select categories.
+Table A U.S. Shaving and Hair Removal Products: Retail Sales ($ in millions)
+2005   2006   2007   2008   2009   2010
+Nondisposable Razors   $ 178   $ 212   $ 1'88   $ 198   $ 208   $ 218
+Refill Cartridges   .   $ 763   $ 801   $ 802   $   '315   $ 832   . - $ 853
+Disposable Razors   .   $ 440   $ 456   $ 477   $ '490 ; $ 504   $ 522
+Shaving Cream   $ 271   $ 275   $ 269   $ 266   $ 263   $ 260
+Depilatories   $ 104   $ 101 .   $ 106   $ 100   ' $   94   $   88
+Source: "Shaving and Hair emo oval Products - U.S. - May 2008," Figure 5, Mintel International Group
+Note: 2008 figures are mid-year projections; 2009-2010 figures are estimates.
+Market Segments and Consumer Behavior
+Currency, industry experts divided the nondisposable razor and refill cartridge market into three
+segments based on price and quality: value, moderate, and 'super-premium. In the last decade, the
+industry had experienced signihcant growth in the super-premium segment.' Numerous product
+innovations in the super-premium segment (e.g., 5-blade technology, glide strips, lather bar, low
+r e sistance blade coating, etc.) fueled the growth. Table B . provides .   a breakout of industry sales by . -
+s gment.   .   -   .   .-   ,.   .
+.   .
+Table B 2009 ~ondis~osable Razors and
+RefiU Cartridge Retail Sales by Segment
+Volume   Dollar
+Super-Premium   25% .   34%
+Moderate
+Note: hformation is fictional.
+Paramount studies from 2009 showed that consumers purchased razors and replacement
+cartri@es more* frequently than they had in any year previously. Executives felt the replacement --   -
+cycle had been shortened due to consumers trylng out new products as well as advertising and
+sponsored articles that touted the benefits of frequent blade replacement.
+In addition to the traditional price/quality segments that industry experts tracked, Paramount's
+consumer research indicated distinct segmentation in terms of product benefits and consumer
+behavior. Research showed these segments held true for both men and women. Exhibit 1
+summarizes Paramount's findings on these groups.
+--- page 4 ---
+Clean Edge Razor: Splitting Hairs in Product Positioning   1 4249
+The intensity of involvem@nt with the product varied significantly among consumers. There was
+a group of consumers that Paramount labeled as "Maintenance Shavers" who were almost
+completely disinterested in the product category.   Involved users could be broken up into
+"Social/Ernotional" and "Aesthetic" shavers. Both groups were willing to experiment with new
+technology. "Social/Emotional" shavers were motivated by the overall shaving experience, while
+".AestheticJ' shavers were more interested in cosmetic results.
+Trends
+The rate of new-product introductions fir nondisposable razors and refill cartridges hid
+accelerated in recent years, with an unprecedented flurry of 22 new stock-keeping units(SKUs) being
+introduced between 2008 and 2009. Most of these new SKUs were line extensions targeted at the
+super-premium segment and promoted benefits from advances in technology.
+As a result of new-product introductions and in order to stimulate demand, total media :
+advert is^^ expenditures ih this category had be& rising fastej: than retail market sales, and this
+trend was expected to continue. Exhibit 2 provides media expenditures for the major brands, and a
+breakout of advertising/promotion expenditures for Paramount nondisposable razors ,and, refill   -.   ..
+cartridges are given in Exhibit 3.
+In general, distribution outlets responded to the growth in nondisposable SKUs by increasing
+shelf space for the product category. Razors were not purchased frequently enough to be a traffic
+'   builder for the stores, but retail margins associated with the products tended to be considerably
+I   higher than other personal care items (e.g., toothpaste). Distribution was also starting to shift outside
+traditional food and drug stores. In 2000, food stores sold over half of all razors, but by 2009 they
+represented only 42% of sales. Exhibit 4 summarizes the changes in retail channel distribution from
+2007 to 2010E.
+Male-specific grooming products seemed to be a bright spot in the industry. Recent trends
+indicated men's grooming routines moved well beyond a splash of aftershave. New products such as
+1   men's body spray, fragranced shower gel, and skincare lines proliferated in the last several years.
+Male-specific personal care produds outpaced the growth in the women's beauty market as these
+products became more mainstream. With more media attention on men's grooming issues and less
+stigma associated with men's preening, the segment seemed poised for growth.
+Company Overview
+Paramount was a global consumer products giant with $13 billion in worldwide sales and $7
+billion in gross profits for 2009. Paramount's corporate divisions included Health, Cleaning, Beauty
+and Grooming. Paramount entered the nondisposable razor market in 1962 and quickly became a
+respected brand in the industry. Sales from Paramount's nondisposable razors and refill cartridges in
+the U.S. contributed $170 million in revenue, gross profit of $92 million, and operating piofit of $26
+million in 2009.   Paramount currently offered two lines of nondisposable razors and refill
+4 cartridges-the   Paramount Pro which was positioned in the moderate segment of the product
+category, and the Paramount Avail, which was considered a value offering. Neither Pro nor Avail
+had introduced significant technology innovations in the last five years. Together, these two
+products allowed Paramount to capture the unit-volume market-leader position in 2009, with a 23.3%
+retail unit share.2   e
+~ v e r a conhibutioxi ~ e   per unit for Avail and Pro combined was $1.76 fo; razors and $2.80 for cartridges.
+--- page 5 ---
+4249   1 Clean Edge Razor. Splitting Hairs in Product Positioning
+Competition
+Competition for nondisposable razors included dir6ct competitors as well as substitute products.
+Disposable razors provided a "wet" shave alternative, but appealed primarily to the value-oriented
+customers or to customers that wanted a new blade for each shave. Disposables generally competed
+on price and lacked the technology and innovations that were standard in the nondisposable market.
+Electric shavers captured a moderate percentage of the overall market (approximately 27% of men
+used an electric shaver). Although they did not provide as close a shave as "wet" razors, electric
+shavers were easier to maneuver and produced less skin irritation. As a result, electric shavers
+generally appealed to older consumers. Other substitutes included depilatory creams, waxing, and
+laser hair removal.
+In 2010, the nondisposable razor and r e f i cartridge market was dominated by three multinational
+players: Paramount, Prince, and Benet & Klein. hrew entrants, Radiance Health Inc. (Radiance) and
+Simpsons-both established personal-care products companies-had recently intensified competition
+in the space. Other smaller competitors and private-label brands comprised the rest of the market.
+The majority of these other competitors were priced in the valu 2 segment of the market. Exhibit 5
+details each of the main players' market shares. Exhibit 6 provides representative retail prices for
+each major brand by product segment.
+Prince - Prince manufactured and sold personal care products throughout the world. The
+company's principle focus included oral care products, skin care products, shaving products, and
+deodorants/antiperspirants. Prince had been a market leader in nondfsposable razors since the 1950s
+and held the number one position in terms of retail dollar sales in 2009. Prince sold nondisposable
+razors and refill cartridges under the brand names Cogent and Cogent Plus. Both were considered
+super-premium products. Revenues for Prince's nondisposable razors and refill cartridges in 2009
+were approximately $224 million with $45 million in operating profit.
+Benet & Klein (B&K) - B&K was a multinational beauty and health products company that
+manufactured and sold vitamins, cosmetics, shaving products, skin care products, hair care products,
+A d fragrances. B&K entered the nondisposable razor market in 1985 with the Vihc brand. B&K
+unveiled a new product line of nondisposable razors and refill cartridges (Vitric Master) in 2009 that
+provided an advanced lubrication strip, non-slip handle, and superior anti-corrosive technology
+blades.
+New Entrants - On August 1, 2009, Simpsons launched a new nondisposable razor using its
+deodorant brand, Tempest. The Tempest razor touted an advanced pivoting head that allowed for a   I
+smoother shave.. Radiance also planned to. extend its deodorant brand name, Naiv, into   .. . . .
+nondisposable razors. The Naiv r&or offered a pulsing feature that was somewhat similar to Clean
+' Edgers vibrating technology. Executives at Paramount had learned the Naiv razor was due to launch
+natidnally in September 2010. In test markets, Naiv acquired a 13% share. Estimates for 2010 market
+share are provided ih Exhibit 5. Based on ~adi&ie's past la-&es   in new-pioduct 'categories,
+Para 9 ount believed it would come out of the gate strong. Paramount marketing executives
+estiniated Radiance would spend over $16 million for media advertising to support the Naiv launch   ..   -
+in 2010. There were also widespread rumors of significant promotion events that would soon be
+unveiled. Currently, Radiance and Paramount were fierce competitors in several personal care
+product categories.,
+--- page 6 ---
+Clean Edge Razor; SpLitting Hairs in Product Positioning   1 4249
+Clean Edge Razor
+Design and Testing
+In 2007, Paramount's CEO created a special nondisposable-razor project team devoted to
+developing a technological breakthrough and providing Paramount with a standout new product in
+the category. The team was led by Randall and included representatives from R&D, marketing, and
+production. The team evaluated several new designs and determined that a vibrating, ultra-thin five-
+blade design (dubbed Clean Edge) would be the revolutionary product Paramount needed to
+establish themselves as an innovation leader. One AAA battery was housed in the handle of the
+razor which provided vibrations that stimulated hair follicles. In addition, the larger, heavier handle
+allowed for better balance, grip and control while shaving, and the advanced ultra-thin blade design
+reduced irritation. Over an 18-month period, extensive clinical testing and consumer research were
+performed. Clinical trials indicated Clean Edge achieved a 25% increase in hair removal versus other
+leading nondisposable razor brands (e.g., Cog&t and Vitric). Trials also pro-ved benefits to overall
+skin condition with more even skin tone and improved skin texture.
+Randall managed the development and testing process and was now spearheading the product's
+launch. Senior executives already determined that Clean Edge would be-priced somewhere in the
+super-premium segment, and the launch of the men's razor would occur in January 2011, with the
+women's razor to follow soon after. The looming question was how to best position Clean Edge.
+Posifioning   .   . .   .   .   .
+Within the super-premium segment, Randail had the option of recommending Cle% Edge for a
+niche product position focusing on highly involved, fastidious groomers looking for a superior
+shaving experience, or a mainstream position focusing on the broad advantage of offering the closest.   .   . ;
+possible shave. Randall had consulted with marketing and manufacturing teams .to develop initial
+financial forecasts for both options. Exhibit 7 summarizes Randall's assumptions and forecasts.
+\   . .   .   . - -- . . .   -- - . . .- . . . . . . , .   :
+In order to develop a comprehensive pro fonna income statement for eich position&   option,.:,:..-   .
+Randall h e w he would also have to consider the impact of caniibalization.. In a recent division   -   '
+status meeting, Randall had observed a heated exchange on this topic between Paramount's newly   . .
+hired corporate marketing director, William Kim, and Paramount Pro's prod~ct'mana~er, ~ l b e r t
+Rosenberg. Kim had been brought on board to provide a fresh perspective to the nondisposable-
+razor product category. Rosenberg had been a respected manager in the Grooming Division for over
+two decades and had significant political capital in the division.
+.When the question of Clean Edge's product positioning was brqached;Ros@nberg sQid, "I can't   .   .'
+believe we are even considering a mainstream positioning strategy. You will just siphon off
+consumers from Pro. A mainstream strategy will dilute the brand power for our bread-and-butter
+a product, Pro. We will just be -cannibalizing ou~selves: A niche strategy makes more . sense. It will
+complement our existing product portfolio perfectly."   .
+.   .   .   .   .   .
+Kim thought ~ o s e n b e was r ~ too concerned with protecting his turf and not thinking of what was
+best for the overall company. He responded, "Albert, research shows our consumers are becoming
+more sophisticated.and expect more advanced technology. Pro does not provide this. Pro is in the
+mature phase of .the product Hecycle.   It is only a matter of time before we see the decline.
+Positioning Clean Edge as-a mainstream product will help prevent loyal Paramount customers from
+being wooed away to more innovative brands. Clean Edge has the potential for true market .
+domination and needs to be positioned as such."
+--- page 7 ---
+4249 1 Clean Edge Razor: Splitting Hairs in Product Positioning
+Rqdall was unsure of the exact effect of cannibalization, but product launches in other
+Paramount product categories indicated a considerable portion of the volume sales for Clean Edge
+could come at the expense of Paramount Pro and Avail. Randall's team spent a good amount of time
+researching potential cannibalization scenarios. They determined 60% of Clean Edge sales would
+likely come from current Pro/Avail customers in a mainstream positioning scenario and 35% of
+Clean Edge sales would likely come from current Pro/Avail customers in a niche positioning
+scenario.
+Branding Considerations
+Randall had not yet determined the relative emphasis of the "Paramount" and "Clean Edge"
+names on packaging or in advertising. He had informally discussed hYo options with different
+executives. Those executives who felt the design was a major breakthrough in grooming believed the
+product should stand apart from the current lines with a n emphasis on the "Clean Edge" name (e.g.,
+"Clean Edge by Paramount"). In opposition to this Were a handful of executives who thought
+Paramount's name should receive top billing as this was consistent with the overall corporate
+strategy of building the Paramount brand name equity. The name this group preferred was
+"Paramount Clean Edge." Focus groups revealed both concept names were viewed favorably.
+Randall knew his decision would have an impact on how closely consumers associated Clean Edge
+with Pro and Avail and consequently influence the rate of cannibalization.
+Marketing Budget   . .
+Paramount executives had not yet decided how to incorporate Clean Edge into the overall
+nondisposable razor and refill cari~idge marketing budget and if an increase in overall budget was
+necessary. The 2010 budget totaled $48.3 million with $20.2 miILion for advertising and $28.1 million
+for consumer and trade promotions. Randall was aware that the steering committee was looking to
+curb excessive marketing expenses in all product categories. If the budgets were to remain constant
+for 2011, then a reallocation would have to occur. Randall considered the option of allocating the
+qudget based on an expected percentage of sales; but this would not be sufficient for Clean Edge to   -   -
+enter the market in a meaningful way. Clean Edge needed significant marketing dollars to ensure a
+successful launch. However, Rosenberg was already campaigning to protect his allocations.
+Rosenberg had been quite vocal in his stance that Paramount Pro was the backbone of the company's
+razor line and as such needed to sustain current marketing allocations.
+TO capture the volume estimates laid out in Exhibit 7, Randall determined a niche positioning
+strategy would require $15 million in total marketing expenditures for Clean Edge's first year. In
+order to reach full sales potential with the mainstream position, a $42 million marketing budget
+would be needed for year one. -It was clear to,Randall that launching Clean Edge as a mainstream   -
+product would require sigruficantly more marketing support. Mainstream razor unit volumes were
+expected to capture over three times niche volumes in the first year, and reaching the masses would
+require an extensive advertising campaign. In addition, considerable consumer and trade promotion
+eventdwould be needed and many expenses associated with these events would be volume based. In ,.   . ..
+order to induce trial; several consumer promotions were being considered. Cents-off coupons (e.g.,
+$1.00 off purchase) would be an important part of the consumer promotion strategy for either
+positioning strategy. A coupon for a free razor with cartridge purchase had also been proposed.
+Randall estimated thecost of this promotion to be approximately $4 million.and had included it in
+his initial marketing budget assumptions for the mainstream launch located in Exhibit 7. Even
+tho.ugh an increase in the overall product category marketing budget would be highly scrutinized,
+Randall felt this might be the best route.
+--- page 8 ---
+Clean Edge Razor: Splitting Hairs in Product Positioning   1 4249
+Conclusion   . .
+Randall's gut told him Clean Edge had significant mainstream potential in the super-premium
+segment. He felt the vibrating, thin-blade razor would become the new standard in men's shaving
+and would quickly gain mass appeal. However, Randall had to consider the optimal. positioning
+strategy in the context of the entire company. He knew Paramount Pro's product manager,
+Rosenberg, would vehemently oppose a mwtre'am launch, &d he had to consider if launching as a
+niche product for a year or two might be a better move. Randall hoped that an economic analysis
+would help him find the right answer. He planned to build a simpleqrofit-and-loss pro forma that
+took into account the effects of cannibalization on Paramount Pro and Avail. Randall also realized it
+would be important to develop contingency plans to address diffeient scenarios. After this was'
+complete, he could make. a more informed decision about a positioning recommendation and then get
+started on brand name arid budget recommendations.
+--- page 9 ---
+.   . 4249   1 Clean Edge Razor. Splitting Hairs in Product Positioning
+Exhibit.1 Behavior Segmentation of Nondisposable Razor Consumers
+Involved Razor Users   Involved Razor Users   Uninvolved Razor Users
+'   SociallEmotional Shavers   Aesthetic Shavers   Maintenance Shavers
+(39% of Nondisposable Razor ,Users)   (28% of Nondisposable Razor Users)   (33% of Nondisposable Razor Users)
+Differentiate among products.   Search for products that most   View products as ~e same. Lack of
+Search for products based on both   - effectively remove hair.   interest in product category.
+functionality and messaging.
+Shaving as an essential part of a daily   .   Shaving is consistently done to   Shaving routine is inconsistent.
+grooming ritual.   remove unwanted hair:
+Shaving makes them feel more   Shaving is a means to smooth skin   Shaving is a chore they try to finish as
+attractive and confident.   -   '   .   they desire.   .   quickly as possible. --.   . . . - . - . .. . ..... . . . - . . .....
+Note: Information is fictional.
+Exhibit 2 Nondisposable Razor Media Advertising ~xpenditures," 2009-2010E
+2009   .   .   20XOE
+Media ($ in millions)   Media ($ in millions)
+Benet & Klein
+Prince
+Paramount
+Sirnpsons
+Radiance
+I   I
+a Media advertising expenditures does not include trade or consumer promotion ,   .
+.   .   . . . . . . . . .
+Exhibit 3 Advertising and Promotion Expenditures for
+Nondisposable Paramount Razors: 2009-2010E ($ in millions)
+2010E
+$ 19.1   $ 20.2
+Consumer Promotions   $ 11.5   $ 13.1 .
+Trade Promotions   .. $ 13.7
+Total 0   $ 44.3   $ 48.3
+--- page 10 ---
+.   .   Clean Edge Razor: Splitting Hairs in Product Positioning   1 4249
+Exhibit 4 % of Nondisposable Razor Sales by Retail Channel: 2007-2010E
+2007   2008   2009   2010E
+Val(%)   $(%I   Val(%)   $(%I   . Val(%)   $(%I   Vol (%I   $(%)
+Food Stores   45   . 47   44   44   42   42   42   43
+Drug Stores   32   33   31   33   29   33   29   31
+Mass merchandisers   19   17   18   18   21   20   21   21
+Club Stores   1   1   4   3   5   3   5   3
+0 ther   3   2   3   2   3   2   3   2
+Note: Information is fictional.
+.   .   . . . - . - , . . . -
+Exhibit 5 Nondisposable Razor Unit and Dollar Market Share by Brand: 2007-2010E
+2007   2008   2009   2010E
+Brand   Vol (%I   $ (%)   Val(%)   $ (%)   Val(%)   $ (%)   Val(%)   $ (%)
+Paramount
+Paramount Pro   12.0   12.6   13.7   15.2   .   16.9   18.5   17.3   18.5
+Paramount Avail   3.5   A&   -62   6.4   L!A!   4.9- 2 3
+Total   20.5   19.2   21.8   21.4   23.3   23.4   22.2   21.4
+.   .   ....   .   . .
+Prince
+Cogent   24.0   31.7   ,   24.5   32.6   22.1   .29.4   16.1   .   . 21.3 ..   .
+Cogent Plus   0.0   0.0   0.0 0.0   1.0   - 1.3 .   -32'   4.9
+Total   ' 24.0   31.7   24.5   32.6   ' 23.1   30.7   19.8   26.2
+Benet & Klein   .   . .
+Vitric .   18.1   20.5   . 18.2   ,   20.0   17.8   20.0   15.2   -   -   -.-' .15,8
+Vitric Advanced   2.5   2.7   .   1.6   1.9   0.7   '   1.1   -. - 0.2.   - . - .   - 0.1
+Vitric Master   .   Ju -!U. .AX!   A!&   0.7   -02   -44   .   - 2'
+Total   20.6   23.2   19.8   21.9   19.2   22.0   19.4   21.1
+Radiance
+Naiv   .   ,-!a 0.0   0.0   All 2   0.0   2.0   26.
+Total   0.0   0.0   0.0   .   . 0.0   0.0   0.0   . 2.0 ..   . . , . . . 2.6
+Simpsons
+Tempest   - 0.0   0.0 - 0.0   0.0   422   .   .- 1.1   . - 4.6   5.7
+Total   0.0   0.0   0.0   0.0   - 0.9   1.1   '   4.6 '.'.'   5.7
+Other   34.9   25.9   33.9   ' ,   24.1   33.5   22.8   32.0 . ..   -   23.0
+--- page 11 ---
+4249   1 Clean Edge Razor: Splitting Hairs in Product Positioning
+Exhibit 6   Select Nondisposable Razor Brand price^:^ 2009 Suggested Retail Price
+Standard Refill
+Cartridges
+Razor   (Average 4-count)
+Super-premium
+Cogent Plus   $12.50   $10.00
+Cogent   $11.19   $ 8.89
+Naivb   $11.80   $ 9.45
+Vitric Advanced   $11.20   $ 8.99
+Vitric Master   $10.85   $ 8.65
+Tempest   $10.99   $ 8.75
+Moderate   .
+Paramount Pro   $ 9.50   .   $ 7.55
+Vitric   .$ 8.89   $ 7.00
+Value
+Paramount Avail   .   $ 5.75   $ 4.60
+a   able includes only key brands in the market. Prices are representative of most popular
+SKU in the brand category. Prices for other SKUs wiU vary.
+Projected price at launch
+Exhibit 7 Financial Forecasts: Alternative Positioning Scenarios for Clean Edge
+Niche Positioning Mainstream Positioning
+Ppnned capawty Razor urut volume (rmllions of units)   Year 1   1 0   33
+Year 2   1.5   4 0
+Planned capacity Cartridgea unit volume (millions of units)   Year 1   4 0   -   9.9
+Year 2   10.0   21.9
+Capacity costs ($ in millions)   Year 1   $ 0.61   $ 1.71
+Year 2   $ 0.87   $ 2.45
+Razor: Production per unit cost
+Razor: Manufacturer price
+Razor: Suggested price
+Cartridge:a Average Production unit cost
+Cartridge:a Average Manufacturer price
+- Cartr.idge:a Average Suggested price
+t
+Advertising ($ in millions)   Year 1   $   7
+Year 2   $   7
+Consumer promotions ($ in.millions)   Year 1   $   6
+Year 2   $   6
+Trade promotions ($ in millions)   Year 1   $   2   $ '   6
+Year 2   $   3   .   $   8
+a Carhidge unit assumes average 4xount refill package.   -
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper cf6472f4035d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/NEW PRODUCT DEVELOPMENT 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30/03/2012
+- Text: ocr (18 pages), mean OCR confidence 92.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+~~ SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
+j Academic Year : 2011-2012
+
+* Subject: NEW PRODUCT DEVELOPMENT Marks: 50
+. o
+Time: 10.30 am To 30 pm
+Date: 30/03/2012 Duration: 2 hrs. %
+
+Final - Examination
+
+@ QUESTION NO 7 IS COMPULSORY. ANSWER ANY FOUR OF THE REMAINING SIX QUESTIONS. ALL
+QUESTIONS CARRY EQUAL MARKS
+
+e - WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER. START ANSWER TO EACH
+QUESTION ON A FRESH PAGE
+
+e -ANSWER TO ALL QUESTIONS SHOULD INCLUDE THE THEORY PORTION, FOLLOWED BY
+EXAMPLES FROM THE CASES COVERED IN THE CLASS, WHEREVER APPLICABLE, AND RECENT
+EXAMPLES FROM INDUSTRY
+
+1) What are the criteria while deciding the strategy for NPD? How would you evaluate these new
+product prospects?
+2) What are the various Competitive Games in seizing the market opportunity in NPD?
+3) What is the role of “Mass Customization” in NPD? What are the Strengths & Weaknesses of
+Mass Customization strategy?
+4) What are the implications of “life Cycle & Market Cycle” aspects of NPD on Profits?
+a 5) What is the concept of “Designing to Cost” in NPD? How does it defer from the traditional
+costing practice?
+6) What are the salient features of “Design for Manufacturing” in NPD? Explain in detail the three
+most important of these features
+7) With reference to the case of Open Innovation - “Proctor & Gamble” (ENCLOSED), answer the
+following questions:
+a) What is the historical background of P&G? When P&G ‘s products were always in the top
+} bracket of competition, what was the urgency of a strategic rethinking? How were the
+, ’ performances year wise and in what way did these indicators forced the top management in
+‘ formulating a new technology and business strategy for the company?
+
+b) Explain, in detail, the Vision of AG Lafely. Explain the model as postulated by Lafely for P&G.
+
+Cite company’s product as examples in each case.
+
+Vig
+--- page 2 ---
+OPEN INNOVATION: THE CASE OF P&G
+
+By Taranjeet Chawla, IBS Research Centre, Kolkata
+
+‘We want P&G to be known as the company that collaborates — inside and out — better
+than any other company in the world.”
+-A G Lafley, president and CEO, P&G
+
+“P&G has a history of acquiring technologies from outside our Company. What is
+particularly new in our Connect + Develop approach to external relationships is our
+strong focus on ready-to-go innovations.”
+
+-Gil Cloyd, CTO, P&G
+
+“Today, P&G is the model of open innovation implemented effectively, and their financial
+results demonstrate the power of the approach.”
+-Michael Docherty, CEO of Venture2 Inc."
+
+INTRODUCTION
+
+- By 2000, Procter & Gamble (P&G), one of the world’s largest consumer products
+companies, was under immense pressure. For decades, the company was known for its
+innovation. The consistent growth of the company was largely driven by innovation from
+within the organization, relying heavily on in-house R&D. For a long time, this centralized
+innovation model worked well for P&G. However, by 2000, it realized that an internally
+focused model of innovatiori was not sustainable as the success rate of new products
+(developed independently by the R&D department) was around 35%. Besides, the R&D
+expenses were escalating faster, increasing by $500 million between 1996 and 2000 to
+reach $1,899 million. By mid 2000, the company’s share prices fell by more than 50%.
+
+Worried by the situation, the company's newly appointed CEO, Alan G Lafley (Lafley),
+decided to reinvent P&G’s innovation model. He felt that outside connections could
+discover new ideas from around the world which could quickly be turned into innovative
+products by using the company’s own R&D, manufacturing and marketing skills. Thus,
+
+le ‘began to focus on external collaborations to bring in innovative ideas and then
+applied internal capabilities to develop new products. This model was termed as
+‘connect and develop’ (C&D) innovation model. He believed that the new model would
+
+enable the company slash its R&D costs and increase the success rate of new
+
+' Michael Docherty is the CEO of Venture2 Inc., a consulting and new ventures management company
+focused on launching breakthrough innovation in the consumer products industry.
+
+*"e
+--- page 3 ---
+innovations. He set a goal to create 50% of the innovations outside the company’s R&D
+labs. The new innovation model proved to be fruitful for P&G and it introduced several
+successful products using the model. Experts opined that companies which would not
+
+adopt this model would find it difficult to survive.
+
+P&G: AT A GLANCE
+
+P&G was established on October 31°, 1837 when William Procter, a candle-maker, and
+James Gamble, a soap-maker, formed business partnership in Cincinnati, Ohio (US).
+Initially, the company concentrated on manufacturing and marketing of both, soaps and
+candles, reaching $1 million in sales by 1859. Later, it began to focus more on soap and
+had a range of more than 30 different types of soap by the 1890s. In the early 19”
+century, the company’ began to diversify its products and introduced Crisco”, a
+shortening made from vegetable oils rather than animal fat, in 1911. In the wake of
+growing popularity of electric bulbs, it stopped manufacturing candles in 1920. During
+this time, the company started hiring researchers for conducting research in various
+fields (especially chemical) and developing new products. The research efforts of the
+company led to the introduction of Dreft, the first synthetic detergent powder, in 1933
+and Drene, the first detergent-based shampoo, in 1934. Drene also marked P&G's entry
+into the hair care business. Later, in 1946, it launched Tide, laundry detergent, and Prell,
+a shampoo brand. In 1952, the company opened Miami Valley Laboratories (MVL) in
+Cincinnati, which was its first facility solely dedicated to research.
+In 1955, the company launched Crest, the first toothpaste to use fluoride as an
+ingredient. Crest was approved by the American Dental Association (ADA) as an
+‘effective decay-preventive dentifrice that can be of significant value’*®. Over a period of
+time, the crest brand was associated with about 20 different products (such as
+toothbrushes, toothpaste, mouthwash, dental floss and tooth-whitening products). In
+1960, P&G launched liquid Downy, its first fabric softener, and a year later, it test
+‘ prt Pampers, a brand of disposable diapers. Pampers was the result of the
+
+télentless R&D efforts put in by the researchers of the company to design a diaper that
+
+? Crisco was the first all-vegetable shortening. Crisco provided a healthier alternative to cooking with animal
+fats and was more economical than butter.
+‘Crest toothpaste’, http://en.wikipedia.org/wiki/Crest_toothpaste
+
+33
+--- page 4 ---
+was absorbent, disposable and prevented leaks. Prior to the launch of Pampers
+disposable diapers were not popular. However, Pampers was an instant hit with
+customers and replaced cloth diapers. Launched in 1972, Bouhce, fabric softener
+sheets, was another example of innovative product, which was used to soften clothes in
+
+the dryer.
+
+In 1983, P&G introduced Always/Whisper, a feminine protection product which, by 1985,
+became one of the world’s leading brands in its category. It launched Pert Plus/Rejoice
+shampoo in 1986 which enabled consumers to wash and condition their hair using just
+one product: Apart from innoavtive products, P&G innovated its packaging also. In
+Germany, it introduced refill packs for liquid products, such as Lenor fabric softener. it
+was viewed as a major step towards solid waste prevention and. was named ‘the
+invention of the year’ by German grocers. In 1990, it won the ‘International DuPont
+Packaging Award’ for its Spic and Span Pine*, a house-hold cleanser, which was
+packaged in 100% recycled plastic. P&G was also awarded the ‘National Medal of
+Technology’* for creating, developing and applying advanced technologies to consumer
+_ products.
+
+In 1996, P&G developed a new product, Olestra, which was a calorie-free substitue for
+fat in cooking potato chips and other snacks. Olestra, marketed under the brand name of
+Olean, got the approval of the FDA® to be used in salty snack and crackers. In 2000, the
+company received FDA's approval for its new product, Actonel (risedronate sodium
+tablets) for the treatment of postmenopausal osteoporosis (PMO) “and glucocorticoid-
+
+induced osteoporosis (GIO).
+
+At the end of 2000, P&G had a global network of 18 technical centers in 9 countries
+spread across 4 continents. It had more than 8,000 scientists and researchers working in
+its Jabs on new product development. By the end of financial year 2000, ten of P&G's
+
+brands generated over.a billion dollar each in sales annually. These included Pampers,
+yl
+& 50 January 2001, P&G sold Spic and Span to Shansby Group, a San Francisco investment firm.
+
+5 The National Medal of Technology is an honor granted by the President of the United States to inventors
+and innovators (a person, a group of people or an organization) that have made significant contributions to
+the development of new and important technology. It is the highest honor in the US for achievements related
+to technological progress.
+
+® The Food and Drug Administration is an agency of the United States Department of Health and Human
+Services and is responsible for regulating food, dietary supplements, drugs, cosmetics, etc. in the US.
+
+4/12
+--- page 5 ---
+Tide, Ariel, Pantene, Bounty, Charmin, Always, Folgers, Downy and Pringles. The
+company ended the year with sales worth $40 billion up 5% from 1999. However, net
+earnings were down 6% to $3.5 billion from $3.7 billion in the previous year [Exhibit 7].
+
+FROM R&D TO C&D: A NEW APPROACH TO INNOVATION
+
+’We're probably as good as the next guy at inventing. But we are not absolutely and
+positively better than everybody else at inventing. There are a lot of good inventors out
+there.”
+
+-AG Lafley, CEO, P&G
+
+In 2000, P&G invested almost $1.9 billion or 4.75% of sales in R&D [Exhibit 2] for
+developing new products. This brought the company to the list of 20 largest R&D
+investors which included Pfizer, General Electric, Sony, Merck, Hewlett-Packard, etc.
+However, the success rate of its new products was around 35%. Triggered by virtually
+flat sales and a fall in earnings, the net earnings margin dropped to 8.9% from 9.9% in
+1999. As a result, P&G's share price slid from $118 to $52 a share.
+
+In 2001, the company’s earnings further declined to $2.6 billion and the margin shrank to
+6.7%. Amidst the difficult times, CEO Lafley, who took over after Durk |. Jager (Durk)
+resigned in June 2000, faced the challenge of reorganizing the company’s innovation
+model. While his predecessor Durk tried to invent more new products internally by
+) revamping the R&D department, Lafley had a different vision [Exhibit 3]. He wanted
+around half of the innovation ideas to come from outside. He expressed, “My hypothesis
+is that innovation and discovery are likely to come from anywhere. What P&G is really
+good at is developing innovations and commercializing them. So what | said is, ‘We
+
+”
+
+need an open marketplace.
+
+Traditionally, most of P&G’s innovations were created in its own R&D labs by connecting
+ideas/internally within the organization. However, observing a few products, which had
+used, pre ideas taken from outside, proved that external collaborations too could
+produce highly successful innovations. With this concept in mind, Lafley created C&D
+innovations model [Exhibit 4]. The basic principle of the model was that promising ideas
+were available throughout the globe and by using them the company could create
+
+5A
+--- page 6 ---
+superior and cheaper products, faster. P&G’s connect and develop was often mistaken
+to be simply outsourcing which meant transferring work to low-cost providers. However,
+the company clearly differentiated its C&D from outsourcing, emphasizing that it was
+about identifying innovative ideas from outside and bringing them into the organization to
+capitalize on its own R&D capabilities. In order for C&D to work, the company first
+identified what it was looking for and then decided to look for ideas that were already in
+use somewhere. After the idea was identified the company then focused on those ideas .
+and products that could be turned into successful product using its own R&D
+capabilities. For searching. ideas the company discovered three different sources: to
+
+identify top the consumer needs, adjacencies, and technology game boards.
+
+IDENTIFYING TOP TEN CONSUMER NEEDS
+
+For all its businesses, P&G, once a year, prepared a list of top ten consumer needs
+which, when satisfied, would boost the growth of their brands. Based on these lists,
+another list for the company overall was prepared and then the needs were developed
+into problems to be solved. These problems were clearly detailed in technology briefs,
+
+solutions to which were to be found outside the company.
+
+FINDING ADJACENCIES
+
+The company also attempted to find how new products or concept could benefit from
+existing brand equity. In this exercise the company identified products that were adjacent
+to its existing products and then sought relevant innovation in those product categories.
+TECHNOLOGY GAME BOARDS
+
+Another source of idea search was technology game boards which helped assess the
+impact of technology acquisition in one area on the products in other categories. These
+game boards explored various questions, such as which technologies the company
+wanted to strengthen, which technologies it wanted to acquire or which of them it wanted
+
+ta sell out. Answers to these questions provided broad targets for innovation searches.
+
+Once the company ‘decided what ideas to look for and identified the sources of ideas, it
+needed a global network to carry out the activities that formed the C&D model. P&G's
+own network across the globe provided a platform for the application of C&D strategies.
+
+It used closed proprietary networks and open networks for the purpose. Closed
+
+6 /ig
+--- page 7 ---
+proprietary networks comprised of technology entrepreneurs, suppliers etc. while open
+networks included individuals, organizations, educational and research institutions,
+
+government and private labs, competitors, trade partners, etc.
+
+P&G developed various closed proprietary networks for undertaking C&D activities. The
+most important of them were technology entrepreneurs and: suppliers. Technology
+entrepreneurs were senior P&G managers who were responsible for preparing
+technology briefs, defining the problem to be solved. They established external
+connections (such as liaisoning with researchers, forming supplier networks, etc.) and
+communicated.those connections to the company’s business unit heads. The technology
+entrepreneurs combined scientific literature and patent databases with physical hunt for
+ideas since searching ideas electronically alone was not sufficient. A technology
+entrepreneur in Japan, while exploring the market, found a product that was eventually
+developed and sold as ‘Mr. Clean Magic Eraser’ [Exhibit 5]. The company had a
+network of 70 technology entrepreneurs who worked out of six C&D hubs in the US,
+Latin America, Western Europe, Japan, China and India. All the hubs focused on finding
+products, concepts or technologies that were the specialties of their respective regions.
+By early 2006, technology entrepreneurs had identified around 10,000 products, ideas
+
+and technologies.
+
+The supplier base of the company formed another network for C&D activities. The top 15
+suppliers to the company had a combined R&D staff of approximately 50,000. VWhen the
+company began to embrace C&D model it realized that the huge researcher base of its
+suppliers could be a potential source of innovation. Subsequently, P&G developed a
+highly secure IT platform that enabled it to share its problems (technology briefs) with its
+suppliers. The company even went to the extent of sending its researchers to suppliers’
+labs to work with theirs and inviting suppliers’ researchers to: work with its own.
+According to Larry Huston, vice president, innovation and knowledge, P&G, said, “In
+some cases, suppliers’ researchers come to work in our labs, an in.others, we work in
+thelrs — an example of what we call ‘cocreation’, a type of collaboration that goes well
+
+yond typical joint development.” The company also held meetings with suppliers
+ca its top managers interacted with suppliers’ top leaders understanding each other's
+
+capabilities.
+
+Ag
+--- page 8 ---
+To complement the closed proprietary networks, the company used open networks.
+Examples of open network, which were very useful for the company, were: NineSigma,
+
+InnoCentive, YourEncore and Yet2.com.
+
+NineSigma: P&G was instrumental in creating NineSigma, a firm that connected
+companies that had problems with those companies, universities, academic institutions,
+government and private research labs that could find solutions to those problems.
+NineSigma prepared a technology brief that described a problem and distributed it to its
+network of solution providers. In case someone had a solution to the problem, the
+message was conveyed to the company (that had the problem). If the company found
+the solution to be relevant to its requirement, NineSigma connected the solution provider
+with the company and the research project started. By 2006, NineSigma distributed
+technology briefs to over 700,000 people and had completed more than 100 projects.
+
+Around 45% of the completed projects led to further collaborations.
+
+InnoCentive: InnoCentive, founded by Eli Lilly’, was a firm that had a network of 75,000
+contract scientists from all over the world. It was different from NineSigma in the way
+that it provided solutions to more narrowly defined problems. Any company with a
+problem could post it to the firm’s scientist base which provided answers. InnoCentive
+
+claimed to solve about one-third of the problems it received from different companies.
+
+YourEncore: P&G created YourEncore in 2003 as an independent business. It
+connected around 800 retired scientists and engineers (highly efficient employees from
+diverse professional backgrounds) from 150 organizations with client companies.
+YourEncore provided the client companies an opportunity to exploit the talent of these
+experienced people. Companies with problems could hire any of these retirees (with
+relevant experience) for short-term assignments at a very low cost.
+
+Yet2.com: Yet2.com was a website that served as an online marketplace for the
+exchange of intellectual property. Yet2.com enabled technology transfer between
+
+theese universities, research labs, etc. The website helped the clients in writing
+
+T Eli Lilly and Company is a global pharmaceutical company based in Indiana (US). It was founded in 1876 °
+by a 38-year old pharmaceutical chemist, Eli Lilly.
+sg
+--- page 9 ---
+technology briefs detailing the technology they were looking for or offering (for license or
+purchase). Then it distributed the briefs to a network of clients (businesses, labs,
+academic institutions, etc.) across the globe. Clients could browse through the briefs and
+if something interested them they could ask for the details. At this point, Yet2.com
+
+introduced both the parties to negotiate directly with each other.
+
+After an idea was identified by any external connection, it went through an internal
+screening. The screening process was employed to assess which idea, product or
+technology the company was seeking. For example, if a technology entrepreneur found
+a product or idea in some part of the world, he would pass the details of the product or
+idea to top managers through an online catalog. The managers or business heads then
+decided, subject to a number of practical questions, whether to put it into the new
+product development portfolio. If the decision was positive, the product/idea acquired
+from outside went into development process just like any other product developed in the
+company’s own R&D lab.
+
+OPEN INNOVATION: DRIVING GROWTH
+
+TOOL FOR CONSISTENT GROWTH
+
+According to Henry Chesbrough’, noted author, “Open Innovation means that vaiuable
+ideas can come from inside or outside the company and can go to market from inside or
+outside the company as well. This approach places external ideas and external paths to
+market on the same level of importance as that reserved for internal ideas and paths to
+
+market in the earlier era.”®
+
+Several analysts tried to differentiate open innovation from closed innovation based on
+three aspects of the innovation delivery chain: Fuzzy Front-end,’ Development, and
+Commercialization. In the traditional closed model [Exhibit 6] inputs were derived from
+both internal and external sources. Once the inputs were collected, they were narrowed
+dow, using the funnel approach, to a few that best suited the company’s needs. Then
+the Reo departments began their task of inventing, evolving and perfecting products or
+
+® Dr. Henry Chesbrough has authored a book “Open Innovation: The New Imperative for Creating and
+Profiting from Technology” in 2003. Presently, he is the executive director of the Center for Technology
+, Management, Haas School of Business, University of California.
+“Meet Henry Chesbrough”, www.research.philips.com, April 2004
+Ag
+--- page 10 ---
+\
+
+concepts. The prime focus was on internal development of technologies and products.
+An expert pointed out that BM, Intel, GE and Lucent (in the 1970s and 1980s) were.
+
+perfect examples of companies that leveraged sound internal R&D capabilities to create
+
+new products and | services. However, in the open innovation model [refer to Exhibit 6],
+companies adopted outside-in and inside-out approach. In the fuzzy front-end
+companies looked outside for solutions to its problems that could be used as a basis for
+internal development. During the development process, companies sought innovations
+already in use elsewhere and provided an opportunity for further improvement and
+commercialization. In this pahse companies could also sell off their internally developed
+technologies that were not used. Finally, in the commercialization stage too, companies
+could sell out technologies or innovations which could better fit somewhere else or
+
+acquire already successful products or ideas to instantly boost its growth.
+
+Experts suggested various benefits of open innovation in the overall growth of the
+organization [Exhibit 7]. According to an analyst, the most obvious benefit was the large
+base of ideas and technologies which the companies could utilize to drive internal
+growth. Apart from that, several companies considered open innovation a tool to explore
+newer growth opportunities. Moreover, companies could reap economic values by
+licensing unused ideas or technologies.
+
+P&G: REAPING BENEFITS
+By embarking upon the new innovation model P&G benefited in many ways. While
+focusing on its C&D innovation model, acquiring ideas from the external world, the
+company marketed internal intellectual property to outside clients. It observed that
+selling to and procuring from the same organization was the most profitable strategy. In
+the early 2006, P&G announced that its R&D spending as a percentage of sales was
+down to 3.42% from 4.75% in 2000. The company claimed that over 35% of its new
+products contained elements that were generated outside, compared to around 15% in
+“2000. Besides, it acknowledged that its R&D productivity had increased by almost 60%
+rT since adopting the new model. By applying the new model, the company considerably
+reduced its product development time. For example, its new line of potato crisps,
+Pringles, lauftched in 2004 took less than a year from concept to launch. P&G stated
+that between 2004 and 2006, it launched over 100 new products which had some
+
+log
+--- page 11 ---
+a)
+
+Pal
+
+outside connections. At the end of the financial year 2005, it declared 22 brands that
+
+registered worldwide sales of over $1 billion each.
+
+However, while embracing the new innovation model, the company encountered several
+hurdles. Firstly, it confronted the commonly held notion “that everything must be
+invented within P&G”. Secondly, there was a resistance from the employees to adopt the
+C&D model since they were anxious that the new model would eliminate jobs. They also
+feared that by adopting C&D model the company’s R&D would lose its competency.
+Lafley realized that he needed to change the company’s culture, shifting the mindsets
+from resistance to ideas broyght in from outside to embracing those found elsewhere.
+With this in mind, he decided that if a new product succeeded in the market, all the
+employees involved in its development would be rewarded irrespective of the fact
+whether the product idea came from inside or outside the company. In fact, employees
+were rewarded for identifying innovation ideas externally since these ideas took lesser
+
+time from concept to market, enhancing the development speed.
+USE IT OR LOSE IT
+
+Using C&D innovation model, P&G launched several successful products, including Olay
+Regenerist, Swiffer Dusters and Crest SpinBrush, etc. [Exhibit 8]. The company
+emphasized that the C&D as a model of open innovation assumed greater significance
+as acquiring innovation was tricky and hiring scientists and researchers from other R&D
+
+labs was difficult as well as expensive.
+
+Advocating the open innovation model, Henry Chesbrough stressed, “Today the trend is
+clear—not all the smart people in your industry work for you. And the implication of that
+trend is unavoidable: You cannot meet your growth objectives if you ignore all of the
+smart people out there who are not on your payroll.” Some experts opined that
+companies that would keep the innovation process within the confines their R&D labs
+and follow the do-it-ourselves model would find it difficult to grow consistently. They also
+felt that for large, mature companies internal R&D no longer ensured continuous growth
+and as a result R&D productivity was flat while innovation costs rose significantly. An
+analyst commented, “To survive, companies must disavow a ‘not invented here’
+
+mentality and embrace a dulture of ‘proudly found elsewhere’.
+
+1]
+--- page 12 ---
+Exhibit 1
+P&G: Net Sales and Net Earnings
+
+(in $ million)
+Year Net sales Net Earnings Net Earnings
+Margin (%)
+
+1996 35,285 3,046 8.6
+1997 35,764 3,415 9.5
+1998 37,154 3,780 10.2
+1999 ; 38,125 3,763 9.9",
+2000 * 39,951 3,542 8.9%!
+2001 39,244 2,612 6.7
+2002 40,238 3,910 9.7
+2003 43,377 4,788 11.0
+2004 51,407 6,156 12.0
+2005 56,741 6,923 12.2
+
+Source: P&G Annual Report 2005 & 2000
+
+vw
+
+12g
+--- page 13 ---
+Exhibit 2
+
+P&G: Expenditure on R&D ;
+
+(in $ million)
+Year Net Sales R&D Expenses uae a pare
+1996 35,285 1,399 3.96
+1997 35,764 1,469 4.11
+1998 37,154 1,546 4.16
+1999 38,125 » 1,726 4.53)
+2000 39,951 1,899 _ A754! :
+2001 39,244 1,769 4.51.
+2002 40,238 1,601 3.98
+2003 43,377 1,665 3.84
+2004 51,407 1,802 3.51
+2005 56,741 1,940 3.42 ©
+
+Source: P&G Annual Report 2005 & 2000
+
+2,500
+
+396 411
+2,000 +
+
+= 1,500 | 1.309 1468
+
+« 1,000 +
+
+500 +
+
+1,601 1,665
+
+1996 1997 1998 1999 2000 2001
+Year
+
+2002 2003 2004 2005
+
+E= R&D Expenses —+— % of Net Sales |
+
+Source: Compiled by IBS Research Centre, Kolkata
+
+rh
+
+13 (2
+--- page 14 ---
+“a
+
+Exhibit 3
+Vision of the Leader: AG Lafley
+
+Outsourcing
+
+| fit's nota core function, the new P&G won't do it. Info-tech and bar-soap
+manufacturing have already been contracted out. Other jobs will follow.
+
+Acquisitions
+
+Not everything has to be invented in company labs. Lafley wants half of
+all new-product ideas to come from the outside.
+
+Building Staff
+
+Managers are much closer scrutiny, as Lafley scans the ranks for the
+best and the brightest and singles them out for development.
+
+Brand Expansion
+
+The Crest line now includes an electric tooth brush and tooth-whitening
+products along with tooth paste. Lafley is making similar moves
+elsewhere.
+
+Pricing
+
+P&G isn't just the premium-price brand. It will go to the lower end if that’s
+where opportunity lies.
+
+v!
+
+“f
+--- page 15 ---
+!
+
+u
+
+av)
+
+Exhibit 4
+
+P&G's Innovation Model: Shifting from R&D to C&D
+
+Traditional R&D-based Innovation Model
+
+P&G delivers superior products by clearly understanding consumers’ needs and
+developing solutions with our best-in-class technical capabilities.
+
+C&D Open Innovation Model
+
+What's possible
+through P&G
+
+Connect + Develop allows us to quickly create and introduce new innovations by
+incorporating the capabilities of external resources.
+
+Source: Connect and Develop Brochure, www.pgconnectdevelop.com
+--- page 16 ---
+Exhibit 5
+Mr. Clean Magic Eraser: Open Innovation—The C&D Way
+
+2001: P&G’s technology entrepreneur based in Japan discovered a product called ‘Cleenpro’ in a
+store in Osaka. It was basically melamine resin foam (marketed as Basotect by BASF, a German
+chemical company) which was used for insulation in the construction and automotive industries.
+The technology entrepreneur evaluated the market performance of the product and found that it
+could fit in the company’s home-care segment.
+
+2002: The technology entrepreneur sent the product to the company’s R&D lab in Cincinnati along
+with all the details, such as product description, market potential etc., through the online catalog.
+The R&D lab found the product had a market potential and put it in to development portfolio.
+
+2003: P&G entered into an agreement with BASF for procuring the product. Later that year,
+Basotect was packed and launched as Mr. Clean Magic Eraser in the US and Europe. Researchers
+from P&G and BASF coduct joint research to improve the product.
+
+2004: As a result of the joint efforts, an improved version of the product, Magic Eraser Duo, was
+launched: Following that, more cocreated versions, such as Magic Eraser Wheel & Tire was
+launched. Later, the two companies collaborated to create further improved Magic Eraser
+products.
+
+While the brand ‘Magic Eraser’ was created by P&G, the foam itself was already a common
+product before the technology entrepreneur in Japan discovered its new use. Following the
+
+‘| product’s success, other companies also started selling it either with other brand names or as a
+generic product.
+
+Source: Compiled by IBS Research Centre, Kolkata
+
+16 IR
+--- page 17 ---
+Exhibit 6
+Difference between Closed Innovation and Open Innovation
+
+Closed Innovation Model
+Furzy FrontEnd ‘Devalopmard Commercialization
+
+Open Innovation Model
+
+QW Pinsourced — | @ Products in-sourced
+
+Source: Docherty, Michael “Primer on ‘open innovation.’ Principles and practice” www.pdma.org
+
+Exhibit 7
+
+Benefits of Open Innovation
+
+- Ability to leverage R&D developed on someone else's budget
+- Extended reach and capability for new ideas and technologies
+
+- Opportunity to refocus some internal resources on finding, screening, and
+managing implementation (important not to position as a threat to internal
+resources)
+
+- Improved payback on internal R&D through sale or license of otherwise unused
+intellectual property
+
+- A greater sense of urgency for internal groups to act on ideas or technology (use
+it or lose it)
+
+- _ Ability to conduct strategic experiments at lower levels of risk and:resources, with
+! the opportunity to extend core business and create new sources of growth
+
++, , Over time, an opportunity to create a more innovative culture, from the ‘outside in’
+¢ } through continued exposure and relationships with external innovators
+
+Source: Docherty, Michael “Primer on ‘open innovation:’ Principles and practice” www.pdma.org
+--- page 18 ---
+d
+
+a
+
+Exhibit 8
+
+P&G: Examples of Successful Product Innovations
+
+- Folger's Coffee House — gourmet coffees
+- Pampers Baby Fresh — cleansing wipes
+- Febreze — fabric refresher
+
+- Swiffer — cleaning system
+
+- lams — premium dog and cat foods
+
+- Dryel—home dry cleaner
+
+- Pampers Rash Guard — special care diapers
+- Crest Whitestrips — tooth whitener
+
+- Crest SpinBrush — powered toothbrush
+
+- ThermaCare — air-activated heat wraps
+
+- Olay Regenerist — skin-care product
+
+- Pringles — potato crisps
+
+Source: Compiled by IBS Research Centre, Kolkata
+
+/\p
 ````
 
 ## 2011-12 · Re-Exam · Trim 15 · paper c6a42aebc8a4
@@ -1529,6 +2663,7 @@ Wi
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/NEW PRODUCT DEVELOPMENT BACTH 2010-2011.pdf`
 - Printed on paper: exam date: 22/06/2011
 - Text: ocr (18 pages), mean OCR confidence 92.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1730,7 +2865,6 @@ GST $1,200
 
 TOTAL =. ee ee ee = ]s $30,000"
 
-2 Wood Stoves "Blaze Kings; 10 cords a year
 
 Propane $1,200-$1,500 a year
 
@@ -1740,11 +2874,9 @@ One Sky — Canadian Institute of Sustainable Living * x cu * 3768 294 Ave, Smit
 
 ale
 --- page 4 ---
-Gregory Unruh (gregory Richard Ettenson (richard.
 
 unruh.com) is a professor ettenson@thunderbird.
 and the director of the edu) is an associate pro-
-Lincoln Center at Thunder- fessor and a Thelma H.
 bird School of Global Kieckhefer research fellow
 Management and the author in global brand marketing
 of Earth, Inc. (Harvard at Thunderbird.
@@ -2629,6 +3761,7 @@ Ng
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/New Product Development 2010-2011.pdf`
 - Printed on paper: duration hours: 2; exam date: 29/03/2011
 - Text: ocr (18 pages), mean OCR confidence 92.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 X
@@ -2885,7 +4018,6 @@ Miscellaneous ie. wiring, backhoe, conctete, shipping, scaffolding, rebuilding
 generator shed, propane lines...
 GST
 
-2 Wood Stoves Blaze Kings; 10 cords a year |
 Propane $1,200-$1,500 a year
 *There is a PST exemption when systems are bought in their entirety
 
@@ -2906,12 +4038,10 @@ e\
 la
 at Ff
 
-Gregory Unruh (gregory Richard Ettenson (richard. 4
 unruh.com) is-a professor ettenson@thunderbird.
 
 and the director of the edu) is an associate pro-
 
-Lincoln Center at Thunder- fessor and a Thelma H.
 
 bird School of Global Kieckhefer research fellow nacre
 Management and the author in global brand marketing
@@ -4274,1139 +5404,4 @@ Q.7 Write short Notes on
 
 a)Bullwhip effect
 b)Importance of Industrial design
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper cf6472f4035d
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/NEW PRODUCT DEVELOPMENT 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 30/03/2012
-- Text: ocr (18 pages), mean OCR confidence 92.3
-
-````text
-~~ SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
-j Academic Year : 2011-2012
-
-* Subject: NEW PRODUCT DEVELOPMENT Marks: 50
-. o
-Time: 10.30 am To 30 pm
-Date: 30/03/2012 Duration: 2 hrs. %
-
-Final - Examination
-
-@ QUESTION NO 7 IS COMPULSORY. ANSWER ANY FOUR OF THE REMAINING SIX QUESTIONS. ALL
-QUESTIONS CARRY EQUAL MARKS
-
-e - WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER. START ANSWER TO EACH
-QUESTION ON A FRESH PAGE
-
-e -ANSWER TO ALL QUESTIONS SHOULD INCLUDE THE THEORY PORTION, FOLLOWED BY
-EXAMPLES FROM THE CASES COVERED IN THE CLASS, WHEREVER APPLICABLE, AND RECENT
-EXAMPLES FROM INDUSTRY
-
-1) What are the criteria while deciding the strategy for NPD? How would you evaluate these new
-product prospects?
-2) What are the various Competitive Games in seizing the market opportunity in NPD?
-3) What is the role of “Mass Customization” in NPD? What are the Strengths & Weaknesses of
-Mass Customization strategy?
-4) What are the implications of “life Cycle & Market Cycle” aspects of NPD on Profits?
-a 5) What is the concept of “Designing to Cost” in NPD? How does it defer from the traditional
-costing practice?
-6) What are the salient features of “Design for Manufacturing” in NPD? Explain in detail the three
-most important of these features
-7) With reference to the case of Open Innovation - “Proctor & Gamble” (ENCLOSED), answer the
-following questions:
-a) What is the historical background of P&G? When P&G ‘s products were always in the top
-} bracket of competition, what was the urgency of a strategic rethinking? How were the
-, ’ performances year wise and in what way did these indicators forced the top management in
-‘ formulating a new technology and business strategy for the company?
-
-b) Explain, in detail, the Vision of AG Lafely. Explain the model as postulated by Lafely for P&G.
-
-Cite company’s product as examples in each case.
-
-Vig
---- page 2 ---
-OPEN INNOVATION: THE CASE OF P&G
-
-By Taranjeet Chawla, IBS Research Centre, Kolkata
-
-‘We want P&G to be known as the company that collaborates — inside and out — better
-than any other company in the world.”
--A G Lafley, president and CEO, P&G
-
-“P&G has a history of acquiring technologies from outside our Company. What is
-particularly new in our Connect + Develop approach to external relationships is our
-strong focus on ready-to-go innovations.”
-
--Gil Cloyd, CTO, P&G
-
-“Today, P&G is the model of open innovation implemented effectively, and their financial
-results demonstrate the power of the approach.”
--Michael Docherty, CEO of Venture2 Inc."
-
-INTRODUCTION
-
-- By 2000, Procter & Gamble (P&G), one of the world’s largest consumer products
-companies, was under immense pressure. For decades, the company was known for its
-innovation. The consistent growth of the company was largely driven by innovation from
-within the organization, relying heavily on in-house R&D. For a long time, this centralized
-innovation model worked well for P&G. However, by 2000, it realized that an internally
-focused model of innovatiori was not sustainable as the success rate of new products
-(developed independently by the R&D department) was around 35%. Besides, the R&D
-expenses were escalating faster, increasing by $500 million between 1996 and 2000 to
-reach $1,899 million. By mid 2000, the company’s share prices fell by more than 50%.
-
-Worried by the situation, the company's newly appointed CEO, Alan G Lafley (Lafley),
-decided to reinvent P&G’s innovation model. He felt that outside connections could
-discover new ideas from around the world which could quickly be turned into innovative
-products by using the company’s own R&D, manufacturing and marketing skills. Thus,
-
-le ‘began to focus on external collaborations to bring in innovative ideas and then
-applied internal capabilities to develop new products. This model was termed as
-‘connect and develop’ (C&D) innovation model. He believed that the new model would
-
-enable the company slash its R&D costs and increase the success rate of new
-
-' Michael Docherty is the CEO of Venture2 Inc., a consulting and new ventures management company
-focused on launching breakthrough innovation in the consumer products industry.
-
-*"e
---- page 3 ---
-innovations. He set a goal to create 50% of the innovations outside the company’s R&D
-labs. The new innovation model proved to be fruitful for P&G and it introduced several
-successful products using the model. Experts opined that companies which would not
-
-adopt this model would find it difficult to survive.
-
-P&G: AT A GLANCE
-
-P&G was established on October 31°, 1837 when William Procter, a candle-maker, and
-James Gamble, a soap-maker, formed business partnership in Cincinnati, Ohio (US).
-Initially, the company concentrated on manufacturing and marketing of both, soaps and
-candles, reaching $1 million in sales by 1859. Later, it began to focus more on soap and
-had a range of more than 30 different types of soap by the 1890s. In the early 19”
-century, the company’ began to diversify its products and introduced Crisco”, a
-shortening made from vegetable oils rather than animal fat, in 1911. In the wake of
-growing popularity of electric bulbs, it stopped manufacturing candles in 1920. During
-this time, the company started hiring researchers for conducting research in various
-fields (especially chemical) and developing new products. The research efforts of the
-company led to the introduction of Dreft, the first synthetic detergent powder, in 1933
-and Drene, the first detergent-based shampoo, in 1934. Drene also marked P&G's entry
-into the hair care business. Later, in 1946, it launched Tide, laundry detergent, and Prell,
-a shampoo brand. In 1952, the company opened Miami Valley Laboratories (MVL) in
-Cincinnati, which was its first facility solely dedicated to research.
-In 1955, the company launched Crest, the first toothpaste to use fluoride as an
-ingredient. Crest was approved by the American Dental Association (ADA) as an
-‘effective decay-preventive dentifrice that can be of significant value’*®. Over a period of
-time, the crest brand was associated with about 20 different products (such as
-toothbrushes, toothpaste, mouthwash, dental floss and tooth-whitening products). In
-1960, P&G launched liquid Downy, its first fabric softener, and a year later, it test
-‘ prt Pampers, a brand of disposable diapers. Pampers was the result of the
-
-télentless R&D efforts put in by the researchers of the company to design a diaper that
-
-? Crisco was the first all-vegetable shortening. Crisco provided a healthier alternative to cooking with animal
-fats and was more economical than butter.
-‘Crest toothpaste’, http://en.wikipedia.org/wiki/Crest_toothpaste
-
-33
---- page 4 ---
-was absorbent, disposable and prevented leaks. Prior to the launch of Pampers
-disposable diapers were not popular. However, Pampers was an instant hit with
-customers and replaced cloth diapers. Launched in 1972, Bouhce, fabric softener
-sheets, was another example of innovative product, which was used to soften clothes in
-
-the dryer.
-
-In 1983, P&G introduced Always/Whisper, a feminine protection product which, by 1985,
-became one of the world’s leading brands in its category. It launched Pert Plus/Rejoice
-shampoo in 1986 which enabled consumers to wash and condition their hair using just
-one product: Apart from innoavtive products, P&G innovated its packaging also. In
-Germany, it introduced refill packs for liquid products, such as Lenor fabric softener. it
-was viewed as a major step towards solid waste prevention and. was named ‘the
-invention of the year’ by German grocers. In 1990, it won the ‘International DuPont
-Packaging Award’ for its Spic and Span Pine*, a house-hold cleanser, which was
-packaged in 100% recycled plastic. P&G was also awarded the ‘National Medal of
-Technology’* for creating, developing and applying advanced technologies to consumer
-_ products.
-
-In 1996, P&G developed a new product, Olestra, which was a calorie-free substitue for
-fat in cooking potato chips and other snacks. Olestra, marketed under the brand name of
-Olean, got the approval of the FDA® to be used in salty snack and crackers. In 2000, the
-company received FDA's approval for its new product, Actonel (risedronate sodium
-tablets) for the treatment of postmenopausal osteoporosis (PMO) “and glucocorticoid-
-
-induced osteoporosis (GIO).
-
-At the end of 2000, P&G had a global network of 18 technical centers in 9 countries
-spread across 4 continents. It had more than 8,000 scientists and researchers working in
-its Jabs on new product development. By the end of financial year 2000, ten of P&G's
-
-brands generated over.a billion dollar each in sales annually. These included Pampers,
-yl
-& 50 January 2001, P&G sold Spic and Span to Shansby Group, a San Francisco investment firm.
-
-5 The National Medal of Technology is an honor granted by the President of the United States to inventors
-and innovators (a person, a group of people or an organization) that have made significant contributions to
-the development of new and important technology. It is the highest honor in the US for achievements related
-to technological progress.
-
-® The Food and Drug Administration is an agency of the United States Department of Health and Human
-Services and is responsible for regulating food, dietary supplements, drugs, cosmetics, etc. in the US.
-
-4/12
---- page 5 ---
-Tide, Ariel, Pantene, Bounty, Charmin, Always, Folgers, Downy and Pringles. The
-company ended the year with sales worth $40 billion up 5% from 1999. However, net
-earnings were down 6% to $3.5 billion from $3.7 billion in the previous year [Exhibit 7].
-
-FROM R&D TO C&D: A NEW APPROACH TO INNOVATION
-
-’We're probably as good as the next guy at inventing. But we are not absolutely and
-positively better than everybody else at inventing. There are a lot of good inventors out
-there.”
-
--AG Lafley, CEO, P&G
-
-In 2000, P&G invested almost $1.9 billion or 4.75% of sales in R&D [Exhibit 2] for
-developing new products. This brought the company to the list of 20 largest R&D
-investors which included Pfizer, General Electric, Sony, Merck, Hewlett-Packard, etc.
-However, the success rate of its new products was around 35%. Triggered by virtually
-flat sales and a fall in earnings, the net earnings margin dropped to 8.9% from 9.9% in
-1999. As a result, P&G's share price slid from $118 to $52 a share.
-
-In 2001, the company’s earnings further declined to $2.6 billion and the margin shrank to
-6.7%. Amidst the difficult times, CEO Lafley, who took over after Durk |. Jager (Durk)
-resigned in June 2000, faced the challenge of reorganizing the company’s innovation
-model. While his predecessor Durk tried to invent more new products internally by
-) revamping the R&D department, Lafley had a different vision [Exhibit 3]. He wanted
-around half of the innovation ideas to come from outside. He expressed, “My hypothesis
-is that innovation and discovery are likely to come from anywhere. What P&G is really
-good at is developing innovations and commercializing them. So what | said is, ‘We
-
-”
-
-need an open marketplace.
-
-Traditionally, most of P&G’s innovations were created in its own R&D labs by connecting
-ideas/internally within the organization. However, observing a few products, which had
-used, pre ideas taken from outside, proved that external collaborations too could
-produce highly successful innovations. With this concept in mind, Lafley created C&D
-innovations model [Exhibit 4]. The basic principle of the model was that promising ideas
-were available throughout the globe and by using them the company could create
-
-5A
---- page 6 ---
-superior and cheaper products, faster. P&G’s connect and develop was often mistaken
-to be simply outsourcing which meant transferring work to low-cost providers. However,
-the company clearly differentiated its C&D from outsourcing, emphasizing that it was
-about identifying innovative ideas from outside and bringing them into the organization to
-capitalize on its own R&D capabilities. In order for C&D to work, the company first
-identified what it was looking for and then decided to look for ideas that were already in
-use somewhere. After the idea was identified the company then focused on those ideas .
-and products that could be turned into successful product using its own R&D
-capabilities. For searching. ideas the company discovered three different sources: to
-
-identify top the consumer needs, adjacencies, and technology game boards.
-
-IDENTIFYING TOP TEN CONSUMER NEEDS
-
-For all its businesses, P&G, once a year, prepared a list of top ten consumer needs
-which, when satisfied, would boost the growth of their brands. Based on these lists,
-another list for the company overall was prepared and then the needs were developed
-into problems to be solved. These problems were clearly detailed in technology briefs,
-
-solutions to which were to be found outside the company.
-
-FINDING ADJACENCIES
-
-The company also attempted to find how new products or concept could benefit from
-existing brand equity. In this exercise the company identified products that were adjacent
-to its existing products and then sought relevant innovation in those product categories.
-TECHNOLOGY GAME BOARDS
-
-Another source of idea search was technology game boards which helped assess the
-impact of technology acquisition in one area on the products in other categories. These
-game boards explored various questions, such as which technologies the company
-wanted to strengthen, which technologies it wanted to acquire or which of them it wanted
-
-ta sell out. Answers to these questions provided broad targets for innovation searches.
-
-Once the company ‘decided what ideas to look for and identified the sources of ideas, it
-needed a global network to carry out the activities that formed the C&D model. P&G's
-own network across the globe provided a platform for the application of C&D strategies.
-
-It used closed proprietary networks and open networks for the purpose. Closed
-
-6 /ig
---- page 7 ---
-proprietary networks comprised of technology entrepreneurs, suppliers etc. while open
-networks included individuals, organizations, educational and research institutions,
-
-government and private labs, competitors, trade partners, etc.
-
-P&G developed various closed proprietary networks for undertaking C&D activities. The
-most important of them were technology entrepreneurs and: suppliers. Technology
-entrepreneurs were senior P&G managers who were responsible for preparing
-technology briefs, defining the problem to be solved. They established external
-connections (such as liaisoning with researchers, forming supplier networks, etc.) and
-communicated.those connections to the company’s business unit heads. The technology
-entrepreneurs combined scientific literature and patent databases with physical hunt for
-ideas since searching ideas electronically alone was not sufficient. A technology
-entrepreneur in Japan, while exploring the market, found a product that was eventually
-developed and sold as ‘Mr. Clean Magic Eraser’ [Exhibit 5]. The company had a
-network of 70 technology entrepreneurs who worked out of six C&D hubs in the US,
-Latin America, Western Europe, Japan, China and India. All the hubs focused on finding
-products, concepts or technologies that were the specialties of their respective regions.
-By early 2006, technology entrepreneurs had identified around 10,000 products, ideas
-
-and technologies.
-
-The supplier base of the company formed another network for C&D activities. The top 15
-suppliers to the company had a combined R&D staff of approximately 50,000. VWhen the
-company began to embrace C&D model it realized that the huge researcher base of its
-suppliers could be a potential source of innovation. Subsequently, P&G developed a
-highly secure IT platform that enabled it to share its problems (technology briefs) with its
-suppliers. The company even went to the extent of sending its researchers to suppliers’
-labs to work with theirs and inviting suppliers’ researchers to: work with its own.
-According to Larry Huston, vice president, innovation and knowledge, P&G, said, “In
-some cases, suppliers’ researchers come to work in our labs, an in.others, we work in
-thelrs — an example of what we call ‘cocreation’, a type of collaboration that goes well
-
-yond typical joint development.” The company also held meetings with suppliers
-ca its top managers interacted with suppliers’ top leaders understanding each other's
-
-capabilities.
-
-Ag
---- page 8 ---
-To complement the closed proprietary networks, the company used open networks.
-Examples of open network, which were very useful for the company, were: NineSigma,
-
-InnoCentive, YourEncore and Yet2.com.
-
-NineSigma: P&G was instrumental in creating NineSigma, a firm that connected
-companies that had problems with those companies, universities, academic institutions,
-government and private research labs that could find solutions to those problems.
-NineSigma prepared a technology brief that described a problem and distributed it to its
-network of solution providers. In case someone had a solution to the problem, the
-message was conveyed to the company (that had the problem). If the company found
-the solution to be relevant to its requirement, NineSigma connected the solution provider
-with the company and the research project started. By 2006, NineSigma distributed
-technology briefs to over 700,000 people and had completed more than 100 projects.
-
-Around 45% of the completed projects led to further collaborations.
-
-InnoCentive: InnoCentive, founded by Eli Lilly’, was a firm that had a network of 75,000
-contract scientists from all over the world. It was different from NineSigma in the way
-that it provided solutions to more narrowly defined problems. Any company with a
-problem could post it to the firm’s scientist base which provided answers. InnoCentive
-
-claimed to solve about one-third of the problems it received from different companies.
-
-YourEncore: P&G created YourEncore in 2003 as an independent business. It
-connected around 800 retired scientists and engineers (highly efficient employees from
-diverse professional backgrounds) from 150 organizations with client companies.
-YourEncore provided the client companies an opportunity to exploit the talent of these
-experienced people. Companies with problems could hire any of these retirees (with
-relevant experience) for short-term assignments at a very low cost.
-
-Yet2.com: Yet2.com was a website that served as an online marketplace for the
-exchange of intellectual property. Yet2.com enabled technology transfer between
-
-theese universities, research labs, etc. The website helped the clients in writing
-
-T Eli Lilly and Company is a global pharmaceutical company based in Indiana (US). It was founded in 1876 °
-by a 38-year old pharmaceutical chemist, Eli Lilly.
-sg
---- page 9 ---
-technology briefs detailing the technology they were looking for or offering (for license or
-purchase). Then it distributed the briefs to a network of clients (businesses, labs,
-academic institutions, etc.) across the globe. Clients could browse through the briefs and
-if something interested them they could ask for the details. At this point, Yet2.com
-
-introduced both the parties to negotiate directly with each other.
-
-After an idea was identified by any external connection, it went through an internal
-screening. The screening process was employed to assess which idea, product or
-technology the company was seeking. For example, if a technology entrepreneur found
-a product or idea in some part of the world, he would pass the details of the product or
-idea to top managers through an online catalog. The managers or business heads then
-decided, subject to a number of practical questions, whether to put it into the new
-product development portfolio. If the decision was positive, the product/idea acquired
-from outside went into development process just like any other product developed in the
-company’s own R&D lab.
-
-OPEN INNOVATION: DRIVING GROWTH
-
-TOOL FOR CONSISTENT GROWTH
-
-According to Henry Chesbrough’, noted author, “Open Innovation means that vaiuable
-ideas can come from inside or outside the company and can go to market from inside or
-outside the company as well. This approach places external ideas and external paths to
-market on the same level of importance as that reserved for internal ideas and paths to
-
-market in the earlier era.”®
-
-Several analysts tried to differentiate open innovation from closed innovation based on
-three aspects of the innovation delivery chain: Fuzzy Front-end,’ Development, and
-Commercialization. In the traditional closed model [Exhibit 6] inputs were derived from
-both internal and external sources. Once the inputs were collected, they were narrowed
-dow, using the funnel approach, to a few that best suited the company’s needs. Then
-the Reo departments began their task of inventing, evolving and perfecting products or
-
-® Dr. Henry Chesbrough has authored a book “Open Innovation: The New Imperative for Creating and
-Profiting from Technology” in 2003. Presently, he is the executive director of the Center for Technology
-, Management, Haas School of Business, University of California.
-“Meet Henry Chesbrough”, www.research.philips.com, April 2004
-Ag
---- page 10 ---
-\
-
-concepts. The prime focus was on internal development of technologies and products.
-An expert pointed out that BM, Intel, GE and Lucent (in the 1970s and 1980s) were.
-
-perfect examples of companies that leveraged sound internal R&D capabilities to create
-
-new products and | services. However, in the open innovation model [refer to Exhibit 6],
-companies adopted outside-in and inside-out approach. In the fuzzy front-end
-companies looked outside for solutions to its problems that could be used as a basis for
-internal development. During the development process, companies sought innovations
-already in use elsewhere and provided an opportunity for further improvement and
-commercialization. In this pahse companies could also sell off their internally developed
-technologies that were not used. Finally, in the commercialization stage too, companies
-could sell out technologies or innovations which could better fit somewhere else or
-
-acquire already successful products or ideas to instantly boost its growth.
-
-Experts suggested various benefits of open innovation in the overall growth of the
-organization [Exhibit 7]. According to an analyst, the most obvious benefit was the large
-base of ideas and technologies which the companies could utilize to drive internal
-growth. Apart from that, several companies considered open innovation a tool to explore
-newer growth opportunities. Moreover, companies could reap economic values by
-licensing unused ideas or technologies.
-
-P&G: REAPING BENEFITS
-By embarking upon the new innovation model P&G benefited in many ways. While
-focusing on its C&D innovation model, acquiring ideas from the external world, the
-company marketed internal intellectual property to outside clients. It observed that
-selling to and procuring from the same organization was the most profitable strategy. In
-the early 2006, P&G announced that its R&D spending as a percentage of sales was
-down to 3.42% from 4.75% in 2000. The company claimed that over 35% of its new
-products contained elements that were generated outside, compared to around 15% in
-“2000. Besides, it acknowledged that its R&D productivity had increased by almost 60%
-rT since adopting the new model. By applying the new model, the company considerably
-reduced its product development time. For example, its new line of potato crisps,
-Pringles, lauftched in 2004 took less than a year from concept to launch. P&G stated
-that between 2004 and 2006, it launched over 100 new products which had some
-
-log
---- page 11 ---
-a)
-
-Pal
-
-outside connections. At the end of the financial year 2005, it declared 22 brands that
-
-registered worldwide sales of over $1 billion each.
-
-However, while embracing the new innovation model, the company encountered several
-hurdles. Firstly, it confronted the commonly held notion “that everything must be
-invented within P&G”. Secondly, there was a resistance from the employees to adopt the
-C&D model since they were anxious that the new model would eliminate jobs. They also
-feared that by adopting C&D model the company’s R&D would lose its competency.
-Lafley realized that he needed to change the company’s culture, shifting the mindsets
-from resistance to ideas broyght in from outside to embracing those found elsewhere.
-With this in mind, he decided that if a new product succeeded in the market, all the
-employees involved in its development would be rewarded irrespective of the fact
-whether the product idea came from inside or outside the company. In fact, employees
-were rewarded for identifying innovation ideas externally since these ideas took lesser
-
-time from concept to market, enhancing the development speed.
-USE IT OR LOSE IT
-
-Using C&D innovation model, P&G launched several successful products, including Olay
-Regenerist, Swiffer Dusters and Crest SpinBrush, etc. [Exhibit 8]. The company
-emphasized that the C&D as a model of open innovation assumed greater significance
-as acquiring innovation was tricky and hiring scientists and researchers from other R&D
-
-labs was difficult as well as expensive.
-
-Advocating the open innovation model, Henry Chesbrough stressed, “Today the trend is
-clear—not all the smart people in your industry work for you. And the implication of that
-trend is unavoidable: You cannot meet your growth objectives if you ignore all of the
-smart people out there who are not on your payroll.” Some experts opined that
-companies that would keep the innovation process within the confines their R&D labs
-and follow the do-it-ourselves model would find it difficult to grow consistently. They also
-felt that for large, mature companies internal R&D no longer ensured continuous growth
-and as a result R&D productivity was flat while innovation costs rose significantly. An
-analyst commented, “To survive, companies must disavow a ‘not invented here’
-
-mentality and embrace a dulture of ‘proudly found elsewhere’.
-
-1]
---- page 12 ---
-Exhibit 1
-P&G: Net Sales and Net Earnings
-
-(in $ million)
-Year Net sales Net Earnings Net Earnings
-Margin (%)
-
-1996 35,285 3,046 8.6
-1997 35,764 3,415 9.5
-1998 37,154 3,780 10.2
-1999 ; 38,125 3,763 9.9",
-2000 * 39,951 3,542 8.9%!
-2001 39,244 2,612 6.7
-2002 40,238 3,910 9.7
-2003 43,377 4,788 11.0
-2004 51,407 6,156 12.0
-2005 56,741 6,923 12.2
-
-Source: P&G Annual Report 2005 & 2000
-
-vw
-
-12g
---- page 13 ---
-Exhibit 2
-
-P&G: Expenditure on R&D ;
-
-(in $ million)
-Year Net Sales R&D Expenses uae a pare
-1996 35,285 1,399 3.96
-1997 35,764 1,469 4.11
-1998 37,154 1,546 4.16
-1999 38,125 » 1,726 4.53)
-2000 39,951 1,899 _ A754! :
-2001 39,244 1,769 4.51.
-2002 40,238 1,601 3.98
-2003 43,377 1,665 3.84
-2004 51,407 1,802 3.51
-2005 56,741 1,940 3.42 ©
-
-Source: P&G Annual Report 2005 & 2000
-
-2,500
-
-396 411
-2,000 +
-
-= 1,500 | 1.309 1468
-
-« 1,000 +
-
-500 +
-
-1,601 1,665
-
-1996 1997 1998 1999 2000 2001
-Year
-
-2002 2003 2004 2005
-
-E= R&D Expenses —+— % of Net Sales |
-
-Source: Compiled by IBS Research Centre, Kolkata
-
-rh
-
-13 (2
---- page 14 ---
-“a
-
-Exhibit 3
-Vision of the Leader: AG Lafley
-
-Outsourcing
-
-| fit's nota core function, the new P&G won't do it. Info-tech and bar-soap
-manufacturing have already been contracted out. Other jobs will follow.
-
-Acquisitions
-
-Not everything has to be invented in company labs. Lafley wants half of
-all new-product ideas to come from the outside.
-
-Building Staff
-
-Managers are much closer scrutiny, as Lafley scans the ranks for the
-best and the brightest and singles them out for development.
-
-Brand Expansion
-
-The Crest line now includes an electric tooth brush and tooth-whitening
-products along with tooth paste. Lafley is making similar moves
-elsewhere.
-
-Pricing
-
-P&G isn't just the premium-price brand. It will go to the lower end if that’s
-where opportunity lies.
-
-v!
-
-“f
---- page 15 ---
-!
-
-u
-
-av)
-
-Exhibit 4
-
-P&G's Innovation Model: Shifting from R&D to C&D
-
-Traditional R&D-based Innovation Model
-
-P&G delivers superior products by clearly understanding consumers’ needs and
-developing solutions with our best-in-class technical capabilities.
-
-C&D Open Innovation Model
-
-What's possible
-through P&G
-
-Connect + Develop allows us to quickly create and introduce new innovations by
-incorporating the capabilities of external resources.
-
-Source: Connect and Develop Brochure, www.pgconnectdevelop.com
---- page 16 ---
-Exhibit 5
-Mr. Clean Magic Eraser: Open Innovation—The C&D Way
-
-2001: P&G’s technology entrepreneur based in Japan discovered a product called ‘Cleenpro’ in a
-store in Osaka. It was basically melamine resin foam (marketed as Basotect by BASF, a German
-chemical company) which was used for insulation in the construction and automotive industries.
-The technology entrepreneur evaluated the market performance of the product and found that it
-could fit in the company’s home-care segment.
-
-2002: The technology entrepreneur sent the product to the company’s R&D lab in Cincinnati along
-with all the details, such as product description, market potential etc., through the online catalog.
-The R&D lab found the product had a market potential and put it in to development portfolio.
-
-2003: P&G entered into an agreement with BASF for procuring the product. Later that year,
-Basotect was packed and launched as Mr. Clean Magic Eraser in the US and Europe. Researchers
-from P&G and BASF coduct joint research to improve the product.
-
-2004: As a result of the joint efforts, an improved version of the product, Magic Eraser Duo, was
-launched: Following that, more cocreated versions, such as Magic Eraser Wheel & Tire was
-launched. Later, the two companies collaborated to create further improved Magic Eraser
-products.
-
-While the brand ‘Magic Eraser’ was created by P&G, the foam itself was already a common
-product before the technology entrepreneur in Japan discovered its new use. Following the
-
-‘| product’s success, other companies also started selling it either with other brand names or as a
-generic product.
-
-Source: Compiled by IBS Research Centre, Kolkata
-
-16 IR
---- page 17 ---
-Exhibit 6
-Difference between Closed Innovation and Open Innovation
-
-Closed Innovation Model
-Furzy FrontEnd ‘Devalopmard Commercialization
-
-Open Innovation Model
-Furzy Frontind Development Commarcialization
-
-QW Pinsourced — | @ Products in-sourced
-Cia atoraevalazmert egy efor seston
-
-Source: Docherty, Michael “Primer on ‘open innovation.’ Principles and practice” www.pdma.org
-
-Exhibit 7
-
-Benefits of Open Innovation
-
-- Ability to leverage R&D developed on someone else's budget
-- Extended reach and capability for new ideas and technologies
-
-- Opportunity to refocus some internal resources on finding, screening, and
-managing implementation (important not to position as a threat to internal
-resources)
-
-- Improved payback on internal R&D through sale or license of otherwise unused
-intellectual property
-
-- A greater sense of urgency for internal groups to act on ideas or technology (use
-it or lose it)
-
-- _ Ability to conduct strategic experiments at lower levels of risk and:resources, with
-! the opportunity to extend core business and create new sources of growth
-
-+, , Over time, an opportunity to create a more innovative culture, from the ‘outside in’
-¢ } through continued exposure and relationships with external innovators
-
-Source: Docherty, Michael “Primer on ‘open innovation:’ Principles and practice” www.pdma.org
---- page 18 ---
-d
-
-a
-
-Exhibit 8
-
-P&G: Examples of Successful Product Innovations
-
-- Folger's Coffee House — gourmet coffees
-- Pampers Baby Fresh — cleansing wipes
-- Febreze — fabric refresher
-
-- Swiffer — cleaning system
-
-- lams — premium dog and cat foods
-
-- Dryel—home dry cleaner
-
-- Pampers Rash Guard — special care diapers
-- Crest Whitestrips — tooth whitener
-
-- Crest SpinBrush — powered toothbrush
-
-- ThermaCare — air-activated heat wraps
-
-- Olay Regenerist — skin-care product
-
-- Pringles — potato crisps
-
-Source: Compiled by IBS Research Centre, Kolkata
-
-/\p
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 911aaaa09df7
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/Scan 0017.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 13/4/2013
-- Text: text (11 pages)
-
-````text
-SVKM's NMIMS
-Academic Year : 2012-2013
-Subject:   NEW PRODUCT DEVELOPMENT   Marks:   50
-Time:
-Date:   13/4/2013   Duration:   2   hrs.
-Final - Examination
-QUESTION NO. 1 IS COMPULSORY. ANSWER ANY FOUR OF THE REMAINING FIVE QUESTIONS.
-ALL QUESTIONS CARRY EQUAL MARKS
-WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER. START ANSWER TO EACH
-QUESTION ON A FRESH PAGE
-ANSWER TO THEORY QUESTIONS SHOULD INCLUDE THE THEORY PORTION, FOLLOWED BY
-EXAMPLES FROM THE CASES/PRODUCT PRESENTATIONS COVERED IN THE CLASS, WHEREVER
-APPLICABLE, AND RECENT EXAMPLES FROM INDUSTRY
-1) How do companies use NPD as a competitive weapon in Marketing? What are the learning in
-Product Positioning from the Clean Edge Razor Case?
-2) What are the steps in the refining of the product concept into a new product and business?
-Describe any one step in more detail.
-3) What are the broad items included in a typical Business Plan for a NPD? Describe any one of the
-elements (items) in more detail.
-4) What are the factors in "Designing to Cost" in NPD? Explain the concept of triad of Product
-performance, Cost and Design speed in NPD.
-5) Explain the general financial model for new product development. What is the "fallacy of the
-Hockey Stick" in forecasting for NPD? What are the financial and management implications?
-6) Progressive Engineering Company had spent Rs 12 Crore on a new product development and
-expects to get returns for 3 years from this venture. The company has to decide on one of the
-three locations ( A.P, Gujarat, M.P.) for the launch. Each of these locations is projected to give
-1   different pattern of cash flows as follows:
--
-Location/Year   First year   Second year   Third year
-A.P.   2   4   12
-Gujarat   10   3   3
-M.P.   4   6   7
-Value given is in Rs Crores
-Progressive Company wishes to decide which location to select for the new product launch
-a) Calculate the NPVvalues for the three locations considering the cost of capital as 10%.
-4   According to you, which location out of the three would you recommend for the NPD launch
-based on the NPV criteria? b) What if NPV criteria were not used in this evaluation and
-instead the actual cash flow figures are taken? Which location would you choose in that
-case?
---- page 2 ---
-JOHN A. QUELCH
-HEATHER BECKHAM
-Clean Edge Razor:
-Splitting Hairs in Product Positioning
-On August 9, 2010, a group of executives from Paramount Health and Beauty Company   -.
-(Paramount) sat k~ a research room intently observing a dozen men shaving on the other side of a
-two-way mirror. 'The subjects were testing out Paramount's newest nondisposable razor, Cleari Edge,
-and discussing the experience. The verdict was extremely encouraging. The majority of men felt it
-was the closest, cleanest, and smoothest shave they had encountered.
-Clean Edgetsimproved design provided superior performance by &tilizing a vibrating technology .   . .   .
-to stimulate hair follicles and lift the hair from the skin, allowing for a more ,thorough shave.'
-Jackson Randall, product manager for Clean Edge, sat in the darkened observation room cons id;^^   .   '
-the positioning strategy for this new product. He had led the new product development process and
-was now grappling with how to position the product for h e upcoming launch. All executives.at
-Paramount agreed Clean Edge should be priced in the super-premium segment of 'the market.
-However, some executives,believed Clean Edge should be launched. as a mainstream entry within
-that segment, with the broad appeal of being the most effective razor &ailable on the market. others
-I   felt a more differentiated niche strategy, targeting .the most intensely involved super-premium . .
-consumers, would be optimal. Paramount had decided to launch this technologically advanced
-product into the men's market first where the company had the strongest presence, with an
-introduction into the women's market following soon after.
-As Stuart Quimby, director of Paramount's U.S. Grooming Divisich, left the observation room, he
-asked Randall to provide a recommendation to the executive steering committee by the end of the
-week for product positioning, brand name, and marketing budget allocations for the launch. Randall
-felt he understood this new product better than anyone; now he just had to determine the best course   .
-of action for Clean Edge and convince his boss of the merits of'his strategy.
-Paramount would be the first company to provide scientific testing by a third-party lab to back these claims.
---- page 3 ---
-4249   1 (3lean.Edge Razorr Splitting Hairs in Product Positioning
-The U.S. Razor Market
-Background
-The U.S. Razor market could be broken up into several categories, including nondisposable
-razors, refill cartridges, disposable razors, shaving cream, and depilatories. Clean Edge competed in
-the nondisposable razor and refill cartridge categories.   Nondisposable razors experienced
-approximately 5% growth per year from 2007 to 2010,,with refill cartridges capturing slightly less
-growth of approximately 2% per year over the same time period. Most of the growth in this market
-can be attributed to innovations and new product introductions. Table A provides retail sales for the   ,
-select categories.
-Table A U.S. Shaving and Hair Removal Products: Retail Sales ($ in millions)
-2005   2006   2007   2008   2009   2010
-Nondisposable Razors   $ 178   $ 212   $ 1'88   $ 198   $ 208   $ 218
-Refill Cartridges   .   $ 763   $ 801   $ 802   $   '315   $ 832   . - $ 853
-Disposable Razors   .   $ 440   $ 456   $ 477   $ '490 ; $ 504   $ 522
-Shaving Cream   $ 271   $ 275   $ 269   $ 266   $ 263   $ 260
-Depilatories   $ 104   $ 101 .   $ 106   $ 100   ' $   94   $   88
-Source: "Shaving and Hair emo oval Products - U.S. - May 2008," Figure 5, Mintel International Group
-Note: 2008 figures are mid-year projections; 2009-2010 figures are estimates.
-Market Segments and Consumer Behavior
-Currency, industry experts divided the nondisposable razor and refill cartridge market into three
-segments based on price and quality: value, moderate, and 'super-premium. In the last decade, the
-industry had experienced signihcant growth in the super-premium segment.' Numerous product
-innovations in the super-premium segment (e.g., 5-blade technology, glide strips, lather bar, low
-r e sistance blade coating, etc.) fueled the growth. Table B . provides .   a breakout of industry sales by . -
-s gment.   .   -   .   .-   ,.   .
-.   .
-Table B 2009 ~ondis~osable Razors and
-RefiU Cartridge Retail Sales by Segment
-Volume   Dollar
-Super-Premium   25% .   34%
-Moderate
-Note: hformation is fictional.
-Paramount studies from 2009 showed that consumers purchased razors and replacement
-cartri@es more* frequently than they had in any year previously. Executives felt the replacement --   -
-cycle had been shortened due to consumers trylng out new products as well as advertising and
-sponsored articles that touted the benefits of frequent blade replacement.
-In addition to the traditional price/quality segments that industry experts tracked, Paramount's
-consumer research indicated distinct segmentation in terms of product benefits and consumer
-behavior. Research showed these segments held true for both men and women. Exhibit 1
-summarizes Paramount's findings on these groups.
---- page 4 ---
-Clean Edge Razor: Splitting Hairs in Product Positioning   1 4249
-The intensity of involvem@nt with the product varied significantly among consumers. There was
-a group of consumers that Paramount labeled as "Maintenance Shavers" who were almost
-completely disinterested in the product category.   Involved users could be broken up into
-"Social/Ernotional" and "Aesthetic" shavers. Both groups were willing to experiment with new
-technology. "Social/Emotional" shavers were motivated by the overall shaving experience, while
-".AestheticJ' shavers were more interested in cosmetic results.
-Trends
-The rate of new-product introductions fir nondisposable razors and refill cartridges hid
-accelerated in recent years, with an unprecedented flurry of 22 new stock-keeping units(SKUs) being
-introduced between 2008 and 2009. Most of these new SKUs were line extensions targeted at the
-super-premium segment and promoted benefits from advances in technology.
-As a result of new-product introductions and in order to stimulate demand, total media :
-advert is^^ expenditures ih this category had be& rising fastej: than retail market sales, and this
-trend was expected to continue. Exhibit 2 provides media expenditures for the major brands, and a
-breakout of advertising/promotion expenditures for Paramount nondisposable razors ,and, refill   -.   ..
-cartridges are given in Exhibit 3.
-In general, distribution outlets responded to the growth in nondisposable SKUs by increasing
-shelf space for the product category. Razors were not purchased frequently enough to be a traffic
-'   builder for the stores, but retail margins associated with the products tended to be considerably
-I   higher than other personal care items (e.g., toothpaste). Distribution was also starting to shift outside
-traditional food and drug stores. In 2000, food stores sold over half of all razors, but by 2009 they
-represented only 42% of sales. Exhibit 4 summarizes the changes in retail channel distribution from
-2007 to 2010E.
-Male-specific grooming products seemed to be a bright spot in the industry. Recent trends
-indicated men's grooming routines moved well beyond a splash of aftershave. New products such as
-1   men's body spray, fragranced shower gel, and skincare lines proliferated in the last several years.
-Male-specific personal care produds outpaced the growth in the women's beauty market as these
-products became more mainstream. With more media attention on men's grooming issues and less
-stigma associated with men's preening, the segment seemed poised for growth.
-Company Overview
-Paramount was a global consumer products giant with $13 billion in worldwide sales and $7
-billion in gross profits for 2009. Paramount's corporate divisions included Health, Cleaning, Beauty
-and Grooming. Paramount entered the nondisposable razor market in 1962 and quickly became a
-respected brand in the industry. Sales from Paramount's nondisposable razors and refill cartridges in
-the U.S. contributed $170 million in revenue, gross profit of $92 million, and operating piofit of $26
-million in 2009.   Paramount currently offered two lines of nondisposable razors and refill
-4 cartridges-the   Paramount Pro which was positioned in the moderate segment of the product
-category, and the Paramount Avail, which was considered a value offering. Neither Pro nor Avail
-had introduced significant technology innovations in the last five years. Together, these two
-products allowed Paramount to capture the unit-volume market-leader position in 2009, with a 23.3%
-retail unit share.2   e
-~ v e r a conhibutioxi ~ e   per unit for Avail and Pro combined was $1.76 fo; razors and $2.80 for cartridges.
---- page 5 ---
-4249   1 Clean Edge Razor. Splitting Hairs in Product Positioning
-Competition
-Competition for nondisposable razors included dir6ct competitors as well as substitute products.
-Disposable razors provided a "wet" shave alternative, but appealed primarily to the value-oriented
-customers or to customers that wanted a new blade for each shave. Disposables generally competed
-on price and lacked the technology and innovations that were standard in the nondisposable market.
-Electric shavers captured a moderate percentage of the overall market (approximately 27% of men
-used an electric shaver). Although they did not provide as close a shave as "wet" razors, electric
-shavers were easier to maneuver and produced less skin irritation. As a result, electric shavers
-generally appealed to older consumers. Other substitutes included depilatory creams, waxing, and
-laser hair removal.
-In 2010, the nondisposable razor and r e f i cartridge market was dominated by three multinational
-players: Paramount, Prince, and Benet & Klein. hrew entrants, Radiance Health Inc. (Radiance) and
-Simpsons-both established personal-care products companies-had recently intensified competition
-in the space. Other smaller competitors and private-label brands comprised the rest of the market.
-The majority of these other competitors were priced in the valu 2 segment of the market. Exhibit 5
-details each of the main players' market shares. Exhibit 6 provides representative retail prices for
-each major brand by product segment.
-Prince - Prince manufactured and sold personal care products throughout the world. The
-company's principle focus included oral care products, skin care products, shaving products, and
-deodorants/antiperspirants. Prince had been a market leader in nondfsposable razors since the 1950s
-and held the number one position in terms of retail dollar sales in 2009. Prince sold nondisposable
-razors and refill cartridges under the brand names Cogent and Cogent Plus. Both were considered
-super-premium products. Revenues for Prince's nondisposable razors and refill cartridges in 2009
-were approximately $224 million with $45 million in operating profit.
-Benet & Klein (B&K) - B&K was a multinational beauty and health products company that
-manufactured and sold vitamins, cosmetics, shaving products, skin care products, hair care products,
-A d fragrances. B&K entered the nondisposable razor market in 1985 with the Vihc brand. B&K
-unveiled a new product line of nondisposable razors and refill cartridges (Vitric Master) in 2009 that
-provided an advanced lubrication strip, non-slip handle, and superior anti-corrosive technology
-blades.
-New Entrants - On August 1, 2009, Simpsons launched a new nondisposable razor using its
-deodorant brand, Tempest. The Tempest razor touted an advanced pivoting head that allowed for a   I
-smoother shave.. Radiance also planned to. extend its deodorant brand name, Naiv, into   .. . . .
-nondisposable razors. The Naiv r&or offered a pulsing feature that was somewhat similar to Clean
-' Edgers vibrating technology. Executives at Paramount had learned the Naiv razor was due to launch
-natidnally in September 2010. In test markets, Naiv acquired a 13% share. Estimates for 2010 market
-share are provided ih Exhibit 5. Based on ~adi&ie's past la-&es   in new-pioduct 'categories,
-Para 9 ount believed it would come out of the gate strong. Paramount marketing executives
-estiniated Radiance would spend over $16 million for media advertising to support the Naiv launch   ..   -
-in 2010. There were also widespread rumors of significant promotion events that would soon be
-unveiled. Currently, Radiance and Paramount were fierce competitors in several personal care
-product categories.,
---- page 6 ---
-Clean Edge Razor; SpLitting Hairs in Product Positioning   1 4249
-Clean Edge Razor
-Design and Testing
-In 2007, Paramount's CEO created a special nondisposable-razor project team devoted to
-developing a technological breakthrough and providing Paramount with a standout new product in
-the category. The team was led by Randall and included representatives from R&D, marketing, and
-production. The team evaluated several new designs and determined that a vibrating, ultra-thin five-
-blade design (dubbed Clean Edge) would be the revolutionary product Paramount needed to
-establish themselves as an innovation leader. One AAA battery was housed in the handle of the
-razor which provided vibrations that stimulated hair follicles. In addition, the larger, heavier handle
-allowed for better balance, grip and control while shaving, and the advanced ultra-thin blade design
-reduced irritation. Over an 18-month period, extensive clinical testing and consumer research were
-performed. Clinical trials indicated Clean Edge achieved a 25% increase in hair removal versus other
-leading nondisposable razor brands (e.g., Cog&t and Vitric). Trials also pro-ved benefits to overall
-skin condition with more even skin tone and improved skin texture.
-Randall managed the development and testing process and was now spearheading the product's
-launch. Senior executives already determined that Clean Edge would be-priced somewhere in the
-super-premium segment, and the launch of the men's razor would occur in January 2011, with the
-women's razor to follow soon after. The looming question was how to best position Clean Edge.
-Posifioning   .   . .   .   .   .
-Within the super-premium segment, Randail had the option of recommending Cle% Edge for a
-niche product position focusing on highly involved, fastidious groomers looking for a superior
-shaving experience, or a mainstream position focusing on the broad advantage of offering the closest.   .   . ;
-possible shave. Randall had consulted with marketing and manufacturing teams .to develop initial
-financial forecasts for both options. Exhibit 7 summarizes Randall's assumptions and forecasts.
-\   . .   .   . - -- . . .   -- - . . .- . . . . . . , .   :
-In order to develop a comprehensive pro fonna income statement for eich position&   option,.:,:..-   .
-Randall h e w he would also have to consider the impact of caniibalization.. In a recent division   -   '
-status meeting, Randall had observed a heated exchange on this topic between Paramount's newly   . .
-hired corporate marketing director, William Kim, and Paramount Pro's prod~ct'mana~er, ~ l b e r t
-Rosenberg. Kim had been brought on board to provide a fresh perspective to the nondisposable-
-razor product category. Rosenberg had been a respected manager in the Grooming Division for over
-two decades and had significant political capital in the division.
-.When the question of Clean Edge's product positioning was brqached;Ros@nberg sQid, "I can't   .   .'
-believe we are even considering a mainstream positioning strategy. You will just siphon off
-consumers from Pro. A mainstream strategy will dilute the brand power for our bread-and-butter
-a product, Pro. We will just be -cannibalizing ou~selves: A niche strategy makes more . sense. It will
-complement our existing product portfolio perfectly."   .
-.   .   .   .   .   .
-Kim thought ~ o s e n b e was r ~ too concerned with protecting his turf and not thinking of what was
-best for the overall company. He responded, "Albert, research shows our consumers are becoming
-more sophisticated.and expect more advanced technology. Pro does not provide this. Pro is in the
-mature phase of .the product Hecycle.   It is only a matter of time before we see the decline.
-Positioning Clean Edge as-a mainstream product will help prevent loyal Paramount customers from
-being wooed away to more innovative brands. Clean Edge has the potential for true market .
-domination and needs to be positioned as such."
---- page 7 ---
-4249 1 Clean Edge Razor: Splitting Hairs in Product Positioning
-Rqdall was unsure of the exact effect of cannibalization, but product launches in other
-Paramount product categories indicated a considerable portion of the volume sales for Clean Edge
-could come at the expense of Paramount Pro and Avail. Randall's team spent a good amount of time
-researching potential cannibalization scenarios. They determined 60% of Clean Edge sales would
-likely come from current Pro/Avail customers in a mainstream positioning scenario and 35% of
-Clean Edge sales would likely come from current Pro/Avail customers in a niche positioning
-scenario.
-Branding Considerations
-Randall had not yet determined the relative emphasis of the "Paramount" and "Clean Edge"
-names on packaging or in advertising. He had informally discussed hYo options with different
-executives. Those executives who felt the design was a major breakthrough in grooming believed the
-product should stand apart from the current lines with a n emphasis on the "Clean Edge" name (e.g.,
-"Clean Edge by Paramount"). In opposition to this Were a handful of executives who thought
-Paramount's name should receive top billing as this was consistent with the overall corporate
-strategy of building the Paramount brand name equity. The name this group preferred was
-"Paramount Clean Edge." Focus groups revealed both concept names were viewed favorably.
-Randall knew his decision would have an impact on how closely consumers associated Clean Edge
-with Pro and Avail and consequently influence the rate of cannibalization.
-Marketing Budget   . .
-Paramount executives had not yet decided how to incorporate Clean Edge into the overall
-nondisposable razor and refill cari~idge marketing budget and if an increase in overall budget was
-necessary. The 2010 budget totaled $48.3 million with $20.2 miILion for advertising and $28.1 million
-for consumer and trade promotions. Randall was aware that the steering committee was looking to
-curb excessive marketing expenses in all product categories. If the budgets were to remain constant
-for 2011, then a reallocation would have to occur. Randall considered the option of allocating the
-qudget based on an expected percentage of sales; but this would not be sufficient for Clean Edge to   -   -
-enter the market in a meaningful way. Clean Edge needed significant marketing dollars to ensure a
-successful launch. However, Rosenberg was already campaigning to protect his allocations.
-Rosenberg had been quite vocal in his stance that Paramount Pro was the backbone of the company's
-razor line and as such needed to sustain current marketing allocations.
-TO capture the volume estimates laid out in Exhibit 7, Randall determined a niche positioning
-strategy would require $15 million in total marketing expenditures for Clean Edge's first year. In
-order to reach full sales potential with the mainstream position, a $42 million marketing budget
-would be needed for year one. -It was clear to,Randall that launching Clean Edge as a mainstream   -
-product would require sigruficantly more marketing support. Mainstream razor unit volumes were
-expected to capture over three times niche volumes in the first year, and reaching the masses would
-require an extensive advertising campaign. In addition, considerable consumer and trade promotion
-eventdwould be needed and many expenses associated with these events would be volume based. In ,.   . ..
-order to induce trial; several consumer promotions were being considered. Cents-off coupons (e.g.,
-$1.00 off purchase) would be an important part of the consumer promotion strategy for either
-positioning strategy. A coupon for a free razor with cartridge purchase had also been proposed.
-Randall estimated thecost of this promotion to be approximately $4 million.and had included it in
-his initial marketing budget assumptions for the mainstream launch located in Exhibit 7. Even
-tho.ugh an increase in the overall product category marketing budget would be highly scrutinized,
-Randall felt this might be the best route.
---- page 8 ---
-Clean Edge Razor: Splitting Hairs in Product Positioning   1 4249
-Conclusion   . .
-Randall's gut told him Clean Edge had significant mainstream potential in the super-premium
-segment. He felt the vibrating, thin-blade razor would become the new standard in men's shaving
-and would quickly gain mass appeal. However, Randall had to consider the optimal. positioning
-strategy in the context of the entire company. He knew Paramount Pro's product manager,
-Rosenberg, would vehemently oppose a mwtre'am launch, &d he had to consider if launching as a
-niche product for a year or two might be a better move. Randall hoped that an economic analysis
-would help him find the right answer. He planned to build a simpleqrofit-and-loss pro forma that
-took into account the effects of cannibalization on Paramount Pro and Avail. Randall also realized it
-would be important to develop contingency plans to address diffeient scenarios. After this was'
-complete, he could make. a more informed decision about a positioning recommendation and then get
-started on brand name arid budget recommendations.
---- page 9 ---
-.   . 4249   1 Clean Edge Razor. Splitting Hairs in Product Positioning
-Exhibit.1 Behavior Segmentation of Nondisposable Razor Consumers
-Involved Razor Users   Involved Razor Users   Uninvolved Razor Users
-'   SociallEmotional Shavers   Aesthetic Shavers   Maintenance Shavers
-(39% of Nondisposable Razor ,Users)   (28% of Nondisposable Razor Users)   (33% of Nondisposable Razor Users)
-Differentiate among products.   Search for products that most   View products as ~e same. Lack of
-Search for products based on both   - effectively remove hair.   interest in product category.
-functionality and messaging.
-Shaving as an essential part of a daily   .   Shaving is consistently done to   Shaving routine is inconsistent.
-grooming ritual.   remove unwanted hair:
-Shaving makes them feel more   Shaving is a means to smooth skin   Shaving is a chore they try to finish as
-attractive and confident.   -   '   .   they desire.   .   quickly as possible. --.   . . . - . - . .. . ..... . . . - . . .....
-Note: Information is fictional.
-Exhibit 2 Nondisposable Razor Media Advertising ~xpenditures," 2009-2010E
-2009   .   .   20XOE
-Media ($ in millions)   Media ($ in millions)
-Benet & Klein
-Prince
-Paramount
-Sirnpsons
-Radiance
-I   I
-a Media advertising expenditures does not include trade or consumer promotion ,   .
-.   .   . . . . . . . . .
-Exhibit 3 Advertising and Promotion Expenditures for
-Nondisposable Paramount Razors: 2009-2010E ($ in millions)
-2010E
-$ 19.1   $ 20.2
-Consumer Promotions   $ 11.5   $ 13.1 .
-Trade Promotions   .. $ 13.7
-Total 0   $ 44.3   $ 48.3
---- page 10 ---
-.   .   Clean Edge Razor: Splitting Hairs in Product Positioning   1 4249
-Exhibit 4 % of Nondisposable Razor Sales by Retail Channel: 2007-2010E
-2007   2008   2009   2010E
-Val(%)   $(%I   Val(%)   $(%I   . Val(%)   $(%I   Vol (%I   $(%)
-Food Stores   45   . 47   44   44   42   42   42   43
-Drug Stores   32   33   31   33   29   33   29   31
-Mass merchandisers   19   17   18   18   21   20   21   21
-Club Stores   1   1   4   3   5   3   5   3
-0 ther   3   2   3   2   3   2   3   2
-Note: Information is fictional.
-.   .   . . . - . - , . . . -
-Exhibit 5 Nondisposable Razor Unit and Dollar Market Share by Brand: 2007-2010E
-2007   2008   2009   2010E
-Brand   Vol (%I   $ (%)   Val(%)   $ (%)   Val(%)   $ (%)   Val(%)   $ (%)
-Paramount
-Paramount Pro   12.0   12.6   13.7   15.2   .   16.9   18.5   17.3   18.5
-Paramount Avail   3.5   A&   -62   6.4   L!A!   4.9- 2 3
-Total   20.5   19.2   21.8   21.4   23.3   23.4   22.2   21.4
-.   .   ....   .   . .
-Prince
-Cogent   24.0   31.7   ,   24.5   32.6   22.1   .29.4   16.1   .   . 21.3 ..   .
-Cogent Plus   0.0   0.0   0.0 0.0   1.0   - 1.3 .   -32'   4.9
-Total   ' 24.0   31.7   24.5   32.6   ' 23.1   30.7   19.8   26.2
-Benet & Klein   .   . .
-Vitric .   18.1   20.5   . 18.2   ,   20.0   17.8   20.0   15.2   -   -   -.-' .15,8
-Vitric Advanced   2.5   2.7   .   1.6   1.9   0.7   '   1.1   -. - 0.2.   - . - .   - 0.1
-Vitric Master   .   Ju -!U. .AX!   A!&   0.7   -02   -44   .   - 2'
-Total   20.6   23.2   19.8   21.9   19.2   22.0   19.4   21.1
-Radiance
-Naiv   .   ,-!a 0.0   0.0   All 2   0.0   2.0   26.
-Total   0.0   0.0   0.0   .   . 0.0   0.0   0.0   . 2.0 ..   . . , . . . 2.6
-Simpsons
-Tempest   - 0.0   0.0 - 0.0   0.0   422   .   .- 1.1   . - 4.6   5.7
-Total   0.0   0.0   0.0   0.0   - 0.9   1.1   '   4.6 '.'.'   5.7
-Other   34.9   25.9   33.9   ' ,   24.1   33.5   22.8   32.0 . ..   -   23.0
---- page 11 ---
-4249   1 Clean Edge Razor: Splitting Hairs in Product Positioning
-Exhibit 6   Select Nondisposable Razor Brand price^:^ 2009 Suggested Retail Price
-Standard Refill
-Cartridges
-Razor   (Average 4-count)
-Super-premium
-Cogent Plus   $12.50   $10.00
-Cogent   $11.19   $ 8.89
-Naivb   $11.80   $ 9.45
-Vitric Advanced   $11.20   $ 8.99
-Vitric Master   $10.85   $ 8.65
-Tempest   $10.99   $ 8.75
-Moderate   .
-Paramount Pro   $ 9.50   .   $ 7.55
-Vitric   .$ 8.89   $ 7.00
-Value
-Paramount Avail   .   $ 5.75   $ 4.60
-a   able includes only key brands in the market. Prices are representative of most popular
-SKU in the brand category. Prices for other SKUs wiU vary.
-Projected price at launch
-Exhibit 7 Financial Forecasts: Alternative Positioning Scenarios for Clean Edge
-Niche Positioning Mainstream Positioning
-Ppnned capawty Razor urut volume (rmllions of units)   Year 1   1 0   33
-Year 2   1.5   4 0
-Planned capacity Cartridgea unit volume (millions of units)   Year 1   4 0   -   9.9
-Year 2   10.0   21.9
-Capacity costs ($ in millions)   Year 1   $ 0.61   $ 1.71
-Year 2   $ 0.87   $ 2.45
-Razor: Production per unit cost
-Razor: Manufacturer price
-Razor: Suggested price
-Cartridge:a Average Production unit cost
-Cartridge:a Average Manufacturer price
-- Cartr.idge:a Average Suggested price
-t
-Advertising ($ in millions)   Year 1   $   7
-Year 2   $   7
-Consumer promotions ($ in.millions)   Year 1   $   6
-Year 2   $   6
-Trade promotions ($ in millions)   Year 1   $   2   $ '   6
-Year 2   $   3   .   $   8
-a Carhidge unit assumes average 4xount refill package.   -
 ````

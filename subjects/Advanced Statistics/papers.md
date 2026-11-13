@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/ADVANCED STATISTICS/Advance Statistics Batch 2023-24 Final Batch 2022-23 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24/ 4 /2024
 - Text: ocr (2 pages), mean OCR confidence 88.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMW’?S:'NMIMS
@@ -70,7 +71,6 @@ a0 ‘
 
 Moa \
 
-0 mnerercr nate Spence Ppa Gon
 
 0 2 4 6 8 10
 Component Number
@@ -157,6 +157,7 @@ stationary & weakly dependent.
 - Programmes: M TECH / DATA SCIENCE
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/ADVANCED STATISTICS/Advanced Statistics Batch 2022-23 Final0001.pdf`
 - Text: ocr (4 pages), mean OCR confidence 83.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -330,7 +331,6 @@ Suppose there are k different categories of a single source of variation as show
 “Populations 4} ¥
 Ay V1,11 Y1,20 + Ving
 Az Y2,11V2,29 + V2,nz
-Aj Vie Vizr er Vij or Ving
 Ax Viet» Vie 20 +1 Vieng
 
 Using conventional naming, define the fixed effect ANOVA model with assumptions. Find the

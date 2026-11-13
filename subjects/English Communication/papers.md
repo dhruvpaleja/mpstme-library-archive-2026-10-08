@@ -150,6 +150,226 @@ x
 3
 ````
 
+## 2022-23 · Re-Exam · Sem 2 · paper a3af252b3a6c
+
+- Departments: Civil, Common (all branches)
+- Programmes: B TECH, B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGLISH COMMUNICATION/English Communication, Sem-II, Batch 2021-22 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (5 pages), mean OCR confidence 92.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-23
+
+Program: B Tech IT, CE, CS, EXTC, MXTC, DS, CSE-CS, MECH, Civil Year: I/II Pee
+Sem II/ B Tech INTG Civil Sem VI
+Subject: English Communication (2021-22)
+Date: 13} 05] 2023
+Marks: 100
+
+aN
+.N
+
+Re-examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3) In all __5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) For grammar questions, write complete correct sentences for answers.
+8) Assume Suitable data if necessary.
+Qi .
+Answer briefly: [20]
+COol- a. State one synonym each of the following words: ALIEN, BUSY (2
+2/SO-3/7
+marks] (4)
+State one antonym each of the following words: DEMOLISH, GATHER
+[2 marks]
+CO1,2,3/ | b. Add a suitable indefinite article (a/an) before the following words/phrases:
+SO3-7 : :
+i. expensive bag
+ii. hour [4]
+iii. university
+iv. slice of bread
+So bee Cs Mention any 4 parts from the structure of an email. [4]
+CO2,C04 | d. What are the requirements for color and visuals in a formal PPT
+/$03-7 ; [4]
+presentation?
+CO1,CO2 | e. Mention 2 DOs and 2 DON’ Ts of a Group Discussion. [4]
+
+/CO3,7
+--- page 2 ---
+1@ | [20]
+
+a. Choose appropriate prefixes / suffixes for the following root words from
+CO1/CO2
+
+/CO4/SO-
+3st
+
+the given list in brackets:
+(ly, un, ful, ness, im, in, dis) [10]
+Connect, help, approve, hand, satisfy, proper, do, possible, intelligent,
+
+hearten
+
+b. Identify any ten prepositions in the following passage:
+Frankness may be among the most overrated of virtues! And here‘s why.
+Because unrestricted and unfiltered frankness is a recipe for breaking [10]
+relationships, even the closest ones. Such frankness is understandable,
+acceptable and even ‘cute! only in children under the age of five but for
+
+adults this kind of frankness is not acceptable.
+
+Q3 [20]
+
+CO1,CO2 | a. Rewrite the following paragraphs using appropriate pronouns.
+'$03,7 James and Mary were siblings. One day James and Mary returned from
+school. James and Mary were very hungry and went straight into the kitchen.
+James and Mary wanted to eat something. In the kitchen James and Mary
+saw a cat. The cat was drinking the milk mother had kept for James and 110]
+Mary. James ran out screaming. James was scared. James was always afraid
+of cats. Mary was a brave girl. Mary was not afraid of anything. Mary
+shooed the cat away. The cat ran out. James saw the cat running away. James
+came back into the kitchen. James praised Mary for Mary’s courage. Mary
+
+thanked James.
+
+CO4/SO3 | b.
+
+* Compose an essay of around 250 words on — My First Day in College [10]
+
+Q4
+[20]
+
+CO1,2,3/ | a. Read the passage and answer the following questions:
+S$03,7 [10]
+--- page 3 ---
+The choices we make on a daily basis—wearing a seatbelt, lifting heavy
+objects correctly or purposely staying out of any dangerous situation—can
+either ensure our safety or bring about potentially harmful circumstances.
+You and I need to make a decision that we are going to get our lives in order.
+Exercising self-control, self-discipline and establishing boundaries and
+borders in our lives are some of the most important things we can do. A life
+without discipline is one that’s filled with carelessness.
+
+We can think it’s kind of exciting to live life on the edge. We like the image
+of “Yeah! That’s me! Living on the edge! Woo-hoo!” It’s become a popular
+way to look at life. But if you see, even highways have lines, which provide
+margins for our safety while we’re driving. If we go over one'side, we'll go
+into the ditch. If we cross over the line in the middle, we could get killed.
+And we like those lines because they help to keep us safe. Sometimes we
+don’t even realize how lines help to keep us safe.
+
+I’m not proud of this, but for the first 20 years of my life at work, I ignored
+my limits. I felt horrible, physically, most of the time. I used to tell myself
+“I know I have limits and that I’ve reached them, but I’m going to ignore
+them and see if or how long I can get by with it.” I ran to doctors, trying to
+make myself feel better through pills, vitamins, natural stuff and anything |
+could get my hands on. Some of the doctors would tell me, “It’s just stress.”
+That just made me mad. | thought stress meant you don’t like what you do
+or can’t handle life, and I love what I do. But I kept pushing myself,
+traveling, doing speaking engagements and so on— simply exhausting
+myself.
+
+Finally, I understood I was living an unsustainable life and needed to make
+some changes in my outlook and lifestyle.
+
+You and | don’t have to be like everyone else or keep up with anyone else.
+Each of us needs to be exactly the way we are, and we don’t have to
+apologize for it. We’re not all alike and we need to find a comfort zone in
+which we can enjoy our lives instead of making ourselves sick with an
+
+overload of stress and pressure.
+--- page 4 ---
+i. Why has the concept, ‘living on the edge” become popular?
+[2 marks]
+
+ii. What does the phrase “potentially harmful circumstances”
+refers to? [2 marks]
+
+ili. State the two meanings of ‘outlook’, as used in the passage.
+[2 marks]
+
+iv. What is the message conveyed in the last paragraph of the
+
+passage? [2 marks]
+
+v. Which examples does the author use to explain the
+importance of discipline and boundaries in our lives? bas
+[2 marks]
+
+CO04/SO3 Design 5 slides for a presentation on the topic — How to prepare for an [10]
+7 interview?
+Q5
+
+[20]
+CO4/SO3 Create a poster on the topic — Causes and Consequences of Global 10]
+7 Warming
+CO1,2/S Compose a cover letter for applying for a job in a company of your choice 110]
+Bat and a position of your choice. Assume suitable data.
+Q6
+
+[20]
+
+LX
+C01,2/SO Develop a paragraph of 250 words on the topic — Slow and Steady wins
+3,7 {10]
+the Race
+
+COMSOS Develop an elevator pitch on the topic of your choice. [10]
+Q7
+CO1,2,3/
+
+[20]
+SO3,7
+
+Create a precis (60 words) of the following passage and include a title for [10]
+
+the same.
+--- page 5 ---
+Almost every organism has the tendency to react to certain stimuli for
+survival. This reaction to each and every situation has an evolutionary basis
+of adaptation. The study of human emotions dates back to the 19th century
+and psychologists have since then discovered many reasons for every
+emotion, yet these are just theories. The arousal of emotions and their
+assumed structures is said to occur due to repeated encounters with a
+situation foilowed by the adaptation of the encounter. Human emotions have
+been linked to adaptively regulate emotion-gathering mechanisms. The
+emotion of fear which is associated with ancient parts of the brain has
+presumably evolved among our pre-mammal ancestors while the emotion
+of a mother’s love called the ‘filial emotion’ has seen to evolve among early
+mammals. Various emotions work as manipulative strategies that favours
+survival. Feigning emotions by an accused person may help him be saved
+from the punishment. An exaggerated display of anger is also associated
+
+with manipulating or threatening someone.
+
+Despite there being several emotions for various events, ironically the most
+interesting emotion is the emotion of disgust. Disgust is aroused when the
+body senses a danger to the immunity or the physiology of the human. The
+disgusted memory is associated with alerting the brain of a potentially
+dangerous substance. A few studies have shown that the encoding triggered
+in adaptive memory for problems is stronger than any other behaviour. This
+makes us instantly have a disgusted expression at the sight of something that
+makes us uncomfortable or uneasy. These expressions are also closely
+
+linked to self-protective communication.
+
+Write a letter report to the Dean updating her on the cultural night that you
+
+[10]
+(as a Cultural Committee Head) recently organized.
+````
+
 ## 2021-22 · Final-Exam · Sem 2 · paper 3ca48f03b53f
 
 - Departments: Civil, Common (all branches)
@@ -701,224 +921,4 @@ sentence as a complex sentence)
 pregnant?
 
 a/y
-````
-
-## 2021-22 · Re-Exam · Sem 2 · paper a3af252b3a6c
-
-- Departments: Civil, Common (all branches)
-- Programmes: B TECH, B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGLISH COMMUNICATION/English Communication, Sem-II, Batch 2021-22 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (5 pages), mean OCR confidence 92.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-23
-
-Program: B Tech IT, CE, CS, EXTC, MXTC, DS, CSE-CS, MECH, Civil Year: I/II Pee
-Sem II/ B Tech INTG Civil Sem VI
-Subject: English Communication (2021-22)
-Date: 13} 05] 2023
-Marks: 100
-
-aN
-.N
-
-Re-examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3) In all __5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) For grammar questions, write complete correct sentences for answers.
-8) Assume Suitable data if necessary.
-Qi .
-Answer briefly: [20]
-COol- a. State one synonym each of the following words: ALIEN, BUSY (2
-2/SO-3/7
-marks] (4)
-State one antonym each of the following words: DEMOLISH, GATHER
-[2 marks]
-CO1,2,3/ | b. Add a suitable indefinite article (a/an) before the following words/phrases:
-SO3-7 : :
-i. expensive bag
-ii. hour [4]
-iii. university
-iv. slice of bread
-So bee Cs Mention any 4 parts from the structure of an email. [4]
-CO2,C04 | d. What are the requirements for color and visuals in a formal PPT
-/$03-7 ; [4]
-presentation?
-CO1,CO2 | e. Mention 2 DOs and 2 DON’ Ts of a Group Discussion. [4]
-
-/CO3,7
---- page 2 ---
-1@ | [20]
-
-a. Choose appropriate prefixes / suffixes for the following root words from
-CO1/CO2
-
-/CO4/SO-
-3st
-
-the given list in brackets:
-(ly, un, ful, ness, im, in, dis) [10]
-Connect, help, approve, hand, satisfy, proper, do, possible, intelligent,
-
-hearten
-
-b. Identify any ten prepositions in the following passage:
-Frankness may be among the most overrated of virtues! And here‘s why.
-Because unrestricted and unfiltered frankness is a recipe for breaking [10]
-relationships, even the closest ones. Such frankness is understandable,
-acceptable and even ‘cute! only in children under the age of five but for
-
-adults this kind of frankness is not acceptable.
-
-Q3 [20]
-
-CO1,CO2 | a. Rewrite the following paragraphs using appropriate pronouns.
-'$03,7 James and Mary were siblings. One day James and Mary returned from
-school. James and Mary were very hungry and went straight into the kitchen.
-James and Mary wanted to eat something. In the kitchen James and Mary
-saw a cat. The cat was drinking the milk mother had kept for James and 110]
-Mary. James ran out screaming. James was scared. James was always afraid
-of cats. Mary was a brave girl. Mary was not afraid of anything. Mary
-shooed the cat away. The cat ran out. James saw the cat running away. James
-came back into the kitchen. James praised Mary for Mary’s courage. Mary
-
-thanked James.
-
-CO4/SO3 | b.
-
-* Compose an essay of around 250 words on — My First Day in College [10]
-
-Q4
-[20]
-
-CO1,2,3/ | a. Read the passage and answer the following questions:
-S$03,7 [10]
---- page 3 ---
-The choices we make on a daily basis—wearing a seatbelt, lifting heavy
-objects correctly or purposely staying out of any dangerous situation—can
-either ensure our safety or bring about potentially harmful circumstances.
-You and I need to make a decision that we are going to get our lives in order.
-Exercising self-control, self-discipline and establishing boundaries and
-borders in our lives are some of the most important things we can do. A life
-without discipline is one that’s filled with carelessness.
-
-We can think it’s kind of exciting to live life on the edge. We like the image
-of “Yeah! That’s me! Living on the edge! Woo-hoo!” It’s become a popular
-way to look at life. But if you see, even highways have lines, which provide
-margins for our safety while we’re driving. If we go over one'side, we'll go
-into the ditch. If we cross over the line in the middle, we could get killed.
-And we like those lines because they help to keep us safe. Sometimes we
-don’t even realize how lines help to keep us safe.
-
-I’m not proud of this, but for the first 20 years of my life at work, I ignored
-my limits. I felt horrible, physically, most of the time. I used to tell myself
-“I know I have limits and that I’ve reached them, but I’m going to ignore
-them and see if or how long I can get by with it.” I ran to doctors, trying to
-make myself feel better through pills, vitamins, natural stuff and anything |
-could get my hands on. Some of the doctors would tell me, “It’s just stress.”
-That just made me mad. | thought stress meant you don’t like what you do
-or can’t handle life, and I love what I do. But I kept pushing myself,
-traveling, doing speaking engagements and so on— simply exhausting
-myself.
-
-Finally, I understood I was living an unsustainable life and needed to make
-some changes in my outlook and lifestyle.
-
-You and | don’t have to be like everyone else or keep up with anyone else.
-Each of us needs to be exactly the way we are, and we don’t have to
-apologize for it. We’re not all alike and we need to find a comfort zone in
-which we can enjoy our lives instead of making ourselves sick with an
-
-overload of stress and pressure.
---- page 4 ---
-i. Why has the concept, ‘living on the edge” become popular?
-[2 marks]
-
-ii. What does the phrase “potentially harmful circumstances”
-refers to? [2 marks]
-
-ili. State the two meanings of ‘outlook’, as used in the passage.
-[2 marks]
-
-iv. What is the message conveyed in the last paragraph of the
-
-passage? [2 marks]
-
-v. Which examples does the author use to explain the
-importance of discipline and boundaries in our lives? bas
-[2 marks]
-
-CO04/SO3 Design 5 slides for a presentation on the topic — How to prepare for an [10]
-7 interview?
-Q5
-
-[20]
-CO4/SO3 Create a poster on the topic — Causes and Consequences of Global 10]
-7 Warming
-CO1,2/S Compose a cover letter for applying for a job in a company of your choice 110]
-Bat and a position of your choice. Assume suitable data.
-Q6
-
-[20]
-
-LX
-C01,2/SO Develop a paragraph of 250 words on the topic — Slow and Steady wins
-3,7 {10]
-the Race
-
-COMSOS Develop an elevator pitch on the topic of your choice. [10]
-Q7
-CO1,2,3/
-
-[20]
-SO3,7
-
-Create a precis (60 words) of the following passage and include a title for [10]
-
-the same.
---- page 5 ---
-Almost every organism has the tendency to react to certain stimuli for
-survival. This reaction to each and every situation has an evolutionary basis
-of adaptation. The study of human emotions dates back to the 19th century
-and psychologists have since then discovered many reasons for every
-emotion, yet these are just theories. The arousal of emotions and their
-assumed structures is said to occur due to repeated encounters with a
-situation foilowed by the adaptation of the encounter. Human emotions have
-been linked to adaptively regulate emotion-gathering mechanisms. The
-emotion of fear which is associated with ancient parts of the brain has
-presumably evolved among our pre-mammal ancestors while the emotion
-of a mother’s love called the ‘filial emotion’ has seen to evolve among early
-mammals. Various emotions work as manipulative strategies that favours
-survival. Feigning emotions by an accused person may help him be saved
-from the punishment. An exaggerated display of anger is also associated
-
-with manipulating or threatening someone.
-
-Despite there being several emotions for various events, ironically the most
-interesting emotion is the emotion of disgust. Disgust is aroused when the
-body senses a danger to the immunity or the physiology of the human. The
-disgusted memory is associated with alerting the brain of a potentially
-dangerous substance. A few studies have shown that the encoding triggered
-in adaptive memory for problems is stronger than any other behaviour. This
-makes us instantly have a disgusted expression at the sight of something that
-makes us uncomfortable or uneasy. These expressions are also closely
-
-linked to self-protective communication.
-
-Write a letter report to the Dean updating her on the cultural night that you
-
-[10]
-(as a Cultural Committee Head) recently organized.
 ````

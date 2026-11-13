@@ -4,6 +4,105 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2017-18 · Final-Exam · Sem 3 · paper 99a0f7664d45
+
+- Departments: Electrical
+- Programmes: B TECH / ELECTRICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ENERGY RESOURCES AND GENERATION/ENERGY RESOURCES AND GENERATION (ELECTRICAL), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 28 November 2017
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+v4 SVKM’s.NMIMS ¢
+f MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
+
+Programme: B. Tech (ELECTRICAL) / Year: II, Semester: III
+
+ro
+
+Academic Year: 2017-2018
+
+Subject: Energy Resources and Generation vite a,
+r gui 0TE OF By,
+Marks: 70 « : Seu 2A
+Date: 28 November 2017 _- Time: 10.00 am to" 7.00 pm Ne
+rasan af i? 57am e Ye
+Durations: 3 ( rs) (A 2Y DE
+No. of Pages: () (Zed = A BF p&
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any four of the following: [3.5X04=14]
+
+a) Define the terms
+Insolation, Altitude angle and Incident angle.
+b) Compare direct contact condensers and surface condensers.
+
+c) Explain mechanical ash handling system.
+
+d) Draw the schematic diagram of diesel power plant.
+e) Explain propeller type wind turbine.
+
+f) What are the advantages of fuel cell?
+
+Q.2 a) State the function, advantages and types of air preheaters. [7]
+| Describe any one type of air preheater with the help of neat
+sketch.
+ex: b) How the hydro power plants are classified based on head? [7]
+Explain them briefly.
+
+if
+--- page 2 ---
+4
+
+Q.3 a) With the help of suitable diagram discuss various [7]
+components of nuclear power plants.
+b) Describe the principle and construction of silver disc [7]
+pyrheliometer.
+
+Q.4 a) What is the principle behind solar energy conversion into [7]
+heat?
+b) Derive the expression for solar radiation on tilted surface [7]
+
+knowing the radiation falling on horizontal surface.
+
+Q.5 a) Write a short note on polymer electrolyte membrane fuel cell. [7]
+
+b) Atmospheric air having the wind velocity of 20 m/s has the [7]
+density of 1.22 Kg/m? at high altitude where the wind mill is
+installed. The rotor diameter is 20 m and it runs at 60 rpm. The
+actual efficiency of the wind turbine is 35%. Find the maximum
+power that can be produced and the actual power produced.
+
+Q.6 a) Describe the different parameters that need to be considered —[7]
+while selecting the site for wind power plant.
+
+b) How tides are caused? Discuss the working of single basin [7]
+type tidal power plant.
+Q.7 Write short note on (any two) [7 X 2=14]
+
+a) Biomass resources
+b) Ocean thermal energy conversion
+
+c) Phosphoric acid fuel cell
+````
+
 ## 2017-18 · Final-Exam · Sem 3 · paper a84e9a84e686
 
 - Departments: Electrical
@@ -68,6 +167,99 @@ b) Fuel cell operation
 c) Closed cycle OTEC system
 d) Power generation using biomass
 -
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 450e6cad07e4
+
+- Departments: Electrical
+- Programmes: B TECH / ELECTRICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ENERGY RESOURCES AND GENERATION/ENERGY RESOURCES AND GENERATION (ELECTRICAL) BATCH 16-17 RE EXAM.pdf`
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (ELECTRICAL) Year: II + Semester: III -
+
+h: 2016-17
+Bate Academic Year: 2017-2018 -
+
+ject: Resources and Generation ~ .
+
+j Subject: Energy Marke: wx
+ber 2017 * Time: 10,00° .00 2,
+Date: 28 November Durationpy’3 cere Ne
+No. of Pagest. 125.4 kW i
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks,
+7) Assume suitable data if necessary.
+
+Q.1 Attempt any four of the following: [3.5x04=14]
+
+a) Why ash handling system is needed for a thermal power
+plants?
+
+b) Differentiate nuclear fission and fusion.
+
+c) Define the terms:
+
+Solar constant, Altitude angle and Incident angle
+d) Give applications of wind energy,
+
+e) Draw the schematic diagram of alkaline fuel cell and give
+the list of main components of it.
+
+f) What is the basic principle of ocean thermal energy
+conversion?
+
+pits Q2 a) Discuss in detail the various factors which must be considered [7]
+¢ while selecting the site for steam power plants.
+b) Draw a neat sketch of a nuclear reactor and state the functions [7]
+of each component.
+
+aya
+--- page 2 ---
+Q.3 a) Write a short note on classification of hydro power plants [7]
+based on load.
+b) Explain binding energy and mass defect. [7]
+Calculate the mass defect and BE per nucleon of oxygen. Given
+Mp=1.0072 amu, Mn = 1.008665 amu, me= 0.00055 amu.
+(Atomic mass of oxygen = 15.99491 amu)
+
+Q.4 a) What is the basic principle of pyrheliometer? Describe [7]
+angstrom pyrheliometer. ;
+b) Derive the expression for solar radiation on tilted surface [7]
+
+knowing the radiation falling on horizontal surface.
+
+Q.5 a) Write a short note on polymer electrolyte membrane fuel cell. [7]
+b) Describe the different components of wind energy conversion [7]
+system.
+Q.6 a) Write a note on horizontal axis wind turbine with examples. [7]
+What are their advantages over vertical axis wind turbine?
+b) Describe the closed cycle OTEC system. [7]
+Q.7 Write short note on (any two) [7 X 2=14]
+
+a) Biomass resources
+b) Liquid flat plate collectors
+
+c) Recuperative air preheater
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper 8f9b48e46bb3
@@ -284,196 +476,4 @@ a) Solar air heaters
 b) Induced draught cooling tower -
 
 c) Ocean thermal energy conversion
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 450e6cad07e4
-
-- Departments: Electrical
-- Programmes: B TECH / ELECTRICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ENERGY RESOURCES AND GENERATION/ENERGY RESOURCES AND GENERATION (ELECTRICAL) BATCH 16-17 RE EXAM.pdf`
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (ELECTRICAL) Year: II + Semester: III -
-
-h: 2016-17
-Bate Academic Year: 2017-2018 -
-
-ject: Resources and Generation ~ .
-
-j Subject: Energy Marke: wx
-ber 2017 * Time: 10,00° .00 2,
-Date: 28 November Durationpy’3 cere Ne
-No. of Pagest. 125.4 kW i
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks,
-7) Assume suitable data if necessary.
-
-Q.1 Attempt any four of the following: [3.5x04=14]
-
-a) Why ash handling system is needed for a thermal power
-plants?
-
-b) Differentiate nuclear fission and fusion.
-
-c) Define the terms:
-
-Solar constant, Altitude angle and Incident angle
-d) Give applications of wind energy,
-
-e) Draw the schematic diagram of alkaline fuel cell and give
-the list of main components of it.
-
-f) What is the basic principle of ocean thermal energy
-conversion?
-
-pits Q2 a) Discuss in detail the various factors which must be considered [7]
-¢ while selecting the site for steam power plants.
-b) Draw a neat sketch of a nuclear reactor and state the functions [7]
-of each component.
-
-aya
---- page 2 ---
-Q.3 a) Write a short note on classification of hydro power plants [7]
-based on load.
-b) Explain binding energy and mass defect. [7]
-Calculate the mass defect and BE per nucleon of oxygen. Given
-Mp=1.0072 amu, Mn = 1.008665 amu, me= 0.00055 amu.
-(Atomic mass of oxygen = 15.99491 amu)
-
-Q.4 a) What is the basic principle of pyrheliometer? Describe [7]
-angstrom pyrheliometer. ;
-b) Derive the expression for solar radiation on tilted surface [7]
-
-knowing the radiation falling on horizontal surface.
-
-Q.5 a) Write a short note on polymer electrolyte membrane fuel cell. [7]
-b) Describe the different components of wind energy conversion [7]
-system.
-Q.6 a) Write a note on horizontal axis wind turbine with examples. [7]
-What are their advantages over vertical axis wind turbine?
-b) Describe the closed cycle OTEC system. [7]
-Q.7 Write short note on (any two) [7 X 2=14]
-
-a) Biomass resources
-b) Liquid flat plate collectors
-
-c) Recuperative air preheater
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 99a0f7664d45
-
-- Departments: Electrical
-- Programmes: B TECH / ELECTRICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ENERGY RESOURCES AND GENERATION/ENERGY RESOURCES AND GENERATION (ELECTRICAL), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 28 November 2017
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-v4 SVKM’s.NMIMS ¢
-f MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
-
-Programme: B. Tech (ELECTRICAL) / Year: II, Semester: III
-
-ro
-
-Academic Year: 2017-2018
-
-Subject: Energy Resources and Generation vite a,
-r gui 0TE OF By,
-Marks: 70 « : Seu 2A
-Date: 28 November 2017 _- Time: 10.00 am to" 7.00 pm Ne
-rasan af i? 57am e Ye
-Durations: 3 ( rs) (A 2Y DE
-No. of Pages: () (Zed = A BF p&
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt any four of the following: [3.5X04=14]
-
-a) Define the terms
-Insolation, Altitude angle and Incident angle.
-b) Compare direct contact condensers and surface condensers.
-
-c) Explain mechanical ash handling system.
-
-d) Draw the schematic diagram of diesel power plant.
-e) Explain propeller type wind turbine.
-
-f) What are the advantages of fuel cell?
-
-Q.2 a) State the function, advantages and types of air preheaters. [7]
-| Describe any one type of air preheater with the help of neat
-sketch.
-ex: b) How the hydro power plants are classified based on head? [7]
-Explain them briefly.
-
-if
---- page 2 ---
-4
-
-Q.3 a) With the help of suitable diagram discuss various [7]
-components of nuclear power plants.
-b) Describe the principle and construction of silver disc [7]
-pyrheliometer.
-
-Q.4 a) What is the principle behind solar energy conversion into [7]
-heat?
-b) Derive the expression for solar radiation on tilted surface [7]
-
-knowing the radiation falling on horizontal surface.
-
-Q.5 a) Write a short note on polymer electrolyte membrane fuel cell. [7]
-
-b) Atmospheric air having the wind velocity of 20 m/s has the [7]
-density of 1.22 Kg/m? at high altitude where the wind mill is
-installed. The rotor diameter is 20 m and it runs at 60 rpm. The
-actual efficiency of the wind turbine is 35%. Find the maximum
-power that can be produced and the actual power produced.
-
-Q.6 a) Describe the different parameters that need to be considered —[7]
-while selecting the site for wind power plant.
-
-b) How tides are caused? Discuss the working of single basin [7]
-type tidal power plant.
-Q.7 Write short note on (any two) [7 X 2=14]
-
-a) Biomass resources
-b) Ocean thermal energy conversion
-
-c) Phosphoric acid fuel cell
 ````

@@ -139,6 +139,193 @@ c. Deductible,
 } x
 ````
 
+## 2012-13 · Exam not stated · Trim 15 · paper c9793afbeab5
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/CONTRACTS & CLAIM MANAGEMENT/Scan 009.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 17/4/2013
+- Text: text (5 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Patel School Of Technolow Management
+'amme: MBA (Tech) -ALL STREAMS Year: V Trimester:
+Academic Year : 2012-2013
+I   Subject:   CONTRACTS AND CLAIMS MANAGEMENT   Marks:   50
+Time:   2.00pm To 4.00pm
+Date:   17/4/2013   Duration:   2   hrs.
+Final - Examination
+Instructions: Candidates should read carehlly the instruction printed on the question
+paper and on the cover ofthe Answer Book, which is provided for their use.
+NB.
+1. Question No. 1 of one mark each.
+2. All questions are compulsory.
+3. In all 5 questions are to be attempted.
+tf, Answer to each new question to be started on a fiesh page.
+5 Figures in brackets on the right hand side indicate full marks.
+Question 1 MCQS (Marks 20)
+1. The important element(s) of a contract of insurance is / are
+a. Doctrine of Reinstatement,
+b. Doctrine of Good kith,
+c. Doctrine of Contribution,
+d. Res ipsa loquitor,
+e. All the above.
+2. Which of the fillowing is not a classification of claims?
+a. First Party claims,
+b. Second Party Claims,
+c. Third Party Claims,
+d. Joint family Claims,
+e. Group Insurance claims.
+3. The person to whom the insured transfers the policy is called the
+a. Nominee,
+b. Transferee,
+#   c. Legal Heir,
+d. Creditor,
+e. Debtor.
+--- page 2 ---
+4.   It is the right ofthe insured
+a. To take miti 2 ation
+b. To transfer t e policy to other person,
+c. To maintain good faith,
+d. To give notice to loss to the insurer,
+e. To provide the loss and suffkrings.
+5. The most important parameter which determines the process of settlement of
+claims is the
+a. Type of policy
+b. Type of insurance contract,
+c. Amount of claim,
+d . Face value of the policy,
+e. Special clauses of the policy.
+6. Multiple claims in India are
+a. On a first come first serve basis,
+b. On agreements of claimants,
+c. Dependant upon the nature of insurance,
+d. Dependant upon the judiciary,
+e. As per the insurance Act.
+7. Reciprocal claims should be
+a. Dependent
+b. Independent
+c. Mutually exclusive
+d. Any of the above,
+e. Both (a)or(b)above.
+8. The insurer has to adhere to the principle ofthe law to indemnifying the insured /
+victim in case of
+a. Burglary insurance,
+b. Plate insurance,
+c. Compulsory insurance,
+d. Marine insurance,
+c. Fire insurance.
+9. The asset which is the subject matter of insurance can be covered for extra risks
+4   by
+a. Proving more interest,
+b. Adding more warranties,
+c. Adding more conditions,
+d. Payment of additional premium,
+e. All the above.
+--- page 3 ---
+10. After the decision to pay the claim has been made by the insurer, the first step is
+to
+a. To identify the claimant,
+b. To decide the amount of claim,
+c. Investigate the cause of loss,
+d. Ask for proof of loss,
+e. See whether the terms and conditions have been complied with or not.
+1 1. Which of the fbllowing is not a legal function of claims handling?
+a. Verification of the claims application,
+b. Comparison with the pmvisions of the policy document,
+c. Verification of the legalities of insurable interest in the claim.
+d. Assessment of loss suffered,
+e. Allocation of budget fbr the payment of the claim.
+12. Which ofthe following is not the main fact?r affecting claims settlement?
+a. Policy should be in force on the date ofthe event,
+b. The risk and the cause of the event should be covered by the policy,
+c. Presence of insurable interest,
+d. Sufficient documentary evidence should be presented along with the claim
+application form,
+e. Loss assessment estimation.
+13. Which of the fbllowing is an / are option(s) available to the insurer for settling the
+claim?
+a. Pay the claim as per the recommendation of the surveyor,
+b. Replace the asset to provide similar type of services or purchase a similar asset
+from the market,
+c. Make ex gratia payment to the assured,
+d. Reject the claim based on reasonable grounds,
+e. All the above.
+14. Which ofthe following is true with respect to marine insurance?
+a.   It is a contract of indemnity.
+b.   It covers losses on inland waters or any land risk which is incidental to the sea
+voyage,
+c. Marine perils cover fire, war, seizure, captures, etc.
+d. Rain as aperil is notcovered undermarine insurance,
+e. Perils under marine insurance refer to accidents or casualties.
+4
+--- page 4 ---
+15. Which ofthe following is /are the essential &ature(s) of an insurable interest?
+a. Presence of insurable. interest s a must to cover the risk in mqine insurance,
+b. Every person who is mterested in a manne adventure has an msurable ~nterest in
+the provision ofthe Act.
+c. The payment of claim to the assured by the insured under the policy is dependent
+upon the presence of insurable interest in the subject matter of the policy,
+d. The essence of an insurable interest is that there should be a physical object
+exposed to sea perils and the assured should stand in some relationship to that
+object.
+e. All of the above.
+16. Which of the following is not included in a marine insurance policy?
+a. The name ofthe assured or the person who affects the policy on his behalf,
+b. The subject matter and the risk insured,
+c. The name of the re-insurer,
+d. The voyage or the time period of the policv,
+e. The sum insured.
+17. Which ofthe following rules do not apply to the losses covered under marine
+insurance?
+a. A loss may be total or partial,
+b. Any loss other than total loss is partial loss,
+c. Total loss may be either actual loss or constructive loss,
+d. Where the assured claims for total loss and the evidence proves total loss, the
+insured is entitled to recover the partial loss unless the contrary is proved,
+e. Insurance against total loss includes both constructive as well as actual total loss.
+18. Particular average loss and general average loss come under
+a. Total Loss,
+b. Partial Loss,
+c. Constructive Loss,
+d. Actual Total Loss,
+e. Constructive Total Loss.
+19. Which of the following islare the right(s) of the insurer after a fire?
+a. The right to inspect the property after the accident,
+b. Reinstating the damaged property,
+c. following the principle of subrogation,
+d. The right of contribution which is conferred upon the insurer,
+4   e. All the above.
+20. Which of the following losses is not covered by fire insurance policy?
+a. Loss due to heating or drying process
+b. Earthquake,
+c. Spontaneous combustion,
+d. Loss due to terrorist activity,
+e. Storm, cyclone, tempest, etc.
+--- page 5 ---
+Case Analysis: (Marks 1 0)
+2. ABC Co. has taken a policy with a g e n e d insurance company to protect their raw
+material stock stored in their plant. One day fire broke out in the factory due to electrical
+fluctuations and resulted in the stock being reduced to ashes. The insurance company
+agreed to pay the entire claim as demanded by the insured. The company unnecessarily
+delayed to settle the claim and made the insured run from pillar to post in his bid to get
+the insurance amount. It never assigned any proper reasons and settled the claim at last
+when the insured threatened to move the court. The insured went ahead even after
+receiving his claim and filed a claim against the careless attitude ofthe insurance
+company in the consumer court.
+a. Is the insured justified in moving the court even after receiving compensation from the
+insurance company?
+Analytical Ability: (Marks 10)
+3. Discuss the international contracts, what are the factors leading to disputes in such
+contracts and what are the possible remedies?
+Application of concepts: (Marks 5)
+4. The settlement of disputes is necessary for smooth relations. Arbitration plays an
+important role in settlement of disputes? Discuss in details the role of arbitration.
+Application of Concepts: (Marks 5)'.   -
+:   5. Discuss the essential requirements of an effective claims management system.
+````
+
 ## 2010-11 · Exam not stated · Trim 15 · paper c66c9a63d0fb
 
 - Departments: Common (all branches)
@@ -472,191 +659,4 @@ x
 aq
 
 Ts
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper c9793afbeab5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/CONTRACTS & CLAIM MANAGEMENT/Scan 009.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 17/4/2013
-- Text: text (5 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School Of Technolow Management
-'amme: MBA (Tech) -ALL STREAMS Year: V Trimester:
-Academic Year : 2012-2013
-I   Subject:   CONTRACTS AND CLAIMS MANAGEMENT   Marks:   50
-Time:   2.00pm To 4.00pm
-Date:   17/4/2013   Duration:   2   hrs.
-Final - Examination
-Instructions: Candidates should read carehlly the instruction printed on the question
-paper and on the cover ofthe Answer Book, which is provided for their use.
-NB.
-1. Question No. 1 of one mark each.
-2. All questions are compulsory.
-3. In all 5 questions are to be attempted.
-tf, Answer to each new question to be started on a fiesh page.
-5 Figures in brackets on the right hand side indicate full marks.
-Question 1 MCQS (Marks 20)
-1. The important element(s) of a contract of insurance is / are
-a. Doctrine of Reinstatement,
-b. Doctrine of Good kith,
-c. Doctrine of Contribution,
-d. Res ipsa loquitor,
-e. All the above.
-2. Which of the fillowing is not a classification of claims?
-a. First Party claims,
-b. Second Party Claims,
-c. Third Party Claims,
-d. Joint family Claims,
-e. Group Insurance claims.
-3. The person to whom the insured transfers the policy is called the
-a. Nominee,
-b. Transferee,
-#   c. Legal Heir,
-d. Creditor,
-e. Debtor.
---- page 2 ---
-4.   It is the right ofthe insured
-a. To take miti 2 ation
-b. To transfer t e policy to other person,
-c. To maintain good faith,
-d. To give notice to loss to the insurer,
-e. To provide the loss and suffkrings.
-5. The most important parameter which determines the process of settlement of
-claims is the
-a. Type of policy
-b. Type of insurance contract,
-c. Amount of claim,
-d . Face value of the policy,
-e. Special clauses of the policy.
-6. Multiple claims in India are
-a. On a first come first serve basis,
-b. On agreements of claimants,
-c. Dependant upon the nature of insurance,
-d. Dependant upon the judiciary,
-e. As per the insurance Act.
-7. Reciprocal claims should be
-a. Dependent
-b. Independent
-c. Mutually exclusive
-d. Any of the above,
-e. Both (a)or(b)above.
-8. The insurer has to adhere to the principle ofthe law to indemnifying the insured /
-victim in case of
-a. Burglary insurance,
-b. Plate insurance,
-c. Compulsory insurance,
-d. Marine insurance,
-c. Fire insurance.
-9. The asset which is the subject matter of insurance can be covered for extra risks
-4   by
-a. Proving more interest,
-b. Adding more warranties,
-c. Adding more conditions,
-d. Payment of additional premium,
-e. All the above.
---- page 3 ---
-10. After the decision to pay the claim has been made by the insurer, the first step is
-to
-a. To identify the claimant,
-b. To decide the amount of claim,
-c. Investigate the cause of loss,
-d. Ask for proof of loss,
-e. See whether the terms and conditions have been complied with or not.
-1 1. Which of the fbllowing is not a legal function of claims handling?
-a. Verification of the claims application,
-b. Comparison with the pmvisions of the policy document,
-c. Verification of the legalities of insurable interest in the claim.
-d. Assessment of loss suffered,
-e. Allocation of budget fbr the payment of the claim.
-12. Which ofthe following is not the main fact?r affecting claims settlement?
-a. Policy should be in force on the date ofthe event,
-b. The risk and the cause of the event should be covered by the policy,
-c. Presence of insurable interest,
-d. Sufficient documentary evidence should be presented along with the claim
-application form,
-e. Loss assessment estimation.
-13. Which of the fbllowing is an / are option(s) available to the insurer for settling the
-claim?
-a. Pay the claim as per the recommendation of the surveyor,
-b. Replace the asset to provide similar type of services or purchase a similar asset
-from the market,
-c. Make ex gratia payment to the assured,
-d. Reject the claim based on reasonable grounds,
-e. All the above.
-14. Which ofthe following is true with respect to marine insurance?
-a.   It is a contract of indemnity.
-b.   It covers losses on inland waters or any land risk which is incidental to the sea
-voyage,
-c. Marine perils cover fire, war, seizure, captures, etc.
-d. Rain as aperil is notcovered undermarine insurance,
-e. Perils under marine insurance refer to accidents or casualties.
-4
---- page 4 ---
-15. Which ofthe following is /are the essential &ature(s) of an insurable interest?
-a. Presence of insurable. interest s a must to cover the risk in mqine insurance,
-b. Every person who is mterested in a manne adventure has an msurable ~nterest in
-the provision ofthe Act.
-c. The payment of claim to the assured by the insured under the policy is dependent
-upon the presence of insurable interest in the subject matter of the policy,
-d. The essence of an insurable interest is that there should be a physical object
-exposed to sea perils and the assured should stand in some relationship to that
-object.
-e. All of the above.
-16. Which of the following is not included in a marine insurance policy?
-a. The name ofthe assured or the person who affects the policy on his behalf,
-b. The subject matter and the risk insured,
-c. The name of the re-insurer,
-d. The voyage or the time period of the policv,
-e. The sum insured.
-17. Which ofthe following rules do not apply to the losses covered under marine
-insurance?
-a. A loss may be total or partial,
-b. Any loss other than total loss is partial loss,
-c. Total loss may be either actual loss or constructive loss,
-d. Where the assured claims for total loss and the evidence proves total loss, the
-insured is entitled to recover the partial loss unless the contrary is proved,
-e. Insurance against total loss includes both constructive as well as actual total loss.
-18. Particular average loss and general average loss come under
-a. Total Loss,
-b. Partial Loss,
-c. Constructive Loss,
-d. Actual Total Loss,
-e. Constructive Total Loss.
-19. Which of the following islare the right(s) of the insurer after a fire?
-a. The right to inspect the property after the accident,
-b. Reinstating the damaged property,
-c. following the principle of subrogation,
-d. The right of contribution which is conferred upon the insurer,
-4   e. All the above.
-20. Which of the following losses is not covered by fire insurance policy?
-a. Loss due to heating or drying process
-b. Earthquake,
-c. Spontaneous combustion,
-d. Loss due to terrorist activity,
-e. Storm, cyclone, tempest, etc.
---- page 5 ---
-Case Analysis: (Marks 1 0)
-2. ABC Co. has taken a policy with a g e n e d insurance company to protect their raw
-material stock stored in their plant. One day fire broke out in the factory due to electrical
-fluctuations and resulted in the stock being reduced to ashes. The insurance company
-agreed to pay the entire claim as demanded by the insured. The company unnecessarily
-delayed to settle the claim and made the insured run from pillar to post in his bid to get
-the insurance amount. It never assigned any proper reasons and settled the claim at last
-when the insured threatened to move the court. The insured went ahead even after
-receiving his claim and filed a claim against the careless attitude ofthe insurance
-company in the consumer court.
-a. Is the insured justified in moving the court even after receiving compensation from the
-insurance company?
-Analytical Ability: (Marks 10)
-3. Discuss the international contracts, what are the factors leading to disputes in such
-contracts and what are the possible remedies?
-Application of concepts: (Marks 5)
-4. The settlement of disputes is necessary for smooth relations. Arbitration plays an
-important role in settlement of disputes? Discuss in details the role of arbitration.
-Application of Concepts: (Marks 5)'.   -
-:   5. Discuss the essential requirements of an effective claims management system.
 ````

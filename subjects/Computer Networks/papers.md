@@ -1,8 +1,143 @@
 # Computer Networks: question papers in full
 
-162 unique papers · 2011-12 to 2025-26 · Information Technology, Computer Engineering, Computer Applications (MCA), Artificial Intelligence, Electronics and Telecommunication, Computer Science and Business Systems, Data Science, Cyber Security, AI and Data Science, Computer Science, AI and Machine Learning, Common (all branches)
+162 unique papers · 2010-11 to 2025-26 · Information Technology, Computer Engineering, Computer Applications (MCA), Artificial Intelligence, Electronics and Telecommunication, Computer Science and Business Systems, Data Science, Cyber Security, AI and Data Science, Computer Science, AI and Machine Learning, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Exam not stated · Sem 3 · paper 05ca8b08f920
+
+- Departments: Artificial Intelligence, Computer Engineering, Cyber Security, Data Science, Information Technology
+- Programmes: B TECH / ARTIFICAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / IT, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/COMPUTER NETWORKS/B Tech,MBA Tech,BTI (AI,CSE-DS,IT,AI&ML,EXTC,AI&DS,COMP,CS), Computer Networks, S_186cdce8.pdf` (+14 identical copies)
+- Printed on paper: max marks: 100; exam date: 3 / 12/2025
+- Text: ocr (2 pages), mean OCR confidence 86.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+~ Academic Year: 2025-2026
+Program/s: B. Tech / MBA Tech/ B. Tech Intg. Year: Il, I, 1V. Semester: Tl, V, VII
+Stream/s; B Tech COMP, CSE CS, IT, AIDS/
+MBA Tech COMP, AJ/ B Tech INTG COMP
+
+Subject: Computer Networks : Time: 3. hrs (jotoo to 1. 00pm)
+Date: 3 / 12/2025 — : : No. of Pages: 2
+Marks: 100
+
+Re-Examination (Batch 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. -
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: ee [20]
+Ql a. | What is computer Network. Draw a schematic diagram of it. [5]
+CO-1; SO-1;
+
+BL-1 -
+
+Qi b. | What is error control. What are the different methods defined for error control. -| [5]
+CO-2; SO- 1;
+
+BL-1 .
+
+Qi c. | Explain the classes of IP address. [5]
+CO-3; SO- 1;
+
+BL-2 :
+
+Q.1 d. | What are the features of UDP. : [5]
+CO-4; SO-1; ;
+
+BL-1_-
+
+Q2 a. | Explain the topologies used in computer networks. Give specific examples of each [10]
+
+_| CO-1; SO- 1; and compare them on the basis of advantages and disadvantages.
+
+BL-2 : : :
+
+Q2 b. | Explain the stop and Wait ARQ and the Go Back N ARQ method. Which method is [10]
+CO-2; SO-1; superior and why?
+BL-2
+--- page 2 ---
+Q3 a. | Explain and compare the FDMA and TDMA techniques. [10]
+
+CO-1; SO-1;
+
+BL-2 ;
+
+Q3 b. | (i Find the netid and the hostid of the following classfull addresses: [5]
+CO-3; SO-1; a. 114.34.2.8 b. 208.34.54.12 ;
+
+BL-1,2 :
+
+(ii) what is the last valid host on the subnetwork 165.21.80.128/26? [5]
+
+Q4 a. | Explain the persistence method defined in CSMA. In which way these methods are [10]
+CO-2; SO-1; used in CSMA/CD. . ;
+
+BL-2
+
+Q4 b. | Explain OSPF protocol and the types of links used in OSPF to establish the [10]
+CO-3; SO-1; communication. . P 7 :
+
+BL-2
+
+Q5 "| a. | Explain the Dijkstra’s algorithm with an example. . [10]
+CO-3; SO-1; . . :
+
+BL-2
+
+Q5 b. | Explain the different configuration of congestion control mechanism. Explain in [10]
+CO- 4; SO-1; detail with examples.
+
+BL-1,2
+
+Q6 a. | How to establish communication in TCP. What are the different phases of it. Explain | [10]
+CO-4; SO-1; in detail.
+
+BL-1,2 :
+
+Q6 b. | Explain the DNS hierarchy and its working principle. Give example to support your [10]
+
+~ | CO-4; SO1; answer..
+
+BL-2
+
+Q7 a. | List and compare the different types of computer networks: [5]
+CO-1; SO-1;
+
+BL-1,2 :
+
+Q7 b. | Explain block codes in detail with an example. [5]
+CO-2; SO-1; | i : ;
+
+BL-2 :
+
+Q7 c. | Explain the method of Address Resolution protocol. [5]
+CO-3; SO-1;
+
+BL-2 <
+
+Q7 d_ | What aré the features of SMTP and SNMP protocol. : : [5]
+CO-4; SO-1; ’
+
+BL-1
+````
 
 ## 2025-26 · Final + Re-Exam · Sem 1 · paper 1d6632ef023a
 
@@ -4372,6 +4507,7 @@ a
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/COMPUTER NETWORKS/Computer Networks, Sem-V, 2024-25, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (10 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -4655,7 +4791,6 @@ Consider the figure below, which shows the arrival of 6 messages for transmissio
 at different multiple access wireless nodes at times. t=<0.8, 1.1, 2.2, 3.6, 4.2, 4.9>
 and each transmission requires exactly one time unit.
 1 2 i 3 | s s
-LJ LJ i" i » | e e
 L J
 t=0.0 t=10 t=2.0 t=3.0 t=4.0
 CO-2;
@@ -4796,6 +4931,232 @@ source IP address for this datagram?
 
 10. Has a new entry been made in the router's NAT table? Why/Why not?
 --- page 10 ---
+
+````
+
+## 2024-25 · Re-Exam · Sem 6 · paper c2917ab9b081
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/COMPUTER NETWORKS/Computer Networks, Sem VI, Batch 2021-22 & 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 85.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program/s: BTech Year: II Semester: VI
+
+Stream/s : CSBS
+
+Subject: Computer Networks Time: Z hrs (2: 00m. toZsvopm)
+Date:_6 / 5 /2025 No. of Pages: 2
+
+Marks: 100
+
+Re-Examination (2022-2023) i 2021-22
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [20]
+— a. | State any five applications of computer network. [5]
+CO-3;SO- : _ Fy . , —_
+LBL-2 b. | Describe packet switching technique in networking and its application. [5]
+C0-2:80 Analyze the role of flow control and error control mechanisms in the Data Link
+1: BL-4 c. | Layer. [5]
+CO-4;SO0- d Justify Transmission control protocol (TCP) is connection-oriented and reliable [5]
+1; BL-5 * | protocol
+Q2
+CO-1;SO- | a | Discuss various LAN transmission methods, such as Unicast, Multicast, and [10]
+1; BL-2 Broadcast, with examples.
+Q2 F ; ; '
+
+A bit stream 1101011011 is to be transmitted using the standard CRC method.
+CO-2;SO- | b eT, f ef : [10]
+1: BL-5 The divisor is 10011. Determine the actual bit string transmitted?
+Q3
+CO-4;SO- . Discuss source port and destination port address in transport layer. Describe the | [10]
+1; BL-2 features of transmission control protocol.
+--- page 2 ---
+Q3
+
+Illustrate the E-mail transmission process using the SMTP protocol in the
+
+-4:SO-
+tt application layer and discuss its working in detail with diagram [10]
+Q4 : . ;
+CO-4: Differentiate between open-loop and closed-loop congestion control
+sO 1. a | mechanisms in the Transport Layer, and analyze any two mechanisms from [10]
+BL-4 each category.
+Using Dijkstra’s Algorithm, determine the shortest distance from source vertex
+‘S’ to remaining vertices in the following graph. Show step by step procedure.
+Q4
+CO-3;
+: b 10
+SO-1; . [0
+BL-5
+Q5 . ; ,
+Describe the request and response process in Address Resolution protocol
+CO-3;SO- | a , . [10]
+(ARP) with neat labelled diagram.
+1; BL-2
+Q5 Explain the working of File Transfer Protocol (FTP) and illustrate its
+CO-4;SO- | b . , 5 , E [10]
+LBL-2 connection modes (Active and Passive) with a diagram.
+Q6
+CO-2;SO- Illustrate the working of Go-Back-N protocol with an example. [10]
+1;BL3 |?
+Q6
+CO-4;SO- | b | Describe Symmetric Key Cryptography in detail with its application [10]
+1; BL-2
+Q7
+
+CO-1;SO- | a | Explain the concept of network topology and compare star and mesh topology. | [05]
+1;BL-4
+
+CO-2;SO-
+
+LBL2 b | Describe the key differences between CSMA-CA and CSMA-CD [05]
+CO-2;SO- . AS ones .
+
+L-BL-3 c | Explain Pure Aloha Random access protocol and identify its vulnerable time. [05]
+CO-1;SO- eran a oom omar: ; F
+
+LBL-4 d | Compare frequency division and time division multiplexing techniques with [05]
+
+five appropriate points
+````
+
+## 2024-25 · Re-Exam · Sem 3 · paper 6e4ea7f53e3d
+
+- Departments: Computer Engineering, Information Technology
+- Programmes: MBA TECH / COMPUTER, MBA TECH / Computer, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/COMPUTER NETWORKS/Computer Network , Re-exam ( Batch 2022-23).pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 91.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2024-2025
+Program/s: B. Tech / MBA Tech/ B. Tech Intg. Year: I. HI, [V_ Semester: II, V. VII
+Stream/s; IT, CE, CSE, CS, .:7/ COMP, . :/ COMP
+
+Subject: Computer Networks Time: 3 hrs ({0: 00auto 4 copna)
+Date:_19 / 2. / 2024" No. of Pages: 3
+Marks: 100
+
+Re-Examination (Batch 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any _ 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+Q.1 a. | Explain any two types of data flow in communication network with diagram. [5]
+CO-1; SO-1;
+
+BL-2
+
+Q.1 b. | Define flow control and error control with an example. [5]
+CO-2; SO- 1;
+
+BL-1
+
+Ql c. | What is the difference between network topology and network protocol? [5]
+CO-1; SO- i;
+
+BL-1
+Ql d. | Explain the services provided by application layer. [5]
+CO-4; SO-1;
+
+BL-2
+Q a. | A bit stream 100100 is transmitted using the standard CRC method and the generator | [10]
+CO-2; SO- 2; polynomial is x? + x? + 1. Determine the actual bit string transmitted by the encoder.
+
+BL-5 | Also, verify whether the received code word is error free or erroneous?
+Q2 b. | Demonstrate BOOTP and DHCP protocol on the basis of its comparison and [10]
+CO-3; SO-1; differences. Also, represent the diagram for both protocols.
+BL-2
+--- page 2 ---
+Q3 a. | Explain the process of FDM multiplexing and demultiplexing with labelled diagram. | [10]
+
+CO-1; SO-1;
+BL-2
+QB b. | Compare TCP and UDP on different features. Also give examples of each protocol. [10]
+CO-4; SO-1;
+BL-2
+Q4 a. | An ISP is granted a block of addresses starting with 190.100.0.0/16 (65,536 [10]
+CO-3; SO-6; addresses). The ISP needs to distribute these addresses to two groups of customers as
+BL-6 follows:
+a. The first group has 64 customers; each need 256 addresses.
+b. The second group has 128 customers; each need 128 addresses.
+Design the subblocks and find out how many addresses are still available after these
+allocations.
+Q4 b. | Demonstrate the HTTP protocol with its features, transactions, messages and URL. [10]
+CO-4; SO-1;
+BL-2
+Q5 a. | Define routing table. Explain the types of routing table and the field types. Illustrate [10]
+CO-3; SO-1; the need of optimization.
+BL-1,2
+Q5 b. | What is congestion control. Discuss in detail open loop and close loop congestion [10]
+CO- 4; SO-1; control mechanism using atleast four methods of each.
+BL-1,2
+Q6 a. | Explain the different persistent method used in CSMA with neat diagram and [10]
+CO-2; SO-1; conditional flow chart.
+BL-2
+Q6 b. | Determine the shortest path to node F using dijkstra’s algorithm for the following [10]
+CO-3; SO-6; figure with A as source node.
+BL-5
+--- page 3 ---
+—
+
+Q7 a. | Construct a flow chart of CSMA/CA method. [6]
+CO-2; SO-1;
+
+BL-3
+
+Q7 b. | What are the preliminaries of layered network structures? Construct a diagram for [6]
+CO-1; SO-1; relevant justification.
+
+BL-1,3
+
+Q7 c. | Summarize the guided and unguided media used by transmission media with [8]
+CO-1; SO-1; applications. .
+
+BL-2
+--- page 4 ---
 
 ````
 
@@ -5035,6 +5396,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-V/COMPUTER NETWORKS/Computer Netowrks, Sem-V, Final Exam 2023-24 & Re Exam 2022-23.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 22-11-2023
 - Text: ocr (5 pages), mean OCR confidence 86.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -5159,8 +5521,6 @@ above start_timer
 
 rdt_rev(revpkt) :
 
-&& notcorrupt(revpkt) rdt_rev(revpkt)
-Geyeemrcxiom.n, | - rdt3.0 sender | stttaneeans
 
 stop_timer
 
@@ -5176,19 +5536,16 @@ timeout
 Sax eens
 start_timer
 
-rdt_rov(rovpkt) && Go ces,
 (corrupt(revpkt) || ndpkt = make_pkt(1, data, checksum)
 
 udt_send(sndpkt)
 
 et- } start_timer
 --- page 4 ---
-rdt_xev(revpkt) && notcorrupt (rovpkt)
 && has_seq0(revpkt)
 extract (rovpkt data)
 a. ns deliver_data(data)
 
-sndpkt=make_pkt(ACK,0, checksum) rdt_rov{revpkt) £&
 ndt_send(sndpkt) {eorsupt(revpkt) | |
 
 Sc has_seq0(rcvpkt))
@@ -5202,9 +5559,7 @@ Ga efron aka 2.2 Lion
 eS. »_pkt
 
 (ack fy checksum) receiver
-udt_send(sndpkt) Sd ts ial ae,
 
-rdt_rev(revpkt) && noteorrupt (revpkt)
 && has_seql(revpkt)
 
 extract (revpkt data)
@@ -5556,6 +5911,190 @@ BL-2 3) DNS
 4) TCP
 ````
 
+## 2023-24 · Re-Exam · Sem 3 · paper afe555767205
+
+- Departments: Artificial Intelligence, Common (all branches), Computer Engineering, Data Science, Electronics and Telecommunication, Information Technology
+- Programmes: B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B.TECH INTEGRATED, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / EXTC, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/COMPUTER NETWORKS/Computer Networks , Re-exam 2022-23.pdf` (+10 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 89.1
+
+````text
+‘ SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+Program: B.Tech /MBA Tech /B.Tech Integrated
+Stream ;Computer/IT/EXTCIAI [¢sg cS CS /aime /AlDs
+Subject: Computer Networks
+
+Date:___ 06/2/2024 _
+
+Marks: 100
+
+Re Examination (02 a)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1 is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+(> 3)Inmall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+c0-4;S0-6 | a. Differentiate between Transmission Control Protocol (TCP) and User [05]
+; BL-02 Datagram Protocol (UDP). ( Any 5 points each)
+co-1:s0-3° |b. Describe briefly any two categories of guided transmission media. Write the [05]
+> BL-02 advantages and disadvantages of each.
+C0-2;$0-2 | ¢- Compare and contrast | persistent and p persistent schemes in multiple [05]
+; BL-03 access with flow diagrams.
+0-3 ;S0-2 | d. Distinguish between circuit switching and packet switching ( Any 5 points [05]
+ay (BL02 for each)
+
+Q2 Explain briefly the characteristics used to analyse Quality of Service(QoS)
+
+of flow/traffic.(Any 4). Illustrate with diagrams the different types of [10]
+
+C0-4;S0-6 | a.
+; BL-02 scheduling used to improve QoS. Briefly explain each.
+A slotted ALOHA network transmits 150-bit frames using a shared channel
+with a 400-kbps bandwidth. Calculate the throughput and how many frames
+
+oe b. will survive if the system (all stations together) produces {10]
+i) 800 frames per second
+ii) 400 frames per second
+
+Page 1 of 3
+--- page 2 ---
+Q3
+
+CO-2 ; SO-2 Describe the working of CSMA/CA with the help of flow diagram. * [10]
+; BL-02
+ante Explain in detail the working of Routing Information Protocol(RIP). List [10]
+a and briefly explain the timers used in RIP.
+Q4
+C0-4: $0-6 Illustrate with suitable diagrams the TCP connection establishment and [10]
+3 BL-02 termination. Describe the steps involved in each case.
+S045 S08 Explain in detail the steps involved i i domai >
+-BL-02 plain in detail the steps involved in. mapping www.xyz.com (domain | [49]
+name) to the corresponding IP address using DNS.
+Qs
+Illustrate the working of Go-Back N ARQ with the help of frame [10]
+CO-2 ; SO-2 = : : .
++ BL-02,BL- transmission scenarios. Give any one advantage and disadvantage.
+01
+CO-4 ; SO-6 Distinguish between communication over control connection and [05]
+3 BL-02 communication over data connection in FTP.
+CO-3: $0-2 Explain the working of DHCP protocol highlighting dynamic IP address [05]
+;BL-01 allocation.
+a
+An ISP is granted a block of addresses starting with 190.20.10.0/16 Py,
+Q6 (65,536 addresses). The ISP needs to distribute these addresses to two
+; groups of customers as follows: a
+Le a. The first group has 128 customers; each needs 256 addresses. [10]
+; b. The second group has 128 customers; each needs 128 addresses.
+Design the subblocks and find out how many addresses are still available
+after these allocations.
+CO-4 ; SO-6
+; BL-02 Illustrate how SMTP is used for sending email . Briefly explain. [05]
+CO-1; SO-3
+; BL-O1 Explain briefly the functionalities of layers of TCP/IP protocol suite. [05]
+
+Page 2 of 3
+--- page 3 ---
+Determine the shortest path and shortest distance from source vertex A to
+every other vertex in the following graph using Dijkstra’s Algorithm.
+
+as Illustrate step-by-step procedure and draw shortest path table.
+Q7 co-3;
+SO-2 ;
+BL-03 [10]
+CO-1;S0-3; | b. Define network topology. Compare and contrast various network topologies
+BL-01,BL-02 (any 4) with the advantages and disadvantages of each. Draw diagram to | [10]
+
+illustrate each topology.
+
+Page 3 of 3
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper 582257b68def
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/COMPUTER NETWORKS/Computer Networks, Sem-IV, Re Exam 2021-22.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+Program: MBA.Tech/ B.Tech Year: II Semester: [V
+
+Stream : IT °
+
+Subject: Computer Networks Time: 3 hrs (Jo:00amto 12 00pm)
+Date:_2.0/04/24 No. of Pages:02
+
+Marks: 100
+
+Re-exam Examination 2021-2022
+
+_Q1 Answer the following questions [20]
+a. Discuss use of DNS and its elements with a diagram. 5
+b. Distinguish between hub and router. 5
+c. Distinguish between Go Back N Protocol and Selective Repeat. 5
+d. Discuss the pros and cons of the Slotted ALOHA protocol. 5
+Q2 a. Discuss the slow start, congestion detection, and congestion avoidance phase in. TCP 10
+
+congestion control policy in brief with an example.
+
+b. Use Dijkstra's algorithm to find the shortest path tree for node A. Show each step using 10
+diagrams
+
+Q3 a. Discuss the CSMA/CD mechanism for collision detection with an example. 10
+b. Discuss the mechanism of the SMTP protocol for sending/receiving an email. 10
+Q4 a. Distinguish between IP v4 and IPv6. 10
+
+b. For a TCP connection, assume that the initial RTT value is 3s and the initial deviation is ls. 10
+Assume that packet sending times (in seconds) are: 2s, 4s, and the corresponding ACK
+receipt times (in seconds) are as follows: 5.2s, 6.3s. Compute the SRTT, RTTVAR, and RTO
+
+1/2
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+after each ACK. Assume the smoothing factor = 0.8 for all computations. Explain the terms
+SRTT, RTTVAR, and RTO.
+
+Distinguish Twisted Pair Cables and Fiber Optic Cables. 7
+
+The 12 bit message was transmitted using hamming code method. The received message is 7
+101100100110 with odd parity, find out whether received data is received properly or not.
+
+Discuss the working of Recursive DNS query with a diagram 6
+
+The message “NEVER GIVE UP” has to be encrypted using the Vernam cipher method 10
+key (ADVENTURISM). Show the encrypted message. Discuss the advantages and
+limitations of the Vernam cipher.
+
+Discuss the reservation mechanism with a diagram in detail 10
+Discuss the bus and star network topology with a diagram. 7
+Explain the byte-stuffing framing technique with an example. 7
+Distinguish between TCP and UDP. 6
+
+2/2
+````
+
 ## 2023-24 · Re-Exam · Sem 5 · paper 532e2713de64
 
 - Departments: Artificial Intelligence
@@ -5563,6 +6102,7 @@ BL-2 3) DNS
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-V/COMPUTER NETWORKS/Computer Networks, Sem-V, Batch 2022-23, 2023-24, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06/02/2024
 - Text: ocr (7 pages), mean OCR confidence 89.1
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 L
@@ -5691,9 +6231,7 @@ rdt_send() call at the sender (with no messages initially in the channel) , and
 re
 possible later message corruption and subsequent error recovery?
 
-0) rdt_send(data) rdt_rov(revpkt) &&
 sndpkt = make_pkt(0, data, checksum) _( corrupt(rcvpkt) |]
-udt_send(sndpkt) isACK(revpkt,1
 
 Gay ‘dt_rev(revpkt)
 A meen
@@ -5708,13 +6246,10 @@ stop_timer
 5 timeout _
 Shee ee send(sndpkt)
 start_timer
-rdt_rov(revpkt) && er jeeend (Gata)
 ( corrupt(revpkt) || ndpkt = make_pkt(1, data, checksum)
 
-isACK(revpkt,0) ) ‘udt_send(sndpkt)
 start_timer
 
-rdt_rcev(revpkt) && notcorrupt (revpkt )
 && has_seq0(revpkt)
 
 extract (revpkt ,data)
@@ -5732,12 +6267,10 @@ wt.zoimms >a, RDT 3.0 2g
 
 (corrupt (revpkt) | | n
 O fr ir
-_9eql (rcvpkt)) Below: a ka 2 . 2 bay
 see Nes T checksum) receiver
 
 sasgpecciterspys) NE” ‘
 
-rdt_rev(revpkt) && notcorrupt (rcvpkt )
 && has_seql(revpkt)
 
 rdt_rev(revpkt)
@@ -5805,7 +6338,6 @@ a CO-4; SO- at different multiple access wireless nodes at times t = 0.3, 1.7, 1
 1;BL-2 Each transmission requires exactly one time unit.
 --- page 6 ---
 i. 23 4 > 6 ¥
-e eo ® es e@ a
 
 =0.0 1.0 2.0 13.0
 
@@ -5971,6 +6503,86 @@ SCTP is a message-oriented, reliable protocol that combines the best 10
 CO-4; :
 SO-1; features of UDP and TCP. Justify.
 BL-4
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper 141ecb1d72d7
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/Computer Networks , Re-exam 2021-2022.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2023-2024 t
+Program: MBA.Tech/ B.Tech Year: II Semester: IV
+Stream : IT ;
+Subject: Computer Networks Time: 3 hrs (i0o0awto 4:00pm)
+
+Date:_27/6/24 No. of Pages:02
+
+Marks: 100
+Re-exam Examination 2021-2022
+
+__) Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+Qi Answer the following questions [20]
+a. Discuss the key difference between a switch and a router. 5
+b. Discuss the advantages and disadvantages of star topology 5
+¢. Explain the working of the Pure ALOHA protocol 5
+d. Explain the mechanism of Selective repeat ARQ protocol with a diagram. 5
+OF @ Discuss the phases of the TCP Reno protocol in detail with an example. 10
+b.. Discuss the mechanism of Dijkstra's algorithm to find the shortest path tree with an 10
+example.
+a. In 1-peristance CSMA/CD with Tp=25us and Tfr = 75s, there are two stations A and B.
+Both stations start sending frames to each other at the same time. Since the frames collide,
+
+Q3 each station tries to retransmit. Station A comes out with R=1 and station b with R =5. 10
+Ignore any other delay including the delay for sending jamming signals. Draw the timeline
+diagram ‘showing the two stations and frame transmission and frame propagation. Discuss
+the mechanism of the CSMA/CD protocol.
+
+b. Discuss the mechanism of iterative query and recursive query resolver in detail with a 10
+diagram. 7
+Q4 a. a / . ,
+Distinguish between Distance vector and Link state routing protocols 10
+b. Discuss the mechanism of hamming code with an example. Discuss the advantages and
+disadvantages of hamming code. 10
+os
+
+t
+
+1/2
+--- page 2 ---
+Q5 a.
+
+Q6
+
+Q7
+
+Distinguish between Coaxial and fiber optics 7
+Explain the character-oriented (or byte-oriented) framing technique with an example. 7
+Distinguish between IMAP and POP3. . 6
+The message “CRUST BLAME?” has to be encrypted using Vernam cipher method key
+(ZHISODAISY). Show the encrypted message. Explain the advantages of Vernam 10
+Cipher.
+
+Explain the polling mechanism in the medium access control layer with a diagram. 10
+
+Draw OSI and TCP/IP protocol suite. Compare OSI and TCP/IP protocol suites. ~ 7
+
+For a TCP connection, assume that the initial RTT value is 2s and the deviation is 1s.
+Assume that packet sending times (in seconds) are: 1s, 2s, and the corresponding ACK
+receipt times (in seconds) are as follows: 1.1s, 3s. Compute the RTT and deviation after 7
+each ACK. Assume the smoothing factor = 0.75 for all computations.
+
+Distinguish between Pure Aloha and Slotted Aloha. 6
+
+2/2
 ````
 
 ## 2023-24 · Re-Exam · Sem 1 · paper acb60af0e6e9
@@ -6206,6 +6818,127 @@ CO-2; SO- | d.
 BL 5 : Explain working of Stop and Wait protocol by using flow diagram? [05]
 
 2/3
+````
+
+## 2022-23 · Exam not stated · Sem 4 · paper 48c611871453
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/Computer networks.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 90.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program/s: B-Tech CSE-Cyber Security/B-Tech IT /MBATECH IT Year: II Semester: IV
+
+Stream/s ; IT/CSE
+
+Subject: Computer Networks Time: 03 hrs (Lo am to 4 pm _)
+Date:_20 /O4 / 2023 No. of Pages:_O2
+
+Marks: 100
+
+Final Examination } Re - Examination.
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi .
+Answer briefly: [20]
+ne SO- 1; a. Compare peer to peer network and server based network. [4]
+he SO- 1; b. Explain in brief different network topologies. [4]
+7 : SO-1; c. Sketch and explain in short Synchronous Time Division multiplexing. [4]
+ir SO-1; d. | Explain Slotted ALOHA with diagram. [4]
+T) Find the class of each address
+CO-3 ; SO- i) 00000001 00111011 00001011 11101111 14]
+Jy é. <a
+BL-2 ii) 222.5.15.111
+Il) Define Sub-netting
+Q2 Solve. The message 1101011010 is received, it was transmitted using standard cyclic redundancy
+CO-2: $O-1: a code method. The generator polynomial is 10011. Show the actual message transmitted. [10]
+BL-3 Define Hamming distance and with the example find din.
+Q2
+CO-3; SO-1; b Discuss the working of Distance vector routing protocol with an example. [10]
+BL-2
+Q3
+C0-3: §O-1: a Discuss Token Bucket algorithm with advantages and disadvantages. Draw its diagram. [10]
+BL-2
+
+Q3 b Explain features of Hyper Text Transfer Protocol(HTTP) with its diagram. [10]
+--- page 2 ---
+CO-4; SO-6;
+BL-2—
+
+Solve Dijkstra's algorithm to calculate the single-source shortest paths from A to every
+other vertex. Show your steps. Also draw the routing Table for A.
+
+Q4
+
+CO-3; SO-1; a
+BL-3
+
+[10]
+
+Q4
+
+CO-2; SO-1;
+BL-2
+
+b Discuss Go-Back-N ARQ in detail with diagram. Mention advantages and disadvantages. [10]
+
+Q5 Classify Congestion control methods. Explain open loop congestion control methods (any two)in
+CO-3; SO-1; Lb
+BL-2
+
+10
+detail. ria
+
+Q5
+CO-2; SO-6; b Define CSMA/CA. Explain different types of persistence methods with diagrams. [10]
+
+BL-3
+
+Q6
+CO-2; SO-1; a Explain message switching with diagram. List down advantages and disadvantages. [10]
+
+BL-2
+
+Q6
+CO-1; SO-1; b Discuss with diagram the function of each layer in OSI model in detail. [10]
+
+BL-2
+
+Q7
+CO-4; SO-1; a Write a short note on Simple Mail Transfer Protocol(SMTP). [05]
+
+BL-2
+
+oe: Bo b Define Computer Network, List down advantages and disadvantages of computer networks. [05]
+
+CO-3; SO-1;
+
+BL2 c Discuss the working of Address Resolution Protocol (ARP) with diagram. [05]
+
+CO-2; SO-1;
+
+BL2 d Explain with neat diagram frequency hopping spread spectrum. [05]
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper 39efd6e14927
@@ -6588,6 +7321,7 @@ CO-2 ; SO- | d.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-V/COMPUTER NETWORKS/Computer Networks, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; exam date: 16 November 2022
 - Text: ocr (7 pages), mean OCR confidence 89.4
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ‘
@@ -6728,14 +7462,10 @@ packet). Determine the state transition sequence with justification? (SO, RO, et
 
 Os rdt_rev(revpkt) &&
 sndpkt = make_pkt(0, data, checksum) _( corrupt(revpkt) ||
-“ udt_send(sndpkt) isACK(revpkt,1) G 1)
 Gays reurowwi) start_timer C) A
 9) A (% Wait ;
 for timeout
-ACKO udt_send(sndpkt)
 rdt_rov(revpkt) start_timer
-&& notcorrupt{rcvpkt) rdt_rev(revpkt)
-(G8) 88 SACK (rovpkt.t) isACK(revpkt, 1) && notcorrupt(revpkt)
 pe rdt3.0 sender | srevoretrap
 stop_timer ©)
 67) iat sondien
@@ -6746,13 +7476,11 @@ A
 
 Q (corrupt(rcvplt) | ndpkt = make_pkt(1, data, checksum)
 
-CO-4; isACK(revpkt,0) ) udt_send(sndpkt) [10]
 
 SO-2; start_timer
 
 BL-5
 
-rdt_rev(revpkt) && notcorrupt (revpkt)
 && has_seq0(rcvpkt)
 YT extract (revpkt /data)
 deliver_data(data)
@@ -6769,7 +7497,6 @@ Co —— VA below aka 2.2 below
 andpkt=make_pkt " .
 ae (ach checksun) receiver
 udt_send(sndpkt)
-rdt_rev(revpkt) && notcorrupt (revpkt)
 @ && has_seql(rcvpkt)
 extract (revpkt data)
 deliver data (data)
@@ -7241,116 +7968,6 @@ BL-2 (UDP).
 3/3
 ````
 
-## 2022-23 · Re-Exam · Sem 3 · paper afe555767205
-
-- Departments: Artificial Intelligence, Common (all branches), Computer Engineering, Data Science, Electronics and Telecommunication, Information Technology
-- Programmes: B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B.TECH INTEGRATED, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / EXTC, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/COMPUTER NETWORKS/Computer Networks , Re-exam 2022-23.pdf` (+10 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 89.1
-
-````text
-‘ SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-Program: B.Tech /MBA Tech /B.Tech Integrated
-Stream ;Computer/IT/EXTCIAI [¢sg cS CS /aime /AlDs
-Subject: Computer Networks
-
-Date:___ 06/2/2024 _
-
-Marks: 100
-
-Re Examination (02 a)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1 is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-(> 3)Inmall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20]
-c0-4;S0-6 | a. Differentiate between Transmission Control Protocol (TCP) and User [05]
-; BL-02 Datagram Protocol (UDP). ( Any 5 points each)
-co-1:s0-3° |b. Describe briefly any two categories of guided transmission media. Write the [05]
-> BL-02 advantages and disadvantages of each.
-C0-2;$0-2 | ¢- Compare and contrast | persistent and p persistent schemes in multiple [05]
-; BL-03 access with flow diagrams.
-0-3 ;S0-2 | d. Distinguish between circuit switching and packet switching ( Any 5 points [05]
-ay (BL02 for each)
-
-Q2 Explain briefly the characteristics used to analyse Quality of Service(QoS)
-
-of flow/traffic.(Any 4). Illustrate with diagrams the different types of [10]
-
-C0-4;S0-6 | a.
-; BL-02 scheduling used to improve QoS. Briefly explain each.
-A slotted ALOHA network transmits 150-bit frames using a shared channel
-with a 400-kbps bandwidth. Calculate the throughput and how many frames
-
-oe b. will survive if the system (all stations together) produces {10]
-i) 800 frames per second
-ii) 400 frames per second
-
-Page 1 of 3
---- page 2 ---
-Q3
-
-CO-2 ; SO-2 Describe the working of CSMA/CA with the help of flow diagram. * [10]
-; BL-02
-ante Explain in detail the working of Routing Information Protocol(RIP). List [10]
-a and briefly explain the timers used in RIP.
-Q4
-C0-4: $0-6 Illustrate with suitable diagrams the TCP connection establishment and [10]
-3 BL-02 termination. Describe the steps involved in each case.
-S045 S08 Explain in detail the steps involved i i domai >
--BL-02 plain in detail the steps involved in. mapping www.xyz.com (domain | [49]
-name) to the corresponding IP address using DNS.
-Qs
-Illustrate the working of Go-Back N ARQ with the help of frame [10]
-CO-2 ; SO-2 = : : .
-+ BL-02,BL- transmission scenarios. Give any one advantage and disadvantage.
-01
-CO-4 ; SO-6 Distinguish between communication over control connection and [05]
-3 BL-02 communication over data connection in FTP.
-CO-3: $0-2 Explain the working of DHCP protocol highlighting dynamic IP address [05]
-;BL-01 allocation.
-a
-An ISP is granted a block of addresses starting with 190.20.10.0/16 Py,
-Q6 (65,536 addresses). The ISP needs to distribute these addresses to two
-; groups of customers as follows: a
-Le a. The first group has 128 customers; each needs 256 addresses. [10]
-; b. The second group has 128 customers; each needs 128 addresses.
-Design the subblocks and find out how many addresses are still available
-after these allocations.
-CO-4 ; SO-6
-; BL-02 Illustrate how SMTP is used for sending email . Briefly explain. [05]
-CO-1; SO-3
-; BL-O1 Explain briefly the functionalities of layers of TCP/IP protocol suite. [05]
-
-Page 2 of 3
---- page 3 ---
-Determine the shortest path and shortest distance from source vertex A to
-every other vertex in the following graph using Dijkstra’s Algorithm.
-
-as Illustrate step-by-step procedure and draw shortest path table.
-Q7 co-3;
-SO-2 ;
-BL-03 [10]
-CO-1;S0-3; | b. Define network topology. Compare and contrast various network topologies
-BL-01,BL-02 (any 4) with the advantages and disadvantages of each. Draw diagram to | [10]
-
-illustrate each topology.
-
-Page 3 of 3
-````
-
 ## 2022-23 · Re-Exam · Sem 3 · paper 807a00a5962f
 
 - Departments: Computer Engineering, Electronics and Telecommunication
@@ -7617,6 +8234,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-V/COMPUTER NETWORKS/Computer Networks, 3rd Year, Sem-V, Year 2022-23, Re-Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 January 2023
 - Text: ocr (9 pages), mean OCR confidence 87.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / SVKM’S NMIMS
@@ -7875,7 +8493,6 @@ ndpkt = make_pkt(1, data, checksum)
 udt_send(sndpkt)
 start_timer
 
-rdt_rev(revpkt) && notcorrupt (revpkt)
 
 && has_seq0(rcvpkt)
 extract (revpkt ,data)
@@ -7900,7 +8517,6 @@ below
 aka 2.2
 receiver
 
-rdt_rev(rcypkt) && notcorrupt (revokt)
 && has _seql(revpkt)
 
 extract (revpkt,data)
@@ -8062,34 +8678,32 @@ te
 Or
 ````
 
-## 2022-23 · Re-Exam · Sem 6 · paper c2917ab9b081
+## 2022-23 · Re-Exam · Sem 6 · paper 493a86cf7aca
 
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/COMPUTER NETWORKS/Computer Networks, Sem VI, Batch 2021-22 & 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 85.8
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER NETWORKS/Computer Networks, Sem-VI, Batch 2021-22, Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 88.0
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
+Academic Year: 2022-2023
 
-Program/s: BTech Year: II Semester: VI
+Program: B.Tech / MBA Tech Stream: EXTC Year: II] Semester: VI
 
-Stream/s : CSBS
-
-Subject: Computer Networks Time: Z hrs (2: 00m. toZsvopm)
-Date:_6 / 5 /2025 No. of Pages: 2
+Subject: Computer Networks Time: 03 hrs (2: 00 pm to 5:00 pm)
+Date: 26 /o4 / 2023 No. of Pages: 03
 
 Marks: 100
 
-Re-Examination (2022-2023) i 2021-22
+Re-Examination (Batch 2021-22)
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+>, Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
 
-1) Question No. 1 is compulsory.
+1) Question No. | is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -8102,107 +8716,114 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql
+sa Answer briefly: [20]
+a.
+Sol Classify different Network models and state significant function of any three 4
+a BL4 layers of OSI model. ”
+CO- 2; b. [4]
+SO-1; Explain multiplexing. Discuss time division multiplexing.
+BL-2
+c. | Identify the type of the following destination addresses as unicast, multicast or | [4]
+CO-2; broadcast.
+SO-1; a) 4B:30:10:21:11:1B b) 48:20:1B:2C:08:EF
+BL- 3 c) 2C:30:12:31:11:1D d) FF:FF:FF:FF:FF:FF
+So d. Explain time-exceeded message and destination unreachable message in ICMP [4]
+BL-2
+7 €. | Discuss open loop and closed loop congestion control in TCP with an example [4]
+BL2 of each.
 
-Answer briefly: [20]
-— a. | State any five applications of computer network. [5]
-CO-3;SO- : _ Fy . , —_
-LBL-2 b. | Describe packet switching technique in networking and its application. [5]
-C0-2:80 Analyze the role of flow control and error control mechanisms in the Data Link
-1: BL-4 c. | Layer. [5]
-CO-4;SO0- d Justify Transmission control protocol (TCP) is connection-oriented and reliable [5]
-1; BL-5 * | protocol
-Q2
-CO-1;SO- | a | Discuss various LAN transmission methods, such as Unicast, Multicast, and [10]
-1; BL-2 Broadcast, with examples.
-Q2 F ; ; '
-
-A bit stream 1101011011 is to be transmitted using the standard CRC method.
-CO-2;SO- | b eT, f ef : [10]
-1: BL-5 The divisor is 10011. Determine the actual bit string transmitted?
-Q3
-CO-4;SO- . Discuss source port and destination port address in transport layer. Describe the | [10]
-1; BL-2 features of transmission control protocol.
+1/3
 --- page 2 ---
-Q3
+Q.2 a.
+CO-1; Explain bus, star and mesh network topologies along with figure. [10]
+SO-1; BL-2
+C0:35 b. | Elaborate Address Resolution Protocol (ARP) and Reverse Address Resolution
+SO-1; : : [10]
+BL-2 Protocol (RARP) with labeled diagram.
+Q.3 a. :
+CO-2; Explain the working of simple parity-check code with encoder and decoder
+SO-1; diagrams. Justify the use of syndrome bits. [10]
+BL-2,5
+CO-2; b.
+SO-1; Distinguish between pure aloha and slotted aloha protocol. Discuss and sketch | [10]
+BL-4 the diagram for slotted aloha.
+Q.4 a. ; :
+CO-4; Explain DHCP protocol in detail. How the static address and dynamic address {10}
+SO-1; allocation is provided in DHCP.
+BL-2
+b. -
+So. Illustrate the TCP connection establishment process and connection termination {10}
+BL2 process with detailed flow diagram of connection establishment using three-
+way handshaking.
+a.
+Using Dijkstra’s Algorithm, find the shortest distance from source vertex ‘S’ to
+remaining vertices in the following graph. Draw the shortest path tree.
+Q.5
+CO-4;
+S0-6; [10]
+BL-5,2
+Son. b. Explain in detail Simple Network Management Protocol (SNMP) in application {10}
+BL2 layer and its architecture.
 
-Illustrate the E-mail transmission process using the SMTP protocol in the
+2/3
 
--4:SO-
-tt application layer and discuss its working in detail with diagram [10]
-Q4 : . ;
-CO-4: Differentiate between open-loop and closed-loop congestion control
-sO 1. a | mechanisms in the Transport Layer, and analyze any two mechanisms from [10]
-BL-4 each category.
-Using Dijkstra’s Algorithm, determine the shortest distance from source vertex
-‘S’ to remaining vertices in the following graph. Show step by step procedure.
-Q4
-CO-3;
-: b 10
-SO-1; . [0
+om
+--- page 3 ---
+Q.6
+
+Explain the working of stop and wait protocol with flow diagram. What is the
+
+CO-2; SO- he a 18 5 zi , 12
+I: a significance of sliding window in selective repeat ARQ protocol. 12]
+CO-4;
+SO-1; What is subnetting? Compare IPv4 and IPv6 [8]
+BL-1,2
+Q.7
+CO-1; Distinguish between packet switching and circuit switching. Explain packet (10)
+SO-2; switching technique with diagram.
+BL-4
+Evaluate the shortest distance from source vertex A to every other vertex in the
+following graph using Bellman Ford algorithm. Show the result in the table.
+-1
+CO-4;
+S0-6; [10]
 BL-5
-Q5 . ; ,
-Describe the request and response process in Address Resolution protocol
-CO-3;SO- | a , . [10]
-(ARP) with neat labelled diagram.
-1; BL-2
-Q5 Explain the working of File Transfer Protocol (FTP) and illustrate its
-CO-4;SO- | b . , 5 , E [10]
-LBL-2 connection modes (Active and Passive) with a diagram.
-Q6
-CO-2;SO- Illustrate the working of Go-Back-N protocol with an example. [10]
-1;BL3 |?
-Q6
-CO-4;SO- | b | Describe Symmetric Key Cryptography in detail with its application [10]
-1; BL-2
-Q7
 
-CO-1;SO- | a | Explain the concept of network topology and compare star and mesh topology. | [05]
-1;BL-4
+1
 
-CO-2;SO-
-
-LBL2 b | Describe the key differences between CSMA-CA and CSMA-CD [05]
-CO-2;SO- . AS ones .
-
-L-BL-3 c | Explain Pure Aloha Random access protocol and identify its vulnerable time. [05]
-CO-1;SO- eran a oom omar: ; F
-
-LBL-4 d | Compare frequency division and time division multiplexing techniques with [05]
-
-five appropriate points
+3/3
 ````
 
-## 2022-23 · Re-Exam · Sem 3 · paper 6e4ea7f53e3d
+## 2022-23 · Re-Exam · Sem 1 · paper ce87453f909e
 
-- Departments: Computer Engineering, Information Technology
-- Programmes: MBA TECH / COMPUTER, MBA TECH / Computer, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/COMPUTER NETWORKS/Computer Network , Re-exam ( Batch 2022-23).pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 91.6
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/COMPUTER NETWORKS/Computer Networks Batch 2021-22 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 December 2022
+- Text: ocr (2 pages), mean OCR confidence 93.6
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
+SVKM’s NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER!
 
-Academic Year: 2024-2025
-Program/s: B. Tech / MBA Tech/ B. Tech Intg. Year: I. HI, [V_ Semester: II, V. VII
-Stream/s; IT, CE, CSE, CS, .:7/ COMP, . :/ COMP
-
-Subject: Computer Networks Time: 3 hrs ({0: 00auto 4 copna)
-Date:_19 / 2. / 2024" No. of Pages: 3
+Academic Year: 2022-23
+Programme: MCA Year: I Semester: I
+Subject: Computer Networks .
 Marks: 100
+Date: 12 December 2022 Time: 10.30 am - 01.30
 
-Re-Examination (Batch 2022-23)
+Durations: 3 (Hrs)
+No. of Pages:_2
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
+Re-Examination (2021-2022)
+
+~~ Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
 1) Question No. _1___ is compulsory.
 
-2) Out of remaining questions, attempt any _ 4 _ questions.
-3)Inall___5_ questions to be attempted.
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall__5_ questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -8211,81 +8832,37 @@ the cover of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Qi Answer briefly: [20]
-Q.1 a. | Explain any two types of data flow in communication network with diagram. [5]
-CO-1; SO-1;
+Q.1 Answer briefly:
+A What is meant by network topology? Give the advantages and disadvantages of [5]
+ring topology
+_|
+B Discuss in brief the different levels of addressing [5]
+Cc What is Channel Aliocation Problem? Explain the Continuous time and Slotted [5]
+time of dynamic channel allocation
+D What are the two key functions of a Router? Justify the need for buffering in a [5]
+router
+Q2 |A Discuss the various physical media types [10]
+B With the help of a neat sketch show the process of generating the CRC. Also, [10]
 
-BL-2
+Compute CRC,for the frame 1101011011 using the generator as 10011
 
-Q.1 b. | Define flow control and error control with an example. [5]
-CO-2; SO- 1;
-
-BL-1
-
-Ql c. | What is the difference between network topology and network protocol? [5]
-CO-1; SO- i;
-
-BL-1
-Ql d. | Explain the services provided by application layer. [5]
-CO-4; SO-1;
-
-BL-2
-Q a. | A bit stream 100100 is transmitted using the standard CRC method and the generator | [10]
-CO-2; SO- 2; polynomial is x? + x? + 1. Determine the actual bit string transmitted by the encoder.
-
-BL-5 | Also, verify whether the received code word is error free or erroneous?
-Q2 b. | Demonstrate BOOTP and DHCP protocol on the basis of its comparison and [10]
-CO-3; SO-1; differences. Also, represent the diagram for both protocols.
-BL-2
+Yo,
 --- page 2 ---
-Q3 a. | Explain the process of FDM multiplexing and demultiplexing with labelled diagram. | [10]
+Q3
 
-CO-1; SO-1;
-BL-2
-QB b. | Compare TCP and UDP on different features. Also give examples of each protocol. [10]
-CO-4; SO-1;
-BL-2
-Q4 a. | An ISP is granted a block of addresses starting with 190.100.0.0/16 (65,536 [10]
-CO-3; SO-6; addresses). The ISP needs to distribute these addresses to two groups of customers as
-BL-6 follows:
-a. The first group has 64 customers; each need 256 addresses.
-b. The second group has 128 customers; each need 128 addresses.
-Design the subblocks and find out how many addresses are still available after these
-allocations.
-Q4 b. | Demonstrate the HTTP protocol with its features, transactions, messages and URL. [10]
-CO-4; SO-1;
-BL-2
-Q5 a. | Define routing table. Explain the types of routing table and the field types. Illustrate [10]
-CO-3; SO-1; the need of optimization.
-BL-1,2
-Q5 b. | What is congestion control. Discuss in detail open loop and close loop congestion [10]
-CO- 4; SO-1; control mechanism using atleast four methods of each.
-BL-1,2
-Q6 a. | Explain the different persistent method used in CSMA with neat diagram and [10]
-CO-2; SO-1; conditional flow chart.
-BL-2
-Q6 b. | Determine the shortest path to node F using dijkstra’s algorithm for the following [10]
-CO-3; SO-6; figure with A as source node.
-BL-5
---- page 3 ---
-—
-
-Q7 a. | Construct a flow chart of CSMA/CA method. [6]
-CO-2; SO-1;
-
-BL-3
-
-Q7 b. | What are the preliminaries of layered network structures? Construct a diagram for [6]
-CO-1; SO-1; relevant justification.
-
-BL-1,3
-
-Q7 c. | Summarize the guided and unguided media used by transmission media with [8]
-CO-1; SO-1; applications. .
-
-BL-2
---- page 4 ---
-
+Discuss in detail the two variants of Sliding window protocol [10]
+Justify the need for MAC sub layer of Data link layer. Compare Pure Aloha and [10]
+Slotted Aloha
+Q4 Discuss in detail the Classful IP v4 addressing scheme [10]
+Explain HDLC with respect to frame formats [10]
+Q.5 State the Optimality principle of routing. Explain the various properties of a [10]
+routing algorithm
+Draw and Explain TCP segment header in detail [10]
+Q.6 Explain Leaky bucket and Token bucket algorithm. Also, justify how token bucket [10]
+algorithm is better Leaky bucket algorithm
+With the help of a neat sketch, Explain OSI network model in detail [10]
+Q7 Explain TCP Connection establishment and TCP Connection release in detail [10]
+Write a note on Domain Name System [10]
 ````
 
 ## 2021-22 · Final-Exam · Sem 4 · paper 23e9042a2853
@@ -8493,80 +9070,6 @@ Design the sub blocks with the range of IP addresses and find out how
 many addresses are still available after these allocations.
 
 3/3
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper 582257b68def
-
-- Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/COMPUTER NETWORKS/Computer Networks, Sem-IV, Re Exam 2021-22.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Program: MBA.Tech/ B.Tech Year: II Semester: [V
-
-Stream : IT °
-
-Subject: Computer Networks Time: 3 hrs (Jo:00amto 12 00pm)
-Date:_2.0/04/24 No. of Pages:02
-
-Marks: 100
-
-Re-exam Examination 2021-2022
-
-_Q1 Answer the following questions [20]
-a. Discuss use of DNS and its elements with a diagram. 5
-b. Distinguish between hub and router. 5
-c. Distinguish between Go Back N Protocol and Selective Repeat. 5
-d. Discuss the pros and cons of the Slotted ALOHA protocol. 5
-Q2 a. Discuss the slow start, congestion detection, and congestion avoidance phase in. TCP 10
-
-congestion control policy in brief with an example.
-
-b. Use Dijkstra's algorithm to find the shortest path tree for node A. Show each step using 10
-diagrams
-
-Q3 a. Discuss the CSMA/CD mechanism for collision detection with an example. 10
-b. Discuss the mechanism of the SMTP protocol for sending/receiving an email. 10
-Q4 a. Distinguish between IP v4 and IPv6. 10
-
-b. For a TCP connection, assume that the initial RTT value is 3s and the initial deviation is ls. 10
-Assume that packet sending times (in seconds) are: 2s, 4s, and the corresponding ACK
-receipt times (in seconds) are as follows: 5.2s, 6.3s. Compute the SRTT, RTTVAR, and RTO
-
-1/2
---- page 2 ---
-Q5
-
-Q6
-
-Q7
-
-after each ACK. Assume the smoothing factor = 0.8 for all computations. Explain the terms
-SRTT, RTTVAR, and RTO.
-
-Distinguish Twisted Pair Cables and Fiber Optic Cables. 7
-
-The 12 bit message was transmitted using hamming code method. The received message is 7
-101100100110 with odd parity, find out whether received data is received properly or not.
-
-Discuss the working of Recursive DNS query with a diagram 6
-
-The message “NEVER GIVE UP” has to be encrypted using the Vernam cipher method 10
-key (ADVENTURISM). Show the encrypted message. Discuss the advantages and
-limitations of the Vernam cipher.
-
-Discuss the reservation mechanism with a diagram in detail 10
-Discuss the bus and star network topology with a diagram. 7
-Explain the byte-stuffing framing technique with an example. 7
-Distinguish between TCP and UDP. 6
-
-2/2
 ````
 
 ## 2021-22 · Re-Exam · Sem 6 · paper 2b14c0043e83
@@ -8792,202 +9295,6 @@ subnet.
 3/3
 ````
 
-## 2021-22 · Re-Exam · Sem 6 · paper 493a86cf7aca
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER NETWORKS/Computer Networks, Sem-VI, Batch 2021-22, Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B.Tech / MBA Tech Stream: EXTC Year: II] Semester: VI
-
-Subject: Computer Networks Time: 03 hrs (2: 00 pm to 5:00 pm)
-Date: 26 /o4 / 2023 No. of Pages: 03
-
-Marks: 100
-
-Re-Examination (Batch 2021-22)
-
->, Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-sa Answer briefly: [20]
-a.
-Sol Classify different Network models and state significant function of any three 4
-a BL4 layers of OSI model. ”
-CO- 2; b. [4]
-SO-1; Explain multiplexing. Discuss time division multiplexing.
-BL-2
-c. | Identify the type of the following destination addresses as unicast, multicast or | [4]
-CO-2; broadcast.
-SO-1; a) 4B:30:10:21:11:1B b) 48:20:1B:2C:08:EF
-BL- 3 c) 2C:30:12:31:11:1D d) FF:FF:FF:FF:FF:FF
-So d. Explain time-exceeded message and destination unreachable message in ICMP [4]
-BL-2
-7 €. | Discuss open loop and closed loop congestion control in TCP with an example [4]
-BL2 of each.
-
-1/3
---- page 2 ---
-Q.2 a.
-CO-1; Explain bus, star and mesh network topologies along with figure. [10]
-SO-1; BL-2
-C0:35 b. | Elaborate Address Resolution Protocol (ARP) and Reverse Address Resolution
-SO-1; : : [10]
-BL-2 Protocol (RARP) with labeled diagram.
-Q.3 a. :
-CO-2; Explain the working of simple parity-check code with encoder and decoder
-SO-1; diagrams. Justify the use of syndrome bits. [10]
-BL-2,5
-CO-2; b.
-SO-1; Distinguish between pure aloha and slotted aloha protocol. Discuss and sketch | [10]
-BL-4 the diagram for slotted aloha.
-Q.4 a. ; :
-CO-4; Explain DHCP protocol in detail. How the static address and dynamic address {10}
-SO-1; allocation is provided in DHCP.
-BL-2
-b. -
-So. Illustrate the TCP connection establishment process and connection termination {10}
-BL2 process with detailed flow diagram of connection establishment using three-
-way handshaking.
-a.
-Using Dijkstra’s Algorithm, find the shortest distance from source vertex ‘S’ to
-remaining vertices in the following graph. Draw the shortest path tree.
-Q.5
-CO-4;
-S0-6; [10]
-BL-5,2
-Son. b. Explain in detail Simple Network Management Protocol (SNMP) in application {10}
-BL2 layer and its architecture.
-
-2/3
-
-om
---- page 3 ---
-Q.6
-
-Explain the working of stop and wait protocol with flow diagram. What is the
-
-CO-2; SO- he a 18 5 zi , 12
-I: a significance of sliding window in selective repeat ARQ protocol. 12]
-CO-4;
-SO-1; What is subnetting? Compare IPv4 and IPv6 [8]
-BL-1,2
-Q.7
-CO-1; Distinguish between packet switching and circuit switching. Explain packet (10)
-SO-2; switching technique with diagram.
-BL-4
-Evaluate the shortest distance from source vertex A to every other vertex in the
-following graph using Bellman Ford algorithm. Show the result in the table.
--1
-CO-4;
-S0-6; [10]
-BL-5
-
-1
-
-3/3
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper 141ecb1d72d7
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/Computer Networks , Re-exam 2021-2022.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2023-2024 t
-Program: MBA.Tech/ B.Tech Year: II Semester: IV
-Stream : IT ;
-Subject: Computer Networks Time: 3 hrs (i0o0awto 4:00pm)
-
-Date:_27/6/24 No. of Pages:02
-
-Marks: 100
-Re-exam Examination 2021-2022
-
-__) Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-Qi Answer the following questions [20]
-a. Discuss the key difference between a switch and a router. 5
-b. Discuss the advantages and disadvantages of star topology 5
-¢. Explain the working of the Pure ALOHA protocol 5
-d. Explain the mechanism of Selective repeat ARQ protocol with a diagram. 5
-OF @ Discuss the phases of the TCP Reno protocol in detail with an example. 10
-b.. Discuss the mechanism of Dijkstra's algorithm to find the shortest path tree with an 10
-example.
-a. In 1-peristance CSMA/CD with Tp=25us and Tfr = 75s, there are two stations A and B.
-Both stations start sending frames to each other at the same time. Since the frames collide,
-
-Q3 each station tries to retransmit. Station A comes out with R=1 and station b with R =5. 10
-Ignore any other delay including the delay for sending jamming signals. Draw the timeline
-diagram ‘showing the two stations and frame transmission and frame propagation. Discuss
-the mechanism of the CSMA/CD protocol.
-
-b. Discuss the mechanism of iterative query and recursive query resolver in detail with a 10
-diagram. 7
-Q4 a. a / . ,
-Distinguish between Distance vector and Link state routing protocols 10
-b. Discuss the mechanism of hamming code with an example. Discuss the advantages and
-disadvantages of hamming code. 10
-os
-
-t
-
-1/2
---- page 2 ---
-Q5 a.
-
-Q6
-
-Q7
-
-Distinguish between Coaxial and fiber optics 7
-Explain the character-oriented (or byte-oriented) framing technique with an example. 7
-Distinguish between IMAP and POP3. . 6
-The message “CRUST BLAME?” has to be encrypted using Vernam cipher method key
-(ZHISODAISY). Show the encrypted message. Explain the advantages of Vernam 10
-Cipher.
-
-Explain the polling mechanism in the medium access control layer with a diagram. 10
-
-Draw OSI and TCP/IP protocol suite. Compare OSI and TCP/IP protocol suites. ~ 7
-
-For a TCP connection, assume that the initial RTT value is 2s and the deviation is 1s.
-Assume that packet sending times (in seconds) are: 1s, 2s, and the corresponding ACK
-receipt times (in seconds) are as follows: 1.1s, 3s. Compute the RTT and deviation after 7
-each ACK. Assume the smoothing factor = 0.75 for all computations.
-
-Distinguish between Pure Aloha and Slotted Aloha. 6
-
-2/2
-````
-
 ## 2021-22 · Re-Exam · Sem 4 · paper 66b4da09e057
 
 - Departments: Information Technology
@@ -9093,77 +9400,6 @@ suite.
 (7)
 (71
 (1,
-````
-
-## 2021-22 · Re-Exam · Sem 1 · paper ce87453f909e
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/COMPUTER NETWORKS/Computer Networks Batch 2021-22 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 December 2022
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-SVKM’s NMIMS :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER!
-
-Academic Year: 2022-23
-Programme: MCA Year: I Semester: I
-Subject: Computer Networks .
-Marks: 100
-Date: 12 December 2022 Time: 10.30 am - 01.30
-
-Durations: 3 (Hrs)
-No. of Pages:_2
-
-Re-Examination (2021-2022)
-
-~~ Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Answer briefly:
-A What is meant by network topology? Give the advantages and disadvantages of [5]
-ring topology
-_|
-B Discuss in brief the different levels of addressing [5]
-Cc What is Channel Aliocation Problem? Explain the Continuous time and Slotted [5]
-time of dynamic channel allocation
-D What are the two key functions of a Router? Justify the need for buffering in a [5]
-router
-Q2 |A Discuss the various physical media types [10]
-B With the help of a neat sketch show the process of generating the CRC. Also, [10]
-
-Compute CRC,for the frame 1101011011 using the generator as 10011
-
-Yo,
---- page 2 ---
-Q3
-
-Discuss in detail the two variants of Sliding window protocol [10]
-Justify the need for MAC sub layer of Data link layer. Compare Pure Aloha and [10]
-Slotted Aloha
-Q4 Discuss in detail the Classful IP v4 addressing scheme [10]
-Explain HDLC with respect to frame formats [10]
-Q.5 State the Optimality principle of routing. Explain the various properties of a [10]
-routing algorithm
-Draw and Explain TCP segment header in detail [10]
-Q.6 Explain Leaky bucket and Token bucket algorithm. Also, justify how token bucket [10]
-algorithm is better Leaky bucket algorithm
-With the help of a neat sketch, Explain OSI network model in detail [10]
-Q7 Explain TCP Connection establishment and TCP Connection release in detail [10]
-Write a note on Domain Name System [10]
 ````
 
 ## 2019-20 · Final + Re-Exam · Sem 5 · paper 6fe86d28aed4
@@ -9966,6 +10202,121 @@ d) Ethernet
 — ¢
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper 17f7257646f9
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER NETWORKS/COMPUTER NETWORKS BATCH 16-17 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 13 June 2019
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+a
+
+. MPSTME ~
+. LIBRARY
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERIN 4
+
+Program B.Tech (COMPUTER) Year: If Semester:IV
+* — AcademicYear: 2018-2019
+Subject: Computer Networks “ Marks: 70
+a é
+
+Date : 13 June 2019 y Time:2.00 pm to 5.00 pm
+
+Duration: 3 (hrs) __
+No. of Pages: 2
+
+Re-Examination (2016-17 / 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. :
+
+1) Question No. _1____is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. ; .
+
+1. a. What is the difference between Simplex, Half Duplex and Full Duplex transmission modes? For n_ (7)
+devices in a network, what is the number of cable links required for mesh, ring, bus and star
+topology? :
+
+b. Compare the data rates for Standard Ethernet, Fast Ethernet, Gigabit Ethernet and Ten gigabit (7)
+Ethernet. What is the difference between Unicast, Multicast and Broadcast address? If the Ethernet
+destination address is 58:D4:3C:D2:7A:F6. What is the type of address (Unicast, Broadcast, and
+Multicast). :
+
+2. a. Name three types of Transmission Impairments. Write short notes on Guided and Un-guided (7)
+
+transmission media.
+b. Compare and Contrast the Go-Back-N ARQ protocol with Selective Repeat ARQ. (7)
+
+3. a. Find the class of following IP addresses: (7)
+(i) 237.14.2.1
+
+(ii) 208.35.54.12
+
+(iii) 129.14.6.8
+
+(iv) 114.34.2.8
+
+Suppose NMIMS is granted the block 192.17.192.0/22. You are supposed to design subnets having
+
+30 hosts using this block.
+
+(i) How many subnets you can design and mention the subnet mask.
+
+seal
+(ii) Find the first and last address in the first subnet.
+. (iii) Find the first and last address in the last subnet.
+se: b Is the size of ARP packet fixed? Explain. Describe the working of ARP packet with suitable (7)
+diagram.
+“oe Page 1/2
+--- page 2 ---
+4. a. Give the difference between Connectionless and Connection Oriented services. Explain the (7)
+Connection Establishment, Data Transfer and Connection Termination procedure in TCP Protocol.
+b. Why do we need a DNS system when we directly use an IP address? Explain the concept of DNS in (7)
+
+detail
+
+5. a. What are three FTP transmission modes? Explain Simple Mail Transfer Protocol in detail. (7)
+
+b. Define Hamming Code for error correction. Calculate the given codeword 001001101001011101 is (7)
+correct or not. If incorrect, Identify the correct code.
+
+6. a. Match the following to one or more layers of the OSI model. (7)
+(i) Provide access for the end user
+(ii) Route Determination
+(iit) Flow Control
+(iv) Interface to transmission media
+(v) Define Frames
+(vi) Reliable process to process delivery
+Explain CSMA random access protocol in detail.
+b. How are congestion contro] and quality of service related at network layer? What is the difference (7)
+between open loop congestion control and closed loop congestion control? Explain in detail.
+
+7. Write short notes on : (any four) - x (14)
+a. PSTN
+b. Shortest Path Algorithm ; ‘ .
+c. Architecture of Internet :
+d. UDP Protocol
+e. SNMP Protocol
+f. ALOHA
+
+Page 2/2
+````
+
 ## 2018-19 · Re-Exam · Sem 5 · paper 297acc59f8df
 
 - Departments: Information Technology
@@ -10135,6 +10486,78 @@ c DNS = 7
 em
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper ad6afda278dd
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/IV SEMESTER/Computer Network/Computer Networks Re-exam 16-17-18.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 22 April 2019
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+4 SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B. Tech (Computer) Year: II Semester: [V
+‘ Academic Year: 2018-2019 ° 7 -
+Subject: Computer Networks - Marks: 70
+Date : 22 April 2019 _ § ; Time:2.00 pm to 5.00 pm
+
+Duration: 3 (hrs) - ~
+No. of Pages:_O 2
+Re-Examination (2016-17 / 2017-18) o
+
+o£the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questidns, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1. (a) What is the Principal difference between connectionless and connection oriented 4
+communication? =
+(b) Explain the transmission modes. 3
+(c) What are different switching techniques? 4
+(d) Discuss the three main division of the domain name space. 3
+2. (a) Define Congestion. What are the general Principles of Congestion? 6
+(b) Explain the ISO/OSI layered architecture with neat sketch. 8
+3. (a) List the differences between a unicast, multicast and broadcast address. 6
+(b) What is ALOHA? Explain CSMA protocols in detail. 8
+4. (a) Explain stop and wait ARQ protocol with neat diagram. 7
+(b) Explain Hamming code with algorithm. Encode the data bits 0101 into a seven bit even parity 7
+
+hamming code.
+
+5. (a) Give the frame structure of HDLC. Explain each field. 7
+(b) Discuss different services of transport layer. 7
+6. (a) What do you understand by HTTP protocol? Explain its working. 6
+(b) Draw format of TCP packet header and explain each of its field. 8
+7. (a) What is framing? Why it is implemented in Data Link Layer? 5
+
+i
+--- page 2 ---
+ae
+
+4
+
+(b) For the given IP address 205.16.37.39/28 in some block of addresses, calculate:
+i) Mention the class.
+ii) Address Mask
+iii) First address of the block.
+iv) Broadcast address
+v) Divide the network 205.16.37.0 into 4 sybnets. Find the subnet mask.
+
+(c) Explain the WWW in detail.
+````
+
 ## 2018-19 · Re-Exam · Sem 4 · paper b7267498aec2
 
 - Departments: Computer Engineering
@@ -10213,6 +10636,76 @@ b) QOS
 c) Architecture of Internet
 d) UDP
 e) DNS : ~-
+````
+
+## 2018-19 · Re-Exam · Sem 4 · paper 3bec7bcfc707
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/Computer Networks....Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 13 June 2019
+- Text: ocr (1 page), mean OCR confidence 93.5
+
+````text
+SVKM’S NMIMS
+
+Program MBA Tech (IT)- Year: II ~ Semester:IV
+Academic Year: 2018-2019
+
+Subject: Computer Networks « Marks: 70 ~
+
+Date : 13 June 2019 - Time:2.00 pm to 5.06 pm -
+
+Duration: 3 (hrs) “
+No. of Pages:_ 0}
+
+Re-Examination (2017-18 / 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Quel A) Which network topology is the most efficient topology? Justify your answer. [07]
+B) How does the control access resolves channel allocation problem? Explain with polling. [07]
+
+Que2 A) How network layer, transport layer and session layer of OSI model will work for Torrent websites? [07]
+
+B) Explain the functioning of Congestion Control algorithm in transport layer. [07]
+
+Que3 A) How data centers are adopting structured cabling? Illustrate an example. [07]
+B) Differentiate 1. Circuit switching and packet switching
+
+2. Radio wave and micro wave transmission. [07]
+
+Que4 A) By considering a video call as an example, explain analog to digital signal conversion and exchange of
+data packets in detail. [07]
+B) Derive the maximum probability of success of Pure Aloha. Consider in a slotted aloha system with 3
+stations, probability of transmission of these stations are 0.7, 0.3 and 0.45 respectively. What will be
+
+the channel throughput? [07]
+
+QueS A) Explain TCP and IP with reference to their application. [07]
+B) What is distance vector routing? Explain with an example. [07]
+
+Que6 A) What is birth and death process in queuing theory? Give an example. [07]
+B) How do we analyze the M/M/1 and M/M/1-b queuing system? [07]
+
+Que7 A) Draw and explain IPV4 datagram format. [07]
+B) List and explain various multiple access techniques in wireless communication system. [07]
+
+vi
 ````
 
 ## 2018-19 · Re-Exam · Sem 1 · paper 29a02190635e
@@ -10814,119 +11307,84 @@ d. | Computer network switching
 — ay
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper 17f7257646f9
+## 2017-18 · Re-Exam · Sem 4 · paper 0972576f0572
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER NETWORKS/COMPUTER NETWORKS BATCH 16-17 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 13 June 2019
-- Text: ocr (2 pages), mean OCR confidence 90.7
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER NETWORKS/COMPUTER_NETWORKS_B TECH COMPUTER BATCH_15-16_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2018
+- Text: ocr (2 pages), mean OCR confidence 92.7
 
 ````text
-a
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIR
 
-. MPSTME ~
-. LIBRARY
-SVKM’S NMIMS
+Programme: B. Tech (Computer) Year: II Semester: IV
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERIN 4
+Batch: 2015-16
+Academic Year: 2017-2018
 
-Program B.Tech (COMPUTER) Year: If Semester:IV
-* — AcademicYear: 2018-2019
-Subject: Computer Networks “ Marks: 70
-a é
-
-Date : 13 June 2019 y Time:2.00 pm to 5.00 pm
-
-Duration: 3 (hrs) __
-No. of Pages: 2
-
-Re-Examination (2016-17 / 2017-18)
+* Subject: Computer Networks _
+a Marks: 60 ~
+Date: 02 July 2018 Time: 10.00 am to 1.00 pm
+a“ Durations: 3 (Hrs)
+No. of Pages: __ 2
+Re-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. :
+of the Answer Book, which is provided for their use.
 
-1) Question No. _1____is compulsory.
+1) Question No. | is compulsory.
 
-2) Out of remaining questions, attempt any __4 _ questions.
+2) Out of remaining questions, attempt any 4 questions,
 
-3) In all__5_ questions to be attempted.
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
 
-7) Assume Suitable data if necessary. ; .
+1. (a) Match the following functionality with one of the layer of the OSI model and explain one ofits 4
+key functionality:
 
-1. a. What is the difference between Simplex, Half Duplex and Full Duplex transmission modes? For n_ (7)
-devices in a network, what is the number of cable links required for mesh, ring, bus and star
-topology? :
+i) Process to Process delivery.
 
-b. Compare the data rates for Standard Ethernet, Fast Ethernet, Gigabit Ethernet and Ten gigabit (7)
-Ethernet. What is the difference between Unicast, Multicast and Broadcast address? If the Ethernet
-destination address is 58:D4:3C:D2:7A:F6. What is the type of address (Unicast, Broadcast, and
-Multicast). :
+ii) Mechanical, Electrical, & Functional Interface.
+(b) State the different propagation methods of wireless transmission. 4
+(c) What is the principle difference between connectionless communication and connection ~
 
-2. a. Name three types of Transmission Impairments. Write short notes on Guided and Un-guided (7)
+oriented communication?
 
-transmission media.
-b. Compare and Contrast the Go-Back-N ARQ protocol with Selective Repeat ARQ. (7)
+2. (a) Compare and contrast a circuit switching and packet switching network. 6
+(b) Compare various types of network topologies. For 6 devices in a network, what is the number 6
+of cable links required for a mesh topology? How many ports are required for each device
+considering ring topology?
 
-3. a. Find the class of following IP addresses: (7)
-(i) 237.14.2.1
+ed 3. (a) Eee ac code with proper algorithm. Compute the Hamming Code for the data - 7
+(b) Compare the efficiency between ALOHA & Slotted ALOHA. 5
 
-(ii) 208.35.54.12
-
-(iii) 129.14.6.8
-
-(iv) 114.34.2.8
-
-Suppose NMIMS is granted the block 192.17.192.0/22. You are supposed to design subnets having
-
-30 hosts using this block.
-
-(i) How many subnets you can design and mention the subnet mask.
-
-seal
-(ii) Find the first and last address in the first subnet.
-. (iii) Find the first and last address in the last subnet.
-se: b Is the size of ARP packet fixed? Explain. Describe the working of ARP packet with suitable (7)
-diagram.
-“oe Page 1/2
+4, (a) Draw the layered structures and compare the two network reference models? OSI and TCP/IP. 6
 --- page 2 ---
-4. a. Give the difference between Connectionless and Connection Oriented services. Explain the (7)
-Connection Establishment, Data Transfer and Connection Termination procedure in TCP Protocol.
-b. Why do we need a DNS system when we directly use an IP address? Explain the concept of DNS in (7)
+(b) Explain sliding window protocol with selective repeat. What is the maximum window size 6
+allowed for selective repeat ARQ? And what will happen if the window size is more than the
+Maximum value.
 
-detail
+5. (a) Explain TCP connection management with the help of suitable diagram. 7 |
+(b) Explain the different classes of IP addresses. Identify class, subnet mask network and broadcast 5 ~
+address of the following.
 
-5. a. What are three FTP transmission modes? Explain Simple Mail Transfer Protocol in detail. (7)
-
-b. Define Hamming Code for error correction. Calculate the given codeword 001001101001011101 is (7)
-correct or not. If incorrect, Identify the correct code.
-
-6. a. Match the following to one or more layers of the OSI model. (7)
-(i) Provide access for the end user
-(ii) Route Determination
-(iit) Flow Control
-(iv) Interface to transmission media
-(v) Define Frames
-(vi) Reliable process to process delivery
-Explain CSMA random access protocol in detail.
-b. How are congestion contro] and quality of service related at network layer? What is the difference (7)
-between open loop congestion control and closed loop congestion control? Explain in detail.
-
-7. Write short notes on : (any four) - x (14)
-a. PSTN
-b. Shortest Path Algorithm ; ‘ .
-c. Architecture of Internet :
-d. UDP Protocol
-e. SNMP Protocol
-f. ALOHA
-
-Page 2/2
+i) 190.5.8.9
+ii) 6.6.45.4
+6. (a) What is the function of TCP protocol? Discuss its header format. 6
+(b) Explain any two of the following protocols: 6
+i) HTTP
+ii) FTP
+iti) POP
+7. (a) What are the different types of routing? Explain Link State Routing. 6
+(b) Explain Token Bucket Algorithm with the help of suitable diagram. 6
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper 47415ca887e3
@@ -11025,6 +11483,104 @@ b) Explain Fiber Optic Media with the help of following points : 7
 e Architecture Diagram
 e Description and Working Principal
 e Connectors used
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper ed9eaae5109d
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER NETWORKS/COMPUTER NETWORKS (IT), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 22 November 2017
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+Pe
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+/ Programme: B. Tech (IT) Year: III Semester: V
+
+Batch: 2014-15
+“ Academic Year: 2017-2018
+
+Subject: Computer Networks - RX:
+‘ Marks: 60 «.”
+
+Date: 22 November 2017 Time: 2.00ain to 5.00 pa Ys
+Durations$a (rsp 2 A}
+No. of Pages} oo 2 NM
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four (4) questions.
+
+3) In all 5 (five) questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+8) Bulleted and to the point answers are preferred.
+
+Ql Attempt all questions below. Answer in 2-3 lines only 12
+
+(a) Why is mesh topology not preferred?
+
+(b) What are the responsibilities of Data Link Layer?
+
+(c) How performance is improved in CSMA/CD protocol compared to COMA
+protocol?
+
+(d) What are advantages of datagram networks?
+
+(e) What is over-provisioning?
+
+(f) What does sequence number indicate in TCP header?
+
+Q2 Answer any three of the following 12
+
+(a) Compare ring and star topology
+(b) Compare twisted pair and fibre optics cable
+(c) Write a short note on Selective Repeat ARQ
+
+1/2,
+--- page 2 ---
+(d) Compute the transmitted bit sequence for the data bit sequence
+10101101.The generator polynomial is x? + 1. The string of bits 110011001100
+is received. Is it acceptable and if so what is the data bit sequence.
+
+Q3 (a) Explain and compare pure and slotted ALOHA protocol. 6
+(b) Explain in brief CSMA and its variants with respect to p-persistence. 6
+Q4 (a) Explain leaky bucket algorithm and its pros and cons. Draw a diagram 6
+(b) Explain Bellman-Ford algorithm using an example. 6
+Q5 (a) Explain how TCP controls congestion. 6
+(b) Explain in brief any three key elements of transport protocol from the 6
+
+following: addressing, connection establishment, connection release, flow
+control and buffering, multiplexing, crash recovery.
+
+Q6 Answer the following. All questions carry equal marks. 12
+
+(a) Differentiate between link state and distance vector algorithm.
+(b) Differentiate between TCP and UDP.
+
+(c) Draw and explain Ethernet frame structure.
+
+(d) Write a short note on DNS.
+
+Q7 (a) Write a short note on SMTP. 6
+
+(b) What do you understand by a queuing model? Explain Little’s theorem in brief 6
+with an example of real life.
 ````
 
 ## 2017-18 · Re-Exam · Sem 6 · paper a6db527fea22
@@ -11207,76 +11763,6 @@ ae
 (3]
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper 3bec7bcfc707
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/Computer Networks....Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 13 June 2019
-- Text: ocr (1 page), mean OCR confidence 93.5
-
-````text
-SVKM’S NMIMS
-
-Program MBA Tech (IT)- Year: II ~ Semester:IV
-Academic Year: 2018-2019
-
-Subject: Computer Networks « Marks: 70 ~
-
-Date : 13 June 2019 - Time:2.00 pm to 5.06 pm -
-
-Duration: 3 (hrs) “
-No. of Pages:_ 0}
-
-Re-Examination (2017-18 / 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Quel A) Which network topology is the most efficient topology? Justify your answer. [07]
-B) How does the control access resolves channel allocation problem? Explain with polling. [07]
-
-Que2 A) How network layer, transport layer and session layer of OSI model will work for Torrent websites? [07]
-
-B) Explain the functioning of Congestion Control algorithm in transport layer. [07]
-
-Que3 A) How data centers are adopting structured cabling? Illustrate an example. [07]
-B) Differentiate 1. Circuit switching and packet switching
-
-2. Radio wave and micro wave transmission. [07]
-
-Que4 A) By considering a video call as an example, explain analog to digital signal conversion and exchange of
-data packets in detail. [07]
-B) Derive the maximum probability of success of Pure Aloha. Consider in a slotted aloha system with 3
-stations, probability of transmission of these stations are 0.7, 0.3 and 0.45 respectively. What will be
-
-the channel throughput? [07]
-
-QueS A) Explain TCP and IP with reference to their application. [07]
-B) What is distance vector routing? Explain with an example. [07]
-
-Que6 A) What is birth and death process in queuing theory? Give an example. [07]
-B) How do we analyze the M/M/1 and M/M/1-b queuing system? [07]
-
-Que7 A) Draw and explain IPV4 datagram format. [07]
-B) List and explain various multiple access techniques in wireless communication system. [07]
-
-vi
-````
-
 ## 2017-18 · Re-Exam · Sem 4 · paper 8272721446f4
 
 - Departments: Information Technology
@@ -11284,6 +11770,7 @@ vi
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/computer_networks_2016-17_2017-18 Re-exam.pdf`
 - Printed on paper: max marks: 70; exam date: 28 June 2018
 - Text: ocr (3 pages), mean OCR confidence 81.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -11406,7 +11893,6 @@ we i dl _—
 i. a eet: ale gt
 { “~sLp E A] / —~_D E “)
 ! a eee | 1 we”
-7 het ‘ aa. pO y ~t J
 a. x i \ + I |
 \ ae an \ Laan
 ee ae ™~, a : bee -
@@ -12023,6 +12509,7 @@ he
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/COMPUTER NETWORKS/Computer Networks 2016-17 Final.pdf`
 - Printed on paper: exam date: 03 December 2016
 - Text: ocr (2 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -12107,9 +12594,126 @@ Internet? 4 Marks
 Explain Repeater Bridge and Gateway. 3 Marks
 QoS in Transport Layer. 3 Marks
 
-2 AA OR OO I IO RRR IC a a A oA Ee oo oo
 
 2fo
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 6c8ed5859235
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER NETWORKS/COMPUTER NETWORKS B TECH COMPUTER BATCH 15-16 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) - Year: II Semester: IV
+
+—,
+
+oN
+
+Batch: 2015-2016 ~ ter a
+ra 4PSTMB. Ve
+
+ne ¥
+
+BLE IBRAR ty
+
+SX.
+* ans GO
+
+Academic Year: 2016-2017 {
+
+Subject: Computer Networks
+Marks: 60
+
+Date: 11 May 2017 ; Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+
+No. of Pages: _Z—
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for the use.
+
+NB:
+1. Question No.1 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. Inall FIVE questions to be attempted.
+4. Draw diagram wherever necessary.
+5. All questions carry equal marks.
+6. Answer to each new question should be started on a fresh page.
+
+7. Figure in brackets indicate full marks. ‘
+Ql.
+a) Compare & contrast between ISO OSI model and TCP/IP reference models. (4)
+b) Differentiate between Datagram network & Virtual Circuit network. (4)
+c) Describe classification of IP addresses in IPv4: (4)
+Q2.
+a) Differentiate between Guided & Unguided transmission media, giving an example of
+each. Also describe any one Guided transmission media in detail. (6)
+b) Explain Framing. Why is it necessary? Explain Byte stuffing & Bit stuffing framing’
+techniques used in Data Link Layer. (6)
+Q3.
+
+a) Suppose a message 1101111001 is transmitted by using even parity hamming code, What
+is the output code word? Suppose bit is inverted at position 5 of the code word, show that
+
+how to detect and correct it? (6)
+
+a b) Explain Sliding window Selective Repeat protocol in detail. (6)
+Q4.
+
+eee a) Draw & explain IPv4 header format. (6)
+
+b) Explain CSMA protocols. Differentiate between 1-persistent, p-persistent & non
+
+persistent. (6)
+Q35.
+
+a) Explain Distance vector routing with count to infinity problem. (6)
+
+he
+--- page 2 ---
+b)
+
+Q6.
+
+a)
+b)
+
+Q7.
+
+a)
+b)
+
+Explain traffic shaping algorithms used to control congestion in the network.
+
+Explain Three way handshaking in detail’.
+Describe TCP segment header in detail.
+
+Describe congestion control in datagram subnet.
+Write short note on following (any two):
+
+i) DNS
+
+ii) WWW
+
+iii) Quality of service.
+
+2
+
+(6)
+(6)
+(6)
+
+(6)
+(6)
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper a9fa2808df1b
@@ -12219,6 +12823,67 @@ B. [4]
 (v) IMAP and POP3.
 
 2/2
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper 34ee6ce3ddcc
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER NETWORKS/COMPUTER NETWORKS BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 26 May 2017
+- Text: ocr (1 page), mean OCR confidence 90.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (IT) Year: II Semester: V
+
+Batch: 2014-15 on ney Aaa
+Academic Year: 2016-2017 pnt»
+
+Subject: Computer Networks
+
+. Marks:60   {¢ ° ”
+Date: 26 May 2017 Time: 10.00 aie 06 prft
+Durations: 3 (hrs lan —_—
+No. of Pages: te ~ Cry vane
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Q1: a) Compare link state and distance vector routing algorithms. (4)
+b) Compare star and bus topology. ; (4)
+c) Discuss connecting devices in different layers. (4)
+Q2: a) Differentiate between pure ALOHA and slotted ALOHA. (6)
+b) Compare Fast Ethernet and Gigabit Ethernet. (6)
+Q3: a) Explain CSMA. How collisions are handled in CSMA/CD. ’ (6)
+b) Explain Go Back-N sliding window protocol using technique. (6)
+Q4: a) Explain count to infinity problem with diagram in brief. (6)
+b) Define Congestion in network. What are the factors that cause congestion in a network?
+Explain tcp congestion control algorithm. (6)
+Tt Q5: a) Define Quality of Service (QoS). Discuss various techniques to improve QoS. (6)
+b) Explain transport layer services. (6)
+— Q6: a) Discuss the design issues for data link layers. (6)
+b) Write short note on Domain name system. . (6)
+Q7: a) What is queuing model? Explain Little’s theorem with an example. (6)
+
+b) Write a short note on IMAP. (6)
 ````
 
 ## 2016-17 · Re-Exam · Sem 6 · paper 65bd2144b41d
@@ -12736,124 +13401,6 @@ d. Transmission Impairment
 9/9.
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 6c8ed5859235
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER NETWORKS/COMPUTER NETWORKS B TECH COMPUTER BATCH 15-16 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) - Year: II Semester: IV
-
-—,
-
-oN
-
-Batch: 2015-2016 ~ ter a
-ra 4PSTMB. Ve
-
-ne ¥
-
-BLE IBRAR ty
-
-SX.
-* ans GO
-
-Academic Year: 2016-2017 {
-
-Subject: Computer Networks
-Marks: 60
-
-Date: 11 May 2017 ; Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-
-No. of Pages: _Z—
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for the use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. Inall FIVE questions to be attempted.
-4. Draw diagram wherever necessary.
-5. All questions carry equal marks.
-6. Answer to each new question should be started on a fresh page.
-
-7. Figure in brackets indicate full marks. ‘
-Ql.
-a) Compare & contrast between ISO OSI model and TCP/IP reference models. (4)
-b) Differentiate between Datagram network & Virtual Circuit network. (4)
-c) Describe classification of IP addresses in IPv4: (4)
-Q2.
-a) Differentiate between Guided & Unguided transmission media, giving an example of
-each. Also describe any one Guided transmission media in detail. (6)
-b) Explain Framing. Why is it necessary? Explain Byte stuffing & Bit stuffing framing’
-techniques used in Data Link Layer. (6)
-Q3.
-
-a) Suppose a message 1101111001 is transmitted by using even parity hamming code, What
-is the output code word? Suppose bit is inverted at position 5 of the code word, show that
-
-how to detect and correct it? (6)
-
-a b) Explain Sliding window Selective Repeat protocol in detail. (6)
-Q4.
-
-eee a) Draw & explain IPv4 header format. (6)
-
-b) Explain CSMA protocols. Differentiate between 1-persistent, p-persistent & non
-
-persistent. (6)
-Q35.
-
-a) Explain Distance vector routing with count to infinity problem. (6)
-
-he
---- page 2 ---
-b)
-
-Q6.
-
-a)
-b)
-
-Q7.
-
-a)
-b)
-
-Explain traffic shaping algorithms used to control congestion in the network.
-
-Explain Three way handshaking in detail’.
-Describe TCP segment header in detail.
-
-Describe congestion control in datagram subnet.
-Write short note on following (any two):
-
-i) DNS
-
-ii) WWW
-
-iii) Quality of service.
-
-2
-
-(6)
-(6)
-(6)
-
-(6)
-(6)
-````
-
 ## 2015-16 · Re-Exam · Sem 4 · paper 79e71d63da27
 
 - Departments: Computer Engineering
@@ -12943,86 +13490,6 @@ x +
 [4x3]
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 0972576f0572
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER NETWORKS/COMPUTER_NETWORKS_B TECH COMPUTER BATCH_15-16_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2018
-- Text: ocr (2 pages), mean OCR confidence 92.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIR
-
-Programme: B. Tech (Computer) Year: II Semester: IV
-
-Batch: 2015-16
-Academic Year: 2017-2018
-
-* Subject: Computer Networks _
-a Marks: 60 ~
-Date: 02 July 2018 Time: 10.00 am to 1.00 pm
-a“ Durations: 3 (Hrs)
-No. of Pages: __ 2
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions,
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-1. (a) Match the following functionality with one of the layer of the OSI model and explain one ofits 4
-key functionality:
-
-i) Process to Process delivery.
-
-ii) Mechanical, Electrical, & Functional Interface.
-(b) State the different propagation methods of wireless transmission. 4
-(c) What is the principle difference between connectionless communication and connection ~
-
-oriented communication?
-
-2. (a) Compare and contrast a circuit switching and packet switching network. 6
-(b) Compare various types of network topologies. For 6 devices in a network, what is the number 6
-of cable links required for a mesh topology? How many ports are required for each device
-considering ring topology?
-
-ed 3. (a) Eee ac code with proper algorithm. Compute the Hamming Code for the data - 7
-(b) Compare the efficiency between ALOHA & Slotted ALOHA. 5
-
-4, (a) Draw the layered structures and compare the two network reference models? OSI and TCP/IP. 6
---- page 2 ---
-(b) Explain sliding window protocol with selective repeat. What is the maximum window size 6
-allowed for selective repeat ARQ? And what will happen if the window size is more than the
-Maximum value.
-
-5. (a) Explain TCP connection management with the help of suitable diagram. 7 |
-(b) Explain the different classes of IP addresses. Identify class, subnet mask network and broadcast 5 ~
-address of the following.
-
-i) 190.5.8.9
-ii) 6.6.45.4
-6. (a) What is the function of TCP protocol? Discuss its header format. 6
-(b) Explain any two of the following protocols: 6
-i) HTTP
-ii) FTP
-iti) POP
-7. (a) What are the different types of routing? Explain Link State Routing. 6
-(b) Explain Token Bucket Algorithm with the help of suitable diagram. 6
-````
-
 ## 2015-16 · Re-Exam · Sem 5 · paper 78311ad0315b
 
 - Departments: Information Technology
@@ -13106,6 +13573,98 @@ iii) Digital Modulation iv) IPv4 Header .
 \
 
 an £
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 769492178fe7
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER NETWORKS/COMPUTER NETWORKS B TECH (IT), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 25/11/2015
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: HI Semester: V
+Batch: 2014-2015
+Academic Year: 2015-2016 ge DP Rey
+Subject: Computer Networks j a. APSTM te
+Marks: re LiBi RA A
+Date: 25/11/2015 Time: 2.66pm to 5. ape.
+Duration: . 3) xe Ps ~ 43 % x
+MiSge wi wer
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt tany v4 ‘questi OnS..
+
+3) In all Squestions to be attempted. ;
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures. in brackets on the right hand side indicate full marks.
+
+Q. 1) Solve the following. C12)
+
+a) For starting IP address as 192.168.19.0 with default mask n as /25. Calculate the subnet mask, block
+size and also display the blocks of IP addresses.
+
+b) A group of N stations share a 56 kbps pure ALOHA channel. Each station outputs a 1000 bit
+frame on an average of once every 100 sec, even if the previous one has not yet been sent
+(e.g. the stations are buffered). What is the maximum value of N?
+
+c) For the message 1101011011 and generator as 10011. Calculate the CRC and show the transmitted
+message.
+
+d) Check whether the received message 10100 000 1010 is correct or contains error using even parity.
+If there is an error figure out the bit position and write down the corrected codeword. Ci 2)
+
+Q.2) (20)
+a) Explain guided transmission media and its significance.
+b) Enlist the key elements of Transport layer protocols? Explain any two elements in brief.
+
+Q3) hal (12)
+
+a) Suggest suitable routing algorithms for continuous traffic and bursty traffic.
+b) Draw and explain the TCP Header Format.
+
+4/2
+--- page 2 ---
+Q.4) Ci2)
+
+a) Compare and conirast Connection Oriented and Connectionless service
+b) What is count to infinity problem in Distance Vector Routing? How is it solved?
+
+Q5) a2)
+a) Compare Stop and Wait, Selective-Repeat and Go-back-N sliding window protocols.
+b) Draw Ethernet Frame Format and explain the significance of each field.
+
+Q6) >)
+a) How are collisions handled by 1- persistent CSMA protocol? Give an example of collision free
+
+multiple access protocol and explain it in detail
+b) Write short note on DNS
+
+Q.7) Write short Notes on (any 4) Ci 2)
+
+i) HTTP
+
+ii) PPP
+
+iii) Little’s Theorem
+iv) Frame Relay
+
+v) ATM
 ````
 
 ## 2015-16 · Re-Exam · Sem 1 · paper 614ce088b6bf
@@ -13437,6 +13996,7 @@ p ~
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/COMPUTER NETWORKS BATCH 2014-2015 FINAL.pdf`
 - Printed on paper: exam date: 06/05/2015
 - Text: ocr (2 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -13471,7 +14031,6 @@ b. Error Correction and Retransmission
 c. Establishes, manages and terminates sessions.
 d. Ensures reliable transmission of data
 e. Mechanical, electrical and functional interface
-Ff, Rerforrs enenphen en cocking, of dota
 Q.2. A. I. A network using CSMA/CD has a bandwidth of 10 Mbps. If the maximum C32]
 propagation time is 25.6 us, what is the minimum size of the frame?
 li. With a neat and labeled diagram, Elaborate 802.3 MAC Frame Format. C3]
@@ -13563,6 +14122,74 @@ C3*4-2}
 ' ‘
 ````
 
+## 2014-15 · Re-Exam · Sem 4 · paper ede509b05df3
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER NETWORKS/COMPUTER NETWORKS B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 02/07/2015
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: II Semester: IV
+Batch: 2013-14
+
+Academic Year: 2014-2015
+Subject: Computer Networks ‘a aei's
+
+Date: 02/07/2015
+
+instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. |__ is compulsory.
+
+2) Out of remaining questions, attempt any _'{ questions.
+
+3) Inall_9 _ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right ‘hand side indicate full marks.
+
+Ql.
+a. Differentiate between TCP and UDP [10]
+b. Explain IPv4 header format in detail. [10]
+Q2.
+a. Explain X.25 in detail [10]
+b. Explain CSMA/CD [10]
+3.
+a. Explain the Sliding Window protocol in detail. [10]
+b. Explain any one congestion control algorithm in detail. [10]
+Q4
+a. Draw and explain TCP state diagram. [10]
+b. State difference between packet switching and circuit switching {10]
+Q5 3
+a. Draw and compare ISO-OSI model & TCP/IP reference model. {10]
+b. Explain the various network topologies. Also explain the various networking
+
+devices. [10]
+
+sf
+--- page 2 ---
+Q6
+
+a. Explain distance vector routing algorithm in detail. [10]
+
+b. Explain the HTTP and SMTP protocol. [10]
+Q7
+
+a. Explain SONET in detail. [10]
+
+b. What is Bluetooth? Explain Bluetooth’s architecture and applications. [10]
+````
+
 ## 2014-15 · Re-Exam · Sem 4 · paper 68403ce1f469
 
 - Departments: Computer Engineering
@@ -13639,104 +14266,6 @@ E. Flow Control
 F. Transmission Impairments
 
 4/4.
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper ed9eaae5109d
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER NETWORKS/COMPUTER NETWORKS (IT), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 22 November 2017
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-Pe
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-/ Programme: B. Tech (IT) Year: III Semester: V
-
-Batch: 2014-15
-“ Academic Year: 2017-2018
-
-Subject: Computer Networks - RX:
-‘ Marks: 60 «.”
-
-Date: 22 November 2017 Time: 2.00ain to 5.00 pa Ys
-Durations$a (rsp 2 A}
-No. of Pages} oo 2 NM
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four (4) questions.
-
-3) In all 5 (five) questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-8) Bulleted and to the point answers are preferred.
-
-Ql Attempt all questions below. Answer in 2-3 lines only 12
-
-(a) Why is mesh topology not preferred?
-
-(b) What are the responsibilities of Data Link Layer?
-
-(c) How performance is improved in CSMA/CD protocol compared to COMA
-protocol?
-
-(d) What are advantages of datagram networks?
-
-(e) What is over-provisioning?
-
-(f) What does sequence number indicate in TCP header?
-
-Q2 Answer any three of the following 12
-
-(a) Compare ring and star topology
-(b) Compare twisted pair and fibre optics cable
-(c) Write a short note on Selective Repeat ARQ
-
-1/2,
---- page 2 ---
-(d) Compute the transmitted bit sequence for the data bit sequence
-10101101.The generator polynomial is x? + 1. The string of bits 110011001100
-is received. Is it acceptable and if so what is the data bit sequence.
-
-Q3 (a) Explain and compare pure and slotted ALOHA protocol. 6
-(b) Explain in brief CSMA and its variants with respect to p-persistence. 6
-Q4 (a) Explain leaky bucket algorithm and its pros and cons. Draw a diagram 6
-(b) Explain Bellman-Ford algorithm using an example. 6
-Q5 (a) Explain how TCP controls congestion. 6
-(b) Explain in brief any three key elements of transport protocol from the 6
-
-following: addressing, connection establishment, connection release, flow
-control and buffering, multiplexing, crash recovery.
-
-Q6 Answer the following. All questions carry equal marks. 12
-
-(a) Differentiate between link state and distance vector algorithm.
-(b) Differentiate between TCP and UDP.
-
-(c) Draw and explain Ethernet frame structure.
-
-(d) Write a short note on DNS.
-
-Q7 (a) Write a short note on SMTP. 6
-
-(b) What do you understand by a queuing model? Explain Little’s theorem in brief 6
-with an example of real life.
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper 9bc74661d354
@@ -13829,26 +14358,24 @@ E. M/M.1 Queuing model.
 Page 2 of 2
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 769492178fe7
+## 2014-15 · Re-Exam · Sem 4 · paper 40b011bfb7b3
 
 - Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER NETWORKS/COMPUTER NETWORKS B TECH (IT), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 25/11/2015
-- Text: ocr (2 pages), mean OCR confidence 90.8
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/COMPUTER NETWORKS BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 06/05/2015
+- Text: ocr (2 pages), mean OCR confidence 94.3
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (I.T.) Year: HI Semester: V
-Batch: 2014-2015
-Academic Year: 2015-2016 ge DP Rey
-Subject: Computer Networks j a. APSTM te
-Marks: re LiBi RA A
-Date: 25/11/2015 Time: 2.66pm to 5. ape.
-Duration: . 3) xe Ps ~ 43 % x
-MiSge wi wer
+Programme: MBA Tech (I.T.) Year: I Semester: IV
+Batch: 2013-14 ' .
+Academic Year: 2014-2015
+Subject: Computer Networks
+Mar!
+Date: 06/05/2015 Tim
 
 Re-Examination
 
@@ -13859,127 +14386,166 @@ NB:
 
 1) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt tany v4 ‘questi OnS..
+2) Out of remaining questions, attempt any 4 questions.
 
-3) In all Squestions to be attempted. ;
+3) In all Squestions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-6) Figures. in brackets on the right hand side indicate full marks.
+6) Figures in brackets on the right hand side indicate full marks.
 
-Q. 1) Solve the following. C12)
+Q. 1) Solve the following (20)
 
-a) For starting IP address as 192.168.19.0 with default mask n as /25. Calculate the subnet mask, block
-size and also display the blocks of IP addresses.
+a) An ALOHA network user 19.2 kbps channel for sending message packets of 100 bit long size.
+Calculate the maximum throughput for pure ALOHA network.
+b) Find the transmitted frame by CRC if the frame is 101110 and generator is 1001.
+c) Perform the subnetting of following IP address 192.168.16.X
 
-b) A group of N stations share a 56 kbps pure ALOHA channel. Each station outputs a 1000 bit
-frame on an average of once every 100 sec, even if the previous one has not yet been sent
-(e.g. the stations are buffered). What is the maximum value of N?
+Original subnet mask 255.255.255.0
 
-c) For the message 1101011011 and generator as 10011. Calculate the CRC and show the transmitted
-message.
-
-d) Check whether the received message 10100 000 1010 is correct or contains error using even parity.
-If there is an error figure out the bit position and write down the corrected codeword. Ci 2)
+Number of Host 50
+d) An 8 Bit byte with binary values 10101111 is to be encoded using an even parity Hamming code. What
+is the Binary value after coding?
 
 Q.2) (20)
-a) Explain guided transmission media and its significance.
-b) Enlist the key elements of Transport layer protocols? Explain any two elements in brief.
+a) Explain guided transmission media for physical layer
+b) Explain leaky bucket and token bucket algorithm in detail
 
-Q3) hal (12)
-
-a) Suggest suitable routing algorithms for continuous traffic and bursty traffic.
-b) Draw and explain the TCP Header Format.
-
-4/2
---- page 2 ---
-Q.4) Ci2)
-
-a) Compare and conirast Connection Oriented and Connectionless service
-b) What is count to infinity problem in Distance Vector Routing? How is it solved?
-
-Q5) a2)
-a) Compare Stop and Wait, Selective-Repeat and Go-back-N sliding window protocols.
-b) Draw Ethernet Frame Format and explain the significance of each field.
-
-Q6) >)
-a) How are collisions handled by 1- persistent CSMA protocol? Give an example of collision free
-
+Q.3) (20)
+a) How are collisions handled by 1- persistent CSMA protocol? Give an exampie of collision free
 multiple access protocol and explain it in detail
-b) Write short note on DNS
 
-Q.7) Write short Notes on (any 4) Ci 2)
+b) What is framing? Explain the different methods of it alongwith suitable examples.
 
-i) HTTP
+Q.4) (20)
+a) Compare and contrast the different Modulation Techniques
+b) Explain Djikstra’s algorithm as shortest path routing with suitable example.
+--- page 2 ---
+Q.5)
 
-ii) PPP
+a) What is count to infinity problem in Distance Vector Routing? How is it solved?
+b) Compare Connection Oriented and Connectionless service
 
-iii) Little’s Theorem
-iv) Frame Relay
+Q.6)
 
-v) ATM
+a) Draw the IPv4 Header Format? Explain the need and mechanism of fragmentation in [Pv4
+with the help of respective header format fields
+
+b) Draw and explain the OSI Model in brief
+
+Q.7) Write short Notes on (any 4)
+
+i) Sliding Window Protocol
+ii) RIP
+
+iii) OSPF
+
+iv) DNS
+
+v) WWW
+
+vi) SONET
+
+OX
+
+(20)
+
+(20)
+
+(20)
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 34ee6ce3ddcc
+## 2014-15 · Re-Exam · Sem 4 · paper c6367ae2b0be
 
 - Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER NETWORKS/COMPUTER NETWORKS BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 26 May 2017
-- Text: ocr (1 page), mean OCR confidence 90.1
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/Computer Networks Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.3
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (IT) Year: II Semester: V
+Programme: MBA Tech (IT) Year: II Semester: IV
 
-Batch: 2014-15 on ney Aaa
-Academic Year: 2016-2017 pnt»
+Academic Year: 2014-15
 
-Subject: Computer Networks
+yeeritOTT op
+Batch: 2013-14 #7
 
-. Marks:60   {¢ ° ”
-Date: 26 May 2017 Time: 10.00 aie 06 prft
-Durations: 3 (hrs lan —_—
-No. of Pages: te ~ Cry vane
+Subject : Computer Networks Marks: 100' w( “° “STMB 2 :
+Time : 10.0 to'1:00 pri v js
+Date : 29/06/2015 Durations: oN wy) is
 
-Re-Examination
+Re-Examination Maite: aver *
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Se
 
-1) Question No. 01 is compulsory.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-2) Out of remaining questions, attempt any 04 questions.
+NB:
 
-3) In all 05 questions to be attempted.
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In ali Squestions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
 
-Q1: a) Compare link state and distance vector routing algorithms. (4)
-b) Compare star and bus topology. ; (4)
-c) Discuss connecting devices in different layers. (4)
-Q2: a) Differentiate between pure ALOHA and slotted ALOHA. (6)
-b) Compare Fast Ethernet and Gigabit Ethernet. (6)
-Q3: a) Explain CSMA. How collisions are handled in CSMA/CD. ’ (6)
-b) Explain Go Back-N sliding window protocol using technique. (6)
-Q4: a) Explain count to infinity problem with diagram in brief. (6)
-b) Define Congestion in network. What are the factors that cause congestion in a network?
-Explain tcp congestion control algorithm. (6)
-Tt Q5: a) Define Quality of Service (QoS). Discuss various techniques to improve QoS. (6)
-b) Explain transport layer services. (6)
-— Q6: a) Discuss the design issues for data link layers. (6)
-b) Write short note on Domain name system. . (6)
-Q7: a) What is queuing model? Explain Little’s theorem with an example. (6)
+Q. 1) Solve the following. (20)
 
-b) Write a short note on IMAP. (6)
+a) For starting IP address as 192.168.19.0 with default mask n as /25. Calculate the subnet mask, block
+size and also display the blocks of IP addresses.
+
+b) A group of N stations share a 56 kbps pure ALOHA channel. Each station outputs a 1000 bit
+frame on an average of once every 100 seconds; even if the previous one has not yet been
+sent (e.g. the stations are buffered). What is the maximum value of N?
+
+c) For the message 1101011011 and generator as 10011. Calculate the CRC and show the transmitted
+
+message.
+
+d) Check whether the received message 10100 000 1010 is correct or contains error using even parity.
+If there is an error figure out the bit position and write down the corrected codeword.
+
+Q.2) (20)
+a) Draw and explain the TCP Header Format.
+b) Compare and contrast OSI Model and TCP/IP Model
+
+Q.3) (20)
+
+a) What is count to infinity problem in Distance Vector Routing? How is it solved?
+b) Draw and explain the working of HTTP Protocol
+
+4/2.
+--- page 2 ---
+Q.4) (20)
+a) Suggest suitable routing algorithms for continuous traffic and bursty traffic.
+b) Explain guided transmission media and its significance.
+
+Q5) a (20)
+
+a) Selective Repeat protocol is better than other two sliding window protocols.
+b) Enlist the key elements of Transport layer protocols? Explain any two elements in brief.
+
+Q.6) (20)
+a) Compare X.25, Frame Relay and ATM networks
+b) Explain Little’s Theorem for queuing theory with suitable example
+
+Q.7) Write short Notes on (any 4) (20)
+i} HDLC ii) PPP
+iii) DNS ivy) Frame Relay
+
+v) Hamming Code
+
+2/.
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper f9a8518eef70
@@ -14513,80 +15079,13 @@ b) Explain Leaky Bucket and Token Bucket [10]
 2/9
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper ede509b05df3
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER NETWORKS/COMPUTER NETWORKS B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 02/07/2015
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: II Semester: IV
-Batch: 2013-14
-
-Academic Year: 2014-2015
-Subject: Computer Networks ‘a aei's
-
-Date: 02/07/2015
-
-instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. |__ is compulsory.
-
-2) Out of remaining questions, attempt any _'{ questions.
-
-3) Inall_9 _ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right ‘hand side indicate full marks.
-
-Ql.
-a. Differentiate between TCP and UDP [10]
-b. Explain IPv4 header format in detail. [10]
-Q2.
-a. Explain X.25 in detail [10]
-b. Explain CSMA/CD [10]
-3.
-a. Explain the Sliding Window protocol in detail. [10]
-b. Explain any one congestion control algorithm in detail. [10]
-Q4
-a. Draw and explain TCP state diagram. [10]
-b. State difference between packet switching and circuit switching {10]
-Q5 3
-a. Draw and compare ISO-OSI model & TCP/IP reference model. {10]
-b. Explain the various network topologies. Also explain the various networking
-
-devices. [10]
-
-sf
---- page 2 ---
-Q6
-
-a. Explain distance vector routing algorithm in detail. [10]
-
-b. Explain the HTTP and SMTP protocol. [10]
-Q7
-
-a. Explain SONET in detail. [10]
-
-b. What is Bluetooth? Explain Bluetooth’s architecture and applications. [10]
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 81e9045efcc2
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER NETWORKS/COMPUTER NETWORKS B TECH COMPUTER BATCH 2013-14 RE EXAM.pdf`
 - Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -14596,7 +15095,6 @@ Programme: B. Tech (Computer) Year: II Semester: IV
 Batch : 2013-2014
 ° Academic Year: 2013-2014 —-
 ks ‘ ISTE OP Ray,
-ject : Computer Networ. oom
 _ : ane aaa watt
 : 03/07/2014 Time: a
 mee ai Durations: J BRARY dé
@@ -14775,196 +15273,6 @@ vi) SMTP
 t— et
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 40b011bfb7b3
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/COMPUTER NETWORKS BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 06/05/2015
-- Text: ocr (2 pages), mean OCR confidence 94.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (I.T.) Year: I Semester: IV
-Batch: 2013-14 ' .
-Academic Year: 2014-2015
-Subject: Computer Networks
-Mar!
-Date: 06/05/2015 Tim
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all Squestions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q. 1) Solve the following (20)
-
-a) An ALOHA network user 19.2 kbps channel for sending message packets of 100 bit long size.
-Calculate the maximum throughput for pure ALOHA network.
-b) Find the transmitted frame by CRC if the frame is 101110 and generator is 1001.
-c) Perform the subnetting of following IP address 192.168.16.X
-
-Original subnet mask 255.255.255.0
-
-Number of Host 50
-d) An 8 Bit byte with binary values 10101111 is to be encoded using an even parity Hamming code. What
-is the Binary value after coding?
-
-Q.2) (20)
-a) Explain guided transmission media for physical layer
-b) Explain leaky bucket and token bucket algorithm in detail
-
-Q.3) (20)
-a) How are collisions handled by 1- persistent CSMA protocol? Give an exampie of collision free
-multiple access protocol and explain it in detail
-
-b) What is framing? Explain the different methods of it alongwith suitable examples.
-
-Q.4) (20)
-a) Compare and contrast the different Modulation Techniques
-b) Explain Djikstra’s algorithm as shortest path routing with suitable example.
---- page 2 ---
-Q.5)
-
-a) What is count to infinity problem in Distance Vector Routing? How is it solved?
-b) Compare Connection Oriented and Connectionless service
-
-Q.6)
-
-a) Draw the IPv4 Header Format? Explain the need and mechanism of fragmentation in [Pv4
-with the help of respective header format fields
-
-b) Draw and explain the OSI Model in brief
-
-Q.7) Write short Notes on (any 4)
-
-i) Sliding Window Protocol
-ii) RIP
-
-iii) OSPF
-
-iv) DNS
-
-v) WWW
-
-vi) SONET
-
-OX
-
-(20)
-
-(20)
-
-(20)
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper c6367ae2b0be
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/Computer Networks Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (IT) Year: II Semester: IV
-
-Academic Year: 2014-15
-
-yeeritOTT op
-Batch: 2013-14 #7
-
-Subject : Computer Networks Marks: 100' w( “° “STMB 2 :
-Time : 10.0 to'1:00 pri v js
-Date : 29/06/2015 Durations: oN wy) is
-
-Re-Examination Maite: aver *
-
-Se
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In ali Squestions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q. 1) Solve the following. (20)
-
-a) For starting IP address as 192.168.19.0 with default mask n as /25. Calculate the subnet mask, block
-size and also display the blocks of IP addresses.
-
-b) A group of N stations share a 56 kbps pure ALOHA channel. Each station outputs a 1000 bit
-frame on an average of once every 100 seconds; even if the previous one has not yet been
-sent (e.g. the stations are buffered). What is the maximum value of N?
-
-c) For the message 1101011011 and generator as 10011. Calculate the CRC and show the transmitted
-
-message.
-
-d) Check whether the received message 10100 000 1010 is correct or contains error using even parity.
-If there is an error figure out the bit position and write down the corrected codeword.
-
-Q.2) (20)
-a) Draw and explain the TCP Header Format.
-b) Compare and contrast OSI Model and TCP/IP Model
-
-Q.3) (20)
-
-a) What is count to infinity problem in Distance Vector Routing? How is it solved?
-b) Draw and explain the working of HTTP Protocol
-
-4/2.
---- page 2 ---
-Q.4) (20)
-a) Suggest suitable routing algorithms for continuous traffic and bursty traffic.
-b) Explain guided transmission media and its significance.
-
-Q5) a (20)
-
-a) Selective Repeat protocol is better than other two sliding window protocols.
-b) Enlist the key elements of Transport layer protocols? Explain any two elements in brief.
-
-Q.6) (20)
-a) Compare X.25, Frame Relay and ATM networks
-b) Explain Little’s Theorem for queuing theory with suitable example
-
-Q.7) Write short Notes on (any 4) (20)
-i} HDLC ii) PPP
-iii) DNS ivy) Frame Relay
-
-v) Hamming Code
-
-2/.
-````
-
 ## 2013-14 · Re-Exam · Sem 1 · paper bb7ec89c8cfb
 
 - Departments: Computer Applications (MCA)
@@ -15038,6 +15346,55 @@ Q7) a) Explain the Concept of Three way handshake with Diagram [10]
 b) Explain HDLC and its Frame Formats with diagram
 
 2) 9°
+````
+
+## 2012-13 · Final-Exam · Trim 6 · paper 6f25ce688c42
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/COMPUTER NETWORKS/Computer Networks Final 21(2).pdf`
+- Printed on paper: exam date: 8/5/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technology Management & En~ineering
+Programme: MBA (TECH)-1.T   Year:   I1   Trimester:   VI
+Academic Year : 2012-2013
+Subject:   Computer Networks
+Date:   8/5/2013
+Final - Examination
+Instructions: 1.Question no. 1 is compulsory.   ..-   ..
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4.All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6.Figures in brackets on right hand side indicate full marks.
+Q1.Answer any five (4 marks each)
+i)Explain the relationship of services to Protocols in layered concepts?
+ii)Services provided to Network layer from DLL?
+iii)What is PPP, explain its feature in brief?
+iv) What is Binary Exponential backoff algorithm?
+v )Explain virtual circuit in network?
+vi) List Primitives for a transport service?
+42) a) Compare IPv4 and IPv6? [lo]
+b) What are the different CSMA protocols? Explain any one in detail?[lO]
+I   Q3)a) Explain ATM architecture in detail ? [lo]
+b) Explain Distance vector routing and it's issues? (101
+Q4) a) Compare Connection oriented and connection less services? [5]
+b) Compare OSI model vs TCP/IP reference model ?IS]
+c) Draw and Explain various guided transmission media for network?[lO]
+Q5) Write short notes on any four:[5 each]:
+4   a) Sliding window protocol
+b) Hamming code with suitable example
+c) Domain Name system . .   .
+d) Ethernet
+e) Structured cabling
+--- page 2 ---
+Q6) a) Explain Client side and server side operation in WWW? [lo]
+b) Overview of the internet transport protocol: UDP[10]
+OR
+b) Overview of the internet transport protocol: TCP[10]
 ````
 
 ## 2012-13 · Final-Exam · Trim 3 · paper 8d9ede2e7054
@@ -15281,263 +15638,7 @@ iv) Network Design Issues
 geome a YK
 ````
 
-## Year not stated · Exam not stated · Sem 3 · paper 05ca8b08f920
-
-- Departments: Artificial Intelligence, Computer Engineering, Cyber Security, Data Science, Information Technology
-- Programmes: B TECH / ARTIFICAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / IT, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/COMPUTER NETWORKS/B Tech,MBA Tech,BTI (AI,CSE-DS,IT,AI&ML,EXTC,AI&DS,COMP,CS), Computer Networks, S_186cdce8.pdf` (+14 identical copies)
-- Printed on paper: max marks: 100; exam date: 3 / 12/2025
-- Text: ocr (2 pages), mean OCR confidence 86.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-~ Academic Year: 2025-2026
-Program/s: B. Tech / MBA Tech/ B. Tech Intg. Year: Il, I, 1V. Semester: Tl, V, VII
-Stream/s; B Tech COMP, CSE CS, IT, AIDS/
-MBA Tech COMP, AJ/ B Tech INTG COMP
-
-Subject: Computer Networks : Time: 3. hrs (jotoo to 1. 00pm)
-Date: 3 / 12/2025 — : : No. of Pages: 2
-Marks: 100
-
-Re-Examination (Batch 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks. -
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: ee [20]
-Ql a. | What is computer Network. Draw a schematic diagram of it. [5]
-CO-1; SO-1;
-
-BL-1 -
-
-Qi b. | What is error control. What are the different methods defined for error control. -| [5]
-CO-2; SO- 1;
-
-BL-1 .
-
-Qi c. | Explain the classes of IP address. [5]
-CO-3; SO- 1;
-
-BL-2 :
-
-Q.1 d. | What are the features of UDP. : [5]
-CO-4; SO-1; ;
-
-BL-1_-
-
-Q2 a. | Explain the topologies used in computer networks. Give specific examples of each [10]
-
-_| CO-1; SO- 1; and compare them on the basis of advantages and disadvantages.
-
-BL-2 : : :
-
-Q2 b. | Explain the stop and Wait ARQ and the Go Back N ARQ method. Which method is [10]
-CO-2; SO-1; superior and why?
-BL-2
---- page 2 ---
-Q3 a. | Explain and compare the FDMA and TDMA techniques. [10]
-
-CO-1; SO-1;
-
-BL-2 ;
-
-Q3 b. | (i Find the netid and the hostid of the following classfull addresses: [5]
-CO-3; SO-1; a. 114.34.2.8 b. 208.34.54.12 ;
-
-BL-1,2 :
-
-(ii) what is the last valid host on the subnetwork 165.21.80.128/26? [5]
-
-Q4 a. | Explain the persistence method defined in CSMA. In which way these methods are [10]
-CO-2; SO-1; used in CSMA/CD. . ;
-
-BL-2
-
-Q4 b. | Explain OSPF protocol and the types of links used in OSPF to establish the [10]
-CO-3; SO-1; communication. . P 7 :
-
-BL-2
-
-Q5 "| a. | Explain the Dijkstra’s algorithm with an example. . [10]
-CO-3; SO-1; . . :
-
-BL-2
-
-Q5 b. | Explain the different configuration of congestion control mechanism. Explain in [10]
-CO- 4; SO-1; detail with examples.
-
-BL-1,2
-
-Q6 a. | How to establish communication in TCP. What are the different phases of it. Explain | [10]
-CO-4; SO-1; in detail.
-
-BL-1,2 :
-
-Q6 b. | Explain the DNS hierarchy and its working principle. Give example to support your [10]
-
-~ | CO-4; SO1; answer..
-
-BL-2
-
-Q7 a. | List and compare the different types of computer networks: [5]
-CO-1; SO-1;
-
-BL-1,2 :
-
-Q7 b. | Explain block codes in detail with an example. [5]
-CO-2; SO-1; | i : ;
-
-BL-2 :
-
-Q7 c. | Explain the method of Address Resolution protocol. [5]
-CO-3; SO-1;
-
-BL-2 <
-
-Q7 d_ | What aré the features of SMTP and SNMP protocol. : : [5]
-CO-4; SO-1; ’
-
-BL-1
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 48c611871453
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/COMPUTER NETWORKS/Computer networks.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 90.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program/s: B-Tech CSE-Cyber Security/B-Tech IT /MBATECH IT Year: II Semester: IV
-
-Stream/s ; IT/CSE
-
-Subject: Computer Networks Time: 03 hrs (Lo am to 4 pm _)
-Date:_20 /O4 / 2023 No. of Pages:_O2
-
-Marks: 100
-
-Final Examination } Re - Examination.
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi .
-Answer briefly: [20]
-ne SO- 1; a. Compare peer to peer network and server based network. [4]
-he SO- 1; b. Explain in brief different network topologies. [4]
-7 : SO-1; c. Sketch and explain in short Synchronous Time Division multiplexing. [4]
-ir SO-1; d. | Explain Slotted ALOHA with diagram. [4]
-T) Find the class of each address
-CO-3 ; SO- i) 00000001 00111011 00001011 11101111 14]
-Jy é. <a
-BL-2 ii) 222.5.15.111
-Il) Define Sub-netting
-Q2 Solve. The message 1101011010 is received, it was transmitted using standard cyclic redundancy
-CO-2: $O-1: a code method. The generator polynomial is 10011. Show the actual message transmitted. [10]
-BL-3 Define Hamming distance and with the example find din.
-Q2
-CO-3; SO-1; b Discuss the working of Distance vector routing protocol with an example. [10]
-BL-2
-Q3
-C0-3: §O-1: a Discuss Token Bucket algorithm with advantages and disadvantages. Draw its diagram. [10]
-BL-2
-
-Q3 b Explain features of Hyper Text Transfer Protocol(HTTP) with its diagram. [10]
---- page 2 ---
-CO-4; SO-6;
-BL-2—
-
-Solve Dijkstra's algorithm to calculate the single-source shortest paths from A to every
-other vertex. Show your steps. Also draw the routing Table for A.
-
-Q4
-
-CO-3; SO-1; a
-BL-3
-
-[10]
-
-Q4
-
-CO-2; SO-1;
-BL-2
-
-b Discuss Go-Back-N ARQ in detail with diagram. Mention advantages and disadvantages. [10]
-
-Q5 Classify Congestion control methods. Explain open loop congestion control methods (any two)in
-CO-3; SO-1; Lb
-BL-2
-
-10
-detail. ria
-
-Q5
-CO-2; SO-6; b Define CSMA/CA. Explain different types of persistence methods with diagrams. [10]
-
-BL-3
-
-Q6
-CO-2; SO-1; a Explain message switching with diagram. List down advantages and disadvantages. [10]
-
-BL-2
-
-Q6
-CO-1; SO-1; b Discuss with diagram the function of each layer in OSI model in detail. [10]
-
-BL-2
-
-Q7
-CO-4; SO-1; a Write a short note on Simple Mail Transfer Protocol(SMTP). [05]
-
-BL-2
-
-oe: Bo b Define Computer Network, List down advantages and disadvantages of computer networks. [05]
-
-CO-3; SO-1;
-
-BL2 c Discuss the working of Address Resolution Protocol (ARP) with diagram. [05]
-
-CO-2; SO-1;
-
-BL2 d Explain with neat diagram frequency hopping spread spectrum. [05]
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper e4bde570dac1
+## 2010-11 · Exam not stated · Trim 6 · paper e4bde570dac1
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
@@ -15613,125 +15714,4 @@ ii) WWW
 iii) Quality of service.
 
 fa
-````
-
-## Year not stated · Final-Exam · Trim 6 · paper 6f25ce688c42
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/COMPUTER NETWORKS/Computer Networks Final 21(2).pdf`
-- Printed on paper: exam date: 8/5/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technology Management & En~ineering
-Programme: MBA (TECH)-1.T   Year:   I1   Trimester:   VI
-Academic Year : 2012-2013
-Subject:   Computer Networks
-Date:   8/5/2013
-Final - Examination
-Instructions: 1.Question no. 1 is compulsory.   ..-   ..
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4.All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6.Figures in brackets on right hand side indicate full marks.
-Q1.Answer any five (4 marks each)
-i)Explain the relationship of services to Protocols in layered concepts?
-ii)Services provided to Network layer from DLL?
-iii)What is PPP, explain its feature in brief?
-iv) What is Binary Exponential backoff algorithm?
-v )Explain virtual circuit in network?
-vi) List Primitives for a transport service?
-42) a) Compare IPv4 and IPv6? [lo]
-b) What are the different CSMA protocols? Explain any one in detail?[lO]
-I   Q3)a) Explain ATM architecture in detail ? [lo]
-b) Explain Distance vector routing and it's issues? (101
-Q4) a) Compare Connection oriented and connection less services? [5]
-b) Compare OSI model vs TCP/IP reference model ?IS]
-c) Draw and Explain various guided transmission media for network?[lO]
-Q5) Write short notes on any four:[5 each]:
-4   a) Sliding window protocol
-b) Hamming code with suitable example
-c) Domain Name system . .   .
-d) Ethernet
-e) Structured cabling
---- page 2 ---
-Q6) a) Explain Client side and server side operation in WWW? [lo]
-b) Overview of the internet transport protocol: UDP[10]
-OR
-b) Overview of the internet transport protocol: TCP[10]
-````
-
-## Year not stated · Re-Exam · Sem 4 · paper ad6afda278dd
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/IV SEMESTER/Computer Network/Computer Networks Re-exam 16-17-18.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 22 April 2019
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-4 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program B. Tech (Computer) Year: II Semester: [V
-‘ Academic Year: 2018-2019 ° 7 -
-Subject: Computer Networks - Marks: 70
-Date : 22 April 2019 _ § ; Time:2.00 pm to 5.00 pm
-
-Duration: 3 (hrs) - ~
-No. of Pages:_O 2
-Re-Examination (2016-17 / 2017-18) o
-
-o£the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questidns, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1. (a) What is the Principal difference between connectionless and connection oriented 4
-communication? =
-(b) Explain the transmission modes. 3
-(c) What are different switching techniques? 4
-(d) Discuss the three main division of the domain name space. 3
-2. (a) Define Congestion. What are the general Principles of Congestion? 6
-(b) Explain the ISO/OSI layered architecture with neat sketch. 8
-3. (a) List the differences between a unicast, multicast and broadcast address. 6
-(b) What is ALOHA? Explain CSMA protocols in detail. 8
-4. (a) Explain stop and wait ARQ protocol with neat diagram. 7
-(b) Explain Hamming code with algorithm. Encode the data bits 0101 into a seven bit even parity 7
-
-hamming code.
-
-5. (a) Give the frame structure of HDLC. Explain each field. 7
-(b) Discuss different services of transport layer. 7
-6. (a) What do you understand by HTTP protocol? Explain its working. 6
-(b) Draw format of TCP packet header and explain each of its field. 8
-7. (a) What is framing? Why it is implemented in Data Link Layer? 5
-
-i
---- page 2 ---
-ae
-
-4
-
-(b) For the given IP address 205.16.37.39/28 in some block of addresses, calculate:
-i) Mention the class.
-ii) Address Mask
-iii) First address of the block.
-iv) Broadcast address
-v) Divide the network 205.16.37.0 into 4 sybnets. Find the subnet mask.
-
-(c) Explain the WWW in detail.
 ````

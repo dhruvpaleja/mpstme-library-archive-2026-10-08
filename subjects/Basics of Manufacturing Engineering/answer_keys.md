@@ -2,119 +2,7 @@
 
 Answer keys and model answers published on the portal, newest first.
 
-## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 313e4b1cccb1
-
-- Departments: Mechanical
-- Programmes: Integrated Mechanical 7031
-- Source: `02_Question_Papers/2024/Sem_03/Final-Exam/Integrated_Mechanical_7031/Basics of Manufacturing Engineering/ANS_Basics of Manufacturing Engineering(701ME0C001)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2024
-- Text: text (5 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX
-YEARS INTEGRATED PROGRAM
-Year: II/Semester III(Exam Year: 2024-2025)
-Subject: Basics of Manufacturing Engineering
-Date: 02 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 5 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. _1___ is compulsory.
-5. Out of remaining questions, attempt any __4___ questions.
-6. In all ___5_ questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-20
-CO-1;   Correct Answer – 4 Marks
-A.
-SO-7;
-BL-1
-CO-1;   Correct Answer – 4 Marks
-SO-7;   B.
-BL-1
-CO-2;   Correct Answer – 4 Marks
-SO-7;   C.
-BL-1
-CO-2;   Correct Answer – 4 Marks
-SO-7;   D.
-BL-1
-CO-2;   Correct Answer – 4 Marks
-SO-7;   E.
-BL-1
-Q.2   Explain in detail Arc Welding along with neat sketch.
-Correct Answer – 10 Marks
-a.   10
-Diagram – 4 marks
-Explaination – 6 Marks
-********** 1 **********
---- page 2 ---
-CO-3;   Explain with sketches the difference between Direct and Indirect Extrusion.
-SO-7;   b.   10
-BL-2   6 Correct points – 10 Marks
-Q.3
-CO-2;   Diagram – 4 marks
-SO-7;   Explaination – 6 Marks
-BL-3
-a.   10
-********** 2 **********
---- page 3 ---
-CO-2;   Differentiate between soldering and brazing.
-SO-7;
-BL-2   Correct points 10 Marks
-b.   10
-Q.4   Draw and explain significance of various elements of gating system in sand
-CO-2;   Casting.
-SO-7;
-BL-2
-a.   10
-Diagram – 4 marks
-Explaination – 6 Marks
-CO-2;
-SO-7;   b. Correct Answer – 5 Marks   10
-BL-2
-Q.5   a.   Explain types of rolling mill and discuss three high rolling mills in detail.   10
-********** 3 **********
---- page 4 ---
-It consists of three rolls positioned directly over one another as shown in the
-figure below. The direction of rotation of the first and second rolls are opposite as
-in the case of two high mills. The direction of rotation (path) of the second and
-third rolls is always opposite to each other. Always all three rolls rotate in their
-bearings in the same direction. The advantage of this will mill is that work
-material can be fed in one direction between the first and second rolls and the
-return pass can be provided between the second and third rolls. This results in the
-transport of material from one side of the rolls to the other.
-Diagram – 4 marks
-Explaination – 6 Marks
-CO-2;   Draw a neat picture of how gas tungsten arc welding and explain its working
-SO-7;   procedure.
-BL-2
-b.   10
-********** 4 **********
---- page 5 ---
-Q.6
-CO-1;
-SO-7;
-BL-2
-a.   10
-Correct 6 points -10 Marks
-CO-1;
-SO-7;   b. Correct Answer – 10 Marks   10
-BL-2
-Q.7   a.   Correct Answer – 10 Marks   10
-CO-3;
-SO-7;   b. Correct Answer – 10 Marks   10
-BL-2
-**************
-********** 5 **********
-````
-
-## 2024-25 · Re-Exam · Sem 3 · Answer key · paper 414886935745
+## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 414886935745
 
 - Departments: Mechanical
 - Programmes: Integrated Mechanical 7031
@@ -261,4 +149,116 @@ Correct Answer (i) & (ii) — 10 marks
 KEKE EEE EEE
 --- page 6 ---
 . .
+````
+
+## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 313e4b1cccb1
+
+- Departments: Mechanical
+- Programmes: Integrated Mechanical 7031
+- Source: `02_Question_Papers/2024/Sem_03/Final-Exam/Integrated_Mechanical_7031/Basics of Manufacturing Engineering/ANS_Basics of Manufacturing Engineering(701ME0C001)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2024
+- Text: text (5 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX
+YEARS INTEGRATED PROGRAM
+Year: II/Semester III(Exam Year: 2024-2025)
+Subject: Basics of Manufacturing Engineering
+Date: 02 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 5 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+20
+CO-1;   Correct Answer – 4 Marks
+A.
+SO-7;
+BL-1
+CO-1;   Correct Answer – 4 Marks
+SO-7;   B.
+BL-1
+CO-2;   Correct Answer – 4 Marks
+SO-7;   C.
+BL-1
+CO-2;   Correct Answer – 4 Marks
+SO-7;   D.
+BL-1
+CO-2;   Correct Answer – 4 Marks
+SO-7;   E.
+BL-1
+Q.2   Explain in detail Arc Welding along with neat sketch.
+Correct Answer – 10 Marks
+a.   10
+Diagram – 4 marks
+Explaination – 6 Marks
+********** 1 **********
+--- page 2 ---
+CO-3;   Explain with sketches the difference between Direct and Indirect Extrusion.
+SO-7;   b.   10
+BL-2   6 Correct points – 10 Marks
+Q.3
+CO-2;   Diagram – 4 marks
+SO-7;   Explaination – 6 Marks
+BL-3
+a.   10
+********** 2 **********
+--- page 3 ---
+CO-2;   Differentiate between soldering and brazing.
+SO-7;
+BL-2   Correct points 10 Marks
+b.   10
+Q.4   Draw and explain significance of various elements of gating system in sand
+CO-2;   Casting.
+SO-7;
+BL-2
+a.   10
+Diagram – 4 marks
+Explaination – 6 Marks
+CO-2;
+SO-7;   b. Correct Answer – 5 Marks   10
+BL-2
+Q.5   a.   Explain types of rolling mill and discuss three high rolling mills in detail.   10
+********** 3 **********
+--- page 4 ---
+It consists of three rolls positioned directly over one another as shown in the
+figure below. The direction of rotation of the first and second rolls are opposite as
+in the case of two high mills. The direction of rotation (path) of the second and
+third rolls is always opposite to each other. Always all three rolls rotate in their
+bearings in the same direction. The advantage of this will mill is that work
+material can be fed in one direction between the first and second rolls and the
+return pass can be provided between the second and third rolls. This results in the
+transport of material from one side of the rolls to the other.
+Diagram – 4 marks
+Explaination – 6 Marks
+CO-2;   Draw a neat picture of how gas tungsten arc welding and explain its working
+SO-7;   procedure.
+BL-2
+b.   10
+********** 4 **********
+--- page 5 ---
+Q.6
+CO-1;
+SO-7;
+BL-2
+a.   10
+Correct 6 points -10 Marks
+CO-1;
+SO-7;   b. Correct Answer – 10 Marks   10
+BL-2
+Q.7   a.   Correct Answer – 10 Marks   10
+CO-3;
+SO-7;   b. Correct Answer – 10 Marks   10
+BL-2
+**************
+********** 5 **********
 ````

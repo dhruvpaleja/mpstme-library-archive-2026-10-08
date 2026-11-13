@@ -1,6 +1,6 @@
 # Communication Techniques
 
-**12** unique papers (12 copies across programmes) · 2005-06 to 2012-13 · 1 programme · Trim 4
+**12** unique papers (14 copies across programmes) · 2005-06 to 2012-13 · 2 programmes · Trim 4
 
 Download only this subject, sorted by academic year:
 
@@ -22,9 +22,15 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2008-09 | — | Question paper | Trim 4 | MBA TECH / CHEMICAL | 2008-2009(40).pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 4 | MBA TECH / CHEMICAL | 2008-2009 re exam(18).pdf |
 | 2007-08 | — | Question paper | Trim 4 | MBA TECH / CHEMICAL | 2007-2008(28).pdf |
-| 2007-08 | Re-Exam | Question paper | Trim 4 | MBA TECH / CHEMICAL | 2007-2008 re exam(9).pdf |
+| 2007-08 | Re-Exam | Question paper | Trim 4 | MBA TECH / CHEMICAL, MBA TECH / I T | 2007-2008 re exam(9) (1).pdf [1] [2] [3] |
 | 2006-07 | — | Question paper | Trim 4 | MBA TECH / CHEMICAL | 2006-2007(13).pdf |
 | 2005-06 | — | Question paper | Trim 4 | MBA TECH / CHEMICAL | 2005-2006(14).pdf |
 | — | — | Question paper | Trim 4 | MBA TECH / CHEMICAL | scan0007(10).pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "BUSINESS COMMUNICATION" but the paper is headed "Communication Techniques"
+2. filed under "COMMUNICATION TECHNIQUES" but the paper is headed "Communication Techniques"
+3. filed under "BUSINESS COMMUNICATIONS" but the paper is headed "Communication Techniques"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

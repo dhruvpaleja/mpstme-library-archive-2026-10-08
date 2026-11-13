@@ -2062,6 +2062,149 @@ BL-2 5) Limitation of FSM
 
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 789def6bfaea
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/THEORETICAL COMPUTER SCIENCE/Theoretical Computer Science, Sem-IV, Final Exam & Re Exam 2021-22, 2022-23.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 80.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: B.Tech/MBATech/B.Tech(Int) Year: II/IV Semester: IV/VIII
+Stream/s : CE/CS .
+
+Subject: Theoretical Computer Science (TCS) . Time: 03 hrs (40-am to 4: pm _)
+Date:_26 / 04/2024 - No. of Pages:
+
+Marks: 100
+Final Examination/Re-Examination (2021-22, 2022-23
+
+=f
+SRARY
+
+Instructions: Candidates should read carefully the instructions printed on the ques
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all _5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer briefly:
+a. | Consider the following grammar:
+S—B|BeS|a
+CO-3; SO-2; B— 0C1S [5]
+BL-1 Cb
+
+Derive the string “Ob10blaea”. Show the syntax tree for the given string from
+the given grammar.
+
+b. | Describe the regular expressions in English language:
+
+i) 01) (0+1)*
+CO- 3; SO- ii) ° 1* [5]
+2; -.
+2 ) o
+BL-2 yO
+(0+1+2)
+4 (0+1)(0+1)(0+1)
+
+“ Answer each part of the following questions for the grammar G = (N, T; P, L),
+where production rules.P is given below. & is to be considered equivalent to
+epsilon. P— MPMIL
+
+. . L— 1K0|0K1
+— S02; K > MKM[M|& [5]
+i) Which one is the start variable of G.
+ii) Which are the non-terminals or variables in N of G.
+iii) Which are the terminals in T of G.
+iv) Give description for the type of grammars.
+aL i SO-2; | d.   } Design a Push Down Automata (PDA) which accepts L = {0°(121)" |n>1} [5]
+Q2 a Illustrate a DFA for the language L = {w | w ends with double letter and w
+CO-1,3; SO- belongs to (0+1)*} (A string contains a double letter if it contains 00 or 11). [10]
+
+2; BL-3 Then convert the DFA into an equivalent
+--- page 2 ---
+(i) regular expression and (ii) regular grammar.
+
+b Design down the Turing Machine(TM) transition functions for the following
+CO-1; SO-2; language: 5 “| [10]
+BL-5 L= {a" b™ c™*™, where n>=1 and m>= 1} :
+a i) Construct Moore machine for the following Mealy machine
+oo 2
+“
+i @i
+3 , ii) Consider the following Mealy M/C and convert it into Moore M/C.
+CO-1; $O-2; | een = etait : . Dai
+resent State - as T =
+BL3 | State - o/P State ofp;
+| 34 % 1 e 0
+| & cy i G - 1
+COR 80-2; |b Explain about PDA. Show a PDA for the language [10]
+BL-2 L= {0"1"2™ | n, m> 1} acceptance by empty stack. :
+04 a Determine the grammar for the following sets or expression
+: ek
+i) (0+01) (0) [10]
+CO-3; SO-2; ii) {0°, 07, 0", - - -} where © = {0}
+BL-3 iii) — L={a"b™ | n, m>= 1} -
+iv) {a, b, c, d} where ¥ = {a, b,c, d}
+CO-1;SO-2; |b | Elaborate Turing Machine along with its tuples. Construct a Turing machine [10]
+BL-6 that accepts a language L = = {0"10?"10** In > 0}.
+a Illustrate Finite Automata (FA) along with its tuples. Construct the minimize
+automata for the given transitions in the table.
+P State rr rs aaa,
+Q5
+CO-1; SO-2; L ee aka ae ~ [10]
+BL3 | 4s 45
+S a ———
+i | % e
+CO-3; SO-2: Show. context-free grammar with tuples that generate the given language
+BL3? L= {0H i,j,k>O0anditj=k}. [10]
+Convert the resultant Grammar into equivalent Greibach Normal Form (GNF).
+Q6 Consider L = {w € {c, d}* | w consist of even numbers of d’s } [10]
+
+gs 9
+--- page 3 ---
+CO-1,3; SO- i) Give regular expression for the given above language. i
+2; ii) Design NFA (N) for the language. 4
+BL-3 iii) Convert N into equivalent DFA (D). a
+CO-2; $O-2; Write short note on following: —
+BL-2 i) Union operation closed for CFL..(Give Proof) [5]
+ii) Acceptance by final state and empty stack
+Consider A = {f, 0, u, r}, B= {f, i, v, e}, C={s, i, x}. Find
+@) — AUnion B, | -
+CO-1; SO-2; Gi) A intersection C,
+BL-1 (iii) _A intersection B, [5]
+(iv) A-C (Set Difference)
+(v) all possible set with non-repeated strings for #C(2) (where
+#A(x) means all possible strings of length x of set A’)
+Q7
+CO-1; SO-2; Construct minimized DFA for the regular expression (10(0+1)°010). : [10]
+\BL-6
+CO: 9.
+ia ei Compare Type-0, Type-1, Type-2 and Type-3 (Grammars, Languages and [5]
+BL-1,3 Automata) in terms of Chomsky Hierarchy.
+CO-2; SO-2; : :
+Bis Discuss the power of Turing machine over pushdown Automata with example. | [5]
+
+_
+````
+
 ## 2023-24 · Final-Exam · Sem 3 · paper 5bad24d489a0
 
 - Departments: Computer Science and Business Systems
@@ -2591,151 +2734,6 @@ BL-2
 Page 3/3
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 789def6bfaea
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/THEORETICAL COMPUTER SCIENCE/Theoretical Computer Science, Sem-IV, Final Exam & Re Exam 2021-22, 2022-23.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 80.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: B.Tech/MBATech/B.Tech(Int) Year: II/IV Semester: IV/VIII
-Stream/s : CE/CS .
-
-Subject: Theoretical Computer Science (TCS) . Time: 03 hrs (40-am to 4: pm _)
-Date:_26 / 04/2024 - No. of Pages:
-
-Marks: 100
-Final Examination/Re-Examination (2021-22, 2022-23
-
-=f
-SRARY
-
-Instructions: Candidates should read carefully the instructions printed on the ques
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all _5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql. Answer briefly:
-a. | Consider the following grammar:
-S—B|BeS|a
-CO-3; SO-2; B— 0C1S [5]
-BL-1 Cb
-
-Derive the string “Ob10blaea”. Show the syntax tree for the given string from
-the given grammar.
-
-b. | Describe the regular expressions in English language:
-
-i) 01) (0+1)*
-CO- 3; SO- ii) ° 1* [5]
-2; -.
-2 ) o
-BL-2 yO
-(0+1+2)
-4 (0+1)(0+1)(0+1)
-
-“ Answer each part of the following questions for the grammar G = (N, T; P, L),
-where production rules.P is given below. & is to be considered equivalent to
-epsilon. P— MPMIL
-
-. . L— 1K0|0K1
-— S02; K > MKM[M|& [5]
-i) Which one is the start variable of G.
-ii) Which are the non-terminals or variables in N of G.
-iii) Which are the terminals in T of G.
-iv) Give description for the type of grammars.
-aL i SO-2; | d.   } Design a Push Down Automata (PDA) which accepts L = {0°(121)" |n>1} [5]
-Q2 a Illustrate a DFA for the language L = {w | w ends with double letter and w
-CO-1,3; SO- belongs to (0+1)*} (A string contains a double letter if it contains 00 or 11). [10]
-
-2; BL-3 Then convert the DFA into an equivalent
---- page 2 ---
-(i) regular expression and (ii) regular grammar.
-
-b Design down the Turing Machine(TM) transition functions for the following
-CO-1; SO-2; language: 5 “| [10]
-BL-5 L= {a" b™ c™*™, where n>=1 and m>= 1} :
-a i) Construct Moore machine for the following Mealy machine
-oo 2
-“
-i @i
-3 , ii) Consider the following Mealy M/C and convert it into Moore M/C.
-CO-1; $O-2; | een = etait : . Dai
-resent State - as T =
-BL3 | State - o/P State ofp;
-| 34 % 1 e 0
-| & cy i G - 1
-| F i cry i a i
-[ as | G a a Su
-COR 80-2; |b Explain about PDA. Show a PDA for the language [10]
-BL-2 L= {0"1"2™ | n, m> 1} acceptance by empty stack. :
-04 a Determine the grammar for the following sets or expression
-: ek
-i) (0+01) (0) [10]
-CO-3; SO-2; ii) {0°, 07, 0", - - -} where © = {0}
-BL-3 iii) — L={a"b™ | n, m>= 1} -
-iv) {a, b, c, d} where ¥ = {a, b,c, d}
-CO-1;SO-2; |b | Elaborate Turing Machine along with its tuples. Construct a Turing machine [10]
-BL-6 that accepts a language L = = {0"10?"10** In > 0}.
-a Illustrate Finite Automata (FA) along with its tuples. Construct the minimize
-automata for the given transitions in the table.
-P State rr rs aaa,
-Q5
-CO-1; SO-2; L ee aka ae ~ [10]
-BL3 | 4s 45
-S a ———
-i | % e
-aaeene “Tamra Rania cele a
-CO-3; SO-2: Show. context-free grammar with tuples that generate the given language
-BL3? L= {0H i,j,k>O0anditj=k}. [10]
-Convert the resultant Grammar into equivalent Greibach Normal Form (GNF).
-Q6 Consider L = {w € {c, d}* | w consist of even numbers of d’s } [10]
-
-gs 9
---- page 3 ---
-CO-1,3; SO- i) Give regular expression for the given above language. i
-2; ii) Design NFA (N) for the language. 4
-BL-3 iii) Convert N into equivalent DFA (D). a
-CO-2; $O-2; Write short note on following: —
-BL-2 i) Union operation closed for CFL..(Give Proof) [5]
-ii) Acceptance by final state and empty stack
-Consider A = {f, 0, u, r}, B= {f, i, v, e}, C={s, i, x}. Find
-@) — AUnion B, | -
-CO-1; SO-2; Gi) A intersection C,
-BL-1 (iii) _A intersection B, [5]
-(iv) A-C (Set Difference)
-(v) all possible set with non-repeated strings for #C(2) (where
-#A(x) means all possible strings of length x of set A’)
-Q7
-CO-1; SO-2; Construct minimized DFA for the regular expression (10(0+1)°010). : [10]
-\BL-6
-CO: 9.
-ia ei Compare Type-0, Type-1, Type-2 and Type-3 (Grammars, Languages and [5]
-BL-1,3 Automata) in terms of Chomsky Hierarchy.
-CO-2; SO-2; : :
-Bis Discuss the power of Turing machine over pushdown Automata with example. | [5]
-
-_
-````
-
 ## 2022-23 · Re-Exam · Sem 4 · paper b4ae1f0e40f2
 
 - Departments: Computer Engineering
@@ -3179,6 +3177,130 @@ Son What do you understand by Recursive and recursively enumerable 15]
 BL- : languages? Explain
 ````
 
+## 2019-20 · Re-Exam · Sem 5 · paper 1a81a4d66694
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 07 November 2019
+- Text: ocr (2 pages), mean OCR confidence 88.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Computer) Year: Ill Semester: V
+
+Academic Year: 2019-20
+
+Subject: Theoretical Computer Science
+mae “or P MPSTME ~
+
+Marks: 60
+
+Date: 07 November 2019 Time: 10.00 00 bhB RARY
+Durations: 3 (hrgps>
+No. of Pages:
+
+Re-Examination (2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their
+
+use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql a) Explain applications and limitations of finite Automata (04)
+b) Explain Chomsky hierarchy of grammar (04)
+c) Compare DFA and PDA (04)
+Q.2 a) Consider following CFG: (06)
+S—iCtS|iCtSeS|a
+Cb
+
+Derive the string “ibtibtaea” using leftmost derivation and rightmost
+derivation. Draw syntax tree for the same. ;
+b) Design Moore and Mealy machine to convert each occurrence of 110 to (06)
+
+111
+
+Q.3 a) Using pumping lemma prove that language L={a"b"| n>=0} is not (06)
+regular
+3 b) What is post correspondence problem? Determine whether the following list (06)
+
+oe
+8 has a PCP solution or not.
+
+A B
+i Wi Xi
+l 001 =| 01
+2 0011 | 111
+3 ll lll
+
+4 101 | 010
+
+Page lof2
+--- page 2 ---
+&
+
+Q4
+
+Q5
+
+Q.6
+
+Q7
+
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+Design Turing machine to compute 2’s complement of given binary number (12)
+
+Design DFA to accept the language containing all strings over }}={a,b} that (06)
+starts and ends with different symbols
+
+Explain following terms relation with Turing machine. (06)
+(i) Solvability
+(ii) Semi-Solvability
+(iii) | Unsolvability
+
+Design Push Down Automata to accept language L={a"b"|n>0} (06)
+Convert the following grammar to CNF. (06)
+S — AACD
+
+A—aAble
+
+C—aCla
+
+D—aDa| bDb|«
+
+Construct a NFA with ‘e’ transition for following RE (06)
+(00+11)* (10)*
+Write a note on halting problem (06)
+
+Page 2 of 2
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 4 · paper 3b1176b7ee09
 
 - Departments: Computer Engineering
@@ -3364,6 +3486,455 @@ iv) Halting problem of Turing machine
 X x
 
 p) he
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper eff77724ab94
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE BATC H14-15 15-16 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 22 January 2019
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+| Program: B. Tech (Computer) ” Year: Il Semester: V <
+J Academic Year: 2018-2019
+
+Subject: Theoretical Computer Science “
+
+Date : 22 January 2019 < w
+P , No. of Pagsaqz>
+Re-examination (2014-15/ 2015-16/ 2016-17) :
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume .suitable data if necessary.
+
+Q1. a) Whatare the applications of the following in Compiler Constructions? [2]
+
+i. Regular Expression
+ii. Deterministic Finite Automaton
+iii. Context Free Grammar
+iv. Pushdown Automaton
+
+b) Differentiate between Moore and Mealy Machine. [2]
+
+c) Give the description for the following regular expressions [2]
+i. ,   r=(bt+ba)*
+
+ii,   r=(1+01+001+0001)( €,+0+00+000)
+
+d) Why Deterministic Finite Automaton (DFA) minimization is required? What are the (2]
+various approaches of DFA minimization?
+e) Explain the following in relation with Pushdown Automaton (PDA) [4]
+
+i. Power of PDA over Finite State Machine.
+ii, Equivalence of Context Free Grammar and PDA.
+
+Q2. a) Design Finite Automaton over {a, b} to accept all strings “Containing the substring aaa [5]
+
+or bbb”.
+b) Post Machine is more powerful than Pushdown automation. Justify. [4]
+c) Describe halting Problem. Is it solvable or unsolvable? [3]
+Q3. a) Explain all the four classes of phase structure grammar suggested by Chomsky. [6]
+b) Consider following grammar for well-formed parentheses: [6]
+ED (E)E
+E>? €
+
+Design pictorial pushdown automata.
+
+Page 1/2
+--- page 2 ---
+Q4.
+
+Q5.
+
+Q6.
+
+Q7.
+
+a)
+b)
+
+a)
+
+b)
+
+a)
+b)
+
+a)
+b)
+c)
+d)
+
+Construct following machines to find 2’s Complements of binary number also simulate
+the working of both the machines for the inputs: 10011 and 0010100.
+
+Moore machine.
+
+Turing machine.
+
+Consider the language L over 2={a,b} , where the L is defined as:
+L= {a"b" | n=0, 1,2,....}
+Construct Pictorial Post Machine that accepts above language L. Simulate the working
+of the machine for the inputs: aabb and abb
+What is post correspondence problem? Determine whether the following {A, B} pair
+
+have a solution or not. If yes, give a solution, if not why?
+A={1, 10111, 10 }
+B={ 111, 10, 0 }
+
+Using Pumping lemma, Check whether 0"1" is regular or not.
+Show that the following Context Free Grammar (CFG) is ambiguous using input string
+as “id@id#id”.
+
+SSS @S|S#S|S$S|S~S|S!S | id
+
+Remove the ambiguity and write an equivalent unambiguous CFG. Consider all
+operators are right recursive except # and highest to lowest precedence is {@, #, $,
+
+!
+eee following terms with one example of each.
+i. Alphabets
+il. Strings
+iii. Languages
+iv. Sets
+
+Write Note on:
+
+Thomson’s Rule
+
+Pictorial Representation of Post Machine Elements
+Recursive and Recursive Enumerable Languages
+Properties and limitations of finite state machine
+
+x yy
+
+vax
+
+Page 2/2
+
+[6]
+[6]
+
+[6]
+
+[6]
+
+[5]
+[5]
+
+[2]
+
+[12]
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper bc2f9c1b503a
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE BATCH 14-15 15-16 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2018
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+4
+
+SVKM’s NMIMS us
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) , Year: III Semester: V ~
+
+Academic Year: 2018-2019
+
+Subject: Theoretical Computer Science -
+
+Marks: 60 «
+
+Date: 24 November 2018 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs) %
+No. of Pages: 2.
+
+Re-examination (2014-15/ 2015-16/ 2016-17)
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and
+on the cover of-the Answer Book, which is provided for their use.
+1) Question no. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) in all five questions to be attempted.
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assumé Suitable data if necessary.
+
+Q.1 a) Construct epsilon NFA for the regular expression (0(0+1)*01) ash oe 4M
+b) Compare Moore and Mealy machine 4M
+c) State and prove pumping lemma for regular languages 4M.
+Q.2. a) Explain the terms Recursive language and recursively enumerable language with 6M
+example
+b) Explain Post correspondence problem with example 6M
+Q.3 a) Convert following grammar to CNF 6M
+S— ASB\e
+A—AaS|a
+B—SbS|A|bb ;
+b) Design PDA to accept the language L=a"b" 6M
+Q4 a) Design divisibility by 5 tester for decimal numbers using finite automata 6M
+b) Let G=(N, T, P, S) be the CFG having following set of production rules 6M
+S— aAS|a
+A-— SbA|SSj|ba
+
+Derive the string ‘aabbaa’ using leftmost derivation and rightmost derivation. Also
+draw parse tree.
+
+Q.5 a) Design turing machine to accept the language containing equal number of a’s and b’s. 6M
+Bit: S={a,b}
+b)
+
+Explain halting problem in turing machine 6M
+
+Q.6 a) Explain different types of grammars with example 6M
+
+Page 1 of 2
+--- page 2 ---
+b) Design mealy machine to find 2’s complement of a number and covert it to Moore 6M
+
+machine
+%
+Q.7 a) Explain Rice’s theorem 4M
+f b) Explain post correspondence problem with example 4M
+c) Explain properties of regular language 4M
+
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 29cbae2111ed
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE BATCH 14-15, 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 24 November 2018
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) _ Year: III Semesti Z EUTE OF aS
+eo ZO
+
+Vee Ce
+Academic Year: 2018-2019 : %
+
+‘= - \2\
+Subject: Theoretical Computer Science + . oe oll
+‘ LIBRARY 4
+Marks: 60- \\w S
+Date: 24 November 2018 “ Time: 10.00 . 3.00 pm SY
+Durations: 3 (rss Universe
+No. of Pages:
+
+Re-examination (2014-15 / 2015-16/ 2016-17)
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+1) Question no. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) in all five questions to be attempted.
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary.
+
+Q.1 a) Construct epsilon NFA for the regular expression (0(0+1)*01) 4M.
+b) Compare Moore and Mealy machine 4M
+c) State and prove pumping lemma for regular languages 4M.
+Q.2 a) Explain the terms Recursive language and recursively enumerable language with 6M
+example
+b) Explain Post correspondence problem with example 6M
+Q.3 a) Convert following grammar to CNF 6M
+S— ASB\e
+A—AaSja
+B—SbS|A|bb
+b) Design PDA to accept the language L=a"b" 6M
+Q.4 a) Design divisibility by 5 tester for decimal numbers using finite automata 6M
+b) Let G=(N, T, P, S) be the CFG having following set of production rules 6M
+S— aAS|a
+A— SbA|SS|ba
+
+Derive the string ‘aabbaa’ using leftmost derivation and rightmost derivation. Also
+draw parse tree.
+
+Q.5 a) Design turing machine to accept the language containing equal number of a’s and b’s. | 6M
+
+D={a,b}
+b) Explain halting problem in turing machine 6M
+Q.6 a) Explain different types of grammars with example 6M
+
+Page 1 of 2
+--- page 2 ---
+b) Design mealy machine to find 2’s complement of a number and covert it to Moore 6M
+machine
+
+J Q.7 a) Explain Rice’s theorem
+! b) Explain post correspondence problem with example 4M \
+c) Explain properties of regular language 4M
+
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 6 · paper 44490d6f7ac2
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 22 April 2019
+- Text: ocr (3 pages), mean OCR confidence 86.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+LSE
+
+VS / _— am Ne
+(= MPSTME )e
+
+BRARY
+
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B. Tech (COMPUTER) Year: I
+Academic Year: 2018-2019 «
+
+Semester: VI
+
+| Subject: Theoretical Computer Science “ Marks: 70 ©
+Date : 22 April 2019 © Time:10.00 am to 1.00 pm ~
+Duration: 3 (hrs) ~ we
+
+C No. of Pages:_@3
+
+Re-Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql. a) Match the following [2]
+
+I_Type-0 P) Push-Down Automata i
+IL_Type-3 Q) Turing Machine
+Ill Type-2 R) Linearly Bounded Automata
+IV_Type-1 S) Finite Automata
+b) Answer the following with reference to the given machine (M) below: [5]
+
+ii) T(M) is equal to {0°" 15"| m, n >= 0}. State True/ False with reason.
+| iii) If qo is also made final state, then what will be the language for T(M)?
+iv) Give the regular expression for given M.
+v) Choose for which string M accepts (a) 01110 (b) 10001 (c) 01010 (d)11111
+
+¢) Construct a Turing machine for a language L = {0" 1"| n>=1}. [5]
+
+th
+--- page 2 ---
+d) Enlist all the tuples of Moore machine and explain with example. [2]
+
+Q2. a) Write the definition of DFA? [2]
+b) Construct a finite automaton for the all possible strings of 0’s and 1’s where the string : [6]
+i) contains number of 0’s divisible by 2 and number of 1’s divisible by 4.
+ii) accepts all binary numbers which are divisible by 3.
+c) Determine the minimized DFA equivalent to the given NFA below [6]
+
+Q3. a) Represent the following sets by regular expression: 3]
+(i) {0, 1,2} (ii) {a?, a, a8... } (iii) { w| w belongs to {a, b}”° and w has only one a}
+
+b) Using Arden’s method obtain the regular expression for the given Finite Automaton: [4]
+
+c) Prove L = {a? [p is a prime number} is not regular using pumping lemma. [5]
+d) Describe in English Language the sets represented by the regular expression: [2]
+(i) ab +b’a (ii) a(a + b)’ab
+Q4. a)What do you mean by Automata with output capability? [4]
+b) Construct only Moore and Mealy Machine for all strings of ‘a’ and ’b’ where the machine gives
+output 1 if the string ends with “aab”. [3]
+c) Explain Decision problems of Finite Automata. (2]
+
+d) Construct DFA using Table-Filling Method for given Finite Automata where S| is starting state
+
+and S3 is final state [5]
+ab
+--- page 3 ---
+05.
+
+a) Find the CFG for the regular expression (110 + 11)*(10)*.
+b) Show that the grammar SalabSb|aAb, A>bS|aAAb is ambiguous.
+
+c)Construct the reduced grammar equivalent to grammar
+
+d)Convert the following CFG to CNF where ’#’ shows epsilon
+SDABA, ADaA|#, BDbB|#
+
+[2]
+[4]
+
+[4]
+
+[4]
+
+Q6.
+
+a) Give the definition of Push Down Automata with the help of diagram and explain for the
+language L = {a"b™c" | n, m>=1} .
+
+b)Show that the language {a"b"c" | n>=1} is not context free.
+
+[7]
+{7
+
+Q7.
+
+Write short notes on following
+a) Turing Machine
+
+b) Post Correspondence Problem
+c) Closure Properties of Regular Set (Any 4)
+
+d)Recursive Language
+
+[4]
+[4]
+[4]
+[2]
+
+¥4
 ````
 
 ## 2017-18 · Final-Exam · Sem 4 · paper dd7201a774fd
@@ -3659,6 +4230,108 @@ ape
 rc sre
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 3aec6916ceba
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE (COMPUTER), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 04 December 2017
+- Text: ocr (2 pages), mean OCR confidence 85.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) Year: Ill Semester: V
+| Batch: 2014-15/ 2015-16
+. : Academic Year: 2017-2018
+Subject: Theoretical Computer Science 1872 ay =.
+“ Marks: 60,%% eat pee
+Date: 04 December 2017 Time: 2.00i@pf to 5.00 pm’ % 4,
+Duratioffs®3' (hes) 5 TB YES
+Re-Examination Noy SF
+es ane a
+: "as a
+
+eal
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory,
+
+2) Out of remaining questions, attempt any _04_ questions.
+
+3) In all _05 questions to be attempted.
+
+4) All questions carry equal marks. :
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data, if necessary.
+
+Q.1. Solve any three.
+
+a. Design Mealy & Moore machine to calculate one’s complement of the given binary [04]
+number.
+
+b. Design PDA for accepting language L = {a"b" | n > O}. [04]
+
+c Convert the Context Free Grammar(CFG) G = ({S,A,B}, {a,b},P,S) in to equivalent [04]
+Chomsky Normal form (CNF), whose production rules are {S > AB, A->BSB |bB|b,
+B— aS|aB|b }.
+
+d. Differentiate between [04]
+
+i. Pushdown Automata and Turing Machine.
+ii. Finite Automata and Pushdown Automata
+
+e. Explain Chomsky Hierarchy of Languages. [04]
+Q2, a. Convert the following regular expression in to equivalent English Statements
+i. (104111)0*1. ii. = (atb)*baa(b+a)*. ii. 01(0+1)* . iv. a*(a*+b*)*. [04]
+| b. Construct NFA with-< & DFA for the regular expression “ab(at+b)*+ aab”. [08]
+Q3. a. Show that L = {x"y"z"| n>0} is not a regular language. [06]
+b. Give Mealy Machine to convert every sequence of “1000” in to “1001” over [06]
+
+an alphabet {0+1}*.
+--- page 2 ---
+Q4. a. Let G = ({S,A,B}, {a,b},P,S) be a context free grammar with production rules, [06]
+P = {S— AB], A aB, B > Sb} Find
+L. Leftmost derivation _ ii. Rightmost derivation & Derivation Tree for
+
+the string “aabbbb”.
+
+b. Give Push Down Automata for accepting the strings of the language [06]
+L = {#wiw*# | w €{0+1}*, w® is the reverse of w and # is any terminal symbol}.
+
+Q5. a Give Post machine for the Language L = {a"b"c"d"|n>0}. [06]
+b. Give Turing machine for the language L = {wcw| w €{0+1}* and cis any input symbol}. [06]
+Q.6. Give Turing machine for the following. (Any two)
+a. To evaluate the function F(x,y) such that [06]
+
+F(xy)=x-y, ifx>y
+= 0 , otherwise
+Where x, y are any two unary numbers.
+
+b. To evaluate the multiplication of two unary numbers. [06]
+
+Gs To accept the language containing equal number of 0’s and 1’s over an alphabet [06]
+{0+1}*. Also give proliferation for the input “0010011011”.
+
+Q.7. Explain (any four)
+a. Halting problem of Turing Machine. [03]
+b. Post Correspondence Problem. [03]
+Ce Difference between Mealy and Moore Machine. [03]
+d. Application of Finite automata in compiler construction. [03]
+e. Ambiguity in Grammar. [03]
+£ Un-decidability problem. . [03]
+g. Closure properties of Context Free Languages. [03]
+
+ala.
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper 11c386716e7f
 
 - Departments: Computer Engineering
@@ -3725,146 +4398,6 @@ Q.7. Write short note on :
 a. Post Correspondence Problem. [04]
 2 b. Chomsky Hierarchy. [04]
 c. Decision problems in CFLs. [04]
-````
-
-## 2017-18 · Re-Exam · Sem 6 · paper 44490d6f7ac2
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 22 April 2019
-- Text: ocr (3 pages), mean OCR confidence 86.6
-
-````text
-LSE
-
-VS / _— am Ne
-(= MPSTME )e
-
-BRARY
-
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program B. Tech (COMPUTER) Year: I
-Academic Year: 2018-2019 «
-
-Semester: VI
-
-| Subject: Theoretical Computer Science “ Marks: 70 ©
-Date : 22 April 2019 © Time:10.00 am to 1.00 pm ~
-Duration: 3 (hrs) ~ we
-
-C No. of Pages:_@3
-
-Re-Examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql. a) Match the following [2]
-
-I_Type-0 P) Push-Down Automata i
-IL_Type-3 Q) Turing Machine
-Ill Type-2 R) Linearly Bounded Automata
-IV_Type-1 S) Finite Automata
-b) Answer the following with reference to the given machine (M) below: [5]
-
-ae Hanis # SoS Szr5 automata.
-ii) T(M) is equal to {0°" 15"| m, n >= 0}. State True/ False with reason.
-| iii) If qo is also made final state, then what will be the language for T(M)?
-iv) Give the regular expression for given M.
-v) Choose for which string M accepts (a) 01110 (b) 10001 (c) 01010 (d)11111
-
-¢) Construct a Turing machine for a language L = {0" 1"| n>=1}. [5]
-
-th
---- page 2 ---
-d) Enlist all the tuples of Moore machine and explain with example. [2]
-
-Q2. a) Write the definition of DFA? [2]
-b) Construct a finite automaton for the all possible strings of 0’s and 1’s where the string : [6]
-i) contains number of 0’s divisible by 2 and number of 1’s divisible by 4.
-ii) accepts all binary numbers which are divisible by 3.
-c) Determine the minimized DFA equivalent to the given NFA below [6]
-
-Q3. a) Represent the following sets by regular expression: 3]
-(i) {0, 1,2} (ii) {a?, a, a8... } (iii) { w| w belongs to {a, b}”° and w has only one a}
-
-b) Using Arden’s method obtain the regular expression for the given Finite Automaton: [4]
-
-c) Prove L = {a? [p is a prime number} is not regular using pumping lemma. [5]
-d) Describe in English Language the sets represented by the regular expression: [2]
-(i) ab +b’a (ii) a(a + b)’ab
-Q4. a)What do you mean by Automata with output capability? [4]
-b) Construct only Moore and Mealy Machine for all strings of ‘a’ and ’b’ where the machine gives
-output 1 if the string ends with “aab”. [3]
-c) Explain Decision problems of Finite Automata. (2]
-
-d) Construct DFA using Table-Filling Method for given Finite Automata where S| is starting state
-
-and S3 is final state [5]
-ab
---- page 3 ---
-05.
-
-a) Find the CFG for the regular expression (110 + 11)*(10)*.
-b) Show that the grammar SalabSb|aAb, A>bS|aAAb is ambiguous.
-
-c)Construct the reduced grammar equivalent to grammar
-SDaAa , ADSb|bCC\DaA, C>abb|DD, EDaC, D>aDA
-
-d)Convert the following CFG to CNF where ’#’ shows epsilon
-SDABA, ADaA|#, BDbB|#
-
-[2]
-[4]
-
-[4]
-
-[4]
-
-Q6.
-
-a) Give the definition of Push Down Automata with the help of diagram and explain for the
-language L = {a"b™c" | n, m>=1} .
-
-b)Show that the language {a"b"c" | n>=1} is not context free.
-
-[7]
-{7
-
-Q7.
-
-Write short notes on following
-a) Turing Machine
-
-b) Post Correspondence Problem
-c) Closure Properties of Regular Set (Any 4)
-
-d)Recursive Language
-
-[4]
-[4]
-[4]
-[2]
-
-¥4
 ````
 
 ## 2017-18 · Re-Exam · Sem 6 · paper d69bb0b0aba4
@@ -3971,6 +4504,7 @@ page 2|2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE B TECH (COMP), 2016-17 FINAL EXAM.pdf`
 - Printed on paper: exam date: 24 November 2016
 - Text: ocr (3 pages), mean OCR confidence 84.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4051,7 +4585,6 @@ Na
 Q.3 a) — Explain PDA and with an example. Write algorithm to find PDA [8]
 corresponding to a given CFG.
 Construct PDA from the following CFG:
-G = ({S, X}, {a, b}, P, S)
 where the productions are -
 S > XS | €, A> aXb | Ab | ab
 
@@ -4102,314 +4635,157 @@ is not regular.
 c) What is Chomsky hierarchy? Explain with an example. [4]
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper eff77724ab94
+## 2016-17 · Re-Exam · Sem 5 · paper d145fd683def
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE BATC H14-15 15-16 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 22 January 2019
-- Text: ocr (2 pages), mean OCR confidence 90.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE B TECH (COMP), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 24 November 2016
+- Text: ocr (3 pages), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-| Program: B. Tech (Computer) ” Year: Il Semester: V <
-J Academic Year: 2018-2019
+Programme : B. Tech (COMPUTER) Year : III Semester: V
+Batch : 2014-2015/ 2015-2016
+Academic Year : 2016-2017
 
-Subject: Theoretical Computer Science “
+| Subject : Theoretical Computer Science
 
-Date : 22 January 2019 < w
-P , No. of Pagsaqz>
-Re-examination (2014-15/ 2015-16/ 2016-17) :
+Date : 24 November 2016
 
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
+eK 7) Pee
 
-1) Question No. | is compulsory.
+‘ é
+he
+Re-Examination So AE UNTER Lo
 
-2) Out of remaining questions, attempt any 4 questions.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
 
-3) In all 5 questions to be attempted.
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
-7) Assume .suitable data if necessary.
+Q16a Match all items in Group 1 with correct options from those given in Group 2. 03
+(G1) (G2)
+1. |QXY—Q a. | DFA
+2. |QXy¥—2" b. | Multi-tape turing machine
+3. | QXF > (QXT X{L,R,H} c. | Turing Machine
+4. | QXT*K + (QXT* X (L,R,H)‘) d. | NFA
+5. | QX(DU{A}XF >(Q,1) e. | Two —stack PDA
 
-Q1. a) Whatare the applications of the following in Compiler Constructions? [2]
+6. | QX(@U{A}XT XT (Q, P,P) # | PDA
 
-i. Regular Expression
-ii. Deterministic Finite Automaton
-iii. Context Free Grammar
-iv. Pushdown Automaton
+b Choose the correct option with justification. 03
+a | i. Which one of the following is FALSE?
 
-b) Differentiate between Moore and Mealy Machine. [2]
+i. There is unique minimal DFA for every regular language.
+ye ii. Every NFA can be converted to an equivalent PDA.
+iii. Complement of every context-free language is recursive.
+iv. Every nondeterministic PDA can be converted to an equivalent deterministic
+PDA.
 
-c) Give the description for the following regular expressions [2]
-i. ,   r=(bt+ba)*
-
-ii,   r=(1+01+001+0001)( €,+0+00+000)
-
-d) Why Deterministic Finite Automaton (DFA) minimization is required? What are the (2]
-various approaches of DFA minimization?
-e) Explain the following in relation with Pushdown Automaton (PDA) [4]
-
-i. Power of PDA over Finite State Machine.
-ii, Equivalence of Context Free Grammar and PDA.
-
-Q2. a) Design Finite Automaton over {a, b} to accept all strings “Containing the substring aaa [5]
-
-or bbb”.
-b) Post Machine is more powerful than Pushdown automation. Justify. [4]
-c) Describe halting Problem. Is it solvable or unsolvable? [3]
-Q3. a) Explain all the four classes of phase structure grammar suggested by Chomsky. [6]
-b) Consider following grammar for well-formed parentheses: [6]
-ED (E)E
-E>? €
-
-Design pictorial pushdown automata.
-
-Page 1/2
+4/5
 --- page 2 ---
-Q4.
+Q.2
 
-Q5.
+Q.3
 
-Q6.
+Q.4
 
-Q7.
+iii
 
-a)
-b)
+iii
 
-a)
+The turing machine accepts
+i. Regular language
+ii. Context free language
+iii. Context sensitive language
 
-b)
+iv. All of these
+Given an arbitrary non-deterministic finite automaton (NFA) with N states, the
 
-a)
-b)
+maximum number of states in an equivalent minimized DFA is at least.
+i, = NA2
+ii, 24N
+iii. 2N
+iv. N!
+Answer the following and justify in short.
+Find the highest type of the following grammar
+S— aS/A, aS —aa, A-a.
+Find the languages generated by the following grammar.
+S — 0S81/0A1, A>1A/1.
+Construct the grammar for the language
+o™1", where m21 andn21andm<n.
 
-a)
-b)
-c)
-d)
+Construct an FA accepting all strings in {0,1}* having even number of 0’s.
 
-Construct following machines to find 2’s Complements of binary number also simulate
-the working of both the machines for the inputs: 10011 and 0010100.
+Apply the theorem of Pumping Lemma to prove that the following language L is
+regular.
 
-Moore machine.
+L={a?"| n>=1 }
+For a left linear grammar given below, obtain an equivalent right linear grammar.
+S—S10|A1
+A—A00|00
+Convert following grammar into CNF
+S — abAB
+A —bAB/E
+B —>BAa/e
 
-Turing machine.
+Consider the Mealy describe by transition table given by construct to Moore machine
+which is equivalent Mealy machine by the transitional format.
 
-Consider the language L over 2={a,b} , where the L is defined as:
-L= {a"b" | n=0, 1,2,....}
-Construct Pictorial Post Machine that accepts above language L. Simulate the working
-of the machine for the inputs: aabb and abb
-What is post correspondence problem? Determine whether the following {A, B} pair
+R/s
 
-have a solution or not. If yes, give a solution, if not why?
-A={1, 10111, 10 }
-B={ 111, 10, 0 }
+06
 
-Using Pumping lemma, Check whether 0"1" is regular or not.
-Show that the following Context Free Grammar (CFG) is ambiguous using input string
-as “id@id#id”.
+06
 
-SSS @S|S#S|S$S|S~S|S!S | id
+06
 
-Remove the ambiguity and write an equivalent unambiguous CFG. Consider all
-operators are right recursive except # and highest to lowest precedence is {@, #, $,
+06
 
-!
-eee following terms with one example of each.
-i. Alphabets
-il. Strings
-iii. Languages
-iv. Sets
+06
 
-Write Note on:
+06
+--- page 3 ---
+/P =0 VP =1
 
-Thomson’s Rule
+Present State Next State Output Next Output
+State
+A Cc 0 B 0
+B A i D 0
+Cc B 1 A 1
+D D tT Cc 0
+b Construct an RE from the given FA in Fig. by the algebraic method using Arden’s 06
+theorem
 
-Pictorial Representation of Post Machine Elements
-Recursive and Recursive Enumerable Languages
-Properties and limitations of finite state machine
+7
 
-x yy
+Q5 a Design the accepting string { WWF where W €(a,b)* and WF is the reverse of W} by 06
+the empty stack and by the final state.
+b Design a PDA for the language L={ a"b?", where n21 } by empty stack and by final 06
+stack.
+Q6 a Design the TM to accept the language L=a"b", where n>=1. 06
+b Prove that. multi-tape Turing machine has an equivalent single-tape turing machine 06
+Q7 a Explain Kuroda Normal form. 04
+b Convert the following NFA with €- moves to equivalent DFA. 08
 
-vax
+o (}! VL
 
-Page 2/2
-
-[6]
-[6]
-
-[6]
-
-[6]
-
-[5]
-[5]
-
-[2]
-
-[12]
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper bc2f9c1b503a
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE BATCH 14-15 15-16 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2018
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-4
-
-SVKM’s NMIMS us
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) , Year: III Semester: V ~
-
-Academic Year: 2018-2019
-
-Subject: Theoretical Computer Science -
-
-Marks: 60 «
-
-Date: 24 November 2018 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs) %
-No. of Pages: 2.
-
-Re-examination (2014-15/ 2015-16/ 2016-17)
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and
-on the cover of-the Answer Book, which is provided for their use.
-1) Question no. | is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) in all five questions to be attempted.
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assumé Suitable data if necessary.
-
-Q.1 a) Construct epsilon NFA for the regular expression (0(0+1)*01) ash oe 4M
-b) Compare Moore and Mealy machine 4M
-c) State and prove pumping lemma for regular languages 4M.
-Q.2. a) Explain the terms Recursive language and recursively enumerable language with 6M
-example
-b) Explain Post correspondence problem with example 6M
-Q.3 a) Convert following grammar to CNF 6M
-S— ASB\e
-A—AaS|a
-B—SbS|A|bb ;
-b) Design PDA to accept the language L=a"b" 6M
-Q4 a) Design divisibility by 5 tester for decimal numbers using finite automata 6M
-b) Let G=(N, T, P, S) be the CFG having following set of production rules 6M
-S— aAS|a
-A-— SbA|SSj|ba
-
-Derive the string ‘aabbaa’ using leftmost derivation and rightmost derivation. Also
-draw parse tree.
-
-Q.5 a) Design turing machine to accept the language containing equal number of a’s and b’s. 6M
-Bit: S={a,b}
-b)
-
-Explain halting problem in turing machine 6M
-
-Q.6 a) Explain different types of grammars with example 6M
-
-Page 1 of 2
---- page 2 ---
-b) Design mealy machine to find 2’s complement of a number and covert it to Moore 6M
-
-machine
-%
-Q.7 a) Explain Rice’s theorem 4M
-f b) Explain post correspondence problem with example 4M
-c) Explain properties of regular language 4M
-
-Page 2 of 2
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 29cbae2111ed
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE BATCH 14-15, 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 24 November 2018
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) _ Year: III Semesti Z EUTE OF aS
-eo ZO
-
-Vee Ce
-Academic Year: 2018-2019 : %
-
-‘= - \2\
-Subject: Theoretical Computer Science + . oe oll
-‘ LIBRARY 4
-Marks: 60- \\w S
-Date: 24 November 2018 “ Time: 10.00 . 3.00 pm SY
-Durations: 3 (rss Universe
-No. of Pages:
-
-Re-examination (2014-15 / 2015-16/ 2016-17)
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-1) Question no. | is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) in all five questions to be attempted.
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary.
-
-Q.1 a) Construct epsilon NFA for the regular expression (0(0+1)*01) 4M.
-b) Compare Moore and Mealy machine 4M
-c) State and prove pumping lemma for regular languages 4M.
-Q.2 a) Explain the terms Recursive language and recursively enumerable language with 6M
-example
-b) Explain Post correspondence problem with example 6M
-Q.3 a) Convert following grammar to CNF 6M
-S— ASB\e
-A—AaSja
-B—SbS|A|bb
-b) Design PDA to accept the language L=a"b" 6M
-Q.4 a) Design divisibility by 5 tester for decimal numbers using finite automata 6M
-b) Let G=(N, T, P, S) be the CFG having following set of production rules 6M
-S— aAS|a
-A— SbA|SS|ba
-
-Derive the string ‘aabbaa’ using leftmost derivation and rightmost derivation. Also
-draw parse tree.
-
-Q.5 a) Design turing machine to accept the language containing equal number of a’s and b’s. | 6M
-
-D={a,b}
-b) Explain halting problem in turing machine 6M
-Q.6 a) Explain different types of grammars with example 6M
-
-Page 1 of 2
---- page 2 ---
-b) Design mealy machine to find 2’s complement of a number and covert it to Moore 6M
-machine
-
-J Q.7 a) Explain Rice’s theorem
-! b) Explain post correspondence problem with example 4M \
-c) Explain properties of regular language 4M
-
-Page 2 of 2
+2/5
 ````
 
 ## 2015-16 · Final-Exam · Sem 5 · paper 950b797836bc
@@ -4419,6 +4795,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE B TECH (COMPUTER), YEAR 15-16 FINAL EXAM.pdf`
 - Printed on paper: exam date: 25/11/2015
 - Text: ocr (2 pages), mean OCR confidence 78.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _~
@@ -4461,7 +4838,6 @@ Il]
 
 y the instructions printed on the question paper and on the cov
 
-a WEG, ih ke AR DS i
 
 ee @e i
 
@@ -4613,383 +4989,178 @@ L={a"b"c"| n>1} is not regular
 [4]
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 3aec6916ceba
+## 2015-16 · Re-Exam · Sem 5 · paper 373c28217807
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE (COMPUTER), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 04 December 2017
-- Text: ocr (2 pages), mean OCR confidence 85.9
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE B TECH (COMPUTER) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2016
+- Text: ocr (2 pages), mean OCR confidence 87.3
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS finer =
 
-Programme: B. Tech (COMPUTER) Year: Ill Semester: V
-| Batch: 2014-15/ 2015-16
-. : Academic Year: 2017-2018
-Subject: Theoretical Computer Science 1872 ay =.
-“ Marks: 60,%% eat pee
-Date: 04 December 2017 Time: 2.00i@pf to 5.00 pm’ % 4,
-Duratioffs®3' (hes) 5 TB YES
-No. of Bi lo zza RY
-Re-Examination Noy SF
-es ane a
-: "as a
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E oe ua
+a / WA .
+( 7
+Programme: B.Tech (Computer) Year: Ill Semester: V cve LIBRARY 7
+’ — Ce
+Academic Year: 2015-16 Ra
+Batch: 2013-14 Marks:100
+Subject: Theoretical Computer Science Time: 2.00 pm — 5.00 pm
+Date: 08 June 2016 Durations: 3 (hrs)
 
-eal
+Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory,
-
-2) Out of remaining questions, attempt any _04_ questions.
-
-3) In all _05 questions to be attempted.
-
-4) All questions carry equal marks. :
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data, if necessary.
-
-Q.1. Solve any three.
-
-a. Design Mealy & Moore machine to calculate one’s complement of the given binary [04]
-number.
-
-b. Design PDA for accepting language L = {a"b" | n > O}. [04]
-
-c Convert the Context Free Grammar(CFG) G = ({S,A,B}, {a,b},P,S) in to equivalent [04]
-Chomsky Normal form (CNF), whose production rules are {S > AB, A->BSB |bB|b,
-B— aS|aB|b }.
-
-d. Differentiate between [04]
-
-i. Pushdown Automata and Turing Machine.
-ii. Finite Automata and Pushdown Automata
-
-e. Explain Chomsky Hierarchy of Languages. [04]
-Q2, a. Convert the following regular expression in to equivalent English Statements
-i. (104111)0*1. ii. = (atb)*baa(b+a)*. ii. 01(0+1)* . iv. a*(a*+b*)*. [04]
-| b. Construct NFA with-< & DFA for the regular expression “ab(at+b)*+ aab”. [08]
-Q3. a. Show that L = {x"y"z"| n>0} is not a regular language. [06]
-b. Give Mealy Machine to convert every sequence of “1000” in to “1001” over [06]
-
-an alphabet {0+1}*.
---- page 2 ---
-Q4. a. Let G = ({S,A,B}, {a,b},P,S) be a context free grammar with production rules, [06]
-P = {S— AB], A aB, B > Sb} Find
-L. Leftmost derivation _ ii. Rightmost derivation & Derivation Tree for
-
-the string “aabbbb”.
-
-b. Give Push Down Automata for accepting the strings of the language [06]
-L = {#wiw*# | w €{0+1}*, w® is the reverse of w and # is any terminal symbol}.
-
-Q5. a Give Post machine for the Language L = {a"b"c"d"|n>0}. [06]
-b. Give Turing machine for the language L = {wcw| w €{0+1}* and cis any input symbol}. [06]
-Q.6. Give Turing machine for the following. (Any two)
-a. To evaluate the function F(x,y) such that [06]
-
-F(xy)=x-y, ifx>y
-= 0 , otherwise
-Where x, y are any two unary numbers.
-
-b. To evaluate the multiplication of two unary numbers. [06]
-
-Gs To accept the language containing equal number of 0’s and 1’s over an alphabet [06]
-{0+1}*. Also give proliferation for the input “0010011011”.
-
-Q.7. Explain (any four)
-a. Halting problem of Turing Machine. [03]
-b. Post Correspondence Problem. [03]
-Ce Difference between Mealy and Moore Machine. [03]
-d. Application of Finite automata in compiler construction. [03]
-e. Ambiguity in Grammar. [03]
-£ Un-decidability problem. . [03]
-g. Closure properties of Context Free Languages. [03]
-
-ala.
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper d145fd683def
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE B TECH (COMP), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 24 November 2016
-- Text: ocr (3 pages), mean OCR confidence 87.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (COMPUTER) Year : III Semester: V
-Batch : 2014-2015/ 2015-2016
-Academic Year : 2016-2017
-
-| Subject : Theoretical Computer Science
-
-Date : 24 November 2016
-
-eK 7) Pee
-
-‘ é
-he
-Re-Examination So AE UNTER Lo
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No. ONE is compulsory.
+1) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
 
-Q16a Match all items in Group 1 with correct options from those given in Group 2. 03
-(G1) (G2)
-1. |QXY—Q a. | DFA
-2. |QXy¥—2" b. | Multi-tape turing machine
-3. | QXF > (QXT X{L,R,H} c. | Turing Machine
-4. | QXT*K + (QXT* X (L,R,H)‘) d. | NFA
-5. | QX(DU{A}XF >(Q,1) e. | Two —stack PDA
+Q.1 a) Obtain NFA with moves for given regular expression (5M)
+(ab+ba)*(ata)(abt+ba)*
+b) — State and Explain properties and limitations of FSM (SM)
+c) Find context free language for given context free grammar (5M)
+S—aSb| ab ;
+d) — Write a short note on Universal Turing Machine (5M)
+Q.2 a) State and prove pumping lemma for regular language (10M)
+b) Design Mealy machine to replace occurance of 110 by 111 (10M)
+Q.3 a) Show that L=f{a'bic\| k>it+j} is not regular, (10M)
+b) Explain rules for simplification of context free grammar. (10M)
 
-6. | QX(@U{A}XT XT (Q, P,P) # | PDA
+Q.4 a) Design Turing Machine for accepting string with equal number of a’s and b’s over (10M)
+{a,b}*.
+b) Construct Post machine for accepting Language L = {a" b" c” | n>0}. (10M)
 
-b Choose the correct option with justification. 03
-a | i. Which one of the following is FALSE?
+Q.5 a) Construct Push Down Automata for accepting even length palindrome over {0,1}* (10M)
 
-i. There is unique minimal DFA for every regular language.
-ye ii. Every NFA can be converted to an equivalent PDA.
-iii. Complement of every context-free language is recursive.
-iv. Every nondeterministic PDA can be converted to an equivalent deterministic
-PDA.
+b) Let G be the grammar with Productions {S— aB|bA, (10M)
+A->alaS|bAA,
+all
+B-> b| bS|aBB}.
+Find i) Leftmost derivation, ii) Rightmost derivation & iii) Parse Tree
+ps for the string “aaabbabbba”. _
+Q.6 a) Design Deterministic Finite Automata for accepting all the decimal numbers (10M)
+divisible by 4.
+b) | What is ambiguous grammar? Explain steps to remove ambiguity in grammar. (10M)
 
-4/5
+4/9
 --- page 2 ---
-Q.2
+Q:7 Write a short note on any four of the following
 
-Q.3
-
-Q.4
-
-iii
-
-iii
-
-The turing machine accepts
-i. Regular language
-ii. Context free language
-iii. Context sensitive language
-
-iv. All of these
-Given an arbitrary non-deterministic finite automaton (NFA) with N states, the
-
-maximum number of states in an equivalent minimized DFA is at least.
-i, = NA2
-ii, 24N
-iii. 2N
-iv. N!
-Answer the following and justify in short.
-Find the highest type of the following grammar
-S— aS/A, aS —aa, A-a.
-Find the languages generated by the following grammar.
-S — 0S81/0A1, A>1A/1.
-Construct the grammar for the language
-o™1", where m21 andn21andm<n.
-
-Construct an FA accepting all strings in {0,1}* having even number of 0’s.
-
-Apply the theorem of Pumping Lemma to prove that the following language L is
-regular.
-
-L={a?"| n>=1 }
-For a left linear grammar given below, obtain an equivalent right linear grammar.
-S—S10|A1
-A—A00|00
-Convert following grammar into CNF
-S — abAB
-A —bAB/E
-B —>BAa/e
-
-Consider the Mealy describe by transition table given by construct to Moore machine
-which is equivalent Mealy machine by the transitional format.
-
-R/s
-
-06
-
-06
-
-06
-
-06
-
-06
-
-06
---- page 3 ---
-/P =0 VP =1
-
-Present State Next State Output Next Output
-State
-A Cc 0 B 0
-B A i D 0
-Cc B 1 A 1
-D D tT Cc 0
-b Construct an RE from the given FA in Fig. by the algebraic method using Arden’s 06
-theorem
-
-7
-
-Q5 a Design the accepting string { WWF where W €(a,b)* and WF is the reverse of W} by 06
-the empty stack and by the final state.
-b Design a PDA for the language L={ a"b?", where n21 } by empty stack and by final 06
-stack.
-Q6 a Design the TM to accept the language L=a"b", where n>=1. 06
-b Prove that. multi-tape Turing machine has an equivalent single-tape turing machine 06
-Q7 a Explain Kuroda Normal form. 04
-b Convert the following NFA with €- moves to equivalent DFA. 08
-
-o (}! VL
-—* Go ea qi Ee Ce)
-
-2/5
+a) Properties of Regular Languages. (5M)
+b) — Elements of Post Machine. (5M)
+c) Halting problem (5M)
+d) Properties of Recursively Enumerable Languages. (5M)
+e) Undecidability (5M)
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 1a81a4d66694
+## 2015-16 · Re-Exam · Sem 5 · paper 4cf483183b5c
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 07 November 2019
-- Text: ocr (2 pages), mean OCR confidence 88.7
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE B TECH (COMPUTER), BATCH 2014-15 RE EXAM (2).pdf` (+1 identical copies)
+- Printed on paper: exam date: 25/11/2015
+- Text: ocr (2 pages), mean OCR confidence 82.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
 Programme: B. Tech (Computer) Year: Ill Semester: V
+Batch: 2014-2015
+Academic Year: 2015-2016 anna
+; ws wen Relay
+Subject: Theoretical Computer Science if 7 -
+es | eaees yg
 
-Academic Year: 2019-20
+Date: 25/11/2015 Time: R 2 Py Da
 
-Subject: Theoretical Computer Science
-mae “or P MPSTME ~
+as ata Duration: 3 (h yy
 
-Marks: 60
+bg
 
-Date: 07 November 2019 Time: 10.00 00 bhB RARY
-Durations: 3 (hrgps>
-No. of Pages:
+A e, i
+Re-Examination
 
-Re-Examination (2015-16)
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their
+NB:
 
-use.
+1) Question No. _1___ is compulsory.
 
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall__5_ questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
 
-Ql a) Explain applications and limitations of finite Automata (04)
-b) Explain Chomsky hierarchy of grammar (04)
-c) Compare DFA and PDA (04)
-Q.2 a) Consider following CFG: (06)
-S—iCtS|iCtSeS|a
-Cb
+1. a. Prove that L= {(ab)"a*: n>k, k>=0 } is not regular —s
+b. Design DFA to accept set of strings that accept 00 as substring but not 000 as a substring. ri 33
+c. Differentiate between a) NFA and DFA CEJ
 
-Derive the string “ibtibtaea” using leftmost derivation and rightmost
-derivation. Draw syntax tree for the same. ;
-b) Design Moore and Mealy machine to convert each occurrence of 110 to (06)
+b) Moore and Mealy
+2. a, Convert the following grammar to CNF [6]
+A’ aBb |bBa
+B->aB |bB | =
+b. Reduce the following grammar to GNF ce]
+i) S AB
 
-111
+A BSB|BB|b
+i) B 2Abla
 
-Q.3 a) Using pumping lemma prove that language L={a"b"| n>=0} is not (06)
-regular
-3 b) What is post correspondence problem? Determine whether the following list (06)
+S AAla
 
-oe
-8 has a PCP solution or not.
+A SS|b.
 
-A B
-i Wi Xi
-l 001 =| 01
-2 0011 | 111
-3 ll lll
+3. Write Short note on any four. Lia]
+a) Halting Problem
+b) Types of Turing Machines
+c) Closure properties of regular languages
+d) Recursively enumerable languages
+e) Post Correspondence Problem
 
-4 101 | 010
+4. a. Design TM to accept the language consisting of equal number of 0’s and 1’s.Simulate the £ey
+operation for 110100. ad
+b. Design a TM to accept language {0"1" | n>O } Cel
 
-Page lof2
+5. a. Design a PDA for accepting a language L={WcW® |W © {a, b)*} as
+
+4/2
 --- page 2 ---
-&
+b. Design a PDA to accept the language L= {0"1" | n<s m} £6]
 
-Q4
+6. a. For the given grammar given below C6]
+S A1B
+A OA| =
+B OB 1B] =
 
-Q5
+Give leftmost and rightmost derivation of the string 1001.Also draw parse tree.
+a LEI
+b. Design a Mealy machine that accepts input from (0+1)*, if the input ends in 101, output A; if the
+input ends in 110, output Otherwise.
 
-Q.6
+7. a. In each case,show that the grammar is ambiguous and find the equivalent unambiguous grammar
+S SSla|b
 
-Q7
+b. Construct NFA from the following RE and convert into minimized DFA.
 
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-Design Turing machine to compute 2’s complement of given binary number (12)
-
-Design DFA to accept the language containing all strings over }}={a,b} that (06)
-starts and ends with different symbols
-
-Explain following terms relation with Turing machine. (06)
-(i) Solvability
-(ii) Semi-Solvability
-(iii) | Unsolvability
-
-Design Push Down Automata to accept language L={a"b"|n>0} (06)
-Convert the following grammar to CNF. (06)
-S — AACD
-
-A—aAble
-
-C—aCla
-
-D—aDa| bDb|«
-
-Construct a NFA with ‘e’ transition for following RE (06)
-(00+11)* (10)*
-Write a note on halting problem (06)
-
-Page 2 of 2
+i, (0+1)*(00+11) : ces
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper 93f7f6cb64d3
@@ -5108,104 +5279,95 @@ Q.7 a Explain Post Correspondence Problem (PCP) problem. 04
 b Convert tne foliowing NFA with €- rnoves to equivalent DFA. 08
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 4cf483183b5c
+## 2014-15 · Final-Exam · Sem 5 · paper 2c8e2f5c2562
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE B TECH (COMPUTER), BATCH 2014-15 RE EXAM (2).pdf` (+1 identical copies)
-- Printed on paper: exam date: 25/11/2015
-- Text: ocr (2 pages), mean OCR confidence 82.8
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORECTICAL COMPUTER SCIENCE B TECH (COMP), FINAL EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/2014
+- Text: ocr (2 pages), mean OCR confidence 90.7
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Computer) Year: Ill Semester: V
-Batch: 2014-2015
-Academic Year: 2015-2016 anna
-; ws wen Relay
-Subject: Theoretical Computer Science if 7 -
-es | eaees yg
+Programme:B. Tech (COMP) Year: Ill
 
-Date: 25/11/2015 Time: R 2 Py Da
+Academic Year: 2014-2015
 
-as ata Duration: 3 (h yy
+Subject : Theoretical Computer Science
 
-bg
+Marks: 100
 
-A e, i
-Re-Examination
+Date : 27/11/2014 Time : 2.00 pm to
+Durations: 3 (hrs)
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Final-Examination
 
-NB:
+Instructions:- candidates should read carefully the instruction printed on the question paper and on the
+cover of the answer book, which is provided for their use.
 
-1) Question No. _1___ is compulsory.
+NB:- 1) Question No. ONE is compulsory
+2) Out of remaining attempt FOUR questions.
+3) All Questions carry equal marks.
 
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall__5_ questions to be attempted.
+4) Figures in brackets on right hand side indicate full marks
 
-4) All questions carry equal marks.
+Qi. A) Construct Turing machine for Accepting Language L = {0" 1" 2" |n 2 0} [8]
+B) Prove that “if L is recursive, so is L”. [7]
+C) En-list and explain the various types of finite Automata. [5]
+Q2. _A) State and explain the pumping lemma for Context Free Language. [8]
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
+B) Design a Mealy Machine for converting every sequence of “100” to “101” from the [8]
+Input string over a alphabet )) = {0,1}*.
 
-1. a. Prove that L= {(ab)"a*: n>k, k>=0 } is not regular —s
-b. Design DFA to accept set of strings that accept 00 as substring but not 000 as a substring. ri 33
-c. Differentiate between a) NFA and DFA CEJ
+C) Write Regular Expression for the following languages (Any Two) [4]
 
-b) Moore and Mealy
-2. a, Convert the following grammar to CNF [6]
-A’ aBb |bBa
-B->aB |bB | =
-b. Reduce the following grammar to GNF ce]
-i) S AB
+i) Set of all strings ending with “bba” or “abb” over }} = {a,b} .
+ii) Set of all strings containing at most 3 a’s over ); = {a,b}.
 
-A BSB|BB|b
-i) B 2Abla
+Q3. A) Design Turing Machine to compute Logzn, where n is any unary number. [8]
+B) Construct Push Down Automata for accepting odd length palindrome over {0, 1}*. [8]
 
-S AAla
-
-A SS|b.
-
-3. Write Short note on any four. Lia]
-a) Halting Problem
-b) Types of Turing Machines
-c) Closure properties of regular languages
-d) Recursively enumerable languages
-e) Post Correspondence Problem
-
-4. a. Design TM to accept the language consisting of equal number of 0’s and 1’s.Simulate the £ey
-operation for 110100. ad
-b. Design a TM to accept language {0"1" | n>O } Cel
-
-5. a. Design a PDA for accepting a language L={WcW® |W © {a, b)*} as
+C) Explain closure properties of context free languages. [4]
 
 4/2
 --- page 2 ---
-b. Design a PDA to accept the language L= {0"1" | n<s m} £6]
+Q4.
 
-6. a. For the given grammar given below C6]
-S A1B
-A OA| =
-B OB 1B] =
+QS.
 
-Give leftmost and rightmost derivation of the string 1001.Also draw parse tree.
-a LEI
-b. Design a Mealy machine that accepts input from (0+1)*, if the input ends in 101, output A; if the
-input ends in 110, output Otherwise.
+Q6.
 
-7. a. In each case,show that the grammar is ambiguous and find the equivalent unambiguous grammar
-S SSla|b
-S ABA,A aA| =,B bB| = Ce]
+Q7.
 
-b. Construct NFA from the following RE and convert into minimized DFA.
+A) Design a Context Free Grammar for language L, such that L contains all binary strings[10]
+equivalent, to number divisible by 4. Give left-most derivation, right-most derivation
+derivation tree for generating binary representation of twelve.
 
-i, (0+1)*(00+11) : ces
+B) Design Push Down Automata to accept a"(bda)", for n > 0. [10]
+A) Design Deterministic Finite Automata for accepting all the decimal numbers [10]
+divisible by 3.
+B) Design a Mealy Machine for the language (0+1)* (00 + 11) and convert it into [10]
+Moore Machine.
+A) Give minimized Deterministic Finite Automata for “a.a.(ba)*+b* .a.b.a*”. [10]
+B) i) Convert the following into CNF [5]
+A — aBb\|bBa
+B > aB\|bBle
+ii) Convert the grammar to GNF [5]
+S— AB
+A — BSB|BB\b
+Write short Note (Attempt any 4) [20]
+A) Turing Machine Types [5]
+B) Un-decidable problem [5]
+C) Post Correspondence [5]
+D) Church’s hypothesis [5]
+E) Elements of Post M/C [5]
+
+a
 ````
 
-## 2013-14 · Final-Exam · Sem 5 · paper 3b8af4d9f61d
+## 2014-15 · Final-Exam · Sem 5 · paper 3b8af4d9f61d
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
@@ -5318,7 +5480,7 @@ F) Elements of Post Machine.
 [5]
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper ae4bc2a0ad2c
+## 2014-15 · Re-Exam · Sem 5 · paper ae4bc2a0ad2c
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
@@ -5409,83 +5571,6 @@ Post correspondence problem
 Compare and contrast Moore and Mealy machine
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper 373c28217807
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORETICAL COMPUTER SCIENCE B TECH (COMPUTER) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2016
-- Text: ocr (2 pages), mean OCR confidence 87.3
-
-````text
-SVKM’s NMIMS finer =
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E oe ua
-a / WA .
-( 7
-Programme: B.Tech (Computer) Year: Ill Semester: V cve LIBRARY 7
-’ — Ce
-Academic Year: 2015-16 Ra
-Batch: 2013-14 Marks:100
-Subject: Theoretical Computer Science Time: 2.00 pm — 5.00 pm
-Date: 08 June 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1 a) Obtain NFA with moves for given regular expression (5M)
-(ab+ba)*(ata)(abt+ba)*
-b) — State and Explain properties and limitations of FSM (SM)
-c) Find context free language for given context free grammar (5M)
-S—aSb| ab ;
-d) — Write a short note on Universal Turing Machine (5M)
-Q.2 a) State and prove pumping lemma for regular language (10M)
-b) Design Mealy machine to replace occurance of 110 by 111 (10M)
-Q.3 a) Show that L=f{a'bic\| k>it+j} is not regular, (10M)
-b) Explain rules for simplification of context free grammar. (10M)
-
-Q.4 a) Design Turing Machine for accepting string with equal number of a’s and b’s over (10M)
-{a,b}*.
-b) Construct Post machine for accepting Language L = {a" b" c” | n>0}. (10M)
-
-Q.5 a) Construct Push Down Automata for accepting even length palindrome over {0,1}* (10M)
-
-b) Let G be the grammar with Productions {S— aB|bA, (10M)
-A->alaS|bAA,
-all
-B-> b| bS|aBB}.
-Find i) Leftmost derivation, ii) Rightmost derivation & iii) Parse Tree
-ps for the string “aaabbabbba”. _
-Q.6 a) Design Deterministic Finite Automata for accepting all the decimal numbers (10M)
-divisible by 4.
-b) | What is ambiguous grammar? Explain steps to remove ambiguity in grammar. (10M)
-
-4/9
---- page 2 ---
-Q:7 Write a short note on any four of the following
-
-a) Properties of Regular Languages. (5M)
-b) — Elements of Post Machine. (5M)
-c) Halting problem (5M)
-d) Properties of Recursively Enumerable Languages. (5M)
-e) Undecidability (5M)
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper a32e33c4bdc7
 
 - Departments: Computer Engineering
@@ -5561,92 +5646,4 @@ E) Properties of Regular Languages. [5]
 F) Elements of Post Machine. [5]
 
 ' x
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper 2c8e2f5c2562
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/THEORETICAL COMPUTER SCIENCE/THEORECTICAL COMPUTER SCIENCE B TECH (COMP), FINAL EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/2014
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (COMP) Year: Ill
-
-Academic Year: 2014-2015
-
-Subject : Theoretical Computer Science
-
-Marks: 100
-
-Date : 27/11/2014 Time : 2.00 pm to
-Durations: 3 (hrs)
-
-Final-Examination
-
-Instructions:- candidates should read carefully the instruction printed on the question paper and on the
-cover of the answer book, which is provided for their use.
-
-NB:- 1) Question No. ONE is compulsory
-2) Out of remaining attempt FOUR questions.
-3) All Questions carry equal marks.
-
-4) Figures in brackets on right hand side indicate full marks
-
-Qi. A) Construct Turing machine for Accepting Language L = {0" 1" 2" |n 2 0} [8]
-B) Prove that “if L is recursive, so is L”. [7]
-C) En-list and explain the various types of finite Automata. [5]
-Q2. _A) State and explain the pumping lemma for Context Free Language. [8]
-
-B) Design a Mealy Machine for converting every sequence of “100” to “101” from the [8]
-Input string over a alphabet )) = {0,1}*.
-
-C) Write Regular Expression for the following languages (Any Two) [4]
-
-i) Set of all strings ending with “bba” or “abb” over }} = {a,b} .
-ii) Set of all strings containing at most 3 a’s over ); = {a,b}.
-
-Q3. A) Design Turing Machine to compute Logzn, where n is any unary number. [8]
-B) Construct Push Down Automata for accepting odd length palindrome over {0, 1}*. [8]
-
-C) Explain closure properties of context free languages. [4]
-
-4/2
---- page 2 ---
-Q4.
-
-QS.
-
-Q6.
-
-Q7.
-
-A) Design a Context Free Grammar for language L, such that L contains all binary strings[10]
-equivalent, to number divisible by 4. Give left-most derivation, right-most derivation
-derivation tree for generating binary representation of twelve.
-
-B) Design Push Down Automata to accept a"(bda)", for n > 0. [10]
-A) Design Deterministic Finite Automata for accepting all the decimal numbers [10]
-divisible by 3.
-B) Design a Mealy Machine for the language (0+1)* (00 + 11) and convert it into [10]
-Moore Machine.
-A) Give minimized Deterministic Finite Automata for “a.a.(ba)*+b* .a.b.a*”. [10]
-B) i) Convert the following into CNF [5]
-A — aBb\|bBa
-B > aB\|bBle
-ii) Convert the grammar to GNF [5]
-S— AB
-A — BSB|BB\b
-Write short Note (Attempt any 4) [20]
-A) Turing Machine Types [5]
-B) Un-decidable problem [5]
-C) Post Correspondence [5]
-D) Church’s hypothesis [5]
-E) Elements of Post M/C [5]
-
-a
 ````

@@ -16,11 +16,11 @@ Also filed as: `GREEN AND INTELLIGENT BUILDING`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Green and Intelligent Buildings(702CI0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / CIVIL | Green and Intelligent Buildings, Sem-V, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech Civil 7005 | QP_Green and Intelligent Buildings(702CI0E002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Green and Intelligent Buildings(702CI0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Green and Intelligent Buildings(702CI0E002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Civil 7005 | QP_Green and Intelligent Buildings(702CI0E002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Green and Intelligent Buildings(702CI0E002)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5, Sem 11 | B TECH / CIVIL, B.TECH INTEGRATED / CIVIL | Green And Intelligent Buildings Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / CIVIL | Green and Intelligent Buildings, Sem VI, Year 2024-25 Final Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / CIVIL, B.TECH INTEGRATED / CIVIL | Green and Intelligent Buildings, Sem-V, Batch 2023-24 Final Exam.pdf |

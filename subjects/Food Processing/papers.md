@@ -142,6 +142,7 @@ iv) Name the three enzymes that help for food digestion with their function.
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/CHEMICAL/X SEMESTER/FOOD PROCESSING/Food processing 2017-18.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 12 May 2018
 - Text: ocr (3 pages), mean OCR confidence 90.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —
@@ -182,7 +183,6 @@ Caramel Preservatives
 Sulphur dioxide Antioxidants
 BHT Flavoring
 Herbs stabilizer
-Guar gum Jams/jellies
 Pectin E440 Coloring agent
 Humectants
 B_ Choose the correct option: 4
@@ -275,7 +275,6 @@ Ethanol Saccharomyces cerevisiae
 
 Glycerol Saccharomyces cerevisiae
 
-Lactic acid Lactobacillus bulgaricus
 
 a-amylase Bacillus subtilis
 
@@ -622,6 +621,163 @@ S/E 0.4%.
 Compute the amount of each ingredient required for the batch.
 ````
 
+## 2014-15 · Re-Exam · Sem 8 · paper 65f8af9bb6e3
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/VIII SEMESTER/FOOD PROCESSING/Food Processing Batch 2013-14 Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 16/04/2015
+- Text: ocr (3 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Chemical) Year: IV Semester: VII
+
+Academic Year: 2014-15
+Batch: 2013-14
+
+Subject: Food Processing At eee
+Ry
+
+Marks: 100 MPSTMB Ne
+Date: 16/04/2015 Time: 2.00 py Boos BRARY 1g .
+
+Durations: 3 (i
+
+Re-Examination oe ae “i
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1. Write short notes on (Any 4) 20
+
+1. Gelatinization of starch
+
+2. Classification of Cheese
+
+3. Application of enzyme in breadmaking
+4. Blanching
+
+5. Peeling
+
+Q.2. Give manufacturing process with flow diagram (Any 1) 20
+
+1. Milk Chocolate
+2. Bread
+
+Q.3. (A) Answer in brief (Any 5) . 15
+
+1. Mention 3 factors which influence the time required to sterilise foods.
+2. Mention 3 kinds of equipments used for dry cleaning of foods.
+-_ 3. Mention 2 mixers used for powders.
+4. What is retrogradation of starch?
+5. What is essential amino acid? Give one example.
+6. What is autoxidation? Mention 2 factors which increase the rate of
+autoxidation.
+
+| 4/s |
+RT
+--- page 2 ---
+Q.3. (B) Write the structure of following
+
+1. Galactose
+
+2
+2. Lactose 2
+3. Stearic acid 1
+
+Q.4. Mention the class of additive & name the compound used 20
+
+1. To preserve spices
+
+2. To prevent rancidity in fried snack
+
+- To prevent separation of emulsion after it is formed
+4. To prepare low calorie soft drink concentrate
+
+5. To keep bread moist
+
+6. To improve color of wheat flour
+
+- To impart sourness to grape flavoured drink
+
+8. To prevent lumping of soup mix
+
+9. To extend shelf life of jam
+
+10. To bind metal iron
+
+Q.5 (A) Discuss the following defects with refer
+
+ence to their cause and
+remedy.
+
+10
+1. Foxy bread
+2. Fat bloom in chocolate
+3. Messy ice cream
+4. Blind swiss cheese
+
+Q.5. (B) For the following enzymes,
+
+give the name of the substrate and their
+application in foods.
+
+10
+1. Amylase
+
+2. Rennin
+--- page 3 ---
+Q.6. Draw the diagram ( Any 4) 20
+
+1. Rotary knife cutter
+2. Hammer mill
+
+3. 3 propellar mixers
+4. Concher
+
+5. Spray dryer
+
+Q.7 Match the Columns 20
+
+Column A Column B Column C
+
+1 Dutching a) Heat i) Helps antioxidants
+
+2 Dry cleaning b) Increased dispersibility | ii) Coagulation
+
+3 Compression c) Air classifier iii) Solution of alkali
+
+4 Synergist d) Few fines iv) Air Stream
+
+5 Denaturation e) EDTA v) Jaw crusher
+
+6 Ascorbic acid f) Inhibits crystalisation | vi) Doctor
+
+7 Imbibed water g) Vit. Cc vii) Lecithin
+
+8 W/O emulsion h) Gel viii) Yellowish colour
+
+9 Cow’s milk i) Low HLB emulsifier ix) Citrus fruit
+
+10 Liquid glucose j) Low fat x) Jam
+````
+
 ## 2013-14 · Final-Exam · Sem 8 · paper fe4bd6fc3e55
 
 - Departments: Chemical
@@ -777,163 +933,6 @@ nA
 2
 
 Ys
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper 65f8af9bb6e3
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/VIII SEMESTER/FOOD PROCESSING/Food Processing Batch 2013-14 Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 16/04/2015
-- Text: ocr (3 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Chemical) Year: IV Semester: VII
-
-Academic Year: 2014-15
-Batch: 2013-14
-
-Subject: Food Processing At eee
-Ry
-
-Marks: 100 MPSTMB Ne
-Date: 16/04/2015 Time: 2.00 py Boos BRARY 1g .
-
-Durations: 3 (i
-
-Re-Examination oe ae “i
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1. Write short notes on (Any 4) 20
-
-1. Gelatinization of starch
-
-2. Classification of Cheese
-
-3. Application of enzyme in breadmaking
-4. Blanching
-
-5. Peeling
-
-Q.2. Give manufacturing process with flow diagram (Any 1) 20
-
-1. Milk Chocolate
-2. Bread
-
-Q.3. (A) Answer in brief (Any 5) . 15
-
-1. Mention 3 factors which influence the time required to sterilise foods.
-2. Mention 3 kinds of equipments used for dry cleaning of foods.
--_ 3. Mention 2 mixers used for powders.
-4. What is retrogradation of starch?
-5. What is essential amino acid? Give one example.
-6. What is autoxidation? Mention 2 factors which increase the rate of
-autoxidation.
-
-| 4/s |
-RT
---- page 2 ---
-Q.3. (B) Write the structure of following
-
-1. Galactose
-
-2
-2. Lactose 2
-3. Stearic acid 1
-
-Q.4. Mention the class of additive & name the compound used 20
-
-1. To preserve spices
-
-2. To prevent rancidity in fried snack
-
-- To prevent separation of emulsion after it is formed
-4. To prepare low calorie soft drink concentrate
-
-5. To keep bread moist
-
-6. To improve color of wheat flour
-
-- To impart sourness to grape flavoured drink
-
-8. To prevent lumping of soup mix
-
-9. To extend shelf life of jam
-
-10. To bind metal iron
-
-Q.5 (A) Discuss the following defects with refer
-
-ence to their cause and
-remedy.
-
-10
-1. Foxy bread
-2. Fat bloom in chocolate
-3. Messy ice cream
-4. Blind swiss cheese
-
-Q.5. (B) For the following enzymes,
-
-give the name of the substrate and their
-application in foods.
-
-10
-1. Amylase
-
-2. Rennin
---- page 3 ---
-Q.6. Draw the diagram ( Any 4) 20
-
-1. Rotary knife cutter
-2. Hammer mill
-
-3. 3 propellar mixers
-4. Concher
-
-5. Spray dryer
-
-Q.7 Match the Columns 20
-
-Column A Column B Column C
-
-1 Dutching a) Heat i) Helps antioxidants
-
-2 Dry cleaning b) Increased dispersibility | ii) Coagulation
-
-3 Compression c) Air classifier iii) Solution of alkali
-
-4 Synergist d) Few fines iv) Air Stream
-
-5 Denaturation e) EDTA v) Jaw crusher
-
-6 Ascorbic acid f) Inhibits crystalisation | vi) Doctor
-
-7 Imbibed water g) Vit. Cc vii) Lecithin
-
-8 W/O emulsion h) Gel viii) Yellowish colour
-
-9 Cow’s milk i) Low HLB emulsifier ix) Citrus fruit
-
-10 Liquid glucose j) Low fat x) Jam
 ````
 
 ## 2013-14 · Re-Exam · Sem 8 · paper 44ddebe99d67

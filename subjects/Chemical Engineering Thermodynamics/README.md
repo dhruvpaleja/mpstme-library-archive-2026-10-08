@@ -1,6 +1,6 @@
 # Chemical Engineering Thermodynamics
 
-**23** unique papers (24 copies across programmes) · 2005-06 to 2019-20 · 1 programme · Sem 3, Sem 4, Trim 5
+**22** unique papers (23 copies across programmes) · 2005-06 to 2019-20 · 1 programme · Sem 3, Sem 4, Trim 5
 
 Download only this subject, sorted by academic year:
 
@@ -33,7 +33,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2008-09 | — | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2008-2009(46).pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2008-2009 re exam(22).pdf |
 | 2007-08 | — | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2007-2008(33).pdf |
-| 2007-08 | Re-Exam | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2007-2008 batch re exam(1).pdf |
 | 2006-07 | — | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2006-2007(17).pdf |
 | 2005-06 | — | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2005-2006(20).pdf |
 | — | — | Question paper | Trim 5 | MBA TECH / CHEMICAL | scan0013(9).pdf |

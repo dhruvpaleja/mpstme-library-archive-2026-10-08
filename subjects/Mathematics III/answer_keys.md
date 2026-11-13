@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/MATHEMATICS-III/ANS_MATHEMATICS-III(701BS0C034)_2025-2026.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (15 pages), mean OCR confidence 46.4
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -46,7 +48,6 @@ a lon {7 \ comet Teast
 3 (01 4/
 b) cl efit)
 Zz SH C 1
-( 1. dw =f a? dy — (\Im)
 ity
 log. | Ly = as +C — (om)
 --- page 3 ---
@@ -268,7 +269,6 @@ c Volume of tetrahedron = 5 . (im)
 FICCI QC OAK
 --- page 10 ---
 FE ~tan*x : (tm)
-o uvdy = ulvds — \ [dar Wwds Tan
 
 L
 
@@ -357,7 +357,6 @@ Ap =kP 60.000 = = CPF 400m
 ; ree
 $ (>
 - : d m) a fi maak 40,000
-oT hy Moa P. = EEC ar js 40,00 0
 _ kt * wie 40,000
 peel ale ES OF (lm) (2) (tro)
 "ee ia 40,000 t=6 = 4X4o0000
@@ -378,9 +377,7 @@ Plpy= 3) = | (2m )
 
 5] 20
 
-FE AA AO CIC 7 A Cok ok ok ak
 --- page 13 ---
-Cb) C | dx Lt= aw a
 
 / fe — {
 Ax (2m):
@@ -423,7 +420,6 @@ Bani) = few Lets - I= Fe
 
 “| P{AAB/ = P(A) — p(n)
 —| =I ¢@ i. @ - I
-oe] q — oo i: a)
 — | P(A‘ue)= Pl (ane)’)
 meet 7
 __ =__ I= P(anB)
@@ -468,7 +464,6 @@ od ee eee ** (im)
 4k) a
 0 (z=1) +7(ya)"=7fz=2)=0 :
 Or+7y-79 -0-7+414 =o
-Zu NM >, cs a A
 
 7W -72=-7 ‘
 
@@ -487,1861 +482,15 @@ Vo 3 =s
 FOR AOR OR RR 7 RR RK
 ````
 
-## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 9627faf54edd
-
-- Departments: Computer Engineering
-- Programmes: DIPLOMA IN COMPUTER ENGINEERING - 7073
-- Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/MATHEMATICS-III/ANS_MATHEMATICS-III(701BS0C034)_2025-2026.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
-- Text: mixed (16 pages), mean OCR confidence 44.8
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
-Year: II/Sem 3 Re-exam(Exam Year: 2025-2026)
-Subject: MATHEMATICS-III
-Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 16 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure on the right hand side indicates full marks.
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-9. Only Basic Calculator is allowed.
-********** 1 **********
---- page 2 ---
-FIC 2 I HH ar
---- page 3 ---
-‘ 4 secie — ton'n dot
-~~ Ya 14
-2 begh - (yee = 1, a
-wee we)
-whe [de = 1% — {lm)
-) My
-~ Wy
-
-— (Um)
-Bl ax — ty?
-at \)4+ye
-hae ds ge At = en)
-Tae dy = Std
-ton fp ston Pa) Coy
-b)| u= Ji¢ge
-
-ron
-"Y a. fx _=_%_ = Ws
-x* fia —/f
-RHS = iP = “iat fey
-[ree [+%2 — (Im)
-——%__= RNS -
---- page 4 ---
-vo ” 2
-Lam tn’ = (len)
-tel +k =l
-> 4
-b= f[— } =]
-aa q (Imo)
-~- toe lt
-2 4
-ko = |
-4 ;
-=] (Im)
-2
-
-d)
-[S23 hw HTL HI2, HT3 HT4, Hes HT
-
-“TH, TIL T1213, TT4, Ts,
-
-Tre 4: (3m)
-
-/
-ok AR AK RK
-
-FR CK
---- page 5 ---
-Lea (i-)y + Si” = 0
-aT = -
-1 Ci'+3i) x + (i yt
-
--_— {m
-(41 +3i)x + ty -y +3) = o fim)
-Ec tai cu V_ Sie 0
-
-(&% <a SUL Vguty-3) =
-= ( 7 a
-
-a =O Btsy=s =O
-
-xu 3u+ -S =O
-42a-S=o6
-
-a= 5 (im)
-4
-yes. (im):
-4
-Le eoe a
-=| sec y =| dx (2m)
-
-= § fanz — xX + C: (2m):
---- page 6 ---
-a= cos (x3) ) Minx)? dx
-
-| hick ai in =
-
-“i | Cos x3 : ree = a
-
-aa | dx
-
-~ w Cosa? x Av = at (2m)
-jo)
-
-3 - dt
-
-| oe kan dt 2m)
-a 3 S \ ;
-a - | |t a rex Ext +
-yo 3 Wo 3: 4 >
-= 2 (sinw)” +c:
-, oF (2m)
-b) | dy = x +3xyty*
-j Put eve.
-— | dyWe var dv (lm) «
-. irs ax
-1 ver dv = x+ 3x(vz) +vx*
-4 dx % *
-lv+ weedy = I+ 3BVvtV
-4 ax
-“Bi ecdv 2 [+ 2v+v~
-- Ax
-
-+S to dv =C 1 de (9m)
-2 V +2v+l EZ
-
-7
-
-FEC 6 FC IG Ir
---- page 7 ---
-Cae CL Be
-
-) (v4) Le
-— | = [log |x| +c’
-V+) t (2n)-—-——
-ee | = loa |x} +f.
-(4a)
-— :
-pt % = (i+ 2 rak)
-My = 2: -%: +k
-inp =, + 4e “2k: (4m) -
-m= Mx mz
-s Lb rf k..
-2-3 | (=i 45-ape
-| =e : (Om)
-Vecloy _@quachon \, .
-n= A+ Ame (1m)
-
-mitt Zk =(P+op+3k A fots-sieity)
-
-K-[ = y=2 = a2
-2 V5 — Choy)
-
-Cartesian en ‘
-N
-
-FR RK
---- page 8 ---
-[pat =f Tar > OS b+ 24 TIS
-ae: TAP =i = 3 tok d= 4, —pr2k
-
-| Swenrres aS <
-= la! 1 +30 (Im
-| =a a =| 2.
-Dy | ldleJe +4
-B | =v, = =6i = 2j +R (Im)
-~ [d= vaera+i2) = viel = 164
-Vor V21 3 (im)
-Q3)
-Hala(iu), B22), (95), Dlo2 6)
-AB = —3t +3) + 2k: . : fy)
-= 30-3) +k 7
-Apxcp = |i ; k
--3 3 2
-3-3 |
-| = Bi PR ok (2r0)
-—_| Unit vec of AB xepD = 4:+9;40k
-= ne
-(2m?
-—| Verb y of = = 4/% +4; ‘+0k |
-— ay,
-
-=—o<_ Cam =
---- page 9 ---
-2h)
-aK
-
-r
-
-\ Ba! Tet dx.
-
-Pub x5 4p at
-Ga! = ct — (Im)
-cle
-Whin, e=—-)   £=O0°
-eee | pee (1m)
-2. 2
-(edt = (tedt (Cm)
-) )
-1°) ° 4.
-= LE (in)
-| 3/r d oe
-= 2.% 2J5 -
-3 | ; ,
-= We (im)
---- page 10 ---
-3c) ( % da —
-2 (x) (x)
-x - A +Betec (Im)
-
-(eNeH) x1 x4!
-
-w= A(x) + Best) (Bato) lc)
-Y old | =) A = Yo
-x, =>) Ba ¥ w= C= tr
-k= =] 33 B = (3m)
-Ce Vox + Y2 dy (Im)
-
-7 tA aH TH
-= | log |ae-1| —1 xt] [x?H1] +1 tan’ (x)
-
-ze !f@e me.
-= J log |x-1] axl log [2+ +1 tar’ (x) F<.
-= 0 as 2 (3m):
-
-4a) A(ii1) Bf2,),3) C (32,2) D/3,3.4)
-
-AB =i +0, +2k ;
-Ae = 21 +) +k ( (om)
-Ab = 2i +9) +3k “
-
-Ag :(AcxAD)=[1 0 2
-
-2 | | (2 yn)
-2 2 3
-= 1(1)-o +2(q-2)
-= of RI)
-
-——_——_—F;
-
-= 5 (om)
-
-FOR 7 (RR KE
---- page 11 ---
-| —__—
-
-—— ( ¢*. p= 4
-
-aw “
-
-- | 2x fe de = Cd (x?) fede dx
-)\ax (2m)
-
-=a mz = De 2 | da
-— x {2n)
-ep Bt de, pt Ce de G
-a ff 2 3 z
-
-" ms e Zu — x-e%% rs e 2% +C .
-iu 2 Du: a (2rn)*
-7 ae
-2 25-x* me \ Ex
-
-= [25=x* (Im) as eae
-n |
-Area =A f 25-1" dy
-
-aeix
-' 0
-— af x Ose + 25 sin /x\ |
-Pease 5 2 {$7 -|:
-lo 4le 4 28th = 0) Gums
-ra | \ a ee 7
-—e = 257 x¥ : (im)
-
-1 #
-
-DR ROR RK 11 FRR HR RK
---- page 12 ---
-Sa)| zs Si + 3+T
-2ti 2-7
-
-z=:(3+i)(2- aie (sti) Gr)
-
-—____|z= ¢- erie paar ete
-
-5 (2n) -
-z= 10
-5
-Z= 940i (2m)
-
-Modulus = |zl|= J2+0~= 2 (\m)
-
-Amalitude = -tan' fo) = 0° " (lm)
-
-L2/
-
-b) | n(o}=*2C, = 1826 - Tim) «
-
-i) Both black carels
-
-n(A)= 7c, = 325
-
-P(Black) = @n(A) = 325° = 25 (om
-
-n(s) IS>26 0 ~ joa
-
-i) n(B) = ?c, x 39C, = 507
-
-P(B) = 507 = 164
-
-132-6 Tas. Can)
-
-i) n(c) = °C, X4 = 3)2 .
-
-P(c).= 312 229 24 7
-(aay Fy
-
-FOR ORR 7 ROR RK
---- page 13 ---
-edt be the mass 6 substance acl -timet
-
-PL aM at oa Cm) Wheat = lo, Me 100
-— a loo = ee”? 200
-—" a =
--_ am ="kmM e | (oi)
-- lo M= = hx ee ann
-M=¢- ro, _(Im) =(e*)*: 200
-~ | ohen = 0, M=200 i a
-200 = C, (\m)
-— J cis z qr
-— {ty ne
-‘pal _ESvATION ;
-n(o)= z| (An) 5 vow
-i) All Fonda -Logethn
-n(A)= 4 41 x51 = (im)
-P(AY= Alxs) = | (2m)
-
-2) I4
-
-ii) Stas: woth, Sata ke end voilh
-—|   (ensenadt
-
-n(p) = Bxax él _* (im)
-| p(B) = IGX6) = 1 (im)
-— 8] . ee |
-
-DR ROR RK 13 RRR RE
---- page 14 ---
-— 6b) iy ae
-Cos 2 (05 21"
-
-ite Br + (0%
-
-= Vie (Les 3x: (er dn + Ces’ CesB% dy) en
-
-=VCY, (cas6x + tes0)+- Ip (car + 2x) 2
-
-19,,)
-sede
-
-= LC pesGx + 1 + Las 4% + 8s 24 ly
-4)
-- |]Ajnév +x + Ain 4x + Sin2e | +C-
-
-- 4 6 a a
-
-"4
-
-Ec) |= cosxtisinn b= & isin
-ab = uss (xt) + PSI (oMep)
-ab 3 faby!l* = 8 Por +}sin zy) (im)
-
-L247 Ne
-—_ ces fae) Fe pt sin [x tu)
-Jab ( 2) L 2)
-
-Qa yi
-
-as (Lesa-tisinx) (cay sing)
-
-5
-
-a z ca (a4) + _Tsin G4) (1mm)
-a C0s/%- 7
-
-fa) =p =) "= 1siofe-g)
-
-[b\ = [x-y) ~
-(ay af3 isin fou)
-> for |b) = Qca/e-
-
-Ye. Ne fsa) Gay
-
-FR 7 (RR KE
---- page 15 ---
-Hy) P(H) = 0-6 p(6)= 0:4   P(Hae)=0'2
-
-P(H' ae’) = P(e!) = I~ P (HUE)
-
-| (H AE”
-
-= ~ |-[PCH PtH) +A) p(Hae)]
-r— | = J|-o8 ‘o'*2. (2)
-—_[i) p(E/H)= P(enH)- 0-2 = I
-
-r P(@an) 0-6 2 (2m)
-
-ny P(HJe)= PURME = 0-2 = 1 (om)
-P(E#) 0’4 2.
-
-b) (Sre6i") + (s7405) + fini -
-
-(s+6(* ri) (8¢1) +()*i ) +(-1- 1)
-
-(2m)
-
-(5+ (-¢3)) +(-8i + i) + (-2)
-
-(2m)
-
-= 54-6 — Sith 2
-
-= 3 —(3/ (2m)
-
-DR ROR RK 15 FRR
---- page 16 ---
-Ic) lia = 3i = j 2k
-
-n= axe
-
-Se Re BS)
-2 ~s -I
--s 4 0
-2 Aj +5y ~~ (2m)
-nN: (x - a) = =O — (iz ‘
-Ai +5{ 17k) * (xityl tk = (Gi-[ +o
-4(x-3) +5(y4i)—\7(z-2) ~0
-Lx £5) - Po. - oF =o (im)
-i) de [axe + buy +czotd
-: Jot rer ny
-d= © +06 +0 -— 6
-JTEG +16 (im)
-
-d=} ¢ | =¢
-26 | Inf - (Im)
-
-DR ROR RK 1G FRR HHH
-````
-
-## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 27f7e30d5e08
-
-- Departments: Computer Science
-- Programmes: DIPLOMA IN COMPUTER SCIENCE AND ENGINEE
-- Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/MATHEMATICS-III/ANS_MATHEMATICS-III(701BS0C034)_2025-2026.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
-- Text: mixed (16 pages), mean OCR confidence 44.8
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
-Year: II/Sem 3 Re-exam(Exam Year: 2025-2026)
-Subject: MATHEMATICS-III
-Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 16 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure on the right hand side indicates full marks.
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-9. Only Basic Calculator is allowed.
-********** 1 **********
---- page 2 ---
-FIC 2 I HH ar
---- page 3 ---
-‘ 4 secie — ton'n dot
-~~ Ya 14
-2 begh - (yee = 1, a
-wee we)
-whe [de = 1% — {lm)
-) My
-~ Wy
-
-— (Um)
-Bl ax — ty?
-at \)4+ye
-hae ds ge At = en)
-Tae dy = Std
-ton fp ston Pa) Coy
-b)| u= Ji¢ge
-
-ron
-"Y a. fx _=_%_ = Ws
-x* fia —/f
-RHS = iP = “iat fey
-[ree [+%2 — (Im)
-——%__= RNS -
---- page 4 ---
-vo ” 2
-Lam tn’ = (len)
-tel +k =l
-> 4
-b= f[— } =]
-aa q (Imo)
-~- toe lt
-2 4
-ko = |
-4 ;
-=] (Im)
-2
-
-d)
-[S23 hw HTL HI2, HT3 HT4, Hes HT
-
-“TH, TIL T1213, TT4, Ts,
-
-Tre 4: (3m)
-
-/
-ok AR AK RK
-
-FR CK
---- page 5 ---
-Lea (i-)y + Si” = 0
-aT = -
-1 Ci'+3i) x + (i yt
-
--_— {m
-(41 +3i)x + ty -y +3) = o fim)
-Ec tai cu V_ Sie 0
-
-(&% <a SUL Vguty-3) =
-= ( 7 a
-
-a =O Btsy=s =O
-
-xu 3u+ -S =O
-42a-S=o6
-
-a= 5 (im)
-4
-yes. (im):
-4
-Le eoe a
-=| sec y =| dx (2m)
-
-= § fanz — xX + C: (2m):
---- page 6 ---
-a= cos (x3) ) Minx)? dx
-
-| hick ai in =
-
-“i | Cos x3 : ree = a
-
-aa | dx
-
-~ w Cosa? x Av = at (2m)
-jo)
-
-3 - dt
-
-| oe kan dt 2m)
-a 3 S \ ;
-a - | |t a rex Ext +
-yo 3 Wo 3: 4 >
-= 2 (sinw)” +c:
-, oF (2m)
-b) | dy = x +3xyty*
-j Put eve.
-— | dyWe var dv (lm) «
-. irs ax
-1 ver dv = x+ 3x(vz) +vx*
-4 dx % *
-lv+ weedy = I+ 3BVvtV
-4 ax
-“Bi ecdv 2 [+ 2v+v~
-- Ax
-
-+S to dv =C 1 de (9m)
-2 V +2v+l EZ
-
-7
-
-FEC 6 FC IG Ir
---- page 7 ---
-Cae CL Be
-
-) (v4) Le
-— | = [log |x| +c’
-V+) t (2n)-—-——
-ee | = loa |x} +f.
-(4a)
-— :
-pt % = (i+ 2 rak)
-My = 2: -%: +k
-inp =, + 4e “2k: (4m) -
-m= Mx mz
-s Lb rf k..
-2-3 | (=i 45-ape
-| =e : (Om)
-Vecloy _@quachon \, .
-n= A+ Ame (1m)
-
-mitt Zk =(P+op+3k A fots-sieity)
-
-K-[ = y=2 = a2
-2 V5 — Choy)
-
-Cartesian en ‘
-N
-
-FR RK
---- page 8 ---
-[pat =f Tar > OS b+ 24 TIS
-ae: TAP =i = 3 tok d= 4, —pr2k
-
-| Swenrres aS <
-= la! 1 +30 (Im
-| =a a =| 2.
-Dy | ldleJe +4
-B | =v, = =6i = 2j +R (Im)
-~ [d= vaera+i2) = viel = 164
-Vor V21 3 (im)
-Q3)
-Hala(iu), B22), (95), Dlo2 6)
-AB = —3t +3) + 2k: . : fy)
-= 30-3) +k 7
-Apxcp = |i ; k
--3 3 2
-3-3 |
-| = Bi PR ok (2r0)
-—_| Unit vec of AB xepD = 4:+9;40k
-= ne
-(2m?
-—| Verb y of = = 4/% +4; ‘+0k |
-— ay,
-
-=—o<_ Cam =
---- page 9 ---
-2h)
-aK
-
-r
-
-\ Ba! Tet dx.
-
-Pub x5 4p at
-Ga! = ct — (Im)
-cle
-Whin, e=—-)   £=O0°
-eee | pee (1m)
-2. 2
-(edt = (tedt (Cm)
-) )
-1°) ° 4.
-= LE (in)
-| 3/r d oe
-= 2.% 2J5 -
-3 | ; ,
-= We (im)
---- page 10 ---
-3c) ( % da —
-2 (x) (x)
-x - A +Betec (Im)
-
-(eNeH) x1 x4!
-
-w= A(x) + Best) (Bato) lc)
-Y old | =) A = Yo
-x, =>) Ba ¥ w= C= tr
-k= =] 33 B = (3m)
-Ce Vox + Y2 dy (Im)
-
-7 tA aH TH
-= | log |ae-1| —1 xt] [x?H1] +1 tan’ (x)
-
-ze !f@e me.
-= J log |x-1] axl log [2+ +1 tar’ (x) F<.
-= 0 as 2 (3m):
-
-4a) A(ii1) Bf2,),3) C (32,2) D/3,3.4)
-
-AB =i +0, +2k ;
-Ae = 21 +) +k ( (om)
-Ab = 2i +9) +3k “
-
-Ag :(AcxAD)=[1 0 2
-
-2 | | (2 yn)
-2 2 3
-= 1(1)-o +2(q-2)
-= of RI)
-
-——_——_—F;
-
-= 5 (om)
-
-FOR 7 (RR KE
---- page 11 ---
-| —__—
-
-—— ( ¢*. p= 4
-
-aw “
-
-- | 2x fe de = Cd (x?) fede dx
-)\ax (2m)
-
-=a mz = De 2 | da
-— x {2n)
-ep Bt de, pt Ce de G
-a ff 2 3 z
-
-" ms e Zu — x-e%% rs e 2% +C .
-iu 2 Du: a (2rn)*
-7 ae
-2 25-x* me \ Ex
-
-= [25=x* (Im) as eae
-n |
-Area =A f 25-1" dy
-
-aeix
-' 0
-— af x Ose + 25 sin /x\ |
-Pease 5 2 {$7 -|:
-lo 4le 4 28th = 0) Gums
-ra | \ a ee 7
-—e = 257 x¥ : (im)
-
-1 #
-
-DR ROR RK 11 FRR HR RK
---- page 12 ---
-Sa)| zs Si + 3+T
-2ti 2-7
-
-z=:(3+i)(2- aie (sti) Gr)
-
-—____|z= ¢- erie paar ete
-
-5 (2n) -
-z= 10
-5
-Z= 940i (2m)
-
-Modulus = |zl|= J2+0~= 2 (\m)
-
-Amalitude = -tan' fo) = 0° " (lm)
-
-L2/
-
-b) | n(o}=*2C, = 1826 - Tim) «
-
-i) Both black carels
-
-n(A)= 7c, = 325
-
-P(Black) = @n(A) = 325° = 25 (om
-
-n(s) IS>26 0 ~ joa
-
-i) n(B) = ?c, x 39C, = 507
-
-P(B) = 507 = 164
-
-132-6 Tas. Can)
-
-i) n(c) = °C, X4 = 3)2 .
-
-P(c).= 312 229 24 7
-(aay Fy
-
-FOR ORR 7 ROR RK
---- page 13 ---
-edt be the mass 6 substance acl -timet
-
-PL aM at oa Cm) Wheat = lo, Me 100
-— a loo = ee”? 200
-—" a =
--_ am ="kmM e | (oi)
-- lo M= = hx ee ann
-M=¢- ro, _(Im) =(e*)*: 200
-~ | ohen = 0, M=200 i a
-200 = C, (\m)
-— J cis z qr
-— {ty ne
-‘pal _ESvATION ;
-n(o)= z| (An) 5 vow
-i) All Fonda -Logethn
-n(A)= 4 41 x51 = (im)
-P(AY= Alxs) = | (2m)
-
-2) I4
-
-ii) Stas: woth, Sata ke end voilh
-—|   (ensenadt
-
-n(p) = Bxax él _* (im)
-| p(B) = IGX6) = 1 (im)
-— 8] . ee |
-
-DR ROR RK 13 RRR RE
---- page 14 ---
-— 6b) iy ae
-Cos 2 (05 21"
-
-ite Br + (0%
-
-= Vie (Les 3x: (er dn + Ces’ CesB% dy) en
-
-=VCY, (cas6x + tes0)+- Ip (car + 2x) 2
-
-19,,)
-sede
-
-= LC pesGx + 1 + Las 4% + 8s 24 ly
-4)
-- |]Ajnév +x + Ain 4x + Sin2e | +C-
-
-- 4 6 a a
-
-"4
-
-Ec) |= cosxtisinn b= & isin
-ab = uss (xt) + PSI (oMep)
-ab 3 faby!l* = 8 Por +}sin zy) (im)
-
-L247 Ne
-—_ ces fae) Fe pt sin [x tu)
-Jab ( 2) L 2)
-
-Qa yi
-
-as (Lesa-tisinx) (cay sing)
-
-5
-
-a z ca (a4) + _Tsin G4) (1mm)
-a C0s/%- 7
-
-fa) =p =) "= 1siofe-g)
-
-[b\ = [x-y) ~
-(ay af3 isin fou)
-> for |b) = Qca/e-
-
-Ye. Ne fsa) Gay
-
-FR 7 (RR KE
---- page 15 ---
-Hy) P(H) = 0-6 p(6)= 0:4   P(Hae)=0'2
-
-P(H' ae’) = P(e!) = I~ P (HUE)
-
-| (H AE”
-
-= ~ |-[PCH PtH) +A) p(Hae)]
-r— | = J|-o8 ‘o'*2. (2)
-—_[i) p(E/H)= P(enH)- 0-2 = I
-
-r P(@an) 0-6 2 (2m)
-
-ny P(HJe)= PURME = 0-2 = 1 (om)
-P(E#) 0’4 2.
-
-b) (Sre6i") + (s7405) + fini -
-
-(s+6(* ri) (8¢1) +()*i ) +(-1- 1)
-
-(2m)
-
-(5+ (-¢3)) +(-8i + i) + (-2)
-
-(2m)
-
-= 54-6 — Sith 2
-
-= 3 —(3/ (2m)
-
-DR ROR RK 15 FRR
---- page 16 ---
-Ic) lia = 3i = j 2k
-
-n= axe
-
-Se Re BS)
-2 ~s -I
--s 4 0
-2 Aj +5y ~~ (2m)
-nN: (x - a) = =O — (iz ‘
-Ai +5{ 17k) * (xityl tk = (Gi-[ +o
-4(x-3) +5(y4i)—\7(z-2) ~0
-Lx £5) - Po. - oF =o (im)
-i) de [axe + buy +czotd
-: Jot rer ny
-d= © +06 +0 -— 6
-JTEG +16 (im)
-
-d=} ¢ | =¢
-26 | Inf - (Im)
-
-DR ROR RK 1G FRR HHH
-````
-
-## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 2d09608260b9
-
-- Departments: Information Technology
-- Programmes: DIPLOMA IN INFORMATION TECHNOLOGY - 7075
-- Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/MATHEMATICS-III/ANS_MATHEMATICS-III(701BS0C034)_2025-2026.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
-- Text: mixed (16 pages), mean OCR confidence 44.8
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
-Year: II/Sem 3 Re-exam(Exam Year: 2025-2026)
-Subject: MATHEMATICS-III
-Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 16 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure on the right hand side indicates full marks.
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-9. Only Basic Calculator is allowed.
-********** 1 **********
---- page 2 ---
-FIC 2 I HH ar
---- page 3 ---
-‘ 4 secie — ton'n dot
-~~ Ya 14
-2 begh - (yee = 1, a
-wee we)
-whe [de = 1% — {lm)
-) My
-~ Wy
-
-— (Um)
-Bl ax — ty?
-at \)4+ye
-hae ds ge At = en)
-Tae dy = Std
-ton fp ston Pa) Coy
-b)| u= Ji¢ge
-
-ron
-"Y a. fx _=_%_ = Ws
-x* fia —/f
-RHS = iP = “iat fey
-[ree [+%2 — (Im)
-——%__= RNS -
---- page 4 ---
-vo ” 2
-Lam tn’ = (len)
-tel +k =l
-> 4
-b= f[— } =]
-aa q (Imo)
-~- toe lt
-2 4
-ko = |
-4 ;
-=] (Im)
-2
-
-d)
-[S23 hw HTL HI2, HT3 HT4, Hes HT
-
-“TH, TIL T1213, TT4, Ts,
-
-Tre 4: (3m)
-
-/
-ok AR AK RK
-
-FR CK
---- page 5 ---
-Lea (i-)y + Si” = 0
-aT = -
-1 Ci'+3i) x + (i yt
-
--_— {m
-(41 +3i)x + ty -y +3) = o fim)
-Ec tai cu V_ Sie 0
-
-(&% <a SUL Vguty-3) =
-= ( 7 a
-
-a =O Btsy=s =O
-
-xu 3u+ -S =O
-42a-S=o6
-
-a= 5 (im)
-4
-yes. (im):
-4
-Le eoe a
-=| sec y =| dx (2m)
-
-= § fanz — xX + C: (2m):
---- page 6 ---
-a= cos (x3) ) Minx)? dx
-
-| hick ai in =
-
-“i | Cos x3 : ree = a
-
-aa | dx
-
-~ w Cosa? x Av = at (2m)
-jo)
-
-3 - dt
-
-| oe kan dt 2m)
-a 3 S \ ;
-a - | |t a rex Ext +
-yo 3 Wo 3: 4 >
-= 2 (sinw)” +c:
-, oF (2m)
-b) | dy = x +3xyty*
-j Put eve.
-— | dyWe var dv (lm) «
-. irs ax
-1 ver dv = x+ 3x(vz) +vx*
-4 dx % *
-lv+ weedy = I+ 3BVvtV
-4 ax
-“Bi ecdv 2 [+ 2v+v~
-- Ax
-
-+S to dv =C 1 de (9m)
-2 V +2v+l EZ
-
-7
-
-FEC 6 FC IG Ir
---- page 7 ---
-Cae CL Be
-
-) (v4) Le
-— | = [log |x| +c’
-V+) t (2n)-—-——
-ee | = loa |x} +f.
-(4a)
-— :
-pt % = (i+ 2 rak)
-My = 2: -%: +k
-inp =, + 4e “2k: (4m) -
-m= Mx mz
-s Lb rf k..
-2-3 | (=i 45-ape
-| =e : (Om)
-Vecloy _@quachon \, .
-n= A+ Ame (1m)
-
-mitt Zk =(P+op+3k A fots-sieity)
-
-K-[ = y=2 = a2
-2 V5 — Choy)
-
-Cartesian en ‘
-N
-
-FR RK
---- page 8 ---
-[pat =f Tar > OS b+ 24 TIS
-ae: TAP =i = 3 tok d= 4, —pr2k
-
-| Swenrres aS <
-= la! 1 +30 (Im
-| =a a =| 2.
-Dy | ldleJe +4
-B | =v, = =6i = 2j +R (Im)
-~ [d= vaera+i2) = viel = 164
-Vor V21 3 (im)
-Q3)
-Hala(iu), B22), (95), Dlo2 6)
-AB = —3t +3) + 2k: . : fy)
-= 30-3) +k 7
-Apxcp = |i ; k
--3 3 2
-3-3 |
-| = Bi PR ok (2r0)
-—_| Unit vec of AB xepD = 4:+9;40k
-= ne
-(2m?
-—| Verb y of = = 4/% +4; ‘+0k |
-— ay,
-
-=—o<_ Cam =
---- page 9 ---
-2h)
-aK
-
-r
-
-\ Ba! Tet dx.
-
-Pub x5 4p at
-Ga! = ct — (Im)
-cle
-Whin, e=—-)   £=O0°
-eee | pee (1m)
-2. 2
-(edt = (tedt (Cm)
-) )
-1°) ° 4.
-= LE (in)
-| 3/r d oe
-= 2.% 2J5 -
-3 | ; ,
-= We (im)
---- page 10 ---
-3c) ( % da —
-2 (x) (x)
-x - A +Betec (Im)
-
-(eNeH) x1 x4!
-
-w= A(x) + Best) (Bato) lc)
-Y old | =) A = Yo
-x, =>) Ba ¥ w= C= tr
-k= =] 33 B = (3m)
-Ce Vox + Y2 dy (Im)
-
-7 tA aH TH
-= | log |ae-1| —1 xt] [x?H1] +1 tan’ (x)
-
-ze !f@e me.
-= J log |x-1] axl log [2+ +1 tar’ (x) F<.
-= 0 as 2 (3m):
-
-4a) A(ii1) Bf2,),3) C (32,2) D/3,3.4)
-
-AB =i +0, +2k ;
-Ae = 21 +) +k ( (om)
-Ab = 2i +9) +3k “
-
-Ag :(AcxAD)=[1 0 2
-
-2 | | (2 yn)
-2 2 3
-= 1(1)-o +2(q-2)
-= of RI)
-
-——_——_—F;
-
-= 5 (om)
-
-FOR 7 (RR KE
---- page 11 ---
-| —__—
-
-—— ( ¢*. p= 4
-
-aw “
-
-- | 2x fe de = Cd (x?) fede dx
-)\ax (2m)
-
-=a mz = De 2 | da
-— x {2n)
-ep Bt de, pt Ce de G
-a ff 2 3 z
-
-" ms e Zu — x-e%% rs e 2% +C .
-iu 2 Du: a (2rn)*
-7 ae
-2 25-x* me \ Ex
-
-= [25=x* (Im) as eae
-n |
-Area =A f 25-1" dy
-
-aeix
-' 0
-— af x Ose + 25 sin /x\ |
-Pease 5 2 {$7 -|:
-lo 4le 4 28th = 0) Gums
-ra | \ a ee 7
-—e = 257 x¥ : (im)
-
-1 #
-
-DR ROR RK 11 FRR HR RK
---- page 12 ---
-Sa)| zs Si + 3+T
-2ti 2-7
-
-z=:(3+i)(2- aie (sti) Gr)
-
-—____|z= ¢- erie paar ete
-
-5 (2n) -
-z= 10
-5
-Z= 940i (2m)
-
-Modulus = |zl|= J2+0~= 2 (\m)
-
-Amalitude = -tan' fo) = 0° " (lm)
-
-L2/
-
-b) | n(o}=*2C, = 1826 - Tim) «
-
-i) Both black carels
-
-n(A)= 7c, = 325
-
-P(Black) = @n(A) = 325° = 25 (om
-
-n(s) IS>26 0 ~ joa
-
-i) n(B) = ?c, x 39C, = 507
-
-P(B) = 507 = 164
-
-132-6 Tas. Can)
-
-i) n(c) = °C, X4 = 3)2 .
-
-P(c).= 312 229 24 7
-(aay Fy
-
-FOR ORR 7 ROR RK
---- page 13 ---
-edt be the mass 6 substance acl -timet
-
-PL aM at oa Cm) Wheat = lo, Me 100
-— a loo = ee”? 200
-—" a =
--_ am ="kmM e | (oi)
-- lo M= = hx ee ann
-M=¢- ro, _(Im) =(e*)*: 200
-~ | ohen = 0, M=200 i a
-200 = C, (\m)
-— J cis z qr
-— {ty ne
-‘pal _ESvATION ;
-n(o)= z| (An) 5 vow
-i) All Fonda -Logethn
-n(A)= 4 41 x51 = (im)
-P(AY= Alxs) = | (2m)
-
-2) I4
-
-ii) Stas: woth, Sata ke end voilh
-—|   (ensenadt
-
-n(p) = Bxax él _* (im)
-| p(B) = IGX6) = 1 (im)
-— 8] . ee |
-
-DR ROR RK 13 RRR RE
---- page 14 ---
-— 6b) iy ae
-Cos 2 (05 21"
-
-ite Br + (0%
-
-= Vie (Les 3x: (er dn + Ces’ CesB% dy) en
-
-=VCY, (cas6x + tes0)+- Ip (car + 2x) 2
-
-19,,)
-sede
-
-= LC pesGx + 1 + Las 4% + 8s 24 ly
-4)
-- |]Ajnév +x + Ain 4x + Sin2e | +C-
-
-- 4 6 a a
-
-"4
-
-Ec) |= cosxtisinn b= & isin
-ab = uss (xt) + PSI (oMep)
-ab 3 faby!l* = 8 Por +}sin zy) (im)
-
-L247 Ne
-—_ ces fae) Fe pt sin [x tu)
-Jab ( 2) L 2)
-
-Qa yi
-
-as (Lesa-tisinx) (cay sing)
-
-5
-
-a z ca (a4) + _Tsin G4) (1mm)
-a C0s/%- 7
-
-fa) =p =) "= 1siofe-g)
-
-[b\ = [x-y) ~
-(ay af3 isin fou)
-> for |b) = Qca/e-
-
-Ye. Ne fsa) Gay
-
-FR 7 (RR KE
---- page 15 ---
-Hy) P(H) = 0-6 p(6)= 0:4   P(Hae)=0'2
-
-P(H' ae’) = P(e!) = I~ P (HUE)
-
-| (H AE”
-
-= ~ |-[PCH PtH) +A) p(Hae)]
-r— | = J|-o8 ‘o'*2. (2)
-—_[i) p(E/H)= P(enH)- 0-2 = I
-
-r P(@an) 0-6 2 (2m)
-
-ny P(HJe)= PURME = 0-2 = 1 (om)
-P(E#) 0’4 2.
-
-b) (Sre6i") + (s7405) + fini -
-
-(s+6(* ri) (8¢1) +()*i ) +(-1- 1)
-
-(2m)
-
-(5+ (-¢3)) +(-8i + i) + (-2)
-
-(2m)
-
-= 54-6 — Sith 2
-
-= 3 —(3/ (2m)
-
-DR ROR RK 15 FRR
---- page 16 ---
-Ic) lia = 3i = j 2k
-
-n= axe
-
-Se Re BS)
-2 ~s -I
--s 4 0
-2 Aj +5y ~~ (2m)
-nN: (x - a) = =O — (iz ‘
-Ai +5{ 17k) * (xityl tk = (Gi-[ +o
-4(x-3) +5(y4i)—\7(z-2) ~0
-Lx £5) - Po. - oF =o (im)
-i) de [axe + buy +czotd
-: Jot rer ny
-d= © +06 +0 -— 6
-JTEG +16 (im)
-
-d=} ¢ | =¢
-26 | Inf - (Im)
-
-DR ROR RK 1G FRR HHH
-````
-
-## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 2d92968e696f
-
-- Departments: Mechanical
-- Programmes: DIPLOMA IN MECHANICAL ENGINEERING - 7072
-- Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/MATHEMATICS-III/ANS_MATHEMATICS-III(701BS0C034)_2025-2026.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
-- Text: mixed (16 pages), mean OCR confidence 44.8
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
-Year: II/Sem 3 Re-exam(Exam Year: 2025-2026)
-Subject: MATHEMATICS-III
-Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 16 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure on the right hand side indicates full marks.
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-9. Only Basic Calculator is allowed.
-********** 1 **********
---- page 2 ---
-FIC 2 I HH ar
---- page 3 ---
-‘ 4 secie — ton'n dot
-~~ Ya 14
-2 begh - (yee = 1, a
-wee we)
-whe [de = 1% — {lm)
-) My
-~ Wy
-
-— (Um)
-Bl ax — ty?
-at \)4+ye
-hae ds ge At = en)
-Tae dy = Std
-ton fp ston Pa) Coy
-b)| u= Ji¢ge
-
-ron
-"Y a. fx _=_%_ = Ws
-x* fia —/f
-RHS = iP = “iat fey
-[ree [+%2 — (Im)
-——%__= RNS -
---- page 4 ---
-vo ” 2
-Lam tn’ = (len)
-tel +k =l
-> 4
-b= f[— } =]
-aa q (Imo)
-~- toe lt
-2 4
-ko = |
-4 ;
-=] (Im)
-2
-
-d)
-[S23 hw HTL HI2, HT3 HT4, Hes HT
-
-“TH, TIL T1213, TT4, Ts,
-
-Tre 4: (3m)
-
-/
-ok AR AK RK
-
-FR CK
---- page 5 ---
-Lea (i-)y + Si” = 0
-aT = -
-1 Ci'+3i) x + (i yt
-
--_— {m
-(41 +3i)x + ty -y +3) = o fim)
-Ec tai cu V_ Sie 0
-
-(&% <a SUL Vguty-3) =
-= ( 7 a
-
-a =O Btsy=s =O
-
-xu 3u+ -S =O
-42a-S=o6
-
-a= 5 (im)
-4
-yes. (im):
-4
-Le eoe a
-=| sec y =| dx (2m)
-
-= § fanz — xX + C: (2m):
---- page 6 ---
-a= cos (x3) ) Minx)? dx
-
-| hick ai in =
-
-“i | Cos x3 : ree = a
-
-aa | dx
-
-~ w Cosa? x Av = at (2m)
-jo)
-
-3 - dt
-
-| oe kan dt 2m)
-a 3 S \ ;
-a - | |t a rex Ext +
-yo 3 Wo 3: 4 >
-= 2 (sinw)” +c:
-, oF (2m)
-b) | dy = x +3xyty*
-j Put eve.
-— | dyWe var dv (lm) «
-. irs ax
-1 ver dv = x+ 3x(vz) +vx*
-4 dx % *
-lv+ weedy = I+ 3BVvtV
-4 ax
-“Bi ecdv 2 [+ 2v+v~
-- Ax
-
-+S to dv =C 1 de (9m)
-2 V +2v+l EZ
-
-7
-
-FEC 6 FC IG Ir
---- page 7 ---
-Cae CL Be
-
-) (v4) Le
-— | = [log |x| +c’
-V+) t (2n)-—-——
-ee | = loa |x} +f.
-(4a)
-— :
-pt % = (i+ 2 rak)
-My = 2: -%: +k
-inp =, + 4e “2k: (4m) -
-m= Mx mz
-s Lb rf k..
-2-3 | (=i 45-ape
-| =e : (Om)
-Vecloy _@quachon \, .
-n= A+ Ame (1m)
-
-mitt Zk =(P+op+3k A fots-sieity)
-
-K-[ = y=2 = a2
-2 V5 — Choy)
-
-Cartesian en ‘
-N
-
-FR RK
---- page 8 ---
-[pat =f Tar > OS b+ 24 TIS
-ae: TAP =i = 3 tok d= 4, —pr2k
-
-| Swenrres aS <
-= la! 1 +30 (Im
-| =a a =| 2.
-Dy | ldleJe +4
-B | =v, = =6i = 2j +R (Im)
-~ [d= vaera+i2) = viel = 164
-Vor V21 3 (im)
-Q3)
-Hala(iu), B22), (95), Dlo2 6)
-AB = —3t +3) + 2k: . : fy)
-= 30-3) +k 7
-Apxcp = |i ; k
--3 3 2
-3-3 |
-| = Bi PR ok (2r0)
-—_| Unit vec of AB xepD = 4:+9;40k
-= ne
-(2m?
-—| Verb y of = = 4/% +4; ‘+0k |
-— ay,
-
-=—o<_ Cam =
---- page 9 ---
-2h)
-aK
-
-r
-
-\ Ba! Tet dx.
-
-Pub x5 4p at
-Ga! = ct — (Im)
-cle
-Whin, e=—-)   £=O0°
-eee | pee (1m)
-2. 2
-(edt = (tedt (Cm)
-) )
-1°) ° 4.
-= LE (in)
-| 3/r d oe
-= 2.% 2J5 -
-3 | ; ,
-= We (im)
---- page 10 ---
-3c) ( % da —
-2 (x) (x)
-x - A +Betec (Im)
-
-(eNeH) x1 x4!
-
-w= A(x) + Best) (Bato) lc)
-Y old | =) A = Yo
-x, =>) Ba ¥ w= C= tr
-k= =] 33 B = (3m)
-Ce Vox + Y2 dy (Im)
-
-7 tA aH TH
-= | log |ae-1| —1 xt] [x?H1] +1 tan’ (x)
-
-ze !f@e me.
-= J log |x-1] axl log [2+ +1 tar’ (x) F<.
-= 0 as 2 (3m):
-
-4a) A(ii1) Bf2,),3) C (32,2) D/3,3.4)
-
-AB =i +0, +2k ;
-Ae = 21 +) +k ( (om)
-Ab = 2i +9) +3k “
-
-Ag :(AcxAD)=[1 0 2
-
-2 | | (2 yn)
-2 2 3
-= 1(1)-o +2(q-2)
-= of RI)
-
-——_——_—F;
-
-= 5 (om)
-
-FOR 7 (RR KE
---- page 11 ---
-| —__—
-
-—— ( ¢*. p= 4
-
-aw “
-
-- | 2x fe de = Cd (x?) fede dx
-)\ax (2m)
-
-=a mz = De 2 | da
-— x {2n)
-ep Bt de, pt Ce de G
-a ff 2 3 z
-
-" ms e Zu — x-e%% rs e 2% +C .
-iu 2 Du: a (2rn)*
-7 ae
-2 25-x* me \ Ex
-
-= [25=x* (Im) as eae
-n |
-Area =A f 25-1" dy
-
-aeix
-' 0
-— af x Ose + 25 sin /x\ |
-Pease 5 2 {$7 -|:
-lo 4le 4 28th = 0) Gums
-ra | \ a ee 7
-—e = 257 x¥ : (im)
-
-1 #
-
-DR ROR RK 11 FRR HR RK
---- page 12 ---
-Sa)| zs Si + 3+T
-2ti 2-7
-
-z=:(3+i)(2- aie (sti) Gr)
-
-—____|z= ¢- erie paar ete
-
-5 (2n) -
-z= 10
-5
-Z= 940i (2m)
-
-Modulus = |zl|= J2+0~= 2 (\m)
-
-Amalitude = -tan' fo) = 0° " (lm)
-
-L2/
-
-b) | n(o}=*2C, = 1826 - Tim) «
-
-i) Both black carels
-
-n(A)= 7c, = 325
-
-P(Black) = @n(A) = 325° = 25 (om
-
-n(s) IS>26 0 ~ joa
-
-i) n(B) = ?c, x 39C, = 507
-
-P(B) = 507 = 164
-
-132-6 Tas. Can)
-
-i) n(c) = °C, X4 = 3)2 .
-
-P(c).= 312 229 24 7
-(aay Fy
-
-FOR ORR 7 ROR RK
---- page 13 ---
-edt be the mass 6 substance acl -timet
-
-PL aM at oa Cm) Wheat = lo, Me 100
-— a loo = ee”? 200
-—" a =
--_ am ="kmM e | (oi)
-- lo M= = hx ee ann
-M=¢- ro, _(Im) =(e*)*: 200
-~ | ohen = 0, M=200 i a
-200 = C, (\m)
-— J cis z qr
-— {ty ne
-‘pal _ESvATION ;
-n(o)= z| (An) 5 vow
-i) All Fonda -Logethn
-n(A)= 4 41 x51 = (im)
-P(AY= Alxs) = | (2m)
-
-2) I4
-
-ii) Stas: woth, Sata ke end voilh
-—|   (ensenadt
-
-n(p) = Bxax él _* (im)
-| p(B) = IGX6) = 1 (im)
-— 8] . ee |
-
-DR ROR RK 13 RRR RE
---- page 14 ---
-— 6b) iy ae
-Cos 2 (05 21"
-
-ite Br + (0%
-
-= Vie (Les 3x: (er dn + Ces’ CesB% dy) en
-
-=VCY, (cas6x + tes0)+- Ip (car + 2x) 2
-
-19,,)
-sede
-
-= LC pesGx + 1 + Las 4% + 8s 24 ly
-4)
-- |]Ajnév +x + Ain 4x + Sin2e | +C-
-
-- 4 6 a a
-
-"4
-
-Ec) |= cosxtisinn b= & isin
-ab = uss (xt) + PSI (oMep)
-ab 3 faby!l* = 8 Por +}sin zy) (im)
-
-L247 Ne
-—_ ces fae) Fe pt sin [x tu)
-Jab ( 2) L 2)
-
-Qa yi
-
-as (Lesa-tisinx) (cay sing)
-
-5
-
-a z ca (a4) + _Tsin G4) (1mm)
-a C0s/%- 7
-
-fa) =p =) "= 1siofe-g)
-
-[b\ = [x-y) ~
-(ay af3 isin fou)
-> for |b) = Qca/e-
-
-Ye. Ne fsa) Gay
-
-FR 7 (RR KE
---- page 15 ---
-Hy) P(H) = 0-6 p(6)= 0:4   P(Hae)=0'2
-
-P(H' ae’) = P(e!) = I~ P (HUE)
-
-| (H AE”
-
-= ~ |-[PCH PtH) +A) p(Hae)]
-r— | = J|-o8 ‘o'*2. (2)
-—_[i) p(E/H)= P(enH)- 0-2 = I
-
-r P(@an) 0-6 2 (2m)
-
-ny P(HJe)= PURME = 0-2 = 1 (om)
-P(E#) 0’4 2.
-
-b) (Sre6i") + (s7405) + fini -
-
-(s+6(* ri) (8¢1) +()*i ) +(-1- 1)
-
-(2m)
-
-(5+ (-¢3)) +(-8i + i) + (-2)
-
-(2m)
-
-= 54-6 — Sith 2
-
-= 3 —(3/ (2m)
-
-DR ROR RK 15 FRR
---- page 16 ---
-Ic) lia = 3i = j 2k
-
-n= axe
-
-Se Re BS)
-2 ~s -I
--s 4 0
-2 Aj +5y ~~ (2m)
-nN: (x - a) = =O — (iz ‘
-Ai +5{ 17k) * (xityl tk = (Gi-[ +o
-4(x-3) +5(y4i)—\7(z-2) ~0
-Lx £5) - Po. - oF =o (im)
-i) de [axe + buy +czotd
-: Jot rer ny
-d= © +06 +0 -— 6
-JTEG +16 (im)
-
-d=} ¢ | =¢
-26 | Inf - (Im)
-
-DR ROR RK 1G FRR HHH
-````
-
-## 2024-25 · Re-Exam · Sem 3 · Answer key · paper 81314545f89b
+## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 81314545f89b
 
 - Departments: Computer Engineering, Mechanical
 - Programmes: Integrated Computer 7032, Integrated Mechanical 7031
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/Integrated_Computer_7032/Mathematics-III/ANS_Mathematics-III(701BS0C015)_2024-2025.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (14 pages), mean OCR confidence 40.8
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 O
@@ -2393,7 +542,6 @@ is [oxam CH )AX = f sirnt dt — av
 = = Cos (9H) C—O
 --- page 2 ---
 A) foit2z—kl= = Varer] =: Hey f= FL ms $2, “el
-Direckien COARMICA cre yom 2 pe
 
 iter)
 
@@ -2461,7 +609,6 @@ Abi—Are- There are 4 suits zack honing
 
 [3 Carols.
 \
-No oF Woy F chosing b coxs out of [3 #
 — BC
 qolal ne F Wege@ [3q,F13G 3 gtisg, ,
 ZL oux 13/ C—(IM)
@@ -2549,9 +696,7 @@ M8) = (Ona = fees ie.
 ut vects inte diveclon of Fe aS)
 _ —h+5f- 42
 ee
-A veces of rragmitade 7 alongs ha bok
 
-AB w ay 46 a. i) @)
 ne .
 
 d
@@ -2619,7 +764,6 @@ Wa
 
 -f penta) oy (9)
 
-o Al L w+ Cos? (Yr)
 --- page 10 ---
 C8 x+y =O “phi
 ~ | Ya4hor
@@ -2655,14 +799,10 @@ arf {g— ibdeuee dx aoe iE b
 ea
 a a eh oe.
 
-a4 b}iy Totally Brae Bes. b+34+2=4 Aiwa
 a diacs Cam bg arranged an Fi! ways (9)
-3 imCe. b tod disk ORL. sonchis begs he ble,
 
-Cc wy divide . Pha ‘YLe USO
 eo ED
 
-lL ged dysca Carr bl wrreng
 Pen selve
 | LeQy? Aixzck RE
 
@@ -2673,7 +813,6 @@ Jor 4/3) 2! BEX yz
 260
 
 i Y= C 4 disbrek hLotters
-W), Y= ! Cue, meecl a ornat 3 bolbers ),
 --- page 12 ---
 66 C) Po @ak form of [te = v2 (Coos tient)
 
@@ -2727,4 +866,1836 @@ oy =:
 = SR 4S + ek en) \:
 
 1
+````
+
+## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 9627faf54edd
+
+- Departments: Computer Engineering
+- Programmes: DIPLOMA IN COMPUTER ENGINEERING - 7073
+- Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/MATHEMATICS-III/ANS_MATHEMATICS-III(701BS0C034)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
+- Text: mixed (16 pages), mean OCR confidence 44.8
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
+Year: II/Sem 3 Re-exam(Exam Year: 2025-2026)
+Subject: MATHEMATICS-III
+Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 16 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure on the right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Only Basic Calculator is allowed.
+********** 1 **********
+--- page 2 ---
+FIC 2 I HH ar
+--- page 3 ---
+‘ 4 secie — ton'n dot
+~~ Ya 14
+2 begh - (yee = 1, a
+wee we)
+whe [de = 1% — {lm)
+) My
+~ Wy
+
+— (Um)
+Bl ax — ty?
+at \)4+ye
+hae ds ge At = en)
+Tae dy = Std
+ton fp ston Pa) Coy
+b)| u= Ji¢ge
+
+ron
+"Y a. fx _=_%_ = Ws
+x* fia —/f
+RHS = iP = “iat fey
+[ree [+%2 — (Im)
+——%__= RNS -
+--- page 4 ---
+vo ” 2
+Lam tn’ = (len)
+tel +k =l
+> 4
+b= f[— } =]
+aa q (Imo)
+~- toe lt
+2 4
+ko = |
+4 ;
+=] (Im)
+2
+
+d)
+[S23 hw HTL HI2, HT3 HT4, Hes HT
+
+“TH, TIL T1213, TT4, Ts,
+
+Tre 4: (3m)
+
+/
+ok AR AK RK
+
+FR CK
+--- page 5 ---
+Lea (i-)y + Si” = 0
+aT = -
+1 Ci'+3i) x + (i yt
+
+-_— {m
+(41 +3i)x + ty -y +3) = o fim)
+Ec tai cu V_ Sie 0
+
+(&% <a SUL Vguty-3) =
+= ( 7 a
+
+a =O Btsy=s =O
+
+xu 3u+ -S =O
+42a-S=o6
+
+a= 5 (im)
+4
+yes. (im):
+4
+Le eoe a
+=| sec y =| dx (2m)
+
+= § fanz — xX + C: (2m):
+--- page 6 ---
+a= cos (x3) ) Minx)? dx
+
+| hick ai in =
+
+“i | Cos x3 : ree = a
+
+aa | dx
+
+~ w Cosa? x Av = at (2m)
+jo)
+
+3 - dt
+
+| oe kan dt 2m)
+a 3 S \ ;
+a - | |t a rex Ext +
+yo 3 Wo 3: 4 >
+= 2 (sinw)” +c:
+, oF (2m)
+b) | dy = x +3xyty*
+j Put eve.
+— | dyWe var dv (lm) «
+. irs ax
+1 ver dv = x+ 3x(vz) +vx*
+4 dx % *
+lv+ weedy = I+ 3BVvtV
+4 ax
+“Bi ecdv 2 [+ 2v+v~
+- Ax
+
+2 V +2v+l EZ
+
+7
+
+FEC 6 FC IG Ir
+--- page 7 ---
+Cae CL Be
+
+) (v4) Le
+— | = [log |x| +c’
+V+) t (2n)-—-——
+ee | = loa |x} +f.
+(4a)
+— :
+pt % = (i+ 2 rak)
+My = 2: -%: +k
+inp =, + 4e “2k: (4m) -
+m= Mx mz
+s Lb rf k..
+2-3 | (=i 45-ape
+| =e : (Om)
+Vecloy _@quachon \, .
+n= A+ Ame (1m)
+
+mitt Zk =(P+op+3k A fots-sieity)
+
+K-[ = y=2 = a2
+2 V5 — Choy)
+
+Cartesian en ‘
+N
+
+FR RK
+--- page 8 ---
+[pat =f Tar > OS b+ 24 TIS
+ae: TAP =i = 3 tok d= 4, —pr2k
+
+| Swenrres aS <
+= la! 1 +30 (Im
+| =a a =| 2.
+Dy | ldleJe +4
+B | =v, = =6i = 2j +R (Im)
+~ [d= vaera+i2) = viel = 164
+Vor V21 3 (im)
+Q3)
+Hala(iu), B22), (95), Dlo2 6)
+AB = —3t +3) + 2k: . : fy)
+= 30-3) +k 7
+Apxcp = |i ; k
+-3 3 2
+3-3 |
+| = Bi PR ok (2r0)
+—_| Unit vec of AB xepD = 4:+9;40k
+= ne
+(2m?
+—| Verb y of = = 4/% +4; ‘+0k |
+— ay,
+
+=—o<_ Cam =
+--- page 9 ---
+2h)
+aK
+
+r
+
+\ Ba! Tet dx.
+
+Pub x5 4p at
+Ga! = ct — (Im)
+cle
+Whin, e=—-)   £=O0°
+eee | pee (1m)
+2. 2
+(edt = (tedt (Cm)
+) )
+1°) ° 4.
+= LE (in)
+| 3/r d oe
+= 2.% 2J5 -
+3 | ; ,
+= We (im)
+--- page 10 ---
+3c) ( % da —
+2 (x) (x)
+x - A +Betec (Im)
+
+(eNeH) x1 x4!
+
+w= A(x) + Best) (Bato) lc)
+Y old | =) A = Yo
+k= =] 33 B = (3m)
+Ce Vox + Y2 dy (Im)
+
+7 tA aH TH
+= | log |ae-1| —1 xt] [x?H1] +1 tan’ (x)
+
+ze !f@e me.
+= J log |x-1] axl log [2+ +1 tar’ (x) F<.
+= 0 as 2 (3m):
+
+4a) A(ii1) Bf2,),3) C (32,2) D/3,3.4)
+
+AB =i +0, +2k ;
+Ae = 21 +) +k ( (om)
+Ab = 2i +9) +3k “
+
+Ag :(AcxAD)=[1 0 2
+
+2 | | (2 yn)
+2 2 3
+= 1(1)-o +2(q-2)
+= of RI)
+
+——_——_—F;
+
+= 5 (om)
+
+FOR 7 (RR KE
+--- page 11 ---
+| —__—
+
+—— ( ¢*. p= 4
+
+aw “
+
+- | 2x fe de = Cd (x?) fede dx
+)\ax (2m)
+
+=a mz = De 2 | da
+— x {2n)
+a ff 2 3 z
+
+" ms e Zu — x-e%% rs e 2% +C .
+iu 2 Du: a (2rn)*
+7 ae
+2 25-x* me \ Ex
+
+= [25=x* (Im) as eae
+n |
+Area =A f 25-1" dy
+
+aeix
+' 0
+— af x Ose + 25 sin /x\ |
+Pease 5 2 {$7 -|:
+lo 4le 4 28th = 0) Gums
+ra | \ a ee 7
+—e = 257 x¥ : (im)
+
+1 #
+
+DR ROR RK 11 FRR HR RK
+--- page 12 ---
+Sa)| zs Si + 3+T
+2ti 2-7
+
+z=:(3+i)(2- aie (sti) Gr)
+
+—____|z= ¢- erie paar ete
+
+5 (2n) -
+z= 10
+5
+Z= 940i (2m)
+
+Modulus = |zl|= J2+0~= 2 (\m)
+
+Amalitude = -tan' fo) = 0° " (lm)
+
+L2/
+
+b) | n(o}=*2C, = 1826 - Tim) «
+
+i) Both black carels
+
+n(A)= 7c, = 325
+
+P(Black) = @n(A) = 325° = 25 (om
+
+n(s) IS>26 0 ~ joa
+
+i) n(B) = ?c, x 39C, = 507
+
+P(B) = 507 = 164
+
+132-6 Tas. Can)
+
+i) n(c) = °C, X4 = 3)2 .
+
+P(c).= 312 229 24 7
+(aay Fy
+
+FOR ORR 7 ROR RK
+--- page 13 ---
+edt be the mass 6 substance acl -timet
+
+PL aM at oa Cm) Wheat = lo, Me 100
+— a loo = ee”? 200
+—" a =
+-_ am ="kmM e | (oi)
+- lo M= = hx ee ann
+M=¢- ro, _(Im) =(e*)*: 200
+~ | ohen = 0, M=200 i a
+200 = C, (\m)
+— J cis z qr
+— {ty ne
+‘pal _ESvATION ;
+n(o)= z| (An) 5 vow
+i) All Fonda -Logethn
+n(A)= 4 41 x51 = (im)
+P(AY= Alxs) = | (2m)
+
+2) I4
+
+ii) Stas: woth, Sata ke end voilh
+—|   (ensenadt
+
+n(p) = Bxax él _* (im)
+| p(B) = IGX6) = 1 (im)
+— 8] . ee |
+
+DR ROR RK 13 RRR RE
+--- page 14 ---
+— 6b) iy ae
+Cos 2 (05 21"
+
+ite Br + (0%
+
+= Vie (Les 3x: (er dn + Ces’ CesB% dy) en
+
+=VCY, (cas6x + tes0)+- Ip (car + 2x) 2
+
+19,,)
+sede
+
+= LC pesGx + 1 + Las 4% + 8s 24 ly
+4)
+- |]Ajnév +x + Ain 4x + Sin2e | +C-
+
+- 4 6 a a
+
+"4
+
+Ec) |= cosxtisinn b= & isin
+ab = uss (xt) + PSI (oMep)
+ab 3 faby!l* = 8 Por +}sin zy) (im)
+
+L247 Ne
+—_ ces fae) Fe pt sin [x tu)
+Jab ( 2) L 2)
+
+Qa yi
+
+
+5
+
+a z ca (a4) + _Tsin G4) (1mm)
+a C0s/%- 7
+
+fa) =p =) "= 1siofe-g)
+
+[b\ = [x-y) ~
+(ay af3 isin fou)
+> for |b) = Qca/e-
+
+Ye. Ne fsa) Gay
+
+FR 7 (RR KE
+--- page 15 ---
+Hy) P(H) = 0-6 p(6)= 0:4   P(Hae)=0'2
+
+P(H' ae’) = P(e!) = I~ P (HUE)
+
+| (H AE”
+
+= ~ |-[PCH PtH) +A) p(Hae)]
+r— | = J|-o8 ‘o'*2. (2)
+—_[i) p(E/H)= P(enH)- 0-2 = I
+
+r P(@an) 0-6 2 (2m)
+
+ny P(HJe)= PURME = 0-2 = 1 (om)
+P(E#) 0’4 2.
+
+b) (Sre6i") + (s7405) + fini -
+
+(s+6(* ri) (8¢1) +()*i ) +(-1- 1)
+
+(2m)
+
+(5+ (-¢3)) +(-8i + i) + (-2)
+
+(2m)
+
+= 54-6 — Sith 2
+
+= 3 —(3/ (2m)
+
+DR ROR RK 15 FRR
+--- page 16 ---
+Ic) lia = 3i = j 2k
+
+n= axe
+
+Se Re BS)
+2 ~s -I
+-s 4 0
+2 Aj +5y ~~ (2m)
+Ai +5{ 17k) * (xityl tk = (Gi-[ +o
+4(x-3) +5(y4i)—\7(z-2) ~0
+i) de [axe + buy +czotd
+: Jot rer ny
+d= © +06 +0 -— 6
+JTEG +16 (im)
+
+d=} ¢ | =¢
+26 | Inf - (Im)
+
+DR ROR RK 1G FRR HHH
+````
+
+## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 27f7e30d5e08
+
+- Departments: Computer Science
+- Programmes: DIPLOMA IN COMPUTER SCIENCE AND ENGINEE
+- Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/MATHEMATICS-III/ANS_MATHEMATICS-III(701BS0C034)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
+- Text: mixed (16 pages), mean OCR confidence 44.8
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
+Year: II/Sem 3 Re-exam(Exam Year: 2025-2026)
+Subject: MATHEMATICS-III
+Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 16 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure on the right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Only Basic Calculator is allowed.
+********** 1 **********
+--- page 2 ---
+FIC 2 I HH ar
+--- page 3 ---
+‘ 4 secie — ton'n dot
+~~ Ya 14
+2 begh - (yee = 1, a
+wee we)
+whe [de = 1% — {lm)
+) My
+~ Wy
+
+— (Um)
+Bl ax — ty?
+at \)4+ye
+hae ds ge At = en)
+Tae dy = Std
+ton fp ston Pa) Coy
+b)| u= Ji¢ge
+
+ron
+"Y a. fx _=_%_ = Ws
+x* fia —/f
+RHS = iP = “iat fey
+[ree [+%2 — (Im)
+——%__= RNS -
+--- page 4 ---
+vo ” 2
+Lam tn’ = (len)
+tel +k =l
+> 4
+b= f[— } =]
+aa q (Imo)
+~- toe lt
+2 4
+ko = |
+4 ;
+=] (Im)
+2
+
+d)
+[S23 hw HTL HI2, HT3 HT4, Hes HT
+
+“TH, TIL T1213, TT4, Ts,
+
+Tre 4: (3m)
+
+/
+ok AR AK RK
+
+FR CK
+--- page 5 ---
+Lea (i-)y + Si” = 0
+aT = -
+1 Ci'+3i) x + (i yt
+
+-_— {m
+(41 +3i)x + ty -y +3) = o fim)
+Ec tai cu V_ Sie 0
+
+(&% <a SUL Vguty-3) =
+= ( 7 a
+
+a =O Btsy=s =O
+
+xu 3u+ -S =O
+42a-S=o6
+
+a= 5 (im)
+4
+yes. (im):
+4
+Le eoe a
+=| sec y =| dx (2m)
+
+= § fanz — xX + C: (2m):
+--- page 6 ---
+a= cos (x3) ) Minx)? dx
+
+| hick ai in =
+
+“i | Cos x3 : ree = a
+
+aa | dx
+
+~ w Cosa? x Av = at (2m)
+jo)
+
+3 - dt
+
+| oe kan dt 2m)
+a 3 S \ ;
+a - | |t a rex Ext +
+yo 3 Wo 3: 4 >
+= 2 (sinw)” +c:
+, oF (2m)
+b) | dy = x +3xyty*
+j Put eve.
+— | dyWe var dv (lm) «
+. irs ax
+1 ver dv = x+ 3x(vz) +vx*
+4 dx % *
+lv+ weedy = I+ 3BVvtV
+4 ax
+“Bi ecdv 2 [+ 2v+v~
+- Ax
+
+2 V +2v+l EZ
+
+7
+
+FEC 6 FC IG Ir
+--- page 7 ---
+Cae CL Be
+
+) (v4) Le
+— | = [log |x| +c’
+V+) t (2n)-—-——
+ee | = loa |x} +f.
+(4a)
+— :
+pt % = (i+ 2 rak)
+My = 2: -%: +k
+inp =, + 4e “2k: (4m) -
+m= Mx mz
+s Lb rf k..
+2-3 | (=i 45-ape
+| =e : (Om)
+Vecloy _@quachon \, .
+n= A+ Ame (1m)
+
+mitt Zk =(P+op+3k A fots-sieity)
+
+K-[ = y=2 = a2
+2 V5 — Choy)
+
+Cartesian en ‘
+N
+
+FR RK
+--- page 8 ---
+[pat =f Tar > OS b+ 24 TIS
+ae: TAP =i = 3 tok d= 4, —pr2k
+
+| Swenrres aS <
+= la! 1 +30 (Im
+| =a a =| 2.
+Dy | ldleJe +4
+B | =v, = =6i = 2j +R (Im)
+~ [d= vaera+i2) = viel = 164
+Vor V21 3 (im)
+Q3)
+Hala(iu), B22), (95), Dlo2 6)
+AB = —3t +3) + 2k: . : fy)
+= 30-3) +k 7
+Apxcp = |i ; k
+-3 3 2
+3-3 |
+| = Bi PR ok (2r0)
+—_| Unit vec of AB xepD = 4:+9;40k
+= ne
+(2m?
+—| Verb y of = = 4/% +4; ‘+0k |
+— ay,
+
+=—o<_ Cam =
+--- page 9 ---
+2h)
+aK
+
+r
+
+\ Ba! Tet dx.
+
+Pub x5 4p at
+Ga! = ct — (Im)
+cle
+Whin, e=—-)   £=O0°
+eee | pee (1m)
+2. 2
+(edt = (tedt (Cm)
+) )
+1°) ° 4.
+= LE (in)
+| 3/r d oe
+= 2.% 2J5 -
+3 | ; ,
+= We (im)
+--- page 10 ---
+3c) ( % da —
+2 (x) (x)
+x - A +Betec (Im)
+
+(eNeH) x1 x4!
+
+w= A(x) + Best) (Bato) lc)
+Y old | =) A = Yo
+k= =] 33 B = (3m)
+Ce Vox + Y2 dy (Im)
+
+7 tA aH TH
+= | log |ae-1| —1 xt] [x?H1] +1 tan’ (x)
+
+ze !f@e me.
+= J log |x-1] axl log [2+ +1 tar’ (x) F<.
+= 0 as 2 (3m):
+
+4a) A(ii1) Bf2,),3) C (32,2) D/3,3.4)
+
+AB =i +0, +2k ;
+Ae = 21 +) +k ( (om)
+Ab = 2i +9) +3k “
+
+Ag :(AcxAD)=[1 0 2
+
+2 | | (2 yn)
+2 2 3
+= 1(1)-o +2(q-2)
+= of RI)
+
+——_——_—F;
+
+= 5 (om)
+
+FOR 7 (RR KE
+--- page 11 ---
+| —__—
+
+—— ( ¢*. p= 4
+
+aw “
+
+- | 2x fe de = Cd (x?) fede dx
+)\ax (2m)
+
+=a mz = De 2 | da
+— x {2n)
+a ff 2 3 z
+
+" ms e Zu — x-e%% rs e 2% +C .
+iu 2 Du: a (2rn)*
+7 ae
+2 25-x* me \ Ex
+
+= [25=x* (Im) as eae
+n |
+Area =A f 25-1" dy
+
+aeix
+' 0
+— af x Ose + 25 sin /x\ |
+Pease 5 2 {$7 -|:
+lo 4le 4 28th = 0) Gums
+ra | \ a ee 7
+—e = 257 x¥ : (im)
+
+1 #
+
+DR ROR RK 11 FRR HR RK
+--- page 12 ---
+Sa)| zs Si + 3+T
+2ti 2-7
+
+z=:(3+i)(2- aie (sti) Gr)
+
+—____|z= ¢- erie paar ete
+
+5 (2n) -
+z= 10
+5
+Z= 940i (2m)
+
+Modulus = |zl|= J2+0~= 2 (\m)
+
+Amalitude = -tan' fo) = 0° " (lm)
+
+L2/
+
+b) | n(o}=*2C, = 1826 - Tim) «
+
+i) Both black carels
+
+n(A)= 7c, = 325
+
+P(Black) = @n(A) = 325° = 25 (om
+
+n(s) IS>26 0 ~ joa
+
+i) n(B) = ?c, x 39C, = 507
+
+P(B) = 507 = 164
+
+132-6 Tas. Can)
+
+i) n(c) = °C, X4 = 3)2 .
+
+P(c).= 312 229 24 7
+(aay Fy
+
+FOR ORR 7 ROR RK
+--- page 13 ---
+edt be the mass 6 substance acl -timet
+
+PL aM at oa Cm) Wheat = lo, Me 100
+— a loo = ee”? 200
+—" a =
+-_ am ="kmM e | (oi)
+- lo M= = hx ee ann
+M=¢- ro, _(Im) =(e*)*: 200
+~ | ohen = 0, M=200 i a
+200 = C, (\m)
+— J cis z qr
+— {ty ne
+‘pal _ESvATION ;
+n(o)= z| (An) 5 vow
+i) All Fonda -Logethn
+n(A)= 4 41 x51 = (im)
+P(AY= Alxs) = | (2m)
+
+2) I4
+
+ii) Stas: woth, Sata ke end voilh
+—|   (ensenadt
+
+n(p) = Bxax él _* (im)
+| p(B) = IGX6) = 1 (im)
+— 8] . ee |
+
+DR ROR RK 13 RRR RE
+--- page 14 ---
+— 6b) iy ae
+Cos 2 (05 21"
+
+ite Br + (0%
+
+= Vie (Les 3x: (er dn + Ces’ CesB% dy) en
+
+=VCY, (cas6x + tes0)+- Ip (car + 2x) 2
+
+19,,)
+sede
+
+= LC pesGx + 1 + Las 4% + 8s 24 ly
+4)
+- |]Ajnév +x + Ain 4x + Sin2e | +C-
+
+- 4 6 a a
+
+"4
+
+Ec) |= cosxtisinn b= & isin
+ab = uss (xt) + PSI (oMep)
+ab 3 faby!l* = 8 Por +}sin zy) (im)
+
+L247 Ne
+—_ ces fae) Fe pt sin [x tu)
+Jab ( 2) L 2)
+
+Qa yi
+
+
+5
+
+a z ca (a4) + _Tsin G4) (1mm)
+a C0s/%- 7
+
+fa) =p =) "= 1siofe-g)
+
+[b\ = [x-y) ~
+(ay af3 isin fou)
+> for |b) = Qca/e-
+
+Ye. Ne fsa) Gay
+
+FR 7 (RR KE
+--- page 15 ---
+Hy) P(H) = 0-6 p(6)= 0:4   P(Hae)=0'2
+
+P(H' ae’) = P(e!) = I~ P (HUE)
+
+| (H AE”
+
+= ~ |-[PCH PtH) +A) p(Hae)]
+r— | = J|-o8 ‘o'*2. (2)
+—_[i) p(E/H)= P(enH)- 0-2 = I
+
+r P(@an) 0-6 2 (2m)
+
+ny P(HJe)= PURME = 0-2 = 1 (om)
+P(E#) 0’4 2.
+
+b) (Sre6i") + (s7405) + fini -
+
+(s+6(* ri) (8¢1) +()*i ) +(-1- 1)
+
+(2m)
+
+(5+ (-¢3)) +(-8i + i) + (-2)
+
+(2m)
+
+= 54-6 — Sith 2
+
+= 3 —(3/ (2m)
+
+DR ROR RK 15 FRR
+--- page 16 ---
+Ic) lia = 3i = j 2k
+
+n= axe
+
+Se Re BS)
+2 ~s -I
+-s 4 0
+2 Aj +5y ~~ (2m)
+Ai +5{ 17k) * (xityl tk = (Gi-[ +o
+4(x-3) +5(y4i)—\7(z-2) ~0
+i) de [axe + buy +czotd
+: Jot rer ny
+d= © +06 +0 -— 6
+JTEG +16 (im)
+
+d=} ¢ | =¢
+26 | Inf - (Im)
+
+DR ROR RK 1G FRR HHH
+````
+
+## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 2d09608260b9
+
+- Departments: Information Technology
+- Programmes: DIPLOMA IN INFORMATION TECHNOLOGY - 7075
+- Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/MATHEMATICS-III/ANS_MATHEMATICS-III(701BS0C034)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
+- Text: mixed (16 pages), mean OCR confidence 44.8
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
+Year: II/Sem 3 Re-exam(Exam Year: 2025-2026)
+Subject: MATHEMATICS-III
+Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 16 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure on the right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Only Basic Calculator is allowed.
+********** 1 **********
+--- page 2 ---
+FIC 2 I HH ar
+--- page 3 ---
+‘ 4 secie — ton'n dot
+~~ Ya 14
+2 begh - (yee = 1, a
+wee we)
+whe [de = 1% — {lm)
+) My
+~ Wy
+
+— (Um)
+Bl ax — ty?
+at \)4+ye
+hae ds ge At = en)
+Tae dy = Std
+ton fp ston Pa) Coy
+b)| u= Ji¢ge
+
+ron
+"Y a. fx _=_%_ = Ws
+x* fia —/f
+RHS = iP = “iat fey
+[ree [+%2 — (Im)
+——%__= RNS -
+--- page 4 ---
+vo ” 2
+Lam tn’ = (len)
+tel +k =l
+> 4
+b= f[— } =]
+aa q (Imo)
+~- toe lt
+2 4
+ko = |
+4 ;
+=] (Im)
+2
+
+d)
+[S23 hw HTL HI2, HT3 HT4, Hes HT
+
+“TH, TIL T1213, TT4, Ts,
+
+Tre 4: (3m)
+
+/
+ok AR AK RK
+
+FR CK
+--- page 5 ---
+Lea (i-)y + Si” = 0
+aT = -
+1 Ci'+3i) x + (i yt
+
+-_— {m
+(41 +3i)x + ty -y +3) = o fim)
+Ec tai cu V_ Sie 0
+
+(&% <a SUL Vguty-3) =
+= ( 7 a
+
+a =O Btsy=s =O
+
+xu 3u+ -S =O
+42a-S=o6
+
+a= 5 (im)
+4
+yes. (im):
+4
+Le eoe a
+=| sec y =| dx (2m)
+
+= § fanz — xX + C: (2m):
+--- page 6 ---
+a= cos (x3) ) Minx)? dx
+
+| hick ai in =
+
+“i | Cos x3 : ree = a
+
+aa | dx
+
+~ w Cosa? x Av = at (2m)
+jo)
+
+3 - dt
+
+| oe kan dt 2m)
+a 3 S \ ;
+a - | |t a rex Ext +
+yo 3 Wo 3: 4 >
+= 2 (sinw)” +c:
+, oF (2m)
+b) | dy = x +3xyty*
+j Put eve.
+— | dyWe var dv (lm) «
+. irs ax
+1 ver dv = x+ 3x(vz) +vx*
+4 dx % *
+lv+ weedy = I+ 3BVvtV
+4 ax
+“Bi ecdv 2 [+ 2v+v~
+- Ax
+
+2 V +2v+l EZ
+
+7
+
+FEC 6 FC IG Ir
+--- page 7 ---
+Cae CL Be
+
+) (v4) Le
+— | = [log |x| +c’
+V+) t (2n)-—-——
+ee | = loa |x} +f.
+(4a)
+— :
+pt % = (i+ 2 rak)
+My = 2: -%: +k
+inp =, + 4e “2k: (4m) -
+m= Mx mz
+s Lb rf k..
+2-3 | (=i 45-ape
+| =e : (Om)
+Vecloy _@quachon \, .
+n= A+ Ame (1m)
+
+mitt Zk =(P+op+3k A fots-sieity)
+
+K-[ = y=2 = a2
+2 V5 — Choy)
+
+Cartesian en ‘
+N
+
+FR RK
+--- page 8 ---
+[pat =f Tar > OS b+ 24 TIS
+ae: TAP =i = 3 tok d= 4, —pr2k
+
+| Swenrres aS <
+= la! 1 +30 (Im
+| =a a =| 2.
+Dy | ldleJe +4
+B | =v, = =6i = 2j +R (Im)
+~ [d= vaera+i2) = viel = 164
+Vor V21 3 (im)
+Q3)
+Hala(iu), B22), (95), Dlo2 6)
+AB = —3t +3) + 2k: . : fy)
+= 30-3) +k 7
+Apxcp = |i ; k
+-3 3 2
+3-3 |
+| = Bi PR ok (2r0)
+—_| Unit vec of AB xepD = 4:+9;40k
+= ne
+(2m?
+—| Verb y of = = 4/% +4; ‘+0k |
+— ay,
+
+=—o<_ Cam =
+--- page 9 ---
+2h)
+aK
+
+r
+
+\ Ba! Tet dx.
+
+Pub x5 4p at
+Ga! = ct — (Im)
+cle
+Whin, e=—-)   £=O0°
+eee | pee (1m)
+2. 2
+(edt = (tedt (Cm)
+) )
+1°) ° 4.
+= LE (in)
+| 3/r d oe
+= 2.% 2J5 -
+3 | ; ,
+= We (im)
+--- page 10 ---
+3c) ( % da —
+2 (x) (x)
+x - A +Betec (Im)
+
+(eNeH) x1 x4!
+
+w= A(x) + Best) (Bato) lc)
+Y old | =) A = Yo
+k= =] 33 B = (3m)
+Ce Vox + Y2 dy (Im)
+
+7 tA aH TH
+= | log |ae-1| —1 xt] [x?H1] +1 tan’ (x)
+
+ze !f@e me.
+= J log |x-1] axl log [2+ +1 tar’ (x) F<.
+= 0 as 2 (3m):
+
+4a) A(ii1) Bf2,),3) C (32,2) D/3,3.4)
+
+AB =i +0, +2k ;
+Ae = 21 +) +k ( (om)
+Ab = 2i +9) +3k “
+
+Ag :(AcxAD)=[1 0 2
+
+2 | | (2 yn)
+2 2 3
+= 1(1)-o +2(q-2)
+= of RI)
+
+——_——_—F;
+
+= 5 (om)
+
+FOR 7 (RR KE
+--- page 11 ---
+| —__—
+
+—— ( ¢*. p= 4
+
+aw “
+
+- | 2x fe de = Cd (x?) fede dx
+)\ax (2m)
+
+=a mz = De 2 | da
+— x {2n)
+a ff 2 3 z
+
+" ms e Zu — x-e%% rs e 2% +C .
+iu 2 Du: a (2rn)*
+7 ae
+2 25-x* me \ Ex
+
+= [25=x* (Im) as eae
+n |
+Area =A f 25-1" dy
+
+aeix
+' 0
+— af x Ose + 25 sin /x\ |
+Pease 5 2 {$7 -|:
+lo 4le 4 28th = 0) Gums
+ra | \ a ee 7
+—e = 257 x¥ : (im)
+
+1 #
+
+DR ROR RK 11 FRR HR RK
+--- page 12 ---
+Sa)| zs Si + 3+T
+2ti 2-7
+
+z=:(3+i)(2- aie (sti) Gr)
+
+—____|z= ¢- erie paar ete
+
+5 (2n) -
+z= 10
+5
+Z= 940i (2m)
+
+Modulus = |zl|= J2+0~= 2 (\m)
+
+Amalitude = -tan' fo) = 0° " (lm)
+
+L2/
+
+b) | n(o}=*2C, = 1826 - Tim) «
+
+i) Both black carels
+
+n(A)= 7c, = 325
+
+P(Black) = @n(A) = 325° = 25 (om
+
+n(s) IS>26 0 ~ joa
+
+i) n(B) = ?c, x 39C, = 507
+
+P(B) = 507 = 164
+
+132-6 Tas. Can)
+
+i) n(c) = °C, X4 = 3)2 .
+
+P(c).= 312 229 24 7
+(aay Fy
+
+FOR ORR 7 ROR RK
+--- page 13 ---
+edt be the mass 6 substance acl -timet
+
+PL aM at oa Cm) Wheat = lo, Me 100
+— a loo = ee”? 200
+—" a =
+-_ am ="kmM e | (oi)
+- lo M= = hx ee ann
+M=¢- ro, _(Im) =(e*)*: 200
+~ | ohen = 0, M=200 i a
+200 = C, (\m)
+— J cis z qr
+— {ty ne
+‘pal _ESvATION ;
+n(o)= z| (An) 5 vow
+i) All Fonda -Logethn
+n(A)= 4 41 x51 = (im)
+P(AY= Alxs) = | (2m)
+
+2) I4
+
+ii) Stas: woth, Sata ke end voilh
+—|   (ensenadt
+
+n(p) = Bxax él _* (im)
+| p(B) = IGX6) = 1 (im)
+— 8] . ee |
+
+DR ROR RK 13 RRR RE
+--- page 14 ---
+— 6b) iy ae
+Cos 2 (05 21"
+
+ite Br + (0%
+
+= Vie (Les 3x: (er dn + Ces’ CesB% dy) en
+
+=VCY, (cas6x + tes0)+- Ip (car + 2x) 2
+
+19,,)
+sede
+
+= LC pesGx + 1 + Las 4% + 8s 24 ly
+4)
+- |]Ajnév +x + Ain 4x + Sin2e | +C-
+
+- 4 6 a a
+
+"4
+
+Ec) |= cosxtisinn b= & isin
+ab = uss (xt) + PSI (oMep)
+ab 3 faby!l* = 8 Por +}sin zy) (im)
+
+L247 Ne
+—_ ces fae) Fe pt sin [x tu)
+Jab ( 2) L 2)
+
+Qa yi
+
+
+5
+
+a z ca (a4) + _Tsin G4) (1mm)
+a C0s/%- 7
+
+fa) =p =) "= 1siofe-g)
+
+[b\ = [x-y) ~
+(ay af3 isin fou)
+> for |b) = Qca/e-
+
+Ye. Ne fsa) Gay
+
+FR 7 (RR KE
+--- page 15 ---
+Hy) P(H) = 0-6 p(6)= 0:4   P(Hae)=0'2
+
+P(H' ae’) = P(e!) = I~ P (HUE)
+
+| (H AE”
+
+= ~ |-[PCH PtH) +A) p(Hae)]
+r— | = J|-o8 ‘o'*2. (2)
+—_[i) p(E/H)= P(enH)- 0-2 = I
+
+r P(@an) 0-6 2 (2m)
+
+ny P(HJe)= PURME = 0-2 = 1 (om)
+P(E#) 0’4 2.
+
+b) (Sre6i") + (s7405) + fini -
+
+(s+6(* ri) (8¢1) +()*i ) +(-1- 1)
+
+(2m)
+
+(5+ (-¢3)) +(-8i + i) + (-2)
+
+(2m)
+
+= 54-6 — Sith 2
+
+= 3 —(3/ (2m)
+
+DR ROR RK 15 FRR
+--- page 16 ---
+Ic) lia = 3i = j 2k
+
+n= axe
+
+Se Re BS)
+2 ~s -I
+-s 4 0
+2 Aj +5y ~~ (2m)
+Ai +5{ 17k) * (xityl tk = (Gi-[ +o
+4(x-3) +5(y4i)—\7(z-2) ~0
+i) de [axe + buy +czotd
+: Jot rer ny
+d= © +06 +0 -— 6
+JTEG +16 (im)
+
+d=} ¢ | =¢
+26 | Inf - (Im)
+
+DR ROR RK 1G FRR HHH
+````
+
+## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 2d92968e696f
+
+- Departments: Mechanical
+- Programmes: DIPLOMA IN MECHANICAL ENGINEERING - 7072
+- Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/MATHEMATICS-III/ANS_MATHEMATICS-III(701BS0C034)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
+- Text: mixed (16 pages), mean OCR confidence 44.8
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
+Year: II/Sem 3 Re-exam(Exam Year: 2025-2026)
+Subject: MATHEMATICS-III
+Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 16 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure on the right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Only Basic Calculator is allowed.
+********** 1 **********
+--- page 2 ---
+FIC 2 I HH ar
+--- page 3 ---
+‘ 4 secie — ton'n dot
+~~ Ya 14
+2 begh - (yee = 1, a
+wee we)
+whe [de = 1% — {lm)
+) My
+~ Wy
+
+— (Um)
+Bl ax — ty?
+at \)4+ye
+hae ds ge At = en)
+Tae dy = Std
+ton fp ston Pa) Coy
+b)| u= Ji¢ge
+
+ron
+"Y a. fx _=_%_ = Ws
+x* fia —/f
+RHS = iP = “iat fey
+[ree [+%2 — (Im)
+——%__= RNS -
+--- page 4 ---
+vo ” 2
+Lam tn’ = (len)
+tel +k =l
+> 4
+b= f[— } =]
+aa q (Imo)
+~- toe lt
+2 4
+ko = |
+4 ;
+=] (Im)
+2
+
+d)
+[S23 hw HTL HI2, HT3 HT4, Hes HT
+
+“TH, TIL T1213, TT4, Ts,
+
+Tre 4: (3m)
+
+/
+ok AR AK RK
+
+FR CK
+--- page 5 ---
+Lea (i-)y + Si” = 0
+aT = -
+1 Ci'+3i) x + (i yt
+
+-_— {m
+(41 +3i)x + ty -y +3) = o fim)
+Ec tai cu V_ Sie 0
+
+(&% <a SUL Vguty-3) =
+= ( 7 a
+
+a =O Btsy=s =O
+
+xu 3u+ -S =O
+42a-S=o6
+
+a= 5 (im)
+4
+yes. (im):
+4
+Le eoe a
+=| sec y =| dx (2m)
+
+= § fanz — xX + C: (2m):
+--- page 6 ---
+a= cos (x3) ) Minx)? dx
+
+| hick ai in =
+
+“i | Cos x3 : ree = a
+
+aa | dx
+
+~ w Cosa? x Av = at (2m)
+jo)
+
+3 - dt
+
+| oe kan dt 2m)
+a 3 S \ ;
+a - | |t a rex Ext +
+yo 3 Wo 3: 4 >
+= 2 (sinw)” +c:
+, oF (2m)
+b) | dy = x +3xyty*
+j Put eve.
+— | dyWe var dv (lm) «
+. irs ax
+1 ver dv = x+ 3x(vz) +vx*
+4 dx % *
+lv+ weedy = I+ 3BVvtV
+4 ax
+“Bi ecdv 2 [+ 2v+v~
+- Ax
+
+2 V +2v+l EZ
+
+7
+
+FEC 6 FC IG Ir
+--- page 7 ---
+Cae CL Be
+
+) (v4) Le
+— | = [log |x| +c’
+V+) t (2n)-—-——
+ee | = loa |x} +f.
+(4a)
+— :
+pt % = (i+ 2 rak)
+My = 2: -%: +k
+inp =, + 4e “2k: (4m) -
+m= Mx mz
+s Lb rf k..
+2-3 | (=i 45-ape
+| =e : (Om)
+Vecloy _@quachon \, .
+n= A+ Ame (1m)
+
+mitt Zk =(P+op+3k A fots-sieity)
+
+K-[ = y=2 = a2
+2 V5 — Choy)
+
+Cartesian en ‘
+N
+
+FR RK
+--- page 8 ---
+[pat =f Tar > OS b+ 24 TIS
+ae: TAP =i = 3 tok d= 4, —pr2k
+
+| Swenrres aS <
+= la! 1 +30 (Im
+| =a a =| 2.
+Dy | ldleJe +4
+B | =v, = =6i = 2j +R (Im)
+~ [d= vaera+i2) = viel = 164
+Vor V21 3 (im)
+Q3)
+Hala(iu), B22), (95), Dlo2 6)
+AB = —3t +3) + 2k: . : fy)
+= 30-3) +k 7
+Apxcp = |i ; k
+-3 3 2
+3-3 |
+| = Bi PR ok (2r0)
+—_| Unit vec of AB xepD = 4:+9;40k
+= ne
+(2m?
+—| Verb y of = = 4/% +4; ‘+0k |
+— ay,
+
+=—o<_ Cam =
+--- page 9 ---
+2h)
+aK
+
+r
+
+\ Ba! Tet dx.
+
+Pub x5 4p at
+Ga! = ct — (Im)
+cle
+Whin, e=—-)   £=O0°
+eee | pee (1m)
+2. 2
+(edt = (tedt (Cm)
+) )
+1°) ° 4.
+= LE (in)
+| 3/r d oe
+= 2.% 2J5 -
+3 | ; ,
+= We (im)
+--- page 10 ---
+3c) ( % da —
+2 (x) (x)
+x - A +Betec (Im)
+
+(eNeH) x1 x4!
+
+w= A(x) + Best) (Bato) lc)
+Y old | =) A = Yo
+k= =] 33 B = (3m)
+Ce Vox + Y2 dy (Im)
+
+7 tA aH TH
+= | log |ae-1| —1 xt] [x?H1] +1 tan’ (x)
+
+ze !f@e me.
+= J log |x-1] axl log [2+ +1 tar’ (x) F<.
+= 0 as 2 (3m):
+
+4a) A(ii1) Bf2,),3) C (32,2) D/3,3.4)
+
+AB =i +0, +2k ;
+Ae = 21 +) +k ( (om)
+Ab = 2i +9) +3k “
+
+Ag :(AcxAD)=[1 0 2
+
+2 | | (2 yn)
+2 2 3
+= 1(1)-o +2(q-2)
+= of RI)
+
+——_——_—F;
+
+= 5 (om)
+
+FOR 7 (RR KE
+--- page 11 ---
+| —__—
+
+—— ( ¢*. p= 4
+
+aw “
+
+- | 2x fe de = Cd (x?) fede dx
+)\ax (2m)
+
+=a mz = De 2 | da
+— x {2n)
+a ff 2 3 z
+
+" ms e Zu — x-e%% rs e 2% +C .
+iu 2 Du: a (2rn)*
+7 ae
+2 25-x* me \ Ex
+
+= [25=x* (Im) as eae
+n |
+Area =A f 25-1" dy
+
+aeix
+' 0
+— af x Ose + 25 sin /x\ |
+Pease 5 2 {$7 -|:
+lo 4le 4 28th = 0) Gums
+ra | \ a ee 7
+—e = 257 x¥ : (im)
+
+1 #
+
+DR ROR RK 11 FRR HR RK
+--- page 12 ---
+Sa)| zs Si + 3+T
+2ti 2-7
+
+z=:(3+i)(2- aie (sti) Gr)
+
+—____|z= ¢- erie paar ete
+
+5 (2n) -
+z= 10
+5
+Z= 940i (2m)
+
+Modulus = |zl|= J2+0~= 2 (\m)
+
+Amalitude = -tan' fo) = 0° " (lm)
+
+L2/
+
+b) | n(o}=*2C, = 1826 - Tim) «
+
+i) Both black carels
+
+n(A)= 7c, = 325
+
+P(Black) = @n(A) = 325° = 25 (om
+
+n(s) IS>26 0 ~ joa
+
+i) n(B) = ?c, x 39C, = 507
+
+P(B) = 507 = 164
+
+132-6 Tas. Can)
+
+i) n(c) = °C, X4 = 3)2 .
+
+P(c).= 312 229 24 7
+(aay Fy
+
+FOR ORR 7 ROR RK
+--- page 13 ---
+edt be the mass 6 substance acl -timet
+
+PL aM at oa Cm) Wheat = lo, Me 100
+— a loo = ee”? 200
+—" a =
+-_ am ="kmM e | (oi)
+- lo M= = hx ee ann
+M=¢- ro, _(Im) =(e*)*: 200
+~ | ohen = 0, M=200 i a
+200 = C, (\m)
+— J cis z qr
+— {ty ne
+‘pal _ESvATION ;
+n(o)= z| (An) 5 vow
+i) All Fonda -Logethn
+n(A)= 4 41 x51 = (im)
+P(AY= Alxs) = | (2m)
+
+2) I4
+
+ii) Stas: woth, Sata ke end voilh
+—|   (ensenadt
+
+n(p) = Bxax él _* (im)
+| p(B) = IGX6) = 1 (im)
+— 8] . ee |
+
+DR ROR RK 13 RRR RE
+--- page 14 ---
+— 6b) iy ae
+Cos 2 (05 21"
+
+ite Br + (0%
+
+= Vie (Les 3x: (er dn + Ces’ CesB% dy) en
+
+=VCY, (cas6x + tes0)+- Ip (car + 2x) 2
+
+19,,)
+sede
+
+= LC pesGx + 1 + Las 4% + 8s 24 ly
+4)
+- |]Ajnév +x + Ain 4x + Sin2e | +C-
+
+- 4 6 a a
+
+"4
+
+Ec) |= cosxtisinn b= & isin
+ab = uss (xt) + PSI (oMep)
+ab 3 faby!l* = 8 Por +}sin zy) (im)
+
+L247 Ne
+—_ ces fae) Fe pt sin [x tu)
+Jab ( 2) L 2)
+
+Qa yi
+
+
+5
+
+a z ca (a4) + _Tsin G4) (1mm)
+a C0s/%- 7
+
+fa) =p =) "= 1siofe-g)
+
+[b\ = [x-y) ~
+(ay af3 isin fou)
+> for |b) = Qca/e-
+
+Ye. Ne fsa) Gay
+
+FR 7 (RR KE
+--- page 15 ---
+Hy) P(H) = 0-6 p(6)= 0:4   P(Hae)=0'2
+
+P(H' ae’) = P(e!) = I~ P (HUE)
+
+| (H AE”
+
+= ~ |-[PCH PtH) +A) p(Hae)]
+r— | = J|-o8 ‘o'*2. (2)
+—_[i) p(E/H)= P(enH)- 0-2 = I
+
+r P(@an) 0-6 2 (2m)
+
+ny P(HJe)= PURME = 0-2 = 1 (om)
+P(E#) 0’4 2.
+
+b) (Sre6i") + (s7405) + fini -
+
+(s+6(* ri) (8¢1) +()*i ) +(-1- 1)
+
+(2m)
+
+(5+ (-¢3)) +(-8i + i) + (-2)
+
+(2m)
+
+= 54-6 — Sith 2
+
+= 3 —(3/ (2m)
+
+DR ROR RK 15 FRR
+--- page 16 ---
+Ic) lia = 3i = j 2k
+
+n= axe
+
+Se Re BS)
+2 ~s -I
+-s 4 0
+2 Aj +5y ~~ (2m)
+Ai +5{ 17k) * (xityl tk = (Gi-[ +o
+4(x-3) +5(y4i)—\7(z-2) ~0
+i) de [axe + buy +czotd
+: Jot rer ny
+d= © +06 +0 -— 6
+JTEG +16 (im)
+
+d=} ¢ | =¢
+26 | Inf - (Im)
+
+DR ROR RK 1G FRR HHH
 ````

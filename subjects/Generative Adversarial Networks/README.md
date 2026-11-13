@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | ANS_Generative Adversarial Networks(703DB0E022)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Generative Adversarial Network 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | QP_Generative Adversarial Networks(703DB0E022)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | ANS_Generative Adversarial Networks(703DB0E022)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | ANS_Generative Adversarial Networks(703DB0E022)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | QP_Generative Adversarial Networks(703DB0E022)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | ANS_Generative Adversarial Networks(703DB0E022)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Generative Adversarial Networks Batch 2024-25 Final.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

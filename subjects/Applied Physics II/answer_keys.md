@@ -1710,6 +1710,8 @@ For semiconductors: resistance decreases with temperature
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Applied Physics-II/ANS_Applied Physics-II(701BS0C031)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (11 pages), mean OCR confidence 50.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1758,7 +1760,6 @@ Shon
 
 owned 5 Mo dub
 UD kp 1
-Ree of each berm + eae) ig.
 
 eng
 »\ = TVennve S¥~ en §
@@ -1840,6 +1841,8 @@ RK KKK RK KK 11 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Applied Physics-II/ANS_Applied Physics-II(701BS0C031)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (11 pages), mean OCR confidence 50.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1888,7 +1891,6 @@ Shon
 
 owned 5 Mo dub
 UD kp 1
-Ree of each berm + eae) ig.
 
 eng
 »\ = TVennve S¥~ en §
@@ -1970,6 +1972,8 @@ RK KKK RK KK 11 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Applied Physics-II/ANS_Applied Physics-II(701BS0C031)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (11 pages), mean OCR confidence 50.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2018,7 +2022,6 @@ Shon
 
 owned 5 Mo dub
 UD kp 1
-Ree of each berm + eae) ig.
 
 eng
 »\ = TVennve S¥~ en §
@@ -2100,6 +2103,8 @@ RK KKK RK KK 11 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/Applied Physics-II/ANS_Applied Physics-II(701BS0C031)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (11 pages), mean OCR confidence 50.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2148,7 +2153,6 @@ Shon
 
 owned 5 Mo dub
 UD kp 1
-Ree of each berm + eae) ig.
 
 eng
 »\ = TVennve S¥~ en §
@@ -2230,6 +2234,7 @@ RK KKK RK KK 11 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Applied Physics-II/ANS_Applied Physics-II(701BS0C031)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (12 pages), mean OCR confidence 50.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2284,6 +2289,7 @@ RK KKK RK KK 12 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Applied Physics-II/ANS_Applied Physics-II(701BS0C031)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (12 pages), mean OCR confidence 50.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2338,6 +2344,7 @@ RK KKK RK KK 12 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Applied Physics-II/ANS_Applied Physics-II(701BS0C031)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (12 pages), mean OCR confidence 50.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

@@ -1,8 +1,346 @@
 # Engineering Mechanics II: question papers in full
 
-31 unique papers · 2013-14 to 2017-18 · Common (all branches)
+31 unique papers · 2013-14 to 2018-19 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2018-19 · Re-Exam · Sem 2 · paper 2a02d5397d81
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II ALL STREAMS BATCH 2015-16 2016-17 2017-18 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 April 2019
+- Text: ocr (5 pages), mean OCR confidence 87.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :B. Tech / MBA Tech (All Streams) ~ Year: I Semester: I
+
+Academic Year: 2018-2019
+Marks: 70 ~
+
+j ao Time: 10.00 am to 1.00 pm
+” Date: 17 April 2019 . Y
+
+Duration: 3 (hrs)
+No. of Pages:_ 5
+
+RE- Examination(2015-16 /2016-17 / 2017-18)
+
+) Subject: Engineering Mechanics-IT
+
+. Instructions: Candidates should read carefully the instructions printed on the questionffep
+the cover of the Answer Book, which is provided for their use.
+NB: .
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 Attempt all questions.
+a) State and proof perpendicular axis theorem. : (03)
+
+b) The motion of the particle is defined by the equation x = 4t* — 6t and y = 46 — 2t? (03)
+where x and y are in mm and‘t’ is in seconds. Determine velocity and acceleration when
+t= Isec.
+
+c) A body is rotating at an angular velocity of 5 rad/s. After 4 sec, the angular velocity of (04)
+body becomes 13 rad/s. Determine the angular acceleration of the body.
+
+d) Derive the equation for coefficient of restitution. (04)
+
+Q.2 a) Determine the coordinates of the centroid of the plane area shown in figure 1 with (07)
+
+reference to the axes shown. Take x = 40 mm.
+
+b) Find the Moment of inertia of I section (Figure 2) about X & Y axis. (07)
+--- page 2 ---
+ay
+
+1mm
+
+x
+
+ees
+$ 2x je kK ale dy ale ——~ OX 9
+
+Figure: 1 Figure: 2
+
+07)
+
+) m/s? where v (
+
+Q3 a) A rectilinear motion of a car is governed by the equation a = ( m7 = re
+
+is in m/s. Assuming that the car starts from rest, find the time taken and distance covered
+
+by the motor car to attain the velocity of 8 m/s.
+
+b) A stone is projected from point A with a velocity of 50 m/s at an angle 30° with (07)
+horizontal. At the same time another stone is projected in opposite direction with 40 m/s
+
+from a point 120 m from A on the same level. Find the angle of projection of second stone
+
+if the two stones collide. Also find co-ordinates of collision w.r.t. A.
+
+Q.4 a) Figure.3. shows car A and B at a distance of 35 m. Car A moves with constant speed (07)
+of 36 kmph and car B starts from rest with an initial acceleration of 1.5 = Determine
+
+relative position, velocity and acceleration of car B w.r-t. car A, five seconds after car A
+
+crosses the intersection.
+
+26 Kryfh
+--- page 3 ---
+Q5
+
+b) Pulley A starts from rest and rotates with
+a constant angular acceleration of 2 rad/
+s* anticlockwise. Pulley A causes double
+pulley B to rotate without slipping. Block
+C hangs by a rope wound on B, as shown
+in Figure.4. Determine at t= 3 sec.
+
+I. Acceleration, velocity and position
+
+of block C.
+Il. Acceleration of point P on pulley B.
+
+a) Figure. 5. shows two masses m, = 1 kg
+and mz =2kg connected by rope and
+rope passing over two smooth
+pulleys P, and P2. Mass m3=5kg is
+supported from the movable pulley P, . If
+the inclination of the inclined plane is a,
+where tana = 3/4 and coefficient of
+friction is 0.1, determine the motion of the
+
+system, neglecting the weight of pulley P, .
+
+b) In the system shown in
+Figure. 6. the pulleys are to
+be considered massless and
+frictionless. Determine the
+acceleration of each mass and
+
+tension in the fixed cord.
+
+3[5
+
+kg
+
+(07)
+
+(07)
+
+(07)
+--- page 4 ---
+4
+
+Q.6 a) Two bodies of 9 kg and 13.5 kg are (07)
+suspended on two ends of a string passing 2S mae a
+over a pulley of radius 275 mm and M.I. = ;
+16.5 kgm? as shown in Figure. 7.
+Determine the tensions in the strings and
+
+the angular acceleration of the pulley.
+
+9 ke 13.5kg
+
+Figure: 7
+b) Two small discs of masses 25 gm and 5 gm are kept on horizontal surface as shown in (07)
+Figure. 8. Second disc is strike by the first disc and produces direct central impact. After
+impact each disc slides and comes to resi. First slides 95 mm to the right and second slides
+480 mm to the right before coming to rest. Determine the value of coefficient of
+
+restitution. Assume common coefficient of friction for both discs.
+
+m,= 0.025 kg
+
+mz = 0.005 kg
+
+Hy = 0
+
+.¥ J ivy
+~ -
+Pig, 16.3
+Figure: 8
+Q.7 a) A 20 N block is released from rest. It
+slides down the rough incline of coefficient-
+of friction = 0.2. Determine the
+maximum compression of the spring. Also
+determine the distance moved by the block *
+when the energy is released from oe 7,
+compressed spring. (Figure. 9.) a
+me
+{f> yA a0
+Figure: 9
+
+b) A block of wood weighing 10 kg is suspended as shown in Figure. 10. A bullet (07)
+weighing 30 gms is fired with a velocity of 1200 m/s into the block. Calculate (i) the
+
+45
+--- page 5 ---
+velocity of the block and bullet after the bullet becomes fully embedded in the block and
+(ii) the angle by which the string will swing from the vertical.
+
+6 m|
+
+:
+1200 m/s A
+
+vine geese
+
+[aie as
+
+Figure: 10
+
+5[5
+````
+
+## 2018-19 · Re-Exam · Sem 2 · paper 237abf666dee
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS-II. ALL STREAMS BATCH 2015-16 2016-17 2017-18 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 15 June 2019
+- Text: ocr (3 pages), mean OCR confidence 89.5
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+* SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech / MBA Tech (All Streams) Year: I- Semester:
+Academic Year: 2018-2019
+
+Subject: Engineering Mechanics-II -
+Date: 15 June 2019 ~
+
+; . No. of Pages: :
+Re- Examination (2015-16 /2016-17 / 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions attempt any four questions.
+
+3. Inall five questions to be attempted.
+
+4, All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 a) State and prove perpendicular axis theorem of Moment of'Inertia. (03)
+
+b) Water drips from a faucet at the rate of 5 drops per second. The faucet is 900 mm above _—(03)
+the sink. When one drop strikes the sink how far is the next drop above the sink?, _
+
+c) A wheel rotating about a fixed axis at 15 rpm is uniformly accelerated for 6 sec during (04)
+which it makes 30 revolutions. Find 1) angular velocity in rpm at the end of the interval, 2)
+
+time required to attain a speed of 30 rpm
+
+d). Explaivexpression for Coefficient of Restitution of two colliding bodies. (04)
+Q.2 a) Find the Centriod of the shaded area shown in figure 1. (07)
+b) Find the Moment of inertia of shaded area (Figure 2) about - (07)
+4 yA .
+ismm 20-7) CZ 20-4
+Ye
+7 Wyte
+Ye
+Yea
+WA? Oh
+WH ‘
+Fa) a le 20-4 —— 40-—> | 2044 x
+
+Figure 1 Figure 2
+--- page 2 ---
+Q3 aj In an Asian Games of 200 m event an athlete accelerates uniformly from the start to his (07)
+
+maximum velocity in a distance of 4m and runs the remaining distance with that velocity. If
+_ the athlete finishes the race in 20:4seconds, determine i) his initial acceleration, ii) his
+
+maximum velocity.
+
+b) A shuttle cock hit with a velocity Vo from point A just crosses the fence at the top of its (07)
+he trajectory at B and lands on the ground at C, as shown in figure 3. Find i) Initial velocity Vo,
+ii) height h of the fence, iii) Range R to point C. Refer figure 3.
+
+“is — | Figure 4
+ie R —F
+Figure 3
+
+Q4 a) Figure 4, shows a collar B which moves up with constant velocity of 2 m/s. To the collar (07)
+is pined a rod AB. The end A of which slides freely against a 30° sloping ground. For this
+instant, determine the angular velocity of the rod and velocity of end A of the rod.
+
+b) A point moves along a path y = x’/3 with a constant speed .18:m/s. What are the x and y (07)
+components of its velocity when x=3? What is the acceleration of the point at this instant?
+
+Q5 a) Three particles M1, M2 & M3 of masses 15Kg, 2Kg & iKg respectively are placed ona (07)
+
+rough surface _as shown in figure 5. Ifa force F is applied to accelerate the blocks at 5
+m/s”, what will be the force that 1.5Kg block exerts on 2Kg block? (Coefficient of friction =
+0.20)
+
+b) Figure 6, shows block A (1 kg), B (3 kg) and C (5 kg) supported by strings passing over (07)
+
+smooth and massless pulleys D and E. determine the acceleration of these blocks.
+
+Fage 2/2,
+--- page 3 ---
+"RNMANRAN NAR ANS
+
+F M2 . —_
+—| Mi M3 va
+
+Figure 5
+
+Figure 6
+Q.6 a) A 500 N block is released from the rest. It slides down the inclined having p= 0.2 as (07)
+
+shown in figure 7. Determine the maximum compression of the spring and the distance
+moved by the block when the energy is released from compressed spring, Spring constant k=
+
+2000 N/m.
+
+b) Two identical billiard balls collide with velocities as shown in figure 8. Find the (07)
+velocities of the balls after impact. Also find the percentage loss of kinetic energy. Take e =
+
+0:9.
+
+: Figure-8-
+Figure 7
+
+Q.7 a) For the acceleration-time diagram of a particle shown in Figure 9, Calculate velocity at (07)
+the end of 3 sec. and distance traveled in 4 sec. Also plot the S-t and V-t curves.
+
+Figure 9
+b) The acceleration of a particle performing rectilinear motion is given by a = - 0.05v? (07)
+m/s”, Knowing that v=20 m/s at x=0, find: i) the position of the particle at v = 15 m/s, ii) the
+
+particle’s acceleration at x = 50 mn.
+
+rage 3/2
+````
 
 ## 2017-18 · Exam not stated · Sem 2 · paper 6d5286e3ca9a
 
@@ -430,208 +768,148 @@ Q-7-b) If the coefficient of restitution is 0.7, determine magnitude and directi
 impact. [7M]
 ````
 
-## 2017-18 · Re-Exam · Sem 2 · paper 2a02d5397d81
+## 2017-18 · Final-Exam · Sem 2 · paper 65f129a19bd2
 
 - Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II ALL STREAMS BATCH 2015-16 2016-17 2017-18 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 April 2019
-- Text: ocr (5 pages), mean OCR confidence 87.4
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II (ALL STREAMS), 20174-18 FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 11 May 2018
+- Text: ocr (3 pages), mean OCR confidence 89.0
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Program :B. Tech / MBA Tech (All Streams) ~ Year: I Semester: I
+. Programme:B. Tech (All Streams) Year: I Semester: II
 
-Academic Year: 2018-2019
-Marks: 70 ~
+/ . ¢ 2
+é Academic Year: 2017-2018
 
-j ao Time: 10.00 am to 1.00 pm
-” Date: 17 April 2019 . Y
+*‘Subject:Engineering Mechanics — II
 
-Duration: 3 (hrs)
-No. of Pages:_ 5
+o Marks:70 -
+Date:11 May 2018 Time: 10.00 am aritde Ee
+© Durations: 3 (hrs) aieas Vt ane
+No. of Pages : (2)
+Final Examination (2017-18) / Re-examination (2015-16 / 2016-17)
+a -
 
-RE- Examination(2015-16 /2016-17 / 2017-18)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. ©
 
-) Subject: Engineering Mechanics-IT
+1) Question No. lis compulsory.
 
-. Instructions: Candidates should read carefully the instructions printed on the questionffep
-the cover of the Answer Book, which is provided for their use.
-NB: .
+2) Out of remaining questions, attempt any 4 questions.
 
-1. Question No. 1 is compulsory.
+3) In all 5 questions to be attempted.
 
-2. Out of remaining questions attempt any four questions.
+4) All questions carry equal marks.
 
-3. In all five questions to be attempted.
+5) Answer to each new question to be started on a fresh page.
 
-4. All questions carry equal marks.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
 
-5. Answer to each new question to be started on a fresh page.
+Q.1 Attempt ALL questions.
 
-6. Figures in brackets on the right hand side indicate full marks.
+A) State & derive expression for acceleration in case of curvilinear motion: [4M]
+B) Explain Parallel Axis Theorem. [4M]
+C) Explain principle of Conservation of Momentum. [3M]
+D) Explain D’Alembert’s Principle. [3M]
+Q.2.a_ Find centroid of shaded area Shown in the Figure y, [7M]
 
-Q.1 Attempt all questions.
-a) State and proof perpendicular axis theorem. : (03)
+25m
 
-b) The motion of the particle is defined by the equation x = 4t* — 6t and y = 46 — 2t? (03)
-where x and y are in mm and‘t’ is in seconds. Determine velocity and acceleration when
-t= Isec.
+Q.2.b Find moment of Inertia about XX axis of shaded area || 25m [7M]
+shown in Fig.
 
-c) A body is rotating at an angular velocity of 5 rad/s. After 4 sec, the angular velocity of (04)
-body becomes 13 rad/s. Determine the angular acceleration of the body.
+2.5m
 
-d) Derive the equation for coefficient of restitution. (04)
+OL
 
-Q.2 a) Determine the coordinates of the centroid of the plane area shown in figure 1 with (07)
-
-reference to the axes shown. Take x = 40 mm.
-
-b) Find the Moment of inertia of I section (Figure 2) about X & Y axis. (07)
+{2.5 m,| 2.5 m,|
 --- page 2 ---
-ay
+Q.3.a A car starting from rest travels along a straight road [7M]
+. and for 50 sec has an acceleration as shown in the a (m/s*)
+figure. Find the distance travelled in 50sec.
 
-1mm
+\
 
-x
+i a=1/25t?
 
-ees
-$ 2x je kK ale dy ale ——~ OX 9
+t (s)
 
-Figure: 1 Figure: 2
+25 50
 
-07)
+Q.3.b Determine the position at which a ball thrown up Ay [7M]
+‘to the right will strike the inclined surface shown :
+in figure. The initial velocity of the ball is 40m/s
+directed at,a = tan!(3/4) with the horizontal.
 
-) m/s? where v (
+Q.4.a In the system of pulleys, masses and connecting
+inextensible cables shown in the figure, the
+pulleys and the cables are considered massless
+and frictionless. Mass of A = 8kg, mass of B =
+10kg and mass of C = 19 kg. If the system is
+released from rest find: [a] Tension in each of - ‘
+cable. [b] Acceleration of each of the three
 
-Q3 a) A rectilinear motion of a car is governed by the equation a = ( m7 = re
+masses. /
+—1T1.
+B
+10 kg
 
-is in m/s. Assuming that the car starts from rest, find the time taken and distance covered
+Q.4.b The force P=90N is applied to the system, which ake [7M]
+is initially at rest. Determine the speeds of 8 kg
+and 12kg masses after 8kg mass has moved 0.6m.
+Neglect friction.
 
-by the motor car to attain the velocity of 8 m/s.
+[7M]
 
-b) A stone is projected from point A with a velocity of 50 m/s at an angle 30° with (07)
-horizontal. At the same time another stone is projected in opposite direction with 40 m/s
+P=90N
 
-from a point 120 m from A on the same level. Find the angle of projection of second stone
-
-if the two stones collide. Also find co-ordinates of collision w.r.t. A.
-
-Q.4 a) Figure.3. shows car A and B at a distance of 35 m. Car A moves with constant speed (07)
-of 36 kmph and car B starts from rest with an initial acceleration of 1.5 = Determine
-
-relative position, velocity and acceleration of car B w.r-t. car A, five seconds after car A
-
-crosses the intersection.
-
-26 Kryfh
+12 Kg
 --- page 3 ---
-Q5
+Q.5.a Figure shows a collar B which moves upwards [7M]
+with a constant velocity of 4.0 m/s. At the instant
+when 0 = 30° determine (i) the angular velocity of
+rod AB which is pinned at B and is freely resting
+at A against 20° slope and (ii) the velocity of end
+A of the rod. Neglect size of the collar B &
 
-b) Pulley A starts from rest and rotates with
-a constant angular acceleration of 2 rad/
-s* anticlockwise. Pulley A causes double
-pulley B to rotate without slipping. Block
-C hangs by a rope wound on B, as shown
-in Figure.4. Determine at t= 3 sec.
+’ friction at A & B.
 
-I. Acceleration, velocity and position
+Q.5.b Two identical balls each of mass m collide with ~ [7M]
+velocities as shown in the figure. Find the final A Y 8B
+velocities of the balls after impact. }- oN
+Assume e=0.6 ; a 5°
 
-of block C.
-Il. Acceleration of point P on pulley B.
+Q.6.a_ A pulley of mass M.I. = 20 kgm? is acted upon by [7M]
+two masses (20kg and 25kg) as shown in the
+figure, calculate the angular acceleration of the
+pulley. The string connecting the two masses is
+massless, @lso calculate the tensions in thé string.
 
-a) Figure. 5. shows two masses m, = 1 kg
-and mz =2kg connected by rope and
-rope passing over two smooth
-pulleys P, and P2. Mass m3=5kg is
-supported from the movable pulley P, . If
-the inclination of the inclined plane is a,
-where tana = 3/4 and coefficient of
-friction is 0.1, determine the motion of the
+475 mm
+1 =20 Kgre2
 
-system, neglecting the weight of pulley P, .
+20kg 25 Kg
 
-b) In the system shown in
-Figure. 6. the pulleys are to
-be considered massless and
-frictionless. Determine the
-acceleration of each mass and
+Q.6.b The acceleration of the particle is defined by the relation a = 50 - 10x? mm/s”. The particle [7M]
+starts with no initial velocity at the position x = 0. (a) Determine the velocity when x = 5
+mm _ (b) the position when velocity is again zero (c) position where the velocity is maximum.
 
-tension in the fixed cord.
+Q.7.a Ina flood relief area a helicopter going vertically up with a constant velocity drops first batch [7M]
+of food pockets which take 2 seconds to reach the ground. No sooner this batch reaches the
+ground, second batch of food packets are released and this batch takes 5 seconds to reach the
+ground. From what height was the first batch released? Also determine the velocity with
+which the helicopter is moving up?
 
-3[5
+Q.7.b The position vector of a particle is given by r = (6t) i+(7t?)j (m) where t is in seconds. Att= [7M]
+Ssec, determine: (a) the magnitudes of normal and tangential components of acceleration of
+the particle and (b) the radius of curvature of the path.
 
-kg
-
-(07)
-
-(07)
-
-(07)
---- page 4 ---
-4
-
-Q.6 a) Two bodies of 9 kg and 13.5 kg are (07)
-suspended on two ends of a string passing 2S mae a
-over a pulley of radius 275 mm and M.I. = ;
-16.5 kgm? as shown in Figure. 7.
-Determine the tensions in the strings and
-
-the angular acceleration of the pulley.
-
-9 ke 13.5kg
-
-Figure: 7
-b) Two small discs of masses 25 gm and 5 gm are kept on horizontal surface as shown in (07)
-Figure. 8. Second disc is strike by the first disc and produces direct central impact. After
-impact each disc slides and comes to resi. First slides 95 mm to the right and second slides
-480 mm to the right before coming to rest. Determine the value of coefficient of
-
-restitution. Assume common coefficient of friction for both discs.
-
-m,= 0.025 kg
-
-mz = 0.005 kg
-
-Hy = 0
-
-.¥ J ivy
-~ -
-Pig, 16.3
-Figure: 8
-Q.7 a) A 20 N block is released from rest. It
-slides down the rough incline of coefficient-
-of friction = 0.2. Determine the
-maximum compression of the spring. Also
-determine the distance moved by the block *
-when the energy is released from oe 7,
-compressed spring. (Figure. 9.) a
-me
-{f> yA a0
-Figure: 9
-
-b) A block of wood weighing 10 kg is suspended as shown in Figure. 10. A bullet (07)
-weighing 30 gms is fired with a velocity of 1200 m/s into the block. Calculate (i) the
-
-45
---- page 5 ---
-velocity of the block and bullet after the bullet becomes fully embedded in the block and
-(ii) the angle by which the string will swing from the vertical.
-
-6 m|
-
-:
-1200 m/s A
-
-vine geese
-
-[aie as
-
-Figure: 10
-
-5[5
+ee: ¥/,
 ````
 
 ## 2017-18 · Re-Exam · Sem 2 · paper 76f70f584b13
@@ -788,140 +1066,6 @@ m high to hit a bird. The bullet misses its target and finally lands on the grou
 the maximum height reached by the bullet above the ground, b) total time of flight and c)
 
 horizontal range of the bullet.
-````
-
-## 2017-18 · Re-Exam · Sem 2 · paper 237abf666dee
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS-II. ALL STREAMS BATCH 2015-16 2016-17 2017-18 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 15 June 2019
-- Text: ocr (3 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-* SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech / MBA Tech (All Streams) Year: I- Semester:
-Academic Year: 2018-2019
-
-Subject: Engineering Mechanics-II -
-Date: 15 June 2019 ~
-
-; . No. of Pages: :
-Re- Examination (2015-16 /2016-17 / 2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions attempt any four questions.
-
-3. Inall five questions to be attempted.
-
-4, All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 a) State and prove perpendicular axis theorem of Moment of'Inertia. (03)
-
-b) Water drips from a faucet at the rate of 5 drops per second. The faucet is 900 mm above _—(03)
-the sink. When one drop strikes the sink how far is the next drop above the sink?, _
-
-c) A wheel rotating about a fixed axis at 15 rpm is uniformly accelerated for 6 sec during (04)
-which it makes 30 revolutions. Find 1) angular velocity in rpm at the end of the interval, 2)
-
-time required to attain a speed of 30 rpm
-
-d). Explaivexpression for Coefficient of Restitution of two colliding bodies. (04)
-Q.2 a) Find the Centriod of the shaded area shown in figure 1. (07)
-b) Find the Moment of inertia of shaded area (Figure 2) about - (07)
-4 yA .
-ismm 20-7) CZ 20-4
-Ye
-7 Wyte
-Ye
-Yea
-WA? Oh
-WH ‘
-Fa) a le 20-4 —— 40-—> | 2044 x
-
-Figure 1 Figure 2
---- page 2 ---
-Q3 aj In an Asian Games of 200 m event an athlete accelerates uniformly from the start to his (07)
-
-maximum velocity in a distance of 4m and runs the remaining distance with that velocity. If
-_ the athlete finishes the race in 20:4seconds, determine i) his initial acceleration, ii) his
-
-maximum velocity.
-
-b) A shuttle cock hit with a velocity Vo from point A just crosses the fence at the top of its (07)
-he trajectory at B and lands on the ground at C, as shown in figure 3. Find i) Initial velocity Vo,
-ii) height h of the fence, iii) Range R to point C. Refer figure 3.
-
-“is — | Figure 4
-ie R —F
-Figure 3
-
-Q4 a) Figure 4, shows a collar B which moves up with constant velocity of 2 m/s. To the collar (07)
-is pined a rod AB. The end A of which slides freely against a 30° sloping ground. For this
-instant, determine the angular velocity of the rod and velocity of end A of the rod.
-
-b) A point moves along a path y = x’/3 with a constant speed .18:m/s. What are the x and y (07)
-components of its velocity when x=3? What is the acceleration of the point at this instant?
-
-Q5 a) Three particles M1, M2 & M3 of masses 15Kg, 2Kg & iKg respectively are placed ona (07)
-
-rough surface _as shown in figure 5. Ifa force F is applied to accelerate the blocks at 5
-m/s”, what will be the force that 1.5Kg block exerts on 2Kg block? (Coefficient of friction =
-0.20)
-
-b) Figure 6, shows block A (1 kg), B (3 kg) and C (5 kg) supported by strings passing over (07)
-
-smooth and massless pulleys D and E. determine the acceleration of these blocks.
-
-Fage 2/2,
---- page 3 ---
-"RNMANRAN NAR ANS
-
-F M2 . —_
-—| Mi M3 va
-
-Figure 5
-
-Figure 6
-Q.6 a) A 500 N block is released from the rest. It slides down the inclined having p= 0.2 as (07)
-
-shown in figure 7. Determine the maximum compression of the spring and the distance
-moved by the block when the energy is released from compressed spring, Spring constant k=
-
-2000 N/m.
-
-b) Two identical billiard balls collide with velocities as shown in figure 8. Find the (07)
-velocities of the balls after impact. Also find the percentage loss of kinetic energy. Take e =
-
-0:9.
-
-: Figure-8-
-Figure 7
-
-Q.7 a) For the acceleration-time diagram of a particle shown in Figure 9, Calculate velocity at (07)
-the end of 3 sec. and distance traveled in 4 sec. Also plot the S-t and V-t curves.
-
-Figure 9
-b) The acceleration of a particle performing rectilinear motion is given by a = - 0.05v? (07)
-m/s”, Knowing that v=20 m/s at x=0, find: i) the position of the particle at v = 15 m/s, ii) the
-
-particle’s acceleration at x = 50 mn.
-
-rage 3/2
 ````
 
 ## 2016-17 · Final + Re-Exam · Sem 2 · paper de19c4243d0e
@@ -1396,6 +1540,301 @@ the particle and (b) the radius of curvature of the path.
 43
 ````
 
+## 2016-17 · Re-Exam · Sem 2 · paper dd0622f18b6e
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II B TECH (ALL STREAMS), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 12 May 2017
+- Text: ocr (3 pages), mean OCR confidence 89.7
+
+````text
+eee
+
+<0 8T0 9 ay, .
+Pye of a.
+
+Ha aa
+
+i et LIBRARY
+
+cA
+
+i.
+
+SVKM’s NMIMS Cr bd
+
+Programme: B. Tech (All Streams) Year: I
+
+Batch: 2014 - 2015
+Academic Year: 2016-2017
+
+Subject: Engineering Mechanics - II
+Marks: 60
+Date: 12 May 2017 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: _%
+Re-Examination .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. .
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary,
+
+S\TAKE Q= 4-81 m]s%
+
+Qi Attempt any three questions:
+
+(a) Explain Centre of gravity, [04]
+(b) Explain D Alembert’s Principle. [04]
+(c) Explain Instantaneous Centre of Rotation for the velocity for bodies in Plane Motion, [04]
+(d) Explain Work Energy Principle. [04]
+(e) Explain Principle of Conservation of Momentum. [04]
+Q.2 (a) | Find the Centroid of the shaded area shown |__#Y [06]
+
+in figure i
+
+ke
+--- page 2 ---
+Q.2 (b) | Find the Moment of Inertia of the shaded A [06]
+area about given AB axis.
+
+im
+
+im
+
+R=2m
+
+B
+Q.3 (a) | In an Asian Games of 100 m event an athlete accelerates uniformly from the start to his | [06]
+maximum velocity in a distance of 4m and runs the remaining distance with that velocity.
+If the athlete finishes the race in 10.4 seconds, determine (i) his initial acceleration, (ii) his
+maximum velocity.
+
+Q.3(b) | A ball is projected from A with a speed of Y [06]
+3m/s at an angle of 25° as shown in figure.
+Determine the coordinated of point B at amis
+which the ball will hit the plane, which is
+25° below the horizontal. | .
+
+0
+
+Q.4 (a) | A particle moves along a circle of radius 20 cm so that S=20zt? cm. Find its tangential and | [06]
+normal accelerations after it has completed a revolution.
+
+Q.4(b) | Figure shows acceleration versus time | a (m/s?) [06]
+diagram for a particle moving along x-
+axis. Draw velocity-time diagram and
+displacement-time diagram. Find the
+speed and distance covered by the particle
+after 50 s. Also find the maximum speed
+and the time at which the speed is attained
+by the particle.
+
+Q.5(a) | A slider crank mechanism is shown in [06]
+figure. The crank OA _ rotates
+anticlockwise at 100 rad/s. Find the
+angular velocity of rod AB and the
+velocity of slider at B.
+
+2(8
+--- page 3 ---
+Q.5(b) | In the system of pulleys, masses and [06]
+connecting inextensible cables shown in
+the figure, the pulleys and the cables are
+considered massless and _ frictionless.
+Mass of A = 2kg, mass of B = 4kg and
+mass of C = 6kg. If the system is released
+from rest find: [a] tension in each of three
+cables.[b] acceleration of each of the three
+masses.
+
+A Lp teg
+
+Q.6 (a) | Two blocks A (10kg mass), B (28 kg
+mass) are separated by 12 m as shown in
+figure. If the block starts moving, find the
+time‘t’ when the blocks collide. Assume
+= 0.25 for block A and plane and p= 0.10
+for block B and plane.
+
+{06}
+
+Q.6 (b) | A uniform bar AB of mass 'm' and length XOur D [06]
+'L' is supported by wire CD as shown in
+figure. Determine :
+
+(i) The angular acceleration of bar AB. /
+(ii) The linear acceleration of free end B. ca 5h 2L/3 |
+
+(iii) The reaction at the hinged support A
+
+at the instant the wire is cut suddenly.
+
+Q.7(a) | A 20 N block is released from rest. It [06]
+slides down the inclined having p = 0.2 as \e
+shown in figure. Determine the maximum
+compression of the spring and the distance
+moved by the block when the energy is
+released from compressed spring. Spring
+constant k= 100N/m.
+
+H=0.2
+
+30°
+
+Q.7 (b) | Two particles of masses 10 kg and 20 kg are moving along a straight line towards each other | [06]
+at velocities of 4m/s and | m/s respectively. If e = 0.6, determine the velocities of the
+particles immediately after their collision and loss of K.E.
+
+3/3
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper c4be9d2391e3
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 11 July 2017
+- Text: ocr (3 pages), mean OCR confidence 88.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) ~ Year:I Semester: I] ~
+
+Batch: 2014-2015 ge
+Academic Year: 2016-2017 se
+
+Subject: Engineering Mechanics ~ II co a PSTMB
+Marks: 60 Sa LIBRARY }
+Date: 11 July 2017 Time: 2.00 pm\t > SHAQ pm Oo
+Durations: 3 (hi aus wane
+No. of Pages:
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt Any 4 questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Take acceleration due to gravity (g) =9.81 m/s°.
+
+Q.1 Solve
+a Explain perpendicular axis theorem. [3]
+b Explain work energy principle [3]
+c Explain D’Alembert’s principle [3]
+d Explain Impulse-momentum principle [3]
+Q.2.a | Find the centroid of the area shown in figure. [6]
+\OO WY) TY)
+FS ry -— 100 MAD —t
+Q.2.b Determine the moment of inertiag ae, naad x axis and transfer it to the [6]
+
+centroidal x axis using parallel axis theo
+--- page 2 ---
+Q.3.a | A particle is travels along a straight path such that in 4 seconds, it moves [6]
+from an initial position A = - 8m to position B = +3m. thjen in another 5
+seconds it moves from B to C= - 6m. Determine the particles average velocity
+and average speed during 9 seconds interval. |
+
+Q.3.b | A particle has a straight line motion given by the equation x= t3- 2t?- 4 where [6]
+
+t is in sec, what is the change in displacement when velocity changes from 4
+m/s to 32 m/s. _
+
+Q.4.a | The v-t diagram for a particle moving along straight line is shown in the [6]
+
+figure. Knowing that x= -10m at t=0. Plot x-t and a-t diagram.
+
+a
+
+Q.4.b A particle travels on a circular path whose arc distance travelled is defined [6]
+
+by s=0.5 t3 + 3t, if the total acceleration is 10m/s? and t=2 sec, find the radius
+
+of curvature? _ . a _
+
+Q.5.a | An aeroplane is flying in horizontal direction with a velocity of 540 km/hr [6]
+and at.a height of 2200m. When it is vertically above the point A on the
+ground, a body is dropped from it. The body strikes the ground at point B.
+Calculate the distance AB, also find the velocity at B and the time taken to
+reach B.
+
+22.00r)
+
+——L. Lec]
+
+A B
+
+| Q.5.b | Two trains leave a station in different directions at the same instant. Train A | [6]
+travels at 36kmph at 10° west of north while train B travels at 45kmph at 60°
+ge east of north. Find the relative velocity of train A w.r.t. train B and the
+: distance between the two trains after 2 minutes.
+
+15
+--- page 3 ---
+Q.6.a | Two blocks A and B are held stationary 10m apart on a 200 inclines plane. | [¢j
+The coefficient of kinetic friction between plane and body A is 0.3, whereas
+between the plane and body B is 0.1. if the blocks are released
+simultaneously, calculate the time taken and distance travelled by each
+block before they are at the verge of collision.
+
+-
+
+Q.6.b A wagon weights 490kN starts from rest, run 30m down on the inclined (6)
+surface and strikes a post. If the rolling resistance of the track is 5 N/KN, find
+the velocity of wagon when it stikes the post. If the impact is to be
+cushioned by means of bumper spring having k= 14.7 kN/mm, determine the
+maximum compression of the bumper spring.
+
+Q.7.a A glass marble whose mass is 2 grams falls [4]
+from 2m height and rebounds to a height
+of 1.5 m find the impulse and the average f )
+force between the marble and floor, if the i :
+time during which they are in contact is orn 4 )
+0.08 seconds. |, vy hem
+an @) Of
+
+Q.7.b A homogeneous rod OA of length | [6}
+600mm and mass 10kg is rigidly B
+attached to another uniform rod
+BC of length 300mm and mass 2kg
+
+at A as shown in the figure. The
+
+system is hinge connected at O 0.34
+and is released from rest in 7
+
+horizontal position. Determine —— 06m ——> |
+
+. angular acceleration about O just
+
+pe after the release. c
+````
+
 ## 2015-16 · Final-Exam · Sem 2 · paper 66f162202b9b
 
 - Departments: Common (all branches)
@@ -1561,6 +2000,203 @@ Figure 10 Figure 11
 __—
 ````
 
+## 2015-16 · Re-Exam · Sem 2 · paper 0d81ea3acdbe
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II ALL STREAMS BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 04 July 2016
+- Text: ocr (4 pages), mean OCR confidence 88.0
+
+````text
+4 SVKM’s NMIMS __ .~_qqett 8?
+MUKESH PATEL SCHOOL OF TECHNOLOGY mAyStunienT NEERING
+
+i J ; : 7. & He
+
+Programme: B.Tech (All Streams), 7 ae I af Fe Bomester: I
+4
+*
+Academic Year: 2015-16 Seed
+Batch: 2014-15 -
+Subject: Engineering Mechanics- II . Marks: 60 ° ;
+Time: 2.00 pm — 5.00 pm
+
+Date: 04 July 2016. Durations: 3 (hrs).
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+NB: “
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions attempt any four questions.
+. 3.” In all five questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 Solve Any Four:
+a) Define Centre of gravity, Moment of Inertia and Polar Moment of Inertia. (03)
+
+b) Motorist is travelling at 80 kmph, when he observes a traffic light 200 m ahead of him (03) |
+turns red. The traffic light is timed to stay red for 10 seconds. If the motorist wishes to pass
+
+the light without stopping, just as it turns green, determine i) the required uniform
+deceleration of the motor and ii) the speed of the motor as it passes the light.
+
+c) A tub of washing machine is rotating at 60 rad/sec when the power is switched off. The (03)
+tub makes 49 revolutions before coming to rest. Determine the constant angular deceleration
+
+of the tub and time it takes to come to rest.
+
+d) Explain the D Alembert’s Principle with example. (03)
+e) State Work Energy Principle with example and define Coefficient of Restitution. (03)
+Q.2 a) Find the Centroid of 4 (06)
+
+plane lamina shown in
+figure 1. Shaded area
+
+is removed.
+
+1G—- 4OO mm al
+
+Figure: 1
+--- page 2 ---
+b) For the plane area ¥
+
+shown in Figure 2,
+
+(06)
+4~ 60 He 80 i ;
+find the moment of r " ™ >
+
+2
+
+Figure: 2
+
+inertia about centroidal
+
+axis.
+
+r= 1$mm
+
+Q3 a) A small steel ball is shot vertically upwards from the top of a building 25 m above the
+
+06
+_ ground with an initial velocity of 18 m/sec. i) In what time, it will reach the maximum (05)
+
+height? ii) How high above the building will the ball rise? iii) Compute the velocity with a
+
+which it will strike the ground and the total time it is in motion.
+
+b) A point moves along a curved path y = 0.4 x”. Atx =2 m its speed is 6 m/s increasing at3 (06)
+
+m/s”. At this instant find i) Velocity components along x and y direction ii) its acceleration.
+
+Q.4 a) A ball is dropped vertically on a 20° incline plane at A, the direction of rebound forms an (06)
+
+angle of 40° with the vertical. Knowing the ball next strikes the incline at B, determine i) the
+
+velocity of rebound at A and ii) the time required for the ball to travel from A and B. Refer
+figure 3.
+
+b) Figure 4, shows the location of cars A and B at t= 0. Car A starts from rest and travels (06)
+towards the intersection at a uniform rate of 2 m/s”. Car B travels towards the intersection at
+
+a constant speed of 8 m/s. Determine relative position, velocity and acceleration of car B ~
+w.r.to car A at t = 6 sec.
+
+A
+0
+
+e 50m
+6 o
+
+ae
+q a *
+
++9
+
+j
+
+i
+' 30m
+
+Sy
+
+Figure: 3 5
+
+Figure: 4
+--- page 3 ---
+Q5 a) Two blocks A and B are placed 15 m apart and are released simultaneously from rest, (06)
+
+Calculate the time taken and the distance traveled by each block when they collide.
+
+b) Package A of mass 25 kg is being pulled up the incline by a load B of mass 60 kg (06)
+
+: a |
+; ) . 2 01 ON :
+—. __- — Y
+‘
+
+=> Figure: 5
+
+Figure: 6
+a) A 20 N block slides with initial velocity of 2 m/s down an inclined plane on to a spring of (06)
+modulus 100 N/m for a distance of 1 mas shown in fii
+
+Q.6
+
+gure 7. Find maximum compression of
+the spring neglecting friction.
+
+b) Two small discs of masses 25 gm and 5 gm are kept on horizontal surface as shown in
+figure 8. Second disc is striked by the first disc and produces direct central impact. After
+each disc slides and comes to rest, F irst slides 95 mm to the right and second slides 480 mm
+
+to the right before coming to rest. Determine the value of Coefficient of restitution. Assume
+common coefficient of friction for both discs.
+
+(06)
+>
+
+0.025kg
+: mz = 0.005 kg
+
+Figure: 8
+
+Figure: 7
+--- page 4 ---
+Q.7 a) The acceleration- time diagram for the linear motion is shown in figure 9. Construct (06) |
+
+Velocity- time and displacement- time diagram for the motion.
+
+a A 3 r/c
+(me?)
+iS 20
+5 \o : + (sec)
+
+—8 m/s?
+Figure: 9
+b) Figure 10 shows a collar B which moves up with constant velocity of 2 m/s. Rod AB is (06) |
+pinned to the collar, the end A of which slides freely against a 30° slopping ground. For this
+
+instant, determine the angular velocity of the rod and velocity of end A of the rod.
+
+»
+
+Abhadyiiibuid
+
+TPEIFITIP EP ET
+
+ath
+
+4fy
+````
+
 ## 2015-16 · Re-Exam · Sem 2 · paper ff9c1531bc3e
 
 - Departments: Common (all branches)
@@ -1720,6 +2356,438 @@ impulsive force exerted on the ball
 during the impact. Figure: 7
 
 Aly
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper d689c7e40f8c
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 13/05/2016
+- Text: ocr (4 pages), mean OCR confidence 88.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (All Streams) Year: I Semester: II
+Academic Year: 2015-16
+
+Batch: 2013-14
+
+Subject: Engineering Mechanics - II
+
+Date: 13/05/2016
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions attempt any four questions.
+
+3. Inall five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started ona fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 Solve Any Four:
+
+a) State and Prove the perpendicular axis theorem. (05)
+
+b) Determine the time required for a car to travel 1 km along a road if the car starts from the (05);
+rest, reaches a maximum speed at some intermediate point, and then stops at the end of the
+
+road. The car can accelerates or decelerate at 1.5 m/s”.
+
+c) A flywheel starts from rest and afier half a minute rotates at 2000 rpm. Calculate the (05)
+(i) angular acceleration and (ii) number of revolution made by the wheel within this period.
+
+d) The fan blades have a total mass of 2 kg and can be assumed to act at centre and they have (05) |
+moment of inertia equal to I, = 0.18kgm? about an axis passing through its centre. If it is
+subjected to a moment of M = 3(1 —e~°**) Nm where t is in seconds, determine its angular
+
+velocity in t= 4 s starting from the rest.
+
+€) Three perfectly elastic balls A, B and C masses 2 kg, 4 kg and 8 kg move a line with (05),
+velocities 4 m/s, 1 m/s and 0.75 m/s respectively. If the ball A strikes B which in turn strikes i
+ball C, determine the velocities of the three balls after impact.
+
+Q.2 a) Find the Centriod of the shaded area shown in Figure 1. (10)
+
+Vy
+--- page 2 ---
+OI oy.
+
+a Hoe WS THY, a
+Roe :
+"¢ s
+Sal
+mi
+% iM
+2s, ‘3 J
+A os
+ts aut
+
+30 mrt
+
+300 «nm
+| joo min} 120 anny al
+| 1 r |
+
+Figure: 1
+
+b) Find the Moment of inertia of f section Figure 2 about centroidal X & Y axis.
+
+Figure: 2
+
+Q.3 a) A bullet is fired from a height of 120 m at a velocity of 360 kmph at an angle of 30°
+upwards. Neglecting air resistance, find
+i. Total time of flight,
+ii. Horizontal range of the bullet,
+iii. Maximum height reached by the bullet, and
+iv. Final velocity of the bullet just before touching the ground.
+b) A particle oscillates between the points X = 40 mm and X = 160 mm with an acceleration
+
+a = £(100 — X) where k is constant. The velocity of particle is 18 mm/sec when X = 100 m
+
+and is zero at both X = 40 mm and X = 160 mm. Determine: (i) value of k (ii) the velocity
+when X = 120 mm.
+
+2/4
+
+(10) i
+
+(10)'
+
+(10)
+--- page 3 ---
+Q.4
+
+Q.5
+
+Q.6
+
+a) Figure 3 shows the location of (10)
+cars A and B at t=0. Car A starts from
+rest and travels towards the
+
+intersection at a uniform rate of 2
+
+m/s’. Car B travels towards the
+intersection at a constant speed of 8
+m/s. Determine relative position,
+
+velocity and acceleration of car B
+
+w.r.t car A at t = 6 sec.
+
+Figure: 3
+4s,
+
+b) The angular acceleration of the rotor is given by @ =e Aynere ‘a’ is in rad/sec? and‘ (10)
+
+is in sec. At t= 1 sec, the angular velocity «#=10 rad/sec and the angular displacement
+
+v= = rad. Att = 0, 6 = -4 rad. Determine 0, and a when t = 4 sec.
+
+a) The system shown in Figure 4 is released from the rest. What is the height lost by the (10)
+
+bodies A, B and C in 2 seconds. Take coefficient of kinetic friction at the rubbing surface as
+
+0.4. Find also the tension T, and Tx in the wires. Assume pulleys weightless and frictionless.
+
+b) A block of mass m = 80 kg is compressed against a spring as shown in Figure 5. How far (10) |
+i
+
+from point B [distance x] will the block strike on the plane at point A. Take free length of
+spring as 0.9 m and spring stiffness as k = 40 X 10° N/m
+
+4
+WW
+I x
+ITT PTs 7 71k’
+
+S
+
+Medd fo
+
+~
+a!
+
+” 04m TB
+L i
+15kg
+. Figure: 5
+Figure: 4
+
+a) A rocket weighing 60000 N is launched vertically up with a constant thrust of 240 KN. (10)
+
+Assuming air resistance to be given by R = 20v where R is in Newtons and v is in m/s,
+determine the height when its velocity is 305 m/s, consider g and weight of rocket to be
+
+constant.
+
+3/4
+--- page 4 ---
+b) A body of mass 2 kg is projected upwards from the surface of the ground at t= 0 with (10). :
+
+velocity of 20 m/s as shown in Figure 6. One seconds later another body of mass 2 kg is i
+
+dropped from a height of 20 m. If they collide elastically, find velocities of both the bodies
+
+just after collision.
+
+Figure: 6 ;
+Q.7 a) A bullet of mass 10 gm is having with a velocity of 100 m/s and hits a 2 kg bob ofa (£0);
+simple pendulum, horizontally as shown in Figure 7. Determine the maximum angle 8
+
+through which the pendulum string 0.5 m long may swing if (i) the bullet gets embedded in _
+
+the bob and (ii) the bullet escapes from the end of the bob with a velocity 10 m/s.
+
+Figure: 7 i
+b) Two smooth spheres A and B having a mass of 2 kg and 4 kg respectively collide with (10)
+initial velocities as shown in Figure 8. If the coefficient of restitution for the spheres is e = _
+
+0.8, determine the velocities of each sphere after collision.
+
+ian
+
+ha :
+
+ENS 4 m
+
++
+Ay '
+
+Figure: 8
+
+4}y
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper c62dc1da8fad
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II B TECH (ALL STREAMS), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 13/05/2016
+- Text: ocr (5 pages), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+= SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (All Streams) Year I Semester: II
+Academic Year: 2015-16
+
+Batch:2014-15
+
+Subject: Engineering Mechanics — II Marks: 60
+
+Time: 2.00 8 \
+
+Date: 13/05/2016 Durations: 38
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and onthe cover of the
+Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1 Attempt any three questions. . . (4x3=12
+(A) Define Instantaneous Centre of Rotation.
+
+‘(B) Water drips from a faucet at the rate of 4 drops per second. The faucet is
+150 mm above the sink. When one drop strikes the Sink how far is the next
+drop above the sink? i
+
+(C) A Particle has a straight line motion given by the equation, x = (t?-2t?-4) m.
+where t is in seconds. What is the change in displacement when velocity
+changes from 4m/s to 32m/s?
+
+(D) A rocket weighing 60000N is launched vertically up with a constant thrust
+
+of 240KN. Assuming air resistance to be given by R = 20v , where v is in
+
+m/s and R in Newton. Determine the height when its velocity is 305 m/s.
+Consider g and weight of rocket to be constant.
+
+i
+--- page 2 ---
+Q.2 (A) Find the Centroid of the given Figure 1. (6)
+(B) Find the distance 'a’ between the two channels which are placed back to back (6)
+for satisfying Ix = lyy. Refer Figure 2.
+
+PM £419 x
+
+7)
+%.
+R=20mm - & la
+Ea
+ie x
+i RA
+
+' ;
+\ aN
+e R=20mm Figure ]
+
+100 mm
+>! 2
+= Smm
+v
+i
+: 190 mm
+X !
+l
+|
+—y 1 —_y—
+a +
+Smm _¥. ; + 5mm
+
+Figure 2
+
+3. (A) A Swimmer is swimming at 3kmph in a river having width 1000m. The water
+in the river is flowing with velocity 1.2kmph. If the man wants to reach directly
+opposite bank of the river find (i) the time taken to cross the river and the direction
+in which he should swim (ii) if he swims perpendicular to the direction of motion
+of water find the time and place where he will reach on the opposite bank.
+
+(6)
+
+(B) A shot is fired with a bullet with an initial velocity of 20 m/s from a point 10m
+in front of a vertical wall 5m high. Find the angle of projection with the horizontal
+to enable the shot to just clear the wall. Also find the range of the shot and the time
+of flight where the bullet falls on the ground. ; (6)
+
+Q)s~
+--- page 3 ---
+Q4 (A) A roller of radius 9cm.
+rides between two horizontal A Smis
+bars moving in the opposite a ian
+direction as shown in the
+figure. (1) Locate the
+instantaneous centre of
+velocity and give its distance me
+from A. Assume no slip Am/s
+conditions at the points A and B
+B. (2) Locate the position of
+the instantaneous centre when Figure 3
+both the bars are moving in the (6)
+same direction.
+
+18cm
+
+(B) At the position shown in
+figure, the crank AB has
+Angular velocity of 2rad/sec
+clockwise. Find the velocity of
+slider C and the point D at the
+instant shown
+
+3]6—
+--- page 4 ---
+Q.5
+
+Q.6
+
+(A) Two blocks ‘A’ and ‘B’ are held stationary 15m apart on a 30° incline as
+shown. The coefficient. of dynamic friction between the plane and ’A? is 0.3 and
+for ‘B’ is 0.2. If the blocks are released simultaneously, find the time taken and
+the distance traveled by each block before they are on the verge of colliding
+
+15 \
+ao
+
+Figure 5
+(B) If the system shown in
+figure is released from rest, find
+the acceleration of cylinder B.
+Neglect the mass of pulleys and
+chords.
+A=2Kg
+Figure 6
+(A)A ball is thrown against a wall with
+a velocity v forming an angle of 40° OC)
+
+with the horizontal. Assuming
+friction less conditions and e = 0.60
+determine the magnitude and
+direction of the velocity of the ball
+as it rebounds from the wall.
+
+Figure 7
+
+(6)
+
+(6)
+
+(6)
+--- page 5 ---
+Q7
+
+(B)
+
+A cylinder has a mass of 15 kg and
+is released from rest when h = 0.
+Determine its speed when h = 2m.
+The springs each have an
+unstretched length of | m.
+
+Ke4o N/m
+
+(A) A billiard ball moving with a velocity
+of 5 m/sec strikes smooth
+horizontal plane at an angle 45°
+with the horizontal. If e = 0.6
+between ball and plane, what is the
+velocity with which the ball
+rebounds?
+
+(B) The system shown in the figure 10
+
+- is released from rest. Determine the
+
+velocity of each block when block B
+has descended 1.5 m. The mass of the
+blocks are ma=12 Kg, ms=6 kg and
+coefficient of kinetic friction between
+block A and the horizontal surface is
+0.20
+
+Figure 8
+
+5 m/s
+
+45°
+
+Figure 9
+
+Figure 10
+
+s|s-
+
+(6)
+
+(6)
 ````
 
 ## 2015-16 · Re-Exam · Sem 2 · paper b41daf8b1ddd
@@ -1922,140 +2990,6 @@ each ball after impact. [7M]
 Figure 9
 
 aly
-````
-
-## 2015-16 · Re-Exam · Sem 2 · paper c4be9d2391e3
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 11 July 2017
-- Text: ocr (3 pages), mean OCR confidence 88.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) ~ Year:I Semester: I] ~
-
-Batch: 2014-2015 ge
-Academic Year: 2016-2017 se
-
-Subject: Engineering Mechanics ~ II co a PSTMB
-Marks: 60 Sa LIBRARY }
-Date: 11 July 2017 Time: 2.00 pm\t > SHAQ pm Oo
-Durations: 3 (hi aus wane
-No. of Pages:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt Any 4 questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Take acceleration due to gravity (g) =9.81 m/s°.
-
-Q.1 Solve
-a Explain perpendicular axis theorem. [3]
-b Explain work energy principle [3]
-c Explain D’Alembert’s principle [3]
-d Explain Impulse-momentum principle [3]
-Q.2.a | Find the centroid of the area shown in figure. [6]
-\OO WY) TY)
-FS ry -— 100 MAD —t
-Q.2.b Determine the moment of inertiag ae, naad x axis and transfer it to the [6]
-
-centroidal x axis using parallel axis theo
---- page 2 ---
-Q.3.a | A particle is travels along a straight path such that in 4 seconds, it moves [6]
-from an initial position A = - 8m to position B = +3m. thjen in another 5
-seconds it moves from B to C= - 6m. Determine the particles average velocity
-and average speed during 9 seconds interval. |
-
-Q.3.b | A particle has a straight line motion given by the equation x= t3- 2t?- 4 where [6]
-
-t is in sec, what is the change in displacement when velocity changes from 4
-m/s to 32 m/s. _
-
-Q.4.a | The v-t diagram for a particle moving along straight line is shown in the [6]
-
-figure. Knowing that x= -10m at t=0. Plot x-t and a-t diagram.
-
-a
-
-Q.4.b A particle travels on a circular path whose arc distance travelled is defined [6]
-
-by s=0.5 t3 + 3t, if the total acceleration is 10m/s? and t=2 sec, find the radius
-
-of curvature? _ . a _
-
-Q.5.a | An aeroplane is flying in horizontal direction with a velocity of 540 km/hr [6]
-and at.a height of 2200m. When it is vertically above the point A on the
-ground, a body is dropped from it. The body strikes the ground at point B.
-Calculate the distance AB, also find the velocity at B and the time taken to
-reach B.
-
-22.00r)
-
-——L. Lec]
-
-A B
-
-| Q.5.b | Two trains leave a station in different directions at the same instant. Train A | [6]
-travels at 36kmph at 10° west of north while train B travels at 45kmph at 60°
-ge east of north. Find the relative velocity of train A w.r.t. train B and the
-: distance between the two trains after 2 minutes.
-
-15
---- page 3 ---
-Q.6.a | Two blocks A and B are held stationary 10m apart on a 200 inclines plane. | [¢j
-The coefficient of kinetic friction between plane and body A is 0.3, whereas
-between the plane and body B is 0.1. if the blocks are released
-simultaneously, calculate the time taken and distance travelled by each
-block before they are at the verge of collision.
-
--
-
-Q.6.b A wagon weights 490kN starts from rest, run 30m down on the inclined (6)
-surface and strikes a post. If the rolling resistance of the track is 5 N/KN, find
-the velocity of wagon when it stikes the post. If the impact is to be
-cushioned by means of bumper spring having k= 14.7 kN/mm, determine the
-maximum compression of the bumper spring.
-
-Q.7.a A glass marble whose mass is 2 grams falls [4]
-from 2m height and rebounds to a height
-of 1.5 m find the impulse and the average f )
-force between the marble and floor, if the i :
-time during which they are in contact is orn 4 )
-0.08 seconds. |, vy hem
-an @) Of
-
-Q.7.b A homogeneous rod OA of length | [6}
-600mm and mass 10kg is rigidly B
-attached to another uniform rod
-BC of length 300mm and mass 2kg
-
-at A as shown in the figure. The
-
-system is hinge connected at O 0.34
-and is released from rest in 7
-
-horizontal position. Determine —— 06m ——> |
-
-. angular acceleration about O just
-
-pe after the release. c
 ````
 
 ## 2015-16 · Re-Exam · Sem 2 · paper bf2ca7ba1691
@@ -2399,6 +3333,7 @@ ko
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICES II BATCH 2014-2015 FINAL.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2015
 - Text: ocr (4 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ee ; ; ; SVKM’s NMIMS
@@ -2504,7 +3439,6 @@ Ais 3.6m/s to the right. Determine the an
 shown.
 
 ane:as shawn ithe fs
-ane 48 SuoOwin if the lig.
 
 The velocitaofend
 The velocity of end
@@ -2582,243 +3516,34 @@ dog. (6)
 — K
 ````
 
-## 2014-15 · Re-Exam · Sem 2 · paper 0d81ea3acdbe
+## 2014-15 · Re-Exam · Sem 2 · paper 9beb546f149d
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II ALL STREAMS BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 04 July 2016
-- Text: ocr (4 pages), mean OCR confidence 88.0
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MACHANICS II ALL STREAMS B TECH (ALL STREAMS),BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 12/05/2015
+- Text: ocr (4 pages), mean OCR confidence 93.7
 
 ````text
-4 SVKM’s NMIMS __ .~_qqett 8?
-MUKESH PATEL SCHOOL OF TECHNOLOGY mAyStunienT NEERING
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-i J ; : 7. & He
-
-Programme: B.Tech (All Streams), 7 ae I af Fe Bomester: I
-4
-*
-Academic Year: 2015-16 Seed
-Batch: 2014-15 -
-Subject: Engineering Mechanics- II . Marks: 60 ° ;
-Time: 2.00 pm — 5.00 pm
-
-Date: 04 July 2016. Durations: 3 (hrs).
+Programme: B. Tech (All Streams) Year: I Semestey Il
+Batch: 2013-14 a rn ae
+Academic Year: 2014-2015 fi is
+Subject: Engineering Mechanics -— II 186
+Marks:
+Date: 12/05/2015 Time: .
+Durations!
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-NB: “
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-1. Question No. 1 is compulsory.
+NB:
 
-2. Out of remaining questions attempt any four questions.
-. 3.” In all five questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 Solve Any Four:
-a) Define Centre of gravity, Moment of Inertia and Polar Moment of Inertia. (03)
-
-b) Motorist is travelling at 80 kmph, when he observes a traffic light 200 m ahead of him (03) |
-turns red. The traffic light is timed to stay red for 10 seconds. If the motorist wishes to pass
-
-the light without stopping, just as it turns green, determine i) the required uniform
-deceleration of the motor and ii) the speed of the motor as it passes the light.
-
-c) A tub of washing machine is rotating at 60 rad/sec when the power is switched off. The (03)
-tub makes 49 revolutions before coming to rest. Determine the constant angular deceleration
-
-of the tub and time it takes to come to rest.
-
-d) Explain the D Alembert’s Principle with example. (03)
-e) State Work Energy Principle with example and define Coefficient of Restitution. (03)
-Q.2 a) Find the Centroid of 4 (06)
-
-plane lamina shown in
-figure 1. Shaded area
-
-is removed.
-
-1G—- 4OO mm al
-
-Figure: 1
---- page 2 ---
-b) For the plane area ¥
-
-shown in Figure 2,
-
-(06)
-4~ 60 He 80 i ;
-find the moment of r " ™ >
-
-2
-
-Figure: 2
-
-inertia about centroidal
-
-axis.
-
-r= 1$mm
-
-Q3 a) A small steel ball is shot vertically upwards from the top of a building 25 m above the
-
-06
-_ ground with an initial velocity of 18 m/sec. i) In what time, it will reach the maximum (05)
-
-height? ii) How high above the building will the ball rise? iii) Compute the velocity with a
-
-which it will strike the ground and the total time it is in motion.
-
-b) A point moves along a curved path y = 0.4 x”. Atx =2 m its speed is 6 m/s increasing at3 (06)
-
-m/s”. At this instant find i) Velocity components along x and y direction ii) its acceleration.
-
-Q.4 a) A ball is dropped vertically on a 20° incline plane at A, the direction of rebound forms an (06)
-
-angle of 40° with the vertical. Knowing the ball next strikes the incline at B, determine i) the
-
-velocity of rebound at A and ii) the time required for the ball to travel from A and B. Refer
-figure 3.
-
-b) Figure 4, shows the location of cars A and B at t= 0. Car A starts from rest and travels (06)
-towards the intersection at a uniform rate of 2 m/s”. Car B travels towards the intersection at
-
-a constant speed of 8 m/s. Determine relative position, velocity and acceleration of car B ~
-w.r.to car A at t = 6 sec.
-
-A
-0
-
-e 50m
-6 o
-
-ae
-q a *
-
-+9
-
-j
-
-i
-' 30m
-
-Sy
-
-Figure: 3 5
-
-Figure: 4
---- page 3 ---
-Q5 a) Two blocks A and B are placed 15 m apart and are released simultaneously from rest, (06)
-
-Calculate the time taken and the distance traveled by each block when they collide.
-
-b) Package A of mass 25 kg is being pulled up the incline by a load B of mass 60 kg (06)
-
-: a |
-; ) . 2 01 ON :
-—. __- — Y
-‘
-
-=> Figure: 5
-
-Figure: 6
-a) A 20 N block slides with initial velocity of 2 m/s down an inclined plane on to a spring of (06)
-modulus 100 N/m for a distance of 1 mas shown in fii
-
-Q.6
-
-gure 7. Find maximum compression of
-the spring neglecting friction.
-
-b) Two small discs of masses 25 gm and 5 gm are kept on horizontal surface as shown in
-figure 8. Second disc is striked by the first disc and produces direct central impact. After
-each disc slides and comes to rest, F irst slides 95 mm to the right and second slides 480 mm
-
-to the right before coming to rest. Determine the value of Coefficient of restitution. Assume
-common coefficient of friction for both discs.
-
-(06)
->
-
-0.025kg
-: mz = 0.005 kg
-
-Figure: 8
-
-Figure: 7
---- page 4 ---
-Q.7 a) The acceleration- time diagram for the linear motion is shown in figure 9. Construct (06) |
-
-Velocity- time and displacement- time diagram for the motion.
-
-a A 3 r/c
-(me?)
-iS 20
-5 \o : + (sec)
-
-—8 m/s?
-Figure: 9
-b) Figure 10 shows a collar B which moves up with constant velocity of 2 m/s. Rod AB is (06) |
-pinned to the collar, the end A of which slides freely against a 30° slopping ground. For this
-
-instant, determine the angular velocity of the rod and velocity of end A of the rod.
-
-»
-
-Abhadyiiibuid
-
-TPEIFITIP EP ET
-
-ath
-
-4fy
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper dd0622f18b6e
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II B TECH (ALL STREAMS), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 12 May 2017
-- Text: ocr (3 pages), mean OCR confidence 89.7
-
-````text
-eee
-
-<0 8T0 9 ay, .
-Pye of a.
-
-Ha aa
-
-i et LIBRARY
-
-cA
-
-i.
-
-SVKM’s NMIMS Cr bd
-
-Programme: B. Tech (All Streams) Year: I
-
-Batch: 2014 - 2015
-Academic Year: 2016-2017
-
-Subject: Engineering Mechanics - II
-Marks: 60
-Date: 12 May 2017 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages: _%
-Re-Examination .
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
+1) Question No 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -2826,337 +3551,309 @@ of the Answer Book, which is provided for their use.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page. .
+5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
 
-7) Assume Suitable data if necessary,
+Q.1 Attempt any four question (5x4=20)
+(A)State and prove parallel axis theorem.
 
-S\TAKE Q= 4-81 m]s%
+(B)A body is moving with a velocity of 4 m/s. After 5 sec. the velocity of body
+becomes 14 m/s. Find the acceleration of the body.
 
-Qi Attempt any three questions:
+(C)A wheel is attached to the shaft of an electric motor of rated speed of 1800
+r.p.m. When power is turned on the unit attains the rated speed in 5 sec and when
+power is switched off the unit comes to rest in 90 sec. Assuming uniformly
+accelerated motion, determine number of revolutions the unit turns (a) to attain the
+rated speed (b)to come to rest.
 
-(a) Explain Centre of gravity, [04]
-(b) Explain D Alembert’s Principle. [04]
-(c) Explain Instantaneous Centre of Rotation for the velocity for bodies in Plane Motion, [04]
-(d) Explain Work Energy Principle. [04]
-(e) Explain Principle of Conservation of Momentum. [04]
-Q.2 (a) | Find the Centroid of the shaded area shown |__#Y [06]
+(D)A mass of 50 kg has an initial velocity of 15 m/s horizontally on smooth plane.
+Determine the value of horizontal force that will bring the mass to rest in 4 sec.
 
-in figure i
-
-ke
+(E)A wagon of mass 3000 kg is pushed along the rails with a constant force of 500
+N. If the resistance due to friction is 125 N, determine the time taken to reach a
+speed of 6 m/s using principle of work and energy.
 --- page 2 ---
-Q.2 (b) | Find the Moment of Inertia of the shaded A [06]
-area about given AB axis.
+Q.2 (A) Find the centroid of the given Figure 1. All dimensions are in mm. (10)
 
-im
+»
 
-im
+oO
+100
 
-R=2m
+Figure 1
 
-B
-Q.3 (a) | In an Asian Games of 100 m event an athlete accelerates uniformly from the start to his | [06]
-maximum velocity in a distance of 4m and runs the remaining distance with that velocity.
-If the athlete finishes the race in 10.4 seconds, determine (i) his initial acceleration, (ii) his
-maximum velocity.
+(B) Find the moment of inertia about centroidal axis. Figure 2.
+(10)
 
-Q.3(b) | A ball is projected from A with a speed of Y [06]
-3m/s at an angle of 25° as shown in figure.
-Determine the coordinated of point B at amis
-which the ball will hit the plane, which is
-25° below the horizontal. | .
+*»¥
 
-0
+Ricm
 
-Q.4 (a) | A particle moves along a circle of radius 20 cm so that S=20zt? cm. Find its tangential and | [06]
-normal accelerations after it has completed a revolution.
+4emf- are
 
-Q.4(b) | Figure shows acceleration versus time | a (m/s?) [06]
-diagram for a particle moving along x-
-axis. Draw velocity-time diagram and
-displacement-time diagram. Find the
-speed and distance covered by the particle
-after 50 s. Also find the maximum speed
-and the time at which the speed is attained
-by the particle.
+2cm i 4lcm 2cmj
+7
 
-Q.5(a) | A slider crank mechanism is shown in [06]
-figure. The crank OA _ rotates
-anticlockwise at 100 rad/s. Find the
-angular velocity of rod AB and the
-velocity of slider at B.
+Figure.2
 
-2(8
+Q.3. (A) Car A and Car B are running on the same straight road in the opposite direction
+at a speed of 72 kmph and 54 kmph respectively. Initially Car A is 5 m ahead of
+Car B. find,
+(i) Relative velocity of Car A w.r.t. Car B
+(ii) Relative velocity of Car B w.r.t. Car A
+(iii) Distance between Car A and Car B after 10 seconds. (10)
+
+(B) A bullet is fired from the top of a mountain of height 300 m with a velocity of
+
+200 m/s at an angle of elevation of 40°. Determine:
+
+(i) Maximum elevation reached by the bullet above the ground;
+
+(ii) Horizontal distance between the point of firing and the point where the bullet
+
+will strike the ground; and
+
+(iii) Magnitude and direction with which the bullet will strike the ground. (10)
 --- page 3 ---
-Q.5(b) | In the system of pulleys, masses and [06]
-connecting inextensible cables shown in
-the figure, the pulleys and the cables are
-considered massless and _ frictionless.
-Mass of A = 2kg, mass of B = 4kg and
-mass of C = 6kg. If the system is released
-from rest find: [a] tension in each of three
-cables.[b] acceleration of each of the three
-masses.
+Q.4
 
-A Lp teg
+Q.5
 
-Q.6 (a) | Two blocks A (10kg mass), B (28 kg
-mass) are separated by 12 m as shown in
-figure. If the block starts moving, find the
-time‘t’ when the blocks collide. Assume
-= 0.25 for block A and plane and p= 0.10
-for block B and plane.
+(A) The angular acceleration of a shaft is given by the relation a = —w/4. At t=0
+angular velocity is 25 rad/s. Determine:
 
-{06}
+(i) Number of revolution made by the shaft before coming to rest.
 
-Q.6 (b) | A uniform bar AB of mass 'm' and length XOur D [06]
-'L' is supported by wire CD as shown in
-figure. Determine :
+(ii) Time required to come to rest
 
-(i) The angular acceleration of bar AB. /
-(ii) The linear acceleration of free end B. ca 5h 2L/3 |
+(iii) Time required for the angular velocity to be reduced to 1% of initial value.
 
-(iii) The reaction at the hinged support A
+(B) A ball is dropped from the top of the tower 50 m high. At the same instant, a
+second ball is thrown upward from the ground with an initial velocity of 20 m/s.
+When and where do they meet and with what relative velocity.
 
-at the instant the wire is cut suddenly.
+(A) Two bodies of weight 1000 N and 250 N are connected by cord and move
+along a rough horizontal plane under the action of 500 N force applied to the first
+body of weight 1000 N as shown in Figure 3. The coefficient of friction between
+the sliding surface of the bodies and the plane is 0.2. Determine the acceleration of
+the two bodies and the tension in the thread.
 
-Q.7(a) | A 20 N block is released from rest. It [06]
-slides down the inclined having p = 0.2 as \e
-shown in figure. Determine the maximum
-compression of the spring and the distance
-moved by the block when the energy is
-released from compressed spring. Spring
-constant k= 100N/m.
+1000 N
+500 N etsy kon —
 
-H=0.2
+Figure 3
 
-30°
+(B) Two bodies of 9 kg and 15 kg are suspended on two ends of a string passing
+over a pulley of radius 300 mm and MI. is equal to 16.5 kg-m? as shown in Figure
+4. Determine the tension in the string and angular acceleration of the pulley.
 
-Q.7 (b) | Two particles of masses 10 kg and 20 kg are moving along a straight line towards each other | [06]
-at velocities of 4m/s and | m/s respectively. If e = 0.6, determine the velocities of the
-particles immediately after their collision and loss of K.E.
+300 mm
+A
+9kg B
+13 kg
+Figure.4
 
-3/3
+By
+a
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+--- page 4 ---
+Q.6 (A) Two identical balls A and B are at rest on a smooth surface. A ball C of
+different material but of same mass moving with velocity of 1.5 m/s and strike ball
+B. If co-efficient of restitution between B and C is 0.8 and that between A and B is
+0.5. Determine velocity of each ball after all collisions have taken place.
+
+(B) A train of weight 2000 KN is pulled by an engine on a level track at a constant
+speed of 36 kmph. The resistance due to friction is 10 N per KN of the train weight.
+
+Find the power of the engine.
+
+Q.7 (A) Three perfectly elastic balls A,B and C of mass 2 kg, 4 kg and 8 kg, move
+along a line with a velocities 4 m/s, 1 m/s and 0.75 m/s respectively. If the ball A
+strikes ball B which in turn strikes the ball C, determine the velocities of the three
+balls after impacts. Check the answer with energy consideration.
+
+(B) Two blocks of mass 20 kg and 40 kg are connected by a rope passing over a
+frictionless pulley as shown in Figure 5. Assuming coefficient of friction as 0.3 for
+all contact surfaces, find the tension in the string, and acceleration of the system.
+Also, compute the velocity of the system after 4 sec starting from the rest.
+
+Rope
+
+Figure.5
+
+(10)
+
+(10)
+
+(10)
+
+(10)
 ````
 
-## 2014-15 · Re-Exam · Sem 2 · paper c62dc1da8fad
+## 2014-15 · Re-Exam · Sem 2 · paper 03ce2955aa0d
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II B TECH (ALL STREAMS), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 13/05/2016
-- Text: ocr (5 pages), mean OCR confidence 90.5
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM_03ce2955aa.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/07/2015
+- Text: ocr (3 pages), mean OCR confidence 91.0
 
 ````text
-= SVKM’s NMIMS
+Ql
+
+Q.2
+
+SVKM’s NMIMS vk
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (All Streams) Year I Semester: II
-Academic Year: 2015-16
+Programme: B. Tech (All Streams) Year: I Ss :
+Batch: 2013-14 emesters I
+Academic Year: 2014-2015. ~.-
 
-Batch:2014-15
+Subject: Engineering Mechanics - II
 
-Subject: Engineering Mechanics — II Marks: 60
+Marks: 100, %
+Date: 02/07/2015 { « Time: 10300 am to 1.00 pm
+i \ Durations: 3 (hrs)
 
-Time: 2.00 8 \
-
-Date: 13/05/2016 Durations: 38
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and onthe cover of the
-Answer Book, which is provided for their use.
+Instruction : Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No. 1 is compulsory.
+1) Question No. ONE is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
-3) Inall 5 questions to be attempted.
+3) In all FIVE questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
 
-Q.1 Attempt any three questions. . . (4x3=12
-(A) Define Instantaneous Centre of Rotation.
+Solve any four [4 x$=29.M]
+A) A ball is dropped from height of 10 meters. It hits the ground and rebounds. Coefficient of
+restitution for the impact with the ground is 0.8. Find the upward velocity of the ball after 3x
 
-‘(B) Water drips from a faucet at the rate of 4 drops per second. The faucet is
-150 mm above the sink. When one drop strikes the Sink how far is the next
-drop above the sink? i
+rebound.
+B) What is the difference between Newton’s second law and D’ Alembert’s principle in the context
 
-(C) A Particle has a straight line motion given by the equation, x = (t?-2t?-4) m.
-where t is in seconds. What is the change in displacement when velocity
-changes from 4m/s to 32m/s?
+of solving kinetics of particle problems.
+C) State and derive expression for velocity in case of curvilinear motion of a particle.
+D) Explain the terms Centroid, Center of Mass & Center of Gravity.
 
-(D) A rocket weighing 60000N is launched vertically up with a constant thrust
+E) What is difference between area moment of inertia, polar moment of inertia and mass moment of
+inertia.
 
-of 240KN. Assuming air resistance to be given by R = 20v , where v is in
+A) Find the centroid of the area shown in the y, [to]
+figure.
 
-m/s and R in Newton. Determine the height when its velocity is 305 m/s.
-Consider g and weight of rocket to be constant.
-
-i
+B) Find the moment of inertia of shaded area | [eM]
+shown in figure w. r. t. given X axis and given
+Y axis
 --- page 2 ---
-Q.2 (A) Find the Centroid of the given Figure 1. (6)
-(B) Find the distance 'a’ between the two channels which are placed back to back (6)
-for satisfying Ix = lyy. Refer Figure 2.
+Q.3
 
-PM £419 x
+Qa4
 
-7)
-%.
-R=20mm - & la
-Ea
-ie x
-i RA
+Q5
 
-' ;
-\ aN
-e R=20mm Figure ]
+A) A car travels along a depression in a road, the equation of the depression being x’=300y. The [}M]
+speed of the car is constant and equal to 60 Km/hour. Find its acceleration when the car is at the
+deepest point in the depression. What is the radius of curvature of the depression at this point?
 
-100 mm
->! 2
-= Smm
-v
-i
-: 190 mm
-penne eee Pape nEnrEnnEInS Eneeasrbeinsanees
-X !
-l
-|
-—y 1 —_y—
-a +
-Smm _¥. ; + 5mm
+B) A particle is projected at 10 m/s as shown in the figure. Find x1, x2. x3 and total time of flight [10M]
+after coverage of distance x1+ x2+ x3.
 
-Figure 2
+nN u=15m/s g = 9.81m/s? e=08
 
-3. (A) A Swimmer is swimming at 3kmph in a river having width 1000m. The water
-in the river is flowing with velocity 1.2kmph. If the man wants to reach directly
-opposite bank of the river find (i) the time taken to cross the river and the direction
-in which he should swim (ii) if he swims perpendicular to the direction of motion
-of water find the time and place where he will reach on the opposite bank.
+X4 XQ ; X3
+A) For the acceleration-time diagram of a foM]
+particle shown in figure. Calculate velocity at | 49
 
-(6)
+the end of 3 sec. and distance trayeled in 4 [| ~ i
+sec. ' 2 3 4
 
-(B) A shot is fired with a bullet with an initial velocity of 20 m/s from a point 10m
-in front of a vertical wall 5m high. Find the angle of projection with the horizontal
-to enable the shot to just clear the wall. Also find the range of the shot and the time
-of flight where the bullet falls on the ground. ; (6)
+B) A roller of radius 15 cm. rides between two A
+horizontal bars moving in the opposite [ —_
+direction as shown in the figure. (1) Locate -
+the instantaneous centre of velocity and give
 
-Q)s~
+its distance from A. Assume no slip 396m
+conditions at the points A and B. (2) Locate
+
+the position of the instantaneous centre when
+
+both the bars are moving in the same 5m/s B
+direction.
+
+A) If the system shown in figure is released {isM]
+from rest, find the acceleration of cylinder a, b
+
+& c. Neglect the mass of pulleys and chords.
+
+a=7kg,b=8kg,c=20kg
 --- page 3 ---
-Q4 (A) A roller of radius 9cm.
-rides between two horizontal A Smis
-bars moving in the opposite a ian
-direction as shown in the
-figure. (1) Locate the
-instantaneous centre of
-velocity and give its distance me
-from A. Assume no slip Am/s
-conditions at the points A and B
-B. (2) Locate the position of
-the instantaneous centre when Figure 3
-both the bars are moving in the (6)
-same direction.
+B) From point O a ship A travels in the North North [eM]
 
-18cm
+making an angle of 45° to the West with a is
 
-(B) At the position shown in
-figure, the crank AB has
-Angular velocity of 2rad/sec
-clockwise. Find the velocity of
-slider C and the point D at the
-instant shown
+velocity of 36 km/hr and ship B travels in the ¥
 
-3]6—
---- page 4 ---
-Q.5
+east with a velocity of 18 km/hr. Find the 5 B
 
-Q.6
+relative velocity of ship B w.r.t ship A. West. 450\\ Fast
 
-(A) Two blocks ‘A’ and ‘B’ are held stationary 15m apart on a 30° incline as
-shown. The coefficient. of dynamic friction between the plane and ’A? is 0.3 and
-for ‘B’ is 0.2. If the blocks are released simultaneously, find the time taken and
-the distance traveled by each block before they are on the verge of colliding
+South
 
-15 \
-ao
+Q.6 A) A 25N block is released from rest. It slides
+down the inclined having u=0.3 as shown in
+figure. Determine the maximum compression
+of the spring . Take k =1500N/m.
 
-Figure 5
-(B) If the system shown in
-figure is released from rest, find
-the acceleration of cylinder B.
-Neglect the mass of pulleys and
-chords.
-A=2Kg
-Figure 6
-(A)A ball is thrown against a wall with
-a velocity v forming an angle of 40° OC)
+fio]
 
-with the horizontal. Assuming
-friction less conditions and e = 0.60
-determine the magnitude and
-direction of the velocity of the ball
-as it rebounds from the wall.
+B) Determine the constant force P that will (taM]
+give the system of bodies shown in figure,
+velocity of 4 m/s after moving 5m from rest.
+Coefficient of friction between the blocks and
+the plane is 0.3. Pulleys are smooth.
 
-Figure 7
+Q7 A) A ball (A) of mass 3 kg moving with a [uM]
+velocity 5m/s, impinges on a ball (B) of mass
+6kg moving with a velocity of 6m/s. The
+velocities of two balls are parallel and inclined
+at an angle 30° to the line joining their centers
+at the instant of impact. If the coefficient of
+restitution is 0.5, find
 
-(6)
+a. Direction in which the ball ‘B’ will
+move after impact
+b. Velocity of the ball ‘B’ after impact
+c. Direction in which the ball ‘A’ will
+move after impact
+Velocity of the ball ‘A’ after impact.
 
-(6)
+a B) Two double pulleys shown in figure are e [10M]
+connected to each other by a string as shown.
 
-(6)
---- page 5 ---
-Q7
+Calculate acceleration of the mass ‘m’ and
+tension in the string connecting the two
+pulleys. Take g = 9.81m/s’. (m =15kg)
 
-(B)
+Each pulley is mounted on_ frictionless
 
-A cylinder has a mass of 15 kg and
-is released from rest when h = 0.
-Determine its speed when h = 2m.
-The springs each have an
-unstretched length of | m.
-
-Ke4o N/m
-
-(A) A billiard ball moving with a velocity
-of 5 m/sec strikes smooth
-horizontal plane at an angle 45°
-with the horizontal. If e = 0.6
-between ball and plane, what is the
-velocity with which the ball
-rebounds?
-
-(B) The system shown in the figure 10
-
-- is released from rest. Determine the
-
-velocity of each block when block B
-has descended 1.5 m. The mass of the
-blocks are ma=12 Kg, ms=6 kg and
-coefficient of kinetic friction between
-block A and the horizontal surface is
-0.20
-
-Figure 8
-
-5 m/s
-
-45°
-
-Figure 9
-
-Figure 10
-
-s|s-
-
-(6)
-
-(6)
+saad bearings. Mass M.I. of each pulley is 0.9 kg- G)
+m”? and inner and outer radii of each pulley
+are 300 mm and 600 mm respectively.
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper aba5eb5d7b2b
@@ -3340,6 +4037,363 @@ b) Block D shown in figure 9 moves with a speed of 3 m/s. Determine the angular 
 of link BD and AB and the velocity of point B at the instant shown. Use method of
 
 Instantaneous centre of zero velocity.
+````
+
+## 2014-15 · Re-Exam · Sem 2 · paper 87c9f4899f5a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICES II BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2015
+- Text: ocr (3 pages), mean OCR confidence 88.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech {All Streams) Year: I Semester: H
+
+Academic Year: 2014-2015
+Batch: 2013-14
+
+Subject: Engineering Mechanics - II Marks: 100
+Time: 2.00 pm to 5.00 pm
+—— Date: 12/05/2015 Durations: 3 (hrs)
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for the use. NB:
+
+1. Question No.1 is compulsory
+
+2. Out of remaining questions attempts any Four
+
+3. In all five questions to be attempted.
+
+4. AlIl Questions carry equal marks
+
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicates full marks
+7. Assume suitable data if necessary
+
+8. Take acceleration due to gravity g=9.81m/s”
+
+Q.1. Solve Any 4
+
+a What is elastic impact of the body ; [5M]
+b State and prove parallel axis theorem : [5M]
+c Derive equation for projectile motion [5M]
+d_ Explain the use of s-t, v-t and a-t curve in the analysis of rectilinear motion. [5M]
+e Explain work energy principle [5M]
+
+Q.2.a Determine the centroid of the plane area in which a circular part of 40mm _ [10M]
+radius, has been removed as shown in figure.
+
+' . 40mm od
+
+i :
+
+1
+
+wt bevel ed
+
+i)
+
+1 : NY
+
+H
+
+1
+
+1
+
+H
+
+; 135 mm fmm,
+
+Q.2.b Find the M1 of a section shown in figure. * 30 : [10M]
+
+a. X- axis T
+b. y- axis 7
+c. Parallel centroidal x- axis 10
+
+d. Parallel centroidal y- axis
+
+i|
+--- page 2 ---
+Q.3.a An object is projected so that it just clears two obstacles each 7.5m high which [10M]
+are situated 50m from each other. If the time of passing between two obstacles
+is 2.5 seconds, calculate the complete range of projection and initial velocity of
+projection.
+
+50m ;
+
+Q.3.b A race car start from rest and travels along a straight road until it reaches a [10M]
+speed of 42m/s in 50 seconds as shown in figure by v-t graph. Determine the
+
+distance travelled By trace car in 50 seconds. Draw x-t and a-t graph.
+NV (9)S
+
+42
+
+18
+
+' } | | + } t(sec)
+i020 30 40 50
+
+Q.4.a_ A table fan rotating at a speed of 2400rpm is switched off and the resulting [10M]
+variation of rpm with time is as shown in figure. Determine the total number of
+revolutions the fan has made in 25 seconds when it finally comes to rest.
+
+2400
+
+1000}----------- .
+1 1(sec
+0 10 25 Kee)
+
+Q.4.b In figure rod AB has angular velocity 2 rad/sec, counter clockwise
+rod BC is free to move on a horizontal surface. Determine A lel
+a. Angular velocity of BC Y
+b. Velocity of C
+
+_End C of [10M]
+
+O4B
+
+ae
+
+7 f. TITTTTTTT
+GC 2
+Q.5.a Block A =100kg shown in figure is observed to move upward with an [10M]
+acceleration of 1.8m/s2. Determine
+
+Oo
+Yo “(3
+
+zx
+
+#
+--- page 3 ---
+a. Mass of block B
+b. Corresponding tension in the cable
+
+A
+Q5.b Pulley A starts from rest and rotates with a constant angular acceleration of 2. [10M]
+
+r/s2 anticlocwise . pulley A causes double pulley B to rotate without slipping.
+Block C hangs by a rope wound on B, determine at t=3 sec.
+a. Acceleration , velocity and position of block C. 1.2m
+
+b. Acceleration of péint P on pulley B.
+
+Q.6.a A body of mass M is projected up 25 degree inclined plane with initial velocity [10M]
+15m/s. if ps= 0.28 and pwk=0.25, determine how far the body will move up the
+
+plane and time required to reach the highest point.
+
+Q.6.b If the pendulum, shown in figure is released from rest in its unstable vertical [10M]
+equilibrium position, find the value of the angle 0 defining the position in its
+
+downward fall at which the axial force in the rod changes from compression to
+bob
+
+tension .
+
+Q.7.a Three telegraphs poles A, B and C are spaced at 50m intervals along a straight [10M]
+road. A car starting from rest accelerates uniformly, posses post A and then
+takes 8sec to reach post B and further 7sec to reach post C. Calculate
+
+a. The acceleration Of the car
+
+b. The velocity of the car at A, Band C
+
+c. The distance of the post A from the starting point of the car.
+Q.7.b Explain D’alembert’s principle
+Q.7.c_ Explain Principle of conservation of energy
+
+[5M]
+[5M]
+
+Been
+
+’
+````
+
+## 2014-15 · Re-Exam · Sem 2 · paper 787d015fe1b2
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/Engineering Mechanics II (2013-14) Re Exam.pdf`
+- Printed on paper: exam date: 02/07/2015
+- Text: ocr (5 pages), mean OCR confidence 86.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: I Semester: II
+
+Academic Year: 2014-15
+
+oat a
+Batch: 2013-14 y et >
+
+Subject : Engineering Mechanics - II Marks: 10g
+Time : 2:06 thes) Gopnik ¥ a
+Date : 02/07/2015 Duration J
+seme trcs —
+Re-Examination fe wi
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+the cover of the answer book, which is provided for the use.
+
+NB: ;
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions attempts any four.
+
+3. In all five questions to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets on the right hand side indicates full marks. -
+
+7. Assume suitable data if necessary.
+
+8. Take acceleration due to gravity g = 9.81 m/s”
+
+Q.1) Solve any four: (4x5=20)
+a) State and explain parallel axis theorem.
+
+b) A 500 N crate as shown in figure (A) kept on the top of a 15° sloping surface is pushed down
+the plane with an initial velocity of 20 m/s. If ux = 0.4, determine the distance traveled by the
+block.
+
+4/5
+--- page 2 ---
+Figs CA)
+c) Classify and explain the types of rectilinear motion.
+d) Write down the equation for conservation of energy equation and explain each term.
+
+e),Explain the method of finding the “instantaneous center of rotation” for a body.
+
+~Q.2) a) Find the centroid of the shaded section as shown in figure (B). 0S
+
+>
+b) Find the moment of inertia about the centroidal axes as shown in figure (C). 45
+d ———— | oO mm—s
+| * 25 rm
+*
+, |
+mm
+aera. —— Go mm
+{25 mm
+| So me i 4o mn
+>
+
+7 Fig Cc)
+Q.3) a) A car stars from rest on curved road of radius 250 m and accelerates at a constant
+tangential acceleration of 0.6 m/s?. Determine the distance and time for which car will travel
+before the magnitude of total acceleration attained by it becomes 0.75 m/s?. 10
+
+b) A player throws a ball with an initial velocity of 18 m/s from point A which is 1.5 m above the
+ground. He wants to hit the ball 16 m away from him. Determine the maximum height h at which the
+ball can strike the wall and corresponding angle a. 10
+
+oe
+--- page 3 ---
+Q.4) a) In figure (D) A bar BC slides at C in a collar by 4 m/s velocity. The other end b is pinned
+on a roller. Find angular velocity of bar BC and the roller. = - 10
+> =het | &
+
+: “® _
+\ 20"
+——
+D>
+
+b) The velocity of the particle is defined as v = t? — 5t? + 3t + 4 wherev is in m/s and tis in
+seconds. Assuming initial displacement to be 2 m, find (1) initial velocity (2) initial acceleration
+(3) time interval at which acceleration will be zero (4) Displacement in first 4 seconds (5)
+Displacement in 6" second. 10
+
+Q.5 a) As shown in figure (E) determine the acceleration of block B. Also determine its
+displacement after 1 second if the system starts from rest. _ 10
+
+2 FO eee
+sae sia ARR) Se
+
+_ |
+
+LA
+
+Lf |
+
+|SON | BZ |200N
+Fig. (CE)
+
+b) A system shown in figure (F) is initially at rest. Neglecting friction, determine velocity of
+block A after it has moved 2.7 m when pulled by a force of 90 N. 10
+
+| a nr es
+
+Jon A | 5
+
+Sy aaa 22.5)
+rT Hs
+
+Z| |
+
+big: CF) 3/s-
+--- page 4 ---
+Q.6) a) Two identical stepped pulleys B and C as shown in figure (G) are connected by a cord as
+shown. Each pulley has inner radius of 120 mm and outer radius of 200 mm. The mass moment
+of inertia is 0.35 kgm*. Calculate acceleration of block A of mass 15 kg hanging from the outer
+rim of the pulley B. The pulleys are mounted on frictionless bearings. Also find the tension in
+
+cord. a 10
+/ — —- _
+[ff \\ @@ 7
+f 0, \ \ aa \
+| , eer | { / Or\ \
+\ \ J, / | | 2° |
+1 \ —~ / \ \o po}
+a B 7 \ \ —— /
+| \ /
+| C Z~
+
+ISea a |
+PAS gig. ce)
+b) A 3000 N block as shown in figure (H) slides down a 50° incline. It starts from rest. After
+moving 2 mit strikes a spring whose stiffness is 20 N/mnlf the coefficient of friction between the
+block and plane is 0.2, determine the maximum deformation of the spring and the maximum
+velocity of the block. 10
+
+Fig. abe
+
+Q.7) a) A block of wood weighing 10 kg is suspended as shown in figure (I). A bullet weighing
+
+5
+
+30 gms is fired with a velocity of 1200 m/s into the block. Calculate (1) the velocity of the block
+and builet after the bullet becomes fully embedded in the block and (2) the angle by which the
+
+string will swing from vertical. on N- —— 10
+
+[_-s
+© ‘ \
+
+16m
+
+S
+--- page 5 ---
+b) Two smooth spheres A and B having a mass of 2 kg 4 kg respectively collide with initial
+velocities as shown in figure (J). If the coefficient of restitution for the spheres is e = 0.8,
+determine the velocities of each spheres after collision. 10
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper 7bf860041f5e
@@ -4040,187 +5094,6 @@ motion. Each car has a mass of 80 kg, The boy mass is 60 kg. Both cars are origi
 rest. - (10)
 ````
 
-## 2013-14 · Re-Exam · Sem 2 · paper 9beb546f149d
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MACHANICS II ALL STREAMS B TECH (ALL STREAMS),BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 12/05/2015
-- Text: ocr (4 pages), mean OCR confidence 93.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Semestey Il
-Batch: 2013-14 a rn ae
-Academic Year: 2014-2015 fi is
-Subject: Engineering Mechanics -— II 186
-Marks:
-Date: 12/05/2015 Time: .
-Durations!
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1 Attempt any four question (5x4=20)
-(A)State and prove parallel axis theorem.
-
-(B)A body is moving with a velocity of 4 m/s. After 5 sec. the velocity of body
-becomes 14 m/s. Find the acceleration of the body.
-
-(C)A wheel is attached to the shaft of an electric motor of rated speed of 1800
-r.p.m. When power is turned on the unit attains the rated speed in 5 sec and when
-power is switched off the unit comes to rest in 90 sec. Assuming uniformly
-accelerated motion, determine number of revolutions the unit turns (a) to attain the
-rated speed (b)to come to rest.
-
-(D)A mass of 50 kg has an initial velocity of 15 m/s horizontally on smooth plane.
-Determine the value of horizontal force that will bring the mass to rest in 4 sec.
-
-(E)A wagon of mass 3000 kg is pushed along the rails with a constant force of 500
-N. If the resistance due to friction is 125 N, determine the time taken to reach a
-speed of 6 m/s using principle of work and energy.
---- page 2 ---
-Q.2 (A) Find the centroid of the given Figure 1. All dimensions are in mm. (10)
-
-»
-
-oO
-100
-
-Figure 1
-
-(B) Find the moment of inertia about centroidal axis. Figure 2.
-(10)
-
-*»¥
-
-Ricm
-
-4emf- are
-
-2cm i 4lcm 2cmj
-7
-
-Figure.2
-
-Q.3. (A) Car A and Car B are running on the same straight road in the opposite direction
-at a speed of 72 kmph and 54 kmph respectively. Initially Car A is 5 m ahead of
-Car B. find,
-(i) Relative velocity of Car A w.r.t. Car B
-(ii) Relative velocity of Car B w.r.t. Car A
-(iii) Distance between Car A and Car B after 10 seconds. (10)
-
-(B) A bullet is fired from the top of a mountain of height 300 m with a velocity of
-
-200 m/s at an angle of elevation of 40°. Determine:
-
-(i) Maximum elevation reached by the bullet above the ground;
-
-(ii) Horizontal distance between the point of firing and the point where the bullet
-
-will strike the ground; and
-
-(iii) Magnitude and direction with which the bullet will strike the ground. (10)
---- page 3 ---
-Q.4
-
-Q.5
-
-(A) The angular acceleration of a shaft is given by the relation a = —w/4. At t=0
-angular velocity is 25 rad/s. Determine:
-
-(i) Number of revolution made by the shaft before coming to rest.
-
-(ii) Time required to come to rest
-
-(iii) Time required for the angular velocity to be reduced to 1% of initial value.
-
-(B) A ball is dropped from the top of the tower 50 m high. At the same instant, a
-second ball is thrown upward from the ground with an initial velocity of 20 m/s.
-When and where do they meet and with what relative velocity.
-
-(A) Two bodies of weight 1000 N and 250 N are connected by cord and move
-along a rough horizontal plane under the action of 500 N force applied to the first
-body of weight 1000 N as shown in Figure 3. The coefficient of friction between
-the sliding surface of the bodies and the plane is 0.2. Determine the acceleration of
-the two bodies and the tension in the thread.
-
-1000 N
-500 N etsy kon —
-
-Figure 3
-
-(B) Two bodies of 9 kg and 15 kg are suspended on two ends of a string passing
-over a pulley of radius 300 mm and MI. is equal to 16.5 kg-m? as shown in Figure
-4. Determine the tension in the string and angular acceleration of the pulley.
-
-300 mm
-A
-9kg B
-13 kg
-Figure.4
-
-By
-a
-
-(10)
-
-(10)
-
-(10)
-
-(10)
---- page 4 ---
-Q.6 (A) Two identical balls A and B are at rest on a smooth surface. A ball C of
-different material but of same mass moving with velocity of 1.5 m/s and strike ball
-B. If co-efficient of restitution between B and C is 0.8 and that between A and B is
-0.5. Determine velocity of each ball after all collisions have taken place.
-
-(B) A train of weight 2000 KN is pulled by an engine on a level track at a constant
-speed of 36 kmph. The resistance due to friction is 10 N per KN of the train weight.
-
-Find the power of the engine.
-
-Q.7 (A) Three perfectly elastic balls A,B and C of mass 2 kg, 4 kg and 8 kg, move
-along a line with a velocities 4 m/s, 1 m/s and 0.75 m/s respectively. If the ball A
-strikes ball B which in turn strikes the ball C, determine the velocities of the three
-balls after impacts. Check the answer with energy consideration.
-
-(B) Two blocks of mass 20 kg and 40 kg are connected by a rope passing over a
-frictionless pulley as shown in Figure 5. Assuming coefficient of friction as 0.3 for
-all contact surfaces, find the tension in the string, and acceleration of the system.
-Also, compute the velocity of the system after 4 sec starting from the rest.
-
-Rope
-
-Figure.5
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-````
-
 ## 2013-14 · Re-Exam · Sem 2 · paper 25019d6198a2
 
 - Departments: Common (all branches)
@@ -4368,559 +5241,6 @@ of friction as 0.20. CRefer- fig 9)
 PWNS
 
 Figure 9 (10)
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper d689c7e40f8c
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 13/05/2016
-- Text: ocr (4 pages), mean OCR confidence 88.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (All Streams) Year: I Semester: II
-Academic Year: 2015-16
-
-Batch: 2013-14
-
-Subject: Engineering Mechanics - II
-
-Date: 13/05/2016
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions attempt any four questions.
-
-3. Inall five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started ona fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 Solve Any Four:
-
-a) State and Prove the perpendicular axis theorem. (05)
-
-b) Determine the time required for a car to travel 1 km along a road if the car starts from the (05);
-rest, reaches a maximum speed at some intermediate point, and then stops at the end of the
-
-road. The car can accelerates or decelerate at 1.5 m/s”.
-
-c) A flywheel starts from rest and afier half a minute rotates at 2000 rpm. Calculate the (05)
-(i) angular acceleration and (ii) number of revolution made by the wheel within this period.
-
-d) The fan blades have a total mass of 2 kg and can be assumed to act at centre and they have (05) |
-moment of inertia equal to I, = 0.18kgm? about an axis passing through its centre. If it is
-subjected to a moment of M = 3(1 —e~°**) Nm where t is in seconds, determine its angular
-
-velocity in t= 4 s starting from the rest.
-
-€) Three perfectly elastic balls A, B and C masses 2 kg, 4 kg and 8 kg move a line with (05),
-velocities 4 m/s, 1 m/s and 0.75 m/s respectively. If the ball A strikes B which in turn strikes i
-ball C, determine the velocities of the three balls after impact.
-
-Q.2 a) Find the Centriod of the shaded area shown in Figure 1. (10)
-
-Vy
---- page 2 ---
-OI oy.
-
-a Hoe WS THY, a
-Roe :
-"¢ s
-Sal
-mi
-% iM
-2s, ‘3 J
-A os
-ts aut
-
-30 mrt
-
-300 «nm
-| joo min} 120 anny al
-| 1 r |
-
-Figure: 1
-
-b) Find the Moment of inertia of f section Figure 2 about centroidal X & Y axis.
-
-Figure: 2
-
-Q.3 a) A bullet is fired from a height of 120 m at a velocity of 360 kmph at an angle of 30°
-upwards. Neglecting air resistance, find
-i. Total time of flight,
-ii. Horizontal range of the bullet,
-iii. Maximum height reached by the bullet, and
-iv. Final velocity of the bullet just before touching the ground.
-b) A particle oscillates between the points X = 40 mm and X = 160 mm with an acceleration
-
-a = £(100 — X) where k is constant. The velocity of particle is 18 mm/sec when X = 100 m
-
-and is zero at both X = 40 mm and X = 160 mm. Determine: (i) value of k (ii) the velocity
-when X = 120 mm.
-
-2/4
-
-(10) i
-
-(10)'
-
-(10)
---- page 3 ---
-Q.4
-
-Q.5
-
-Q.6
-
-a) Figure 3 shows the location of (10)
-cars A and B at t=0. Car A starts from
-rest and travels towards the
-
-intersection at a uniform rate of 2
-
-m/s’. Car B travels towards the
-intersection at a constant speed of 8
-m/s. Determine relative position,
-
-velocity and acceleration of car B
-
-w.r.t car A at t = 6 sec.
-
-Figure: 3
-4s,
-
-b) The angular acceleration of the rotor is given by @ =e Aynere ‘a’ is in rad/sec? and‘ (10)
-
-is in sec. At t= 1 sec, the angular velocity «#=10 rad/sec and the angular displacement
-
-v= = rad. Att = 0, 6 = -4 rad. Determine 0, and a when t = 4 sec.
-
-a) The system shown in Figure 4 is released from the rest. What is the height lost by the (10)
-
-bodies A, B and C in 2 seconds. Take coefficient of kinetic friction at the rubbing surface as
-
-0.4. Find also the tension T, and Tx in the wires. Assume pulleys weightless and frictionless.
-
-b) A block of mass m = 80 kg is compressed against a spring as shown in Figure 5. How far (10) |
-i
-
-from point B [distance x] will the block strike on the plane at point A. Take free length of
-spring as 0.9 m and spring stiffness as k = 40 X 10° N/m
-
-4
-WW
-I x
-ITT PTs 7 71k’
-
-S
-
-Medd fo
-
-~
-a!
-
-” 04m TB
-L i
-15kg
-. Figure: 5
-Figure: 4
-
-a) A rocket weighing 60000 N is launched vertically up with a constant thrust of 240 KN. (10)
-
-Assuming air resistance to be given by R = 20v where R is in Newtons and v is in m/s,
-determine the height when its velocity is 305 m/s, consider g and weight of rocket to be
-
-constant.
-
-3/4
---- page 4 ---
-b) A body of mass 2 kg is projected upwards from the surface of the ground at t= 0 with (10). :
-
-velocity of 20 m/s as shown in Figure 6. One seconds later another body of mass 2 kg is i
-
-dropped from a height of 20 m. If they collide elastically, find velocities of both the bodies
-
-just after collision.
-
-Figure: 6 ;
-Q.7 a) A bullet of mass 10 gm is having with a velocity of 100 m/s and hits a 2 kg bob ofa (£0);
-simple pendulum, horizontally as shown in Figure 7. Determine the maximum angle 8
-
-through which the pendulum string 0.5 m long may swing if (i) the bullet gets embedded in _
-
-the bob and (ii) the bullet escapes from the end of the bob with a velocity 10 m/s.
-
-Figure: 7 i
-b) Two smooth spheres A and B having a mass of 2 kg and 4 kg respectively collide with (10)
-initial velocities as shown in Figure 8. If the coefficient of restitution for the spheres is e = _
-
-0.8, determine the velocities of each sphere after collision.
-
-ian
-
-ha :
-
-ENS 4 m
-
-+
-Ay '
-
-Figure: 8
-
-4}y
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper 03ce2955aa0d
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM_03ce2955aa.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/07/2015
-- Text: ocr (3 pages), mean OCR confidence 91.0
-
-````text
-Ql
-
-Q.2
-
-SVKM’s NMIMS vk
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Ss :
-Batch: 2013-14 emesters I
-Academic Year: 2014-2015. ~.-
-
-Subject: Engineering Mechanics - II
-
-Marks: 100, %
-Date: 02/07/2015 { « Time: 10300 am to 1.00 pm
-i \ Durations: 3 (hrs)
-
-Instruction : Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Solve any four [4 x$=29.M]
-A) A ball is dropped from height of 10 meters. It hits the ground and rebounds. Coefficient of
-restitution for the impact with the ground is 0.8. Find the upward velocity of the ball after 3x
-
-rebound.
-B) What is the difference between Newton’s second law and D’ Alembert’s principle in the context
-
-of solving kinetics of particle problems.
-C) State and derive expression for velocity in case of curvilinear motion of a particle.
-D) Explain the terms Centroid, Center of Mass & Center of Gravity.
-
-E) What is difference between area moment of inertia, polar moment of inertia and mass moment of
-inertia.
-
-A) Find the centroid of the area shown in the y, [to]
-figure.
-
-B) Find the moment of inertia of shaded area | [eM]
-shown in figure w. r. t. given X axis and given
-Y axis
---- page 2 ---
-Q.3
-
-Qa4
-
-Q5
-
-A) A car travels along a depression in a road, the equation of the depression being x’=300y. The [}M]
-speed of the car is constant and equal to 60 Km/hour. Find its acceleration when the car is at the
-deepest point in the depression. What is the radius of curvature of the depression at this point?
-
-B) A particle is projected at 10 m/s as shown in the figure. Find x1, x2. x3 and total time of flight [10M]
-after coverage of distance x1+ x2+ x3.
-
-nN u=15m/s g = 9.81m/s? e=08
-
-X4 XQ ; X3
-A) For the acceleration-time diagram of a foM]
-particle shown in figure. Calculate velocity at | 49
-
-the end of 3 sec. and distance trayeled in 4 [| ~ i
-sec. ' 2 3 4
-
-B) A roller of radius 15 cm. rides between two A
-horizontal bars moving in the opposite [ —_
-direction as shown in the figure. (1) Locate -
-the instantaneous centre of velocity and give
-
-its distance from A. Assume no slip 396m
-conditions at the points A and B. (2) Locate
-
-the position of the instantaneous centre when
-
-both the bars are moving in the same 5m/s B
-direction.
-
-A) If the system shown in figure is released {isM]
-from rest, find the acceleration of cylinder a, b
-
-& c. Neglect the mass of pulleys and chords.
-
-a=7kg,b=8kg,c=20kg
---- page 3 ---
-B) From point O a ship A travels in the North North [eM]
-
-making an angle of 45° to the West with a is
-
-velocity of 36 km/hr and ship B travels in the ¥
-
-east with a velocity of 18 km/hr. Find the 5 B
-
-relative velocity of ship B w.r.t ship A. West. 450\\ Fast
-
-South
-
-Q.6 A) A 25N block is released from rest. It slides
-down the inclined having u=0.3 as shown in
-figure. Determine the maximum compression
-of the spring . Take k =1500N/m.
-
-fio]
-
-B) Determine the constant force P that will (taM]
-give the system of bodies shown in figure,
-velocity of 4 m/s after moving 5m from rest.
-Coefficient of friction between the blocks and
-the plane is 0.3. Pulleys are smooth.
-
-Q7 A) A ball (A) of mass 3 kg moving with a [uM]
-velocity 5m/s, impinges on a ball (B) of mass
-6kg moving with a velocity of 6m/s. The
-velocities of two balls are parallel and inclined
-at an angle 30° to the line joining their centers
-at the instant of impact. If the coefficient of
-restitution is 0.5, find
-
-a. Direction in which the ball ‘B’ will
-move after impact
-b. Velocity of the ball ‘B’ after impact
-c. Direction in which the ball ‘A’ will
-move after impact
-Velocity of the ball ‘A’ after impact.
-
-a B) Two double pulleys shown in figure are e [10M]
-connected to each other by a string as shown.
-
-Calculate acceleration of the mass ‘m’ and
-tension in the string connecting the two
-pulleys. Take g = 9.81m/s’. (m =15kg)
-
-Each pulley is mounted on_ frictionless
-
-saad bearings. Mass M.I. of each pulley is 0.9 kg- G)
-m”? and inner and outer radii of each pulley
-are 300 mm and 600 mm respectively.
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper 87c9f4899f5a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICES II BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2015
-- Text: ocr (3 pages), mean OCR confidence 88.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech {All Streams) Year: I Semester: H
-
-Academic Year: 2014-2015
-Batch: 2013-14
-
-Subject: Engineering Mechanics - II Marks: 100
-Time: 2.00 pm to 5.00 pm
-—— Date: 12/05/2015 Durations: 3 (hrs)
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for the use. NB:
-
-1. Question No.1 is compulsory
-
-2. Out of remaining questions attempts any Four
-
-3. In all five questions to be attempted.
-
-4. AlIl Questions carry equal marks
-
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicates full marks
-7. Assume suitable data if necessary
-
-8. Take acceleration due to gravity g=9.81m/s”
-
-Q.1. Solve Any 4
-
-a What is elastic impact of the body ; [5M]
-b State and prove parallel axis theorem : [5M]
-c Derive equation for projectile motion [5M]
-d_ Explain the use of s-t, v-t and a-t curve in the analysis of rectilinear motion. [5M]
-e Explain work energy principle [5M]
-
-Q.2.a Determine the centroid of the plane area in which a circular part of 40mm _ [10M]
-radius, has been removed as shown in figure.
-
-' . 40mm od
-
-i :
-
-1
-
-wt bevel ed
-
-i)
-
-1 : NY
-
-H
-
-1
-
-1
-
-H
-
-; 135 mm fmm,
-
-Q.2.b Find the M1 of a section shown in figure. * 30 : [10M]
-
-a. X- axis T
-b. y- axis 7
-c. Parallel centroidal x- axis 10
-
-d. Parallel centroidal y- axis
-
-i|
---- page 2 ---
-Q.3.a An object is projected so that it just clears two obstacles each 7.5m high which [10M]
-are situated 50m from each other. If the time of passing between two obstacles
-is 2.5 seconds, calculate the complete range of projection and initial velocity of
-projection.
-
-50m ;
-
-Q.3.b A race car start from rest and travels along a straight road until it reaches a [10M]
-speed of 42m/s in 50 seconds as shown in figure by v-t graph. Determine the
-
-distance travelled By trace car in 50 seconds. Draw x-t and a-t graph.
-NV (9)S
-
-42
-
-18
-
-' } | | + } t(sec)
-i020 30 40 50
-
-Q.4.a_ A table fan rotating at a speed of 2400rpm is switched off and the resulting [10M]
-variation of rpm with time is as shown in figure. Determine the total number of
-revolutions the fan has made in 25 seconds when it finally comes to rest.
-
-2400
-
-1000}----------- .
-1 1(sec
-0 10 25 Kee)
-
-Q.4.b In figure rod AB has angular velocity 2 rad/sec, counter clockwise
-rod BC is free to move on a horizontal surface. Determine A lel
-a. Angular velocity of BC Y
-b. Velocity of C
-
-_End C of [10M]
-
-O4B
-
-ae
-
-7 f. TITTTTTTT
-GC 2
-Q.5.a Block A =100kg shown in figure is observed to move upward with an [10M]
-acceleration of 1.8m/s2. Determine
-
-Oo
-Yo “(3
-
-zx
-
-#
---- page 3 ---
-a. Mass of block B
-b. Corresponding tension in the cable
-
-A
-Q5.b Pulley A starts from rest and rotates with a constant angular acceleration of 2. [10M]
-
-r/s2 anticlocwise . pulley A causes double pulley B to rotate without slipping.
-Block C hangs by a rope wound on B, determine at t=3 sec.
-a. Acceleration , velocity and position of block C. 1.2m
-
-b. Acceleration of péint P on pulley B.
-
-Q.6.a A body of mass M is projected up 25 degree inclined plane with initial velocity [10M]
-15m/s. if ps= 0.28 and pwk=0.25, determine how far the body will move up the
-
-plane and time required to reach the highest point.
-
-Q.6.b If the pendulum, shown in figure is released from rest in its unstable vertical [10M]
-equilibrium position, find the value of the angle 0 defining the position in its
-
-downward fall at which the axial force in the rod changes from compression to
-bob
-
-tension .
-
-Q.7.a Three telegraphs poles A, B and C are spaced at 50m intervals along a straight [10M]
-road. A car starting from rest accelerates uniformly, posses post A and then
-takes 8sec to reach post B and further 7sec to reach post C. Calculate
-
-a. The acceleration Of the car
-
-b. The velocity of the car at A, Band C
-
-c. The distance of the post A from the starting point of the car.
-Q.7.b Explain D’alembert’s principle
-Q.7.c_ Explain Principle of conservation of energy
-
-[5M]
-[5M]
-
-Been
-
-’
 ````
 
 ## 2013-14 · Re-Exam · Sem 2 · paper 3619c6b00de5
@@ -5097,324 +5417,4 @@ t mm mm mm mm
 Fig. 10
 
 Foge No S/s~
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper 787d015fe1b2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/Engineering Mechanics II (2013-14) Re Exam.pdf`
-- Printed on paper: exam date: 02/07/2015
-- Text: ocr (5 pages), mean OCR confidence 86.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: I Semester: II
-
-Academic Year: 2014-15
-
-oat a
-Batch: 2013-14 y et >
-
-Subject : Engineering Mechanics - II Marks: 10g
-Time : 2:06 thes) Gopnik ¥ a
-Date : 02/07/2015 Duration J
-seme trcs —
-Re-Examination fe wi
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-the cover of the answer book, which is provided for the use.
-
-NB: ;
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions attempts any four.
-
-3. In all five questions to be attempted.
-
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets on the right hand side indicates full marks. -
-
-7. Assume suitable data if necessary.
-
-8. Take acceleration due to gravity g = 9.81 m/s”
-
-Q.1) Solve any four: (4x5=20)
-a) State and explain parallel axis theorem.
-
-b) A 500 N crate as shown in figure (A) kept on the top of a 15° sloping surface is pushed down
-the plane with an initial velocity of 20 m/s. If ux = 0.4, determine the distance traveled by the
-block.
-
-4/5
---- page 2 ---
-Figs CA)
-c) Classify and explain the types of rectilinear motion.
-d) Write down the equation for conservation of energy equation and explain each term.
-
-e),Explain the method of finding the “instantaneous center of rotation” for a body.
-
-~Q.2) a) Find the centroid of the shaded section as shown in figure (B). 0S
-
->
-b) Find the moment of inertia about the centroidal axes as shown in figure (C). 45
-d ———— | oO mm—s
-| * 25 rm
-*
-, |
-mm
-aera. —— Go mm
-{25 mm
-| So me i 4o mn
->
-
-7 Fig Cc)
-Q.3) a) A car stars from rest on curved road of radius 250 m and accelerates at a constant
-tangential acceleration of 0.6 m/s?. Determine the distance and time for which car will travel
-before the magnitude of total acceleration attained by it becomes 0.75 m/s?. 10
-
-b) A player throws a ball with an initial velocity of 18 m/s from point A which is 1.5 m above the
-ground. He wants to hit the ball 16 m away from him. Determine the maximum height h at which the
-ball can strike the wall and corresponding angle a. 10
-
-oe
---- page 3 ---
-Q.4) a) In figure (D) A bar BC slides at C in a collar by 4 m/s velocity. The other end b is pinned
-on a roller. Find angular velocity of bar BC and the roller. = - 10
-> =het | &
-
-: “® _
-\ 20"
-——
-D>
-
-b) The velocity of the particle is defined as v = t? — 5t? + 3t + 4 wherev is in m/s and tis in
-seconds. Assuming initial displacement to be 2 m, find (1) initial velocity (2) initial acceleration
-(3) time interval at which acceleration will be zero (4) Displacement in first 4 seconds (5)
-Displacement in 6" second. 10
-
-Q.5 a) As shown in figure (E) determine the acceleration of block B. Also determine its
-displacement after 1 second if the system starts from rest. _ 10
-
-2 FO eee
-sae sia ARR) Se
-
-_ |
-
-LA
-
-Lf |
-
-|SON | BZ |200N
-Fig. (CE)
-
-b) A system shown in figure (F) is initially at rest. Neglecting friction, determine velocity of
-block A after it has moved 2.7 m when pulled by a force of 90 N. 10
-
-| a nr es
-
-Jon A | 5
-
-Sy aaa 22.5)
-rT Hs
-
-Z| |
-Oe” Gf > 7 a POO ge Pa
-
-big: CF) 3/s-
---- page 4 ---
-Q.6) a) Two identical stepped pulleys B and C as shown in figure (G) are connected by a cord as
-shown. Each pulley has inner radius of 120 mm and outer radius of 200 mm. The mass moment
-of inertia is 0.35 kgm*. Calculate acceleration of block A of mass 15 kg hanging from the outer
-rim of the pulley B. The pulleys are mounted on frictionless bearings. Also find the tension in
-
-cord. a 10
-/ — —- _
-[ff \\ @@ 7
-f 0, \ \ aa \
-| , eer | { / Or\ \
-\ \ J, / | | 2° |
-1 \ —~ / \ \o po}
-a B 7 \ \ —— /
-| \ /
-| C Z~
-
-ISea a |
-PAS gig. ce)
-b) A 3000 N block as shown in figure (H) slides down a 50° incline. It starts from rest. After
-moving 2 mit strikes a spring whose stiffness is 20 N/mnlf the coefficient of friction between the
-block and plane is 0.2, determine the maximum deformation of the spring and the maximum
-velocity of the block. 10
-
-Fig. abe
-
-Q.7) a) A block of wood weighing 10 kg is suspended as shown in figure (I). A bullet weighing
-
-5
-
-30 gms is fired with a velocity of 1200 m/s into the block. Calculate (1) the velocity of the block
-and builet after the bullet becomes fully embedded in the block and (2) the angle by which the
-
-string will swing from vertical. on N- —— 10
-
-[_-s
-© ‘ \
-
-16m
-
-S
---- page 5 ---
-b) Two smooth spheres A and B having a mass of 2 kg 4 kg respectively collide with initial
-velocities as shown in figure (J). If the coefficient of restitution for the spheres is e = 0.8,
-determine the velocities of each spheres after collision. 10
-````
-
-## Year not stated · Final-Exam · Sem 2 · paper 65f129a19bd2
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS II/ENGINEERING MECHANICS II (ALL STREAMS), 20174-18 FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 11 May 2018
-- Text: ocr (3 pages), mean OCR confidence 89.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-. Programme:B. Tech (All Streams) Year: I Semester: II
-
-/ . ¢ 2
-é Academic Year: 2017-2018
-
-*‘Subject:Engineering Mechanics — II
-
-o Marks:70 -
-Date:11 May 2018 Time: 10.00 am aritde Ee
-© Durations: 3 (hrs) aieas Vt ane
-No. of Pages : (2)
-Final Examination (2017-18) / Re-examination (2015-16 / 2016-17)
-a -
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. ©
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Attempt ALL questions.
-
-A) State & derive expression for acceleration in case of curvilinear motion: [4M]
-B) Explain Parallel Axis Theorem. [4M]
-C) Explain principle of Conservation of Momentum. [3M]
-D) Explain D’Alembert’s Principle. [3M]
-Q.2.a_ Find centroid of shaded area Shown in the Figure y, [7M]
-
-25m
-
-Q.2.b Find moment of Inertia about XX axis of shaded area || 25m [7M]
-shown in Fig.
-
-2.5m
-
-OL
-
-{2.5 m,| 2.5 m,|
---- page 2 ---
-Q.3.a A car starting from rest travels along a straight road [7M]
-. and for 50 sec has an acceleration as shown in the a (m/s*)
-figure. Find the distance travelled in 50sec.
-
-\
-
-i a=1/25t?
-
-t (s)
-
-25 50
-
-Q.3.b Determine the position at which a ball thrown up Ay [7M]
-‘to the right will strike the inclined surface shown :
-in figure. The initial velocity of the ball is 40m/s
-directed at,a = tan!(3/4) with the horizontal.
-
-Q.4.a In the system of pulleys, masses and connecting
-inextensible cables shown in the figure, the
-pulleys and the cables are considered massless
-and frictionless. Mass of A = 8kg, mass of B =
-10kg and mass of C = 19 kg. If the system is
-released from rest find: [a] Tension in each of - ‘
-cable. [b] Acceleration of each of the three
-
-masses. /
-—1T1.
-B
-10 kg
-
-Q.4.b The force P=90N is applied to the system, which ake [7M]
-is initially at rest. Determine the speeds of 8 kg
-and 12kg masses after 8kg mass has moved 0.6m.
-Neglect friction.
-
-[7M]
-
-P=90N
-
-12 Kg
---- page 3 ---
-Q.5.a Figure shows a collar B which moves upwards [7M]
-with a constant velocity of 4.0 m/s. At the instant
-when 0 = 30° determine (i) the angular velocity of
-rod AB which is pinned at B and is freely resting
-at A against 20° slope and (ii) the velocity of end
-A of the rod. Neglect size of the collar B &
-
-’ friction at A & B.
-
-Q.5.b Two identical balls each of mass m collide with ~ [7M]
-velocities as shown in the figure. Find the final A Y 8B
-velocities of the balls after impact. }- oN
-Assume e=0.6 ; a 5°
-
-Q.6.a_ A pulley of mass M.I. = 20 kgm? is acted upon by [7M]
-two masses (20kg and 25kg) as shown in the
-figure, calculate the angular acceleration of the
-pulley. The string connecting the two masses is
-massless, @lso calculate the tensions in thé string.
-
-475 mm
-1 =20 Kgre2
-
-20kg 25 Kg
-
-Q.6.b The acceleration of the particle is defined by the relation a = 50 - 10x? mm/s”. The particle [7M]
-starts with no initial velocity at the position x = 0. (a) Determine the velocity when x = 5
-mm _ (b) the position when velocity is again zero (c) position where the velocity is maximum.
-
-Q.7.a Ina flood relief area a helicopter going vertically up with a constant velocity drops first batch [7M]
-of food pockets which take 2 seconds to reach the ground. No sooner this batch reaches the
-ground, second batch of food packets are released and this batch takes 5 seconds to reach the
-ground. From what height was the first batch released? Also determine the velocity with
-which the helicopter is moving up?
-
-Q.7.b The position vector of a particle is given by r = (6t) i+(7t?)j (m) where t is in seconds. Att= [7M]
-Ssec, determine: (a) the magnitudes of normal and tangential components of acceleration of
-the particle and (b) the radius of curvature of the path.
-
-ee: ¥/,
 ````

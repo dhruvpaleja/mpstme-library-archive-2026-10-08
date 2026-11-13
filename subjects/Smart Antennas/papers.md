@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/SMART ANTENNAS/Smart Antennas,Sem8,Final,2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
 - Text: ocr (2 pages), mean OCR confidence 86.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS [S
@@ -117,7 +118,6 @@ ilse signals are sinusoid.
 of smart antennas:
 cos - [20]
 SO-1,6; a) Minimum Mean Square Error (MMSE)
-Blt b) Multiple Sidelobe Canceller and Maximum SINR Beamformer
 
 2)
 ````

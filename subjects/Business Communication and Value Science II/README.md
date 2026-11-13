@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Business Communication & Value Science - II(702BS0C028)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Business Communication & Value Science - II(702BS0C028)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Business Communication & Value Science - II(702BS0C028)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Business Communication & Value Science - II(702BS0C028)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Business Communication & Value Science - II(702BS0C028)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Business Communication & Value Science - II(702BS0C028)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | B TECH | Business Communication and Value Science-II, Sem-II, Final Exam 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | B TECH | Business Communication and Value Science-II, A Y 2023-24 Re Exam.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Business Communication and Value Science-II, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf |

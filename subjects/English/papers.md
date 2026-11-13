@@ -702,6 +702,7 @@ AN, Sy
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/English/English 2018-19 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 21 November 2018
 - Text: ocr (7 pages), mean OCR confidence 92.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -782,20 +783,17 @@ Q.2 A) I. Give meaning of any two of the following roots and give two words that
 
 root: (6 Marks)
 
-a. Morph b. Gyne c. Theos d.Pyr
 
 IL. Choose the option that correctly reflects the same relationship as exists between the given
 
 pair of words: (2 Marks)
 a. Philein :: Misein
-i.Gyne :: Ander —if.Mega :: Macro iii. Anthropos :: Ander iv. Aster :: Pyre
 b. Glib :: fluent
 i. Upset :: Calm. ii, Elated :: Happy iii. Jupiter :: Mars iv. Naive :: Wise
 II. Choose the option which is NOT A SYNONYM of the given words: (2 Marks)
 1. Relax
 a. rest b. unwind c, ease d. relegate
 2, Bestial
-a. feral b. feminine c. fiendish d. savage
 
 d? (600-800 words)
 
@@ -1265,6 +1263,7 @@ oh
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/English/English , Re-exam 2018-19.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 January 2019
 - Text: ocr (6 pages), mean OCR confidence 93.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1479,7 +1478,6 @@ th
 a. bore b. store c. order d. broken
 
 3. Lament
-a. languor b. rejoice c. laminate d. anguish
 
 Q.5 A) Fill in the blanks with the appropriate verbs. (8 Marks)
 

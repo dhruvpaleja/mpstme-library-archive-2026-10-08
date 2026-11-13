@@ -1,6 +1,6 @@
 # Safety, Health Environmental Management System
 
-**11** unique papers (19 copies across programmes) · 2010-11 to 2014-15 · 6 programmes · Sem 6, Trim 8, Trim 11, Trim 14
+**10** unique papers (18 copies across programmes) · 2010-11 to 2014-15 · 6 programmes · Sem 6, Trim 8, Trim 11, Trim 14
 
 Download only this subject, sorted by academic year:
 
@@ -19,7 +19,6 @@ Also filed as: `safety health and Environment management systems`, `SAFETY HEALT
 | 2014-15 | Final-Exam | Question paper | Sem 6 | MBA TECH, MBA TECH / CHEMICAL | SAFETY ,HEALTH AND ENVIRONMENTAL MANAGEMENT SYSTEMS 2014-15 Final.pdf |
 | 2014-15 | Re-Exam | Question paper | Sem 6 | MBA TECH | Safety, Health & Environmental Management Batch (2014-15) Re-exam.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 6 | MBA TECH, MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / MECHANICAL | SAFETY, HEALTH ENVIRONMENTAL MANAGEMENT SYSTEM BATCH 2013-14 Re-exam.pdf |
-| 2013-14 | Re-Exam | Question paper | Sem 6 | MBA TECH / I T | SAFETY,HEALTH ENVIRONMENTAL MANAGEMENT SYSTEM BATCH 2013-14 Re-exam.pdf |
 | 2012-13 | Re-Exam | Question paper | Trim 8 | MBA TECH / CHEMICAL, MBA TECH / I T | SAFETY, HEALTH AND ENVIRONMENTAL MANAGEMENT SYSTEMS VIII MBA TECH 2012-13 RE EXAM.pdf |
 | 2010-11 | — | Question paper | Trim 14 | MBA TECH | 2010-2011(45).pdf |
 | 2010-11 | — | Question paper | Trim 8 | MBA TECH / CHEMICAL, MBA TECH / I T | SAFETY,HEALTH AND ENVIRONMENTAL MANAGEMENT SYSTEMS BACTH 2010-2011.pdf |

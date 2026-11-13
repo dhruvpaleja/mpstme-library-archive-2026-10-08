@@ -1,6 +1,6 @@
 # International Sourcing: question papers in full
 
-8 unique papers · 2011-12 to 2014-15 · Common (all branches)
+8 unique papers · 2010-11 to 2014-15 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -212,6 +212,7 @@ Vv)
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/INTERNATIONL SOURCING/International Sourcing 2013-14 Re-exam.pdf`
 - Printed on paper: exam date: 05/07/2014
 - Text: ocr (1 page), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -245,7 +246,6 @@ Note: 1. Question no.1 is compulsory
 
 What are the forms of counte
 
-d t ar? Haw cz the hiner hein <
 for the buyer? How can the buver hein :
 
 2. Why do firms look for sourcing internationally? How the Indian context
@@ -276,6 +276,105 @@ b Incoterms 2010 in respect of category “Main Carriage Unpaid” ?
 x »
 
 if
+````
+
+## 2012-13 · Exam not stated · Trim 15 · paper 151ba7f88f76
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL SOURCING/Scan 0020.pdf`
+- Printed on paper: duration hours: 2; exam date: 12/4/2013
+- Text: text (1 page)
+
+````text
+\   SVKM's NMIMS
+Mukesh Pate1 School Of Technology Manaptement &
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester:
+Academic Year : 2012-2013
+/Subject:   INTERNATIONAL SOURCING   Marks:
+Time:
+Date:   12/4/2013   Duration:   2   hrs.
+Final - Examination
+1. Answer any five Questions. Answer in brief and to the point.
+2. Answer with reference to Cases discussed and presented for additional credits.
+NB : Cell Phones, Calculators and any kind of electronic Gadjet is not allowed in Class
+1 Explain the rational why a company should buy certain items from Overseas market ?
+Write a short Business Proposal for a commodity/product for any Business Segment ? 10
+2. a) Mention the major International Trade Regulations in India and how it is controlled ?
+5
+b)Explain the following Terms and INCOTERMS 201 0:   5
+Advalorem Tariff, Arbitrarage, SEZ, Free Trade Zone, FAS, DDP, DAT
+3. Which of thefive major categories of purchasing functional strategies can make the
+greatest contributions to overall purchasing eflectiveness ?   10
+4. a. Mention in detail any four(4) documents that needs to befilled up while importing any
+item ?
+b.Explain the procedure of clearance where such documents are used.
+i Use any specific item, category and Industry to explain .   10
+5. a. Explain the process of RFQ and RFP in detail .?   5
+b. How electronic commerce and recent technologies can enhance the performance of
+international sourcing ? Explain for a Retail /Manufacturing organization ?   5
+6. a) Explain any seven(7) most critical aspects while making a International Negotiation ?
+5
+b)Efficient Physical Distribution or Logistics Management is critical to Purchasing
+*   Manager's success. Explain this in briet   5
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper 89131e4448af
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL SOURCING/INTERNATIONAL SOURCING 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 31/03/2012
+- Text: ocr (1 page), mean OCR confidence 90.0
+
+````text
+\ SVKM’s NMIMS a
+MSD
+
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
+Academic Year : 2011-2012 3 nw SNe
+. Vaversity
+Subject: INTERNATIONAL SOURCING Marks: 50 . e )2
+Time: 2.00 pm T
+Date: 31/03/2012 Duration: 2 hrs.
+
+Final - Examination
+
+Answer any five Questions. Answer in brief and to the point.
+
+NB : Cell Phones , Calculators and any kind of electronic Gadjet is not allowed in Class
+
+1 Explain the rational why a company should buy certain items from International market ?
+Explain wrt to a particular Industry and a particular product /product range ? 10 marks
+
+2. a) Mention the major International Trade Regulations in India and how it is controlled? 5 marks
+b)Explain the following Terms and INCOTERMS 2010: 5 Marks
+
+Advalorem Tariff , Arbitrarage, Terms of Trade, SEZ, Free Trade Zone, FOB, FAS, DDP,DAT
+
+3. Which of the five major categories of purchasing functional strategies can make the greatest contributions to
+overall purchasing effectiveness ? 10 Marks
+
+4. Mention in detail any four documents that needs to be filled up while importing any item ?
+
+Explain the Sample documents and the procedure of clearance where such documents are used .
+Use specific item, category and Industry /Domain to explain . 10 Marks
+
+3. Explair the process of RFQ and RFP in detail explaining when it is used , how to write
+
+and what value it brings to the Sourcing / Head of Purchase ? 10 Marks
+6. a) Explain any seven(7) most critical aspects while making a International Negotiation ? 5 marks
+b)”Efficient Physical Distribution or Logistics Management is critical.to Purchasing
+Manager’s success.” Explain this statement in brief. 5 Marks
+
+’ |
+
+a
+
+x
+a VV
 ````
 
 ## 2011-12 · Re-Exam · Trim 15 · paper ee8e2e922b72
@@ -330,7 +429,7 @@ Advalorem Tariff , Arbitrarage, Terms of Trade, SEZ, Free Trade Zone, FOB, FAS, 
 4)
 ````
 
-## Year not stated · Exam not stated · Trim 15 · paper c8ec2a64f046
+## 2010-11 · Exam not stated · Trim 15 · paper c8ec2a64f046
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -409,103 +508,4 @@ in the world at present?
 —$$—_______. x ne x —_—-——_____——- x —
 
 Th.
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 89131e4448af
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL SOURCING/INTERNATIONAL SOURCING 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 31/03/2012
-- Text: ocr (1 page), mean OCR confidence 90.0
-
-````text
-\ SVKM’s NMIMS a
-MSD
-
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
-Academic Year : 2011-2012 3 nw SNe
-. Vaversity
-Subject: INTERNATIONAL SOURCING Marks: 50 . e )2
-Time: 2.00 pm T
-Date: 31/03/2012 Duration: 2 hrs.
-
-Final - Examination
-
-Answer any five Questions. Answer in brief and to the point.
-
-NB : Cell Phones , Calculators and any kind of electronic Gadjet is not allowed in Class
-
-1 Explain the rational why a company should buy certain items from International market ?
-Explain wrt to a particular Industry and a particular product /product range ? 10 marks
-
-2. a) Mention the major International Trade Regulations in India and how it is controlled? 5 marks
-b)Explain the following Terms and INCOTERMS 2010: 5 Marks
-
-Advalorem Tariff , Arbitrarage, Terms of Trade, SEZ, Free Trade Zone, FOB, FAS, DDP,DAT
-
-3. Which of the five major categories of purchasing functional strategies can make the greatest contributions to
-overall purchasing effectiveness ? 10 Marks
-
-4. Mention in detail any four documents that needs to be filled up while importing any item ?
-
-Explain the Sample documents and the procedure of clearance where such documents are used .
-Use specific item, category and Industry /Domain to explain . 10 Marks
-
-3. Explair the process of RFQ and RFP in detail explaining when it is used , how to write
-
-and what value it brings to the Sourcing / Head of Purchase ? 10 Marks
-6. a) Explain any seven(7) most critical aspects while making a International Negotiation ? 5 marks
-b)”Efficient Physical Distribution or Logistics Management is critical.to Purchasing
-Manager’s success.” Explain this statement in brief. 5 Marks
-
-’ |
-
-a
-
-x
-a VV
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 151ba7f88f76
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL SOURCING/Scan 0020.pdf`
-- Printed on paper: duration hours: 2; exam date: 12/4/2013
-- Text: text (1 page)
-
-````text
-\   SVKM's NMIMS
-Mukesh Pate1 School Of Technology Manaptement &
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester:
-Academic Year : 2012-2013
-/Subject:   INTERNATIONAL SOURCING   Marks:
-Time:
-Date:   12/4/2013   Duration:   2   hrs.
-Final - Examination
-1. Answer any five Questions. Answer in brief and to the point.
-2. Answer with reference to Cases discussed and presented for additional credits.
-NB : Cell Phones, Calculators and any kind of electronic Gadjet is not allowed in Class
-1 Explain the rational why a company should buy certain items from Overseas market ?
-Write a short Business Proposal for a commodity/product for any Business Segment ? 10
-2. a) Mention the major International Trade Regulations in India and how it is controlled ?
-5
-b)Explain the following Terms and INCOTERMS 201 0:   5
-Advalorem Tariff, Arbitrarage, SEZ, Free Trade Zone, FAS, DDP, DAT
-3. Which of thefive major categories of purchasing functional strategies can make the
-greatest contributions to overall purchasing eflectiveness ?   10
-4. a. Mention in detail any four(4) documents that needs to befilled up while importing any
-item ?
-b.Explain the procedure of clearance where such documents are used.
-i Use any specific item, category and Industry to explain .   10
-5. a. Explain the process of RFQ and RFP in detail .?   5
-b. How electronic commerce and recent technologies can enhance the performance of
-international sourcing ? Explain for a Retail /Manufacturing organization ?   5
-6. a) Explain any seven(7) most critical aspects while making a International Negotiation ?
-5
-b)Efficient Physical Distribution or Logistics Management is critical to Purchasing
-*   Manager's success. Explain this in briet   5
 ````

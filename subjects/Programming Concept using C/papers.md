@@ -1,10 +1,283 @@
 # Programming Concept using C: question papers in full
 
-12 unique papers · 2010-11 to 2012-13 · Common (all branches)
+12 unique papers · 2010-11 to 2013-14 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Re-Exam · Trim 1 · paper 94a7cf1ca2e5
+## 2013-14 · Re-Exam · Trim 1 · paper 4bf88a791b74
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/PROGRAMMING CONCEPTS USING C BATCH 2011-12 RE EXAM0001(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
+- Text: ocr (3 pages), mean OCR confidence 89.6
+
+````text
+SVKM’s NMIMS 4
+MUKESH PATEL SCHOOL OF TECHNOLOGY ran starens! & ENGINDERING
+
+Trignester: I
+
+Programme:MBA Tech (ALL) Year: | 4 7 (
+‘ateh:20 1k 12/
+
+Academic Year: 2013-14 1
+tpn: 4 WZ
+
+Subject : Programming Concepts using C
+Marks: 100
+
+Time : 10.00 am to 1.00 pm
+Durations:3 (hrs)
+Re-Examination
+
+Date :10/12/2013
+
+Instructions: Candidates should read carefully the insteantions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q1. A. Point out the error, if any, in the following C statements and explain the error. [10]
+
+i) int = 5;
+
+ii) char 4str;
+
+iii) char a="3”;
+
+iv) Perimeter of Square = 2 * side;
+v) slope = (y2-yl) = (x2-x1)
+
+B. Write output for the following code. [10]
+i) void main()
+{
+
+char name[]={‘g’,’a’,’m’,’e"};
+printf(“%s” name);
+
+}
+ii) void main()
+{
+int n=0,m;
+for(m=1;m<=n+1;m++)
+printf(""%d",m);
+}
+
+Page 1 of 3
+--- page 2 ---
+iii) void abc()
+
+t
+printf('\n In function abc");
+}
+void efg()
+{
+abc();
+printf("\n In function efg");
+}
+void mainQ)
+{
+printf("\n In main");
+efg();
+printf("\n In main");
+}
+iv) void main()
+t
+int j=65;
+printf("j>=45?%d:%c"j);
+}
+v) void main()
+{
+int j=6;
+switch(j)
+{
+default:printf("a");
+case | :printf(""b");
+case 6:printf("c");
+}
+}
+Q2. A. Explain For, While, and Do..While looping constructs with example. [10]
+Q2. B. Write a program to find the sum of following series 1+1/2+1/3+.......... +1/n [10]
+Q3. A. Explain switch-case control structure with example. [10]
+Q3. B. What is recursion? Write the program to find factorial of a number entered by
+user using recursive function. [10]
+Q4. A. What are the functions used to input and output data. Give examples. [10]
+Q4. B. Expiain any four string handling functions with the help of suitable examples [10]
+Q5.A.What are pointers in C? Write a program to swap two numbers using pointers. [10]
+Q5.B. Write a program to sort an array of 10 integers in descending order. [10]
+
+Page 2 of 3
+--- page 3 ---
+Q6.A.What are structures in C? Write a program to define a structure ‘employee’ containing
+following members
+1. Employee name
+2. Employee code
+
+Read data for 5 employees and display the input data. [10]
+Q6.B. Write a program to find length of a string entered by user. [10]
+Q7. Write short note on: (Any 4) [20]
+
+i) Storage classes in C
+ii) Operators in C
+
+iii) Any five Linux commands
+
+iv) Break and Continue statement
+
+v) Union with example
+
+vi) Call by value and call by reference mechanism
+
+— - =
+
+Page 3 of 3
+````
+
+## 2013-14 · Re-Exam · Trim 1 · paper 457e27b1641a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/PROGRAMMING CONCEPTS USING C BATCH 2011-12 RE EXAM0001(2).pdf`
+- Printed on paper: duration hours: 3; exam date: 17/06/2014
+- Text: ocr (3 pages), mean OCR confidence 89.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT.
+Pa itt OTE GF Bangg
+
+vt TN,
+Programme: MBA Tech (ALL STREAMS) Year: I f. RS, “THimester: Ms,
+: f! @f a pSTMB Ys
+Academic Year: 2013-14 Batch : 201K i IBRA RY Js
+A
+ject : ing C ts using C Nm es ea
+Subject : Programming Concep g Marks: 5 ‘ve ai os sie
+
+Date : 17/06/2014 Time : 10.00 a .0O0 pm
+Durations 3 (hrs)
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q1. A. Given the statement [10]
+int a=10,b=20;
+determine whether each of the following statements are true or false.
+
+i) The statement a =+ 10; is valid.
+
+ii) The expression a + 4/6 * 6/2 evaluates to 11.
+iii) The expression b + 3/2 * 2/3 evaluates to 20.
+iv) The statement a += b; gives the value 30 to a.
+
+v) The statement a=1/b; assigns the value 0.5 to a.
+B. Write output for the following code. [10]
+i) void main()
+{
+
+char game[]={‘c’,"r','i?70?,’k’,’e’,'t?}:
+printf(“%s”, game);
+
+Page 1 of 3
+--- page 2 ---
+ii) void main()
+
+{
+int a=6;
+switch(a)
+t
+case 1:printf("b");
+default:printf("a");
+case 6:printf("c");
+}
+}
+ili) void main()
+{
+int x=5, y=10, z=10;
+x =y==Z
+printf('"%d",x);
+}
+iv) void main()
+{
+int x=100, y=200;
+printf("Y%d", (x>y)?x:y );
+}
+v) void main()
+{
+int m[]={1,2,3,4,5}, x, y=0;
+for(x=0;x<5;x++)
+y=ytm|[x];
+printf("%d",y);
+}
+Q2. A. Write a program in C to search an element in an array of 10 integers. [10]
+Q2. B. Explain recursion with example. [10]
+Q3. A. Explain For, While, and Do..While looping constructs with example. [10]
+Q3. B. Explain switch-case control structure with example. [10]
+
+Q4.A.Write a program to find the sum of following series 1+1/2+1/3+ +1/n [10]
+Q4.B. What are pointers in C? Write a program to find the sum of the elements of an array
+of 10 integers using pointers. [10]
+
+Page 2 of 3
+--- page 3 ---
+QS5.A.What are structures in C? Write a program to define a structure
+following members
+1. Student name
+2. Student number
+Read data for 10 students and display the input data. [10]
+Q5. B. Explain any four string handling functions with the help of suitable examples [10]
+
+Q6.A. Write a menu driven program (use switch statement) to
+1. Add two numbers,
+2. Subtract two numbers,
+3. Multiply two numbers,
+4. Find smallest among two numbers
+
+OR
+Write a program to find the reverse of a number entered by user and check whether it
+is palindrome or not. [10]
+Q6. B. Explain gets(), puts(), printf(), scanf() with example. [10]
+Q7. Write short note on: (Any 4) [4X5=20]
+i) Storage classes in C
+ii) Any five Linux commands
+
+ill) Break and Continue statement
+
+iv) Union with example
+
+v) Call by value and call by reference mechanism
+vi) Basic structure of a C program
+
+x
+
+Page 3 of 3
+````
+
+## 2013-14 · Re-Exam · Trim 1 · paper 94a7cf1ca2e5
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -101,6 +374,170 @@ c) Program development life cycle.
 d) enum.
 
 =
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper 67a53563bb5e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/scan0013(6).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/10/2012
+- Text: ocr (2 pages), mean OCR confidence 87.3
+
+````text
+SVAN'S NNILNIDS
+Mukesh Patel School of Technology Management & Engineering
+Programme: MBA (TECH) -ALL STREAM Year: I Trimester: I
+
+Academic Year : 2012-2013 63 7
+
+Batch: 2011-12 -. cme |
+Subject: PROGRAMMING CONCEPTS USING C Marks: 100 = NMims University. |“
+: , Time: 10.00 am OopWwmbai - 56, | >
+Date: 24/10/2012 Duration: 3hrs. \ al LIBRARY ds
+
+Re - Examination IE
+Instructions: Candidate should read carefully the Instructions printed on the Question Pap!
+Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory
+2. Out of remaining questions, attempt any 4 questions
+3. In all 5(five) questions to be attempted
+4. All questions carry equal marks
+5. Answer to each new question to be started on a fresh page
+6. Figures on right side in bracket indicate full marks.
+
+Q.1 A) Write the output of following program. (10)
+a) void display()
+{
+Printf(“in display”);
+} d) = mainQ)
+void show() {
+{ int j;
+Display(); printf(‘j>=45? %d,%c”,j);
+Printf(“‘in show”); }
+}
+e) main()
+Void main() {
+' { char name[]={‘s’,’e’,’e’,’d7};
+} Show(); printf(“\n %s” name);
+— } }
+b) void main()
+{
+
+int a=0,b=-1,c=6,j;
+jeatt+ && ++b || c++ && ++b;
+Printf(“Y%od%d%d%d”,a,b,c,j);
+}
+c) void main()
+{
+‘ int k=4;
+WV) switehao
+{
+Default : printf(“a’”);
+Case 1: printf(“b”);
+Case 4: printf(“c”);
+Case 16/2 :printf(“‘g”); } }
+--- page 2 ---
+B) What is Assembly Language & Explain the characteristic of High Level
+
+language? (10)
+Q.2 A) Explain the concept of Passing Array as parameter to function. (10)
+’ B)write a program in c for to concatenate & compare two string & display it.
+(10)
+Q.3 A).What is recursion? What is minimum requirement for successful recursive
+function?Explain with example? (10)
+B) write a program to swap two no. without using third variable using function. (10)
+Q.4 A)Write a menu driven program to read a no & provide user following option
+1.Prime no.program 2.Reverse ofno. 3.Exit (10)
+B) what are the steps in program development life cycle?explain how it provide help
+in program development process with example . (10)
+Q.5 A)write a program to define a structure ‘student’ containing following members (10)
+1. student name
+2. roll no
+3. marks
+
+Enter data for 10 students and display the input data along with total marks of each student. |
+B) write a program to find weather given number is palindrome or not. (10)
+
+6 Define following terms (Any 4) (20)
+1.Actual argument & formal argument
+2.do while & while loop
+3.Break & Continue statement
+4.Type Casting
+5.File system in Linux
+
+}
+
+vw
+````
+
+## 2012-13 · Re-Exam · Trim 1 · paper 6e26408aac46
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/PROGRAMMING CONCEPTS USING C I MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/6/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Patel School of Technology Management % 1
+Programme: MBA-Tech-(ALL STREAMS)   Year:   I   Trimester:
+Academic Year :2012-2013
+/ Batch:   201 1-2012
+Subject:   Programming Concepts using C   Marks:   100
+Time:   10.00 am To 1.00pm
+Date:   11/6/2013   Duration: 3 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer book, which is provided for their use.
+NB:
+I. Question No. 1 is compulsory.
+2. Out of the remaining six questions, attempt any FOUR questions.
+3. In all FIVE questions to be attempted.
+4. Figures on the right hand side indicate full marks.
+5. Answer to each new question to be started on a fresh page.
+6. Illustrate answer with sketches wherever required.
+Q.1
+a) Distinguish between:   [41
+(i) Actual arguments and formal arguments
+(ii)Break and continue statements
+I   b) Explain any two input and two output devices in detail.   [61
+c) Explain the various control structures in C in detail with the help of suitable examples. [lo]
+a) What are preprocessor directives? Explain any two preprocessor directives.   141
+b) What are the functions used to input and output the data.   [61
+c) Explain program development life cycle in detail. Write differences between low-level
+language and high-level language.   [lo]
+--- page 2 ---
+4.3 ,
+a) Explain the different data types in C
+b) Write a program to print the following pattern.
+*
+* *
+* * *
+* * * *
+c) Write a program to find the sum of the digits of a three-digit number also find its reverse and
+display whether it is a palindrome or not.(draw a neat flowchart of program)   [lo]
+Q.4
+a) Write a program to sort array in ascending order.   I081
+b) Explain the concept of pointers in C in detail? Write a program using pointers to compute the
+sum of all elements stored in an array.   [I21
+Q.5
+a) Explain the following with respect to parameter passing to a function:
+(i) call by value   (ii) call by reference
+b) Write the program to generate Fibonacci series using:
+(i) Simple functions   (ii) Recursive functions
+Q.6
+a) Explain any four string handling functions with the help of suitable examples.   1081
+I   b) What is nested structure? Defme structure within structure consisting of following elements.
+Employee code, employee name, employee salary, employee data-of-joining.
+Write a program to read 10records and display them.   [I21
+Q.7
+a) Distinguish between structure and union.
+b) Explain any five Linux commands.
+c) Explain various storage classes in C.
 ````
 
 ## 2012-13 · Re-Exam · Trim 1 · paper 06becd8516ae
@@ -325,277 +762,144 @@ XK
 2fa_
 ````
 
-## 2011-12 · Re-Exam · Trim 1 · paper 4bf88a791b74
+## 2011-12 · Exam not stated · Trim 1 · paper a89d61cc1610
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/PROGRAMMING CONCEPTS USING C BATCH 2011-12 RE EXAM0001(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
-- Text: ocr (3 pages), mean OCR confidence 89.6
-
-````text
-SVKM’s NMIMS 4
-MUKESH PATEL SCHOOL OF TECHNOLOGY ran starens! & ENGINDERING
-
-Trignester: I
-
-Programme:MBA Tech (ALL) Year: | 4 7 (
-‘ateh:20 1k 12/
-
-Academic Year: 2013-14 1
-tpn: 4 WZ
-
-Subject : Programming Concepts using C
-Marks: 100
-
-Time : 10.00 am to 1.00 pm
-Durations:3 (hrs)
-Re-Examination
-
-Date :10/12/2013
-
-Instructions: Candidates should read carefully the insteantions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-Q1. A. Point out the error, if any, in the following C statements and explain the error. [10]
-
-i) int = 5;
-
-ii) char 4str;
-
-iii) char a="3”;
-
-iv) Perimeter of Square = 2 * side;
-v) slope = (y2-yl) = (x2-x1)
-
-B. Write output for the following code. [10]
-i) void main()
-{
-
-char name[]={‘g’,’a’,’m’,’e"};
-printf(“%s” name);
-
-}
-ii) void main()
-{
-int n=0,m;
-for(m=1;m<=n+1;m++)
-printf(""%d",m);
-}
-
-Page 1 of 3
---- page 2 ---
-iii) void abc()
-
-t
-printf('\n In function abc");
-}
-void efg()
-{
-abc();
-printf("\n In function efg");
-}
-void mainQ)
-{
-printf("\n In main");
-efg();
-printf("\n In main");
-}
-iv) void main()
-t
-int j=65;
-printf("j>=45?%d:%c"j);
-}
-v) void main()
-{
-int j=6;
-switch(j)
-{
-default:printf("a");
-case | :printf(""b");
-case 6:printf("c");
-}
-}
-Q2. A. Explain For, While, and Do..While looping constructs with example. [10]
-Q2. B. Write a program to find the sum of following series 1+1/2+1/3+.......... +1/n [10]
-Q3. A. Explain switch-case control structure with example. [10]
-Q3. B. What is recursion? Write the program to find factorial of a number entered by
-user using recursive function. [10]
-Q4. A. What are the functions used to input and output data. Give examples. [10]
-Q4. B. Expiain any four string handling functions with the help of suitable examples [10]
-Q5.A.What are pointers in C? Write a program to swap two numbers using pointers. [10]
-Q5.B. Write a program to sort an array of 10 integers in descending order. [10]
-
-Page 2 of 3
---- page 3 ---
-Q6.A.What are structures in C? Write a program to define a structure ‘employee’ containing
-following members
-1. Employee name
-2. Employee code
-
-Read data for 5 employees and display the input data. [10]
-Q6.B. Write a program to find length of a string entered by user. [10]
-Q7. Write short note on: (Any 4) [20]
-
-i) Storage classes in C
-ii) Operators in C
-
-iii) Any five Linux commands
-
-iv) Break and Continue statement
-
-v) Union with example
-
-vi) Call by value and call by reference mechanism
-
-— - =
-
-Page 3 of 3
-````
-
-## 2011-12 · Re-Exam · Trim 1 · paper 457e27b1641a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/PROGRAMMING CONCEPTS USING C BATCH 2011-12 RE EXAM0001(2).pdf`
-- Printed on paper: duration hours: 3; exam date: 17/06/2014
-- Text: ocr (3 pages), mean OCR confidence 89.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/PROGRAMMING CONCEPTS USING C BATCH 2010-110001.pdf`
+- Printed on paper: duration hours: 3; exam date: 12/06/2012
+- Text: ocr (1 page), mean OCR confidence 81.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT.
-Pa itt OTE GF Bangg
 
-vt TN,
-Programme: MBA Tech (ALL STREAMS) Year: I f. RS, “THimester: Ms,
-: f! @f a pSTMB Ys
-Academic Year: 2013-14 Batch : 201K i IBRA RY Js
-A
-ject : ing C ts using C Nm es ea
-Subject : Programming Concep g Marks: 5 ‘ve ai os sie
+Mukesh Patel School of Technology Management & Engineering
 
-Date : 17/06/2014 Time : 10.00 a .0O0 pm
-Durations 3 (hrs)
-Re - Examination
+Programme: MBA-Tech Year: I Trimester: I
+Academic Year : 2011-2012
 
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
+Batch: 2010-11 ee Ne
 
-NB:
+Subject: Programming Concepts using C Marks: [90° eye’? As a
+Time: ¥0.00.am To 1,00 pm
 
-1. Question No. 1 is compulsory.
+Date: 12/06/2012 Duration: ||3 hrs. ne 18
 
-2. Out of remaining questions, attempt any 4 questions.
+Re - Examination \eane
 
-3. Inall 5 questions to be attempted.
+CA ®
+Instruction : Candidates should read caretully the instructions printed on the questio Paper and on thes
+Vn Or
+Answer Book, Which is provided for their use. Orv spar
+NB : Question No 1 is compulsory
+1. Out of remaining question, attempt any four questions
+2. Inall five questions to be attempted
 
-4. Answer to each new question to be started on a fresh page.
+3. Answer to each question to be started on fresh page
+4. Figure in bracket indicate full marks.
 
-5. Figures in brackets on the right hand side indicate full marks.
+Q1. (a) Write output of following expression. 08
+X=4,y=8;
 
-Q1. A. Given the statement [10]
-int a=10,b=20;
-determine whether each of the following statements are true or false.
+Z=(xt+)+(+4x);
 
-i) The statement a =+ 10; is valid.
+| printf(‘“value of z and x is %d %d \n”,z,x);
+Za(Hy)t-atH(y--);
+printf(“value of x,y andxz %d %d %d\n”,x,y,z);
+Z>(--z)+(Y+4);
+printf(“value of y andx z %d_%d \n”,,y,z);
+Z -p(H+2)H(2--);
 
-ii) The expression a + 4/6 * 6/2 evaluates to 11.
-iii) The expression b + 3/2 * 2/3 evaluates to 20.
-iv) The statement a += b; gives the value 30 to a.
+\
 
-v) The statement a=1/b; assigns the value 0.5 to a.
-B. Write output for the following code. [10]
-i) void main()
-{
 
-char game[]={‘c’,"r','i?70?,’k’,’e’,'t?}:
-printf(“%s”, game);
+(b) Explain ternary operator with example ‘ 02
 
-Page 1 of 3
+Q 2 (a) Write a program to check whether enter matrix is symmetric or not 06
+(b) Explain left shift and right shift with the help of example . 04
+
+Q3 (a) Write a program to display first 50 prime no. 10
+Yj Explain call by value and call by reference with example 10
+
+Vo
+````
+
+## 2011-12 · Re-Exam · Trim 1 · paper f1a14fd54da5
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/PROGRAMMING CONCEPTS USING C BATCH 2010-11 RE EXAM0001.pdf`
+- Printed on paper: exam date: 12/06/2012
+- Text: ocr (2 pages), mean OCR confidence 86.3
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+Programme: MBA-Tech Year: I Trimester: I
+
+Academic Year : 2011-2012
+
+Batch: 2010-11 ‘
+Subject: Programming Concepts using C Marks: LOO vet’? oy Ye
+Time: ¥0.00.am To 1,00 pm
+Date: 12/06/2012 Duration: \\Sbrs.w jay 1
+Re - Examination OO ye
+Instruction : Candidates should read caretully the instructions printed on the questio paper and on ners”
+Answer Book, Which is provided for their use. os Hane ee fo
+NB : Question No 1 is compulsory ;
+1. Out of remaining question, attempt any four questions -
+2. Inall five questions to be attempted
+3. Answer to each question to be started on fresh page
+4. Figure in bracket indicate full marks.
+Q.1. (a) Write output of following expression. 08
+X=4,y=8;
+Z=(x++)+(+4x);
+printf(“value of z and x is %d %d \n”,z,x);
+) Zyxt);
+printf(“value of x,y andxz %d %d_ %d\n”,x,y,z);
+Z=(--2)+(Y+4);
+printf(“value of y andx z %d_%d \n”,,y,z);
+Z-=(Ha)H2-)
+}
+printf(¢value of z is Yod\n”,z);
+(b) Expat ternary operator with example . 02
+Q2 (a) Write a program to check whether enter matrix is symmetric or not 06
+(b) Explain left shift and right shift with the help of example . 04
+Q3 (a) Write a program to display first 50 prime no. 10
+Yb) Explain call by value and call by reference with example 10
+
+Vo
 --- page 2 ---
-ii) void main()
+Q 4 (a) Write a program to display following pattern 06
 
-{
-int a=6;
-switch(a)
-t
-case 1:printf("b");
-default:printf("a");
-case 6:printf("c");
-}
-}
-ili) void main()
-{
-int x=5, y=10, z=10;
-x =y==Z
-printf('"%d",x);
-}
-iv) void main()
-{
-int x=100, y=200;
-printf("Y%d", (x>y)?x:y );
-}
-v) void main()
-{
-int m[]={1,2,3,4,5}, x, y=0;
-for(x=0;x<5;x++)
-y=ytm|[x];
-printf("%d",y);
-}
-Q2. A. Write a program in C to search an element in an array of 10 integers. [10]
-Q2. B. Explain recursion with example. [10]
-Q3. A. Explain For, While, and Do..While looping constructs with example. [10]
-Q3. B. Explain switch-case control structure with example. [10]
+1
+1 2 1
+1 23 2 ]
 
-Q4.A.Write a program to find the sum of following series 1+1/2+1/3+ +1/n [10]
-Q4.B. What are pointers in C? Write a program to find the sum of the elements of an array
-of 10 integers using pointers. [10]
+(b) Explain difference between structure and union 04,7
+(c) Explain following unix command with example 10
+a) grap b) Is-lc) who d) cal e) banner
+Q5 (a) Write a program to check whether enter string is palindrome or not. 1g
+(b) What is recursion ? Find factorial of given no using recursion. 10
 
-Page 2 of 3
---- page 3 ---
-QS5.A.What are structures in C? Write a program to define a structure
-following members
-1. Student name
-2. Student number
-Read data for 10 students and display the input data. [10]
-Q5. B. Explain any four string handling functions with the help of suitable examples [10]
+Q 6 Define structure student which consist following member 1 ) Stdid 2) stdname 3) stdadd 4) 20
+submarks] 5) submarks2 6) submarks3 perform following operation on it.
+a) Input 5 student information.
+b) Calculate total marks and prect of each student.
+c) Organized student record according to percent wise in ascending order .
+d) Display all student information.
 
-Q6.A. Write a menu driven program (use switch statement) to
-1. Add two numbers,
-2. Subtract two numbers,
-3. Multiply two numbers,
-4. Find smallest among two numbers
+Q7 Write a short notes on 204
 
-OR
-Write a program to find the reverse of a number entered by user and check whether it
-is palindrome or not. [10]
-Q6. B. Explain gets(), puts(), printf(), scanf() with example. [10]
-Q7. Write short note on: (Any 4) [4X5=20]
-i) Storage classes in C
-ii) Any five Linux commands
+a) Preprocessor Directive
 
-ill) Break and Continue statement
+b) Prototype of the function.
 
-iv) Union with example
+¢) Switch-case
 
-v) Call by value and call by reference mechanism
-vi) Basic structure of a C program
-
-x
-
-Page 3 of 3
+h Program language classification.
 ````
 
 ## 2011-12 · Re-Exam · Trim 1 · paper 7044f85d3c8b
@@ -741,73 +1045,6 @@ d) Storage classes in C
 e) Unformatted functions
 ````
 
-## 2011-12 · Re-Exam · Trim 1 · paper 6e26408aac46
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/PROGRAMMING CONCEPTS USING C I MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/6/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School of Technology Management % 1
-Programme: MBA-Tech-(ALL STREAMS)   Year:   I   Trimester:
-Academic Year :2012-2013
-/ Batch:   201 1-2012
-Subject:   Programming Concepts using C   Marks:   100
-Time:   10.00 am To 1.00pm
-Date:   11/6/2013   Duration: 3 hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer book, which is provided for their use.
-NB:
-I. Question No. 1 is compulsory.
-2. Out of the remaining six questions, attempt any FOUR questions.
-3. In all FIVE questions to be attempted.
-4. Figures on the right hand side indicate full marks.
-5. Answer to each new question to be started on a fresh page.
-6. Illustrate answer with sketches wherever required.
-Q.1
-a) Distinguish between:   [41
-(i) Actual arguments and formal arguments
-(ii)Break and continue statements
-I   b) Explain any two input and two output devices in detail.   [61
-c) Explain the various control structures in C in detail with the help of suitable examples. [lo]
-a) What are preprocessor directives? Explain any two preprocessor directives.   141
-b) What are the functions used to input and output the data.   [61
-c) Explain program development life cycle in detail. Write differences between low-level
-language and high-level language.   [lo]
---- page 2 ---
-4.3 ,
-a) Explain the different data types in C
-b) Write a program to print the following pattern.
-*
-* *
-* * *
-* * * *
-c) Write a program to find the sum of the digits of a three-digit number also find its reverse and
-display whether it is a palindrome or not.(draw a neat flowchart of program)   [lo]
-Q.4
-a) Write a program to sort array in ascending order.   I081
-b) Explain the concept of pointers in C in detail? Write a program using pointers to compute the
-sum of all elements stored in an array.   [I21
-Q.5
-a) Explain the following with respect to parameter passing to a function:
-(i) call by value   (ii) call by reference
-b) Write the program to generate Fibonacci series using:
-(i) Simple functions   (ii) Recursive functions
-Q.6
-a) Explain any four string handling functions with the help of suitable examples.   1081
-I   b) What is nested structure? Defme structure within structure consisting of following elements.
-Employee code, employee name, employee salary, employee data-of-joining.
-Write a program to read 10records and display them.   [I21
-Q.7
-a) Distinguish between structure and union.
-b) Explain any five Linux commands.
-c) Explain various storage classes in C.
-````
-
 ## 2010-11 · Exam not stated · Trim 1 · paper 2d555a6c3464
 
 - Departments: Common (all branches)
@@ -910,69 +1147,6 @@ c) Write a program to demonstrate the use of any four string handling functions.
 ia
 ````
 
-## 2010-11 · Exam not stated · Trim 1 · paper a89d61cc1610
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/PROGRAMMING CONCEPTS USING C BATCH 2010-110001.pdf`
-- Printed on paper: duration hours: 3; exam date: 12/06/2012
-- Text: ocr (1 page), mean OCR confidence 81.6
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA-Tech Year: I Trimester: I
-Academic Year : 2011-2012
-
-Batch: 2010-11 ee Ne
-
-Subject: Programming Concepts using C Marks: [90° eye’? As a
-Time: ¥0.00.am To 1,00 pm
-
-Date: 12/06/2012 Duration: ||3 hrs. ne 18
-
-Re - Examination \eane
-
-CA ®
-Instruction : Candidates should read caretully the instructions printed on the questio Paper and on thes
-Vn Or
-Answer Book, Which is provided for their use. Orv spar
-NB : Question No 1 is compulsory
-1. Out of remaining question, attempt any four questions
-2. Inall five questions to be attempted
-
-3. Answer to each question to be started on fresh page
-4. Figure in bracket indicate full marks.
-
-Q1. (a) Write output of following expression. 08
-X=4,y=8;
-
-Z=(xt+)+(+4x);
-
-| printf(‘“value of z and x is %d %d \n”,z,x);
-Za(Hy)t-atH(y--);
-printf(“value of x,y andxz %d %d %d\n”,x,y,z);
-Z>(--z)+(Y+4);
-printf(“value of y andx z %d_%d \n”,,y,z);
-Z -p(H+2)H(2--);
-
-\
-
-a a of z is Yd\n”,z);
-
-(b) Explain ternary operator with example ‘ 02
-
-Q 2 (a) Write a program to check whether enter matrix is symmetric or not 06
-(b) Explain left shift and right shift with the help of example . 04
-
-Q3 (a) Write a program to display first 50 prime no. 10
-Yj Explain call by value and call by reference with example 10
-
-Vo
-````
-
 ## 2010-11 · Exam not stated · Trim 1 · paper bebd9aa7b925
 
 - Departments: Common (all branches)
@@ -980,6 +1154,7 @@ Vo
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/programming concepts using c 2010-2011.pdf`
 - Printed on paper: exam date: 27/10/2010
 - Text: ocr (3 pages), mean OCR confidence 85.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 es
@@ -1064,7 +1239,6 @@ for(i=0;i<2:i++)
 for(j=0;j<=i;j++)
 printf(“Y%od\n”,* (*(atj)+i));
 B) Write differences between low level language and high level language with example. 6 &
-C) GxPlain ftwo Pruaprousso directives with ercample, 2
 Q2. A) Write a program to generate Fibonacci series. 5
 
 B) Explain the following with respect to the parameter passing to a function- 10
@@ -1103,178 +1277,4 @@ b) Write aC program to display - 10
 * *
 
 *
-````
-
-## 2010-11 · Re-Exam · Trim 1 · paper f1a14fd54da5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/PROGRAMMING CONCEPTS USING C BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: exam date: 12/06/2012
-- Text: ocr (2 pages), mean OCR confidence 86.3
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-Programme: MBA-Tech Year: I Trimester: I
-
-Academic Year : 2011-2012
-
-Batch: 2010-11 ‘
-Subject: Programming Concepts using C Marks: LOO vet’? oy Ye
-Time: ¥0.00.am To 1,00 pm
-Date: 12/06/2012 Duration: \\Sbrs.w jay 1
-Re - Examination OO ye
-Instruction : Candidates should read caretully the instructions printed on the questio paper and on ners”
-Answer Book, Which is provided for their use. os Hane ee fo
-NB : Question No 1 is compulsory ;
-1. Out of remaining question, attempt any four questions -
-2. Inall five questions to be attempted
-3. Answer to each question to be started on fresh page
-4. Figure in bracket indicate full marks.
-Q.1. (a) Write output of following expression. 08
-X=4,y=8;
-Z=(x++)+(+4x);
-printf(“value of z and x is %d %d \n”,z,x);
-) Zyxt);
-printf(“value of x,y andxz %d %d_ %d\n”,x,y,z);
-Z=(--2)+(Y+4);
-printf(“value of y andx z %d_%d \n”,,y,z);
-Z-=(Ha)H2-)
-}
-printf(¢value of z is Yod\n”,z);
-(b) Expat ternary operator with example . 02
-Q2 (a) Write a program to check whether enter matrix is symmetric or not 06
-(b) Explain left shift and right shift with the help of example . 04
-Q3 (a) Write a program to display first 50 prime no. 10
-Yb) Explain call by value and call by reference with example 10
-
-Vo
---- page 2 ---
-Q 4 (a) Write a program to display following pattern 06
-
-1
-1 2 1
-1 23 2 ]
-
-(b) Explain difference between structure and union 04,7
-(c) Explain following unix command with example 10
-a) grap b) Is-lc) who d) cal e) banner
-Q5 (a) Write a program to check whether enter string is palindrome or not. 1g
-(b) What is recursion ? Find factorial of given no using recursion. 10
-
-Q 6 Define structure student which consist following member 1 ) Stdid 2) stdname 3) stdadd 4) 20
-submarks] 5) submarks2 6) submarks3 perform following operation on it.
-a) Input 5 student information.
-b) Calculate total marks and prect of each student.
-c) Organized student record according to percent wise in ascending order .
-d) Display all student information.
-
-Q7 Write a short notes on 204
-
-a) Preprocessor Directive
-
-b) Prototype of the function.
-
-¢) Switch-case
-
-h Program language classification.
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 67a53563bb5e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/PROGAMMING CONCEPT USING C/scan0013(6).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/10/2012
-- Text: ocr (2 pages), mean OCR confidence 87.3
-
-````text
-SVAN'S NNILNIDS
-Mukesh Patel School of Technology Management & Engineering
-Programme: MBA (TECH) -ALL STREAM Year: I Trimester: I
-
-Academic Year : 2012-2013 63 7
-
-Batch: 2011-12 -. cme |
-Subject: PROGRAMMING CONCEPTS USING C Marks: 100 = NMims University. |“
-: , Time: 10.00 am OopWwmbai - 56, | >
-Date: 24/10/2012 Duration: 3hrs. \ al LIBRARY ds
-
-Re - Examination IE
-Instructions: Candidate should read carefully the Instructions printed on the Question Pap!
-Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory
-2. Out of remaining questions, attempt any 4 questions
-3. In all 5(five) questions to be attempted
-4. All questions carry equal marks
-5. Answer to each new question to be started on a fresh page
-6. Figures on right side in bracket indicate full marks.
-
-Q.1 A) Write the output of following program. (10)
-a) void display()
-{
-Printf(“in display”);
-} d) = mainQ)
-void show() {
-{ int j;
-Display(); printf(‘j>=45? %d,%c”,j);
-Printf(“‘in show”); }
-}
-e) main()
-Void main() {
-' { char name[]={‘s’,’e’,’e’,’d7};
-} Show(); printf(“\n %s” name);
-— } }
-b) void main()
-{
-
-int a=0,b=-1,c=6,j;
-jeatt+ && ++b || c++ && ++b;
-Printf(“Y%od%d%d%d”,a,b,c,j);
-}
-c) void main()
-{
-‘ int k=4;
-WV) switehao
-{
-Default : printf(“a’”);
-Case 1: printf(“b”);
-Case 4: printf(“c”);
-Case 16/2 :printf(“‘g”); } }
---- page 2 ---
-B) What is Assembly Language & Explain the characteristic of High Level
-
-language? (10)
-Q.2 A) Explain the concept of Passing Array as parameter to function. (10)
-’ B)write a program in c for to concatenate & compare two string & display it.
-(10)
-Q.3 A).What is recursion? What is minimum requirement for successful recursive
-function?Explain with example? (10)
-B) write a program to swap two no. without using third variable using function. (10)
-Q.4 A)Write a menu driven program to read a no & provide user following option
-1.Prime no.program 2.Reverse ofno. 3.Exit (10)
-B) what are the steps in program development life cycle?explain how it provide help
-in program development process with example . (10)
-Q.5 A)write a program to define a structure ‘student’ containing following members (10)
-1. student name
-2. roll no
-3. marks
-
-Enter data for 10 students and display the input data along with total marks of each student. |
-B) write a program to find weather given number is palindrome or not. (10)
-
-6 Define following terms (Any 4) (20)
-1.Actual argument & formal argument
-2.do while & while loop
-3.Break & Continue statement
-4.Type Casting
-5.File system in Linux
-
-}
-
-vw
 ````

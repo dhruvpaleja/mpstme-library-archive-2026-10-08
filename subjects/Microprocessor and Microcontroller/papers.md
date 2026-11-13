@@ -767,6 +767,7 @@ result.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MICROPR0OCESSOR AND MICROCONTROLLER/Microprocessor and Microcontroller Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; exam date: 13th July 2026
 - Text: ocr (2 pages), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -865,7 +866,6 @@ BL-4
 numbers. Show how flag bits in the PSW register are affected by the
 result. :
 
-SRR a Do ok a a a ok ke
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper a2b3567b6898
@@ -1259,6 +1259,139 @@ lal of operation. :
 | COs: 80-1; | d. Discuss pipelining in ARM 7 microcontroller. Examine the various stages | [5]
 
 implemented in pipelining.
+
+Page 2 of 2
+````
+
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 8babfd22326f
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/MICROPROCESSOR AND MICROCONTOLLER/Microprocessor and Micrrocontoller, Sem-IV, Final & Re Exam 2022-23, 2021-22.pdf` (+2 identical copies)
+- Printed on paper: duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 87.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+-
+
+Program/s: MBA Tech/ B.Tech/B.Tech (Integrated) Year: II/TV Semester: IV/VIII
+Stream/s; Computer Engineering
+
+Subject: Microprocessor and Microcontroller . Time: 03 hrs (40-00 amto 4:00pm)
+Date:_18 /o4 /2024 No. of Pages: 02
+
+Marks: __100
+
+Final Examination/Re-Examination (2022-23/2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the questi
+of the Answer Book, which is provided for their use. \
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks. ;
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. .
+
+Qi Answer briefly:
+
+CO-1;
+
+SO-1; a. | Illustrate the role IC8284 in 8086 microprocessor based system. [04]
+
+BL-1
+
+ae b Calculate the location of CS:IP values in Interrupt vector table if a type 43 interrupt 04
+
+By |”. | is identified? ]
+- So Explain the following pins with reference to 8087 co-processor. aa
+
+BL2. ° i.BUSY ii. RQ/GTO iii. INT iv. QS0-QS1 [04]
+
+ae q Define any two addressing modes of 8051 microcontroller with appropriate 6a
+
+BL-1. * | examples val
+
+CO- 4;
+
+SO-1; e. | What are the advantages and disadvantages of using Arduino? [04]
+
+BL-2
+
+Q2
+
+CO-1;
+
+SO-1; A | Describe register organization of 8086 with functions of each register. [10]
+
+BL-1
+
+CO-2; Draw architecture of 8087 coprocessor with detail description of numeric extension
+
+SO-1; B | unit. [10]
+
+BL-2
+
+Page 1 of 2
+--- page 2 ---
+Q3
+
+ro
+
+=e A What is I1C8288? Describe the need of IC8288 in designing § 8086 microprocessor- [10]
+BL-4. based systems with connection diagram.
+Coes Enumerate the sequence of actions taken by 8259 to process an incoming interrupt?
+sO | B | Describe INTR and NMI pins of 8086 with its difference. Bo]
+Q4 ;
+
+Write a neatly commented 8086 Assembly language program to find a smallest
+BL3 11h, 23h, 89h) stored in memory (data segment). Save the smallest number in a
+
+memory.
+CO-3;
+SO-1; B | Describe the salient features of 8051 microcontroller with a neat block diagram. [10]
+BL-1
+Q5
+CO-2: Explain the following with reference to 8086 assembly language [5 marks each].
+SO-1 ; A i. String manipulation instructions [10]
+BL-2 ii. Procedure and Macro
+CO-3; 10 bytes of data are stored at internal memory location 35h onwards. Write an 8051
+SO-4; B | assembly language program with comments to add these bytes and save the result [10]
+BL-3 in R3(lower byte) and R4(higher byte).
+Q6
+pe Explain different modes of operation of timers in 8051? Identify the registers
+po & involved in operation of the timers and give its format. [10]
+at B Discuss the features and architecture of any one microcontroller used in Arduino [10]
+BL2. board with the help of block diagram.
+Q7
+
+Write 8051 assembly language programs with comment for following logical
+CO-3; operations. Assume operands are available in internal memory location 40h
+SO-4; A : . : [08]
+BL-3 onwards. Store the result in registers of bank0
+
+i. AND ii, OR iii. XOR
+
+CO-3;
+SO-1; B | Draw and explain interrupt enable register of 8051. [06]
+BL-2
+CO-2;
+SO-1; C | List the sources of Interrupts in 8086 and their type numbers. Explain any two. [06]
+BL-2
 
 Page 2 of 2
 ````
@@ -1783,139 +1916,6 @@ CO-1;SO-1; | ©. | Purpose of ICWs, OCW in 8259 Programmable Interrupt Controlle
 BL-1,2 operating modes of 8259 ;
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 8babfd22326f
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/MICROPROCESSOR AND MICROCONTOLLER/Microprocessor and Micrrocontoller, Sem-IV, Final & Re Exam 2022-23, 2021-22.pdf` (+2 identical copies)
-- Printed on paper: duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 87.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
--
-
-Program/s: MBA Tech/ B.Tech/B.Tech (Integrated) Year: II/TV Semester: IV/VIII
-Stream/s; Computer Engineering
-
-Subject: Microprocessor and Microcontroller . Time: 03 hrs (40-00 amto 4:00pm)
-Date:_18 /o4 /2024 No. of Pages: 02
-
-Marks: __100
-
-Final Examination/Re-Examination (2022-23/2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the questi
-of the Answer Book, which is provided for their use. \
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks. ;
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. .
-
-Qi Answer briefly:
-
-CO-1;
-
-SO-1; a. | Illustrate the role IC8284 in 8086 microprocessor based system. [04]
-
-BL-1
-
-ae b Calculate the location of CS:IP values in Interrupt vector table if a type 43 interrupt 04
-
-By |”. | is identified? ]
-- So Explain the following pins with reference to 8087 co-processor. aa
-
-BL2. ° i.BUSY ii. RQ/GTO iii. INT iv. QS0-QS1 [04]
-
-ae q Define any two addressing modes of 8051 microcontroller with appropriate 6a
-
-BL-1. * | examples val
-
-CO- 4;
-
-SO-1; e. | What are the advantages and disadvantages of using Arduino? [04]
-
-BL-2
-
-Q2
-
-CO-1;
-
-SO-1; A | Describe register organization of 8086 with functions of each register. [10]
-
-BL-1
-
-CO-2; Draw architecture of 8087 coprocessor with detail description of numeric extension
-
-SO-1; B | unit. [10]
-
-BL-2
-
-Page 1 of 2
---- page 2 ---
-Q3
-
-ro
-
-=e A What is I1C8288? Describe the need of IC8288 in designing § 8086 microprocessor- [10]
-BL-4. based systems with connection diagram.
-Coes Enumerate the sequence of actions taken by 8259 to process an incoming interrupt?
-sO | B | Describe INTR and NMI pins of 8086 with its difference. Bo]
-Q4 ;
-
-Write a neatly commented 8086 Assembly language program to find a smallest
-naira A, | Bumber from list of 12 numbers (AOh, 3Eh, 67H, BAh, CFh, 10h, CAh, 2Fh, 9Eh, r10)
-BL3 11h, 23h, 89h) stored in memory (data segment). Save the smallest number in a
-
-memory.
-CO-3;
-SO-1; B | Describe the salient features of 8051 microcontroller with a neat block diagram. [10]
-BL-1
-Q5
-CO-2: Explain the following with reference to 8086 assembly language [5 marks each].
-SO-1 ; A i. String manipulation instructions [10]
-BL-2 ii. Procedure and Macro
-CO-3; 10 bytes of data are stored at internal memory location 35h onwards. Write an 8051
-SO-4; B | assembly language program with comments to add these bytes and save the result [10]
-BL-3 in R3(lower byte) and R4(higher byte).
-Q6
-pe Explain different modes of operation of timers in 8051? Identify the registers
-po & involved in operation of the timers and give its format. [10]
-at B Discuss the features and architecture of any one microcontroller used in Arduino [10]
-BL2. board with the help of block diagram.
-Q7
-
-Write 8051 assembly language programs with comment for following logical
-CO-3; operations. Assume operands are available in internal memory location 40h
-SO-4; A : . : [08]
-BL-3 onwards. Store the result in registers of bank0
-
-i. AND ii, OR iii. XOR
-
-CO-3;
-SO-1; B | Draw and explain interrupt enable register of 8051. [06]
-BL-2
-CO-2;
-SO-1; C | List the sources of Interrupts in 8086 and their type numbers. Explain any two. [06]
-BL-2
-
-Page 2 of 2
-````
-
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper 5b4334379183
 
 - Departments: Electronics and Telecommunication
@@ -2210,6 +2210,100 @@ CO-3 ; SO-1; BL-1
 CO-1 ; SO-1; BL-3 b. | Construct and explain the architecture of 8255 Programmable peripheral interface | [10]
 
 Page 2 of 2
+````
+
+## 2021-22 · Final-Exam · Sem 4 · paper 3e7827b8612e
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/MICROPROCESSOR AND MICROCONTOLLER/Microprocessor and Microcontroller,SemIV,Final,A.Y.20210001.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 April 2022
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+" SVKM’s NMIMS {( De, \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING q3
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE . 4
+
+Academic Year: 2021-22
+
+Programme: B. Tech / MBA Tech (Computer) Year: II Semester: IV
+Subject: Microprocessor and Microcontroller
+
+, . Marks: 100
+Date: 20 April 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+No. of Pages: 02+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any _4 _ questions.
+
+3) In all _5_ questions to be attempted.
+
+4) All questions carry equal marks. Give-a-brief comparison of AVR-and PIC-mierocontroHers
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: (Attempt All) [20]
+CO-1: SO- a. 8086 : Explain the function of the following pins of 8086:
+1; BL-4 (i) ALE (ii) NMI (iii) INTR (iv) HOLD (v) HLDA
+ee b. Illustrate and explain the Control and Status Word of 8087 Coprocessor
+co.3 :SO- c. Explain with necessary Special function register format, the power saving modes
+4; BL-4 of 8051 microcontroller.
+d. Describe the use of following Arduino Pins:
+i. Power/GND
+C0-4: $O- ii. Analog
+6; BL-6 iii. Digital
+iv. PWM
+v. AREF
+A Draw the schematic internal block diagram of 8086 and explain the function of
+Q2 each block.
+CO-1; SO- B Recognize to which set these instructions belongs to: (20]
+1; BL-1 e MOVSB
+e LEA
+--- page 2 ---
+e LDS
+&
+
+Write an 8086-assembly language program for a block containing 10 elements
+which needs to be transferred from source to destination using STRING instruction
+and write the output.
+
+A Draw bus-cycle timing diagram for memory read operation in minimum mode and
+Q3 explain briefly.
+CO-1; SO- : i
+2: BL-4 B List types of interrupts in 8086 and Explain sequence of events takes place when
+, Interrupt occurs in 8086 processor
+A Discuss the Interrupt structure of 8051 Microcontroller with a neat diagram.
+Q4 Mention the SFR’s available for handling interrupts and give their priorities.
+CO-4: SO- B Write a neatly commented 8051 assembly language program to generate a square | [20]
+1,2; BL-3 wave at P2.3 with a frequency of 5 KHz. Crystal frequency is 16 MHz. Use any
+timer
+A Illustrate how oscillator frequency is made available to Timer stages and describe
+Q5 the Timer Mode 2 operation of 8051. Give the format of the SFR used to select the
+CO-3; SO- various timer modes. [20]
+4; BL-6 B ;
+Draw and explain the architecture of Arduino Uno board.
+A A set of 10 bytes in available in the byte addressable area of 8051 at addresses 70h
+to 7Ah. Write a neatly commented ALP to read this data byte by byte and transfer
+it serially. Baud rate is 4800
+Q6 B Write short note (Attempt any 2) 0
+CO-4; SO- 1.IVT (20)
+
+6; BL-6
+
+2.Contrast on AVR and PIC Microcontrollers
+3.Data type in 8087
+4. SCON
 ````
 
 ## 2021-22 · Final-Exam · Sem 4 · paper b89496bf5dc7
@@ -3096,6 +3190,172 @@ Write a program to display MPSTME on LCD display using 8051.
 Page 2 of 2
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper b0c9dff7e448
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/Microprocessor .....Re-exam 2016-17-18-19.pdf` (+1 identical copies)
+- Printed on paper: exam date: 14 June 2019
+- Text: ocr (2 pages), mean OCR confidence 93.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech / MBA Tech IT) ~ Year: IL Semester: IV
+Academic Year: 2018-2019
+
+Subject: Microprocessor and Microcontroller
+
+Date: 14 June 2019-
+
+; ; ; No. of Pages
+Re- Examination (2016-17 / 2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. =
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicaté full marks.
+
+7) Assume suitable data if necessary.
+
+Ql.a) Answer any Three. . (3 marks each)
+
+1. State and explain the importance of stack segment and stack pointer.
+2. State different Addressing Modes in 8086 .
+
+3. Short note on serial communication in 8051.
+
+4. Explain BSR mode of 8255.
+
+b) Compare Microcontroller v/s Microprocessor. (5 marks)
+Q2. a) Explain interrupt driven I/O operation w.r.t. 8086. (7 marks)
+
+b) Write Assembly code for 8086 for given problem statement: Also Draw flow chart.
+Consider a suitable array of 100 numbers stored in memory starting from 1B1BH
+and search specific number stored at memory location LF1FH from given Array ;
+if the number is found load memory location LE1EH with FF otherwise with 00. (7 marks)
+
+Q3. a) State the necessity of interrupt vector table in microprocessor based system. Explain with
+Block diagram operation of 8259 Interrupt controller ; (7 marks)
+
+b) Write Assembly code for 8086 for given problem statement: Also Draw flow chart.
+
+We have 10 numbers stored from memory location 1A00H onwards get average value
+For these numbers and store the result in memory location 1FQQH. (7 marks)
+
+4p.
+--- page 2 ---
+Q4. a) Draw and explain Timing diagram for Memory write operation in Maximum mode of 8086. (7 marks)
+b) Draw Block diagram of microcontroller 8051 and state functionality of each block. (7marks)
+
+Q5 a) Explain various operational modes of Programmable Peripheral Controller IC 8255
+use to Interface with 8086. ‘ (7marks)
+
+b) State the role of 8257 IC in microprocessor based system. Explain it’s operation. (7marks)
+
+Q6) a) Assume internal RAM memory locations 40H — 44H contain the daily temperature for five days, as shown
+below. Search to see if any of the values equals 30. If value 30 does exist in the table, give its location to R4;
+otherwise, make R4=0. Write Assembly code for 8051. Also Draw flow chart.
+40H=(25) 41H=(31) 42H=(26) 43H=(29) 44H=(30) . (7marks)
+
+b) List different modes of 8254 Timer and explain in brief with suitable examples. (7marks)
+
+Q7) a) Draw schematic diagram for Maximum mode of 8086 interfacing hardware and explain in brief. (7 marks)
+
+b) State the role of ALE, READY pins in 8086? What is PSW in 8086. (7 marks)
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper b688b25c550c
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 November 2018
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) ~ Year: III Semestg
+
+Academic Year: 2018-2019
+
+Subject: Microprocessor & Microcontroller ~
+
+Marks: 60 «
+
+Date: 20 November 2018 ° Time: 10.00 a:
+Durations: 3 (hr
+
+No. of Pages:
+
+Re-examination (20 15-16 / 2016-17)
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB: ;
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+QI. Answer the following. [12]
+
+a) Explain addressing mode in 8051. [04]
+
+b) Distinguish between microprocessor and microcontroller. [04]
+
+c) Draw 8087 architecture [04]
+
+Q2. Answer the following. [12]
+
+=== a) WAP in assembly to find average of two 16bit number for 8086. [06]
+so b) Draw and explain architecture of 8051. [06]
+
+| Jo
+--- page 2 ---
+Q3. Answer the following. [12]
+
+a) Explain working of 8259 interfacing with 8086 . [06]
+b) Explain system configuration of 8086 in minimum mode in detail. [06]
+Q4. Answer the following. [12]
+a) Write a program to blink LED on PORT] using Random delay. [06]
+: : b) Draw and explain timing diagram of 8086 write cycle in maximum mode. [06]
+j
+Q5.Answer the following. [12]
+a) Draw and explain DMA architecture [06]
+b) Write a program to display ‘MPSTM’ on LCD [06]
+Q6.Answer the following. [12]
+a) Explain Memory module in 8051 [06]
+b) Explain 8255 PPI : [06]
+Q7.Write Short Hotes on any two of the following. [12]
+a) TCON
+
+b) Data types in 8087
+
+c) Interrupt Vector Table
+````
+
 ## 2018-19 · Re-Exam · Sem 5 · paper 8f69a7879ce9
 
 - Departments: Computer Engineering
@@ -3587,6 +3847,86 @@ a —
 2
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 514f39b2c9b1
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOIR & MICROCONTROLLER (COMPUTER), BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 29 November 2017
+- Text: ocr (2 pages), mean OCR confidence 91.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) Year: Ill Semester: V
+
+Batch: 2015-16/ 2016-17
+7 Academic Year: 2017-2018
+
+Subject: Microprocessor & Microcontroller
+
+Date: 29 November 2017
+
+7
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql A Answer any Three (2 marks each) (6)
+i) Explain the following pin function of 8086: ALE, DT/R, RQ/GT, and HLDA.
+ii) Draw the timing diagram of memory read in minimum mode.
+iii) If DS contains 1006h than what physical address the instruction
+MOV AL, [234AH] contains?
+iv) Explain the difference between Main processor & coprocessor.
+
+BJ) Explain the difference between Parallel processing & pipelining. (3)
+II) Draw & explain the block diagram of 8288 bus controller. (3)
+
+Q2 A __ Explain the Register relative addressing modes of 8086. Write an ALP to copy
+the length of 10 string bytes from starting address 12345h to 34784h in 8086. (6)
+B Explain how the sequence of operation is executed with flow diagram when
+
+any software interrupt has arrived, also explain Dedicated interrupts of 8086. (6)
+Q3 A _ Explain mode 1 of 8255 in parallel I/O mode. (6)
+B Draw the interfacing diagram of 8086 with 8259 in master slave configuration. (6)
+and explain.
+Q4 A _ Explain the data transfer related instructions of 8086. (6)
+B Draw & explain the interfacing diagram of 8087 with 8086. (6)
+
+tf,
+--- page 2 ---
+Q5 A Draw the CWR of 8255 in parallel I/O Mode. Write an initialization sequence to (6)
+define Port A mode 2,Port B as output in mode 1.The 16-bit address of
+Control word register is 3456h.
+B__ Explain the SFR(Special function register) of 8051. (6)
+
+Q6 A Draw interfacing diagram of LCD with 8051. Write a program in assembly to display message ‘MPSTMI
+in middle of first line on LCD. (6M)
+
+B What is need of DMA? Draw & explain neat structure of 8257 DMA Controller. (6)
+
+Q7 Write short note on: (Any TWO) (12)
+A Assembler directives
+B 8254 operating modes
+C   PSW of 8086
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper 97616f1ced15
 
 - Departments: Computer Engineering
@@ -3774,6 +4114,7 @@ Page 4 Ay
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/MICROPROCESSOR AND MICROCONTROLER/Microprocessor_and_Microcontroller_2016-17_2017-18 Re-exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 29 June 2018
 - Text: ocr (2 pages), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3819,7 +4160,6 @@ three):
 (i) XCH (ii) DINZ (iii) MOVX (iv) RLC A
 
 b. Explain the following pins of 8086 (any four):
-(i) READY (ii) RQ/GT) ~— (itt) QS1, QSo (iv) BHE/S7 (v) ADo-ADis
 a. Show the contents of the Accumulator and PSW register after the execution of following
 instructions:
 MOV A, #9Ch
@@ -4220,6 +4560,91 @@ Page 2 of 2
 —~N
 ````
 
+## 2016-17 · Re-Exam · Sem 4 · paper 5667e7d32531
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 May 2017
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) ; Year: II . Semester: IV
+
+Batch: 2014-2015/2015 - 2016 «
+
+Academic Year: 2016-2017
+
+Bi LIBRA
+Subject: Microprocessor and Microcontroller ~ i Ps —— aY #.
+
+\ Ne,
+Marks: 60 . yee
+Date: 09 May 2017 Time: 10.00 am to 1.00 pm Meenas a
+Durations: 3 (hrs)
+
+No. of Pages: _2—
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. __1__ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all ___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. 7
+
+Qi. Attempt any THREE questions. [12]
+a) Explain the Memory Banking in 8086.
+b) List the feature of IC 8255.
+c) Compare and contrast microprocessor and microcontroller.
+d) Draw and explain Program Status Word and flags (PSW) of 8051.
+e) Distinguish between procedure and macros.
+
+Q.2 (A) Draw and explain the Architecture of 8086 in detail. [06]
+(B) Draw the interfacing of latch and bus trans-receiver IC with 8086
+Microprocessor for 20 bit address and 16 bit data. [06]
+Q.3 (A) Explain the addressing modes in 8086. [06]
+(B) Explain the segmentation process of 1MB memory into 64 KB for each type of
+Segment in 8086 microprocessor. [06]
+eel
+Q.4 (A) Write program multiplication of two 8-bit numbers using TASM. [06]
+(B) Explain in detail functional block diagram of 8259 PIC. [06]
+Q.5 (A) Draw and explain the functional diagram of 8255. [06]
+
+Vy
+--- page 2 ---
+(B) Explain the use of a DMA Controller in a multiprocessor system. Draw and explain
+
+the block diagram of 8257. [06]
+Q.6 (A) Draw and explain the interfacing of microcontroller with keyboard. [06]
+(B) Explain with example the following instruction of 8086. [06]
+
+1) SAR 2) MVI 3) JNB 4) PUSH 5) IDIV 6) LEA
+Q.7 Write short on (ANY TWO) - [12]
+
+1) Assembler directives
+
+2) Register Banking in Microcontroller
+3) Role of clock generator 8284
+
+4) Timer of 8051
+````
+
 ## 2016-17 · Re-Exam · Sem 4 · paper 957b864fddf0
 
 - Departments: Information Technology
@@ -4298,208 +4723,39 @@ emma
 2
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper b0c9dff7e448
+## 2016-17 · Re-Exam · Sem 5 · paper 4f59ac571b38
 
-- Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/Microprocessor .....Re-exam 2016-17-18-19.pdf` (+1 identical copies)
-- Printed on paper: exam date: 14 June 2019
-- Text: ocr (2 pages), mean OCR confidence 93.1
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER B TECH (COMP), BATCH 2015-16 RE EXAM.pdf`
+- Printed on paper: exam date: 08 December 2016
+- Text: ocr (2 pages), mean OCR confidence 92.4
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech / MBA Tech IT) ~ Year: IL Semester: IV
-Academic Year: 2018-2019
+Programme : B. Tech (COMPUTER) Year : III Semester : Vv
+Batch : 2015-2016 ;
 
-Subject: Microprocessor and Microcontroller
+Academic Year : 2016-2017 Go
+Subject : Microprocessor & Microcontroller Marks : MPSYMBE
+Time : P toSPo6 Br¥
 
-Date: 14 June 2019-
-
-; ; ; No. of Pages
-Re- Examination (2016-17 / 2017-18/2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. =
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicaté full marks.
-
-7) Assume suitable data if necessary.
-
-Ql.a) Answer any Three. . (3 marks each)
-
-1. State and explain the importance of stack segment and stack pointer.
-2. State different Addressing Modes in 8086 .
-
-3. Short note on serial communication in 8051.
-
-4. Explain BSR mode of 8255.
-
-b) Compare Microcontroller v/s Microprocessor. (5 marks)
-Q2. a) Explain interrupt driven I/O operation w.r.t. 8086. (7 marks)
-
-b) Write Assembly code for 8086 for given problem statement: Also Draw flow chart.
-Consider a suitable array of 100 numbers stored in memory starting from 1B1BH
-and search specific number stored at memory location LF1FH from given Array ;
-if the number is found load memory location LE1EH with FF otherwise with 00. (7 marks)
-
-Q3. a) State the necessity of interrupt vector table in microprocessor based system. Explain with
-Block diagram operation of 8259 Interrupt controller ; (7 marks)
-
-b) Write Assembly code for 8086 for given problem statement: Also Draw flow chart.
-
-We have 10 numbers stored from memory location 1A00H onwards get average value
-For these numbers and store the result in memory location 1FQQH. (7 marks)
-
-4p.
---- page 2 ---
-Q4. a) Draw and explain Timing diagram for Memory write operation in Maximum mode of 8086. (7 marks)
-b) Draw Block diagram of microcontroller 8051 and state functionality of each block. (7marks)
-
-Q5 a) Explain various operational modes of Programmable Peripheral Controller IC 8255
-use to Interface with 8086. ‘ (7marks)
-
-b) State the role of 8257 IC in microprocessor based system. Explain it’s operation. (7marks)
-
-Q6) a) Assume internal RAM memory locations 40H — 44H contain the daily temperature for five days, as shown
-below. Search to see if any of the values equals 30. If value 30 does exist in the table, give its location to R4;
-otherwise, make R4=0. Write Assembly code for 8051. Also Draw flow chart.
-40H=(25) 41H=(31) 42H=(26) 43H=(29) 44H=(30) . (7marks)
-
-b) List different modes of 8254 Timer and explain in brief with suitable examples. (7marks)
-
-Q7) a) Draw schematic diagram for Maximum mode of 8086 interfacing hardware and explain in brief. (7 marks)
-
-b) State the role of ALE, READY pins in 8086? What is PSW in 8086. (7 marks)
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 514f39b2c9b1
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOIR & MICROCONTROLLER (COMPUTER), BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 29 November 2017
-- Text: ocr (2 pages), mean OCR confidence 91.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) Year: Ill Semester: V
-
-Batch: 2015-16/ 2016-17
-7 Academic Year: 2017-2018
-
-Subject: Microprocessor & Microcontroller
-
-Date: 29 November 2017
-
-7
+Date : 08 December 2016 Duration °
 
 Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql A Answer any Three (2 marks each) (6)
-i) Explain the following pin function of 8086: ALE, DT/R, RQ/GT, and HLDA.
-ii) Draw the timing diagram of memory read in minimum mode.
-iii) If DS contains 1006h than what physical address the instruction
-MOV AL, [234AH] contains?
-iv) Explain the difference between Main processor & coprocessor.
-
-BJ) Explain the difference between Parallel processing & pipelining. (3)
-II) Draw & explain the block diagram of 8288 bus controller. (3)
-
-Q2 A __ Explain the Register relative addressing modes of 8086. Write an ALP to copy
-the length of 10 string bytes from starting address 12345h to 34784h in 8086. (6)
-B Explain how the sequence of operation is executed with flow diagram when
-
-any software interrupt has arrived, also explain Dedicated interrupts of 8086. (6)
-Q3 A _ Explain mode 1 of 8255 in parallel I/O mode. (6)
-B Draw the interfacing diagram of 8086 with 8259 in master slave configuration. (6)
-and explain.
-Q4 A _ Explain the data transfer related instructions of 8086. (6)
-B Draw & explain the interfacing diagram of 8087 with 8086. (6)
-
-tf,
---- page 2 ---
-Q5 A Draw the CWR of 8255 in parallel I/O Mode. Write an initialization sequence to (6)
-define Port A mode 2,Port B as output in mode 1.The 16-bit address of
-Control word register is 3456h.
-B__ Explain the SFR(Special function register) of 8051. (6)
-
-Q6 A Draw interfacing diagram of LCD with 8051. Write a program in assembly to display message ‘MPSTMI
-in middle of first line on LCD. (6M)
-
-B What is need of DMA? Draw & explain neat structure of 8257 DMA Controller. (6)
-
-Q7 Write short note on: (Any TWO) (12)
-A Assembler directives
-B 8254 operating modes
-C   PSW of 8086
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper b688b25c550c
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 November 2018
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) ~ Year: III Semestg
-
-Academic Year: 2018-2019
-
-Subject: Microprocessor & Microcontroller ~
-
-Marks: 60 «
-
-Date: 20 November 2018 ° Time: 10.00 a:
-Durations: 3 (hr
-
-No. of Pages:
-
-Re-examination (20 15-16 / 2016-17)
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
 
-NB: ;
+NB:
 
 1) Question No.1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
-3) In all 5 questions to be attempted.
+3) In all 5 questions to be attempted. :
 
 4) All questions carry equal marks.
 
@@ -4507,41 +4763,48 @@ NB: ;
 
 6) Figures in brackets on the right hand side indicate full marks.
 
-QI. Answer the following. [12]
+Q1. Answer any four of the following. [12]
 
-a) Explain addressing mode in 8051. [04]
+a) Features of 8086
 
-b) Distinguish between microprocessor and microcontroller. [04]
+b) Explain the concept of segmented memory: What are its advantages?
+c) What are the various interrupts in 8086.
 
-c) Draw 8087 architecture [04]
+d) Features of 8051.
 
-Q2. Answer the following. [12]
+e) Explain different assembly directives of 8051.
 
-=== a) WAP in assembly to find average of two 16bit number for 8086. [06]
-so b) Draw and explain architecture of 8051. [06]
+f) Explain' T-states, Machine cycles and Instruction cycles.
 
-| Jo
+Q2. a) Explain the software and Hardware interrupts of 8051. [6]
+b) Explain TIMER/COUNTERs of IC 8051. [6]
+Q3. a) Explain interrupt structure of 8086. [6]
+b) Write a programme for 8051 in assembly language to display INDIA on LCD. [6]
+Q4. a) Explain 8253interfacing with 8086. [6]
+b) Explain memory organization concept of 8086. [6]
+Q5.Answer the following. . [12]
+a) Draw & discuss the internal block diagram of 8086. [6]
+b) Explain physical address formation in different addressing mode. [6]
+
+Page fe
 --- page 2 ---
-Q3. Answer the following. [12]
+[12]
 
-a) Explain working of 8259 interfacing with 8086 . [06]
-b) Explain system configuration of 8086 in minimum mode in detail. [06]
-Q4. Answer the following. [12]
-a) Write a program to blink LED on PORT] using Random delay. [06]
-: : b) Draw and explain timing diagram of 8086 write cycle in maximum mode. [06]
-j
-Q5.Answer the following. [12]
-a) Draw and explain DMA architecture [06]
-b) Write a program to display ‘MPSTM’ on LCD [06]
-Q6.Answer the following. [12]
-a) Explain Memory module in 8051 [06]
-b) Explain 8255 PPI : [06]
-Q7.Write Short Hotes on any two of the following. [12]
-a) TCON
+Q6.Answer the following.
+a) Draw and explain internal memory organization of 8051. [6]
+b) Write a program to arrange given set of numbers in ascending order. [6]
 
-b) Data types in 8087
+Q7.Write Short Notes on any three of the following. [12]
 
-c) Interrupt Vector Table
+a) Minimum mode of 8086.
+
+b) /O mapped I/O and memory mapped I/O.
+c) Write an assembly Language program to blink the LED alternately turn on and off of 8255.
+
+d) 8087 Math Co-processor.
+e) 8255 programmable peripheral interface.
+
+Page 2/2
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper 3c2f5bdf90de
@@ -4726,6 +4989,269 @@ Write short note on any TWO
 Page 2 of 2
 
 14
+````
+
+## 2015-16 · Exam not stated · Sem 4 · paper f37108eda7e7
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPRO0CESSOR AND MICROCONTROLLER B TECH (IT), BATCH 10001.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVEM’s NMIMS
+
+’\. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+. Programme: B. Tech (LT.) Year: II Semester: IV Aen A lig
+| (£7
+a .
+
+Academic Year: 2015-2016
+
+Subject : Microprocessor and Microcontroller ta
+ms ww, *
+Marks: 60 Mi janiee 57
+Date : 10/05/2016 : “7
+
+Durations: 3 (hrs)
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. __1__is compulsory.
+2) Out of remaining questions, attempt any __4 questions.
+
+3) In all __5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Va
+
+Q1. Attempt any THREE questions.
+a) What is the need of Latch and Clock Generator and Trans receiver IC with 8086
+Microprocessor. . :
+b) List the feature of IC 8251.
+c) Explain the generation of 20 bit physical address in codé segment with example.
+d) Draw flow. chart for arranging numbers in ascending order.
+e) Distinguish between procedure and macros.
+
+[12]
+
+Q.2 (A) What is the significance of wait state? Draw and explain timing diagram for Minimum mode
+
+write cycle. [06]
+(B) Draw and explain the Architecture of 8086 in detail. [06]
+c Q.3 (A) Draw and explain different types of operation command word of 8259. : [06]
+(B) Give addressing modes of 8086 with suitable example. [06]
+Q.4 (A) Write program for subtraction of 16 bit numbers. [06]
+(B) Explain the use of a DMA Controller in a multiprocessor system. Draw and explain
+the block diagram of 8257. [06]
+a
+Q.5 (A) Explain in detail the interrupt vector table. [06]
+pass (B) Draw and explain the functional diagram of 8255. : [06]
+Q.6 (A) Explain the assembler directives of 8051. [06]
+
+Yo.
+--- page 2 ---
+(B) Draw and explain the interfacing of microcontroller with seven-segment display. [06]
+Q.7 Write short on (ANY TWO) [12]
+
+1) Interfacing of 8259 with 8086
+
+2) Register Banks and stack in Microcontroller
+
+3) Classification of instruction set in 8086
+
+4) Interrupt service routines and its priorities in 8086
+
+® R
+````
+
+## 2015-16 · Exam not stated · Sem 4 · paper ab5370dc78f2
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER B TECH (IT), BATCH 140001.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
+- Text: ocr (2 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (IT) Year: II Semester: IV
+
+Academic Year: 2015-16
+
+Batch:2014-15
+
+Subject: Microprocessor and Microcontroller Marks: 60
+Time: 10.00 am
+Date: 10/05/2016 Durations: 3 hrs.
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their
+
+use.
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Attempt any four out of remaining six questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each question to be started on a fresh paper.
+
+6. Figures in bracket on the right hand side indicate full marks.
+QI Answer any three (4 marks each) (12)
+
+i) Explain Interrupt vector concept while handling interrupt?
+
+ii) Explain Memory segmentation of 8086?
+
+iii) Explain the following pin function of 8086?
+1) BHE/S7 2)HLDA 3) S4, $3
+
+iv) Explain the following instruction in detail with example?
+
+Q2A_ Explain the working of 8288 bus controller with the help of suitable diagram: Also explain
+
+memory interface of 8086 in minimum mode. (06)
+
+B_ Explain the timing diagram of memory write in maximum mode with wait state. (06)
+
+Q3 A Draw & explain the interfacing of 8086 with 8259 in cascade mode. . (06)
+B Enlist & explain with example Input/output instruction & string instructions of 8086. (06)
+
+Q4 A Explain the use of DMA¢ Draw neat Architecture of 8257 & explain it in detail. (06)
+B Define the difference between procedures & Macros with example. (06)
+
+QS A Explain the Flag Register. Write a set of instructions to set & reset the trap flag. (06)
+B_ Draw & Explain the internal block diagram of 8051. (06)
+
+Io
+--- page 2 ---
+= Q6 ‘A Explain assembler directives
+
+B Explain the control word register of 8255 & hence generate a control word for the
+Following Requirements:
+1. Port A- O/P Port
+, 2. Port B- Input Port
+3. Port c (upper)- Input port
+4. Port c (lower)- Output port
+
+Q7 Write short note on (Any three)
+
+A. Microprocessor VS Microcontroller
+
+B. 8255 operating modes
+
+C. Applications of 8253
+
+D. Compare I/O mapped I/O and Memory mapped I/O
+E. PSW of 8086
+
+h-
+
+(06)
+
+(06)
+
+(04)
+(04)
+(04)
+(04)
+(04)
+````
+
+## 2015-16 · Exam not stated · Sem 4 · paper 94054e761379
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER BATCH 2014-15, 2015-10001.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2016
+- Text: ocr (2 pages), mean OCR confidence 93.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MARAGRR Rie ENGINEERING
+
+Programme: B.Tech (I.T.) Year: II
+Academic Year: 2015-16
+
+Batch: 2014-15 / 2015-16 .
+
+Subject: Microprocessor and Microcontroller Marks: 60 ‘
+Time: 10.00 am - 1.00 pm
+Date: 02 July 2016 , Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. ___1___ is compulsory.
+2) Out of remaining questions, attempt any __4 __ questions. -
+
+3) Inall__5___ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1. Attempt any THREE questions. [12]
+a) Explain the concept of PUSH and POP instructions.
+b) Which are the pins of 8086 that are to be connected to interface 8284 and explain their
+functions?
+
+c) Compare and contrast microprocessor with microcontroller.
+
+d) Explain AAA, AAD and AAS instructions with examples.
+
+e) Distinguish between memory mapped I/O & I/O mapped J/O interfacing.
+
+Q.2 (A) Explain re-entrant and recursive procedure. [06]
+(B) Draw and explain the pin diagram of 8086 in detail. [06]
+
+Q.3 (A) Explain the graphical presentation of different group of instructions with one
+example. [06]
+
+(B) Draw and explain the flag register of 8086. [06]
+
+Vo.
+--- page 2 ---
+Q.4 (A) Write program for 8 bit addition of two numbers in TSAM. [06]
+
+(B) Explain in detail functional block diagram of 8259 PIC. ~ [06]
+Q.5 (A) Draw and explain in detail the IC-8257 functional block diagram. [06]
+(B) Draw neat diagram for I/O modes control word format of 8255. [06]
+Q.6 (A) Draw and explain the interfacing of microcontroller with keyboard. [06]
+(B) Explain the addressing modes of microcontroller. [06]
+Q.7 Write short on (ANY TWO) [12]
+
+1) Assembler directives in microcontroller
+2) Interrupt Vector Table
+
+3) Direct Memory Access
+
+4) Flags and PSW register of 8051
 ````
 
 ## 2015-16 · Final-Exam · Sem 5 · paper 83ae4b385878
@@ -4953,175 +5479,6 @@ explain in detail the DMA operation for transfer of data block.
 7 fa.
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 5667e7d32531
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 May 2017
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) ; Year: II . Semester: IV
-
-Batch: 2014-2015/2015 - 2016 «
-
-Academic Year: 2016-2017
-
-Bi LIBRA
-Subject: Microprocessor and Microcontroller ~ i Ps —— aY #.
-
-\ Ne,
-Marks: 60 . yee
-Date: 09 May 2017 Time: 10.00 am to 1.00 pm Meenas a
-Durations: 3 (hrs)
-
-No. of Pages: _2—
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. __1__ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) In all ___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary. 7
-
-Qi. Attempt any THREE questions. [12]
-a) Explain the Memory Banking in 8086.
-b) List the feature of IC 8255.
-c) Compare and contrast microprocessor and microcontroller.
-d) Draw and explain Program Status Word and flags (PSW) of 8051.
-e) Distinguish between procedure and macros.
-
-Q.2 (A) Draw and explain the Architecture of 8086 in detail. [06]
-(B) Draw the interfacing of latch and bus trans-receiver IC with 8086
-Microprocessor for 20 bit address and 16 bit data. [06]
-Q.3 (A) Explain the addressing modes in 8086. [06]
-(B) Explain the segmentation process of 1MB memory into 64 KB for each type of
-Segment in 8086 microprocessor. [06]
-eel
-Q.4 (A) Write program multiplication of two 8-bit numbers using TASM. [06]
-(B) Explain in detail functional block diagram of 8259 PIC. [06]
-Q.5 (A) Draw and explain the functional diagram of 8255. [06]
-
-Vy
---- page 2 ---
-(B) Explain the use of a DMA Controller in a multiprocessor system. Draw and explain
-
-the block diagram of 8257. [06]
-Q.6 (A) Draw and explain the interfacing of microcontroller with keyboard. [06]
-(B) Explain with example the following instruction of 8086. [06]
-
-1) SAR 2) MVI 3) JNB 4) PUSH 5) IDIV 6) LEA
-Q.7 Write short on (ANY TWO) - [12]
-
-1) Assembler directives
-
-2) Register Banking in Microcontroller
-3) Role of clock generator 8284
-
-4) Timer of 8051
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 4f59ac571b38
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER B TECH (COMP), BATCH 2015-16 RE EXAM.pdf`
-- Printed on paper: exam date: 08 December 2016
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (COMPUTER) Year : III Semester : Vv
-Batch : 2015-2016 ;
-
-Academic Year : 2016-2017 Go
-Subject : Microprocessor & Microcontroller Marks : MPSYMBE
-Time : P toSPo6 Br¥
-
-Date : 08 December 2016 Duration °
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted. :
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1. Answer any four of the following. [12]
-
-a) Features of 8086
-
-b) Explain the concept of segmented memory: What are its advantages?
-c) What are the various interrupts in 8086.
-
-d) Features of 8051.
-
-e) Explain different assembly directives of 8051.
-
-f) Explain' T-states, Machine cycles and Instruction cycles.
-
-Q2. a) Explain the software and Hardware interrupts of 8051. [6]
-b) Explain TIMER/COUNTERs of IC 8051. [6]
-Q3. a) Explain interrupt structure of 8086. [6]
-b) Write a programme for 8051 in assembly language to display INDIA on LCD. [6]
-Q4. a) Explain 8253interfacing with 8086. [6]
-b) Explain memory organization concept of 8086. [6]
-Q5.Answer the following. . [12]
-a) Draw & discuss the internal block diagram of 8086. [6]
-b) Explain physical address formation in different addressing mode. [6]
-
-Page fe
---- page 2 ---
-[12]
-
-Q6.Answer the following.
-a) Draw and explain internal memory organization of 8051. [6]
-b) Write a program to arrange given set of numbers in ascending order. [6]
-
-Q7.Write Short Notes on any three of the following. [12]
-
-a) Minimum mode of 8086.
-
-b) /O mapped I/O and memory mapped I/O.
-c) Write an assembly Language program to blink the LED alternately turn on and off of 8255.
-
-d) 8087 Math Co-processor.
-e) 8255 programmable peripheral interface.
-
-Page 2/2
-````
-
 ## 2015-16 · Re-Exam · Sem 5 · paper e26482042ad1
 
 - Departments: Computer Engineering
@@ -5212,6 +5569,88 @@ E) Coprocessor 8087
 F) Internal RAM of 8051.
 
 12
+````
+
+## 2015-16 · Re-Exam · Sem 6 · paper 40cd09f97c09
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR_AND_MICROCONTROLLER_B_TECH_(IT)__BATCH_2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 16/05/2016
+- Text: ocr (2 pages), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (IT) Year: III Semester: VI
+
+Academic Year: 2015-16
+Batch: 2014-15
+
+Subject: Microprocessor and Microcontroller Marks: 60
+
+Time: 2.00 p>X8 J
+Date: 16/05/2016 Durations: 3 hrs} eee
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their
+use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Attempt any four out of remaining six questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each question to be started on a fresh paper.
+
+6. Figures in bracket on the right hand side indicate full marks.
+
+QI A_ Draw Architecture of 8086 microprocessor. (06)
+B_ Show the PSW format of 8086 & explain it in detail with example. (06)
+
+Q2 A What is memory segmentation? What are the advantages of pipelining & memory
+segmentation of 8086? (06)
+
+B_ Write a program to arrange ten elements in ascending order. Starting address is 2700h (06)
+
+Q3 A Explain the PUSH & POP instruction of 808up, (06)
+B Draw & Explain the block diagram of 8253. (06)
+Q4A Draw the interfacing diagram of 8086 with 8259 in minimum mode. (06)
+B Draw & Explain the diagram of 8086 in maximum mode configuration. (06)
+Q5A_ Explain the block diagram of 8255. (06)
+B_ Explain the internal memory organization of 8051 in detail . (06)
+Q6 A Explain following instruction of 8051 (06)
+i)NOP ii) INC iii) ACALL
+B What is DMA? Draw neat structure of 8257 DMA Controller & Explain it. (06)
+
+(Ju
+--- page 2 ---
+fe,
+
+Q7
+
+Write, short note on (Any three)
+
+A. Difference between 8086 & 8088
+B. Interrupt vector table of 8086
+C. SFR in 8051
+
+.-D Different Modes of 8254
+
+24
+
+(04)
+(04)
+(04)
+(04)
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 26cc2309a396
@@ -5403,37 +5842,126 @@ b) EOP in 8257 d) NMI in 8086
 of f2_
 ````
 
-## 2014-15 · Exam not stated · Sem 4 · paper 94054e761379
+## 2014-15 · Exam not stated · Sem 4 · paper 942a06ea7e44
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER BATCH 2014-15, 2015-10001.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2016
-- Text: ocr (2 pages), mean OCR confidence 93.3
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER B TECH (IT), BATCH 200001.pdf`
+- Printed on paper: exam date: 01/07/2015
+- Text: ocr (2 pages), mean OCR confidence 90.7
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MARAGRR Rie ENGINEERING
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (I.T.) Year: II
-Academic Year: 2015-16
+Programme: B. Tech (1.T.) Year: II Semester: IV
+Batch: 2014-15
 
-Batch: 2014-15 / 2015-16 .
+Academic Year: 2014-2015
 
-Subject: Microprocessor and Microcontroller Marks: 60 ‘
-Time: 10.00 am - 1.00 pm
-Date: 02 July 2016 , Durations: 3 (hrs)
-
-Re-Examination
+Subject: Microprocessor and Microcontroller a “te, ‘
+Marks: £60 ears eee
+" 4 ie) -
+Date: 01/07/2015 Time: 2.00 pm to 5,00 ye
+Durations:\ (hrs) je:
+\ ee - fA x
+Re-Examination NT ang
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
 
 NB:
-1) Question No. ___1___ is compulsory.
-2) Out of remaining questions, attempt any __4 __ questions. -
 
-3) Inall__5___ questions to be attempted.
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q: 1 Attempt any three of the following [4 marks each] 12
+a) Explain BSR Mode of 8255
+b) What is pipelining? How it is achieved in 8086
+c) Explain the following pin function of 8086
+i) $2-S0 ii) DT/R iii) INTR iv) NMI
+d) Explain need of PIC?
+
+Q:2
+
+(a) Draw and explain timing diagram of 8086 Maximum mode for write cycle. 6
+(b) Explain the internal architecture of 8237 along with block diagram. 6
+
+Q:3
+a) Explain internal memory segmentation of 8086 é
+b) Draw and explain the interfacing of ADC with 8051. 6
+
+Q: 4
+a) What is an interrupt? Explain interrupt handling in 8086? 6
+b) Write a program to add two, 16-bit numbers. 6
+
+Q:5
+a) Explain the addressing modes of 8051? 6
+b) Explain interfacing of 8255 PPI with 8086 in handshake mode. 6
+
+Ja
+--- page 2 ---
+Q: 6
+
+a) Explain the function of the following instruction
+
+i) DIV ii) POP iii) RCL iv) NOP ;
+
+b) List the string instructions of 8085 and explain any 3 string instructions
+
+Q: 7 Write a shot note on any three:
+a) Difference between Microprocessor and Microcontroller
+b) Assembler directive
+c) Timer/counter section of 8051
+d) Explain the following pins of 8255
+i) CS ii) AO, Al iii) Reset
+
+2/a
+
+12
+````
+
+## 2014-15 · Final-Exam · Sem 4 · paper 1c1e6bb0c462
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER B TECH (IT), FINAL EX0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 11/05/2015
+- Text: ocr (2 pages), mean OCR confidence 93.3
+
+````text
+J
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: II Semester: IV
+
+Academic Year: 2014-2015
+
+Subject: Microprocessor and Microcontroller J AiNTOTE 97
+Marks:// & 60
+Date: 11/05/2015 Time :{.%," 2.00 pm té m
+Durations:. 3 (hrs)
+Final-Examination AN
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.__1__ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall__5 questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -5442,41 +5970,134 @@ NB:
 7) Assume Suitable data if necessary
 
 Q1. Attempt any THREE questions. [12]
-a) Explain the concept of PUSH and POP instructions.
-b) Which are the pins of 8086 that are to be connected to interface 8284 and explain their
-functions?
+a) Explain the concept of PUSH instruction before and after execution.
+b) List the feature of IC 8255.
+c) Compare and contrast microprocessor and microcontroller.
+d) Draw and explain Program Status Word and flags (PSW) of 8051.
+e) Distinguish between memory mapped I/O & I/O mapped I/O interfacing.
 
-c) Compare and contrast microprocessor with microcontroller.
+Q.2 (A) Draw and explain the Architecture of 8086 in detail. [06]
+(B) What are special function registers and explain TMOD in detail. [06]
+Q.3 (A) Draw maximum mode configuration of 8086 and expiain need of 8282. [06]
 
-d) Explain AAA, AAD and AAS instructions with examples.
+(B) What is the significance of wait state? Draw and explain timing diagram for Minimum mode
 
-e) Distinguish between memory mapped I/O & I/O mapped J/O interfacing.
+write cycle. [06]
+Q.4 (A) Write program for block transfer using string. [06]
 
-Q.2 (A) Explain re-entrant and recursive procedure. [06]
-(B) Draw and explain the pin diagram of 8086 in detail. [06]
+(B) Explain in detail functional block diagram of 8259 PIC. [06]
+Q.5 (A) Explain in detail memory organization of IC-8051. [06]
 
-Q.3 (A) Explain the graphical presentation of different group of instructions with one
-example. [06]
-
-(B) Draw and explain the flag register of 8086. [06]
-
-Vo.
+t/>
 --- page 2 ---
-Q.4 (A) Write program for 8 bit addition of two numbers in TSAM. [06]
+(B) Draw neat diagram for interfacing of 8 switches and a seven segment display to 8086 using
 
-(B) Explain in detail functional block diagram of 8259 PIC. ~ [06]
-Q.5 (A) Draw and explain in detail the IC-8257 functional block diagram. [06]
-(B) Draw neat diagram for I/O modes control word format of 8255. [06]
-Q.6 (A) Draw and explain the interfacing of microcontroller with keyboard. [06]
-(B) Explain the addressing modes of microcontroller. [06]
+8255. [06]
+Q.6 (A) Explain the addressing modes of 8051 with example. [06]
+(B) Explain the following instruction of 8086. [06]
+
+1)JNZ 2)RAL 3)MUL
 Q.7 Write short on (ANY TWO) [12]
 
-1) Assembler directives in microcontroller
-2) Interrupt Vector Table
+1) Assembler directives
 
-3) Direct Memory Access
+2) DMA controller
 
-4) Flags and PSW register of 8051
+3) Role of clock generator 8284
+4) Timer of 8051
+````
+
+## 2014-15 · Final-Exam · Sem 5 · paper c729ed9b93d0
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER B TECH (COMP) FINAL EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (COMP) Year: Ill a
+Academic Year: 2014-2015 oe ge Ray »
+
+Fy, of
+NO
+BC MPSTME )%
+BC LIBRARY dai
+Born Ny
+
+*
+Cia pe
+
+Subject : Microprocessor 8% Microcontroller
+
+Marks: 100
+Time : 2.00 pm
+05/12/2014
+
+iets /12/ Durations: 3 (hr
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the answer book, which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
+
+Q1. Attempt All
+A) Draw the maximum-mode system configuration of 8086 with memory read and Write 12
+cycle and a list three functions performed by each chip.
+B) Comparison of Microprocessor and Microcontroller 8
+
+Q2. Attempt All
+A) What is Co-processor? Explain in brief its working with block diagram. 10
+B) Give five differences between the main processor and the coprocessor. 10
+
+Q3. Attempt All
+A) Explain Applications of 8255A, 8253/54. 10
+B) Design 8051 based microcontroller system with following specification. 10
+a) 8051 CPU working at 12MHz
+b) 32 KB program memory
+c) 32 KB data memory
+
+Q4. Attempt All
+
+A) Draw and explain internal block diagram of 8051. 10
+B) Write a program using assembly language of 8086 for multiplication of 2, 32 bit 10
+numbers.
+Q5. Attempt All
+A) Explain data transfer instruction of 8086 with example. 10
+‘B) Explain the working of 8259 in cascade mode. 10
+
+4./2.
+--- page 2 ---
+Q6. Attempt All
+A) Explain the working of 8288 with the help of suitable diagram. Also explain Memory
+Interface of 8086 in Max mode.
+B) What is DMA? Draw neat structure of 8257 DMA controller and explain it?
+
+Q7. Attempt All (any 4)
+A) Addressing mode of 8051
+
+B) Jump and Call instruction
+
+C) Physical address generation
+D) Assembler directives
+
+E) Interrupt Vector Table of 8086
+F) SFRs in 8051
+
+r/o
+
+10
+10
+
+20
 ````
 
 ## 2014-15 · Final-Exam · Sem 6 · paper 3dd0743a69bc
@@ -5736,88 +6357,6 @@ on LCD. a 2 ;
 b) Explain addressing mode of 8051 with example 6
 
 HK
-````
-
-## 2014-15 · Re-Exam · Sem 6 · paper 40cd09f97c09
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR_AND_MICROCONTROLLER_B_TECH_(IT)__BATCH_2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 16/05/2016
-- Text: ocr (2 pages), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (IT) Year: III Semester: VI
-
-Academic Year: 2015-16
-Batch: 2014-15
-
-Subject: Microprocessor and Microcontroller Marks: 60
-
-Time: 2.00 p>X8 J
-Date: 16/05/2016 Durations: 3 hrs} eee
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their
-use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Attempt any four out of remaining six questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each question to be started on a fresh paper.
-
-6. Figures in bracket on the right hand side indicate full marks.
-
-QI A_ Draw Architecture of 8086 microprocessor. (06)
-B_ Show the PSW format of 8086 & explain it in detail with example. (06)
-
-Q2 A What is memory segmentation? What are the advantages of pipelining & memory
-segmentation of 8086? (06)
-
-B_ Write a program to arrange ten elements in ascending order. Starting address is 2700h (06)
-
-Q3 A Explain the PUSH & POP instruction of 808up, (06)
-B Draw & Explain the block diagram of 8253. (06)
-Q4A Draw the interfacing diagram of 8086 with 8259 in minimum mode. (06)
-B Draw & Explain the diagram of 8086 in maximum mode configuration. (06)
-Q5A_ Explain the block diagram of 8255. (06)
-B_ Explain the internal memory organization of 8051 in detail . (06)
-Q6 A Explain following instruction of 8051 (06)
-i)NOP ii) INC iii) ACALL
-B What is DMA? Draw neat structure of 8257 DMA Controller & Explain it. (06)
-
-(Ju
---- page 2 ---
-fe,
-
-Q7
-
-Write, short note on (Any three)
-
-A. Difference between 8086 & 8088
-B. Interrupt vector table of 8086
-C. SFR in 8051
-
-.-D Different Modes of 8254
-
-24
-
-(04)
-(04)
-(04)
-(04)
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper 58135fef1aec
@@ -6182,545 +6721,6 @@ a) Draw and explain the architecture of 8086. [10]
 b) Explain the working ef 8086 in minimum mode? [10]
 
 a ; Se
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper f37108eda7e7
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPRO0CESSOR AND MICROCONTROLLER B TECH (IT), BATCH 10001.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVEM’s NMIMS
-
-’\. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-. Programme: B. Tech (LT.) Year: II Semester: IV Aen A lig
-| (£7
-a .
-
-Academic Year: 2015-2016
-
-Subject : Microprocessor and Microcontroller ta
-ms ww, *
-Marks: 60 Mi janiee 57
-Date : 10/05/2016 : “7
-
-Durations: 3 (hrs)
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. __1__is compulsory.
-2) Out of remaining questions, attempt any __4 questions.
-
-3) In all __5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Va
-
-Q1. Attempt any THREE questions.
-a) What is the need of Latch and Clock Generator and Trans receiver IC with 8086
-Microprocessor. . :
-b) List the feature of IC 8251.
-c) Explain the generation of 20 bit physical address in codé segment with example.
-d) Draw flow. chart for arranging numbers in ascending order.
-e) Distinguish between procedure and macros.
-
-[12]
-
-Q.2 (A) What is the significance of wait state? Draw and explain timing diagram for Minimum mode
-
-write cycle. [06]
-(B) Draw and explain the Architecture of 8086 in detail. [06]
-c Q.3 (A) Draw and explain different types of operation command word of 8259. : [06]
-(B) Give addressing modes of 8086 with suitable example. [06]
-Q.4 (A) Write program for subtraction of 16 bit numbers. [06]
-(B) Explain the use of a DMA Controller in a multiprocessor system. Draw and explain
-the block diagram of 8257. [06]
-a
-Q.5 (A) Explain in detail the interrupt vector table. [06]
-pass (B) Draw and explain the functional diagram of 8255. : [06]
-Q.6 (A) Explain the assembler directives of 8051. [06]
-
-Yo.
---- page 2 ---
-(B) Draw and explain the interfacing of microcontroller with seven-segment display. [06]
-Q.7 Write short on (ANY TWO) [12]
-
-1) Interfacing of 8259 with 8086
-
-2) Register Banks and stack in Microcontroller
-
-3) Classification of instruction set in 8086
-
-4) Interrupt service routines and its priorities in 8086
-
-® R
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper ab5370dc78f2
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER B TECH (IT), BATCH 140001.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (IT) Year: II Semester: IV
-
-Academic Year: 2015-16
-
-Batch:2014-15
-
-Subject: Microprocessor and Microcontroller Marks: 60
-Time: 10.00 am
-Date: 10/05/2016 Durations: 3 hrs.
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their
-
-use.
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Attempt any four out of remaining six questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each question to be started on a fresh paper.
-
-6. Figures in bracket on the right hand side indicate full marks.
-QI Answer any three (4 marks each) (12)
-
-i) Explain Interrupt vector concept while handling interrupt?
-
-ii) Explain Memory segmentation of 8086?
-
-iii) Explain the following pin function of 8086?
-1) BHE/S7 2)HLDA 3) S4, $3
-
-iv) Explain the following instruction in detail with example?
-A) DAA B)XLAT/B C)CBW_ D)CMP
-
-Q2A_ Explain the working of 8288 bus controller with the help of suitable diagram: Also explain
-
-memory interface of 8086 in minimum mode. (06)
-
-B_ Explain the timing diagram of memory write in maximum mode with wait state. (06)
-
-Q3 A Draw & explain the interfacing of 8086 with 8259 in cascade mode. . (06)
-B Enlist & explain with example Input/output instruction & string instructions of 8086. (06)
-
-Q4 A Explain the use of DMA¢ Draw neat Architecture of 8257 & explain it in detail. (06)
-B Define the difference between procedures & Macros with example. (06)
-
-QS A Explain the Flag Register. Write a set of instructions to set & reset the trap flag. (06)
-B_ Draw & Explain the internal block diagram of 8051. (06)
-
-Io
---- page 2 ---
-= Q6 ‘A Explain assembler directives
-
-B Explain the control word register of 8255 & hence generate a control word for the
-Following Requirements:
-1. Port A- O/P Port
-, 2. Port B- Input Port
-3. Port c (upper)- Input port
-4. Port c (lower)- Output port
-
-Q7 Write short note on (Any three)
-
-A. Microprocessor VS Microcontroller
-
-B. 8255 operating modes
-
-C. Applications of 8253
-
-D. Compare I/O mapped I/O and Memory mapped I/O
-E. PSW of 8086
-
-h-
-
-(06)
-
-(06)
-
-(04)
-(04)
-(04)
-(04)
-(04)
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 942a06ea7e44
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER B TECH (IT), BATCH 200001.pdf`
-- Printed on paper: exam date: 01/07/2015
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (1.T.) Year: II Semester: IV
-Batch: 2014-15
-
-Academic Year: 2014-2015
-
-Subject: Microprocessor and Microcontroller a “te, ‘
-Marks: £60 ears eee
-" 4 ie) -
-Date: 01/07/2015 Time: 2.00 pm to 5,00 ye
-Durations:\ (hrs) je:
-\ ee - fA x
-Re-Examination NT ang
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q: 1 Attempt any three of the following [4 marks each] 12
-a) Explain BSR Mode of 8255
-b) What is pipelining? How it is achieved in 8086
-c) Explain the following pin function of 8086
-i) $2-S0 ii) DT/R iii) INTR iv) NMI
-d) Explain need of PIC?
-
-Q:2
-
-(a) Draw and explain timing diagram of 8086 Maximum mode for write cycle. 6
-(b) Explain the internal architecture of 8237 along with block diagram. 6
-
-Q:3
-a) Explain internal memory segmentation of 8086 é
-b) Draw and explain the interfacing of ADC with 8051. 6
-
-Q: 4
-a) What is an interrupt? Explain interrupt handling in 8086? 6
-b) Write a program to add two, 16-bit numbers. 6
-
-Q:5
-a) Explain the addressing modes of 8051? 6
-b) Explain interfacing of 8255 PPI with 8086 in handshake mode. 6
-
-Ja
---- page 2 ---
-Q: 6
-
-a) Explain the function of the following instruction
-
-i) DIV ii) POP iii) RCL iv) NOP ;
-
-b) List the string instructions of 8085 and explain any 3 string instructions
-
-Q: 7 Write a shot note on any three:
-a) Difference between Microprocessor and Microcontroller
-b) Assembler directive
-c) Timer/counter section of 8051
-d) Explain the following pins of 8255
-i) CS ii) AO, Al iii) Reset
-
-2/a
-
-12
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper 3e7827b8612e
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/MICROPROCESSOR AND MICROCONTOLLER/Microprocessor and Microcontroller,SemIV,Final,A.Y.20210001.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 April 2022
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-" SVKM’s NMIMS {( De, \
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING q3
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE . 4
-
-Academic Year: 2021-22
-
-Programme: B. Tech / MBA Tech (Computer) Year: II Semester: IV
-Subject: Microprocessor and Microcontroller
-
-, . Marks: 100
-Date: 20 April 2022 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-No. of Pages: 02+
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any _4 _ questions.
-
-3) In all _5_ questions to be attempted.
-
-4) All questions carry equal marks. Give-a-brief comparison of AVR-and PIC-mierocontroHers
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: (Attempt All) [20]
-CO-1: SO- a. 8086 : Explain the function of the following pins of 8086:
-1; BL-4 (i) ALE (ii) NMI (iii) INTR (iv) HOLD (v) HLDA
-ee b. Illustrate and explain the Control and Status Word of 8087 Coprocessor
-co.3 :SO- c. Explain with necessary Special function register format, the power saving modes
-4; BL-4 of 8051 microcontroller.
-d. Describe the use of following Arduino Pins:
-i. Power/GND
-C0-4: $O- ii. Analog
-6; BL-6 iii. Digital
-iv. PWM
-v. AREF
-A Draw the schematic internal block diagram of 8086 and explain the function of
-Q2 each block.
-CO-1; SO- B Recognize to which set these instructions belongs to: (20]
-1; BL-1 e MOVSB
-e LEA
---- page 2 ---
-e LDS
-&
-
-Write an 8086-assembly language program for a block containing 10 elements
-which needs to be transferred from source to destination using STRING instruction
-and write the output.
-
-A Draw bus-cycle timing diagram for memory read operation in minimum mode and
-Q3 explain briefly.
-CO-1; SO- : i
-2: BL-4 B List types of interrupts in 8086 and Explain sequence of events takes place when
-, Interrupt occurs in 8086 processor
-A Discuss the Interrupt structure of 8051 Microcontroller with a neat diagram.
-Q4 Mention the SFR’s available for handling interrupts and give their priorities.
-CO-4: SO- B Write a neatly commented 8051 assembly language program to generate a square | [20]
-1,2; BL-3 wave at P2.3 with a frequency of 5 KHz. Crystal frequency is 16 MHz. Use any
-timer
-A Illustrate how oscillator frequency is made available to Timer stages and describe
-Q5 the Timer Mode 2 operation of 8051. Give the format of the SFR used to select the
-CO-3; SO- various timer modes. [20]
-4; BL-6 B ;
-Draw and explain the architecture of Arduino Uno board.
-A A set of 10 bytes in available in the byte addressable area of 8051 at addresses 70h
-to 7Ah. Write a neatly commented ALP to read this data byte by byte and transfer
-it serially. Baud rate is 4800
-Q6 B Write short note (Attempt any 2) 0
-CO-4; SO- 1.IVT (20)
-
-6; BL-6
-
-2.Contrast on AVR and PIC Microcontrollers
-3.Data type in 8087
-4. SCON
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper 1c1e6bb0c462
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER B TECH (IT), FINAL EX0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 11/05/2015
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-J
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II Semester: IV
-
-Academic Year: 2014-2015
-
-Subject: Microprocessor and Microcontroller J AiNTOTE 97
-Marks:// & 60
-Date: 11/05/2015 Time :{.%," 2.00 pm té m
-Durations:. 3 (hrs)
-Final-Examination AN
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.__1__ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall__5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q1. Attempt any THREE questions. [12]
-a) Explain the concept of PUSH instruction before and after execution.
-b) List the feature of IC 8255.
-c) Compare and contrast microprocessor and microcontroller.
-d) Draw and explain Program Status Word and flags (PSW) of 8051.
-e) Distinguish between memory mapped I/O & I/O mapped I/O interfacing.
-
-Q.2 (A) Draw and explain the Architecture of 8086 in detail. [06]
-(B) What are special function registers and explain TMOD in detail. [06]
-Q.3 (A) Draw maximum mode configuration of 8086 and expiain need of 8282. [06]
-
-(B) What is the significance of wait state? Draw and explain timing diagram for Minimum mode
-
-write cycle. [06]
-Q.4 (A) Write program for block transfer using string. [06]
-
-(B) Explain in detail functional block diagram of 8259 PIC. [06]
-Q.5 (A) Explain in detail memory organization of IC-8051. [06]
-
-t/>
---- page 2 ---
-(B) Draw neat diagram for interfacing of 8 switches and a seven segment display to 8086 using
-
-8255. [06]
-Q.6 (A) Explain the addressing modes of 8051 with example. [06]
-(B) Explain the following instruction of 8086. [06]
-
-1)JNZ 2)RAL 3)MUL
-Q.7 Write short on (ANY TWO) [12]
-
-1) Assembler directives
-
-2) DMA controller
-
-3) Role of clock generator 8284
-4) Timer of 8051
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper c729ed9b93d0
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/MICROPROCESSOR AND MICROCONTROLLER/MICROPROCESSOR AND MICROCONTROLLER B TECH (COMP) FINAL EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (COMP) Year: Ill a
-Academic Year: 2014-2015 oe ge Ray »
-
-Fy, of
-NO
-BC MPSTME )%
-BC LIBRARY dai
-Born Ny
-
-*
-Cia pe
-
-Subject : Microprocessor 8% Microcontroller
-
-Marks: 100
-Time : 2.00 pm
-05/12/2014
-
-iets /12/ Durations: 3 (hr
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate full marks.
-
-Q1. Attempt All
-A) Draw the maximum-mode system configuration of 8086 with memory read and Write 12
-cycle and a list three functions performed by each chip.
-B) Comparison of Microprocessor and Microcontroller 8
-
-Q2. Attempt All
-A) What is Co-processor? Explain in brief its working with block diagram. 10
-B) Give five differences between the main processor and the coprocessor. 10
-
-Q3. Attempt All
-A) Explain Applications of 8255A, 8253/54. 10
-B) Design 8051 based microcontroller system with following specification. 10
-a) 8051 CPU working at 12MHz
-b) 32 KB program memory
-c) 32 KB data memory
-
-Q4. Attempt All
-
-A) Draw and explain internal block diagram of 8051. 10
-B) Write a program using assembly language of 8086 for multiplication of 2, 32 bit 10
-numbers.
-Q5. Attempt All
-A) Explain data transfer instruction of 8086 with example. 10
-‘B) Explain the working of 8259 in cascade mode. 10
-
-4./2.
---- page 2 ---
-Q6. Attempt All
-A) Explain the working of 8288 with the help of suitable diagram. Also explain Memory
-Interface of 8086 in Max mode.
-B) What is DMA? Draw neat structure of 8257 DMA controller and explain it?
-
-Q7. Attempt All (any 4)
-A) Addressing mode of 8051
-
-B) Jump and Call instruction
-
-C) Physical address generation
-D) Assembler directives
-
-E) Interrupt Vector Table of 8086
-F) SFRs in 8051
-
-r/o
-
-10
-10
-
-20
 ````
 
 ## Year not stated · Re-Exam · Sem 4 · paper 33a0fc557147

@@ -1,6 +1,6 @@
 # An Introduction to Artificial Intelligence and AI Framework: question papers in full
 
-3 unique papers · 2018-19 to 2023-24 · Artificial Intelligence
+3 unique papers · 2019-20 to 2023-24 · Artificial Intelligence
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -124,6 +124,7 @@ Node a and ending on node z [20]
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM I/AN INTRODUCTION TO ARTIFICIAL INTELLIGE_a6426891/An Introduction to artificial Intelligence and AI Framework Batch 2022-23 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 December 2022
 - Text: ocr (10 pages), mean OCR confidence 87.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Lo SVKM’s NMIMS
@@ -280,12 +281,10 @@ _—— A
 Q3 B c D
 CO-1; SO-1; as 10
 BL-4 / , /\ a \
-€ id G H 1 J K . t
 / | \ y ,
 /| / /\ | A /| A /
 i
 \ / \/1 71 / \
-M N Oo P Q R Ss T U v Ww x Y Zz AA BB
 7 2 8 5 2 3 0 2 6 2 1 2 9 ; 4 4
 “
 B
@@ -612,7 +611,7 @@ i
 10/| °
 ````
 
-## 2018-19 · Exam not stated · Sem 1 · paper e21678f957c7
+## 2019-20 · Exam not stated · Sem 1 · paper e21678f957c7
 
 - Departments: Artificial Intelligence
 - Programmes: M TECH / ARTIFICIAL INTELLIGENT

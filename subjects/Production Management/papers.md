@@ -399,6 +399,7 @@ FIORE
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/PRODUCTION MANAGEMENT/Production Management, Sem-V, Final Exam 2024-25.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 88.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Je}
@@ -488,7 +489,6 @@ Determine the sequence of jobs, the average flow time, average tardiness,
 CO-2; SO- and average number of jobs at the work center, for First Come First 10
 7;BL-3 Serve(FCFS), Shortest Processing Time(SPT) from the below table:
 --- page 3 ---
-JOB A B Cc D E F
 
 Processing 2 9) 4 10 5 ll
 Time
@@ -510,7 +510,6 @@ ae SO-7; Explain the need for change in plant location decision. 10
 
 fe
 
-FIO OK IO CI CK IK
 ````
 
 ## 2024-25 · Final-Exam · Sem 6 · paper 80ddc92353ab
@@ -1071,6 +1070,7 @@ FOR FIC CK AOR IO CI aK ik
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/PRODUCTION MANAGEMENT (OE)/Production Management (OE), Sem VI, Final Exam 2023-24.pdf` (+1 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 91.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1105,7 +1105,6 @@ of the Answer Book, which is provided for their use. ;
 7) Assume Suitable data if necessary. . ;
 Ql Answer briefly: [20]
 Briefly explain how a company can increase productivity by improvin
-CO- 1; $O-1; BL-3 | A yexpin odie P YOY MPFOVINE | 15]
 the quality of its products or services.
 CO-2; SO-7; BL-2_| B_ | Discuss five importance of product design is an organization. [5]
 Differentiate between Economic Order Quantity and Economic
@@ -1131,7 +1130,6 @@ and SPT (Shortest Processing Time). Calculate the mean flow time and
 
 mean tardiness under each sequencing rule. [10]
 
-JOB A |B GC, D E F
 
 Processing time (in days) | 12 | 10 15 13 12 9
 
@@ -1331,6 +1329,7 @@ emergency trip
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/PRODUCTION MANAGEMENT/Production Management Batch 2023-24 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 89.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1397,7 +1396,6 @@ in the table. Sequence the jobs by EDD (Earliest Due Date) and SPT
 tardiness under each sequencing rule. Which rule would you recommend
 and why? [10]
 
-JOB A |B c D E IF
 
 Processing time (in days) | 12 | 10 15 13 12 9
 
@@ -1438,7 +1436,6 @@ CO-2; SO-2; BL-3 [10]
 Task ID A B Cc D E E G H
 
 Predecess ,
-- A B B D CE F G
 
 or
 
@@ -1612,6 +1609,7 @@ FC RR Cr
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/PRODUCTION MANAGEMENT/Production Management, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 December 2022
 - Text: ocr (3 pages), mean OCR confidence 90.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1712,7 +1710,6 @@ wants to sequence them. Given the information shown, determine the processing se
 based on the First Come First Serve and Earliest Due date. Compute the average job
 tardiness, the average flow time, and the average number of jobs at the work center.
 
-JOB A B Cc D E F
 JOB time (in 4 6 5 2 3 3
 days)
 
@@ -1770,7 +1767,6 @@ CO-3; SO-2; BL-3 G List the various models used for location decision making. [5
 
 Note: CO- Course outcome, So-Student outcome, BL-Blooms taxonomy
 
-FR A HR AOE 1 Cp A AK HO A OR HE
 
 3/4
 ````
@@ -1782,6 +1778,7 @@ FR A HR AOE 1 Cp A AK HO A OR HE
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/PRODUCTION MANAGEMENT (OE)/Production Management, Sem-VI, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 3 2 12
 - Text: ocr (3 pages), mean OCR confidence 92.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -1872,7 +1869,6 @@ follows. Sequence the jobs by FCFS (First come first Serve) and SPT
 tardiness under each sequencing rule. Which rule would you recommend.
 
 [10]
-JOB A |B /C |D |E |F
 
 Processing time (in days) | 2 1 4 3 4 5
 
@@ -1946,6 +1942,7 @@ thousand each.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/PRODUCTION MANAGEMENT/Production Management, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 December 2022
 - Text: ocr (5 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 *
@@ -1989,7 +1986,6 @@ CO-2 ; SO-7 ; BL-3 Compare Make to Order and Make to Stock production systems wi
 CO- 1; SO- 7; BL-2 B. Explain the various ways in which the Break-even point can be reduced. 65]
 CO-3; SO- 7; BL-4 C. Does Statistical Quality Control differ from Statistical Process Control? Justify. 65]
 
-i +z it a in Tan L t. eft i
 CO-4; $0-7; BL-2 D. ‘Explain the concept of Quality Function Deployment (QFD) in TQM and how it can be useful to a [5]
 
 company.
@@ -2699,6 +2695,7 @@ Page 4 of 74
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/PRODUCTION MANAGEMENT/Production Management, Sem-VII, Year 2022-23, Special Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 23 June 2023
 - Text: ocr (2 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS AF
@@ -2743,7 +2740,6 @@ CO-4; SO-2; BL-3 D _ State the functions of Inventory management [5]
 Q2
 CO-2; SO-; BL-4 A. State the conditions for a company to perform break-even analysis. [10]
 CO-3; SO-; BL-3 B.
-ore A B Cc D E F
 element
 Precedence - A B B C,D E [10]
 Time(min) 6 3 7 5 4 5

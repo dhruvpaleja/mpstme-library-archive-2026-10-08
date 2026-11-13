@@ -2516,6 +2516,7 @@ scales.
 - Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Organizational Behaviour/ANS_Organizational Behaviour(703TG0C005)_2024-2025.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 04 Jul 2025
 - Text: mixed (6 pages), mean OCR confidence 27.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2783,6 +2784,7 @@ FIC 6 I HF
 - Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Organizational Behaviour/ANS_Organizational Behaviour(703TG0C005)_2024-2025.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 04 Jul 2025
 - Text: mixed (6 pages), mean OCR confidence 27.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3050,6 +3052,7 @@ FIC 6 I HF
 - Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech_AI_7051/Organizational Behaviour/ANS_Organizational Behaviour(703TG0C005)_2024-2025.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 04 Jul 2025
 - Text: mixed (6 pages), mean OCR confidence 27.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3317,6 +3320,7 @@ FIC 6 I HF
 - Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech_DS_7052/Organizational Behaviour/ANS_Organizational Behaviour(703TG0C005)_2024-2025.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 04 Jul 2025
 - Text: mixed (6 pages), mean OCR confidence 27.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

@@ -625,6 +625,184 @@ Q7. Write short notes on: (Any two)
 2/2
 ````
 
+## 2017-18 · Re-Exam · Sem 6 · paper dd4ac2cb1bec
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER_COMMUNICATION_NETWORKS_BATCH_15-16_16-17_RE_EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 June 2018
+- Text: ocr (2 pages), mean OCR confidence 92.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: VI
+
+Batch: (2015-16 / 2016-17)
+Academic Year: 2017-18
+
+Subject: Computer Communication Networks
+: Marks: 60
+Date: 29 June 2018 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+
+No. of Pages: OZ
+Re-Examination 3
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Quel. Attempt any THREE from the followings. [3*4=12]
+1. Elaborate about packet switching technique.
+2. With neat diagram explain the structure of telephone system.
+
+3. Explain about LCP field and multi-link structure of point to point protocol
+4. How the energy levels plays important role in CSMA/CA protocol?
+
+Que2. Attempt the followings. [2*6=12]
+1. You are given a task to incorporate several applications which involves applications
+which uses continuous and discrete signals, which technology you suggest? Explain the
+proposed solution with the help of schematic diagram, channel, and protocol structure.
+
+2. Write a note on ARP protocol and RARP protocol.
+
+Que3. Attempt the followings. [2*6=12]
+1. Explain how TCP uses sliding window mechanism?
+
+2. Write a note on Domain Name space.
+
+Page 1 of 2
+--- page 2 ---
+Que4. Attempt the followings. [2*6=12]
+
+1. How IPV6 overcome the issues of IPv4? Explain.
+
+2. Write a note on Bellman Ford algorithm.
+
+Que5. Attempt the followings. [2*6=12]
+1. Write a note on Timing Recovery for Synchronous Service.
+
+2. Write a note on Internet protocol.
+
+Que6. Attempt the followings. [2*6=12]
+
+1. Write a note on connectionless packet switching technique.
+
+2. Write a note on Mobile IP.
+Que7. Attempt the followings. [2*6=12]
+
+1. Write a note on link state protocol. —
+
+2. Write anote on SMTP.
+
+Page 2 of 2
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 11a782b311be
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER_COMMUNICATION_NETWORKS_BATCH_15-16_16-17_RE_EXAM_11a782b311.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 June 2018
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: VI
+
+Batch: (2015-16 / 2016-17)
+Academic Year: 2017-18
+
+Subject: Computer Communication Networks
+Marks: 60
+
+Date: 29 June 2018 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+
+No. of Pages: OZ
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Quel. Attempt any THREE from the followings. [3*4=12]
+1. Elaborate about packet switching technique.
+2. With neat diagram explain the structure of telephone system.
+
+3. Explain about LCP field and multi-link structure of point to point protocol?
+
+4. How the energy levels plays important role in CSMA/CA protocol?
+
+Que2. Attempt the followings. [2*6=12]
+1. You are given a task to incorporate several applications which involves applications
+which uses continuous and discrete signals, which technology you suggest? Explain the
+proposed solution with the help of schematic diagram, channel, and protocol structure.
+
+2. Write a note on ARP protocol and RARP protocol.
+
+Que3. Attempt the followings. [2*6=12]
+ae 1. Explain how TCP uses sliding window mechanism?
+
+2. Write a note on Domain Name space.
+
+Page 1 of 2
+--- page 2 ---
+Que4. Attempt the followings. [2*6=12]
+
+1. How IPV6 overcome the issues of IPv4? Explain.
+
+2. Write a note on Bellman Ford algorithm.
+
+Que5. Attempt the followings. [2*6=12]
+1. Write a note on Timing Recovery for Synchronous Service.
+
+2. Write a note on Internet protocol.
+
+Que6. Attempt the followings. [2*6=12]
+
+1. Write a note on connectionless packet switching technique.
+
+2. Write a note on Mobile IP.
+Que7. Attempt the followings. [2*6=12]
+
+1. Write a note on link state protocol.
+
+2. Write a note on SMTP.
+
+Page 2 of 2
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper 3c3bede35aed
 
 - Departments: Electronics and Telecommunication
@@ -1115,184 +1293,6 @@ D UDP 4mks
 M
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper dd4ac2cb1bec
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER_COMMUNICATION_NETWORKS_BATCH_15-16_16-17_RE_EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 June 2018
-- Text: ocr (2 pages), mean OCR confidence 92.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: VI
-
-Batch: (2015-16 / 2016-17)
-Academic Year: 2017-18
-
-Subject: Computer Communication Networks
-: Marks: 60
-Date: 29 June 2018 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-
-No. of Pages: OZ
-Re-Examination 3
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Quel. Attempt any THREE from the followings. [3*4=12]
-1. Elaborate about packet switching technique.
-2. With neat diagram explain the structure of telephone system.
-
-3. Explain about LCP field and multi-link structure of point to point protocol
-4. How the energy levels plays important role in CSMA/CA protocol?
-
-Que2. Attempt the followings. [2*6=12]
-1. You are given a task to incorporate several applications which involves applications
-which uses continuous and discrete signals, which technology you suggest? Explain the
-proposed solution with the help of schematic diagram, channel, and protocol structure.
-
-2. Write a note on ARP protocol and RARP protocol.
-
-Que3. Attempt the followings. [2*6=12]
-1. Explain how TCP uses sliding window mechanism?
-
-2. Write a note on Domain Name space.
-
-Page 1 of 2
---- page 2 ---
-Que4. Attempt the followings. [2*6=12]
-
-1. How IPV6 overcome the issues of IPv4? Explain.
-
-2. Write a note on Bellman Ford algorithm.
-
-Que5. Attempt the followings. [2*6=12]
-1. Write a note on Timing Recovery for Synchronous Service.
-
-2. Write a note on Internet protocol.
-
-Que6. Attempt the followings. [2*6=12]
-
-1. Write a note on connectionless packet switching technique.
-
-2. Write a note on Mobile IP.
-Que7. Attempt the followings. [2*6=12]
-
-1. Write a note on link state protocol. —
-
-2. Write anote on SMTP.
-
-Page 2 of 2
-````
-
-## 2016-17 · Re-Exam · Sem 6 · paper 11a782b311be
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER_COMMUNICATION_NETWORKS_BATCH_15-16_16-17_RE_EXAM_11a782b311.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 June 2018
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: VI
-
-Batch: (2015-16 / 2016-17)
-Academic Year: 2017-18
-
-Subject: Computer Communication Networks
-Marks: 60
-
-Date: 29 June 2018 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-
-No. of Pages: OZ
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Quel. Attempt any THREE from the followings. [3*4=12]
-1. Elaborate about packet switching technique.
-2. With neat diagram explain the structure of telephone system.
-
-3. Explain about LCP field and multi-link structure of point to point protocol?
-
-4. How the energy levels plays important role in CSMA/CA protocol?
-
-Que2. Attempt the followings. [2*6=12]
-1. You are given a task to incorporate several applications which involves applications
-which uses continuous and discrete signals, which technology you suggest? Explain the
-proposed solution with the help of schematic diagram, channel, and protocol structure.
-
-2. Write a note on ARP protocol and RARP protocol.
-
-Que3. Attempt the followings. [2*6=12]
-ae 1. Explain how TCP uses sliding window mechanism?
-
-2. Write a note on Domain Name space.
-
-Page 1 of 2
---- page 2 ---
-Que4. Attempt the followings. [2*6=12]
-
-1. How IPV6 overcome the issues of IPv4? Explain.
-
-2. Write a note on Bellman Ford algorithm.
-
-Que5. Attempt the followings. [2*6=12]
-1. Write a note on Timing Recovery for Synchronous Service.
-
-2. Write a note on Internet protocol.
-
-Que6. Attempt the followings. [2*6=12]
-
-1. Write a note on connectionless packet switching technique.
-
-2. Write a note on Mobile IP.
-Que7. Attempt the followings. [2*6=12]
-
-1. Write a note on link state protocol.
-
-2. Write a note on SMTP.
-
-Page 2 of 2
-````
-
 ## 2015-16 · Final-Exam · Sem 6 · paper dec8fec33cb7
 
 - Departments: Electronics and Telecommunication
@@ -1360,6 +1360,107 @@ a. Write a note on border gateway protocol.
 b. Explain Sliding Window protocol.
 
 r x
+````
+
+## 2015-16 · Re-Exam · Sem 6 · paper d395f73b1348
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER COMMUNICAITON NETWORKS B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 07/05/2016
+- Text: ocr (2 pages), mean OCR confidence 83.2
+
+````text
+SVKM’s NMIMS iNG
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER’
+
+: 7 VI
+Programme: B.Tech (EXTC) Year: III Semester: V
+\ Academic Year: 2015-16
+Batch: 2014-15
+
+Subject: Computer Communication Networks Marks: 60
+
+Time: 2.00
+i 73
+Date: 07/05/2016 Durations
+
+Re-Examination
+
+Instructions to Candidate —
+
+1) Q. No.1 is compulsory.
+2) Cut of remaining six questions attempt any four.
+
+3) In all five questions to be attempted.
+
+4) All question carry equal Marks.
+
+5) Figures in the bracket on the right hand side indicate full marks. .
+
+6) Draw figures whenever necessary.
+
+Ql { Attempt any four
+
+12
+(a) What are the parameters for measuring the performance of a ‘aa |
+—_ network. a
+(b) Classify various routing algorithms. 03
+ie Explain Open shortest path first(OSPF ) protocol. 04
+(d) Why ‘do we need bit stuffing? What will be the output after bit
+stuffing if input sequence is 9%
+100011111110011111010001 [|
+(e) Explain the functions of Hub, Switch and Bridge. Ke
+
+- Draw the 7-layer OSI model and explain the main fu
+Q28) | over:
+
+netion of each |O&
+yer. ] _ ;
+
+(b)| Explain briefly the different transmission medium:
+
+06
+What is CSMA technique. Explain sry ene og!
+a Q3(a) | i) 1-persistent CSMA §ii) P- persistent CSMA
+iii) Non-persistent COMA ||
+(b) | Discuss Congestion Control in TCP ee:
+. fo)
+
+Page 1 of 2
+--- page 2 ---
++ [Q4 (@) | Explain the HDLC protocol with its operation modes _ |
+
+dime?
+
+‘eoo¥ O6
+(b) Explain the Bellman-ford algorithm with suitable example.
+8G
+Q 5() | Differentiate between (Any two)
+(i) Packet Switching and Circuit Switching (Co3) ob
+(ii) TCP and UDP C packet Foret) (os)
+(iii) HDLC and PPP (03)
+
+(>) | Explain the Classfull addressing and subnet addressing in IP with |
+suitable example. ,
+
+O€
+Q6 (a) | Draw and explain the IPv4 header format. 06 |
+(b) | Explain the three-way handshaking operation of TCP.
+106
+Q7| Write short notes (Any Four) (2 |
+
+(a) | Narrow band ISDN 02
+
+(b) | HTTP and FTP o2
+
+(¢) | Mobile TCP 03
+
+(@ | DHCP na
+
+(©) | Stop and wait ARQ o3
+
+Page 2 of 2
 ````
 
 ## 2015-16 · Re-Exam · Sem 6 · paper 64370d34154a
@@ -1500,105 +1601,334 @@ Q7. a) Write a short note (Any one)
 b) Compare different transmission media on the basis of performance. (06)
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper d395f73b1348
+## 2014-15 · Re-Exam · Sem 6 · paper c57f8e54c935
 
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER COMMUNICAITON NETWORKS B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 07/05/2016
-- Text: ocr (2 pages), mean OCR confidence 83.2
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONIC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER COMMUNICATION NETWORKS B TECH (ELEX), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 01/07/2015
+- Text: ocr (2 pages), mean OCR confidence 90.2
 
 ````text
-SVKM’s NMIMS iNG
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER’
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-: 7 VI
-Programme: B.Tech (EXTC) Year: III Semester: V
-\ Academic Year: 2015-16
-Batch: 2014-15
+Programme: B. Tech (ELEX) Year: IIl Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Computer Communication Networks
+Marks:
+Date: 01/07/2015 Time:
 
-Subject: Computer Communication Networks Marks: 60
-
-Time: 2.00
-i 73
-Date: 07/05/2016 Durations
+Durations:
 
 Re-Examination
 
-Instructions to Candidate —
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-1) Q. No.1 is compulsory.
-2) Cut of remaining six questions attempt any four.
+NB:
+1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+‘
+
+Q.1 Attempt any four questions {20]
+
+a) Compare the various network topologies.
+
+6) Compare twisted wire pair with coaxial cable.
+
+c) Explain in brief the stop and wait ARQ.
+
+d) Compare circuit switched network with packet switched network.
+
+e) Explain any method of providing congestion control.
+
+Q.2
+
+a) Explain the layers in the OSI model along with their functions [10]
+
+b) Explain point-to-point protocol in detail. [10]
+
+Q3
+
+a) What were the disadvantages of ALOHA? Explain slotted ALOHA and show how [10]
+these disadvantages of ALOHA are overcome by slotted ALOHA.
+
+b) Explain Dijkstra’s algorithm in detail. [10]
+
+Q4
+
+a) Explain IP fragmentation and reassembly with an example [10]
+
+b) Explain OSPF in detail. {10]
+
+Q.5
+
+a) Compare UDP with TCP. State under what circumstances UDP would be preferred [10]
+over TCP.
+
+b) What are the shortcomings in IPv4? How have they been overcome in IPv6? What [10]
+
+additional features are provided in IPv6?
+
+Q.6
+a) Explain the IEEE 802.3 standard in detail. [10]
+b) Write note on repeaters, hubs, switches and bridges {10]
+
+if
+--- page 2 ---
+.7 Write short notes on any two of the following. [20]
+(i) DNS
+(ii) FTP
+(ili) ARP
+
+PA
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper a8387fa28265
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER COMMUNICATION NETWORKS B TECH (EXTC) RE EXAM(1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 09/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EB
+
+Programme: B. Tech (ELEX) Year: HI er: VI
+Batch: 2013-14 a
+Academic Year: 2014-2015 OBE:
+Subject: Computer Communication Networks Age
+Marks: =", 100
+Date: 09/05/2015 Time:
+
+Re-Examination
+Instructions: Candidates should read carefully the instructions provided on the question
+paper and on the cover of the answer book which is provided for their use.
+
+NB:
+
+1. Question no. 1 is compulsory.
+2. Oui of the remaining questions, attempt any FOUR .
+3. In all FIVE questions to be attempted.
+
+4. Figure in brackets indicate full marks.
+
+Q.1 Attempt any four questions 2
+
+a) Explain the responsibilities of the transport layer in the OSI model.
+
+b) Draw the segment format used in TCP and describe each of the fields.
+
+c) Draw the structure of an optical fiber cable? Compare it with coaxial
+cable.
+
+d) An ISP is granted a block of addresses starting with 190.100.0.0/16. The
+ISP needs to distribute these addresses to three groups of customers as
+follows:
+
+The 1 group has 64 customers; each needs 256 addresses
+
+The 2" group has 128 customers; each needs 128 addresses.
+
+The 3 group has 128 customers; each needs 64 addresses
+
+Design the subblocks and find out how many addresses are still available
+after these allocations.
+
+e) Why is bit stuffing and unstuffing required? How is it done? Name the
+protocols which use this method.
+
+Q.2 a) Explain the concept and working of packet switching network in detail. 10
+b) Whai is the purpose of ARQ? Explain Stop & Wait ARQ in detail, 10
+
+Compare it with Go-Back-N ARQ.
+
+Q.3.a) Why was slotted ALOHA protocol introduced? Explain slotted ALOHA 10
+in detail.
+b) What is the difference between unicasting, multicasting and broadcasting? — 10
+Explain distance vector multicast routing protocol.
+
+Q.4a) Explain the mechanisms used to implement error contro] in TCP. 10
+b) What is network congestion? Explain any one of the congestion contro] 10
+algorithms.
+
+A
+--- page 2 ---
+Q.5 a)
+
+b)
+
+What were the needs to introduce [Pv6? Sketch and ex; the address
+
+structure of JPv6 in detail.
+Why was ICMP designed? Explain in detail how ICMP performs error
+reporting.
+
+Write a detailed note on FTP.
+Illustrate with a suitable example Dijkstra’s algorithm.
+
+Write short note on TCP/IP model
+Explain cyclic redundancy check with a suitable example.
+
+x
+
+Jn
+
+10
+
+10
+10
+
+10
+10
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper c1a5646489cb
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER COMMUNICATION NETWORKS B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 07/05/2015
+- Text: ocr (1 page), mean OCR confidence 90.8
+
+````text
+wr 4
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) . Year: Ij] Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015 (ames.
+Subject: Computer Communication Networks | a ‘
+Date: 07/05/2015
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and
+on the cover of the answer book, which is provided for their use.
+NB
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
+Qi a. Explain star topology. Write its advantages and disadvantages. 20
+b. Write features of IPV6.
+¢. Compare Circuit and Packet switching.
+d- Define Repeater, Hub, Switch, Bridges and Gateways.
+Q2. a. Explain TCP/IP model. Write functions of each layer. 10
+b. Explain operation of Selective Repeat Protocol with suitable flow diagram. 10
+Q.3 a. Discuss different transmission medias used for Computer Networks 10
+b. Explain Distance vector routing. What are its limitations? 10
+Q4 a. What do you mean by shortest path penikas? Explain it with the help of 10
+Bellman Ford algorithm.
+b. Explain Internet protocol (IPv4) in detail with suitable header diagram. 10
+Q5 a. Explain slotted Aloha in detail with its throughput. What are its advantages 10
+over Pure Aloha?
+b. Explain three way handshake in TCP with suitable diagram. 10
+Q.6 a. List various random access method and explain CSMA/CD. 10
+b. Discuss UDP with its header diagram. Write its applications. oS
+[ Explain Stop and Wait protocol. What are its drawbacks? 0s
+Q.7 Write short notes on (any Four) 20
+Mobile IP
+DNS
+PPP
+Fast Ethernet
+SMTP
+x
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper ca98b3759592
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER COMMUNICATION NETWORKS B TECH (EXTC), BATCH 2013-14 RE EXAM_ca98b37595.pdf`
+- Printed on paper: max marks: 100; exam date: 30/06/2015
+- Text: ocr (1 page), mean OCR confidence 91.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III
+
+Batch: 2013-14 Semester: VI
+
+Academic Year: 2014-2015
+
+; gilt OTe OF
+Subject: Computer Communication Networks se NARS
+Marks: 100 ST ron!
+Date: 30/06/2015 Time: 10.00; am. to 1.90 Y a
+Durations: \\ 3: hrs) Si
+ee eee 4
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. one is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
 
 3) In all five questions to be attempted.
 
-4) All question carry equal Marks.
+4) All questions carry equal marks.
 
-5) Figures in the bracket on the right hand side indicate full marks. .
+5) Answer to each new question to be started on a fresh page.
 
-6) Draw figures whenever necessary.
+6) Figures in brackets on the right hand side indicate full marks.
 
-Ql { Attempt any four
+7) Assume suitable data, if required.
 
-12
-(a) What are the parameters for measuring the performance of a ‘aa |
-—_ network. a
-(b) Classify various routing algorithms. 03
-ie Explain Open shortest path first(OSPF ) protocol. 04
-(d) Why ‘do we need bit stuffing? What will be the output after bit
-stuffing if input sequence is 9%
-100011111110011111010001 [|
-(e) Explain the functions of Hub, Switch and Bridge. Ke
+.
 
-- Draw the 7-layer OSI model and explain the main fu
-Q28) | over:
+Q.1 a) Explain bus topology. Discuss advantages and disadvantages. [05M]
 
-netion of each |O&
-yer. ] _ ;
+b) Explain UDP header. [05M]
 
-(b)| Explain briefly the different transmission medium:
+c) Define features of coaxial cable and twisted pair [05M]
 
-06
-What is CSMA technique. Explain sry ene og!
-a Q3(a) | i) 1-persistent CSMA §ii) P- persistent CSMA
-iii) Non-persistent COMA ||
-(b) | Discuss Congestion Control in TCP ee:
-. fo)
+d) Explain U-frame of HDFC [05M]
+Q.2 a) Explain slotted Aloha in detail with its throughput. What are its advantages over
 
-Page 1 of 2
---- page 2 ---
-+ [Q4 (@) | Explain the HDLC protocol with its operation modes _ |
+Pure Aloha? [10M]
 
-dime?
+b) Explain DHCP in details [10M]
 
-‘eoo¥ O6
-(b) Explain the Bellman-ford algorithm with suitable example.
-8G
-Q 5() | Differentiate between (Any two)
-(i) Packet Switching and Circuit Switching (Co3) ob
-(ii) TCP and UDP C packet Foret) (os)
-(iii) HDLC and PPP (03)
+Q.3 a) Discuss the TCP segment and explain each field in the segment. [10M]
 
-(>) | Explain the Classfull addressing and subnet addressing in IP with |
-suitable example. ,
+b) What is ARQ? Explain Go-Back-N ARQ A [10M]
 
-O€
-Q6 (a) | Draw and explain the IPv4 header format. 06 |
-(b) | Explain the three-way handshaking operation of TCP.
-106
-Q7| Write short notes (Any Four) (2 |
+Q.4 a) Draw and explain the IPv4 header format briefly. [10M]
 
-(a) | Narrow band ISDN 02
+b) What is classfull addressing and subnet addressing in IP? Explain with suitable
 
-(b) | HTTP and FTP o2
+examples for each. [10M]
 
-(¢) | Mobile TCP 03
+Q.5 a) How connection is terminated in TCP with suitable diagram. [10M]
 
-(@ | DHCP na
+b) Explain Distance vector routing with suitable diagram. [10M]
 
-(©) | Stop and wait ARQ o3
+Q.6 a) What is CSMA technique? Explain 1-persistent COMA. [10M]
 
-Page 2 of 2
+b) Explain congestion control close loop categories in details. [10M]
+
+Q.7 Write short notes on (Any two)
+
+a) DNS [10M]
+b) SMTP [10M]
+c) ATM [10M]
 ````
 
 ## 2013-14 · Final-Exam · Sem 6 · paper 53f92ee14397
@@ -1871,235 +2201,6 @@ e) Mobile IP
 —--———— X
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper c57f8e54c935
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONIC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER COMMUNICATION NETWORKS B TECH (ELEX), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 01/07/2015
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (ELEX) Year: IIl Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Computer Communication Networks
-Marks:
-Date: 01/07/2015 Time:
-
-Durations:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-‘
-
-Q.1 Attempt any four questions {20]
-
-a) Compare the various network topologies.
-
-6) Compare twisted wire pair with coaxial cable.
-
-c) Explain in brief the stop and wait ARQ.
-
-d) Compare circuit switched network with packet switched network.
-
-e) Explain any method of providing congestion control.
-
-Q.2
-
-a) Explain the layers in the OSI model along with their functions [10]
-
-b) Explain point-to-point protocol in detail. [10]
-
-Q3
-
-a) What were the disadvantages of ALOHA? Explain slotted ALOHA and show how [10]
-these disadvantages of ALOHA are overcome by slotted ALOHA.
-
-b) Explain Dijkstra’s algorithm in detail. [10]
-
-Q4
-
-a) Explain IP fragmentation and reassembly with an example [10]
-
-b) Explain OSPF in detail. {10]
-
-Q.5
-
-a) Compare UDP with TCP. State under what circumstances UDP would be preferred [10]
-over TCP.
-
-b) What are the shortcomings in IPv4? How have they been overcome in IPv6? What [10]
-
-additional features are provided in IPv6?
-
-Q.6
-a) Explain the IEEE 802.3 standard in detail. [10]
-b) Write note on repeaters, hubs, switches and bridges {10]
-
-if
---- page 2 ---
-.7 Write short notes on any two of the following. [20]
-(i) DNS
-(ii) FTP
-(ili) ARP
-
-PA
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper c1a5646489cb
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER COMMUNICATION NETWORKS B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 07/05/2015
-- Text: ocr (1 page), mean OCR confidence 90.8
-
-````text
-wr 4
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) . Year: Ij] Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015 (ames.
-Subject: Computer Communication Networks | a ‘
-Date: 07/05/2015
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and
-on the cover of the answer book, which is provided for their use.
-NB
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate full marks.
-Qi a. Explain star topology. Write its advantages and disadvantages. 20
-b. Write features of IPV6.
-¢. Compare Circuit and Packet switching.
-d- Define Repeater, Hub, Switch, Bridges and Gateways.
-Q2. a. Explain TCP/IP model. Write functions of each layer. 10
-b. Explain operation of Selective Repeat Protocol with suitable flow diagram. 10
-Q.3 a. Discuss different transmission medias used for Computer Networks 10
-b. Explain Distance vector routing. What are its limitations? 10
-Q4 a. What do you mean by shortest path penikas? Explain it with the help of 10
-Bellman Ford algorithm.
-b. Explain Internet protocol (IPv4) in detail with suitable header diagram. 10
-Q5 a. Explain slotted Aloha in detail with its throughput. What are its advantages 10
-over Pure Aloha?
-b. Explain three way handshake in TCP with suitable diagram. 10
-Q.6 a. List various random access method and explain CSMA/CD. 10
-b. Discuss UDP with its header diagram. Write its applications. oS
-[ Explain Stop and Wait protocol. What are its drawbacks? 0s
-Q.7 Write short notes on (any Four) 20
-Mobile IP
-DNS
-PPP
-Fast Ethernet
-SMTP
-x
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper ca98b3759592
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER COMMUNICATION NETWORKS B TECH (EXTC), BATCH 2013-14 RE EXAM_ca98b37595.pdf`
-- Printed on paper: max marks: 100; exam date: 30/06/2015
-- Text: ocr (1 page), mean OCR confidence 91.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III
-
-Batch: 2013-14 Semester: VI
-
-Academic Year: 2014-2015
-
-; gilt OTe OF
-Subject: Computer Communication Networks se NARS
-Marks: 100 ST ron!
-Date: 30/06/2015 Time: 10.00; am. to 1.90 Y a
-Durations: \\ 3: hrs) Si
-ee eee 4
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. one is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data, if required.
-
-.
-
-Q.1 a) Explain bus topology. Discuss advantages and disadvantages. [05M]
-
-b) Explain UDP header. [05M]
-
-c) Define features of coaxial cable and twisted pair [05M]
-
-d) Explain U-frame of HDFC [05M]
-Q.2 a) Explain slotted Aloha in detail with its throughput. What are its advantages over
-
-Pure Aloha? [10M]
-
-b) Explain DHCP in details [10M]
-
-Q.3 a) Discuss the TCP segment and explain each field in the segment. [10M]
-
-b) What is ARQ? Explain Go-Back-N ARQ A [10M]
-
-Q.4 a) Draw and explain the IPv4 header format briefly. [10M]
-
-b) What is classfull addressing and subnet addressing in IP? Explain with suitable
-
-examples for each. [10M]
-
-Q.5 a) How connection is terminated in TCP with suitable diagram. [10M]
-
-b) Explain Distance vector routing with suitable diagram. [10M]
-
-Q.6 a) What is CSMA technique? Explain 1-persistent COMA. [10M]
-
-b) Explain congestion control close loop categories in details. [10M]
-
-Q.7 Write short notes on (Any two)
-
-a) DNS [10M]
-b) SMTP [10M]
-c) ATM [10M]
-````
-
 ## 2013-14 · Re-Exam · Sem 6 · paper 01ef9fbbded8
 
 - Departments: Electronics and Telecommunication
@@ -2164,105 +2265,4 @@ Q.7 A) Write a short notes on (10)
 1) HTTP 2) FTP
 B) Explain ATM architecture (10)
 « x
-````
-
-## Year not stated · Re-Exam · Sem 6 · paper a8387fa28265
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/COMPUTER COMMUNICATION NETWORKS/COMPUTER COMMUNICATION NETWORKS B TECH (EXTC) RE EXAM(1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 09/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EB
-
-Programme: B. Tech (ELEX) Year: HI er: VI
-Batch: 2013-14 a
-Academic Year: 2014-2015 OBE:
-Subject: Computer Communication Networks Age
-Marks: =", 100
-Date: 09/05/2015 Time:
-
-Re-Examination
-Instructions: Candidates should read carefully the instructions provided on the question
-paper and on the cover of the answer book which is provided for their use.
-
-NB:
-
-1. Question no. 1 is compulsory.
-2. Oui of the remaining questions, attempt any FOUR .
-3. In all FIVE questions to be attempted.
-
-4. Figure in brackets indicate full marks.
-
-Q.1 Attempt any four questions 2
-
-a) Explain the responsibilities of the transport layer in the OSI model.
-
-b) Draw the segment format used in TCP and describe each of the fields.
-
-c) Draw the structure of an optical fiber cable? Compare it with coaxial
-cable.
-
-d) An ISP is granted a block of addresses starting with 190.100.0.0/16. The
-ISP needs to distribute these addresses to three groups of customers as
-follows:
-
-The 1 group has 64 customers; each needs 256 addresses
-
-The 2" group has 128 customers; each needs 128 addresses.
-
-The 3 group has 128 customers; each needs 64 addresses
-
-Design the subblocks and find out how many addresses are still available
-after these allocations.
-
-e) Why is bit stuffing and unstuffing required? How is it done? Name the
-protocols which use this method.
-
-Q.2 a) Explain the concept and working of packet switching network in detail. 10
-b) Whai is the purpose of ARQ? Explain Stop & Wait ARQ in detail, 10
-
-Compare it with Go-Back-N ARQ.
-
-Q.3.a) Why was slotted ALOHA protocol introduced? Explain slotted ALOHA 10
-in detail.
-b) What is the difference between unicasting, multicasting and broadcasting? — 10
-Explain distance vector multicast routing protocol.
-
-Q.4a) Explain the mechanisms used to implement error contro] in TCP. 10
-b) What is network congestion? Explain any one of the congestion contro] 10
-algorithms.
-
-A
---- page 2 ---
-Q.5 a)
-
-b)
-
-What were the needs to introduce [Pv6? Sketch and ex; the address
-
-structure of JPv6 in detail.
-Why was ICMP designed? Explain in detail how ICMP performs error
-reporting.
-
-Write a detailed note on FTP.
-Illustrate with a suitable example Dijkstra’s algorithm.
-
-Write short note on TCP/IP model
-Explain cyclic redundancy check with a suitable example.
-
-x
-
-Jn
-
-10
-
-10
-10
-
-10
-10
 ````

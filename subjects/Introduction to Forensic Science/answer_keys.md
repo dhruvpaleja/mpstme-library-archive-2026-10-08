@@ -135,6 +135,7 @@ CO- 1; BL-3   b Any 5 types of blood patterns with examples: 2M each   [10M]
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AI_7012/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -231,6 +232,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Computer_7002/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -327,6 +329,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CyberSecurity_7010/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -423,6 +426,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_DS_7009/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -519,6 +523,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_IT_7001/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -615,6 +620,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechanical_7003/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -711,6 +717,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_AI_7051/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -807,6 +814,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_Computer_7047/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -903,6 +911,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_IT_7041/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -999,6 +1008,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Computer_7032/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1095,6 +1105,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_IT_7037/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1191,6 +1202,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Mechanical_7031/Introduction to Forensic Science/ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

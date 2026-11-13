@@ -199,6 +199,125 @@ eae Justify make or buy decision * [10]
 BL-4
 ````
 
+## 2022-23 · Exam not stated · Sem 9 · paper 5fb90f8b1d88
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Project Procurement Management/Project Procurement Management.pdf`
+- Printed on paper: max marks: 50
+- Text: ocr (2 pages), mean OCR confidence 90.9
+
+````text
+Academic Year: 2022-23
+
+Programme: MBA Tech (All Stream) Year: V Semester: IX
+Subject: Project Procurement Management, Contract Administration & Claims Management
+
+Marks: 50
+
+30 pm
+: ber 2022 Time: 10.30 am - 12.
+Date: 21 December é Harsions 2 (Fs
+
+No. of Pages: _2—
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+!) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly: [10]
+
+SO. : : ; Compare Centralized and Decentralized Purchase Process
+
+CO-2 ; b.
+
+SO-: ~ | Describe what you mean by CIF?
+
+BL-3
+
+CO- 2; c. ;
+
+SO- ; Decide On what basis you will select a domestic supplier?
+BL-4
+
+CO-2 ; d. :
+
+SO-: Explain ABC analysis.
+
+BL-2
+
+Q2
+
+CO-3; Discuss Bidding strategy for an infrastructure project procurement. | [10]
+SO-;
+
+BL-2
+Q3 Evaluate this.
+
+CO-3; You are responsible for a procurement project. As a scope of [10]
+rf nial purchase 50 servers has to be purchased and installed
+
+4
+--- page 2 ---
+successfully. The contract with seller is Cost Plus Incentive Fee.
+The target cost of installation is INR. 75,00,000 all servers with a
+sharing ratio of 60/40.
+
+On successful installation an incentive fee of INR 7,50,000 will be
+paid to supplier.
+
+After completion of successful installation actual cost incurred by
+seller was INR 80,00,000.
+
+How much payment you will release to supplier as full and final?
+
+Q4
+
+CO-3;
+
+SO-;
+BL-5
+
+Develop Role of Project scope and Technical specification. [10]
+
+Qs
+
+CO-2;
+SO-;
+BL-2
+
+Explain why Insurance is required under international contract. [10]
+
+Q6
+
+Son Devise the methods for Termination of Claim. [10]
+
+BL-5
+
+Q7
+
+oo Justify make or buy decision [10]
+
+BL-4
+
+2/x
+````
+
 ## 2019-20 · Final-Exam · Sem 9 · paper ae76e7d1f6f1
 
 - Departments: Common (all branches)
@@ -538,123 +657,4 @@ managed effectively? (12 marks)
 this context. (12 marks)
 
 i/|
-````
-
-## Year not stated · Exam not stated · Sem 9 · paper 5fb90f8b1d88
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Project Procurement Management/Project Procurement Management.pdf`
-- Printed on paper: max marks: 50
-- Text: ocr (2 pages), mean OCR confidence 90.9
-
-````text
-Academic Year: 2022-23
-
-Programme: MBA Tech (All Stream) Year: V Semester: IX
-Subject: Project Procurement Management, Contract Administration & Claims Management
-
-Marks: 50
-
-30 pm
-: ber 2022 Time: 10.30 am - 12.
-Date: 21 December é Harsions 2 (Fs
-
-No. of Pages: _2—
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-!) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly: [10]
-
-SO. : : ; Compare Centralized and Decentralized Purchase Process
-
-CO-2 ; b.
-
-SO-: ~ | Describe what you mean by CIF?
-
-BL-3
-
-CO- 2; c. ;
-
-SO- ; Decide On what basis you will select a domestic supplier?
-BL-4
-
-CO-2 ; d. :
-
-SO-: Explain ABC analysis.
-
-BL-2
-
-Q2
-
-CO-3; Discuss Bidding strategy for an infrastructure project procurement. | [10]
-SO-;
-
-BL-2
-Q3 Evaluate this.
-
-CO-3; You are responsible for a procurement project. As a scope of [10]
-rf nial purchase 50 servers has to be purchased and installed
-
-4
---- page 2 ---
-successfully. The contract with seller is Cost Plus Incentive Fee.
-The target cost of installation is INR. 75,00,000 all servers with a
-sharing ratio of 60/40.
-
-On successful installation an incentive fee of INR 7,50,000 will be
-paid to supplier.
-
-After completion of successful installation actual cost incurred by
-seller was INR 80,00,000.
-
-How much payment you will release to supplier as full and final?
-
-Q4
-
-CO-3;
-
-SO-;
-BL-5
-
-Develop Role of Project scope and Technical specification. [10]
-
-Qs
-
-CO-2;
-SO-;
-BL-2
-
-Explain why Insurance is required under international contract. [10]
-
-Q6
-
-Son Devise the methods for Termination of Claim. [10]
-
-BL-5
-
-Q7
-
-oo Justify make or buy decision [10]
-
-BL-4
-
-2/x
 ````

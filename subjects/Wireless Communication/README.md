@@ -1,6 +1,6 @@
 # Wireless Communication
 
-**20** unique papers (22 copies across programmes) · 2010-11 to 2024-25 · 6 programmes · Sem 5, Sem 6, Sem 7, Sem 9, Sem 10, Trim 4, Trim 11
+**19** unique papers (21 copies across programmes) · 2010-11 to 2024-25 · 6 programmes · Sem 5, Sem 6, Sem 7, Sem 9, Sem 10, Trim 4, Trim 11
 
 Download only this subject, sorted by academic year:
 
@@ -26,7 +26,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2021-22 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / EXTC | Wireless Communication 2021-22 Final0001.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 6 | MBA TECH / EXTC | Wireless Communication,Sem6,Final,2021-22.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 6 | MBA TECH / EXTC | Wireless Communication , Re-exam 2021-2022.pdf |
-| 2017-18 | Final-Exam | Question paper | Sem 5 | MBA TECH / I T | WIRELESS NETWORKING 2017-2018 Final.pdf |
 | 2013-14 | Final-Exam | Question paper | Sem 5 | MBA TECH / I T | WIRELESS COMMUNICATION 2013-14 Final exam.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 5 | MBA TECH / I T | WIRELESS COMMUNICATION 2013-14 Re-exam.pdf |
 | 2011-12 | — | Question paper | Trim 11 | MBA TECH / I T | WIRELESS COMMUNICATION II 2011-2012(3).pdf |

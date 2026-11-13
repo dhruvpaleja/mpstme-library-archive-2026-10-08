@@ -123,6 +123,102 @@ Explain types of Internal Noise.
 -2fq_
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper 44df6d8025c1
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/Principles of commn engg....Re-exam 2016-17-18-19.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 June 2019
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’?S NMIMS Sts
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
+
+Programme: B. Tech / MBA Tech (IT) Year: IT - Semester: IV
+Academic Year: 2018-2019 ;
+
+Subject: Principles of Communication Engineering - Marks: 70
+Time: 2.00 pm to 5.00 pm -
+Duration: 3 (Hrs)
+. No. of Pages:_2-
+Re- Examination (2016-17 /2017-18/2018-19)
+
+a
+
+Date: 17 June 2019°
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. I is compulsory. : 2
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted. t
+4) All questions carry equal marks. : |
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks .
+
+7) Assume suitable data if necessary.
+
+Ql1.a) Answer any Three. _ (3 marks each)
+
+1. Explain importance of modulation in communication.
+
+2. Explain basic operation of QPSK in brief.
+
+3. Derive modulating Index for AM signal in terms of modulated signal parameters.
+
+4. State the equation of FM signal spectrum in terms*of Bessel co-efficient. How fiodulation Index
+setermines side band of FM.
+
+b) Compare FDM, TDM, CDM in terms of operations. (5 marks)
+
+Q2. a) Draw and explain operation of BPSK receiver. (7 marks)
+b) An amplifier system having pre amplifier with a noise figure of 10dB and power gain of 15 dB,
+it is followed by a power amplifier having a noise figure of 20 dB and power gain of 25dB.
+Calculate overall noise figure of the combination. State why noise is measured in dB? (7 marks)
+
+Q3 a) Derive equation for AM signal in terms of its Side Bands. (7 marks)
+
+‘
+
+b) The bit sequence 01001001 is to be transmitted using following formats:
+(i) Miller coding (ii) RZ AMI (iii) Bipolar RZ
+Draw all the waveforms for stated Line codes. (7 marks)
+
+A /2
+--- page 2 ---
+t A.
+
+Q4 a) FMsignal is given as: Vem=4 sin (1.57 x 108t+Ssin1550t)
+Find carrier frequency, information frequency, frequency deviation, modulating Index
+
+and Bandwidth of transmission. (7 marks)
+b) Explain issues with Delta modulation system and how it can be overcome? (7 marks)
+Q5 a) Explain process of PCM. State operational difference between DPCM v/s PCM. (7marks)
+
+b) A transmission station radiates as 12 kW power for carrier when unmodulated,
+and 14.75kW whén modulated by cosine signal. Calculate the modulation index, percentage
+modulation. If same signal is modulated by another sine wave with 65% modulation determine
+
+total radiated power. (7 marks)
+Q6) a) Compare SKY WAVE, SPACE WAVE and GROUND WAVE. (7 marks)
+b) Draw appropriate figures for PWM, PPM, PAM w.r.t. modulating signal.
+Explain how PWM is generated from given signal? (7marks)
+Q7) a) Answer any Three. (3 marks each)
+
+1. Compare between Wide band and Narrow band FM
+
+2. Explain Shannon limit for information capacity
+
+3. State benefits of Digital communication system v/s Analog
+
+4, Explain ISI (Inter symbol interference) ‘and how to test the same?
+
+b) Comparison of QPSK and QAM. (Smarks)
+````
+
 ## 2017-18 · Exam not stated · Sem 4 · paper c7cd92922373
 
 - Departments: Information Technology
@@ -282,6 +378,70 @@ Q.7) Write a short note on following
 (a) Code division multiplexing. (5M)
 (b) Compare FM and PM. . (4M)
 (c) Inter symbol interference (5M)
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper 4a170526c82d
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING BATCH 14-15 15-116 RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2018
+- Text: ocr (1 page), mean OCR confidence 89.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (EXTC) Year: II Semester: IV
+
+Academic Year: 2017-2018
+
+Subject:Principles of Communication Engineering F
+: Marks:60 i ow ys
+Date:05 May 2018 Time: 2.00 pm to 5. 09 pm
+Durations: 3 (hrs) a
+No. of Pages :
+Re-examination (2014-15 / 2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+NB:
+
+1. Question no. | is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions. In all 5 questions to be attempted.
+3. _ All questions carry equal marks.
+
+4. Answer to each new question to be started on a fresh page.
+
+. Figure in brackets on the right hand side indicate full marks.
+Q1. Attempt all questions:- .
+
+A What is Angle modulation? What are different types of Angle modulation? State Carson’s 03
+Rule.
+B state Sampling Theorem. What is the use of sampling theorem? What is aliasing of signals? 03°
+C_ With the help of suitable example data, show that the process of Modulation allows the
+practical length of antennas to be used in for wireless signal transmission. 03
+D_ Tabulate the classification of noise with their respective sources of noise. 3
+Q2 A Explain why VSB system is widely used for TV broadcasting 06
+B Compare low level modulation and high level modulation of radio transmitters. 06
+3. A Explain about FM generation using Varactor modulator. 06
+B Explain the generation of DSB-SC wave using a balanced modulator. 06
+Q4 A’ List and discuss the factors influencing the choice of the intermediate frequency for a radio 06
+receiver.
+B_ Explain Radio Receiver Characteristics. 06
+Q5 <A_ Explain in Detail Foster Seely Discriminator with phasor diagrams. 06
+B Elaborate the concept of Pre-emphasis and de-emphasis in FM Receiver. 06
+ae Q6 A Derive the expression for AM Power Distribution. 04
+B Compute the bandwidth requirement for the transmission of FM signal having a frequency 04
+pe deviation 75 KHz and an audio bandwidth of 10KHz.
+© Explain the operation of limiter circuit in FM demodulation. 04
+Q7 A Compare PAM, PPM, PWM 04
+B Compare FDM and TDM 04
+2 C. Write short Note on External Noise 04
+
+vj
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper 9737777885fb
@@ -968,6 +1128,7 @@ Explain generation and detection of PAM signals.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICAITON ENGINEERING BATCH 16-17 RE EXAM (1).pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 12 July 2017
 - Text: ocr (2 pages), mean OCR confidence 93.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1022,7 +1183,6 @@ b) Draw and explain Delta modulator .What are the drawback of Delta modulator?
 How are they overcome in Adaptive delta modulator? (7 marks)
 
 Q3 a) FM wave is given by
-eae Vem=l12sin (6x10°t+Ssin1250t)
 Find carrier frequency, informationfrequency, frequencydeviation, modulating index and power
 dissipated to 10Q. (7marks )-
 
@@ -1061,100 +1221,137 @@ Q7) a) Answer any Three. (3 marks each)
 b) Explain generation of PWM with suitable waveforms. (5 marks)
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper 44df6d8025c1
+## 2016-17 · Re-Exam · Sem 4 · paper 614711abb99a
 
 - Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/Principles of commn engg....Re-exam 2016-17-18-19.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 June 2019
-- Text: ocr (2 pages), mean OCR confidence 91.2
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING BATCH 14-15,15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 May 2017
+- Text: ocr (3 pages), mean OCR confidence 76.2
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’?S NMIMS Sts
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
+SVKM’s NMIMS
 
-Programme: B. Tech / MBA Tech (IT) Year: IT - Semester: IV
-Academic Year: 2018-2019 ;
+. : MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (IT) Year: 11, Semester: IV -
+) Batch: 2014-2015/2015 - 2016
+f Academic Year: 2016-2017
+Subject: Principles of Communication Engineering
+Marks: 60 ~
+Date: 13 May 2017 , Time: 10.00 am to 1.00 pm “
+Durations: 3 (hrs)
+No. of Pages:_ __4
 
-Subject: Principles of Communication Engineering - Marks: 70
-Time: 2.00 pm to 5.00 pm -
-Duration: 3 (Hrs)
-. No. of Pages:_2-
-Re- Examination (2016-17 /2017-18/2018-19)
+Re-Examination
 
-a
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Date: 17 June 2019°
+NB:
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+1) Question No. lis compulsory.
 
-1) Question No. I is compulsory. : 2
 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted. t
-4) All questions carry equal marks. : |
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
 
-6) Figures in brackets on the right hand side indicate full marks .
+Q1.Answer any three (4 marks each) 12
+a. Explain internal noise in communication system .
 
-7) Assume suitable data if necessary.
+b. Draw and explain DSBFC of AM wave:
 
-Ql1.a) Answer any Three. _ (3 marks each)
+c. Explain Shannon Hartley theorem .
 
-1. Explain importance of modulation in communication.
+d. Write a short note on CDM.
 
-2. Explain basic operation of QPSK in brief.
+Q2: a) Draw the block diagram of Communication system. Explain each block in brief. 6
+b) Derive an expression of Frequency analysis of angle modulated wave. 4
+Q3: a) Drive the expression for voltage distribution for AM wave. 6
 
-3. Derive modulating Index for AM signal in terms of modulated signal parameters.
+(b) Explain Quadrature amplitude phase shift key with transmitter , receiver and its bandwidth.
 
-4. State the equation of FM signal spectrum in terms*of Bessel co-efficient. How fiodulation Index
-setermines side band of FM.
+6
 
-b) Compare FDM, TDM, CDM in terms of operations. (5 marks)
+Q4: a) Draw and explain QPSK transmitter - receiver, and drive its Bandwidth requirement. 6
 
-Q2. a) Draw and explain operation of BPSK receiver. (7 marks)
-b) An amplifier system having pre amplifier with a noise figure of 10dB and power gain of 15 dB,
-it is followed by a power amplifier having a noise figure of 20 dB and power gain of 25dB.
-Calculate overall noise figure of the combination. State why noise is measured in dB? (7 marks)
+b) What is Delta Modulation? Draw and explain ADM system. 6
 
-Q3 a) Derive equation for AM signal in terms of its Side Bands. (7 marks)
+Q5: a) State and Explain Wavelength division multiplexing with the help of diagram. 6
 
-‘
+— b) Explain Space Wave propagation in detail with diagram. 6
 
-b) The bit sequence 01001001 is to be transmitted using following formats:
-(i) Miller coding (ii) RZ AMI (iii) Bipolar RZ
-Draw all the waveforms for stated Line codes. (7 marks)
-
-A /2
+ae 1/2
 --- page 2 ---
-t A.
+Q6: a) Draw the following data waveform for the bit stream 1101011000
+1) Bipolar NRZ 2) Polar RZ 3) Unipolar NRZ 4) Split Manchester 6
 
-Q4 a) FMsignal is given as: Vem=4 sin (1.57 x 108t+Ssin1550t)
-Find carrier frequency, information frequency, frequency deviation, modulating Index
+b) For FM Modulator with a peak frequency deviation Af = 60Hz, a modulation signal frequency
+fm= 20 kHz, Vc = 20 V and a 500 KHz carrier, Determine 6
+a. Actual minimum bandwidth from Bessel Function Table.
+b. Approximate minimum bandwidth using Carson’s rule.
 
-and Bandwidth of transmission. (7 marks)
-b) Explain issues with Delta modulation system and how it can be overcome? (7 marks)
-Q5 a) Explain process of PCM. State operational difference between DPCM v/s PCM. (7marks)
+Q7) Write notes on any three. (4 each) 12
+i) Coherent and Non coherent detection
+ii) PCM
+iii) Need of Multiplexing
+--- page 3 ---
 
-b) A transmission station radiates as 12 kW power for carrier when unmodulated,
-and 14.75kW whén modulated by cosine signal. Calculate the modulation index, percentage
-modulation. If same signal is modulated by another sine wave with 65% modulation determine
+! I I °
 
-total radiated power. (7 marks)
-Q6) a) Compare SKY WAVE, SPACE WAVE and GROUND WAVE. (7 marks)
-b) Draw appropriate figures for PWM, PPM, PAM w.r.t. modulating signal.
-Explain how PWM is generated from given signal? (7marks)
-Q7) a) Answer any Three. (3 marks each)
+i |
 
-1. Compare between Wide band and Narrow band FM
+nn : at ol Ps site _ =
+o.oo Go Gd B29 aaa +. &
+|= MD Ww WwW & hw = oO Oo 8B a
+4 OM 8 BR MBM Ob YY GAS =
+o © co fp’ 2 ogo ' Oo © a.
+AM S&S FM YW SF DOD NS ;
 
-2. Explain Shannon limit for information capacity
+CO ee e'atiac' sas'a a
 
-3. State benefits of Digital communication system v/s Analog
+oOo 32 Oo WwW MM A i
 
-4, Explain ISI (Inter symbol interference) ‘and how to test the same?
+o eo oad cs
 
-b) Comparison of QPSK and QAM. (Smarks)
+wW he = 2 oOo oo o
+
+So 32° G&G FA
+
+oOo oO oO Dl ~ 7 -_
+Bo — o o a —_
+WIN SH
+
+oo oOo Gd ~ =
+
+Nm o.aG 8 rs]
+
+ee So A BG & ¥
+so 90:0 ~
+od Bot
+
+a! _
+
+oO 3
+
+°
+
+. mk
+
+mr A
+
+= _
+
+‘ =
+
+e mn
+
+- ee — _ a . eatin re.
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper d19d7f5c6c9c
@@ -1247,6 +1444,183 @@ D) FDM. 3 Marks
 Zp
 ````
 
+## 2015-16 · Exam not stated · Sem 4 · paper cfc0e15637b6
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICAITON ENGG B TECH (IT), BATCH 15-10001.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
+oO Vas
+r
+
+Programme: B. Tech (I.T.) Year: II Semester: IV ‘$7
+iw
+Academic Year: 2015-2016 & mS
+Subject : Principles of Communication Engineering 4
+Marks: 60
+Date : 14/05/2016 Time : 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1.Answer any three (4 marks each) ‘ 12
+
+A. What is Need of Modulation?
+B. Define The Following Propagation Terms:
+
+I. Critical Frequency & Critical Angle II. Virtual Height
+C. Explain Modulation Index For Am, Fm.
+
+D. For A Pam Transmission Of Voice Signal Having Maximum Frequency Equal to Fm = 3khz,
+= Calculate The Transmission Bandwidth. Ti Is Given That The Sampling Frequency Fs = 8 Khz And The
+Pulse Duration T = 0.1 Ts?
+
+Q2: a) Draw the block diagram of Communication system. Explain each block in brief. 6
+b) Drive an expression for C
+1) Output noise power in term of Noise factor.-
+2) Amplifier Noise contribution in term of Noise factor.
+3) Amplifier in cascade in term of Noise factor.
+
+Q3: a) Drive the expression for power distribution for AM wave? 6
+
+(b) Explain Sky Wave propagation in detail with diagram. 6
+
+Vo.
+--- page 2 ---
+Q4:
+
+Q5:
+
+Q6:
+
+a) Draw and explain BPSK transmitter - receiver, and drive its Bandwidth requirement?
+b) What is ADM Modulation? Draw and explain ADM system.
+
+a) Compare Frequency division multiplexing and Time division multiplexing.
+b) Draw a QPSK waveform for the input binary stream is 1011011011
+
+a) Draw the following data waveform for the bit stream 1101011000
+1) Bipolar NRZ 2) Polar RZ 3) Unipolar NRZ 4) Split Manchester
+
+b) Compare
+1) Offset and Non Offset QPSK 2) Analog & digital communication.
+
+Q7) Write notes on (4 each)
+
+i) CDM
+ii) What is the necessity of envelope detector during reception?
+iii) Equivalent Noise Temperature.
+
+4 ’
+
+alg
+
+12
+````
+
+## 2015-16 · Exam not stated · Sem 4 · paper ed4a0b1d165c
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICAITON ENGINEERING B TECH (IT), BAT0001.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
+- Text: ocr (2 pages), mean OCR confidence 87.8
+
+````text
+SVKM’s NMIMS ;
+*SH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+MUKESH F
+
+: IV 4
+
+Programme: B.Tech (If) Year: I Semester y
+Academic Year: 2015-16 if 7
+y i
+
+Batch: 2014-15 \
+ject: Princi unication Engineering Marks: 60 *
+
+Subject: Principles of Communic g ares O00 an
+
+Date: 14/05/2016 . Durations: 3 hrs.
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1.Answer any three (4 marks each) 12
+a. Why modulation is important ?
+b. Write a equation for DSBFC AM wave and draw its frequency spectrum’
+c. Given a channel width of 30 mbs.The bandwidth of channel is 5 mhz,what is the SNR to
+achieve this capacity ?
+d. Explain EYE pattern:
+
+Q2: a) Draw the block diagram of Communication system. Explain each block in brief. 6
+b) Compare Sky wave vs Space wave propagation *: é
+3: a) Drive the expression for voltage distribution for AM wavey’ 6
+
+(b) Define angle Moduiation? Explain phase deviation, frequency deviation and
+Percentage modulation + 6
+Q4: a) Draw and explain QPSK transmitter - receiver, and drive its Bandwidth requirement. 6
+b) What is Adaptive Delta Modulation ? Draw and explain ADM system. 6
+
+es
+
+Q5: a) Explain CDM in detail: 6
+prs b) What is the need of modulation? Define modulating index for AM, FM and PM ‘r 6
+
+1
+--- page 2 ---
+6 awe ‘have data as 00110110 to be transmitted, draw and explain
+i) Uinpolar RZ ii) Polar RZ iii) Split phase Manchester
+
+b).Explain QAM in brief.
+tg
+“h
+ranks
+Q7) Write notes on any three. (4fsach)
+
+i) Application of digital communication.
+ii) DPCM
+iii) Need of Multiplexing
+iv) AM vs FM
+````
+
 ## 2015-16 · Final-Exam · Sem 4 · paper 14f03ed16c05
 
 - Departments: Information Technology
@@ -1336,6 +1710,7 @@ iii) Under, full and over modulation.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICAITON ENGINEERING BATCH 2014-15, 15-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 01 July 2016
 - Text: ocr (2 pages), mean OCR confidence 90.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1417,150 +1792,8 @@ Q.7 Write short note on (4 marks for each) [12]
 (b) Coherent BFO receiver
 (c) Comparisons between AM and FM
 
-RR ee 2g 26 9 a a oo og 2 oo 2 oe oo OR oo a
 
 hy
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 614711abb99a
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING BATCH 14-15,15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 May 2017
-- Text: ocr (3 pages), mean OCR confidence 76.2
-
-````text
-SVKM’s NMIMS
-
-. : MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (IT) Year: 11, Semester: IV -
-) Batch: 2014-2015/2015 - 2016
-f Academic Year: 2016-2017
-Subject: Principles of Communication Engineering
-Marks: 60 ~
-Date: 13 May 2017 , Time: 10.00 am to 1.00 pm “
-Durations: 3 (hrs)
-No. of Pages:_ __4
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1.Answer any three (4 marks each) 12
-a. Explain internal noise in communication system .
-
-b. Draw and explain DSBFC of AM wave:
-
-c. Explain Shannon Hartley theorem .
-
-d. Write a short note on CDM.
-
-Q2: a) Draw the block diagram of Communication system. Explain each block in brief. 6
-b) Derive an expression of Frequency analysis of angle modulated wave. 4
-Q3: a) Drive the expression for voltage distribution for AM wave. 6
-
-(b) Explain Quadrature amplitude phase shift key with transmitter , receiver and its bandwidth.
-
-6
-
-Q4: a) Draw and explain QPSK transmitter - receiver, and drive its Bandwidth requirement. 6
-
-b) What is Delta Modulation? Draw and explain ADM system. 6
-
-Q5: a) State and Explain Wavelength division multiplexing with the help of diagram. 6
-
-— b) Explain Space Wave propagation in detail with diagram. 6
-
-ae 1/2
---- page 2 ---
-Q6: a) Draw the following data waveform for the bit stream 1101011000
-1) Bipolar NRZ 2) Polar RZ 3) Unipolar NRZ 4) Split Manchester 6
-
-b) For FM Modulator with a peak frequency deviation Af = 60Hz, a modulation signal frequency
-fm= 20 kHz, Vc = 20 V and a 500 KHz carrier, Determine 6
-a. Actual minimum bandwidth from Bessel Function Table.
-b. Approximate minimum bandwidth using Carson’s rule.
-
-Q7) Write notes on any three. (4 each) 12
-i) Coherent and Non coherent detection
-ii) PCM
-iii) Need of Multiplexing
---- page 3 ---
-co Nm nan nd oS m o>. oo Oo oc tw ~~ mo —
-
-! I I °
-Co Ga og ao a ao ae a a ol Gs in
-Oo Ms 8S 50 s+ & &Y WY me = oD oO Gs ~
-Aa wo SFO 8 mS Se SB w BF & Bh
-
-i |
-Oo oc ac oO co a a Bao oa ae ts so o
-mM Oo MP NM WY &Y BY = Ha oa oO Go
-
-&B ae Co FD F&F ee mm © ot ro eo w
-nn : at ol Ps site _ =
-o.oo Go Gd B29 aaa +. &
-|= MD Ww WwW & hw = oO Oo 8B a
-4 OM 8 BR MBM Ob YY GAS =
-o © co fp’ 2 ogo ' Oo © a.
-Dw wh & = oo Go a t co
-AM S&S FM YW SF DOD NS ;
-
-CO ee e'atiac' sas'a a
-
-hh Ra mR a — oS = | wo
-oOo 32 Oo WwW MM A i
-
-o eo oad cs
-
-wW he = 2 oOo oo o
-
-So 32° G&G FA
-
-oOo oO oO Dl ~ 7 -_
-Bo — o o a —_
-WIN SH
-
-oo oOo Gd ~ =
-
-Nm o.aG 8 rs]
-
-ee So A BG & ¥
-so 90:0 ~
-od Bot
-
-a! _
-
-oO 3
-
-°
-
-. mk
-
-mr A
-
-= _
-
-‘ =
-
-e mn
-
-- ee — _ a . eatin re.
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper d9bee7996ccb
@@ -1670,6 +1903,173 @@ b) Pre-emphasis and de-emphasis
 2/2
 
 6
+````
+
+## 2014-15 · Exam not stated · Sem 4 · paper 75c2bcf7dbdc
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING B TECH (IT), BAT0001.pdf`
+- Printed on paper: exam date: 03/07/2015
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: II Semester: IV
+Batch: 2014-15
+
+Academic Year: 2014-2015
+
+Subject: Principles of Communication Engineering
+Marks:
+i Date: 03/07/2015 Time:
+Durations:
+
+Re-Examination
+
+Instructions: 1.Question no. 1 is compulsory.
+' 2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted:
+4 All questions carry equal marks.
+5. Answer to each new question to be started ona fresh page.
+6.Figures in brackets on right hand side indicate full marks.
+
+Q1.Answer any 3. (4 marks each) fi2 » |
+
+a) Draw EM wave and express it’s polarization? State different modes of RF propagation?
+
+b) Define’two type of quantization and How it is performed?
+
+©) What is adaptive delta modulation?
+2) Draw’block diagram of PCM (Base band) system?
+2) Draw waveforms and explain in brief analog pulse modulation techniques?
+
+Q2)
+a) If each stage has a gain of 20 dB and noise fi
+
+of two stage cascaded amplifier?
+b) We have Vm=3Sin(
+system? Calculate:
+
+gure of 10 dB determine the overall noise figure and gain
+
+(6
+
+6280t } as modulating signal, Carrier signal Vc=8Sin( 628000 t) in AM modulation
+
+(S)
+1)Moaulating index 2)Side band frequency
+3)Bandwidth required 4)Total power delivered into a load of 1KOhms.
+. Q 3) a) Explain principal of QPSK? Draw and explain block dig. Of QPSK Transmitter and receiver? (ey
+b) State what is need of Multiplexing? Compare TDM vs FDM? (€)
+Q4 a) Draw and explain block diagram of QAM transmitter and receiver? (é)
+(b) What is Angle modulation? Compare FM and PM (é )
+
+4/2
+--- page 2 ---
+Q.5)
+(a) What is need of modulation? List various modulation techni
+Communication
+
+(b)Draw line code waveform for given bit sequence 100011?
+i) Bi-Polar RZ
+ii) Manchester coding
+
+iii) AMI-RZ format.
+
+Q 6) a) Draw and explain Delta modulation Transmitter and receiver?
+
+b) Explain in detail Skywave propagations ?
+
+Q7)Answerany 3 — (4narks each) —__-_-—~   ovw—or
+
+a) Inter symtol interference
+
+b) BPSK
+
+c) DPCM
+
+d) Shannon limit for information capacity
+
+ques in Digital
+
+{2.M
+````
+
+## 2014-15 · Exam not stated · Sem 4 · paper 56009b65cdbb
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING B TECH (IT), FIN0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 15/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: II Semester: IV
+Academic Year: 2014-2015 .
+Subject: Principles of Communication Engineering VON
+Marks: /&” 60 *
+Date: 15/05/2015 Time : 4, | 2.00 pm'td'5 pm
+
+Durations 3 (hrs)*
+
+Final-Examination RB “Ea et 4
+
+Instruction: Candidates should read carefully the instructions printed on the question paper aiid on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1.Answer any three (4 marks each) 12
+a. Derive a noise factor for amplifier in cascade ?
+b. Write a equation for DSBFC AM wave and draw its frequency spectrum?
+c. Given a channel width of 30 mbs.The bandwidth of channel is 5 mhz .what is the SNR to
+achieve this capacity ?
+d. Explain EYE pattern?
+Q2: a) Draw the block diagram of Communication system. Explain each block in brief. 6
+b) Explain following Propagation terms: 6
+i) MUF
+ii) Virtual height
+iii) Skip distance and Skip Zone
+Q3: a) Drive the expression for power distribution for AM wave? 6
+(b) Define angle Modulation? Compare FM and PM ? 6
+Q4: a) Draw and explain BPSK transmitter - receiver, and drive its Bandwidth requirement? 6
+b) What is Delta Modulation ? Draw and explain DM system. 6
+Q5: a) Explain WDM in detail? 6
+b) What is the need of modulation ? Define modulating index for AM, FM and PM ? 6
+
+al. Jiu
+--- page 2 ---
+Q6: a) We have data as 00110110 to be transmitted, draw and explain
+i) Uinpolar.RZ ii) Polar RZ iii) Split phase Manchester
+
+b) Explain QAM in brief.
+
+Q7) Write notes on any three? (4marKks each)
+i) Advantages of digital communication.
+ii) PCM
+iii) Need of Multiplexing
+iv) AM vs FM
+
+12
+
+r
 ````
 
 ## 2014-15 · Final-Exam · Sem 4 · paper db6b5b890d84
@@ -1998,6 +2398,106 @@ Varactor diode
 FM Noise Triangle
 ````
 
+## 2014-15 · Re-Exam · Sem 4 · paper f069be89c51f
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 20
+- Text: ocr (2 pages), mean OCR confidence 93.1
+
+````text
+Q.1
+
+Q2
+
+Q.3
+
+Q4
+
+Qs
+
+Q.6
+
+Programme: B. Tech (EXTC) Year: II
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Semester: IV
+
+Batch: 2013-14
+
+Subject: Principles of Communication Engineering
+
+Date:
+
+Academic Year: 2014-2015
+
+08/05/2015
+
+Do as Directed: Marks: 20
+
+a) Answer any four of the following:
+i. Discuss in brief the sources of Noise and its significance in
+Communication Systems
+ii. Derive the power expression for DSBFC Wave and sketch the Power
+Spectrum of the wave.
+iii. Discuss FM noise triangle and draw necessary diagrams
+
+iv. What do you mean by Image Frequency and Image Frequency Rejection
+Ratio? How can it be avoided .
+v. State Nyquist Sampling theorem and explain its significance
+a) Compare PAM, PWM and PPM communication Systems Marks: 10
+
+b) Define Modulation. With necessary diagram and Waveforms explain the High level Marks: 10
+AM Modulator.
+
+a) List the advantages of Superheterodyne receivers over TRF. With a block diagram Marks: 10
+
+explain the working of a Superheterodyne Receiver.
+
+b) Define Deviation Sensitivity for FM and PM Marks: 10
+Determine the
+
+i) The peak Frequency Deviation and Modulation Index for an FM modulator with
+
+a deviation sensitivity K=5 kHz/V and a modulating signal Vm=2cos(2n2000t)
+
+b)
+
+ii) The Peak Phase deviation m for PM modulator with a deviation SensitivityK= 2.5
+
+rad/V and a modulating signal Vm=2cos(2n2000t)
+
+a) With necessary circuit diagram discuss the Generation and Detection of PAM Marks: 20
+b) Discuss the hierarchy in TDM Multiplexing. Marks: 10
+a) Explain the Crossby FM Transmitter. Marks: 10
+b) List the parameters of a Radio Receiver and explain any two in detail Marks: 10
+Mention the various SSB generation Techniques and explain any one in detail. Marks: 10
+For an AM DSBFC modulator with a carrier frequency fc = 100 kHz and a maximum Marks: 10
+
+modulating signal frequency fmax = 5 k Hz determine
+--- page 2 ---
+Q.7
+
+modulating signal frequency fmax = 5 k Hz determine
+i) Frequency limits for upper and lower side Bands
+ii) Bandwidth
+iii) Upper and Lower side frequencies produced when the modulating signal is a
+single frequency 3 kHz tone
+iv) Draw the o/p frequency spectrum.
+Write short Notes on any two of the following:
+1) Significance of AGC in AM Receivers
+2) Ratio Detector
+
+3) TDM/FDM and its significance in Communication Systems
+
+x —
+
+Marks:20
+````
+
 ## 2014-15 · Re-Exam · Sem 4 · paper 1d02bef2aa71
 
 - Departments: Electronics and Telecommunication
@@ -2125,68 +2625,192 @@ oF€
 06
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper 4a170526c82d
+## 2014-15 · Re-Exam · Sem 4 · paper cbe9de7bb2a6
 
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING BATCH 14-15 15-116 RE EXAM.pdf` (+2 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2018
-- Text: ocr (1 page), mean OCR confidence 89.7
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING BATCH 2013-2014 Re-exam.pdf`
+- Printed on paper: exam date: 15/05/2015
+- Text: ocr (2 pages), mean OCR confidence 94.1
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:B. Tech (EXTC) Year: II Semester: IV
+Programme: MBA Tech (I.T.) Year: II Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Principles of Communication Engineering
+Marks 2
+Date: 15/05/2015 Time;
+Dur
 
-Academic Year: 2017-2018
+Re-Examination
 
-Subject:Principles of Communication Engineering F
-: Marks:60 i ow ys
-Date:05 May 2018 Time: 2.00 pm to 5. 09 pm
-Durations: 3 (hrs) a
-No. of Pages :
-Re-examination (2014-15 / 2015-16)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
 
 NB:
 
-1. Question no. | is compulsory.
+1) Question No. lis compulsory.
 
-2. Out of remaining questions, attempt any 4 questions. In all 5 questions to be attempted.
-3. _ All questions carry equal marks.
+2) Out of remaining questions, attempt any 4 questions.
 
-4. Answer to each new question to be started on a fresh page.
+3) Inall 5 questions to be attempted.
 
-. Figure in brackets on the right hand side indicate full marks.
-Q1. Attempt all questions:- .
+4) All questions carry equal marks.
 
-A What is Angle modulation? What are different types of Angle modulation? State Carson’s 03
-Rule.
-B state Sampling Theorem. What is the use of sampling theorem? What is aliasing of signals? 03°
-C_ With the help of suitable example data, show that the process of Modulation allows the
-practical length of antennas to be used in for wireless signal transmission. 03
-D_ Tabulate the classification of noise with their respective sources of noise. 3
-Q2 A Explain why VSB system is widely used for TV broadcasting 06
-B Compare low level modulation and high level modulation of radio transmitters. 06
-3. A Explain about FM generation using Varactor modulator. 06
-B Explain the generation of DSB-SC wave using a balanced modulator. 06
-Q4 A’ List and discuss the factors influencing the choice of the intermediate frequency for a radio 06
-receiver.
-B_ Explain Radio Receiver Characteristics. 06
-Q5 <A_ Explain in Detail Foster Seely Discriminator with phasor diagrams. 06
-B Elaborate the concept of Pre-emphasis and de-emphasis in FM Receiver. 06
-ae Q6 A Derive the expression for AM Power Distribution. 04
-B Compute the bandwidth requirement for the transmission of FM signal having a frequency 04
-pe deviation 75 KHz and an audio bandwidth of 10KHz.
-© Explain the operation of limiter circuit in FM demodulation. 04
-Q7 A Compare PAM, PPM, PWM 04
-B Compare FDM and TDM 04
-2 C. Write short Note on External Noise 04
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
 
-vj
+Q1.Answer any five (4 marks each) [20]
+a. What is the need of sampling in digital communication and state sampling theorem?
+
+b. State four distinct advantages of digital communication over analog communication?
+
+c. With suitable waveform explain ASK and FSK
+
+d. State the need of Pre-emphasis and De-emphasis in FM system?
+
+e. Draw and drive expression for modulating index for AM wave?
+
+f. Explain ISI?
+
+g. Write a short note on QAM?
+
+Q2) a) Draw and explain QPSK transmitter - receiver, signal space representation and drive its
+Bandwidth requirement? [10]
+
+b) An AM signal appears across a 50 Q load has the following equation
+V(t)=12[1 +sin12.566x10°t}sinI8.85x10°t [10]
+i) Sketch the envelope of this signal in time domain.
+ii) Calculate the modulation index, side band frequencies, total power and bandwidth.
+
+Q3) a) We have audio signal of expression v=10 sin 1000 t, we have to adapt PCM system with no.
+of levels as 16. Then [10]
+i) What will be the PCM word size and calculate quartile for the same?
+ti) What will be the min. required sampling rate ?
+iii) What will be signal peak power and signal to noise ratio?
+b) Derive an expression for AM Voltage distribution. [10]
+--- page 2 ---
+Q4) a) Draw and derive noise factor of amplifier in cascade? [10]
+b) Define terms with suitable figures: [10]
+i) EM wave with its polarization
+ii) Maximum usable frequency
+iii) Critical Frequency,
+iv) Radio Horizon, Skip distance for Respective propagation?
+
+Q5) a) 98.5 MHz carrier is FM modulated by 12 KHz sine wave. The resultant FM signal has frequency
+Deviation 75 KHz. [10]
+i) What will be frequency swing in carrier wave, explain with appropriate figure?
+ii) Calculate modulating Index?
+iii) Finin and Fynax. For FM modulated signal?
+
+b) We have data as 11010011 to be transmitted, draw and explain
+i) Uinpolar RZ ii) Polar RZ iii) AMI iv) Split phase Manchester v) M-Array, M=4 [10]
+
+Q6) a) What are the drawbacks of Delta modulation and how they are overcome in Adaptive Delta
+
+Modulation. [10]
+b) Explain QPSK in brief. [10]
+Q7) Write notes on any four? (5 each) [20]
+
+i) EM wave Propagations used in radio communication.
+ii) Eye Pattern
+
+iii) Noise Figure and Noise Factor
+
+iv) WDM
+
+v) PM vs FM
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 7ca80baf1867
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/PRINCIPLES OF COMMUNICATION ENGINEERING/Principles of Communication Engineering Batch (2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 100; exam date: 03/07/2015
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) Year: II Semester: IV
+
+Academic Year: 2014-15 ee
+oF
+Batch: 2013-14 ae : ’,
+
+Cre
+» ON
+
+YY?
+Subject : Principles of Communication Engineering Marks: 100 a ¥
+Time : 10.00, 0 1.00 pm
+
+Durations: 3 (fits) gee =
+Re-Examination Mis Wane =
+
+Se
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+Date : 03/07/2015
+
+NB:
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1.Answer all questions (5 marks each) 20
+a. Define Modulation and its importance -
+
+b. Write a equation for DSBFC AM wave and draw its frequency spectrum:
+
+c. Define Quantization error and how it can be removed in PCM :
+
+d. Draw the waveform of PM , FM and AM .
+
+Q2: a) Draw the block diagram of Communication system. Explain each block in brief. 10
+b) Compare Ground wave vs Space wave propagation ‘: : 10
+Q3: a) Drive the expression for Power distribution for AM wave. 10
+
+(b) Define angle Modulation: Explain phase deviation, frequency deviation and
+Percentage modulation . 10
+
+Q4: a) Draw and explain FSK transmitter - receiver, and drive its Bandwidth requirement. 10
+b) How Adaptive Delta Modulation will overcome DM? Explain with the help of diagram. 1Q
+
+Q5: a) Explain TDM in detail. 10
+b) With the help of neat diagram explain the PCM system with waveform. 10
+
+2/2
+--- page 2 ---
+Q6: a) We have data as 00110110 to be transmitted, draw and explain all line codes format in digital
+
+communication. 10
+b) Explain DPSK in brief. 10
+20
+
+Q7) Write notes on any four. (5 each)
+i) ISI
+ii) Equivalent noise temperature
+iii) Need of Multiplexing
+iv) PM vs FM
+v) Electromagnetic wave
+
+2f 2
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper b8b12c8053b2
@@ -2265,6 +2889,225 @@ iii) WDM vs CDM
 iv) AM vs FM
 
 12
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 4bdeaf6d7cc6
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING BATCH 2013-2014 Re-exam.pdf`
+- Printed on paper: exam date: 16/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: Il Semester: IV
+Batch: 2013-14
+2%,
+
+NS,
+MOGTME Yo
+L 16 .6¢+am top pm
+S38 (hrs) _ ZY
+
+Academic Year: 2014-2015
+
+Subject: Principles of Communication Engineering
+
+Date: 16/05/2015 Time}!
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 __ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3) Inall__5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1. Answer the following(Attempt any four) [20]
+a. Describe noise triangle in FM system.
+b. Explain Thermal noise. Prove that noise voltage Vn=(4K TBR)".
+c. Define nyquist rate. What is the standard sampling frequency for speech signals.
+d. Explain Dynamic range and fidelity of receiver.
+e. Compare AM, FM and PM
+
+Q.2.a.An AM transmitter develops an unmodulated power output of 100 watts across 10Q [10]
+Load. The carrier is modulated by a sinusoidal signal with a modulation index of 0.5.
+Assuming fm = 5 kHz and fe = 2 MHz
+i. write the equation of AM
+ii. Sketch spectrum of modulated wave.
+
+iii. Find the total power of the modulated output
+
+b. Draw the block diagram of a phase cancellation SSB generation and explain how — [10]
+the carrier and unwanted sideband are suppressed. What change is necessary to suppress
+other sideband?
+
+Q.3. a. State different methods for FM generation? Sketch the circuit and explain the [10]
+Principle of Varactor diode modulator?
+b. Explain the working of Ratio detector. Compare its performance with foster seely [10]
+Discriminator
+
+Q.4. a.List different sampling techniques. Explain Flat top sampling in detail. [10]
+b. Draw the block diagram of AM superhetrodyne receiver and explain its working. [10]
+--- page 2 ---
+Q.5. a. What are the different types of noise in communication system. Explain any three [10]
+in detail.
+b. Draw the block diagram of Armstrong frequency modulation system and [10]
+explain its working
+
+Q.6. a. Explain generation and detection of PWM and PPM with waveforms. [10]
+b. List various types of multiplexing. Explain FDM in detail [10]
+Q.7. Write Notes on :- (20]
+a. Independent Side Band
+b. AGC
+
+c. Image frequency and its rejection
+d. Elements of communication system
+
+< /
+J
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper a751369d5461
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PRINCIPLES OF COMMUNICATION ENGINEERING/Principles of Communication Engineering Batch (2013-14) Re-exam.pdf`
+- Printed on paper: exam date: 04/07/2015
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: II Semester: IV
+
+Academic Year: 2014-15
+Batch: 2013-14
+
+Subject : Principles of Communication Engineering Marks: 1
+
+Time : 10.
+Durations:
+Re-Examination
+
+Date : 04/07/2015
+
+a,
+
+“bs univers’
+
+SS
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full-marks.
+7) Assume Suitable data if necessary
+
+Q.1 Attempt any four 20M
+a) What are the advantages of FM over AM?
+b) Define related to radio receiver i) Sensitivity ii) Selectivity iii) Fidelity.
+c) Whatis AM envelope? What is the advantage of low level modulation?
+d) What is aliasing?
+e) Compare Time Division Multiplexing and Frequency Division Multiplexing.
+
+Q.2 a) Define the following terms: 8M
+1. Noise Figure
+2. Noise factor
+3. Noise temperature
+4. Signal to noise ratio
+b) Derive an expression for amplitude modulated wave and its power relations. 12M
+Also give time and frequency domain representation.
+3 a) Draw diagram of foster seeley discriminator and explain its working with 10M
+Phasor diagram.
+b) Draw the block diagram of superheterodyne receiver oe explain the function 10M
+of each block in detail.
+
+Q4 a) 1. One input to a conventional amplitude modulator is a 500 KHz carrier 10M
+with amplitude of 20 Vp. The second input is a 10 KHz modulating
+signal that is of sufficient amplitude to cause a change in the output
+
+4/2.
+--- page 2 ---
+Q.5
+
+Q.6
+
+Q7
+
+b)
+
+a)
+
+a)
+b)
+
+wave of 7.5. Determine:
+
+is Upper and lower side frequencies.
+
+il. Modulation coefficient and percent modulation.
+iii. Maximum and minimum amplitude of envelope.
+iv. Expression for the modulated wave.
+
+vy... Draw the output spectrum.
+
+Explain the principle of Angle Modulation. Derive and explain phase
+deviation, Modulation index, frequency deviation and percent modulation.
+
+Explain the generation of pulse width modulation.
+Draw and explain the generation of flat top pulse amplitude modulation.
+
+- Define FM and PM modulation. Describe the generation of FM wave using
+
+Armstrong method.
+What is multiplexing in communication system? Draw and explain Frequency
+
+Division Multiplexing.
+
+Write short notes on any three
+Automatic Gain Control
+
+Slope detector :
+Distortions in the envelope detector.
+Varactor diode
+
+2.)
+
+10M
+
+10M
+10M
+12M
+
+8M
+
+20M
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 52ee168ff5d1
@@ -2496,6 +3339,104 @@ Q7)Write notes on any four? (5 each)
 24
 ````
 
+## 2013-14 · Exam not stated · Sem 3 · paper 2a7a7c670896
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/12/2013
+- Text: ocr (2 pages), mean OCR confidence 93.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+
+Programme:B. Tech (IT) Year: II Semester:III
+Academic Year: 2013-2014
+
+Subject :Principles of Communication Engineering
+Marks: 100
+
+Date : 04/12/2013 Time : 10.00 am to 1.00 pm
+
+Duration ;:3 (hrs)
+Final-Examination
+
+N.B. (1) Question no. 1 is compulsory.
+(2) Out of remaining attempt any four questions
+(3) In all Five questions to be attempted
+(4)AII questions carry equal marks.
+(5) Answer to each new question to be on fresh page.
+(6) Figures on right hand side indicate full marks
+
+Ql Solve any five.
+a. Explain how PPM is generated from PWM?
+b. Compare FM and PM.
+ce. Explain the need of modulation
+' d. Why differential PSK is preferred over Delta Modulation.
+e. Derive expression for Noise Figure.
+f. Briefly explain types of Multiplexing.
+
+Q.2.a) A FM represented by the voltage equation v=12 sin(6x 10°t+5 sin 1250t).
+Find — i) carrier and modulating frequencies, ii) the modulation index and the maximum
+Deviation, iii) power dissipated this FM in a 5Ohm resister, iv) bandwidth by using Carson’s rule.
+
+b) Explain the block diagram of PCM with function of each block. What is the bandwidth for
+PCM, if a voice signal is sampled at Nyquist rate and each sample is quantized into one to
+256 levels, determine the output of PCM signal.
+
+Q.3 a. Explain the block diagram of adaptive delta modulation with waveforms. How does it reduce
+slope overload error?
+b. What are the different PCM waveform types (Line coding)? Which parameter should be
+
+considered while selecting appropriate waveform?
+
+Q.4 a. What is noise? List the types of noise and explain each in brief.
+
+Vo, .
+
+20
+
+10
+
+10
+
+10
+
+10
+
+10
+--- page 2 ---
+b. Compare the Ground wave, Space wave and Sky wave propogation.
+
+Q.5 a. Draw and explain QPSK transmitter, receiver and derive equation for its bandwidth.
+
+b. State and explain Sampling theorem. Also explain Quantization process and define
+Quantization error.
+
+Q.6 a. Derive expression for Modulation Index and sidebands in AM.
+b. Explain different techniques of pass-band modulation of Digital Communication.
+
+Q.7. Write short notes on (any four)
+a. Properties of radio waves
+b. Inter Symbol Interference
+c. FM noise triangle.
+d. Compare TDM and FDM
+e. Shannon limit for information capacity
+
+Q]2_
+
+10
+
+10
+10
+
+10
+10
+
+20
+````
+
 ## 2013-14 · Final-Exam · Sem 4 · paper b0c0389a3191
 
 - Departments: Electronics and Telecommunication
@@ -2708,6 +3649,7 @@ v) PWM vs PPM
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING 2013-14 Final.pdf`
 - Printed on paper: exam date: 08/05/2014
 - Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2721,7 +3663,6 @@ deme
 Subject :Principles of Communication Engineering “ap \SOTITOTE or Bay
 : Marks? ‘Ss NN %
 Date : 08/05/2014 Time | 290 Pa? 15108 B
-Dura’ ae gl (ArS)A RY ds Fi
 
 Final Examination ste
 <i ae *
@@ -2787,106 +3728,6 @@ B) List all FM Detectors and Explain ratio detector. (10M)
 2 | Zz
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper f069be89c51f
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 20
-- Text: ocr (2 pages), mean OCR confidence 93.1
-
-````text
-Q.1
-
-Q2
-
-Q.3
-
-Q4
-
-Qs
-
-Q.6
-
-Programme: B. Tech (EXTC) Year: II
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Semester: IV
-
-Batch: 2013-14
-
-Subject: Principles of Communication Engineering
-
-Date:
-
-Academic Year: 2014-2015
-
-08/05/2015
-
-Do as Directed: Marks: 20
-
-a) Answer any four of the following:
-i. Discuss in brief the sources of Noise and its significance in
-Communication Systems
-ii. Derive the power expression for DSBFC Wave and sketch the Power
-Spectrum of the wave.
-iii. Discuss FM noise triangle and draw necessary diagrams
-
-iv. What do you mean by Image Frequency and Image Frequency Rejection
-Ratio? How can it be avoided .
-v. State Nyquist Sampling theorem and explain its significance
-a) Compare PAM, PWM and PPM communication Systems Marks: 10
-
-b) Define Modulation. With necessary diagram and Waveforms explain the High level Marks: 10
-AM Modulator.
-
-a) List the advantages of Superheterodyne receivers over TRF. With a block diagram Marks: 10
-
-explain the working of a Superheterodyne Receiver.
-
-b) Define Deviation Sensitivity for FM and PM Marks: 10
-Determine the
-
-i) The peak Frequency Deviation and Modulation Index for an FM modulator with
-
-a deviation sensitivity K=5 kHz/V and a modulating signal Vm=2cos(2n2000t)
-
-b)
-
-ii) The Peak Phase deviation m for PM modulator with a deviation SensitivityK= 2.5
-
-rad/V and a modulating signal Vm=2cos(2n2000t)
-
-a) With necessary circuit diagram discuss the Generation and Detection of PAM Marks: 20
-b) Discuss the hierarchy in TDM Multiplexing. Marks: 10
-a) Explain the Crossby FM Transmitter. Marks: 10
-b) List the parameters of a Radio Receiver and explain any two in detail Marks: 10
-Mention the various SSB generation Techniques and explain any one in detail. Marks: 10
-For an AM DSBFC modulator with a carrier frequency fc = 100 kHz and a maximum Marks: 10
-
-modulating signal frequency fmax = 5 k Hz determine
---- page 2 ---
-Q.7
-
-modulating signal frequency fmax = 5 k Hz determine
-i) Frequency limits for upper and lower side Bands
-ii) Bandwidth
-iii) Upper and Lower side frequencies produced when the modulating signal is a
-single frequency 3 kHz tone
-iv) Draw the o/p frequency spectrum.
-Write short Notes on any two of the following:
-1) Significance of AGC in AM Receivers
-2) Ratio Detector
-
-3) TDM/FDM and its significance in Communication Systems
-
-x —
-
-Marks:20
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper f58a87d07933
 
 - Departments: Electronics and Telecommunication
@@ -2894,6 +3735,7 @@ Marks:20
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING B TECH (EXTC), BATCH 2013-14 RE EXAM_f58a87d079.pdf`
 - Printed on paper: exam date: 30/06/2015
 - Text: ocr (2 pages), mean OCR confidence 82.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2996,7 +3838,6 @@ H signal. Explain the generation of PPM signal from PWM.
 
 |" a “| B) | Discuss FM noise triangle and draw necessary diagrams (10M)
 
-Lear: tclemrernrelenaermuntiesthitees & Sepeiene senators te —
 ````
 
 ## 2013-14 · Re-Exam · Sem 4 · paper 7bdcb8844744
@@ -3089,11 +3930,11 @@ KA
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING BATCH 2013-14 Re-exam.pdf`
 - Printed on paper: exam date: 02/07/2014
 - Text: ocr (2 pages), mean OCR confidence 90.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVK
 
-NUKES! ATEL S OOL, OF TECHNOLC
 Programme:MBA Tech (Information Technology} Year: JI Semester: IV
 Academic Yea
 
@@ -3104,7 +3945,6 @@ PSTME )% \
 Batch 13-2014
 M
 Subject : Principles of Com nication Engineering } PBRARY d=
-TURK p MO pm ty PSM ym
 Date :02/07/2014 Dury WA
 
 Re-Examination
@@ -3193,413 +4033,6 @@ ili) IST
 iv) CDM
 
 v) AM vs FM
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper cbe9de7bb2a6
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING BATCH 2013-2014 Re-exam.pdf`
-- Printed on paper: exam date: 15/05/2015
-- Text: ocr (2 pages), mean OCR confidence 94.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (I.T.) Year: II Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Principles of Communication Engineering
-Marks 2
-Date: 15/05/2015 Time;
-Dur
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1.Answer any five (4 marks each) [20]
-a. What is the need of sampling in digital communication and state sampling theorem?
-
-b. State four distinct advantages of digital communication over analog communication?
-
-c. With suitable waveform explain ASK and FSK
-
-d. State the need of Pre-emphasis and De-emphasis in FM system?
-
-e. Draw and drive expression for modulating index for AM wave?
-
-f. Explain ISI?
-
-g. Write a short note on QAM?
-
-Q2) a) Draw and explain QPSK transmitter - receiver, signal space representation and drive its
-Bandwidth requirement? [10]
-
-b) An AM signal appears across a 50 Q load has the following equation
-V(t)=12[1 +sin12.566x10°t}sinI8.85x10°t [10]
-i) Sketch the envelope of this signal in time domain.
-ii) Calculate the modulation index, side band frequencies, total power and bandwidth.
-
-Q3) a) We have audio signal of expression v=10 sin 1000 t, we have to adapt PCM system with no.
-of levels as 16. Then [10]
-i) What will be the PCM word size and calculate quartile for the same?
-ti) What will be the min. required sampling rate ?
-iii) What will be signal peak power and signal to noise ratio?
-b) Derive an expression for AM Voltage distribution. [10]
---- page 2 ---
-Q4) a) Draw and derive noise factor of amplifier in cascade? [10]
-b) Define terms with suitable figures: [10]
-i) EM wave with its polarization
-ii) Maximum usable frequency
-iii) Critical Frequency,
-iv) Radio Horizon, Skip distance for Respective propagation?
-
-Q5) a) 98.5 MHz carrier is FM modulated by 12 KHz sine wave. The resultant FM signal has frequency
-Deviation 75 KHz. [10]
-i) What will be frequency swing in carrier wave, explain with appropriate figure?
-ii) Calculate modulating Index?
-iii) Finin and Fynax. For FM modulated signal?
-
-b) We have data as 11010011 to be transmitted, draw and explain
-i) Uinpolar RZ ii) Polar RZ iii) AMI iv) Split phase Manchester v) M-Array, M=4 [10]
-
-Q6) a) What are the drawbacks of Delta modulation and how they are overcome in Adaptive Delta
-
-Modulation. [10]
-b) Explain QPSK in brief. [10]
-Q7) Write notes on any four? (5 each) [20]
-
-i) EM wave Propagations used in radio communication.
-ii) Eye Pattern
-
-iii) Noise Figure and Noise Factor
-
-iv) WDM
-
-v) PM vs FM
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 7ca80baf1867
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/PRINCIPLES OF COMMUNICATION ENGINEERING/Principles of Communication Engineering Batch (2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 100; exam date: 03/07/2015
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (IT) Year: II Semester: IV
-
-Academic Year: 2014-15 ee
-oF
-Batch: 2013-14 ae : ’,
-
-Cre
-» ON
-
-YY?
-Subject : Principles of Communication Engineering Marks: 100 a ¥
-Time : 10.00, 0 1.00 pm
-
-Durations: 3 (fits) gee =
-Re-Examination Mis Wane =
-
-Se
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-Date : 03/07/2015
-
-NB:
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1.Answer all questions (5 marks each) 20
-a. Define Modulation and its importance -
-
-b. Write a equation for DSBFC AM wave and draw its frequency spectrum:
-
-c. Define Quantization error and how it can be removed in PCM :
-
-d. Draw the waveform of PM , FM and AM .
-
-Q2: a) Draw the block diagram of Communication system. Explain each block in brief. 10
-b) Compare Ground wave vs Space wave propagation ‘: : 10
-Q3: a) Drive the expression for Power distribution for AM wave. 10
-
-(b) Define angle Modulation: Explain phase deviation, frequency deviation and
-Percentage modulation . 10
-
-Q4: a) Draw and explain FSK transmitter - receiver, and drive its Bandwidth requirement. 10
-b) How Adaptive Delta Modulation will overcome DM? Explain with the help of diagram. 1Q
-
-Q5: a) Explain TDM in detail. 10
-b) With the help of neat diagram explain the PCM system with waveform. 10
-
-2/2
---- page 2 ---
-Q6: a) We have data as 00110110 to be transmitted, draw and explain all line codes format in digital
-
-communication. 10
-b) Explain DPSK in brief. 10
-20
-
-Q7) Write notes on any four. (5 each)
-i) ISI
-ii) Equivalent noise temperature
-iii) Need of Multiplexing
-iv) PM vs FM
-v) Electromagnetic wave
-
-2f 2
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 4bdeaf6d7cc6
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING BATCH 2013-2014 Re-exam.pdf`
-- Printed on paper: exam date: 16/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: Il Semester: IV
-Batch: 2013-14
-2%,
-
-NS,
-MOGTME Yo
-L 16 .6¢+am top pm
-S38 (hrs) _ ZY
-
-Academic Year: 2014-2015
-
-Subject: Principles of Communication Engineering
-
-Date: 16/05/2015 Time}!
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 __ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3) Inall__5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1. Answer the following(Attempt any four) [20]
-a. Describe noise triangle in FM system.
-b. Explain Thermal noise. Prove that noise voltage Vn=(4K TBR)".
-c. Define nyquist rate. What is the standard sampling frequency for speech signals.
-d. Explain Dynamic range and fidelity of receiver.
-e. Compare AM, FM and PM
-
-Q.2.a.An AM transmitter develops an unmodulated power output of 100 watts across 10Q [10]
-Load. The carrier is modulated by a sinusoidal signal with a modulation index of 0.5.
-Assuming fm = 5 kHz and fe = 2 MHz
-i. write the equation of AM
-ii. Sketch spectrum of modulated wave.
-
-iii. Find the total power of the modulated output
-
-b. Draw the block diagram of a phase cancellation SSB generation and explain how — [10]
-the carrier and unwanted sideband are suppressed. What change is necessary to suppress
-other sideband?
-
-Q.3. a. State different methods for FM generation? Sketch the circuit and explain the [10]
-Principle of Varactor diode modulator?
-b. Explain the working of Ratio detector. Compare its performance with foster seely [10]
-Discriminator
-
-Q.4. a.List different sampling techniques. Explain Flat top sampling in detail. [10]
-b. Draw the block diagram of AM superhetrodyne receiver and explain its working. [10]
---- page 2 ---
-Q.5. a. What are the different types of noise in communication system. Explain any three [10]
-in detail.
-b. Draw the block diagram of Armstrong frequency modulation system and [10]
-explain its working
-
-Q.6. a. Explain generation and detection of PWM and PPM with waveforms. [10]
-b. List various types of multiplexing. Explain FDM in detail [10]
-Q.7. Write Notes on :- (20]
-a. Independent Side Band
-b. AGC
-
-c. Image frequency and its rejection
-d. Elements of communication system
-
-< /
-J
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper a751369d5461
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PRINCIPLES OF COMMUNICATION ENGINEERING/Principles of Communication Engineering Batch (2013-14) Re-exam.pdf`
-- Printed on paper: exam date: 04/07/2015
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II Semester: IV
-
-Academic Year: 2014-15
-Batch: 2013-14
-
-Subject : Principles of Communication Engineering Marks: 1
-
-Time : 10.
-Durations:
-Re-Examination
-
-Date : 04/07/2015
-
-a,
-
-“bs univers’
-
-SS
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full-marks.
-7) Assume Suitable data if necessary
-
-Q.1 Attempt any four 20M
-a) What are the advantages of FM over AM?
-b) Define related to radio receiver i) Sensitivity ii) Selectivity iii) Fidelity.
-c) Whatis AM envelope? What is the advantage of low level modulation?
-d) What is aliasing?
-e) Compare Time Division Multiplexing and Frequency Division Multiplexing.
-
-Q.2 a) Define the following terms: 8M
-1. Noise Figure
-2. Noise factor
-3. Noise temperature
-4. Signal to noise ratio
-b) Derive an expression for amplitude modulated wave and its power relations. 12M
-Also give time and frequency domain representation.
-3 a) Draw diagram of foster seeley discriminator and explain its working with 10M
-Phasor diagram.
-b) Draw the block diagram of superheterodyne receiver oe explain the function 10M
-of each block in detail.
-
-Q4 a) 1. One input to a conventional amplitude modulator is a 500 KHz carrier 10M
-with amplitude of 20 Vp. The second input is a 10 KHz modulating
-signal that is of sufficient amplitude to cause a change in the output
-
-4/2.
---- page 2 ---
-Q.5
-
-Q.6
-
-Q7
-
-b)
-
-a)
-
-a)
-b)
-
-wave of 7.5. Determine:
-
-is Upper and lower side frequencies.
-
-il. Modulation coefficient and percent modulation.
-iii. Maximum and minimum amplitude of envelope.
-iv. Expression for the modulated wave.
-
-vy... Draw the output spectrum.
-
-Explain the principle of Angle Modulation. Derive and explain phase
-deviation, Modulation index, frequency deviation and percent modulation.
-
-Explain the generation of pulse width modulation.
-Draw and explain the generation of flat top pulse amplitude modulation.
-
-- Define FM and PM modulation. Describe the generation of FM wave using
-
-Armstrong method.
-What is multiplexing in communication system? Draw and explain Frequency
-
-Division Multiplexing.
-
-Write short notes on any three
-Automatic Gain Control
-
-Slope detector :
-Distortions in the envelope detector.
-Varactor diode
-
-2.)
-
-10M
-
-10M
-10M
-12M
-
-8M
-
-20M
 ````
 
 ## 2013-14 · Re-Exam · Sem 4 · paper 85d99dd65373
@@ -4338,446 +4771,4 @@ Explain line code with their spectrum.
 10
 
 10
-````
-
-## Year not stated · Exam not stated · Sem 3 · paper 2a7a7c670896
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/12/2013
-- Text: ocr (2 pages), mean OCR confidence 93.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-
-Programme:B. Tech (IT) Year: II Semester:III
-Academic Year: 2013-2014
-
-Subject :Principles of Communication Engineering
-Marks: 100
-
-Date : 04/12/2013 Time : 10.00 am to 1.00 pm
-
-Duration ;:3 (hrs)
-Final-Examination
-
-N.B. (1) Question no. 1 is compulsory.
-(2) Out of remaining attempt any four questions
-(3) In all Five questions to be attempted
-(4)AII questions carry equal marks.
-(5) Answer to each new question to be on fresh page.
-(6) Figures on right hand side indicate full marks
-
-Ql Solve any five.
-a. Explain how PPM is generated from PWM?
-b. Compare FM and PM.
-ce. Explain the need of modulation
-' d. Why differential PSK is preferred over Delta Modulation.
-e. Derive expression for Noise Figure.
-f. Briefly explain types of Multiplexing.
-
-Q.2.a) A FM represented by the voltage equation v=12 sin(6x 10°t+5 sin 1250t).
-Find — i) carrier and modulating frequencies, ii) the modulation index and the maximum
-Deviation, iii) power dissipated this FM in a 5Ohm resister, iv) bandwidth by using Carson’s rule.
-
-b) Explain the block diagram of PCM with function of each block. What is the bandwidth for
-PCM, if a voice signal is sampled at Nyquist rate and each sample is quantized into one to
-256 levels, determine the output of PCM signal.
-
-Q.3 a. Explain the block diagram of adaptive delta modulation with waveforms. How does it reduce
-slope overload error?
-b. What are the different PCM waveform types (Line coding)? Which parameter should be
-
-considered while selecting appropriate waveform?
-
-Q.4 a. What is noise? List the types of noise and explain each in brief.
-
-Vo, .
-
-20
-
-10
-
-10
-
-10
-
-10
-
-10
---- page 2 ---
-b. Compare the Ground wave, Space wave and Sky wave propogation.
-
-Q.5 a. Draw and explain QPSK transmitter, receiver and derive equation for its bandwidth.
-
-b. State and explain Sampling theorem. Also explain Quantization process and define
-Quantization error.
-
-Q.6 a. Derive expression for Modulation Index and sidebands in AM.
-b. Explain different techniques of pass-band modulation of Digital Communication.
-
-Q.7. Write short notes on (any four)
-a. Properties of radio waves
-b. Inter Symbol Interference
-c. FM noise triangle.
-d. Compare TDM and FDM
-e. Shannon limit for information capacity
-
-Q]2_
-
-10
-
-10
-10
-
-10
-10
-
-20
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper cfc0e15637b6
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICAITON ENGG B TECH (IT), BATCH 15-10001.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
-oO Vas
-r
-
-Programme: B. Tech (I.T.) Year: II Semester: IV ‘$7
-iw
-Academic Year: 2015-2016 & mS
-Subject : Principles of Communication Engineering 4
-Marks: 60
-Date : 14/05/2016 Time : 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1.Answer any three (4 marks each) ‘ 12
-
-A. What is Need of Modulation?
-B. Define The Following Propagation Terms:
-
-I. Critical Frequency & Critical Angle II. Virtual Height
-C. Explain Modulation Index For Am, Fm.
-
-D. For A Pam Transmission Of Voice Signal Having Maximum Frequency Equal to Fm = 3khz,
-= Calculate The Transmission Bandwidth. Ti Is Given That The Sampling Frequency Fs = 8 Khz And The
-Pulse Duration T = 0.1 Ts?
-
-Q2: a) Draw the block diagram of Communication system. Explain each block in brief. 6
-b) Drive an expression for C
-1) Output noise power in term of Noise factor.-
-2) Amplifier Noise contribution in term of Noise factor.
-3) Amplifier in cascade in term of Noise factor.
-
-Q3: a) Drive the expression for power distribution for AM wave? 6
-
-(b) Explain Sky Wave propagation in detail with diagram. 6
-
-Vo.
---- page 2 ---
-Q4:
-
-Q5:
-
-Q6:
-
-a) Draw and explain BPSK transmitter - receiver, and drive its Bandwidth requirement?
-b) What is ADM Modulation? Draw and explain ADM system.
-
-a) Compare Frequency division multiplexing and Time division multiplexing.
-b) Draw a QPSK waveform for the input binary stream is 1011011011
-
-a) Draw the following data waveform for the bit stream 1101011000
-1) Bipolar NRZ 2) Polar RZ 3) Unipolar NRZ 4) Split Manchester
-
-b) Compare
-1) Offset and Non Offset QPSK 2) Analog & digital communication.
-
-Q7) Write notes on (4 each)
-
-i) CDM
-ii) What is the necessity of envelope detector during reception?
-iii) Equivalent Noise Temperature.
-
-4 ’
-
-alg
-
-12
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper ed4a0b1d165c
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICAITON ENGINEERING B TECH (IT), BAT0001.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
-- Text: ocr (2 pages), mean OCR confidence 87.8
-
-````text
-SVKM’s NMIMS ;
-*SH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-MUKESH F
-
-: IV 4
-
-Programme: B.Tech (If) Year: I Semester y
-Academic Year: 2015-16 if 7
-y i
-
-Batch: 2014-15 \
-ject: Princi unication Engineering Marks: 60 *
-
-Subject: Principles of Communic g ares O00 an
-
-Date: 14/05/2016 . Durations: 3 hrs.
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1.Answer any three (4 marks each) 12
-a. Why modulation is important ?
-b. Write a equation for DSBFC AM wave and draw its frequency spectrum’
-c. Given a channel width of 30 mbs.The bandwidth of channel is 5 mhz,what is the SNR to
-achieve this capacity ?
-d. Explain EYE pattern:
-
-Q2: a) Draw the block diagram of Communication system. Explain each block in brief. 6
-b) Compare Sky wave vs Space wave propagation *: é
-3: a) Drive the expression for voltage distribution for AM wavey’ 6
-
-(b) Define angle Moduiation? Explain phase deviation, frequency deviation and
-Percentage modulation + 6
-Q4: a) Draw and explain QPSK transmitter - receiver, and drive its Bandwidth requirement. 6
-b) What is Adaptive Delta Modulation ? Draw and explain ADM system. 6
-
-es
-
-Q5: a) Explain CDM in detail: 6
-prs b) What is the need of modulation? Define modulating index for AM, FM and PM ‘r 6
-
-1
---- page 2 ---
-6 awe ‘have data as 00110110 to be transmitted, draw and explain
-i) Uinpolar RZ ii) Polar RZ iii) Split phase Manchester
-
-b).Explain QAM in brief.
-tg
-“h
-ranks
-Q7) Write notes on any three. (4fsach)
-
-i) Application of digital communication.
-ii) DPCM
-iii) Need of Multiplexing
-iv) AM vs FM
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 75c2bcf7dbdc
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING B TECH (IT), BAT0001.pdf`
-- Printed on paper: exam date: 03/07/2015
-- Text: ocr (2 pages), mean OCR confidence 89.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II Semester: IV
-Batch: 2014-15
-
-Academic Year: 2014-2015
-
-Subject: Principles of Communication Engineering
-Marks:
-i Date: 03/07/2015 Time:
-Durations:
-
-Re-Examination
-
-Instructions: 1.Question no. 1 is compulsory.
-' 2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted:
-4 All questions carry equal marks.
-5. Answer to each new question to be started ona fresh page.
-6.Figures in brackets on right hand side indicate full marks.
-
-Q1.Answer any 3. (4 marks each) fi2 » |
-
-a) Draw EM wave and express it’s polarization? State different modes of RF propagation?
-
-b) Define’two type of quantization and How it is performed?
-
-©) What is adaptive delta modulation?
-2) Draw’block diagram of PCM (Base band) system?
-2) Draw waveforms and explain in brief analog pulse modulation techniques?
-
-Q2)
-a) If each stage has a gain of 20 dB and noise fi
-
-of two stage cascaded amplifier?
-b) We have Vm=3Sin(
-system? Calculate:
-
-gure of 10 dB determine the overall noise figure and gain
-
-(6
-
-6280t } as modulating signal, Carrier signal Vc=8Sin( 628000 t) in AM modulation
-
-(S)
-1)Moaulating index 2)Side band frequency
-3)Bandwidth required 4)Total power delivered into a load of 1KOhms.
-. Q 3) a) Explain principal of QPSK? Draw and explain block dig. Of QPSK Transmitter and receiver? (ey
-b) State what is need of Multiplexing? Compare TDM vs FDM? (€)
-Q4 a) Draw and explain block diagram of QAM transmitter and receiver? (é)
-(b) What is Angle modulation? Compare FM and PM (é )
-
-4/2
---- page 2 ---
-Q.5)
-(a) What is need of modulation? List various modulation techni
-Communication
-
-(b)Draw line code waveform for given bit sequence 100011?
-i) Bi-Polar RZ
-ii) Manchester coding
-
-iii) AMI-RZ format.
-
-Q 6) a) Draw and explain Delta modulation Transmitter and receiver?
-
-b) Explain in detail Skywave propagations ?
-
-Q7)Answerany 3 — (4narks each) —__-_-—~   ovw—or
-
-a) Inter symtol interference
-
-b) BPSK
-
-c) DPCM
-
-d) Shannon limit for information capacity
-
-ques in Digital
-
-{2.M
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 56009b65cdbb
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING B TECH (IT), FIN0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 15/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II Semester: IV
-Academic Year: 2014-2015 .
-Subject: Principles of Communication Engineering VON
-Marks: /&” 60 *
-Date: 15/05/2015 Time : 4, | 2.00 pm'td'5 pm
-
-Durations 3 (hrs)*
-
-Final-Examination RB “Ea et 4
-
-Instruction: Candidates should read carefully the instructions printed on the question paper aiid on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1.Answer any three (4 marks each) 12
-a. Derive a noise factor for amplifier in cascade ?
-b. Write a equation for DSBFC AM wave and draw its frequency spectrum?
-c. Given a channel width of 30 mbs.The bandwidth of channel is 5 mhz .what is the SNR to
-achieve this capacity ?
-d. Explain EYE pattern?
-Q2: a) Draw the block diagram of Communication system. Explain each block in brief. 6
-b) Explain following Propagation terms: 6
-i) MUF
-ii) Virtual height
-iii) Skip distance and Skip Zone
-Q3: a) Drive the expression for power distribution for AM wave? 6
-(b) Define angle Modulation? Compare FM and PM ? 6
-Q4: a) Draw and explain BPSK transmitter - receiver, and drive its Bandwidth requirement? 6
-b) What is Delta Modulation ? Draw and explain DM system. 6
-Q5: a) Explain WDM in detail? 6
-b) What is the need of modulation ? Define modulating index for AM, FM and PM ? 6
-
-al. Jiu
---- page 2 ---
-Q6: a) We have data as 00110110 to be transmitted, draw and explain
-i) Uinpolar.RZ ii) Polar RZ iii) Split phase Manchester
-
-b) Explain QAM in brief.
-
-Q7) Write notes on any three? (4marKks each)
-i) Advantages of digital communication.
-ii) PCM
-iii) Need of Multiplexing
-iv) AM vs FM
-
-12
-
-r
 ````

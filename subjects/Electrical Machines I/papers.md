@@ -341,6 +341,7 @@ transformers.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM IV/ELECTRICAL MACHINES I/ELECTRICAL MACHINES I 16-17 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 13 May 2017
 - Text: ocr (2 pages), mean OCR confidence 91.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 tweet AB Ye
@@ -458,7 +459,6 @@ the variation of torque for a dc series and de shunt motor. .
 Explain the construction and working of a variable reluctance stepper motor with neat
 illustrations.
 
-SEG IC CGR GR kak i kek ak oko ok
 
 Page 2 of 2
 
@@ -487,6 +487,7 @@ CS om
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM IV/ELECTRICAL MACHINES I/ELECTRICAL MACHINES I BATCH 16-17 RE EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 12 July 2017
 - Text: ocr (2 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -626,7 +627,6 @@ Production of Rotating Magnetic field in 3 — Induction Machine.
 Construction and working principle of Permanent Magnet DC Machine.
 
 Distribution factor.
-FECA GC ICG IO I I I 3 a ak ak ak ok ok
 
 Page 2 of 2
 

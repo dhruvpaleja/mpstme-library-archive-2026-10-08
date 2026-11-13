@@ -17,10 +17,10 @@ Also filed as: `MANIFACTURING PROCESSES II`, `Manufacturing Process II`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Manufacturing Processes II 2025-26 Final.pdf |
-| 2025-26 | Final-Exam, Re-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Manufacturing Processes - II(702ME0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Manufacturing Processes - II(702ME0C015)_2025-2026.pdf |
 | 2025-26 | Final-Exam, Re-Exam | Question paper | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | QP_Manufacturing Processes - II(702ME0C015)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | Integrated Mechanical 7031 | QP_Manufacturing Processes - II(702ME0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam, Re-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Manufacturing Processes - II(702ME0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Manufacturing Processes - II(702ME0C015)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Manufacturing Process II Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Manufacturing Processes - II, Sem-V, 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / MECHANICAL | Manufacturing Processes-II, Sem-V, A Y 2023-24, Final Exam.pdf |

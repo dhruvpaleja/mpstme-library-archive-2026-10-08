@@ -1,6 +1,6 @@
 # Quantum Computing and Technologies: question papers in full
 
-24 unique papers · 2023-24 to 2025-26 · Computer Engineering, Information Technology, Common (all branches), Cyber Security, Mechanical, Civil, Data Science, Artificial Intelligence
+24 unique papers · 2022-23 to 2025-26 · Computer Engineering, Information Technology, Common (all branches), Cyber Security, Mechanical, Civil, Data Science, Artificial Intelligence
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -705,6 +705,7 @@ of the system after measurement if we measure the energy to be 3ε?
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/QUANTUM COMPUTING & TECHNOLOGIES/Quantum Computing and Technologies, Sem-V, Year 2025-26, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 82.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -871,7 +872,6 @@ Brel measurement result? Eigen vectors of the matrix are given by [4]
 lf 1 1
 « m=()), = (i)
 
-FIC IG   aCa a i a a a
 ````
 
 ## 2025-26 · Re-Exam · Sem 5 · paper 5ea18aea6ebd
@@ -1161,6 +1161,7 @@ BL-1,2   |𝜓⟩=   .
 - Source: `02_Question_Papers/2025/Sem_10/Re-Exam/Integrated_Computer_7032/QUANTUM COMPUTING AND TECHNOLOGIES/QP_QUANTUM COMPUTING AND TECHNOLOGIES(702BS0I020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1290,6 +1291,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_10/Re-Exam/Integrated_IT_7037/QUANTUM COMPUTING AND TECHNOLOGIES/QP_QUANTUM COMPUTING AND TECHNOLOGIES(702BS0I020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1951,7 +1953,7 @@ CO3 c ect . a . a
 BL 3,4 What is single-qubit and multi-qubit operation? Explain with examples. [4]
 ````
 
-## Year not stated · Exam not stated · Sem 6 · paper 23f0a79ab101
+## 2022-23 · Exam not stated · Sem 6 · paper 23f0a79ab101
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH

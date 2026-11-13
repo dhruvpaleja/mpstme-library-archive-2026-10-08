@@ -1,6 +1,6 @@
 # Entrepreneurship Management: question papers in full
 
-13 unique papers · 2008-09 to 2015-16 · Common (all branches)
+12 unique papers · 2008-09 to 2015-16 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -322,6 +322,58 @@ Q.7 (a) Explain Entrepreneurial Marketing?
 t if
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper 9f1f857e6fcb
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Entrepreneurship management/scan0005(12).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03/01/2013
+- Text: ocr (1 page), mean OCR confidence 93.1
+
+````text
+> SVKM'S
+a(n MIMS University do
+
+Mumbalt-56.
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (Tech) -ALLSTREAMS Year: V Trimester: XIV
+Academic Year : 2012-2013
+
+Subject: ENTREPRENEURSHIP MANAGEMENT Marks: 50
+Time: 11.00 a.m To 1.00 p.m
+Date: 03/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+NB:
+# Answer any 4 questions.
+# All questions carry equal marks.
+
+Q 1 Visualise that you are a Professor of Entrepreneurship in a reputed B School in the city and that you
+have to give a talk on" The importance of entrepreneurship " to your newly joined MBA students.
+How will you go about this task ?
+
+Q 2 Define " Venture Capital(VC) " and broadly discuss it's mechanism. Why has the relative significance
+of VC gone up in recent times ?
+
+} Q3 What is Gender bias ? How does it hamper the effectiveness of women entrepreneurs ? How can it
+possibly be overcomed ?
+
+Q4 Describe the basic model of Franchising. Why is it often called as the best gift of the 20 th Century to
+the world of business ?
+
+Q5"To plan is to think and act with a purpose. " Elaborate. Also write down the Executive Summary of
+a Business Plan in respect of a new venture that you as an entrepreneur may want to start.
+
+Q 4 Write short notes on any 2 of the following:-
+) Technological environment of business
+b) Small & Medium Enterprises(SMEs) in India - problems & prospects
+c) Corporate Entrepreneurship
+d) e-business and its relative importance
+````
+
 ## 2011-12 · Re-Exam · Trim 14 · paper 44fc448fa32f
 
 - Departments: Common (all branches)
@@ -548,8 +600,8 @@ F) Working Capital
 - Departments: Common (all branches)
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Entrepreneurship management/2008-2009(141).pdf`
-- Printed on paper: duration hours: 2
 - Text: ocr (1 page), mean OCR confidence 86.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Ss
@@ -563,7 +615,6 @@ SUKMs NmimS Univers)
 Mukesh Patel School of Technology Management & Engineer oe see aay )z
 2003-049 | 7 §)
 Entrepreneurship Management max marks: SG, LZ8,
-Trjmester- XIV PABA TEC HY TERR duration: 2hrs”?)> ; eae Z
 ~31-01-0F 12-00 - rope
 All questions carry equal marks.
 
@@ -606,130 +657,19 @@ f) social entrepreneurship.
 x
 ````
 
-## 2008-09 · Re-Exam · Trim 14 · paper 62b7557fe725
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Entrepreneurship management/2008-2009 re exam I(15).pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 94.7
-
-````text
-SVKM’S NMIMS UNIVERS
-MUKESH PATEL SCHOOL OF TECHNOLOGY
-ENGINEERING
-See Year
-Trimester > 2008-09
-
-Subject: Environmental Management Max Marks: 50
-Date: Qy 6 6-09. Time Allowed: 2 hrs
-+ 4 10-80 ~14-60 P™ ,
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-e Attempt any four questions out of six
-e All questions carry equal marks
-e Answer to each new question to be started on a fresh page
-
-1. Briefly explain various forms of industrial pollution with respect to typical
-sources and causes for the same. Explain various environment protection
-standards prevailing in your country. What in your opinion are the roles and
-responsibilities of industries in the context of minimizing industrial pollution.
-
-2. What are the various altematives for management of solid wastes? Discuss salient
-features of the Municipal Solid Waste (Management and Handling) Rules, 2000.
-Explain the current practices and suggest alternatives for better management of
-solid wastes in Mumbai.
-
-3. Acommitted Organization must implement the policy of reporting its operations
-with TBL (Triple Bottom Line) approach. Comment on the need, methodology
-for reporting and advantages of preparing such reports. Name any two companies
-which have implemented the above reporting.
-
-4. Explain salient features of the Montreal Protocol. Briefly discuss the procedure
-related to CDM projects in India.
-
-5. Briefly explain the factors believed to have led to the Bhopal Gas Tragedy.
-“Implementing a robust environmental management system conforming to ISO
-14001 has the potential of preventing such disasters’. Explain with reasons
-whether you agree with the foregoing statement.
-
-6. Case: Mushroom Composters
-In 1978, Mushroom Composters Pvt. Limited set up mushroom composting
-
-operations in Ebenezer, a town at the outskirts of Sydney, Australia. The facility
-composted poultry manure, straw and other ingredients by letting them rot.
-
-PTO
---- page 2 ---
-~ va
-
-In 1992, residents of the area found that a very foul odour was being emitted from
-the factory. The odour was so foul that most residents had to keep the windows
-shut at all times. This was the case even in summer, leading to considerable
-difficulty for the residents. In addition to this, children at the local school also
-started taking ill due to the odours.
-
-The residents under the Ebenezer Concerned Residents Committee decided to
-move to court protesting against the facility operations under the appropriate
-legislation. Since the committee was an unincorporated body and under
-Australian Law an unincorporated body cannot bring enforcement proceedings, a
-gentleman by the name of Peter Foster filed a law suit against the erring
-company.
-
-During the course of the case it was established through witnesses that the odours
-did exist and were degrading the quality of the air in the region. It was also
-established through expert witnesses that such odours would arise from bacterial
-activity in composting under anaerobic conditions. This was found to be breach of
-the consent given to the company to set up the plant. Under the consent, the
-company was to conduct its composing activity under strictly aerobic conditions.
-
-The judge in the case found the company guilty of polluting the environment and
-ordered the immediate shifting of the facility. This order was suspended for 12
-months, in order to allow the company some time to shift the facility. However
-the tale didn’t end here.
-
-A year later, the company was still polluting in the same area in the contempt of
-the court orders. In fact during the period the company had even earned a profit of
-$230,000 while operating in contempt! Peter Foster immediately brought
-proceedings for contempt of court. Foster led evidence from 35 local residents
-that the odours continued. Additional evidence came to the surface that the
-company was aware of technology that would reduce the odours since 1991, but
-did not implement the same as it was too expensive. The Court found that the
-company” ....took decisions largely for commercial reasons, which involved a
-willful or deliberate breach of(the Court’s) order”.
-
-In a landmark ruling, the court ordered the firm to pay a fine of $80,000 with
-further penalties amounting to $8,000 for each week it continued to remain in
-contempt. While not as much as the profit made by the company, this was by far
-one of the largest fine imposed by the Court then.
-
-Although this is a case of Australian origin, the situation in India could be similar.
-Assuming this situation to be in India, answer the following
-
-e Describe the roles that NGOs play in dealing with such situations
-e Enlist the environmental legislations associated with this situation under
-which the case could be filed and action taken against the erring party?
-
-eo
-
-<—_ \
-````
-
 ## 2008-09 · Re-Exam · Trim 14 · paper 25e5bf0165b4
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Entrepreneurship management/2008-2009 re exam(69).pdf`
 - Text: ocr (2 pages), mean OCR confidence 84.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Ww
 
 SVEM’S NMIMS TINIVERSTT
 
-MURESII PATEL SCLIOOL OF TECIINGLOGY M
 ENGINEERING MBA (PECH) (ALL) Program
 Trimester XIV, 2008-09 Ro —e:
 
@@ -833,56 +773,4 @@ Ayes .
 (10)
 (16)
 ag |!
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 9f1f857e6fcb
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Entrepreneurship management/scan0005(12).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 03/01/2013
-- Text: ocr (1 page), mean OCR confidence 93.1
-
-````text
-> SVKM'S
-a(n MIMS University do
-
-Mumbalt-56.
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (Tech) -ALLSTREAMS Year: V Trimester: XIV
-Academic Year : 2012-2013
-
-Subject: ENTREPRENEURSHIP MANAGEMENT Marks: 50
-Time: 11.00 a.m To 1.00 p.m
-Date: 03/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-NB:
-# Answer any 4 questions.
-# All questions carry equal marks.
-
-Q 1 Visualise that you are a Professor of Entrepreneurship in a reputed B School in the city and that you
-have to give a talk on" The importance of entrepreneurship " to your newly joined MBA students.
-How will you go about this task ?
-
-Q 2 Define " Venture Capital(VC) " and broadly discuss it's mechanism. Why has the relative significance
-of VC gone up in recent times ?
-
-} Q3 What is Gender bias ? How does it hamper the effectiveness of women entrepreneurs ? How can it
-possibly be overcomed ?
-
-Q4 Describe the basic model of Franchising. Why is it often called as the best gift of the 20 th Century to
-the world of business ?
-
-Q5"To plan is to think and act with a purpose. " Elaborate. Also write down the Executive Summary of
-a Business Plan in respect of a new venture that you as an entrepreneur may want to start.
-
-Q 4 Write short notes on any 2 of the following:-
-) Technological environment of business
-b) Small & Medium Enterprises(SMEs) in India - problems & prospects
-c) Corporate Entrepreneurship
-d) e-business and its relative importance
 ````

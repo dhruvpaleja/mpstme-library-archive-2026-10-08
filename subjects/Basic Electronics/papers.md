@@ -1,6 +1,6 @@
 # Basic Electronics: question papers in full
 
-109 unique papers · 2004-05 to 2024-25 · Common (all branches), Computer Engineering, Electronics and Telecommunication
+107 unique papers · 2004-05 to 2024-25 · Common (all branches), Computer Engineering, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -321,7 +321,168 @@ BL-2
 2] y_
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper aa511d39e9c4
+## 2023-24 · Re-Exam · Sem 3 · paper 1621f18b5c4d
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/Basic of Engineering Chemistry/Basic Electronics Batch 2021-22,2022-23,2023-24 Re Exam0001.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 87.5
+
+````text
+SVKM’S NMIMS i
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024 a
+
+Program/s: B.TECH INTG
+
+Stream/s: Computer/ Data Science
+
+Subject: Basic Electronics me:
+\s »
+
+Date:_08 /02 / 2024 , No ses
+Marks: 100
+
+Re — Examination (2021-22/ 2022-23) isan
+
+Instructions: Candidates should read carefully the instructions ees on the question paper and on the cover
+of ihe Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+ante a. | Compare solar cell and photodiode. 05
+a ire b. | Explain transistor as switch. 05
+CO-3; 80-1: c. | Define the following parameters of JFET. ”
+
+BL2 1. Amplification factor
+
+2. Transconductance
+
+CO-4:; SO-1; d. | Find the frequency of oscillations for a Hartley Oscillator having L1 = | uwH, L2
+
+05
+Cc BL-1 = 100 pH, M=50 pH and C = 100pF.
+Q2A Explain the construction and working of LED.
+CO-1; 80-1; 10
+BL-2
+Q2B Develop the expression for Ip, Ic and Vcr for fixed bias BJT circuit.
+CO-3; SO-1; 10
+BL-3
+Q3A What is a multi-vibrator? List different types of multi-vibrator. Explain Asatable
+CO-2; SO-1; | multivibrator in detail. 10
+BL-1,2
+
+Vp
+--- page 2 ---
+Q3B
+CO-3; SO-1;
+BL-5
+
+Determine Vos, Ip, Vos, Vs, Vp and Vo in JFET fixed biased circuit where, Re=.
+2 MQ, Rp = 2 kQ, Vac = 3 V and Ipss = 10 mA Vp=-8 V and Vpp = 18 V.
+
+10
+
+Q4A
+
+CO-4; SO-1;
+BL-2
+
+Explain with help of neat circuit diagram working of a Colpitts oscillator.
+
+10
+
+Q4B
+
+CO-2; SO-1;
+BL-2
+
+Illustrate and explain the with neat diagram Transfer characteristics of an n-
+
+channel JFET.
+
+10
+
+Q5A
+
+CO-2; SO-1;
+BL-5
+
+Determine Ip, Ic and Vcr, Vc, and Vg of emitter bias circuit.
++Vcc= 20V
+
+ReH 4.7 kQ
+
+B=85
+
+10
+
+Q5B
+
+CO-3; SO-1;
+BL-2
+
+Summarize with neat circuit diagram working of common emitter BJT amplifier.
+
+@
+
+10
+
+Q6A
+
+CO-4; SO-1;
+BL-2
+
+Explain with help of neat circuit diagram working of a Crystal oscillator.
+
+10
+
+Q6B
+
+CO-3; SO-1;
+BL-3
+
+Develop the expressions for Vas, Ip, Vos, Vc, Vp and Vs for a voltage divider
+
+biased JFET circuit.
+
+10
+
+Q7A
+
+CO-4; SO-1;
+BL-2
+
+Explain feedback amplifiers with example.
+
+10
+
+Q7B
+
+CO-1; SO-1;
+BL-2
+
+Illustrate and explain varactor diode in detail.
+
+10
+
+7/9
+````
+
+## 2022-23 · Final-Exam · Sem 3 · paper aa511d39e9c4
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -437,221 +598,7 @@ BL-2
 2/2
 ````
 
-## 2022-23 · Re-Exam · Sem 3 · paper c6181154f972
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/BASIC ELECTRONICS/Basic Electronics Batch 2022-23 Re Exam0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 31 January 2023
-- Text: ocr (2 pages), mean OCR confidence 87.2
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program: B. Tech Integrated (Data Science/ Computer) Year: II Semester : II
-
-AcademicY ear: 2022-2023
-
-/ Subject: Basic Electronics
-Marks: 1007
-
-Date : 31 January 2023 Time: 2.00 pm - 5.00 pm
-Durations: 3 (Hrs)
-No. of Pages: 2
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-~~ 2) Out of remaining questions, attempt any __4 _ questions.
-3) Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi ,
-Answer briefly: [20]
-a. | State whether the given statements are true or false and justify your
-answer.
-CO-1 ; SO-1; (i) A varactor diode can be used only in the reverse bias. [05]
-BL-3 (ii) Oscillator can produce sustained oscillations only if positive feedback
-is provided.
-b. | Draw the output characteristics of BJT and clearly identify the regions.
-“1 C0-2;S0-1; Explain what a load line is and how it can be drawn on the output [05]
-BL-2 characteristics.
-_. With respect to JFET, define dynamic resistance, transconductance and
-al SO-1; amplification factor. Derive the relationship between them. [05]
-CO-4;S0-1; | 4. | Derive Barkhausen criterion for oscillators. [0s]
-BL-1
-we a. Explain the internal construction and working of Schottky diode. [10]
-CO-1; SO-1;
-BL-2 .
-Qr- b. | ABJT voltage divider bias circuit has the following parameters: Vcc =
-P ,
-CO-3; $O-1; 22 V, Ri = 39 KQ, Ro = 3.9 KQ, Rc = 10 KQ, Re = 1.5 KQ, B = 140 [10]
-BL-3 Find In, Ic, Vcr, Ve, Ve, Vac and Ve.
-
-spe
---- page 2 ---
-a. | A JFET fixed bias circuit has the following parameters: Vpp = 16 V, Rp
-
-Q3 = 2 KQ, Ra = 1 MQ, Vp =-8 V, Vac =2V, Ipss= 10 mA, [10]
-CO-3; SO-1; Find Ip, Vas, Vp, Va, Vs, and Vps.
-BL-3
-Q3 b. | With a circuit diagram, explain in detail the working of a Hartley
-CO-4; SO-1; oscillator. Also write the equation of the frequency of oscillation. [10]
-BL-2 f
-Q4 a. | Draw the circuit diagram and waveforms of an astable multivibrator.
-g
-CO-2; SO-1; Explain its working in brief. Why is it called astable? [10]
-BL-2 ,
-Q4 BP ae Hae nn eet oe pais
-With a circuit diagram, explain in detail the working of Wien bridge
-CO-4; SO-1; oscillator. Also write the equation of the frequency of oscillation. [10]
-BL-2
-“| Q5 a. | Explain with relevant diagrams the construction and working of a
-CO-1; SO-1; photodiode. State one application of this diode. : [10]
-BL-2
-Q5~ b. : : : . .
-With relevant diagrams, explain the construction and working of n-
-CO-2; SO-1; channel JFET in detail. [10]
-BL2-
-Q6 a. .
-CO-3; SO-1; Explain with circuit diagram the working of JFET as an amplifier. [10]
-BL-2
-Q6 b.
-
-Sketch the emitter bias circuit of BJT and derive the equations of Ip, Ic,
-
--3; SO-1; [10]
-an cal Vcr, Vc, and Ve,
-
-Q7 a.
-CO-2; SO-1: Write detailed note on JFET transfer characteristics. : [10]
-
-BL-2
-
-Q7 b.
-CO-4;SO-1; |. Write detailed note on feedback amplifiers. [10]
-BL-2
-
-2/2
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper 949e4e4b3216
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/BASIC ELECTRONICS/Basic Electronics Batch 2022-23 Re Exam0002.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/06/2029
-- Text: ocr (2 pages), mean OCR confidence 85.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year:2022-2023
-
-ee
-
-aes
-Program: B.Tech (Integrated) Stream: Computer/ Data Science Year: II Semest r: Il
-Subject: Basic Electronics Time: 03hrs @itooamto 2:09pm)
-Date: 15/06/2029 No. of Pages: 02 :)
-
-SY
-Marks: 100 we J
-
-~
-
-Special Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-rao 3) Inall___5__ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-
-CO-1:S0O-1: a. | Compare light emitting diode with p-n junction diode giving 5 points of [05]
-
-BL-3 difference.
-CO-2 ;SO-1; |b. | Draw the circuit diagram and derive the equations of fixed bias circuit of a [05]
-BL-4 BST.
-c. | State whether the following statement is true or false and justify your
-CO-2 ; SO-1; answer: [05]
-BL-4 “JFET is a voltage controlled device”.
-_
-
-| sSO-1; [de | state and explain Barkhausen’s criterion for oscillators. [05]
-Q2 a. . . oo :
-
-Explain the internal construction, working and applications of light [10]
-CO-1; SO-1; emitting diode. :
-BL-2
-Q2 b. | A BJT emitter bias circuit has the following parameters: Vcc = 10V, Rp =
-C0-3: $O-1: 215 KQ, Re = 1 KQ, Re= 500 Q, B = 25. [10]
-BL-3 Find Ip, Ic, Vcr, Ve, Ve,Vacand Ve.
-Q3 a. | A JFET fixed bias circuit has the following parameters: Vpp = 16 V, Rp =
-CO-3: $O-1: 2 KQ, Re = 1 MQ, Vp = -8 V, Vac = 2V, Ipss= 10 mA, Find Ip, Vas, Vp, | [10]
-BL-3 Va, Vs, and Vps.
-
-Page 1 of 2
---- page 2 ---
-Q3 b. | With a circuit diagram, explain in detail the working of a Crystak
-
-CO-4; SO-1; oscillator. [10]
-BL-2
-Q4 a. | What is a multivibrator? List the types of multivibrators. Explain the
-CO-2; SO-1; working of any one type in brief. [10]
-BL-2
-Q4 b. : rare se ' ; .
-
-With a circuit diagram, explain in detail the working of Hartley oscillator.
-CO-4; SO-1; Also write the equation of the frequency of oscillation. [10]
-BL-2
-Q5 a. | Explain with relevant diagrams the construction and working of a photo
-CO-1; SO-1; diode. State one application of this diode. [10]
-BL-2
-Q5 b. ; . : : ;
-
-Explain the construction of n-channel JFET with a diagram. Draw its
-CO-2; SO-1; symbol. Explain the working under two conditions: when VGS = OV, and [10]
-BL2- when VGS = pinch off voltage. (no need to draw characteristics)
-Q6 a.
-CO-3; SO-1; Explain with circuit diagram the working of JFET as an amplifier. [10]
-BL-2
-Q6 b.
-
-Sketch the voltage divider bias circuit of BJT and derive the equations of
-
-_ 7 ; [10]
-aed SO-1; In, Ic, Ver, Vc, and Ve using exact or approximate analysis,
-
-all 3. | Write detailed note on JFET parameters (include definition, equation,
-
--2: SO-1: [10]
-ae Bust explanation of all parameters).
-
-Q7. b.
-CO-4; SO-1; Write detailed note on feedback amplifiers. [10]
-BL-2
-
-Page 2 of 2
-````
-
-## 2021-22 · Re-Exam · Sem 3 · paper d6f135d1a23e
+## 2022-23 · Re-Exam · Sem 3 · paper d6f135d1a23e
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -758,7 +705,7 @@ b. Explain with neat diagram construction and working of a LED.
 2 of 2
 ````
 
-## 2021-22 · Re-Exam · Sem 3 · paper 25fc142df15c
+## 2022-23 · Re-Exam · Sem 3 · paper 25fc142df15c
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -856,6 +803,351 @@ Explain with neat diagram characteristics and working of a photo diode.
 10
 
 2 of 2
+````
+
+## 2022-23 · Re-Exam · Sem 3 · paper c6181154f972
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/BASIC ELECTRONICS/Basic Electronics Batch 2022-23 Re Exam0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 31 January 2023
+- Text: ocr (2 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: B. Tech Integrated (Data Science/ Computer) Year: II Semester : II
+
+AcademicY ear: 2022-2023
+
+/ Subject: Basic Electronics
+Marks: 1007
+
+Date : 31 January 2023 Time: 2.00 pm - 5.00 pm
+Durations: 3 (Hrs)
+No. of Pages: 2
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+~~ 2) Out of remaining questions, attempt any __4 _ questions.
+3) Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi ,
+Answer briefly: [20]
+a. | State whether the given statements are true or false and justify your
+answer.
+CO-1 ; SO-1; (i) A varactor diode can be used only in the reverse bias. [05]
+BL-3 (ii) Oscillator can produce sustained oscillations only if positive feedback
+is provided.
+b. | Draw the output characteristics of BJT and clearly identify the regions.
+“1 C0-2;S0-1; Explain what a load line is and how it can be drawn on the output [05]
+BL-2 characteristics.
+_. With respect to JFET, define dynamic resistance, transconductance and
+al SO-1; amplification factor. Derive the relationship between them. [05]
+CO-4;S0-1; | 4. | Derive Barkhausen criterion for oscillators. [0s]
+BL-1
+we a. Explain the internal construction and working of Schottky diode. [10]
+CO-1; SO-1;
+BL-2 .
+Qr- b. | ABJT voltage divider bias circuit has the following parameters: Vcc =
+P ,
+BL-3 Find In, Ic, Vcr, Ve, Ve, Vac and Ve.
+
+spe
+--- page 2 ---
+a. | A JFET fixed bias circuit has the following parameters: Vpp = 16 V, Rp
+
+Q3 = 2 KQ, Ra = 1 MQ, Vp =-8 V, Vac =2V, Ipss= 10 mA, [10]
+CO-3; SO-1; Find Ip, Vas, Vp, Va, Vs, and Vps.
+BL-3
+Q3 b. | With a circuit diagram, explain in detail the working of a Hartley
+CO-4; SO-1; oscillator. Also write the equation of the frequency of oscillation. [10]
+BL-2 f
+Q4 a. | Draw the circuit diagram and waveforms of an astable multivibrator.
+g
+CO-2; SO-1; Explain its working in brief. Why is it called astable? [10]
+BL-2 ,
+Q4 BP ae Hae nn eet oe pais
+With a circuit diagram, explain in detail the working of Wien bridge
+CO-4; SO-1; oscillator. Also write the equation of the frequency of oscillation. [10]
+BL-2
+“| Q5 a. | Explain with relevant diagrams the construction and working of a
+CO-1; SO-1; photodiode. State one application of this diode. : [10]
+BL-2
+Q5~ b. : : : . .
+With relevant diagrams, explain the construction and working of n-
+CO-2; SO-1; channel JFET in detail. [10]
+BL2-
+Q6 a. .
+CO-3; SO-1; Explain with circuit diagram the working of JFET as an amplifier. [10]
+BL-2
+Q6 b.
+
+Sketch the emitter bias circuit of BJT and derive the equations of Ip, Ic,
+
+-3; SO-1; [10]
+an cal Vcr, Vc, and Ve,
+
+Q7 a.
+CO-2; SO-1: Write detailed note on JFET transfer characteristics. : [10]
+
+BL-2
+
+Q7 b.
+CO-4;SO-1; |. Write detailed note on feedback amplifiers. [10]
+BL-2
+
+2/2
+````
+
+## 2022-23 · Re-Exam · Sem 3 · paper 949e4e4b3216
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/BASIC ELECTRONICS/Basic Electronics Batch 2022-23 Re Exam0002.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/06/2029
+- Text: ocr (2 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year:2022-2023
+
+ee
+
+aes
+Program: B.Tech (Integrated) Stream: Computer/ Data Science Year: II Semest r: Il
+Subject: Basic Electronics Time: 03hrs @itooamto 2:09pm)
+Date: 15/06/2029 No. of Pages: 02 :)
+
+SY
+Marks: 100 we J
+
+~
+
+Special Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+rao 3) Inall___5__ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+
+CO-1:S0O-1: a. | Compare light emitting diode with p-n junction diode giving 5 points of [05]
+
+BL-3 difference.
+CO-2 ;SO-1; |b. | Draw the circuit diagram and derive the equations of fixed bias circuit of a [05]
+BL-4 BST.
+c. | State whether the following statement is true or false and justify your
+CO-2 ; SO-1; answer: [05]
+BL-4 “JFET is a voltage controlled device”.
+_
+
+| sSO-1; [de | state and explain Barkhausen’s criterion for oscillators. [05]
+Q2 a. . . oo :
+
+Explain the internal construction, working and applications of light [10]
+CO-1; SO-1; emitting diode. :
+BL-2
+Q2 b. | A BJT emitter bias circuit has the following parameters: Vcc = 10V, Rp =
+C0-3: $O-1: 215 KQ, Re = 1 KQ, Re= 500 Q, B = 25. [10]
+BL-3 Find Ip, Ic, Vcr, Ve, Ve,Vacand Ve.
+Q3 a. | A JFET fixed bias circuit has the following parameters: Vpp = 16 V, Rp =
+BL-3 Va, Vs, and Vps.
+
+Page 1 of 2
+--- page 2 ---
+Q3 b. | With a circuit diagram, explain in detail the working of a Crystak
+
+CO-4; SO-1; oscillator. [10]
+BL-2
+Q4 a. | What is a multivibrator? List the types of multivibrators. Explain the
+CO-2; SO-1; working of any one type in brief. [10]
+BL-2
+Q4 b. : rare se ' ; .
+
+With a circuit diagram, explain in detail the working of Hartley oscillator.
+CO-4; SO-1; Also write the equation of the frequency of oscillation. [10]
+BL-2
+Q5 a. | Explain with relevant diagrams the construction and working of a photo
+CO-1; SO-1; diode. State one application of this diode. [10]
+BL-2
+Q5 b. ; . : : ;
+
+Explain the construction of n-channel JFET with a diagram. Draw its
+CO-2; SO-1; symbol. Explain the working under two conditions: when VGS = OV, and [10]
+BL2- when VGS = pinch off voltage. (no need to draw characteristics)
+Q6 a.
+CO-3; SO-1; Explain with circuit diagram the working of JFET as an amplifier. [10]
+BL-2
+Q6 b.
+
+Sketch the voltage divider bias circuit of BJT and derive the equations of
+
+_ 7 ; [10]
+aed SO-1; In, Ic, Ver, Vc, and Ve using exact or approximate analysis,
+
+all 3. | Write detailed note on JFET parameters (include definition, equation,
+
+-2: SO-1: [10]
+ae Bust explanation of all parameters).
+
+Q7. b.
+CO-4; SO-1; Write detailed note on feedback amplifiers. [10]
+BL-2
+
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 4 · paper 728cbc6c63fe
+
+- Departments: Computer Engineering, Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/BASIC ELECTRONICS/Basic Electronics Batch 2015-16 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 June 2019
+- Text: ocr (2 pages), mean OCR confidence 88.5
+
+````text
+ee
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+j Program :B.Tech Integrated (COMPUTER/EXTC) , Year: Il Semester: IV
+| Academic Year: 2018-2019
+Subject: Basic Electronics Marks: 60 .
+Date : 15 June 2019 Time: 10.00 am to,1.00 pa
+
+Duration: 3 (hrs)
+Nowof Pages:_2. yy,
+Re-examination(2015-16) -~ 7 ,
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .suitable data if necessary.
+
+Ql Attempt any four _. (2)
+
+a. Explain the construction and working of photo diode.
+b. Explain thermal runaway in a BJT. ,
+
+c. Define the terms Drain Source Saturation Current (Idss), Pinch off voltage
+(Vp) and Gate source cutoff voltage (Vgsoff)
+
+d. Inacommon base connected BJT circuit, the current amplification
+factor, a = 0.9. If the emitter current is 1 mA. Determine the value of the
+B, Is and Ic.
+
+e. What is an oscillator? State and explain Barkhausen criteria for
+oscillations.
+
+Q2. a. Draw the diagram of a zener regulator and explain its working for load (06)
+and line regulation.
+
+b. Determine the output waveform of the given circuit. (06)
+° Mar ©
++ OR i +
+Vj - Vy
+_ Y=
+O=z- 3 6
+
+YX
+--- page 2 ---
+Q3.
+
+Q4.
+
+Q5
+
+Q6.
+
+Q7
+
+a.
+
+b.
+
+a)
+b)
+
+Draw neat circuit diagram and explain the output characteristics of a npn
+BJT. Also explain the different regions on the output characteristics.
+
+For the given circuit find Vcgg and Ic:.9.
+
+SVee= 10V
+
+Draw the construction and explain the working of a n channel field
+
+effect transistor.
+
+With neat circuit diagram explain the working of a transistor as an
+
+amplifier.
+
+Explain voltage divider biasing in detail for BJT.
+Compare Common base, Common Emitter and Common Collector
+configuration of BJT.
+
+Explain in detail with diagram and waveform, the working of full wave
+Bridge rectifier.
+Explain different types of Breakdown in diode.
+
+Write Short Hotes on
+Colpitt’s Oscillator
+Light Emitting Diode
+
+2/Z
+
+(06)
+
+(06)
+
+(06)
+
+(06)
+
+(06)
+
+(06)
+
+(06)
+
+(06)
+
+(06)
+(06)
 ````
 
 ## 2018-19 · Re-Exam · Sem 4 · paper b49b869e67fd
@@ -996,6 +1288,139 @@ c) Colpitts Oscillator
 (14)
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper 8216e085d4fa
+
+- Departments: Computer Engineering, Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/BASIC ELECTRONICS/Basic Electronics Batch 2016-2017,2017-18 Re Exam.pdf` (+3 identical copies)
+- Printed on paper: exam date: 18 April 2019
+- Text: ocr (2 pages), mean OCR confidence 84.5
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ‘\
+Program :B.Tech Integrated (COMPUTER/EXTC) ~ Year: If Semester: IV~
+
+Academic Year: 2018-2019
+Subject: Basic Electronics
+
+Date: 18 April 2019 .~ Time: 02.00.pm,to.5.00 p
+Duration:) Bi ¢ars) °*
+Final Examination (2018-19)/Re-examination(2016-17/2017-48)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any __4__ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Attempt any four (3.5 each) : (14)
+
+a. What is an oscillator? State and explain Barkhausen criteria for oscillations.
+b. Explain zener and avalanche mechanism
+
+c. Derive the relation between a and B.
+
+d. Explain transconductance, amplification factor and pinch-off voltage
+
+e. Compare CB, CE and CC configuration.
+
+Q2. a. Illustrate the working and show the output waveform for the clamper circuit given _ (07)
+
+below. Clr
+yy e—
+f —_
+Ry = look
+| Uj
+&
+py
+me =
+b. Draw a neat circuit diagram and explain the working of a Bridge rectifier. (07)
+--- page 2 ---
+a
+
+Q3.
+
+Q4.
+
+Q5.
+
+Q6.
+
+Q7
+
+Explain the working ofa npn transistor in active mode.
+
+For the given silicon BJT in common base configuration determine Z;-and Vca.
+
+Ie
+
+Ae
+
+cma
+S Ryo L540 ™ Eee L2ka
+
+4 bl
+
+fp
+
+= Fegs IBV
+
+= = =
+
+Draw and explain the drain and transfer:characteristics of a n channel JFET.
+
+With neat diagram explain DC load line. How do you determine the operating point
+on a de load line.
+
+Explain the workirig of zener regulator for line and load te gulation.
+
+An ac supply voltage of 230 V is applied to a half wave rectifier circuit through a
+transformer of 10:1 tum ratio and load resistance RL = 1KQ. Find (i) rms current
+flowing through the cireuit (ii) de output voltage Gi) PIV of the diode (iii)
+efficiency (iv) ripple factor
+
+Draw the.circuit diagram and illustrate the working of a BJT arirp fide
+
+What is the purpose of biasing a JPET? Drawa neat diagram and explain voltage
+divider bias circuit for FET.
+
+Differentiate between an oscillator and an amplifier.
+
+What.is the function of an oscillator? Draw the cireuit diagram and explain RC
+phase shift oscillator.
+
+(07)
+(07)
+
+(07)
+(07)
+
+(07)
+
+(07)
+
+(07)
+
+(07)
+
+(07)
+(07)
+
+%
+````
+
 ## 2017-18 · Exam not stated · Sem 2 · paper 3da5e8cc06f4
 
 - Departments: Common (all branches)
@@ -1003,6 +1428,7 @@ c) Colpitts Oscillator
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic Electronics 2017-18.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 08 May 2018
 - Text: ocr (2 pages), mean OCR confidence 78.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS ;
@@ -1056,7 +1482,6 @@ Pz max) = 400 mW, R:
 
 Determine AAA, - ;
 
-i) tn, le, and It if RL=380Q, ad r be:
 
 it) determine the value of Ry, that will | + = Ti
 establish Pz max) in the diode
@@ -1124,6 +1549,106 @@ Q7 Write short note on
 a Early effect in BJT
 b Schottky diode
 c Photo diode
+````
+
+## 2017-18 · Exam not stated · Sem 2 · paper b5a8b1bce2a4
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic_electronics_2015-16_2016-17.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 June 2018
+- Text: ocr (2 pages), mean OCR confidence 85.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & JN
+
+Programme: MBA Tech (All Streams) Year: I Semesf
+
+Batch: 2015-16/ 2016-17
+oO Academic Year: 2017-2018 HS
+Subject: Basic Electronics
+i Marks: 70 -~
+
+Date: 30 June 2018- Time: 10.00 am to 1.00 pm_
+a Durations: 3 (Hrs) “
+No. of Pages: © 2-
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. ,
+
+Q.1 Attempt all
+
+(a) Explain the breakdown mechanism of zener diode. B]
+(b) Compare EMOSFET and DMOSFET. : Bl
+(c) What is Early effect? (2]
+(d) Discuss the factors affecting the stability of Q-point. [3]
+(e) What is effect of temperature on diode characteristic? [3]
+Q.2 ~
+
+(a) Determine the range of V; to keep zener diode in ON state. [7]
+
+ty
+
+Zk tt.
+
+(b) Describe Wien’s bridge oscillator. [7]
+--- page 2 ---
+Q.3
+
+(a) For the circuit shown below, determine Ic, Vce, Vo, Ve - [7]
+
+V. = 22V
+
+39gELSRy ReS lok
+Cc
+
+C B= 40, Vac 0-4V)
+Ee
+SORT RD ReS Ska
+
+(b) Differentiate between power amplifier and voltage amplifier. How to classify different power
+amplifiers? [7]
+
+Q.4
+
+(a) Explain with suitable diagram the construction working and drain characteristic
+of N-channel JFET. (7]
+(b) Compare FET and BJT. , [7]
+
+Q.5
+
+(a) Derive the expression for efficiency of a class-B power amplifier. [7]
+(b) Discuss low frequency response of BJT CE amplifier. [7]
+
+Q.6
+(a) Distinguish between Hartley and Colpitts oscillator. [7]
+
+(b) With the help of waveform, explain the operation of different types of parallel clippers assuming the
+input voltage to be sine wave. K [7]
+
+Q.7 Attempt All
+
+(a) Clamper [4]
+(b) Crystal oscillator . [4]
+(c) C-filter [4]
+(d) Thermal runway (2]
 ````
 
 ## 2017-18 · Final-Exam · Sem 2 · paper fed66f01999b
@@ -1452,6 +1977,278 @@ B) Selection of Q Point for faithful amplification. [7]
 2/2
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper 975056c6fafc
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/BASIC ELECTRONICS/Basic Electronics Batch 2015-2016 Re Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 11 May 2018
+- Text: ocr (2 pages), mean OCR confidence 90.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (COMPUTER / EXTC) Year: II «
+Academic Year: 2017-2018
+
+Subject: Basic Electronics”
+y Marks: 60
+Date: 11 May 2018 « Time: 10.00
+. Durations: 3 (h
+No. of Pages:
+Re-examination (2015-16) ~
+
+istructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh, page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. —
+
+Q1) (i) Explain the concept of Barkhausen criterion for sustained oscillations (4)
+(ii) Differentiate between Full wave center tapped rectifier and Full wave bridge rectifier (4)
+(iii) Explain frequency response of BJT Amplifier : (4)
+Q 2) (i) Explain the working of Full wave bridge rectifier in detail. (6)
+
+(ii) For JFET if loss = 20MA, Ves = -5 V, mo = 4mS and rg = 200k. Find transconductance (9)
+(gm) for Vp = -4 V and Ip at this point and also find amplification factor (1).
+
+Q 3) (i) Find Is, lc and Vce for the circuit shown below (6)
+Neca lSV
+Noe 2 lSV
+Roc
+410k A ie = \oo
+(ii) Explain Voltage Divider biasing of Bipolar Junction Transistor (6)
+
+Uy
+--- page 2 ---
+Q4) (i) Explain the working of Bipolar Junction Transistor in CC configuration. (6)
+
+(ii) Explain fixed bias of N-channel J-FET in detail. (6)
+Q5) (i) Explain the working of PN Junction diode in forward and reverse biased condition. (6)
+(ii) Explain Wein Bridge oscillator in detail. (6)
+Q 6) (i). What is biasing? Explain the need of biasing in a BJT amplifier. (6)
+(ii) What are clippers? Explain the working of Positive biased clipper in detail. (6)
+Q7) Write short notes(Any Two) (12)
+
+a) Light Emitting Diode
+b) Colpitts oscillator
+c) Clampers
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper 79df9df25b37
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/BASIC ELECTRONICS/Basic Electronics Batch 2015-16 Re Exam_79df9df25b.pdf`
+- Printed on paper: max marks: 60; exam date: 11 May 2018
+- Text: ocr (2 pages), mean OCR confidence 88.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (COMPUTER / EXTC) “~ Year: II« Semester:IV “©
+Academic Year: 2017-2018
+
+Subject: Basic Electronics” E
+
+, Marks: 60 / #
+J Date: 11 May 2018 « Time: 10.00 aint
+. , Durations: 3 {ties}
+No. of Pages: ~ <2
+Re-examination (2015-16) ~ &
+
+istructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. I is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh, page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1) (i) Explain the concept of Barkhausen criterion for sustained oscillations (4)
+(ii) Differentiate between Full wave center tapped rectifier and Full wave bridge rectifier (4)
+
+(iii) Explain frequency response of BJT Amplifier e (4)
+
+Q 2) (i) Explain the working of Full wave bridge rectifier in detail. (6)
+_ (ii) For JFET if loss = 20mA, Ves = -5 V, Bmo = 4mS and ra = 200kQ. Find transconductance (6)
+
+(gm) for Vp = -4 V and Ip at this point and also find amplification factor (1).
+
+Q 3) (i) Find Ip, Ic and Vce for the aeaityowe below (6)
+NI a \g Vv
+Re = R.2 2.27 -=\00
+410k A ai
+(ii) Explain Voltage Divider biasing of Bipolar Junction Transistor (6)
+
+ih,
+--- page 2 ---
+Q4) (i) Explain the working of Bipolar Junction Transistor in CC configuration. (6)
+
+(ii) Explain fixed bias of N-channel J-FET in detail. (6)
+Q5) (i) Explain the working of PN Junction diode in forward and reverse biased condition. (6)
+(ii) Explain Wein Bridge oscillator in detail. (6)
+Q 6) (i) . What is biasing? Explain the need of biasing in a BJT amplifier. (6)
+(ii) What are clippers? Explain the working of Positive biased clipper in detail. (6)
+Q7) Write short notes(Any Two) ; (12)
+
+a) Light Emitting Diode
+b) Colpitts oscillator
+c) Clampers
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper 38d2194569df
+
+- Departments: Computer Engineering, Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/BASIC ELECTRONICS/Basic Electronics Batch 2016-17 Re Exam.pdf` (+3 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 11 May 2018
+- Text: ocr (2 pages), mean OCR confidence 83.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (COMPUTER / EXTC) “ Year: II < Semester: IV *
+
+Academic Year: 2017-2018 -
+
+Subject: Basic Electronics ij es
+' Marks: 70
+Date: 11 May 2018 « Time: 10. a eM ‘to.1.00 pin &
+Durations: 3 (hrs). ~—
+No. of Pages: “Ss mf
+
+Final Examination (2017-18) / Re-examination (2016- 17S
+
+<
+
+ag J 4
+
+a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.___I__ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+I Attempt all questions
+A) Explain working of PN junction Diode in forward and reverse bias with its VI 5
+characteristics. _
+B) In common base configuration the current amplification factor is 0.9. If emitter current 3
+is ImA. Determine base current.
+C) The RC phase shift oscillator uses SpF capacitor. Find the value of R to produce 2
+frequency of oscillation of 800kHz
+
+D) Compare BJT and FET. 4
+2 A) Define stabilization and stability factor, &@lso derive the expression for Stability factor. 7
+B) — Explain Input and output characteristics of Common emitter Configuration of BJT. 7
+3. A) Compare Half wave rectifier, center tap and bridge rectifier. 4
+B) Explain voltage divider biasing of BJT in detail. 6
+C) Find Q point values (Ic and Vce) for collector feedback bias circuit shown below. 4
+
+Page 1 of 2
+--- page 2 ---
+A)
+B)
+
+A)
+B)
+
+A)
+B)
+
+A)
+B)
+C)
+
+Ving = +12V
+o
+
+‘
+
+SRoxAkQ
+
+Rg lg ylot le
+oe
+400 k22 |
+ly
+eh SE
+
+B= 100
+~ vie
+4
+Ry = 1k
+= Z
+
+Explain working of Capacitor filter with neat waveforms
+Define the following
+
+i) Shorted drain current (Idss)
+
+ii) Pinch off voltage (Vp)
+
+iii) Gate source cutoff voltage (Vgsoff)
+
+Explain working of Wein Bridge Oscillator with neat labeled diagram
+Describe the working of positive and negative clamper circuit
+
+Explain different types of Breakdown phenomenon in ‘diode
+A JFET in figure below has values of Vgs off = - 8V and Idss=16mA
+
+values of Ves, Id, Vds for the circuit
++10V
+
+a
+
+2.2kQ 3 Rp
+?
+
+"sy :
+Write Short Note on (any 2)
+Photodiode
+Colpitts oscillator
+
+Transistor as switch
+
+Page 2 of 2
+
+. Determine the
+
+14
+````
+
 ## 2017-18 · Re-Exam · Sem 4 · paper f6d51812927a
 
 - Departments: Computer Engineering, Electronics and Telecommunication
@@ -1587,137 +2384,140 @@ Light Emitting Diode
 Page 2 of 2
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper 8216e085d4fa
+## 2017-18 · Re-Exam · Sem 2 · paper 307236299fb5
 
-- Departments: Computer Engineering, Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/BASIC ELECTRONICS/Basic Electronics Batch 2016-2017,2017-18 Re Exam.pdf` (+3 identical copies)
-- Printed on paper: exam date: 18 April 2019
-- Text: ocr (2 pages), mean OCR confidence 84.5
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic electronics 2015-16,2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 08 May 2018
+- Text: ocr (3 pages), mean OCR confidence 85.1
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ‘\
-Program :B.Tech Integrated (COMPUTER/EXTC) ~ Year: If Semester: IV~
+Programme:MBA Tech (All Streams) Year: I Semester: II
 
-Academic Year: 2018-2019
-Subject: Basic Electronics
+Academic Year: 2017-2018
 
-Date: 18 April 2019 .~ Time: 02.00.pm,to.5.00 p
-Duration:) Bi ¢ars) °*
-Final Examination (2018-19)/Re-examination(2016-17/2017-48)
+Subject:Basic Electronics
+: Marks:70
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Date:08 May 2018 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+: No. of Pages : 63
+Re-examination (2015-16 / 2016-17)
 
-1) Question No. _1__ is compulsory.
+Instructions:-Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
 
-2) Out of remaining questions, attempt any __4__ questions.
+NB: - -
 
-3) In all___5_ questions to be attempted.
+1. Question No. ONE is compulsory.
 
-4) All questions carry equal marks.
+2. Out of remaining attempt any FOUR questions.
 
-5) Answer to each new question to be started on a fresh page.
+3. Inall FIVE questions to be attempted.
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+4. All Questions carry equal marks.
 
-Ql Attempt any four (3.5 each) : (14)
+5. Answer to each new question to be started on a fresh page.
 
-a. What is an oscillator? State and explain Barkhausen criteria for oscillations.
-b. Explain zener and avalanche mechanism
+6. Figures in brackets on right hand side iridicate full marks.
 
-c. Derive the relation between a and B.
+7. Assume suitable data if necessary.
 
-d. Explain transconductance, amplification factor and pinch-off voltage
+Ql. Attempt any four questions
 
-e. Compare CB, CE and CC configuration.
+A. Explain Early Effect. What is the effect of Early Effect on the input characteristics of CB
 
-Q2. a. Illustrate the working and show the output waveform for the clamper circuit given _ (07)
+configuration. (3.5)
+B. Differentiate between voltage amplifier and Power Amplifier. (3.5)
+C. Derive the relation between o and f. (3.5)
+D. Determine the current I in the circuit shown in figure. Assume the diodes to be of Silicon
 
-below. Clr
-yy e—
-f —_
-Ry = look
-| Uj
-&
-py
-me =
-b. Draw a neat circuit diagram and explain the working of a Bridge rectifier. (07)
+and forward resistances of the diodes to be zero. (3.5)
+
+. Dy
+
+7 2kQ |
+poh
+| R |
+
+~L _—
+
+= £,=24¥ Ds
+
+E. Compare MOSFET with JFET (3.5)
+
+5
 --- page 2 ---
-a
+Q2. A. Draw the circuit diagram & explain the operation of Full Wave Bridge Rectifier. Draw
+neat waveforms for input and output voltage. Derive ripple factor of full wave rectifier. (7)
 
-Q3.
+B. Determine Veg in the transistor circuit shown in figure. The transistor is of Silicon and
 
-Q4.
+has & = 0.993. (7)
+~ |
+Res WON |
+Rp __
+poo 1OV => ee
+| 19 kO +
+Sev | | .
+T |
+L '
+Q3. A. Draw the neat output waveform and explain the operation of following circuit. (7)
+i
+o =o]
+W
+= C +
+y - ny,
+= 10V
+sa + =
+° o
 
-Q5.
+B. With the help of a circuit explain the input and output V-I characteristics of a PNP (7)
+transistor in Common Base configuration and indicate different regions of importance.
 
-Q6.
+Q4. A. With neat circuit diagram, explain the principle of operation of a push pull amplifier
+circuit using transistor. Define Cross over Distortion. (@)
 
-Q7
+B. What do you mean by transistor DC Biasing. With the help of a circuit diagram explain
+the operation of Voltage Divider Bias circuit for BJT amplifier. State its advantages. (7)
 
-Explain the working ofa npn transistor in active mode.
+Q5. A. With a neat diagram explain the working of Enhancement MOSFET. (7)
 
-For the given silicon BJT in common base configuration determine Z;-and Vca.
+B. With a neat circuit diagram, explain the operation of RC phase shift oscillator using
+transistor. State its advantages and disadvantages. (7)
 
-Ie
+Q6. A. A JFET has values of Voscof f)= -8 V and Ipss= 16mA. Determine the values of V¢g,
+Ip and Vpg for the circuit. (7)
 
-Ae
+2/5
+--- page 3 ---
++10V
 
-cma
-S Ryo L540 ™ Eee L2ka
+J
 
-4 bl
+22k E Ry
+3
 
-fp
+A
+Gs] - ae vi ~/ I
 
-= Fegs IBV
+[ Rg 2 IMO
+{ L
 
-= = =
+-5V
 
-Draw and explain the drain and transfer:characteristics of a n channel JFET.
+B. Describe the ‘equivalent circuits of PN junction diode (Models) - (7)
 
-With neat diagram explain DC load line. How do you determine the operating point
-on a de load line.
+Q7. Write a short note (Any 2) (14)
+A. Photodiode-Construction, Working and Characteristics
+B. Comparison of Class A, Class B, Class AB and Class C Amplifiers
+C. Drain and transfer characteristics of n-channel JFET.
 
-Explain the workirig of zener regulator for line and load te gulation.
-
-An ac supply voltage of 230 V is applied to a half wave rectifier circuit through a
-transformer of 10:1 tum ratio and load resistance RL = 1KQ. Find (i) rms current
-flowing through the cireuit (ii) de output voltage Gi) PIV of the diode (iii)
-efficiency (iv) ripple factor
-
-Draw the.circuit diagram and illustrate the working of a BJT arirp fide
-
-What is the purpose of biasing a JPET? Drawa neat diagram and explain voltage
-divider bias circuit for FET.
-
-Differentiate between an oscillator and an amplifier.
-
-What.is the function of an oscillator? Draw the cireuit diagram and explain RC
-phase shift oscillator.
-
-(07)
-(07)
-
-(07)
-(07)
-
-(07)
-
-(07)
-
-(07)
-
-(07)
-
-(07)
-(07)
-
-%
+3/5
 ````
 
 ## 2017-18 · Re-Exam · Sem 2 · paper 482babf3c7e5
@@ -1827,106 +2627,6 @@ Class AB amplifier.
 7
 
 14
-````
-
-## 2016-17 · Exam not stated · Sem 2 · paper b5a8b1bce2a4
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic_electronics_2015-16_2016-17.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 June 2018
-- Text: ocr (2 pages), mean OCR confidence 85.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & JN
-
-Programme: MBA Tech (All Streams) Year: I Semesf
-
-Batch: 2015-16/ 2016-17
-oO Academic Year: 2017-2018 HS
-Subject: Basic Electronics
-i Marks: 70 -~
-
-Date: 30 June 2018- Time: 10.00 am to 1.00 pm_
-a Durations: 3 (Hrs) “
-No. of Pages: © 2-
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. ,
-
-Q.1 Attempt all
-
-(a) Explain the breakdown mechanism of zener diode. B]
-(b) Compare EMOSFET and DMOSFET. : Bl
-(c) What is Early effect? (2]
-(d) Discuss the factors affecting the stability of Q-point. [3]
-(e) What is effect of temperature on diode characteristic? [3]
-Q.2 ~
-
-(a) Determine the range of V; to keep zener diode in ON state. [7]
-
-ty
-
-Zk tt.
-
-(b) Describe Wien’s bridge oscillator. [7]
---- page 2 ---
-Q.3
-
-(a) For the circuit shown below, determine Ic, Vce, Vo, Ve - [7]
-
-V. = 22V
-
-39gELSRy ReS lok
-Cc
-
-C B= 40, Vac 0-4V)
-Ee
-SORT RD ReS Ska
-
-(b) Differentiate between power amplifier and voltage amplifier. How to classify different power
-amplifiers? [7]
-
-Q.4
-
-(a) Explain with suitable diagram the construction working and drain characteristic
-of N-channel JFET. (7]
-(b) Compare FET and BJT. , [7]
-
-Q.5
-
-(a) Derive the expression for efficiency of a class-B power amplifier. [7]
-(b) Discuss low frequency response of BJT CE amplifier. [7]
-
-Q.6
-(a) Distinguish between Hartley and Colpitts oscillator. [7]
-
-(b) With the help of waveform, explain the operation of different types of parallel clippers assuming the
-input voltage to be sine wave. K [7]
-
-Q.7 Attempt All
-
-(a) Clamper [4]
-(b) Crystal oscillator . [4]
-(c) C-filter [4]
-(d) Thermal runway (2]
 ````
 
 ## 2016-17 · Final-Exam · Sem 4 · paper e98483af21ed
@@ -2141,6 +2841,210 @@ a
 a~ AN
 ````
 
+## 2016-17 · Re-Exam · Sem 2 · paper 9369c99a2d75
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), 15-16 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 10 May 2017
+- Text: ocr (2 pages), mean OCR confidence 85.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE:
+
+Programme: B. Tech (All Streams) : Year: I Semester: Il 4 (7,
+(Bo LIBRARY
+
+Academic Year: 2016-2017 %
+cademic Year \ oO s
+
+A
+Subject: Basic Electronics OTe
+Marks: 70 “
+Date: 10 May 2017 : Time: 10.00 am to 1.00 pm ;
+Durations: 3 (hrs)
+
+a No. of Pages: _2
+
+\
+, Final-Examination (Batch 2016-17) /
+Re-examination (Batch 2015-16)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. , ;
+1) Question No. 01 is compulsory.
+2) Out of remaining questions, attempt any 04 questions.
+3) In all 05 questions to be attempted.
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary.
+~»
+Ql)
+
+a) Sketch the output waveform for the circuit shown in fig. 1. It is given that discharging time 06
+constant is much greater than the time period of input wave. Also evaluate the voltage
+across capacitor.
+
+Vin
+© ; ;
+sv ic IC % £]
+0 : | Ri
+Vin Vout
+q 2v
+-5V/b-------
+G =]
+Fig 1.
+Also sketch the output waveform if 2V supply is inverted.
+
+b) Attempt any TWO 08
+
+i) Write a short note on Thermal runaway in BJT.
+
+ii) Define various parameters of FET.
+
+iii) Compare voltage and power amplifier.
+
+iv) Explain working of a Tank circuit used in oscillator, with a neat circuit diagrams.
+
+ss Q2) a) Explain with help of neat circuit diagram & waveforms, working of a full wave bridge 08
+rectifier and also derive its efficiency.
+
+b) Write a short note on zener diode as voltage regulator. 06
+
+Q3) a) A pn-junction diode having internal resistance rp = 20Q is used for half wave rectification if 06
+the applied voltage v = 50 Sin at and load resistance Ry = 800 Q find:-
+1) Max load current, mean load current & RMS value of load current.
+2) AC power input and DC power output.
+3) De output voltage.
+4) Efficiency of rectification. = Pa ye Voof 2
+--- page 2 ---
+b) Consider a collector base biasing circuit, derive equation for its base current, collector 08
+current, collector to emitter voltage, saturation current and load line equations.
+
+Q4) a) For the fixed bias configuration of fig. 2 determine: Iga, Icq, Vera, Vc, Vp & Ve. 06
+i 16V
+
+>} Icq
+
+S180
+510kO.
+
+Vc
++
+VB
+= 120
+Inq ib ) Vceqg 8B
+VE
+Fig. 2
+b) Explain with neat diagrams construction, working & characteristics of an n-channel JFET. 08
+Q5) a) Derive the relationship between amplification factor’s a, B & ¥. 06
+b) Determine Vesa, Ing, Vos, Vp, Ve & Vs for the network shown in Fig. 3 . 08
+16V -
+2kQ
+D
+7 TDss = \0 mA
+ge xee SVE Pe aco PN
+Ves _| ( ml Aropew )
+1MQ - :
+J P = Cy Vv
+2V =
+. |
+=
+Fig. 3
+Q6) a) Explain with neat circuit diagram transformer coupled push pull Class B power amplifier. 07
+b) Explain with neat circuit diagram working of hartley oscillator. 07
+Q7) Explain with neat diagrams any TWO of the following: 14
+
+a) Schottky Barrier Diode.
+b) Crystal Oscillator.
+c) Depletion type MOSFET.
+
+Page 2 of 2
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper 52b14f8663d9
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 May 2017
+- Text: ocr (1 page), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Semester: II iA ee Ree,
+: eS
+
+Batch: 2014 - 2015
+Academic Year: 2016-2017
+
+Subject: Basic Electronics
+
+Date: 10 May 2017 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: __!
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Attempt any four: 12
+a. Why PIV of center tapped full wave rectifier equal to 2Vm?
+
+b. Explain the working of PN junction diode. .
+
+é. What is Quiescent point? Explain the concept of de load line.
+
+d. Derive the relation between a and f.
+
+e. Explain class B amplifier. =
+
+Q.2a Draw a neat diagram and explain the construction and working of LED. State 06
+advantages, disadvantages and applications of LED.
+Q.2b With a neat diagram and waveform explain the working of LC filter and z filters. 06
+
+Q.3a Explain Load and line regulation. 06
+Q.3b Compare Half Wave Rectifier and Full Wave Rectifier circuits. 06
+Q.4a Compare CB, CE and CC configuration. 06
+Q.4b Explain transistor as a switch. 06
+
+Q.5a With a neat diagram draw and explain drain and transfer characteristics of JFET the 06
+construction and working of JFET.
+
+Q.5b Compare JFET and MOSFET. 06
+Q.6a Explain RC phase shift oscillator. 06
+Q.6b Compare Colpitt’s and Hartley oscillator. 06
+Q.7   Writeshort note: (Attempt any three) 12
+a Avalanche and Zener breakdown mechanism.
+
+b Early effect.
+
+c Thermal runaway
+
+d Voltage divider bias
+
+4
+
+5
+Marks: 60 —
+—
+````
+
 ## 2016-17 · Re-Exam · Sem 2 · paper 2c85b24dea92
 
 - Departments: Common (all branches)
@@ -2256,136 +3160,117 @@ Q.7)Write notes on the following-(any two) (14)
 3)Schottky diode.
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper 38d2194569df
+## 2016-17 · Re-Exam · Sem 4 · paper e9c513bc37f7
 
-- Departments: Computer Engineering, Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/BASIC ELECTRONICS/Basic Electronics Batch 2016-17 Re Exam.pdf` (+3 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 11 May 2018
-- Text: ocr (2 pages), mean OCR confidence 83.7
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/BASIC ELECTRONICS/Basic Electronics Batch 2015-16 Re Exam_e9c513bc37.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
+- Text: ocr (2 pages), mean OCR confidence 87.5
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+ph OF Mle
 
-Programme: B.Tech Integrated (COMPUTER / EXTC) “ Year: II < Semester: IV *
+SVKM’S NMIMS Z ‘3 Vas
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING®, B }
+Academic Year: 2016 - 2017 iy ry 4
+» Program: B. Tech Integrated (COMPUTER/EXTC) Year:II = Semester:V -
+Batch: 2015-16 Marks: 60
 
-Academic Year: 2017-2018 -
+Subject: Basic Electronics
 
-Subject: Basic Electronics ij es
-' Marks: 70
-Date: 11 May 2018 « Time: 10. a eM ‘to.1.00 pin &
-Durations: 3 (hrs). ~—
-No. of Pages: “Ss mf
+Time: (10.00 am to 1.00 pm)
+Date : 11 May 2017
 
-Final Examination (2017-18) / Re-examination (2016- 17S
+Duration:3 hrs
+No. of Pages: 2_
 
-<
+RE - EXAMINATION
 
-ag J 4
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+NB:
 
-a
+1. Question No. 1 is compulsory.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+2. Out of remaining questions, attempt any four questions.
+3. Inall five questions to be attempted.
 
-1) Question No.___I__ is compulsory.
+4. All question carry equal marks,
 
-2) Out of remaining questions, attempt any 4 _ questions.
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicates full marks.
 
-3) Inall__5__ questions to be attempted.
+Illustrate your answers with neat labelled diagram wherever necessary,
 
-4) All questions carry equal marks.
+Q.1 | Attempt any four questions out of five questions. Each
 
-5) Answer to each new question to be started on a fresh page.
+question carries five Marks.
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+_ | A) | Explain PN Junction diode in detail .
+characteristics,
 
-I Attempt all questions
-A) Explain working of PN junction Diode in forward and reverse bias with its VI 5
-characteristics. _
-B) In common base configuration the current amplification factor is 0.9. If emitter current 3
-is ImA. Determine base current.
-C) The RC phase shift oscillator uses SpF capacitor. Find the value of R to produce 2
-frequency of oscillation of 800kHz
+| B) | With the help of construction, explain the working of Photo
+diode
 
-D) Compare BJT and FET. 4
-2 A) Define stabilization and stability factor, &@lso derive the expression for Stability factor. 7
-B) — Explain Input and output characteristics of Common emitter Configuration of BJT. 7
-3. A) Compare Half wave rectifier, center tap and bridge rectifier. 4
-B) Explain voltage divider biasing of BJT in detail. 6
-C) Find Q point values (Ic and Vce) for collector feedback bias circuit shown below. 4
+Explain forward biased
 
-Page 1 of 2
+| C) | What is BIT? How it can be used asa switch?
+D) | The common base current gain 0.967. If the Is=I0mA what is
+the value of base current.
+LK | E) | Compare BJT with JFET,
+|
+
+| Q.2 | A) | With neat circuit diagram and characteristics, explain | (06M)
+| frequency response of BJT amplifier.
+| B) | Describe positive and negative biased clippers in detail with | (06M)
+neat diagrams. |
+Q.3 | A) [ Explain the working of Full-Wave Bridge rectifier in detail.
+B) | For the common-emitter circ
+
+uit shown in figure below » draw
+the DC load line and mark the de operating point on it.
+Assume B = 100 and VBE = 0 Vee = 30V.
+
+(06M)
+
+Vy
 --- page 2 ---
-A)
-B)
+Vcc
 
-A)
-B)
+1.5Mohms 5kohms
 
-A)
-B)
+Q.4 | A) | What is the need of biasing? Explain Fixed Bias of transistor | (06M)
+in detail.
 
-A)
-B)
-C)
+B) | Describe the equivalent circuits of PN junction diode (Models) | (06M)
 
-Ving = +12V
-o
+Q.5 | A) | Determine the range of input for a zener regulator circuit to | (06M)
+maintain a output voltage of 30V across 2000 ohms output
+shown in figure below. Assuming zener current range is 0-
 
-‘
+25mA
+5 IL
+2000hm:
+py
+Ei NR 2000 ohms
+°o
+B) A JFET has the following parameters: Ipss=1.55mA, (06M)
 
-SRoxAkQ
+Vp= -2V,Vpp= 24V and Ip= 0.8mA. Find the values of Vos
+and gm.
 
-Rg lg ylot le
-oe
-400 k22 |
-ly
-eh SE
+Q.6 | A) | Describe CE configuration of BJT along with its input and | (06M)
+output characteristics.
 
-B= 100
-~ vie
-4
-Ry = 1k
-= Z
+B) _| Explain the construction & working of N-channel JFET. (06M)
 
-Explain working of Capacitor filter with neat waveforms
-Define the following
+Q.7 | A) | What is oscillator? Discuss the circuit operation of Colpitt’s | (06M)
+oscillator.
 
-i) Shorted drain current (Idss)
+B) | Explain Zener diode as a voltage regulator in detail. (06M)
 
-ii) Pinch off voltage (Vp)
-
-iii) Gate source cutoff voltage (Vgsoff)
-
-Explain working of Wein Bridge Oscillator with neat labeled diagram
-Describe the working of positive and negative clamper circuit
-
-Explain different types of Breakdown phenomenon in ‘diode
-A JFET in figure below has values of Vgs off = - 8V and Idss=16mA
-
-values of Ves, Id, Vds for the circuit
-+10V
-
-a
-
-2.2kQ 3 Rp
-?
-
-"sy :
-Write Short Note on (any 2)
-Photodiode
-Colpitts oscillator
-
-Transistor as switch
-
-Page 2 of 2
-
-. Determine the
-
-14
+7
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper 3eed17b364a9
@@ -2485,6 +3370,224 @@ Q.7)Write notes on the following-(any two) (14)
 2] iL
 ````
 
+## 2016-17 · Re-Exam · Sem 2 · paper 8ce3a214834c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2014-2015 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 10 July 2017
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) Year: I Semester: II
+Batch: 2014-2015
+“ Academic Year: 2016-2017 -
+at RE
+Subject: Basic Electronics markigt Non >,
+5a ee OY <
+Date: 10 July 2017 Time: $0.00 am to 01.0 am
+
+Durations: 3 (hrs) “J ry
+No. of Pages: . eZ A
+Re-Examination * or
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Attempt (Any Three)
+a Explain the input & output waveform in case of FWR with filter. 4
+b Derive an expression for efficiency of Half wave rectifier. 4
+c Draw & explain negative Clipper. 4
+d Explain the working of photodiode & draw VI characterstics for Si Diode. 4
+Q2 a Explain the working of Full Wave Bridge Rectifier & Draw its input & output waveform, 6
+b Explain the working of PNP Transistor in Common collector configuration& Draw its 6
+
+input & output characteristics.
+
+Page 1 of 2
+--- page 2 ---
+a
+=)
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+a
+
+b
+
+ii
+
+iii
+
+Explain the working of transistor as a switch.
+
+Determine the following for fixed bias configuration.
+
+Explain Self bias configuration of FET.
+
+Explain the working of enhancement type MOSFET in details.
+
+Explain the operation of Class A Power Amplifier:
+Compare class A,B & C Amplifier on any six points.
+
+Explain the working of Wien bridge Oscillator in details.
+
+Which reactive elements are used to to form tank circuit in Hartley oscillator?
+
+How to compute Leq in this oscillator? Explain its operation with the help of suitable
+circuit:
+
+Write short notes on (Any Two):
+
+Voltage Amplifier
+
+Zener diode as a regulator
+
+Pi Filter
+
+Page 2 of 2
+
+12
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper b5906f0fdf7f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2014-2015 RE EXAM_b5906f0fdf.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 May 2017
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+gates tid AN
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG!
+
+Programme: MBA. Tech (All Streams) Year: I Semester!
+
+Batch: 2014-2015
+Academic Year: 2016-2017
+
+Subject: Basic Electronics
+Marks: 60
+. Date: 09 May 2017 Time: 10.00 am to 1.00 pm
+; Durations: 3 (hrs)
+No. of Pages: 2
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+i Question no. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+a Ia all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets on the right hand side indicate full marks for a question.
+
+Ql a Explain the working & application of Zener Diode 4
+b Draw & explain negative Clamper 74
+¢ Derive an expression for efficiency of a Half Wave Rectifier 4
+
+Q2 a’ A full wave rectifier uses two diodes, the internal resistance resistance of each diode may 6
+
+be assumed constant at 20 ohm.The transformer r.m.s secondary voltage from centre tap to
+each end of secondary is 50 V and load resitance is 980 ohm Find
+(i)mean load current (ii) the rms value of load current’.
+
+b Explain the working of BJT as a CE Amplifier & draw its frequency response. 6
+Q3 a Explain the following parameters with reference to the performance of a transistor 6
+amplifier
+
+(i) I nput resistance
+
+(ii) Output resistance
+(iii) Current gain
+
+(iv) Effective load current
+
+b A transistor is connected in common emitter configuration in which collector supply 6
+voltage is 8 volt and the voltage drop across resistance Rc is connected in the collector
+circuit is 0.5 volt.The value of Rc =800 ohm .If a =e 96, determine
+(i) Collector emitter voltag e
+Gi) Base current to
+
+\/3)
+
+Ye
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+a
+
+b
+
+Explain various types of JFET & explain any one along with its working.
+
+Ing self bias n channel JFET, the operating point is to be set at Ip =1.5 mA and Vps=10
+V.The JFET parameters are I pss=5mA and Vp=-2V Find the value of Rs & Rp. Given that
+
+Vpp=20V. Vop > Dov
+
+Rp
+Vip
+
+RS ' ne oy.
+i ly
+
+Explain the DC bias operation of series fed class A Amplifier.
+
+Explain impedance transformation.
+What transformer turns ratio is required to match 1 16 —-ohm speaker load so that the
+
+effective load resistance seen at the primary is 10 kohm?
+Construct Colpitt’s Oscillator & explain its working.
+
+What are the limitations of LC & RC Oscillators.Draw & explain the equivalent circuit of
+Quartz Crystal.
+
+Explain the operation of Push Pull Power Amplifier with the help of circuit diagram
+
+Explain voltage divider bias configuration of a Transistor with the help of circuit diagram.
+
+ea OS
+
+6
+````
+
 ## 2016-17 · Re-Exam · Sem 2 · paper b1b2d6ce05e7
 
 - Departments: Common (all branches)
@@ -2492,6 +3595,7 @@ Q.7)Write notes on the following-(any two) (14)
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2015-16,2016-17 RE EXAM.pdf`
 - Printed on paper: duration hours: 3; exam date: 10 July 2017
 - Text: ocr (2 pages), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2565,7 +3669,6 @@ shown below. ID = 5 milliampere. Jov (07)
 Il )x Ip Pd alk
 D
 R S$ = SCOW,
-R G G & Rg - 1M AL
 Soo
 b)Draw the circuit diagram and explain the application of BJT as a CE amplifier. (07)
 Q.5)a)Compare half wave, full wave and bridge rectifier circuits. (07)
@@ -2583,142 +3686,6 @@ Q.7)Write notes on the following-(any two)
 all Bn,
 ````
 
-## 2016-17 · Re-Exam · Sem 2 · paper 307236299fb5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic electronics 2015-16,2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 08 May 2018
-- Text: ocr (3 pages), mean OCR confidence 85.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (All Streams) Year: I Semester: II
-
-Academic Year: 2017-2018
-
-Subject:Basic Electronics
-: Marks:70
-
-Date:08 May 2018 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-: No. of Pages : 63
-Re-examination (2015-16 / 2016-17)
-
-Instructions:-Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
-
-NB: - -
-
-1. Question No. ONE is compulsory.
-
-2. Out of remaining attempt any FOUR questions.
-
-3. Inall FIVE questions to be attempted.
-
-4. All Questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on right hand side iridicate full marks.
-
-7. Assume suitable data if necessary.
-
-Ql. Attempt any four questions
-
-A. Explain Early Effect. What is the effect of Early Effect on the input characteristics of CB
-
-configuration. (3.5)
-B. Differentiate between voltage amplifier and Power Amplifier. (3.5)
-C. Derive the relation between o and f. (3.5)
-D. Determine the current I in the circuit shown in figure. Assume the diodes to be of Silicon
-
-and forward resistances of the diodes to be zero. (3.5)
-
-. Dy
-
-7 2kQ |
-poh
-| R |
-
-~L _—
-
-= £,=24¥ Ds
-
-E. Compare MOSFET with JFET (3.5)
-
-5
---- page 2 ---
-Q2. A. Draw the circuit diagram & explain the operation of Full Wave Bridge Rectifier. Draw
-neat waveforms for input and output voltage. Derive ripple factor of full wave rectifier. (7)
-
-B. Determine Veg in the transistor circuit shown in figure. The transistor is of Silicon and
-
-has & = 0.993. (7)
-~ |
-Res WON |
-Rp __
-poo 1OV => ee
-| 19 kO +
-Sev | | .
-T |
-L '
-Q3. A. Draw the neat output waveform and explain the operation of following circuit. (7)
-i
-o =o]
-W
-= C +
-y - ny,
-= 10V
-sa + =
-° o
-
-B. With the help of a circuit explain the input and output V-I characteristics of a PNP (7)
-transistor in Common Base configuration and indicate different regions of importance.
-
-Q4. A. With neat circuit diagram, explain the principle of operation of a push pull amplifier
-circuit using transistor. Define Cross over Distortion. (@)
-
-B. What do you mean by transistor DC Biasing. With the help of a circuit diagram explain
-the operation of Voltage Divider Bias circuit for BJT amplifier. State its advantages. (7)
-
-Q5. A. With a neat diagram explain the working of Enhancement MOSFET. (7)
-
-B. With a neat circuit diagram, explain the operation of RC phase shift oscillator using
-transistor. State its advantages and disadvantages. (7)
-
-Q6. A. A JFET has values of Voscof f)= -8 V and Ipss= 16mA. Determine the values of V¢g,
-Ip and Vpg for the circuit. (7)
-
-2/5
---- page 3 ---
-+10V
-
-J
-
-22k E Ry
-3
-
-A
-Gs] - ae vi ~/ I
-
-[ Rg 2 IMO
-{ L
-
--5V
-
-B. Describe the ‘equivalent circuits of PN junction diode (Models) - (7)
-
-Q7. Write a short note (Any 2) (14)
-A. Photodiode-Construction, Working and Characteristics
-B. Comparison of Class A, Class B, Class AB and Class C Amplifiers
-C. Drain and transfer characteristics of n-channel JFET.
-
-3/5
-````
-
 ## 2015-16 · Final-Exam · Sem 2 · paper 8d83bc862b66
 
 - Departments: Common (all branches)
@@ -2726,6 +3693,7 @@ C. Drain and transfer characteristics of n-channel JFET.
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), 2015-16 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 11/05/2016
 - Text: ocr (2 pages), mean OCR confidence 86.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _. SVKM’s NMIMS
@@ -2775,7 +3743,6 @@ b) Explain the DC analysis for a p-n junction diode. (7]
 Q3) a) Calculate the base, collector, and emitter currents and the CE voltage for a common emitter
 circuit. Calculate the transistor power dissipation.
 
-B=200, Vcc=10V, Vbb=4V, RB=220 Kohms, Re=2 Kohms VBE(on)= 0.7V. [7]
 b) Explain the construction and working for an n-channel JFET. Draw the V-I characteristics
 also. (7)
 
@@ -3023,125 +3990,317 @@ r x
 2)9.
 ````
 
-## 2015-16 · Re-Exam · Sem 2 · paper 9369c99a2d75
+## 2015-16 · Re-Exam · Sem 2 · paper da1ced23cd4a
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), 15-16 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 10 May 2017
-- Text: ocr (2 pages), mean OCR confidence 85.1
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELCTRONICS B TECH (ALL STREAMS), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11/05/2016
+- Text: ocr (2 pages), mean OCR confidence 86.7
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE:
+SVKM’s NMI
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (All Streams) : Year: I Semester: Il 4 (7,
-(Bo LIBRARY
+Programme: B.Tech (All Streams) Year: 1 Semester: II
 
-Academic Year: 2016-2017 %
-cademic Year \ oO s
+Academic Year: 2015-16
 
-A
-Subject: Basic Electronics OTe
-Marks: 70 “
-Date: 10 May 2017 : Time: 10.00 am to 1.00 pm ;
-Durations: 3 (hrs)
+Batch: 2014-15
 
-a No. of Pages: _2
+Subject: Basic Electronics Marks: 60
+—_ Time: 2.00 p
+Date: 11/05/2016 Durations: 3 hr
 
-\
-, Final-Examination (Batch 2016-17) /
-Re-examination (Batch 2015-16)
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. , ;
-1) Question No. 01 is compulsory.
-2) Out of remaining questions, attempt any 04 questions.
-3) In all 05 questions to be attempted.
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary.
-~»
-Ql)
+Re-Examination
 
-a) Sketch the output waveform for the circuit shown in fig. 1. It is given that discharging time 06
-constant is much greater than the time period of input wave. Also evaluate the voltage
-across capacitor.
+Instructions; Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer
+Book, which is provided for their use.
 
-Vin
-© ; ;
-sv ic IC % £]
-0 : | Ri
-Vin Vout
-q 2v
--5V/b-------
-G =]
-Fig 1.
-Also sketch the output waveform if 2V supply is inverted.
+NB:
+1. Question No.1 is compulsory.
+2. Out ofremaining questions; attempt any 4 questions.
+3. In.all 5 questions to be attempted .
+7.4. All questions carry equal marks.
+5. Answer to each new question to be started on fresh page.
+6. Figures in bracket on the right hand side indicate full marks
 
-b) Attempt any TWO 08
+Question 1 Attempt any 4. (4.x 3=12)
 
-i) Write a short note on Thermal runaway in BJT.
+a. Draw and explain AC Equivalent Circuit of a Semiconductor Diode. (03)
 
-ii) Define various parameters of FET.
+b. Explain the operating principle of photodiode & Draw reverse current illumination
 
-iii) Compare voltage and power amplifier.
+curve of a photodiode. (03)
 
-iv) Explain working of a Tank circuit used in oscillator, with a neat circuit diagrams.
+c. Explain Zener Diode as a voltage regulator. (03)
 
-ss Q2) a) Explain with help of neat circuit diagram & waveforms, working of a full wave bridge 08
-rectifier and also derive its efficiency.
+d. Compare C, LC & CLC Filter (03)
 
-b) Write a short note on zener diode as voltage regulator. 06
+e. Explain Barkhausken criteria . (03)
 
-Q3) a) A pn-junction diode having internal resistance rp = 20Q is used for half wave rectification if 06
-the applied voltage v = 50 Sin at and load resistance Ry = 800 Q find:-
-1) Max load current, mean load current & RMS value of load current.
-2) AC power input and DC power output.
-3) De output voltage.
-4) Efficiency of rectification. = Pa ye Voof 2
+f. Discuss Thermal Runaway. 7 (03)
+Question 2 “a Explain the working of Centre Tap Full Wave Bridge Rectifier. Determine the
+
+output waveform for the network as shown in figure. Calculate the output DC - (06)
+level and the required PIV of each Diode
+
+svt Dz. Pi
+ok 2k |
+2K
+
+Ce
+
+b. Discuss the need of bias stabilization. Explain Fixed bias configuration of a Transistor. (06)
+
+vf
+To.
 --- page 2 ---
-b) Consider a collector base biasing circuit, derive equation for its base current, collector 08
-current, collector to emitter voltage, saturation current and load line equations.
+Questi ‘ os —- ‘ Soak ten
+Heston 3 a For the circuit shown in figure Draw the DC Joad line & mark Q point in the
 
-Q4) a) For the fixed bias configuration of fig. 2 determine: Iga, Icq, Vera, Vc, Vp & Ve. 06
-i 16V
+we 28 TE circuit Assume Silicon Transistor (os)
+r %
+/20Vv
+2K
+5 k
+y
+i) h fan Amplifier. How Transistor work as a Switch (e6)
+Question 4 at Explain the basic sc operation & characteristics of Enhancement type MOSFET (oe)
+b Draw & explain Self Bias Configuration of FET Also Draw Inss & Ves curve’ (0S)
+Guestion 5 a Which are various stages of Practical Power Amplifier? Explain Class A Power Pe)
+Amplifier U
+b A Class B Push Pull Amplifier with transformer coupled load uses two transistor
+rated 10W each. What is the maximum power output one can obtain at the load (os)
+from the circuit? Compare voltage & Power Amplifier. ~~ : .
+Question 6 a Explain the working & applications of Colpitt’s Oscillator 9)
+b Brief the advantages & limitations of Wien Bridge Oscillator Also explain (es)
 
->} Icq
+limitations of LC & RC oscillator }
 
-S180
-510kO.
+Question 7 Write short notes (any three) (12)
 
-Vc
-+
-VB
-= 120
-Inq ib ) Vceqg 8B
-VE
-Fig. 2
-b) Explain with neat diagrams construction, working & characteristics of an n-channel JFET. 08
-Q5) a) Derive the relationship between amplification factor’s a, B & ¥. 06
-b) Determine Vesa, Ing, Vos, Vp, Ve & Vs for the network shown in Fig. 3 . 08
-16V -
-2kQ
-D
-7 TDss = \0 mA
-ge xee SVE Pe aco PN
-Ves _| ( ml Aropew )
-1MQ - :
-J P = Cy Vv
-2V =
-. |
-=
-Fig. 3
-Q6) a) Explain with neat circuit diagram transformer coupled push pull Class B power amplifier. 07
-b) Explain with neat circuit diagram working of hartley oscillator. 07
-Q7) Explain with neat diagrams any TWO of the following: 14
+a. VI Characteristics of Zerner Diode & Zener Breakdown
+b. Piecewise Linear model of diode.
 
-a) Schottky Barrier Diode.
-b) Crystal Oscillator.
-c) Depletion type MOSFET.
+c. Base Width Modulation
 
-Page 2 of 2
+d. Clipper and Clamper circuit.
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper ccaa27019ac6
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS ALL STREAMS BATCH 2013-14 RE EXAM_ccaa27019a.pdf`
+- Printed on paper: exam date: 02 July 2016
+- Text: ocr (2 pages), mean OCR confidence 84.2
+
+````text
+=>
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (All Streams) Year: I‘ Semester: II
+
+Academic Year: 2015-16
+Batch: 2013-14
+
+Subject: Basic Electronics
+
+Date: 02 July 2016
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+
+I. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicates full marks.
+
+7. Illustrate your answers with neat labelled diagram wherever necessary.
+
+2
+Q.1 Attempt any four questions out of five questions. Each
+question carries five Marks. (20M)
+A) _| Differentiate between a voltage and power amplifiers ;
+B) | With the help of construction, explain the working light emitting
+diode.
+C)_| Differentiate between intrinsic extrinsic semiconductor.
+. . . + + . —
+D)_| Explain principle of sustained oscillations.
+
+E) | Compare BJT with JFET.
+
+Q.2 | A) | With neat circuit diagram explain the Operation of bridge | (10M)
+rectifier. Derive an expression its efficiency.
+B) | With circuit, diagram and waveform give the classification of | (10M)
+clipper with’ its working,
+
+Q.3_ | A) _| Explain the reason behind the amplification action of transistor | (6M)
+B) Determine the Qppint of circuit shown below:
+Tt
+
+Woem LY (10M)
+
+RerAeles
+Ut Peevey
+p-14o Rye garry
+fe AO
+= ua
+2 oa grty Ce = Ce ~LoM 5
+= ye Cer Sply
+C)__| Compare zener diode and PN junction diode. (4M)
+Q.4 | A) | Explain construction and working of n channel depletion | (10M)
+
+MOSFET.
+
+Vo
+--- page 2 ---
+B) | For the circuit shown find Id and Ves.
+Lov
+Ip ae
+
+(10M)
+
+— a4
+
+Epsyo BM A
+“Ge —6V
+
+Q.5 | A) Define JFET parameters; And establish the relationship | (10M)
+between them,
+B) | Explain how Transistor can used as NOT gate. (10M)
+Q.6 | A) Describe CB configuration of BJT along with its input and | (10M)
+output characteristics.
+B) Discuss the circuit operation of Wien bridge oscillator, (10M)
+Q.7 | A) | What is oscill
+
+ator? Discuss the circuit Operation of Hartley (10M)
+oscillator, "
+
+B) What is thermal run way?
+
+(05M)
+
+C) | What do you understand by class A, cl
+
+ass B and class C power | (05M)
+amplifiers?
+
+2)o
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper 7cdc6ad44073
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2016
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+~~
+
+y SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANA
+
+Programme: B.Tech (All Streams)
+
+Academic Year: 2015-16
+Batch: 2014-15,
+
+Subject: Basic Electronics, Marks: 60
+Time: 2.00 pm - 5. 00 pm
+Date: 02 July 2016 Durations: 3 (hrs) ;
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+. Question no. Lis compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+Bi In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5: Answer to each new question to be started ona fresh page.
+
+a Figure in brackets on the right hand side indicate full marks for a question.
+
+Ql «a Explain the working & application of Schotkey Diode
+& Draw & explain Positive Clipper
+c¢ Derive an expression for efficiency of a Full Wave Rectifier ~
+
+2 a (1) nS; Dermine Vo for the network shown in figure
+F | zd
+= # 4g x
+,°
+FP. a9 ad cab
+
+» — Explain the working of BJT as a Amplifier & = its frequency response.
+
+Q? 3. Which is the essential condition of a Transistor Biasing? Define stability factor & derive
+the expression for it.
+
+b An NPN Transistor at room temperature has its emitter disconnected. A voltage of 5V is
+applied between collector & base. With collector positive, a current of 0.2 micro ampere
+flows. When the base is disconnected & the same voltage is applied between collector and
+emitter ,the current is found to be 20 microampere. Find a, Ig and Ig when the collector
+current is ImA.
+
+Q4 a Explain Depletion type of MOSFET along with its working.
+
+b Figure shows the transfer characterstics | of a JFET. Write the equation for drain current
+
+Lp 7
+N25
+Jf
+
+J
+
+Ve =ty re
+
+Also write about pinch off voltage & transconductance of a FET.
+
+i/o
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+Explain the operation class B Amplifier with the help of circuit diagram & mode of
+operation.
+
+Explain the AC Operation of series fed Class A power amplifier,
+
+Construct Wien bridge Oscillator & explain its working.
+
+The AC equivalent circuit of a crystal has these values: L=1H, C=0.01 p£R=1000 &
+Cm=20pf. Calculate fs and fp of the crystal.
+
+Wy
+
+Design Push Pull Power Amplifier & explain its working,
+
+Explain Self bias configuration of a Transistor with the help of circuit diagram .
+
+2/2
 ````
 
 ## 2015-16 · Re-Exam · Sem 2 · paper 3886516c1ddc
@@ -3234,206 +4393,6 @@ Q.7)Write notes on the following-(any two)
 x ~ fF
 
 a]o
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 975056c6fafc
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/BASIC ELECTRONICS/Basic Electronics Batch 2015-2016 Re Exam.pdf`
-- Printed on paper: max marks: 60; exam date: 11 May 2018
-- Text: ocr (2 pages), mean OCR confidence 90.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated (COMPUTER / EXTC) Year: II «
-Academic Year: 2017-2018
-
-Subject: Basic Electronics”
-y Marks: 60
-Date: 11 May 2018 « Time: 10.00
-. Durations: 3 (h
-No. of Pages:
-Re-examination (2015-16) ~
-
-istructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh, page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. —
-
-Q1) (i) Explain the concept of Barkhausen criterion for sustained oscillations (4)
-(ii) Differentiate between Full wave center tapped rectifier and Full wave bridge rectifier (4)
-(iii) Explain frequency response of BJT Amplifier : (4)
-Q 2) (i) Explain the working of Full wave bridge rectifier in detail. (6)
-
-(ii) For JFET if loss = 20MA, Ves = -5 V, mo = 4mS and rg = 200k. Find transconductance (9)
-(gm) for Vp = -4 V and Ip at this point and also find amplification factor (1).
-
-Q 3) (i) Find Is, lc and Vce for the circuit shown below (6)
-Neca lSV
-Noe 2 lSV
-Roc
-410k A ie = \oo
-(ii) Explain Voltage Divider biasing of Bipolar Junction Transistor (6)
-
-Uy
---- page 2 ---
-Q4) (i) Explain the working of Bipolar Junction Transistor in CC configuration. (6)
-
-(ii) Explain fixed bias of N-channel J-FET in detail. (6)
-Q5) (i) Explain the working of PN Junction diode in forward and reverse biased condition. (6)
-(ii) Explain Wein Bridge oscillator in detail. (6)
-Q 6) (i). What is biasing? Explain the need of biasing in a BJT amplifier. (6)
-(ii) What are clippers? Explain the working of Positive biased clipper in detail. (6)
-Q7) Write short notes(Any Two) (12)
-
-a) Light Emitting Diode
-b) Colpitts oscillator
-c) Clampers
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 728cbc6c63fe
-
-- Departments: Computer Engineering, Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/BASIC ELECTRONICS/Basic Electronics Batch 2015-16 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 June 2019
-- Text: ocr (2 pages), mean OCR confidence 88.5
-
-````text
-ee
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-j Program :B.Tech Integrated (COMPUTER/EXTC) , Year: Il Semester: IV
-| Academic Year: 2018-2019
-Subject: Basic Electronics Marks: 60 .
-Date : 15 June 2019 Time: 10.00 am to,1.00 pa
-
-Duration: 3 (hrs)
-Nowof Pages:_2. yy,
-Re-examination(2015-16) -~ 7 ,
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume .suitable data if necessary.
-
-Ql Attempt any four _. (2)
-
-a. Explain the construction and working of photo diode.
-b. Explain thermal runaway in a BJT. ,
-
-c. Define the terms Drain Source Saturation Current (Idss), Pinch off voltage
-(Vp) and Gate source cutoff voltage (Vgsoff)
-
-d. Inacommon base connected BJT circuit, the current amplification
-factor, a = 0.9. If the emitter current is 1 mA. Determine the value of the
-B, Is and Ic.
-
-e. What is an oscillator? State and explain Barkhausen criteria for
-oscillations.
-
-Q2. a. Draw the diagram of a zener regulator and explain its working for load (06)
-and line regulation.
-
-b. Determine the output waveform of the given circuit. (06)
-° Mar ©
-+ OR i +
-Vj - Vy
-_ Y=
-O=z- 3 6
-
-YX
---- page 2 ---
-Q3.
-
-Q4.
-
-Q5
-
-Q6.
-
-Q7
-
-a.
-
-b.
-
-a)
-b)
-
-Draw neat circuit diagram and explain the output characteristics of a npn
-BJT. Also explain the different regions on the output characteristics.
-
-For the given circuit find Vcgg and Ic:.9.
-
-SVee= 10V
-
-Draw the construction and explain the working of a n channel field
-
-effect transistor.
-
-With neat circuit diagram explain the working of a transistor as an
-
-amplifier.
-
-Explain voltage divider biasing in detail for BJT.
-Compare Common base, Common Emitter and Common Collector
-configuration of BJT.
-
-Explain in detail with diagram and waveform, the working of full wave
-Bridge rectifier.
-Explain different types of Breakdown in diode.
-
-Write Short Hotes on
-Colpitt’s Oscillator
-Light Emitting Diode
-
-2/Z
-
-(06)
-
-(06)
-
-(06)
-
-(06)
-
-(06)
-
-(06)
-
-(06)
-
-(06)
-
-(06)
-(06)
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 558a68a94f39
@@ -3529,33 +4488,33 @@ B) | Describe the equivalent circuits of PN junction diode (Models) (06M) |
 2)
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 79df9df25b37
+## 2015-16 · Re-Exam · Sem 2 · paper d940959b0016
 
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/BASIC ELECTRONICS/Basic Electronics Batch 2015-16 Re Exam_79df9df25b.pdf`
-- Printed on paper: max marks: 60; exam date: 11 May 2018
-- Text: ocr (2 pages), mean OCR confidence 88.5
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic Electronics Batch 2014-15 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11/05/2016
+- Text: ocr (2 pages), mean OCR confidence 93.6
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech Integrated (COMPUTER / EXTC) “~ Year: II« Semester:IV “©
-Academic Year: 2017-2018
+Programme: MBA Tech (All Streams) Year:I Semester: II
+Academic Year: 2015-16 U ‘$ ‘
+Batch: 2014-15 5
+Subject: Basic Electronics Marks: 60 t. Ss ‘
+Time: 10.00 am ~ 1.00 § pm
+Date: 11/05/2016 Duration: 3 (hrs)
 
-Subject: Basic Electronics” E
+Re-Examination
 
-, Marks: 60 / #
-J Date: 11 May 2018 « Time: 10.00 aint
-. , Durations: 3 {ties}
-No. of Pages: ~ <2
-Re-examination (2015-16) ~ &
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
 
-istructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+NB:
 
-1) Question No. I is compulsory.
+1) Question No.1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -3563,154 +4522,123 @@ of the Answer Book, which is provided for their use.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh, page.
+5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
 
-Q1) (i) Explain the concept of Barkhausen criterion for sustained oscillations (4)
-(ii) Differentiate between Full wave center tapped rectifier and Full wave bridge rectifier (4)
+7) Assume Suitable data if necessary
 
-(iii) Explain frequency response of BJT Amplifier e (4)
+Q.1 Attempt any three [12]
+a. Explain working of colpitts oscillator
+b. Explain forward and reverses characteristics of PN junction diode.
+c. Explain operation of clipper circuit.
+d. Explain operation full wave rectifier with circuit diagram and waveform..
 
-Q 2) (i) Explain the working of Full wave bridge rectifier in detail. (6)
-_ (ii) For JFET if loss = 20mA, Ves = -5 V, Bmo = 4mS and ra = 200kQ. Find transconductance (6)
-
-(gm) for Vp = -4 V and Ip at this point and also find amplification factor (1).
-
-Q 3) (i) Find Ip, Ic and Vce for the aeaityowe below (6)
-NI a \g Vv
-Re = R.2 2.27 -=\00
-410k A ai
-(ii) Explain Voltage Divider biasing of Bipolar Junction Transistor (6)
-
-ih,
+Q.2 A] Explain the operation of DMOSFET. [06]
+Q.2 B] Explain schottky diode. [06]
+Q.3 A] Explain base width modulation in BJT. [06]
+Q.3 B] Explain piece-wise linear model of diode. [06]
+Q.4 A] Explain RC phase shift oscillator. [06]
+Q.4 B] Explain class A power amplifier with circuit diagram. {06]
+Q.5 A] Sketch and explain the working of JFET. [06]
+Q.5 B] Explain the working of half wave rectifier with waveforms and derive the expression [06]
+for output voltage.
+Q.6 A] Derive the relation o=$/(1+) in case of BJT [06]
+Q.6 B]. Design a collector to base bias circuit using silicon transistor having he-=100, Vec=12V and
+de bias conditions are Vce= 6V, Ic= 3mA, Vpr=0.7V. [06]
+VA
 --- page 2 ---
-Q4) (i) Explain the working of Bipolar Junction Transistor in CC configuration. (6)
-
-(ii) Explain fixed bias of N-channel J-FET in detail. (6)
-Q5) (i) Explain the working of PN Junction diode in forward and reverse biased condition. (6)
-(ii) Explain Wein Bridge oscillator in detail. (6)
-Q 6) (i) . What is biasing? Explain the need of biasing in a BJT amplifier. (6)
-(ii) What are clippers? Explain the working of Positive biased clipper in detail. (6)
-Q7) Write short notes(Any Two) ; (12)
-
-a) Light Emitting Diode
-b) Colpitts oscillator
-c) Clampers
+Q.7 Write short note on any three. [12]
+a. Difference between voltage and power amplifier
+b. Wien-bridge Oscillator
+c. Half wave rectifier with capacitor filter
+d. Transistor as a switch
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper e9c513bc37f7
+## 2015-16 · Re-Exam · Sem 2 · paper 90b86b673984
 
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/BASIC ELECTRONICS/Basic Electronics Batch 2015-16 Re Exam_e9c513bc37.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
-- Text: ocr (2 pages), mean OCR confidence 87.5
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic Electronics Batch 2014-15 Re Exam_90b86b6739.pdf`
+- Printed on paper: exam date: 02 July 2016
+- Text: ocr (2 pages), mean OCR confidence 89.7
 
 ````text
-ph OF Mle
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-SVKM’S NMIMS Z ‘3 Vas
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING®, B }
-Academic Year: 2016 - 2017 iy ry 4
-» Program: B. Tech Integrated (COMPUTER/EXTC) Year:II = Semester:V -
-Batch: 2015-16 Marks: 60
+G72 & me,
+Programme: MBA Tech (All Streams) Year: I “Se eter! Tey
+Academic Year: 2015-16 a Ve
 
-Subject: Basic Electronics
+Batch: 2014-15 :
+Subject: Basic Electronics.
 
-Time: (10.00 am to 1.00 pm)
-Date : 11 May 2017
+Date: 02 July 2016 -
+, Re-Examination
 
-Duration:3 hrs
-No. of Pages: 2_
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
 
-RE - EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their use.
 NB:
+1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+‘ 5) Answer to each new question to be started on a fresh page. '
+6) Figures. in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
 
-1. Question No. 1 is compulsory.
+Q.1 Attempt any three of the following. Each question carries 4 marks- {12]
 
-2. Out of remaining questions, attempt any four questions.
-3. Inall five questions to be attempted.
+A) With the help of suitable diagram describe the working and characteristics of
+photodiode.
+B) Give comparison between BJT and FET.
 
-4. All question carry equal marks,
+C) Define alpha (a) and beta (f) for a transistor. Calculate the values of B and Ic
+with a = 0.99 and Ip= 50 WA.
 
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicates full marks.
+D) Describe Barkhausen criterion of oscillator.
 
-Illustrate your answers with neat labelled diagram wherever necessary,
+Q2 A) Explain the working of capacitor filter with center tapped full wave rectifier. [6]
 
-Q.1 | Attempt any four questions out of five questions. Each
+B) Exlain how n-p-n transistor works and with neat circuit diagram explain [6]
+working of transistor as a switch.
 
-question carries five Marks.
+Q.3 A) With the help of neat diagram describe the construction, working and [6]
+characteristics of n-channel enhancement type MOSFET.
+B) Determine range of values of Vj that will maintain the zener diode inthe ON [6]
+state. (V=25 V, Iz max = 25 mA)
 
-_ | A) | Explain PN Junction diode in detail .
-characteristics,
-
-| B) | With the help of construction, explain the working of Photo
-diode
-
-Explain forward biased
-
-| C) | What is BIT? How it can be used asa switch?
-D) | The common base current gain 0.967. If the Is=I0mA what is
-the value of base current.
-LK | E) | Compare BJT with JFET,
-|
-
-| Q.2 | A) | With neat circuit diagram and characteristics, explain | (06M)
-| frequency response of BJT amplifier.
-| B) | Describe positive and negative biased clippers in detail with | (06M)
-neat diagrams. |
-Q.3 | A) [ Explain the working of Full-Wave Bridge rectifier in detail.
-B) | For the common-emitter circ
-
-uit shown in figure below » draw
-the DC load line and mark the de operating point on it.
-Assume B = 100 and VBE = 0 Vee = 30V.
-
-(06M)
-
-Vy
+Yo.
 --- page 2 ---
-Vcc
+200 2
 
-1.5Mohms 5kohms
+—W
+i @) V,= ae = _
 
-Q.4 | A) | What is the need of biasing? Explain Fixed Bias of transistor | (06M)
-in detail.
+Q.4 A) For the circuit network shown determine Iga, Ica, Vczqand stability factor. [6]
+Draw DC load line and comment on region of operation. (B = 100)
 
-B) | Describe the equivalent circuits of PN junction diode (Models) | (06M)
+12V
+950 KQ 5KO
+B) Describe CB configuration of BJT along with its input and output [6]
+characteristics.
+Q.5 A) Define JFET parameters and obtain relation between them. [6]
+B) Explain working of positive and negative bias parallel clipper using diode. [6]
 
-Q.5 | A) | Determine the range of input for a zener regulator circuit to | (06M)
-maintain a output voltage of 30V across 2000 ohms output
-shown in figure below. Assuming zener current range is 0-
+Q.6 A) What is the difference in power amplifier and voltage amplifier? Describe the [6]
+working of complementary symmetry push pull amplifier.
+B) What is an oscillator? Draw and explain colpitts oscillator circuit. [6]
 
-25mA
-5 IL
-2000hm:
-py
-Ei NR 2000 ohms
-°o
-B) A JFET has the following parameters: Ipss=1.55mA, (06M)
+Q.7 A) Write short note on following. (any three) [12]
 
-Vp= -2V,Vpp= 24V and Ip= 0.8mA. Find the values of Vos
-and gm.
+a) Circuit operation of Phase shift Oscillator,
+pee b) Thermal runaway
 
-Q.6 | A) | Describe CE configuration of BJT along with its input and | (06M)
-output characteristics.
+c) Cross-over distortion
 
-B) _| Explain the construction & working of N-channel JFET. (06M)
-
-Q.7 | A) | What is oscillator? Discuss the circuit operation of Colpitt’s | (06M)
-oscillator.
-
-B) | Explain Zener diode as a voltage regulator in detail. (06M)
-
-7
+d) Effect of temperature on diode characteristics
 ````
 
 ## 2015-16 · Re-Exam · Sem 2 · paper c2eca55a7a27
@@ -3720,6 +4648,7 @@ B) | Explain Zener diode as a voltage regulator in detail. (06M)
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic Electronics Batch 2015-16 Re Exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 02 July 2016
 - Text: ocr (3 pages), mean OCR confidence 85.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —
@@ -3793,7 +4722,6 @@ same (7)
 Q4.A. Explain the Operation of PNP transistor in Active mode. Draw and explain input and
 output characteristics of Common Base Configuration, (7)
 B. Determine the following for the given network (7)
-i. Vesa ii. [p giii. Vos iv. Vp v. VG vi. Ve
 “oo = I6V
 2h
 D — Tneg = }OmA
@@ -3830,6 +4758,155 @@ E. Hartley Oscillator
 Pa
 
 3)3
+````
+
+## 2014-15 · Exam not stated · Trim 2 · paper 3ed403f38453
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), BATCH 10-11,11-10001.pdf`
+- Printed on paper: exam date: 24/06/2015
+- Text: ocr (1 page), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Trimester: II
+Batch: 2010-11, 2011-12, 2012-13
+Academic Year: 2014-2015
+Subject: Basic Electronics
+Marks:
+Date: 24/06/2015 Time:
+Durations:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the answer book, which is provided for their use.
+NB:
+1. Question No.1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1] Attempt any four. [20]
+a. Explain V-I characteristics of PN junction diode.
+b. Compare zener breakdown and avalanche breakdown.
+c. What is the need for bias stabilization?
+d. Explain the transconductahce, pinch off voltage and Ipss.
+e. Discuss fixed bias circuit using BJT.
+
+Q.2A] With the help of circuit diagram, waveforms explain the working of bridge rectifier.
+Also derive equation for output voltage, rectifier efficiency, ripple factor
+
+and PIV rating of diodes. [10]
+Q.2B] Explain with circuit diagram and waveform the working of shunt capacitor filter. [05]
+Q.2C] What is voltage doubler circuit ? [05]
+Q.3A] Differentiate between JFET and MOSFET. [10]
+Q.3B] Explain zener diode as voltage regulator. [10]
+Q.4A] With the help of neat diagram, explain the construction, working of a typical BJT. [10]
+Q.4B] Describe the parameters to define a load line. Define Q-point. [05]
+Q.4C] Derive the relation between o and B hence find the value of B if a = 0.95. [05]
+Q.5A] Draw and explain drain transfer characteristics of JFET. [10]
+Q.5B] Explain the construction and working of enhancement mode MOSFET. [10]
+Q.6A] Draw a neat diagram and explain the construction and working of LED. State advantages,
+disadvantages and applications of LED. : [10]
+
+Q.6B] Explain the basic operation of SCR using two transistor equivalent circuit. [05]
+Q.6C] Explain the characteristics of a photodiode. [05]
+Q.7] | Write short note: (any four) [20]
+
+a. Clipper circuit
+
+b. 2 filter
+
+c. Thermal runaway in BJT = E
+
+d. VMOS
+
+e. Solar Cell
+````
+
+## 2014-15 · Exam not stated · Trim 2 · paper 7c801151b470
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), BATCH 2010-11, 10001.pdf`
+- Printed on paper: exam date: 17/12/2014
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: | a ml
+Batch: 2010-11, 2011-12, 2012-13 SR Ree Sy
+Academic Year: 2014-2015 f N
+
+MPSTME }4
+
+Subject: Basic Electronics Mark LIBRARY , é
+Date: 17/12/2014 Time: \x10.00 LPP pm
+
+Negra SZ
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the answer book, which is provided for their use.
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1] Attempt any four [20]
+a. Derive the relationship between «a. and B.
+b. What are the factors affecting stability of Q point?
+c. Explain the transconductance, pinch off voltage and Ipss.
+d. What is an oscillator? State and explain Barkhausen criteria.
+e. Explain transistor as a switch
+Q.2A] Draw and explain full wave rectifier circuits with waveforms. [10]
+Q.2B] Explain RC Phase shift oscillator. [10]
+Q.3A] Explain the BJT voltage divider bias circuit. [10]
+Q.3B] Differentiate JFET and MOSFET. [10]
+Q.4A] Explain the Frequency Response of BJT amplifier. [10]
+Q.4B] For the bridge rectifier shown, find Ide, Irms, Vde, Vrms across the load and [10]
+PIV rating of the diode
+531
+230V
+ge Ha
+--- page 2 ---
+Q.5A] Explain the construction and working of Depletion type of MOSFET. [10]
+Q.5B] Calculate Q point values of Ic and Vcr for the voltage divider bias circuit shownin —_ [10]
+Figure. Assume that the transistor is a Silicon transistor with Bac = 100.
+
+Q.6A] Draw a neat diagram and explain the construction and working of LED. State advantages,
+
+disadvantages and applications of LED. [10]
+Q.6B] Draw and explain drain transfer characteristics of JFET. [10]
+Q.7] Write short note: (any four) [20]
+
+a. Clamper circuit
+
+b. Thermal runaway
+c. Push pull amplifier
+d. Colpitt’s oscillator
+e. Photodiode
+
+a ¥
+
+YJo.
 ````
 
 ## 2014-15 · Final-Exam · Sem 2 · paper c7a4c70f9b81
@@ -4011,131 +5088,125 @@ C) | Complementary -Symmetry push-pull power amplifier.
 XL
 ````
 
-## 2014-15 · Re-Exam · Sem 2 · paper da1ced23cd4a
+## 2014-15 · Re-Exam · Sem 2 · paper 643439e2f99a
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELCTRONICS B TECH (ALL STREAMS), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11/05/2016
-- Text: ocr (2 pages), mean OCR confidence 86.7
-
-````text
-SVKM’s NMI
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (All Streams) Year: 1 Semester: II
-
-Academic Year: 2015-16
-
-Batch: 2014-15
-
-Subject: Basic Electronics Marks: 60
-—_ Time: 2.00 p
-Date: 11/05/2016 Durations: 3 hr
-
-Re-Examination
-
-Instructions; Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer
-Book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Out ofremaining questions; attempt any 4 questions.
-3. In.all 5 questions to be attempted .
-7.4. All questions carry equal marks.
-5. Answer to each new question to be started on fresh page.
-6. Figures in bracket on the right hand side indicate full marks
-
-Question 1 Attempt any 4. (4.x 3=12)
-
-a. Draw and explain AC Equivalent Circuit of a Semiconductor Diode. (03)
-
-b. Explain the operating principle of photodiode & Draw reverse current illumination
-
-curve of a photodiode. (03)
-
-c. Explain Zener Diode as a voltage regulator. (03)
-
-d. Compare C, LC & CLC Filter (03)
-
-e. Explain Barkhausken criteria . (03)
-
-f. Discuss Thermal Runaway. 7 (03)
-Question 2 “a Explain the working of Centre Tap Full Wave Bridge Rectifier. Determine the
-
-output waveform for the network as shown in figure. Calculate the output DC - (06)
-level and the required PIV of each Diode
-
-svt Dz. Pi
-ok 2k |
-2K
-
-Ce
-
-b. Discuss the need of bias stabilization. Explain Fixed bias configuration of a Transistor. (06)
-
-vf
-To.
---- page 2 ---
-Questi ‘ os —- ‘ Soak ten
-Heston 3 a For the circuit shown in figure Draw the DC Joad line & mark Q point in the
-
-we 28 TE circuit Assume Silicon Transistor (os)
-r %
-/20Vv
-2K
-5 k
-y
-i) h fan Amplifier. How Transistor work as a Switch (e6)
-Question 4 at Explain the basic sc operation & characteristics of Enhancement type MOSFET (oe)
-b Draw & explain Self Bias Configuration of FET Also Draw Inss & Ves curve’ (0S)
-Guestion 5 a Which are various stages of Practical Power Amplifier? Explain Class A Power Pe)
-Amplifier U
-b A Class B Push Pull Amplifier with transformer coupled load uses two transistor
-rated 10W each. What is the maximum power output one can obtain at the load (os)
-from the circuit? Compare voltage & Power Amplifier. ~~ : .
-Question 6 a Explain the working & applications of Colpitt’s Oscillator 9)
-b Brief the advantages & limitations of Wien Bridge Oscillator Also explain (es)
-
-limitations of LC & RC oscillator }
-
-Question 7 Write short notes (any three) (12)
-
-a. VI Characteristics of Zerner Diode & Zener Breakdown
-b. Piecewise Linear model of diode.
-
-c. Base Width Modulation
-
-d. Clipper and Clamper circuit.
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 52b14f8663d9
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 May 2017
-- Text: ocr (1 page), mean OCR confidence 91.2
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS) BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 09/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.0
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (All Streams) Year: I Semester: II iA ee Ree,
-: eS
+Programme: B. Tech (All Streams) Year: I Semester: Il
+Batch: 2013-14 Oa
+i * = aye EOP
+Academic Year: 2014-2015 sa LG LIN
+| Subject: Basic Electronics “Sf ~ bi ’
+Marks: : &¢ 100? 5743
+Date: 09/05/2015 Time: \ Bc 10:00'am ito¥1. gpm
+Duration ® ears) 7
+© ia ri VW,
+yan
 
-Batch: 2014 - 2015
-Academic Year: 2016-2017
-
-Subject: Basic Electronics
-
-Date: 10 May 2017 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages: __!
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer books, which is Provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory
+
+2. Out of remaining questions, attempt any 4 questions
+
+3. In all 5 questions to be attempted.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+1. Attempt any four questions of the following:- [20]
+(a) Explain the significance of dc or static forward resistance & ac or dynamic
+resistance of the diode
+(b) Why it is necessary to bias a transistor to be used for linear amplification.
+(c) What are important de and ac data sheet specifications for JFETs?
+(d) State Barkhausen criterion for oscillations to be sustained.
+(e) Why power amplifier is called a large signal amplifier? Explain it briefly.
+
+2 (a). A full wave rectifier circuit is powered by ac mains. Power transformer hasa_ [10]
+center-tapped secondary. RMS secondary voltage across each half of secondary
+is 20 V. The de winding resistance of each half of secondary is 5Q. Forward
+resistance of diode is 2 Q. If the equivalent load resistance is 50 Q, calculate
+(i) DC power delivered to load (ii) % load regulation (iii)Efficiency of rectification
+(iv) TUF of secondary.
+(b). Explain the working of a full wave rectifier having capacitor input filter. [10]
+Write formula for the ripple factor. Plot the waveforms for input and output.
+
+3. (a). What are different BJT biasing arrangements used for small signal [12]
+amplification? Compare their performance.
+
+(b) Sketch V-I characteristics of an NPN transistor in common emitter operation [08]
+and indicate the different regions of importance.
+
+4 (a). Draw circuit diagram of a common source JFET amplifier and explain its [10]
+— working.
+(b) Define the following terms in case of JFET (i) The Pinch-off voltage [10]
+
+(ii) Channel ohmic region (iii) Drain Resistance (iv) Transconductance
+
+4/2.
+--- page 2 ---
+5. (a) How do you classify the power amplifiers ? Compare class-A, class-B, and [10]
+Class-c amplifiers.
+
+(b) With a neat circuit diagram, explain the principle of operation of a push-pull [10]
+Amplifier circuit using transistor.
+
+6 (a) With a neat circuit diagram, explain the principle of operation of a RC phase- [10]
+shift oscillator using transistor.
+(b) Compare half wave, center tapped full wave & bridge rectifier circuits. [10]
+
+7. Write short notes on following (Any four) [20]
+(a) Clampers Circuits
+(b) Photo Diode
+(c) Crystal Oscillator
+(d) Zener diode as voltage regulator
+(e) BJT as a swith application
+````
+
+## 2014-15 · Re-Exam · Sem 2 · paper 6af367423eec
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 01/07/2015
+- Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS a
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Semester: II
+
+Batch: 2013-14
+Academic Year: 2014-2015... 33 oe,
+
+Subject: Basic Electronics ! . »\,
+Marks: qT 10,
+Date: 01/07/2015 Ui Time: ~ 10.00. am to 1.00 pm
+‘\* Durations: —3,(fits)
+te os
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+NB:
 
 1) Question No. 1 is compulsory.
 
@@ -4146,50 +5217,64 @@ cover of the Answer Book, which is provided for their use.
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+7) Assume Suitable data if necessary
 
-Ql Attempt any four: 12
-a. Why PIV of center tapped full wave rectifier equal to 2Vm?
+Q.1 Attempt any four of the following. Each question carries 5 marks. [20]
+A) Describe the effect of temperature on diode characteristics.
+B) Give comparison between BJT and FET
 
-b. Explain the working of PN junction diode. .
+C) Define alpha (a) and beta (§) for a transistor. Calculate the values of B, Ic and
+le with a = 0.99 and Ip= 50 WA.
 
-é. What is Quiescent point? Explain the concept of de load line.
+D) Describe the construction and working of LED.
 
-d. Derive the relation between a and f.
+E) Explain transconductance, amplification factor and pinch-off voltage.
 
-e. Explain class B amplifier. =
+Q.2 A) Why filters are needed in power supply? Describe capacitor filter with bridge [10]
 
-Q.2a Draw a neat diagram and explain the construction and working of LED. State 06
-advantages, disadvantages and applications of LED.
-Q.2b With a neat diagram and waveform explain the working of LC filter and z filters. 06
+rectifier.
+B) With neat circuit diagram explain working of transistor as an amplifier. [10]
+Q.3 A) With the help of neat diagram describe the construction; working and [10]
+characteristics of depletion type MOSFET.
+B) Determine the range of Ry and I, that will result in V_ being maintained at 10 [6]
 
-Q.3a Explain Load and line regulation. 06
-Q.3b Compare Half Wave Rectifier and Full Wave Rectifier circuits. 06
-Q.4a Compare CB, CE and CC configuration. 06
-Q.4b Explain transistor as a switch. 06
+V. Also determine maximum wattage rating of the diode. (Rs= 1.5 kQ, V,=
 
-Q.5a With a neat diagram draw and explain drain and transfer characteristics of JFET the 06
-construction and working of JFET.
+4/2.
+--- page 2 ---
+1.5 kQ
 
-Q.5b Compare JFET and MOSFET. 06
-Q.6a Explain RC phase shift oscillator. 06
-Q.6b Compare Colpitt’s and Hartley oscillator. 06
-Q.7   Writeshort note: (Attempt any three) 12
-a Avalanche and Zener breakdown mechanism.
+——\\"'\/
++
+°° VW) v, = 10 e
 
-b Early effect.
+C) Describe piecewise linear model of diode. [4]
+Q.4 A) For the circuit shown in figure determine Ica, Vega, Ve, Ve and stability [10]
+factor.
 
-c Thermal runaway
+B) Discuss frequency response of BJT CE amplifier. [10]
 
-d Voltage divider bias
+Q.5 A) Describe CE configuration of BJT along with its input and output [10]
+characteristics.
 
-4
+B) Explain positive and negative bias clamper using diode. [10]
 
-5
-Marks: 60 —
-—
+Q.6 A) What is an oscillator? Draw and explain Hartley oscillator circuit. [10]
+
+B) What is the difference in power amplifier and voltage amplifier? Describe the [10]
+working of complementary symmetry push pull amplifier.
+
+Q.7 Write short note on following. [20]
+a) Crystal Oscillator,
+
+b) Cross-over distortion
+
+c) Base width modulation ,
+
+d) Drain and transfer characteristics of n-channel JFET
+
+2/2
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper a1faf4a099a3
@@ -4305,324 +5390,198 @@ Q7. Write short notes on following (any 3) 3x4=12)
 (d) Power amplifiers
 ````
 
-## 2014-15 · Re-Exam · Sem 2 · paper 7cdc6ad44073
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2016
-- Text: ocr (2 pages), mean OCR confidence 89.4
-
-````text
-~~
-
-y SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANA
-
-Programme: B.Tech (All Streams)
-
-Academic Year: 2015-16
-Batch: 2014-15,
-
-Subject: Basic Electronics, Marks: 60
-Time: 2.00 pm - 5. 00 pm
-Date: 02 July 2016 Durations: 3 (hrs) ;
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-. Question no. Lis compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-Bi In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5: Answer to each new question to be started ona fresh page.
-
-a Figure in brackets on the right hand side indicate full marks for a question.
-
-Ql «a Explain the working & application of Schotkey Diode
-& Draw & explain Positive Clipper
-c¢ Derive an expression for efficiency of a Full Wave Rectifier ~
-
-2 a (1) nS; Dermine Vo for the network shown in figure
-F | zd
-= # 4g x
-,°
-FP. a9 ad cab
-
-» — Explain the working of BJT as a Amplifier & = its frequency response.
-
-Q? 3. Which is the essential condition of a Transistor Biasing? Define stability factor & derive
-the expression for it.
-
-b An NPN Transistor at room temperature has its emitter disconnected. A voltage of 5V is
-applied between collector & base. With collector positive, a current of 0.2 micro ampere
-flows. When the base is disconnected & the same voltage is applied between collector and
-emitter ,the current is found to be 20 microampere. Find a, Ig and Ig when the collector
-current is ImA.
-
-Q4 a Explain Depletion type of MOSFET along with its working.
-
-b Figure shows the transfer characterstics | of a JFET. Write the equation for drain current
-
-Lp 7
-N25
-Jf
-
-J
-
-Ve =ty re
-
-Also write about pinch off voltage & transconductance of a FET.
-
-i/o
---- page 2 ---
-Q5
-
-Q6
-
-Q7
-
-Explain the operation class B Amplifier with the help of circuit diagram & mode of
-operation.
-
-Explain the AC Operation of series fed Class A power amplifier,
-
-Construct Wien bridge Oscillator & explain its working.
-
-The AC equivalent circuit of a crystal has these values: L=1H, C=0.01 p£R=1000 &
-Cm=20pf. Calculate fs and fp of the crystal.
-
-Wy
-
-Design Push Pull Power Amplifier & explain its working,
-
-Explain Self bias configuration of a Transistor with the help of circuit diagram .
-
-2/2
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 8ce3a214834c
+## 2014-15 · Re-Exam · Sem 2 · paper bb78b5ab41cf
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2014-2015 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 10 July 2017
-- Text: ocr (2 pages), mean OCR confidence 91.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/05/2015
+- Text: ocr (2 pages), mean OCR confidence 90.2
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA. Tech (All Streams) Year: I Semester: II
-Batch: 2014-2015
-“ Academic Year: 2016-2017 -
-at RE
-Subject: Basic Electronics markigt Non >,
-5a ee OY <
-Date: 10 July 2017 Time: $0.00 am to 01.0 am
+Programme: MBA Tech (All Streams) Year: I Semester: II
 
-Durations: 3 (hrs) “J ry
-No. of Pages: . eZ A
-Re-Examination * or
+Academic Year: 2014-2015
+Batch: 2013-14
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Attempt (Any Three)
-a Explain the input & output waveform in case of FWR with filter. 4
-b Derive an expression for efficiency of Half wave rectifier. 4
-c Draw & explain negative Clipper. 4
-d Explain the working of photodiode & draw VI characterstics for Si Diode. 4
-Q2 a Explain the working of Full Wave Bridge Rectifier & Draw its input & output waveform, 6
-b Explain the working of PNP Transistor in Common collector configuration& Draw its 6
-
-input & output characteristics.
-
-Page 1 of 2
---- page 2 ---
-a
-=)
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-a
-
-b
-
-ii
-
-iii
-
-Explain the working of transistor as a switch.
-
-Determine the following for fixed bias configuration.
-
-Explain Self bias configuration of FET.
-
-Explain the working of enhancement type MOSFET in details.
-
-Explain the operation of Class A Power Amplifier:
-Compare class A,B & C Amplifier on any six points.
-
-Explain the working of Wien bridge Oscillator in details.
-
-Which reactive elements are used to to form tank circuit in Hartley oscillator?
-
-How to compute Leq in this oscillator? Explain its operation with the help of suitable
-circuit:
-
-Write short notes on (Any Two):
-
-Voltage Amplifier
-
-Zener diode as a regulator
-
-Pi Filter
-
-Page 2 of 2
-
-12
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper b5906f0fdf7f
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2014-2015 RE EXAM_b5906f0fdf.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 May 2017
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-gates tid AN
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG!
-
-Programme: MBA. Tech (All Streams) Year: I Semester!
-
-Batch: 2014-2015
-Academic Year: 2016-2017
-
-Subject: Basic Electronics
-Marks: 60
-. Date: 09 May 2017 Time: 10.00 am to 1.00 pm
-; Durations: 3 (hrs)
-No. of Pages: 2
+Subject: Basic Electronics Marks: 100
+Time: 2.00 pm to 5.00 pm
+Date: 09/05/2015 Durations: 3 (hrs)
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the answer book, which is provided for their use.
+NB:
 
-i Question no. 1 is compulsory.
+1. Question No.1 is compulsory.
 
 2. Out of remaining questions, attempt any 4 questions.
 
-a Ia all 5 questions to be attempted.
+3. In all 5 questions to be attempted.
 
 4. All questions carry equal marks.
 
 5. Answer to each new question to be started on a fresh page.
 
-6. Figure in brackets on the right hand side indicate full marks for a question.
+6. Figures in brackets on the right hand side indicate full marks.
 
-Ql a Explain the working & application of Zener Diode 4
-b Draw & explain negative Clamper 74
-¢ Derive an expression for efficiency of a Half Wave Rectifier 4
+Q.1] Attempt any four [20]
+a. What is Thermal Runaway?
+b. Explain clipper circuit.
+c. Explain zener and avalanche mechanism.
+d. Derive the relationship between a and B.
+e. What is an oscillator? State and explain Barkhausen criteria.
 
-Q2 a’ A full wave rectifier uses two diodes, the internal resistance resistance of each diode may 6
+Q.2A] Why zener diode is used for voltage regulation? Explain zener diode acting as a voltage
+Regulator. [10]
+Q.2B] In a center tapped full wave rectifier, the rms half secondary voltage is 9V. Assuming ideal
+diodes and load resistance Ry= 1KQ., find: [10]
+i. Peak current
+ii. DC load line
+iii. | RMS current
+iv. Ripple factor
+v. Efficiency
 
-be assumed constant at 20 ohm.The transformer r.m.s secondary voltage from centre tap to
-each end of secondary is 50 V and load resitance is 980 ohm Find
-(i)mean load current (ii) the rms value of load current’.
+Q.3A] Draw and explain full wave rectifier circuits with waveforms. [10]
+Q.3B] Explain the circuit for fixed biasing in JFET. [10]
+Q.4A] Determine the following for the fixed bias configuration of figure shown Ciey
+a. Inq & Ico b. Veeo
+c. Vga &Ve d. Vgc
 
-b Explain the working of BJT as a CE Amplifier & draw its frequency response. 6
-Q3 a Explain the following parameters with reference to the performance of a transistor 6
-amplifier
+Vo = #12V
 
-(i) I nput resistance
+PeSew kQ
 
-(ii) Output resistance
-(iii) Current gain
+Cy
+bs AC output
 
-(iv) Effective load current
-
-b A transistor is connected in common emitter configuration in which collector supply 6
-voltage is 8 volt and the voltage drop across resistance Rc is connected in the collector
-circuit is 0.5 volt.The value of Rc =800 ohm .If a =e 96, determine
-(i) Collector emitter voltag e
-Gi) Base current to
-
-\/3)
-
-Ye
+* Bye = 50
 --- page 2 ---
-Q4
+Q.4B] Explain the construction and working of EMOSFET. [10]
+Q.5A] Draw a neat diagram of Schottky Diode and explain the construction, working, advantages,
 
-Q5
+disadvantages and applications. [10]
 
-Q6
+Q.5B] Explain collector to base bias circuit for BJT. [10]
 
-Q7
+Q.6A] Distinguish between Hartley and Colpitts Oscillator. [10]
 
-a
+Q.6B] With neat diagram explain the construction and working of n channel JFET. [10]
+[20]
 
-b
+Q.7] Write short notes (Any four)
 
-Explain various types of JFET & explain any one along with its working.
+a. Class A and Class AB amplifier
+b. Early Effect
 
-Ing self bias n channel JFET, the operating point is to be set at Ip =1.5 mA and Vps=10
-V.The JFET parameters are I pss=5mA and Vp=-2V Find the value of Rs & Rp. Given that
+c. Photodiode
 
-Vpp=20V. Vop > Dov
+d. CB configuration
 
-Rp
-Vip
+e. Transistor as a switch
 
-RS ' ne oy.
-i ly
+K————oorr
+````
 
-Explain the DC bias operation of series fed class A Amplifier.
+## 2014-15 · Re-Exam · Sem 2 · paper 0f4a1fca08d1
 
-Explain impedance transformation.
-What transformer turns ratio is required to match 1 16 —-ohm speaker load so that the
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic Electronics (Batch 2013-14) Re Exam.pdf`
+- Printed on paper: exam date: 01/07/2015
+- Text: ocr (2 pages), mean OCR confidence 89.4
 
-effective load resistance seen at the primary is 10 kohm?
-Construct Colpitt’s Oscillator & explain its working.
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-What are the limitations of LC & RC Oscillators.Draw & explain the equivalent circuit of
-Quartz Crystal.
+Programme: MBA Tech (ALL STREAMS) Year: I
 
-Explain the operation of Push Pull Power Amplifier with the help of circuit diagram
+Semester: II
 
-Explain voltage divider bias configuration of a Transistor with the help of circuit diagram.
+Academic Year: 2014-15
+Batch: 2013-14
 
-ea OS
+Subject : Basic Electronics
 
-6
+Date : 01/07/2015
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the answer book, which is provided for their use.
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1] Attempt any four [20]
+a. Explain zener and avalanche mechanism.
+b. Explain Base Width Modulation.
+c. Explain transconductance, amplification factor and pinch-off voltage
+d. Derive the relation between a and B.
+e. What is an oscillator? State and explain Barkhausen criteria.
+
+Q.2A] Compare CB, CE and CC configuration. [10]
+Q.2B] Draw and Explain the construction and working of D MOSFET [10]
+Q.3A] Draw and explain RC phase shift oscillator. [10]
+Q.3B] For the following circuit, calculate le, Ic, Ib and Vce. Draw DC
+load line and indicate Q point on it. [10]
+45N
+
+|
+
+2 500
+
+ee
++ 3
+Ss Pos
+Q.4A] Compare BJT and JFET. [10]
+Q.4B] Draw and Explain drain and transfer characteristic of JFET. [10]
+
+a/2
+--- page 2 ---
+Q.5A] Why filters are needed in power supply? Describe capacitor filter with half wave
+
+rectifier. [10]
+Q.5B] For the bridge rectifier shown, find Idc, Irms, Vde, Vrms across the load and PIV rating
+of the diode ma ff [10]
+
+: 5.4
+
+Kr | i.
+
+a im} 2
+
+fe
+
+230V S1ié
+
+50v, 3c
+
+Q.6 A] Draw and explain Hartley oscillator circuit. [10]
+
+Q.6 B] What is the difference in power amplifier and voltage amplifier? Describe the working
+
+of complementary symmetry push pull amplifier. [10]
+
+Q.7 Write short notes on the following [20]
+a) Cross over distortion
+
+b) Photodiode
+c) Thermal runaway
+d) Clipper circuit.
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper 3d2c3a7c737c
@@ -4632,6 +5591,7 @@ ea OS
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic Electronics Batch (2014-15) Re Exam.pdf`
 - Printed on paper: max marks: 60; exam date: 01/07/2015
 - Text: ocr (2 pages), mean OCR confidence 89.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4682,7 +5642,6 @@ LED compare to that of 6 Volt Diode.
 
 tov : He
 
-1.3Kohm White Vo2 Wzi=6V Voi Si V2=3.3V
 
 Question 2 a Explain the working of Full Wave Bridge Rectifier with the help of circuit ot
 diagram.Also state its advantages, disadvantages & applications. ail,
@@ -4730,159 +5689,6 @@ Early effect in Transistor
 CLC Filter
 
 Voltage Amplifier
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper d940959b0016
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic Electronics Batch 2014-15 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11/05/2016
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year:I Semester: II
-Academic Year: 2015-16 U ‘$ ‘
-Batch: 2014-15 5
-Subject: Basic Electronics Marks: 60 t. Ss ‘
-Time: 10.00 am ~ 1.00 § pm
-Date: 11/05/2016 Duration: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Q.1 Attempt any three [12]
-a. Explain working of colpitts oscillator
-b. Explain forward and reverses characteristics of PN junction diode.
-c. Explain operation of clipper circuit.
-d. Explain operation full wave rectifier with circuit diagram and waveform..
-
-Q.2 A] Explain the operation of DMOSFET. [06]
-Q.2 B] Explain schottky diode. [06]
-Q.3 A] Explain base width modulation in BJT. [06]
-Q.3 B] Explain piece-wise linear model of diode. [06]
-Q.4 A] Explain RC phase shift oscillator. [06]
-Q.4 B] Explain class A power amplifier with circuit diagram. {06]
-Q.5 A] Sketch and explain the working of JFET. [06]
-Q.5 B] Explain the working of half wave rectifier with waveforms and derive the expression [06]
-for output voltage.
-Q.6 A] Derive the relation o=$/(1+) in case of BJT [06]
-Q.6 B]. Design a collector to base bias circuit using silicon transistor having he-=100, Vec=12V and
-de bias conditions are Vce= 6V, Ic= 3mA, Vpr=0.7V. [06]
-VA
---- page 2 ---
-Q.7 Write short note on any three. [12]
-a. Difference between voltage and power amplifier
-b. Wien-bridge Oscillator
-c. Half wave rectifier with capacitor filter
-d. Transistor as a switch
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 90b86b673984
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic Electronics Batch 2014-15 Re Exam_90b86b6739.pdf`
-- Printed on paper: exam date: 02 July 2016
-- Text: ocr (2 pages), mean OCR confidence 89.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-G72 & me,
-Programme: MBA Tech (All Streams) Year: I “Se eter! Tey
-Academic Year: 2015-16 a Ve
-
-Batch: 2014-15 :
-Subject: Basic Electronics.
-
-Date: 02 July 2016 -
-, Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-‘ 5) Answer to each new question to be started on a fresh page. '
-6) Figures. in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.1 Attempt any three of the following. Each question carries 4 marks- {12]
-
-A) With the help of suitable diagram describe the working and characteristics of
-photodiode.
-B) Give comparison between BJT and FET.
-
-C) Define alpha (a) and beta (f) for a transistor. Calculate the values of B and Ic
-with a = 0.99 and Ip= 50 WA.
-
-D) Describe Barkhausen criterion of oscillator.
-
-Q2 A) Explain the working of capacitor filter with center tapped full wave rectifier. [6]
-
-B) Exlain how n-p-n transistor works and with neat circuit diagram explain [6]
-working of transistor as a switch.
-
-Q.3 A) With the help of neat diagram describe the construction, working and [6]
-characteristics of n-channel enhancement type MOSFET.
-B) Determine range of values of Vj that will maintain the zener diode inthe ON [6]
-state. (V=25 V, Iz max = 25 mA)
-
-Yo.
---- page 2 ---
-200 2
-
-—W
-i @) V,= ae = _
-
-Q.4 A) For the circuit network shown determine Iga, Ica, Vczqand stability factor. [6]
-Draw DC load line and comment on region of operation. (B = 100)
-
-12V
-950 KQ 5KO
-B) Describe CB configuration of BJT along with its input and output [6]
-characteristics.
-Q.5 A) Define JFET parameters and obtain relation between them. [6]
-B) Explain working of positive and negative bias parallel clipper using diode. [6]
-
-Q.6 A) What is the difference in power amplifier and voltage amplifier? Describe the [6]
-working of complementary symmetry push pull amplifier.
-B) What is an oscillator? Draw and explain colpitts oscillator circuit. [6]
-
-Q.7 A) Write short note on following. (any three) [12]
-
-a) Circuit operation of Phase shift Oscillator,
-pee b) Thermal runaway
-
-c) Cross-over distortion
-
-d) Effect of temperature on diode characteristics
 ````
 
 ## 2013-14 · Exam not stated · Sem 2 · paper 5022edd851db
@@ -5003,6 +5809,7 @@ d. Colpitt’s oscillator
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS ALL STREAMS 2013-14 FINAL EXAM.pdf`
 - Printed on paper: exam date: 10/05/2014
 - Text: ocr (2 pages), mean OCR confidence 85.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5099,7 +5906,6 @@ Q.6 A) Determine IDQ, VGSQ and VDSQ for the amplifier circuit shown below. {10}
 joVv
 
 Toss = Sma
-ao ME a Ve os ~4-V
 Vig Cot
 iM (kK
 
@@ -5125,6 +5931,7 @@ D) Crystal oscillator
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS ALL STREAMS BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: exam date: 02/07/2014
 - Text: ocr (2 pages), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5183,7 +5990,6 @@ filter with half wave rectifier.
 
 Q.3 | A)_ | Describe positive and negative shunt clipper using diode. (10M)
 B) | Determine the range of input for a zener regulator circuit (6M)
-having Rs=1kQ,Vz=5V,Ri=1kQ,IZmin=2mMA, [Zmax=20MA
 C) | A JFET has the following parameters: Ipss=32mA, (4M)
 Vp= -8V.Vas= -4.5V- Find the value of drain current
 
@@ -5215,306 +6021,93 @@ explain how it eliminates cross over distortion.
 Xx XK
 ````
 
-## 2013-14 · Re-Exam · Sem 2 · paper ccaa27019ac6
+## 2013-14 · Re-Exam · Trim 2 · paper 370d4fd38599
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS ALL STREAMS BATCH 2013-14 RE EXAM_ccaa27019a.pdf`
-- Printed on paper: exam date: 02 July 2016
-- Text: ocr (2 pages), mean OCR confidence 84.2
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONIC BATCH 2009-10,10-11,11-12 RE EXAM0001 (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 23/06/2014
+- Text: ocr (2 pages), mean OCR confidence 85.9
 
 ````text
-=>
+SVKM’s NMIMS =~
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & eked vennins us B
 
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+. LIBRARW
+Programme: B. Tech (ALL STREAMS) Year: I Trimester: II _
+Batch : 2009-10/10-11/11-12 : rer ®
+Academic Year: 2013-2014 Ne
+Subject : Basic Electronics ~
+Marks: 100
+Date : 23/06/2014 Time: 10.00 am to 1.00 pm
 
-Programme: B.Tech (All Streams) Year: I‘ Semester: II
-
-Academic Year: 2015-16
-Batch: 2013-14
-
-Subject: Basic Electronics
-
-Date: 02 July 2016
-
+Durations: 3 (hrs)
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their use.
-
-I. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicates full marks.
-
-7. Illustrate your answers with neat labelled diagram wherever necessary.
-
-2
-Q.1 Attempt any four questions out of five questions. Each
-question carries five Marks. (20M)
-A) _| Differentiate between a voltage and power amplifiers ;
-B) | With the help of construction, explain the working light emitting
-diode.
-C)_| Differentiate between intrinsic extrinsic semiconductor.
-. . . + + . —
-D)_| Explain principle of sustained oscillations.
-
-E) | Compare BJT with JFET.
-
-Q.2 | A) | With neat circuit diagram explain the Operation of bridge | (10M)
-rectifier. Derive an expression its efficiency.
-B) | With circuit, diagram and waveform give the classification of | (10M)
-clipper with’ its working,
-
-Q.3_ | A) _| Explain the reason behind the amplification action of transistor | (6M)
-B) Determine the Qppint of circuit shown below:
-Tt
-
-Woem LY (10M)
-
-RerAeles
-Ut Peevey
-p-14o Rye garry
-fe AO
-= ua
-2 oa grty Ce = Ce ~LoM 5
-= ye Cer Sply
-C)__| Compare zener diode and PN junction diode. (4M)
-Q.4 | A) | Explain construction and working of n channel depletion | (10M)
-
-MOSFET.
-
-Vo
---- page 2 ---
-B) | For the circuit shown find Id and Ves.
-Lov
-Ip ae
-
-(10M)
-
-— a4
-
-Epsyo BM A
-“Ge —6V
-
-Q.5 | A) Define JFET parameters; And establish the relationship | (10M)
-between them,
-B) | Explain how Transistor can used as NOT gate. (10M)
-Q.6 | A) Describe CB configuration of BJT along with its input and | (10M)
-output characteristics.
-B) Discuss the circuit operation of Wien bridge oscillator, (10M)
-Q.7 | A) | What is oscill
-
-ator? Discuss the circuit Operation of Hartley (10M)
-oscillator, "
-
-B) What is thermal run way?
-
-(05M)
-
-C) | What do you understand by class A, cl
-
-ass B and class C power | (05M)
-amplifiers?
-
-2)o
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper 643439e2f99a
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS) BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 09/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Semester: Il
-Batch: 2013-14 Oa
-i * = aye EOP
-Academic Year: 2014-2015 sa LG LIN
-| Subject: Basic Electronics “Sf ~ bi ’
-Marks: : &¢ 100? 5743
-Date: 09/05/2015 Time: \ Bc 10:00'am ito¥1. gpm
-Duration ® ears) 7
-© ia ri VW,
-yan
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer books, which is Provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1. Question No. 1 is compulsory
+1) Question No. 01 is compulsory.
 
-2. Out of remaining questions, attempt any 4 questions
+2) Out of remaining questions, attempt any 04 questions.
 
-3. In all 5 questions to be attempted.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-1. Attempt any four questions of the following:- [20]
-(a) Explain the significance of dc or static forward resistance & ac or dynamic
-resistance of the diode
-(b) Why it is necessary to bias a transistor to be used for linear amplification.
-(c) What are important de and ac data sheet specifications for JFETs?
-(d) State Barkhausen criterion for oscillations to be sustained.
-(e) Why power amplifier is called a large signal amplifier? Explain it briefly.
-
-2 (a). A full wave rectifier circuit is powered by ac mains. Power transformer hasa_ [10]
-center-tapped secondary. RMS secondary voltage across each half of secondary
-is 20 V. The de winding resistance of each half of secondary is 5Q. Forward
-resistance of diode is 2 Q. If the equivalent load resistance is 50 Q, calculate
-(i) DC power delivered to load (ii) % load regulation (iii)Efficiency of rectification
-(iv) TUF of secondary.
-(b). Explain the working of a full wave rectifier having capacitor input filter. [10]
-Write formula for the ripple factor. Plot the waveforms for input and output.
-
-3. (a). What are different BJT biasing arrangements used for small signal [12]
-amplification? Compare their performance.
-
-(b) Sketch V-I characteristics of an NPN transistor in common emitter operation [08]
-and indicate the different regions of importance.
-
-4 (a). Draw circuit diagram of a common source JFET amplifier and explain its [10]
-— working.
-(b) Define the following terms in case of JFET (i) The Pinch-off voltage [10]
-
-(ii) Channel ohmic region (iii) Drain Resistance (iv) Transconductance
-
-4/2.
---- page 2 ---
-5. (a) How do you classify the power amplifiers ? Compare class-A, class-B, and [10]
-Class-c amplifiers.
-
-(b) With a neat circuit diagram, explain the principle of operation of a push-pull [10]
-Amplifier circuit using transistor.
-
-6 (a) With a neat circuit diagram, explain the principle of operation of a RC phase- [10]
-shift oscillator using transistor.
-(b) Compare half wave, center tapped full wave & bridge rectifier circuits. [10]
-
-7. Write short notes on following (Any four) [20]
-(a) Clampers Circuits
-(b) Photo Diode
-(c) Crystal Oscillator
-(d) Zener diode as voltage regulator
-(e) BJT as a swith application
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper 6af367423eec
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 01/07/2015
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-SVKM’s NMIMS a
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Semester: II
-
-Batch: 2013-14
-Academic Year: 2014-2015... 33 oe,
-
-Subject: Basic Electronics ! . »\,
-Marks: qT 10,
-Date: 01/07/2015 Ui Time: ~ 10.00. am to 1.00 pm
-‘\* Durations: —3,(fits)
-te os
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
+3) In all 05 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
 
-Q.1 Attempt any four of the following. Each question carries 5 marks. [20]
-A) Describe the effect of temperature on diode characteristics.
-B) Give comparison between BJT and FET
+1 a Explain the need of filter in the rectifier circuit? Explain the role of inductor and {05]
+capacitor in the filter circuit.
+b © Explain what is a and B parameter of a transistor. Give the relation between the two [05]
 
-C) Define alpha (a) and beta (§) for a transistor. Calculate the values of B, Ic and
-le with a = 0.99 and Ip= 50 WA.
+parameters.
+c Explain thermal runaway in transistor. ; [05]
+d Draw and explain the importance of zener diode, its characteristics and equivalent [05]
+circuit.
+2 a Draw the circuit diagram and explain the working of a Bridge recifier. With diagram {10]
+explain the use of capacitor filter in a bridge rectifier.
+b Determine the quiescent currents and the collector to emitter voltage for a silicon [10]
 
-D) Describe the construction and working of LED.
-
-E) Explain transconductance, amplification factor and pinch-off voltage.
-
-Q.2 A) Why filters are needed in power supply? Describe capacitor filter with bridge [10]
-
-rectifier.
-B) With neat circuit diagram explain working of transistor as an amplifier. [10]
-Q.3 A) With the help of neat diagram describe the construction; working and [10]
-characteristics of depletion type MOSFET.
-B) Determine the range of Ry and I, that will result in V_ being maintained at 10 [6]
-
-V. Also determine maximum wattage rating of the diode. (Rs= 1.5 kQ, V,=
-10 V, Iz max = 20 mA, Vi = 60 V)
-
-4/2.
+transistor with £ = 60 in the self-biasing arrangement of figure. The circuit component
+values are Vcc = 20 V, Rc = 2 KO, R, = 100 KQ, R, = 0.1 KO, Rp =5.KQ.
 --- page 2 ---
-1.5 kQ
+a With circuit diagram and waveforms the working of a positive clamper circuit [10]
+b Find the output voltage Vo and plot the same for the clipper circuit shown in figure [10]
+below (voltage drop across diode = 0.7V). :
 
-——\\"'\/
++ e AA, Teva
+QV pager
+D4 Dy ;
+\i n sv = = Vv b
+soy TF
+ox + + ed
+a Explain the input and output characteristics showing different regions of operation [10]
+
+for a BJT in CE mode.
+b Explain the need of biasing a BJT .Draw and expain the base biasing method foraBJT. [10]
+
+a __ Explain with suitable diagram the construction, working and drain characteristics of N [10]
+channel Depletion MOSFET.
+
+b With neat diagram explain the working of a FET amplifier. [10]
+a Explain the construction and working of VMOS. (10]
+b Calculate the Voc, /pc, Vrms), pms through a 1 KQ load connected to a half-wave [10]
+
+rectifier circuit shown in figure.
+
+nal
+
 +
-°° VW) v, = 10 e
-
-C) Describe piecewise linear model of diode. [4]
-Q.4 A) For the circuit shown in figure determine Ica, Vega, Ve, Ve and stability [10]
-factor.
-
-B) Discuss frequency response of BJT CE amplifier. [10]
-
-Q.5 A) Describe CE configuration of BJT along with its input and output [10]
-characteristics.
-
-B) Explain positive and negative bias clamper using diode. [10]
-
-Q.6 A) What is an oscillator? Draw and explain Hartley oscillator circuit. [10]
-
-B) What is the difference in power amplifier and voltage amplifier? Describe the [10]
-working of complementary symmetry push pull amplifier.
-
-Q.7 Write short note on following. [20]
-a) Crystal Oscillator,
-
-b) Cross-over distortion
-
-c) Base width modulation ,
-
-d) Drain and transfer characteristics of n-channel JFET
-
-2/2
+|
+230 V | K
+a What is acontrolled rectifier. With neat circuit diagram explain the working of {10]
+controlled full wave rectifier.
+b Draw and explain the construction and working of a SCR. [10]
+i x
 ````
 
 ## 2013-14 · Re-Exam · Trim 2 · paper bfcfa5c455a8
@@ -5615,6 +6208,7 @@ temperature and Bdc.
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS (ALL), B TECH 2013-14 RE EXAM BATCH 2012-13.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16/12/2013
 - Text: ocr (2 pages), mean OCR confidence 80.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5743,7 +6337,6 @@ Silicon Controlled Rectifier (Construction, Working, Characteristic,
 
 Applications)
 
-HE EE Ro 2 2 aK oo Ro KOR OR OK
 
 2)2
 ````
@@ -5866,129 +6459,138 @@ _)
 3} 5,
 ````
 
-## 2013-14 · Re-Exam · Sem 2 · paper bb78b5ab41cf
+## 2013-14 · Re-Exam · Trim 2 · paper eba3a5575637
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/05/2015
-- Text: ocr (2 pages), mean OCR confidence 90.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 /12/2013
+- Text: ocr (2 pages), mean OCR confidence 91.4
 
 ````text
-SVKM’s NMIMS
+SVKM’s NMIMS a \a
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (All Streams) Year: I Semester: II
+7.
 
-Academic Year: 2014-2015
-Batch: 2013-14
+Programme:MBA Tech (ALL) Year: I
 
-Subject: Basic Electronics Marks: 100
-Time: 2.00 pm to 5.00 pm
-Date: 09/05/2015 Durations: 3 (hrs)
-Re-Examination
+\.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the answer book, which is provided for their use.
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1] Attempt any four [20]
-a. What is Thermal Runaway?
-b. Explain clipper circuit.
-c. Explain zener and avalanche mechanism.
-d. Derive the relationship between a and B.
-e. What is an oscillator? State and explain Barkhausen criteria.
-
-Q.2A] Why zener diode is used for voltage regulation? Explain zener diode acting as a voltage
-Regulator. [10]
-Q.2B] In a center tapped full wave rectifier, the rms half secondary voltage is 9V. Assuming ideal
-diodes and load resistance Ry= 1KQ., find: [10]
-i. Peak current
-ii. DC load line
-iii. | RMS current
-iv. Ripple factor
-v. Efficiency
-
-Q.3A] Draw and explain full wave rectifier circuits with waveforms. [10]
-Q.3B] Explain the circuit for fixed biasing in JFET. [10]
-Q.4A] Determine the following for the fixed bias configuration of figure shown Ciey
-a. Inq & Ico b. Veeo
-c. Vga &Ve d. Vgc
-
-Vo = #12V
-
-PeSew kQ
-
-Cy
-bs AC output
-
-* Bye = 50
---- page 2 ---
-Q.4B] Explain the construction and working of EMOSFET. [10]
-Q.5A] Draw a neat diagram of Schottky Diode and explain the construction, working, advantages,
-
-disadvantages and applications. [10]
-
-Q.5B] Explain collector to base bias circuit for BJT. [10]
-
-Q.6A] Distinguish between Hartley and Colpitts Oscillator. [10]
-
-Q.6B] With neat diagram explain the construction and working of n channel JFET. [10]
-[20]
-
-Q.7] Write short notes (Any four)
-
-a. Class A and Class AB amplifier
-b. Early Effect
-
-c. Photodiode
-
-d. CB configuration
-
-e. Transistor as a switch
-
-K————oorr
-````
-
-## 2013-14 · Re-Exam · Sem 2 · paper 0f4a1fca08d1
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/BASIC ELECTRONICS/Basic Electronics (Batch 2013-14) Re Exam.pdf`
-- Printed on paper: exam date: 01/07/2015
-- Text: ocr (2 pages), mean OCR confidence 89.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: I
-
-Semester: II
-
-Academic Year: 2014-15
-Batch: 2013-14
+Academic Year: 2013-14
 
 Subject : Basic Electronics
 
-Date : 01/07/2015
+Marks:100
+Date :13 /12/2013 Time : 10.00 am to 1.00 pm
+Durations:3 (hrs)
 Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All question carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicates full marks.
+7. Illustrate your answers with neat labelled diagram wherever necessary.
+
+Q-1 Attempt any Four questions (20)
+
+(a) Draw and Explain Photodiode?
+
+(b) Define o. and B? Derive the relation between the two?
+(c) Explain PN junction diode?
+
+(d) Compare BJT and FET?
+
+Q-2
+
+(a) Draw and explain TRIAC w.r.t. construction, characteristics and different modes of
+
+operation? (10)
+(b) Explain the construction, working and characteristics of n channel JFET? (10)
+
+Q-3
+(a) Explain full wave Bridge rectifier with LC filter ? (10)
+
+(b) Explain the construction, working and characteristics of n-channel depletion MOSFET ?
+
+(10)
+
+Yo
+--- page 2 ---
+Q-4
+(a) For the voltage divider configuration circuit given below, Determine Vp, Ip and Ip?
+(Given: Vee =15V, R}=35k, Ro=35k, Re=0.5k, B = 110 and BIT is silicon)
+
+(10)
+We
+= R, = Re
+
+(b) Explain with the help of block diagram the process of amplification. How does a BJT
+
+operates as an amplifier? (10)
+Q-5
+(a) Describe the similarities and dissimilarities and dissimilarities in the operation of PNP
+and NPN transistor? ; (10)
+(b) Explain line regulation and load regulation for a Zener diode ? (10)
+Q-6.
+(a) Explain transistor as switch? (5)
+(b) What is rectifier efficiency ? Find the same for HWR and FWR? (5)
+(c) What is Q-point stabilization? Explain thermal runaway? (10)
+Q-7 Write Short Notes on: (20)
+(a) DIAC
+
+(b) Class B power amplifier
+(c) Schottky Barrier diode
+(d) Concept of Feedback
+
+x —
+
+2/9
+````
+
+## 2013-14 · Re-Exam · Trim 2 · paper b8282af5e489
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2011-12,2012-13 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2014
+- Text: ocr (1 page), mean OCR confidence 87.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT eas
+Zs ONT
+
+a, ,
+
+Programme: MBA Tech (ALL STREAMS) Year: I mester: IN, \ -
+wi’ MPSTMB )%
+
+Academic Year: 2013-14 Batch : 2011-1 Burners RY & } j
+. Ss
+. ' : \ we C)
+Subject : Basic Electronics » Nippon AN
+
+Marks: 100 lS UNE SZ
+Date : 20/06/2014 Time : 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+Re - Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on
 the cover of the answer book, which is provided for their use.
-NB:
+NB:,
 
 1. Question No.1 is compulsory.
 
@@ -6002,62 +6604,155 @@ NB:
 
 6. Figures in brackets on the right hand side indicate full marks.
 
-Q.1] Attempt any four [20]
-a. Explain zener and avalanche mechanism.
-b. Explain Base Width Modulation.
-c. Explain transconductance, amplification factor and pinch-off voltage
-d. Derive the relation between a and B.
-e. What is an oscillator? State and explain Barkhausen criteria.
+Q.1 Attempt any four. [20]
+a. Explain thermal runaway.
+b. Derive the relationship between a and B.
+c. What is base width modulation?
+d. Explain class B and class AB amplifier.
+e. Draw neat diagram and waveform of centre tapped FWR. Explain why its PIV rating
 
-Q.2A] Compare CB, CE and CC configuration. [10]
-Q.2B] Draw and Explain the construction and working of D MOSFET [10]
-Q.3A] Draw and explain RC phase shift oscillator. [10]
-Q.3B] For the following circuit, calculate le, Ic, Ib and Vce. Draw DC
-load line and indicate Q point on it. [10]
-45N
+is 2Vm.
+Q.2.a What are filters? And what role they play, also with a neat diagram and [10}
+waveform explain the working of LC filter and x filter.
+Q.2.b Draw and explain construction and working of LCD. State its advantages and [10]
+disadvantanges.
+Q.3.a With a neat diagram draw and explain drain and transfer characteristics of [10]
+JFET he construction and working of JFET.
+Q.3.b Write short note on different types of feedback. [10]
+Q.4.a Explain construction and working of triac. Explain different modes. [10]
+Q.4.b Compare CB, CE and CC configuration. [10]
+Q.5.a With neat diagram and waveform explain UJT as relaxation oscillator. [10]
+Q.5.b Draw and explain transformer coupled amplifier. . [10]
 
-|
+Q.6.a Draw and explain the construction, characteristics and application of Schottky [10]
 
-2 500
+diode.
+Q.6.6 What are regulators? Explain different types of regulation. [10]
+Q.7.a Explain Seven segment display. [10]
+Q.7.b Explain Voltage divider bias circuit. [10]
 
-ee
-+ 3
-Ss Pos
-Q.4A] Compare BJT and JFET. [10]
-Q.4B] Draw and Explain drain and transfer characteristic of JFET. [10]
+* ~
+````
 
-a/2
+## 2013-14 · Re-Exam · Trim 2 · paper 4da0089f2d05
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 /12/2013
+- Text: ocr (2 pages), mean OCR confidence 88.7
+
+````text
+ne
+
++ BAR.
+Sm»
+
+SVKM’s NMIMS ew <y,
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &* ENGINEERING
+
+Programme:MBA Tech (ALL) Year: | Trimester: II
+Academic Year: 2013-14 Batch:2012-13
+Subject : Basic Electronics
+Marks: 100
+Date :13 /12/2013 Time : 10.00 am to 1.00 pm
+
+Durations:3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the answer book, which is provided for their use.
+NB:
+
+1. Question No. | is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. Inall five questions to be attempted.
+
+4. All questions carry equal marks. —
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Ql Compare following by stating any Three important points: (ANY FOUR.) (20)
+a) LED and LCD.
+b) BJT and FET.
+c) Positive feedback and Negative feedback.
+d) RC coupled amplifier and Transistor Coupled amplifier.
+e) Capacitor Filter and CLC Filter.
+
+Q.2 a) Differentiate CE, CB, CC configuration of BJT amplifier. (15)
+b) State ONE application of following diodes: (05)
+i. PN Junction diode
+ii. Zener diode
+iii. Photodiode
+iv. LASER diode
+
+v. LED
+3a) With neat diagram explain construction and working of NPN transistor. (08)
+b) Define four classes of power amplifier and draw respective output current (06)
+waveform.
+c) Explain DIAC. (06)
+
+Q4 a) With the help of circuit diagram and waveform explain UJT relaxation (10)
+
+oscillator.
+b) Draw zener voltage regulator. Explain how does it regulate the output voltage (10)
+
+Page 1 of 2
 --- page 2 ---
-Q.5A] Why filters are needed in power supply? Describe capacitor filter with half wave
+Q.5
 
-rectifier. [10]
-Q.5B] For the bridge rectifier shown, find Idc, Irms, Vde, Vrms across the load and PIV rating
-of the diode ma ff [10]
+Q.6
 
-: 5.4
+Q.7
 
-Kr | i.
+a)
+b)
 
-a im} 2
+a)
+b)
 
-fe
+a)
+b)
+c)
 
-230V S1ié
+with respect to change in ® a) Input Voltage V; b) Output Current I.
 
-50v, 3c
+Explain construction and working of JFET. Also draw transfer and drain (12)
+characteristic for JFET. State current equation.
 
-Q.6 A] Draw and explain Hartley oscillator circuit. [10]
+Explain Center-tapped Full Wave Rectifier with the help of circuit diagram and (08)
+waveform.
 
-Q.6 B] What is the difference in power amplifier and voltage amplifier? Describe the working
+Explain energy band structure of open circuited PN junction diode. Hence (12)
+derive the expression for contact potential.
+A half wave rectifier, having a resistive load of 1KQ, rectifies an alternating (08)
+voltage of 325V peak value. The diode has forward resistance of 100Q.
+Calculate:
+i. peak value of current
+ii. average value of current
+iii. rms value of current
+iv. d.c. power output
+v. ac input power
+vi. efficiency of the rectifier
 
-of complementary symmetry push pull amplifier. [10]
+Explain following devices with respect to the points given in bracket. (ANY (20)
 
-Q.7 Write short notes on the following [20]
-a) Cross over distortion
+TWO)
 
-b) Photodiode
-c) Thermal runaway
-d) Clipper circuit.
+Phototransistor (Construction, Symbol, Working, Characteristic, Application)
+TRIAC (Construction, Symbol, Working, Characteristic, Application)
+
+UJT (Structure, Symbol, Equivalent circuit, Working, Input Characteristic,
+
+Application)
+
+2g 2 2 a oi 2c oe 9k 2 2s 2 2 ke ae a ois 2 2 ee 2 2 2 ok
+
+Page 2 of 2
 ````
 
 ## 2012-13 · Exam not stated · Trim 2 · paper bfdcd820f34f
@@ -6207,6 +6902,142 @@ c. Depletion MOSFET: Construction and working
 >a
 ````
 
+## 2012-13 · Re-Exam · Trim 2 · paper 12e2471352f2
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/Basic Electronics BATCH 2011-2012 RE EXAM scan0022.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/02/2013
+- Text: ocr (3 pages), mean OCR confidence 83.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & En
+
+Programme: B-Tech - All Streams Year: I Trimester: II
+Academic Year: 2012-2013
+
+NA
+MPSTMB )4
+
+—_
+CIBRARY 1g
+~
+Cra
+
+Batch: QO\\- Qe}. oo
+Subject: Basic Electronics _ Marks: 100 —
+
+Time: 2.00 pm To 5.00pm
+Date: 11/02/2013" Duration: 3 hrs.
+
+Re - Examination .
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Attempt any Five Questions.
+2. All Questions carry equal Marks.
+3. Answer to each new question to be started on a fresh page.
+4. Figures in brackets on the right hand side indicate full marks.
+
+Q1. Answer any Four of the following:
+(a)Draw V-I characteristics of zener diode and indicate operating region and explain (5)
+how to obtain value of Rz.
+
+(b) Compare common emitter amplifier and common base amplifier using BJT (5)
+(c) Draw typical transfer characteristics for
+
+(i) JFET and for (ii) MOSFET (enhancement type). Give typical values. (5)
+(d) Can SCR be used to amplify sinewave signal? Explain your answer. (5)
+
+(e) Why input protection is required for MOSFET? How the protection is provided? (5)
+
+Q2.
+(a) For half wave single phase rectifier with load Ri draw output voltage waveform, derive
+equation for average d.c output voltage, and rectifier efficiency. (10)
+
+(b) Sketch the output voltage waveform for circuit shown below. Assume ideal diodes. - (5)
+
+1K
+Vr 4 Wi ~—<
+. Ay a i = DADP2 Vo
+1K Fk, sy Lay
+30Vo_p 2 Toa,
+PoP ® +f,
+50 Hz =
+(c) Sketch the output voltage waveform for the circuit shown below. Assume ideal diodes.
+: Give function of resistance R. (5)
+Va DAF a
+ae o— - Vv
+20 Vip ~f7
+1KHaz e—
+
+Page 1 of 3
+--- page 2 ---
+4
+
+ba
+
+Q3)
+(a) Determine the dc bias voltage Vce and current J. for the amplifier circuit shown below. Draw dc
+load line and indicate the Q-point. (10)
+Lge $12
+[Mn SK
+|»
+4 TB Ve
+“a f= 100
+IK ~ eV
+"3 Vee = Ore ¥.
+(b) Explain working of BJT as switch. Compare it with mechanical switch. (5)
+(c) Draw circuit diagram of voltage doubler and explain its working. (5)
+Q4)
+(a) Find dc bias voltage Ves and current Ips for MOSFET circuit show below. Draw the dc load line
+and indicate Q-point. (10)
+4 +1SV
+
+27 KS aif “ MOSFET — nchanneR enhancement He ;
+. Dn . y
+a= pA Vy ~ 4- V.
+Z
+
+lok Ka! mA
+© ye
+(b) For JFET if Vp= -4 V., Inss= 16mA, and Ips=4 mA. Determine tranconductance gm (5)
+(c) Find Vomax and Vominat the output of circuit shown below. ~ , 6)
+
+Vin gt wwe Yo ;
++ 18 To 22. =5K
+
+Page 2 of 3
+--- page 3 ---
+Qs)
+(a) Find A+, Ri and R, for potential divider bias configuration of BJT using approximate
+h- parameter model. (10)
+
+(b) A full wave single phase bridge rectifier operates on 250 V, 50 Hz supply with step down
+transformer having ratio of 5:1 and load resistance 100 ohms. If transformer secondary
+winding resistance is 10 ohms and diode forward voltage drop is 0.7 V. Determine output d.c.
+voltage. (Neglect primary winding resistance and diode resistance). (5)
+
+(c) Draw V-I characteristics of SCR and explain effect of variation in gate to cathode current on the
+
+characteristics. (5)
+Q6) Write short notes onany-three {| (ou x (20)
+(a) Schottky diode .
+
+(b) Photodiode
+(c) LED
+
+(d) Temperature effect on BJT bias.
+
+
+Page 3 of 3
+````
+
 ## 2012-13 · Re-Exam · Trim 2 · paper 1e8068cfd6fd
 
 - Departments: Common (all branches)
@@ -6263,200 +7094,80 @@ c) Photodiode
 d) CC amplifier
 ````
 
-## 2012-13 · Re-Exam · Trim 2 · paper b8282af5e489
+## 2012-13 · Re-Exam · Trim 2 · paper 12dd533a7698
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2011-12,2012-13 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2014
-- Text: ocr (1 page), mean OCR confidence 87.0
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/BASIC ELECTRONICS II MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17/06/2013
+- Text: text (3 pages)
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT eas
-Zs ONT
-
-a, ,
-
-Programme: MBA Tech (ALL STREAMS) Year: I mester: IN, \ -
-wi’ MPSTMB )%
-
-Academic Year: 2013-14 Batch : 2011-1 Burners RY & } j
-. Ss
-. ' : \ we C)
-Subject : Basic Electronics » Nippon AN
-
-Marks: 100 lS UNE SZ
-Date : 20/06/2014 Time : 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
+SVKM's NMlMS
+Mukesh Pate1 School of Technolow Management & Engi
+Programme: MBA TECH - (ALL STREAMS)   Year:   I   Trimester:   I1
+Academic Year :2012-2013
+Batch:   2011-2012   b
+Subject:   Basic Electronics   Marks:   100
+Time:   10.00 am To 1.00 pm
+!   Date:   17/06/2013   Duration: 3 hrs.
 Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the answer book, which is provided for their use.
-NB:,
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 Attempt any four. [20]
-a. Explain thermal runaway.
-b. Derive the relationship between a and B.
-c. What is base width modulation?
-d. Explain class B and class AB amplifier.
-e. Draw neat diagram and waveform of centre tapped FWR. Explain why its PIV rating
-
-is 2Vm.
-Q.2.a What are filters? And what role they play, also with a neat diagram and [10}
-waveform explain the working of LC filter and x filter.
-Q.2.b Draw and explain construction and working of LCD. State its advantages and [10]
-disadvantanges.
-Q.3.a With a neat diagram draw and explain drain and transfer characteristics of [10]
-JFET he construction and working of JFET.
-Q.3.b Write short note on different types of feedback. [10]
-Q.4.a Explain construction and working of triac. Explain different modes. [10]
-Q.4.b Compare CB, CE and CC configuration. [10]
-Q.5.a With neat diagram and waveform explain UJT as relaxation oscillator. [10]
-Q.5.b Draw and explain transformer coupled amplifier. . [10]
-
-Q.6.a Draw and explain the construction, characteristics and application of Schottky [10]
-
-diode.
-Q.6.6 What are regulators? Explain different types of regulation. [10]
-Q.7.a Explain Seven segment display. [10]
-Q.7.b Explain Voltage divider bias circuit. [10]
-
-* ~
-````
-
-## 2012-13 · Re-Exam · Trim 2 · paper 4da0089f2d05
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 /12/2013
-- Text: ocr (2 pages), mean OCR confidence 88.7
-
-````text
-ne
-
-+ BAR.
-Sm»
-
-SVKM’s NMIMS ew <y,
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &* ENGINEERING
-
-Programme:MBA Tech (ALL) Year: | Trimester: II
-Academic Year: 2013-14 Batch:2012-13
-Subject : Basic Electronics
-Marks: 100
-Date :13 /12/2013 Time : 10.00 am to 1.00 pm
-
-Durations:3 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the answer book, which is provided for their use.
+Instructions: Candidates should read careklly the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 NB:
-
-1. Question No. | is compulsory.
-
+1. Qaestion No. 1is con?pulsory.
 2. Out of remaining questions, attempt any four questions.
-
-3. Inall five questions to be attempted.
-
-4. All questions carry equal marks. —
-
+3. In all 5 questions to be attempted.
+4. All question carry equal marks.
 5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Ql Compare following by stating any Three important points: (ANY FOUR.) (20)
-a) LED and LCD.
-b) BJT and FET.
-c) Positive feedback and Negative feedback.
-d) RC coupled amplifier and Transistor Coupled amplifier.
-e) Capacitor Filter and CLC Filter.
-
-Q.2 a) Differentiate CE, CB, CC configuration of BJT amplifier. (15)
-b) State ONE application of following diodes: (05)
-i. PN Junction diode
-ii. Zener diode
-iii. Photodiode
-iv. LASER diode
-
-v. LED
-3a) With neat diagram explain construction and working of NPN transistor. (08)
-b) Define four classes of power amplifier and draw respective output current (06)
-waveform.
-c) Explain DIAC. (06)
-
-Q4 a) With the help of circuit diagram and waveform explain UJT relaxation (10)
-
-oscillator.
-b) Draw zener voltage regulator. Explain how does it regulate the output voltage (10)
-
-Page 1 of 2
+6. Figure in brackets indicates 111marks.
+7.   Illustrate your answers with neat labelled diagram wherever necessary.
+Q-1   Attempt any Four questions
+(a) Explain the effect of temperature on
+(i). Reverse Saturation current
+(ii). Diode characteristics in forward bias.
+I   (b) Draw and Explain Photodiode?
+(c) Define a and 87 Derive the relation between the two?
+(d) Define PIV? what Ts the PIV of centre tap transformer, Explain?
+(e) Find the drain current and transconductance at VGS- -2V, ifIDSS=SmA, Vp-4V
+Q-2
+(a) Write a short note on UJT and explain how it is used as a relaxation Oscillator?   (10)
+@) What is thermal runaway? Explain any one method to minimize it   (06)
+(c) Differentiate BJT and FET?   (04)
+4-3
+(a) What is base width modulation? Explain hww it affects the output characteristics of CE
+amplifier with labeled diagram?   ki"l
 --- page 2 ---
-Q.5
-
-Q.6
-
-Q.7
-
-a)
-b)
-
-a)
-b)
-
-a)
-b)
-c)
-
-with respect to change in ® a) Input Voltage V; b) Output Current I.
-
-Explain construction and working of JFET. Also draw transfer and drain (12)
-characteristic for JFET. State current equation.
-
-Explain Center-tapped Full Wave Rectifier with the help of circuit diagram and (08)
-waveform.
-
-Explain energy band structure of open circuited PN junction diode. Hence (12)
-derive the expression for contact potential.
-A half wave rectifier, having a resistive load of 1KQ, rectifies an alternating (08)
-voltage of 325V peak value. The diode has forward resistance of 100Q.
-Calculate:
-i. peak value of current
-ii. average value of current
-iii. rms value of current
-iv. d.c. power output
-v. ac input power
-vi. efficiency of the rectifier
-
-Explain following devices with respect to the points given in bracket. (ANY (20)
-
-TWO)
-
-Phototransistor (Construction, Symbol, Working, Characteristic, Application)
-TRIAC (Construction, Symbol, Working, Characteristic, Application)
-
-UJT (Structure, Symbol, Equivalent circuit, Working, Input Characteristic,
-
-Application)
-
-2g 2 2 a oi 2c oe 9k 2 2s 2 2 ke ae a ois 2 2 ee 2 2 2 ok
-
-Page 2 of 2
+(b) Explain LC filter with labeled diagram? For a bridge rectifier made up of silicon diodes
+circuit shown below, fmd   (10) \
+(i). DC output voltage
+(ii). PIV
+(iii). Output frequency
+Q-4
+(a) Explain the construction and working and chmcteristics of n-channel depletion
+MOSFET ?   (10)
+(b) For the voltage divider configuration circuit given below, Determine Ic and Vce?
+(Given /3 = 100and BJT is silicon)   (10)
+Q-5
+(a) Draw and explain TRlAC w.r.t. construction, characteristics and different modes of
+operation?   (10)
+(b) Explain the construction working and characteristics of p channel JFET?   (10)
+--- page 3 ---
+,!:t.,/ t,,'   Q-6;, .
+!ti) Explain transistor as switch?   (5)
+[b) What is rectifier efficiency ? Find the same for HWR and FWR ?   (51
+. :%...-, 'z7.   (c) For the voltageregulator circuit given below has
+,!+   R=300, Vin=24V,, Zener diode breakdown voltage=6V, Maximum current rating= 50mA,
+. ,: $-:-. T.W-   Minimumcurrent &g=SmA.Determine   the range of values for
+(i).RL for which the diode will operate in breakdown state if Vin=24V.
+(ii). Vin for which the diode will operate in breakdown state if RL=lK.
+(10)
+Q-7 Write Short Notes on any 4
+(a) DIAC
+(b) Phototransistor
+(c) CE ampIifier
+(d) Schottky Barrier diode
+(e) Concept of Feedback
 ````
 
 ## 2012-13 · Re-Exam · Trim 2 · paper 3c35aeb800e0
@@ -6628,6 +7339,124 @@ x
 Zo
 ````
 
+## 2011-12 · Exam not stated · Trim 2 · paper 8256bfc92208
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2008-09,100001.pdf`
+- Printed on paper: max marks: 89; exam date: 20/06/2012
+- Text: ocr (2 pages), mean OCR confidence 87.7
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: II - ~~
+Academic Year : 2011-2012 / < \asnitre oF Nagy
+
+Batch: 2008-2009 /2094-10 - l & “,
+Subject: Basic Electronics Marks: 89 j o
+Time: @,06'am To 1/00 pm
+a
+TS, ;
+
+Date: 20/06/2012 Duration:
+
+is % Mpg:
+Re - Examination mt
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+N.B:
+
+(1) Question no | is compulsory
+
+(2) Out of remaining six questions, attempt any four questions.
+
+(3) In all five questions to be attempted.
+
+(4) All questions carry equal marks
+
+(5) Answer to each new question to be started on a fresh page.
+
+(6) Figure in brackets indicates full marks:
+
+(7) Assume suitable data if necessary.
+
+Que 1 Attempt any Four of the following [20]
+
+a) Explain the operation of Full wave voltage doubler circuit.
+
+b) Explain temperature dependence of Diode Characteristics.
+
+c) Explain the breakdown mechanism of zener diode.
+
+d) Derive the relation between a and B.hence find the value of B if o=0.95.
+e) Derive the expression for leakage current in CE configuration.
+
+f) Compare BJT and FET.
+
+| Que 2. Attempt the following
+
+a) Explain z-filter with half wave rectifier. [10]
+(Diagram, Working, Waveforms)
+
+b) For a N channel JFET Ipss = 9 mA, Vp = -6 V, Ves =- 2V. Find the values of 1) Ip, ii)
+gMo, lil) gm [10]
+
+Que 3. Attempt the following
+
+‘ z ? For the bridge rectifier find Idc,Irms,Vdc,Vrms across load and PIV rating of the diode.
+Transformer turn ratio 5:1, and input is 230v, 50Hz, R:=460Q [10]
+b) :
+\ c) Explain schottky diode? and how the characteristics of Schottky diode is differ from P-N
+junction diode [10]
+--- page 2 ---
+\
+
+a>
+
+Que 4. Attempt the following
+
+a) With the help of neat diagram, explain the construction characteristics and working of
+typical BJT used for voltage amplification.
+(10]
+b) Determine the region of operation of the silicon transistor shown in figure. Assume f = 96,
+Vee sat = 0.7 V and Vpg acy = 0.7 V-
+
+we
+
+>
+= Seas b
+=
+>
+
+Que 5. Attempt the following
+
+a) Explain with suitable diagram, construction working and drain characteristics of N
+Channel Enhancement MOSFET.
+[10]
+b) Explain application and advantages of MOSFET.
+[10]
+
+Que 6. Attempt the following
+
+a) , Explain the DC load line analysis of transistor, Dependency of Q point, Temperature,
+i Bde, Vee. [10]
+
+b), | ;
+of explain basic operation of SCR using two transistor equivalent circuit. Write application
+and advantages of SCR. [10]
+
+Que 7. Write short note on any two of the following.
+[20]
+a) VMOS
+b) Solar Cell(with application)
+c) Clipper (All Types)
+d) Clampers (All Types)
+````
+
 ## 2011-12 · Exam not stated · Trim 2 · paper 3da7f4877557
 
 - Departments: Common (all branches)
@@ -6697,6 +7526,166 @@ Que 7. Write short note on two of the following.
 a) Light Emitting Diode
 b) Silicon Controlled Rectifier
 c) Transistor Amplifier
+````
+
+## 2011-12 · Exam not stated · Trim 2 · paper 14656006ad01
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/scan0002(8) (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/09/2012
+- Text: ocr (4 pages), mean OCR confidence 79.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+4
+“ SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: II
+Academic Year : 2011-2012
+
+Batch: 2010-2011
+Subject: Basic Electronics Marks: 100
+
+Time: 11.00 am To 2.00 pm
+Date: 13/09/2012 Duration: 3 hrs.
+
+Special Re-Examination
+
+Instructions: Candidates should read carefully the instruction printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. Inall five questions to be attempted
+
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicate full marks.
+
+1. (a) Derive the condition for zero temperature drift biasing of FET. (05)
+(b) Ifinput V; is 1KHz square wave with 30V p-p voltage applied to a given circuit with
+practical diode of silicon. Determine Vo and draw waveform. (05)
+if Po
+pas
+t . ‘aut. @a.|mF
+; = joo RW
+See | cae
+(c ) Which biasing method cannot be used for D-MOSFET and why? (05)
+(d) What is the maximum reverse voltage PIV across a diode in ( i) HWR (ii) FWR with
+: ‘center-tapped transformer (iii) Bridge wave rectifier. (05)
+v!
+
+Page 1 of 4
+--- page 2 ---
+(b) Design for full wave rectifier an L — type LC filter which gives a d.c output voltage of
+
+/ 2. (a) Compare L-Section LC and C filter. (05)
+
+10V at a load current of 100 mA. The allowable ripple factor is 0.02. (10)
+(c) Determine Ing , Vesa, Vpsq for the following network: (05)
+Vpp = t24V
+2-5 ee
+Rp Vp Fox, JRFET
+: (ue 6 ‘ S
+Mp2 -acVv
+Rea lA 9 Se beet :
+{a
+
+3. (a) Fora standard voltage-divider bias configuration of C — E amplifier with Rg bypassed
+by a capacitor CE the following data is given - (12)
+
+j Vec=22V; Ri =56KQ, R=82KQ, Rco=68KQ
+Re=15KQ_ ,Ca = Cco = 10MF, Cp=20uUF, B=90
+
+Determine Seg,» Zi ,Zo for &, = 0, Ay for yp =0 OQ
+
+(b) Explain with diagram the working of power FET (VMOS). (08)
+
+’ j
+4 (a) Peeunile Ay, Avs, Zi, Zo and Ay for the network shown in figure (10)
+
+Oo Hev
+Coie Lue
+|   ——» Yo
+;
+is |
+
+ae SHF For BIT
+Sie 4+ UE * sealed
+Ue is 7 lo hoe 225
+
+——— FJ
+
+fag aof 4
+--- page 3 ---
+(b) Calculate Zi ,Z> and output voltage Vo if Vj = 100 mV for circuit shown below:- (10)
+
+v
+
++127V
+2 i Ne
+(_—*
+BaF
+i Fox TFET
+—| = 2 10mA
+, : be Toss = 0"
+tyr
+vee chVv
+Vi 100 P
+mY 74 rd a= 4o K
+fil
+5 (a) Draw the neat diagram of a JFET CS amplifier with unbypassed and derive the expression
+for the voltage gain, input impedance and output impedance. (10)
+
+(b) Calculate the voltage gain and input and output impedances for the circuit shown below: (10)
+
+7 +4V
+eos Ar for JEGT
+
+. ; -———4 O05 He
+} Ne —je—0Vo   Tpge =!”
+Lom Like -2 Ne Nip toh
+L D Yos = 264
+
+ty
+6 (a) estan Ipaq, Icqand Vcxg for the circuit shown below: (10)
+{ I2V
+rT L, ne
+An | __, one Jou Vo
+
+> LUF oo Bact M40:
+\ i
+‘4 “a
+
+i ___ | Fage 3ef4
+--- page 4 ---
+(b) Explain with diagram:
+(a) Zener diode regulator circuit
+
+(b) Transistor as a switch
+
+7. Write short notes (any three):-
+
+(a) SCR characteristic and its application as controlled rectifier
+
+(b) Comparison of performance of CE, CB and CC BJT amplifiers
+
+(c) Construction, process of electroluminescence of Light — Emitting diode (LED)
+(d) Photodiodes and Schottky Barrier diode.
+
+X X XxX XxX
+
+Page 4 of 4
+
+X
+
+(10)
+
+(20)
 ````
 
 ## 2011-12 · Exam not stated · Trim 2 · paper 633cecb140b8
@@ -6805,95 +7794,6 @@ V
 (10)
 ````
 
-## 2011-12 · Re-Exam · Trim 2 · paper 370d4fd38599
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONIC BATCH 2009-10,10-11,11-12 RE EXAM0001 (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 23/06/2014
-- Text: ocr (2 pages), mean OCR confidence 85.9
-
-````text
-SVKM’s NMIMS =~
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & eked vennins us B
-
-. LIBRARW
-Programme: B. Tech (ALL STREAMS) Year: I Trimester: II _
-Batch : 2009-10/10-11/11-12 : rer ®
-Academic Year: 2013-2014 Ne
-Subject : Basic Electronics ~
-Marks: 100
-Date : 23/06/2014 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-1 a Explain the need of filter in the rectifier circuit? Explain the role of inductor and {05]
-capacitor in the filter circuit.
-b © Explain what is a and B parameter of a transistor. Give the relation between the two [05]
-
-parameters.
-c Explain thermal runaway in transistor. ; [05]
-d Draw and explain the importance of zener diode, its characteristics and equivalent [05]
-circuit.
-2 a Draw the circuit diagram and explain the working of a Bridge recifier. With diagram {10]
-explain the use of capacitor filter in a bridge rectifier.
-b Determine the quiescent currents and the collector to emitter voltage for a silicon [10]
-
-transistor with £ = 60 in the self-biasing arrangement of figure. The circuit component
-values are Vcc = 20 V, Rc = 2 KO, R, = 100 KQ, R, = 0.1 KO, Rp =5.KQ.
---- page 2 ---
-a With circuit diagram and waveforms the working of a positive clamper circuit [10]
-b Find the output voltage Vo and plot the same for the clipper circuit shown in figure [10]
-below (voltage drop across diode = 0.7V). :
-
-+ e AA, Teva
-QV pager
-D4 Dy ;
-\i n sv = = Vv b
-soy TF
-ox + + ed
-a Explain the input and output characteristics showing different regions of operation [10]
-
-for a BJT in CE mode.
-b Explain the need of biasing a BJT .Draw and expain the base biasing method foraBJT. [10]
-
-a __ Explain with suitable diagram the construction, working and drain characteristics of N [10]
-channel Depletion MOSFET.
-
-b With neat diagram explain the working of a FET amplifier. [10]
-a Explain the construction and working of VMOS. (10]
-b Calculate the Voc, /pc, Vrms), pms through a 1 KQ load connected to a half-wave [10]
-
-rectifier circuit shown in figure.
-
-nal
-
-+
-|
-230 V | K
-a What is acontrolled rectifier. With neat circuit diagram explain the working of {10]
-controlled full wave rectifier.
-b Draw and explain the construction and working of a SCR. [10]
-i x
-````
-
 ## 2011-12 · Re-Exam · Trim 2 · paper 58164e4eb709
 
 - Departments: Common (all branches)
@@ -6993,140 +7893,612 @@ ve
 (5)
 ````
 
-## 2011-12 · Re-Exam · Trim 2 · paper 12e2471352f2
+## 2011-12 · Re-Exam · Trim 2 · paper 064879930dfe
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/Basic Electronics BATCH 2011-2012 RE EXAM scan0022.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/02/2013
-- Text: ocr (3 pages), mean OCR confidence 83.3
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2008-2009 RE EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 07/02/2012
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+_ Programme: B.Tech - ALL STREAMS Year: I Trimester: II
+Academic Year : 2011-2012
+
+» Batch: 2008-2009
+Subject: BASIC ELECTRONICS Marks:
+Time
+Date: 07/02/2012 Duration: a hrs, “BAARY
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on*
+and on the cover of the Answer Book, which is provided for their use.
+
+N.B:
+
+(1) Question no | is compulsory
+
+(2) Out of remaining six questions, attempt any four questions.
+
+(3) In all five questions to be attempted.
+
+(4) All questions carry equal marks
+
+(5) Answer to each new question to be started on a fresh page.
+
+(6) Figure in brackets indicates full marks.
+
+(7) Assume suitable data if necessary.
+
+Que 1 Attempt any five of the following [20]
+a) Explain DC equivalent circuit of half wave rectifier.
+b) Explain the breakdown mechanism of zener diode.
+c) Calculate the values of B, Ic and Ig with a = 0.98 and Ip = 25 pA
+d) With the help of neat diagram explain the operation of n-p-n transistor.
+e) Explain FET as VVR.
+f) Compare JFET and MOSFET.
+
+Que 2. Attempt the following
+} a) Explain capacitor filter with centre tapped full wave rectifier. [10]
+(Diagram, Working, Waveforms)
+b) Over what range of input voltage will the zener circuit maintain 20 V across 2000 ohm
+load, assuming that series resistance R = 200 ohm and zener current rating
+is 25 mA. [6]
+c) Compare the characteristics of the ideal diode and real diode with suitable diagram. [4]
+
+Que 3. Attempt the following
+a) With the help of waveforms, explain the operations of different types of series
+
+élippers assuming the input voltage to be square wave. [10]
+b) 4 Explain the construction and working of LED. Which are the chemical compounds
+
+used for Red and green LED. . [6]
+c) Explain the operation of half wave voltage doubler circuit. [4]
+
+Que 4. Attempt the following
+a) With the help of experimental setup, explain the procedure to plot the input
+
+and output characteristics of a transistor in CE configuration. [10]
+b) Explain with suitable diagram, construction working and drain characteristics of N
+channel Depletion MOSFET [10]
+
+Yo
+--- page 2 ---
+Que 5. Attempt the following
+a) For the network shown, determine i) Iga, ii) Icg, iii) Ve,iv) Vc v) Vp
+
+vi) Vce
+° 1 |6V
+
+Lak BaIK
+a ve
+Va
+
+Vee (a= 80
+
+Ve
+
+O68 k
+
+b) Why biasing is necessary in BJT amplifiers. Compare different biasing
+circuits.
+c) A JFET has a pinch off voltage of -4 V and the saturation current of 10 mA.
+Calculate drain current if Ves = -2 V.
+
+Que 6. Attempt the following
+a) Draw the circuit diagram of a modified fixed bias circuit meiog CE configuration
+and explain how it stabilizes the operating point?
+b) Explain basic operation of SCR using two transistor sbesidete circuit.
+t) Explain thermal runaway with respect to BJT.
+
+Que 7. Write short note on two of the following.
+a) VMOS
+b) Schottky Diode
+c) Transistor Amplifier
+
+=
+
+[10]
+
+[6]
+[4]
+
+[10]
+[6]
+[4]
+
+[20]
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper 15c256b7b5b0
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2009-2010 RE EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 07/02/2012
+- Text: ocr (2 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+— SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: B.Tech - ALL STREAMS Year: I Trimester:
+
+i Academic Year : 2011-2012
+
+| Batch: 2009-2010 ‘s a
+Subject: BASIC ELECTRONICS Marks: FOO NMIMS University eo
+Time: ‘G0 phy"ts 5.60 Pos
+
+Date: 07/02/2012 Duration: , s. I$
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on t
+and on the cover of the Answer Book, which is provided for their use.
+
+N.B:
+
+(1) Question no | is compulsory
+
+(2) Out of remaining six questions, attempt any four questions.
+
+(3) In all five questions to be attempted.
+
+(4) All questions carry equal marks
+
+(5) Answer to each new question to be started on a fresh page.
+
+(6) Figure in brackets indicates full marks.
+
+(7) Assume suitable data if necessary.
+
+Que | Attempt any five of the following
+a) Explain Diode characteristics with considering it as ideal and real.
+b) What is Avalanche and zener breakdown.
+c) Calculate the values of Ig if dae = 0.98 Icgo = 12 WA and Ip = 120 pA.
+d) With the help of neat diagram explain the operation of n-p-n transistor.
+e) Explain saturation region and ohmic region in drain characteristics of JFET.
+f) Compare DMOSFET and DMOSFET.
+
+} Que 2. Attempt the following
+a) Explain a filter with half wave rectifier.
+(Diagram, Working, Waveforms)
+b) Determine the range of Ry and I; that will result in Vg being maintained
+at 10 V. Also determine the maximum wattage rating of the diode.
+c) Define static and dynamic resistance of diode.
+
+Que 3. Attempt the following
+a) With the help of waveforms, explain the operations of different types of
+y ) clamper circuits
+4 Explain the construction and working of schottky diode.
+c) Explain the operation of full wave voltage doubler circuit.
+
+Que 4. Attempt the following
+a) With the help of experimental setup, explain the procedure to plot the input
+and output characteristics of a transistor in CE configuration.
+b) Explain with suitable diagram, construction working and drain characteristics of N
+channel JFET.
+
+Yo
+
+[20]
+
+[10]
+
+[6]
+[4]
+
+[10]
+[6]
+[4]
+
+[10]
+
+[10]
+--- page 2 ---
+Que 5. Attempt the following
+a) For the network shown, determine i) Igo, ii) Icg, iti) Vero. Draw DC load line. Comment
+on the region of operation. [10]
+g P' _o | 6 V
+
+25K
+68K aur
+
+[-—~ Vo
+tue
+
+-j00
+Vin OTK a P=
+
+SU5k sz pret
+
+b) Derive the equation of collector current in CE configuration. [6]
+c) A JFET has a pinch off voltage of -4 V and the saturation current of 8 mA.
+Calculate drain current if Vag =-1.55 V. [4]
+
+Que 6. Attempt the following
+a) Draw and explain the circuit diagram of a fixed bias circuit using CE configuration
+
+and Derive the equation of stability factor [10]
+
+b) Explain basic operation of SCR with VI characteristics [6]
+c) Why CE configuration is preferred for amplifier. [4]
+que 7. Write short note on two of the following. [20]
+
+a) Zener as regulator.
+b) LED (with one application)
+c) DC load line and Operating point in transistor circuit analysis.
+
+—_———— Ke
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper 9169909c8d32
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2010-11 RE EXAM0001(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2012
+- Text: ocr (2 pages), mean OCR confidence 87.8
+
+````text
+— S\TUTE OF |
+_ ga SANTUTE a Man
+
+LIBRARY ds)
+. ry
+> Big me ~ we < “4
+SVKM’s NMIMS SS Gnas HOES
+Mukesh Patel School of Technology Management & Engineering ——
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: II
+Academic Year : 2011-2012
+
+Batch: 2010-2011
+Subject: Basic Electronics Marks: 100
+
+: : Time: 10.00 am To 1.00 pm
+Date: 20/06/2012 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+, Q.1 A) Compare the extrinsic and the intrinsic semi conductor material. [5]
+} B) Draw and explain the transfer & drain characteristics of JFET. [5]
+C) Explain basic transistor amplifying action. {5]
+
+D) Draw and explain the importance of zener diode, its characteristics and
+equivalent circuit. [5]
+
+Q.2 A) With the help of a neat diagram, explain the construction and working of a
+
+depletion type of MOSFET. [10]
+B) Differentiate between energy Jevels of an insulator, a. Semi conductor and a
+conductor. ; uo. [5]
+‘ C) How does a diode work as a clipper? ; [5]
+
+sty What do you mean by transistor DC biasing? Explain voltage divider biasing of a
+
+transistor. . [10]
+: B) How does solar cell works? [5]
+C) If Voc = 20 V, I. = 8 mA and Ip = 40 pA. Then find Rg & R, for a fixed bias
+configuration of a transistor. [5]
+
+v7)
+--- page 2 ---
+Q.4 A) Compare half wave, full wave and bridge rectifier. [10]
+B) Fora N- channel JFET, Ipss = 8.7 mA, Vp = -3 V, Ves= -1 V. Then find the
+values of (i) Ip (ii) Smo (iil) Em [5]
+C) Explain DC and AC resistance of a diode. [5]
+Q.5 A) Explain CE configuration of BJT along with its input and output characteristics.
+[10]
+B) Describe a basic clamper circuit. [5]
+C) Explain DC load line, Q-point and active region in terms of transistor. [5]
+Q.6 A) Compare BJT, FET and MOSFET. [10]
+B) What is a ripple voltage? Describe a basic filter circuit. [5]
+C) Explain the terms, transistor saturation and transistor cut-off. [5]
+Q.7 A) Describe construction, biasing, operation and application of SCR. [10]
+B) Write a note on the power FET (VMOS). {5]
+C) Write a note on transistor as a switch. [5]
+
+=— =
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper bdcd624f9356
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2010-2011 RE EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 07/02/2012
+- Text: ocr (3 pages), mean OCR confidence 81.5
 
 ````text
 SVKM’s NMIMS
 
-Mukesh Patel School Of Technology Management & En
+= Mukesh Patel School Of Technology Management & Eng
+, Programme: B.Tech - ALL STREAMS Year: I Trimester:
+Academic Year : 2011-2012
 
-Programme: B-Tech - All Streams Year: I Trimester: II
-Academic Year: 2012-2013
+» Batch: 2010-2011
+Subject: BASIC ELECTRONICS Marks:
+Time: A
+Date: 07/02/2012 Duration:
+Re - Examination ‘
+Instructions: Candidates should read carefully the instructions printed ie question paper
+and on the cover of the Answer Book, which is provided for their use.
+N.B:
 
-NA
-MPSTMB )4
+(1) Question no 1 is compulsory
 
-—_
-CIBRARY 1g
-~
-Cra
+(2) Out of remaining six questions, attempt any four questions.
+(3) In all five questions to be attempted.
 
-Batch: QO\\- Qe}. oo
-Subject: Basic Electronics _ Marks: 100 —
+(4) All questions carry equal marks
 
-Time: 2.00 pm To 5.00pm
-Date: 11/02/2013" Duration: 3 hrs.
+(5) Answer to each new question to be started on a fresh page.
+(6) Figure in brackets indicates full marks.
 
-Re - Examination .
+(7) Assume suitable data if necessary.
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+Ql Attempt any five of the following (20)
 
-NB:
-1. Attempt any Five Questions.
-2. All Questions carry equal Marks.
+a) What is the effect of temperature on diode characterestics.
+
+b) Differentiate avalanche and zener breakdown.
+
+c) Calculate the values of B, Ic and Iz with a = 0.99 and Ip = 50 pA
+
+d) Explain, why fixed bias circuit is used for BJT voltage amplifier when output
+voltage required is very low.
+
+e) Define holding current, latching current, forward and reverse break over voltage in
+connection with SCR.
+
+f) ForaN channel JFET Ipss = 9 mA, Vp = -6 V, Ves = - 2V. Find the values
+
+} of i) Ip, ii) gma, iti) gm
+
+Q2 a) Explain capacitor filter with bridge rectifier. (Diagram, Working, (10)
+waveforms)
+b) Determine the range of values of Vi that will maintain the zener diode of the (06)
+following figure in the ON state. Vz = 30 V, Zener current rating = 25 mA
+
+zoo- a> 1
+} Wy > >
+\ , :
+q } 7 lz 4
+vy 2 a
+j
+Zale
+=
+
+c) Explain the piecewise linear equivalent circuit for diode with characteristics. (04)
+
+B
+--- page 2 ---
+Q3) a) With the help of neat diagram, explain the construction, characteristics and working
+of a typical BJT used, for voltage amplification.
+
+(b) For the circuit shown in figure, determine Icg, Vcgg, Ve, Ve, Stability factor. (10)
+
+Vane 90M
+’ WOCS 22 V
+
+Ps 4
+
+ook = 10k We
+
+a Ps
+
+a Beta = 140
+
+] to VBE =0.7V
+
+S 2gkte L
+
+7 2 1.Sk
+
++
+Q4) a) Explain the operation of voltage doubler circuit. (5)
+b) Explain the DC Load line analysis of a transistor, Dependency of Q point, (10)
+
+Temperature, B dc, and different transistors.
+
+c) Determine the region of operation of the silicon transistor shown in figure. (5)
+Assume f = 96, Vege sat = 0.7 V and Vege (act) = 0.7 V.
+
+i Wee = 10 ¥
+
+2 3kn-
+2 cand
+a OK
+
+|
+
+“fora te
+
+*
+a
+
+<<
+
+a
+
+= 2kn
+--- page 3 ---
+Q5) a)
+
+b)
+
+c)
+
+Q6) a)
+b)
+
+¢)
+
+Q7)
+
+Explain with suitable diagram, construction working and drain (10)
+characteristics of N channel Depletion MOSFET.
+
+Explain MOSFET as a switch. (5)
+
+Determine the co- ordinates of Q point. Specify the type of biasing. (5)
+
+9 WEY]
+
+soy ses 2 3.3k- Sosa
+2B 2
+||
+My Output
+put = 7CpF 470p ——*,
+Inpu i VG — tg
+i =
+Assume
+t Vel = 4V
+; S200 |ldss=8mA
+18S gmo = 5000 imho
+1 a T= spe
+ps
+Explain Construction and Characteristics of Schottky Diode. (05)
+
+What is clipper circuit? Analyze the output waveform of negative shunt (05)
+clipper with Input 20 Vpp & 1 kHz Sinusoidal waveform, Resistance 10KQ
+and negative biased voltage = -5V.
+
+A single phase full wave rectifier makes use of x section filter with two 10uf (10)
+capacitor and a choke of 104. The secondary voltage is 280 Vrms with
+respect to centre tap output. If the load current is 100 mA and Vdc is 346 V.
+determine the percentage ripple.
+
+Write short note (any two) (20)
+VMOS.
+
+Transistor specifications.
+
+Clamper circuits.
+
+Xx
+
+Hp
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper 38d0f42aaf6d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2010-11 RE EXAM0001.pdf`
+- Printed on paper: exam date: 18/06/2012
+- Text: ocr (2 pages), mean OCR confidence 91.9
+
+````text
+a SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & En ineerin
+
+Programme: MBA Tech CALL STREAMS) Year: I Trimester: II
+
+, Academic Year : 2011-2012 “ :
+Batch: 2010-2011 BS aligs
+Subject: Basic Electronics Marks: / S$ *¥60 : aN
+
+Date: 18/06/2012
+
+Re - Examination Gr
+N.B.: 1. Attempt any 5 questions.. —
+2. All questions carry equal marks.
 3. Answer to each new question to be started on a fresh page.
+
 4. Figures in brackets on the right hand side indicate full marks.
 
-Q1. Answer any Four of the following:
-(a)Draw V-I characteristics of zener diode and indicate operating region and explain (5)
-how to obtain value of Rz.
+QI (a) Explain construction, working and characteristics of zener diode. Also explain its
+_ application as a voltage regulator.
+(b) A silicon diode has reverse saturation current of 2.5424 at 300°K. Find forward voltage
+for a forward current of 10mA.
+(c) In an n-type semiconductor, the Fermi level lies 0.3eV below the conduction band at
+300°K. If the temperature is increased to 330°K, find the new position of Fermi level.
 
-(b) Compare common emitter amplifier and common base amplifier using BJT (5)
-(c) Draw typical transfer characteristics for
+Q2 (a) Explain in detail characteristics of UJT. Also discuss UST relaxation oscillator.
+(b) Write a short note on
+(i) LED (ii) LCD
 
-(i) JFET and for (ii) MOSFET (enhancement type). Give typical values. (5)
-(d) Can SCR be used to amplify sinewave signal? Explain your answer. (5)
+Q3 (a) Draw and explain with the setup, transistor common base mode characteristics
 
-(e) Why input protection is required for MOSFET? How the protection is provided? (5)
+(b) Find the collector current in the circuit shown. 412V
+The transistor has 8 =100. Assume
+} Vsecactive) = 9-6V, Vez ¢sary = 0.7V and Veg ¢sar) = 9-2V « 1.2kQ
+100kQ
 
-Q2.
-(a) For half wave single phase rectifier with load Ri draw output voltage waveform, derive
-equation for average d.c output voltage, and rectifier efficiency. (10)
+(c) Compare L filter and C filter
 
-(b) Sketch the output voltage waveform for circuit shown below. Assume ideal diodes. - (5)
+alt (a) With the help of circuit diagram, waveforms explain the working of center tapped full
 
-1K
-Vr 4 Wi ~—<
-. Ay a i = DADP2 Vo
-1K Fk, sy Lay
-30Vo_p 2 Toa,
-PoP ® +f,
-50 Hz =
-(c) Sketch the output voltage waveform for the circuit shown below. Assume ideal diodes.
-: Give function of resistance R. (5)
-Va DAF a
-ae o— - Vv
-20 Vip ~f7
-1KHaz e—
+‘ ait wave rectifier. Also derive equation for output voltage, rectifier efficiency, ripple factor
+¢ } and PIV rating of diodes.
 
-Page 1 of 3
+(b) Draw and explain TRIAC characteristics and explain how TRIAC is different from
+
+, DIAC.
+
+Q5 (a) Explain in detail LC filter. What is role ‘of Bleeder resistance?
+
+(b) A bridge rectifier circuit is supplied from 250V, 50Hz supply with transformation ratio
+of 2:1 to a load of 10kQ. Secondary resistance of the transformer is 10Q and forward
+resistance of each diode is1002.. Calculate
+(i) Average, effective, peak value of load current and voltage.
+
+(ii) Efficiency of rectification
+(c) Explain the characteristics of JFET. Mark clearly the various regions
+
+[10]
+[5]
+[5]
+
+[10]
+[10]
+
+[7]
+[8]
+
+[5]
+[10]
+
+[10]
+
+[8]
+7]
+
+[5]
 --- page 2 ---
-4
+Q6 (a) Derive the stability factor for the collector to base bias
 
-ba
+[10]
+circuit shown in figure.
 
-Q3)
-(a) Determine the dc bias voltage Vce and current J. for the amplifier circuit shown below. Draw dc
-load line and indicate the Q-point. (10)
-Lge $12
-[Mn SK
-|»
-4 TB Ve
-“a f= 100
-IK ~ eV
-"3 Vee = Ore ¥.
-(b) Explain working of BJT as switch. Compare it with mechanical switch. (5)
-(c) Draw circuit diagram of voltage doubler and explain its working. (5)
-Q4)
-(a) Find dc bias voltage Ves and current Ips for MOSFET circuit show below. Draw the dc load line
-and indicate Q-point. (10)
-4 +1SV
+(b) Voltage gain of an amplifier is 60dB. It is decreased to 40dB with feedback. Calculate [5]
+the feedback factor.
 
-27 KS aif “ MOSFET — nchanneR enhancement He ;
-. Dn . y
-a= pA Vy ~ 4- V.
-Z
-
-lok Ka! mA
-© ye
-(b) For JFET if Vp= -4 V., Inss= 16mA, and Ips=4 mA. Determine tranconductance gm (5)
-(c) Find Vomax and Vominat the output of circuit shown below. ~ , 6)
-
-Vin gt wwe Yo ;
-+ 18 To 22. =5K
-
-Page 2 of 3
---- page 3 ---
-Qs)
-(a) Find A+, Ri and R, for potential divider bias configuration of BJT using approximate
-h- parameter model. (10)
-
-(b) A full wave single phase bridge rectifier operates on 250 V, 50 Hz supply with step down
-transformer having ratio of 5:1 and load resistance 100 ohms. If transformer secondary
-winding resistance is 10 ohms and diode forward voltage drop is 0.7 V. Determine output d.c.
-voltage. (Neglect primary winding resistance and diode resistance). (5)
-
-(c) Draw V-I characteristics of SCR and explain effect of variation in gate to cathode current on the
-
-characteristics. (5)
-Q6) Write short notes onany-three {| (ou x (20)
-(a) Schottky diode .
-
-(b) Photodiode
-(c) LED
-
-(d) Temperature effect on BJT bias.
-
-HARK KAKA AAKARAK ER ERK
-
-Page 3 of 3
+(c) Write a short note on Class B push-pull power amplifier. [5]
 ````
 
 ## 2011-12 · Re-Exam · Trim 2 · paper 460f507c5704
@@ -7362,242 +8734,6 @@ a) TRIAC
 b) DIAC
 c) Phototransistor
 .   d) CC amplifier
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper eba3a5575637
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 /12/2013
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS a \a
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-7.
-
-Programme:MBA Tech (ALL) Year: I
-
-\.
-
-Academic Year: 2013-14
-
-Subject : Basic Electronics
-
-Marks:100
-Date :13 /12/2013 Time : 10.00 am to 1.00 pm
-Durations:3 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All question carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicates full marks.
-7. Illustrate your answers with neat labelled diagram wherever necessary.
-
-Q-1 Attempt any Four questions (20)
-
-(a) Draw and Explain Photodiode?
-
-(b) Define o. and B? Derive the relation between the two?
-(c) Explain PN junction diode?
-
-(d) Compare BJT and FET?
-
-Q-2
-
-(a) Draw and explain TRIAC w.r.t. construction, characteristics and different modes of
-
-operation? (10)
-(b) Explain the construction, working and characteristics of n channel JFET? (10)
-
-Q-3
-(a) Explain full wave Bridge rectifier with LC filter ? (10)
-
-(b) Explain the construction, working and characteristics of n-channel depletion MOSFET ?
-
-(10)
-
-Yo
---- page 2 ---
-Q-4
-(a) For the voltage divider configuration circuit given below, Determine Vp, Ip and Ip?
-(Given: Vee =15V, R}=35k, Ro=35k, Re=0.5k, B = 110 and BIT is silicon)
-
-(10)
-We
-= R, = Re
-
-(b) Explain with the help of block diagram the process of amplification. How does a BJT
-
-operates as an amplifier? (10)
-Q-5
-(a) Describe the similarities and dissimilarities and dissimilarities in the operation of PNP
-and NPN transistor? ; (10)
-(b) Explain line regulation and load regulation for a Zener diode ? (10)
-Q-6.
-(a) Explain transistor as switch? (5)
-(b) What is rectifier efficiency ? Find the same for HWR and FWR? (5)
-(c) What is Q-point stabilization? Explain thermal runaway? (10)
-Q-7 Write Short Notes on: (20)
-(a) DIAC
-
-(b) Class B power amplifier
-(c) Schottky Barrier diode
-(d) Concept of Feedback
-
-x —
-
-2/9
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper 12dd533a7698
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/BASIC ELECTRONICS II MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 17/06/2013
-- Text: text (3 pages)
-
-````text
-SVKM's NMlMS
-Mukesh Pate1 School of Technolow Management & Engi
-Programme: MBA TECH - (ALL STREAMS)   Year:   I   Trimester:   I1
-Academic Year :2012-2013
-Batch:   2011-2012   b
-Subject:   Basic Electronics   Marks:   100
-Time:   10.00 am To 1.00 pm
-!   Date:   17/06/2013   Duration: 3 hrs.
-Re - Examination
-Instructions: Candidates should read careklly the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-1. Qaestion No. 1is con?pulsory.
-2. Out of remaining questions, attempt any four questions.
-3. In all 5 questions to be attempted.
-4. All question carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicates 111marks.
-7.   Illustrate your answers with neat labelled diagram wherever necessary.
-Q-1   Attempt any Four questions
-(a) Explain the effect of temperature on
-(i). Reverse Saturation current
-(ii). Diode characteristics in forward bias.
-I   (b) Draw and Explain Photodiode?
-(c) Define a and 87 Derive the relation between the two?
-(d) Define PIV? what Ts the PIV of centre tap transformer, Explain?
-(e) Find the drain current and transconductance at VGS- -2V, ifIDSS=SmA, Vp-4V
-Q-2
-(a) Write a short note on UJT and explain how it is used as a relaxation Oscillator?   (10)
-@) What is thermal runaway? Explain any one method to minimize it   (06)
-(c) Differentiate BJT and FET?   (04)
-4-3
-(a) What is base width modulation? Explain hww it affects the output characteristics of CE
-amplifier with labeled diagram?   ki"l
---- page 2 ---
-(b) Explain LC filter with labeled diagram? For a bridge rectifier made up of silicon diodes
-circuit shown below, fmd   (10) \
-(i). DC output voltage
-(ii). PIV
-(iii). Output frequency
-Q-4
-(a) Explain the construction and working and chmcteristics of n-channel depletion
-MOSFET ?   (10)
-(b) For the voltage divider configuration circuit given below, Determine Ic and Vce?
-(Given /3 = 100and BJT is silicon)   (10)
-Q-5
-(a) Draw and explain TRlAC w.r.t. construction, characteristics and different modes of
-operation?   (10)
-(b) Explain the construction working and characteristics of p channel JFET?   (10)
---- page 3 ---
-,!:t.,/ t,,'   Q-6;, .
-!ti) Explain transistor as switch?   (5)
-[b) What is rectifier efficiency ? Find the same for HWR and FWR ?   (51
-. :%...-, 'z7.   (c) For the voltageregulator circuit given below has
-,!+   R=300, Vin=24V,, Zener diode breakdown voltage=6V, Maximum current rating= 50mA,
-. ,: $-:-. T.W-   Minimumcurrent &g=SmA.Determine   the range of values for
-(i).RL for which the diode will operate in breakdown state if Vin=24V.
-(ii). Vin for which the diode will operate in breakdown state if RL=lK.
-(10)
-Q-7 Write Short Notes on any 4
-(a) DIAC
-(b) Phototransistor
-(c) CE ampIifier
-(d) Schottky Barrier diode
-(e) Concept of Feedback
-````
-
-## 2010-11 · Exam not stated · Trim 2 · paper e4353e3021d1
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2010-2011 (1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/02/2011
-- Text: ocr (1 page), mean OCR confidence 94.8
-
-````text
-\ SVKM’s NMIMS
-Mukesh Patel School Of Technolo
-Programme: B.TECH (ALL STREAMS) Year: I Trimester: II
-Academic Year ;: 2010-2011
-
-Subject: COMMUNICATION SKILL Marks: 100
-Time: 2.00 PM TO 5.00 PM
-Date: 09/02/2011 Duration: 3 hrs.
-
-Final - Examination
-
-Attempt any FIVE questions of the following.
-All questions carry equal marks (20)
-
-Q.1 A Explain the cyclical and a systematic process of communication with a suitable
-diagram and an explanation.
-
-B -Proficiency in communication is a pre-requisite for a successful corporate
-professional. Justify this in the light of importance of communication.
-
-Q2. A-”Body speaks louder than words”. Discuss this statement with reference to the
-factors of body language.
-B-What are the advantages of Oral form of communication?
-
-Q.3 Well -prepared interviewers ask some very probing questions.
-a Tel us about yourself.
-b-What have you learnt from your extra-curricular activities in schools/colleges?
-c-Why did you choose this particular field of work/ specialization?
-Write elaborate answers to the above questions as an interviewee.
-
-Q.4 Write a detail note on cross cultural barriers. In a flat global village of today its very
-important to develop cross cultural sensitivity — Justify
-
-Q.5 A long standing customer has placed an unusually large order for designing &
-printing his company’s office stationary. Draft a letter acknowledging the order,
-appreciate his prompt payments up till now and reinforce a long term association with
-him ( semi block form)
-
-Q.6 A What is the importance of a power point presentation? Suggest some effective
-techniques to master this skill.
-B Discuss the downward form of a communication in an organization.
-
-Q.7 Write Short Notes on any two-
-A Faulty listening habits
-B Minutes of a Meeting.
-C Advantages of written communication
-D. Proxemics
-
-/
 ````
 
 ## 2010-11 · Exam not stated · Trim 2 · paper c1a3c0ac5e63
@@ -7846,155 +8982,6 @@ d) Base width modulation
 hb
 ````
 
-## 2010-11 · Exam not stated · Trim 2 · paper 3ed403f38453
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), BATCH 10-11,11-10001.pdf`
-- Printed on paper: exam date: 24/06/2015
-- Text: ocr (1 page), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Trimester: II
-Batch: 2010-11, 2011-12, 2012-13
-Academic Year: 2014-2015
-Subject: Basic Electronics
-Marks:
-Date: 24/06/2015 Time:
-Durations:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the answer book, which is provided for their use.
-NB:
-1. Question No.1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1] Attempt any four. [20]
-a. Explain V-I characteristics of PN junction diode.
-b. Compare zener breakdown and avalanche breakdown.
-c. What is the need for bias stabilization?
-d. Explain the transconductahce, pinch off voltage and Ipss.
-e. Discuss fixed bias circuit using BJT.
-
-Q.2A] With the help of circuit diagram, waveforms explain the working of bridge rectifier.
-Also derive equation for output voltage, rectifier efficiency, ripple factor
-
-and PIV rating of diodes. [10]
-Q.2B] Explain with circuit diagram and waveform the working of shunt capacitor filter. [05]
-Q.2C] What is voltage doubler circuit ? [05]
-Q.3A] Differentiate between JFET and MOSFET. [10]
-Q.3B] Explain zener diode as voltage regulator. [10]
-Q.4A] With the help of neat diagram, explain the construction, working of a typical BJT. [10]
-Q.4B] Describe the parameters to define a load line. Define Q-point. [05]
-Q.4C] Derive the relation between o and B hence find the value of B if a = 0.95. [05]
-Q.5A] Draw and explain drain transfer characteristics of JFET. [10]
-Q.5B] Explain the construction and working of enhancement mode MOSFET. [10]
-Q.6A] Draw a neat diagram and explain the construction and working of LED. State advantages,
-disadvantages and applications of LED. : [10]
-
-Q.6B] Explain the basic operation of SCR using two transistor equivalent circuit. [05]
-Q.6C] Explain the characteristics of a photodiode. [05]
-Q.7] | Write short note: (any four) [20]
-
-a. Clipper circuit
-
-b. 2 filter
-
-c. Thermal runaway in BJT = E
-
-d. VMOS
-
-e. Solar Cell
-````
-
-## 2010-11 · Exam not stated · Trim 2 · paper 7c801151b470
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS B TECH (ALL STREAMS), BATCH 2010-11, 10001.pdf`
-- Printed on paper: exam date: 17/12/2014
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: | a ml
-Batch: 2010-11, 2011-12, 2012-13 SR Ree Sy
-Academic Year: 2014-2015 f N
-
-MPSTME }4
-
-Subject: Basic Electronics Mark LIBRARY , é
-Date: 17/12/2014 Time: \x10.00 LPP pm
-
-Negra SZ
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the answer book, which is provided for their use.
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1] Attempt any four [20]
-a. Derive the relationship between «a. and B.
-b. What are the factors affecting stability of Q point?
-c. Explain the transconductance, pinch off voltage and Ipss.
-d. What is an oscillator? State and explain Barkhausen criteria.
-e. Explain transistor as a switch
-Q.2A] Draw and explain full wave rectifier circuits with waveforms. [10]
-Q.2B] Explain RC Phase shift oscillator. [10]
-Q.3A] Explain the BJT voltage divider bias circuit. [10]
-Q.3B] Differentiate JFET and MOSFET. [10]
-Q.4A] Explain the Frequency Response of BJT amplifier. [10]
-Q.4B] For the bridge rectifier shown, find Ide, Irms, Vde, Vrms across the load and [10]
-PIV rating of the diode
-531
-230V
-ge Ha
---- page 2 ---
-Q.5A] Explain the construction and working of Depletion type of MOSFET. [10]
-Q.5B] Calculate Q point values of Ic and Vcr for the voltage divider bias circuit shownin —_ [10]
-Figure. Assume that the transistor is a Silicon transistor with Bac = 100.
-
-Q.6A] Draw a neat diagram and explain the construction and working of LED. State advantages,
-
-disadvantages and applications of LED. [10]
-Q.6B] Draw and explain drain transfer characteristics of JFET. [10]
-Q.7] Write short note: (any four) [20]
-
-a. Clamper circuit
-
-b. Thermal runaway
-c. Push pull amplifier
-d. Colpitt’s oscillator
-e. Photodiode
-
-a ¥
-
-YJo.
-````
-
 ## 2010-11 · Exam not stated · Trim 2 · paper 134369b84539
 
 - Departments: Common (all branches)
@@ -8169,368 +9156,321 @@ Ra Z1EK Re- bok
 ~_ —
 ````
 
-## 2010-11 · Re-Exam · Trim 2 · paper 9169909c8d32
+## 2010-11 · Re-Exam · Trim 2 · paper 7ff262e1afcd
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2010-11 RE EXAM0001(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2012
-- Text: ocr (2 pages), mean OCR confidence 87.8
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2008-2009 re exam.pdf`
+- Printed on paper: max marks: 100; exam date: 11/02/2011
+- Text: ocr (3 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-— S\TUTE OF |
-_ ga SANTUTE a Man
+Ko
 
-LIBRARY ds)
-. ry
-> Big me ~ we < “4
-SVKM’s NMIMS SS Gnas HOES
-Mukesh Patel School of Technology Management & Engineering ——
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: II
-Academic Year : 2011-2012
-
-Batch: 2010-2011
-Subject: Basic Electronics Marks: 100
-
-: : Time: 10.00 am To 1.00 pm
-Date: 20/06/2012 Duration: 3 hrs.
+\ SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engi ering
+Programme: B.TECH -ALL STREAMS Year: I Trimester: II
+Academic Year : 2010-2011
+Batch: 2008-2009
+Subject: BASIC ELECTRONICS Marks: 100
+. Time: 2.00 PM TO 5.00 PM
+Date: 11/02/2011 Duration: 3.hrs.
 
 Re - Examination
 
-Instructions: Candidate should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-, Q.1 A) Compare the extrinsic and the intrinsic semi conductor material. [5]
-} B) Draw and explain the transfer & drain characteristics of JFET. [5]
-C) Explain basic transistor amplifying action. {5]
-
-D) Draw and explain the importance of zener diode, its characteristics and
-equivalent circuit. [5]
-
-Q.2 A) With the help of a neat diagram, explain the construction and working of a
-
-depletion type of MOSFET. [10]
-B) Differentiate between energy Jevels of an insulator, a. Semi conductor and a
-conductor. ; uo. [5]
-‘ C) How does a diode work as a clipper? ; [5]
-
-sty What do you mean by transistor DC biasing? Explain voltage divider biasing of a
-
-transistor. . [10]
-: B) How does solar cell works? [5]
-C) If Voc = 20 V, I. = 8 mA and Ip = 40 pA. Then find Rg & R, for a fixed bias
-configuration of a transistor. [5]
-
-v7)
---- page 2 ---
-Q.4 A) Compare half wave, full wave and bridge rectifier. [10]
-B) Fora N- channel JFET, Ipss = 8.7 mA, Vp = -3 V, Ves= -1 V. Then find the
-values of (i) Ip (ii) Smo (iil) Em [5]
-C) Explain DC and AC resistance of a diode. [5]
-Q.5 A) Explain CE configuration of BJT along with its input and output characteristics.
-[10]
-B) Describe a basic clamper circuit. [5]
-C) Explain DC load line, Q-point and active region in terms of transistor. [5]
-Q.6 A) Compare BJT, FET and MOSFET. [10]
-B) What is a ripple voltage? Describe a basic filter circuit. [5]
-C) Explain the terms, transistor saturation and transistor cut-off. [5]
-Q.7 A) Describe construction, biasing, operation and application of SCR. [10]
-B) Write a note on the power FET (VMOS). {5]
-C) Write a note on transistor as a switch. [5]
-
-=— =
-````
-
-## 2010-11 · Re-Exam · Trim 2 · paper bdcd624f9356
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2010-2011 RE EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 07/02/2012
-- Text: ocr (3 pages), mean OCR confidence 81.5
-
-````text
-SVKM’s NMIMS
-
-= Mukesh Patel School Of Technology Management & Eng
-, Programme: B.Tech - ALL STREAMS Year: I Trimester:
-Academic Year : 2011-2012
-
-» Batch: 2010-2011
-Subject: BASIC ELECTRONICS Marks:
-Time: A
-Date: 07/02/2012 Duration:
-Re - Examination ‘
-Instructions: Candidates should read carefully the instructions printed ie question paper
+Instructions: Candidates should read carefully the instructions printed on the question paper
 and on the cover of the Answer Book, which is provided for their use.
+
 N.B:
 
 (1) Question no 1 is compulsory
 
 (2) Out of remaining six questions, attempt any four questions.
+
 (3) In all five questions to be attempted.
 
 (4) All questions carry equal marks
 
 (5) Answer to each new question to be started on a fresh page.
+
 (6) Figure in brackets indicates full marks.
 
 (7) Assume suitable data if necessary.
 
 Ql Attempt any five of the following (20)
+a) | Explain PN Junction in the forward bias and reverse bias mode.
 
-a) What is the effect of temperature on diode characterestics.
+b)_| Differentiate avalanche and zener breakdown.
+c) | Calculate the values of B, Ic and Ip with a = 0.96 and Ip = 60 pA
+d) | Explain why transistor is termed as bipolar device.
 
-b) Differentiate avalanche and zener breakdown.
+e) | Explain Zener as a voltage Regulator.
 
-c) Calculate the values of B, Ic and Iz with a = 0.99 and Ip = 50 pA
+f) | Fora N channel JFET Ipss = 9 mA, Vp = -6 V, Vas =- 2V. Find the values
 
-d) Explain, why fixed bias circuit is used for BJT voltage amplifier when output
-voltage required is very low.
+Q2 | a) | Fora Shunt Zener regulator, giving output voltage 10 V and Load resistance (10)
+varying from 5 KQ to 10KQ.. Vin is varying between 18 to 22 V, Determine R
+series Resistance, Pzmax,AndRo Take Rz=40Q,Izmin=50mA
 
-e) Define holding current, latching current, forward and reverse break over voltage in
-connection with SCR.
+R
+fon WWW> IL 6
 
-f) ForaN channel JFET Ipss = 9 mA, Vp = -6 V, Ves = - 2V. Find the values
+Iz
+Vv. Rumin) = 5 KQ
+in =
+18 +022V Tapia)” WEG
+oO
 
-} of i) Ip, ii) gma, iti) gm
-
-Q2 a) Explain capacitor filter with bridge rectifier. (Diagram, Working, (10)
-waveforms)
-b) Determine the range of values of Vi that will maintain the zener diode of the (06)
-following figure in the ON state. Vz = 30 V, Zener current rating = 25 mA
-
-zoo- a> 1
-} Wy > >
-\ , :
-q } 7 lz 4
-vy 2 a
-j
-Zale
-=
-
-c) Explain the piecewise linear equivalent circuit for diode with characteristics. (04)
-
-B
+c) | Draw characteristics, symbol, constructional diagram of SCR and Explain holding | (10)
+current, latching current, forward and reverse break over, forward and reverse
+blocking mode.
 --- page 2 ---
-Q3) a) With the help of neat diagram, explain the construction, characteristics and working
+Q3) | a) | With the help of neat diagram, explain the construction, characteristics and working | (10)
 of a typical BJT used, for voltage amplification.
 
-(b) For the circuit shown in figure, determine Icg, Vcgg, Ve, Ve, Stability factor. (10)
+(b) | For the circuit shown in figure, determine Ica, Vceq, Ve, Vc, Stability factor. | (10)
 
-Vane 90M
-’ WOCS 22 V
+¢ Veco=20V
+qik
 
-Ps 4
+Beta = 150, VBE = 0,7y
 
-ook = 10k We
-
-a Ps
-
-a Beta = 140
-
-] to VBE =0.7V
-
-S 2gkte L
-
-7 2 1.Sk
-
-+
-Q4) a) Explain the operation of voltage doubler circuit. (5)
-b) Explain the DC Load line analysis of a transistor, Dependency of Q point, (10)
+$ 2
+39k tk
+ims
+Q4) | a) | What is Clamper circuits, explain each type with diagrams. (5)
+b) | Explain the DC Load line analysis of a transistor, Dependency of Q point, (10)
 
 Temperature, B dc, and different transistors.
 
-c) Determine the region of operation of the silicon transistor shown in figure. (5)
-Assume f = 96, Vege sat = 0.7 V and Vege (act) = 0.7 V.
+c) | Determine the region of operation of the silicon transistor shown in figure. | (5)
+Assume B = 96, Vee sat = 0.7 V and Vge (act) = 0.7 V.
 
-i Wee = 10 ¥
+7 Wee=10V
 
-2 3kn-
-2 cand
-a OK
+Q5) a) | Explain with suitable diagram, construction working and drain | (10)
+characteristics of P channel Depletion MOSFET.
 
-|
+b) | Why JFET is called a square-law device. 6)
 
-“fora te
+c) | Compare E - MOSFET and D - MOSFET. (5)
 
-*
-a
-
-<<
-
-a
-
-= 2kn
+iE
 --- page 3 ---
-Q5) a)
+Q6) | a) | Explain Construction and Characteristics of Schottky Diode.
 
-b)
+b) | Draw output Waveform for the circuit shown in fig.
 
-c)
+c) | Secondary voltage of Centre Tapped transformer is 100 V, 50 Hz. D.C. load (10)
+connected to Full Wave Rectifier is 100 ©. Ripple factor should not exceed 4%
+Determine: Value of L for L Filter , Vde if R Choke is 15 ‘Q and Voltage
+Regulation of Power Supply.
 
-Q6) a)
-b)
+Q7) Write short note (any two) (20)
 
-¢)
+a) | Voltage doubler
 
-Q7)
+b) | Biasing circuits in Transistor
 
-Explain with suitable diagram, construction working and drain (10)
-characteristics of N channel Depletion MOSFET.
+c)_| VMOS
 
-Explain MOSFET as a switch. (5)
-
-Determine the co- ordinates of Q point. Specify the type of biasing. (5)
-
-9 WEY]
-
-soy ses 2 3.3k- Sosa
-2B 2
-||
-My Output
-put = 7CpF 470p ——*,
-Inpu i VG — tg
-i =
-Assume
-t Vel = 4V
-; S200 |ldss=8mA
-18S gmo = 5000 imho
-1 a T= spe
-ps
-Explain Construction and Characteristics of Schottky Diode. (05)
-
-What is clipper circuit? Analyze the output waveform of negative shunt (05)
-clipper with Input 20 Vpp & 1 kHz Sinusoidal waveform, Resistance 10KQ
-and negative biased voltage = -5V.
-
-A single phase full wave rectifier makes use of x section filter with two 10uf (10)
-capacitor and a choke of 104. The secondary voltage is 280 Vrms with
-respect to centre tap output. If the load current is 100 mA and Vdc is 346 V.
-determine the percentage ripple.
-
-Write short note (any two) (20)
-VMOS.
-
-Transistor specifications.
-
-Clamper circuits.
-
-Xx
-
-Hp
+3/
+14
 ````
 
-## 2010-11 · Re-Exam · Trim 2 · paper 38d0f42aaf6d
+## 2010-11 · Re-Exam · Trim 2 · paper eecc3ea51003
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: exam date: 18/06/2012
-- Text: ocr (2 pages), mean OCR confidence 91.9
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/2008-2009 re exam I(3).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/02/2011
+- Text: ocr (2 pages), mean OCR confidence 90.4
 
 ````text
-a SVKM’s NMIMS
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (TECH) -ALL STREAMS Year: I Trimester: II
+Academic Year : 2010-2011
 
-Mukesh Patel School of Technology Management & En ineerin
+Batch: 2008-2009
+Subject: BASIC ELECTRONICS Marks: 100
 
-Programme: MBA Tech CALL STREAMS) Year: I Trimester: II
+; Time: 10.00 AM TO 1.00 PM
+Date: 11/02/2011 Duration: 3 hrs.
 
-, Academic Year : 2011-2012 “ :
-Batch: 2010-2011 BS aligs
-Subject: Basic Electronics Marks: / S$ *¥60 : aN
+Re - Examination
 
-Date: 18/06/2012
+instructions: Candidates should read carefuliy the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
+NB:
+1. Question No.1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks. (if applicable)
+5. Answer to each new question to be started on a fresh page.
 
-Re - Examination Gr
-N.B.: 1. Attempt any 5 questions.. —
-2. All questions carry equal marks.
-3. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
 
-4. Figures in brackets on the right hand side indicate full marks.
+Q1] Attempt any Four [20]
+a) Why is PIV of center tapped full wave rectifier equal to 2Vm?
 
-QI (a) Explain construction, working and characteristics of zener diode. Also explain its
-_ application as a voltage regulator.
-(b) A silicon diode has reverse saturation current of 2.5424 at 300°K. Find forward voltage
-for a forward current of 10mA.
-(c) In an n-type semiconductor, the Fermi level lies 0.3eV below the conduction band at
-300°K. If the temperature is increased to 330°K, find the new position of Fermi level.
+b) Explain zener diode as voltage regulator.
 
-Q2 (a) Explain in detail characteristics of UJT. Also discuss UST relaxation oscillator.
-(b) Write a short note on
-(i) LED (ii) LCD
+c) Explain the use of bleeder resistor in detail?
 
-Q3 (a) Draw and explain with the setup, transistor common base mode characteristics
+d) Explain working of schottky diode?
 
-(b) Find the collector current in the circuit shown. 412V
-The transistor has 8 =100. Assume
-} Vsecactive) = 9-6V, Vez ¢sary = 0.7V and Veg ¢sar) = 9-2V « 1.2kQ
-100kQ
+e) Compare BJT and JFET.
 
-(c) Compare L filter and C filter
+f) Explain photovoltaic cell.
 
-alt (a) With the help of circuit diagram, waveforms explain the working of center tapped full
+Q2a] Draw and explain the construction and working of LED. Discuss applications of LED? [10]
+Q2b] Explain the operation and characteristics of UJT. : [10]
+Q3a] What is TRIAC and how is it different from SCR. Explain modes of operation in TRIAC. [10]
 
-‘ ait wave rectifier. Also derive equation for output voltage, rectifier efficiency, ripple factor
-¢ } and PIV rating of diodes.
+* Q3b] With Explain the construction and working of n-channel JFET. oo [10] o>
+Q4a] Explain different types of filters. [10]
+Q4b] What is bias stabilization and thermal runaway also explain fixed biasing. [10]
 
-(b) Draw and explain TRIAC characteristics and explain how TRIAC is different from
-
-, DIAC.
-
-Q5 (a) Explain in detail LC filter. What is role ‘of Bleeder resistance?
-
-(b) A bridge rectifier circuit is supplied from 250V, 50Hz supply with transformation ratio
-of 2:1 to a load of 10kQ. Secondary resistance of the transformer is 10Q and forward
-resistance of each diode is1002.. Calculate
-(i) Average, effective, peak value of load current and voltage.
-
-(ii) Efficiency of rectification
-(c) Explain the characteristics of JFET. Mark clearly the various regions
-
-[10]
-[5]
-[5]
-
-[10]
-[10]
-
-[7]
-[8]
-
-[5]
-[10]
-
-[10]
-
-[8]
-7]
-
-[5]
+o-
 --- page 2 ---
-Q6 (a) Derive the stability factor for the collector to base bias
+Q5a] Compare CB, CE and CC configuration.
+Q5b] Explain the working of pn junction diode.
+
+Q5b] Write a short note on UJT as relaxation oscillator.
+
+Q6a] Draw and explain bridge rectifier.
+Q60] Expiain photoconductive cell.
+Q6c] Derive the relation between a and B.
+
+Q6d] Write a short note on DIAC.
+
+Q7a] Explain the concept of positive and negative feedback.
+Q7b] Explain the avalanche and zener breakdown mechanism.
+Q7c] Explain base width modulation.
+
+Q7d] Explain different types of amplifiers.
+
+xX
+
+7
+
+<
+
+[05]
 
 [10]
-circuit shown in figure.
+[05]
 
-(b) Voltage gain of an amplifier is 60dB. It is decreased to 40dB with feedback. Calculate [5]
-the feedback factor.
+[05]
 
-(c) Write a short note on Class B push-pull power amplifier. [5]
+[05]
+[05]
+
+[05]
+
+[05]
+[05]
+[05]
+
+[05]
+
+a)
+````
+
+## 2010-11 · Re-Exam · Trim 2 · paper 8bb8a8d9b551
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/2009-2010 re exam(2).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/02/2011
+- Text: ocr (3 pages), mean OCR confidence 87.4
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (TECH) -ALL STREAMS Year: I Trimester: II
+Academic Year : 2010-2011
+
+Batch: 2009-2010
+Subject: BASIC ELECTRONICS | : Marks: 100
+
+Time: 10.00 AM TO 1.00 PM
+Date: 11/02/2011 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is providedfor their use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining question to be attempted.
+3. Inall four questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started ona fresh page.
+
+6. Figures in brackets on the right hand side indicates full marks.
+
+QJ (a) Derive the relation between a and B? [4]
+Q1 (b) Why is PIV =2V,, for centre tapped FWR? [4]
+Q11 (c) Which configuration is often preffered and why? [4]
+Q1 (d) Explain TRIAC as light dimmer? _ (4)
+Q1 {e) Explain the classification of amplifiers? [4]
+Q2 (a) Explain the construction and working of LED? [6]
+Q2 (b) Explain in detail Schottky diode? [6]
+Q2 (c) Explain shunt capacitor filters? [4]
+
+Yo
+--- page 2 ---
+Q2 (d) Compare BIT and JFET? [4]
+Q3 (a) Explain voltage divider bias circuit? [6]
+(6]
+
+Q3 (b) Explain zener diode as voltage regulator?
+
+fe =100. Calculate Ip, le, Vce- With neat sketch draw [8]
+
+{ +iév
+
+Q3 (c) For Si transistor shown in the fig. h
+
+adc load line and indicate operating point on it?
+
+R= 68K 25 Rs
+R, = 25ka 5K SL
+Q4 (a) Explain input and output characteristics of CB configuration? : {6]
+Q4 (b) Draw and explain the construction and operation of SCR? {8}
+QA (c} Explain the formation of a potential barrier in a pn junction. Discuss the behavior {6}
+of pn junction under forward and reverse bias.condition?
+Q5 (a) Calculate for the following circuit: +20V [4]
+i. Ip
+i. ke 6g0r.n SOR
+iii. Vee fo
+p= 40
+iv. power consumption.
+WOKS
+Q5 (b) Explain the phototransistor in detail? [6]
+Q5 (c) Discuss the frequency response of RC coupled transistor amplifier? [6]
+(4)
+
+Q5 (d) Explain with neat sketch and waveform bridge FWR?
+
+Ls
+--- page 3 ---
+Q6 (a) Describe the construction and working of n- channel JFET? And explain JFET parameters? [10]
+
+Q6 (b) Write short note on TRIAC’s construction, characteristics and its application?
+
+[10]
+Q7 (a) Explain the V-I characteristics of DIAC? [4]
+Q7 (b) Expiain the need for bias stablization for transistor? [4]
+Q7 (c) Derive the expression for voltage gain with negative feedback? [6]
+Q7(d) Explain BJT as a switch? [6]
+
+og
+
+3
 ````
 
 ## 2009-10 · Exam not stated · Trim 2 · paper 96773a145774
@@ -8729,339 +9669,100 @@ a 7°
 +
 ````
 
-## 2009-10 · Re-Exam · Trim 2 · paper 15c256b7b5b0
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2009-2010 RE EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 07/02/2012
-- Text: ocr (2 pages), mean OCR confidence 88.5
-
-````text
-— SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: B.Tech - ALL STREAMS Year: I Trimester:
-
-i Academic Year : 2011-2012
-
-| Batch: 2009-2010 ‘s a
-Subject: BASIC ELECTRONICS Marks: FOO NMIMS University eo
-Time: ‘G0 phy"ts 5.60 Pos
-
-Date: 07/02/2012 Duration: , s. I$
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on t
-and on the cover of the Answer Book, which is provided for their use.
-
-N.B:
-
-(1) Question no | is compulsory
-
-(2) Out of remaining six questions, attempt any four questions.
-
-(3) In all five questions to be attempted.
-
-(4) All questions carry equal marks
-
-(5) Answer to each new question to be started on a fresh page.
-
-(6) Figure in brackets indicates full marks.
-
-(7) Assume suitable data if necessary.
-
-Que | Attempt any five of the following
-a) Explain Diode characteristics with considering it as ideal and real.
-b) What is Avalanche and zener breakdown.
-c) Calculate the values of Ig if dae = 0.98 Icgo = 12 WA and Ip = 120 pA.
-d) With the help of neat diagram explain the operation of n-p-n transistor.
-e) Explain saturation region and ohmic region in drain characteristics of JFET.
-f) Compare DMOSFET and DMOSFET.
-
-} Que 2. Attempt the following
-a) Explain a filter with half wave rectifier.
-(Diagram, Working, Waveforms)
-b) Determine the range of Ry and I; that will result in Vg being maintained
-at 10 V. Also determine the maximum wattage rating of the diode.
-(Rs = 1 Kohm, Vz = 10 V, Izm = 32 mA, Vi= 50 V)
-c) Define static and dynamic resistance of diode.
-
-Que 3. Attempt the following
-a) With the help of waveforms, explain the operations of different types of
-y ) clamper circuits
-4 Explain the construction and working of schottky diode.
-c) Explain the operation of full wave voltage doubler circuit.
-
-Que 4. Attempt the following
-a) With the help of experimental setup, explain the procedure to plot the input
-and output characteristics of a transistor in CE configuration.
-b) Explain with suitable diagram, construction working and drain characteristics of N
-channel JFET.
-
-Yo
-
-[20]
-
-[10]
-
-[6]
-[4]
-
-[10]
-[6]
-[4]
-
-[10]
-
-[10]
---- page 2 ---
-Que 5. Attempt the following
-a) For the network shown, determine i) Igo, ii) Icg, iti) Vero. Draw DC load line. Comment
-on the region of operation. [10]
-g P' _o | 6 V
-
-25K
-68K aur
-
-[-—~ Vo
-tue
-
--j00
-Vin OTK a P=
-
-SU5k sz pret
-
-b) Derive the equation of collector current in CE configuration. [6]
-c) A JFET has a pinch off voltage of -4 V and the saturation current of 8 mA.
-Calculate drain current if Vag =-1.55 V. [4]
-
-Que 6. Attempt the following
-a) Draw and explain the circuit diagram of a fixed bias circuit using CE configuration
-
-and Derive the equation of stability factor [10]
-
-b) Explain basic operation of SCR with VI characteristics [6]
-c) Why CE configuration is preferred for amplifier. [4]
-que 7. Write short note on two of the following. [20]
-
-a) Zener as regulator.
-b) LED (with one application)
-c) DC load line and Operating point in transistor circuit analysis.
-
-—_———— Ke
-````
-
-## 2009-10 · Re-Exam · Trim 2 · paper 8bb8a8d9b551
+## 2009-10 · Re-Exam · Trim 2 · paper 125c12c84ddf
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/2009-2010 re exam(2).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/02/2011
-- Text: ocr (3 pages), mean OCR confidence 87.4
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/2007-2008 re exam(4).pdf`
+- Text: ocr (2 pages), mean OCR confidence 93.4
 
 ````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (TECH) -ALL STREAMS Year: I Trimester: II
-Academic Year : 2010-2011
+SVKM’S NMIMS
 
-Batch: 2009-2010
-Subject: BASIC ELECTRONICS | : Marks: 100
+Mukesh Patel School of Technology Management & Engineeri oF
+Programme MBA Tech, First Year (Att ~AM
 
-Time: 10.00 AM TO 1.00 PM
-Date: 11/02/2011 Duration: 3 hrs.
+Trimester II, Academic Year 2009- 2010
 
-Re - Examination
+N
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is providedfor their use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining question to be attempted.
-3. Inall four questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started ona fresh page.
+Ff
+| Baia if PERE 3
 
-6. Figures in brackets on the right hand side indicates full marks.
+Subject: Basic Electronics s: 100 J,
+f \
+fe -crean(20rr08) eeiapachihtbo 6)
 
-QJ (a) Derive the relation between a and B? [4]
-Q1 (b) Why is PIV =2V,, for centre tapped FWR? [4]
-Q11 (c) Which configuration is often preffered and why? [4]
-Q1 (d) Explain TRIAC as light dimmer? _ (4)
-Q1 {e) Explain the classification of amplifiers? [4]
-Q2 (a) Explain the construction and working of LED? [6]
-Q2 (b) Explain in detail Schottky diode? [6]
-Q2 (c) Explain shunt capacitor filters? [4]
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
 
-Yo
---- page 2 ---
-Q2 (d) Compare BIT and JFET? [4]
-Q3 (a) Explain voltage divider bias circuit? [6]
-(6]
-
-Q3 (b) Explain zener diode as voltage regulator?
-
-fe =100. Calculate Ip, le, Vce- With neat sketch draw [8]
-
-{ +iév
-
-Q3 (c) For Si transistor shown in the fig. h
-
-adc load line and indicate operating point on it?
-
-R= 68K 25 Rs
-R, = 25ka 5K SL
-Q4 (a) Explain input and output characteristics of CB configuration? : {6]
-Q4 (b) Draw and explain the construction and operation of SCR? {8}
-QA (c} Explain the formation of a potential barrier in a pn junction. Discuss the behavior {6}
-of pn junction under forward and reverse bias.condition?
-Q5 (a) Calculate for the following circuit: +20V [4]
-i. Ip
-i. ke 6g0r.n SOR
-iii. Vee fo
-p= 40
-iv. power consumption.
-WOKS
-Q5 (b) Explain the phototransistor in detail? [6]
-Q5 (c) Discuss the frequency response of RC coupled transistor amplifier? [6]
-(4)
-
-Q5 (d) Explain with neat sketch and waveform bridge FWR?
-
-Ls
---- page 3 ---
-Q6 (a) Describe the construction and working of n- channel JFET? And explain JFET parameters? [10]
-
-Q6 (b) Write short note on TRIAC’s construction, characteristics and its application?
-
-[10]
-Q7 (a) Explain the V-I characteristics of DIAC? [4]
-Q7 (b) Expiain the need for bias stablization for transistor? [4]
-Q7 (c) Derive the expression for voltage gain with negative feedback? [6]
-Q7(d) Explain BJT as a switch? [6]
-
-og
-
-3
-````
-
-## 2008-09 · Exam not stated · Trim 2 · paper 8256bfc92208
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2008-09,100001.pdf`
-- Printed on paper: max marks: 89; exam date: 20/06/2012
-- Text: ocr (2 pages), mean OCR confidence 87.7
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: II - ~~
-Academic Year : 2011-2012 / < \asnitre oF Nagy
-
-Batch: 2008-2009 /2094-10 - l & “,
-Subject: Basic Electronics Marks: 89 j o
-Time: @,06'am To 1/00 pm
-a
-TS, ;
-
-Date: 20/06/2012 Duration:
-
-is % Mpg:
-Re - Examination mt
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-N.B:
-
-(1) Question no | is compulsory
-
-(2) Out of remaining six questions, attempt any four questions.
-
+N.B.: (1) Question No.1 is compulsory.
+(2) Out of remaining questions, attempt any four questions,
 (3) In all five questions to be attempted.
+(4) Answer to each new questions to be started on a fresh page.
+(5) Figure in brackets on the right side indicates full marks.
 
-(4) All questions carry equal marks
+1. Attempt any ten of the following:- [20]
+(a) What is the necessity of multistage amplifier?
 
-(5) Answer to each new question to be started on a fresh page.
+(b)Which configuration of BJT provides very high input impedance and why?
 
-(6) Figure in brackets indicates full marks:
+(c)Which configuration of BJT provides highest stability of operating point and why?
 
-(7) Assume suitable data if necessary.
+(d)F.E.T. is called as voltage controlled current source, Give reason
 
-Que 1 Attempt any Four of the following [20]
+(e) Why UST is called as negative resistance device.
 
-a) Explain the operation of Full wave voltage doubler circuit.
+(f) Give different classes of power amplifier with their efficiencies.
 
-b) Explain temperature dependence of Diode Characteristics.
+(h) Draw construction and characteristics of TRIAC.
 
-c) Explain the breakdown mechanism of zener diode.
+(k)Why common collector amplifier is used as buffer?
 
-d) Derive the relation between a and B.hence find the value of B if o=0.95.
-e) Derive the expression for leakage current in CE configuration.
+(L) Define line and load regulation of voltage regulator.
 
-f) Compare BJT and FET.
+(m) Draw V-I characteristics of PN junction diode and explain Forward resistance
+of diode.
 
-| Que 2. Attempt the following
+(n) Draw symbol for N channel JFET and P channel JFET.
 
-a) Explain z-filter with half wave rectifier. [10]
-(Diagram, Working, Waveforms)
+2. (a) Draw and explain construction of UJT. Explain operation of UJT as [10]
+relaxation oscillator.
+(b) Give comparison of CE, CB and CC configuration of transistor. [10]
+3. (a) What are the causes of instability of operating point of BJT ? Derive [10]
 
-b) For a N channel JFET Ipss = 9 mA, Vp = -6 V, Ves =- 2V. Find the values of 1) Ip, ii)
-gMo, lil) gm [10]
+expression For thermal stability factor Sico for voltage divider bias.
 
-Que 3. Attempt the following
-
-‘ z ? For the bridge rectifier find Idc,Irms,Vdc,Vrms across load and PIV rating of the diode.
-Transformer turn ratio 5:1, and input is 230v, 50Hz, R:=460Q [10]
-b) :
-\ c) Explain schottky diode? and how the characteristics of Schottky diode is differ from P-N
-junction diode [10]
+{ Turn Over
 --- page 2 ---
-\
+ey
 
-a>
+(b) Explain with neat sketches transfer and output characteristics of JFET. How [10]
+You will obtain different parameters of FET from these characteristics.
 
-Que 4. Attempt the following
+4.(a) Draw and explain construction and characteristics of SCR. [10]
+(b) Explain operation of full wave rectifier circuit employing LC filter [ 10]
+Calculate the ripple factor if L = 1H and C= 1 pF ?
+5 (a) Exlpain in detail with frequency response operation of single stage [10]
+CE Amplifier.
+(b) Explain construction and characteristics of DIAC. [ 10]
 
-a) With the help of neat diagram, explain the construction characteristics and working of
-typical BJT used for voltage amplification.
-(10]
-b) Determine the region of operation of the silicon transistor shown in figure. Assume f = 96,
-Vee sat = 0.7 V and Vpg acy = 0.7 V-
+Give different applications of DIAC. Explain any one application in brief.
 
-we
+6(a) With a circuit diagram explain working of bridge rectifier. Give input [10]
+and output waveforms.
+(b) Draw and explain circuit diagram of Zener voltage regulator. [10]
 
->
-= Seas b
-=
->
+A zener diode shunt regulator has to supply a load current of zero to 200ma
+at 10V. Input to regulator circuit varies from 15 V to 25 V. Assume that the
+zener diode voltage stabilizes at minimum current of 5 ma calculate the value
+maximum of Rs.
 
-Que 5. Attempt the following
-
-a) Explain with suitable diagram, construction working and drain characteristics of N
-Channel Enhancement MOSFET.
-[10]
-b) Explain application and advantages of MOSFET.
-[10]
-
-Que 6. Attempt the following
-
-a) , Explain the DC load line analysis of transistor, Dependency of Q point, Temperature,
-i Bde, Vee. [10]
-
-b), | ;
-of explain basic operation of SCR using two transistor equivalent circuit. Write application
-and advantages of SCR. [10]
-
-Que 7. Write short note on any two of the following.
-[20]
-a) VMOS
-b) Solar Cell(with application)
-c) Clipper (All Types)
-d) Clampers (All Types)
+7. Write short notes on: - [20]
+(a) Shottky barrier diode
+(b) Comparison between BJT and FET
+(C) Varactor diode
+(d) LEDs
 ````
 
 ## 2008-09 · Exam not stated · Trim 2 · paper 7a0a028ebdd0
@@ -9188,6 +9889,7 @@ Q4(a) — Justify — FET is a voltage controlled current device. [4]
 - Programmes: B TECH
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2008-2009 re exam I.pdf`
 - Text: ocr (2 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 B.Tech ,
@@ -9261,7 +9963,6 @@ J
 
 B) Suppose the following list of letters is inserted in order into an empty binary search tree:
 
-J, R, D, G, T, E, M, H, P, A, F,Q
 
 1. Find the final tree T. [05]
 
@@ -9279,250 +9980,6 @@ B) Write Short notes on the following (Any TWO) : [10]
 A
 
 ooo ZX
-````
-
-## 2008-09 · Re-Exam · Trim 2 · paper 7ff262e1afcd
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2008-2009 re exam.pdf`
-- Printed on paper: max marks: 100; exam date: 11/02/2011
-- Text: ocr (3 pages), mean OCR confidence 89.2
-
-````text
-Ko
-
-\ SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engi ering
-Programme: B.TECH -ALL STREAMS Year: I Trimester: II
-Academic Year : 2010-2011
-Batch: 2008-2009
-Subject: BASIC ELECTRONICS Marks: 100
-. Time: 2.00 PM TO 5.00 PM
-Date: 11/02/2011 Duration: 3.hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-N.B:
-
-(1) Question no 1 is compulsory
-
-(2) Out of remaining six questions, attempt any four questions.
-
-(3) In all five questions to be attempted.
-
-(4) All questions carry equal marks
-
-(5) Answer to each new question to be started on a fresh page.
-
-(6) Figure in brackets indicates full marks.
-
-(7) Assume suitable data if necessary.
-
-Ql Attempt any five of the following (20)
-a) | Explain PN Junction in the forward bias and reverse bias mode.
-
-b)_| Differentiate avalanche and zener breakdown.
-c) | Calculate the values of B, Ic and Ip with a = 0.96 and Ip = 60 pA
-d) | Explain why transistor is termed as bipolar device.
-
-e) | Explain Zener as a voltage Regulator.
-
-f) | Fora N channel JFET Ipss = 9 mA, Vp = -6 V, Vas =- 2V. Find the values
-of i) Ip, ii) gmo, iii) gm
-
-Q2 | a) | Fora Shunt Zener regulator, giving output voltage 10 V and Load resistance (10)
-varying from 5 KQ to 10KQ.. Vin is varying between 18 to 22 V, Determine R
-series Resistance, Pzmax,AndRo Take Rz=40Q,Izmin=50mA
-
-R
-fon WWW> IL 6
-
-Iz
-Vv. Rumin) = 5 KQ
-in =
-18 +022V Tapia)” WEG
-oO
-
-c) | Draw characteristics, symbol, constructional diagram of SCR and Explain holding | (10)
-current, latching current, forward and reverse break over, forward and reverse
-blocking mode.
---- page 2 ---
-Q3) | a) | With the help of neat diagram, explain the construction, characteristics and working | (10)
-of a typical BJT used, for voltage amplification.
-
-(b) | For the circuit shown in figure, determine Ica, Vceq, Ve, Vc, Stability factor. | (10)
-
-¢ Veco=20V
-qik
-
-Beta = 150, VBE = 0,7y
-
-$ 2
-39k tk
-ims
-Q4) | a) | What is Clamper circuits, explain each type with diagrams. (5)
-b) | Explain the DC Load line analysis of a transistor, Dependency of Q point, (10)
-
-Temperature, B dc, and different transistors.
-
-c) | Determine the region of operation of the silicon transistor shown in figure. | (5)
-Assume B = 96, Vee sat = 0.7 V and Vge (act) = 0.7 V.
-
-7 Wee=10V
-
-Q5) a) | Explain with suitable diagram, construction working and drain | (10)
-characteristics of P channel Depletion MOSFET.
-
-b) | Why JFET is called a square-law device. 6)
-
-c) | Compare E - MOSFET and D - MOSFET. (5)
-
-iE
---- page 3 ---
-Q6) | a) | Explain Construction and Characteristics of Schottky Diode.
-
-b) | Draw output Waveform for the circuit shown in fig.
-
-c) | Secondary voltage of Centre Tapped transformer is 100 V, 50 Hz. D.C. load (10)
-connected to Full Wave Rectifier is 100 ©. Ripple factor should not exceed 4%
-Determine: Value of L for L Filter , Vde if R Choke is 15 ‘Q and Voltage
-Regulation of Power Supply.
-
-Q7) Write short note (any two) (20)
-
-a) | Voltage doubler
-
-b) | Biasing circuits in Transistor
-
-c)_| VMOS
-
-3/
-14
-````
-
-## 2008-09 · Re-Exam · Trim 2 · paper 064879930dfe
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/BASIC ELECTRONICS BATCH 2008-2009 RE EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 07/02/2012
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-_ Programme: B.Tech - ALL STREAMS Year: I Trimester: II
-Academic Year : 2011-2012
-
-» Batch: 2008-2009
-Subject: BASIC ELECTRONICS Marks:
-Time
-Date: 07/02/2012 Duration: a hrs, “BAARY
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on*
-and on the cover of the Answer Book, which is provided for their use.
-
-N.B:
-
-(1) Question no | is compulsory
-
-(2) Out of remaining six questions, attempt any four questions.
-
-(3) In all five questions to be attempted.
-
-(4) All questions carry equal marks
-
-(5) Answer to each new question to be started on a fresh page.
-
-(6) Figure in brackets indicates full marks.
-
-(7) Assume suitable data if necessary.
-
-Que 1 Attempt any five of the following [20]
-a) Explain DC equivalent circuit of half wave rectifier.
-b) Explain the breakdown mechanism of zener diode.
-c) Calculate the values of B, Ic and Ig with a = 0.98 and Ip = 25 pA
-d) With the help of neat diagram explain the operation of n-p-n transistor.
-e) Explain FET as VVR.
-f) Compare JFET and MOSFET.
-
-Que 2. Attempt the following
-} a) Explain capacitor filter with centre tapped full wave rectifier. [10]
-(Diagram, Working, Waveforms)
-b) Over what range of input voltage will the zener circuit maintain 20 V across 2000 ohm
-load, assuming that series resistance R = 200 ohm and zener current rating
-is 25 mA. [6]
-c) Compare the characteristics of the ideal diode and real diode with suitable diagram. [4]
-
-Que 3. Attempt the following
-a) With the help of waveforms, explain the operations of different types of series
-
-élippers assuming the input voltage to be square wave. [10]
-b) 4 Explain the construction and working of LED. Which are the chemical compounds
-
-used for Red and green LED. . [6]
-c) Explain the operation of half wave voltage doubler circuit. [4]
-
-Que 4. Attempt the following
-a) With the help of experimental setup, explain the procedure to plot the input
-
-and output characteristics of a transistor in CE configuration. [10]
-b) Explain with suitable diagram, construction working and drain characteristics of N
-channel Depletion MOSFET [10]
-
-Yo
---- page 2 ---
-Que 5. Attempt the following
-a) For the network shown, determine i) Iga, ii) Icg, iii) Ve,iv) Vc v) Vp
-
-vi) Vce
-° 1 |6V
-
-Lak BaIK
-a ve
-Va
-
-Vee (a= 80
-
-Ve
-
-O68 k
-
-b) Why biasing is necessary in BJT amplifiers. Compare different biasing
-circuits.
-c) A JFET has a pinch off voltage of -4 V and the saturation current of 10 mA.
-Calculate drain current if Ves = -2 V.
-
-Que 6. Attempt the following
-a) Draw the circuit diagram of a modified fixed bias circuit meiog CE configuration
-and explain how it stabilizes the operating point?
-b) Explain basic operation of SCR using two transistor sbesidete circuit.
-t) Explain thermal runaway with respect to BJT.
-
-Que 7. Write short note on two of the following.
-a) VMOS
-b) Schottky Diode
-c) Transistor Amplifier
-
-=
-
-[10]
-
-[6]
-[4]
-
-[10]
-[6]
-[4]
-
-[20]
 ````
 
 ## 2008-09 · Re-Exam · Trim 2 · paper b672d2d2e26d
@@ -9634,106 +10091,6 @@ ge
 +
 ````
 
-## 2008-09 · Re-Exam · Trim 2 · paper eecc3ea51003
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/2008-2009 re exam I(3).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/02/2011
-- Text: ocr (2 pages), mean OCR confidence 90.4
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (TECH) -ALL STREAMS Year: I Trimester: II
-Academic Year : 2010-2011
-
-Batch: 2008-2009
-Subject: BASIC ELECTRONICS Marks: 100
-
-; Time: 10.00 AM TO 1.00 PM
-Date: 11/02/2011 Duration: 3 hrs.
-
-Re - Examination
-
-instructions: Candidates should read carefuliy the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
-NB:
-1. Question No.1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks. (if applicable)
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q1] Attempt any Four [20]
-a) Why is PIV of center tapped full wave rectifier equal to 2Vm?
-
-b) Explain zener diode as voltage regulator.
-
-c) Explain the use of bleeder resistor in detail?
-
-d) Explain working of schottky diode?
-
-e) Compare BJT and JFET.
-
-f) Explain photovoltaic cell.
-
-Q2a] Draw and explain the construction and working of LED. Discuss applications of LED? [10]
-Q2b] Explain the operation and characteristics of UJT. : [10]
-Q3a] What is TRIAC and how is it different from SCR. Explain modes of operation in TRIAC. [10]
-
-* Q3b] With Explain the construction and working of n-channel JFET. oo [10] o>
-Q4a] Explain different types of filters. [10]
-Q4b] What is bias stabilization and thermal runaway also explain fixed biasing. [10]
-
-o-
---- page 2 ---
-Q5a] Compare CB, CE and CC configuration.
-Q5b] Explain the working of pn junction diode.
-
-Q5b] Write a short note on UJT as relaxation oscillator.
-
-Q6a] Draw and explain bridge rectifier.
-Q60] Expiain photoconductive cell.
-Q6c] Derive the relation between a and B.
-
-Q6d] Write a short note on DIAC.
-
-Q7a] Explain the concept of positive and negative feedback.
-Q7b] Explain the avalanche and zener breakdown mechanism.
-Q7c] Explain base width modulation.
-
-Q7d] Explain different types of amplifiers.
-
-xX
-
-7
-
-<
-
-[05]
-
-[10]
-[05]
-
-[05]
-
-[05]
-[05]
-
-[05]
-
-[05]
-[05]
-[05]
-
-[05]
-
-a)
-````
-
 ## 2008-09 · Re-Exam · Trim 2 · paper 4ead1ce006c4
 
 - Departments: Common (all branches)
@@ -9838,101 +10195,6 @@ gts ee a pa
 fy) Pe ey
 ````
 
-## 2007-08 · Exam not stated · Trim 2 · paper 07b0fe3887a4
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2007-2008.pdf`
-- Text: ocr (2 pages), mean OCR confidence 94.3
-
-````text
-SVKM’s NMIMS UNIVERSITY
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE
-ENGINEERING
-TECH 187 Year
-Trimester IN, 2007-08
-
-Subject : Communication Skills
-
-Qale? 29-04 -0F
-
-Instructions : Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Attempt any 5 out of 7 questions.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in brackets indicate full marks.
-
-1a) Define the word ‘Communication’. Describe the process of Communication with the
-help of a diagram, its elements and working. (10)
-
-1b) Socio-psychological barriers can be overcome only by one’s own efforts’. Discuss
-the statement giving examples of any five socio-psychological barriers. (10)
-
-2a) Write short notes on any two:- (10)
-i Merits of oral communication
-
-ii Ways to improve upward communication
-
-iii Proxemics/Space distancing
-
-2b) Read the following case study and answer the questions that follow:
-
-A student took a summer job in rural Maharashtra which involved interviewing
-farmers about the water supply availability. The first few days he went to the field
-wearing a suit and tie. He also used a lot of technical words in his questions. He got
-little co-operation from the farmers. He decided to change his strategy- he began
-wearing a Kurta and Pyjama and started speaking to the farmers in native Marathi.
-The farmers were much more co-operative.
-
-i why did you think the farmers were uncooperative? What barriers do you feel were (3)
-operating at this point?
-
-ii Why were the farmers cooperative later? What does this tell you about effective (2)
-communication?
-
-PTO
---- page 2 ---
-Q
-
-2c) State whether the following statements are true or false .Give reasons for the same (5)
-i Stage fright is a very phenomenon
-
-ii Crossing one’s arms across one’s chest is a sign of defensiveness
-
-iii The first component in the process of communication is encoding
-
-iv Written communication has legal validity
-
-v One should write to impress, not express
-
-3a) What is a Group discussion? What are the dos’ and don’ts of a group discussion (10)
-
-3b) What is an interview? What verbal and non-verbal aspects should be kept in
-mind by the candidate to ensure success at the interview. (10)
-
-4\ Write a covering letter and bio-data to the Manager of Datamatics for the post of a
-Network Engineer. Candidate should be BE/Btech with minimum of 2 yrs experience
-
-with a reputed firm. (Use Semi-block form) (20)
-5a) What aspects should be kept in mind for a successful presentation : (10)
-Sb) What are the barriers faced while listening. How can it be overcome? (10)
-6a) Explain the aspects involved in Kinesics /body language (10)
-
-6b) What is Grapevine communication? What are the problems associated with
-grapevine communication? (10)
-
-7a) What are the advantages of written communication? Explain any five points (10)
-with suitable examples
-
-7b) What are cross cultural barriers? Suggest ways to overcome them (10)
-
-—
-
-a oat
-````
-
 ## 2007-08 · Exam not stated · Trim 2 · paper 605f0835ad93
 
 - Departments: Common (all branches)
@@ -9940,6 +10202,7 @@ a oat
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/2007-2008(20).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 84.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -10018,116 +10281,6 @@ Cc Cc c
 Gs sification of Power Amplifier.
 
 Page 2 of 2
-a Me er NZ ea aol
-````
-
-## 2007-08 · Re-Exam · Trim 2 · paper 01109db96d5f
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2007-2008 re exam (1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 87.7
-
-````text
-SVKM’s NMIMS UNIVERSITY Mumbai - 66,
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT AND**’
-ENGINEERING &
-
-Blech 15’ Year; Trimester II ; 2007-08 Re- exter nanny ony
-
-Subject : Communication Skills
-Dailies 2107/08 | Marks : 100
-Time : 3 Hrs
-J -@0-5-0O pe
-Instructions : Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Attempt any 5 out of 7 questions.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in brackets indicate full marks.
-
-1a) “Communication is a deliberate and systematic activity”. Explain this statement with
-
-the help of a diagram and various stages of communication process. (10)
-1b) What are the advantages and disadvantages of oral communication. (10)
-2a) Write short notes on any two:- (10)
-
-i) Language Barriers
-ii) Advantages of written communication
-iii Proxemics / Space distancing
-
-2b) Read the following case study and answer the questions that follow: (5)
-
-Vinod was a foreman in a large fiberglass product factory. As he was talking to his
-employees, he often talked in a very loud voice because he was talking over factory
-noise. Vinod was a very hyper-active, aggressive man and he was always in a hurry. Ram
-and Shyam were called into Vinod’s office for an explanation of a new procedure. Vinod
-talked to them in the same loud voice he uses in the factory. The loudness of his voice
-made the workers hard to concentrate of his message. Vinod was in a hurry as usual. He
-didn’t pause for questions and left in a hurry. His parting words were “ Go back to the
-line and explain to your co-workers how we are going to implement this procedure.”
-Ram and Shyam left his office utterly confused, frustrated and not very knowledgeable
-about the new procedure they were assigned to implement.
-
-i) What suggestions would you offer to Mr Vinod? (3)
-ii) How should Ram and Shyam prepare for their next conversation with Mr. Vinod? (2)
-
-PTO
---- page 2 ---
-aX
-
-c) Match the following body gestures with their appropriate interpretations (6)
-
-i) Raised Eyebrows Honest approach
-
-ii) Pointing Fingers —------------ Confidence
-
-iii) Frown on Forehead ------------ Surprise / Disbelief
-
-iv) Steady Eye contact ------------ Authority / Domination
-v) OpenPalms =~ ------------ Confusion
-
-3a) “Body speaks louder than words.” Discuss this statement with reference to factors of
-
-body language. (10)
-3b) What are the effective presentation skills? (10)
-4a) Explain any 5 socio-psychological barriers to communication. (10)
-4b) Write a brief note on cross — cultural barriers to communication. (10)
-
-5a) What is horizontal communication? Suggest some techniques to overcome the
-
-problems of horizontal communication. (10)
-5b) What are the barriers to effective listening? (10)
-6a) What are the criteria for evaluation of an effective group discussion? (10)
-
-6b) Your friend wants to appear for a personal interview. Suggest some techniques to
-achieve success in the interview. (10)
-
-7) Write a covering letter and bio-data for the post of the post of ‘Control and
-Automation Engineer’ advertised by Technocraft Paper Technology (India) Ltd. 4,
-Nariman Point, Churchgate, Mumbai — 400002. You as a candidate are an Engineer in
-Electronics / Computers / Instrumentation Engineering with proficiency in programming
-in C++. (Use Semi-block form.) (20)
-
-Daa, |
---- page 3 ---
-pare
-
-c) What is Exact Differential Equation? For the following differential equation test
-for exactness and solve.
-
-2 4x 3 19 2 *)
-(ye +4x°)de + (Qxye”” -—3y?)dy =0
-
-Q.7) a) Solve (5+ 2x)? 2% ~ 6(5+2x)™ + 8y = 6x
-ax a&
-
-b) Solve the Differential Equation y"+ y =secx by the method of variation of
-parameters.
-
-c) Solve completely the differential equation (D? ~5D+4+ 6)y = sin3x
 ````
 
 ## 2007-08 · Re-Exam · Trim 2 · paper e70c1517f836
@@ -10310,193 +10463,6 @@ Ry = 37.5k2 Re = 3kQ
 Page 2 of 2
 
 » erecnn a een
-````
-
-## 2007-08 · Re-Exam · Trim 2 · paper 125c12c84ddf
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/2007-2008 re exam(4).pdf`
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-SVKM’S NMIMS
-
-Mukesh Patel School of Technology Management & Engineeri oF
-Programme MBA Tech, First Year (Att ~AM
-
-Trimester II, Academic Year 2009- 2010
-
-N
-
-Ff
-| Baia if PERE 3
-
-Subject: Basic Electronics s: 100 J,
-f \
-fe -crean(20rr08) eeiapachihtbo 6)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-N.B.: (1) Question No.1 is compulsory.
-(2) Out of remaining questions, attempt any four questions,
-(3) In all five questions to be attempted.
-(4) Answer to each new questions to be started on a fresh page.
-(5) Figure in brackets on the right side indicates full marks.
-
-1. Attempt any ten of the following:- [20]
-(a) What is the necessity of multistage amplifier?
-
-(b)Which configuration of BJT provides very high input impedance and why?
-
-(c)Which configuration of BJT provides highest stability of operating point and why?
-
-(d)F.E.T. is called as voltage controlled current source, Give reason
-
-(e) Why UST is called as negative resistance device.
-
-(f) Give different classes of power amplifier with their efficiencies.
-
-(h) Draw construction and characteristics of TRIAC.
-
-(k)Why common collector amplifier is used as buffer?
-
-(L) Define line and load regulation of voltage regulator.
-
-(m) Draw V-I characteristics of PN junction diode and explain Forward resistance
-of diode.
-
-(n) Draw symbol for N channel JFET and P channel JFET.
-
-2. (a) Draw and explain construction of UJT. Explain operation of UJT as [10]
-relaxation oscillator.
-(b) Give comparison of CE, CB and CC configuration of transistor. [10]
-3. (a) What are the causes of instability of operating point of BJT ? Derive [10]
-
-expression For thermal stability factor Sico for voltage divider bias.
-
-{ Turn Over
---- page 2 ---
-ey
-
-(b) Explain with neat sketches transfer and output characteristics of JFET. How [10]
-You will obtain different parameters of FET from these characteristics.
-
-4.(a) Draw and explain construction and characteristics of SCR. [10]
-(b) Explain operation of full wave rectifier circuit employing LC filter [ 10]
-Calculate the ripple factor if L = 1H and C= 1 pF ?
-5 (a) Exlpain in detail with frequency response operation of single stage [10]
-CE Amplifier.
-(b) Explain construction and characteristics of DIAC. [ 10]
-
-Give different applications of DIAC. Explain any one application in brief.
-
-6(a) With a circuit diagram explain working of bridge rectifier. Give input [10]
-and output waveforms.
-(b) Draw and explain circuit diagram of Zener voltage regulator. [10]
-
-A zener diode shunt regulator has to supply a load current of zero to 200ma
-at 10V. Input to regulator circuit varies from 15 V to 25 V. Assume that the
-zener diode voltage stabilizes at minimum current of 5 ma calculate the value
-maximum of Rs.
-
-7. Write short notes on: - [20]
-(a) Shottky barrier diode
-(b) Comparison between BJT and FET
-(C) Varactor diode
-(d) LEDs
-````
-
-## 2006-07 · Exam not stated · Trim 2 · paper 275fff75b5b0
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2006-2007 (1).pdf`
-- Printed on paper: exam date: 24/04/07
-- Text: ocr (1 page), mean OCR confidence 94.5
-
-````text
-SVKM’s
-NMIMS University
-
-Course : B.Tech Ty Trimester : III Academic year 06-07
-Subject : Communication Skills
-
-Final Examination
-
-Date : 24/04/07 Total Marks :
-Time : 11.00 - 2.00 p.m.
-
-Instruction: Out of Seven attempt any FIVE questions
-
-Ql.
-
-Q2.
-
-Q3.
-
-Q4.
-
-QS.
-
-Q6.
-
-Q7.
-
-c) How will you prepare yourself before the actual interview?
-d) Discuss in brief the criteria for evaluation in a Group Discussion.
-
-c) Explain the components in the process of communication with the help of a
-diagram and an example.
-
-d) What are the advantages of Oral Communication? Explain any 5 with
-examples.
-
-c) What are the barriers to effective listening?
-d) Elucidate any 5 aspects of Body Language.
-
-c) Explain Socio-Psychological barriers with examples.
-d) What are the aspects that you will keep in mind for a good presentation?
-
-Keltron Engineers Pvt. Ltd. At B-16 Laxmi Industrial Estate, Andheri (W),
-
-. Mumbai has advertised for the post of Sales Manager. Candidates should be
-
-B.E./B.Tech graduates with M.B.A. having 4-5 years experience. Good
-communication skills is also a requisite. Write an application letter with your
-resume to the HR Manager using the Semi-Block format
-
-c) List some of the factors necessary for successful upward communication.
-d) What is Grapevine? What are its advantages?
-
-c) Explain Physical barriers to communication with examples.
-d) What are the advantages of Writien Communication?
-
-—~\
-
-100
-
-(10)
-(10)
-
-(10)
-
-(10)
-
-(10)
-(10)
-
-(10)
-(10)
-
-(20)
-
-(10)
-(10)
-
-(10)
-(10)
 ````
 
 ## 2006-07 · Exam not stated · Trim 2 · paper 4060b172b3fc
@@ -11035,6 +11001,7 @@ All the best
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/BASIC ELECTRONICS/2005-2006(7).pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 2
@@ -11081,7 +11048,6 @@ b) Explain the working of N type FET and draw drain & transfer
 characteristics for the same. (10)
 
 Q.no.5) a) Starting with CE amplifier circuit draw the h- parameter equations (10)
-for Av, Ai, Ri, Ro & Ap.
 -Explain the various assumption & steps.
 
 b) Explain zener diode as voltage regulator with neat ckt. Diagram. (10)

@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Mechatronics_7004/Fluid Mechanics/ANS_Fluid Mechanics(702MH0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: mixed (11 pages), mean OCR confidence 35.5
+- 21 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -44,7 +46,6 @@ hy. 270088 or < O-2S5U8YC
 Wiha = 3 -[ 9-s0968ar- 0: esyaie]
 el o-- 0-05) N|[m Avs es¥)
 
-velo saetbubin « See Naa
 rip bee aa: a
 
 L(-3   ge
@@ -57,18 +58,13 @@ b OVA a plate, ao boundary
 ia +0 Pye » Causing Hue V "
 a (8) pmsl He eqauitvaluut
 oa ine rp 40 this
-guthunrd Alie of tae Ae fete true lay.
 
 Jeeduuchion 2a velo
 @ Nahe cnn He Be eed a a “ plate hs
 nsec dacrenares dud
-¢ Al Wows sah wenn tue Suefacs ‘
 
 to Lower
-niiee es ces uLouing sual sais ineil
-creat a presshica) Lona cts Ht
 
-“ajo Dap on Mane (RIGS Ls)
 
 DR ROR RK D2 RRR
 --- page 3 ---
@@ -76,7 +72,6 @@ Q2
 
 (a)
 
-GAUK ? Diomeher He tMuo_s De 1sOmmM= O-15mM
 
 Radius = O-1SD_ 6. ley Re (Rachi’ o| Bearing) = 0-1IS0S-
 - =
@@ -86,7 +81,6 @@ R
 l= 200mm=o0 2™M,N= pein ed = 0-07-5257
 AL =0-8 porse= O° € X107 'N-sJmi&
 Ay = Rg-R= 0-04S25- 0-045= 0-00025m[ 9.5
-3} Arena A= ADL= AXO'NSKO*2
 = 0-O94m2
 
 Clare al veloetty du = RAN xR
@@ -98,11 +92,9 @@ de   11-42-0
 Se ere H\20O
 Oy O-o Gok - 4 Jee
 
-Te ae KORXIO XYHZO= StS. enw 2s M
 Es waa ee = 324€9.6x0:09Y
 
 = 3sy.3UN
-Lassen Ae psc sarariepl Uses Of edn SFRR = 720
 c OryUr K veloc
 Power = TX uw = HK 22N pwesh |
 
@@ -118,7 +110,6 @@ Fa Bain A022 12)x3
 wel
 
 UW) Ceubre ~ Pres -
-Ceutre of Ppremure Iteron verteal axcs
 
 FOCI OR OR Rx
 --- page 4 ---
@@ -143,7 +134,6 @@ Q3
 Refuravee ais Uw Z2eZ
 
 -o \
-Premusee usd ac Bin torus wale. Colum,
 0S or : 694 +%X[ 8:6) z | FSX10
 omnes s)x | =e
 
@@ -164,7 +154,6 @@ mx = fe One PAS 24) Tsu_|
 an OV + Dud .
 
 @ we = oA 2 a3 > 4 = toe
-Ve ae et ay Sv _ aoe 3%
 
 ov et
 a as a aa
@@ -200,7 +189,6 @@ Ay o2™
 
 S: Y Soit® 0:8
 
-fois = O° ghideds Boma ine
 water |
 a elsm
 
@@ -272,7 +260,6 @@ Qs
 Side dtbe - 0-5
 
 Site} Cube vaattesetou: os —H
-Relasbive dusty = oa ag Foe Jom
 Depth cabe Li (lu
 
 pes sx0's S . 0:263™M : ae
@@ -282,7 +269,6 @@ race ore! rd eel | 0 Ot Los
 tet = an B th 3
 OR < Gocoalyson o:13I5™m for =
 
-Distewen of fceudved grew! ty aqsoed [SH] aH
 
 One OF =z20:2™
 
@@ -360,7 +346,6 @@ aad Shad. COM O~OEES =]
 
 Air Wiese me a Pes) Va Es ee we
 
-Otven- Dioweter afte pipe D= 300mm - = 0:3!
 Ve SM)&, L=lOM , 4020-01 Stoke 0-01 KIO” We2Lc
 (\Stote+icn2}$2 1X 1047/5) Gm)
 
@@ -389,7 +374,6 @@ Widdh= kon, Depa!’ Sm, length: em , S.a for block < 0'6S)
 So)”. Volume o Block Vplecp2 2S AISXO= 22-Sm4
 
 ate water displaced «bor body
-: wegure Goce: weird al Vistas’
 
 - SH-xVpioce
 
@@ -410,7 +394,6 @@ Sub pots
 wong to volume 28 ead . 9.5
 
 | utbrtun
-f Balamend Calanaas) jres edlisnbouce
 
 as tes
 
@@ -421,10 +404,8 @@ FRR ICR 7 OI HOH
 --- page 11 ---
 ast) Huickud 6) | Hick
 
-the diisteues by ee tedceoe Eien
 udtich-Hre etl ida le a
 o eae I K.6
-pines boudary. Sal gabled Cee joey
 
 R ESCATS
 
@@ -438,6 +419,7 @@ DR ROR RK 11 FRR HR RK
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Mechanical_7003/Fluid Mechanics/ANS_Fluid Mechanics(702ME0C012)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: mixed (10 pages), mean OCR confidence 52.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -933,6 +915,7 @@ plate. It is valid for any velocity profile shape.
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_Mechanical_7003/Fluid Mechanics/ANS_Fluid Mechanics(702ME0C012)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (9 pages), mean OCR confidence 51.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -982,6 +965,7 @@ RK KKK RK KK 9 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/Integrated_Mechanical_7031/Fluid Mechanics/ANS_Fluid Mechanics(702ME0C012)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (9 pages), mean OCR confidence 51.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

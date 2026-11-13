@@ -1328,162 +1328,7 @@ CO-3; SO- discovering patterns from spatial data. [5]
 2;BL-2
 ````
 
-## 2023-24 · Re-Exam · Sem 4 · paper 98aaa910c41e
-
-- Departments: Cyber Security, Information Technology
-- Programmes: B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/DATA WAREHOUSING AND MINING/Data Warehousing & Mining ,Re-exam 2021-22,2022-23,2023-24.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 85.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: B.Tech/MBATech ’ Year: [I Semester: IV
-
-Stream/s: IT/Cyber Security jese~- cs
-
-Subject: Data Warehousing & Mining Time: 3 hrs (10 qm to Tpm_)
-Date:_25 / 06/2024 No. of Pages: 3
-
-Marks: 100
-
-Re-Examination ( 2021-22/2022-23]2023-24)
-
-Instructions: Candidates shouid read carefully the instructions priated on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-~ 1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-Ql
-
-Answer briefly:
-CO-1 ; a. a .
-S02-: What are some common data mining techniques used to uncover patterns and [5]
-BL-2. insights in datasets?
-a i Compare and contrast online transaction processing with online analytical [5]
-c ;
-€: BL-4 processing
-CO-1,CO-3 | c.
-; SO2-; How do you evaluate the performance of a classification model in data mining? [5]
-BL-5
-CO-1,CO-2 | d.
-; SO2- ; Explain the significance of data granularity in the context of data warehousing. [5]
-BL-2,3
-Q2
-CO-1,CO-2;] a. How does snowflake schema differ from the star schema? Name two | [10]
-advantages and disadvantages of Snowflake schema.
-SO-2; BL-4 *
-b. | Consider the data set shown in the Table.
-
-CO-1,CO-3;
-S02-; BL- [oy
-3 “a
-
-1|Page
---- page 2 ---
-Record | A | B | C | Class
-
-6 1| 0/1 +
-7 1/0{]1 -
-8 1/0 {1 -
-9 1/1 {1 +
-
-1 | lL]; oO};1{ +
-
-(1) Estimate the conditional probabilities for P(A|-+), P(B[-+), P(C|+), P(A),
-P(BI-) and P(C|-).
-
-| (2) Use the estimate of conditional probabilities given in part (1) to predict the oy
-
-class label for a test sample (A = 0, B = 1, C = 0) using the naive Bayes
-approach.
-
-ABC University, with campuses situated across multiple cities in India, is
-planning to develop a data warehouse. The university aims to analyze student
-performance across different courses and academic sessions. Additionally,
-
-Q3 they intend to identify courses with no registered students. The analysis will
-include comparisons of performance between male and female students, as
-CO-1,CO-2; well as the average grades of students from various states and cities for each [10]
-ae BL- course and overall CGPA.
-Based on the above scenario, Identify important Dimensions and create an
-Information Package to capture dimensions and attributes for a data warehouse
-that can help the University in decision-making.
-CO-1,CO-2; Refer Q3 (a) and Design a STAR schema by identifying fact table, dimension [10]
-SO-2: BL-6 table, attributes, measures and key relationships.
-Q4 ee
-‘ F a ; : . sa 6 . we
-CO-1,C0-3: ecudlessifentiy nittran entarie issues in classification? Explain decision [10]
-SO-2; BL- eee’ P
-253
-CO-1,CO-2; A college wants to record the marks for the courses completed by the students
-SO-2; BL- using the dimensions: 1) course 2) student 3) Time and a measure of aggregate [10]
-marks. Create a cube and describe the following operations: (1) Roll up (2)
-4,6 Drill down (3) Slice (4) Dice
-Q5 How do the top-down and bottom-up approaches for constructing a data
-CO-1,CO-2; warehouse differ? Illustrate each approach with a diagram. [10]
-SO-2; BL-4
-
-2|Page
---- page 3 ---
-b. | Discuss the Agglomerative algorithm using the following data and plot a
-dendrogram using Single link approach. The following figure contains sample
-data items indicating the distance between elements. ;
-
-A B Cc D E F
-CO-1,CO-3; A 0
-
-SO-2; BL-3 Bi 5} 0
-c {| 14/9 | 0
-p | 1 | 20 | 13 | 0
-E | is |is | 6] 3 | 0
-F | 10 | 16} 8 | 10 |] 11 | 0
-
-[10]
-
-Q6
-CO-1,CO-3; | a. What is web mining? Explain web usage mining including its applications and [10]
-associated issues.
-
-SO-2; BL-2
-b. | For the following transactions, apply Apriori algorithm with minimum support
-of 2 and minimum confidence of 50% and find the strong association rules.
-TID ITEMSETS
-Tl A,B
-T2 B,D
-CO-1,CO-3; 13 B,C ”
-T4 A, B,D ]
-SO-2; BL-3 +
-, TS A,C
-T6 B,C
-17 A,C
-T8 A, B, C, E
-T9 A,B,C
-Q7 Write short notes on: [5]
-1. Steps involved in the KDD process with a neat diagram
-Sone 2. MOLAP vs ROLAP 5]
-50.2: > 3. Data Loading in data warehouse [5]
-BL-2,4 4. Web crawlers [5]
-
-3|Page
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper a7c3c391877d
+## 2023-24 · Final + Re-Exam · Sem 4 · paper a7c3c391877d
 
 - Departments: Cyber Security, Information Technology
 - Programmes: B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T
@@ -1643,6 +1488,161 @@ BL-2,4 4. Temporal Mining . [5]
 3|Page
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper 98aaa910c41e
+
+- Departments: Cyber Security, Information Technology
+- Programmes: B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/DATA WAREHOUSING AND MINING/Data Warehousing & Mining ,Re-exam 2021-22,2022-23,2023-24.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 85.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: B.Tech/MBATech ’ Year: [I Semester: IV
+
+Stream/s: IT/Cyber Security jese~- cs
+
+Subject: Data Warehousing & Mining Time: 3 hrs (10 qm to Tpm_)
+Date:_25 / 06/2024 No. of Pages: 3
+
+Marks: 100
+
+Re-Examination ( 2021-22/2022-23]2023-24)
+
+Instructions: Candidates shouid read carefully the instructions priated on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+~ 1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+Ql
+
+Answer briefly:
+CO-1 ; a. a .
+S02-: What are some common data mining techniques used to uncover patterns and [5]
+BL-2. insights in datasets?
+a i Compare and contrast online transaction processing with online analytical [5]
+c ;
+€: BL-4 processing
+CO-1,CO-3 | c.
+; SO2-; How do you evaluate the performance of a classification model in data mining? [5]
+BL-5
+CO-1,CO-2 | d.
+; SO2- ; Explain the significance of data granularity in the context of data warehousing. [5]
+BL-2,3
+Q2
+CO-1,CO-2;] a. How does snowflake schema differ from the star schema? Name two | [10]
+advantages and disadvantages of Snowflake schema.
+SO-2; BL-4 *
+b. | Consider the data set shown in the Table.
+
+CO-1,CO-3;
+S02-; BL- [oy
+3 “a
+
+1|Page
+--- page 2 ---
+Record | A | B | C | Class
+
+6 1| 0/1 +
+7 1/0{]1 -
+8 1/0 {1 -
+9 1/1 {1 +
+
+1 | lL]; oO};1{ +
+
+(1) Estimate the conditional probabilities for P(A|-+), P(B[-+), P(C|+), P(A),
+P(BI-) and P(C|-).
+
+| (2) Use the estimate of conditional probabilities given in part (1) to predict the oy
+
+class label for a test sample (A = 0, B = 1, C = 0) using the naive Bayes
+approach.
+
+ABC University, with campuses situated across multiple cities in India, is
+planning to develop a data warehouse. The university aims to analyze student
+performance across different courses and academic sessions. Additionally,
+
+Q3 they intend to identify courses with no registered students. The analysis will
+include comparisons of performance between male and female students, as
+CO-1,CO-2; well as the average grades of students from various states and cities for each [10]
+ae BL- course and overall CGPA.
+Based on the above scenario, Identify important Dimensions and create an
+Information Package to capture dimensions and attributes for a data warehouse
+that can help the University in decision-making.
+CO-1,CO-2; Refer Q3 (a) and Design a STAR schema by identifying fact table, dimension [10]
+SO-2: BL-6 table, attributes, measures and key relationships.
+Q4 ee
+‘ F a ; : . sa 6 . we
+CO-1,C0-3: ecudlessifentiy nittran entarie issues in classification? Explain decision [10]
+SO-2; BL- eee’ P
+253
+CO-1,CO-2; A college wants to record the marks for the courses completed by the students
+SO-2; BL- using the dimensions: 1) course 2) student 3) Time and a measure of aggregate [10]
+marks. Create a cube and describe the following operations: (1) Roll up (2)
+4,6 Drill down (3) Slice (4) Dice
+Q5 How do the top-down and bottom-up approaches for constructing a data
+CO-1,CO-2; warehouse differ? Illustrate each approach with a diagram. [10]
+SO-2; BL-4
+
+2|Page
+--- page 3 ---
+b. | Discuss the Agglomerative algorithm using the following data and plot a
+dendrogram using Single link approach. The following figure contains sample
+data items indicating the distance between elements. ;
+
+CO-1,CO-3; A 0
+
+SO-2; BL-3 Bi 5} 0
+c {| 14/9 | 0
+p | 1 | 20 | 13 | 0
+E | is |is | 6] 3 | 0
+F | 10 | 16} 8 | 10 |] 11 | 0
+
+[10]
+
+Q6
+CO-1,CO-3; | a. What is web mining? Explain web usage mining including its applications and [10]
+associated issues.
+
+SO-2; BL-2
+b. | For the following transactions, apply Apriori algorithm with minimum support
+of 2 and minimum confidence of 50% and find the strong association rules.
+TID ITEMSETS
+Tl A,B
+T2 B,D
+CO-1,CO-3; 13 B,C ”
+T4 A, B,D ]
+SO-2; BL-3 +
+, TS A,C
+T6 B,C
+17 A,C
+T8 A, B, C, E
+T9 A,B,C
+Q7 Write short notes on: [5]
+1. Steps involved in the KDD process with a neat diagram
+Sone 2. MOLAP vs ROLAP 5]
+50.2: > 3. Data Loading in data warehouse [5]
+BL-2,4 4. Web crawlers [5]
+
+3|Page
+````
+
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper dca7a9b37f2a
 
 - Departments: Cyber Security, Information Technology
@@ -1770,13 +1770,14 @@ CO-1,CO-2,CO-3; BL- 2. Aggregate Fact Tables {5]
 4. Data Mart {5]
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper 464ad7d77a30
+## 2022-23 · Final-Exam · Sem 3 · paper 464ad7d77a30
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/Data Warehousing And Mining/Data Warehousing And Mining Batch 2022 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 November 2022
 - Text: ocr (3 pages), mean OCR confidence 87.9
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 p
@@ -1841,10 +1842,7 @@ Vis
 --- page 2 ---
 (Transaction id Items
 
-1 IM, O, N, K, E, Y
-2 ID, O, N, K, E, Y
 3 IM, A, K, E
-i IM, U, C, K, Y
 5 IC,O,O, K, LE
 Q3
 Sous a. | Point out any three major issues of Data Mining in detail [10]
@@ -2387,6 +2385,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/DATA WAREHOUSING AND MINING/Data Warehousing and Mining , Re-exam 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 June 2022
 - Text: ocr (2 pages), mean OCR confidence 92.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2508,9 +2507,7 @@ T6A,B,C,D,L
 
 T7B,LE,K,L
 
-T8 A, B, D, E, K
 
-T9 A, E, F, H, L
 
 T10B, C, D, F
 
@@ -2863,6 +2860,7 @@ Discuss OPTICS Clustering algorithm.
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VII SEMESTER/DATA WAREHOUSING AND MINING/Data warehousing & Mining , Final 2019-20.pdf`
 - Printed on paper: max marks: 70; exam date: 08 November 2019
 - Text: ocr (2 pages), mean OCR confidence 90.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2943,7 +2941,6 @@ rain mild high strong no
 Q5
 a) What is meant by classification? Justify why classification is said to be supervised learning. (7)
 . Explain Classification using Neural Network.
-b) A |B |[C |D |E (7)
 
 A_|0 1 2 2 3
 B 1 0 2 4 3
@@ -3109,6 +3106,7 @@ advantages of FP-tree over Apriori.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VII SEMESTER/DATAWARE HOUSING AND MINING/DATA_WAREHOUSING_AND_MINING_B TECH (IT), 2018-19 FINAL_EXAM_.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 14 November 2018
 - Text: ocr (3 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . SVKM’s NMIMS
@@ -3223,7 +3221,6 @@ o S Date Kegien Type of
 ae Bas
 25 May of Avcciress Max
 au Werk Dccupant:
-Bisy of Titty Stain Avie
 Wylomif Zip ;
 Holiday | Constrac- | PEN
 Elz tion ¥eer male
@@ -4156,6 +4153,7 @@ iii. Trends and issues in Data Mining
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VII SEMESTER/DATAWARE HOUSING AND MINING/DATA WAREHOUSING AND MINING (IT), 2017-18 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 23 November 2017
 - Text: ocr (4 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . SVKM’s NMIMS
@@ -4297,7 +4295,6 @@ support (i.e coverage) is 60% and the minimum confidence (i.e. accuracy) is 80% 
 
 Trans id Itemlist
 
-| Tl {K, A, D, B,}
 
 T2 {D, AC,E,}
 
@@ -5046,6 +5043,7 @@ r a ??
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/I SEMESTER/DATA WAREHOSUING AND MIINING/Data Warehousing & Mining 2016-17 Final.pdf`
 - Printed on paper: exam date: 25 November 2016
 - Text: ocr (2 pages), mean OCR confidence 89.7
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5093,11 +5091,8 @@ Q3. a) For following data generate association rules using Apriori algorithm for
 50% and minimum confidence 70% .
 
 Transaction ID Items Bought
-Tl {M, O, N, K, E, Y }
 T2 {D, O, N, K, E, ¥ }
 T3 {M, A, K, E}
-T4 {M, U, C, K, Y }
-TS {C, O, O, K, I, E}
 b) Explain ETL steps in detail. 7
 
 >
@@ -6222,6 +6217,97 @@ c. Stream Data Mining
 ‘Page 2 of 2
 ````
 
+## 2015-16 · Re-Exam · Sem 7 · paper b9332ff1cd81
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/DATA WAREHOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 01/12/2015
+- Text: ocr (2 pages), mean OCR confidence 85.8
+
+````text
+sie
+
+NY SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Computer) Year: IV Semester: VII
+Batch: 2014-2015
+Academic Year: 2015-2016
+
+, _ sat Was
+Subject: Data Warehousing and Mining Kos Ne ~ Rig, e,
+, Marks: 60 YP - re
+Date: 01/12/2015 Time: 10. ch a OL Ot apes ye
+. Duration: 3 (he, Bh
+ne
+
+Cr canes Y
+
+Re-Examination sell acaba al
+
+Instructions: ;
+1) Question No. 1 is compulsory.
+'2) Out of remaining questions, attempt any 4 questions.
+3) in all 5 questions to be attempted.
+4) All questions carry equal marks.
+4) Answers to each new question to be started on a fresh page.
+6) Figures in bracket on the right hand side indicate full marks.
+
+Que.1: :
+a) What do you mean by strategic information? For commercial bank, name five types of (3)
+strategic objectives.
+b) What do you mean by support and confidence in association rule? (a)
+c) Draw information package for automaker sales. Ca)
+d) Explain in detail factless fact table with example. (3)
+Que 2: i ’
+: a) Explain with neat diagram KDD process in data mining. (6)
+b) oie (6)
+Given five sample data items with the distance between the elements indicated in the
+table entries. Based on given data, design dendrograms using single link, complete link
+and average link agglomerative technique.
+Que3:
+‘ a) Explain in detail.different issues to be examined for classification of dataset tuple (6)
+using neural network classification technique.
+b) What do you by logical and physical model? Explain in detail steps in physical design (6)
+of data warehouse process.
+Que.4: a) Explain in detail Taxonomy of Web Mining. C6)
+
+2
+--- page 2 ---
+b) What do you mean by Large Item sets? For given dataset find out the frequent itemset (6)
+using Apriori algorithm if Min-Support=2.
+
+Tid Items
+40 A C.D
+2a B.CL,E
+cra) A BLOCLE
+40 BOE
+
+Que.5: a) What do you mean by slow changing dimension? Explain detail typel, type2 and (6)
+type3 updates to data warehouse system.
+b) For given training set data classify given tupe T= {Alex, M, 1.8} as tall, short or (6)
+
+medium using Bayesian classification
+ree a a ta es
+
+Que.6: a) Why meta data is important in data warehouse system? Explain critical needs of meta (6)
+data in the data warehouse.
+
+b) Explain stages in deployment of data warehouse. (6)
+Que.7: Write Short Note on
+
+a) Cure Algorithm (3)
+
+b) Crawlers (4)
+
+c) Applications of Data mining. C3)
+
+d) Web Usage Mining. (acy
+
+72
+````
+
 ## 2014-15 · Final-Exam · Sem 7 · paper a1d3e8c5c7c1
 
 - Departments: Computer Engineering
@@ -6597,6 +6683,273 @@ Page 2 of 2
 20
 ````
 
+## 2014-15 · Re-Exam · Sem 7 · paper 2d62848b069f
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/DATA WAREHOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (COMP) 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 01/12/2014
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: IV
+
+Semester: VII
+Batch: 2013-2014 Po apa
+TE OF .
+Academic Year: 2014-2015 Zeon Atle,
+Subject: Data Warehousing & Mining ef Ne
+Marks:
+Date: 01/12/2014 Time:
+Durations:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the answer book, which is provided for their use.
+
+NB:
+
+1. Question No.1 is compulsory. Out of remaining questions, attempt any 4 .
+2. Inall , 5 questions to be attempted.
+
+3. All questions carry equal marks.
+
+4. Answers to each new question to be started on fresh page.
+
+5. Figure to the right indicate full marks.
+
+Q.1 a) Explain the importance and approaches for Association Rule Mining. 10
+b) Consider an online travel agency that helps customers to plan and schedule their 10
+holidays. The agency maintains all past history in a data warehouse. Design star
+schema assuming suitable dimensions. Also describe the different classes of users
+who could access this data warehouse and design the information delivery framework
+for this data warehouse.
+
+Q2. a) What is meant by ETL? Explain the ETL process in detail. 10
+b) Use single Link and Complete Link Technique to find clusters in given data set. 10
+Xx Y
+
+pl 0.6 0.73
+
+p2 0.52 | 0.68
+
+| p3 0.75 0.72
+
+p4 0.26 0.19
+
+p5 0.08; 0.41
+
+p6 | 0.85 0.9
+
+Q3. a) Compare OLTP and OLAP systems. Explain the steps in KDD with a suitable block 10
+diagram.
+
+b) What are various trends in data warehousing? 10
+
+Page ( 1/2)
+--- page 2 ---
+Q4.
+
+Q5.
+
+Q6.
+
+Q7.
+
+a)
+
+b)
+
+a)
+
+a)
+
+a)
+b)
+c)
+d)
+e)
+
+Given the training data below, predict the class of the following using Bayesian
+Classification: {Adam, M, 1.95m}
+
+Person Name Gender Height Class
+ID
+
+1 Kristina Female 1.6m Short
+
+2 jim Male 2m Tall
+
+3 Maggie Female 1.9m Medium
+4 Martha Female 2.1m Tall
+
+5 Stephanie Female 1.7m Short
+
+6 Bob Male 1.85m Medium
+7 Kathy Female 1.6m Short
+
+8 Dave Male 1.7m Short
+
+9 Warren Male 2.2m Tall
+
+What is meant by meta data . explain with an example. Explain the different types of
+meta data stored in data warehouse.
+
+Summarize the role of data mining in temporal and stream mining.
+Using the data given below Mine Frequent patterns by constructing FP-tree.
+
+TID List of Item_IDs
+T100 11, 12,15
+
+T200 12,14
+
+T300 | 2,3
+
+T400 11,12,14
+
+T500 11,3
+
+T600 12,13
+
+1700 11,13
+
+T800 11,12,13,15
+
+T900 11,12,13
+
+Explain any two algorithms for clustering large databases.
+Explain Web structure Mining in detail.
+
+Write Short notes on any four of the following:
+Factless Fact Table
+
+Web enabled data warehouse
+
+Visualisation Techniques for Data Warehousing
+Design of a Data Warehouse
+
+Data Mining Tools
+
+x
+
+Page ( 2/ 2)
+
+10
+
+10
+
+10
+10
+
+10
+10
+
+20
+````
+
+## 2014-15 · Re-Exam · Sem 7 · paper cf9c4f754973
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/DATA WAREHOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (COMPUTER), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 190; duration hours: 3; exam date: 10/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: IV Semester: VII
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Data Warehousing & Mining
+Marks: 190 So
+
+Date: 10/06/2015 Time: 2.00 pm tors: oops
+Durations: 3 (hrs) AR?
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for the use.
+
+NB.
+
+1. Question No.1 is compulsory
+
+2. Out of remaining 6 questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question should be started on a Fresh page.
+6. Figure in brackets on the right hand side indicate full marks
+
+ny
+
+Q1) (a) Define a Data warehouse? Explain the three tier architecture of a data 10
+warehouse?
+(b) With the help of a neat diagram, explain the KDD process in detail? 10
+
+Q2) (a) | How do top-down and bottom up approaches for building data warehouse differ? 10
+Discuss the merits and limitation of each approach? Also discuss the practical
+approach?
+
+(b) Give information package for recording information requirement for "College 10
+Admission" considering dimensions likes time, seats, branches etc. Design Star
+schema from information package? If possible draw Snowflake schema?
+
+Q3 (a) Define classification? Explain any two algorithms with suitable example? 10
+(b) Explain any five types of activities that are a part of ETL process. Which of 10
+these are time consuming? Explain any two in detail
+
+Q4 (a) What is Web Mining ? Explain the Web content mining in detail ? 10
+(b) What is Association Rule mining? Give the Apriori Algorithm. Apply 10
+association Rule to find all frequent item sets from following table? (Let min-
+support = 60% and min-confidence = 80)
+
+Tran ID Items
+100 1,3,4,6
+200 2y3i5sh
+300 1,2,3,5,8
+400 2,5,9,10
+500 1,4
+Q5 (a) Explain the Birch Method of clustering with an example 10
+(b) Why metadata is important? How to provide metadata? 10
+
+4
+--- page 2 ---
+Q6 (a)
+(b)
+
+QM)
+
+Explain the K-means clustering algorithm. Suppose the data for clustering is {1,
+3, 5, 15, 23, 11, 25}. Consider k=2, cluster the given data using above algorithm.
+State and explain the key issues to be considered while planning for data
+warehouse? Assume suitable example.
+
+Write Shote Notes on (Any 4)
+1) Trends in Data warehouse
+2) Temporal Mining
+3) Web enabled data warehouse
+4) OLAP Operations
+5) Compare and contrast data warehouse and data mart
+6) Fact constellation, Factless fact table, updation to the dimension tables
+
+10
+
+(0
+
+20
+````
+
 ## 2014-15 · Re-Exam · Sem 7 · paper d0e4090a133e
 
 - Departments: Computer Engineering
@@ -6696,95 +7049,404 @@ x —
 (2
 ````
 
-## 2014-15 · Re-Exam · Sem 7 · paper b9332ff1cd81
+## 2014-15 · Re-Exam · Sem 8 · paper 99547ee1b877
 
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/DATA WAREHOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 01/12/2015
-- Text: ocr (2 pages), mean OCR confidence 85.8
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/DATAWARE HOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 06/05/2015
+- Text: ocr (2 pages), mean OCR confidence 90.9
 
 ````text
-sie
-
-NY SVKM’s NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Computer) Year: IV Semester: VII
-Batch: 2014-2015
-Academic Year: 2015-2016
+Programme: B. Tech. (I.T.) : Year: IV Semester: VIII
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Data Warehousing and Mining
+Marks
+Date: 06/05/2015 Time:
 
-, _ sat Was
-Subject: Data Warehousing and Mining Kos Ne ~ Rig, e,
-, Marks: 60 YP - re
-Date: 01/12/2015 Time: 10. ch a OL Ot apes ye
-. Duration: 3 (he, Bh
-ne
+Re-Examination
 
-Cr canes Y
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for use.
 
-Re-Examination sell acaba al
+1. Question No.1 is compulsory.
 
-Instructions: ;
-1) Question No. 1 is compulsory.
-'2) Out of remaining questions, attempt any 4 questions.
-3) in all 5 questions to be attempted.
-4) All questions carry equal marks.
-4) Answers to each new question to be started on a fresh page.
-6) Figures in bracket on the right hand side indicate full marks.
+2. Out of remaining questions, attempt any 4 questions.
 
-Que.1: :
-a) What do you mean by strategic information? For commercial bank, name five types of (3)
-strategic objectives.
-b) What do you mean by support and confidence in association rule? (a)
-c) Draw information package for automaker sales. Ca)
-d) Explain in detail factless fact table with example. (3)
-Que 2: i ’
-: a) Explain with neat diagram KDD process in data mining. (6)
-b) oie (6)
-Given five sample data items with the distance between the elements indicated in the
-table entries. Based on given data, design dendrograms using single link, complete link
-and average link agglomerative technique.
-Que3:
-‘ a) Explain in detail.different issues to be examined for classification of dataset tuple (6)
-using neural network classification technique.
-b) What do you by logical and physical model? Explain in detail steps in physical design (6)
-of data warehouse process.
-Que.4: a) Explain in detail Taxonomy of Web Mining. C6)
+3. Inall 5 questions to be attempted.
 
-2
+4, All questions carry equal marks.
+
+5. Answer to each new question should be started on a fresh page.
+
+Q.la. Draw Information Package and then design schema for University Marksheet [10]
+System.
+
+Q.1b. Giving the following database with 5 transactions and a minimum support [10]
+threshold of 60% and a minimum confidence threshold of 80%, find all
+frequent itemsets using Apriori Algorithm. List two strong and weak
+association rules.
+
+TID | Items
+
+1 candy, milk, juice, tea, coffee
+2 coke, candy, coffee, tea
+
+3 sugar, tea, milk, bread
+
+4 sugar, bread, milk, jam, coffee
+
+5 bread, sugar, tea, coffee, milk
+
+Q.2a. Define data warehouse with features? Explain the different components of a [10]
+data warehouse with suitable block diagram? :
+Q.2b. Show the dendrogram created by the single, complete and average link [10]
+
+clustering algorithms using the following adjacency matrix.
+Item | A B |C |D E
+A 0 1 [9 |3.5 |8
+B 1 0 4 4 5
+C 9 5 0 6 5
+D 3.5 | 4 6 0 2
+E 8 5 {5 |2 0
+
+Q.3a. Explain Type 1, Type 2 & Type 3 slowly changing dimensions. [10]
+Q.3b. Suppose the data for clustering is {5, 2, 4, 10, 12, 3, 20, 8, 21, 30}. Consider [10]
+K=2 & K=3 then cluster the given data using K-Means algorithm assuming the
+
+first 2 and 3 means.
+
+Q.4a. Explain the techniques of data extraction & explain five transformation tasks. [10]
+Q.4b. Given the database with 9 records build a decision tree using ID3 algorithm and [10]
+classify the new record {Adam, Male, 1.97 m}.
+Consider the height ranges for calculations (0,1.6] , (1.6,1.7] , (1.7,1.8], (1.8,
+1.9] , (1.9,2.0] , (2.0,infinity). ;
+
+Page | of 2
 --- page 2 ---
-b) What do you mean by Large Item sets? For given dataset find out the frequent itemset (6)
-using Apriori algorithm if Min-Support=2.
+Person ID Name Gender | Height | Class
 
-Tid Items
-40 A C.D
-2a B.CL,E
-cra) A BLOCLE
-40 BOE
+1 Kristina | Female | 1.6m __| Short
 
-Que.5: a) What do you mean by slow changing dimension? Explain detail typel, type2 and (6)
-type3 updates to data warehouse system.
-b) For given training set data classify given tupe T= {Alex, M, 1.8} as tall, short or (6)
+2 Jim Male 2m Tall
 
-medium using Bayesian classification
-ree a a ta es
+3 Maggie Female | 1.9m_ | Medium
 
-Que.6: a) Why meta data is important in data warehouse system? Explain critical needs of meta (6)
-data in the data warehouse.
+4 Martha Female | 2.1m_ | Tall :
 
-b) Explain stages in deployment of data warehouse. (6)
-Que.7: Write Short Note on
+E) Stephanie | Female | 1.7m__| Short
 
-a) Cure Algorithm (3)
+6 Bob Male 1.85m | Medium
 
-b) Crawlers (4)
+7 Kathy Female | 1.6m Short
 
-c) Applications of Data mining. C3)
+8 Dave Male 1.7m__| Short
+[9 Warren Male 2.2m _ | Tall
 
-d) Web Usage Mining. (acy
+Q.5a. How do the top-down and bottom-up approaches for building a data warehouse [10]
+differ? Give their advantages & disadvantages.
 
-72
+Q.5b. In XYZ country, 51% of the adults are males. One adult is randomly selected [10]
+for a survey involving credit card usage. 9.5% of males play football; 1.7% of
+females play football. Using Bayes Theorem solve the following:
+
+a. Find the prior probability that the selected person is a male.
+
+b. Find the prior probability that selected person is a female.
+
+c. Find the probability that the football playing respondent selected subject
+is a female.
+
+d. Find the probability that the non-football player respondent selected
+subject is a male.
+
+e. Draw the labeled decision tree formed.
+
+Q.6a Why is a Data Warehouse needed? Explain types of metadata. [10]
+Q.6b. Given the following database with 5 transactions generate a FP growth Tree. [10]
+Minimum support threshold of 60% and a minimum confidence threshold of
+80%, find all frequent item sets using FP growth Algorithm. List two strong and
+
+two weak association rules.
+TID | Items
+Tl | F,O,R,T, Y,F,O,U,R
+T2 | T,W,E,L,V,E
+T3 | T, WLE,N,T, Y,S,1X
+T4 |S,LX, TE, EN
+
+— T5_|S,E,V,E,N,T,Y,O,NE
+
+pais Q.7. Write short notes on : (ANY FOUR) [20]
+1. Interestingness measures used in data mining. 2. OLAP Models.
+3. Spatial Mining. 4. Common sources of Data Pollution.
+5. OLAP operations. 6. Algorithm for clustering large databases.
+
+Page 2 of 2
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper 0521d3e393c4
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/DATAWARE HOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (IT), BATCH 2013-14 RE EXAM_0521d3e393.pdf`
+- Printed on paper: max marks: 100; exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 86.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (LT.)
+
+Year: IV Semester: VIII
+Batch: 2013-14
+Academic Year: 2014-2015 5 ane -
+{TSE OW Rg,
+Subject: Data Wareho using and Mining Os ae tay,
+Marks: 100 NG
+Date: 29/06/2015
+
+Time: 2.00 pm to 5.00. pnt =
+Durations: 3/(hrs)’ : :
+
+Re-Examination
+#e-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for use.
+NB:
+
+1. Question No.1 is compulsory.
+
+Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+
+Answer to each new question should be started on a fresh page.
+
+Q.la. Draw a schema for library fine system. 10
+
+Q.1b. Giving the following database with 5 transactions and a minimum support 10
+threshold of 60% and a minimum confidence threshold of 80%, find all
+
+frequent itemsets using Apriori Algorithm. List any two strong & two weak
+association rules.
+
+bread, coke, ketchup, butter
+2 bread, butter
+
+bread, coke, chips, ketchup
+4 chips, coke, ketchup
+| bread, butter, chips, ketchup, coke
+
+Q.2a. Explain the different OLAP Operations with suitable example. 10
+
+Q.2b. Given the training data with 9 records in the table below (Buys_Computer 10
+data), predict the class of the following using Bayesian Classification : {age
+> 40, income=medium, student= no}.
+
+| TID | Age | Income | Student | Buys compute
+
+Tl [>40 | medium] no | no
+T2__ | <=30 high | no | no
+T3_[>40 medium | no | yes
+T4 [540 [high [yes | yes
+TS | >40 low | yes | no
+T6__| <=30__| medium| no | no
+
+T7 | <=30 | low | yes | yes
+T8_ | >40 medium | yes | yes
+T9 | <=30 | medium | yes | yes
+
+Q.3a. Compare and Contrast Type 2 and Type 3 slowly changing dimensions. 10
+Q.3b. Suppose the data for clustering is {1, 3, 5, 15, 23, 11, 25}. Consider K=2& 10
+K=3 then cluster the given data using K-Means algorithm.
+
+Q.4a. How are the top-down and bottom-up approaches for building a data
+
+10
+warehouse differ? Give their advantages & disadvantages.
+
+Page 1 of 2
+--- page 2 ---
+Q.4b. Show the dendrogram created by the single, complete and average link
+clustering algorithms using the following adjacency matrix.
+Item | A|}B|C|D
+A 011/415
+B 1404216
+GC 4121043
+D [5/16/13 [0
+
+Q.5a. What are aggregate fact tables? Explain one-way & two-way aggregate table
+with example.
+Q.5b. Compare & contrast any two rule based classification algorithms.
+
+Q.6a How does Snowflake Schema differ from Star Schema? What are advantages
+& disadvantages of Snowflake Schema?
+
+Q.6b. Given the following database with 5 transactions generate a FP growth Tree.
+Minimum support threshold of 60% and a minimum confidence threshold of
+80%, find all frequent item sets using FP growth Algorithm. List all strong
+association rules.
+
+TID | Items
+
+Tl | M,A,C,R,0,O,N
+T2 | C,A,R,T,O,O,N
+T3 | W,A,N,T,E,D
+
+T4 | R,A,C,E,R,C,A,R
+T5 |S,P,E,A,R
+
+Q.7 Write short notes on : (ANY FOUR)
+a. OLAP Models. b. Metadata.
+c. KDD process, d. Factless fact table.
+e. Temporal Mining. f. Clustering Large Databases.
+
+Page 2 of 2
+
+10
+
+10
+
+10
+
+10
+
+10
+
+20
+````
+
+## 2014-15 · Re-Exam · Sem 7 · paper 03dcb0241922
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/VII SEMESTER/DATA WAREHOSUING AND MIINING/Data warehousing and Mining 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/11/2014
+- Text: ocr (2 pages), mean OCR confidence 87.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) Year: IV Semester: VII
+Academic Year: 2014-15 Batch: 2013-14
+Subject : Data Warehousing& Mining
+Marks: 100
+Date : 26/11/2014 Time : 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+Re - Examination
+
+Zest Rata
+
+N%,
+
+i} eis thes Y. = |
+RARY fe
+
+cbis IF
+
+Instruction: Candidates should read carefully the instructions printed on the questi
+cover of the Answer Book, which is provided for their use.
+
+NB: ~ ee a
+1) Question No.1 is compulsory. :
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+la. Define Data Warehouse and elaborate on the defining features of the data warehouse 10
+1b Explain basic data mining tasks with an example 10
+2a Why is entity-relationship modelling technique not suitable for the datawarehouse? 05
+2b What is a factless fact table? 05
+2c Define Bayes Rule or Bayes Theorem 05
+2d With a suitable block diagram describe the steps of KDD process 05
+
+3a What is meant by meta data? Explain with an example. Explain the different types of metadata 10
+stored in a datawarehouse
+
+3b Explain K-Means Clustering? Suppose {2,4,10,12,3,20, 31,11,25} are to be clustered into two 10
+clusters, how would it be clustered using k-means clustering?
+
+4a Explain ETL of Datawarehouse in detail . 10
+4b Consider the following transactions 10
+
+TID Items
+
+01 1,3,4,6
+
+02 2,3,5,7
+
+03 4,2,3,5,8
+
+04 2,5, 9, 10
+
+05 4,4
+
+Apply the Apriori Algorithm with minimum support 30% and minimum.confidence of 75%
+and find the large item set
+
+4/2
+--- page 2 ---
+5a. What are Slowly Changing Dimensions? What are the types of changes? Explain with
+examples
+
+5b | Name Gender | Height | Output
+
+Kristina | F 1.6m __| Short
+Jim M 2m Tall
+Maggie F 1.9m__| Medium
+Martha F 1.88m | Medium
+Stephanie | F 1.7m__| Short
+Bob M 1.85m_ | Medium
+Kathy F 1.6m__| Short
+Dave M 1.7m__| Short
+Worth M 2.2m_ | Tall
+Steven M 2.1m Tall
+Debbie id 1.8m__| Medium
+Todd M 1.95m_ | Medium
+Kim F 1.9m __| Medium
+Amy F 1.8m | Medium
+Wynette | F 1.75m_| Medium
+
+Use ID3 algorithm and determine the first splitting attribute.
+6a Explain
+
+1. Drill Down
+2. Rollup
+
+3. Slice
+
+4. Dice
+
+6b What is a dendogram? Explain with an example
+7 Write short notes on any two
+
+1. Crawlers
+
+2. HITS Algorithm
+
+3. Temporal Association rules
+
+10
+
+10
+
+10
+
+10
+20
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 48c9b41490af
@@ -7065,6 +7727,7 @@ Page ( 2/2)
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/DATAWARE HOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (IT), 2013-14 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09/05/2014
 - Text: ocr (2 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7111,7 +7774,6 @@ Q2 A What is a Data Warehouse? Illustrate and discuss the data warehousing archi
 diagram.
 B Using PAM algorithm create two clusters assuming B & C as mediods with the help of following (10)
 matrix
-Ttem A B Cc D E
 A 0 1 2 2 3
 B 1 0 2 4 3
 is 2 2 0 1 5
@@ -7496,273 +8158,6 @@ Gii) | E-R modelling v/s Dimensional modelling
 20
 ````
 
-## 2013-14 · Re-Exam · Sem 7 · paper 2d62848b069f
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/DATA WAREHOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (COMP) 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 01/12/2014
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: IV
-
-Semester: VII
-Batch: 2013-2014 Po apa
-TE OF .
-Academic Year: 2014-2015 Zeon Atle,
-Subject: Data Warehousing & Mining ef Ne
-Marks:
-Date: 01/12/2014 Time:
-Durations:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the answer book, which is provided for their use.
-
-NB:
-
-1. Question No.1 is compulsory. Out of remaining questions, attempt any 4 .
-2. Inall , 5 questions to be attempted.
-
-3. All questions carry equal marks.
-
-4. Answers to each new question to be started on fresh page.
-
-5. Figure to the right indicate full marks.
-
-Q.1 a) Explain the importance and approaches for Association Rule Mining. 10
-b) Consider an online travel agency that helps customers to plan and schedule their 10
-holidays. The agency maintains all past history in a data warehouse. Design star
-schema assuming suitable dimensions. Also describe the different classes of users
-who could access this data warehouse and design the information delivery framework
-for this data warehouse.
-
-Q2. a) What is meant by ETL? Explain the ETL process in detail. 10
-b) Use single Link and Complete Link Technique to find clusters in given data set. 10
-Xx Y
-
-pl 0.6 0.73
-
-p2 0.52 | 0.68
-
-| p3 0.75 0.72
-
-p4 0.26 0.19
-
-p5 0.08; 0.41
-
-p6 | 0.85 0.9
-
-Q3. a) Compare OLTP and OLAP systems. Explain the steps in KDD with a suitable block 10
-diagram.
-
-b) What are various trends in data warehousing? 10
-
-Page ( 1/2)
---- page 2 ---
-Q4.
-
-Q5.
-
-Q6.
-
-Q7.
-
-a)
-
-b)
-
-a)
-
-a)
-
-a)
-b)
-c)
-d)
-e)
-
-Given the training data below, predict the class of the following using Bayesian
-Classification: {Adam, M, 1.95m}
-
-Person Name Gender Height Class
-ID
-
-1 Kristina Female 1.6m Short
-
-2 jim Male 2m Tall
-
-3 Maggie Female 1.9m Medium
-4 Martha Female 2.1m Tall
-
-5 Stephanie Female 1.7m Short
-
-6 Bob Male 1.85m Medium
-7 Kathy Female 1.6m Short
-
-8 Dave Male 1.7m Short
-
-9 Warren Male 2.2m Tall
-
-What is meant by meta data . explain with an example. Explain the different types of
-meta data stored in data warehouse.
-
-Summarize the role of data mining in temporal and stream mining.
-Using the data given below Mine Frequent patterns by constructing FP-tree.
-
-TID List of Item_IDs
-T100 11, 12,15
-
-T200 12,14
-
-T300 | 2,3
-
-T400 11,12,14
-
-T500 11,3
-
-T600 12,13
-
-1700 11,13
-
-T800 11,12,13,15
-
-T900 11,12,13
-
-Explain any two algorithms for clustering large databases.
-Explain Web structure Mining in detail.
-
-Write Short notes on any four of the following:
-Factless Fact Table
-
-Web enabled data warehouse
-
-Visualisation Techniques for Data Warehousing
-Design of a Data Warehouse
-
-Data Mining Tools
-
-x
-
-Page ( 2/ 2)
-
-10
-
-10
-
-10
-10
-
-10
-10
-
-20
-````
-
-## 2013-14 · Re-Exam · Sem 7 · paper cf9c4f754973
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/DATA WAREHOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (COMPUTER), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 190; duration hours: 3; exam date: 10/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: IV Semester: VII
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Data Warehousing & Mining
-Marks: 190 So
-
-Date: 10/06/2015 Time: 2.00 pm tors: oops
-Durations: 3 (hrs) AR?
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for the use.
-
-NB.
-
-1. Question No.1 is compulsory
-
-2. Out of remaining 6 questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question should be started on a Fresh page.
-6. Figure in brackets on the right hand side indicate full marks
-
-ny
-
-Q1) (a) Define a Data warehouse? Explain the three tier architecture of a data 10
-warehouse?
-(b) With the help of a neat diagram, explain the KDD process in detail? 10
-
-Q2) (a) | How do top-down and bottom up approaches for building data warehouse differ? 10
-Discuss the merits and limitation of each approach? Also discuss the practical
-approach?
-
-(b) Give information package for recording information requirement for "College 10
-Admission" considering dimensions likes time, seats, branches etc. Design Star
-schema from information package? If possible draw Snowflake schema?
-
-Q3 (a) Define classification? Explain any two algorithms with suitable example? 10
-(b) Explain any five types of activities that are a part of ETL process. Which of 10
-these are time consuming? Explain any two in detail
-
-Q4 (a) What is Web Mining ? Explain the Web content mining in detail ? 10
-(b) What is Association Rule mining? Give the Apriori Algorithm. Apply 10
-association Rule to find all frequent item sets from following table? (Let min-
-support = 60% and min-confidence = 80)
-
-Tran ID Items
-100 1,3,4,6
-200 2y3i5sh
-300 1,2,3,5,8
-400 2,5,9,10
-500 1,4
-Q5 (a) Explain the Birch Method of clustering with an example 10
-(b) Why metadata is important? How to provide metadata? 10
-
-4
---- page 2 ---
-Q6 (a)
-(b)
-
-QM)
-
-Explain the K-means clustering algorithm. Suppose the data for clustering is {1,
-3, 5, 15, 23, 11, 25}. Consider k=2, cluster the given data using above algorithm.
-State and explain the key issues to be considered while planning for data
-warehouse? Assume suitable example.
-
-Write Shote Notes on (Any 4)
-1) Trends in Data warehouse
-2) Temporal Mining
-3) Web enabled data warehouse
-4) OLAP Operations
-5) Compare and contrast data warehouse and data mart
-6) Fact constellation, Factless fact table, updation to the dimension tables
-
-10
-
-(0
-
-20
-````
-
 ## 2013-14 · Re-Exam · Sem 7 · paper 74685d136f2b
 
 - Departments: Computer Engineering
@@ -7916,279 +8311,6 @@ Page ( 2/2)
 10
 
 10
-10
-
-20
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper 99547ee1b877
-
-- Departments: Information Technology
-- Programmes: B TECH / IT
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/DATAWARE HOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 06/05/2015
-- Text: ocr (2 pages), mean OCR confidence 90.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech. (I.T.) : Year: IV Semester: VIII
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Data Warehousing and Mining
-Marks
-Date: 06/05/2015 Time:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for use.
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4, All questions carry equal marks.
-
-5. Answer to each new question should be started on a fresh page.
-
-Q.la. Draw Information Package and then design schema for University Marksheet [10]
-System.
-
-Q.1b. Giving the following database with 5 transactions and a minimum support [10]
-threshold of 60% and a minimum confidence threshold of 80%, find all
-frequent itemsets using Apriori Algorithm. List two strong and weak
-association rules.
-
-TID | Items
-
-1 candy, milk, juice, tea, coffee
-2 coke, candy, coffee, tea
-
-3 sugar, tea, milk, bread
-
-4 sugar, bread, milk, jam, coffee
-
-5 bread, sugar, tea, coffee, milk
-
-Q.2a. Define data warehouse with features? Explain the different components of a [10]
-data warehouse with suitable block diagram? :
-Q.2b. Show the dendrogram created by the single, complete and average link [10]
-
-clustering algorithms using the following adjacency matrix.
-Item | A B |C |D E
-A 0 1 [9 |3.5 |8
-B 1 0 4 4 5
-C 9 5 0 6 5
-D 3.5 | 4 6 0 2
-E 8 5 {5 |2 0
-
-Q.3a. Explain Type 1, Type 2 & Type 3 slowly changing dimensions. [10]
-Q.3b. Suppose the data for clustering is {5, 2, 4, 10, 12, 3, 20, 8, 21, 30}. Consider [10]
-K=2 & K=3 then cluster the given data using K-Means algorithm assuming the
-
-first 2 and 3 means.
-
-Q.4a. Explain the techniques of data extraction & explain five transformation tasks. [10]
-Q.4b. Given the database with 9 records build a decision tree using ID3 algorithm and [10]
-classify the new record {Adam, Male, 1.97 m}.
-Consider the height ranges for calculations (0,1.6] , (1.6,1.7] , (1.7,1.8], (1.8,
-1.9] , (1.9,2.0] , (2.0,infinity). ;
-
-Page | of 2
---- page 2 ---
-Person ID Name Gender | Height | Class
-
-1 Kristina | Female | 1.6m __| Short
-
-2 Jim Male 2m Tall
-
-3 Maggie Female | 1.9m_ | Medium
-
-4 Martha Female | 2.1m_ | Tall :
-
-E) Stephanie | Female | 1.7m__| Short
-
-6 Bob Male 1.85m | Medium
-
-7 Kathy Female | 1.6m Short
-
-8 Dave Male 1.7m__| Short
-[9 Warren Male 2.2m _ | Tall
-
-Q.5a. How do the top-down and bottom-up approaches for building a data warehouse [10]
-differ? Give their advantages & disadvantages.
-
-Q.5b. In XYZ country, 51% of the adults are males. One adult is randomly selected [10]
-for a survey involving credit card usage. 9.5% of males play football; 1.7% of
-females play football. Using Bayes Theorem solve the following:
-
-a. Find the prior probability that the selected person is a male.
-
-b. Find the prior probability that selected person is a female.
-
-c. Find the probability that the football playing respondent selected subject
-is a female.
-
-d. Find the probability that the non-football player respondent selected
-subject is a male.
-
-e. Draw the labeled decision tree formed.
-
-Q.6a Why is a Data Warehouse needed? Explain types of metadata. [10]
-Q.6b. Given the following database with 5 transactions generate a FP growth Tree. [10]
-Minimum support threshold of 60% and a minimum confidence threshold of
-80%, find all frequent item sets using FP growth Algorithm. List two strong and
-
-two weak association rules.
-TID | Items
-Tl | F,O,R,T, Y,F,O,U,R
-T2 | T,W,E,L,V,E
-T3 | T, WLE,N,T, Y,S,1X
-T4 |S,LX, TE, EN
-
-— T5_|S,E,V,E,N,T,Y,O,NE
-
-pais Q.7. Write short notes on : (ANY FOUR) [20]
-1. Interestingness measures used in data mining. 2. OLAP Models.
-3. Spatial Mining. 4. Common sources of Data Pollution.
-5. OLAP operations. 6. Algorithm for clustering large databases.
-
-Page 2 of 2
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper 0521d3e393c4
-
-- Departments: Information Technology
-- Programmes: B TECH / IT
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/DATAWARE HOUSING AND MINING/DATA WAREHOUSING AND MINING B TECH (IT), BATCH 2013-14 RE EXAM_0521d3e393.pdf`
-- Printed on paper: max marks: 100; exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 86.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (LT.)
-
-Year: IV Semester: VIII
-Batch: 2013-14
-Academic Year: 2014-2015 5 ane -
-{TSE OW Rg,
-Subject: Data Wareho using and Mining Os ae tay,
-Marks: 100 NG
-Date: 29/06/2015
-
-Time: 2.00 pm to 5.00. pnt =
-Durations: 3/(hrs)’ : :
-
-Re-Examination
-#e-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for use.
-NB:
-
-1. Question No.1 is compulsory.
-
-Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-
-Answer to each new question should be started on a fresh page.
-
-Q.la. Draw a schema for library fine system. 10
-
-Q.1b. Giving the following database with 5 transactions and a minimum support 10
-threshold of 60% and a minimum confidence threshold of 80%, find all
-
-frequent itemsets using Apriori Algorithm. List any two strong & two weak
-association rules.
-
-bread, coke, ketchup, butter
-2 bread, butter
-
-bread, coke, chips, ketchup
-4 chips, coke, ketchup
-| bread, butter, chips, ketchup, coke
-
-Q.2a. Explain the different OLAP Operations with suitable example. 10
-
-Q.2b. Given the training data with 9 records in the table below (Buys_Computer 10
-data), predict the class of the following using Bayesian Classification : {age
-> 40, income=medium, student= no}.
-
-| TID | Age | Income | Student | Buys compute
-
-Tl [>40 | medium] no | no
-T2__ | <=30 high | no | no
-T3_[>40 medium | no | yes
-T4 [540 [high [yes | yes
-TS | >40 low | yes | no
-T6__| <=30__| medium| no | no
-
-T7 | <=30 | low | yes | yes
-T8_ | >40 medium | yes | yes
-T9 | <=30 | medium | yes | yes
-
-Q.3a. Compare and Contrast Type 2 and Type 3 slowly changing dimensions. 10
-Q.3b. Suppose the data for clustering is {1, 3, 5, 15, 23, 11, 25}. Consider K=2& 10
-K=3 then cluster the given data using K-Means algorithm.
-
-Q.4a. How are the top-down and bottom-up approaches for building a data
-
-10
-warehouse differ? Give their advantages & disadvantages.
-
-Page 1 of 2
---- page 2 ---
-Q.4b. Show the dendrogram created by the single, complete and average link
-clustering algorithms using the following adjacency matrix.
-Item | A|}B|C|D
-A 011/415
-B 1404216
-GC 4121043
-D [5/16/13 [0
-
-Q.5a. What are aggregate fact tables? Explain one-way & two-way aggregate table
-with example.
-Q.5b. Compare & contrast any two rule based classification algorithms.
-
-Q.6a How does Snowflake Schema differ from Star Schema? What are advantages
-& disadvantages of Snowflake Schema?
-
-Q.6b. Given the following database with 5 transactions generate a FP growth Tree.
-Minimum support threshold of 60% and a minimum confidence threshold of
-80%, find all frequent item sets using FP growth Algorithm. List all strong
-association rules.
-
-TID | Items
-
-Tl | M,A,C,R,0,O,N
-T2 | C,A,R,T,O,O,N
-T3 | W,A,N,T,E,D
-
-T4 | R,A,C,E,R,C,A,R
-T5 |S,P,E,A,R
-
-Q.7 Write short notes on : (ANY FOUR)
-a. OLAP Models. b. Metadata.
-c. KDD process, d. Factless fact table.
-e. Temporal Mining. f. Clustering Large Databases.
-
-Page 2 of 2
-
-10
-
-10
-
-10
-
-10
-
 10
 
 20
@@ -8474,131 +8596,71 @@ Page ( 2/2)
 20
 ````
 
-## 2013-14 · Re-Exam · Sem 7 · paper 03dcb0241922
+## 2013-14 · Re-Exam · Trim 1 · paper da19ce8bf94f
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/VII SEMESTER/DATA WAREHOSUING AND MIINING/Data warehousing and Mining 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/11/2014
-- Text: ocr (2 pages), mean OCR confidence 87.7
+- Departments: Computer Engineering
+- Programmes: M TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM I/Data Warehousing & Mining/Data Warehousing & Mining Batch 2012-13 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
+- Text: ocr (1 page), mean OCR confidence 90.0
 
 ````text
+Programme:M. Tech (Computer) Year: I
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (IT) Year: IV Semester: VII
-Academic Year: 2014-15 Batch: 2013-14
-Subject : Data Warehousing& Mining
-Marks: 100
-Date : 26/11/2014 Time : 2.00 pm to 5.00 pm
+Academic Year: 2013-14 Batch:2012-13
 
-Durations: 3 (hrs)
-Re - Examination
+Subject : Data Warehousing & Mining
 
-Zest Rata
+Date :10/12/2013
 
-N%,
+Marks:100
 
-i} eis thes Y. = |
-RARY fe
+Time : 10.00 am. - 1.00 pm
+Durations:3 (hrs)
+Re-Examination
 
-cbis IF
+Instructions : Candidates should rea
 
-Instruction: Candidates should read carefully the instructions printed on the questi
-cover of the Answer Book, which is provided for their use.
+the question paper and on cover of t
+their use.
 
-NB: ~ ee a
-1) Question No.1 is compulsory. :
-2) Out of remaining questions, attempt any 4 questions.
+d carefully the instructions printed on
+he Answer Book which provided for
 
-3) In all 5 questions to be attempted.
+NB:
 
-4) All questions carry equal marks.
+1 Attempt any five questions.
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
+2 All question carry equal marks.
 
-la. Define Data Warehouse and elaborate on the defining features of the data warehouse 10
-1b Explain basic data mining tasks with an example 10
-2a Why is entity-relationship modelling technique not suitable for the datawarehouse? 05
-2b What is a factless fact table? 05
-2c Define Bayes Rule or Bayes Theorem 05
-2d With a suitable block diagram describe the steps of KDD process 05
+3 Answer to each new question to be started on a fresh page..
 
-3a What is meant by meta data? Explain with an example. Explain the different types of metadata 10
-stored in a datawarehouse
+Q.1 A) | Elaborate on the architecture of a search engine. 10
+Q.1 B) | Compare and contrast all clustering algorithms. 10
+Q@.2z A) | Explain the Purpose and types of metadata in a data warehouse built for a 10
+Consumer Goods company.
+Q.2 B) | Write a detailed note on — Temporal Mining algorithms 10
+Q.3 A) | Explain the architectural components of data warehouse built for a manufacturing 10
+company.
+Q.3 B) | Write a detailed note on — Spatial clustering & classification algorithms 10 -
+Q.4 A) | Differentiate between Web structure mining and web content mining 10
+Q.4 B) | Discuss the characteristics of dimensions and fact tables in a data warehouse. 10 -
+Q.5 A) | Explain how clustering works with Categorical data. Explain with an example an 10
+algorithm targeted for Categorical data.
+Q.5 B) | Discuss the issues in distributed data mining. 10
+L
+Q.6 A) | Explain the major transformation types used in data transformation. 10
+Q.6 B) | Explain various types of data pollution with examples and remedial measures to 10 0]
+correct it.
+Q.7 A) | Explain the design and development phases of Web-enabled Data warehouse. 10 |
+Q.7 B) | State & explain Sampling algorithm for building Association Rules. 10
+‘7 --- END--- [ |
 
-3b Explain K-Means Clustering? Suppose {2,4,10,12,3,20, 31,11,25} are to be clustered into two 10
-clusters, how would it be clustered using k-means clustering?
-
-4a Explain ETL of Datawarehouse in detail . 10
-4b Consider the following transactions 10
-
-TID Items
-
-01 1,3,4,6
-
-02 2,3,5,7
-
-03 4,2,3,5,8
-
-04 2,5, 9, 10
-
-05 4,4
-
-Apply the Apriori Algorithm with minimum support 30% and minimum.confidence of 75%
-and find the large item set
-
-4/2
---- page 2 ---
-5a. What are Slowly Changing Dimensions? What are the types of changes? Explain with
-examples
-
-5b | Name Gender | Height | Output
-
-Kristina | F 1.6m __| Short
-Jim M 2m Tall
-Maggie F 1.9m__| Medium
-Martha F 1.88m | Medium
-Stephanie | F 1.7m__| Short
-Bob M 1.85m_ | Medium
-Kathy F 1.6m__| Short
-Dave M 1.7m__| Short
-Worth M 2.2m_ | Tall
-Steven M 2.1m Tall
-Debbie id 1.8m__| Medium
-Todd M 1.95m_ | Medium
-Kim F 1.9m __| Medium
-Amy F 1.8m | Medium
-Wynette | F 1.75m_| Medium
-
-Use ID3 algorithm and determine the first splitting attribute.
-6a Explain
-
-1. Drill Down
-2. Rollup
-
-3. Slice
-
-4. Dice
-
-6b What is a dendogram? Explain with an example
-7 Write short notes on any two
-
-1. Crawlers
-
-2. HITS Algorithm
-
-3. Temporal Association rules
-
-10
-
-10
-
-10
-
-10
-20
+If
 ````
 
 ## 2013-14 · Re-Exam · Sem 7 · paper 74ed52e7bffc
@@ -8847,6 +8909,120 @@ Write a short note on following (any four). 20
 x x
 ````
 
+## 2012-13 · Exam not stated · Trim 7 · paper 43e207fc0f3e
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/TRIM VII/DATA WAREHOUSING AND MINING/scan0020(5).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01/10/2012
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engin
+/ Programme: MCA Year: II] Trimester: VII
+/ Academic Year : 2012-2013
+
+Subject: DATA MINING & WAREHOUSING Marks: 100 \ ey
+Time: 2.00pm To 5.00pm
+Date: 01/10/2012 Duration: 3 hrs. ——
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for the use.
+
+NB.
+1. Question No.1 is compulsory
+2. Out of remaining 6 questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. All questions carry equal marks. “e
+5. Answer to each new question should be started on a Fresh page.
+6. Figure in brackets indicate full marks.
+
+Ql a) Define classification? Explain any Classification algorithm with suitable 10
+example?
+b) How are top-down and bottom up approaches for building data 10
+warehouse differ? Discuss the merits and limitations of each
+approach.
+
+; Q.2 a) What are the types of OLAP servers? Explain the different operations of 10
+} OLAP with suitable example?
+
+b) Design an information package diagram for a Bank. Clearly explain all 10
+aspects of the diagram? Draw the star schema for the data warehouse
+clearly identify the fact table(s), dimension table(s) their attributes and
+measures.
+
+Q3 a) Explain ETL of Data warehousing in Detail 10
+b) Define Data warehouse with features? Explain the architecture of data 10
+
+} warehouse with suitable block diagram?
+¥ oa a) What are techniques and application of Data Mining? 10
+
+b) Explain K-means clustering and solve the following with K=2 10
+{2,25,10,15,5,20,4,40}
+
+Q5 a) What are the Benefits of the FP-tree Structure over Apriori 10
+algorithm? Give example to support.
+
+b) Explain in detail the different steps involved KDD Process. 10
+
+Page 1 of 2
+--- page 2 ---
+a
+
+Q.6 a) Apply ID3 on the following Training Dataset. Extract the classification
+rule from the tree.
+Model Engine SC/Turbo = Weight Fuel Eco Fast
+Prius small na average good no
+Civic small no light average no
+WRX STI small yes average bad yes
+M3 medium no heavy bad yes
+RS4 large no average bad yes
+GTI medium no light bad no
+XJR large yes heavy bad no
+S500 large no heavy bad no
+911 medium yes light bad yes
+Corvette large no average bad yes
+Insight small no light good no
+RSX small no average average no
+($350 medium no heavy bad no
+MR2 small yes average average no
+£320 medium no heavy bad no
+
+b) What is Association Rule mining? Give the Apriori Aigorithm.
+Apply association Rule to find all frequent item sets from following
+table?
+
+Trans-
+id Items
+
+100 } 1,3,4,6
+200 | 2,3,5,7
+300 | 1,2,3,5,8
+400 | 2,5,9,10
+500 | 1,4
+
+(Let min-support = 60% and min-confidence = 80)
+Q.7 Write Short Notes on( any two)
+
+i) Comparison between OLAP and OLTP
+ii) Comparison between data warehouse and Data Mart
+
+iii) Trends in data mining
+
+nr ee
+
+Page 2 of 2
+
+10
+
+10
+
+20
+````
+
 ## 2012-13 · Final-Exam · Trim 1 · paper b6f9a32b5804
 
 - Departments: Computer Engineering, Information Technology
@@ -8952,71 +9128,97 @@ v) DBSCAN
 vi) Junk Dimensions
 ````
 
-## 2012-13 · Re-Exam · Trim 1 · paper da19ce8bf94f
+## 2012-13 · Re-Exam · Trim 1 · paper 2ea27f9a28dd
 
-- Departments: Computer Engineering
-- Programmes: M TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM I/Data Warehousing & Mining/Data Warehousing & Mining Batch 2012-13 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
-- Text: ocr (1 page), mean OCR confidence 90.0
+- Departments: Computer Engineering, Information Technology
+- Programmes: M TECH / COMPUTER, M TECH / I T
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM I/Data Warehousing & Mining/Data Warehousing & Mining Batch 2011-2012 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.8
 
 ````text
-Programme:M. Tech (Computer) Year: I
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+\
 
 SVKM’s NMIMS
 
-Academic Year: 2013-14 Batch:2012-13
+Mukesh Patel School of Technology Management & Engineering
 
-Subject : Data Warehousing & Mining
+Programme: M.Tech (I.T./COMP) Year: I Trimester: I
+Academic Year : 2012-2013
 
-Date :10/12/2013
+: SVKMPS
+Batch: 2011-12 = ms University J
+Subject: DATA WAREHOUSING & MINING Marks: 100 x Mumbai - 56, 2
+a \w)\ye Time: 2.00 p.ri 16.5.0 p'FRARY jf
+Date: . 27740/2042— Duration: 3 hrs. oN - mx ‘S
+Re - Examination Gy a ®
+_ emt, MAN AGENES
 
-Marks:100
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
 
-Time : 10.00 am. - 1.00 pm
-Durations:3 (hrs)
-Re-Examination
+N.B:
 
-Instructions : Candidates should rea
+1. Question 1 is compulsory
 
-the question paper and on cover of t
-their use.
+2. Out of remaining six, any four questions to be attempted.
 
-d carefully the instructions printed on
-he Answer Book which provided for
+3. All Questions carry equal marks.
 
-NB:
+1 a) Trace the results of using the Apriori algorithm on the above store example with s =
+20% and o = 40%. Show the candidate and large itemsets for each database scan. Also
 
-1 Attempt any five questions.
+indicate the association rules that will be generated. [15]
+[Transaction ID { Items Purchased
+in |bread, milk, toothpaste
+2 bread, milk, cheese
+B \cereal, bread, coffee, cheese
+la |milk, beef
+5 ltea, biscuits, pizza
+le |milk, chicken, potatoes
+7 cheese, pork, milk, biscuits, bread
+Fi is cheese, tea
+) 9 |coffee, cheese, milk, pasta, bread
+{10 bacon, eggs
 
-2 All question carry equal marks.
+1b) Name five characteristics of the computing environment needed to provide strategic
 
-3 Answer to each new question to be started on a fresh page..
+information. [5]
+2 a) Why do you need a separate data staging component? [4]
+2 b) Explain the ID3 algorithm and highlight the major issues faced by the algorithm.
+10]
+j [
+2c) What is CRM? How can you make your data-warehouse CRM-ready? [6]
 
-Q.1 A) | Elaborate on the architecture of a search engine. 10
-Q.1 B) | Compare and contrast all clustering algorithms. 10
-Q@.2z A) | Explain the Purpose and types of metadata in a data warehouse built for a 10
-Consumer Goods company.
-Q.2 B) | Write a detailed note on — Temporal Mining algorithms 10
-Q.3 A) | Explain the architectural components of data warehouse built for a manufacturing 10
-company.
-Q.3 B) | Write a detailed note on — Spatial clustering & classification algorithms 10 -
-Q.4 A) | Differentiate between Web structure mining and web content mining 10
-Q.4 B) | Discuss the characteristics of dimensions and fact tables in a data warehouse. 10 -
-Q.5 A) | Explain how clustering works with Categorical data. Explain with an example an 10
-algorithm targeted for Categorical data.
-Q.5 B) | Discuss the issues in distributed data mining. 10
-L
-Q.6 A) | Explain the major transformation types used in data transformation. 10
-Q.6 B) | Explain various types of data pollution with examples and remedial measures to 10 0]
-correct it.
-Q.7 A) | Explain the design and development phases of Web-enabled Data warehouse. 10 |
-Q.7 B) | State & explain Sampling algorithm for building Association Rules. 10
-‘7 --- END--- [ |
+3 a) You are a data design specialist on a data warehouse project team for a
+manufacturing company. Design a star schema to track the production quantities.
+Production quantities are normally analyzed along the business dimensions of product,
+time, parts used, production facility, and production run. State your assumptions. [15]
 
-If
+3 b) Give the classification of clustering algorithms. [5]
+
+/2-
+--- page 2 ---
+4 a) Describe slowly changing dimensions. What are the three types? Explain each type
+
+very briefly. [10]
+4 b) Explain k-means clustering with an example. Give the pseudo algorithm for the
+same. [10]
+5 a) Discuss the various options available for data extraction. [10]
+
+5 b) Explain the basic Apriori Algorithm and discuss the limitations of the same. [10]
+
+6 a) Discuss the various OLAP architectural options. [10]
+6 b) Discuss the different data structures that can be used for spatial data mining. [10]
+
+7) Write short notes on (any three): [20]
+a) Major Transformation types
+b) STARJjoin and STARindex
+c) Count Distribution Algorithm for Association Rules
+d) Temporal Mining
+e) Web Usage Mining
+
+a
 ````
 
 ## 2012-13 · Re-Exam · Trim 1 · paper 6650433be7f8
@@ -9372,99 +9574,6 @@ v) | Radial Basis Function Networks
 vi) | ID3 Algorithm
 ````
 
-## 2011-12 · Re-Exam · Trim 1 · paper 2ea27f9a28dd
-
-- Departments: Computer Engineering, Information Technology
-- Programmes: M TECH / COMPUTER, M TECH / I T
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM I/Data Warehousing & Mining/Data Warehousing & Mining Batch 2011-2012 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-\
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: M.Tech (I.T./COMP) Year: I Trimester: I
-Academic Year : 2012-2013
-
-: SVKMPS
-Batch: 2011-12 = ms University J
-Subject: DATA WAREHOUSING & MINING Marks: 100 x Mumbai - 56, 2
-a \w)\ye Time: 2.00 p.ri 16.5.0 p'FRARY jf
-Date: . 27740/2042— Duration: 3 hrs. oN - mx ‘S
-Re - Examination Gy a ®
-_ emt, MAN AGENES
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-N.B:
-
-1. Question 1 is compulsory
-
-2. Out of remaining six, any four questions to be attempted.
-
-3. All Questions carry equal marks.
-
-1 a) Trace the results of using the Apriori algorithm on the above store example with s =
-20% and o = 40%. Show the candidate and large itemsets for each database scan. Also
-
-indicate the association rules that will be generated. [15]
-[Transaction ID { Items Purchased
-in |bread, milk, toothpaste
-2 bread, milk, cheese
-B \cereal, bread, coffee, cheese
-la |milk, beef
-5 ltea, biscuits, pizza
-le |milk, chicken, potatoes
-7 cheese, pork, milk, biscuits, bread
-Fi is cheese, tea
-) 9 |coffee, cheese, milk, pasta, bread
-{10 bacon, eggs
-
-1b) Name five characteristics of the computing environment needed to provide strategic
-
-information. [5]
-2 a) Why do you need a separate data staging component? [4]
-2 b) Explain the ID3 algorithm and highlight the major issues faced by the algorithm.
-10]
-j [
-2c) What is CRM? How can you make your data-warehouse CRM-ready? [6]
-
-3 a) You are a data design specialist on a data warehouse project team for a
-manufacturing company. Design a star schema to track the production quantities.
-Production quantities are normally analyzed along the business dimensions of product,
-time, parts used, production facility, and production run. State your assumptions. [15]
-
-3 b) Give the classification of clustering algorithms. [5]
-
-/2-
---- page 2 ---
-4 a) Describe slowly changing dimensions. What are the three types? Explain each type
-
-very briefly. [10]
-4 b) Explain k-means clustering with an example. Give the pseudo algorithm for the
-same. [10]
-5 a) Discuss the various options available for data extraction. [10]
-
-5 b) Explain the basic Apriori Algorithm and discuss the limitations of the same. [10]
-
-6 a) Discuss the various OLAP architectural options. [10]
-6 b) Discuss the different data structures that can be used for spatial data mining. [10]
-
-7) Write short notes on (any three): [20]
-a) Major Transformation types
-b) STARJjoin and STARindex
-c) Count Distribution Algorithm for Association Rules
-d) Temporal Mining
-e) Web Usage Mining
-
-a
-````
-
 ## 2010-11 · Final-Exam · Trim 1 · paper 66ba5fedab09
 
 - Departments: Computer Engineering
@@ -9472,6 +9581,7 @@ a
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM I/Data Warehousing & Mining/Data Warehousing & Mining 2010-11 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28/10/2010
 - Text: ocr (2 pages), mean OCR confidence 87.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVEM’s NMIMS
@@ -9512,7 +9622,6 @@ Maggic 9 19m Mediuns Tall i
 Marth, pak 1&8 m Medium Tall \
 Stephemie E L?m Short Medium |
 Rob M 1.85 m Medium Medium
-Kathy is lon Short Mediurn i
 Dave M 7m Shon Medium |
 Worth M 2.2m Tall Tall
 Steven M 2.1m Tall Tall i
@@ -9569,6 +9678,105 @@ vi) Radial Basis Function Networks
 ee |
 
 ——
+````
+
+## 2010-11 · Re-Exam · Trim 1 · paper 297c25cd8429
+
+- Departments: Computer Engineering
+- Programmes: M TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM I/Data Warehousing & Mining/Data Warehousing & Mining Batch 2009-2010 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/10/2010
+- Text: ocr (2 pages), mean OCR confidence 86.2
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: M. Tech (I. T.) Year: I Trimester: I
+Academic Year : 2010-2011
+
+Batch: 2009-2010
+Subject: DATA WAREHOUSING Marks: 100
+& MINING Time: 2.00pm To 5.00pm
+Date: 28/10/2010 Duration: 3 hrs.
+Re - Examination
+N.B:
+
+1. Question | is compulsory
+2. Out of remaining six, any ot questions to be attempted.
+3. All Questions carry equal marks.
+
+| 1 a) Trace the results of using the Apriori algorithm on the above store example with s = 20% | [15]
+| and a = 40%. Show the candidate and large itemsets for each database scan. Also indicate the |
+| association rules that will be generated.
+
+| [Transaction ID [Items Purchased |
+| fi Ibread, milk, toothpaste |
+| Be |bread, milk, cheese
+| B {cereal, bread, coffee, cheese |
+| 4 imilk, beef :
+5 ltea, biscuits, pizza |
+6 |mitk, chicken, potatoes as
+[7 cheese, pork, milk, biscuits, bread
+|g cheese, tea
+5S el. |coffee, cheese, milk, pasta, bread |
+fio [bacon, eggs |
+1 b) What are Datamarts and how are they different from a data warehouse? | [5]
+
+2 a) Show the dendogram created by the single, complete, and average link clustering [10]
+| algorithms using the following adjacency matrix: |
+
+{
+
+Item A B IG D
+
+A 0 |
+
+B 1 0 |
+
+€ 4 2 0
+
+D 5 6 3 (0) y | |
+7 ae
+2b) Explain with a neat diagram the components ofa warehouse. i [10] |
+
+| 3a) Whai are the different steps in solving classification problem using Neural Networks? [10] |
+| Discuss the issues to be examined. = |
+| 3b) Explain the types of changes that affect dimension tables and discuss the ways for dealing | [10]
+
+| with these types.
+
+| 4a) Compare and contrast the data and task parallelism algorithms for Association rules. [10]
+| 4 b) List and Explain in brief the major functional steps in the ETL process. __ 5 | [10]
+| $a) Discuss the architectural options for OLAP. ee [07] |
+
+\ |o_
+--- page 2 ---
+Pale
+
+5 b) What is “snowflaking”? Discuss its advantages and disadvantages? [05]
+5 c) Discuss the various data structures used to store or index spatial data. [08]
+6 a) What are Calendric Assoication Rules? Explain giving an example. [08]
+6 b) How are requirements gathered and transformed in Requirements Definition Document for | [08]
+a Warehouse Design? |
+
+6 c) What are Radial Basis Function Networks? [04]
+7) Write Short notes on any four: [20]
+
+i) Datawarehousing and ERP
+
+ii) Elt modeling v/s Dimensional Modeling
+
+iii) Core and Custom Fact Tables
+
+iv) DBSCAN
+
+vy) Temporal Mining
+
+vi) PageRank Algorithm
+
+—_——
+
+“VY Eiko ie eee
 ````
 
 ## 2009-10 · Exam not stated · Trim 7 · paper efc653a7ed4f
@@ -9884,105 +10092,6 @@ v) DBSCAN
 vi) Junk Dimensions
 ````
 
-## 2009-10 · Re-Exam · Trim 1 · paper 297c25cd8429
-
-- Departments: Computer Engineering
-- Programmes: M TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM I/Data Warehousing & Mining/Data Warehousing & Mining Batch 2009-2010 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/10/2010
-- Text: ocr (2 pages), mean OCR confidence 86.2
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: M. Tech (I. T.) Year: I Trimester: I
-Academic Year : 2010-2011
-
-Batch: 2009-2010
-Subject: DATA WAREHOUSING Marks: 100
-& MINING Time: 2.00pm To 5.00pm
-Date: 28/10/2010 Duration: 3 hrs.
-Re - Examination
-N.B:
-
-1. Question | is compulsory
-2. Out of remaining six, any ot questions to be attempted.
-3. All Questions carry equal marks.
-
-| 1 a) Trace the results of using the Apriori algorithm on the above store example with s = 20% | [15]
-| and a = 40%. Show the candidate and large itemsets for each database scan. Also indicate the |
-| association rules that will be generated.
-
-| [Transaction ID [Items Purchased |
-| fi Ibread, milk, toothpaste |
-| Be |bread, milk, cheese
-| B {cereal, bread, coffee, cheese |
-| 4 imilk, beef :
-5 ltea, biscuits, pizza |
-6 |mitk, chicken, potatoes as
-[7 cheese, pork, milk, biscuits, bread
-|g cheese, tea
-5S el. |coffee, cheese, milk, pasta, bread |
-fio [bacon, eggs |
-1 b) What are Datamarts and how are they different from a data warehouse? | [5]
-
-2 a) Show the dendogram created by the single, complete, and average link clustering [10]
-| algorithms using the following adjacency matrix: |
-
-{
-
-Item A B IG D
-
-A 0 |
-
-B 1 0 |
-
-€ 4 2 0
-
-D 5 6 3 (0) y | |
-7 ae
-2b) Explain with a neat diagram the components ofa warehouse. i [10] |
-
-| 3a) Whai are the different steps in solving classification problem using Neural Networks? [10] |
-| Discuss the issues to be examined. = |
-| 3b) Explain the types of changes that affect dimension tables and discuss the ways for dealing | [10]
-
-| with these types.
-
-| 4a) Compare and contrast the data and task parallelism algorithms for Association rules. [10]
-| 4 b) List and Explain in brief the major functional steps in the ETL process. __ 5 | [10]
-| $a) Discuss the architectural options for OLAP. ee [07] |
-
-\ |o_
---- page 2 ---
-Pale
-
-5 b) What is “snowflaking”? Discuss its advantages and disadvantages? [05]
-5 c) Discuss the various data structures used to store or index spatial data. [08]
-6 a) What are Calendric Assoication Rules? Explain giving an example. [08]
-6 b) How are requirements gathered and transformed in Requirements Definition Document for | [08]
-a Warehouse Design? |
-
-6 c) What are Radial Basis Function Networks? [04]
-7) Write Short notes on any four: [20]
-
-i) Datawarehousing and ERP
-
-ii) Elt modeling v/s Dimensional Modeling
-
-iii) Core and Custom Fact Tables
-
-iv) DBSCAN
-
-vy) Temporal Mining
-
-vi) PageRank Algorithm
-
-—_——
-
-“VY Eiko ie eee
-````
-
 ## 2008-09 · Final-Exam · Trim 1 · paper ceafce0e5e99
 
 - Departments: Computer Engineering
@@ -10181,118 +10290,4 @@ d) Temporal Mining
 e) Data Visualization
 
 x
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper 43e207fc0f3e
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/TRIM VII/DATA WAREHOUSING AND MINING/scan0020(5).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01/10/2012
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engin
-/ Programme: MCA Year: II] Trimester: VII
-/ Academic Year : 2012-2013
-
-Subject: DATA MINING & WAREHOUSING Marks: 100 \ ey
-Time: 2.00pm To 5.00pm
-Date: 01/10/2012 Duration: 3 hrs. ——
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for the use.
-
-NB.
-1. Question No.1 is compulsory
-2. Out of remaining 6 questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. All questions carry equal marks. “e
-5. Answer to each new question should be started on a Fresh page.
-6. Figure in brackets indicate full marks.
-
-Ql a) Define classification? Explain any Classification algorithm with suitable 10
-example?
-b) How are top-down and bottom up approaches for building data 10
-warehouse differ? Discuss the merits and limitations of each
-approach.
-
-; Q.2 a) What are the types of OLAP servers? Explain the different operations of 10
-} OLAP with suitable example?
-
-b) Design an information package diagram for a Bank. Clearly explain all 10
-aspects of the diagram? Draw the star schema for the data warehouse
-clearly identify the fact table(s), dimension table(s) their attributes and
-measures.
-
-Q3 a) Explain ETL of Data warehousing in Detail 10
-b) Define Data warehouse with features? Explain the architecture of data 10
-
-} warehouse with suitable block diagram?
-¥ oa a) What are techniques and application of Data Mining? 10
-
-b) Explain K-means clustering and solve the following with K=2 10
-{2,25,10,15,5,20,4,40}
-
-Q5 a) What are the Benefits of the FP-tree Structure over Apriori 10
-algorithm? Give example to support.
-
-b) Explain in detail the different steps involved KDD Process. 10
-
-Page 1 of 2
---- page 2 ---
-a
-
-Q.6 a) Apply ID3 on the following Training Dataset. Extract the classification
-rule from the tree.
-Model Engine SC/Turbo = Weight Fuel Eco Fast
-Prius small na average good no
-Civic small no light average no
-WRX STI small yes average bad yes
-M3 medium no heavy bad yes
-RS4 large no average bad yes
-GTI medium no light bad no
-XJR large yes heavy bad no
-S500 large no heavy bad no
-911 medium yes light bad yes
-Corvette large no average bad yes
-Insight small no light good no
-RSX small no average average no
-($350 medium no heavy bad no
-MR2 small yes average average no
-£320 medium no heavy bad no
-
-b) What is Association Rule mining? Give the Apriori Aigorithm.
-Apply association Rule to find all frequent item sets from following
-table?
-
-Trans-
-id Items
-
-100 } 1,3,4,6
-200 | 2,3,5,7
-300 | 1,2,3,5,8
-400 | 2,5,9,10
-500 | 1,4
-
-(Let min-support = 60% and min-confidence = 80)
-Q.7 Write Short Notes on( any two)
-
-i) Comparison between OLAP and OLTP
-ii) Comparison between data warehouse and Data Mart
-
-iii) Trends in data mining
-
-nr ee
-
-Page 2 of 2
-
-10
-
-10
-
-20
 ````

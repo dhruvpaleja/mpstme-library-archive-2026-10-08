@@ -472,6 +472,136 @@ Discuss the steps involved in the process of claims made by scientists.
 Page 3/3
 ````
 
+## 2022-23 · Exam not stated · Sem 8 · paper 1ad4497212e1
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Science, Technology and Society/Science,Technology and Society.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B. Tech / MBA Tech Year: IV Semester: VIII
+
+Stream : All Streams Time: 3 hrs (o:00amtod! oopry)
+Subject: Science, Technology, and Society (Open Elective) No. of Pages: 2
+
+Date: O4 /05 / 2023.
+
+Marks: 100 _
+
+Final Examination
+
+instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use. .
+
+Note:
+1) Question No. 1is compulsory.
+2) Out of the remaining questions, attempt any 4 questions.
+3) Inall 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer briefly:
+
+CO-1; | a. | Define and write in short about the word ‘Technology’. (4)
+SO-1;
+BL-1
+
+CO-2; | b. | What is the meaning of ‘philosophy of technology’? (4)
+SO-1;
+BL-1
+
+CO-3; | c. | Which are the economic perspectives of modern science? (4)
+SO-1;
+BL-1
+
+CO-3; | d. | What are stem cells? Write briefly. (4)
+SO-1; .
+BL-1
+
+CO-4; | e. | Which are the different types of claims made by scientists? (4)
+SO-1;
+BL-1
+
+Q2. a. | Explain briefly the cause of the scientific revolution. (10)
+Co-1;
+
+SO-1;
+
+BL-2
+
+CO-2; b. | Outline the social implications of the use of technology. (10)
+SO-1;
+
+Page 1/2
+--- page 2 ---
+a2 |
+
+Q3. a. | Utilizing the concepts learned in the class write about the stages of the industrial | (10)
+CO-1; revolution.
+
+SO-1;
+
+BL-3
+
+CO-3; b. | Outline the benefits of open science and social media. (10)
+SO-1;
+BL-2
+
+Q4. a. | Utilize your knowledge to write about the rights and wrongs of science. (10)
+COo-1;
+
+SO-1;
+
+BL-3
+
+CO-2; b. | Analyze technology, and the character of everyday life. (10)
+SO-1;
+BL-4
+
+Qs. a. | Summarize the characteristics of science as a social institution. (10)
+CcO-3;
+
+SO-1;
+
+BL-2
+
+CO-3; b. | Make use of your knowledge to write about the impact of science and technology on the | (10)
+SO-1; less developed cowntries.
+BL-3
+
+Q6. a. | Categorize the advantages of Computers vs. Humans in terms of Speed, Memory, and | (10)
+CO-2; Accuracy.
+
+SO-1;
+
+BL-4
+
+CO-3; b. | Justify the impact of technology on the transformation of work. (10)
+SO-1;
+BL-5
+
+Q7. a. | Summarize the responsibilities of scientists. (10)
+CO-3;
+
+SO-1;
+
+BL-2
+
+CO-4; b. | Discuss the steps for verifying evidences using experimentation. (10)
+SO-1;
+BL-6
+
+Page 2/2
+````
+
 ## 2021-22 · Final-Exam · Sem 8 · paper 2456ab9938e5
 
 - Departments: Common (all branches)
@@ -675,134 +805,4 @@ involved in funding scientific research in the country.
 CO-1; BL-1 | d. Explain the applications of brain imaging as courtroom evidence. [05]
 
 Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 1ad4497212e1
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Science, Technology and Society/Science,Technology and Society.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 92.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B. Tech / MBA Tech Year: IV Semester: VIII
-
-Stream : All Streams Time: 3 hrs (o:00amtod! oopry)
-Subject: Science, Technology, and Society (Open Elective) No. of Pages: 2
-
-Date: O4 /05 / 2023.
-
-Marks: 100 _
-
-Final Examination
-
-instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use. .
-
-Note:
-1) Question No. 1is compulsory.
-2) Out of the remaining questions, attempt any 4 questions.
-3) Inall 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql. Answer briefly:
-
-CO-1; | a. | Define and write in short about the word ‘Technology’. (4)
-SO-1;
-BL-1
-
-CO-2; | b. | What is the meaning of ‘philosophy of technology’? (4)
-SO-1;
-BL-1
-
-CO-3; | c. | Which are the economic perspectives of modern science? (4)
-SO-1;
-BL-1
-
-CO-3; | d. | What are stem cells? Write briefly. (4)
-SO-1; .
-BL-1
-
-CO-4; | e. | Which are the different types of claims made by scientists? (4)
-SO-1;
-BL-1
-
-Q2. a. | Explain briefly the cause of the scientific revolution. (10)
-Co-1;
-
-SO-1;
-
-BL-2
-
-CO-2; b. | Outline the social implications of the use of technology. (10)
-SO-1;
-
-Page 1/2
---- page 2 ---
-a2 |
-
-Q3. a. | Utilizing the concepts learned in the class write about the stages of the industrial | (10)
-CO-1; revolution.
-
-SO-1;
-
-BL-3
-
-CO-3; b. | Outline the benefits of open science and social media. (10)
-SO-1;
-BL-2
-
-Q4. a. | Utilize your knowledge to write about the rights and wrongs of science. (10)
-COo-1;
-
-SO-1;
-
-BL-3
-
-CO-2; b. | Analyze technology, and the character of everyday life. (10)
-SO-1;
-BL-4
-
-Qs. a. | Summarize the characteristics of science as a social institution. (10)
-CcO-3;
-
-SO-1;
-
-BL-2
-
-CO-3; b. | Make use of your knowledge to write about the impact of science and technology on the | (10)
-SO-1; less developed cowntries.
-BL-3
-
-Q6. a. | Categorize the advantages of Computers vs. Humans in terms of Speed, Memory, and | (10)
-CO-2; Accuracy.
-
-SO-1;
-
-BL-4
-
-CO-3; b. | Justify the impact of technology on the transformation of work. (10)
-SO-1;
-BL-5
-
-Q7. a. | Summarize the responsibilities of scientists. (10)
-CO-3;
-
-SO-1;
-
-BL-2
-
-CO-4; b. | Discuss the steps for verifying evidences using experimentation. (10)
-SO-1;
-BL-6
-
-Page 2/2
 ````

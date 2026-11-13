@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_IT Project Management(702CO0C049)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | IT Project Management, Sem-VII, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_IT Project Management(702CO0C049)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_IT Project Management(702CO0C049)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_IT Project Management(702CO0C049)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_IT Project Management(702CO0C049)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_IT Project Management(702CO0C049)_2025-2026.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | B TECH / CSBS | IT Project Management, Sem VIII, Year 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 8 | B TECH / CSBS | IT Project Management, Sem-VIII, Final Exam 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 8 | B TECH / CSBS | IT Project Management, Sem-VIII, A Y 2023-24, Re Exam.pdf |

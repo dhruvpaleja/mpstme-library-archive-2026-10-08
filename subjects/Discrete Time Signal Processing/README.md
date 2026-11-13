@@ -15,10 +15,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 5, Sem 9 | B TECH / EXTC, B.TECH INTEGRATED / EXTC, MBA TECH / EXTC | Discrete Time Signal Processing 2025-26 Final Batch 2022-23,2023-24,2024-25 Re Exam.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Discrete Time Signal Processing(702EX0C018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech EXTC 7006 | QP_Discrete Time Signal Processing(702EX0C018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Discrete Time Signal Processing(702EX0C018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Discrete Time Signal Processing(702EX0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech EXTC 7006 | QP_Discrete Time Signal Processing(702EX0C018)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Discrete Time Signal Processing(702EX0C018)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5, Sem 9 | B TECH / EXTC, B.TECH INTEGRATED / EXTC, MBA TECH / EXTC | Discrete Time Signal Processing Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5, Sem 9 | B TECH / EXTC, B.TECH INTEGRATED / EXTC, MBA TECH / EXTC | Discrete Time Signal Processing, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final + Re-Exam, Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / EXTC, B.TECH INTEGRATED / EXTC, MBA TECH / EXTC | Discrete Time Signal Processing, Sem-V, Batch 2023-24 Final Exam.pdf |

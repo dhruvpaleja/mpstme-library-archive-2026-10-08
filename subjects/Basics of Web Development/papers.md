@@ -205,6 +205,7 @@ eR KK
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Basics of Web Development/Basics of Web Development Batch 2023-24 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 / 05 /2024
 - Text: ocr (2 pages), mean OCR confidence 93.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -238,7 +239,6 @@ the following records.
 The system has the following tables:
 Customer (CustomerID; CustomerName, Phone, DateOfBirth, EmailID)
 Booking (BookingID,CustomerID, Date, Timeslot)
-Classes (ClassId, ClassName, Timeslot)
 ClassBooking (ClassId, CustomerID)
 
 The Gym owner want a web site with the following webpages.

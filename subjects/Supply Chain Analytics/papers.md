@@ -158,6 +158,7 @@ minimizes total inventory cost and compute the total cost.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/6th YEAR/MECHANICAL/Sem_11/Supply Chain Analytics/Supply Chain Analytics 2025-26 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 25 Nov 2025
 - Text: ocr (3 pages), mean OCR confidence 88.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ak
@@ -269,7 +270,6 @@ Probability — demand
 0.2 1100
 0.2 950
 
-Fe GR 2 kok ak ok a ook
 --- page 3 ---
 0.1 1050
 
@@ -632,6 +632,153 @@ The firm uses 800 units per year. Annual holding cost is $10 per unit, and
 ordering cost is $150 per order. What is the optimal order quantity
 considering the price breaks? Compute the total inventory cost.
 ********** 4 **********
+````
+
+## 2025-26 · Re-Exam · Sem 8 · paper 457a4082c37c
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VIII SEMESTER/SUPPLY CHAIN ANALYTICS/Supply Chain Analytics, Sem-VIII, Batch 2023-24, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Jul 2026
+- Text: ocr (3 pages), mean OCR confidence 86.2
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: MASTER OF BUSINESS ADMINISTRATION IN TECHN®LO
+MANAGEMENT(MECHANICAL ENGINEERING)
+Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Supply Chain Analytics
+Date: 06 Jul 2026 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2023-2024)
+
+Instructions:
+
+1. This question paper contains 3 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question No. | is compulsory.
+
+5. Out of remaining questions, attempt any 4 questions.
+
+6. In all 5 questions to be attempted.
+
+7. All questions carry equal marks.
+
+8. Assume Suitable data if necessary.
+
+ol Answer briefly: ‘: ~ [20]
+CO-1; a. . ee . .
+SO-7: What is Supply Chain Management? Explain its concept and state any five [05]
+BL-1 key objectives. :
+CO-2; b: : . Le . .
+S0-6: Explain the bullwhip effect in supply chain management with the help of a [05]
+BL2- suitable diagram.
+coz; Jel
+SO-7; List any five benefits of the Just-in-Time (JIT) inventory system. [05]
+BL-3 _[.
+CO-1; d. . . . . :
+SO-7: Explain the Weighted Point Method for supplier evaluation. Illustrate the [05]
+BI _ Weighted Point Method with a suitable example.
+Q2 [20]
+CO-1; a. | Describe the TOPSIS method used in supply chain decision-making and (10)
+SO-7; .
+
+7 BL3 outline its step-by-step procedure.
+CO-2; b. | Examine the significance of Supply Chain Integration and explain the (10)
+
+-1; i . i. .
+an strategies used to achieve it with suitable examples.
+Q3 , [20]
+a. | A firm consumes 18,000 units of a raw material per year. The ordering cost
+
+CO-1: is 3250 per order, and the carryingecost is 10 per unit per year. Calculate:
+50-6; (10)
+
+BL-2 ¥ i) Economic Order Quantity (EOQ)
+ii) Number of orders per year
+ii) Total inventory cost
+
+. OI OR
+--- page 2 ---
+| CO-3;
+
+b. |,
+
+“| Compare push-based and pull-based supply chain strategies and illustrate
+
+SO-1; rcramvatthontdare ecticct Lg]
+BL-4 their application using industry examples.
+Q4 [20]
+CO-1; a.
+SO-7; Compare cross-docking and traditional warehousing with diagrams. [10]
+BL-2
+b. | Given monthly demand data (units):
+Sr. No. | Month Demand
+i July 920
+CO-3; 2 August 810
+SO-1; 3 September 760 [10]
+BL-4 4 October 640
+5 November 700
+Calculate 3-month weighted moving average forecast for January (weights:
+0.6, 0.25, and 0.15.)
+, >
+Q5 [20]
+CO-1; a. | Discuss two logistical factors that affect the performance of a supply chain,
+SO-6; . [10]
+BL-2 with reference to real-world industry examples.
+b. | A retail store wants to forecast weekly demand for Product X using the
+Exponential Smoothing Method (a = 0.3). The actual sales data for the past 6
+weeks is as follows:
+Sr. No. | Week Actual Demand
+CO-3; I 1 120
+sitet 2 5 135 oy]
+BL-4
+3 3 128
+4 4 145
+=) 5 138 oy
+6 6 150
+Q6 [20]
+CO-1; || a. | What is meant by Green Supply Chain Management? Explain three
+SO-7; . ; . . [10]
+BL-1 implementation strategies adopted by organizations.
+CO-1; b. | Discuss how the use of Customer Relationship Management systems
+SO-6; oT [10]
+BL-2 enhances overall supply chain efficiency.
+Q7 7 [20]
+
+FOI RR RE
+--- page 3 ---
+a. | A manufacturing firm is experiencing frequent material movement delays,
+
+higher handling costs, and workplace congestion due to inefficient material
+
+CO-1; e
+
+SO-2: flow. x [10]
+
+BL-4 Based on this situation, explain the objectives of material handling and
+discuss the principles that guide an efficient material handling system.
+
+b. | A logistics company facing issues such as poor shipment visibility, inventory
+
+inaccuracies, and delivery delays plans to adopt Internet of Things (IoT)
+
+CO-3; technology across its supply chain.
+
+ae Based on this case, explain the concept of loT in supply chain management (101
+and discuss its working, applications, and advantages in improving supply
+chain operations.
+
+i
+
+FOR 2 Rr
+.
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 12 · paper 902c2d7c7636
@@ -1343,261 +1490,6 @@ Q-7 Software or tools are important when applying data science in supply chains.
 [10 x 2=20 Marks, 10 marks each]
 ````
 
-## 2023-24 · Re-Exam · Sem 8 · paper 457a4082c37c
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VIII SEMESTER/SUPPLY CHAIN ANALYTICS/Supply Chain Analytics, Sem-VIII, Batch 2023-24, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Jul 2026
-- Text: ocr (3 pages), mean OCR confidence 86.2
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-
-Programme: MASTER OF BUSINESS ADMINISTRATION IN TECHN®LO
-MANAGEMENT(MECHANICAL ENGINEERING)
-Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
-Subject: Supply Chain Analytics
-Date: 06 Jul 2026 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2023-2024)
-
-Instructions:
-
-1. This question paper contains 3 pages.
-
-2. Answer to each new question to be started on a fresh page.
-
-3. Figure in right hand side indicates full marks
-
-4. Question No. | is compulsory.
-
-5. Out of remaining questions, attempt any 4 questions.
-
-6. In all 5 questions to be attempted.
-
-7. All questions carry equal marks.
-
-8. Assume Suitable data if necessary.
-
-ol Answer briefly: ‘: ~ [20]
-CO-1; a. . ee . .
-SO-7: What is Supply Chain Management? Explain its concept and state any five [05]
-BL-1 key objectives. :
-CO-2; b: : . Le . .
-S0-6: Explain the bullwhip effect in supply chain management with the help of a [05]
-BL2- suitable diagram.
-coz; Jel
-SO-7; List any five benefits of the Just-in-Time (JIT) inventory system. [05]
-BL-3 _[.
-CO-1; d. . . . . :
-SO-7: Explain the Weighted Point Method for supplier evaluation. Illustrate the [05]
-BI _ Weighted Point Method with a suitable example.
-Q2 [20]
-CO-1; a. | Describe the TOPSIS method used in supply chain decision-making and (10)
-SO-7; .
-
-7 BL3 outline its step-by-step procedure.
-CO-2; b. | Examine the significance of Supply Chain Integration and explain the (10)
-
--1; i . i. .
-an strategies used to achieve it with suitable examples.
-Q3 , [20]
-a. | A firm consumes 18,000 units of a raw material per year. The ordering cost
-
-CO-1: is 3250 per order, and the carryingecost is 10 per unit per year. Calculate:
-50-6; (10)
-
-BL-2 ¥ i) Economic Order Quantity (EOQ)
-ii) Number of orders per year
-ii) Total inventory cost
-
-. OI OR
---- page 2 ---
-| CO-3;
-
-b. |,
-
-“| Compare push-based and pull-based supply chain strategies and illustrate
-
-SO-1; rcramvatthontdare ecticct Lg]
-BL-4 their application using industry examples.
-Q4 [20]
-CO-1; a.
-SO-7; Compare cross-docking and traditional warehousing with diagrams. [10]
-BL-2
-b. | Given monthly demand data (units):
-Sr. No. | Month Demand
-i July 920
-CO-3; 2 August 810
-SO-1; 3 September 760 [10]
-BL-4 4 October 640
-5 November 700
-Calculate 3-month weighted moving average forecast for January (weights:
-0.6, 0.25, and 0.15.)
-, >
-Q5 [20]
-CO-1; a. | Discuss two logistical factors that affect the performance of a supply chain,
-SO-6; . [10]
-BL-2 with reference to real-world industry examples.
-b. | A retail store wants to forecast weekly demand for Product X using the
-Exponential Smoothing Method (a = 0.3). The actual sales data for the past 6
-weeks is as follows:
-Sr. No. | Week Actual Demand
-CO-3; I 1 120
-sitet 2 5 135 oy]
-BL-4
-3 3 128
-4 4 145
-=) 5 138 oy
-6 6 150
-Q6 [20]
-CO-1; || a. | What is meant by Green Supply Chain Management? Explain three
-SO-7; . ; . . [10]
-BL-1 implementation strategies adopted by organizations.
-CO-1; b. | Discuss how the use of Customer Relationship Management systems
-SO-6; oT [10]
-BL-2 enhances overall supply chain efficiency.
-Q7 7 [20]
-
-FOI RR RE
---- page 3 ---
-a. | A manufacturing firm is experiencing frequent material movement delays,
-
-higher handling costs, and workplace congestion due to inefficient material
-
-CO-1; e
-
-SO-2: flow. x [10]
-
-BL-4 Based on this situation, explain the objectives of material handling and
-discuss the principles that guide an efficient material handling system.
-
-b. | A logistics company facing issues such as poor shipment visibility, inventory
-
-inaccuracies, and delivery delays plans to adopt Internet of Things (IoT)
-
-CO-3; technology across its supply chain.
-
-ae Based on this case, explain the concept of loT in supply chain management (101
-and discuss its working, applications, and advantages in improving supply
-chain operations.
-
-i
-
-FOR 2 Rr
-.
-````
-
-## 2022-23 · Exam not stated · Sem 8 · paper a7c50afc9db7
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/SUPPLY CHIN ANALYTICS/Supply Chain Analytics, Sem-VIII, A Y 2022-23.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
-- Text: ocr (3 pages), mean OCR confidence 90.9
-
-````text
-SVKM’s NMIMS \
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING.)
-
-Academic Year: 2021-22
-
-Programme: B. Tech / MBA Tech (Mechanical) Year: IV Semester: VIII
-Subject: Supply Chain, Analytics
-
-Marks: 100
-Date: 14 April 2022 Time: 2.00 pm to 5.00 pm
-
-Durations: 3 (hrs)
-No. of Pages: C#
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-co-1,s0-2 | ™ Distinguish between Vertical Supply chain and Horizontal Supply chain [05]
-BL4 with an example.
-€0-2,80-2 b. How do fuel cost and political factors affect the location decision in a [05]
-BL1 supply chain?
-ne SO-4 | ¢. Describe the steps for Rating Method. [05]
-so So-4 | d. Explain Supplier Relationship Management framework in supply chain. [05]
-Q2 [20]
-a 50-2 Ja List down the obstacles for achieving strategic fit.(any five) [10]
-co-1,50-2 |b Distinguish Push process and Pull process in Supply chain with an f10)
-BL4 example.
-
-Page 1 of 3
---- page 2 ---
-Q3 [20]
-
-a SO-2 Ja How Microeconomic factors can influence network design decisions ? [10]
-oa So-2 |b List down the type of risk in designing global supply chain network. [10]
-Q4 [20]
-soe SO-4 Ja Explain various mode of transportation in detail. [10]
-co-1,s0-4 | b List down the internal transport equipment’s used in warehouse and write fo]
-Bit a short note on Material handling process.
-Q5 [20]
-ae So4 ja Describe the steps for VIKOR Method. (formula is needed.) [10]
-b A WXY company wants to distribute the demand of the product, estimate
-the expected profit of a company for the given demand. If the company
-decided that the demand is 6000 then estimate the profit of a company.
-Sr No Demand (in thousand) Probability
-1 4 0.1
-2* 5 0.2
-CO-3, 0-4 3 6 0.3 [10]
-Bre 4 7 0.1
-5 8 0.1
-6 9 0.1
-7 10 0.1
-Cost Price is Rs. 4500/-
-Selling Price is Rs. 5000/-
-Q6 [20]
-Soe. oot |e Explain green supply chain. , [10]
-
-Page 2 of 3
---- page 3 ---
-b An ABC manufacturing company wants to forecast their sales for next 7
-weeks, projected sales in every week is given in the table. Estimate forecasts
-
-using Exponential Smoothing Method. And also calculate the mean squared
-
-error for the forecasts (take a = 0.2).
-
-CO-3, SO-4 Week Sales [10]
-BL6 : 1 58
-
-2 62
-
-3 67
-
-4 64
-
-5 69
-
-6 71
-
-7 65
-
-Page 3 of 3
-````
-
 ## 2022-23 · Final-Exam · Sem 4 · paper be1c6c3db118
 
 - Departments: Mechanical
@@ -2200,6 +2092,114 @@ BLL Explain customer service factors briefly.
 T
 
 Page 4 of 4
+````
+
+## 2021-22 · Exam not stated · Sem 8 · paper a7c50afc9db7
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/SUPPLY CHIN ANALYTICS/Supply Chain Analytics, Sem-VIII, A Y 2022-23.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
+- Text: ocr (3 pages), mean OCR confidence 90.9
+
+````text
+SVKM’s NMIMS \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING.)
+
+Academic Year: 2021-22
+
+Programme: B. Tech / MBA Tech (Mechanical) Year: IV Semester: VIII
+Subject: Supply Chain, Analytics
+
+Marks: 100
+Date: 14 April 2022 Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+No. of Pages: C#
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+co-1,s0-2 | ™ Distinguish between Vertical Supply chain and Horizontal Supply chain [05]
+BL4 with an example.
+€0-2,80-2 b. How do fuel cost and political factors affect the location decision in a [05]
+BL1 supply chain?
+ne SO-4 | ¢. Describe the steps for Rating Method. [05]
+so So-4 | d. Explain Supplier Relationship Management framework in supply chain. [05]
+Q2 [20]
+a 50-2 Ja List down the obstacles for achieving strategic fit.(any five) [10]
+co-1,50-2 |b Distinguish Push process and Pull process in Supply chain with an f10)
+BL4 example.
+
+Page 1 of 3
+--- page 2 ---
+Q3 [20]
+
+a SO-2 Ja How Microeconomic factors can influence network design decisions ? [10]
+oa So-2 |b List down the type of risk in designing global supply chain network. [10]
+Q4 [20]
+soe SO-4 Ja Explain various mode of transportation in detail. [10]
+co-1,s0-4 | b List down the internal transport equipment’s used in warehouse and write fo]
+Bit a short note on Material handling process.
+Q5 [20]
+ae So4 ja Describe the steps for VIKOR Method. (formula is needed.) [10]
+b A WXY company wants to distribute the demand of the product, estimate
+the expected profit of a company for the given demand. If the company
+decided that the demand is 6000 then estimate the profit of a company.
+Sr No Demand (in thousand) Probability
+1 4 0.1
+2* 5 0.2
+CO-3, 0-4 3 6 0.3 [10]
+Bre 4 7 0.1
+5 8 0.1
+6 9 0.1
+7 10 0.1
+Cost Price is Rs. 4500/-
+Selling Price is Rs. 5000/-
+Q6 [20]
+Soe. oot |e Explain green supply chain. , [10]
+
+Page 2 of 3
+--- page 3 ---
+b An ABC manufacturing company wants to forecast their sales for next 7
+weeks, projected sales in every week is given in the table. Estimate forecasts
+
+using Exponential Smoothing Method. And also calculate the mean squared
+
+error for the forecasts (take a = 0.2).
+
+CO-3, SO-4 Week Sales [10]
+BL6 : 1 58
+
+2 62
+
+3 67
+
+4 64
+
+5 69
+
+6 71
+
+7 65
+
+Page 3 of 3
 ````
 
 ## 2021-22 · Final-Exam · paper 3c04390299b9

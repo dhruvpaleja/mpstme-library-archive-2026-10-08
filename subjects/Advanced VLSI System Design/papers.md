@@ -229,6 +229,7 @@ Q}o-
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/I SEMESTER/ADVANCED VLSI SYSTEM DESIGN/Advanced VLSI Sytem Design Batch 2013-14 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12/06/2014
 - Text: ocr (2 pages), mean OCR confidence 92.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 , SVKM’s NMIMS
@@ -310,7 +311,6 @@ B) Calculate the approximate dynamic and short-circuit power dissipated in a chi
 operating with Vpp of 5V at 100MHz with an internal switched capacitance of
 300pF (The average rise/fall time is 200ps). How does the short circuit
 dissipation changes if the average rise/fall time is 500ps? Assume Vt = 0.7V Psc =
-Beff/12*(Vpp -2Vt)3*trf/tp where Beff = 2*Idynamic/( Vpp - Vt)’ where tp =
 
 clock period. (10 Marks)
 Q:7) A) What are the different MOS layers? List the different layers of MOS transistor

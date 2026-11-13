@@ -80,6 +80,7 @@ Company?
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM IV/Entrepreneurship Development/Entrepreneurship Development 2018-19 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 22 October 2018
 - Text: ocr (3 pages), mean OCR confidence 85.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS ot
@@ -166,7 +167,6 @@ them informed. And because he was in drect contact with
 1984, Michael Del, then a college student, started his customers, he gaiied tremendous insight into thei
 seling personal computers from his dorm oom, He didnt expectations and needs, which he communicated to his
 havethe resources tomake computer components, sohie suppers
-eters dota chosing ited to concentrate on Having te mentry gave Del several atietages
 | selling the computers, And, unlke the major computer over his competitors, Aside from the lower costs of
 | producers, he didnt sel to-deders Instead, he sold inventory, when new, faster computer chips became
 trecty to PC buyers, eliminating some intermediaries, —avalable, there was ite inventory to work of so he was

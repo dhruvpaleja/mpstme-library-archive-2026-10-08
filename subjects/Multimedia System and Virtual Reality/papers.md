@@ -85,84 +85,7 @@ Q. 7. (14)
 (ii), Explain, what are 3 ‘I’, in Virtual Reality systems? Give relevant components of Virtual Reality.
 ````
 
-## 2017-18 · Exam not stated · Sem 6 · paper 6addb2622ed0
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/MULTIMEDIA SYSTEM AND VIRTUAL REALITY/Multimedia system and virtual Reality 2017-18.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 10 May 2018
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-t SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (COMPUTER ) Year: III Semester: VI
-Academic Year: 2017-2018
-
-Subject:Multimedia System and Virtual Reality -
-Marks:70
-
-Date:10 May 2018- Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages :
-Final Examination .
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 — Attempt any four question (14)
-a) Multimedia data interface standard.
-b) Explain TIFF.
-c) Write Multimedia Application.
-d) Explain Computer based Animation.
-e) List Virtual Reality application.
-f) Explain JPEG.
-
-Q.2)
-a) What are the human factors that affect on virtual reality design? (7)
-b) Explain multimedia authoring systems. (7)
-Q.3)
-a) Discuss the issues involved in full motion video compression. (7)
-b) Explain cache management for storage system. (7)
-
-Page 1 of 2
---- page 2 ---
-Q.4)
-f a) Explain rendering algorithm in detail. (7)
-C b) Explain application workflow design issues and distributed application design issues. (7)
-Q5)
-a) . Describe object display/playback issues in detail. (7)
-b) Explain components of distributed multimedia system. (7)
-Q.6)
-a) Explain distributed client- server operation in detail. . (7)
-b) Explain working of CDROM in detail. (7)
-Q.7) write short note (Any Two) : (14)
-
-a) Object for Multimedia System
-
-b) Hypermedia Linking and embedding
-c) Ul Design
-
-d) Fractal Compression
-
-Page 2 of 2
-````
-
-## 2017-18 · Re-Exam · Sem 6 · paper eb7f2b13860e
+## 2018-19 · Re-Exam · Sem 6 · paper eb7f2b13860e
 
 - Departments: Computer Engineering
 - Programmes: MBA TECH / Computer
@@ -252,6 +175,83 @@ Page 2 of 2
 [03]
 
 [03]
+````
+
+## 2017-18 · Exam not stated · Sem 6 · paper 6addb2622ed0
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/MULTIMEDIA SYSTEM AND VIRTUAL REALITY/Multimedia system and virtual Reality 2017-18.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 10 May 2018
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+t SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (COMPUTER ) Year: III Semester: VI
+Academic Year: 2017-2018
+
+Subject:Multimedia System and Virtual Reality -
+Marks:70
+
+Date:10 May 2018- Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages :
+Final Examination .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 — Attempt any four question (14)
+a) Multimedia data interface standard.
+b) Explain TIFF.
+c) Write Multimedia Application.
+d) Explain Computer based Animation.
+e) List Virtual Reality application.
+f) Explain JPEG.
+
+Q.2)
+a) What are the human factors that affect on virtual reality design? (7)
+b) Explain multimedia authoring systems. (7)
+Q.3)
+a) Discuss the issues involved in full motion video compression. (7)
+b) Explain cache management for storage system. (7)
+
+Page 1 of 2
+--- page 2 ---
+Q.4)
+f a) Explain rendering algorithm in detail. (7)
+C b) Explain application workflow design issues and distributed application design issues. (7)
+Q5)
+a) . Describe object display/playback issues in detail. (7)
+b) Explain components of distributed multimedia system. (7)
+Q.6)
+a) Explain distributed client- server operation in detail. . (7)
+b) Explain working of CDROM in detail. (7)
+Q.7) write short note (Any Two) : (14)
+
+a) Object for Multimedia System
+
+b) Hypermedia Linking and embedding
+c) Ul Design
+
+d) Fractal Compression
+
+Page 2 of 2
 ````
 
 ## 2017-18 · Re-Exam · Sem 6 · paper edb54d5f2967
@@ -443,9 +443,9 @@ Q.7 Write short note (any two) (12)
 
 ## 2012-13 · Final-Exam · Trim 11 · paper ea7bbdcf3449
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/TRIM XI/MULTIMEDIA SYSTEM AND VIRTUAL REALTY/MULTIMEDIA SYSTEMS & VIRTUAL REALITY 2012-2013 FINALscan0032.pdf`
+- Departments: Computer Engineering, Information Technology
+- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/TRIM XI/IINFORMATION STORAGE MANAGEMENT/IINFORMATION STORAGE MANAGEMENT 2012-2013 FINALscan0032.pdf` (+2 identical copies)
 - Printed on paper: exam date: 17/01/2013
 - Text: ocr (3 pages), mean OCR confidence 93.7
 

@@ -1,10 +1,10 @@
 # An Introduction to Artificial Intelligence and AI: question papers in full
 
-1 unique papers · years not stated · Artificial Intelligence
+1 unique papers · 2023-24 to 2023-24 · Artificial Intelligence
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## Year not stated · Exam not stated · Sem 1 · paper 504d7bcdd543
+## 2023-24 · Exam not stated · Sem 1 · paper 504d7bcdd543
 
 - Departments: Artificial Intelligence
 - Programmes: M TECH / ARTIFICIAL INTELLIGENT

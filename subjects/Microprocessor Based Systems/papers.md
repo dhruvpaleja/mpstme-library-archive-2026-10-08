@@ -177,6 +177,92 @@ c. Explain Cache Coherency in details. (07)
 2
 ````
 
+## 2019-20 · Re-Exam · Sem 5 · paper e916f7a372f5
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/MICROPROCESSOR BASED SYSTEMS/MICROPROCESSOR BASED SYSTEMS BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 16 November 2019
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+Ge
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Pp; .
+rogramme: B. Tech (EXTC) Year: III Semester: V
+
+Academic Year: 2019-20
+Subject: Microprocessor Based Systems
+
+Date: 16 November 2019 Time: 10.0
+
+Durations:
+
+No. of Pages:
+Re-Examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all___5_ questions to be attempted.
+.4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .suitable data if necessary.
+
+Q.1 Solve any four (4) (12)
+a) Draw and explain in brief the Bus interface unit of 8086. (3)
+b) Discuss the interrupt response of 8086 with the help ofa flow chart. (3)
+c) Draw the CWR of BSR and IO mode of PPI 8255. (3)
+d) List the registers of 80386 and explain the additional flags of the MSW. (3)
+e) Explain even and odd bank concept in 8086. (3)
+f) Explain Branch prediction logic in Pentium. (3)
+Q.2 a) Draw and explain with necessary diagram, pipelining in Pentium. (6)
+b) Design 8086 based microprocessor system with the following specifications: (6)
+
+i) 8086 CPU working at 8 MHz
+ii) 16 K byte of RAM using 8 KB devices
+iii) 16 K byte of RAM using 8 KB devices
+
+Show the necessary address decoding and decoder logic.
+
+Page 1 of 2
+--- page 2 ---
+Q.3 a) Drawand explain Interfacing of 8086 with 8087. (6)
+
+b) Explain segment partitioning of virtual address space in 80386 and give virtual (6)
+to physical address translation.
+
+Q4 a) With necessary Timing Diagram explain the I/O Read cycle of 8086 in Maximum (6)
+Mode of 8086 operation.
+b) Write an 8086 assembly language program to find the smallest number from an (6)
+array of 10 numbers.
+
+Q5 a) Give the block diagram of 8259 and explain cascading with necessary signals. _ (6)
+
+b) Explain the significance of IDTR and the Task register of 80386. (6)
+Q.6 a) Explain how Paging is implemented in 80386. (6)
+b) Mention the Cache Memory Architecture and explain any one in detail with (6)
+diagrams.
+Q.7 Write Short Notes on any two of the following: (12)
+
+a. Protected Mode of operation of Pentium Processor
+b. Assembler directives
+
+c. Advantages of memory segmentation
+
+Page 2 of 2
+````
+
 ## 2018-19 · Final-Exam · Sem 7 · paper 0c47d6d46a0c
 
 - Departments: Electronics and Telecommunication
@@ -996,92 +1082,6 @@ iii) 16 kb RAM using IC 6264
 Draw the Memory Map, Decoding and System Interfacing Diagram
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper e916f7a372f5
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/MICROPROCESSOR BASED SYSTEMS/MICROPROCESSOR BASED SYSTEMS BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 16 November 2019
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-Ge
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Pp; .
-rogramme: B. Tech (EXTC) Year: III Semester: V
-
-Academic Year: 2019-20
-Subject: Microprocessor Based Systems
-
-Date: 16 November 2019 Time: 10.0
-
-Durations:
-
-No. of Pages:
-Re-Examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all___5_ questions to be attempted.
-.4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume .suitable data if necessary.
-
-Q.1 Solve any four (4) (12)
-a) Draw and explain in brief the Bus interface unit of 8086. (3)
-b) Discuss the interrupt response of 8086 with the help ofa flow chart. (3)
-c) Draw the CWR of BSR and IO mode of PPI 8255. (3)
-d) List the registers of 80386 and explain the additional flags of the MSW. (3)
-e) Explain even and odd bank concept in 8086. (3)
-f) Explain Branch prediction logic in Pentium. (3)
-Q.2 a) Draw and explain with necessary diagram, pipelining in Pentium. (6)
-b) Design 8086 based microprocessor system with the following specifications: (6)
-
-i) 8086 CPU working at 8 MHz
-ii) 16 K byte of RAM using 8 KB devices
-iii) 16 K byte of RAM using 8 KB devices
-
-Show the necessary address decoding and decoder logic.
-
-Page 1 of 2
---- page 2 ---
-Q.3 a) Drawand explain Interfacing of 8086 with 8087. (6)
-
-b) Explain segment partitioning of virtual address space in 80386 and give virtual (6)
-to physical address translation.
-
-Q4 a) With necessary Timing Diagram explain the I/O Read cycle of 8086 in Maximum (6)
-Mode of 8086 operation.
-b) Write an 8086 assembly language program to find the smallest number from an (6)
-array of 10 numbers.
-
-Q5 a) Give the block diagram of 8259 and explain cascading with necessary signals. _ (6)
-
-b) Explain the significance of IDTR and the Task register of 80386. (6)
-Q.6 a) Explain how Paging is implemented in 80386. (6)
-b) Mention the Cache Memory Architecture and explain any one in detail with (6)
-diagrams.
-Q.7 Write Short Notes on any two of the following: (12)
-
-a. Protected Mode of operation of Pentium Processor
-b. Assembler directives
-
-c. Advantages of memory segmentation
-
-Page 2 of 2
-````
-
 ## 2015-16 · Final-Exam · Sem 5 · paper 771c947ff6da
 
 - Departments: Electronics and Telecommunication
@@ -1149,6 +1149,84 @@ of 8086 [3]
 b) Explain the interrupt structure of 8086 in details. [6]
 
 Ko
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper d424e2d53ead
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/MICROPROCESSOR BASED SYSTEMS/MICROPROCESSOR BASED STSTEMS B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 25/11/2015
+- Text: ocr (1 page), mean OCR confidence 91.2
+
+````text
+—_—,
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: II Semester: V
+Batch: 2014-2015 :
+Academic Year: 2015-2016 —_—
+\
+x
+
+#7 MPSTME YZ
+6 500.pot Js.
+Resrem y
+
+Subject: Microprocessor Based Systems
+Marks: 6
+Date: 25/11/2015 Time: 2.
+Duration: 3
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB.
+
+1. Question no 1 is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. Inall FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure on right indicate full marks.
+
+Q.1 Design a 8086 based system with following specifications (12)
+i) 16Kbyte EPROM memory by using 8Kbyte device.
+ii) 16K byte RAM memory using 8Kbyte device to include IVT.
+iii) 2 , 16 bit I/O ports using 8255 PPI mapped at 00H onwards.
+iv) 8086 CPU working at 5 MHz.
+
+Q.2 a. Write an assembly language program to exchange the blocks of 1KB at 01000H
+and 02000H using string instructions. ( o>)
+b. Explain the superscalar Architecture and branch predication logic in Pentium. (06)
+
+Q.3 a. Draw and Explain the maximum mode configuration of 8086 with memory read cycle. (08)
+b. Explain the internal block diagram of 8255 PPI. Also explain the BSR mode of 8255 (06)
+
+Q.4 a. Explain Descriptor and different Descriptor Tables in 80386 . cos)
+b. Draw interfacing of 8087 co-processor with 8086 and explain. (68)
+Q.5 a. Draw and explain block diagram of 8259 PIC. £06)
+b. Explain different Addressing modes in microprocessor 8086 with suitable examples. (06)
+Q.6 a. Explain software model 80386DX in the protected mode. C06)
+b. What is Task switching? Explain switching operation steps (06)
+
+Q7. a) Write short note on following
+1) Explain mode 2 of 8253 timer IC with timing diagram
+
+(2)
+2) Mixed Language programming (03)
+
+b) Explain the interrupt structure of 8086 in details. Co G)
+
+i
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper ccd211deb1d1
@@ -1328,82 +1406,168 @@ c) Read cycle of 8086 in Maximum mode
 d) Modes of 8254 Timer.
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper d424e2d53ead
+## 2014-15 · Re-Exam · Sem 5 · paper d88f248d19dc
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/MICROPROCESSOR BASED SYSTEMS/MICROPROCESSOR BASED STSTEMS B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 25/11/2015
-- Text: ocr (1 page), mean OCR confidence 91.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/MICROPROCESSOR BASED SYSTEMS/MICROPROCESSOR BASED SYSTEMS B TECH (EXTC) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 27/11/2014
+- Text: ocr (3 pages), mean OCR confidence 91.2
 
 ````text
-—_—,
-
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (EXTC) Year: II Semester: V
-Batch: 2014-2015 :
-Academic Year: 2015-2016 —_—
-\
-x
+Programme: B. Tech (EXTC) Year: Ii :
+Batch: 2013-2014 , semester
+Academic Year: 2014-2015
+Subject: Microprocessor Based Systems Zag Ray,
+Marks: %
+Date: 27/11/2014 Time: 100" #5 ap
 
-#7 MPSTME YZ
-6 500.pot Js.
-Resrem y
+Durati Sa (hrs): & B
 
+Instructions: - Candidates should read carefully the instruction printed on the question paper
+and on the cover of the Answer book, which is provided for their use.
+
+Re-Examination
+
+NB:
+
+1) Question No. I is compulsory.
+
+2) Out of the remaining questions, attempt any FOUR questions.
+3) Inall, five questions are to be attempted.
+
+4) All the questions carry equal marks.
+
+5) Answer to each new question to be started on the fresh page.
+
+6) Figures in bracket on the right hand side indicate full marks.
+
+Ql
+a) State the functions of BIU and EU with reference to 8086. [05]
+b) Discuss the concept of superscalar architecture provided in Pentium. [05]
+c) Which factors will affect the Hit Rate for the cache memory? [05]
+d) Discuss the advantages of segmentation of memory in 80386. [05]
+--- page 2 ---
+Q.2
+
+Q.3
+
+Q4
+
+Q.5
+
+Q.6
+
+It is required to design the system based on 8086 with following specifications: [20]
+a) 8086 working at SMHz.
+b) 64KB of EPROM using 32KB EPROM chips.
+c) 32KB of SRAM using 16KB SRAM chips.
+d) Three I/O ports --- all 16 bits in I/O mapped I/O.
+
+Draw the memory map and I/O map for the above system. Draw the interfacing diagram
+of the system assuming the minimum mode of 8086.
+
+a) Design and explain the system with co-processor 8087 and microprocessor 8086
+showing the interfacing diagram. [10]
+
+b) Discuss the need of Interrupt Vector Table IVT in 8086 for its interrupt structure
+and hence state different types of interrupts of 8086. [10]
+
+a) Draw and explain the handshaking diagram for Mode 1 of 8255 in detail. Also
+discuss the BSR mode of 8255. [10]
+
+a) Show the procedure with reasons to perform the address translation for the
+segmentation in 80386 supported with diagram. [10]
+
+a) Explain how task switching is implemented in 80386. Support your answer with
+an appropriate diagram. [10]
+
+b) Discuss the concept of branch prediction logic and its implementation in Pentium.
+(10j
+
+a) Write a program in 8086 to rearrange the given list in an ascending order. Assume
+suitable inputs for the program. [10]
+
+b) Write a program to perform a block transfer in 8086 from the source area to the
+destination area. Assume the appropriate pointer values. [10]
+
+MA
+--- page 3 ---
+Q7
+
+Write short notes: (Any THREE)
+a) 8259 —Programmable Interrupt Controller
+b) Maximum mode of 8086
+
+c) Read cycle of 8086 in Minimum mode
+
+d) Mixed language programming with assembly and C.
+
+nn
+
+[20]
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper e4261f838c65
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/MICROPROCESSOR BASED SYSTEMS/MICROPROCESSOR BASED SYSTEMS B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 08/06/2015
+- Text: ocr (1 page), mean OCR confidence 94.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+Batch: 2013-14 .
+Academic Year: 2014-2015
 Subject: Microprocessor Based Systems
-Marks: 6
-Date: 25/11/2015 Time: 2.
-Duration: 3
+Marks:
+Date: 08/06/2015 Time:
+Durations:
 
 Re-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and
 on the cover of the Answer Book, which is provided for their use.
 NB.
-
-1. Question no 1 is compulsory.
-
+1. Question no | is compulsory.
 2. Out of remaining questions, attempt any FOUR questions.
-
 3. Inall FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
+4. All questions carry equal marks. :
 5. Answer to each new question to be started on a fresh page.
-
 6. Figure on right indicate full marks.
 
-Q.1 Design a 8086 based system with following specifications (12)
-i) 16Kbyte EPROM memory by using 8Kbyte device.
-ii) 16K byte RAM memory using 8Kbyte device to include IVT.
-iii) 2 , 16 bit I/O ports using 8255 PPI mapped at 00H onwards.
-iv) 8086 CPU working at 5 MHz.
+- Q.1) Design a 8086 based system with following specifications 29
+i) Operating frequency 5 Mhz.
+ii) 32Kbyte RAM memory by using 16Kbyte RAM
+iti) 32K byte EPROM memory using 16Kbyte EPROM
+iv) Two I/O ports -- one 16 bits Input and one 16 bit Output port in I/O mapped I/O.
 
-Q.2 a. Write an assembly language program to exchange the blocks of 1KB at 01000H
-and 02000H using string instructions. ( o>)
-b. Explain the superscalar Architecture and branch predication logic in Pentium. (06)
+Q.2) a. Draw and Explain the minimum mode configuration of 8086 10
+b. Explain the internal architecture of 8086 with the help of Block diagram. 10
+Q.3) a. Explain Descriptor and different Descriptor Tables in 80386 10
+b. Draw and explain architecture of Pentium processor 10
+Q.4) a. Explain the 8086 interrupt vector table and also the priorities of interrupts 10
+b. Explain different Addressing modes in microprocessor 8086 10
+Q.5) a. Draw and explain Data types supported by co-processor 8087. 10
+b. Explain software model 80386DX in the protected mode 10
 
-Q.3 a. Draw and Explain the maximum mode configuration of 8086 with memory read cycle. (08)
-b. Explain the internal block diagram of 8255 PPI. Also explain the BSR mode of 8255 (06)
+Q.6) a. Draw and explain the architecture of PPI 8255. Also explain BSR mode of 8255 10
+b. Write a program to perform a block transfer in 8086 from the.source area to the
+destination area. Assume the appropriate pointer values 10
 
-Q.4 a. Explain Descriptor and different Descriptor Tables in 80386 . cos)
-b. Draw interfacing of 8087 co-processor with 8086 and explain. (68)
-Q.5 a. Draw and explain block diagram of 8259 PIC. £06)
-b. Explain different Addressing modes in microprocessor 8086 with suitable examples. (06)
-Q.6 a. Explain software model 80386DX in the protected mode. C06)
-b. What is Task switching? Explain switching operation steps (06)
+Q.7) a. Draw and explain block diagram of 8259 PIC 10
 
-Q7. a) Write short note on following
-1) Explain mode 2 of 8253 timer IC with timing diagram
+b. Design and explain the system with co-processor 8087 and microprocessor 8086
+showing the interfacing diagram. 10
 
-(2)
-2) Mixed Language programming (03)
-
-b) Explain the interrupt structure of 8086 in details. Co G)
-
-i
+7
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper 1ace7fe1a41e
@@ -1538,170 +1702,6 @@ b. Explain any two modes of 8253 timer IC 10
 ——— x
 
 V/)
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper d88f248d19dc
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/MICROPROCESSOR BASED SYSTEMS/MICROPROCESSOR BASED SYSTEMS B TECH (EXTC) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 27/11/2014
-- Text: ocr (3 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: Ii :
-Batch: 2013-2014 , semester
-Academic Year: 2014-2015
-Subject: Microprocessor Based Systems Zag Ray,
-Marks: %
-Date: 27/11/2014 Time: 100" #5 ap
-
-Durati Sa (hrs): & B
-
-Instructions: - Candidates should read carefully the instruction printed on the question paper
-and on the cover of the Answer book, which is provided for their use.
-
-Re-Examination
-
-NB:
-
-1) Question No. I is compulsory.
-
-2) Out of the remaining questions, attempt any FOUR questions.
-3) Inall, five questions are to be attempted.
-
-4) All the questions carry equal marks.
-
-5) Answer to each new question to be started on the fresh page.
-
-6) Figures in bracket on the right hand side indicate full marks.
-
-Ql
-a) State the functions of BIU and EU with reference to 8086. [05]
-b) Discuss the concept of superscalar architecture provided in Pentium. [05]
-c) Which factors will affect the Hit Rate for the cache memory? [05]
-d) Discuss the advantages of segmentation of memory in 80386. [05]
---- page 2 ---
-Q.2
-
-Q.3
-
-Q4
-
-Q.5
-
-Q.6
-
-It is required to design the system based on 8086 with following specifications: [20]
-a) 8086 working at SMHz.
-b) 64KB of EPROM using 32KB EPROM chips.
-c) 32KB of SRAM using 16KB SRAM chips.
-d) Three I/O ports --- all 16 bits in I/O mapped I/O.
-
-Draw the memory map and I/O map for the above system. Draw the interfacing diagram
-of the system assuming the minimum mode of 8086.
-
-a) Design and explain the system with co-processor 8087 and microprocessor 8086
-showing the interfacing diagram. [10]
-
-b) Discuss the need of Interrupt Vector Table IVT in 8086 for its interrupt structure
-and hence state different types of interrupts of 8086. [10]
-
-a) Draw and explain the handshaking diagram for Mode 1 of 8255 in detail. Also
-discuss the BSR mode of 8255. [10]
-
-a) Show the procedure with reasons to perform the address translation for the
-segmentation in 80386 supported with diagram. [10]
-
-a) Explain how task switching is implemented in 80386. Support your answer with
-an appropriate diagram. [10]
-
-b) Discuss the concept of branch prediction logic and its implementation in Pentium.
-(10j
-
-a) Write a program in 8086 to rearrange the given list in an ascending order. Assume
-suitable inputs for the program. [10]
-
-b) Write a program to perform a block transfer in 8086 from the source area to the
-destination area. Assume the appropriate pointer values. [10]
-
-MA
---- page 3 ---
-Q7
-
-Write short notes: (Any THREE)
-a) 8259 —Programmable Interrupt Controller
-b) Maximum mode of 8086
-
-c) Read cycle of 8086 in Minimum mode
-
-d) Mixed language programming with assembly and C.
-
-nn
-
-[20]
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper e4261f838c65
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/MICROPROCESSOR BASED SYSTEMS/MICROPROCESSOR BASED SYSTEMS B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 08/06/2015
-- Text: ocr (1 page), mean OCR confidence 94.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: V
-Batch: 2013-14 .
-Academic Year: 2014-2015
-Subject: Microprocessor Based Systems
-Marks:
-Date: 08/06/2015 Time:
-Durations:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB.
-1. Question no | is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. Inall FIVE questions to be attempted.
-4. All questions carry equal marks. :
-5. Answer to each new question to be started on a fresh page.
-6. Figure on right indicate full marks.
-
-- Q.1) Design a 8086 based system with following specifications 29
-i) Operating frequency 5 Mhz.
-ii) 32Kbyte RAM memory by using 16Kbyte RAM
-iti) 32K byte EPROM memory using 16Kbyte EPROM
-iv) Two I/O ports -- one 16 bits Input and one 16 bit Output port in I/O mapped I/O.
-
-Q.2) a. Draw and Explain the minimum mode configuration of 8086 10
-b. Explain the internal architecture of 8086 with the help of Block diagram. 10
-Q.3) a. Explain Descriptor and different Descriptor Tables in 80386 10
-b. Draw and explain architecture of Pentium processor 10
-Q.4) a. Explain the 8086 interrupt vector table and also the priorities of interrupts 10
-b. Explain different Addressing modes in microprocessor 8086 10
-Q.5) a. Draw and explain Data types supported by co-processor 8087. 10
-b. Explain software model 80386DX in the protected mode 10
-
-Q.6) a. Draw and explain the architecture of PPI 8255. Also explain BSR mode of 8255 10
-b. Write a program to perform a block transfer in 8086 from the.source area to the
-destination area. Assume the appropriate pointer values 10
-
-Q.7) a. Draw and explain block diagram of 8259 PIC 10
-
-b. Design and explain the system with co-processor 8087 and microprocessor 8086
-showing the interfacing diagram. 10
-
-7
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper cd191b6f73de

@@ -14,14 +14,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 3 | BTech EXTC 7006 | QP_ANALOG CIRCUITS ANALYSIS AND DESIGN(702EX0C031)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_ANALOG CIRCUITS ANALYSIS AND DESIGN(702EX0C031)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_ANALOG CIRCUITS ANALYSIS AND DESIGN(702EX0C031)_2025-2026_f1759fc383.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 3 | BTech EXTC 7006 | QP_ANALOG CIRCUITS ANALYSIS AND DESIGN(702EX0C031)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_ANALOG CIRCUITS ANALYSIS AND DESIGN(702EX0C031)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech EXTC 7006 | QP_ANALOG CIRCUITS ANALYSIS AND DESIGN(702EX0C031)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_ANALOG CIRCUITS ANALYSIS AND DESIGN(702EX0C031)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / EXTC | Analog Circuits Analysis and Design, Sem IV, Final Exam 2024-25 & Re Exam 2023-24.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 4 | BTech EXTC 7006 | ANS_Analog Circuits Analysis and Design(702EX0C013)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 4 | BTech EXTC 7006 | QP_Analog Circuits Analysis and Design(702EX0C013)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 4 | BTech EXTC 7006 | ANS_Analog Circuits Analysis and Design(702EX0C013)_2024-2025.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / EXTC, MBA TECH / TELECOM EXTC | Analog Circuits Analysis and Design, Sem-IV, Final & Re Exam 2022-23.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / EXTC | Analog Circuits Analysis & Design, Sem-IV, Year 2022-23, Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / EXTC | Analog circuits Analysis and Design , Re-exam 2022-230001.pdf |

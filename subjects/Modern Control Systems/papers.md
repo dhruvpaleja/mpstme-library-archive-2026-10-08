@@ -10,6 +10,8 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Programmes: B TECH / MECHATRONICS
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/MODERN CONTROL SYSTEMS/Modern Control Systems, Sem VI, Final Exam 2024-25.pdf`
 - Text: ocr (6 pages), mean OCR confidence 58.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM’S NMIMS
@@ -157,7 +159,6 @@ Z vo fi
 aa 7 } -
 yee es i a: 48d =
 i 4 - £ a8 5
-H hi eS ; E OF
 7 sh > - -
 : : . . - i 7 v
 . . .
@@ -457,6 +458,7 @@ Narraed)
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/MODERN CONTROL SYSTEMS/Modern Control Systems, Sem-VI, Year 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (4 pages), mean OCR confidence 70.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 OPIS th COT
@@ -590,7 +592,6 @@ Z=|]2 O 1}x+ Olu y= x+ Ww,
 --- page 4 ---
 Fel, heel ag
 
-ies Leas Gp (sya DTSH)
 ate)
 
 # Lay Gp (5) = ae

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN 2018-19 FINAL AND RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 70; exam date: 18 April 2019
 - Text: ocr (4 pages), mean OCR confidence 71.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 =
@@ -156,9 +157,7 @@ io)
 
 eo
 
-Hts y 2 A st ieh tel | SP rete ets
 
-THs iS erie a] (sf et erat | Sf Seek
 i y ro
 
 ESISTANGE COMPONENT (¥2o}- GR CONDUCTANCE COMBONENT (aro)
@@ -194,6 +193,7 @@ ORIGIN
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/EXTC/Sem_08/RF CIRCUIT DESIGN/RF Circuit Design 2018-19 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 18 April 2019
 - Text: ocr (3 pages), mean OCR confidence 84.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -277,7 +277,6 @@ rejection of at least 40dB at approximately twice the cut-off frequency. Assume 
 dielectric material that results in a phase velocity of 60% of the speed of light.
 
 0.5 dB Ripple
-N 82 gs Ba BS 56 a 8s s gs su
 
 1 0.6986 1.0000
 
@@ -330,6 +329,7 @@ SIs
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN BATCH 17-18 18-19 RE EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 15 June 2019
 - Text: ocr (4 pages), mean OCR confidence 72.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —
@@ -408,7 +408,6 @@ For the network shown below, find the ratios of bl/al and al/bs. Assume unity fo
 multiplication factor of the transmission line segment.
 
 Zz, 5% rf a
-\% wt Z, [s] Zo b> |Z,
 me r aa
 
 Design a prototype low pass Butterworth filter that will provide at least 20 dB attenuation at 4
@@ -503,13 +502,11 @@ RADIALLY SCALED PARAMETERS
 
 7 ss a. es 2.18 08 14 14 1g GOWARD LOAD — 3 $7 TOWARD GENERATOR
 1 Z 216 14 12 at 1 5 4 1
-A a ea a ee ee + tty
 20 15 10 8 6 5 4 3 2°4 142013 14 | 16 Ve" 2 30455 10 20
 2 S488 7 8 9 10 ae 20,30 jo
 aie
 
 14 Or 02 04 06 08 4 152 345 6 10 15
-> Oe OT Oe gt tt PE B20 ST yg rr ten th S810 15,
 “1 0908 07 06 05 04 og 02 01 0.05 0.01 oo W420 48 14 1516 17 1819 2 25 0 3 45 10
 Xe
 1 0.9 08 07 0.6 05 0.4 0.3, 0.2 O41 ot 0.99 095 09 0.8 07
@@ -531,6 +528,7 @@ ORIGIN
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/EXTC/Sem_08/RF CIRCUIT DESIGN/RF Circuit Design Batch 2018-19 Re Exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 72.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Program :B.Tech Integrated (EXTC) NY fe
@@ -706,7 +704,6 @@ RADIALLY SCALED PARAMETERS
 TOWARD LOAD —> <— TOWARD GENERATOR
 19040, 20, 10 54 3,,.25,,,2,18,18 14 1211115 10,7 4 3 2 1
 40 30 20 15 10 8 65 4 8°92 4 4h 11 12 13°14 | 16182 3045 10 20
-° Vk 8 he Fe 8 7 89,10, 1214, = 20,80 Jo OA 02 | 04 06081, 15 2 3,488, , 1018
 10908 07 06 05 04 03 02 01 0.05 oor oo tt) 12) 13 «14 «15 18 17 18192 — 25 3 475° 10
 1 0908 07, 08 | 05, 04, 03, 02 ol). 0.99 0.95 09 08 | 07 06 05 04 03 02 01 0
 CENTER
@@ -725,6 +722,7 @@ Sis
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN (EXTC), 2017-18 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 14 May 2018
 - Text: ocr (4 pages), mean OCR confidence 74.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ~~
@@ -810,7 +808,6 @@ Q7 c) Explain the importance of k- 8 diagram for slow wave structures. [4]
 al 0.2 a3 0.5 OF .10 20 30 36 70 10
 lel
 Element values for Maximally-flat low-pass prototype filter
-wo By Bs £3 #4 gs Be ca gs a Fie eu
 
 1.
 
@@ -844,10 +841,8 @@ CONDUCTANCE COMPONENT (G/o);
 RADIALLY SCALED PARAMETERS
 cal TOWARD LOAD —> = TOWARD GENERATOR
 10 5 4 3 2.5 2,18 16 14 121.91 15 10 7 5 4 3 2 1
-ee PIES IA tz tt {Hs ey ene a
 20 15 10 8 6 5 4 3 2 toa wd 120613 1.4 16°18 2 3 45
 2 3 4 5 6 7 8 9 10 12014 20 30 jo O1 0.2 04 06 08 1 1S 2 3 4 56
-Se BS Oe Oe Or Ce a Hee Ty O21 1 Fi rere PAP ee eee eee ee
 < 1 09 08 07 06 Os 04 03 02 On 0.05 0.01 ojo Ww 1.2 13 14015 16 1.718 192 25 3 4
 fo,
 X 1. 0.9 08 07 0.6 Os 0.4 7 0.3 0.2 7 Al on 0.99 - 0.95 0.9 0.8 0.7 0.6 0S 94 0.3 02 O14
@@ -1398,284 +1393,14 @@ RADIALLY SCALED PARAMETERS,
 oo ot 02° 03°" o4 as 0.6 07 08 09 1 11 12 13 14 15 1,6, 17 8 1. 2
 ````
 
-## 2017-18 · Re-Exam · Sem 6 · paper 6238d57e527a
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF_CIRCUIT_DESIGN_BATCH_17-18_RE_EXAM_.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 03 July 2018
-- Text: ocr (3 pages), mean OCR confidence 77.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: VI \
-
-| Batch: (2017-18)
-d Academic Year: 2017-18
-
-Subject: RF Circuit Design
-Marks: 70
-Date: 03 July 2018 ’ Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-No. of Pages: _ _©%
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql. Explain the following
-I. Quarter wave transmission line [4]
-Il. | Chip components [5]
-Il. Measurement of AC parameters of BJT [5]
-Q2. | a. | Discuss in brief about the RF behavior of passive components. [7]
-es |
-A series impedance load (120-j70)Q is to be matched to generator ‘
-source of 50 Q via transmission line for operating frequency of 100
-' MHz. Design a single stub matching system using Smith Chart.
-Q3. | a. | For a lossless transmission line with line parameters Zp = 75.1 and L = 219 nH/m [7]
-— working at f = 1 GHz, find the shunt capacitance (C), propagation constant and phase
-— velocity. If the line is terminated with load impedance of 60 ohms then find the reflection
-
-coefficient and standing wave ratio.
---- page 2 ---
-b. | Ifa voltage source with Vg = 5 V and input impedance Zg = 50 2 is used to deliver
-power through the transmission line in Q3(a) having load impedance of Z, = 40 Q, find
-
-the input power and power delivered to the load in both Watts and dBm.
-
-[7]
-
-Q4. | a. | Derive the impedance and admittance of a Pi-network as a two port network with generic | [7]
-impedances Z,, Zg and Ze.
-b. | Discuss the building blocks of signal flow graph. Find the input impedance of a lossless (7]
-transmission line with characterstic impedance Zy having length 1, terminated with the
-load impedance Z,. Assume the source voltage and source impedance to be Vg and Z¢,
-respectively.
-Q5. | a. | Explain [7]
-I. Important filter parameters
-Il. _Kuroda’s identity
-b. | For the filter shown below, with Zp = 509, 2Zg =Z, = Zo, R = 150,L = 40 nH and [7]
-C = 0.35 pF and the generator voltage is Vg = 5V. Find the loaded, unloaded (filter), and
-the external quality factors.
-Zo Z;
-ro “IO
-Q6. | a. | Compare large signal FET models with small signal FET models. [9]
-b. | Explain physical properties of semiconductors and pn junction. [5]
-Q7. Explain the following >
-
-I. Scattering parameters.
-Il. | Butterworth-Type filter and Chebyshev-Type filter.
-Ill. | Double stub matching.
-
-Gj
-(4]
-(s)
-
-[2
---- page 3 ---
-Smith Chart
-
-RADIALLY SCALED PARAMETERS
-
-10
-
-4 ot ee 21 16 ¢ Peiaa 5 1GOWARD. LOAD —> ; 3 §— TOWARD GENERATOR
-. B16 14 12444 15 49 4 1
-ey re PE RS ts [Hp Potty
-20 15 10 8 6 5 4 3 2°54 "ay 14201814 "16 "18 2 3
-1 2 Sef S878 8 10 1 14 2030 |o O1 02 04 06 08 1 152 3
-BD Pt Ott tp en BO 8 ri re rrr ie
-“G1 09 08 0706 a5 o4 og 02 O1 0.05 or 00a Ss ae V6 1.7 1.81.9 2 26 3
-‘ey i
-Yo 0.9 08 0.7 0.6 0s 0.4 0.3 0.2 o4 0 0.99 095 09 08 07 | 06 05 04 03 02 @,
-CENTER
-0.0 04 02 03 04 0.5. 0.6 0.7 08 0.9 Pot 21s 14 15. 16
-ORIGIN
-
-! 17
-````
-
-## 2016-17 · Re-Exam · Sem 6 · paper a8bf59d1bd06
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN BATCH 15-16, 16-17 RE EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; exam date: 12 July 2017
-- Text: ocr (4 pages), mean OCR confidence 72.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: VI
-
-Batch: 2015-16/ 2016-17 eens
-, Academic Year: 2016-2017 a
-\ Subject: RF Circuit Design WF. wate * %
-: . Marks: 60 wt ‘ARY
-
-Date: 12 July 2017 Time: 2.00, BUds80 pin 4
-
-Durations: 3 esr ZT,
-No. of Pages. us
-
-Re-Examination
-
-Instructions: Candidates should carefully read the instructions printed on the question
-
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. Answer to éach new question to be started on a fresh page.
-5. Figures on the right hand side indicate full marks.
-
-6. Assume suitable data, if necessary.
-
-Q1 Attempt any three 12
-A Explain with the equivalent circuits the Radio frequency behavior of Inductor and
-Capacitor.
-B What is Quarter Wave Transformer and where it is used.
-C_ Explain the role of following parameters in the designing of a filter
-(i) Insertion loss (ii) Ripple (iii) Bandwidth (iv) Shield factor and (v) Rejection.
-D What is HEMT?
-
-Q.2   A_ The lead lengths on the metal-film resistor are 1.27 cm (0.5 inch), and are made up of 06
-No. 14 wire. The total stray shunt capacitance is 0.3 pF. If the resistor value is 10,000
-ohms, what is its equivalent RF impedance at 200 MHz?
-
-B_ Derive Input Impedance of two wire transmission line. 06
-
-Q.3. A Derive Gain of High Pass Filter in terms of ABCD Parameters and explain its 06
-Attenuation Profile.
-
-B_ A signal generator is used to feed, two loads, as shown in following figure find. Input 06
-
-/3
-
-impedance where TL is lossless.
---- page 2 ---
-Q.4 A Explain Richard’s Transformation and Kuroda’s Identities. 06
-B_ Design maximally flat LPF with cutoff frequency = 2GHz, Impedance of 509 and at 06
-least 15dB insertion loss at 3GHz.
-
-Q.5 A For the network shown below, find the ratios of b1/a1 and at/bs. Assume unity for 06
-multiplication factor of the transmission line segment.
-
-aa 2
-|]
-
-Zo [S} Zo be | IZ,
-
-ste
-d
-0&6
-B_ Explain interconnection of networks.
-
-Q.6   A_ Explain large signal FET model. 06
-B_ Aseries impedance load (40-j80)Q is to be matched to generator source of 50 Q via 06
-transmission line for operating frequency of 100 MHz. Design a single stub matching
-
-system using Smith Chart.
-
-Q.7 Write short note on any two 12
-a. Microstrip transmission lines
-
-b. Semiconductor basics at RF
-
-c. Chip resistors and capacitors
---- page 3 ---
-Smith Chart
-
-ia
-
-a
-
-SEE HHS ef | SPST 2yat-2.
-3H S 3} [sl [sf [sere
-
-1
-ie ESI: TAL IC COMPONENT (A YR CONDUC’ ANC: COMPONENT (G/Yo);
-
-02
-
-emia
-RADIALLY SCALED PARAMETERS x
-fy &, TOWARD LOAD —> <— TOWARD GENERATOR SE ®
-ako, & 10040 20 10 54 3, 25 218,16 14 | 12.411, 15,10 7 5 4 3 2 1 oe
-eS
-ee eee 40 30 20 15 10 8 69594 939.2 9 41 1 12 °13'14 | 16 18 2 3°45 10 20 oY,
-BL 0 1 2 3 4...,5..,,8,7,8,9,10 12 14 20, 90 |o 01 02 04 06 08 1 182 3.4 8,8, , 1015 KE :
-: +27"
-Se* 1 ‘os "oe 07.06 08 04. 03 02 01 0.05 oor oO 12 18 14 18 16 1.718192 25 3 4 8. 10 S&S & .
-& 4 os "08 07 06 os 04 03 0.2 04 oft 0.99 095 0.9 08 07 06 05 04 03 02 01 0 J
-CENTER ez
-Ce) ot 0.2 03 04 0s 06 0.7 0.8 0.9 1 ut 12 13 14 15 16 17, 18 19 2
-
-x
-ORIGIN
-
-4h
---- page 4 ---
-Table 5-2 “Coefficients for maximally flat low-pass filter (Ne Al to 10)
-T |
-
-Nig, | & | 8 | Ss | & | 86 | 8 | 8 | Soi /) So | Bu
-i 2 i
-
-1 12.0600 | 1.0000 | |
-2 11.4142 | 1.4142 | 1.0000
-
-panne: lboercerst ren
-3 | 4.0000 | 2.0000 ' 1.0600 | 1.0000 1
-
-4 |o-7654 | 1.8478 | 1.8478 |0.76S4 | 1.0000
-
-5 0.6180 | 1.6180 2.0000 11.6180 | 0.6180 | 1.6000
-
-6 10.5176 | 14142 | 1.9318 | 1.9318 | 14142 10.5176 | 1.0000
-
-ti
-
-7} 04450 | 1.2470 | 1.8019 | 2.0000 1.8019 | 1.2470 | 0.4450 | 1.0000
-
-tt
-LI
-
-& 10.9902 | EALiL | 1.6629 1.9615 1.9615 | 1.6629 | J.1i1) 0.3902 1.0009,
-
-; |
-9 19.3473 | 1.c000 [1.8321 | 1.8794 | 2.0000 | 1.8794 | 1.5321 | 1.0000 03t74 1.0000
-
-1° 0.3129 {0.9080 1.4142 | £7820 | 1.9754 | 19754 | 1.7820 | 14142 | 0.9080 0.3129 | 1.0000
-````
-
-## 2016-17 · Re-Exam · Sem 6 · paper 9a03decf5b84
+## 2017-18 · Re-Exam · Sem 6 · paper 9a03decf5b84
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF_CIRCUIT_DESIGN_BATCH_15-16_16-17_RE_EXAM_.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 03 July 2018
 - Text: ocr (4 pages), mean OCR confidence 76.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1772,7 +1497,6 @@ multiplication factor of the transmission line segment.
 
 b a
 Zs > Is me 2 "
-V; ae Z [S] Zo > | jZ,
 OT ,
 
 Explain the construction and functionality of HEMT with diagrams.
@@ -1850,6 +1574,375 @@ ys
 ORIGIN
 
 Ula
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 6238d57e527a
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF_CIRCUIT_DESIGN_BATCH_17-18_RE_EXAM_.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 03 July 2018
+- Text: ocr (3 pages), mean OCR confidence 77.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: VI \
+
+| Batch: (2017-18)
+d Academic Year: 2017-18
+
+Subject: RF Circuit Design
+Marks: 70
+Date: 03 July 2018 ’ Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages: _ _©%
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql. Explain the following
+I. Quarter wave transmission line [4]
+Il. | Chip components [5]
+Il. Measurement of AC parameters of BJT [5]
+Q2. | a. | Discuss in brief about the RF behavior of passive components. [7]
+es |
+A series impedance load (120-j70)Q is to be matched to generator ‘
+source of 50 Q via transmission line for operating frequency of 100
+' MHz. Design a single stub matching system using Smith Chart.
+Q3. | a. | For a lossless transmission line with line parameters Zp = 75.1 and L = 219 nH/m [7]
+— working at f = 1 GHz, find the shunt capacitance (C), propagation constant and phase
+— velocity. If the line is terminated with load impedance of 60 ohms then find the reflection
+
+coefficient and standing wave ratio.
+--- page 2 ---
+b. | Ifa voltage source with Vg = 5 V and input impedance Zg = 50 2 is used to deliver
+power through the transmission line in Q3(a) having load impedance of Z, = 40 Q, find
+
+the input power and power delivered to the load in both Watts and dBm.
+
+[7]
+
+Q4. | a. | Derive the impedance and admittance of a Pi-network as a two port network with generic | [7]
+impedances Z,, Zg and Ze.
+b. | Discuss the building blocks of signal flow graph. Find the input impedance of a lossless (7]
+transmission line with characterstic impedance Zy having length 1, terminated with the
+load impedance Z,. Assume the source voltage and source impedance to be Vg and Z¢,
+respectively.
+Q5. | a. | Explain [7]
+I. Important filter parameters
+Il. _Kuroda’s identity
+b. | For the filter shown below, with Zp = 509, 2Zg =Z, = Zo, R = 150,L = 40 nH and [7]
+C = 0.35 pF and the generator voltage is Vg = 5V. Find the loaded, unloaded (filter), and
+the external quality factors.
+Zo Z;
+ro “IO
+Q6. | a. | Compare large signal FET models with small signal FET models. [9]
+b. | Explain physical properties of semiconductors and pn junction. [5]
+Q7. Explain the following >
+
+I. Scattering parameters.
+Il. | Butterworth-Type filter and Chebyshev-Type filter.
+Ill. | Double stub matching.
+
+Gj
+(4]
+(s)
+
+[2
+--- page 3 ---
+Smith Chart
+
+RADIALLY SCALED PARAMETERS
+
+10
+
+4 ot ee 21 16 ¢ Peiaa 5 1GOWARD. LOAD —> ; 3 §— TOWARD GENERATOR
+. B16 14 12444 15 49 4 1
+20 15 10 8 6 5 4 3 2°54 "ay 14201814 "16 "18 2 3
+1 2 Sef S878 8 10 1 14 2030 |o O1 02 04 06 08 1 152 3
+“G1 09 08 0706 a5 o4 og 02 O1 0.05 or 00a Ss ae V6 1.7 1.81.9 2 26 3
+‘ey i
+Yo 0.9 08 0.7 0.6 0s 0.4 0.3 0.2 o4 0 0.99 095 09 08 07 | 06 05 04 03 02 @,
+CENTER
+0.0 04 02 03 04 0.5. 0.6 0.7 08 0.9 Pot 21s 14 15. 16
+ORIGIN
+
+! 17
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper a8bf59d1bd06
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN BATCH 15-16, 16-17 RE EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; exam date: 12 July 2017
+- Text: ocr (4 pages), mean OCR confidence 72.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: VI
+
+Batch: 2015-16/ 2016-17 eens
+, Academic Year: 2016-2017 a
+\ Subject: RF Circuit Design WF. wate * %
+: . Marks: 60 wt ‘ARY
+
+Date: 12 July 2017 Time: 2.00, BUds80 pin 4
+
+Durations: 3 esr ZT,
+No. of Pages. us
+
+Re-Examination
+
+Instructions: Candidates should carefully read the instructions printed on the question
+
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. Answer to éach new question to be started on a fresh page.
+5. Figures on the right hand side indicate full marks.
+
+6. Assume suitable data, if necessary.
+
+Q1 Attempt any three 12
+A Explain with the equivalent circuits the Radio frequency behavior of Inductor and
+Capacitor.
+B What is Quarter Wave Transformer and where it is used.
+C_ Explain the role of following parameters in the designing of a filter
+(i) Insertion loss (ii) Ripple (iii) Bandwidth (iv) Shield factor and (v) Rejection.
+D What is HEMT?
+
+Q.2   A_ The lead lengths on the metal-film resistor are 1.27 cm (0.5 inch), and are made up of 06
+No. 14 wire. The total stray shunt capacitance is 0.3 pF. If the resistor value is 10,000
+ohms, what is its equivalent RF impedance at 200 MHz?
+
+B_ Derive Input Impedance of two wire transmission line. 06
+
+Q.3. A Derive Gain of High Pass Filter in terms of ABCD Parameters and explain its 06
+Attenuation Profile.
+
+B_ A signal generator is used to feed, two loads, as shown in following figure find. Input 06
+
+/3
+
+impedance where TL is lossless.
+--- page 2 ---
+Q.4 A Explain Richard’s Transformation and Kuroda’s Identities. 06
+B_ Design maximally flat LPF with cutoff frequency = 2GHz, Impedance of 509 and at 06
+least 15dB insertion loss at 3GHz.
+
+Q.5 A For the network shown below, find the ratios of b1/a1 and at/bs. Assume unity for 06
+multiplication factor of the transmission line segment.
+
+aa 2
+|]
+
+
+ste
+d
+0&6
+B_ Explain interconnection of networks.
+
+Q.6   A_ Explain large signal FET model. 06
+B_ Aseries impedance load (40-j80)Q is to be matched to generator source of 50 Q via 06
+transmission line for operating frequency of 100 MHz. Design a single stub matching
+
+system using Smith Chart.
+
+Q.7 Write short note on any two 12
+a. Microstrip transmission lines
+
+b. Semiconductor basics at RF
+
+c. Chip resistors and capacitors
+--- page 3 ---
+Smith Chart
+
+ia
+
+a
+
+3H S 3} [sl [sf [sere
+
+1
+ie ESI: TAL IC COMPONENT (A YR CONDUC’ ANC: COMPONENT (G/Yo);
+
+02
+
+emia
+RADIALLY SCALED PARAMETERS x
+fy &, TOWARD LOAD —> <— TOWARD GENERATOR SE ®
+ako, & 10040 20 10 54 3, 25 218,16 14 | 12.411, 15,10 7 5 4 3 2 1 oe
+eS
+ee eee 40 30 20 15 10 8 69594 939.2 9 41 1 12 °13'14 | 16 18 2 3°45 10 20 oY,
+BL 0 1 2 3 4...,5..,,8,7,8,9,10 12 14 20, 90 |o 01 02 04 06 08 1 182 3.4 8,8, , 1015 KE :
+: +27"
+Se* 1 ‘os "oe 07.06 08 04. 03 02 01 0.05 oor oO 12 18 14 18 16 1.718192 25 3 4 8. 10 S&S & .
+& 4 os "08 07 06 os 04 03 0.2 04 oft 0.99 095 0.9 08 07 06 05 04 03 02 01 0 J
+CENTER ez
+Ce) ot 0.2 03 04 0s 06 0.7 0.8 0.9 1 ut 12 13 14 15 16 17, 18 19 2
+
+x
+ORIGIN
+
+4h
+--- page 4 ---
+Table 5-2 “Coefficients for maximally flat low-pass filter (Ne Al to 10)
+T |
+
+Nig, | & | 8 | Ss | & | 86 | 8 | 8 | Soi /) So | Bu
+i 2 i
+
+1 12.0600 | 1.0000 | |
+2 11.4142 | 1.4142 | 1.0000
+
+panne: lboercerst ren
+3 | 4.0000 | 2.0000 ' 1.0600 | 1.0000 1
+
+4 |o-7654 | 1.8478 | 1.8478 |0.76S4 | 1.0000
+
+5 0.6180 | 1.6180 2.0000 11.6180 | 0.6180 | 1.6000
+
+6 10.5176 | 14142 | 1.9318 | 1.9318 | 14142 10.5176 | 1.0000
+
+ti
+
+7} 04450 | 1.2470 | 1.8019 | 2.0000 1.8019 | 1.2470 | 0.4450 | 1.0000
+
+tt
+LI
+
+& 10.9902 | EALiL | 1.6629 1.9615 1.9615 | 1.6629 | J.1i1) 0.3902 1.0009,
+
+; |
+9 19.3473 | 1.c000 [1.8321 | 1.8794 | 2.0000 | 1.8794 | 1.5321 | 1.0000 03t74 1.0000
+
+1° 0.3129 {0.9080 1.4142 | £7820 | 1.9754 | 19754 | 1.7820 | 14142 | 0.9080 0.3129 | 1.0000
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper 29f1b8178363
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 12 July 2017
+- Text: ocr (2 pages), mean OCR confidence 86.6
+
+````text
+” SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: VI
+
+Batch: 2013-14
+
+¢ Academic Year: 2016-2017 ; oa
+\ Subject: RF Circuit Design : A v- Na
+
+Date: 12 July 2017 Marks: 100; 77 4 »3 Twi
+: yeu Time: 2.00 pri fo 5.00 ¥
+a ms ©,Q0;pma I
+
+Durations: 3 (Ge)
+No. of Pages}
+
+~ _ Re-Examination
+NB: ;
+
+1. Question No.ONE is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new questions to be started on a fresh page-
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q1
+t
+(a) Draw and éxplain high frequency resistor. 5
+(b) Explain physical properties of semiconductors. 5
+(c) State the procedure for calculating VSWR and reflection coefficient on smith chart. 5
+“(d) Draw and explain equivalent circuit of 2 wire transmission line. / 5
+Q.2
+
+(a) _ Write short note on, lossless transmission line, distortion less line, half wave and quarter 10
+wave transmission line. Specify the conditions for the same.
+
+(b) For the following transmission line system. Compute input power and power delivered to 10
+
+the load. ;
+Z¢
+-— he.
+50 2
+: Z,=75Q Z,= 509 21
+- OP 1 2 40 Q
+0.3540 __, 0.654
+ocmiomeel Q.3 . \
+(a) A load impedance of ZL = 150-50] connected to 5 cm long transmission line with Zo = 10
+Pi 75 ohm. For wavelength of 6 cm. compute, input impedance, VSWR and operating
+frequency if phase velocity is 77% of speed of light-
+
+(b) Derive the equation for power consideration for sourced and loaded transmission line. 10
+
+Q.4 ; :
+(a) Explain the frequency and impedance transformation for designing high pass filter. Write 10
+
+in detail each step.
+
+Vo_
+--- page 2 ---
+(b) Explain the following parameters- 10
+(i) Insertion loss (ii) Ripple (iii) Bandwidth (iv) Shield factor and (v) Rejection.
+
+Q.5
+
+(a) Explain Richard's transformation and Kuroda's Identity. How they are used in realization 10
+of RF filter.
+
+(b) For the filter Shown, Find the loaded, unloaded and external Quality factors, also find 10
+power generated by source.
+Zo = 50ohms, ZG = ZL = Zo, R = 100hms, L = 50nH, C = 0.47pF and VG = 5V
+
+Q6
+
+(a) Write short note on HEMT including its construction and frequency response. 10
+
+(b) Explain construction and functionality of bipolar junction transistor. 10
+
+Q.7 :
+
+(a) Write short note on PN junction and Schottky contact. 10
+
+(b) Compare large signal FET models with small signal FET models. 10
 ````
 
 ## 2016-17 · Re-Exam · Sem 6 · paper 430fbcf0dda3
@@ -1954,296 +2047,7 @@ Q7
 a
 ````
 
-## 2015-16 · Re-Exam · Sem 6 · paper 850986e4e56c
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN BATCH 2015-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 07 July 2016
-- Text: ocr (3 pages), mean OCR confidence 74.1
-
-````text
-—=
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY
-
-EERING
-Programme: B.Tech (EXTC) Year: Ill
-
-Academic Year: 2015-16
-Batch: 2015-16
-
-Subject: RF Circuit Design Marks: 60
-
-. ,Time: 2.00 pm — 5.00 pm
-Date: 07 July 2016 . * Durations: 3 (hrs)
-
-Re-Examination
-
-Instructions:- Candidates should read carefully the instructions printed on question paper
-and on the cover of Answer Book, which is provided for their use.
-NB:
-
-1. Question No.ONE is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. In all FIVE questions to be attempted
-
-4. All questions carry equal marks.
-
-5. Answer to each new questions to be started on a fresh page
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1. a) Compute ABCD parameters by using cascading interconnections for
-
-following T- network. [04]
-iy £4 Zn « fa
-v: Ze W2
-o— 4— ad
-b) Explain Internal quality factor, External Quality factor, and Loaded
-quality factor-for filter. [04]
-c) What is diffusion current and drift current in PN junction diode ? [04]
-
-Q.2. a) Find S-parameters and resistive element for the 3dB attenuator network shown
-
-in following figure. The network is placed in transmission line section with a
-
-characteristics impedance of Zo=50Q . [06]
-MMM se I \ Ai
-my L Ra
-Post ~{ Post -2 .
-
-b) What is need of single stub in transmission line? Derive expression for
-a) Location of stub from load b) Length of shorted circuited stub [06]
-
-Where Single stub is connected in parallel with load.
-
-Q.3.a) For the network shown below, Find the ratios of by/a; and ai/bs. Assume
-unity for multiplication factor of the transmission line segment. [06]
-
-V3
---- page 2 ---
-Zs the Ts re a2 I,
-4 zt ————
-Vs ati Z, {S]} Zo be | |Z,
-met ——-
-By b,
-b) Explain construction and functionality of HEMT. [06]
-
-Q.4.a) A signal generator is used to feed, two loads, as shown in following figure.
-
-Find prower produced by the source and power delivered to each load [06]
-
-10V
-
-b) Find S21 for series band pass filter. [06]
-
-Q.5.a) A lossless transmission line with load impedance Z, = (100+j100)Q. The first [08]
-stub is placed at 0.4% away from the load. The spacing between two stub is
-32/8. Determine the length of the shunt short circuited stub by using smith
-
-Q.5.b) lain RF behavior of resistor and capacitor with equivalent circuit and [04]
-graph.
-Q.6.a) For the filter circuit shown below find loaded, unloaded and external
-quality factor also determine power generated by source. [06]
-58a 10nH — i0pF
-
-Z,= 50Q 50.
-
-ob oe et
-ee — +
-
-b) Explain RF field effect transistor. [06]
-
-— }—+
-
-Q.7. Write short notes following: -
-
-a) Matching with lumped parameter
-b) Explain Large signal BJT model
-c) Kuroda’s Identities
-
-[12]
-
-2/3
---- page 3 ---
-The Smith Chart
-
-RADIALLY SCALED PARAMETE, »
-
-TOWARD TOWARD GENERATOR I ke
-
-A LOAD o> Sc ? ol
-1040 2 we $ 4 3 25 27 14 if ta wut ww ? $ ‘ 3 2 1 tA
-ta x ~ oi 19 a + 4 7 3 z rou 12a it ois ta i 18 2 3 a8 wpe S$
-° 1 2 3 4 5s 6 a F 10 no = R¥iO a> o2 O4 0% OF 1 ws 2 R 4 £6 Ww 156 & }
-2 08 OF OF oe as eA a3 a ons on ch Ww 2 Le) 14 iS 14 17 121g 2 a 3 eo we OF Sé
-
-oo of a7 Os os o4 as 3 ar ols oF 2% oF os a os os 04 03 02 G3 0 ay y
-CENTER
-02 a o4 os OL oF os oF 1 wi wz 13 ia wy wa WwW is a
-
-3/3
-````
-
-## 2014-15 · Final-Exam · Sem 6 · paper 696947850625
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN B TECH (EXTC), 2014-15 FINAL EXAM.pdf`
-- Printed on paper: exam date: 16/05/2015
-- Text: ocr (3 pages), mean OCR confidence 73.1
-
-````text
-E r
-
-a aa SVKM’s NMIMS
-_. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (EXTC) Year: III Semester: VI
-
-Academic Year: 2014-2015
-Subject: ; RF Circuit Design
-
-‘ Marks:
-| Date: 16/05/2015 Time»
-! Durati
-oe Final-Examination
-NB:
-soa 1. Question No._ONE is compulsory.
-
-2. Out of remaining questions, attempt any EOUR questions.
-3. In all FIVE questions to be attempted
-
-4. All questions carry equal marks.
-
-5. Answer to each new questions to be started on a fresh page
-6. Figures in brackets on the right hand side indicate full marks.
-
-Qt
-
-(a) Explain chip resistors and chip inductors with neat diagram
-
-(b) Draw the electric equivalent circuit for the High frequency capacitor. Compute the high frequency
-impedance of a 47pf capacitor in terms of F (frequency). Whose dielectric medium consists of an
-aluminum oxide (Al203) processing a series loss tangent of 10“ and AWG 26 copper wires whose
-leads are 1.25cm with ocy =64.51X10® Q"'m"
-
-(c) Explain simplified Eber’s-Moll model for forward active mode of transistor
-
-Q.2 ‘
-
-(a) For the following transmission line system. Compute input power and power delivered to the load
-
-Z, 2
-50 Q
-(b) Derive power consideration for sourced and loaded transmission line. 6
-ot Q.3
-(a) Draw the lumped element circuit model for a transmission line. Derive the expression for voltage
-é and current travelling waves and also find propagation constant and reflection coefficients
-(b) Using Smith Chart fin the input Impedance of following network at 2 GHz 6
-Zz C L
-
-phar >. “LC, =F
-an 252
-1,99 nH 3.98 nH 11.59 pF
---- page 2 ---
-Q.4
-
-(a) Explain the following parameters-
-
-(i) Insertion loss (ii) Ripple (iii) Bandwidth _—_(iv) Shape factor and v) Rejection.
-
-(b) An N = 3 Chebyshev bandpass filter is to be designed with a 3 dB passband ripple for a
-communication link. The center frequency is at 2.4 GHz and the filter has to meet a bandwidth
-requirement of 20%. The filter has to be inserted into a 50 Q characteristic line impedance.
-
-Find the inductive and capacitive elements and plot the attenuation response in the frequency
-range 1 to 4 GHz.
-
-Q.5
-
-(a) Explain Richard's transformation and Kuroda's Identity.
-
-(b) Explain different types of diode models (RF) and differentiate them with respect to junction
-capacitance, band gap energy and conductance.
-
-Q.6
-
-(a) Draw the Ebers-Moll model of large signal BUT and explain in detail the transport representation
-and injection form.
-
-(b) Explain construction and functionality of HEMT.
-
-Q.7 Attempt any two
-
-(a) Compare large signal FET models with small signal FET models.
-
-(b) A particular RF circuit requires a Microstrip line of characteristic impedance 50 ohm to be
-
-maintained ¢,= 4.6 and height of dielectric is 40 mils what are the width of trace, phase velocity
-and wavelength at 2 GHz.
-
-(c) Explain schottley contact with help of energy band diagram for metal semiconductor contact.
-
-Table 5-4 (a) Chebyshev filter coefficients; 3 dB filter design (N= 1 to 10)
-T i
-N] 8 82 &3 84 8s & 87 | 8s 89 | 810 | Bi
-
-1 11.9953 | 1.0000
-
-2 {3.1013 [0.5339 | 5.8095 |
-
-3 | 3.3487 | 0.7117 | 3.3487 | 1.0000 |
-
-4 13.4389 | 0.7483 | 4.3471 | 0.5920 | 5.8095 |
-
-5 13.4817 '0.7618 | 4.5381 (0.7618 , 3.4817 | 1.0000 i
-
-6 | 3.5045 |0.7685 14.6061 | 0.7929 | 4.4641 | 0.6033 | 5.8095
-
-7 |3.5182 |0.7723 | 4.6386 | 0.8039 | 4.6386 | 0.7723 | 3.5182 | 1.0000 |
-
-4
-
-t
-
-’ Tt
-8 | 3.5277 |0.7745 | 4.6575 | 0.8089 | 4.6990 | 0.8018 | 4.4990 | 0.6073 | 5.8095
-
-9 | 3.5340 10.7760 | 4.6692 lo.g118 4.7272 [0.8118 | 4.6692 0.7760 | 3.5340 | 1.0000
-
-1 H
-
-10 | 3.5384 10.7771 |4.6768 | 0.8136 | 4.7425 10.8164 | 4.7260 | 0.8051 | 4.5142 | 0.6091 | 5.8095
-
-2
---- page 3 ---
-COMBINED SMITH CHART
-Introduction to RF Circuit Design
-
-RADIALLY SCALED PARAMETERS,
-
-Sty TOWARD LOAD D> <D TOWARD GENERATOR
-03 > ¥10040 20 10 54 325 20°18 Le id 12111 15° 7 5 4 3 2
-ON a Le pe ae aeeacngeafleeeereag —
-ta By, ¥40 30 20 B 10 6 3 4 3 2 419 cet 12 13 14 16 18 2 3064 wom ¥ 2K:
-‘i *
-Ose 9 1 2 3 § 5 6 7 8 9w 2 2» s0vo 01 02 04 06 08 1 152 348 6 wisy LHS
-*q° lowspmosoonmm ve 030 0302 aon om” aoa aS de ty ee 2 3S
-me 1 0.899999 0s 0.699999 0.6 os Od 03 02 oO on 099 0.949999 0.899999 os 0.699999 0.6 os 04 03 02 01 0
-cy
-CENTER
-0.0, 0.1 9.199899 299999 BHI 0S SHI O49 7999) ONO —T M42 38a wt
-as ee : ,
-ORIGIN,
-
-%
-````
-
-## 2014-15 · Re-Exam · Sem 6 · paper 3e5335796798
+## 2015-16 · Re-Exam · Sem 6 · paper 3e5335796798
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -2385,106 +2189,7 @@ COMBINED SMITH CHART
 Introduction to RF Circuit Design
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper 615cdcda78d2
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 04/07/2015
-- Text: ocr (3 pages), mean OCR confidence 89.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: VI
-Batch: 2014-15 laa
-Academic Year: 2014-2015 “3 NN
-Subject: RF Circuit Design ; ‘ 2
-Marks: ze
-Date: 04/07/2015 Time: 00 am to 1.00;
-Durations: .
-
-Re-Examination
-
-Instructions:- Candidates should read carefully the instructions printed on question paper
-and on the cover of Answer Book, which is provided for their use.
-
--1. Question No..ONE is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. Inall FIVE questions to be attempted :
-
-4. All questions carry equal marks.
-
-5. Answer to each new questions to be started on a fresh page
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1. a) For sourced and loaded transmission line define oO4
-i)Input reflection coefficient —_ii) Source reflection coefficient
-iit) Output reflection coefficient iv) Load reflection coefficient
-
-b) Explain Physical properties of Semiconductor o4
-
-c) Explain large signal model of FET o4
-
-Q.2. a) For following system compute the input power, power delivered to the load,
-
-and insertion loss, Assume transmission lines are lossless o6
-Ze
-ri Rot
-50 Q = Z
-/ Z,=75Q Z,= 509 L
-10 } 1 2 40 Q
-
-je 0.35%. 0.654,
-
-b) Explain high electron mobility transistor with its construction, functionality,
-frequency response. of
-Q.3.a) Explain High frequency resistor in detail -o6
-
-b) For the filter circuit shown below find loaded, unloaded and external
-
-quality factor also determine power generated by source o6
-
-4/3
---- page 2 ---
-50Q 10nH 10pF
-
-Vq=5V 502
-
-pe
-
-Q.4.a) For an abrupt pn-junction Si semiconductor at room temperature (€0=11.9
-
-sni =1.5x10!° em? ) with donor and acceptor concentration is Np=5*10'5 cm?
-
-and Na=10!5 cm?,Find dp,d, and junction capacitance at zero biasing voltage ob
-b) Derive generalize expression for input power of Transmission line , o6
-Q.5.a) Compare large signals BJT and small signal BJT models ob
-
-b) A load impedance Z1 = (30+j60) Q is connected to a 50Q transmission line -
-of 2cm length and operated at 2GHz. Use reflection coefficient concept and
-find input impedance Zin under assumption that the phase velocity is 50% .
-of speed of light o6
-
-Q.6.a) A transmission line of Zo=50Q and length of d=0.154 is terminated into
-load impedance of Zi= (25-j30) Q find ' , Zin(d) and SWR by using
-
-Z-Smith chart o&
-b) Explain RF field effect transistor o6
-Q.7. Write short notes following: - IQ
-
-a) Return loss and Insertion loss in Transmission line
-b) High frequency Capacitor
-c) Prove Zo=VZoc.Zsc
---- page 3 ---
-COMBINED SMITH CHART
-Introduction to RF Circuit Design
-````
-
-## 2014-15 · Re-Exam · Sem 6 · paper dbe89d733627
+## 2015-16 · Re-Exam · Sem 6 · paper dbe89d733627
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -2645,7 +2350,292 @@ ORIGIN
 Fe)
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper 837e25107348
+## 2015-16 · Re-Exam · Sem 6 · paper 850986e4e56c
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN BATCH 2015-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 07 July 2016
+- Text: ocr (3 pages), mean OCR confidence 74.1
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+—=
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY
+
+EERING
+Programme: B.Tech (EXTC) Year: Ill
+
+Academic Year: 2015-16
+Batch: 2015-16
+
+Subject: RF Circuit Design Marks: 60
+
+. ,Time: 2.00 pm — 5.00 pm
+Date: 07 July 2016 . * Durations: 3 (hrs)
+
+Re-Examination
+
+Instructions:- Candidates should read carefully the instructions printed on question paper
+and on the cover of Answer Book, which is provided for their use.
+NB:
+
+1. Question No.ONE is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. In all FIVE questions to be attempted
+
+4. All questions carry equal marks.
+
+5. Answer to each new questions to be started on a fresh page
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1. a) Compute ABCD parameters by using cascading interconnections for
+
+following T- network. [04]
+iy £4 Zn « fa
+v: Ze W2
+o— 4— ad
+b) Explain Internal quality factor, External Quality factor, and Loaded
+quality factor-for filter. [04]
+c) What is diffusion current and drift current in PN junction diode ? [04]
+
+Q.2. a) Find S-parameters and resistive element for the 3dB attenuator network shown
+
+in following figure. The network is placed in transmission line section with a
+
+characteristics impedance of Zo=50Q . [06]
+MMM se I \ Ai
+my L Ra
+Post ~{ Post -2 .
+
+b) What is need of single stub in transmission line? Derive expression for
+a) Location of stub from load b) Length of shorted circuited stub [06]
+
+Where Single stub is connected in parallel with load.
+
+Q.3.a) For the network shown below, Find the ratios of by/a; and ai/bs. Assume
+unity for multiplication factor of the transmission line segment. [06]
+
+V3
+--- page 2 ---
+Zs the Ts re a2 I,
+4 zt ————
+met ——-
+By b,
+b) Explain construction and functionality of HEMT. [06]
+
+Q.4.a) A signal generator is used to feed, two loads, as shown in following figure.
+
+Find prower produced by the source and power delivered to each load [06]
+
+10V
+
+b) Find S21 for series band pass filter. [06]
+
+Q.5.a) A lossless transmission line with load impedance Z, = (100+j100)Q. The first [08]
+stub is placed at 0.4% away from the load. The spacing between two stub is
+32/8. Determine the length of the shunt short circuited stub by using smith
+
+Q.5.b) lain RF behavior of resistor and capacitor with equivalent circuit and [04]
+graph.
+Q.6.a) For the filter circuit shown below find loaded, unloaded and external
+quality factor also determine power generated by source. [06]
+58a 10nH — i0pF
+
+Z,= 50Q 50.
+
+ob oe et
+ee — +
+
+b) Explain RF field effect transistor. [06]
+
+— }—+
+
+Q.7. Write short notes following: -
+
+a) Matching with lumped parameter
+b) Explain Large signal BJT model
+c) Kuroda’s Identities
+
+[12]
+
+2/3
+--- page 3 ---
+The Smith Chart
+
+RADIALLY SCALED PARAMETE, »
+
+TOWARD TOWARD GENERATOR I ke
+
+A LOAD o> Sc ? ol
+1040 2 we $ 4 3 25 27 14 if ta wut ww ? $ ‘ 3 2 1 tA
+ta x ~ oi 19 a + 4 7 3 z rou 12a it ois ta i 18 2 3 a8 wpe S$
+° 1 2 3 4 5s 6 a F 10 no = R¥iO a> o2 O4 0% OF 1 ws 2 R 4 £6 Ww 156 & }
+
+CENTER
+
+3/3
+````
+
+## 2014-15 · Final-Exam · Sem 6 · paper 696947850625
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN B TECH (EXTC), 2014-15 FINAL EXAM.pdf`
+- Printed on paper: exam date: 16/05/2015
+- Text: ocr (3 pages), mean OCR confidence 73.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+E r
+
+a aa SVKM’s NMIMS
+_. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (EXTC) Year: III Semester: VI
+
+Academic Year: 2014-2015
+Subject: ; RF Circuit Design
+
+‘ Marks:
+| Date: 16/05/2015 Time»
+! Durati
+oe Final-Examination
+NB:
+soa 1. Question No._ONE is compulsory.
+
+2. Out of remaining questions, attempt any EOUR questions.
+3. In all FIVE questions to be attempted
+
+4. All questions carry equal marks.
+
+5. Answer to each new questions to be started on a fresh page
+6. Figures in brackets on the right hand side indicate full marks.
+
+Qt
+
+(a) Explain chip resistors and chip inductors with neat diagram
+
+(b) Draw the electric equivalent circuit for the High frequency capacitor. Compute the high frequency
+impedance of a 47pf capacitor in terms of F (frequency). Whose dielectric medium consists of an
+aluminum oxide (Al203) processing a series loss tangent of 10“ and AWG 26 copper wires whose
+leads are 1.25cm with ocy =64.51X10® Q"'m"
+
+(c) Explain simplified Eber’s-Moll model for forward active mode of transistor
+
+Q.2 ‘
+
+(a) For the following transmission line system. Compute input power and power delivered to the load
+
+Z, 2
+50 Q
+(b) Derive power consideration for sourced and loaded transmission line. 6
+ot Q.3
+(a) Draw the lumped element circuit model for a transmission line. Derive the expression for voltage
+é and current travelling waves and also find propagation constant and reflection coefficients
+(b) Using Smith Chart fin the input Impedance of following network at 2 GHz 6
+Zz C L
+
+phar >. “LC, =F
+an 252
+1,99 nH 3.98 nH 11.59 pF
+--- page 2 ---
+Q.4
+
+(a) Explain the following parameters-
+
+(i) Insertion loss (ii) Ripple (iii) Bandwidth _—_(iv) Shape factor and v) Rejection.
+
+(b) An N = 3 Chebyshev bandpass filter is to be designed with a 3 dB passband ripple for a
+communication link. The center frequency is at 2.4 GHz and the filter has to meet a bandwidth
+requirement of 20%. The filter has to be inserted into a 50 Q characteristic line impedance.
+
+Find the inductive and capacitive elements and plot the attenuation response in the frequency
+range 1 to 4 GHz.
+
+Q.5
+
+(a) Explain Richard's transformation and Kuroda's Identity.
+
+(b) Explain different types of diode models (RF) and differentiate them with respect to junction
+capacitance, band gap energy and conductance.
+
+Q.6
+
+(a) Draw the Ebers-Moll model of large signal BUT and explain in detail the transport representation
+and injection form.
+
+(b) Explain construction and functionality of HEMT.
+
+Q.7 Attempt any two
+
+(a) Compare large signal FET models with small signal FET models.
+
+(b) A particular RF circuit requires a Microstrip line of characteristic impedance 50 ohm to be
+
+maintained ¢,= 4.6 and height of dielectric is 40 mils what are the width of trace, phase velocity
+and wavelength at 2 GHz.
+
+(c) Explain schottley contact with help of energy band diagram for metal semiconductor contact.
+
+Table 5-4 (a) Chebyshev filter coefficients; 3 dB filter design (N= 1 to 10)
+T i
+N] 8 82 &3 84 8s & 87 | 8s 89 | 810 | Bi
+
+1 11.9953 | 1.0000
+
+2 {3.1013 [0.5339 | 5.8095 |
+
+3 | 3.3487 | 0.7117 | 3.3487 | 1.0000 |
+
+4 13.4389 | 0.7483 | 4.3471 | 0.5920 | 5.8095 |
+
+5 13.4817 '0.7618 | 4.5381 (0.7618 , 3.4817 | 1.0000 i
+
+6 | 3.5045 |0.7685 14.6061 | 0.7929 | 4.4641 | 0.6033 | 5.8095
+
+7 |3.5182 |0.7723 | 4.6386 | 0.8039 | 4.6386 | 0.7723 | 3.5182 | 1.0000 |
+
+4
+
+t
+
+’ Tt
+8 | 3.5277 |0.7745 | 4.6575 | 0.8089 | 4.6990 | 0.8018 | 4.4990 | 0.6073 | 5.8095
+
+9 | 3.5340 10.7760 | 4.6692 lo.g118 4.7272 [0.8118 | 4.6692 0.7760 | 3.5340 | 1.0000
+
+1 H
+
+10 | 3.5384 10.7771 |4.6768 | 0.8136 | 4.7425 10.8164 | 4.7260 | 0.8051 | 4.5142 | 0.6091 | 5.8095
+
+2
+--- page 3 ---
+COMBINED SMITH CHART
+Introduction to RF Circuit Design
+
+RADIALLY SCALED PARAMETERS,
+
+Sty TOWARD LOAD D> <D TOWARD GENERATOR
+03 > ¥10040 20 10 54 325 20°18 Le id 12111 15° 7 5 4 3 2
+ta By, ¥40 30 20 B 10 6 3 4 3 2 419 cet 12 13 14 16 18 2 3064 wom ¥ 2K:
+‘i *
+Ose 9 1 2 3 § 5 6 7 8 9w 2 2» s0vo 01 02 04 06 08 1 152 348 6 wisy LHS
+*q° lowspmosoonmm ve 030 0302 aon om” aoa aS de ty ee 2 3S
+cy
+CENTER
+0.0, 0.1 9.199899 299999 BHI 0S SHI O49 7999) ONO —T M42 38a wt
+as ee : ,
+ORIGIN,
+
+%
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper 837e25107348
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -2730,104 +2720,103 @@ b Explain any one RF diode in details
 10
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper 29f1b8178363
+## 2014-15 · Re-Exam · Sem 6 · paper 615cdcda78d2
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 12 July 2017
-- Text: ocr (2 pages), mean OCR confidence 86.6
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/RF CIRCUIT DESIGN/RF CIRCUIT DESIGN B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 04/07/2015
+- Text: ocr (3 pages), mean OCR confidence 89.9
 
 ````text
-” SVKM’s NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
 Programme: B. Tech (EXTC) Year: III Semester: VI
+Batch: 2014-15 laa
+Academic Year: 2014-2015 “3 NN
+Subject: RF Circuit Design ; ‘ 2
+Marks: ze
+Date: 04/07/2015 Time: 00 am to 1.00;
+Durations: .
 
-Batch: 2013-14
+Re-Examination
 
-¢ Academic Year: 2016-2017 ; oa
-\ Subject: RF Circuit Design : A v- Na
+Instructions:- Candidates should read carefully the instructions printed on question paper
+and on the cover of Answer Book, which is provided for their use.
 
-Date: 12 July 2017 Marks: 100; 77 4 »3 Twi
-: yeu Time: 2.00 pri fo 5.00 ¥
-a ms ©,Q0;pma I
-
-Durations: 3 (Ge)
-No. of Pages}
-
-~ _ Re-Examination
-NB: ;
-
-1. Question No.ONE is compulsory.
+-1. Question No..ONE is compulsory.
 
 2. Out of remaining questions, attempt any FOUR questions.
 
-3. In all FIVE questions to be attempted.
+3. Inall FIVE questions to be attempted :
 
 4. All questions carry equal marks.
 
-5. Answer to each new questions to be started on a fresh page-
-
+5. Answer to each new questions to be started on a fresh page
 6. Figures in brackets on the right hand side indicate full marks.
 
-Q1
-t
-(a) Draw and éxplain high frequency resistor. 5
-(b) Explain physical properties of semiconductors. 5
-(c) State the procedure for calculating VSWR and reflection coefficient on smith chart. 5
-“(d) Draw and explain equivalent circuit of 2 wire transmission line. / 5
-Q.2
+Q.1. a) For sourced and loaded transmission line define oO4
+i)Input reflection coefficient —_ii) Source reflection coefficient
+iit) Output reflection coefficient iv) Load reflection coefficient
 
-(a) _ Write short note on, lossless transmission line, distortion less line, half wave and quarter 10
-wave transmission line. Specify the conditions for the same.
+b) Explain Physical properties of Semiconductor o4
 
-(b) For the following transmission line system. Compute input power and power delivered to 10
+c) Explain large signal model of FET o4
 
-the load. ;
-Z¢
--— he.
-50 2
-: Z,=75Q Z,= 509 21
-- OP 1 2 40 Q
-0.3540 __, 0.654
-ocmiomeel Q.3 . \
-(a) A load impedance of ZL = 150-50] connected to 5 cm long transmission line with Zo = 10
-Pi 75 ohm. For wavelength of 6 cm. compute, input impedance, VSWR and operating
-frequency if phase velocity is 77% of speed of light-
+Q.2. a) For following system compute the input power, power delivered to the load,
 
-(b) Derive the equation for power consideration for sourced and loaded transmission line. 10
+and insertion loss, Assume transmission lines are lossless o6
+Ze
+ri Rot
+50 Q = Z
+/ Z,=75Q Z,= 509 L
+10 } 1 2 40 Q
 
-Q.4 ; :
-(a) Explain the frequency and impedance transformation for designing high pass filter. Write 10
+je 0.35%. 0.654,
 
-in detail each step.
+b) Explain high electron mobility transistor with its construction, functionality,
+frequency response. of
+Q.3.a) Explain High frequency resistor in detail -o6
 
-Vo_
+b) For the filter circuit shown below find loaded, unloaded and external
+
+quality factor also determine power generated by source o6
+
+4/3
 --- page 2 ---
-(b) Explain the following parameters- 10
-(i) Insertion loss (ii) Ripple (iii) Bandwidth (iv) Shield factor and (v) Rejection.
+50Q 10nH 10pF
 
-Q.5
+Vq=5V 502
 
-(a) Explain Richard's transformation and Kuroda's Identity. How they are used in realization 10
-of RF filter.
+pe
 
-(b) For the filter Shown, Find the loaded, unloaded and external Quality factors, also find 10
-power generated by source.
-Zo = 50ohms, ZG = ZL = Zo, R = 100hms, L = 50nH, C = 0.47pF and VG = 5V
+Q.4.a) For an abrupt pn-junction Si semiconductor at room temperature (€0=11.9
 
-Q6
+sni =1.5x10!° em? ) with donor and acceptor concentration is Np=5*10'5 cm?
 
-(a) Write short note on HEMT including its construction and frequency response. 10
+and Na=10!5 cm?,Find dp,d, and junction capacitance at zero biasing voltage ob
+b) Derive generalize expression for input power of Transmission line , o6
+Q.5.a) Compare large signals BJT and small signal BJT models ob
 
-(b) Explain construction and functionality of bipolar junction transistor. 10
+b) A load impedance Z1 = (30+j60) Q is connected to a 50Q transmission line -
+of 2cm length and operated at 2GHz. Use reflection coefficient concept and
+find input impedance Zin under assumption that the phase velocity is 50% .
+of speed of light o6
 
-Q.7 :
+Q.6.a) A transmission line of Zo=50Q and length of d=0.154 is terminated into
+load impedance of Zi= (25-j30) Q find ' , Zin(d) and SWR by using
 
-(a) Write short note on PN junction and Schottky contact. 10
+Z-Smith chart o&
+b) Explain RF field effect transistor o6
+Q.7. Write short notes following: - IQ
 
-(b) Compare large signal FET models with small signal FET models. 10
+a) Return loss and Insertion loss in Transmission line
+b) High frequency Capacitor
+c) Prove Zo=VZoc.Zsc
+--- page 3 ---
+COMBINED SMITH CHART
+Introduction to RF Circuit Design
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper c9d53f33a292

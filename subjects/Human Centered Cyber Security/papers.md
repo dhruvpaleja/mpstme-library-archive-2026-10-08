@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSE CYBER SECURITY/SEM-VII/HUMAN CENTERED CYBERSECURITY/Human Centered Cybersecurity, Sem-VII, Final Exam 2024-25.pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -91,7 +92,6 @@ fair?
 
 Firm B
 
-Qs I I Il IV IV
 CO 2,
 BL2 I 3 -1 4 6 7
 

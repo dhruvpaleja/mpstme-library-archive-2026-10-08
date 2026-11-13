@@ -14,29 +14,29 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AIML 7053 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech AIML 7053 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CS 7055 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Computer 7032 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AIML 7053 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 8, Sem 10 | B TECH / COMPUTER, B TECH / CYBER SECURITY, B TECH / I T, B TECH / IT, B.TECH INTEGRATED / COMPUTER, MBA TECH / Computer, MBA TECH / I T | Distibuted Computing Batch 2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CS 7055 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | Integrated Computer 7032 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Distributed Computing(702CO0C034)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER | Distributed Computing, Sem VI, Year 2024-25 Final Exam & 2022-23 & 2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer | Distributed Computing, Sem VI, Year 2024-25 Final Exam & 2022-23 & 2023-24 Re Exam_fb6b46b2e7.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Distributed Computing Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |

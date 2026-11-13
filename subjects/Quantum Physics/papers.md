@@ -1,6 +1,6 @@
 # Quantum Physics: question papers in full
 
-46 unique papers · 2025-26 to 2025-26 · Data Science, Computer Engineering, Information Technology, Computer Science and Business Systems, Electronics and Telecommunication, Computer Science, Cyber Security, Mechatronics, Common (all branches)
+46 unique papers · 2025-26 to 2025-26 · Data Science, Computer Engineering, Information Technology, Computer Science and Business Systems, Electronics and Telecommunication, Cyber Security, Computer Science, Mechatronics, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 

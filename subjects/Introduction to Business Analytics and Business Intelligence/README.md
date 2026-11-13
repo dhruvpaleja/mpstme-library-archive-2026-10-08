@@ -16,10 +16,10 @@ Also filed as: `INTRODUCTION TO BUSINESS ANALYTICS & BU`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Introduction to Business Analytics and Business Intelligence(702DB0C022)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech CSE DS 7011 | QP_Introduction to Business Analytics and Business Intelligence(702DB0C022)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Introduction to Business Analytics and Business Intelligence(702DB0C022)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Introduction to Business Analytics and Business Intelligence(702DB0C022)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech CSE DS 7011 | QP_Introduction to Business Analytics and Business Intelligence(702DB0C022)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Introduction to Business Analytics and Business Intelligence(702DB0C022)_2024-2025.pdf |
 | 2022-23 | — | Question paper | Sem 1 | B TECH | Introduction to Business Analytics & Business Intelligence, Sem-I, Batch 2022-23,_54922b70.pdf |
 | 2022-23 | — | Question paper | Sem 1 | B TECH | Introduction to Business Analytics and Business Intelligence, Sem-I, Year 2022-23_aaebd80c.pdf |
 | — | Final-Exam | Question paper | Sem 1 | B TECH | Introduction to Business Analytics & Business Intelligence, Sem-I, Final Exam 202_c01b3e8c.pdf |

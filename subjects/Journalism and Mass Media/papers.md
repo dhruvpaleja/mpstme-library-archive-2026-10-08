@@ -1,6 +1,6 @@
 # Journalism and Mass Media: question papers in full
 
-11 unique papers · 2023-24 to 2025-26 · Common (all branches), Computer Engineering, Electronics and Telecommunication, Artificial Intelligence, Civil, Cyber Security, Data Science, Information Technology, Mechatronics
+11 unique papers · 2022-23 to 2025-26 · Common (all branches), Computer Engineering, Electronics and Telecommunication, Artificial Intelligence, Civil, Cyber Security, Data Science, Information Technology, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -173,6 +173,7 @@ comprehensive presentation of the subject and to-the-point development of the co
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/JOURNALISM AND MASS MEDIA/Journalism and Mass Media, Sem-VII, Year 2025-26, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; exam date: 10 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -281,7 +282,6 @@ comprehensive presentation of the subject and to-the-point development of the co
 
 (iv) A touching and convincing conclusion
 
-RRR KAKA A 2 FERRE KEKE
 
 co
 ````
@@ -814,7 +814,7 @@ presentation of the subject and to-the-point development of the content
 Page 2 of 2
 ````
 
-## Year not stated · Exam not stated · Sem 6 · paper 04846bebf5d9
+## 2022-23 · Exam not stated · Sem 6 · paper 04846bebf5d9
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH

@@ -16,15 +16,15 @@ Also filed as: `SYSTEM ANALYSIS AND DESIGN`, `system analysis and Design`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Systems Analysis and Design(702CO0C020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Systems Analysis and Design(702CO0C020)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Systems Analysis and Design(702CO0C020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Systems Analysis and Design(702CO0C020)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / CSEDS-311 | B Tech, Systems Analysis and Design, Sem-IV, Batch 2022-23 & 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Systems Analysis and Design(702CO0C020)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Systems Analysis and Design(702CO0C020)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Systems Analysis and Design(702CO0C020)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Systems Analysis and Design(702CO0C020)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Systems Analysis and Design(702CO0C020)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Systems Analysis and Design(702CO0C020)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Systems Analysis and Design(702CO0C020)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Systems Analysis and Design(702CO0C020)_2024-2025.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / DATA SCIENCE | System Analysis and Design, Sem-IV, Year 2022-23, Final Exam & Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE | System Analysis and Design, Sem-IV, Re Exam Batch 2022-23.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE | System Analysis and Design, Sem-IV,Batch2021-22& 2022-23, Re Exam.pdf |

@@ -14,24 +14,24 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6, Sem 10 | BTech Computer 7002, Integrated Computer 7032, MBATech Computer 7047 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Cyber Security(703AI0C005)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Cyber Security(702AI0E004)_2025-2026_316630adeb.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CS 7055 | QP_Cyber Security(702AI0E004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6, Sem 10 | BTech Computer 7002, Integrated Computer 7032, MBATech Computer 7047 | QP_Cyber Security(702AI0E004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Cyber Security(703AI0C005)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Cyber Security(702AI0E004)_2025-2026_4f3e1fac32.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MCA | Cyber Security 2025-26 Final.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Cyber Security(703AI0C005)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6, Sem 10 | BTech Computer 7002, Integrated Computer 7032, MBATech Computer 7047 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Cyber Security(703AI0C005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Cyber Security(702AI0E004)_2025-2026_316630adeb.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 10 | B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / Computer | Cyber Security Batch 2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Cyber Security(702AI0E004)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | Integrated Computer 7032 | QP_Cyber Security(702AI0E004)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Cyber Security(703AI0C005)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Cyber Security(702AI0E004)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Cyber Security(703AI0C005)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer | Cyber Security, Sem VI, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Cyber Security Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | MCA | Cyber Security Batch 2024-25 Final.pdf |

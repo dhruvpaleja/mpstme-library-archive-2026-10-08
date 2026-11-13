@@ -286,6 +286,7 @@ BL-1 between 100°C and 150°C
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/THERMODYNAMICS/Thermodynamics, Sem-III, Batch 2024-25 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 89.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -420,11 +421,9 @@ temperature is 600°C. If the steam turbine and condensate pump efficiencies are
 extract is given below.
 
 (b) phar) teC) Specific volume (my, kg) | Specific enthalpy (lf. bg) Specific entropy (kJ hg K) fl 0)
-v, v, hy, hy h, 3, Sy 8,
 0.1 45.84 | 0.0010103 14.68 4191.9 2392.3 2584.2 0.6488 7.5006 8.1494
 80 295.1 | 0.001385 0.0235 4317 1440.5 2757.5 3.2073 | 2.5351 5.7424
 80 bar, 600°C vo 0.486 m3 kg
-Superheat h 3642 BI /hg Z ° i
 table s 7.0206 kJ tek
 
 In a piston-cylinder system, a gas initially occupies 0.05 m? ata pressure of 200 kPa. A

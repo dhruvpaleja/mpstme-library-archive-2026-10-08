@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_EXTC_7006/Introduction to VLSI Technology/ANS_Introduction to VLSI Technology(702EX0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
 - Text: mixed (28 pages), mean OCR confidence 77.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -550,11 +551,9 @@ propagation delay times tpy, and tp,
 — Estimating the average capacitance current during
 charge down and charge up
 
-- Croad-AVitt _ Croaa « (Vox —V 50%)
 
 TPHL =
 Tavg, HL Tavg, HL
-Cioad»AVixx — Cloaa - (V 50% — Vor)
 TPLH = =
 Tavg, Le Tove, LH
 
@@ -813,6 +812,7 @@ FI ICR 2 QA HH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_EXTC_7006/Introduction to VLSI Technology/ANS_Introduction to VLSI Technology(702EX0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: mixed (25 pages), mean OCR confidence 80.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1000,7 +1000,6 @@ ands. Vos :
 * This pathway is called induced channel or inversion layer.
 * Depletion region formed around Drain, Source and n- a
 channel.
-f Tala ayer Holes repoied
 
 by positive gate
 
@@ -1194,7 +1193,6 @@ Step2: Find Out Setup Time:
 Asetup time = Setup time of Flipflop + Max (Data path Delay) - min(Clock path Delay)
 = (Setup time of Flipflop + A2D max delay) - (Clk path min delay)
 
-= Tsu + (Tpd U7 + Tpd U3 + wire delay) - Tpd U8
 
 =3+(1+8)-2=10ns
 

@@ -14,12 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Financial Management(702TF0C011)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, Sem-VII, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Financial Management(702TF0C011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Financial Management(703TF0C003)_2025-2026.pdf |
@@ -27,12 +21,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Financial Management(703TF0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Financial Management(703TF0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Financial Management(703TF0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Financial Management(702TF0C011)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Financial Management(702TF0C011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Financial Management(702TF0C011)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBA TECH | Financial Management, Sem-VIII, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Financial Management(703TF0C003)_2025-2026.pdf |
@@ -40,13 +34,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Financial Management(703TF0C003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Financial Management(703TF0C003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Financial Management(703TF0C003)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Financial Management(702TF0C011)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Financial Management(703TF0C003)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Financial Management(703TF0C003)_2024-2025.pdf |
@@ -55,12 +48,13 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, Sem-VII, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management,Sem-VII, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBA TECH | Financial Management, Sem-VIII, Batch 2024-25, Re Exam.pdf |
@@ -70,12 +64,18 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, Sem-VII, Final Exam, A Y 2023-24.pdf |
-| 2023-24 | Re-Exam | Answer key | Sem 8 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Financial Management(703TF0C003)_2023-2024.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, Sem-VII, Year 2023-24, Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 8 | MBA TECH | Financial Management , Re-exam 2022-23,2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 8 | MBA TECH | Financial Management, Re-exam 2022-23,2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 8 | MBATech(MECHANICAL ENGINEERING) - 7046 | QP_Financial Management(703TF0C003)_2023-2024.pdf |
+| 2023-24 | Re-Exam | Answer key | Sem 8 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Financial Management(703TF0C003)_2023-2024.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, 4th Year, Sem-VII, Year 2022-23 Re Exam.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 8 | MBA TECH | Financial Management, Sem8,Final,2021-22.pdf |

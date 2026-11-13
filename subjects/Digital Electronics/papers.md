@@ -181,6 +181,77 @@ b Prove 7M
 Page 2 of 2
 ````
 
+## 2018-19 · Re-Exam · Sem 3 · paper f0f4fe4bfb9f
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/DIGITAL ELECTRONICS/DIGITAL ELECTRONICS BATCH 16-17, 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 20 November 2018
+- Text: ocr (1 page), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+. SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: II _ Semester: [
+. AS
+
+Academic Year: 2018-2019
+
+Subject: Digital Electronics
+
+< Marks: 70 .
+Date: 20 November 2018 y Time: 2.00 Bx
+, Durations: 3 (
+No. of Pages :
+Re-examination (2016-17 / 2017-18)
+
+4
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 a) Convert the following: 04
+i) (231.25) = (?)10 ii) (542)acp = (?)xs-3
+b) Compare Combinational and Sequential circuits. 02
+c) Implement an OR gate using only NAND gates. 04
+d) Distinguish between PLA and PAL 04
+Q.2 a) Simplify the following Boolean functions using Quine McClusky method. 07
+b) . State and prove DeMorgan’s Theorems. 07
+Q3 a) Design & implement 4-bit Binary to Gray code converter. 07
+b) Minimize the following Boolean expression using K-map simplification technique to get 07
+
+minimal expression: Y = f(a,b,c,d) = 2m (1, 3, 4, 5, 7, 8, 9, 11, 15),@lso implement using
+basic gates.
+
+Q.4 a) Design MOD-3 ripple up counter using JK flip flop and draw its timing diagram. 07
+b) Implement F (A, B, C, D) = Xm (0, 2, 3, 6, 8, 9, 12, 14) using single 8:1 mux. 07
+Q.5 a) Draw and explain 4 bit serial in serial out shift register with waveform. 07
+b) What is a Full Subtractor? Design full Subtractor circuit using logic gates. 07
+pearl
+at Q.6 a) Whatis flip-flop? Develop JK flip flop using SR flip flop. 07
+b) Draw and explain Master-Slave JK flip flop with timing diagram. 07
+Q.7 Write short notes on any two. . 14
+i) VHDL.
+ii) Boolean laws and properties
+iii) Classification of semiconductor memories and comparison of SRAM with DRAM.
+*
+
+1
+````
+
 ## 2018-19 · Re-Exam · Sem 3 · paper e61bd1b98aa3
 
 - Departments: Mechatronics
@@ -271,113 +342,29 @@ ii. FPGA
 (2/2)
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper 6cd8e79be2bd
+## 2017-18 · Final-Exam · Sem 3 · paper b8db9685d923
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/DIGITAL ELECTRONICS/DIGITAL ELECTRONICS BATCH 16-17 17-18 RE EXAM 2017-18.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 31 May 2018
-- Text: ocr (2 pages), mean OCR confidence 87.1
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/DIGITAL ELECTRONICS/DIGITAL ELECTRONICS (MECHATRONICS), FINAL EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 90.1
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Mechatronics) Year: II Semester: III
+a
+Programme: B. Tech (MECHATRONICS) 7 Year: II » Semester: III ~
+f Academic Year: 2017-2018 _ 5
+Subject: Digital Electronics ~ eo aes, :
+Marks: 70 ~ 2°, ae
+Date: 30 November 2017 ~ Time: 10.00 am*fo 1.00 pr “29 Y= \
+Durations: 3¢hry'* ART go >
 
-Batch: 2016-17 / 2017-18
-a Academic Year: 2017-2018
+No. of Pages:
+Final-Examination
 
-Subject: Digital Electronics
-
-ar eo Marks: 70 «
-Date: 31 May 2018 Time: 2.00 pm
-~ Pa Durations: 3 (h:
-No. of Pages: _O
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-~ Qu 1) Solve any four Question Marks
-a) Using 2’compliment method find (25), - 48).= (yo (3.5:'* 4)
-b) Perform the following function using BCD ai ition (45)ecp+ (55)scp =(?)s
-
-c) Construct 3 X 8 Decoder using 2 X 4 Decoder
-d) Draw the truth table and Characteristic table od JK flip flop
-e) 1110011 message is received “at the receiver. Find the error in the message using even parity.
-
-Qu 2 a) Minimize the following function using K map 7
-G) f(a,b,c,d) = Y'm( 1,3,5,8,9,11,15) +d (2,13)
-(ii) f(a,b,c,d) = aM(1, 2, 3, 8,9, 10, 11, 14). d (7,15)
-
-Qu2 b) Design a full subtractor circuit using logic gate. 7
-Qu 3a) Design a BCD to Ex-3 code using logic gate. 7
-Qu 3b) Design a BCD adder circuit. 7
-Qu 4a) Design a 2 bit magnitude comparator using appropriate Decoder Circuit. 7
-Qu 4b) Design a 16:1 MUX using 7
-i) 8:1 MUX
-ii) 4:1 MUX
-satel 7
-Q.5 a) Design an asynchronous BCD counter using JK flip flops. 7
-
-ge b) Using single 8:1 mux implement the following expression.
-F(A, B, C, D) = Xm (0, 2, 3,6, 8, 9,12,14)
-
-Page 1 of 2
---- page 2 ---
-Q.6 a) What is flip-flop? Develop D flip flop using SR flip flop. 7
-
-Québ) Design and explain universal shift register. 7
-Qu 7a) Explain the Read and Write Operation of Memory 7
-Qu 7b) Implement following function using PLA 7
-
-Fl (a,b,c) = )}m(4,5,7) , F2 (a,b,c) = )m( 3,5,7)
-
-Page 2 of 2
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper f0f4fe4bfb9f
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/DIGITAL ELECTRONICS/DIGITAL ELECTRONICS BATCH 16-17, 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 20 November 2018
-- Text: ocr (1 page), mean OCR confidence 89.0
-
-````text
-. SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: II _ Semester: [
-. AS
-
-Academic Year: 2018-2019
-
-Subject: Digital Electronics
-
-< Marks: 70 .
-Date: 20 November 2018 y Time: 2.00 Bx
-, Durations: 3 (
-No. of Pages :
-Re-examination (2016-17 / 2017-18)
-
-4
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
 
@@ -391,39 +378,47 @@ cover of the Answer Book, which is provided for their use.
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary.
 
-Q.1 a) Convert the following: 04
-i) (231.25) = (?)10 ii) (542)acp = (?)xs-3
-b) Compare Combinational and Sequential circuits. 02
-c) Implement an OR gate using only NAND gates. 04
-d) Distinguish between PLA and PAL 04
-Q.2 a) Simplify the following Boolean functions using Quine McClusky method. 07
-F (W, X, ¥, Z) =Em (1, 3, 13, 15) + Sd(8,9,10,1'1)
-b) . State and prove DeMorgan’s Theorems. 07
-Q3 a) Design & implement 4-bit Binary to Gray code converter. 07
+Q.1 a) Compare Combinational and Sequential circuit 04
+b) Convert the following 04
+i) (228.6 )io = (? die li) (12F.C n= (2 Js
+
+c) Implement an XOR gate using only NAND gates. 04
+
+d) What is modulus of a counter 2 02
+
+Q.2 a) Implement full adder circuit using 8:1 mux. 07
+b) Explain and prove De Morgan’s theorem. 07
+
+3 a) Design & implement 4-bit Binary to Gray code converter. 07
 b) Minimize the following Boolean expression using K-map simplification technique to get 07
 
-minimal expression: Y = f(a,b,c,d) = 2m (1, 3, 4, 5, 7, 8, 9, 11, 15),@lso implement using
+minimal expression: Y = f(4, B,C, D) = Xm (1, 5, 7,12, 15) + d(0,3,4) lso implement using
 basic gates.
 
-Q.4 a) Design MOD-3 ripple up counter using JK flip flop and draw its timing diagram. 07
-b) Implement F (A, B, C, D) = Xm (0, 2, 3, 6, 8, 9, 12, 14) using single 8:1 mux. 07
-Q.5 a) Draw and explain 4 bit serial in serial out shift register with waveform. 07
-b) What is a Full Subtractor? Design full Subtractor circuit using logic gates. 07
-pearl
-at Q.6 a) Whatis flip-flop? Develop JK flip flop using SR flip flop. 07
-b) Draw and explain Master-Slave JK flip flop with timing diagram. 07
-Q.7 Write short notes on any two. . 14
-i) VHDL.
-ii) Boolean laws and properties
-iii) Classification of semiconductor memories and comparison of SRAM with DRAM.
-*
+Q4 a) Design Asynchronous Decade counter using T flip flop and draw its timing diagram. 07
 
+b) Implement F(A, B, C, D) = Xm (0, 2, 5,6, 7, 9,12,15) using single 8:1 mux. 07
+pea Q.5 a) Explain the working of serial in parallel out shift register with logic Diagram and 07
+F waveforms.
+b) What is a binary comparator? Design & implement 2-bit magnitude comparator. 07
 1
+2
+--- page 2 ---
+}
+J
+Q.6 a) What is flip-flop? Convert JK flip flop to D and T flip flop. 07
+b) Explain working of 4-bit Johnson Counter. 07
+Q.7 Write short notes on any two. 14
+
+i) Master-Slave J-K Flip-Flop
+ii) Data flow style of Modeling in VHDL
+
+iii) Full Subtractor
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 62d09a992dd8
+## 2017-18 · Re-Exam · Sem 3 · paper 62d09a992dd8
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -517,6 +512,168 @@ Ops
 
 [10]
 [4]
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 6cd8e79be2bd
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/DIGITAL ELECTRONICS/DIGITAL ELECTRONICS BATCH 16-17 17-18 RE EXAM 2017-18.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 31 May 2018
+- Text: ocr (2 pages), mean OCR confidence 87.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Mechatronics) Year: II Semester: III
+
+Batch: 2016-17 / 2017-18
+a Academic Year: 2017-2018
+
+Subject: Digital Electronics
+
+ar eo Marks: 70 «
+Date: 31 May 2018 Time: 2.00 pm
+~ Pa Durations: 3 (h:
+No. of Pages: _O
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+~ Qu 1) Solve any four Question Marks
+a) Using 2’compliment method find (25), - 48).= (yo (3.5:'* 4)
+b) Perform the following function using BCD ai ition (45)ecp+ (55)scp =(?)s
+
+c) Construct 3 X 8 Decoder using 2 X 4 Decoder
+d) Draw the truth table and Characteristic table od JK flip flop
+e) 1110011 message is received “at the receiver. Find the error in the message using even parity.
+
+Qu 2 a) Minimize the following function using K map 7
+G) f(a,b,c,d) = Y'm( 1,3,5,8,9,11,15) +d (2,13)
+(ii) f(a,b,c,d) = aM(1, 2, 3, 8,9, 10, 11, 14). d (7,15)
+
+Qu2 b) Design a full subtractor circuit using logic gate. 7
+Qu 3a) Design a BCD to Ex-3 code using logic gate. 7
+Qu 3b) Design a BCD adder circuit. 7
+Qu 4a) Design a 2 bit magnitude comparator using appropriate Decoder Circuit. 7
+Qu 4b) Design a 16:1 MUX using 7
+i) 8:1 MUX
+ii) 4:1 MUX
+satel 7
+Q.5 a) Design an asynchronous BCD counter using JK flip flops. 7
+
+ge b) Using single 8:1 mux implement the following expression.
+F(A, B, C, D) = Xm (0, 2, 3,6, 8, 9,12,14)
+
+Page 1 of 2
+--- page 2 ---
+Q.6 a) What is flip-flop? Develop D flip flop using SR flip flop. 7
+
+Québ) Design and explain universal shift register. 7
+Qu 7a) Explain the Read and Write Operation of Memory 7
+Qu 7b) Implement following function using PLA 7
+
+Fl (a,b,c) = )}m(4,5,7) , F2 (a,b,c) = )m( 3,5,7)
+
+Page 2 of 2
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper fbbbbea5df1f
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/DIGITAL ELECTRONICS/DIGITAL ELECTRONICS B TECH (MECHATRONICS), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 90.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Mechatronics) Year: II Semester: III
+Batch: 2014-2015
+Academic Year: 2015-2016
+
+Subject: Digital Electronics
+Marks:
+Date: 02/12/2015 Time:
+Duration:
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the
+
+question paper and on the cover of the Answer Book, which is provided for their
+use.
+
+4)Question No. One is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+-6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data, if required.
+
+8) No calculators allowed.
+
+QI. Answer any four of the following. (3 Marks each ).
+la: Convert decimal number 101.8 to binary, octal and hexadecimal.
+_ 1b: What is Hamming code? Write Hamming code for data 1101. If one bit is lost
+at the receiving end, how is it corrected?
+1c: What are universal gates? Implement XOR operation using universal gates.
+1d: For two 1-bit binary numbers A and B design a magnitude comparator.
+le: Describe a basic memory cell.
+
+Q2: What is minterm and maxterm? Simplify the given function using k-map and
+implement it as a SOP using AND/OR gates and also implement using all
+pecs NAND gates. F=0) m( 0,3,8,9,13,14,15) Ci]
+
+t/a
+--- page 2 ---
+anak
+
+Qs: Design 4 binary to Gray Coge and Gray to binary code Converters. cigg
+
+Q4: Design a binary Full adder using a)Two half adders b) Using minimum
+number of gates c) Using all NAND gates. Cie]
+
+Q5 a: Compare combinational circuits with sequential circuits Lal
+
+Q5 b: What is a SR Flip flop? Write the state table. Draw the state transition
+diagram and circuit using NAND gates and circuit using NOR gates. £9]
+
+Q 6a: What is a T Flip Flop? Convert SR flip flop to T flip flop. cat
+
+Q6b: Design a binary asynchronous decade counter using T Flip Flops. Draw the
+waveforins. cq
+
+Q7 a: What is a serial input serial output shift register? Using a shift register design
+a ring counter. cq
+
+Q7 b: What is bubble memory? Explain. cay
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper cbe5450aff3c
@@ -772,161 +929,4 @@ v) Bubble Memory
 SS.
 
 In
-````
-
-## 2014-15 · Re-Exam · Sem 3 · paper fbbbbea5df1f
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/DIGITAL ELECTRONICS/DIGITAL ELECTRONICS B TECH (MECHATRONICS), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 90.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Mechatronics) Year: II Semester: III
-Batch: 2014-2015
-Academic Year: 2015-2016
-
-Subject: Digital Electronics
-Marks:
-Date: 02/12/2015 Time:
-Duration:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the
-
-question paper and on the cover of the Answer Book, which is provided for their
-use.
-
-4)Question No. One is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
--6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data, if required.
-
-8) No calculators allowed.
-
-QI. Answer any four of the following. (3 Marks each ).
-la: Convert decimal number 101.8 to binary, octal and hexadecimal.
-_ 1b: What is Hamming code? Write Hamming code for data 1101. If one bit is lost
-at the receiving end, how is it corrected?
-1c: What are universal gates? Implement XOR operation using universal gates.
-1d: For two 1-bit binary numbers A and B design a magnitude comparator.
-le: Describe a basic memory cell.
-
-Q2: What is minterm and maxterm? Simplify the given function using k-map and
-implement it as a SOP using AND/OR gates and also implement using all
-pecs NAND gates. F=0) m( 0,3,8,9,13,14,15) Ci]
-
-t/a
---- page 2 ---
-anak
-
-os Dassiens tamer ta (marr Cada aad (Crag ta Kinard codie Canvertor =
-Qs: Design 4 binary to Gray Coge and Gray to binary code Converters. cigg
-
-Q4: Design a binary Full adder using a)Two half adders b) Using minimum
-number of gates c) Using all NAND gates. Cie]
-
-Q5 a: Compare combinational circuits with sequential circuits Lal
-
-Q5 b: What is a SR Flip flop? Write the state table. Draw the state transition
-diagram and circuit using NAND gates and circuit using NOR gates. £9]
-
-Q 6a: What is a T Flip Flop? Convert SR flip flop to T flip flop. cat
-
-Q6b: Design a binary asynchronous decade counter using T Flip Flops. Draw the
-waveforins. cq
-
-Q7 a: What is a serial input serial output shift register? Using a shift register design
-a ring counter. cq
-
-Q7 b: What is bubble memory? Explain. cay
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper b8db9685d923
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/DIGITAL ELECTRONICS/DIGITAL ELECTRONICS (MECHATRONICS), FINAL EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 90.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-a
-Programme: B. Tech (MECHATRONICS) 7 Year: II » Semester: III ~
-f Academic Year: 2017-2018 _ 5
-Subject: Digital Electronics ~ eo aes, :
-Marks: 70 ~ 2°, ae
-Date: 30 November 2017 ~ Time: 10.00 am*fo 1.00 pr “29 Y= \
-Durations: 3¢hry'* ART go >
-
-No. of Pages:
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 a) Compare Combinational and Sequential circuit 04
-b) Convert the following 04
-i) (228.6 )io = (? die li) (12F.C n= (2 Js
-
-c) Implement an XOR gate using only NAND gates. 04
-
-d) What is modulus of a counter 2 02
-
-Q.2 a) Implement full adder circuit using 8:1 mux. 07
-b) Explain and prove De Morgan’s theorem. 07
-
-3 a) Design & implement 4-bit Binary to Gray code converter. 07
-b) Minimize the following Boolean expression using K-map simplification technique to get 07
-
-minimal expression: Y = f(4, B,C, D) = Xm (1, 5, 7,12, 15) + d(0,3,4) lso implement using
-basic gates.
-
-Q4 a) Design Asynchronous Decade counter using T flip flop and draw its timing diagram. 07
-
-b) Implement F(A, B, C, D) = Xm (0, 2, 5,6, 7, 9,12,15) using single 8:1 mux. 07
-pea Q.5 a) Explain the working of serial in parallel out shift register with logic Diagram and 07
-F waveforms.
-b) What is a binary comparator? Design & implement 2-bit magnitude comparator. 07
-1
-2
---- page 2 ---
-}
-J
-Q.6 a) What is flip-flop? Convert JK flip flop to D and T flip flop. 07
-b) Explain working of 4-bit Johnson Counter. 07
-Q.7 Write short notes on any two. 14
-
-i) Master-Slave J-K Flip-Flop
-ii) Data flow style of Modeling in VHDL
-
-iii) Full Subtractor
 ````

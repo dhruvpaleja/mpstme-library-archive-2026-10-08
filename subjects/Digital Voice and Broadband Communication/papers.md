@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_EXTC_7006/Digital Voice and Broadband Communication/QP_Digital Voice and Broadband Communication(702EX0C027)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -116,6 +117,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Digital Voice and Broadband Communication/QP_Digital Voice and Broadband Communication(702EX0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -2473,6 +2475,77 @@ NB 0.01 005 01 O85 1.0 2 5 10 15 20 30 40
 fage 3 3
 ````
 
+## 2018-19 · Re-Exam · Sem 8 · paper 3afb0ca884ca
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_08/DIGITAL VOICE AND BROADBAND COMMUNICATION/DIGITAL VOICE AND BROADBAND COMMUNICATION BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 12 June 2019
+- Text: ocr (2 pages), mean OCR confidence 84.5
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B. Tech (EXTC) ” Year: TV Semester: VII
+Academic Year: 2018-2019
+
+Subject: Digital Voice and Broadband Communication - Marks: 60 Kr
+S
+Date : 12 June 2019 _— Time2.00 pm 5/00 pMPST aE -
+Duration: 3 (hrXe\ BRARY
+ON
+; No. of Pages: LO ae Y
+, eS UNIVERSIT' Zs
+Re-Examination (2017-18) Ss
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) QueStion No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Qi Attempt any two question . (12)
+
+a | Determining the probability of j or more arrivals in t second in Poisson arrival | (6)
+
+distribution.
+b_ | Explain the pulse stuffing concept. (6)
+¢ | Discuss the advantages and disadvantages of multi-protocol label switching. , - (6)
+Q2 |a_ | Explain the lost call cleared system. . (6)
+b_ | Explain the multi-channel PCM. (6)
+Q3 |a_ | Explain the functions of digital switching. (6)
+b_ | Explain the concept of digital memory switch. (6)
+Q4 |a_ | Discuss the benefits and advantages of I SDN. (6)
+b_ | Explain the ISDN frame structure. (6)
+
+Page 1 of 2
+--- page 2 ---
+Q5 a | Explain the access network architecture. (7)
+
+b_ | Draw and explain the carrierless amplitude and phase modulation. Discuss the (5)
+
+advantages of CAP over DMT.
+
+Q6 |a_ | Explain the functions of RTP header fields. (6)
+b_ | Explain the SONET frame format structure. (6)
+Q7 |a_ | Compare BPON, GOPN and EPON. . (5)
+b | Explain broadband PON architecture. (7)
+—
+Page 2 of 2
+````
+
 ## 2018-19 · Re-Exam · Sem 8 · paper 11f48a392b74
 
 - Departments: Electronics and Telecommunication
@@ -2749,75 +2822,4 @@ Page 2 of 2
 
 (5)
 (7)
-````
-
-## 2017-18 · Re-Exam · Sem 8 · paper 3afb0ca884ca
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_08/DIGITAL VOICE AND BROADBAND COMMUNICATION/DIGITAL VOICE AND BROADBAND COMMUNICATION BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 12 June 2019
-- Text: ocr (2 pages), mean OCR confidence 84.5
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program B. Tech (EXTC) ” Year: TV Semester: VII
-Academic Year: 2018-2019
-
-Subject: Digital Voice and Broadband Communication - Marks: 60 Kr
-S
-Date : 12 June 2019 _— Time2.00 pm 5/00 pMPST aE -
-Duration: 3 (hrXe\ BRARY
-ON
-; No. of Pages: LO ae Y
-, eS UNIVERSIT' Zs
-Re-Examination (2017-18) Ss
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) QueStion No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qi Attempt any two question . (12)
-
-a | Determining the probability of j or more arrivals in t second in Poisson arrival | (6)
-
-distribution.
-b_ | Explain the pulse stuffing concept. (6)
-¢ | Discuss the advantages and disadvantages of multi-protocol label switching. , - (6)
-Q2 |a_ | Explain the lost call cleared system. . (6)
-b_ | Explain the multi-channel PCM. (6)
-Q3 |a_ | Explain the functions of digital switching. (6)
-b_ | Explain the concept of digital memory switch. (6)
-Q4 |a_ | Discuss the benefits and advantages of I SDN. (6)
-b_ | Explain the ISDN frame structure. (6)
-
-Page 1 of 2
---- page 2 ---
-Q5 a | Explain the access network architecture. (7)
-
-b_ | Draw and explain the carrierless amplitude and phase modulation. Discuss the (5)
-
-advantages of CAP over DMT.
-
-Q6 |a_ | Explain the functions of RTP header fields. (6)
-b_ | Explain the SONET frame format structure. (6)
-Q7 |a_ | Compare BPON, GOPN and EPON. . (5)
-b | Explain broadband PON architecture. (7)
-—
-Page 2 of 2
 ````

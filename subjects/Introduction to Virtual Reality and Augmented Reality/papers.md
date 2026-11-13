@@ -4,6 +4,65 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Final-Exam · Sem 5 · paper 15e613b3fb56
+
+- Departments: Computer Engineering, Data Science
+- Programmes: BTech Computer 7002, BTech CSE DS 7057, MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/MBATech_Computer_7047/Introduction to Virtual Reality and Aug_6840e7e0/QP_Introduction to Virtual Reality and Augmented Reality(702MH0I004)_2024-2025.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: mixed (2 pages), mean OCR confidence 75.1
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE -
+CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech Intg.
+(DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech (MECH)/MBA Tech
+(AI)/MBA Tech (Comp)/MBA Tech (IT)
+Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
+Subject: Introduction to Virtual Reality and Augmented Reality
+Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Solve any 4 from Section 2.
+6. In all 5 questions to be attempted.
+7. Assume Suitable data if necessary.
+Q1. Short Answer Questions (4 × 5 = 20 Marks)
+(a) Define Augmented Reality and Virtual Reality. Mention one engineering application of each.
+(b) Explain the function of Gesture Tracking in AR/VR systems. How does MediaPipe assist in this process?
+(c) Differentiate between Strong AR and Weak AR. Provide an example of each.
+(d) List any four challenges in achieving real-time performance in VR applications.
+Q2 (20 Marks)
+Explain the workflow of developing a VR laboratory simulator using Unity and Meta XR SDK.
+Include environment setup, user movement logic, input mapping, and frame-rate optimization for Meta Quest.
+Q3 (a) & (b) (10 + 10 = 20 Marks)
+(a) Describe how MediaPipe hand tracking can control object movement in a Unity VR scene.Outline the data
+flow from camera input to object response.
+(b) Explain how Lighting, Shaders, and Materials contribute to realism in VR. Discuss performance trade-offs.
+Q4 (a) & (b) (10 + 10 = 20 Marks)
+(a) Compare AR, VR, and Mixed Reality environments with reference to user interaction and tracking needs.
+(b) How would you design a gesture-controlled menu inside a VR game? Explain conceptual blocks and data
+flow.
+Q5 (20 Marks)
+Scene Scenario: Design an AR-based vehicle maintenance assistant using Unity + AR Foundation. Describe scene
+setup, overlay logic, control and deployment strategy.
+Q6 (20 Marks)
+VR Game Scenario: Conceptualize a gesture-controlled VR obstacle-avoidance game.
+Explain how gesture data from MediaPipe controls player motion, environment interaction, and scoring.
+Q7 (20 Marks)
+Describe the deployment process of a VR application using Unity and Meta Quest.
+********** 1 **********
+--- page 2 ---
+Explain build targets, device profiling, testing, and user safety optimization.
+
+FIC 2 I HH ar
+````
+
 ## 2025-26 · Final-Exam · Sem 3 · paper 3033145f3923
 
 - Departments: Computer Applications (MCA)
@@ -1866,6 +1925,7 @@ FIC 2 I HH ar
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/INTRODUCTION TO VIRTUAL REALITY & AUGME_5c1c45e5/Introduction to Virtual Reality and Augmented Reality 2025-26 Final.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 82.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1933,7 +1993,6 @@ VR Game Scenario: Conceptualize a gesture-controlled VR obstacle-avoidance game.
 Explain how gesture data from MediaPipe controls player motion, environment interaction, and scoring.
 Q7 (20 Marks)
 Describe the deployment process of a VR application using Unity and Meta Quest.
-RRA AKA AE 1 RRKKAK KEKE
 
 ¢
 
@@ -1951,6 +2010,7 @@ Explain build targets, device profiling, testing, and user safety optimization.
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/Introduction to virtual Reality and Aug_6853c0da/Introdcution to Virtual Reality and Augmented Reality 2025-26 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 87.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ———
@@ -2023,7 +2083,6 @@ VR Game Scenario: Design a concept for a VR “Target Shooting” experience in 
 to illustrate how you would manage input (GetButton), instantiate targets, detect hits (OnCollisionEnter),
 
 and update scores.
-RRR KR RR EK 1 ORR RR ER KK
 
 —
 --- page 2 ---
@@ -2351,6 +2410,7 @@ device testing.
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/MBATech_Computer_7047/Introduction to Virtual Reality and Aug_6840e7e0/QP_Introduction to Virtual Reality and Augmented Reality(702MH0I004)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -2530,63 +2590,194 @@ device testing.
 ********** 2 **********
 ````
 
-## 2024-25 · Final-Exam · Sem 5 · paper 15e613b3fb56
+## 2024-25 · Exam not stated · Sem 9 · paper 495e8f19de2d
 
-- Departments: Computer Engineering, Data Science
-- Programmes: BTech Computer 7002, BTech CSE DS 7057, MBATech Computer 7047
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/MBATech_Computer_7047/Introduction to Virtual Reality and Aug_6840e7e0/QP_Introduction to Virtual Reality and Augmented Reality(702MH0I004)_2024-2025.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
-- Text: mixed (2 pages), mean OCR confidence 75.1
+- Departments: Computer Engineering, Mechanical
+- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Introduction to virtual Reality and Aug_6853c0da/Introduction to virtual Reality and Augmented Reality Ba0001.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 91.2
 
 ````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE -
-CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech Intg.
-(DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech (MECH)/MBA Tech
-(AI)/MBA Tech (Comp)/MBA Tech (IT)
-Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
-Subject: Introduction to Virtual Reality and Augmented Reality
-Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 2 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Solve any 4 from Section 2.
-6. In all 5 questions to be attempted.
-7. Assume Suitable data if necessary.
-Q1. Short Answer Questions (4 × 5 = 20 Marks)
-(a) Define Augmented Reality and Virtual Reality. Mention one engineering application of each.
-(b) Explain the function of Gesture Tracking in AR/VR systems. How does MediaPipe assist in this process?
-(c) Differentiate between Strong AR and Weak AR. Provide an example of each.
-(d) List any four challenges in achieving real-time performance in VR applications.
-Q2 (20 Marks)
-Explain the workflow of developing a VR laboratory simulator using Unity and Meta XR SDK.
-Include environment setup, user movement logic, input mapping, and frame-rate optimization for Meta Quest.
-Q3 (a) & (b) (10 + 10 = 20 Marks)
-(a) Describe how MediaPipe hand tracking can control object movement in a Unity VR scene.Outline the data
-flow from camera input to object response.
-(b) Explain how Lighting, Shaders, and Materials contribute to realism in VR. Discuss performance trade-offs.
-Q4 (a) & (b) (10 + 10 = 20 Marks)
-(a) Compare AR, VR, and Mixed Reality environments with reference to user interaction and tracking needs.
-(b) How would you design a gesture-controlled menu inside a VR game? Explain conceptual blocks and data
-flow.
-Q5 (20 Marks)
-Scene Scenario: Design an AR-based vehicle maintenance assistant using Unity + AR Foundation. Describe scene
-setup, overlay logic, control and deployment strategy.
-Q6 (20 Marks)
-VR Game Scenario: Conceptualize a gesture-controlled VR obstacle-avoidance game.
-Explain how gesture data from MediaPipe controls player motion, environment interaction, and scoring.
-Q7 (20 Marks)
-Describe the deployment process of a VR application using Unity and Meta Quest.
-********** 1 **********
---- page 2 ---
-Explain build targets, device profiling, testing, and user safety optimization.
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT “2
+Academic Year: 2024-2025
 
-FIC 2 I HH ar
+Program/s: MCA /B. Tech / MBA Tech/ BTI Year: II / I/ V °
+Stream/s : All applicable branches / MECHA /COMP Semester: II / V / Ix
+Subject: Introduction to Virtual Reality and Augmented Reality Time: 03 hrs Clozooam te 4200p)
+Date: 257/ 2 /2024— No. of Pages: 03
+Marks: 100
+
+Re Examination
+
+Instructions: Candidates should read carefuily the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+ey
+
+Ql Answer briefly: [20]
+CO - 01; State the basic principles of a holographic display.
+SO - 02; a. Explain how holographic displays work and fist some real-world (05)
+BL-02 applications where holography is currently being used
+CO -02: Compare the advantages and disadvantages of Virtual Reality (VR) and (05)
+50 - 02: b. Augmented Reality (AR) in educational settings.
+BL-04. Discuss at least three key differences, including engagement, cost, and
+technical requirements, and provide real-world examples.
+CO - 03: Demonstrate how to implement gesture control in an AR application using (05)
+50 - 02. } a mobile device.
+BL-03 , Outline the key steps, including specific tools or frameworks, and discuss
+potential challenges during development.
+CO -04: Critically assess the impact of AR in healthcare, particularly in surgical (05)
+50 - ot. d. training and planning.
+BL-02 , Evaluate the effectiveness of AR tools by discussing both their benefits and
+limitations, citing examples of current applications.
+Q2 | (20)
+CO - 03; Design a Virtual Reality (VR) science lab simulation in Unity where students can
+SO-01; perform physics experiments, such as understanding the laws of motion or gravity.
+BL- 06 The simulation should be immersive, allowing students to interact with lab equipment,
+--- page 2 ---
+»
+
+manipulate variables, and observe real-time results in a virtual environment. (4M
+each)
+
+¢ Game Concept: Define the educational goals and core player interactions
+within the lab setting.
+
+¢ Lab Environment and Setup: Describe the design of the virtual lab, including
+the setup of experiments and equipment.
+
+e Interaction Mechanics: Explain how players will conduct experiments.
+
+e Feedback and Evaluation: Discuss how students will receive feedback, both
+visual and auditory, on their experiment outcomes.
+
+e Optimization and Testing: Outline the process for optimizing the simulation
+for different VR platforms and ensuring usability in an educational context.
+
+Q3 | [20]
+How would you critically evaluate the process of designing an Extended Reality (XR)
+application using Quest 2, Unity, and the Meta XR all-in-one package to raise
+awareness about homelessness and its social impact? The application should provide
+an immersive experience where users navigate through virtual environments such as
+shelters, streets, and community centers, interacting with stories and situations faced
+by homeless individuals. Break down your evaluation into the following aspects:
+
+¢ Concept and Objectives: Assess the social impact goals of the application,
+focusing on how well it raises awareness about homelessness and fosters
+empathy among users. Consider how effectively the user experience conveys
+the challenges and realities of homelessness. (05M)
+
+e Environment Setup and Scene Transitions: Evaluate the design and. logic for
+
+CO -02: setting up the different environments (e.g., shelters, streets) in Unity, and how
+
+50-0 1. effectively users transition between these scenes to understand different
+
+BL- 05 7 aspects of homelessness. (05M)
+
+e User Interaction with Virtual Scenarios: Analyze the programming logic
+behind user interactions, such as engaging with stories, making decisions in
+difficult situations, or interacting with virtual characters. How do these
+interactions enhance understanding and empathy for the homeless experience?
+(05M)
+
+e Feedback and User Engagement: Critique the feedback mechanisms (e.g.,
+audio cues, text prompts, or visual reactions) that guide users and reinforce the
+social message. How effectively does the application maintain engagement
+while delivering a strong social message? (03M)
+
+e Optimization for Quest 2: Evaluate the optimization strategies used to ensure
+the application runs smoothly on Quest 2, focusing on performance,
+accessibility, and user comfort during extended play. (02M)
+
+Q4 : | [20]
+
+CO - 03; How would you design an Augmented Reality (AR) application using Unity to
+
+SO - 02; promote road safety by educating users on traffic rules and safe driving habits? The
+
+BL-04 application should allow users to scan real-world road signs and objects, providing
+--- page 3 ---
+¥
+
+interactive safety tips and guidelines. Break down your response into the following
+aspects:
+
+e Concept and Objectives: How would the AR application educate users about
+road safety? What safety aspects will it focus on? (05M)
+
+e Environment and Object Recognition: How would you implement object
+recognition for road signs and objects in Unity? How would the application
+detect and recognize these objects? (05M)
+
+e User Interaction: How would users interact with the AR application, and what
+features would trigger safety tips when scanning road signs? (05M)
+
+e Educational Feedback: How will the application provide real-time feedback,
+such as text or visuals, to educate users on traffic rules and safe driving?
+(03M)
+
+e Impact on Road Safety Awareness: How could this AR application influence
+
+user behavior and improve awareness about road safety? (02M)
+
+os [20]
+
+CO -04: How would you apply different lighting techniques in Unity to enhance the (10)
+
+so - a1. a. visual quality and immersion of an AR/VR application? Your answer should
+
+BL-03 , cover both real-time and baked lighting approaches, focusing on their use
+in dynamic environments and static scenes.
+
+CO - 04; How would you analyze the design process of creating immersive VR (10)
+
+S50 - 01: b. environments and interactions in a VR application? Your analysis should
+
+BL - 04. focus on how spatial design, user interaction, and_ technical
+implementation contribute to user comfort, immersion, and engagement. |
+
+Aa ‘ | [20]
+
+: a a. Explain the basic scripting needed to manipulate object movement in (15)
+
+BL-02 Unity.
+
+CO - 04; (05)
+
+SO - 01; b. List the features of AR.
+
+BL-02
+
+Q7 [20]
+
+CO - 04; How would you apply a 3D model imported from the Unity Asset Store into (10)
+
+SO - 01; a. your existing Unity project? Describe the steps from importing the model
+
+BL-03 to integrating it into the scene, ensuring it aligns with your project’s
+environment and functionality. .
+
+CO - 04; (10)
+
+SO - 01; b. Explain the steps to setup an XR project in Unity.
+
+BL- 02 :
 ````
 
 ## 2024-25 · Final-Exam · Sem 3 · paper 18c425b6b93d
@@ -4406,194 +4597,4 @@ U How do AR ,VR AND Robotics work together? [10] | COl
 X
 
 2/2
-````
-
-## Year not stated · Exam not stated · Sem 9 · paper 495e8f19de2d
-
-- Departments: Computer Engineering, Mechanical
-- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Introduction to virtual Reality and Aug_6853c0da/Introduction to virtual Reality and Augmented Reality Ba0001.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 91.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT “2
-Academic Year: 2024-2025
-
-Program/s: MCA /B. Tech / MBA Tech/ BTI Year: II / I/ V °
-Stream/s : All applicable branches / MECHA /COMP Semester: II / V / Ix
-Subject: Introduction to Virtual Reality and Augmented Reality Time: 03 hrs Clozooam te 4200p)
-Date: 257/ 2 /2024— No. of Pages: 03
-Marks: 100
-
-Re Examination
-
-Instructions: Candidates should read carefuily the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-ey
-
-Ql Answer briefly: [20]
-CO - 01; State the basic principles of a holographic display.
-SO - 02; a. Explain how holographic displays work and fist some real-world (05)
-BL-02 applications where holography is currently being used
-CO -02: Compare the advantages and disadvantages of Virtual Reality (VR) and (05)
-50 - 02: b. Augmented Reality (AR) in educational settings.
-BL-04. Discuss at least three key differences, including engagement, cost, and
-technical requirements, and provide real-world examples.
-CO - 03: Demonstrate how to implement gesture control in an AR application using (05)
-50 - 02. } a mobile device.
-BL-03 , Outline the key steps, including specific tools or frameworks, and discuss
-potential challenges during development.
-CO -04: Critically assess the impact of AR in healthcare, particularly in surgical (05)
-50 - ot. d. training and planning.
-BL-02 , Evaluate the effectiveness of AR tools by discussing both their benefits and
-limitations, citing examples of current applications.
-Q2 | (20)
-CO - 03; Design a Virtual Reality (VR) science lab simulation in Unity where students can
-SO-01; perform physics experiments, such as understanding the laws of motion or gravity.
-BL- 06 The simulation should be immersive, allowing students to interact with lab equipment,
---- page 2 ---
-»
-
-manipulate variables, and observe real-time results in a virtual environment. (4M
-each)
-
-¢ Game Concept: Define the educational goals and core player interactions
-within the lab setting.
-
-¢ Lab Environment and Setup: Describe the design of the virtual lab, including
-the setup of experiments and equipment.
-
-e Interaction Mechanics: Explain how players will conduct experiments.
-
-e Feedback and Evaluation: Discuss how students will receive feedback, both
-visual and auditory, on their experiment outcomes.
-
-e Optimization and Testing: Outline the process for optimizing the simulation
-for different VR platforms and ensuring usability in an educational context.
-
-Q3 | [20]
-How would you critically evaluate the process of designing an Extended Reality (XR)
-application using Quest 2, Unity, and the Meta XR all-in-one package to raise
-awareness about homelessness and its social impact? The application should provide
-an immersive experience where users navigate through virtual environments such as
-shelters, streets, and community centers, interacting with stories and situations faced
-by homeless individuals. Break down your evaluation into the following aspects:
-
-¢ Concept and Objectives: Assess the social impact goals of the application,
-focusing on how well it raises awareness about homelessness and fosters
-empathy among users. Consider how effectively the user experience conveys
-the challenges and realities of homelessness. (05M)
-
-e Environment Setup and Scene Transitions: Evaluate the design and. logic for
-
-CO -02: setting up the different environments (e.g., shelters, streets) in Unity, and how
-
-50-0 1. effectively users transition between these scenes to understand different
-
-BL- 05 7 aspects of homelessness. (05M)
-
-e User Interaction with Virtual Scenarios: Analyze the programming logic
-behind user interactions, such as engaging with stories, making decisions in
-difficult situations, or interacting with virtual characters. How do these
-interactions enhance understanding and empathy for the homeless experience?
-(05M)
-
-e Feedback and User Engagement: Critique the feedback mechanisms (e.g.,
-audio cues, text prompts, or visual reactions) that guide users and reinforce the
-social message. How effectively does the application maintain engagement
-while delivering a strong social message? (03M)
-
-e Optimization for Quest 2: Evaluate the optimization strategies used to ensure
-the application runs smoothly on Quest 2, focusing on performance,
-accessibility, and user comfort during extended play. (02M)
-
-Q4 : | [20]
-
-CO - 03; How would you design an Augmented Reality (AR) application using Unity to
-
-SO - 02; promote road safety by educating users on traffic rules and safe driving habits? The
-
-BL-04 application should allow users to scan real-world road signs and objects, providing
---- page 3 ---
-¥
-
-interactive safety tips and guidelines. Break down your response into the following
-aspects:
-
-e Concept and Objectives: How would the AR application educate users about
-road safety? What safety aspects will it focus on? (05M)
-
-e Environment and Object Recognition: How would you implement object
-recognition for road signs and objects in Unity? How would the application
-detect and recognize these objects? (05M)
-
-e User Interaction: How would users interact with the AR application, and what
-features would trigger safety tips when scanning road signs? (05M)
-
-e Educational Feedback: How will the application provide real-time feedback,
-such as text or visuals, to educate users on traffic rules and safe driving?
-(03M)
-
-e Impact on Road Safety Awareness: How could this AR application influence
-
-user behavior and improve awareness about road safety? (02M)
-
-os [20]
-
-CO -04: How would you apply different lighting techniques in Unity to enhance the (10)
-
-so - a1. a. visual quality and immersion of an AR/VR application? Your answer should
-
-BL-03 , cover both real-time and baked lighting approaches, focusing on their use
-in dynamic environments and static scenes.
-
-CO - 04; How would you analyze the design process of creating immersive VR (10)
-
-S50 - 01: b. environments and interactions in a VR application? Your analysis should
-
-BL - 04. focus on how spatial design, user interaction, and_ technical
-implementation contribute to user comfort, immersion, and engagement. |
-
-Aa ‘ | [20]
-
-: a a. Explain the basic scripting needed to manipulate object movement in (15)
-
-BL-02 Unity.
-
-CO - 04; (05)
-
-SO - 01; b. List the features of AR.
-
-BL-02
-
-Q7 [20]
-
-CO - 04; How would you apply a 3D model imported from the Unity Asset Store into (10)
-
-SO - 01; a. your existing Unity project? Describe the steps from importing the model
-
-BL-03 to integrating it into the scene, ensuring it aligns with your project’s
-environment and functionality. .
-
-CO - 04; (10)
-
-SO - 01; b. Explain the steps to setup an XR project in Unity.
-
-BL- 02 :
 ````

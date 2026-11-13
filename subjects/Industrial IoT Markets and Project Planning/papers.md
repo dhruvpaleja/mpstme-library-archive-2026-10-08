@@ -4,6 +4,95 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2022-23 · Exam not stated · Sem 8 · paper 8db7f3943e7c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Industrial IoT Markets and Project Planning/Industrial IoT Markets and Project Planning_8db7f3943e.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 86.7
+
+````text
+MPSTMS
+TBR Y
+
+SVKM’S NMIMS LIBRAR
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGI
+
+Academic Year: 2022-2023
+
+<
+vee
+
+Program/s: B. Tech and MBA. Tech Year: [V Semester: VIII
+Stream/s ; All
+Subject: Industrial loT Markets and Project Planning Time: 3hrs 40:00am to 4100 pm )
+
+Date:_O4 / 05 / 2023 No. of Pages:2
+
+Marks:100
+Final Examination | Re - Examination -
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their. use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly: [20]
+
+ao 13087 | 4. Discuss the role of cloud in IoT. [5]
+rth Sou |b. Define IOT. Explain reasons to converge the technologies and shift to IOT. | [5]
+c0-2;$0-1; | ©: List the name of any two IoT Computing boards. How would you select [5]
+BL-1 these boards for your applications?
+aie son | d. Compare IIoT connectivity cellular and satellite. [5]
+@ a. What is Industry 4.0? Explain how can Industry 4.0 help your company [10]
+aie, aia achieve value innovation?
+CO-4; S0-1; b. Discuss the importance of sensors in IoT applications with appropriate [10]
+aa examples.
+e8 a. List the features and applications of Bluetooth low energy (BLE). Discuss [10]
+sen cea how BLE communicates with the outside world.
+CO-2; $0-1; b. Explain functional view, information view, deployment and operational [10]
+Bee view and other relevant architectural views of IOT reference architecture.
+
+4
+. 350-1: ’ Discuss the Network Function Virtualization (NFV). How can proprietary [10]
+BL hardware can be integrated in NFV?
+CO-2; SO-1; b. What is loT Operating Systems? Discuss the parameters for selecting a [10]
+BL-2
+
+suitable loT OS?
+--- page 2 ---
+a a With neat diagrammatic representation, explain IoT stack with appropriate [10]
+
+ney ‘aie examples for each layer.
+CO-2; SO-1; b. Draw the general architecture of the RTOS for the loT. Mention any discuss [10]
+m3 two-major OSs used for designing of IOT applications.
+a6 a. Identify the major technologies that play a role in IoT application
+CO-1; SO-1; development. What are the enabling technologies that you are aware of? [10]
+oe Explain any two enabling technologies.
+co b. Discuss the following terms related to first IloT project execution.
+-4; SO-1; . ae : aaa) ange :
+BL-2 ° (i) Product development process (ii) Documentation (iii)Building a Bill-of- [10]
+Materials (BOM) (iv)product teardown analysis
+Q a.
+CO-2; SO-1; List features of MySQL. Illustrate the various loT communication APIs [10]
+BL-1
+zal _ b. Discuss the role of big data in IoT. [10]
+````
+
 ## 2022-23 · Final-Exam · Sem 7 · paper 857d5ca5ad4f
 
 - Departments: Common (all branches)
@@ -410,93 +499,4 @@ BL-2 How are RTOs split into three categories? Explain with examples. List the |
 merits and demerits of RTOs
 
 Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 8db7f3943e7c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Industrial IoT Markets and Project Planning/Industrial IoT Markets and Project Planning_8db7f3943e.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 86.7
-
-````text
-MPSTMS
-TBR Y
-
-SVKM’S NMIMS LIBRAR
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGI
-
-Academic Year: 2022-2023
-
-<
-vee
-
-Program/s: B. Tech and MBA. Tech Year: [V Semester: VIII
-Stream/s ; All
-Subject: Industrial loT Markets and Project Planning Time: 3hrs 40:00am to 4100 pm )
-
-Date:_O4 / 05 / 2023 No. of Pages:2
-
-Marks:100
-Final Examination | Re - Examination -
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their. use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly: [20]
-
-ao 13087 | 4. Discuss the role of cloud in IoT. [5]
-rth Sou |b. Define IOT. Explain reasons to converge the technologies and shift to IOT. | [5]
-c0-2;$0-1; | ©: List the name of any two IoT Computing boards. How would you select [5]
-BL-1 these boards for your applications?
-aie son | d. Compare IIoT connectivity cellular and satellite. [5]
-@ a. What is Industry 4.0? Explain how can Industry 4.0 help your company [10]
-aie, aia achieve value innovation?
-CO-4; S0-1; b. Discuss the importance of sensors in IoT applications with appropriate [10]
-aa examples.
-e8 a. List the features and applications of Bluetooth low energy (BLE). Discuss [10]
-sen cea how BLE communicates with the outside world.
-CO-2; $0-1; b. Explain functional view, information view, deployment and operational [10]
-Bee view and other relevant architectural views of IOT reference architecture.
-
-4
-. 350-1: ’ Discuss the Network Function Virtualization (NFV). How can proprietary [10]
-BL hardware can be integrated in NFV?
-CO-2; SO-1; b. What is loT Operating Systems? Discuss the parameters for selecting a [10]
-BL-2
-
-suitable loT OS?
---- page 2 ---
-a a With neat diagrammatic representation, explain IoT stack with appropriate [10]
-
-ney ‘aie examples for each layer.
-CO-2; SO-1; b. Draw the general architecture of the RTOS for the loT. Mention any discuss [10]
-m3 two-major OSs used for designing of IOT applications.
-a6 a. Identify the major technologies that play a role in IoT application
-CO-1; SO-1; development. What are the enabling technologies that you are aware of? [10]
-oe Explain any two enabling technologies.
-co b. Discuss the following terms related to first IloT project execution.
--4; SO-1; . ae : aaa) ange :
-BL-2 ° (i) Product development process (ii) Documentation (iii)Building a Bill-of- [10]
-Materials (BOM) (iv)product teardown analysis
-Q a.
-CO-2; SO-1; List features of MySQL. Illustrate the various loT communication APIs [10]
-BL-1
-zal _ b. Discuss the role of big data in IoT. [10]
 ````

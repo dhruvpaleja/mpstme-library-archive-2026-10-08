@@ -14,26 +14,26 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
 | 2024-25 | Final-Exam, Re-Exam | Question paper | Sem 2 | BTech AI 7012, BTech AIDS 7056, BTech AIML 7053, MBATech AI 7051 | case_study_Probability and Random Variables(702BS0C071)_Semester II_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech AIML 7053 | QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Probability and Random Variables(702BS0C071)_2024-2025_e6811f6553.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | B TECH | Probability and Random Variables, Sem-II, Batch 2022-23, 2023-24 &2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech AIML 7053 | QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_Probability and Random Variables(702BS0C071)_2024-2025_e5fa42ff57.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Probability and Random Variables(702BS0C071)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Probability and Random Variables(702BS0C071)_2024-2025_e6811f6553.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Probability & Random Variables, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH, MBA TECH | Probability and Random Variables, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 2 | B TECH, MBA TECH | Probability & Random Variables, Re-exam 2021-22,2022-23.pdf |

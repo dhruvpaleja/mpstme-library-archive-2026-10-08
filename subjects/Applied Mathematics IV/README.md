@@ -1,6 +1,6 @@
 # Applied Mathematics IV
 
-**1** unique papers (1 copies across programmes) · 2019-20 · 1 programme · Sem 5
+**2** unique papers (2 copies across programmes) · 2012-13 to 2019-20 · 2 programmes · Sem 4, Sem 5
 
 Download only this subject, sorted by academic year:
 
@@ -15,5 +15,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2019-20 | Final-Exam | Question paper | Sem 5 | B TECH / DATA SCIENCE | APPLIED_MATHEMATICS_IV_(_DATA_SCIENCE)_FINAL_EXAM_19-20_.pdf |
+| 2012-13 | Re-Exam | Question paper | Sem 4 | B TECH / I T | Applied Mathematics- IV B Tech 2012-2013 Re Exam.pdf [1] |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "ENGINEERING MATHEMATICS IV" but the paper is headed "Applied Mathematics IV"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

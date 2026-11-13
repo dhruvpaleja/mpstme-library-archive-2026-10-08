@@ -1396,6 +1396,106 @@ BL-3
 
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 4 · paper d47288706ae3
+
+- Departments: Artificial Intelligence, Civil, Computer Engineering
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B.TECH INTEGRATED / CIVIL, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/INTEGRAL TRANSFORMS/Integral Transform, Sem-IV, Final & Re Exam 2021-22 & 2022-23.pdf` (+7 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/04/2024
+- Text: ocr (2 pages), mean OCR confidence 80.4
+
+````text
+“~~ Program: B Tech / MBA Tech/B Tech INTG
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2023-2024
+Year: I/TV Semester: IV/VUl
+
+Stream: Al/AIML/AIDS/COMP/CE/CIVIL
+Time: 3 hrs (Jo:0oantod ¢ 00 pr)
+
+Subject: Integral Transforms
+No. of Pages;.
+
+Date: 20/04/2024.
+
+Marks: 100
+
+Final Examination/Re-Examination (2021-22/2022-23) SRARY
+
+Instructions: Candidates should read carefully the inst
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+ructions printed on the question paper and on
+
+oO 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Qi (20 |
+CO-2:; SO-1; BL-1 | ® Find L{e~** sinht cos3t]. 5
+CO-2; SO-1; BL-2 | b. Estimate L[3t 6(t — 7) + (t —2) H(t — 2)). 5
+CO-2; SO-1; BL-1 | ¢. | Find Fourier series expansion of f(x) = sin ax for-—m <x <7. 5
+CO-1; SO-1; BL-1 | d. | Find f(x) if its Fourier sine transform is e~°°. 5
+Q2 [20]
+ym:
+CO-2; $O-1; BL-2 | a | Compute L[(cos3t + cost)?] 6
+CO-2; SO-1; BL-2 b. | Illustrate Fourier cosine transform of f(x) =e* + e-**, x > 0. 6
+. . 2, 2
+CO-1; SO-1; BL-4 | © | Analyze Fourier series expansion for the function f@m= —e
+8
+2
+in (0,272), hence deduce that 2 =1+ z + z fo, |
+Q3 | 20]
+CO-2; SO-1; BL-3 | a. | Construct half range cosine series for fay=xtl1, O<x<7, hence
+1 4, 1 nm
+deduce that 1 +Etatetee rm
+--- page 2 ---
+1
+CO-2; SO-1; BL-2 | b. | Express the function f(x) = { lel ds as Fourier sine integral
+, , 0, x>n 6
+and show that fy 2? sin wx dw = ; when0<x <q.
+: _ $?+254+3 , ; . ‘a
+CO-2; SO-1; BL-1 | ¢. | Find 7+ (@usneuao} using partial fraction. 8
+Q4 : [20]
+CO-2; SO-1; BL-2 | a. | Estimate L[t(sin2t — cos3t)]. Hence, evaluate 6
+So e~'t(sin2t — cos3t) dt by expressing it as Laplace transform.
+2 ye
+CO-1; SO-1; BL-3 | b. | Construct Fourier Transform of f(x) = {e x", |xlsa and hence
+0, |x| >a 6
+deduce that fo at = = ;
+CO-1; SO-1; BL-3 | ¢. | Compute Complex form of Fourier series for following function:
+8
+~f0 O<x<l
+fe={a lex <2l
+QS [20]
+CO-2; SO-1; BL-1 | a. | Find L~+ (saan! using convolution theorem. 6
+CO-1; SO-1; BL-4 | b. | Show that the set of functions een ,n = 0,1,2,... is orthogonal 6
+over (0,272).
+CO-3; SO-2; BL-3 | e..| Solve the differential equation using Laplace transform: P
+y"— 6y' + 9y = t?e*, (0) = 2, y'(0) = 17.
+Q6 [20]
+. : (s+1)e7 25
+CO-2; SO-1; BL-2 | a. | Estimate the inverse Laplace transform of “een 6
+CO-2; SO-1; BL-1 | b. | Find the Fourier expansion of f(x) = 4 — x? in the interval (0, 2). 6
+CO-3; SO-1; BL-6 | e. | Using Fourier Transform, solve (D? + 5D + 6)y = 6(t). 8
+Q7 [20]
+CO-2; SO-1; BL-4 | a. | Discover finite Fourier sine transform of f(x) = x?, 0<x <1. 6
+CO-2; SO-1; BL-5 b Evaluate L[f(t)], if f(t) = t?,0 < t < 2 is periodic function with ;
+. period 2.
+©O@; 80-1) BL] "| ‘c Find the Fourier series of f(x) = {i ~% O<x<l . Hence, deduce
+0, lL<x<2l 8
+
+that >=1-242-24...
+4 3 5 7
+````
+
 ## 2023-24 · Re-Exam · Sem 4 · paper 9dcbba073c94
 
 - Departments: Civil, Computer Engineering
@@ -1502,106 +1602,6 @@ Hence, deduce that cae 1424 44-.
 2 8 32 | 52 7
 
 2
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper d47288706ae3
-
-- Departments: Artificial Intelligence, Civil, Computer Engineering
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B.TECH INTEGRATED / CIVIL, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/INTEGRAL TRANSFORMS/Integral Transform, Sem-IV, Final & Re Exam 2021-22 & 2022-23.pdf` (+7 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/04/2024
-- Text: ocr (2 pages), mean OCR confidence 80.4
-
-````text
-“~~ Program: B Tech / MBA Tech/B Tech INTG
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2023-2024
-Year: I/TV Semester: IV/VUl
-
-Stream: Al/AIML/AIDS/COMP/CE/CIVIL
-Time: 3 hrs (Jo:0oantod ¢ 00 pr)
-
-Subject: Integral Transforms
-No. of Pages;.
-
-Date: 20/04/2024.
-
-Marks: 100
-
-Final Examination/Re-Examination (2021-22/2022-23) SRARY
-
-Instructions: Candidates should read carefully the inst
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-ructions printed on the question paper and on
-
-oO 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Qi (20 |
-CO-2:; SO-1; BL-1 | ® Find L{e~** sinht cos3t]. 5
-CO-2; SO-1; BL-2 | b. Estimate L[3t 6(t — 7) + (t —2) H(t — 2)). 5
-CO-2; SO-1; BL-1 | ¢. | Find Fourier series expansion of f(x) = sin ax for-—m <x <7. 5
-CO-1; SO-1; BL-1 | d. | Find f(x) if its Fourier sine transform is e~°°. 5
-Q2 [20]
-ym:
-CO-2; $O-1; BL-2 | a | Compute L[(cos3t + cost)?] 6
-CO-2; SO-1; BL-2 b. | Illustrate Fourier cosine transform of f(x) =e* + e-**, x > 0. 6
-. . 2, 2
-CO-1; SO-1; BL-4 | © | Analyze Fourier series expansion for the function f@m= —e
-8
-2
-in (0,272), hence deduce that 2 =1+ z + z fo, |
-Q3 | 20]
-CO-2; SO-1; BL-3 | a. | Construct half range cosine series for fay=xtl1, O<x<7, hence
-1 4, 1 nm
-deduce that 1 +Etatetee rm
---- page 2 ---
-1
-CO-2; SO-1; BL-2 | b. | Express the function f(x) = { lel ds as Fourier sine integral
-, , 0, x>n 6
-and show that fy 2? sin wx dw = ; when0<x <q.
-: _ $?+254+3 , ; . ‘a
-CO-2; SO-1; BL-1 | ¢. | Find 7+ (@usneuao} using partial fraction. 8
-Q4 : [20]
-CO-2; SO-1; BL-2 | a. | Estimate L[t(sin2t — cos3t)]. Hence, evaluate 6
-So e~'t(sin2t — cos3t) dt by expressing it as Laplace transform.
-2 ye
-CO-1; SO-1; BL-3 | b. | Construct Fourier Transform of f(x) = {e x", |xlsa and hence
-0, |x| >a 6
-deduce that fo at = = ;
-CO-1; SO-1; BL-3 | ¢. | Compute Complex form of Fourier series for following function:
-8
-~f0 O<x<l
-fe={a lex <2l
-QS [20]
-CO-2; SO-1; BL-1 | a. | Find L~+ (saan! using convolution theorem. 6
-CO-1; SO-1; BL-4 | b. | Show that the set of functions een ,n = 0,1,2,... is orthogonal 6
-over (0,272).
-CO-3; SO-2; BL-3 | e..| Solve the differential equation using Laplace transform: P
-y"— 6y' + 9y = t?e*, (0) = 2, y'(0) = 17.
-Q6 [20]
-. : (s+1)e7 25
-CO-2; SO-1; BL-2 | a. | Estimate the inverse Laplace transform of “een 6
-CO-2; SO-1; BL-1 | b. | Find the Fourier expansion of f(x) = 4 — x? in the interval (0, 2). 6
-CO-3; SO-1; BL-6 | e. | Using Fourier Transform, solve (D? + 5D + 6)y = 6(t). 8
-Q7 [20]
-CO-2; SO-1; BL-4 | a. | Discover finite Fourier sine transform of f(x) = x?, 0<x <1. 6
-CO-2; SO-1; BL-5 b Evaluate L[f(t)], if f(t) = t?,0 < t < 2 is periodic function with ;
-. period 2.
-©O@; 80-1) BL] "| ‘c Find the Fourier series of f(x) = {i ~% O<x<l . Hence, deduce
-0, lL<x<2l 8
-
-that >=1-242-24...
-4 3 5 7
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper dab7c653d923

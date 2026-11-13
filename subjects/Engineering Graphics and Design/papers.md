@@ -1,6 +1,6 @@
 # Engineering Graphics and Design: question papers in full
 
-6 unique papers · 2022-23 to 2024-25 · Common (all branches)
+6 unique papers · 2023-24 to 2024-25 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -210,7 +210,7 @@ of lateral surfaces of the retained prism.
 
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 1 · paper 04178504b37d
+## 2023-24 · Final + Re-Exam · Sem 1 · paper 04178504b37d
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -310,7 +310,7 @@ Draw the front view, sectional top view and development of lateral surfaces.
 2/2
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 2 · paper 2f4427121c4f
+## 2023-24 · Final + Re-Exam · Sem 2 · paper 2f4427121c4f
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
@@ -402,7 +402,7 @@ Draw its front view, sectional top view and development of lateral surfaces.
 2/2
 ````
 
-## 2022-23 · Re-Exam · Sem 1 · paper 0e27893f9ceb
+## 2023-24 · Re-Exam · Sem 1 · paper 0e27893f9ceb
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -501,7 +501,7 @@ true shape and development of lateral surfaces.
 2/2
 ````
 
-## 2022-23 · Re-Exam · Sem 2 · paper 090a240135c7
+## 2023-24 · Re-Exam · Sem 2 · paper 090a240135c7
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH

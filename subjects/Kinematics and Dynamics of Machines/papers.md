@@ -1,6 +1,6 @@
 # Kinematics and Dynamics of Machines: question papers in full
 
-12 unique papers · 2021 to 2025-26 · Mechanical
+12 unique papers · 2021-22 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -476,150 +476,7 @@ BL:-03
 
 ````
 
-## 2023-24 · Re-Exam · Sem 4 · paper e53b07675a36
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/KINEMATICS AND DYNAMICS OF MACHINES/Kinematics and Dyanamics of Machines Batch 2022-23,2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 84.7
-
-````text
-SVKM’S NMIMS_
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINE
-Academic Year: 2023-2024 a
-
-Program:- B.Tech/MBATech/B. Tech Intg Year:I/IV Semester: IV / VIII
-
-Stream:-Mechanical Engineering
-
-Subject: Kinematics and Dynamics of Machines - ; Time: 03hrs (10am to dpm_)
-Date:_2.$ / ©6/2024 ; . No. of Pages:03
-Marks:100
-
-______] Re-Examination (2022-23) / C2028-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the-cover
-of the Answer Book, which is provided for their use. —
-1) Question No. _1___- is compulsory. .
-2) Out of remaining questions, attempt any __4 _ questions:
-_-»3) In all_5_ questions to be attempted. :
-4) All questions carry equal marks. :
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: ; [20]
-CO:- 01
-so:-07_ | * | Explain kinematics & Dynamics along with example. — [4]
-BL:- 02 ; —_
-CO:-02 | 4 ; ;
-SO:- 07 * | Illustrate the type of ICR along with the sketch. : [3]
-BL:- 07 :
-CO:- 03 c Define the following terms with respect to cams. Pressure angle, Pitch Curve,
-so:-03 |" |...
-BL:- 02 Prime circle.
-CO:- 04 :
-~ d. Ny _ att
-
-©) so:- 06. Prove for the belt drive ™ +" [3]
-BL:- 02
-CO:- 01
-so:-07 | % | What are the factors the capacity of brakes depends? , [3]
-BL:- 01 Z
-CO:--04 | » i :
-SO:- 07 : | Explain the following terms with respect to diagram. Pitch circle & pitch point [4]
-BL:- 02 ; ;
-Q . . - [20] ,
-
-a In the toggle mechanism shown in the figure, the crank OA rotates at 210rpm CCW
-
-CO:-02 | - increasing at the rate of 60rad/s*. For the given configuration, determine a)
-SO:- 01 [20]
-
-BL:- 03 ‘| Velocity of slider-D & angular velocity of link BD b) Acceleration of slider D and
-
-the angular acceleration of link BD.
-
-1
---- page 2 ---
-Q3° : [20]
-
-A cam is to give the following motion to.a knife-edged follower: - a. To raise the
-
-* | gollower through 30mm. with ‘uniform, acceleration’-&-. deceleration: .during | -
-120degree rotation of cam. B. Dwell for next 30 degree of the cam rotation. C.To
-CO:- 03 lower the follower with SHM during the next 90degree of rotation of the cam. D.
-SO:- 03 Dwell for the rest of the cam rotation. The cam has a minimum radius of 30mm & | [15]
-cmiiian rotates CW at a uniform speed of 800rpm. Draw the profile of the cam if the line
-of stroke of the follower passes through-the axis of the camshaft. Also, draw the
-displacement, velocity & acceleration diagrams for the motion = the follower for
-one complete revolution of the cam.
-A casting weighing 9 KN hangs freely from a rope, which makes 2.5 turns round
-a i b. a drum of 300 mm diameter revolving at 20 r.p.m. A man pulls the other end of the 05]
-BL:- 02 rope. The coefficient of friction is 0.25. Detérmine 1. The force required by the
-man, and 2. The power to raise the casting.
-Q4 ; [20] .
-a Illustrate the concept of DOF. Also find the DOF for the given below figure.
-CO:- 01 . t
-SO: 07 BL.
-BL:- 01° .
-b. A uniformly rotating cam operates a flat faced mushroom follower. The follower
-CO:-.03 is raised through’a distance of 25mm in 120deegree rotation of the cam; remains
-SO:- 03 - at rest for next 30degree & is lowered during further 120-degree rotation of the | [10]
-BL:- 03
-
-cam. The raising of the follower takes place with cycloidal motion & the lowering
-
-with uniform acceleration &.deceleration. However, the uniform acceleration is
---- page 3 ---
-2/3 of the uniform deceleration on. The least radius of the cam is 25mm, which
-
-rotated at 300rpm. Draw the cam profile.
-
-CO:- 04 3
-SO:- 02 _ To=m.v [5]
-BL:- 02 Prove below given expression
-Q5 [20]
-Son > State the various inversion and explain (Any 01) inversion of double lever [5]
-BL-- 01 mechanism. .
-os = ha Derive an expression for torque transmitted in single plate clutch using wear 10]
-“3L:-02 [| theory: ” oo
-
-CO:- 04 ;
-SO:- 07 Illustrate the various types of gear train. [5]
-BL:- 01 ;
-Q6 [20]
-CO:- 01 :
-SO:- 07 Explain the concept of binary, Ternary & Quaternary link. [5]
-BL:- 01 _
-
-Two shafts A and B are co-axial. A gear C (50 teeth) is rigidly mounted on shaft
-
-A. A compound gear D-E gears with C and an internal gear G. D has 20 teeth and
-CO:- 04 gears with C and E has 35 teeth and gears with an internal gear G. The gear G is
-SO:- 01 fixed and is concentric with the shaft axis. The compound gear D-E is mounted on | [15]
-Else a pin which projects from an arm keyed to the shaft B. Sketch the arrangement and ;
-
-l
-CO) find the number of teeth on internal gear G assuming that all gears have the same
-, module. Ifthe shaft A rotates at 110 r.p.m., find the speed of shaft B.
-Q7 [20]
-CO:- 01 “
-SO:- 07 What do you mean by kinematics pair? State its types. [5]
-BL:- 001
-CO:- 01 1
-: T, 1+utan@
-
-SO:- 02 A (Pee) 10
-BL:- 02 Prove the expression given below. % (1~Htan@ [10]
-CO:- 04 ; ;
-SO:- 02 Illustrate the concept of inference & ways to avoid it.. [5]
-BL:- 01 ;
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 767b2d55e9ca
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 767b2d55e9ca
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
@@ -787,6 +644,149 @@ SO:- 02 Explain the compound epicyclic gear train. [5]
 BL:- 01 as
 
 a
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper e53b07675a36
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/KINEMATICS AND DYNAMICS OF MACHINES/Kinematics and Dyanamics of Machines Batch 2022-23,2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 84.7
+
+````text
+SVKM’S NMIMS_
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINE
+Academic Year: 2023-2024 a
+
+Program:- B.Tech/MBATech/B. Tech Intg Year:I/IV Semester: IV / VIII
+
+Stream:-Mechanical Engineering
+
+Subject: Kinematics and Dynamics of Machines - ; Time: 03hrs (10am to dpm_)
+Date:_2.$ / ©6/2024 ; . No. of Pages:03
+Marks:100
+
+______] Re-Examination (2022-23) / C2028-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the-cover
+of the Answer Book, which is provided for their use. —
+1) Question No. _1___- is compulsory. .
+2) Out of remaining questions, attempt any __4 _ questions:
+_-»3) In all_5_ questions to be attempted. :
+4) All questions carry equal marks. :
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: ; [20]
+CO:- 01
+so:-07_ | * | Explain kinematics & Dynamics along with example. — [4]
+BL:- 02 ; —_
+CO:-02 | 4 ; ;
+SO:- 07 * | Illustrate the type of ICR along with the sketch. : [3]
+BL:- 07 :
+CO:- 03 c Define the following terms with respect to cams. Pressure angle, Pitch Curve,
+so:-03 |" |...
+BL:- 02 Prime circle.
+CO:- 04 :
+~ d. Ny _ att
+
+©) so:- 06. Prove for the belt drive ™ +" [3]
+BL:- 02
+CO:- 01
+so:-07 | % | What are the factors the capacity of brakes depends? , [3]
+BL:- 01 Z
+CO:--04 | » i :
+SO:- 07 : | Explain the following terms with respect to diagram. Pitch circle & pitch point [4]
+BL:- 02 ; ;
+Q . . - [20] ,
+
+a In the toggle mechanism shown in the figure, the crank OA rotates at 210rpm CCW
+
+CO:-02 | - increasing at the rate of 60rad/s*. For the given configuration, determine a)
+SO:- 01 [20]
+
+BL:- 03 ‘| Velocity of slider-D & angular velocity of link BD b) Acceleration of slider D and
+
+the angular acceleration of link BD.
+
+1
+--- page 2 ---
+Q3° : [20]
+
+A cam is to give the following motion to.a knife-edged follower: - a. To raise the
+
+* | gollower through 30mm. with ‘uniform, acceleration’-&-. deceleration: .during | -
+120degree rotation of cam. B. Dwell for next 30 degree of the cam rotation. C.To
+CO:- 03 lower the follower with SHM during the next 90degree of rotation of the cam. D.
+SO:- 03 Dwell for the rest of the cam rotation. The cam has a minimum radius of 30mm & | [15]
+cmiiian rotates CW at a uniform speed of 800rpm. Draw the profile of the cam if the line
+of stroke of the follower passes through-the axis of the camshaft. Also, draw the
+displacement, velocity & acceleration diagrams for the motion = the follower for
+one complete revolution of the cam.
+A casting weighing 9 KN hangs freely from a rope, which makes 2.5 turns round
+a i b. a drum of 300 mm diameter revolving at 20 r.p.m. A man pulls the other end of the 05]
+BL:- 02 rope. The coefficient of friction is 0.25. Detérmine 1. The force required by the
+man, and 2. The power to raise the casting.
+Q4 ; [20] .
+a Illustrate the concept of DOF. Also find the DOF for the given below figure.
+CO:- 01 . t
+SO: 07 BL.
+BL:- 01° .
+b. A uniformly rotating cam operates a flat faced mushroom follower. The follower
+CO:-.03 is raised through’a distance of 25mm in 120deegree rotation of the cam; remains
+SO:- 03 - at rest for next 30degree & is lowered during further 120-degree rotation of the | [10]
+BL:- 03
+
+cam. The raising of the follower takes place with cycloidal motion & the lowering
+
+with uniform acceleration &.deceleration. However, the uniform acceleration is
+--- page 3 ---
+2/3 of the uniform deceleration on. The least radius of the cam is 25mm, which
+
+rotated at 300rpm. Draw the cam profile.
+
+CO:- 04 3
+SO:- 02 _ To=m.v [5]
+BL:- 02 Prove below given expression
+Q5 [20]
+Son > State the various inversion and explain (Any 01) inversion of double lever [5]
+BL-- 01 mechanism. .
+os = ha Derive an expression for torque transmitted in single plate clutch using wear 10]
+“3L:-02 [| theory: ” oo
+
+CO:- 04 ;
+SO:- 07 Illustrate the various types of gear train. [5]
+BL:- 01 ;
+Q6 [20]
+CO:- 01 :
+SO:- 07 Explain the concept of binary, Ternary & Quaternary link. [5]
+BL:- 01 _
+
+Two shafts A and B are co-axial. A gear C (50 teeth) is rigidly mounted on shaft
+
+A. A compound gear D-E gears with C and an internal gear G. D has 20 teeth and
+CO:- 04 gears with C and E has 35 teeth and gears with an internal gear G. The gear G is
+SO:- 01 fixed and is concentric with the shaft axis. The compound gear D-E is mounted on | [15]
+Else a pin which projects from an arm keyed to the shaft B. Sketch the arrangement and ;
+
+l
+CO) find the number of teeth on internal gear G assuming that all gears have the same
+, module. Ifthe shaft A rotates at 110 r.p.m., find the speed of shaft B.
+Q7 [20]
+CO:- 01 “
+SO:- 07 What do you mean by kinematics pair? State its types. [5]
+BL:- 001
+CO:- 01 1
+: T, 1+utan@
+
+SO:- 02 A (Pee) 10
+BL:- 02 Prove the expression given below. % (1~Htan@ [10]
+CO:- 04 ; ;
+SO:- 02 Illustrate the concept of inference & ways to avoid it.. [5]
+BL:- 01 ;
 ````
 
 ## 2022-23 · Final-Exam · Sem 4 · paper 12cf442c052a
@@ -1138,7 +1138,7 @@ find the number of teeth on internal gear G assuming that all gears have the sam
 module. If the shaft A rotates at 110 r.p.m., find the speed of shaft B.
 ````
 
-## 2021 · Final-Exam · Sem 4 · paper 3fcaa8fa647e
+## 2021-22 · Final-Exam · Sem 4 · paper 3fcaa8fa647e
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL

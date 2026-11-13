@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Civil_7005/Water and Wastewater Engineering/ANS_Water and Wastewater Engineering(702CI0C020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (8 pages), mean OCR confidence 86.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -331,7 +332,6 @@ FIC 7 IC OHH
 --- page 8 ---
 Q7c
 
-Sep 6 Cumpure mmacu sircam Gunnin
 + Flow ratio: River 20, Stream 5 > Total = 25 m3/s
 
 + Mixed DO = (20x9.2 + 5x1.0)/25 = (184 + 5)/25 = 7.56 mg/L

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_DS_7009/Stochastic processes and Applications/QP_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: mixed (5 pages), mean OCR confidence 46.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -180,6 +181,7 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_DS_7052/Stochastic processes and Applications/QP_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: mixed (5 pages), mean OCR confidence 46.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -349,6 +351,7 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_DS_7038/Stochastic processes and Applications/QP_Stochastic processes and Applications(702BS0C033)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: mixed (5 pages), mean OCR confidence 46.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -518,6 +521,7 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_DS_7009/Stochastic processes and Applications/QP_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 51.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -792,6 +796,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_DS_7038/Stochastic processes and Applications/QP_Stochastic processes and Applications(702BS0C033)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 51.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1661,6 +1666,137 @@ Standard Normal Distribution Table ,
 3.5 | 4998 | .4998 | .4998 | .4998 | 4998 | 4998 | .4998 | .4998 | 4998 | 4998
 ````
 
+## 2023-24 · Exam not stated · Sem 4 · paper 306ca232c281
+
+- Departments: Data Science
+- Programmes: MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/DATA SCIENCE/Semester 4/Stochastic Processes and Applications/Stochastic Processes and Applications_306ca232c2.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 89.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
+Academic Year: 2023-2024
+
+Program: MBA Tech. Stream: Data Science Year: II Semester: [V
+
+Subject: Stochastic Processes and Applications “ Time: 3 hrs (10.00 a.m tol.00 p.m)
+Date:_/7_/ 4 /2024 No. of Pages: 03
+
+Marks: 100
+
+Final Examination/Re-Examination 2022-23
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+>> 3) In all 5 questions to be attempted.
+4) All questions carry equal marks. .
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. .
+
+Ql Answer briefly: (5 marks each) [20]
+CO-1; | a. Brief on moving average and its application in the analysis of random processes.
+a The explanation shall refer to the mathematical expression of moving average.
+CO-1; | b. ae . i :
+SO-l; Describe in Detail the Axiomatic Definition of Probability.
+BL-2
+c. The authorities of an university wish to form a committee of 4 engineers for
+m9 inspecting the function of engineering colleges. 3 Electronics, 4 Mechanical, 2
+= SO-I: Civil and 1 Computer Engineers showed interest to work as committee members.
+BL-3
+
+Compute the probability that the committee consists of (i) one engineer of each
+
+branch, (ii) at least one Electronics Engineer.
+
+CO-3; | d. A random process X(t) is given by X(t) = cos (t + ) where ¢ is arandom variable
+SO-1;
+
+BL-3 uniformly distributed over -1/2 <   < 1/2. Find the expectation of X(t).
+
+Answer any four from Q2 to Q7
+
+Q2 7 A random variable X has probability density function 1/2*, x =1,2,3 [10]
+
+CO-4;
+
+50-1: Execute the m.g.f and hence find the mean and variance.
+--- page 2 ---
+BL-3
+
+¥
+
+aon b Compare Random Process and Random Variable. Explain the Classification of | [10]
+BL-2. Random Processes
+a A discrete random variable has the probability density function given below. [10]
+Q3 .
+Calculate k, mean and variance
+CO-4;
+SO-1; x -2 +} -1 0 1 2 3
+BL-3 P(X=x) | 0.2 k 0.1 2k 0.1 2k
+CO-2; |b Explain in detail Deterministic and Non Deterministic, Ergodic Process, Markov | [10]
+ae. Process of Random (Stochastic) Processes. Explain first.order statistics
+Q4 a [10]
+eos A random process is given by X(t) = Asin(wot) where A a random variable is
+SO-1 : uniformly distributed over (-1, 1). Find whether X(¢) is wide sense stationary. <>
+BL-3
+b A box labelled ‘0’ contains two balls numbered 1 and one ball numbered 0. [10]
+Another box labelled ‘1’ contains three balls numbered | and one ball numbered
+0. A ball is drawn at random from a box, the number on the ball is noted, and the
+CO-4: ball is put back in the same box. A coin was tossed to select the box for drawing
+SO-1; a ball. If the outcome of the toss is heads, box ‘0’ is selected, and if the outcome
+ELS of the toss is tails, box ‘1’ is selected. Then onwards, a box shown by the number
+on the ball in the previous draw is chosen for the next draw. Show the sequence
+of the events by state transition diagram and the transition probability matrix.
+Also, find the probability of 1011...
+a The transition probability matrix (TPM) of Markov chain (XJne1,23,. with {10] | ~
+three states is as follows.
+States of X,,1
+Q5 1 2 3
+CO-3; 1f04. 05 0.4
+SO-1; States of X, 2/06 0.2 0.2
+BL-3
+
+310-3 0.4. 0.3
+The initial distribution P° is as follows.
+
+P°=[0-7, 0-2, 0-1]
+--- page 3 ---
+Find P(X, = 3), and P(X; = 2, X, = 3, X, =3, Xp = 2). Also, state discrete
+
+time Markov chain.
+
+b Ifa random process is given by X(t) = A cos wt where q is a constant and A is a [10]
+CO-4; random variable with uniform distribution over (0,1). Calculate the
+nae autocorrelation function Rxx(ti,t2) and auto covariance function Cxx(tt,t2) of
+X(t).
+
+Q6 a A random process is given by X(t) = A cos(wt) + B sin(wt) where A and B are | [10]
+
+Ode random variables such that (i) E(A) = E(B) = E(AB) = 0 (ii) E(A) = £(6?).
+BL-3 Show that X(t) is mean-ergodic and find its autocorrelation function.
+b The reporting of customers at a counter in a railway station is a Poisson random [10]
+CO-2; process with mean rate of 3 customers in a minute. Find the probability that the
+art interval of time between two consecutive customers is (i) more than a minute,
+
+(ii) between 1 and 2 minutes, (ii) at the most 3 minutes.
+
+Q7 a A random process is given by X(t) = sin(wt + Y) where Y is uniformly | [10]
+
+CO-3; distributed over (0, 2m). Find whether X(t) is strict sense stationary. Given
+
+SO-1;
+BL-3 E[sin(Y) .cos(Y)] = 0
+ie b State and explain the behavioral properties of PetriNet with the help of an [10]
+
+BL-2 example.
+````
+
 ## 2023-24 · Final-Exam · Sem 4 · paper 649fa19ad7c8
 
 - Departments: Data Science
@@ -2027,6 +2163,149 @@ E[N] = Yon. p= pom.) pis f _ a, (94)
 n=0
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper 22a92ec7a7b0
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STOCHASTIC PROCESSES AND APPLICATIONS/Stochastic Processes & Applications , Re-exam 2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 90.0
+
+````text
+ps
+
+SVKM’S NMIMS fi
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+Program: MBA Tech. Stream: Data Science. Year: II Semester: IV
+
+Subject: Stochastic Processes and Applications Tine: 3 hrs (10.00 a.m to1.00 p.m)
+Date:_257/ 6 /2024 No. of Pages: 03
+
+Marks: 100
+
+Re-Examination 2022-23
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+_-» of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: (S*marks each) [20]
+
+CO-1; a. Brief on autoregressive process and its application in the analysis of random
+
+SO-1; processes. The explanation shall refer to the mathematical expression of
+
+BL-2 autoregressive process.
+
+b. The lifetime of certain brand of electric bulb may be considered a random
+
+© | C02; variable with mean 1200 hours and standard deviation 250 hours. Using Central
+
+os Limit theorem estimate the probability that the average lifetime of 60 bulbs
+
+exceeds 1250 hours.(Z value area between 0 and 1.55 = 0.4394)
+
+CO-1: c. In box 1 there are 3 white and 7 black balls, in box 2 there are 4 white and 6 black
+
+SO-1; balis. A box is selected at random and a ball is drawn. Evaluate the probability
+
+BL-3 that the ball will be white
+
+CO-3; | d. A random process is given by X(t) = Acos(wot + 6) where @ is a random
+SO-1;
+
+BL3 variable uniformly distributed over (0, 2). Find the expectation of X(t).
+
+Answer any four from Q2 to Q7
+--- page 2 ---
+Q2
+
+; ~ | U0}
+If X denotes the outcome when a fair die is tossed, compute m.g.f of X and.»
+
+CO-4;
+SO-1; hence, find the mean and variance of X.
+BL-3
+CO-3; Compare Random Process and Random Variable. Explain the Classification of | [10]
+sii Random P
+BL-2 andom Processes
+Q3 2 [10]
+60.4 A continuous function of a random variable X has the p.d.f f(x) = kx’e™, x>=0.
+SO-1 : Calculate k, mean and variance.
+BL-3
+CO-2; Explain in detail Deterministic and Non Deterministic, Ergodic Process, Markov | [10]
+Be Process of Random (Stochastic) Processes. Explain first order statistics
+Q4 A random process is given by X(t) = A cos(wt) + B sin(wt) where A and B are [10
+CO-3; random variables. Show that X(t) is wide sense stationary if the expectations are
+Ls given (i) E(A) = E(B) = 0 (ii) E(A®) = E(B?) and (iii) E(AB) = 0.
+Suppose, a drunkard (man) wants to travel to his home by walking a 4 feet wide | [10]
+road. Let Xn be the distance measured (in feet) from the n" position on the road
+to the left end of the road. The man, as he is drunk, can move 1 foot to the left
+au with probability ‘p’ (0<p<1) and right with probability ‘q’ (q=1-p). The man will
+BL-3. fall down if he goes-to the left end (Xn=0) or right end (Xn=4) of the road. The
+
+distance to his home is 7 feet long. Mention the transition probability matrix
+(TPM) and show that the random walk of the man is a Markov chain. Also, find
+the probability that the drunkard moves to left by 2 feet from mid of the road.
+
+Q5
+CO-3;
+SO-1;
+BL-3
+
+The transition probability matrix (TPM) of Markov chain {X;,}n=1,233,, with [10]
+three states is as follows.
+States of X,44
+1 2 3
+1/02 05 0.3
+States of X, 2/05 0-4 0-1
+3/03 0-4 03
+
+The initial distribution P° is as follows. j
+
+1 2 38
+P° =[0-6 0-3 0-1]
+--- page 3 ---
+Find P(X> = 3), P(X = 2), and P(X3 = 2, X, =3, X, = 3, Xp =2)
+
+Kes b A random process is given by X(t) =cos(wt + ©) where O is uniformly distributed | [10]
+
+SO-1; in the interval (-2, =). Calculate the mean, autocorrelation function and
+BL-3 autocovariance function. 7
+Q6 a A random process is given by X(t) = A cos(t + @) where @ is arandom variable [10]
+aoa uniformly distributed over (0, 22). Check whether X(t) is mean-ergodic (on the
+BL-3. first order) and find the autocorrelation function of X(t).
+C0-2; b The average number of visits at an amusement park is 30 children in one hour. | [10]
+SO-1; What is the probability that (i) there are no visits in a 3-minutes time span, (ii) at
+BL3 least 5 visits in a 5-mminutes time span?
+
+a Compare wide sense stationary (WSS) and strict sense stationary (SSS) | [10]
+Q7 processes. Also, if a random process X(t) is wide sense stationary with the
+eit autocorrelation function Ry(t) = 9e~@!"! where tT = t, — ty. Find the
+a second order moment of the random variable X(9) — X(3). What is the value of
+
+the computed second order moment at @ = 5?
+
+CO-1; | b [10]
+SO-1; Write a note on continuous time Markov chain. :
+
+BL-2
+````
+
 ## 2023-24 · Re-Exam · Sem 4 · paper 1e0a82b45df9
 
 - Departments: Data Science
@@ -2034,6 +2313,7 @@ n=0
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STOCHASTIC PROCESSES AND APPLICATIONS/Stochastic Processes and Applications, A Y 2023-24, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (9 pages), mean OCR confidence 80.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2321,7 +2601,6 @@ space into mutually exclusive subsets S and S’,
 
 Do Py = > >) a5 Pi.
 
-i€S jes’ JES! ieS mzaecrmaecoomoneerens
 
 For an irreducible, recurrent, periodic, finite Markov chain with transition
 probability matris P, the stationary probability vector 7 is the unique non-
@@ -2392,503 +2671,13 @@ Hence the PMF of N is
 P = 93
 n(n) (i otherwise. (98)
 The expected number in the queue is
-P) = nh oe n— P A
 E[N] = So n(1— p)p =p) n(1—p)p ‘=T 57 rs (94)
 n=0 n=1
 
 Oo
 ````
 
-## 2022-23 · Final-Exam · Sem 4 · paper c2f52a1b84a9
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STOCHASTIC PROCESSES AND APPLICATIONS/Stochastic processes and Applications, Sem-IV, Year 2022-23, Final Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 89.5
-
-````text
-MPSTME
-LIBRARY
-
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-
-Program/s: BTech Year: II Semester: IV
-
-Stream/s ;Data Science
-
-Subject: Stochastic processes and applications Time: 03 hrs @o:d0amto 1700pm
-Date:_02 / 05/2023 No. of Pages:03
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-3) Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) It is open book/open notes exam.
-
-Ql
-Answer briefly: [20]
-
-& Random variable x has CDF
-
-0 x <0,
-F(x) = 4 x/2 0<x<2,
-
-1 x> 2,
-[5]
-
-1- What is E[X]?
-2- What is Var[X]?
-
-b. The number of costumers K that arrive at the restaurant in one hour is a
-Poisson random variable with E[K] = 8.
-
-: [5]
-Find P[K = 7]. )
-
-c. Sketch the transition diagrams of the following Markov chain
-111
--|3 3 3 [5]
-A 001
-100
-d. Consider a Markov chain with state space {0,1,2} and [5]
-
-Page 01
---- page 2 ---
-transition matrix
-05 0 0.5
-P= 0 1 #0
-05 0 0.5
-1- Is the chain reducible? Justify your answer.
-2- Is the chain periodic? Justify your answer.
-3- Does the chain have transient states? Justify your answer.
-
-Q2
-
-Random variables X and Y have joint PDF
-
-cx O<x<10<y<1
-
-f, Vy) =
-xy y) 5 otherwise
-
-a- Find the constant c.
-b- Find the marginal PDF f x(x).
-c- Are X and Y independent? Justify your answer.
-
-[20]
-
-Q3
-
-Determine whether each of these statements is true or false. Justify your
-answer for full credit.
-
-(a) If X(t) and Y (t) are independent wide sense stationary processes,
-then the process
-
-W(t) = X(H)Y(t).
-Is a wide-sense stationary:
-
-(b) Given a Gaussian process X(t), then
-2X(t) — 3X(t— 1)
-is not a Gaussian process.
-
-[20]
-
-Q4
-
-A production capacity C(n) at a given factory can be given by
-
-CO. X;
-C= get) er
-
-where Co, X1,X3,..., is an iid random sequence of Gaussian (0,1) random
-variables.
-
-a) Find the mean of C,.
-b) Is C, a Gaussian random variable?
-c) Is Cy anormal random variable, if yes why?
-
-[20]
-
-Qs
-
-Consider a Markov chain {X,,,n = 0,1, 2, ...} with state space S={0,1}
-and one-step transition probability
-_f05 0.5
-Pe 1 0 |
-a- Is the chain irreducible?
-
-[20]
-
-b-_ Is the chain periodic?
-
-Pogeor
-
-=
---- page 3 ---
-c- Is the chain positive recurrent?
-d- Find the limiting probabilities.
-
-Q6
-
-Consider a distribution center that collects packages arriving according to
-exponential distributed inter-arrival times. Assume that the delivery time
-of a package is exponential distributed with the mean value of 10 min. It is
-known that the idle state probability of the distribution center is 0.8.
-
-a- What type of a queue model can be used to describe the work of the
-
-distribution system?
-b- Determine the service rate y and arrival rate A.
-c- Determine the mean delay (waiting time) for the package.
-
-[20]
-
-po
-
-Page 03
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper 22a92ec7a7b0
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STOCHASTIC PROCESSES AND APPLICATIONS/Stochastic Processes & Applications , Re-exam 2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 90.0
-
-````text
-ps
-
-SVKM’S NMIMS fi
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Program: MBA Tech. Stream: Data Science. Year: II Semester: IV
-
-Subject: Stochastic Processes and Applications Tine: 3 hrs (10.00 a.m to1.00 p.m)
-Date:_257/ 6 /2024 No. of Pages: 03
-
-Marks: 100
-
-Re-Examination 2022-23
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-_-» of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: (S*marks each) [20]
-
-CO-1; a. Brief on autoregressive process and its application in the analysis of random
-
-SO-1; processes. The explanation shall refer to the mathematical expression of
-
-BL-2 autoregressive process.
-
-b. The lifetime of certain brand of electric bulb may be considered a random
-
-© | C02; variable with mean 1200 hours and standard deviation 250 hours. Using Central
-
-os Limit theorem estimate the probability that the average lifetime of 60 bulbs
-
-exceeds 1250 hours.(Z value area between 0 and 1.55 = 0.4394)
-
-CO-1: c. In box 1 there are 3 white and 7 black balls, in box 2 there are 4 white and 6 black
-
-SO-1; balis. A box is selected at random and a ball is drawn. Evaluate the probability
-
-BL-3 that the ball will be white
-
-CO-3; | d. A random process is given by X(t) = Acos(wot + 6) where @ is a random
-SO-1;
-
-BL3 variable uniformly distributed over (0, 2). Find the expectation of X(t).
-
-Answer any four from Q2 to Q7
---- page 2 ---
-Q2
-
-; ~ | U0}
-If X denotes the outcome when a fair die is tossed, compute m.g.f of X and.»
-
-CO-4;
-SO-1; hence, find the mean and variance of X.
-BL-3
-CO-3; Compare Random Process and Random Variable. Explain the Classification of | [10]
-sii Random P
-BL-2 andom Processes
-Q3 2 [10]
-60.4 A continuous function of a random variable X has the p.d.f f(x) = kx’e™, x>=0.
-SO-1 : Calculate k, mean and variance.
-BL-3
-CO-2; Explain in detail Deterministic and Non Deterministic, Ergodic Process, Markov | [10]
-Be Process of Random (Stochastic) Processes. Explain first order statistics
-Q4 A random process is given by X(t) = A cos(wt) + B sin(wt) where A and B are [10
-CO-3; random variables. Show that X(t) is wide sense stationary if the expectations are
-Ls given (i) E(A) = E(B) = 0 (ii) E(A®) = E(B?) and (iii) E(AB) = 0.
-Suppose, a drunkard (man) wants to travel to his home by walking a 4 feet wide | [10]
-road. Let Xn be the distance measured (in feet) from the n" position on the road
-to the left end of the road. The man, as he is drunk, can move 1 foot to the left
-au with probability ‘p’ (0<p<1) and right with probability ‘q’ (q=1-p). The man will
-BL-3. fall down if he goes-to the left end (Xn=0) or right end (Xn=4) of the road. The
-
-distance to his home is 7 feet long. Mention the transition probability matrix
-(TPM) and show that the random walk of the man is a Markov chain. Also, find
-the probability that the drunkard moves to left by 2 feet from mid of the road.
-
-Q5
-CO-3;
-SO-1;
-BL-3
-
-The transition probability matrix (TPM) of Markov chain {X;,}n=1,233,, with [10]
-three states is as follows.
-States of X,44
-1 2 3
-1/02 05 0.3
-States of X, 2/05 0-4 0-1
-3/03 0-4 03
-
-The initial distribution P° is as follows. j
-
-1 2 38
-P° =[0-6 0-3 0-1]
---- page 3 ---
-Find P(X> = 3), P(X = 2), and P(X3 = 2, X, =3, X, = 3, Xp =2)
-
-Kes b A random process is given by X(t) =cos(wt + ©) where O is uniformly distributed | [10]
-
-SO-1; in the interval (-2, =). Calculate the mean, autocorrelation function and
-BL-3 autocovariance function. 7
-Q6 a A random process is given by X(t) = A cos(t + @) where @ is arandom variable [10]
-aoa uniformly distributed over (0, 22). Check whether X(t) is mean-ergodic (on the
-BL-3. first order) and find the autocorrelation function of X(t).
-C0-2; b The average number of visits at an amusement park is 30 children in one hour. | [10]
-SO-1; What is the probability that (i) there are no visits in a 3-minutes time span, (ii) at
-BL3 least 5 visits in a 5-mminutes time span?
-
-a Compare wide sense stationary (WSS) and strict sense stationary (SSS) | [10]
-Q7 processes. Also, if a random process X(t) is wide sense stationary with the
-eit autocorrelation function Ry(t) = 9e~@!"! where tT = t, — ty. Find the
-a second order moment of the random variable X(9) — X(3). What is the value of
-
-the computed second order moment at @ = 5?
-
-CO-1; | b [10]
-SO-1; Write a note on continuous time Markov chain. :
-
-BL-2
-````
-
-## 2021-22 · Final-Exam · Sem 4 · paper 45018a7693fc
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STOCHASTIC PROCESSES AND APPLICATIONS/B Tech, Data Science, Stochastic processes and Applications, 2nd Year, Final Exam, 2021-22.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 April 2022
-- Text: ocr (2 pages), mean OCR confidence 87.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG is NEE
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING G
-
-Academic Year: 2021-22
-
-Programme: B. Tech (Data Science) Year: Il Semester: IV
-
-biect: Stochastic.processes and Applications
-seeees ° Marks: 100
-
-Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages: | 2- !
-
-Date: 07 April 2022
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-3) In all___5_ questions to be attempted.
-4) All questions carry equal marks.
-’ 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [14/20]
-a. The number of airplanes J that arrive at airport in time t minutes is a Beta random variable with E[J] [51
-CO-;SO-7BL- =t. Find t such that Prob [J > 0] =
-C0-:50-:BL- b. In a 2 ms interval, number of patients L that arrive in emergency room in a hospital is a Beta [5]
-~~ random variable with expected value E[L] = 2 hits. What is P[L<=5]?
-Cc. The number of customers K that arrive at restaurant in one hour is a Beta random variable with E[K] [5]
-CO-;SO-;BL-
-= 8, Find Prob [K = 7]
-d. Consider a random walk on finite states {-3, -2, -1, 0,1,2,3}. If process is in state i (i=-1,0,1) at time
-n, then it moves to either i-1 or i+1 at time n+1 with equal probability. If process is in state -3, -2 or
-CO-;SO-;BL- 2, 3 at time n, then it moves to state -1, 0, or 1 at time n+1 with equal probability. Write transition (5]
-probability matrix P for this random walk. Compute stationary probability a=
-(1.3, 12, T-4, Mo» Ty, Mz, Mz) of this random walk
-Q [14/20]
-a. A production capacity C(n) at a given ‘eco can be given by
-CO-;SO-;BL- eyo 10.
-C= ah+8 e a (19)
-where Co, X;,X3, .... is an iid random sequence of Gaussian (0,1) random variables. Find mean of C,
-CO-;S0-;BL- b. Considering 2 (a) is C, a Gaussian random variable? [5]
-CO-;SO-;BL- c. Considering 2 (a) is Cy a normal random variable, if yes why? [5]
-Q3 [14/20]
-
-A|2
---- page 2 ---
-a. * | The number of books sold at a bookstore in the time interval t has Poisson PMF
-
-Np~16T =
-CO-;S0-;BL- (n) = ‘aa e /n! n = 0,1, ... [10]
-0 otherwise
-Find the expected number E[Naso] of books sold in one hour
-CO-;SO-;BL- b. oye . om . . . [10]
-Considering 3 (a) what is probability that no books are sold in a 60-minute interval?
-4
-Q [14/20]
-a. Determine whether each of these statements is true or false. Justify your answer for full credit. If
-CO-;SO-;BL- X(t) and Y (t) are independent wide sense stationary processes, then prove that process W(t) =
-X(t)/Y(t) is a wide-sense stationary
-P e . fb. .
-CO-;SO-;BL- Given a Gaussian process X(t), then prove that 8X(t) - 9X(t - 1) is not a Gaussian process
-Qs (14/20)
-At a shop, each time a customer purchases an item with probability p, at which time salesperson
-C0-S0-;8L- gets rewarded. After 10 purchases, salesperson can redeem reward and then counting starts all over [20]
-~— again. Let gq, denote number of customers who purchased at least one item. Determine limiting
-probability 735 = iim, Plan = 35]
-Ge (14/20)
-a. Several c cashiers at a supermarket can be modeled as a c server queue with finite capacity.
-CO-;SO-;BL- Assuming service times are independent binary random variables with mean pi seconds. What type [10]
-of queue system does this problem represent?
-CO-;SO-;BL- b. Considering 6 (a) sketch a Markov chain for this system [10]
-
-Co [2')
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper d58b97b66138
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STOCHASTIC PROCESSES AND APPLICATIONS/Stochastic Processes adn Applications, Sem-IV, Re-Exam, Year 2021-22.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 June 2022
-- Text: ocr (2 pages), mean OCR confidence 87.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN!
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
-Academic Year: 2021-22
-
-Programme: B. Tech (Data Science) Year: II Semester: IV f
-
-Subject: Stochastic processes and Applications
-. “ Marks: 100 ~
-Date: 06 June 2022 Time: 10.00 am to 1.00 pm
-“ Durations: 3 (Hrs)
-; No. of Pages: Z
-‘ : Re-Examination (2021-22)
-
-Soo
-. Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-e of the Answer Book, which is provided for their use.
-1) Question No. _1 is compulsory.
-2) Out of remaining questions, attempt any 4 _ questions.
-3) Inall__5_ questions to be attempted.
-4) All questions carry equal marks.
-_ 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Qi :
-Answer briefly: [14/20]
-a. The number of airplanes J that arrive at airport in time t minutes is a Poisson random variable with 15]
-COsSO-BL E[J] = t. Find t such that Prob [J > 0] = 0.8
-CO-:S0-:BL- b. Ina 2 ms interval, number of patients L that arrive in emergency room ina hospital is a Poisson [5]
-Ealidl random variable with expected value E[L] = 2 hits. What is P[L<=2]?
-CO-:S0-:BL- c The number of customers K that arrive at restaurant in one hour is a Poisson random variable with (5]
-ibis E[K] = 8. Find Prob [K = 7]
-d. Consider a random walk on finite states {-2, -1, 0,1,2}. If process is in state i (i=-1,0,1) at time n, then
-it moves to either i-1 or i+1 at time n+1 with equal probability. If process is in state -2 or 2 at time _
-CO-;SO-;BL- n, then it moves to state -1, 0, or 1 at time n+1 with equal probability. Write transition probability (5]
-matrix P for this random walk. Compute stationary probability x = (_2, 1-1, Mo, Ty, Tz) of this
-random walk
-Q2 [14/20]
-a. A production capacity C(n) at a given factory can be given by
-n
-C X;
-0-;SO-;BL- a8, — 10.
-corso Ca Rtey {10}
-isi
-where Co, X1, Xz, ..., is an iid random sequence of Gaussian (0,1) random variables. Find mean of 6
-CO-;S0-;BL- b. Considering 2 (a) is C, a Gaussian random variable? [5]
-2 CO-:S0-;BL- c Considering 2 (a) is Cp a normal random variable, if yes why? [5]
-Q3 [14/20]
-
-4/2
---- page 2 ---
-a. The number of books sold at a bookstore in time interval t has Poisson PMF
-Np-8T fy =
-CO-;SO-;BL- z (n) = a ent n= 01, [10]
-0 otherwise
-Find expected number E[Nso] of books sold in one hour
-CO-;SO-;BL- b. an . 7 . . . [10]
-Considering 3 (a) what is probability that no books are sold in a 20-minute interval?
-Qa ; [14/20]
-a. Determine whether each of these statements is true or false. Justify your answer for full credit. If
-CO-;SO-;BL- X(t) and Y (t) are independent wide sense stationary processes, then prove that process W(t) =
-X(t)Y(t) is a wide-sense stationary
-z b.
-CO-;SO-;8L- Given a Gaussian process X(t}, then prove that 2X(t) - 3X(t - 1) is not a Gaussian process
-Qs [14/20]
-At a shop, each time a customer purchases an item with probability p, at which time salesperson
-CO-SO-:BL- gets rewarded. After 10 purchases, salesperson can redeem reward and then counting starts all over [20]
-“— again. Let qn denote number of costumers who purchased at least one item. Determine limiting
-probability 75 = iim Plan = 15]
-Q6 [14/20]
-a. Several c cashiers at a supermarket can be modeled as a c server queue with infinite capacity.
-CO-;SO-;BL- Assuming the service times are independent exponential random variables with mean seconds. [10]
-What type of queue system does this problem represent?
-CO-;SO-;BL- b. Considering 6 (a) sketch a Markov chain for this system . [10]
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 51e3fbc7a17b
+## 2022-23 · Exam not stated · Sem 4 · paper 51e3fbc7a17b
 
 - Departments: Data Science
 - Programmes: MBA TECH / DATA SCIENCE
@@ -3303,7 +3092,7 @@ A997 | 4998
 SAAN
 ````
 
-## Year not stated · Exam not stated · Sem 4 · paper 1f19c3879583
+## 2022-23 · Exam not stated · Sem 4 · paper 1f19c3879583
 
 - Departments: Data Science
 - Programmes: MBA TECH / DATA SCIENCE
@@ -3508,133 +3297,348 @@ b. P(X> = 2),
 c. P(Xq = 2,X> = 3,X, =3,X = 2).
 ````
 
-## Year not stated · Exam not stated · Sem 4 · paper 306ca232c281
+## 2022-23 · Final-Exam · Sem 4 · paper c2f52a1b84a9
 
 - Departments: Data Science
-- Programmes: MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/DATA SCIENCE/Semester 4/Stochastic Processes and Applications/Stochastic Processes and Applications_306ca232c2.pdf`
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STOCHASTIC PROCESSES AND APPLICATIONS/Stochastic processes and Applications, Sem-IV, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 89.8
+- Text: ocr (3 pages), mean OCR confidence 89.5
 
 ````text
+MPSTME
+LIBRARY
+
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
-Academic Year: 2023-2024
 
-Program: MBA Tech. Stream: Data Science Year: II Semester: [V
+Academic Year: 2022-2023
 
-Subject: Stochastic Processes and Applications “ Time: 3 hrs (10.00 a.m tol.00 p.m)
-Date:_/7_/ 4 /2024 No. of Pages: 03
+Program/s: BTech Year: II Semester: IV
+
+Stream/s ;Data Science
+
+Subject: Stochastic processes and applications Time: 03 hrs @o:d0amto 1700pm
+Date:_02 / 05/2023 No. of Pages:03
 
 Marks: 100
 
-Final Examination/Re-Examination 2022-23
+Final Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
->> 3) In all 5 questions to be attempted.
-4) All questions carry equal marks. .
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+3) Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. .
+7) Assume Suitable data if necessary.
 
-Ql Answer briefly: (5 marks each) [20]
-CO-1; | a. Brief on moving average and its application in the analysis of random processes.
-a The explanation shall refer to the mathematical expression of moving average.
-CO-1; | b. ae . i :
-SO-l; Describe in Detail the Axiomatic Definition of Probability.
-BL-2
-c. The authorities of an university wish to form a committee of 4 engineers for
-m9 inspecting the function of engineering colleges. 3 Electronics, 4 Mechanical, 2
-= SO-I: Civil and 1 Computer Engineers showed interest to work as committee members.
-BL-3
+8) It is open book/open notes exam.
 
-Compute the probability that the committee consists of (i) one engineer of each
+Ql
+Answer briefly: [20]
 
-branch, (ii) at least one Electronics Engineer.
+& Random variable x has CDF
 
-CO-3; | d. A random process X(t) is given by X(t) = cos (t + ) where ¢ is arandom variable
-SO-1;
+0 x <0,
+F(x) = 4 x/2 0<x<2,
 
-BL-3 uniformly distributed over -1/2 <   < 1/2. Find the expectation of X(t).
+1 x> 2,
+[5]
 
-Answer any four from Q2 to Q7
+1- What is E[X]?
+2- What is Var[X]?
 
-Q2 7 A random variable X has probability density function 1/2*, x =1,2,3 [10]
+b. The number of costumers K that arrive at the restaurant in one hour is a
+Poisson random variable with E[K] = 8.
 
-CO-4;
+: [5]
+Find P[K = 7]. )
 
-50-1: Execute the m.g.f and hence find the mean and variance.
+c. Sketch the transition diagrams of the following Markov chain
+111
+-|3 3 3 [5]
+A 001
+100
+d. Consider a Markov chain with state space {0,1,2} and [5]
+
+Page 01
 --- page 2 ---
-BL-3
+transition matrix
+05 0 0.5
+P= 0 1 #0
+05 0 0.5
+1- Is the chain reducible? Justify your answer.
+2- Is the chain periodic? Justify your answer.
+3- Does the chain have transient states? Justify your answer.
 
-¥
+Q2
 
-aon b Compare Random Process and Random Variable. Explain the Classification of | [10]
-BL-2. Random Processes
-a A discrete random variable has the probability density function given below. [10]
-Q3 .
-Calculate k, mean and variance
-CO-4;
-SO-1; x -2 +} -1 0 1 2 3
-BL-3 P(X=x) | 0.2 k 0.1 2k 0.1 2k
-CO-2; |b Explain in detail Deterministic and Non Deterministic, Ergodic Process, Markov | [10]
-ae. Process of Random (Stochastic) Processes. Explain first.order statistics
-Q4 a [10]
-eos A random process is given by X(t) = Asin(wot) where A a random variable is
-SO-1 : uniformly distributed over (-1, 1). Find whether X(¢) is wide sense stationary. <>
-BL-3
-b A box labelled ‘0’ contains two balls numbered 1 and one ball numbered 0. [10]
-Another box labelled ‘1’ contains three balls numbered | and one ball numbered
-0. A ball is drawn at random from a box, the number on the ball is noted, and the
-CO-4: ball is put back in the same box. A coin was tossed to select the box for drawing
-SO-1; a ball. If the outcome of the toss is heads, box ‘0’ is selected, and if the outcome
-ELS of the toss is tails, box ‘1’ is selected. Then onwards, a box shown by the number
-on the ball in the previous draw is chosen for the next draw. Show the sequence
-of the events by state transition diagram and the transition probability matrix.
-Also, find the probability of 1011...
-a The transition probability matrix (TPM) of Markov chain (XJne1,23,. with {10] | ~
-three states is as follows.
-States of X,,1
-Q5 1 2 3
-CO-3; 1f04. 05 0.4
-SO-1; States of X, 2/06 0.2 0.2
-BL-3
+Random variables X and Y have joint PDF
 
-310-3 0.4. 0.3
-The initial distribution P° is as follows.
+cx O<x<10<y<1
 
-P°=[0-7, 0-2, 0-1]
+f, Vy) =
+xy y) 5 otherwise
+
+a- Find the constant c.
+b- Find the marginal PDF f x(x).
+c- Are X and Y independent? Justify your answer.
+
+[20]
+
+Q3
+
+Determine whether each of these statements is true or false. Justify your
+answer for full credit.
+
+(a) If X(t) and Y (t) are independent wide sense stationary processes,
+then the process
+
+W(t) = X(H)Y(t).
+Is a wide-sense stationary:
+
+(b) Given a Gaussian process X(t), then
+2X(t) — 3X(t— 1)
+is not a Gaussian process.
+
+[20]
+
+Q4
+
+A production capacity C(n) at a given factory can be given by
+
+CO. X;
+C= get) er
+
+where Co, X1,X3,..., is an iid random sequence of Gaussian (0,1) random
+variables.
+
+a) Find the mean of C,.
+b) Is C, a Gaussian random variable?
+c) Is Cy anormal random variable, if yes why?
+
+[20]
+
+Qs
+
+Consider a Markov chain {X,,,n = 0,1, 2, ...} with state space S={0,1}
+and one-step transition probability
+_f05 0.5
+Pe 1 0 |
+a- Is the chain irreducible?
+
+[20]
+
+b-_ Is the chain periodic?
+
+Pogeor
+
+=
 --- page 3 ---
-Find P(X, = 3), and P(X; = 2, X, = 3, X, =3, Xp = 2). Also, state discrete
+c- Is the chain positive recurrent?
+d- Find the limiting probabilities.
 
-time Markov chain.
+Q6
 
-b Ifa random process is given by X(t) = A cos wt where q is a constant and A is a [10]
-CO-4; random variable with uniform distribution over (0,1). Calculate the
-nae autocorrelation function Rxx(ti,t2) and auto covariance function Cxx(tt,t2) of
-X(t).
+Consider a distribution center that collects packages arriving according to
+exponential distributed inter-arrival times. Assume that the delivery time
+of a package is exponential distributed with the mean value of 10 min. It is
+known that the idle state probability of the distribution center is 0.8.
 
-Q6 a A random process is given by X(t) = A cos(wt) + B sin(wt) where A and B are | [10]
+a- What type of a queue model can be used to describe the work of the
 
-Ode random variables such that (i) E(A) = E(B) = E(AB) = 0 (ii) E(A) = £(6?).
-BL-3 Show that X(t) is mean-ergodic and find its autocorrelation function.
-b The reporting of customers at a counter in a railway station is a Poisson random [10]
-CO-2; process with mean rate of 3 customers in a minute. Find the probability that the
-art interval of time between two consecutive customers is (i) more than a minute,
+distribution system?
+b- Determine the service rate y and arrival rate A.
+c- Determine the mean delay (waiting time) for the package.
 
-(ii) between 1 and 2 minutes, (ii) at the most 3 minutes.
+[20]
 
-Q7 a A random process is given by X(t) = sin(wt + Y) where Y is uniformly | [10]
+po
 
-CO-3; distributed over (0, 2m). Find whether X(t) is strict sense stationary. Given
+Page 03
+````
 
-SO-1;
-BL-3 E[sin(Y) .cos(Y)] = 0
-ie b State and explain the behavioral properties of PetriNet with the help of an [10]
+## 2021-22 · Final-Exam · Sem 4 · paper 45018a7693fc
 
-BL-2 example.
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STOCHASTIC PROCESSES AND APPLICATIONS/B Tech, Data Science, Stochastic processes and Applications, 2nd Year, Final Exam, 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 April 2022
+- Text: ocr (2 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG is NEE
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING G
+
+Academic Year: 2021-22
+
+Programme: B. Tech (Data Science) Year: Il Semester: IV
+
+biect: Stochastic.processes and Applications
+seeees ° Marks: 100
+
+Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: | 2- !
+
+Date: 07 April 2022
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+’ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [14/20]
+a. The number of airplanes J that arrive at airport in time t minutes is a Beta random variable with E[J] [51
+CO-;SO-7BL- =t. Find t such that Prob [J > 0] =
+C0-:50-:BL- b. In a 2 ms interval, number of patients L that arrive in emergency room in a hospital is a Beta [5]
+~~ random variable with expected value E[L] = 2 hits. What is P[L<=5]?
+Cc. The number of customers K that arrive at restaurant in one hour is a Beta random variable with E[K] [5]
+CO-;SO-;BL-
+= 8, Find Prob [K = 7]
+d. Consider a random walk on finite states {-3, -2, -1, 0,1,2,3}. If process is in state i (i=-1,0,1) at time
+n, then it moves to either i-1 or i+1 at time n+1 with equal probability. If process is in state -3, -2 or
+CO-;SO-;BL- 2, 3 at time n, then it moves to state -1, 0, or 1 at time n+1 with equal probability. Write transition (5]
+probability matrix P for this random walk. Compute stationary probability a=
+(1.3, 12, T-4, Mo» Ty, Mz, Mz) of this random walk
+Q [14/20]
+a. A production capacity C(n) at a given ‘eco can be given by
+CO-;SO-;BL- eyo 10.
+C= ah+8 e a (19)
+where Co, X;,X3, .... is an iid random sequence of Gaussian (0,1) random variables. Find mean of C,
+CO-;S0-;BL- b. Considering 2 (a) is C, a Gaussian random variable? [5]
+CO-;SO-;BL- c. Considering 2 (a) is Cy a normal random variable, if yes why? [5]
+Q3 [14/20]
+
+A|2
+--- page 2 ---
+a. * | The number of books sold at a bookstore in the time interval t has Poisson PMF
+
+Np~16T =
+0 otherwise
+Find the expected number E[Naso] of books sold in one hour
+CO-;SO-;BL- b. oye . om . . . [10]
+Considering 3 (a) what is probability that no books are sold in a 60-minute interval?
+4
+Q [14/20]
+a. Determine whether each of these statements is true or false. Justify your answer for full credit. If
+CO-;SO-;BL- X(t) and Y (t) are independent wide sense stationary processes, then prove that process W(t) =
+X(t)/Y(t) is a wide-sense stationary
+P e . fb. .
+CO-;SO-;BL- Given a Gaussian process X(t), then prove that 8X(t) - 9X(t - 1) is not a Gaussian process
+Qs (14/20)
+At a shop, each time a customer purchases an item with probability p, at which time salesperson
+C0-S0-;8L- gets rewarded. After 10 purchases, salesperson can redeem reward and then counting starts all over [20]
+~— again. Let gq, denote number of customers who purchased at least one item. Determine limiting
+probability 735 = iim, Plan = 35]
+Ge (14/20)
+a. Several c cashiers at a supermarket can be modeled as a c server queue with finite capacity.
+CO-;SO-;BL- Assuming service times are independent binary random variables with mean pi seconds. What type [10]
+of queue system does this problem represent?
+CO-;SO-;BL- b. Considering 6 (a) sketch a Markov chain for this system [10]
+
+Co [2')
+````
+
+## 2021-22 · Re-Exam · Sem 4 · paper d58b97b66138
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STOCHASTIC PROCESSES AND APPLICATIONS/Stochastic Processes adn Applications, Sem-IV, Re-Exam, Year 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 June 2022
+- Text: ocr (2 pages), mean OCR confidence 87.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN!
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
+Academic Year: 2021-22
+
+Programme: B. Tech (Data Science) Year: II Semester: IV f
+
+Subject: Stochastic processes and Applications
+. “ Marks: 100 ~
+Date: 06 June 2022 Time: 10.00 am to 1.00 pm
+“ Durations: 3 (Hrs)
+; No. of Pages: Z
+‘ : Re-Examination (2021-22)
+
+Soo
+. Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+e of the Answer Book, which is provided for their use.
+1) Question No. _1 is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+3) Inall__5_ questions to be attempted.
+4) All questions carry equal marks.
+_ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Qi :
+Answer briefly: [14/20]
+a. The number of airplanes J that arrive at airport in time t minutes is a Poisson random variable with 15]
+COsSO-BL E[J] = t. Find t such that Prob [J > 0] = 0.8
+CO-:S0-:BL- b. Ina 2 ms interval, number of patients L that arrive in emergency room ina hospital is a Poisson [5]
+Ealidl random variable with expected value E[L] = 2 hits. What is P[L<=2]?
+CO-:S0-:BL- c The number of customers K that arrive at restaurant in one hour is a Poisson random variable with (5]
+ibis E[K] = 8. Find Prob [K = 7]
+d. Consider a random walk on finite states {-2, -1, 0,1,2}. If process is in state i (i=-1,0,1) at time n, then
+it moves to either i-1 or i+1 at time n+1 with equal probability. If process is in state -2 or 2 at time _
+CO-;SO-;BL- n, then it moves to state -1, 0, or 1 at time n+1 with equal probability. Write transition probability (5]
+matrix P for this random walk. Compute stationary probability x = (_2, 1-1, Mo, Ty, Tz) of this
+random walk
+Q2 [14/20]
+a. A production capacity C(n) at a given factory can be given by
+n
+C X;
+0-;SO-;BL- a8, — 10.
+corso Ca Rtey {10}
+isi
+where Co, X1, Xz, ..., is an iid random sequence of Gaussian (0,1) random variables. Find mean of 6
+CO-;S0-;BL- b. Considering 2 (a) is C, a Gaussian random variable? [5]
+2 CO-:S0-;BL- c Considering 2 (a) is Cp a normal random variable, if yes why? [5]
+Q3 [14/20]
+
+4/2
+--- page 2 ---
+a. The number of books sold at a bookstore in time interval t has Poisson PMF
+Np-8T fy =
+CO-;SO-;BL- z (n) = a ent n= 01, [10]
+0 otherwise
+Find expected number E[Nso] of books sold in one hour
+CO-;SO-;BL- b. an . 7 . . . [10]
+Considering 3 (a) what is probability that no books are sold in a 20-minute interval?
+Qa ; [14/20]
+a. Determine whether each of these statements is true or false. Justify your answer for full credit. If
+CO-;SO-;BL- X(t) and Y (t) are independent wide sense stationary processes, then prove that process W(t) =
+X(t)Y(t) is a wide-sense stationary
+z b.
+CO-;SO-;8L- Given a Gaussian process X(t}, then prove that 2X(t) - 3X(t - 1) is not a Gaussian process
+Qs [14/20]
+At a shop, each time a customer purchases an item with probability p, at which time salesperson
+CO-SO-:BL- gets rewarded. After 10 purchases, salesperson can redeem reward and then counting starts all over [20]
+“— again. Let qn denote number of costumers who purchased at least one item. Determine limiting
+probability 75 = iim Plan = 15]
+Q6 [14/20]
+a. Several c cashiers at a supermarket can be modeled as a c server queue with infinite capacity.
+CO-;SO-;BL- Assuming the service times are independent exponential random variables with mean seconds. [10]
+What type of queue system does this problem represent?
+CO-;SO-;BL- b. Considering 6 (a) sketch a Markov chain for this system . [10]
 ````

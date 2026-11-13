@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/Integrated_IT_7037/Introduction to Data Communication and Networks/ANS_Introduction to Data Communication and Networks(701IT0C004)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: ocr (12 pages), mean OCR confidence 90.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -339,7 +340,6 @@ USA, and Germany.
 labs.
 * A bank network linking branches, ATMs, and data centers.
 
-FOO ICO ACI ACA CHK a
 --- page 6 ---
 Q4 a. | How does Analog-to-Digital Conversion (ADC) work? Explain in detail the three [10]
 
@@ -596,7 +596,6 @@ e 1SO (International Organization for Standardization)
 o Developed the OSI Reference Model.
 o Sets international standards for technology.
 
-FOC ICO OQ) ICI ACH Ak a
 --- page 10 ---
 e   JEEE (Institute of Electrical and Electronics Engineers)
 o Focuses on networking hardware and LAN standards (e.g., IEEE

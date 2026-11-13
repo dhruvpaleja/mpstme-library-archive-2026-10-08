@@ -2,6 +2,378 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 3 · Answer key · paper dd6992aaf46e
+
+- Departments: AI and Machine Learning, Artificial Intelligence, Computer Engineering, Computer Science and Business Systems, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology
+- Programmes: BTech AI 7012, BTech AIML 7053, BTech Computer 7002, BTech CSBS 7036, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, Integrated Computer 7032, Integrated IT 7037, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_03/Final-Exam/BTech_CSE_DS_7057/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf` (+13 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: mixed (18 pages), mean OCR confidence 54.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech
+Intg. (IT)/B. Tech (IT)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
+Year: II/Semester III/Semester V/Semester VII(Exam Year: NA)
+Subject: Discrete Mathematics
+Date: NA   Time: NA to NA (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 1 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Figure in right hand side indicates full marks.
+7. Answer to each new question to be started on a fresh page.
+8. Assume Suitable data if necessary.
+Q.1 a) Let ℤ be a set of integers and let 𝑅 be a relation on 𝐴= ℤ× ℤ defined by (𝑎, 𝑏)𝑅(𝑐, 𝑑) 𝑖𝑓 𝑎+ 𝑑= 𝑏+
+𝑐, Then prove that 𝑅 is reflexive and transitive.
+Solution: i) 𝑎+ 𝑏= 𝑏+ 𝑎⇒(𝑎, 𝑏)𝑅(𝑎, 𝑏), ∀ (𝑎, 𝑏) ∈𝐴, hence 𝑅 is reflexive. 2 M
+ii) If (𝑎, 𝑏)𝑅(𝑐, 𝑑) i.e., 𝑎+ 𝑑= 𝑏+ 𝑐⋯(𝑖) and (𝑐, 𝑑)𝑅(𝑒, 𝑓) i.e., 𝑐+ 𝑓= 𝑑+ 𝑒 ⋯(𝑖𝑖)
+Now by (𝑖) + (𝑖𝑖), we have 𝑎+ 𝑑+ 𝑐+ 𝑓= 𝑏+ 𝑐+ 𝑑+ 𝑒⇒𝑎+ 𝑓= 𝑏+ 𝑒⇒(𝑎, 𝑏)𝑅(𝑒, 𝑓), hence 𝑅 is
+transitive.   2 M
+Q.1 b) Using the truth table prove that following statement is a Tautology.
+Solution:
+Hence, given proposition is tautology.
+********** 1 **********
+--- page 2 ---
+Q.1 c) In a computer network of 30 computers, each computer is directly connected to at least 10 others.
+Show that at least two computers have the same number of direct connections.
+Solution: Each computer can have between 10 and 29 connections → 20 possible values (10–29).
+There are 30 computers → 30 pigeons, 20 pigeonholes. 2 M
+Hence, at least ⌈ 30 20⌉= 2 computers share the same degree (number of connections). 2 M
+Q.1 d) (i) Give an example of a regular, connected graph on six vertices that is not complete.
+(ii) Identify whether degree sequence is graphic or not. If not then explain your answer, if yes
+draw graph 3, 2, 2, 1, 0.
+Solution: i) Any right example has 2 marks. Here have two examples 𝐶6 and
+ii) It’s graphical   2 Marks
+Q.1 e) Let G  Z 6 *   1,2,3,4,5  under multiplication mod 6. Identify all elements that have an inverse. Find
+the inverse of 5.
+Solution: Elements 1 and 5 have inverse. (If student only write 5 then also give full marks,
+because 1 is the identity element.)   2 Marks
+Inverse of 5 is 5.   2 Marks
+Q.2 a) Solve the recurrence relation 𝑎𝑛= 𝑎𝑛−1 + 𝑎𝑛−2 with 𝑎1 = 𝑎2 = 1.
+Solution:
+1M
+1M
+2M
+1M
+1M
+********** 2 **********
+--- page 3 ---
+Q. 2(b) Check whether the following graph is a bipartite graph. Also write the corresponding
+adjacency matrix.
+********** 3 **********
+--- page 4 ---
+(2 colour graph condition is also right) If student state that there is no odd cycle (all cycles
+are even) then they have to show that all cycles of the given graph and show them even).
+Q.2 c) If 𝑅 is the relation defined on ℤ (set of integer), such that, 𝑚𝑅𝑛 ⇔ 4 divides (𝑚−𝑛). Prove that 𝑅
+is an equivalence relation.
+Solution:
+(1) 𝑚−𝑚= 0 and 0 is divided by 4. Hence 𝑚𝑅𝑚 ∀ 𝑚∈ℤ, i.e. 𝑅 is reflesxive. 2M
+(2) If 𝑚𝑅𝑛 i.e. 𝑚−𝑛= 4𝑘 for some 𝑘∈ℤ⇒𝑛−𝑚= 4(−𝑘) ⇒𝑛𝑅𝑚. Hence 𝑅 is symmetric. 2M
+(3) If 𝑚𝑅𝑛 (𝑚−𝑛= 4𝑘1 ⋯(𝑖)) and 𝑛𝑅𝑡 (𝑛−𝑡= 4𝑘2 ⋯(𝑖𝑖)) for some 𝑘1 & 𝑘2 ∈ℤ by (𝑖) + (𝑖𝑖), we have
+𝑚−𝑛+ 𝑛−𝑡= 4𝑘1 + 4𝑘2 ⇒𝑚−𝑡= 4(𝑘1 + 𝑘2) ⇒𝑚𝑅𝑡. Hence 𝑅 is transitive.   3 M
+By (1) , (2) and (3) 𝑅 is an equivalence relation.
+1M
+Q.3 a) Prove by mathematical induction that 𝑛(𝑛+ 1)(𝑛+ 2) is a multiple of 6 for 𝑛≥1.
+Solution: : Let P(n) denotes the statement that we are supposed to prove. We prove the statement by
+induction. We first show that P(1) is true:
+Step-1:
+P(1): 1(2)(3) = 6, which is divisible by 6 and therefore P(1) is true. (2M)
+Step-2:
+Assume that P(k) is true for some natural number k. That is,
+𝑘(𝑘+ 1)(𝑘+ 2) = 6𝑡⋯(𝑖), where 𝑡 is a natural number.   (1M)
+********** 4 **********
+--- page 5 ---
+Step-3:
+To prove: P(k+1) is true.
+Note that,
+(𝑘+ 1)( 𝑘+ 2)( 𝑘+ 3) = 𝑘(𝑘+ 1)( 𝑘+ 2) + 3(𝑘+ 1)( 𝑘+ 2)
+(𝑘+ 1)( 𝑘+ 2)( 𝑘+ 3) = 6𝑡 + 3(𝑘+ 1)( 𝑘+ 2) ⋯(𝑖𝑖) by equation (𝑖)
+(1M)
+If 𝑘 is even (i.e. 𝑘= 2𝑠) then 3(𝑘+ 1)( 𝑘+ 2) = 3(2𝑠+ 1)(2𝑠+ 2) = 6(2𝑠+ 1)(𝑠+ 1) = 6𝑚⋯(𝑖𝑖𝑖𝑎)
+If 𝑘 is odd (i.e. 𝑘= 2𝑠+ 1) then 3(𝑘+ 1)( 𝑘+ 2) = 3(2𝑠+ 2)(2𝑠+ 3) = 6(𝑠+ 1)(2𝑠+ 3) =
+6𝑛⋯(𝑖𝑖𝑖𝑏)
+(1M)
+By equation (𝑖𝑖) , (𝑖𝑖𝑖𝑎) & (𝑖𝑖𝑖𝑏)
+(𝑘+ 1)( 𝑘+ 2)( 𝑘+ 3) = 6𝑡 + 6𝑝 , where 𝑝∈{𝑚, 𝑛} (1M)
+This completes the proof.
+Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm.
+Solution: Welch-Powell Algorithm:
+Step 1: Order the vertices of G according to decreasing degrees.
+Step 2: Assign the first colour to C 1 , to the first vertex and then in
+sequential order assign C 1 to each vertex which is not adjacent to a
+previous vertex which was assigned the colour C 1 .
+Step 3: Repeat the Step 2, with a second-colour C 2 and the
+subsequence of non-coloured vertices.
+Step 4: Repeat Step 3, with a third-colour C 3 , then a fourth-colour
+C 4 and so an until all the vertices are coloured.
+Step 5: Exit.   (For algorithm 3 marks and for solution 3
+marks)
+We can see that using Welsh Powell’s algorithm we can color the vertices with only 3 types of colors
+(chromatic number of this graph is 3).
+OR by table
+D E   F A   I   C H G B
+5   4   4   3   3   2   2   2   1
+C1 C2 C3 C1 C2 C3 C3 C2 C1
+For each right colour 1 mark from left to right
+Some students may take deg(E) =2, if student solve proper then give them full marks.
+D   F A   I   E   C H G B
+5   4   3   3   2   2   2   2   1
+C1 C2 C1 C2 C2 C3 C3 C2 C1
+********** 5 **********
+--- page 6 ---
+Q.3 c) In a survey of 60 people, it was found that; 25 read Business India, 26 reads India Today, 26
+reads Times of India, 11 reads both Business India and India Today, 09 reads both Business India
+and Times of India, 08 reads both India Today and Times of India, 08 reads none of the three. Then
+find (i) How many read all three? (ii) How many read exactly one?
+Solution: : Let B, I and T denotes the sets of people reading Business India, India Today, and Times of
+India respectively. Then we have,
+|B| = 25, |I| = 26, |T| = 26, |B⋂I| = 11, |B⋂T| = 9, |I⋂T| = 8,   (1M)
+Since 8 people read none of the newspaper, the number of people reading at least one newspaper are
+|B ⋃ I ⋃ T| = 60 −8 = 52. (1M)
+Now using the formula:
+|B ⋃ I ⋃ T| = |B| + |I| + |T| −|B⋂I| −|B⋂T| −|I⋂T| + |B⋂I⋂T|
+(1M)
+We have:
+52 = 25 + 26 + 26 −11 −9 −8 + |B⋂I⋂T|
+Which implies |B⋂I⋂T| = 52 −49 = 3, that settles the first question.   (2M)
+For the second question the answer is
+|B| + |I| + |T| −2(|B⋂I| + |B⋂T| + |I⋂T|) + 3|B⋂I⋂T|   (𝟏𝑴)
+= 25 + 26 + 26 −2(11 + 9 + 8) + 3(3)
+= 30.   (𝟐𝑴)
+The idea to the last part is: add each set individually and then since (B⋂T), (B⋂I), (I⋂T) got added twice, remove 2 times these
+numbers. Now while adding B, I, and T, we added the intersection B⋂I⋂T thrice while removing 2 times the pairwise intersectio n
+we removed total 6 times B⋂I⋂T. Therefore to offset the error, we need to add 3 times B⋂I⋂T and that is the formula provided
+above. Students can solve this question by Venn diagram also.
+U
+B
+I
+8   8
+10
+3
+6   5
+T   12
+8
+Q.4 a) Prove that the set of non-zero real numbers ℝ∗ forms an abelian group with respect to the
+operation “○”, where “○” is defined as 𝑎○b = 𝑎𝑏 , ∀ 𝑎, 𝑏∈ℝ∗.
+2
+********** 6 **********
+--- page 7 ---
+Q.4 b) Formalize the following and, by writing truth tables for premises and conclusion, determine
+whether the following argument is valid. “If the global warming continues, then the temperature of the
+world's oceans will rise. If ocean temperatures rise, then hurricanes will become more intense. Therefore, if
+global warming continues, then hurricane will become more intense.”
+Solution: 𝑝≡ Global warming continues; 𝑞≡ The temperature of the world's oceans will rise.
+𝑟≡ Hurricanes will become more intense.   (1M)
+((𝑝→𝑞) ∧(𝑞→𝑟)) →(𝑝→𝑟) (1M)
+If above statement is tautology then argument is valid. (1M)
+𝑝 𝑞 𝑟 𝑝→𝑞 𝑞→𝑟 (𝑝→𝑞) ∧(𝑞→𝑟) 𝑝→𝑟 ((𝑝→𝑞) ∧(𝑞→𝑟)) →(𝑝→𝑟)
+𝑇 𝑇 𝑇   𝑇   𝑇   𝑇   𝑇   𝑇
+𝑇 𝑇 𝐹   𝑇   𝐹   𝐹   𝐹   𝑇
+𝑇 𝐹 𝑇   𝐹   𝑇   𝐹   𝑇   𝑇
+𝑇 𝐹 𝐹   𝐹   𝑇   𝐹   𝐹   𝑇
+𝐹 𝑇 𝑇   𝑇   𝑇   𝑇   𝑇   𝑇
+𝐹 𝑇 𝐹   𝑇   𝐹   𝐹   𝑇   𝑇   (3M)
+𝐹 𝐹 𝑇   𝑇   𝑇   𝑇   𝑇   𝑇
+𝐹 𝐹 𝐹   𝑇   𝑇   𝑇   𝑇   𝑇
+********** 7 **********
+--- page 8 ---
+Hence the argument is valid.
+
+SMP L-
+
+Contin °
+
+bt Galea ware
+
+Qs Phe dem: of He
+
+FCI QF GH ik
+
+parses caren? wl
+--- page 9 ---
+Q.4 c) Solve the recurrence relation a, — 2a,_, = 3(2").
+
+FICCI QFE CI KK
+--- page 10 ---
+35(a). dof IR be the sel & seal numberys and Ig” is We
+see s& posihve veal numbers. If $: (W+) > (ik*,-) in defined
+oA =f (a= ef WXEIR , then Ahow that f ina qveuP
+iAomorphiam -
+sol'- Here £2 (1, +) —> (R*-)
+
+f£ jx om gveuP isomoyphiam, we have 4o show
+
+is defined o& f(x)= eX WuelR.
+
+To Ahew
+
+that
+
+@Q f is om horno morphism ,
+je, (nay) = FC0° FC)
+
+@ f£ is injective /one-one .
+@ fis surjective /onte -
+
+New, () Homomorphiam - gf AYER -
+Then £ (w44) = cae) et. as £(x)- f (7)
+£ ih oO homo morphism- — aM
+@Q one- ore > get 2,yEIR be Auch that
+
+f(a)= £(¥)
+> et. e
++ 42% wa
+
+£ jn one-one -
+@ onto = ket VERT be such that 42 f(a).
+
+tp sAhow, KEIR-
+
+Now, ys €y-e%
+
+> lgy= X:
+
+X= logy € IR.
+£ in onto - > (QM)
+
+f jh a Gtoup iAOMovPhiAM -
+
+--- page 11 ---
+Q.5 b) Prove the following statement by contrapositive:
+For any integers 𝑚 and 𝑛 , if the product of 𝑚 and 𝑛 is even, then 𝑚 is even or 𝑛 is even.
+********** 11 **********
+--- page 12 ---
+Q.5 c) Construct minimum spanning tree using Kruskal’s algorithm. Also find minimum total weight.
+Solution: Step 1: Arrange the edges of in order of increasing
+weights and select the edge with minimum weight.
+Step 2: Proceed sequentially, add each edge which does not
+result in a cycle until n – 1, edges are selected.
+Step 3: Exit.
+Student can also solve by table, 1 mark for each step.
+If there is only answer (MST and values), then 3 marks.
+Q.6 a) Define conditions for a function to be invertible. Explain why 𝑓(𝑥) = −3𝑥2 + 7 cannot be a
+bijection from ℝ→ℝ.
+Solution:
+invertible
+********** 12 **********
+--- page 13 ---
+Q.6 b) Find the edge connectivity and the vertex connectivity of the graphs:
+Solution:
+Edge connectivity = 3, Vertex connectivity = 1
+,
+Edge connectivity = 3, Vertex connectivity = 3
+For right answer in part 2 marks and1 marks for explanation in each part.
+(Student have to mention vertex and edges which have to remove.)
+Q.6 c) For 𝐺= {0,2,4,6},
+i) Prepare composition table with respect to addition modulo 8 (+8).
+ii) Prove that it is an abelian group with respect to addition modulo 8 (+8).
+Is it cyclic? Justify your answer.
+Solution:
+********** 13 **********
+--- page 14 ---
+ed Assoustivity
+Integer advuhm qssoUicdt we .
+(ate)tc> a+ Cerc)
+preserwas extirsbly,
+
+Restuci 4 mod 8
+
+gt=
+hain |
+Gus 2 .
+AIL muvercr? be mG.
+
+> Coram nteriwety |
+AaAuwhHor NICGEPS iG Commenter
+turebore godsh ~ avw~d & GH wv
+
+Commirtint:
+3G wa Abelian gronp. encler ation
+wiodvie &:. 1 Mark for each property
+(ce) Cyclic
+
+Q screrabes QD.
+
+2 aR, ZERHY LFAFAAVE OLN &)
+
+jims <QD = £9,4,4-65 §
+te GQ 49 <yclic.
+--- page 15 ---
+Q.7 a) Using laws of logic prove that ~(𝑝↔𝑞) ≡(𝑝∧∼𝑞) ∨(∼𝑝∧𝑞)
+Solution:
+Equal marks for each steps and student may be solve by using different rules.
+Q.7 b) Show that (𝑄, +,×) is a ring with unity, where 𝑄 is the set of rational numbers.
+Solution:
+********** 15 **********
+--- page 16 ---
+> a =)
+
+ter a2F fee -G-2 <0
+
+{™M
+
+ond Qt(-ay=o
+
+(9,) >
+
+FRR RR RK 1G FERRE
+--- page 17 ---
+= Melt pl este dsxdity: -
+
+=t
+infes
+
+1+Q2 a] = tPF = q
+
+aud 14 4
+
+Hert (Q4-) 134 rity with uwty,
+Ci)
+
+Question 7(c) (i)
+
+Determine whether the given graph has an Eulerian path or an Eulerian circuit, [fan Eulerian path or
+circuit exists, write one such path or circuit explicitly.
+
+O-1)—-®)
+a
+(w)
+
+Solution
+
+Let G be the given graph, then V(G) = {a,.y,2,8.u,0,0}. It can be seen that deg(a) = 3degly) =
+S,deg(z) = 4, deg(s) = 2,deg(u) = 3,deg(v) = 2,degiw) = 2. We know that A connected graph with at
+least two vertices has an Eulerian circuit if and only if each of its vertices has even degree, As G is a
+connected graph (every pair of vertices can be reached from the other by traversing a sequence of edges)
+and there are two vertices af odd degree (y and uj, the graph G can mot have Eulerian circuit, [2 Marks]
+
+Further, A commected graph has an Eulerian path but not an Eulerian circuit if amd only if it has
+exactly two vertices of odd degree. As G has exactly two vertices of odd degree, there exists an Eulerian
+path (which is not Eulerian ecireuit), {1 Mark)
+If we consider the path P = (u,v,mw,u,2,3,y,2,2,y) then, it covers all of the edges of G exactly once
+(Path P has different starting and terminating vertices). Consequently, path P is an Eulerian path which
+is not Eulerian circuit. {1 Mark)
+
+FEA AA AO CIC] 7A ok ok a
+--- page 18 ---
+Marks only for graphs, each have 2 marks
+ In any question if student prove by example not for general values then cut marks 50% of
+the weightage.
+ If there is a miner calculation mistake but all remaining method is correct then, not cut full
+marks.
+********** 18 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 49035369ceb8
 
 - Departments: AI and Data Science
@@ -9,6 +381,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIDS_7056/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: mixed (16 pages), mean OCR confidence 65.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -270,7 +643,6 @@ Solution:
 
 Integer advuhm ~~ qssocicdtive ;
 (ate>te> array)
-Restucr mod @ prest™wes earalby,
 => Tote ty demu}
 
 =>
@@ -309,7 +681,6 @@ ond at(-a)=0
 
 —{}
 (9,) >
-ZT cles a2 Und ayelb pUcshi oy
 ~ Fr. Fr
 Gb= Fes = qs 69
 3 Assousdi vs art, b« a 1 OT
@@ -412,6 +783,7 @@ FOI 7 6 FC Cr
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIML_7053/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: mixed (16 pages), mean OCR confidence 65.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -673,7 +1045,6 @@ Solution:
 
 Integer advuhm ~~ qssocicdtive ;
 (ate>te> array)
-Restucr mod @ prest™wes earalby,
 => Tote ty demu}
 
 =>
@@ -712,7 +1083,6 @@ ond at(-a)=0
 
 —{}
 (9,) >
-ZT cles a2 Und ayelb pUcshi oy
 ~ Fr. Fr
 Gb= Fes = qs 69
 3 Assousdi vs art, b« a 1 OT
@@ -815,6 +1185,7 @@ FOI 7 6 FC Cr
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSBS_7036/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026_48cfc12685.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: mixed (16 pages), mean OCR confidence 65.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1076,7 +1447,6 @@ Solution:
 
 Integer advuhm ~~ qssocicdtive ;
 (ate>te> array)
-Restucr mod @ prest™wes earalby,
 => Tote ty demu}
 
 =>
@@ -1115,7 +1485,6 @@ ond at(-a)=0
 
 —{}
 (9,) >
-ZT cles a2 Und ayelb pUcshi oy
 ~ Fr. Fr
 Gb= Fes = qs 69
 3 Assousdi vs art, b« a 1 OT
@@ -1218,6 +1587,7 @@ FOI 7 6 FC Cr
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Computer_7002/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: mixed (16 pages), mean OCR confidence 65.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1479,7 +1849,6 @@ Solution:
 
 Integer advuhm ~~ qssocicdtive ;
 (ate>te> array)
-Restucr mod @ prest™wes earalby,
 => Tote ty demu}
 
 =>
@@ -1518,7 +1887,6 @@ ond at(-a)=0
 
 —{}
 (9,) >
-ZT cles a2 Und ayelb pUcshi oy
 ~ Fr. Fr
 Gb= Fes = qs 69
 3 Assousdi vs art, b« a 1 OT
@@ -1621,6 +1989,8 @@ FOI 7 6 FC Cr
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_CS_7055/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: mixed (14 pages), mean OCR confidence 43.9
+- 19 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1670,8 +2040,6 @@ inference the argument implies?
 --- page 5 ---
 ©) [Find the solution to the nonlinear recurrence relation: 2a, — 7a,_1 + 3a, = 3"] 8
 with a, = 1&a, = —2.
-(aver Dt tenth On = 3 ath Qe\4 Soe
-Fes teu Boluhkon a Rano jememys recurrence rtlatier,
 2 Om —FOn-) +R =
 Putting ay. 7) bho
 aytagrda3et> a5 > wJr43-=
@@ -1680,10 +2048,8 @@ _ = fe oe Vo [poet any at ye
 fee PT Sree fm) 239, So ne ih a ste
 returremger rt Ap hor
 
-Se we AKU pha fra) delutun
 
 af? = ans .
-Subchubeg tte bee veereenie rthahe,
 
 2 8n3”. patna 3") Zeiss 2”
 =) ar Tie HH =I) Sn 4 BUD) ] 23" _
@@ -1693,7 +2059,6 @@ lat ea =| Ge By
 
 ola an an? _ im)
 
-Using (rtiel Comelohern “ays Jy we gh bE 4G = Pe
 O22, use och 144+, = oY
 wt Gor Ci<= ~ ue 4. Cpe 624 (29)
 a5
@@ -1701,7 +2066,6 @@ a5
 Monet Qn = @ af af)
 
 —
-\ Oy = ty = Os ce [Dé 1 34 me
 
 FIC DI EH ar
 --- page 6 ---
@@ -1745,7 +2109,6 @@ a)
 DRepurive: Hoy ae ¥ i i) mit
 !
 
-p) Lek afb 2 DIC fo whce”
 ab 3 b= am, tov Sort
 
 ac axl
@@ -1758,18 +2121,14 @@ we Ul 4 blo for a,bezt | tm.
 m 62
 
 thin b=
-Tt alb poe oh 1) ce bm, pr")
 
 ain) M2
-A bla tun be amy te ee cial
 Lom ro, 27 24 saw
-b= am, A Am, =an, - alc
 a m,=2 ha the vp tuanutve
 
 , acb- 7
 
 ae . OF 1) % o POseT
-Thus Hy purlabon » anh Sern
 
 efit
 
@@ -1779,10 +2138,8 @@ Kyvakal alagnthas.
 
 Ant Sho eles bo nendeertnai-s) cord in (+ variate)
 
-Aaa DE AO. AB BF cf to ep oe pt, Ad
 2 4 4 4 e 6 & z tas?
 Srval ied se ~ A 9 D 7
-Dick Pie Smatke cdog wilh Srabted gy
 
 d
 et Hen DE Ihin 46 ard 4B Cro ty,
@@ -1797,8 +2154,6 @@ A .
 teh e S
 al aT eee hpany
 
-hess dts <tquired MST sorts Ooi n-(-6
-Teta) uartgik om Hein an eT ah equa)
 
 BeBeusy~Set 52% —OM)
 
@@ -1819,7 +2174,6 @@ c) Use Warshall’s algorithm to find the transitive closure of the relation on 
 --- page 14 ---
 fo =
 
-R = {(a,b), (a,c), (@ e), (b, a), (b,c), (c, a), (c, b), Cd, a), (e, d)}
 
 k's Bie Cy! &
 
@@ -1858,13 +2212,10 @@ d iT 1 x Pe T
 
 x
 e| oo of ® 24)
-Cy by cd Re = Acaia) CO
 
 5), Ca,¢) ,Ca,d) , Care)
 =“ Cha) yCbyb) SO Cyd) 0.8,
-(cya) Ctb) tye) 4 Crd) Cre)
 Cdya) 04,5) , (4,0) 1 04,4) , Cave)
-Cera) , Ctud), Lore) 1 Cerd, CC 9
 
 -
 
@@ -1878,6 +2229,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_EXTC_7006/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2025-2026_84b0b2547f.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: mixed (16 pages), mean OCR confidence 65.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2139,7 +2491,6 @@ Solution:
 
 Integer advuhm ~~ qssocicdtive ;
 (ate>te> array)
-Restucr mod @ prest™wes earalby,
 => Tote ty demu}
 
 =>
@@ -2178,7 +2529,6 @@ ond at(-a)=0
 
 —{}
 (9,) >
-ZT cles a2 Und ayelb pUcshi oy
 ~ Fr. Fr
 Gb= Fes = qs 69
 3 Assousdi vs art, b« a 1 OT
@@ -2274,6 +2624,256 @@ Ay has o Hamiltonian cireuit bat not Eulerian circuit. [1 Mark]
 FOI 7 6 FC Cr
 ````
 
+## 2025-26 · Re-Exam · Sem 4 · Answer key · paper d7bd93ca29e8
+
+- Departments: Computer Science
+- Programmes: BTech CS 7055
+- Source: `02_Question_Papers/2024/Sem_04/Re-Exam/BTech_CS_7055/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
+- Text: mixed (7 pages), mean OCR confidence 33.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE)
+Year: II/Semester IV(Exam Year: 2025-2026)
+Subject: Discrete Mathematics
+Date: 04 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 7 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Figure in right hand side indicates full marks.
+7. Answer to each new question to be started on a fresh page.
+8. Assume Suitable data if necessary.
+Q.1 a) Identify whether the function 𝑓: ℤ→ℤ+ is onto if 𝑓(𝑛) = |𝑛|, and ℤ is the set of integers and ℤ+
+is the set of non-negative integers.
+Solution: For every 𝑛∈ℤ+,∃ 𝑛∈ℤ, such that 𝑓(𝑛) = |𝑛| = 𝑛. Hence 𝑓 is onto function.
+(concept of onto 2 marks and for solution 2 marks)
+Q.1 b) Construct truth tables for the statement 𝑝∨(~𝑞↔𝑟)
+Solution:   𝑝 𝑞 ~𝑞 𝑟 ~𝑞↔𝑟 𝑝∨(~𝑞↔𝑟)
+𝑇 𝑇 𝐹 𝑇   𝐹   𝑇
+𝑇 𝑇 𝐹 𝐹   𝑇   𝑇
+𝑇 𝐹 𝑇 𝑇   𝑇   𝑇   2-2 marks for
+𝑇 𝐹 𝑇 𝐹   𝐹   𝑇   last two
+𝐹 𝑇 𝐹 𝑇   𝐹   𝐹   columns.
+𝐹 𝑇 𝐹 𝐹   𝑇   𝑇
+𝐹 𝐹 𝑇 𝑇   𝑇   𝑇
+𝐹 𝐹 𝑇 𝐹   𝐹   𝐹
+Q.1 c) A box contains balls of 4 different colours. There are 25 balls of each colour. Find minimum number
+of balls have to peak from box to insure that at least 3 balls have same colour.
+Solution: Number of balls is Pigeon and number of colours (which is 4) is Pigeon Hole.
+Then by generalized Pigeon Hole principle
+𝑛= 𝑚(𝑘−1) + 1, where 𝑛 is Pigeon, 𝑚 is Pigeon Hole & 𝑘 is number of balls from same colour
+Therefor 𝑛= 4 × (3 −1) + 1 = 8 + 1 = 9.   (concept 2 marks and for solution 2 marks)
+Q.1 d) Identify which sequences is graphic (i.e., possible to draw a simple graph). If not then explain your
+answer, if yes draw graph. i) 4 , 2, 2, 1 , 1   ii) 6, 5 , 4, 3 , 1, 0
+********** 1 **********
+--- page 2 ---
+Solution: i) Sequence is graphic
+2-2 marks for each
+right answer.
+ii) Sequence is not graphic because   in this sequence odd vertices appear odd time
+which is not possible
+Q.1 e) Let (ℤ, ⨁) be a group where 𝑎⊕𝑏= 𝑎+ 𝑏+ 2. Find identity and inverse element for (ℤ, ⨁).
+Solution: Let 𝑒 be the identity element, then
+2-2 marks for each
+𝑎⊕𝑒= 𝑎+ 𝑒+ 2 = 𝑎⇒𝑒= −2
+right answer.
+Hence identity element is −2.
+Let inverse of 𝑎 is 𝑏 then 𝑎⊕𝑏= 𝑎+ 𝑏+ 2 = −2 ⇒𝑏= −4 −𝑎
+Hence inverse of [𝑎] is −4 −𝑎.
+Q.2 a) Determine 𝑎𝑛 from the recurrence relation 𝑎𝑛−5𝑎𝑛−1 + 6𝑎𝑛−2 = 0, where 𝑎1 = 1 & 𝑎2 = 5.
+Solution: 𝑥2 −7𝑥+ 12 = 0 ⇒𝑥= 2, 3 (1M)
+∴𝑎𝑛= 𝑐1(2)𝑛+ 𝑐2(3)𝑛 ⋯(𝑖) (2M)
+At 𝑛= 1, 𝑎1 = 1 = 2𝑐1 + 3𝑐2 and for 𝑛= 2, 𝑎2 = 5 = 4𝑐1 + 9𝑐2 then 𝑐1 = −1 & 𝑐2 = 1   (2M)
+Then 𝑎𝑛= −(2𝑛) + 3𝑛. (1M)
+Q.2 b) Identify whether below graph is bipartite or not. Justify your answer and also write adjacent matrix
+of the graph.
+Solution: Graph is bipartite. {𝑣1, 𝑣4,𝑣6, 𝑣8} and {𝑣2, 𝑣3,𝑣5, 𝑣7}. In this two disjoint sets
+no vertex is adjoint with other vertex in the same set. (3M)
+The adjoint matrix is
+0 1 1 0 0 0 1 0
+1 0 0 1 0 0 0 1
+1 0 0 1 0 1 0 0
+(1.5M)
+0 1 1 0 1 0 0 0
+0 0 0 1 0 1 0 1
+0 0 1 0 1 0 1 0
+1 0 0 0 0 1 0 1   (1.5M)
+[ 0 1 0 0 1 0 1 0]
+Q.2 c) If 𝑅 is the relation defined on ℤ (set of integer), such that, 𝑚𝑅𝑛 ⇔ 4 divides (𝑚−𝑛). Prove
+that 𝑅 is an equivalence relation.
+Solution: (1) 𝑚−𝑚= 0 and 0 is divided by 4. Hence 𝑚𝑅𝑚 ∀ 𝑚∈ℤ, i.e. 𝑅 is reflesxive. (2M)
+(2) If 𝑚𝑅𝑛 i.e. 𝑚−𝑛= 4𝑘 for some 𝑘∈ℤ⇒𝑛−𝑚= 4(−𝑘) ⇒𝑛𝑅𝑚. Hence 𝑅 is symmetric. (2M)
+(3) If 𝑚𝑅𝑛 (𝑚−𝑛= 4𝑘1 ⋯(𝑖)) and 𝑛𝑅𝑡 (𝑛−𝑡= 4𝑘2 ⋯(𝑖𝑖)) for some 𝑘1 & 𝑘2 ∈ℤ by (𝑖) + (𝑖𝑖), we have
+𝑚−𝑛+ 𝑛−𝑡= 4𝑘1 + 4𝑘2 ⇒𝑚−𝑡= 4(𝑘1 + 𝑘2) ⇒𝑚𝑅𝑡. Hence 𝑅 is transitive. (3M)
+By (1) , (2) and (3) 𝑅 is an equivalence relation. (1M)
+Q.3 a) By mathematical induction show that 1 + 2 + 3 + ⋯+ 𝑛= 𝑛(𝑛+1) , for every integer 𝑛≥1.
+2
+********** 2 **********
+--- page 3 ---
+Solution: For 𝑛= 1, LHS (1⋅2) = 1 =LHS. Hence statement is valid for 𝑛= 1. (2M)
+2
+Assume that given statement is true up to 𝑛= 𝑘. (i.e. 1 + 2 + 3 + ⋯+ 𝑘= 𝑘(𝑘+1) ) (1M)
+2
+Put 𝑛= 𝑘+ 1
+𝑘(𝑘+ 1)
+1 + 2 + 3 + ⋯+ 𝑘+ (𝑘+ 1) =   + (𝑘+ 1) (By induction)
+2
+(𝑘   (𝑘+ 2   (𝑘+ 1)(𝑘+ 2)   (3M)
+= (𝑘+ 1) + 1) = (𝑘+ 1)   ) =
+2   2   2
+Hence the proof.
+Q.3 b) Determine whether the given graph has a Hamilton circuit and Euler circuit. If it does, find such a
+circuit. If it does not, give an argument to show why no such circuit exists.
+Solution: Every vertex is an even vertex.
+Hence graph has Euler circuit.   (3M)
+Also graph has Hamilton circuit. Circuit is
+𝐴→𝐵→𝐶→𝐷→𝐸→𝐹→𝐴   (3M)
+Q.3 c) Let set 𝐴 be of positive integers not exceeding 150. Then find number of elements in set 𝐴 that are
+(i) not divisible by 3 or by 5 (ii) divisible by 3 but not by 5 (iii) divisible by 5 but not by 3.
+Solution: Number of elements divisible by 5 = 𝑛(𝐷5) = 30,   (2M)
+Number of elements divisible by 3 = 𝑛(𝐷3) = 50 & 𝑛(𝐷5 ∩𝐷3) = 10. Then
+𝑛(𝐷5 ∪𝐷3) = 𝑛(𝐷5) + 𝑛(𝐷3) −𝑛(𝐷5 ∩𝐷3) = 30 + 50 −10 = 70 (2M)
+⇒𝑛(𝐷5 ∪𝐷3)̅̅̅̅̅̅̅̅̅̅̅̅̅ = 𝑛(𝐴) −𝑛(𝐷5 ∪𝐷3) = 150 −70 = 80 (1M)
+Numbers divisible by 3 but not by 5=𝑛(𝐷3 ∩𝐷5̅̅̅) = 𝑛(𝐷3) −𝑛(𝐷3 ∩𝐷5) = 50 −10 = 40. (1.5M)
+Numbers divisible by 5 but not by 3=𝑛(𝐷5 ∩𝐷3̅̅̅) = 𝑛(𝐷5) −𝑛(𝐷5 ∩𝐷3) = 30 −10 = 20. (1.5M)
+Q.4 a) Prove that (2ℤ, +) be a subgroup of group (ℤ, +). Where ℤ is a set of integers and 2ℤ is a set of even
+integers.
+(1M)
+Solution: i) 2ℤ= {0, ±2, ±4, ⋯} ≠𝜙.
+ii) Let 𝑎, 𝑏∈2ℤ, then 𝑎= 2𝑛1 & 𝑏= 2𝑛2 for some 𝑛1, 𝑛2 ∈ℤ. 𝑎+ 𝑏= 2𝑛1 + 2𝑛2 = 2(𝑛1 + 𝑛2) ∈
+2ℤ. Hence 𝑎+ 𝑏∈2ℤ. (2M)
+iii) Let 𝑎= 2𝑛1 ∈2ℤ, then −𝑎= 2(−𝑛1) ∈2ℤ such that 𝑎+ (−𝑎) = 0. (2M)
+By (i), (ii) and (iii) (2ℤ, +) be a subgroup of (ℤ,+). (1M)
+Q.4 b) Check validity of the argument: If it rains, then the ground becomes wet. If the ground
+becomes wet, then the match will be cancelled. Therefore, if match is not cancelled, then there is no
+rain.
+Solution: Let 𝑝: It rains; 𝑞: The ground becomes wet; 𝑟: the match will be cancelled (1M)
+If [(𝑝→𝑞) ∧(𝑞→𝑟)] →(~𝑟→~𝑝) is tautology then argument is valid (2M)
+𝑝 𝑞 𝑟 𝑝→𝑞 𝑞→𝑟 ~𝑟→~𝑝 (𝑝→𝑞) ∧(𝑞→𝑟) [(𝑝→𝑞) ∧(𝑞→𝑟)] →(~𝑟→~𝑝)
+T T T   T   T   T   T   T
+T T F   T   F   F   F   T
+********** 3 **********
+--- page 4 ---
+T F T   F   T   T   F   T
+T F F   F   T   F   F   T
+F T T   T   T   T   T   T
+F T F   T   F   T   F   T
+F F T   T   T   T   T   T
+F F F   T   T   T   T   T
+This is tautology, hence argument is valid.
+Q.4 c) Solve the recurrence relation 𝑎𝑛+ 4𝑎𝑛−1 + 4𝑎𝑛−2 = 3𝑛. (1M)
+Solution: Characteristic equation is 𝑥2 + 4𝑥+ 4 = 0 ⇒𝑥= −2, −2 ⇒𝑎𝑛 (ℎ) = 𝑐1(−2)𝑛+ 𝑐2(−2)𝑛⋅𝑛 .
+Let 𝑎𝑛 (𝑝) = 𝛼03𝑛, then (1M)   (2M)
+𝛼03𝑛+ 4 ⋅𝛼03𝑛−1 + 4 ⋅𝛼03𝑛−2 = 3𝑛⇒9𝛼0 + 12𝛼0 + 4𝛼0 = 9
+⇒ 25𝛼0 = 9 ⇒ 𝛼0 = 9 ⇒𝑎𝑛 (𝑝) = 9 3𝑛   (3M)
+25   25
+𝑎𝑛= 𝑎𝑛 (ℎ) + 𝑎𝑛 (𝑝) = 𝑐1(−2)𝑛+ 𝑐2(−2)𝑛⋅𝑛+ 9 3𝑛 (1M)
+25
+Q.5 a) Let ℝ & ℝ+ be a sets of real and real positive numbers and𝑓:ℝ→ℝ+, such that 𝑓(𝑥) = 𝑒𝑥. Then
+prove that 𝑓 is an isomorphism from group (ℝ, +) to (ℝ+,×)
+Solution: For all 𝑦∈ℝ+ ∃𝑥∈ℝ, 𝑠. 𝑡. log 𝑦= 𝑥, therefore 𝑓(𝑥) = 𝑒𝑥= 𝑒log 𝑦= 𝑦. Hence 𝑓 is onto. (2M)
+Also if 𝑓(𝑥1) = 𝑓(𝑥2) ⇒𝑒𝑥1 = 𝑒𝑥2 ⇒𝑥1 = 𝑥2. Function is one to one also. (2M) And for homomorphism
+𝑓(𝑥1 + 𝑥2) = 𝑒𝑥1+𝑥2 = 𝑒𝑥1 ⋅𝑒𝑥2
+This map is homomorphic, one-one and onto. Hence the 𝑓 is isomorphism. (2M)
+Q.5 b) Prove that sum of three odd integers is an odd integer.
+Solution: Let 2𝑎+ 1, 2𝑏+ 1 and 2𝑐+ 1 are three odd numbers. Then   (2M)
+(2𝑎+ 1) + (2𝑏+ 1) + (2𝑐+ 1) = 2𝑎+ 2𝑏+ 2𝑐+ 2 + 1 = 2(𝑎+ 𝑏+ 𝑐+ 1) + 1 (3M)
+Which is an odd number. Hence the proof.
+(1M)
+Q.5 c) Use Prim’s algorithm to find a minimal spanning tree for the
+following graph.
+Solution: The steps for implementing Prim's algorithm are   as
+follows:
+➢ Initialize the minimum spanning tree with a vertex
+chosen at random.
+➢ Find all the edges that connect the tree to new
+(3M)
+vertices, find the minimum and add it to the tree
+➢ Keep repeating step 2 until we get a minimum
+spanning tree
+(4M) for algorithm
+minimal weight is 19. (1M)
+********** 4 **********
+--- page 5 ---
+Q.6 a) Determine whether the relation 𝑅 defined on 𝐴= ℝ× ℝ, (ℝ is a set of real numbers), such that
+(𝑥1, 𝑦1)𝑅(𝑥2, 𝑦2) ⇔𝑥1 −y1 = 𝑥2 −𝑦2 . Is 𝑅 reflexive, anti-symmetric and transitive, or none of these? Justify
+your answer.
+Solution: Reflexive: Because 𝑥1 −y1 = 𝑥1 −y1 therefore (𝑥1, 𝑦1)𝑅(𝑥1, 𝑦1). Hence 𝑅 is reflexive. (2M)
+Anti-symmetric: If (4,2)𝑅(10,8) & (10, 8)𝑅(4,2) but (4, 2) ≠(10, 8). Hence 𝑅 is not anti-symmetric. (2M)
+Transitive: If (𝑥1, 𝑦1)𝑅(𝑥2, 𝑦2) , i. e., 𝑥1 −y1 = 𝑥2 −𝑦2 ⋯(𝑖) & (𝑥2, 𝑦2)𝑅(𝑥3, 𝑦3), 𝑖. 𝑒. , 𝑥2 −𝑦2 = 𝑥3 −𝑦3 ⋯(𝑖𝑖)
+By (𝑖) & (𝑖𝑖) 𝑥1 −𝑦1 = 𝑥3 −𝑦3 ⇒ (𝑥1, 𝑦1)𝑅(𝑥3, 𝑦3). Hence 𝑅 is transitive. (2M)
+Q.6 b) Give the definition of planer graph with two examples, where one is planer and other is not planer.
+Solution: Definition: A planar graph is a graph that can be drawn in a 2D plane without any edges crossing.
+(3M)
+Planer graph example   Non-planer graph example
+(1.5M)
+(1.5M)
+Q.6 c) Discuss that ℤ8 = {0,1,2,3,4,5,6,7} is a ring under addition and multiplication mod 8. Also check
+whether (ℤ8, +8,×8) is integral domain or not.
+Solution: Composition tables   ×8 0 1 2 3 4 5 6 7
++8 0 1 2 3 4 5 6 7   0   0 0 0 0 0 0 0 0
+0   0 1 2 3 4 5 6 7   1   0 1 2 3 4 5 6 7
+1 1 2 3 4 5 6 7 0   2   0 2 4 6 0 2 4 6
+2   2 3 4 5 6 7 0 1   3   0 3 6 1 4 7 2 5
+3   3 4 5 6 7 0 1 2   4   0 4 0 4 0 4 0 4
+4   4 5 6 7 0 1 2 3   5   0 5 2 7 4 1 6 3
+5   5 6 7 0 1 2 3 4   6   0 6 4 2 0 6 4 2
+6   6 7 0 1 2 3 4 5   7   0 7 6 5 4 3 2 1
+7   7 0 1 2 3 4 5 6
+Each table have 2 marks
+i)   It is clear from composition tables that ℤ8 is closed for both +8 and ×8.
+ii)   Addition and multiplication on integers follows associative property, hence here also.
+iii)   0 is identity element for +8.
+iv)   Additive inverse of 1 is 7, 2 is 6, 3 is 5 and 4 is 4
+v)   Addition and multiplication on integers follows commutative property, hence here also.
+vi)   Distribution property follows for integers. Hence also here.
+Therefor (ℤ8, +8,×8) is ring. But 2 ×8 4 = 0, i.e., have zero divisor, hence it is not an integral domain.
+********** 5 **********
+--- page 6 ---
+4 marks for properties
+Q.7 a) Obtain the disjunctive normal form of (𝑝∨𝑞) →(~𝑝∧𝑞).
+3 marks
+Solution: ~(𝑝∨𝑞) ∨(~𝑝∧𝑞) ≡(~𝑝∧~𝑞) ∨(~𝑝∧𝑞)
+(~𝑝∧~𝑞) ∨(~𝑝∧𝑞) is a disjunctive normal form of (𝑝∨𝑞) →(~𝑝∧𝑞). 3 marks
+Q.7 b) Let 𝐺= {3,6,9,12,15,18} be a set. Then prove that 𝐺 with   ×21 3   6   9   12 15 18
+binary operation ×21 is a group.
+3   9   18 6   15 3   12
+Solution: Composition table is
+i)   It is clear from composition tables that 𝐺 is closed for ×21.   6   18 15 12 9   6   3
+ii) Multiplication on integers follows associative property, hence   9   6   12 18 3   9   15
+here also.   12   15 9   3   18 12 6
+3 marks for properties
+iii) 15 is identity element for ×21.   15   3   6   9   12 15 18
+iv) Inverse of 3 is 12, 6 is 6, 9 is 18.
+18   12 3   15 6   18 9
+Hence (𝐺,×21) is a group.
+Table have 3 marks
+Q.7 c) Find chromatic number for the given graph by using Welch-Powell Algorithm with explaining each
+step.
+Solution: We give an algorithm by Welch and Powell for a colouring of a graph G .
+Step 1: Order the vertices of G according to decreasing degrees.
+Step 2: Assign the first colour to C 1 , to the first vertex and then in sequential order assign C 1 to each
+vertex which is not adjacent to a previous vertex which was assigned the colour C 1 .
+Step 3: Repeat the Step 2, with a second-colour C 2 and the subsequence of non-coloured vertices.
+Step 4: Repeat Step 3, with a third-colour C 3 , then a fourth-colour C 4 and so an until all the vertices are
+coloured.   (4M) for algorithm
+Step 5: Exit.
+In this graph chromatic number is 5. (2M for answer)
+********** 6 **********
+--- page 7 ---
+
+````
+
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper c0da8cdee254
 
 - Departments: AI and Data Science
@@ -2281,6 +2881,7 @@ FOI 7 6 FC Cr
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_AIDS_7056/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2543,7 +3144,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -2552,7 +3152,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -2564,7 +3163,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -2586,7 +3184,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -2678,14 +3275,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -2778,6 +3373,7 @@ Lwin k
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_AIML_7053/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3040,7 +3636,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -3049,7 +3644,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -3061,7 +3655,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -3083,7 +3676,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -3175,14 +3767,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -3275,6 +3865,7 @@ Lwin k
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CSBS_7036/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3537,7 +4128,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -3546,7 +4136,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -3558,7 +4147,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -3580,7 +4168,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -3672,14 +4259,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -3772,6 +4357,7 @@ Lwin k
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CSE_DS_7057/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4034,7 +4620,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -4043,7 +4628,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -4055,7 +4639,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -4077,7 +4660,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -4169,14 +4751,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -4269,6 +4849,7 @@ Lwin k
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_IT_7001/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4531,7 +5112,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -4540,7 +5120,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -4552,7 +5131,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -4574,7 +5152,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -4666,14 +5243,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -4766,6 +5341,7 @@ Lwin k
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_AI_7051/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5028,7 +5604,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -5037,7 +5612,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -5049,7 +5623,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -5071,7 +5644,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -5163,14 +5735,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -5263,6 +5833,7 @@ Lwin k
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_Computer_7047/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5525,7 +6096,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -5534,7 +6104,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -5546,7 +6115,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -5568,7 +6136,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -5660,14 +6227,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -5760,6 +6325,7 @@ Lwin k
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_IT_7041/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6022,7 +6588,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -6031,7 +6596,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -6043,7 +6607,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -6065,7 +6628,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -6157,14 +6719,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -6257,6 +6817,8 @@ Lwin k
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CS_7055/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Jun 2026
 - Text: mixed (18 pages), mean OCR confidence 42.3
+- 15 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6292,10 +6854,8 @@ rl py FP T =
 JERE: Fr PO
 Fi is t 7. 4
 
-Sires th luk tum tonlamne Tt F both
 bo a orbungn or
 
-daa fu. Wok ulumo tonbaing TAF boty
 
 tt Le ee i — -
 
@@ -6308,7 +6868,6 @@ e) Determine whether (ℝ, ∗) , where " ∗" is the binary operation defined a
 |𝑎+ 𝑏|, ∀𝑎 , 𝑏∈ℝ is a semigroup?
 ********** 3 **********
 --- page 4 ---
-(R.%) inet a Gern(qperp breome pye adobe,
 
 disent held fore,
 Kit Azo, be-) and C= L , prow
@@ -6337,7 +6896,6 @@ The “2Ke Vue w- =
 
 Rb sap ve
 
-il) Spree» hak «Py fou oma 4 a
 a Aa 7) ct ae EL,
 
 Tho, ee _ hig
@@ -6360,7 +6918,6 @@ c) Solve the nonlinear recurrence relation:   8
 --- page 7 ---
 Ans2 — 5An41 + 6d, =n? with ag =1&a, = 2.
 BC) Cinar -2 04] i Nelly al Ayr | R22
-Subcshiy dn: x in dey a secatio} ona yirtie)
 wtourconn Hlahn Wee’ gt
 yt co ytr= O
 a peerere Se eR,
@@ -6374,18 +6931,15 @@ for PL ,. Avorn try Prof §o latins
 Qh) - Ao\ = Bn-e ¢ C Pathies fm <n 0)
 
 Any BE nD ee -S[A (ney Ol m+ RC] + gC ANB +C) =n
-| Steapt ane ond ent de toethauntj of Yaricrd Perse rs ue
 \ on, we ge = a
 
 Re\a; “Za &Z -@*A
 
 “we a?) = Sy SB ge
-“Thin flr gtworal Zale o - —bs)
 
 Cn= Cre aX, ne }—
 m= & 13 ef at Fe _ (2)
 
-(" For Ase, Gy = Cytle Sy = Jy alae Sh
 
 \ Frnsi, a =gursat eg =) 244305 -§/2
 2.
@@ -6435,7 +6989,6 @@ Pal. QXnb eS A —(im
 abil, (a xyb) X= ax u( bx COD
 (3) Tee Cdk, elkruot nw 2
 a axrxnea H&E — ( m)
-(@D ~The wnverre of anak clemery
 1 hos fnverese 4
 2 hoy Qrorase 4-
 
@@ -6462,18 +7015,14 @@ Coffee, 25 like Tea and Milk, 20 like Coffee and Milk, and 10 like all three. Fi
 (ii) Number of people who like exactly two drinks
 ********** 13 **********
 --- page 14 ---
-—_Ne- Sf peppte "Exas Two Aswale =
 se b a7 Se 2 ee fas)
 
 — Ae
-ee *h poeple ‘ Erouliy Ore Aenk” = 5
 
 : Dry Tea = 60 ~ Coo tic Ho) =
 —______ nll toe = 6o- C2rtiorio) = — / @-#)
 = _ On Mia = So-(ietiotim=-ic
 
-> ute bf alls S IS FAC HAE = AC Cun the |
-a Prudons Why dunk enoaty pra slunk
 
 c) Prove by Mathematical Induction that n! > 2"-1,Vvn > 1.
 
@@ -6532,7 +7081,6 @@ M \)
 Vs Ma
 
 FD Ts Graphs a2e Lomonpiuim
-basen AAG of Gand by Are
 
 64.3.3, 242} Ne
 Bot qrophs try and Or dome Sverdin 34 64a¢,
@@ -6578,7 +7126,6 @@ addid
 Lee Ltt ‘a.
 / oS ee ee
 Ss Sifsgiow | Wed po lRgnt 4 rs
-a ¢]o o o | J. bhiy)y (24), 3.4), (4,4)
 | tow bt odd
 xy _
 2 % 1, £ 5 4 : ——-
@@ -6597,6 +7144,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_EXTC_7006/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6859,7 +7407,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -6868,7 +7415,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -6880,7 +7426,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -6902,7 +7447,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -6994,14 +7538,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -7094,6 +7636,7 @@ Lwin k
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_Computer_7032/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7356,7 +7899,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -7365,7 +7907,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -7377,7 +7918,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -7399,7 +7939,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -7491,14 +8030,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -7591,6 +8128,7 @@ Lwin k
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_IT_7037/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (18 pages), mean OCR confidence 61.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7853,7 +8391,6 @@ Q.4 c) Solve the recurrence relation 𝑎𝑛−8𝑎𝑛−1 = 5(2𝑛).
 --- page 9 ---
 RK KKK RK KK 9 2h KKK RK Kk KK
 --- page 10 ---
-@s(o). gol IR be dhe aed & eal numbers ond if id et
 pet a posthve veal numbera- ré f: (@-) —>(ik +) is defined
 oh fade lege, WHE IR”, then show thet £ ik a gvewP
 
@@ -7862,7 +8399,6 @@ sols Here £08.) — (RAD
 To shew £ is » g¥e4P
 that
 
-ig defined om fla)=lagn, VreElR-
 iazomerphiAw, we haye dp show
 
 f ik ao homo merphiam ,
@@ -7874,7 +8410,6 @@ Y ie, f(aeay= Fle) + E04)
 ; +
 New, (7) Homomevphiam > gf WYER -
 
-“Th ean fla-y)= leafny) es lege + lea y = £(a)-+4 [1)-
 f ix ao homomorphism: — a"
 
 “
@@ -7896,7 +8431,6 @@ Align, we £ ya lyn
 » gs @2 EIR. :
 a a ee —__> QM)
 
-0 f jh a gtouP iAD Moy PhiAw -
 
 FRR ICR 7 OI HOH
 --- page 11 ---
@@ -7988,14 +8522,12 @@ Hen (26,4) Abelian y? a
 q Xe & = (q:b) wrod £ € 2s
 
 > Assoostie
-(ox b) XS ~ +b) meds Xe C
 < Q@ (bc) aod £
 = @X%- Cb xc)
 2 Piste butive '-
 WwW @4bl € Zs
 axCbkO = abt mods
 = (4 b+a-C) mod S
-S Gx b t axe c
 
 z
 Catebxec = (arb). med =
@@ -9768,378 +10300,6 @@ Solution:
 3. Hamilton Path exists d-a-e-b-f-c
 4. Hamilton Cycle exists d-a-e-b-f-c-d
 Page 20 of 20
-````
-
-## 2024-25 · Final-Exam · Sem 3 · Answer key · paper dd6992aaf46e
-
-- Departments: AI and Machine Learning, Artificial Intelligence, Computer Engineering, Computer Science and Business Systems, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology
-- Programmes: BTech AI 7012, BTech AIML 7053, BTech Computer 7002, BTech CSBS 7036, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, Integrated Computer 7032, Integrated IT 7037, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041
-- Source: `02_Question_Papers/2024/Sem_03/Final-Exam/BTech_CSE_DS_7057/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf` (+13 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: mixed (18 pages), mean OCR confidence 54.9
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
-(CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech
-Intg. (IT)/B. Tech (IT)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
-Year: II/Semester III/Semester V/Semester VII(Exam Year: NA)
-Subject: Discrete Mathematics
-Date: NA   Time: NA to NA (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 1 pages.
-2. Question No. 1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Figure in right hand side indicates full marks.
-7. Answer to each new question to be started on a fresh page.
-8. Assume Suitable data if necessary.
-Q.1 a) Let ℤ be a set of integers and let 𝑅 be a relation on 𝐴= ℤ× ℤ defined by (𝑎, 𝑏)𝑅(𝑐, 𝑑) 𝑖𝑓 𝑎+ 𝑑= 𝑏+
-𝑐, Then prove that 𝑅 is reflexive and transitive.
-Solution: i) 𝑎+ 𝑏= 𝑏+ 𝑎⇒(𝑎, 𝑏)𝑅(𝑎, 𝑏), ∀ (𝑎, 𝑏) ∈𝐴, hence 𝑅 is reflexive. 2 M
-ii) If (𝑎, 𝑏)𝑅(𝑐, 𝑑) i.e., 𝑎+ 𝑑= 𝑏+ 𝑐⋯(𝑖) and (𝑐, 𝑑)𝑅(𝑒, 𝑓) i.e., 𝑐+ 𝑓= 𝑑+ 𝑒 ⋯(𝑖𝑖)
-Now by (𝑖) + (𝑖𝑖), we have 𝑎+ 𝑑+ 𝑐+ 𝑓= 𝑏+ 𝑐+ 𝑑+ 𝑒⇒𝑎+ 𝑓= 𝑏+ 𝑒⇒(𝑎, 𝑏)𝑅(𝑒, 𝑓), hence 𝑅 is
-transitive.   2 M
-Q.1 b) Using the truth table prove that following statement is a Tautology.
-Solution:
-Hence, given proposition is tautology.
-********** 1 **********
---- page 2 ---
-Q.1 c) In a computer network of 30 computers, each computer is directly connected to at least 10 others.
-Show that at least two computers have the same number of direct connections.
-Solution: Each computer can have between 10 and 29 connections → 20 possible values (10–29).
-There are 30 computers → 30 pigeons, 20 pigeonholes. 2 M
-Hence, at least ⌈ 30 20⌉= 2 computers share the same degree (number of connections). 2 M
-Q.1 d) (i) Give an example of a regular, connected graph on six vertices that is not complete.
-(ii) Identify whether degree sequence is graphic or not. If not then explain your answer, if yes
-draw graph 3, 2, 2, 1, 0.
-Solution: i) Any right example has 2 marks. Here have two examples 𝐶6 and
-ii) It’s graphical   2 Marks
-Q.1 e) Let G  Z 6 *   1,2,3,4,5  under multiplication mod 6. Identify all elements that have an inverse. Find
-the inverse of 5.
-Solution: Elements 1 and 5 have inverse. (If student only write 5 then also give full marks,
-because 1 is the identity element.)   2 Marks
-Inverse of 5 is 5.   2 Marks
-Q.2 a) Solve the recurrence relation 𝑎𝑛= 𝑎𝑛−1 + 𝑎𝑛−2 with 𝑎1 = 𝑎2 = 1.
-Solution:
-1M
-1M
-2M
-1M
-1M
-********** 2 **********
---- page 3 ---
-Q. 2(b) Check whether the following graph is a bipartite graph. Also write the corresponding
-adjacency matrix.
-********** 3 **********
---- page 4 ---
-(2 colour graph condition is also right) If student state that there is no odd cycle (all cycles
-are even) then they have to show that all cycles of the given graph and show them even).
-Q.2 c) If 𝑅 is the relation defined on ℤ (set of integer), such that, 𝑚𝑅𝑛 ⇔ 4 divides (𝑚−𝑛). Prove that 𝑅
-is an equivalence relation.
-Solution:
-(1) 𝑚−𝑚= 0 and 0 is divided by 4. Hence 𝑚𝑅𝑚 ∀ 𝑚∈ℤ, i.e. 𝑅 is reflesxive. 2M
-(2) If 𝑚𝑅𝑛 i.e. 𝑚−𝑛= 4𝑘 for some 𝑘∈ℤ⇒𝑛−𝑚= 4(−𝑘) ⇒𝑛𝑅𝑚. Hence 𝑅 is symmetric. 2M
-(3) If 𝑚𝑅𝑛 (𝑚−𝑛= 4𝑘1 ⋯(𝑖)) and 𝑛𝑅𝑡 (𝑛−𝑡= 4𝑘2 ⋯(𝑖𝑖)) for some 𝑘1 & 𝑘2 ∈ℤ by (𝑖) + (𝑖𝑖), we have
-𝑚−𝑛+ 𝑛−𝑡= 4𝑘1 + 4𝑘2 ⇒𝑚−𝑡= 4(𝑘1 + 𝑘2) ⇒𝑚𝑅𝑡. Hence 𝑅 is transitive.   3 M
-By (1) , (2) and (3) 𝑅 is an equivalence relation.
-1M
-Q.3 a) Prove by mathematical induction that 𝑛(𝑛+ 1)(𝑛+ 2) is a multiple of 6 for 𝑛≥1.
-Solution: : Let P(n) denotes the statement that we are supposed to prove. We prove the statement by
-induction. We first show that P(1) is true:
-Step-1:
-P(1): 1(2)(3) = 6, which is divisible by 6 and therefore P(1) is true. (2M)
-Step-2:
-Assume that P(k) is true for some natural number k. That is,
-𝑘(𝑘+ 1)(𝑘+ 2) = 6𝑡⋯(𝑖), where 𝑡 is a natural number.   (1M)
-********** 4 **********
---- page 5 ---
-Step-3:
-To prove: P(k+1) is true.
-Note that,
-(𝑘+ 1)( 𝑘+ 2)( 𝑘+ 3) = 𝑘(𝑘+ 1)( 𝑘+ 2) + 3(𝑘+ 1)( 𝑘+ 2)
-(𝑘+ 1)( 𝑘+ 2)( 𝑘+ 3) = 6𝑡 + 3(𝑘+ 1)( 𝑘+ 2) ⋯(𝑖𝑖) by equation (𝑖)
-(1M)
-If 𝑘 is even (i.e. 𝑘= 2𝑠) then 3(𝑘+ 1)( 𝑘+ 2) = 3(2𝑠+ 1)(2𝑠+ 2) = 6(2𝑠+ 1)(𝑠+ 1) = 6𝑚⋯(𝑖𝑖𝑖𝑎)
-If 𝑘 is odd (i.e. 𝑘= 2𝑠+ 1) then 3(𝑘+ 1)( 𝑘+ 2) = 3(2𝑠+ 2)(2𝑠+ 3) = 6(𝑠+ 1)(2𝑠+ 3) =
-6𝑛⋯(𝑖𝑖𝑖𝑏)
-(1M)
-By equation (𝑖𝑖) , (𝑖𝑖𝑖𝑎) & (𝑖𝑖𝑖𝑏)
-(𝑘+ 1)( 𝑘+ 2)( 𝑘+ 3) = 6𝑡 + 6𝑝 , where 𝑝∈{𝑚, 𝑛} (1M)
-This completes the proof.
-Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm.
-Solution: Welch-Powell Algorithm:
-Step 1: Order the vertices of G according to decreasing degrees.
-Step 2: Assign the first colour to C 1 , to the first vertex and then in
-sequential order assign C 1 to each vertex which is not adjacent to a
-previous vertex which was assigned the colour C 1 .
-Step 3: Repeat the Step 2, with a second-colour C 2 and the
-subsequence of non-coloured vertices.
-Step 4: Repeat Step 3, with a third-colour C 3 , then a fourth-colour
-C 4 and so an until all the vertices are coloured.
-Step 5: Exit.   (For algorithm 3 marks and for solution 3
-marks)
-We can see that using Welsh Powell’s algorithm we can color the vertices with only 3 types of colors
-(chromatic number of this graph is 3).
-OR by table
-D E   F A   I   C H G B
-5   4   4   3   3   2   2   2   1
-C1 C2 C3 C1 C2 C3 C3 C2 C1
-For each right colour 1 mark from left to right
-Some students may take deg(E) =2, if student solve proper then give them full marks.
-D   F A   I   E   C H G B
-5   4   3   3   2   2   2   2   1
-C1 C2 C1 C2 C2 C3 C3 C2 C1
-********** 5 **********
---- page 6 ---
-Q.3 c) In a survey of 60 people, it was found that; 25 read Business India, 26 reads India Today, 26
-reads Times of India, 11 reads both Business India and India Today, 09 reads both Business India
-and Times of India, 08 reads both India Today and Times of India, 08 reads none of the three. Then
-find (i) How many read all three? (ii) How many read exactly one?
-Solution: : Let B, I and T denotes the sets of people reading Business India, India Today, and Times of
-India respectively. Then we have,
-|B| = 25, |I| = 26, |T| = 26, |B⋂I| = 11, |B⋂T| = 9, |I⋂T| = 8,   (1M)
-Since 8 people read none of the newspaper, the number of people reading at least one newspaper are
-|B ⋃ I ⋃ T| = 60 −8 = 52. (1M)
-Now using the formula:
-|B ⋃ I ⋃ T| = |B| + |I| + |T| −|B⋂I| −|B⋂T| −|I⋂T| + |B⋂I⋂T|
-(1M)
-We have:
-52 = 25 + 26 + 26 −11 −9 −8 + |B⋂I⋂T|
-Which implies |B⋂I⋂T| = 52 −49 = 3, that settles the first question.   (2M)
-For the second question the answer is
-|B| + |I| + |T| −2(|B⋂I| + |B⋂T| + |I⋂T|) + 3|B⋂I⋂T|   (𝟏𝑴)
-= 25 + 26 + 26 −2(11 + 9 + 8) + 3(3)
-= 30.   (𝟐𝑴)
-The idea to the last part is: add each set individually and then since (B⋂T), (B⋂I), (I⋂T) got added twice, remove 2 times these
-numbers. Now while adding B, I, and T, we added the intersection B⋂I⋂T thrice while removing 2 times the pairwise intersectio n
-we removed total 6 times B⋂I⋂T. Therefore to offset the error, we need to add 3 times B⋂I⋂T and that is the formula provided
-above. Students can solve this question by Venn diagram also.
-U
-B
-I
-8   8
-10
-3
-6   5
-T   12
-8
-Q.4 a) Prove that the set of non-zero real numbers ℝ∗ forms an abelian group with respect to the
-operation “○”, where “○” is defined as 𝑎○b = 𝑎𝑏 , ∀ 𝑎, 𝑏∈ℝ∗.
-2
-********** 6 **********
---- page 7 ---
-Q.4 b) Formalize the following and, by writing truth tables for premises and conclusion, determine
-whether the following argument is valid. “If the global warming continues, then the temperature of the
-world's oceans will rise. If ocean temperatures rise, then hurricanes will become more intense. Therefore, if
-global warming continues, then hurricane will become more intense.”
-Solution: 𝑝≡ Global warming continues; 𝑞≡ The temperature of the world's oceans will rise.
-𝑟≡ Hurricanes will become more intense.   (1M)
-((𝑝→𝑞) ∧(𝑞→𝑟)) →(𝑝→𝑟) (1M)
-If above statement is tautology then argument is valid. (1M)
-𝑝 𝑞 𝑟 𝑝→𝑞 𝑞→𝑟 (𝑝→𝑞) ∧(𝑞→𝑟) 𝑝→𝑟 ((𝑝→𝑞) ∧(𝑞→𝑟)) →(𝑝→𝑟)
-𝑇 𝑇 𝑇   𝑇   𝑇   𝑇   𝑇   𝑇
-𝑇 𝑇 𝐹   𝑇   𝐹   𝐹   𝐹   𝑇
-𝑇 𝐹 𝑇   𝐹   𝑇   𝐹   𝑇   𝑇
-𝑇 𝐹 𝐹   𝐹   𝑇   𝐹   𝐹   𝑇
-𝐹 𝑇 𝑇   𝑇   𝑇   𝑇   𝑇   𝑇
-𝐹 𝑇 𝐹   𝑇   𝐹   𝐹   𝑇   𝑇   (3M)
-𝐹 𝐹 𝑇   𝑇   𝑇   𝑇   𝑇   𝑇
-𝐹 𝐹 𝐹   𝑇   𝑇   𝑇   𝑇   𝑇
-********** 7 **********
---- page 8 ---
-Hence the argument is valid.
-
-SMP L-
-
-Contin °
-
-bt Galea ware
-
-Qs Phe dem: of He
-
-FCI QF GH ik
-
-parses caren? wl
---- page 9 ---
-Q.4 c) Solve the recurrence relation a, — 2a,_, = 3(2").
-
-FICCI QFE CI KK
---- page 10 ---
-35(a). dof IR be the sel & seal numberys and Ig” is We
-see s& posihve veal numbers. If $: (W+) > (ik*,-) in defined
-oA =f (a= ef WXEIR , then Ahow that f ina qveuP
-iAomorphiam -
-sol'- Here £2 (1, +) —> (R*-)
-
-f£ jx om gveuP isomoyphiam, we have 4o show
-
-is defined o& f(x)= eX WuelR.
-
-To Ahew
-
-that
-
-@Q f is om horno morphism ,
-je, (nay) = FC0° FC)
-
-@ f£ is injective /one-one .
-@ fis surjective /onte -
-
-New, () Homomorphiam - gf AYER -
-Then £ (w44) = cae) et. as £(x)- f (7)
-£ ih oO homo morphism- — aM
-@Q one- ore > get 2,yEIR be Auch that
-
-f(a)= £(¥)
-> et. e
-+ 42% wa
-
-£ jn one-one -
-@ onto = ket VERT be such that 42 f(a).
-
-tp sAhow, KEIR-
-
-Now, ys €y-e%
-
-> lgy= X:
-
-X= logy € IR.
-£ in onto - > (QM)
-
-f jh a Gtoup iAOMovPhiAM -
-
-FEA AO AIC] A kk ok ak
---- page 11 ---
-Q.5 b) Prove the following statement by contrapositive:
-For any integers 𝑚 and 𝑛 , if the product of 𝑚 and 𝑛 is even, then 𝑚 is even or 𝑛 is even.
-********** 11 **********
---- page 12 ---
-Q.5 c) Construct minimum spanning tree using Kruskal’s algorithm. Also find minimum total weight.
-Solution: Step 1: Arrange the edges of in order of increasing
-weights and select the edge with minimum weight.
-Step 2: Proceed sequentially, add each edge which does not
-result in a cycle until n – 1, edges are selected.
-Step 3: Exit.
-Student can also solve by table, 1 mark for each step.
-If there is only answer (MST and values), then 3 marks.
-Q.6 a) Define conditions for a function to be invertible. Explain why 𝑓(𝑥) = −3𝑥2 + 7 cannot be a
-bijection from ℝ→ℝ.
-Solution:
-invertible
-********** 12 **********
---- page 13 ---
-Q.6 b) Find the edge connectivity and the vertex connectivity of the graphs:
-Solution:
-Edge connectivity = 3, Vertex connectivity = 1
-,
-Edge connectivity = 3, Vertex connectivity = 3
-For right answer in part 2 marks and1 marks for explanation in each part.
-(Student have to mention vertex and edges which have to remove.)
-Q.6 c) For 𝐺= {0,2,4,6},
-i) Prepare composition table with respect to addition modulo 8 (+8).
-ii) Prove that it is an abelian group with respect to addition modulo 8 (+8).
-Is it cyclic? Justify your answer.
-Solution:
-********** 13 **********
---- page 14 ---
-ed Assoustivity
-Integer advuhm qssoUicdt we .
-(ate)tc> a+ Cerc)
-preserwas extirsbly,
-
-Restuci 4 mod 8
-
-gt=
-hain |
-Gus 2 .
-AIL muvercr? be mG.
-
-> Coram nteriwety |
-AaAuwhHor NICGEPS iG Commenter
-turebore godsh ~ avw~d & GH wv
-
-Commirtint:
-3G wa Abelian gronp. encler ation
-wiodvie &:. 1 Mark for each property
-(ce) Cyclic
-
-Q screrabes QD.
-
-2 aR, ZERHY LFAFAAVE OLN &)
-
-jims <QD = £9,4,4-65 §
-te GQ 49 <yclic.
---- page 15 ---
-Q.7 a) Using laws of logic prove that ~(𝑝↔𝑞) ≡(𝑝∧∼𝑞) ∨(∼𝑝∧𝑞)
-Solution:
-Equal marks for each steps and student may be solve by using different rules.
-Q.7 b) Show that (𝑄, +,×) is a ring with unity, where 𝑄 is the set of rational numbers.
-Solution:
-********** 15 **********
---- page 16 ---
-> a =)
-
-ter a2F fee -G-2 <0
-
-{™M
-
-ond Qt(-ay=o
-
-(9,) >
-J clesure Unda Welp pUcahy
-
-FRR RR RK 1G FERRE
---- page 17 ---
-= Melt pl este dsxdity: -
-
-=t
-infes
-
-1+Q2 a] = tPF = q
-
-aud 14 4
-
-Hert (Q4-) 134 rity with uwty,
-Ci)
-
-Question 7(c) (i)
-
-Determine whether the given graph has an Eulerian path or an Eulerian circuit, [fan Eulerian path or
-circuit exists, write one such path or circuit explicitly.
-
-O-1)—-®)
-a
-(w)
-
-Solution
-
-Let G be the given graph, then V(G) = {a,.y,2,8.u,0,0}. It can be seen that deg(a) = 3degly) =
-S,deg(z) = 4, deg(s) = 2,deg(u) = 3,deg(v) = 2,degiw) = 2. We know that A connected graph with at
-least two vertices has an Eulerian circuit if and only if each of its vertices has even degree, As G is a
-connected graph (every pair of vertices can be reached from the other by traversing a sequence of edges)
-and there are two vertices af odd degree (y and uj, the graph G can mot have Eulerian circuit, [2 Marks]
-
-Further, A commected graph has an Eulerian path but not an Eulerian circuit if amd only if it has
-exactly two vertices of odd degree. As G has exactly two vertices of odd degree, there exists an Eulerian
-path (which is not Eulerian ecireuit), {1 Mark)
-If we consider the path P = (u,v,mw,u,2,3,y,2,2,y) then, it covers all of the edges of G exactly once
-(Path P has different starting and terminating vertices). Consequently, path P is an Eulerian path which
-is not Eulerian circuit. {1 Mark)
-
-FEA AA AO CIC] 7A ok ok a
---- page 18 ---
-Marks only for graphs, each have 2 marks
- In any question if student prove by example not for general values then cut marks 50% of
-the weightage.
- If there is a miner calculation mistake but all remaining method is correct then, not cut full
-marks.
-********** 18 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 9dc0340e5b83
@@ -12964,6 +13124,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_07/Final-Exam/Integrated_Computer_7032/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Dec 2024
 - Text: mixed (20 pages), mean OCR confidence 73.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -13030,7 +13191,6 @@ smaller square, which is 2 (1m)
 
 d. | How many subgraphs with exactly three vertices does K, have. Draw them.
 Lo A LN
-rem c B c oS c
 A &
 VAN Lo Gm)
 & c B "Cc
@@ -13075,7 +13235,6 @@ ii) Determine whether the following graph is bi-partite. Justify your answer.
 ********** 4 **********
 --- page 5 ---
 V, = } A, D J (1m)
-Vo = } B, C, EB f
 ~ V ( Vo = p &
 
 V) vv, = Total verhices (1m)
@@ -13555,6 +13714,7 @@ FR ORR 9 CROCK RK
 - Source: `02_Question_Papers/2024/Sem_07/Final-Exam/Integrated_IT_7037/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Dec 2024
 - Text: mixed (20 pages), mean OCR confidence 73.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -13621,7 +13781,6 @@ smaller square, which is 2 (1m)
 
 d. | How many subgraphs with exactly three vertices does K, have. Draw them.
 Lo A LN
-rem c B c oS c
 A &
 VAN Lo Gm)
 & c B "Cc
@@ -13666,7 +13825,6 @@ ii) Determine whether the following graph is bi-partite. Justify your answer.
 ********** 4 **********
 --- page 5 ---
 V, = } A, D J (1m)
-Vo = } B, C, EB f
 ~ V ( Vo = p &
 
 V) vv, = Total verhices (1m)
@@ -14146,6 +14304,7 @@ FR ORR 9 CROCK RK
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_AIDS_7056/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -14197,7 +14356,6 @@ Y RMRED & Rig wd wymrdi'e — |
 5)
 EAR= FO, 2.9 P42 WM) E900) ep
 
-4 R ) oh SY mmole _ i M 1
 
 Page 2 of 20
 --- page 3 ---
@@ -14347,7 +14505,6 @@ it .8),8.c) ER
 A-B), Bech 4g Aa (@)Ec- a7
 
 » (OER, (2 m)
-w R 1) dra i'bve k Some CAuivolen Ce ,
 
 Page 6 of 20
 
@@ -14434,14 +14591,6 @@ B: | play basketball.
 Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
 
 Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
-T T T F T T
-T T F F T F
-T F T T T T
-T F T T T F
-F T F T F T
-F T T T F F
-F F F T F T
-F F T T F F
 
 na:
 
@@ -14603,7 +14752,6 @@ t Yalled a Plana Trp, —6n)
 
 —— Bm.
 
-Ps The verhicahen ean be done wy thee, Rakets
 orm a,
 
 iii. Addition Modulo 15 Table
@@ -14673,6 +14821,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_AIML_7053/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -14724,7 +14873,6 @@ Y RMRED & Rig wd wymrdi'e — |
 5)
 EAR= FO, 2.9 P42 WM) E900) ep
 
-4 R ) oh SY mmole _ i M 1
 
 Page 2 of 20
 --- page 3 ---
@@ -14874,7 +15022,6 @@ it .8),8.c) ER
 A-B), Bech 4g Aa (@)Ec- a7
 
 » (OER, (2 m)
-w R 1) dra i'bve k Some CAuivolen Ce ,
 
 Page 6 of 20
 
@@ -14961,14 +15108,6 @@ B: | play basketball.
 Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
 
 Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
-T T T F T T
-T T F F T F
-T F T T T T
-T F T T T F
-F T F T F T
-F T T T F F
-F F F T F T
-F F T T F F
 
 na:
 
@@ -15130,7 +15269,6 @@ t Yalled a Plana Trp, —6n)
 
 —— Bm.
 
-Ps The verhicahen ean be done wy thee, Rakets
 orm a,
 
 iii. Addition Modulo 15 Table
@@ -15200,6 +15338,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_AI_7012/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -15251,7 +15390,6 @@ Y RMRED & Rig wd wymrdi'e — |
 5)
 EAR= FO, 2.9 P42 WM) E900) ep
 
-4 R ) oh SY mmole _ i M 1
 
 Page 2 of 20
 --- page 3 ---
@@ -15401,7 +15539,6 @@ it .8),8.c) ER
 A-B), Bech 4g Aa (@)Ec- a7
 
 » (OER, (2 m)
-w R 1) dra i'bve k Some CAuivolen Ce ,
 
 Page 6 of 20
 
@@ -15488,14 +15625,6 @@ B: | play basketball.
 Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
 
 Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
-T T T F T T
-T T F F T F
-T F T T T T
-T F T T T F
-F T F T F T
-F T T T F F
-F F F T F T
-F F T T F F
 
 na:
 
@@ -15657,7 +15786,6 @@ t Yalled a Plana Trp, —6n)
 
 —— Bm.
 
-Ps The verhicahen ean be done wy thee, Rakets
 orm a,
 
 iii. Addition Modulo 15 Table
@@ -15727,6 +15855,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_CSE_DS_7057/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -15778,7 +15907,6 @@ Y RMRED & Rig wd wymrdi'e — |
 5)
 EAR= FO, 2.9 P42 WM) E900) ep
 
-4 R ) oh SY mmole _ i M 1
 
 Page 2 of 20
 --- page 3 ---
@@ -15928,7 +16056,6 @@ it .8),8.c) ER
 A-B), Bech 4g Aa (@)Ec- a7
 
 » (OER, (2 m)
-w R 1) dra i'bve k Some CAuivolen Ce ,
 
 Page 6 of 20
 
@@ -16015,14 +16142,6 @@ B: | play basketball.
 Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
 
 Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
-T T T F T T
-T T F F T F
-T F T T T T
-T F T T T F
-F T F T F T
-F T T T F F
-F F F T F T
-F F T T F F
 
 na:
 
@@ -16184,7 +16303,6 @@ t Yalled a Plana Trp, —6n)
 
 —— Bm.
 
-Ps The verhicahen ean be done wy thee, Rakets
 orm a,
 
 iii. Addition Modulo 15 Table
@@ -16254,6 +16372,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_Computer_7002/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -16305,7 +16424,6 @@ Y RMRED & Rig wd wymrdi'e — |
 5)
 EAR= FO, 2.9 P42 WM) E900) ep
 
-4 R ) oh SY mmole _ i M 1
 
 Page 2 of 20
 --- page 3 ---
@@ -16455,7 +16573,6 @@ it .8),8.c) ER
 A-B), Bech 4g Aa (@)Ec- a7
 
 » (OER, (2 m)
-w R 1) dra i'bve k Some CAuivolen Ce ,
 
 Page 6 of 20
 
@@ -16542,14 +16659,6 @@ B: | play basketball.
 Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
 
 Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
-T T T F T T
-T T F F T F
-T F T T T T
-T F T T T F
-F T F T F T
-F T T T F F
-F F F T F T
-F F T T F F
 
 na:
 
@@ -16711,7 +16820,6 @@ t Yalled a Plana Trp, —6n)
 
 —— Bm.
 
-Ps The verhicahen ean be done wy thee, Rakets
 orm a,
 
 iii. Addition Modulo 15 Table
@@ -16781,6 +16889,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_IT_7001/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -16832,7 +16941,6 @@ Y RMRED & Rig wd wymrdi'e — |
 5)
 EAR= FO, 2.9 P42 WM) E900) ep
 
-4 R ) oh SY mmole _ i M 1
 
 Page 2 of 20
 --- page 3 ---
@@ -16982,7 +17090,6 @@ it .8),8.c) ER
 A-B), Bech 4g Aa (@)Ec- a7
 
 » (OER, (2 m)
-w R 1) dra i'bve k Some CAuivolen Ce ,
 
 Page 6 of 20
 
@@ -17069,14 +17176,6 @@ B: | play basketball.
 Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
 
 Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
-T T T F T T
-T T F F T F
-T F T T T T
-T F T T T F
-F T F T F T
-F T T T F F
-F F F T F T
-F F T T F F
 
 na:
 
@@ -17238,7 +17337,6 @@ t Yalled a Plana Trp, —6n)
 
 —— Bm.
 
-Ps The verhicahen ean be done wy thee, Rakets
 orm a,
 
 iii. Addition Modulo 15 Table
@@ -17308,6 +17406,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/MBATech_AI_7051/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -17359,7 +17458,6 @@ Y RMRED & Rig wd wymrdi'e — |
 5)
 EAR= FO, 2.9 P42 WM) E900) ep
 
-4 R ) oh SY mmole _ i M 1
 
 Page 2 of 20
 --- page 3 ---
@@ -17509,7 +17607,6 @@ it .8),8.c) ER
 A-B), Bech 4g Aa (@)Ec- a7
 
 » (OER, (2 m)
-w R 1) dra i'bve k Some CAuivolen Ce ,
 
 Page 6 of 20
 
@@ -17596,14 +17693,6 @@ B: | play basketball.
 Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
 
 Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
-T T T F T T
-T T F F T F
-T F T T T T
-T F T T T F
-F T F T F T
-F T T T F F
-F F F T F T
-F F T T F F
 
 na:
 
@@ -17765,7 +17854,6 @@ t Yalled a Plana Trp, —6n)
 
 —— Bm.
 
-Ps The verhicahen ean be done wy thee, Rakets
 orm a,
 
 iii. Addition Modulo 15 Table
@@ -17835,6 +17923,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/MBATech_IT_7041/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -17886,7 +17975,6 @@ Y RMRED & Rig wd wymrdi'e — |
 5)
 EAR= FO, 2.9 P42 WM) E900) ep
 
-4 R ) oh SY mmole _ i M 1
 
 Page 2 of 20
 --- page 3 ---
@@ -18036,7 +18124,6 @@ it .8),8.c) ER
 A-B), Bech 4g Aa (@)Ec- a7
 
 » (OER, (2 m)
-w R 1) dra i'bve k Some CAuivolen Ce ,
 
 Page 6 of 20
 
@@ -18123,14 +18210,6 @@ B: | play basketball.
 Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
 
 Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
-T T T F T T
-T T F F T F
-T F T T T T
-T F T T T F
-F T F T F T
-F T T T F F
-F F F T F T
-F F T T F F
 
 na:
 
@@ -18292,7 +18371,6 @@ t Yalled a Plana Trp, —6n)
 
 —— Bm.
 
-Ps The verhicahen ean be done wy thee, Rakets
 orm a,
 
 iii. Addition Modulo 15 Table
@@ -18355,254 +18433,6 @@ Page 19 of 20
 Page 20 of 20
 ````
 
-## 2024-25 · Re-Exam · Sem 4 · Answer key · paper d7bd93ca29e8
-
-- Departments: Computer Science
-- Programmes: BTech CS 7055
-- Source: `02_Question_Papers/2024/Sem_04/Re-Exam/BTech_CS_7055/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
-- Text: mixed (7 pages), mean OCR confidence 33.2
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE)
-Year: II/Semester IV(Exam Year: 2025-2026)
-Subject: Discrete Mathematics
-Date: 04 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 7 pages.
-2. Question No. 1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Figure in right hand side indicates full marks.
-7. Answer to each new question to be started on a fresh page.
-8. Assume Suitable data if necessary.
-Q.1 a) Identify whether the function 𝑓: ℤ→ℤ+ is onto if 𝑓(𝑛) = |𝑛|, and ℤ is the set of integers and ℤ+
-is the set of non-negative integers.
-Solution: For every 𝑛∈ℤ+,∃ 𝑛∈ℤ, such that 𝑓(𝑛) = |𝑛| = 𝑛. Hence 𝑓 is onto function.
-(concept of onto 2 marks and for solution 2 marks)
-Q.1 b) Construct truth tables for the statement 𝑝∨(~𝑞↔𝑟)
-Solution:   𝑝 𝑞 ~𝑞 𝑟 ~𝑞↔𝑟 𝑝∨(~𝑞↔𝑟)
-𝑇 𝑇 𝐹 𝑇   𝐹   𝑇
-𝑇 𝑇 𝐹 𝐹   𝑇   𝑇
-𝑇 𝐹 𝑇 𝑇   𝑇   𝑇   2-2 marks for
-𝑇 𝐹 𝑇 𝐹   𝐹   𝑇   last two
-𝐹 𝑇 𝐹 𝑇   𝐹   𝐹   columns.
-𝐹 𝑇 𝐹 𝐹   𝑇   𝑇
-𝐹 𝐹 𝑇 𝑇   𝑇   𝑇
-𝐹 𝐹 𝑇 𝐹   𝐹   𝐹
-Q.1 c) A box contains balls of 4 different colours. There are 25 balls of each colour. Find minimum number
-of balls have to peak from box to insure that at least 3 balls have same colour.
-Solution: Number of balls is Pigeon and number of colours (which is 4) is Pigeon Hole.
-Then by generalized Pigeon Hole principle
-𝑛= 𝑚(𝑘−1) + 1, where 𝑛 is Pigeon, 𝑚 is Pigeon Hole & 𝑘 is number of balls from same colour
-Therefor 𝑛= 4 × (3 −1) + 1 = 8 + 1 = 9.   (concept 2 marks and for solution 2 marks)
-Q.1 d) Identify which sequences is graphic (i.e., possible to draw a simple graph). If not then explain your
-answer, if yes draw graph. i) 4 , 2, 2, 1 , 1   ii) 6, 5 , 4, 3 , 1, 0
-********** 1 **********
---- page 2 ---
-Solution: i) Sequence is graphic
-2-2 marks for each
-right answer.
-ii) Sequence is not graphic because   in this sequence odd vertices appear odd time
-which is not possible
-Q.1 e) Let (ℤ, ⨁) be a group where 𝑎⊕𝑏= 𝑎+ 𝑏+ 2. Find identity and inverse element for (ℤ, ⨁).
-Solution: Let 𝑒 be the identity element, then
-2-2 marks for each
-𝑎⊕𝑒= 𝑎+ 𝑒+ 2 = 𝑎⇒𝑒= −2
-right answer.
-Hence identity element is −2.
-Let inverse of 𝑎 is 𝑏 then 𝑎⊕𝑏= 𝑎+ 𝑏+ 2 = −2 ⇒𝑏= −4 −𝑎
-Hence inverse of [𝑎] is −4 −𝑎.
-Q.2 a) Determine 𝑎𝑛 from the recurrence relation 𝑎𝑛−5𝑎𝑛−1 + 6𝑎𝑛−2 = 0, where 𝑎1 = 1 & 𝑎2 = 5.
-Solution: 𝑥2 −7𝑥+ 12 = 0 ⇒𝑥= 2, 3 (1M)
-∴𝑎𝑛= 𝑐1(2)𝑛+ 𝑐2(3)𝑛 ⋯(𝑖) (2M)
-At 𝑛= 1, 𝑎1 = 1 = 2𝑐1 + 3𝑐2 and for 𝑛= 2, 𝑎2 = 5 = 4𝑐1 + 9𝑐2 then 𝑐1 = −1 & 𝑐2 = 1   (2M)
-Then 𝑎𝑛= −(2𝑛) + 3𝑛. (1M)
-Q.2 b) Identify whether below graph is bipartite or not. Justify your answer and also write adjacent matrix
-of the graph.
-Solution: Graph is bipartite. {𝑣1, 𝑣4,𝑣6, 𝑣8} and {𝑣2, 𝑣3,𝑣5, 𝑣7}. In this two disjoint sets
-no vertex is adjoint with other vertex in the same set. (3M)
-The adjoint matrix is
-0 1 1 0 0 0 1 0
-1 0 0 1 0 0 0 1
-1 0 0 1 0 1 0 0
-(1.5M)
-0 1 1 0 1 0 0 0
-0 0 0 1 0 1 0 1
-0 0 1 0 1 0 1 0
-1 0 0 0 0 1 0 1   (1.5M)
-[ 0 1 0 0 1 0 1 0]
-Q.2 c) If 𝑅 is the relation defined on ℤ (set of integer), such that, 𝑚𝑅𝑛 ⇔ 4 divides (𝑚−𝑛). Prove
-that 𝑅 is an equivalence relation.
-Solution: (1) 𝑚−𝑚= 0 and 0 is divided by 4. Hence 𝑚𝑅𝑚 ∀ 𝑚∈ℤ, i.e. 𝑅 is reflesxive. (2M)
-(2) If 𝑚𝑅𝑛 i.e. 𝑚−𝑛= 4𝑘 for some 𝑘∈ℤ⇒𝑛−𝑚= 4(−𝑘) ⇒𝑛𝑅𝑚. Hence 𝑅 is symmetric. (2M)
-(3) If 𝑚𝑅𝑛 (𝑚−𝑛= 4𝑘1 ⋯(𝑖)) and 𝑛𝑅𝑡 (𝑛−𝑡= 4𝑘2 ⋯(𝑖𝑖)) for some 𝑘1 & 𝑘2 ∈ℤ by (𝑖) + (𝑖𝑖), we have
-𝑚−𝑛+ 𝑛−𝑡= 4𝑘1 + 4𝑘2 ⇒𝑚−𝑡= 4(𝑘1 + 𝑘2) ⇒𝑚𝑅𝑡. Hence 𝑅 is transitive. (3M)
-By (1) , (2) and (3) 𝑅 is an equivalence relation. (1M)
-Q.3 a) By mathematical induction show that 1 + 2 + 3 + ⋯+ 𝑛= 𝑛(𝑛+1) , for every integer 𝑛≥1.
-2
-********** 2 **********
---- page 3 ---
-Solution: For 𝑛= 1, LHS (1⋅2) = 1 =LHS. Hence statement is valid for 𝑛= 1. (2M)
-2
-Assume that given statement is true up to 𝑛= 𝑘. (i.e. 1 + 2 + 3 + ⋯+ 𝑘= 𝑘(𝑘+1) ) (1M)
-2
-Put 𝑛= 𝑘+ 1
-𝑘(𝑘+ 1)
-1 + 2 + 3 + ⋯+ 𝑘+ (𝑘+ 1) =   + (𝑘+ 1) (By induction)
-2
-(𝑘   (𝑘+ 2   (𝑘+ 1)(𝑘+ 2)   (3M)
-= (𝑘+ 1) + 1) = (𝑘+ 1)   ) =
-2   2   2
-Hence the proof.
-Q.3 b) Determine whether the given graph has a Hamilton circuit and Euler circuit. If it does, find such a
-circuit. If it does not, give an argument to show why no such circuit exists.
-Solution: Every vertex is an even vertex.
-Hence graph has Euler circuit.   (3M)
-Also graph has Hamilton circuit. Circuit is
-𝐴→𝐵→𝐶→𝐷→𝐸→𝐹→𝐴   (3M)
-Q.3 c) Let set 𝐴 be of positive integers not exceeding 150. Then find number of elements in set 𝐴 that are
-(i) not divisible by 3 or by 5 (ii) divisible by 3 but not by 5 (iii) divisible by 5 but not by 3.
-Solution: Number of elements divisible by 5 = 𝑛(𝐷5) = 30,   (2M)
-Number of elements divisible by 3 = 𝑛(𝐷3) = 50 & 𝑛(𝐷5 ∩𝐷3) = 10. Then
-𝑛(𝐷5 ∪𝐷3) = 𝑛(𝐷5) + 𝑛(𝐷3) −𝑛(𝐷5 ∩𝐷3) = 30 + 50 −10 = 70 (2M)
-⇒𝑛(𝐷5 ∪𝐷3)̅̅̅̅̅̅̅̅̅̅̅̅̅ = 𝑛(𝐴) −𝑛(𝐷5 ∪𝐷3) = 150 −70 = 80 (1M)
-Numbers divisible by 3 but not by 5=𝑛(𝐷3 ∩𝐷5̅̅̅) = 𝑛(𝐷3) −𝑛(𝐷3 ∩𝐷5) = 50 −10 = 40. (1.5M)
-Numbers divisible by 5 but not by 3=𝑛(𝐷5 ∩𝐷3̅̅̅) = 𝑛(𝐷5) −𝑛(𝐷5 ∩𝐷3) = 30 −10 = 20. (1.5M)
-Q.4 a) Prove that (2ℤ, +) be a subgroup of group (ℤ, +). Where ℤ is a set of integers and 2ℤ is a set of even
-integers.
-(1M)
-Solution: i) 2ℤ= {0, ±2, ±4, ⋯} ≠𝜙.
-ii) Let 𝑎, 𝑏∈2ℤ, then 𝑎= 2𝑛1 & 𝑏= 2𝑛2 for some 𝑛1, 𝑛2 ∈ℤ. 𝑎+ 𝑏= 2𝑛1 + 2𝑛2 = 2(𝑛1 + 𝑛2) ∈
-2ℤ. Hence 𝑎+ 𝑏∈2ℤ. (2M)
-iii) Let 𝑎= 2𝑛1 ∈2ℤ, then −𝑎= 2(−𝑛1) ∈2ℤ such that 𝑎+ (−𝑎) = 0. (2M)
-By (i), (ii) and (iii) (2ℤ, +) be a subgroup of (ℤ,+). (1M)
-Q.4 b) Check validity of the argument: If it rains, then the ground becomes wet. If the ground
-becomes wet, then the match will be cancelled. Therefore, if match is not cancelled, then there is no
-rain.
-Solution: Let 𝑝: It rains; 𝑞: The ground becomes wet; 𝑟: the match will be cancelled (1M)
-If [(𝑝→𝑞) ∧(𝑞→𝑟)] →(~𝑟→~𝑝) is tautology then argument is valid (2M)
-𝑝 𝑞 𝑟 𝑝→𝑞 𝑞→𝑟 ~𝑟→~𝑝 (𝑝→𝑞) ∧(𝑞→𝑟) [(𝑝→𝑞) ∧(𝑞→𝑟)] →(~𝑟→~𝑝)
-T T T   T   T   T   T   T
-T T F   T   F   F   F   T
-********** 3 **********
---- page 4 ---
-T F T   F   T   T   F   T
-T F F   F   T   F   F   T
-F T T   T   T   T   T   T
-F T F   T   F   T   F   T
-F F T   T   T   T   T   T
-F F F   T   T   T   T   T
-This is tautology, hence argument is valid.
-Q.4 c) Solve the recurrence relation 𝑎𝑛+ 4𝑎𝑛−1 + 4𝑎𝑛−2 = 3𝑛. (1M)
-Solution: Characteristic equation is 𝑥2 + 4𝑥+ 4 = 0 ⇒𝑥= −2, −2 ⇒𝑎𝑛 (ℎ) = 𝑐1(−2)𝑛+ 𝑐2(−2)𝑛⋅𝑛 .
-Let 𝑎𝑛 (𝑝) = 𝛼03𝑛, then (1M)   (2M)
-𝛼03𝑛+ 4 ⋅𝛼03𝑛−1 + 4 ⋅𝛼03𝑛−2 = 3𝑛⇒9𝛼0 + 12𝛼0 + 4𝛼0 = 9
-⇒ 25𝛼0 = 9 ⇒ 𝛼0 = 9 ⇒𝑎𝑛 (𝑝) = 9 3𝑛   (3M)
-25   25
-𝑎𝑛= 𝑎𝑛 (ℎ) + 𝑎𝑛 (𝑝) = 𝑐1(−2)𝑛+ 𝑐2(−2)𝑛⋅𝑛+ 9 3𝑛 (1M)
-25
-Q.5 a) Let ℝ & ℝ+ be a sets of real and real positive numbers and𝑓:ℝ→ℝ+, such that 𝑓(𝑥) = 𝑒𝑥. Then
-prove that 𝑓 is an isomorphism from group (ℝ, +) to (ℝ+,×)
-Solution: For all 𝑦∈ℝ+ ∃𝑥∈ℝ, 𝑠. 𝑡. log 𝑦= 𝑥, therefore 𝑓(𝑥) = 𝑒𝑥= 𝑒log 𝑦= 𝑦. Hence 𝑓 is onto. (2M)
-Also if 𝑓(𝑥1) = 𝑓(𝑥2) ⇒𝑒𝑥1 = 𝑒𝑥2 ⇒𝑥1 = 𝑥2. Function is one to one also. (2M) And for homomorphism
-𝑓(𝑥1 + 𝑥2) = 𝑒𝑥1+𝑥2 = 𝑒𝑥1 ⋅𝑒𝑥2
-This map is homomorphic, one-one and onto. Hence the 𝑓 is isomorphism. (2M)
-Q.5 b) Prove that sum of three odd integers is an odd integer.
-Solution: Let 2𝑎+ 1, 2𝑏+ 1 and 2𝑐+ 1 are three odd numbers. Then   (2M)
-(2𝑎+ 1) + (2𝑏+ 1) + (2𝑐+ 1) = 2𝑎+ 2𝑏+ 2𝑐+ 2 + 1 = 2(𝑎+ 𝑏+ 𝑐+ 1) + 1 (3M)
-Which is an odd number. Hence the proof.
-(1M)
-Q.5 c) Use Prim’s algorithm to find a minimal spanning tree for the
-following graph.
-Solution: The steps for implementing Prim's algorithm are   as
-follows:
-➢ Initialize the minimum spanning tree with a vertex
-chosen at random.
-➢ Find all the edges that connect the tree to new
-(3M)
-vertices, find the minimum and add it to the tree
-➢ Keep repeating step 2 until we get a minimum
-spanning tree
-(4M) for algorithm
-minimal weight is 19. (1M)
-********** 4 **********
---- page 5 ---
-Q.6 a) Determine whether the relation 𝑅 defined on 𝐴= ℝ× ℝ, (ℝ is a set of real numbers), such that
-(𝑥1, 𝑦1)𝑅(𝑥2, 𝑦2) ⇔𝑥1 −y1 = 𝑥2 −𝑦2 . Is 𝑅 reflexive, anti-symmetric and transitive, or none of these? Justify
-your answer.
-Solution: Reflexive: Because 𝑥1 −y1 = 𝑥1 −y1 therefore (𝑥1, 𝑦1)𝑅(𝑥1, 𝑦1). Hence 𝑅 is reflexive. (2M)
-Anti-symmetric: If (4,2)𝑅(10,8) & (10, 8)𝑅(4,2) but (4, 2) ≠(10, 8). Hence 𝑅 is not anti-symmetric. (2M)
-Transitive: If (𝑥1, 𝑦1)𝑅(𝑥2, 𝑦2) , i. e., 𝑥1 −y1 = 𝑥2 −𝑦2 ⋯(𝑖) & (𝑥2, 𝑦2)𝑅(𝑥3, 𝑦3), 𝑖. 𝑒. , 𝑥2 −𝑦2 = 𝑥3 −𝑦3 ⋯(𝑖𝑖)
-By (𝑖) & (𝑖𝑖) 𝑥1 −𝑦1 = 𝑥3 −𝑦3 ⇒ (𝑥1, 𝑦1)𝑅(𝑥3, 𝑦3). Hence 𝑅 is transitive. (2M)
-Q.6 b) Give the definition of planer graph with two examples, where one is planer and other is not planer.
-Solution: Definition: A planar graph is a graph that can be drawn in a 2D plane without any edges crossing.
-(3M)
-Planer graph example   Non-planer graph example
-(1.5M)
-(1.5M)
-Q.6 c) Discuss that ℤ8 = {0,1,2,3,4,5,6,7} is a ring under addition and multiplication mod 8. Also check
-whether (ℤ8, +8,×8) is integral domain or not.
-Solution: Composition tables   ×8 0 1 2 3 4 5 6 7
-+8 0 1 2 3 4 5 6 7   0   0 0 0 0 0 0 0 0
-0   0 1 2 3 4 5 6 7   1   0 1 2 3 4 5 6 7
-1 1 2 3 4 5 6 7 0   2   0 2 4 6 0 2 4 6
-2   2 3 4 5 6 7 0 1   3   0 3 6 1 4 7 2 5
-3   3 4 5 6 7 0 1 2   4   0 4 0 4 0 4 0 4
-4   4 5 6 7 0 1 2 3   5   0 5 2 7 4 1 6 3
-5   5 6 7 0 1 2 3 4   6   0 6 4 2 0 6 4 2
-6   6 7 0 1 2 3 4 5   7   0 7 6 5 4 3 2 1
-7   7 0 1 2 3 4 5 6
-Each table have 2 marks
-i)   It is clear from composition tables that ℤ8 is closed for both +8 and ×8.
-ii)   Addition and multiplication on integers follows associative property, hence here also.
-iii)   0 is identity element for +8.
-iv)   Additive inverse of 1 is 7, 2 is 6, 3 is 5 and 4 is 4
-v)   Addition and multiplication on integers follows commutative property, hence here also.
-vi)   Distribution property follows for integers. Hence also here.
-Therefor (ℤ8, +8,×8) is ring. But 2 ×8 4 = 0, i.e., have zero divisor, hence it is not an integral domain.
-********** 5 **********
---- page 6 ---
-4 marks for properties
-Q.7 a) Obtain the disjunctive normal form of (𝑝∨𝑞) →(~𝑝∧𝑞).
-3 marks
-Solution: ~(𝑝∨𝑞) ∨(~𝑝∧𝑞) ≡(~𝑝∧~𝑞) ∨(~𝑝∧𝑞)
-(~𝑝∧~𝑞) ∨(~𝑝∧𝑞) is a disjunctive normal form of (𝑝∨𝑞) →(~𝑝∧𝑞). 3 marks
-Q.7 b) Let 𝐺= {3,6,9,12,15,18} be a set. Then prove that 𝐺 with   ×21 3   6   9   12 15 18
-binary operation ×21 is a group.
-3   9   18 6   15 3   12
-Solution: Composition table is
-i)   It is clear from composition tables that 𝐺 is closed for ×21.   6   18 15 12 9   6   3
-ii) Multiplication on integers follows associative property, hence   9   6   12 18 3   9   15
-here also.   12   15 9   3   18 12 6
-3 marks for properties
-iii) 15 is identity element for ×21.   15   3   6   9   12 15 18
-iv) Inverse of 3 is 12, 6 is 6, 9 is 18.
-18   12 3   15 6   18 9
-Hence (𝐺,×21) is a group.
-Table have 3 marks
-Q.7 c) Find chromatic number for the given graph by using Welch-Powell Algorithm with explaining each
-step.
-Solution: We give an algorithm by Welch and Powell for a colouring of a graph G .
-Step 1: Order the vertices of G according to decreasing degrees.
-Step 2: Assign the first colour to C 1 , to the first vertex and then in sequential order assign C 1 to each
-vertex which is not adjacent to a previous vertex which was assigned the colour C 1 .
-Step 3: Repeat the Step 2, with a second-colour C 2 and the subsequence of non-coloured vertices.
-Step 4: Repeat Step 3, with a third-colour C 3 , then a fourth-colour C 4 and so an until all the vertices are
-coloured.   (4M) for algorithm
-Step 5: Exit.
-In this graph chromatic number is 5. (2M for answer)
-********** 6 **********
---- page 7 ---
-SAG 7 A GR ok ak ok
-````
-
 ## 2024-25 · Re-Exam · Sem 5 · Answer key · paper 477ae8886094
 
 - Departments: Electronics and Telecommunication
@@ -18610,6 +18440,7 @@ SAG 7 A GR ok ak ok
 - Source: `02_Question_Papers/2024/Sem_05/Re-Exam/BTech_EXTC_7006/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -18661,7 +18492,6 @@ Y RMRED & Rig wd wymrdi'e — |
 5)
 EAR= FO, 2.9 P42 WM) E900) ep
 
-4 R ) oh SY mmole _ i M 1
 
 Page 2 of 20
 --- page 3 ---
@@ -18811,7 +18641,6 @@ it .8),8.c) ER
 A-B), Bech 4g Aa (@)Ec- a7
 
 » (OER, (2 m)
-w R 1) dra i'bve k Some CAuivolen Ce ,
 
 Page 6 of 20
 
@@ -18898,14 +18727,6 @@ B: | play basketball.
 Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
 
 Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
-T T T F T T
-T T F F T F
-T F T T T T
-T F T T T F
-F T F T F T
-F T T T F F
-F F F T F T
-F F T T F F
 
 na:
 
@@ -19067,7 +18888,6 @@ t Yalled a Plana Trp, —6n)
 
 —— Bm.
 
-Ps The verhicahen ean be done wy thee, Rakets
 orm a,
 
 iii. Addition Modulo 15 Table
@@ -19137,6 +18957,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_05/Re-Exam/MBATech(ELECTRONICS & TELECOMMUNICATION_21542d76/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -19188,7 +19009,6 @@ Y RMRED & Rig wd wymrdi'e — |
 5)
 EAR= FO, 2.9 P42 WM) E900) ep
 
-4 R ) oh SY mmole _ i M 1
 
 Page 2 of 20
 --- page 3 ---
@@ -19338,7 +19158,6 @@ it .8),8.c) ER
 A-B), Bech 4g Aa (@)Ec- a7
 
 » (OER, (2 m)
-w R 1) dra i'bve k Some CAuivolen Ce ,
 
 Page 6 of 20
 
@@ -19425,14 +19244,6 @@ B: | play basketball.
 Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
 
 Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
-T T T F T T
-T T F F T F
-T F T T T T
-T F T T T F
-F T F T F T
-F T T T F F
-F F F T F T
-F F T T F F
 
 na:
 
@@ -19594,7 +19405,6 @@ t Yalled a Plana Trp, —6n)
 
 —— Bm.
 
-Ps The verhicahen ean be done wy thee, Rakets
 orm a,
 
 iii. Addition Modulo 15 Table
@@ -19664,6 +19474,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_07/Re-Exam/Integrated_Computer_7032/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 75.3
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -19820,7 +19631,6 @@ _ K(k +1)(k + 2)
 Now, we need to show it is true for k + 1:
 (1 x 2) 4+ (2« 3)+ (3x 4)+...4+ (kx (k+1)) + ((k +1) x (k + 2)) (1m)
 By the induction hypothesis:
-— Rk+ DE +2) ie +2) et Yk +2)
 To combine the terms, we need a common denominator:
 _ kK(R+1(k+2)   3(k+1)(k +2)
 3 + 3
@@ -19964,18 +19774,9 @@ Pp t (VA
 
 ns ads (2m)
 
-gv Py Pp ag ap @G PAP, FAP,“
-Pep ee fp ot Pe tT
 
-TO OT F TO OT T FO FT T T
-T F T T T OF T F F F T
-T FOF FOF T TF F F T
-FT T T T FE F T T F T
 FOOT F TO oT TT FOOT T T T (3m)
-FOF FT T T F T T T Fe T
-FOF F F T T T T T T T
 Since all enteucs fn last column cre taue
-The abeve onguanmands ts valed -
 (1m)
 c. | Evaluate the following recurrence relation
 a, —5a,_, + 64,_, = 2" ,n>2 with initial condition Ay =l, a= 1.
@@ -20058,7 +19859,6 @@ We know that p + q is logically equivalent to -p V q. Using this, we can rewrite
 
 on the left-hand side
 
-(pq) A (ra) =(-pV QA (PV)
 
 (2m)
 Step 2: Simplify the conjunction
@@ -20165,7 +19965,6 @@ I- 2-5 ~€-2-4-4- 2m)
 Howl tev posh : i -5 -Z2- [-3 —4- lo — (2m)
 G-4-N- 7
 
-Hail Pnuan gle. dow nol exit, (2m)
 
 DR ROR RK 1Q FH
 ````
@@ -20177,6 +19976,7 @@ DR ROR RK 1Q FH
 - Source: `02_Question_Papers/2024/Sem_07/Re-Exam/Integrated_IT_7037/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 75.4
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -20333,7 +20133,6 @@ _ K(k +1)(k + 2)
 Now, we need to show it is true for k + 1:
 (1 x 2) 4+ (2« 3)+ (3x 4)+...4+ (kx (k+1)) + ((k +1) x (k + 2)) (1m)
 By the induction hypothesis:
-— Rk+ DE +2) ie +2) et Yk +2)
 To combine the terms, we need a common denominator:
 _ kK(R+1(k+2)   3(k+1)(k +2)
 3 + 3
@@ -20478,18 +20277,9 @@ Pp t (VA
 
 ns ads (2m)
 
-gv Py Pp ag ap @G PAP, FAP,“
-Pep ee fp ot Pe tT
 
-TO OT F TO OT T FO FT T T
-TOF T TOT FO T F F F T
-T FOF FOF T TF F F T
-FT T T T FE F T T F T
 FOOT F TO oT TT FOOT T T T (3m)
-FOF FT T T F T T T Fe T
-FOF F F T T T T T T T
 Since all enteucs fn last column cre taue
-The abeve onguanmands ts valed -
 (1m)
 c. | Evaluate the following recurrence relation
 a, —5d,_, +64, =2" , n>2 withinitial condition 4) =1, 4, =1.
@@ -20572,7 +20362,6 @@ We know that p + q is logically equivalent to -p V q. Using this, we can rewrite
 
 on the left-hand side
 
-(pq) A (ra) =(-pV QA (PV)
 
 (2m)
 Step 2: Simplify the conjunction
@@ -20679,7 +20468,6 @@ I- 2-5 ~€-2-4-4- 2m)
 Howl tev posh : i -5 -Z2- [-3 —4- lo — (2m)
 G-4-N- 7
 
-Hail Pnuan gle. dow nol exit, (2m)
 
 DR ROR RK 1Q FH
 ````

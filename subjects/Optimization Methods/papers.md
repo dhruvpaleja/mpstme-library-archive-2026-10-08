@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSE_DS_7057/Optimization Methods/QP_Optimization Methods(702BS0C079)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 34.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -239,6 +240,7 @@ FIC DI EH ar
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_DS_7009/Optimization Methods/QP_Optimization Methods(702BS0C079)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 34.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -467,6 +469,7 @@ FIC DI EH ar
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-III/OPTIMIZATION METHODS/Optimization Methods 2025-26 Final.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: ocr (4 pages), mean OCR confidence 89.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -756,7 +759,6 @@ Subject to
 X,,x, are non negative integers
 
 Cy 2 5 0 0
-ae B Cz | Xs Xi % Si S 10
 , X2 5__| 0.3333 | 0.6667 | 1 0.3333 | 0.
 S2 0 | 1.6667 | -0.6667 | 0 -0.3333 | 1
 Z=1.6665 Zy 3.3333 | 5 1.6667 | 0
@@ -785,6 +787,235 @@ x, +d; =70
 FRR ok kK kk
 ````
 
+## 2025-26 · Re-Exam · Sem 3 · paper eeeabcc62010
+
+- Departments: Data Science
+- Programmes: BTech DS 7009, Integrated DS 7038, MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_DS_7009/Optimization Methods/QP_Optimization Methods(702BS0C032)_2024-2025.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
+- Text: mixed (5 pages), mean OCR confidence 34.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. TECH (CSE - DS)/B. Tech (DS)/B. Tech Intg. (DS)/MBA Tech (DS)
+Year: II / IV/Semester III/Semester VII(Exam Year: 2025-2026)
+Subject: Optimization Methods
+Date: 08 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 5 pages.
+2. Question No.1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. Answer to each new question to be started on a fresh page.
+6. Figure on right hand side indicates full marks
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1   20
+a. Aggie Power Generation has four generating stations S₁, S₂, S₃ and S₄ with annual
+available capacities (in MW) 5, 8, 7 and 14 respectively. They supply three markets
+(destinations) D₁, D₂, D₃ whose annual demands are 7, 9 and 18 MW respectively.
+The unit shipping costs ($/MW) from each station to each destination are given
+below
+D₁   D₂   D₃   Supply
+CO-1,2 K2   S₁   2   7   4   5   5
+S₂   3   3   1   8
+S₃   5   4   7   7
+S₄   1   6   2   14
+Demand   7   9   18   34
+Using the North-West Corner Method, determine an initial basic feasible solution
+for the Aggie Power distribution problem and compute the total distribution cost.
+b. Formulate the dual of the given primal problem.
+Maximize Z = 6 x 1 + 4 x 2
+subject to,
+CO-2,3   2 x 1 + 3 x 2  12   5
+K3
+x 1 + x 2  6
+x 1 + 4 x 2 = 8
+x 1 , x 2  0
+c.   State whether the game whose payoff matrix is given below is strictly determinable
+and fair. Also, determine the value of the game.
+Player B
+CO-1,4   B1   B2   B3   B4   5
+K2
+A1   −5   −2   0   7
+Player A   A2   5   −6   −4   8
+A3   4   0   2   3
+CO- 1,2   d. A sales representative has to travel to four major cities to meet clients and promote 5
+K3   new products. He will begin his journey from one city, visit each of the remaining
+********** 1 **********
+--- page 2 ---
+cities exactly once, and finally return to the starting city. The estimated travel cost
+(in thousand rupees) between every pair of cities is given in the table below.
+A   B   C   D
+A   -   15   20   10
+B   25   -   35   15
+C   5   25   -   20
+D   10   20   12   -
+He wants to plan his trip in the most economical way possible so that his total travel
+expense is minimized. What should be the order in which the salesman visits the
+cities so that the total travel cost is minimized?
+Q2   20
+a.   Solve the following two player game.
+Player B
+CO-
+1,2,4   B₁   B₂   B₃   B₄
+K3, K4   A₁   5   -10   9   0   10
+Player A   A₂   6   7   8   1
+A₃   8   7   15   1
+A₄   3   4   -1   4
+b. A manufacturing company produces three types of portable LED lamps Model A,
+Model B, and Model C. The profit obtained from the sale of each unit of Model A,
+Model B, and Model C is ₹30, ₹40, and ₹20 respectively. Each unit of the product
+requires processing time on a common machining line. The machining time required
+CO-   per unit is 10 minutes for Model A, 12 minutes for Model B, and 7 minutes for 10
+1,2,5
+K3, K4   Model C. The total available machining time per week is limited to 10,000 minutes.
+In addition, due to packaging and market constraints, the total number of lamps (of
+all models together) that can be produced in a week cannot exceed 1,000 units.
+Formulate and solve a Linear Programming Problem (LPP) to determine the number
+of units of each model to be produced per week so that the total profit is maximized.
+Q3   20
+a. Fresh Blend Beverages Pvt. Ltd. produces bottled juices at three factories in Dallas,
+Chicago, and Atlanta with weekly capacities of 200, 160, and 90 crates respectively.
+They supply juices to three warehouses in New York, Los Angeles, and Houston
+which require 180, 120, and 150 crates weekly. The unit shipping costs (in dollars)
+are given in the table below.
+Warehouse
+CO-1,2   Factory   New York Los Angeles Houston   Supply   10
+K2, K3
+Dallas   16   20   12   200
+Chicago   14   8   18   160
+Atlanta   26   24   16   90
+Demand   180   120   150   450
+Determine the initial distribution for this company using the VAM method and
+check whether the obtained solution is optimal using MODI method so that the total
+shipping cost is the minimum.
+b. Mr Girish wants to invest Rs 10,000 in one of the three options A, B and C. The
+pay-off for his investment depends on the nature of the economy (inflation,
+recession, or no change). The possible returns under each economic situation are
+CO-3,4   given below   10
+K3, K4   Strategy   Nature of Economy
+Inflation E1   Recession E2 No Change E3
+S1   2000   1200   1500
+********** 2 **********
+--- page 3 ---
+S2   3000   800   1000
+S3   2500   1000   1800
+What course of action has he to take according to
+(i) The pessimistic criterion (Maximin)
+(ii) The equally likely criterion (Laplace)
+(iii) The regret criterion.
+(iv) Hurwicz criterion, the degree of optimism being 0.6.
+Q4   20
+a. Solve the following LPP using the Big-M method to find the optimal cost.
+Minimize Z = 500 x 1 + 200 x 2
+subject to,
+CO-
+1,2,3   3 x 1 + 2 x 2  90   10
+K3, K4   x  10
+1
+− 2 x 1 + x 2 = 0
+x 1 , x 2  0
+b. A company operates in five major territories and has five salesmen available for
+assignment. Each territory differs in its sales potential, and each salesman has a
+different level of selling effectiveness. The estimated annual sales (in thousands of
+rupees) that each salesman would generate in each territory are given in the table
+below:
+Territories annual sales (in thousands of rupees)
+CO-4,5   A   B   C   D   E
+10
+K3, K4   1   32   38   40   28   40
+2   40   24   28   21   36
+Salesmen
+3   41   27   33   30   37
+4   22   38   41   36   36
+5   29   33   40   35   39
+Identify the best allocation of salesmen to territories so that the sales revenues are
+maximized.
+Q5   20
+a. A bakery keeps stock of a popular brand of cake. Previous experience shows the
+daily demand pattern for the item with associated probabilities, as given below
+Daily Demand   0   10   20   30   40   50
+CO-4,5 K3, K4   Probability   0.01   0.20   0.15   0.50   0.12   0.02   10
+Use the following sequence of random numbers to simulate the demand for next 10
+days. Random numbers: 25, 39, 65, 76, 12, 05, 73, 89, 19, 49. Also estimate the
+daily average demand for the cakes on the basis of the simulated data.
+b. Solve the following Integer Linear Programming (ILP) problem using the Branch
+and Bound (Graphical) method and determine the optimal integer solution.
+Max z = 7 x 1 + 9 x 2
+Subject to
+CO-1,2   10
+K2, K3   − x 1 + 3 x 2  6
+7 x 1 + x 2  35
+x 2  7
+x 1 , x 2 are non negative integers
+********** 3 **********
+--- page 4 ---
+Q6   20
+a. A fruit merchant purchases oranges at Rs 50 per basket and sells them at Rs 80.
+Unsold oranges are disposed off at Rs 20 per basket the next day. Past record of
+sales for 120 days is as given below
+CO-1,4
+5
+K2, K4   Baskets Sold   15 16 17 18
+No. of Days Sold 12 24 48 36
+Using EMV, find how many baskets the merchant should purchase every day to
+maximize his profit.
+b. A company produces motorcycle seats. The company has two production lines. The
+production rate for line 1 is 50 seats per hour and for line 2 it is 60 seats per hour.
+The company has entered into a contract to daily supply 1,200 seats daily to another
+company. Currently, the normal operation period for each line is 8 hours. The
+production manager of the company is trying to determine the best daily operation
+hours for the two lines. He has set the priorities to achieve his goals, as given below:
+CO-5   P1: Produce and deliver 1,200 seats daily   5
+K4   P2: Limit the daily overtime operation hours of line 2 to 3 hours
+P3: Minimize the underutilization of the regular daily operation hours of each line.
+Assign differential weights based on the relative productivity rate.
+P4: Minimize the daily overtime operation hours of each line as much as possible.
+Assign differential weights based on the relative cost of overtime. It is assumed that
+the cost of operation is identical for the two production lines.
+Formulate this problem as a Goal Programming model.
+c. Given an Integer Linear Programming (ILP) problem with a relaxed optimal
+solution from the Simplex method is shown below:
+Max z = 2 x 1 + 5 x 2
+Subject to
+2 x 1 + 3 x 2  1, x 2  2,
+x 1 , x 2 are non negative integers
+CJ   2   5   0   0
+CO-1,2   B   CB XB   X1   X2   S1   S2   10
+K2, K3
+X2   5   0.3333   0.6667 1   0.3333 0
+S2   0   1.6667   -0.6667 0   -0.3333 1
+Z=1.6665   ZJ   3.3333 5   1.6667 0
+CJ-ZJ   -1.3333 0   -1.6667 0
+a) Construct first Gomory's fractional cut for the given non-integer optimal
+solution.
+b) Illustrate the first iteration of Gomory’s cutting-plane method.
+c) Determine the non-integer optimal solution after first Gomory’s cut.
+Q7   20
+CO-1   a. Distinguish between (i) Pure strategy and mixed strategy (ii) Zero-sum and non-   5
+K1, K2   zero-sum games.
+CO-1   b. What is Monte Carlo simulation? Describe the idea of experimentation (Random   5
+K1, K2   sampling) in simulation.
+c.   Use the Graphical Method to solve the following Goal Programming Problem.
+𝑀𝑖𝑛𝑖𝑚𝑖𝑧𝑒 𝑍= 𝑃1𝑑1 −+ 𝑃2𝑑4 + + 5𝑃3𝑑2 −+ 3𝑃3𝑑3 −+ 𝑃4𝑑1 +
+CO-3,4   subject to the constraints   10
+K3, K4   +
+𝑥1 + 𝑥2 + 𝑑1 −−𝑑1 = 80
+𝑥1 + 𝑑2 −= 70
+********** 4 **********
+--- page 5 ---
+X2+d3 =45
+X1 + X2 + dz —dt =90
+X4,X2, dz, d+, dz,dz,dz,dz = 0.
+
+FIC DI EH ar
+````
+
 ## 2025-26 · Re-Exam · Sem 3 · paper d17ca2ad2464
 
 - Departments: Data Science
@@ -792,6 +1023,7 @@ FRR ok kK kk
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CSE_DS_7057/Optimization Methods/QP_Optimization Methods(702BS0C079)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (5 pages), mean OCR confidence 49.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1011,6 +1243,7 @@ FIC DI EH ar
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_DS_7009/Optimization Methods/QP_Optimization Methods(702BS0C079)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (5 pages), mean OCR confidence 49.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1230,6 +1463,7 @@ FIC DI EH ar
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_DS_7052/Optimization Methods/QP_Optimization Methods(702BS0C079)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (5 pages), mean OCR confidence 49.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1449,6 +1683,7 @@ FIC DI EH ar
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_DS_7038/Optimization Methods/QP_Optimization Methods(702BS0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (5 pages), mean OCR confidence 49.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1973,234 +2208,6 @@ BL-2 Subject to 4x, + 6x. <120,
 4x, + 10x, < 160,
 3.x, + 5x, +dz —dt = 200
 X4,Xz, dy, dt =0
-````
-
-## 2024-25 · Re-Exam · Sem 3 · paper eeeabcc62010
-
-- Departments: Data Science
-- Programmes: BTech DS 7009, Integrated DS 7038, MBATech DS 7052
-- Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_DS_7009/Optimization Methods/QP_Optimization Methods(702BS0C032)_2024-2025.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
-- Text: mixed (5 pages), mean OCR confidence 34.9
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. TECH (CSE - DS)/B. Tech (DS)/B. Tech Intg. (DS)/MBA Tech (DS)
-Year: II / IV/Semester III/Semester VII(Exam Year: 2025-2026)
-Subject: Optimization Methods
-Date: 08 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 5 pages.
-2. Question No.1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. Answer to each new question to be started on a fresh page.
-6. Figure on right hand side indicates full marks
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-Q1   20
-a. Aggie Power Generation has four generating stations S₁, S₂, S₃ and S₄ with annual
-available capacities (in MW) 5, 8, 7 and 14 respectively. They supply three markets
-(destinations) D₁, D₂, D₃ whose annual demands are 7, 9 and 18 MW respectively.
-The unit shipping costs ($/MW) from each station to each destination are given
-below
-D₁   D₂   D₃   Supply
-CO-1,2 K2   S₁   2   7   4   5   5
-S₂   3   3   1   8
-S₃   5   4   7   7
-S₄   1   6   2   14
-Demand   7   9   18   34
-Using the North-West Corner Method, determine an initial basic feasible solution
-for the Aggie Power distribution problem and compute the total distribution cost.
-b. Formulate the dual of the given primal problem.
-Maximize Z = 6 x 1 + 4 x 2
-subject to,
-CO-2,3   2 x 1 + 3 x 2  12   5
-K3
-x 1 + x 2  6
-x 1 + 4 x 2 = 8
-x 1 , x 2  0
-c.   State whether the game whose payoff matrix is given below is strictly determinable
-and fair. Also, determine the value of the game.
-Player B
-CO-1,4   B1   B2   B3   B4   5
-K2
-A1   −5   −2   0   7
-Player A   A2   5   −6   −4   8
-A3   4   0   2   3
-CO- 1,2   d. A sales representative has to travel to four major cities to meet clients and promote 5
-K3   new products. He will begin his journey from one city, visit each of the remaining
-********** 1 **********
---- page 2 ---
-cities exactly once, and finally return to the starting city. The estimated travel cost
-(in thousand rupees) between every pair of cities is given in the table below.
-A   B   C   D
-A   -   15   20   10
-B   25   -   35   15
-C   5   25   -   20
-D   10   20   12   -
-He wants to plan his trip in the most economical way possible so that his total travel
-expense is minimized. What should be the order in which the salesman visits the
-cities so that the total travel cost is minimized?
-Q2   20
-a.   Solve the following two player game.
-Player B
-CO-
-1,2,4   B₁   B₂   B₃   B₄
-K3, K4   A₁   5   -10   9   0   10
-Player A   A₂   6   7   8   1
-A₃   8   7   15   1
-A₄   3   4   -1   4
-b. A manufacturing company produces three types of portable LED lamps Model A,
-Model B, and Model C. The profit obtained from the sale of each unit of Model A,
-Model B, and Model C is ₹30, ₹40, and ₹20 respectively. Each unit of the product
-requires processing time on a common machining line. The machining time required
-CO-   per unit is 10 minutes for Model A, 12 minutes for Model B, and 7 minutes for 10
-1,2,5
-K3, K4   Model C. The total available machining time per week is limited to 10,000 minutes.
-In addition, due to packaging and market constraints, the total number of lamps (of
-all models together) that can be produced in a week cannot exceed 1,000 units.
-Formulate and solve a Linear Programming Problem (LPP) to determine the number
-of units of each model to be produced per week so that the total profit is maximized.
-Q3   20
-a. Fresh Blend Beverages Pvt. Ltd. produces bottled juices at three factories in Dallas,
-Chicago, and Atlanta with weekly capacities of 200, 160, and 90 crates respectively.
-They supply juices to three warehouses in New York, Los Angeles, and Houston
-which require 180, 120, and 150 crates weekly. The unit shipping costs (in dollars)
-are given in the table below.
-Warehouse
-CO-1,2   Factory   New York Los Angeles Houston   Supply   10
-K2, K3
-Dallas   16   20   12   200
-Chicago   14   8   18   160
-Atlanta   26   24   16   90
-Demand   180   120   150   450
-Determine the initial distribution for this company using the VAM method and
-check whether the obtained solution is optimal using MODI method so that the total
-shipping cost is the minimum.
-b. Mr Girish wants to invest Rs 10,000 in one of the three options A, B and C. The
-pay-off for his investment depends on the nature of the economy (inflation,
-recession, or no change). The possible returns under each economic situation are
-CO-3,4   given below   10
-K3, K4   Strategy   Nature of Economy
-Inflation E1   Recession E2 No Change E3
-S1   2000   1200   1500
-********** 2 **********
---- page 3 ---
-S2   3000   800   1000
-S3   2500   1000   1800
-What course of action has he to take according to
-(i) The pessimistic criterion (Maximin)
-(ii) The equally likely criterion (Laplace)
-(iii) The regret criterion.
-(iv) Hurwicz criterion, the degree of optimism being 0.6.
-Q4   20
-a. Solve the following LPP using the Big-M method to find the optimal cost.
-Minimize Z = 500 x 1 + 200 x 2
-subject to,
-CO-
-1,2,3   3 x 1 + 2 x 2  90   10
-K3, K4   x  10
-1
-− 2 x 1 + x 2 = 0
-x 1 , x 2  0
-b. A company operates in five major territories and has five salesmen available for
-assignment. Each territory differs in its sales potential, and each salesman has a
-different level of selling effectiveness. The estimated annual sales (in thousands of
-rupees) that each salesman would generate in each territory are given in the table
-below:
-Territories annual sales (in thousands of rupees)
-CO-4,5   A   B   C   D   E
-10
-K3, K4   1   32   38   40   28   40
-2   40   24   28   21   36
-Salesmen
-3   41   27   33   30   37
-4   22   38   41   36   36
-5   29   33   40   35   39
-Identify the best allocation of salesmen to territories so that the sales revenues are
-maximized.
-Q5   20
-a. A bakery keeps stock of a popular brand of cake. Previous experience shows the
-daily demand pattern for the item with associated probabilities, as given below
-Daily Demand   0   10   20   30   40   50
-CO-4,5 K3, K4   Probability   0.01   0.20   0.15   0.50   0.12   0.02   10
-Use the following sequence of random numbers to simulate the demand for next 10
-days. Random numbers: 25, 39, 65, 76, 12, 05, 73, 89, 19, 49. Also estimate the
-daily average demand for the cakes on the basis of the simulated data.
-b. Solve the following Integer Linear Programming (ILP) problem using the Branch
-and Bound (Graphical) method and determine the optimal integer solution.
-Max z = 7 x 1 + 9 x 2
-Subject to
-CO-1,2   10
-K2, K3   − x 1 + 3 x 2  6
-7 x 1 + x 2  35
-x 2  7
-x 1 , x 2 are non negative integers
-********** 3 **********
---- page 4 ---
-Q6   20
-a. A fruit merchant purchases oranges at Rs 50 per basket and sells them at Rs 80.
-Unsold oranges are disposed off at Rs 20 per basket the next day. Past record of
-sales for 120 days is as given below
-CO-1,4
-5
-K2, K4   Baskets Sold   15 16 17 18
-No. of Days Sold 12 24 48 36
-Using EMV, find how many baskets the merchant should purchase every day to
-maximize his profit.
-b. A company produces motorcycle seats. The company has two production lines. The
-production rate for line 1 is 50 seats per hour and for line 2 it is 60 seats per hour.
-The company has entered into a contract to daily supply 1,200 seats daily to another
-company. Currently, the normal operation period for each line is 8 hours. The
-production manager of the company is trying to determine the best daily operation
-hours for the two lines. He has set the priorities to achieve his goals, as given below:
-CO-5   P1: Produce and deliver 1,200 seats daily   5
-K4   P2: Limit the daily overtime operation hours of line 2 to 3 hours
-P3: Minimize the underutilization of the regular daily operation hours of each line.
-Assign differential weights based on the relative productivity rate.
-P4: Minimize the daily overtime operation hours of each line as much as possible.
-Assign differential weights based on the relative cost of overtime. It is assumed that
-the cost of operation is identical for the two production lines.
-Formulate this problem as a Goal Programming model.
-c. Given an Integer Linear Programming (ILP) problem with a relaxed optimal
-solution from the Simplex method is shown below:
-Max z = 2 x 1 + 5 x 2
-Subject to
-2 x 1 + 3 x 2  1, x 2  2,
-x 1 , x 2 are non negative integers
-CJ   2   5   0   0
-CO-1,2   B   CB XB   X1   X2   S1   S2   10
-K2, K3
-X2   5   0.3333   0.6667 1   0.3333 0
-S2   0   1.6667   -0.6667 0   -0.3333 1
-Z=1.6665   ZJ   3.3333 5   1.6667 0
-CJ-ZJ   -1.3333 0   -1.6667 0
-a) Construct first Gomory's fractional cut for the given non-integer optimal
-solution.
-b) Illustrate the first iteration of Gomory’s cutting-plane method.
-c) Determine the non-integer optimal solution after first Gomory’s cut.
-Q7   20
-CO-1   a. Distinguish between (i) Pure strategy and mixed strategy (ii) Zero-sum and non-   5
-K1, K2   zero-sum games.
-CO-1   b. What is Monte Carlo simulation? Describe the idea of experimentation (Random   5
-K1, K2   sampling) in simulation.
-c.   Use the Graphical Method to solve the following Goal Programming Problem.
-𝑀𝑖𝑛𝑖𝑚𝑖𝑧𝑒 𝑍= 𝑃1𝑑1 −+ 𝑃2𝑑4 + + 5𝑃3𝑑2 −+ 3𝑃3𝑑3 −+ 𝑃4𝑑1 +
-CO-3,4   subject to the constraints   10
-K3, K4   +
-𝑥1 + 𝑥2 + 𝑑1 −−𝑑1 = 80
-𝑥1 + 𝑑2 −= 70
-********** 4 **********
---- page 5 ---
-X2+d3 =45
-X1 + X2 + dz —dt =90
-X4,X2, dz, d+, dz,dz,dz,dz = 0.
-
-FIC DI EH ar
 ````
 
 ## 2024-25 · Re-Exam · Sem 3 · paper e99768084d72
@@ -3614,6 +3621,241 @@ x, +d; -d} =10
 X, X,,d,,d/,d,,d} 20
 ````
 
+## 2022-23 · Exam not stated · Sem 3 · paper 63db1b595802
+
+- Departments: Data Science
+- Programmes: MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/DATA SCIENCE/Semester 3/Optimization Methods/Optimization Methods.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 June 2023
+- Text: ocr (6 pages), mean OCR confidence 87.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: BTech / MBATech Stream : Data Science Year: 2"4 Saatester: Hl
+Subject: Optimization Methods Time: 03 hrs (14AM to 2PM )
+Date: 13 June 2023 No. of Pages: 06
+
+Marks: 100
+
+Special Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+_~_1) Question No. 1 is compulsory.
+2) Out of the remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer each new question to be started on a fresh page.
+6) Figures on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+
+CO-1 a.
+
+BL-l A bakery keeps stock of popular brand of bread. Previous experience
+
+indicates the daily demand as below:
+
+daily demand | 0 10 |20 |30/|40 | 50
+
+probability 0.01 | 0.2 | 0.15 | 0.5 | 0.12 | 0.02
+
+Using the following sequence of random numbers, generate the demand for
+~ the next 10 days. Find the average daily demand.
+
+48,78,19,51,56,77,15,14,68,9
+
+CO-| B Solve the following game using maximin-minimax principle. Write the
+BL-1 . Si
+saddle point of the game if exists.
+Bl | B2 | B3
+Player A Al 13 4 4
+
+A2 |6 7 -2
+--- page 2 ---
+oma ©: For the following transportation problem, determine the initial shipping
+
+= schedule and cost using North west corner method.
+D E F Capacity
+A 5 10 4 10
+B 6 8 7 25
+Cc 4 3 5 15
+Requirement | 25 10 15
+cL ; ad, Solve the following Assignment Problem to minimize the total time. S a
+Task I I Ul IV
+Workers
+A 0 14 9 3
+B 9 20 0 22
+Cc 23 0 3 0
+D 9 12 14 0
+2 fe Solve the following LPP using Simplex method. 10
+ars Maximize Z =50x,+70x, a
+subject to;
+l x, $y $70; x, +2x, <10032x, +x, <120; x,,x, 20
+a - A certain equipment needs five repair jobs, which have to be assigned to
+CO-1,2 five machines. The estimated time (in hours) that each machine requires to
+BL-3 complete the repair job is given in the following table.
+
+Assuming that each machine can be assigned to only one job, determine the
+minimum time assignment.
+--- page 3 ---
+PE OSE a NE OANA
+
+Jobs he
+
+A B Cc D &E
+
+Machine ? a ° 7 a
+
+2 * Solve using Big-M method to minimize the total cost. 10
+CO-1,2,3 ams _
+BL2 Minimize Z=4x, + 6x,
+subject to;
+x +2x, 2 80;3x, +x, 2755 x,,x, 20
+Q3 B ' ; Fat ge 10
+A steel company is concerned with the problem of distributing imported ore
+CO-1,2,3 from three ports to four steel mills situated throughout the country. Calculate
+BL-3 the transportation plan, which will minimize the ore distribution cost for the
+
+steel company. State the optimal cost of this distribution plan.
+
+The supplies of the ore arriving at ports are:
+
+Ports | Tones per week
+
+a 20000
+b 38000
+c 16000
+
+Demand at the steel mills are:
+
+steel mills A B Cc D
+
+Tones per week | 10000 | 18000 | 22000 | 24000
+
+Transportation costs are Re. 0.05 per ton per km.
+
+The distances between the ports and steel mills are given below:
+--- page 4 ---
+A |B {CC |D
+
+a | 50} 60 | 100 | 50
+
+b | 80 | 40] 70 | 50
+
+c | 90} 70] 30 | 50
+
+a A Simplify the following Game by the rule of dominance and find optimum 10
+CO-1,2,3 strategies for both players. Find value of the game.
+BL-2
+Player B
+Bl B2 | B3 B4
+Al |2 -2 4 1
+Player A
+A2 |6 1 12 |3
+A3 | -3 2 0 6
+A4 |2 -3 7 1
+Q4 B : . - P 10
+Solve the following problem using Branch and Bound method. Terminate
+CO-1,2,3 the process when you get an integer solution (may not be optimal)
+Bla Maximize Z=3x,+5x,
+subject to;
+2x, +4x, $25; 2x, <10;x, 23;x, $6; x,,x, 20 andintegers
+Q5 A Solve the following integer programming problem using Gomory’s cutting ad
+CO-1,2 plane method.
+BL-2
+
+Maximize Z=3x,+2x,+5x,
+subject to;
+X, + 2x, +2x, <8; 3x, +2x, +6x, $12;
+
+2x, +3x, +4x, $12 x,,x,,x, 20 and integers
+--- page 5 ---
+PP ANNA ee PANN
+
+o E A company manufactures 30 items per day. The sale of these items depends 10
+CO-1,2,3 upon demand which has the following distribution
+BL-3
+Sales(units) 27 |28 |29 /30 | 31 32
+Probability 0.1 | 0.15 | 0.2 | 0.35 | 0.15 | 0.05
+The production cost and sale price of each unit are Rs. 40 and Rs. 50
+respectively. Any unsold product is to be disposed of at a loss of Rs. 15 per
+unit. There is a penalty of Rs. 5 per unit if the demand is not met. Using the
+following random numbers, estimate total profit / loss for the company for
+the next 10 days. 10,99,65,99,95,01,79,11,16,20
+Q6 & A company manufactures two products radios and transistors, which must mo
+CO-1,2,3 be processed through assembly and finishing departments. Assembly has
+BL-3 100 hours available; finishing can handle up to 75*hours of work.
+Manufacturing one radio requires 6 hours in assembly and 3 hours in
+finishing. Each transistor requires 3 hours in assembly and 6 hours in
+finishing. If profit is Rs. 150 per radio and Rs. 80 per transistor, determine
+the best combination of radios and transistor to reach profit of Rs. 2200.
+Find the optimal solution to achieve required goal.
+Q6 B A food products company is contemplating the introduction of a 10
+CO-1,2 revolutionary new product with new packaging to replace the existing
+BL-3
+
+product at much higher price (A1) or a moderate change in the
+composition of the existing product with a new packaging at a small
+increase in price (A2) or a small change in the composition of the existing
+except the world ‘New’ with a negligible increase in price (A3). The three
+possible states of nature or events are: (i) high increase in sales (S1), (ii)
+no change in sales (S2) and (iii) decrease in sales (S3). The marketing
+department of the company worked out the pay offs in terms of yearly net
+profits for each of the strategies of three events (expected sales). This is
+
+represented in the following table:
+
+Strategy States of nature
+Payoffs (in ‘000 Rs.)
+Sl $2 $3
+Al 700 | 300 | 150
+A2 500 | 450 | 100
+A3 300 | 300 | 300
+--- page 6 ---
+Which strategy should the concerned executive choose based on
+(i) Maximin criterion
+(ii) Maximax criterion
+(iii) | Minimax regret criterion
+(iv) Laplace criterion (equal opportunity).
+
+Q7 A Helen Holmes makes pottery by hand in her basement. She has 20 hours
+
+CO-1,2,3 available each week to makes bowls and vases. A bowl requires 3 hours of
+
+BL-3 labor, and a vase requires 2 hours of labor. It requires 2 pound of special
+clay to make a bowl and 5 pounds to produce vase; she is able to acquire 35
+pounds of clay per week. Helen sells her bowls for $50 and her vases for
+$40. She wants to know how many of each item to make each week to
+maximize her revenue. Formulate the above as LPP and solve using
+graphical method
+
+7 S We want to introduce one of four new products: Widget, Flugel, Gadget, or
+
+CO-1,2,3 Nimnot. The profit for each product, under three different weather
+
+BL-1 conditions, is shown in the following payoff table.
+
+Product|Hot Weather|Warm Weather|Cold Weather
+
+Widget |90 50 —S0
+Flugel |50 70 15
+Gadget |15 10 10
+Nimnot|55 70 0
+
+If we are using following criterion, which product we would introduce
+~ and what will be corresponding profit of this product.
+(i) Maximin criterion
+(ii) Maximax criterion
+(iii) | Minimax regret criterion
+(iv) Laplace criterion (equal opportunity).
+````
+
 ## 2022-23 · Final-Exam · Sem 3 · paper e37b54fd2821
 
 - Departments: Data Science
@@ -3621,6 +3863,7 @@ X, X,,d,,d/,d,,d} 20
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/DATA SCIENCE/Semester 3/Optimization Methods/Optimization Methods,2022-23,Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 18 November 2022
 - Text: ocr (6 pages), mean OCR confidence 89.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 7
@@ -3713,7 +3956,6 @@ type should be processed each day to minimize the cost of the finished
 stones? Solve using Big-M method to minimize the total cost.
 P Q R
 Cutting 2 hr ihr i hr
-Polishing lhr Lhr Thr
 Cost per stone | Rs. 30 Rs. 30 Rs. 10
 Q3 b 5: : ' 10
 A company has 3 factories at Amethi, Baghpat and Gwalior and 4
@@ -4192,239 +4434,4 @@ Select a strategy using each of the following decision criteria:
 assuming equiprobable states. :
 
 fé
-````
-
-## Year not stated · Exam not stated · Sem 3 · paper 63db1b595802
-
-- Departments: Data Science
-- Programmes: MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/DATA SCIENCE/Semester 3/Optimization Methods/Optimization Methods.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 June 2023
-- Text: ocr (6 pages), mean OCR confidence 87.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: BTech / MBATech Stream : Data Science Year: 2"4 Saatester: Hl
-Subject: Optimization Methods Time: 03 hrs (14AM to 2PM )
-Date: 13 June 2023 No. of Pages: 06
-
-Marks: 100
-
-Special Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-_~_1) Question No. 1 is compulsory.
-2) Out of the remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer each new question to be started on a fresh page.
-6) Figures on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-
-CO-1 a.
-
-BL-l A bakery keeps stock of popular brand of bread. Previous experience
-
-indicates the daily demand as below:
-
-daily demand | 0 10 |20 |30/|40 | 50
-
-probability 0.01 | 0.2 | 0.15 | 0.5 | 0.12 | 0.02
-
-Using the following sequence of random numbers, generate the demand for
-~ the next 10 days. Find the average daily demand.
-
-48,78,19,51,56,77,15,14,68,9
-
-CO-| B Solve the following game using maximin-minimax principle. Write the
-BL-1 . Si
-saddle point of the game if exists.
-Bl | B2 | B3
-Player A Al 13 4 4
-
-A2 |6 7 -2
---- page 2 ---
-oma ©: For the following transportation problem, determine the initial shipping
-
-= schedule and cost using North west corner method.
-D E F Capacity
-A 5 10 4 10
-B 6 8 7 25
-Cc 4 3 5 15
-Requirement | 25 10 15
-cL ; ad, Solve the following Assignment Problem to minimize the total time. S a
-Task I I Ul IV
-Workers
-A 0 14 9 3
-B 9 20 0 22
-Cc 23 0 3 0
-D 9 12 14 0
-2 fe Solve the following LPP using Simplex method. 10
-ars Maximize Z =50x,+70x, a
-subject to;
-l x, $y $70; x, +2x, <10032x, +x, <120; x,,x, 20
-a - A certain equipment needs five repair jobs, which have to be assigned to
-CO-1,2 five machines. The estimated time (in hours) that each machine requires to
-BL-3 complete the repair job is given in the following table.
-
-Assuming that each machine can be assigned to only one job, determine the
-minimum time assignment.
---- page 3 ---
-PE OSE a NE OANA
-
-Jobs he
-
-A B Cc D &E
-
-Machine ? a ° 7 a
-
-2 * Solve using Big-M method to minimize the total cost. 10
-CO-1,2,3 ams _
-BL2 Minimize Z=4x, + 6x,
-subject to;
-x +2x, 2 80;3x, +x, 2755 x,,x, 20
-Q3 B ' ; Fat ge 10
-A steel company is concerned with the problem of distributing imported ore
-CO-1,2,3 from three ports to four steel mills situated throughout the country. Calculate
-BL-3 the transportation plan, which will minimize the ore distribution cost for the
-
-steel company. State the optimal cost of this distribution plan.
-
-The supplies of the ore arriving at ports are:
-
-Ports | Tones per week
-
-a 20000
-b 38000
-c 16000
-
-Demand at the steel mills are:
-
-steel mills A B Cc D
-
-Tones per week | 10000 | 18000 | 22000 | 24000
-
-Transportation costs are Re. 0.05 per ton per km.
-
-The distances between the ports and steel mills are given below:
---- page 4 ---
-A |B {CC |D
-
-a | 50} 60 | 100 | 50
-
-b | 80 | 40] 70 | 50
-
-c | 90} 70] 30 | 50
-
-a A Simplify the following Game by the rule of dominance and find optimum 10
-CO-1,2,3 strategies for both players. Find value of the game.
-BL-2
-Player B
-Bl B2 | B3 B4
-Al |2 -2 4 1
-Player A
-A2 |6 1 12 |3
-A3 | -3 2 0 6
-A4 |2 -3 7 1
-Q4 B : . - P 10
-Solve the following problem using Branch and Bound method. Terminate
-CO-1,2,3 the process when you get an integer solution (may not be optimal)
-Bla Maximize Z=3x,+5x,
-subject to;
-2x, +4x, $25; 2x, <10;x, 23;x, $6; x,,x, 20 andintegers
-Q5 A Solve the following integer programming problem using Gomory’s cutting ad
-CO-1,2 plane method.
-BL-2
-
-Maximize Z=3x,+2x,+5x,
-subject to;
-X, + 2x, +2x, <8; 3x, +2x, +6x, $12;
-
-2x, +3x, +4x, $12 x,,x,,x, 20 and integers
---- page 5 ---
-PP ANNA ee PANN
-
-o E A company manufactures 30 items per day. The sale of these items depends 10
-CO-1,2,3 upon demand which has the following distribution
-BL-3
-Sales(units) 27 |28 |29 /30 | 31 32
-Probability 0.1 | 0.15 | 0.2 | 0.35 | 0.15 | 0.05
-The production cost and sale price of each unit are Rs. 40 and Rs. 50
-respectively. Any unsold product is to be disposed of at a loss of Rs. 15 per
-unit. There is a penalty of Rs. 5 per unit if the demand is not met. Using the
-following random numbers, estimate total profit / loss for the company for
-the next 10 days. 10,99,65,99,95,01,79,11,16,20
-Q6 & A company manufactures two products radios and transistors, which must mo
-CO-1,2,3 be processed through assembly and finishing departments. Assembly has
-BL-3 100 hours available; finishing can handle up to 75*hours of work.
-Manufacturing one radio requires 6 hours in assembly and 3 hours in
-finishing. Each transistor requires 3 hours in assembly and 6 hours in
-finishing. If profit is Rs. 150 per radio and Rs. 80 per transistor, determine
-the best combination of radios and transistor to reach profit of Rs. 2200.
-Find the optimal solution to achieve required goal.
-Q6 B A food products company is contemplating the introduction of a 10
-CO-1,2 revolutionary new product with new packaging to replace the existing
-BL-3
-
-product at much higher price (A1) or a moderate change in the
-composition of the existing product with a new packaging at a small
-increase in price (A2) or a small change in the composition of the existing
-except the world ‘New’ with a negligible increase in price (A3). The three
-possible states of nature or events are: (i) high increase in sales (S1), (ii)
-no change in sales (S2) and (iii) decrease in sales (S3). The marketing
-department of the company worked out the pay offs in terms of yearly net
-profits for each of the strategies of three events (expected sales). This is
-
-represented in the following table:
-
-Strategy States of nature
-Payoffs (in ‘000 Rs.)
-Sl $2 $3
-Al 700 | 300 | 150
-A2 500 | 450 | 100
-A3 300 | 300 | 300
---- page 6 ---
-Which strategy should the concerned executive choose based on
-(i) Maximin criterion
-(ii) Maximax criterion
-(iii) | Minimax regret criterion
-(iv) Laplace criterion (equal opportunity).
-
-Q7 A Helen Holmes makes pottery by hand in her basement. She has 20 hours
-
-CO-1,2,3 available each week to makes bowls and vases. A bowl requires 3 hours of
-
-BL-3 labor, and a vase requires 2 hours of labor. It requires 2 pound of special
-clay to make a bowl and 5 pounds to produce vase; she is able to acquire 35
-pounds of clay per week. Helen sells her bowls for $50 and her vases for
-$40. She wants to know how many of each item to make each week to
-maximize her revenue. Formulate the above as LPP and solve using
-graphical method
-
-7 S We want to introduce one of four new products: Widget, Flugel, Gadget, or
-
-CO-1,2,3 Nimnot. The profit for each product, under three different weather
-
-BL-1 conditions, is shown in the following payoff table.
-
-Product|Hot Weather|Warm Weather|Cold Weather
-
-Widget |90 50 —S0
-Flugel |50 70 15
-Gadget |15 10 10
-Nimnot|55 70 0
-
-If we are using following criterion, which product we would introduce
-~ and what will be corresponding profit of this product.
-(i) Maximin criterion
-(ii) Maximax criterion
-(iii) | Minimax regret criterion
-(iv) Laplace criterion (equal opportunity).
 ````

@@ -478,7 +478,7 @@ SO-1; (d) | Describe how linear and lateral strain relate to the deformation of 
 BL-3 .
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 5420ed798c63
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 5420ed798c63
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -688,6 +688,188 @@ ae (d) | working stress is set to 100 MPa, what is the minimum wall thickness of
 BL-3. radius is 100 mm.
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper a1084f103b88
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MECHANICS OF MATERIALS/Mechanics of Materials, Batch 2022-23, Re Exam (2).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+; Academic Year: 2023-2024
+
+Program/s: B.Tech Year: IL Semester
+
+Stream/s ; Mechatronics
+
+Subject: Mechanics of Materials Time: 03 hrs (10.00 to 1.00 PM)
+Date:.29/ 6/2024 No. of Pages: 4
+Marks: 100
+
+‘Re-Exarnination (2022-23)
+
+Instructions: Candidates should ead carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. 1_ is compulsory.
+< Out of remaining questions, attempt any 4 questions.
+A~—) In all 5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8) Use of Scientific Calculator is allowed.
+
+Qi Answer briefly: 2 . [20].
+CO-1; . :
+SO-2; | (a) | Explain the properties elasticity, plasticity, ductility, strength and brittleness. [5]
+BL-2
+CO-1; Draw shear forcé and bending moment diagram for a cantilever beam of length L, carrying a| [5]
+So-2; | (b) .
+BL-6 point load W at the free end.
+CO-1; () A solid circular shaft of 30 mm diameter is subjected to torques of 0.28 kNm, causing angle of | [5]
+2: | (c
+2 > twist of 3.50° in a length of 2 m. Calculate the modulus of rigidity for the material of shaft.
+C A steel plate of dimensions 200 * 25 mm carries an eccentric tensile force of 500 KN, as shown
+
+in the figure. Find the maximum and minimum stresses in the section.
+CO-3 ; [5]
+so-1; | @
+BL-2
+
+500 kN
+if
+. mm
+
+In a tension test on mild steel specimen 10 mm diameter and 250 mm long gauge length, the
+
+following observations were made:
+
+Elongation under 16 KN load = 0.2 mm .
+
+(a) . . [10]
+
+Load at yield point = 27 KN
+Q2 Ultimate load = 51 kN
+CO-2; Breaking load = 36 kN
+
+1
+--- page 2 ---
+SO-1; Length between gauge marks after fracture = 290 mm
+
+Bist Diameter at Neck = 7.5 mm
+Calculate: ° J
+(i) Nominal yield stress (ii) Nominal ultimate stress (iii) Nominal breaking stress
+(iv) Young’s modulus (v) Percentage elongation (vi) Percentage reduction in area
+A simply supported beam of span 7 m carries a u.d.l. of 2 kN/m over 4 m length from the left
+(b) | support and a point load of 5 KN at 2m from the right support. Draw Shear force and Bending | [10]
+: moment diagram.
+Draw and label the typical stress-strain diagram for mild steel. Show all the salient points and
+(a) | describe the proportional limit, elastic limit, yield stress, ultimate stress and breaking stress | [10]
+using diagram.
+The cross-section of a cast iron beam is as shown in Fig..The top flange is in compression and
+bottom flange is in tension. Permissible stress in tension is 30 N/mm? and its -value in
+compression is 90 N/mm’, What is the maximum uniformly distributed load the beam can carry
+over a simply supported span of 5 m?
+Q3
+75
+CO-1; 75 nm —
+SO-2; 50mm :
+BL-6 | (b) [10]
+100 mm
+t y
+50mm |
+4
+Ik 150 mm >| fh
+(a) (b)
+A T-shaped beam with a flange of 100 mm x 10 mm and a web of 10 mm x 80 mm can withstand
+a maximum shear force of 80 kN.
+Determine:
+(i) Maximum shear stress, (ii) Shear stress at the bottom of the flange
+@ |... we [10]
+Q4 (iii) Shear stress at the junction (iv) Shear stress at the outer most layer ‘
+CO-3; (v) Shear stress distribution diagram.
+SO-6;
+BL-5
+--- page 3 ---
+100 }
+
+10
+
+80
+
+3 10
+
+Determine the safe diameter of solid shaft, which transmits 500kW at 100 r.p.m. The value of
+shear stress and the angle of twist are restricted to 100 MN/m? and 1° in 1.5 m length
+
+(b) [10]
+respectively. The shaft is likely to have a maximum torque 40% more than the mean. Take G =
+8.5*10* MN/m’.
+co The figure shows a S.F.D. in metric unit for a beam which rests on two supports, one being left
+hand end. Draw the Joading aiagrant & for the beam and hence the bending moment icin
+10 kN
+[10]
+(a)
+0s | 6m i 10m >| ag ——2M__ |
+CO-2; A short column has a square section 300 mm * 300 mm with a square hole of 150 mm * 150
+are mm as given in figure. It carries an eccentric load of 1800 KN, located as shown in figure.
+_~ Determine maximum compressive and tensile stress across the section.
+*|
+ok5 CHEE 75 mm->| =
+—
+Gee
+300 mm
+A186 x
+"a i .
+am: 4
+Jers mm-pi4-75 mm >
+300 mm
+Y
+Q6 (@) Derive the expressions for normal and tangential stresses on a plane inclined at @ to the plane of 110)
+a
+CO-3; 0x force. Take a general two-dimensional state of stress.
+--- page 4 ---
+SO-6;
+
+A thin cylinder of internal diameter of 1.25 m contains a fluid at an internal pressure of 2 N/mm.
+
+Ble (o Determine maximum thickness of cylinder if: 7 110)
+) (i) The longitudinal stress is not exceed to 30 N/mm?.
+(ii) The circumferential stress is not exceed to 45 N/mm?.
+Q7 Answer briefly: [20]
+A simply supported beam of rectarfgular cross section as shown in figure of 60 * 35 mm and 3
+m long carries a load of 10 KN at mid span. Determine the maximum bending stress induced in-
+: the beam.
+CO-2; Wa=10 KN -
+SO-2; @) 15 [05]
+BL-4 A
+Ry As an
+— am
+CO-2;
+SO-1; | (b) | State the assumptions made in a simple bending equation. [05]
+BL-2 ,
+Two planes AB and BC, which are at right angles carry shear stress of intensity 22.5 N/mm?
+while the plane AB carries a tensile stress of 160 N/mm? as shown in figure. Identify the normal
+and shear stresses on the plane AC inclined at 25° to the plane AB.
+22.5N/mm*
+CO-2; c B
+SO-2; | (c) [05]
+BL-2
+169N/mm’ L
+25°
+A
+CO-1; Explain thin cylinders. Define the stresses set up in a thin cylinder subjected to internal fluid
+SO-2; | (d) [05]
+BL-3 pressure.
+````
+
 ## 2022-23 · Final-Exam · Sem 4 · paper bb9b46c070e3
 
 - Departments: Mechatronics
@@ -695,6 +877,7 @@ BL-3. radius is 100 mm.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MECHANICS OF MATERIALS/Mechanics of Materials, Sem-IV, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 83.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN€
@@ -879,7 +1062,6 @@ a. Calculate the support reactions for the beam shown in figure:
 [05]
 10 kKN/m SO" RN
 a
-x AN AY AN NY NS
 Az g [o D E
 3m 2m 2m 2am
 
@@ -911,188 +1093,6 @@ A short column 200 mm * 100 mm subjected to an eccentric load of 60 KN at an ecc
 of 40 mm in the plane bisecting the 100 mm side. Find the maximum & minimum intensities
 
 of stresses at base.
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper a1084f103b88
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MECHANICS OF MATERIALS/Mechanics of Materials, Batch 2022-23, Re Exam (2).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 88.2
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
-
-; Academic Year: 2023-2024
-
-Program/s: B.Tech Year: IL Semester
-
-Stream/s ; Mechatronics
-
-Subject: Mechanics of Materials Time: 03 hrs (10.00 to 1.00 PM)
-Date:.29/ 6/2024 No. of Pages: 4
-Marks: 100
-
-‘Re-Exarnination (2022-23)
-
-Instructions: Candidates should ead carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-1) Question No. 1_ is compulsory.
-< Out of remaining questions, attempt any 4 questions.
-A~—) In all 5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-8) Use of Scientific Calculator is allowed.
-
-Qi Answer briefly: 2 . [20].
-CO-1; . :
-SO-2; | (a) | Explain the properties elasticity, plasticity, ductility, strength and brittleness. [5]
-BL-2
-CO-1; Draw shear forcé and bending moment diagram for a cantilever beam of length L, carrying a| [5]
-So-2; | (b) .
-BL-6 point load W at the free end.
-CO-1; () A solid circular shaft of 30 mm diameter is subjected to torques of 0.28 kNm, causing angle of | [5]
-2: | (c
-2 > twist of 3.50° in a length of 2 m. Calculate the modulus of rigidity for the material of shaft.
-C A steel plate of dimensions 200 * 25 mm carries an eccentric tensile force of 500 KN, as shown
-
-in the figure. Find the maximum and minimum stresses in the section.
-CO-3 ; [5]
-so-1; | @
-BL-2
-
-500 kN
-if
-. mm
-
-In a tension test on mild steel specimen 10 mm diameter and 250 mm long gauge length, the
-
-following observations were made:
-
-Elongation under 16 KN load = 0.2 mm .
-
-(a) . . [10]
-
-Load at yield point = 27 KN
-Q2 Ultimate load = 51 kN
-CO-2; Breaking load = 36 kN
-
-1
---- page 2 ---
-SO-1; Length between gauge marks after fracture = 290 mm
-
-Bist Diameter at Neck = 7.5 mm
-Calculate: ° J
-(i) Nominal yield stress (ii) Nominal ultimate stress (iii) Nominal breaking stress
-(iv) Young’s modulus (v) Percentage elongation (vi) Percentage reduction in area
-A simply supported beam of span 7 m carries a u.d.l. of 2 kN/m over 4 m length from the left
-(b) | support and a point load of 5 KN at 2m from the right support. Draw Shear force and Bending | [10]
-: moment diagram.
-Draw and label the typical stress-strain diagram for mild steel. Show all the salient points and
-(a) | describe the proportional limit, elastic limit, yield stress, ultimate stress and breaking stress | [10]
-using diagram.
-The cross-section of a cast iron beam is as shown in Fig..The top flange is in compression and
-bottom flange is in tension. Permissible stress in tension is 30 N/mm? and its -value in
-compression is 90 N/mm’, What is the maximum uniformly distributed load the beam can carry
-over a simply supported span of 5 m?
-Q3
-75
-CO-1; 75 nm —
-SO-2; 50mm :
-BL-6 | (b) [10]
-100 mm
-t y
-50mm |
-4
-Ik 150 mm >| fh
-(a) (b)
-A T-shaped beam with a flange of 100 mm x 10 mm and a web of 10 mm x 80 mm can withstand
-a maximum shear force of 80 kN.
-Determine:
-(i) Maximum shear stress, (ii) Shear stress at the bottom of the flange
-@ |... we [10]
-Q4 (iii) Shear stress at the junction (iv) Shear stress at the outer most layer ‘
-CO-3; (v) Shear stress distribution diagram.
-SO-6;
-BL-5
---- page 3 ---
-100 }
-
-10
-
-80
-
-3 10
-
-Determine the safe diameter of solid shaft, which transmits 500kW at 100 r.p.m. The value of
-shear stress and the angle of twist are restricted to 100 MN/m? and 1° in 1.5 m length
-
-(b) [10]
-respectively. The shaft is likely to have a maximum torque 40% more than the mean. Take G =
-8.5*10* MN/m’.
-co The figure shows a S.F.D. in metric unit for a beam which rests on two supports, one being left
-hand end. Draw the Joading aiagrant & for the beam and hence the bending moment icin
-10 kN
-[10]
-(a)
-0s | 6m i 10m >| ag ——2M__ |
-CO-2; A short column has a square section 300 mm * 300 mm with a square hole of 150 mm * 150
-are mm as given in figure. It carries an eccentric load of 1800 KN, located as shown in figure.
-_~ Determine maximum compressive and tensile stress across the section.
-*|
-ok5 CHEE 75 mm->| =
-—
-(b) a a Fy if [10]
-Gee
-300 mm
-A186 x
-"a i .
-am: 4
-Jers mm-pi4-75 mm >
-300 mm
-Y
-Q6 (@) Derive the expressions for normal and tangential stresses on a plane inclined at @ to the plane of 110)
-a
-CO-3; 0x force. Take a general two-dimensional state of stress.
---- page 4 ---
-SO-6;
-
-A thin cylinder of internal diameter of 1.25 m contains a fluid at an internal pressure of 2 N/mm.
-
-Ble (o Determine maximum thickness of cylinder if: 7 110)
-) (i) The longitudinal stress is not exceed to 30 N/mm?.
-(ii) The circumferential stress is not exceed to 45 N/mm?.
-Q7 Answer briefly: [20]
-A simply supported beam of rectarfgular cross section as shown in figure of 60 * 35 mm and 3
-m long carries a load of 10 KN at mid span. Determine the maximum bending stress induced in-
-: the beam.
-CO-2; Wa=10 KN -
-SO-2; @) 15 [05]
-BL-4 A
-Ry As an
-— am
-CO-2;
-SO-1; | (b) | State the assumptions made in a simple bending equation. [05]
-BL-2 ,
-Two planes AB and BC, which are at right angles carry shear stress of intensity 22.5 N/mm?
-while the plane AB carries a tensile stress of 160 N/mm? as shown in figure. Identify the normal
-and shear stresses on the plane AC inclined at 25° to the plane AB.
-22.5N/mm*
-CO-2; c B
-SO-2; | (c) [05]
-BL-2
-169N/mm’ L
-25°
-A
-CO-1; Explain thin cylinders. Define the stresses set up in a thin cylinder subjected to internal fluid
-SO-2; | (d) [05]
-BL-3 pressure.
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper 41298bd523ba
@@ -1268,6 +1268,7 @@ of stress induced in the section. [05]
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MECHANICS OF MATERIALS/B Tech, Mechatronics, Mechanics of Materials, 2nd Year, Sem-IV, Final Exam, 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 20 April 2022
 - Text: ocr (4 pages), mean OCR confidence 86.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _o
@@ -1318,7 +1319,6 @@ c. | Draw shear force diagram for the cantilever beam shown in Fig. .
 CO-2; lie
 SO-1; | | MA 20 KN/m - [5]
 BL-3 z samc
-AL im Bl am Ec ;
 ; , r
 
 CO-1; d. Derive the relations between the elastic constants E, G, K.
@@ -1353,7 +1353,6 @@ co-2 diagrams and state the values of the maximum bending moment and maximum
 SO- 6; | shear. [10]
 BL-6 BO KN 40 KN j
 - 20 kMin
-Ft aan a ae a ate ca a ce A ART PO AN AT mT a Ld
 1b. A solid shaft of 200 mm diameter has the same cross-sectional area as a hollow
 CO-2; shaft of the same material with inside diameter of 150 mm. Determine the ratio of
 SO-1; (a) Power transmitted by both the shaft at the same angular velocity. [10]
@@ -1413,7 +1412,6 @@ modulus of the material.
 CO-1; 5]
 
 P<e— d,=25mm ——— d,=25mm [—*P
-io mm—*e 250 mm it se mm —>|
 --- page 4 ---
 Q6 [20]
 
@@ -1438,6 +1436,7 @@ dh
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MECHANICS OF MATERIALS/Mechanics of Materials, Sem-IV, Re-Exam, Year 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 June 2022
 - Text: ocr (4 pages), mean OCR confidence 86.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1565,7 +1564,6 @@ B = 200mm
 
 25mm
 b=20mm
-eee Seen eee rer
 | --b=90--4
 25mm
 

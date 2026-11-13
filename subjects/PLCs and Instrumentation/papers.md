@@ -219,6 +219,124 @@ pressed. Draw the interfacing diagram and develop the PLC ladder logic program.
 ********** 3 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 6 · paper 14a58f2df355
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/PLCS AND INSTRUMENTATION/PLCs and Instrumentation, Sem-VI, Batch 2022-23, 2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 03 July 2026
+- Text: ocr (3 pages), mean OCR confidence 91.2
+
+````text
+of
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINE
+Academic Year: 2025-26
+Program: B Tech (MXTC)
+Year: Il Semester : VI
+
+Subject: PLCs and Instrumentation e
+Time: 10.00 am to 1.00 pm (3 hes)
+
+Date : 03 July 2026
+No. of Pages:_ 93
+Marks: 100
+Re-Exam (2022-23/2024-25/2025-26)
+
+~~ Instructions:
+1. This question paper contains 3 pages.
+2. Question No. | is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+
+Ql Answer the following questions. (20]
+COL. Sol a. Discuss the various factors that must be considered when selecting a sensor for an [05]
+BL2 automation application.
+more SOl, b. Analyze the differences between ultrasonic and magnetic proximity sensor. [05]
+nore SOl, & List the important specifications of Bosch-Rexroth L20 PLC. [05]
+C04. S02 d. Design a PLC ladder logic program to control a conveyor belt using two normally [05]
+BL6 open (NO) push buttons for Start and Stop operations. The conveyor should start
+on pressing the Start button and stop on pressing the Stop button. Limit switches
+are provided at both ends of the conveyor; when either limit is reached, the
+conveyor must stop automatically, and an alarm should be activated to alert the
+>. operator.
+Q2 a. Classify different types of flowmeters. Explain the construction and working of a [10]
+Col, SOl, rotameter with neat diagram.
+BL2 ai
+Q2 b. Discuss with neat diagram working of a discrete DC input module and discrete AC [10]
+CO3, SOI, input module of a PLC.
+BL2
+Q3 a. Explain the internal architecture and working of a conductive capacitive proximity [10]
+CO2, SOl, sensor. Describe its applications.
+BL2 .
+Q3 b. Compare PLC with RLC. Explain the structural configuration of a PLC with a neat [10]
+G03, SOk diagram. .
+BL4
+
+FCG 7 Fok kok
+--- page 2 ---
+a
+
+Q4
+
+Compare RTD, Thermistor and Thermocouple. Po [10]
+Col, SOl, P
+BL4
+Q4 Discuss with neat timing diagram off delay timer instruction used in PLC ladder [10]
+C04, $02, logic programming. Design a PLC ladder logic program for a boiler chimney
+BL6 indicator light using timer instructions to generate a 10-second blinking cycle,
+ensuring clear visual signaling of chimney operational status and enhanced safety
+monitoring.
+Q5 Explain the construction and working of an absolute optical encoder. Discuss why [10]
+COl1, SOI, Gray coding is preferred in absolute encoders.
+BL2
+Q5 Develop a PLC ladder logic program for a pallet packing station in which the pallets [10]
+C04, SO2, are coming on a conveyor. Seven pallets should be grouped and tapped together by
+BL6 a robot. Each tapping cycle takes 30 seconds, and the sequence must continue
+repeatedly until the stop switch is pressed.
+Q6 Classify proximity sensors based on their working principles and operating modes. [05]
+CO2, SOl,
+BL2 .
+Q6 Explain the characteristics of a continuous plant with suitable examples. [05]
+CO3, SOL,
+BL2
+Q6 Design a PLC-based temperature control system to maintain the temperature of an [10]
+COS, SO2, experimental setup between 30°C and 40°C using a heater. Select an appropriate
+BL6 temperature sensor and justify your choice. Draw the interfacing diagram and
+sketch the PLC ladder logic program for the system.
+Q7 Discuss with relevant example the sequencer output instruction used in PLC ladder [10]
+C04, SOI, - . .
+BL2 “| logic programming.
+
+FOR GR 2 kkk
+--- page 3 ---
+af
+
+Q7
+C05, $02,
+BL6
+
+Design a PLC-based automatic bottle filling system using a conveyor, controlled
+by a NO Start push button and a NC Stop push button. When the Start button is
+pressed, the conveyor motor starts and a RUN LED glows. As a bottle Teaches the
+filling position, a proximity sensor detects it, stops the motor, and opens a solenoid
+valve to begin filling. During filling, a FILL LED should glow. When the bottle is
+full, a level sensor closes the solenoid valve and turns ON the FULL LED. The
+conveyor motor then restarts moving the bottle forward and the next bottle enters
+the filling position. The process stiould repeat continuously until the Stop button is
+
+pressed. Draw the interfacing diagram and develop the PLC ladder logic program.
+
+[10]
+
+FORK RK
+````
+
 ## 2024-25 · Final + Re-Exam · Sem 6 · paper 9b4a6fda2c7e
 
 - Departments: Mechatronics
@@ -353,125 +471,7 @@ Page 3 of 3.
 
 ````
 
-## 2024-25 · Re-Exam · Sem 6 · paper 14a58f2df355
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/PLCS AND INSTRUMENTATION/PLCs and Instrumentation, Sem-VI, Batch 2022-23, 2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 03 July 2026
-- Text: ocr (3 pages), mean OCR confidence 91.2
-
-````text
-of
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINE
-Academic Year: 2025-26
-Program: B Tech (MXTC)
-Year: Il Semester : VI
-
-Subject: PLCs and Instrumentation e
-Time: 10.00 am to 1.00 pm (3 hes)
-
-Date : 03 July 2026
-No. of Pages:_ 93
-Marks: 100
-Re-Exam (2022-23/2024-25/2025-26)
-
-~~ Instructions:
-1. This question paper contains 3 pages.
-2. Question No. | is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right-hand side indicate full marks.
-8. Assume Suitable data if necessary.
-
-Ql Answer the following questions. (20]
-COL. Sol a. Discuss the various factors that must be considered when selecting a sensor for an [05]
-BL2 automation application.
-more SOl, b. Analyze the differences between ultrasonic and magnetic proximity sensor. [05]
-nore SOl, & List the important specifications of Bosch-Rexroth L20 PLC. [05]
-C04. S02 d. Design a PLC ladder logic program to control a conveyor belt using two normally [05]
-BL6 open (NO) push buttons for Start and Stop operations. The conveyor should start
-on pressing the Start button and stop on pressing the Stop button. Limit switches
-are provided at both ends of the conveyor; when either limit is reached, the
-conveyor must stop automatically, and an alarm should be activated to alert the
->. operator.
-Q2 a. Classify different types of flowmeters. Explain the construction and working of a [10]
-Col, SOl, rotameter with neat diagram.
-BL2 ai
-Q2 b. Discuss with neat diagram working of a discrete DC input module and discrete AC [10]
-CO3, SOI, input module of a PLC.
-BL2
-Q3 a. Explain the internal architecture and working of a conductive capacitive proximity [10]
-CO2, SOl, sensor. Describe its applications.
-BL2 .
-Q3 b. Compare PLC with RLC. Explain the structural configuration of a PLC with a neat [10]
-G03, SOk diagram. .
-BL4
-
-FCG 7 Fok kok
---- page 2 ---
-a
-
-Q4
-
-Compare RTD, Thermistor and Thermocouple. Po [10]
-Col, SOl, P
-BL4
-Q4 Discuss with neat timing diagram off delay timer instruction used in PLC ladder [10]
-C04, $02, logic programming. Design a PLC ladder logic program for a boiler chimney
-BL6 indicator light using timer instructions to generate a 10-second blinking cycle,
-ensuring clear visual signaling of chimney operational status and enhanced safety
-monitoring.
-Q5 Explain the construction and working of an absolute optical encoder. Discuss why [10]
-COl1, SOI, Gray coding is preferred in absolute encoders.
-BL2
-Q5 Develop a PLC ladder logic program for a pallet packing station in which the pallets [10]
-C04, SO2, are coming on a conveyor. Seven pallets should be grouped and tapped together by
-BL6 a robot. Each tapping cycle takes 30 seconds, and the sequence must continue
-repeatedly until the stop switch is pressed.
-Q6 Classify proximity sensors based on their working principles and operating modes. [05]
-CO2, SOl,
-BL2 .
-Q6 Explain the characteristics of a continuous plant with suitable examples. [05]
-CO3, SOL,
-BL2
-Q6 Design a PLC-based temperature control system to maintain the temperature of an [10]
-COS, SO2, experimental setup between 30°C and 40°C using a heater. Select an appropriate
-BL6 temperature sensor and justify your choice. Draw the interfacing diagram and
-sketch the PLC ladder logic program for the system.
-Q7 Discuss with relevant example the sequencer output instruction used in PLC ladder [10]
-C04, SOI, - . .
-BL2 “| logic programming.
-
-FOR GR 2 kkk
---- page 3 ---
-af
-
-Q7
-C05, $02,
-BL6
-
-Design a PLC-based automatic bottle filling system using a conveyor, controlled
-by a NO Start push button and a NC Stop push button. When the Start button is
-pressed, the conveyor motor starts and a RUN LED glows. As a bottle Teaches the
-filling position, a proximity sensor detects it, stops the motor, and opens a solenoid
-valve to begin filling. During filling, a FILL LED should glow. When the bottle is
-full, a level sensor closes the solenoid valve and turns ON the FULL LED. The
-conveyor motor then restarts moving the bottle forward and the next bottle enters
-the filling position. The process stiould repeat continuously until the Stop button is
-
-pressed. Draw the interfacing diagram and develop the PLC ladder logic program.
-
-[10]
-
-FORK RK
-````
-
-## 2022-23 · Final + Re-Exam · Sem 6 · paper e96f0b0f6618
+## 2023-24 · Final + Re-Exam · Sem 6 · paper e96f0b0f6618
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -629,6 +629,137 @@ CO2, SOl, d. Discuss with relevant example the I/O addressing scheme used in PLC
 BL2
 CO3, SO1, e; Develop the PLC ladder logic program for blinking an indicator light with frequency [04]
 ca of 0.10 Hz.
+Page 3 of 3
+````
+
+## 2023-24 · Re-Exam · Sem 6 · paper ee3fb83dda9a
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/PLCS AND INSTRUMENTATION/PLCs and Instrumentation, Sem-VI, Batch 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 91.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE
+SCHOOL OF TECHNOLOGY MANAGEMENT J
+
+Academic Year: 2023-2024
+
+Program: B. Tech. Year: III Semester: VI
+Stream: Mechatronics Engineering
+
+Subject: PLCs and Instrumentation Time: 3 hrs. (2 pm to 5 pm)
+Date:_26 / 06 / 2024 No. of Pages: 03
+
+Marks: 100
+
+‘Re-Examination (Batch 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer the following questions. | [20]
+oy SOl, a, Discuss with relevant examples active and passive transducers. [04]
+aoe SOl, b. List the advantages of PLC over RLC. [04]
+yr SOl, & Compare inductive proximity sensor with magnetic proximity sensor. [04]
+CO3, SO2, d. Develop the PLC ladder logic program for interlocking operation of three motors. [04]
+
+BL6 . : “5 a
+; When any one motor is running the remaining two should not run. Separate start and
+stop pushbuttons should be used for each motor. The running status of each motor
+
+should be indicated by an LED.
+
+a SO1, €. Compare ultrasonic flowmeter with electromagnetic flow meter. [04]
+A Q2 a. Explain with neat diagram construction and working of: LVDT. Sketch its [10]
+COl, SOl, characteristic and list its advantages.
+BL2
+Page 1 of 3
+--- page 2 ---
+Q2 b. State various types of instructions used in PLC ladder logic programming. In an [10]
+CO3, SO2, industrial operation, the parts of a product are manufactured by two separate assembly
+Els stations. The production department needs the total count of parts manufactured by
+both the stations. The total count should be updated after every 10 seconds:If the total
+parts manufactured are equal to 10 then the assembly robot should run for 5 seconds.
+Develop a PLC ladder logic program for this operation.
+Q3 a. State various modes of operation of photoelectric proximity sensors. Discuss with neat [10]
+COl, SOl, diagram operation of a diffused photoelectric proximity sensor.
+BL2
+Q3 b. Sketch the constructional diagram of PLC. Explain the operation of different [10]
+CO2, SO1, components used in PLC construction.
+BL2
+Q4 a. Select a suitable pressure transducer and design a system for measuring manifold [10]
+COl1, SOl, absolute pressure (MAP) in the intake manifold of an internal combustion engine. The
+BLo MAP value should be displayed on the dashboard of a car using an LCD display.
+Q4 b. | Develop a PLC ladder logic program and sketch the interfacing diagram fora| [10]
+ee: S02, three-motor sequencing system with the following conditions:
+Motor | starts as soon as the start switch is ON, after 10 seconds, Motor 1 goes
+off and motor 2 starts. 5 seconds after this, Motor 2 goes off and motor 3 comes
+on. 10 seconds afterwards, Motor 3 goes off and motor 2 comes on again. After
+5 seconds, Motor 2 goes off and motor 1 comes on again and the cycle is
+repeated.
+Q5 a. An industrial process requires detecting level of orange juice sealed inside a thin [10]
+COl1, SO1, plastic container. Select a suitable type of proximity sensor for this application.
+BLS Justify your selection. Sketch its constructional diagram and discuss its working.
+Q5 State the need of sequencer instructions in PLC ladder logic programming. Discuss [10]
+ae with relevant example the sequencer output (SQO) instruction.
+
+Page 2 of 3
+--- page 3 ---
+Q6 a. Discuss with neat diagram the working of discrete DC input module and discrete DC [10]
+
+CO2, SOl, output module of PLC.
+BL2 ;
+Ss
+Q6 b. Design the PLC based automation system for the following chemical mixing process. [10]
+CO3, SO2, When the start button is pressed and the reaction tank is empty indicated by level
+BL6
+
+switch LE, the valve VA is opened and the tank is filled with chemical X upto the
+level indicated by level switch LA . Then the valve VA is closed and valve VB is
+opened to fill the remaining tank with chemical Y upto the level indicated by level
+switch LB. After this valve VB is closed and heater-H along with stirrer-S is operated
+for 5 minutes to properly mix the chemicals. When the mixing operation stops, the
+tank is emptied by opening valve VC. Select NO type level switches. Sketch the
+interfacing diagram and develop the PLC ladder logic program.
+
+s
+\on
+y VA VB
+
+LB — oe
+LA ___ ‘=e
+LE
+
+Q7 Answer the following questions 4 [20]
+Col, SO1, a. Discuss various techniques for compensating temperature of reference junction in [04]
+BL2
+thermocouples.
+ae Sol, b. Compare modular PLC with micro-PLC. [04]
+CO2, SO1, c. Discuss in detail the memory organization of a PLC. [04]
+BL2
+C02, SOl, d. State the criteria for selecting a PLC for an automation application. [04]
+BLI
+
+CO3, SOI, & Develop the PLC ladder logic program for generating square wave with a time [04]
+
+Ble duration of 20 seconds.
+
 Page 3 of 3
 ````
 
@@ -976,135 +1107,4 @@ CO3, SO], e. Discuss with neat timing diagram Pulse timer (TP) and ON delay time
 BL2 instructions used in PLC ladder logic programming.
 
 Page 4 of 4
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper ee3fb83dda9a
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/PLCS AND INSTRUMENTATION/PLCs and Instrumentation, Sem-VI, Batch 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 91.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE
-SCHOOL OF TECHNOLOGY MANAGEMENT J
-
-Academic Year: 2023-2024
-
-Program: B. Tech. Year: III Semester: VI
-Stream: Mechatronics Engineering
-
-Subject: PLCs and Instrumentation Time: 3 hrs. (2 pm to 5 pm)
-Date:_26 / 06 / 2024 No. of Pages: 03
-
-Marks: 100
-
-‘Re-Examination (Batch 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer the following questions. | [20]
-oy SOl, a, Discuss with relevant examples active and passive transducers. [04]
-aoe SOl, b. List the advantages of PLC over RLC. [04]
-yr SOl, & Compare inductive proximity sensor with magnetic proximity sensor. [04]
-CO3, SO2, d. Develop the PLC ladder logic program for interlocking operation of three motors. [04]
-
-BL6 . : “5 a
-; When any one motor is running the remaining two should not run. Separate start and
-stop pushbuttons should be used for each motor. The running status of each motor
-
-should be indicated by an LED.
-
-a SO1, €. Compare ultrasonic flowmeter with electromagnetic flow meter. [04]
-A Q2 a. Explain with neat diagram construction and working of: LVDT. Sketch its [10]
-COl, SOl, characteristic and list its advantages.
-BL2
-Page 1 of 3
---- page 2 ---
-Q2 b. State various types of instructions used in PLC ladder logic programming. In an [10]
-CO3, SO2, industrial operation, the parts of a product are manufactured by two separate assembly
-Els stations. The production department needs the total count of parts manufactured by
-both the stations. The total count should be updated after every 10 seconds:If the total
-parts manufactured are equal to 10 then the assembly robot should run for 5 seconds.
-Develop a PLC ladder logic program for this operation.
-Q3 a. State various modes of operation of photoelectric proximity sensors. Discuss with neat [10]
-COl, SOl, diagram operation of a diffused photoelectric proximity sensor.
-BL2
-Q3 b. Sketch the constructional diagram of PLC. Explain the operation of different [10]
-CO2, SO1, components used in PLC construction.
-BL2
-Q4 a. Select a suitable pressure transducer and design a system for measuring manifold [10]
-COl1, SOl, absolute pressure (MAP) in the intake manifold of an internal combustion engine. The
-BLo MAP value should be displayed on the dashboard of a car using an LCD display.
-Q4 b. | Develop a PLC ladder logic program and sketch the interfacing diagram fora| [10]
-ee: S02, three-motor sequencing system with the following conditions:
-Motor | starts as soon as the start switch is ON, after 10 seconds, Motor 1 goes
-off and motor 2 starts. 5 seconds after this, Motor 2 goes off and motor 3 comes
-on. 10 seconds afterwards, Motor 3 goes off and motor 2 comes on again. After
-5 seconds, Motor 2 goes off and motor 1 comes on again and the cycle is
-repeated.
-Q5 a. An industrial process requires detecting level of orange juice sealed inside a thin [10]
-COl1, SO1, plastic container. Select a suitable type of proximity sensor for this application.
-BLS Justify your selection. Sketch its constructional diagram and discuss its working.
-Q5 State the need of sequencer instructions in PLC ladder logic programming. Discuss [10]
-ae with relevant example the sequencer output (SQO) instruction.
-
-Page 2 of 3
---- page 3 ---
-Q6 a. Discuss with neat diagram the working of discrete DC input module and discrete DC [10]
-
-CO2, SOl, output module of PLC.
-BL2 ;
-Ss
-Q6 b. Design the PLC based automation system for the following chemical mixing process. [10]
-CO3, SO2, When the start button is pressed and the reaction tank is empty indicated by level
-BL6
-
-switch LE, the valve VA is opened and the tank is filled with chemical X upto the
-level indicated by level switch LA . Then the valve VA is closed and valve VB is
-opened to fill the remaining tank with chemical Y upto the level indicated by level
-switch LB. After this valve VB is closed and heater-H along with stirrer-S is operated
-for 5 minutes to properly mix the chemicals. When the mixing operation stops, the
-tank is emptied by opening valve VC. Select NO type level switches. Sketch the
-interfacing diagram and develop the PLC ladder logic program.
-
-s
-\on
-y VA VB
-
-LB — oe
-LA ___ ‘=e
-LE
-
-Q7 Answer the following questions 4 [20]
-Col, SO1, a. Discuss various techniques for compensating temperature of reference junction in [04]
-BL2
-thermocouples.
-ae Sol, b. Compare modular PLC with micro-PLC. [04]
-CO2, SO1, c. Discuss in detail the memory organization of a PLC. [04]
-BL2
-C02, SOl, d. State the criteria for selecting a PLC for an automation application. [04]
-BLI
-
-CO3, SOI, & Develop the PLC ladder logic program for generating square wave with a time [04]
-
-Ble duration of 20 seconds.
-
-Page 3 of 3
 ````

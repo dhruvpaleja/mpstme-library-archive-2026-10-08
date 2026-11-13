@@ -14,9 +14,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Stochastic Processes(702EX0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC | Stochastic Processes, Sem-V, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech EXTC 7006 | QP_Stochastic Processes(702EX0C026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Stochastic Processes(702EX0C026)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC, MBA TECH / EXTC | Stochastic Processes, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | MBA TECH / EXTC | Stochastic Processes , Final exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | Stochastic Processes, Sem-V, Batch 2024-25, Re Exam.pdf |

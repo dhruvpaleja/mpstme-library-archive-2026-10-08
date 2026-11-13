@@ -1194,381 +1194,6 @@ data.
 ********** 9 **********
 ````
 
-## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 3f061c11bb42
-
-- Departments: Information Technology
-- Programmes: BTech IT 7001, MBATech IT 7041
-- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_IT_7001/Advanced Database Management Systems/ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.docx` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: docx (1 page)
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-|
-Program: B. Tech   Stream: IT/COMPS/DS
-| Year: IV Semester: VII
-|
-Subject: Advanced Database Management Systems
-| Time: 3 hrs (______to_______)
-|
-Date:   /   / 2024
-| No. of Pages: 3
-|
-Marks: 100
-|
-|
-Final Examination
-|
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1
-
-|
-| Answer briefly:
-| [20]
-|
-CO1.
-BL- 5
-| a.
-| A financial institution needs a database structure to accurately track client investments. The fundamental object in the system is Security, which is defined by a unique Security ID, its Name, and its current Market Price. Securities are categorized as either Stock or Bond, though not every Security needs to fall into one of these two classifications. Furthermore, a Security cannot be both a Stock and a Bond. Stock entities are detailed with a Ticker Symbol and a Price-to-Earnings Ratio. Bond entities, conversely, are described by a Maturity Date and a Coupon Rate. Separately, all Stocks are further broken down into two types: Preferred Stock and Common Stock. Every Stock must be one of these two types, but never both. Preferred Stock includes a Dividend Rate, while Common Stock includes a Voting Rights Flag. The institution also tracks its clients, each identified by a unique Client ID, an Address, and a Risk Tolerance Level. In the system, every Security must belong to exactly one Client's portfolio, and a Client must have at least one Security in their portfolio, although a client will often hold many Securities.
-Design EER for above scenario. Draw EER for the above problem statement.
-Ans:
-Identification of superclass 1 mark, identification of all entities and their attributes 3 marks and relations 1 mark
-
-| [5]
-|
-CO2.
-BL- 4
-| b.
-| Apply type constructors to model a Department that has a name, number, manager, a set of locations, and a set of employees. Specify suitable constructors and justify briefly.
-Ans:
-Suitable constructors 2.5 marks and
-Justification 2.5 marks
-Use the object   definition format: (OID, constructor, value). Choose:
-DNAME, DNUMBER → atom (strings/int).
-LOCATIONS → set of OIDs to atomic city objects (no duplicates).
-EMPLOYEES → set of OIDs to EMPLOYEE objects.
-MGR → OID reference to an EMPLOYEE.
-Final tuple:
-DEPT = (i, tuple, <dname:i₁, dnumber:i₂, mgr:i₃, locations:i₄, employees:i₅>).
-| [5]
-|
-CO4. BL-2
-| c.
-| Explain   the role of replication in distributed databases. How does synchronous replication ensure consistency compared to asynchronous replication.
-Ans:
-Role & Benefits of Replication 2.5 marks
-How does synchronous 2.5 marks
-Replication keeps multiple copies of the same data on different nodes/sites to achieve:
-High availability & fault tolerance reads/writes can continue after node/site failures.
-Low-latency access: serve users from geographically closer replicas.
-Load distribution: spread read traffic; isolate analytics from OLTP.
-Disaster recovery: a remote replica shortens RTO/RPO after an outage
-In synchronous Client completes only after replica(s) also persist, where as in Asynchronous replication, Client completes after primary, replicas catch up later hence synchronous replication is more consistent.
-| [5]
-|
-CO3.
-BL-2
-| d.
-| Compare XML Schema and DTD and analyze how XML Schema overcomes the limitations of DTD in defining structured data.
-Ans:
-Comparison 2.5 marks
-Analyze 2.5 marks
-An XML Schema provides a more powerful and flexible way of defining the structure and constraints of XML documents compared to DTD (Document Type Definition).
-Data Typing:
-DTD supports only basic text types like #PCDATA, whereas XML Schema includes strong data types such as xs:string, xs:integer, xs:date, etc.
-Syntax Compatibility:
-XML Schema is written in XML syntax, allowing it to be processed by standard XML parsers; DTD uses a non-XML syntax, requiring specialized processors.
-Order and Cardinality:
-XML Schema allows control over element order, repetition (minOccurs, maxOccurs), and optional elements, giving greater modeling precision.
-Namespace and Validation:
-XML Schema supports namespaces and hierarchical validation, making it suitable for complex web applications.
-| [5]
-|
-Q2
-CO1; BL-1
-| a.
-| Explain the difference between the Disjoint and Overlapping   constraints in a specialization. If a specialization hierarchy is both Total and Disjoint, what is the exact number of subclasses that every entity in the superclass must belong to, justify with example?
-Ans:
-Difference 5 marks
-Justification with example 5 marks
-An entity in the superclass can belong to only one subclass.
-| An entity in the superclass can belong to more than one subclass simultaneously.
-|
-Represented by a “d” inside the specialization circle.
-| Represented by an “o” inside the specialization circle.
-|
-In a company, an Employee can be either a Manager or an Engineer, but not both.
-| A Person can be both a Student and an Employee at the same time.
-|
-Mutually exclusive subclasses
-| Non-mutually exclusive subclasses
-|
-Used when subclasses represent distinct categories.
-| Used when subclasses represent roles or multiple associations.
-|
-Total Specialization: Every entity in the superclass must belong to at least one subclass.
-Disjoint Constraint: Each entity can belong to only one subclass.
-If a specialization hierarchy is both Total and Disjoint, then every entity in the superclass must belong to exactly one subclass.
-Example
-Consider specialization of Software_Product into Operating_System and Application:
-The specialization is Total and Disjoint, meaning every Software Product must be either an Operating System or an Application, but not both. So, each product belongs to exactly one subclass.
-| [10]
-|
-Q2
-CO2; BL-3
-| b.
-| Describe the purpose of each section (DECLARE, BEGIN, EXCEPTION, END) of a standard PL/SQL block. Design a single PL/SQL block that demonstrates both a predefined exception (NO_DATA_FOUND) and a user-defined exception.
-Ans:
-Purpose 5 marks
-Design a single PL/SQL block 5 marks
-DECLARE: This optional section is used to declare variables, constants, cursors, and user-defined exceptions that will be used in the block.
-BEGIN: This is the executable section where the main logic of the program is written. It includes SQL statements and PL/SQL procedural statements.
-EXCEPTION: This optional section handles errors (exceptions) that occur in the execution section. Both predefined and user-defined exceptions can be handled here.
-END This section marks the end of the PL/SQL block. Every PL/SQL block must end with the keyword END;
-
-| [10]
-|
-Q3
-CO3, BL-4
-| a.
-| Design an XML schema for an Online Shopping System that manages data for Customers, Orders, Products, and Payments. Include elements for order details, product descriptions, and customer information with attributes such as order ID and payment status.
-Ans:
-Root structure & major modules (2 marks)
-Customer information design (2 marks)
-Product description design (2 marks)
-Order & order details structure (2 marks)
-Payment modelling with status (2 marks)
-
-| [10]
-|
-Q3
-CO4; BL-3
-| b.
-| Analyze the roles of valid time and transaction time in temporal databases and evaluate how bitemporal modeling resolves limitations of single-time designs. Use a brief example from banking or healthcare to show lifecycle tracking of historical data.
-Ans:
-Concept of Temporal Databases: (5 Marks)
-Example: (5 Marks)
-
-• Temporal databases store data that changes over time, allowing for historical tracking.
-Differences:
-• Valid Time: When the data is true in the real world.
-• Transaction Time: When the data is stored in the database.
-• Bitemporal Data: Combines both valid and transaction time to track data changes and record history.
-Example
-• Healthcare: Track patient records where valid time represents when symptoms occurred, and transaction time shows when the records were updated.
-| [10]
-|
-Q4
-CO3, BL3
-| a.
-| Discuss the concept of encapsulation and tell how it is used to create abstract data types in object-oriented databases with example.
-Ans:
-It is related to the concepts of ADTs and information hiding (5 Marks)
-Object-oriented databases with example (5 Marks)
-
-For database applications, the requirement that all objects be completely encapsulated is too strict.
-One way to relax this requirement is to divide the data members into visible and hidden attributes (or data members)
-Visible attributes may be accessed(read) by high level query languages or other external operators
-Hidden attributes of an object can be accessed only through predefined operations
-Most OODBMS use high-level query languages for accessing or reading visible attributes
-Usually operations that update the state of an object are encapsulated.
-One reason for this is that in many OO data models, few integrity constraints are predefined in the schema
-So each type of object has its integrity constraints programmed into the methods that create, delete, and update the objects
-For example, a BankAccount class defines operations like deposit() and withdraw(), while the balance attribute remains hidden.
-
-| [10]
-|
-Q4
-CO4; BL-3
-| b.
-| Analyze how the Voting-based concurrency control method enhances fault tolerance compared to the Primary Site technique in a distributed database system
-Ans:
-Analyze with explanation 5 marks
-how Voting-based concurrency control method enhances fault tolerance 5 marks
-
-Primary Site method: Entire system halts if the coordinator site fails.
-Voting method: System continues operation, ensuring availability and resilience.
-In Voting-based concurrency control, every copy of a data item participates in the decision-making process. A transaction obtains a lock only when it secures a majority of votes from all copies. Unlike the Primary Site technique, which depends on a single coordinator, the voting method avoids single-point failure by distributing control among multiple sites.
-Even if some sites fail, as long as a majority of votes are obtained, transactions can proceed.
-Synchronization and lock consistency are maintained across all active copies.
-| [10]
-|
-Q5
-CO4, BL-3
-| a.
-| How inter-query and intra-query parallelism improve performance in large-scale database environments. Discuss the trade-offs and implementation challenges.
-Ans:
-How inter-query and intra-query parallelism improve performance 5 marks
-Trade-offs 3 marks
-Implementation Example 2 marks
-Parallelism enhances query performance by dividing tasks across multiple processors, enabling faster data access and improved throughput.
-Types of Parallelism:
-Inter-Query Parallelism: Multiple independent queries run simultaneously across processors.
-Advantage: Increases system throughput; ideal for transaction-heavy workloads.
-Intra-Query Parallelism: A single complex query is split into parallel sub-tasks.
-Advantage: Reduces response time for analytical queries.
-Techniques:
-Intra-Operator Parallelism: A single operator (e.g., sort, join) runs concurrently.
-Inter-Operator Parallelism: Multiple operators (e.g., select and join) run in a pipelined manner.
-Trade-offs: 3 marks
-High overhead in synchronizing parallel tasks.
-Load imbalance due to skewed data distribution.
-Communication overhead between processors.
-Implementation Example: 2 marks
-A data warehouse query performing joins and aggregations can use intra-query parallelism, where each processor joins a subset of data before merging results.
-| [10]
-|
-Q5
-CO3;BL-4
-| b.
-| A university course management system maintains records of courses, students, and their prerequisites. Each course has attributes such as courseCode, courseTitle, creditHours, and description. Students have attributes including studentID, name, email, and major. A student can enroll in multiple courses, but certain courses have prerequisites that must be completed before enrollment. The system also tracks the semester in which the student enrolls in a course.   Instructions: Develop an ODL schema for the university course management system.
-Ans:
-Identifying all classes 3 marks
-Identifying all attributes 3 marks
-Managing relationships/sets (proper Cardinality) 4 marks
-
-class Course {
-( extent courses)
-attribute string courseCode;
-attribute string courseTitle;
-attribute short creditHours;
-attribute string description;
-relationship set Course has_prereqs inverse Course::is_prereq_for;
-relationship set Enrollment offered_in inverse Enrollment::enrolled_courses;
-};
-class Student {
-( extent students)
-attribute string studentID;
-attribute string name;
-attribute string email;
-attribute string major;
-relationship set Enrollment enrollments inverse Enrollment::enrolled_by;
-};
-class Enrollment {
-( extent enrollments)
-attribute Date enrollmentDate;
-relationship Course enrolled_courses inverse Enrollment::offered_in;
-relationship Student enrolled_by inverse Enrollment::enrollments;
-};
-| [10]
-|
-Q6
-CO4; BL-3
-| a.
-| . What are key features of NoSQL? In which situation will NoSQL database not be suitable to implement?
-Ans:
-Key Features: 5 marks
-Situation based example 5 marks
-
-Flexible schemas
-Horizontal scaling
-Fast queries due to the data model
-Ease of use for developers
-
-If you are required to perform complex and dynamic querying and reporting, then you should avoid using NoSQL as it has a limited query functionality. For such requirements, you should prefer SQL only.
-NoSQL also lacks in the ability to perform dynamic operations. It can’t guarantee ACID properties. In such cases like financial transactions, etc., you may go with SQL databases.
-You should also avoid NoSQL if your application needs run-time flexibility.
-If consistency is a must and if there aren’t going to be any large-scale changes in terms of the data volume, then going with the SQL database is a better option.
-One should also keep in mind that NoSQL databases won’t support structured query language. The querying language may vary from one database to another.
-| [10]
-|
-Q6
-CO2, BL-4
-| b.
-| Sample Clerk table (CL_ID, First_name, Department_name, Salary, Designation)
-Create a PL/SQL procedure called percentage_salary to update Clerks data
-The procedure has two parameters: IN_CL_ID and IN_PERCENT.
-The procedure adjusts the salary of a particular Clerk specified the IN_CL_ID by a given percentage IN_PERCENT. (salary + salary * in_percent / 100)
-In the procedure body, we use the UPDATE statement to update the salary information.
-Test the procedure with CL_ID = 175 and IN_PERCENT = 10%
-Ans:
-Parameter declaration 2 marks
-Logic implementation 4 marks
-SQL statement for update 2 marks
-Test the procedure 2 marks
-Clerk table (CL_ID, First_name, Department_name, Salary, Designation)
-
-CREATE OR REPLACE PROCEDURE adjust_salary(
-in_CL_ID IN Clerk.CL_ID%TYPE,
-in_percent IN NUMBER
-) IS
-BEGIN
--- update Clerk 's salary
-UPDATE Clerk
-SET salary = salary + salary * in_percent / 100
-WHERE CL_ID = in_CL_id;
-END;
-| [10]
-|
-Q7
-CO4; BL-3
-| a.
-| Explain the Active Database concepts in detail. Discuss the Event-Condition-Action (ECA) model, its components, and how it enhances traditional database systems. Give suitable examples of real-world applications where Active Databases are beneficial.
-Ans:
-Active Database concepts 3 Marks
-Event-Condition-Action (ECA) model 3 Marks
-suitable examples 4 Marks
-
-Active DBMS reacts automatically to specified situations.
-Rules (triggers) are stored in the catalogue and managed like other schema objects.
-Granularity: Statement-level vs row-level firing.
-Timing: BEFORE, AFTER, or INSTEAD OF the triggering event.
-ECA Components
-When the Event occurs and Condition is true, execute the Action
-Event:
-Database modification E.g., (insert, delete, update),
-Condition:
-Any true/false expression
-Action:
-Sequence of SQL statements that will be automatically executed
-How It Enhance Traditional DBs
-Proactive enforcement:
-Timeliness:
-Consistency & reuse:
-Automation
-
-| [10]
-|
-Q7
-CO4; BL-3
-| b.
-| Explain issues in RDBMS such as impedance mismatch, schema inflexibility, and scalability limitations. Suggest suitable database that can overcome these challenges and justify your reasoning with examples.
-Ans:
-Issues: 5 marks
-Suitable database 2 marks
-Justify : 3 marks
-
-Strengths
-Structured Storage: Data stored in tables (rows & columns) with clear relationships.
-ACID Properties: Ensures data consistency, reliability, and integrity.
-Query Flexibility: SQL supports complex joins, filters, and aggregations.
-Schema Safety: Enforces data types, primary/foreign keys, and constraints.
-Maturity: Long-standing, stable technology with wide tool and vendor support.
-Weaknesses
-Impedance Mismatch: Difficult mapping between object-oriented code and tables.
-Schema Inflexibility: Hard to modify structure once database is in production.
-Limited Scalability: Supports vertical scaling, but poor horizontal scaling.
-Performance Issues: Multiple joins in normalized tables slow down queries.
-Not Suitable for Complex Domains: Inefficient for graph or nested data models.
-Alternatives
-Document Databases (MongoDB): Schema-less, handles nested objects easily.
-Graph Databases (Neo4j): Best for highly connected data (networks).
-Column/Key-Value Stores: High performance and scalability for large data.
-| [10]
-|
-````
-
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper e99d7c20dfce
 
 - Departments: Information Technology
@@ -4123,6 +3748,381 @@ co 4; so-   b   Discuss an application which following architecture is most suit
 Define all 3 (3)
 Application each (7)
 ********** 7 **********
+````
+
+## 2024-25 · Final-Exam · Sem 7 · Answer key · paper 3f061c11bb42
+
+- Departments: Information Technology
+- Programmes: BTech IT 7001, MBATech IT 7041
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_IT_7001/Advanced Database Management Systems/ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.docx` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: docx (1 page)
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+|
+Program: B. Tech   Stream: IT/COMPS/DS
+| Year: IV Semester: VII
+|
+Subject: Advanced Database Management Systems
+| Time: 3 hrs (______to_______)
+|
+Date:   /   / 2024
+| No. of Pages: 3
+|
+Marks: 100
+|
+|
+Final Examination
+|
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1
+
+|
+| Answer briefly:
+| [20]
+|
+CO1.
+BL- 5
+| a.
+| A financial institution needs a database structure to accurately track client investments. The fundamental object in the system is Security, which is defined by a unique Security ID, its Name, and its current Market Price. Securities are categorized as either Stock or Bond, though not every Security needs to fall into one of these two classifications. Furthermore, a Security cannot be both a Stock and a Bond. Stock entities are detailed with a Ticker Symbol and a Price-to-Earnings Ratio. Bond entities, conversely, are described by a Maturity Date and a Coupon Rate. Separately, all Stocks are further broken down into two types: Preferred Stock and Common Stock. Every Stock must be one of these two types, but never both. Preferred Stock includes a Dividend Rate, while Common Stock includes a Voting Rights Flag. The institution also tracks its clients, each identified by a unique Client ID, an Address, and a Risk Tolerance Level. In the system, every Security must belong to exactly one Client's portfolio, and a Client must have at least one Security in their portfolio, although a client will often hold many Securities.
+Design EER for above scenario. Draw EER for the above problem statement.
+Ans:
+Identification of superclass 1 mark, identification of all entities and their attributes 3 marks and relations 1 mark
+
+| [5]
+|
+CO2.
+BL- 4
+| b.
+| Apply type constructors to model a Department that has a name, number, manager, a set of locations, and a set of employees. Specify suitable constructors and justify briefly.
+Ans:
+Suitable constructors 2.5 marks and
+Justification 2.5 marks
+Use the object   definition format: (OID, constructor, value). Choose:
+DNAME, DNUMBER → atom (strings/int).
+LOCATIONS → set of OIDs to atomic city objects (no duplicates).
+EMPLOYEES → set of OIDs to EMPLOYEE objects.
+MGR → OID reference to an EMPLOYEE.
+Final tuple:
+DEPT = (i, tuple, <dname:i₁, dnumber:i₂, mgr:i₃, locations:i₄, employees:i₅>).
+| [5]
+|
+CO4. BL-2
+| c.
+| Explain   the role of replication in distributed databases. How does synchronous replication ensure consistency compared to asynchronous replication.
+Ans:
+Role & Benefits of Replication 2.5 marks
+How does synchronous 2.5 marks
+Replication keeps multiple copies of the same data on different nodes/sites to achieve:
+High availability & fault tolerance reads/writes can continue after node/site failures.
+Low-latency access: serve users from geographically closer replicas.
+Load distribution: spread read traffic; isolate analytics from OLTP.
+Disaster recovery: a remote replica shortens RTO/RPO after an outage
+In synchronous Client completes only after replica(s) also persist, where as in Asynchronous replication, Client completes after primary, replicas catch up later hence synchronous replication is more consistent.
+| [5]
+|
+CO3.
+BL-2
+| d.
+| Compare XML Schema and DTD and analyze how XML Schema overcomes the limitations of DTD in defining structured data.
+Ans:
+Comparison 2.5 marks
+Analyze 2.5 marks
+An XML Schema provides a more powerful and flexible way of defining the structure and constraints of XML documents compared to DTD (Document Type Definition).
+Data Typing:
+DTD supports only basic text types like #PCDATA, whereas XML Schema includes strong data types such as xs:string, xs:integer, xs:date, etc.
+Syntax Compatibility:
+XML Schema is written in XML syntax, allowing it to be processed by standard XML parsers; DTD uses a non-XML syntax, requiring specialized processors.
+Order and Cardinality:
+XML Schema allows control over element order, repetition (minOccurs, maxOccurs), and optional elements, giving greater modeling precision.
+Namespace and Validation:
+XML Schema supports namespaces and hierarchical validation, making it suitable for complex web applications.
+| [5]
+|
+Q2
+CO1; BL-1
+| a.
+| Explain the difference between the Disjoint and Overlapping   constraints in a specialization. If a specialization hierarchy is both Total and Disjoint, what is the exact number of subclasses that every entity in the superclass must belong to, justify with example?
+Ans:
+Difference 5 marks
+Justification with example 5 marks
+An entity in the superclass can belong to only one subclass.
+| An entity in the superclass can belong to more than one subclass simultaneously.
+|
+Represented by a “d” inside the specialization circle.
+| Represented by an “o” inside the specialization circle.
+|
+In a company, an Employee can be either a Manager or an Engineer, but not both.
+| A Person can be both a Student and an Employee at the same time.
+|
+Mutually exclusive subclasses
+| Non-mutually exclusive subclasses
+|
+Used when subclasses represent distinct categories.
+| Used when subclasses represent roles or multiple associations.
+|
+Total Specialization: Every entity in the superclass must belong to at least one subclass.
+Disjoint Constraint: Each entity can belong to only one subclass.
+If a specialization hierarchy is both Total and Disjoint, then every entity in the superclass must belong to exactly one subclass.
+Example
+Consider specialization of Software_Product into Operating_System and Application:
+The specialization is Total and Disjoint, meaning every Software Product must be either an Operating System or an Application, but not both. So, each product belongs to exactly one subclass.
+| [10]
+|
+Q2
+CO2; BL-3
+| b.
+| Describe the purpose of each section (DECLARE, BEGIN, EXCEPTION, END) of a standard PL/SQL block. Design a single PL/SQL block that demonstrates both a predefined exception (NO_DATA_FOUND) and a user-defined exception.
+Ans:
+Purpose 5 marks
+Design a single PL/SQL block 5 marks
+DECLARE: This optional section is used to declare variables, constants, cursors, and user-defined exceptions that will be used in the block.
+BEGIN: This is the executable section where the main logic of the program is written. It includes SQL statements and PL/SQL procedural statements.
+EXCEPTION: This optional section handles errors (exceptions) that occur in the execution section. Both predefined and user-defined exceptions can be handled here.
+END This section marks the end of the PL/SQL block. Every PL/SQL block must end with the keyword END;
+
+| [10]
+|
+Q3
+CO3, BL-4
+| a.
+| Design an XML schema for an Online Shopping System that manages data for Customers, Orders, Products, and Payments. Include elements for order details, product descriptions, and customer information with attributes such as order ID and payment status.
+Ans:
+Root structure & major modules (2 marks)
+Customer information design (2 marks)
+Product description design (2 marks)
+Order & order details structure (2 marks)
+Payment modelling with status (2 marks)
+
+| [10]
+|
+Q3
+CO4; BL-3
+| b.
+| Analyze the roles of valid time and transaction time in temporal databases and evaluate how bitemporal modeling resolves limitations of single-time designs. Use a brief example from banking or healthcare to show lifecycle tracking of historical data.
+Ans:
+Concept of Temporal Databases: (5 Marks)
+Example: (5 Marks)
+
+• Temporal databases store data that changes over time, allowing for historical tracking.
+Differences:
+• Valid Time: When the data is true in the real world.
+• Transaction Time: When the data is stored in the database.
+• Bitemporal Data: Combines both valid and transaction time to track data changes and record history.
+Example
+• Healthcare: Track patient records where valid time represents when symptoms occurred, and transaction time shows when the records were updated.
+| [10]
+|
+Q4
+CO3, BL3
+| a.
+| Discuss the concept of encapsulation and tell how it is used to create abstract data types in object-oriented databases with example.
+Ans:
+It is related to the concepts of ADTs and information hiding (5 Marks)
+Object-oriented databases with example (5 Marks)
+
+For database applications, the requirement that all objects be completely encapsulated is too strict.
+One way to relax this requirement is to divide the data members into visible and hidden attributes (or data members)
+Visible attributes may be accessed(read) by high level query languages or other external operators
+Hidden attributes of an object can be accessed only through predefined operations
+Most OODBMS use high-level query languages for accessing or reading visible attributes
+Usually operations that update the state of an object are encapsulated.
+One reason for this is that in many OO data models, few integrity constraints are predefined in the schema
+So each type of object has its integrity constraints programmed into the methods that create, delete, and update the objects
+For example, a BankAccount class defines operations like deposit() and withdraw(), while the balance attribute remains hidden.
+
+| [10]
+|
+Q4
+CO4; BL-3
+| b.
+| Analyze how the Voting-based concurrency control method enhances fault tolerance compared to the Primary Site technique in a distributed database system
+Ans:
+Analyze with explanation 5 marks
+how Voting-based concurrency control method enhances fault tolerance 5 marks
+
+Primary Site method: Entire system halts if the coordinator site fails.
+Voting method: System continues operation, ensuring availability and resilience.
+In Voting-based concurrency control, every copy of a data item participates in the decision-making process. A transaction obtains a lock only when it secures a majority of votes from all copies. Unlike the Primary Site technique, which depends on a single coordinator, the voting method avoids single-point failure by distributing control among multiple sites.
+Even if some sites fail, as long as a majority of votes are obtained, transactions can proceed.
+Synchronization and lock consistency are maintained across all active copies.
+| [10]
+|
+Q5
+CO4, BL-3
+| a.
+| How inter-query and intra-query parallelism improve performance in large-scale database environments. Discuss the trade-offs and implementation challenges.
+Ans:
+How inter-query and intra-query parallelism improve performance 5 marks
+Trade-offs 3 marks
+Implementation Example 2 marks
+Parallelism enhances query performance by dividing tasks across multiple processors, enabling faster data access and improved throughput.
+Types of Parallelism:
+Inter-Query Parallelism: Multiple independent queries run simultaneously across processors.
+Advantage: Increases system throughput; ideal for transaction-heavy workloads.
+Intra-Query Parallelism: A single complex query is split into parallel sub-tasks.
+Advantage: Reduces response time for analytical queries.
+Techniques:
+Intra-Operator Parallelism: A single operator (e.g., sort, join) runs concurrently.
+Inter-Operator Parallelism: Multiple operators (e.g., select and join) run in a pipelined manner.
+Trade-offs: 3 marks
+High overhead in synchronizing parallel tasks.
+Load imbalance due to skewed data distribution.
+Communication overhead between processors.
+Implementation Example: 2 marks
+A data warehouse query performing joins and aggregations can use intra-query parallelism, where each processor joins a subset of data before merging results.
+| [10]
+|
+Q5
+CO3;BL-4
+| b.
+| A university course management system maintains records of courses, students, and their prerequisites. Each course has attributes such as courseCode, courseTitle, creditHours, and description. Students have attributes including studentID, name, email, and major. A student can enroll in multiple courses, but certain courses have prerequisites that must be completed before enrollment. The system also tracks the semester in which the student enrolls in a course.   Instructions: Develop an ODL schema for the university course management system.
+Ans:
+Identifying all classes 3 marks
+Identifying all attributes 3 marks
+Managing relationships/sets (proper Cardinality) 4 marks
+
+class Course {
+( extent courses)
+attribute string courseCode;
+attribute string courseTitle;
+attribute short creditHours;
+attribute string description;
+relationship set Course has_prereqs inverse Course::is_prereq_for;
+relationship set Enrollment offered_in inverse Enrollment::enrolled_courses;
+};
+class Student {
+( extent students)
+attribute string studentID;
+attribute string name;
+attribute string email;
+attribute string major;
+relationship set Enrollment enrollments inverse Enrollment::enrolled_by;
+};
+class Enrollment {
+( extent enrollments)
+attribute Date enrollmentDate;
+relationship Course enrolled_courses inverse Enrollment::offered_in;
+relationship Student enrolled_by inverse Enrollment::enrollments;
+};
+| [10]
+|
+Q6
+CO4; BL-3
+| a.
+| . What are key features of NoSQL? In which situation will NoSQL database not be suitable to implement?
+Ans:
+Key Features: 5 marks
+Situation based example 5 marks
+
+Flexible schemas
+Horizontal scaling
+Fast queries due to the data model
+Ease of use for developers
+
+If you are required to perform complex and dynamic querying and reporting, then you should avoid using NoSQL as it has a limited query functionality. For such requirements, you should prefer SQL only.
+NoSQL also lacks in the ability to perform dynamic operations. It can’t guarantee ACID properties. In such cases like financial transactions, etc., you may go with SQL databases.
+You should also avoid NoSQL if your application needs run-time flexibility.
+If consistency is a must and if there aren’t going to be any large-scale changes in terms of the data volume, then going with the SQL database is a better option.
+One should also keep in mind that NoSQL databases won’t support structured query language. The querying language may vary from one database to another.
+| [10]
+|
+Q6
+CO2, BL-4
+| b.
+| Sample Clerk table (CL_ID, First_name, Department_name, Salary, Designation)
+Create a PL/SQL procedure called percentage_salary to update Clerks data
+The procedure has two parameters: IN_CL_ID and IN_PERCENT.
+The procedure adjusts the salary of a particular Clerk specified the IN_CL_ID by a given percentage IN_PERCENT. (salary + salary * in_percent / 100)
+In the procedure body, we use the UPDATE statement to update the salary information.
+Test the procedure with CL_ID = 175 and IN_PERCENT = 10%
+Ans:
+Parameter declaration 2 marks
+Logic implementation 4 marks
+SQL statement for update 2 marks
+Test the procedure 2 marks
+Clerk table (CL_ID, First_name, Department_name, Salary, Designation)
+
+CREATE OR REPLACE PROCEDURE adjust_salary(
+in_CL_ID IN Clerk.CL_ID%TYPE,
+in_percent IN NUMBER
+) IS
+BEGIN
+-- update Clerk 's salary
+UPDATE Clerk
+SET salary = salary + salary * in_percent / 100
+WHERE CL_ID = in_CL_id;
+END;
+| [10]
+|
+Q7
+CO4; BL-3
+| a.
+| Explain the Active Database concepts in detail. Discuss the Event-Condition-Action (ECA) model, its components, and how it enhances traditional database systems. Give suitable examples of real-world applications where Active Databases are beneficial.
+Ans:
+Active Database concepts 3 Marks
+Event-Condition-Action (ECA) model 3 Marks
+suitable examples 4 Marks
+
+Active DBMS reacts automatically to specified situations.
+Rules (triggers) are stored in the catalogue and managed like other schema objects.
+Granularity: Statement-level vs row-level firing.
+Timing: BEFORE, AFTER, or INSTEAD OF the triggering event.
+ECA Components
+When the Event occurs and Condition is true, execute the Action
+Event:
+Database modification E.g., (insert, delete, update),
+Condition:
+Any true/false expression
+Action:
+Sequence of SQL statements that will be automatically executed
+How It Enhance Traditional DBs
+Proactive enforcement:
+Timeliness:
+Consistency & reuse:
+Automation
+
+| [10]
+|
+Q7
+CO4; BL-3
+| b.
+| Explain issues in RDBMS such as impedance mismatch, schema inflexibility, and scalability limitations. Suggest suitable database that can overcome these challenges and justify your reasoning with examples.
+Ans:
+Issues: 5 marks
+Suitable database 2 marks
+Justify : 3 marks
+
+Strengths
+Structured Storage: Data stored in tables (rows & columns) with clear relationships.
+ACID Properties: Ensures data consistency, reliability, and integrity.
+Query Flexibility: SQL supports complex joins, filters, and aggregations.
+Schema Safety: Enforces data types, primary/foreign keys, and constraints.
+Maturity: Long-standing, stable technology with wide tool and vendor support.
+Weaknesses
+Impedance Mismatch: Difficult mapping between object-oriented code and tables.
+Schema Inflexibility: Hard to modify structure once database is in production.
+Limited Scalability: Supports vertical scaling, but poor horizontal scaling.
+Performance Issues: Multiple joins in normalized tables slow down queries.
+Not Suitable for Complex Domains: Inefficient for graph or nested data models.
+Alternatives
+Document Databases (MongoDB): Schema-less, handles nested objects easily.
+Graph Databases (Neo4j): Best for highly connected data (networks).
+Column/Key-Value Stores: High performance and scalability for large data.
+| [10]
+|
 ````
 
 ## 2023-24 · Final-Exam · Sem 2 · Answer key · paper 3fe06011e771

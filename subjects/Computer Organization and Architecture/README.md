@@ -17,15 +17,6 @@ Also filed as: `COMPUTER ORGANISATION & ARCHITECTURE`, `COMPUTER ORGANISATION AN
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CSBS | Computer Organization and Architecture, Sem-III, Final Exam 2025-26 & Re Exam 202_90031776.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech AIML 7053 | QP_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech CSBS 7036 | QP_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Computer 7002 | QP_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
@@ -36,14 +27,15 @@ Also filed as: `COMPUTER ORGANISATION & ARCHITECTURE`, `COMPUTER ORGANISATION AN
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBA TECH / COMPUTER, MBA TECH / I T | Computer Architecture, 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech Computer 7047 | QP_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech IT 7041 | QP_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / IT, B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / IT, MBA TECH / COMPUTER | Computer Organization and Architecture Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AIML 7053 | QP_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CSBS 7036 | QP_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
@@ -53,6 +45,14 @@ Also filed as: `COMPUTER ORGANISATION & ARCHITECTURE`, `COMPUTER ORGANISATION AN
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated IT 7037 | QP_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | MBATech Computer 7047 | QP_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | MBATech IT 7041 | QP_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE & MACHINE LEARNING, B TECH / CSBS, B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T | Computer Organization and Architecture, Sem-III, Final Exam 2024-25 & Re Exam 202_1fc0faa3.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / COMPUTER, MBA TECH / I T | Computer Organization and Architecture, Sem IV, Final Exam 2024-25 & Re Exam 2022_6f3ba0a8.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / IT | Computer Organization and Architecture Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech (CHEMICAL ENGINEERING) - 7045/Integrated Marketing Communication/ANS_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 18 Dec 2025
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

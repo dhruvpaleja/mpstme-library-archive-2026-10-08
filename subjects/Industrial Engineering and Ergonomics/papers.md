@@ -328,6 +328,7 @@ awkward positions that can lead to ergonomic risks?
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_06/INDUSTRIAL ENGINEERING AND ERGONOMICS/Industrial Engineering and Ergonomics Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
 - Text: ocr (3 pages), mean OCR confidence 87.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -450,7 +451,6 @@ awkward positions that can lead to ergonomic risks?
 
 re
 
-FOR IO QR a a ak kok
 ````
 
 ## 2023-24 · Final-Exam · Sem 6 · paper 68dd3c2fb3de

@@ -824,6 +824,137 @@ demerits. (10)
 Fon x
 ````
 
+## 2012-13 · Re-Exam · Trim 11 · paper f90425a33fe0
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/PETROLEUM REFINING TECHNOLOGY/PETROLEUM REFINING TECHNOLOGY BATCH 2011-2012 RE EXAMscan0008.pdf`
+- Printed on paper: duration hours: 3; exam date: 17/01/2013
+- Text: ocr (3 pages), mean OCR confidence 93.6
+
+````text
+x
+
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engine: Dg | Iniversity
+
+Programme: MBA(Tech) (Chervical) Year: IV Trimester: & Mumbai-56,
+Academic Year :2012-2013
+
+Batch: 2011-2012
+Subject: Petroleum Refining Technology Marks: Sy
+Time: 2.00 prrrtes-00 pm
+Date: 17/01/2013 Duration: 3 hrs.
+Re - Examination
+NB
+
+1. Question number | is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions
+
+3. In all, 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each question to be started on a fresh page
+
+6. Figures in bracket on the right hand side indicate full marks
+
+1. (a) Explain the various methods being used for detection of oil reserves. Which
+method is most commonly used & why? (10 marks)
+
+(b) Select the appropriate option (10 marks)
+
+(i) Mercaptans are
+
+A. low boiling sulphur compounds.
+
+B. added in LPG cylinders to detect gas leakage by its smell.
+C. undesirable in petrol, as they reduce its octane number.
+D. all (a), (b) and (c)
+
+(ii) Octane number of gasoline is a measure of its
+
+A. knocking tendency.
+B. ignition delay.
+
+C. ignition temperature.
+D. smoke point.
+
+(iii)Which of the following has the lowest viscosity (at a given temperature) of all?
+
+' A. Naphtha
+B. Kerosene
+C. Diesel
+D. Lube oil
+--- page 2 ---
+(iv) In the atmospheric pressure crude distillation, the content of from
+lighter fraction to heavier ones.
+
+A, sulphur increases
+B. sulphur decreases
+C. nitrogen decreases
+D. none of these
+
+(v) In petroleum refining, the process used for conversion of hydrocarbons to
+aromatics is -----------------
+
+A. catalytic cracking
+B. catalytic reforming
+C. hydrotreating
+
+D. alkylation
+
+(a) Explain Fluidized Cracking process in detail with a neat diagram. [10 marks]
+
+(b) Explain the importance crude preheat train & its impact on the refinery operations
+and profitability? [10 marks]
+
+Distinguish between the following: [20 marks]
+(a) Octane number & Cetane Number
+(b) Rectifying zone & Stripping zone of the distillation column
+(c) Overhead (top) reflux & Circulating reflux
+(d) Sweet Crude & Sour Crude
+
+(a) Explain the process of atmospheric distillation of the crude with a neat diagram &
+explain why it is required. [10 marks]
+
+(b) Write short notes on following [10 marks]
+(i) Catalytic Reforming
+
+(ii) Major additives in petroleum products
+
+(a) Explain various corrosion & fouling problems in the petrochemical complex with
+the preventive techniques being employed. [10 marks]
+
+(b) Explain the methods of pressure control & temperature control of distillation
+column in the refinery with a neat diagram. [10 marks]
+
+(a) Describe with a neat flow diagram, manufacturing of ethylene using naphtha as a
+feedstock. [10 marks]
+
+(b) In atmospheric column, bubble cap or valve trays are preferred, while for vacuum
+distillation, packings are provided. Justify [10 marks]
+
+2/2,
+--- page 3 ---
+7. (a) Explain the catalytic hydrodesulfurization processes, justify why it is used for
+preparation of catalytic reformer feed. [10 marks]
+
+(b) Describe various tests being used for crude oil & petroleum products along with
+their significance. (10 marks)
+8. (a) Explain the principle of steam stripping & steam ejector operation in detail with a
+
+neat diagram. [10 marks]
+
+(b) Explain in details the integrated refinery configuration with a neat diagram. [10
+marks]
+
+ne
+
+3/4,
+````
+
 ## 2012-13 · Re-Exam · Trim 11 · paper 695000be1140
 
 - Departments: Chemical
@@ -1107,135 +1238,4 @@ neat diagram. [10 marks]
 
 (b) Explain in details the integrated refinery configuration with a neat diagram. [10
 marks]
-````
-
-## 2011-12 · Re-Exam · Trim 11 · paper f90425a33fe0
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/PETROLEUM REFINING TECHNOLOGY/PETROLEUM REFINING TECHNOLOGY BATCH 2011-2012 RE EXAMscan0008.pdf`
-- Printed on paper: duration hours: 3; exam date: 17/01/2013
-- Text: ocr (3 pages), mean OCR confidence 93.6
-
-````text
-x
-
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engine: Dg | Iniversity
-
-Programme: MBA(Tech) (Chervical) Year: IV Trimester: & Mumbai-56,
-Academic Year :2012-2013
-
-Batch: 2011-2012
-Subject: Petroleum Refining Technology Marks: Sy
-Time: 2.00 prrrtes-00 pm
-Date: 17/01/2013 Duration: 3 hrs.
-Re - Examination
-NB
-
-1. Question number | is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions
-
-3. In all, 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each question to be started on a fresh page
-
-6. Figures in bracket on the right hand side indicate full marks
-
-1. (a) Explain the various methods being used for detection of oil reserves. Which
-method is most commonly used & why? (10 marks)
-
-(b) Select the appropriate option (10 marks)
-
-(i) Mercaptans are
-
-A. low boiling sulphur compounds.
-
-B. added in LPG cylinders to detect gas leakage by its smell.
-C. undesirable in petrol, as they reduce its octane number.
-D. all (a), (b) and (c)
-
-(ii) Octane number of gasoline is a measure of its
-
-A. knocking tendency.
-B. ignition delay.
-
-C. ignition temperature.
-D. smoke point.
-
-(iii)Which of the following has the lowest viscosity (at a given temperature) of all?
-
-' A. Naphtha
-B. Kerosene
-C. Diesel
-D. Lube oil
---- page 2 ---
-(iv) In the atmospheric pressure crude distillation, the content of from
-lighter fraction to heavier ones.
-
-A, sulphur increases
-B. sulphur decreases
-C. nitrogen decreases
-D. none of these
-
-(v) In petroleum refining, the process used for conversion of hydrocarbons to
-aromatics is -----------------
-
-A. catalytic cracking
-B. catalytic reforming
-C. hydrotreating
-
-D. alkylation
-
-(a) Explain Fluidized Cracking process in detail with a neat diagram. [10 marks]
-
-(b) Explain the importance crude preheat train & its impact on the refinery operations
-and profitability? [10 marks]
-
-Distinguish between the following: [20 marks]
-(a) Octane number & Cetane Number
-(b) Rectifying zone & Stripping zone of the distillation column
-(c) Overhead (top) reflux & Circulating reflux
-(d) Sweet Crude & Sour Crude
-
-(a) Explain the process of atmospheric distillation of the crude with a neat diagram &
-explain why it is required. [10 marks]
-
-(b) Write short notes on following [10 marks]
-(i) Catalytic Reforming
-
-(ii) Major additives in petroleum products
-
-(a) Explain various corrosion & fouling problems in the petrochemical complex with
-the preventive techniques being employed. [10 marks]
-
-(b) Explain the methods of pressure control & temperature control of distillation
-column in the refinery with a neat diagram. [10 marks]
-
-(a) Describe with a neat flow diagram, manufacturing of ethylene using naphtha as a
-feedstock. [10 marks]
-
-(b) In atmospheric column, bubble cap or valve trays are preferred, while for vacuum
-distillation, packings are provided. Justify [10 marks]
-
-2/2,
---- page 3 ---
-7. (a) Explain the catalytic hydrodesulfurization processes, justify why it is used for
-preparation of catalytic reformer feed. [10 marks]
-
-(b) Describe various tests being used for crude oil & petroleum products along with
-their significance. (10 marks)
-8. (a) Explain the principle of steam stripping & steam ejector operation in detail with a
-
-neat diagram. [10 marks]
-
-(b) Explain in details the integrated refinery configuration with a neat diagram. [10
-marks]
-
-ne
-
-3/4,
 ````

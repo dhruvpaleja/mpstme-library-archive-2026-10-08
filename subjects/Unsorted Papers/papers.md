@@ -1,15 +1,16 @@
 # Unsorted Papers: question papers in full
 
-1 unique papers · years not stated · Open Electives
+1 unique papers · 2025-26 to 2025-26 · Open Electives
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## Year not stated · Exam not stated · Sem 6 · paper 2501d4a10f01
+## 2025-26 · Exam not stated · Sem 6 · paper 2501d4a10f01
 
 - Departments: Open Electives
 - Programmes: B TECH / OPEN ELECTIVE
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/OPEN ELECTIVE/SEM-VI/Open Elective V.pdf`
 - Text: ocr (1 page), mean OCR confidence 68.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM's NMIMS
@@ -55,12 +56,10 @@ Gender ,
 Skills |General Management
 14 |rozrcoion [Management through [Technology Management) 0 0 4 | 3 3 — | written 10 0 z . 10 10 P : Z : : 10 80 so | 10 | so | 10 | 100 | 7031 | INTD| Yes
 Movies |General Management
-15 |ro2esoion» —ffowmalismand Mass: |cys omer 3 ° o | #3 | 3 3 | — | writen | 10 | 1 : 10 2» . . : : . . so | 50 | 10 | 50 | 100 | 100 | 70 | wTD| Yes [1107 "8
 Toul a z Cs 0 | 10 | ao | so] ss | mo | 5 | #5 | 0 n a a | 3s | | 750] 750] 1500 | 750] 1500 [1500
 x
 Mr i }
 ( om oh
-Dr.A jeetha Iyer Dr. Ashwini Rao L AGN an
 HoD, BSH Department HoD, Technology Management Hob, information Technology =~ Assistant Reghitrar Dean, MPSTME
 
 Date:- 07.08.2025

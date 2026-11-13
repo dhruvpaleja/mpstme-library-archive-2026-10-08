@@ -1,10 +1,10 @@
 # Food Processing and Technology: question papers in full
 
-2 unique papers · years not stated · Chemical
+2 unique papers · 2022-23 to 2023-24 · Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## Year not stated · Exam not stated · Sem 8 · paper 9772d9d5604e
+## 2023-24 · Exam not stated · Sem 8 · paper 9772d9d5604e
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -139,13 +139,14 @@ BL-4 processing. 010]
 3
 ````
 
-## Year not stated · Exam not stated · Sem 8 · paper 34ce2ed4952c
+## 2022-23 · Exam not stated · Sem 8 · paper 34ce2ed4952c
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/VIII SEMESTER/FOOD PROCESSING AND TECHNOLOGY/Food Processing and Technology_34ce2ed495.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 90.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS '
@@ -290,7 +291,6 @@ J
 a
 
 G
-AY Bil Al DN g F
 
 0 10 20 30 40 50 60 75 80 90 100
 Minutes of active cooling
@@ -302,5 +302,4 @@ D,small apples and peaches; E, maize cobs; F, cucumbers, large apples and peache
 
 >
 
-cantaloupes, large eggplant/aubergine)
 ````

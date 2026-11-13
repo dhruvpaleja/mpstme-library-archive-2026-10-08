@@ -207,6 +207,7 @@ can they continuously improve?
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_CyberSecurity_7010/Cybersecurity Risk Management/QP_Cybersecurity Risk Management(702IT0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (5 pages), mean OCR confidence 23.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

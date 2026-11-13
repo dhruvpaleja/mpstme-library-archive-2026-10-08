@@ -1097,316 +1097,7 @@ CO2;BL:3 2. Marketing applications of Bass Model
 Apply . [5 *2]
 ````
 
-## 2022-23 · Re-Exam · Sem 9 · paper 97e555e99f46
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Analytics for Strategic Marketing Decision/Analytics for strategic Marketing,Re-exam 2022-23.pdf`
-- Printed on paper: exam date: 21 February 2023
-- Text: ocr (3 pages), mean OCR confidence 86.8
-
-````text
-2'\o2\22 2 2D pry
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program: MBA Tech (All Stream) Year: V Semester : [X
-
-AcademicYear: 2022-2023
-Subject: Analytics for Strategic Marketing Decisions
-
-Date : 21 February 2023 ,
-
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the qacShOR paper and on the cover of
-the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any_4 _ questions.
-3)in ail 5 questions to be attempted.
-£*) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-Figures in brackets on the right hand side indicate full marks. 7) Assume Suitable data if necessary.
-
-qi Uni Answer briefly: [10/20]
-
-CO-1; | a. Briefly explain the importance of Marketing Analytics for a modern marketer?
-SO- ;
-
-BL-
-
-explain
-
-co-1; | b. What are the parameters considered for forecasting using Winter’s exponential
-
-ty smoothing method? 25
-
-state
-
-2.5
-
-CO-1; |. Briefly explain the importance of S Curve in New Product Sales?
-SO-;
-
-BL-
-
-explain
-
-2.5
-
-“1; | d. List various forecasting models which minimizes the seasonality effect in a data series.
-
-a Briefly explain any one?
-
-List
-
-25:
---- page 2 ---
-10 A market researcher has the following data from a sample size of 100 of a suburb
-location:
-Product pricing (sanitizers)
-Brand Equity and Price sensitivity index (values). He assumed that the Brand equity
-Q2 +Price sensitivity*Price will explain the right value for the consumer and hence the score
-CO-2; for the discrete choice model.
-SO-; * 5 [10]
-BL Godrej nee Dattol Sanitizer — “4 Rs for 2its
-Solve Brand Equity 1.65 5.08 0.497 Godrej Santoor Dettol
-Price Sensitivity -0,011 0.024 -0,0063 221 267 275
-Calculate the probability of each product and mention the product (sanitizer) with
-highest probability?
-Q3 Following are the results of the of the cluster analysis done for a retailer. [10]
-CO-1; A market campaign is initiated by a FMCG company for their Ice-Cream, Chocolate and
-aa Soft Drinks products. They intend to extend the invitation to only those consumers who
-BL- di
-identity > Preference
-1 2 3
-Clusters Ice-cream | Chocolate | Soft drinks
-1 16 i) 4
-2 4 Oo 9
-3 0 7 Oo
-4 0 E) 3
-prefer these products. 5. o 4 5
-Identify two clusters according to the preferences (highest to lowest) in each category
-(product) receiving the invitation for the campaign, Also mention the size of the cluster
-for each product category
-Q4 2 An existing brand in skin care has planned to expand its business into oral care (tooth (10)
-CO-3; vs brush). After a survey and using conjoint analysis, following coefficients are the results
-SO-; 4 of various parameters or attributes thru regression.
-BL:Creat -
-
-€
-
-Attribute coefficients
-; A B c
-Design
--1.248377 | 0.1764069 0
-Brand Colgate Oral B Pepsodent
-2.2884199 | 0.1764069 0
-; 49 69 99
-Price
--9.287879 | _-8.247835 oO
-Type Medium Soft
-| -6.274892 |
-Plastic
-Packaging Paper Box | Box
-0.7987013 0
-Certified By aoe pA
-0.3820346 0 ]
-Recommended By No Yes
-Dentist 0 | -1.475108 |
-
-Calculate the spread and determine the attribute rankings preferred by the consumers
-at individual level?
-
-22
-
-A
---- page 3 ---
-A market research firm had analysed the past data of no. of cell phone users per 100
-people in a tier Ill city from 2011 to 2021. Following are the constants (using pearl curve).
-
-Qs
-0-3; L a b
-SO-; 118.1609 | 11.61863 | 0.319452 {20}
-covacast Forecast the no. of cell phone users for 2022, 2023 and 2024 and calculate the inflection point?
-Qs 7 Following is the output of bass model analysis on sales values of TV sales of past 16 years. [5x2=10]
-co Capital M parameter denotes total market potential.
-BL a. Find the time period (year) of Peak Sales Value of Peak Sales?
-b. Define p and q values and their relevance in understanding the diffusion of
-sales.
-Time Forecast
-period | crv)
-(pp [a [| um | 1 5.8962
-[0.055874 | 0.146584 | 98.21156 | 2 6.1957
-3 6.4890
-4 6.8286
-3. 6.8393
-" 6 6.7985
-7 6.6880
-f*> 8 6.3148
-9 5.6524
-10 5.0673 .
-11 4.5942
-12 4.2564
-13 3.8417
-14 3.3532
-15 2.7969
-16 2.0654 ‘
-Qq7 4 Write a short note explaining the use of the following analytics techniques for marketing [5x2=10]
-son managers.
-aL Q) perceptual mapping
-b) conjoint analysis
-create
-/forec
-ast
-oO
-````
-
-## 2019-20 · Exam not stated · Sem 9 · paper 810f709c9a1c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Analytics for Strategic Marketing Decision/Analytics for Strategic Marketing Decisions 2019-20.pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 06 December 2019
-- Text: ocr (4 pages), mean OCR confidence 86.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEER
-Academic Year: 2019-2020
-
-Program: MBA Tech ( All Streams) Year: V Semester: IX
-Subject: Analytics for Strategic Marketing Decisions Time: 02.30 pm to 04.30 pm
-Date: 06 December 2019 Duration: 2 (Hrs)
-
-Marks: 70 No. of Pages:4_
-
-Final Examination (2019-20)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book,
-
-which is provided for their use.
-
-1) Question No. _1__ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Compulsory
-
-1. Write a short note on the uses of 14
-(a) Discrete Choice Analysis
-(b) Modelling Trend and Seasonality
-(c) Perceptual Maps
-
-Optional 4/4
---- page 2 ---
-1
-
-Given below is the-perceptual map output from positioning analysis of Beer Market.
-
-Study the output and describe your understanding of the perceptual structure of the
-Beer Industry.
-
-Full Bodied Heavy | with Men
-
-Good Value
-
-A five star hotel chain was considering the monthly sales data (in million Rupees) for 10
-years from 1981-1990. The management wants to formulate demand management
-strategies and hence identify months of heavy demand in the forthcoming year. The
-output of a multiplicative model of trend and seasonality is given below. Please answer
-the following questions basis the output.
-
-(a) Define the terms of Base, Trend and Seasonality using the output results. (6 marks)
-(b) Assume that you are in the 15th period and it is the month of January. You have to
-find the total sales in the 3 busiest months of the hotel chain in the coming year and
-
-support your argument with calculations using multiplicative trend and seasonality. (8
-marks)
-
-Seasonal
-Month
-Index
-Trend 1.006404637Jan 0.9117373
-Base 18.83753Feb   0.8480638
-
-Mar 1.0407202
-
-14
-
-14
---- page 3 ---
-Apr: 0.9838452
-May 1.0146509 LIBRARY
-Jun 1.0983508
-Jul 1.1600349
-Aug 1.2100342
-Sep 0.9418732
-Oct 0.9684032
-Nov 0.8848726
-Dec   0.9374136
-
-MPSTME ~
-
-Write a detailed note on Pearl curve and Gompertz curve. Your answer should include 14
-their uses and formula.
-
-In response to the competition, Minute maid mango drink wants to experiment with 14
-packaging (Bottle vs Can), pricing (10, 12 or 14 Rupees) and calories(15 calories or zero
-calories) in order to assess true consumer value and incorporate the features in its new
-launch. The results of conjoint exercise were analysed to find the following output.
-
-Interpret this output to answer the following questions.
-
-Assess the appropriate statistics in the output and find the most important attributes
-
-and their levels .
-
-The company has a 30 calorie brand priced at Rs 10. If they wish to launch a 15 calories
-
-variant, how much more can they charge to the customer?
---- page 4 ---
-3 ‘ tik a
-Multiple R 058414
-R Square 0968531
-
-Adjusted R Sqware | 0.947308
-Standard Exror 0.866025
-
-Observations 12
-ANOVA
-Sasi
-of ss aes F ooce F
-Regression 5|_1385| 27.7| 3693333] 0.0002
-Residual 6 45| O75
-Total 11 143
-Cocffaest | Soodont tower | Upper | Lower |Upper
-. s froc_ | tStot | Peoloe | 95% | o9% |s5.0%|onG%
-Intercept. | ¥-916667| 0.612372| 17978] 1326-05| 6.4182| 9.415| 6.418| 9.415)
-|Minute Maid Boltig -233333 O5| ~L667| COOS44S) -3557| -111) -356} -111)
-Minute Maid Can | -133333 O5| -2667| G037192| -2557| -0.11| -256| -011
-30 Calories? ~L66667 o5| -9333| s57E05| -5.89| -3.44| -5a9| -3.44
-Price 10? 5| 0612372) 8.165| 0.000182| 35016| 6.498] 3502| 6498
-Price 127 325| 0612372| 53072| 0.001817| 17516| 4.748] 1752| 4748
-Explain how pivot chart can be useful to managers with suitable examples. 14
-Write a short note providing an overview of various segmentation methods to a data 14
-analyst.
-````
-
-## Year not stated · Exam not stated · Sem 9 · paper 662a1575c2e9
+## 2022-23 · Exam not stated · Sem 9 · paper 662a1575c2e9
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1639,4 +1330,313 @@ Certified By
 0.3820346 0 |
 Recommended By No Yes
 Dentist 0 | -1.475108 |
+````
+
+## 2022-23 · Re-Exam · Sem 9 · paper 97e555e99f46
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Analytics for Strategic Marketing Decision/Analytics for strategic Marketing,Re-exam 2022-23.pdf`
+- Printed on paper: exam date: 21 February 2023
+- Text: ocr (3 pages), mean OCR confidence 86.8
+
+````text
+2'\o2\22 2 2D pry
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: MBA Tech (All Stream) Year: V Semester : [X
+
+AcademicYear: 2022-2023
+Subject: Analytics for Strategic Marketing Decisions
+
+Date : 21 February 2023 ,
+
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the qacShOR paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any_4 _ questions.
+3)in ail 5 questions to be attempted.
+£*) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+Figures in brackets on the right hand side indicate full marks. 7) Assume Suitable data if necessary.
+
+qi Uni Answer briefly: [10/20]
+
+CO-1; | a. Briefly explain the importance of Marketing Analytics for a modern marketer?
+SO- ;
+
+BL-
+
+explain
+
+co-1; | b. What are the parameters considered for forecasting using Winter’s exponential
+
+ty smoothing method? 25
+
+state
+
+2.5
+
+CO-1; |. Briefly explain the importance of S Curve in New Product Sales?
+SO-;
+
+BL-
+
+explain
+
+2.5
+
+“1; | d. List various forecasting models which minimizes the seasonality effect in a data series.
+
+a Briefly explain any one?
+
+List
+
+25:
+--- page 2 ---
+10 A market researcher has the following data from a sample size of 100 of a suburb
+location:
+Product pricing (sanitizers)
+Brand Equity and Price sensitivity index (values). He assumed that the Brand equity
+Q2 +Price sensitivity*Price will explain the right value for the consumer and hence the score
+CO-2; for the discrete choice model.
+SO-; * 5 [10]
+BL Godrej nee Dattol Sanitizer — “4 Rs for 2its
+Solve Brand Equity 1.65 5.08 0.497 Godrej Santoor Dettol
+Price Sensitivity -0,011 0.024 -0,0063 221 267 275
+Calculate the probability of each product and mention the product (sanitizer) with
+highest probability?
+Q3 Following are the results of the of the cluster analysis done for a retailer. [10]
+CO-1; A market campaign is initiated by a FMCG company for their Ice-Cream, Chocolate and
+aa Soft Drinks products. They intend to extend the invitation to only those consumers who
+BL- di
+identity > Preference
+1 2 3
+Clusters Ice-cream | Chocolate | Soft drinks
+1 16 i) 4
+2 4 Oo 9
+3 0 7 Oo
+4 0 E) 3
+prefer these products. 5. o 4 5
+Identify two clusters according to the preferences (highest to lowest) in each category
+(product) receiving the invitation for the campaign, Also mention the size of the cluster
+for each product category
+Q4 2 An existing brand in skin care has planned to expand its business into oral care (tooth (10)
+CO-3; vs brush). After a survey and using conjoint analysis, following coefficients are the results
+SO-; 4 of various parameters or attributes thru regression.
+BL:Creat -
+
+€
+
+Attribute coefficients
+; A B c
+Design
+-1.248377 | 0.1764069 0
+Brand Colgate Oral B Pepsodent
+2.2884199 | 0.1764069 0
+; 49 69 99
+Price
+-9.287879 | _-8.247835 oO
+Type Medium Soft
+| -6.274892 |
+Plastic
+Packaging Paper Box | Box
+0.7987013 0
+Certified By aoe pA
+0.3820346 0 ]
+Recommended By No Yes
+Dentist 0 | -1.475108 |
+
+Calculate the spread and determine the attribute rankings preferred by the consumers
+at individual level?
+
+22
+
+A
+--- page 3 ---
+A market research firm had analysed the past data of no. of cell phone users per 100
+people in a tier Ill city from 2011 to 2021. Following are the constants (using pearl curve).
+
+Qs
+0-3; L a b
+SO-; 118.1609 | 11.61863 | 0.319452 {20}
+covacast Forecast the no. of cell phone users for 2022, 2023 and 2024 and calculate the inflection point?
+Qs 7 Following is the output of bass model analysis on sales values of TV sales of past 16 years. [5x2=10]
+co Capital M parameter denotes total market potential.
+BL a. Find the time period (year) of Peak Sales Value of Peak Sales?
+b. Define p and q values and their relevance in understanding the diffusion of
+sales.
+Time Forecast
+period | crv)
+(pp [a [| um | 1 5.8962
+[0.055874 | 0.146584 | 98.21156 | 2 6.1957
+3 6.4890
+4 6.8286
+3. 6.8393
+" 6 6.7985
+7 6.6880
+f*> 8 6.3148
+9 5.6524
+10 5.0673 .
+11 4.5942
+12 4.2564
+13 3.8417
+14 3.3532
+15 2.7969
+16 2.0654 ‘
+Qq7 4 Write a short note explaining the use of the following analytics techniques for marketing [5x2=10]
+son managers.
+aL Q) perceptual mapping
+b) conjoint analysis
+create
+/forec
+ast
+oO
+````
+
+## 2019-20 · Exam not stated · Sem 9 · paper 810f709c9a1c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Analytics for Strategic Marketing Decision/Analytics for Strategic Marketing Decisions 2019-20.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 06 December 2019
+- Text: ocr (4 pages), mean OCR confidence 86.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEER
+Academic Year: 2019-2020
+
+Program: MBA Tech ( All Streams) Year: V Semester: IX
+Subject: Analytics for Strategic Marketing Decisions Time: 02.30 pm to 04.30 pm
+Date: 06 December 2019 Duration: 2 (Hrs)
+
+Marks: 70 No. of Pages:4_
+
+Final Examination (2019-20)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book,
+
+which is provided for their use.
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Compulsory
+
+1. Write a short note on the uses of 14
+(a) Discrete Choice Analysis
+(b) Modelling Trend and Seasonality
+(c) Perceptual Maps
+
+Optional 4/4
+--- page 2 ---
+1
+
+Given below is the-perceptual map output from positioning analysis of Beer Market.
+
+Study the output and describe your understanding of the perceptual structure of the
+Beer Industry.
+
+Full Bodied Heavy | with Men
+
+Good Value
+
+A five star hotel chain was considering the monthly sales data (in million Rupees) for 10
+years from 1981-1990. The management wants to formulate demand management
+strategies and hence identify months of heavy demand in the forthcoming year. The
+output of a multiplicative model of trend and seasonality is given below. Please answer
+the following questions basis the output.
+
+(a) Define the terms of Base, Trend and Seasonality using the output results. (6 marks)
+(b) Assume that you are in the 15th period and it is the month of January. You have to
+find the total sales in the 3 busiest months of the hotel chain in the coming year and
+
+support your argument with calculations using multiplicative trend and seasonality. (8
+marks)
+
+Seasonal
+Month
+Index
+Trend 1.006404637Jan 0.9117373
+Base 18.83753Feb   0.8480638
+
+Mar 1.0407202
+
+14
+
+14
+--- page 3 ---
+Apr: 0.9838452
+May 1.0146509 LIBRARY
+Jun 1.0983508
+Jul 1.1600349
+Aug 1.2100342
+Sep 0.9418732
+Oct 0.9684032
+Nov 0.8848726
+Dec   0.9374136
+
+MPSTME ~
+
+Write a detailed note on Pearl curve and Gompertz curve. Your answer should include 14
+their uses and formula.
+
+In response to the competition, Minute maid mango drink wants to experiment with 14
+packaging (Bottle vs Can), pricing (10, 12 or 14 Rupees) and calories(15 calories or zero
+calories) in order to assess true consumer value and incorporate the features in its new
+launch. The results of conjoint exercise were analysed to find the following output.
+
+Interpret this output to answer the following questions.
+
+Assess the appropriate statistics in the output and find the most important attributes
+
+and their levels .
+
+The company has a 30 calorie brand priced at Rs 10. If they wish to launch a 15 calories
+
+variant, how much more can they charge to the customer?
+--- page 4 ---
+3 ‘ tik a
+Multiple R 058414
+R Square 0968531
+
+Adjusted R Sqware | 0.947308
+Standard Exror 0.866025
+
+Observations 12
+ANOVA
+Sasi
+of ss aes F ooce F
+Regression 5|_1385| 27.7| 3693333] 0.0002
+Residual 6 45| O75
+Total 11 143
+Cocffaest | Soodont tower | Upper | Lower |Upper
+Intercept. | ¥-916667| 0.612372| 17978] 1326-05| 6.4182| 9.415| 6.418| 9.415)
+|Minute Maid Boltig -233333 O5| ~L667| COOS44S) -3557| -111) -356} -111)
+Minute Maid Can | -133333 O5| -2667| G037192| -2557| -0.11| -256| -011
+30 Calories? ~L66667 o5| -9333| s57E05| -5.89| -3.44| -5a9| -3.44
+Price 10? 5| 0612372) 8.165| 0.000182| 35016| 6.498] 3502| 6498
+Price 127 325| 0612372| 53072| 0.001817| 17516| 4.748] 1752| 4748
+Explain how pivot chart can be useful to managers with suitable examples. 14
+Write a short note providing an overview of various segmentation methods to a data 14
+analyst.
 ````

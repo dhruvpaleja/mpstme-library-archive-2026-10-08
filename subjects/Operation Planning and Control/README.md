@@ -16,18 +16,12 @@ Also filed as: `OPERATIONS PLANNING AND CONTROL`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Operation Planning and Control(703TO0E001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Operation Planning and Control(703TO0E001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech AI 7051 | QP_Operation Planning and Control(703TO0E001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech DS 7052 | QP_Operation Planning and Control(703TO0E001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Operation Planning and Control(703TO0E001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Operation Planning and Control(703TO0E001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Operation Planning and Control(703TO0E001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Operation Planning and Control(703TO0E001)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046, MBATech Computer 7047, MBATech IT 7041 | ANS_Operation Planning and Control(703TO0E001)_2024-2025_e25dd1588d.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(CHEMICAL ENGINEERING) - 7045 | ANS_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(ELECTRONICS & TELECOMMUNICATION | ANS_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Operation Planning and Control(703TO0E001)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBA TECH | Operations Planning and Control, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
@@ -35,6 +29,12 @@ Also filed as: `OPERATIONS PLANNING AND CONTROL`
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech(CHEMICAL ENGINEERING) - 7045 | QP_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech(ELECTRONICS & TELECOMMUNICATION | QP_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | QP_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046, MBATech Computer 7047, MBATech IT 7041 | ANS_Operation Planning and Control(703TO0E001)_2024-2025_e25dd1588d.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(CHEMICAL ENGINEERING) - 7045 | ANS_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(ELECTRONICS & TELECOMMUNICATION | ANS_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Operation Planning and Control(703TO0E001)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 9 | MBA TECH | Operations Planning & Control , Final 2023-2024.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 9 | MBA TECH | Operation Planning & control,Final ,2022-23.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 9 | MBA TECH | Operation Planning and Control,Final exam 2019-20.pdf |

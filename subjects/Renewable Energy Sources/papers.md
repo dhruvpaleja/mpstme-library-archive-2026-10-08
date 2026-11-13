@@ -4665,6 +4665,129 @@ working of VAWT with neat sketch.
 ‘in
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper a7d9fc2be46c
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/RENEWABLE ENERGY SOURCES/Renewable Energy Sources.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 90.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
+Academic Year: 2022-2023
+Program/s: B.Tech /MI & A Te ch Year: III Semester: VI
+
+Stream/s ;All Streams
+
+Subject: Renewable Energy Sources Time: 03 hrs (40:00amto 4:00pm)
+
+Date:_O4 / 05/2023 No. of Pages: 03
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+(> 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+
+Answer briefly: [20]
+oe SO-7 ; a. | Discuss Global warming and its effects on environment.
+ef a SO-7; b. | Elaborate merits and demerits of wave energy.
+CO-3 ; SO- 7; c. | Explain ROI and Payback period.
+BL-3
+CO-2 ; SO-7 ; d. | Discuss Microbial fuel cell (MFC) with neat sketch.
+
+>| BL2
+Illustrate following angles with neat’sketch.
+i. Inclination angle
+Q ii. Zenith angle 110]
+a.
+
+CO-2; SO-7; iii. | Solar azimuth angle
+BL-4
+
+iv. Tilt angle
+
+Vv. Surface azimuth angle
+--- page 2 ---
+Using the net present value analysis technique, evaluate the financial merits
+
+of the two proposed projects shown in the table. The annual discount rate is
+
+9 % for each project.
+
+Project 1 Project 2
+Capital Cost (Rs.) 30000 30000
+Year Net annual Net annual saving
+saving (Rs.) (Rs.)
+ai 86a 1 +6000 +6600
+ee alien 2. +6000 +6600 [10]
+3. +6000 +6300
+4. +6000 +6300
+5. +6000 +6000
+6. +6000 +6000
+7. +6000 +5700
+8. +6000 +5700
+9. +6000 +5400
+10. +6000 +5400
+Total net savings at end +60000 +60000
+_ of 10 year
+Q3
+CO-2: SO-7: Illustrate working of Cogeneration plant with neat sketch. [8]
+BL-4
+Calculate the hour angles at sunrise on June 21 and also on December 21 for
+CO-3; SO-1; a flat plate solar collector inclined due south (i.e. y = 0°) at an angle equal to
+BL-4 latitude of the place. The collector is located at Nagpur (21° 06’ N, 79° 03° [8]
+E). The standard longitude for IST is 81° and 44° E.
+CO-3 ; SO- 7; : _ .
+BL-3 Discuss Initial and annual cost. [4]
+Q4 Illustrate construction and working of followings with neat sketch.
+CO-2; SO-7; i. Pelton turbine [10]
+BL-4 ii, | Kaplan Turbine
+CO-2; SO-7; Explain Flash steam power plant with neat sketch. Also list down pros and
+BL-4 cons of geothermal energy. [10
+Q5 Calculate the maximum possible torque produced at the shaft if A HAWT
+CO-3; SO-1; has following data: Speed of wind =25 m/s at 1 atm and 25 °C Diameter of [10]
+BL-4 rotor = 130 m Speed of rotor = 50 rpm.
+Discuss following energy options to fossil fuels with their impacts on
+CO- 1; SO-7 ; : t
+BL2 environment. [10]
+i. The solar option ii. Nuclear option
+--- page 3 ---
+Q6 Elaborate following applications of solar energy with neat sketch.
+
+CO-2; SO-7; a. i. Distillation [10]
+
+BL-4 ii. Water heating
+
+CO-2; SO-7; Illustrate working of Floating drum type biogas plant with neat sketch. Also
+
+BL-4 " list down different forms of biomass. ie
+
+Q7
+
+CO-2; SO-7; a. | Elaborate Lift and Drag design of wind turbine with neat sketch. [8]
+
+BL-3
+
+CO-2; SO-7; Illustrate Oscillating Water Column Type wave energy conversion device
+
+BL-4 with neat sketch. [6]
+rae SO-7, c. | Write a short note on solar photovoltaic system (PV Cell) [6]
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper d0f7a6987416
 
 - Departments: Common (all branches)
@@ -4749,7 +4872,7 @@ x
 Ye.
 ````
 
-## 2022 · Final-Exam · Sem 7 · paper f249a3a3849f
+## 2022-23 · Final-Exam · Sem 7 · paper f249a3a3849f
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
@@ -5962,127 +6085,4 @@ Q7 Write short notes on the following (Any Two) [2x7]
 (c) Downdraft type Biomass Gasification Plant
 (d) Phosphoric Acid Fuel Cell (PAFC)
 ah
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper a7d9fc2be46c
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/RENEWABLE ENERGY SOURCES/Renewable Energy Sources.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 90.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
-Academic Year: 2022-2023
-Program/s: B.Tech /MI & A Te ch Year: III Semester: VI
-
-Stream/s ;All Streams
-
-Subject: Renewable Energy Sources Time: 03 hrs (40:00amto 4:00pm)
-
-Date:_O4 / 05/2023 No. of Pages: 03
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-(> 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-
-Answer briefly: [20]
-oe SO-7 ; a. | Discuss Global warming and its effects on environment.
-ef a SO-7; b. | Elaborate merits and demerits of wave energy.
-CO-3 ; SO- 7; c. | Explain ROI and Payback period.
-BL-3
-CO-2 ; SO-7 ; d. | Discuss Microbial fuel cell (MFC) with neat sketch.
-
->| BL2
-Illustrate following angles with neat’sketch.
-i. Inclination angle
-Q ii. Zenith angle 110]
-a.
-
-CO-2; SO-7; iii. | Solar azimuth angle
-BL-4
-
-iv. Tilt angle
-
-Vv. Surface azimuth angle
---- page 2 ---
-Using the net present value analysis technique, evaluate the financial merits
-
-of the two proposed projects shown in the table. The annual discount rate is
-
-9 % for each project.
-
-Project 1 Project 2
-Capital Cost (Rs.) 30000 30000
-Year Net annual Net annual saving
-saving (Rs.) (Rs.)
-ai 86a 1 +6000 +6600
-ee alien 2. +6000 +6600 [10]
-3. +6000 +6300
-4. +6000 +6300
-5. +6000 +6000
-6. +6000 +6000
-7. +6000 +5700
-8. +6000 +5700
-9. +6000 +5400
-10. +6000 +5400
-Total net savings at end +60000 +60000
-_ of 10 year
-Q3
-CO-2: SO-7: Illustrate working of Cogeneration plant with neat sketch. [8]
-BL-4
-Calculate the hour angles at sunrise on June 21 and also on December 21 for
-CO-3; SO-1; a flat plate solar collector inclined due south (i.e. y = 0°) at an angle equal to
-BL-4 latitude of the place. The collector is located at Nagpur (21° 06’ N, 79° 03° [8]
-E). The standard longitude for IST is 81° and 44° E.
-CO-3 ; SO- 7; : _ .
-BL-3 Discuss Initial and annual cost. [4]
-Q4 Illustrate construction and working of followings with neat sketch.
-CO-2; SO-7; i. Pelton turbine [10]
-BL-4 ii, | Kaplan Turbine
-CO-2; SO-7; Explain Flash steam power plant with neat sketch. Also list down pros and
-BL-4 cons of geothermal energy. [10
-Q5 Calculate the maximum possible torque produced at the shaft if A HAWT
-CO-3; SO-1; has following data: Speed of wind =25 m/s at 1 atm and 25 °C Diameter of [10]
-BL-4 rotor = 130 m Speed of rotor = 50 rpm.
-Discuss following energy options to fossil fuels with their impacts on
-CO- 1; SO-7 ; : t
-BL2 environment. [10]
-i. The solar option ii. Nuclear option
---- page 3 ---
-Q6 Elaborate following applications of solar energy with neat sketch.
-
-CO-2; SO-7; a. i. Distillation [10]
-
-BL-4 ii. Water heating
-
-CO-2; SO-7; Illustrate working of Floating drum type biogas plant with neat sketch. Also
-
-BL-4 " list down different forms of biomass. ie
-
-Q7
-
-CO-2; SO-7; a. | Elaborate Lift and Drag design of wind turbine with neat sketch. [8]
-
-BL-3
-
-CO-2; SO-7; Illustrate Oscillating Water Column Type wave energy conversion device
-
-BL-4 with neat sketch. [6]
-rae SO-7, c. | Write a short note on solar photovoltaic system (PV Cell) [6]
 ````

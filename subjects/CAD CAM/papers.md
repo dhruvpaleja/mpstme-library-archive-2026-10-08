@@ -1,8 +1,114 @@
 # CAD CAM: question papers in full
 
-9 unique papers · 2006-07 to 2024-25 · Mechanical, Information Technology
+9 unique papers · 2006-07 to 2025-26 · Mechanical, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 7 · paper b9fff5654b98
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VII SEMESTER/CAD,CAM/CAD,CAM,CIM , Re-exam 2024-25.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 88.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERIN G
+Academic Year: 2025-26
+
+Program: MBA Tech Stream; Mechanical Engineering Year: IV Semester: VII
+
+Subject: CAD/CAM/CIM Time: 3 ___ hrs. (lozcdawto 1:00pm)
+Date:_F_ / 12/25 No. of Pages: 3
+
+Marks: 100
+
+Re-Exam 2024-25
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right-hand side indicate full marks.
+6) Assume Suitable data if necessary.
+
+Ql
+Answer briefly. [20]
+
+CO-1; SO-2; ) Define CAD/CAM and explain its importance in concurrent 14]
+BL-1 ‘ engineering.
+CO-1; SO-2; b Explain non-contact inspection methods used in Computer Aided 14]
+BL-1 ) Quality Control (CAQC).
+CO-1; SO-2;
+
+C) List and explain the components of a CAD system. [4]
+BL-1
+CO-3; SO-2;
+
+d) Explain the concept of CAPP. [4]
+BL-2
+CO-3; SO-2; ) State the difference between hardware and software components of 14]
+
+e
+
+BL-1 CAD systems.
+--- page 2 ---
+Q2
+Describe the concept of collaborative engineering and its benefits in | [10]
+CO-1; SO-2; | a)
+product development.
+BL-1
+CO-2; SO-2; Explain the integration of CAD and CAM with reference to industrial [10]
+BL-2 b) applications.
+Q3
+CO-3: SO-1; | a) Compare CSG and B-rep modeling approaches with suitable [10]
+examples.
+BL-2
+b) Explain 2D transformation matrices for translation, rotation, and [10]
+scaling.
+Q4 Plot the Bezier curve having endpoints Po(1,3) and P3(7,2). The other
+control points are Pi(5,6) and P2(6,0). Plot for values for u = 0, 0.2,
+0-3; SO-1; . oe . - 1
+CO-3; SO-15 | a) 0.4, 0.6,0.8,1, if the characteristic polygon is drawn in the sequence [10]
+BL-3 Po-Pi-P2-P3.
+
+b) Explain the construction and working principle of CNC machines. [10]
+
+Q5
+0-2; 0-1; | a) Explain Flexible Manufacturing Systems (FMS) and their advantages [10]
+in modern manufacturing.
+BL-3
+b) Differentiate between NC and CNC with neat sketch. [10]
+Q6 Write a manual part programme for finishing the following
+CO-2; SO-1; | a) component. Take spindle speed and feed rate as 500 rpm and 0.3 | [10]
+mm/rev respectively.
+
+BL-3
+--- page 3 ---
+Define Group Technology (GT). Explain the concept of part family
+
+b
+) and coding systems. [10]
+Write short notes on the following- (4*5 marks)
+7
+Q I. Integration of CAQC with CAD/CAM systems.
+Il. Flexible manufacturing system [20]
+CO-1; SO-2; Tl. CIM Wheel
+
+BL2 IV. DFM&DFA
+
+RRR RR ER ERE
+--- page 4 ---
+
+````
 
 ## 2024-25 · Exam not stated · Sem 7 · paper 7fd758e4dbc1
 
@@ -244,112 +350,6 @@ CO-3; SO-7; b. | Explain general principles and guidelines used in design for ma
 BL-3 assembly.
 
 2/2
-````
-
-## 2024-25 · Re-Exam · Sem 7 · paper b9fff5654b98
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VII SEMESTER/CAD,CAM/CAD,CAM,CIM , Re-exam 2024-25.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 88.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERIN G
-Academic Year: 2025-26
-
-Program: MBA Tech Stream; Mechanical Engineering Year: IV Semester: VII
-
-Subject: CAD/CAM/CIM Time: 3 ___ hrs. (lozcdawto 1:00pm)
-Date:_F_ / 12/25 No. of Pages: 3
-
-Marks: 100
-
-Re-Exam 2024-25
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all 5 questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-
-5) Figures in brackets on the right-hand side indicate full marks.
-6) Assume Suitable data if necessary.
-
-Ql
-Answer briefly. [20]
-
-CO-1; SO-2; ) Define CAD/CAM and explain its importance in concurrent 14]
-BL-1 ‘ engineering.
-CO-1; SO-2; b Explain non-contact inspection methods used in Computer Aided 14]
-BL-1 ) Quality Control (CAQC).
-CO-1; SO-2;
-
-C) List and explain the components of a CAD system. [4]
-BL-1
-CO-3; SO-2;
-
-d) Explain the concept of CAPP. [4]
-BL-2
-CO-3; SO-2; ) State the difference between hardware and software components of 14]
-
-e
-
-BL-1 CAD systems.
---- page 2 ---
-Q2
-Describe the concept of collaborative engineering and its benefits in | [10]
-CO-1; SO-2; | a)
-product development.
-BL-1
-CO-2; SO-2; Explain the integration of CAD and CAM with reference to industrial [10]
-BL-2 b) applications.
-Q3
-CO-3: SO-1; | a) Compare CSG and B-rep modeling approaches with suitable [10]
-examples.
-BL-2
-b) Explain 2D transformation matrices for translation, rotation, and [10]
-scaling.
-Q4 Plot the Bezier curve having endpoints Po(1,3) and P3(7,2). The other
-control points are Pi(5,6) and P2(6,0). Plot for values for u = 0, 0.2,
-0-3; SO-1; . oe . - 1
-CO-3; SO-15 | a) 0.4, 0.6,0.8,1, if the characteristic polygon is drawn in the sequence [10]
-BL-3 Po-Pi-P2-P3.
-
-b) Explain the construction and working principle of CNC machines. [10]
-
-Q5
-0-2; 0-1; | a) Explain Flexible Manufacturing Systems (FMS) and their advantages [10]
-in modern manufacturing.
-BL-3
-b) Differentiate between NC and CNC with neat sketch. [10]
-Q6 Write a manual part programme for finishing the following
-CO-2; SO-1; | a) component. Take spindle speed and feed rate as 500 rpm and 0.3 | [10]
-mm/rev respectively.
-
-BL-3
---- page 3 ---
-Define Group Technology (GT). Explain the concept of part family
-
-b
-) and coding systems. [10]
-Write short notes on the following- (4*5 marks)
-7
-Q I. Integration of CAQC with CAD/CAM systems.
-Il. Flexible manufacturing system [20]
-CO-1; SO-2; Tl. CIM Wheel
-
-BL2 IV. DFM&DFA
-
-RRR RR ER ERE
---- page 4 ---
-
 ````
 
 ## 2023-24 · Final-Exam · Sem 7 · paper ef0d8bf8c1ea
@@ -613,6 +613,7 @@ BL-3
 - Programmes: MBA TECH / I T
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/CAD CAM/2009-2010(112).pdf`
 - Text: ocr (2 pages), mean OCR confidence 78.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —_=.
@@ -632,7 +633,6 @@ Trimester: VIII Academic Year: 2009-2010
 
 Subject: CAD/CAM & CIM Date: [2 / l lo
 
-Fal Speco coi PIO |
 
 Instructions: Candidates should read carefully the instructions printed on the question
 paper and on the cover of the Answer Book, which is provided for the use.

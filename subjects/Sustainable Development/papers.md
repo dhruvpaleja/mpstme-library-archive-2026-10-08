@@ -542,6 +542,7 @@ Pa
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/1st YEAR/TRIM III/Sustainable Development/SUSTAINABLE_DEVELOPMENT_BATCH_2017-2018_RE_EXAM0001_vOX5Ej7Np3.pdf`
 - Printed on paper: duration hours: 3; exam date: 28 June 2018
 - Text: ocr (3 pages), mean OCR confidence 92.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 | SVKM’S NMIMS
@@ -615,7 +616,6 @@ Soil Pockets with trees
 
 Soil Pockets with trees
 
-| 492 MMs Kachha Road +94M MSL * +97M MSL
 
 Q-2
 

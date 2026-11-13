@@ -889,7 +889,112 @@ the availability and use of secondary data.
 ********** 1 **********
 ````
 
-## 2022-23 · Re-Exam · Sem 10 · paper 1d3cbb832369
+## 2023-24 · Exam not stated · Sem 10 · paper a1d6b0e23d3a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/INTERNATIONAL MARKETING/International Marketing.pdf`
+- Text: ocr (2 pages), mean OCR confidence 87.6
+
+````text
+AE OF MANES
+a
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT __\ _
+
+Academic Year: 2023-2024
+
+i
+
+Program/s: MBA Tech___ Year: _V_ Semester: _X
+
+Stream/s; All al
+
+Subject: International Marketing_ Time: 2 _ hrs (/ozcpam to l2nom )
+Date:_2 / 5 /2024 ; No. of Pages:_2_
+
+Marks: _50__
+
+Final Examination’
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. ,
+
+Ql .
+
+Write Short Notes on: {10]
+CO-1 ; SO- ; .
+BL- ’ Trade theory of Absolute advantage and Comparative advantage [2.5]
+Understand
+CO-1 ; SO- ; : :
+BL- b. Foreign Country Middlemen [2.5]
+Understand
+CO-1 ; SO- ; 7 “ .
+BL- ° Approaches to lessening price escalation > [2.5]
+Understand
+CO-1;SO-; | d. Types of Non-Tariff Barriers
+BL- - [2.5]
+Understand
+@ Most international companies have reached the global marketing stage after
+ok SO-; passing through different stages of International Marketing Involvement. [10]
+Understand Describe these stages
+
+A) Western cultures, like most North Americans, Swiss, Germans, and
+
+Scandinavians, tend to concentrate on one thing at a time. Analyse the
+
+management style with respect to time followed by these cultures.
+Q3 [3]
+CO-2: SO-: B) A shampoo manufacturing company wants to enter the market of South [10]
+BL- Analyse Africa. In order to make a marketing plan, what consideration should be given
+
+to the Historical, Geographical (Climate, & topography), Economic condition,
+Political situation of South Africa? Analyse.
+
+[7]
+
+10F2
+--- page 2 ---
+A) List and briefly discuss the various economic risks that international
+Q4 companies must face when they seek to market abroad.
+
+CO-1; SO-; * °° [5]
+BL. [10]
+Understand B) With references to international marketing research, discuss the various
+problems related to the availability and use of secondary data. [5]
+Q5
+Pies SOs Evaluate the factors that affect the demand in global B2B markets. [10]
+Evaluate
+You are the Marketing Director of a Heavy Earthmoving Equipment
+Q6 manufacturing company. Your company is planning to market mining
+equipment to the Govt. of Zambia. Prepare a whitepaper for your Board of [10]
+CO-3; SO-; : : .
+BL- Create Directors suggesting Countertrade as the pricing tool for the company,
+elaborating on types of countertrade, and your recommendation for selecting a
+particular one with reasons.
+Q7
+CO-1; SO-; : aa : [10]
+BL- List and explain important documents needed for export of goods from India.
+Understand ,
+
+2 OF 2
+````
+
+## 2023-24 · Re-Exam · Sem 10 · paper 1d3cbb832369
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1012,6 +1117,137 @@ BL- Briefly describe the overview of export procedure through a line diagram
 Understand
 
 2 OF 2
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper 99b701c2aa6e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/INTERNATIONAL MARKETING/International Marketing_99b701c2aa.pdf`
+- Printed on paper: max marks: 50
+- Text: ocr (2 pages), mean OCR confidence 86.6
+
+````text
+MPSTME
+SVKM’S NMIMS LIBRARY
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
+Academic Year: 2022-2023
+
+Program/s: _MBA Tech_
+Stream/s;__ All__
+
+Year: _V_ Semester: X_
+
+Subject: __ International Marketing _ Time: _2_ hrs ( 10 am_to 12 noon)
+Date:_29 / April / 2023 No. of Pages:_2__
+Marks: 50
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1
+
+Q Write Short notes on: [10]
+CO-1;SO-; | a.
+
+BL- Types of Non-tariff barriers in international trade [2.5]
+Understand
+
+CO-1 ; SO- ; i, e ¢ : :
+
+BL- a Economic risks faced by an international firm [2.5]
+Understand
+
+CO-1; SO- ; . sg
+
+BL- © Country of origin effect [2.5]
+Understand
+
+CO-1 ; SO- ;
+
+BL- a. Contractual agreements [2.5]
+Understand
+
+Q2
+
+a A) Explain the Impact of Globalisation on Marketing. [5] [10]
+BL-
+
+Understand B) Examine the role of Social Institutions during development of culture. [5]
+
+B) CO2; SO-
+
+; BL- Apply
+
+You are the HR manager of a software development company in India. Your
+company is implementing a software project in Finland for which a team of
+Q3 Engineers have to be sent to Finland to work there. As per Hofstede studies, the
+264080s5 cultural indices are as below: [10]
+BL- Create IDV PDI UAI
+India 48 77 40
+Finland 63 33 59)
+
+1of2
+--- page 2 ---
+Propose a training program for your engineers for cultural adaptation based on
+the above indices.
+
+Q4 A) Your company is having a dispute with a company in another country where
+A) CO-2; you have been supplying material. They have withheld your payment on a
+SO-; ; technical clause, to which you are not agreeing. Analyse the options available to
+BL- Analyse you for dispute resolution and select the best option. [5] [10]
+B) CO- 1; . . . . . .
+B) With reference to international marketing research, list the various problems
+SO-; BL- ‘ : 7 5
+that are associated with gathering primary data. [5]
+Understand
+5 . , 5
+Q Develop a Product adaptation plan of your product to be marketed in a foreign [10]
+arent country, using the Product Component model.
+You are an advisor to a company, where managers feel that there is substantial
+difference between the price of their product in home country and a foreign
+Q6 country, leading them to find export attractive.
+CO-2; SO-; . : . . [10]
+aL Apply Prepare a whitepaper to explain to them that profit may be illusory due to price
+escalation during export, citing reasons for it, and then suggest to them ways to
+reduce the same.
+Show your understanding of “INCOTERMS?” in international trade. Explain at
+least 4 of the following terms in details:
+e   EXW-Ex Works
+e   FCA-Free Carrier
+e FAS-Free Alongside ship
+e FOB-Free On Board
+Q7 e CFR-Cost And Freight
+CO-1; $O-; e   CIF-Cost, Insurance And Freight [10]
+BL- e CPT-Carriage Paid To
+Understand e   CIP-Carriage And Insurance Paid To
+
+e   DAF-Delivered At Frontier
+
+e   DES-Delivered Ex-Ship
+
+e DEQ-Delivered Ex-Quay
+
+e DDU-Delivered Duty Unpaid
+e DDP-Delivered Duty Paid
+
+2 of 2
 ````
 
 ## 2021-22 · Final-Exam · Sem 10 · paper b84bad158056
@@ -1626,8 +1862,8 @@ eu
 - Departments: Common (all branches)
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/INTERNATIONAL MARKETING/International Marketing Batch (2014-15) Re Exam.pdf`
-- Printed on paper: exam date: 11/07/2015
 - Text: ocr (1 page), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1642,7 +1878,6 @@ He ae
 
 Subject : International Marketing Marks: ' 3( i. .
 Time : 10\ to 12.00
-Date : 11/07/2015 Tine Opa — ane
 Re-Examination —— a “eo
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
@@ -1788,6 +2023,128 @@ a. Transfer Pricing
 
 b. Counter Trading
 c. IMF
+````
+
+## 2012-13 · Exam not stated · Trim 15 · paper d242713821ef
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL MARKETING/Scan 006.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 18/4/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technolow Management L En& -
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV   ,+y
+Academic Year : 2012-2013   \\   ,'   - 4:IY
+\   *\-,&V"rr. _-   .*
+1   I,.. .---   .-
+I   Subject:   INTERNATIONAL MARKETING   Marks:   50
+Time:   2.00pm To 4.00pm
+Date:   18/4/2013   Duration:   2   hrs.
+Nnal - Examination
+Instructions: Candidates should carefully read the instructions printed on the question paper and on
+the cover of Answer Book, which is provided for their use.
+Note : (i) Attempt ANY FIVE questions
+lii) All questions carrv ten marks each
+Q1. State and critically evaluate AMA's definition of International Marketing. Critically
+evaluate the Principle of Relative Advantage.
+Q2. State (no explanation expected) the five stages in IPLC, and explain the marketing
+strategies to be adopted at different stages of IPLC.
+Q3. Critically examine the Multiplicity of Global Legal Environment.
+Q4. Explain, in detail, the following Foreign Market Entry Strategies:
+a) Joint Venture   b) Assembly Operations
+Q5. Explain, in detail, with suitable global examples how the following factors influence The
+International Pricing Behaviour of Business Firms:
+a) Cost   b) Elasticity and Cross Elasticity of Demand
+,   c) Market Share   aj Non-tariff barriers
+Q6. What is L/C? Who are the parties to an L/C? Explain Back-to-Back L/C and Transferable
+L/C.
+Q7. Write a Note on ANY ONE of the following:
+a) Dumping   b) IMR
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper d20efd005192
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL MARKETING/INTERNATIONAL MARKETING 20120001.pdf`
+- Printed on paper: exam date: 7/4/2012
+- Text: ocr (2 pages), mean OCR confidence 89.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engine
+
+, Programme: MBA. Tech - ALL STREAMS Year: V Trimester:
+Academic Year : 2011-2012
+
+Subject: INTERNATIONAL MARKETING Marks:
+
+Time:
+Date: 7/4/2012 Duration:
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Section A is compulsory.
+2. From section B , attempt any Four questions
+3. In all Five questions to be attempted .
+4. All questions carry equal marks.
+5. Answer to each question to be started on a fresh page.
+6. Figures in bracket on the right hand side indicate full marks .
+
+} Section A ( Compulsory)
+
+1. An Indian company operating as “software solution provider” in domestic market wants to get into
+the global operations :
+
+a) What kind of market analysis is required for the company before going global. Suggest the best
+suitable mode of market entry for this company.
+
+(7+3)= 10 Marks
+
+j
+
+: : Section B ( Any Four )
+
+1. Compare & contrast “Absolute & Relative advantage theory of International trade”.
+(10 marks)
+
+2. Write short notes: ( Any two) (5 *2=10 Marks )
+a) Bill of lading
+b) Economic Integration
+c) Counterfeiting
+
+Page lof 2
+--- page 2 ---
+Discuss the various ways of financing in international market. (10 marks)
+
+Describe briefly the International Product classification & discuss the various strategies for
+product adaptation.
+
+(10 marks)
+Explain the impact of culture on consumption. (10 Marks)
+Distinguish between these types of tariffs with example : a) Import and export tariff b)
+
+Protective and revenue tariffs c) Surcharge and countervailing duty d) Specific and ad
+valorem duties . (2.5* 4= 10 Marks)
+
+Describe the organizations on the basis of management style give emphasis on the
+characteristics & marketing strategies of these organizations in international market .
+
+(10 Marks)
+
+
+Page 2of2
+
+=_—_
 ````
 
 ## 2011-12 · Re-Exam · Trim 15 · paper d6ff9139ccc9
@@ -2186,362 +2543,4 @@ Question: Critically analyze Coca Cola’s global strategy and suggest
 them a strategy for Asia.
 
 x -Y ——
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper a1d6b0e23d3a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/INTERNATIONAL MARKETING/International Marketing.pdf`
-- Text: ocr (2 pages), mean OCR confidence 87.6
-
-````text
-AE OF MANES
-a
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT __\ _
-
-Academic Year: 2023-2024
-
-i
-
-Program/s: MBA Tech___ Year: _V_ Semester: _X
-
-Stream/s; All al
-
-Subject: International Marketing_ Time: 2 _ hrs (/ozcpam to l2nom )
-Date:_2 / 5 /2024 ; No. of Pages:_2_
-
-Marks: _50__
-
-Final Examination’
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1__ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. ,
-
-Ql .
-
-Write Short Notes on: {10]
-CO-1 ; SO- ; .
-BL- ’ Trade theory of Absolute advantage and Comparative advantage [2.5]
-Understand
-CO-1 ; SO- ; : :
-BL- b. Foreign Country Middlemen [2.5]
-Understand
-CO-1 ; SO- ; 7 “ .
-BL- ° Approaches to lessening price escalation > [2.5]
-Understand
-CO-1;SO-; | d. Types of Non-Tariff Barriers
-BL- - [2.5]
-Understand
-@ Most international companies have reached the global marketing stage after
-ok SO-; passing through different stages of International Marketing Involvement. [10]
-Understand Describe these stages
-
-A) Western cultures, like most North Americans, Swiss, Germans, and
-
-Scandinavians, tend to concentrate on one thing at a time. Analyse the
-
-management style with respect to time followed by these cultures.
-Q3 [3]
-CO-2: SO-: B) A shampoo manufacturing company wants to enter the market of South [10]
-BL- Analyse Africa. In order to make a marketing plan, what consideration should be given
-
-to the Historical, Geographical (Climate, & topography), Economic condition,
-Political situation of South Africa? Analyse.
-
-[7]
-
-10F2
---- page 2 ---
-A) List and briefly discuss the various economic risks that international
-Q4 companies must face when they seek to market abroad.
-
-CO-1; SO-; * °° [5]
-BL. [10]
-Understand B) With references to international marketing research, discuss the various
-problems related to the availability and use of secondary data. [5]
-Q5
-Pies SOs Evaluate the factors that affect the demand in global B2B markets. [10]
-Evaluate
-You are the Marketing Director of a Heavy Earthmoving Equipment
-Q6 manufacturing company. Your company is planning to market mining
-equipment to the Govt. of Zambia. Prepare a whitepaper for your Board of [10]
-CO-3; SO-; : : .
-BL- Create Directors suggesting Countertrade as the pricing tool for the company,
-elaborating on types of countertrade, and your recommendation for selecting a
-particular one with reasons.
-Q7
-CO-1; SO-; : aa : [10]
-BL- List and explain important documents needed for export of goods from India.
-Understand ,
-
-2 OF 2
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper 99b701c2aa6e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/INTERNATIONAL MARKETING/International Marketing_99b701c2aa.pdf`
-- Printed on paper: max marks: 50
-- Text: ocr (2 pages), mean OCR confidence 86.6
-
-````text
-MPSTME
-SVKM’S NMIMS LIBRARY
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
-Academic Year: 2022-2023
-
-Program/s: _MBA Tech_
-Stream/s;__ All__
-
-Year: _V_ Semester: X_
-
-Subject: __ International Marketing _ Time: _2_ hrs ( 10 am_to 12 noon)
-Date:_29 / April / 2023 No. of Pages:_2__
-Marks: 50
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1
-
-Q Write Short notes on: [10]
-CO-1;SO-; | a.
-
-BL- Types of Non-tariff barriers in international trade [2.5]
-Understand
-
-CO-1 ; SO- ; i, e ¢ : :
-
-BL- a Economic risks faced by an international firm [2.5]
-Understand
-
-CO-1; SO- ; . sg
-
-BL- © Country of origin effect [2.5]
-Understand
-
-CO-1 ; SO- ;
-
-BL- a. Contractual agreements [2.5]
-Understand
-
-Q2
-
-a A) Explain the Impact of Globalisation on Marketing. [5] [10]
-BL-
-
-Understand B) Examine the role of Social Institutions during development of culture. [5]
-
-B) CO2; SO-
-
-; BL- Apply
-
-You are the HR manager of a software development company in India. Your
-company is implementing a software project in Finland for which a team of
-Q3 Engineers have to be sent to Finland to work there. As per Hofstede studies, the
-264080s5 cultural indices are as below: [10]
-BL- Create IDV PDI UAI
-India 48 77 40
-Finland 63 33 59)
-
-1of2
---- page 2 ---
-Propose a training program for your engineers for cultural adaptation based on
-the above indices.
-
-Q4 A) Your company is having a dispute with a company in another country where
-A) CO-2; you have been supplying material. They have withheld your payment on a
-SO-; ; technical clause, to which you are not agreeing. Analyse the options available to
-BL- Analyse you for dispute resolution and select the best option. [5] [10]
-B) CO- 1; . . . . . .
-B) With reference to international marketing research, list the various problems
-SO-; BL- ‘ : 7 5
-that are associated with gathering primary data. [5]
-Understand
-5 . , 5
-Q Develop a Product adaptation plan of your product to be marketed in a foreign [10]
-arent country, using the Product Component model.
-You are an advisor to a company, where managers feel that there is substantial
-difference between the price of their product in home country and a foreign
-Q6 country, leading them to find export attractive.
-CO-2; SO-; . : . . [10]
-aL Apply Prepare a whitepaper to explain to them that profit may be illusory due to price
-escalation during export, citing reasons for it, and then suggest to them ways to
-reduce the same.
-Show your understanding of “INCOTERMS?” in international trade. Explain at
-least 4 of the following terms in details:
-e   EXW-Ex Works
-e   FCA-Free Carrier
-e FAS-Free Alongside ship
-e FOB-Free On Board
-Q7 e CFR-Cost And Freight
-CO-1; $O-; e   CIF-Cost, Insurance And Freight [10]
-BL- e CPT-Carriage Paid To
-Understand e   CIP-Carriage And Insurance Paid To
-
-e   DAF-Delivered At Frontier
-
-e   DES-Delivered Ex-Ship
-
-e DEQ-Delivered Ex-Quay
-
-e DDU-Delivered Duty Unpaid
-e DDP-Delivered Duty Paid
-
-2 of 2
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper d20efd005192
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL MARKETING/INTERNATIONAL MARKETING 20120001.pdf`
-- Printed on paper: exam date: 7/4/2012
-- Text: ocr (2 pages), mean OCR confidence 89.7
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engine
-
-, Programme: MBA. Tech - ALL STREAMS Year: V Trimester:
-Academic Year : 2011-2012
-
-Subject: INTERNATIONAL MARKETING Marks:
-
-Time:
-Date: 7/4/2012 Duration:
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Section A is compulsory.
-2. From section B , attempt any Four questions
-3. In all Five questions to be attempted .
-4. All questions carry equal marks.
-5. Answer to each question to be started on a fresh page.
-6. Figures in bracket on the right hand side indicate full marks .
-
-} Section A ( Compulsory)
-
-1. An Indian company operating as “software solution provider” in domestic market wants to get into
-the global operations :
-
-a) What kind of market analysis is required for the company before going global. Suggest the best
-suitable mode of market entry for this company.
-
-(7+3)= 10 Marks
-
-j
-
-: : Section B ( Any Four )
-
-1. Compare & contrast “Absolute & Relative advantage theory of International trade”.
-(10 marks)
-
-2. Write short notes: ( Any two) (5 *2=10 Marks )
-a) Bill of lading
-b) Economic Integration
-c) Counterfeiting
-
-Page lof 2
---- page 2 ---
-Discuss the various ways of financing in international market. (10 marks)
-
-Describe briefly the International Product classification & discuss the various strategies for
-product adaptation.
-
-(10 marks)
-Explain the impact of culture on consumption. (10 Marks)
-Distinguish between these types of tariffs with example : a) Import and export tariff b)
-
-Protective and revenue tariffs c) Surcharge and countervailing duty d) Specific and ad
-valorem duties . (2.5* 4= 10 Marks)
-
-Describe the organizations on the basis of management style give emphasis on the
-characteristics & marketing strategies of these organizations in international market .
-
-(10 Marks)
-
-OR A A Re oe oe ok 2 a KR OK
-
-Page 2of2
-
-=_—_
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper d242713821ef
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INTERNATIONAL MARKETING/Scan 006.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 18/4/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technolow Management L En& -
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV   ,+y
-Academic Year : 2012-2013   \\   ,'   - 4:IY
-\   *\-,&V"rr. _-   .*
-1   I,.. .---   .-
-I   Subject:   INTERNATIONAL MARKETING   Marks:   50
-Time:   2.00pm To 4.00pm
-Date:   18/4/2013   Duration:   2   hrs.
-Nnal - Examination
-Instructions: Candidates should carefully read the instructions printed on the question paper and on
-the cover of Answer Book, which is provided for their use.
-Note : (i) Attempt ANY FIVE questions
-lii) All questions carrv ten marks each
-Q1. State and critically evaluate AMA's definition of International Marketing. Critically
-evaluate the Principle of Relative Advantage.
-Q2. State (no explanation expected) the five stages in IPLC, and explain the marketing
-strategies to be adopted at different stages of IPLC.
-Q3. Critically examine the Multiplicity of Global Legal Environment.
-Q4. Explain, in detail, the following Foreign Market Entry Strategies:
-a) Joint Venture   b) Assembly Operations
-Q5. Explain, in detail, with suitable global examples how the following factors influence The
-International Pricing Behaviour of Business Firms:
-a) Cost   b) Elasticity and Cross Elasticity of Demand
-,   c) Market Share   aj Non-tariff barriers
-Q6. What is L/C? Who are the parties to an L/C? Explain Back-to-Back L/C and Transferable
-L/C.
-Q7. Write a Note on ANY ONE of the following:
-a) Dumping   b) IMR
 ````

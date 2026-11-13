@@ -427,6 +427,7 @@ important?
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSE_DS_7057/Management Accounting for Engineers/QP_Management Accounting for Engineers(702TF0C009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -610,6 +611,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Mechatronics_7004/Management Accounting for Engineers/QP_Management Accounting for Engineers(702TF0C009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -793,6 +795,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/MBATech_DS_7052/Management Accounting for Engineers/QP_Management Accounting for Engineers(702TF0C009)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -9627,6 +9630,490 @@ Calculate the direct labour rate variance, direct labour efficiency variance,
 the direct labour cost variance for both products.
 ````
 
+## 2024-25 · Re-Exam · Sem 3 · paper 9f4a53fa3c64
+
+- Departments: Computer Engineering, Data Science, Electronics and Telecommunication
+- Programmes: B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/MANAGEMENT ACCOUNTING FOR ENGINEERS/Management Accounting for Engineers , Batch 2022-23 & 2023-24 Re Exam.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 92.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT AND ENGINEERING
+SCHOOL OF TECHNOLOGY MANAGEMENT AND ENGINNERING
+
+Academic Year: 2024-2025
+Program/s: B Tech / MBA Tech /BTI
+
+Stream/s ; COMP/EXTC/DS/CSE DS/MXTC/cs
+
+Subject: Management Accounting for Engineers
+Date:_03/ 12 / 2024
+
+Marks: 100
+
+Year: I/II Semester: i/v
+
+Time:3 hrs (10 to 1),
+ms
+No. of Pages: 5
+
+Final Examination (2024 - 25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _!___ is compulsory,
+
+2) Out of remaining questions, attempt any __4 questions.
+3)Inall__5 questions to be attempted.
+
+4) All questions carry equal marks,
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: [20]
+a. a) Identify the types of cost as under: (Under both category-whether it is
+direct/indirect and fixed/variable))
+| Cost Direct / | Fixed /
+CO-2 > so- Indirect | Variab
+. , le
+‘BL- Salary of Production Supervisor
+Materials consumed (silk) for production (silk 5
+Understa sarees)
+nd Wages for labourers who work in the factory
+Salaries of Office Staff & Managers
+Vehicle expenses used for transport of workers
+(factory-home-factory)
+b. The fixed costs for the year are Rs. 600,000. The selling price per unit is Rs. 150,
+CO- 3; SO- and the variable cost per unit is Rs. 100. The firm sold 15000 units during the
+; year.
+BL-Apply A) Calculate the break-even point in units and in rupees
+B) Calculate the Margin of Safety
+
+CO- 4; SO- | c. To produce 10 units of Finnish goods, raw materials of 20 kg are required at
+; Rs.2.25 per kg. During an accounting period 10 units are manufactured by
+--- page 2 ---
+employing 25 kg of raw materials at the rate of Rs.2.00. Calculate Material
+
+BL-Apply
+price variance and Material usage variance.
+co-1; SO- | d.
+“aL. “Managerial Accounting helps managers to take strategic decisions in the 5
+firm.” Justify the above statement.
+Understa
+nd
+a A company requires components beta for manufacturing a product. The
+following are the particulars for the year.
+4. Animal demand for beta 32,000 units.
+Q2 2. Cost of placing an order Rs.400 per order
+CO-3: SO- 3. Cost per unit of beta Rs.800
+. , 4. Cost of carrying, 20% per annum. 15
+‘BL Discount of 4% on beta has been offered to the company for an order
+Analyze size of 4000 components at a time ;
+a) Calculate the economic order quantity, total cost, ordering cost,
+carrying cost for both at actual price and at discounted price
+b) Advise whether the company accepted the discounted offer.
+Q2 b
+CO-1; SO- ‘Accounting is the language of businesses, and it helps to prepare financial
+: reports of a business, which many stakeholders are interested in. As an
+BL- Engineering student, how would you substantiate the importance of accounting 5
+Understa for engineers?
+nd
+A company annually manufactures and sells 20000 units of a product, the
+selling price of which is Rs. 50 and the profit earned is Rs. 10 per unit.
+The analysis of the cost of 20,000 units is
+Material cost Rs. 300000
+Labour cost Rs. 100000
+Overhead (50% variable) Rs. 400000
+Q3 You are required to compute
+a) Contribution per unit
+CO-3; SO- b) P/V Ratio [20]
+: BL- c) Break even sales in Rs.
+Analyze d) Break even sales in units
+e) Sales required to earn a profit of Rs. 300000
+
+f) Profit when sales are 18000 units
+g) Margin of safety when actual sales are Rs. 600000
+fthe following changes on P.V. ratio, break-even
+
+h) Analyze the impact o
+point in each of the following cases: (Do each point individually)
+
+(i) Decrease of 10% in selling price.
+(ii) Increase of 10% in Variable costs.
+--- page 3 ---
+From the following particulars, prepare a Cost Statement showing the
+components of Total Cost and Profit for the year ended 31% March, 2024.
+
+Rs. Rs.
+Purchase of Raw | 4,75,000 Sales for the year 8,60,000
+Material
+Carriage Inwards 12,500 Selling Expenses 9,250
+Wages 1,75,000 Opening Stock of | 6,000
+Finished Goods (as
+on 1-4-2023)
+Works Manager's | 30,000 Closing Stock of 15,000
+Q4 Salary Finished Goods (as
+. on 31-3-2024)
+©0-2; =e Factory Employees’ | 60,000 Opening Stock of | 40,000 [20]
+, Salaries Raw Materials (as
+BL-Apply on 1-4-2023)
+Factory Rent , taxes | 7,250 Closing Stock of | 50,000
+and insurance Raw Materials (as
+on 31-3-2024)
+Power Expenses 9,500 Opening Stock of | 15,000
+Work-in-progress
+(as on 1-4-2023)
+Other Production | 43,000 Closing Stock of | 10,000
+Expenses Work-in-progress
+(as on 31-3-2024)
+| General Expenses 32,500
+a
+
+A firm sells 25000 units at a selling price of Rs. 5 per unit. Its fixed cost
+7 is Rs. 40,000 and variable expenses Rs. 50,000. Find out the break even
+Q point for the firm. Also, find out BEP in units in each of the cases:
+
+CO-3; 7 1) The selling price is increased by 30% [12]
+‘BL- 2) The fixed cost is increased by 15%
+
+Analyze 3) The fixed cost is decreased by 25%
+
+4) The selling price is deceased by 20%
+
+Q5 b
+
+CO-3; SO-
+
+; Explain Budgeting along with the advantages a company may get from
+
+BL- Budgeting process, [8]
+Understa
+
+nd
+Q6 a. Materials are the most important element of variable cost of a production
+
+[8]
+process. Therefore, material control is a headache for the management. However,
+--- page 4 ---
+are multiple material control techniques available at present. Explain the
+
+CO-2; SO- there
+; following techniques of material control.
+BL- A) ABC
+B) FSN
+Understa
+nd
+b. A manufacturing company is operating at 75% of normal capacity.
+
+00 units. It is proposed to offer a price
+
+Normal capacity is 1,00,0!
+me desired.
+
+reduction of 5% to 10% depending upon the sales volu
+Given below are the relevant data.
+
+Capacity 75% 85% 100% |
+Output {units} 75,000 85,000 1,00,000
+Selling price per R96 5% off 10% off
+unit
+Material cost per 240 10% less 15% less
+Q6 unit
+CO-5; SO- Wages cost per 210 X10 R10
+; unit [12]
+BL-
+Fixed overheads:
+Create Production %14,00,000
+
+Selling and administration 35,00,000
+
+Variable overhead:
+
+Production % 14,00,000 @ normal capacity
+
+Selling and administration % 4,40,000 @ normal capacity
+
+(a) Prepare a single statement to show profit/Loss at each level of
+output.
+
+(b) Compute unit variable cost, ui
+different levels of output and
+
+(c) Indicate which of the 3 levels is most profitable.
+
+nit fixed cost and unit total cost at
+
+For the manufacture of a product X, two components A and B are used. The
+
+a.
+following particulars about the components are
+Normal usage for A and B (per week) 300 nos
+Q7 Maximum usage of A and B (per week) 450 nos.
+[8]
+
+CO-2; SO- Minimum usage of A and B (per week) 150 nos.
+
+Reorder Quantity A — 2400 nos,
+
+BL-Apply
+B —3600 nos.
+--- page 5 ---
+Reorder period A- 4 to 6 weeks,
+B-2 to 4 weeks.
+You are required to calculate the following for both the components.
+Reorder Quantity
+Maximum level
+Minimum level
+
+Average level
+
+b. The following are the details for P Ltd for the month of Jan 2023.
+The Standard labour hours required for manufacture of one article of the
+finished product and the rate per hour are as under:
+
+Labour hours per Rate per labour
+
+Category of labour unit hour
+
+Skilled 10 100
+
+Semi Skilled 7 50
+
+Unskilled 12 20
+Q7
+
+The Actual production in a month was 100 articles.
+
+CO-4; SO- . . [12]
+. The details of actual hours worked by the different labour categories and the
+BL-Apply rate per labour hour are as under:
+
+Labour hours for 100
+
+Category of labour | units Rate per labour hour
+
+Skilled 1020 110
+Semi Skilled 690 55
+Unskilled 1220 19
+
+Calculate the following labour variances from the following data:
+Labour rate variance
+
+Labour efficiency variance
+
+Labour cost variance
+--- page 6 ---
+
+````
+
+## 2024-25 · Re-Exam · Sem 3 · paper 94ac8d87be25
+
+- Departments: Common (all branches), Computer Engineering, Data Science, Electronics and Telecommunication
+- Programmes: B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / EXTC, B.TECH INTEGRATED, MBA TECH / COMPUTER, MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/MANAGEMENT ACCOUNTING FOR ENGINEERS/Management Aconting for Engineers, Sem-III, Batch 2022-23 & 2023-24 Re Exam.pdf` (+5 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 92.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B.Tech./MBA Tech/BTI Stream ;_COMP, EXTC, CS, CE, DS Year: II/III Semester: 11/v
+Subject: Management Accounting for Engineers Time: 3 hrs ((pzoqanto 2 Odper)
+Date: 2} / 2/2026 No. of Pages:5
+
+Marks: 100
+
+Re-Examination (2022-23/ 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___is compulsory.
+
+2) Out of remaining questions, attempt any _ 4 questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+
+al Classify the following on the basis of traceability (Direct/Indirect) to a product.
+CO-2 ; SO- (i) Depreciation of office furniture
+a (ii) Cost of a speaker in a radio set [5]
+Sdnels iii) Paper used for printing a book
+nd (iv) Bottle used for filling in a soft drink
+
+(v) Bank charges
+
+CO- 5; SO- b. M/s Ltd. sells a product at Rs.10, each and the variable cost is Rs.6, each , fixed
+: cost is Rs.400 per annum and actual sales is 200 units. Calculate: (a) Break even | [5]
+BL-Apply Point in units and Rupees. (b) Margin of safety in units and Rupees.
+CO- 4; SO- on Paradise Energy Company produces a product with a direct labour standard of
+; 4.5 hours per unit at a rate of Rs. 13.50 per hour. During July total of 2,200 [5]
+BL-Apply units were produced using 9,825 labour hours at an actual cost of Rs. 135,094.
+--- page 2 ---
+How much is the total direct labour variance for July?
+
+CO-1; SO- | d. Cost accounting is a system of foresight and not a postmortem
+‘BL: examination. In this context, explain the five advantages of cost | [5]
+Understa accounting.
+nd
+Bright One Limited Co. produces a product which has annual demand of
+6,50,000 units. Material is purchased at Rs. 104 per unit. The ordering
+cost is Rs. 200 per order and carrying cost is 10% p.a. Calculate the
+Q2a .
+following:
+CO-2; SO- . : 5
+: i) Economic Order Quantity (EOQ) [15]
+BL- ii) Total Inventory Cost
+enaiee iii) Should the company accept an offer of 3% discount by the
+supplier who wants to supply the annual requirement of the
+material in the five equal instalments?
+Q2b
+CO-1; 50-
+; Limitations of financial accounting have made the management to realize 5]
+BL- 5
+: the importance of cost accounting. Comment.
+Understa
+nd
+The various financial information related to Company; A Ltd. has been
+furnished below:
+Sales Units 30000
+Fixed cost Rs. 68,000
+Sales Rs. 450,000
+Q3 Variable cost p.u Rs. 9
+CO-5; SO- [20]
+> BL- Calculate the following:
+Analyze i) P/V Ratio, Break-even point (BEP) (in Rupees), and Margin of Safety
+(MOS) (6 Marks)
+ii) Number of units to be sold to earn a profit of Rs. 175,000
+(2 Marks)
+
+iii) Analyze the impact on revised P/V Ratio, BEP (in Rupees) in the
+
+following cases
+a) If Selling price is reduced by 10% (6 Marks)
+
+2
+--- page 3 ---
+b) If Variable cost is increased by 20% (6 Marks)
+
+The following particulars have been taken from the books of
+Galaxy Ltd for the year ended 31 March 2024
+
+Particulars Rs.
+Direct materials 100,000
+Depreciation on plant and machinery 30,000
+Demonstration expenses 9975
+Dividend received 5000
+General managers salary 50,000
+Goodwill written off 6000
+Direct wages 1,25,000
+Sales promotion expenses 49,875
+Q4 Purchase of furniture 1,00,000
+: Depreciation on delivery van 11,400
+CO-2; SO- Office maintenance charges 15,000
+i Mailing charges on sales literature 3,800 | | [20]
+BL- Director's fees 50,000
+Office salaries . : 1,00,000
+Create Opening a stock of finished goods (100 units) 14,950
+Other information:
+a) Number of units sold during the year 1900.
+b) Profit desired on sales is 10%.
+c) The closing stock of Finnish goods was 200 units to be valued at the
+cost of production.
+Create a cost sheet for the year ended March 2024 for the activity and cost
+listed above.
+a Steep, Inc. budgeted 6,000 cup holders for March. Each holder is sold for
+Rs.12.
+Actual production for March was 6,300 cup holders. Standards and actual costs
+follow for March:
+Q5 Standards Actual
+6,400 kgs purchased for
+CO-4; SO- Materials 1.1 kgs = a Rs.15,040; [12]
+; 8 6,450 kgs used
+BL-Apply Taner 0.10 hours @ 620 hours @ Rs. 14.30 per
+. Rs.14.00 per hour hour
+penal Rs.16,800 Rs. 18,400
+overhead
+peed Rs.9,600 Rs. 10,300
+overhead
+--- page 4 ---
+Determine labour cost variance, labour efficiency variance and labour rate
+
+variance.
+
+Q5 b
+CO-3; SO-
+; Describe the key steps involved in the budgeting process of a company. Why is
+
+ele each step important for effective budget management?
+Understa ;
+nd
+Q6 a.
+CO-2; SO-
+; Explain the benefits associated with ABC and VED systems of inventory [3]
+Et management.
+
+Understa
+
+nd
+
+b. Expected manufacturing costs for Beaver Street Manufacturing for June are as
+
+Q6 follows:
+
+CO-3; SO- Variable Costs per Unit Fixed Costs __ per Month
+
+, : Direct material Rs. 7.00 Supervisory salaries Rs. 17,000 2
+: Direct labor 3.50 Factory depreciation 4,500 [12]
+
+BL- Variable overhead —‘1.80 Other factory costs 3,100
+Create During June, the company produced 13,000 units. Prepare a flexible budget for
+
+13,000 units.
+
+7 Ek How activity based costing is different from traditional based costing. (Give 4
+
+CO-2; SO- point of differences). Also explain in which type of companies Activity based | [12]
+
+BL-Apply costing and Traditional costing will be suitable.
+
+b. Shriram Enterprises manufactures a special product ZED. The following
+particulars were collected for the year 2024:
+(a) Yearly demand of ZED 12,000 units
+
+= (b) Normal usage 50 units per week.
+
+CO-2; SO- (c) Minimum usage 25 units per week. [8]
+
+BL-Apply (d) Maximum usage 75 units per week.
+
+(e) Re-order period 4 to 6 weeks.
+(f) Re-order quantity 186 units
+--- page 5 ---
+Determine: Re-oreder level, Minimum level, Maximum level and Average
+stock level
+--- page 6 ---
+
+````
+
 ## 2024-25 · Re-Exam · Sem 3 · paper 26aa8e3ec453
 
 - Departments: Computer Engineering, Data Science, Electronics and Telecommunication, Mechatronics
@@ -9867,6 +10354,544 @@ BL-Apply Skilled Labour 5760 20 3,520 D5
 Semi- Skilled 3840 10 5,280 B)
 
 Labour Output 108 Units 90 Units
+````
+
+## 2023-24 · Exam not stated · paper 631f56509d87
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/Management Accounting for Engineers/Management Accounting for Engineers Batch 2022-23,2023-20001.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (5 pages), mean OCR confidence 89.5
+
+````text
+SVKM’S NMIMS _——
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING we
+
+Academic Year: 2023-2024
+Program: B Tech/MBA Tech/@rx Stream : (ALL) ;
+
+Yearf I/II Semester: II/V \E
+
+Subject: Management Accounting for Engineers Tinfes3 hrs. 0am) to 4 pm 9}
+Date:_05/02/24 No.\of Pages: 05° = "> ~ ¥/
+Marks: 100 Marks Yee 2
+Ne Z
+SS a
+
+a ‘3-24)
+Re- Examination (2022-22/2023~2 >)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer-Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of the remaining questions, attempt any 4 questions.
+
+3) Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks. .
+
+5) Answer of each new question to be started ona fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q-1
+
+CO- 1; SO-; a | Explain how Cost Accounting is helpful for an organization and what its 5
+BL- Remember advantages are.
+
+ABC Ltd. has furnished the following information:
+
+Answer briefly: 20
+
+b
+Particulars 2020- 2021 2021-2022
+z z ‘
+Sales (@ 10/unit) —_4,00,000 5,00,000
+CO-4 ; SO-; i
+BL- Evaluate Profit 60,000 1,00,000 5
+
+You are required to compute:
+
+(a) P/V Ratio.
+
+(b) Break-Even Point
+
+(b) Total variable cost for 2020-2021 & 2021-2022.
+
+The inventory requirement of a component is given below:
+
+(i) Maximum Consumption = 600 units per day
+CO-2 ; SO-; c | Gi) Minimum Consumption = 360 units per day
+BL- Evaliate (ii) Normal Consumption =380 units per day
+(iv) Reorder period = 10-15 days
+
+Page1of5
+--- page 2 ---
+(v) Reorder quantity = 4,000 units
+(vi) Normal reorder period = 13 days.
+
+Calculate:
+(a) Re-order level : (c) Maximum level
+(b) Minimum level (d) Average stock level
+
+From the following information provided by ABC Ltd. for the product X,
+calculate the Economic Order Quantity (EOQ).
+
+CO-2 ; SO- ; d | Monthly demand 4000 units 5
+BL- Evaluate Ordering cost Rs.180
+
+Annual Carrying cost 10% .
+
+Price per unit Rs.25 per kg
+
+Raw material required per unit of finished product 3 kg
+
+The following details are furnished by ABC Ltd. regarding the expenses
+
+incurred during the year ended 31 March 2023;
+
+Particulars zg
+Direct material 2,40,000
+Opening stock of finished goods(1,000 units) 85, 250
+Depreciation of plant and machinery 96, 000
+Loss on sale of machinery 17, 500
+a || rade fair expenses 85, 500
+Direct expenses 1,60,000
+General manager salary 3,80,000
+Q-2 Depression on delivery van 1,14,000
+CO-2; SO-; Office maintenance charges 1,88,000 ;
+BL- Evaluate Dividend paid 7,800 7
+Closing stock of finished goods (2,000 units) ? 15
+Direct wages 3,60,000
+Advertisement 1,85,250
+Depreciation on computers 1,72,000
+Drawing and designing expenses 54, 000
+Purchase of machinery 1,90,000
+Factory rent 1,50,000
+Sales (19,000 units) 22,80,000
+Closing stock of Finished goods to be valued at cost of production.
+You are required to prepare a cost sheet showing various elements of cost
+both in total and for units and also find out total profit and per unit profit.
+Q-2
+CO-2; SO-; b | How cost is classified on the basis of elements. Explain briefly. 5
+
+BL- Remember
+
+Page 2 of 5
+--- page 3 ---
+i
+
+‘
+From the particulars given below, find out the most profitable product’mix.
+
+Particulars Product Per unit (Rs.)
+Direct Materials A 10
+Direct Materials B 5
+Direct wages A . 3
+Q3 Direct wages B 2
+CO-4; SO-; a_ | Fixed Expenses — Rs.800
+
+BL- Evaluate
+(Variable expenses are allotted to products at 100% Direct Wages)
+
+a---- ARs. 20 15
+
+Sales Price
+
+Sales Price BRs.15
+
+Sales Mixtures:
+
+a) 100 units of Product A and 200 of B.
+b) 150 units of Product A and 150 of B.
+c) 200 units of Product A and 100 of B.
+
+Q-3 . . : oe
+CO-4 SO-: b es the meaning and calculation of P/V Ratio with an example and state 5
+BL- Understand Ses.
+
+The following particulars are extracted from the records of a company:
+
+PER UNIT
+PRODUCT A PRODUCT B
+Sales (Rs.) 100 120
+a Consumption of material 2Kg 3Kg ‘
+
+Material cost (Rs.) 10 15
+
+Direct wages cost (Rs.) 15 10
+A ; 15
+CO- 5; SO-; Direct expenses (Rs.) 5 6
+BL-Apply
+
+Machine hours used 3 Hrs 2 Hrs
+
+Overhead expenses:
+
+Fixed (Rs.) 5 10
+
+Variable (Rs.) 15 20
+
+Direct wages per hour is Rs. 5
+
+Page 3 of 5
+--- page 4 ---
+¥
+
+(a) Comment on the profitability of each product (both use the same raw
+material) when :
+
+1) Total sales potential in units is limited;
+
+2) Total sales potential in value is limited;
+
+3) Raw material is in short supply;
+
+4) Production capacity (in terms of machine hours) is the limiting factor.
+
+(b) Assuming raw material as the key factor, availability of which is 10,000
+Kgs. and each product cannot be sold more than 3,500 units find out the
+product mix which will yield the maximum profit.
+
+The amount of expenses incurred for of a plant servicing department is given
+
+below:
+Expenses Cost at 6000 service | Cost at 9000 service
+" hour (Rs.) hour (Rs.)
+Q-4 Salaries 28,000. 28,000 5
+CO- 3; SO-; Indirect Materials 42,000 63,000
+BL-Evaluate
+Miscellaneous Costs 16,000 20,500
+Compute the amount of expenses if the plant works for 7000, 8000 and 9500
+hours.
+Princess & Co. produces 4000 units per month of a certain product at 100%
+capacity. The following information is obtained:
+JAN FEB
+Units produced 2,800 3,600
+Rs. Rs.
+Repairs and maintenance 500 560
+Power 1800 . 2000
+Q5 Shop labour 700 900
+CO BOs Cc ble stor 00 isoo | (3S
+BL-Apply a onsumable stores 14
+Salaries 1400 1400
+Depreciation 300 300
+Rate of production per hour is 10 units. Direct material cost per unit is Rs.1
+and direct wages per hour is Rs. 4 per hour for 10 units
+You are required to prepare a Flexible Budget and compute the cost of
+production at 100%, 80%, 60% capacity level.
+Q-5 . . . .
+CO-3; SO-; b What is a Budget and explain the importance of Budgeing for an 5
+
+BL- Understand organization.
+
+Page 4o0f 5
+--- page 5 ---
+¥
+
+The Standard Labour component and the actual labour component
+engaged in a week for a job are as under:
+
+Skilled Semi-Skilled Unskilled
+__| Workers _| Workers Workers
+Standard numbers of 32 iv: 6
+workers in the gang ;
+Standard wage rate per hour 3 20 1
+PA @
+al 7 SO-; a Actual number of workers 28 18 4 Wi
+- Evaluate ; ' .
+employed in the gang during
+the week
+Actual wage rate per hour (&) 4 : 3 r]
+During the 40-hour working week,.the gang produced 1,800 standard
+labour hours of work. Calculate Labour Cost Variance, Labour Rate
+Variance and Labour Efficiency Variance.
+Q-6
+CO-1; SO-; b Explain how an organization can be benefited by implementing the 5
+BL- Remember Activity Based Costing system.
+& Understand
+The standard cost of producing a particular product is given below:
+Materials. : 10 kg of A @ &5 per kg
+:15 kg of B@ &7 per kg
+Labour. : 20Hrs. @& 10 per hour
+4: SO a During a production cycle, the company produced 500 units by spending 12
+BL- Evaluate the following expenses on Material & Labour;
+Actual Material. : 4800 kg of A @ 2 4.89 per kg t
+: 7650 kg of B @ 2 7.20 per kg
+Actual labour. : 9800 Hrs. @ % 9.50 per hour
+Calculate the Material and Labour variances .
+Calculate EOQ (Economic Order Quantity), number of orders and Time gap
+between orders (In No. of days) to be placed by applying formula from the
+Q-7 following particulars:
+CO-2; SO-; 8
+BL-Apply b fi. Annual requirement of raw material 60,000 units.
+ii. Ordering Cost per order = 600.
+ili. Cost of deterioration, taxes, insurance, supervision cost % 1 per unit
+
+iv. Opportunity Cost of Capital of investment % 1 per unit.
+
+THE END
+
+Page 50f5
+````
+
+## 2023-24 · Final + Re-Exam · Sem 2 · paper eaadc855d73f
+
+- Departments: Artificial Intelligence, Civil, Common (all branches), Computer Engineering, Cyber Security, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: B TECH, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B.TECH INTEGRATED, B.TECH INTEGRATED / MECHANICAL, MBA TECH, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/MANAGEMENT ACCOUNTING FOR ENGINEERS/Management Accounting for Engineers, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf` (+13 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 90.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+Program: B Tech/MBA Tech/B.Tech (Intg.) Year: I/II/MV/IV
+Stream: (CE/CS/IT/MECH/CIVIL/CSE-CS/AI/EXTC/AIML/A IDS) Semester: I/IV/VI/VIII
+Subject: Management Accounting for Engineers Time: 3 hrs. Wes am to 4 ™m)
+
+Date:_27 /04 /24.
+Marks: 100 Marks
+
+MPSTME
+AVE as
+Final Examination/Re-examination (2021- 22/ 20- 23). BRARY
+
+Instructions: Candidates should read carefully the instructions printed on the question, paper and on | the
+, cover of the Answer Book, which is provided for their use. :
+
+1) Question No. _1___ is compulsory.
+
+2) Out of the remaining questions, attempt any 4 | - questions.
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer of each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q-1
+
+Answer briefly: 20
+CO- 1; SO- ; a
+BL- Remember What are the different Branches of Accounting and explain their purposes. | 5
+& Understand
+CO-4: S0-: A company’s total fixed cost is € 80000 for the year 2023. If the product’s
+BL- Evaluate b | variable cost and selling price are = 10 and ¥ 15 per unit respectively, find | 5
+_ out its Contribution, PV Ratio and BEP (Units & Rs.).
+
+The annual demand for an item is 3,200 units. The cost per unit is = 6 and
+inventory carrying charges are 25% p.a. If the cost of one order is = 150,
+CO-2 ; SO- ; Calculate:
+BL- Evaluate ec |(a)E.O.Q (Economic Order Quantity)
+(b) No. of orders per year
+(c) Time between two consecutive orders.
+
+From the following information, calculate:
+(i) — Labour Cost Variance
+(ii) Labour Rate Variance
+(iii) _ Labour Efficiency Variance 5
+Particulars Standard Actual
+Number of hours per unit 360 400
+Rate per hour (Rs.) 1.50 1.40
+
+CO-4; SO-; d
+BL- Evaluate
+
+Page 1 of 4
+--- page 2 ---
+ta
+
+Q-2
+CO-2; SO-;
+BL- Evaluate
+
+From the following data extracted from the books of ABC Industries, prepare
+a Cost Sheet for the year 2023.
+
+Particulars Rs.
+Opening stock of raw materials 50000
+Closing stock of raw materials 80000
+Purchases of raw materials 170000
+Carriage inwards 10000
+Direct wages 150000
+Indirect wages 20000
+Other direct charges 30000
+Rent and rates-factory 10000
+Rent and rates — Office 1000
+Indirect materials - Factory 1000
+Depreciation on plant 3000
+Depreciation on office furniture 200
+Office salaries 5000
+Salesman Salary _ - 4000
+Other office expenses 1800 15
+Other factory expenses | 11400
+Managing Director’s remuneration 24000
+
+_| Other selling expenses 2000
+Travelling expenses 2200
+Carriage outwards 2000
+Sales 500000
+Advance income tax paid 30000
+Advertisement 4000
+
+Opening stock of finished goods (2000 units) | 80000
+Closing stock of finished goods (2000 units) _| ------
+
+Given that, the number of units sold during the year was 10000. The
+managing director’s remuneration is to be allocated as Rs.8000 to the factory,
+Rs.12000 to the office and Rs.4000 to the selling department.
+
+Q-2
+CO-2; SO-;
+BL- Remember
+
+Explain VED and FSN techniques of Inventory control. 5
+
+CO-S; SO-;
+BL- Apply
+
+Classic Pen Co. produces and sells two different models of its pens named
+SMART and EXCELLENT. The selling price of each SMART pen is
+
+'Rs.90 per pen and its variable cost per unit is Rs.70. Each pen of the
+
+EXCELLENT model is sold at a price of Rs.140 and the variable cost per
+pen is Rs.95. The total fixed costs of the company is Rs. 2,00,000. It is
+estimated that the volume of sales of the SMART model is approximately
+80% of the total sales of the company. Calculate the BEP of each model of
+pen and the BEP of the company in total (Units & Rs.).
+
+Page 2 of 4
+--- page 3 ---
+Q-3
+
+CO-4 SO-; BL-_ | b_ | What is Margin of Safety? Explain with an example. 5
+Understand
+The following information is available in respect of AXE Ltd. and BXE Ltd:
+Particulars © AXE Ltd. (Rs) | BXE Ltd. (Rs)
+Sales 11,00,000 14,00,000
+Variable cost 8,80,000 10,50,000
+Profit 1,20,000 2,00,000
+Q-4 :
+CO- 4; SO-; a Calculate: . 15
+BL- Evaluate i. P/V Ratio of both companies
+ii. Fixed Cost of both companies
+iii. - Break Even Point of both companies
+iv. Sales to earn a profit of Rs 2,10,000 by each company
+v. Margin of Safety of both companies.
+Q-4
+CO- 2; SO-; b | Explain any FIVE items that are excluded while preparing a Cost Sheet. 5
+
+BL- Remember
+
+Sahara Ltd. gives you the following cost details for the manufacture of
+roduct Z at a capacity level of 20,000 units.
+
+Particulars z Nature of
+Variability
+Direct Material 12,00,000 100% Variable
+a Direct Labour 8,00,000 100% Variable
+Q-5 Factory Overheads :
+CO-3: SO-: - Lighting and Heating 4,80,000 75% Variable 15
+BL- Apply > - Repairs and Maintenance 3,60,000 50% Variable
+- Depreciation 4,80,000 100% Fixed
+Office Overheads 2,00,000 10% Variable
+Selling and Distribution Overheads _ | 3,00,000 _| 50% Variable
+Total 38,20,000
+Prepare a flexible budget for the production of 15,000 units and 25,000 units,
+showing total cost and unit cost at each level.
+Q6 . . What is a Budget and what is its importance? Explain the limitations of
+O35 80% > | Budgetin 5
+BL- Understand genng.
+Rajsekhar Textiles supplies you with the following details from its cost
+records:
+Q-6 Rs.
+CO- 2, SO-; Stock of raw materials on 1 September; 2023 65,000 | 12
+BL- Apply Stock of raw materials on 30 September, 2023 90,000
+Direct wages 51,000
+Indirect wages 3,750
+
+Page 3 of 4
+--- page 4 ---
+os
+Sales 2;00,000
+
+Work-in-progress on 1-9-2023 28,000
+Work-in-progress on 30-9-2023 35,000
+Purchases of raw materials 75,500
+Factory rent, rates and power 14,000
+Depreciation of plant and machinery 3,500
+Expenses on purchases 2,000
+Carriage outward 1,000
+Advertising 5,000
+Office rent and taxes . 2,500
+Travellers' wages and commission 6,500
+Stock of finished goods on 1-9-2023 54,000
+Stock of finished goods on 30-9-2023 31,000
+Income tax paid 12,000
+Interest on bank loan 6,000
+Bad debts 5,000
+
+Prepare a Cost Sheet from the above information.
+
+Q-6
+CO-1; SO-;
+BL- Remember
+
+What is Activity-Based Costing? Explain the advantages and disadvantages
+
+of Activity Based Costing. 8
+
+Q-7
+CO-4; SO-;
+BL- Evaluate
+
+The following details relating to a product are made available to you:
+
+Standard cost per unit :
+
+Material 50 Kg. @ ® 40 per Kg.
+
+Labour 400 hours @ @ | per hour.
+
+Actual Cost : 15
+Material 490 Kg. @ & 42 per Kg.
+
+Labour 3,960 hours @ % 1.10 per hour
+
+Actual production was 10 units.
+
+Calculate all Material and Labour variances.
+
+Q-7
+CO-2; SO-;
+BL- Evaluate
+
+Two components A and B are used as follows:
+
+Normal usage: 50 per week each
+
+Re-order quantity: A =300;B=500
+
+Maximum usage: 75 per week each
+
+Minimum usage: 25 per week each 5
+Re-order period: A= 4 to 6 weeks; B = 2 to 4 weeks
+
+Calculate for each component :
+a) Re-order level; (b) Minimum stock level; (c) Maximum stock level
+
+(d) Average stock level.
+
+THE END
+
+Page 4 of 4
 ````
 
 ## 2023-24 · Final-Exam · Sem 3 · paper cca145a1a68b
@@ -10333,488 +11358,246 @@ BL-3 repayment is in equal monthly installment over the next 30 years. What is t
 amount of the monthly payment?
 ````
 
-## 2023-24 · Re-Exam · Sem 3 · paper 9f4a53fa3c64
+## 2023-24 · Re-Exam · Sem 2 · paper a211f78ba45c
 
-- Departments: Computer Engineering, Data Science, Electronics and Telecommunication
-- Programmes: B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/MANAGEMENT ACCOUNTING FOR ENGINEERS/Management Accounting for Engineers , Batch 2022-23 & 2023-24 Re Exam.pdf` (+2 identical copies)
+- Departments: Common (all branches), Mechanical
+- Programmes: B TECH, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/MANAGEMENT ACCOUNTING FOR ENGINEERS/Management Accounting for Enigeerings Batch 2022-23,2021-22 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 92.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT AND ENGINEERING
-SCHOOL OF TECHNOLOGY MANAGEMENT AND ENGINNERING
-
-Academic Year: 2024-2025
-Program/s: B Tech / MBA Tech /BTI
-
-Stream/s ; COMP/EXTC/DS/CSE DS/MXTC/cs
-
-Subject: Management Accounting for Engineers
-Date:_03/ 12 / 2024
-
-Marks: 100
-
-Year: I/II Semester: i/v
-
-Time:3 hrs (10 to 1),
-ms
-No. of Pages: 5
-
-Final Examination (2024 - 25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _!___ is compulsory,
-
-2) Out of remaining questions, attempt any __4 questions.
-3)Inall__5 questions to be attempted.
-
-4) All questions carry equal marks,
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-Answer briefly: [20]
-a. a) Identify the types of cost as under: (Under both category-whether it is
-direct/indirect and fixed/variable))
-| Cost Direct / | Fixed /
-CO-2 > so- Indirect | Variab
-. , le
-‘BL- Salary of Production Supervisor
-Materials consumed (silk) for production (silk 5
-Understa sarees)
-nd Wages for labourers who work in the factory
-Salaries of Office Staff & Managers
-Vehicle expenses used for transport of workers
-(factory-home-factory)
-b. The fixed costs for the year are Rs. 600,000. The selling price per unit is Rs. 150,
-CO- 3; SO- and the variable cost per unit is Rs. 100. The firm sold 15000 units during the
-; year.
-BL-Apply A) Calculate the break-even point in units and in rupees
-B) Calculate the Margin of Safety
-
-CO- 4; SO- | c. To produce 10 units of Finnish goods, raw materials of 20 kg are required at
-; Rs.2.25 per kg. During an accounting period 10 units are manufactured by
---- page 2 ---
-employing 25 kg of raw materials at the rate of Rs.2.00. Calculate Material
-
-BL-Apply
-price variance and Material usage variance.
-co-1; SO- | d.
-“aL. “Managerial Accounting helps managers to take strategic decisions in the 5
-firm.” Justify the above statement.
-Understa
-nd
-a A company requires components beta for manufacturing a product. The
-following are the particulars for the year.
-4. Animal demand for beta 32,000 units.
-Q2 2. Cost of placing an order Rs.400 per order
-CO-3: SO- 3. Cost per unit of beta Rs.800
-. , 4. Cost of carrying, 20% per annum. 15
-‘BL Discount of 4% on beta has been offered to the company for an order
-Analyze size of 4000 components at a time ;
-a) Calculate the economic order quantity, total cost, ordering cost,
-carrying cost for both at actual price and at discounted price
-b) Advise whether the company accepted the discounted offer.
-Q2 b
-CO-1; SO- ‘Accounting is the language of businesses, and it helps to prepare financial
-: reports of a business, which many stakeholders are interested in. As an
-BL- Engineering student, how would you substantiate the importance of accounting 5
-Understa for engineers?
-nd
-A company annually manufactures and sells 20000 units of a product, the
-selling price of which is Rs. 50 and the profit earned is Rs. 10 per unit.
-The analysis of the cost of 20,000 units is
-Material cost Rs. 300000
-Labour cost Rs. 100000
-Overhead (50% variable) Rs. 400000
-Q3 You are required to compute
-a) Contribution per unit
-CO-3; SO- b) P/V Ratio [20]
-: BL- c) Break even sales in Rs.
-Analyze d) Break even sales in units
-e) Sales required to earn a profit of Rs. 300000
-
-f) Profit when sales are 18000 units
-g) Margin of safety when actual sales are Rs. 600000
-fthe following changes on P.V. ratio, break-even
-
-h) Analyze the impact o
-point in each of the following cases: (Do each point individually)
-
-(i) Decrease of 10% in selling price.
-(ii) Increase of 10% in Variable costs.
---- page 3 ---
-From the following particulars, prepare a Cost Statement showing the
-components of Total Cost and Profit for the year ended 31% March, 2024.
-
-Rs. Rs.
-Purchase of Raw | 4,75,000 Sales for the year 8,60,000
-Material
-Carriage Inwards 12,500 Selling Expenses 9,250
-Wages 1,75,000 Opening Stock of | 6,000
-Finished Goods (as
-on 1-4-2023)
-Works Manager's | 30,000 Closing Stock of 15,000
-Q4 Salary Finished Goods (as
-. on 31-3-2024)
-©0-2; =e Factory Employees’ | 60,000 Opening Stock of | 40,000 [20]
-, Salaries Raw Materials (as
-BL-Apply on 1-4-2023)
-Factory Rent , taxes | 7,250 Closing Stock of | 50,000
-and insurance Raw Materials (as
-on 31-3-2024)
-Power Expenses 9,500 Opening Stock of | 15,000
-Work-in-progress
-(as on 1-4-2023)
-Other Production | 43,000 Closing Stock of | 10,000
-Expenses Work-in-progress
-(as on 31-3-2024)
-| General Expenses 32,500
-a
-
-A firm sells 25000 units at a selling price of Rs. 5 per unit. Its fixed cost
-7 is Rs. 40,000 and variable expenses Rs. 50,000. Find out the break even
-Q point for the firm. Also, find out BEP in units in each of the cases:
-
-CO-3; 7 1) The selling price is increased by 30% [12]
-‘BL- 2) The fixed cost is increased by 15%
-
-Analyze 3) The fixed cost is decreased by 25%
-
-4) The selling price is deceased by 20%
-
-Q5 b
-
-CO-3; SO-
-
-; Explain Budgeting along with the advantages a company may get from
-
-BL- Budgeting process, [8]
-Understa
-
-nd
-Q6 a. Materials are the most important element of variable cost of a production
-
-[8]
-process. Therefore, material control is a headache for the management. However,
---- page 4 ---
-are multiple material control techniques available at present. Explain the
-
-CO-2; SO- there
-; following techniques of material control.
-BL- A) ABC
-B) FSN
-Understa
-nd
-b. A manufacturing company is operating at 75% of normal capacity.
-
-00 units. It is proposed to offer a price
-
-Normal capacity is 1,00,0!
-me desired.
-
-reduction of 5% to 10% depending upon the sales volu
-Given below are the relevant data.
-
-Capacity 75% 85% 100% |
-Output {units} 75,000 85,000 1,00,000
-Selling price per R96 5% off 10% off
-unit
-Material cost per 240 10% less 15% less
-Q6 unit
-CO-5; SO- Wages cost per 210 X10 R10
-; unit [12]
-BL-
-Fixed overheads:
-Create Production %14,00,000
-
-Selling and administration 35,00,000
-
-Variable overhead:
-
-Production % 14,00,000 @ normal capacity
-
-Selling and administration % 4,40,000 @ normal capacity
-
-(a) Prepare a single statement to show profit/Loss at each level of
-output.
-
-(b) Compute unit variable cost, ui
-different levels of output and
-
-(c) Indicate which of the 3 levels is most profitable.
-
-nit fixed cost and unit total cost at
-
-For the manufacture of a product X, two components A and B are used. The
-
-a.
-following particulars about the components are
-Normal usage for A and B (per week) 300 nos
-Q7 Maximum usage of A and B (per week) 450 nos.
-[8]
-
-CO-2; SO- Minimum usage of A and B (per week) 150 nos.
-
-Reorder Quantity A — 2400 nos,
-
-BL-Apply
-B —3600 nos.
---- page 5 ---
-Reorder period A- 4 to 6 weeks,
-B-2 to 4 weeks.
-You are required to calculate the following for both the components.
-Reorder Quantity
-Maximum level
-Minimum level
-
-Average level
-
-b. The following are the details for P Ltd for the month of Jan 2023.
-The Standard labour hours required for manufacture of one article of the
-finished product and the rate per hour are as under:
-
-Labour hours per Rate per labour
-
-Category of labour unit hour
-
-Skilled 10 100
-
-Semi Skilled 7 50
-
-Unskilled 12 20
-Q7
-
-The Actual production in a month was 100 articles.
-
-CO-4; SO- . . [12]
-. The details of actual hours worked by the different labour categories and the
-BL-Apply rate per labour hour are as under:
-
-Labour hours for 100
-
-Category of labour | units Rate per labour hour
-
-Skilled 1020 110
-Semi Skilled 690 55
-Unskilled 1220 19
-
-Calculate the following labour variances from the following data:
-Labour rate variance
-
-Labour efficiency variance
-
-Labour cost variance
---- page 6 ---
-
-````
-
-## 2023-24 · Re-Exam · Sem 3 · paper 94ac8d87be25
-
-- Departments: Common (all branches), Computer Engineering, Data Science, Electronics and Telecommunication
-- Programmes: B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / EXTC, B.TECH INTEGRATED, MBA TECH / COMPUTER, MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/MANAGEMENT ACCOUNTING FOR ENGINEERS/Management Aconting for Engineers, Sem-III, Batch 2022-23 & 2023-24 Re Exam.pdf` (+5 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 92.0
+- Text: ocr (4 pages), mean OCR confidence 91.9
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
+Academic Year: 2023-2024
 
-Program: B.Tech./MBA Tech/BTI Stream ;_COMP, EXTC, CS, CE, DS Year: II/III Semester: 11/v
-Subject: Management Accounting for Engineers Time: 3 hrs ((pzoqanto 2 Odper)
-Date: 2} / 2/2026 No. of Pages:5
+Program: B Tech/MBA Tech/B.Tech (Intg.) . Year: I/T/IIV/TV
 
-Marks: 100
+Stream: (CE/CS/IT/MECH/CIVIL/CSE-CS/AI/EXTC/AIML/AIDS) Semester: I/IV/VI/VII
+Subject: Management Accounting for Engineers Time: 3 hrs. (L0%#to 4p)
+Date:_2 / 7 /24. No. of Pages: 04
 
-Re-Examination (2022-23/ 2023-24)
+Marks: 100 Marks
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+‘Re-examination (2022- 23/2021- 22)
+Instructions: Candidates should read d carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-1) Question No._1___is compulsory.
+1) Question No._1___ is compulsory.
 
-2) Out of remaining questions, attempt any _ 4 questions.
-
-3) In all__5_ questions to be attempted.
+2) Out of the remaining questions, attempt any __4 _ questions.
+3) Inall___5__ questions to be attempted.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5) Answer of each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
+6) Figures in brackets on the right-hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql
-Answer briefly: [20]
+Ql Answer briefly: : 20
+aD bd Be es 3 | Define Cost Accounting. State its objectives. 5
+The results of a company for the last two years are as follows:
+Year Sales (%) Profit (%)
+2022 1,50,000 20,000
+CO-4 ; SO- ; b | | 2023 1,70,000 25,000 5
+BL- Evaluate You are required to calculate:
+(i) P/V Ratio
+(ii) B.E. P
+(iii) The sales required to earn a profit of = 40,000.
+The following information is available. with respect to a material:
+Re-order quantity = 1,500 units
+Re-order period = 4 — 6 weeks
+c | Maximum consumption = 400 units per week
+CO-2 ; SO- ; Normal consumption = 300 units per week 5
+BL- Evaluate Minimum consumption = 250 units per week
+Emergency Re-order Period = 2 weeks
+Calculate :
+(a) Re-order level (c) Maximum level
 
-al Classify the following on the basis of traceability (Direct/Indirect) to a product.
-CO-2 ; SO- (i) Depreciation of office furniture
-a (ii) Cost of a speaker in a radio set [5]
-Sdnels iii) Paper used for printing a book
-nd (iv) Bottle used for filling in a soft drink
+(b) Minimum level (d) Average stock level
 
-(v) Bank charges
-
-CO- 5; SO- b. M/s Ltd. sells a product at Rs.10, each and the variable cost is Rs.6, each , fixed
-: cost is Rs.400 per annum and actual sales is 200 units. Calculate: (a) Break even | [5]
-BL-Apply Point in units and Rupees. (b) Margin of safety in units and Rupees.
-CO- 4; SO- on Paradise Energy Company produces a product with a direct labour standard of
-; 4.5 hours per unit at a rate of Rs. 13.50 per hour. During July total of 2,200 [5]
-BL-Apply units were produced using 9,825 labour hours at an actual cost of Rs. 135,094.
+Page 1 of 4
 --- page 2 ---
-How much is the total direct labour variance for July?
+From the following information, compute material variances:
 
-CO-1; SO- | d. Cost accounting is a system of foresight and not a postmortem
-‘BL: examination. In this context, explain the five advantages of cost | [5]
-Understa accounting.
-nd
-Bright One Limited Co. produces a product which has annual demand of
-6,50,000 units. Material is purchased at Rs. 104 per unit. The ordering
-cost is Rs. 200 per order and carrying cost is 10% p.a. Calculate the
-Q2a .
-following:
-CO-2; SO- . : 5
-: i) Economic Order Quantity (EOQ) [15]
-BL- ii) Total Inventory Cost
-enaiee iii) Should the company accept an offer of 3% discount by the
-supplier who wants to supply the annual requirement of the
-material in the five equal instalments?
-Q2b
-CO-1; 50-
-; Limitations of financial accounting have made the management to realize 5]
-BL- 5
-: the importance of cost accounting. Comment.
-Understa
-nd
-The various financial information related to Company; A Ltd. has been
-furnished below:
-Sales Units 30000
-Fixed cost Rs. 68,000
-Sales Rs. 450,000
-Q3 Variable cost p.u Rs. 9
-CO-5; SO- [20]
-> BL- Calculate the following:
-Analyze i) P/V Ratio, Break-even point (BEP) (in Rupees), and Margin of Safety
-(MOS) (6 Marks)
-ii) Number of units to be sold to earn a profit of Rs. 175,000
-(2 Marks)
+Standard Actual
+CO-4; SO-; Material | Qty. Rate Total Qty. Rate Total 5
+BL- Evaluate d (Kg.) | (Rs) (Rs) (Kg.) (Rs) (Rs)
+Xx 100 20 2,000 50 30 1,500
+Y 200 30_ 6,000 _| 100 60 6,000
+Z 200 60 12,000 | 150 50 7,500
+The following information has been obtained from the books of Rolex Ltd.,
+for the year ending March 2023.
+Opening Stock Level (1-04-2022) Rs.
+Stock of Raw material 470000
+Stock of Work-in-Progress 188000
+Stock of Finished Goods 344000
+Closing Stock Level (31-03-2023)
+Stock of Raw material 569000
+Stock of Work-in-Progress 230000
+Stock of Finished Goods 206000
+Q2 a Other Expenses:
+a arn Bad Debts 35000
+Cost of Catalogues 41000 15
+Depreciation of Office Furniture 35000
+Depreciation on Plant and Machinery ‘41000
+Direct expenses 29000
+Director's Fees 59000
+Factory Rent 170000
+Direct wages 335000
+Raw material Purchased 416000
+Repair of Machinery , 36500
+Salesmen's Salaries and commission 59000
+Goods are sold at a profit of 25% of the Selling price. Prepare a cost sheet
+from the above information.
+Q-2 b Explain the meaning, advantages and disadvantages of JIT System of
+CO-2; SO-; Inventory Management 5
 
-iii) Analyze the impact on revised P/V Ratio, BEP (in Rupees) in the
+BL-.Remember
 
-following cases
-a) If Selling price is reduced by 10% (6 Marks)
+Page 2 of 4
 
-2
+>
+
+—
 --- page 3 ---
-b) If Variable cost is increased by 20% (6 Marks)
+i
 
-The following particulars have been taken from the books of
-Galaxy Ltd for the year ended 31 March 2024
+Darwin Ltd. annually manufactures and sells 20,000 units of a preduct, the
 
-Particulars Rs.
-Direct materials 100,000
-Depreciation on plant and machinery 30,000
-Demonstration expenses 9975
-Dividend received 5000
-General managers salary 50,000
-Goodwill written off 6000
-Direct wages 1,25,000
-Sales promotion expenses 49,875
-Q4 Purchase of furniture 1,00,000
-: Depreciation on delivery van 11,400
-CO-2; SO- Office maintenance charges 15,000
-i Mailing charges on sales literature 3,800 | | [20]
-BL- Director's fees 50,000
-Office salaries . : 1,00,000
-Create Opening a stock of finished goods (100 units) 14,950
-Other information:
-a) Number of units sold during the year 1900.
-b) Profit desired on sales is 10%.
-c) The closing stock of Finnish goods was 200 units to be valued at the
-cost of production.
-Create a cost sheet for the year ended March 2024 for the activity and cost
-listed above.
-a Steep, Inc. budgeted 6,000 cup holders for March. Each holder is sold for
-Rs.12.
-Actual production for March was 6,300 cup holders. Standards and actual costs
-follow for March:
-Q5 Standards Actual
-6,400 kgs purchased for
-CO-4; SO- Materials 1.1 kgs = a Rs.15,040; [12]
-; 8 6,450 kgs used
-BL-Apply Taner 0.10 hours @ 620 hours @ Rs. 14.30 per
-. Rs.14.00 per hour hour
-penal Rs.16,800 Rs. 18,400
-overhead
-peed Rs.9,600 Rs. 10,300
-overhead
+selling price of which is Rs. 50 and the profit earned is Rs. 10 per unit.
+The analysis of the cost of 20,000 units is:
+
+Material Cost Rs. 3,00,000
+Labour Cost Rs. 1,00,000
+Overheads (50% variable) — Rs. 4,00,000
+Q3 ‘ , : .
+CO-5: SO-: From the above information, you are required to compute:
+BL- Apply (i) Contribution per unit 15
+(ii) P/V Ratio
+(iii) | Break Even Sales.in Rs.
+(iv) | Break Even Sales in units
+(v) Sales required to earn a profit of Rs. 4,00,000
+(vi) Profit when sales are 18,000 units
+(vii) _ Margin of safety when actual sales are Rs. 7,00,000.
+Q-3
+CO-4 SO-; BL- What is Profit-Volume Ratio (P/V Ratio)? Explain with an example. 5
+Understand
+The following figures relate to Amit Ltd.
+Selling price per unit Rs. 40
+Direct materials per unit Rs. 12
+Direct labour per unit ; Rs. 9
+Other variable overheads per unit Rs. 7
+Fixed factory overheads Rs. 3,20,000
+Q-4 Fixed office overheads Rs. 4,30,000
+CO- 5; SO-; Calculate: 15
+BL- Apply (1) P/V Ratio
+(2) Break Even Sales in Units and Rs.
+(3) Sales to earn a profit of Rs. 4,50,000
+(4) New Break Even Point in Rs. and Units if total fixed overheads are
+increased by 15%.
+Q-4
+CO- 2; SO-; Explain the classification of costs on the basis of behaviour or variability. 5
+BL- Remember
+Sigma Ltd. is currently manufacturing and selling 80000 units. It is eurrently
+operating at 80% capacity level. Following is the budget prepared if the
+company is operating at 80% capacity.
+Cost per Unit
+(Rs.)
+Q-5 Direct Material 20
+CO-3; SO-; Direct Labour 15 15
+BL-Apply Direct Expense 10
+Production Overhead (50% Variable) 50
+Administrative Overhead (100% Fixed) 25
+Selling and Distribution Overhead (80% Variable) 30
+
+Prepare.a Flexible Budget showing total cost and per unit cost, if the canipeny
+
+operates at 60% and 100% level.
+
+Page 3 of 4
 --- page 4 ---
-Determine labour cost variance, labour efficiency variance and labour rate
+i
 
-variance.
+Q-5
+CO-3; SO-;
+BL- Understand
 
-Q5 b
-CO-3; SO-
-; Describe the key steps involved in the budgeting process of a company. Why is
+What is a Flexible Budget? How it is different from a Fixed Budget? Explain
+the advantages of a flexible budget. 5
 
-ele each step important for effective budget management?
-Understa ;
-nd
-Q6 a.
-CO-2; SO-
-; Explain the benefits associated with ABC and VED systems of inventory [3]
-Et management.
+Q-6
+CO- 2, SO-;
+BL- Evaluate
 
-Understa
+From the following information, prepare a Cost Sheet:
+Opening stock of Raw material — Rs.50,000 ;
+Closing stock of Raw material — Rs. 60,000
+Opening stock of WIP — Rs. 20,000
+Closing stock of WIP- Rs. 25,000
+Raw material purchased — Rs. 1,00,000
+Import duty on Raw material- Rs. 15,000
+Direct labour - Rs 5,000
+Direct chargeable expenses — Rs. 10,000
+Machine hours worked — 20000 hours
+Machine hour rate - Ks 2 per hour
+Administration overheads = 20% of work cost
+Selling overheads - Rs 0.25 per unit
+Units produced - Rs 20,000
+Units sold - 16,000 @ Rs 12 per unit
 
-nd
+12
 
-b. Expected manufacturing costs for Beaver Street Manufacturing for June are as
+on
 
-Q6 follows:
+Q-6
 
-CO-3; SO- Variable Costs per Unit Fixed Costs __ per Month
+CO-2; SO-;
+BL- Remember
+& Understand
 
-, : Direct material Rs. 7.00 Supervisory salaries Rs. 17,000 2
-: Direct labor 3.50 Factory depreciation 4,500 [12]
+ABC Ltd has a quarterly demand of 20,000 units. The product requires a
+Component Y which is purchased at = 20 per unit. For every finished product,
+5 units of the Component Y is required. The ordering cost is ¥ 2000 per order
+and the carrying cost is 10 % p.a. You are required to calculate: 8
+a) Economic Order Quantity(EOQ) for Component Y.
+b) Total number of orders to be placed in a year as per EOQ
+c) Time between two orders in the number of days. +
 
-BL- Variable overhead —‘1.80 Other factory costs 3,100
-Create During June, the company produced 13,000 units. Prepare a flexible budget for
+Q-7
+CO-4; SO-;
+BL- Evaluate
 
-13,000 units.
+The standard labour cost for producing 100 units of products is given below:
+Skilled Workers 40 Hours - Rs.500 per hour
 
-7 Ek How activity based costing is different from traditional based costing. (Give 4
+Semi-skilled Workers 50 Hours Rs.300 per hour
 
-CO-2; SO- point of differences). Also explain in which type of companies Activity based | [12]
+Un-skilled workers 70 Hours Rs.200 per hour
+The company manufactured 10000 for which the actual cost is as below:
+Skilled Workers 4100 Rs.525 per hour 12
 
-BL-Apply costing and Traditional costing will be suitable.
+Semi-skilled Workers 4900 Rs.295 per hour
 
-b. Shriram Enterprises manufactures a special product ZED. The following
-particulars were collected for the year 2024:
-(a) Yearly demand of ZED 12,000 units
+Un-skilled workers 7200 Rs.210 per hour
 
-= (b) Normal usage 50 units per week.
+Calculate:
+1. Labour Cost Variance
+2. Labour Price Variance
+3. Labour Efficiency Variance
 
-CO-2; SO- (c) Minimum usage 25 units per week. [8]
+Q-7
+CO-1; SO-;
+BL- Remember
 
-BL-Apply (d) Maximum usage 75 units per week.
+What is an Activity-Based Costing System? Explain its steps. How it is
 
-(e) Re-order period 4 to 6 weeks.
-(f) Re-order quantity 186 units
---- page 5 ---
-Determine: Re-oreder level, Minimum level, Maximum level and Average
-stock level
---- page 6 ---
+different from the Traditional Costing System. 8
 
+THE END
+
+Page 4 of 4
 ````
 
 ## 2023-24 · Re-Exam · Sem 4 · paper 2571ed30da0f
@@ -11090,539 +11873,190 @@ next three years, respectively. After that, the dividends are expected to increa
 of 15 percent?
 ````
 
-## 2022-23 · Exam not stated · paper 631f56509d87
+## 2022-23 · Exam not stated · Sem 2 · paper 09256a209135
 
 - Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/Management Accounting for Engineers/Management Accounting for Engineers Batch 2022-23,2023-20001.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (5 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS _——
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING we
-
-Academic Year: 2023-2024
-Program: B Tech/MBA Tech/@rx Stream : (ALL) ;
-
-Yearf I/II Semester: II/V \E
-
-Subject: Management Accounting for Engineers Tinfes3 hrs. 0am) to 4 pm 9}
-Date:_05/02/24 No.\of Pages: 05° = "> ~ ¥/
-Marks: 100 Marks Yee 2
-Ne Z
-SS a
-
-a ‘3-24)
-Re- Examination (2022-22/2023~2 >)
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer-Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks. .
-
-5) Answer of each new question to be started ona fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q-1
-
-CO- 1; SO-; a | Explain how Cost Accounting is helpful for an organization and what its 5
-BL- Remember advantages are.
-
-ABC Ltd. has furnished the following information:
-
-Answer briefly: 20
-
-b
-Particulars 2020- 2021 2021-2022
-z z ‘
-Sales (@ 10/unit) —_4,00,000 5,00,000
-CO-4 ; SO-; i
-BL- Evaluate Profit 60,000 1,00,000 5
-
-You are required to compute:
-
-(a) P/V Ratio.
-
-(b) Break-Even Point
-
-(b) Total variable cost for 2020-2021 & 2021-2022.
-
-The inventory requirement of a component is given below:
-
-(i) Maximum Consumption = 600 units per day
-CO-2 ; SO-; c | Gi) Minimum Consumption = 360 units per day
-BL- Evaliate (ii) Normal Consumption =380 units per day
-(iv) Reorder period = 10-15 days
-
-Page1of5
---- page 2 ---
-(v) Reorder quantity = 4,000 units
-(vi) Normal reorder period = 13 days.
-
-Calculate:
-(a) Re-order level : (c) Maximum level
-(b) Minimum level (d) Average stock level
-
-From the following information provided by ABC Ltd. for the product X,
-calculate the Economic Order Quantity (EOQ).
-
-CO-2 ; SO- ; d | Monthly demand 4000 units 5
-BL- Evaluate Ordering cost Rs.180
-
-Annual Carrying cost 10% .
-
-Price per unit Rs.25 per kg
-
-Raw material required per unit of finished product 3 kg
-
-The following details are furnished by ABC Ltd. regarding the expenses
-
-incurred during the year ended 31 March 2023;
-
-Particulars zg
-Direct material 2,40,000
-Opening stock of finished goods(1,000 units) 85, 250
-Depreciation of plant and machinery 96, 000
-Loss on sale of machinery 17, 500
-a || rade fair expenses 85, 500
-Direct expenses 1,60,000
-General manager salary 3,80,000
-Q-2 Depression on delivery van 1,14,000
-CO-2; SO-; Office maintenance charges 1,88,000 ;
-BL- Evaluate Dividend paid 7,800 7
-Closing stock of finished goods (2,000 units) ? 15
-Direct wages 3,60,000
-Advertisement 1,85,250
-Depreciation on computers 1,72,000
-Drawing and designing expenses 54, 000
-Purchase of machinery 1,90,000
-Factory rent 1,50,000
-Sales (19,000 units) 22,80,000
-Closing stock of Finished goods to be valued at cost of production.
-You are required to prepare a cost sheet showing various elements of cost
-both in total and for units and also find out total profit and per unit profit.
-Q-2
-CO-2; SO-; b | How cost is classified on the basis of elements. Explain briefly. 5
-
-BL- Remember
-
-Page 2 of 5
---- page 3 ---
-i
-
-‘
-From the particulars given below, find out the most profitable product’mix.
-
-Particulars Product Per unit (Rs.)
-Direct Materials A 10
-Direct Materials B 5
-Direct wages A . 3
-Q3 Direct wages B 2
-CO-4; SO-; a_ | Fixed Expenses — Rs.800
-
-BL- Evaluate
-(Variable expenses are allotted to products at 100% Direct Wages)
-
-a---- ARs. 20 15
-
-Sales Price
-
-Sales Price BRs.15
-
-Sales Mixtures:
-
-a) 100 units of Product A and 200 of B.
-b) 150 units of Product A and 150 of B.
-c) 200 units of Product A and 100 of B.
-
-Q-3 . . : oe
-CO-4 SO-: b es the meaning and calculation of P/V Ratio with an example and state 5
-BL- Understand Ses.
-
-The following particulars are extracted from the records of a company:
-
-PER UNIT
-PRODUCT A PRODUCT B
-Sales (Rs.) 100 120
-a Consumption of material 2Kg 3Kg ‘
-
-Material cost (Rs.) 10 15
-
-Direct wages cost (Rs.) 15 10
-A ; 15
-CO- 5; SO-; Direct expenses (Rs.) 5 6
-BL-Apply
-
-Machine hours used 3 Hrs 2 Hrs
-
-Overhead expenses:
-
-Fixed (Rs.) 5 10
-
-Variable (Rs.) 15 20
-
-Direct wages per hour is Rs. 5
-
-Page 3 of 5
---- page 4 ---
-¥
-
-(a) Comment on the profitability of each product (both use the same raw
-material) when :
-
-1) Total sales potential in units is limited;
-
-2) Total sales potential in value is limited;
-
-3) Raw material is in short supply;
-
-4) Production capacity (in terms of machine hours) is the limiting factor.
-
-(b) Assuming raw material as the key factor, availability of which is 10,000
-Kgs. and each product cannot be sold more than 3,500 units find out the
-product mix which will yield the maximum profit.
-
-The amount of expenses incurred for of a plant servicing department is given
-
-below:
-Expenses Cost at 6000 service | Cost at 9000 service
-" hour (Rs.) hour (Rs.)
-Q-4 Salaries 28,000. 28,000 5
-CO- 3; SO-; Indirect Materials 42,000 63,000
-BL-Evaluate
-Miscellaneous Costs 16,000 20,500
-Compute the amount of expenses if the plant works for 7000, 8000 and 9500
-hours.
-Princess & Co. produces 4000 units per month of a certain product at 100%
-capacity. The following information is obtained:
-JAN FEB
-Units produced 2,800 3,600
-Rs. Rs.
-Repairs and maintenance 500 560
-Power 1800 . 2000
-Q5 Shop labour 700 900
-CO BOs Cc ble stor 00 isoo | (3S
-BL-Apply a onsumable stores 14
-Salaries 1400 1400
-Depreciation 300 300
-Rate of production per hour is 10 units. Direct material cost per unit is Rs.1
-and direct wages per hour is Rs. 4 per hour for 10 units
-You are required to prepare a Flexible Budget and compute the cost of
-production at 100%, 80%, 60% capacity level.
-Q-5 . . . .
-CO-3; SO-; b What is a Budget and explain the importance of Budgeing for an 5
-
-BL- Understand organization.
-
-Page 4o0f 5
---- page 5 ---
-¥
-
-The Standard Labour component and the actual labour component
-engaged in a week for a job are as under:
-
-Skilled Semi-Skilled Unskilled
-__| Workers _| Workers Workers
-Standard numbers of 32 iv: 6
-workers in the gang ;
-Standard wage rate per hour 3 20 1
-PA @
-al 7 SO-; a Actual number of workers 28 18 4 Wi
-- Evaluate ; ' .
-employed in the gang during
-the week
-Actual wage rate per hour (&) 4 : 3 r]
-During the 40-hour working week,.the gang produced 1,800 standard
-labour hours of work. Calculate Labour Cost Variance, Labour Rate
-Variance and Labour Efficiency Variance.
-Q-6
-CO-1; SO-; b Explain how an organization can be benefited by implementing the 5
-BL- Remember Activity Based Costing system.
-& Understand
-The standard cost of producing a particular product is given below:
-Materials. : 10 kg of A @ &5 per kg
-:15 kg of B@ &7 per kg
-Labour. : 20Hrs. @& 10 per hour
-4: SO a During a production cycle, the company produced 500 units by spending 12
-BL- Evaluate the following expenses on Material & Labour;
-Actual Material. : 4800 kg of A @ 2 4.89 per kg t
-: 7650 kg of B @ 2 7.20 per kg
-Actual labour. : 9800 Hrs. @ % 9.50 per hour
-Calculate the Material and Labour variances .
-Calculate EOQ (Economic Order Quantity), number of orders and Time gap
-between orders (In No. of days) to be placed by applying formula from the
-Q-7 following particulars:
-CO-2; SO-; 8
-BL-Apply b fi. Annual requirement of raw material 60,000 units.
-ii. Ordering Cost per order = 600.
-ili. Cost of deterioration, taxes, insurance, supervision cost % 1 per unit
-
-iv. Opportunity Cost of Capital of investment % 1 per unit.
-
-THE END
-
-Page 50f5
-````
-
-## 2022-23 · Final + Re-Exam · Sem 2 · paper eaadc855d73f
-
-- Departments: Artificial Intelligence, Civil, Common (all branches), Computer Engineering, Cyber Security, Electronics and Telecommunication, Information Technology, Mechanical
-- Programmes: B TECH, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B.TECH INTEGRATED, B.TECH INTEGRATED / MECHANICAL, MBA TECH, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/MANAGEMENT ACCOUNTING FOR ENGINEERS/Management Accounting for Engineers, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf` (+13 identical copies)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/MANAGEMENT ACCOUNTING FOR ENGINEERS/Management Accounting for engineers_09256a2091.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 90.9
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-Program: B Tech/MBA Tech/B.Tech (Intg.) Year: I/II/MV/IV
-Stream: (CE/CS/IT/MECH/CIVIL/CSE-CS/AI/EXTC/AIML/A IDS) Semester: I/IV/VI/VIII
-Subject: Management Accounting for Engineers Time: 3 hrs. Wes am to 4 ™m)
+Academic Year: 2022-2023
 
-Date:_27 /04 /24.
+Program: B Tech/MBA Tech Stream : (CE/CS) Year: L_ Semester: I
+Subject: Management Accounting for Engineers Time: 3 hrs. (44!00amto 2 s00 pm)
+Date: 1% /65/23 No. of Pages: 04
+
 Marks: 100 Marks
 
-MPSTME
-AVE as
-Final Examination/Re-examination (2021- 22/ 20- 23). BRARY
+Final Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question, paper and on | the
-, cover of the Answer Book, which is provided for their use. :
+1) Question No. 1 is compulsory.
 
-1) Question No. _1___ is compulsory.
-
-2) Out of the remaining questions, attempt any 4 | - questions.
-3) Inall___5__ questions to be attempted.
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall__5_ questions to be attempted.
 
 4) All questions carry equal marks.
 
-5) Answer of each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Q-1
+Qt Answer briefly: 20
 
-Answer briefly: 20
-CO- 1; SO- ; a
-BL- Remember What are the different Branches of Accounting and explain their purposes. | 5
-& Understand
-CO-4: S0-: A company’s total fixed cost is € 80000 for the year 2023. If the product’s
-BL- Evaluate b | variable cost and selling price are = 10 and ¥ 15 per unit respectively, find | 5
-_ out its Contribution, PV Ratio and BEP (Units & Rs.).
-
-The annual demand for an item is 3,200 units. The cost per unit is = 6 and
-inventory carrying charges are 25% p.a. If the cost of one order is = 150,
-CO-2 ; SO- ; Calculate:
-BL- Evaluate ec |(a)E.O.Q (Economic Order Quantity)
-(b) No. of orders per year
-(c) Time between two consecutive orders.
-
-From the following information, calculate:
-(i) — Labour Cost Variance
-(ii) Labour Rate Variance
-(iii) _ Labour Efficiency Variance 5
-Particulars Standard Actual
-Number of hours per unit 360 400
-Rate per hour (Rs.) 1.50 1.40
-
-CO-4; SO-; d
-BL- Evaluate
-
-Page 1 of 4
---- page 2 ---
-ta
-
-Q-2
-CO-2; SO-;
-BL- Evaluate
-
-From the following data extracted from the books of ABC Industries, prepare
-a Cost Sheet for the year 2023.
-
-Particulars Rs.
-Opening stock of raw materials 50000
-Closing stock of raw materials 80000
-Purchases of raw materials 170000
-Carriage inwards 10000
-Direct wages 150000
-Indirect wages 20000
-Other direct charges 30000
-Rent and rates-factory 10000
-Rent and rates — Office 1000
-Indirect materials - Factory 1000
-Depreciation on plant 3000
-Depreciation on office furniture 200
-Office salaries 5000
-Salesman Salary _ - 4000
-Other office expenses 1800 15
-Other factory expenses | 11400
-Managing Director’s remuneration 24000
-
-_| Other selling expenses 2000
-Travelling expenses 2200
-Carriage outwards 2000
-Sales 500000
-Advance income tax paid 30000
-Advertisement 4000
-
-Opening stock of finished goods (2000 units) | 80000
-Closing stock of finished goods (2000 units) _| ------
-
-Given that, the number of units sold during the year was 10000. The
-managing director’s remuneration is to be allocated as Rs.8000 to the factory,
-Rs.12000 to the office and Rs.4000 to the selling department.
-
-Q-2
-CO-2; SO-;
+Co- 1; SO-; a
 BL- Remember
 
-Explain VED and FSN techniques of Inventory control. 5
+Explain any five differences between Financial Accounting & Cost Accounting. 5
+Given that, the total sales of a product-is Rs. 1,00,000 and the fixed cost is
+Rs, 20,000 during the year 2022. If the product's variable cost and selling price per
 
-CO-S; SO-;
-BL- Apply
+come ee unit are Rs.15 and Rs.20 respectively, find out the P/V Ratio, BEP and Margin of | 5
+Safety.
 
-Classic Pen Co. produces and sells two different models of its pens named
-SMART and EXCELLENT. The selling price of each SMART pen is
+The following information is available in respect of material A:
 
-'Rs.90 per pen and its variable cost per unit is Rs.70. Each pen of the
+Maximum usage - 300 units
+c | Minimum usage — 200 units
+Normal usage — 225 units
 
-EXCELLENT model is sold at a price of Rs.140 and the variable cost per
-pen is Rs.95. The total fixed costs of the company is Rs. 2,00,000. It is
-estimated that the volume of sales of the SMART model is approximately
-80% of the total sales of the company. Calculate the BEP of each model of
-pen and the BEP of the company in total (Units & Rs.).
+CO-2 ; SO-; Time lag in procurement of material - Maximum 6 months , Minimum 2 months 5
+BL- Evaluate Reorder quantity — 750 units
+Calculate :
+(a) Re-order level (c) Maximum level
+(b) Minimum level (d) Average level
+eee d Explain the steps followed in Activity Based Costing. 5
+
+BL- Understand
+
+Page 10f4
+--- page 2 ---
+Following are the details furnished by ABC Ltd. about its activity during the year
+ended 31st March, 2022. You are required to prepare a Cost Sheet showing various
+elements of cost and calculate the Profit.
+
+Raw Material consumed - 40,000 units @ 2 7 per unit.
+
+Direct Wages:
+(a) Skilled worker ¥ 9 per unit.
+02 4 | () Unskilled worker & 6 per unit.
+CO-2; SO-; Royalty on raw material consumed) @% 3 per unit.
+| BL- Evaluate Works overheads @% 8 per machine hour. ‘ 15
+Machine Hours Worked 25,000.
+Office Overheads @ 1/3rd of works cost
+Sales Commission @ 4 per unit.
+; Units produced 40,000.
+Stock of units at the end 4,000 units to be valued at cost of production per unit.
+Selling price is = 60 per unit.
+Q2
+CO-2; SO-; b | Explain with examples, the classification of costs according to variability. 5
+BL- Remember
+XYZ Lid. manufactured and sold 10,000 units and 15,000 units in the First
+Year and the Second Year respectively. The selling price per unit was = 60
+in both the years. In the first year it suffered a loss of = 30.000 and in the
+second year earned profit of = 30,000. Considering the above information,
+Ls A; $0; a | calculate the followings: 15
+BL- Evaluate a) Profit Volume Ratio
+b) The amount of Fixed Cost
+c) The BEP in value and units
+d) Profit when 20.000 units are sold
+e) The number of units to be sold to earn a profit of = 1,00,000. .
+Q3
+CO-4 SO-; BL- b_ | What is Margin of Safety? Explain the calculation with an example. 5
+Understand _ : . .
 
 Page 2 of 4
 --- page 3 ---
-Q-3
+The following data is given:
 
-CO-4 SO-; BL-_ | b_ | What is Margin of Safety? Explain with an example. 5
-Understand
-The following information is available in respect of AXE Ltd. and BXE Ltd:
-Particulars © AXE Ltd. (Rs) | BXE Ltd. (Rs)
-Sales 11,00,000 14,00,000
-Variable cost 8,80,000 10,50,000
-Profit 1,20,000 2,00,000
+Product A Product B
+Direct materials Rs. 35 Rs. 20
+a | Direct labour @ Rs. 2 per hour Rs. 8 Rs. 10
+Variable overhead Rs. 9 Rs. 6
+Q-4 Selling price per unit Rs. 120 Rs. 110 15
+CO- 5; SO-;
+BL-Apply State which product you would recommend to manufacture when:
+
+a) Labour time is the key factor;
+b) Sales value is the key factor;
+c) Sales quantity is thé key factor;
+
+The standard mix producing a product X is as follows:
+
+Material A 60 tonnes @ Rs 10
+Material B 90 tonnes @ Rs 20
 Q-4 :
-CO- 4; SO-; a Calculate: . 15
-BL- Evaluate i. P/V Ratio of both companies
-ii. Fixed Cost of both companies
-iii. - Break Even Point of both companies
-iv. Sales to earn a profit of Rs 2,10,000 by each company
-v. Margin of Safety of both companies.
-Q-4
-CO- 2; SO-; b | Explain any FIVE items that are excluded while preparing a Cost Sheet. 5
-
-BL- Remember
-
-Sahara Ltd. gives you the following cost details for the manufacture of
-roduct Z at a capacity level of 20,000 units.
-
-Particulars z Nature of
-Variability
-Direct Material 12,00,000 100% Variable
-a Direct Labour 8,00,000 100% Variable
-Q-5 Factory Overheads :
-CO-3: SO-: - Lighting and Heating 4,80,000 75% Variable 15
-BL- Apply > - Repairs and Maintenance 3,60,000 50% Variable
-- Depreciation 4,80,000 100% Fixed
-Office Overheads 2,00,000 10% Variable
-Selling and Distribution Overheads _ | 3,00,000 _| 50% Variable
-Total 38,20,000
-Prepare a flexible budget for the production of 15,000 units and 25,000 units,
-showing total cost and unit cost at each level.
-Q6 . . What is a Budget and what is its importance? Explain the limitations of
-O35 80% > | Budgetin 5
-BL- Understand genng.
-Rajsekhar Textiles supplies you with the following details from its cost
-records:
-Q-6 Rs.
-CO- 2, SO-; Stock of raw materials on 1 September; 2023 65,000 | 12
-BL- Apply Stock of raw materials on 30 September, 2023 90,000
-Direct wages 51,000
-Indirect wages 3,750
+CO- 4; SO-; b | The actual mix was as follows: 5
+Fi spveuae Material A 80 tonnes @ Rs 12
+Material B 60 tonnes @ Rs 25
+Calculate all Material Variances.
+The details of expenses for production of 20,000 units at 100% capacity in a
+factory are given as follows:
+Particulars z
+Materials 5,00,000
+Q-5
+CO-3; SO-; a | Labour 4,00,000 15
+BL-Apply .
+Factory overhead (20% variable) , 3,00,000
+Office and administrative overhead (30% fixed) 2,50,000
+Selling and distribution overheads (40% variable) 1,50,000
+Prepare a Flexible Budget at 70% and 90% capacity level.
+eS b_ | Define Budgeting and explain its benefits for a business organization. 5
+C0-3; SO SEES
+BL- Evaluate
 
 Page 3 of 4
 --- page 4 ---
-os
-Sales 2;00,000
+a
 
-Work-in-progress on 1-9-2023 28,000
-Work-in-progress on 30-9-2023 35,000
-Purchases of raw materials 75,500
-Factory rent, rates and power 14,000
-Depreciation of plant and machinery 3,500
-Expenses on purchases 2,000
-Carriage outward 1,000
-Advertising 5,000
-Office rent and taxes . 2,500
-Travellers' wages and commission 6,500
-Stock of finished goods on 1-9-2023 54,000
-Stock of finished goods on 30-9-2023 31,000
-Income tax paid 12,000
-Interest on bank loan 6,000
-Bad debts 5,000
+The following are the particulars of two products P and Q:
 
-Prepare a Cost Sheet from the above information.
+Product P Product Q
+Rs. Per unit Rs. Per unit
+Direct Materials 100 150
+Direct Labour 140 240
+Q-6 Direct expenses 140 210
+CO- 5, S0-; a | Selling price perunit 500 700
+BL- Apply Total Fixed overheads is Rs.25000. 2
+The new sales manager has proposed the following two sales mixes
+1. Mix A —300 units of P and 300 units of Q
+2. Mix B — 200 units of P and 400 units of Q.
+Advice the management as to which of the above TWO mixes are to be accepted.
+oo. 50- b Write Short Notes on:
+BL- Remember & 1. Accounting Concepts 8
+Understand 2. VED system of inventory classification
+The following are the details for P Ltd for the month of Jan 2023.
+' The Standard labour hours required for manufacture of one article of the finished
+roduct and the rate per hour are as under:
+Category of labour | Labour hours per unit | Rate per labour hour(Rs.)
+Skilled 10 100
+Semi-Skilled 7 50
+Unskilled 12 20
+Q7 The Actual production in a month was 100 articles.
+- a
+CO-4; SOs The details of actual hours worked by the different labour categories and the actual 12
+BL- Evaluate rate per labour hour are as under:
+Category of labour Labour hours per unit | Rate per labour hour(Rs.)
+Skilled . 1020 110
+Semi-Skilled 690 55
+Unskilled 1220 19
+Calculate the following Labour Variances from the given data:
+1. Labour cost variance.
+2. Labour rate variance
+3. Labour efficiency variance
+Kuber Manufacturing Company estimates that its carrying cost is 15% and it’s
+0-7 ordering cost is Rs. 9 per order. The estimated annual requirement is 48,000 units
+€0-2: 80: b | ataprice of Rs. 4 per unit. Based on information provided respond to the following 8
+BL- Evaluate queer
+i What is the most economical number of units to order?
 
-Q-6
-CO-1; SO-;
-BL- Remember
-
-What is Activity-Based Costing? Explain the advantages and disadvantages
-
-of Activity Based Costing. 8
-
-Q-7
-CO-4; SO-;
-BL- Evaluate
-
-The following details relating to a product are made available to you:
-
-Standard cost per unit :
-
-Material 50 Kg. @ ® 40 per Kg.
-
-Labour 400 hours @ @ | per hour.
-
-Actual Cost : 15
-Material 490 Kg. @ & 42 per Kg.
-
-Labour 3,960 hours @ % 1.10 per hour
-
-Actual production was 10 units.
-
-Calculate all Material and Labour variances.
-
-Q-7
-CO-2; SO-;
-BL- Evaluate
-
-Two components A and B are used as follows:
-
-Normal usage: 50 per week each
-
-Re-order quantity: A =300;B=500
-
-Maximum usage: 75 per week each
-
-Minimum usage: 25 per week each 5
-Re-order period: A= 4 to 6 weeks; B = 2 to 4 weeks
-
-Calculate for each component :
-a) Re-order level; (b) Minimum stock level; (c) Maximum stock level
-
-(d) Average stock level.
-
+ii. How many orders should be placed in a year?
+iii. How often should an order be placed?
 THE END
 
 Page 4 of 4
@@ -13219,7 +13653,7 @@ THE END
 Page 5 of 5
 ````
 
-## 2022 · Final-Exam · Sem 7 · paper 2ba172b0f933
+## 2022-23 · Final-Exam · Sem 7 · paper 2ba172b0f933
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
@@ -13675,248 +14109,6 @@ BL-Apply 1. Economic Order Quantity (EOQ)
 THE END
 
 Page 4of4
-````
-
-## 2022-23 · Re-Exam · Sem 2 · paper a211f78ba45c
-
-- Departments: Common (all branches), Mechanical
-- Programmes: B TECH, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/MANAGEMENT ACCOUNTING FOR ENGINEERS/Management Accounting for Enigeerings Batch 2022-23,2021-22 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 91.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Program: B Tech/MBA Tech/B.Tech (Intg.) . Year: I/T/IIV/TV
-
-Stream: (CE/CS/IT/MECH/CIVIL/CSE-CS/AI/EXTC/AIML/AIDS) Semester: I/IV/VI/VII
-Subject: Management Accounting for Engineers Time: 3 hrs. (L0%#to 4p)
-Date:_2 / 7 /24. No. of Pages: 04
-
-Marks: 100 Marks
-
-‘Re-examination (2022- 23/2021- 22)
-Instructions: Candidates should read d carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of the remaining questions, attempt any __4 _ questions.
-3) Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer of each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: : 20
-aD bd Be es 3 | Define Cost Accounting. State its objectives. 5
-The results of a company for the last two years are as follows:
-Year Sales (%) Profit (%)
-2022 1,50,000 20,000
-CO-4 ; SO- ; b | | 2023 1,70,000 25,000 5
-BL- Evaluate You are required to calculate:
-(i) P/V Ratio
-(ii) B.E. P
-(iii) The sales required to earn a profit of = 40,000.
-The following information is available. with respect to a material:
-Re-order quantity = 1,500 units
-Re-order period = 4 — 6 weeks
-c | Maximum consumption = 400 units per week
-CO-2 ; SO- ; Normal consumption = 300 units per week 5
-BL- Evaluate Minimum consumption = 250 units per week
-Emergency Re-order Period = 2 weeks
-Calculate :
-(a) Re-order level (c) Maximum level
-
-(b) Minimum level (d) Average stock level
-
-Page 1 of 4
---- page 2 ---
-From the following information, compute material variances:
-
-Standard Actual
-CO-4; SO-; Material | Qty. Rate Total Qty. Rate Total 5
-BL- Evaluate d (Kg.) | (Rs) (Rs) (Kg.) (Rs) (Rs)
-Xx 100 20 2,000 50 30 1,500
-Y 200 30_ 6,000 _| 100 60 6,000
-Z 200 60 12,000 | 150 50 7,500
-The following information has been obtained from the books of Rolex Ltd.,
-for the year ending March 2023.
-Opening Stock Level (1-04-2022) Rs.
-Stock of Raw material 470000
-Stock of Work-in-Progress 188000
-Stock of Finished Goods 344000
-Closing Stock Level (31-03-2023)
-Stock of Raw material 569000
-Stock of Work-in-Progress 230000
-Stock of Finished Goods 206000
-Q2 a Other Expenses:
-a arn Bad Debts 35000
-Cost of Catalogues 41000 15
-Depreciation of Office Furniture 35000
-Depreciation on Plant and Machinery ‘41000
-Direct expenses 29000
-Director's Fees 59000
-Factory Rent 170000
-Direct wages 335000
-Raw material Purchased 416000
-Repair of Machinery , 36500
-Salesmen's Salaries and commission 59000
-Goods are sold at a profit of 25% of the Selling price. Prepare a cost sheet
-from the above information.
-Q-2 b Explain the meaning, advantages and disadvantages of JIT System of
-CO-2; SO-; Inventory Management 5
-
-BL-.Remember
-
-Page 2 of 4
-
->
-
-—
---- page 3 ---
-i
-
-Darwin Ltd. annually manufactures and sells 20,000 units of a preduct, the
-
-selling price of which is Rs. 50 and the profit earned is Rs. 10 per unit.
-The analysis of the cost of 20,000 units is:
-
-Material Cost Rs. 3,00,000
-Labour Cost Rs. 1,00,000
-Overheads (50% variable) — Rs. 4,00,000
-Q3 ‘ , : .
-CO-5: SO-: From the above information, you are required to compute:
-BL- Apply (i) Contribution per unit 15
-(ii) P/V Ratio
-(iii) | Break Even Sales.in Rs.
-(iv) | Break Even Sales in units
-(v) Sales required to earn a profit of Rs. 4,00,000
-(vi) Profit when sales are 18,000 units
-(vii) _ Margin of safety when actual sales are Rs. 7,00,000.
-Q-3
-CO-4 SO-; BL- What is Profit-Volume Ratio (P/V Ratio)? Explain with an example. 5
-Understand
-The following figures relate to Amit Ltd.
-Selling price per unit Rs. 40
-Direct materials per unit Rs. 12
-Direct labour per unit ; Rs. 9
-Other variable overheads per unit Rs. 7
-Fixed factory overheads Rs. 3,20,000
-Q-4 Fixed office overheads Rs. 4,30,000
-CO- 5; SO-; Calculate: 15
-BL- Apply (1) P/V Ratio
-(2) Break Even Sales in Units and Rs.
-(3) Sales to earn a profit of Rs. 4,50,000
-(4) New Break Even Point in Rs. and Units if total fixed overheads are
-increased by 15%.
-Q-4
-CO- 2; SO-; Explain the classification of costs on the basis of behaviour or variability. 5
-BL- Remember
-Sigma Ltd. is currently manufacturing and selling 80000 units. It is eurrently
-operating at 80% capacity level. Following is the budget prepared if the
-company is operating at 80% capacity.
-Cost per Unit
-(Rs.)
-Q-5 Direct Material 20
-CO-3; SO-; Direct Labour 15 15
-BL-Apply Direct Expense 10
-Production Overhead (50% Variable) 50
-Administrative Overhead (100% Fixed) 25
-Selling and Distribution Overhead (80% Variable) 30
-
-Prepare.a Flexible Budget showing total cost and per unit cost, if the canipeny
-
-operates at 60% and 100% level.
-
-Page 3 of 4
---- page 4 ---
-i
-
-Q-5
-CO-3; SO-;
-BL- Understand
-
-What is a Flexible Budget? How it is different from a Fixed Budget? Explain
-the advantages of a flexible budget. 5
-
-Q-6
-CO- 2, SO-;
-BL- Evaluate
-
-From the following information, prepare a Cost Sheet:
-Opening stock of Raw material — Rs.50,000 ;
-Closing stock of Raw material — Rs. 60,000
-Opening stock of WIP — Rs. 20,000
-Closing stock of WIP- Rs. 25,000
-Raw material purchased — Rs. 1,00,000
-Import duty on Raw material- Rs. 15,000
-Direct labour - Rs 5,000
-Direct chargeable expenses — Rs. 10,000
-Machine hours worked — 20000 hours
-Machine hour rate - Ks 2 per hour
-Administration overheads = 20% of work cost
-Selling overheads - Rs 0.25 per unit
-Units produced - Rs 20,000
-Units sold - 16,000 @ Rs 12 per unit
-
-12
-
-on
-
-Q-6
-
-CO-2; SO-;
-BL- Remember
-& Understand
-
-ABC Ltd has a quarterly demand of 20,000 units. The product requires a
-Component Y which is purchased at = 20 per unit. For every finished product,
-5 units of the Component Y is required. The ordering cost is ¥ 2000 per order
-and the carrying cost is 10 % p.a. You are required to calculate: 8
-a) Economic Order Quantity(EOQ) for Component Y.
-b) Total number of orders to be placed in a year as per EOQ
-c) Time between two orders in the number of days. +
-
-Q-7
-CO-4; SO-;
-BL- Evaluate
-
-The standard labour cost for producing 100 units of products is given below:
-Skilled Workers 40 Hours - Rs.500 per hour
-
-Semi-skilled Workers 50 Hours Rs.300 per hour
-
-Un-skilled workers 70 Hours Rs.200 per hour
-The company manufactured 10000 for which the actual cost is as below:
-Skilled Workers 4100 Rs.525 per hour 12
-
-Semi-skilled Workers 4900 Rs.295 per hour
-
-Un-skilled workers 7200 Rs.210 per hour
-
-Calculate:
-1. Labour Cost Variance
-2. Labour Price Variance
-3. Labour Efficiency Variance
-
-Q-7
-CO-1; SO-;
-BL- Remember
-
-What is an Activity-Based Costing System? Explain its steps. How it is
-
-different from the Traditional Costing System. 8
-
-THE END
-
-Page 4 of 4
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper 583428967c7d
@@ -15163,193 +15355,4 @@ of 14 percent?
 Excel Corp. recently paid an annual dividend of $2.25 on its common stock. The
 dividend is expected to increase by 2 percent per year. What is the market’s [5]
 required rate of return on the stock if the stock is selling for $22.50 a share?
-````
-
-## Year not stated · Exam not stated · Sem 2 · paper 09256a209135
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/MANAGEMENT ACCOUNTING FOR ENGINEERS/Management Accounting for engineers_09256a2091.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 90.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B Tech/MBA Tech Stream : (CE/CS) Year: L_ Semester: I
-Subject: Management Accounting for Engineers Time: 3 hrs. (44!00amto 2 s00 pm)
-Date: 1% /65/23 No. of Pages: 04
-
-Marks: 100 Marks
-
-Final Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qt Answer briefly: 20
-
-Co- 1; SO-; a
-BL- Remember
-
-Explain any five differences between Financial Accounting & Cost Accounting. 5
-Given that, the total sales of a product-is Rs. 1,00,000 and the fixed cost is
-Rs, 20,000 during the year 2022. If the product's variable cost and selling price per
-
-come ee unit are Rs.15 and Rs.20 respectively, find out the P/V Ratio, BEP and Margin of | 5
-Safety.
-
-The following information is available in respect of material A:
-
-Maximum usage - 300 units
-c | Minimum usage — 200 units
-Normal usage — 225 units
-
-CO-2 ; SO-; Time lag in procurement of material - Maximum 6 months , Minimum 2 months 5
-BL- Evaluate Reorder quantity — 750 units
-Calculate :
-(a) Re-order level (c) Maximum level
-(b) Minimum level (d) Average level
-eee d Explain the steps followed in Activity Based Costing. 5
-
-BL- Understand
-
-Page 10f4
---- page 2 ---
-Following are the details furnished by ABC Ltd. about its activity during the year
-ended 31st March, 2022. You are required to prepare a Cost Sheet showing various
-elements of cost and calculate the Profit.
-
-Raw Material consumed - 40,000 units @ 2 7 per unit.
-
-Direct Wages:
-(a) Skilled worker ¥ 9 per unit.
-02 4 | () Unskilled worker & 6 per unit.
-CO-2; SO-; Royalty on raw material consumed) @% 3 per unit.
-| BL- Evaluate Works overheads @% 8 per machine hour. ‘ 15
-Machine Hours Worked 25,000.
-Office Overheads @ 1/3rd of works cost
-Sales Commission @ 4 per unit.
-; Units produced 40,000.
-Stock of units at the end 4,000 units to be valued at cost of production per unit.
-Selling price is = 60 per unit.
-Q2
-CO-2; SO-; b | Explain with examples, the classification of costs according to variability. 5
-BL- Remember
-XYZ Lid. manufactured and sold 10,000 units and 15,000 units in the First
-Year and the Second Year respectively. The selling price per unit was = 60
-in both the years. In the first year it suffered a loss of = 30.000 and in the
-second year earned profit of = 30,000. Considering the above information,
-Ls A; $0; a | calculate the followings: 15
-BL- Evaluate a) Profit Volume Ratio
-b) The amount of Fixed Cost
-c) The BEP in value and units
-d) Profit when 20.000 units are sold
-e) The number of units to be sold to earn a profit of = 1,00,000. .
-Q3
-CO-4 SO-; BL- b_ | What is Margin of Safety? Explain the calculation with an example. 5
-Understand _ : . .
-
-Page 2 of 4
---- page 3 ---
-The following data is given:
-
-Product A Product B
-Direct materials Rs. 35 Rs. 20
-a | Direct labour @ Rs. 2 per hour Rs. 8 Rs. 10
-Variable overhead Rs. 9 Rs. 6
-Q-4 Selling price per unit Rs. 120 Rs. 110 15
-CO- 5; SO-;
-BL-Apply State which product you would recommend to manufacture when:
-
-a) Labour time is the key factor;
-b) Sales value is the key factor;
-c) Sales quantity is thé key factor;
-
-The standard mix producing a product X is as follows:
-
-Material A 60 tonnes @ Rs 10
-Material B 90 tonnes @ Rs 20
-Q-4 :
-CO- 4; SO-; b | The actual mix was as follows: 5
-Fi spveuae Material A 80 tonnes @ Rs 12
-Material B 60 tonnes @ Rs 25
-Calculate all Material Variances.
-The details of expenses for production of 20,000 units at 100% capacity in a
-factory are given as follows:
-Particulars z
-Materials 5,00,000
-Q-5
-CO-3; SO-; a | Labour 4,00,000 15
-BL-Apply .
-Factory overhead (20% variable) , 3,00,000
-Office and administrative overhead (30% fixed) 2,50,000
-Selling and distribution overheads (40% variable) 1,50,000
-Prepare a Flexible Budget at 70% and 90% capacity level.
-eS b_ | Define Budgeting and explain its benefits for a business organization. 5
-C0-3; SO SEES
-BL- Evaluate
-
-Page 3 of 4
---- page 4 ---
-a
-
-The following are the particulars of two products P and Q:
-
-Product P Product Q
-Rs. Per unit Rs. Per unit
-Direct Materials 100 150
-Direct Labour 140 240
-Q-6 Direct expenses 140 210
-CO- 5, S0-; a | Selling price perunit 500 700
-BL- Apply Total Fixed overheads is Rs.25000. 2
-The new sales manager has proposed the following two sales mixes
-1. Mix A —300 units of P and 300 units of Q
-2. Mix B — 200 units of P and 400 units of Q.
-Advice the management as to which of the above TWO mixes are to be accepted.
-oo. 50- b Write Short Notes on:
-BL- Remember & 1. Accounting Concepts 8
-Understand 2. VED system of inventory classification
-The following are the details for P Ltd for the month of Jan 2023.
-' The Standard labour hours required for manufacture of one article of the finished
-roduct and the rate per hour are as under:
-Category of labour | Labour hours per unit | Rate per labour hour(Rs.)
-Skilled 10 100
-Semi-Skilled 7 50
-Unskilled 12 20
-Q7 The Actual production in a month was 100 articles.
-- a
-CO-4; SOs The details of actual hours worked by the different labour categories and the actual 12
-BL- Evaluate rate per labour hour are as under:
-Category of labour Labour hours per unit | Rate per labour hour(Rs.)
-Skilled . 1020 110
-Semi-Skilled 690 55
-Unskilled 1220 19
-Calculate the following Labour Variances from the given data:
-1. Labour cost variance.
-2. Labour rate variance
-3. Labour efficiency variance
-Kuber Manufacturing Company estimates that its carrying cost is 15% and it’s
-0-7 ordering cost is Rs. 9 per order. The estimated annual requirement is 48,000 units
-€0-2: 80: b | ataprice of Rs. 4 per unit. Based on information provided respond to the following 8
-BL- Evaluate queer
-i What is the most economical number of units to order?
-
-ii. How many orders should be placed in a year?
-iii. How often should an order be placed?
-THE END
-
-Page 4 of 4
 ````

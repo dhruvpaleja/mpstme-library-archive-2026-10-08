@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Civil_7005/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: mixed (22 pages), mean OCR confidence 65.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -117,7 +118,6 @@ Amst de ~
 + \ Ken CUNAZMADA ain ory) nem
 _ —-my J°
 ae Qin+mn ) 2tn—™ oe
-Ss | AVO_Zinem UE Zin«m +e — APA 2¢n—-m) ML _
 * —_ ee otn-™)
 ; Wha «
 mbhain Oo + Ano}
@@ -203,6 +203,8 @@ RK KKK RK KK 22 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_CS_7055/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (19 pages), mean OCR confidence 44.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -358,7 +360,6 @@ saa empae forn#0 --(2)
 For n= 0, we get from (1),
 
 TPR Diep Ufa] ect ogg? roy
-Co= 52) 2x+e° dx =I lo om . (1)
 = 4
 Hence, f(x) =2n+2i Dy wo forn#0 (ty
 N=-0
@@ -499,7 +500,6 @@ RB tonvelatie 4
 a S* J: \ ges 2 bes 2LE“U) AM
 
 wrt o
-=. “Ges Quaat- aur iss Our? ala
 + (2)
 o
 - ~atyjdu.
@@ -545,7 +545,6 @@ c a0 i. 4
 
 FRR ICR] DA KH
 --- page 13 ---
-W) Gaile Fun aine Raustor .
 @
 Rly) = . fn So we an:
 C
@@ -631,7 +630,6 @@ and 2.
 FRR IC 7 I OH
 --- page 15 ---
 @é) b) Let Fc2)= BA+ty—-| Q Za=44i yy 2 deadaatdy — ()
-Sqrccion % Vine patos “Haare pects zeit £za2
 
 aE oe, SUE
 
@@ -648,7 +646,6 @@ a Fez) dz = (ConstsDde is ~ SC244to-)ldaridy )
 =Q41 °(G +ayaty)dy L Gn)
 =G4% (27 ou eye]
 = Ga) [o- (s+3+f)] @)
-i bs IS os P ”
 =(14 [+5 st)
 =Gats| $-L]
 *J [ t+ Pf 41)
@@ -678,7 +675,6 @@ OAiyalen One
 
 h {
 * ae a - =
-Wo = re yan = b ( wy e
 
 {
 Qu> i \ (- Conn du
@@ -791,6 +787,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Computer_7002/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (19 pages), mean OCR confidence 44.6
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1083,7 +1081,6 @@ B Covelalies ” 4
 al 3 |: \ ges 2U bes 2EEWUI A
 
 wrt o
-= IL “Ges Quaat- aur iss Our? ay)|au
 2 (2)
 o
 te du.
@@ -1130,7 +1127,6 @@ c a0 i. 4
 
 FRR ICR] DA KH
 --- page 13 ---
-W) Gaile Fun aine Raustor .
 @
 Rly) = . fn So we an:
 C
@@ -1216,7 +1212,6 @@ and 2.
 FRR IC 7 I OH
 --- page 15 ---
 @é) b) Let Fc2)= BA+ty—-| Q Za=44i yy 2 deadaatdy — ()
-Sqrccion % Vine patos “Haare pects zeit £za2
 
 aE oe, SUE
 
@@ -1225,7 +1220,6 @@ o-] =a > »A-l=N4+)
 bo Mc be a? (im)
 
 \ . 4 Sdacdy |
-ow: eens = (Conte Dde = ~ SC244to-)ldaridy )
 
 = 3 E42) 4 Py-1) (du + Fas) 2 (is)
 = ) Ey+6+fy-15 (raf) ay
@@ -1233,7 +1227,6 @@ ow: eens = (Conte Dde = ~ SC244to-)ldaridy )
 =Q41 °(G +ayaty)dy L Gn)
 =G4% (27 ou eye]
 = Ga) [o- (s+3+f)] @)
-i bs IS os P ”
 =(14 [+5 st)
 =Gats| $-L]
 *J [ t+ Pf 41)
@@ -1263,7 +1256,6 @@ OAiyalen One
 
 h {
 * ae a - =
-Wo = re yan = b ( wy e
 
 {
 Qu> i \ (- Conn du
@@ -1284,7 +1276,6 @@ GL enna - The
 = TE nth nn
 
 al Siuwt
-Figs. feuys Res 4 Upeedronys 7
 
 Pub ye Ae
 
@@ -1377,6 +1368,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_Computer_7047/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (19 pages), mean OCR confidence 43.6
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1486,7 +1479,6 @@ est. # 2 fg S14
 - tid -(\
 A+B»
 
-FR AOR IR Qa a ok ok ok ak
 --- page 4 ---
 Q2   2a   4
 Show that the function w =   transforms the straight lines x = c in the z-plane
@@ -1527,7 +1519,6 @@ a Aye RCE! = 1)
 uu an. 8
 3 t=! oS gM D)
 t-) 168 J
-rt] a a ‘)s SO Ie
 > =< oo
 
 2c -
@@ -1548,7 +1539,6 @@ bos Ves worde C: ———
 Se hes (zy - . ze
 Ros ak yaa’ a > a y (e-yleyp) a
 4
-Res ak 721 Zz ae Lin . ce . aa
 ie) Zar dz =
 as “Ws “EEE Ce
 ek a ————— (3)
@@ -1562,7 +1552,6 @@ oO.
 > = az =
 \ (z
 
-By Coy dy Re dur’. - a we 8
 st)
 
 aylerD
@@ -1653,7 +1642,6 @@ ca \ (2)
 
 o
 =
-Se BL. rR S isu -2) AM
 5 | {Usd 2 + |
 fo)
 
@@ -1666,7 +1654,6 @@ T gitay 209] " ty
 3 a |
 5b | Find the Fourier series expansion of f(x)=2+.x° in (-1,1). [6]
 
-FEA AO CI 7A ok ok ok ak
 --- page 12 ---
 \5b) fwy= ne   C-y
 
@@ -1696,9 +1683,7 @@ y ¢ Cr
 
 Sc | Find the finite Fourier sine and cosine transform of f(x) =2x,0<x<4 [8]
 
-FE AA AO CIC 7 A Cok ok ok ak
 --- page 13 ---
-W) Fai te oat Sine Raustem -
 Fem) = Sa Simm An:
 
 C= 4+ . a UW)
@@ -1743,7 +1728,6 @@ Q6 Using Laplace Transform prove that fe sin tdt=— [6]
 
 0
 
-FAA AOR AC 7 Qk ok ok ok ak
 --- page 14 ---
 LCs) = LLB me TS
 
@@ -1800,13 +1784,11 @@ Leayeo.,
 
 A {
 nn” = L - —
-Ae Ee yam Q (s ah ~
 
 {
 Qs i \ (- Conn du
 °°
 
-a Fey aie a 5 WEN, cots ) 2 re I :
 
 wat
 2 [-£ if ‘Bains
@@ -1863,7 +1845,6 @@ S740?
 
 = 2ws - )
 LGesmut} Ceti e o dC te
-riple. . yer gare & srnCwt)
 
 vie) = sar Fe)
 
@@ -1924,7 +1905,6 @@ a ee -
 —*ilb),
 to “Lc ®
 
-FA A AO CIC 7 QR ok ok ok ak
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper ae18ef0be2d3
@@ -1934,6 +1914,8 @@ FA A AO CIC 7 QR ok ok ok ak
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_Computer_7047/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026_ae18ef0be2.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (19 pages), mean OCR confidence 44.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2089,7 +2071,6 @@ saa empae forn#0 --(2)
 For n= 0, we get from (1),
 
 TPR Diep Ufa] ect ogg? roy
-Co= 52) 2x+e° dx =I lo om . (1)
 = 4
 Hence, f(x) =2n+2i Dy wo forn#0 (ty
 N=-0
@@ -2230,7 +2211,6 @@ RB tonvelatie 4
 a S* J: \ ges 2 bes 2LE“U) AM
 
 wrt o
-=. “Ges Quaat- aur iss Our? ala
 + (2)
 o
 - ~atyjdu.
@@ -2276,7 +2256,6 @@ c a0 i. 4
 
 FRR ICR] DA KH
 --- page 13 ---
-W) Gaile Fun aine Raustor .
 @
 Rly) = . fn So we an:
 C
@@ -2362,7 +2341,6 @@ and 2.
 FRR IC 7 I OH
 --- page 15 ---
 @é) b) Let Fc2)= BA+ty—-| Q Za=44i yy 2 deadaatdy — ()
-Sqrccion % Vine patos “Haare pects zeit £za2
 
 aE oe, SUE
 
@@ -2379,7 +2357,6 @@ a Fez) dz = (ConstsDde is ~ SC244to-)ldaridy )
 =Q41 °(G +ayaty)dy L Gn)
 =G4% (27 ou eye]
 = Ga) [o- (s+3+f)] @)
-i bs IS os P ”
 =(14 [+5 st)
 =Gats| $-L]
 *J [ t+ Pf 41)
@@ -2409,7 +2386,6 @@ OAiyalen One
 
 h {
 * ae a - =
-Wo = re yan = b ( wy e
 
 {
 Qu> i \ (- Conn du
@@ -2522,6 +2498,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_Computer_7047/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026pdf_ae18ef0b`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (19 pages), mean OCR confidence 44.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2677,7 +2655,6 @@ saa empae forn#0 --(2)
 For n= 0, we get from (1),
 
 TPR Diep Ufa] ect ogg? roy
-Co= 52) 2x+e° dx =I lo om . (1)
 = 4
 Hence, f(x) =2n+2i Dy wo forn#0 (ty
 N=-0
@@ -2818,7 +2795,6 @@ RB tonvelatie 4
 a S* J: \ ges 2 bes 2LE“U) AM
 
 wrt o
-=. “Ges Quaat- aur iss Our? ala
 + (2)
 o
 - ~atyjdu.
@@ -2864,7 +2840,6 @@ c a0 i. 4
 
 FRR ICR] DA KH
 --- page 13 ---
-W) Gaile Fun aine Raustor .
 @
 Rly) = . fn So we an:
 C
@@ -2950,7 +2925,6 @@ and 2.
 FRR IC 7 I OH
 --- page 15 ---
 @é) b) Let Fc2)= BA+ty—-| Q Za=44i yy 2 deadaatdy — ()
-Sqrccion % Vine patos “Haare pects zeit £za2
 
 aE oe, SUE
 
@@ -2967,7 +2941,6 @@ a Fez) dz = (ConstsDde is ~ SC244to-)ldaridy )
 =Q41 °(G +ayaty)dy L Gn)
 =G4% (27 ou eye]
 = Ga) [o- (s+3+f)] @)
-i bs IS os P ”
 =(14 [+5 st)
 =Gats| $-L]
 *J [ t+ Pf 41)
@@ -2997,7 +2970,6 @@ OAiyalen One
 
 h {
 * ae a - =
-Wo = re yan = b ( wy e
 
 {
 Qu> i \ (- Conn du
@@ -3110,6 +3082,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_Computer_7032/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C057)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (19 pages), mean OCR confidence 44.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3265,7 +3239,6 @@ saa empae forn#0 --(2)
 For n= 0, we get from (1),
 
 TPR Diep Ufa] ect ogg? roy
-Co= 52) 2x+e° dx =I lo om . (1)
 = 4
 Hence, f(x) =2n+2i Dy wo forn#0 (ty
 N=-0
@@ -3406,7 +3379,6 @@ RB tonvelatie 4
 a S* J: \ ges 2 bes 2LE“U) AM
 
 wrt o
-=. “Ges Quaat- aur iss Our? ala
 + (2)
 o
 - ~atyjdu.
@@ -3452,7 +3424,6 @@ c a0 i. 4
 
 FRR ICR] DA KH
 --- page 13 ---
-W) Gaile Fun aine Raustor .
 @
 Rly) = . fn So we an:
 C
@@ -3538,7 +3509,6 @@ and 2.
 FRR IC 7 I OH
 --- page 15 ---
 @é) b) Let Fc2)= BA+ty—-| Q Za=44i yy 2 deadaatdy — ()
-Sqrccion % Vine patos “Haare pects zeit £za2
 
 aE oe, SUE
 
@@ -3555,7 +3525,6 @@ a Fez) dz = (ConstsDde is ~ SC244to-)ldaridy )
 =Q41 °(G +ayaty)dy L Gn)
 =G4% (27 ou eye]
 = Ga) [o- (s+3+f)] @)
-i bs IS os P ”
 =(14 [+5 st)
 =Gats| $-L]
 *J [ t+ Pf 41)
@@ -3585,7 +3554,6 @@ OAiyalen One
 
 h {
 * ae a - =
-Wo = re yan = b ( wy e
 
 {
 Qu> i \ (- Conn du
@@ -3698,6 +3666,7 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Civil_7005/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (22 pages), mean OCR confidence 60.0
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3788,7 +3757,6 @@ b. Show that the set of function cosnx, n=1,2,3,--- orthogonal over (0,27).
 QAb
 { cesmx: cos dc
 13)
-oS: ; . i = -p)+ wA( AB)
 CAsSA- coan z ( cosa ) >) —
 271
 ° or
@@ -3796,20 +3764,16 @@ doy COA Ny. oil
 5 RENEE J (03 Cntm)% + (os Ca-mn x]
 ° dan
 — a ° qT
-> | SPatnaemx, — ohn Cn-mow «: Kaen
 ntm n-™ P) dh
 - 1 3
-2 [ Stn (mani — sino _ SPA in-m) 1 -Sino
 Ntm n-m
 —
 = AX ”
 (eo) =o
-= Olney; syed peybycane St WALLAGOuorL Ouse
 (0,2x).
 oT
 At
 sks Cosny.
-i X- CooMAAY =¢O WR we |
 ° _
 N=m —itm: |
 |
@@ -3859,12 +3823,10 @@ Se
 
 ‘. %
 
-too = CLo + > An (OLN TX bn Sn: nitx)
 S nel ( ° “6 * “eC
 
 hesce (-wW,rr).
 
-Bnd finy = Fer) | FB eww bt:
 2 bn =O: — 4.
 
 as a -
@@ -3953,7 +3915,6 @@ oe
 => L=\ Zen sinner at— (im)
 Sond = Qo + PF_an cos NNT Te —
 2 2 ™
-Ay zs (u ->’) dm = Je
 Oo \ a
 dD
 et
@@ -4039,6 +4000,7 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_EXTC_7006/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (22 pages), mean OCR confidence 60.0
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4129,7 +4091,6 @@ b. Show that the set of function cosnx, n=1,2,3,--- orthogonal over (0,27).
 QAb
 { cesmx: cos dc
 13)
-oS: ; . i = -p)+ wA( AB)
 CAsSA- coan z ( cosa ) >) —
 271
 ° or
@@ -4137,20 +4098,16 @@ doy COA Ny. oil
 5 RENEE J (03 Cntm)% + (os Ca-mn x]
 ° dan
 — a ° qT
-> | SPatnaemx, — ohn Cn-mow «: Kaen
 ntm n-™ P) dh
 - 1 3
-2 [ Stn (mani — sino _ SPA in-m) 1 -Sino
 Ntm n-m
 —
 = AX ”
 (eo) =o
-= Olney; syed peybycane St WALLAGOuorL Ouse
 (0,2x).
 oT
 At
 sks Cosny.
-i X- CooMAAY =¢O WR we |
 ° _
 N=m —itm: |
 |
@@ -4200,12 +4157,10 @@ Se
 
 ‘. %
 
-too = CLo + > An (OLN TX bn Sn: nitx)
 S nel ( ° “6 * “eC
 
 hesce (-wW,rr).
 
-Bnd finy = Fer) | FB eww bt:
 2 bn =O: — 4.
 
 as a -
@@ -4294,7 +4249,6 @@ oe
 => L=\ Zen sinner at— (im)
 Sond = Qo + PF_an cos NNT Te —
 2 2 ™
-Ay zs (u ->’) dm = Je
 Oo \ a
 dD
 et
@@ -4380,6 +4334,7 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Mechanical_7003/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (22 pages), mean OCR confidence 60.4
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4469,7 +4424,6 @@ b. Show that the set of function cosnx, n=1,2,3,--- orthogonal over (0, 2r).
 QAb
 { cesmx: cos dc
 13)
-oS: ; . i = -p)+ wA( AB)
 CAsSA- coan z ( cosa ) >) —
 271 »
 %. wT
@@ -4477,15 +4431,12 @@ doy COA Ny. oil
 5 RENEE J (03 Cntm)% + (os Ca-mn x]
 ° dan
 — a ° qT
-> | SPatnaemx, — ohn Cn-mow «: Kaen
 ntm n-™ P) dh
 - 1 3
-2 [ Stn (mani — sino _ SPA in-m) 1 -Sino
 Ntm n-m
 —
 = AX ”
 (eo) =o
-= Olney; syed peybycane St WALLAGOuorL Ouse
 (0,2x).
 21
 at |
@@ -4546,11 +4497,9 @@ G
 
 hesce (-wW,rr).
 
-Bnd finy = Fer) | FB eww bt:
 
 Cn a — 4.
 Tr vr .
-(Lo = x j fray Ax ancl On= ® (fou: connd «
 
 o fe)
 
@@ -4559,7 +4508,6 @@ Qo = & }—-2%x \AX
 at 3 O17)
 
 ~ ment. w -X Oo
-ce ee | Me ls [ “eo g
 
 atin,
 
@@ -4633,7 +4581,6 @@ oe
 => L=\ Zen sinner at— (im)
 Sond = Qo + PF_an cos NNT Te —
 2 2 ™
-Ay zs (u ->’) dm = Je
 Oo \ a
 dD
 et
@@ -4722,6 +4669,7 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Mechatronics_7004/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (22 pages), mean OCR confidence 60.0
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4812,7 +4760,6 @@ b. Show that the set of function cosnx, n=1,2,3,--- orthogonal over (0,27).
 QAb
 { cesmx: cos dc
 13)
-oS: ; . i = -p)+ wA( AB)
 CAsSA- coan z ( cosa ) >) —
 271
 ° or
@@ -4820,20 +4767,16 @@ doy COA Ny. oil
 5 RENEE J (03 Cntm)% + (os Ca-mn x]
 ° dan
 — a ° qT
-> | SPatnaemx, — ohn Cn-mow «: Kaen
 ntm n-™ P) dh
 - 1 3
-2 [ Stn (mani — sino _ SPA in-m) 1 -Sino
 Ntm n-m
 —
 = AX ”
 (eo) =o
-= Olney; syed peybycane St WALLAGOuorL Ouse
 (0,2x).
 oT
 At
 sks Cosny.
-i X- CooMAAY =¢O WR we |
 ° _
 N=m —itm: |
 |
@@ -4883,12 +4826,10 @@ Se
 
 ‘. %
 
-too = CLo + > An (OLN TX bn Sn: nitx)
 S nel ( ° “6 * “eC
 
 hesce (-wW,rr).
 
-Bnd finy = Fer) | FB eww bt:
 2 bn =O: — 4.
 
 as a -
@@ -4977,7 +4918,6 @@ oe
 => L=\ Zen sinner at— (im)
 Sond = Qo + PF_an cos NNT Te —
 2 2 ™
-Ay zs (u ->’) dm = Je
 Oo \ a
 dD
 et
@@ -5063,6 +5003,8 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Computer_7002/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: mixed (14 pages), mean OCR confidence 51.6
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5134,8 +5076,6 @@ at its poles.
 --- page 5 ---
 92 6) a ee er
 ‘ re & zee Bnle J-@)
-'2|\-4 da circle shih canbe Co.9) Qrade k, 1
-> aie | Q-1 weit. Lier inde c.
 z oe 2» £2 fooled Hert
 “Rego z} Ne a 2> 45) Lol DF
 = lin 42h = 46C% i
@@ -5143,8 +5083,6 @@ x3 a(znmr 3 Gy 3)
 
 = os poe
 = 25 ee ,
-ili. Zz ED en: @) ee L
-saline @-») al Lae r>$d > Reo-1dz le eas
 = Sim J 424)
 ” fay de Q2z-2
 = haw = Ca2-3) 2) - (4a (> &e)
@@ -5342,7 +5280,6 @@ sin(ax) » Wea) 2) sin(nz) oO
 . Solve the differential equation: “i30y 2y=eH(t) [8]
 t t
 
-QF (CI. Sodue by Foust ek THan3 ko suetion -—
 
 -d¥ ~
 See PEE Rg = SFE (ey
@@ -5396,6 +5333,8 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/MBATech_Computer_7047/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026_c5c3959f3c.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: mixed (14 pages), mean OCR confidence 51.6
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5467,8 +5406,6 @@ at its poles.
 --- page 5 ---
 92 6) a ee er
 ‘ re & zee Bnle J-@)
-'2|\-4 da circle shih canbe Co.9) Qrade k, 1
-> aie | Q-1 weit. Lier inde c.
 z oe 2» £2 fooled Hert
 “Rego z} Ne a 2> 45) Lol DF
 = lin 42h = 46C% i
@@ -5476,8 +5413,6 @@ x3 a(znmr 3 Gy 3)
 
 = os poe
 = 25 ee ,
-ili. Zz ED en: @) ee L
-saline @-») al Lae r>$d > Reo-1dz le eas
 = Sim J 424)
 ” fay de Q2z-2
 = haw = Ca2-3) 2) - (4a (> &e)
@@ -5675,7 +5610,6 @@ sin(ax) » Wea) 2) sin(nz) oO
 . Solve the differential equation: “i30y 2y=eH(t) [8]
 t t
 
-QF (CI. Sodue by Foust ek THan3 ko suetion -—
 
 -d¥ ~
 See PEE Rg = SFE (ey
@@ -5729,6 +5663,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_Mechanical_7031/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C057)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (22 pages), mean OCR confidence 60.0
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5819,7 +5754,6 @@ b. Show that the set of function cosnx, n=1,2,3,--- orthogonal over (0,27).
 QAb
 { cesmx: cos dc
 13)
-oS: ; . i = -p)+ wA( AB)
 CAsSA- coan z ( cosa ) >) —
 271
 ° or
@@ -5827,20 +5761,16 @@ doy COA Ny. oil
 5 RENEE J (03 Cntm)% + (os Ca-mn x]
 ° dan
 — a ° qT
-> | SPatnaemx, — ohn Cn-mow «: Kaen
 ntm n-™ P) dh
 - 1 3
-2 [ Stn (mani — sino _ SPA in-m) 1 -Sino
 Ntm n-m
 —
 = AX ”
 (eo) =o
-= Olney; syed peybycane St WALLAGOuorL Ouse
 (0,2x).
 oT
 At
 sks Cosny.
-i X- CooMAAY =¢O WR we |
 ° _
 N=m —itm: |
 |
@@ -5890,12 +5820,10 @@ Se
 
 ‘. %
 
-too = CLo + > An (OLN TX bn Sn: nitx)
 S nel ( ° “6 * “eC
 
 hesce (-wW,rr).
 
-Bnd finy = Fer) | FB eww bt:
 2 bn =O: — 4.
 
 as a -
@@ -5984,7 +5912,6 @@ oe
 => L=\ Zen sinner at— (im)
 Sond = Qo + PF_an cos NNT Te —
 2 2 ™
-Ay zs (u ->’) dm = Je
 Oo \ a
 dD
 et
@@ -6070,6 +5997,8 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_Computer_7032/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C057)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Jul 2026
 - Text: mixed (14 pages), mean OCR confidence 51.6
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6141,8 +6070,6 @@ at its poles.
 --- page 5 ---
 92 6) a ee er
 ‘ re & zee Bnle J-@)
-'2|\-4 da circle shih canbe Co.9) Qrade k, 1
-> aie | Q-1 weit. Lier inde c.
 z oe 2» £2 fooled Hert
 “Rego z} Ne a 2> 45) Lol DF
 = lin 42h = 46C% i
@@ -6150,8 +6077,6 @@ x3 a(znmr 3 Gy 3)
 
 = os poe
 = 25 ee ,
-ili. Zz ED en: @) ee L
-saline @-») al Lae r>$d > Reo-1dz le eas
 = Sim J 424)
 ” fay de Q2z-2
 = haw = Ca2-3) 2) - (4a (> &e)
@@ -6349,7 +6274,6 @@ sin(ax) » Wea) 2) sin(nz) oO
 . Solve the differential equation: “i30y 2y=eH(t) [8]
 t t
 
-QF (CI. Sodue by Foust ek THan3 ko suetion -—
 
 -d¥ ~
 See PEE Rg = SFE (ey

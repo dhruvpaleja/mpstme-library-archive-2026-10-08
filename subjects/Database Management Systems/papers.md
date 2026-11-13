@@ -125,181 +125,6 @@ BL2
 ********** 3 **********
 ````
 
-## 2025-26 · Final-Exam · Sem 3 · paper 538dc3276186
-
-- Departments: Cyber Security, Information Technology
-- Programmes: BTech CyberSecurity 7010, BTech IT 7001
-- Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CyberSecurity_7010/Database Management Systems/QP_Database Management Systems(702AI0C027)_2025-2026.pdf` (+1 identical copies)
-- Text: text (5 pages)
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-Program/s: ___BTech IT/MBATech IT/BTech Cyber /BTI IT___   Year: 2 Semester: V/IX
-Stream/s : Information Technology
-Subject: ___DBMS   Time: _3__ hrs (______to_______)
-Date:   /   / 2025   No. of Pages:__3___
-Marks: __100_______
-Final Examination/Re-Examination ( Re-exam year)
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4___ questions.
-3) In all ___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary.
-SET 1
-Q1   Answer the following questions   [20]
-CO- 1;   a   What are data models? Explain the Relational Model.   [5]
-SO- 2;
-BL- 1
-CO- 2;   B   Explain the features of a good database design with suitable examples.   [5]
-SO - 2;
-BL- 2
-CO- 3 ;   c   Consider a table STUDENT(RollNo, Name, Email, Phone, AadhaarNo, [5]
-SO - 2;   Dept).
-BL- 2   (a) Identify all possible Super Keys.
-(b) Determine the Candidate Keys.
-(c) Choose the most appropriate Primary Key and justify your choice
-CO- 4 ;   d   What is the significance of CAP theorem in NOSQL   [5]
-SO - 2;
-BL-1
-Q2   [20]
-CO- 1 ;   a   Draw an E-R Diagram for the problem statement:   [10]
-SO - 2;
-BL-2   Problem Statement:
---- page 2 ---
-A university offers multiple programs (e.g., B.Tech IT, B.Tech CS). Each
-program has a unique Program_ID, name, and duration.
-Each program consists of several courses; each course has a Course_Code,
-Course_Name, and credits. A course may be taught by one or more
-instructors; each instructor has an Instructor_ID, name, designation, and
-email.
-Students enroll in one program and are identified by Student_ID, name,
-email, and year_of_admission.
-Students can register for multiple courses each semester, and for each
-registration, the system stores semester, academic_year, and grade.
-CO- 2 ;   b   Consider following movie database:   [10]
-SO - 2;
-BL- 2   users (user_id, full_name, city, contact_no)
-restaurants (restaurant_id, name, address, price level, is active)
-dishes (dish_id, restaurant, name, price, is_veg, is spicy)
-ratings (user_id, dish_id, rating, rated_at, feedback)
-Write SQL statements to perform the following operations.
-i.   Add a new column “email” to users table .
-ii.   Modify table dishes to enforce business rules “dishes.price must be
-> 0.” using CHECK constraints
-iii.   Select all veg, not-spicy dishes with price <= 250 from active
-restaurants.
-iv.   Show each restaurant’s average rating and number of ratings but
-return only those with at least 2 ratings and an average ≥ 4.0.
-v.   Create a view called user_ratings which will show each rating
-alongside the user who gave it.
-Q3   [20]
-CO- 1 ;   a.   Convert the given ER diagram to tables   [10]
-SO - 2;
-BL- 2
---- page 3 ---
-CO- 3 ;   b.   Consider the following relation used by a retail store to maintain sales   [10]
-SO - 2;   information:
-BL- 3
-SALES(OrderID, OrderDate, CustID, CustName, CustCity,
-ProdID, ProdName, UnitPrice, Quantity,
-SalespersonID, SalespersonName, SalespersonRegion)
-The following Functional Dependencies (FDs) are known to hold:
-OrderID → OrderDate, CustID, SalespersonID
-CustID → CustName, CustCity
-ProdID → ProdName, UnitPrice
-SalespersonID → SalespersonName, SalespersonRegion
-{OrderID, ProdID} → Quantity
-i.   Identify and explain partial and transitive dependencies present in
-the given relation.   [3Marks]
-ii.   Decompose the given relation step-by-step into Third Normal Form
-(3NF).   [5 Marks]
-iii.   Clearly show the final set of relations obtained after normalization,
-with primary keys marked.   [2Marks]
-Q4   [20]
-CO- 1 ;   a.   Illustrate the major challenges encountered while creating a database from   [10]
-SO - 2;   scratch with suitable examples
-BL- 2
-CO- 2 ;   b.   Solve the following queries using relational algebra   [10]
-SO - 2;   Customer(CustomerID, CustomerName, City)
-BL- 2   Order(OrderID, OrderDate, CustomerID)
-Product(ProductID, ProductName, Price)
-Order_Product(OrderID, ProductID, Quantity)
-(i)   Find the names of customers who have placed at least one order.
-(ii)   Get the customer names and order IDs for orders placed after
-‘2024-01-01’.
-(iii)   List all products ordered by customers who live in ‘Chicago’.
-(iv)   List the products that have been ordered by any customer with a
-quantity greater than 1
-(v)   Find all customers located in New York and have ordered
-something in month of October 2024(assume date is in yyyy-mm-dd)
-Q5   [20]
-CO- 2 ;   a.   Consider the following table:   [10]
-SO - 2;   employee (employee_id, first_name , last_name, email, phone_number ,
-BL-2   hire_date, job_id , salary, commission_pct , manager_id , department_id )
-Write the SQL queries the following question:
-i.   Write a SQL query to find those employees who receive a higher
-salary than the employee with ID 163. Return first name, last name.
-[3Marks]
---- page 4 ---
-ii.   Write a SQL query to find out which employees have the same
-designation as the employee whose ID is 169. Return first name,
-last name, department ID and job ID. [3Marks]
-iii.   Write a SQL query to find those employees whose salary matches
-the lowest salary of any of the departments. Return first name, last
-name and department ID [4Marks]
-CO- 4 ;   b.   Problem Statement:   [10]
-SO - 2;   Consider the following schedule S involving three transactions T1, T2, and T3
-BL- 2   operating on data items A and B:
-Step   T1   T2   T3
-1   T1: Read(A)
-2   T2: Read(A)
-3   T1: Write(A)
-4   T2: Write(A)
-5   T3: Read(B)
-6   T2: Read(B)
-7   T2: Write(B)
-8   T3: Write(B)
-i.   Draw the precedence (serialization) graph for the given schedule S.
-[2 Marks]
-ii.   Determine whether the schedule is conflict-serializable or not. [3
-Marks]
-iii.   If it is, identify the equivalent serial or conflict equivalent schedule.
-[3 Marks]
-iv.   Briefly explain the importance of serializability in concurrent
-transaction execution. [2Marks]
-Q6   [20]
-CO- 4 ;   a.   Define a transaction. Explain the ACID properties of a transaction with   [10]
-SO - 2;   suitable examples. [5 Marks]
-BL-3   Explain conflict serializability and view serializability with suitable
-examples.
-Also state how the two differ in terms of their conditions and scope.
-[5Marks]
-CO- 4 ;   b.   Compare and contrast ACID and BASE properties.   [10]
-SO - 2;
-BL-1
-Q7   Write short notes on:   [20]
-CO-1 ;   a   Advantages of DBMS   [5]
-SO- 2;
-BL-1
-CO- 2 ;   b   Joins in SQL with examples of each.   [5]
-SO - 2;
-BL-2
---- page 5 ---
-CO- 3;   c   Write a short note on Armstrong’s Axioms used for inferring functional   [5]
-SO - 2;   dependencies.
-BL-3   Explain the three basic rules with one example each and mention any
-additional derived axioms that can be obtained from them.
-CO- 4 ;   d   The difference between Key value based and Column Based storage type   [5]
-SO - 2;   of NOSQL.
-BL-1
-````
-
 ## 2025-26 · Final-Exam · Sem 3 · paper 10f77e98ca4c
 
 - Departments: Data Science
@@ -6528,6 +6353,172 @@ v.   Find hotels whose name starts with ‘T’
 ********** 4 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 4 · paper c47f90ddb2ab
+
+- Departments: Data Science
+- Programmes: B TECH / CSEDS-311
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSEDS-311/SEM-IV/DATABASE MANAGEMENT SYSTEM/B Tech, Database Management System, Sem-IV, Batch 2023-24 & 2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 July 2026
+- Text: ocr (3 pages), mean OCR confidence 88.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+oF
+
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Academic Year: 2025-26
+Program: B Tech (CSE-DS (311))
+
+Year: I/MI Semester : [V/VI
+Subject: Database Management System #
+Time: 2.00 pm to 5.00 pm (3 hrs)
+Date : 06 July 2026
+
+CaN
+No. of Pages: 03
+
+Marks: 100
+Re-Exam (2023-24/2025-26)
+
+Oo
+
+this S univeRsns *
+
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. QI. is mandatory. Answer any 4 from the remaining questions.
+
+Ql.
+
+Answer the following questions:
+
+[20]
+
+|_ =
+
+What are the problems caused by redundant storage of data? Explain how DBMS handles this problem.
+
+[5M]
+
+B Explain what the following SQL queries will do and write output for the schema given.
+EMP_ID | PROJ_CODE | EMP_NAME | EMP_SALARY | EMP_DOB
+E100 10 XYZ 1000 22-11-1984
+E101 10 PQR 1500 02-01-1983
+E102 12 ABC 1700 08-09-1985
+
+1. select EMP_ID, EMP_NAME emp where EMP_DOB=’22-11-1984’;
+
+2. select sum(EMP_SALARY) from emp group by PROJ. CODE;
+
+3. select concat(SUBSTRING(EMP_ID, 2) .EMP_NAME) AS EMP_DETAILS;
+4. select CURDATE() AS new_date;
+
+[5M]
+
+Explain total and partial participation in ER diagram.
+
+[5M]
+
+a What is a transaction? How to ensure transactions are atomic and consistent?
+
+[5M]
+
+Q2.
+
+Design an ER diagram for a system that models soccer teams, players, and matches.
+The system should include the following:
+
+There are multiple teams. Each team has a unique ID, name, main stadium, and city.
+
+Each team has many players, and each player belongs to exactly one team. Each player has a unique ID, name,
+
+[10M]
+
+date of birth, start year, and shirt number. Teams play matches. Each match involves two teams: a host team
+
+and a guest team. The match is played in the host team’s stadium. For each match, store: The date of the match
+
+and The final result. Players can participate in matches. For each player in a match, store: Number of goals
+
+scored, Whether the player received a yellow card or red card. Each match is monitored by referees. Each
+
+referee has a unique ID, name, date of birth, and years of experience.
+
+Wfite all the assumptions considered.
+
+FOI 7 FO doi
+
+pen
+--- page 2 ---
+v4
+
+Reduce the above ER diagram into relational tables. Specify constraints if any.
+
+[10M]
+A. Consider the following schema: oe
+Suppliers: (sid:integer,sname:string,city:string) ca
+Parts: (pid:integer,pname:string,pcolor:string)
+Catalogue: (sid,pid,cost)
+Write SQL queries to:
+i [10M]
+I. Find the part name supplied by supplier belonging to “Mumbai”
+2. Find the names of suppliers who are supplying atleast two parts.
+Q3 3. Find supplier who supplies “blue” parts.
+4. Find the names of parts that are not supplied by the supplier 'Reliance'.
+5. Find the names of suppliers whose average part cost is more than 500, showing the highest average
+first.
+A university is developing a database system to manage student enrollments and courses. Each student has a
+unique student ID, name, and age. Each course has a unique course ID and course name. Each enrollment
+record stores which student is taking which course. [10M]
+Explain domain integrity constraints and referential integrity constraints (if any) in the context of this a
+scenario. Write the SQL syntax used to enforce these constraints.
+A. Explain the key relational algebra operations with syntax and example usage. [10M]
+: . Explain the following concepts with examples.
+Q4 B Explain the following SQL pts with pl rai
+Views, Instances and Schema, UNION and IN operators.
+A. Given Relation: R (A, B, C, D, E, F, G, H) and Functional Dependencies: F = {AB > C, BD-»EF, AD—>G,
+AH}. Check the highest normal formal satisfied by R and decompose the tables to get into highest violated | [10M]
+normal form.
+Explain the differences between 2NF and 3NF. Is the following relation in 2NF? Justify your answer.
+Decompose into tables to avoid 2NF violation.
+Sid Cid SName C_Name Grade Faculty F_Phone
+Q5. »
+1 1$30] Adams Programming | B Ravi Gurung 458695
+[10M]
+2 1S208 Jones Database A Padam B. Karki | 601245
+va) 1S208 Smith Database B Padam B. Karki | 601245
+4 1S30] Baker Programming | A Ram Sundar 452368
+*
+
+FOR 2 REE
+--- page 3 ---
+.
+
+A. Is the following schedule conflict and view serializable? Justify your answer. If its conflict serializable, can it
+
+be converted to serial schedule? : [10M]
+06 SERI (A),R2(C),R1(C),R3(A),R3(B),W L(A), W3(B),R2(B),W2(C),W2(B). e
+A retail company maintains a data warehouse to analyze its sales across different regions, prottucts, and time
+periods. The management team wants to generate summary reports such as total sales by region, by product [om]
+category, and combinations of both. To support such analysis, the company uses Online Analytical Processing
+(OLAP) tools. In this context, explain the role and architecture of OLAP in decision making.
+A.
+Write short notes on:
+Q7. 1. Full join, natural and inner join [6M]
+2. Serial equivalent concurrent schedules. [6M]
+3. Primary and Secondary Indexing. [4M]
+4. Role of Database administrator. [4M]
+
+uf
+
+RRR RRR 2 RRR RHE
+````
+
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper c6b93ff4db06
 
 - Departments: Artificial Intelligence, Computer Engineering, Computer Science and Business Systems, Cyber Security, Data Science, Information Technology
@@ -6535,6 +6526,7 @@ v.   Find hotels whose name starts with ‘T’
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/DATABASE MANAGEMENT SYSTEM/Database Management Systems, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 & 2023-24.pdf` (+7 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 76.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -6693,7 +6685,6 @@ conditions for lossless and dependency-preserving decomposition.
 Consider the schema R = {A, B, C, D} such that following functional
 dependency holds on it:
 C03; SO- [10]
-2 BL: 4 F={A-—>B, A— BC, C— D}
 If R is decomposed into relations Ri = {A, B} and R2 = {B, C, D}, check
 if decomposition results in good design or not.
 a 1. Consider the following tables
@@ -7031,6 +7022,7 @@ Page 4 of 4
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_08/Database Management Systems/Database Management System Batch 2024-25 Final Batch 2023-24,2022-23 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -7261,7 +7253,6 @@ T4, and TS:
 
 ~
 --- page 5 ---
-Ty T Ts Th Ts ‘
 WX) —
 
 R(X)
@@ -7722,6 +7713,181 @@ CO2;   Identify and analyse the common problems associated with poor relational 
 SO6;   D.
 BL2   database design.
 ********** 3 **********
+````
+
+## 2024-25 · Final-Exam · Sem 3 · paper 538dc3276186
+
+- Departments: Cyber Security, Information Technology
+- Programmes: BTech CyberSecurity 7010, BTech IT 7001
+- Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CyberSecurity_7010/Database Management Systems/QP_Database Management Systems(702AI0C027)_2025-2026.pdf` (+1 identical copies)
+- Text: text (5 pages)
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+Program/s: ___BTech IT/MBATech IT/BTech Cyber /BTI IT___   Year: 2 Semester: V/IX
+Stream/s : Information Technology
+Subject: ___DBMS   Time: _3__ hrs (______to_______)
+Date:   /   / 2025   No. of Pages:__3___
+Marks: __100_______
+Final Examination/Re-Examination ( Re-exam year)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4___ questions.
+3) In all ___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary.
+SET 1
+Q1   Answer the following questions   [20]
+CO- 1;   a   What are data models? Explain the Relational Model.   [5]
+SO- 2;
+BL- 1
+CO- 2;   B   Explain the features of a good database design with suitable examples.   [5]
+SO - 2;
+BL- 2
+CO- 3 ;   c   Consider a table STUDENT(RollNo, Name, Email, Phone, AadhaarNo, [5]
+SO - 2;   Dept).
+BL- 2   (a) Identify all possible Super Keys.
+(b) Determine the Candidate Keys.
+(c) Choose the most appropriate Primary Key and justify your choice
+CO- 4 ;   d   What is the significance of CAP theorem in NOSQL   [5]
+SO - 2;
+BL-1
+Q2   [20]
+CO- 1 ;   a   Draw an E-R Diagram for the problem statement:   [10]
+SO - 2;
+BL-2   Problem Statement:
+--- page 2 ---
+A university offers multiple programs (e.g., B.Tech IT, B.Tech CS). Each
+program has a unique Program_ID, name, and duration.
+Each program consists of several courses; each course has a Course_Code,
+Course_Name, and credits. A course may be taught by one or more
+instructors; each instructor has an Instructor_ID, name, designation, and
+email.
+Students enroll in one program and are identified by Student_ID, name,
+email, and year_of_admission.
+Students can register for multiple courses each semester, and for each
+registration, the system stores semester, academic_year, and grade.
+CO- 2 ;   b   Consider following movie database:   [10]
+SO - 2;
+BL- 2   users (user_id, full_name, city, contact_no)
+restaurants (restaurant_id, name, address, price level, is active)
+dishes (dish_id, restaurant, name, price, is_veg, is spicy)
+ratings (user_id, dish_id, rating, rated_at, feedback)
+Write SQL statements to perform the following operations.
+i.   Add a new column “email” to users table .
+ii.   Modify table dishes to enforce business rules “dishes.price must be
+> 0.” using CHECK constraints
+iii.   Select all veg, not-spicy dishes with price <= 250 from active
+restaurants.
+iv.   Show each restaurant’s average rating and number of ratings but
+return only those with at least 2 ratings and an average ≥ 4.0.
+v.   Create a view called user_ratings which will show each rating
+alongside the user who gave it.
+Q3   [20]
+CO- 1 ;   a.   Convert the given ER diagram to tables   [10]
+SO - 2;
+BL- 2
+--- page 3 ---
+CO- 3 ;   b.   Consider the following relation used by a retail store to maintain sales   [10]
+SO - 2;   information:
+BL- 3
+SALES(OrderID, OrderDate, CustID, CustName, CustCity,
+ProdID, ProdName, UnitPrice, Quantity,
+SalespersonID, SalespersonName, SalespersonRegion)
+The following Functional Dependencies (FDs) are known to hold:
+OrderID → OrderDate, CustID, SalespersonID
+CustID → CustName, CustCity
+ProdID → ProdName, UnitPrice
+SalespersonID → SalespersonName, SalespersonRegion
+{OrderID, ProdID} → Quantity
+i.   Identify and explain partial and transitive dependencies present in
+the given relation.   [3Marks]
+ii.   Decompose the given relation step-by-step into Third Normal Form
+(3NF).   [5 Marks]
+iii.   Clearly show the final set of relations obtained after normalization,
+with primary keys marked.   [2Marks]
+Q4   [20]
+CO- 1 ;   a.   Illustrate the major challenges encountered while creating a database from   [10]
+SO - 2;   scratch with suitable examples
+BL- 2
+CO- 2 ;   b.   Solve the following queries using relational algebra   [10]
+SO - 2;   Customer(CustomerID, CustomerName, City)
+BL- 2   Order(OrderID, OrderDate, CustomerID)
+Product(ProductID, ProductName, Price)
+Order_Product(OrderID, ProductID, Quantity)
+(i)   Find the names of customers who have placed at least one order.
+(ii)   Get the customer names and order IDs for orders placed after
+‘2024-01-01’.
+(iii)   List all products ordered by customers who live in ‘Chicago’.
+(iv)   List the products that have been ordered by any customer with a
+quantity greater than 1
+(v)   Find all customers located in New York and have ordered
+something in month of October 2024(assume date is in yyyy-mm-dd)
+Q5   [20]
+CO- 2 ;   a.   Consider the following table:   [10]
+SO - 2;   employee (employee_id, first_name , last_name, email, phone_number ,
+BL-2   hire_date, job_id , salary, commission_pct , manager_id , department_id )
+Write the SQL queries the following question:
+i.   Write a SQL query to find those employees who receive a higher
+salary than the employee with ID 163. Return first name, last name.
+[3Marks]
+--- page 4 ---
+ii.   Write a SQL query to find out which employees have the same
+designation as the employee whose ID is 169. Return first name,
+last name, department ID and job ID. [3Marks]
+iii.   Write a SQL query to find those employees whose salary matches
+the lowest salary of any of the departments. Return first name, last
+name and department ID [4Marks]
+CO- 4 ;   b.   Problem Statement:   [10]
+SO - 2;   Consider the following schedule S involving three transactions T1, T2, and T3
+BL- 2   operating on data items A and B:
+Step   T1   T2   T3
+1   T1: Read(A)
+2   T2: Read(A)
+3   T1: Write(A)
+4   T2: Write(A)
+5   T3: Read(B)
+6   T2: Read(B)
+7   T2: Write(B)
+8   T3: Write(B)
+i.   Draw the precedence (serialization) graph for the given schedule S.
+[2 Marks]
+ii.   Determine whether the schedule is conflict-serializable or not. [3
+Marks]
+iii.   If it is, identify the equivalent serial or conflict equivalent schedule.
+[3 Marks]
+iv.   Briefly explain the importance of serializability in concurrent
+transaction execution. [2Marks]
+Q6   [20]
+CO- 4 ;   a.   Define a transaction. Explain the ACID properties of a transaction with   [10]
+SO - 2;   suitable examples. [5 Marks]
+BL-3   Explain conflict serializability and view serializability with suitable
+examples.
+Also state how the two differ in terms of their conditions and scope.
+[5Marks]
+CO- 4 ;   b.   Compare and contrast ACID and BASE properties.   [10]
+SO - 2;
+BL-1
+Q7   Write short notes on:   [20]
+CO-1 ;   a   Advantages of DBMS   [5]
+SO- 2;
+BL-1
+CO- 2 ;   b   Joins in SQL with examples of each.   [5]
+SO - 2;
+BL-2
+--- page 5 ---
+CO- 3;   c   Write a short note on Armstrong’s Axioms used for inferring functional   [5]
+SO - 2;   dependencies.
+BL-3   Explain the three basic rules with one example each and mention any
+additional derived axioms that can be obtained from them.
+CO- 4 ;   d   The difference between Key value based and Column Based storage type   [5]
+SO - 2;   of NOSQL.
+BL-1
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · paper 3be8cba930db
@@ -8200,171 +8366,172 @@ IV. SQL Aggregate functions
 Page 4 of 4
 ````
 
-## 2024-25 · Re-Exam · Sem 4 · paper c47f90ddb2ab
+## 2024-25 · Re-Exam · Sem 3 · paper a62b2c594cc3
 
-- Departments: Data Science
-- Programmes: B TECH / CSEDS-311
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSEDS-311/SEM-IV/DATABASE MANAGEMENT SYSTEM/B Tech, Database Management System, Sem-IV, Batch 2023-24 & 2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 July 2026
-- Text: ocr (3 pages), mean OCR confidence 88.8
+- Departments: Computer Engineering, Information Technology
+- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATABASE MANAGEMENT SYSTEM/Database Management System ,Re-exam ( Batch 2022-23).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 90.7
 
 ````text
-oF
-
 SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program/s: MBATECH Year: II Semester: III
 
-Academic Year: 2025-26
-Program: B Tech (CSE-DS (311))
+Stream/s : "| IT/ COMP
 
-Year: I/MI Semester : [V/VI
-Subject: Database Management System #
-Time: 2.00 pm to 5.00 pm (3 hrs)
-Date : 06 July 2026
-
-CaN
-No. of Pages: 03
+Subject: DATABASE MANAGEMENT SYSTEMS Time: 3 __hrs (4p tovantoL 00pm)
+Date:_{8/2 /2024 No. of Pages: 3
 
 Marks: 100
-Re-Exam (2023-24/2025-26)
 
-Oo
+Re-exam Examination (Batch 2022-2023) |
 
-this S univeRsns *
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. QI. is mandatory. Answer any 4 from the remaining questions.
+1) Quéstion No. | is compulsory.
 
-Ql.
+2) Out of remaining questions, attempt any 4 questions.
 
-Answer the following questions:
+3) In all___5__ questions to be attempted.
 
-[20]
+4) All questions carry equal marks.
 
-|_ =
+5) Answer to each new question to be started on a fresh page.
 
-What are the problems caused by redundant storage of data? Explain how DBMS handles this problem.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
-[5M]
+Ql
+Answer briefly: [20]
 
-B Explain what the following SQL queries will do and write output for the schema given.
-EMP_ID | PROJ_CODE | EMP_NAME | EMP_SALARY | EMP_DOB
-E100 10 XYZ 1000 22-11-1984
-E101 10 PQR 1500 02-01-1983
-E102 12 ABC 1700 08-09-1985
+CO-1;BL-2. | * Describe the purpose of DBMS Specify advantages and disadvantages of DBMS. [5]
 
-1. select EMP_ID, EMP_NAME emp where EMP_DOB=’22-11-1984’;
+b. The film Database contains information about movies, stars and studios. Movies have
+a title, year of production, length and the film type. Stars have a name and address.
+Studios have an owner and a banner. Movies are shot in studios which own them. A
+movie is shot in only one studio. Stars are connected to one or more studios but can
+CO-1; BL-2 act in any film which may or may not be owned by the studio. [5]
 
-2. select sum(EMP_SALARY) from emp group by PROJ. CODE;
+Draw an ER diagram that captures this information. Be sure to indicate all key,
 
-3. select concat(SUBSTRING(EMP_ID, 2) .EMP_NAME) AS EMP_DETAILS;
-4. select CURDATE() AS new_date;
+participation, and cardinality constraints.
 
-[5M]
+Consider Ql. question B and Convert this ER diagram to a relational schema.
 
-Explain total and partial participation in ER diagram.
+-1: BL- 5)
+Cosa Highlight the primary and foreign keys .
 
-[5M]
+d. List and explain various types of aggregate functions used in SQL.
+CO-1; BL-5 P me calie 2 [5]
 
-a What is a transaction? How to ensure transactions are atomic and consistent?
+a. Write relational algebra expression for the following schema:
+Q2 employee (person_name, street, city) [24
+CO-2; BL-4 works (person_name, company_name, salary) 33)
 
-[5M]
-
-Q2.
-
-Design an ER diagram for a system that models soccer teams, players, and matches.
-The system should include the following:
-
-There are multiple teams. Each team has a unique ID, name, main stadium, and city.
-
-Each team has many players, and each player belongs to exactly one team. Each player has a unique ID, name,
-
-[10M]
-
-date of birth, start year, and shirt number. Teams play matches. Each match involves two teams: a host team
-
-and a guest team. The match is played in the host team’s stadium. For each match, store: The date of the match
-
-and The final result. Players can participate in matches. For each player in a match, store: Number of goals
-
-scored, Whether the player received a yellow card or red card. Each match is monitored by referees. Each
-
-referee has a unique ID, name, date of birth, and years of experience.
-
-Wfite all the assumptions considered.
-
-FOI 7 FO doi
-
-pen
+company (company_name, city)
 --- page 2 ---
-v4
+Consider the relational database. Give an expression in relational algebra to express
+each of the following queries:
+1. Find the names of all employees who live in city “Mumbai”.
+2. Find the names of all employees whose salary is greater than 5000
+3. Find the names of all employees in this database who live in the same city as
+the company for which they work. ,
+4. Find the names, street address, and cities of residence of all employees who
 
-Reduce the above ER diagram into relational tables. Specify constraints if any.
+work for First Bank Corporation and earn more than 20,000 per annum.
 
-[10M]
-A. Consider the following schema: oe
-Suppliers: (sid:integer,sname:string,city:string) ca
-Parts: (pid:integer,pname:string,pcolor:string)
-Catalogue: (sid,pid,cost)
-Write SQL queries to:
-i [10M]
-I. Find the part name supplied by supplier belonging to “Mumbai”
-2. Find the names of suppliers who are supplying atleast two parts.
-Q3 3. Find supplier who supplies “blue” parts.
-4. Find the names of parts that are not supplied by the supplier 'Reliance'.
-5. Find the names of suppliers whose average part cost is more than 500, showing the highest average
-first.
-A university is developing a database system to manage student enrollments and courses. Each student has a
-unique student ID, name, and age. Each course has a unique course ID and course name. Each enrollment
-record stores which student is taking which course. [10M]
-Explain domain integrity constraints and referential integrity constraints (if any) in the context of this a
-scenario. Write the SQL syntax used to enforce these constraints.
-A. Explain the key relational algebra operations with syntax and example usage. [10M]
-: . Explain the following concepts with examples.
-Q4 B Explain the following SQL pts with pl rai
-Views, Instances and Schema, UNION and IN operators.
-A. Given Relation: R (A, B, C, D, E, F, G, H) and Functional Dependencies: F = {AB > C, BD-»EF, AD—>G,
-AH}. Check the highest normal formal satisfied by R and decompose the tables to get into highest violated | [10M]
-normal form.
-Explain the differences between 2NF and 3NF. Is the following relation in 2NF? Justify your answer.
-Decompose into tables to avoid 2NF violation.
-Sid Cid SName C_Name Grade Faculty F_Phone
-1 1S208 Adams Database A Padam B. Karki | 601245 :
-Q5. »
-1 1$30] Adams Programming | B Ravi Gurung 458695
-[10M]
-2 1S208 Jones Database A Padam B. Karki | 601245
-va) 1S208 Smith Database B Padam B. Karki | 601245
-4 1S30] Baker Programming | A Ram Sundar 452368
-*
-4 1$208 Baker Database B Padam B. Karki | 601245
+oe ie With examples briefly explain any TWO (2) types of integrity constraints. [10]
+CO-3; BL-3
 
-FOR 2 REE
+a. Table Student schema:
+
+Name Null Type
+
+S ID NOT NULL NUMBER
+FIRST_NAME NOT NULL VARCHAR2(50)
+Q3 LAST_NAME NOT NULL VARCHAR2(50)
+
+CO-3; BL-2 BIRTHDATE NOT NULL DATE
+1.Add two new columns named phone and email to the Student table.
+
+2.Remove BIRTHDATE from the Student table.
+
+[10]
+
+3.rename the first_name column to forename column:
+4.rename the Student table to UG_Student table
+5,Change FIRST_NAME column to F_NAME with datatype VARCHAR2 (20)
+
+b. Consider the following relation:
+PRODUCT(Model, Manufacturer, ProcessorType, Price, Country, Rating)
+Suppose the following functional dependencies exist:
+Model, Manufacturer > Price
+Q3 Model —> ProcessorType, Rating
+Price > Manufacturer
+CO-3; BL-4 Manufacturer —> Country
+: I. | What normal form is the relation in? Explain your answer.
+Il. Apply normalization until you reach the BCNF form. Show the
+
+normalization steps clearly.
+
+[10]
+
+Q4 » |* With Suitable diagram explain Transaction States. [10]
+
+CO-3; BL-4
 --- page 3 ---
-.
+b. Consider the table:
+Student (name, marks, dept, age, place, phone, birthdate).
+Write SQL query for the following.
 
-A. Is the following schedule conflict and view serializable? Justify your answer. If its conflict serializable, can it
+Q4 1. To list students having place as ‘Mumbai or ‘Delhi
+2. To list students having same department(dept) as that of ‘Finance’ [10]
+CO-2; BL-4 3. To change marks of ‘Rahul’ from 81 to 96.
 
-be converted to serial schedule? : [10M]
-06 SERI (A),R2(C),R1(C),R3(A),R3(B),W L(A), W3(B),R2(B),W2(C),W2(B). e
-A retail company maintains a data warehouse to analyze its sales across different regions, prottucts, and time
-periods. The management team wants to generate summary reports such as total sales by region, by product [om]
-category, and combinations of both. To support such analysis, the company uses Online Analytical Processing
-(OLAP) tools. In this context, explain the role and architecture of OLAP in decision making.
-A.
-Write short notes on:
-Q7. 1. Full join, natural and inner join [6M]
-2. Serial equivalent concurrent schedules. [6M]
-3. Primary and Secondary Indexing. [4M]
-4. Role of Database administrator. [4M]
+4. To Add anew column studentId with number(3) data type and Primary Key.
+5. To list students who are not from ‘Chennai’.
 
-uf
+a.
+oo Differentiate Primary key, Candidate key and Super key with examples [10]
+CO-1; BL-2
+Q5 b. What are different types of Serializability? List main rules to implement Conflict
+CQ-3; BL-2 Serializability?
+Q6 What are the key characteristics of NoSQL? Describe various data types used in 10]
+CO-4; BL-2 NoSQL
 
-RRR RRR 2 RRR RHE
+b. Consider the following table:
+
+employee(employee_id, first_name , last_name; email, phone_number , hire_date,
+job_id, salary, commission_pct , manager_id , department_id )
+1. Write a SQL query to find those employees who receive a higher salary than
+
+Q6 the employee with ID 163. Return first name, last name. [3+3+
+CO-3: BL-4 2. Write a SQL query to find out which employees have the same designation 4]
+, as the employee whose ID is 169. Return first name, last name, department
+ID and job ID.
+
+3. Write a SQL query to find those employees whose salary matches the lowest
+salary of any of the departments. Return first name, last name and
+department ID
+
+a. Write a Short Note on following:
+
+1, Properties of functional dependencies
+
+Q7 : ; [S+5+
+2. Complex vs‘Composite Attribute
+
+O° BL Be)
+COs Bie 3. ACID properties of transaction ]
+
+4. Role of DBA
+--- page 4 ---
+
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · paper d36da3c2ce57
@@ -8374,6 +8541,7 @@ RRR RRR 2 RRR RHE
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DATABASE MANAGEMENT SYSTEMS/Database Management Systems Batch 2023-24,2024-25 Re Exa0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: ocr (3 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 -
@@ -8525,7 +8693,249 @@ S06; database design and provide an example of its application.
 
 BL2
 
-FICO 3 FGI KOR A ici
+````
+
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 659bb2963ac2
+
+- Departments: Artificial Intelligence, Common (all branches), Computer Engineering, Computer Science and Business Systems, Data Science
+- Programmes: B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSBS, B TECH / DATA SCIENCE, B.TECH INTEGRATED, B.TECH INTEGRATED / COMPUTER, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ALL STREAMS/SEM-IV/DATABASE MANAGEMENT SYSTEM/Database Management System, Sem-IV, Final Exam & Re Exam 2022-23.pdf` (+9 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 88.7
+
+````text
+SVKM’S NMIMS F
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT ¥
+Academic Year: 2023-2024 -
+Program/s:B TECH/MBA TECH/B.Tech Integrated Year: I/IV Semester: IV/VIII
+Stream: DS/Comp Engg/Comp Sci/AI/AIML/AIDS/CSBS/CSEDS 7057/ALL STREAMS
+Subject: Database Management Systems Time: 3 hrs ( 10.00a:
+Date:_23_/ 04 / 2024 No. of Pages:6 <
+Marks: 100 fy”
+
+Final Examination/Re-Examination (2022-23) \w, RY
+Instructions: Candidates should read carefully the instructions Printed o on the he guasin paper and on<
+the cover of the Answer Book, which is provided for their use. - Stes“ utent
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+‘4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly:
+CO4; a.
+SO-1; What do you understand by transaction? Describe the state diagram of a transaction. [5]
+BL-1
+C03: b. | Consider the relation R =.(4, B, C, D, £) with the following FDs:
+L - F={A-> BC, CD> E, BD, E- A}. Find the closure of ABD. State whether [5]
+cSO-6 ; f , :
+BL-3 ABD is candidate, key or not? Justify your answer.
+c. | Considering two relations given: below provide the output of following query: _
+Select * from Customer full outer join Transaction using (CustNumber)
+CO2- ; F C Trans ction Customer
+SO-6; Gon stor amount Cust Customer Name [5]
+BL-3 io Number
+Ti__|[Cl 1000 5 yaaa
+T2_. [C2 2000 a om
+T3 C5 3000
+--- page 2 ---
+¥
+
+CO4-; | d.
+
+SO-1; State any five applications where use of Database Management System is helpful [5]
+BL-2
+i. List the drawbacks of file system and explain how it can be overcome in
+DBMS
+ii. | Map following Entity Relationship (ER) Diagram into relational schema and
+Qra provide proper justification. Identify primary keys and foreign keys in the
+COl-; relational schema [10]
+
+student |‘ subrnission wesipumen OD
+ee SR ||
+
+SO-1; (version) : .
+
+Consider a social media database with the following schema:
+User (username, age, country)
+WatchHistory (username, movielD, timestamp)
+
+Movie (movielD, title, genre, release_year)
+
+Q2b Construct the relational algebra expressions for the following statements
+CO2-; i. Find the usernames of users who live in country "India". [10]
+pee ii. Retrieve the titles of all movies released after the year 2022.
+iii. | Find the usernames of users who are from the "India" and have watched
+movies released after the year 2022. .
+iv. Find the usernames, ages, and countries of users who have watched movies
+with the genre "Comedy"
+Consider the following schema for Order Database:
+SALESMAN (Salesman_id, Name, City, Commission)
+3a CUSTOMER (Customer _id, Cust_Name, City, Grade, Salesman_id*)
+CO2-; ORDERS (Ord _ID, Purchase_Amt, Ord_Date, Customer_id*, Salesman_id*)
+50:1; Construct the SQL queries for the following operations [10]
+— i. Create a view that finds the salesman name with city Hyderabad and
+
+Commission less than 10,000 [2]
+ii. | Find the details of all customers with Customer_id ‘C101’ and minimum
+
+purchase amount is‘50,000/-. [2]
+--- page 3 ---
+iii. | Count the customers with grades above Bangalore’s average. [3] ve
+
+iv. Find the name and numbers of all salesman who had more than one customer.
+
+[3]
+
+Consider a table personal_details as given below. Identify the normal form of the
+given table? Justify your answer. Convert the table personal_details into the highest
+
+Normal Form
+
+P_id | Fname | Lname Email City State | Zip code
+G243 | Seema | Shaikh |seema@gmail.com| Chennai | Tamil 421568
+Q3b ; Nadu
+i , D548 | Vinod Kapoor |vk@gmail.com Noida Uttar 465218
+~CO3- : ‘ ee Pradesh [10]
+| — A284 | Rick Gauge |rickg@gmail.com | Bangalo | Karnata | 439546
+° re ka
+|1K924 |Nupur | Shah — |nshah@gmail.com | Noida _| Uttar 465339
+; Pradesh
+H479 | Firoz Khan |khanf@gmail.com | Mumbai | Maharas | 400194
+htra
+Universal Recorders has decided to hire you as a database designer and you need to
+create a database about musicians who perform on its albums. Design a conceptual
+schema for Universal and draw an ER diagram for your schema. Also, convert
+ER diagram into relational schema.
+p Be sure to indicate all key and cardinality constraints and any assumptions that you
+Q4a make.
+=" i. a. Each musician that records at Universal studio has an SSN, a name, an | [10]
+BL-6 address, and a phone number.
+
+b. Each instrument that is used in songs recorded at Universal has a name (e.g.,
+guitar, synthesizer, flute) and a musical key (e.g., C, B-flat, E-flat).
+
+c. Each album that is recorded on the Universal label has a title, a copyright date,
+a format (e.g., CD or MC), and an album identifier.
+
+d. Each song recorded at Universal has a title and an author.
+--- page 4 ---
+e. Each musician may play several instruments, and a given instrument may, be
+played by several musicians.
+
+f. Each album has a number of songs on it, but no song may appear on more
+than one album.
+
+g. Each song is performed by one or more musicians, and a musician may
+perform a number of songs.
+
+h. Each album has exactly one musician who acts. as its producer. A musician
+
+may produce several albums, of course.
+
+Q4b What is NoSQL database and its different types? Why to use a NoSQL database
+con instead of a relational database? List some advantages of NoSQL. How data is stored | [10]
+BL3 in a NoSQL Database?
+Qa
+COl1-; Describe Mapping Cardinalities, Weak entity sets, Generalization and specialization [10]
+SO1-; in ER model with an appropriate example.
+BL-3
+Evaluate whether the given schedule S is conflict serializable or not
+Tl T2 T3 T4
+READ(X)
+WRITE(X)
+Sb Commit
+Q WRITE(X)
+CO4-; Commit [10]
+SO-6; WRITE(Y)
+BL-5 READ(Z)
+: Commit
+READ(X)
+READ(Y)
+Commit
+06 Describe the anomalies in Relational database design with an example. Given set
+a of FDs F over a relation R(A, B, C, D, E, F, G, H, I, J) are as follows
+CO2-; ABC, A> DE, B> F, FO>GH, DOI [10]
+SO-; i. Determine all the candidate keys of R.
+BL-4 ii. Find the highest normal form for the above relation.
+
+iii. __ Decompose the relation into 3NF
+--- page 5 ---
+Formulate the SQL queries for the following statements. Tables are provided for |
+
+your reference
+i. List out
+
+List out the worker’s first name who have received bonus.
+of the Managers and Assistant Managers
+
+the details of workers with first name having character ‘A’
+ii.
+iii. Display the full names and salary
+
+with respect to the dates on which they have been assigned the roles.
+
+iv. List the number of workers for each department in descending order of the
+
+department.
+vy. List the full name and salary of the worker who is earning the highest
+
+salary(use nested subquery) .
+Table - Worker
+
+| wip FNAME | LNAME | SALARY JOXNING_DT DEPT |
+
+101 Simran Singh 100000 2022-02-22 HR
+102 Anil Pathak 80000 2021-05-03 Admin
+Q6b 103 Neha Kadam 300000 | 2020-09-16 HR
+CO2-; 104 Sameer | Sinha 500000 2022-08-30 Admin [10]
+aa Table — Bonus
+WID | BONUS_DT | BONUS_
+AMT
+101 | 2023-02-16 4000
+102 | 2023-04-15 5000
+( 101 | 2023-05-20 3000
+103 | 2023-06-18 4500
+Table — Title
+WID W_TITLE FROM _DT |
+101 Manager 2023-02-15
+102 Executive 2023-05-05
+104 Asst. Manager 2023-06-10
+103 Lead 2023-06-10
+--- page 6 ---
+Q7a
+
+CO1,2; i. Describe the levels of Abstraction in a DBMS [5] [10]
+SO-6; ii. Demonstrate at least five Relational algebra operators with examples [5]
+BL-3
+
+i. List different types of constraints used in SQL. Explain any four with an
+example. [5] ;
+ii. Construct SQL queries for the following schema [5]
+person (driver-id, name, address)
+car (license, model, year)
+
+Q7b accident (report-number, date, location)
+
+CO2-: owns (driver-id, license) ‘
+
+SO-1: participated (driver-id, license, damagemount) [10]
+BL-4
+
+a. SQL DDL definition for the table participated of this database. Identify
+referential-integrity constraints that should hold and include them in the
+DDL definition.
+
+b. Write query to insert two records in the accident table
 ````
 
 ## 2023-24 · Final + Re-Exam · Sem 3 · paper e892bd217660
@@ -8939,6 +9349,356 @@ List different types of database users. Explain any 2 in detail 5M
 BL-1
 ````
 
+## 2023-24 · Re-Exam · Sem 3 · paper 9c309253cc51
+
+- Departments: Artificial Intelligence, Computer Engineering, Information Technology
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / I T, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/DATABASE MANAGEMENT SYSTEMS/Database Management System, Re-exam 2022-23.pdf` (+5 identical copies)
+- Printed on paper: max marks: 100; duration hours: 4
+- Text: ocr (3 pages), mean OCR confidence 88.4
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024
+
+i
+
+Program/s: B.TECH /MBATECH Year: 2"4 Semester: Il
+
+Stream/s :IT/DS/CSE CS/Computer/AI
+
+Subject: DATABASE MANAGEMENT SYSTEMS ; Time: 4 hrs(l0amto Lpm_)
+Date: 15 /O2 /2024 No. of Pages: 3
+
+Marks: 100 :
+
+Re Examination(2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+(2) Out of remaining questions, attempt any 4 questions.
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started ona fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: [20]
+CO-1; SO- | a. .
+: Discuss the importance of data abstraction with its levels.
+BL-2
+CO-1;SO- | b. Explain with example how other objects like sequence and Index enhance the
+BL-2 performance of the database.
+c. Construct an E-R diagram for a hospital with a set of patients and a set of médical
+y mates doctors. Associate with each patient a log of the various tests and examinations
+; ; conducted. Details of the test will include test-id, test-name, date, time, and result.
+BL-5 Patient’s details stored will be ss#, name, insurance, date-admitted, date-checked-out.
+Doctor’s details to get dss#, name, specialization.
+CO-1; SO- | d. Convert the ER diagram of (Q1. C.) into physical schema. Mention Primary Key ,
+BL-5 Foreign Key of all relations.
+a. Write relational algebra expression for the following schema:
+Q employee (person_name, street, city) [2+2+3
+oe SO-; works (person_name, company_name, salary) +3]
+
+company (company_name, city)
+--- page 2 ---
+Consider the relational database. Give an expression in the relational algebra to_
+express each of the following queries: ;
+1. Find the names of all employees who live in city “Miami”.
+2. Find the names of all employees whose salary is greater than $100,000
+3. Find the names of all employees in this database who live in the same city
+as the company for which they work. : ,
+4. Find the names, street address, and cities of residence of all employees who
+
+work for First Bank Corporation and earn more than $10,000 per annum.
+
+Qe D. What is the significance of conversion functions like To_CHAR () and
+
+3: SO. [10]
+COs Res TO_NUMBERQ in SQL. Describe its usage with examples.
+
+BL-3
+Q3 a Discuss the atomicity, durability, isolation, and consistency preservation properties [10]
+CO-3; SO-; of a database transaction.
+BL-2
+Q3 b.
+CO-3; SO-; Illustrate redundancy and the problems that it can cause [10]
+BL-4 -
+a. 3. Let us assume a table User_Personal as given below.
+
+1. find all the possible functional dependencies that are held.
+
+2. Identify the current Normal Form.
+Q4 3. Decompose the relation and normalize to 3NF
+CO-3; SO-; — : _ [10]
+BL-4 UserID U_email Frame Iname City State Zip
+
+
+
+
+
+
+b. Consider the table:
+Student (name, marks, dept, age, place, phone, birthdate).
+Write SQL query for following.
+
+Q4 1. To list students having place as ‘Mumbai or “Delhi
+CO-2; SO-; 2. To list students having same department(dept) as that of ‘Finance’ [10]
+BL-4 3. To change marks of ‘Rahul’ from 81 to 96.
+
+4. To Add anew column studentld with number(3) data type and Primary Key.
+
+5. To list students who are not from ‘Chennai’.
+Q5 7 Differentiate Primary key, Candidate key and Super key with examples [10]
+CO-1; SO-;
+--- page 3 ---
+BL-2
+
+- What are different types of Serializability? List main rules to implement Conflict”
+CO-3; SO-; ae
+; 5 9
+BL-2 Serializability?
+Q6 What are the key characteristics of NOSQL? Describe various data types used in
+CO-4; SO-; NoSQL [10]
+BL-2 ;
+Consider the following table:
+employee(employee_id, first_name , last_name, email, phone_number , hire_date,
+job_id, salary, commission_pct , manager_id, department_id) ~
+6 1. Write a SQL query to find those employees who receive a higher salary
+than the employee with ID 163. Return first name, last name. [34344]
+|.CO-3; SO-; 2. Write a SQL query to find out which employees have the same designation
+3L-4 as the employee whose ID is 169. Return first name, last name, department
+ID and job ID. :
+3. Write a SQL query to find those employees whose salary matches the
+lowest salary of any of the departments. Return first name, last name and
+department ID :
+Write a Short Note on following:
+Q7 1. Properties of functional dependencies [54545
+CO-2; SO-; 2. Complex vs Composite Attribute 45]
+BL-2 3. Domain Constraint
+4. Disadvantages of DBMS
+‘
+4
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper 5b349e58e5e9
+
+- Departments: Computer Engineering, Computer Science and Business Systems, Data Science
+- Programmes: B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/DATABASE MANAGEMENT SYSTEM/Database Management Systmes Batch 2022-23 Re Exam.pdf` (+4 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 87.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE
+SCHOOL OF TECHNOLOGY MANAGEMENT
+; Academic Year: 2023-2024
+Program/s: B TECH/MBA TECH/B.Tech Integrated Year: II/IV - Semester: IV/VIII
+
+Stream/s :DS/Comp Engg/Comp Sci/AI/AIML/AIDS/CSBS/CSEDS 7057
+
+Subject: Database Management Systems : Time: 3 hrs ( 10.00am to 1.00pm)
+Date:_29./ 6 / 2024 No. of Pages:5
+
+Marks: 100
+
+- kke-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use. , ;
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly:
+
+CO4; | a. | Explain transaction with an example. Describe the ACID properties in Transaction
+
+SO-1; Management.
+BL-1
+CO3; |b. .
+> SO-6 ; Describe the need of normalization with an example. [5]
+BL-3
+
+c. | Consider a database system for a library that stores information about books, authors,
+and publishers. The database consists of the following tables:
+Book (ISBN, Title, PublicationYear, PublisherID)
+
+Author Table (AuthorID, Name, Nationality)
+
+ae Publisher Table (PublisherID, Name, Address) [5]
+BL-4 =
+
+i. Create relationship table between book and author and justify cardinality
+between them.
+
+ii. | Write SQL query to create tables Author, Publisher and book. Add foreign.
+and primary key constraints as required
+--- page 2 ---
+COL; [a How does the concept of abstraction contribute to the usability of database systems? [5]
+
+aes Describe various levels of abstraction
+Q2da
+COl-: Describe the five main functions of a database administrator? List five real life
+S0-1 > applications which you have used and found that Database management system was [10]
+: beneficial over file system.
+BL-3
+Consider the relation schema given below
+Suppliers (SID, sName, address)
+Parts (PID, pName, color)
+Catalog (SID, PID, price)
+Q2b Construct the relational algebra expressions for the first 4 statements
+CO2-; i, Find the name of all red parts. [10]
+SO-l; ii. Find all prices for parts that are red or green. (A part may have different prices
+BL-5 from different manufacturers.)
+iii. Find the SIDs of all suppliers who supply a part that is red or green
+iv. Find the names of all suppliers who supply a part that is red or green.
+vy. Explain the following terms with examples a) Candidate key b) foreign key
+constraints
+Construct the SQL queries for the following statements based on the following
+tables
+EmployeeInfo Table: (EmpID integer, EmpFname varchar(25), EmpLname
+varchar(25), Dept varchar(15), Project varchar(10), Address varchar(25), DOB date,
+Gender varchar(10)) ;
+Q3a EmployeePosition Table: (EmpID integer, EmpPosition varchar(10), DateOfJoining
+CO2-; date, Salary integer)
+1 ; [10]
+ale i. Fetch the number of employees working in the department “HR’.
+BL-6 = ii. Find number of employees whose DOB is between 02/05/1970 to 31/12/1975
+and are grouped according to gender.
+iii, | Fetch all the records from the EmployeeInfo table ordered by EmpLname in
+descending order and Department in the ascending order.
+iv. Fetch details of employees whose EmpLname ends with an alphabet ‘A’ and
+contains five alphabets.
+v. Retrieve duplicate records from a table.
+Evaluate whether the given Product table is in 3 NF. Justify your answer. If yes, then
+Q3b convert it into BCNF. [10]
+--- page 3 ---
+a =
+S0-6; Product
+BL-5
+Brand_id | B_name Product_id (Quantity
+Bo01 Parle G P1001 1100
+Boo1 Parle G P1003 1500
+Bo02 Hide n Seek P1002 1000
+Boos Krackjack P1001 2500
+Bo04 Monaco P1100 1150
+Bo04 Monaco P1002 500
+Design a database for an automobile company to provide to its dealers to assist them in
+maintaining customer records and dealer inventory and to assist sales staff in ordering
+cars. Each vehicle is identified by a vehicle identification number (VIN). Each
+Q4a individual vehicle is a particular model of a particular brand offered by the company
+COl-: (e.g., the XF isa model of the car brand Jaguar of Tata Motors). Each model can be
+SO-1 2 offered with a variety of options, but an individual car may have only some (or none) [10]
+BL- 6 of the available options. The database needs to store information about models, brands,
+and options, as well as information about individual dealers, customers, and cars.
+Your design should include an E-R diagram, a set of relational schemas, and a list of
+constraints, including primary-key and foreign-key constraints.
+i. Describe the concept of views with an example [5]
+ii. | Construct the SQL queries for the given task considering following relations
+[5]
+EMP (Emp_no, Dept_no, Emp_name, Job, Salary, MGR, Hiredate)
+Q4b DEPT (Dept_no, Dept_name, Location)
+CO2-; Find 5 ‘ ‘ ¥ [10]
+| §0-1: a. Find the details of the employee who is taking the second highest salary
+BL-5 using subqueries/nested queries. ;
+b. Display department wise average salary for those departments where
+number of employees are more than 20.
+c. Display employee details from Highest to lowest order of their salaries
+i. Describe Specialization and Generalization feature of extended ER with
+Q5a examples. Give an example of weak entity set and justify whether there will
+always be total participation for the weak entity set. [5]
+COl1-; [10]
+SO1-; ii. | Describe the importance of check constraints and not null constraints in SQL.
+BL-4 Formulate a SQL query using these constraints [5]
+--- page 4 ---
+i. State the importance of primary key in a relation. Explain the following. .
+relational algebra operations with examples: a) set intersection, b) projection
+
+[5]
+ii. _ Consider two relations: [5]
+Course
+course_id title dept_name credit
+CS 190 Python Computer 4
+Qh EC 380 Embedded systems _ | Electronics 3
+CO2-; MX 415 Robotics Mechatronics | 3 [10]
+SO-6;
+BL-4 Prerequisite
+course_id - preq_id
+EC 380 EC 301
+MX 415 MX 190
+a. Provide the output of following query: select * from Course natural left outer
+join Prerequisite
+b. Convert query in (a) into relational algebra expression
+Given set of FDs F over a relation R (U, V, W, X, Y, Z) is:as follow:
+‘ VW > XY
+Q6a Yov
+CO3-; WX — YZ [10]
+SO-1; ; ZU
+BL-5 i. Determine two possible candidate keys of R.
+ii. Find the highest normal form for the above relation. Justify your answer
+iii. | Decompose the relation into 3NF
+Consider the set of relations Formulate the queries for the following statements:
+student (sid, sname, gender, age, year, gpa)
+dept(dname, numphds)
+prof(pname, dname)
+course(cno, cname,dname)
+Q6b major(dname,sid)
+section(dname,cno,sectno, pname)
+CO2-; enroll(sid, grade,dname,cno,sectno) [10]
+SO-6;
+BL-5 a) Print the names of professors who work in departments that have fewer than 50
+
+PhD students.
+b) Print the name(s) of student(s) with the lowest gpa.
+
+c) Print the names of departments that have one or more majors who are under 18
+years old.
+--- page 5 ---
+d) Print the names of students who are taking both a Computer Sciences course
+and a Mathematics Course. -
+
+e) Explain any two aggregate functions in SQL
+
+Qa .
+CO4; Describe the need of NoSQL databases. Compare and Contrast between SQL and [10]
+SO-6; MongoDB
+BL-3
+i. Evaluate whether the following three schedules’ results are equivalent [5]
+Schedule $1 Schedule S2 Schedule S3
+T1 T2 T1 T2 T1 T2
+R (X) R (X) R(X)
+X=X+5 X=X+6 X=Xx3
+w(x) w(X) , w(x)
+Q7b RY) RIX) R(X)
+CO4-; Y=Y45 X=Xx3 | X=X+5 [10]
+80-6; wy) wx) w(x)
+BL-5
+R(X) R(Y) R(Y)
+X=Xx3 f[ Y=¥+65 Y=Y¥+6
+W(X) wiy) wy)
+ii. Differentiate between confict serializability and view serializability [5]
+````
+
 ## 2023-24 · Re-Exam · Sem 4 · paper 37aa3de1b3bb
 
 - Departments: Data Science
@@ -9190,6 +9950,248 @@ a 3. 3NF with example. [4M]
 END -
 ````
 
+## 2022-23 · Exam not stated · paper fdf020b81988
+
+- Departments: AI and Data Science, AI and Machine Learning, Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE & DATA SCIENCE, B TECH / ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE & DATA SCIENCE/DATABASE MANAGEMENT SYSTEMS/Database Management Systems, All Stream & Artificial Intelligence, 2nd Year, Sem-_03314c0d.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 November 2022
+- Text: ocr (5 pages), mean OCR confidence 89.6
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+\
+
+SVKM’s NMIMS <a K
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /~
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23
+
+Programme: B.Tech / MBA Tech (All Stream) / Year: I/l Semester: III/V
+B. Tech (Artificial Intelligence)
+
+Subject: Database Management Systems |
+Marks: 100
+Date: 28 November 2022 - Time: 10.00 am - 1.00 pm
+Durations: 3 (Hrs) |
+No. of Pages: _05
+Final Examination
+
+qaptrections: Candidates should read carefully the instructions printed on the question paper and on the cover
+.. the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+
+a. | Explain the terms primary key, candidate key, and foreign key. Give an [5]
+
+CO -2; BL- 2 example for each.
+
+b. | Why is the use of a database management system recommended? Justify by [5]
+&O-1; BL-2 38 ; : on
+i listing some of its major advantages and applications
+
+c. | Functional dependencies for relation schema R = (X, Y, Z, U, V) are given [5]
+below:
+CO-3; BL-3 X > YZ,ZUDV,Y> U,V> X
+Find the closure of attributes X*, ZU*, Y*, V* and also identify prime and
+non-prime attributes.
+
+CO-4; BL-2 | 4. | Discuss transaction and its properties. (5]
+— |@ [20]
+° a. | Suppose the following requirements for a simple database for the National
+oe Hockey League (NHL) are given: The NHL has many teams, each team has a
+CO-1: BL-S name, a city, a coach, a captain, and a set of players, each player belongs to [10]
+
+only ‘one team, each player has a name, a position (such as left wing or
+goalie), a skill level, and a set of injury records, a team captain is also a
+player, a game is played between two teams (referred to as host_team and
+
+Ys
+--- page 2 ---
+guest_team) and has a date (such as May 11th, 1999) and a score (e.g. 4).
+
+i. Design an Entity Relation for above problem statement.
+
+ii. Map the ER diagram into relational schema indicating primary keys and
+foreign keys.
+
+b. | What is the use of normalization? Define 3NF with example. Given set of
+functional ‘dependencies ofa relation R(ABCDE) are as follows:
+AB>C,B>D,DSE
+
+-3: BL- [10
+a, Bt Identify the candidate keys HO]
+ii. Identify the current Normal form of the Relation
+iii. Decompose the relation and normalize it to 3NF-
+a [20]
+
+a. | 1. Explain specialization and generalization with examples.
+ii. What do you mean by integrity constraints? Explain the two constraints, 10).
+CO; ala check constraints and referential integrity constraint constraints in SQL with
+
+an example for each.
+
+b. | Consider the set of relations and write the SQL queries:
+
+EMP (Emp_no, Dept_no, Emp_name, Job, Salary, Address)
+
+DEPT (Dept_no, Dept_name, Location)
+
+Formulate the SQL queries for the following
+
+i. To display all the information of employees including their department. [2]
+CO-1; BL-4 ii. Find the name of the employees whose job profile location is the same as [10]
+
+their address. [2]
+
+iii. Find the details of the employee who is taking the second highest salary
+
+using subqueries/nested queries. [3]
+
+iv. Find the employee name and salary whose salary is greater than average
+
+salary of the employee. [3]
+
+Q4 [20]
+
+a. | Why is a weak entity set called weak? How is the weak entity set represented
+CO-2; BL-3 in the ER model? Give an example. Justify whether there will always be total | [10]
+; participation for the weak entity set. , ,
+
+b. | i. Discuss BCNF normal form in relational database design with an example.
+CO-3; BL-3 ii. Given the following relation R and the set of functional dependencies F [10]
+that hold on R, find all candidate keys for R.
+
+2/5
+--- page 3 ---
+RG, Y, Z, U,V, W)
+
+05 [20]
+
+a. | What is view serializability and conflict serializability? Check whether the
+
+schedules given below is conflict serializable or not? Provide justification
+
+W1(B)
+b. | Consider the relations given below.
+Actor (actorId, name, nationality, age)
+Director (directorld, name, nationality)
+Film (filmld, title, year, directorId*)
+
+Write the relational algebra expression for the following
+a ee i. Retrieve details of all actors above the age of 45. ml
+ii. Retrieve all distinct film titles.
+iii. _ Retrieve all distinct titles of films that were released before 2000.
+iv.- Retrieve the details of all films released in 2012 and directed by a non-
+
+American director, along with the details of the corresponding
+
+director.
+~ v. Retrieve all distinct titles of films directed by a British director
+Q6 [20]
+a. | Consider a database with the following schema:
+
+[Person ( name, age, gender ) Iname is a key
+
+|Frequents ( name, pizzeria ) name, pizzeria) is a key
+
+|Eats (name, pizza ) name, pizza) is a key
+
+Serves ( pizzeria, pizza, price) —_‘|(pizzeria, pizza) is a key
+
+CO-3; BL-4 [10]
+
+Eats contains information about what type of pizza each person (customer)
+eats (dikes)
+
+¢ Name is always the customer’s name
+
+* Frequents record information about pizzerias that each customer frequents
+(visits)
+
+Ys
+--- page 4 ---
+* Serves contains information about all possible pizza types for each pizzeria
+pizzeria is a restaurant focusing on pizza
+
+Write relational algebraic expression for the following
+
+i. Find all pizzerias frequented by at least one person under the age of 18 [2]
+ii. List the name of the persons who eats tomato pizza [2]
+iii. Find the names of all females who eat both mushroom and pepperoni
+pizza. 13]
+
+iv. Find all pizza types which are not eaten by anyone. [3]
+
+b. | Differentiate between the characteristics of NoSQL and relational database
+CO-4; BL-3 [10]
+management system.
+
+Qi [20]
+
+a. | i. Justify the statement “Decomposition of relation in normalization reduces
+CO-3; BL-3 the redundancy.” [10]
+
+ii. Discuss fully functional dependency with an example.
+
+b_ | i. Discuss the use of outer join and also explain different types of outer join.
+
+ii. The instance of the Salesman and order relation is given:
+
+Salesman
+salesman_id name city commission
+5001 James Hoog | New York 0.15
+5002 Nail Knite Paris 0.13
+CO-3; BL-3 5005 Pit Alex London 0.11 [10]
+5006 Mc Lyon Paris 0.14
+5007 Paul Adam | Rome 0.13
+5003 Lauson Hen | San Jose 0.12
+
+4 5
+--- page 5 ---
+Order.
+
+ord_no | purch_amt | ord_date customer_id | salesman_id
+70001 | 150.5 2012-10-05 | 3005 5002
+70009 _| 270.65 2012-09-10 | 3001. 5005
+70002 | 65.26 2012-10-05 | 3002 5001
+70004 | 110.5 2012-08-17 | 3009 5003
+70007 | 948.5 2012-09-10 | 3005 5002
+70005 | 2400.6 2012-07-27 | 3007 5001
+70008 | 5760 2012-09-10 | 3002 5001
+70010 | 1983.43 2012-10-10 | 3004 5006
+70003 | 2480.4 2012-10-10 | 3009 5003
+70012 | 250.45 2012-06-27 | 3008 5002
+70011 | 75.29 2012-08-17 | 3003 5007
+
+lon 70013 | 3045.6 2012-04-25 | 3002 5001
+
+Formulate the SQL queries for the following
+i. Find the details of those salespeople who come from the 'Paris' City or
+‘Rome' City.
+ii. Find the details of those salespeople who live in cities other than Paris
+and Rome.
+iii. | Select orders between 500 and 4000 (begin and end values are
+included) Exclude orders amount 948.50 and 1983.43.
+x:
+OQ
+````
+
 ## 2022-23 · Exam not stated · Sem 3 · paper 1af73aad7ef8
 
 - Departments: Artificial Intelligence, Computer Engineering, Information Technology
@@ -9197,6 +10199,7 @@ END -
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/DATABASE MANAGEMENT SYSTEMS/Database Management System, Sem-III, Year 2022-23.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 89.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 v
@@ -9356,7 +10359,6 @@ CO-2; BL- 3
 
 Consider following relational database of a college:
 Student(RollNumber, StudentName, Semester, city)
-Teachers(TeacherID, TeacherName, TeachingSubject)
 College(RollNumber, TeacherID)
 
 Write relational algebra expression for the following:
@@ -9437,249 +10439,6 @@ Ill. | Write SQL query to find total number of papers received in the
 conference.
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 659bb2963ac2
-
-- Departments: Artificial Intelligence, Common (all branches), Computer Engineering, Computer Science and Business Systems, Data Science
-- Programmes: B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSBS, B TECH / DATA SCIENCE, B.TECH INTEGRATED, B.TECH INTEGRATED / COMPUTER, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ALL STREAMS/SEM-IV/DATABASE MANAGEMENT SYSTEM/Database Management System, Sem-IV, Final Exam & Re Exam 2022-23.pdf` (+9 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 88.7
-
-````text
-SVKM’S NMIMS F
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT ¥
-Academic Year: 2023-2024 -
-Program/s:B TECH/MBA TECH/B.Tech Integrated Year: I/IV Semester: IV/VIII
-Stream: DS/Comp Engg/Comp Sci/AI/AIML/AIDS/CSBS/CSEDS 7057/ALL STREAMS
-Subject: Database Management Systems Time: 3 hrs ( 10.00a:
-Date:_23_/ 04 / 2024 No. of Pages:6 <
-Marks: 100 fy”
-
-Final Examination/Re-Examination (2022-23) \w, RY
-Instructions: Candidates should read carefully the instructions Printed o on the he guasin paper and on<
-the cover of the Answer Book, which is provided for their use. - Stes“ utent
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-‘4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly:
-CO4; a.
-SO-1; What do you understand by transaction? Describe the state diagram of a transaction. [5]
-BL-1
-C03: b. | Consider the relation R =.(4, B, C, D, £) with the following FDs:
-L - F={A-> BC, CD> E, BD, E- A}. Find the closure of ABD. State whether [5]
-cSO-6 ; f , :
-BL-3 ABD is candidate, key or not? Justify your answer.
-c. | Considering two relations given: below provide the output of following query: _
-Select * from Customer full outer join Transaction using (CustNumber)
-CO2- ; F C Trans ction Customer
-SO-6; Gon stor amount Cust Customer Name [5]
-BL-3 io Number
-Ti__|[Cl 1000 5 yaaa
-T2_. [C2 2000 a om
-T3 C5 3000
---- page 2 ---
-¥
-
-CO4-; | d.
-
-SO-1; State any five applications where use of Database Management System is helpful [5]
-BL-2
-i. List the drawbacks of file system and explain how it can be overcome in
-DBMS
-ii. | Map following Entity Relationship (ER) Diagram into relational schema and
-Qra provide proper justification. Identify primary keys and foreign keys in the
-COl-; relational schema [10]
-
-student |‘ subrnission wesipumen OD
-ee SR ||
-
-SO-1; (version) : .
-
-Consider a social media database with the following schema:
-User (username, age, country)
-WatchHistory (username, movielD, timestamp)
-
-Movie (movielD, title, genre, release_year)
-
-Q2b Construct the relational algebra expressions for the following statements
-CO2-; i. Find the usernames of users who live in country "India". [10]
-pee ii. Retrieve the titles of all movies released after the year 2022.
-iii. | Find the usernames of users who are from the "India" and have watched
-movies released after the year 2022. .
-iv. Find the usernames, ages, and countries of users who have watched movies
-with the genre "Comedy"
-Consider the following schema for Order Database:
-SALESMAN (Salesman_id, Name, City, Commission)
-3a CUSTOMER (Customer _id, Cust_Name, City, Grade, Salesman_id*)
-CO2-; ORDERS (Ord _ID, Purchase_Amt, Ord_Date, Customer_id*, Salesman_id*)
-50:1; Construct the SQL queries for the following operations [10]
-— i. Create a view that finds the salesman name with city Hyderabad and
-
-Commission less than 10,000 [2]
-ii. | Find the details of all customers with Customer_id ‘C101’ and minimum
-
-purchase amount is‘50,000/-. [2]
---- page 3 ---
-iii. | Count the customers with grades above Bangalore’s average. [3] ve
-
-iv. Find the name and numbers of all salesman who had more than one customer.
-
-[3]
-
-Consider a table personal_details as given below. Identify the normal form of the
-given table? Justify your answer. Convert the table personal_details into the highest
-
-Normal Form
-
-P_id | Fname | Lname Email City State | Zip code
-G243 | Seema | Shaikh |seema@gmail.com| Chennai | Tamil 421568
-Q3b ; Nadu
-i , D548 | Vinod Kapoor |vk@gmail.com Noida Uttar 465218
-~CO3- : ‘ ee Pradesh [10]
-| — A284 | Rick Gauge |rickg@gmail.com | Bangalo | Karnata | 439546
-° re ka
-|1K924 |Nupur | Shah — |nshah@gmail.com | Noida _| Uttar 465339
-; Pradesh
-H479 | Firoz Khan |khanf@gmail.com | Mumbai | Maharas | 400194
-htra
-Universal Recorders has decided to hire you as a database designer and you need to
-create a database about musicians who perform on its albums. Design a conceptual
-schema for Universal and draw an ER diagram for your schema. Also, convert
-ER diagram into relational schema.
-p Be sure to indicate all key and cardinality constraints and any assumptions that you
-Q4a make.
-=" i. a. Each musician that records at Universal studio has an SSN, a name, an | [10]
-BL-6 address, and a phone number.
-
-b. Each instrument that is used in songs recorded at Universal has a name (e.g.,
-guitar, synthesizer, flute) and a musical key (e.g., C, B-flat, E-flat).
-
-c. Each album that is recorded on the Universal label has a title, a copyright date,
-a format (e.g., CD or MC), and an album identifier.
-
-d. Each song recorded at Universal has a title and an author.
---- page 4 ---
-e. Each musician may play several instruments, and a given instrument may, be
-played by several musicians.
-
-f. Each album has a number of songs on it, but no song may appear on more
-than one album.
-
-g. Each song is performed by one or more musicians, and a musician may
-perform a number of songs.
-
-h. Each album has exactly one musician who acts. as its producer. A musician
-
-may produce several albums, of course.
-
-Q4b What is NoSQL database and its different types? Why to use a NoSQL database
-con instead of a relational database? List some advantages of NoSQL. How data is stored | [10]
-BL3 in a NoSQL Database?
-Qa
-COl1-; Describe Mapping Cardinalities, Weak entity sets, Generalization and specialization [10]
-SO1-; in ER model with an appropriate example.
-BL-3
-Evaluate whether the given schedule S is conflict serializable or not
-Tl T2 T3 T4
-READ(X)
-WRITE(X)
-Sb Commit
-Q WRITE(X)
-CO4-; Commit [10]
-SO-6; WRITE(Y)
-BL-5 READ(Z)
-: Commit
-READ(X)
-READ(Y)
-Commit
-06 Describe the anomalies in Relational database design with an example. Given set
-a of FDs F over a relation R(A, B, C, D, E, F, G, H, I, J) are as follows
-CO2-; ABC, A> DE, B> F, FO>GH, DOI [10]
-SO-; i. Determine all the candidate keys of R.
-BL-4 ii. Find the highest normal form for the above relation.
-
-iii. __ Decompose the relation into 3NF
---- page 5 ---
-Formulate the SQL queries for the following statements. Tables are provided for |
-
-your reference
-i. List out
-
-List out the worker’s first name who have received bonus.
-of the Managers and Assistant Managers
-
-the details of workers with first name having character ‘A’
-ii.
-iii. Display the full names and salary
-
-with respect to the dates on which they have been assigned the roles.
-
-iv. List the number of workers for each department in descending order of the
-
-department.
-vy. List the full name and salary of the worker who is earning the highest
-
-salary(use nested subquery) .
-Table - Worker
-
-| wip FNAME | LNAME | SALARY JOXNING_DT DEPT |
-
-101 Simran Singh 100000 2022-02-22 HR
-102 Anil Pathak 80000 2021-05-03 Admin
-Q6b 103 Neha Kadam 300000 | 2020-09-16 HR
-CO2-; 104 Sameer | Sinha 500000 2022-08-30 Admin [10]
-aa Table — Bonus
-WID | BONUS_DT | BONUS_
-AMT
-101 | 2023-02-16 4000
-102 | 2023-04-15 5000
-( 101 | 2023-05-20 3000
-103 | 2023-06-18 4500
-Table — Title
-WID W_TITLE FROM _DT |
-101 Manager 2023-02-15
-102 Executive 2023-05-05
-104 Asst. Manager 2023-06-10
-103 Lead 2023-06-10
---- page 6 ---
-Q7a
-
-CO1,2; i. Describe the levels of Abstraction in a DBMS [5] [10]
-SO-6; ii. Demonstrate at least five Relational algebra operators with examples [5]
-BL-3
-
-i. List different types of constraints used in SQL. Explain any four with an
-example. [5] ;
-ii. Construct SQL queries for the following schema [5]
-person (driver-id, name, address)
-car (license, model, year)
-
-Q7b accident (report-number, date, location)
-
-CO2-: owns (driver-id, license) ‘
-
-SO-1: participated (driver-id, license, damagemount) [10]
-BL-4
-
-a. SQL DDL definition for the table participated of this database. Identify
-referential-integrity constraints that should hold and include them in the
-DDL definition.
-
-b. Write query to insert two records in the accident table
-````
-
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper 9f6f9920f377
 
 - Departments: Computer Science and Business Systems
@@ -9687,6 +10446,7 @@ b. Write query to insert two records in the accident table
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/DATABASE MANAGEMENT SYSTEM/Database Management Systems, Sem-IV, Year 2022-23, Final Exam & Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -9958,7 +10718,6 @@ i. Rta>2vage!=31(User)
 ii. Ruser. OccupationId=Occupation. Occupationid(User x Occupation)
 iii. PName,Gender(RcityName="navi mumbai(User ad City))
 
-iv. Pia(Rage>=25Agender=M’(user)) A Pia(R occupationid=2(User))
 ````
 
 ## 2022-23 · Final-Exam · Sem 3 · paper da55e52075e9
@@ -9968,6 +10727,7 @@ iv. Pia(Rage>=25Agender=M’(user)) A Pia(R occupationid=2(User))
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ALL STREAMS/SEM-III/DATABASE MANAGEMENT SYSTEMS/Database Management Systems, 2nd Year, Sem III, Year 2022-23, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 November 2022
 - Text: ocr (5 pages), mean OCR confidence 90.1
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS Stas pe
@@ -10085,8 +10845,6 @@ that hold on R, find all candidate keys for R.
 
 2/5
 --- page 3 ---
-RG Y, Z, U, V, W)
-F = {XY > Z, XZ > Y, XU > V, YZ > X, V> W}
 
 Q5 “| [20]
 
@@ -10094,14 +10852,12 @@ a. | What is view serializability and conflict serializability? Check whether th
 
 schedules given below is conflict serializable or not? Provide justification
 
-CO-4 Ble4 | | ss Roca; W2(A); R3(C); W2(B); W3(A); W3(C)s RICA); RUB); WIA), | OF
 W1(B)
 b. | Consider the relations given below.
 Actor (actorId, name, nationality, age)
 : Director (directorld, name, nationality)
 e Film (filmld, title, year, directorId*)
 
-PerformsIn (actorId*, filmId*, character)
 Write the relational algebra expression for the following
 i i. Retrieve details of all actors above the age of 45. 10]
 ii. Retrieve all distinct film titles.
@@ -10684,360 +11440,6 @@ Explain how to retrieve documents using find()
 3/3
 ````
 
-## 2022-23 · Re-Exam · Sem 3 · paper 9c309253cc51
-
-- Departments: Artificial Intelligence, Computer Engineering, Information Technology
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / I T, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/DATABASE MANAGEMENT SYSTEMS/Database Management System, Re-exam 2022-23.pdf` (+5 identical copies)
-- Printed on paper: max marks: 100; duration hours: 4
-- Text: ocr (3 pages), mean OCR confidence 88.4
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2023-2024
-
-i
-
-Program/s: B.TECH /MBATECH Year: 2"4 Semester: Il
-
-Stream/s :IT/DS/CSE CS/Computer/AI
-
-Subject: DATABASE MANAGEMENT SYSTEMS ; Time: 4 hrs(l0amto Lpm_)
-Date: 15 /O2 /2024 No. of Pages: 3
-
-Marks: 100 :
-
-Re Examination(2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-(2) Out of remaining questions, attempt any 4 questions.
-3) In all___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-Answer briefly: [20]
-CO-1; SO- | a. .
-: Discuss the importance of data abstraction with its levels.
-BL-2
-CO-1;SO- | b. Explain with example how other objects like sequence and Index enhance the
-BL-2 performance of the database.
-c. Construct an E-R diagram for a hospital with a set of patients and a set of médical
-y mates doctors. Associate with each patient a log of the various tests and examinations
-; ; conducted. Details of the test will include test-id, test-name, date, time, and result.
-BL-5 Patient’s details stored will be ss#, name, insurance, date-admitted, date-checked-out.
-Doctor’s details to get dss#, name, specialization.
-CO-1; SO- | d. Convert the ER diagram of (Q1. C.) into physical schema. Mention Primary Key ,
-BL-5 Foreign Key of all relations.
-a. Write relational algebra expression for the following schema:
-Q employee (person_name, street, city) [2+2+3
-oe SO-; works (person_name, company_name, salary) +3]
-
-company (company_name, city)
---- page 2 ---
-Consider the relational database. Give an expression in the relational algebra to_
-express each of the following queries: ;
-1. Find the names of all employees who live in city “Miami”.
-2. Find the names of all employees whose salary is greater than $100,000
-3. Find the names of all employees in this database who live in the same city
-as the company for which they work. : ,
-4. Find the names, street address, and cities of residence of all employees who
-
-work for First Bank Corporation and earn more than $10,000 per annum.
-
-Qe D. What is the significance of conversion functions like To_CHAR () and
-
-3: SO. [10]
-COs Res TO_NUMBERQ in SQL. Describe its usage with examples.
-
-BL-3
-Q3 a Discuss the atomicity, durability, isolation, and consistency preservation properties [10]
-CO-3; SO-; of a database transaction.
-BL-2
-Q3 b.
-CO-3; SO-; Illustrate redundancy and the problems that it can cause [10]
-BL-4 -
-a. 3. Let us assume a table User_Personal as given below.
-
-1. find all the possible functional dependencies that are held.
-
-2. Identify the current Normal Form.
-Q4 3. Decompose the relation and normalize to 3NF
-CO-3; SO-; — : _ [10]
-BL-4 UserID U_email Frame Iname City State Zip
-
-MAI Mani@ymail.com MANISH JAIN BILASPUR | CHATISGARH | 458991 ‘
-
-POsS Pooja.gSemail.co POOJA MAGG | KACCH | GUJRAT §32212
-
-1A33 Lavle988ij.com LAVLEEN | DHALLA| RAIPUR | CHATISGARH | 853578
-
-CH99 Cheki9iGih.com CHIMAL BEDI TRICHY | TAMILNADU | 632011
-
-DA? Danu58dg.com DANY JAMES | TRICHY | TAMILNADU | 645018
-
-b. Consider the table:
-Student (name, marks, dept, age, place, phone, birthdate).
-Write SQL query for following.
-
-Q4 1. To list students having place as ‘Mumbai or “Delhi
-CO-2; SO-; 2. To list students having same department(dept) as that of ‘Finance’ [10]
-BL-4 3. To change marks of ‘Rahul’ from 81 to 96.
-
-4. To Add anew column studentld with number(3) data type and Primary Key.
-
-5. To list students who are not from ‘Chennai’.
-Q5 7 Differentiate Primary key, Candidate key and Super key with examples [10]
-CO-1; SO-;
---- page 3 ---
-BL-2
-
-- What are different types of Serializability? List main rules to implement Conflict”
-CO-3; SO-; ae
-; 5 9
-BL-2 Serializability?
-Q6 What are the key characteristics of NOSQL? Describe various data types used in
-CO-4; SO-; NoSQL [10]
-BL-2 ;
-Consider the following table:
-employee(employee_id, first_name , last_name, email, phone_number , hire_date,
-job_id, salary, commission_pct , manager_id, department_id) ~
-6 1. Write a SQL query to find those employees who receive a higher salary
-than the employee with ID 163. Return first name, last name. [34344]
-|.CO-3; SO-; 2. Write a SQL query to find out which employees have the same designation
-3L-4 as the employee whose ID is 169. Return first name, last name, department
-ID and job ID. :
-3. Write a SQL query to find those employees whose salary matches the
-lowest salary of any of the departments. Return first name, last name and
-department ID :
-Write a Short Note on following:
-Q7 1. Properties of functional dependencies [54545
-CO-2; SO-; 2. Complex vs Composite Attribute 45]
-BL-2 3. Domain Constraint
-4. Disadvantages of DBMS
-‘
-4
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper 5b349e58e5e9
-
-- Departments: Computer Engineering, Computer Science and Business Systems, Data Science
-- Programmes: B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/DATABASE MANAGEMENT SYSTEM/Database Management Systmes Batch 2022-23 Re Exam.pdf` (+4 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (5 pages), mean OCR confidence 87.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE
-SCHOOL OF TECHNOLOGY MANAGEMENT
-; Academic Year: 2023-2024
-Program/s: B TECH/MBA TECH/B.Tech Integrated Year: II/IV - Semester: IV/VIII
-
-Stream/s :DS/Comp Engg/Comp Sci/AI/AIML/AIDS/CSBS/CSEDS 7057
-
-Subject: Database Management Systems : Time: 3 hrs ( 10.00am to 1.00pm)
-Date:_29./ 6 / 2024 No. of Pages:5
-
-Marks: 100
-
-- kke-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use. , ;
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly:
-
-CO4; | a. | Explain transaction with an example. Describe the ACID properties in Transaction
-
-SO-1; Management.
-BL-1
-CO3; |b. .
-> SO-6 ; Describe the need of normalization with an example. [5]
-BL-3
-
-c. | Consider a database system for a library that stores information about books, authors,
-and publishers. The database consists of the following tables:
-Book (ISBN, Title, PublicationYear, PublisherID)
-
-Author Table (AuthorID, Name, Nationality)
-
-ae Publisher Table (PublisherID, Name, Address) [5]
-BL-4 =
-
-i. Create relationship table between book and author and justify cardinality
-between them.
-
-ii. | Write SQL query to create tables Author, Publisher and book. Add foreign.
-and primary key constraints as required
---- page 2 ---
-COL; [a How does the concept of abstraction contribute to the usability of database systems? [5]
-
-aes Describe various levels of abstraction
-Q2da
-COl-: Describe the five main functions of a database administrator? List five real life
-S0-1 > applications which you have used and found that Database management system was [10]
-: beneficial over file system.
-BL-3
-Consider the relation schema given below
-Suppliers (SID, sName, address)
-Parts (PID, pName, color)
-Catalog (SID, PID, price)
-Q2b Construct the relational algebra expressions for the first 4 statements
-CO2-; i, Find the name of all red parts. [10]
-SO-l; ii. Find all prices for parts that are red or green. (A part may have different prices
-BL-5 from different manufacturers.)
-iii. Find the SIDs of all suppliers who supply a part that is red or green
-iv. Find the names of all suppliers who supply a part that is red or green.
-vy. Explain the following terms with examples a) Candidate key b) foreign key
-constraints
-Construct the SQL queries for the following statements based on the following
-tables
-EmployeeInfo Table: (EmpID integer, EmpFname varchar(25), EmpLname
-varchar(25), Dept varchar(15), Project varchar(10), Address varchar(25), DOB date,
-Gender varchar(10)) ;
-Q3a EmployeePosition Table: (EmpID integer, EmpPosition varchar(10), DateOfJoining
-CO2-; date, Salary integer)
-1 ; [10]
-ale i. Fetch the number of employees working in the department “HR’.
-BL-6 = ii. Find number of employees whose DOB is between 02/05/1970 to 31/12/1975
-and are grouped according to gender.
-iii, | Fetch all the records from the EmployeeInfo table ordered by EmpLname in
-descending order and Department in the ascending order.
-iv. Fetch details of employees whose EmpLname ends with an alphabet ‘A’ and
-contains five alphabets.
-v. Retrieve duplicate records from a table.
-Evaluate whether the given Product table is in 3 NF. Justify your answer. If yes, then
-Q3b convert it into BCNF. [10]
---- page 3 ---
-a =
-S0-6; Product
-BL-5
-Brand_id | B_name Product_id (Quantity
-Bo01 Parle G P1001 1100
-Boo1 Parle G P1003 1500
-Bo02 Hide n Seek P1002 1000
-Boos Krackjack P1001 2500
-Bo04 Monaco P1100 1150
-Bo04 Monaco P1002 500
-Design a database for an automobile company to provide to its dealers to assist them in
-maintaining customer records and dealer inventory and to assist sales staff in ordering
-cars. Each vehicle is identified by a vehicle identification number (VIN). Each
-Q4a individual vehicle is a particular model of a particular brand offered by the company
-COl-: (e.g., the XF isa model of the car brand Jaguar of Tata Motors). Each model can be
-SO-1 2 offered with a variety of options, but an individual car may have only some (or none) [10]
-BL- 6 of the available options. The database needs to store information about models, brands,
-and options, as well as information about individual dealers, customers, and cars.
-Your design should include an E-R diagram, a set of relational schemas, and a list of
-constraints, including primary-key and foreign-key constraints.
-i. Describe the concept of views with an example [5]
-ii. | Construct the SQL queries for the given task considering following relations
-[5]
-EMP (Emp_no, Dept_no, Emp_name, Job, Salary, MGR, Hiredate)
-Q4b DEPT (Dept_no, Dept_name, Location)
-CO2-; Find 5 ‘ ‘ ¥ [10]
-| §0-1: a. Find the details of the employee who is taking the second highest salary
-BL-5 using subqueries/nested queries. ;
-b. Display department wise average salary for those departments where
-number of employees are more than 20.
-c. Display employee details from Highest to lowest order of their salaries
-i. Describe Specialization and Generalization feature of extended ER with
-Q5a examples. Give an example of weak entity set and justify whether there will
-always be total participation for the weak entity set. [5]
-COl1-; [10]
-SO1-; ii. | Describe the importance of check constraints and not null constraints in SQL.
-BL-4 Formulate a SQL query using these constraints [5]
---- page 4 ---
-i. State the importance of primary key in a relation. Explain the following. .
-relational algebra operations with examples: a) set intersection, b) projection
-
-[5]
-ii. _ Consider two relations: [5]
-Course
-course_id title dept_name credit
-CS 190 Python Computer 4
-Qh EC 380 Embedded systems _ | Electronics 3
-CO2-; MX 415 Robotics Mechatronics | 3 [10]
-SO-6;
-BL-4 Prerequisite
-course_id - preq_id
-EC 380 EC 301
-MX 415 MX 190
-a. Provide the output of following query: select * from Course natural left outer
-join Prerequisite
-b. Convert query in (a) into relational algebra expression
-Given set of FDs F over a relation R (U, V, W, X, Y, Z) is:as follow:
-‘ VW > XY
-Q6a Yov
-CO3-; WX — YZ [10]
-SO-1; ; ZU
-BL-5 i. Determine two possible candidate keys of R.
-ii. Find the highest normal form for the above relation. Justify your answer
-iii. | Decompose the relation into 3NF
-Consider the set of relations Formulate the queries for the following statements:
-student (sid, sname, gender, age, year, gpa)
-dept(dname, numphds)
-prof(pname, dname)
-course(cno, cname,dname)
-Q6b major(dname,sid)
-section(dname,cno,sectno, pname)
-CO2-; enroll(sid, grade,dname,cno,sectno) [10]
-SO-6;
-BL-5 a) Print the names of professors who work in departments that have fewer than 50
-
-PhD students.
-b) Print the name(s) of student(s) with the lowest gpa.
-
-c) Print the names of departments that have one or more majors who are under 18
-years old.
---- page 5 ---
-d) Print the names of students who are taking both a Computer Sciences course
-and a Mathematics Course. -
-
-e) Explain any two aggregate functions in SQL
-
-Qa .
-CO4; Describe the need of NoSQL databases. Compare and Contrast between SQL and [10]
-SO-6; MongoDB
-BL-3
-i. Evaluate whether the following three schedules’ results are equivalent [5]
-Schedule $1 Schedule S2 Schedule S3
-T1 T2 T1 T2 T1 T2
-R (X) R (X) R(X)
-X=X+5 X=X+6 X=Xx3
-w(x) w(X) , w(x)
-Q7b RY) RIX) R(X)
-CO4-; Y=Y45 X=Xx3 | X=X+5 [10]
-80-6; wy) wx) w(x)
-BL-5
-R(X) R(Y) R(Y)
-X=Xx3 f[ Y=¥+65 Y=Y¥+6
-W(X) wiy) wy)
-ii. Differentiate between confict serializability and view serializability [5]
-````
-
 ## 2022-23 · Re-Exam · Sem 4 · paper f56d5f61b4d1
 
 - Departments: Computer Science and Business Systems
@@ -11423,6 +11825,7 @@ m™,
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATABASE MANAGEMENT SYSTEMS/Database Management Systems, 2nd Year, Sem-III, Year 2022-23, Re Exam.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 February 2023
 - Text: ocr (6 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / t\eel AL
@@ -11490,7 +11893,6 @@ b. i. Discuss different type of anomalies in relational database design with an
 example.
 ii. Given the following relation R and the set of functional dependencies F that
 hold on R, find all candidate keys for R.
-R (A, B, C, D, E, F)
 F= {AB —>C, AC—B, ADE, BC > A, E> F}
 
 CO-3; BL- 4 [10]
@@ -11684,174 +12086,6 @@ in ascending order of company name and descending order of employee
 names of that company.
 
 II. | Change the city of TCS company to ‘Indore’
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper a62b2c594cc3
-
-- Departments: Computer Engineering, Information Technology
-- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATABASE MANAGEMENT SYSTEM/Database Management System ,Re-exam ( Batch 2022-23).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 90.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program/s: MBATECH Year: II Semester: III
-
-Stream/s : "| IT/ COMP
-
-Subject: DATABASE MANAGEMENT SYSTEMS Time: 3 __hrs (4p tovantoL 00pm)
-Date:_{8/2 /2024 No. of Pages: 3
-
-Marks: 100
-
-Re-exam Examination (Batch 2022-2023) |
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Quéstion No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-
-CO-1;BL-2. | * Describe the purpose of DBMS Specify advantages and disadvantages of DBMS. [5]
-
-b. The film Database contains information about movies, stars and studios. Movies have
-a title, year of production, length and the film type. Stars have a name and address.
-Studios have an owner and a banner. Movies are shot in studios which own them. A
-movie is shot in only one studio. Stars are connected to one or more studios but can
-CO-1; BL-2 act in any film which may or may not be owned by the studio. [5]
-
-Draw an ER diagram that captures this information. Be sure to indicate all key,
-
-participation, and cardinality constraints.
-
-Consider Ql. question B and Convert this ER diagram to a relational schema.
-
--1: BL- 5)
-Cosa Highlight the primary and foreign keys .
-
-d. List and explain various types of aggregate functions used in SQL.
-CO-1; BL-5 P me calie 2 [5]
-
-a. Write relational algebra expression for the following schema:
-Q2 employee (person_name, street, city) [24
-CO-2; BL-4 works (person_name, company_name, salary) 33)
-
-company (company_name, city)
---- page 2 ---
-Consider the relational database. Give an expression in relational algebra to express
-each of the following queries:
-1. Find the names of all employees who live in city “Mumbai”.
-2. Find the names of all employees whose salary is greater than 5000
-3. Find the names of all employees in this database who live in the same city as
-the company for which they work. ,
-4. Find the names, street address, and cities of residence of all employees who
-
-work for First Bank Corporation and earn more than 20,000 per annum.
-
-oe ie With examples briefly explain any TWO (2) types of integrity constraints. [10]
-CO-3; BL-3
-
-a. Table Student schema:
-
-Name Null Type
-
-S ID NOT NULL NUMBER
-FIRST_NAME NOT NULL VARCHAR2(50)
-Q3 LAST_NAME NOT NULL VARCHAR2(50)
-
-CO-3; BL-2 BIRTHDATE NOT NULL DATE
-1.Add two new columns named phone and email to the Student table.
-
-2.Remove BIRTHDATE from the Student table.
-
-[10]
-
-3.rename the first_name column to forename column:
-4.rename the Student table to UG_Student table
-5,Change FIRST_NAME column to F_NAME with datatype VARCHAR2 (20)
-
-b. Consider the following relation:
-PRODUCT(Model, Manufacturer, ProcessorType, Price, Country, Rating)
-Suppose the following functional dependencies exist:
-Model, Manufacturer > Price
-Q3 Model —> ProcessorType, Rating
-Price > Manufacturer
-CO-3; BL-4 Manufacturer —> Country
-: I. | What normal form is the relation in? Explain your answer.
-Il. Apply normalization until you reach the BCNF form. Show the
-
-normalization steps clearly.
-
-[10]
-
-Q4 » |* With Suitable diagram explain Transaction States. [10]
-
-CO-3; BL-4
---- page 3 ---
-b. Consider the table:
-Student (name, marks, dept, age, place, phone, birthdate).
-Write SQL query for the following.
-
-Q4 1. To list students having place as ‘Mumbai or ‘Delhi
-2. To list students having same department(dept) as that of ‘Finance’ [10]
-CO-2; BL-4 3. To change marks of ‘Rahul’ from 81 to 96.
-
-4. To Add anew column studentId with number(3) data type and Primary Key.
-5. To list students who are not from ‘Chennai’.
-
-a.
-oo Differentiate Primary key, Candidate key and Super key with examples [10]
-CO-1; BL-2
-Q5 b. What are different types of Serializability? List main rules to implement Conflict
-CQ-3; BL-2 Serializability?
-Q6 What are the key characteristics of NoSQL? Describe various data types used in 10]
-CO-4; BL-2 NoSQL
-
-b. Consider the following table:
-
-employee(employee_id, first_name , last_name; email, phone_number , hire_date,
-job_id, salary, commission_pct , manager_id , department_id )
-1. Write a SQL query to find those employees who receive a higher salary than
-
-Q6 the employee with ID 163. Return first name, last name. [3+3+
-CO-3: BL-4 2. Write a SQL query to find out which employees have the same designation 4]
-, as the employee whose ID is 169. Return first name, last name, department
-ID and job ID.
-
-3. Write a SQL query to find those employees whose salary matches the lowest
-salary of any of the departments. Return first name, last name and
-department ID
-
-a. Write a Short Note on following:
-
-1, Properties of functional dependencies
-
-Q7 : ; [S+5+
-2. Complex vs‘Composite Attribute
-
-O° BL Be)
-COs Bie 3. ACID properties of transaction ]
-
-4. Role of DBA
---- page 4 ---
-
 ````
 
 ## 2022-23 · Re-Exam · Sem 1 · paper 8132f00834a6
@@ -12761,6 +12995,117 @@ Design an entity relationship diagram for a Hospital Database. (7)
 PE
 ````
 
+## 2019-20 · Final-Exam · Sem 3 · paper a73f4aee10f9
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM III/DATABASE MANAGEMENT SCIENCE/DATABASE_MANAGEMENT_SYSTEM_(DATA_SCIENCE)_FINAL_EXAM_.pdf`
+- Printed on paper: exam date: 12 November 2019
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+&
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Data Science) Year: II Semester: III
+
+Academic Year: 2019-20
+Subject: Database Management System
+
+ro
+“
+Date: 12 November 2019
+“
+No. of Pages:
+Final Examination (2019-20)
+ao
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+
+’ 3)Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Question. |
+
+a. Construct an ER diagram for hospital with a set of patients and doctors, associated with each patient a log of
+
+various tests and examination conducted. 10
+
+b. What is deadlock? How it is detected? Discuss different types of deadlock prevention schemes. 10
+Question 2
+
+a. Write SQL queries for the given database. 10
+
+Employee (eid, ename, street, city)
+
+Works (eid, city, salary)
+
+Company (cid, cname, city)
+
+i. Modify the database so that ‘john’ now lives in ‘Mumbai’
+
+ii. Give all the employees of ‘ABC Corporation’ a 10% raise
+
+iii. List all the employees who live in same city as their managers
+
+iv. Find all the employees who earn more than average salary of all the employees of their company.
+
+b. Explain time stamp ordering protocol. 10
+Question 3
+a. Explain following relational algebra operations with examples. 10
+i. Set intersection
+ii. Generalized Projection
+
+fe
+--- page 2 ---
+&
+
+iii. Rename
+
+iv. Natural Join
+b. What would the occupancy of each leaf node of a B*-tree be, if index entries are inserted in sorted order?
+Explain Why?
+Question 4 ,
+
+a. Explain log based recovery.
+b. Indices speed query processing, but it is usually a bad idea to create indices on every attribute, and every
+
+combination of attributes, that is a potential search keys. Explain why.
+Question 5
+a. Draw and explain the DBMS architecture.
+b. Explain Triggers and assertion in SQL.
+Question 6
+
+a. What is Schedule? And what is Serializability?
+b. What is Normalization? Explain INF, 2NF, 3NF and BCNF giving examples.
+
+2[o
+
+10
+
+10
+
+10
+
+10
+10
+
+10
+10
+````
+
 ## 2019-20 · Final-Exam · Sem 3 · paper be096fb5fae2
 
 - Departments: Information Technology
@@ -12973,6 +13318,277 @@ Define trigger in SQL.
 (4)
 ````
 
+## 2019-20 · Re-Exam · Sem 3 · paper a5c0de387565
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM BATCH 17-18 18-19 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 16 November 2019
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ,
+
+Programme: B.Tech (Computer) Year: II Semester: III d
+
+Academic Year: 2019-20
+Subject: Database Management System
+
+Marks: 70 //S)
+Time: 2.00
+Durations: ¥&
+No. of Pages
+Re-Examination (2017-18/ 2018-19)
+
+Date: 16 November 2019
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any__4 _ questions.
+- 3) Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1. A A library wants to maintain the database of various types of books. A library consists of a (7M)
+section, a member, a book, a publisher. Section has section id, name and phone number.
+Member has member id, address, telephone, occupation, member name. Member name can be
+divided into first name, middle name, last name. Book has book number, title, author, price.
+Publisher has publisher id, name, address, phone number. One section has many books but one
+book should keep in one section. One member can borrow many books. Many books may
+publish by one publisher otherwise one publisher may be published many books. Draw an ER
+diagram for above scenario by assuming relevant constrains and attributes.
+
+B_ Check the normal forms of the given relation and decompose them. (4M)
+(i) R=(PQRSTU V WX Y); FD = {PQ->R, P->ST, Q->U, U->VW, S->XY,}
+(ii) R=(PQRSTU V WX Y); FD={PQ->R, PS->VW, QS->TU, P->X, W->Y}
+
+C_ Define various levels of data abstractions. (3M)
+2 A Write the following operations in relational algebra with examples (7)
+— (i) Generalized Projection and Selection
+(ii) Full Outer Join
+(iii) Rename
+B Discuss the role of serializability in transaction? Is the following schedules is serial or not (7M)
+
+with explanation:
+
+Y,
+--- page 2 ---
+‘ T1 T2
+; Read(X) “—
+\ Write(X)
+Read(X)
+Write(Y)
+3 A Person(driver-id, name, address) (1*7=7M)
+
+Car(model_no, year, color)
+Accident(report-number, date, location)
+Owns(driver-id, driver_name, license, issuing_date)
+Participated(driver-id, license, report-number, damage, amount)
+(i) Write the SQL Query:
+a. Find the person names who lives in Delhi and second last character is ‘U
+b. Find the id and name of those drivers who got the license on the same date as
+Jini got the license
+c. Find the total number of accidents occurred for each location
+d. Update year and color of the car which model no is i20 Active
+
+(ii) Write the Relational Algebra Query:
+a. Delete the record of those accidents which took place in year 2000
+b. Retrieve the name and address of driver id 10403
+c. Retrieve the total number of accidents recorded in mumbai using left outer join
+
+B R(ABCDyYhas functional dependencies (7M)
+F=(AB> C,C 3 D,D > A).
+This relation is divided in to RI=(A,B,C); R2=(C,D).
+(i) List the number of keys
+(ii) Does the given relation is lossless decomposition or not. Why?
+(iii) Is dependency preserved for above functional dependencies? Explain.
+
+4 A Justify the comment “File processing system is not good in the modern éra”. (7M)
+B_ Explain ACID properties and Transaction states. (7M)
+5 A Comment on following statement “Hashing makes efficient data accessibility possible ” (7M)
+B How deadlock can be prevented in DBMS. Explain with an example (7M)
+6 <A. Define various SQL domain constraints with example. (7M)
+B_ Explain mapping cardinalities and participation constraints in ER diagram. (7M)
+tel
+7 Attempt any two (2*7=14)
+(i) Integrity and security in database
+sas (ii) Recoverability in transactions
+
+(iii) | Canonical Cover and its uses
+
+BS
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 4da5f5b69f6b
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEMS BATCH 17-18 18-19 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 16 November 2019
+- Text: ocr (3 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (IT) Year: II Semester: III
+< Academic Year: 2019-20
+Subject: Database Management Systems
+4 Marks: 70 Kus i
+Date: 16 November 2019 Time: 2.00 pRe\5.
+a Durations: 3 nn
+No. of Pages:
+
+Re-Examination (2017-18/ 2018-19)
+
+a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1____ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3) Inall__5_ questions to be attempted.
+4) All questions carry equal marks.
+’ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1.The Prescriptions-R-X chain of pharmacies has offered to give you a free lifetime supply of medicines if
+you design its database. Given the rising cost of health care, you agree. Here's the information that you gather:
+
+e Patients are identified by an SSN, and their names, addresses, and ages must be recorded.
+
+e Doctors are identified by an SSN. For each doctor, the name, specialty, and years of experience must
+be recorded.
+
+e Each pharmaceutical company is identified by name and has a phone number.
+
+e For each drug, the trade name and formula must be recorded. «Eacn drug is sold by a given
+pharmaceutical company, and the trade name identifies a drug uniquely from among the products of
+that company. If a pharmaceutical company is deleted, you need not keep track of its products any
+longer.
+
+e Each pharmacy has a name, address, and phone number.
+
+e Every patient has a primary physician. Every doctor has at least one patient.
+
+e Each pharmacy sells several drugs and has a price for each. A drug could be sold at several pharmacies,
+and the price could vary from one pharmacy to another.
+
+* Doctors prescribe drugs for patients. A doctor could prescribe one or more drugs for several patients,
+and a patient could obtain prescriptions from several doctors.
+
+| e Each prescription has a date and a quantity associated with it. You can assume that if a doctor
+prescribes the same drug for the same patient more than once, only the last such prescription needs to
+be stored.
+
+e Pharmaceutical companies have long-term contracts with pharmacies. A pharmaceutical company can
+contract with several pharmacies, and a pharmacy can contract with several pharmaceutical
+companies. For each contract, you have to store a start date, an end date, and the text of the contract.
+--- page 2 ---
+e Pharmacies appoint a supervisor for each contract. There must always be a supervisor for each
+contract, but the contract supervisor can change over the lifetime of the contract.
+
+Draw an ER diagram that captures the above information. (7 marks)
+
+Convert the ER diagram to relational schema. (7 marks)
+
+Q2a. Write assertions for the following cases using the bellow schemas
+Branch(branch_ name ,branch_city,assets)
+Customer(customer_name,customer_street,customer_city)
+Account(account_number, branch_name, balance)
+loan(loan_number,branch_name,amount)
+depositor(custome_name,account_number)
+borrower(custome_name,loan_number)
+
+a .Customer city is always not null
+b. Number of accounts for each customer in a given branch is at most two
+c. Sum of loans taken by a customer does not exceed 100,000
+(7 marks)
+
+Q2b. Write triggers for the following cases
+
+a) Ifthe employee salary increased by more than 10%, make sure the ‘rank’ field is not
+empty and its value has changed, otherwise reject the update
+
+b) Ifthe employee salary increased by more than 10%, then increment the rank
+field by 1.
+
+c) Ifthe newly inserted record in employee has null hireDate field, fill it in with
+the current date
+
+as (7 marks)
+
+Q3. For the following relation schema:
+* Classroom (building, room_number, capacity)
+¢ Department(dept_name, building, budget)
+* Course(course_id, title, dept_name, credits)
+*   Instructor(ID, name, dept_name, salary)
+*   Section(course_id, sec_id, semester, year, building, room_number, time_slot_id)
+*   Teaches(ID, course_id, sec_id, semester, year)
+*   Student(LD, name, dept_name, tot_cred)
+* Takes(ID, course_id, sec_id, semester, year, grade)
+* Advisor(s_LD, i_ID)
+* Time_slot(time_slot_id, day, start_time, end_time)
+* Prereq(course_id, prereg_id)
+Give an expression in SQL for each of the following queries:
+a.Find the titles of courses in the Comp. Sci. department that have 3
+credits.
+b. Find the IDs of all students who were taught by an instructor named
+
+7
+--- page 3 ---
+Einstein; make sure there are no duplicates in the result.
+
+c. Find the highest salary of any instructor.
+
+d. Find all instructors earning the highest salary (there may be more
+
+than one with the same salary).
+
+e. Find the enrollment of each section that was offered in Autumn 2009.
+
+f. Find the maximum enrollment, across all sections, in Autumn 2009. (14 marks)
+Q4a. Find the candidate key for Relation R(ABCDE) _ with the following functional dependencies
+
+i; DOB, BC SADE
+ii ABDCD, DOA, BC DDE (7 marks)
+
+Q4b. Check the following transactions are Conflict Serializable or not
+
+T1 T2 T3
+RX)
+R(Z)
+WZ)
+R(Y)
+RY)
+WY)
+W(X)
+W(Z)
+W(X)
+(7 marks)
+Q5a. What is normalization ?7Explain INF,2NF,3NF, BCNF with examples. (7 marks)
+Q5b. What is indexing? Explain different types of indices. (7 marks)
+Q6a..What are drawback of file processing system? (5 marks)
+Q6b..Define Candidate key, super key and primary key with Examples. (5 marks)
+Qé6c. What is a view? What are their benefits? (4 marks)
+Q7. Explain the following terms briefly: Answer any four (14 marks)
+
+a.Total and Partial participation
+b.Data independence
+c Dynamic hashing
+
+= d Ordered Indices
+
+e weak entity and strong entity
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper a3e622cfadb1
 
 - Departments: Computer Engineering
@@ -12980,6 +13596,7 @@ Define trigger in SQL.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM FINAL EXAM 18-19 RE EXAM 17-18.pdf`
 - Printed on paper: max marks: 70; exam date: 20 November 2018
 - Text: ocr (3 pages), mean OCR confidence 85.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -13069,7 +13686,6 @@ vii) Find the titles of books have both keywords ‘database’ and ‘programmi
 Q4 | A_ | The following table stores details of doctors, patients and dates of appointments. The Primary 7
 Key is (doctorID; patientID).
 
-doctorID | doctorName | patientID | patientName date
 
 DO1 Kumar P02 Smith 10-Aug-16
 D02 Kumar POI Ford 05-Sep-16
@@ -13619,112 +14235,6 @@ Ve
 oo
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper a5c0de387565
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM BATCH 17-18 18-19 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 16 November 2019
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ,
-
-Programme: B.Tech (Computer) Year: II Semester: III d
-
-Academic Year: 2019-20
-Subject: Database Management System
-
-Marks: 70 //S)
-Time: 2.00
-Durations: ¥&
-No. of Pages
-Re-Examination (2017-18/ 2018-19)
-
-Date: 16 November 2019
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any__4 _ questions.
-- 3) Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-1. A A library wants to maintain the database of various types of books. A library consists of a (7M)
-section, a member, a book, a publisher. Section has section id, name and phone number.
-Member has member id, address, telephone, occupation, member name. Member name can be
-divided into first name, middle name, last name. Book has book number, title, author, price.
-Publisher has publisher id, name, address, phone number. One section has many books but one
-book should keep in one section. One member can borrow many books. Many books may
-publish by one publisher otherwise one publisher may be published many books. Draw an ER
-diagram for above scenario by assuming relevant constrains and attributes.
-
-B_ Check the normal forms of the given relation and decompose them. (4M)
-(i) R=(PQRSTU V WX Y); FD = {PQ->R, P->ST, Q->U, U->VW, S->XY,}
-(ii) R=(PQRSTU V WX Y); FD={PQ->R, PS->VW, QS->TU, P->X, W->Y}
-
-C_ Define various levels of data abstractions. (3M)
-2 A Write the following operations in relational algebra with examples (7)
-— (i) Generalized Projection and Selection
-(ii) Full Outer Join
-(iii) Rename
-B Discuss the role of serializability in transaction? Is the following schedules is serial or not (7M)
-
-with explanation:
-
-Y,
---- page 2 ---
-‘ T1 T2
-; Read(X) “—
-\ Write(X)
-Read(X)
-Write(Y)
-3 A Person(driver-id, name, address) (1*7=7M)
-
-Car(model_no, year, color)
-Accident(report-number, date, location)
-Owns(driver-id, driver_name, license, issuing_date)
-Participated(driver-id, license, report-number, damage, amount)
-(i) Write the SQL Query:
-a. Find the person names who lives in Delhi and second last character is ‘U
-b. Find the id and name of those drivers who got the license on the same date as
-Jini got the license
-c. Find the total number of accidents occurred for each location
-d. Update year and color of the car which model no is i20 Active
-
-(ii) Write the Relational Algebra Query:
-a. Delete the record of those accidents which took place in year 2000
-b. Retrieve the name and address of driver id 10403
-c. Retrieve the total number of accidents recorded in mumbai using left outer join
-
-B R(ABCDyYhas functional dependencies (7M)
-F=(AB> C,C 3 D,D > A).
-This relation is divided in to RI=(A,B,C); R2=(C,D).
-(i) List the number of keys
-(ii) Does the given relation is lossless decomposition or not. Why?
-(iii) Is dependency preserved for above functional dependencies? Explain.
-
-4 A Justify the comment “File processing system is not good in the modern éra”. (7M)
-B_ Explain ACID properties and Transaction states. (7M)
-5 A Comment on following statement “Hashing makes efficient data accessibility possible ” (7M)
-B How deadlock can be prevented in DBMS. Explain with an example (7M)
-6 <A. Define various SQL domain constraints with example. (7M)
-B_ Explain mapping cardinalities and participation constraints in ER diagram. (7M)
-tel
-7 Attempt any two (2*7=14)
-(i) Integrity and security in database
-sas (ii) Recoverability in transactions
-
-(iii) | Canonical Cover and its uses
-
-BS
-````
-
 ## 2018-19 · Re-Exam · Sem 3 · paper 9551eeea0809
 
 - Departments: Information Technology
@@ -13856,169 +14366,142 @@ QF) Write Short flotes on (any 2): (14)
 8)a
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper 4da5f5b69f6b
+## 2018-19 · Re-Exam · Sem 5 · paper c77611a59bf9
 
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEMS BATCH 17-18 18-19 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 16 November 2019
-- Text: ocr (3 pages), mean OCR confidence 91.3
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/DATABASE MANAGEMENT SYSTEMS/Database Management Systems Batch 2017-18 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 19 November 2018
+- Text: ocr (2 pages), mean OCR confidence 90.6
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’S NMIMS
 
-Programme: B. Tech (IT) Year: II Semester: III
-< Academic Year: 2019-20
-Subject: Database Management Systems
-4 Marks: 70 Kus i
-Date: 16 November 2019 Time: 2.00 pRe\5.
-a Durations: 3 nn
-No. of Pages:
+Program B.Tech Integrated (COMPUTER) —
+Academic Year: 2018-2019
 
-Re-Examination (2017-18/ 2018-19)
+Subject: Database Management System _
 
-a
+Date : 19 November 2018 - Time:2.00 pm to 5.00 pm
+Duration: 3 (hrs) _-
+No. of Pages: '2- _
+Final Examination (2018-19)Re-examination (2017-18) —
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+of the Answer Book,-which is provided for their use.
 
-1) Question No._1____ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-3) Inall__5_ questions to be attempted.
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
 4) All questions carry equal marks.
-’ 5) Answer to each new question to be started on a fresh page.
+
+5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary. ;
 
-Q1.The Prescriptions-R-X chain of pharmacies has offered to give you a free lifetime supply of medicines if
-you design its database. Given the rising cost of health care, you agree. Here's the information that you gather:
+Ql. a) What is partial dependency? (2]
+b) Explain “Group by” clause. (2]
+c) What are attributes in ER diagram? Explain the different types of attributes. [4]
+d) What is transaction? Explain different transaction states with the help of diagram. [6]
+Q2. a) Draw an ER Diagram for the following scenario: [8]
 
-e Patients are identified by an SSN, and their names, addresses, and ages must be recorded.
+e A General Hospital consists of a number of specialized wards (such as Maternity,
+Paediatry, Oncology, etc).
 
-e Doctors are identified by an SSN. For each doctor, the name, specialty, and years of experience must
-be recorded.
+e ach ward hosts a number of patients, who were admitted on the recommendation of
+their own GP and confirmed by a consultant employed by the Hospital. On
+admission, the personal details of every patient are recorded.
 
-e Each pharmaceutical company is identified by name and has a phone number.
+¢ A separate register is to be held to store the information of the tests undertaken and
+the results of a prescribed treatment.
 
-e For each drug, the trade name and formula must be recorded. «Eacn drug is sold by a given
-pharmaceutical company, and the trade name identifies a drug uniquely from among the products of
-that company. If a pharmaceutical company is deleted, you need not keep track of its products any
-longer.
+e A number of tests may be conducted for each patient. Each patient is assigned to one
+leading consultant but may be examined by another doctor, if required.
 
-e Each pharmacy has a name, address, and phone number.
+¢ Doctors are specialists in some branch of medicine and may be leading consultants
+for a number of patients, not necessarily from the same ward.
 
-e Every patient has a primary physician. Every doctor has at least one patient.
+b) Explain Database System Structure in detail. [6]
 
-e Each pharmacy sells several drugs and has a price for each. A drug could be sold at several pharmacies,
-and the price could vary from one pharmacy to another.
-
-* Doctors prescribe drugs for patients. A doctor could prescribe one or more drugs for several patients,
-and a patient could obtain prescriptions from several doctors.
-
-| e Each prescription has a date and a quantity associated with it. You can assume that if a doctor
-prescribes the same drug for the same patient more than once, only the last such prescription needs to
-be stored.
-
-e Pharmaceutical companies have long-term contracts with pharmacies. A pharmaceutical company can
-contract with several pharmacies, and a pharmacy can contract with several pharmaceutical
-companies. For each contract, you have to store a start date, an end date, and the text of the contract.
+Q3. a) Consider the following database for AIRLINE FLIGHT INFORMATION: [8]
+FLIGHT(flno: int, fromplace: string, toplace: string, distance: int, departs:
+string, arrives: string, price: real)
+if 2
 --- page 2 ---
-e Pharmacies appoint a supervisor for each contract. There must always be a supervisor for each
-contract, but the contract supervisor can change over the lifetime of the contract.
+Q4.
 
-Draw an ER diagram that captures the above information. (7 marks)
+QS.
 
-Convert the ER diagram to relational schema. (7 marks)
+Q6.
 
-Q2a. Write assertions for the following cases using the bellow schemas
-Branch(branch_ name ,branch_city,assets)
-Customer(customer_name,customer_street,customer_city)
-Account(account_number, branch_name, balance)
-loan(loan_number,branch_name,amount)
-depositor(custome_name,account_number)
-borrower(custome_name,loan_number)
+Q7.
 
-a .Customer city is always not null
-b. Number of accounts for each customer in a given branch is at most two
-c. Sum of loans taken by a customer does not exceed 100,000
-(7 marks)
+b)
 
-Q2b. Write triggers for the following cases
+a)
 
-a) Ifthe employee salary increased by more than 10%, make sure the ‘rank’ field is not
-empty and its value has changed, otherwise reject the update
+b)
 
-b) Ifthe employee salary increased by more than 10%, then increment the rank
-field by 1.
+a)
 
-c) Ifthe newly inserted record in employee has null hireDate field, fill it in with
-the current date
+AIRCRAFT( aid: int, aname : string, crange: int)
+EMPLOYEES( eid: int, ename: string, salary: int)
+CERTIFIED(eid: int, aid: int)
+i. Find the names of aircraft such that all certified to operate them have a salaries more
+than Rs.80,000.
+ii. Find the names of the pilots whose salary is less than the price of the cheapest route
+from Bangalore to FrankFrut.
+iii. | Find the names of the pilots certified for some “boeing” (aname).
+iv. Update the salary to every Employee by 10%.
+Explain Static hashing and discuss different causes of bucket overflow in a hash file.
 
-as (7 marks)
+Explain the following with suitable example (in context with Relational Algebra):
+i. Selection
+‘ii. — Projection
+iii. | Cartesian Product
+iv. Rename
+Check whether'the schedule is conflict serializable or not?
+R2(A); W2(A); R3(C); W2(B); W3(A); W3(C); RI(A); RI(B); WI(A); W1)
+1. Draw Precedence Graph.
+2. Is schedule conflict serializable or not.
+3. Find respective serial schedule.
 
-Q3. For the following relation schema:
-* Classroom (building, room_number, capacity)
-¢ Department(dept_name, building, budget)
-* Course(course_id, title, dept_name, credits)
-*   Instructor(ID, name, dept_name, salary)
-*   Section(course_id, sec_id, semester, year, building, room_number, time_slot_id)
-*   Teaches(ID, course_id, sec_id, semester, year)
-*   Student(LD, name, dept_name, tot_cred)
-* Takes(ID, course_id, sec_id, semester, year, grade)
-* Advisor(s_LD, i_ID)
-* Time_slot(time_slot_id, day, start_time, end_time)
-* Prereq(course_id, prereg_id)
-Give an expression in SQL for each of the following queries:
-a.Find the titles of courses in the Comp. Sci. department that have 3
-credits.
-b. Find the IDs of all students who were taught by an instructor named
+What is Decomposition? Explain Lossy and loss less decomposition.
+Identify following decomposition is Lossy or loss less.
+R(ABCDEF) G={AB-C, CA, AB, BD, DE, C-F}
+R1(ABC), R2(CDE), R3(EF)
 
-7
---- page 3 ---
-Einstein; make sure there are no duplicates in the result.
+What is deadlock? Explain deadlock prevention strategies.
 
-c. Find the highest salary of any instructor.
+What is serializability? Explain View serializabilty with example.
+Explain different types of aggregate functions with example.
 
-d. Find all instructors earning the highest salary (there may be more
+Write short notes for the following : (ANY TWO)
+Triggers
 
-than one with the same salary).
+Joins in SQL
 
-e. Find the enrollment of each section that was offered in Autumn 2009.
+Constraints in SQL
 
-f. Find the maximum enrollment, across all sections, in Autumn 2009. (14 marks)
-Q4a. Find the candidate key for Relation R(ABCDE) _ with the following functional dependencies
+— &
 
-i; DOB, BC SADE
-ii ABDCD, DOA, BC DDE (7 marks)
+[6]
+[8]
 
-Q4b. Check the following transactions are Conflict Serializable or not
+[6]
 
-T1 T2 T3
-RX)
-R(Z)
-WZ)
-R(Y)
-RY)
-WY)
-W(X)
-W(Z)
-W(X)
-(7 marks)
-Q5a. What is normalization ?7Explain INF,2NF,3NF, BCNF with examples. (7 marks)
-Q5b. What is indexing? Explain different types of indices. (7 marks)
-Q6a..What are drawback of file processing system? (5 marks)
-Q6b..Define Candidate key, super key and primary key with Examples. (5 marks)
-Qé6c. What is a view? What are their benefits? (4 marks)
-Q7. Explain the following terms briefly: Answer any four (14 marks)
+[8]
 
-a.Total and Partial participation
-b.Data independence
-c Dynamic hashing
+[6]
 
-= d Ordered Indices
+[8]
+[6]
 
-e weak entity and strong entity
+[7*2]
 ````
 
 ## 2018-19 · Re-Exam · Sem 5 · paper bd642041d9b2
@@ -14298,6 +14781,156 @@ c. Object oriented concepts: object, diners, attributes, inheritance, polymorphi
 d. Extendable Hashing
 
 03/5
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper d1e1b3fc70b5
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATABASE MANAGEMENT SYSTEM/Database management system re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
+- Text: ocr (3 pages), mean OCR confidence 90.5
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (Computer) Year: I Semester : III
+1 Academic Year: 2018-2019
+
+Subject: Database Management System Marks: 70
+
+Time: 2.00 pm to 5.00 pm
+
+Durations:3 (hrs)
+
+No. of Pages: 3
+Re-examination (2017-18/ 2018-19) ——
+
+_ Date: 21 January 2019 va
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary. >
+
+1 a) Discuss ACID properties with example. [4]
+b) Discuss various extended ER features. : [6]
+c) Explain sparse and dense index with example. [4]
+2 a) A university registrar’s office maintains data about the following entities: [9]
+
+1. Courses, including number, title, credits, syllabus, and prerequisites (i.e. prerequisite
+of a course is some other course);
+
+2. Course offerings, including course number, year, semester, section number,
+instructor(s), timings, and classroom; ;
+
+3. Students, including student-id, name, and program;
+
+4. Instructors, including identification number, name, department, and title.
+
+Further, the enrolment of students in courses and grades awarded to students in each
+
+course they are enrolled for must be appropriately modelled. Construct an E-R diagram
+
+for the registrar’s office. Document all assumptions that you make about the mapping
+
+constraints, . lso write schema for all tables of above E-R diagram and mention all
+
+primary keys and foreign keys. ‘
+
+b) What are different views of data? Discuss logical data independence and physical data [6]
+independence by taking suitable example’.
+
+Page 1 of 3
+--- page 2 ---
+3 a) Consider the following relational schemas (primary keys are underlined): [8]
+Beer(name, manf)
+Bars(name, addr, license)
+Drinkers(name, addr, phone)
+Likes(drinker, beer)
+Sells(bar, beer, price)
+Frequents(drinker, bar)
+
+Write SQL expressions for following queries:
+i. To create Sells table by specifying primary keys and foreign keys (assume that all
+other tables are already created).
+ii Find the name and address of all drinkers who frequent Joe's Bar and like some Beer
+that Joe's Bar sells. Do not print any drinker more than once.
+
+iii. Delete from Drinkers table all drinkers in the 949 area code. You may assume that
+phone numbers are represented by character strings of the form '(xxx) yyy-zzzz',
+where xxx corresponds to the area code.
+
+iv. Find all the bars that serve beers that drinker "Sally" likes.
+
+b), What are the objectives of secure database design? Discuss various approaches of access _ [6]
+control in DBMS.
+
+4 a) Consider the following database with primary key underlined. [7]
+
+BOOKS (Doeld, Title, Publisher, Year)
+STUDENTS (Stld, StName, Major, Age)
+AUTHORS(AName, Address)
+borrows(Docld, StId, Date)
+
+has-written(Docld, AName)
+describes(Docld, Keyword)
+
+Write Relational Algebra expression for following queries:
+i. List all books published by McGraw-Hill before 1990.
+ii. List the title of books written by the author Silberschatz.
+iii. Find the name of the youngest student.
+iv. Which books have both keywords ’database’ and ’programming’?
+
+b) Compare RDBMS, ORDBMS, and OODBMS. [7]
+
+Page 2 of 3
+--- page 3 ---
+5 a) Suppose relation R(4,B,C,D,£) has functional dependencies: [7]
+
+AB>C
+DA
+AE>B
+CD>E
+BED
+
+i. Find all the candidate keys of R.
+
+ii. Find highest normal form of the relation (with justification).
+
+b) Describe various database languages? Explain DCL commands with example. [7]
+
+6 a) What do you mean by conflict operation? Consider following schedule S of [7]
+transactionT1,T2, and T3:
+T1: r1(X); r1(Z); w1 CX); wl (Z)
+T2: r2(Y); r2(Z); w2(Z)
+T3: 13(Y); 13(X); w3(Y)
+S: r1(X); 13(Y); 13(X); 12(Y); 12(Z); w3(Y); w2(Z); 11 (Z); w1 (X); wl (Z)
+Check whether S is conflict serializable schedule or not?
+
+b) What are the properties of good hash function? Explain static hashing and collision in [7]
+detail .
+7 a) What do you mean by Integrity Constraints? How they are implemented in SQL? [7]
+
+b) What is view? Explain various types of view in SQL. The organization wants to display 7]
+only the details like empno, empname, deptno, deptname of the employees, create a view
+Employee_Detail for above scenario.
+
+Page 3 of 3
 ````
 
 ## 2018-19 · Re-Exam · Sem 4 · paper c2a429e1a4c5
@@ -14662,6 +15295,170 @@ b) Explain Dynamic Hashing.
 2
 
 afr
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper 5a5d0ef2ada1
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM (COMPUTER), FINAL EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 25 November 2017
+- Text: ocr (3 pages), mean OCR confidence 91.8
+
+````text
+SVEM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) Year: II Semester: [II _
+e -
+
+j Academic Year: 2017-2018 7 .aNt#7 sr ON
+Subject: Database Management System — if d
+
+Date: 25 November 2017 ~ Time: 1 )
+
+No. of Page
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted. :
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+I. (a) | Why would you choose a database system instead of simply storing data in (7)
+operating system files? When would it make sense not to use a database system?
+
+(b) Explain the difference between external, internal, and conceptual schemas. How (7)
+
+are these different schema layers related to the concepts of logical and physical
+data independence?
+
+2. (a) Sony Records has decided to store information about musicians who perform on (7)
+
+its albums (as well as other company data) in a database. The company has wisely
+
+chosen to hire you as a database designer (at your usual consulting fee of
+$2500/day).
+
+Each musician that records at Sony has an SSN, a name, an address, and
+a phone number. Poorly paid musicians often share the same address, and
+no address has more than one phone.
+
+Each instrument used in songs recorded at Sony has a unique
+identification number, a name (e.g., guitar, synthesizer, flute) and a
+musical key (e.g., C, B-flat, E-flat).
+
+Each album recorded on the Sony label has a unique identification
+number, a title, a copyright date, a format (e.g., CD or MC), and an album
+
+identifier.
+sal + i 3 "
+° Each song recorded at Sony has a title and an author.
+e Each musician may play several instruments, and a given instrument may
+pees be played by several musicians.
+°
+
+Each album has a number of songs on it, but no song may appear on more
+than one album. Each song is performed by one or more musicians, and
+--- page 2 ---
+4.
+
+(b)
+
+(a)
+
+(6)
+
+(a)
+
+(b)
+
+a musician may perform a number of songs. Each album has exactly one
+musician who acts as its producer. A musician may produce several
+albums, of course.
+
+As details explained above based on that :
+
+Draw an ER diagram for your schema. The preceding information describes
+the situation that the Sony database must model. Be sure to indicate all key
+and cardinality constraints and any assumptions you make. Identify any
+constraints you are unable to capture in the ER diagram and briefly explain
+why you could not express them.
+
+What are the responsibilities of a DBA? If we assume that the DBA is never
+interested in running his or her own queries, does the DBA still need to
+understand query optimization? Why?
+
+Consider the following schema:
+
+Suppliers(sid: integer, sname: string, address: string)
+Parts(pid: integer, pname: string, color: string)
+Catalog(sid: integer, pid: integer, cost: real)
+
+The key fields are underlined, and the domain of each field is listed after the field
+name. Therefore sid is the key for Suppliers, pid is the key for Parts, and sid and
+pid together form the key for Catalog. The Catalog relation lists the prices
+
+charged for parts by Suppliers. Write the following queries in relational algebra
+and SQL
+
+1. Find the names of suppliers who supply some red part.
+2. Find the sids of suppliers who supply some red or green part.
+3. Find the sids of suppliers who supply some red part or are at 221 Packer Street.
+
+Discuss the strengths and weaknesses of the trigger mechanism. Contrast triggers
+with other integrity constraints supported by SQL.
+
+Suppose you are given a relation R with four attributes ABCD. For each of the
+following sets of FDs, assuming those are the only dependencies that hold for R,
+do the following: (a) Identify the candidate key(s) for R. (b) Identi! y the best
+normal form that R satisfies (INF, 2NF, 3NF, or BCNF). (c) If R is not in BCNF,
+decompose it into a set of BCNF relations that preserve the dependencies.
+L.¢C—+D,Cc+A, BC
+2.B—-C,D-A
+
+Explain in details about deadlock and deadlock prevention.
+
+(7)
+
+(7)
+
+7)
+
+(7)
+
+(7)
+
+fs
+--- page 3 ---
+5 (a) Explain lock based concurrency control Protocol, glso explain strict two phase protocol and (7)
+
+rigorous two phase protocol.
+
+5 (6) Explain sparse and dense index with example. (7)
+
+6. (a) Explain in details about ACID properties of transaction in database management (7)
+system with proper examples.
+(b) | How does the recovery manager ensure atomicity of transactions? How does it (7)
+ensure durability? What is the difference between a systém crash and a media
+failure?
+
+7. Write short note on (any two) (14)
+(i) Constraints.
+
+(ii) Static Hashing
+(iif). +BCNF Normalization.
 ````
 
 ## 2017-18 · Final-Exam · Sem 3 · paper 4b87c850706e
@@ -15315,6 +16112,7 @@ d. Log based recovery
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM BATCH 17-18 RE EXAM 2017-18.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; exam date: 29 May 2018
 - Text: ocr (2 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -15363,7 +16161,6 @@ io cue |
 
 NAME VARCEAR{ 30] i | CUST_NAME VARCKAR (30)
 i , i |
-/ | omy VARCKAR (18) | | erry VARCHAR (15}
 |
 
 | COMMISSION DECIMAL(S,.2) — f | grape NUMERIC (2)
@@ -15585,144 +16382,6 @@ Q7) Write Short Notes on (any 2): (14)
 4. Log based Recovery
 ````
 
-## 2017-18 · Re-Exam · Sem 5 · paper c77611a59bf9
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/DATABASE MANAGEMENT SYSTEMS/Database Management Systems Batch 2017-18 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3; exam date: 19 November 2018
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-SVKM’S NMIMS
-
-Program B.Tech Integrated (COMPUTER) —
-Academic Year: 2018-2019
-
-Subject: Database Management System _
-
-Date : 19 November 2018 - Time:2.00 pm to 5.00 pm
-Duration: 3 (hrs) _-
-No. of Pages: '2- _
-Final Examination (2018-19)Re-examination (2017-18) —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book,-which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. ;
-
-Ql. a) What is partial dependency? (2]
-b) Explain “Group by” clause. (2]
-c) What are attributes in ER diagram? Explain the different types of attributes. [4]
-d) What is transaction? Explain different transaction states with the help of diagram. [6]
-Q2. a) Draw an ER Diagram for the following scenario: [8]
-
-e A General Hospital consists of a number of specialized wards (such as Maternity,
-Paediatry, Oncology, etc).
-
-e ach ward hosts a number of patients, who were admitted on the recommendation of
-their own GP and confirmed by a consultant employed by the Hospital. On
-admission, the personal details of every patient are recorded.
-
-¢ A separate register is to be held to store the information of the tests undertaken and
-the results of a prescribed treatment.
-
-e A number of tests may be conducted for each patient. Each patient is assigned to one
-leading consultant but may be examined by another doctor, if required.
-
-¢ Doctors are specialists in some branch of medicine and may be leading consultants
-for a number of patients, not necessarily from the same ward.
-
-b) Explain Database System Structure in detail. [6]
-
-Q3. a) Consider the following database for AIRLINE FLIGHT INFORMATION: [8]
-FLIGHT(flno: int, fromplace: string, toplace: string, distance: int, departs:
-string, arrives: string, price: real)
-if 2
---- page 2 ---
-Q4.
-
-QS.
-
-Q6.
-
-Q7.
-
-b)
-
-a)
-
-b)
-
-a)
-
-AIRCRAFT( aid: int, aname : string, crange: int)
-EMPLOYEES( eid: int, ename: string, salary: int)
-CERTIFIED(eid: int, aid: int)
-i. Find the names of aircraft such that all certified to operate them have a salaries more
-than Rs.80,000.
-ii. Find the names of the pilots whose salary is less than the price of the cheapest route
-from Bangalore to FrankFrut.
-iii. | Find the names of the pilots certified for some “boeing” (aname).
-iv. Update the salary to every Employee by 10%.
-Explain Static hashing and discuss different causes of bucket overflow in a hash file.
-
-Explain the following with suitable example (in context with Relational Algebra):
-i. Selection
-‘ii. — Projection
-iii. | Cartesian Product
-iv. Rename
-Check whether'the schedule is conflict serializable or not?
-R2(A); W2(A); R3(C); W2(B); W3(A); W3(C); RI(A); RI(B); WI(A); W1)
-1. Draw Precedence Graph.
-2. Is schedule conflict serializable or not.
-3. Find respective serial schedule.
-
-What is Decomposition? Explain Lossy and loss less decomposition.
-Identify following decomposition is Lossy or loss less.
-R(ABCDEF) G={AB-C, CA, AB, BD, DE, C-F}
-R1(ABC), R2(CDE), R3(EF)
-
-What is deadlock? Explain deadlock prevention strategies.
-
-What is serializability? Explain View serializabilty with example.
-Explain different types of aggregate functions with example.
-
-Write short notes for the following : (ANY TWO)
-Triggers
-
-Joins in SQL
-
-Constraints in SQL
-
-— &
-
-[6]
-[8]
-
-[6]
-
-[8]
-
-[6]
-
-[8]
-[6]
-
-[7*2]
-````
-
 ## 2017-18 · Re-Exam · Sem 5 · paper e37aca8bb146
 
 - Departments: Computer Engineering
@@ -15835,6 +16494,99 @@ d. Views in SQL
 2f)
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper a77353451f56
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATABASE MANAGEMENT SYSTEM/DATABASE MANAGEMENT SYSTEM BATCH 2016-2017 RE EXAM.pdf`
+- Printed on paper: exam date: 02 December 2017
+- Text: text (3 pages)
+
+````text
+•
+ff
+If   SVKM's NMIMS
+e
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBATech (Computer)   Year: II   Semester: III
+Batch: 2016-17
+Academic Year: 2017-2018
+Subject: Database Management System
+Date: 02 December 2017
+Re-Examination
+Instructions:   Candidates   should read carefully the instructions   printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+, I
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+-3) In"aILfiv·equestions.to   be attempted.   ~~~..
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assumceuitable   data ifnecessary,
+Q 1.   a. List all functional dependencies satisfied by the relation .•   [4 Marks)
+Q 1.   b. Define data independence and explain types of data independence
+[5 Marks)
+"
+A   B   C
+al   bl   cl
+al   bl   c2
+a2   bl   cl
+a2"-~""   bl   c3
+Ql.   c. Explain Generalization and Specialization   [5 Marks)
+1/3
+--- page 2 ---
+.4
+.:Q2. A. Explain the steps for an algorithm for ER relational mapping.   [7 Marks]
+[7 Marks]
+Q2.   B. Explain different integrity constraints.
+Q3. A. Draw and explain the database system structure.   . [7 Marks]
+Q3.   B. Draw an ER diagram for a university database consisting of 4 entities   [7 Marks]
+i)Student
+ii) Department
+iii) Class
+iv) Faculty and convert it to tables.
+•   A student had unique id, the student can enroll for multiple
+classes and has at most one major
+•   Faculty must belong to the department and faculty can take
+multiple classes
+•   Every student   will get a grade for the class he/she was
+enrolled.
+Q4. A) List difference between embedded SQL and Dynamic SQL.   [6 marks]
+.. Q4. B) Consider the following employee database
+[8 Marks]
+Employee ( empname   , street, city, dateof joining )
+Works (empname, company_name,   salary)
+Company(Company_name,   City)
+Manages( empname, 'manager _name)
+Write SQL queries for the following statement
+i) Modify the database so that 'John' now lives in Mumbai.
+ii) Give all the employees of' ABC Corporation' a 10 % rise.
+iii) List all the employees who lives in the same cities as their managers.
+iv) Find all employees who earn more than average salary of all
+employees of their company.
+2/3
+--- page 3 ---
+Q5   A) What is hashing? Explain the difference between static and Dynamic   [7 Marks)
+hashing.   [7 Marks]
+Q5.
+B) What is transaction? Explain the ACID properties of transaction.
+Q6   (a) Explain view with proper syntax and suitable example. Explain how   [7 Marks]
+views are updated. What are the advantages and disadvantages of views?
+Q6.   (b) Explain Normalization. Explain the various forms of normalization.   [7MarksJ
+.,
+Relation R CA,B,C,D,E) having following set ofFD, convert it to 3NF.
+A--7BD
+B--7C
+D--7E
+Q7.   Write short note on any two   [14 Marks]
+(a) Assertion.
+(b) Serialazibility Schedule.
+Cc)Advantages & Disadvantages ofORDBMS.
+-
+3/3
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper c96c18507d82
 
 - Departments: Computer Engineering
@@ -15842,6 +16594,7 @@ d. Views in SQL
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATABASE MANAGEMENT SYSTEM/Database Management System 2017-18 Re-exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 01 June 2018
 - Text: ocr (3 pages), mean OCR confidence 92.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -15907,7 +16660,6 @@ iv) List all the employees who work as Teachers. [4]
 Q2. Consider the following table which provides details of patient dental appointment for both Q2. A)
 and B)
 
-staffNo dentisiName patientNo | patientName appointment surgeryNo
 date time
 S1011 Tony Snuth P100 Gillian White 12-Aug-03 10.00 S10
 S101 Tony Smith P105 ili Belt 13-Aug-03 12.00 $15
@@ -15970,156 +16722,6 @@ C) Referential Integrity with its advantages
 3/3
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper d1e1b3fc70b5
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATABASE MANAGEMENT SYSTEM/Database management system re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
-- Text: ocr (3 pages), mean OCR confidence 90.5
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (Computer) Year: I Semester : III
-1 Academic Year: 2018-2019
-
-Subject: Database Management System Marks: 70
-
-Time: 2.00 pm to 5.00 pm
-
-Durations:3 (hrs)
-
-No. of Pages: 3
-Re-examination (2017-18/ 2018-19) ——
-
-_ Date: 21 January 2019 va
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -suitable data if necessary. >
-
-1 a) Discuss ACID properties with example. [4]
-b) Discuss various extended ER features. : [6]
-c) Explain sparse and dense index with example. [4]
-2 a) A university registrar’s office maintains data about the following entities: [9]
-
-1. Courses, including number, title, credits, syllabus, and prerequisites (i.e. prerequisite
-of a course is some other course);
-
-2. Course offerings, including course number, year, semester, section number,
-instructor(s), timings, and classroom; ;
-
-3. Students, including student-id, name, and program;
-
-4. Instructors, including identification number, name, department, and title.
-
-Further, the enrolment of students in courses and grades awarded to students in each
-
-course they are enrolled for must be appropriately modelled. Construct an E-R diagram
-
-for the registrar’s office. Document all assumptions that you make about the mapping
-
-constraints, . lso write schema for all tables of above E-R diagram and mention all
-
-primary keys and foreign keys. ‘
-
-b) What are different views of data? Discuss logical data independence and physical data [6]
-independence by taking suitable example’.
-
-Page 1 of 3
---- page 2 ---
-3 a) Consider the following relational schemas (primary keys are underlined): [8]
-Beer(name, manf)
-Bars(name, addr, license)
-Drinkers(name, addr, phone)
-Likes(drinker, beer)
-Sells(bar, beer, price)
-Frequents(drinker, bar)
-
-Write SQL expressions for following queries:
-i. To create Sells table by specifying primary keys and foreign keys (assume that all
-other tables are already created).
-ii Find the name and address of all drinkers who frequent Joe's Bar and like some Beer
-that Joe's Bar sells. Do not print any drinker more than once.
-
-iii. Delete from Drinkers table all drinkers in the 949 area code. You may assume that
-phone numbers are represented by character strings of the form '(xxx) yyy-zzzz',
-where xxx corresponds to the area code.
-
-iv. Find all the bars that serve beers that drinker "Sally" likes.
-
-b), What are the objectives of secure database design? Discuss various approaches of access _ [6]
-control in DBMS.
-
-4 a) Consider the following database with primary key underlined. [7]
-
-BOOKS (Doeld, Title, Publisher, Year)
-STUDENTS (Stld, StName, Major, Age)
-AUTHORS(AName, Address)
-borrows(Docld, StId, Date)
-
-has-written(Docld, AName)
-describes(Docld, Keyword)
-
-Write Relational Algebra expression for following queries:
-i. List all books published by McGraw-Hill before 1990.
-ii. List the title of books written by the author Silberschatz.
-iii. Find the name of the youngest student.
-iv. Which books have both keywords ’database’ and ’programming’?
-
-b) Compare RDBMS, ORDBMS, and OODBMS. [7]
-
-Page 2 of 3
---- page 3 ---
-5 a) Suppose relation R(4,B,C,D,£) has functional dependencies: [7]
-
-AB>C
-DA
-AE>B
-CD>E
-BED
-
-i. Find all the candidate keys of R.
-
-ii. Find highest normal form of the relation (with justification).
-
-b) Describe various database languages? Explain DCL commands with example. [7]
-
-6 a) What do you mean by conflict operation? Consider following schedule S of [7]
-transactionT1,T2, and T3:
-T1: r1(X); r1(Z); w1 CX); wl (Z)
-T2: r2(Y); r2(Z); w2(Z)
-T3: 13(Y); 13(X); w3(Y)
-S: r1(X); 13(Y); 13(X); 12(Y); 12(Z); w3(Y); w2(Z); 11 (Z); w1 (X); wl (Z)
-Check whether S is conflict serializable schedule or not?
-
-b) What are the properties of good hash function? Explain static hashing and collision in [7]
-detail .
-7 a) What do you mean by Integrity Constraints? How they are implemented in SQL? [7]
-
-b) What is view? Explain various types of view in SQL. The organization wants to display 7]
-only the details like empno, empname, deptno, deptname of the employees, create a view
-Employee_Detail for above scenario.
-
-Page 3 of 3
-````
-
 ## 2017-18 · Re-Exam · Sem 4 · paper de9d03988892
 
 - Departments: Information Technology
@@ -16127,6 +16729,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/DATABASE MANAGEMENT SYSTEMS/Database_management_systems_2016-17_2017-18 Re-exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 30 June 2018
 - Text: ocr (3 pages), mean OCR confidence 92.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -16229,7 +16832,6 @@ Q2b. Write assertions for the following cases using the bellow schemas
 * account (account number, branch name, balance)
 « loan (ean number, branch name, ameourit)
 * depositor (customer name, account numben
-© POrrower (CUSLOMNRL BNP. AQAA OPE)
 a. Customer city is always not null
 
 b. Number of accounts for each customer in a given branch is at most two
@@ -16427,6 +17029,163 @@ a
 }
 ````
 
+## 2016-17 · Final-Exam · Sem 3 · paper c2d733cf6efc
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM B TECH (COMPUTER), FINAL EXAM.pdf`
+- Printed on paper: exam date: 25 November 2016
+- Text: ocr (3 pages), mean OCR confidence 92.0
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+, SVKM’s NMIMS :
+| MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING . f
+
+Programme: B. Tech (COMPUTER) Year: II Semester: III
+
+Academic Year: 2016-2017
+
+Marks yo
+
+Date : 25 November 2016 Time: Hy
+
+Subject : Database Management System
+
+LIBRARY
+O am to 1.0
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Q.1A Define below terms: ; [07]
+
+1. Primary key
+
+2. On Update cascade
+
+3. Seek time for magnetic disk
+
+4. Rotational latency time for magnetic disk
+5. Data dictionary
+
+6. Cartesian product
+
+7. Natural Join
+
+Q.1B Define schema and instance of database and explain three schema architecture of [07]
+database.
+
+Q.2A Draw an entity relationship diagram (ERD) for a sales transaction database that [07]
+
+1/3
+--- page 2 ---
+satisfies the following requirements:
+
+1. Products, identified by product_ID, are not individuated and thus can be sold
+through many sales transactions, identified by sales_no. For each product sold in a
+sales transaction, the quantity must be recorded.
+
+2. For each product, a product_name and the quantity_on_hand must be recorded. For
+each sales transaction, the date must be recorded.
+
+3. Each sales transaction is processed by an employee.
+
+4. Employee_ID (PK) and employee_name must be recorded in the database. Each
+employee is supervised by one of the employees. Thus, his/her supervisor information
+must be recorded.
+
+5. The database also includes employees' dependents (described by their names and
+relationships, together with dependent_no). Assume that an employee dependent is
+dependent on only one employee.
+
+6. There are two types of sales transaction: member sales and non-member sales. In
+case of each member sales transaction, the member who placed the sales must be
+explicitly captured.
+
+7. We will keep minimal data on members, which are member ID (PK) and
+member_name.
+
+Note: Member entity is only related to the MemberSales entity.
+.2B Explain concept of generalization and specialization along with constraints on it. 07
+Pp P' Pp
+
+Q.3.A Solve below queries using tables given below: [10]
+FacDesignation, FacSalary)
+
+
+Solve below queries using relational algebra [4 marks]
+
+1. Find out faculty number and faculty first name of faculties who conduct course
+with course number 101 offered in term ‘FALL’.
+
+2. Find out course number and course description having credits more than 3.
+
+Solve below queries using SQL [6 marks]
+
+1. List the course containing the string ‘DATA’ in the course description.
+
+2. List the offer number, course number and faculty number of courses which
+have offering term as ‘FALL’ and offering year as ‘2012’ or offering term as
+‘WINTER’ and offering year as ‘2013’.
+
+3. Count total number of students for each grade point.
+
+Q.3B Consider below table Employee table structure. [04]
+
+2 /s
+--- page 3 ---
+Employee(empno number(4), ename varchar2(10), job varchar2(9), mgr number(4),
+hiredate date, salary number(7,2), commission number(7,2), deptno number(2))
+
+Create read only view on Employee table that will include empno, ename, job and
+deptno columns.
+
+Give user ‘Anthony’ permission to access above created view and also to grant
+permission further to any other user.
+
+Q.4A_ Explain first, second and third normal form in detail with appropriate example. [07]
+
+Q4B Explain functional dependency with its formal definition. Given relation R= [07]
+{A,B,C,G,H,I}, Set of FD is F= {A>B, ADC, CG9H,CG91B>H}. Find
+out closure of FD that is F*.
+
+Q.5A Explain slotted page structure: variable length record file organization. [07]
+Q.5B Construct B+ tree inserting below values. [07]
+
+1,4,7,10,17,21,31,25,19,20,28,42
+Consider number of pointers for each node as 4.
+
+Q.6A Explain concept of transaction with ACID properties. [07]
+Q.6B Explain two phase locking protocol and strict two phase locking protocol. [07]
+Q.7 Write short notes for (any two) [14]
+
+1. Deferred and immediate database modification
+2. Extendable hashing
+
+3. Deadlock prevention
+
+4. Stored functions and procedures
+
+5. Disadvantages of file systems
+````
+
 ## 2016-17 · Final-Exam · Sem 3 · paper a6ba49b66a3d
 
 - Departments: Information Technology
@@ -16434,6 +17193,7 @@ a
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEMS B TECH (IT), 2016-17 FINAL EXAM.pdf`
 - Printed on paper: exam date: 02 December 2016
 - Text: ocr (3 pages), mean OCR confidence 76.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -16524,7 +17284,6 @@ Shipping (ShipName, ShipType, VoyagelD, Cargo, Port, ArrivalDate)
 
 FD1: ShipName — ShipType
 FD2: VoyagelD — ShipName, Cargo
-FD3: ShipName, ArrivalDate > VoyagelD, Port
 (a) Identify the candidate keys.
 (b) Normalize to 2NF.
 (c) Normalize to 3NF.
@@ -16647,6 +17406,7 @@ c) ACID Properties in Transaction Management [6]
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATABASE MANAGEMENT SYSTEM/Database Management Systems Batch 2016-17 Final.pdf`
 - Printed on paper: exam date: 03 December 2016
 - Text: ocr (2 pages), mean OCR confidence 92.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -16750,7 +17510,6 @@ vy. Get the name of all the suppliers whose city name starts with ‘A’ and en
 b. What is OODBMS? Explain its underlying data model and query language? [4]
 
 5 a. Given below is the set F of functional dependencies for the relational schema [8]
-R= {A, B, C, D, E, FG, H, I, J}
 
 H,D->A
 D->E,F,G
@@ -16784,6 +17543,7 @@ Explain dynamic hashing. Explain the insertion and deletion in dynamic hashing. 
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEMS 2016-2017 FINAL.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 10 May 2017
 - Text: ocr (2 pages), mean OCR confidence 92.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -16878,7 +17638,6 @@ Write relational algebra query for the following
 The following table stores details of doctors, patients and dates of appointments. The
 Primary Key is (doctorID, patientID).
 
-doctorID doctorName | patientID | patientName | date
 
 DO1 Kumar PO2 Smith 10-Aug-16
 DOo2 Kumar PO1 Ford 05-Sep-16
@@ -16926,6 +17685,184 @@ v. View
 25
 
 14
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper 5d6764a4842c
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM B TECH (COMP), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 25 November 2016
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (COMPUTER) Year: I Semester : III
+Batch : 2015-2016
+
+Academic Year : 2016-2017
+Subject : Database Management System
+
+Date : 25 November 2016
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Q.1A Draw an E-R diagram for small private airport database that is used to keep [06]
+track of airplanes, their owners, airport employees, and pilots. Each airplane has
+a registration number, plane type and is stored in particular hangar. Type has a
+model number, capacity and a weight. Each hangar has a number, capacity and
+a location. The database also keeps track of owner of each plane [owns] and the
+employees who have maintained the plane [maintains]. Each relationship
+instance in owns relates an airplane to an owner and includes the purchase date.
+A service record includes as attributes the date of maintenance, the number of
+hours spent on the work and the type of work done. Service record will be
+
+weak entity set as each service needs to be identified by plane registration
+number.
+
+Q.1B Answer below questions. [2 marks each] [06]
+: 1. Explain formal definition of referential integrity constraint.
+2. Explain three levels of database abstraction.
+3. Explain update and delete anomaly for relational databases. -
+Q.2A Consider the following student database: [06]
+Student(st_id, name, address, city, tutor)
+= Enrolment(enrol_id, st_id, course_code)
+Course(course_code, title, department)
+
+ad Solve below queries using relational algebra [3 marks]
+1. Find out st_id, name of student and enroll_id of those students who have
+
+4]2
+--- page 2 ---
+enrolled for course code 01.
+2. Find out course code and title of courses run by department ‘CS’.
+
+Solve below queries using SQL [3 marks]
+3. Find out total number of students enrolled for each course.
+“4, Find out all details of student who have enrolled for course with title
+“Database”.
+Q.2B What is a left outer join, a right outer join and a full outer join? Explain each with [06]
+proper example. ,
+Q.3.A How can the SQL view mechanism and GRANT and REVOKE commands be used in [06]
+database security?
+Q.3B Explain one application of trigger with proper example. . [06]
+Q4A _ Explain first, second and third normal form in detail with appropriate example. [06]
+Q4B _ Explain functional dependency with its formal definition. Given relation R= [06]
+{A,B,C,G,H,, Set of FD is F= {A>B, ADC, CG9H,CG>1B>H}. Find
+out closure of FD that is F’.
+
+Q.5A Explain slotted page structure: variable length record file organization. [06]
+Q.5B Explain dense and sparse index discussing insert and update operation on each. [06]
+Q.6A Explain concept of transaction with ACID properties. [06]
+Q.6B Explain two phase locking protocol and strict two phase locking protocol. [06]
+Q.7 Write short notes for (any four) [12]
+
+1. Deadlock detection and prevention
+2. Extendable hashing
+
+3. Disadvantages of file system
+
+4. Stored functions and procedures
+
+5. Serializability
+
+2/2
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper 9630f820b6e0
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEMS (IT), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 02 December 2016
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (1.T.) Year: Il Semester : III
+
+Batch : 2014-2015 / 2015-2016
+Academic Year : 2016-2017
+
+Subject : Database Management Systems
+
+Date : 02 December 2016
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 3 questions.
+3) In all 4 questions to be attempted.
+
+Q1) | Design a database for a worldwide package delivery company (e.g. DHL | (15)
+or FedEx). The database must be able to keep track of customers (who
+ship items) and customers (who receive items); some customers may do
+both. Each package must be identifiable and trackable, so that the
+database must be able to store the location of the package and its history
+of iocations. Locations include trucks, planes, airports and warehouses.
+Design should include the following:
+
+e Identification of Entity Sets and Relationship Sets with attributes
+e ER Diagram
+
+e Representation of Entity Sets and Relationship Sets as Relations
+e Redundancy and Combination of Schemas
+
+Q2) | Specify 1NF, 2NF, 3NF, BCNF, 4NF for the given relations. Mention the | (15)
+
+rules used for converting the relations into the respective Normal Forms.
+
+books (accessionno, isbn, title, author, publisher)
+
+users(userid, name, deptid, deptname)
+
+(For each Normal Form, specify the relation and the rules that confirm
+inal ¢ the present normal form)
+
+Q3a) | Whatis a view in SQL? Explain with an example the significance / importance (10)
+of views and its creation.
+
+Q3b) | What are integrity constraints? Explain with example the check integrity (5)
+constraint.
+
+Af.
+--- page 2 ---
+Q4a) | What is indexing? Explain with an example multilevel indices. (10)
+
+Q4b) | What are the limitations of indexing and how are they overcome by hashing? (5)
+
+QSa) | Explain the different states in which a transaction can be witha neat diagram. | (5)
+
+QSb) | Explain the two-phase locking protocol for concurrency control. (10)
+
+2)2.
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper 1d2aacc87a0b
@@ -17048,99 +17985,6 @@ b) Classify different failures and explain Log based Recovery Method.
 
 [6]
 [6]
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper a77353451f56
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATABASE MANAGEMENT SYSTEM/DATABASE MANAGEMENT SYSTEM BATCH 2016-2017 RE EXAM.pdf`
-- Printed on paper: exam date: 02 December 2017
-- Text: text (3 pages)
-
-````text
-•
-ff
-If   SVKM's NMIMS
-e
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBATech (Computer)   Year: II   Semester: III
-Batch: 2016-17
-Academic Year: 2017-2018
-Subject: Database Management System
-Date: 02 December 2017
-Re-Examination
-Instructions:   Candidates   should read carefully the instructions   printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-, I
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
--3) In"aILfiv·equestions.to   be attempted.   ~~~..
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assumceuitable   data ifnecessary,
-Q 1.   a. List all functional dependencies satisfied by the relation .•   [4 Marks)
-Q 1.   b. Define data independence and explain types of data independence
-[5 Marks)
-"
-A   B   C
-al   bl   cl
-al   bl   c2
-a2   bl   cl
-a2"-~""   bl   c3
-Ql.   c. Explain Generalization and Specialization   [5 Marks)
-1/3
---- page 2 ---
-.4
-.:Q2. A. Explain the steps for an algorithm for ER relational mapping.   [7 Marks]
-[7 Marks]
-Q2.   B. Explain different integrity constraints.
-Q3. A. Draw and explain the database system structure.   . [7 Marks]
-Q3.   B. Draw an ER diagram for a university database consisting of 4 entities   [7 Marks]
-i)Student
-ii) Department
-iii) Class
-iv) Faculty and convert it to tables.
-•   A student had unique id, the student can enroll for multiple
-classes and has at most one major
-•   Faculty must belong to the department and faculty can take
-multiple classes
-•   Every student   will get a grade for the class he/she was
-enrolled.
-Q4. A) List difference between embedded SQL and Dynamic SQL.   [6 marks]
-.. Q4. B) Consider the following employee database
-[8 Marks]
-Employee ( empname   , street, city, dateof joining )
-Works (empname, company_name,   salary)
-Company(Company_name,   City)
-Manages( empname, 'manager _name)
-Write SQL queries for the following statement
-i) Modify the database so that 'John' now lives in Mumbai.
-ii) Give all the employees of' ABC Corporation' a 10 % rise.
-iii) List all the employees who lives in the same cities as their managers.
-iv) Find all employees who earn more than average salary of all
-employees of their company.
-2/3
---- page 3 ---
-Q5   A) What is hashing? Explain the difference between static and Dynamic   [7 Marks)
-hashing.   [7 Marks]
-Q5.
-B) What is transaction? Explain the ACID properties of transaction.
-Q6   (a) Explain view with proper syntax and suitable example. Explain how   [7 Marks]
-views are updated. What are the advantages and disadvantages of views?
-Q6.   (b) Explain Normalization. Explain the various forms of normalization.   [7MarksJ
-.,
-Relation R CA,B,C,D,E) having following set ofFD, convert it to 3NF.
-A--7BD
-B--7C
-D--7E
-Q7.   Write short note on any two   [14 Marks]
-(a) Assertion.
-(b) Serialazibility Schedule.
-Cc)Advantages & Disadvantages ofORDBMS.
--
-3/3
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper c447ff045146
@@ -18128,182 +18972,125 @@ wane a
 LS _—_—_—_—~—~—~_~_~___._.................,,,,,.....—es—s—=8
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 5d6764a4842c
+## 2015-16 · Re-Exam · Sem 3 · paper f83c78cafc4b
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM B TECH (COMP), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 25 November 2016
-- Text: ocr (2 pages), mean OCR confidence 91.2
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DISCRETE STRUCTURES/DATABASE MANAGEMENT SYSTEMS B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 27/11/2015
+- Text: ocr (2 pages), mean OCR confidence 89.2
 
 ````text
-SVKM’S NMIMS
+SVAM's NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (COMPUTER) Year: I Semester : III
-Batch : 2015-2016
+Programme: B. Tech (Computer) Year: II Semester: III
+Batch: 2014-2015 ae
+Academic Year: 2015-2016 -SnTaTE BP Reg
+fs ate. NN
 
-Academic Year : 2016-2017
-Subject : Database Management System
+we
+ae
 
-Date : 25 November 2016
+‘f
+
+Subject: Database Management Systems
+Marks:
+Date: 27/11/2015 Time:
+Duration:
 
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
 NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
 
-1) Question No. 01 is compulsory.
+Ql.
+a) 6
+Draw E-R diagram for below system. Document all assumption.
+A Country Bus Company owns a number of busses. Each bus is allocated to a particular
+route, although some routes may have several busses. Each route passes through a
+number of towns. One or more drivers are allocated to each stage of a route, which
+corresponds to a journey through some or all of the towns on a route. Some of the towns
+have a garage where busses are kept and each of the busses are identified by the
+registration number and can carry different numbers of passengers, since the vehicles
+vary in size and can be single or double-decked. Each route is identified by a route
+number and information is available on the average number of passengers carried per day
+for each route. Drivers have an employee number, name, address, and sometimes a
+telephone number.
+b) Explain below terms: (Any Three) G
+1. Primary key and candidate key
+2. Data dictionary
+3. Data independence
+4. Transitivity dependency
+5. Shared and exclusive lock
+Q2 a) Consider the following relational schema. 6
 
-2) Out of remaining questions, attempt any 04 questions.
+project (project _id, proj_name, chief_arch, salary)
+employee (emp_id, emp_name)
+assigned to (project idjemp id, hours)
+Write following queries in SQL
+1) Get employee numbers of employee who do not work on project P123
+2) Get the details of employee working on both project P120 and P125
+3) List the employees working on project ‘Leave management system’
+4) Count the number of employees working on each project
+5) Increase salary of employee by 15% who earn less than the avg. salary of employees
 
-3) In all 05 questions to be attempted.
+b) What are the constraints on generalization and specialization.
 
-4) All questions carry equal marks.
+c) Whatis generalization & specialization . B
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-Q.1A Draw an E-R diagram for small private airport database that is used to keep [06]
-track of airplanes, their owners, airport employees, and pilots. Each airplane has
-a registration number, plane type and is stored in particular hangar. Type has a
-model number, capacity and a weight. Each hangar has a number, capacity and
-a location. The database also keeps track of owner of each plane [owns] and the
-employees who have maintained the plane [maintains]. Each relationship
-instance in owns relates an airplane to an owner and includes the purchase date.
-A service record includes as attributes the date of maintenance, the number of
-hours spent on the work and the type of work done. Service record will be
-
-weak entity set as each service needs to be identified by plane registration
-number.
-
-Q.1B Answer below questions. [2 marks each] [06]
-: 1. Explain formal definition of referential integrity constraint.
-2. Explain three levels of database abstraction.
-3. Explain update and delete anomaly for relational databases. -
-Q.2A Consider the following student database: [06]
-Student(st_id, name, address, city, tutor)
-= Enrolment(enrol_id, st_id, course_code)
-Course(course_code, title, department)
-
-ad Solve below queries using relational algebra [3 marks]
-1. Find out st_id, name of student and enroll_id of those students who have
-
-4]2
+- 3
 --- page 2 ---
-enrolled for course code 01.
-2. Find out course code and title of courses run by department ‘CS’.
+ram
 
-Solve below queries using SQL [3 marks]
-3. Find out total number of students enrolled for each course.
-“4, Find out all details of student who have enrolled for course with title
-“Database”.
-Q.2B What is a left outer join, a right outer join and a full outer join? Explain each with [06]
-proper example. ,
-Q.3.A How can the SQL view mechanism and GRANT and REVOKE commands be used in [06]
-database security?
-Q.3B Explain one application of trigger with proper example. . [06]
-Q4A _ Explain first, second and third normal form in detail with appropriate example. [06]
-Q4B _ Explain functional dependency with its formal definition. Given relation R= [06]
-{A,B,C,G,H,, Set of FD is F= {A>B, ADC, CG9H,CG>1B>H}. Find
-out closure of FD that is F’.
+Q4
 
-Q.5A Explain slotted page structure: variable length record file organization. [06]
-Q.5B Explain dense and sparse index discussing insert and update operation on each. [06]
-Q.6A Explain concept of transaction with ACID properties. [06]
-Q.6B Explain two phase locking protocol and strict two phase locking protocol. [06]
-Q.7 Write short notes for (any four) [12]
+Q5
 
-1. Deadlock detection and prevention
-2. Extendable hashing
+Q6
 
-3. Disadvantages of file system
+Q7
 
-4. Stored functions and procedures
+a) With respect to relational algebra explain 5 relational algebra operation with suitable
+example.
+b) ~~ Explain shadow,paging with example
+roi
 
-5. Serializability
+a) What is normalization and explain 1NF, 2NF, 3NF with suitable example.
 
-2/2
-````
+~.
 
-## 2015-16 · Re-Exam · Sem 3 · paper 9630f820b6e0
+b) Explain RAID levels.
 
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEMS (IT), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 02 December 2016
-- Text: ocr (2 pages), mean OCR confidence 93.5
+a) What is Deadlock? How to prevent them and how to recover if deadlock takes place?
+b) Explain conflict and view serializability with suitable examples?
 
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+a) Compare sparse index and dense index
 
-Programme: B. Tech (1.T.) Year: Il Semester : III
+b) What are the advantages of DBMS over file approach
 
-Batch : 2014-2015 / 2015-2016
-Academic Year : 2016-2017
+Write a short note on(any 4)
+i. DBA
+ii. Two phase locking
+iii) 4NF and SNF
+iv. Embedded SQL
+v. Trigger
 
-Subject : Database Management Systems
+x a,
 
-Date : 02 December 2016
+7
 
-Re-Examination
+,
+6
+)
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 3 questions.
-3) In all 4 questions to be attempted.
-
-Q1) | Design a database for a worldwide package delivery company (e.g. DHL | (15)
-or FedEx). The database must be able to keep track of customers (who
-ship items) and customers (who receive items); some customers may do
-both. Each package must be identifiable and trackable, so that the
-database must be able to store the location of the package and its history
-of iocations. Locations include trucks, planes, airports and warehouses.
-Design should include the following:
-
-e Identification of Entity Sets and Relationship Sets with attributes
-e ER Diagram
-
-e Representation of Entity Sets and Relationship Sets as Relations
-e Redundancy and Combination of Schemas
-
-Q2) | Specify 1NF, 2NF, 3NF, BCNF, 4NF for the given relations. Mention the | (15)
-
-rules used for converting the relations into the respective Normal Forms.
-
-books (accessionno, isbn, title, author, publisher)
-
-users(userid, name, deptid, deptname)
-
-(For each Normal Form, specify the relation and the rules that confirm
-inal ¢ the present normal form)
-
-Q3a) | Whatis a view in SQL? Explain with an example the significance / importance (10)
-of views and its creation.
-
-Q3b) | What are integrity constraints? Explain with example the check integrity (5)
-constraint.
-
-Af.
---- page 2 ---
-Q4a) | What is indexing? Explain with an example multilevel indices. (10)
-
-Q4b) | What are the limitations of indexing and how are they overcome by hashing? (5)
-
-QSa) | Explain the different states in which a transaction can be witha neat diagram. | (5)
-
-QSb) | Explain the two-phase locking protocol for concurrency control. (10)
-
-2)2.
+(2
 ````
 
 ## 2015-16 · Re-Exam · Sem 1 · paper cb2150dfcd7c
@@ -18539,6 +19326,7 @@ alg
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEMS B TECH (IT), 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; exam date: 05/12/2014
 - Text: ocr (2 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -18630,7 +19418,6 @@ Embedded SQL
 
 Serializability
 
-Oe ok oe 2 ok 2 ok oo
 
 3g
 
@@ -18734,6 +19521,7 @@ a
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DATABASE MANAGEMENT SYSTEMS/Database Management Systems Batch 2014-15 Final.pdf`
 - Printed on paper: max marks: 100; exam date: 06/12/2014
 - Text: ocr (2 pages), mean OCR confidence 92.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -18832,7 +19620,6 @@ Corporation
 6(a) What is RAID Technology? How is reliability improved using RAID
 
 6(b) 1. Consider a relation R(A,B,C,D,E) with the following dependencies:
-{AB-> C, CD -> E, DE -> B}
 Is AB a candidate key of this relation?
 
 2. Define Armstrong’s axioms in terms of functional dependencies
@@ -18981,127 +19768,6 @@ Write short notes for : (Any four )
 Ge
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper f83c78cafc4b
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DISCRETE STRUCTURES/DATABASE MANAGEMENT SYSTEMS B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 27/11/2015
-- Text: ocr (2 pages), mean OCR confidence 89.2
-
-````text
-SVAM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Computer) Year: II Semester: III
-Batch: 2014-2015 ae
-Academic Year: 2015-2016 -SnTaTE BP Reg
-fs ate. NN
-
-we
-ae
-
-‘f
-
-Subject: Database Management Systems
-Marks:
-Date: 27/11/2015 Time:
-Duration:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate full marks.
-
-Ql.
-a) 6
-Draw E-R diagram for below system. Document all assumption.
-A Country Bus Company owns a number of busses. Each bus is allocated to a particular
-route, although some routes may have several busses. Each route passes through a
-number of towns. One or more drivers are allocated to each stage of a route, which
-corresponds to a journey through some or all of the towns on a route. Some of the towns
-have a garage where busses are kept and each of the busses are identified by the
-registration number and can carry different numbers of passengers, since the vehicles
-vary in size and can be single or double-decked. Each route is identified by a route
-number and information is available on the average number of passengers carried per day
-for each route. Drivers have an employee number, name, address, and sometimes a
-telephone number.
-b) Explain below terms: (Any Three) G
-1. Primary key and candidate key
-2. Data dictionary
-3. Data independence
-4. Transitivity dependency
-5. Shared and exclusive lock
-Q2 a) Consider the following relational schema. 6
-
-project (project _id, proj_name, chief_arch, salary)
-employee (emp_id, emp_name)
-assigned to (project idjemp id, hours)
-Write following queries in SQL
-1) Get employee numbers of employee who do not work on project P123
-2) Get the details of employee working on both project P120 and P125
-3) List the employees working on project ‘Leave management system’
-4) Count the number of employees working on each project
-5) Increase salary of employee by 15% who earn less than the avg. salary of employees
-
-b) What are the constraints on generalization and specialization.
-
-c) Whatis generalization & specialization . B
-
-- 3
---- page 2 ---
-ram
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-a) With respect to relational algebra explain 5 relational algebra operation with suitable
-example.
-b) ~~ Explain shadow,paging with example
-roi
-
-a) What is normalization and explain 1NF, 2NF, 3NF with suitable example.
-
-~.
-
-b) Explain RAID levels.
-
-a) What is Deadlock? How to prevent them and how to recover if deadlock takes place?
-b) Explain conflict and view serializability with suitable examples?
-
-a) Compare sparse index and dense index
-
-b) What are the advantages of DBMS over file approach
-
-Write a short note on(any 4)
-i. DBA
-ii. Two phase locking
-iii) 4NF and SNF
-iv. Embedded SQL
-v. Trigger
-
-x a,
-
-7
-
-,
-6
-)
-
-(2
-````
-
 ## 2014-15 · Re-Exam · Sem 3 · paper 95d7c7195f3b
 
 - Departments: Information Technology
@@ -19212,6 +19878,354 @@ b) Explain how database security and authorization is achieved in SQL. 6
 ——> x&_—- —————
 
 - af
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper ccdb7eb7bf41
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 11/05/2015
+- Text: ocr (3 pages), mean OCR confidence 89.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (I.T.) Year: II Semester: IV
+Batch: 2013-14 nm
+Academic Year: 2014-2015 fe 2S
+Subject: Database management system if 2
+_ Marks; ! saps TM oe |
+Date: 11/05/2015 Time: m
+
+EX ( £10.004a %
+i % S 3 (hrs)
+Cre AOE: eee
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+Re-Examination
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
+3. Inall, FIVE (5) questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets on the right hand side indicates full marks.
+
+Q1 A __ Describe the advantages and disadvantages of DBMS. (10)
+
+B   Acompany database needs to store information about employees (identified by ssn,
+with salary and phone as attributes); departments (identified by duo, with dname
+and budget as attributes); and children of employees (with name and age as
+attributes). Employees work in departments; each department is managed by an
+employee; a child must be identified uniquely by name when the parent (who is an
+employee; assume that only one parent works for the company) is known. We are
+not interested in information about a child once the parent leaves the company.
+
+i. Draw an ER diagram that captures this information. Be sure to indicate all (5)
+key, participation and cardinality constraints.
+
+ii. | Convert this ER diagram to a relational schema. Highlight the primary and (5)
+foreign keys.
+
+Qa i. Consider the following relations: (4)
+PERSON (SS#, NAME, ADDRESS)
+CAR (REGISTRATION_NUMBER, YEAR, MODEL)
+ACCIDENT (DATE, DRIVER, CAR_REG NO)
+OWNS (SS#, LICENSE)
+
+%
+--- page 2 ---
+Q3
+
+Q4
+
+Q5
+
+A
+
+A
+
+A
+
+Construct the following relational algebra queries:
+a) Find the names of persons who are involved in an accident.
+b) Find the registration number of cars which were not involved in any
+accident.
+
+ii. | Consider the following relations: (6)
+SUPPLIER (S#, SNAME, STATUS, city)
+SUPP-PART (S#, P#, QTY)
+PART (P#, PNAME, COLOR, WEIGHT, CITY)
+
+Give an expression in SQL for each of queries below:
+a) Get supplier names for supplier who supply at least one red part.
+b) Get supplier names for supplier who do not supply part P2.
+c) Change the color of the part to “WHITE”, whose part number (P#) is
+111.
+Why do we need concurrent execution in DBMS? Explain how serializability can (10)
+help in this?
+
+i. | What is functional dependency? (10)
+ii. Prove or disprove the following inference rule for functional dependency:
+{X >Y, WY > Z} |= {WX > Z}
+Draw and explain the three level architecture of the database system. (10)
+
+What is a transaction? Explain ACID properties of transaction. (40)
+
+What is the difference between a primary index and a secondary index? What are (10)
+the advantages of using an index and what are its disadvantages?
+
+i. For the following relations: (3)
+EMPLOYEE (ID, NAME, ADDRESS, POSITION)
+COMPANY_STATS (NBEMP, NBPRODUCT, REVENUE)
+
+Create a trigger that increments the number of employees (NBEMP
+attribute), each time a new employee is hired; that is, each time a new row
+is inserted into EMPLOYEE table.
+
+ii. For the following relations: (3)
+SUPPLIER (S#, SNAME, STATUS, CITY)
+SUPP-PART (S#, P#, QTY)
+PART (P#, PNAME, COLOR, WEIGHT, CITY)
+
+Construct a view, which has the information about suppliers and the parts
+they supply.
+
+iii, For the table EMPLOYEE (4)
+(EMP_NO VARCHAR(6),
+
+dy
+TS
+--- page 3 ---
+NAME VARCHAR(20) NOT NULL,
+SALARY NUMBER(10,2))
+
+Define the following constraints:
+a) SALARY must be at least 10000.
+b) NAME isa unique key.
+
+B i. What is an Index? How updates take place using indices? (6)
+ii. | For the following table client, create an index on the field client_no: (4)
+CLIENT
+
+(CLIENT _NO VARCHAR2(6) PRIMARY KEY,
+NAME VARCHAR2(20) NOT NULL,
+ADDRESS! VARCHAR2(30),
+
+ADDRESS2 VARCHAR2(30),
+
+CITY VARCHAR2(15),
+
+STATE VARCHAR2(15),
+
+PINCODE NUMBER(6),
+
+BAL_DUE NUMBER(10,2))
+
+Q6 A With examples briefly explain any TWO (2) types of integrity constraints. (8)
+
+B__ Consider the following relation: (12)
+PRODUCT(Model, Manufacturer, ProcessorType, Price, Country, Rating)
+
+Suppose the following functional dependencies exist:
+Model, Manufacturer — Price
+
+Model -> ProcessorType, Rating
+
+Price —> Manufacturer
+
+Manufacturer —> Country
+
+i. What normal form is the relation in? Explain your answer.
+ii. | Apply normalisation until you reach the BCNF form. Show the
+normalisation steps clearly.
+
+Q7 Write short notes on any FOUR (4) of the following:
+A _ Primary key, candidate key and foreign key (5)
+B View and Trigger (5)
+C Nested queries (5)
+D_ Weak and Strong entity (5)
+E Hashing (5)
+
+F _ Serializability 6)
+
+x
+
+mens BE
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 3477c4a4a737
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/DATABASE MANAGEMENT SYSTEMS/Database Management Systems Batch( 2013-14 ) Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 01/07/2015
+- Text: ocr (3 pages), mean OCR confidence 86.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) Year: II Semester: IV
+
+Academic Year: 2014-15
+STE OP ~~
+
+oan ~~
+ier ~~ N
+
+Batch: 2013-14
+
+f B.
+Subject : Database Management Systems Marks: 100 a : ae = |
+Time : 10.0 to 1.00 pm - y
+Date : 01/07/2015 Durations: TS ey a4
+Re-Examination Sas anaes ca
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
+3. In all, FIVE (5) questions to be attempted.
+
+4. All questions carry equal marks. :
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets on the right hand side indicates full marks.
+
+Qi |A_ | Describe the advantages and disadvantages of DBMS. (10)
+
+[TB | Draw an E-R diagram and reduce’and reduce it to relational database model for a (10)
+university database for scheduling of classrooms for final exams. This database
+could be modelled using entities as
+exam (course_name, section_number, room_number, time);
+course (name, department, C_number),
+room (r_number, capacity, building).
+Entity section is dependent on course.
+
+Q2\A i. Given the following relations: . (4)
+Vehicle (Reg_no, make, colour)
+Person(eno, name, address)
+Owner(eno, reg_no)
+
+Construct the following relational algebra queries:
+a) List the reg_no of vehicles owned by John.
+b) List the names of persons who own maruti cars.
+
+f
+
+vad
+--- page 2 ---
+13
+
+ii. | Consider the following relational schema:
+STUDENT (name, student#, class, major)
+COURSE (course name, course#, credit hours, department)
+SECTION (section identifier, course#, semester, year, instructor)
+GRADE_REPORT (student#, section identifier, grade)
+PREREQUISITE (course#, presequisite#)
+
+” Specify the following queries in SQL on the above database schema.
+(i) Retrieve the names of all students majoring in ‘CS’ (Computer Science).
+(i#) Retrieve the names of all courses taught by Professor King in 1998
+(iii) Delete the record for the student whose name is ‘Smith’ and whose
+student number is 17.
+
+(6)
+
+i. What are the functions of Database Administrator?
+
+ii. _ Explain Generalization, specialization with an example
+
+(10)
+
+Q3
+
+A
+
+Define the following terms with examples
+(i) Single and Composite attributes
+
+(ii) Single Valued and Multi Valued
+
+(iii) Strong and Weak entit
+
+(iv) Aggregation ‘
+
+(v) Relationship set
+
+(10)
+
+Draw and explain the three level architecture of the database system.
+
+(10)
+
+Q4
+
+A
+
+What is a transaction? Explain ACID properties of transaction.
+
+(10)
+
+What is the difference between a primary index and a secondary index? What are
+the advantages of using an index and what are its disadvantages?
+
+(10)
+
+Q5
+
+A
+
+Explain INF, 2NF and 3NF with suitable example.
+
+(10)
+
+B
+
+i. What is an Index? How updates take place using indices?
+ii. For the following table client, create an index on the field client_no:
+CLIENT
+( CLIENT _NO VARCHAR2(6) PRIMARY KEY,
+NAME VARCHAR2(20) NOT NULL,
+ADDRESS1 VARCHAR2(30),
+ADDRESS2 VARCHAR2(30),
+CITY VARCHAR2(15),
+STATE VARCHAR2(15),
+PINCODE NUMBER(6),
+BAL DUE NUMBER(10,2))
+
+(6)
+(4)
+
+7;
+--- page 3 ---
+Q6|A_ | With examples briefly explain any TWO (2) types of integrity constraints. (10) |
+
+B_ | Explain the following: . (10) |
+- i. Trigger |
+ii. _ Conflict Serializability
+
+Q7 Write short notes on any FOUR (4) of the following:
+A | Primary key, candidate key and foreign key (5)
+B_ | Views | (5)
+‘C | Nested queries (5)
+D_ | Weak and Strong entity / (5)
+E_ | Hashing . (5)
+F _| Serializability ) 6)
 ````
 
 ## 2014-15 · Re-Exam · Sem 1 · paper d6d87a9db5ff
@@ -19577,8 +20591,8 @@ G)
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEMS 2013-14 Final exam.pdf`
-- Printed on paper: exam date: 14/05/2014
 - Text: ocr (2 pages), mean OCR confidence 89.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -19591,7 +20605,6 @@ j Z On
 Subject :Database Management Systems
 
 Marks:"100 ~~ <@, %
-Date :14/05/2014 Tinke!: 2i00spketd omg oe
 Dutations: 3 (hrs).
 Final Examination \% ~_
 
@@ -19618,7 +20631,6 @@ Q.2 A. Discuss the insertion, deletion and modification anomalies giving example
 B. What are Weak entity types? Explain with the help of examples. (10)
 Q.3 A. i) Explain Functional Dependency in database design (5)
 ii) Prove or disprove the following inference rule for functional dependency (5)
-{X ~Y, WY >Z} => {WX 7}
 B. Explain Outer join types and division operations using example. (10)
 Q4 <A. Draw ER-Diagram for college database. Also draw schema diagram for the same. (10)
 B. Consider a banking database with the following relation schemas: (10)
@@ -20092,6 +21104,7 @@ v. Views in SQL
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10/06/2014
 - Text: ocr (2 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -20156,7 +21169,6 @@ Q.3b Explain functional dependency with its formal definition. Explain closure o
 functional dependency and closure of attribute. Compute the closure of the
 following set F of functional dependencies for relation schema R = (A, B, C, D,
 BE). List the candidate keys for R.
-F={A— BC, CDE, B —D, E —A}
 Q4a Explain 3NF and BCNF and state the difference between them with example. (10)
 Q.4b Explain different RAID levels. (10)
 Q.5a Explain properties of hash function and explain difference between dynamic | (10)
@@ -20187,6 +21199,7 @@ aS x
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEMS B TECH (IT)BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13/06/2014
 - Text: ocr (2 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -20262,7 +21275,6 @@ Q7
 Write the following queries in Relational algebra
 Suppliers (Sno, Sname, Pincode, city) Parts(Pno, pname, color, weight)
 
-Projects(projno, projname, city) shipments(sno, pno, projno)
 i) Get supplier name and city for suppliers who supply to any project with a
 yellow colored part.
 ii) Find the supplier names who are supplying part ‘xyz’ for project 103.
@@ -20313,190 +21325,6 @@ i :
 6)
 (6)
 6)
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper ccdb7eb7bf41
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 11/05/2015
-- Text: ocr (3 pages), mean OCR confidence 89.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (I.T.) Year: II Semester: IV
-Batch: 2013-14 nm
-Academic Year: 2014-2015 fe 2S
-Subject: Database management system if 2
-_ Marks; ! saps TM oe |
-Date: 11/05/2015 Time: m
-
-EX ( £10.004a %
-i % S 3 (hrs)
-Cre AOE: eee
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-Re-Examination
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
-3. Inall, FIVE (5) questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets on the right hand side indicates full marks.
-
-Q1 A __ Describe the advantages and disadvantages of DBMS. (10)
-
-B   Acompany database needs to store information about employees (identified by ssn,
-with salary and phone as attributes); departments (identified by duo, with dname
-and budget as attributes); and children of employees (with name and age as
-attributes). Employees work in departments; each department is managed by an
-employee; a child must be identified uniquely by name when the parent (who is an
-employee; assume that only one parent works for the company) is known. We are
-not interested in information about a child once the parent leaves the company.
-
-i. Draw an ER diagram that captures this information. Be sure to indicate all (5)
-key, participation and cardinality constraints.
-
-ii. | Convert this ER diagram to a relational schema. Highlight the primary and (5)
-foreign keys.
-
-Qa i. Consider the following relations: (4)
-PERSON (SS#, NAME, ADDRESS)
-CAR (REGISTRATION_NUMBER, YEAR, MODEL)
-ACCIDENT (DATE, DRIVER, CAR_REG NO)
-OWNS (SS#, LICENSE)
-
-%
---- page 2 ---
-Q3
-
-Q4
-
-Q5
-
-A
-
-A
-
-A
-
-Construct the following relational algebra queries:
-a) Find the names of persons who are involved in an accident.
-b) Find the registration number of cars which were not involved in any
-accident.
-
-ii. | Consider the following relations: (6)
-SUPPLIER (S#, SNAME, STATUS, city)
-SUPP-PART (S#, P#, QTY)
-PART (P#, PNAME, COLOR, WEIGHT, CITY)
-
-Give an expression in SQL for each of queries below:
-a) Get supplier names for supplier who supply at least one red part.
-b) Get supplier names for supplier who do not supply part P2.
-c) Change the color of the part to “WHITE”, whose part number (P#) is
-111.
-Why do we need concurrent execution in DBMS? Explain how serializability can (10)
-help in this?
-
-i. | What is functional dependency? (10)
-ii. Prove or disprove the following inference rule for functional dependency:
-{X >Y, WY > Z} |= {WX > Z}
-Draw and explain the three level architecture of the database system. (10)
-
-What is a transaction? Explain ACID properties of transaction. (40)
-
-What is the difference between a primary index and a secondary index? What are (10)
-the advantages of using an index and what are its disadvantages?
-
-i. For the following relations: (3)
-EMPLOYEE (ID, NAME, ADDRESS, POSITION)
-COMPANY_STATS (NBEMP, NBPRODUCT, REVENUE)
-
-Create a trigger that increments the number of employees (NBEMP
-attribute), each time a new employee is hired; that is, each time a new row
-is inserted into EMPLOYEE table.
-
-ii. For the following relations: (3)
-SUPPLIER (S#, SNAME, STATUS, CITY)
-SUPP-PART (S#, P#, QTY)
-PART (P#, PNAME, COLOR, WEIGHT, CITY)
-
-Construct a view, which has the information about suppliers and the parts
-they supply.
-
-iii, For the table EMPLOYEE (4)
-(EMP_NO VARCHAR(6),
-
-dy
-TS
---- page 3 ---
-NAME VARCHAR(20) NOT NULL,
-SALARY NUMBER(10,2))
-
-Define the following constraints:
-a) SALARY must be at least 10000.
-b) NAME isa unique key.
-
-B i. What is an Index? How updates take place using indices? (6)
-ii. | For the following table client, create an index on the field client_no: (4)
-CLIENT
-
-(CLIENT _NO VARCHAR2(6) PRIMARY KEY,
-NAME VARCHAR2(20) NOT NULL,
-ADDRESS! VARCHAR2(30),
-
-ADDRESS2 VARCHAR2(30),
-
-CITY VARCHAR2(15),
-
-STATE VARCHAR2(15),
-
-PINCODE NUMBER(6),
-
-BAL_DUE NUMBER(10,2))
-
-Q6 A With examples briefly explain any TWO (2) types of integrity constraints. (8)
-
-B__ Consider the following relation: (12)
-PRODUCT(Model, Manufacturer, ProcessorType, Price, Country, Rating)
-
-Suppose the following functional dependencies exist:
-Model, Manufacturer — Price
-
-Model -> ProcessorType, Rating
-
-Price —> Manufacturer
-
-Manufacturer —> Country
-
-i. What normal form is the relation in? Explain your answer.
-ii. | Apply normalisation until you reach the BCNF form. Show the
-normalisation steps clearly.
-
-Q7 Write short notes on any FOUR (4) of the following:
-A _ Primary key, candidate key and foreign key (5)
-B View and Trigger (5)
-C Nested queries (5)
-D_ Weak and Strong entity (5)
-E Hashing (5)
-
-F _ Serializability 6)
-
-x
-
-mens BE
 ````
 
 ## 2013-14 · Re-Exam · Sem 4 · paper de3f2e84e189
@@ -20709,168 +21537,113 @@ Serializability
 6)
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 3477c4a4a737
+## 2012-13 · Exam not stated · Trim 4 · paper 2dccb82996a1
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/DATABASE MANAGEMENT SYSTEMS/Database Management Systems Batch( 2013-14 ) Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 01/07/2015
-- Text: ocr (3 pages), mean OCR confidence 86.3
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/DATABASE MANAGMENT SYSTEMS/scan0012(5).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.2
 
 ````text
+Programme: MBA(Tech)-(I.T.) Year: Il Trimester: IV
+
+Subject:
+
+Date:
+
+a
+
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Mukesh Patel School Of Technology Management & Engineering
 
-Programme: MBA Tech (IT) Year: II Semester: IV
+Academic Year : 2012-2013
 
-Academic Year: 2014-15
-STE OP ~~
+¢
+<7
+DATABASE MANAGEMENT SYSTEM Marks: 100 a tog
+fs MS Un versicy 4
+Time: 2.00pm soon 26,
+27/10/2012 Duration: 3 hr a LiBaary
+Final - Examination To
+<o,~ y
+Cp vv 6
+MANAGEN®
 
-oan ~~
-ier ~~ N
-
-Batch: 2013-14
-
-f B.
-Subject : Database Management Systems Marks: 100 a : ae = |
-Time : 10.0 to 1.00 pm - y
-Date : 01/07/2015 Durations: TS ey a4
-Re-Examination Sas anaes ca
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the q
+paper and on the cover of the Answer book, which is provided for their use.
 
 NB:
+(1)Question No.1 is compulsory.
+(2)Out of remaining question answer any 4 main questions.
+(3) All main questions carry equal marks.
+(4)Answer to each new question to be started on a fresh page.
 
-1. Question No. 1 is compulsory.
-2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
-3. In all, FIVE (5) questions to be attempted.
+1. (a) Why would you choose database system instead of simply storing data in operating
+system? When it would make sense not to use DBMS system. (10)
+(b) Who are the end users? What are the DBA responsibilities? (10)
 
-4. All questions carry equal marks. :
-5. Answer to each new question to be started on a fresh page.
+2. (a)With proper assumptions, write E-R diagram for hospital management system.(10)
+(b) With a neat diagram explain architecture of DBMS. (10)
 
-6. Figure in brackets on the right hand side indicates full marks.
+3. (a)Consider the following relation schema
 
-Qi |A_ | Describe the advantages and disadvantages of DBMS. (10)
+Supplier(sid,sname,address)
 
-[TB | Draw an E-R diagram and reduce’and reduce it to relational database model for a (10)
-university database for scheduling of classrooms for final exams. This database
-could be modelled using entities as
-exam (course_name, section_number, room_number, time);
-course (name, department, C_number),
-room (r_number, capacity, building).
-Entity section is dependent on course.
+Parts(pid, pname,color)
 
-Q2\A i. Given the following relations: . (4)
-Vehicle (Reg_no, make, colour)
-Person(eno, name, address)
-Owner(eno, reg_no)
+Catalog(sid,pid,cost)
 
-Construct the following relational algebra queries:
-a) List the reg_no of vehicles owned by John.
-b) List the names of persons who own maruti cars.
+Write relational algebra for the following.
+i) Find the names of supplier who supplies some red part.
+ii) Find the sids of supplier who supply some red or green part.
+iii) Find the sids of supplier who supplies some red part or are at 221 packer street.
+iv) Find the sids of supplier who supplies every part.
 
-f
+v) Find the sids of supplier who supply every red or green part. (10)
+(b) What is the difference between cross product and join operation on relations?
+Explain with example left and right outer join. (10)
 
-vad
+4. (a)How do you'enforce basic constraint in the SQL? What is view? Give example. (10)
+(b) Consider the following relation.
+Sailor(sid,sname,rating,age)
+Boat(bid, bname,color)
+Reserves(sid,bid,date)
+Write SQL statement for the following
+
+Vo
+
++4
+
+yy
+
+4
 --- page 2 ---
-13
+i) Find all the sailors whose rating is above 7.
 
-ii. | Consider the following relational schema:
-STUDENT (name, student#, class, major)
-COURSE (course name, course#, credit hours, department)
-SECTION (section identifier, course#, semester, year, instructor)
-GRADE_REPORT (student#, section identifier, grade)
-PREREQUISITE (course#, presequisite#)
+ii) Find the names of sailors who have reserved boat number 103.
 
-” Specify the following queries in SQL on the above database schema.
-(i) Retrieve the names of all students majoring in ‘CS’ (Computer Science).
-(i#) Retrieve the names of all courses taught by Professor King in 1998
-(iii) Delete the record for the student whose name is ‘Smith’ and whose
-student number is 17.
+iii) Find the names of sailors who have reserved a red boat.
 
-(6)
+iv) Find the names of sailors who have reserved at least one boat.
 
-i. What are the functions of Database Administrator?
+v) Find the ages of sailors whose name begins and ends with B and has at least
 
-ii. _ Explain Generalization, specialization with an example
+three characters. (10)
+5. (a) Explain the difference between hash indexes and B+ tree indexes. (10)
+(b) How does ER schema is converted into relation schema? (10)
 
-(10)
+6. (a) What is functional dependency? Explain first, second and third normal form with
 
-Q3
+example. (10)
+(b) What is transaction? Explain the anomalies associated with the concurrent execution
+of transaction. (10)
 
-A
+7. (a) What is embedded SQL? How do you embed SQL command select in C program? (10)
+(b) write short note on
+(i)trigger (ii) system log (10)
 
-Define the following terms with examples
-(i) Single and Composite attributes
-
-(ii) Single Valued and Multi Valued
-
-(iii) Strong and Weak entit
-
-(iv) Aggregation ‘
-
-(v) Relationship set
-
-(10)
-
-Draw and explain the three level architecture of the database system.
-
-(10)
-
-Q4
-
-A
-
-What is a transaction? Explain ACID properties of transaction.
-
-(10)
-
-What is the difference between a primary index and a secondary index? What are
-the advantages of using an index and what are its disadvantages?
-
-(10)
-
-Q5
-
-A
-
-Explain INF, 2NF and 3NF with suitable example.
-
-(10)
-
-B
-
-i. What is an Index? How updates take place using indices?
-ii. For the following table client, create an index on the field client_no:
-CLIENT
-( CLIENT _NO VARCHAR2(6) PRIMARY KEY,
-NAME VARCHAR2(20) NOT NULL,
-ADDRESS1 VARCHAR2(30),
-ADDRESS2 VARCHAR2(30),
-CITY VARCHAR2(15),
-STATE VARCHAR2(15),
-PINCODE NUMBER(6),
-BAL DUE NUMBER(10,2))
-
-(6)
-(4)
-
-7;
---- page 3 ---
-Q6|A_ | With examples briefly explain any TWO (2) types of integrity constraints. (10) |
-
-B_ | Explain the following: . (10) |
-- i. Trigger |
-ii. _ Conflict Serializability
-
-Q7 Write short notes on any FOUR (4) of the following:
-A | Primary key, candidate key and foreign key (5)
-B_ | Views | (5)
-‘C | Nested queries (5)
-D_ | Weak and Strong entity / (5)
-E_ | Hashing . (5)
-F _| Serializability ) 6)
+enema mt % . eee
 ````
 
 ## 2012-13 · Re-Exam · Trim 2 · paper c5d0e13ad1e6
@@ -20919,6 +21692,135 @@ normal fonns.
 Write short notes on the followings   I201
 a. RAID
 b. Embedded SQL
+````
+
+## 2012-13 · Re-Exam · Trim 3 · paper 12a8388221ed
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM III MCA 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: text (1 page)
+
+````text
+ra
+.I.,.. ,   . .   svKM'smIMs   .->...sq
+;. Mukesh Patel School of Technolorn Management &, En&eering   / ,   r~rrej
+)fl'w-e:, . MCA   Year:   I   Trimester:   111   5   :<.   1 ,dl%&,$ ~. ~ .~
+. -4-,q;   Academic Year :2012-2013 'k
+~. , t - q011-2012
+. \.
+..-' ,.. 1.-.cfl,:Database Management System   Marks:   100
+a:?-$:,i~~~i9,06,2013- . . .,.<.'. :: .a;..   Time:   10.00 am To 1.00 pm
+.   . ':.-   Duration: 3 hrs.
+. .   m ~ A ~ . ~ . ' : - > L , ! . .   Re - Examination
+structions: Candidates should read carefully the instructions printed on the
+estion paper and on the cover of the answer book, which is provided for their use.
+. Question 1is Compulsory.
+. Out of remaining questions, attempt any 4 questions.
+. In all 5questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a freshpage.
+6. Figures in brackets indicate full marks:
+7. Assume suitable data wherever necessary.
+_   = What is .a transaction? Explain the ACD properties of the transactions.
+-i._..__ - b. Construct an E-R diagram for admission process of your college.
+a. ---Whatid deadlock? Explain-different deadlock handling techniques.
+hat is normalization? Explain lNF, 2NF and 3NF:
+- s
+What is foreign key? Explain with suitable example. Give SQL statement to   .[lo]
+create a foreign key.
+.   .   b. Explain log based protocol.   [lo]
+-   - -a. What is-a view? Why views are required? How to c@te a view?   [lo]
+T-iasi a-- -7-h..What-ishashing?Explaindifferent techniques to handle hash clash.
+1101
+I   ----:a._Explain
+.- - ..   multiple granularity.   1101
+I; - z   " ~.   b;--What -is .-author-&tion?--How-to defme--authorization in SQL? Explain with [lo]
+'   - I   example:
+a. Explain shadow paging with example.   [N".'
+I--   . -   b. What is time-stamp? Explain time-stamp based concurrency control algorithm in [lo]
+. ..   detail.
+-.   -   'Q7.   Write short notes on the followings   I201
+a. RAID
+7x - .   b. Dynainic SQL
+7
+````
+
+## 2012-13 · Re-Exam · Trim 3 · paper 022ff9a2582b
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/DATABASE MANAGEMENT SYSTEMS/Database Management System ReExam 2011-12(1).pdf`
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technolorn Manapement & Enpineering
+Programme: MCA   Year:   I   Trimester:   I11
+'1   Academic Year :2012-2013   . .,
+Batch:   20 1 1-20 12
+Subject:   Database Management System   I .
+Date:   8 / 5 / 2 0 1 3
+Re - Examination
+Instructions: candidate should read carefully the instructions printed
+cover of the answer book, which is provided fortheir use.
+NB:
+1. Question no. 1 is compulsory.
+2. Out of the remaining quGTtions, attempt any four questions.
+3. Answer to each questionto be started on the fresh page.
+4.   All questions carry equal imarks.
+5. Figure in brackets on the right hand side indicates full marks.
+Q. 1 a)   College has offered you free tuition for next semester on top of your usual consulting fee if you   10
+design a logical schema for a new database. Talking with the people in the administration, you
+gather the following information:
+The database contains information about professors and courses.
+Professors have a SSN, a name, and a research specialty. Each professor can be uniquely
+identified by a SSN.
+Each course can be uniquely identified by a course number, and we also want to store the
+course's name.
+For each course offering, we need to record the professor who teaches the course.
+Each course is taught by exactly one professor.
+Draw a ER diagram that captures the above information.
+Q. 1 b)   Explain the ACID properties of Transaction.
+Q. I c)   Write a note on lock based protocol.
+t Q. 2 a)   Explain Timestamp based protocol and validation based protocol.
+4.2 b)   What is a deadlock? How it is detected?
+Q. 3 a)   Write down following SQL queries based on following request based on the table
+Emp (empid, ernpname ,deptno, sal, designation)
+Dept (deptno, deptnarne)
+--- page 2 ---
+1. Find the 3rd MAX salary in the Emp table.
+2. Write count of number of employees in department wise.
+3.   List dept no., Dept name for all the departments in which there are no employees in the
+department.
+4.   Select all record from Emp table where deptno =10 or 40.
+5.   Select all record from Emp table where deptno=30 and sa1>1500.
+6.   Select all record from emp where job not in SALESMAN or CLERK.
+7.   Select all records where enarne starts with 'S' and its lenth is 6 char.
+8. Count MGR and their salary in emp table.
+9.   Select any salary <3000 fiom emp table.
+10. Select the entire employee group by deptno and sal in descending order.
+Q. 3 b)   Explain shadow paging concept with its drawback
+Q.3 cj   Expiain how VIEW is defined 'in SQL.
+Q. 4   Write a short note on any four ofthe following
+a) ER Diagram
+b) Hashing
+c) Temporal database
+d)Security in SQL
+e) aggregate functions in SQL
+Q. 5 a)   What is 3 NF? Differentiate between 3 NF and BCNF with an example.   10
+Q. 5 b) A company has several departments. Each department has a supervisor and at least one employee.   10
+Employees must be assigned to at least one, but possibly more departments. At least one
+employee is assigned to a project, but an employee may be on vacation and not assigned to any
+projects. The important data fields are the names of the departments, projects, supervisors and
+employees, as well as the supervisor and employee number and a unique project number. Draw
+ER diagram and Write the database schema for the above. Consider the appropriate attributes.
+Q. 6 a)   Explain in brief different storage structures with their advantages.
+Q. 6 b)   Explain how serializability will be tested?
+Q. 7 a)   What is B+ Tree? Explain how it is used for indexing?
+Q. 7 b)   Explain the DDL, DML statements in SQL with an example.
+*
 ````
 
 ## 2011-12 · Exam not stated · Trim 4 · paper 59e9a471b202
@@ -21142,57 +22044,85 @@ he
 [20]
 ````
 
-## 2011-12 · Re-Exam · Trim 3 · paper 12a8388221ed
+## 2011-12 · Re-Exam · Trim 3 · paper f06fc11f8913
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM III MCA 2011-12 RE EXAM.pdf`
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM BATCH 2010-11 RE EXAM0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: text (1 page)
+- Text: ocr (2 pages), mean OCR confidence 90.8
 
 ````text
-ra
-.I.,.. ,   . .   svKM'smIMs   .->...sq
-;. Mukesh Patel School of Technolorn Management &, En&eering   / ,   r~rrej
-)fl'w-e:, . MCA   Year:   I   Trimester:   111   5   :<.   1 ,dl%&,$ ~. ~ .~
-. -4-,q;   Academic Year :2012-2013 'k
-~. , t - q011-2012
-. \.
-..-' ,.. 1.-.cfl,:Database Management System   Marks:   100
-a:?-$:,i~~~i9,06,2013- . . .,.<.'. :: .a;..   Time:   10.00 am To 1.00 pm
-.   . ':.-   Duration: 3 hrs.
-. .   m ~ A ~ . ~ . ' : - > L , ! . .   Re - Examination
-structions: Candidates should read carefully the instructions printed on the
-estion paper and on the cover of the answer book, which is provided for their use.
-. Question 1is Compulsory.
-. Out of remaining questions, attempt any 4 questions.
-. In all 5questions to be attempted.
+———
+
+Programme:
+
+Batch:
+Subject:
+
+Date:
+
+SVKM’s NMIMS ==
+Mukesh Patel School of Technology Management & Engineering
+MCA Year: I Trimester: Il
+Academic Year : 2011-2012
+2010-11
+Database Management System Marks: 100
+Time: 10.00 am To 1.00 pm
+27/06/2012 Duration: 3 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+
+NB:
+
+1. Question No: one is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
 4. All questions carry equal marks.
-5. Answer to each new question to be started on a freshpage.
-6. Figures in brackets indicate full marks:
+
+5. Answer to each new question to be started ona fresh page.
+
+6. Figures in brackets indicate full marks.
+
 7. Assume suitable data wherever necessary.
-_   = What is .a transaction? Explain the ACD properties of the transactions.
--i._..__ - b. Construct an E-R diagram for admission process of your college.
-a. ---Whatid deadlock? Explain-different deadlock handling techniques.
-hat is normalization? Explain lNF, 2NF and 3NF:
-- s
-What is foreign key? Explain with suitable example. Give SQL statement to   .[lo]
-create a foreign key.
-.   .   b. Explain log based protocol.   [lo]
--   - -a. What is-a view? Why views are required? How to c@te a view?   [lo]
-T-iasi a-- -7-h..What-ishashing?Explaindifferent techniques to handle hash clash.
-1101
-I   ----:a._Explain
-.- - ..   multiple granularity.   1101
-I; - z   " ~.   b;--What -is .-author-&tion?--How-to defme--authorization in SQL? Explain with [lo]
-'   - I   example:
-a. Explain shadow paging with example.   [N".'
-I--   . -   b. What is time-stamp? Explain time-stamp based concurrency control algorithm in [lo]
-. ..   detail.
--.   -   'Q7.   Write short notes on the followings   I201
-a. RAID
-7x - .   b. Dynainic SQL
-7
+Q.1. a) Explain advantages of DBMS over file processing . (10)
+
+b) What is normalization? Why it is required? Explain its different forms. (10)
+
+Q.2. a) Explain concurrency control in database system with the help of any two protocols. (10)
+
+b) Explain authorization and views to provide security for a database. (10)
+Q.3. a) Draw the Typical database architecture and explain in detail. (10)
+b) Explain serializability with its type. , (10)
+Q.4.a) What is transaction?Explain ACID properties of transaction. (10)
+b) Explain deadlock management techniques in database. (10)
+Q.5. a) Explain different types of recovery system. (10)
+b)Explain SQL features. (10)
+
+Ya
+
+|
+--- page 2 ---
+MW
+
+Q.6. a) Explain Transaction state . « ....... with diagram.
+
+b) Define the concept of referential integrity with example.
+
+Q.7.Write short notes on: (Any two)
+a) Shadow paging.
+b) B+ tree index files.
+
+c) Triggers and Assertions in SQL
+
+(10)
+(10)
+
+(20)
 ````
 
 ## 2011-12 · Re-Exam · Trim 3 · paper ca6a5af4fe43
@@ -21287,255 +22217,7 @@ a err
 fo
 ````
 
-## 2011-12 · Re-Exam · Trim 3 · paper 022ff9a2582b
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/DATABASE MANAGEMENT SYSTEMS/Database Management System ReExam 2011-12(1).pdf`
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technolorn Manapement & Enpineering
-Programme: MCA   Year:   I   Trimester:   I11
-'1   Academic Year :2012-2013   . .,
-Batch:   20 1 1-20 12
-Subject:   Database Management System   I .
-Date:   8 / 5 / 2 0 1 3
-Re - Examination
-Instructions: candidate should read carefully the instructions printed
-cover of the answer book, which is provided fortheir use.
-NB:
-1. Question no. 1 is compulsory.
-2. Out of the remaining quGTtions, attempt any four questions.
-3. Answer to each questionto be started on the fresh page.
-4.   All questions carry equal imarks.
-5. Figure in brackets on the right hand side indicates full marks.
-Q. 1 a)   College has offered you free tuition for next semester on top of your usual consulting fee if you   10
-design a logical schema for a new database. Talking with the people in the administration, you
-gather the following information:
-The database contains information about professors and courses.
-Professors have a SSN, a name, and a research specialty. Each professor can be uniquely
-identified by a SSN.
-Each course can be uniquely identified by a course number, and we also want to store the
-course's name.
-For each course offering, we need to record the professor who teaches the course.
-Each course is taught by exactly one professor.
-Draw a ER diagram that captures the above information.
-Q. 1 b)   Explain the ACID properties of Transaction.
-Q. I c)   Write a note on lock based protocol.
-t Q. 2 a)   Explain Timestamp based protocol and validation based protocol.
-4.2 b)   What is a deadlock? How it is detected?
-Q. 3 a)   Write down following SQL queries based on following request based on the table
-Emp (empid, ernpname ,deptno, sal, designation)
-Dept (deptno, deptnarne)
---- page 2 ---
-1. Find the 3rd MAX salary in the Emp table.
-2. Write count of number of employees in department wise.
-3.   List dept no., Dept name for all the departments in which there are no employees in the
-department.
-4.   Select all record from Emp table where deptno =10 or 40.
-5.   Select all record from Emp table where deptno=30 and sa1>1500.
-6.   Select all record from emp where job not in SALESMAN or CLERK.
-7.   Select all records where enarne starts with 'S' and its lenth is 6 char.
-8. Count MGR and their salary in emp table.
-9.   Select any salary <3000 fiom emp table.
-10. Select the entire employee group by deptno and sal in descending order.
-Q. 3 b)   Explain shadow paging concept with its drawback
-Q.3 cj   Expiain how VIEW is defined 'in SQL.
-Q. 4   Write a short note on any four ofthe following
-a) ER Diagram
-b) Hashing
-c) Temporal database
-d)Security in SQL
-e) aggregate functions in SQL
-Q. 5 a)   What is 3 NF? Differentiate between 3 NF and BCNF with an example.   10
-Q. 5 b) A company has several departments. Each department has a supervisor and at least one employee.   10
-Employees must be assigned to at least one, but possibly more departments. At least one
-employee is assigned to a project, but an employee may be on vacation and not assigned to any
-projects. The important data fields are the names of the departments, projects, supervisors and
-employees, as well as the supervisor and employee number and a unique project number. Draw
-ER diagram and Write the database schema for the above. Consider the appropriate attributes.
-Q. 6 a)   Explain in brief different storage structures with their advantages.
-Q. 6 b)   Explain how serializability will be tested?
-Q. 7 a)   What is B+ Tree? Explain how it is used for indexing?
-Q. 7 b)   Explain the DDL, DML statements in SQL with an example.
-*
-````
-
-## 2010-11 · Exam not stated · Trim 4 · paper 62c1be16ad27
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/DATABASE MANAGMENT SYSTEMS/database management system 2010-2011.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 77.9
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: M\BA(Tech)-I.T. Year: Il Trimester: IV
-Académie Year : 2010-2011
-
-‘eta Batch: 20/10-2011--— Pin
-
-Subject: DATABASE MANAGEMENT Marks: 100 ter? a
-hen SYSTEM ee eA AN TE 2.00pm To 5.00pm = Mere 7
-
-Date: 26\/10/2010 Duration: 3 hrs. so
-« be Final - Examination
-
-NB. (1) Que! tion No. Lis compulsory.
-(2) Out |f remaining questions, attempt any four questions.
-(3) In all five questions to be attempted.
-(4) All question carry equal marks.
-(5) Answer to each new question to be started on a fresh page.
-
-1 (a) List \our significant differences between a file-processing system and a
-DBMS. [4x5] |
-(b) Expliiin the difference between a weak and a strong entity set.
-(c) What is the purpose of having separate categories for index
-authorizé tion and resource authorization?
-(d) Expllain why 4NF is a normal form more desirable than BCNF
-
-2. (a) A unilversity registrar’s office maintains data about the following — _ [10]
-entities: | (a) courses, including number, title, credits, syllabus, and
-prerequisites; (b) course offerings, including course number, year,
-semester section number, instructor(s), timings, and classroom; (c)
-students, |including student-id, name, and program; and (d) instructors,
-including] identification number, name, department, and title. Further, the
-enrollmes)t of students in courses and grades awarded to students in each
-course thy are enrolled for must be appropriately modeled.
-Construcij an E-R diagram for the registrar’s office. Convert it into Tables.
-
-(b) Wha| is importance of recovery ? Explain the log based recovery [10]
-scheme.
-
-3: (a) Explaija Extended Relational Algebra operations with STARR, [10]
-(b) Explai 1 normalization = different forms with example. [10]
-
-ip
---- page 2 ---
-peceageste areenet srr 4 ponte annem emneyosensie ier
-
-weer nm ROTTS oc casting rane tment omnes a analgesia
-eeu ee w4e...(a)..Consider the insurance database.of..... imeinniii GLO lachicsateieoesoin
-person (driver-id#, name, address) Sas
-es "car (license, model, year) “aaah a a SE a
-acciderit (report-number, oe) loeatie ‘
-errr owns (‘lriver-id#, license)~ ie > —eaerseenecenmmalaimine
-particiy)ated (driver-id, car, report Heer damage-amount)
-where ‘he-primary-keys-are-underlined- coupes ‘
-Constriict the following SQL queries for this relational database.
-a. Find the total number of people who owned cars thai were involved in
-accider|ts in 1989.
-b, Find the number of accidents in which the cars beloriging to “John
-Smith” were involved.
-c. Add 1 new accident to the database; assume any valtes for required
-attributes.
-d. Dele'e the Mazda belonging to “John Smith”.
-e. Update the damage amount for the car with license number
-“AABE 2000” in the accident with report number “AR2197” to $3000.
-(b) What are Assertions ? Explain with example, [10]
-ay (a) Suppose that we decompose the schema R = (A,B, C,-D, E). into [10]
-(A, B,C) . A, D, E), Show that this decomposition is @ tossless-join
-‘decomposition if the following setF of fhnwtional deypendgholes holds:
-A> BC,CD-E,B>D,E>A
-(b) Explain the deadlocks and its recovery in DBMS.’ [10]
-6. (a) Expl iin Extended E-R Features with example. [10]
-(b) Wha is transaction ? Explain it’s states diagram. [10]
-tf: (a) Desi: a database (ER Diagram and Tables) for Library Management :
-System [10]
-(b) Whet is a recoverable schedule? Why is recoverabiiity of schedules
-desirable? Are there any circumstances under whieh it wvould be desirable [10]
-
-to allow non-recoverable schedules? Explain your answer.
-
-Ve.
-````
-
-## 2010-11 · Re-Exam · Trim 3 · paper f06fc11f8913
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-———
-
-Programme:
-
-Batch:
-Subject:
-
-Date:
-
-SVKM’s NMIMS ==
-Mukesh Patel School of Technology Management & Engineering
-MCA Year: I Trimester: Il
-Academic Year : 2011-2012
-2010-11
-Database Management System Marks: 100
-Time: 10.00 am To 1.00 pm
-27/06/2012 Duration: 3 hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use.
-
-NB:
-
-1. Question No: one is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started ona fresh page.
-
-6. Figures in brackets indicate full marks.
-
-7. Assume suitable data wherever necessary.
-Q.1. a) Explain advantages of DBMS over file processing . (10)
-
-b) What is normalization? Why it is required? Explain its different forms. (10)
-
-Q.2. a) Explain concurrency control in database system with the help of any two protocols. (10)
-
-b) Explain authorization and views to provide security for a database. (10)
-Q.3. a) Draw the Typical database architecture and explain in detail. (10)
-b) Explain serializability with its type. , (10)
-Q.4.a) What is transaction?Explain ACID properties of transaction. (10)
-b) Explain deadlock management techniques in database. (10)
-Q.5. a) Explain different types of recovery system. (10)
-b)Explain SQL features. (10)
-
-Ya
-
-|
---- page 2 ---
-MW
-
-Q.6. a) Explain Transaction state . « ....... with diagram.
-
-b) Define the concept of referential integrity with example.
-
-Q.7.Write short notes on: (Any two)
-a) Shadow paging.
-b) B+ tree index files.
-
-c) Triggers and Assertions in SQL
-
-(10)
-(10)
-
-(20)
-````
-
-## 2010-11 · Re-Exam · Trim 3 · paper 20b9e457db65
+## 2011-12 · Re-Exam · Trim 3 · paper 20b9e457db65
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -21651,6 +22333,249 @@ c. Two phase locking protocol
 
 d. Armstrong’s inference rules
 } e. Shadow paging
+````
+
+## 2010-11 · Exam not stated · Trim 4 · paper 62c1be16ad27
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/DATABASE MANAGMENT SYSTEMS/database management system 2010-2011.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 77.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: M\BA(Tech)-I.T. Year: Il Trimester: IV
+Académie Year : 2010-2011
+
+‘eta Batch: 20/10-2011--— Pin
+
+Subject: DATABASE MANAGEMENT Marks: 100 ter? a
+hen SYSTEM ee eA AN TE 2.00pm To 5.00pm = Mere 7
+
+Date: 26\/10/2010 Duration: 3 hrs. so
+« be Final - Examination
+
+NB. (1) Que! tion No. Lis compulsory.
+(2) Out |f remaining questions, attempt any four questions.
+(3) In all five questions to be attempted.
+(4) All question carry equal marks.
+(5) Answer to each new question to be started on a fresh page.
+
+1 (a) List \our significant differences between a file-processing system and a
+DBMS. [4x5] |
+(b) Expliiin the difference between a weak and a strong entity set.
+(c) What is the purpose of having separate categories for index
+authorizé tion and resource authorization?
+(d) Expllain why 4NF is a normal form more desirable than BCNF
+
+2. (a) A unilversity registrar’s office maintains data about the following — _ [10]
+entities: | (a) courses, including number, title, credits, syllabus, and
+prerequisites; (b) course offerings, including course number, year,
+semester section number, instructor(s), timings, and classroom; (c)
+students, |including student-id, name, and program; and (d) instructors,
+including] identification number, name, department, and title. Further, the
+enrollmes)t of students in courses and grades awarded to students in each
+course thy are enrolled for must be appropriately modeled.
+Construcij an E-R diagram for the registrar’s office. Convert it into Tables.
+
+(b) Wha| is importance of recovery ? Explain the log based recovery [10]
+scheme.
+
+3: (a) Explaija Extended Relational Algebra operations with STARR, [10]
+(b) Explai 1 normalization = different forms with example. [10]
+
+ip
+--- page 2 ---
+
+eeu ee w4e...(a)..Consider the insurance database.of..... imeinniii GLO lachicsateieoesoin
+person (driver-id#, name, address) Sas
+es "car (license, model, year) “aaah a a SE a
+acciderit (report-number, oe) loeatie ‘
+errr owns (‘lriver-id#, license)~ ie > —eaerseenecenmmalaimine
+particiy)ated (driver-id, car, report Heer damage-amount)
+where ‘he-primary-keys-are-underlined- coupes ‘
+Constriict the following SQL queries for this relational database.
+a. Find the total number of people who owned cars thai were involved in
+accider|ts in 1989.
+b, Find the number of accidents in which the cars beloriging to “John
+Smith” were involved.
+c. Add 1 new accident to the database; assume any valtes for required
+attributes.
+d. Dele'e the Mazda belonging to “John Smith”.
+e. Update the damage amount for the car with license number
+“AABE 2000” in the accident with report number “AR2197” to $3000.
+(b) What are Assertions ? Explain with example, [10]
+ay (a) Suppose that we decompose the schema R = (A,B, C,-D, E). into [10]
+(A, B,C) . A, D, E), Show that this decomposition is @ tossless-join
+‘decomposition if the following setF of fhnwtional deypendgholes holds:
+A> BC,CD-E,B>D,E>A
+(b) Explain the deadlocks and its recovery in DBMS.’ [10]
+6. (a) Expl iin Extended E-R Features with example. [10]
+(b) Wha is transaction ? Explain it’s states diagram. [10]
+tf: (a) Desi: a database (ER Diagram and Tables) for Library Management :
+System [10]
+(b) Whet is a recoverable schedule? Why is recoverabiiity of schedules
+desirable? Are there any circumstances under whieh it wvould be desirable [10]
+
+to allow non-recoverable schedules? Explain your answer.
+
+Ve.
+````
+
+## 2010-11 · Exam not stated · Trim 3 · paper 170f3373aea3
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/DATABASE MANAGEMENT SYSTEMS/DATA BASE MANAGEMENT SYSTEM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2011
+- Text: ocr (2 pages), mean OCR confidence 93.6
+
+````text
+NMI* in versity ) o
+
+SVKM’s NMIMS fe( mumbo: = 50, 9
+1 Ma
+Mukesh Patel School of Technology Management g i jg
+
+Programme: MCA Year: I Trimester: \
+Academic Year : 2010-2011
+
+Subject: Data Base Management System Marks: 100
+Time: 10.00 am To 1.00 pm
+Date: 12/05/2011 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: candidate should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question no. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all 5 questions to be attempted.
+
+4. Answer to each question to be started on the fresh page.
+
+5. All questions carry equal marks.
+
+6. Figure in brackets on the right hand side indicates full marks.
+
+Ql. a) Consider the following database system for a Book Club. The data [10]
+requirements are summarized as follows:
+
+The Book Club has members to whom the books are sold. The books are
+made available at different places in the city- called Book Club Chapter.
+The books are identified by book ID, author name and publisher for the
+book. An author can write more than one book and a book can have more
+than one authors. Members have information such as membership ID, name,
+phone _no, and status. A member can place more than one order.
+
+Choose if required additional attributes for the schema. Mention any
+assumptions if you make. Show Cardinality Ratios For Every Relationship.
+
+Design an Entity-Relationship diagram for the Book Club.
+
+b) What is a transaction? What are ACID properties of Transaction? Explain [10]
+with example of fund transfer. :
+
+Q2. a) branch (branch_name, branch _city, assets) [10]
+customer (customer_name, customer_street, customer_city)
+account (account_number, branch_name, balance)
+loan (loan_number, branch_name, amount)
+depositor (customer_name, account_number)
+borrower (customer_name, loan_number)
+Consider the database schema and write SQL queries for following
+questions.
+1. To find all loan number for loans made at the ‘Vile parle’ branch with
+loan amounts greater than rs.12000
+
+Yo.
+--- page 2 ---
+Q3.
+
+Q4.
+
+QS.
+
+Q6.
+
+Q7
+
+b)
+
+a)
+
+a)
+b)
+
+a)
+
+b)
+
+a)
+b)
+
+2. Find the name, loan number and loan amount of all customers having a
+loan at the ‘Vile parle’ branch.
+
+3. List in alphabetic order the names of all customers having a loan in ‘Vile
+parle’ branch
+
+4. Find all customers who have both a loan and an account.
+
+5. Find the average account balance at the ‘Vile parle’ branch.
+
+What are Temporal databases? Discuss in detail database structure of
+Temporal databases.
+
+Explain serializability with example. How it can be tested?
+What is view? How it is defined in SQL? Explain with example.
+
+Explain Triggers and assertion with example.
+What is normalization? Explain the difference between 3 NF and BCNF
+with example.
+
+Write in short about the following storage structures.
+1. Magnetic Disks
+
+2. Data Dictionary Storage
+
+Explain a lock-based protocol for concurrency control.
+
+What is deadlock? How it can be detected?
+Explain in detail log based recovery technique.
+
+Write short note on any four of the following.
+1. Relational Algebra operations
+
+2. Hashing
+
+3. Indexing
+
+4. DBA
+
+5. Referential integrity
+
+[10]
+[10]
+[10]
+[10]
+[10]
+
+[10]
+
+[10]
+
+[10]
+[10]
+
+[20]
 ````
 
 ## 2010-11 · Re-Exam · Trim 3 · paper 61e53c23dd12
@@ -22105,6 +23030,7 @@ precautions to avoid them. (06 marks)
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/DATABASE MANAGEMENT SYSTEMS/2008-2009 I.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 91.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Ql
@@ -22118,7 +23044,6 @@ Mukesh Patel School of Technology Management & Engineering
 MCA I Yr ‘F
 Trimester 11, 2008-2009 A
 Subject: DBMS M ; Fi § ka
-Dale: 24-01)-08 Odlaloaae Managemen’ »qok™
 Marks: 100 Time: 3 hrs.
 
 Q-00-5-00
@@ -22526,6 +23451,7 @@ e Levels of Abstraction
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/DATABASE MANAGMENT SYSTEMS/2006-2007(27).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 94.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NARSEE MONJEE INSTITUTE OF MANAGEMENT &
@@ -22561,7 +23487,6 @@ Q3. a) Consider the following Schema
 Employee(Eid, Fname, Lname, email, pho, doj, jobid, sal, manager_id, Did)
 Dept(Did,Dname,Manager-id,Location_id)
 
-Jobs(Jobid, jobtitle,minsal,maxsal)
 Locations(location_id,street_add,city,pin,country,)
 
 Note: the primary keys are bold.
@@ -22681,945 +23606,4 @@ b) Explain storage types in details. 04
 c) Design relational model for bank database. 06
 
 d) Explain generalization & aggregation in details. 06
-````
-
-## Year not stated · Exam not stated · paper fdf020b81988
-
-- Departments: AI and Data Science, AI and Machine Learning, Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE & DATA SCIENCE, B TECH / ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE & DATA SCIENCE/DATABASE MANAGEMENT SYSTEMS/Database Management Systems, All Stream & Artificial Intelligence, 2nd Year, Sem-_03314c0d.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 November 2022
-- Text: ocr (5 pages), mean OCR confidence 89.6
-
-````text
-\
-
-SVKM’s NMIMS <a K
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /~
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2022-23
-
-Programme: B.Tech / MBA Tech (All Stream) / Year: I/l Semester: III/V
-B. Tech (Artificial Intelligence)
-
-Subject: Database Management Systems |
-Marks: 100
-Date: 28 November 2022 - Time: 10.00 am - 1.00 pm
-Durations: 3 (Hrs) |
-No. of Pages: _05
-Final Examination
-
-qaptrections: Candidates should read carefully the instructions printed on the question paper and on the cover
-.. the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-
-a. | Explain the terms primary key, candidate key, and foreign key. Give an [5]
-
-CO -2; BL- 2 example for each.
-
-b. | Why is the use of a database management system recommended? Justify by [5]
-&O-1; BL-2 38 ; : on
-i listing some of its major advantages and applications
-
-c. | Functional dependencies for relation schema R = (X, Y, Z, U, V) are given [5]
-below:
-CO-3; BL-3 X > YZ,ZUDV,Y> U,V> X
-Find the closure of attributes X*, ZU*, Y*, V* and also identify prime and
-non-prime attributes.
-
-CO-4; BL-2 | 4. | Discuss transaction and its properties. (5]
-— |@ [20]
-° a. | Suppose the following requirements for a simple database for the National
-oe Hockey League (NHL) are given: The NHL has many teams, each team has a
-CO-1: BL-S name, a city, a coach, a captain, and a set of players, each player belongs to [10]
-
-only ‘one team, each player has a name, a position (such as left wing or
-goalie), a skill level, and a set of injury records, a team captain is also a
-player, a game is played between two teams (referred to as host_team and
-
-Ys
---- page 2 ---
-guest_team) and has a date (such as May 11th, 1999) and a score (e.g. 4).
-
-i. Design an Entity Relation for above problem statement.
-
-ii. Map the ER diagram into relational schema indicating primary keys and
-foreign keys.
-
-b. | What is the use of normalization? Define 3NF with example. Given set of
-functional ‘dependencies ofa relation R(ABCDE) are as follows:
-AB>C,B>D,DSE
-
--3: BL- [10
-a, Bt Identify the candidate keys HO]
-ii. Identify the current Normal form of the Relation
-iii. Decompose the relation and normalize it to 3NF-
-a [20]
-
-a. | 1. Explain specialization and generalization with examples.
-ii. What do you mean by integrity constraints? Explain the two constraints, 10).
-CO; ala check constraints and referential integrity constraint constraints in SQL with
-
-an example for each.
-
-b. | Consider the set of relations and write the SQL queries:
-
-EMP (Emp_no, Dept_no, Emp_name, Job, Salary, Address)
-
-DEPT (Dept_no, Dept_name, Location)
-
-Formulate the SQL queries for the following
-
-i. To display all the information of employees including their department. [2]
-CO-1; BL-4 ii. Find the name of the employees whose job profile location is the same as [10]
-
-their address. [2]
-
-iii. Find the details of the employee who is taking the second highest salary
-
-using subqueries/nested queries. [3]
-
-iv. Find the employee name and salary whose salary is greater than average
-
-salary of the employee. [3]
-
-Q4 [20]
-
-a. | Why is a weak entity set called weak? How is the weak entity set represented
-CO-2; BL-3 in the ER model? Give an example. Justify whether there will always be total | [10]
-; participation for the weak entity set. , ,
-
-b. | i. Discuss BCNF normal form in relational database design with an example.
-CO-3; BL-3 ii. Given the following relation R and the set of functional dependencies F [10]
-that hold on R, find all candidate keys for R.
-
-2/5
---- page 3 ---
-RG, Y, Z, U,V, W)
-F = {XY > Z, XZ > Y, XU> V, YZ > X, V> W}
-
-05 [20]
-
-a. | What is view serializability and conflict serializability? Check whether the
-
-schedules given below is conflict serializable or not? Provide justification
-
-CO-4: BLA | | 5 Rovay; W2(A); R3(C); W2B); W3(A); WIE); RIA RIB) way, |"!
-W1(B)
-b. | Consider the relations given below.
-Actor (actorId, name, nationality, age)
-Director (directorld, name, nationality)
-Film (filmld, title, year, directorId*)
-
-PerformsiIn _—(actorId*, filmId*, character)
-Write the relational algebra expression for the following
-a ee i. Retrieve details of all actors above the age of 45. ml
-ii. Retrieve all distinct film titles.
-iii. _ Retrieve all distinct titles of films that were released before 2000.
-iv.- Retrieve the details of all films released in 2012 and directed by a non-
-
-American director, along with the details of the corresponding
-
-director.
-~ v. Retrieve all distinct titles of films directed by a British director
-Q6 [20]
-a. | Consider a database with the following schema:
-
-[Person ( name, age, gender ) Iname is a key
-
-|Frequents ( name, pizzeria ) name, pizzeria) is a key
-
-|Eats (name, pizza ) name, pizza) is a key
-
-Serves ( pizzeria, pizza, price) —_‘|(pizzeria, pizza) is a key
-
-CO-3; BL-4 [10]
-
-Eats contains information about what type of pizza each person (customer)
-eats (dikes)
-
-¢ Name is always the customer’s name
-
-* Frequents record information about pizzerias that each customer frequents
-(visits)
-
-Ys
---- page 4 ---
-* Serves contains information about all possible pizza types for each pizzeria
-pizzeria is a restaurant focusing on pizza
-
-Write relational algebraic expression for the following
-
-i. Find all pizzerias frequented by at least one person under the age of 18 [2]
-ii. List the name of the persons who eats tomato pizza [2]
-iii. Find the names of all females who eat both mushroom and pepperoni
-pizza. 13]
-
-iv. Find all pizza types which are not eaten by anyone. [3]
-
-b. | Differentiate between the characteristics of NoSQL and relational database
-CO-4; BL-3 [10]
-management system.
-
-Qi [20]
-
-a. | i. Justify the statement “Decomposition of relation in normalization reduces
-CO-3; BL-3 the redundancy.” [10]
-
-ii. Discuss fully functional dependency with an example.
-
-b_ | i. Discuss the use of outer join and also explain different types of outer join.
-
-ii. The instance of the Salesman and order relation is given:
-
-Salesman
-salesman_id name city commission
-5001 James Hoog | New York 0.15
-5002 Nail Knite Paris 0.13
-CO-3; BL-3 5005 Pit Alex London 0.11 [10]
-5006 Mc Lyon Paris 0.14
-5007 Paul Adam | Rome 0.13
-5003 Lauson Hen | San Jose 0.12
-
-4 5
---- page 5 ---
-Order.
-
-ord_no | purch_amt | ord_date customer_id | salesman_id
-70001 | 150.5 2012-10-05 | 3005 5002
-70009 _| 270.65 2012-09-10 | 3001. 5005
-70002 | 65.26 2012-10-05 | 3002 5001
-70004 | 110.5 2012-08-17 | 3009 5003
-70007 | 948.5 2012-09-10 | 3005 5002
-70005 | 2400.6 2012-07-27 | 3007 5001
-70008 | 5760 2012-09-10 | 3002 5001
-70010 | 1983.43 2012-10-10 | 3004 5006
-70003 | 2480.4 2012-10-10 | 3009 5003
-70012 | 250.45 2012-06-27 | 3008 5002
-70011 | 75.29 2012-08-17 | 3003 5007
-
-lon 70013 | 3045.6 2012-04-25 | 3002 5001
-
-Formulate the SQL queries for the following
-i. Find the details of those salespeople who come from the 'Paris' City or
-‘Rome' City.
-ii. Find the details of those salespeople who live in cities other than Paris
-and Rome.
-iii. | Select orders between 500 and 4000 (begin and end values are
-included) Exclude orders amount 948.50 and 1983.43.
-x:
-OQ
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 2dccb82996a1
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/DATABASE MANAGMENT SYSTEMS/scan0012(5).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-Programme: MBA(Tech)-(I.T.) Year: Il Trimester: IV
-
-Subject:
-
-Date:
-
-a
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-Academic Year : 2012-2013
-
-¢
-<7
-DATABASE MANAGEMENT SYSTEM Marks: 100 a tog
-fs MS Un versicy 4
-Time: 2.00pm soon 26,
-27/10/2012 Duration: 3 hr a LiBaary
-Final - Examination To
-<o,~ y
-Cp vv 6
-MANAGEN®
-
-Instructions: Candidates should read carefully the instructions printed on the q
-paper and on the cover of the Answer book, which is provided for their use.
-
-NB:
-(1)Question No.1 is compulsory.
-(2)Out of remaining question answer any 4 main questions.
-(3) All main questions carry equal marks.
-(4)Answer to each new question to be started on a fresh page.
-
-1. (a) Why would you choose database system instead of simply storing data in operating
-system? When it would make sense not to use DBMS system. (10)
-(b) Who are the end users? What are the DBA responsibilities? (10)
-
-2. (a)With proper assumptions, write E-R diagram for hospital management system.(10)
-(b) With a neat diagram explain architecture of DBMS. (10)
-
-3. (a)Consider the following relation schema
-
-Supplier(sid,sname,address)
-
-Parts(pid, pname,color)
-
-Catalog(sid,pid,cost)
-
-Write relational algebra for the following.
-i) Find the names of supplier who supplies some red part.
-ii) Find the sids of supplier who supply some red or green part.
-iii) Find the sids of supplier who supplies some red part or are at 221 packer street.
-iv) Find the sids of supplier who supplies every part.
-
-v) Find the sids of supplier who supply every red or green part. (10)
-(b) What is the difference between cross product and join operation on relations?
-Explain with example left and right outer join. (10)
-
-4. (a)How do you'enforce basic constraint in the SQL? What is view? Give example. (10)
-(b) Consider the following relation.
-Sailor(sid,sname,rating,age)
-Boat(bid, bname,color)
-Reserves(sid,bid,date)
-Write SQL statement for the following
-
-Vo
-
-+4
-
-yy
-
-4
---- page 2 ---
-i) Find all the sailors whose rating is above 7.
-
-ii) Find the names of sailors who have reserved boat number 103.
-
-iii) Find the names of sailors who have reserved a red boat.
-
-iv) Find the names of sailors who have reserved at least one boat.
-
-v) Find the ages of sailors whose name begins and ends with B and has at least
-
-three characters. (10)
-5. (a) Explain the difference between hash indexes and B+ tree indexes. (10)
-(b) How does ER schema is converted into relation schema? (10)
-
-6. (a) What is functional dependency? Explain first, second and third normal form with
-
-example. (10)
-(b) What is transaction? Explain the anomalies associated with the concurrent execution
-of transaction. (10)
-
-7. (a) What is embedded SQL? How do you embed SQL command select in C program? (10)
-(b) write short note on
-(i)trigger (ii) system log (10)
-
-enema mt % . eee
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper 170f3373aea3
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/DATABASE MANAGEMENT SYSTEMS/DATA BASE MANAGEMENT SYSTEM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2011
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-NMI* in versity ) o
-
-SVKM’s NMIMS fe( mumbo: = 50, 9
-1 Ma
-Mukesh Patel School of Technology Management g i jg
-
-Programme: MCA Year: I Trimester: \
-Academic Year : 2010-2011
-
-Subject: Data Base Management System Marks: 100
-Time: 10.00 am To 1.00 pm
-Date: 12/05/2011 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: candidate should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question no. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all 5 questions to be attempted.
-
-4. Answer to each question to be started on the fresh page.
-
-5. All questions carry equal marks.
-
-6. Figure in brackets on the right hand side indicates full marks.
-
-Ql. a) Consider the following database system for a Book Club. The data [10]
-requirements are summarized as follows:
-
-The Book Club has members to whom the books are sold. The books are
-made available at different places in the city- called Book Club Chapter.
-The books are identified by book ID, author name and publisher for the
-book. An author can write more than one book and a book can have more
-than one authors. Members have information such as membership ID, name,
-phone _no, and status. A member can place more than one order.
-
-Choose if required additional attributes for the schema. Mention any
-assumptions if you make. Show Cardinality Ratios For Every Relationship.
-
-Design an Entity-Relationship diagram for the Book Club.
-
-b) What is a transaction? What are ACID properties of Transaction? Explain [10]
-with example of fund transfer. :
-
-Q2. a) branch (branch_name, branch _city, assets) [10]
-customer (customer_name, customer_street, customer_city)
-account (account_number, branch_name, balance)
-loan (loan_number, branch_name, amount)
-depositor (customer_name, account_number)
-borrower (customer_name, loan_number)
-Consider the database schema and write SQL queries for following
-questions.
-1. To find all loan number for loans made at the ‘Vile parle’ branch with
-loan amounts greater than rs.12000
-
-Yo.
---- page 2 ---
-Q3.
-
-Q4.
-
-QS.
-
-Q6.
-
-Q7
-
-b)
-
-a)
-
-a)
-b)
-
-a)
-
-b)
-
-a)
-b)
-
-2. Find the name, loan number and loan amount of all customers having a
-loan at the ‘Vile parle’ branch.
-
-3. List in alphabetic order the names of all customers having a loan in ‘Vile
-parle’ branch
-
-4. Find all customers who have both a loan and an account.
-
-5. Find the average account balance at the ‘Vile parle’ branch.
-
-What are Temporal databases? Discuss in detail database structure of
-Temporal databases.
-
-Explain serializability with example. How it can be tested?
-What is view? How it is defined in SQL? Explain with example.
-
-Explain Triggers and assertion with example.
-What is normalization? Explain the difference between 3 NF and BCNF
-with example.
-
-Write in short about the following storage structures.
-1. Magnetic Disks
-
-2. Data Dictionary Storage
-
-Explain a lock-based protocol for concurrency control.
-
-What is deadlock? How it can be detected?
-Explain in detail log based recovery technique.
-
-Write short note on any four of the following.
-1. Relational Algebra operations
-
-2. Hashing
-
-3. Indexing
-
-4. DBA
-
-5. Referential integrity
-
-[10]
-[10]
-[10]
-[10]
-[10]
-
-[10]
-
-[10]
-
-[10]
-[10]
-
-[20]
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 5a5d0ef2ada1
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM (COMPUTER), FINAL EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 25 November 2017
-- Text: ocr (3 pages), mean OCR confidence 91.8
-
-````text
-SVEM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) Year: II Semester: [II _
-e -
-
-j Academic Year: 2017-2018 7 .aNt#7 sr ON
-Subject: Database Management System — if d
-
-Date: 25 November 2017 ~ Time: 1 )
-
-No. of Page
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted. :
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-I. (a) | Why would you choose a database system instead of simply storing data in (7)
-operating system files? When would it make sense not to use a database system?
-
-(b) Explain the difference between external, internal, and conceptual schemas. How (7)
-
-are these different schema layers related to the concepts of logical and physical
-data independence?
-
-2. (a) Sony Records has decided to store information about musicians who perform on (7)
-
-its albums (as well as other company data) in a database. The company has wisely
-
-chosen to hire you as a database designer (at your usual consulting fee of
-$2500/day).
-
-Each musician that records at Sony has an SSN, a name, an address, and
-a phone number. Poorly paid musicians often share the same address, and
-no address has more than one phone.
-
-Each instrument used in songs recorded at Sony has a unique
-identification number, a name (e.g., guitar, synthesizer, flute) and a
-musical key (e.g., C, B-flat, E-flat).
-
-Each album recorded on the Sony label has a unique identification
-number, a title, a copyright date, a format (e.g., CD or MC), and an album
-
-identifier.
-sal + i 3 "
-° Each song recorded at Sony has a title and an author.
-e Each musician may play several instruments, and a given instrument may
-pees be played by several musicians.
-°
-
-Each album has a number of songs on it, but no song may appear on more
-than one album. Each song is performed by one or more musicians, and
---- page 2 ---
-4.
-
-(b)
-
-(a)
-
-(6)
-
-(a)
-
-(b)
-
-a musician may perform a number of songs. Each album has exactly one
-musician who acts as its producer. A musician may produce several
-albums, of course.
-
-As details explained above based on that :
-
-Draw an ER diagram for your schema. The preceding information describes
-the situation that the Sony database must model. Be sure to indicate all key
-and cardinality constraints and any assumptions you make. Identify any
-constraints you are unable to capture in the ER diagram and briefly explain
-why you could not express them.
-
-What are the responsibilities of a DBA? If we assume that the DBA is never
-interested in running his or her own queries, does the DBA still need to
-understand query optimization? Why?
-
-Consider the following schema:
-
-Suppliers(sid: integer, sname: string, address: string)
-Parts(pid: integer, pname: string, color: string)
-Catalog(sid: integer, pid: integer, cost: real)
-
-The key fields are underlined, and the domain of each field is listed after the field
-name. Therefore sid is the key for Suppliers, pid is the key for Parts, and sid and
-pid together form the key for Catalog. The Catalog relation lists the prices
-
-charged for parts by Suppliers. Write the following queries in relational algebra
-and SQL
-
-1. Find the names of suppliers who supply some red part.
-2. Find the sids of suppliers who supply some red or green part.
-3. Find the sids of suppliers who supply some red part or are at 221 Packer Street.
-
-Discuss the strengths and weaknesses of the trigger mechanism. Contrast triggers
-with other integrity constraints supported by SQL.
-
-Suppose you are given a relation R with four attributes ABCD. For each of the
-following sets of FDs, assuming those are the only dependencies that hold for R,
-do the following: (a) Identify the candidate key(s) for R. (b) Identi! y the best
-normal form that R satisfies (INF, 2NF, 3NF, or BCNF). (c) If R is not in BCNF,
-decompose it into a set of BCNF relations that preserve the dependencies.
-L.¢C—+D,Cc+A, BC
-2.B—-C,D-A
-
-Explain in details about deadlock and deadlock prevention.
-
-(7)
-
-(7)
-
-7)
-
-(7)
-
-(7)
-
-fs
---- page 3 ---
-5 (a) Explain lock based concurrency control Protocol, glso explain strict two phase protocol and (7)
-
-rigorous two phase protocol.
-
-5 (6) Explain sparse and dense index with example. (7)
-
-6. (a) Explain in details about ACID properties of transaction in database management (7)
-system with proper examples.
-(b) | How does the recovery manager ensure atomicity of transactions? How does it (7)
-ensure durability? What is the difference between a systém crash and a media
-failure?
-
-7. Write short note on (any two) (14)
-(i) Constraints.
-
-(ii) Static Hashing
-(iif). +BCNF Normalization.
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper c2d733cf6efc
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATABASE MANAGEMENT SYSTEMS/DATABASE MANAGEMENT SYSTEM B TECH (COMPUTER), FINAL EXAM.pdf`
-- Printed on paper: exam date: 25 November 2016
-- Text: ocr (3 pages), mean OCR confidence 92.0
-
-````text
-, SVKM’s NMIMS :
-| MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING . f
-
-Programme: B. Tech (COMPUTER) Year: II Semester: III
-
-Academic Year: 2016-2017
-
-Marks yo
-
-Date : 25 November 2016 Time: Hy
-
-Subject : Database Management System
-
-LIBRARY
-O am to 1.0
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Q.1A Define below terms: ; [07]
-
-1. Primary key
-
-2. On Update cascade
-
-3. Seek time for magnetic disk
-
-4. Rotational latency time for magnetic disk
-5. Data dictionary
-
-6. Cartesian product
-
-7. Natural Join
-
-Q.1B Define schema and instance of database and explain three schema architecture of [07]
-database.
-
-Q.2A Draw an entity relationship diagram (ERD) for a sales transaction database that [07]
-
-1/3
---- page 2 ---
-satisfies the following requirements:
-
-1. Products, identified by product_ID, are not individuated and thus can be sold
-through many sales transactions, identified by sales_no. For each product sold in a
-sales transaction, the quantity must be recorded.
-
-2. For each product, a product_name and the quantity_on_hand must be recorded. For
-each sales transaction, the date must be recorded.
-
-3. Each sales transaction is processed by an employee.
-
-4. Employee_ID (PK) and employee_name must be recorded in the database. Each
-employee is supervised by one of the employees. Thus, his/her supervisor information
-must be recorded.
-
-5. The database also includes employees' dependents (described by their names and
-relationships, together with dependent_no). Assume that an employee dependent is
-dependent on only one employee.
-
-6. There are two types of sales transaction: member sales and non-member sales. In
-case of each member sales transaction, the member who placed the sales must be
-explicitly captured.
-
-7. We will keep minimal data on members, which are member ID (PK) and
-member_name.
-
-Note: Member entity is only related to the MemberSales entity.
-.2B Explain concept of generalization and specialization along with constraints on it. 07
-Pp P' Pp
-
-Q.3.A Solve below queries using tables given below: [10]
-Student(StdNo, StdFirstName, StdLastName,StdCity,Stdstate,StdZip, StdGPA)
-Faculty(FacNo, FacFirstName, FacLastName, FacCity, FacState, FacDept,
-FacDesignation, FacSalary)
-
-Offering(OfferNo, CourseNo, Offferm, OffYear, FacNo)
-Course(CourseNo, CourseDescription, CourseCredits)
-
-Solve below queries using relational algebra [4 marks]
-
-1. Find out faculty number and faculty first name of faculties who conduct course
-with course number 101 offered in term ‘FALL’.
-
-2. Find out course number and course description having credits more than 3.
-
-Solve below queries using SQL [6 marks]
-
-1. List the course containing the string ‘DATA’ in the course description.
-
-2. List the offer number, course number and faculty number of courses which
-have offering term as ‘FALL’ and offering year as ‘2012’ or offering term as
-‘WINTER’ and offering year as ‘2013’.
-
-3. Count total number of students for each grade point.
-
-Q.3B Consider below table Employee table structure. [04]
-
-2 /s
---- page 3 ---
-Employee(empno number(4), ename varchar2(10), job varchar2(9), mgr number(4),
-hiredate date, salary number(7,2), commission number(7,2), deptno number(2))
-
-Create read only view on Employee table that will include empno, ename, job and
-deptno columns.
-
-Give user ‘Anthony’ permission to access above created view and also to grant
-permission further to any other user.
-
-Q.4A_ Explain first, second and third normal form in detail with appropriate example. [07]
-
-Q4B Explain functional dependency with its formal definition. Given relation R= [07]
-{A,B,C,G,H,I}, Set of FD is F= {A>B, ADC, CG9H,CG91B>H}. Find
-out closure of FD that is F*.
-
-Q.5A Explain slotted page structure: variable length record file organization. [07]
-Q.5B Construct B+ tree inserting below values. [07]
-
-1,4,7,10,17,21,31,25,19,20,28,42
-Consider number of pointers for each node as 4.
-
-Q.6A Explain concept of transaction with ACID properties. [07]
-Q.6B Explain two phase locking protocol and strict two phase locking protocol. [07]
-Q.7 Write short notes for (any two) [14]
-
-1. Deferred and immediate database modification
-2. Extendable hashing
-
-3. Deadlock prevention
-
-4. Stored functions and procedures
-
-5. Disadvantages of file systems
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper a73f4aee10f9
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM III/DATABASE MANAGEMENT SCIENCE/DATABASE_MANAGEMENT_SYSTEM_(DATA_SCIENCE)_FINAL_EXAM_.pdf`
-- Printed on paper: exam date: 12 November 2019
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-&
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Data Science) Year: II Semester: III
-
-Academic Year: 2019-20
-Subject: Database Management System
-
-ro
-“
-Date: 12 November 2019
-“
-No. of Pages:
-Final Examination (2019-20)
-ao
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-
-’ 3)Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Question. |
-
-a. Construct an ER diagram for hospital with a set of patients and doctors, associated with each patient a log of
-
-various tests and examination conducted. 10
-
-b. What is deadlock? How it is detected? Discuss different types of deadlock prevention schemes. 10
-Question 2
-
-a. Write SQL queries for the given database. 10
-
-Employee (eid, ename, street, city)
-
-Works (eid, city, salary)
-
-Company (cid, cname, city)
-
-i. Modify the database so that ‘john’ now lives in ‘Mumbai’
-
-ii. Give all the employees of ‘ABC Corporation’ a 10% raise
-
-iii. List all the employees who live in same city as their managers
-
-iv. Find all the employees who earn more than average salary of all the employees of their company.
-
-b. Explain time stamp ordering protocol. 10
-Question 3
-a. Explain following relational algebra operations with examples. 10
-i. Set intersection
-ii. Generalized Projection
-
-fe
---- page 2 ---
-&
-
-iii. Rename
-
-iv. Natural Join
-b. What would the occupancy of each leaf node of a B*-tree be, if index entries are inserted in sorted order?
-Explain Why?
-Question 4 ,
-
-a. Explain log based recovery.
-b. Indices speed query processing, but it is usually a bad idea to create indices on every attribute, and every
-
-combination of attributes, that is a potential search keys. Explain why.
-Question 5
-a. Draw and explain the DBMS architecture.
-b. Explain Triggers and assertion in SQL.
-Question 6
-
-a. What is Schedule? And what is Serializability?
-b. What is Normalization? Explain INF, 2NF, 3NF and BCNF giving examples.
-
-2[o
-
-10
-
-10
-
-10
-
-10
-10
-
-10
-10
 ````

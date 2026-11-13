@@ -4425,6 +4425,291 @@ SO-1;
 BL-4
 ````
 
+## 2023-24 · Re-Exam · Sem 3 · paper dffa8996cb49
+
+- Departments: Civil, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2022-23 Re Exam.pdf` (+4 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 87.3
+
+````text
+SVKM’S NMIMS j
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT oo
+Academic Year: 2023-2024
+Programs: B. Tech, B. Tech Integrated »MBATEech
+Stream: Mechanical, Mechatronics cpl
+Subject: Engineering Mechanics
+
+Marks: 100
+Date: 15]02}2024
+
+Re-Exam (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page..
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO-1; a. State and explain Varignon’s theorem. [4]
+SO-1;
+BL-1
+CO-2; b. State and Explain Lami’s theorem. [4]
+SO-1; :
+BL-1 .
+
+~ CO-2 c. Identify the location of centroid of the shaded area. [4]
+SO-1; 7
+
+A
+BL-2 a
+120 ——>}
+
+40
+
+| é
+aH “too
+=a sgt 50 _
+
+Dimensions in millimeters
+
+1of4
+--- page 2 ---
+CO-2;
+SO-1;
+BL-2
+CO-4;
+SO-1;
+BL-1
+Q2
+CO-2;
+SO-2;
+BL-3
+
+CO-2;
+SO-1;
+BL-3
+
+Q3
+CO-3;
+SO-2;
+BL-3
+
+CO-2;
+SO-2;
+BL-3
+
+Q4
+
+a.
+
+b.
+
+Identify the assumption, for the perfect truss.
+
+State D’ Alembert’s Principle.
+
+Determine the minimum value of W1 = 30N
+the force P to just move the system. | W2=50N
+The two blocks are placed on rough STRING
+horizontal plane. Coefficient of |
+friction between the block A and
+
+30°
+A
+the plane is 0.3. That between B |
+and plane is 0.2. Also, find the v yv
+tension in the string. Ae We
+
+Determine the moment of inertia of
+the shaded area about the x-axis
+
+Dimensions
+in mm
+
+The position coordinate of a particle, which is confined to move alon& a
+straight line, is given by s = 2t3 + 24t + 6, where s is measured in meters from
+a convenient origin and t is in seconds.
+
+Determine (a) the time required for the particle to reach a velocity of 72 m/s
+from its initial condition at t = 0, (b) the acceleration of the particle when v =
+
+30 m/s, and (c) the net displacement of the particle during the interval from t
+=Istot=4s.
+
+Calculate support reactions at A and F. Support A is Fixed and B is roller.
+
+20KN
+IN‘
+5 SOKNim
+D | F
+a > <a
+A EB c i=
+
+fue rm 2m >| << 2m ——s
+re i T iam
+
+2 of 4
+
+[4]
+
+[4]
+
+[20]
+[10]
+
+[10]
+
+[20]
+[10]
+
+[10]
+
+[20]
+
+> |
+--- page 3 ---
+CO-2; a. SKN Analyze the forces in all the [10]
+
+SO-7; members of the truss shown
+BL-4 in figure.
+Given,
+AB = AC=CE=BC=2.5 m
+CO-4; b. Block X of weight 10 N is [10]
+SO-1; connected to block Y of weight 20 Y.
+BL-3 N by an extensible string.
+
+Determine the velocity of block X
+if it falls by 0.8 m starting from
+
+rest. Coefficient of friction is 0.2. _ xX
+Q5 [20]
+CO-4; a. Determine the number of revolutions, [10]
+SO-1; the 30 kg disc must make to attain on 0.2 3
+BL-3 angular velocity of 20 rad/s starting (
+
+from rest. \
+
+ve"
+_ F=10N
+@
+
+CO-3; b. Explain (i) Translational motion (ii) Pure rotation of rigid bodies [10]
+BL-2
+Q6 [20]
+CO-1; a. Determine the resultant of the forces [10]
+SO-1; acting on the bell crank lever as ; 310N
+BL-3 shown.
+
+A oO
+
+3 of 4
+--- page 4 ---
+CO-3;
+SO-7;
+BL-3
+
+Q7
+CO-2;
+SO-7;
+BL-3
+
+CO-1;
+SO-1;
+BL-3
+
+CO-3;
+SO-1;
+BL-1
+
+CO-4;
+
+SO-1;
+BL-1
+
+During a test a rocket travels upward Vg =0
+
+at 75 m/s, and when it is 40 m from
+the ground its engine fails.
+
+Determine the maximum height Sp
+reached by the rocket and its speed
+just before it hits the ground. While in
+motion the rocket is subjected to a
+constant downward acceleration of
+9.81 m/s? due to gravity. Neglect the
+effect of air resistance.
+
+Va = Poms f A
+
+fA
+
+Sq = 40m
+
+c
+
+¥
+
+Sp
+
+A roller of weight W = 1000 N rests on
+a smooth inclined plane. It is kept from
+rolling down the plane by string AC as
+shown in Figure.
+
+Determine the tension in the string and
+reaction at the point of contact D.
+
+Calculate the resultant of
+the force systems shown
+in Figure.
+
+300 N
+
+200 N
+y
+
+OG
+
+5
+
++
+
+2m 3m
+
+2m
+
+v
+200 N 300.N
+
+Define instantaneous velocity
+
+Define momentum and derive expression F = ma.
+
+4 of 4
+
+[10]
+
+[5]
+
+[5]
+
+[5]
+````
+
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper 57fa4d359268
 
 - Departments: Civil, Common (all branches)
@@ -4432,6 +4717,7 @@ BL-4
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS/Engineering Mechanics, Sem-II, Batch 2022-23 Final & Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (4 pages), mean OCR confidence 84.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -4479,7 +4765,6 @@ CO-2;
 SO-1; 20 KN 9 20 KN
 
 -_ Th Ae
-AY t + B : 60 D oe
 
 ag 3m alg _ ple — pig 2M 4]
 <¢ < >|
@@ -4932,291 +5217,6 @@ BL-4
 m/s. Determine the time and height at which the two balls will cross each other.
 ````
 
-## 2022-23 · Re-Exam · Sem 3 · paper dffa8996cb49
-
-- Departments: Civil, Mechanical, Mechatronics
-- Programmes: B TECH / CIVIL, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2022-23 Re Exam.pdf` (+4 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 87.3
-
-````text
-SVKM’S NMIMS j
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT oo
-Academic Year: 2023-2024
-Programs: B. Tech, B. Tech Integrated »MBATEech
-Stream: Mechanical, Mechatronics cpl
-Subject: Engineering Mechanics
-
-Marks: 100
-Date: 15]02}2024
-
-Re-Exam (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page..
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-CO-1; a. State and explain Varignon’s theorem. [4]
-SO-1;
-BL-1
-CO-2; b. State and Explain Lami’s theorem. [4]
-SO-1; :
-BL-1 .
-
-~ CO-2 c. Identify the location of centroid of the shaded area. [4]
-SO-1; 7
-
-A
-BL-2 a
-120 ——>}
-
-40
-
-| é
-aH “too
-=a sgt 50 _
-
-Dimensions in millimeters
-
-1of4
---- page 2 ---
-CO-2;
-SO-1;
-BL-2
-CO-4;
-SO-1;
-BL-1
-Q2
-CO-2;
-SO-2;
-BL-3
-
-CO-2;
-SO-1;
-BL-3
-
-Q3
-CO-3;
-SO-2;
-BL-3
-
-CO-2;
-SO-2;
-BL-3
-
-Q4
-
-a.
-
-b.
-
-Identify the assumption, for the perfect truss.
-
-State D’ Alembert’s Principle.
-
-Determine the minimum value of W1 = 30N
-the force P to just move the system. | W2=50N
-The two blocks are placed on rough STRING
-horizontal plane. Coefficient of |
-friction between the block A and
-
-30°
-A
-the plane is 0.3. That between B |
-and plane is 0.2. Also, find the v yv
-tension in the string. Ae We
-
-Determine the moment of inertia of
-the shaded area about the x-axis
-
-Dimensions
-in mm
-
-The position coordinate of a particle, which is confined to move alon& a
-straight line, is given by s = 2t3 + 24t + 6, where s is measured in meters from
-a convenient origin and t is in seconds.
-
-Determine (a) the time required for the particle to reach a velocity of 72 m/s
-from its initial condition at t = 0, (b) the acceleration of the particle when v =
-
-30 m/s, and (c) the net displacement of the particle during the interval from t
-=Istot=4s.
-
-Calculate support reactions at A and F. Support A is Fixed and B is roller.
-
-20KN
-IN‘
-5 SOKNim
-D | F
-a > <a
-A EB c i=
-
-fue rm 2m >| << 2m ——s
-re i T iam
-
-2 of 4
-
-[4]
-
-[4]
-
-[20]
-[10]
-
-[10]
-
-[20]
-[10]
-
-[10]
-
-[20]
-
-> |
---- page 3 ---
-CO-2; a. SKN Analyze the forces in all the [10]
-
-SO-7; members of the truss shown
-BL-4 in figure.
-Given,
-AB = AC=CE=BC=2.5 m
-CO-4; b. Block X of weight 10 N is [10]
-SO-1; connected to block Y of weight 20 Y.
-BL-3 N by an extensible string.
-
-Determine the velocity of block X
-if it falls by 0.8 m starting from
-
-rest. Coefficient of friction is 0.2. _ xX
-Q5 [20]
-CO-4; a. Determine the number of revolutions, [10]
-SO-1; the 30 kg disc must make to attain on 0.2 3
-BL-3 angular velocity of 20 rad/s starting (
-
-from rest. \
-
-ve"
-_ F=10N
-@
-
-CO-3; b. Explain (i) Translational motion (ii) Pure rotation of rigid bodies [10]
-BL-2
-Q6 [20]
-CO-1; a. Determine the resultant of the forces [10]
-SO-1; acting on the bell crank lever as ; 310N
-BL-3 shown.
-
-A oO
-
-3 of 4
---- page 4 ---
-CO-3;
-SO-7;
-BL-3
-
-Q7
-CO-2;
-SO-7;
-BL-3
-
-CO-1;
-SO-1;
-BL-3
-
-CO-3;
-SO-1;
-BL-1
-
-CO-4;
-
-SO-1;
-BL-1
-
-During a test a rocket travels upward Vg =0
-
-at 75 m/s, and when it is 40 m from
-the ground its engine fails.
-
-Determine the maximum height Sp
-reached by the rocket and its speed
-just before it hits the ground. While in
-motion the rocket is subjected to a
-constant downward acceleration of
-9.81 m/s? due to gravity. Neglect the
-effect of air resistance.
-
-Va = Poms f A
-
-fA
-
-Sq = 40m
-
-c
-
-¥
-
-Sp
-
-A roller of weight W = 1000 N rests on
-a smooth inclined plane. It is kept from
-rolling down the plane by string AC as
-shown in Figure.
-
-Determine the tension in the string and
-reaction at the point of contact D.
-
-Calculate the resultant of
-the force systems shown
-in Figure.
-
-300 N
-
-200 N
-y
-
-OG
-
-5
-
-+
-
-2m 3m
-
-2m
-
-v
-200 N 300.N
-
-Define instantaneous velocity
-
-Define momentum and derive expression F = ma.
-
-4 of 4
-
-[10]
-
-[5]
-
-[5]
-
-[5]
-````
-
 ## 2022-23 · Re-Exam · Sem 3 · paper 3ca1301b5299
 
 - Departments: Mechanical
@@ -5577,6 +5577,7 @@ acceleration when t = 3 sec.
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ENGINEERING MECHANICS/Engineering Mechanics, Sem-II, A.Y. 2021-22, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 18 May 2022
 - Text: ocr (4 pages), mean OCR confidence 87.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 : SVKM’s NMIMS
@@ -5717,7 +5718,6 @@ shown in figure.
 im]
 
 A uniform cylinder C of diameter
-0.6 m is pinned to a rod AB at A
 with other end B is moving along
 vertical wall, as shown in figure.
 If the end B of the rod is moving
@@ -6450,6 +6450,362 @@ cable. Take g = 10 m/s”.
 Wy my
 ````
 
+## 2018-19 · Re-Exam · Sem 3 · paper 88201713f88e
+
+- Departments: Civil, Mechanical
+- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2015-16 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 17 November 2018
+- Text: ocr (4 pages), mean OCR confidence 88.2
+
+````text
+SVKM’S NMIMS
+
+Program B.Tech Integrated (MECHANICAL/ CIVIL)
+Academic Year: 2018-2019
+
+Subject: Engineering Mechanics 7 Marks: 60
+
+Date: 17 November 2018 Time:2.00 pm to 5.00 pm -
+
+~
+Duration: 3 (hrs) =
+No. of Pages:__. 4
+
+: Re-examination (2015-16)
+
+" Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1) Attempt all questions. (12)
+a) Explain the terms: (1) Impact (2) co-efficient of restitution (03)
+b) Define Radius of Gyration, also write down expression and unit of the same (03)
+c) Write any four assumptions made in analysis of truss (03)
+d) Define and Explain Instantaneous center of Rotation (03)
+Q.2) a) Find the moment of Inertia about Centroidal Axis BY (06)
+for region of the given figure. All dimensions are i
+in mm. given that Xc = 32.95 mm and Yc = ae
+87.95mm. ' ik
+
+69
+
+4G
+
+va
+
+Vu -¢
+--- page 2 ---
+S
+
+b)
+
+Q.3) a)
+
+b)
+
+Find the Moment of Inertia about
+given X and Y axis for shaded
+region of the given figure
+
+Determine any 6 forces in
+the member of the truss
+shown in figure by Method
+
+>
+
+» Xx
+
+xk
+Y
+50 mm
+
+|
+\S
+
+|
+
+ne ¥
+l
+!
+*® > 50mm
+
+i
+
+20KN
+
+of Joints. Tabulate the
+results
+
+Determine forces in the
+member CE, CG and FG of
+the truss shown in figure by
+Method of Section.
+Tabulate the results
+
+1kN
+
+20 KN 30 KN
+
+30° 601 (60°
+
+G
+im
+
+Ie
+
+F
+im ple im ><
+
+>|
+
+(06)
+
+(06)
+
+(06)
+--- page 3 ---
+Q.4) a) Replace the forces Fl , F2 and F3 acting on the pipe bend by a force couple system at O. (08)
+
+F,= 100 KN
+>
+
+F, = 50 KN
+
+F3 =100 KN
+b) The force F=3i -4j-12k acts at a point A (1, -2, 3). Determine the moment of this force (06)
+around the origin O, and around a point B (2, I, 2).
+
+Q.5) a) Calculate the reactions at the support A and B of the beam loaded as shown in figure by (04)
+principle of virtual work
+
+x le oKn OKN
+
+vas |
+
+A poSeannace) s Rg
+i km ESN — Pam
+
+b) A train starts from rest on a curved path of radius 1000m. Its speed increases uniformly (04)
+and after 5 minutes it is 75km/hr. Find the tangential, normal and total accelerations after
+
+2 minutes.
+
+c) A rotor ofa turbine had an initial angular velocity at 1800 rpm. Accelerating uniformly it (04)
+doubled its velocity in 12 seconds. Find the revolution performed by it in this interval.
+Q.6) a) Figure shows a ladder AB = 6m resting ¥ (08)
+against a vertical wall at A and horizontal :
+ground at B. If the end B of the ladder is
+pulled towards right with a constant velocity
+Vp = 4m/s. Find : 4
+(i) Instantaneous centre of rotation of ladder.
+(ii) Angular velocity of the ladder at the 4,
+instant. dvs
+(iii) Velocity of point A. aN: ; _
+7
+
+— ¢
+--- page 4 ---
+b) The 100kg crate rests on a horizontal plane for which the coefficient of Kinetic friction is (06)
+
+0.3. If the crate is subjected to a SOON towing force at 30° to the horizontal, Determine the
+velocity of the crate in 5 second starting from rest. Take g = 10 m/s?
+
+Qa A body weighing 300N is pushed up a 30 plane by a 400N force acting parallel to the (04)
+plane. If the initial velocity of the body is 1.5m/s and coefficient of kinetic friction is 0.2,
+
+what velocity will the body have after moving 6m? Use work energy method. Take g=
+10 m/s?
+
+b): Two particles of masses 10 kg and 20 kg are moving along a straight line towards each (04)
+other at velocities of 4m/s and | m/s respectively. If e = 0.6, determine the velocities of
+the particles immediately after their collision and loss of K.E.
+
+c) A vertical lift of total mass 1500kg acquires an upward velocity of 6m/s over a distance (04)
+of 5m moving with constant acceleration starting from rest. Calculate the tension in the
+cable. Take g = 10 m/s?
+
+ula
+
+— ¢
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 85bd87b66a71
+
+- Departments: Civil, Mechanical
+- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2015-16 Re Exam_85bd87b66a.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 January 2019
+- Text: ocr (4 pages), mean OCR confidence 89.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+/ Program: B.Tech Integrated (Mechanical/ Civil) ~ Year: Il 7 Semester: III ~ 2
+Academic Year: 2018-2019 |
+“ Subject: Engineering Mechanics — Marks: 60 ~
+Time: 2.00 pm to.5.00 pm —
+Date : 15 January 2019
+- ay Durations:3 (hrs)
+
+No. of Pages:__OLf-
+Re-examination (2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which ‘is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q:1 Attempt any three. (12)
+a. Explain any four types of truss with neat sketch.
+b. Explain in brief parallel axis theorem.
+c. State principle of virtual work.
+d. What is line-of impact and central impact?
+Q:2 :
+a. Determine the moment of inertia about centroidal axes for T —section with following details: (6)
+Top flange = 1200 x 200 mm
+Web = 200 x 1000 mm.
+(6)
+
+b. A rectangular hole is made in the triangle as;
+shown, Determine moment of inertia about the |
+
+line AB. |
+
+y _ > 20 Lz
+
+A ea
+
+~ 600
+
+Er
+--- page 2 ---
+Q:3
+
+a. Find the forces in all the members of the truss shown in the figure by method of joints. (6)
+Tabulate the result.
+
+2kN
+D F |.
+Ss 8m
+Va
+8m sm a
+
+b. Truss is loaded as shown in the figure. Determine the nature and magnitude of forces in the (6)
+members AB, AD and ED. Use method of section only.
+
+3m L 3m L
+A ‘3
+3m
+E D c
+* Y v
+2000 N 2000 N
+
+Q:4
+
+a. Figure below shows a rectangular body subjected to four forces in the direction shown. Reduce (6)
+them to a resultant force at the origin and a moment. OC = 5m, OA = 3m, OD = 4m.
+
+Y 700.N
+t t
+oa
+H
+1000N fF |
+™~ 1
+| 350N
+rr <—_ >» X
+7O
+: E
+D
+Zz 650 N
+
+2/4
+--- page 3 ---
+Q:5
+
+Q:6
+
+Determine the resultant force and resultant couple moment at point A(3,1,2) m of the following (6)
+
+force system:
+
+F\=5 i+ 8 KN acting at a point B(8,3,1) m
+Fa=3 i+ 2j-4kN acting at (0,0,0) m.
+Mi=12i-20j+9kNm
+
+Calculate the reactions at the support A and B of the beam loaded as shown in figure by the (6)
+principle of virtual work.
+
+500 kN 700 KN
+A | | B
+ye TT
+; im \ 2m | 2m L
+
+| |
+
+A car travels along a depression in a road, the equation of the depression being x’?=200y. The (6)
+speed of the car is constant and equal to 72 Km/hour. Find its acceleration when the car is at
+the deepest point in the depression (at x=0). What is the radius of curvature of the depression
+
+at this point?
+
+The ends A and B of ladder 2.5 m long are restrained to (6)
+
+move in vertical and horizontal guides as shown in the
+figure. The end A moves with 1.5 m/s. Determine :
+
+i) Angular velocity of link AB
+
+ii) Velocity of end B
+
+The two blocks shown start from rest. The horizontal 100 Kg (6)
+plane and pulley are frictionless, and the pulley is A
+
+assumed to be of negligible mass. Determine the
+acceleration of each block and tension in cord.
+
+300 Kg
+
+sly
+--- page 4 ---
+Q:7
+a. A body weighing 300 N is pushed up a 30° plane by a 400 N force acting parallel to the plane. (6)
+If the initial velocity of the body is 1.5m/s and coefficient of kinetic friction is 0.2, what
+
+velocity will the body have after moving 6m? Use work energy method.
+
+b. A2kg ball moving with 0.4 m/s towards right collides head on with another ball of mass 3 kg. (6)
+Moving with 0.5 m/s towards left. Determine the velocities of the balls after impact, when the
+
+impact is perfectly elastic.
+
+4 |h
+````
+
 ## 2018-19 · Re-Exam · Sem 3 · paper 521fb37d5fc5
 
 - Departments: Civil
@@ -6900,6 +7256,520 @@ cylinder completes 2 revolutions.
 ALA
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper d0014686ed00
+
+- Departments: Civil, Mechanical
+- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2015-16 Re Exam_d0014686ed.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 May 2018
+- Text: ocr (4 pages), mean OCR confidence 88.9
+
+````text
+\
+
+, , SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+4
+
+Programme: B. Tech Integrated (Mechanical/ Civil) “ Year: II - Semester: III
+
+Batch: 2015-16 ~
+‘ Academic Year: 2017-2018
+
+Subject: Engineering Mechanics +
+Marks: 60 <
+
+Date: 30 May 2018 - Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs) .
+
+No. of Pages: __ 0 Uf
+
+a
+
+- Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and cn the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. ‘1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q:1
+a. State and explain parallel axis theorem. (3)
+b. Write any four assumption made in analysis of truss. (3)
+c. Explain D’Alembert’s theorem. (3)
+d. Distinguish between elastic impact, semi elastic impact and plastic impact. (3)
+Q:2
+a. Determine the moment of inertia about centroidal axes for inverted T-section as shown in the (6)
+figure. 4Y
+i
+20cm
+
+i
+
+. =
+
+I oO
+
+8
+
+1 N
+
+1
+
+1
+
+5
+
+L = x
+
+350 cm
+
+1/4
+--- page 2 ---
+b. For the unshaded area shown in the figure, determine the moment of inertia about line AB. (6)
+
+a
+- : fe or B
+4c 4cem cm
+Q:3 ‘
+a. A cantilever truss is loaded as shown in the figure. Use the method of joint to find out forces in (6)
+all members of the truss. . 20 kN 29KN
+; 6m |. 6m yc
+Ag
+y 60° 60° 60°
+F 60° 60° 609
+E D
+|
+
+<3 mt} 6m cal
+
+b. For the truss shown in the figure, calculate the forces in member JH, FH and EF by method of (6)
+
+section only.
+10 kN 30 KN 40 kN 40 KN
+D E
+¢ : ra 20 KN
+A
+a} at
+
+Q:4
+a. A force P1 =10 N in magnitude acts along direction AB where co-ordinates of point A and B (6)
+are (3,2,-1) and (8,5,3) respectively. Another force P2 = 5 N in magnitude acts along BC where
+C has co-ordinates (-2,11,-5). Determine (i) Resultant of P1 & P2 in vector form (ii) Moment of
+
+the resultant @ D (1,1,1).
+
+2/4
+
+)
+--- page 3 ---
+b. Knowing that the tension in AC is 20 kN, determine the required value of tension Tag and Tap (6)
+
+so that the resultant of the three forces applied at A is vertical.
+
+» Cve)
+
+Q:5
+Using virtual work method, find the reactions at supports for the beam shown in figure. (4)
+700 KN
+
+}
+Hy
+
++
+
+Pa om WT
+| |
+
+es It 2m
+
+500 KN
+
+|
+
+22 i+ (4/ 2) j , where r is in meter units and t isin (4)
+
+b. The position vector of a particle is r(t) =
+seconds. Determine when t = | sec the magnitude of normal and tangential component of
+
+acceleration.
+A speed of rotor decreases uniformly from 2000 rpm to rest in 300 seconds. Determine the angular (4)
+
+acceleration and the number of radians before coming to rest.
+
+Q:6
+4. The ends of the slender beam AB of length 2.5 m are
+constrained to remain in contact with a horizontal floor and
+a vertical wall respectively as shown in figure. If the end A
+has a velocity of 1.5 m/s determine the angular velocity of
+the beam and the velocity of its end B at the position shown
+
+in the figure.
+
+To 5) ©
+
+3/4
+--- page 4 ---
+b. A body of mass 25 kg resting on a horizontal table is
+connected by string passing over a smooth pulley at the
+edge of the table to another body of mass 3.75 kg and
+hanging vertically as shown in the figure. Find the
+acceleration of the masses and tension in the string, if
+co-efficient of friction is 0.15.
+
+Q:7
+a. A block weighing 2500N rests on a level horizontal plane for which coefficient of friction is (6)
+0.20. This block is pulled by a force of 1000N acting at an angle of 30° to the horizontal. Find
+the velocity of the block after it moves 30 m starting from rest. If the force of 1000 N is then
+removed,how much further will it move? Use work energy method.
+
+b. Two balls having masses 10 kg and 20 kg are moving towards each other with velocities 4 m/s (6)
+and 1 m/s respectively. If e = 0.6, determine’ the velocities of ball immediately after their
+collision and loss of kinetic energy.
+
+4/4
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper ffe729a3296c
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2015-16 Re Exam_ffe729a329.pdf`
+- Printed on paper: max marks: 60; exam date: 27 November 2017
+- Text: ocr (4 pages), mean OCR confidence 86.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2017-2018 ‘
+
+Program: B. Tech Integrated (Mechanical / Civil) ¢ Year:IL « Semester:III -
+Batch: 2015-16 < ; Marks: 60.5% nn “
+Subject: Engineering Mechanics “ Time: 02. Ayo t0,03.00ip
+
+Date :27 November 2017 < Duration:3. bre * “ cARY
+
+RE - EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. .
+
+Q:1
+a. Explain Instantaneous center of rotation. (3)
+b. Define Moment of Inertia and radius of gyration. (3)
+c. Explain following terms:
+i) Impact
+ii) Co-efficient of restitution (3)
+d. Enlist and draw any three types of truss. (3)
+Q:2 ,
+4. Determine the moment of inertia about centroidal axes for I-section shown in the figure. (6)
+eh: ne
+|
+Oy
+2 cr S
+8
+3
+~
+8
+40 mm,
+CM
+--- page 2 ---
+Sy
+
+b. | For the shaded area shown in the figure, determine the moment of inertia about line XX.
+
+X
+
+40cm 40 cn
+
+Q:3.°
+a. Determine the magnitude and nature of the forces for the members PQ, QR, RS and PU shown
+
+in the figure using method of joints. Tabulate your result.
+
+100 N oo
+
+R $
+100. 7 i 150
+
+i
+
+3m
+
+b. Truss is loaded as shown in the figure. Determine the nature and magnitude of forces in the
+members AB, AD and ED. Use method of section only.
+
+L 3m + 3m +
++x .
+3m
+Fa
+A Cc
+AE iF
+2000 N 2000 N
+
+con)
+
+(6)
+
+(6)
+
+(6)
+--- page 3 ---
+Q:4
+a. Find the resultant and moment about O of the forces as shown in the figure. Forces are in (6)
+Newton and distances are in meter.
+
+wT >
+
+(6)
+b. A vertical load of 1000 N is supported by three bars as shown. Find the forces in each bar.
+
+Point C, O and D are in the x-z plane while B is 1.5m above this plane.
+YA
+1
+
+ye
+
+Q:5
+a. Using virtual work determine all reactions of the supports shown in figure Note C is an internal (6)
+hinge. 30 KN
+
+yown a
+A at a] ) le
+wilt
+
+x
+24KNm
+
+: 1
+
+ex)/4
+--- page 4 ---
+Q:6
+
+Q:7
+
+A particle moves according to the equation r(t)=50 cos4t?i + 50 sin4t? j where distance are in (6)
+cm and the time in sec. Find its velocity, tangential and normal accelerations.
+
+A prismatic bar AB with its ends A and B being constrained to move along the planes on which (6)
+it rests as shown in the figure. If the end A moves with constant velocity Va= 10m/s, find the
+angular velocity of the bar AB and velocity Vp of the end B of the bar at the instant when the
+
+bar makes an angle of 30° with the horizontal as shown.
+
+8 ‘
+
+Vs=10m/s
+
+Two blocks ‘A’ and ‘B’ are held stationary 10m apart on a 20° incline as shown. The co- (6)
+efficient of dynamic friction between the plane and ’A’ is 0.3 and for ‘B’ is 0.1. If the blocks
+are released simultaneously, find the time taken and the distance traveled by each block before
+they are on the verge of colliding.
+
+10 8
+aN
+\
+‘ VS
+
+aa 20°
+
+A block weighing 2500 N rests on a level horizontal plane for which co-efficient of friction is (4)
+0.2. This block is pulled by a force of 1000 N acting at an angle of 30° to the horizontal. Find
+
+the velocity of the block after it moves 30 m staring from rest. If the force of 1000 N is
+removed how much further will it move?
+
+Two balls having masses 20 kg and 30 kg are moving towards each other with velocities 10 m/s_ (4)
+and 5 m/s respectively. If after impact the ball having mass 30 kg, is moving with velocity 6
+m/s to the right then determine the coefficient of restitution between the two balls.
+
+A wheel has an initial clockwise angular velocity 7 rad/s and a constant angular acceleration of (4)
+2.5rad/s*. Determine the number of revolutions the wheel must undergo to acquire a clockwise
+angular velocity of 10 rad/s. what time is required?
+
+Pas ee
+
+C4 M7
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 09e3f10f3a14
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2016-17 Re Exam_09e3f10f3a.pdf`
+- Printed on paper: max marks: 70; exam date: 27 November 2017
+- Text: ocr (3 pages), mean OCR confidence 77.7
+
+````text
+eee 7) Assume ‘suitable data if necessary. a eee toll nr Se
+
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2017-2018 “
+
+Program: B. Tech Integrated (Mechanical / Civil) “ Year:II Semester: mi
+
+Batch: 2016-17 ‘ Marks: 70 .*,/
+
+Subject: Engineering Mechanics “
+Date :27 November 2017 “
+
+No. of Pages:
+RE - EXAMINATION Sm, ———
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which i is provided for their use.
+
+1) Question No. 1 is compulsory. :
+- 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted. ;
+4) All questions carry equal marks. -
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1 Attempt any THREE questions from A, B, C & D and : “8 (Q42424+
+; Attempt any TWO questions from E.F & G ; ; At4=
+A Define Moment,of Inertia. 2]
+B State and explain conditions for the truss to be Perfect, Redundant & Deficient. (2)
+C_ Define Instantaneous Centre of Rotation. (ICR) - ; ; [2]
+D Explain D’Alembert Principle.” ~ 7 ; P21
+’ € Explain for 3D forces, A Moment of Force vector about a point. {4|
+F Write a short note on “Principle of Virtual Work’, . : ne?
+
+G Write a short note on Uniform Circular Motion. State relations between Velocity, [4]
+Acceleration and Displacement. : a | ;
+
+Q.2 Determine centroidal MOI of an unsymmetrical I section having following details, also [7]
+(A). find out Radius of Gyration of the same. .
+; Top flange : 160 mm x 12mm -
+Bottom flange : 240 mm x 12 mm
+Web : 200 mm x 10 mm :
+
+I/4,
+--- page 2 ---
+B Calculate the Moment of inertia of the 7
+
+[7]
+shaded region in-the figure with respect :
+to the x and y axes.
+
+755
+«x
+Q.3 ; ; . {7]
+(A Determine the magnitude and nature of the forces in all members of the truss using
+; [2 LEN ;
+rR tS.
+lew a 7 Tee
+OQ a : Lo
+x tin
+#
+- 4
+wt ~ “a va
+SV
+U ext
+4 et
+method of Joints. 7 f
+; \. / [7]
+(B) — Find the forces in the Marked members by METHOD OF SECTION.
+Q.4 (A) A regular parallelopiped carries ; 17]
+its sides as OA = Sem. OB = 2cm.QC = 7 ; AQ kN
+“dem. : . : . QR Sey
+and F ‘orces as sh in the figure.
+and Four forces as shown in the figure A—A Ee
+
+Determine the resultant of these Four
+forces at the origin and a moment around
+origin.
+--- page 3 ---
+(B) A square foundation mast supports
+the four columns as shown. Determine
+the magnitude and point of application
+of the resultant of the four loads.
+
+Q.5 - (A) Two beams AC and CD are hinged internally at C and simply supported at A and D. ,
+Find the reaction at third support B. Use the principal of Virtual Work.
+asm |S KA
+a ae
+Se
+
+(4)
+A
+F $ 1
+
+(B) A particle moves with constant speed
+
+of 3 m/s along the path y = 3x7,
+- Find the acceleration of the particle
+
+(5)
+
+“when x =0.5 m.
+
+eee Hieccpem ni ee rane > on
+
+j= 0-5 m>]
+
+ze
+
+(C) A flywheel starting from rest and accelerating uniformly performs 25 revolutions in 5
+sec. Find its angular acceleration and its angular velocity after 10 secs. (5)
+
+Q.6 (A) Figure shows a ladder AB » 6m resting
+
+against a vertical wall at A.and horizontal
+. ground at B. If the end B of the ladder is pulled
+
+towards right with a constant velocity VB =
+4m/s. Find : _
+(i) Instantaneous centre of rotation of ladder.
+(ii) Anguiar velocity of the ladder at the instant. Zot FRO
+(iii) Velocity of point A. . . pf b F wh & 7K
+
+(5)
+
+Va= Gale
+
+—
+
+' An elevator has an upward acceleration of 2 m/s’. (i)What force will be transmitted to
+(B) the floor of the elevator by a man weighing 600N travelling in the elevator?
+(ji) What pressure will be transmitted if the elevator has a downward acceleration of 2
+m/s* ? (iii) Also find the upward acceleration of the elevator which would cause the man
+to exert a pressure of 1200N on the floor. Take g ~ 9.81 m/s’.
+
+(5)
+
+2i4
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper 6667a13f92c4
 
 - Departments: Civil, Mechanical
@@ -7071,6 +7941,7 @@ block after it moves 30m starting from rest. Use work energy method. [4M]
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2016-17 Final.pdf`
 - Printed on paper: exam date: 29 November 2016
 - Text: ocr (4 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7157,7 +8028,6 @@ Ca
 QNo. 4 Solve the following 7X2=14
 
 i. Determine the resultant force and couple moment about the origin of the force system shown in figure.
-L (OA) = 4m, L (OC) = 5m, L (OE) = 3m t E
 
 ii. Force F1 = 500 N, F2 = 800 N, and Fs = 600 Ba rh na vertical mast AB as shown. Find the resultant force and
 
@@ -7223,826 +8093,7 @@ when the impact is perfectly plastic.
 4l4
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 9dfefe968b2c
-
-- Departments: Civil, Mechanical
-- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2016-17 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 29-May-17
-- Text: ocr (3 pages), mean OCR confidence 83.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated (MECHANICAL/CIVIL) Year: II Semester: III
-
-Batch: 2016-17
-Academic Year: 2016-2017
-
-AST Bay,
-Subject: Engineering Mechanics aoe .
-Marks: 70 i’
-Date: 29-May-17 Time: 02.00 p.m. sto 50 p.m.
-Dyrations: 3 (hrs) FF
-Rages: Ee,
-
-Re-Examination ee fa
-~ ee oan
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. fis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-Q.1 Attempt any THREE questions from A, B,C & Dand (242424 14)
-Attempt any TWO questions from E,F&G. . 4+4=
-A Explain Parallel Axis Theorem. [2]
-B_ Explain 2-force, 3-force & 4-force pin joints to find the forces by observation. {2]
-C_ Define Instantaneous Centre of Rotation. (ICR) [2]
-D_ Explain coefficient of restitution. {2]
-E_ Explain MOI for i) Semi-circular Plane, ii) Circular Plane, iii) Quarter Circular Plane, [4]
-iv) Triangular Plane. v) Right Angled Triangular Plate & vi) Rectangle.
-F Explain ICR with reference to kinematics of rigid bodies. [4]
-G = Write a short note on Variable Angular Acceleration with all relations and functions. [4]
-Q.2_ A plane lamina of uniform thickness resembles like a Yi {7]
-(A) letter F, locate its center of gravity and find out 100
-
-‘ . . . $<. -
-Moment of Inertia about centroidal Y — axis. —
-
-xe
-
-\/Z
---- page 2 ---
-(B) Find the Moment of Inertia for the {7]
-plane area as shown @ centroidal axis.
-Q.3 Determine the forces in the members AB, AE, BE and EF along with their nature for the [7]
-(A) frame shown in figure. Tabulate the results.
-SEN SKN
-BR Ke oF
-fo NN ., |
-SA . "
-Lf NN \ Om
-SN \ |
-/ Nw "
-, \
-sf N Sole
-ca E F Z Ae >
-(4 gm L 2m - 2a ; pi
-
-(B) Find the force in the members {7]
-GE, GF, EF, DF, DE & CE
-by method of joints. ren
-Be
-
-Q.4 (A) Determine the loads to be applied at
-A and F.If the resultant of all the six loads
-
-[7]
-
-is to pass through the centre of the, _
-foundation of hexagonal shape of side 3m. ~
-
-fR)
-
-(B) that the tension in+ AC is {7
-
-OKN. Determine the required values
-of tension Tab and Tad, so that the
-resultant of the three forces applied at A is
-vertical and calculate resultant.
-
-2/3
---- page 3 ---
-Q.5 (A) Using the method of virtual work, determine the reaction at A of the beam shown in
-the figure.
-
-2s kee © kn/r 22 “| (4)
-pth
-i D
-Qn ~a— "3 rn =
-(B) The position vector of a particle is given by r= 2t? i+ 4t7j (m) where t is in seconds. (5)
-
-When t = | sec, determine: (a) the magnitudes of normal and tangential components of
-acceleration of the particle and (b) the radius of curvature of the path.
-
-(C) A rotor ofa turbine had an initial angular velocity of 1800 rpm. Accelerating uniformly it (5)
-doubled its velocity in 12 sec. Find the revolutions performed by it in this interval. -
-
-(A) Arm AB rotates anti clockwise with
-Q.6 uniform angular velocity 10 rad/s.
-Point C is constrained to move along
-~ the x axis. Calculate the angular velocity
-of bar BC, also determine velocity of C.
-
-(5)
-
-(B) Acar of mass 1000 kg is travelling at a speed of v = 60 kmph applies brakes and comes
-to the rest in 6 seconds. Find the minimum coefficient of friction between the wheels » (5)
-and the road.
-
-(C) The 50Kg crate shown in figure rests on a
-horizontal plane for which the coefficient
-of kinetic friction is 0.3. If the crate is
-
-(4)
-
-subjected to a 400N towing force as shown,
-
-deterinine the velocity of the crate in 5 sec
-
-starting from rest.
-
-Q.7 Two particles of masses 10 kg and 20 kg are moving along a straight line towards each
-
-(A) _ other at velocities of 4 m/s and | m/s respectively. If e = 0.6, determine velocities after (7)
-impact. |
-
-(B) Explain élastic Impact, semi elastic impact and plastic impact. based on coefficient of
-
-(7)
-
-restitution
-
-3/3
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 09e3f10f3a14
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2016-17 Re Exam_09e3f10f3a.pdf`
-- Printed on paper: max marks: 70; exam date: 27 November 2017
-- Text: ocr (3 pages), mean OCR confidence 77.7
-
-````text
-eee 7) Assume ‘suitable data if necessary. a eee toll nr Se
-
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2017-2018 “
-
-Program: B. Tech Integrated (Mechanical / Civil) “ Year:II Semester: mi
-
-Batch: 2016-17 ‘ Marks: 70 .*,/
-
-Subject: Engineering Mechanics “
-Date :27 November 2017 “
-
-No. of Pages:
-RE - EXAMINATION Sm, ———
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which i is provided for their use.
-
-1) Question No. 1 is compulsory. :
-- 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted. ;
-4) All questions carry equal marks. -
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1 Attempt any THREE questions from A, B, C & D and : “8 (Q42424+
-; Attempt any TWO questions from E.F & G ; ; At4=
-A Define Moment,of Inertia. 2]
-B State and explain conditions for the truss to be Perfect, Redundant & Deficient. (2)
-C_ Define Instantaneous Centre of Rotation. (ICR) - ; ; [2]
-D Explain D’Alembert Principle.” ~ 7 ; P21
-’ € Explain for 3D forces, A Moment of Force vector about a point. {4|
-F Write a short note on “Principle of Virtual Work’, . : ne?
-
-G Write a short note on Uniform Circular Motion. State relations between Velocity, [4]
-Acceleration and Displacement. : a | ;
-
-Q.2 Determine centroidal MOI of an unsymmetrical I section having following details, also [7]
-(A). find out Radius of Gyration of the same. .
-; Top flange : 160 mm x 12mm -
-Bottom flange : 240 mm x 12 mm
-Web : 200 mm x 10 mm :
-
-I/4,
---- page 2 ---
-B Calculate the Moment of inertia of the 7
-
-[7]
-shaded region in-the figure with respect :
-to the x and y axes.
-
-755
-«x
-Q.3 ; ; . {7]
-(A Determine the magnitude and nature of the forces in all members of the truss using
-; [2 LEN ;
-rR tS.
-lew a 7 Tee
-OQ a : Lo
-x tin
-#
-- 4
-wt ~ “a va
-SV
-U ext
-4 et
-method of Joints. 7 f
-; \. / [7]
-(B) — Find the forces in the Marked members by METHOD OF SECTION.
-Q.4 (A) A regular parallelopiped carries ; 17]
-its sides as OA = Sem. OB = 2cm.QC = 7 ; AQ kN
-“dem. : . : . QR Sey
-and F ‘orces as sh in the figure.
-and Four forces as shown in the figure A—A Ee
-
-Determine the resultant of these Four
-forces at the origin and a moment around
-origin.
---- page 3 ---
-(B) A square foundation mast supports
-the four columns as shown. Determine
-the magnitude and point of application
-of the resultant of the four loads.
-
-Q.5 - (A) Two beams AC and CD are hinged internally at C and simply supported at A and D. ,
-Find the reaction at third support B. Use the principal of Virtual Work.
-asm |S KA
-a ae
-Se
-
-(4)
-A
-F $ 1
-
-(B) A particle moves with constant speed
-
-of 3 m/s along the path y = 3x7,
-- Find the acceleration of the particle
-
-(5)
-
-“when x =0.5 m.
-
-eee Hieccpem ni ee rane > on
-
-j= 0-5 m>]
-
-ze
-
-(C) A flywheel starting from rest and accelerating uniformly performs 25 revolutions in 5
-sec. Find its angular acceleration and its angular velocity after 10 secs. (5)
-
-Q.6 (A) Figure shows a ladder AB » 6m resting
-
-against a vertical wall at A.and horizontal
-. ground at B. If the end B of the ladder is pulled
-
-towards right with a constant velocity VB =
-4m/s. Find : _
-(i) Instantaneous centre of rotation of ladder.
-(ii) Anguiar velocity of the ladder at the instant. Zot FRO
-(iii) Velocity of point A. . . pf b F wh & 7K
-
-(5)
-
-Va= Gale
-
-—
-
-' An elevator has an upward acceleration of 2 m/s’. (i)What force will be transmitted to
-(B) the floor of the elevator by a man weighing 600N travelling in the elevator?
-(ji) What pressure will be transmitted if the elevator has a downward acceleration of 2
-m/s* ? (iii) Also find the upward acceleration of the elevator which would cause the man
-to exert a pressure of 1200N on the floor. Take g ~ 9.81 m/s’.
-
-(5)
-
-2i4
-````
-
-## 2015-16 · Final-Exam · Sem 3 · paper 95e2b1c4b90d
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics 2015-16 Final.pdf`
-- Printed on paper: exam date: 30/11/2015
-- Text: ocr (4 pages), mean OCR confidence 90.3
-
-````text
-SVKM?’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (Mechanical/ Civil) Year: II Semester: III
-Academic Year: 2015-2016
-
-Subject: Engineering Mechanics
-
-Marks
-Date: 30/11/2015 Time
-
-Durations
-Final-Examination
-
-instruction: Candiaates should read carefully the instructions printed on the question paper and
-cover of the Answer Book, which is provided for their use.
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Q-1: | Attempt Any Four Questions. {12 M]
-a) What is Moment Of inertia?
-b) Explain Perfect Trust with an Example.
-c) Explain ICR with reference to kinematics of rigid bodies.
-d) Explain D’Alembert Principle.
-
-e) Explain Principle of conservation of Energy.
-
-Q-2: a) Find MLL of the section shown in Figure about X- axis and Y-axis. [6M]
-
-. A
-Y-axis
-l¢——_—___—_-. 80 mm —__»
-
-7 A
-
-10 mm
-
-<> 10mm
-120 mm
-
-{ I 10 mm
-
-A X-Axis
---- page 2 ---
-Q-2: b) Find M.I. of the section shown in Figure about X- axis and Y-axis. [6M]
-a¥ £7 Pooch ot
-
-RE25™ Dori,
-
-Q-3: a) Determine forces in the members meeting at the joint F of the truss, as shown in figure.
-[6M]
-
-3m
-
-SKN
-
-Q-3:   b) Determine forces in the member BC, BE and FE of the truss, as shown in figure. By
-
-method of section. [6M]
-20 KN
-
-20 KN 30 KN
-
-Q-4 a) A rectangular parallelepiped carries 4 forces as shown in the figure. Reduce force system to
-a resultant force applied at the origin and a moment around origin. OA = Sm, OB = 2m, OC =
-Y
-
-4m. [6 M]
---- page 3 ---
-Q-4:   b) Figure shows space truss. Find the forces in the members AB, AC and AD of the truss
-located at joint A by a force F=40i-30j-20k (KN) [6 M]
-
-Q-5: a) Find the reaction at support A and B by the principal of virtual work. [4M]
-1000N
-500Nm
-J wee ®
-3m ale 2m _>|
-
-Dre article moves with a constant speed 0 m/s along a pat yrx/5. Fin the acceleration
-5: b) A particl ith d of 8 m/s al h y=x7/3. Find th lerati
-
-of the particle when x=3m. [4 M]
-
-Q-5: c) Acar starts from rest at t= 0 along a circular track of radius 200m. The rate of increase in
-speed of the car is uniform. At the end of 60 sec. The speed of the car is 24km/hy. Find the
-
-normal and tangential components of acceleration at time t= 30sec. [4 M]
-
-Q-6: a) A bar AB, 3m slides down the plane shown in fig. The velocity of end A is 3.6m/s to the
-
-right. Determine the angular velocity of AB and velocity of end B. [4.Mj
-
-pe B
-
-0
-ioe Va=3.6m/s
-
-20 — >
-
-A
---- page 4 ---
-Q-7
-
-Q-7
-
-b) A vertical lift of total mass 750 kg acquires an upward acceleration 1.125 m/s’ starting
-
-from rest. Calculate the tension in the cable. [4M]
-
-c) The 50Kg crate shown in figure rests on a horizontal plane for which the coefficient of
-kinetic friction is 0.3.If the crate is subjected to a 400N towing force as shown, determine the
-
-velocity of the crate in 5 sec starting from rest. {4 M]
-
-400 N
-
-a) A block weighing 2500N rests on a level horizontal plane for which coefficient of friction
-is 0.20. This block is pulled by a force of 1000N to the horizontal. Find the velocity of the
-
-block after it moves 30m starting from rest. Use work energy method. [4M]
-
-1000 N
--——>
-
-b) Two particles of masses 10 Kg and‘20 Kg are moving along a straight line towards each
-other at velocities of 4m/s and 1 m/s respectively. If e= 0.6, determine velocities after impact.
-[4M]
-
-c) Explain Elastic Impact, semi elastic impact and plastic Impact, based on coefficient of
-
-restitution. [4M]
-
-4),
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 88201713f88e
-
-- Departments: Civil, Mechanical
-- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2015-16 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 17 November 2018
-- Text: ocr (4 pages), mean OCR confidence 88.2
-
-````text
-SVKM’S NMIMS
-
-Program B.Tech Integrated (MECHANICAL/ CIVIL)
-Academic Year: 2018-2019
-
-Subject: Engineering Mechanics 7 Marks: 60
-
-Date: 17 November 2018 Time:2.00 pm to 5.00 pm -
-
-~
-Duration: 3 (hrs) =
-No. of Pages:__. 4
-
-: Re-examination (2015-16)
-
-" Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1) Attempt all questions. (12)
-a) Explain the terms: (1) Impact (2) co-efficient of restitution (03)
-b) Define Radius of Gyration, also write down expression and unit of the same (03)
-c) Write any four assumptions made in analysis of truss (03)
-d) Define and Explain Instantaneous center of Rotation (03)
-Q.2) a) Find the moment of Inertia about Centroidal Axis BY (06)
-for region of the given figure. All dimensions are i
-in mm. given that Xc = 32.95 mm and Yc = ae
-87.95mm. ' ik
-
-69
-
-4G
-
-va
-
-Vu -¢
---- page 2 ---
-S
-
-b)
-
-Q.3) a)
-
-b)
-
-Find the Moment of Inertia about
-given X and Y axis for shaded
-region of the given figure
-
-Determine any 6 forces in
-the member of the truss
-shown in figure by Method
-
->
-
-» Xx
-
-xk
-Y
-50 mm
-
-|
-\S
-
-|
-
-ne ¥
-l
-!
-*® > 50mm
-
-i
-
-20KN
-
-of Joints. Tabulate the
-results
-
-Determine forces in the
-member CE, CG and FG of
-the truss shown in figure by
-Method of Section.
-Tabulate the results
-
-1kN
-
-20 KN 30 KN
-
-30° 601 (60°
-
-G
-im
-
-Ie
-
-F
-im ple im ><
-
->|
-
-(06)
-
-(06)
-
-(06)
---- page 3 ---
-Q.4) a) Replace the forces Fl , F2 and F3 acting on the pipe bend by a force couple system at O. (08)
-
-F,= 100 KN
->
-
-F, = 50 KN
-
-F3 =100 KN
-b) The force F=3i -4j-12k acts at a point A (1, -2, 3). Determine the moment of this force (06)
-around the origin O, and around a point B (2, I, 2).
-
-Q.5) a) Calculate the reactions at the support A and B of the beam loaded as shown in figure by (04)
-principle of virtual work
-
-x le oKn OKN
-
-vas |
-
-A poSeannace) s Rg
-i km ESN — Pam
-
-b) A train starts from rest on a curved path of radius 1000m. Its speed increases uniformly (04)
-and after 5 minutes it is 75km/hr. Find the tangential, normal and total accelerations after
-
-2 minutes.
-
-c) A rotor ofa turbine had an initial angular velocity at 1800 rpm. Accelerating uniformly it (04)
-doubled its velocity in 12 seconds. Find the revolution performed by it in this interval.
-Q.6) a) Figure shows a ladder AB = 6m resting ¥ (08)
-against a vertical wall at A and horizontal :
-ground at B. If the end B of the ladder is
-pulled towards right with a constant velocity
-Vp = 4m/s. Find : 4
-(i) Instantaneous centre of rotation of ladder.
-(ii) Angular velocity of the ladder at the 4,
-instant. dvs
-(iii) Velocity of point A. aN: ; _
-7
-
-— ¢
---- page 4 ---
-b) The 100kg crate rests on a horizontal plane for which the coefficient of Kinetic friction is (06)
-
-0.3. If the crate is subjected to a SOON towing force at 30° to the horizontal, Determine the
-velocity of the crate in 5 second starting from rest. Take g = 10 m/s?
-
-Qa A body weighing 300N is pushed up a 30 plane by a 400N force acting parallel to the (04)
-plane. If the initial velocity of the body is 1.5m/s and coefficient of kinetic friction is 0.2,
-
-what velocity will the body have after moving 6m? Use work energy method. Take g=
-10 m/s?
-
-b): Two particles of masses 10 kg and 20 kg are moving along a straight line towards each (04)
-other at velocities of 4m/s and | m/s respectively. If e = 0.6, determine the velocities of
-the particles immediately after their collision and loss of K.E.
-
-c) A vertical lift of total mass 1500kg acquires an upward velocity of 6m/s over a distance (04)
-of 5m moving with constant acceleration starting from rest. Calculate the tension in the
-cable. Take g = 10 m/s?
-
-ula
-
-— ¢
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 85bd87b66a71
-
-- Departments: Civil, Mechanical
-- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2015-16 Re Exam_85bd87b66a.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 January 2019
-- Text: ocr (4 pages), mean OCR confidence 89.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
-
-/ Program: B.Tech Integrated (Mechanical/ Civil) ~ Year: Il 7 Semester: III ~ 2
-Academic Year: 2018-2019 |
-“ Subject: Engineering Mechanics — Marks: 60 ~
-Time: 2.00 pm to.5.00 pm —
-Date : 15 January 2019
-- ay Durations:3 (hrs)
-
-No. of Pages:__OLf-
-Re-examination (2015-16)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which ‘is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q:1 Attempt any three. (12)
-a. Explain any four types of truss with neat sketch.
-b. Explain in brief parallel axis theorem.
-c. State principle of virtual work.
-d. What is line-of impact and central impact?
-Q:2 :
-a. Determine the moment of inertia about centroidal axes for T —section with following details: (6)
-Top flange = 1200 x 200 mm
-Web = 200 x 1000 mm.
-(6)
-
-b. A rectangular hole is made in the triangle as;
-shown, Determine moment of inertia about the |
-
-line AB. |
-
-y _ > 20 Lz
-
-A ea
-
-~ 600
-
-Er
---- page 2 ---
-Q:3
-
-a. Find the forces in all the members of the truss shown in the figure by method of joints. (6)
-Tabulate the result.
-
-2kN
-D F |.
-Ss 8m
-Va
-8m sm a
-
-b. Truss is loaded as shown in the figure. Determine the nature and magnitude of forces in the (6)
-members AB, AD and ED. Use method of section only.
-
-3m L 3m L
-A ‘3
-3m
-E D c
-* Y v
-2000 N 2000 N
-
-Q:4
-
-a. Figure below shows a rectangular body subjected to four forces in the direction shown. Reduce (6)
-them to a resultant force at the origin and a moment. OC = 5m, OA = 3m, OD = 4m.
-
-Y 700.N
-t t
-oa
-H
-1000N fF |
-™~ 1
-| 350N
-rr <—_ >» X
-7O
-: E
-D
-Zz 650 N
-
-2/4
---- page 3 ---
-Q:5
-
-Q:6
-
-Determine the resultant force and resultant couple moment at point A(3,1,2) m of the following (6)
-
-force system:
-
-F\=5 i+ 8 KN acting at a point B(8,3,1) m
-Fa=3 i+ 2j-4kN acting at (0,0,0) m.
-Mi=12i-20j+9kNm
-
-Calculate the reactions at the support A and B of the beam loaded as shown in figure by the (6)
-principle of virtual work.
-
-500 kN 700 KN
-A | | B
-ye TT
-; im \ 2m | 2m L
-
-| |
-
-A car travels along a depression in a road, the equation of the depression being x’?=200y. The (6)
-speed of the car is constant and equal to 72 Km/hour. Find its acceleration when the car is at
-the deepest point in the depression (at x=0). What is the radius of curvature of the depression
-
-at this point?
-
-The ends A and B of ladder 2.5 m long are restrained to (6)
-
-move in vertical and horizontal guides as shown in the
-figure. The end A moves with 1.5 m/s. Determine :
-
-i) Angular velocity of link AB
-
-ii) Velocity of end B
-
-The two blocks shown start from rest. The horizontal 100 Kg (6)
-plane and pulley are frictionless, and the pulley is A
-
-assumed to be of negligible mass. Determine the
-acceleration of each block and tension in cord.
-
-300 Kg
-
-sly
---- page 4 ---
-Q:7
-a. A body weighing 300 N is pushed up a 30° plane by a 400 N force acting parallel to the plane. (6)
-If the initial velocity of the body is 1.5m/s and coefficient of kinetic friction is 0.2, what
-
-velocity will the body have after moving 6m? Use work energy method.
-
-b. A2kg ball moving with 0.4 m/s towards right collides head on with another ball of mass 3 kg. (6)
-Moving with 0.5 m/s towards left. Determine the velocities of the balls after impact, when the
-
-impact is perfectly elastic.
-
-4 |h
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 945e25378016
+## 2016-17 · Re-Exam · Sem 3 · paper 945e25378016
 
 - Departments: Civil, Mechanical
 - Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
@@ -8180,6 +8231,504 @@ figure:-
 Ee —
 
 3],
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper dfa922ccf438
+
+- Departments: Civil, Mechanical
+- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2015-16 Re Exam_dfa922ccf4.pdf` (+1 identical copies)
+- Printed on paper: exam date: 29 November 2016
+- Text: ocr (6 pages), mean OCR confidence 90.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (MECHANICAL/C ) Year: II Semester: III
+
+Academic Year: 2016-2017 : .
+ist OTR BP ~~
+Subject : Engineering Mechanics BATCH?2015-2
+
+Date : 29 November 2016 : J 10, 00am now 9
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the questio
+cover of the Answer Book, which is provided for their use.
+NB:
+
+1) Question No. I is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) ‘Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Q:1 Attempt following questions: 12
+
+a) Define polar moment of inertia. Also find out the same for hollow circular = 3.
+section.
+
+b) Check whether truss is perfect or imperfect? 3
+
+YF
+
+F
+
+aa i.
+
+c) Explain Dynamics of equilibrium. 3
+d) Find out reaction at A by using principle of virtual work. 3
+25 kN 7 kN
+A |
+
+N B
+jp et om pont
+
++
+
+Paget's
+--- page 2 ---
+Q:2 Attempt following questions: 12
+
+a) Find out moment of inertia of the section shown in the figure about 4
+
+centroidal axes. L 120 mm }
+tT 1
+
+80|m
+
+poy
+
+b) Find the second moment of area about the indicated axis OX for the lamina 4
+as shown, if quarter circle is removed.
+
+a | a“ |
+° i
+
+MS |
+: “ / R300
+Ceecimn was SiS | one eee, <
+500
+c) Using virtual work method, find the reactions at supports for the beam 4
+shown in figure. Note C is an internal hinges.
+
+10kNim 9 KNm /10 KN
+
+NSN AG
+
+Cc gop
+. 2m p im yplmy 2m 7
+71 71 71 4
+sateen al
+Q:3 Attempt following questions: 12
+a) Determine the magnitude and nature of the forces in the members AB, BF, 6
+
+AF, FE, BF and BE of the truss using method of joints. Tabulate the result.
+
+Page al6
+--- page 3 ---
+e b) Truss is loaded as shown in the figure. Determine the nature and magnitude 3
+of forces in the members FG, GC and CB. Use method of section only.
+
+20KN
+
+20KN
+
+G
+
+c B
+Z 2m 2m
+
+c) A particle travels along a parabolic shaped track y = 10 + 0.4 x’ with a 3
+constant speed of 6 m/s. at x = 3 find out total acceleration of the particle.
+
+Page 3/6
+--- page 4 ---
+Q:4 Attempt following questions: 12
+
+a) Figure shows a rectangular parallelepiped subjected to four forces in the 6
+direction shown. Find out resultant and moment at the origin.
+
+a
+b) A boom AB supports a load of 1000 N as shown. Neglect weight of the 6
+boom. Determine tension in cable BC and BD.
+e
+
+Page alé
+--- page 5 ---
+Attempt following questions: 12
+
+a) A force P;=20 N in magnitude acts along direction AB where co-ordinates 4
+of points A & B are (3,2,-1) & (8,5,3) respectively. Another force P2= 10 N
+in magnitude acts along BC where C has co-ordinates (-2,11,-5).
+Determine:
+
+(a) The resultant of P1 & P2 in vector form.
+(b) The moment of each force about point D whose co-ordinates are (1,1,1).
+
+b) The position vector of a particle is given by r = 20? i+4? j where t is in 4
+seconds. When t = Isec, determine (i) the magnitudes of normal and
+tangential components of acceleration of the particle and (ii) the radius of
+
+&
+curvature of the path.
+c) A car starts from rest on a curved road of 250 m radius and accelerate at a 4
+constant tangential acceleration of 0.6 m/s’. Determine the distance and the
+time for which car will travel before the magnitude of total acceleration
+attained by it becomes 0.75 m/s’.
+Q:6 Attempt following questions: 12
+a) A wheel rotating about a fixed axis at 15 rpm is uniformly accelerated for 4
+60 sec during which it makes 30 revolutions. Find angular velocity in rpm
+at the end of the interval.
+&
+
+b) A bar AB which is 3m long, it slides down the plane as shown in the fig. 4
+The velocity of end A is 3.6 m/s to the right. Determine the angular velocity
+of AB and velocity of end B at the instant shown.
+
+Page 5/6
+--- page 6 ---
+c) Block A of weight 5 N is connected to block B of weight of 10 N by an 4
+inextensible string. Find the velocity of block A if it falls by 0.8 m starting
+from rest. Take p= 0.2. Also find the tension in the spring.
+
+A
+
+Q:7 Attempt following questions: 12
+
+a) A body weighing 50kg is pushed up a 30° plane by a 400N force acting 6
+parallel to the plane. If the initial velocity of the body is 1.5m/s and
+coefficient of kinetic friction is u = 0.2, what velocity will the body have
+
+Be
+
+after moving 6m? ( use work energy principle.)
+
+b) Two balls having masses 20 kg and 30 kg are moving towards each other 6
+with velocities 10 m/s and 5 m/s respectively. If after impact the ball having
+mass 30 kg is moving with velocity 6 m/s to the right then, determine the
+coefficient of restitution between two balls.
+
+Page 6/6
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper 9dfefe968b2c
+
+- Departments: Civil, Mechanical
+- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2016-17 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 29-May-17
+- Text: ocr (3 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (MECHANICAL/CIVIL) Year: II Semester: III
+
+Batch: 2016-17
+Academic Year: 2016-2017
+
+AST Bay,
+Subject: Engineering Mechanics aoe .
+Marks: 70 i’
+Date: 29-May-17 Time: 02.00 p.m. sto 50 p.m.
+Dyrations: 3 (hrs) FF
+Rages: Ee,
+
+Re-Examination ee fa
+~ ee oan
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. fis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Q.1 Attempt any THREE questions from A, B,C & Dand (242424 14)
+Attempt any TWO questions from E,F&G. . 4+4=
+A Explain Parallel Axis Theorem. [2]
+B_ Explain 2-force, 3-force & 4-force pin joints to find the forces by observation. {2]
+C_ Define Instantaneous Centre of Rotation. (ICR) [2]
+D_ Explain coefficient of restitution. {2]
+E_ Explain MOI for i) Semi-circular Plane, ii) Circular Plane, iii) Quarter Circular Plane, [4]
+iv) Triangular Plane. v) Right Angled Triangular Plate & vi) Rectangle.
+F Explain ICR with reference to kinematics of rigid bodies. [4]
+G = Write a short note on Variable Angular Acceleration with all relations and functions. [4]
+Q.2_ A plane lamina of uniform thickness resembles like a Yi {7]
+(A) letter F, locate its center of gravity and find out 100
+
+‘ . . . $<. -
+Moment of Inertia about centroidal Y — axis. —
+
+xe
+
+\/Z
+--- page 2 ---
+(B) Find the Moment of Inertia for the {7]
+plane area as shown @ centroidal axis.
+Q.3 Determine the forces in the members AB, AE, BE and EF along with their nature for the [7]
+(A) frame shown in figure. Tabulate the results.
+SEN SKN
+BR Ke oF
+fo NN ., |
+SA . "
+Lf NN \ Om
+SN \ |
+/ Nw "
+, \
+sf N Sole
+(4 gm L 2m - 2a ; pi
+
+(B) Find the force in the members {7]
+by method of joints. ren
+Be
+
+Q.4 (A) Determine the loads to be applied at
+A and F.If the resultant of all the six loads
+
+[7]
+
+is to pass through the centre of the, _
+foundation of hexagonal shape of side 3m. ~
+
+fR)
+
+(B) that the tension in+ AC is {7
+
+OKN. Determine the required values
+of tension Tab and Tad, so that the
+resultant of the three forces applied at A is
+vertical and calculate resultant.
+
+2/3
+--- page 3 ---
+Q.5 (A) Using the method of virtual work, determine the reaction at A of the beam shown in
+the figure.
+
+2s kee © kn/r 22 “| (4)
+pth
+i D
+Qn ~a— "3 rn =
+(B) The position vector of a particle is given by r= 2t? i+ 4t7j (m) where t is in seconds. (5)
+
+When t = | sec, determine: (a) the magnitudes of normal and tangential components of
+acceleration of the particle and (b) the radius of curvature of the path.
+
+(C) A rotor ofa turbine had an initial angular velocity of 1800 rpm. Accelerating uniformly it (5)
+doubled its velocity in 12 sec. Find the revolutions performed by it in this interval. -
+
+(A) Arm AB rotates anti clockwise with
+Q.6 uniform angular velocity 10 rad/s.
+Point C is constrained to move along
+~ the x axis. Calculate the angular velocity
+of bar BC, also determine velocity of C.
+
+(5)
+
+(B) Acar of mass 1000 kg is travelling at a speed of v = 60 kmph applies brakes and comes
+to the rest in 6 seconds. Find the minimum coefficient of friction between the wheels » (5)
+and the road.
+
+(C) The 50Kg crate shown in figure rests on a
+horizontal plane for which the coefficient
+of kinetic friction is 0.3. If the crate is
+
+(4)
+
+subjected to a 400N towing force as shown,
+
+deterinine the velocity of the crate in 5 sec
+
+starting from rest.
+
+Q.7 Two particles of masses 10 kg and 20 kg are moving along a straight line towards each
+
+(A) _ other at velocities of 4 m/s and | m/s respectively. If e = 0.6, determine velocities after (7)
+impact. |
+
+(B) Explain élastic Impact, semi elastic impact and plastic impact. based on coefficient of
+
+(7)
+
+restitution
+
+3/3
+````
+
+## 2015-16 · Final-Exam · Sem 3 · paper 95e2b1c4b90d
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics 2015-16 Final.pdf`
+- Printed on paper: exam date: 30/11/2015
+- Text: ocr (4 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM?’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (Mechanical/ Civil) Year: II Semester: III
+Academic Year: 2015-2016
+
+Subject: Engineering Mechanics
+
+Marks
+Date: 30/11/2015 Time
+
+Durations
+Final-Examination
+
+instruction: Candiaates should read carefully the instructions printed on the question paper and
+cover of the Answer Book, which is provided for their use.
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Q-1: | Attempt Any Four Questions. {12 M]
+a) What is Moment Of inertia?
+b) Explain Perfect Trust with an Example.
+c) Explain ICR with reference to kinematics of rigid bodies.
+d) Explain D’Alembert Principle.
+
+e) Explain Principle of conservation of Energy.
+
+Q-2: a) Find MLL of the section shown in Figure about X- axis and Y-axis. [6M]
+
+. A
+Y-axis
+l¢——_—___—_-. 80 mm —__»
+
+7 A
+
+10 mm
+
+<> 10mm
+120 mm
+
+{ I 10 mm
+
+A X-Axis
+--- page 2 ---
+Q-2: b) Find M.I. of the section shown in Figure about X- axis and Y-axis. [6M]
+a¥ £7 Pooch ot
+
+RE25™ Dori,
+
+Q-3: a) Determine forces in the members meeting at the joint F of the truss, as shown in figure.
+[6M]
+
+3m
+
+SKN
+
+Q-3:   b) Determine forces in the member BC, BE and FE of the truss, as shown in figure. By
+
+method of section. [6M]
+20 KN
+
+20 KN 30 KN
+
+Q-4 a) A rectangular parallelepiped carries 4 forces as shown in the figure. Reduce force system to
+a resultant force applied at the origin and a moment around origin. OA = Sm, OB = 2m, OC =
+Y
+
+4m. [6 M]
+--- page 3 ---
+Q-4:   b) Figure shows space truss. Find the forces in the members AB, AC and AD of the truss
+located at joint A by a force F=40i-30j-20k (KN) [6 M]
+
+Q-5: a) Find the reaction at support A and B by the principal of virtual work. [4M]
+1000N
+500Nm
+J wee ®
+3m ale 2m _>|
+
+Dre article moves with a constant speed 0 m/s along a pat yrx/5. Fin the acceleration
+
+of the particle when x=3m. [4 M]
+
+Q-5: c) Acar starts from rest at t= 0 along a circular track of radius 200m. The rate of increase in
+speed of the car is uniform. At the end of 60 sec. The speed of the car is 24km/hy. Find the
+
+normal and tangential components of acceleration at time t= 30sec. [4 M]
+
+Q-6: a) A bar AB, 3m slides down the plane shown in fig. The velocity of end A is 3.6m/s to the
+
+right. Determine the angular velocity of AB and velocity of end B. [4.Mj
+
+pe B
+
+0
+ioe Va=3.6m/s
+
+20 — >
+
+A
+--- page 4 ---
+Q-7
+
+Q-7
+
+b) A vertical lift of total mass 750 kg acquires an upward acceleration 1.125 m/s’ starting
+
+from rest. Calculate the tension in the cable. [4M]
+
+c) The 50Kg crate shown in figure rests on a horizontal plane for which the coefficient of
+kinetic friction is 0.3.If the crate is subjected to a 400N towing force as shown, determine the
+
+velocity of the crate in 5 sec starting from rest. {4 M]
+
+400 N
+
+a) A block weighing 2500N rests on a level horizontal plane for which coefficient of friction
+is 0.20. This block is pulled by a force of 1000N to the horizontal. Find the velocity of the
+
+block after it moves 30m starting from rest. Use work energy method. [4M]
+
+1000 N
+-——>
+
+b) Two particles of masses 10 Kg and‘20 Kg are moving along a straight line towards each
+other at velocities of 4m/s and 1 m/s respectively. If e= 0.6, determine velocities after impact.
+[4M]
+
+c) Explain Elastic Impact, semi elastic impact and plastic Impact, based on coefficient of
+
+restitution. [4M]
+
+4),
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper c720919416d5
@@ -8454,556 +9003,6 @@ velocities of the balls after impact, when the impact is perfectly elastic.
 6/¢
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper d0014686ed00
-
-- Departments: Civil, Mechanical
-- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2015-16 Re Exam_d0014686ed.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 May 2018
-- Text: ocr (4 pages), mean OCR confidence 88.9
-
-````text
-\
-
-, , SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-4
-
-Programme: B. Tech Integrated (Mechanical/ Civil) “ Year: II - Semester: III
-
-Batch: 2015-16 ~
-‘ Academic Year: 2017-2018
-
-Subject: Engineering Mechanics +
-Marks: 60 <
-
-Date: 30 May 2018 - Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs) .
-
-No. of Pages: __ 0 Uf
-
-a
-
-- Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and cn the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. ‘1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q:1
-a. State and explain parallel axis theorem. (3)
-b. Write any four assumption made in analysis of truss. (3)
-c. Explain D’Alembert’s theorem. (3)
-d. Distinguish between elastic impact, semi elastic impact and plastic impact. (3)
-Q:2
-a. Determine the moment of inertia about centroidal axes for inverted T-section as shown in the (6)
-figure. 4Y
-i
-20cm
-
-i
-
-. =
-
-I oO
-
-8
-
-1 N
-
-1
-
-1
-
-5
-
-L = x
-
-350 cm
-
-1/4
---- page 2 ---
-b. For the unshaded area shown in the figure, determine the moment of inertia about line AB. (6)
-
-a
-- : fe or B
-4c 4cem cm
-Q:3 ‘
-a. A cantilever truss is loaded as shown in the figure. Use the method of joint to find out forces in (6)
-all members of the truss. . 20 kN 29KN
-; 6m |. 6m yc
-Ag
-y 60° 60° 60°
-F 60° 60° 609
-E D
-|
-
-<3 mt} 6m cal
-
-b. For the truss shown in the figure, calculate the forces in member JH, FH and EF by method of (6)
-
-section only.
-10 kN 30 KN 40 kN 40 KN
-D E
-¢ : ra 20 KN
-A
-a} at
-
-Q:4
-a. A force P1 =10 N in magnitude acts along direction AB where co-ordinates of point A and B (6)
-are (3,2,-1) and (8,5,3) respectively. Another force P2 = 5 N in magnitude acts along BC where
-C has co-ordinates (-2,11,-5). Determine (i) Resultant of P1 & P2 in vector form (ii) Moment of
-
-the resultant @ D (1,1,1).
-
-2/4
-
-)
---- page 3 ---
-b. Knowing that the tension in AC is 20 kN, determine the required value of tension Tag and Tap (6)
-
-so that the resultant of the three forces applied at A is vertical.
-
-» Cve)
-
-Q:5
-Using virtual work method, find the reactions at supports for the beam shown in figure. (4)
-700 KN
-
-}
-Hy
-
-+
-
-Pa om WT
-| |
-
-es It 2m
-
-500 KN
-
-|
-
-22 i+ (4/ 2) j , where r is in meter units and t isin (4)
-
-b. The position vector of a particle is r(t) =
-seconds. Determine when t = | sec the magnitude of normal and tangential component of
-
-acceleration.
-A speed of rotor decreases uniformly from 2000 rpm to rest in 300 seconds. Determine the angular (4)
-
-acceleration and the number of radians before coming to rest.
-
-Q:6
-4. The ends of the slender beam AB of length 2.5 m are
-constrained to remain in contact with a horizontal floor and
-a vertical wall respectively as shown in figure. If the end A
-has a velocity of 1.5 m/s determine the angular velocity of
-the beam and the velocity of its end B at the position shown
-
-in the figure.
-
-To 5) ©
-
-3/4
---- page 4 ---
-b. A body of mass 25 kg resting on a horizontal table is
-connected by string passing over a smooth pulley at the
-edge of the table to another body of mass 3.75 kg and
-hanging vertically as shown in the figure. Find the
-acceleration of the masses and tension in the string, if
-co-efficient of friction is 0.15.
-
-Q:7
-a. A block weighing 2500N rests on a level horizontal plane for which coefficient of friction is (6)
-0.20. This block is pulled by a force of 1000N acting at an angle of 30° to the horizontal. Find
-the velocity of the block after it moves 30 m starting from rest. If the force of 1000 N is then
-removed,how much further will it move? Use work energy method.
-
-b. Two balls having masses 10 kg and 20 kg are moving towards each other with velocities 4 m/s (6)
-and 1 m/s respectively. If e = 0.6, determine’ the velocities of ball immediately after their
-collision and loss of kinetic energy.
-
-4/4
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper dfa922ccf438
-
-- Departments: Civil, Mechanical
-- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2015-16 Re Exam_dfa922ccf4.pdf` (+1 identical copies)
-- Printed on paper: exam date: 29 November 2016
-- Text: ocr (6 pages), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (MECHANICAL/C ) Year: II Semester: III
-
-Academic Year: 2016-2017 : .
-ist OTR BP ~~
-Subject : Engineering Mechanics BATCH?2015-2
-
-Date : 29 November 2016 : J 10, 00am now 9
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the questio
-cover of the Answer Book, which is provided for their use.
-NB:
-
-1) Question No. I is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) ‘Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Q:1 Attempt following questions: 12
-
-a) Define polar moment of inertia. Also find out the same for hollow circular = 3.
-section.
-
-b) Check whether truss is perfect or imperfect? 3
-
-YF
-
-F
-
-aa i.
-
-c) Explain Dynamics of equilibrium. 3
-d) Find out reaction at A by using principle of virtual work. 3
-25 kN 7 kN
-A |
-
-N B
-jp et om pont
-
-+
-
-Paget's
---- page 2 ---
-Q:2 Attempt following questions: 12
-
-a) Find out moment of inertia of the section shown in the figure about 4
-
-centroidal axes. L 120 mm }
-tT 1
-
-80|m
-
-poy
-
-b) Find the second moment of area about the indicated axis OX for the lamina 4
-as shown, if quarter circle is removed.
-
-a | a“ |
-° i
-
-MS |
-: “ / R300
-Ceecimn was SiS | one eee, <
-500
-c) Using virtual work method, find the reactions at supports for the beam 4
-shown in figure. Note C is an internal hinges.
-
-10kNim 9 KNm /10 KN
-
-NSN AG
-
-Cc gop
-. 2m p im yplmy 2m 7
-71 71 71 4
-sateen al
-Q:3 Attempt following questions: 12
-a) Determine the magnitude and nature of the forces in the members AB, BF, 6
-
-AF, FE, BF and BE of the truss using method of joints. Tabulate the result.
-
-Page al6
---- page 3 ---
-e b) Truss is loaded as shown in the figure. Determine the nature and magnitude 3
-of forces in the members FG, GC and CB. Use method of section only.
-
-20KN
-
-20KN
-
-G
-
-c B
-Z 2m 2m
-
-c) A particle travels along a parabolic shaped track y = 10 + 0.4 x’ with a 3
-constant speed of 6 m/s. at x = 3 find out total acceleration of the particle.
-
-Page 3/6
---- page 4 ---
-Q:4 Attempt following questions: 12
-
-a) Figure shows a rectangular parallelepiped subjected to four forces in the 6
-direction shown. Find out resultant and moment at the origin.
-
-a
-b) A boom AB supports a load of 1000 N as shown. Neglect weight of the 6
-boom. Determine tension in cable BC and BD.
-e
-
-Page alé
---- page 5 ---
-Attempt following questions: 12
-
-a) A force P;=20 N in magnitude acts along direction AB where co-ordinates 4
-of points A & B are (3,2,-1) & (8,5,3) respectively. Another force P2= 10 N
-in magnitude acts along BC where C has co-ordinates (-2,11,-5).
-Determine:
-
-(a) The resultant of P1 & P2 in vector form.
-(b) The moment of each force about point D whose co-ordinates are (1,1,1).
-
-b) The position vector of a particle is given by r = 20? i+4? j where t is in 4
-seconds. When t = Isec, determine (i) the magnitudes of normal and
-tangential components of acceleration of the particle and (ii) the radius of
-
-&
-curvature of the path.
-c) A car starts from rest on a curved road of 250 m radius and accelerate at a 4
-constant tangential acceleration of 0.6 m/s’. Determine the distance and the
-time for which car will travel before the magnitude of total acceleration
-attained by it becomes 0.75 m/s’.
-Q:6 Attempt following questions: 12
-a) A wheel rotating about a fixed axis at 15 rpm is uniformly accelerated for 4
-60 sec during which it makes 30 revolutions. Find angular velocity in rpm
-at the end of the interval.
-&
-
-b) A bar AB which is 3m long, it slides down the plane as shown in the fig. 4
-The velocity of end A is 3.6 m/s to the right. Determine the angular velocity
-of AB and velocity of end B at the instant shown.
-
-Page 5/6
---- page 6 ---
-c) Block A of weight 5 N is connected to block B of weight of 10 N by an 4
-inextensible string. Find the velocity of block A if it falls by 0.8 m starting
-from rest. Take p= 0.2. Also find the tension in the spring.
-
-A
-
-Q:7 Attempt following questions: 12
-
-a) A body weighing 50kg is pushed up a 30° plane by a 400N force acting 6
-parallel to the plane. If the initial velocity of the body is 1.5m/s and
-coefficient of kinetic friction is u = 0.2, what velocity will the body have
-
-Be
-
-after moving 6m? ( use work energy principle.)
-
-b) Two balls having masses 20 kg and 30 kg are moving towards each other 6
-with velocities 10 m/s and 5 m/s respectively. If after impact the ball having
-mass 30 kg is moving with velocity 6 m/s to the right then, determine the
-coefficient of restitution between two balls.
-
-Page 6/6
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper ffe729a3296c
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_03/ENGINEERING MECHANICS/Engineering Mechanics Batch 2015-16 Re Exam_ffe729a329.pdf`
-- Printed on paper: max marks: 60; exam date: 27 November 2017
-- Text: ocr (4 pages), mean OCR confidence 86.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2017-2018 ‘
-
-Program: B. Tech Integrated (Mechanical / Civil) ¢ Year:IL « Semester:III -
-Batch: 2015-16 < ; Marks: 60.5% nn “
-Subject: Engineering Mechanics “ Time: 02. Ayo t0,03.00ip
-
-Date :27 November 2017 < Duration:3. bre * “ cARY
-
-RE - EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. .
-
-Q:1
-a. Explain Instantaneous center of rotation. (3)
-b. Define Moment of Inertia and radius of gyration. (3)
-c. Explain following terms:
-i) Impact
-ii) Co-efficient of restitution (3)
-d. Enlist and draw any three types of truss. (3)
-Q:2 ,
-4. Determine the moment of inertia about centroidal axes for I-section shown in the figure. (6)
-eh: ne
-|
-Oy
-2 cr S
-8
-3
-~
-8
-40 mm,
-CM
---- page 2 ---
-Sy
-
-b. | For the shaded area shown in the figure, determine the moment of inertia about line XX.
-
-X
-
-40cm 40 cn
-
-Q:3.°
-a. Determine the magnitude and nature of the forces for the members PQ, QR, RS and PU shown
-
-in the figure using method of joints. Tabulate your result.
-
-100 N oo
-
-R $
-100. 7 i 150
-
-i
-
-3m
-
-b. Truss is loaded as shown in the figure. Determine the nature and magnitude of forces in the
-members AB, AD and ED. Use method of section only.
-
-L 3m + 3m +
-+x .
-3m
-Fa
-A Cc
-AE iF
-2000 N 2000 N
-
-con)
-
-(6)
-
-(6)
-
-(6)
---- page 3 ---
-Q:4
-a. Find the resultant and moment about O of the forces as shown in the figure. Forces are in (6)
-Newton and distances are in meter.
-
-wT >
-
-(6)
-b. A vertical load of 1000 N is supported by three bars as shown. Find the forces in each bar.
-
-Point C, O and D are in the x-z plane while B is 1.5m above this plane.
-YA
-1
-
-ye
-
-Q:5
-a. Using virtual work determine all reactions of the supports shown in figure Note C is an internal (6)
-hinge. 30 KN
-
-yown a
-A at a] ) le
-wilt
-
-x
-24KNm
-
-: 1
-
-ex)/4
---- page 4 ---
-Q:6
-
-Q:7
-
-A particle moves according to the equation r(t)=50 cos4t?i + 50 sin4t? j where distance are in (6)
-cm and the time in sec. Find its velocity, tangential and normal accelerations.
-
-A prismatic bar AB with its ends A and B being constrained to move along the planes on which (6)
-it rests as shown in the figure. If the end A moves with constant velocity Va= 10m/s, find the
-angular velocity of the bar AB and velocity Vp of the end B of the bar at the instant when the
-
-bar makes an angle of 30° with the horizontal as shown.
-
-8 ‘
-
-Vs=10m/s
-
-Two blocks ‘A’ and ‘B’ are held stationary 10m apart on a 20° incline as shown. The co- (6)
-efficient of dynamic friction between the plane and ’A’ is 0.3 and for ‘B’ is 0.1. If the blocks
-are released simultaneously, find the time taken and the distance traveled by each block before
-they are on the verge of colliding.
-
-10 8
-aN
-\
-‘ VS
-
-aa 20°
-
-A block weighing 2500 N rests on a level horizontal plane for which co-efficient of friction is (4)
-0.2. This block is pulled by a force of 1000 N acting at an angle of 30° to the horizontal. Find
-
-the velocity of the block after it moves 30 m staring from rest. If the force of 1000 N is
-removed how much further will it move?
-
-Two balls having masses 20 kg and 30 kg are moving towards each other with velocities 10 m/s_ (4)
-and 5 m/s respectively. If after impact the ball having mass 30 kg, is moving with velocity 6
-m/s to the right then determine the coefficient of restitution between the two balls.
-
-A wheel has an initial clockwise angular velocity 7 rad/s and a constant angular acceleration of (4)
-2.5rad/s*. Determine the number of revolutions the wheel must undergo to acquire a clockwise
-angular velocity of 10 rad/s. what time is required?
-
-Pas ee
-
-C4 M7
-````
-
 ## 2013-14 · Re-Exam · Trim 2 · paper d5efef4e5f82
 
 - Departments: Common (all branches)
@@ -9011,6 +9010,7 @@ C4 M7
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS (ALL), B TECH 2013-14 RE EXAM BATCH 2009-10, 10-11, 11-12.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 /12/2013
 - Text: ocr (4 pages), mean OCR confidence 84.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -9057,7 +9057,6 @@ F acting at an angle of 30° with the horizontal as shown in fig. It has to cros
 obstacle of height of 3cm. Calculate the force F required to just cross the
 obstacles. The radius of the roller is equal to 30cm.
 --- page 2 ---
-A= 30 cm i = cm lta KR ee
 
 2223 LL ao,
 
@@ -9435,7 +9434,7 @@ aa 1500 mm before coming to rest. If ps= 0.25 [k= 0.2 find the time of travel. [
 Page 2 of 4-
 ````
 
-## 2012-13 · Re-Exam · Trim 2 · paper b1f46a9932be
+## 2013-14 · Re-Exam · Trim 2 · paper b1f46a9932be
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -9593,93 +9592,7 @@ Find the velocity of each body after the impact if the coefficient of restitutio
 f —?
 ````
 
-## 2012-13 · Re-Exam · Trim 2 · paper 77499efdd211
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/Engineering Mechanics Batch 2012-2013 Re Exam (1).pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3; exam date: 20/06/2013
-- Text: text (4 pages)
-
-````text
-\
-" -5
-9.   L:
-SVKMysNMIMS
-Mukesh Pate1 School of Technolo& Management i%
-Programme: d   B.Tech [ALLSTREAMS)
-Academic Year :2012-2013   J *   r
-Batch:   2012-2013
-Subject:   Engineering Mechanics   Marks:
-Time:   10.00a m To 1.00 p m
-Date:   20/06/2013.   Duration: 3hrs.
-Re - Examination
-Question number Iis compulsory.
-. Attempt any FOUR questions from remaining six questions.
-Figureto the right of the question paper indicatefull marks.   -   .   .
-Assume acceleration due gravity value 9=9.8 !mlsZ   . - 2 .ir %   -- ;: .   ..   . .   -   :,   ., . .
-* . Assume suitable data wherever necessary   r-
-Answers - to sub-questionsshould be grouped together. . _ , ,'.,<   .. .,-   .   .   . .* ..   ..,r. -. :
--.   - , . . ~ .   .,. . ,.. . . .,."   ,., . , ~   . .-..-~~... .   ~ ...= .   .
-1.Solve   - . *. =   .   - .. . = .   .
-.@
-a) Find resultantof the force system.   ..   [MI
-b) A smooth circular cylinder of weight W and radius R rests in a V shape groove whose sides
-are ind~nedat angles a-20. and P=60 to the horizontalas shown. Find the reactions RA and Re at
-the points of contact.   [MI
-c) For the block shown in Figure, find the minimum value of P.whiLh will just disturb the
-equilibriumof the system.   [MI
---- page 2 ---
-d) A particle moving in the+ve x direction has an acceleration. a=100 -4v2 m/s2. Determine. the   -   ,.,&S   +,+:.-.
-time interval and displacement of a particle when speed changes from 1mls to 3mls.   1041   .   *
-e) A vertical lift of total mass 750kg acquires an upward velocity of 3mls over a distance of 4m
-moving with .. . constant __ -   acceleration starting from rest. Calculate the tensionln the cable.   [04]
-2. Solve
-a) Two identical rollers each of weight 500N and radius'r'are kept on a right angle frame ABC having
-negligible weight. Assume smooth surfaces. Find reactions induced at all contact ,   . I   ,   . surfaces. ,   [lo]
-n
-b) Assuming the values for p=0.25 at the floor and 0.3 at the wall and 0.2 between the blocks, find the
-mini. value of horizontal force P applied to the lower block that will hold the system in equilibrium.   [lo]
-.. -
-5
-3. Solve
-I
-a) Find the centroid of the shaded area.   [I01
---- page 3 ---
-. . .:- ..:-,.,,:-,   := . . I- _- ..   ..
-4. Solve "'   . -   .
-a) Findthe suppott readions for the beam loaded and supported as shown in figure.   [lo],
--.>   , .   .   '   ~. .   . .   ' i i   <
-..
-. . . . . . , . . -
-A
-b) In a crank and connecting rod mechanism, the length of the crank and the connecting rod are 300mm and
-1200mm respectively. The crank is rotating at 180 rpm. Find the velocity of piston. when the crank is at an
-angle of 45 with the horizontal.   [lo]
-Connecting
-piston
-5. Solve
-a) A point moves along path y=x2/3 with a constant speed of 8mIs .what are the x and y components of its velodly
-when x=3 ?And what is the acceleration of the point at this instant?   [lo]
---- page 4 ---
-b) Referring to the truss shown in figure. Find
-i) Reactions at Dand C.
-ii) Zero force member
-iii) Forces in the members FE,EC and DC by method of sections
-iv) Forces in other members by method of joints.
-6. Solve
-a) Force F=80i+ 50j60k passes through a point A (6.2,6). Compute its moment about a point B (8,1.4).   [Io]
-b) A body of mass 2kg is projected upwards from the surface of the ground at t=O with velocity
-20mb.At the same time another body of mass Zkg is dropped along the same line from a height
-of 25m. If the collide elasticity, find the velocities of body A and B just after collision.   [lo]
-7. Solve
-a) The car moves in a straight line such that for a short time its velocity is defined by v= (9?+2t) m/s. where t is in
-seconds. Determine its position and acceleration when t=3 see.   [I01
-I b) At the position shown in figure, the crank AB has angular velocity of 3radlsec clockwise. Find the velocity of
-slider C and the point D at the instant shown. AB=lOOmm.   [I 01
-````
-
-## 2012-13 · Re-Exam · Trim 3 · paper bf7120afca03
+## 2013-14 · Re-Exam · Trim 3 · paper bf7120afca03
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -9856,7 +9769,7 @@ kinetic energy. When
 w
 ````
 
-## 2012-13 · Re-Exam · Trim 3 · paper cbbb6eb12998
+## 2013-14 · Re-Exam · Trim 3 · paper cbbb6eb12998
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -10017,6 +9930,559 @@ Ti
 13
 ````
 
+## 2012-13 · Final-Exam · Trim 3 · paper 866812c6c1a7
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/Engineering Mechanics Final 12.pdf`
+- Printed on paper: exam date: 10/05/2013
+- Text: text (4 pages)
+
+````text
+\a   SVKM's NMIMS
+Mukesh Pate1 School Of Technolorn Management & Engineering
+P r o g r ~ m e : MBA (Tech) -ALL STF33AM   Year:   I   Trimester:   I11
+I   Academic Year : 2012-2013   I
+I
+Subject:   ENGINEERING MECHANICS   1
+Time:   ';4d(36lahi~&1.00~h
+Date:   10/05/2013   Duration: k. -.d-fiy
+Final - Examination   ' ~ 1 u~\~~:: ~ s 9 ,--'
+1 /
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer ~ook;which is prdvided fbr their use.
+NB:-
+1. Question No.1 is compulsory.
+2. All questions carry equal marks.
+3. Out of remaining questions, attempt any four questions.
+4. Answer to each new question to be started on a fresh page.
+5. Figures in brackets on right hand side indicate full marks.
+Q.l [a]   State and prove the Varignon's theorem.
+[b]   State the different laws of Coulomb friction.
+[c]   State and prove the Parallel axis theorem.
+[dl   With the help of neat diagram explain Direct impact and Indirect impact.
+Q.2 [a]   Give the classification of Force system.
+[b]   Find the support reaction at A and B of a structure as shown in Fig (a)
+Fig (2)   - .
+[f]   Three cylinders are piled up in a rectangular channel as shown in figure (b) Determine the
+reaction between the cylinder A and vertical wall of the channel, if the weight of cylinder A, B
+& C are 150 N, 400N and 200 N respectively and radii are 4 cm, 6cm and 5 cm respectively.   I
+--- page 2 ---
+Fig (b)
+Find the support reactions at A and E and also find the forces in BC, BF, and FG for the truss as   [12],
+shown in figure (c).
+Fig(c)
+Ib]   Give the assumptions for truss analysis and also explain perfect frame and imperfect frame with
+examples.   ~ 4 . 1
+[c]   Explain the method of joint for truss analysis.
+Q.4 [a] Determine the least valve of P to cause motion to impend rightwards. Assume coefficient of   [lo]. 1
+friction under the block to be 0.2 and pulley to be frictionless as shown in figure (d).   I
+P
+#
+Fig ( 4   I
+[b]   Determine the force required to start the wedge as shown in figure (e) if angle of limilting   I
+--- page 3 ---
+friction for all surfaces is 15'
+Fig (e)
+[c] A load of 2 kN is to be lifted by a screw-jack having threads of 10 mm pitch. The efficiency of
+jack at this load is 50%. Determine the effort applied at the end of a handle of 50 cm length.   [04]
+Q.5 [a] Determine the coordinate of the centroid of the shaded area shown in figure ( f ) All [lo]
+dimensions are in mm
+1'
+fbl   Fig(f)   I
+Find the moment of Inertia of the cross section of an iron beam shown in figure (g) with respect [lo]
+to the centroidal axes. All dimensions are in rnrn   I
+4 TJ-
+Q.6 [a] The position of a particle move along a straight line is defined by s = t3 - 6t2 -?6"+40, [lo]   1
+where's' is measured in meter and't' in second. Determine:(a) time at which the velocity   I
+,   will be zero; (b) the position and distance travelled by the particle at that time; (c) the   I
+,   acceleration of the particle at that time; and (d) the distance travelled by the particle when   1
+t = 4 s t o 6 s .   I
+[b] A basketball player likes to release his fouls shots at an angle 4S0 to the horizontal as [08]   1
+shown in figurem) what initial speed uo will cause the ball to pass through the center of the   I
+3llr
+--- page 4 ---
+rim? What will be the maximum height h the ball reaches above the floor?
+Fig (h)
+Defined the term for projectile motion
+[cl
+Trajectory, projectile, angle of projection.
+4.7 [a]   State the D' Alembert principle.   [Ozl
+Tb] Two bodies directed in line and 10 m apart are held stationary on an inclined plane having   [08]
+inclination of 200. The co-efficient of friction between the plane and lower body is 0.08 and
+that between the plane and the upper body is 0.05. Tf both the bodies are set in motion at
+the same instant, calculate the distance through which each body travels before they meet
+together.
+[c]   Two weights 800 N and 200 N are connected by a thread and move along a rough   lo51 -
+horizontal plar,e under the action of a force 400 N applied to the first weight of 800 N as
+shown in figure (i). Determine the acceleration of the weight and the tension in the thread
+using D' Alembert's principle. Take p = 0.3
+Rough Pline
+Fig (i)
+[dl   A ball of mass 100 grn stnkes directly another ball of same mass, which is at rest. The first ball   [ O ~ I
+is reduced to rest by the impact. Find the loss of kinetic energy if the co-efficient of restitution is
+0.707
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper d65de019cc18
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/Engineering Mechanics Batch 2009-10,10-11,11-12 Re Exam(1) (1).pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 20/06/2013
+- Text: mixed (3 pages), mean OCR confidence 65.8
+
+````text
+SVKM's NMZA6S
+Mnkesh Pate1 School of Technolonv Management g
+B.Tech (ALLSTREAMS)   Y e w   I
+Academic Year :2012-2013
+(   Batch:   2009-10,2010-11,201I-IZ
+~ ~ e c t : Engineering Mechanics
+Date:   20/06/2013   Time: Duration: 3hrs.   o 1.00 pm
+Re - Examination
+NOTE:
+Q.1 is Compulsory.
+Attempt any four questions out of remainingsix questions.
+Answers to all sub questions should be grouped together.
+Figures to the right in bracket indicate full marks.
+Assume suitable data if necessary and state the same clearly.
+Q.l(a) Explain different systems of forces with examples.   (05)
+(b) State laws of static friction.   (05)
+(c) Replace the loading on the frame by a force - couple system at point A. (10)
+Refer Figure 1.
+Q.2 The motion of a particle moving in a straight line is given by the expression (10)
+(a) S =t3-3 t2+2t +5 where S is in meters and t is in seconds. Determine
+i.   The velocity and acceleration at t =5 seconds.
+ii. Maximum and minimum velocity and corresponding displacement
+iii. Time at which velocity is zero.
+(b) At a given instant, the lOON block A is moving downward with a speed of (10)
+3 mlsec. Determine its speed 10 second later. Block B has a weight 40 N and the
+coefficient of friction between it and the horizontal plane is 0.2. Neglect the mass
+of the pulley and the chord. Use D'Alembats principle. Refer Figure 2.
+Q.3 Block A weighs 3000N. The chord attached to A passes over a smooth pulley and (08)
+(a) supports a weight equal to 800 N. The value of coefficient of friction between A
+and the horizontal plane is 0.25. Determine valud. of P if motion is impending
+towards left. Refer Figure 3.
+(b) Determine the forces in the members BD, CD and CE by method of section and (12)
+forces in the remaining members by method of joints. Refer figure 4.
+Q.4 A ball rebounds at A and strikes the inclined plane at point B at a distance 76 m. (12)
+(a) If the ball rises a maximum height of 19m above the point of projection, compute
+the initial velocity and the angle of projection. Refer Figure 5.
+(b) A ball falls from a height of lm, hits the ground and rebounds with half its (08)
+velocity just before impect. Then after rising, it falls and hits the ground. And
+Page 1of 3
+--- page 2 ---
+again rebounds with half its velocity just before impact, and so an.Determine
+total distance travelled by the ball till it comes to the rest on the ground.
+Q.5 A rod AB 26 rn long and leans against a vertical wall. The end A on the floor is (08)
+(a) draw away from the wall at a rate of 24 mlsec. When the end A of the rod is 10
+m away from the wall, determine the velocity of end B sliding down vertically
+and the angular velocity of rod AB.
+(b) Determine the support reaction at B and the load P for the beam reaction at (12)
+support A is zero. Refer figure 6.
+Q.6 For a system of forces acting on the lever, determine the magnitude, direction and (12)
+(a) the point of application of the resultant w.r.t. 0.Refer figure7.
+@) Two 6' wedges are used to push a block horizontally. Calculate the minimum (08)
+force required to push the block of weight 10 kN. Trtke p = 0.25 for all contact
+surfaces. Refer figure 8
+4.7 Determine themoment of inertia of the shaded area about centroidal X-axis and (15)
+(a) Y-axis. Refer figure 9.
+(b) For the force system, determine the required value of a if the resuitant of tbree (05)
+forces is to be vertical and the correspondibg magnitude of the resultant. Refer
+I-''--..-- figure - 10.
+600 d m
+Figure 2
+Figure
+1&:---
+6 ?   - .   -
+, , -   < , ,,
+Figure 3
+Figure 4
+Page 2 of3
+--- page 3 ---
+24 Keon
+
+y lokn P
++o" ttl |
+8 a c
+4
+
+mL
+BB
+
+. 2m pint | 32m Lim ,
+4 a r
+
+4 7
+1000N
+Figure 8
+
+Figure 6
+
+700, P
+
+Page 3 of 3
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 77499efdd211
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/Engineering Mechanics Batch 2012-2013 Re Exam (1).pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 20/06/2013
+- Text: text (4 pages)
+
+````text
+\
+" -5
+9.   L:
+SVKMysNMIMS
+Mukesh Pate1 School of Technolo& Management i%
+Programme: d   B.Tech [ALLSTREAMS)
+Academic Year :2012-2013   J *   r
+Batch:   2012-2013
+Subject:   Engineering Mechanics   Marks:
+Time:   10.00a m To 1.00 p m
+Date:   20/06/2013.   Duration: 3hrs.
+Re - Examination
+Question number Iis compulsory.
+. Attempt any FOUR questions from remaining six questions.
+Figureto the right of the question paper indicatefull marks.   -   .   .
+Assume acceleration due gravity value 9=9.8 !mlsZ   . - 2 .ir %   -- ;: .   ..   . .   -   :,   ., . .
+* . Assume suitable data wherever necessary   r-
+Answers - to sub-questionsshould be grouped together. . _ , ,'.,<   .. .,-   .   .   . .* ..   ..,r. -. :
+-.   - , . . ~ .   .,. . ,.. . . .,."   ,., . , ~   . .-..-~~... .   ~ ...= .   .
+1.Solve   - . *. =   .   - .. . = .   .
+.@
+a) Find resultantof the force system.   ..   [MI
+b) A smooth circular cylinder of weight W and radius R rests in a V shape groove whose sides
+are ind~nedat angles a-20. and P=60 to the horizontalas shown. Find the reactions RA and Re at
+the points of contact.   [MI
+c) For the block shown in Figure, find the minimum value of P.whiLh will just disturb the
+equilibriumof the system.   [MI
+--- page 2 ---
+d) A particle moving in the+ve x direction has an acceleration. a=100 -4v2 m/s2. Determine. the   -   ,.,&S   +,+:.-.
+time interval and displacement of a particle when speed changes from 1mls to 3mls.   1041   .   *
+e) A vertical lift of total mass 750kg acquires an upward velocity of 3mls over a distance of 4m
+moving with .. . constant __ -   acceleration starting from rest. Calculate the tensionln the cable.   [04]
+2. Solve
+a) Two identical rollers each of weight 500N and radius'r'are kept on a right angle frame ABC having
+negligible weight. Assume smooth surfaces. Find reactions induced at all contact ,   . I   ,   . surfaces. ,   [lo]
+n
+b) Assuming the values for p=0.25 at the floor and 0.3 at the wall and 0.2 between the blocks, find the
+mini. value of horizontal force P applied to the lower block that will hold the system in equilibrium.   [lo]
+.. -
+5
+3. Solve
+I
+a) Find the centroid of the shaded area.   [I01
+--- page 3 ---
+. . .:- ..:-,.,,:-,   := . . I- _- ..   ..
+4. Solve "'   . -   .
+a) Findthe suppott readions for the beam loaded and supported as shown in figure.   [lo],
+-.>   , .   .   '   ~. .   . .   ' i i   <
+..
+. . . . . . , . . -
+A
+b) In a crank and connecting rod mechanism, the length of the crank and the connecting rod are 300mm and
+1200mm respectively. The crank is rotating at 180 rpm. Find the velocity of piston. when the crank is at an
+angle of 45 with the horizontal.   [lo]
+Connecting
+piston
+5. Solve
+a) A point moves along path y=x2/3 with a constant speed of 8mIs .what are the x and y components of its velodly
+when x=3 ?And what is the acceleration of the point at this instant?   [lo]
+--- page 4 ---
+b) Referring to the truss shown in figure. Find
+i) Reactions at Dand C.
+ii) Zero force member
+iii) Forces in the members FE,EC and DC by method of sections
+iv) Forces in other members by method of joints.
+6. Solve
+a) Force F=80i+ 50j60k passes through a point A (6.2,6). Compute its moment about a point B (8,1.4).   [Io]
+b) A body of mass 2kg is projected upwards from the surface of the ground at t=O with velocity
+20mb.At the same time another body of mass Zkg is dropped along the same line from a height
+of 25m. If the collide elasticity, find the velocities of body A and B just after collision.   [lo]
+7. Solve
+a) The car moves in a straight line such that for a short time its velocity is defined by v= (9?+2t) m/s. where t is in
+seconds. Determine its position and acceleration when t=3 see.   [I01
+I b) At the position shown in figure, the crank AB has angular velocity of 3radlsec clockwise. Find the velocity of
+slider C and the point D at the instant shown. AB=lOOmm.   [I 01
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 5d5cd88be154
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/Engineering mechanics BATCH 2009-10,2010-11 RE EXAMscan0020.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08/02/2013
+- Text: ocr (4 pages), mean OCR confidence 77.2
+
+````text
+SVKM’s NMIMS Ga
+Mukesh Patel School Of Technology Management & Engi aa £
+
+Programme: B-Tech - All Streams Year: I Trimester: II
+Academic Year : 2012-2013 r s ey
+Batch: 2009-10, 2010-11 * yi
+Subject: Engineering Mechanics Marks: 100
+Time: 2.00 pm To 5°
+Date: 08/02/2013 Duration: 3 hrs.
+
+Re - Examination
+
+¢ Attempt any FIVE questions.
+
+« Answers to all sub questions should be grouped together.
+
+¢ Figures to the right indicate full marks.
+
+« Assume suitable data if necessary and state the same clearly.
+
+Q.1 (a) Answer the following.
+i. Describe different system of forces with examples. (04)
+ii. State the laws of friction. (04)
+
+Q.1(b) A rigid bar AB is subjected to a system of parallel forces as shown in figure 1. (12)
+Reduce the given system of forces to
+i. Asingle force
+ii. Force couple system at A
+iii. Force couple system at B
+Q.2 (a) Three spheres each with 2 kg mass and each 350 mm in diameter rests in a box (10)
+760 mm wide as shown in figure 2. Determine
+i. The reactions developed by B on A
+ii. The reaction developed by wall on C
+iii. The reaction developed by floor on B
+
+Q.2 (b) A ladder of length 5 m is placed against a vertical wall. The weight of the ladder (10)
+is 300 N. The bottom of the ladder makes an angle of 45° with the floor. The
+coefficient of friction between the floor and the ladder is 0.5 and that of between
+wall and ladder is 0.4. In addition to its own weight, the ladder has to support a
+man of weight 500 N at 1 m along the ladder from the top. Determine the
+minimum horizontal force to be applied at the floor level, to prevent the ladder
+from slipping.
+
+Q.3 (a) Determine the support reactions and the force F required to start the movement (10)
+of the wedges as shown in the figure 3. The angle of friction for all contact
+surfaces is 17°. The weight of the body A is 50N. ignore the weight of wedge B.
+
+Q.3 (b) Determine the forces developed in the members of a pin jointed frame loaded as_ (10)
+shown in figure 4.
+
+Q.4 (a) Determine the unknown forces F1 and F2 for the force system shown in figure 5. (08)
+
+/4
+--- page 2 ---
+Q.4 (by Calculate the moment of inertia of the L section shown in figure 6 about the (12)
+horizontal and vertical axes passing through CG.
+s Q:5 (a) The motion of the particle is defined by the following relation. (12)
+™ x=t-6t? -15t +40, where x is in meters and t is in seconds. Determine
+i. The time at which the velocity will be zero
+ii. The position and the distance travelled by the particle at that time
+iii. The acceleration of the particle at that time
+iv. The distance travelled by the particle from t = 4 second to t = 6 seconds.
+
+Q.5 (b) An aircraft moving horizontally with a speed of 720 kmph at a height of 800 m, (08)
+towards a target on the ground releases a bomb which hits the target. Find the
+time required for the bomb to reach the target on the ground and the horizontal
+distance of the aircraft from the target. Assume that the aircraft is moving
+parallel to the ground.
+
+Q.6 (a) Blocks A and B shown in figure 7 are constrained to move in the fixed slot and (10)
+are connected by a 2 m long rod. The velocity of B is 3 m/sec towards right.
+Determine the velocity of A at this instant and the angular velocity of the bar.
+
+Q.6 (b) Find the velocity of the balls shown in figure 8 after impact, if e = 0.6. (10)
+
+Q.7 (a) Blocks A and B of mass 10 kg and 30 kg respectively are placed in a 30° (12)
+inclined plane as shown in figure 9. The coefficient of friction between the block
+A and plane is 0.25 and that between the block B and plane is 0.15. What is the
+force between them as they slide down? What is the acceleration of the blocks?
+
+Q.7 (b) A beam AB 6 m long is loaded as shown in figure 10. Determine the reactions at (08)
+
+A and B.
+| 40 kN 20 KN
+| \
+|
+| |
+A xe D } B
+t im | 2m 2m |
+| | | |
+1 i
+| |
+|
+IS kN 30 KN
+‘ .
+Figure 1
+
+fA
+--- page 3 ---
+760 mm
+
+®
+
+fen 4cm re i ®
+
+Figure 6
+
+Cc
+A420" ®@ 60" 3078
+y D ® a
+7 5m WikN
+7.5m >
+Ra Re
+Figure 4
+@—>| k-2em
+=
+1Qcm 0)
++
+| < do
+\ iO) ecm
+
+>} —»—
+
+B 7
+SAAS CS SS 77
+
+Figure 3
+
+Figure 7
+--- page 4 ---
+Wa von ~
+
+(a)x (Up) x Line of Impact
+aw ( ‘ a (updy
+(ua)y
+=12m/s ta= lems
+Figure 8
+ak
+‘ \
+\
+\
+
+} 500
+
+Figure 9
+
+5 kN 4kN
+
+5 kN
+15 9
+
+Rax c D 4
+
+Figure 10
+````
+
+## 2012-13 · Re-Exam · Trim 3 · paper bb92162bbef6
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/ENGINEERING MECHANICS III MBA TECH 2008-09, 2010-11, 2011-12 RE EXAM.pdf`
+- Printed on paper: duration hours: 3
+- Text: text (4 pages)
+
+````text
+1 \ - - - p . - ..   ,~ V.-~-, -   ~   ..=--
+- QFp\ +.I.
+.   ... .
+\ \   "
+Programme:
+I
+'   , Academic. Year :2012-2013
+Batch:   2008-09,2010-11,2011-12.
+1   Subject:   Engineering Mechanics,
+Time:   10.00 am To 1.00 pm
+Duration: 3 hrs.
+Re - Examination
+--   -. -
+rnstructibns: candidates should read carefullv the instructions minted on theouestion
+I   paper and on the cover of the Answer Book, bhich is providedfor their use.   A
+1   NB:
+a) Question 1 is compulsory.
+,. . -. .   Solve any FOUR from remaining Questions.
+'   .:: , .-. . . . ,:,c) Assume suitable data where necessary.
+'   : d) Figures to right indicate marks.
+e) Answer to each new question should be started on a fresh new page
+i   Q. 1:Answer Any Four from the following.
+' .   a) Determine the resultant of the following system of parallel forces.
+b) Determine unifqrm reaction from the surface on cylindrical log as shown in Fig.
+5 I   below. The self weight of log is assumed to be 1300 Nlm. There are two point loads of
+I   t   8000N each acting 1 m from each end.
+c)State and explain: i) D' Alemberts principle ii)Work Energy principle.
+d) A body sliding on smooth inclined plane requires 4 seconds to reach the bottom
+starting from top. Find the time it takes to cover one fourth distance starting from rest at
+top.
+e) Find X coordinate of Centriod of the Cut Quarter Circular area shown
+Yf
+--- page 2 ---
+f) Draw neat figure of Screw Jack & Discuss its use.
+Q.2a) Reduce the system to a force couple system at 0.
+4Y
+.   . .   .
+4mN   (10)
+b) To move a boiit uniformly along the river at a given speed a resultant force R = 520N
+is required. Two men pulling with forces P and Q by means of ropes to do this.
+The ropes makes angles of 30"and 40"respectively with the sides of the river.
+(a) Determine the forces P and Q
+@) If el=30" find value of 82 such that.the force in the rope Q is minimum.
+What is the minimum force Q?   (10)
+qp   R=520N
+-
+I   40.
+I   Q
+4.3:a) Two homogenous solid cylinders of identical weight of 5000N and radius of 0.4
+m are resting against inclined wall and sloping ground as shown. Assuming smooth
+surfaces find the reactions at A, B and C of the contact points.   (8)
+b)   For the truss shown.
+1. Identify the members carrying zero force.
+2. Find forces at joints A. C, D and G by method of joints.
+3.Find support reactions.
+4.Find forces in CD. CG, FG, and CF using method of section.   (12)
+--- page 3 ---
+.   aDw   60w
+Q.4:a) TWQ jndbnedplanes AC and BC inclined'at'60° and 30' to the horizontal meet at
+pridge C. P; l;dass of la0 kg rests on the inclined plane BC and is tied to a rope which
+p p ~ ~ ~ ~ asm~q.th o v e i Pulley at the ridge, the other end of the rope, being connected to a
+. Qo6k ofWkg:m@s ,.::   ..   resting on the.plane AC, Determhe the least and greatest value of W
+forI&. .   .   whole system Take g= 10m/sec2.   (10)
+A c .
+, .
+30.
+. . ~ . ?... 8,. . .
+.   :. -. .   b)Two 8' wedges of negligible weight are used to move 1000 kg block. If p =0.25 at all
+,   . .. .   surfaces of contact. Determine the smallest value of P which should be applied as shown.
+! ..... -8:. '. . ; . I   ' .: . . ,.:. i+Z . . ..,: ;   1. . - z - - - L L , - > . .
+,   ,
+Q. 5: a) Find moment of Inertia of shaded area.
+--- page 4 ---
+/'
+b) A stone is thrown vertically up from tbe top of the tcswer 40 m high with a velocity of
+20 d s . Three seco~dslater another stone is &own verticalIy up h m theground with a
+velocity of 30 mls. Calculate when and where the ttva stonesd l meet fromthe foot of
+the tower.   (10)
+Q. 6 :a) A pnmanfues abullet witha velocity of 100mls, 50' upwards from the top of
+a hill 300m high to hit a bird The bullet misses its target wd W y lands on the ground.
+Calculate :i) Maximum height reaohed by &e bullet above the ground; ii)Total time of
+flight;ui) H~~*wntal range of bullet & ivj Velocity d t h which the bullet hits the ground.
+(12)
+b) A im diameter wheel has an initial clockwise angular velocity of Sradls and a
+constant angular acceleration of 1.5 rad/sZ. Derermine the number of revolutions it must
+make and the t h e required to acqui~e pr clockwise sngular velocity of 30 r d s . Also fin$
+the magnitude Oflinear velocity and linear acceleration of a pint on the rim of the wheel
+at t 4.   @I
+Q.7:a) Two blaoks, shown in ffgure starts h m rest. If the cord is   inextensiblo, friction
+and inertia of pulley are negligibIe, calculate pccekration of each blo~k and tension in
+. each chord.   . (10)
+- S   L.
+b) A 30N block is released from rest. It slides down a rough inclined surface
+(@.25).Detmnine maximum velocity of theblock and m.compression of spring.
+(10)
+I
+````
+
 ## 2012-13 · Re-Exam · Trim 3 · paper 2607edad0b21
 
 - Departments: Common (all branches)
@@ -10092,6 +10558,81 @@ Q.7.b) A bar is rotating at an angular velocity of 5 radlsec. The mass centre is
 at 100dsec. Determine velocity of the top most point of the bar at this instant, [lo]
 ````
 
+## 2012-13 · Re-Exam · Trim 3 · paper 42f0d1ac4570
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/Engineering Mechanics Re Exam 04.pdf`
+- Printed on paper: duration hours: 3; exam date: 10/05/2013
+- Text: text (4 pages)
+
+````text
+\
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management bL&yaX ' r
+Programme: MBA (Tech) -ALL STREAM   Year:   I   ~rimesterl\l -"   I11 x 1 P S T M E ) .f4 -   .
+Academic Year : 2012-2013   2   I   I   A   Is
+Batch:   2008-09,2010- 11,20 11- 12   ,$.- /)   JJ&
+1   Subject:   ENGINEERING MECHANICS   Marks:   @Q--J   fl *
+Time:   \ 6 ' 8 0 ; ~ v \ ! d 7
+Date:   10/05/2013   Duration:   3   hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+a) Question 1 is compulsory.
+b) Solve any FOUR from remaining Questions.
+c) Assume suitabie data where necessary.
+d) Figures to right indicate marks.
+e) Answer to each new question should be started on a fresh new page
+Q. 1 : Answer any four from the following.   (20)
+a) State and prove parallel axis theorem.
+b) Define angle of friction and explain the laws of friction.
+c) State the assumptions made in the analysis of plane truss.
+d) State and Prove Varignon's theorem.
+e) Derive the equations of motion.
+1   f ) Explain D' Alembert's Principle.
+g) Derive the relation of Work Energy Principle
+Q.2: a) A thin ring of mass 3 kg and radius 140 rim is held against a friztiocless v~z!!
+by a string of length 120 mm .Find the distance d and tension in the string.
+--- page 2 ---
+b) Two blocks A (100 N) and B (150 N) are resting on ground as shown in the figure.
+Coefficient of friction between ground and block B is 0.10 and that between block R and
+A is 0.30. Find the minimum value of weight 'P' in the pan so that motion starts. Find
+whether B is stationary w.r.t. ground and A moves or B is stationary with
+respect to A.   (10)
+Q. 3: a) Determine the forces in all the members of the truss by method of joints. (1 0)
+/ I k N   llkN
+b) Two 10" wedges of negligible weight are used to move a block of mass 100 kg. If p
+= 0.25 at all surfaces of contact, find the smallest force P that should be applied to
+one of the wedges.   (10)
+Q. 4: : a) A uniform steel plate weighing 500 N is cut in a shape as shown
+Find Centroid w.r.t.A and support reactions.   (10)
+--- page 3 ---
+b) Find moment of Inertia about axis AB.
+Que5:a) A small part in a mechanism travels on straight line such that its position is
+x = t4 - 10 t2 + 24,where x is in m and t is in sec. Determine when velocity is
+zero, when acceleration is zero, minimum speed reached by particle and distance
+traveled in 3 sec.   (10)
+b) A car enters a curve road in the form of quarter circle of length 300 m at a speed
+of 20 krnph and it leaves the curve at 40 krnph. If the rate of change of speed is
+uniform along the curve, Determine resultant acceleration at both ends.   (1 0)
+Q. 6: a) A box is released from a helicopter moving horizontally with constant velocity
+v from a certain h from the ground takes 5 sec to reach the ground at an angle
+1   75' as shown. Determine the horizontal distance x and the height h and the
+velocity u.
+(10)
+--- page 4 ---
+b. Determine the acceleration of block-B and the distance it travels in t seconds
+after starting from rest. Assume frictionless pulleys.   (10)
+/ / ///////,///////,/,////
+Q. 7: a) A block of 20 kg is released from rest on the top of inclined plane at A. It
+travels on incline and come to rest at C. Find the distance x it travels and its
+maximum velocity attain during the motion. Take p = 0.3 for all surfaces. (10)
+b) At the position shown in figure, the crank AB has angular velocity of 3 rad/s
+clockwise. Find the velocity of slider C and the point D at the instant shown.   (10)
+````
+
 ## 2011-12 · Exam not stated · Trim 2 · paper 2167941ef9ff
 
 - Departments: Common (all branches)
@@ -10099,6 +10640,7 @@ at 100dsec. Determine velocity of the top most point of the bar at this instant,
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS 2011-12.pdf`
 - Printed on paper: exam date: 04/02/2012
 - Text: ocr (4 pages), mean OCR confidence 83.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 es
@@ -10250,7 +10792,6 @@ Q. 7 b) Two smooth spheres A & B having a mass of 2kg and 4kg respectively colli
 with initial velocities of 2 m/s. & 4 m/s. as shown. If coefficient of restitution is 0.8,
 determines the veiocities of each sphere after collision. (18)
 
-oe og 2 2 ok ok oo 0 oo oo ok oo ok Ok oO OK °K oe oe oi 2 2k ok oo BO 2 OK OK
 ````
 
 ## 2011 · Exam not stated · Trim 2 · paper 22bdc1d5ae21
@@ -10391,6 +10932,431 @@ D A ) & Cc
 Figure 40.
 
 3/3
+````
+
+## 2011-12 · Exam not stated · Trim 2 · paper 5371ba1e3ea3
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2008-09,10-110001M (1).pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2012
+- Text: ocr (3 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineerin
+
+Programme: MBA Tech Year: I Trimester: III
+Academic Year : 2011-2012
+
+, Batch: 2008-09 froio-it
+\ Subject: Engineering Mechanics Marks: 100}| x(
+Time: 10.0
+Date: 27/06/2012 Duration: 3 hrs’
+
+Re - Examination
+
+NB: 1. Attempt any 5 Questions
+
+2. Figures in brackets indicate Full marks for the said question.
+
+3. Assume suitable data, if required.
+
+4. Answer to each new question should be started on a fresh page
+Q.1 a) Solve for the resultant of the six loads shown in the figure. Three Loads are
+vertical and the wind loads are perpendicular to the side. The truss is symmetrical. Also
+find the forces in the three members forming the base of the truss between DB & FG by
+method of section. (12Marks)
+
+Q.1 b) Determine the resultant of the forces acting on the bell crank shown in the figure.
+(8 Marks)
+
+450 N *
+Q. 2 a) Determine the centroid of the shaded portion shown in figure. (10 Marks)
+
+Q.2 b) A car travels along a straight road with the speed shown by the v-f graph.
+Determine the total distance the car travels until it stops when ¢ = 48 s. Also plot the x-r
+and a-t graphs. (10 Marks)
+
+3,
+--- page 2 ---
+v=-$(t~ 48)
+
+10 20 30 40 48 ¢(s)
+
+Q.3 a)The crank OA rotates anticlockwise at 100 rad/s.Find the angular velocity of rod
+AB and the velocity of slider at B. (10 Marks)
+
+xo)
+
+Q. 3 b) Prove that the path of a standard projectile motion is parabolic. Also derive the
+formulas for the Range and Maximum Height. (10 Marks)
+
+Q. 4 a) The magnitude and direction of two identical balls before central oblique
+impact are as shown in figure. Assume e= 0.90.Determine the magnitude and
+direction of velocity of each ball after impact. [10 Marks]
+
+Q.4 b) A jet of water is discharged at A with a velocity of 20.m/s to strike a moving
+plate B as shown. If the plate is moving downward with velocity of Im/s, determine the
+relative velocity of water w.r.to the plate just before it strikes. (10 Marks)
+
+}
+
+/
+
+a
+--- page 3 ---
+Q.5 a) State the Laws of Friction. (4Marks)
+
+b) Explain D’ Alembert’s Principle and Work-Energy Principle. (8Marks)
+c) Determine the force P required to start the motion of wedge shown in figure.
+Take p= 0.26 for all surfaces. (8 Marks)
+P 500N
+15° 1000N
+2
+Q.6 a) State and Prove Varignon’s theorem. Explain its application. (8 Marks)
+
+Q.6 b) If the coefficient of static and kinetic friction between 20 kg block A and 100 kg
+block B are both essentially the same value of 0.5 and there is no friction between wheels
+of car B and surface, determine the acceleration of each block when (i) P= 40 N (ii) P=
+60 N. Assume pulley to be massless and frictionless. (12 Marks)
+
+P
+
+A
+20kg> S
+| B 100 kg
+
+VIVITTFTT IFT
+
+q!
+````
+
+## 2011-12 · Exam not stated · Trim 2 · paper 0959f4a07dc3
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2010-2011 (2).pdf` (+1 identical copies)
+- Printed on paper: exam date: 04/02/2012
+- Text: ocr (4 pages), mean OCR confidence 86.3
+
+````text
+\
+
+. Programme: B.Tech - ALL STREAMS Year: I Trimester:
+
+’ Batch: 2010-2011 ‘3 Hikers
+Subject: ENGINEERING MECHANICS Marks: GOOMIns Un versity
+Time: Sethe
+Date: 04/02/2012 Duration\\ 43 hrs nny
+Re - Examination
+NB:-
+
+Q.1
+
+mo)
+
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+
+el Sc,
+en ~ M00,
+
+i. ~ e
+
+Academic Year : 2011-2012
+
+1. Question No.1 is compulsory.
+2. Out of remaining questions, attempt “ANY FOUR” questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equai marks.
+5. Answers to each question should be started on fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+v
+Solve “ANY FOUR” questions.
+
+a) Determine the resu!tent of the three forces and a couple acting on a triangular plate as shown in
+Fig. 1.A. Also determine the locatior. of the resultant w.r.t. point A.
+
+b) Find support reactions at supports A and B, for an overhanging beam as shown in Fig. 1.B.
+40 KN
+
+gBknm {
+“" "ASS As
+
+>
+al
+
+24KkN
+
+2m 6m im
+
+Fiq-1-B
+Fig-1-A ad
+
+9) State -“The laws of Friction.”
+
+The rectilinear motion of a particle has position defined by the relation X = t* -7t? + 20t— 10m.
+Determine-
+
+1) Position, Velocity and Acceleration at t = 2 set.
+
+2) Minimum velocity and the corresponding time.
+
+e) Explain - The Concept Of Dynamic Equilibrium.
+
+V4
+
+[4x5]
+--- page 2 ---
+Q.2 Solve following questions. [2
+a) Three smooth spheres rest against two inclined smooth planes as shown in Fig.2.A.
+Determine-
+1) The reaction force at contact points when 6 = 30°.
+2) The minimum angle 0 for which the spheres remain in equilibrium.
+Take for sphere 1 weight = 500 N and radius = 0.2 m. For spheres 2 and 3 weight = 1000N and
+radius = 0.4m.
+
+Fi g 2:B
+LKNI™
+5KN oe ”
+| JORN™
+Ah i
+ry
+.2- Ly 3K Dae A)
+Pig: one Tim! rel int 3m i
+b) Find the reactions at A and B on the structure as shown in the Fig. 2.B.
+Q.3 Solve following questions. [2x10]
+
+a) Determine the magnitude and nature of the forces in all members of the truss as shown in
+Fig.3.A using ‘Method Of Joints’.
+
+y\kn \KN
+4m | 2
+Pp
+i
+S005
+Q TPP ree
+P
+Fig 3°B
+
+7 | Uv
+
+(4m 2m 4 Fig 3°A *
+
+b) Find the least value of force P that will just start the system of blocks shown in Fig. 3.B
+
+moving to the right. Value of p for each block is 0.3. Also find the corresponding value of a .
+Assume smooth pulley.
+
+2
+--- page 3 ---
+Q.4 Solve following questions. [2x10]
+a) Find moment of inertia of the shaded area as shown in Fig.4.A about x- axis and y- axis.
+
+100 KN
+
+| .
+— > Fig- 4-8
+“37 10cm ; Fig4-A °
+
+b) Calculate the magnitude of horizontal force P acting on the wedges B and C to raise the load of
+100 KN resing on A. Take 1 between wedge and ground as 0.25 and between wedges and A is
+0.2. Also assume symmetry of loading and neglect the weights of A, B, and C. Slope of wedges
+are 1: 10. Refer Fig. 4.B
+
+Q.5 Solve following questions. [2x10]
+a) Water drops drip from a leaking tap at a rate of 4 drops per sec. At an instant what is the vertical
+separation between two consecutive drops if the lower of the two drops has velocity of 5 m/sec.
+
+b) Determine the co-ordinates of centroid of the shaded portion as shown in Fig. 5.A.
+
+Rw
+§
+0 20™
+YY
+: §
+9
+
+3 | >
+j Zocml 20cm Fig- 5-A
+
+Qyo! Solve following questions. [2x10]
+a) From the top of a 20m high building a ball is projected at 15m/sec at an angle of 30° upwards to
+the horizontal. At what distance it would hit the ground from the foot of the building. What is
+the maximum height attained above the ground, the velocity of the ball just as it hits the ground
+and the total time of flight.
+
+2/4
+--- page 4 ---
+b) A package A of mass 25 Kg. is being pulled up the incline by a load B of mass 60 Kg.
+connected to it by an inextensible rope passing over frictionless pulleys. Determine the
+accelerations of the two blocks and the tension in the connecting rope. Take us = 0.4 and nk =
+0.3 between the incline and A. Refer Fig. 6.B.
+
+2.7 Solve following questions. [2x10]
+a) A hammer of mass 4 Kg. slips off from the hands of the carpenter working on the roof top at A.
+If uk = 0.2, determine the velocity of the hammer at the edge B of the roof and also find the
+location X of point C where the hammer strikes the ground. Refer Fig.7.A.
+
+\ G Fig. TA
+
+oa ma
+
+B) The bar AB has an angular velocity of 6 rad/sec. clockwise when @ = 50°. Determine the
+corresponding angular velocities of bars BC and CD at this instant. Refer Fig.7.B.
+
+Dp
+}
+‘ O:\S™m
+
+a! B oO:-25mM
+
+af 7
+©
+6 rad [sec .
+A (os)
+
+TPF Fig: T-B
+
+*f
+````
+
+## 2011-12 · Exam not stated · Trim 2 · paper 0043adffede6
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/scan0006(5).pdf`
+- Printed on paper: duration hours: 3; exam date: 14/09/2012
+- Text: ocr (3 pages), mean OCR confidence 87.3
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: B.Tech (ALL STREAMS) Tear “4 Trimester: II
+Academic Year : 2011-2012
+
+Batch: 2010-2011 i
+Subject: Engineering Mechanics Marks: 1
+j “ Time: 11.00 am To 2.00 pm
+Date: 14/09/2012 Duration: 3 hrs.
+Special Re-Examination
+Instructions:
+
+1. Question No.1 is compulsory
+
+2. .Out of remaining questions, attempt any Four questions.
+
+3. Answer to each new question to be started on a fresh page.
+
+4. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Attempt any FOUR (4x5)
+
+a) Three forces of 2P,3P and 4P act along the three sides of an equilateral triangle of side 100
+mm taken in order. Find the magnitude and position of the resultant force.
+
+b) State and prove Lami’s Theorem.
+
+c) A mass of 9 kg, while descending vertically down, drags up a mass of 6 kg by means of a
+string passing over a smooth pulley. Find the acceleration of the system and tension in the string.
+
+d) Explain the conditions of Equilibrium.
+
+} e) Ifa particle is projected inside a horizontal tunnel which is 5 metres high with a velocity of
+60 m/s, find the angle of projection and the greatest possible range.
+
+Q.2) a) A pin jointed truss is subjected to three point loads as shown in the fig 1 Find , by
+
+method of joints, the forces in all the members. ‘ (10)
+LOKN
+j ~~
+\ . a
+‘ 20RkN. .
+B :
+& 25m
+lOoKN
+és o
+45 45°
+=
+A
+--- page 2 ---
+J
+
+f
+
+oY
+
+/
+
+/ b) A block weighing 1500 N, overlying a 10° wedge on a horizontal floor and leaning against a
+
+f vertical wall ,is to be raised by applying a horizontal force to the wedge. Assuming the
+coefficient of friction between all the surface in contact to be 0.3, determine the minimum
+horizontal force required to raise the block.
+
+(10)
+Q.3) a) Prove the parallel axis theorem in the determination of moment of inertia of areas with
+the help of a neat sketch. (10)
+
+b)Three perfectly elastic balls A,B and C of masses 2 kg ,4 kg and 8 kg move in the same
+direction with velocities of 4 m/s,1 m/s and 0.5 m/s respectively. If the ball A impinges with the
+
+ball B, which in turn, impinges with the ball C, prove that the balls A and B will be brought to
+rest by the impacts. (10)
+
+Q.4) a) Two rough planes inclined at 30° and 15° to the horizontal and of the same height are
+placed back to back. Two bodies of masses of 15 kg and 5 kg are placed on the faces and
+
+connected by a string over the top of. the planes If the coefficient of friction be 0.3 find the
+resultant acceleration.
+
+(10)
+b)Explain work energy principle, impulse and conservation of momentum . (10)
+Q.5) a) Determine the centroid of the given lamina. In fig 2. (10)
+
+ij | ‘ R 12D 2
+, , 220 ~ —_
+a “= Qz ren
+--- page 3 ---
+/ An I-section is shown in the figure3.Find the moment of inertia of the section about the
+norizontal axis passing through the sening) of of gravity of the section. (10)
+
+Lana ia te |
+2 tr
+tT -
+
+IQen,
+
+Dorr
+— ——
+
+=
+
+DOH
+
+ha 16 erm ; i
+
+Q: 6) a)An effort of 200 N is required just to move a certain body up an inclined plane of angle
+15° the force acting parallel to the plane. If the angle of inclination of the plane is made 20° the
+effort required, again applied parallel to the plane, is found to be 230 N. Find the weight of the
+body and the coefficient of friction. (10)
+
+b)Two guns are pointed at each other ,one upward at an angle of 30° ,and the other at the same
+angle of depression the muzzles being 30 m apart. If the guns are shot with velocities of 350 m/s
+upwards and 300 m/s downwards respectively, find when and where they will meet? (10)
+
+Q.7) a) Determine the reaction at the supports as given in fig 4. (10)
+BKN [rm
+BRM DkKN [ro .
+lOkKNre2 ‘ beers
+aa KD RS
+FA ry, fla A SBreav
+|
+b) Exyjlaln :1) Varignon’s theorem 2) Laws of friction 3)Angle of repose (10)
 ````
 
 ## 2011-12 · Exam not stated · Trim 3 · paper 3846bc3be315
@@ -10562,6 +11528,323 @@ Fig-t0
 ii) Define Angle of Friction. . (02)
 
 iii) Define Angle of Repose. (02)
+````
+
+## 2011-12 · Exam not stated · Trim 3 · paper 1879681a1ddc
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/scan0003(4).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/09/2012
+- Text: ocr (3 pages), mean OCR confidence 85.2
+
+````text
+ge SVKM’s NMIMS
+‘ Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA-Tech (All Streams) Year: I Trimester: III
+Academic Year : 2011-2012
+
+Batch: 2011-12
+Subject: Engineering Mechanics Marks: 100
+
+Time: 11.00 am To 2.00 pm
+Date: 11/09/2012 Duration: 3 hrs.
+
+Special Re-Examination
+
+Note: 1. Question No. 1 is compulsory.
+2. Out of remaining Five questions, solve any Four.
+
+Q.1 Solve all the FOUR sub-questions. [4x5 = 20]
+(a) (b)
+P=100N
+S=150N ; 4
+Md 3
+1fo Q=200N
+6
+T Figure2
+Fi The 20-kg crate is subjected to a force as shown in the
+igurel
+
+Figure2. The crate reaches a velocity of 8 m/s after
+travelling a distance of 15 m. Determine its speed
+when it had travelled a distance of 25 m. Take F=100N
+and coefficient of kinetic friction as 0.25.
+
+If the resultant, R, of the concurrent force
+system shown in the Figurel is vertical, find
+resultant, R and force, T.
+
+(c) The position of a particle along a straight line is given by s = °-9t?+15t, where t is in seconds and s in m.
+Determine the maximum acceleration and maximum velocity during the time interval 0<t<10s.
+(d), Find the force P so as to just start the motion of the roller A over the obstacle at C. (Refer Figure3)
+
+Radius 25 cm
+20 KN
+
+i LATE SELES,
+'
+
+q ) Figure3 Figure4
+
+Q.2 (a) If mass of block A is 25 kg and that of block B is 50 kg and the system is released from rest, find the [10]
+
+distances travelled by block A and B after 2 s. Use D’Alembert’s principle. (Refer Figure4). Assume the
+
+pulleys to be mass less and frictionless.
+
+(b) For the beam AB shown in Figure5, find hinge reactions at A and roller reaction at B. [10]
+12kNim
+
+42kN
+| A
+, — 4
+8kNim
+; vA ; 10kN ~ :
+
+vom -—> s0kNm x
+
+. = 6kN/m
+|. 2.5m |_ 3m 3m 2m 2m | 2m
+
+. sali
+
+Figure5
+
+I/,
+--- page 2 ---
+Q3
+
+Q4
+
+Q.5
+
+(a) A freight train starts from rest and travels with a constant acceleration of 0.03 m/s’. After a time T it [08]
+maintains a constant speed anc travels a distance of 610 m with that speed. Determine the time T and
+
+draw the v-t curve.
+
+(b) For the truss shown in Figure6, [12]
+find out: os
+
+i. Support Reactions, ME
+
+ii. Zero Force Members,
+
+iii. Forces in members EF,FD and 5m 20KN
+
+DG by Method of Sections, and
+
+iv. Forces in all other members B
+using Method of Joints. q
+5m
+c H
+a q D fs
+¥v P
+20 KN
+4m L 4m 4m 4m
+=e 4
+
+Figure6
+(a)For the lamina shown in Figure’, find the position of the centroid. Also find the moment of inertia for [10]
+the lamina about Y axis.
+
+-k —
+ie
+Bem /
+fic ‘ ‘ ax
+wy, Lo \
+a pianetar \
+ona ae a
+\ UF fie ®
+\ Pe gf
+\ Lo
+J
+So
+/
+Figure7 Figure8
+
+(b) The weight of block A is is 800 N and that of block B is 1000 N. The coefficient of kinetic frictionis [10]
+0.2. Find the velocities of block A and B after block B has travelled a distance of 25 m(Refer Figure8).
+
+Use Work-Energy Principle.
+
+(a) Find the velocity of the piston C of mechanism shown in Figure9 , if the link AB rotates at 3 rad/s. [10]
+_ Bg
+
+P
+———
+
+; ii Sem
+é é i tof oF FOE é of ft EF
+= Figurel0
+
+Figure9
+(b) For the Figure10, find the force P to keep system in equilibrium. Take coefficient of friction as 0.3 for [10]
+
+all the surfaces in contact.
+
+[10]
+
+23
+--- page 3 ---
+Q.6 ae The spheres A and B are colliding as shown in Figurel1. Mass and radius of sphere A is 10 kg and 10
+cm respectively and that of sphere B is 15 kg and 15 cm respectively. If coefficient of restitution is 0.75,
+
+find the velocities of the spheres after the collision.
+a oo \
+Ww
+A |
+
+{I 10mis )
+B w -
+5m/s
+ey +K B c
+20cm
+Figurel1 8 te
+
+Figure12
+(b) Three identical cylinders (weight W and radius R) are stacked together as shown in the Figurel2. Find [10]
+the minimum angle @ to which the inclined plane can be lowered without disturbing the stack.
+
+ny
+````
+
+## 2011-12 · Exam not stated · Trim 3 · paper b1467a72ac4d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/scan0007(6).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/09/2012
+- Text: ocr (4 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+N SVKM’s NMIMS
+; Mukesh Patel School of Technology Management & Engine
+
+ser
+
+: Trimester: III f/5 svKkurc \
+Programme: MBA Tech (All Streams) Year: I a SVR)
+- Academic Year : 2011-2012 | xe mips voce
+Batch: 2008-2009 Nga LiBRaRy Je
+j ineeri i Marks: 100.4 E
+Subject: Engineering Mechanics an Lh Oifagp To 2.00 pms
+Date: 11/09/2012 Duration: 3hrs. ” Manncen™ 7
+Special Re-Examination ;
+Instructions:
+
+1. Question No.1 is compulsory
+
+2. Out of remaining questions, attempt any Four questions.
+
+3. Answer to each new question to be started on a fresh page.
+
+4. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Attempt any FOUR (4x5)
+
+a) The sum of two concurrent forces PB and Q is 500 N and their resultant is 400 N .If the
+resultant is perpendicular to P,find P,Q and angle between Pand Q.
+
+b) State and Explain Parallel axis theorem.
+c) Explain Varignon’s theorem .
+d) Explain the different conditions of equilibrium.
+
+e) A mass of 9 kg, while descending vertically down, drags up a mass of 6 kg by means of a
+string passing over a smooth pulley. Find the acceleration of the system and tension in the string.
+
+Q.2) a) A block’ A’ weighing 100 N rests on a rough inclined plane whose inclination to the
+Horizontal is 45° .This block is connected to another block weighing 300 N resting on a rough
+horizontal plane by a rigid bar inclined at an angle of 30° to the horizontal .Find the horizontal
+force required to be applied to the block B just to move the block A in upward direction. Assume
+angle of limiting friction as 15° at all surfaces. (10)
+
+b) An object is projected so that it just clears two obstacles each 7.5 m high which are situated 50
+m from each other .If the time of passing between two obstacles is 2.5 seconds, calculate range
+
+of projegtion and initial velocity of projection. ; (10)
+Q.3) af ind the reactions at the supports of the beam loaded as shown in the figure. (10)
+bp f=3 kN
+Fy pstaen PQ KM -
+“ adhe
+Co
+be 20 THe im {8
+A [
+
+ami amy), 37 1 3m
+La
+
+"yt "Re
+
+4
+--- page 2 ---
+b) Find the centroid of the given figure. (10)
+
+a) |
+
+? y
+bee (2O >]
+
+Q.4)a) Perfectly elastic balls A,B and C of masses m,2m and 4m respectively are moving along
+the same straight path with velocities 4v,v and 0.75v respectively. Ball A strikes ball B and then
+ball B strikes ball C. Prove that balls A and B are brought to rest during these impacts. (10)
+
+b) b)Two guns are pointed at each other ,one upward at an angle of 30° ,and the other at the same
+angle of depression the muzzles being 30 m apart. If the guns are shot with velocities of 350 m/s
+
+upwards and 300 m/s downwards respectively, find when and where they will meet? (10)
+Q.5) a) A pin jointed truss is subjected to point loads as shown in the fig. Find , by method of
+joints, the forces in all the members. (10)
+£kN oi
+Sm pe — ro gt
+Hue, T< we =
+7 } ary
++ a =
+--- page 3 ---
+b)A Block of mass m=80 kg is compressed against a spring as shown in the fig. How far from
+point B (distance x) will the block strike on the plane at point A? Take free length of the spring
+as 0.9 m and spring stiffness K = 4000 N/M. (10)
+
+| nae
+O-+ RD ee Zr \ %
+Bro ‘
+\
+
+\
+
+\
+\
+/
+
+b— 2c —»;4
+Q.6)a)Explain :1) Work energy principle 2) D’ Alemberfs Principle (10)
+
+b) Locate the instantaneous centre of rotation for the link ABC and determine velocity of points
+
+B and C. Angular velocity of rod OA is 15 rad /sec counter clockwise. Length of OA is 200 mm.
+
+Cc
+--- page 4 ---
+Q.7) a) Track repairs are taking place over 2 km length of railway line. Maximum speed of train
+is 100 km/h and speed over repair track is limited to 25 km/h. The train approaching the repair
+track decelerates at uniform rate from 100 km/h to 25 km/h in 200 m .After travelling on the
+
+repair track, it accelerates to its full speed in 1600 m. Determine time lost due to track repairs.
+(10)
+
+b)Two blocks as shown in the fig start from rest .If the chord is inextensible, friction and inertia
+of pulley are negligible, calculate acceleration of each block and tension in each chord. (10)
+
+Mo
+
+1L26°25] 100 af >
+
+— Sar =
+
+y ,= Boke |
 ````
 
 ## 2011-12 · Re-Exam · Trim 2 · paper 8fb766ac29d9
@@ -10739,105 +12022,336 @@ c) Explain I-C.R. method to find angular velocity of a body. [05]
 4,
 ````
 
-## 2011-12 · Re-Exam · Trim 2 · paper d65de019cc18
+## 2011-12 · Re-Exam · Trim 2 · paper 58a1fdc0777f
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/Engineering Mechanics Batch 2009-10,10-11,11-12 Re Exam(1) (1).pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3; exam date: 20/06/2013
-- Text: mixed (3 pages), mean OCR confidence 65.8
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2009-2010 RE EXAM (1).pdf` (+2 identical copies)
+- Printed on paper: exam date: 04/02/2012
+- Text: ocr (4 pages), mean OCR confidence 76.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM's NMZA6S
-Mnkesh Pate1 School of Technolonv Management g
-B.Tech (ALLSTREAMS)   Y e w   I
-Academic Year :2012-2013
-(   Batch:   2009-10,2010-11,201I-IZ
-~ ~ e c t : Engineering Mechanics
-Date:   20/06/2013   Time: Duration: 3hrs.   o 1.00 pm
-Re - Examination
-NOTE:
-Q.1 is Compulsory.
-Attempt any four questions out of remainingsix questions.
-Answers to all sub questions should be grouped together.
-Figures to the right in bracket indicate full marks.
-Assume suitable data if necessary and state the same clearly.
-Q.l(a) Explain different systems of forces with examples.   (05)
-(b) State laws of static friction.   (05)
-(c) Replace the loading on the frame by a force - couple system at point A. (10)
-Refer Figure 1.
-Q.2 The motion of a particle moving in a straight line is given by the expression (10)
-(a) S =t3-3 t2+2t +5 where S is in meters and t is in seconds. Determine
-i.   The velocity and acceleration at t =5 seconds.
-ii. Maximum and minimum velocity and corresponding displacement
-iii. Time at which velocity is zero.
-(b) At a given instant, the lOON block A is moving downward with a speed of (10)
-3 mlsec. Determine its speed 10 second later. Block B has a weight 40 N and the
-coefficient of friction between it and the horizontal plane is 0.2. Neglect the mass
-of the pulley and the chord. Use D'Alembats principle. Refer Figure 2.
-Q.3 Block A weighs 3000N. The chord attached to A passes over a smooth pulley and (08)
-(a) supports a weight equal to 800 N. The value of coefficient of friction between A
-and the horizontal plane is 0.25. Determine valud. of P if motion is impending
-towards left. Refer Figure 3.
-(b) Determine the forces in the members BD, CD and CE by method of section and (12)
-forces in the remaining members by method of joints. Refer figure 4.
-Q.4 A ball rebounds at A and strikes the inclined plane at point B at a distance 76 m. (12)
-(a) If the ball rises a maximum height of 19m above the point of projection, compute
-the initial velocity and the angle of projection. Refer Figure 5.
-(b) A ball falls from a height of lm, hits the ground and rebounds with half its (08)
-velocity just before impect. Then after rising, it falls and hits the ground. And
-Page 1of 3
+\
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+' Programme: B.Tech - ALL STREAMS Year: I Trimester;
+| Academic Year : 2011-2012
+
+—
+
+f
+‘ Batch: 2009-2010
+
+Subject: ENGINEERING MECHANICS Mark? ¢ G'S \e
+Un ve
+Timed| a( 2,00.pm,40"S.)e fm
+Date: 04/02/2012 Durafi 3HPgary
+Re - Examination IF
+INSTRUCTIONS
+
++ Attempt any Five questions out of Seven.
+
+* Answers to all sub questions should be grouped together.
+
++ Figures to the right indicate full marks.
+
+* — Assume suitable data if necessary and state the same clearly.
+
+Q.1 (a) Determine the resultant of the five forces acting on the particle as shown in (10)
+figure 1.
+
+Q.1(b) Four forces and a couple are applied to a rectangular plate as shown in figure 2. (10)
+Determine the magnitude and direction of resultant of force couple system. Also
+
+determine the distance x from O along x-axis where resultant intersects.
+
+Q.2 (a) Determine the reactions developed for a simply supported beam as shown in (10)
+figure 3.
+
+Q.2 (b) Find the tension in the cable and the force P required to move the blocks towards (10)
+the right as shown in figure 4. The coefficient of friction between the block A
+| and the plane is 0.3 and between block B and the plane is 0.2.
+
+Q.3 (a) Two 10° wedges are used to push a block horizontally as shown in figure 5. If (10)
+the coefficient of friction is 0.25 for all surfaces in contact determine the
+minimum load P required to push the block of weight 7.5 KN.
+
+Q.3 (b) Determine the forces developed in the members of pin jointed frame as shown in (10)
+figure 6. Use method of joint.
+
+\ ‘ Q.4 (a) Priya throws a stone from the top of the building 30 m high with an initial (10)
+FI } velocity of 25.5 m/sec directed vertically upward. On its way down, the stone
+just misses the edge of the roof as shown in figure 7. Determine
+i. The velocity ‘v’ and the elevation of the stone above the ground at the
+time ‘t’
+ii. The time needed for the stone to reach its maximum height
+iii. |The maximum height above the ground level
+
+1 14,
 --- page 2 ---
-again rebounds with half its velocity just before impact, and so an.Determine
-total distance travelled by the ball till it comes to the rest on the ground.
-Q.5 A rod AB 26 rn long and leans against a vertical wall. The end A on the floor is (08)
-(a) draw away from the wall at a rate of 24 mlsec. When the end A of the rod is 10
-m away from the wall, determine the velocity of end B sliding down vertically
-and the angular velocity of rod AB.
-(b) Determine the support reaction at B and the load P for the beam reaction at (12)
-support A is zero. Refer figure 6.
-Q.6 For a system of forces acting on the lever, determine the magnitude, direction and (12)
-(a) the point of application of the resultant w.r.t. 0.Refer figure7.
-@) Two 6' wedges are used to push a block horizontally. Calculate the minimum (08)
-force required to push the block of weight 10 kN. Trtke p = 0.25 for all contact
-surfaces. Refer figure 8
-4.7 Determine themoment of inertia of the shaded area about centroidal X-axis and (15)
-(a) Y-axis. Refer figure 9.
-(b) For the force system, determine the required value of a if the resuitant of tbree (05)
-forces is to be vertical and the correspondibg magnitude of the resultant. Refer
-I-''--..-- figure - 10.
-600 d m
-Figure 2
-Figure
-1&:---
-6 ?   - .   -
-, , -   < , ,,
-Figure 3
-Figure 4
-Page 2 of3
+q
+
+iv. The time needed for the stone to reach the top of the building and its
+velocity during the downward journey
+v. Velocity when it reaches the ground.
+
+Q.4(b) A 50 N block is released from rest on an inclined plane which is making an
+angle of 35° to the horizontal. The block starts from ‘A’, slides down a distance
+of 1.2 m and strikes a spring with a stiffness of 8 KN/m as shown in figure 8. The
+coefficient of friction between the inclined plane and the block is 0.25.
+Determine
+
+i. The amount the spring gets compressed
+ii. Distance the block will rebound up the plane form the compressed
+position.
+
+Q.5(a) A ball is dropped from a height of 8 m on a plane inclined at 25° to the
+horizontal axis as shown in figure 9. If the coefficient of restitution is 0.8,
+determine the time and location of the ball when it strikes the plane again.
+
+Q.5 (b) In the engine system as shown in figure 10, the crank AB has a constant angular
+velocity of 4000 RPM. For the crank position indicated, determine the angular
+velocity of connecting rod BD and the velocity of piston P
+
+Q.6(a) An object weighing 80N is pulled up on the smooth plane by 75 N force as
+shown in figure 11. Determine the velocity of the object after it has moved 4 m.
+
+Q.6(b) Determine the tensions in the string and acceleration of block A and B as shown
+in figure 12.
+
+Q.7_ . Locate the centroid and hence determine the moment of inertia about the
+centroidal XX and YY axes of the plane cross section as shown in figure 13.
+
+}
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(20)
 --- page 3 ---
-24 Keon
+Figure |
 
-y lokn P
-+o" ttl |
-8 a c
-4
+Y
+0.25 m 0.6m
+if 750kKN <——@
+600KN
+‘<
+‘SOKN-m
+©) 4
 
-mL
-BB
+300KN i
 
-. 2m pint | 32m Lim ,
-4 a r
+Figure 2
 
-4 7
-1000N
-Figure 8
+12m
 
+=,
+
+0.3m
+
+5m
+
+Figure 3
+
+7.5KN
+
+Figure 5
+
+c E|
+3 18KN "
+3m 43m. 42m |
 Figure 6
 
-700, P
+a
+gon} [|
+[I
+J
 
-Page 3 of 3
+7
+
+777 7 D
+
+Figure 7
+--- page 4 ---
+Figure 10
+
+Figure 11
+
+
+Figure 12
+
+ie)
+
+Y 1
+At
+hole = 5em@
+
++~— 10cm ——B
+
+Figure 13
+
+a
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper 6ee246eddac9
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/sENGINEERING MECHANICS BATCH 2008-09 RE EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 04/02/2012
+- Text: ocr (3 pages), mean OCR confidence 85.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+= SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineeri:
+
+, Programme: B.Tech - ALL STREAMS Year: I Trimester: pee SCHOo,
+i een
+Academic Year : 2011-2012 S94 N.Q
+Batch: 2008-2009 SO ows | {ye
+Subject: ENGINEERING MECHANICS Marks: f/ AORmins Unversity ) ao
+Time: 2.00upmTo 8.00 p=
+Date: 04/02/2012 Duratiork\ ,8 hrs.'8* ¥
+
+Re - Examination
+
+Instructions: Candidate should read carefully, the instructions printed on
+Paper and on the cover of answer book which is provided for their use.
+NB:
+
+1. Attempt any 5 Questions.
+
+2. Figures in brackets indicate Full marks for the said question.
+
+3. Assume suitable data, if required.
+
+4. All questions carry equal marks
+
+5. Answer to each new question should be started on a fresh page
+
+Ql a)To move a boat uniformly along
+the river at a given speed a resultant
+force R = 520 Nis required. Two men
+pulling with force P and Q by means of
+ropes to this. The ropes make an angle of
+30° and 40° respectively with the sides
+of the river as shown in figure.
+(i)Determine the force P and Q. (ii) If
+60) = 30°, find the value of 80 such that
+the force in the rope Q is minimum. (10 Marks)
+What is the minimum force Q ?
+
+Q.1 b)Find the Support Reactions (10 Marks)
+} . OWN
+son
+cf BAO
+|
+De i 2m
+ON 900 N-m |
+wy {200 N
+
+: fox x
+
+j jm
+
+7 )}   Q.2a) Determine the centroid of the
+following figure (8 Marks)
+
+V3
+--- page 2 ---
+Q.2 b) Block‘A of weight 2000 N is kept
+on a plane inclined at 35°. It is
+connected to weight B by an in-
+extensible string passing over a smooth
+pulley further inclined at 20°. Determine
+weight of B so that B just moves down.
+Take p = 0.2 (12 Marks)
+
+Q.3 a) Three forces 1 kN. 3 KN and 2.5
+kN act on a vertical pole 6 m high.
+
+i) Find the magnitude. direction
+and position of resultant w.rt A
+
+ii)The position where the
+resultant cuts the pole from the base.
+(10 Marks) : sm
+
+Im
+
+2m
+
+Q.3 b).Find the forces in all the
+following members using method of
+joints. (10 Marks)
+
+Q.4)The maximum allowable force
+
+vt 1sm © ism _ B iLsm *
+
+(Tension or Compression) in AB, AF & oP
+GF is 80 KN. Determine the maximum “I
+permissible load P applied at Point D on E
+
+the truss shown. (10 Marks)
+
+G
+
+Q4 b)Two 6 degree wedges are used to push a block of 10kKN horizontally as shown.
+Calculate the minimum force required if Coefficient of friction = 0.2 between ground and
+the block & 0.25 for all other surfaces. (10 Marks)
+--- page 3 ---
+Q.5 a)
+
+Two smooth spheres A & B having a
+mass of 2kg and 4kg respectively collide
+with initial velocities of 2 m/s. & 4 m/s.
+as shown. If coefficient of restitution is
+0.8, determines the velocities of each
+sphere after collision. (10 Marks)
+
+up = 4m
+
+It is observed that a skier leaves the
+platform at A and then hits the ramp at B
+as shown in the figure in 5 seconds.
+Calculate the initial speed u & the
+launch angle a Also find the direction
+and the magnitude of the velocity when
+he hits the ramp.
+
+(10Marks)
+
+velocity of 3 rad/s. anticlockwise.
+
+t
+AA +
+150mm
+CD. (10 Marks) a *
+
+Q.6a) In the position shown in the A B =p
+figure, the bar AB has constant angular . >, 200mm
+Determine the angular velocity of bar
+
+e240 A ISO
+
+anmn mm
+
+Q.6 b)Blocks A & B are connected by an inextensible string as shown. If both blocks are
+released simultaneously from rest what distance do the move in 5 seconds? (10 Marks)
+
+
+2/3
 ````
 
 ## 2011-12 · Re-Exam · Trim 3 · paper 7d4a22380a58
@@ -10846,6 +12360,7 @@ Page 3 of 3
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2011-12 RE EXAM0001M.pdf`
 - Text: ocr (4 pages), mean OCR confidence 72.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Programme:
@@ -11038,628 +12553,176 @@ Figure 11
 
 Ya
 
-pect LLL seb tg Lehi bt,
 
 Figure 12
 ````
 
-## 2011-12 · Re-Exam · Trim 3 · paper bb92162bbef6
+## 2011-12 · Re-Exam · Trim 3 · paper 29e73c6ec444
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/ENGINEERING MECHANICS III MBA TECH 2008-09, 2010-11, 2011-12 RE EXAM.pdf`
-- Printed on paper: duration hours: 3
-- Text: text (4 pages)
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/ENGINEERING MECHANICS RE EXAM BATCH 2008-20090001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/05/2012
+- Text: ocr (4 pages), mean OCR confidence 74.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-1 \ - - - p . - ..   ,~ V.-~-, -   ~   ..=--
-- QFp\ +.I.
-.   ... .
-\ \   "
-Programme:
-I
-'   , Academic. Year :2012-2013
-Batch:   2008-09,2010-11,2011-12.
-1   Subject:   Engineering Mechanics,
-Time:   10.00 am To 1.00 pm
-Duration: 3 hrs.
-Re - Examination
---   -. -
-rnstructibns: candidates should read carefullv the instructions minted on theouestion
-I   paper and on the cover of the Answer Book, bhich is providedfor their use.   A
-1   NB:
-a) Question 1 is compulsory.
-,. . -. .   Solve any FOUR from remaining Questions.
-'   .:: , .-. . . . ,:,c) Assume suitable data where necessary.
-'   : d) Figures to right indicate marks.
-e) Answer to each new question should be started on a fresh new page
-i   Q. 1:Answer Any Four from the following.
-' .   a) Determine the resultant of the following system of parallel forces.
-b) Determine unifqrm reaction from the surface on cylindrical log as shown in Fig.
-5 I   below. The self weight of log is assumed to be 1300 Nlm. There are two point loads of
-I   t   8000N each acting 1 m from each end.
-c)State and explain: i) D' Alemberts principle ii)Work Energy principle.
-d) A body sliding on smooth inclined plane requires 4 seconds to reach the bottom
-starting from top. Find the time it takes to cover one fourth distance starting from rest at
-top.
-e) Find X coordinate of Centriod of the Cut Quarter Circular area shown
-Yf
---- page 2 ---
-f) Draw neat figure of Screw Jack & Discuss its use.
-Q.2a) Reduce the system to a force couple system at 0.
-4Y
-.   . .   .
-4mN   (10)
-b) To move a boiit uniformly along the river at a given speed a resultant force R = 520N
-is required. Two men pulling with forces P and Q by means of ropes to do this.
-The ropes makes angles of 30"and 40"respectively with the sides of the river.
-(a) Determine the forces P and Q
-@) If el=30" find value of 82 such that.the force in the rope Q is minimum.
-What is the minimum force Q?   (10)
-qp   R=520N
--
-I   40.
-I   Q
-4.3:a) Two homogenous solid cylinders of identical weight of 5000N and radius of 0.4
-m are resting against inclined wall and sloping ground as shown. Assuming smooth
-surfaces find the reactions at A, B and C of the contact points.   (8)
-b)   For the truss shown.
-1. Identify the members carrying zero force.
-2. Find forces at joints A. C, D and G by method of joints.
-3.Find support reactions.
-4.Find forces in CD. CG, FG, and CF using method of section.   (12)
---- page 3 ---
-.   aDw   60w
-Q.4:a) TWQ jndbnedplanes AC and BC inclined'at'60° and 30' to the horizontal meet at
-pridge C. P; l;dass of la0 kg rests on the inclined plane BC and is tied to a rope which
-p p ~ ~ ~ ~ asm~q.th o v e i Pulley at the ridge, the other end of the rope, being connected to a
-. Qo6k ofWkg:m@s ,.::   ..   resting on the.plane AC, Determhe the least and greatest value of W
-forI&. .   .   whole system Take g= 10m/sec2.   (10)
-A c .
-, .
-30.
-. . ~ . ?... 8,. . .
-.   :. -. .   b)Two 8' wedges of negligible weight are used to move 1000 kg block. If p =0.25 at all
-,   . .. .   surfaces of contact. Determine the smallest value of P which should be applied as shown.
-! ..... -8:. '. . ; . I   ' .: . . ,.:. i+Z . . ..,: ;   1. . - z - - - L L , - > . .
-,   ,
-Q. 5: a) Find moment of Inertia of shaded area.
---- page 4 ---
-/'
-b) A stone is thrown vertically up from tbe top of the tcswer 40 m high with a velocity of
-20 d s . Three seco~dslater another stone is &own verticalIy up h m theground with a
-velocity of 30 mls. Calculate when and where the ttva stonesd l meet fromthe foot of
-the tower.   (10)
-Q. 6 :a) A pnmanfues abullet witha velocity of 100mls, 50' upwards from the top of
-a hill 300m high to hit a bird The bullet misses its target wd W y lands on the ground.
-Calculate :i) Maximum height reaohed by &e bullet above the ground; ii)Total time of
-flight;ui) H~~*wntal range of bullet & ivj Velocity d t h which the bullet hits the ground.
-(12)
-b) A im diameter wheel has an initial clockwise angular velocity of Sradls and a
-constant angular acceleration of 1.5 rad/sZ. Derermine the number of revolutions it must
-make and the t h e required to acqui~e pr clockwise sngular velocity of 30 r d s . Also fin$
-the magnitude Oflinear velocity and linear acceleration of a pint on the rim of the wheel
-at t 4.   @I
-Q.7:a) Two blaoks, shown in ffgure starts h m rest. If the cord is   inextensiblo, friction
-and inertia of pulley are negligibIe, calculate pccekration of each blo~k and tension in
-. each chord.   . (10)
-- S   L.
-b) A 30N block is released from rest. It slides down a rough inclined surface
-(@.25).Detmnine maximum velocity of theblock and m.compression of spring.
-(10)
-I
-````
+oA NTUTE OF My
+7 lg,
+j ;
 
-## 2010-11 · Exam not stated · Trim 2 · paper fa305640845a
+F
 
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2010-2011 (1).pdf`
-- Printed on paper: exam date: 21/06/2011
-- Text: ocr (3 pages), mean OCR confidence 85.9
+(ef mM PpSTME YO
 
-````text
-+. SVKM’s NMIMS
-_ Mukesh Patel School of Technology Management & ae
-Programme: B.Tech (ALL STREAMS) Year: I Trime &: &
-Academic Year : 2010-2011 [ff >-~
-.
+Bribe AR Y Js
+ee
 
-Batch: 2010-2011 S SVK aS \
-Subject: Engineering Mechanics 16: “vr 100" J
-%, 310.00 ani 1.00 pm
-
-Date: 21/06/2011 @tion: ;
-
-Re - Examination /
-
-ge, axe
-
-NB: 1. Question No. 1 is compulsory. —"
-
-2. Attempt any 4 Questions out of the remaining. In all 5 questions to be
-attempted.
-
-3. Figures in brackets indicate Full marks for the said question.
-4. Assume suitable data, if required.
-5. Answer to each new question should be started on a fresh page
-Que. 1: Attempt any four out of following. [20]
-a) State & prove Varignon’s Theorem.
-b) State i)Law of transmissibility & ii)Laws of friction.
-c) Expain: i) Newton’s Second Law of Motion ii) Work-Energy principle.
-d) The crank OA rotates anticlockwise at 100 rad/s.Find the angular velocity of rod
-AB and the velocity of slider at B.
-
-~
-
-e) The rectilinear motion of a particle has its position defined by the relation
-=f —7t? +20t—10 m. Determine position, velocity and acceleration at 2 sec.
-
-Q.2: a) Find the centroid of the plane. uniform lamina shown in figure. with respect to
-
-AB and AC [10]
-heat
-a
-100 mm | +
-1"
-c ji
-
-Q. 2: b) : Determine the force P required to start the motion of wedge shown in Hgme,
-Take p= 0.26 for all surfaces. [10]
-
-P 2500N
-
-15° 1000N
-L, 100%
-
-P
-
-7
-
-Page | of 3
---- page 2 ---
-Q.3 a) The angular acceleration a. (taken clockwise as +ve) of a flywheel is given
-by a=-4trad/sec” where t is in sec. If the initial angular speed of rotation is 3000
-rpm clockwise, (a) determine the time required for angular speed to change to 3000
-rpm anticlockwise. (b) determine the total number of revolutions completed by the
-flywheel during this time. [10]
-
-Q. 3 b) The magnitude and direction of two identical balls before central oblique
-impact are as shown in figure. Assume e= 0.90.Determine the magnitude and
-direction of velocity of each ball after impact. [10]
-
-Que. 4:a) A weightless bar is placed in a horizontal position on the smooth inclines as
-shown in figure. Find x at which 200 N force should be placed from point B to keep the
-barhorizontal. 10}
-
-7 unt Te ya
-Ae 45 rie
-
-- 4m
-
-Q. 4: b) Determine the resultant of the given coplanar system of forces and a couple.
-Locate the resultant on the x axis w.r.t. the origin. Also reduce the system to a force
-couple system at 0. [10]
-
-100N
-
--f . :
-~ 225N
-“ 2 a
-bac oa
-“. a
-~. Pi
-Moo
-
-Page 2 of 3
---- page 3 ---
-Q.5:a) Find moment of inertia about the centroidal x and y axis of the channel
-
-section. [10]
-: y
-ke 100:mm 7
-| H ‘en
-| bee
-150mm ;
-i
-: +
-x |, ‘ i [2s mm x
-125'mm Aj fF
-
-Q. 5: b) A car starts from rest and travels on a straight road with a constant acceleration
-of 1.2 m/s’.after some time a scooter passes by it traveling in opposite direction with a
-uniform velocity of 36 kmph. The scooter reaches the starting position of a car 30 sec
-after car left from there. Determine when and where the two vehicles passed each other.
-[10]
-
-Q.6: a) A ball is thrown at an angle of 60 degree with the horizontal on a building from a
-level of 1.2 m from the ground on a 6m high building. The building is 4.2m away from
-the person throwing the projectile. The width of the building further extends by 8m. Find
-when and where the ball will hit the roof if the initial velocity is 13 m/s. Also, find the
-velocity of projection of the ball if it was to hit the most distant point on the roof. [12M]
-
-Q. 6: b) : Block Pl of weight 4 N is connected to block P2 of weight 8 N by an
-inextensible string. Find the velocity of block P1 If It falls by 0.6 m starting from rest.
-L= 0.2. Also find the tension in the string. [8M]
-
-Le oe
-
-UF
-Q. 7 For the truss shown determine: [20]
-a. Reactions.
-b. Forces in DE. DG and GH by method of sections.
-c. Magnitude and nature forces in all members by method of joints.
-
-4kN 5KN
-
-Page 3 of 3
-
-KK I II KKK KIRKE RE KKK KK EKER E
-````
-
-## 2010-11 · Exam not stated · Trim 2 · paper 0959f4a07dc3
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2010-2011 (2).pdf` (+1 identical copies)
-- Printed on paper: exam date: 04/02/2012
-- Text: ocr (4 pages), mean OCR confidence 86.3
-
-````text
-\
-
-. Programme: B.Tech - ALL STREAMS Year: I Trimester:
-
-’ Batch: 2010-2011 ‘3 Hikers
-Subject: ENGINEERING MECHANICS Marks: GOOMIns Un versity
-Time: Sethe
-Date: 04/02/2012 Duration\\ 43 hrs nny
-Re - Examination
-NB:-
-
-Q.1
-
-mo)
+oe
+ef
 
 SVKM’s NMIMS
 
-Mukesh Patel School Of Technology Management & Engineering
-
-el Sc,
-en ~ M00,
-
-i. ~ e
-
+Mukesh Patel School of Technology Management & En
+Programme: MBA (TECH) (ALL STREAMS) Year: I Trimester: III
 Academic Year : 2011-2012
 
-1. Question No.1 is compulsory.
-2. Out of remaining questions, attempt “ANY FOUR” questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equai marks.
-5. Answers to each question should be started on fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-v
-Solve “ANY FOUR” questions.
-
-a) Determine the resu!tent of the three forces and a couple acting on a triangular plate as shown in
-Fig. 1.A. Also determine the locatior. of the resultant w.r.t. point A.
-
-b) Find support reactions at supports A and B, for an overhanging beam as shown in Fig. 1.B.
-40 KN
-
-gBknm {
-“" "ASS As
-
->
-al
-
-24KkN
-
-2m 6m im
-
-Fiq-1-B
-Fig-1-A ad
-
-9) State -“The laws of Friction.”
-
-The rectilinear motion of a particle has position defined by the relation X = t* -7t? + 20t— 10m.
-Determine-
-
-1) Position, Velocity and Acceleration at t = 2 set.
-
-2) Minimum velocity and the corresponding time.
-
-e) Explain - The Concept Of Dynamic Equilibrium.
-
-V4
-
-[4x5]
---- page 2 ---
-Q.2 Solve following questions. [2
-a) Three smooth spheres rest against two inclined smooth planes as shown in Fig.2.A.
-Determine-
-1) The reaction force at contact points when 6 = 30°.
-2) The minimum angle 0 for which the spheres remain in equilibrium.
-Take for sphere 1 weight = 500 N and radius = 0.2 m. For spheres 2 and 3 weight = 1000N and
-radius = 0.4m.
-
-Fi g 2:B
-LKNI™
-5KN oe ”
-| JORN™
-Ah i
-ry
-.2- Ly 3K Dae A)
-Pig: one Tim! rel int 3m i
-b) Find the reactions at A and B on the structure as shown in the Fig. 2.B.
-Q.3 Solve following questions. [2x10]
-
-a) Determine the magnitude and nature of the forces in all members of the truss as shown in
-Fig.3.A using ‘Method Of Joints’.
-
-y\kn \KN
-4m | 2
-Pp
-i
-S005
-Q TPP ree
-P
-Fig 3°B
-
-7 | Uv
-
-(4m 2m 4 Fig 3°A *
-
-b) Find the least value of force P that will just start the system of blocks shown in Fig. 3.B
-
-moving to the right. Value of p for each block is 0.3. Also find the corresponding value of a .
-Assume smooth pulley.
-
-2
---- page 3 ---
-Q.4 Solve following questions. [2x10]
-a) Find moment of inertia of the shaded area as shown in Fig.4.A about x- axis and y- axis.
-
-100 KN
-
-| .
-— > Fig- 4-8
-“37 10cm ; Fig4-A °
-
-b) Calculate the magnitude of horizontal force P acting on the wedges B and C to raise the load of
-100 KN resing on A. Take 1 between wedge and ground as 0.25 and between wedges and A is
-0.2. Also assume symmetry of loading and neglect the weights of A, B, and C. Slope of wedges
-are 1: 10. Refer Fig. 4.B
-
-Q.5 Solve following questions. [2x10]
-a) Water drops drip from a leaking tap at a rate of 4 drops per sec. At an instant what is the vertical
-separation between two consecutive drops if the lower of the two drops has velocity of 5 m/sec.
-
-b) Determine the co-ordinates of centroid of the shaded portion as shown in Fig. 5.A.
-
-Rw
-§
-0 20™
-YY
-: §
-9
-
-3 | >
-j Zocml 20cm Fig- 5-A
-
-Qyo! Solve following questions. [2x10]
-a) From the top of a 20m high building a ball is projected at 15m/sec at an angle of 30° upwards to
-the horizontal. At what distance it would hit the ground from the foot of the building. What is
-the maximum height attained above the ground, the velocity of the ball just as it hits the ground
-and the total time of flight.
-
-2/4
---- page 4 ---
-b) A package A of mass 25 Kg. is being pulled up the incline by a load B of mass 60 Kg.
-connected to it by an inextensible rope passing over frictionless pulleys. Determine the
-accelerations of the two blocks and the tension in the connecting rope. Take us = 0.4 and nk =
-0.3 between the incline and A. Refer Fig. 6.B.
-
-2.7 Solve following questions. [2x10]
-a) A hammer of mass 4 Kg. slips off from the hands of the carpenter working on the roof top at A.
-If uk = 0.2, determine the velocity of the hammer at the edge B of the roof and also find the
-location X of point C where the hammer strikes the ground. Refer Fig.7.A.
-
-\ G Fig. TA
-
-oa ma
-
-B) The bar AB has an angular velocity of 6 rad/sec. clockwise when @ = 50°. Determine the
-corresponding angular velocities of bars BC and CD at this instant. Refer Fig.7.B.
-
-Dp
-}
-‘ O:\S™m
-
-a! B oO:-25mM
-
-af 7
-©
-6 rad [sec .
-A (os)
-
-TPF Fig: T-B
-
-*f
-````
-
-## 2010-11 · Re-Exam · Trim 2 · paper 5d5cd88be154
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/Engineering mechanics BATCH 2009-10,2010-11 RE EXAMscan0020.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08/02/2013
-- Text: ocr (4 pages), mean OCR confidence 77.2
-
-````text
-SVKM’s NMIMS Ga
-Mukesh Patel School Of Technology Management & Engi aa £
-
-Programme: B-Tech - All Streams Year: I Trimester: II
-Academic Year : 2012-2013 r s ey
-Batch: 2009-10, 2010-11 * yi
+Batch: 2008-2009
 Subject: Engineering Mechanics Marks: 100
-Time: 2.00 pm To 5°
-Date: 08/02/2013 Duration: 3 hrs.
+
+Time: 10.00 am To 1.00 pm
+Date: 11/05/2012 Duration: 3 hrs.
 
 Re - Examination
 
-¢ Attempt any FIVE questions.
-
-« Answers to all sub questions should be grouped together.
-
-¢ Figures to the right indicate full marks.
-
-« Assume suitable data if necessary and state the same clearly.
-
-Q.1 (a) Answer the following.
-i. Describe different system of forces with examples. (04)
-ii. State the laws of friction. (04)
-
-Q.1(b) A rigid bar AB is subjected to a system of parallel forces as shown in figure 1. (12)
+Q.1 (a) Answer the following
+i. Differentiate between coplanar concurrent and coplanar non concurrent
+force system. (04)
+ii. State the assumptions involved in the analysis of pin jointed frames. (04)
+Q.1(b) A rigid bar is subjected to a system of parallel forces as shown in figure 1. (12)
 Reduce the given system of forces to
 i. Asingle force
 ii. Force couple system at A
 iii. Force couple system at B
-Q.2 (a) Three spheres each with 2 kg mass and each 350 mm in diameter rests in a box (10)
-760 mm wide as shown in figure 2. Determine
-i. The reactions developed by B on A
-ii. The reaction developed by wall on C
-iii. The reaction developed by floor on B
+Q.2(a) A uniform ladder AB 6m long rests against a smooth vertical wall at A and on (10)
+j the horizontal floor at B which is 2 m away from the wall as shown in figure 2. It
+} is prevented from slipping by a horizontal chain tied at C such that BC = 1.8 m.
+find the reactions at A and B and also tension in the chain if the self weight of
+the ladder is 1.2 KN
+Q.2(b) Find the tension in the cable and the force P required to move the block 1 (10)
+towards the right as shown in figure 3. The coefficient.of friction between the
+block A and the plane is 0.3 and between block B and the plane is 0.2. take the
+weight of block 1 as 250 N and that of block 2 as 100 N.
+Q.3 (a) |} A 15° wedge is used to push a block as shown in figure 4. If the coefficient of (10)
+: * friction is 0.25 for all surfaces in contact determine the minimum load P required
+q ho push the block of weight 1000 N.
+Q.3 (b) Determine the forces developed in the members CD, EF and CF of a pin jointed (10)
+‘ frame loaded as shown in figure 5. .
+Q.4 (a) Determine the resultant of the five forces acting on the particle as shown in (08)
+figure 6.
+Q.4(b) Locate the centroid and hence determine the moment of inertia about the (12)
+centroidal XX and YY axes of the plane cross section as shown in figure 7.
 
-Q.2 (b) A ladder of length 5 m is placed against a vertical wall. The weight of the ladder (10)
-is 300 N. The bottom of the ladder makes an angle of 45° with the floor. The
-coefficient of friction between the floor and the ladder is 0.5 and that of between
-wall and ladder is 0.4. In addition to its own weight, the ladder has to support a
-man of weight 500 N at 1 m along the ladder from the top. Determine the
-minimum horizontal force to be applied at the floor level, to prevent the ladder
-from slipping.
+\
 
-Q.3 (a) Determine the support reactions and the force F required to start the movement (10)
-of the wedges as shown in the figure 3. The angle of friction for all contact
-surfaces is 17°. The weight of the body A is 50N. ignore the weight of wedge B.
-
-Q.3 (b) Determine the forces developed in the members of a pin jointed frame loaded as_ (10)
-shown in figure 4.
-
-Q.4 (a) Determine the unknown forces F1 and F2 for the force system shown in figure 5. (08)
-
-/4
+‘b
 --- page 2 ---
-Q.4 (by Calculate the moment of inertia of the L section shown in figure 6 about the (12)
-horizontal and vertical axes passing through CG.
-s Q:5 (a) The motion of the particle is defined by the following relation. (12)
-™ x=t-6t? -15t +40, where x is in meters and t is in seconds. Determine
-i. The time at which the velocity will be zero
-ii. The position and the distance travelled by the particle at that time
-iii. The acceleration of the particle at that time
-iv. The distance travelled by the particle from t = 4 second to t = 6 seconds.
+Q.5 (a) The motion of the particle is defined by the following relation. (10)
+x=t' + Stand y = t* — 8t? + 2, where x and y are in meters and t is in seconds.
+Determine the velocity and acceleration at t = 10 seconds.
 
-Q.5 (b) An aircraft moving horizontally with a speed of 720 kmph at a height of 800 m, (08)
-towards a target on the ground releases a bomb which hits the target. Find the
-time required for the bomb to reach the target on the ground and the horizontal
-distance of the aircraft from the target. Assume that the aircraft is moving
-parallel to the ground.
+Q.5 (b) A projectile is aimed to hit a mark on the horizontal plane through the point of (10)
+projection and falls 9 m before the point of mark with an angle of projection of
+20°. It overshoots the mark by 5 m when angle is 50° with the same velocity.
+Determine the angle of projection to hit the mark using the same velocity.
+Assume no air resistance.
 
-Q.6 (a) Blocks A and B shown in figure 7 are constrained to move in the fixed slot and (10)
-are connected by a 2 m long rod. The velocity of B is 3 m/sec towards right.
-Determine the velocity of A at this instant and the angular velocity of the bar.
+Q.6 (a) In the engine system as shown in figure 8, the crank AB has a constant angular (10)
+velocity of 1000 RPM. For the crank position indicated, determine the angular
+velocity of connecting rod BC and the velocity of piston P.
 
-Q.6 (b) Find the velocity of the balls shown in figure 8 after impact, if e = 0.6. (10)
+Q.6 (b) A 50 N block is released from rest on an inclined plane which is making an (10)
+angle of 35° to the horizontal. The block starts from ‘A’, slides down a distance
+of 1.2 m and strikes a spring with a stiffness of 8 kN/m as shown in figure 9. The
+coefficient of friction between the inclined plane and the block is 0.25.
+Determine
 
-Q.7 (a) Blocks A and B of mass 10 kg and 30 kg respectively are placed in a 30° (12)
-inclined plane as shown in figure 9. The coefficient of friction between the block
-A and plane is 0.25 and that between the block B and plane is 0.15. What is the
-force between them as they slide down? What is the acceleration of the blocks?
+i. The amount the spring gets compressed
+ii. Distance the block will rebound up the plane form the compressed
+position.
 
-Q.7 (b) A beam AB 6 m long is loaded as shown in figure 10. Determine the reactions at (08)
+Q.7 (a) An object having weight 80 kg is pulled up on the plane by 75 N force as shown (10)
+in figure 10. Determine the velocity of the object after it has moved 0.5m. Take
+coefficient of friction as 0.1.
 
-A and B.
-| 40 kN 20 KN
-| \
-|
-| |
-A xe D } B
-t im | 2m 2m |
-| | | |
-1 i
-| |
-|
-IS kN 30 KN
-‘ .
+Q.7(b) Determine the tensions in the string and acceleration of block A and B as shown (10)
+
+in figure 11.
+1 4OkN 20kN
+} | A
+C
+At 8
+} 18]
+fas | cama
++0.5m— im . Im
 Figure 1
+D ‘y
+7 ay 4 B
+v 2m
 
-fA
+Figure 2
 --- page 3 ---
-760 mm
+g
 
-®
-
-fen 4cm re i ®
-
-Figure 6
-
-Cc
-A420" ®@ 60" 3078
-y D ® a
-7 5m WikN
-7.5m >
-Ra Re
+Wedge
 Figure 4
-@—>| k-2em
-=
-1Qcm 0)
-+
-| < do
-\ iO) ecm
+35P J
+2P
+30°
+60°
+5
+P .
 
->} —»—
+150°
 
-B 7
-SAAS CS SS 77
-
-Figure 3
-
-Figure 7
---- page 4 ---
-Wa von ~
-
-(a)x (Up) x Line of Impact
-aw ( ‘ a (updy
-(ua)y
-=12m/s ta= lems
 Figure 8
-ak
-‘ \
-\
-\
 
-} 500
+3
+
+3
+
+E F
+30 KN _
+2m 2m - ¢m—s|
+Figure 5
+Daas
+gem
+i
+10cm
+Sem
+!
+A 5—t
+espe =eeH10 Gin ——at
+Figure 7
 
 Figure 9
-
-5 kN 4kN
-
-5 kN
-15 9
-
-Rax c D 4
-
+--- page 4 ---
 Figure 10
+
+Ya
+
+
+Figure 11
 ````
 
-## 2010-11 · Re-Exam · Trim 3 · paper ba7a23a494d0
+## 2011-12 · Re-Exam · Trim 3 · paper ba7a23a494d0
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/ENGINEERING MECHANICS RE EXAMINATION BATCH 2010-110001.pdf`
 - Printed on paper: duration hours: 3; exam date: 11/05/2012
 - Text: ocr (3 pages), mean OCR confidence 82.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ema
@@ -11706,7 +12769,6 @@ internal hinge. - ‘ a. =(n/s7)
 
 | 2KN/m ; °
 awahonn o
-A 7 — am 23 * y+ a B za
 to [Ow a) | ick —S &
 32m d5m| 2 4 geeatl 2m i &
 @.2. A) 4 @.2-8)
@@ -11786,7 +12848,130 @@ e   — ¢ D
 Zs
 ````
 
-## 2009-10 · Exam not stated · Trim 2 · paper 5b153dc47746
+## 2010-11 · Exam not stated · Trim 2 · paper 09122adbdf53
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2008-2009.pdf`
+- Printed on paper: exam date: 21/06/2011
+- Text: ocr (4 pages), mean OCR confidence 91.9
+
+````text
+*
+
+SVKM’s NMIMS ao.
+Mukesh Patel School of Technology Management & EngingCank" 3
+Progamme: B.Tech (ALL STREAMS) Year: I Trimester: Ae .
+Academic Year : 2010-2011 2 oy
+Batch: 2008-2009 <
+Subject: Engineering Mechanics Marks: aa
+Time: cm am To 1.01
+Date: 21/06/2011 Duration: PS, .
+Re - Examination SPE
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+a) Question | is compulsory.
+b) Solve any FOUR from remaining Questions.
+c) Assume suitable data where necessary.
+d) Figures to right indicate marks.
+e) Answer to each new question should be started on a fresh new page
+
+Que 1:Answer any four from the following. (20)
+a) The resultant of a system of forces shown is 500 N and acts horizontally to the right.
+Find the magnitude and direction of the unknown force P acting in the system.
+
+r 2000 N
+
+8 45° R=S00N
+
+500 N Y¥ 2500 N
+
+b) A beam AB is loaded as shown in Figure. Find Support Reactions.
+
+6 KN
+
+om 10 KN
+| . 3kN/im |
+A . 30° 58
+3m 3m 3m v\< 3m } zy -
+
+c) Define angle of friction and explain the laws of friction. .
+
+d) A bicycle starts from rest and after traveling along a straight path at a distance of
+20 m reaches a speed of 30 kmph. Determine his acceleration if it is constant and
+time required ?
+
+e)State and Prove Varignon’s theorem.
+
+f) A stone is dropped from a height h. Find the expression for its velocity when it
+strikes the ground.
+--- page 2 ---
+Que 2: a) State and explain Lami’s theorem. (4)
+b) A thin ring of mass 3 kg and radius 140 mm is held against a frictionless wall
+by a string of length 120 mm .Find the distance d and tension in the string.
+
+A QS
+
+B
+
+d
+
+(8)
+c) Two blocks A (100 N) and B (150 N) are resting on ground as shown in the figure.
+Coefficient of friction between ground and block B is 0.10 and that between block B and
+A is 0.30. Find the minimum value of weight ‘P’ in the pan so that motion starts. Find
+whether B is stationary w.r.t. ground and A moves or B is stationary with
+respect to A. (8)
+
+b) Two 10° wedges of negligible weight are used to move a block of mass 100 kg. If u
+= 0.25 at all surfaces of contact, find the smallest force P that should be applied to
+one of the wedges. (10)
+
+%
+--- page 3 ---
+Que 4:: a) A uniform steel plate weighing 500 N is cut in a shape as shown
+Find Centroid w.r.t.A and support reactions. (10)
+
+6 cm»
+b) Find moment of Inertia about axis AB. (10)
+
+8cem
+
+QueS5:a) A small part in a mechanism travels on straight line such that its position is
+x=t'—10t? + 24,where x is in m and t is in sec. Determine when velocity is
+zero, when acceleration is zero, minimum speed reached by particle and distance
+traveled in 3 sec. (10)
+b) A car enters a curve road in the form of quarter circle of length 300 m at a speed
+of 20 kmph and it leaves the curve at 40 kmph. If the rate of change of speed is
+uniform along the curve, Determine resultant acceleration at both ends. (10)
+--- page 4 ---
+Que 6: a) A box is released from a helicopter moving horizontally with constant velocity
+v from a certain h from the ground takes 5 sec to reach the ground at an angle 75°
+as shown. Determine the horizontal distance x and the height h and the velocity u.
+
+(10)
+
+ke———_ x eer 7°
+
+b. Determine the acceleration of block-B and the distance it travels in t seconds after
+starting from rest. Assume frictionless pulleys. (10)
+
+AJ150N
+
+[EB] 200n
+
+Que 7: a)A block of 20 kg is released from rest:on the top of inclined plane at A. It
+travels on incline and come to rest at C. Find the distance x it travels and its
+maximum velocity attain during the motion. Take 1 = 0.3 for all surfaces. (10)
+
+b) At the position shown in figure, the crank AB has angular velocity of 3 rad/s
+clockwise. Find the velocity of slider C and the point D at the instant shown. (10)
+````
+
+## 2010-11 · Exam not stated · Trim 2 · paper 5b153dc47746
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -11937,6 +13122,608 @@ Q.7.b) Velocity of point a on rod is 2 m/s at the instant shown. Loctate instant
 rotation and Determine the velocity of point B. (8)
 ````
 
+## 2010-11 · Exam not stated · Trim 2 · paper fa305640845a
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2010-2011 (1).pdf`
+- Printed on paper: exam date: 21/06/2011
+- Text: ocr (3 pages), mean OCR confidence 85.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
++. SVKM’s NMIMS
+_ Mukesh Patel School of Technology Management & ae
+Programme: B.Tech (ALL STREAMS) Year: I Trime &: &
+Academic Year : 2010-2011 [ff >-~
+.
+
+Batch: 2010-2011 S SVK aS \
+Subject: Engineering Mechanics 16: “vr 100" J
+%, 310.00 ani 1.00 pm
+
+Date: 21/06/2011 @tion: ;
+
+Re - Examination /
+
+ge, axe
+
+NB: 1. Question No. 1 is compulsory. —"
+
+2. Attempt any 4 Questions out of the remaining. In all 5 questions to be
+attempted.
+
+3. Figures in brackets indicate Full marks for the said question.
+4. Assume suitable data, if required.
+5. Answer to each new question should be started on a fresh page
+Que. 1: Attempt any four out of following. [20]
+a) State & prove Varignon’s Theorem.
+b) State i)Law of transmissibility & ii)Laws of friction.
+c) Expain: i) Newton’s Second Law of Motion ii) Work-Energy principle.
+d) The crank OA rotates anticlockwise at 100 rad/s.Find the angular velocity of rod
+AB and the velocity of slider at B.
+
+~
+
+e) The rectilinear motion of a particle has its position defined by the relation
+=f —7t? +20t—10 m. Determine position, velocity and acceleration at 2 sec.
+
+Q.2: a) Find the centroid of the plane. uniform lamina shown in figure. with respect to
+
+AB and AC [10]
+heat
+a
+100 mm | +
+1"
+c ji
+
+Q. 2: b) : Determine the force P required to start the motion of wedge shown in Hgme,
+Take p= 0.26 for all surfaces. [10]
+
+P 2500N
+
+15° 1000N
+L, 100%
+
+P
+
+7
+
+Page | of 3
+--- page 2 ---
+Q.3 a) The angular acceleration a. (taken clockwise as +ve) of a flywheel is given
+by a=-4trad/sec” where t is in sec. If the initial angular speed of rotation is 3000
+rpm clockwise, (a) determine the time required for angular speed to change to 3000
+rpm anticlockwise. (b) determine the total number of revolutions completed by the
+flywheel during this time. [10]
+
+Q. 3 b) The magnitude and direction of two identical balls before central oblique
+impact are as shown in figure. Assume e= 0.90.Determine the magnitude and
+direction of velocity of each ball after impact. [10]
+
+Que. 4:a) A weightless bar is placed in a horizontal position on the smooth inclines as
+shown in figure. Find x at which 200 N force should be placed from point B to keep the
+barhorizontal. 10}
+
+7 unt Te ya
+Ae 45 rie
+
+- 4m
+
+Q. 4: b) Determine the resultant of the given coplanar system of forces and a couple.
+Locate the resultant on the x axis w.r.t. the origin. Also reduce the system to a force
+couple system at 0. [10]
+
+100N
+
+-f . :
+~ 225N
+“ 2 a
+bac oa
+“. a
+~. Pi
+Moo
+
+Page 2 of 3
+--- page 3 ---
+Q.5:a) Find moment of inertia about the centroidal x and y axis of the channel
+
+section. [10]
+: y
+ke 100:mm 7
+| H ‘en
+| bee
+150mm ;
+i
+: +
+x |, ‘ i [2s mm x
+125'mm Aj fF
+
+Q. 5: b) A car starts from rest and travels on a straight road with a constant acceleration
+of 1.2 m/s’.after some time a scooter passes by it traveling in opposite direction with a
+uniform velocity of 36 kmph. The scooter reaches the starting position of a car 30 sec
+after car left from there. Determine when and where the two vehicles passed each other.
+[10]
+
+Q.6: a) A ball is thrown at an angle of 60 degree with the horizontal on a building from a
+level of 1.2 m from the ground on a 6m high building. The building is 4.2m away from
+the person throwing the projectile. The width of the building further extends by 8m. Find
+when and where the ball will hit the roof if the initial velocity is 13 m/s. Also, find the
+velocity of projection of the ball if it was to hit the most distant point on the roof. [12M]
+
+Q. 6: b) : Block Pl of weight 4 N is connected to block P2 of weight 8 N by an
+inextensible string. Find the velocity of block P1 If It falls by 0.6 m starting from rest.
+L= 0.2. Also find the tension in the string. [8M]
+
+Le oe
+
+UF
+Q. 7 For the truss shown determine: [20]
+a. Reactions.
+b. Forces in DE. DG and GH by method of sections.
+c. Magnitude and nature forces in all members by method of joints.
+
+4kN 5KN
+
+Page 3 of 3
+
+````
+
+## 2010-11 · Exam not stated · Trim 3 · paper 30f028f44a0b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/ENGINEERING MACHANICS.pdf`
+- Printed on paper: exam date: 12/05/2011
+- Text: ocr (4 pages), mean OCR confidence 86.8
+
+````text
+_
+
+XX SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & E:
+
+Programme: MBA (TECH) (ALL STREAMS) Year: I Trimester:
+Academic Year : 2010-2011
+
+Subject: Engineering Mechanics . Marks:
+Time:
+Date: 12/05/2011 Duration:
+
+Final - Examination
+
+Instructions: candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+
+NB:
+1 Question No. 01 is Compulsory.
+2 Out of remaining questions, attempt any 04 questions.
+3 In all 05 questions to be attempted.
+4 All questions carry equal marks.
+5 Answer to each new question to be started on a fresh page.
+6 Figures in brackets on the right hand side, indicate full marks.
+
+Ql Solve any 04 [20]
+
+~
+
+(A) — The sum of two concurrent forces 'P and Q is 270 N and their resultant is of 180 N.
+If the resultant is perpendicular to P. Find P and Q.
+
+(B) Determine the resultant of the parallel system of forces as shown in figure below.
+
+| sm fb asm | nem bam |
+a
+
+200N SooN , 2so N 150 N 200 N
+(C) State and prove Lami’s theorem of three forces.
+
+(D) Define angle of friction and angle of repose.
+
+(E) Derive the relation of Work Energy Principle.
+
+Q2 (A) _ Find the reactions at the supports of the beam as shown below applying conditions
+. of equilibrium 2OokKN Z3OKN [05]
+
+A ey x
+
+are a
+
+3M
+
+Ve
+--- page 2 ---
+(B) The cylindrical rollers of weight 50 N each are placed inside a cup. Find reactions at “\
+
+points of contact. , [05]
+
+; 4st +}
+(C) A uniform bar AB of length L and weight W lies in a vertical plane with its ends
+resting on two smooth surfaces on OA and OB. Find angle 0 for equilibrium of bar..” [10]
+
+(A) Determine the forces in all the members of truss as shown below. [14]
+
+Q3
+(B) _ Find the centroid of shaded area shown in figure below. [06]
+3o cm
+
+—-—+t- ~~ —
+
+poe
+
+20 Cr
+--- page 3 ---
+Q4
+
+Q5
+
+Q6
+
+(A) A 100 N uniform rod AB is held in the position as shown in figure below. If
+coefficient of friction is 0.15 at A and B. calculate range of values of P for which
+equilibrium is maintained. ; [12]
+
+SB
+
+46 cm
+
+20 om ;
+loo N N
+
+A 16 cm ; iS oe '
+(B) Find the moment of Inertia w.r-t. the centrodial x and y axis as shown below. [08]
+| y Y 6 cy. ~
+iN j -
+
+2am
+\
+
+lo cm —_> <— 2om
+
+20m
+Vv i *
+
+; fo)
+(A) A car ‘A’ starts from point ‘O? & accelerates at constant rate of 0.75 m/s”. A short time
+
+later it is passed by. a bus ‘B’ which is traveling in opposite direction at a constant speed of
+6 m/s. knowing that ‘B’ passes point ‘O’ 20 sec after car ‘A’ started from there, determine
+when & where the vehicle passed each other? What was velocity of ‘A’ at the time of
+passing? ; [10]
+
+(B) A particle moves in a circular path of 4m radius. Calculate 4 sec later the particle’s
+total acceleration & distance traveled if, {10}
+a) speed is constant at 2 m/s
+b) speed is 2 m/s at the instant & is increasing at a rate of 0.7 m/s’.
+
+(A) A long range gun is aimed to hit the target at B. Knowing that the gun can fire the
+shell at 360 m/s, determine the angle of inclination 6 of the barrel so that the shell hits the
+target. Neglect the height of gun. ; [08]
+
+|
+“a / av / / / /
+. Sooo M
+--- page 4 ---
+Q7
+
+(B) . The angular acceleration of a shaft is given by the relation @ = - w/4. Att=0
+angular velocity is 25 rad/s . Determine, {12]
+i) Numbers of revolutions made by the shaft before coming to rest.
+ii) Time required to come to rest.
+iii) Time required for the angular velocity to be. reduced to 1% of initial Leite
+
+(A) The cart of mass m is subjected to a shock force F is given by F=Fg e° . If the
+
+cart is stationary at time t = 0 determine its velocity v and displacement S as function of
+time. ~ [08]
+
+(B) A30N block is released from rest. It slides down a rough incline having p = 0.25.
+Determine the maximum velocity and maximum compression of the spring. Refer figure
+given below. [12]
+````
+
+## 2010-11 · Re-Exam · Trim 3 · paper 86e94bed3d94
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/ENGINEERING MECHANICS RE EXAM.pdf`
+- Printed on paper: exam date: 12/05/2011
+- Text: ocr (5 pages), mean OCR confidence 78.2
+
+````text
+— SVKM’s NMIMS
+\ Mukesh Patel School of Technology Management & Engine
+Programme: MBA (TECH) (ALL STREAMS) Year: I Trimester:
+Academic Year : 2010-2011
+Batch: 2008-2009
+Subject: Engineering Mechanics “e Marks:
+Time:
+Date: 12/05/2011 Duration:
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NBS eo : ; ; ‘
+1...Question No.’ 1: - is compulsory.
+: 2. Out of remaining questions, attempt anyfOURCuestions.
+» 3. Inall, five questions to be attempted.
+' 4. All question carry equal marks. . a
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicate full marks.
+
+ie Assume suitable data where necessary.
+
+af Solve any four of the following :-— (20)
+(a) Determine the magnitude and direction of Force F, and F, ? When the’ Resultant of given force
+_ system is found to be 800 N along 4+ve Xx axis.
+
+LY
+1
+. Fes 290N 4 Fye?
+26'S Fae _
+zp". C i
+F42 BPO, + Fs, 2 SON
+
+iB) Replace the system of forces and couples shown in figure by a'single force and couple at a point A.
+
+v
+2ooN
+GN-™ — ON” ; .
+domm 4G. 2 E)\ & pK
+\ - Zommy 25mm,   3Emm
+? % o ° - TaN
+
+ci A crane is pivoted at the end B and is supported by guide at A. Determine the reaction produced
+at A and B by a vertical load W = 5 KN applied at C. Assume guide to be smooth. .
+
+“TURN OVER
+--- page 2 ---
+{2}
+= (t- 2) m/s?
+
+th rectilinear translation is given by &
+2 sec.
+
+e which moves wi
+locity and displacement when t =
+
+-, The acceleration of a particl
+d velocity are zero. Find the ve!
+
+at t = 0, the displacement an
+and when t = 4 sec.
+
+=, Askier travels with a constant speed of 6 m/s along the parabolic pa
+
+figure determine the velocity and acceleration at-the instant he arrive
+
+the skier.
+
+thy = 1/20 ¥° as shown in
+5 at A. Neglect the size of
+
+xt?
+
+y 2M50
+
+, Aom :
+
+The Truss is loaded and supported as shown in fig
+
+(i) Identify the zero force member.
+(ii) Find forces in members EF, ED and FC by method of joints.
+Find forces in members GF, GC and BC by method of section.
+
+(a) ure. Determine the following :-—
+
+(ii)
+Ay {oo Kit
+Y eG | AO EN
+f ; . ; Fe joo ED
+i 4b
+WZ {se u al
+se —D. 30 ——E
+
+B : 3m = t
+of
+
+(pb) For the system shown in Figure, what value of mass M will cause motion of A to impend. The
+coefficient of friction between A and surface is 0-30 and between the rope and drum is S. ‘Take
+
+mass of A as 55 kg.
+
+—>} 06 K-
+
+12
+--- page 3 ---
+3.
+
+(a)
+
+(b)
+
+(a) Determine the compon
+
+(3)
+
+Replace the force system show, by two parallel
+
+4okw
+
+:
+
+forces at B and D. te
+A
+
+0:5™
+
+(i) Determine coordinate of centroid of
+shaded area. Also determine MI at base
+X-axis, and transfer it to the centroidal
+X-axis using parallel axis theorem.
+
+(ii) A hemispherical body of uniform den-
+
+: sity rests on a horizontal surface and
+
+is subjected to a force ‘P’ at the rim
+
+as shown. If P in increased slowly and
+
+always kept normal to the rim surface,
+
+determine co-efficient of static friction.
+
+If angle of tilt 6 = 40°. at which slipping
+
+occurs. Also determine resultant re-
+action at ‘A’ and Force ‘P’.
+
+7 7
+
+it r= 1 mand weight of solid
+
+énts of forces acting at points B, C and E. Ass
+
+“ 4m
+
+~ (b)(i) Determine the reactions at points of con-
+
+tact 1, 2 and 3. Assume smooth sur- .
+faces.
+
+Mem Be
+
+S ™ Cc im 2D
+-—y¥
+
+29
+
+hemisphere is 500 N.
+
+roe
+
+ume that the pulley is smooth.
+
+(ii) A particle of mass ‘m’ starts from rest at ‘A’
+and slides down a track AB and then enters
+a Vertical-loop of radius ‘r’ at ‘B’ as shown.
+What should be the minimum height ‘hn’ at
+the starting point of the particle so that it
+may !oop the loop without falling off the track
+
+ai U ¢
+
+1s
+
+= 7
+--- page 4 ---
+(4)
+
+=. (a) Determine the centroid of the bent wire shown in figure. 10
+ad
+. | 5
+i om pal 2m 4 2m™
+“FA
+6m
+E
+in
++ | ae a ee
+
+a ; F
+
+(b) An object is projected so that it just clears two obstacles each 7-5 m*high which 10:
+are situated 50 m from each other. If the time of passing between two obstacles is ~
+2-5 seconds, calculate the complete range of projection and initial velocity of
+_ projection.
+44
+
+u :
+bk 8
+
+. 75m
+ttt "
+
+O.. Som ‘ | . iC
+
+6. (a) Compute the moment of inertia of the shaded area about x-x and y-y axis as shown” 16
+inthe figure. “
+
+at
+
+re, &
+
+oc
+
+Ys
+--- page 5 ---
+— -. / 8)
+ock of mass m = 80 kg is compressed against a spring as shown in Figure. 40
+ow far from point B [ distance x ] will the block strike on the plane at point A.
+“4 Take free length of spring as 0-9 m and spring stiffness as K = 40 x 10? N/m.
+
+r
+
+7
+
+A a
+
+4K =
+
+Z wwe] me] B= 9°? bat
+
+Os - s ; z~
+
+OLm af N .
+poet _3m ~
+. 4 \
+
+4 st 3m
+4 \ .
+q VA 7
+Appa TTT TTI TTT TTT
+Le. He >|
+
+r\
+
+iston‘C’ is constrained to move in a vertical slot. A and B moves on
+
+7. (a) Inthe mechanism shown in figure. P root hinges. ifV, = 0-45 m/sec. to the right.
+
+i ith $
+horizontal surface. Rods CA and CB are connected wi
+Find velocity of C and B. Also find angular velocity of two rods.
+
+Vy c — p a
+wee eee Al- :
+20m) —_ Soo mr)
+8&4 B { A aj
+- : t q .
+p—ASomm $42.51" of
+
+(o) The magnitude and direction of two identical smooth balls before central oblique impact are as shown in
+figure. Assuming e = 0-90. Determine the magnitude and direction of velocity of each ball after impact.
+
+(c) A15kg slender rod AB is1-5 m long and pivoted about point ‘O’ which is 0-3 m from end B. The other end
+is pressed against a spring of constant. K = 300 kN/m. Until the spring is compressed 25 mm. The rod is
+then in a horizontal position. If the rod is released from this position. Determine the angular velocity when
+the rod has rotated through 60° and 90°.
+
+a eS ot
+
+i
+
+. | 03m
+
+le a Sov Ko Ts
+
++
+ATTT
+````
+
 ## 2009-10 · Exam not stated · Trim 3 · paper 1155287a6c46
 
 - Departments: Common (all branches)
@@ -11944,6 +13731,7 @@ rotation and Determine the velocity of point B. (8)
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/2009-2010(46).pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (4 pages), mean OCR confidence 83.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS VAS om No,
@@ -12024,7 +13812,6 @@ _ =)
 : ie eB — > loo KN :
 3am tf.
 Ss
-{a Seb fe 2 yt ‘5S mm y. Fd eS
 CBN Cerda cece 7
 (B) Explain General plane motion with example. “~~~ - (06)
 --- page 3 ---
@@ -12061,7 +13848,6 @@ the ground. (12)
 ‘Ss Ky
 2ky . h=2™
 os |
-ALAS AL ALPS HAA A ane
 Question 7: (A) For an I-section as shown below. Find I,x and Ty, (10)
 q | >|
 K
@@ -12084,186 +13870,6 @@ K A”
 
 If the ceiling height of the room is 8 m, find the angle of projection of the ball and the height of
 point where the ball hits the wall. (10)
-````
-
-## 2009-10 · Re-Exam · Trim 2 · paper 58a1fdc0777f
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2009-2010 RE EXAM (1).pdf` (+2 identical copies)
-- Printed on paper: exam date: 04/02/2012
-- Text: ocr (4 pages), mean OCR confidence 76.3
-
-````text
-\
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-' Programme: B.Tech - ALL STREAMS Year: I Trimester;
-| Academic Year : 2011-2012
-
-—
-
-f
-‘ Batch: 2009-2010
-
-Subject: ENGINEERING MECHANICS Mark? ¢ G'S \e
-Un ve
-Timed| a( 2,00.pm,40"S.)e fm
-Date: 04/02/2012 Durafi 3HPgary
-Re - Examination IF
-INSTRUCTIONS
-
-+ Attempt any Five questions out of Seven.
-
-* Answers to all sub questions should be grouped together.
-
-+ Figures to the right indicate full marks.
-
-* — Assume suitable data if necessary and state the same clearly.
-
-Q.1 (a) Determine the resultant of the five forces acting on the particle as shown in (10)
-figure 1.
-
-Q.1(b) Four forces and a couple are applied to a rectangular plate as shown in figure 2. (10)
-Determine the magnitude and direction of resultant of force couple system. Also
-
-determine the distance x from O along x-axis where resultant intersects.
-
-Q.2 (a) Determine the reactions developed for a simply supported beam as shown in (10)
-figure 3.
-
-Q.2 (b) Find the tension in the cable and the force P required to move the blocks towards (10)
-the right as shown in figure 4. The coefficient of friction between the block A
-| and the plane is 0.3 and between block B and the plane is 0.2.
-
-Q.3 (a) Two 10° wedges are used to push a block horizontally as shown in figure 5. If (10)
-the coefficient of friction is 0.25 for all surfaces in contact determine the
-minimum load P required to push the block of weight 7.5 KN.
-
-Q.3 (b) Determine the forces developed in the members of pin jointed frame as shown in (10)
-figure 6. Use method of joint.
-
-\ ‘ Q.4 (a) Priya throws a stone from the top of the building 30 m high with an initial (10)
-FI } velocity of 25.5 m/sec directed vertically upward. On its way down, the stone
-just misses the edge of the roof as shown in figure 7. Determine
-i. The velocity ‘v’ and the elevation of the stone above the ground at the
-time ‘t’
-ii. The time needed for the stone to reach its maximum height
-iii. |The maximum height above the ground level
-
-1 14,
---- page 2 ---
-q
-
-iv. The time needed for the stone to reach the top of the building and its
-velocity during the downward journey
-v. Velocity when it reaches the ground.
-
-Q.4(b) A 50 N block is released from rest on an inclined plane which is making an
-angle of 35° to the horizontal. The block starts from ‘A’, slides down a distance
-of 1.2 m and strikes a spring with a stiffness of 8 KN/m as shown in figure 8. The
-coefficient of friction between the inclined plane and the block is 0.25.
-Determine
-
-i. The amount the spring gets compressed
-ii. Distance the block will rebound up the plane form the compressed
-position.
-
-Q.5(a) A ball is dropped from a height of 8 m on a plane inclined at 25° to the
-horizontal axis as shown in figure 9. If the coefficient of restitution is 0.8,
-determine the time and location of the ball when it strikes the plane again.
-
-Q.5 (b) In the engine system as shown in figure 10, the crank AB has a constant angular
-velocity of 4000 RPM. For the crank position indicated, determine the angular
-velocity of connecting rod BD and the velocity of piston P
-
-Q.6(a) An object weighing 80N is pulled up on the smooth plane by 75 N force as
-shown in figure 11. Determine the velocity of the object after it has moved 4 m.
-
-Q.6(b) Determine the tensions in the string and acceleration of block A and B as shown
-in figure 12.
-
-Q.7_ . Locate the centroid and hence determine the moment of inertia about the
-centroidal XX and YY axes of the plane cross section as shown in figure 13.
-
-}
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(20)
---- page 3 ---
-Figure |
-
-Y
-0.25 m 0.6m
-if 750kKN <——@
-600KN
-‘<
-‘SOKN-m
-©) 4
-
-300KN i
-
-Figure 2
-
-12m
-
-=,
-
-0.3m
-
-5m
-
-Figure 3
-
-7.5KN
-
-Figure 5
-
-c E|
-3 18KN "
-3m 43m. 42m |
-Figure 6
-
-a
-gon} [|
-[I
-J
-
-7
-
-777 7 D
-
-Figure 7
---- page 4 ---
-Figure 10
-
-Figure 11
-
-LLLLLLA PLLA ELL LLL LL
-
-Figure 12
-
-ie)
-
-Y 1
-At
-hole = 5em@
-
-+~— 10cm ——B
-
-Figure 13
-
-a
 ````
 
 ## 2009-10 · Re-Exam · Trim 2 · paper 2aac5163a663
@@ -12540,234 +14146,13 @@ Lagos
 4 SRI SR HHH IAI RI IRR RRR RR RRR HR RR
 ````
 
-## 2008-09 · Exam not stated · Trim 2 · paper 5371ba1e3ea3
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2008-09,10-110001M (1).pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2012
-- Text: ocr (3 pages), mean OCR confidence 91.5
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineerin
-
-Programme: MBA Tech Year: I Trimester: III
-Academic Year : 2011-2012
-
-, Batch: 2008-09 froio-it
-\ Subject: Engineering Mechanics Marks: 100}| x(
-Time: 10.0
-Date: 27/06/2012 Duration: 3 hrs’
-
-Re - Examination
-
-NB: 1. Attempt any 5 Questions
-
-2. Figures in brackets indicate Full marks for the said question.
-
-3. Assume suitable data, if required.
-
-4. Answer to each new question should be started on a fresh page
-Q.1 a) Solve for the resultant of the six loads shown in the figure. Three Loads are
-vertical and the wind loads are perpendicular to the side. The truss is symmetrical. Also
-find the forces in the three members forming the base of the truss between DB & FG by
-method of section. (12Marks)
-
-Q.1 b) Determine the resultant of the forces acting on the bell crank shown in the figure.
-(8 Marks)
-
-450 N *
-Q. 2 a) Determine the centroid of the shaded portion shown in figure. (10 Marks)
-
-Q.2 b) A car travels along a straight road with the speed shown by the v-f graph.
-Determine the total distance the car travels until it stops when ¢ = 48 s. Also plot the x-r
-and a-t graphs. (10 Marks)
-
-3,
---- page 2 ---
-v=-$(t~ 48)
-
-10 20 30 40 48 ¢(s)
-
-Q.3 a)The crank OA rotates anticlockwise at 100 rad/s.Find the angular velocity of rod
-AB and the velocity of slider at B. (10 Marks)
-
-xo)
-
-Q. 3 b) Prove that the path of a standard projectile motion is parabolic. Also derive the
-formulas for the Range and Maximum Height. (10 Marks)
-
-Q. 4 a) The magnitude and direction of two identical balls before central oblique
-impact are as shown in figure. Assume e= 0.90.Determine the magnitude and
-direction of velocity of each ball after impact. [10 Marks]
-
-Q.4 b) A jet of water is discharged at A with a velocity of 20.m/s to strike a moving
-plate B as shown. If the plate is moving downward with velocity of Im/s, determine the
-relative velocity of water w.r.to the plate just before it strikes. (10 Marks)
-
-}
-
-/
-
-a
---- page 3 ---
-Q.5 a) State the Laws of Friction. (4Marks)
-
-b) Explain D’ Alembert’s Principle and Work-Energy Principle. (8Marks)
-c) Determine the force P required to start the motion of wedge shown in figure.
-Take p= 0.26 for all surfaces. (8 Marks)
-P 500N
-15° 1000N
-2
-Q.6 a) State and Prove Varignon’s theorem. Explain its application. (8 Marks)
-
-Q.6 b) If the coefficient of static and kinetic friction between 20 kg block A and 100 kg
-block B are both essentially the same value of 0.5 and there is no friction between wheels
-of car B and surface, determine the acceleration of each block when (i) P= 40 N (ii) P=
-60 N. Assume pulley to be massless and frictionless. (12 Marks)
-
-P
-
-A
-20kg> S
-| B 100 kg
-
-VIVITTFTT IFT
-
-q!
-````
-
-## 2008-09 · Exam not stated · Trim 2 · paper 09122adbdf53
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/ENGINEERING MECHANICS BATCH 2008-2009.pdf`
-- Printed on paper: exam date: 21/06/2011
-- Text: ocr (4 pages), mean OCR confidence 91.9
-
-````text
-*
-
-SVKM’s NMIMS ao.
-Mukesh Patel School of Technology Management & EngingCank" 3
-Progamme: B.Tech (ALL STREAMS) Year: I Trimester: Ae .
-Academic Year : 2010-2011 2 oy
-Batch: 2008-2009 <
-Subject: Engineering Mechanics Marks: aa
-Time: cm am To 1.01
-Date: 21/06/2011 Duration: PS, .
-Re - Examination SPE
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-a) Question | is compulsory.
-b) Solve any FOUR from remaining Questions.
-c) Assume suitable data where necessary.
-d) Figures to right indicate marks.
-e) Answer to each new question should be started on a fresh new page
-
-Que 1:Answer any four from the following. (20)
-a) The resultant of a system of forces shown is 500 N and acts horizontally to the right.
-Find the magnitude and direction of the unknown force P acting in the system.
-
-r 2000 N
-
-8 45° R=S00N
-
-500 N Y¥ 2500 N
-
-b) A beam AB is loaded as shown in Figure. Find Support Reactions.
-
-6 KN
-
-om 10 KN
-| . 3kN/im |
-A . 30° 58
-3m 3m 3m v\< 3m } zy -
-
-c) Define angle of friction and explain the laws of friction. .
-
-d) A bicycle starts from rest and after traveling along a straight path at a distance of
-20 m reaches a speed of 30 kmph. Determine his acceleration if it is constant and
-time required ?
-
-e)State and Prove Varignon’s theorem.
-
-f) A stone is dropped from a height h. Find the expression for its velocity when it
-strikes the ground.
---- page 2 ---
-Que 2: a) State and explain Lami’s theorem. (4)
-b) A thin ring of mass 3 kg and radius 140 mm is held against a frictionless wall
-by a string of length 120 mm .Find the distance d and tension in the string.
-
-A QS
-
-B
-
-d
-
-(8)
-c) Two blocks A (100 N) and B (150 N) are resting on ground as shown in the figure.
-Coefficient of friction between ground and block B is 0.10 and that between block B and
-A is 0.30. Find the minimum value of weight ‘P’ in the pan so that motion starts. Find
-whether B is stationary w.r.t. ground and A moves or B is stationary with
-respect to A. (8)
-
-b) Two 10° wedges of negligible weight are used to move a block of mass 100 kg. If u
-= 0.25 at all surfaces of contact, find the smallest force P that should be applied to
-one of the wedges. (10)
-
-%
---- page 3 ---
-Que 4:: a) A uniform steel plate weighing 500 N is cut in a shape as shown
-Find Centroid w.r.t.A and support reactions. (10)
-
-6 cm»
-b) Find moment of Inertia about axis AB. (10)
-
-8cem
-
-QueS5:a) A small part in a mechanism travels on straight line such that its position is
-x=t'—10t? + 24,where x is in m and t is in sec. Determine when velocity is
-zero, when acceleration is zero, minimum speed reached by particle and distance
-traveled in 3 sec. (10)
-b) A car enters a curve road in the form of quarter circle of length 300 m at a speed
-of 20 kmph and it leaves the curve at 40 kmph. If the rate of change of speed is
-uniform along the curve, Determine resultant acceleration at both ends. (10)
---- page 4 ---
-Que 6: a) A box is released from a helicopter moving horizontally with constant velocity
-v from a certain h from the ground takes 5 sec to reach the ground at an angle 75°
-as shown. Determine the horizontal distance x and the height h and the velocity u.
-
-(10)
-
-ke———_ x eer 7°
-
-b. Determine the acceleration of block-B and the distance it travels in t seconds after
-starting from rest. Assume frictionless pulleys. (10)
-
-AJ150N
-
-[EB] 200n
-
-Que 7: a)A block of 20 kg is released from rest:on the top of inclined plane at A. It
-travels on incline and come to rest at C. Find the distance x it travels and its
-maximum velocity attain during the motion. Take 1 = 0.3 for all surfaces. (10)
-
-b) At the position shown in figure, the crank AB has angular velocity of 3 rad/s
-clockwise. Find the velocity of slider C and the point D at the instant shown. (10)
-````
-
 ## 2008-09 · Exam not stated · Trim 3 · paper a635fdad19e7
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/2008-2009(38).pdf`
 - Text: ocr (5 pages), mean OCR confidence 82.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -12861,7 +14246,6 @@ Joo EN
 
 200 KN
 
-/ 3m Cc ae oy D> 39 Ee
 
 (b) For the system shown in Figure, what value of mass M will cause motion of A to impend. The
 
@@ -12882,7 +14266,6 @@ forces at B and D. 4okn Bok
 IS Ew
 20ky,
 = = )
-A 0:5™M B im e Im, D
 (b) (i) Determine coordinate of centroid of 8
 shaded area. Also determine MI at base ‘
 X-axis, and transfer it to the centroidal am.
@@ -13015,158 +14398,6 @@ lc > Qu KWo,
 x
 
 d
-````
-
-## 2008-09 · Re-Exam · Trim 2 · paper 6ee246eddac9
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/sENGINEERING MECHANICS BATCH 2008-09 RE EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 04/02/2012
-- Text: ocr (3 pages), mean OCR confidence 85.6
-
-````text
-= SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineeri:
-
-, Programme: B.Tech - ALL STREAMS Year: I Trimester: pee SCHOo,
-i een
-Academic Year : 2011-2012 S94 N.Q
-Batch: 2008-2009 SO ows | {ye
-Subject: ENGINEERING MECHANICS Marks: f/ AORmins Unversity ) ao
-Time: 2.00upmTo 8.00 p=
-Date: 04/02/2012 Duratiork\ ,8 hrs.'8* ¥
-
-Re - Examination
-
-Instructions: Candidate should read carefully, the instructions printed on
-Paper and on the cover of answer book which is provided for their use.
-NB:
-
-1. Attempt any 5 Questions.
-
-2. Figures in brackets indicate Full marks for the said question.
-
-3. Assume suitable data, if required.
-
-4. All questions carry equal marks
-
-5. Answer to each new question should be started on a fresh page
-
-Ql a)To move a boat uniformly along
-the river at a given speed a resultant
-force R = 520 Nis required. Two men
-pulling with force P and Q by means of
-ropes to this. The ropes make an angle of
-30° and 40° respectively with the sides
-of the river as shown in figure.
-(i)Determine the force P and Q. (ii) If
-60) = 30°, find the value of 80 such that
-the force in the rope Q is minimum. (10 Marks)
-What is the minimum force Q ?
-
-Q.1 b)Find the Support Reactions (10 Marks)
-} . OWN
-son
-cf BAO
-|
-De i 2m
-ON 900 N-m |
-wy {200 N
-
-: fox x
-
-j jm
-
-7 )}   Q.2a) Determine the centroid of the
-following figure (8 Marks)
-
-V3
---- page 2 ---
-Q.2 b) Block‘A of weight 2000 N is kept
-on a plane inclined at 35°. It is
-connected to weight B by an in-
-extensible string passing over a smooth
-pulley further inclined at 20°. Determine
-weight of B so that B just moves down.
-Take p = 0.2 (12 Marks)
-
-Q.3 a) Three forces 1 kN. 3 KN and 2.5
-kN act on a vertical pole 6 m high.
-
-i) Find the magnitude. direction
-and position of resultant w.rt A
-
-ii)The position where the
-resultant cuts the pole from the base.
-(10 Marks) : sm
-
-Im
-
-2m
-
-Q.3 b).Find the forces in all the
-following members using method of
-joints. (10 Marks)
-
-Q.4)The maximum allowable force
-
-vt 1sm © ism _ B iLsm *
-
-(Tension or Compression) in AB, AF & oP
-GF is 80 KN. Determine the maximum “I
-permissible load P applied at Point D on E
-
-the truss shown. (10 Marks)
-
-G
-
-Q4 b)Two 6 degree wedges are used to push a block of 10kKN horizontally as shown.
-Calculate the minimum force required if Coefficient of friction = 0.2 between ground and
-the block & 0.25 for all other surfaces. (10 Marks)
---- page 3 ---
-Q.5 a)
-
-Two smooth spheres A & B having a
-mass of 2kg and 4kg respectively collide
-with initial velocities of 2 m/s. & 4 m/s.
-as shown. If coefficient of restitution is
-0.8, determines the velocities of each
-sphere after collision. (10 Marks)
-
-up = 4m
-
-It is observed that a skier leaves the
-platform at A and then hits the ramp at B
-as shown in the figure in 5 seconds.
-Calculate the initial speed u & the
-launch angle a Also find the direction
-and the magnitude of the velocity when
-he hits the ramp.
-
-(10Marks)
-
-velocity of 3 rad/s. anticlockwise.
-
-t
-AA +
-150mm
-CD. (10 Marks) a *
-
-Q.6a) In the position shown in the A B =p
-figure, the bar AB has constant angular . >, 200mm
-Determine the angular velocity of bar
-
-e240 A ISO
-
-anmn mm
-
-Q.6 b)Blocks A & B are connected by an inextensible string as shown. If both blocks are
-released simultaneously from rest what distance do the move in 5 seconds? (10 Marks)
-
-Ne fe oe oe fe 2 2s eo oe og oo oe oo oo oo
-
-2/3
 ````
 
 ## 2008-09 · Re-Exam · Trim 3 · paper c876f9e8a690
@@ -13479,164 +14710,6 @@ NN
 ~   _———- B
 ````
 
-## 2008-09 · Re-Exam · Trim 3 · paper 29e73c6ec444
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/ENGINEERING MECHANICS RE EXAM BATCH 2008-20090001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/05/2012
-- Text: ocr (4 pages), mean OCR confidence 74.0
-
-````text
-oA NTUTE OF My
-7 lg,
-j ;
-
-F
-
-(ef mM PpSTME YO
-
-Bribe AR Y Js
-ee
-
-oe
-ef
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & En
-Programme: MBA (TECH) (ALL STREAMS) Year: I Trimester: III
-Academic Year : 2011-2012
-
-Batch: 2008-2009
-Subject: Engineering Mechanics Marks: 100
-
-Time: 10.00 am To 1.00 pm
-Date: 11/05/2012 Duration: 3 hrs.
-
-Re - Examination
-
-Q.1 (a) Answer the following
-i. Differentiate between coplanar concurrent and coplanar non concurrent
-force system. (04)
-ii. State the assumptions involved in the analysis of pin jointed frames. (04)
-Q.1(b) A rigid bar is subjected to a system of parallel forces as shown in figure 1. (12)
-Reduce the given system of forces to
-i. Asingle force
-ii. Force couple system at A
-iii. Force couple system at B
-Q.2(a) A uniform ladder AB 6m long rests against a smooth vertical wall at A and on (10)
-j the horizontal floor at B which is 2 m away from the wall as shown in figure 2. It
-} is prevented from slipping by a horizontal chain tied at C such that BC = 1.8 m.
-find the reactions at A and B and also tension in the chain if the self weight of
-the ladder is 1.2 KN
-Q.2(b) Find the tension in the cable and the force P required to move the block 1 (10)
-towards the right as shown in figure 3. The coefficient.of friction between the
-block A and the plane is 0.3 and between block B and the plane is 0.2. take the
-weight of block 1 as 250 N and that of block 2 as 100 N.
-Q.3 (a) |} A 15° wedge is used to push a block as shown in figure 4. If the coefficient of (10)
-: * friction is 0.25 for all surfaces in contact determine the minimum load P required
-q ho push the block of weight 1000 N.
-Q.3 (b) Determine the forces developed in the members CD, EF and CF of a pin jointed (10)
-‘ frame loaded as shown in figure 5. .
-Q.4 (a) Determine the resultant of the five forces acting on the particle as shown in (08)
-figure 6.
-Q.4(b) Locate the centroid and hence determine the moment of inertia about the (12)
-centroidal XX and YY axes of the plane cross section as shown in figure 7.
-
-\
-
-‘b
---- page 2 ---
-Q.5 (a) The motion of the particle is defined by the following relation. (10)
-x=t' + Stand y = t* — 8t? + 2, where x and y are in meters and t is in seconds.
-Determine the velocity and acceleration at t = 10 seconds.
-
-Q.5 (b) A projectile is aimed to hit a mark on the horizontal plane through the point of (10)
-projection and falls 9 m before the point of mark with an angle of projection of
-20°. It overshoots the mark by 5 m when angle is 50° with the same velocity.
-Determine the angle of projection to hit the mark using the same velocity.
-Assume no air resistance.
-
-Q.6 (a) In the engine system as shown in figure 8, the crank AB has a constant angular (10)
-velocity of 1000 RPM. For the crank position indicated, determine the angular
-velocity of connecting rod BC and the velocity of piston P.
-
-Q.6 (b) A 50 N block is released from rest on an inclined plane which is making an (10)
-angle of 35° to the horizontal. The block starts from ‘A’, slides down a distance
-of 1.2 m and strikes a spring with a stiffness of 8 kN/m as shown in figure 9. The
-coefficient of friction between the inclined plane and the block is 0.25.
-Determine
-
-i. The amount the spring gets compressed
-ii. Distance the block will rebound up the plane form the compressed
-position.
-
-Q.7 (a) An object having weight 80 kg is pulled up on the plane by 75 N force as shown (10)
-in figure 10. Determine the velocity of the object after it has moved 0.5m. Take
-coefficient of friction as 0.1.
-
-Q.7(b) Determine the tensions in the string and acceleration of block A and B as shown (10)
-
-in figure 11.
-1 4OkN 20kN
-} | A
-C
-At 8
-} 18]
-fas | cama
-+0.5m— im . Im
-Figure 1
-D ‘y
-7 ay 4 B
-v 2m
-
-Figure 2
---- page 3 ---
-g
-
-Wedge
-Figure 4
-35P J
-2P
-30°
-60°
-5
-P .
-
-150°
-
-Figure 8
-
-3
-
-3
-
-E F
-30 KN _
-2m 2m - ¢m—s|
-Figure 5
-Daas
-gem
-i
-10cm
-Sem
-!
-A 5—t
-espe =eeH10 Gin ——at
-Figure 7
-
-Figure 9
---- page 4 ---
-Figure 10
-
-Ya
-
-LELLLAL PPLE GLE AED LS
-
-Figure 11
-````
-
 ## 2007-08 · Exam not stated · Trim 2 · paper c33fdcc0b923
 
 - Departments: Common (all branches)
@@ -13644,6 +14717,7 @@ Figure 11
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/2007-2008 (1).pdf` (+1 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 80.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ~oenteseeegaamaspy
@@ -13703,7 +14777,6 @@ FFD
 Q.2 b What is the minimum value of mass of block B required to maintain the
 equilibrium? The rope connecting A and B passes over a frictionless pulley. (10)
 
-RASTITT ETT ETT TTT EF
 w= 0.24
 
 {
@@ -13796,6 +14869,7 @@ Best oF ~
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/2007-2008(26).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 88.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 3( NIMS Lnversil¥ )
@@ -13922,7 +14996,6 @@ Ly ———
 b. Determine the acceleration of block-B and the distance it travels in t seconds after
 starting from rest. Assume frictionless pulleys. (10)
 
-Abb hhh kik hekalee,
 
 AJIBON
 200N
@@ -13946,6 +15019,7 @@ sible pasta 7
 - Programmes: B TECH
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/engineering mechanics 2007-2008 batch re exam.pdf`
 - Text: ocr (3 pages), mean OCR confidence 85.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ~~
@@ -14052,7 +15126,6 @@ DB Cc
 Y
 a % 6m
 2m FALZ r
-DILIVPLIPITIOPAS IFT, Di PO SIPVIIIEIIF OOOO SY
 45m i 75m a
 
 q
@@ -14247,6 +15320,7 @@ TR ES
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/2007-2008 re exam(8).pdf`
 - Printed on paper: max marks: 190
 - Text: ocr (2 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY ae
@@ -14299,7 +15373,6 @@ taken by the girl to reach her brother. (5)
 horizontal by a horizontal force P, The coeff. of friction between the body and the plane is 0.2 .Find
 
 the value of P when the body is on the point of slipping up the plane. (5)
-s KN Yo g XB kn
 Q2 (a). Three forces act on a vertical N 30
 post as shown. Find the resultant Bw
 force of the system w.r.t. A. [Ben ~
@@ -14525,9 +15598,9 @@ Best of Lock —
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/2006-2007(11).pdf`
 - Text: ocr (4 pages), mean OCR confidence 79.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-Poe “eSNKIYS NMIM S$ UNL AGERERY
 Mu kes be: Peres. School of Techno lo AS eS Sy neni
 
 MBA Tech Dy-To
@@ -15254,1080 +16327,4 @@ c
 * BEST OF LUCK *
 
 (3)
-````
-
-## Year not stated · Exam not stated · Trim 2 · paper 0043adffede6
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/ENGINEERING MECHANICS/scan0006(5).pdf`
-- Printed on paper: duration hours: 3; exam date: 14/09/2012
-- Text: ocr (3 pages), mean OCR confidence 87.3
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: B.Tech (ALL STREAMS) Tear “4 Trimester: II
-Academic Year : 2011-2012
-
-Batch: 2010-2011 i
-Subject: Engineering Mechanics Marks: 1
-j “ Time: 11.00 am To 2.00 pm
-Date: 14/09/2012 Duration: 3 hrs.
-Special Re-Examination
-Instructions:
-
-1. Question No.1 is compulsory
-
-2. .Out of remaining questions, attempt any Four questions.
-
-3. Answer to each new question to be started on a fresh page.
-
-4. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) Attempt any FOUR (4x5)
-
-a) Three forces of 2P,3P and 4P act along the three sides of an equilateral triangle of side 100
-mm taken in order. Find the magnitude and position of the resultant force.
-
-b) State and prove Lami’s Theorem.
-
-c) A mass of 9 kg, while descending vertically down, drags up a mass of 6 kg by means of a
-string passing over a smooth pulley. Find the acceleration of the system and tension in the string.
-
-d) Explain the conditions of Equilibrium.
-
-} e) Ifa particle is projected inside a horizontal tunnel which is 5 metres high with a velocity of
-60 m/s, find the angle of projection and the greatest possible range.
-
-Q.2) a) A pin jointed truss is subjected to three point loads as shown in the fig 1 Find , by
-
-method of joints, the forces in all the members. ‘ (10)
-LOKN
-j ~~
-\ . a
-‘ 20RkN. .
-B :
-& 25m
-lOoKN
-és o
-45 45°
-=
-A
---- page 2 ---
-J
-
-f
-
-oY
-
-/
-
-/ b) A block weighing 1500 N, overlying a 10° wedge on a horizontal floor and leaning against a
-
-f vertical wall ,is to be raised by applying a horizontal force to the wedge. Assuming the
-coefficient of friction between all the surface in contact to be 0.3, determine the minimum
-horizontal force required to raise the block.
-
-(10)
-Q.3) a) Prove the parallel axis theorem in the determination of moment of inertia of areas with
-the help of a neat sketch. (10)
-
-b)Three perfectly elastic balls A,B and C of masses 2 kg ,4 kg and 8 kg move in the same
-direction with velocities of 4 m/s,1 m/s and 0.5 m/s respectively. If the ball A impinges with the
-
-ball B, which in turn, impinges with the ball C, prove that the balls A and B will be brought to
-rest by the impacts. (10)
-
-Q.4) a) Two rough planes inclined at 30° and 15° to the horizontal and of the same height are
-placed back to back. Two bodies of masses of 15 kg and 5 kg are placed on the faces and
-
-connected by a string over the top of. the planes If the coefficient of friction be 0.3 find the
-resultant acceleration.
-
-(10)
-b)Explain work energy principle, impulse and conservation of momentum . (10)
-Q.5) a) Determine the centroid of the given lamina. In fig 2. (10)
-
-ij | ‘ R 12D 2
-, , 220 ~ —_
-a “= Qz ren
---- page 3 ---
-/ An I-section is shown in the figure3.Find the moment of inertia of the section about the
-norizontal axis passing through the sening) of of gravity of the section. (10)
-
-Lana ia te |
-2 tr
-tT -
-
-IQen,
-
-Dorr
-— ——
-
-=
-
-DOH
-
-ha 16 erm ; i
-
-Q: 6) a)An effort of 200 N is required just to move a certain body up an inclined plane of angle
-15° the force acting parallel to the plane. If the angle of inclination of the plane is made 20° the
-effort required, again applied parallel to the plane, is found to be 230 N. Find the weight of the
-body and the coefficient of friction. (10)
-
-b)Two guns are pointed at each other ,one upward at an angle of 30° ,and the other at the same
-angle of depression the muzzles being 30 m apart. If the guns are shot with velocities of 350 m/s
-upwards and 300 m/s downwards respectively, find when and where they will meet? (10)
-
-Q.7) a) Determine the reaction at the supports as given in fig 4. (10)
-BKN [rm
-BRM DkKN [ro .
-lOkKNre2 ‘ beers
-aa KD RS
-FA ry, fla A SBreav
-|
-b) Exyjlaln :1) Varignon’s theorem 2) Laws of friction 3)Angle of repose (10)
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper 30f028f44a0b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/ENGINEERING MACHANICS.pdf`
-- Printed on paper: exam date: 12/05/2011
-- Text: ocr (4 pages), mean OCR confidence 86.8
-
-````text
-_
-
-XX SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & E:
-
-Programme: MBA (TECH) (ALL STREAMS) Year: I Trimester:
-Academic Year : 2010-2011
-
-Subject: Engineering Mechanics . Marks:
-Time:
-Date: 12/05/2011 Duration:
-
-Final - Examination
-
-Instructions: candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use.
-
-NB:
-1 Question No. 01 is Compulsory.
-2 Out of remaining questions, attempt any 04 questions.
-3 In all 05 questions to be attempted.
-4 All questions carry equal marks.
-5 Answer to each new question to be started on a fresh page.
-6 Figures in brackets on the right hand side, indicate full marks.
-
-Ql Solve any 04 [20]
-
-~
-
-(A) — The sum of two concurrent forces 'P and Q is 270 N and their resultant is of 180 N.
-If the resultant is perpendicular to P. Find P and Q.
-
-(B) Determine the resultant of the parallel system of forces as shown in figure below.
-
-| sm fb asm | nem bam |
-a
-
-200N SooN , 2so N 150 N 200 N
-(C) State and prove Lami’s theorem of three forces.
-
-(D) Define angle of friction and angle of repose.
-
-(E) Derive the relation of Work Energy Principle.
-
-Q2 (A) _ Find the reactions at the supports of the beam as shown below applying conditions
-. of equilibrium 2OokKN Z3OKN [05]
-
-A ey x
-
-are a
-
-3M
-
-Ve
---- page 2 ---
-(B) The cylindrical rollers of weight 50 N each are placed inside a cup. Find reactions at “\
-
-points of contact. , [05]
-
-; 4st +}
-(C) A uniform bar AB of length L and weight W lies in a vertical plane with its ends
-resting on two smooth surfaces on OA and OB. Find angle 0 for equilibrium of bar..” [10]
-
-(A) Determine the forces in all the members of truss as shown below. [14]
-
-Q3
-(B) _ Find the centroid of shaded area shown in figure below. [06]
-3o cm
-
-—-—+t- ~~ —
-
-poe
-
-20 Cr
---- page 3 ---
-Q4
-
-Q5
-
-Q6
-
-(A) A 100 N uniform rod AB is held in the position as shown in figure below. If
-coefficient of friction is 0.15 at A and B. calculate range of values of P for which
-equilibrium is maintained. ; [12]
-
-SB
-
-46 cm
-
-20 om ;
-loo N N
-
-A 16 cm ; iS oe '
-(B) Find the moment of Inertia w.r-t. the centrodial x and y axis as shown below. [08]
-| y Y 6 cy. ~
-iN j -
-
-2am
-\
-
-lo cm —_> <— 2om
-
-20m
-Vv i *
-
-; fo)
-(A) A car ‘A’ starts from point ‘O? & accelerates at constant rate of 0.75 m/s”. A short time
-
-later it is passed by. a bus ‘B’ which is traveling in opposite direction at a constant speed of
-6 m/s. knowing that ‘B’ passes point ‘O’ 20 sec after car ‘A’ started from there, determine
-when & where the vehicle passed each other? What was velocity of ‘A’ at the time of
-passing? ; [10]
-
-(B) A particle moves in a circular path of 4m radius. Calculate 4 sec later the particle’s
-total acceleration & distance traveled if, {10}
-a) speed is constant at 2 m/s
-b) speed is 2 m/s at the instant & is increasing at a rate of 0.7 m/s’.
-
-(A) A long range gun is aimed to hit the target at B. Knowing that the gun can fire the
-shell at 360 m/s, determine the angle of inclination 6 of the barrel so that the shell hits the
-target. Neglect the height of gun. ; [08]
-
-|
-“a / av / / / /
-. Sooo M
---- page 4 ---
-Q7
-
-(B) . The angular acceleration of a shaft is given by the relation @ = - w/4. Att=0
-angular velocity is 25 rad/s . Determine, {12]
-i) Numbers of revolutions made by the shaft before coming to rest.
-ii) Time required to come to rest.
-iii) Time required for the angular velocity to be. reduced to 1% of initial Leite
-
-(A) The cart of mass m is subjected to a shock force F is given by F=Fg e° . If the
-
-cart is stationary at time t = 0 determine its velocity v and displacement S as function of
-time. ~ [08]
-
-(B) A30N block is released from rest. It slides down a rough incline having p = 0.25.
-Determine the maximum velocity and maximum compression of the spring. Refer figure
-given below. [12]
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper 1879681a1ddc
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/scan0003(4).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/09/2012
-- Text: ocr (3 pages), mean OCR confidence 85.2
-
-````text
-ge SVKM’s NMIMS
-‘ Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA-Tech (All Streams) Year: I Trimester: III
-Academic Year : 2011-2012
-
-Batch: 2011-12
-Subject: Engineering Mechanics Marks: 100
-
-Time: 11.00 am To 2.00 pm
-Date: 11/09/2012 Duration: 3 hrs.
-
-Special Re-Examination
-
-Note: 1. Question No. 1 is compulsory.
-2. Out of remaining Five questions, solve any Four.
-
-Q.1 Solve all the FOUR sub-questions. [4x5 = 20]
-(a) (b)
-P=100N
-S=150N ; 4
-Md 3
-1fo Q=200N
-6
-T Figure2
-Fi The 20-kg crate is subjected to a force as shown in the
-igurel
-
-Figure2. The crate reaches a velocity of 8 m/s after
-travelling a distance of 15 m. Determine its speed
-when it had travelled a distance of 25 m. Take F=100N
-and coefficient of kinetic friction as 0.25.
-
-If the resultant, R, of the concurrent force
-system shown in the Figurel is vertical, find
-resultant, R and force, T.
-
-(c) The position of a particle along a straight line is given by s = °-9t?+15t, where t is in seconds and s in m.
-Determine the maximum acceleration and maximum velocity during the time interval 0<t<10s.
-(d), Find the force P so as to just start the motion of the roller A over the obstacle at C. (Refer Figure3)
-
-Radius 25 cm
-20 KN
-
-i LATE SELES,
-'
-
-q ) Figure3 Figure4
-
-Q.2 (a) If mass of block A is 25 kg and that of block B is 50 kg and the system is released from rest, find the [10]
-
-distances travelled by block A and B after 2 s. Use D’Alembert’s principle. (Refer Figure4). Assume the
-
-pulleys to be mass less and frictionless.
-
-(b) For the beam AB shown in Figure5, find hinge reactions at A and roller reaction at B. [10]
-12kNim
-
-42kN
-| A
-, — 4
-8kNim
-; vA ; 10kN ~ :
-
-vom -—> s0kNm x
-
-. = 6kN/m
-|. 2.5m |_ 3m 3m 2m 2m | 2m
-
-. sali
-
-Figure5
-
-I/,
---- page 2 ---
-Q3
-
-Q4
-
-Q.5
-
-(a) A freight train starts from rest and travels with a constant acceleration of 0.03 m/s’. After a time T it [08]
-maintains a constant speed anc travels a distance of 610 m with that speed. Determine the time T and
-
-draw the v-t curve.
-
-(b) For the truss shown in Figure6, [12]
-find out: os
-
-i. Support Reactions, ME
-
-ii. Zero Force Members,
-
-iii. Forces in members EF,FD and 5m 20KN
-
-DG by Method of Sections, and
-
-iv. Forces in all other members B
-using Method of Joints. q
-5m
-c H
-a q D fs
-¥v P
-20 KN
-4m L 4m 4m 4m
-=e 4
-
-Figure6
-(a)For the lamina shown in Figure’, find the position of the centroid. Also find the moment of inertia for [10]
-the lamina about Y axis.
-
--k —
-ie
-Bem /
-fic ‘ ‘ ax
-wy, Lo \
-a pianetar \
-ona ae a
-\ UF fie ®
-\ Pe gf
-\ Lo
-J
-So
-/
-Figure7 Figure8
-
-(b) The weight of block A is is 800 N and that of block B is 1000 N. The coefficient of kinetic frictionis [10]
-0.2. Find the velocities of block A and B after block B has travelled a distance of 25 m(Refer Figure8).
-
-Use Work-Energy Principle.
-
-(a) Find the velocity of the piston C of mechanism shown in Figure9 , if the link AB rotates at 3 rad/s. [10]
-_ Bg
-
-P
-———
-
-; ii Sem
-é é i tof oF FOE é of ft EF
-= Figurel0
-
-Figure9
-(b) For the Figure10, find the force P to keep system in equilibrium. Take coefficient of friction as 0.3 for [10]
-
-all the surfaces in contact.
-
-[10]
-
-23
---- page 3 ---
-Q.6 ae The spheres A and B are colliding as shown in Figurel1. Mass and radius of sphere A is 10 kg and 10
-cm respectively and that of sphere B is 15 kg and 15 cm respectively. If coefficient of restitution is 0.75,
-
-find the velocities of the spheres after the collision.
-a oo \
-Ww
-A |
-
-{I 10mis )
-B w -
-5m/s
-ey +K B c
-20cm
-Figurel1 8 te
-
-Figure12
-(b) Three identical cylinders (weight W and radius R) are stacked together as shown in the Figurel2. Find [10]
-the minimum angle @ to which the inclined plane can be lowered without disturbing the stack.
-
-ny
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper b1467a72ac4d
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/scan0007(6).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/09/2012
-- Text: ocr (4 pages), mean OCR confidence 88.3
-
-````text
-N SVKM’s NMIMS
-; Mukesh Patel School of Technology Management & Engine
-
-ser
-
-: Trimester: III f/5 svKkurc \
-Programme: MBA Tech (All Streams) Year: I a SVR)
-- Academic Year : 2011-2012 | xe mips voce
-Batch: 2008-2009 Nga LiBRaRy Je
-j ineeri i Marks: 100.4 E
-Subject: Engineering Mechanics an Lh Oifagp To 2.00 pms
-Date: 11/09/2012 Duration: 3hrs. ” Manncen™ 7
-Special Re-Examination ;
-Instructions:
-
-1. Question No.1 is compulsory
-
-2. Out of remaining questions, attempt any Four questions.
-
-3. Answer to each new question to be started on a fresh page.
-
-4. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) Attempt any FOUR (4x5)
-
-a) The sum of two concurrent forces PB and Q is 500 N and their resultant is 400 N .If the
-resultant is perpendicular to P,find P,Q and angle between Pand Q.
-
-b) State and Explain Parallel axis theorem.
-c) Explain Varignon’s theorem .
-d) Explain the different conditions of equilibrium.
-
-e) A mass of 9 kg, while descending vertically down, drags up a mass of 6 kg by means of a
-string passing over a smooth pulley. Find the acceleration of the system and tension in the string.
-
-Q.2) a) A block’ A’ weighing 100 N rests on a rough inclined plane whose inclination to the
-Horizontal is 45° .This block is connected to another block weighing 300 N resting on a rough
-horizontal plane by a rigid bar inclined at an angle of 30° to the horizontal .Find the horizontal
-force required to be applied to the block B just to move the block A in upward direction. Assume
-angle of limiting friction as 15° at all surfaces. (10)
-
-b) An object is projected so that it just clears two obstacles each 7.5 m high which are situated 50
-m from each other .If the time of passing between two obstacles is 2.5 seconds, calculate range
-
-of projegtion and initial velocity of projection. ; (10)
-Q.3) af ind the reactions at the supports of the beam loaded as shown in the figure. (10)
-bp f=3 kN
-Fy pstaen PQ KM -
-“ adhe
-Co
-be 20 THe im {8
-A [
-
-ami amy), 37 1 3m
-La
-
-"yt "Re
-
-4
---- page 2 ---
-b) Find the centroid of the given figure. (10)
-
-a) |
-
-? y
-bee (2O >]
-
-Q.4)a) Perfectly elastic balls A,B and C of masses m,2m and 4m respectively are moving along
-the same straight path with velocities 4v,v and 0.75v respectively. Ball A strikes ball B and then
-ball B strikes ball C. Prove that balls A and B are brought to rest during these impacts. (10)
-
-b) b)Two guns are pointed at each other ,one upward at an angle of 30° ,and the other at the same
-angle of depression the muzzles being 30 m apart. If the guns are shot with velocities of 350 m/s
-
-upwards and 300 m/s downwards respectively, find when and where they will meet? (10)
-Q.5) a) A pin jointed truss is subjected to point loads as shown in the fig. Find , by method of
-joints, the forces in all the members. (10)
-£kN oi
-Sm pe — ro gt
-Hue, T< we =
-7 } ary
-+ a =
---- page 3 ---
-b)A Block of mass m=80 kg is compressed against a spring as shown in the fig. How far from
-point B (distance x) will the block strike on the plane at point A? Take free length of the spring
-as 0.9 m and spring stiffness K = 4000 N/M. (10)
-
-| nae
-O-+ RD ee Zr \ %
-Bro ‘
-\
-
-\
-
-\
-\
-/
-
-b— 2c —»;4
-Q.6)a)Explain :1) Work energy principle 2) D’ Alemberfs Principle (10)
-
-b) Locate the instantaneous centre of rotation for the link ABC and determine velocity of points
-
-B and C. Angular velocity of rod OA is 15 rad /sec counter clockwise. Length of OA is 200 mm.
-AB is 400 mm and BC is 150 mm. (10)
-
-Cc
---- page 4 ---
-Q.7) a) Track repairs are taking place over 2 km length of railway line. Maximum speed of train
-is 100 km/h and speed over repair track is limited to 25 km/h. The train approaching the repair
-track decelerates at uniform rate from 100 km/h to 25 km/h in 200 m .After travelling on the
-
-repair track, it accelerates to its full speed in 1600 m. Determine time lost due to track repairs.
-(10)
-
-b)Two blocks as shown in the fig start from rest .If the chord is inextensible, friction and inertia
-of pulley are negligible, calculate acceleration of each block and tension in each chord. (10)
-
-Mo
-
-1L26°25] 100 af >
-
-— Sar =
-
-y ,= Boke |
-````
-
-## Year not stated · Final-Exam · Trim 3 · paper 866812c6c1a7
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/Engineering Mechanics Final 12.pdf`
-- Printed on paper: exam date: 10/05/2013
-- Text: text (4 pages)
-
-````text
-\a   SVKM's NMIMS
-Mukesh Pate1 School Of Technolorn Management & Engineering
-P r o g r ~ m e : MBA (Tech) -ALL STF33AM   Year:   I   Trimester:   I11
-I   Academic Year : 2012-2013   I
-I
-Subject:   ENGINEERING MECHANICS   1
-Time:   ';4d(36lahi~&1.00~h
-Date:   10/05/2013   Duration: k. -.d-fiy
-Final - Examination   ' ~ 1 u~\~~:: ~ s 9 ,--'
-1 /
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer ~ook;which is prdvided fbr their use.
-NB:-
-1. Question No.1 is compulsory.
-2. All questions carry equal marks.
-3. Out of remaining questions, attempt any four questions.
-4. Answer to each new question to be started on a fresh page.
-5. Figures in brackets on right hand side indicate full marks.
-Q.l [a]   State and prove the Varignon's theorem.
-[b]   State the different laws of Coulomb friction.
-[c]   State and prove the Parallel axis theorem.
-[dl   With the help of neat diagram explain Direct impact and Indirect impact.
-Q.2 [a]   Give the classification of Force system.
-[b]   Find the support reaction at A and B of a structure as shown in Fig (a)
-Fig (2)   - .
-[f]   Three cylinders are piled up in a rectangular channel as shown in figure (b) Determine the
-reaction between the cylinder A and vertical wall of the channel, if the weight of cylinder A, B
-& C are 150 N, 400N and 200 N respectively and radii are 4 cm, 6cm and 5 cm respectively.   I
---- page 2 ---
-Fig (b)
-Find the support reactions at A and E and also find the forces in BC, BF, and FG for the truss as   [12],
-shown in figure (c).
-Fig(c)
-Ib]   Give the assumptions for truss analysis and also explain perfect frame and imperfect frame with
-examples.   ~ 4 . 1
-[c]   Explain the method of joint for truss analysis.
-Q.4 [a] Determine the least valve of P to cause motion to impend rightwards. Assume coefficient of   [lo]. 1
-friction under the block to be 0.2 and pulley to be frictionless as shown in figure (d).   I
-P
-#
-Fig ( 4   I
-[b]   Determine the force required to start the wedge as shown in figure (e) if angle of limilting   I
---- page 3 ---
-friction for all surfaces is 15'
-Fig (e)
-[c] A load of 2 kN is to be lifted by a screw-jack having threads of 10 mm pitch. The efficiency of
-jack at this load is 50%. Determine the effort applied at the end of a handle of 50 cm length.   [04]
-Q.5 [a] Determine the coordinate of the centroid of the shaded area shown in figure ( f ) All [lo]
-dimensions are in mm
-1'
-fbl   Fig(f)   I
-Find the moment of Inertia of the cross section of an iron beam shown in figure (g) with respect [lo]
-to the centroidal axes. All dimensions are in rnrn   I
-4 TJ-
-Q.6 [a] The position of a particle move along a straight line is defined by s = t3 - 6t2 -?6"+40, [lo]   1
-where's' is measured in meter and't' in second. Determine:(a) time at which the velocity   I
-,   will be zero; (b) the position and distance travelled by the particle at that time; (c) the   I
-,   acceleration of the particle at that time; and (d) the distance travelled by the particle when   1
-t = 4 s t o 6 s .   I
-[b] A basketball player likes to release his fouls shots at an angle 4S0 to the horizontal as [08]   1
-shown in figurem) what initial speed uo will cause the ball to pass through the center of the   I
-3llr
---- page 4 ---
-rim? What will be the maximum height h the ball reaches above the floor?
-Fig (h)
-Defined the term for projectile motion
-[cl
-Trajectory, projectile, angle of projection.
-4.7 [a]   State the D' Alembert principle.   [Ozl
-Tb] Two bodies directed in line and 10 m apart are held stationary on an inclined plane having   [08]
-inclination of 200. The co-efficient of friction between the plane and lower body is 0.08 and
-that between the plane and the upper body is 0.05. Tf both the bodies are set in motion at
-the same instant, calculate the distance through which each body travels before they meet
-together.
-[c]   Two weights 800 N and 200 N are connected by a thread and move along a rough   lo51 -
-horizontal plar,e under the action of a force 400 N applied to the first weight of 800 N as
-shown in figure (i). Determine the acceleration of the weight and the tension in the thread
-using D' Alembert's principle. Take p = 0.3
-Rough Pline
-Fig (i)
-[dl   A ball of mass 100 grn stnkes directly another ball of same mass, which is at rest. The first ball   [ O ~ I
-is reduced to rest by the impact. Find the loss of kinetic energy if the co-efficient of restitution is
-0.707
-````
-
-## Year not stated · Re-Exam · Trim 3 · paper 86e94bed3d94
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/ENGINEERING MECHANICS RE EXAM.pdf`
-- Printed on paper: exam date: 12/05/2011
-- Text: ocr (5 pages), mean OCR confidence 78.2
-
-````text
-— SVKM’s NMIMS
-\ Mukesh Patel School of Technology Management & Engine
-Programme: MBA (TECH) (ALL STREAMS) Year: I Trimester:
-Academic Year : 2010-2011
-Batch: 2008-2009
-Subject: Engineering Mechanics “e Marks:
-Time:
-Date: 12/05/2011 Duration:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NBS eo : ; ; ‘
-1...Question No.’ 1: - is compulsory.
-: 2. Out of remaining questions, attempt anyfOURCuestions.
-» 3. Inall, five questions to be attempted.
-' 4. All question carry equal marks. . a
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicate full marks.
-
-ie Assume suitable data where necessary.
-
-af Solve any four of the following :-— (20)
-(a) Determine the magnitude and direction of Force F, and F, ? When the’ Resultant of given force
-_ system is found to be 800 N along 4+ve Xx axis.
-
-LY
-1
-. Fes 290N 4 Fye?
-26'S Fae _
-zp". C i
-F42 BPO, + Fs, 2 SON
-
-iB) Replace the system of forces and couples shown in figure by a'single force and couple at a point A.
-
-v
-2ooN
-GN-™ — ON” ; .
-domm 4G. 2 E)\ & pK
-\ - Zommy 25mm,   3Emm
-? % o ° - TaN
-
-ci A crane is pivoted at the end B and is supported by guide at A. Determine the reaction produced
-at A and B by a vertical load W = 5 KN applied at C. Assume guide to be smooth. .
-
-“TURN OVER
---- page 2 ---
-{2}
-= (t- 2) m/s?
-
-th rectilinear translation is given by &
-2 sec.
-
-e which moves wi
-locity and displacement when t =
-
--, The acceleration of a particl
-d velocity are zero. Find the ve!
-
-at t = 0, the displacement an
-and when t = 4 sec.
-
-=, Askier travels with a constant speed of 6 m/s along the parabolic pa
-
-figure determine the velocity and acceleration at-the instant he arrive
-
-the skier.
-
-thy = 1/20 ¥° as shown in
-5 at A. Neglect the size of
-
-xt?
-
-y 2M50
-
-, Aom :
-
-The Truss is loaded and supported as shown in fig
-
-(i) Identify the zero force member.
-(ii) Find forces in members EF, ED and FC by method of joints.
-Find forces in members GF, GC and BC by method of section.
-
-(a) ure. Determine the following :-—
-
-(ii)
-Ay {oo Kit
-Y eG | AO EN
-f ; . ; Fe joo ED
-i 4b
-WZ {se u al
-se —D. 30 ——E
-
-B : 3m = t
-of
-
-(pb) For the system shown in Figure, what value of mass M will cause motion of A to impend. The
-coefficient of friction between A and surface is 0-30 and between the rope and drum is S. ‘Take
-
-mass of A as 55 kg.
-
-—>} 06 K-
-
-12
---- page 3 ---
-3.
-
-(a)
-
-(b)
-
-(a) Determine the compon
-
-(3)
-
-Replace the force system show, by two parallel
-
-4okw
-
-:
-
-forces at B and D. te
-A
-
-0:5™
-
-(i) Determine coordinate of centroid of
-shaded area. Also determine MI at base
-X-axis, and transfer it to the centroidal
-X-axis using parallel axis theorem.
-
-(ii) A hemispherical body of uniform den-
-
-: sity rests on a horizontal surface and
-
-is subjected to a force ‘P’ at the rim
-
-as shown. If P in increased slowly and
-
-always kept normal to the rim surface,
-
-determine co-efficient of static friction.
-
-If angle of tilt 6 = 40°. at which slipping
-
-occurs. Also determine resultant re-
-action at ‘A’ and Force ‘P’.
-
-7 7
-
-it r= 1 mand weight of solid
-
-énts of forces acting at points B, C and E. Ass
-
-“ 4m
-
-~ (b)(i) Determine the reactions at points of con-
-
-tact 1, 2 and 3. Assume smooth sur- .
-faces.
-
-Mem Be
-
-S ™ Cc im 2D
--—y¥
-
-29
-
-hemisphere is 500 N.
-
-roe
-
-ume that the pulley is smooth.
-
-(ii) A particle of mass ‘m’ starts from rest at ‘A’
-and slides down a track AB and then enters
-a Vertical-loop of radius ‘r’ at ‘B’ as shown.
-What should be the minimum height ‘hn’ at
-the starting point of the particle so that it
-may !oop the loop without falling off the track
-
-ai U ¢
-
-1s
-
-= 7
---- page 4 ---
-(4)
-
-=. (a) Determine the centroid of the bent wire shown in figure. 10
-ad
-. | 5
-i om pal 2m 4 2m™
-“FA
-6m
-E
-in
-+ | ae a ee
-
-a ; F
-
-(b) An object is projected so that it just clears two obstacles each 7-5 m*high which 10:
-are situated 50 m from each other. If the time of passing between two obstacles is ~
-2-5 seconds, calculate the complete range of projection and initial velocity of
-_ projection.
-44
-
-u :
-bk 8
-
-. 75m
-ttt "
-
-O.. Som ‘ | . iC
-
-6. (a) Compute the moment of inertia of the shaded area about x-x and y-y axis as shown” 16
-inthe figure. “
-
-at
-
-re, &
-
-oc
-
-Ys
---- page 5 ---
-— -. / 8)
-ock of mass m = 80 kg is compressed against a spring as shown in Figure. 40
-ow far from point B [ distance x ] will the block strike on the plane at point A.
-“4 Take free length of spring as 0-9 m and spring stiffness as K = 40 x 10? N/m.
-
-r
-
-7
-
-A a
-
-4K =
-
-Z wwe] me] B= 9°? bat
-
-Os - s ; z~
-
-OLm af N .
-poet _3m ~
-. 4 \
-
-4 st 3m
-4 \ .
-q VA 7
-Appa TTT TTI TTT TTT
-Le. He >|
-
-r\
-
-iston‘C’ is constrained to move in a vertical slot. A and B moves on
-
-7. (a) Inthe mechanism shown in figure. P root hinges. ifV, = 0-45 m/sec. to the right.
-
-i ith $
-horizontal surface. Rods CA and CB are connected wi
-Find velocity of C and B. Also find angular velocity of two rods.
-
-Vy c — p a
-wee eee Al- :
-20m) —_ Soo mr)
-8&4 B { A aj
-- : t q .
-p—ASomm $42.51" of
-
-(o) The magnitude and direction of two identical smooth balls before central oblique impact are as shown in
-figure. Assuming e = 0-90. Determine the magnitude and direction of velocity of each ball after impact.
-
-(c) A15kg slender rod AB is1-5 m long and pivoted about point ‘O’ which is 0-3 m from end B. The other end
-is pressed against a spring of constant. K = 300 kN/m. Until the spring is compressed 25 mm. The rod is
-then in a horizontal position. If the rod is released from this position. Determine the angular velocity when
-the rod has rotated through 60° and 90°.
-
-a eS ot
-
-i
-
-. | 03m
-
-le a Sov Ko Ts
-
-+
-ATTT
-````
-
-## Year not stated · Re-Exam · Trim 3 · paper 42f0d1ac4570
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/ENGINEERING MECHANICS/Engineering Mechanics Re Exam 04.pdf`
-- Printed on paper: duration hours: 3; exam date: 10/05/2013
-- Text: text (4 pages)
-
-````text
-\
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management bL&yaX ' r
-Programme: MBA (Tech) -ALL STREAM   Year:   I   ~rimesterl\l -"   I11 x 1 P S T M E ) .f4 -   .
-Academic Year : 2012-2013   2   I   I   A   Is
-Batch:   2008-09,2010- 11,20 11- 12   ,$.- /)   JJ&
-1   Subject:   ENGINEERING MECHANICS   Marks:   @Q--J   fl *
-Time:   \ 6 ' 8 0 ; ~ v \ ! d 7
-Date:   10/05/2013   Duration:   3   hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-a) Question 1 is compulsory.
-b) Solve any FOUR from remaining Questions.
-c) Assume suitabie data where necessary.
-d) Figures to right indicate marks.
-e) Answer to each new question should be started on a fresh new page
-Q. 1 : Answer any four from the following.   (20)
-a) State and prove parallel axis theorem.
-b) Define angle of friction and explain the laws of friction.
-c) State the assumptions made in the analysis of plane truss.
-d) State and Prove Varignon's theorem.
-e) Derive the equations of motion.
-1   f ) Explain D' Alembert's Principle.
-g) Derive the relation of Work Energy Principle
-Q.2: a) A thin ring of mass 3 kg and radius 140 rim is held against a friztiocless v~z!!
-by a string of length 120 mm .Find the distance d and tension in the string.
---- page 2 ---
-b) Two blocks A (100 N) and B (150 N) are resting on ground as shown in the figure.
-Coefficient of friction between ground and block B is 0.10 and that between block R and
-A is 0.30. Find the minimum value of weight 'P' in the pan so that motion starts. Find
-whether B is stationary w.r.t. ground and A moves or B is stationary with
-respect to A.   (10)
-Q. 3: a) Determine the forces in all the members of the truss by method of joints. (1 0)
-/ I k N   llkN
-b) Two 10" wedges of negligible weight are used to move a block of mass 100 kg. If p
-= 0.25 at all surfaces of contact, find the smallest force P that should be applied to
-one of the wedges.   (10)
-Q. 4: : a) A uniform steel plate weighing 500 N is cut in a shape as shown
-Find Centroid w.r.t.A and support reactions.   (10)
---- page 3 ---
-b) Find moment of Inertia about axis AB.
-Que5:a) A small part in a mechanism travels on straight line such that its position is
-x = t4 - 10 t2 + 24,where x is in m and t is in sec. Determine when velocity is
-zero, when acceleration is zero, minimum speed reached by particle and distance
-traveled in 3 sec.   (10)
-b) A car enters a curve road in the form of quarter circle of length 300 m at a speed
-of 20 krnph and it leaves the curve at 40 krnph. If the rate of change of speed is
-uniform along the curve, Determine resultant acceleration at both ends.   (1 0)
-Q. 6: a) A box is released from a helicopter moving horizontally with constant velocity
-v from a certain h from the ground takes 5 sec to reach the ground at an angle
-1   75' as shown. Determine the horizontal distance x and the height h and the
-velocity u.
-(10)
---- page 4 ---
-b. Determine the acceleration of block-B and the distance it travels in t seconds
-after starting from rest. Assume frictionless pulleys.   (10)
-/ / ///////,///////,/,////
-Q. 7: a) A block of 20 kg is released from rest on the top of inclined plane at A. It
-travels on incline and come to rest at C. Find the distance x it travels and its
-maximum velocity attain during the motion. Take p = 0.3 for all surfaces. (10)
-b) At the position shown in figure, the crank AB has angular velocity of 3 rad/s
-clockwise. Find the velocity of slider C and the point D at the instant shown.   (10)
 ````

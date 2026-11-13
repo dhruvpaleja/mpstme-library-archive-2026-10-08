@@ -10,6 +10,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/managerial Communication/2009-2010 batch re exam I(1).pdf`
 - Text: ocr (2 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MUKESH PATEL SCHOOL OF TECHNGLOGY MANAGEMENT & &
@@ -31,7 +32,6 @@ ery ~ Ae “Y
 DATE: s/y Ji MARKS Neg
 TIME: 2 Ars (Aud 4fhun)
 
-oo cesensensasecacsescoccess POreeeerrreer rere reer ee eerie eer ire rier errr eer errr reer er irre rier rir r errr ri rrr
 
 NOTE:
 i, Question No.1 is compulsory

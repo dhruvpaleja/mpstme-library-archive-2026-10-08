@@ -1,8 +1,114 @@
 # Principles of Communication Systems: question papers in full
 
-2 unique papers · 2011-12 to 2011-12 · Information Technology
+3 unique papers · 2011-12 to 2012-13 · Information Technology, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2012-13 · Exam not stated · Trim 4 · paper 43d9e5839d24
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/PRINCIPLES AND PRACTICES OF MANAGEMENT/scan0072.pdf`
+- Printed on paper: exam date: 26/10/2012
+- Text: ocr (2 pages), mean OCR confidence 92.7
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Enginee
+
+Programme: MBA (T ech) (COMP) Year: II Trimester: IV
+. Academic Year : 2012-2013
+
+Subject: PRINCIPLES OF COMMUNICATION SYSTEM Marks:
+
+Time: 2.00p
+
+Date: 26/10/2012 Duration: 3
+
+Final - Examination
+
+Al
+
+Instructions:-candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+
+NB: - 1) Question No ONE is compulsory
+2) Out of remaining attempt FOUR questions,
+3) All Questions carry equal marks.
+
+4) Figures in brackets on right hand side indicate full marks
+
+Ql. Attempt All
+A) _ Derive the equation of modulation index in terms of Vmax and Vmin for AM
+B) Differentiate between time and frequency domain multiplexing.
+
+C) The antenna current of an AM broadcast transmitter is 8 Amperes when only the carrier is
+sent, but it increases to 8.93 A when the carrier is modulated by a single sine wave. Find the
+j percentage modulation. Determine the antenna current when the percent of modulation
+changes to 0.8.
+
+2. Attempt All
+A) Explain the super TRF receiver with block diagram
+B) Explain Direct method for FM generation.
+Cc) What is multiplexing? What is the role multiplexing in communication system?
+'Q3. @tlempt AU
+A) What is sampling? Explain sampling theorem for low Pass
+B) Explain properties of radio waves.
+
+C) Explain generation and detection of PAM with their waveform.
+
+Yo.
+
+6)
+6)
+(10)
+
+(8)
+@)
+(4)
+
+(4)
+(8)
+(8)
+--- page 2 ---
+Q4. Attempt All
+
+A) The first stage of a two-stage amplifier has a voltage gain of 10, a 600 ohm resistor, ~ (10)
+
+1600 ohm equivalent noise resistance and a 27 kilo ohm output resistor. For the second
+stage these values are 25, 81 kilo ohm, 10 Kilo ohm and 1 mega ohm respectively.
+Calculate equivalent input-noise resistance of this two-stage amplifier. :
+B) State and explain types of Internal Noise > , (10)
+
+Q5. Attempt All
+A) Draw and Explain Pre-emphasis and De-emphasis circuits in FM (10)
+
+B) Ina broadcast super heterodyne receiver having no RF amplifier, the loaded Q of the (10)
+antenna coupling circuit is 100. If the intermediate frequency is 455 kHZ, calculate
+
+A. the image frequency and its rejection ratio at 1000 kHZ
+
+B. the image frequency and its rejection ratio at 25 MHz.
+
+Q6. Attempt All
+A) State and Explain Characteristics of Receiver. (10)
+B) InanFM system when the audio frequency is 500 Hz and the AF voltage is 2.4 V, the (10)
+
+deviation is 4.8 kHz. If the AF voltage is now increased to 7.2 V what is the new deviation?
+If the AF voltage is raised to 10 V while the AF is dropped to 200Hz, what is the deviation?
+} Find modulation index in each case.
+
+Q7. Write Short Note (Attempt Any 4) (20)
+A) Low level AM Modulator.
+B) Write a short note on simple slope detector
+) Explain Phase Shift Metnod. .
+Dp) Explain VSB transmission.
+
+E) Explain Propagation of waves.
+
+Qf
+````
 
 ## 2011-12 · Exam not stated · Trim 5 · paper ddaf066e1dd0
 

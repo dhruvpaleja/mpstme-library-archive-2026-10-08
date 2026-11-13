@@ -292,6 +292,7 @@ ee
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM V/Principles of Valuation in Real Estate/Principles of Valuation in Real Estate Batch 2017-18 Re Exam.pdf`
 - Printed on paper: exam date: 04 June 2018
 - Text: ocr (2 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ; SVKM’S NMIMS
@@ -382,7 +383,6 @@ construction, Located in by lane. Good specification but without Lift.
 (iii) SaleB : 50 SQMT flat sold for 62 Lakhs on June 2017. Flat is in 10 years old
 building having ordinary specification . Flat is in by lane. (09 )
 
-3 2 2 9 2 2 ok oe ok ak ok ok oo
 
 *fp_
 ````

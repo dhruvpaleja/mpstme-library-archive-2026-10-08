@@ -1120,6 +1120,7 @@ Os, §0-1: BL-2 b. | Explain Fermat’s and Euler’s theorem with suitable exam
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSBS/SEM-VII/CRYPTOGRAPHY AND NETWORK SECURITY/Cryptography and Netowork Security, Sem-V, A Y 2023-24, Final Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (2 pages), mean OCR confidence 85.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1167,7 +1168,6 @@ CO-1; SO-2; BL-3 * | using the additive Cipher with key=20.
 Explain the structure of 2-DES and 3-DES. Ifthe input to SBox-l which
 is given below is 100100, determine is the output?
 
-or r[etsits[stolr7is[efel alee eis
 
 CO-1;SO-1; BL-2,3 a.
 

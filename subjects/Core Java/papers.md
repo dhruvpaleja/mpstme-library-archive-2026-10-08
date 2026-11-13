@@ -442,6 +442,7 @@ Q7 Write Short Notes on (Any 2) 7x2=14
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/CORE JAVA/Core Java Batch 2017-18 Re Exam.pdf`
 - Printed on paper: exam date: 28 June 2018
 - Text: ocr (3 pages), mean OCR confidence 91.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -565,7 +566,6 @@ a. Only (i) is correct c. both (i) and (ii) are correct
 b. Only (ii) is correct d. both (i) and (ii) are incorrect
 Which of these class is used to encapsulate IP address and DNS?
 
-“ a. DatagramPacket b. URL c. InetAddress d. ContentHandler
 
 Which Collection does not contain duplicates?
 
@@ -653,6 +653,7 @@ Q.7 Attempt the following (Any 2) [14]
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/CORE JAVA/Core Java 2016-17 Final.pdf`
 - Printed on paper: exam date: 4 May 2017
 - Text: ocr (2 pages), mean OCR confidence 92.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -722,7 +723,6 @@ Q.5(b) Explain the concept of Method Overriding with suitable example program. [
 Q.6(a) Explain thread life oe. Explain any 3 methods of Thread class. [07]
 Q. 6 (b) Explain Client —Server Model. Write a program which demonstrate the use of [07]
 
-getLocalHost(), getHostName(), getByName() methods of InetAddress class.
 
 Q.7(a) What is Collection Framework? Explain any three methods of LinkedList collection [07]
 in detail.
@@ -1502,6 +1502,229 @@ messages and set the background color blue.
 242
 ````
 
+## 2013-14 · Re-Exam · Trim 3 · paper c528424f5de1
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA BATCH 2012-13 RE EXAM TRIM III0001(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/03/2014
+- Text: ocr (2 pages), mean OCR confidence 86.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+emt,
+
+of TE BF
+/ eres.
+
+SVKM’
+Mukesh s NMIMS &
+
+Patel School of Technolo Mana ement & En ingeying wag h A 4
+P. BA TECH All S I 7 so ns '
+
+Academic Year : 2013-2014 BLLIBRARY J§ }
+
+4
+“i oy, \
+
+Batch: 2012-2019 te us = F
+
+Subject: Core J; * Nii ERS
+ava Marks: 100 See NE
+
+Date: 27/03/2014 Time: 4.00 pm To 7.00 pm
+
+Duration: 3 hrs.
+Re - Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any ___Four__ questions.
+3) Inall___ Five___ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.No Question Marks
+
+Q.1 Distinguish between following ierms 20
+a)Objects and classes
+b)Data abstraction and Data Encapsulation
+c)inheritance and polymorphism
+d)Dynamic binding and message passing
+
+e)Object oriented Programming and Procedure oriented Programming
+
+Q.2 a)Enumerate the rules for creating identifier in java. 5
+b)what are command line arguments?how they are useful.? 15
+Write a short Note on 5
+a)Runtime Polymorphism : 5
+
+b)Except Handling in java
+
+Q3 a)Differentiate between 15
+i.Method overloading and Method overriding
+ii.Abstract Class and Concrete class
+ilijava and C++
+
+b)How is java is platform independent?Explain the execution flow of java
+program
+
+Vo.
+--- page 2 ---
+Q4 a) Write any Java Program that throws Runtime Exception. 10
+bY How to efficiently use try catch block and throws ?Explain with example. 10
+Q.5 ,4 State two basic use of super keyword in inheritance in java. Explain each with 10
+- suitable example.
+}s) Explain how multiple inheritances are achieved in java using concept of 10
+—| interface. Explain it with example.
+Q.6 Write a short note on
+a)Byte Code
+b)Packages and their drawback 20
+c)Garbage Collect
+d)Command Line Argument
+e)Inner classes i
+Q7 a)Does Java Support multiple inheritance ? 10
+WAP to create a class BOX having variable LENGTH,BREADTH and HEIGHT
+and a method ‘display()’ to print value of these variables on screen.
+Create another class. BOXW which inherits BOX class and has additional
+parameter WEIGHT. This class will override the method ‘display()’ to print on
+screen the values of all four parameters.
+The Program should use.
+Constructor to initialize parameter values and ‘super’ where.ever necessary.
+b)Write a Java Program to perform operation on String 10
+
+i)To copy the string
+
+ito Concatenate the string
+
+iii)find out two strings are equal or not
+iv)convert lowercase letter to upper case
+
+2f a.
+
+—<—
+````
+
+## 2013-14 · Re-Exam · Trim 3 · paper a978bc649db6
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/07/2014
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL Stream) Year: I Trimester: HI
+
+Academic Year: 2013-14
+
+Batch:2012-2013
+
+we MPSTMB \
+
+bey 7 4s
+
+Subject : Core Java Marks: 100 EAC LIBRAR 4
+Time : 11.00 angry 00 pm. Le
+
+Date :15/07/2014 Durations:3 (hrs)*~ ariel 7
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the Question Paper and on the cover
+of the Answer Book, which is provided for their use.
+NB:
+
+1. Question no. 1. is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures to right hand side indicate full marks.
+
+6. Assume suitable data if necessary.
+
+Q.1] A. Distinguish between the following with example 06
+i) Objects vs. Classes
+ii) Instance variables vs. Class variables
+iii) ‘extends’ vs. ‘implements’
+B. Attempt the following: 06
+i) What is main() method prototype in Java
+ii) Elaborate about Command Line Arguments with example.
+C. Discuss the different levels of access specifiers available in Java. 04
+-). Find errors, if any in the following statements, and also correct it. 04
+i) final pi = 3.142;
+ii) p*=x/y;
+iii) float x = 123.4;
+iv) int a[ J={1,2}; int b[ ]; b=a;
+
+Q.2] 4. i) Draw-and explain JVM with all its Components [OS
+ii) WAP in Java to sort foll. given elements {1,3,2,5,6,4,8} [05]
+B. Write a JAVA program to perform operation on strings [10]
+
+- to copy the string
+- to concatenate the string
+- find out two strings are equal or not
+
+- convert lowercase letter to uppercase
+
+Page 1 of 2
+--- page 2 ---
+Q.3. A. Define thread and Multithreading. Explain thread life cycle model with a neat diagram. [10]
+B. Write a Java program to handle multiple exceptions using following details: [10]
+i) a=10; b=5; c=5;
+x=a/(b-c); Handle this exception
+ii) Suppose a programmer has created array with 3 elements. Write a code for exception
+
+handling if someone tries to access 4"" element.
+
+Q.4. A. Design a class to represent a bank account. Include the following details: [10]
+Data members: Name, Account no, Balance amount .
+Methods: i) To assign initial values
+ii) To deposit an amount
+iii) To display name and balance
+
+B. Define Inheritance with its types. Also explain use of “super” keyword in detail. [10]
+
+Q.5] Write a short note on(Any 4) 4*5=20
+A. The PrintWriter class
+B. Garbage Collector
+C. Wrapper Classes
+D. Java is a free form language.
+
+E. Object Class
+
+Q.6. A. What is the use of finalize( ), finally { }, and final with syntax and suitable example [4+4+2]
+B. Create a package named “MyPack” in java with one a class containing Arithmetic methods [10]
+
+(add, sub, multiply) and import in another program named “Myfile.java”
+
+Q.7} Differentiate between the following with example (Any 4) 4*5=20
+A] Method Overloading vs. Method Overriding with example
+B] Static Polymorphism vs. Dynamic Polymorphism _
+C] Abstract Class vs. Interfaces
+D] Checked vs. Unchecked Exceptions
+E] CPP vs. Java
+
+Page 2 of 2
+````
+
 ## 2013-14 · Re-Exam · Sem 2 · paper 5a29ee0d1a2f
 
 - Departments: Computer Applications (MCA)
@@ -1509,6 +1732,7 @@ messages and set the background color blue.
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/CORE JAVA/Core Java Batch 2013-14 Re Exam.pdf`
 - Printed on paper: exam date: 30/06/2014
 - Text: ocr (2 pages), mean OCR confidence 92.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1562,7 +1786,6 @@ Q. 1 (b) | Attempt the following [10]
 (c) getClassName() (d) getAppletLoadClass()
 
 6 | Which method throws InterruptedException for the thread?
-(a) isAliveQ (b) start() (c) sleepQ (d) setPriority Q
 
 7 | Which abstract class is the super class of all classes used for reading characters?
 
@@ -1662,6 +1885,327 @@ messages and set the background color Red.
 Write a note on Collection Framework.
 
 24 2
+````
+
+## 2013-14 · Re-Exam · Trim 3 · paper b0f6547b4a09
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/CORE JAVA/CORE JAVA BATCH 2012-13 RE EXAM TRIM III0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/03/2014
+- Text: ocr (3 pages), mean OCR confidence 91.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+— 5 : a
+\ SVKM’s NMIMS Y estate W "a.
+: Mukesh Patel School of Technology Management & Enginee fin Sa aa \
+Programme: MCA Year: I Trimester: II i (OM PST u 1 3
+Academic Year : 2013-2014 Wek LIBRAR J£
+Batch: 2012-2013 orn mee cw
+Subject: Core Java Marks: 100 his WN :
+Time: 4.00 pm To pm
+Date: 24/03/2014 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+
+Cover of the Answer Book, which is provided for their use.
+NB: _ 1. Question No. | is compulsory.
+
+2. Out of remaining 5 questions, attempt any 4 questions. In all attempt 5 questions.
+3. All questions carry equal marks.
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicates full marks.
+6. Give examples wherever required.
+
+Q. 1(a) Find the output. Give justification for your answer. [10]
+1) class A { : 2) class MyThread extends Thread {
+final public int GetResult(int a, int b) { public static void main(String [] args) {
+return 0; } } : MyThread t = new MyThread();
+class B extends A { Thread x = new Thread(t);
+public int GetResult(int a, int b) { x.start(); }
+return 1; } } public void run() {
+public class Test { for(int i= 0; i< 3; +41) {
+public static void main(String args[]) { System.out.print(i + "..");}}}
+B b=new BQ;
+System.out.printIn("x="+b.GetResult(0, (a) Compilation fails
+1); } 3 (b) 0..1..2..3
+(a) x=0 (b) x=1 (c) 0..1..2
+(c) An exception is thrown at runtime (d) An exception occurs at runtime.
+(d) Compilation fails
+3) public class FO091 { 4) interface x{void show();}
+public void main( String[] args ) { class y implements x{
+System.out.printIn( "Hello" + args[0] | void
+)s 33 show() {System.out.printIn(“show”);}}
+, if this code is executed with the command (a) run time error
+. line: > java F0091 world (b) compile time error
+(a) Hello world (c)-will compile but not execute
+(b) Hello (d) will compile and execute
+(c) code will not run
+(d) Hello FO091
+
+5) String a = "newspaper";
+
+a = a.substring(5,7);
+
+char b = a.charAt(1);
+
+a=atb; .
+
+System.out.printIn(a);
+
+(a) apa (b) app (c) apea (d) apep
+
+Q.1(b) Attempt the following [10]
+1 Which method tells the calling thread to give up the monitor and go to sleep until some
+other thread enters the same monitor and calls notify().
+
+(a) sleepQ) (b) joinQ, (c) suspend (d) wait(Q)
+
+“IP3
+--- page 2 ---
+2. Which of the following class definitions are legal declaration of an abstract class?
+
+(a)class A { abstract void Method() {} }
+
+(b) abstract class A { abstract void Method() ; }
+(c) class A { abstract void Method() {System.out.printIn("Test");} }
+(d) class abstract A { abstract void Method() {} }
+
+3 Which statements are true? (select all that apply)
+(a) The default constructor has the same access as J
+(b) The default constructor invokes the no-argumen
+(c) If a class lacks a no-argument constructor, the comp
+
+ts class.
+t constructor of the superclass.
+iler always creates a default
+
+constructor.
+(d) The compiler creates a defaul
+for the class.
+
+4 What is garbage collection in the context of Java?
+(a) The operating system periodically deletes all of the java files available on the system. ,
+
+(b) Any package imported in a program and not used is automatically deleted.
+(c) When all references to an object are gone, the memory used by the object is
+
+automatically reclaimed.
+
+(d) The JVM checks the output o
+
+make sense. :
+5 Which of the following classes can be
+
+Socket class? (select all that apply)
+
+6 Given try{ int x=Integer-parselnt(“two”);}
+
+Which could be used to create an appropriate catch block?
+
+(a) ClassCastException (b) NumberFormatException
+
+(c) MegalStateExecption (d) ArithmeticException
+
+t constructor only when there are no other constructors
+
+f any Java program and deletes anything that doesn't
+
+passed as a parameter to the constructor of the
+
+7 Which of the following are classes, that are the part of Java Collection Framework
+
+(select all that apply)
+(a) Dictionary
+8 Which method is used to know the
+
+(b) Date (c)Vector (d) Iterator
+directory name from where the applet class is
+
+loaded?
+(a)getCodeBase() (b) getDocumentBase()
+(c) getClassName() (d) getA ppletLoadClass()
+9 Which class encapsulates the run-time.state of an object or interface
+(a) Object (b) Runtime (c) ClassLoader (d) Class
+
+10 Which is a valid declaration within an interface?
+’ (a) public static short stop = 233
+(b) protected short stop = 23}
+(c) transient short stop = 23;
+(d) final void madness(short stop);
+
+Q.2 Answer the following (Any 2)
+1 Explain method overloading concept with example. Compare it with method overriding. .
+2 Create a class Operation which perform following operations - find the factorial of a
+number, find string is palindrome or not, find number is prime or not. Input should be
+
+using command line argument. It should be menu driven program where choice is read
+
+within the program.
+3. Explain the use of super keyword with example.
+
+Q.3 Answer the following (Any 2)
+1 Explain with example how interface is useful for implementing multiple inheritance in
+
+java. How it is different for abstract class.
+
+-243
+
+[20]
+
+[20]
+--- page 3 ---
+Q. 5 (a)
+
+Q. 5 (b)
+1.
+
+Create a class named Person with following details Data member (name, address, age,
+gender) method (display). Create another class Manager that inherits the Person class
+having data member salary, incentive bonus (which is 20 % of salary), total salary,
+method display which calculate total salary and print all the details. Create another class
+Teacher that inherits the Person class having data member number of lecture conducted,
+rate per lecture. It has method display which calculates pay and displays all details.
+Create objects of derived classes and test it. Use appropriate constructors. (Show the
+concept of run time polymorphism.)
+
+What is a Package? Explain the use of package with example. What is the difference
+between private, protected, default and public?
+
+Answer the following (Any 2)
+
+Explain TCP/IP Socket and TCP/IP Server Socket in java with example.
+
+Explain Thread life cycle. Write a program to create 3 threads using Runnable interface.
+Explain any 5 methods of String class with syntax/example. Compare String class with
+
+StringBuffer class.
+
+Explain life cycle of applet? How it is different from an application? Create an applet
+which will set background color and draw circle, rectangle, and line with different colors
+
+and reads a message from PARAM tag and display it.
+
+Answer the following (Any 2)
+
+What is thread priority? How to set it explain with example
+Explain the use of finally block and finalize method in java
+Explain the use of Reference variable with example
+
+Answer the following (Any 2)
+Explain the concept of exception handling by writing example for handling Arithmetic
+
+Exception and NumberFormatException.
+Explain the use of final and static keyword with example.
+Explain inner class with example.
+
+xo
+
+343
+
+[20]
+
+[14]
+
+(06)
+
+[20]
+````
+
+## 2012-13 · Final-Exam · Trim 3 · paper f418cb50305c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/Core Java Final 09.pdf`
+- Printed on paper: max marks: 100; exam date: 11/05/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management &i Engineering
+Programme: MBA (Tech) -ALL STREAM   Year:   I   Trimester:   I11
+Academic Year : 2012-2013
+Subject:   CORE JAVA   Marks:   100 -.---.   .. -..,
+Time :
+Date:   11/05/2013   Duratic
+Instructions: candidates should read carefully the instructions printed
+1. Question No. 1 is compulsory.
+2. Out of remaining 6 questions, attempt any four questions.
+3. In all 5 questions need to be attempted.
+4. All questions carry equal marks.
+5. Figures on the right within square bracket indicate marks.
+6. Answer to each new question should begin on a fresh page.
+Q.1 >
+A. Answer the following questions.   [lo mks]
+i. What is method overriding? Can we override static methods of class?
+Justify your answer.
+ii. Is-there anydifference between final, finally and finalize keywords of
+Java?
+B. What is a constructor? Explain constructor overloading with programming   [lo mks]
+Example
+4.2 1
+A. What is thread'in java? Explain life cycle of the thread with proper diagram. [lo mks]
+B. What are the different ways to create threads in java? Explain with example. [lo mks]
+4.3 1
+1   A. Write short note on.   [lo mks]
+i.   static data members of class
+ii.   Writer class
+B. Write userdefined exception class NegativeAgeException. Read age of   [lo mks]
+student in main using method getAge0. If any negative value is entered then main
+method throws instance of NegativeAgeException as a result of which a message
+" age cannot be a negative value" will be printed.
+Q. 4 1
+A. Write a menu driven java program to read two numbers from command line   [lo mks]
+and add subtract multiply and divide these two numbers
+8 B. Explain the concept to exception handling in java using try with multiple   [lo mks]
+catch blocks with suitable example.
+Q.5 r
+A. Can subclass constructor be used to create an instance of superclass along   [lo mks]
+with instance of subclass? If yes explain how?
+B. Explain any five methods of String class with proper examples.   [lo mks]
+--- page 2 ---
+A. what is output of following programs? Give justification.   [I0 mks]
+i.   public class AA {
+public static void main(String args[]) {
+String sl = "abc";
+String s2 = "def";
+String s3 = sl .concat(s2.toUpperCase() );
+System.out.println(s 1 +s2+s3);) )
+. .
+11.   class str
+{public static void main(String args[])
+{String std = "MjName";
+String str3 = str2;
+if(str2 == str3) {
+System.out.println("Objects are equal");
+)else(
+System.out.println("0bjects are not equal");
+1
+if(str3 .equals(str2)) {
+System.out.println("Objects are equal");
+)else {
+System.out.println(0bjects are not equal");
+1)).
+B. Write a program that outputs n numbers from two sequences turn by turn   [lo mks]
+and each number in its own line(2*n numbers in total). The rest sequence is
+a, a+2, a+4, ... and the second b, b+5, b+ 10, ... Variables n, a and b have
+already been declared and should be used in your program code.
+For example if a = 4 and b = 7, the program should output:
+4
+7
+6
+12
+8
+17
+4   ...
+Q.7
+A. Differentiates between followings   [lo mks]
+i. checked and unchecked exceptions
+ii. abstract class and interface
+B. Write a java program to check whether the input string is palindrome or not. [lo mks]
 ````
 
 ## 2012-13 · Final-Exam · Trim 3 · paper 41a234050eeb
@@ -1777,229 +2321,6 @@ X
 $1 2-
 ````
 
-## 2012-13 · Re-Exam · Trim 3 · paper c528424f5de1
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA BATCH 2012-13 RE EXAM TRIM III0001(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/03/2014
-- Text: ocr (2 pages), mean OCR confidence 86.1
-
-````text
-emt,
-
-of TE BF
-/ eres.
-
-SVKM’
-Mukesh s NMIMS &
-
-Patel School of Technolo Mana ement & En ingeying wag h A 4
-P. BA TECH All S I 7 so ns '
-ToOgramme M CG ( tr eams) Year rimester ay { }
-
-Academic Year : 2013-2014 BLLIBRARY J§ }
-
-4
-“i oy, \
-
-Batch: 2012-2019 te us = F
-
-Subject: Core J; * Nii ERS
-ava Marks: 100 See NE
-
-Date: 27/03/2014 Time: 4.00 pm To 7.00 pm
-
-Duration: 3 hrs.
-Re - Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. _1__ is compulsory.
-
-2) Out of remaining questions, attempt any ___Four__ questions.
-3) Inall___ Five___ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.No Question Marks
-
-Q.1 Distinguish between following ierms 20
-a)Objects and classes
-b)Data abstraction and Data Encapsulation
-c)inheritance and polymorphism
-d)Dynamic binding and message passing
-
-e)Object oriented Programming and Procedure oriented Programming
-
-Q.2 a)Enumerate the rules for creating identifier in java. 5
-b)what are command line arguments?how they are useful.? 15
-Write a short Note on 5
-a)Runtime Polymorphism : 5
-
-b)Except Handling in java
-
-Q3 a)Differentiate between 15
-i.Method overloading and Method overriding
-ii.Abstract Class and Concrete class
-ilijava and C++
-
-b)How is java is platform independent?Explain the execution flow of java
-program
-
-Vo.
---- page 2 ---
-Q4 a) Write any Java Program that throws Runtime Exception. 10
-bY How to efficiently use try catch block and throws ?Explain with example. 10
-Q.5 ,4 State two basic use of super keyword in inheritance in java. Explain each with 10
-- suitable example.
-}s) Explain how multiple inheritances are achieved in java using concept of 10
-—| interface. Explain it with example.
-Q.6 Write a short note on
-a)Byte Code
-b)Packages and their drawback 20
-c)Garbage Collect
-d)Command Line Argument
-e)Inner classes i
-Q7 a)Does Java Support multiple inheritance ? 10
-WAP to create a class BOX having variable LENGTH,BREADTH and HEIGHT
-and a method ‘display()’ to print value of these variables on screen.
-Create another class. BOXW which inherits BOX class and has additional
-parameter WEIGHT. This class will override the method ‘display()’ to print on
-screen the values of all four parameters.
-The Program should use.
-Constructor to initialize parameter values and ‘super’ where.ever necessary.
-b)Write a Java Program to perform operation on String 10
-
-i)To copy the string
-
-ito Concatenate the string
-
-iii)find out two strings are equal or not
-iv)convert lowercase letter to upper case
-
-2f a.
-
-—<—
-````
-
-## 2012-13 · Re-Exam · Trim 3 · paper a978bc649db6
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/07/2014
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL Stream) Year: I Trimester: HI
-
-Academic Year: 2013-14
-
-Batch:2012-2013
-
-we MPSTMB \
-
-bey 7 4s
-
-Subject : Core Java Marks: 100 EAC LIBRAR 4
-Time : 11.00 angry 00 pm. Le
-
-Date :15/07/2014 Durations:3 (hrs)*~ ariel 7
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the Question Paper and on the cover
-of the Answer Book, which is provided for their use.
-NB:
-
-1. Question no. 1. is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures to right hand side indicate full marks.
-
-6. Assume suitable data if necessary.
-
-Q.1] A. Distinguish between the following with example 06
-i) Objects vs. Classes
-ii) Instance variables vs. Class variables
-iii) ‘extends’ vs. ‘implements’
-B. Attempt the following: 06
-i) What is main() method prototype in Java
-ii) Elaborate about Command Line Arguments with example.
-C. Discuss the different levels of access specifiers available in Java. 04
--). Find errors, if any in the following statements, and also correct it. 04
-i) final pi = 3.142;
-ii) p*=x/y;
-iii) float x = 123.4;
-iv) int a[ J={1,2}; int b[ ]; b=a;
-
-Q.2] 4. i) Draw-and explain JVM with all its Components [OS
-ii) WAP in Java to sort foll. given elements {1,3,2,5,6,4,8} [05]
-B. Write a JAVA program to perform operation on strings [10]
-
-- to copy the string
-- to concatenate the string
-- find out two strings are equal or not
-
-- convert lowercase letter to uppercase
-
-Page 1 of 2
---- page 2 ---
-Q.3. A. Define thread and Multithreading. Explain thread life cycle model with a neat diagram. [10]
-B. Write a Java program to handle multiple exceptions using following details: [10]
-i) a=10; b=5; c=5;
-x=a/(b-c); Handle this exception
-ii) Suppose a programmer has created array with 3 elements. Write a code for exception
-
-handling if someone tries to access 4"" element.
-
-Q.4. A. Design a class to represent a bank account. Include the following details: [10]
-Data members: Name, Account no, Balance amount .
-Methods: i) To assign initial values
-ii) To deposit an amount
-iii) To display name and balance
-
-B. Define Inheritance with its types. Also explain use of “super” keyword in detail. [10]
-
-Q.5] Write a short note on(Any 4) 4*5=20
-A. The PrintWriter class
-B. Garbage Collector
-C. Wrapper Classes
-D. Java is a free form language.
-
-E. Object Class
-
-Q.6. A. What is the use of finalize( ), finally { }, and final with syntax and suitable example [4+4+2]
-B. Create a package named “MyPack” in java with one a class containing Arithmetic methods [10]
-
-(add, sub, multiply) and import in another program named “Myfile.java”
-
-Q.7} Differentiate between the following with example (Any 4) 4*5=20
-A] Method Overloading vs. Method Overriding with example
-B] Static Polymorphism vs. Dynamic Polymorphism _
-C] Abstract Class vs. Interfaces
-D] Checked vs. Unchecked Exceptions
-E] CPP vs. Java
-
-Page 2 of 2
-````
-
 ## 2012-13 · Re-Exam · Trim 3 · paper 1e32dce96562
 
 - Departments: Common (all branches)
@@ -2094,232 +2415,67 @@ d. Finally block injava exception
 e. Constructor overloading
 ````
 
-## 2012-13 · Re-Exam · Trim 3 · paper b0f6547b4a09
+## 2012-13 · Re-Exam · Trim 3 · paper be07c98bd1cf
 
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/CORE JAVA/CORE JAVA BATCH 2012-13 RE EXAM TRIM III0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/03/2014
-- Text: ocr (3 pages), mean OCR confidence 91.4
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/Core Java Re Exam 02.pdf`
+- Printed on paper: exam date: 11/05/2013
+- Text: text (2 pages)
 
 ````text
-— 5 : a
-\ SVKM’s NMIMS Y estate W "a.
-: Mukesh Patel School of Technology Management & Enginee fin Sa aa \
-Programme: MCA Year: I Trimester: II i (OM PST u 1 3
-Academic Year : 2013-2014 Wek LIBRAR J£
-Batch: 2012-2013 orn mee cw
-Subject: Core Java Marks: 100 his WN :
-Time: 4.00 pm To pm
-Date: 24/03/2014 Duration: 3 hrs.
-
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management & Engineering
+Programme: M B A (Tech) -ALL STREAM   Year:   I   Trimester:
+Academic Year : 2012-2013
+Batch:   201 1-12
+Subject:   CORE JAVA   Marks:
+Time:
+Date:   11/05/2013   Duration:
 Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-
-Cover of the Answer Book, which is provided for their use.
-NB: _ 1. Question No. | is compulsory.
-
-2. Out of remaining 5 questions, attempt any 4 questions. In all attempt 5 questions.
-3. All questions carry equal marks.
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicates full marks.
-6. Give examples wherever required.
-
-Q. 1(a) Find the output. Give justification for your answer. [10]
-1) class A { : 2) class MyThread extends Thread {
-final public int GetResult(int a, int b) { public static void main(String [] args) {
-return 0; } } : MyThread t = new MyThread();
-class B extends A { Thread x = new Thread(t);
-public int GetResult(int a, int b) { x.start(); }
-return 1; } } public void run() {
-public class Test { for(int i= 0; i< 3; +41) {
-public static void main(String args[]) { System.out.print(i + "..");}}}
-B b=new BQ;
-System.out.printIn("x="+b.GetResult(0, (a) Compilation fails
-1); } 3 (b) 0..1..2..3
-(a) x=0 (b) x=1 (c) 0..1..2
-(c) An exception is thrown at runtime (d) An exception occurs at runtime.
-(d) Compilation fails
-3) public class FO091 { 4) interface x{void show();}
-public void main( String[] args ) { class y implements x{
-System.out.printIn( "Hello" + args[0] | void
-)s 33 show() {System.out.printIn(“show”);}}
-, if this code is executed with the command (a) run time error
-. line: > java F0091 world (b) compile time error
-(a) Hello world (c)-will compile but not execute
-(b) Hello (d) will compile and execute
-(c) code will not run
-(d) Hello FO091
-
-5) String a = "newspaper";
-
-a = a.substring(5,7);
-
-char b = a.charAt(1);
-
-a=atb; .
-
-System.out.printIn(a);
-
-(a) apa (b) app (c) apea (d) apep
-
-Q.1(b) Attempt the following [10]
-1 Which method tells the calling thread to give up the monitor and go to sleep until some
-other thread enters the same monitor and calls notify().
-
-(a) sleepQ) (b) joinQ, (c) suspend (d) wait(Q)
-
-“IP3
+Note:
+Question No. 1 i s compulsory.
+Attempt any four out o f remaining six.
+In all 5 questions to be attempted.
+Assumptions made should be clearly stated.
+Answer to each new question to be started on fresh page.
+Figures on right side indicate full marks.
+Illustrate answer with sketches wherever required.
+Q. 1
+A.   Explain data types in java. Also explain the role of wrapper class.
+B.   Write a program to find out no. of upper case, lower case, blank spaces, and
+number of digits from a string
+Explain Thread life cycle with example program   [lo]
+Compare and contrast overloading and overriding methods with suitable examples   [lo]
+What is a package? How do we design a package ? What are the benefits of   [lo]
+the packages?
+Write a java program to print even numbers from 1 to 100 after every 1 second
+i.e pause the thread for a second
+Explain interface and use of interface with an example
+Write any java program that throws following exception
+I.   ArraylndexOutOfBound
+11.   ArithmeticException
 --- page 2 ---
-2. Which of the following class definitions are legal declaration of an abstract class?
-
-(a)class A { abstract void Method() {} }
-
-(b) abstract class A { abstract void Method() ; }
-(c) class A { abstract void Method() {System.out.printIn("Test");} }
-(d) class abstract A { abstract void Method() {} }
-
-3 Which statements are true? (select all that apply)
-(a) The default constructor has the same access as J
-(b) The default constructor invokes the no-argumen
-(c) If a class lacks a no-argument constructor, the comp
-
-ts class.
-t constructor of the superclass.
-iler always creates a default
-
-constructor.
-(d) The compiler creates a defaul
-for the class.
-
-4 What is garbage collection in the context of Java?
-(a) The operating system periodically deletes all of the java files available on the system. ,
-
-(b) Any package imported in a program and not used is automatically deleted.
-(c) When all references to an object are gone, the memory used by the object is
-
-automatically reclaimed.
-
-(d) The JVM checks the output o
-
-make sense. :
-5 Which of the following classes can be
-
-Socket class? (select all that apply)
-
-(a) URL (b) InetAddress (c) URLConnection (d) ServerSocket
-6 Given try{ int x=Integer-parselnt(“two”);}
-
-Which could be used to create an appropriate catch block?
-
-(a) ClassCastException (b) NumberFormatException
-
-(c) MegalStateExecption (d) ArithmeticException
-
-t constructor only when there are no other constructors
-
-f any Java program and deletes anything that doesn't
-
-passed as a parameter to the constructor of the
-
-7 Which of the following are classes, that are the part of Java Collection Framework
-
-(select all that apply)
-(a) Dictionary
-8 Which method is used to know the
-
-(b) Date (c)Vector (d) Iterator
-directory name from where the applet class is
-
-loaded?
-(a)getCodeBase() (b) getDocumentBase()
-(c) getClassName() (d) getA ppletLoadClass()
-9 Which class encapsulates the run-time.state of an object or interface
-(a) Object (b) Runtime (c) ClassLoader (d) Class
-
-10 Which is a valid declaration within an interface?
-’ (a) public static short stop = 233
-(b) protected short stop = 23}
-(c) transient short stop = 23;
-(d) final void madness(short stop);
-
-Q.2 Answer the following (Any 2)
-1 Explain method overloading concept with example. Compare it with method overriding. .
-2 Create a class Operation which perform following operations - find the factorial of a
-number, find string is palindrome or not, find number is prime or not. Input should be
-
-using command line argument. It should be menu driven program where choice is read
-
-within the program.
-3. Explain the use of super keyword with example.
-
-Q.3 Answer the following (Any 2)
-1 Explain with example how interface is useful for implementing multiple inheritance in
-
-java. How it is different for abstract class.
-
--243
-
-[20]
-
-[20]
---- page 3 ---
-Q. 5 (a)
-
-Q. 5 (b)
-1.
-
-Create a class named Person with following details Data member (name, address, age,
-gender) method (display). Create another class Manager that inherits the Person class
-having data member salary, incentive bonus (which is 20 % of salary), total salary,
-method display which calculate total salary and print all the details. Create another class
-Teacher that inherits the Person class having data member number of lecture conducted,
-rate per lecture. It has method display which calculates pay and displays all details.
-Create objects of derived classes and test it. Use appropriate constructors. (Show the
-concept of run time polymorphism.)
-
-What is a Package? Explain the use of package with example. What is the difference
-between private, protected, default and public?
-
-Answer the following (Any 2)
-
-Explain TCP/IP Socket and TCP/IP Server Socket in java with example.
-
-Explain Thread life cycle. Write a program to create 3 threads using Runnable interface.
-Explain any 5 methods of String class with syntax/example. Compare String class with
-
-StringBuffer class.
-
-Explain life cycle of applet? How it is different from an application? Create an applet
-which will set background color and draw circle, rectangle, and line with different colors
-
-and reads a message from PARAM tag and display it.
-
-Answer the following (Any 2)
-
-What is thread priority? How to set it explain with example
-Explain the use of finally block and finalize method in java
-Explain the use of Reference variable with example
-
-Answer the following (Any 2)
-Explain the concept of exception handling by writing example for handling Arithmetic
-
-Exception and NumberFormatException.
-Explain the use of final and static keyword with example.
-Explain inner class with example.
-
-xo
-
-343
-
-[20]
-
-[14]
-
-(06)
-
-[20]
+Q. 5
+A.   Explain the following method functions:   [lo]
+i. setPriority()   ii. isAlive()   iii. Join() iv. Sleep() v. suspend()
+B.   Explain the use of finalize, finally and final keywords.   [lo]
+Q.6
+A.   Does Java support multiple inheritance?   [lo]
+Write a JAVA program to create a class 'Box' having variable length, breadth and height
+And a method disp!a\;() to print values of these variables on the screen. Create another
+Class 'BoxW' which inherits 'Box' class and has additional parameter weight. This class
+Will override the method 'display()' to print on screen the values of all four parameters
+The program should use constructor
+to initialize parameter values and 'super' wherever necessary.
+B.   Explain the String Buffer class and any three methods in it with suitable examples   [1Q]
+Q.7   Write a short note on (Any FOUR)   [201
+I.   Runtime polymorphism
+1   11.   Java Virtual Machine
+. . .
+111.   Exception handling in java
+iv.   Access specifiers in java
+v.   Printwriter class
 ````
 
 ## 2012-13 · Re-Exam · Trim 3 · paper 2827925d8bd9
@@ -2393,462 +2549,7 @@ this package in ncr.java. read to numbers n and r in ncr.$va and compute
 B. Explain the life cycle of applet in detail.   [I0 mks]
 ````
 
-## 2011-12 · Re-Exam · Trim 3 · paper 42aaec571de8
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: exam date: 28/06/2012
-- Text: ocr (1 page), mean OCR confidence 88.9
-
-````text
-= _ SVKM’s NMIMS ate
-Mukesh Patel School of Technology Mana ement &
-
-Programme: MBA Tech Year: I Trimester: III
-Academic Year : 2011-2012
-
-Batch: 2011-12 ‘a
-
-Subject: Core Java : Marks: LigRaRy
-Time:
-
-Date: 28/06/2012 Duration:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Attempt any four out of remaining six questions.
-3. In all 5 questions to be attempted
-4. All questions carry equal marks.
-5. Answer to each new question to be started on fresh page.
-6. Figures in bracket on the right hand side indicate full marks.
-
-Qi A “Java is called completely object oriented language as compared with C++” Explain this statement (10)
-with suitable examples.
-B Why Multiple inheritance is not possible in Java? Explain with example how one can achieve the (10)
-same concept with the help of Interface.
-Q2 A _ Explain the concept of command line arguments with example. (10)
-B___ Differentiate method overloading and method overriding with suitable example. (10)
-3 A Explain the use of packages in Java. Also explain how to create packages and set CLASSPATH with (10)
-| suitable example.
-B State two basic uses of super Keywords in for Inheritance in Java. Explain each with suitable (10)
-example.
-Q4 A _ Explain String Buffer class and any three methods in it with suitable examples. (10)
-B Explain nesting of classes with suitable example. (10)
-Q5 A _ Explain try, catch, finally, and throws with suitable example. (10)
-B What is importance of handling exceptions? Also explain with suitable example what (10)
-happens-when we do not handle them,
-Q6 A'W this synchronization? Explain the use of using synchronization method with suitable (10)
-exataple.
-B What is thread? Hew it is different than process? Also develop a code for creating a thread. (10)
-Q7 Write a short note on: (ANY FOUR) (20)
-A. PrintWriter class B. Lexical issues
-C. Finalized method D. Reading console input
-E. Parameterized Constructor F. NoMatchException
-
-8 ie ee oe 9 oe oo ae ae ee
-````
-
-## 2011-12 · Re-Exam · Trim 3 · paper 13392ad40349
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA III MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 27/06/2013
-- Text: text (2 pages)
-
-````text
--.   .
-SVKM's NmMs
-Batch:   2011-2012 .
-Subject:   Core Java
-I   Time:   10.00 am To 1.00 p m   .
-Date:   27/06/2013   Duration: 3 hrs.
-Re - ExBmination
-Note:
-Question No.1 i s compulsory.
-Attempt any four out of remainingsix.
-In all 5 questions to be attempted.
-Assumptions made should be clearly stated.
-Answer to each new question to be started on fresh page.
-* Figureson right side indicate full marks.
-Illustrate answer with sketches wherever required.
-Write a short note on
-I.   Dynamic Method dispatch.
-ii.   Overloaded Constructors.
-Write an user defined exception class StringMismatchException which throws an   [lo]
-exception when the two strings entered by the user are not equal
-Differentiate between (Any two)
-I.   Checked and unchecked exception
-ii.   Abstract Class and Interfaces
-iii.   Java and Ctt
-Write a java program to sort an array consisting of names of 5 persons in an
-Ascending order
-How to efficiently use try catch block and throws? Explain with example.
-Explain theThread Life Cycle in detail
---- page 2 ---
-T q
-9
-//   -.-
-/
-/.'
-4.4
-A.   What is the use of finalize, finally and final. Explain with suitable example   [lo]
-6.   What is package? How do we design a package? What are the benefits of the   DO]
-Packages?
-9.5
-A.   Does Java support multiple inheritance?   [lo]
-Write a JAVA program to create a class 'Box' having variable length, breadth and height
-And a method display() to print valuesof these variables on the screen. Create another
-Class 'BoxW' which inherits 'Box' class and has additional parameter weight. This class
-Will override the method 'display()' to print on screen the values of all four parameters
-The program should use constructor
-to initialize parameter values and 'super' wherever necessary. .
-8.   Explain data types in java. Also explain the role of wrapper class.
-Q.6
-A.   Write a java program to print even numbers from 1to 100 after every 1second
-i.e pause the thread for a second
-'
-B.   Explain String Buffer class and any three methods in it with suitable examples
-4.7   Write Short notes on: (ANY FOUR)
-I.   Reading console input   $6
-ii.   JVM and JDK   1 , -   I
-.,
-111.   Thread Synchronization
-iv.   Access Specifiers in java
-v.   Inner classes
-````
-
-## 2010-11 · Re-Exam · Trim 3 · paper dc3dd191923a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: exam date: 28/06/2012
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-
-— Mukesh Patel School of Technolo
-Programme: MBA Tech Year: I Trimester: III
-Academic Year : 2011-2012
-Batch: 2010-2011 :
-Subject: Core Java Marks:
-Time:
-Date: 28/06/2012 Duration:
-
-Re - Examination
-
-question paper and on the cover of the Answer Book, which is provided for
-their use.
-
-1.Questions No.1 is compulsory.
-
-2.Out of the remaining 6 questions, attempt any 4 questions.
-
-3.In all 5 questions to be attempted.
-
-4.All questions carry equal marks.
-
-5.Answer to each new question to be started on a fresh page.
-
-6.Figures in brackets on the right hand side indicate full marks.
-
-Ql.
-Write a short note on ~ [5 X 4 = 20 M]
-A. Runtime polymorphism.
-B. Java Virtual Machine
-C. Exception handling in Java
-D. Wrapper Class
-Q2.
-A. Write a Java program that explains Life Cycle of thread.
-[10 M]
-B. WAP to print a number on console after every 1 second. (i.e. to
-pause a thread for 1 second)
-[10 M]
-Q3.
-A. Write short note on
-[5X 2= 10M]
-| --Access Specifier in Java
-ee | --Access Modifiers in Java
-4
-B. WAP to add number of digit..(e.g..123=1+2+3=6)
-‘ [10 M]
-Q4.
-A. Differentiate between (Any 3) [5X3 = 15M]
-
-|. Method Overloading and Method Overriding.
-ii. Checked and Unchecked Exceptions.
-
-lii. Abstract Class and Concrete class
-
-iv. Java and C++
-
-Page 1 of 2
---- page 2 ---
-B. How Java is platform independent? Explain the execution flow of
-Java program.
-[5 M]
-
-Q5.
-A. Write any Java Program that throws RuntimeException.
-
-[10 M]
-
-B. How to efficiently use try catch block and throws? Explain with
-example.
-[10 M]
-
-Q6. Write a short note on:(Any 4)
-[4X5 = 20M]
-A. Bytecode
-B. Packages and their drawbacks.
-C. Garbage Collector
-D. Commandline argument
-E. Inner Classes
-
-Q7.
-
-A. Does Java support multiple inheritance?
-WAP to create a class ‘Box’ having variables length, breadth and height
-and a method ‘display ()’ to print value of these variables on screen.
-Create another class ‘BoxW’ which inherits ‘Box’ class and has
-
-j additional parameter weight. This class will override the method
-‘display()’ to print on screen the values of all four parameters.
-The program should use-
-Constructor to initialize parameter values and ‘super’ where ever
-necessary. [10 M]
-
-B. Write a JAVA program to perform operation on.string
-
--to copy the string
-
--to concatenate the string
-
--find out two strings are equal or not
-
--convert lowercase letter to uppercase [10 M]
-
-¥!
-
-Page 2 of 2
-````
-
-## 2010-11 · Re-Exam · Trim 3 · paper 21c4cbbad706
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA RE EXAM BATCH 2010-110001.pdf`
-- Printed on paper: exam date: 12/05/2012
-- Text: ocr (2 pages), mean OCR confidence 93.1
-
-````text
-\ SVKM’s NMIMS
-Mukesh Patel School of Technology Management &.
-
-Programme: MBA (TECH) (ALL STREAMS) Year:: ol Trimestgy
-Academic Year : 2011-2012 E
-
-Batch: 2010-2011
-
-Subject: Core Java Mar
-Time
-
-Date: 12/05/2012
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer book, which is provided for their use.
-
-1. Question No. 1 is compulsory.
-
-2. Out of the remaining questions, attempt any 4 questions.
-
-3. In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on right hand side indicate full marks.
-
-Ql
-a) Explain how java is platform independent. (5)
-b) Explain various constructors in Java with examples. (5)
-c) Explain the difference between default and public access specifier in java. (5)
-d) What is command line argument? Write a program to find largest of three
-integers accepted from command line. 5)
-Q.2
-a) Write a program to find out no. of upper case, lower case, blank spaces, and
-number of digits from a string. (10)
-} b) Explain interface and use of interface using example. (10)
-Q3
-a) Explain thread life cycle and explain any five methods of class Thread. (10)
-b) Compare and contrast overloading and overriding methods with suitable
-examples. (10)
-Q4
-' ‘a) Write a program to display the following pattern :- : (10)
-ay ) 1
-‘ 01
-101
-: 0101
-10101
-b) Explain exception handling feature of Java with suitable example. (10)
-Q.5
-a) What is a package? How do we design a package? What are the benefits of the (10)
-packages?
-
-b-
---- page 2 ---
-b) Write a program to create multiple threads. (One thread may display alphabets
-and other thread may display the numbers.)
-
-Q.6
-
-a) Explain data types in Java. Also explain the role of wrapper class.
-
-b) Write a program to calculate area of triangle, square and circle using the concept
-of abstract class. .
-
-Q.7 Write short notes on :-
-
-a) Thread synchronization
-
-b) String Buffer class
-
-c) Difference between C++ and Java
-d) JVM and JDK
-
-e) Java.util.package
-
-A
-
-(10)
-
-(10)
-
-(10)
-(20)
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper f5c64ee320f4
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA.pdf`
-- Printed on paper: max marks: 10; duration hours: 3; exam date: 13/05/2011
-- Text: ocr (2 pages), mean OCR confidence 91.1
-
-````text
-. . SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engine
-
-Programme: MBA (TECH) (ALL STREAMS) Year: I Trimester: III
-Academic Year : 2010-2011
-
-Subject: Core Java Marks: 10'
-Time: 10.
-
-Date: 13/05/2011 Duration: 3 hr
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1. Questions No.1 is compulsory.
-
-2. Out of the remaining 6 questions, attempt any 4 questions.
-
-3, In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Qi.
-A. Write a short note on [5X2=10M]
-i. Dynamic Method Dispatch
-ii. Every class in JAVA is inherited from Object class. Justify your answer
-
-B. Write a JAVA program to [10 M]
-i. Modify a string
-ii. Search a character or substring in a String
-iii. Compare two Strings
-What is the difference between == and .equals ()
-
-Q2.
-A. Explain Thread Life Cycle in detail. [10 M]
-
-B. Write a Java Program to print a number on console after every 1 second. (i.e. to pause a
-thread for 1 second) [10 M]
-
-Q3.
-A. Write short note on ; [5X2=10M]
-i. Synchronization
-ii. Static
-
-B. Write a menu driven JAVA program to demonstrate Command Line Arguments. Take two
-numbers (integers) and choice (integer) from menu through command line.
-Add following methods
-a. Add
-b. Subtract
-c. Multiply [10 M]
-
-Page 1 of 2
---- page 2 ---
-Qa.
-A. Differentiate between (Any 3) {[5X2=15 M]
-i. Method Overloading and Method Overriding.
-ii. | Checked and Unchecked Exceptions.
-iii. | Abstract Class and interfaces.
-iv. Java and C++
-
-B. Explain how Java works in brief. How is it platform independent? Explain the execution
-flow of Java program. [5 Mj
-
-Qs.
-A. Write any Java Program that throws following exception
-i. ArraylndexOutOfBound
-ii. ArithmeticException
-iii. | TypeMismatchException {10 M]
-
-B. What is call stack mechanism? How to efficiently use try catch block and throws? [10 M]
-
-Q6. Write a short note on: (Any 4) [4X5=20M]
-i. Access Specifiers
-ii. | Packages and their drawbacks.
-iii. | Garbage Collector
-iv. Wrapper Classes
-v. Nested Classes and inner Classes
-
-qQ7.
-A. Does Java support multiple inheritance?
-
-Write a JAVA program to create a class ‘Box’ having variables length, breadth and height
-and a method ‘display ()’ to print value of these variables on screen.
-Create another class ‘BoxW’ which inherits ‘Box’ class and has additional parameter
-weight. This class will override the method ‘display()’ to print on screen the values of all
-four parameters.
-The program should. use-
-Constructor to initialize parameter values and ‘super’ where ever necessary. [10 M]
-
-B. What is the use of finalize, finally and final. [10 MJ
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper c7ad3b3ece8c
+## 2011-12 · Exam not stated · Trim 3 · paper c7ad3b3ece8c
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -2989,7 +2690,7 @@ Vz
 [10 mks]
 ````
 
-## Year not stated · Exam not stated · Trim 3 · paper f9363aeb6977
+## 2011-12 · Exam not stated · Trim 3 · paper f9363aeb6977
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -3074,158 +2775,457 @@ e) Life cycle of thread.
 y!
 ````
 
-## Year not stated · Final-Exam · Trim 3 · paper f418cb50305c
+## 2011-12 · Re-Exam · Trim 3 · paper dc3dd191923a
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/Core Java Final 09.pdf`
-- Printed on paper: max marks: 100; exam date: 11/05/2013
-- Text: text (2 pages)
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA BATCH 2010-11 RE EXAM0001.pdf`
+- Printed on paper: exam date: 28/06/2012
+- Text: ocr (2 pages), mean OCR confidence 91.3
 
 ````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management &i Engineering
-Programme: MBA (Tech) -ALL STREAM   Year:   I   Trimester:   I11
-Academic Year : 2012-2013
-Subject:   CORE JAVA   Marks:   100 -.---.   .. -..,
-Time :
-Date:   11/05/2013   Duratic
-Instructions: candidates should read carefully the instructions printed
-1. Question No. 1 is compulsory.
-2. Out of remaining 6 questions, attempt any four questions.
-3. In all 5 questions need to be attempted.
-4. All questions carry equal marks.
-5. Figures on the right within square bracket indicate marks.
-6. Answer to each new question should begin on a fresh page.
-Q.1 >
-A. Answer the following questions.   [lo mks]
-i. What is method overriding? Can we override static methods of class?
-Justify your answer.
-ii. Is-there anydifference between final, finally and finalize keywords of
-Java?
-B. What is a constructor? Explain constructor overloading with programming   [lo mks]
-Example
-4.2 1
-A. What is thread'in java? Explain life cycle of the thread with proper diagram. [lo mks]
-B. What are the different ways to create threads in java? Explain with example. [lo mks]
-4.3 1
-1   A. Write short note on.   [lo mks]
-i.   static data members of class
-ii.   Writer class
-B. Write userdefined exception class NegativeAgeException. Read age of   [lo mks]
-student in main using method getAge0. If any negative value is entered then main
-method throws instance of NegativeAgeException as a result of which a message
-" age cannot be a negative value" will be printed.
-Q. 4 1
-A. Write a menu driven java program to read two numbers from command line   [lo mks]
-and add subtract multiply and divide these two numbers
-8 B. Explain the concept to exception handling in java using try with multiple   [lo mks]
-catch blocks with suitable example.
-Q.5 r
-A. Can subclass constructor be used to create an instance of superclass along   [lo mks]
-with instance of subclass? If yes explain how?
-B. Explain any five methods of String class with proper examples.   [lo mks]
---- page 2 ---
-A. what is output of following programs? Give justification.   [I0 mks]
-i.   public class AA {
-public static void main(String args[]) {
-String sl = "abc";
-String s2 = "def";
-String s3 = sl .concat(s2.toUpperCase() );
-System.out.println(s 1 +s2+s3);) )
-. .
-11.   class str
-{public static void main(String args[])
-{String std = "MjName";
-String str3 = str2;
-if(str2 == str3) {
-System.out.println("Objects are equal");
-)else(
-System.out.println("0bjects are not equal");
-1
-if(str3 .equals(str2)) {
-System.out.println("Objects are equal");
-)else {
-System.out.println(0bjects are not equal");
-1)).
-B. Write a program that outputs n numbers from two sequences turn by turn   [lo mks]
-and each number in its own line(2*n numbers in total). The rest sequence is
-a, a+2, a+4, ... and the second b, b+5, b+ 10, ... Variables n, a and b have
-already been declared and should be used in your program code.
-For example if a = 4 and b = 7, the program should output:
+SVKM’s NMIMS
+
+— Mukesh Patel School of Technolo
+Programme: MBA Tech Year: I Trimester: III
+Academic Year : 2011-2012
+Batch: 2010-2011 :
+Subject: Core Java Marks:
+Time:
+Date: 28/06/2012 Duration:
+
+Re - Examination
+
+question paper and on the cover of the Answer Book, which is provided for
+their use.
+
+1.Questions No.1 is compulsory.
+
+2.Out of the remaining 6 questions, attempt any 4 questions.
+
+3.In all 5 questions to be attempted.
+
+4.All questions carry equal marks.
+
+5.Answer to each new question to be started on a fresh page.
+
+6.Figures in brackets on the right hand side indicate full marks.
+
+Ql.
+Write a short note on ~ [5 X 4 = 20 M]
+A. Runtime polymorphism.
+B. Java Virtual Machine
+C. Exception handling in Java
+D. Wrapper Class
+Q2.
+A. Write a Java program that explains Life Cycle of thread.
+[10 M]
+B. WAP to print a number on console after every 1 second. (i.e. to
+pause a thread for 1 second)
+[10 M]
+Q3.
+A. Write short note on
+[5X 2= 10M]
+| --Access Specifier in Java
+ee | --Access Modifiers in Java
 4
-7
-6
-12
-8
-17
-4   ...
-Q.7
-A. Differentiates between followings   [lo mks]
-i. checked and unchecked exceptions
-ii. abstract class and interface
-B. Write a java program to check whether the input string is palindrome or not. [lo mks]
+B. WAP to add number of digit..(e.g..123=1+2+3=6)
+‘ [10 M]
+Q4.
+A. Differentiate between (Any 3) [5X3 = 15M]
+
+|. Method Overloading and Method Overriding.
+ii. Checked and Unchecked Exceptions.
+
+lii. Abstract Class and Concrete class
+
+iv. Java and C++
+
+Page 1 of 2
+--- page 2 ---
+B. How Java is platform independent? Explain the execution flow of
+Java program.
+[5 M]
+
+Q5.
+A. Write any Java Program that throws RuntimeException.
+
+[10 M]
+
+B. How to efficiently use try catch block and throws? Explain with
+example.
+[10 M]
+
+Q6. Write a short note on:(Any 4)
+[4X5 = 20M]
+A. Bytecode
+B. Packages and their drawbacks.
+C. Garbage Collector
+D. Commandline argument
+E. Inner Classes
+
+Q7.
+
+A. Does Java support multiple inheritance?
+WAP to create a class ‘Box’ having variables length, breadth and height
+and a method ‘display ()’ to print value of these variables on screen.
+Create another class ‘BoxW’ which inherits ‘Box’ class and has
+
+j additional parameter weight. This class will override the method
+‘display()’ to print on screen the values of all four parameters.
+The program should use-
+Constructor to initialize parameter values and ‘super’ where ever
+necessary. [10 M]
+
+B. Write a JAVA program to perform operation on.string
+
+-to copy the string
+
+-to concatenate the string
+
+-find out two strings are equal or not
+
+-convert lowercase letter to uppercase [10 M]
+
+¥!
+
+Page 2 of 2
 ````
 
-## Year not stated · Re-Exam · Trim 3 · paper be07c98bd1cf
+## 2011-12 · Re-Exam · Trim 3 · paper 42aaec571de8
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/Core Java Re Exam 02.pdf`
-- Printed on paper: exam date: 11/05/2013
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: exam date: 28/06/2012
+- Text: ocr (1 page), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+= _ SVKM’s NMIMS ate
+Mukesh Patel School of Technology Mana ement &
+
+Programme: MBA Tech Year: I Trimester: III
+Academic Year : 2011-2012
+
+Batch: 2011-12 ‘a
+
+Subject: Core Java : Marks: LigRaRy
+Time:
+
+Date: 28/06/2012 Duration:
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory.
+2. Attempt any four out of remaining six questions.
+3. In all 5 questions to be attempted
+4. All questions carry equal marks.
+5. Answer to each new question to be started on fresh page.
+6. Figures in bracket on the right hand side indicate full marks.
+
+Qi A “Java is called completely object oriented language as compared with C++” Explain this statement (10)
+with suitable examples.
+B Why Multiple inheritance is not possible in Java? Explain with example how one can achieve the (10)
+same concept with the help of Interface.
+Q2 A _ Explain the concept of command line arguments with example. (10)
+B___ Differentiate method overloading and method overriding with suitable example. (10)
+3 A Explain the use of packages in Java. Also explain how to create packages and set CLASSPATH with (10)
+| suitable example.
+B State two basic uses of super Keywords in for Inheritance in Java. Explain each with suitable (10)
+example.
+Q4 A _ Explain String Buffer class and any three methods in it with suitable examples. (10)
+B Explain nesting of classes with suitable example. (10)
+Q5 A _ Explain try, catch, finally, and throws with suitable example. (10)
+B What is importance of handling exceptions? Also explain with suitable example what (10)
+happens-when we do not handle them,
+Q6 A'W this synchronization? Explain the use of using synchronization method with suitable (10)
+exataple.
+B What is thread? Hew it is different than process? Also develop a code for creating a thread. (10)
+Q7 Write a short note on: (ANY FOUR) (20)
+A. PrintWriter class B. Lexical issues
+C. Finalized method D. Reading console input
+E. Parameterized Constructor F. NoMatchException
+
+````
+
+## 2011-12 · Re-Exam · Trim 3 · paper 13392ad40349
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA III MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 27/06/2013
 - Text: text (2 pages)
 
 ````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management & Engineering
-Programme: M B A (Tech) -ALL STREAM   Year:   I   Trimester:
-Academic Year : 2012-2013
-Batch:   201 1-12
-Subject:   CORE JAVA   Marks:
-Time:
-Date:   11/05/2013   Duration:
-Re - Examination
+-.   .
+SVKM's NmMs
+Batch:   2011-2012 .
+Subject:   Core Java
+I   Time:   10.00 am To 1.00 p m   .
+Date:   27/06/2013   Duration: 3 hrs.
+Re - ExBmination
 Note:
-Question No. 1 i s compulsory.
-Attempt any four out o f remaining six.
+Question No.1 i s compulsory.
+Attempt any four out of remainingsix.
 In all 5 questions to be attempted.
 Assumptions made should be clearly stated.
 Answer to each new question to be started on fresh page.
-Figures on right side indicate full marks.
+* Figureson right side indicate full marks.
 Illustrate answer with sketches wherever required.
-Q. 1
-A.   Explain data types in java. Also explain the role of wrapper class.
-B.   Write a program to find out no. of upper case, lower case, blank spaces, and
-number of digits from a string
-Explain Thread life cycle with example program   [lo]
-Compare and contrast overloading and overriding methods with suitable examples   [lo]
-What is a package? How do we design a package ? What are the benefits of   [lo]
-the packages?
-Write a java program to print even numbers from 1 to 100 after every 1 second
-i.e pause the thread for a second
-Explain interface and use of interface with an example
-Write any java program that throws following exception
-I.   ArraylndexOutOfBound
-11.   ArithmeticException
+Write a short note on
+I.   Dynamic Method dispatch.
+ii.   Overloaded Constructors.
+Write an user defined exception class StringMismatchException which throws an   [lo]
+exception when the two strings entered by the user are not equal
+Differentiate between (Any two)
+I.   Checked and unchecked exception
+ii.   Abstract Class and Interfaces
+iii.   Java and Ctt
+Write a java program to sort an array consisting of names of 5 persons in an
+Ascending order
+How to efficiently use try catch block and throws? Explain with example.
+Explain theThread Life Cycle in detail
 --- page 2 ---
-Q. 5
-A.   Explain the following method functions:   [lo]
-i. setPriority()   ii. isAlive()   iii. Join() iv. Sleep() v. suspend()
-B.   Explain the use of finalize, finally and final keywords.   [lo]
-Q.6
+T q
+9
+//   -.-
+/
+/.'
+4.4
+A.   What is the use of finalize, finally and final. Explain with suitable example   [lo]
+6.   What is package? How do we design a package? What are the benefits of the   DO]
+Packages?
+9.5
 A.   Does Java support multiple inheritance?   [lo]
 Write a JAVA program to create a class 'Box' having variable length, breadth and height
-And a method disp!a\;() to print values of these variables on the screen. Create another
+And a method display() to print valuesof these variables on the screen. Create another
 Class 'BoxW' which inherits 'Box' class and has additional parameter weight. This class
 Will override the method 'display()' to print on screen the values of all four parameters
 The program should use constructor
-to initialize parameter values and 'super' wherever necessary.
-B.   Explain the String Buffer class and any three methods in it with suitable examples   [1Q]
-Q.7   Write a short note on (Any FOUR)   [201
-I.   Runtime polymorphism
-1   11.   Java Virtual Machine
-. . .
-111.   Exception handling in java
-iv.   Access specifiers in java
-v.   Printwriter class
+to initialize parameter values and 'super' wherever necessary. .
+8.   Explain data types in java. Also explain the role of wrapper class.
+Q.6
+A.   Write a java program to print even numbers from 1to 100 after every 1second
+i.e pause the thread for a second
+'
+B.   Explain String Buffer class and any three methods in it with suitable examples
+4.7   Write Short notes on: (ANY FOUR)
+I.   Reading console input   $6
+ii.   JVM and JDK   1 , -   I
+.,
+111.   Thread Synchronization
+iv.   Access Specifiers in java
+v.   Inner classes
+````
+
+## 2011-12 · Re-Exam · Trim 3 · paper 21c4cbbad706
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA RE EXAM BATCH 2010-110001.pdf`
+- Printed on paper: exam date: 12/05/2012
+- Text: ocr (2 pages), mean OCR confidence 93.1
+
+````text
+\ SVKM’s NMIMS
+Mukesh Patel School of Technology Management &.
+
+Programme: MBA (TECH) (ALL STREAMS) Year:: ol Trimestgy
+Academic Year : 2011-2012 E
+
+Batch: 2010-2011
+
+Subject: Core Java Mar
+Time
+
+Date: 12/05/2012
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of the remaining questions, attempt any 4 questions.
+
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on right hand side indicate full marks.
+
+Ql
+a) Explain how java is platform independent. (5)
+b) Explain various constructors in Java with examples. (5)
+c) Explain the difference between default and public access specifier in java. (5)
+d) What is command line argument? Write a program to find largest of three
+integers accepted from command line. 5)
+Q.2
+a) Write a program to find out no. of upper case, lower case, blank spaces, and
+number of digits from a string. (10)
+} b) Explain interface and use of interface using example. (10)
+Q3
+a) Explain thread life cycle and explain any five methods of class Thread. (10)
+b) Compare and contrast overloading and overriding methods with suitable
+examples. (10)
+Q4
+' ‘a) Write a program to display the following pattern :- : (10)
+ay ) 1
+‘ 01
+101
+: 0101
+10101
+b) Explain exception handling feature of Java with suitable example. (10)
+Q.5
+a) What is a package? How do we design a package? What are the benefits of the (10)
+packages?
+
+b-
+--- page 2 ---
+b) Write a program to create multiple threads. (One thread may display alphabets
+and other thread may display the numbers.)
+
+Q.6
+
+a) Explain data types in Java. Also explain the role of wrapper class.
+
+b) Write a program to calculate area of triangle, square and circle using the concept
+of abstract class. .
+
+Q.7 Write short notes on :-
+
+a) Thread synchronization
+
+b) String Buffer class
+
+c) Difference between C++ and Java
+d) JVM and JDK
+
+e) Java.util.package
+
+A
+
+(10)
+
+(10)
+
+(10)
+(20)
+````
+
+## 2010-11 · Exam not stated · Trim 3 · paper f5c64ee320f4
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/CORA JAVA/CORE JAVA.pdf`
+- Printed on paper: max marks: 10; duration hours: 3; exam date: 13/05/2011
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+. . SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engine
+
+Programme: MBA (TECH) (ALL STREAMS) Year: I Trimester: III
+Academic Year : 2010-2011
+
+Subject: Core Java Marks: 10'
+Time: 10.
+
+Date: 13/05/2011 Duration: 3 hr
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1. Questions No.1 is compulsory.
+
+2. Out of the remaining 6 questions, attempt any 4 questions.
+
+3, In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Qi.
+A. Write a short note on [5X2=10M]
+i. Dynamic Method Dispatch
+ii. Every class in JAVA is inherited from Object class. Justify your answer
+
+B. Write a JAVA program to [10 M]
+i. Modify a string
+ii. Search a character or substring in a String
+iii. Compare two Strings
+What is the difference between == and .equals ()
+
+Q2.
+A. Explain Thread Life Cycle in detail. [10 M]
+
+B. Write a Java Program to print a number on console after every 1 second. (i.e. to pause a
+thread for 1 second) [10 M]
+
+Q3.
+A. Write short note on ; [5X2=10M]
+i. Synchronization
+ii. Static
+
+B. Write a menu driven JAVA program to demonstrate Command Line Arguments. Take two
+numbers (integers) and choice (integer) from menu through command line.
+Add following methods
+a. Add
+b. Subtract
+c. Multiply [10 M]
+
+Page 1 of 2
+--- page 2 ---
+Qa.
+A. Differentiate between (Any 3) {[5X2=15 M]
+i. Method Overloading and Method Overriding.
+ii. | Checked and Unchecked Exceptions.
+iii. | Abstract Class and interfaces.
+iv. Java and C++
+
+B. Explain how Java works in brief. How is it platform independent? Explain the execution
+flow of Java program. [5 Mj
+
+Qs.
+A. Write any Java Program that throws following exception
+i. ArraylndexOutOfBound
+ii. ArithmeticException
+iii. | TypeMismatchException {10 M]
+
+B. What is call stack mechanism? How to efficiently use try catch block and throws? [10 M]
+
+Q6. Write a short note on: (Any 4) [4X5=20M]
+i. Access Specifiers
+ii. | Packages and their drawbacks.
+iii. | Garbage Collector
+iv. Wrapper Classes
+v. Nested Classes and inner Classes
+
+qQ7.
+A. Does Java support multiple inheritance?
+
+Write a JAVA program to create a class ‘Box’ having variables length, breadth and height
+and a method ‘display ()’ to print value of these variables on screen.
+Create another class ‘BoxW’ which inherits ‘Box’ class and has additional parameter
+weight. This class will override the method ‘display()’ to print on screen the values of all
+four parameters.
+The program should. use-
+Constructor to initialize parameter values and ‘super’ where ever necessary. [10 M]
+
+B. What is the use of finalize, finally and final. [10 MJ
+
+Page 2 of 2
 ````

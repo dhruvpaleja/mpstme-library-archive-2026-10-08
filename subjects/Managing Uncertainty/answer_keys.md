@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_DS_7009/Managing Uncertainty/ANS_Managing Uncertainty(702DB0C035)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29/11/25
 - Text: mixed (14 pages), mean OCR confidence 44.6
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM’S NMIMS
@@ -71,7 +73,6 @@ N (
 -— Cr\0:'48
 [EEE - cosas
 zm \4-25385 ——_ Amon, ,
-LVKowenosg 2 Meow Mode NOLS - WEIS
 *~ 19-25
 — Qwak
 ‘Siva Se<O , * DoM 15 Negadr<d
@@ -93,7 +94,6 @@ Q.2.b
 Qa,
 
 Wogan, s
-ies igs Maer) deays~o ya | de
 AG <inay {os \ [Bye\e) LYU\oo
 “aie \\S “as ZOOS | ArHVS
 wu ie \as \S \SAS 2ZU2AS
@@ -118,13 +118,11 @@ Toso. Yrreg ua enor, ~W2\So
 Meiaw = \WE aS
 - Medion chats IS \uo —\SO
 
-2\=urte's~ sen ~uox he ALK IO * 63
 
 \Go z= \0\ ahve jo
 
 g «eo =A — 4 ® — Qmarks.
 M = L. [* ae
-146-95 2 IhOx NSO - QED to Qmosks,
 . rn
 A\ = Qh
 drow eg ©
@@ -175,7 +173,6 @@ sed Qe AK WK \AK
 
 se wooed?)
 oz ww
-+ gee BENS ASK * OKI 1
 
 QaK= \ Qmowkds -
 1 Meds
@@ -266,7 +263,6 @@ OK
 
 = NSA
 
-p(xs2>=F CoSAR CYS POD % PRD
 _ amoakt
 
 S
@@ -290,7 +286,6 @@ Ae) = " en™* fa xO
 Yor Ko
 es) > -o rer ——
 BOY ee =
-Feeds PCxsx) = WES cian
 Ps pe CP" a | Staal .
 © P(x> 8) 2 \- P(xs®)
 P = (\ i eel |
@@ -312,7 +307,6 @@ ca E aS
 Ya. oF _ he. CO) “aes
 y.
 a
-ecad = PCB) ~ PCD = = Qnncaky.
 , = Sq xSCo \
 a \Oe, ~ a _ ee
 a acy x¥ Co om
@@ -403,16 +397,13 @@ Two Neeiled Yeah . WY, wa
 = 3-1O& O'S Zrog
 
 Laovie = 3106
-Cipro woboie) \ rok \ annul
 
 we fob) Yo neiedh de nash
 go Teas
 
-g od 1%. Hewikicunee Amel Swe cond
 
 prod ge veaudda suggows Mea momutachont
 
-Chaim Wek Me meow   hspon ef LED
 
 ull, is LOWO HEvrt:
 
@@ -426,6 +417,7 @@ ull, is LOWO HEvrt:
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_DS_7009/Managing Uncertainty/ANS_Managing Uncertainty(702DB0C035)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (22 pages), mean OCR confidence 69.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -909,7 +901,6 @@ FOI 7 6 FC Cr
 1. Calculate the Sample Mean (A)
 
 The total number of observations is N — 400.
-So FX — (180 x O)+ (145 x 1) 4+ (55 x 2)4+(15 x 3) + (5 x 4)
 
 So FX — 04 145+ 110+ 45 + 20 — 320
 
@@ -1185,6 +1176,7 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_DS_7052/Managing Uncertainty/ANS_Managing Uncertainty(702DB0C035)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (22 pages), mean OCR confidence 69.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1668,7 +1660,6 @@ FOI 7 6 FC Cr
 1. Calculate the Sample Mean (A)
 
 The total number of observations is N — 400.
-So FX — (180 x O)+ (145 x 1) 4+ (55 x 2)4+(15 x 3) + (5 x 4)
 
 So FX — 04 145+ 110+ 45 + 20 — 320
 
@@ -1944,6 +1935,7 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_DS_7038/Managing Uncertainty/ANS_Managing Uncertainty(702DB0C002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (22 pages), mean OCR confidence 69.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2419,7 +2411,6 @@ FOI 7 6 FC Cr
 1. Calculate the Sample Mean (A)
 
 The total number of observations is N — 400.
-So FX — (180 x O)+ (145 x 1) 4+ (55 x 2)4+(15 x 3) + (5 x 4)
 
 So FX — 04 145+ 110+ 45 + 20 — 320
 

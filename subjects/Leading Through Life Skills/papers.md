@@ -2859,6 +2859,7 @@ address disengagement, and improve coordination within teams. (BL6, CO1), (10 Ma
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/LEADING THROUGH LIFE SKILLS/Leading through Life Skills 2025-26 Final Exam.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 93.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -2927,7 +2928,6 @@ flagship product, GreenEdge X5, uses recycled cartridges and consumes 40% less e
 conventional printers. The machine costs 22.5 lakh per unit, about 25% higher than regular printers. Rohan
 
 has secured a meeting with NovaCorp, a mid-sized financial consultancy that prints thousands of pages
-RRR KK KK KK ‘ll ok RK KK KKK
 --- page 2 ---
 every week. The procurement head, Meera Sharma, is interested in exploring sustainable alternatives but
 faces strict cost-cutting directives from management. NovaCorp’s current supplier has offered a lower
@@ -4665,6 +4665,94 @@ life.”-Elucidate the statement and explain various stressors in our
 lives [10].
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 8438002c699b
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/LEADING THROUGH LIFE SKILLS/Leading through life skills.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 54.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SVKM’S NMIMS
+
+NEERING”
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E 6M
+Academic Year: 2022-2023 WO
+Program/s: BTech / MBA Tech Year: III Semester =¥E ee
+Stream/s ; All Streams
+Subject: Leading through life Skills Time: 3 hrs. (2 pm to 5pm)
+Date:_05 /05 / 2023 No. of Pages:2
+
+Marks: 100
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _i___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+= Explain briefly : [20]
+CO-1 ; BL-2 a Identify the four stages through which a person becomes emotionally Intelligent 05
+CO-1; BL-2 b. Define Self- awareness. Explain how can one cultivate self-awareness? 05
+CO-1; BL-2 Cc. Explain the internal factors that contribute to SWOT analysis. 05
+cO-1;BL-2 | a Differentiate between Eustress and Distress 05
+o2 a. “Hearing is one of the body five senses. But listening is an art.” In the light
+
+of this quote differentiate between hearing and listening”. Briefly describe [20]
+
+we | CO- 2; BL~S . . .
+the barriers to listening.
+
+Q3 a. “Johari window divides personal awareness into certain types”. Describe [20]
+CO-; 2 BL-3 the types of quadrants in Johari Window with the help of a diagram.
+
+Q4 a. What are the factors that play a role in positive attitude? Explain with [20]
+CO-2; BL3 examples.
+
+Qs a. Why do we say Emotional intelligence is an apparent Paradox? Explain the [20]
+CO-2; BL-4 four branch model of Emotional Intelligence.
+
+= a. “Motivation and Self-awareness are interlinked”. Discuss [20]
+CO-; 3 BL-4
+
+Q7 a. Write a summary of the following mind map in approximately 150 words.
+
+i i i (20]
+CO-3; BL-4 b. Give a suitable title.
+--- page 2 ---
+Feat,
+
+TRACE
+
+Onry,
+
+rd ‘
+re AT TEESS
+
+336 Ge"
+
+EXAMS:
+
+outés
+
+Ld! work ‘4
+
+RELATIONSATES
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper fa6eb94ed8dd
 
 - Departments: Common (all branches)
@@ -4766,91 +4854,4 @@ Design a strategy to overcome procrastination?(10)
 x
 
 V2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 8438002c699b
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/LEADING THROUGH LIFE SKILLS/Leading through life skills.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 54.1
-
-````text
-SVKM’S NMIMS
-
-NEERING”
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E 6M
-Academic Year: 2022-2023 WO
-Program/s: BTech / MBA Tech Year: III Semester =¥E ee
-Stream/s ; All Streams
-Subject: Leading through life Skills Time: 3 hrs. (2 pm to 5pm)
-Date:_05 /05 / 2023 No. of Pages:2
-
-Marks: 100
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _i___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-= Explain briefly : [20]
-CO-1 ; BL-2 a Identify the four stages through which a person becomes emotionally Intelligent 05
-CO-1; BL-2 b. Define Self- awareness. Explain how can one cultivate self-awareness? 05
-CO-1; BL-2 Cc. Explain the internal factors that contribute to SWOT analysis. 05
-cO-1;BL-2 | a Differentiate between Eustress and Distress 05
-o2 a. “Hearing is one of the body five senses. But listening is an art.” In the light
-
-of this quote differentiate between hearing and listening”. Briefly describe [20]
-
-we | CO- 2; BL~S . . .
-the barriers to listening.
-
-Q3 a. “Johari window divides personal awareness into certain types”. Describe [20]
-CO-; 2 BL-3 the types of quadrants in Johari Window with the help of a diagram.
-
-Q4 a. What are the factors that play a role in positive attitude? Explain with [20]
-CO-2; BL3 examples.
-
-Qs a. Why do we say Emotional intelligence is an apparent Paradox? Explain the [20]
-CO-2; BL-4 four branch model of Emotional Intelligence.
-
-= a. “Motivation and Self-awareness are interlinked”. Discuss [20]
-CO-; 3 BL-4
-
-Q7 a. Write a summary of the following mind map in approximately 150 words.
-
-i i i (20]
-CO-3; BL-4 b. Give a suitable title.
---- page 2 ---
-Feat,
-
-TRACE
-
-Onry,
-
-rd ‘
-re AT TEESS
-
-336 Ge"
-
-EXAMS:
-
-outés
-
-Ld! work ‘4
-
-RELATIONSATES
 ````

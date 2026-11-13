@@ -1120,7 +1120,7 @@ formation. Explain the different processes that result in such landforms.
 2|Page
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper bfeeb490fc1e
+## 2022-23 · Final-Exam · Sem 3 · paper bfeeb490fc1e
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL, B.TECH INTEGRATED / CIVIL
@@ -1407,7 +1407,7 @@ x
 - -2|Pageof2
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper 46654aa08102
+## 2016-17 · Re-Exam · Sem 5 · paper 46654aa08102
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
@@ -1508,7 +1508,109 @@ which positions should be avoided for safety of the dam and why.
 Explain the terms “Porphyritic texture” and “Gneissose structure”. 10
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper fbb1c642941d
+## 2015-16 · Re-Exam · Sem 5 · paper eecffda3b62f
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOLOGY/GEOLOGY B TECH (CIVIL), BATCH 2013-14 RE EXAM_eecffda3b6.pdf`
+- Printed on paper: exam date: 30/11/2015
+- Text: ocr (2 pages), mean OCR confidence 87.1
+
+````text
+Q _— SVKM’s NMIMS
+; SH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil) Year: I 1 -
+Batch: 2013-2014 a Eh Secastaie 9
+Academic Year: 2015-2016 hia
+. w ~
+
+Subject: Geology 2 jogs Rtas
+
+Date: 30/11/2015 , Marks: cof 8’ ovetuns Ye
+Time i re “a ‘ame da}
+Duration e 4
+
+ors nee
+om 5) ft
+=
+
+=
+
+‘aid
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 (one) is compulsory.
+
+2) Out of remaining questions, attempt any four (4) questions.
+3) in all 5 (Five) questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a-fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+1. a. Draw well labelled diagrams for the following and explain the mechanisms: 5x3
+i. Seif Dune
+ii. Internal structure of the earth
+iii. Saltation
+iv. Yardang
+v. Roche Moutenee
+
+b. Give the name of the mineral: 5x1
+
+i. One set of cleavage, white colour, pearly lustre
+ii. Two sets of cleavage, flesh pink tinge, vitreous lustre
+iii. Botroidal form, cherry red streak, metallic lustre
+iv. Splintery form, silky lustre, greyish green colour
+y. Brass colour, cubic form, metallic lustre
+
+2. a. Describe folds on the basis of fold axis orientation and support with well labelled 10
+diagrams.
+
+b. Explain the various Groundwater zones. What is an aquiclude? 10
+
+3. a. Write ashort note on seismic method of geophysical investigations. 10
+
+b. Give an account of the formation of the Deccan Volcanics and the various formations of 10
+the same.
+
+4. a. How does a piedmont plain form? What are the different ways in which running water 12
+can cause weathering and erosion?
+b. Describe the different types of unconformities. 08
+
+4
+--- page 2 ---
+5. a. What are the typical kinds of measures taken to prevent collapse of tunnels? 10
+
+b. What are the geological considerations that one has to take while consiructing gravity 10
+dams?
+6. a. Write short notes on any four of the following: 4x5
+
+i. Divergent boundaries
+ii. Cleavage
+
+iii. Richter Scale
+
+iv. RQD
+
+v. Sorting and Packing
+
+7. a. What are the various types of convergent tectonic boundaries? 10
+b. Describe the various clastic sedimentary structures that are found in nature. 10
+mis
+
+ao
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper fbb1c642941d
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
@@ -1671,7 +1773,7 @@ pa
 10
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper ae646bfa30fd
+## 2014-15 · Re-Exam · Sem 5 · paper ae646bfa30fd
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
@@ -1768,108 +1870,6 @@ c. Barchans and Seif dunes (5)
 d. Earthquake zones of India (5)
 e. Common metamorphic structures (5)
 si eR
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper eecffda3b62f
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOLOGY/GEOLOGY B TECH (CIVIL), BATCH 2013-14 RE EXAM_eecffda3b6.pdf`
-- Printed on paper: exam date: 30/11/2015
-- Text: ocr (2 pages), mean OCR confidence 87.1
-
-````text
-Q _— SVKM’s NMIMS
-; SH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: I 1 -
-Batch: 2013-2014 a Eh Secastaie 9
-Academic Year: 2015-2016 hia
-. w ~
-
-Subject: Geology 2 jogs Rtas
-
-Date: 30/11/2015 , Marks: cof 8’ ovetuns Ye
-Time i re “a ‘ame da}
-Duration e 4
-
-ors nee
-om 5) ft
-=
-
-=
-
-‘aid
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 (one) is compulsory.
-
-2) Out of remaining questions, attempt any four (4) questions.
-3) in all 5 (Five) questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a-fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1. a. Draw well labelled diagrams for the following and explain the mechanisms: 5x3
-i. Seif Dune
-ii. Internal structure of the earth
-iii. Saltation
-iv. Yardang
-v. Roche Moutenee
-
-b. Give the name of the mineral: 5x1
-
-i. One set of cleavage, white colour, pearly lustre
-ii. Two sets of cleavage, flesh pink tinge, vitreous lustre
-iii. Botroidal form, cherry red streak, metallic lustre
-iv. Splintery form, silky lustre, greyish green colour
-y. Brass colour, cubic form, metallic lustre
-
-2. a. Describe folds on the basis of fold axis orientation and support with well labelled 10
-diagrams.
-
-b. Explain the various Groundwater zones. What is an aquiclude? 10
-
-3. a. Write ashort note on seismic method of geophysical investigations. 10
-
-b. Give an account of the formation of the Deccan Volcanics and the various formations of 10
-the same.
-
-4. a. How does a piedmont plain form? What are the different ways in which running water 12
-can cause weathering and erosion?
-b. Describe the different types of unconformities. 08
-
-4
---- page 2 ---
-5. a. What are the typical kinds of measures taken to prevent collapse of tunnels? 10
-
-b. What are the geological considerations that one has to take while consiructing gravity 10
-dams?
-6. a. Write short notes on any four of the following: 4x5
-
-i. Divergent boundaries
-ii. Cleavage
-
-iii. Richter Scale
-
-iv. RQD
-
-v. Sorting and Packing
-
-7. a. What are the various types of convergent tectonic boundaries? 10
-b. Describe the various clastic sedimentary structures that are found in nature. 10
-mis
-
-ao
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper 649ea842f3f9

@@ -14,22 +14,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CS 7055 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Computer 7032 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Software Engineering(703IT0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE CYBER SECURITY, B TECH / CSE DATA SCIENCE, B TECH / I T, B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / IT, MBA TECH / Computer, MBA TECH / I T | Software Engineering 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech CSBS 7036 | QP_Software Engineering(702IT0C016)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | Integrated Computer 7032 | QP_Software Engineering(702IT0C016)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Software Engineering(703IT0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
-| 2025-26 | Final-Exam, Re-Exam | Answer key | Sem 5, Sem 9 | BTech CyberSecurity 7010, Integrated IT 7037 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech IT 7001 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated Computer 7032 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Software Engineering(703IT0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech Computer 7047 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech IT 7041 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CS 7055 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Computer 7032 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Software Engineering(703IT0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech CSBS 7036 | QP_Software Engineering(702IT0C016)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Computer 7002 | QP_Software Engineering(702IT0C016)_2025-2026.pdf |
 | 2025-26 | Final-Exam, Re-Exam | Question paper | Sem 5, Sem 9 | BTech CyberSecurity 7010, Integrated IT 7037 | QP_Software Engineering(702IT0C016)_2025-2026.pdf |
@@ -39,15 +31,23 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech Computer 7047 | QP_Software Engineering(702IT0C016)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech IT 7041 | QP_Software Engineering(702IT0C016)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MCA | Software Enigeering Batch 2024-25,2025-26 Re Exam.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSBS 7036 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
+| 2025-26 | Final-Exam, Re-Exam | Answer key | Sem 5, Sem 9 | BTech CyberSecurity 7010, Integrated IT 7037 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech IT 7001 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated Computer 7032 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Software Engineering(703IT0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech Computer 7047 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech IT 7041 | ANS_Software Engineering(702IT0C016)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5, Sem 9 | B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / I T, B.TECH INTEGRATED / COMPUTER, MBA TECH / Computer, MBA TECH / I T | Software Engineering Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 2 | MCA | Software Engineering Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | BTech Computer 7002, BTech CSE DS 7057, BTech CyberSecurity 7010, MBATech Computer 7047, MBATech IT 7041 | ANS_Software Engineering(702IT0C016)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Software Engineering(703IT0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | BTech Computer 7002, BTech CS 7055, BTech CSE DS 7057, BTech CyberSecurity 7010, MBATech Computer 7047, MBATech IT 7041 | QP_Software Engineering(702IT0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Software Engineering(703IT0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Software Engineering(703IT0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | BTech Computer 7002, BTech CSE DS 7057, BTech CyberSecurity 7010, MBATech Computer 7047, MBATech IT 7041 | ANS_Software Engineering(702IT0C016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Software Engineering(703IT0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5, Sem 9 | B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / CSE DATA SCIENCE, B TECH / I T, B.TECH INTEGRATED / COMPUTER, MBA TECH / Computer, MBA TECH / I T | Software Engineering, Sem-V, Batch 2023-24 & 2024-25 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Software Engineering(703IT0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Software Engineering(703IT0C001)_2024-2025.pdf |
 | 2023-24 | — | Question paper | Sem 3 | B TECH / CSBS | Software Engineering, Sem-III, Batch 20222-23 A Y 2023-24.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER, B TECH / I T | Software engg , Final 2023-24,Re-exam 2022-230001.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Software Engineering, Sem-VI, Final Exam 2023-24.pdf |

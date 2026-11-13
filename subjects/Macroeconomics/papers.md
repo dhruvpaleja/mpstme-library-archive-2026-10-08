@@ -743,6 +743,249 @@ Apply
 ?
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper 67e3d1acb319
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Macroeconomics/Macroeconomics Re-exam 2017-18 (2).pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 10 January 2019
+- Text: ocr (2 pages), mean OCR confidence 94.5
+
+````text
+N
+SVKM’S NMIMS 7
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Program: MBA Tech (All Streams) Year: II] Semester: V
+Academic Year: 2018-2019 .
+‘Subject: Macroeconomics - Marks: 70
+
+Time: 2.00 pm to 4.00 pm
+Date: 10 January 2019 .~
+Durations:2 (hrs).
+No. of Pages: 2
+Re-examination (2017-18) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compuisory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks?
+7) Assume .suitable data if necessary.
+
+Q.1.Write a short note on any 3 of the following: (4.5x3=14 Marks)
+
+a. Four Measures of Money Supply
+
+b. Demand for Money
+
+c. Current Account in Balance of Payments
+d. Investment Multiplier
+
+Q.2. a. With given information (7 Marks)
+Amount in Rupees Billion
+Population | GDP at Factor Cost | Consumption of Indirect Taxes less | Net Factor
+(Million) , Fixed Capital Subsidies Income from
+(Depreciation) Abroad
+1154 53035.67 5651.97 3264.96 -329.23
+
+Calculate NDP at Factor Cost, GDP at Market Prices, NDP at Market Prices, GNP at Factor Cost, NNP at
+Factor Cost, GNP at Market Prices, NNP at Market Prices and Per Capita NNP at Factor Cost (Rupees).
+
+Q.2.b. Discuss the different types of Exchange Rate systems along with suitable examples. (7 Marks)
+
+Q.3.a. Explain money Income Flows in the Four Sector Model with Foreign Sector with the help of a suitable
+diagram. (7 Marks)
+
+Q.3.b Explain Foreign Direct Investment, Foreign Institutional Investment and Sovereign Wealth Funds.
+
+1of2
+--- page 2 ---
+(7 Marks)
+Q.4. Explain different causes of inflation and also explain measures which can be taken by the Central Bank
+and Government to control the inflation. (14 Marks)
+
+Q.5.a.Explain with the help of graphical diagrams the effect of following on IS-LM curve- (7 Marks)
+
+(i) Expansionary Monetary Policy
+(ii) Expansionary Fiscal Policy
+
+Q.5.b. Explain Goods and Money market equilibrium with the help of IS-LM model. (7 Marks)
+
+Q.6.a. In an economy, the basic equations are as follows: (7 Marks)
+The consumption function is C =240+0.8Y — and
+Investment function is I = 500
+You are required to ascertain the following:
+(i) Equilibrium level of income
+(ii) Equilibrium level of consumption
+(iii) Equilibrium level of saving
+Q.6. b. The following is the money demand function of an economy, (7 Marks)
+Md= 0.75 Y- 550i where income Y is in crores of rupees, and interest rate i is in percentage.
+Find out the following using algebraic method:
+
+(i) If the Central bank of country has set the money supply equal to Rs 4000 crores. Find out the rate of
+interest when the money market is in equilibrium. Assume the level of income is Rs 6000 crores.
+
+(ii) If the level of income is constant and money, market is in equilibrium calculate the interest rate under
+following situation:
+
+if the Central Bank of the country increases money supply by Rs 200 crores.
+
+If the Central Bank of the country decreases money supply by Rs 100 crores.
+
+Q.7.a.Differentiate between Expansionary Fiscal Policy and Contractionary Fiscal Policy. (7 Marks)
+
+Q.7.b. Distinguish between GDP and GNP.Is GDP always greater than GNP or it can be lesser than GNP?
+Explain this in context to India. (7 Marks)
+
+2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 899fce8d1d1e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Macroeconomics/Macroeconomics Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 13. November 2018
+- Text: ocr (3 pages), mean OCR confidence 94.7
+
+````text
+SVKM’s NMIMS
+
+a .
+0 rs MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA Téch (All Streams) Year: III Semester: V- \
+\
+Academic Year: 2018-2019
+| Subject: Macroeconomics
+fs _* ; Marks: 70
+Date: 13. November 2018 Time: ‘10.00 am to 12.
+4 Durations: 2 (hrs)
+No. of Pages:
+
+Re Exam (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+on the cover of the Answer Book, which is provided for their use.
+NB:'
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+7. Assume suitable data if necessary.
+
+Q.1. Explain the following (14 Marks)
+a. Demand for Money and types of demand for Money ‘
+b. 4 Monetary and 3 Fiscal measures to control inflation
+
+Q.2.a. Suppose the level of autonomous investment in an economy is Rs 4000 crore and Consumption
+function is given by C=1000+0.8Y
+
+a. Derive Savings function. What will be the equilibrium level of income & consumption ?
+b. Calculate Autonomous Consumption, and Investment Multiplier.
+
+c. What will be the national income and consumption if investment increase by Rs 1000 crore?
+(7 Marks)
+
+Q.2.b. Explain how Foreign sector affects the Trade balance through a circular flow of income
+model in a four sector economy with foreign sector. (7 Marks)
+
+’
+
+1of3
+--- page 2 ---
+Q.3.a. With given information
+
+Amount in Rupees Billion
+
+Population GDP at Consumption of | Indirect Taxes less | Net Factor Income
+
+(Million) Factor Cost Fixed Capital Subsidies from Abroad
+(Depreciation)
+
+1,202 83534.95 8767.30 6214.52 -768.30
+
+Calculate NDP at Factor Cost, GDP at Market Prices, NDP at Market Prices, GNP at Factor
+Cost, NNP at Factor Cost, GNP at Market Prices, NNP at Market Prices and Per Capita NNP at
+Factor Cost (Rupees) . (7 Marks)
+
+Q.3.b. Discuss different causes of inflation by giving suitable examples. (7 Marks)
+
+Q.4. The 1* Quarter GDP numbers for F.Y. 2017-18 are well below expectations. Enumerate the
+causes and suggest monetary measures which Reserve Bank of India and fiscal measures which
+Finance Minister can take to increase the GDP growth rate? (14 Marks)
+
+Q.5.a. Consider an economy which produces only 2 types of goods- X and Y. The production and price
+
+data are as follows:
+
+Year Price of X (Rs) Quantity of X Price of Y (Rs) Quantity of Y
+2009 10 100 20 50
+
+2010 12 150 24 100
+
+2011 15 200 30 150
+
+(a) Find the real GDP in the year 2010 & 2011 and base year 2009.
+(b) Find the nominal GDP in 2009, 2010 & 2011.
+(c)What is the GDP deflator in 2009. 2010 & 2011? (7 Marks)
+
+Q.5.b, Explain the concept of Money Supply and discuss the factors on which it depends, Iso explain
+the statement “Inflation is a monetary phenomenon” by using Quantity theory of money. (7 Marks)
+
+Q.6. a. The following is the money demand function of an economy
+
+Md= 0.5 Y- 501
+
+where income Y is in crores of rupees, and interest rate i is in percentage.
+
+The Central bank of country has set the money supply equal to Rs. 2000 crores and level of
+income is 4000 crores. If interest rate of 8 % prevails in the economy will the money market be
+in equilibrium? Explain how interest rate will change if it not in equilibrium and find out the
+equilibrium interest rate algebraically and graphically. (7 Marks)
+
+2 of 3
+--- page 3 ---
+Q.6.b. Explain the importance of Foreign Direct investment and Foreign Institutional investment
+in Indian context. (7 Marks)
+
+Q.7.a. Consider the following economy:
+C=100+0.8Yd
+
+1=50-251
+
+G=T=50
+
+Ms/P=200
+
+Md=Y-25i
+
+1. Derive IS and LM equation.
+2. Calculate equilibrium level of output and interest rates.
+
+(7 marks)
+
+Q.7.b. Explain the concept of Fixed and Floating exchange rate system and discuss their merits
+and demerits. (7 Marks)
+
+3 of 3
+````
+
 ## 2017-18 · Exam not stated · Sem 5 · paper 6c02bd4e0ccf
 
 - Departments: Common (all branches)
@@ -895,249 +1138,6 @@ A. Money Multiplier
 B. Real and Nominal Exchange rate
 C. Fixed and Floating Exchange rate
 D. Budget Deficit
-````
-
-## 2017-18 · Re-Exam · Sem 5 · paper 67e3d1acb319
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Macroeconomics/Macroeconomics Re-exam 2017-18 (2).pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 10 January 2019
-- Text: ocr (2 pages), mean OCR confidence 94.5
-
-````text
-N
-SVKM’S NMIMS 7
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Program: MBA Tech (All Streams) Year: II] Semester: V
-Academic Year: 2018-2019 .
-‘Subject: Macroeconomics - Marks: 70
-
-Time: 2.00 pm to 4.00 pm
-Date: 10 January 2019 .~
-Durations:2 (hrs).
-No. of Pages: 2
-Re-examination (2017-18) —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compuisory.
-
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks?
-7) Assume .suitable data if necessary.
-
-Q.1.Write a short note on any 3 of the following: (4.5x3=14 Marks)
-
-a. Four Measures of Money Supply
-
-b. Demand for Money
-
-c. Current Account in Balance of Payments
-d. Investment Multiplier
-
-Q.2. a. With given information (7 Marks)
-Amount in Rupees Billion
-Population | GDP at Factor Cost | Consumption of Indirect Taxes less | Net Factor
-(Million) , Fixed Capital Subsidies Income from
-(Depreciation) Abroad
-1154 53035.67 5651.97 3264.96 -329.23
-
-Calculate NDP at Factor Cost, GDP at Market Prices, NDP at Market Prices, GNP at Factor Cost, NNP at
-Factor Cost, GNP at Market Prices, NNP at Market Prices and Per Capita NNP at Factor Cost (Rupees).
-
-Q.2.b. Discuss the different types of Exchange Rate systems along with suitable examples. (7 Marks)
-
-Q.3.a. Explain money Income Flows in the Four Sector Model with Foreign Sector with the help of a suitable
-diagram. (7 Marks)
-
-Q.3.b Explain Foreign Direct Investment, Foreign Institutional Investment and Sovereign Wealth Funds.
-
-1of2
---- page 2 ---
-(7 Marks)
-Q.4. Explain different causes of inflation and also explain measures which can be taken by the Central Bank
-and Government to control the inflation. (14 Marks)
-
-Q.5.a.Explain with the help of graphical diagrams the effect of following on IS-LM curve- (7 Marks)
-
-(i) Expansionary Monetary Policy
-(ii) Expansionary Fiscal Policy
-
-Q.5.b. Explain Goods and Money market equilibrium with the help of IS-LM model. (7 Marks)
-
-Q.6.a. In an economy, the basic equations are as follows: (7 Marks)
-The consumption function is C =240+0.8Y — and
-Investment function is I = 500
-You are required to ascertain the following:
-(i) Equilibrium level of income
-(ii) Equilibrium level of consumption
-(iii) Equilibrium level of saving
-Q.6. b. The following is the money demand function of an economy, (7 Marks)
-Md= 0.75 Y- 550i where income Y is in crores of rupees, and interest rate i is in percentage.
-Find out the following using algebraic method:
-
-(i) If the Central bank of country has set the money supply equal to Rs 4000 crores. Find out the rate of
-interest when the money market is in equilibrium. Assume the level of income is Rs 6000 crores.
-
-(ii) If the level of income is constant and money, market is in equilibrium calculate the interest rate under
-following situation:
-
-if the Central Bank of the country increases money supply by Rs 200 crores.
-
-If the Central Bank of the country decreases money supply by Rs 100 crores.
-
-Q.7.a.Differentiate between Expansionary Fiscal Policy and Contractionary Fiscal Policy. (7 Marks)
-
-Q.7.b. Distinguish between GDP and GNP.Is GDP always greater than GNP or it can be lesser than GNP?
-Explain this in context to India. (7 Marks)
-
-2 of 2
-````
-
-## 2017-18 · Re-Exam · Sem 5 · paper 899fce8d1d1e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Macroeconomics/Macroeconomics Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 13. November 2018
-- Text: ocr (3 pages), mean OCR confidence 94.7
-
-````text
-SVKM’s NMIMS
-
-a .
-0 rs MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA Téch (All Streams) Year: III Semester: V- \
-\
-Academic Year: 2018-2019
-| Subject: Macroeconomics
-fs _* ; Marks: 70
-Date: 13. November 2018 Time: ‘10.00 am to 12.
-4 Durations: 2 (hrs)
-No. of Pages:
-
-Re Exam (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-on the cover of the Answer Book, which is provided for their use.
-NB:'
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. In all FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-7. Assume suitable data if necessary.
-
-Q.1. Explain the following (14 Marks)
-a. Demand for Money and types of demand for Money ‘
-b. 4 Monetary and 3 Fiscal measures to control inflation
-
-Q.2.a. Suppose the level of autonomous investment in an economy is Rs 4000 crore and Consumption
-function is given by C=1000+0.8Y
-
-a. Derive Savings function. What will be the equilibrium level of income & consumption ?
-b. Calculate Autonomous Consumption, and Investment Multiplier.
-
-c. What will be the national income and consumption if investment increase by Rs 1000 crore?
-(7 Marks)
-
-Q.2.b. Explain how Foreign sector affects the Trade balance through a circular flow of income
-model in a four sector economy with foreign sector. (7 Marks)
-
-’
-
-1of3
---- page 2 ---
-Q.3.a. With given information
-
-Amount in Rupees Billion
-
-Population GDP at Consumption of | Indirect Taxes less | Net Factor Income
-
-(Million) Factor Cost Fixed Capital Subsidies from Abroad
-(Depreciation)
-
-1,202 83534.95 8767.30 6214.52 -768.30
-
-Calculate NDP at Factor Cost, GDP at Market Prices, NDP at Market Prices, GNP at Factor
-Cost, NNP at Factor Cost, GNP at Market Prices, NNP at Market Prices and Per Capita NNP at
-Factor Cost (Rupees) . (7 Marks)
-
-Q.3.b. Discuss different causes of inflation by giving suitable examples. (7 Marks)
-
-Q.4. The 1* Quarter GDP numbers for F.Y. 2017-18 are well below expectations. Enumerate the
-causes and suggest monetary measures which Reserve Bank of India and fiscal measures which
-Finance Minister can take to increase the GDP growth rate? (14 Marks)
-
-Q.5.a. Consider an economy which produces only 2 types of goods- X and Y. The production and price
-
-data are as follows:
-
-Year Price of X (Rs) Quantity of X Price of Y (Rs) Quantity of Y
-2009 10 100 20 50
-
-2010 12 150 24 100
-
-2011 15 200 30 150
-
-(a) Find the real GDP in the year 2010 & 2011 and base year 2009.
-(b) Find the nominal GDP in 2009, 2010 & 2011.
-(c)What is the GDP deflator in 2009. 2010 & 2011? (7 Marks)
-
-Q.5.b, Explain the concept of Money Supply and discuss the factors on which it depends, Iso explain
-the statement “Inflation is a monetary phenomenon” by using Quantity theory of money. (7 Marks)
-
-Q.6. a. The following is the money demand function of an economy
-
-Md= 0.5 Y- 501
-
-where income Y is in crores of rupees, and interest rate i is in percentage.
-
-The Central bank of country has set the money supply equal to Rs. 2000 crores and level of
-income is 4000 crores. If interest rate of 8 % prevails in the economy will the money market be
-in equilibrium? Explain how interest rate will change if it not in equilibrium and find out the
-equilibrium interest rate algebraically and graphically. (7 Marks)
-
-2 of 3
---- page 3 ---
-Q.6.b. Explain the importance of Foreign Direct investment and Foreign Institutional investment
-in Indian context. (7 Marks)
-
-Q.7.a. Consider the following economy:
-C=100+0.8Yd
-
-1=50-251
-
-G=T=50
-
-Ms/P=200
-
-Md=Y-25i
-
-1. Derive IS and LM equation.
-2. Calculate equilibrium level of output and interest rates.
-
-(7 marks)
-
-Q.7.b. Explain the concept of Fixed and Floating exchange rate system and discuss their merits
-and demerits. (7 Marks)
-
-3 of 3
 ````
 
 ## 2016-17 · Final-Exam · Sem 5 · paper 28941ba9611c

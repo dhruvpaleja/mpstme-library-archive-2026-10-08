@@ -96,83 +96,7 @@ Frequency Interleaving
 a
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper c99579e82455
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/TV AND VIDEO ENGINEERING/TV AND VIDEO ENGINEERING BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 11 July 2017
-- Text: ocr (1 page), mean OCR confidence 92.0
-
-````text
-P:
-—
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: VI
-
-Batch: 2015-16/ 2016-17
-Academic Year: 2016-2017
-
-Subject: TV and Video Engineering
-
-Marks: 60
-Date: 11 July 2017 Time: 2.00 p:
-* Durations: 3
-
-No. of Pages:
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.-1-A) What id flicker effect? How it can be overcome? [4]
-B) Draw the block diagram of colour TV camera tube and explain it. [4]
-C) List the advantages of Flat Pannel display in Plasma TV. [4]
-
-Q.2 A) Draw the waveform describing Composite Video Signal and explain it in detail with
-Horizontal and vertical sync. Information. [6]
-B) Explain the process of additive and subtractive colour mixing. [6]
-
-Q.3 A) With the help of diagram explain how saving in Bandwidth is possible by the use
-Of Vestigial sideband modulation. Write demerits of VSB Modulation. . [6]
-B) Draw the block diagram of NTSC Colour receiver and explain in brief. [6]
-
-Q.4-A) Explain the process of interlace scanning. What is the percentage of interlace error
-
-If the scanning of second field is delayed by 16 microseconds. [6]
-
-B) With the help of diagram explain the pincushion correction technique, also draw
-automatic degaussing circuit and explain it. [6]
-
-ae
-Q.5-A) Compare LCD TV & CRT TV. [6]
-od B) Explain the principle of digital video broadcasting and MPEG compression. [6]
-a cueaate’?.. Qu6A) Explain the operation of LED Technology. Write it’s advantages and disadvantages.=i6}¢...
-B) With the help of block diagram explain the functioning of DTH system. , [67
-Q.7) Write Short Note on following. [12]
-A) HDTV.
-ae B) ADSL Bandwidth allocation.
-
-”
-````
-
-## 2016-17 · Re-Exam · Sem 6 · paper 6d7065e8493d
+## 2017-18 · Re-Exam · Sem 6 · paper 6d7065e8493d
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -261,6 +185,198 @@ c) DTH system. (04)
 d) Advantages of LED TV and its comparison with LCD TV. (04)
 
 Page 1 of 1
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper 66565ec571e2
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/TV AND VIDEO ENGINEERING/TV AND VIDEO ENGINEERING BATCH 15-16 RE EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 12 May 2017
+- Text: ocr (2 pages), mean OCR confidence 90.0
+
+````text
+SVKM’s NMIMS ]
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E : ."
+4 a
+Programme: B. Tech (EXTC) Year: III Semester: VI | 5 Pe ba nany 5 =
+S
+Academic Year: 2016-2017 Nae i aD
+CT rm
+Subject: TV and Video Engineering S—* Lett
+Marks: 60
+Date: 12 May 2017 Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+No..of Pages: @—
+Final Examinations (Batch 2016-2017)/
+
+Re-Examination (Batch 2015-2016)
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. -
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Q.1 Answer the following : any three (3) out of four (4) 12
+a Why G-Y signal is not transmitted along with B-Y and R-Y signals? 04
+
+b Differentiate LED and LCD technology > 04
+
+a Additive and subtractive color mixing 04
+
+d Why color burst signal is transmitted along with the video signal in color TV systems? 04
+
+Q.2 a Explain IPTV in detail. 06
+rf What is flicker? How is it eliminated by interlaced scanning? 06
+Q.3 a Explain the factors affecting the choice of the IF. Why do IF tuned circuits use 06
+
+staggered tuning in TV receivers?
+
+Page 1 of 2
+--- page 2 ---
+Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+a
+
+Draw and explain NTSC coder in detail.
+
+Explain VSB detection and correction
+Explain 3D TV in detail
+
+Explain composite video signal with diagram.
+
+Draw and explain the block diagram of Monochrome TV.\.Le Ce EVEN =
+
+Why it is necessary to connect a very high voltage at the final anode of color picture
+tube? Explain the working of delta gun color picture tube with suitable diagrams.
+Explain the phenomenon of interleaving of color signals. How does it help in ensuring
+compatibility?
+
+Write short notes on any three of four.
+Plasma TV
+
+Automatic degaussing
+
+Aspect Ratio
+
+Cable FY OTH
+
+06
+
+06
+06
+
+06
+06
+
+06
+
+06
+
+12
+04
+04
+04
+04
+
+Page 2 of 2
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper c99579e82455
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/TV AND VIDEO ENGINEERING/TV AND VIDEO ENGINEERING BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 11 July 2017
+- Text: ocr (1 page), mean OCR confidence 92.0
+
+````text
+P:
+—
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: VI
+
+Batch: 2015-16/ 2016-17
+Academic Year: 2016-2017
+
+Subject: TV and Video Engineering
+
+Marks: 60
+Date: 11 July 2017 Time: 2.00 p:
+* Durations: 3
+
+No. of Pages:
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.-1-A) What id flicker effect? How it can be overcome? [4]
+B) Draw the block diagram of colour TV camera tube and explain it. [4]
+C) List the advantages of Flat Pannel display in Plasma TV. [4]
+
+Q.2 A) Draw the waveform describing Composite Video Signal and explain it in detail with
+Horizontal and vertical sync. Information. [6]
+B) Explain the process of additive and subtractive colour mixing. [6]
+
+Q.3 A) With the help of diagram explain how saving in Bandwidth is possible by the use
+Of Vestigial sideband modulation. Write demerits of VSB Modulation. . [6]
+B) Draw the block diagram of NTSC Colour receiver and explain in brief. [6]
+
+Q.4-A) Explain the process of interlace scanning. What is the percentage of interlace error
+
+If the scanning of second field is delayed by 16 microseconds. [6]
+
+B) With the help of diagram explain the pincushion correction technique, also draw
+automatic degaussing circuit and explain it. [6]
+
+ae
+Q.5-A) Compare LCD TV & CRT TV. [6]
+od B) Explain the principle of digital video broadcasting and MPEG compression. [6]
+a cueaate’?.. Qu6A) Explain the operation of LED Technology. Write it’s advantages and disadvantages.=i6}¢...
+B) With the help of block diagram explain the functioning of DTH system. , [67
+Q.7) Write Short Note on following. [12]
+A) HDTV.
+ae B) ADSL Bandwidth allocation.
+
+”
 ````
 
 ## 2015-16 · Exam not stated · Sem 6 · paper db9aff135a4a
@@ -465,120 +581,98 @@ d- PLASMA TV
 Page 2 of 2
 ````
 
-## 2015-16 · Re-Exam · Sem 6 · paper 66565ec571e2
+## 2015-16 · Re-Exam · Sem 6 · paper d9fdb0712e0f
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/TV AND VIDEO ENGINEERING/TV AND VIDEO ENGINEERING BATCH 15-16 RE EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 12 May 2017
-- Text: ocr (2 pages), mean OCR confidence 90.0
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/TV AND VIDEO ENGINEERING/TV AND VIDEO ENGINEERING B TECH (EXTC), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 12/05/2016
+- Text: ocr (2 pages), mean OCR confidence 89.6
 
 ````text
-SVKM’s NMIMS ]
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E : ."
-4 a
-Programme: B. Tech (EXTC) Year: III Semester: VI | 5 Pe ba nany 5 =
-S
-Academic Year: 2016-2017 Nae i aD
-CT rm
-Subject: TV and Video Engineering S—* Lett
-Marks: 60
-Date: 12 May 2017 Time: 2.00 pm to 5.00 pm
+Programme: B.Tech (EXTC) Year: III Semester: VI
+Academic Year: 2015-16
+Batch: 2014-15
+Subject: TV and Video Engineering Marks: 60
+Time: 2.00
 
-Durations: 3 (hrs)
-No..of Pages: @—
-Final Examinations (Batch 2016-2017)/
+Date: 12/05/2016 Durations: 3
+Re-Examination
 
-Re-Examination (Batch 2015-2016)
+Tnstra
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+n: Candidates shouid read carefuily the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No 1 is compulsory.
+1) Question No. 01 is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2) Out of remaining questions, attempt any 04 questions.
 
-3) In all 5 questions to be attempted.
+3) In all 05 questions to be attempted.
 
-4) All questions carry equal marks. -
+4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
 
-7) Assume Suitable data if necessary.
+7) Assume Suitable data if necessary
 
-Q.1 Answer the following : any three (3) out of four (4) 12
-a Why G-Y signal is not transmitted along with B-Y and R-Y signals? 04
+Ql) 12 marks
+a) What is kell factor? 02 marks
+b) What is degaussing? What is its necessity? 02 marks
+c) Describe basic principle of operation of AFC used in TV receiver. 02 marks
+d) What do you understand by HDTV? Hence describe its principle. 02 marks
+e) Sketch Chromaticity diagram. 02 marks
+f) | Compare LCD and LED TV. 02 marks
 
-b Differentiate LED and LCD technology > 04
+Q2)
 
-a Additive and subtractive color mixing 04
+a) Explain the meaning of compatibility between monochrome and color 06 marks
+TV system.
 
-d Why color burst signal is transmitted along with the video signal in color TV systems? 04
+b) Draw CVS signal, give necessary details on it. Describe any four 06 marks
+parameters in brief.
 
-Q.2 a Explain IPTV in detail. 06
-rf What is flicker? How is it eliminated by interlaced scanning? 06
-Q.3 a Explain the factors affecting the choice of the IF. Why do IF tuned circuits use 06
+Q3)
 
-staggered tuning in TV receivers?
+a) | What do you understand by interlaced scanning? Show that it reduces 06 marks
+flicker and conserve bandwidths.
 
-Page 1 of 2
+b) Compare the performance of delta gun, PIL tube and Trinitron tube, 06 marks
+giving construction, focusing, and clarity and convergence errors.
+
+1/2
 --- page 2 ---
-Q.4
+Q4)
+a) Explain construction of Plasma screen and Plasma operation in Plasma 06 marks
+TV.
+~ *D).. _ Explain why FM preferred for sound transmission in TV systems. 06 marks
+mem Describe use of pre-emphasis and de-emphasis circuits at transmitter and
+recétyer respectively.
 
-Q.5
+Pt Q5) gs *
+e. a) Only’ (R-Y) and (B-Y) color difference signals along with luminance 06 marks
+ay, _, »8ignal chostn for transmission. Justify the statement.
 
-Q.6
+» pb) Define the following terms: Additive and Subtractive mixing of colors, 06 marks
+Saturation, Hue, Luminance and Chrominance.
 
-Q.7
+.@
+Q6)
+a) Explain SECAM coder with the help of a block diagram. 06 marks
+b) Draw and explain PAL coder. 06 marks
+Q7) Write Short notes on 12 marks
+a) IPTV 04 marks
+b) DTH TV system 04 marks
+ec) 3DTV 04 marks
 
-a
-
-Draw and explain NTSC coder in detail.
-
-Explain VSB detection and correction
-Explain 3D TV in detail
-
-Explain composite video signal with diagram.
-
-Draw and explain the block diagram of Monochrome TV.\.Le Ce EVEN =
-
-Why it is necessary to connect a very high voltage at the final anode of color picture
-tube? Explain the working of delta gun color picture tube with suitable diagrams.
-Explain the phenomenon of interleaving of color signals. How does it help in ensuring
-compatibility?
-
-Write short notes on any three of four.
-Plasma TV
-
-Automatic degaussing
-
-Aspect Ratio
-
-Cable FY OTH
-
-06
-
-06
-06
-
-06
-06
-
-06
-
-06
-
-12
-04
-04
-04
-04
-
-Page 2 of 2
+2/2
 ````
 
 ## 2014-15 · Final-Exam · Sem 6 · paper 65e45427a5a6
@@ -672,100 +766,6 @@ Write Short notes on any three of four
 —_—
 
 12
-````
-
-## 2014-15 · Re-Exam · Sem 6 · paper d9fdb0712e0f
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/TV AND VIDEO ENGINEERING/TV AND VIDEO ENGINEERING B TECH (EXTC), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 12/05/2016
-- Text: ocr (2 pages), mean OCR confidence 89.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (EXTC) Year: III Semester: VI
-Academic Year: 2015-16
-Batch: 2014-15
-Subject: TV and Video Engineering Marks: 60
-Time: 2.00
-
-Date: 12/05/2016 Durations: 3
-Re-Examination
-
-Tnstra
-
-n: Candidates shouid read carefuily the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Ql) 12 marks
-a) What is kell factor? 02 marks
-b) What is degaussing? What is its necessity? 02 marks
-c) Describe basic principle of operation of AFC used in TV receiver. 02 marks
-d) What do you understand by HDTV? Hence describe its principle. 02 marks
-e) Sketch Chromaticity diagram. 02 marks
-f) | Compare LCD and LED TV. 02 marks
-
-Q2)
-
-a) Explain the meaning of compatibility between monochrome and color 06 marks
-TV system.
-
-b) Draw CVS signal, give necessary details on it. Describe any four 06 marks
-parameters in brief.
-
-Q3)
-
-a) | What do you understand by interlaced scanning? Show that it reduces 06 marks
-flicker and conserve bandwidths.
-
-b) Compare the performance of delta gun, PIL tube and Trinitron tube, 06 marks
-giving construction, focusing, and clarity and convergence errors.
-
-1/2
---- page 2 ---
-Q4)
-a) Explain construction of Plasma screen and Plasma operation in Plasma 06 marks
-TV.
-~ *D).. _ Explain why FM preferred for sound transmission in TV systems. 06 marks
-mem Describe use of pre-emphasis and de-emphasis circuits at transmitter and
-recétyer respectively.
-
-Pt Q5) gs *
-e. a) Only’ (R-Y) and (B-Y) color difference signals along with luminance 06 marks
-ay, _, »8ignal chostn for transmission. Justify the statement.
-
-» pb) Define the following terms: Additive and Subtractive mixing of colors, 06 marks
-Saturation, Hue, Luminance and Chrominance.
-
-.@
-Q6)
-a) Explain SECAM coder with the help of a block diagram. 06 marks
-b) Draw and explain PAL coder. 06 marks
-Q7) Write Short notes on 12 marks
-a) IPTV 04 marks
-b) DTH TV system 04 marks
-ec) 3DTV 04 marks
-
-2/2
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper 5fefa45332a8

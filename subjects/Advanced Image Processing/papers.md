@@ -1,6 +1,6 @@
 # Advanced Image Processing: question papers in full
 
-24 unique papers · 2007-08 to 2018-19 · Computer Engineering, Electronics and Telecommunication
+23 unique papers · 2007-08 to 2018-19 · Computer Engineering, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -452,6 +452,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/I SEMESTER/ADVANCED IMAGE PROCESSING/Advanced Image Processing 2015-2016.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 26/11/2015
 - Text: ocr (2 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -547,7 +548,6 @@ Q7 Write a short note on (any four)
 {d] Thresholding
 {€ Boundary Extraction
 
-JOGO SIGS ISAS SIS IGE ICICI II GIGI IRI d an 8 SC 8 804 IR I IR A a a A I i a EH i ae
 
 07
 07
@@ -560,100 +560,6 @@ JOGO SIGS ISAS SIS IGE ICICI II GIGI IRI d an 8 SC 8 804 IR I IR A a a A I i a E
 07
 
 14
-````
-
-## 2014-15 · Exam not stated · Sem 2 · paper 9369a60cdd15
-
-- Departments: Electronics and Telecommunication
-- Programmes: M TECH / EXTC
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/II SEMESTER/ADVANCED IMAGE PROCESSING/ADVANCED COMMUNICATION NETWORKS BATCH 2014-20150001.pdf`
-- Printed on paper: duration hours: 3; exam date: 08/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE:
-
-af HM nn .
-
-Programme: M.Tech (EXTC) Year: I Semester: I, aie RARY |
-Academic Year: 2014-2015 & ig ‘|
-; wae oN aE”
-Subject: Advanced Communication Networks :
-j Marks:
-| Date: 08/05/2015 Time : Tan am to 1.00 pm
-
-Durations: 3 (hrs)
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory. ‘
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures to the right indicate full marks.
-
-Ql. Answer any four:
-
-A Explain main drivers of NGN 3
-
-B What is the subnetwork address if the destination address is 200.45.34.56 and 3
-network mask is 255.255.240.0?
-
-C Compare the following types of services: 3
-
-1. Integrated Service
-2. Differentiated Service
-
-D   Howis [Pv6 different in Mobile IP? 3
-E Explain the working principle of MPLS. 3
-Q2.
-
-A Explain 3 way handshaking in TCP 6
-B Explain working principle of DHCP with the help of state diagram . 6
-Q3
-
-A Compare snooping, indirect and M TCP. 6
-B Explain the term soft state with respect to Resource reservation protocol (RSVP). 6
-
-What are the drawbacks of reservation merging?
-
-Q4
-
-A With respect to ATM explain the following: 6
-1. AALI] 2.AAL2
-
-B Explain congestion control mechanism in ATM 6
-
-Q5
-
-A Explain the terms triangular routing and reverse tunneling with respect to Mobile IP. 6
-B Explain the functional architecture of ITU-NGN. (Next Generation Networks) 6
---- page 2 ---
-Q6
-
-Q7
-
-What are the different types of routing algorithms for mobile adhoc networks?
-Explain any one in brief.
-Explain IP-based Service Conversion and Managed IP Network
-
-Suppose a congestion-control scheme results in a collection of competing flows that
-achieve the following throughput rates: 200 KBps, 160 KBps, 190 KBps, 195 KBps
-and 220 KBps.
-
-(a)Calculate the fairness index for this scheme.
-
-(b) Now add a flow with a throughput rate of 750 KBps to the above, and
-recalculate the fairness index.
-c) what can you conclude from the results of a) and b).
-What are the advantages of differentiated services over integrated services?
-
->
 ````
 
 ## 2014-15 · Final-Exam · Sem 1 · paper 179751e432ee
@@ -1817,6 +1723,113 @@ i 19 C/3 1411111111011011 19 |
 BA LILI
 ````
 
+## 2013-14 · Re-Exam · Trim 3 · paper a8dc1249cef3
+
+- Departments: Electronics and Telecommunication
+- Programmes: M TECH / EXTC
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM III/ADVANCED MICROWAVE ENGINERRING/ADVANCE IMAGE PROCESSING BATCH 2011-12 RE EXAM TRIM III0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 24/03/2014
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+on
+SVKM’s NMIMS Lom
+Mukesh Patel School of Technology Management & Engingéfing Jesh: ) oi
+Programme: M.Tech - EXTC Year: [ Trimester: fm M °°” RY ia }
+
+BLis RA
+
+Academic Year : 2013-2014 waa /
+
+Batch: 2011-2012
+Subject: Advance Image Processing Marks: ———
+
+Time: 4.00 pm To 7.00 pm
+Date: 24/03/2014 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer book, which is provided for their use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. Inall 5 Questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each question should start on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q1 a) How is Walsh transform related to Hadamard transform. 5
+b) Explain High boost filter?,Give its application. 5
+c) How can homomorphic filtering be used for image enhancement? 5
+d) How is adaptive thresholding different from global thresholding? 5
+
+Q2a) Explain the sub-band coding technique used in wavelets. How are wavelets better than
+transforms. Explain the two basic functions used in wavelets transform. 10
+
+Q2b) Describe the concept of multilevel resolution. Give the basis functions of Haar transform.
+
+Given f= [12022021 ] find its Haar transform. 10
+Q3a) Which transformation function is used in histogram equalization. Equalize the given
+histogram of an image given below. 10
+Gray Level 0 1 2 3 4 5 6 7
+No. of Pixels | 220 | 140 50 60 70 170 130 160
+
+Q3b) For the following 4x4 image, evaluate Walsh coefficients and find energy in both spatial
+and frequency domain. id
+2 3 1 3
+0 3 0 3
+1 0 3 0
+1 5 3 5
+
+Q4a) How is thresholding different from other methods of image segmentation. Explain the
+Otsu’s Method for thresholding. 10
+
+1} 2
+--- page 2 ---
+Q4b) Why is DCT used for image compression. Which compression techniques employes DCT
+and how. 10
+
+Q5a) Differentiate between image enhancement and restoration. How can Weiner filter be used
+for image restoration. 10
+
+Q5b) Describe various methods of thresholding. Which criteria is used in optimal thresholding
+method. 10
+
+Q6a) Apply masks of size 3x3 for the following operators on the given image and explain their
+
+usefulness in image processing. 12
+i. Sobel operator
+ii. High pass filter
+lil. LoG operator
+iv. Gaussian filter
+
+i21 | 205 | 217 | 156 | 151
+139 | 127 | 157 | 117 | 125
+252 | 117 | 236 | 138 | 142
+227 | 182 |"178 | 197 | 242
+201 | 106 | 119 | 251 | 240
+
+Q6b) Explain the various frames used in MPEG video coding. 8
+Q7) Explain in short any four:
+
+i. Fourier Descriptors for boundary representation
+
+il. Steganography and IP techniques used for it.
+
+iil. Fingerprint Analysis
+
+iv. Image Mosaicing
+
+Vv. H.26x standards 20
+
+K
+
+2\2
+
+—~
+````
+
 ## 2012-13 · Final-Exam · Trim 1 · paper 05a143f50e30
 
 - Departments: Computer Engineering
@@ -2397,113 +2410,6 @@ Write a short notes on (any 4) :- (20)
 (e) Butterworth filter
 
 —*
-````
-
-## 2011-12 · Re-Exam · Trim 3 · paper a8dc1249cef3
-
-- Departments: Electronics and Telecommunication
-- Programmes: M TECH / EXTC
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM III/ADVANCED MICROWAVE ENGINERRING/ADVANCE IMAGE PROCESSING BATCH 2011-12 RE EXAM TRIM III0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 24/03/2014
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-on
-SVKM’s NMIMS Lom
-Mukesh Patel School of Technology Management & Engingéfing Jesh: ) oi
-Programme: M.Tech - EXTC Year: [ Trimester: fm M °°” RY ia }
-
-BLis RA
-
-Academic Year : 2013-2014 waa /
-
-Batch: 2011-2012
-Subject: Advance Image Processing Marks: ———
-
-Time: 4.00 pm To 7.00 pm
-Date: 24/03/2014 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer book, which is provided for their use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. Inall 5 Questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each question should start on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q1 a) How is Walsh transform related to Hadamard transform. 5
-b) Explain High boost filter?,Give its application. 5
-c) How can homomorphic filtering be used for image enhancement? 5
-d) How is adaptive thresholding different from global thresholding? 5
-
-Q2a) Explain the sub-band coding technique used in wavelets. How are wavelets better than
-transforms. Explain the two basic functions used in wavelets transform. 10
-
-Q2b) Describe the concept of multilevel resolution. Give the basis functions of Haar transform.
-
-Given f= [12022021 ] find its Haar transform. 10
-Q3a) Which transformation function is used in histogram equalization. Equalize the given
-histogram of an image given below. 10
-Gray Level 0 1 2 3 4 5 6 7
-No. of Pixels | 220 | 140 50 60 70 170 130 160
-
-Q3b) For the following 4x4 image, evaluate Walsh coefficients and find energy in both spatial
-and frequency domain. id
-2 3 1 3
-0 3 0 3
-1 0 3 0
-1 5 3 5
-
-Q4a) How is thresholding different from other methods of image segmentation. Explain the
-Otsu’s Method for thresholding. 10
-
-1} 2
---- page 2 ---
-Q4b) Why is DCT used for image compression. Which compression techniques employes DCT
-and how. 10
-
-Q5a) Differentiate between image enhancement and restoration. How can Weiner filter be used
-for image restoration. 10
-
-Q5b) Describe various methods of thresholding. Which criteria is used in optimal thresholding
-method. 10
-
-Q6a) Apply masks of size 3x3 for the following operators on the given image and explain their
-
-usefulness in image processing. 12
-i. Sobel operator
-ii. High pass filter
-lil. LoG operator
-iv. Gaussian filter
-
-i21 | 205 | 217 | 156 | 151
-139 | 127 | 157 | 117 | 125
-252 | 117 | 236 | 138 | 142
-227 | 182 |"178 | 197 | 242
-201 | 106 | 119 | 251 | 240
-
-Q6b) Explain the various frames used in MPEG video coding. 8
-Q7) Explain in short any four:
-
-i. Fourier Descriptors for boundary representation
-
-il. Steganography and IP techniques used for it.
-
-iil. Fingerprint Analysis
-
-iv. Image Mosaicing
-
-Vv. H.26x standards 20
-
-K
-
-2\2
-
-—~
 ````
 
 ## 2010-11 · Final-Exam · Trim 1 · paper c2fa8a9296b8

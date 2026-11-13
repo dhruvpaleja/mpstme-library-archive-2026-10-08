@@ -1,6 +1,6 @@
 # Python Programming: question papers in full
 
-5 unique papers · 2022-23 to 2024-25 · Common (all branches), Artificial Intelligence, Computer Engineering, Information Technology, Computer Science and Business Systems, Cyber Security, Electronics and Telecommunication, Mechatronics
+5 unique papers · 2023-24 to 2024-25 · Common (all branches), Artificial Intelligence, Computer Engineering, Information Technology, Computer Science and Business Systems, Cyber Security, Electronics and Telecommunication, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -448,7 +448,7 @@ Rowling".
 (iv) Retrieve and display all the records where the author is "J.K. Rowling".
 ````
 
-## 2022-23 · Final-Exam · Sem 2 · paper ce321a1428b4
+## 2023-24 · Final-Exam · Sem 2 · paper ce321a1428b4
 
 - Departments: Artificial Intelligence, Common (all branches), Computer Engineering, Computer Science and Business Systems, Cyber Security, Electronics and Telecommunication, Information Technology, Mechatronics
 - Programmes: B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / MECHATRONICS, MBA TECH, MBA TECH / COMPUTER, MBA TECH / EXTC
@@ -635,11 +635,11 @@ es)
 Page 4/4
 ````
 
-## 2022-23 · Re-Exam · Sem 2 · paper d0acc6d34c1e
+## 2023-24 · Re-Exam · Sem 2 · paper d0acc6d34c1e
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PYTHON PROGRAMMING/Python Programming, Re-exam 2022-23.pdf` (+1 identical copies)
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PYTHON PROGRAMMING/Python Programming, Re-exam 2022-23.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 85.0
 
@@ -835,7 +835,7 @@ am
 Page 4/4
 ````
 
-## 2022-23 · Re-Exam · Sem 3 · paper a1a069c3b399
+## 2023-24 · Re-Exam · Sem 3 · paper a1a069c3b399
 
 - Departments: Artificial Intelligence, Computer Engineering, Information Technology
 - Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / I T, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T

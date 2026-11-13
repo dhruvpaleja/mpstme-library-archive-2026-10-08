@@ -1,6 +1,6 @@
 # Programming for Problem Solving
 
-**101** unique papers (158 copies across programmes) · 2018-19 to 2025-26 · 41 programmes · Sem 1, Sem 2, Sem 3, Sem 5, Sem 6, Sem 7
+**102** unique papers (159 copies across programmes) · 2018-19 to 2025-26 · 41 programmes · Sem 1, Sem 2, Sem 3, Sem 5, Sem 6, Sem 7
 
 Download only this subject, sorted by academic year:
 
@@ -17,28 +17,6 @@ Also filed as: `PROGRAMMING FOR PROBLEM SLOVING`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam, Final-Exam | Question paper | Sem 1 | B.TECH INTEGRATED, MBA TECH | Programming for Problem Solving 2025-26 Final.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AIDS 7056 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AIML 7053 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CS 7055 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CyberSecurity 7010 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech DS 7009 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Mechatronics 7004 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated DS 7038 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated IT 7037 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1, Sem 3 | B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED, B.TECH INTEGRATED / IT, MBA TECH | Programming for Problem Solving Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech AI 7012 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech AIDS 7056 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
@@ -62,24 +40,28 @@ Also filed as: `PROGRAMMING FOR PROBLEM SLOVING`
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MBATech Computer 7047 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MBATech IT 7041 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech AIDS 7056 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam, Re-Exam | Answer key | Sem 1, Sem 5 | BTech CyberSecurity 7010, Integrated Computer 7032, Integrated DS 7038, Integrated Mechanical 7031 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech DS 7009 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Mechatronics 7004 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AIDS 7056 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AIML 7053 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CS 7055 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CyberSecurity 7010 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech DS 7009 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Mechatronics 7004 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated DS 7038 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated IT 7037 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / COMPUTER | B Tech, Management Accounting for Engineers, Sem-III, 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech AI 7012 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech AIDS 7056 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
@@ -99,6 +81,24 @@ Also filed as: `PROGRAMMING FOR PROBLEM SLOVING`
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech Computer 7047 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech IT 7041 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech AIDS 7056 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam, Re-Exam | Answer key | Sem 1, Sem 5 | BTech CyberSecurity 7010, Integrated Computer 7032, Integrated DS 7038, Integrated Mechanical 7031 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech DS 7009 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Mechatronics 7004 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Programming for Problem Solving(701CO0C018)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 1, Sem 3, Sem 7 | B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE & DATA SCIENCE, B TECH / ARTIFICIAL INTELLIGENCE & MACHINE LEARNING, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED, B.TECH INTEGRATED / IT, MBA TECH | Programming for Problem Solving, Sem-III, Batch 2023-24 Final Batch 21-22,22-23 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 1, Sem 3, Sem 7 | B TECH, B.TECH INTEGRATED, MBA TECH | Programming for Problem Solving, Re-exam 2021-22,22-23,23-24.pdf |
 | 2022-23 | — | Question paper | Sem 1, Sem 3 | B.TECH INTEGRATED, B.TECH INTEGRATED / IT | Programming for Problem Solving Batch 2022-23,2023-2023-0001.pdf |
@@ -117,5 +117,10 @@ Also filed as: `PROGRAMMING FOR PROBLEM SLOVING`
 | 2018-19 | Final-Exam | Question paper | Sem 2 | B TECH | PROGRAMMING FOR PROBLEM SOLVING 18-19 FINAL EXAM.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 1 | MBA TECH | Programming for problem solving 2018-19 Final.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 1 | MBA TECH | Programming for problem solving Re-exam 2018-19.pdf |
+| — | Final + Re-Exam | Question paper | Sem 1 | B TECH | Program for Problem Solving, Sem-I, Fianl Exam & Re Exam.pdf [1] |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "STATISTICAL PROBABILITY & CALCULUS" but the paper is headed "Programming for Problem Solving"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIDS_7056/Statistical Methods/ANS_Statistical Methods(702BS0C085)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09-12-2025
 - Text: mixed (18 pages), mean OCR confidence 76.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -576,7 +577,6 @@ Step 3: Compute within-class scatter Sy (2 marks)
 S, = So = F sol: Sy = 81+ 5) =|
 
 Step 4: Compute LDA vector w (2 marks)
-w x Sy (1 — Ho), fa — Ho = i
 
 g-i — 1 f100 -10 _ f-o
 w 300 |-10 4}°7 7
@@ -6027,6 +6027,7 @@ Valid Points with applications discussions: 2.5 Marks
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CSBS_7036/Statistical Methods/ANS_Statistical Methods(702BS0C055)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 May 2025
 - Text: mixed (7 pages), mean OCR confidence 74.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6245,7 +6246,6 @@ CO:3 | c
 $0:2
 
 BL:3 Given n; = 1200, ng =900, p,=0.3, py = 0.25,
-Ho :P; =Pz, A : DP, A Po [1 M]
 LOS Ztap = 1.96 [1 M]
 Zeal = 2.56 [2 M]
 Since Zeal > Ztab [1 M]

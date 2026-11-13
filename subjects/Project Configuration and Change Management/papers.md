@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/PROJECT CONFIGURATION AND CHANGE MANAGEMENT/Project Configuration and Change Management 2014-15 Final.pdf`
 - Printed on paper: max marks: 50; exam date: 20/12/2014
 - Text: ocr (13 pages), mean OCR confidence 90.4
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “ SVKM’s NMIBS
@@ -207,7 +208,6 @@ completed within a four-year window.
 
 Project Background
 
-eon oe nate net anes leetariclarhw_cacenchidy-htm- 13-11-2014 .
 --- page 6 ---
 Case study - Helping employees embrace change at TCH Page 2 of 11
 
@@ -279,9 +279,7 @@ erence in th
 
 ‘ad in F
 
-Litactal whxr_eace_ctidy htm - 13-11-2014
 
-- “ + Dien ane nent ane
 --- page 7 ---
 Case study - Helping employees embrace change at TCH Page 3 of 11
 
@@ -374,7 +372,6 @@ Participated in Dress Rehearsals Did Not Participate In Dress Rehearsals
 
 wes &No Yes BNo
 
-Lite /hxrara chonaa monaramant nam /titaciol ahe_eace.ctidy htm 13-14-2014
 --- page 9 ---
 Case study - Helping employees e1 embrace c change at TCH Page 5 of 11
 
@@ -413,7 +410,6 @@ Figure 5
 
 Question: | feet ready te go five with the nevegystem,
 
-hittn:/forww chan ve-management.corm/fitorial-whv-case-stidv_htin 13-11-2NTA
 --- page 10 ---
 Case study - Helping employees embrace change at TCH Page 6 of 11
 
@@ -459,7 +455,6 @@ and frequent communications throughout the project. These tailored communication
 leadership provided key status updates and reminders. Additionally, online meetings were offered so that
 participants could attend virtually. These webinars were scheduled with leaders and staff throughout the
 
-Vad Senn nee han nn annnomont nam fhitarial-whv-case-studv. htm 13-11-2014
 --- page 11 ---
 Case study - Helping employees embrace change at TCH Page 7 of 11
 
@@ -509,7 +504,6 @@ n supported on th
 
 pA
 
-hth. fhewrin nhaann mannnnmant ans livtacial wher
 
 13-11-2914
 --- page 12 ---
@@ -551,7 +545,6 @@ no dedicated support team to offer remedial training (see Figure 10.)
 
 1 can successfully perform my job using IRIS.
 
-Ltt. Mere, ALA AR en Hn nt AA tn nil wether nen otis, ht, 12.11 INIA
 --- page 13 ---
 ee
 
@@ -603,7 +596,6 @@ and plans
 Orde
 Order
 
-titin: /farara chance -mansaament pam lbtasial woh ence cindy htm TEAT.IAVA
 ````
 
 ## 2013-14 · Final-Exam · Sem 9 · paper d4dc589433b4

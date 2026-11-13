@@ -1,6 +1,6 @@
 # Entrepreneurship Management
 
-**13** unique papers (13 copies across programmes) · 2008-09 to 2015-16 · 1 programme · Sem 9, Trim 14
+**12** unique papers (12 copies across programmes) · 2008-09 to 2015-16 · 1 programme · Sem 9, Trim 14
 
 Download only this subject, sorted by academic year:
 
@@ -26,7 +26,6 @@ Also filed as: `ENTREPRENEUSHIP MANAGEMENT`
 | 2010-11 | — | Question paper | Trim 14 | MBA TECH | ENTREPRENWURSHIP MANAGEMENT BACTH 2010-2011.pdf |
 | 2009-10 | — | Question paper | Trim 14 | MBA TECH | 2009-2010(142).pdf |
 | 2008-09 | — | Question paper | Trim 14 | MBA TECH | 2008-2009(141).pdf |
-| 2008-09 | Re-Exam | Question paper | Trim 14 | MBA TECH | 2008-2009 re exam I(15).pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 14 | MBA TECH | 2008-2009 re exam(69).pdf |
 | — | — | Question paper | Trim 14 | MBA TECH | scan0005(12).pdf |
 

@@ -1,6 +1,6 @@
 # Calculus: question papers in full
 
-143 unique papers · 2022 to 2025-26 · Data Science, Computer Engineering, Information Technology, Artificial Intelligence, Mechanical, Common (all branches), Electronics and Telecommunication, AI and Data Science, AI and Machine Learning, Computer Science, Mechatronics, Civil, Cyber Security, Computer Science and Business Systems
+143 unique papers · 2022-23 to 2025-26 · Data Science, Computer Engineering, Information Technology, Artificial Intelligence, Mechanical, Common (all branches), Electronics and Telecommunication, AI and Data Science, Mechatronics, AI and Machine Learning, Computer Science, Civil, Cyber Security, Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/CALCULUS/Calculus 2025-26 Final Batch 2022-23,2023-24,2024-25 Re Exam.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 72.2
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 uv
@@ -66,7 +67,6 @@ Q@ q | coordinates and z is the height in meters. Find the direction in which th
 BL-3 increases most rapidly at the point P(1,—2,1). Determine the maximum rate of increase
 of the signal strength at P. If an engineer carrying a signal meter moves in the direction
 v = (1,2,2), find the rate of change of signal strength in that direction.
-CO-2; mz gee ok du , Ou , Ou
 wo | > fu =f", &", € ”), then prove that 3 +5) * a 7°: 6
 Examine the validity of the conditions and the conclusion of Lagrange’s Mean Value
 CO-1;
@@ -81,7 +81,6 @@ BL-3
 
 and find its scalar potential.
 
-KREREKKEEK 7 de ok ok 2 oo oR EE
 
 j
 4
@@ -132,7 +131,6 @@ BL-3 7
 . y-x
 
 ii) Evaluate the followi le.
-ii) Evalu e owing Grats) yew
 
 HRKKAK AKER 2 eR RRR RR RR
 ````
@@ -687,6 +685,115 @@ ii) Evaluate the following   lim   3   3 .   4
 - Departments: Data Science
 - Programmes: MBATech DS 7052
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/MBATech_DS_7052/Calculus/QP_Calculus(702BS0C001)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg.
+(Mech)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I / III/Semester I/Semester V(Exam Year: 2025-2026)
+Subject: Calculus
+Date: 04 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question no. 1 is compulsory
+5. Attempt any 4 questions out of the remaining questions
+Q1   Answer briefly:
+CO-1 BL-2 ;   a. Verify Rolle’s Mean value theorem for the function f ( x ) = x 3 − 9 x 2 + 26 x − 24, 2  x  4.   4
+CO- 2;   b.   If z = sin x sin y then find  2 z and  2 z .   4
+BL-1    x 2    y 2
+CO-3 ;   c. Prove that  1   dx = 1   1 , 1   .   4
+BL-3   0 1 − x 4   4    4 2 
+1 x
+CO- 4;   d. Evaluate  ( x 2 y + y 2 x ) dydx .   4
+BL-2
+0 x 2
+CO- BL-2 5;   e   If __ f = ( 4 x 2 ) i + ( 6 xy 2 ) j + ( xyz 3 ) k , find div __ f and curl __ f at (1,2,1) .   4
+Attempt any 4 questions:
+The Wi-Fi signal strength inside an office building is modelled by the function
+𝑆(𝑥, 𝑦, 𝑧) = −2𝑥2 −𝑦2 −3𝑧2 + 8𝑥+ 6𝑦+ 12𝑧+ 40 , where 𝑥 and 𝑦 are horizontal
+Q2   a   coordinates and 𝑧 is the height in meters. Find the direction in which the signal strength   6
+CO-5;
+BL-3   increases most rapidly at the point 𝑃(1, −2,1). Determine the maximum rate of increase
+of the signal strength at P. If an engineer carrying a signal meter moves in the direction
+𝑣= (1, 2, 2), find the rate of change of signal strength in that direction.
+CO-2; b If u = f ( e y − z , e z − x , e x − y ) , then prove that  u +  u +  u = 0 .   6
+BL-2    x    y    z
+Examine the validity of the conditions and the conclusion of Lagrange’s Mean Value
+CO-1; BL-2   c        8
+theorem for the function f ( x ) = sin x + cos x in  0,    .
+ 2 
+Q3
+CO-2;   a Find extreme values of x 3 y 2 ( 12 − 3 x − 4 y ) .   6
+BL-3
+CO-5; b Show that the vector F = ( y 2 cos x + z 3 ) i + ( 2 y sin x − 4 ) j + ( 3 xz 2 + 2 ) k is irrotational   6
+BL-3
+and find its scalar potential.
+********** 1 **********
+--- page 2 ---
+CO-1;   c   tan x − sin x   8
+BL-2   lim   3   .
+x → 0   sin x
+Q4   𝜋
+CO-1;   a Find the Taylor series expansion of 𝑓(𝑥) = ln(cos 𝑥) about the point 𝑎= 3.   6
+BL-2
+CO-4; b Evaluate ∫∫ 1 1−𝑥 ∫ 1−𝑥−𝑦 𝑑𝑥 𝑑𝑦 𝑑𝑧   .   6
+BL-2   0 0   0   (𝑥+𝑦+𝑧+1)3
+ ( 3 x 2 − 8 y 2 ) dx + ( 4 y − 6 xy ) dy
+CO-5;   Evaluate   , using Green’s theorem, where C is the
+c   C   8
+BL-3
+boundary of the region defined by 𝑦= √𝑥 and 𝑦= 𝑥2.
+Q5    2n
+CO-1;   a   Test the convergence of =   2 .   6
+BL-2   n 1 n
+CO-3; b Evaluate ∫sin2 𝜋   𝜃(1 + 𝑐𝑜𝑠𝜃)3𝑑𝜃 .   6
+BL-3   0
+CO-4;   4 √16−𝑥2   𝑑𝑦𝑑𝑥
+BL-4   c Change to polar coordinates and evaluate ∫∫ √4𝑥−𝑥2   .   8
+0   √16−𝑥2−𝑦2
+Q6
+CO-4;   a Using double integration find the area between the curves y 2 = 4 x and 2 x −y 3 + 4 = 0 .   6
+BL-3
+1
+CO-3; b Evaluate  ( x log x ) 3 dx .   6
+BL-3
+0
+Use Lagrange Multipliers Method to determine minimum distance from origin to the
+CO-6;   c   8
+BL-3   plane 3 x + 2 y + z = 12 .
+Q7   a By triple integral, find the volume enclosed by the paraboloid x 2 + y 2 = z and the   6
+CO-6;
+BL-3   plane z = 4 .
+Evaluate  e x + y dxdy where R is the region area of the triangle bounded by
+CO-4; b   6
+BL-2   R
+x = 0, y = 0 and x + y = 1 .
+ 2 x 2 y
+   if ( x , y )  ( 0,0 )
+i) Is the following function continuous? f ( x , y ) =  x 4 + y 2   .   4
+CO-2;     0   if ( x , y ) = ( 0,0 )
+BL-3   c
+y 3 − x 3
+ii) Evaluate the following   lim   3   3 .   4
+( x , y ) → ( 0,0 ) y + x
+********** 2 **********
+````
+
+## 2025-26 · Re-Exam · Sem 5 · paper 6bd2725f930e
+
+- Departments: Civil, Computer Engineering, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: BTech Civil 7005, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, Integrated Mechanical 7031, MBATech IT 7041
+- Source: `02_Question_Papers/2023/Sem_05/Re-Exam/Integrated_DS_7038/Calculus/QP_Calculus(702BS0C001)_2023-2024.pdf` (+10 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: text (2 pages)
 
@@ -6475,6 +6582,175 @@ BL-Moderate (©) Change the order and Evaluate h J ox f(x, y)dydx . i)
 FICK GG Ok dk aoe
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 5 · paper c02f299015e5
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/CALCULUS/Calculus, Sem-V, Final Exam & Re Exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 75.2
+
+````text
+SVKM’S NMIMS po
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year:2023-2024
+
+Program: B. Tech Integrated Stream : All Streams Year: IIL Semester: V
+
+Subject: Calculus Time:(3 hrs) 2-00 p/m to 5:00pm
+Date: 22 ]411]2023 No. of Pages: _03 _
+
+Marks: 100
+
+Final Examination/ Re-examination(2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+i
+“ Answer briefly:
+
+CO-1; (a)
+SO-1;
+BL- Low
+CO-1; (b) P ,
+SO-1; Find all second order partial derivatives of z = log (x +y ) 2
+BL- Low
+
+Ds c < 1
+a : @ Apply beta functions to evaluate J x? (1 x? yi dx.
+BL- Low :
+co; | @) (5)
+SO-1; = - = > =.
+BL- If f= (3x”)i +(5xy) 7 +(xy2°)k , find curlf at (1,2,3).
+Moderate
+Q (a)
+CO-1;
+SO-1;
+BL-Low
+
+Verify Lagrange’s Mean Value Theorem for f(x) =i? +mx-+n in [2,6]. | [5]
+
+[5]
+
+[5]
+
+Verify Rolle's Theorem for the function (x” + sa in [-3,0]. | [7]
+--- page 2 ---
+CO-2; (b)
+
+SO-1; Prove that F=(x+2y+az)i +(bx-3y-z)j+(4x+-cy+2z) kis, big
+all : solenoidal and determine a,b and c such that F is irrotational.
+Moderate
+CO-1; (c)
+SO-1;
+, ‘| °° | Evaluate following improper integrals: i — dx, ii dx 6
+BL- . g props eri i) j - +x i) ole , Jl—x? [ i
+Moderate :
+Q3 (@) |. :
+CO-2; .
+$0.1; Evaluate [ J xy(x+ y)dyde. [7]
+BL: ox i
+Moderate _
+ee (b) A rectangular box open at the top has volume of 108 cubic cm. Find the 7
+BL- High dimensions of the box fequinne least material. 7]
+(c) Captain Astro is drifting in space near the sunny side of Mercury and notices
+CO-3; that the hull of her ship is beginning to melt. The temperature in her vicinity
+SO-2; 6
+BL- High is given byT =e“ +e” +e”, where x, yand z are measured in meters. If [6]
+she is at (1,1,1) , in what direction should she proceed in order to cool fastest?
+4 @) 2 3 4
+CO-1; Using Maclaurin’s series, prove that log(1+x) =x—--+—--+..... 7
+SOL 8 P og(1 +x) 3°34 [7]
+BL- Low .
+*
+CO-1; (b) ; ;
+SO-1; . 0 a
+BL- If z=tan(y+ax)+(y-—ax)* then prove that =a =q > [7]
+Moderate
+CO-3; (©) :
+SO- 2; Apply triple integration to find the volume of a sphere of radius a. [6] .
+BL- High
+Q5 (a) : : . 2)
+cO-3: Apply double integration to find the area of the region enclosed by y =x 7
+SO-2; andx=y. ‘ [7]
+BL- High
+CO-2; ()
+SO-1; x 2-x*
+Prove that} xe™* dx-| x°e* dx=
+BL- [ee eae 7
+
+Moderate
+--- page 3 ---
+= 9% we wee BP wn
+
+CO; [© 9
+
+SO-1; 2 =
+
+BL- Evaluate lim = * 20857? [6]
+Moderate =
+
+(a) 2
+Q6 i) Test the convergence of following sequence: a, = Z 5 = :
+3n' +n
+
+CO-1;
+
+SO-1; — n 7]
+BL- Low ii) Test the convergence of following series using root wet (5 Z 3] :
+
+mi 2nt+
+
+hae ingeie
+
+SO-1; ire x+yte
+
+BL- Evaluate 1 f J a’ drdydx . a [7]
+Moderate aoe
+
+CO2-; (c) . . : .
+
+$0-2; Find the volume of solid of revolution generated by revolving the area
+
+BL- High — hs wees _ oo. [6]
+
+inded by parabola x° = y, x=3 and x-axis about the x—axis.
+
+Q7 (a) Check whether limit exist and if yes, find the limit: i) | [7]
+CO-1; . xy : . xr-y
+
+SO-1; i oy.) 9 ys’ ") ooh oy x-y
+
+BL- Low
+
+So (>) | Using Green’s theorem, evaluate I(x - 2xy) de +(x? yt 3) dy around the | [7]
+BL- High c
+
+boundary C of the region bounded by y” = 8x and x =2.
+
+CO-2; (c) 38 ~ | [6]
+SO-1; Change the order of integration f f St (x,y) dvdr. ‘
+BL-
+
+Moderate
+
+0x?
+````
+
 ## 2023-24 · Final + Re-Exam · paper 96627b939292
 
 - Departments: Common (all branches)
@@ -6651,115 +6927,6 @@ BL-
 Moderate
 ````
 
-## 2023-24 · Re-Exam · Sem 5 · paper 6bd2725f930e
-
-- Departments: Civil, Computer Engineering, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechanical
-- Programmes: BTech Civil 7005, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, Integrated Mechanical 7031, MBATech IT 7041
-- Source: `02_Question_Papers/2023/Sem_05/Re-Exam/Integrated_DS_7038/Calculus/QP_Calculus(702BS0C001)_2023-2024.pdf` (+10 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
-- Text: text (2 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
-(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
-(DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg.
-(Mech)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I / III/Semester I/Semester V(Exam Year: 2025-2026)
-Subject: Calculus
-Date: 04 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 2 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question no. 1 is compulsory
-5. Attempt any 4 questions out of the remaining questions
-Q1   Answer briefly:
-CO-1 BL-2 ;   a. Verify Rolle’s Mean value theorem for the function f ( x ) = x 3 − 9 x 2 + 26 x − 24, 2  x  4.   4
-CO- 2;   b.   If z = sin x sin y then find  2 z and  2 z .   4
-BL-1    x 2    y 2
-CO-3 ;   c. Prove that  1   dx = 1   1 , 1   .   4
-BL-3   0 1 − x 4   4    4 2 
-1 x
-CO- 4;   d. Evaluate  ( x 2 y + y 2 x ) dydx .   4
-BL-2
-0 x 2
-CO- BL-2 5;   e   If __ f = ( 4 x 2 ) i + ( 6 xy 2 ) j + ( xyz 3 ) k , find div __ f and curl __ f at (1,2,1) .   4
-Attempt any 4 questions:
-The Wi-Fi signal strength inside an office building is modelled by the function
-𝑆(𝑥, 𝑦, 𝑧) = −2𝑥2 −𝑦2 −3𝑧2 + 8𝑥+ 6𝑦+ 12𝑧+ 40 , where 𝑥 and 𝑦 are horizontal
-Q2   a   coordinates and 𝑧 is the height in meters. Find the direction in which the signal strength   6
-CO-5;
-BL-3   increases most rapidly at the point 𝑃(1, −2,1). Determine the maximum rate of increase
-of the signal strength at P. If an engineer carrying a signal meter moves in the direction
-𝑣= (1, 2, 2), find the rate of change of signal strength in that direction.
-CO-2; b If u = f ( e y − z , e z − x , e x − y ) , then prove that  u +  u +  u = 0 .   6
-BL-2    x    y    z
-Examine the validity of the conditions and the conclusion of Lagrange’s Mean Value
-CO-1; BL-2   c        8
-theorem for the function f ( x ) = sin x + cos x in  0,    .
- 2 
-Q3
-CO-2;   a Find extreme values of x 3 y 2 ( 12 − 3 x − 4 y ) .   6
-BL-3
-CO-5; b Show that the vector F = ( y 2 cos x + z 3 ) i + ( 2 y sin x − 4 ) j + ( 3 xz 2 + 2 ) k is irrotational   6
-BL-3
-and find its scalar potential.
-********** 1 **********
---- page 2 ---
-CO-1;   c   tan x − sin x   8
-BL-2   lim   3   .
-x → 0   sin x
-Q4   𝜋
-CO-1;   a Find the Taylor series expansion of 𝑓(𝑥) = ln(cos 𝑥) about the point 𝑎= 3.   6
-BL-2
-CO-4; b Evaluate ∫∫ 1 1−𝑥 ∫ 1−𝑥−𝑦 𝑑𝑥 𝑑𝑦 𝑑𝑧   .   6
-BL-2   0 0   0   (𝑥+𝑦+𝑧+1)3
- ( 3 x 2 − 8 y 2 ) dx + ( 4 y − 6 xy ) dy
-CO-5;   Evaluate   , using Green’s theorem, where C is the
-c   C   8
-BL-3
-boundary of the region defined by 𝑦= √𝑥 and 𝑦= 𝑥2.
-Q5    2n
-CO-1;   a   Test the convergence of =   2 .   6
-BL-2   n 1 n
-CO-3; b Evaluate ∫sin2 𝜋   𝜃(1 + 𝑐𝑜𝑠𝜃)3𝑑𝜃 .   6
-BL-3   0
-CO-4;   4 √16−𝑥2   𝑑𝑦𝑑𝑥
-BL-4   c Change to polar coordinates and evaluate ∫∫ √4𝑥−𝑥2   .   8
-0   √16−𝑥2−𝑦2
-Q6
-CO-4;   a Using double integration find the area between the curves y 2 = 4 x and 2 x −y 3 + 4 = 0 .   6
-BL-3
-1
-CO-3; b Evaluate  ( x log x ) 3 dx .   6
-BL-3
-0
-Use Lagrange Multipliers Method to determine minimum distance from origin to the
-CO-6;   c   8
-BL-3   plane 3 x + 2 y + z = 12 .
-Q7   a By triple integral, find the volume enclosed by the paraboloid x 2 + y 2 = z and the   6
-CO-6;
-BL-3   plane z = 4 .
-Evaluate  e x + y dxdy where R is the region area of the triangle bounded by
-CO-4; b   6
-BL-2   R
-x = 0, y = 0 and x + y = 1 .
- 2 x 2 y
-   if ( x , y )  ( 0,0 )
-i) Is the following function continuous? f ( x , y ) =  x 4 + y 2   .   4
-CO-2;     0   if ( x , y ) = ( 0,0 )
-BL-3   c
-y 3 − x 3
-ii) Evaluate the following   lim   3   3 .   4
-( x , y ) → ( 0,0 ) y + x
-********** 2 **********
-````
-
 ## 2023-24 · Re-Exam · Sem 1 · paper 0e7106ce537d
 
 - Departments: Common (all branches)
@@ -6904,6 +7071,136 @@ o
 Page |3/3
 ````
 
+## 2023-24 · Re-Exam · paper 83fbe884a65a
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/Calculus/Calculus Batch 2022-23 Re Exam0001.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 75.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS a
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year:2023-2024 ZEEE a
+Program: B. Tech Integrated Stream : All Streams Yeay? Mi Semester: V BN
+Subject: Calculus Tink 3 hrs(2: soe é oop
+\
+Date:1642/2024 | No. ‘ee Pages: ae
+Marks: 100 SS nas
+
+__| Re-examination(2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use. ~~
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly:
+
+CO-1; SO-1; | (@) | Verify Rolle’s Theorem for f (x) =log(x? +6)-log(5x) on [2,3]. [5]
+
+BL- Low
+
+CO-1;SO-1; | (6) | Find all second order partial derivatives of z = x°y— ypr+exy, ‘ [5]
+> BL- Low
+
+(©) * [5]
+CO-2; SO-1; Apply gamma functions to evaluate | Vx e* dk
+
+BL- Low
+
+CO-1; SO-1; (4) | Find gradient of f (x,y,z) axtytz?—3xyz. IfF = grad f (x, y,2) [5]
+
+BL- =
+
+Moderate then find divF .
+
+@ (a | Verify Cauchy’s mean value theorem for the following functions:
+
+CO-1; SO-1; 7]
+BL- Low f()=x, g(x)=x in2sx<3.
+
+CO-2; SO-1; | (b)
+
+Show that F =(x? —yz)i+(y?—zx) 7 +(z? —xy) is irrotational and hence
+BL- (=? -y2)i +(»? ~zx) 7 +(2?—2y) 7]
+Moderate find its scalar potential.
+--- page 2 ---
+CO-1; SO-1; | (©) 9 ; ; ; 3
+valuate following improper integrals: i) J edx, ii) [ 3 [6]
+Moderate “2 a
+Q3 (a) 1 2-x
+CO-2; SO-1; Evaluate | J ydydx . [7]
+BL- j 0 x?
+Moderate
+CO-3; SO-2; | (b) | Apply Lagrange Multipliers Method to determine minimum distance from 7]
+BL- High origin to the plane3x+2y+z=12.
+tae 0-5: (c) | The temperature of points in space is given byT (%y,z)=xrty—-z.A
+BL- Hig mosquito located at (1,1,2) desires to fly in such a direction that it will get [6]
+warm as soon as possible. In what direction should it move?
+Qa @ .
+CO-1; SO-1; Expand sinx in powers of [:-4). [7]
+BL- Low
+CO-1; SO-1; (b)
+BL- If u=log(x?+y*-2x*y-xy’) then prove that xo 4 yO 3, [7]
+ox * oy ;
+Moderate
+CO-3: $0-2: | ©) | Apply triple integration to find the volume bounded by the coordinate planes
+ae ~ at [6]
+BL- High and the planex+ y+z=1.
+Q5 (a)
+CO-3; SO-2; Apply double integration to find the area of the circle x’? + y? =9. [7]
+BL- High
+CO-2; SO-1; | (b) x ; ‘
+BL- Apply beta functions to evaluate J (1-cos 0) dé. [7]
+Moderate a
+CO-1; SO-1; (c) :
+BL- Evaluate lim wesin2 . [6]
+Moderate ogsin x
+@ |. ; n\
+Q6 i) Test the convergence of following sequence: a, = ri
+a
+CO-1; SO-1; _ 7]
+Bi Low ii) Test the convergence of following series using ratio test 9
+‘n=l
+CO-2; SO-1; | (b)
+BL- Evaluate (i over the volume of the sphere x? + y? +z? =a’. [7]
+
+Moderate
+
+x+y +z
+--- page 3 ---
+| CO-2; SO-2; | (c) | Determine the surface area of the solid obtained by rotating oe
+BL- High
+
+[6]
+y=V9-x° ,-2<x<2 about the x-axis.
+Q7 (a) | Check whether limit exist and if yes, find the limit: [7]
+fis _1: x-y-2 . . . 3.3
+~ Low (920) 2x-y—4 (0,0) x6 + y8 ;
+ieee 80-2; (b) Using Green’s Theorem, evaluate [(2y°de+3xay) where C is the [7]
+BL- High 7“
+boundary of the closed region bounded by y= x and y = x,
+CO-2;SO-1; (c) il . : [6]
+BL- Change the order of integration ikaee y)dydx ,
+™Yoderate Ge .
+````
+
 ## 2022-23 · Final + Re-Exam · Sem 1 · paper c091937fbf0d
 
 - Departments: Common (all branches)
@@ -6911,6 +7208,7 @@ Page |3/3
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/CALCULUS/Calculus, 1st Year, Sem I, Year 2022-23 Final Exam, 2021-22 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 January 2023
 - Text: ocr (3 pages), mean OCR confidence 77.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -6990,7 +7288,6 @@ BL- Low Also find ‘c’.
 CO-1; (b)
 
 S0-1; If u=f — then prove that xt, A A ey, [6]
-BL- xy xz )- ox oy &
 
 Moderate
 
@@ -7091,176 +7388,7 @@ from above.
 YS
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 5 · paper c02f299015e5
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/CALCULUS/Calculus, Sem-V, Final Exam & Re Exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 75.2
-
-````text
-SVKM’S NMIMS po
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year:2023-2024
-
-Program: B. Tech Integrated Stream : All Streams Year: IIL Semester: V
-
-Subject: Calculus Time:(3 hrs) 2-00 p/m to 5:00pm
-Date: 22 ]411]2023 No. of Pages: _03 _
-
-Marks: 100
-
-Final Examination/ Re-examination(2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-i
-“ Answer briefly:
-
-CO-1; (a)
-SO-1;
-BL- Low
-CO-1; (b) P ,
-SO-1; Find all second order partial derivatives of z = log (x +y ) 2
-BL- Low
-
-Ds c < 1
-a : @ Apply beta functions to evaluate J x? (1 x? yi dx.
-BL- Low :
-co; | @) (5)
-SO-1; = - = > =.
-BL- If f= (3x”)i +(5xy) 7 +(xy2°)k , find curlf at (1,2,3).
-Moderate
-Q (a)
-CO-1;
-SO-1;
-BL-Low
-
-Verify Lagrange’s Mean Value Theorem for f(x) =i? +mx-+n in [2,6]. | [5]
-
-[5]
-
-[5]
-
-Verify Rolle's Theorem for the function (x” + sa in [-3,0]. | [7]
---- page 2 ---
-CO-2; (b)
-
-SO-1; Prove that F=(x+2y+az)i +(bx-3y-z)j+(4x+-cy+2z) kis, big
-all : solenoidal and determine a,b and c such that F is irrotational.
-Moderate
-CO-1; (c)
-SO-1;
-, ‘| °° | Evaluate following improper integrals: i — dx, ii dx 6
-BL- . g props eri i) j - +x i) ole , Jl—x? [ i
-Moderate :
-Q3 (@) |. :
-CO-2; .
-$0.1; Evaluate [ J xy(x+ y)dyde. [7]
-BL: ox i
-Moderate _
-ee (b) A rectangular box open at the top has volume of 108 cubic cm. Find the 7
-BL- High dimensions of the box fequinne least material. 7]
-(c) Captain Astro is drifting in space near the sunny side of Mercury and notices
-CO-3; that the hull of her ship is beginning to melt. The temperature in her vicinity
-SO-2; 6
-BL- High is given byT =e“ +e” +e”, where x, yand z are measured in meters. If [6]
-she is at (1,1,1) , in what direction should she proceed in order to cool fastest?
-4 @) 2 3 4
-CO-1; Using Maclaurin’s series, prove that log(1+x) =x—--+—--+..... 7
-SOL 8 P og(1 +x) 3°34 [7]
-BL- Low .
-*
-CO-1; (b) ; ;
-SO-1; . 0 a
-BL- If z=tan(y+ax)+(y-—ax)* then prove that =a =q > [7]
-Moderate
-CO-3; (©) :
-SO- 2; Apply triple integration to find the volume of a sphere of radius a. [6] .
-BL- High
-Q5 (a) : : . 2)
-cO-3: Apply double integration to find the area of the region enclosed by y =x 7
-SO-2; andx=y. ‘ [7]
-BL- High
-CO-2; ()
-SO-1; x 2-x*
-Prove that} xe™* dx-| x°e* dx=
-BL- [ee eae 7
-
-Moderate
---- page 3 ---
-= 9% we wee BP wn
-
-CO; [© 9
-
-SO-1; 2 =
-
-BL- Evaluate lim = * 20857? [6]
-Moderate =
-
-(a) 2
-Q6 i) Test the convergence of following sequence: a, = Z 5 = :
-3n' +n
-
-CO-1;
-
-SO-1; — n 7]
-BL- Low ii) Test the convergence of following series using root wet (5 Z 3] :
-
-mi 2nt+
-
-hae ingeie
-
-SO-1; ire x+yte
-
-BL- Evaluate 1 f J a’ drdydx . a [7]
-Moderate aoe
-
-CO2-; (c) . . : .
-
-$0-2; Find the volume of solid of revolution generated by revolving the area
-
-BL- High — hs wees _ oo. [6]
-
-inded by parabola x° = y, x=3 and x-axis about the x—axis.
-
-Q7 (a) Check whether limit exist and if yes, find the limit: i) | [7]
-CO-1; . xy : . xr-y
-
-SO-1; i oy.) 9 ys’ ") ooh oy x-y
-
-BL- Low
-
-So (>) | Using Green’s theorem, evaluate I(x - 2xy) de +(x? yt 3) dy around the | [7]
-BL- High c
-
-boundary C of the region bounded by y” = 8x and x =2.
-
-CO-2; (c) 38 ~ | [6]
-SO-1; Change the order of integration f f St (x,y) dvdr. ‘
-BL-
-
-Moderate
-
-0x?
-````
-
-## 2022 · Final-Exam · Sem 5 · paper 205b6c932681
+## 2022-23 · Final-Exam · Sem 5 · paper 205b6c932681
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -7785,137 +7913,6 @@ boundary described counter clockwise of the triangle with vertices
 (0,0),(1,0),(1,1).
 
 — — —
-````
-
-## 2022-23 · Re-Exam · paper 83fbe884a65a
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/Calculus/Calculus Batch 2022-23 Re Exam0001.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 75.7
-
-````text
-SVKM’S NMIMS a
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year:2023-2024 ZEEE a
-Program: B. Tech Integrated Stream : All Streams Yeay? Mi Semester: V BN
-Subject: Calculus Tink 3 hrs(2: soe é oop
-\
-Date:1642/2024 | No. ‘ee Pages: ae
-Marks: 100 SS nas
-
-__| Re-examination(2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use. ~~
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly:
-
-CO-1; SO-1; | (@) | Verify Rolle’s Theorem for f (x) =log(x? +6)-log(5x) on [2,3]. [5]
-
-BL- Low
-
-CO-1;SO-1; | (6) | Find all second order partial derivatives of z = x°y— ypr+exy, ‘ [5]
-> BL- Low
-
-(©) * [5]
-CO-2; SO-1; Apply gamma functions to evaluate | Vx e* dk
-
-BL- Low
-
-CO-1; SO-1; (4) | Find gradient of f (x,y,z) axtytz?—3xyz. IfF = grad f (x, y,2) [5]
-
-BL- =
-
-Moderate then find divF .
-
-@ (a | Verify Cauchy’s mean value theorem for the following functions:
-
-CO-1; SO-1; 7]
-BL- Low f()=x, g(x)=x in2sx<3.
-
-CO-2; SO-1; | (b)
-
-Show that F =(x? —yz)i+(y?—zx) 7 +(z? —xy) is irrotational and hence
-BL- (=? -y2)i +(»? ~zx) 7 +(2?—2y) 7]
-Moderate find its scalar potential.
---- page 2 ---
-CO-1; SO-1; | (©) 9 ; ; ; 3
-BL-- E a : - 5 is dx B
-valuate following improper integrals: i) J edx, ii) [ 3 [6]
-Moderate “2 a
-Q3 (a) 1 2-x
-CO-2; SO-1; Evaluate | J ydydx . [7]
-BL- j 0 x?
-Moderate
-CO-3; SO-2; | (b) | Apply Lagrange Multipliers Method to determine minimum distance from 7]
-BL- High origin to the plane3x+2y+z=12.
-tae 0-5: (c) | The temperature of points in space is given byT (%y,z)=xrty—-z.A
-BL- Hig mosquito located at (1,1,2) desires to fly in such a direction that it will get [6]
-warm as soon as possible. In what direction should it move?
-Qa @ .
-CO-1; SO-1; Expand sinx in powers of [:-4). [7]
-BL- Low
-CO-1; SO-1; (b)
-BL- If u=log(x?+y*-2x*y-xy’) then prove that xo 4 yO 3, [7]
-ox * oy ;
-Moderate
-CO-3: $0-2: | ©) | Apply triple integration to find the volume bounded by the coordinate planes
-ae ~ at [6]
-BL- High and the planex+ y+z=1.
-Q5 (a)
-CO-3; SO-2; Apply double integration to find the area of the circle x’? + y? =9. [7]
-BL- High
-CO-2; SO-1; | (b) x ; ‘
-BL- Apply beta functions to evaluate J (1-cos 0) dé. [7]
-Moderate a
-CO-1; SO-1; (c) :
-BL- Evaluate lim wesin2 . [6]
-Moderate ogsin x
-@ |. ; n\
-Q6 i) Test the convergence of following sequence: a, = ri
-a
-CO-1; SO-1; _ 7]
-Bi Low ii) Test the convergence of following series using ratio test 9
-‘n=l
-CO-2; SO-1; | (b)
-BL- Evaluate (i over the volume of the sphere x? + y? +z? =a’. [7]
-
-Moderate
-
-x+y +z
---- page 3 ---
-| CO-2; SO-2; | (c) | Determine the surface area of the solid obtained by rotating oe
-BL- High
-
-[6]
-y=V9-x° ,-2<x<2 about the x-axis.
-Q7 (a) | Check whether limit exist and if yes, find the limit: [7]
-fis _1: x-y-2 . . . 3.3
-ae o i) im MY TE it) im FY ,
-~ Low (920) 2x-y—4 (0,0) x6 + y8 ;
-ieee 80-2; (b) Using Green’s Theorem, evaluate [(2y°de+3xay) where C is the [7]
-BL- High 7“
-boundary of the closed region bounded by y= x and y = x,
-CO-2;SO-1; (c) il . : [6]
-BL- Change the order of integration ikaee y)dydx ,
-™Yoderate Ge .
 ````
 
 ## 2022-23 · Re-Exam · Sem 5 · paper 7e14d28a4863

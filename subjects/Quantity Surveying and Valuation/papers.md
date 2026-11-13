@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/QUANTITY SURVEYING AND VALUATION/QUANTITY SURVEYING AND VALUATION B TECH (CIVIL), 2014-15 FINAL EXAM.pdf`
 - Printed on paper: exam date: 06/05/2015
 - Text: ocr (3 pages), mean OCR confidence 76.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \ SVKM’s NMIMS
@@ -106,9 +107,7 @@ Chainage 0 30 60 90 120 | 150 180 | 210 | 240 270 | 300
 
 RL of
 
-i= wo oS J S wo i) So o hal wo
 Ground (m) | © - .) oe 2 2 a cal Q 2 coal
-a a a a foal a a _ —_ iJ i=
 Sis j;s (FE |S JF JB jets js je
 RL of 101.8 101.5
 formation
@@ -207,7 +206,6 @@ Fig, 4 VGA fa ee] Le
 
 ® No: 4 j—90—|
 
-Hi T . i LZTANCHOR BARS tomm bane.
 tt J 5 =
 it , § ¢
 i LY
@@ -239,6 +237,7 @@ se CI.No 4 Bae
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/QUANTITY SURVEYING AND VALUATION/QUALNTITY SURVEYING AND VALUATION B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 29/06/2015
 - Text: ocr (3 pages), mean OCR confidence 83.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -407,7 +406,6 @@ ROOM ‘BED ROOM | &
 ep 1
 5 VERANDAH | |
 = 20 !
-i F ; A ; a Sq. iy
 45 Projected Chajja ee
 Tread =
 Doors = 100 x 200 Rise = “haw = |

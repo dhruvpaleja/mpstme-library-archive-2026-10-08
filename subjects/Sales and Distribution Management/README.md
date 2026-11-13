@@ -14,22 +14,22 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech AI 7051 | QP_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech DS 7052 | QP_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Sales & Distribution Management(703TM0E002)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBA TECH | Sales and Distribution Management,Final Exam 2024-25.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 9 | MBA TECH | Sales & Distribution Management , Re-exam 2023-24.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 9 | MBA TECH | Sales & Distribution Management,Final,2022-23.pdf |

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_AI_7012/Intelligent Systems - II/QP_Intelligent Systems - II(702AI0C019)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: ocr (6 pages), mean OCR confidence 88.6
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -103,7 +104,6 @@ BL-1,2 e¢ Compare GMM with K-means algorithm
 e Derive the equation for Log likelihood function.
 e What will be the no of parameters to be computed if K=5
 
-FAA A A A CIC Dk eae oe ae eae
 --- page 3 ---
 Q3 a) [10]
 
@@ -147,7 +147,6 @@ BL-2 B={0.2/slow+0.7/moderate+0.3/fast}
 
 1. Find the fuzzy relation R=AxB (Cartesian Product)
 
-FR A A A A A ICI ae oe ae eae
 --- page 4 ---
 2. Given another fuzzy set:
 C={0.3/small+0. 1/medium+0.4/large}
@@ -211,7 +210,6 @@ terms of guest retention and inter-city transfers.
 
 3. Illustrate the process with a state-transition diagram.
 
-FAC ACA A CIC 7) ea a eae
 --- page 5 ---
 4. If today’s guest counts are [50, 30, 20] in P, L, R respectively, find
 the expected counts tomorrow.
@@ -305,7 +303,6 @@ and 0.7
 
 Also update the pheromone matrix after | iteration
 
-FA A A AICI GR a oe a eae
 ````
 
 ## 2025-26 · Final-Exam · Sem 5 · paper 6f4daf8a75c0

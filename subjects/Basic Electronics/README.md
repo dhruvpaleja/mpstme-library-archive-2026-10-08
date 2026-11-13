@@ -1,6 +1,6 @@
 # Basic Electronics
 
-**109** unique papers (137 copies across programmes) · 2004-05 to 2024-25 · 4 programmes · Sem 2, Sem 3, Sem 4, Trim 2
+**107** unique papers (136 copies across programmes) · 2004-05 to 2024-25 · 4 programmes · Sem 2, Sem 3, Sem 4, Trim 2
 
 Download only this subject, sorted by academic year:
 
@@ -17,6 +17,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Basic Electronics Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Basic Electronics Batch 2022-23,2023-24,2024-25 Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Basic Electronics Batch 2023-24 Final Batch 2021-22,2022-23 Re Exam.pdf |
+| 2023-24 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Basic Electronics Batch 2021-22,2022-23,2023-24 Re Exam0001.pdf [1] |
 | 2022 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Basic Ekectronics Batch 2022 Final0001.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Basic Electronics Batch 2022-23 Re Exam0001.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Basic Electronics Batch 2022-23 Re Exam0002.pdf |
@@ -58,7 +59,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2014-15 | Re-Exam | Question paper | Sem 2 | MBA TECH | BASIC ELECTRONICS BATCH 2014-2015 RE EXAM.pdf |
 | 2014-15 | Re-Exam | Question paper | Sem 2 | MBA TECH | BASIC ELECTRONICS BATCH 2014-2015 RE EXAM_b5906f0fdf.pdf |
 | 2014-15 | Re-Exam | Question paper | Sem 2 | MBA TECH | Basic Electronics Batch (2014-15) Re Exam.pdf |
-| 2014-15 | Re-Exam | Question paper | Sem 2 | MBA TECH | Basic Electronics Batch 2014-15 Re Exam.pdf [1] |
+| 2014-15 | Re-Exam | Question paper | Sem 2 | MBA TECH | Basic Electronics Batch 2014-15 Re Exam.pdf [2] |
 | 2014-15 | Re-Exam | Question paper | Sem 2 | MBA TECH | Basic Electronics Batch 2014-15 Re Exam_90b86b6739.pdf |
 | 2013-14 | — | Question paper | Sem 2 | MBA TECH | BASIC ELECTRONICS 2013-14.pdf |
 | 2013-14 | Final-Exam | Question paper | Sem 2 | B TECH | BASIC ELECTRONICS ALL STREAMS 2013-14 FINAL EXAM.pdf |
@@ -87,7 +88,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2011-12 | Re-Exam | Question paper | Trim 2 | MBA TECH | BASIC ELECTRONICS BATCH 2011-12 RE EXAM.pdf |
 | 2011-12 | Re-Exam | Question paper | Trim 2 | MBA TECH | BASIC ELECTRONICS BATCH 2011-12 RE EXAM0001.pdf |
 | 2011-12 | Re-Exam | Question paper | Trim 2 | MBA TECH | BASIC ELECTRONICS II MBA TECH 2011-12 RE EXAM.pdf |
-| 2010-11 | — | Question paper | Trim 2 | B TECH | 2010-2011 (1).pdf |
 | 2010-11 | — | Question paper | Trim 2 | B TECH | 2010-2011.pdf |
 | 2010-11 | — | Question paper | Trim 2 | B TECH | BASIC ELECTRONICS B TECH (ALL STREAMS), BATCH 10-11, 11-0001.pdf |
 | 2010-11 | — | Question paper | Trim 2 | B TECH | BASIC ELECTRONICS B TECH (ALL STREAMS), BATCH 10-11,11-10001.pdf |
@@ -109,13 +109,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2008-09 | Re-Exam | Question paper | Trim 2 | MBA TECH | 2008-2009 Batch re exam.pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 2 | MBA TECH | 2008-2009 re exam I(3).pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 2 | MBA TECH | 2008-2009 re exam(13).pdf |
-| 2007-08 | — | Question paper | Trim 2 | B TECH | 2007-2008.pdf |
 | 2007-08 | — | Question paper | Trim 2 | MBA TECH | 2007-2008(20).pdf |
-| 2007-08 | Re-Exam | Question paper | Trim 2 | B TECH | 2007-2008 re exam (1).pdf |
 | 2007-08 | Re-Exam | Question paper | Trim 2 | B TECH | 2007-2008 re exam.pdf |
 | 2007-08 | Re-Exam | Question paper | Trim 2 | MBA TECH | 2007-2008 re exam I(1).pdf |
 | 2007-08 | Re-Exam | Question paper | Trim 2 | MBA TECH | 2007-2008 re exam(4).pdf |
-| 2006-07 | — | Question paper | Trim 2 | B TECH | 2006-2007 (1).pdf |
 | 2006-07 | — | Question paper | Trim 2 | B TECH | 2006-2007.pdf |
 | 2006-07 | — | Question paper | Trim 2 | MBA TECH | 2006-2007(6).pdf |
 | 2006-07 | Re-Exam | Question paper | Trim 2 | B TECH | 2006-2007 re exam.pdf |
@@ -123,9 +120,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2006-07 | Re-Exam | Question paper | Trim 2 | MBA TECH | 2006-2007 re exam(3).pdf |
 | 2005-06 | — | Question paper | Trim 2 | MBA TECH | 2005-2006(7).pdf |
 | 2004-05 | — | Question paper | Trim 2 | MBA TECH | 2004-2005(9).pdf |
+| — | — | Question paper | Trim 2 | B TECH | scan0002(8) (1).pdf [3] |
 
 **Notes on papers placed here from a different folder**
 
-1. filed under "ENGINEERING MECHANICS II" but the file name says "Basic Electronics"
+1. filed under "Basic of Engineering Chemistry" but the paper is headed "Basic Electronics"
+2. filed under "ENGINEERING MECHANICS II" but the file name says "Basic Electronics"
+3. filed under "COMMUNICATION SKILLS" but the paper is headed "Basic Electronics"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

@@ -16,28 +16,28 @@ Also filed as: `Analytics in Operation and Supply Chain Management`, `ANALYTICS 
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech AI 7051, MBATech DS 7052 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.docx |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech AI 7051, MBATech DS 7052 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 10 | MBA TECH | Analytics in operations...Final exam 2018-19.pdf |
 | 2017-18 | — | Question paper | Sem 10 | MBA TECH | Analytics_in_operations_and_supply_chain_Management_17-18_.pdf |
 | — | — | Question paper | Sem 10 | MBA TECH | Analytics in Operation and Supply Chain Management.pdf |

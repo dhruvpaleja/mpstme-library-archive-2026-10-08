@@ -1,8 +1,381 @@
 # Data Encryption and Network Security: question papers in full
 
-13 unique papers · 2013-14 to 2021-22 · Electronics and Telecommunication
+13 unique papers · 2013-14 to 2022-23 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2022-23 · Exam not stated · Sem 8 · paper 88667316632d
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/DATA ENCRYPTION AND NETWORK SECURITY/Data Encryption and Network Security.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 84.5
+
+````text
+y
+
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGI
+
+Academic Year: 2022-2023 ie
+
+Program/s: MBA Tech Year: Four, Semester: Vill
+
+Stream/s ; Electronics and Telecommunication Engineering
+
+Subject: Data Encryption and Network Security Time: 3 hrs 40:00amto 1:00 pm)
+Date:__03 / 07 / 2023 No. of Pages: 4
+
+Marks: 100
+
+__Re-Examination (2021-22]2022- 23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+— 1) Question No. _1____is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly:
+a. | Classify each of the following attacks as active or passive attack. Justify with a real
+CO-1 life example for each attack.
+SO-1 ») Repudiati [4]
+BL-4 i) Repudiation
+ii) Snooping
+L Gas b. | For 2-DES with two keys, how many false keys are possible? What would be the
+oO SO-1 number of false keys if 3-DES with 2 keys is used? For better security, justify that | [4]
+BL-1,5 the number of false keys should be as large as possible.
+CO-3 c. | Use Chinese Remainder Theorem to solve the following- [4]
+Bee 13mod 21 - 11 mode 21
+d. | Two users A and B exchange their session keys using Diffi Helman key exchange | [4]
+CO- 1 algorithm. They agree upon prime number q = 7. Prove that 3 is a primitive element
+abe of 7. User A chooses secret number X4 = 2 and B chooses Xz = 4. Determine
+session key.
+e. . . . . . [4]
+CO- 4 List the names of security algorithms provided at different layers of TCP/IP
+ape rotocol
+BL-1 P ;
+--- page 2 ---
+Q2 a. | Illustrate DES encryption with the help of a neat block diagram. Describe
+
+CO-2 functions of each block and length of output of each block. ‘ [10]
+BI.2 |
+Q2 b. Explain briefly about-
+CO-1 i) Output Feedback (OFB) mode of operation for encryption and two key 110}
+SO-1 features of OFB
+nee ii) Attacks on RSA
+a. | Consider that Additive cipher is used to encrypt 26 alphabets of English letters.
+Q3 i) Determine cipher text for the following:
+CO-2 , Plaintext: COMMITTEE, Key: 3 [10]
+Ae ii) Discuss Brute Force, known plaintext-ciphertext and statistical attacks on
+Additive cipher. Refer part (i) of this question to describe these attacks.
+b. | Consider AES-128 for data encryption.
+i) Explain with the help of block diagram, the process of third round of
+encryption in details.
+ii) Determine the output of ‘shift rows’ operation for the given input to
+e 5 second round. Required table is given at the end of question paper.
+' :
+BL. 4 09 09 6A 6A
+09 09 6A 6A
+09 09 6A 6A
+09 09 6A 6A
+Input to second round
+a. | For RSA encryption, user B chooses two prime numbers 13 and 19. His public
+04 key is {7, n}.
+C0-3 i) Determine n 110]
+SO-2 ii) Determine private key of user, B. Use extended Euclidean algorithm.
+BLS iii) User, B shares his public key with user, A. User, A encrypts message, M=3
+and sends to user B, determine encrypted message.
+Q4 b. | Show the steps for entity identification using challenge response based on
+So asymmetric. key cipher. Justify that the steps prevent unauthorized user from [10]
+BL-2, 5 attacks.
+--- page 3 ---
+Q5
+
+j
+
+Explain functional block diagram of SHA-512. Justify that it generates fixed length
+
+Cco-4 ; [10]
+SO-2 hash code for a variable length message.
+
+BL-2
+
+Q5
+
+co-4 List the types of required for Pretty Good Privacy (PGP) for e-mail security. 110]
+SO-2 Show the details of key rings.
+
+BL-1,2
+
+Q6
+
+C0-4 Show protocols used in Secure Socket Layer (SSL). Explain working of Record 110]
+SO-1 Protocol in details.
+
+BL-1,5
+
+Q6 [10]
+oo Why is IP security required? Show Transport mode of operation for IP Security.
+
+BL-1, 2
+
+Qi Explain the following- [10]
+Soo i) Buffer overflow attack
+
+BL-5 ii) Miller Rabin algorithm for primality testing
+
+Q7 List the functions of Certification authority. Describe functions of each field of [10]
+co-4 X.509 Certificate.
+
+SO-2
+
+BL-2
+--- page 4 ---
+S-Box for AES
+
+¥
+
+a 2 3 4 5 6 7 § 9 Al] B c;)oD0],E F
+63 | 7C | 77 | 7B} F2 | 6B | 6F | CS | 30 | OL | 67 | 2B | FE} D7 | AB] 76
+CA] 8&2 | CO | 7D] FA] 59 | 47 | PO | AD] D4] A? |] AF] 9C | A4] 72 | CO
+B? | FD | 93 | 26 | 36 | 3F | Fr | CC] 34 | AS] ES} Fl | 71 | DS | 31} 15
+o4 | C7 | 23 | C3 | 18 | 96 | OS | SA] OF | 12 | 80 | E2 | BB] 27} B2] 75
+Oo | 83 |}. 2C |] 1A] 1B | 6B | 5A |] AD | 52] 3B | D6 | B3 | 29 | B3 | 2F | 84
+53] Di | W |ED| 20 | FC | Bi | 5B] 6A | CB| BE] 39 | 44 | 4c | 58 | CF
+DO | EF | AA| FB | 43 | 4D | 33] 85 | 45 | FO | 02 | 7F | 50 | 3C | OF | AS
+St | AJ] 40 | 8F | 92 | 9D |) 38 | F5' | BC | B6 | DA} 21 | 10 | FF | F3 | D2
+cD] 0c 3 | EC) SF | oF | 44.) 19. | C4] AT | FE | 3D] 64 | 5D] 19 | 73
+60 | SL | 4F | DC] 22 | 2A | 90 | 88 | 46 | EE] BS | 14 | DE} 5E | 0B | DB
+EO | 32 | 3A) 0A] 49 | 06 | 24 | 5C | C2 |} DB] AC] 62 | 91 | 95 | E4] 79
+E7 | C8 | 37 | 6D | 8D | DS | 4E ] AD] 6C | 56 | F4 | EA} 65 | 7A] AE] 08
+BA | 78 | 25 | 3B | iC |] Aé| B4 | C6 | ES | DD| 74 | 1F | 4B | BD] &B | 8A
+70 | 3E | BS | 66 | 48 3) F6 } OE | 61 | 35 | 57.) BO] 86 | C1 | 1D] 9E
+El | F8 | 98 | 1i | 69 | DO} SE | 94 | 9B] 1E | 87 | ED | CE] 55 | 28 | DF
+8c | Al | 89 | OD | BF | EG | 423 | 68 | 41 | 99 | 2D] OF | BO | 54 | BB] 16
+
+{a} 8-box
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper f576de11750c
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/DATA ENCRYPTION AND NETWORK SECURITY/Data encryption and Network security_f576de1175.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 78.2
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+i \
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ‘ENGINEERING? ‘
+Academic Year: 2022-2023 SETS:
+Program/s: MBA Tech Year: Four, Semester: VIII
+Stream/s ; Electronics and Telecommunication Emgineering
+Subject: Data Encryption and Network Security Time: 3 hrs (loiooamto 12pm)
+Date:_2 / 5 / 2023 No. of Pages: 5
+Marks: 100
+
+Final Examination/@ Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+= Answer briefly:
+
+aaa a. | In relation to cryptography explain each of the following with a real life application.
+
+SO-1 i) Confidentiality [4]
+
+BL-2 ii) Integrity
+
+CO-2 b. | Explain functional block diagram of encryption and decryption using 3-DES with 3
+
+7 keys. Compare security provided by 3-DES with 3 keys and 3-DES with 2 keys. (4)
+™ |CO-3 ce. | Determine 2’'mod 11 using appropriate theorem. Verify the result using traditional [4]
+
+SO-2
+
+BL- 5 method.
+
+ed d. | Assume that N users communicate among themselves using symmetric key | [4]
+
+SO- 2 cryptography. If N is large, list the challenges involved in the distribution of keys.
+
+BL-4 Prove that Key Distribution Centre (KDC) can address the above challenges.
+
+e Consider two users, A and B using RSA encryption. Assume that user A’s ID is 4. [4]
+
+co-3 Private key and public key of User, A are {3, 33} and {e, 33} respectively.
+
+SoO-2 i) Determine the value of e.
+
+BL-5 ii) If User A is required to authenticate her by encrypting her ID, determine
+
+encrypted ID.
+--- page 2 ---
+a. | Consider that Affine cipher is used to encrypt 26 alphabets of English letters.
+i) Determine cipher text for the following:
+Plaintext: FAB
+
+Q2 .
+0-12 Key pair: 5, 4 [10]
+SO-2 ii) Demonstrate statistical attack on Affine cipher.
+BL-5,2,5 iii) If plaintext is ‘AB’ and corresponding ciphertext is ‘EH’, prove that the key
+pair can be derived if this plaintext and ciphertext is known to the attacker.
+Determine the key pair.
+b. | Illustrate DES encryption with the help of functional block diagram. Consider that
+the output of second round of DES encryption is -
+Q2 {10000000 10000000 00000000 00000000 10000000 10000000 00000000 00000000}.
+CO-2 Subkey for third round is — : [10]
+SM, 5 {000000 000001 000000 000000 000000 000000 000000 000001}
+Determine the output of S-Boxes in the third round of encryption. Required tables
+and subkey are given on the last page of question paper.
+Q3 a.
+co-2 Explain AES encryption and decryption with the help of block diagram. Also show 110]
+SO-2 sequence of words in subkeys required for the rounds.
+BL-1,2
+b. | Consider that RSA is used for the transaction of messages between users, A and B.
+Q3 For user B, PR and PUsg are private and public keys respectively. User B chooses
+CO-3 two prime numbers, 11 and 23. [10]
+SO-2 i) Prove that user, B can choose PUp = {7, 253} and PRs ={63, 253}. Use
+BL-S Extended Euclidean algorithm to prove the value of keys.
+ii) Ifuser A encrypts message 2, determine encrypted message.
+Q4 a. | Explain the following in brief -
+CO-1 i) Cipher Block Chaining (CBC) mode of operation for encryption and one of [10]
+SO-1 its key features
+sla ii) Diffi-Hellman key exchange algorithm
+Q4 b
+coO-4 Show how Hash function is used to verify message integrity of message. Prove that 110)
+5 ; Hash function should have large preimage, second preimage and collision resistance.
+--- page 3 ---
+Q5 a.
+
+CO-4 Illustrate entity identification done using challenge response based on symmetric key [10]
+SO-2 cipher. Justify your answer using functional block diagram.
+BL-2
+Q5 b.
+CO-4 Show working of Pretty Good Privacy (PGP) for providing email security. Explain [10]
+SO-2 function of each step.
+BL-2
+a. | Assume that Needham-Schroeder Protocol is used for key management between
+Alice and Bob for symmetric key cryptography. Describe functions of the following
+transactions. Also show how adversary is prevented from accessing the keys:
+i) Transaction between Alice and Key Distribution Centre (KDC)
+Alice KDC
+QO Altice. Bob, Ry >
+Q6 ii) Transaction between Alice and Bob
+cO-4 Alice Bob [10]
+SO-2
+BL-4 Ka
+
+C3] - — aioe, ass en 7 —p
+
+Ticket for Bob
+
+eo ; Kan Ry. a 7)
+
+Kan
+tS) sie - Ko fib — 2 |
+
+Where,
+
+Ky a Encrypted with Alice-KDC secret key KDC: Key-distribution center
+£ Ra: Alice's nonce
+Ky a Encrypted with Bob-KDC secret key * 7
+° Ry: Bob's nonee
+
+Kap & Encrypted with Alice-Bob session key
+
+Session key between Alice and Bob
+--- page 4 ---
+Q6 b. [10]
+
+cO-4 List the protocols used at Secure Socket Layer (SSL). Explain function of each
+
+SO-2 protocol in brief.
+
+BL-1, 2
+
+Q7 a. | Compare Tunnel and Transport mode of operation for IP security. Explain Tunnel [10]
+co-4 mode in details.
+
+SO-2
+
+BL-5
+
+Q7 b. [10]
+cO-4 List features and functions Packet filtering firewall.
+
+SO-2
+
+BL-1
+
+Expansion and permutation table
+
+32 1 2 3 4 B)
+4 5 6 7 8 9
+8 9 10 11 12 13
+12 q3 14 15 16 17
+16 17 18 19 20 21
+20 21 22 23 24 25
+24 25 26 27 28 29
+28 29 30 31 32 1
+--- page 5 ---
+Sx
+
+3;
+
+S- Boxes
+
+OM Deed A 2, oo ee
+S& 1.864“ 6@u fs £6 8 4 tf Be os lh
+36 4 7%S 2 © ww eo@ 6st & oe ss
+9 Mi?tM ® @ B@ 15 8 en sl lk
+S 7 0 8 3 #@€ 6 WwW 2 bth ee es
+iv Gb 0 6 29 8@ fF §@ eu a sk lle
+76 Mw 3 80 6 8 wm ttt tc ke aga
+oe 6 fF OMH FT BEF ge Gt lel lg
+S-Boxes
+BE ak ae ee
+oc 8 4 2 7 2S. 5S 6 a i oe lls le
+2M UN 5.2) U8 PE UMUC
+e353 (2532). $8 (S48 07 Wo PF Rk bo
+£2 1s 0 ee a i
+6 0B Oe 8 ee a |
+7m 4°13 °8 @ mM 2 6 6 oe 5 os tll Gg
+Pt BT 4 0 ee ee
+5
+````
 
 ## 2021-22 · Final-Exam · Sem 8 · paper b6b5068bcc1d
 
@@ -11,6 +384,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_08/DATA ENCRYPTION AND NETWORK SECURITY/Data Encryption and Network Security,Sem8,Final,2021-22.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
 - Text: ocr (5 pages), mean OCR confidence 77.1
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS :
@@ -181,22 +555,16 @@ ot& 7 464 2 B@ 1 OW 6 BW F 5 2 8
 2 164 6 DD &@ 21 & 2 FJ 32 W SF 4B
 uw. os 2 4 8 £ 7 $$ 1 3 Bw OD 6 13
 5 1 #@ 4 6 NU 304 9 7 2 BB @ § W
-3B 4 7 H& 2 8 Ww oO tw 6 Ah §
 a6 7H ww 4h 1 5 § B & 3 2
 “GB oF WwW 1 3 1 4 2 H &€ F 2B O 5 & 4
-mo & 9 4 6 39 1 5 EF WG 2 F Hh 4 2 &
 3 7 0 8 & § 6 DW 2 8 5 HB HU 1
-Bf 4 9 8 I 3 & HH 1 2 BW § DW He F
 16 @ & 6 8 £ 7 41 & 3 th 5 2 FB
 70 4 39 0 6 WM t 2 &€ 5 fh B 4
-Bb FEM 5 6 6 O 9 4 7 ZF 2B ft W fw FB
-nm o&   & BR UM 7 UW 3 3 & S$ 2 BB 4
 3 6 0 @€ BW 1 9 4 5 1 & F 2
 2 2 4 1 7 1D it 6 & § 3 15 2 @ 4 4
 wu? ? 47 8 1 3 0 ft W 3 8 B &
 4 2 E Wow F & & 9 2 S$ & 3 & HK
 1] Ew 7? tow o2 1 6 Gb 0 8 MM & 5 3
-ce 1 wo 6 8 2 6 &€ 0 B 3 4   F 5 tt
 mw 6 4 2 F 2 8 S$ 6 1 B&B & & NF EF
 9 4 HG 3 2 &€ 2 3 F a2 4 W 1B é
 £2 43 2 122 9 5S B& O tf [ 7 6 8 & 8
@@ -245,6 +613,7 @@ Ao| £0] 3B | 4D |] AE| 24 /[ F5 | BO | cs | EB] BB| 3C | 83 | 53 | 99 | 61
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_08/DATA ENCRYPTION AND NETWORK SECURITY/DTA ENCRYPTION & NETWORK SECURITY, 2021-22, RE EXAM.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 June 2022
 - Text: ocr (5 pages), mean OCR confidence 77.8
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -413,18 +782,13 @@ Bs
 S-boxes of Data Encryption standard (DES)
 
 ee ee ee | |
-o 6 7 46 2 3 1 WO 6 2 HN F FS 3 8B
 £ 1 4 8 DB 6 2 MN & @ 9 F F W 5 a
 5 i & 2 4 9 E 7 § 1 38 Bw 4 6 B
 5s | 8 Ww 6 UF 4 ¢ 7 2 BR 8 5 W
-390 4 7 I 2 8§ MW GO £ MW 6 8 HS
 a4 FW WwW 4B 1 § 8 BB 6 9 3 2 35
-3 8 1 1 3 is 4 2 6 F BW O 5 BH BD
-Ww 0 9 W- 6 9 H § #£ 1 FT H 4 2 8
 |) a rE a |
 3B 6 4 59 8 1 F BDH § 2 B $ WM F
 } © 3 0 6 B89 & 7 4 1 3 H 5 2 2
-7 8 MW 2 0 6 9 W tf 2 &€ S Hh Bw 4 35
 3B ok UW 5 6 18 GO 3 4 7 F 2B FE WwW |
 No6 9 & BoM oF W & 1 F w S$ 2 & 4
 3° oO 6 0 1% &§ 4 5 WW F 2
@@ -435,13 +799,9 @@ nog 2 7 £ 4 2 2 6 5 Oo 9 W 4 5 3
 2 1 0 6 9 2 6 &€ O 3 3 £ MH F 5 Hl
 wo 4 2 F 2 Fe §$ 6 1 8 & & 3 6
 oo § 2 &€ 2 3 7 9 4 WOW 1 BUN G6
-4 3 2 2 9 5 18 W tL MH £ F & 9 8 B
-s 2 4 6 Gf & 122 3 2 9 F $$ W 6 I
 Fe ee a |
-if 4 ik Wo om of 7 Wm 6b 6 8 O 5 & 2
 6H B € t @ 0 7 9 5 O I MH 2 2
 Bb 2 8 4 6 1 Hh 1 @ 9 3 B&B §$ BR FT
-16 Db &€ W 3 F 4 B® S$ 6 HW O HW 5 2
 7 oH 4 1 9 2 M 2 0 & © 1 1 3 5 &
 2 4 o7 4 «Wb 8 12 0 2 9 3 5 6 ON
 
@@ -477,6 +837,7 @@ F |sc|] ail so |op |] BF] E6 | 42 | 68 | 41 | 99 | 2D | OF | BO | 54 | BB 16 »
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_08/DATA ENCRYPTION AND NETWORK SECURITY/DATA ENCRYPTION AND NETWORK SECURITY 2018-19 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70
 - Text: ocr (3 pages), mean OCR confidence 81.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ‘ SVKM’S NMIMS
@@ -583,7 +944,6 @@ provides security.
 (ii) Packet filtering firewall
 (ii) Diffi-Hellman Key exchange
 --- page 3 ---
-{ 2 3 4 a 6 7 8 % A B G D E F
 a 63 | 70 | 77 | 7B | F2 | 6B | 6F | CS | 30) 01 | 67 | 2B | -FE |} D? | AB} 7
 1 CA} 82) Co | 7D | FA | 59) 47 |) Fe | AD) D4 |) AZ] AP | OC | A4 } 72 | CO
 2 B7 | FD | 93 | 26 | 36-| 3F-| FR |) CC |-34) AS) BS | Fi.) 7i-| DS [o3t | 15
@@ -1377,392 +1737,4 @@ Q. 7 Write short notes on any TWO:
 (d) IDEA, the private key system
 
 x x
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 88667316632d
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/DATA ENCRYPTION AND NETWORK SECURITY/Data Encryption and Network Security.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 84.5
-
-````text
-y
-
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGI
-
-Academic Year: 2022-2023 ie
-
-Program/s: MBA Tech Year: Four, Semester: Vill
-
-Stream/s ; Electronics and Telecommunication Engineering
-
-Subject: Data Encryption and Network Security Time: 3 hrs 40:00amto 1:00 pm)
-Date:__03 / 07 / 2023 No. of Pages: 4
-
-Marks: 100
-
-__Re-Examination (2021-22]2022- 23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-— 1) Question No. _1____is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly:
-a. | Classify each of the following attacks as active or passive attack. Justify with a real
-CO-1 life example for each attack.
-SO-1 ») Repudiati [4]
-BL-4 i) Repudiation
-ii) Snooping
-L Gas b. | For 2-DES with two keys, how many false keys are possible? What would be the
-oO SO-1 number of false keys if 3-DES with 2 keys is used? For better security, justify that | [4]
-BL-1,5 the number of false keys should be as large as possible.
-CO-3 c. | Use Chinese Remainder Theorem to solve the following- [4]
-Bee 13mod 21 - 11 mode 21
-d. | Two users A and B exchange their session keys using Diffi Helman key exchange | [4]
-CO- 1 algorithm. They agree upon prime number q = 7. Prove that 3 is a primitive element
-abe of 7. User A chooses secret number X4 = 2 and B chooses Xz = 4. Determine
-session key.
-e. . . . . . [4]
-CO- 4 List the names of security algorithms provided at different layers of TCP/IP
-ape rotocol
-BL-1 P ;
---- page 2 ---
-Q2 a. | Illustrate DES encryption with the help of a neat block diagram. Describe
-
-CO-2 functions of each block and length of output of each block. ‘ [10]
-BI.2 |
-Q2 b. Explain briefly about-
-CO-1 i) Output Feedback (OFB) mode of operation for encryption and two key 110}
-SO-1 features of OFB
-nee ii) Attacks on RSA
-a. | Consider that Additive cipher is used to encrypt 26 alphabets of English letters.
-Q3 i) Determine cipher text for the following:
-CO-2 , Plaintext: COMMITTEE, Key: 3 [10]
-Ae ii) Discuss Brute Force, known plaintext-ciphertext and statistical attacks on
-Additive cipher. Refer part (i) of this question to describe these attacks.
-b. | Consider AES-128 for data encryption.
-i) Explain with the help of block diagram, the process of third round of
-encryption in details.
-ii) Determine the output of ‘shift rows’ operation for the given input to
-e 5 second round. Required table is given at the end of question paper.
-' :
-BL. 4 09 09 6A 6A
-09 09 6A 6A
-09 09 6A 6A
-09 09 6A 6A
-Input to second round
-a. | For RSA encryption, user B chooses two prime numbers 13 and 19. His public
-04 key is {7, n}.
-C0-3 i) Determine n 110]
-SO-2 ii) Determine private key of user, B. Use extended Euclidean algorithm.
-BLS iii) User, B shares his public key with user, A. User, A encrypts message, M=3
-and sends to user B, determine encrypted message.
-Q4 b. | Show the steps for entity identification using challenge response based on
-So asymmetric. key cipher. Justify that the steps prevent unauthorized user from [10]
-BL-2, 5 attacks.
---- page 3 ---
-Q5
-
-j
-
-Explain functional block diagram of SHA-512. Justify that it generates fixed length
-
-Cco-4 ; [10]
-SO-2 hash code for a variable length message.
-
-BL-2
-
-Q5
-
-co-4 List the types of required for Pretty Good Privacy (PGP) for e-mail security. 110]
-SO-2 Show the details of key rings.
-
-BL-1,2
-
-Q6
-
-C0-4 Show protocols used in Secure Socket Layer (SSL). Explain working of Record 110]
-SO-1 Protocol in details.
-
-BL-1,5
-
-Q6 [10]
-oo Why is IP security required? Show Transport mode of operation for IP Security.
-
-BL-1, 2
-
-Qi Explain the following- [10]
-Soo i) Buffer overflow attack
-
-BL-5 ii) Miller Rabin algorithm for primality testing
-
-Q7 List the functions of Certification authority. Describe functions of each field of [10]
-co-4 X.509 Certificate.
-
-SO-2
-
-BL-2
---- page 4 ---
-S-Box for AES
-
-¥
-
-a 2 3 4 5 6 7 § 9 Al] B c;)oD0],E F
-63 | 7C | 77 | 7B} F2 | 6B | 6F | CS | 30 | OL | 67 | 2B | FE} D7 | AB] 76
-CA] 8&2 | CO | 7D] FA] 59 | 47 | PO | AD] D4] A? |] AF] 9C | A4] 72 | CO
-B? | FD | 93 | 26 | 36 | 3F | Fr | CC] 34 | AS] ES} Fl | 71 | DS | 31} 15
-o4 | C7 | 23 | C3 | 18 | 96 | OS | SA] OF | 12 | 80 | E2 | BB] 27} B2] 75
-Oo | 83 |}. 2C |] 1A] 1B | 6B | 5A |] AD | 52] 3B | D6 | B3 | 29 | B3 | 2F | 84
-53] Di | W |ED| 20 | FC | Bi | 5B] 6A | CB| BE] 39 | 44 | 4c | 58 | CF
-DO | EF | AA| FB | 43 | 4D | 33] 85 | 45 | FO | 02 | 7F | 50 | 3C | OF | AS
-St | AJ] 40 | 8F | 92 | 9D |) 38 | F5' | BC | B6 | DA} 21 | 10 | FF | F3 | D2
-cD] 0c 3 | EC) SF | oF | 44.) 19. | C4] AT | FE | 3D] 64 | 5D] 19 | 73
-60 | SL | 4F | DC] 22 | 2A | 90 | 88 | 46 | EE] BS | 14 | DE} 5E | 0B | DB
-EO | 32 | 3A) 0A] 49 | 06 | 24 | 5C | C2 |} DB] AC] 62 | 91 | 95 | E4] 79
-E7 | C8 | 37 | 6D | 8D | DS | 4E ] AD] 6C | 56 | F4 | EA} 65 | 7A] AE] 08
-BA | 78 | 25 | 3B | iC |] Aé| B4 | C6 | ES | DD| 74 | 1F | 4B | BD] &B | 8A
-70 | 3E | BS | 66 | 48 3) F6 } OE | 61 | 35 | 57.) BO] 86 | C1 | 1D] 9E
-El | F8 | 98 | 1i | 69 | DO} SE | 94 | 9B] 1E | 87 | ED | CE] 55 | 28 | DF
-8c | Al | 89 | OD | BF | EG | 423 | 68 | 41 | 99 | 2D] OF | BO | 54 | BB] 16
-
-{a} 8-box
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper f576de11750c
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/DATA ENCRYPTION AND NETWORK SECURITY/Data encryption and Network security_f576de1175.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (5 pages), mean OCR confidence 78.2
-
-````text
-SVKM’S NMIMS
-
-i \
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ‘ENGINEERING? ‘
-Academic Year: 2022-2023 SETS:
-Program/s: MBA Tech Year: Four, Semester: VIII
-Stream/s ; Electronics and Telecommunication Emgineering
-Subject: Data Encryption and Network Security Time: 3 hrs (loiooamto 12pm)
-Date:_2 / 5 / 2023 No. of Pages: 5
-Marks: 100
-
-Final Examination/@ Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-= Answer briefly:
-
-aaa a. | In relation to cryptography explain each of the following with a real life application.
-
-SO-1 i) Confidentiality [4]
-
-BL-2 ii) Integrity
-
-CO-2 b. | Explain functional block diagram of encryption and decryption using 3-DES with 3
-
-7 keys. Compare security provided by 3-DES with 3 keys and 3-DES with 2 keys. (4)
-™ |CO-3 ce. | Determine 2’'mod 11 using appropriate theorem. Verify the result using traditional [4]
-
-SO-2
-
-BL- 5 method.
-
-ed d. | Assume that N users communicate among themselves using symmetric key | [4]
-
-SO- 2 cryptography. If N is large, list the challenges involved in the distribution of keys.
-
-BL-4 Prove that Key Distribution Centre (KDC) can address the above challenges.
-
-e Consider two users, A and B using RSA encryption. Assume that user A’s ID is 4. [4]
-
-co-3 Private key and public key of User, A are {3, 33} and {e, 33} respectively.
-
-SoO-2 i) Determine the value of e.
-
-BL-5 ii) If User A is required to authenticate her by encrypting her ID, determine
-
-encrypted ID.
---- page 2 ---
-a. | Consider that Affine cipher is used to encrypt 26 alphabets of English letters.
-i) Determine cipher text for the following:
-Plaintext: FAB
-
-Q2 .
-0-12 Key pair: 5, 4 [10]
-SO-2 ii) Demonstrate statistical attack on Affine cipher.
-BL-5,2,5 iii) If plaintext is ‘AB’ and corresponding ciphertext is ‘EH’, prove that the key
-pair can be derived if this plaintext and ciphertext is known to the attacker.
-Determine the key pair.
-b. | Illustrate DES encryption with the help of functional block diagram. Consider that
-the output of second round of DES encryption is -
-Q2 {10000000 10000000 00000000 00000000 10000000 10000000 00000000 00000000}.
-CO-2 Subkey for third round is — : [10]
-SM, 5 {000000 000001 000000 000000 000000 000000 000000 000001}
-Determine the output of S-Boxes in the third round of encryption. Required tables
-and subkey are given on the last page of question paper.
-Q3 a.
-co-2 Explain AES encryption and decryption with the help of block diagram. Also show 110]
-SO-2 sequence of words in subkeys required for the rounds.
-BL-1,2
-b. | Consider that RSA is used for the transaction of messages between users, A and B.
-Q3 For user B, PR and PUsg are private and public keys respectively. User B chooses
-CO-3 two prime numbers, 11 and 23. [10]
-SO-2 i) Prove that user, B can choose PUp = {7, 253} and PRs ={63, 253}. Use
-BL-S Extended Euclidean algorithm to prove the value of keys.
-ii) Ifuser A encrypts message 2, determine encrypted message.
-Q4 a. | Explain the following in brief -
-CO-1 i) Cipher Block Chaining (CBC) mode of operation for encryption and one of [10]
-SO-1 its key features
-sla ii) Diffi-Hellman key exchange algorithm
-Q4 b
-coO-4 Show how Hash function is used to verify message integrity of message. Prove that 110)
-5 ; Hash function should have large preimage, second preimage and collision resistance.
---- page 3 ---
-Q5 a.
-
-CO-4 Illustrate entity identification done using challenge response based on symmetric key [10]
-SO-2 cipher. Justify your answer using functional block diagram.
-BL-2
-Q5 b.
-CO-4 Show working of Pretty Good Privacy (PGP) for providing email security. Explain [10]
-SO-2 function of each step.
-BL-2
-a. | Assume that Needham-Schroeder Protocol is used for key management between
-Alice and Bob for symmetric key cryptography. Describe functions of the following
-transactions. Also show how adversary is prevented from accessing the keys:
-i) Transaction between Alice and Key Distribution Centre (KDC)
-Alice KDC
-QO Altice. Bob, Ry >
-Q6 ii) Transaction between Alice and Bob
-cO-4 Alice Bob [10]
-SO-2
-BL-4 Ka
-
-C3] - — aioe, ass en 7 —p
-
-Ticket for Bob
-
-eo ; Kan Ry. a 7)
-
-Kan
-tS) sie - Ko fib — 2 |
-
-Where,
-
-Ky a Encrypted with Alice-KDC secret key KDC: Key-distribution center
-£ Ra: Alice's nonce
-Ky a Encrypted with Bob-KDC secret key * 7
-° Ry: Bob's nonee
-
-Kap & Encrypted with Alice-Bob session key
-
-Session key between Alice and Bob
---- page 4 ---
-Q6 b. [10]
-
-cO-4 List the protocols used at Secure Socket Layer (SSL). Explain function of each
-
-SO-2 protocol in brief.
-
-BL-1, 2
-
-Q7 a. | Compare Tunnel and Transport mode of operation for IP security. Explain Tunnel [10]
-co-4 mode in details.
-
-SO-2
-
-BL-5
-
-Q7 b. [10]
-cO-4 List features and functions Packet filtering firewall.
-
-SO-2
-
-BL-1
-
-Expansion and permutation table
-
-32 1 2 3 4 B)
-4 5 6 7 8 9
-8 9 10 11 12 13
-12 q3 14 15 16 17
-16 17 18 19 20 21
-20 21 22 23 24 25
-24 25 26 27 28 29
-28 29 30 31 32 1
---- page 5 ---
-Sx
-
-3;
-
-S- Boxes
-
-oh AB Be SE Be A ae ee ie a oe
-OM Deed A 2, oo ee
-4 1 6 86 6 2 UW Se 8 Ft ot hl Ul
-de ee a eee ee eee ea ee
-S& 1.864“ 6@u fs £6 8 4 tf Be os lh
-36 4 7%S 2 © ww eo@ 6st & oe ss
-9 Mi?tM ® @ B@ 15 8 en sl lk
-2. BM. 18 WH 6 2 oe le lg lk
-oP eM 6 SS SS ee ee a gg Ce
-S 7 0 8 3 #@€ 6 WwW 2 bth ee es
-a 6 4 8 Bk We 8 Me ee a
-iv Gb 0 6 29 8@ fF §@ eu a sk lle
-76 Mw 3 80 6 8 wm ttt tc ke aga
-mo 8@ um 5 6 I 8   t Ff ee te lak
-oe 6 fF OMH FT BEF ge Gt lel lg
-4.6 8 6 OM 1 HB fF a kf ok oe hla lk
-S-Boxes
-2m 40.1 7 00° eS ee a a a
-Mm 2 4 es a se a i a
-a 2 1 0 1 33) 7 RB IS 8 oS Uk Al Uk
-BE ak ae ee
-2 AM, 1 82 ee ee a a ee
-oc 8 4 2 7 2S. 5S 6 a i oe lls le
-2M UN 5.2) U8 PE UMUC
-e353 (2532). $8 (S48 07 Wo PF Rk bo
-£2 1s 0 ee a i
-Be 7. ee oe a a es ke
-et Le ee ie On ge
-6 fF Bd we ST ee ei So 2 ag
-2 es 68 OS on A ie a eG
-6 0B Oe 8 ee a |
-7m 4°13 °8 @ mM 2 6 6 oe 5 os tll Gg
-Pt BT 4 0 ee ee
-5
 ````

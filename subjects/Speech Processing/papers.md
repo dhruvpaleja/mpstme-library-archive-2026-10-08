@@ -106,86 +106,7 @@ testing.
 Page 2 of 2
 ````
 
-## 2016-17 · Final-Exam · Sem 8 · paper 631fcfbd7b69
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_08/SPEECH PROCESSING/SPEECH PROCESSING B TECH (EXTC), 16-17 FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
-- Text: ocr (2 pages), mean OCR confidence 91.9
-
-````text
-Cc
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE:
-
-Programme: B. Tech (EXTC) Year: IV Semester: VIII
-Academic Year: 2016-2017
-
-Subject: Speech Processing
-; Marks: 60
-Date: 11 May 2017 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-No. of Pages: 2.—
-Final-Examinations
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q 1. Do as directed. . [12]
-a) Classify the speech sound signal.
-
-b) Define (a) Quefrency (b) Liftering.
-c) Write different sources of speech degradation.
-d) Write a short note on LPC.
-Q2:a) What is zero crossing rate and Describe the digital model for speech production? [06]
-
-c) Discuss triangular filter bank in MFCC. Calculate the distance between two critical
-frequencies and the width of the triangle Mels if the sampling frequency is 8 kHz, the
-
-size of Fast Fourier Transform is N=512, and the number of filters M=20. [06]
-
-=—— Q3:a) Explain pattern recognition approach in automatic speech recognition. [06]
-b) Write a short note on: (a) Framing & Windowing (b) Short time energy. [06]
-
-Q4: a) Explain the concept and need of STFT. [06]
-
-b) How are the spectrographic display useful for speech signal analysis? [06]
-
-. Va
---- page 2 ---
-Q5:a) Explain cepstrum analysis. Hence Describe how cepstrum is used in‘extraction of pitch and
-
-formants with block diagram. [06]
-
-b) Explain the speaker verification system. [06]
-
-Q 6: a) Explain parallel processing approach for pitch Identification. [06]
-b) Explain Cholesky decomposition solution for the autocovariance equation. [06]
-{12]
-
-Q7 Write a short notes on
-a) Spectral Subtraction
-b) Centre clipping method using autocorrelation function
-c) Short time AMDF
-d) Speech Synthesis
-````
-
-## 2016-17 · Re-Exam · Sem 8 · paper 4e71ecdc57c5
+## 2017-18 · Re-Exam · Sem 8 · paper 4e71ecdc57c5
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -278,6 +199,85 @@ Short time energy
 (06M)
 
 (12M)
+````
+
+## 2016-17 · Final-Exam · Sem 8 · paper 631fcfbd7b69
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_08/SPEECH PROCESSING/SPEECH PROCESSING B TECH (EXTC), 16-17 FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
+- Text: ocr (2 pages), mean OCR confidence 91.9
+
+````text
+Cc
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE:
+
+Programme: B. Tech (EXTC) Year: IV Semester: VIII
+Academic Year: 2016-2017
+
+Subject: Speech Processing
+; Marks: 60
+Date: 11 May 2017 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages: 2.—
+Final-Examinations
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q 1. Do as directed. . [12]
+a) Classify the speech sound signal.
+
+b) Define (a) Quefrency (b) Liftering.
+c) Write different sources of speech degradation.
+d) Write a short note on LPC.
+Q2:a) What is zero crossing rate and Describe the digital model for speech production? [06]
+
+c) Discuss triangular filter bank in MFCC. Calculate the distance between two critical
+frequencies and the width of the triangle Mels if the sampling frequency is 8 kHz, the
+
+size of Fast Fourier Transform is N=512, and the number of filters M=20. [06]
+
+=—— Q3:a) Explain pattern recognition approach in automatic speech recognition. [06]
+b) Write a short note on: (a) Framing & Windowing (b) Short time energy. [06]
+
+Q4: a) Explain the concept and need of STFT. [06]
+
+b) How are the spectrographic display useful for speech signal analysis? [06]
+
+. Va
+--- page 2 ---
+Q5:a) Explain cepstrum analysis. Hence Describe how cepstrum is used in‘extraction of pitch and
+
+formants with block diagram. [06]
+
+b) Explain the speaker verification system. [06]
+
+Q 6: a) Explain parallel processing approach for pitch Identification. [06]
+b) Explain Cholesky decomposition solution for the autocovariance equation. [06]
+{12]
+
+Q7 Write a short notes on
+a) Spectral Subtraction
+b) Centre clipping method using autocorrelation function
+c) Short time AMDF
+d) Speech Synthesis
 ````
 
 ## 2015-16 · Final-Exam · Sem 8 · paper b2c0a00fdd67

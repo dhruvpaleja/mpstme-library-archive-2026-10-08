@@ -420,6 +420,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM X/SOFT COMPUTING/Soft Computing Batch 2021-22 Re Exam0001.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 09 June 2022
 - Text: ocr (2 pages), mean OCR confidence 87.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ‘ SVKM’s NMIMS :
@@ -486,7 +487,6 @@ om
 
 BL-3
 
-X| X| xX X| X |X
 
 »¢ x
 x X| X |X!
@@ -1120,6 +1120,127 @@ c) Linear Associator
 7
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper 25239c946825
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/SOF COMPUTING/SOFT COMPUTING B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 09/05/2016
+- Text: ocr (2 pages), mean OCR confidence 87.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: IV Semester: arr g :
+#7 ra —
+
+Academic Year: 2015-16 i -
+
+a¢ .
+BLe wy De
+Batch: 2014-15 a Kg
+
+Time: 10.00 am - 1. m.
+
+Date: 09/05/2016 Durations: 3 hrs.
+Re-Examination
+
+\S eer
+Subject: Soft Computing Marks: 60 “Se univer
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for the use.
+
+NB.
+1. Question No.1 is compulsory
+2. Out of remaining 6 questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question should be started on a Fresh page.
+6. Figure in brackets indicate full marks.
+
+Q.1 a) Consider three Fuzzy sets given by: 06
+A= ao 0.2 2 0.5
+low medium high
+
+_ { 0.9 0.4 0.9 }
+B= —— + =f ;
+positive zero negative
+
+0.1 0.2 0.7
+C=4——+ +
+low medium high
+
+i. Find the Fuzzy relation for the Cartesian product of A and B
+ie R=AXB
+ii. Find the Fuzzy relation for the Cartesian product of C and B
+ie S=CXB
+ili. Find Ce Rusing max-min composition.
+iv. Find CoS using max-min composition.
+
+b) Explain perceptron learning rule with example 06
+
+"| Q.2 Design a Fuzzy logic controller for water purification plant. Assume the 12
+grade of the water and temperature of water as the inputs and the required
+amount of purifier as the output. Use three descriptors for input and output
+wR variables. Derive the set of rules for control action and defuzzificaton.The
+
+design should be supported by figures.Clearly indicate that if the water
+temperature is low and the grade of water is low then the amount of purifier
+required is large
+
+Q.3 a) Determine the weights after one iteration of Delta learning rule of 06
+Page | of 2
+--- page 2 ---
+single neuron network.
+The set of the input training vectors is as follows:
+xi= [1] -2 0-1]; x2=[0 1.5 -0.5 -1]? and x3=[-1 1 0.5
+-17"
+The teacher’s desired responses for x1, x2, x3 are di) = -1, da =-1
+and d3 = 1, respectively.
+Initial weight Vector is: W'=[1 -1 0 0.5]?
+Assume the learning constant to be c=0.1 and =1 for bipolar
+sigmoidal activation function
+b) Explain the Error back propagation training algorithm (EBPTA) 06
+
+Q.4 a) List different deffuzification methods and explain any one in details. 06
+b) Which are the different Darwinian selection methods? Explain with 06
+the examples.
+
+Q.5 a) Explain the following operations in Genetic Algorithm 06
+i. Encoding
+ii. Selection
+
+iii. Crossover
+b) Construct and test a BAM network to associate letters Tand O with 06
+sample bipolar input output vectors. The target output for ‘T” is
+(1,-1) and for ‘O’ is (1,1). The display matrix size is 4x3.
+Ok
+
+* Ok Eo
+* * *
+* ek OK
+— <Q?
+Q.6 a) Construct a Kohonen self-organizing map to cluster the four given 06
+
+vectors [0 0 1 1], [1 0 0 0], [0 1 1 0] and [0 0 0 1}. The number of
+cluster to be formed is two . Assume an initial learning rate of 0.5.
+
+b) Explain with suitable example linearly non-separable pattern 06
+classification.
+Q.7 Write short note on (any two) 12
+
+a) Application of Fuzzy Systems
+b) Genetic Neuro Hybrid Systems
+
+c) Linear Associator
+
+™
+
+Page 2 of 2
+````
+
 ## 2015-16 · Re-Exam · Sem 8 · paper 66df888f7ffd
 
 - Departments: Computer Engineering
@@ -1405,127 +1526,6 @@ a) Genetic Operators
 b) Genetic Neuro Hybrid Systems
 
 c) Fuzzy Set operators
-
-Page 2 of 2
-````
-
-## 2014-15 · Re-Exam · Sem 8 · paper 25239c946825
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/SOF COMPUTING/SOFT COMPUTING B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 09/05/2016
-- Text: ocr (2 pages), mean OCR confidence 87.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Computer) Year: IV Semester: arr g :
-#7 ra —
-
-Academic Year: 2015-16 i -
-
-a¢ .
-BLe wy De
-Batch: 2014-15 a Kg
-
-Time: 10.00 am - 1. m.
-
-Date: 09/05/2016 Durations: 3 hrs.
-Re-Examination
-
-\S eer
-Subject: Soft Computing Marks: 60 “Se univer
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for the use.
-
-NB.
-1. Question No.1 is compulsory
-2. Out of remaining 6 questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question should be started on a Fresh page.
-6. Figure in brackets indicate full marks.
-
-Q.1 a) Consider three Fuzzy sets given by: 06
-A= ao 0.2 2 0.5
-low medium high
-
-_ { 0.9 0.4 0.9 }
-B= —— + =f ;
-positive zero negative
-
-0.1 0.2 0.7
-C=4——+ +
-low medium high
-
-i. Find the Fuzzy relation for the Cartesian product of A and B
-ie R=AXB
-ii. Find the Fuzzy relation for the Cartesian product of C and B
-ie S=CXB
-ili. Find Ce Rusing max-min composition.
-iv. Find CoS using max-min composition.
-
-b) Explain perceptron learning rule with example 06
-
-"| Q.2 Design a Fuzzy logic controller for water purification plant. Assume the 12
-grade of the water and temperature of water as the inputs and the required
-amount of purifier as the output. Use three descriptors for input and output
-wR variables. Derive the set of rules for control action and defuzzificaton.The
-
-design should be supported by figures.Clearly indicate that if the water
-temperature is low and the grade of water is low then the amount of purifier
-required is large
-
-Q.3 a) Determine the weights after one iteration of Delta learning rule of 06
-Page | of 2
---- page 2 ---
-single neuron network.
-The set of the input training vectors is as follows:
-xi= [1] -2 0-1]; x2=[0 1.5 -0.5 -1]? and x3=[-1 1 0.5
--17"
-The teacher’s desired responses for x1, x2, x3 are di) = -1, da =-1
-and d3 = 1, respectively.
-Initial weight Vector is: W'=[1 -1 0 0.5]?
-Assume the learning constant to be c=0.1 and =1 for bipolar
-sigmoidal activation function
-b) Explain the Error back propagation training algorithm (EBPTA) 06
-
-Q.4 a) List different deffuzification methods and explain any one in details. 06
-b) Which are the different Darwinian selection methods? Explain with 06
-the examples.
-
-Q.5 a) Explain the following operations in Genetic Algorithm 06
-i. Encoding
-ii. Selection
-
-iii. Crossover
-b) Construct and test a BAM network to associate letters Tand O with 06
-sample bipolar input output vectors. The target output for ‘T” is
-(1,-1) and for ‘O’ is (1,1). The display matrix size is 4x3.
-Ok
-
-* Ok Eo
-* * *
-* ek OK
-— <Q?
-Q.6 a) Construct a Kohonen self-organizing map to cluster the four given 06
-
-vectors [0 0 1 1], [1 0 0 0], [0 1 1 0] and [0 0 0 1}. The number of
-cluster to be formed is two . Assume an initial learning rate of 0.5.
-
-b) Explain with suitable example linearly non-separable pattern 06
-classification.
-Q.7 Write short note on (any two) 12
-
-a) Application of Fuzzy Systems
-b) Genetic Neuro Hybrid Systems
-
-c) Linear Associator
-
-™
 
 Page 2 of 2
 ````

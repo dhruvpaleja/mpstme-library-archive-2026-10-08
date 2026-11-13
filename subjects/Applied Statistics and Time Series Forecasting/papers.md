@@ -1,6 +1,6 @@
 # Applied Statistics and Time Series Forecasting: question papers in full
 
-2 unique papers · 2024 to 2025-26 · Artificial Intelligence
+2 unique papers · 2024-25 to 2025-26 · Artificial Intelligence
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -420,13 +420,14 @@ rh 424} 339) 299) 276} 260} 249) 240) 234) 228} 228) 216} 209). 201) 196) 1921 1
 ~ 384} 300} 260) 237) 221] 210} 201) 194] 188) 183) 475} 167} 157) 152) 146) 139} 132] 122} 1,00
 ````
 
-## 2024 · Exam not stated · Sem 1 · paper df2c7b699bd1
+## 2024-25 · Exam not stated · Sem 1 · paper df2c7b699bd1
 
 - Departments: Artificial Intelligence
 - Programmes: M TECH / ARTIFICIAL INTELLIGENT
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM I/Applied Statistics and Time Series Forcating/Applied Statistics and Time Series Forcating Batch 2024-0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13/02/2025
 - Text: ocr (11 pages), mean OCR confidence 75.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /.
@@ -607,7 +608,6 @@ Lz [ 00 [ 01 [ 02 [03 04 | 05 | 06 [ 07 | 08 | 09 |
 3.4 | 4997 | .4997 | .4997 | 4997 | .4997 | .4997 | .4997 | .4997 | 4997 | 4998
 [3.5 | 4998 | .4998 | .4998 | 4898 | .4998 | .4998 | .4998 | 4998 | 4998 | 4098
 
-Gilles Cazclais. Typeset with ISTSX on April 20, 2006.
 --- page 5 ---
 t Table
 

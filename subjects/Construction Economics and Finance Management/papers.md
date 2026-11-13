@@ -619,7 +619,7 @@ x ——
 10
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper 000eae7973de
+## 2022-23 · Final-Exam · Sem 9 · paper 000eae7973de
 
 - Departments: Civil
 - Programmes: B.TECH INTEGRATED / CIVIL

@@ -413,6 +413,7 @@ PS (c) ABC Analysis
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/MANUFACTURING MANAGEMENT/MANUFACTURING MANAGEMENT (MECHANICAL), 2017-18 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 14 May 2018
 - Text: ocr (2 pages), mean OCR confidence 91.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ——
@@ -516,7 +517,6 @@ Q.7 Explain the following (Any Two)
 (c) Periodical review System of Inventory Control (7)
 (d) Three Time Estimates of PERT (7)
 
-RR OR ko ok a a iC ok oi a ok Co Co a
 
 2/2
 ````
@@ -959,6 +959,278 @@ ee a
 Page 2 of 2
 ````
 
+## 2014-15 · Re-Exam · Sem 6 · paper 14deb15526da
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/MANUFACTURING MANAGEMENT/MANUFACTURING MANAGEMENT B TECH (MECH) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 14/05/2015
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS 4
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+B. Tech (MECH) Year: Il Semeste
+
+Batch
+
+Subject: Manufacturing Management
+
+a Cor st Ma
+
+Marks:
+Date: 14/05/2015 Time: }
+Duratio: Pa hrs) 4
+wns OZ
+
+Re-Examination
+
+Instruction: Candidate should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, Which is provided for their use.
+NB:
+
+1. Question No. ONE is compulsory
+
+2. Out of remaining questions, attempt any FOUR questions.
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on fresh page.
+
+6. Figure in brackets on the right hand side indicate full marks.
+7. Assume suitable data if required and justify the same.
+
+2013-14 .
+Academic Year: 2014-2015 Me gat TIAN
+: Le a *
+
+Q.1) Answer following questions (Any Four)
+a) Give the classification of manufacturing processes
+b) What are different types of production systems? Explain in brief.
+c) What is CPM? How does it differ from PERT?
+d) What are the factors that influence plant layout?
+€) Discuss various aspects of Product Design
+f) How ABC analysis helps in managing inventories?
+
+Q.2) Answer following questions (Any Four)
+a) List and explain the objectives of inventory control?
+b) How does the production volume affect break-even analysis?
+c) What is meant by Manufacturing Management? Describe its important features.
+d) What do you understand by economies of scale?
+€) Explain JIT in manufacturing system and its application in industry.
+f) What are the symptoms of Bad layout?
+
+Q.3) a) What is the main purpose of Aggregate Production Plan? What are the required
+inputs for a production plan?
+b) Management may choose to build up capacity in anticipation of demand or in
+response to developing demand. Cite the advantages and disadvantages of both
+approaches.
+
+Q.4) 8) What are the different methods for developing Process type layouts? How do they
+
+differ with each other?
+b) Specify the procedural steps involved in Assembly Line Balancing.
+
+Page 1 of 2
+
+(05)
+(05)
+(05)
+(05)
+(05)
+(05)
+
+(05)
+(05)
+(05)
+(05)
+(05)
+(05)
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+--- page 2 ---
+v4
+
+Q.5) a) Explain the different functions of Production Planning and Control (10)
+b) Central University uses 123,000 of a particular toner cartridge for laser printers in (10)
+
+the student computer labs each year. The purchasing director of the university
+
+estimates the ordering cost at Rs.45 and thinks that the university can hold this type
+
+of inventory at an annual storage cost of 22% of the purchase price. How many
+
+months’ supply should the purchasing director order at one time to minimize the total
+
+annual cost of purchasing and carrying? Assume unit price =1.
+
+Q.6) a) What is Group Technology? What role does it have in Plant Layout? (10)
+b) A manufacturer of stamped metal auto parts has four factories in one city at the (10)
+location coordinates shown below. Each coordinate unit represents a city block
+(roughly 100 meters). The yearly demand at each factory is also given.
+
+-Demand | X-Cood.| Y-Cood.
+
+Factories
+Rayburn Industrial Park 19,000 20 130
+Port of Zavalla 3,000 60 40
+Henderson Mfg. Center 5,000 710 100
+Wax Mills Site 6,000 90 30
+
+as decided to build a new sheet metal mill, to supply these factories, at
+
+Management hi
+ould be the map coordinates of the new
+
+a location central to these plants. What sh
+
+plant?
+Q.7) Explain the following
+a) What is Float? How it is use in network analysis? (05)
+b) Schedule the following activities using CPM: (15)
+ACTIVITY | IMMEDIATE TIME
+PREDECESSOR | (WEEKS)
+
+Draw the network. What is the critical path? How many weeks it will take to
+complete the project? Which activities have slack, and how much?
+
+Page 2 of 2
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper 5d2f15f796a3
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/MANUFACTURING MANAGEMENT/MANUFACTURING MANAGEMENT B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 03/07/2015
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+‘
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: III Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015 aoe
+Subject: Manufacturing Management VD a om .
+Marks: / 400 call
+Date: 03/07/2015 Time: -10.00 am to 1.00 pm
+Durations: =
+
+\ 3.(hrs)
+Re-Examination ‘
+
+Instruction: Candidate should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, Which is provided for their use.
+NB:
+
+1. Question No. ONE is compulsory
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on fresh page.
+
+6. Figure in brackets on the right hand side indicate full marks.
+
+7. Assume suitable data if required and justify the same.
+
+Q.1) Answer following questions (Any Four)
+a) Explain the characteristics of Production System. (05)
+b) What is the need for organisation to design and develop new products ? (05)
+c) What are the various costs associated with inventory ? (05)
+d) What are the objectives of good plant layout? (05)
+e) Explain the areas of application of Network Techniques. (05)
+f) Explain the steps involved in Capacity Planning. (05)
+
+@.2) a) Discuss the characteristics features of following types of production. (10)
+
+i) Job Order Production
+ii) Batch Production
+iii) Mass Production
+b) Why it is necessary to analyze the product? What are the various analysis that are (10)
+carried out? :
+
+Q.3) a) Explain the factors that influencing Make or Buy Decision. (10)
+b) Distinguish between Product Layout and Process Layout. (10)
+Q.4) a) Explain the different functions of Production Planning and Control. (10)
+
+b) A pharmaceutical company has a demand for 10,00,000 bottles. Each empty (10)
+bottle costs the company Rs.1/-. Empty bottles are supplied by M/s Rupa Glass
+Ltd., The R.O.L. system of stock replenishment is followed. Ordering costs is
+Rs.12.5 per order and inventory carrying cost is 25% of cost per bottle. The
+demand is constant throughout the year. The lead time is 15 days.
+Determine (i) Economic Order Quantity (ii) Lead time consumption (iii) Re-
+order Level and (iv) Average Inventory.
+
+Page 1 of 2
+--- page 2 ---
+Q.5) a) What is Group Technology? What role does it has in Plant Layout? (10)
+
+b) An automobile air conditioner manufacturer currently manufactures its RB-300 (10)
+line at three different locations, Plant A, Plant B and Plant C respectively.
+Recently, management has decided to build all compressors, a major component
+in a separate dedicated facility Plant D. Using centre of gravity method and the
+information given below determine the best location for the Plant D.
+
+Plant Coneirrssiirs X-coordinate | Y-coordinate
+required/year
+A 6000 150 75
+B 8200 100 300
+Cc 7000 275 380
+Q.6) a) What is CPM? How does it differ from PERT? (08)
+
+b) A project consists of eight activities. Precedence relation and activity times are (12)
+given below :
+
+Activity Immediate Activity
+Predecessor Time
+
+(Weeks)
+P --- 12
+Q -- 20
+R --- 28
+S R 12
+T P,Q 28
+U T,S ; 12
+Vv Ss 8
+WwW U,V 8
+
+Draw the network, compute the Critical Path and show the float for each activity
+in a tabular form. .
+
+@.7) Explain the following (Any Four)
+
+a) ABC Analysis (05)
+
+b) Break-Even Chart (05)
+
+c) Kanban Pull System of Scheduling (05)
+
+4) Bill of Material (05)
+
+€) Techniques of Plant Layout (05)
+
+f) Time Cost Trade-off in Project Management (05)
+Th RRR RK Re
+
+Page 2 of 2
+````
+
 ## 2014-15 · Re-Exam · Sem 6 · paper 231c06bc7038
 
 - Departments: Mechanical
@@ -1239,278 +1511,6 @@ Page 2 of 2
 (05)
 (05)
 (05)
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 14deb15526da
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/MANUFACTURING MANAGEMENT/MANUFACTURING MANAGEMENT B TECH (MECH) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 14/05/2015
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS 4
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-B. Tech (MECH) Year: Il Semeste
-
-Batch
-
-Subject: Manufacturing Management
-
-a Cor st Ma
-
-Marks:
-Date: 14/05/2015 Time: }
-Duratio: Pa hrs) 4
-wns OZ
-
-Re-Examination
-
-Instruction: Candidate should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, Which is provided for their use.
-NB:
-
-1. Question No. ONE is compulsory
-
-2. Out of remaining questions, attempt any FOUR questions.
-3. In all FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on fresh page.
-
-6. Figure in brackets on the right hand side indicate full marks.
-7. Assume suitable data if required and justify the same.
-
-2013-14 .
-Academic Year: 2014-2015 Me gat TIAN
-: Le a *
-
-Q.1) Answer following questions (Any Four)
-a) Give the classification of manufacturing processes
-b) What are different types of production systems? Explain in brief.
-c) What is CPM? How does it differ from PERT?
-d) What are the factors that influence plant layout?
-€) Discuss various aspects of Product Design
-f) How ABC analysis helps in managing inventories?
-
-Q.2) Answer following questions (Any Four)
-a) List and explain the objectives of inventory control?
-b) How does the production volume affect break-even analysis?
-c) What is meant by Manufacturing Management? Describe its important features.
-d) What do you understand by economies of scale?
-€) Explain JIT in manufacturing system and its application in industry.
-f) What are the symptoms of Bad layout?
-
-Q.3) a) What is the main purpose of Aggregate Production Plan? What are the required
-inputs for a production plan?
-b) Management may choose to build up capacity in anticipation of demand or in
-response to developing demand. Cite the advantages and disadvantages of both
-approaches.
-
-Q.4) 8) What are the different methods for developing Process type layouts? How do they
-
-differ with each other?
-b) Specify the procedural steps involved in Assembly Line Balancing.
-
-Page 1 of 2
-
-(05)
-(05)
-(05)
-(05)
-(05)
-(05)
-
-(05)
-(05)
-(05)
-(05)
-(05)
-(05)
-
-(10)
-
-(10)
-
-(10)
-
-(10)
---- page 2 ---
-v4
-
-Q.5) a) Explain the different functions of Production Planning and Control (10)
-b) Central University uses 123,000 of a particular toner cartridge for laser printers in (10)
-
-the student computer labs each year. The purchasing director of the university
-
-estimates the ordering cost at Rs.45 and thinks that the university can hold this type
-
-of inventory at an annual storage cost of 22% of the purchase price. How many
-
-months’ supply should the purchasing director order at one time to minimize the total
-
-annual cost of purchasing and carrying? Assume unit price =1.
-
-Q.6) a) What is Group Technology? What role does it have in Plant Layout? (10)
-b) A manufacturer of stamped metal auto parts has four factories in one city at the (10)
-location coordinates shown below. Each coordinate unit represents a city block
-(roughly 100 meters). The yearly demand at each factory is also given.
-
--Demand | X-Cood.| Y-Cood.
-
-Factories
-Rayburn Industrial Park 19,000 20 130
-Port of Zavalla 3,000 60 40
-Henderson Mfg. Center 5,000 710 100
-Wax Mills Site 6,000 90 30
-
-as decided to build a new sheet metal mill, to supply these factories, at
-
-Management hi
-ould be the map coordinates of the new
-
-a location central to these plants. What sh
-
-plant?
-Q.7) Explain the following
-a) What is Float? How it is use in network analysis? (05)
-b) Schedule the following activities using CPM: (15)
-ACTIVITY | IMMEDIATE TIME
-PREDECESSOR | (WEEKS)
-
-Draw the network. What is the critical path? How many weeks it will take to
-complete the project? Which activities have slack, and how much?
-
-Page 2 of 2
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 5d2f15f796a3
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/MANUFACTURING MANAGEMENT/MANUFACTURING MANAGEMENT B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 03/07/2015
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-‘
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: III Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015 aoe
-Subject: Manufacturing Management VD a om .
-Marks: / 400 call
-Date: 03/07/2015 Time: -10.00 am to 1.00 pm
-Durations: =
-
-\ 3.(hrs)
-Re-Examination ‘
-
-Instruction: Candidate should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, Which is provided for their use.
-NB:
-
-1. Question No. ONE is compulsory
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. In all FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on fresh page.
-
-6. Figure in brackets on the right hand side indicate full marks.
-
-7. Assume suitable data if required and justify the same.
-
-Q.1) Answer following questions (Any Four)
-a) Explain the characteristics of Production System. (05)
-b) What is the need for organisation to design and develop new products ? (05)
-c) What are the various costs associated with inventory ? (05)
-d) What are the objectives of good plant layout? (05)
-e) Explain the areas of application of Network Techniques. (05)
-f) Explain the steps involved in Capacity Planning. (05)
-
-@.2) a) Discuss the characteristics features of following types of production. (10)
-
-i) Job Order Production
-ii) Batch Production
-iii) Mass Production
-b) Why it is necessary to analyze the product? What are the various analysis that are (10)
-carried out? :
-
-Q.3) a) Explain the factors that influencing Make or Buy Decision. (10)
-b) Distinguish between Product Layout and Process Layout. (10)
-Q.4) a) Explain the different functions of Production Planning and Control. (10)
-
-b) A pharmaceutical company has a demand for 10,00,000 bottles. Each empty (10)
-bottle costs the company Rs.1/-. Empty bottles are supplied by M/s Rupa Glass
-Ltd., The R.O.L. system of stock replenishment is followed. Ordering costs is
-Rs.12.5 per order and inventory carrying cost is 25% of cost per bottle. The
-demand is constant throughout the year. The lead time is 15 days.
-Determine (i) Economic Order Quantity (ii) Lead time consumption (iii) Re-
-order Level and (iv) Average Inventory.
-
-Page 1 of 2
---- page 2 ---
-Q.5) a) What is Group Technology? What role does it has in Plant Layout? (10)
-
-b) An automobile air conditioner manufacturer currently manufactures its RB-300 (10)
-line at three different locations, Plant A, Plant B and Plant C respectively.
-Recently, management has decided to build all compressors, a major component
-in a separate dedicated facility Plant D. Using centre of gravity method and the
-information given below determine the best location for the Plant D.
-
-Plant Coneirrssiirs X-coordinate | Y-coordinate
-required/year
-A 6000 150 75
-B 8200 100 300
-Cc 7000 275 380
-Q.6) a) What is CPM? How does it differ from PERT? (08)
-
-b) A project consists of eight activities. Precedence relation and activity times are (12)
-given below :
-
-Activity Immediate Activity
-Predecessor Time
-
-(Weeks)
-P --- 12
-Q -- 20
-R --- 28
-S R 12
-T P,Q 28
-U T,S ; 12
-Vv Ss 8
-WwW U,V 8
-
-Draw the network, compute the Critical Path and show the float for each activity
-in a tabular form. .
-
-@.7) Explain the following (Any Four)
-
-a) ABC Analysis (05)
-
-b) Break-Even Chart (05)
-
-c) Kanban Pull System of Scheduling (05)
-
-4) Bill of Material (05)
-
-€) Techniques of Plant Layout (05)
-
-f) Time Cost Trade-off in Project Management (05)
-Th RRR RK Re
-
-Page 2 of 2
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper 001f2e84a324

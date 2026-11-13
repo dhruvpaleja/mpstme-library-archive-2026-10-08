@@ -1,10 +1,10 @@
 # Hydraulic and Pneumatics: question papers in full
 
-2 unique papers · years not stated · Mechanical
+2 unique papers · 2022-23 to 2022-23 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## Year not stated · Exam not stated · Sem 6 · paper 904475cedf99
+## 2022-23 · Exam not stated · Sem 6 · paper 904475cedf99
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -107,7 +107,7 @@ BL-4
 Py. oF 2
 ````
 
-## Year not stated · Exam not stated · Sem 6 · paper 220a1b1142d7
+## 2022-23 · Exam not stated · Sem 6 · paper 220a1b1142d7
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL

@@ -1,6 +1,6 @@
 # Programming for Problem Solving: question papers in full
 
-101 unique papers · 2018-19 to 2025-26 · Data Science, Computer Engineering, Common (all branches), Information Technology, Mechanical, Artificial Intelligence, Civil, Computer Science and Business Systems, Cyber Security, Electronics and Telecommunication, Mechatronics, AI and Data Science, AI and Machine Learning, Computer Science
+102 unique papers · 2018-19 to 2025-26 · Data Science, Common (all branches), Computer Engineering, Information Technology, Mechanical, Artificial Intelligence, Civil, Cyber Security, Computer Science and Business Systems, Electronics and Telecommunication, Mechatronics, AI and Data Science, AI and Machine Learning, Computer Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -171,6 +171,587 @@ considered good because it is smaller than all of the prices on days 2,3,4,5,6.
 [10]
 
 Ses Rak dedi ak ea ok
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper b8af5668b901
+
+- Departments: Computer Engineering, Cyber Security, Data Science, Mechanical
+- Programmes: BTech CyberSecurity 7010, Integrated Computer 7032, Integrated DS 7038, Integrated Mechanical 7031
+- Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CyberSecurity_7010/Programming for Problem Solving/QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf` (+4 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (Mech)
+Year: III/Semester V(Exam Year: 2025-2026)
+Subject: Programming for Problem Solving
+Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. _1_ is compulsory
+3. Out of remaining questions, attempt any _4_ questions.
+4. In all _5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary
+Q1   Answer briefly:   [20]
+CO-1
+Draw a flowchart to accept student’s name, roll no and marks of 3 subjects from user
+SO-1   a.   [5]
+and calculate total, average marks and print it for ‘n’ students.
+BL-6
+CO-2   Develop a solution for the following scenario.
+SO-7   Despite everyone's advice, Harshad has decided to gamble away his money.
+Today he chose a dice game to bet on. Harshad will roll 2 die one after the other, and
+b.   Harshad wins if and only if the sum of the 2 dice rolls is exactly x.   [5]
+BL-6   The die are standard fair 6-faced, with numbers 1 through 6 written on the sides.
+Harshad 's first roll turned up to be the number A. What number does Harshad need on
+his second roll to win the game? It can be proven that this number exists and is unique.
+CO-3
+SO-6   c.   List and explain any four inbuild C-style string functions from <cstring>.   [5]
+BL-2
+CO-4
+SO-2   d.   Explain the concept of function overloading using an example program in C++.   [5]
+BL-2
+Q2   [20]
+CO-2
+Explain recursive function and write a program to checks if a string is a palindrome
+SO-7   a.   [10]
+using recursive function. Avoid using loops or inbuilt functions.
+BL-2
+CO-3   Design a C++ program that checks if a password entered by a user is Strong or Weak.
+SO-6   A password is considered Strong if it:
+• Has at least 8 characters
+b.   [10]
+•   Contains at least one uppercase letter, one lowercase letter, one digit, and one
+BL-6   special character.
+If any condition fails, display the reason (example: “Missing digit”).
+Q3   [20]
+********** 1 **********
+--- page 2 ---
+CO-4
+List and explain the different types of inheritance. Also, write a program to demonstrate
+SO-2   a.   [10]
+Multiple inheritance.
+BL-2
+CO-3   Write a program that counts the number of seats available, reserves a seat at a
+SO-2   b.   specified row and column, and shows the updated seating (0 = available, 1 = booked).   [10]
+BL-6   Show a message if it's already booked.
+Q4   [20]
+CO-3
+Write a C++ program to read integer values from user and store them in an array of
+SO-6   a.   [10]
+size ‘n’. Also, find the average of elements of the arrays using pointer.
+BL-6
+CO-4
+What is friend function? List the properties of friend function and write a program to
+SO-2   b.   [10]
+illustrate the use of friend function in C++ programming language.
+BL-4
+Q5   [20]
+CO-2   Compare for and do while loops. Write a program for the following scenario.
+SO-7   A particular month has 31 days, numbered from 1 to 31.
+Day 1 is a Monday, and the usual 7-day week is followed (so day 2 is Tuesday, day 3 is
+a.   Wednesday, and so on). Every Saturday and Sunday is a holiday. There are 𝑁 festival   [10]
+BL-4   days, which are also holidays. Note that it is possible for a festival day to occur on a
+Saturday or Sunday. You are given the dates of the festivals. Determine and print the
+total number of holidays in this month.
+CO-4   Define Constructor and Write a program for following scenario: A bank account has
+SO-2   accountNumber, accountHolder, and balance.
+b.   • Write a class BankAccount with default and parameterized constructors.   [10]
+BL-6   •   Initialize accounts and display account details.
+• Perform a deposit and withdrawal operation.
+Q6   [20]
+CO-2   Write a program for following scenario.
+SO-7   Finally, a monsoon has come. According to the Meteorological Department, there will
+be rain in the upcoming 𝑁 days in the city. Initially, the water level of the city is zero
+millimetres. The amount of rain on the 𝑖-th day can be described by an integer 𝐴𝑖 as
+follows:
+•   If 𝐴𝑖> 0, the water level of the city increases by 𝐴𝑖 millimetres on the 𝑖-th
+a.   [10]
+day.
+BL-6   •   If 𝐴𝑖= 0, there is no rain on the 𝑖-th day. The water level of the city decreases
+by 𝐷 millimetres on such a day. However, if the water level is less
+than 𝐷 millimetres before the 𝑖-th day, then it becomes zero instead.
+There will be a red alert in the city if the water level becomes strictly greater
+than 𝐻 millimetres on at least one of the 𝑁 days. Determine if there will be a red alert.
+CO-3   Write a function that verifies a username by removing spaces, making sure it is
+SO-6   b.   between 5 and 15 characters long, beginning with a letter, and consisting only of   [10]
+BL-6   letters, numbers, or underscores.
+Q7   [20]
+CO-3   Define 2D array and write a program on following scenario: A class has 5 students and
+SO-6   3 subjects.
+a.   [10]
+•   Store the marks in a 2D array (rows = students, columns = subjects).
+BL-6   •   Calculate total and average marks of each student.
+********** 2 **********
+--- page 3 ---
+•   Display results in tabular form.
+CO-3   Write a program for the following scenario.
+SO-6   Sam wants to buy a new phone, but he is not willing to spend a lot of money. Instead,
+he checks the price of his chosen model everyday and waits for the price to drop to an
+acceptable value. So far, he has observed the price for 𝑁 days (numbere 1 through 𝑁);
+for each valid 𝑖, the price on the 𝑖-th day was 𝑃𝑖 rupees.
+On each day, Sam considers the price of the phone to be good if it is strictly smaller
+than all the prices he has observed during the previous five days. If there is no record
+of the price on some of the previous five days (because Sam has not started checking
+the price on that day yet), then Sam simply ignores that previous day ― we could say
+that he considers the price on that day to be infinite.
+Now, Sam is wondering ― on how many days has he considered the price to be good?
+b.   [10]
+Find the number of these days.
+BL-6   Example
+Input:
+7
+375 750 723 662 647 656 619
+Output:
+2
+Hint: Sam considers the price to be good on day 1, because he has not observed any
+prices on the previous days. The prices on days 2,3,4,5,6 are not considered good
+because they are greater than the price on day 1. Finally, the price on day 7 is
+considered good because it is smaller than all of the prices on days 2,3,4,5,6.
+********** 3 **********
+````
+
+## 2024-25 · Exam not stated · Sem 1 · paper 4de9b2d5a92b
+
+- Departments: Common (all branches), Information Technology
+- Programmes: B.TECH INTEGRATED, B.TECH INTEGRATED / IT
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/Programming for Problem Solving/Programming for Problem Solving Batch 2022-23,2023-2023-0001.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 Feb 2025
+- Text: ocr (4 pages), mean OCR confidence 92.7
+
+````text
+SVKMs NMIMS
+
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: B. Tech (Al)/B. Tech (Al & DS)/B. Tech (Al & ML)/B. Tech (CE)/B. Tech (CIVIL)/B. Tech
+
+(CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech Intg.
+
+(CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech (MECH)/B. Tech
+(MXTC)/MBA. Tech (Al)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+
+Year: I/11/ 111/Semester I/Semester IIl/Semester V (Exam Year: 2024-2025)
+
+Subject: Programming for Problem Solving
+Date: 20 Feb 2025 Time: 02:00 pm - 05:00 pm (03:00 Hrs.)
+
+Max Marks: 100
+RE EXAMINATION(2024-2025) / € 2023-2024)/ C2O022-20235)
+
+Instructions:
+
+1. This question paper contains 4 pages
+
+2. Section A is compulsory.
+
+3. Attempt any 4 questions from Section B
+
+4. In all 5 questions to be attempted.
+
+5. All questions carry equal marks.
+
+6. Answer to each new question to be started on a fresh page.
+
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume suitable data if necessary.
+
+Section A 20
+
+oO a. Design a program that accepts numbers and prints whether the number is positive or negative. 5
+b. What is a string? Illustrate how it is declared and initialized with syntax and examples. 5
+
+c. Write a C++ program to overload the multiplication function to perform the multiplication of 5
+
+two integers and two floating-point numbers.
+
+d. Draw a flow chart to find the sum of the following series: 5
+2+4+6+------ N.
+
+Section B(Attempt Any 4 Questions) 80
+
+Page 1 of 4
+--- page 2 ---
+a. Give an if-else-if ladder flowchart and develop a C++ program to calculate the late
+return fee for products ordered through an e-commerce platform like Amazon or ,,
+Flipkart. The user will enter the number of days past the return deadline, and the fee
+will be calculated according to the following table:
+
+Days Past Return Deadline Late Fee
+SP) Rs. 50 per day
+>5and< 10 Rs. 100 per day
+>10 Rs. 200 per day
+
+The program takes the late return days as input and displays the applicable late return
+fee.
+
+b. Develop a C++ program without using the loop to find the sum of a cube of three-digit
+
+numbers. For example, if the number is 423 then Sum = + 34 37
+
+c. State and explain the output of the following code:
+
+ey
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+
+{
+int arr[3] = {3, 6, 9};
+int *p = arr;
+cout<<"p:'"<<*p<<endl;
+
+for (int i= 0; i <3; i++) {
+
+*(p +i) #2;
+
+for (int i= 0; i <3; i++) {
+cout << *(arr + i) <<";
+
+}
+
+cout << endl;
+return 0;
+
+Page 2 of 4
+
+10
+
+20
+
+10
+
+YS
+--- page 3 ---
+a. You are a software developer working on a project that requires combining two
+matrices representing sales data from two regions. You need to create a C++ program
+that reads two 2D arrays (matrices) of size entered by the user, performs matrix .
+addition, and displays the resultant matrix. :
+
+b. Implement a C++ program to create a class Person with a constructor that initializes the
+
+name and age of a person and a display furiction to display all the initialized details.
+
+Define the main function to create an object of a person and invoke the display function.
+
+c. What will be the output?
+#include<iostream>
+using namespace std;
+int main() {
+int a = 2;
+int b=(a-->=1)?a+3:a-1;
+
+cout << "a: "<<a << endl; _
+
+cout << "b: "<< b << endl;
+return 0;
+
+}
+
+a. Write the general syntax of a do-while loop in C++. Write a C++ program to find the
+sum of all multiples of 3 or 5 below 1000 using any loop.
+
+b. Explain the concept of Encapsulation with an example. Define a class Resort with data
+members: room_no, charges, and no_of_days. Write a program to accept Resort details,
+calculate the bill (bill=charges*no_of_days), and display all the details of the Resort,
+including the bill.
+
+a. A hospital management system wants to manage the patients assigned to various
+doctors. Develop a program using the structure for patients with the following
+information: the patient's ID, name, type of illness, and the doctor who treated the
+patient. The program should read all the details of the ten patients and display the
+details of all patients under the same doctor's treatment by reading a doctor's name
+from the user.
+
+b. What is a function in C++? Why are functions used in programming? Write a C++
+
+program that uses a user-defined function to swap two numbers using pass-by-
+
+Page 3 of 4
+
+i
+
+20
+
+10
+
+10
+
+20
+
+10
+
+10
+--- page 4 ---
+reference. The program should demonstrate the function call within the main()
+function. }
+
+. Develop a C++ program using inheritance. The base class Employee has attributes like
+name and employee ID and a member function to displayRole () to display the role as
+“general employee’. Create a derived class Manager with an additional attribute for
+managing a department and override the displayRole() function to display the role as
+‘manager’. Additionally, implement the member functions in the derived class to input
+and display the details such as name, employee ID, department, and role (e.g.,
+manager/general employee).
+
+. Develop a program to calculate the sum of the following series using a recursive
+functions:
+1!+2!4+3!4+4!+5!+..4+N!
+
+oa
+
+. Write a program to print the following pattern using nested loops.
+AAAA
+BBB
+Ce
+D
+
+. Write a program to count vowels in a given string.
+
+. Convert the following mathematical formula to a programming equivalent statement and
+write the C++ program to calculate the value of the equation.
+Yo"
+
+y=y + oo X (e@- 21)
+
+Page 4 of 4
+
+20
+
+10
+
+10
+
+20
+
+10
+````
+
+## 2024-25 · Final + Re-Exam · Sem 1 · paper 5df2aec46d17
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/STATISTICAL PROBABILITY & CALCULUS/Program for Problem Solving, Sem-I, Fianl Exam & Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Nov 2024
+- Text: ocr (4 pages), mean OCR confidence 91.5
+
+````text
+SVKMs NMIMS
+
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: B. Tech (AI)/B. Tech (Ai & DS)/B. Tech (Al & ML)/B. Tech (CE)/B. Tech (CIVIL)/B. Tech
+
+(CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. Tech.- (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech Intg.
+
+(CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech (MECH)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+
+Year: t/t/rt1/Semester I/Semester IIl/Semester V (Exam Year: 2024-2025)
+
+Subject: Programming for Problem Solving
+Date: 30 Nov 2024 , Time: 02:00 pm = 05:00 pm (03:00 Hrs.)
+
+Max Marks: 100
+FINAL EXAMINATION(2024-2025)
+REEXAMINATION(C 2022-23 ( ROAS-24)
+
+1. This question paper contains 4 pages
+
+2. Section A is compulsory.
+
+3. Attempt any 4 questions from Section B
+
+4. In all 5 questions to be attempted.
+
+5, All questions carry equal marks.
+
+6. Answer to each new question to be started on a fresh page.
+
+7. Figures in brackets on the right hand side indicate full marks.
+
+8. Assume suitable data if necessary.
+
+Section A : 20
+a. Write a program using a switch case to check whether the input character is a vowel or 5
+consonant.
+b. Define an array and explain how one-dimensional arrays are read and displayed, providing an 5
+
+example to illustrate.
+
+©. Writea CH program to overload the area function to calculate the area of a circle and 5
+
+rectangle using the function Overloading concept.
+
+d. Draw a flow chart to check whether a number is Prime number or not. 5
+Section B(Attempt Any 4 Questions) 80
+1 20
+
+Page 1 of 4
+--- page 2 ---
+a. Give a nested if-else syntax and illustrate a C++ program that takes the temperature as
+input and provides advice based on the following conditions:
+If the temperature < 0, print “It's freezing. Wear a heavy coat."
+If the temperature is between 0 and 20:
+If the temperature < 10, print "Wear a warm jacket."
+Otherwise, print "A light jacket is fine."
+
+If the temperature > 20, print “No jacket needed.”
+‘b. Develop the C++ program to demonstrate logical operators.
+
+c. Identify the output of the following code snippet:
+
+#include <iostream>
+
+using namespace std;
+
+void fillArray(int *arr, int size)
+
+{
+for (int i = 0; i < size; i++)
+{
+arr[i] =i * 2;
+cout << arrfi] << ","; :
+}
+}
+int main()
+{
+
+int myArray[5]={1,2,3,4,5};
+int *p=myArray;
+for (int i = 0; i <5; i++)
+{
+cout << myArray[i] << ",";
+}
+cout<<"\n";
+for (int i= 0; i < 5; i++)
+{
+“(pie 5%;
+cout << *(pti) << ","
+}
+
+cout<<"\n";
+
+Page 2 of 4
+
+10
+--- page 3 ---
+fillArray(myArray, 5);
+return 0;
+
+a. In your data analysis, you need to evaluate the sum of all elements in the upper
+triangular portion of a matrix. Create a C++ program to read a square matrix (The user
+will enter the dimensions of the Matrix) and calculate the sum of squares of its upper
+triangular elements.
+
+b. Implement a program to hold salesmen’s data using a class member function with data
+members such as ID, name, and total sales. Using another member function, display the
+details of the salesmen’s data.
+
+c. Find the output of the following code:
+#include <iostream>
+using namespace std;
+int main()
+{
+int a=0,b=10,c=40;
+a=--b+cH +b--;
+cout<<"as"<<a<<" b="<<b<<" c="<<o;
+return 0;
+
+}
+
+a. Draw a flow chart that shows the workings of a while loop in C++. Write a C++
+
+program to reverse a given integer number using any loop.
+
+. Explain the concept of Data Abstraction with an example. Define a class Developer
+with data members: dev_id and dev_experience. Write a program to accept Developer
+details and print whether he is a junior developer or senior developer based on
+experience (if experience is above 5 years, then senior developer; otherwise, junior
+developer).
+
+Develop a program using a structure that stores the following information for
+calculating labor costs at Pizza Hut: the name of the pizza, preparation time, number of
+
+Page 3 of 4
+
+20
+
+10
+
+20
+
+10
+
+10
+
+20
+
+10
+--- page 4 ---
+workers, labor cost per hour, and total labor cost. The program should read the details
+of at least five pizzas and be able to display the name of the pizza with the highest total
+labor cost. The total labor cost can be calculated as preparation time X number of
+
+workers X labor cost per hour.
+
+b. Give the syntaxes of function declaration, call, and definition in C++. Write a program
+that includes a user-defined function called power. This function will take two integer
+arguments: a base and an exponent. It will calculate the result of raising the base to the
+
+power of the exponent and display the result.
+
+a. Write.a C++ program that demonstrates inheritance. The Person class has protected
+members’ name (string) and age (int), and public functions getDetails() to input and
+displayDetails() to display these details. The Student class inherits from Person, adds a
+private member grade (int), and has public functions getStudentDetails() to input and
+displayStudentDetails() to display the student's grade along with name and age. In the
+main() function, create a Student object and invoke all relevant functions.
+
+b. How are arrays passed to the functions? Define a function ‘called min. max that accepts
+a one-dimensional array as an argument and displays the smallest and largest elements
+in that array. Then, create a main function to read the elements of the array and call the
+
+min_max function by passing the array to it.
+
+a. Write a program to print the following pattern using nested loops.
+a
+BC
+def
+GHIJ
+
+b. Write a program to copy one 1D array into another 1D array and display the copied
+
+array.
+c. Convert the following mathematical formula to a programming equivalent statement and
+write the C++ program to calculate the value of the equation.
+
+Ze 8.8(a+b)2/c-054+2a/(qtr)
+(atb)*(i/m)
+
+Page 4 of 4
+
+10
+
+20
+
+10
+
+10
+
+20
+
+10
 ````
 
 ## 2024-25 · Final-Exam · Sem 1 · paper 1282792b5027
@@ -4371,151 +4952,6 @@ write the C++ program to calculate the value of the equation.
 Page 4 of 4
 ````
 
-## 2024-25 · Re-Exam · Sem 1 · paper b8af5668b901
-
-- Departments: Computer Engineering, Cyber Security, Data Science, Mechanical
-- Programmes: BTech CyberSecurity 7010, Integrated Computer 7032, Integrated DS 7038, Integrated Mechanical 7031
-- Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CyberSecurity_7010/Programming for Problem Solving/QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf` (+4 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (Mech)
-Year: III/Semester V(Exam Year: 2025-2026)
-Subject: Programming for Problem Solving
-Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 3 pages.
-2. Question No. _1_ is compulsory
-3. Out of remaining questions, attempt any _4_ questions.
-4. In all _5_ questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right-hand side indicate full marks.
-8. Assume Suitable data if necessary
-Q1   Answer briefly:   [20]
-CO-1
-Draw a flowchart to accept student’s name, roll no and marks of 3 subjects from user
-SO-1   a.   [5]
-and calculate total, average marks and print it for ‘n’ students.
-BL-6
-CO-2   Develop a solution for the following scenario.
-SO-7   Despite everyone's advice, Harshad has decided to gamble away his money.
-Today he chose a dice game to bet on. Harshad will roll 2 die one after the other, and
-b.   Harshad wins if and only if the sum of the 2 dice rolls is exactly x.   [5]
-BL-6   The die are standard fair 6-faced, with numbers 1 through 6 written on the sides.
-Harshad 's first roll turned up to be the number A. What number does Harshad need on
-his second roll to win the game? It can be proven that this number exists and is unique.
-CO-3
-SO-6   c.   List and explain any four inbuild C-style string functions from <cstring>.   [5]
-BL-2
-CO-4
-SO-2   d.   Explain the concept of function overloading using an example program in C++.   [5]
-BL-2
-Q2   [20]
-CO-2
-Explain recursive function and write a program to checks if a string is a palindrome
-SO-7   a.   [10]
-using recursive function. Avoid using loops or inbuilt functions.
-BL-2
-CO-3   Design a C++ program that checks if a password entered by a user is Strong or Weak.
-SO-6   A password is considered Strong if it:
-• Has at least 8 characters
-b.   [10]
-•   Contains at least one uppercase letter, one lowercase letter, one digit, and one
-BL-6   special character.
-If any condition fails, display the reason (example: “Missing digit”).
-Q3   [20]
-********** 1 **********
---- page 2 ---
-CO-4
-List and explain the different types of inheritance. Also, write a program to demonstrate
-SO-2   a.   [10]
-Multiple inheritance.
-BL-2
-CO-3   Write a program that counts the number of seats available, reserves a seat at a
-SO-2   b.   specified row and column, and shows the updated seating (0 = available, 1 = booked).   [10]
-BL-6   Show a message if it's already booked.
-Q4   [20]
-CO-3
-Write a C++ program to read integer values from user and store them in an array of
-SO-6   a.   [10]
-size ‘n’. Also, find the average of elements of the arrays using pointer.
-BL-6
-CO-4
-What is friend function? List the properties of friend function and write a program to
-SO-2   b.   [10]
-illustrate the use of friend function in C++ programming language.
-BL-4
-Q5   [20]
-CO-2   Compare for and do while loops. Write a program for the following scenario.
-SO-7   A particular month has 31 days, numbered from 1 to 31.
-Day 1 is a Monday, and the usual 7-day week is followed (so day 2 is Tuesday, day 3 is
-a.   Wednesday, and so on). Every Saturday and Sunday is a holiday. There are 𝑁 festival   [10]
-BL-4   days, which are also holidays. Note that it is possible for a festival day to occur on a
-Saturday or Sunday. You are given the dates of the festivals. Determine and print the
-total number of holidays in this month.
-CO-4   Define Constructor and Write a program for following scenario: A bank account has
-SO-2   accountNumber, accountHolder, and balance.
-b.   • Write a class BankAccount with default and parameterized constructors.   [10]
-BL-6   •   Initialize accounts and display account details.
-• Perform a deposit and withdrawal operation.
-Q6   [20]
-CO-2   Write a program for following scenario.
-SO-7   Finally, a monsoon has come. According to the Meteorological Department, there will
-be rain in the upcoming 𝑁 days in the city. Initially, the water level of the city is zero
-millimetres. The amount of rain on the 𝑖-th day can be described by an integer 𝐴𝑖 as
-follows:
-•   If 𝐴𝑖> 0, the water level of the city increases by 𝐴𝑖 millimetres on the 𝑖-th
-a.   [10]
-day.
-BL-6   •   If 𝐴𝑖= 0, there is no rain on the 𝑖-th day. The water level of the city decreases
-by 𝐷 millimetres on such a day. However, if the water level is less
-than 𝐷 millimetres before the 𝑖-th day, then it becomes zero instead.
-There will be a red alert in the city if the water level becomes strictly greater
-than 𝐻 millimetres on at least one of the 𝑁 days. Determine if there will be a red alert.
-CO-3   Write a function that verifies a username by removing spaces, making sure it is
-SO-6   b.   between 5 and 15 characters long, beginning with a letter, and consisting only of   [10]
-BL-6   letters, numbers, or underscores.
-Q7   [20]
-CO-3   Define 2D array and write a program on following scenario: A class has 5 students and
-SO-6   3 subjects.
-a.   [10]
-•   Store the marks in a 2D array (rows = students, columns = subjects).
-BL-6   •   Calculate total and average marks of each student.
-********** 2 **********
---- page 3 ---
-•   Display results in tabular form.
-CO-3   Write a program for the following scenario.
-SO-6   Sam wants to buy a new phone, but he is not willing to spend a lot of money. Instead,
-he checks the price of his chosen model everyday and waits for the price to drop to an
-acceptable value. So far, he has observed the price for 𝑁 days (numbere 1 through 𝑁);
-for each valid 𝑖, the price on the 𝑖-th day was 𝑃𝑖 rupees.
-On each day, Sam considers the price of the phone to be good if it is strictly smaller
-than all the prices he has observed during the previous five days. If there is no record
-of the price on some of the previous five days (because Sam has not started checking
-the price on that day yet), then Sam simply ignores that previous day ― we could say
-that he considers the price on that day to be infinite.
-Now, Sam is wondering ― on how many days has he considered the price to be good?
-b.   [10]
-Find the number of these days.
-BL-6   Example
-Input:
-7
-375 750 723 662 647 656 619
-Output:
-2
-Hint: Sam considers the price to be good on day 1, because he has not observed any
-prices on the previous days. The prices on days 2,3,4,5,6 are not considered good
-because they are greater than the price on day 1. Finally, the price on day 7 is
-considered good because it is smaller than all of the prices on days 2,3,4,5,6.
-********** 3 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 1 · paper b39024cf1bcc
 
 - Departments: Data Science
@@ -6502,225 +6938,6 @@ Xx. ees
 3/3
 ````
 
-## 2022-23 · Exam not stated · Sem 1 · paper 4de9b2d5a92b
-
-- Departments: Common (all branches), Information Technology
-- Programmes: B.TECH INTEGRATED, B.TECH INTEGRATED / IT
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/Programming for Problem Solving/Programming for Problem Solving Batch 2022-23,2023-2023-0001.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 Feb 2025
-- Text: ocr (4 pages), mean OCR confidence 92.7
-
-````text
-SVKMs NMIMS
-
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-
-Programme: B. Tech (Al)/B. Tech (Al & DS)/B. Tech (Al & ML)/B. Tech (CE)/B. Tech (CIVIL)/B. Tech
-
-(CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech Intg.
-
-(CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech (MECH)/B. Tech
-(MXTC)/MBA. Tech (Al)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
-
-Year: I/11/ 111/Semester I/Semester IIl/Semester V (Exam Year: 2024-2025)
-
-Subject: Programming for Problem Solving
-Date: 20 Feb 2025 Time: 02:00 pm - 05:00 pm (03:00 Hrs.)
-
-Max Marks: 100
-RE EXAMINATION(2024-2025) / € 2023-2024)/ C2O022-20235)
-
-Instructions:
-
-1. This question paper contains 4 pages
-
-2. Section A is compulsory.
-
-3. Attempt any 4 questions from Section B
-
-4. In all 5 questions to be attempted.
-
-5. All questions carry equal marks.
-
-6. Answer to each new question to be started on a fresh page.
-
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume suitable data if necessary.
-
-Section A 20
-
-oO a. Design a program that accepts numbers and prints whether the number is positive or negative. 5
-b. What is a string? Illustrate how it is declared and initialized with syntax and examples. 5
-
-c. Write a C++ program to overload the multiplication function to perform the multiplication of 5
-
-two integers and two floating-point numbers.
-
-d. Draw a flow chart to find the sum of the following series: 5
-2+4+6+------ N.
-
-Section B(Attempt Any 4 Questions) 80
-
-Page 1 of 4
---- page 2 ---
-a. Give an if-else-if ladder flowchart and develop a C++ program to calculate the late
-return fee for products ordered through an e-commerce platform like Amazon or ,,
-Flipkart. The user will enter the number of days past the return deadline, and the fee
-will be calculated according to the following table:
-
-Days Past Return Deadline Late Fee
-SP) Rs. 50 per day
->5and< 10 Rs. 100 per day
->10 Rs. 200 per day
-
-The program takes the late return days as input and displays the applicable late return
-fee.
-
-b. Develop a C++ program without using the loop to find the sum of a cube of three-digit
-
-numbers. For example, if the number is 423 then Sum = + 34 37
-
-c. State and explain the output of the following code:
-
-ey
-
-#include <iostream>
-
-using namespace std;
-
-int main()
-
-{
-int arr[3] = {3, 6, 9};
-int *p = arr;
-cout<<"p:'"<<*p<<endl;
-
-for (int i= 0; i <3; i++) {
-
-*(p +i) #2;
-
-for (int i= 0; i <3; i++) {
-cout << *(arr + i) <<";
-
-}
-
-cout << endl;
-return 0;
-
-Page 2 of 4
-
-10
-
-20
-
-10
-
-YS
---- page 3 ---
-a. You are a software developer working on a project that requires combining two
-matrices representing sales data from two regions. You need to create a C++ program
-that reads two 2D arrays (matrices) of size entered by the user, performs matrix .
-addition, and displays the resultant matrix. :
-
-b. Implement a C++ program to create a class Person with a constructor that initializes the
-
-name and age of a person and a display furiction to display all the initialized details.
-
-Define the main function to create an object of a person and invoke the display function.
-
-c. What will be the output?
-#include<iostream>
-using namespace std;
-int main() {
-int a = 2;
-int b=(a-->=1)?a+3:a-1;
-
-cout << "a: "<<a << endl; _
-
-cout << "b: "<< b << endl;
-return 0;
-
-}
-
-a. Write the general syntax of a do-while loop in C++. Write a C++ program to find the
-sum of all multiples of 3 or 5 below 1000 using any loop.
-
-b. Explain the concept of Encapsulation with an example. Define a class Resort with data
-members: room_no, charges, and no_of_days. Write a program to accept Resort details,
-calculate the bill (bill=charges*no_of_days), and display all the details of the Resort,
-including the bill.
-
-a. A hospital management system wants to manage the patients assigned to various
-doctors. Develop a program using the structure for patients with the following
-information: the patient's ID, name, type of illness, and the doctor who treated the
-patient. The program should read all the details of the ten patients and display the
-details of all patients under the same doctor's treatment by reading a doctor's name
-from the user.
-
-b. What is a function in C++? Why are functions used in programming? Write a C++
-
-program that uses a user-defined function to swap two numbers using pass-by-
-
-Page 3 of 4
-
-i
-
-20
-
-10
-
-10
-
-20
-
-10
-
-10
---- page 4 ---
-reference. The program should demonstrate the function call within the main()
-function. }
-
-. Develop a C++ program using inheritance. The base class Employee has attributes like
-name and employee ID and a member function to displayRole () to display the role as
-“general employee’. Create a derived class Manager with an additional attribute for
-managing a department and override the displayRole() function to display the role as
-‘manager’. Additionally, implement the member functions in the derived class to input
-and display the details such as name, employee ID, department, and role (e.g.,
-manager/general employee).
-
-. Develop a program to calculate the sum of the following series using a recursive
-functions:
-1!+2!4+3!4+4!+5!+..4+N!
-
-oa
-
-. Write a program to print the following pattern using nested loops.
-AAAA
-BBB
-Ce
-D
-
-. Write a program to count vowels in a given string.
-
-. Convert the following mathematical formula to a programming equivalent statement and
-write the C++ program to calculate the value of the equation.
-Yo"
-
-y=y + oo X (e@- 21)
-
-Page 4 of 4
-
-20
-
-10
-
-10
-
-20
-
-10
-````
-
 ## 2022-23 · Exam not stated · Sem 3 · paper 03fab29357f2
 
 - Departments: Information Technology
@@ -7014,7 +7231,7 @@ BL: 3 c) Adults - age 18 & over
 (using while loop]
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper fba6eb699e5f
+## 2022-23 · Final-Exam · Sem 3 · paper fba6eb699e5f
 
 - Departments: Information Technology
 - Programmes: B.TECH INTEGRATED / IT
@@ -7579,6 +7796,112 @@ SO: 1
 -| BL: 3
 
 4/4
+````
+
+## 2022-23 · Re-Exam · Sem 2 · paper eb4c6c989274
+
+- Departments: Civil, Common (all branches), Mechanical
+- Programmes: B TECH, B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PROGRAMMING FOR PROBLEM SOLVING/Programming for Problem Solving, Sem-II, Batch 2021-22 Re Exam.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 85.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B.Tech/ MBA Tech/ B.Tech Integrated Year:-/ i “Semester, Il/ VI
+Stream: Mechanical/ Civil Engineering
+Subject: Programming for Problem Solving
+Date: 49] 05 |2023
+Marks: 100
+
+Re-Examination (Batch 2021-2022)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of the remaining questions, attempt any 4 _ questions.
+
+3) Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+“7 - a. Differentiate between the different types of loops in C++ language. [4]
+co -4 b. Explain the different types of constructors in classes in C++. [4]
+BL -2
+SL 3 Cs Explain encapsulation with an example. [4]
+SL - ; d. Write a program to determining the size of variable types on your computer. [4]
+
+, < =
+
+Q2 [20]
+CO -2 a. Write a C++ program to accept basic salary from user and calculate gross [10]
+BL -6 salary that includes basic salary , 50% DA , 40%HRA.
+
+CO -3 b. Develop a program to print all odd numbers from a given array taken as an [10]
+BL -6
+
+input from the user.
+
+e& [20]
+CO -2 a. ; = .
+BL-6 Write a C++ program to accept three digit number and print them separately. [10]
+
+Page 1 of 2
+--- page 2 ---
+CO -3 b. | Design a program to print the sum of numbers from | to n-1 given by the user.
+
+[10]
+BL -6 In absence of n consider n=10.
+
+Q4 [20]
+CO -3 a. ' ; . .
+
+BL-6 Write a program to print all the elements of an array using pointer. [10]
+CO -4 b. . . . . ‘
+BL-2 List and explain the various OOP features in C++. [10]
+
+Qs [20]
+CcO-4 a. Explain the different types of inheritance? Explain each with the help of [10]
+BL-2 example.
+
+CO -2 b. | Write a program to convert Fahrenheit to Celsius. (use conversion'(F- 110]
+BL -6 32)*(5/9))
+
+Q6 [20]
+a : ; 2: | Draw a flowchart to swap two integers. [10]
+CO -3 b. . a cen
+BL-6 Write a program to demonstrate the use of inline function in C++. [10]
+
+Qi : [20]
+
+a. Write a C++ program to display the following:
+1
+. 11
+CO -3 [10]
+BL-6 111
+1111
+11111
+b. | Write a program to create a structure for Bank called customer, having the
+following data member:
+CcO-4 e Account Number
+[10]
+BL -6 e Name
+e Balance
+
+Create an object to take values from the user and print the same.
+
+Page 2 of 2
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper 0921fb5451f1
@@ -8265,112 +8588,6 @@ Example of Palindrome number: cy
 565
 ````
 
-## 2021-22 · Re-Exam · Sem 2 · paper eb4c6c989274
-
-- Departments: Civil, Common (all branches), Mechanical
-- Programmes: B TECH, B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PROGRAMMING FOR PROBLEM SOLVING/Programming for Problem Solving, Sem-II, Batch 2021-22 Re Exam.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 85.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B.Tech/ MBA Tech/ B.Tech Integrated Year:-/ i “Semester, Il/ VI
-Stream: Mechanical/ Civil Engineering
-Subject: Programming for Problem Solving
-Date: 49] 05 |2023
-Marks: 100
-
-Re-Examination (Batch 2021-2022)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of the remaining questions, attempt any 4 _ questions.
-
-3) Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-“7 - a. Differentiate between the different types of loops in C++ language. [4]
-co -4 b. Explain the different types of constructors in classes in C++. [4]
-BL -2
-SL 3 Cs Explain encapsulation with an example. [4]
-SL - ; d. Write a program to determining the size of variable types on your computer. [4]
-
-, < =
-
-Q2 [20]
-CO -2 a. Write a C++ program to accept basic salary from user and calculate gross [10]
-BL -6 salary that includes basic salary , 50% DA , 40%HRA.
-
-CO -3 b. Develop a program to print all odd numbers from a given array taken as an [10]
-BL -6
-
-input from the user.
-
-e& [20]
-CO -2 a. ; = .
-BL-6 Write a C++ program to accept three digit number and print them separately. [10]
-
-Page 1 of 2
---- page 2 ---
-CO -3 b. | Design a program to print the sum of numbers from | to n-1 given by the user.
-
-[10]
-BL -6 In absence of n consider n=10.
-
-Q4 [20]
-CO -3 a. ' ; . .
-
-BL-6 Write a program to print all the elements of an array using pointer. [10]
-CO -4 b. . . . . ‘
-BL-2 List and explain the various OOP features in C++. [10]
-
-Qs [20]
-CcO-4 a. Explain the different types of inheritance? Explain each with the help of [10]
-BL-2 example.
-
-CO -2 b. | Write a program to convert Fahrenheit to Celsius. (use conversion'(F- 110]
-BL -6 32)*(5/9))
-
-Q6 [20]
-a : ; 2: | Draw a flowchart to swap two integers. [10]
-CO -3 b. . a cen
-BL-6 Write a program to demonstrate the use of inline function in C++. [10]
-
-Qi : [20]
-
-a. Write a C++ program to display the following:
-1
-. 11
-CO -3 [10]
-BL-6 111
-1111
-11111
-b. | Write a program to create a structure for Bank called customer, having the
-following data member:
-CcO-4 e Account Number
-[10]
-BL -6 e Name
-e Balance
-
-Create an object to take values from the user and print the same.
-
-Page 2 of 2
-````
-
 ## 2018-19 · Final-Exam · Sem 2 · paper aef6f685d088
 
 - Departments: Common (all branches)
@@ -8500,6 +8717,7 @@ PAGE 3/3
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/Programming for problem solving/Programming for problem solving 2018-19 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 November 2018
 - Text: ocr (2 pages), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 as ae
@@ -8620,7 +8838,6 @@ What are pointers in C explain with help of one program.
 
 Explain difference between union and structures.
 
-FR ee Re 2 a oR a OR RK
 
 —- @
 

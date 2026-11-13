@@ -1,8 +1,290 @@
 # Internet of Things Analytics: question papers in full
 
-8 unique papers · 2022-23 to 2023-24 · Data Science
+8 unique papers · 2022-23 to 2025-26 · Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Exam not stated · Sem 5 · paper 3a02ec882cf7
+
+- Departments: Data Science
+- Programmes: MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM V/Internet of Things Analytics/Internet of Things Analytics.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+i Academic Year: 2025-2026 :
+
+Program: MBATech Stream: Data Science Year: II Semester: V
+
+Subject: Internet of Things Analytics Time: 3 hrs. (2200p mato St00pm)
+Date:.26/11 [25 No. of Pages: 2
+
+Marks: 100
+
+Re-Examination 2023-24
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. ‘
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q Answer briefly: ; ; 20
+0-2; S0-2;BL-1 A | Explain IoT gateway and functionalities of IOT gateway. :
+CO-4;SO-1;BL-2 Compare Raspberry Pi and Arduino. 5
+
+CO-1:$0-1:BL-2 Cc Explain the following Arduino IDE functions - PinMode( ), millis(),
+
+loop( ), Serial.print(data), and randomSeed(seed) 5
+CO-3;SO-1;BL-2 D Explain mesh and star network with suitable examples. 5 :
+Q2 20
+
+Design reversed car parking system using suitable sensor and LEDs.
+
+Write a code for below conditions and show hardware design.
+CO-4;S0-6;BL-5 e The YELLOW led turns ON if the object is greater than 50 cm ia
+
+and less than 100 cm away from the car.
+e The RED led turns ON if the object is less than 50 cm away from
+A the car.
+--- page 2 ---
+Draw and explain the following —
+e   MOQITT publish and subscribe scheme
+
+-3:SO-1: 10 °
+COSSONEBEN e COAP message format
+e Compare COAP and MQTT
+1 Q3 20
+CO-2;S0-2;BL-1 Explain the various functions of data collection and Analysis (DCA) 10
+module of IoT platform.
+Design a light intensity control system using an LDR and a NodeMCU.
+CO-4;SO-6;BL-4 Design hardware circuit and write a code to automatically adjust the 10
+brightness of a light based on ambient light levels.
+Q4 20
+Design a system, which can upload the temperature/ humidity data on
+CO-4;SO-6;BL-4 ThingsSpeak cloud using ESP32. Show hardware design and write a 10
+code for the same. .
+CO-3; SO-2;BL-1 Explain and draw 6LOWPAN packet format and dispatch header. 10
+Q5 20
+Design an object detection system using an IR (Infrared) sensor and
+CO-4: SO-6:BL-2 Arduino Uno. Develop the hardware circuit and write the code utilizing 4D
+45 : , the analogRead () and digitalRead() functions: The system should blink
+an LED when an object is detected.
+0-2: 80-2;BL-2 Explain the suitable diagram ‘IoT information view including 10
+information flow and lifecycle.
+Q6 20
+CO-1; SO-2;BL-2 -| Draw and explain IoT level 2 architecture. 10
+0-4; $0-6; BL-4 Construct a LED blinking system where LED will blink 5 times for 20
+: seconds (on time) using Raspberry Pi and node.Js 10
+Q7 20
+: : Explain WebSocket. How does it work? Discuss WebSocket Flow and
+CO-3; 50-2; Blz2 application of WebSocket. 40
+CO-1: 80-2: Classify and discuss the below technologies under SMAC with suitable
+BL-o , example— 10
+1. Mobile 2. Analytics
+````
+
+## 2024-25 · Re-Exam · Sem 5 · paper 23e8cb5b1ec5
+
+- Departments: Data Science
+- Programmes: MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM V/Internet of Things Analytics/Internet of Things Analytics , Re-exam 2023-24.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: MBATech Stream : Data Science Year: III Semester: V
+
+Subject: Internet of Things Analytics Time: 3 hrs. (2pm to Spm _)
+Date:|7 /o 2/2025 No. of Pages: 2
+
+Marks: 100
+
+Re-Examination (2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1
+
+Answer briefly: 20
+
+C01:802:BL-1 A | Explain the following Arduino IDE functions — Serial.begin(4800),
+i i setup( ), delay(500), mqtt.connected( ) and AnalogRead(Ao)
+
+CO02;S01;BL-2 B | Classify mesh and star networking architecture. 5
+
+CO04;S01;BL-2 c Compare Raspberry Pi 3 model B and Pi 4 model B. 5
+Explain advanta a i va vivat i
+
+C03;S01;BL-2 D | Explai dvantage and disadvantage of private cloud — service
+deployment.
+
+Q2 20
+
+A | Design a system based on ultrasonic sensor to detect motion and light
+different LEDs depending on the distance of an object from the sensor
+
+CO3;S06;BL-5 e Light the GREEN LED if the object is greater than 120cm away | 10
+from sensor
+
+e Light the YELLOW LED if the object is between 60cm and
+120cm away from sensor
+--- page 2 ---
+e Light the RED LED if the object is less than 60cm away from
+the sensor and sound the buzzer
+
+Explain COAP architecture, layers and difference between MQTT and
+
+CO3;SO02;BL-2 COAP. 10
+Q3 20
+& . Write a code using Raspberry Pi 3 model B for blinking of LED for 10
+Cc - ‘ 4
+Cae times with 5 seconds ON and 5 seconds OFF time. Ze
+Interface two LEDs to node MCU and blink them for 10 times with
+C01,2;S06;BL-6 50% duty cycle, total time is 5 seconds. Show hardware design and 10
+write a code for the same.
+Q4 20
+C02,3,4;S06;B Design a system for uploading LDR sensor data on IBM ThingSpeak An
+L-6 cloud. Write a code and show hardware design.
+C01;SO02;BL-2 Classify and discuss four technology of SMAC and its advantages? 10
+Q5 20
+C02.2:S06:BL- Interface push button or switch to Arduino Uno board, turn ON LED
+BE: when switch is pressed, and turn OFF LED when switch is not pressed. | 10
+3 Show hardware design and write code for the same.
+C01;S02;BL-2 Draw and explain IoT reference architecture of information view. 10
+Q6 20
+€03;802;BL-3 Draw and explain components of google cloud SDK and its key a
+features. :
+en Show Raspberry Pi configuration setup steps —
+ee 1) Configure Wi-Fi 2) Data partition setup 10
+Q7 20
+C03;S02;BL-3 Draw and explain following COAP message formats —
+e Piggy-backed for success and failure 10
+e COAP message format.
+CO2;S02;BL-1 Draw and explain dispatch header and mesh addressing header of
+
+6LowPAN.
+````
+
+## 2024-25 · Re-Exam · Sem 5 · paper 7939dbda2ca9
+
+- Departments: Data Science
+- Programmes: MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM V/Internet of Things Analytics/Internet of Things Analytics, Batch 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.1
+
+````text
+SVKMW’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+ENGINEERING on
+Academic Year: 2024-2025
+
+Program: MBA Tech Stream : Data Science Year: III Semester: V
+Subject: Internet of Things Analytics : Time: 3 hrs. (2:o9puto 5200p)
+Date:_7/12/ 2024 No. of Pages: 2
+
+Marks: 100
+
+Re-Examination (2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory. ao
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7). Assume Suitable data if necessary.
+
+Q Answer briefly: 20
+C01:S01:BL-1 Explain following Arduino IDE functions — loop( ), digitalWrite(13,
+
+_— A| Low), delay(2000), feed.Publish(55) and PulseIn(7, High ) 5
+CO2;S01;BL-2 B| List any five specification of Raspberry Pi 4 Model B. 5
+CO3;S01;BL-2 7 Classify mesh and tree networking architecture. 5
+C0O1;SO02;BL-1 D| What are the advantages of SMAC in business or organization? 5
+Q2 20
+
+A| Design a system to upload gas data on Adafruit cloud using MQTT
+. . al . 1
+ens eagles protocol. Show hardware design and write a code for the same. °
+C01;S01;BL-2 B Explain IoT reference architecture of functional view with suitable ie
+diagram.
+20
+
+Q3
+--- page 2 ---
+Explain with suitable diagram of ESP8266 as Station Mode and Access
+
+C03; SO6;BL-4 Point Mode. Write a code for AP mode using ESP8266.
+CO2;SO2;BL-4 |B Compare H2M and M2M communication, with minimum five points. 10
+Q4 20
+A 5 : :
+C03;S0-4;BL-3 Compare COAP with MQTT. Draw diagram and explain Confirmable, io
+Non-confirmable, RST, and Acknowledge messages used in COAP.
+B| Write a code for blinking LED 10 times for 50 second (On time) using
+CO04;S02;BL-4 Raspberry Pi and node.Js. Explain GPIO.Setup() and GPIO.Output() 10
+functions.
+Q5 20
+C03; SO6;BL- A| Interface IR sensor to Arduino board, turn LED on if obstacle is
+1 , , detected else turn it off. Show hardware design and write code for the 10
+a same. “Ue
+C01,2;SO1;BL-2 e Draw and explain data framie format of 802.15.4. 10
+Q6 20
+A A : wae ;
+C0-4;806;BL-~4 Design a aysten using LDR to plot its light Intensity bevel (voltage -
+values) on ThingSpeak Cloud (web based control) using NodeMCU
+CO-3; S04;BL-2 B Describe and compare cloud deployment models with their advantages 46
+and disadvantages.
+Q7 : 20
+Describe a case study — Smart home automation system based on
+following pointers —
+1. Problem statement
+ee A 2. Need or types of sensor used 20
+
+3. Proposed design or approach with circuit diagram
+4. Software program — required important functions
+5. Conclusion and future work
+````
 
 ## 2023-24 · Final-Exam · Sem 5 · paper c1f8abe45a2c
 
@@ -222,194 +504,6 @@ BL, 6 , create a browser UI to interact with LED for ON and OFF 10
 , functions. Explain how WebSocket is used in place of HTTP.
 CO-1: Ais
 wre lie Compare IoT and M2M communication (minimum 10 points) 10
-````
-
-## 2023-24 · Re-Exam · Sem 5 · paper 23e8cb5b1ec5
-
-- Departments: Data Science
-- Programmes: MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM V/Internet of Things Analytics/Internet of Things Analytics , Re-exam 2023-24.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: MBATech Stream : Data Science Year: III Semester: V
-
-Subject: Internet of Things Analytics Time: 3 hrs. (2pm to Spm _)
-Date:|7 /o 2/2025 No. of Pages: 2
-
-Marks: 100
-
-Re-Examination (2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1
-
-Answer briefly: 20
-
-C01:802:BL-1 A | Explain the following Arduino IDE functions — Serial.begin(4800),
-i i setup( ), delay(500), mqtt.connected( ) and AnalogRead(Ao)
-
-CO02;S01;BL-2 B | Classify mesh and star networking architecture. 5
-
-CO04;S01;BL-2 c Compare Raspberry Pi 3 model B and Pi 4 model B. 5
-Explain advanta a i va vivat i
-
-C03;S01;BL-2 D | Explai dvantage and disadvantage of private cloud — service
-deployment.
-
-Q2 20
-
-A | Design a system based on ultrasonic sensor to detect motion and light
-different LEDs depending on the distance of an object from the sensor
-
-CO3;S06;BL-5 e Light the GREEN LED if the object is greater than 120cm away | 10
-from sensor
-
-e Light the YELLOW LED if the object is between 60cm and
-120cm away from sensor
---- page 2 ---
-e Light the RED LED if the object is less than 60cm away from
-the sensor and sound the buzzer
-
-Explain COAP architecture, layers and difference between MQTT and
-
-CO3;SO02;BL-2 COAP. 10
-Q3 20
-& . Write a code using Raspberry Pi 3 model B for blinking of LED for 10
-Cc - ‘ 4
-Cae times with 5 seconds ON and 5 seconds OFF time. Ze
-Interface two LEDs to node MCU and blink them for 10 times with
-C01,2;S06;BL-6 50% duty cycle, total time is 5 seconds. Show hardware design and 10
-write a code for the same.
-Q4 20
-C02,3,4;S06;B Design a system for uploading LDR sensor data on IBM ThingSpeak An
-L-6 cloud. Write a code and show hardware design.
-C01;SO02;BL-2 Classify and discuss four technology of SMAC and its advantages? 10
-Q5 20
-C02.2:S06:BL- Interface push button or switch to Arduino Uno board, turn ON LED
-BE: when switch is pressed, and turn OFF LED when switch is not pressed. | 10
-3 Show hardware design and write code for the same.
-C01;S02;BL-2 Draw and explain IoT reference architecture of information view. 10
-Q6 20
-€03;802;BL-3 Draw and explain components of google cloud SDK and its key a
-features. :
-en Show Raspberry Pi configuration setup steps —
-ee 1) Configure Wi-Fi 2) Data partition setup 10
-Q7 20
-C03;S02;BL-3 Draw and explain following COAP message formats —
-e Piggy-backed for success and failure 10
-e COAP message format.
-CO2;S02;BL-1 Draw and explain dispatch header and mesh addressing header of
-
-6LowPAN.
-````
-
-## 2023-24 · Re-Exam · Sem 5 · paper 7939dbda2ca9
-
-- Departments: Data Science
-- Programmes: MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM V/Internet of Things Analytics/Internet of Things Analytics, Batch 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.1
-
-````text
-SVKMW’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-ENGINEERING on
-Academic Year: 2024-2025
-
-Program: MBA Tech Stream : Data Science Year: III Semester: V
-Subject: Internet of Things Analytics : Time: 3 hrs. (2:o9puto 5200p)
-Date:_7/12/ 2024 No. of Pages: 2
-
-Marks: 100
-
-Re-Examination (2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory. ao
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7). Assume Suitable data if necessary.
-
-Q Answer briefly: 20
-C01:S01:BL-1 Explain following Arduino IDE functions — loop( ), digitalWrite(13,
-
-_— A| Low), delay(2000), feed.Publish(55) and PulseIn(7, High ) 5
-CO2;S01;BL-2 B| List any five specification of Raspberry Pi 4 Model B. 5
-CO3;S01;BL-2 7 Classify mesh and tree networking architecture. 5
-C0O1;SO02;BL-1 D| What are the advantages of SMAC in business or organization? 5
-Q2 20
-
-A| Design a system to upload gas data on Adafruit cloud using MQTT
-. . al . 1
-ens eagles protocol. Show hardware design and write a code for the same. °
-C01;S01;BL-2 B Explain IoT reference architecture of functional view with suitable ie
-diagram.
-20
-
-Q3
---- page 2 ---
-Explain with suitable diagram of ESP8266 as Station Mode and Access
-
-C03; SO6;BL-4 Point Mode. Write a code for AP mode using ESP8266.
-CO2;SO2;BL-4 |B Compare H2M and M2M communication, with minimum five points. 10
-Q4 20
-A 5 : :
-C03;S0-4;BL-3 Compare COAP with MQTT. Draw diagram and explain Confirmable, io
-Non-confirmable, RST, and Acknowledge messages used in COAP.
-B| Write a code for blinking LED 10 times for 50 second (On time) using
-CO04;S02;BL-4 Raspberry Pi and node.Js. Explain GPIO.Setup() and GPIO.Output() 10
-functions.
-Q5 20
-C03; SO6;BL- A| Interface IR sensor to Arduino board, turn LED on if obstacle is
-1 , , detected else turn it off. Show hardware design and write code for the 10
-a same. “Ue
-C01,2;SO1;BL-2 e Draw and explain data framie format of 802.15.4. 10
-Q6 20
-A A : wae ;
-C0-4;806;BL-~4 Design a aysten using LDR to plot its light Intensity bevel (voltage -
-values) on ThingSpeak Cloud (web based control) using NodeMCU
-CO-3; S04;BL-2 B Describe and compare cloud deployment models with their advantages 46
-and disadvantages.
-Q7 : 20
-Describe a case study — Smart home automation system based on
-following pointers —
-1. Problem statement
-ee A 2. Need or types of sensor used 20
-
-3. Proposed design or approach with circuit diagram
-4. Software program — required important functions
-5. Conclusion and future work
 ````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper eaa87a431e68
@@ -786,98 +880,4 @@ explain setTimeout() and LED.unexport() functions.
 
 CO-3; SO-2; Demonstrate the use of loT Gateways? Its working and key _
 BL-2 B | functionalities.
-````
-
-## Year not stated · Exam not stated · Sem 5 · paper 3a02ec882cf7
-
-- Departments: Data Science
-- Programmes: MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM V/Internet of Things Analytics/Internet of Things Analytics.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-i Academic Year: 2025-2026 :
-
-Program: MBATech Stream: Data Science Year: II Semester: V
-
-Subject: Internet of Things Analytics Time: 3 hrs. (2200p mato St00pm)
-Date:.26/11 [25 No. of Pages: 2
-
-Marks: 100
-
-Re-Examination 2023-24
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. ‘
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q Answer briefly: ; ; 20
-0-2; S0-2;BL-1 A | Explain IoT gateway and functionalities of IOT gateway. :
-CO-4;SO-1;BL-2 Compare Raspberry Pi and Arduino. 5
-
-CO-1:$0-1:BL-2 Cc Explain the following Arduino IDE functions - PinMode( ), millis(),
-
-loop( ), Serial.print(data), and randomSeed(seed) 5
-CO-3;SO-1;BL-2 D Explain mesh and star network with suitable examples. 5 :
-Q2 20
-
-Design reversed car parking system using suitable sensor and LEDs.
-
-Write a code for below conditions and show hardware design.
-CO-4;S0-6;BL-5 e The YELLOW led turns ON if the object is greater than 50 cm ia
-
-and less than 100 cm away from the car.
-e The RED led turns ON if the object is less than 50 cm away from
-A the car.
---- page 2 ---
-Draw and explain the following —
-e   MOQITT publish and subscribe scheme
-
--3:SO-1: 10 °
-COSSONEBEN e COAP message format
-e Compare COAP and MQTT
-1 Q3 20
-CO-2;S0-2;BL-1 Explain the various functions of data collection and Analysis (DCA) 10
-module of IoT platform.
-Design a light intensity control system using an LDR and a NodeMCU.
-CO-4;SO-6;BL-4 Design hardware circuit and write a code to automatically adjust the 10
-brightness of a light based on ambient light levels.
-Q4 20
-Design a system, which can upload the temperature/ humidity data on
-CO-4;SO-6;BL-4 ThingsSpeak cloud using ESP32. Show hardware design and write a 10
-code for the same. .
-CO-3; SO-2;BL-1 Explain and draw 6LOWPAN packet format and dispatch header. 10
-Q5 20
-Design an object detection system using an IR (Infrared) sensor and
-CO-4: SO-6:BL-2 Arduino Uno. Develop the hardware circuit and write the code utilizing 4D
-45 : , the analogRead () and digitalRead() functions: The system should blink
-an LED when an object is detected.
-0-2: 80-2;BL-2 Explain the suitable diagram ‘IoT information view including 10
-information flow and lifecycle.
-Q6 20
-CO-1; SO-2;BL-2 -| Draw and explain IoT level 2 architecture. 10
-0-4; $0-6; BL-4 Construct a LED blinking system where LED will blink 5 times for 20
-: seconds (on time) using Raspberry Pi and node.Js 10
-Q7 20
-: : Explain WebSocket. How does it work? Discuss WebSocket Flow and
-CO-3; 50-2; Blz2 application of WebSocket. 40
-CO-1: 80-2: Classify and discuss the below technologies under SMAC with suitable
-BL-o , example— 10
-1. Mobile 2. Analytics
 ````

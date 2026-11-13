@@ -994,6 +994,7 @@ ry
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/All Stream/Robotic Process Automation/Robotic Process Automation Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12/5 / 2025
 - Text: ocr (17 pages), mean OCR confidence 70.5
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -1236,7 +1237,6 @@ Save to | |
 | © message Box | |
 Text | | b
 (“The humidity of * + placename +“is"thu O @ | i} |
-aire pelt sre iomnerts sean POA 1 | |
 ® ty | E
 6
 --- page 7 ---
@@ -1567,12 +1567,10 @@ Following is defined in the taxonomy manager
 Document type
 " » DToxonomy 8 Document type name
 
-© Bipekih Expohub.NoCategoryinvoices ([] 0 Delete
 
 ¥ = Accounts
 
 croup Category Document type code
-+ Binwies [_expohut v [Accounts y |[owtorataue J
 Invoice Number
 , Display settings
 
@@ -1781,6 +1779,7 @@ Dectsion
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/ROBOTIC PROCESS AUTOMATION/Robotic Process Automation,Final 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (13 pages), mean OCR confidence 69.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1851,7 +1850,6 @@ i ,&
 Ud Tonics Rtemtear ORR |
 
 Empty field before typing Click before typing
-[Stateline Ena snitett =] [Singtes ce
 aoe | =
 
 ’
@@ -1886,7 +1884,6 @@ Comparison |
 i
 ¥ a A
 ws Assign wa Assign _
-[Message = GuesN.ToStringQ)+_ | Message GuesN.toStringQ + |
 
 CO-1,2 : ae - L cece so
 SO-1,2,7 | [5]
@@ -2090,11 +2087,9 @@ Save to Value to save
 
 (x) Assign
 Save to Value to save
-{} ChoiceVec o- @ = () CSprite","Fanta","Thur o'@
 
 <)
 
-ChoiceVec={"Sprite","Fanta","ThumsUp"}.
 --- page 8 ---
 eS ee
 
@@ -2291,6 +2286,7 @@ BL-5 Is it possible or not? Please explain.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ROBOTIC PROCESS AUTOMATION/Robotics Process Automation, Sem VI, Final Exam 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30/4/2024
 - Text: ocr (10 pages), mean OCR confidence 77.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -2457,7 +2453,6 @@ go |
 Reference as i |
 (Bea ] H
 © save changes [7] Create it not exists
-tend formating [Sune es prefect] i
 Di tempiate fre | :
 (§} bo as a i
 - © . :
@@ -3318,6 +3313,7 @@ tasks. *
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/ROBOTIC PROCESS AUTOMATION/Robotic Process Automation , Re-exam 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (14 pages), mean OCR confidence 73.9
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SS UNIVERS
@@ -3411,7 +3407,6 @@ Doubie-click to view :
 ae False
 Comparison
 seo Assign ‘ es ¥
-CO-1,2 Messege = GuesN.Tostringd+ Message = GuesN.toStringQ +
 SO-1,2,7 - : [5]
 BL4 Fl Message Box SS Mengein
 Double-click to view Double-click to views
@@ -3463,7 +3458,6 @@ What is the output if AlphSeq.xlsx is as given below? The cell box above
 says: item.ToString+”1”
 
 , A, Bo cl EE UF
-JA Cc bd 8B FE G -
 
 4
 4
@@ -3654,7 +3648,6 @@ Text
 
 Write to filename
 
-~ {} “EARPA\Final\F23\FinallF23\QFivewNo 9 @® [9
 
 with Text
 
@@ -3744,7 +3737,6 @@ Try Other Number transition on the right says:
 
 Trigger H
 
-i ee Seceaansies exe wore parma Sg, |
 | |
 | {
 | Dros Trigger activity here |
@@ -3758,7 +3750,6 @@ i
 Try Other Number aA!
 Condition |
 
-PolyCoeff(0)"Reat*Re ot+ PolyCoeff(1 yFRo ot+ PolyCoeff(2}> o
 
 Action : :
 
@@ -3870,6 +3861,7 @@ BL-5 favorite number? Please explain.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ROBOTIC PROCESS AUTOMATION/Robotics Process Automation,Re-exam 2023-2024.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 4/7/24
 - Text: ocr (9 pages), mean OCR confidence 79.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -4265,7 +4257,6 @@ oe | Value entered 7 |
 on 3 ' {} Mix_flavour — | @
 So- fe pat tno ceed ne
 12,7; |
-ete arr eet arennereomrnen tare een —_— — y
 BL-4 28 Switch
 Expression {} ABC On @
 Default Add an activity
@@ -5074,1519 +5065,14 @@ and feedback data stored in collections.
 provide feedback, and finalize review statuses using Patch statements.
 ````
 
-## 2022-23 · Final-Exam · Sem 5 · paper 6c5063c31609
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/ROBOTIC PROCESS AUTOMATION/Robotic Process Automation, 3rd Year, Sem V, Year 2022-23, Final Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01-December.2022
-- Text: ocr (14 pages), mean OCR confidence 74.5
-
-````text
-¢ 3
-
-/ 7 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT és ENGINEERING 1
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
-
-Academic Year: 2022-23
-
-| : Programme: B.Tech / MBA Tech (All Stream) — Year: III Semester: V
-\
-Subject: Robotic Process Automation , : ; ; |
-Marks: 100
-Date: 01-December.2022 “ Time: 2.00 pm - 5.00 pm ‘-
-
-Durations: 3 (Hrs) -
-
-No. of Pages: _7?4
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions. _
-3) In all___5_ questions to be attempted.
-4) All questions carry equal marks.
-_ 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql.
-
-Answer all questions. ; [20]
-
-a. 181 Sequence ; 7 R
-
-F] Input Dialog Aa
-Dialog Title
-
-“Elapsed Time Counter"
-
-Input Label
-“Enter Your Arrival Time"
-
-”™ . Input Type
-
-CO-1,2 [Text Box +}
-
-SO-1,2,7 ; . Value entered a DI
-BL-3 © Arrivaltime :
-
-ArrivalTinie
-
-= Message Box oe
-
-- Text
-
-i “le has been’ "+ (6- ArrivaiTime), ToStringO+" | hours." -
-
-_ S)
-
-‘ cn see aa
-
-Explain the bot. ArrivalTime is an Int32 variable.
-
-1/44
---- page 2 ---
-CO-1,2,3
-SO-1,2,7
-BL-4
-
-b.
-
-[R] Sequence
-=}
-=) Input Dialog
-
-Dialog Title
-
-“Search Phrase"
-
-Input Label
-
-“Type a search phrase"
-
-Input Type
-
-Text Box ¥
-
-Value entered
-
-Topic
-
-%& Use Browser Chrome: Google
-
-Browser URL
-
-“https/Awww.google.com/"
-
-3} Do
-
-oS
-FFE Type Inte INPUT’ :
-
-== cr id =
-P 2 }!
-
-Type this @ Standard (> Secure
-Tepic+"[k(enter)]" Wr
-
-Empty field before typing Click before typing
-{Single line [End, Shift+H ~| | Single i
-
-¥
-© Delay
-eS
-
-ch
-
-Explaip the bot. What kind of variable is Topic?
-
-a
-
-a
-
-[5]
-
-. ; 1/144
---- page 3 ---
-CO-1,2
-SO-1,2,7
-BL-4
-
-Start
-wea Assign
-RandN @=35
->) input Disteg
-
-True . False
-
-Comparison
-wa Assign fea Assign
-Message = GuesN.ToStringQ+ Message . = GuesN.toStringQ +
-¢ ©
-=) Message Box [I Message Box
-Dovbie-click to view Doubdte-click to view
-Input Dialog says:
-
-[b Input Dialog
-Dialog Title
-
-“Guess a Random number between 1 and 99"
-
-input Label |
-1
-
-Message S
-Input Type
-Text Box |
-Value entered |
-
-GuesN 1
-
-Comparison block says: GuesN>RandN
-Assign window on the left says: GuesN. ToString()+" is too big. Try again."
-
-[5]
-
-°
-
-Bfah
---- page 4 ---
-Assign window on the right says: GuesN.ToString() +"is too small. Try
-again." Both Message Boxes say “Message”. If GuessN = 43, What is the
-
-‘output?
-d. (31 Sequence ; _ a
-S
-¥ Read Column a
-“EN Final2\QOne\Q1 d\AlphSeq.xlsx" im
-"Sheet 1" “At
-e
-(71 For Each : a
-ForEach In
-|itern ; | ReadCol —
-1] Body a
-8S
-=a Write Cell x
-CO-1,2,3
-SO-1,2,7 . "E:\Final\QOne\ Ql d\ Seq Tab.xlsx" fo [5]
-BL-4 "Sheet2" item-Test
-item. ToString
-S
-8
-
-What is the output if AlphSeq.xlsx is as given below? The cell box above
-
-says: item.ToString+” 1”
-
-Hay
---- page 5 ---
-aa [20]
-a. J] Sequence AA
-i) .
-=) Input Dialog a
-Dialog Title
-"Pizza Planner”
-Input Label
-"Choose Your Pizza Toppings between 12 and 13"+ Envi
-Input Type
-[Multiple Choice =
-Input options (separate with ;)
-("12,13")
-Value entered
-MyTop
-. cl = ¥ -
-CO-1,2,3 off Switch Qa.
-{ a 7 - ~ - 7 i
-SO-1,2 | Expression Enter a VS expression \ [10]
-BL-4 |
-Default eats ve eee nee Add amactvty
-Case 0 MessogeBox |
-Case 1 . Message Box
-Add nevs case
-oe . oe
-The Input Label says: "Choose Your Pizza Toppings between 12 and
-13"+Environment.NewLineQ+"1 for
-Pepperoni"+Environment.NewLine()+"2 for
-Jalapenos"+Environment.NewLine()+"3 for
-Sausage"+Environment.NewLine()+"12 for
-Pepp+Jala"+Environment.NewLine()+"13 for Pepp+Saus".
-What should the Expression box in the Switch activity say so that the
-Message Box pops up for either of the cases, i.c., the bot runs?
-CO-1,2,3 Explain the bot. Assume the Message Box text if needed.
-SO-1,2 . [10]
-BL-4
-
-5/44
---- page 6 ---
-e [20]
-CO-1,2,3
-1. Explain the Activities of Get Text and Append Range. [10]
-BL-3
-CO-1,2,3 . segs . .
-SO-1,2,7 - Explain the activities of Read Column and Write Line. [10]
-BL-3
-es [20]
-(I Sequence a
-2] Input Dialog a
-Dialog Title
-"Planets of the solar system"
-Input Label
-“Select the order"
-Input Type
-Text Box x|
-Value entered
-InString
-CO-1,2,3
-SO-1,2,7 7 [10]
-BL-4 ofe Switch a
-° Expression InString
-Defauit - _ : Add an activity
-Case First : . Message Box
-Case Second
-FE MessageBox
-
-Double-click to view
-
-What should the Message Box in Case Three say for the output to read:
-“The Third planet in our solar system is the Earth.”
-
-C/14
---- page 7 ---
-b. (21 Sequence wz
-eS
-#] Do While a
-Body
-[3] Body R
-S
-wa Assign
-Counter = Counter + 1
-¥
-wa Assign
-CO-1,2,3
-CountFn = Counter*(Counter-
-SO-1,2,7 [10]
-BL-4 9
-(Write Line
-Text "The counter is"+ CountFr.T
-3
-Condition
-CountFn < 100 ~ :
-a)
-Counter starts at 1 and CountFn=Counter*(Counter+1) and the Write Line
-text says: "The counter is "+ CountFn.ToStringQ. What is the output?
-Where is the output written?
-Q5 Explain the following bot. [20]
-
-4/414
---- page 8 ---
-CO-1,2,3
-SO-1,2,7
-BL-4
-
-2B, ChoiceFlow
-
-=) Input Dialog
-
-Double-ctick to view
-
-False
-
-“nomen TUE
-
-Flow Decision
-
-[Write Line
-
-> Text ChoiceVec(0)+" Lover!"
-
-Sequence says:
-
-[2] Sequence
-
-@
-| aeB Assign
-| Prefivec = (1,23)
-i ¥
-| asp Assign
-ChoiceVec = {"CocaCola","Peps
-
-@
-
-Choice Vec={"CocaCola","Pepsi","DrPepper"}.
-
-°
-
-a4
-
-—_—
---- page 9 ---
-Input Dialog says:
-
-[2 Input Dialog
-| Dialog Title i
-i "Soft Drink Preference". |
-
-Input Label |
-
-| “Choose Your Favorite Soft Drink" + Environment, NewLi i
-
-Input Type ! \
-
-[Text Box 7
-
-Value entered
-
-| MyPref i
-
-Input Label says: "Choose Your Favorite Soft
-Drink"+Environment.NewLine()+"CocaCola"+Environment.NewLine()+"
-
-Pepsi"+Environment.NewLine()+"DrPepper"
-
-Flow Decision “MyPref=ChoiceVec(0)”.
-Write Text File says:
-
-Fy Write Text File —
-Text
-
-ChoiceVec(0)+" is not your favorite drink, "+Environme
-
-Write to filename . i
-
-"EsMFinal2\OFive\No"+ChoiceVec(0}+ "txt" el |
-
-with Text
-
-ChoiceVec(0)+" is not your favorite drink.
-"+Environment.NewLine()+"You care for either "+ChoiceVec(1)+" or
-
-"+ChoiceVec(2)+"."
-
-444
---- page 10 ---
-Q6
-
-Explain the bot.
-
-[20]
-
-CO-1,2,3
-SO-1,2
-BL-4
-
-[$] Sequence
-
-&2 StaMach
-
-®
-
-Start
-
-ye
-
-§.) Poly Coeffs
-
-o
-
-~~ Process
-
-¥
-
-$.} Guess Root
-
-iy dinrns. ©
-
-5. Final State
-
-+» «+ Correct Guess ~~ ~~
-
-Ty Other Nu
-Ey Poly Cocffs “
-€) Entry
-| ae Assign
-| PolyCoeff = {1,-7,25}
-i
-© it
-
-SS
---- page 11 ---
-| 2) Input Dialog a
-Dialog Title ;
-
-i “Guess the reot"
-
-| Input Label
-i "Type an integer between 1 and 16"
-
-Input Type
-
--
-i Text Box
-
-Value entered
-
-Root
-
-| @ Exit
-
-§ Comect Gues
-|
-
-Source: Guess Reot
-
-Trigger
-Drop Trigger activity here
-
-_ Correct Guess
-Condition
-i PolyCoeff(0)*Root*Root+PolyCoeff(1)*Root+PolyCoeff(2)=0
-
-i Action
-
-i immense Kaban, opens Sana PEMD MMe Caen A
-
-Try Other Number transition on the right says:
-
-Way
---- page 12 ---
-SS Ty OtherNumber
-
-Source: Guess Root
-
-Trigger
-Droo Trigger activity here '
-Try Other Number a
-Condition
-PolyCoeff(0)*Root*Roct+ PolyCoeff(1)*Ract+PolyCoeff(2)>0
-Action
-[2] Message Box BO aR
-Text
-Root. TeStringQ+" is net a root, Try another number."
-Try Other Number on the left says:
-(& TryOtherNumber : -
-Source: Guess Rect
-Trigger
-Drop Trigger activity here
-Try Other Number aR
-Condition
-
-PolyCoeff(0)*Root*Roct+PolyCoeff(1)*Root+ PolyCoeff(2)<0
-
-Action
-
-[=] Message Box ; a
-
-Text
-
-Root. ToStringO+" is not a rect. Thy another number."
-
-2/14
---- page 13 ---
-Q7 . . [20]
-
-=) Input Dialog a
-Dialog Title ;
-
-“Name of the car owner
-
-Input Label
-
-“Enter Your First Name"
-
-Input Type
-[Text Box : : |
-
-Value entered
-
-MyName
-
-=) Input Dialog
-
-CO-1,2,3 : : Dialog Title
-SO-1,2,7 : "Favorite four digit number" : . [10]
-
-BL-4 Input Label
-
-a
-
-“Enter First Four Digits of your phone number"
-
-Input Type
-{Text Box ; x|
-
-Value entered
-
-MyFour
-
-e
-(St Send Outlook Mail Message a
-
-To MyName+MyFour, ToString+" @outlook, con
-Subject MyName+'"'s favorite four digit number is "+1
-
-Body = "Your four digit number is not Kaprekar's nun
-Attach Files :
-
-(ayy
-
-Nest
-
-Byy
---- page 14 ---
-Subject says: MyName+"'s favorite four digit number is
-"+MyFour.ToString()
-
-Body says: "Your four digit number is not Kaprekar's number"
-What is the output if MyName=Clint and MyFour=1776?
-
-Explain the bot.
-CO-1,2,3 | b. The subject of an email received for the email address
-SO-1,2,7 Tammy2552@outlook.com reads “Saxby’s favorite four digit number is [10]
-BL-5 2552; Is it possible or not? Please explain.
-
-x
-
-lips
-````
-
-## 2022-23 · Final-Exam · Sem 6 · paper cd7ae450455f
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/ROBOTICS PROCESS AUTOMATION/Robotics Process Automation, Sem-VI, Year 2022-23, Final Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/04/2023
-- Text: ocr (3 pages), mean OCR confidence 94.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B Tech Stream ; Artificial Intelligence Year: III Semester: VI
-Subject: Robotic Process Automation Time: 03 hrs (02:00 pm to 05:00 pm)
-Date: 27/04/2023. No. of Pages: O3% |
-Marks: 100 / |
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-Van of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-
-Create a UiPath workflow that automates the following process:
-Open a web page and enter a search query into the search field.
-Extract the search results and save them to a text file.
-
-CO-1,2,3;
-0-1,2,35 Open the first search result in a new tab.
-SO-2; a. . on (05)
-BL-2 Extract the title and description of the page and save them to the text file.
-
-Close the tab and return to the search results page.
-Repeat steps 3-5 for the next 4 search results.
-C Close the browser.
-Create a UiPath workflow that automates the following process:
-Read data from two Excel files, "File A" and "File B", and store each dataset in separate DataTable
-
-variables.
-Merge the two DataTable variables into a new DataTable variable, with the columns "ID",
-CO-1,2,3; "Name", and "Age".
-SO-1; b. Sort the merged DataTable variable by the "Age" column in ascending order. (05)
-BL-2 Filter the merged DataTable variable to only include rows where the value in the "Age" column is
-
-greater than or equal to 25.
-Use the filtered DataTable variable to write the data to a new Excel file, with the columns "ID",
-"Name", "Age", and "Status", where the value in the "Status" column is "OK" for each row.
-Save the new Excel file and close it.
-
-Create a UiPath workflow that automates the following process:
-Use the "Generate Random Number" activity to generate a random number between | and 10,000
-
-CO-1,2,3; oes .
-$0.2. and store it in a variable. (05)
-BL 3 & Use the "Log Message" activity to display the generated random number in the Output panel.
-
-Use the "If" activity to check whether the generated random number is greater than or equal to
-5,000.
---- page 2 ---
-If the generated random number is greater than or equal to 5,000, use the "Delay" activity to wait
-for 5 seconds.
-
-Use the "Log Message" activity to display a message in the Output panel indicating whether the
-delay was performed or not.
-
-Use the "Assign" activity to create a new variable and set its value to the length of a specified
-string.
-
-Use the "Log Message" activity to display the length of the string in the Output panel.
-
-Use the "Invoke Method" activity to convert the specified string to uppercase.
-
-Use the "Log Message" activity to display the uppercase string in the Output panel.
-
-Use the "Invoke Code" activity to generate a custom message in the Output panel that includes the
-current date and time.
-
-Create a UiPath workflow that automates the following process:
-. Open a web browser and navigate to the URL https://www.amazon.com.
-Use the "Type Into" activity to enter the search term "laptop" into the search bar and press Enter.
-Use the "Find Element" activity to locate the first search result on the page and click on it.
-Use the "Get Attribute" activity to retrieve the title and price of the laptop from the product page.
-Use the "If" activity to check whether the price of the laptop is greater than $1,000.
-If the price is greater than $1,000, use the "Send Outlook Mail Message" activity to send an email
-
-CO-1,2,3; to a specified recipiént with the title and price of the laptop in the body of the email.
-SO-1; Use the "Click" activity to add the laptop to the shopping cart. (05)
-BL-5 Use the "Wait Element Vanish" activity to wait until the shopping cart icon indicates that the
-laptop has been added to the cart.
-Use the "Click" activity to navigate to the shopping cart page.
-Use the "Get Text" activity to retrieve the total price of the items in the shopping cart.
-Use the "If" activity to check whether the total price is less than $2,000.
-If the total price is less than $2,000, use the "Click" activity to proceed to the checkout page.
-Use the "Type Into" activity to enter the required shipping and payment information.
-Use the "Click" activity to complete the purchase. (Currency conversion is allowed)
-Design a UiPath workflow that automates the following tasks:
-Prompt the user to provide necessary inputs to generate an overview of the course and instructor details,
-such as the course name, course code, instructor name, instructor ID, campus name, lecture hours, tutorial
-hours, practical hours, and credit hours.
-Calculate the credit hours based on the provided lecture, tutorial, and practical hours.
-Q2 Provide the option for the user to select whether the instructor for tutorial or practical hours is different from
-CO-1,2,3; the anchor instructor for the course. 20]
-SO-1; Implement proper validation techniques to ensure that the data entered by the user is accurate and consistent.
-BL-3 Store the generated data in a secure manner to prevent unauthorized access or modifications.
-Create a table or file that includes the overview of the course and instructor details, including the course
-name, course code, instructor name, instructor ID, campus name, lecture hours, tutorial hours, practical
-hours, credit hours, and the instructor details for each component of the course.
-Enhance the validation process to include additional checks such as checking for duplicates or ensuring that
-the data adheres to specific formatting or language requirements.
-| Create a UiPath automation that generates course objectives and performs various validation and storage
-Q3 tasks. The workflow should begin by asking the user to input the number of course objectives they want to
-8 C0-1.2,3: generate. The website https://elearn.sitehost.iu.edu/courses/tos/gen2/ will be used to generate the course
-—_ objectives. The generated objectives, along with their corresponding Bloom's Taxonomy levels, will be [20]
-ook saved to a file or database for future reference.
-
-The workflow should incorporate robust validation techniques to ensure that the user's input and generated
-data are accurate and consistent. The validation process should also include checks for duplicates and
---- page 3 ---
-adherence to specific formatting or language requirements. The data will be stored securely to prevent
-unauthorized access or modifications.
-
-Finally, the workflow will generate a report or summary of the generated course objectives using the
-extracted data. The report will provide information such as the number of objectives generated, the
-corresponding Bloom's Taxonomy levels, and any other relevant information. The report will also include
-visualizations such as graphs or charts to help the user better understand the generated data.
-
-Create a workflow to do the following tasks:
-
-Q4 Goto https://www.worldcat.org/ and search for the books
-
-Based on the course name given as an input, create a list of 10 books
-
-coe SO 5 old books and 5 newest books [20]
-Create a table with Summary and Contents
-Proper Validation and Storage of data
-ia Based on the start and end date of the semester, generate the following table in a word document
-Qs Sr.No. | Lecture Date Topic Heading 3 Heading 4
-C0-1,2,3; 1 01-March-2022 #To be kept empty #To be kept empty #To be kept empty
-$0-1; Number of weeks = 15 [20]
-BL-4 Get national and state holiday automatically
-Highlight Test 1 and Test 2 date respectively
-Proper Validation and Storage of data
-Create a UiPath workflow that automates the following process:
-Read a list of Course Outcomes from an Excel file.
-For each Course Outcome, determine the level of Bloom's Taxonomy that it corresponds to. The six levels
-of Bloom's Taxonomy are:
-Remembering
-Understanding
-Q6 Applying
-CO-1,2,3; Analyzing [20]
-SO-1; Evaluating
-BL-3 Creating
-Categorize each Course Outcome into one of the six levels of Bloom's Taxonomy, and store the results in a
-lan new Excel file.
-Additionally, for each Course Outcome, extract the relevant keywords that helped in determining its Bloom's
-Taxonomy level, and store these keywords in the same row as the outcome in the new Excel file.
-Finally, generate a report in the Output panel that summarizes the number of Course Outcomes that fall into
-each of the six levels of Bloom's Taxonomy.
-You are required to create an automation process that generates a report on the latest stock prices of a
-particular company. The automation process should collect data from an online platform, process it, and
-generate a report in a Word document and an Excel sheet.
-Steps to be followed:
-aa Q7 Open a web browser and navigate to the online platform that displays the latest stock prices for
-0-4: $0-2: the specified company. 7 [20]
-wie BL-6 > Extract the latest stock prices for the specified company from the online platform and save it in an
-Excel file.
-Open a new Word document and create a table with the latest stock prices for the specified
-company.
-
-Calculate the average of the latest stock prices and add it to the Word document.
-Save the Word document with an appropriate name.
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper b394eb226770
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ROBOTIC PROCESS AUTOMATION/Robotics Process Automation, Sem-VI, Year 2022-23, Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (12 pages), mean OCR confidence 77.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2022-2023
-
-Program: B. Tech/MBA Tech Stream: ALL Year: Ill Semester: VI
-Subject: Robotic Process Automation Time: 3 Hrs. (40:00 am 40 4:00pm)
-Date: 05]07/2023 No. of Pages: 12
-Marks: 100 «
-
-Re Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Answer briefly
-
-CO-1;
-
-SO-1; | A. | Compare between automation and RPA. [5]
-BL-4
-
-CO-2;
-
-SO-1; |B. | What do you mean by scalar variables? Give its example. [5]
-BL-2
-
-CO-3;
-
-SO-1; | C. | Define the Error Handling activities used in RPA using UiPath. [5]
-BL-2
-
-Page 1 of 12
---- page 2 ---
-[3] Main Sequence 7 a| [5]
-®
-[4 Input Dialog a iJ
-Dialog Title
-[0 “Pizza Arrival Time Calculator” ut jo]
-Input Label
-[f}.“Enter the pizza Order time (H)" le]
-Input Type
-[Text Box v|
-Value entered
-[p Order_time ut @|
-d .
-2) Input Dialog a
-Dialog Title
-[O Pizza Arrival Time Calculator” te)
-Input Label
-Co- [0 “Enter the pizza arrival time (H" ut | '@)
-ia Input Type
-7 Text B v
-1,2,75 [reson a
-BL-3 Value entered
-| {}. arrival_time is |e)
-L _ 7 “] —_ = pol
-| = Message Box TE |
-Text
-| {}. "Pizza Arrival Time is = “+(arrival_time-ord- o| @|
-co)
-e The Text written in Message Box is :
-"Pizza Arrival Time is = "+ (arrival_time-order_time).ToString()+"Hours"
-
-© The variables used are as under:
-7 | Variable type
-
-ee
-
-Explain the above Bot.
-
-Page 2 of 12
---- page 3 ---
-Q.2
-
-Co-
-
-1,2,3;
-
-SO-
-
-1,2,4
-
-BL-4
-
-A. | Consider the following bot and discuss its functionality in detail.
-
-[3] Main Sequence ik
-
-®
-
-[8 Input Dialog ia
-Dialog Title
-
-oO “Enter the name of Place”
-
-Input Label
-{3 "Name of the Place” Pal (C)
-Input Type
-
-[Tex Box v|
-
-Value entered
-{} placename Me
-
-Use Browser Chrome: Google par
-
-Browser URL
-{}, “https://www.google.com/”
-
-{3] Do ia
-iS}
-[FE type into ‘INPUT’ ta
-= = Sar =
-io}
-‘Type this @ Standard © Secure
-
-'{) "Humidity of #place_name+"f
-
-Empty field before typing _ Click before typing
-[Single line (End, shitteH~ | [singte v|
-
-GS. Get Text 52%
-
-“clr Peecptof
-9 Humid (5229)
-
-[10]
-
-.
-
-Wind: 18 kh @
-Save to
-[Q) humid value He
-[=] Message Box ik
-Text oe ee .
-{) “The humicity of" + place name + “is'+hu_ 7 | ®
-®
-Page 3 of 12
---- page 4 ---
-e The Type this block under Type into activity says:
-" Humidity of " +place_name+" [k(Enter)] "
-
-e The Text block under message box says: =
-
-" The humidity of "+ place_name +" is “humid - value
-
-e The following are the variables used in the bot:
-
-Name Variable ‘type : Scope
-humid_value String Do
-| |
-place_name String Main Sequence
-Consider the following bot: [10]
-[3] Main Sequence - a
-i)
-input Dialog ia
-Dialog Title
-{a “Layers of Earth Atmosphere" rie | @)
-Input Label
-[() “Select the Order of Layer" Ae)
-Input Type
-[Text Box al
-Value entered
-[0 inputt fe]
-CO-
-1,2,3; a l _ 7
-SO- of Switch pa
-1,2,7; Expression | {} input? oO | @]
-BL-4
-Default Add an activity
-Case First MessageBox
-Case Second MessageBox
-= ‘Case Third |
-| |
-[) MessageBox : a)
-Text _.
-| ez “||
-Add new case
-®
-
-Page 4 of 12
---- page 5 ---
-“inputl” used in this bot? ‘Also
-
-What should be the type of variable named
-in message box of case “Third”
-
-explain what should be typed in place of “XYZ”
-so that it produces the output as:
-
-“ The Third Layer of Our Earth Atmosphere is Mesosphere”
-
-Q3
-A. | Consider the following bot : [10]
-[$1 Main Sequence
-®
-[4 Input Dialog i: 2
-Dialog Title
-i) “Burger Planner Bot “ ut lal
-Input Label
-fp "Choose Your Burger Ingreadients between Me
-Input Type
-[Muttiple Choice v|
-Input options (separate with}
-fo 12139 Bite)
-CO- Value entered
-1,2,3; [0 burger_top ay |@
-SO-
-1,2,
-BL-4
-Expression | xyz _ _ ee _. __% |
-i. Default ____ Add an actly,
-ase 0 |
-| [| MessageBox 1a |
-\
-Text |
-{} "You have ordered for Burger With extra ch a | @| | |
-= OtCt—“C—s MessageBox
-Add new case _|
-©
-Page 5 of 12
---- page 6 ---
-The input label says:
-
-"Choose Your Burger Ingredients between 12 and 13" + Environment.NewLine
-+"] for Extra Cheese"+Environment.NewLine+"2 - for Extra Chicken
-Toppings"+ Environment.NewLine+"3 for Extra Paneer Topings"
-
-The message box in Case-0 says:
-
-"You have ordered for Burger with extra cheese and extra Chiken toppings."
-
-The message box in Case-1 says:
-"You have ordered burger with extra cheese and extra Paneer toppings."
-
-Suggest the expression that is suitable in place of “XYZ” in the expression of
-Switch Block.
-
-Cco- |B. [10]
-es Discuss the above (used in Q3.A) bot along with its functionality and activities
-1,2; used.
-BL- 4
-Q.4
-A. | Explain the following activities used in UiPath with suitable example of bot | [10]
-Co- where it can be used (No need to completely design the bot for giving the
-2:33 example):
-SO-1, a) Use Application/Browser
-BL2 b) Read PDF with OCR
-B. | A bot is to be designed with the following objectives: [10]
-a) Open the URL: https://www.nseindia.com/market-data/live-equity-
-Co market?symbol=NIFTY%2050.
-1,23; b) Selects the top three companies having least LTP (Sort by Clicking
-SO- A button)
-ee c) Save the result in the form of excel and send it via mail to
-
-abc@outlook.com.
-List down the activities required for designing of the bot with above objectives
-
-and explain each activity.
-
-Page 6 of 12
---- page 7 ---
-The screenshot of the above website is as under:
-
-or
-NS E (search by company name, symbol or keyword
-
-HOME ABOUT MARKET DATA INVEST LIST
-
-HIGH LOW” PREV. CLOSE:
-
-NIFTY 50 17,060.40 17,127.70 17,016.00 16,988.40 17,107.50 119.10
-TATASTEEL 105.10 105.40 104.30 104.50 | 104.80 930
-NGC SS*~<“i;*‘ié«‘«‘iSWCTS:SC*«*aS.S«*SOSSCC~* 152.30 451404.
-"47685 ~=—«177.55—=«*175.30~=*é“‘«é‘iTOSCt*C“‘ié‘i CS ASC
-
-COALINDIA 2815 21895 21595 21705 21670 035
-POWERGRD 20725 27 222.45 — R150 223.1022 4.40
-
-360.20 «361.60 355.75 359.65 «= 358.30stCt«C;«38
-
-369.00 370.25 36545 «367.15 366.85 Y 0.30
-
-tT © 378.80 "37880 «37405 ti«* 378.80 : sina “480°
-
-HINDALCO 38770 390.60 304.95 38575 38830 2.55
-
-TATAMOTORS —=ss«41285 = 413.90 «40770 =Ssi«CTS(C(i«é‘aSCtC‘“‘«‘«‘iz‘
-HDECLIE IEE   467,00——«484,00 «466.50 465.25 483.007 «17.75.
-
-sN 0” 522.00 52845 51645 519.20-«SS2.75—sC*~«i
-“ADANIPORTS ~=—=«sTWSO.SC«éS74.AO.SC«CST.DC 666.75 665.50 425
-JSWSTEEL OT. om 0 662.00 ©» 668.15 «6601.95
-
--TATACONSUM 704.10 706.00 700.00 702.60 701.00 ¥ 1.60
-UPL s—=<“‘;éOBCS:*C*«i|OLSC«‘rOGSSC(“‘<‘éimOW#«*YNO’:«OO*«*«CIO”=S
-
-Q.5
-
-co. | A. | Consider the following expression to be implemented by the bot: [10]
-1,2; TX + 15Y —4Z=K
-
-SO- Explain the steps of activities to construct this bot in detail.
-
-1,2,7;
-
-BL-6
-
-Page 7 of 12
---- page 8 ---
-[10]
-
-B oa Flowchart
-;
-
-Assign
-Save to Value to save
-
-[0 Birth, month actual 26, =(01
-
-i
-
-4
-
-[2 input Dialog :
-Double-click to view
-
-. ! 1 eee ———- fa, .
-
-(True; | Comparision Hl
-
-Irae} _Comparisio |
-z z
-[Assign | [ey assign
-Save to Value to save Save to Value to save
-[0 Message o1@) = [0 Birth month rguessTo! 7 @) fi} ge | "Fy Birth month guessTot | @
-i |
-\
-CO- | {
-1,233 ‘s : ——¥ +
-en) | Message Box : I Message Box i
-SO- Double-click to view Double-click to view
-1,2,7;
-BL-4
-
-The input Dialogue box is:
-
-Input Dialog
-
-Dialog Title
-“{} "Guess my birth month between Tand 72" 17 @
-
-Input Label
-
-{} "Message" 18
-Input Type
-"Text Sox ee y|
-Value entered
-
-{} Birth_month_guess uo @&
-
-Page 8 of 12
---- page 9 ---
-—
-
-The variables used are :
-
-Name Variable type 1 | Scope ot | =
-Birth_month actual : Int32 ‘Main Sequence i
-Birth_month. | guess Int32 Main Sequence |
-Message String Main Sequence i
-
-The comparison block says:
-Birth_month | guess>Birth_month_actual
-
-The left Assign Window says:
-Birth_month _guess.ToString()+" is too large. Try Again"
-
-The right Assign Window says: ,
-Birth_month_guess.ToString()+" is too small. Try Again"
-
-Now briefly explain the bot along with the explanation of the activities involved
-in it. If Birth_month_guess is ‘4’ then what is the output?
-
-Page 9 of 12
---- page 10 ---
-Q.6
-
-co-
-12,35
-
-So-
-1,2,7;
-BL-2,
-
-;
-
-Consider the following bot. Describe the output of the bot. Also state the pyisce
-where the owtput-will be written. $
-
-[$] Main Sequence DA
-®
-[§] Sequence Da
-®
-=] Do While ia
-Body
-[$] Body la
-®
-| (x) Assign
-Save to Value to save
-[xin Oe] = [0 xinet ie)
-v
-(x) Assign
-Save to Value to save
-(yout 21@] = [0 xintocin+10) ole)
-— — a
-Zz Write Line ia
-Text
-{} “The Counter is * + y_outToString oe)
-@
-Condition
-[f) yout < 1000 te)
-®
-®
-The Variables used are:
-| Name Variable type | Scope _
-Sin Int32 (Sequence
-yout Int32 Sequence
-
-[10]
-
-Page 10 of 12
---- page 11 ---
-C3} B. | What is a sequence in RPA? How do you create a sequence in UiPath? Briefly | [10]
-SO-1; q y q y
-BL2 explain using an example bot of your choice.
-Q.7
-A. | Consider the following screenshot of the pdf file named “dell_laptop.pdf” [10]
-In today's fast-paced world, laptops have become essential for work and play.
-With so many options available in the market, choosing the right one for your
-needs can be overwhelming. That's why we've researched for you and compiled
-a list of the top 10 Dell laptops that cater to professional and personal use. From
-high-end performance machines to budget-friendly options, we've got you
-covered. So, whether you're a student, a professional, or just someone who wants
-Co- a reliable laptop, keep reading to find the perfect one.
-1,2,3;
-SO-
-1,2,7; Now list and explain all the activities to design a bot with the following
-BL-4 objectives:
-
-a) Scraps the text data from the pdf file.
-
-b) Scraps the image data from the pdf file.
-
-c) Saves all the data into a text file.
-
-d) Send an email to abc@outlook.com with a subject line of “Dell Laptop
-Survey”.
-
-Page 11 of 12
---- page 12 ---
-B.| Consider the following screenshots from two sheets of an excel) file [10]
-
-“Marksheet.xlsx”
-~~---Sheetl:
-A A B C D E
-1 Name of Student |Section| Physics | Chemistry | Math
-2 Rohan A 56 56 87
-3 Kartik A 68 85 96
-4 Suresh A 56 85 74
-Sheet2:
-CO-
-1,2,3; :
-SO- Pa A B Cc D E
-1,2,7; 1 | Name of Student | Section | Physics |Chemistry| “Math
-het 2 Vaidya B 46 64 a7
-3 Shauvik B 78 87 67
-4 Manisha B 86 57 75
-
-Now list and explain all the activities to design a bot with the following
-objectives:
-a) To combine the data from sheet-2 with sheet-1.
-b) Prepare a data table having the new data (combined data ) of sheet-1.
-c) Display the data table to the user.
-
-Page 12 of 12
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper e17441876726
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/ROBOTICS PROCESS AUTOMATION/Robotic process Automation, Sem-VI, Year 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/06/2023
-- Text: ocr (3 pages), mean OCR confidence 94.5
-
-````text
-MPSTME
-
-LIBRARY
-
-SVKM’S NMIMS .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B.Tech Stream ; Artificial Intelligence Year: III Semester: VI
-
-Subject: Robotic Process Automation Time: 03 hrs (02:00 pm to 05:00 pm)
-
-Date: 28/06/2023. No. of Pages: 02
-
-Marks: 100 : (Printed on both sides)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-_~ of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20]
-
-Create a UiPath workflow that automates the following process:
-Open an Excel file and read the data from the first sheet.
-For each row of data, search for the company name on a search engine.
-
-ee a. Extract the name, website, and address of the first search result and save them to an output Excel (05) -
-BL-2 file.
-If no search result is found, mark the row as "Not Found" in the output Excel file.
-Continue processing each row until all data has been processed.
-(~ Save and close the output Excel file.
-Create a UiPath workflow that automates the following process:
-. Read data from two Excel files, "Employees.xlsx" and "Departments.xIsx", and store each dataset
-in separate DataTable variables.
-Merge the two DataTable variables into a new DataTable variable, with the columns "Employee
-ID", "Employee Name", "Age", "Department ID", and "Salary".
-CO-1,2,3; ; 7 7 . .
-50-1: b. Sort the merged DataTable variable by the "Salary" column in descending onder. | 05)
-BL- > Filter the merged DataTable variable to only include rows where the value in the "Age" column is
-between 25 and 40, and the value in the "Department ID" column is either 100 or 200.
-Use the filtered DataTable variable to write the data to a new Excel file, with the columns
-"Employee ID", "Employee Name", "Age", "Department ID", "Salary", and "Status", where the
-value in the "Status" column is "OK" for each row.
-Save the new Excel file and close it.
-Create a UiPath workflow that automates the following process:
-CO-1,2,3; Use the "Input Dialog" activity to prompt the user to enter a string.
-SO-2; C Use the "Assign" activity to create a new variable and set its value to the length of the input string. | (05)
-BL-3 Use the "Log Message" activity to display the length of the input string in the Output panel.
-
-Use the "Invoke Method" activity to convert the input string to uppercase.
---- page 2 ---
-Use the "Log Message" activity to display the uppercase string in the Output panel.
-
-Use the "Generate Random Number" activity to generate a random number between and 10,000
-and store it in a variable.
-
-Use the "Log Message" activity to display the generated random number in the Output panel.
-Use the "If" activity to check whether the generated random number is even or odd.
-
-If the generated random number is even, use the "Delay" activity to wait for 5 seconds.
-
-Use the "Log Message" activity to display a message in the Output panel indicating whether the
-delay was performed or not.
-
-Use the "Invoke Code" activity to generate a custom message in the Output panel that includes the
-current date and time.
-
-Create a UiPath workflow that automates the following process:
-Open a web browser and navigate to the URL https://www.nike.com/.
-Use the "Click" activity to select the "Men" option from the main navigation menu.
-Use the "Type Into" activity to enter the search term "running shoes" into the search bar and press
-Enter.
-Use the "Get Attribute" activity to retrieve the name and price of the first search result from the
-product listing page.
-Use the "If" activity to check whether the price of the running shoes is less than or equal to $100.
-
-CO-1,2,3; If the price is less than or equal to $100, use the "Click" activity to select the first search result.
-SO-1; d. Use the "Click" activity to select the desired size and add the running shoes to the cart. (05)
-BL-5 Use the "Wait Element Vanish" activity to wait until the cart icon indicates that the shoes have
-
-been added to the cart.
-
-Use the "Click" activity to navigate to the cart page.
-
-Use the "Get Text" activity to retrieve the total price of the items in the cart.
-
-Use the "If" activity to check whether the total price is less than or equal to $200.
-
-If the total price is less than or equal to $200, use the "Click" activity to proceed to the checkout
-page.
-
-Use the "Type Into" activity to enter the required shipping and payment information.
-
-Use the "Click" activity to complete the purchase. (Currency conversion is allowed)
-
-Create a workflow by asking necessary inputs from user to generate “Overview of the course and instructor
-
-details”.
-Q2 A course may have Lecture, Tutorial or Practical
-CO-1,2,3; A course always has an anchor and the anchor may be the instructor along with others from 20]
-SO-1; different campuses
-BL-3 Given the lecture, tutorial and practical hours, the credit should be calculated automatically
-
-Tutorial or Practical instructor may be different from the anchor.
-Proper Validation and Storage of data
-
-Design a UiPath workflow that performs the following tasks:
-
-Prompt the user to enter the number of course objectives they want to generate.
-
-Use the website https://elearn.sitehost.iu.edu/courses/tos/gen2/ to generate the specified number of course
-objectives.
-
-Save the generated course objectives and their corresponding Bloom's Taxonomy levels to a file or a
-
-C _ 3: database for future reference.
-50-1. ; Implement proper validation techniques to ensure that the data entered by the user and the generated data [20]
-BL. 3 are accurate and consistent.
-
-Store the data in a secure manner to prevent unauthorized access or modifications.
-
-Using the extracted data to generate a report or summary of the generated course objectives.
-
-Enhancing the validation process to include additional checks such as checking for duplicates or ensuring
-that the course objectives adhere to specific formatting or language requirements.
---- page 3 ---
-Q4
-
-CO-2; SO-1;
-
-BL-4
-
-Create a UiPath workflow that automates the following process:
-Open a web browser and navigate to the URL https://www.worldcat.org/.
-Use the "Type Into" activity to enter the course name given as input into the satel ‘bar and press
-Enter.
-Use the "Find Element" activity to locate the first search result on the page and click on it.
-Use the "Get Text" activity to retrieve the title, author, and publication date of the first 10 books.
-Sort the list of books by publication date, with the oldest books first and the newest books last.
-Use the "For Each Row" activity to iterate through the list of 10 books.
-Use the "Click" activity to navigate to the page for each book.
-Use the "Get Text" activity to retrieve the summary and contents of each book.
-Use the "Add Data Row" activity to add the summary and contents of each book to a new
-DataTable variable.
-Use the "Write Range" activity to write the DataTable variable to a new Excel file.
-Close the browser.
-
-[20]
-
-aa
-
-Q5
-CO-1,2,3;
-SO-1;
-BL-4
-
-Based on the start and end date of the semester, generate the following table in a word document
-Sr. No. | Session Date Topic Heading 3 Heading 4
-1 01-March-2022 #To be kept empty #To be kept empty #To be kept empty
-Number of weeks = 15
-Get national and state holiday automatically
-Highlight Test 1 and Test 2 date respectively
-Proper Validation and Storage of data
-
-[20]
-
-Q6
-CO-1,2,3;
-SO-1;
-BL-3
-
-Develop a UiPath workflow that categorizes a list of course outcomes into six levels of Bloom's Taxonomy.
-The workflow should analyze each outcome and determine the appropriate level of cognitive learning, such
-as knowledge, comprehension, application, analysis, synthesis, and evaluation. The categorized outcomes
-should then be stored in separate tables or arrays for each cognitive level. Finally, the workflow should
-output the results to a file or display them in the Output panel.
-
-[20]
-
-o
-
-Q7
-
-CO-4; SO-2;
-
-BL-6
-
-You are required to create an automation process that extracts data from a website and creates a report in a
-Word document and an Excel sheet. The website contains a list of products with their prices, and you need
-to extract this data and analyze it to generate a report.
-Steps to be followed:
-Open a web browser and navigate to the website that contains the list of products.
-Extract the product names, prices, and other details from the website and save them in an Excel
-file.
-Analyze the data in the Excel file to identify the top 10 products with the highest prices.
-Open a new Word document and create a table with the top 10 products and their prices.
-Calculate the total value of the top 10 products and add it to the Word document.
-Save the Word document with an appropriate name.
-Additional Requirements:
-Handle any errors or exceptions that may occur during the automation process.
-Display a message to the user indicating that the automation process is complete, and the required
-data has been saved.
-Note: You can use websites like Amazon, Walmart, or Best Buy to extract product data.
-
-[20]
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 176487330bf0
+## 2022-23 · Exam not stated · Sem 6 · paper 176487330bf0
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ROBOTIC PROCESS AUTOMATION/Robotic Process Automation.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (12 pages), mean OCR confidence 82.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -7062,7 +5548,6 @@ B.| Consider the following screenshots from two sheets of an excel file | [10]
 
 “Sales.xlsx”
 Sheet]:
-Al A B c |. JP | E
 1 Name of Item Section No of Quantity
 2 Biscuits Food Items 25 18. 54
 3 Chocolates Food Items 45 45 15
@@ -7081,4 +5566,1503 @@ b) Prepare a data table having the new data (combined data ) of sheet-1.
 c) Display the data table to the User.
 
 Page 12 of 12
+````
+
+## 2022-23 · Final-Exam · Sem 5 · paper 6c5063c31609
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/ROBOTIC PROCESS AUTOMATION/Robotic Process Automation, 3rd Year, Sem V, Year 2022-23, Final Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01-December.2022
+- Text: ocr (14 pages), mean OCR confidence 74.5
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+¢ 3
+
+/ 7 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT és ENGINEERING 1
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
+
+Academic Year: 2022-23
+
+| : Programme: B.Tech / MBA Tech (All Stream) — Year: III Semester: V
+\
+Subject: Robotic Process Automation , : ; ; |
+Marks: 100
+Date: 01-December.2022 “ Time: 2.00 pm - 5.00 pm ‘-
+
+Durations: 3 (Hrs) -
+
+No. of Pages: _7?4
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions. _
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+_ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql.
+
+Answer all questions. ; [20]
+
+a. 181 Sequence ; 7 R
+
+F] Input Dialog Aa
+Dialog Title
+
+“Elapsed Time Counter"
+
+Input Label
+“Enter Your Arrival Time"
+
+”™ . Input Type
+
+CO-1,2 [Text Box +}
+
+SO-1,2,7 ; . Value entered a DI
+BL-3 © Arrivaltime :
+
+ArrivalTinie
+
+= Message Box oe
+
+- Text
+
+i “le has been’ "+ (6- ArrivaiTime), ToStringO+" | hours." -
+
+_ S)
+
+‘ cn see aa
+
+Explain the bot. ArrivalTime is an Int32 variable.
+
+1/44
+--- page 2 ---
+CO-1,2,3
+SO-1,2,7
+BL-4
+
+b.
+
+[R] Sequence
+=}
+=) Input Dialog
+
+Dialog Title
+
+“Search Phrase"
+
+Input Label
+
+“Type a search phrase"
+
+Input Type
+
+Text Box ¥
+
+Value entered
+
+Topic
+
+%& Use Browser Chrome: Google
+
+Browser URL
+
+“https/Awww.google.com/"
+
+3} Do
+
+oS
+FFE Type Inte INPUT’ :
+
+== cr id =
+P 2 }!
+
+Type this @ Standard (> Secure
+Tepic+"[k(enter)]" Wr
+
+Empty field before typing Click before typing
+{Single line [End, Shift+H ~| | Single i
+
+¥
+© Delay
+eS
+
+ch
+
+Explaip the bot. What kind of variable is Topic?
+
+a
+
+a
+
+[5]
+
+. ; 1/144
+--- page 3 ---
+CO-1,2
+SO-1,2,7
+BL-4
+
+Start
+wea Assign
+RandN @=35
+>) input Disteg
+
+True . False
+
+Comparison
+wa Assign fea Assign
+¢ ©
+=) Message Box [I Message Box
+Dovbie-click to view Doubdte-click to view
+Input Dialog says:
+
+[b Input Dialog
+Dialog Title
+
+“Guess a Random number between 1 and 99"
+
+input Label |
+1
+
+Message S
+Input Type
+Text Box |
+Value entered |
+
+GuesN 1
+
+Comparison block says: GuesN>RandN
+Assign window on the left says: GuesN. ToString()+" is too big. Try again."
+
+[5]
+
+°
+
+Bfah
+--- page 4 ---
+Assign window on the right says: GuesN.ToString() +"is too small. Try
+again." Both Message Boxes say “Message”. If GuessN = 43, What is the
+
+‘output?
+d. (31 Sequence ; _ a
+S
+¥ Read Column a
+“EN Final2\QOne\Q1 d\AlphSeq.xlsx" im
+"Sheet 1" “At
+e
+(71 For Each : a
+ForEach In
+|itern ; | ReadCol —
+1] Body a
+8S
+=a Write Cell x
+CO-1,2,3
+SO-1,2,7 . "E:\Final\QOne\ Ql d\ Seq Tab.xlsx" fo [5]
+BL-4 "Sheet2" item-Test
+item. ToString
+S
+8
+
+What is the output if AlphSeq.xlsx is as given below? The cell box above
+
+says: item.ToString+” 1”
+
+Hay
+--- page 5 ---
+aa [20]
+a. J] Sequence AA
+i) .
+=) Input Dialog a
+Dialog Title
+"Pizza Planner”
+Input Label
+"Choose Your Pizza Toppings between 12 and 13"+ Envi
+Input Type
+[Multiple Choice =
+Input options (separate with ;)
+("12,13")
+Value entered
+MyTop
+. cl = ¥ -
+CO-1,2,3 off Switch Qa.
+{ a 7 - ~ - 7 i
+SO-1,2 | Expression Enter a VS expression \ [10]
+BL-4 |
+Default eats ve eee nee Add amactvty
+Case 0 MessogeBox |
+Case 1 . Message Box
+Add nevs case
+oe . oe
+The Input Label says: "Choose Your Pizza Toppings between 12 and
+13"+Environment.NewLineQ+"1 for
+Pepperoni"+Environment.NewLine()+"2 for
+Jalapenos"+Environment.NewLine()+"3 for
+Sausage"+Environment.NewLine()+"12 for
+Pepp+Jala"+Environment.NewLine()+"13 for Pepp+Saus".
+What should the Expression box in the Switch activity say so that the
+Message Box pops up for either of the cases, i.c., the bot runs?
+CO-1,2,3 Explain the bot. Assume the Message Box text if needed.
+SO-1,2 . [10]
+BL-4
+
+5/44
+--- page 6 ---
+e [20]
+CO-1,2,3
+1. Explain the Activities of Get Text and Append Range. [10]
+BL-3
+CO-1,2,3 . segs . .
+SO-1,2,7 - Explain the activities of Read Column and Write Line. [10]
+BL-3
+es [20]
+(I Sequence a
+2] Input Dialog a
+Dialog Title
+"Planets of the solar system"
+Input Label
+“Select the order"
+Input Type
+Text Box x|
+Value entered
+InString
+CO-1,2,3
+SO-1,2,7 7 [10]
+BL-4 ofe Switch a
+° Expression InString
+Defauit - _ : Add an activity
+Case First : . Message Box
+Case Second
+FE MessageBox
+
+Double-click to view
+
+What should the Message Box in Case Three say for the output to read:
+“The Third planet in our solar system is the Earth.”
+
+C/14
+--- page 7 ---
+b. (21 Sequence wz
+eS
+#] Do While a
+Body
+[3] Body R
+S
+wa Assign
+Counter = Counter + 1
+¥
+wa Assign
+CO-1,2,3
+CountFn = Counter*(Counter-
+SO-1,2,7 [10]
+BL-4 9
+(Write Line
+Text "The counter is"+ CountFr.T
+3
+Condition
+CountFn < 100 ~ :
+a)
+Counter starts at 1 and CountFn=Counter*(Counter+1) and the Write Line
+text says: "The counter is "+ CountFn.ToStringQ. What is the output?
+Where is the output written?
+Q5 Explain the following bot. [20]
+
+4/414
+--- page 8 ---
+CO-1,2,3
+SO-1,2,7
+BL-4
+
+2B, ChoiceFlow
+
+=) Input Dialog
+
+Double-ctick to view
+
+False
+
+“nomen TUE
+
+Flow Decision
+
+[Write Line
+
+> Text ChoiceVec(0)+" Lover!"
+
+Sequence says:
+
+[2] Sequence
+
+@
+| aeB Assign
+| Prefivec = (1,23)
+i ¥
+| asp Assign
+ChoiceVec = {"CocaCola","Peps
+
+@
+
+Choice Vec={"CocaCola","Pepsi","DrPepper"}.
+
+°
+
+a4
+
+—_—
+--- page 9 ---
+Input Dialog says:
+
+[2 Input Dialog
+| Dialog Title i
+i "Soft Drink Preference". |
+
+Input Label |
+
+| “Choose Your Favorite Soft Drink" + Environment, NewLi i
+
+Input Type ! \
+
+[Text Box 7
+
+Value entered
+
+| MyPref i
+
+Input Label says: "Choose Your Favorite Soft
+Drink"+Environment.NewLine()+"CocaCola"+Environment.NewLine()+"
+
+Pepsi"+Environment.NewLine()+"DrPepper"
+
+Flow Decision “MyPref=ChoiceVec(0)”.
+Write Text File says:
+
+Fy Write Text File —
+Text
+
+ChoiceVec(0)+" is not your favorite drink, "+Environme
+
+Write to filename . i
+
+
+with Text
+
+ChoiceVec(0)+" is not your favorite drink.
+"+Environment.NewLine()+"You care for either "+ChoiceVec(1)+" or
+
+"+ChoiceVec(2)+"."
+
+444
+--- page 10 ---
+Q6
+
+Explain the bot.
+
+[20]
+
+CO-1,2,3
+SO-1,2
+BL-4
+
+[$] Sequence
+
+&2 StaMach
+
+®
+
+Start
+
+ye
+
+§.) Poly Coeffs
+
+o
+
+~~ Process
+
+¥
+
+$.} Guess Root
+
+iy dinrns. ©
+
+5. Final State
+
++» «+ Correct Guess ~~ ~~
+
+Ty Other Nu
+Ey Poly Cocffs “
+€) Entry
+| ae Assign
+| PolyCoeff = {1,-7,25}
+i
+© it
+
+SS
+--- page 11 ---
+| 2) Input Dialog a
+Dialog Title ;
+
+i “Guess the reot"
+
+| Input Label
+i "Type an integer between 1 and 16"
+
+Input Type
+
+-
+i Text Box
+
+Value entered
+
+Root
+
+| @ Exit
+
+§ Comect Gues
+|
+
+Source: Guess Reot
+
+Trigger
+Drop Trigger activity here
+
+_ Correct Guess
+Condition
+i PolyCoeff(0)*Root*Root+PolyCoeff(1)*Root+PolyCoeff(2)=0
+
+i Action
+
+
+Try Other Number transition on the right says:
+
+Way
+--- page 12 ---
+SS Ty OtherNumber
+
+Source: Guess Root
+
+Trigger
+Droo Trigger activity here '
+Try Other Number a
+Condition
+Action
+[2] Message Box BO aR
+Text
+Root. TeStringQ+" is net a root, Try another number."
+Try Other Number on the left says:
+(& TryOtherNumber : -
+Source: Guess Rect
+Trigger
+Drop Trigger activity here
+Try Other Number aR
+Condition
+
+
+Action
+
+[=] Message Box ; a
+
+Text
+
+Root. ToStringO+" is not a rect. Thy another number."
+
+2/14
+--- page 13 ---
+Q7 . . [20]
+
+=) Input Dialog a
+Dialog Title ;
+
+“Name of the car owner
+
+Input Label
+
+“Enter Your First Name"
+
+Input Type
+[Text Box : : |
+
+Value entered
+
+MyName
+
+=) Input Dialog
+
+CO-1,2,3 : : Dialog Title
+SO-1,2,7 : "Favorite four digit number" : . [10]
+
+BL-4 Input Label
+
+a
+
+“Enter First Four Digits of your phone number"
+
+Input Type
+{Text Box ; x|
+
+Value entered
+
+MyFour
+
+e
+(St Send Outlook Mail Message a
+
+To MyName+MyFour, ToString+" @outlook, con
+Subject MyName+'"'s favorite four digit number is "+1
+
+Body = "Your four digit number is not Kaprekar's nun
+Attach Files :
+
+(ayy
+
+Nest
+
+Byy
+--- page 14 ---
+Subject says: MyName+"'s favorite four digit number is
+"+MyFour.ToString()
+
+Body says: "Your four digit number is not Kaprekar's number"
+What is the output if MyName=Clint and MyFour=1776?
+
+Explain the bot.
+CO-1,2,3 | b. The subject of an email received for the email address
+SO-1,2,7 Tammy2552@outlook.com reads “Saxby’s favorite four digit number is [10]
+BL-5 2552; Is it possible or not? Please explain.
+
+x
+
+lips
+````
+
+## 2022-23 · Final-Exam · Sem 6 · paper cd7ae450455f
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/ROBOTICS PROCESS AUTOMATION/Robotics Process Automation, Sem-VI, Year 2022-23, Final Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/04/2023
+- Text: ocr (3 pages), mean OCR confidence 94.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B Tech Stream ; Artificial Intelligence Year: III Semester: VI
+Subject: Robotic Process Automation Time: 03 hrs (02:00 pm to 05:00 pm)
+Date: 27/04/2023. No. of Pages: O3% |
+Marks: 100 / |
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+Van of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+
+Create a UiPath workflow that automates the following process:
+Open a web page and enter a search query into the search field.
+Extract the search results and save them to a text file.
+
+CO-1,2,3;
+0-1,2,35 Open the first search result in a new tab.
+SO-2; a. . on (05)
+BL-2 Extract the title and description of the page and save them to the text file.
+
+Close the tab and return to the search results page.
+Repeat steps 3-5 for the next 4 search results.
+C Close the browser.
+Create a UiPath workflow that automates the following process:
+Read data from two Excel files, "File A" and "File B", and store each dataset in separate DataTable
+
+variables.
+Merge the two DataTable variables into a new DataTable variable, with the columns "ID",
+CO-1,2,3; "Name", and "Age".
+SO-1; b. Sort the merged DataTable variable by the "Age" column in ascending order. (05)
+BL-2 Filter the merged DataTable variable to only include rows where the value in the "Age" column is
+
+greater than or equal to 25.
+Use the filtered DataTable variable to write the data to a new Excel file, with the columns "ID",
+"Name", "Age", and "Status", where the value in the "Status" column is "OK" for each row.
+Save the new Excel file and close it.
+
+Create a UiPath workflow that automates the following process:
+Use the "Generate Random Number" activity to generate a random number between | and 10,000
+
+CO-1,2,3; oes .
+$0.2. and store it in a variable. (05)
+BL 3 & Use the "Log Message" activity to display the generated random number in the Output panel.
+
+Use the "If" activity to check whether the generated random number is greater than or equal to
+5,000.
+--- page 2 ---
+If the generated random number is greater than or equal to 5,000, use the "Delay" activity to wait
+for 5 seconds.
+
+Use the "Log Message" activity to display a message in the Output panel indicating whether the
+delay was performed or not.
+
+Use the "Assign" activity to create a new variable and set its value to the length of a specified
+string.
+
+Use the "Log Message" activity to display the length of the string in the Output panel.
+
+Use the "Invoke Method" activity to convert the specified string to uppercase.
+
+Use the "Log Message" activity to display the uppercase string in the Output panel.
+
+Use the "Invoke Code" activity to generate a custom message in the Output panel that includes the
+current date and time.
+
+Create a UiPath workflow that automates the following process:
+. Open a web browser and navigate to the URL https://www.amazon.com.
+Use the "Type Into" activity to enter the search term "laptop" into the search bar and press Enter.
+Use the "Find Element" activity to locate the first search result on the page and click on it.
+Use the "Get Attribute" activity to retrieve the title and price of the laptop from the product page.
+Use the "If" activity to check whether the price of the laptop is greater than $1,000.
+If the price is greater than $1,000, use the "Send Outlook Mail Message" activity to send an email
+
+CO-1,2,3; to a specified recipiént with the title and price of the laptop in the body of the email.
+SO-1; Use the "Click" activity to add the laptop to the shopping cart. (05)
+BL-5 Use the "Wait Element Vanish" activity to wait until the shopping cart icon indicates that the
+laptop has been added to the cart.
+Use the "Click" activity to navigate to the shopping cart page.
+Use the "Get Text" activity to retrieve the total price of the items in the shopping cart.
+Use the "If" activity to check whether the total price is less than $2,000.
+If the total price is less than $2,000, use the "Click" activity to proceed to the checkout page.
+Use the "Type Into" activity to enter the required shipping and payment information.
+Use the "Click" activity to complete the purchase. (Currency conversion is allowed)
+Design a UiPath workflow that automates the following tasks:
+Prompt the user to provide necessary inputs to generate an overview of the course and instructor details,
+such as the course name, course code, instructor name, instructor ID, campus name, lecture hours, tutorial
+hours, practical hours, and credit hours.
+Calculate the credit hours based on the provided lecture, tutorial, and practical hours.
+Q2 Provide the option for the user to select whether the instructor for tutorial or practical hours is different from
+CO-1,2,3; the anchor instructor for the course. 20]
+SO-1; Implement proper validation techniques to ensure that the data entered by the user is accurate and consistent.
+BL-3 Store the generated data in a secure manner to prevent unauthorized access or modifications.
+Create a table or file that includes the overview of the course and instructor details, including the course
+name, course code, instructor name, instructor ID, campus name, lecture hours, tutorial hours, practical
+hours, credit hours, and the instructor details for each component of the course.
+Enhance the validation process to include additional checks such as checking for duplicates or ensuring that
+the data adheres to specific formatting or language requirements.
+| Create a UiPath automation that generates course objectives and performs various validation and storage
+Q3 tasks. The workflow should begin by asking the user to input the number of course objectives they want to
+8 C0-1.2,3: generate. The website https://elearn.sitehost.iu.edu/courses/tos/gen2/ will be used to generate the course
+—_ objectives. The generated objectives, along with their corresponding Bloom's Taxonomy levels, will be [20]
+ook saved to a file or database for future reference.
+
+The workflow should incorporate robust validation techniques to ensure that the user's input and generated
+data are accurate and consistent. The validation process should also include checks for duplicates and
+--- page 3 ---
+adherence to specific formatting or language requirements. The data will be stored securely to prevent
+unauthorized access or modifications.
+
+Finally, the workflow will generate a report or summary of the generated course objectives using the
+extracted data. The report will provide information such as the number of objectives generated, the
+corresponding Bloom's Taxonomy levels, and any other relevant information. The report will also include
+visualizations such as graphs or charts to help the user better understand the generated data.
+
+Create a workflow to do the following tasks:
+
+Q4 Goto https://www.worldcat.org/ and search for the books
+
+Based on the course name given as an input, create a list of 10 books
+
+coe SO 5 old books and 5 newest books [20]
+Create a table with Summary and Contents
+Proper Validation and Storage of data
+ia Based on the start and end date of the semester, generate the following table in a word document
+Qs Sr.No. | Lecture Date Topic Heading 3 Heading 4
+C0-1,2,3; 1 01-March-2022 #To be kept empty #To be kept empty #To be kept empty
+$0-1; Number of weeks = 15 [20]
+BL-4 Get national and state holiday automatically
+Highlight Test 1 and Test 2 date respectively
+Proper Validation and Storage of data
+Create a UiPath workflow that automates the following process:
+Read a list of Course Outcomes from an Excel file.
+For each Course Outcome, determine the level of Bloom's Taxonomy that it corresponds to. The six levels
+of Bloom's Taxonomy are:
+Remembering
+Understanding
+Q6 Applying
+CO-1,2,3; Analyzing [20]
+SO-1; Evaluating
+BL-3 Creating
+Categorize each Course Outcome into one of the six levels of Bloom's Taxonomy, and store the results in a
+lan new Excel file.
+Additionally, for each Course Outcome, extract the relevant keywords that helped in determining its Bloom's
+Taxonomy level, and store these keywords in the same row as the outcome in the new Excel file.
+Finally, generate a report in the Output panel that summarizes the number of Course Outcomes that fall into
+each of the six levels of Bloom's Taxonomy.
+You are required to create an automation process that generates a report on the latest stock prices of a
+particular company. The automation process should collect data from an online platform, process it, and
+generate a report in a Word document and an Excel sheet.
+Steps to be followed:
+aa Q7 Open a web browser and navigate to the online platform that displays the latest stock prices for
+0-4: $0-2: the specified company. 7 [20]
+wie BL-6 > Extract the latest stock prices for the specified company from the online platform and save it in an
+Excel file.
+Open a new Word document and create a table with the latest stock prices for the specified
+company.
+
+Calculate the average of the latest stock prices and add it to the Word document.
+Save the Word document with an appropriate name.
+````
+
+## 2022-23 · Re-Exam · Sem 6 · paper b394eb226770
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ROBOTIC PROCESS AUTOMATION/Robotics Process Automation, Sem-VI, Year 2022-23, Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (12 pages), mean OCR confidence 77.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2022-2023
+
+Program: B. Tech/MBA Tech Stream: ALL Year: Ill Semester: VI
+Subject: Robotic Process Automation Time: 3 Hrs. (40:00 am 40 4:00pm)
+Date: 05]07/2023 No. of Pages: 12
+Marks: 100 «
+
+Re Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of the remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Answer briefly
+
+CO-1;
+
+SO-1; | A. | Compare between automation and RPA. [5]
+BL-4
+
+CO-2;
+
+SO-1; |B. | What do you mean by scalar variables? Give its example. [5]
+BL-2
+
+CO-3;
+
+SO-1; | C. | Define the Error Handling activities used in RPA using UiPath. [5]
+BL-2
+
+Page 1 of 12
+--- page 2 ---
+[3] Main Sequence 7 a| [5]
+®
+[4 Input Dialog a iJ
+Dialog Title
+[0 “Pizza Arrival Time Calculator” ut jo]
+Input Label
+[f}.“Enter the pizza Order time (H)" le]
+Input Type
+[Text Box v|
+Value entered
+[p Order_time ut @|
+d .
+2) Input Dialog a
+Dialog Title
+[O Pizza Arrival Time Calculator” te)
+Input Label
+Co- [0 “Enter the pizza arrival time (H" ut | '@)
+ia Input Type
+7 Text B v
+1,2,75 [reson a
+BL-3 Value entered
+| {}. arrival_time is |e)
+L _ 7 “] —_ = pol
+| = Message Box TE |
+Text
+| {}. "Pizza Arrival Time is = “+(arrival_time-ord- o| @|
+co)
+e The Text written in Message Box is :
+"Pizza Arrival Time is = "+ (arrival_time-order_time).ToString()+"Hours"
+
+© The variables used are as under:
+7 | Variable type
+
+ee
+
+Explain the above Bot.
+
+Page 2 of 12
+--- page 3 ---
+Q.2
+
+Co-
+
+1,2,3;
+
+SO-
+
+1,2,4
+
+BL-4
+
+A. | Consider the following bot and discuss its functionality in detail.
+
+[3] Main Sequence ik
+
+®
+
+[8 Input Dialog ia
+Dialog Title
+
+oO “Enter the name of Place”
+
+Input Label
+{3 "Name of the Place” Pal (C)
+Input Type
+
+[Tex Box v|
+
+Value entered
+{} placename Me
+
+Use Browser Chrome: Google par
+
+Browser URL
+{}, “https://www.google.com/”
+
+{3] Do ia
+iS}
+[FE type into ‘INPUT’ ta
+= = Sar =
+io}
+‘Type this @ Standard © Secure
+
+'{) "Humidity of #place_name+"f
+
+Empty field before typing _ Click before typing
+[Single line (End, shitteH~ | [singte v|
+
+GS. Get Text 52%
+
+“clr Peecptof
+9 Humid (5229)
+
+[10]
+
+.
+
+Wind: 18 kh @
+Save to
+[Q) humid value He
+[=] Message Box ik
+Text oe ee .
+{) “The humicity of" + place name + “is'+hu_ 7 | ®
+®
+Page 3 of 12
+--- page 4 ---
+e The Type this block under Type into activity says:
+" Humidity of " +place_name+" [k(Enter)] "
+
+e The Text block under message box says: =
+
+" The humidity of "+ place_name +" is “humid - value
+
+e The following are the variables used in the bot:
+
+Name Variable ‘type : Scope
+humid_value String Do
+| |
+place_name String Main Sequence
+Consider the following bot: [10]
+[3] Main Sequence - a
+i)
+input Dialog ia
+Dialog Title
+{a “Layers of Earth Atmosphere" rie | @)
+Input Label
+[() “Select the Order of Layer" Ae)
+Input Type
+[Text Box al
+Value entered
+[0 inputt fe]
+CO-
+1,2,3; a l _ 7
+SO- of Switch pa
+1,2,7; Expression | {} input? oO | @]
+BL-4
+Default Add an activity
+Case First MessageBox
+Case Second MessageBox
+= ‘Case Third |
+| |
+[) MessageBox : a)
+Text _.
+| ez “||
+Add new case
+®
+
+Page 4 of 12
+--- page 5 ---
+“inputl” used in this bot? ‘Also
+
+What should be the type of variable named
+in message box of case “Third”
+
+explain what should be typed in place of “XYZ”
+so that it produces the output as:
+
+“ The Third Layer of Our Earth Atmosphere is Mesosphere”
+
+Q3
+A. | Consider the following bot : [10]
+[$1 Main Sequence
+®
+[4 Input Dialog i: 2
+Dialog Title
+i) “Burger Planner Bot “ ut lal
+Input Label
+fp "Choose Your Burger Ingreadients between Me
+Input Type
+[Muttiple Choice v|
+Input options (separate with}
+fo 12139 Bite)
+CO- Value entered
+1,2,3; [0 burger_top ay |@
+SO-
+1,2,
+BL-4
+Expression | xyz _ _ ee _. __% |
+i. Default ____ Add an actly,
+ase 0 |
+| [| MessageBox 1a |
+\
+Text |
+{} "You have ordered for Burger With extra ch a | @| | |
+= OtCt—“C—s MessageBox
+Add new case _|
+©
+Page 5 of 12
+--- page 6 ---
+The input label says:
+
+"Choose Your Burger Ingredients between 12 and 13" + Environment.NewLine
++"] for Extra Cheese"+Environment.NewLine+"2 - for Extra Chicken
+Toppings"+ Environment.NewLine+"3 for Extra Paneer Topings"
+
+The message box in Case-0 says:
+
+"You have ordered for Burger with extra cheese and extra Chiken toppings."
+
+The message box in Case-1 says:
+"You have ordered burger with extra cheese and extra Paneer toppings."
+
+Suggest the expression that is suitable in place of “XYZ” in the expression of
+Switch Block.
+
+Cco- |B. [10]
+es Discuss the above (used in Q3.A) bot along with its functionality and activities
+1,2; used.
+BL- 4
+Q.4
+A. | Explain the following activities used in UiPath with suitable example of bot | [10]
+Co- where it can be used (No need to completely design the bot for giving the
+2:33 example):
+SO-1, a) Use Application/Browser
+BL2 b) Read PDF with OCR
+B. | A bot is to be designed with the following objectives: [10]
+a) Open the URL: https://www.nseindia.com/market-data/live-equity-
+Co market?symbol=NIFTY%2050.
+1,23; b) Selects the top three companies having least LTP (Sort by Clicking
+SO- A button)
+ee c) Save the result in the form of excel and send it via mail to
+
+abc@outlook.com.
+List down the activities required for designing of the bot with above objectives
+
+and explain each activity.
+
+Page 6 of 12
+--- page 7 ---
+The screenshot of the above website is as under:
+
+or
+NS E (search by company name, symbol or keyword
+
+HOME ABOUT MARKET DATA INVEST LIST
+
+HIGH LOW” PREV. CLOSE:
+
+NIFTY 50 17,060.40 17,127.70 17,016.00 16,988.40 17,107.50 119.10
+TATASTEEL 105.10 105.40 104.30 104.50 | 104.80 930
+NGC SS*~<“i;*‘ié«‘«‘iSWCTS:SC*«*aS.S«*SOSSCC~* 152.30 451404.
+"47685 ~=—«177.55—=«*175.30~=*é“‘«é‘iTOSCt*C“‘ié‘i CS ASC
+
+COALINDIA 2815 21895 21595 21705 21670 035
+POWERGRD 20725 27 222.45 — R150 223.1022 4.40
+
+360.20 «361.60 355.75 359.65 «= 358.30stCt«C;«38
+
+369.00 370.25 36545 «367.15 366.85 Y 0.30
+
+tT © 378.80 "37880 «37405 ti«* 378.80 : sina “480°
+
+HINDALCO 38770 390.60 304.95 38575 38830 2.55
+
+HDECLIE IEE   467,00——«484,00 «466.50 465.25 483.007 «17.75.
+
+sN 0” 522.00 52845 51645 519.20-«SS2.75—sC*~«i
+“ADANIPORTS ~=—=«sTWSO.SC«éS74.AO.SC«CST.DC 666.75 665.50 425
+JSWSTEEL OT. om 0 662.00 ©» 668.15 «6601.95
+
+-TATACONSUM 704.10 706.00 700.00 702.60 701.00 ¥ 1.60
+
+Q.5
+
+co. | A. | Consider the following expression to be implemented by the bot: [10]
+1,2; TX + 15Y —4Z=K
+
+SO- Explain the steps of activities to construct this bot in detail.
+
+1,2,7;
+
+BL-6
+
+Page 7 of 12
+--- page 8 ---
+[10]
+
+B oa Flowchart
+;
+
+Assign
+Save to Value to save
+
+[0 Birth, month actual 26, =(01
+
+i
+
+4
+
+[2 input Dialog :
+Double-click to view
+
+. ! 1 eee ———- fa, .
+
+(True; | Comparision Hl
+
+Irae} _Comparisio |
+z z
+[Assign | [ey assign
+Save to Value to save Save to Value to save
+[0 Message o1@) = [0 Birth month rguessTo! 7 @) fi} ge | "Fy Birth month guessTot | @
+i |
+\
+CO- | {
+1,233 ‘s : ——¥ +
+en) | Message Box : I Message Box i
+SO- Double-click to view Double-click to view
+1,2,7;
+BL-4
+
+The input Dialogue box is:
+
+Input Dialog
+
+Dialog Title
+“{} "Guess my birth month between Tand 72" 17 @
+
+Input Label
+
+{} "Message" 18
+Input Type
+"Text Sox ee y|
+Value entered
+
+{} Birth_month_guess uo @&
+
+Page 8 of 12
+--- page 9 ---
+—
+
+The variables used are :
+
+Name Variable type 1 | Scope ot | =
+Birth_month actual : Int32 ‘Main Sequence i
+Birth_month. | guess Int32 Main Sequence |
+Message String Main Sequence i
+
+The comparison block says:
+Birth_month | guess>Birth_month_actual
+
+The left Assign Window says:
+Birth_month _guess.ToString()+" is too large. Try Again"
+
+The right Assign Window says: ,
+Birth_month_guess.ToString()+" is too small. Try Again"
+
+Now briefly explain the bot along with the explanation of the activities involved
+in it. If Birth_month_guess is ‘4’ then what is the output?
+
+Page 9 of 12
+--- page 10 ---
+Q.6
+
+co-
+12,35
+
+So-
+1,2,7;
+BL-2,
+
+;
+
+Consider the following bot. Describe the output of the bot. Also state the pyisce
+where the owtput-will be written. $
+
+[$] Main Sequence DA
+®
+[§] Sequence Da
+®
+=] Do While ia
+Body
+[$] Body la
+®
+| (x) Assign
+Save to Value to save
+[xin Oe] = [0 xinet ie)
+v
+(x) Assign
+Save to Value to save
+(yout 21@] = [0 xintocin+10) ole)
+— — a
+Zz Write Line ia
+Text
+{} “The Counter is * + y_outToString oe)
+@
+Condition
+[f) yout < 1000 te)
+®
+®
+The Variables used are:
+| Name Variable type | Scope _
+Sin Int32 (Sequence
+yout Int32 Sequence
+
+[10]
+
+Page 10 of 12
+--- page 11 ---
+C3} B. | What is a sequence in RPA? How do you create a sequence in UiPath? Briefly | [10]
+SO-1; q y q y
+BL2 explain using an example bot of your choice.
+Q.7
+A. | Consider the following screenshot of the pdf file named “dell_laptop.pdf” [10]
+In today's fast-paced world, laptops have become essential for work and play.
+With so many options available in the market, choosing the right one for your
+needs can be overwhelming. That's why we've researched for you and compiled
+a list of the top 10 Dell laptops that cater to professional and personal use. From
+high-end performance machines to budget-friendly options, we've got you
+covered. So, whether you're a student, a professional, or just someone who wants
+Co- a reliable laptop, keep reading to find the perfect one.
+1,2,3;
+SO-
+1,2,7; Now list and explain all the activities to design a bot with the following
+BL-4 objectives:
+
+a) Scraps the text data from the pdf file.
+
+b) Scraps the image data from the pdf file.
+
+c) Saves all the data into a text file.
+
+d) Send an email to abc@outlook.com with a subject line of “Dell Laptop
+Survey”.
+
+Page 11 of 12
+--- page 12 ---
+B.| Consider the following screenshots from two sheets of an excel) file [10]
+
+“Marksheet.xlsx”
+~~---Sheetl:
+1 Name of Student |Section| Physics | Chemistry | Math
+2 Rohan A 56 56 87
+3 Kartik A 68 85 96
+4 Suresh A 56 85 74
+Sheet2:
+CO-
+1,2,3; :
+1,2,7; 1 | Name of Student | Section | Physics |Chemistry| “Math
+het 2 Vaidya B 46 64 a7
+3 Shauvik B 78 87 67
+4 Manisha B 86 57 75
+
+Now list and explain all the activities to design a bot with the following
+objectives:
+a) To combine the data from sheet-2 with sheet-1.
+b) Prepare a data table having the new data (combined data ) of sheet-1.
+c) Display the data table to the user.
+
+Page 12 of 12
+````
+
+## 2022-23 · Re-Exam · Sem 6 · paper e17441876726
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/ROBOTICS PROCESS AUTOMATION/Robotic process Automation, Sem-VI, Year 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/06/2023
+- Text: ocr (3 pages), mean OCR confidence 94.5
+
+````text
+MPSTME
+
+LIBRARY
+
+SVKM’S NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B.Tech Stream ; Artificial Intelligence Year: III Semester: VI
+
+Subject: Robotic Process Automation Time: 03 hrs (02:00 pm to 05:00 pm)
+
+Date: 28/06/2023. No. of Pages: 02
+
+Marks: 100 : (Printed on both sides)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+_~ of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+
+Create a UiPath workflow that automates the following process:
+Open an Excel file and read the data from the first sheet.
+For each row of data, search for the company name on a search engine.
+
+ee a. Extract the name, website, and address of the first search result and save them to an output Excel (05) -
+BL-2 file.
+If no search result is found, mark the row as "Not Found" in the output Excel file.
+Continue processing each row until all data has been processed.
+(~ Save and close the output Excel file.
+Create a UiPath workflow that automates the following process:
+. Read data from two Excel files, "Employees.xlsx" and "Departments.xIsx", and store each dataset
+in separate DataTable variables.
+Merge the two DataTable variables into a new DataTable variable, with the columns "Employee
+ID", "Employee Name", "Age", "Department ID", and "Salary".
+CO-1,2,3; ; 7 7 . .
+50-1: b. Sort the merged DataTable variable by the "Salary" column in descending onder. | 05)
+BL- > Filter the merged DataTable variable to only include rows where the value in the "Age" column is
+between 25 and 40, and the value in the "Department ID" column is either 100 or 200.
+Use the filtered DataTable variable to write the data to a new Excel file, with the columns
+"Employee ID", "Employee Name", "Age", "Department ID", "Salary", and "Status", where the
+value in the "Status" column is "OK" for each row.
+Save the new Excel file and close it.
+Create a UiPath workflow that automates the following process:
+CO-1,2,3; Use the "Input Dialog" activity to prompt the user to enter a string.
+SO-2; C Use the "Assign" activity to create a new variable and set its value to the length of the input string. | (05)
+BL-3 Use the "Log Message" activity to display the length of the input string in the Output panel.
+
+Use the "Invoke Method" activity to convert the input string to uppercase.
+--- page 2 ---
+Use the "Log Message" activity to display the uppercase string in the Output panel.
+
+Use the "Generate Random Number" activity to generate a random number between and 10,000
+and store it in a variable.
+
+Use the "Log Message" activity to display the generated random number in the Output panel.
+Use the "If" activity to check whether the generated random number is even or odd.
+
+If the generated random number is even, use the "Delay" activity to wait for 5 seconds.
+
+Use the "Log Message" activity to display a message in the Output panel indicating whether the
+delay was performed or not.
+
+Use the "Invoke Code" activity to generate a custom message in the Output panel that includes the
+current date and time.
+
+Create a UiPath workflow that automates the following process:
+Open a web browser and navigate to the URL https://www.nike.com/.
+Use the "Click" activity to select the "Men" option from the main navigation menu.
+Use the "Type Into" activity to enter the search term "running shoes" into the search bar and press
+Enter.
+Use the "Get Attribute" activity to retrieve the name and price of the first search result from the
+product listing page.
+Use the "If" activity to check whether the price of the running shoes is less than or equal to $100.
+
+CO-1,2,3; If the price is less than or equal to $100, use the "Click" activity to select the first search result.
+SO-1; d. Use the "Click" activity to select the desired size and add the running shoes to the cart. (05)
+BL-5 Use the "Wait Element Vanish" activity to wait until the cart icon indicates that the shoes have
+
+been added to the cart.
+
+Use the "Click" activity to navigate to the cart page.
+
+Use the "Get Text" activity to retrieve the total price of the items in the cart.
+
+Use the "If" activity to check whether the total price is less than or equal to $200.
+
+If the total price is less than or equal to $200, use the "Click" activity to proceed to the checkout
+page.
+
+Use the "Type Into" activity to enter the required shipping and payment information.
+
+Use the "Click" activity to complete the purchase. (Currency conversion is allowed)
+
+Create a workflow by asking necessary inputs from user to generate “Overview of the course and instructor
+
+details”.
+Q2 A course may have Lecture, Tutorial or Practical
+CO-1,2,3; A course always has an anchor and the anchor may be the instructor along with others from 20]
+SO-1; different campuses
+BL-3 Given the lecture, tutorial and practical hours, the credit should be calculated automatically
+
+Tutorial or Practical instructor may be different from the anchor.
+Proper Validation and Storage of data
+
+Design a UiPath workflow that performs the following tasks:
+
+Prompt the user to enter the number of course objectives they want to generate.
+
+Use the website https://elearn.sitehost.iu.edu/courses/tos/gen2/ to generate the specified number of course
+objectives.
+
+Save the generated course objectives and their corresponding Bloom's Taxonomy levels to a file or a
+
+C _ 3: database for future reference.
+50-1. ; Implement proper validation techniques to ensure that the data entered by the user and the generated data [20]
+BL. 3 are accurate and consistent.
+
+Store the data in a secure manner to prevent unauthorized access or modifications.
+
+Using the extracted data to generate a report or summary of the generated course objectives.
+
+Enhancing the validation process to include additional checks such as checking for duplicates or ensuring
+that the course objectives adhere to specific formatting or language requirements.
+--- page 3 ---
+Q4
+
+CO-2; SO-1;
+
+BL-4
+
+Create a UiPath workflow that automates the following process:
+Open a web browser and navigate to the URL https://www.worldcat.org/.
+Use the "Type Into" activity to enter the course name given as input into the satel ‘bar and press
+Enter.
+Use the "Find Element" activity to locate the first search result on the page and click on it.
+Use the "Get Text" activity to retrieve the title, author, and publication date of the first 10 books.
+Sort the list of books by publication date, with the oldest books first and the newest books last.
+Use the "For Each Row" activity to iterate through the list of 10 books.
+Use the "Click" activity to navigate to the page for each book.
+Use the "Get Text" activity to retrieve the summary and contents of each book.
+Use the "Add Data Row" activity to add the summary and contents of each book to a new
+DataTable variable.
+Use the "Write Range" activity to write the DataTable variable to a new Excel file.
+Close the browser.
+
+[20]
+
+aa
+
+Q5
+CO-1,2,3;
+SO-1;
+BL-4
+
+Based on the start and end date of the semester, generate the following table in a word document
+Sr. No. | Session Date Topic Heading 3 Heading 4
+1 01-March-2022 #To be kept empty #To be kept empty #To be kept empty
+Number of weeks = 15
+Get national and state holiday automatically
+Highlight Test 1 and Test 2 date respectively
+Proper Validation and Storage of data
+
+[20]
+
+Q6
+CO-1,2,3;
+SO-1;
+BL-3
+
+Develop a UiPath workflow that categorizes a list of course outcomes into six levels of Bloom's Taxonomy.
+The workflow should analyze each outcome and determine the appropriate level of cognitive learning, such
+as knowledge, comprehension, application, analysis, synthesis, and evaluation. The categorized outcomes
+should then be stored in separate tables or arrays for each cognitive level. Finally, the workflow should
+output the results to a file or display them in the Output panel.
+
+[20]
+
+o
+
+Q7
+
+CO-4; SO-2;
+
+BL-6
+
+You are required to create an automation process that extracts data from a website and creates a report in a
+Word document and an Excel sheet. The website contains a list of products with their prices, and you need
+to extract this data and analyze it to generate a report.
+Steps to be followed:
+Open a web browser and navigate to the website that contains the list of products.
+Extract the product names, prices, and other details from the website and save them in an Excel
+file.
+Analyze the data in the Excel file to identify the top 10 products with the highest prices.
+Open a new Word document and create a table with the top 10 products and their prices.
+Calculate the total value of the top 10 products and add it to the Word document.
+Save the Word document with an appropriate name.
+Additional Requirements:
+Handle any errors or exceptions that may occur during the automation process.
+Display a message to the user indicating that the automation process is complete, and the required
+data has been saved.
+Note: You can use websites like Amazon, Walmart, or Best Buy to extract product data.
+
+[20]
 ````

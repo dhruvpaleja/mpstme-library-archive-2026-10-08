@@ -68,6 +68,7 @@ with reference to Right to Constitutional Remedies.
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/constitution of india/2008-2009(167).pdf` (+2 identical copies)
 - Printed on paper: duration hours: 2
 - Text: ocr (1 page), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY. «: i
@@ -104,7 +105,6 @@ c) Emergency Power of the President.
 d) Finance Commission.
 C e) Inter — State Relations in our Constitution.
 
-HREKEEEARKEAT J THE BES T##EF##F# EEE
 ````
 
 ## 2008-09 · Exam not stated · Trim 15 · paper ffb208e1ee06

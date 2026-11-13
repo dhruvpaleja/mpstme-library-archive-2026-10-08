@@ -2,6 +2,501 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 5 · Answer key · paper 464490a48c8b
+
+- Departments: Computer Engineering
+- Programmes: BTech Computer 7002, Integrated Computer 7032
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Operations Research/ANS_Operations Research(702CO0E003)_2024-2025.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
+- Text: text (14 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech Intg. (CE)
+Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
+Subject: Operations Research
+Date: 02 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 14 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Part A is compulsory.
+5. In Part B, Attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+Part A. Answer the following Questions   20
+a. Steps in Operations Research Approach: (3 marks)
+1. Problem Definition: Clearly identify the objective, constraints, and
+scope of the problem. (1 mark)
+2. Model Formulation: Develop a mathematical or logical model
+representing the real-world problem. (0.5 mark)
+3. Model Solution: Apply suitable OR techniques (e.g., Linear
+Programming, Queuing Theory) to obtain optimal solutions. (0.5
+mark)
+4. Validation and Testing: Check the model’s accuracy and relevance
+through real-life data comparison. (0.5 mark)
+5. Implementation and Monitoring: Apply the solution practically and
+monitor performance for continuous improvement. (0.5 mark)
+Importance of Model Formulation: (2 marks): Any other relevant point(s).
+   It translates a real-world situation into a structured, analyzable form,
+ensuring the problem is well-defined. (1 mark)
+   Errors in this stage lead to misleading or impractical solutions,
+making it the most crucial phase in the OR process. (1 mark)
+b. The number of rows = 3 and columns = 3
+A   B   C
+J1   12   6   9
+J2   10   17   5
+J3   11   14   16
+********** 1 **********
+--- page 2 ---
+Step-1: Find out row's minimum element and subtract it from that row (2
+marks)
+A   B   C
+J1   6   0   3
+J2   5   12   0
+J3   0   3   5
+Step-2: Find out the column's minimum element and subtract it from that
+column. (1 mark)
+1   2   3
+A   6   0   3
+B   5   12   0
+C   0   3   5
+Step-3: Make an assignment in the opportunity cost table (1 mark)
+Optimal solution with correct cost (1 mark)
+1   2   3
+Work   Job   Cost
+A   6   [0] 3
+A   2   6
+B   5   12   [0]
+C   [0] 3   5   B   3   5
+C   1   11
+Total   22
+c. 1. Compute row minima (worst payoff for Union for each row)
+(1 mark):
+   UI: min(7,12,5,8)=5
+   UII: min(6,4,3,2)=2
+   UIII: min(9,9,9,9)=9
+ UIV: min(0,1,−1,2)=−1
+Maximin=max {5, 2, 9,−1}=9. (0.5 mark):
+Compute column maxima (worst payoff to Company, i.e., best for
+Union in each column) (1 mark):
+   CI: max(7,6,9,0)=9
+   CII: max(12,4,9,1)=12
+   CIII: max(5,3,9,−1)=9
+ CIV: max(8,2,9,2)=9
+********** 2 **********
+--- page 3 ---
+Minimax =min {9, 12, 9, 9}=9. (0.5 mark)
+Maximin = Minimax = 9, so a saddle point exists and the value of the game
+is 9. (1 mark):
+Therefore, at equilibrium: Union → UIII; Company → any of CI, CIII
+,CIV. Value = 9 (payoff to Union). (1 mark)
+d.    Collect/assume demand distribution: Determine possible daily
+demand values and their probabilities (from historical data or
+assumptions). (0.5 marks)
+ Build cumulative distribution (CDF): Compute cumulative
+probabilities for the discrete demand values. (0.5 marks)
+ Generate random numbers: Each simulated day, draw a uniform
+random number u∈[0,1). (0.5 marks)
+ Map to demand (inverse transform): Find the smallest demand
+value whose CDF ≥ u; assign that demand for the day. (0.5 marks)
+ Repeat & analyze: Repeat for the required number of days, then
+compute average demand, variance, etc.(1 mark)
+Brief worked example / intermediate steps (demonstrates the method) (2
+marks)
+Marks can be allotted if the answer aligns with the above steps.
+Part B. (Attempt Any 4)   80
+1   20
+a. After introducing slack variables
+Converting to canonical form: (01 mark)
+Max Z =6X1+2X2+0S1+0S2+0S3
+subject to
+2X1+X2+S1= 1000
+X1+S2 =400
+X2+S3 =700
+and X1, X2,S1, S2,S3≥0
+Iteration-1 (03 marks)
+Cj   6   2   0   0   0
+B   CB   XB   X1   X2   S1   S2   S   MinRatio
+3
+S1   0   1000   2   1   1   0   0   1000/2=500
+S2   0   400   (1)   0   0   1   0   400/1=400
+→
+S3   0   700   0   1   0   0   1   ---
+Z=0   Zj   0   0   0   0   0
+Cj-Zj   6↑   2   0   0   0
+********** 3 **********
+--- page 4 ---
+Positive maximum Cj-Zj is 6 and its column index is 1. So, the entering
+variable is X1.
+Minimum ratio is 400 and its row index is 2. So, the leaving basis variable
+is S2.∴ The pivot element is 1. Entering =X1, Departing =S2
+Iteration-2 (03 marks)
+Cj   6   2   0   0   0
+B CB XB   X1   X2   S1   S2   S3   MinRatio
+200/1=200
+S1   0   200   0   (1)   1   -2   0
+→
+X1   6   400   1   0   0   1   0   ---
+S3   0   700   0   1   0   0   1   700/1=700
+Z=2
+Zj   6   0   0   6   0
+400
+Cj-Zj   0   2↑   0   -6   0
+Positive maximum Cj-Zj is 2 and its column index is 2. So, the entering
+variable is X2. Minimum ratio is 200 and its row index is 1. So, the leaving
+basis variable is S1. ∴ The pivot element is 1.
+Iteration-3 (04 marks)
+Cj   6   2   0   0   0
+B   CB   XB   X1   X2   S1   S2   S3   Min
+Ratio
+X2   2   200   0   1   1   -2   0
+X1   6   400   1   0   0   1   0
+S3   0   500   0   0   -1   2   1
+Z=28   Zj   6   2   2   2   0
+00
+Cj-Zj   0   0   -2   -2   0
+Since all Cj-Zj≤0, Hence, optimal solution is arrived with value of
+variables as : X1=400,X2=200, Max Z=2800: Final solution (01 mark)
+********** 4 **********
+--- page 5 ---
+b.
+The network diagram is as follows:
+Correct Diagram (05 marks). Partial marks can be given based on the
+completion.
+   Identifying the primary factor: Cost vs. Benefit. (1 Mark)
+ Explaining Critical Path impact (must be on the critical path and
+check for new critical paths. (1 Mark)
+ Mentioning   Resource   Availability   and/or   Technical
+Feasibility/Quality limits. (1 Mark)
+2   20
+a. The total supply is 30+40+30=100. The total demand is 20+50+30=100.
+Since total supply equals total demand, the problem is balanced.
+Initial Basic feasible solution including cost calculation: (04 marks)
+D1   D2   D3   Supply
+S1   4   6   8 (30)   30
+S2   2 (20)   5 (20)   7   40
+S3   3   4 (30)   6   30
+Demand   20   50   30
+The minimum total transportation cost =8×30+2×20+5×20+4×30=500
+Here, the number of allocated cells = 4, which is one less than to m + n - 1
+= 3 + 3 - 1 = 5. ∴ This solution is degenerate (01 mark)
+To resolve degeneracy, the quantity d is assigned to S1D1, which has the
+minimum transportation cost = 4. (02 marks)
+D1   D2   D3   Supply
+S1   4 (d)   6   8 (30)   30
+S2   2 (20)   5 (20)   7   40
+S3   3   4 (30)   6   30
+Demand   20   50   30
+********** 5 **********
+--- page 6 ---
+Iteration-1 of optimality test (02 marks)
+D2   D3   Supply   ui
+D1
+S1   4 (d)   6   8 (30)   30 u1=0
+S2   2 (20)   5 (20)   7   40 u2=-2
+S3   3   4 (30)   6   30 u3=-3
+Demand   20   50   30
+vj   v1=4   v2=7   v3=8
+Find dij for all unoccupied cells(i,j), where dij=cij-(ui+vj) (02 marks)
+D2   D3   Supply   ui
+D1
+S1   4 (d)   6 [-1]   8 (30)   30 u1=0
+S2   2 (20)   5 (20)   7 [1]   40 u2=-2
+S3   3 [2]   4 (30)   6 [1]   30 u3=-3
+Demand   20   50   30
+vj   v1=4   v2=7   v3=8
+Since there is a negative dij, the current solution is not optimal.(01 marks)
+b. Network diagram (02 marks)
+Critical Path and Minimum Project Duration (04 marks)
+ The critical path is the longest path from the start (Event 1) to the
+finish (Event 6).
+Path   Activities   Duration Calculation   Path Duration
+P1   1→2→3→5→6   2(A)+3(B)+4(D)+1(F)   10 days
+P2   1→2→4→5→6   2(A)+2(C)+1(E)+1(F)   6 days
+   Critical Path: 1→2→3→5→6
+ Minimum Project Duration: 10 days
+Slack calculation (02 marks)
+Event (j)   Earliest Start   Latest Finish   Slack (Lj−Ej)
+(Ej)   (Lj)
+1   0   0   0
+2   2   2   0
+3   5   5   0
+4   4   8   4
+5   9   9   0
+6   10   10   0
+3   20
+********** 6 **********
+--- page 7 ---
+a. The solution should demonstrate calculation of Maximin and Minimax
+value. Since Maximin Value (2) ≠ Minimax Value (3), no pure strategy
+saddle point exists. The game must be solved using mixed strategies.
+(03 marks).
+Performing row dominance and column dominance and finding reduced
+matrix as follows: (04 marks)
+T2   T3
+S2   2   3
+S4   4   2
+Let probabilities (1 mark)
+   Let Player A play:
+o S2 with probability x
+o S4 with probability 1−x
+   Let Player B play:
+o T2 with probability y
+o T3 with probability 1−y
+If T2 strategy is chosen by Player B: 2x+4(1−x)=2x+4−4x=4−2x= Value
+of the game.
+If T3 strategy is chosen: 3x+2(1−x)=3x+2−2x=2+x = Value of the game.
+Equating both we get, x= 2/3 and 1-x= 1/3. (02 marks)
+Similarly we can get:
+y=1/3
+1-y =2/3, V = 8 / 3 (02 marks)
+b. Applying the rules and showing the steps: (03 marks)
+ Jobs whose minimum is on X are scheduled as early as possible in
+increasing X: D(2), A(3), C(5) → D, A, C
+ Jobs whose minimum is on Y are scheduled as late as possible in
+decreasing Y (i.e. reverse order by Y): B (4), E(3) → placed as B,
+E at the end but reversed ordering gives B before E.
+Finding correct optimal sequence: (1 mark)
+ D — A — C — B — E
+Table (03 marks)
+********** 7 **********
+--- page 8 ---
+Job   start on   finish on X   start on Y finish on Y
+X
+D   0   2   2   7
+A   2   5   7   14
+C   5   10   14   20
+B   10   18   20   24
+E   18   24   24   27
+Makespan (total duration to finish all jobs) = 27 hours. (01 mark)
+4   20
+a. Convert to equalities (01 mark)
+Maximize Z=40X1+50X2+0S1+0S2+0S3−MA1
+Constraints (Equality Form):
+1. 2X1+X2+s1=100
+2. X1+2X2+s2=80
+3. X1−s3+A1=10
+4. X1, X2,S1,S2,S3,A1≥0
+Iteration-1-( 02 marks)
+Cj   40   50   0   0   0   -M
+B CB XB   x1   x2   S1   S2   S3   A1   MinRatio
+S1   0   100   2   1   1   0   0   0   100/2=50
+S2   0   80   1   2   0   1   0   0   80/1=80
+A1   -M   10   (1)   0   0   0   -1   1   10/1=10
+→
+Z=-10M Zj   -M   0   0   0 M   -M
+Cj- M+   50   0   0   -M   0
+Zj   40↑
+Iteration-2-(03 marks)
+Cj   40   50   0   0   0
+B   CB   XB   x1   x2   S1   S2   S3   MinRatio
+S1   0   80   0   1   1   0   2   80/1=80
+S2   0   70   0   (2)   0   1   1   70/2=35→
+x1   40   10   1   0   0   0   -1   ---
+Z=40   Zj   40   0   0   0   -40
+0
+Cj-Zj   0   50↑   0   0   40
+********** 8 **********
+--- page 9 ---
+Iteration-3-(03 marks)
+Cj   40   50   0   0   0
+B C XB   x1   x2   S1   S2   S3   MinRatio
+B
+S1   0   45   0   0   1   -0.5   (1.5)   45/1.5=30→
+x2   5   35   0   1   0   0.5   0.5   35/0.5=70
+0
+x1   4   10   1   0   0   0   -1   ---
+0
+Z=2150   Zj   40   50   0   25   -15
+Cj-Zj   0   0   0   -25   15↑
+Iteration-4-(02 marks)
+Cj   40   50   0   0   0
+MinR
+B   CB   XB   x1   x2   S1   S2   S3
+atio
+S3   0   30   0   0   0.6667   -0.333   1
+x2   50   20   0   1   -0.3333 0.6667   0
+-
+x1   40   40   1   0   0.6667   0
+0.3333
+Z=2600   Zj   40   50   10   20   0
+Cj-Zj   0   0   -10   -20   0
+Since all Cj-Zj≤0
+Hence, optimal solution is arrived with value of variables as   :
+x1=40, x2=20 Max Z=2600 (01 mark)
+********** 9 **********
+--- page 10 ---
+b. Row reduction (2 mark)
+Row   J1   J2   J3   J4   J5
+M1   9−6=3 ∞   7−6=1   6−6=0   8−6=2
+M2   ∞   8−5=3   5−5=0 ∞   7−5=2
+M3   6−6=0   7−6=1 ∞   8−6=2 ∞
+M4   5−5=0   6−5=1   8−5=3 ∞   9−5=4
+M5   7−5=2 ∞   6−5=1   9−5=4   5−5=0
+Column reduction (1 mark)
+J1   J2   J3   J4   J5
+M1   3   ∞   1   0   2
+M2   ∞   2   0   ∞   2
+M3   0   0   ∞   2   ∞
+M4   0   0   3   ∞   4
+M5   2   ∞   1   4   0
+Row-wise & column-wise assignment shown in table (2 mark)
+J1   J2   J3   J4   J5
+M1   3   ∞   1   [0]   2
+M2   ∞   2   [0]   ∞   2
+M3   [0]   0   ∞   2   ∞
+M4   0   [0]   3   ∞   4
+M5   2   ∞   1   4   [0]
+Optimal solution (1 mark)
+Work   Job   Cost
+M1   J4   6
+M2   J3   5
+M3   J1   6
+M4   J2   6
+M5   J5   5
+Total   28
+Alternate Optimal assignments (1 mark)
+J1   J2   J3   J4   J5
+M1   3   ∞   1   [0]   2
+M2   ∞   2   [0]   ∞   2
+M3   0   [0]   ∞   2   ∞
+M4   [0]   0   3   ∞   4
+M5   2   ∞   1   4   [0]
+Optimal solution ( 1 mark)
+Work   Job   Cost
+M1   J4   6
+M2   J3   5
+M3   J2   7
+M4   J1   5
+M5   J5   5
+Total   28
+********** 10 **********
+--- page 11 ---
+5   20
+a.   The simplex method solution given is
+Iteration 1 (01 mark):
+2   1   0   0
+CB   B   x1   x2   S1   S2   XB
+2   x1   1   0.6667   0.3333   0   1.6667
+0   S2   0   0.3333   -0.3333   1   0.3333
+2   1.3333   0.6667   0   Z=3.33
+0   -0.3333   -0.6667   0
+Since all Cj-Zj≤0
+Hence, non-integer optimal solution is arrived with value of variables
+as:
+x1=1.67,x2=0
+Max Z=3.33
+To obtain the integer valued solution, we proceed to construct Gomory's
+fractional cut, with the help of x1-row as follows: (01 mark):
+1.6667=1x1+0.6667x2+0.3333S1
+(1+0.6667)=(1+0)x1+(0+0.6667)x2+(0+0.3333)S1
+The fractional cut will become
+Sg1-0.6667x2-0.3333S1=-0.6667 → (Cut-1) (02 marks):
+Adding this additional constraint at the bottom of optimal simplex table.
+The new table so obtained is:
+Iteration 2 (03 marks)
+2   1   0   0   0
+CB B   x1   x2   S1   S2   Sg1 RHS
+2   x1   1   0.6667   0.3333   0   0   1.6667
+0   S2   0   0.3333   -0.3333   1   0   0.3333
+0   Sg1 0   (-0.6667)   -0.3333   0   1   -0.6667
+2   1.3333   0.6667   0   0   Z=3.3333
+0   -0.3333   -0.6667   0   0
+---   0.5↑   2   ---   ---
+Minimum negative XB is -0.6667 and its row index is 3. So, the leaving
+basis variable is Sg1.
+Minimum positive ratio is 0.5 and its column index is 2. So, the
+entering variable is x2, ∴ The pivot element is -0.6667.
+Entering =x2, Departing =Sg1, Key Element =-0.6667 (01 mark):
+Iteration 3 (03 marks)
+2   1   0   0   0
+********** 11 **********
+--- page 12 ---
+CB   B   x1   x2   S1   S2   Sg1   RHS
+2   x1   1   0   0   0   1   1
+0   S2   0   0   -0.5   1   0.5   0
+1   x2   0   1   0.5   0   -1.5   1
+2   1   0.5   0   0.5   Z=3
+0   0   -0.5   0   -0.5
+Since all Cj-Zj≤0,
+Hence, integer optimal solution is arrived with value of variables as :
+x1=1, x2=1, Max Z=3 (01 mark)
+b.   Calculation of following table: (03 marks)   08
+Activity   to   tm   tp   te=6to+4tm+tp   te
+A   6   7   8 (6+4×7+8)/6=42/6   7
+B   3   5   7 (3+4×5+7)/6=30/6   5
+C   4   7   10 (4+4×7+10)/6=42/6   7
+D   2   3   4 (2+4×3+4)/6=18/6   3
+E   3   4   11 (3+4×4+11)/6=30/6   5
+F   4   8   12 (4+4×8+12)/6=48/6   8
+G   3   3   9 (3+4×3+9)/6=24/6   4
+H   6   6   12 (6+4×6+12)/6=42/6   7
+I   5   8   11 (5+4×8+11)/6=48/6   8
+J   3   3   9 (3+4×3+9)/6=24/6   4
+Finding Critical Path as follows: (03 marks)
+From the diagram, we can see that nodes that satisfy the requirements are:
+1 - 4 - 6 - 7 - 8 or C - F - H – J, the estimated time is: 7 + 8 + 7 + 4 = 26
+days. (02 marks)
+6   20
+********** 12 **********
+--- page 13 ---
+a.   Explanation based on the following points: (04 marks)
+ A positive shadow price means the resource is binding and extra
+units would raise profit.
+   If the firm can obtain an extra unit at a cost lower than the
+shadow price, it should increase availability; expected profit gain
+≈ (Shadow Price × Extra Units) within the allowable range.
+   If the cost exceeds the shadow price, it is not worthwhile.
+Dual: (04 marks)
+Min W = 10y₁ + 2y₂ + 6y₃
+s.t.
+y₁ + 2y₂ + 2y₃ ≥ 1
+y₁ – y₂ – 2y₃ ≥ –1
+– y₂ – 3y₃ ≥ 1
+y₁,y₂,y₃ ≥ 0
+b.   Finding initial solution (03 marks)
+x1=1.92,x2=2.69
+ZA=-11.92
+Sub-problem A, x1(=1.92) must be an integer value, so two new constraints
+are created, x1≤1 and x1≥2 (1 mark)
+Sub-problem B: Solution is found by adding x1≤1.
+Solution is
+Min ZB=-11 (x1=1,x2=3) ((1 mark)
+Sub-problem C: Solution is found by adding x1≥2.
+Solution is
+Min ZC=-11.8 (x1=2,x2=2.6) (1 mark)
+In Sub-problem C, x2(=2.6) must be an integer value, so two new
+constraints are created, x2≤2 and x2≥3
+Sub-problem D: Solution is found by adding x2≤2.
+Solution is
+Min ZD=-11 (x1=2.5,x2=2) (01 mark)
+Sub-problem E: Solution is found by adding x2≥3.
+Solution is
+This Problem has an infeasible solution, so this branch is terminated.
+(1 mark)
+Every step should be backed by correct graphical solution.
+c.   Description on the basis of following points: (03 marks)
+********** 13 **********
+--- page 14 ---
+   In an assignment problem, each task (job) is assigned to one agent
+(machine/person) to optimize total cost or profit.
+ A minimization problem aims to minimize total cost or time (e.g.,
+assigning workers to jobs to reduce total time).
+ A maximization problem seeks to maximize total profit or
+efficiency.
+ The approach is the same (Hungarian method or similar), but for a
+maximization case we convert it to a minimization by subtracting
+all values from the largest entry (so higher profits become smaller
+“costs”).
+Relevant example of an assignment problem (02 marks)
+********** 14 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper 7e96ddcacee7
 
 - Departments: Computer Science and Business Systems
@@ -1996,499 +2491,4 @@ Handling Degeneracy: (02 marks)
 occupy it.
 • Ensures the BFS has exactly 𝑚+ 𝑛−1allocations.
 ********** 15 **********
-````
-
-## 2024-25 · Final-Exam · Sem 5 · Answer key · paper 464490a48c8b
-
-- Departments: Computer Engineering
-- Programmes: BTech Computer 7002, Integrated Computer 7032
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Operations Research/ANS_Operations Research(702CO0E003)_2024-2025.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
-- Text: text (14 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech Intg. (CE)
-Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
-Subject: Operations Research
-Date: 02 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 14 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Part A is compulsory.
-5. In Part B, Attempt any 4 questions.
-6. All questions carry equal marks.
-7. Assume Suitable data if necessary.
-Part A. Answer the following Questions   20
-a. Steps in Operations Research Approach: (3 marks)
-1. Problem Definition: Clearly identify the objective, constraints, and
-scope of the problem. (1 mark)
-2. Model Formulation: Develop a mathematical or logical model
-representing the real-world problem. (0.5 mark)
-3. Model Solution: Apply suitable OR techniques (e.g., Linear
-Programming, Queuing Theory) to obtain optimal solutions. (0.5
-mark)
-4. Validation and Testing: Check the model’s accuracy and relevance
-through real-life data comparison. (0.5 mark)
-5. Implementation and Monitoring: Apply the solution practically and
-monitor performance for continuous improvement. (0.5 mark)
-Importance of Model Formulation: (2 marks): Any other relevant point(s).
-   It translates a real-world situation into a structured, analyzable form,
-ensuring the problem is well-defined. (1 mark)
-   Errors in this stage lead to misleading or impractical solutions,
-making it the most crucial phase in the OR process. (1 mark)
-b. The number of rows = 3 and columns = 3
-A   B   C
-J1   12   6   9
-J2   10   17   5
-J3   11   14   16
-********** 1 **********
---- page 2 ---
-Step-1: Find out row's minimum element and subtract it from that row (2
-marks)
-A   B   C
-J1   6   0   3
-J2   5   12   0
-J3   0   3   5
-Step-2: Find out the column's minimum element and subtract it from that
-column. (1 mark)
-1   2   3
-A   6   0   3
-B   5   12   0
-C   0   3   5
-Step-3: Make an assignment in the opportunity cost table (1 mark)
-Optimal solution with correct cost (1 mark)
-1   2   3
-Work   Job   Cost
-A   6   [0] 3
-A   2   6
-B   5   12   [0]
-C   [0] 3   5   B   3   5
-C   1   11
-Total   22
-c. 1. Compute row minima (worst payoff for Union for each row)
-(1 mark):
-   UI: min(7,12,5,8)=5
-   UII: min(6,4,3,2)=2
-   UIII: min(9,9,9,9)=9
- UIV: min(0,1,−1,2)=−1
-Maximin=max {5, 2, 9,−1}=9. (0.5 mark):
-Compute column maxima (worst payoff to Company, i.e., best for
-Union in each column) (1 mark):
-   CI: max(7,6,9,0)=9
-   CII: max(12,4,9,1)=12
-   CIII: max(5,3,9,−1)=9
- CIV: max(8,2,9,2)=9
-********** 2 **********
---- page 3 ---
-Minimax =min {9, 12, 9, 9}=9. (0.5 mark)
-Maximin = Minimax = 9, so a saddle point exists and the value of the game
-is 9. (1 mark):
-Therefore, at equilibrium: Union → UIII; Company → any of CI, CIII
-,CIV. Value = 9 (payoff to Union). (1 mark)
-d.    Collect/assume demand distribution: Determine possible daily
-demand values and their probabilities (from historical data or
-assumptions). (0.5 marks)
- Build cumulative distribution (CDF): Compute cumulative
-probabilities for the discrete demand values. (0.5 marks)
- Generate random numbers: Each simulated day, draw a uniform
-random number u∈[0,1). (0.5 marks)
- Map to demand (inverse transform): Find the smallest demand
-value whose CDF ≥ u; assign that demand for the day. (0.5 marks)
- Repeat & analyze: Repeat for the required number of days, then
-compute average demand, variance, etc.(1 mark)
-Brief worked example / intermediate steps (demonstrates the method) (2
-marks)
-Marks can be allotted if the answer aligns with the above steps.
-Part B. (Attempt Any 4)   80
-1   20
-a. After introducing slack variables
-Converting to canonical form: (01 mark)
-Max Z =6X1+2X2+0S1+0S2+0S3
-subject to
-2X1+X2+S1= 1000
-X1+S2 =400
-X2+S3 =700
-and X1, X2,S1, S2,S3≥0
-Iteration-1 (03 marks)
-Cj   6   2   0   0   0
-B   CB   XB   X1   X2   S1   S2   S   MinRatio
-3
-S1   0   1000   2   1   1   0   0   1000/2=500
-S2   0   400   (1)   0   0   1   0   400/1=400
-→
-S3   0   700   0   1   0   0   1   ---
-Z=0   Zj   0   0   0   0   0
-Cj-Zj   6↑   2   0   0   0
-********** 3 **********
---- page 4 ---
-Positive maximum Cj-Zj is 6 and its column index is 1. So, the entering
-variable is X1.
-Minimum ratio is 400 and its row index is 2. So, the leaving basis variable
-is S2.∴ The pivot element is 1. Entering =X1, Departing =S2
-Iteration-2 (03 marks)
-Cj   6   2   0   0   0
-B CB XB   X1   X2   S1   S2   S3   MinRatio
-200/1=200
-S1   0   200   0   (1)   1   -2   0
-→
-X1   6   400   1   0   0   1   0   ---
-S3   0   700   0   1   0   0   1   700/1=700
-Z=2
-Zj   6   0   0   6   0
-400
-Cj-Zj   0   2↑   0   -6   0
-Positive maximum Cj-Zj is 2 and its column index is 2. So, the entering
-variable is X2. Minimum ratio is 200 and its row index is 1. So, the leaving
-basis variable is S1. ∴ The pivot element is 1.
-Iteration-3 (04 marks)
-Cj   6   2   0   0   0
-B   CB   XB   X1   X2   S1   S2   S3   Min
-Ratio
-X2   2   200   0   1   1   -2   0
-X1   6   400   1   0   0   1   0
-S3   0   500   0   0   -1   2   1
-Z=28   Zj   6   2   2   2   0
-00
-Cj-Zj   0   0   -2   -2   0
-Since all Cj-Zj≤0, Hence, optimal solution is arrived with value of
-variables as : X1=400,X2=200, Max Z=2800: Final solution (01 mark)
-********** 4 **********
---- page 5 ---
-b.
-The network diagram is as follows:
-Correct Diagram (05 marks). Partial marks can be given based on the
-completion.
-   Identifying the primary factor: Cost vs. Benefit. (1 Mark)
- Explaining Critical Path impact (must be on the critical path and
-check for new critical paths. (1 Mark)
- Mentioning   Resource   Availability   and/or   Technical
-Feasibility/Quality limits. (1 Mark)
-2   20
-a. The total supply is 30+40+30=100. The total demand is 20+50+30=100.
-Since total supply equals total demand, the problem is balanced.
-Initial Basic feasible solution including cost calculation: (04 marks)
-D1   D2   D3   Supply
-S1   4   6   8 (30)   30
-S2   2 (20)   5 (20)   7   40
-S3   3   4 (30)   6   30
-Demand   20   50   30
-The minimum total transportation cost =8×30+2×20+5×20+4×30=500
-Here, the number of allocated cells = 4, which is one less than to m + n - 1
-= 3 + 3 - 1 = 5. ∴ This solution is degenerate (01 mark)
-To resolve degeneracy, the quantity d is assigned to S1D1, which has the
-minimum transportation cost = 4. (02 marks)
-D1   D2   D3   Supply
-S1   4 (d)   6   8 (30)   30
-S2   2 (20)   5 (20)   7   40
-S3   3   4 (30)   6   30
-Demand   20   50   30
-********** 5 **********
---- page 6 ---
-Iteration-1 of optimality test (02 marks)
-D2   D3   Supply   ui
-D1
-S1   4 (d)   6   8 (30)   30 u1=0
-S2   2 (20)   5 (20)   7   40 u2=-2
-S3   3   4 (30)   6   30 u3=-3
-Demand   20   50   30
-vj   v1=4   v2=7   v3=8
-Find dij for all unoccupied cells(i,j), where dij=cij-(ui+vj) (02 marks)
-D2   D3   Supply   ui
-D1
-S1   4 (d)   6 [-1]   8 (30)   30 u1=0
-S2   2 (20)   5 (20)   7 [1]   40 u2=-2
-S3   3 [2]   4 (30)   6 [1]   30 u3=-3
-Demand   20   50   30
-vj   v1=4   v2=7   v3=8
-Since there is a negative dij, the current solution is not optimal.(01 marks)
-b. Network diagram (02 marks)
-Critical Path and Minimum Project Duration (04 marks)
- The critical path is the longest path from the start (Event 1) to the
-finish (Event 6).
-Path   Activities   Duration Calculation   Path Duration
-P1   1→2→3→5→6   2(A)+3(B)+4(D)+1(F)   10 days
-P2   1→2→4→5→6   2(A)+2(C)+1(E)+1(F)   6 days
-   Critical Path: 1→2→3→5→6
- Minimum Project Duration: 10 days
-Slack calculation (02 marks)
-Event (j)   Earliest Start   Latest Finish   Slack (Lj−Ej)
-(Ej)   (Lj)
-1   0   0   0
-2   2   2   0
-3   5   5   0
-4   4   8   4
-5   9   9   0
-6   10   10   0
-3   20
-********** 6 **********
---- page 7 ---
-a. The solution should demonstrate calculation of Maximin and Minimax
-value. Since Maximin Value (2) ≠ Minimax Value (3), no pure strategy
-saddle point exists. The game must be solved using mixed strategies.
-(03 marks).
-Performing row dominance and column dominance and finding reduced
-matrix as follows: (04 marks)
-T2   T3
-S2   2   3
-S4   4   2
-Let probabilities (1 mark)
-   Let Player A play:
-o S2 with probability x
-o S4 with probability 1−x
-   Let Player B play:
-o T2 with probability y
-o T3 with probability 1−y
-If T2 strategy is chosen by Player B: 2x+4(1−x)=2x+4−4x=4−2x= Value
-of the game.
-If T3 strategy is chosen: 3x+2(1−x)=3x+2−2x=2+x = Value of the game.
-Equating both we get, x= 2/3 and 1-x= 1/3. (02 marks)
-Similarly we can get:
-y=1/3
-1-y =2/3, V = 8 / 3 (02 marks)
-b. Applying the rules and showing the steps: (03 marks)
- Jobs whose minimum is on X are scheduled as early as possible in
-increasing X: D(2), A(3), C(5) → D, A, C
- Jobs whose minimum is on Y are scheduled as late as possible in
-decreasing Y (i.e. reverse order by Y): B (4), E(3) → placed as B,
-E at the end but reversed ordering gives B before E.
-Finding correct optimal sequence: (1 mark)
- D — A — C — B — E
-Table (03 marks)
-********** 7 **********
---- page 8 ---
-Job   start on   finish on X   start on Y finish on Y
-X
-D   0   2   2   7
-A   2   5   7   14
-C   5   10   14   20
-B   10   18   20   24
-E   18   24   24   27
-Makespan (total duration to finish all jobs) = 27 hours. (01 mark)
-4   20
-a. Convert to equalities (01 mark)
-Maximize Z=40X1+50X2+0S1+0S2+0S3−MA1
-Constraints (Equality Form):
-1. 2X1+X2+s1=100
-2. X1+2X2+s2=80
-3. X1−s3+A1=10
-4. X1, X2,S1,S2,S3,A1≥0
-Iteration-1-( 02 marks)
-Cj   40   50   0   0   0   -M
-B CB XB   x1   x2   S1   S2   S3   A1   MinRatio
-S1   0   100   2   1   1   0   0   0   100/2=50
-S2   0   80   1   2   0   1   0   0   80/1=80
-A1   -M   10   (1)   0   0   0   -1   1   10/1=10
-→
-Z=-10M Zj   -M   0   0   0 M   -M
-Cj- M+   50   0   0   -M   0
-Zj   40↑
-Iteration-2-(03 marks)
-Cj   40   50   0   0   0
-B   CB   XB   x1   x2   S1   S2   S3   MinRatio
-S1   0   80   0   1   1   0   2   80/1=80
-S2   0   70   0   (2)   0   1   1   70/2=35→
-x1   40   10   1   0   0   0   -1   ---
-Z=40   Zj   40   0   0   0   -40
-0
-Cj-Zj   0   50↑   0   0   40
-********** 8 **********
---- page 9 ---
-Iteration-3-(03 marks)
-Cj   40   50   0   0   0
-B C XB   x1   x2   S1   S2   S3   MinRatio
-B
-S1   0   45   0   0   1   -0.5   (1.5)   45/1.5=30→
-x2   5   35   0   1   0   0.5   0.5   35/0.5=70
-0
-x1   4   10   1   0   0   0   -1   ---
-0
-Z=2150   Zj   40   50   0   25   -15
-Cj-Zj   0   0   0   -25   15↑
-Iteration-4-(02 marks)
-Cj   40   50   0   0   0
-MinR
-B   CB   XB   x1   x2   S1   S2   S3
-atio
-S3   0   30   0   0   0.6667   -0.333   1
-x2   50   20   0   1   -0.3333 0.6667   0
--
-x1   40   40   1   0   0.6667   0
-0.3333
-Z=2600   Zj   40   50   10   20   0
-Cj-Zj   0   0   -10   -20   0
-Since all Cj-Zj≤0
-Hence, optimal solution is arrived with value of variables as   :
-x1=40, x2=20 Max Z=2600 (01 mark)
-********** 9 **********
---- page 10 ---
-b. Row reduction (2 mark)
-Row   J1   J2   J3   J4   J5
-M1   9−6=3 ∞   7−6=1   6−6=0   8−6=2
-M2   ∞   8−5=3   5−5=0 ∞   7−5=2
-M3   6−6=0   7−6=1 ∞   8−6=2 ∞
-M4   5−5=0   6−5=1   8−5=3 ∞   9−5=4
-M5   7−5=2 ∞   6−5=1   9−5=4   5−5=0
-Column reduction (1 mark)
-J1   J2   J3   J4   J5
-M1   3   ∞   1   0   2
-M2   ∞   2   0   ∞   2
-M3   0   0   ∞   2   ∞
-M4   0   0   3   ∞   4
-M5   2   ∞   1   4   0
-Row-wise & column-wise assignment shown in table (2 mark)
-J1   J2   J3   J4   J5
-M1   3   ∞   1   [0]   2
-M2   ∞   2   [0]   ∞   2
-M3   [0]   0   ∞   2   ∞
-M4   0   [0]   3   ∞   4
-M5   2   ∞   1   4   [0]
-Optimal solution (1 mark)
-Work   Job   Cost
-M1   J4   6
-M2   J3   5
-M3   J1   6
-M4   J2   6
-M5   J5   5
-Total   28
-Alternate Optimal assignments (1 mark)
-J1   J2   J3   J4   J5
-M1   3   ∞   1   [0]   2
-M2   ∞   2   [0]   ∞   2
-M3   0   [0]   ∞   2   ∞
-M4   [0]   0   3   ∞   4
-M5   2   ∞   1   4   [0]
-Optimal solution ( 1 mark)
-Work   Job   Cost
-M1   J4   6
-M2   J3   5
-M3   J2   7
-M4   J1   5
-M5   J5   5
-Total   28
-********** 10 **********
---- page 11 ---
-5   20
-a.   The simplex method solution given is
-Iteration 1 (01 mark):
-2   1   0   0
-CB   B   x1   x2   S1   S2   XB
-2   x1   1   0.6667   0.3333   0   1.6667
-0   S2   0   0.3333   -0.3333   1   0.3333
-2   1.3333   0.6667   0   Z=3.33
-0   -0.3333   -0.6667   0
-Since all Cj-Zj≤0
-Hence, non-integer optimal solution is arrived with value of variables
-as:
-x1=1.67,x2=0
-Max Z=3.33
-To obtain the integer valued solution, we proceed to construct Gomory's
-fractional cut, with the help of x1-row as follows: (01 mark):
-1.6667=1x1+0.6667x2+0.3333S1
-(1+0.6667)=(1+0)x1+(0+0.6667)x2+(0+0.3333)S1
-The fractional cut will become
-Sg1-0.6667x2-0.3333S1=-0.6667 → (Cut-1) (02 marks):
-Adding this additional constraint at the bottom of optimal simplex table.
-The new table so obtained is:
-Iteration 2 (03 marks)
-2   1   0   0   0
-CB B   x1   x2   S1   S2   Sg1 RHS
-2   x1   1   0.6667   0.3333   0   0   1.6667
-0   S2   0   0.3333   -0.3333   1   0   0.3333
-0   Sg1 0   (-0.6667)   -0.3333   0   1   -0.6667
-2   1.3333   0.6667   0   0   Z=3.3333
-0   -0.3333   -0.6667   0   0
----   0.5↑   2   ---   ---
-Minimum negative XB is -0.6667 and its row index is 3. So, the leaving
-basis variable is Sg1.
-Minimum positive ratio is 0.5 and its column index is 2. So, the
-entering variable is x2, ∴ The pivot element is -0.6667.
-Entering =x2, Departing =Sg1, Key Element =-0.6667 (01 mark):
-Iteration 3 (03 marks)
-2   1   0   0   0
-********** 11 **********
---- page 12 ---
-CB   B   x1   x2   S1   S2   Sg1   RHS
-2   x1   1   0   0   0   1   1
-0   S2   0   0   -0.5   1   0.5   0
-1   x2   0   1   0.5   0   -1.5   1
-2   1   0.5   0   0.5   Z=3
-0   0   -0.5   0   -0.5
-Since all Cj-Zj≤0,
-Hence, integer optimal solution is arrived with value of variables as :
-x1=1, x2=1, Max Z=3 (01 mark)
-b.   Calculation of following table: (03 marks)   08
-Activity   to   tm   tp   te=6to+4tm+tp   te
-A   6   7   8 (6+4×7+8)/6=42/6   7
-B   3   5   7 (3+4×5+7)/6=30/6   5
-C   4   7   10 (4+4×7+10)/6=42/6   7
-D   2   3   4 (2+4×3+4)/6=18/6   3
-E   3   4   11 (3+4×4+11)/6=30/6   5
-F   4   8   12 (4+4×8+12)/6=48/6   8
-G   3   3   9 (3+4×3+9)/6=24/6   4
-H   6   6   12 (6+4×6+12)/6=42/6   7
-I   5   8   11 (5+4×8+11)/6=48/6   8
-J   3   3   9 (3+4×3+9)/6=24/6   4
-Finding Critical Path as follows: (03 marks)
-From the diagram, we can see that nodes that satisfy the requirements are:
-1 - 4 - 6 - 7 - 8 or C - F - H – J, the estimated time is: 7 + 8 + 7 + 4 = 26
-days. (02 marks)
-6   20
-********** 12 **********
---- page 13 ---
-a.   Explanation based on the following points: (04 marks)
- A positive shadow price means the resource is binding and extra
-units would raise profit.
-   If the firm can obtain an extra unit at a cost lower than the
-shadow price, it should increase availability; expected profit gain
-≈ (Shadow Price × Extra Units) within the allowable range.
-   If the cost exceeds the shadow price, it is not worthwhile.
-Dual: (04 marks)
-Min W = 10y₁ + 2y₂ + 6y₃
-s.t.
-y₁ + 2y₂ + 2y₃ ≥ 1
-y₁ – y₂ – 2y₃ ≥ –1
-– y₂ – 3y₃ ≥ 1
-y₁,y₂,y₃ ≥ 0
-b.   Finding initial solution (03 marks)
-x1=1.92,x2=2.69
-ZA=-11.92
-Sub-problem A, x1(=1.92) must be an integer value, so two new constraints
-are created, x1≤1 and x1≥2 (1 mark)
-Sub-problem B: Solution is found by adding x1≤1.
-Solution is
-Min ZB=-11 (x1=1,x2=3) ((1 mark)
-Sub-problem C: Solution is found by adding x1≥2.
-Solution is
-Min ZC=-11.8 (x1=2,x2=2.6) (1 mark)
-In Sub-problem C, x2(=2.6) must be an integer value, so two new
-constraints are created, x2≤2 and x2≥3
-Sub-problem D: Solution is found by adding x2≤2.
-Solution is
-Min ZD=-11 (x1=2.5,x2=2) (01 mark)
-Sub-problem E: Solution is found by adding x2≥3.
-Solution is
-This Problem has an infeasible solution, so this branch is terminated.
-(1 mark)
-Every step should be backed by correct graphical solution.
-c.   Description on the basis of following points: (03 marks)
-********** 13 **********
---- page 14 ---
-   In an assignment problem, each task (job) is assigned to one agent
-(machine/person) to optimize total cost or profit.
- A minimization problem aims to minimize total cost or time (e.g.,
-assigning workers to jobs to reduce total time).
- A maximization problem seeks to maximize total profit or
-efficiency.
- The approach is the same (Hungarian method or similar), but for a
-maximization case we convert it to a minimization by subtracting
-all values from the largest entry (so higher profits become smaller
-“costs”).
-Relevant example of an assignment problem (02 marks)
-********** 14 **********
 ````

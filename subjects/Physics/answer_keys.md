@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_AIDS_7056/Physics/ANS_Physics(702BS0C002)_2025-2026.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2025
 - Text: mixed (13 pages), mean OCR confidence 74.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -201,7 +202,6 @@ at Ge dl = fi da
 — V-B=0 fB- da =0 10]
 
 ss a IE = = aE
-Vx B= uJ +\U€, = PB: di =yW0I., uf
 0
 
 4 marks (% mark for each right equation)
@@ -1140,6 +1140,7 @@ polarization.   (1 M)
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_CSBS_7036/Physics/ANS_Physics(702BS0C002)_2025-2026_a30e84a1ff.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2025
 - Text: mixed (13 pages), mean OCR confidence 74.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1332,7 +1333,6 @@ at Ge dl = fi da
 — V-B=0 fB- da =0 10]
 
 ss a IE = = aE
-Vx B= uJ +\U€, = PB: di =yW0I., uf
 0
 
 4 marks (% mark for each right equation)
@@ -3367,6 +3367,7 @@ polarization.   (1 M)
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_EXTC_7006/Physics/ANS_Physics(702BS0C002)_2025-2026_b2543ee332.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2025
 - Text: mixed (13 pages), mean OCR confidence 74.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3559,7 +3560,6 @@ at Ge dl = fi da
 — V-B=0 fB- da =0 10]
 
 ss a IE = = aE
-Vx B= uJ +\U€, = PB: di =yW0I., uf
 0
 
 4 marks (% mark for each right equation)
@@ -5351,6 +5351,7 @@ M)
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_AI_7012/Physics/ANS_Physics(702BS0C002)_2025-2026.pdf` (+11 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (12 pages), mean OCR confidence 71.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5493,7 +5494,6 @@ BL-1 re ai
 
 —— Ek . 20
 
-ChilicSuca,   Moma® * tae IP Seay
 —— ————— _ 2 Mark.
 (Ne/ne drow, >} eae
 iE a. ]
@@ -7254,6 +7254,7 @@ Correct substitution and answer – 2 marks
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_AIDS_7056/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -7459,7 +7460,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -7487,7 +7487,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -7501,7 +7500,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -7744,6 +7742,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_AIML_7053/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -7949,7 +7948,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -7977,7 +7975,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -7991,7 +7988,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -8234,6 +8230,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_AI_7012/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -8439,7 +8436,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -8467,7 +8463,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -8481,7 +8476,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -8724,6 +8718,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CS_7055/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -8929,7 +8924,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -8957,7 +8951,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -8971,7 +8964,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -9214,6 +9206,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_Computer_7002/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -9419,7 +9412,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -9447,7 +9439,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -9461,7 +9452,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -9704,6 +9694,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CyberSecurity_7010/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -9909,7 +9900,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -9937,7 +9927,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -9951,7 +9940,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -10194,6 +10182,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_DS_7009/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -10399,7 +10388,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -10427,7 +10415,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -10441,7 +10428,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -10684,6 +10670,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_EXTC_7006/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -10889,7 +10876,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -10917,7 +10903,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -10931,7 +10916,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -11174,6 +11158,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_IT_7001/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -11379,7 +11364,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -11407,7 +11391,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -11421,7 +11404,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -11664,6 +11646,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_Mechatronics_7004/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -11869,7 +11852,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -11897,7 +11879,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -11911,7 +11892,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -12154,6 +12134,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_AI_7051/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -12359,7 +12340,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -12387,7 +12367,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -12401,7 +12380,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -12644,6 +12622,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_Computer_7047/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -12849,7 +12828,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -12877,7 +12855,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -12891,7 +12868,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -13134,6 +13110,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_DS_7052/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -13339,7 +13316,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -13367,7 +13343,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -13381,7 +13356,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -13624,6 +13598,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_IT_7041/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: mixed (18 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -13829,7 +13804,6 @@ Ho) Nit
 an ape ¢ (U4) =0°2 xI0 wi)
 
 Doping consi °
-[One _Mayk fer fivem olafa .
 ge is #4 Compiled
 
 CP) = Lbs 510” Stew hea?
@@ -13857,7 +13831,6 @@ _ met
 | oeype vrH4 X10 S}m :
 <_ee
 
-SY Umit iw Final aumewey vs wot wreutioned tien ad os.
 
 a
 
@@ -13871,7 +13844,6 @@ Pumping- The method of raising the molecules or atoms from their lower energy st
 The optical pumping is needed for achieving population inversion which is precondition for stimulated emission.
 1
 
-Selina pemiphig optial pomiptng, cick pemapiag! Chemist Panipiag
 _iM
 
 Lasing cannot be obtained using only two energy levels —
@@ -14792,6 +14764,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_AIDS_7056/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 74.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -14902,7 +14875,6 @@ comparison with 2Rt
 
 Therefore, nf = 2Rt
 
-im ng =R x 2t ie)
 For Dark Rings:
 
 Applying the condition 2t = nA for the dark rings, Eq. (1) reads
@@ -14936,8 +14908,6 @@ Given oleate.
 
 eoeatth 4
 
-Leong th “Oo Uk qevmanicn sod (L) = lew aston om
-Wlickth @ural. Mucknes a Lie vod Cw) = Imm= 0:00!w
 
 Cross- Sectionas Crea Ti xw slay = 1x10 bm”
 Tutvinsic earmer concentration (™) = 2-sx10- |.
@@ -14945,8 +14915,6 @@ J . 4
 Sheetron om obili ty (ue) * 0-39 /y, [wae
 Hole mobility (Ly) > Og m hy :
 Zlemedyy Charge Cey = r6xi%,
-[Oue wante for qt ven dala Lo be ‘give
-aay aka ss courpiled with uit eonvernion
 iw Sok. gf oppropoad e, Sywrbodl: |} :
 Formula I f
 R L Ra Resisteve e
@@ -14962,7 +14930,6 @@ Ss ' fo} : =
 0:e\ 4310-34 2. ——— —— (ware
 
 rR > P3axnioe
-34 Unit in Frual answer is nel wemtioned Shen cet Of wavks
 
 Page 8 of 18
 
@@ -14986,7 +14953,6 @@ Ni “= wp
 > 1 Wraryle -
 Numer Cat
 Givew
-Twyinsie canriey concentrehion (mi) . VEX Jend
 “Doping 64 N- =anG Carssierg "“ (ny= 1X10 end
 Vo Find
 Concevd rechioy o holes (py - 9
@@ -15152,6 +15118,7 @@ Page 18 of 18
 - Programmes: BTech AI 7012, BTech Computer 7002, MBATech Computer 7047, MBATech IT 7041
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_AI_7012/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf` (+3 identical copies)
 - Text: ocr (8 pages), mean OCR confidence 88.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -15461,13 +15428,10 @@ Distinguish between 3-level and 4-level lasers with examples.
 Three-level and four-level lasers
 
 Levit k Ey Ny pamermanemmam Level 4, ki, \',
-RB emt. rentaatennlens treme) Ra ert, rpiotsoic.s srame.tneare)
 
 faved By My |
 
-Pym lance AL tote, deer mronstad
 Pompe | romans
-wromnnny | Am Li tilew, fewer tramumon) |
 
 > Lev 2. X)
 
@@ -15513,6 +15477,7 @@ B=5 wT 3 Mark
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CyberSecurity_7010/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 74.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -15623,7 +15588,6 @@ comparison with 2Rt
 
 Therefore, nf = 2Rt
 
-im ng =R x 2t ie)
 For Dark Rings:
 
 Applying the condition 2t = nA for the dark rings, Eq. (1) reads
@@ -15657,8 +15621,6 @@ Given oleate.
 
 eoeatth 4
 
-Leong th “Oo Uk qevmanicn sod (L) = lew aston om
-Wlickth @ural. Mucknes a Lie vod Cw) = Imm= 0:00!w
 
 Cross- Sectionas Crea Ti xw slay = 1x10 bm”
 Tutvinsic earmer concentration (™) = 2-sx10- |.
@@ -15666,8 +15628,6 @@ J . 4
 Sheetron om obili ty (ue) * 0-39 /y, [wae
 Hole mobility (Ly) > Og m hy :
 Zlemedyy Charge Cey = r6xi%,
-[Oue wante for qt ven dala Lo be ‘give
-aay aka ss courpiled with uit eonvernion
 iw Sok. gf oppropoad e, Sywrbodl: |} :
 Formula I f
 R L Ra Resisteve e
@@ -15683,7 +15643,6 @@ Ss ' fo} : =
 0:e\ 4310-34 2. ——— —— (ware
 
 rR > P3axnioe
-34 Unit in Frual answer is nel wemtioned Shen cet Of wavks
 
 Page 8 of 18
 
@@ -15707,7 +15666,6 @@ Ni “= wp
 > 1 Wraryle -
 Numer Cat
 Givew
-Twyinsie canriey concentrehion (mi) . VEX Jend
 “Doping 64 N- =anG Carssierg "“ (ny= 1X10 end
 Vo Find
 Concevd rechioy o holes (py - 9
@@ -15874,6 +15832,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_DS_7009/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 74.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -15984,7 +15943,6 @@ comparison with 2Rt
 
 Therefore, nf = 2Rt
 
-im ng =R x 2t ie)
 For Dark Rings:
 
 Applying the condition 2t = nA for the dark rings, Eq. (1) reads
@@ -16018,8 +15976,6 @@ Given oleate.
 
 eoeatth 4
 
-Leong th “Oo Uk qevmanicn sod (L) = lew aston om
-Wlickth @ural. Mucknes a Lie vod Cw) = Imm= 0:00!w
 
 Cross- Sectionas Crea Ti xw slay = 1x10 bm”
 Tutvinsic earmer concentration (™) = 2-sx10- |.
@@ -16027,8 +15983,6 @@ J . 4
 Sheetron om obili ty (ue) * 0-39 /y, [wae
 Hole mobility (Ly) > Og m hy :
 Zlemedyy Charge Cey = r6xi%,
-[Oue wante for qt ven dala Lo be ‘give
-aay aka ss courpiled with uit eonvernion
 iw Sok. gf oppropoad e, Sywrbodl: |} :
 Formula I f
 R L Ra Resisteve e
@@ -16044,7 +15998,6 @@ Ss ' fo} : =
 0:e\ 4310-34 2. ——— —— (ware
 
 rR > P3axnioe
-34 Unit in Frual answer is nel wemtioned Shen cet Of wavks
 
 Page 8 of 18
 
@@ -16068,7 +16021,6 @@ Ni “= wp
 > 1 Wraryle -
 Numer Cat
 Givew
-Twyinsie canriey concentrehion (mi) . VEX Jend
 “Doping 64 N- =anG Carssierg "“ (ny= 1X10 end
 Vo Find
 Concevd rechioy o holes (py - 9
@@ -16235,6 +16187,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_EXTC_7006/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 74.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -16345,7 +16298,6 @@ comparison with 2Rt
 
 Therefore, nf = 2Rt
 
-im ng =R x 2t ie)
 For Dark Rings:
 
 Applying the condition 2t = nA for the dark rings, Eq. (1) reads
@@ -16379,8 +16331,6 @@ Given oleate.
 
 eoeatth 4
 
-Leong th “Oo Uk qevmanicn sod (L) = lew aston om
-Wlickth @ural. Mucknes a Lie vod Cw) = Imm= 0:00!w
 
 Cross- Sectionas Crea Ti xw slay = 1x10 bm”
 Tutvinsic earmer concentration (™) = 2-sx10- |.
@@ -16388,8 +16338,6 @@ J . 4
 Sheetron om obili ty (ue) * 0-39 /y, [wae
 Hole mobility (Ly) > Og m hy :
 Zlemedyy Charge Cey = r6xi%,
-[Oue wante for qt ven dala Lo be ‘give
-aay aka ss courpiled with uit eonvernion
 iw Sok. gf oppropoad e, Sywrbodl: |} :
 Formula I f
 R L Ra Resisteve e
@@ -16405,7 +16353,6 @@ Ss ' fo} : =
 0:e\ 4310-34 2. ——— —— (ware
 
 rR > P3axnioe
-34 Unit in Frual answer is nel wemtioned Shen cet Of wavks
 
 Page 8 of 18
 
@@ -16429,7 +16376,6 @@ Ni “= wp
 > 1 Wraryle -
 Numer Cat
 Givew
-Twyinsie canriey concentrehion (mi) . VEX Jend
 “Doping 64 N- =anG Carssierg "“ (ny= 1X10 end
 Vo Find
 Concevd rechioy o holes (py - 9
@@ -16596,6 +16542,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_IT_7001/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 74.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -16706,7 +16653,6 @@ comparison with 2Rt
 
 Therefore, nf = 2Rt
 
-im ng =R x 2t ie)
 For Dark Rings:
 
 Applying the condition 2t = nA for the dark rings, Eq. (1) reads
@@ -16740,8 +16686,6 @@ Given oleate.
 
 eoeatth 4
 
-Leong th “Oo Uk qevmanicn sod (L) = lew aston om
-Wlickth @ural. Mucknes a Lie vod Cw) = Imm= 0:00!w
 
 Cross- Sectionas Crea Ti xw slay = 1x10 bm”
 Tutvinsic earmer concentration (™) = 2-sx10- |.
@@ -16749,8 +16693,6 @@ J . 4
 Sheetron om obili ty (ue) * 0-39 /y, [wae
 Hole mobility (Ly) > Og m hy :
 Zlemedyy Charge Cey = r6xi%,
-[Oue wante for qt ven dala Lo be ‘give
-aay aka ss courpiled with uit eonvernion
 iw Sok. gf oppropoad e, Sywrbodl: |} :
 Formula I f
 R L Ra Resisteve e
@@ -16766,7 +16708,6 @@ Ss ' fo} : =
 0:e\ 4310-34 2. ——— —— (ware
 
 rR > P3axnioe
-34 Unit in Frual answer is nel wemtioned Shen cet Of wavks
 
 Page 8 of 18
 
@@ -16790,7 +16731,6 @@ Ni “= wp
 > 1 Wraryle -
 Numer Cat
 Givew
-Twyinsie canriey concentrehion (mi) . VEX Jend
 “Doping 64 N- =anG Carssierg "“ (ny= 1X10 end
 Vo Find
 Concevd rechioy o holes (py - 9
@@ -16957,6 +16897,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_Mechatronics_7004/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 74.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -17067,7 +17008,6 @@ comparison with 2Rt
 
 Therefore, nf = 2Rt
 
-im ng =R x 2t ie)
 For Dark Rings:
 
 Applying the condition 2t = nA for the dark rings, Eq. (1) reads
@@ -17101,8 +17041,6 @@ Given oleate.
 
 eoeatth 4
 
-Leong th “Oo Uk qevmanicn sod (L) = lew aston om
-Wlickth @ural. Mucknes a Lie vod Cw) = Imm= 0:00!w
 
 Cross- Sectionas Crea Ti xw slay = 1x10 bm”
 Tutvinsic earmer concentration (™) = 2-sx10- |.
@@ -17110,8 +17048,6 @@ J . 4
 Sheetron om obili ty (ue) * 0-39 /y, [wae
 Hole mobility (Ly) > Og m hy :
 Zlemedyy Charge Cey = r6xi%,
-[Oue wante for qt ven dala Lo be ‘give
-aay aka ss courpiled with uit eonvernion
 iw Sok. gf oppropoad e, Sywrbodl: |} :
 Formula I f
 R L Ra Resisteve e
@@ -17127,7 +17063,6 @@ Ss ' fo} : =
 0:e\ 4310-34 2. ——— —— (ware
 
 rR > P3axnioe
-34 Unit in Frual answer is nel wemtioned Shen cet Of wavks
 
 Page 8 of 18
 
@@ -17151,7 +17086,6 @@ Ni “= wp
 > 1 Wraryle -
 Numer Cat
 Givew
-Twyinsie canriey concentrehion (mi) . VEX Jend
 “Doping 64 N- =anG Carssierg "“ (ny= 1X10 end
 Vo Find
 Concevd rechioy o holes (py - 9
@@ -17318,6 +17252,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_AI_7051/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 74.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -17428,7 +17363,6 @@ comparison with 2Rt
 
 Therefore, nf = 2Rt
 
-im ng =R x 2t ie)
 For Dark Rings:
 
 Applying the condition 2t = nA for the dark rings, Eq. (1) reads
@@ -17462,8 +17396,6 @@ Given oleate.
 
 eoeatth 4
 
-Leong th “Oo Uk qevmanicn sod (L) = lew aston om
-Wlickth @ural. Mucknes a Lie vod Cw) = Imm= 0:00!w
 
 Cross- Sectionas Crea Ti xw slay = 1x10 bm”
 Tutvinsic earmer concentration (™) = 2-sx10- |.
@@ -17471,8 +17403,6 @@ J . 4
 Sheetron om obili ty (ue) * 0-39 /y, [wae
 Hole mobility (Ly) > Og m hy :
 Zlemedyy Charge Cey = r6xi%,
-[Oue wante for qt ven dala Lo be ‘give
-aay aka ss courpiled with uit eonvernion
 iw Sok. gf oppropoad e, Sywrbodl: |} :
 Formula I f
 R L Ra Resisteve e
@@ -17488,7 +17418,6 @@ Ss ' fo} : =
 0:e\ 4310-34 2. ——— —— (ware
 
 rR > P3axnioe
-34 Unit in Frual answer is nel wemtioned Shen cet Of wavks
 
 Page 8 of 18
 
@@ -17512,7 +17441,6 @@ Ni “= wp
 > 1 Wraryle -
 Numer Cat
 Givew
-Twyinsie canriey concentrehion (mi) . VEX Jend
 “Doping 64 N- =anG Carssierg "“ (ny= 1X10 end
 Vo Find
 Concevd rechioy o holes (py - 9
@@ -17679,6 +17607,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_Computer_7047/Physics/ANS_Physics(702BS0C002)_2024-2025_88ad06cd48.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 74.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -17789,7 +17718,6 @@ comparison with 2Rt
 
 Therefore, nf = 2Rt
 
-im ng =R x 2t ie)
 For Dark Rings:
 
 Applying the condition 2t = nA for the dark rings, Eq. (1) reads
@@ -17823,8 +17751,6 @@ Given oleate.
 
 eoeatth 4
 
-Leong th “Oo Uk qevmanicn sod (L) = lew aston om
-Wlickth @ural. Mucknes a Lie vod Cw) = Imm= 0:00!w
 
 Cross- Sectionas Crea Ti xw slay = 1x10 bm”
 Tutvinsic earmer concentration (™) = 2-sx10- |.
@@ -17832,8 +17758,6 @@ J . 4
 Sheetron om obili ty (ue) * 0-39 /y, [wae
 Hole mobility (Ly) > Og m hy :
 Zlemedyy Charge Cey = r6xi%,
-[Oue wante for qt ven dala Lo be ‘give
-aay aka ss courpiled with uit eonvernion
 iw Sok. gf oppropoad e, Sywrbodl: |} :
 Formula I f
 R L Ra Resisteve e
@@ -17849,7 +17773,6 @@ Ss ' fo} : =
 0:e\ 4310-34 2. ——— —— (ware
 
 rR > P3axnioe
-34 Unit in Frual answer is nel wemtioned Shen cet Of wavks
 
 Page 8 of 18
 
@@ -17873,7 +17796,6 @@ Ni “= wp
 > 1 Wraryle -
 Numer Cat
 Givew
-Twyinsie canriey concentrehion (mi) . VEX Jend
 “Doping 64 N- =anG Carssierg "“ (ny= 1X10 end
 Vo Find
 Concevd rechioy o holes (py - 9
@@ -18040,6 +17962,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_DS_7052/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 74.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -18150,7 +18073,6 @@ comparison with 2Rt
 
 Therefore, nf = 2Rt
 
-im ng =R x 2t ie)
 For Dark Rings:
 
 Applying the condition 2t = nA for the dark rings, Eq. (1) reads
@@ -18184,8 +18106,6 @@ Given oleate.
 
 eoeatth 4
 
-Leong th “Oo Uk qevmanicn sod (L) = lew aston om
-Wlickth @ural. Mucknes a Lie vod Cw) = Imm= 0:00!w
 
 Cross- Sectionas Crea Ti xw slay = 1x10 bm”
 Tutvinsic earmer concentration (™) = 2-sx10- |.
@@ -18193,8 +18113,6 @@ J . 4
 Sheetron om obili ty (ue) * 0-39 /y, [wae
 Hole mobility (Ly) > Og m hy :
 Zlemedyy Charge Cey = r6xi%,
-[Oue wante for qt ven dala Lo be ‘give
-aay aka ss courpiled with uit eonvernion
 iw Sok. gf oppropoad e, Sywrbodl: |} :
 Formula I f
 R L Ra Resisteve e
@@ -18210,7 +18128,6 @@ Ss ' fo} : =
 0:e\ 4310-34 2. ——— —— (ware
 
 rR > P3axnioe
-34 Unit in Frual answer is nel wemtioned Shen cet Of wavks
 
 Page 8 of 18
 
@@ -18234,7 +18151,6 @@ Ni “= wp
 > 1 Wraryle -
 Numer Cat
 Givew
-Twyinsie canriey concentrehion (mi) . VEX Jend
 “Doping 64 N- =anG Carssierg "“ (ny= 1X10 end
 Vo Find
 Concevd rechioy o holes (py - 9
@@ -18401,6 +18317,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_IT_7041/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 74.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -18511,7 +18428,6 @@ comparison with 2Rt
 
 Therefore, nf = 2Rt
 
-im ng =R x 2t ie)
 For Dark Rings:
 
 Applying the condition 2t = nA for the dark rings, Eq. (1) reads
@@ -18545,8 +18461,6 @@ Given oleate.
 
 eoeatth 4
 
-Leong th “Oo Uk qevmanicn sod (L) = lew aston om
-Wlickth @ural. Mucknes a Lie vod Cw) = Imm= 0:00!w
 
 Cross- Sectionas Crea Ti xw slay = 1x10 bm”
 Tutvinsic earmer concentration (™) = 2-sx10- |.
@@ -18554,8 +18468,6 @@ J . 4
 Sheetron om obili ty (ue) * 0-39 /y, [wae
 Hole mobility (Ly) > Og m hy :
 Zlemedyy Charge Cey = r6xi%,
-[Oue wante for qt ven dala Lo be ‘give
-aay aka ss courpiled with uit eonvernion
 iw Sok. gf oppropoad e, Sywrbodl: |} :
 Formula I f
 R L Ra Resisteve e
@@ -18571,7 +18483,6 @@ Ss ' fo} : =
 0:e\ 4310-34 2. ——— —— (ware
 
 rR > P3axnioe
-34 Unit in Frual answer is nel wemtioned Shen cet Of wavks
 
 Page 8 of 18
 
@@ -18595,7 +18506,6 @@ Ni “= wp
 > 1 Wraryle -
 Numer Cat
 Givew
-Twyinsie canriey concentrehion (mi) . VEX Jend
 “Doping 64 N- =anG Carssierg "“ (ny= 1X10 end
 Vo Find
 Concevd rechioy o holes (py - 9
@@ -18762,6 +18672,8 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSE_DS_7057/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2025
 - Text: mixed (15 pages), mean OCR confidence 56.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -18996,10 +18908,8 @@ Three dimensions with an example -[1Mark]
 ********** 7 **********
 --- page 8 ---
 Cc. Given clete en =a
-bivatts of 2a Copper wwoive sivip 1) =O
 
 » = oroo1™.
-Thé chess + Otis coppey @twp ti «re
 
 Maquetic iets Streung Ue (8) -=2ES Mb/w~
 Cuvrent (1) = 800A
@@ -19030,13 +18940,11 @@ z =
 
 Q5
 
-a Gause's Jar fer etacirocie Dc & ARN PES,
 i wtegyed — & Uf ferential fees =
 
 State out? _ Beare.
 “NGheaeece law lates hed nee
 pu throug & Llased suxfaee © OS 3
-al kot Limes, Put mmagnitake
 ts €4 &
 
 Cucloser:
@@ -19223,6 +19131,8 @@ Acceptance angle- θa ≈3 4.07∘
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Civil_7005/Physics/ANS_Physics(702BS0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2025
 - Text: mixed (15 pages), mean OCR confidence 56.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -19457,10 +19367,8 @@ Three dimensions with an example -[1Mark]
 ********** 7 **********
 --- page 8 ---
 Cc. Given clete en =a
-bivatts of 2a Copper wwoive sivip 1) =O
 
 » = oroo1™.
-Thé chess + Otis coppey @twp ti «re
 
 Maquetic iets Streung Ue (8) -=2ES Mb/w~
 Cuvrent (1) = 800A
@@ -19491,13 +19399,11 @@ z =
 
 Q5
 
-a Gause's Jar fer etacirocie Dc & ARN PES,
 i wtegyed — & Uf ferential fees =
 
 State out? _ Beare.
 “NGheaeece law lates hed nee
 pu throug & Llased suxfaee © OS 3
-al kot Limes, Put mmagnitake
 ts €4 &
 
 Cucloser:

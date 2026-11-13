@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Civil_7005/Foundation Engineering/ANS_Foundation Engineering(702CI0C019)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26/11/ 2025
 - Text: mixed (10 pages), mean OCR confidence 47.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM’S NMIMS
@@ -39,7 +41,6 @@ At Nhe © Kring
 At 8 Paz 8x2 t = 12eKSIm>
 
 At 'cl pz 2x2 %o-271= 10-84
-At tre baye t+ weal Pa 12 +10-84= 22-84 knj,%
 
 (Mays)
 Pays Lg 9x2 = 12K
@@ -346,7 +347,6 @@ oa 2 I-71 1 1 Mar) i= Ze rs mark}
 i 7: — + 1=5°
 : ti al HeigAt Hoe 2X Ze 2% ra
 At sicittinn, is a sight Pa 4-87 8x8 — 9:23
-()) Before undiien acvars= = 20-64 KNIm
 \
 
 Neg ative Tryst, Fh =
@@ -369,16 +369,12 @@ i _ = on
 Page 9 of 10
 --- page 10 ---
 (ID After -ermattion of Crack , the negative Pressure
-{5 elivrimated se the onal’ dutibetion iy od
 
 aoe. nate & height 6 24m
-showy) b yy only   pedrtive biangte cag
 
 —}9 1 Mayk
-he. g x BO'64 x6-29 = a ad
 
 L it will actat a hesght A 6-24 —
-Qhove bate tg! ov the wal _ — O1Mork
 
 Page 10 of 10
 ````

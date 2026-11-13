@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Application Security Testing(702IT0E017)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CyberSecurity 7010 | QP_Application Security Testing(702IT0E017)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Application Security Testing(702IT0E017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Application Security Testing(702IT0E017)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / CSE CYBER SECURITY | B Tech, Applications Security Testing, Sem-VI, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CyberSecurity 7010 | QP_Application Security Testing(702IT0E017)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Application Security Testing(702IT0E017)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / CYBER SECURITY | Application Security Testing, Sem-VI, Year 2024-25, Final Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B TECH / CSE CYBER SECURITY | Application Security Testing, Sem-VI, A Y 2023-24, Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B TECH / CSE CYBER SECURITY | Application Security Testing, Sem-VI, Year 2022-23, Final Exam.pdf |

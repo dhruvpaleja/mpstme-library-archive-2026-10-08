@@ -1,115 +1,10 @@
 # System Security: question papers in full
 
-26 unique papers · 2011-12 to 2022-23 · Computer Engineering
+26 unique papers · 2011-12 to 2024-25 · Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2022 · Final-Exam · Sem 7 · paper 7940f08a934e
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/System Security/Systme Security Batch 2022 Final0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29 November 2022
-- Text: ocr (2 pages), mean OCR confidence 89.9
-
-````text
->
-
-SVKM’s NMIMS A
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ~~~.
-
-Academic Year: 2022-23
-
-Programme: B. Tech Integrated (Computer) Year: IV Semester: VII
-Subject: System Security
-
-Marks: 100
-Date: 29 November 2022 - Time: 10.00 am - 1.00 pm
-
-Durations: 3 (Hrs)
-No. of Pages: _2
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions. In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Q.1 |[a)_| Explain the types of threats in security. Write an example of each case. (5)
-
-b) | Short note on: Simple secret key distribution with confidentiality and | (5)
-authentication.
-
-c) |.Case study based question: (5)
-
-In a typical office, biometric authentication might be used to control access to
-employees and registered visitors only. We know the system will have some
-false negatives, some employees falsely denied access, so we need a human
-override, someone who can examine the employee and allow access in spite of
-the failed authentication. Thus, we need a human guard at the door to handle
-problems, as well as the authentication device; without biometrics we would
-have had just the guard. Consequently, we have the same number of personnel
-with or without biometrics, plus we have the added cost to acquire and maintain
-the biometrics system.
-
-Explain the security advantage in this situation that justifies the extra expense.
-
-d) | Compare AES with RSA algorithm (5)
-
-Q.2 | a) | Explain the symmetric key distribution scenario using symmetric encryption | (10)
-with the help of following points:
-e Key distribution scenario
-e Hierarchical key control
-
-b) | Why do we use firewalls? Explain different types of firewalls. (10)
-
-Q.3 | a) | Explain the steps of RSA algorithm. Consider P = 7 and Q = 17. Encrypt a | (10)
-
-message “10” using RSA algorithm. Show the decryption steps for the same
-message.
-
-Mo
---- page 2 ---
-b) | Explain three approaches of the fixed passwords. (10)
-
-Q4 | a) | Differentiate between following terms: Error, Bug, Fault, failure in software. | (10)
-
-Explain 4 cases of buffer overflow in computing system with the help of
-appropriate diagrams.
-
-r. b)__| Explain OSI security architecture in detail. (0)
-
-Q.5 | a) | What is security policy? Explain following security policies with the help of | (10) |
-example.
-
-e Military Security Policy
-e Commercial Security Policy :
-b) | Explain Denial of Service attack. (10)
-
-Q.6 | a) | Explain any 4 network security attacks. (10)
-
-b) | Explain BIBA model of authorization. Explain each case of BIBA model in | (10)
-detail with the help of diagram. :
-
-Q.7 Write short notes on the following: (20)
-a) _| Intrusion Detection System
-b) | DES Algorithm
-
-Vo
-````
-
-## 2022-23 · Re-Exam · Sem 7 · paper 1ebb92d7b045
+## 2024-25 · Re-Exam · Sem 7 · paper 1ebb92d7b045
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -272,6 +167,220 @@ BL-2
 Write a short notes on Controls Against Program Threats
 
 10
+````
+
+## 2023-24 · Re-Exam · Sem 7 · paper a6b8b0a6f8eb
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/System Security/System Security Batch 2022-23 Re Exam_a6b8b0a6f8.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25 /11 / 2023
+- Text: ocr (2 pages), mean OCR confidence 89.9
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: BTech Integrated Year: IV Semester: VII
+
+Stream/s ; Computer
+
+Subject: System Security Time: 3 hrs (10.00 am tol.00 pm)
+Date:25 /11 / 2023 No. of Pages:02
+
+Marks: 100
+
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: [20]
+CO-1; a. Draw and explain model for network security. [5]
+BL-2
+b. Define Principle of least common mechanism and Principle of | [5]
+CO-1 ; P
+BL-1 Psychological acceptability. .
+‘a oo c. Differentiate between substitution cipher and transposition cipher. [5]
+CO- 2; d. Explain in brief access control matrix with example. [5]
+BL-2
+Q2 a Explain symmetric key distribution using asymmetric encryption with
+Pp y [10]
+CO-4; diagram.
+BL-2
+CO- 3; b . .
+Explain any four network security attacks and ways to prevent these attacks. | [10]
+BL-2 Pp y y Pp
+Q3 a [10]
+ong Explain in brief following Kinds of Malicious Code-
+
+ae Rabbit, Trapdoor, Worm, Bacterium, Logic bomb
+--- page 2 ---
+CO- 3; b Differentiate between Stateful Inspection and Application Proxy firewall. [10]
+BL-4 ae
+
+a A computer system uses biometrics to authenticate users. Discuss ways in [10]
+which an attacker might try to spoof the system under each of the following
+conditions: ;
+
+a. The biometric hardware is directly connected to the system, and the
+authentication software is loaded onto the system.
+Q4 . . :
+b. The biometric hardware is on a stand-alone computer connected to
+CO-4; the system, and the authentication software on the stand-alone
+BL-3 computer sends the raw biometric data read to the system, which
+
+decides whether or not the user can be authenticated.
+
+c. The biometric hardware is on a stand-alone computer connected to
+the system, and the authentication software on that stand-alone
+computer sends “yes” or “no” to the system, depending on whether
+or not the user can be authenticated.
+
+CO- 3; b . : [10]
+BL-2 Explain non malicious program errors (any two).
+
+Qs a [10]
+CO-1; Identify and explain Security policies. ;
+BL-2
+
+a b Explain security services and mechanisms in computer security. [Pe]
+
+Q6 a [10]
+
+CO-2; Explain DES algorithm. Also mention disadvantages of DES algorithm.
+BL-2
+
+CO- 3; b . [10]
+BL-1 Identify use of IDS. Explain types of IDS (in brief) and advantages of IBS.
+
+Q7 a [10]
+
+CO-4; Write a short note on Controls Against Program Threats.
+BL-2
+
+a ; 6 With the help of diagram write a short note on public key Certificates. Fe
+````
+
+## 2022-23 · Final-Exam · Sem 7 · paper 7940f08a934e
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/System Security/Systme Security Batch 2022 Final0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29 November 2022
+- Text: ocr (2 pages), mean OCR confidence 89.9
+
+````text
+>
+
+SVKM’s NMIMS A
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ~~~.
+
+Academic Year: 2022-23
+
+Programme: B. Tech Integrated (Computer) Year: IV Semester: VII
+Subject: System Security
+
+Marks: 100
+Date: 29 November 2022 - Time: 10.00 am - 1.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: _2
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions. In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Q.1 |[a)_| Explain the types of threats in security. Write an example of each case. (5)
+
+b) | Short note on: Simple secret key distribution with confidentiality and | (5)
+authentication.
+
+c) |.Case study based question: (5)
+
+In a typical office, biometric authentication might be used to control access to
+employees and registered visitors only. We know the system will have some
+false negatives, some employees falsely denied access, so we need a human
+override, someone who can examine the employee and allow access in spite of
+the failed authentication. Thus, we need a human guard at the door to handle
+problems, as well as the authentication device; without biometrics we would
+have had just the guard. Consequently, we have the same number of personnel
+with or without biometrics, plus we have the added cost to acquire and maintain
+the biometrics system.
+
+Explain the security advantage in this situation that justifies the extra expense.
+
+d) | Compare AES with RSA algorithm (5)
+
+Q.2 | a) | Explain the symmetric key distribution scenario using symmetric encryption | (10)
+with the help of following points:
+e Key distribution scenario
+e Hierarchical key control
+
+b) | Why do we use firewalls? Explain different types of firewalls. (10)
+
+Q.3 | a) | Explain the steps of RSA algorithm. Consider P = 7 and Q = 17. Encrypt a | (10)
+
+message “10” using RSA algorithm. Show the decryption steps for the same
+message.
+
+Mo
+--- page 2 ---
+b) | Explain three approaches of the fixed passwords. (10)
+
+Q4 | a) | Differentiate between following terms: Error, Bug, Fault, failure in software. | (10)
+
+Explain 4 cases of buffer overflow in computing system with the help of
+appropriate diagrams.
+
+r. b)__| Explain OSI security architecture in detail. (0)
+
+Q.5 | a) | What is security policy? Explain following security policies with the help of | (10) |
+example.
+
+e Military Security Policy
+e Commercial Security Policy :
+b) | Explain Denial of Service attack. (10)
+
+Q.6 | a) | Explain any 4 network security attacks. (10)
+
+b) | Explain BIBA model of authorization. Explain each case of BIBA model in | (10)
+detail with the help of diagram. :
+
+Q.7 Write short notes on the following: (20)
+a) _| Intrusion Detection System
+b) | DES Algorithm
+
+Vo
 ````
 
 ## 2022-23 · Re-Exam · Sem 7 · paper 0ba869e93eb9
@@ -466,115 +575,6 @@ SO-1,7
 BL-2 e Secret key distribution with confidentiality and authentication
 
 b) Short note on: Confidentiality and Integrity Policies.
-````
-
-## 2022-23 · Re-Exam · Sem 7 · paper a6b8b0a6f8eb
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/System Security/System Security Batch 2022-23 Re Exam_a6b8b0a6f8.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 25 /11 / 2023
-- Text: ocr (2 pages), mean OCR confidence 89.9
-
-````text
-SVKM’S NMIMS
-
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: BTech Integrated Year: IV Semester: VII
-
-Stream/s ; Computer
-
-Subject: System Security Time: 3 hrs (10.00 am tol.00 pm)
-Date:25 /11 / 2023 No. of Pages:02
-
-Marks: 100
-
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-Answer briefly: [20]
-CO-1; a. Draw and explain model for network security. [5]
-BL-2
-b. Define Principle of least common mechanism and Principle of | [5]
-CO-1 ; P
-BL-1 Psychological acceptability. .
-‘a oo c. Differentiate between substitution cipher and transposition cipher. [5]
-CO- 2; d. Explain in brief access control matrix with example. [5]
-BL-2
-Q2 a Explain symmetric key distribution using asymmetric encryption with
-Pp y [10]
-CO-4; diagram.
-BL-2
-CO- 3; b . .
-Explain any four network security attacks and ways to prevent these attacks. | [10]
-BL-2 Pp y y Pp
-Q3 a [10]
-ong Explain in brief following Kinds of Malicious Code-
-
-ae Rabbit, Trapdoor, Worm, Bacterium, Logic bomb
---- page 2 ---
-CO- 3; b Differentiate between Stateful Inspection and Application Proxy firewall. [10]
-BL-4 ae
-
-a A computer system uses biometrics to authenticate users. Discuss ways in [10]
-which an attacker might try to spoof the system under each of the following
-conditions: ;
-
-a. The biometric hardware is directly connected to the system, and the
-authentication software is loaded onto the system.
-Q4 . . :
-b. The biometric hardware is on a stand-alone computer connected to
-CO-4; the system, and the authentication software on the stand-alone
-BL-3 computer sends the raw biometric data read to the system, which
-
-decides whether or not the user can be authenticated.
-
-c. The biometric hardware is on a stand-alone computer connected to
-the system, and the authentication software on that stand-alone
-computer sends “yes” or “no” to the system, depending on whether
-or not the user can be authenticated.
-
-CO- 3; b . : [10]
-BL-2 Explain non malicious program errors (any two).
-
-Qs a [10]
-CO-1; Identify and explain Security policies. ;
-BL-2
-
-a b Explain security services and mechanisms in computer security. [Pe]
-
-Q6 a [10]
-
-CO-2; Explain DES algorithm. Also mention disadvantages of DES algorithm.
-BL-2
-
-CO- 3; b . [10]
-BL-1 Identify use of IDS. Explain types of IDS (in brief) and advantages of IBS.
-
-Q7 a [10]
-
-CO-4; Write a short note on Controls Against Program Threats.
-BL-2
-
-a ; 6 With the help of diagram write a short note on public key Certificates. Fe
 ````
 
 ## 2021-22 · Final-Exam · Sem 10 · paper c145393fbc0e
@@ -1665,6 +1665,89 @@ P y
 Page 2 of 2
 ````
 
+## 2015-16 · Re-Exam · Sem 7 · paper 6f2769d41928
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/SYSTEM SECURITY/SYSTEM SECURITY B TECH (COMPUTER), BATCH 2014-15) RE EXAM.pdf`
+- Printed on paper: exam date: 26/11/2015
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Computer) Year: IV Semester: VII
+Batch: 2014-2015
+Academic Year: 2015-2016
+
+Subject: System Security
+
+Marks:
+Date: 26/11/2015 Time:
+
+Duration:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+
+On the cover of the answer book, which is provided for their use?
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5S questions to be attempted.
+
+4. Answer to each question to be started on a fresh paper.
+
+1. (a) Explain CIA Triangle of Security with example. (8)
+(b) Explain various Security Attacks and also give the difference between Passive (6)
+attack and Active attack.
+
+2: (a) Explain key management for secure key exchange. (6)
+(b) How address protection is done by different methods like fence, relocation, (6)
+base & bound registers and tagged architecture.
+
+3. (a) Whatdo you mean by RSA Algorithm? In public key system using RSA, you 6)
+intercept the cipher text C=11 sent to user whose public key is e=7, n=33.
+What is plaintext message M.
+
+(b) Explain different types of Firewall Configuration. What is the difference CS)
+among the three configurations?
+
+4. (a) _ Explain Security requirements in Database. Write short note on Multilevel (6)
+Database Security. .
+(b) Differentiate between Kerberos version 4 and version 5. What are the (6)
+shortcomings of Kerberos Version4? How they are overcome in Kerberos
+versionS.
+5. (a) Differentiate between Copyrights, Patents and Trade Secret. (6)
+
+(b) Explain the role of risk analysis and management in system security and
+
+as
+CG)
+business continuity.
+
+Page 1/2
+--- page 2 ---
+(a) Explain DES Algorithm in detail.
+
+; (&)
+(b) Explain non malicious program errors with example. (6)
+Write short notes on (any 4) C12)
+
+(i) ‘Virus, Worm, Trojan Horse
+(ii) = Digital Signature
+
+(iii) SSL
+(iv) Biometrics Authentication
+(v) MAC
+
+Page 2/2
+````
+
 ## 2014-15 · Final-Exam · Sem 7 · paper 21a7334c4de1
 
 - Departments: Computer Engineering
@@ -1826,167 +1909,7 @@ E) Digital Certificate
 ~~
 ````
 
-## 2014-15 · Re-Exam · Sem 7 · paper 6f2769d41928
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/SYSTEM SECURITY/SYSTEM SECURITY B TECH (COMPUTER), BATCH 2014-15) RE EXAM.pdf`
-- Printed on paper: exam date: 26/11/2015
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Computer) Year: IV Semester: VII
-Batch: 2014-2015
-Academic Year: 2015-2016
-
-Subject: System Security
-
-Marks:
-Date: 26/11/2015 Time:
-
-Duration:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-
-On the cover of the answer book, which is provided for their use?
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5S questions to be attempted.
-
-4. Answer to each question to be started on a fresh paper.
-
-1. (a) Explain CIA Triangle of Security with example. (8)
-(b) Explain various Security Attacks and also give the difference between Passive (6)
-attack and Active attack.
-
-2: (a) Explain key management for secure key exchange. (6)
-(b) How address protection is done by different methods like fence, relocation, (6)
-base & bound registers and tagged architecture.
-
-3. (a) Whatdo you mean by RSA Algorithm? In public key system using RSA, you 6)
-intercept the cipher text C=11 sent to user whose public key is e=7, n=33.
-What is plaintext message M.
-
-(b) Explain different types of Firewall Configuration. What is the difference CS)
-among the three configurations?
-
-4. (a) _ Explain Security requirements in Database. Write short note on Multilevel (6)
-Database Security. .
-(b) Differentiate between Kerberos version 4 and version 5. What are the (6)
-shortcomings of Kerberos Version4? How they are overcome in Kerberos
-versionS.
-5. (a) Differentiate between Copyrights, Patents and Trade Secret. (6)
-
-(b) Explain the role of risk analysis and management in system security and
-
-as
-CG)
-business continuity.
-
-Page 1/2
---- page 2 ---
-(a) Explain DES Algorithm in detail.
-
-; (&)
-(b) Explain non malicious program errors with example. (6)
-Write short notes on (any 4) C12)
-
-(i) ‘Virus, Worm, Trojan Horse
-(ii) = Digital Signature
-
-(iii) SSL
-(iv) Biometrics Authentication
-(v) MAC
-
-Page 2/2
-````
-
-## 2013-14 · Final-Exam · Sem 7 · paper f6376a422e19
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/SYSTEM SECURITY/SYSTEM SECURITY B TECH (COMPUTER), 2013-14 FINAL EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/11/2013
-- Text: ocr (1 page), mean OCR confidence 90.9
-
-````text
-SVKM’s NMIMS —
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (COMP) Year: IV Semester;“VIk
-
-Academic Year: 2013-2014 PE
-
-Subject : System Security
-
-Marks:100 —
-
-Time : 10.00 am to 1.00 pm
-
-Durations:3 (hrs)
-Final-Examination
-
-Date :28/11/2013
-
-Instructions:-candidates should read carefully the instructions printed on the
-question paper and on the cover of the answer book, which is provided for their use.
-
-NB: - 1) Question No.ONE is compulsory
-2) Out of remaining attempt FOUR questions,
-3) All Questions carry equal marks.
-4) Figures in brackets on right hand side indicate full marks.
-Q.1 Attempt any four of the following [4x 5]
-a) Whatare the principles of security? Explain with example
-
-b) Distinguish among vulnerability, threat and control?
-
-c) What are the characteristics of an encryption algorithm that makes it impractical to
-break?
-d) Explain active and passive attacks?
-
-e) Compare secret key and public key encryption in terms of no. of keys, protection of
-keys, best uses, key distribution and speed.
-
-Q.2 a) What is key management system? Explain various methods to achieve the same [10]
-b) What are the characteristics of a good encryption algorithm? , [10]
-Q.3 a) What are multilevel databases? Discuss the design of multi level secure [08]
-databases.
-b) List and explain the various malicious codes and non malicious codes. [12]
--~Q.4 a) Compare signature based and heuristic based IDS. What are the limitations of [10]
-IDS.
-b) How address protection is done by different methods like fence, relocation, base [10]
-and bound register and tagged architecture.
-Q.5 a) What are the password guessing techniques? Explain [08]
-
-b) Explain RSA algorithm in detail. For two prime numbers 7 and 23, calculate public [12]
-
-and private key pair. Show encryption process using RSA algorithm for the text
-“hello ” using a=0,b=1...z=25
-
-Q.6 a) What is a firewall? Describe the types of firewalls with their limitations. [10]
-b) Differentiate between copyrights, patents and trade secret. [10]
-Q.7 Write short notes on (Any 4): [20]
-
-(i) Digital signature
-
-(ii) Business continuity planning.
-(iil) Kerberos
-
-(iv) Challenge response system
-(v) Salami attack
-
-YI
-````
-
-## 2013-14 · Re-Exam · Sem 7 · paper 0bab2b9b13fe
+## 2014-15 · Re-Exam · Sem 7 · paper 0bab2b9b13fe
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
@@ -2074,6 +1997,83 @@ D) SYN-flood
 E) Biometrics
 
 Alo.
+````
+
+## 2013-14 · Final-Exam · Sem 7 · paper f6376a422e19
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/SYSTEM SECURITY/SYSTEM SECURITY B TECH (COMPUTER), 2013-14 FINAL EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/11/2013
+- Text: ocr (1 page), mean OCR confidence 90.9
+
+````text
+SVKM’s NMIMS —
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (COMP) Year: IV Semester;“VIk
+
+Academic Year: 2013-2014 PE
+
+Subject : System Security
+
+Marks:100 —
+
+Time : 10.00 am to 1.00 pm
+
+Durations:3 (hrs)
+Final-Examination
+
+Date :28/11/2013
+
+Instructions:-candidates should read carefully the instructions printed on the
+question paper and on the cover of the answer book, which is provided for their use.
+
+NB: - 1) Question No.ONE is compulsory
+2) Out of remaining attempt FOUR questions,
+3) All Questions carry equal marks.
+4) Figures in brackets on right hand side indicate full marks.
+Q.1 Attempt any four of the following [4x 5]
+a) Whatare the principles of security? Explain with example
+
+b) Distinguish among vulnerability, threat and control?
+
+c) What are the characteristics of an encryption algorithm that makes it impractical to
+break?
+d) Explain active and passive attacks?
+
+e) Compare secret key and public key encryption in terms of no. of keys, protection of
+keys, best uses, key distribution and speed.
+
+Q.2 a) What is key management system? Explain various methods to achieve the same [10]
+b) What are the characteristics of a good encryption algorithm? , [10]
+Q.3 a) What are multilevel databases? Discuss the design of multi level secure [08]
+databases.
+b) List and explain the various malicious codes and non malicious codes. [12]
+-~Q.4 a) Compare signature based and heuristic based IDS. What are the limitations of [10]
+IDS.
+b) How address protection is done by different methods like fence, relocation, base [10]
+and bound register and tagged architecture.
+Q.5 a) What are the password guessing techniques? Explain [08]
+
+b) Explain RSA algorithm in detail. For two prime numbers 7 and 23, calculate public [12]
+
+and private key pair. Show encryption process using RSA algorithm for the text
+“hello ” using a=0,b=1...z=25
+
+Q.6 a) What is a firewall? Describe the types of firewalls with their limitations. [10]
+b) Differentiate between copyrights, patents and trade secret. [10]
+Q.7 Write short notes on (Any 4): [20]
+
+(i) Digital signature
+
+(ii) Business continuity planning.
+(iil) Kerberos
+
+(iv) Challenge response system
+(v) Salami attack
+
+YI
 ````
 
 ## 2013-14 · Re-Exam · Sem 7 · paper 3ea3a3a60471

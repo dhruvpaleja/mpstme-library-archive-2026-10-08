@@ -733,6 +733,7 @@ it
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/MATERIAL ENGINEERING/Materials Engineering, Sem-III, Batch 2022-23 23-24 & 2024-25 Re Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 85.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS .
@@ -847,9 +848,112 @@ i 200
 ie) 20 40 60 80 100
 (Pb) re Composition (wt% Sn} (Sn)
 
-3 2 2k oe 2 8 ok OK a Kok ok Ok
 --- page 4 ---
 
+````
+
+## 2023-24 · Final + Re-Exam · Sem 3 · paper 85309162d2d2
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/MATERIAL ENGINEERING/Materials Engineering , Final ,Re-exam 2022-23.pdf` (+3 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+v-
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE
+SCHOOL OF TECHNOLOGY MANAGEMENT .
+Academic Year: 2023-2024
+
+Program/s: B.Tech/B Tech INTG] M&A Veoh Year: /D Semester: II/VII
+Stream/s : Mechanical :
+
+Subject: Materials Engineering Time: 3 hrs (LOAMto |-od PM)
+Date:_23 /j\_/2023 No. of Pages: 2
+
+Marks: 100
+
+Final Examination/Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly. All questions carry equal marks. [20]
+
+CO-2; SO-1 ; BL-2 a. Describe the various phases that can be formed on decomposition of austenite
+during heat treatment processes based on the cooling rates.
+
+CO-4; SO-7; BL-2 b. | Explain the brittle fracture with the help of stress — strain diagram.
+
+CO-4 ; SO-1 ; BL-2 c. State any two purposes of adding zinc to copper as an alloying element. ,
+
+CO-3; SO-1; BL-3 d. | Explain the process of coring with the help of Copper — Nickel phase diagram.
+How can it be eliminated?
+
+Q2
+CO-3; SO-1; BL-3 a. Excessive machining of steel components results in stress build up in the [10]
+. component. Identify and describe a suitable process to release them.
+CO-3 ; SO-1 ; BL-2 b. | Differentiate between interstitial and substitutional solid solutions. [5]
+CO-1 ; SO-1 ; BL-5 & Describe a suitable NDT for internal defects in polymeric components. [5]
+Q3
+CO-2 ; SO-1 ; BL-2 a. Explain the property and microstructure change during cold working and [10]
+annealing of metals.
+CO-3 ; SO-1 ; BL-2 b. | Explain the effect of nickel and manganese on the properties of steels. [5]
+--- page 2 ---
+CO-4 ; SO-1 ; BL-2 c. Describe the different grades of stainless steels with applications. [5]
+
+Q4
+
+CO-2 ; SO-1 ; BL-2 a. Explain the creep failure of steels with a neat diagram. State the ways in [10]
+which these failures can be prevented.
+
+CO-2 ; SO-1 ; BL-3 b. | Explain the following heat treatment processes in terms of TTT diagrams [10]
+covering the microstructure, mechanical properties and applications
+a) Normalizing b) hardening
+
+Q5
+
+CO-2 ; SO-1; BL-3 a. With the help of a neat labelled Fe-FesC diagram Explain the solidification of | [10]
+steel at eutectoid composition and calculate the percentage of the phases
+- present at room temperature.
+
+CO-3 ; SO-1; BL-3 b. Differentiate between Grey cast iron and nodular cast iron. [5]
+
+CO-3 ; SO-1; BL-3 €. “Hardening of steel is always accompanied by tempering”. Is this statement [5]
+true? Justify the answer. .
+
+Q6
+
+CO-3; SO-2; BL-4 a. Draw a neat Cu-Ag eutectic binary phase diagram. Explain the eutectic [10]
+reaction and determine the percentage of phases that will form at a
+temperature of 600°C for a 40% Ag alloy.
+
+CO-3; SO-1; BL-3 b. | Define hardenability. How is it measured? What affects the hardenability? [10]
+
+Q7
+
+CO-3; SO-1; BL-4 a. Compare between Charpy and Izod impact tests. Connect the tests to the [10]
+mechanical properties of the materials.
+
+CO-3; SO-1; BL-3 b. | Explain the most predominant failure mechanism in components that are [10]
+subjected to dynamic loading. Explain the process of failure with the help of
+microstructure. *
 ````
 
 ## 2023-24 · Re-Exam · Sem 3 · paper a93c4aa8839a
@@ -1097,110 +1201,6 @@ CO-3 ; SO-4 ; BL-4 b. | Evaluate the following non-destructive testing methods i
 applications, type of defect and ease of application.
 a) Dye Penetrant Test
 b) Ultrasonic crack Detection test
-````
-
-## 2022-23 · Final + Re-Exam · Sem 3 · paper 85309162d2d2
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/MATERIAL ENGINEERING/Materials Engineering , Final ,Re-exam 2022-23.pdf` (+3 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-v-
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE
-SCHOOL OF TECHNOLOGY MANAGEMENT .
-Academic Year: 2023-2024
-
-Program/s: B.Tech/B Tech INTG] M&A Veoh Year: /D Semester: II/VII
-Stream/s : Mechanical :
-
-Subject: Materials Engineering Time: 3 hrs (LOAMto |-od PM)
-Date:_23 /j\_/2023 No. of Pages: 2
-
-Marks: 100
-
-Final Examination/Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly. All questions carry equal marks. [20]
-
-CO-2; SO-1 ; BL-2 a. Describe the various phases that can be formed on decomposition of austenite
-during heat treatment processes based on the cooling rates.
-
-CO-4; SO-7; BL-2 b. | Explain the brittle fracture with the help of stress — strain diagram.
-
-CO-4 ; SO-1 ; BL-2 c. State any two purposes of adding zinc to copper as an alloying element. ,
-
-CO-3; SO-1; BL-3 d. | Explain the process of coring with the help of Copper — Nickel phase diagram.
-How can it be eliminated?
-
-Q2
-CO-3; SO-1; BL-3 a. Excessive machining of steel components results in stress build up in the [10]
-. component. Identify and describe a suitable process to release them.
-CO-3 ; SO-1 ; BL-2 b. | Differentiate between interstitial and substitutional solid solutions. [5]
-CO-1 ; SO-1 ; BL-5 & Describe a suitable NDT for internal defects in polymeric components. [5]
-Q3
-CO-2 ; SO-1 ; BL-2 a. Explain the property and microstructure change during cold working and [10]
-annealing of metals.
-CO-3 ; SO-1 ; BL-2 b. | Explain the effect of nickel and manganese on the properties of steels. [5]
---- page 2 ---
-CO-4 ; SO-1 ; BL-2 c. Describe the different grades of stainless steels with applications. [5]
-
-Q4
-
-CO-2 ; SO-1 ; BL-2 a. Explain the creep failure of steels with a neat diagram. State the ways in [10]
-which these failures can be prevented.
-
-CO-2 ; SO-1 ; BL-3 b. | Explain the following heat treatment processes in terms of TTT diagrams [10]
-covering the microstructure, mechanical properties and applications
-a) Normalizing b) hardening
-
-Q5
-
-CO-2 ; SO-1; BL-3 a. With the help of a neat labelled Fe-FesC diagram Explain the solidification of | [10]
-steel at eutectoid composition and calculate the percentage of the phases
-- present at room temperature.
-
-CO-3 ; SO-1; BL-3 b. Differentiate between Grey cast iron and nodular cast iron. [5]
-
-CO-3 ; SO-1; BL-3 €. “Hardening of steel is always accompanied by tempering”. Is this statement [5]
-true? Justify the answer. .
-
-Q6
-
-CO-3; SO-2; BL-4 a. Draw a neat Cu-Ag eutectic binary phase diagram. Explain the eutectic [10]
-reaction and determine the percentage of phases that will form at a
-temperature of 600°C for a 40% Ag alloy.
-
-CO-3; SO-1; BL-3 b. | Define hardenability. How is it measured? What affects the hardenability? [10]
-
-Q7
-
-CO-3; SO-1; BL-4 a. Compare between Charpy and Izod impact tests. Connect the tests to the [10]
-mechanical properties of the materials.
-
-CO-3; SO-1; BL-3 b. | Explain the most predominant failure mechanism in components that are [10]
-subjected to dynamic loading. Explain the process of failure with the help of
-microstructure. *
 ````
 
 ## 2022-23 · Final-Exam · Sem 3 · paper 46f8a60191c6
@@ -1904,6 +1904,172 @@ of
 &
 ````
 
+## 2019-20 · Re-Exam · Sem 3 · paper a011c6e8cd32
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/MATERIALS ENGINEERING/Materials Engineering , Re-exam 2018-19.pdf`
+- Printed on paper: exam date: 14 November 2019
+- Text: ocr (2 pages), mean OCR confidence 93.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Mechanical) Year: II Semester: III
+
+Academic Year: 2019-20
+
+we mI GE
+: 70
+e: 2,09 spt 15.00
+Frations: 3 (irs)
+
+Subject: Materials Engineering
+
+\
+mi:
+
+i
+
+Date: 14 November 2019 ~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1) 14
+a) What is hot working and cold working Process 4
+b) Describe briefly about different types of steel . 5
+c) Explain the Characteristics of metal powders in powder metallurgy 5
+Q.2) 14
+a) Explain briefly about Stages of failure in moderately ductile materials 8
+b) Describe briefly Tran’s crystalline and intercrystalline fractures 6
+Q.3) 14
+a) What is fatigue failure and explain the various Stages of Fatigue Failure 7
+b) With a help of phase diagram, explain lever rule proof ff
+Q.4) 14
+a) Explain briefly about directional solidification and Progressive Solidification 6
+
+b) Explain briefly about the solidification of a metal 8
+--- page 2 ---
+Q.5)
+
+a)
+b)
+
+Q.6)
+a)
+b)
+
+Q.7):
+a)
+b)
+
+Explain Iron carbon diagram with a help of neat sketch
+Explain briefly about Coring and Dendritic segregation
+
+With the help of diagram, explain Eutectic Phase diagram
+Explain briefly about tempering and its application
+
+Explain Different nickel Alloys with composition and properties
+Describe about design consideration and steps involved for powder metallurgy
+techniques
+````
+
+## 2018-19 · Exam not stated · Sem 3 · paper ed78f06f29c2
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/MATERIALS ENGINEERING/Materials engineering 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (Mechanical) Year: II Semester : III
+Academic Year: 2018-2019 ,
+
+Subject: Materials Engineering - Marks: 70
+
+. ; Time: 2.00 pm to 5.00 pm
+
+Date : 23 2019
+ate : 23 January Durations: 3 (hrs)
+
+No. of Pages: 2-
+Re-examination (2017-18 /2018-19) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1) 14
+a) What is hot working and cold working and Explain the difference between them 8
+b) Describe different types of carbon steel depending on the percentage of carbon 6
+Q.2) 14
+a) Draw tensile test curve for ductile material and explain all the parameters 8
+b) What is dislocation and what are the different types of dislocation 6
+Q.3) 14
+a) What is fatigue failure and explain the various methods to increase fatigue life of 7
+materials
+b) With a help of creep curve, explain the various stages in creep 7
+Q.4) 14
+a) Explain Gibb’s Phase rule Pure 6
+b) Explain briefly about the solidification of a metal 8
+A
+
+fo
+--- page 2 ---
+Q5)
+a)
+
+b)
+
+Q.6)
+
+fe -feC
+Explain Diagram with the help of sketch and label composition,
+
+temperature and phases
+Explain briefly about tempering
+
+With the help of TTT diagram, explain the critical cooling rate of steel
+
+Explain the process of full annealing and process annealing
+
+Explain briefly about grey and white cast iron
+Describe powder metallurgy with merits and demerits
+
+14
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 4 · paper 34ee90629b47
 
 - Departments: Mechanical
@@ -2418,91 +2584,6 @@ C2/o)
 (7)
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper a011c6e8cd32
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/MATERIALS ENGINEERING/Materials Engineering , Re-exam 2018-19.pdf`
-- Printed on paper: exam date: 14 November 2019
-- Text: ocr (2 pages), mean OCR confidence 93.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Mechanical) Year: II Semester: III
-
-Academic Year: 2019-20
-
-we mI GE
-: 70
-e: 2,09 spt 15.00
-Frations: 3 (irs)
-
-Subject: Materials Engineering
-
-\
-mi:
-
-i
-
-Date: 14 November 2019 ~
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1) 14
-a) What is hot working and cold working Process 4
-b) Describe briefly about different types of steel . 5
-c) Explain the Characteristics of metal powders in powder metallurgy 5
-Q.2) 14
-a) Explain briefly about Stages of failure in moderately ductile materials 8
-b) Describe briefly Tran’s crystalline and intercrystalline fractures 6
-Q.3) 14
-a) What is fatigue failure and explain the various Stages of Fatigue Failure 7
-b) With a help of phase diagram, explain lever rule proof ff
-Q.4) 14
-a) Explain briefly about directional solidification and Progressive Solidification 6
-
-b) Explain briefly about the solidification of a metal 8
---- page 2 ---
-Q.5)
-
-a)
-b)
-
-Q.6)
-a)
-b)
-
-Q.7):
-a)
-b)
-
-Explain Iron carbon diagram with a help of neat sketch
-Explain briefly about Coring and Dendritic segregation
-
-With the help of diagram, explain Eutectic Phase diagram
-Explain briefly about tempering and its application
-
-Explain Different nickel Alloys with composition and properties
-Describe about design consideration and steps involved for powder metallurgy
-techniques
-````
-
 ## 2017-18 · Exam not stated · Sem 3 · paper 0b7d9e426557
 
 - Departments: Mechanical
@@ -2619,87 +2700,6 @@ State composition, properties and uses of
 (8)
 
 (6)
-````
-
-## 2017-18 · Exam not stated · Sem 3 · paper ed78f06f29c2
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/MATERIALS ENGINEERING/Materials engineering 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (Mechanical) Year: II Semester : III
-Academic Year: 2018-2019 ,
-
-Subject: Materials Engineering - Marks: 70
-
-. ; Time: 2.00 pm to 5.00 pm
-
-Date : 23 2019
-ate : 23 January Durations: 3 (hrs)
-
-No. of Pages: 2-
-Re-examination (2017-18 /2018-19) —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1) 14
-a) What is hot working and cold working and Explain the difference between them 8
-b) Describe different types of carbon steel depending on the percentage of carbon 6
-Q.2) 14
-a) Draw tensile test curve for ductile material and explain all the parameters 8
-b) What is dislocation and what are the different types of dislocation 6
-Q.3) 14
-a) What is fatigue failure and explain the various methods to increase fatigue life of 7
-materials
-b) With a help of creep curve, explain the various stages in creep 7
-Q.4) 14
-a) Explain Gibb’s Phase rule Pure 6
-b) Explain briefly about the solidification of a metal 8
-A
-
-fo
---- page 2 ---
-Q5)
-a)
-
-b)
-
-Q.6)
-
-fe -feC
-Explain Diagram with the help of sketch and label composition,
-
-temperature and phases
-Explain briefly about tempering
-
-With the help of TTT diagram, explain the critical cooling rate of steel
-
-Explain the process of full annealing and process annealing
-
-Explain briefly about grey and white cast iron
-Describe powder metallurgy with merits and demerits
-
-14
 ````
 
 ## 2017-18 · Final-Exam · Sem 4 · paper b566faeb16a8
@@ -2941,6 +2941,7 @@ Page 1 of 1
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/MATERIALS ENGINEERING/MATERIALS ENGINEERING BATCH 14-15 15-16 RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 15 May 2018
 - Text: ocr (2 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS %
@@ -3006,7 +3007,6 @@ Q-7 A Give compositions, properties and use of the following alloys: (6)
 
 B Differentiate between charpy impact test and Izod impact test. (6)
 
-2 ie 2 2 2 a 2 2 ok ok ok ok kK
 
 glo
 ````
@@ -3107,6 +3107,98 @@ Briefly explain the effect of alloying elements on properties of steel.
 (8)
 
 (6)
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 7c6379efc5d6
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/MATERIALS ENGINEERING/Materials Engineering Batch 2016-2017 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: exam date: 02 December 2017
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2017 - 2018
+
+Program: B. Tech Integrated (Mechanical) Year:IT_ «Semester:V." oP aay
+Batch: 2016-17 - Marks: Pe \
+Subject: Materials Engineering ~ Time: 02,00" pm —
+
+sew A
+
+Date :02 December 2017< Duration brs 4
+No. of Paar ag ae OD mene
+
+RE-EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. one is compulsory.
+
+2) Out of remaining questions, attempt any four questions
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Answer any two from a to c and any two from d to f (a-f)
+
+Q.1 (a) Explain Elastic and plastic deformation. (3)
+(b) Explain the Griffith’s theory of brittle fracture. (3)
+(c) Explain eutectic, peritectic and eutectoid reactions in iron-carbon diagram. (3)
+(d) Explain the Hume Rothery rules of solid solubility. (4)
+(e) What is meant by normalizing? Explain its purpose. (4)
+(£) What is dislocation? Compare edge and screw dislocation. (4)
+
+Q.2 (a) What is critical resolved shear stress? Find out expression for critical resolves shear
+stress in a single crystal. (6)
+(b) Define the term ‘hardness of metal’. With a neat sketch, explain the hardness
+measurement by Brinell method. (4)
+
+(c) Differentiate between slip and twinning. (4)
+
+1/2
+--- page 2 ---
+Q.3 (a) Define Creep. Draw Classical Creep Curve. Explain each stage in details. (8)
+(b) Define fatigue. Explain the various factors that affect the fatigue life of a
+component. (6)
+
+Q.4 (a) What is cooling curve? How does the time temperature cooling curve of an alloy of
+eutectic composition different from that of a pure metal? (4)
+(b) Draw a hypothetical phase diagram A-B with the help of following data:
+
+Melting point of A = 1100°C, Melting point of B = 1400°C. Eutectic reaction occurs
+at 800°C at 40 wt.% B composition.maximum solubility of B in A and A in B at
+eutectic temperature in 10% and 5% _ respectively which drops down to zero at
+0°C.Mark each line and area. How the structure of alloy will change if alloy
+containing 20% B composition is cooled from liquid state? Also find the relative
+amount of phases present at 950°C using lever rule. (10)
+
+Q.5 (a) What are the advantages of alloy steels over plain carbon steel? (4)
+(b) Draw a neat and labelled microstructure of White Cast Iron, Grey Cast Iron, Nodular
+Cast Iron and Distinguish between them in terms of microstructure and mechanical
+
+properties. (10)
+
+Q.6 (a) Draw the T.T.T diagram for eutectoid steel and describe its isothermal
+transformations. (8)
+(b) Discuss the different types of annealing process. (6)
+
+Q.7 Write notes on
+
+(a) Sintering and compacting (4)
+(b) Austempering (3)
+(c) Brass and bronze (4)
+(4) Tool steel (3)
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper 11043e7fa0da
@@ -3213,6 +3305,63 @@ Page 1 of 1
 
 (6)
 (8)
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper b7a0e496b422
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/MATERIALS ENGINEERING/MATERIALS ENGINEERING BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: exam date: 30 November 2017
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBATech (Mechanical)   Year: II   Semester: III
+I   Batch: 2016-17
+Academic Year: 2017-2018
+Subject: Materials Engineering
+Date: 30 November 2017
+Re-Examination
+I) Question No. 1. is compulsory.
+2) Out of remaining questions, attempt ANY FOUR questions.
+3) In all FIVE questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data If necessary.
+Q.l.   Answer Any Four of the following   (14)
+(a)   Differentiate between slip and twinning in plastic deformation.
+/
+(b)   What is powder metallurgy? List the applications of powder metallurgy.
+(c)   Explain in brief, the factors affecting fatigue life of components.
+(d)   Explain Hume Rothery's   rule of solid solubility.
+(e)   Briefly explain the effect of alloying elements on properties of steel.
+(1:)   Explain eddy current test in details.
+Q.2.   (a)   What is imperfections   in crystal structures? Explain its different types with   (8)   -
+neat sketches.
+(b)   Differentiate between hot working and cold working.   (6)
+--- page 2 ---
+Q.3.   (a)   Define hardness. Differentiate between Brinell hardness test and Vickers   (8)
+hardness test.
+(b)   What is nondestructive   testing? Explain ultrasonic test in details. Enlist its   (6)
+applications.
+QA.   (a)   What is solid solution? With suitable example, explain different types of solid   (8)
+solutions.
+(b)   Explain solidification of pure metals in details. What is critical size of nucleus?   (6)
+Q.5   (a)   Draw Iron- Iron carbide (Fe-Fe",,(~quilibrium   diagram. Label all temperatures,   (8)
+•__'"   iY   ~
+phases and transformations.   .
+(b)   What is heat treatment? Explain normalizing heat treatment in details.   (6)
+Q.6.   (a)   Compare gray and white cast iron in respect of their composition   properties,   (8)
+microstructure and applications.
+(b)   Explain following   alloys;   (6)
+1. Brasses   2. Bronze
+Q.7.   (a)   What is T-T-T diagram? Explain the procedure for plotting T-T-T diagram.   (8)
+Also explain critical cooling rate.
+(b)   Explain the Gibbs Phase rule and lever rule in equil1brium diagram.   (6)
+-
 ````
 
 ## 2016-17 · Final-Exam · Sem 4 · paper 9335b9b9314c
@@ -3619,98 +3768,6 @@ Q.7. (a) Write a note on Impact Testing. (7)
 Page 1of1
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 7c6379efc5d6
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/MATERIALS ENGINEERING/Materials Engineering Batch 2016-2017 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: exam date: 02 December 2017
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2017 - 2018
-
-Program: B. Tech Integrated (Mechanical) Year:IT_ «Semester:V." oP aay
-Batch: 2016-17 - Marks: Pe \
-Subject: Materials Engineering ~ Time: 02,00" pm —
-
-sew A
-
-Date :02 December 2017< Duration brs 4
-No. of Paar ag ae OD mene
-
-RE-EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. one is compulsory.
-
-2) Out of remaining questions, attempt any four questions
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Answer any two from a to c and any two from d to f (a-f)
-
-Q.1 (a) Explain Elastic and plastic deformation. (3)
-(b) Explain the Griffith’s theory of brittle fracture. (3)
-(c) Explain eutectic, peritectic and eutectoid reactions in iron-carbon diagram. (3)
-(d) Explain the Hume Rothery rules of solid solubility. (4)
-(e) What is meant by normalizing? Explain its purpose. (4)
-(£) What is dislocation? Compare edge and screw dislocation. (4)
-
-Q.2 (a) What is critical resolved shear stress? Find out expression for critical resolves shear
-stress in a single crystal. (6)
-(b) Define the term ‘hardness of metal’. With a neat sketch, explain the hardness
-measurement by Brinell method. (4)
-
-(c) Differentiate between slip and twinning. (4)
-
-1/2
---- page 2 ---
-Q.3 (a) Define Creep. Draw Classical Creep Curve. Explain each stage in details. (8)
-(b) Define fatigue. Explain the various factors that affect the fatigue life of a
-component. (6)
-
-Q.4 (a) What is cooling curve? How does the time temperature cooling curve of an alloy of
-eutectic composition different from that of a pure metal? (4)
-(b) Draw a hypothetical phase diagram A-B with the help of following data:
-
-Melting point of A = 1100°C, Melting point of B = 1400°C. Eutectic reaction occurs
-at 800°C at 40 wt.% B composition.maximum solubility of B in A and A in B at
-eutectic temperature in 10% and 5% _ respectively which drops down to zero at
-0°C.Mark each line and area. How the structure of alloy will change if alloy
-containing 20% B composition is cooled from liquid state? Also find the relative
-amount of phases present at 950°C using lever rule. (10)
-
-Q.5 (a) What are the advantages of alloy steels over plain carbon steel? (4)
-(b) Draw a neat and labelled microstructure of White Cast Iron, Grey Cast Iron, Nodular
-Cast Iron and Distinguish between them in terms of microstructure and mechanical
-
-properties. (10)
-
-Q.6 (a) Draw the T.T.T diagram for eutectoid steel and describe its isothermal
-transformations. (8)
-(b) Discuss the different types of annealing process. (6)
-
-Q.7 Write notes on
-
-(a) Sintering and compacting (4)
-(b) Austempering (3)
-(c) Brass and bronze (4)
-(4) Tool steel (3)
-````
-
 ## 2016-17 · Re-Exam · Sem 5 · paper fd3b867088f4
 
 - Departments: Mechanical
@@ -3809,63 +3866,6 @@ Q.7 (a) Binary Isomorphous Systems (3)
 (d) Tool steel and stainless steel (3)
 
 ah
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper b7a0e496b422
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/MATERIALS ENGINEERING/MATERIALS ENGINEERING BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: exam date: 30 November 2017
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBATech (Mechanical)   Year: II   Semester: III
-I   Batch: 2016-17
-Academic Year: 2017-2018
-Subject: Materials Engineering
-Date: 30 November 2017
-Re-Examination
-I) Question No. 1. is compulsory.
-2) Out of remaining questions, attempt ANY FOUR questions.
-3) In all FIVE questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data If necessary.
-Q.l.   Answer Any Four of the following   (14)
-(a)   Differentiate between slip and twinning in plastic deformation.
-/
-(b)   What is powder metallurgy? List the applications of powder metallurgy.
-(c)   Explain in brief, the factors affecting fatigue life of components.
-(d)   Explain Hume Rothery's   rule of solid solubility.
-(e)   Briefly explain the effect of alloying elements on properties of steel.
-(1:)   Explain eddy current test in details.
-Q.2.   (a)   What is imperfections   in crystal structures? Explain its different types with   (8)   -
-neat sketches.
-(b)   Differentiate between hot working and cold working.   (6)
---- page 2 ---
-Q.3.   (a)   Define hardness. Differentiate between Brinell hardness test and Vickers   (8)
-hardness test.
-(b)   What is nondestructive   testing? Explain ultrasonic test in details. Enlist its   (6)
-applications.
-QA.   (a)   What is solid solution? With suitable example, explain different types of solid   (8)
-solutions.
-(b)   Explain solidification of pure metals in details. What is critical size of nucleus?   (6)
-Q.5   (a)   Draw Iron- Iron carbide (Fe-Fe",,(~quilibrium   diagram. Label all temperatures,   (8)
-•__'"   iY   ~
-phases and transformations.   .
-(b)   What is heat treatment? Explain normalizing heat treatment in details.   (6)
-Q.6.   (a)   Compare gray and white cast iron in respect of their composition   properties,   (8)
-microstructure and applications.
-(b)   Explain following   alloys;   (6)
-1. Brasses   2. Bronze
-Q.7.   (a)   What is T-T-T diagram? Explain the procedure for plotting T-T-T diagram.   (8)
-Also explain critical cooling rate.
-(b)   Explain the Gibbs Phase rule and lever rule in equil1brium diagram.   (6)
--
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper 484fb4751d13
@@ -4231,6 +4231,105 @@ G3)
 3)
 3)
 (3)
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper db86bc95adf3
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/MATERIALS ENGINEERING/MATERIALS ENGINEERING B TECH (MECHANICAL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 16/05/2016
+- Text: ocr (2 pages), mean OCR confidence 84.7
+
+````text
+Q.l.
+
+Q.2.
+
+4
+
+Js
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Mechanical) Year: II Semester: IV
+
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Materials Engineering Marks: 60
+Time: 10.00 x h
+Date: 16/05/2016 Durations: 3 h’
+
+Re-Examination
+
+Instructions:
+1. Figures to the right indicate full marks for the question.
+2. Question ONE is compulsory.
+3. Attempt any FOUR out of remaining questions. (from question 2 to 7)
+4. Answer to the new question should be started on fresh page.
+5. Draw well label diagrams wherever necessary.
+
+Answer ANY FOUR of the following
+
+(a) | What is cast irons? Explain the grey cast iron
+
+(b) Enlist the difference between Brinell and Vickers Hardness Test’:
+(c) With neat sketch explain the cooling curve of a pure metal’:
+
+(d)- Explain Hume Rothery-rules for solid-solubility:
+
+(e) State the advantages of powder metallurgy.
+
+(f) | What are the main properties, composition and uses of copper & Aluminum?
+
+(a) | What is stainless steel? Give typical composition and uses of three stainless steel. {
+
+1. atate tte tmnarta
+S iit
+
+(vo) Draw a typical eutectoid phase diagram and expiain its important features:
+
+(a) Draw neat Iron- Iron carbide equilibrium diagram indicating all temperature, phases
+and composition? Wnyee.
+(b) Write note on (any EouF)
+A) White Cast Iron. B) Grey Cast Iron.
+C) Nodular Cast Iron. D) Malleable Cast Iron.
+E) High Carbon Steel
+
+Yo.
+
+6
+--- page 2 ---
+Q.4. (a) | What is heat treatment? Explain TTT curve with a neat sketch. &
+
+(b) Write noteon t aw Yn 2c)
+A) Hardening ;
+in - B).Annealing
+“* C)Normalizing
+D) Tempering
+
+* Q.5 (a) | Whatare the different Non-destructive testing methods? Explain any two methods in 6
+ie detail’. ;
+"(b)°” Define creep and explain in detail the analysis of classic creep curve. 6
+
+Q.6. (a) | What is powder metallurgy? Discuss the advantage and disadvantage of P/M 6
+technique over the other method of fabrication.
+(b) What is meant by powder characterization? Mention some of the important
+
+characteristics. of powder. How do they influence the compacting and sintering €
+operation?
+Q.7. Write a note on ANY FOUR of the following \2
+(a) Slip and Twining Dislocation. 3
+(b) | Sintering and Blending 3B
+(c) Cartridge brass and Muntz metal. Ca
+(d) | Secondary operations of Powder Metallurgy. 5
+(e) Classification of Tool Steel (3S
+NY
+
+xR
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 0ba1fa0d49da
@@ -4617,105 +4716,6 @@ Give composition, properties and uses of the following:
 Differentiate between slip and twinning.
 
 Differentiate between hot working and cold working
-````
-
-## 2014-15 · Re-Exam · Sem 4 · paper db86bc95adf3
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/MATERIALS ENGINEERING/MATERIALS ENGINEERING B TECH (MECHANICAL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 16/05/2016
-- Text: ocr (2 pages), mean OCR confidence 84.7
-
-````text
-Q.l.
-
-Q.2.
-
-4
-
-Js
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Mechanical) Year: II Semester: IV
-
-Academic Year: 2015-16
-
-Batch: 2014-15
-
-Subject: Materials Engineering Marks: 60
-Time: 10.00 x h
-Date: 16/05/2016 Durations: 3 h’
-
-Re-Examination
-
-Instructions:
-1. Figures to the right indicate full marks for the question.
-2. Question ONE is compulsory.
-3. Attempt any FOUR out of remaining questions. (from question 2 to 7)
-4. Answer to the new question should be started on fresh page.
-5. Draw well label diagrams wherever necessary.
-
-Answer ANY FOUR of the following
-
-(a) | What is cast irons? Explain the grey cast iron
-
-(b) Enlist the difference between Brinell and Vickers Hardness Test’:
-(c) With neat sketch explain the cooling curve of a pure metal’:
-
-(d)- Explain Hume Rothery-rules for solid-solubility:
-
-(e) State the advantages of powder metallurgy.
-
-(f) | What are the main properties, composition and uses of copper & Aluminum?
-
-(a) | What is stainless steel? Give typical composition and uses of three stainless steel. {
-
-1. atate tte tmnarta
-S iit
-
-(vo) Draw a typical eutectoid phase diagram and expiain its important features:
-
-(a) Draw neat Iron- Iron carbide equilibrium diagram indicating all temperature, phases
-and composition? Wnyee.
-(b) Write note on (any EouF)
-A) White Cast Iron. B) Grey Cast Iron.
-C) Nodular Cast Iron. D) Malleable Cast Iron.
-E) High Carbon Steel
-
-Yo.
-
-6
---- page 2 ---
-Q.4. (a) | What is heat treatment? Explain TTT curve with a neat sketch. &
-
-(b) Write noteon t aw Yn 2c)
-A) Hardening ;
-in - B).Annealing
-“* C)Normalizing
-D) Tempering
-
-* Q.5 (a) | Whatare the different Non-destructive testing methods? Explain any two methods in 6
-ie detail’. ;
-"(b)°” Define creep and explain in detail the analysis of classic creep curve. 6
-
-Q.6. (a) | What is powder metallurgy? Discuss the advantage and disadvantage of P/M 6
-technique over the other method of fabrication.
-(b) What is meant by powder characterization? Mention some of the important
-
-characteristics. of powder. How do they influence the compacting and sintering €
-operation?
-Q.7. Write a note on ANY FOUR of the following \2
-(a) Slip and Twining Dislocation. 3
-(b) | Sintering and Blending 3B
-(c) Cartridge brass and Muntz metal. Ca
-(d) | Secondary operations of Powder Metallurgy. 5
-(e) Classification of Tool Steel (3S
-NY
-
-xR
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 4084527dff57

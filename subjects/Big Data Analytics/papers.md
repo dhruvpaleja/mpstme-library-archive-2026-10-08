@@ -1049,6 +1049,7 @@ he
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/BIG DATA ANALYTICS/Big Data Analytics, Sem VIII, Final Exam 2024-25 & Re Exam 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 8/5/2025
 - Text: ocr (4 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1067,7 +1068,6 @@ Final Examination 2024-25/Re-Exam 2023-24
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use. :
 
-1) Question No.1 is compulsory. ” PONT ITT te pare nena
 
 2) Out of remaining questions, attempt any__4 __ questions.
 
@@ -1406,6 +1406,7 @@ BL-3 a
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/Big Data Analytics/Big Data Ananlytics Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2024
 - Text: ocr (2 pages), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1511,7 +1512,6 @@ a7 z : .
 c0-1;50- ; ‘ = ry [10]
 3;BL-3 2 f = a o is
 ea
-° T T T T T T T
 Mon Tues Wed Thurs Fri Sat Sun
 CO-2; SO- b
 3-BL-2 Describe cosine similarity measure with appropriate example. Discuss how [10]

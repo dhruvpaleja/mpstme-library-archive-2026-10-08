@@ -4,198 +4,6 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2025-26 · Final-Exam · Sem 3 · Dataset · paper 41900232d562
-
-- Departments: AI and Data Science, AI and Machine Learning, Artificial Intelligence
-- Programmes: BTech AI 7012, BTech AIDS 7056, BTech AIML 7053, MBATech AI 7051
-- Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIDS_7056/Random Processes and Estimation Techniques/data_set_Random Processes and Estimation Techniques(702AI0C024)_2025-2026.pdf` (+7 identical copies)
-- Text: ocr (4 pages), mean OCR confidence 85.6
-
-````text
-STANDARD NORMAL TABLE (Z)
-
-Entries in the table give the area under the curve
-between the mean and z standard deviations above
-the mean. For example, for z = 1.25 the area under
-the curve between the mean (0) and z is 0.3944.
-
-MMM 0.00! 0.01! 002! 0.03| 004| 0.05| 0.06 0.07| 0.08 0.09)
-0.0 0.0000 06.0040 0.0080 0.0120 0.0160 0.0190 0.0239 0.0279 0.0319 0.0359
-0.1} 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-0.2) 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
-0.3 O.4179 O1217 01255 6.1293 0.13931 0.1368 0.1406 0.1443 0.1480 0.1517
-0.4) 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
-0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-0.7, 0.2580 0.2611 02642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-0.8 0.2881 0.2910 0.2939 0.2969 0.2995 0.3023 03051 03078 0.3106 0.3133
-0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3965 0.3989
-1.0 | 0.3413 0.3438 0.3461 0.3485 0.3508 0.3513 0.3554 0.3577 0.3529 0.3621
-1.1) 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-1.2 0.3849 0.3869 0.3888 0.3907 0.3925 03944 0.3962 0.3980 03997 0.4015
-1.3 0.4032 0.4049 04066 0.4082 0.4099 04115 04131 04147 04162 0.4177
-1.4 0.4192 0.4207 04222 0.4236 0.4251 04265 0.4279 0.4292 0.4306 0.4319
-1 5 0.4332 0.4345 0.4357 0.4370 0.4382 04394 0.4406 04418 0.4429 0.4441
-1.6 | 0.4452 0.4463 0.4474 0.4484 0.4495 04505 0.4515 0.4525 0.45395 0.4545
-1.7 | 0.4554 0.4564 0.4573 0.4582 0.4591 04599 0.4608 0.4616 0.4625 0.4633
-1.8 | 0.4641 0.4649 0.4656 0.4664 0.4671 04678 0.4686 0.4693 0.4699 0.4706
-1.9 04713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 04756 0.4761 0.4767
-2.0 0.4772 0.4778 0.4783 0.4788 0.4793 04798 04803 04808 0.4812 0.4817
-2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 04846 0.4850 0.4854 0.4857
-2.2| 0.4861 0.4864 0.4868 0.4871 0.4875 04878 0.4881 0.4884 0.4887 0.4890
-2.3 0.4893 04896 0.4898 0.4901 04904 04906 04909 04911 0.4913 0.4916
-2.4) 0.4918 0.4920 0.4922 0.4925 0.4927 04929 04931 04932 0.4934 0.4936
-2.5 0.4938 0.4940 0.4941 0.4943 0.4945 04946 0.4948 04949 0.4951 0.4952
-2.6 0.4953 0.4955 0.4956 0.4957 0.4959 04960 04961 0.4962 0.4963 0.4964
-2.7| 0.4965 0.4966 04967 0.4968 0.4969 04970 04971 04972 0.4973 0.4974
-2.8 0.4974 04975 0.4976 04977 04977 04978 0.4979 04979 0.4980 0.4981
-2.9 0.4981 04982 04982 0.4983 04984 04984 04985 04985 0.4986 0.4986
-3.0 | 0.4987 04987 0.4987 04988 0.4988 04989 0.4989 04989 0.4990 0.4990
-3.1) 04990 0.4991 0.4991 04991 0.4992 04992 04992 04992 0.4993 0.4993
-3.2 0.4993 0.4993 04994 0.4994 0.4994 04994 04994 04995 0.4995 0.4995
-3.3) 04995 04995 0.4995 04996 04996 04996 04996 04996 04996 0.4997
-3.4| 0.4997 0.4997 0.4997 0.4997 0.4997 O4997 0.4997 04997 0.4997 0.4998
---- page 2 ---
-Critical values of t for one-tailed tests
-
-Significance level (a)
-
-Pn oo 2 a5 q 05 025 o 005 ~—-.001
-1 1.376 1.963 3.078 6.314 12.706 31.821 63.657 318.309
-2 1.061 1.386 1.886 2.920 4.303 6.965 9.925 22.327
-3 0.978 1.250 1638 2.353 3.182 4541 5.841 10.215
-4 0.941 1,190 1533 2.132 2776 3.747 4.604 7173
-5 0.920 1.156 1.476 2.015 2571 3.365 4.032 5.893
-6 0.906 1134 1440 1.943 2.447 3.143 3.707 5.208
-7 0.896 ins 1415 1.895 2.365 2.998 3.499 4785
-8 0.889 1.108 1397 1.860 2.306 2.896 3.355 4501
-9 0.883 1,100 1,383 1833 2.262 2.821 3.250 4.297
-10 0.879 1.093 1.372 1812 2.228 2.764 3.169 4144
-nn 0.876 1.088 1.363 1.796 2.201 2718 3.106 4.025
-12 0.873 1.083 1.356 1.782 2179 2.681 3.055 3.930
-m3 0.870 1.0798 1.350 1771 2.160 2.650 3.012 3.852
-G 0.868 1.076 1.345 1,761 2445 2.624 2.977 3.787
-5 0.866 1.074 1.341 1.753 2.131 2.602 2.947 3.733
-6 0.865 1071 1.337 1,746 2120 2.583 2.921 3.686
-V7 0.863 1.069 1,333 1.740 20 2.567 2.898 3.646
-8 0.862 1.067 1330 1734 2.101 2.552 2878 3.610
-” 0.861 1,066 1.328 1,729 2.093 2.539 2.861 3.579
-20 0.860 1.064 1.325 1.725 2.086 2.528 2.845 3.552
-21 0.859 1.063 1323 1,721 2.080 2.518 2831 3.527
-22 0.858 1.061 1.321 wy 2.074 2.508 2819 3.505
-23 0.858 1.060 1319 1714 2.069 2.500 2.807 3.485
-24 0,857 1,059 1318 wn 2,064 2.492 2.797 3.467
-25 0.856 1.058 1316 1.708 2.060 2.485 2.787 3.450
-26 0.856 1.058 1.315 1.706 2.056 2.479 2.779 3.435
-27 0.855 1.057 1314 1.703 2.052 2.473 277 3.421
-28 0.855 1.056 1.313 1,701 2.048 2.467 2.763 3.408
-29° 0.854 1.055 13 1.699 2.045 2.462 2.756 3.396
-30 0.854 1.055 1310 1.697 2,042 2.457 2.750 3.385
-40 0.851 1.050 1.303 1.684 2.021 2.423 2.704 3.307
-50 0.848 1047 1299 1.676 2.009 2.403 2.678 3.261
-60 0.848 1.045 1.296 1.671 2.000 2.390 2.660 3.232
-70 0.847 1044 1.294 1.667 1.994 2.381 2.648 3.2n
-
-80 0.846 1.043 1.292 1,664 1.990 2.374 2.639 3.195,
-100 0.845 1.042 1,290 1.660 1,984 2.364 2.626 3174
-1000 0.842 1037 1.282 1.646 1.962 2.330 2.581 3.098
-
-Infinite 0.842 1.036 1.282 1645 1.960 2,326 2.576 3.090
---- page 3 ---
-Critical values of t for two-tailed tests
-
-Significance level (a)
-
-Degrees of
-
-f Jom (df) m 1S a 05 025 01 .005 001
-1 3.078 4.165 6.314 12.708 25.452 63.657 127.321 636.619
-2 1.886 2.282 2.920 4,303 6,205 9.925 14,089 31.599
-3 1.638 1.924 2.353 3.182 4177 5.841 7.453 12.924
-4 1533 1778 2132 2.776 3.495 4,604 5.598 8.610
-5 1.476 1.699 2.015 2.571 3.163 4.032 4.773 6.869
-6 1.440 1.650 1.943 2.447 2.969 3.707 4317 5.959
-7 1415 1.617 1.895 2.365 2841 3.499 4.029 5.408
-8 1.397 1.592 1.860 2.306 2.752 3.355 3.833 5.041
-9 1.383 1574 1833 2.262 2.685 3.250 3.690 4.781
-
-10 1.372 1,559 1,812 2.228 2634 3.169 3.581 4,587
-" 1363 1548 1796 2.201 2.593 3106 3.497 4,437
-12 1.356 1.538 1.782 2179 2.560 3.055 3.428 4.318
-13 1.350 1.530 1771 2.160 2.533 3.012 3.372 4.221
-G 1.345 1.623 1.761 2145 2.510 2.977 3.326 4140
-15 1341 1.517 1753 2131 2.490 2.947 3.286 4,073
-% 1.337 1.512 1.746 2120 2.473 2,921 3.252 4.015
-7 1.333 1.508 1.740 2110 2.458 2.898 3.222 3.965
-18 1.330 1.504 1.734 2.101 2.445 2.878 3.197 3.922
-9 1.328 1.500 1729 2.093 2.433 2.861 3.174 3.883
-20 1326 1.497 1.728 2.086 2.423 2.845 3153 3.850
-21 1.323 1.494 W721 2.080 2.414 2.831 3.135 3.819
-22 1.321 1,492 1717 2.074 2.405 2.819 3119 3.792
-23 1319 1.489 1.714 2.069 2.398 2.807 3.104 3.768
-24 1.318 1.487 170 2.064 2.391 2.797 3.091 3.745
-25 1.316 1.485 1.708 2.060 2.385 2.787 3.078 3.725
-26 1.315 1.483 1.706 2.056 2.379 2.779 3.087 3.707
-27 1.314 1.482 1.703 2.052 2.373 27m 3.057 3.690
-28 1313 1.480 1,701 2.048 2.368 2.763 3.047 3.674
-29 130 1.479 1.699 2.045 2.364 2.756 3.038 3.659
-30 1310 1477 1.697 2.042 2.360 2.750 3.030 3.646
-40 1.303 1.468 1.684 2.021 2.329 2.704 2.971 3.551
-50 1.299 1.462 1.676 2.009 2311 2.678 2.937 3.496
-60 1.296 1.458 1.671 2.000 2.299 2.660 2.915 3.460
-70 1.294 1.456 1.667 1.994 2.291 2.648 2.899 3.435
-80 1.292 1.453 1664 1.990 2.284 2.639 2.887 3.416
-100 1.290 1.451 1.660 1.984 2.276 2.626 2.871 3.390
-1000 1.282 1.441 1.646 1.962 2,245 2.581 2.813 3.300
-
-Infinite 1.282 1.440 1.645 1.960 2.241 2.576 2.807 3.291
---- page 4 ---
-Chi Square table
-
-Significance level (a)
-Degrees of
-freedom
-(d| 99 975 95 9 ey .05 .025 01
-1 _— 0.001 0.004 0.016 2.706 3.841 5.024 6.635
-
-2 0.020 0.051 0.103 0.211 4.605 5.991 7.378 9.210
-3 0.115 0.216 0.352 0.584 6.251 7.815 9.348 11.345
-4 0.297 0.484 0.711 1.064 7.779 9488 11.143 13.277
-5 0.554 0.831 1.145 1.610 9.236 11070 12833 15.086
-6 0.872 1.237 1.635 2.204 10645 12592 14449 16812
-7 1.239 1.690 2.167 2.833 12.017 14067 16.013 18.475
-8 1.646 2.180 2.733 3.490 13.362 15507 17.535 20.090
-9 2.088 2.700 3.325 4168 14684 16919 19.023 21.666
-10 2.558 3.247 3.940 4865 15987 18.307 20483 23.209
-11 3.053 3.816 4.575 5.578 17.275 19.675 21920 24.725
-12 3.571 4.404 5.226 6.304 18.549 21026 23.337 26.217
-13 4.107 5.009 5.892 7.042 19.812 22.362 24.736 27.688
-14 4.660 5.629 6.571 7.790 21064 23.685 26.119 29.141
-15 5.229 6.262 7.261 8.547 22.307 24996 27.488 30.578
-16 5.812 6.908 7.962 9.312 23.542 26.296 28845 32.000
-i7 6.408 7.564 8672 10.085 24769 27.587 30.191 33.409
-18 7.015 8.231 9390 10865 25.989 28869 31526 34.805
-19 7.633 8907 10117 11651 27.204 30.144 32852 36.191
-20 8.260 9591 10851 12443 28412 31410 34170 37.566
-21 8.897 10.283 11591 13.240 29.615 32.671 35.479 38.932
-22 9.542 10982 12338 14041 30813 33.924 36.781 40.289
-23; 10.196 11689 13.091 14848 32.007 35.172 38.076 41.638
-24; 10856 12401 13.848 15.659 33.196 36415 39.364 42.980
-25) 11524 13.120 14611 16473 34382 37.652 40646 44.314
-26; 12.198 13.844 15.379 17.292 35.563 38885 41923 45.642
-27| 12.879 14573 16151 18.114 36.741 40113 43.195 46.963
-28| 13.565 15308 16928 18939 37916 41337 44461 48.278
-29| 14.256 16.047 17.708 19.768 39.087 42557 45.722 49.588
-30; 14953 16.791 18493 20599 40.256 43.773 46.979 50.892
-40} 22.164 24433 26.509 29.051 51.805 55.758 59.342 63.691
-50| 29.707 32.357 34.764 37.689 63.167 67.505 71420 76.154
-60, 37.485 40482 43.188 46.459 74397 79.082 83.298 88.379
-70| 45.442 48.758 51.739 55.329 85.527 90.531 95.023 100.425
-80; 53.540 57.153 60.391 64.278 96.578 101.879 106.629 112.329
-100, 61.754 65.647 69.126 73.291 107.565 113.145 118.136 124.116
-1000| 70.065 74222 77.929 82358 118498 124342 129561 135.807
-````
-
 ## 2025-26 · Final-Exam · Sem 3 · paper dc87e753041f
 
 - Departments: AI and Machine Learning
@@ -813,6 +621,362 @@ a9 7.633 8.907 10.117 11651 27.204 3 32.852 36.191
 1000} 70.065 74.222 77.929 82.358 118.498 43 135.807
 ````
 
+## 2025-26 · Final-Exam · Sem 3 · Dataset · paper 41900232d562
+
+- Departments: AI and Data Science, AI and Machine Learning, Artificial Intelligence
+- Programmes: BTech AI 7012, BTech AIDS 7056, BTech AIML 7053, MBATech AI 7051
+- Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIDS_7056/Random Processes and Estimation Techniques/data_set_Random Processes and Estimation Techniques(702AI0C024)_2025-2026.pdf` (+7 identical copies)
+- Text: ocr (4 pages), mean OCR confidence 85.6
+
+````text
+STANDARD NORMAL TABLE (Z)
+
+Entries in the table give the area under the curve
+between the mean and z standard deviations above
+the mean. For example, for z = 1.25 the area under
+the curve between the mean (0) and z is 0.3944.
+
+MMM 0.00! 0.01! 002! 0.03| 004| 0.05| 0.06 0.07| 0.08 0.09)
+0.0 0.0000 06.0040 0.0080 0.0120 0.0160 0.0190 0.0239 0.0279 0.0319 0.0359
+0.1} 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+0.2) 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+0.3 O.4179 O1217 01255 6.1293 0.13931 0.1368 0.1406 0.1443 0.1480 0.1517
+0.4) 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+0.7, 0.2580 0.2611 02642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+0.8 0.2881 0.2910 0.2939 0.2969 0.2995 0.3023 03051 03078 0.3106 0.3133
+0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3965 0.3989
+1.0 | 0.3413 0.3438 0.3461 0.3485 0.3508 0.3513 0.3554 0.3577 0.3529 0.3621
+1.1) 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+1.2 0.3849 0.3869 0.3888 0.3907 0.3925 03944 0.3962 0.3980 03997 0.4015
+1.3 0.4032 0.4049 04066 0.4082 0.4099 04115 04131 04147 04162 0.4177
+1.4 0.4192 0.4207 04222 0.4236 0.4251 04265 0.4279 0.4292 0.4306 0.4319
+1 5 0.4332 0.4345 0.4357 0.4370 0.4382 04394 0.4406 04418 0.4429 0.4441
+1.6 | 0.4452 0.4463 0.4474 0.4484 0.4495 04505 0.4515 0.4525 0.45395 0.4545
+1.7 | 0.4554 0.4564 0.4573 0.4582 0.4591 04599 0.4608 0.4616 0.4625 0.4633
+1.8 | 0.4641 0.4649 0.4656 0.4664 0.4671 04678 0.4686 0.4693 0.4699 0.4706
+1.9 04713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 04756 0.4761 0.4767
+2.0 0.4772 0.4778 0.4783 0.4788 0.4793 04798 04803 04808 0.4812 0.4817
+2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 04846 0.4850 0.4854 0.4857
+2.2| 0.4861 0.4864 0.4868 0.4871 0.4875 04878 0.4881 0.4884 0.4887 0.4890
+2.3 0.4893 04896 0.4898 0.4901 04904 04906 04909 04911 0.4913 0.4916
+2.4) 0.4918 0.4920 0.4922 0.4925 0.4927 04929 04931 04932 0.4934 0.4936
+2.5 0.4938 0.4940 0.4941 0.4943 0.4945 04946 0.4948 04949 0.4951 0.4952
+2.6 0.4953 0.4955 0.4956 0.4957 0.4959 04960 04961 0.4962 0.4963 0.4964
+2.7| 0.4965 0.4966 04967 0.4968 0.4969 04970 04971 04972 0.4973 0.4974
+2.8 0.4974 04975 0.4976 04977 04977 04978 0.4979 04979 0.4980 0.4981
+2.9 0.4981 04982 04982 0.4983 04984 04984 04985 04985 0.4986 0.4986
+3.0 | 0.4987 04987 0.4987 04988 0.4988 04989 0.4989 04989 0.4990 0.4990
+3.1) 04990 0.4991 0.4991 04991 0.4992 04992 04992 04992 0.4993 0.4993
+3.2 0.4993 0.4993 04994 0.4994 0.4994 04994 04994 04995 0.4995 0.4995
+3.3) 04995 04995 0.4995 04996 04996 04996 04996 04996 04996 0.4997
+3.4| 0.4997 0.4997 0.4997 0.4997 0.4997 O4997 0.4997 04997 0.4997 0.4998
+--- page 2 ---
+Critical values of t for one-tailed tests
+
+Significance level (a)
+
+Pn oo 2 a5 q 05 025 o 005 ~—-.001
+1 1.376 1.963 3.078 6.314 12.706 31.821 63.657 318.309
+2 1.061 1.386 1.886 2.920 4.303 6.965 9.925 22.327
+3 0.978 1.250 1638 2.353 3.182 4541 5.841 10.215
+4 0.941 1,190 1533 2.132 2776 3.747 4.604 7173
+5 0.920 1.156 1.476 2.015 2571 3.365 4.032 5.893
+6 0.906 1134 1440 1.943 2.447 3.143 3.707 5.208
+7 0.896 ins 1415 1.895 2.365 2.998 3.499 4785
+8 0.889 1.108 1397 1.860 2.306 2.896 3.355 4501
+9 0.883 1,100 1,383 1833 2.262 2.821 3.250 4.297
+10 0.879 1.093 1.372 1812 2.228 2.764 3.169 4144
+nn 0.876 1.088 1.363 1.796 2.201 2718 3.106 4.025
+12 0.873 1.083 1.356 1.782 2179 2.681 3.055 3.930
+m3 0.870 1.0798 1.350 1771 2.160 2.650 3.012 3.852
+G 0.868 1.076 1.345 1,761 2445 2.624 2.977 3.787
+5 0.866 1.074 1.341 1.753 2.131 2.602 2.947 3.733
+6 0.865 1071 1.337 1,746 2120 2.583 2.921 3.686
+V7 0.863 1.069 1,333 1.740 20 2.567 2.898 3.646
+8 0.862 1.067 1330 1734 2.101 2.552 2878 3.610
+” 0.861 1,066 1.328 1,729 2.093 2.539 2.861 3.579
+20 0.860 1.064 1.325 1.725 2.086 2.528 2.845 3.552
+21 0.859 1.063 1323 1,721 2.080 2.518 2831 3.527
+22 0.858 1.061 1.321 wy 2.074 2.508 2819 3.505
+23 0.858 1.060 1319 1714 2.069 2.500 2.807 3.485
+24 0,857 1,059 1318 wn 2,064 2.492 2.797 3.467
+25 0.856 1.058 1316 1.708 2.060 2.485 2.787 3.450
+26 0.856 1.058 1.315 1.706 2.056 2.479 2.779 3.435
+27 0.855 1.057 1314 1.703 2.052 2.473 277 3.421
+28 0.855 1.056 1.313 1,701 2.048 2.467 2.763 3.408
+29° 0.854 1.055 13 1.699 2.045 2.462 2.756 3.396
+30 0.854 1.055 1310 1.697 2,042 2.457 2.750 3.385
+40 0.851 1.050 1.303 1.684 2.021 2.423 2.704 3.307
+50 0.848 1047 1299 1.676 2.009 2.403 2.678 3.261
+60 0.848 1.045 1.296 1.671 2.000 2.390 2.660 3.232
+70 0.847 1044 1.294 1.667 1.994 2.381 2.648 3.2n
+
+80 0.846 1.043 1.292 1,664 1.990 2.374 2.639 3.195,
+100 0.845 1.042 1,290 1.660 1,984 2.364 2.626 3174
+1000 0.842 1037 1.282 1.646 1.962 2.330 2.581 3.098
+
+Infinite 0.842 1.036 1.282 1645 1.960 2,326 2.576 3.090
+--- page 3 ---
+Critical values of t for two-tailed tests
+
+Significance level (a)
+
+Degrees of
+
+f Jom (df) m 1S a 05 025 01 .005 001
+1 3.078 4.165 6.314 12.708 25.452 63.657 127.321 636.619
+2 1.886 2.282 2.920 4,303 6,205 9.925 14,089 31.599
+3 1.638 1.924 2.353 3.182 4177 5.841 7.453 12.924
+4 1533 1778 2132 2.776 3.495 4,604 5.598 8.610
+5 1.476 1.699 2.015 2.571 3.163 4.032 4.773 6.869
+6 1.440 1.650 1.943 2.447 2.969 3.707 4317 5.959
+7 1415 1.617 1.895 2.365 2841 3.499 4.029 5.408
+8 1.397 1.592 1.860 2.306 2.752 3.355 3.833 5.041
+9 1.383 1574 1833 2.262 2.685 3.250 3.690 4.781
+
+10 1.372 1,559 1,812 2.228 2634 3.169 3.581 4,587
+" 1363 1548 1796 2.201 2.593 3106 3.497 4,437
+12 1.356 1.538 1.782 2179 2.560 3.055 3.428 4.318
+13 1.350 1.530 1771 2.160 2.533 3.012 3.372 4.221
+G 1.345 1.623 1.761 2145 2.510 2.977 3.326 4140
+15 1341 1.517 1753 2131 2.490 2.947 3.286 4,073
+% 1.337 1.512 1.746 2120 2.473 2,921 3.252 4.015
+7 1.333 1.508 1.740 2110 2.458 2.898 3.222 3.965
+18 1.330 1.504 1.734 2.101 2.445 2.878 3.197 3.922
+9 1.328 1.500 1729 2.093 2.433 2.861 3.174 3.883
+20 1326 1.497 1.728 2.086 2.423 2.845 3153 3.850
+21 1.323 1.494 W721 2.080 2.414 2.831 3.135 3.819
+22 1.321 1,492 1717 2.074 2.405 2.819 3119 3.792
+23 1319 1.489 1.714 2.069 2.398 2.807 3.104 3.768
+24 1.318 1.487 170 2.064 2.391 2.797 3.091 3.745
+25 1.316 1.485 1.708 2.060 2.385 2.787 3.078 3.725
+26 1.315 1.483 1.706 2.056 2.379 2.779 3.087 3.707
+27 1.314 1.482 1.703 2.052 2.373 27m 3.057 3.690
+28 1313 1.480 1,701 2.048 2.368 2.763 3.047 3.674
+29 130 1.479 1.699 2.045 2.364 2.756 3.038 3.659
+30 1310 1477 1.697 2.042 2.360 2.750 3.030 3.646
+40 1.303 1.468 1.684 2.021 2.329 2.704 2.971 3.551
+50 1.299 1.462 1.676 2.009 2311 2.678 2.937 3.496
+60 1.296 1.458 1.671 2.000 2.299 2.660 2.915 3.460
+70 1.294 1.456 1.667 1.994 2.291 2.648 2.899 3.435
+80 1.292 1.453 1664 1.990 2.284 2.639 2.887 3.416
+100 1.290 1.451 1.660 1.984 2.276 2.626 2.871 3.390
+1000 1.282 1.441 1.646 1.962 2,245 2.581 2.813 3.300
+
+Infinite 1.282 1.440 1.645 1.960 2.241 2.576 2.807 3.291
+--- page 4 ---
+Chi Square table
+
+Significance level (a)
+Degrees of
+freedom
+(d| 99 975 95 9 ey .05 .025 01
+1 _— 0.001 0.004 0.016 2.706 3.841 5.024 6.635
+
+2 0.020 0.051 0.103 0.211 4.605 5.991 7.378 9.210
+3 0.115 0.216 0.352 0.584 6.251 7.815 9.348 11.345
+4 0.297 0.484 0.711 1.064 7.779 9488 11.143 13.277
+5 0.554 0.831 1.145 1.610 9.236 11070 12833 15.086
+6 0.872 1.237 1.635 2.204 10645 12592 14449 16812
+7 1.239 1.690 2.167 2.833 12.017 14067 16.013 18.475
+8 1.646 2.180 2.733 3.490 13.362 15507 17.535 20.090
+9 2.088 2.700 3.325 4168 14684 16919 19.023 21.666
+10 2.558 3.247 3.940 4865 15987 18.307 20483 23.209
+11 3.053 3.816 4.575 5.578 17.275 19.675 21920 24.725
+12 3.571 4.404 5.226 6.304 18.549 21026 23.337 26.217
+13 4.107 5.009 5.892 7.042 19.812 22.362 24.736 27.688
+14 4.660 5.629 6.571 7.790 21064 23.685 26.119 29.141
+15 5.229 6.262 7.261 8.547 22.307 24996 27.488 30.578
+16 5.812 6.908 7.962 9.312 23.542 26.296 28845 32.000
+i7 6.408 7.564 8672 10.085 24769 27.587 30.191 33.409
+18 7.015 8.231 9390 10865 25.989 28869 31526 34.805
+19 7.633 8907 10117 11651 27.204 30.144 32852 36.191
+20 8.260 9591 10851 12443 28412 31410 34170 37.566
+21 8.897 10.283 11591 13.240 29.615 32.671 35.479 38.932
+22 9.542 10982 12338 14041 30813 33.924 36.781 40.289
+23; 10.196 11689 13.091 14848 32.007 35.172 38.076 41.638
+24; 10856 12401 13.848 15.659 33.196 36415 39.364 42.980
+25) 11524 13.120 14611 16473 34382 37.652 40646 44.314
+26; 12.198 13.844 15.379 17.292 35.563 38885 41923 45.642
+27| 12.879 14573 16151 18.114 36.741 40113 43.195 46.963
+28| 13.565 15308 16928 18939 37916 41337 44461 48.278
+29| 14.256 16.047 17.708 19.768 39.087 42557 45.722 49.588
+30; 14953 16.791 18493 20599 40.256 43.773 46.979 50.892
+40} 22.164 24433 26.509 29.051 51.805 55.758 59.342 63.691
+50| 29.707 32.357 34.764 37.689 63.167 67.505 71420 76.154
+60, 37.485 40482 43.188 46.459 74397 79.082 83.298 88.379
+70| 45.442 48.758 51.739 55.329 85.527 90.531 95.023 100.425
+80; 53.540 57.153 60.391 64.278 96.578 101.879 106.629 112.329
+100, 61.754 65.647 69.126 73.291 107.565 113.145 118.136 124.116
+1000| 70.065 74222 77.929 82358 118498 124342 129561 135.807
+````
+
+## 2025-26 · Re-Exam · Sem 3 · paper 8d6e4fc2200b
+
+- Departments: AI and Data Science, AI and Machine Learning, Artificial Intelligence
+- Programmes: BTech AI 7012, BTech AIDS 7056, BTech AIML 7053, MBATech AI 7051
+- Source: `02_Question_Papers/2023/Sem_03/Re-Exam/BTech_AIDS_7056/Random Processes and Estimation Techniques/QP_Random Processes and Estimation Techniques(702AI0C005)_2023-2024.pdf` (+5 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
+Year: II/Semester III(Exam Year: 2025-2026)
+Subject: Random Processes and Estimation Techniques
+Date: 03 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:
+CO- 1;   a.   [04]
+SO- 1;   Define strict sense stationary process and wide sense stationary process.
+BL-1
+b.   Explain the following types of systems and provide one example for each of   [04]
+CO- 2;   them.
+SO- 1;
+BL-2   (i)   Linear systems
+(ii)   Memoryless systems
+c.   Explain Bernoulli process. In a sequence of independent Bernoulli trials,   [04]
+CO-3;
+SO-1;   where the probability of success (p) is 0.4, explain what it means to say that
+BL-2   the sixth success occurs on the tenth trial.
+d   A researcher wants to estimate the average monthly salary of employees in a   [04]
+large IT based company. She collects data from a random sample of 50
+employees. While reviewing her methods, she wants to ensure that the
+CO-4;
+SO-1 ;   estimator she uses (e.g., sample mean) is reliable and accurate. Explain the
+BL-2   criteria that the researcher should consider when selecting a good estimator.
+For each criterion, give an example in the context of this salary survey.
+CO- 5;   e   [04]
+SO- 1;   Explain type I and type II errors with proper examples.
+BL-2
+********** 1 **********
+--- page 2 ---
+Q2   a   A random process is given by 𝑥(𝑡) = 𝐴𝑐𝑜𝑠(𝑤𝑜𝑡+ 𝜃) where 𝐴 and 𝑤𝑜 are   [10]
+CO-1;   constants and θ is a uniformly distributed random variable over the interval
+SO-1;
+BL-5   (0, 2π). Prove that the given process is wide sense stationary process.
+b   Let X(t) be a wide-sense stationary (WSS) random process with   [10]
+autocorrelation function
+− (| 10) 𝜏|
+CO-2;   𝑅𝑥𝑥(𝜏) = (0.66) . 𝑒
+SO-1;
+BL-3
+Solve for the Power Spectral Density (PSD) 𝑆𝑥𝑥(𝜔) of the process. Also
+identify the value of 𝑆𝑥𝑥(𝜔) at 𝜔= 0.1.
+a   For the given random process by   [10]
+Q3   𝑥(𝑡) = 𝑐𝑜𝑠(𝑡+ 𝜃)
+CO-1;
+SO-1;   where 𝜃 is a random variable uniformly distributed over the interval (0, 2π).
+BL-3
+Solve and check if the given random process is mean-ergodic or not?
+b   Explain the power spectral density function (or spectral density or power   [10]
+spectrum) of a stationary process.
+The power spectrum density function of a zero mean WSS process X(t) is
+CO-2;
+SO-1;   given by
+BL-2,3
+{1,   |𝑤} < 𝑤𝑜
+𝑆𝑋𝑋(𝑤) =
+0,   𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
+Solve for the autocorrelation function.
+a   The transition probability matrix of a Markov chain {Xn}n=1,2,3,….. with three   [10]
+states as follows.
+0.2 0.5 0.3
+𝑃= [ 0.5 0.4 0.1 ]
+0.3 0.4 0.3
+Q4
+The initial distribution is
+CO-3 ;
+SO- 1;
+BL-3   𝑃0 = [0.6 0.3 0.1]
+Solve for:
+(i)   P (X2 = 3)
+(ii)   P (X2 = 2)
+(iii)   P [X3 = 2, X2 = 3, X1 = 3, X0 = 2]
+********** 2 **********
+--- page 3 ---
+b   An auto company decided to introduce a new six-cylinder car whose mean   [10]
+petrol consumption is claimed to be lower than that of existing auto engine. It
+CO-5 ;   was found that the mean petrol consumption for 50 cars was 10 km/litre with
+SO- 1;
+BL-4   a standard deviation of 3.5 km/litre. Test at 5% level of significance, for the
+company’s claim that the for the new six-cylinder car, the petrol consumption
+is 9.5 km/litre on average.
+a   Explain how the good estimate of the population standard deviation 𝜎 is   [10]
+Q5   obtained for a random sample 𝑥1, 𝑥2, … , 𝑥𝑛from a normal distribution using
+CO-3;   maximum likelihood estimator (MLE). State any assumptions you use (e.g.
+SO-1;
+BL-2   whether the mean 𝜇is known or unknown) and give the final expression for
+the MLE of 𝜎.
+b   A market research company wants to know if the proportion of people   [10]
+shopping online has increased. In a survey conducted last year, 220 out of 500
+respondents said they preferred online shopping. In a survey conducted this
+CO- 5;
+SO- 1;   year, 290 out of 520 respondents said they preferred online shopping.
+BL-4
+Test for 1% level of significance, whether there has been an increase in the
+proportion of people who prefer online shopping.
+a   The Westview High School nurse is interested in knowing the average height   [10]
+of seniors at this school, but she does not have enough time to examine the
+records of all 430 seniors. She randomly selects 48 students and finds the
+sample mean to be 64.5 inches and the sample standard deviation to be 2.3
+Q6   inches.
+CO-4;
+SO-1;
+BL-3   Solve for:
+(i)   the estimated standard error of the mean.
+(ii)   Construct a 90% confidence interval for the mean height of all
+seniors at Westview High School.
+********** 3 **********
+--- page 4 ---
+(iii)   Apply your understanding of estimation principles to suggest
+what Nurse can do to reduce the chances of errors in her
+estimates.
+b   Let x be a random variable that represents weight loss (in pounds) after   [10]
+following a certain diet for 6 months. After extensive study, it is found that x
+has a normal distribution with σ = 5.7 pounds. A new modification of the diet
+has been implemented. A random sample of n=21 people use the modified diet
+CO-5 ;   for 6 months. For these people, the sample standard deviation of weight loss
+SO- 1;
+BL-4   is s= 4.1 pounds.
+Test at 1% level of significance, does this result indicate that the variance of
+weight loss for the modified diet is different (either way) from the variance of
+weight loss for the original diet. Assume weight loss for each diet follows a
+normal distribution
+a   Suppose that customers arrive at a bank according to a Poisson process with   [10]
+a mean rate of 3 per minute.
+Q7
+Solve for the probability that during a time interval of 2 min
+CO-3;
+SO-1;   (i)   exactly 4 customers arrive
+BL-3
+(ii)   more than 4 customers arrive
+(iii)   fewer than 4 customer in 2 minute interval.
+b   A consumer electronics lab compared the battery life of two brands of   [10]
+smartphones. For Brand X, a sample of 10 phones gave an average battery life
+of 18.5 hours with a standard deviation of 2.1 hours. For Brand Y, a sample
+CO-5 ;
+SO- 1;   of 8 phones gave an average battery life of 20.9 hours with a standard
+BL- 4
+deviation of 1.8 hours. At the 1% level of significance, test whether Brand X
+has lower average battery life than Brand Y.
+********** 4 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 3 · paper 375ba7c7e4d5
 
 - Departments: AI and Data Science
@@ -1376,6 +1540,7 @@ will be, in general, accompanied by an increase in B.P?
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/RANDOM PROCESSES AND ESTIMATION TECHNIEQUES/Random Processes and Estimation Techniques, Sem-III, Final Exam 2024-25 & Re Exam_f31402ea.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (5 pages), mean OCR confidence 82.3
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1526,8 +1691,6 @@ Area between 0 and z
 [F000 [oor [ 002 | 0.03 | 004 | 0.05 | 0.06 [0.07 | 0.08 | 0.09
 [0.0 [0.0000 [0.0040 [0.0080 [0.0120 {0.0160 [0.0199 [0.0239 [0.0279 {0.0319 [0.0359
 [ 01 [0.0398,[0.0438 [0.0478 [0.0517 [0.0557 [0.0596 [0.0636 _ [0.0675 [0.0714 [0.0753
-[ooss2 loos: [o0s10 [oorss [oove7 [o.026 [0.1064 [oto fora
-[oa [oeer [arse [010s owe [oso [01st
 
 6 [0.172 [0.1808 [o. Eee 7
 8 [0.2123 o2is7 [o.
@@ -1547,16 +1710,13 @@ L 1.6 [0.4452|[0.4463 [0.4474 |
 
 -ifo.4726- a | [o. ; 4750 ~ [oars “[o.a7e1 (0.4767
 [0.4783 [0.4788 [0. “[o.as03 [o-4808_ [0.4812 [0.4817
-fossa o.asas [o.4s42 [0.4846 Joasso [oassa[o4ss7
 8 _[os7i_{o4s75 [0.4878 [04881 [0.4884 [0.4887 [0.4890_
 [0.4893 [0.4901 [0.4904 [0.4906 [0.4909 [0.4911 [0.4913 [0.4916
 F 2.4 ‘oasis, [oasa0” ios 4922 [0.4925 [0.4927 |0.4929 fo.4931 [0.4932 [0.4934 [04936
-[25 [ossse [oso4o Tosser [o4oes [nas [oaoas [osas [onus [asst [oss
 
 6 [0953 [0.4955 [o.4ose _[o4ss7 [0.4959 [4960 _[o.sei _|[o4s62 [0.4963 [04964
 ~ [0.4968 [0.4969 [0.4970 [0.4971 [0.4972 [0.4973 [0.4974
 
-“ [foasrs _[oso77_[oao7 [oao7s _|os79 _|oas79 [asso [ose
 a [0.4981 cen Jo.age2 ~ fo.4gs3- {0.4984 [0.2984 [0.4985 ‘Jo.aoss [0.4986 [0.4986
 
 [ 3.0 ‘foase7 [0.987 Jo.aos7 [0.4088 [0.4988 [0.4989 [0.4989 [0.4989 [0.4990 [0.4990
@@ -1634,6 +1794,7 @@ ro) 1.645 1.960 2.326 2.576 3.090 3.291
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/Semester 3/Random Process and Estimation Techniques/Random Process & Estimation Techniques ,Re-exam (2022-23,2023-24,2024-25).pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (6 pages), mean OCR confidence 84.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1814,7 +1975,6 @@ eee
 1.1 |0.3643 |0.3665 0.3686 | 0.3708 |0.3729 0.3749 [0.3770 [0.3790 [0.3810'|0.3830
 RS f iH
 1.2 |0.3849 /0.3869 j0.3888 [0.3907 [0.3925 [0.3044 (0.3962 [0.3980 [0.3997 [0.4015
-L t i 1 Nes ea b
 [13 [0.4032 {0.4049 0.4066 [0.4082 |0.4099 | 0.4115 eos [0.4147 |0.4162:[0.4177
 [oaio2 | 0.4207 [0.4222 0.4236 0.4251 {0.4265 [0.4279 [0.4292 | 0.4306 (0.4319
 i |
@@ -2189,168 +2349,363 @@ df 25 20 lS 10 05 025 02 01 -005 .0025 001 -0005
 Confidence level C
 ````
 
-## 2023-24 · Re-Exam · Sem 3 · paper 8d6e4fc2200b
+## 2023-24 · Re-Exam · Sem 3 · paper 8a0cfb816520
 
-- Departments: AI and Data Science, AI and Machine Learning, Artificial Intelligence
-- Programmes: BTech AI 7012, BTech AIDS 7056, BTech AIML 7053, MBATech AI 7051
-- Source: `02_Question_Papers/2023/Sem_03/Re-Exam/BTech_AIDS_7056/Random Processes and Estimation Techniques/QP_Random Processes and Estimation Techniques(702AI0C005)_2023-2024.pdf` (+5 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
-- Text: text (4 pages)
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/RANDOM PROCESSES AND ESTIMATION TECHNIEQUES/Random Process & Estimation Tech , Re-exam 2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 84.9
 
 ````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
-Year: II/Semester III(Exam Year: 2025-2026)
-Subject: Random Processes and Estimation Techniques
-Date: 03 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 4 pages.
-2. Question No. 1 is compulsory
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1
-Answer briefly:
-CO- 1;   a.   [04]
-SO- 1;   Define strict sense stationary process and wide sense stationary process.
-BL-1
-b.   Explain the following types of systems and provide one example for each of   [04]
-CO- 2;   them.
-SO- 1;
-BL-2   (i)   Linear systems
-(ii)   Memoryless systems
-c.   Explain Bernoulli process. In a sequence of independent Bernoulli trials,   [04]
-CO-3;
-SO-1;   where the probability of success (p) is 0.4, explain what it means to say that
-BL-2   the sixth success occurs on the tenth trial.
-d   A researcher wants to estimate the average monthly salary of employees in a   [04]
-large IT based company. She collects data from a random sample of 50
-employees. While reviewing her methods, she wants to ensure that the
-CO-4;
-SO-1 ;   estimator she uses (e.g., sample mean) is reliable and accurate. Explain the
-BL-2   criteria that the researcher should consider when selecting a good estimator.
-For each criterion, give an example in the context of this salary survey.
-CO- 5;   e   [04]
-SO- 1;   Explain type I and type II errors with proper examples.
+SVKM’S NMIMS S a,
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+Program/s: B TECH/MBA TECH Year: I] Semester: III
+Stream/s: AI/AIDS/AIML
+
+¥
+
+Subject: Random Process and Estimation Techniques Time: 3 hrs (40-am to dpm )
+Date:_10 / 02/2024 No. of Pages:6
+Marks: 100 _
+
+Re-Examination (2023-24)/Re-Examination ( 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate.full marks.
+7) Assume Suitable data if necessary.
+
+8) Required tables are attached with question paper.
+
+Qi .
+Answer briefly: [20]
+c a. If {X(t)} is a wide-sense stationary process with auto correlation
+O-2 ;
+SO- |: R(ty, tz) = 6e~3!%~t2!, determine the variance ( or also called second order [5]
+> «
+BL-3 moment) of the random variable X(6) — X(2).
+CO-3'$ b. Poisson distribution is different from Poisson process. Explain with the help
+SO-1; | of formulas used in both th P|
+BL-3 of formulas used in both the cases.
+CO-4; c. : . . oo.
+SO- I: Describe unbiasedness and consistency criteria for good estimator in brief. {5]
 BL-2
-********** 1 **********
+d. The mean height of a random sample of 121 cats is 32 cm. If the standard
+deviation of the distribution of height of the population of cats is 2 cm, test the
+CO- 5; hypothesis that the mean height of the population cats is not 35 cm. Take 95%
+SO- 1; [5
+
+BL-3 confidence interval (with critical limits Zej2 = + 1.96).
 --- page 2 ---
-Q2   a   A random process is given by 𝑥(𝑡) = 𝐴𝑐𝑜𝑠(𝑤𝑜𝑡+ 𝜃) where 𝐴 and 𝑤𝑜 are   [10]
-CO-1;   constants and θ is a uniformly distributed random variable over the interval
+*
+(i) Define a strict-sense stationary process and give an example. Also,
+
+write condition for strict -sense stationary process.
+
+A .. : [5]
+Q2 (ii) Ifa random process is given by X(t) = Asinwt, where w is constant
+sor and A is a random variable with uniform distribution over (0, 2).
+BL-2,3 - Compute the autocorrelation of X(t). [5]
+B (i) Define Cross Spectral Density. [2]
+(ii) Derive the transfer function of the linear time invariant (LTT) system
+CO-2; : — Sxyw)
+matt given by H(w) ae
+BL-1,3 Where Syy(w) cross-power spectral density and Syx (w) is power
+spectral density of x(t). Consider x(t) and y(t) as input and output of
+the LT] system respectively. [8]
+Q3 A If random process (t) = cos(wot + 6) , where wo is constant and @ isa
+CO-1; random variable uniformly distributed in (0,272). Prove that {X(t)} is a wide | [10]
+-1; .
+ee sense stationary process.
+3 B (i) Define White Noise. Why it is called so. Also give its autocorrelation
+-2; 2
+function. 2]
 SO-1;
-BL-5   (0, 2π). Prove that the given process is wide sense stationary process.
-b   Let X(t) be a wide-sense stationary (WSS) random process with   [10]
-autocorrelation function
-− (| 10) 𝜏|
-CO-2;   𝑅𝑥𝑥(𝜏) = (0.66) . 𝑒
-SO-1;
+BL-13 (ii) For random process {X(t)}, the autocorrelation R(t) = e~*!*cosb r, [8]
+, find its power spectral density.
+A A mobile phone manufacturing company claims that the mean life of its
+Q4 phones is 8 years. However, an investigating agency found that the mean life
+See of the phone takes the following values for a random sample of 5 phones. [10]
+BL-3 5 years, 6 years, 8 years, 7 years, 10 years
+Use t-test to test if the company’s claim is true at 5% level of significance.
+B The arrival of the customers at a counter in a railway station is a Poisson
+process with the mean rate of 3 customers per minute. Find the probability
+CO-3; that the interval of time between two consecutive customers is
+SO-1; a. More than one minute [10]
 BL-3
-Solve for the Power Spectral Density (PSD) 𝑆𝑥𝑥(𝜔) of the process. Also
-identify the value of 𝑆𝑥𝑥(𝜔) at 𝜔= 0.1.
-a   For the given random process by   [10]
-Q3   𝑥(𝑡) = 𝑐𝑜𝑠(𝑡+ 𝜃)
-CO-1;
-SO-1;   where 𝜃 is a random variable uniformly distributed over the interval (0, 2π).
-BL-3
-Solve and check if the given random process is mean-ergodic or not?
-b   Explain the power spectral density function (or spectral density or power   [10]
-spectrum) of a stationary process.
-The power spectrum density function of a zero mean WSS process X(t) is
-CO-2;
-SO-1;   given by
-BL-2,3
-{1,   |𝑤} < 𝑤𝑜
-𝑆𝑋𝑋(𝑤) =
-0,   𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
-Solve for the autocorrelation function.
-a   The transition probability matrix of a Markov chain {Xn}n=1,2,3,….. with three   [10]
-states as follows.
-0.2 0.5 0.3
-𝑃= [ 0.5 0.4 0.1 ]
-0.3 0.4 0.3
-Q4
-The initial distribution is
-CO-3 ;
-SO- 1;
-BL-3   𝑃0 = [0.6 0.3 0.1]
-Solve for:
-(i)   P (X2 = 3)
-(ii)   P (X2 = 2)
-(iii)   P [X3 = 2, X2 = 3, X1 = 3, X0 = 2]
-********** 2 **********
+
+b. Between | and 2 minutes
+c. 3 or less than 3 minutes
+
+~
 --- page 3 ---
-b   An auto company decided to introduce a new six-cylinder car whose mean   [10]
-petrol consumption is claimed to be lower than that of existing auto engine. It
-CO-5 ;   was found that the mean petrol consumption for 50 cars was 10 km/litre with
-SO- 1;
-BL-4   a standard deviation of 3.5 km/litre. Test at 5% level of significance, for the
-company’s claim that the for the new six-cylinder car, the petrol consumption
-is 9.5 km/litre on average.
-a   Explain how the good estimate of the population standard deviation 𝜎 is   [10]
-Q5   obtained for a random sample 𝑥1, 𝑥2, … , 𝑥𝑛from a normal distribution using
-CO-3;   maximum likelihood estimator (MLE). State any assumptions you use (e.g.
-SO-1;
-BL-2   whether the mean 𝜇is known or unknown) and give the final expression for
-the MLE of 𝜎.
-b   A market research company wants to know if the proportion of people   [10]
-shopping online has increased. In a survey conducted last year, 220 out of 500
-respondents said they preferred online shopping. In a survey conducted this
-CO- 5;
-SO- 1;   year, 290 out of 520 respondents said they preferred online shopping.
-BL-4
-Test for 1% level of significance, whether there has been an increase in the
-proportion of people who prefer online shopping.
-a   The Westview High School nurse is interested in knowing the average height   [10]
-of seniors at this school, but she does not have enough time to examine the
-records of all 430 seniors. She randomly selects 48 students and finds the
-sample mean to be 64.5 inches and the sample standard deviation to be 2.3
-Q6   inches.
+Suppose, there are two sample lots of a food item. From the first lot of 200
+
+sample packets of the food item, it is observed that the mean weight of the
+
+Q5 food item is 30 grams with the standard deviation of 2 grams. From the
+a second lot of 210 sample packets of the food item, it is observed that the [10]
+BL- 1 mean weight of the food item is 32 grams with the standard deviation of |
+gram. Can we conclude that both the samples have significant difference in
+the mean weight? (Take 5 % level of significance in equality)
+There is a container having same type of small products. There is a task to
+select one component at a time. The selected component may be either
+defective or non-defective. .
+CO-3; The probability for a product to be non-defective is 0.9 then determine the
+SO-1, probability that: [10]
+BL-3 a. The 4" non defective product is found at 9" trial.
+b. There are 2 non defective by the fourth trial, there are 4 non defective
+by the tenth trial, and there are 10 non defective by the eighteenth
+trial.
+Q6 Specify the conditions to select Z-test and t-test for hypothesis testing. Also,
+eh explain the criteria for rejection and acceptance of hypothetical statements, [10]
+BL-3 and discuss “Type-I and Type-II errors”.
+Eunice is a frugal undergraduate at State U, who is interested in purchasing a
+used car. She randomly selected 125 want ads and found that the average
+price of a car in this sample was $3,250. Eunice knows that the standard
+deviation of used-car prices in this city is $615.
+CO-4; . . ; . .
+SO-1: (a) Establish an interval estimate for the average price of a car so that‘Eunice [10]
+BL3 can be 68.3 percent certain that the population mean lies within this interval.
+(b) Establish an interval estimate for the average price of a-car so that Miss
+Eunice can be 95.5 percent certain that the population mean lies within this
+interval.
+In a test on the taste of mangos, 4500 out of 5000 mangos from Konkan are
+Q7 found tasty, and 5100 out of 6000 mangos from Pune are found tasty. Do
+CO-5: these details indicate a significant difference in the taste of mangos from 10]
+SO-1; Konkan and Pune? (Take 99% confidence interval)
+
+BL-3
+--- page 4 ---
 CO-4;
 SO-1;
-BL-3   Solve for:
-(i)   the estimated standard error of the mean.
-(ii)   Construct a 90% confidence interval for the mean height of all
-seniors at Westview High School.
-********** 3 **********
---- page 4 ---
-(iii)   Apply your understanding of estimation principles to suggest
-what Nurse can do to reduce the chances of errors in her
-estimates.
-b   Let x be a random variable that represents weight loss (in pounds) after   [10]
-following a certain diet for 6 months. After extensive study, it is found that x
-has a normal distribution with σ = 5.7 pounds. A new modification of the diet
-has been implemented. A random sample of n=21 people use the modified diet
-CO-5 ;   for 6 months. For these people, the sample standard deviation of weight loss
-SO- 1;
-BL-4   is s= 4.1 pounds.
-Test at 1% level of significance, does this result indicate that the variance of
-weight loss for the modified diet is different (either way) from the variance of
-weight loss for the original diet. Assume weight loss for each diet follows a
-normal distribution
-a   Suppose that customers arrive at a bank according to a Poisson process with   [10]
-a mean rate of 3 per minute.
-Q7
-Solve for the probability that during a time interval of 2 min
-CO-3;
-SO-1;   (i)   exactly 4 customers arrive
 BL-3
-(ii)   more than 4 customers arrive
-(iii)   fewer than 4 customer in 2 minute interval.
-b   A consumer electronics lab compared the battery life of two brands of   [10]
-smartphones. For Brand X, a sample of 10 phones gave an average battery life
-of 18.5 hours with a standard deviation of 2.1 hours. For Brand Y, a sample
-CO-5 ;
-SO- 1;   of 8 phones gave an average battery life of 20.9 hours with a standard
-BL- 4
-deviation of 1.8 hours. At the 1% level of significance, test whether Brand X
-has lower average battery life than Brand Y.
-********** 4 **********
+
+Prove that sample mean and sample standard deviation are the unbiased
+estimators of the population mean and population standard deviation.
+
+n
+Dizi Xi
+
+Where sample mean is x =
+n
+
+Vika (i-X)?
+
+And sample standard deviation s = nol
+
+[10]
+--- page 5 ---
+Standard Normal (Z) Table
+
+| | 0.00 | 0.01 { 002 | 003 | 0.04 | 0.05 [ 0.06
+
+‘| 007 [0.08 | 0.09
+
+| 0.0 [0.0000 [0.0040 [0.0080 [0.0120 0.0160 [0.0199 |0,0239
+
+[0.0279 0.0319 |0.0359
+
+| 0.1 [0.0398 [0.0438 [0.0478 [0.0517 [0.0557 [0.0596 [0.0636
+
+[0.0675 [0.0714 [0.0753
+
+| 0.2 {0.0793 [0.0832 [0.0871 {0.0910 |0.0948 |0.0987 [0.1026
+
+0.1064 {0.1103 [0.1141
+
+| 0.3 [0.1179 [0.1217 {0.1255 [0.1293 [0.1331 [0.1368 [0.1406
+
+0.1443 [0.1480 [0.1517
+
+| 0.4 [0.1554 [0.1591 pauses 10.1664 0.1700 (0.1736 [0.1772
+
+fou 1808 [0.1844 [0.1879
+
+[ 0s [o.1915 [0.1950 [0.1985 [0.2019 {0.2054 {0.2088 [0.2123
+
+[0.2157 [0.2190 [0.2224
+
+| 0.6 [0.2257 (0.2291 = 0.2357 0.2389 [0.2422 [0.2454
+
+[0.2486° [0.2517 [0.2549
+
+| 0.7 [0.2580 [0.2611 [0.2642 |0.2673 [0.2704 [0.2734 |0.2764
+
+[0.2794 |0.2823 [0.2852
+
+| 0.8 [0.2881 [0.2910 [0.2939 [0.2967 [0.2995 [0.3023 [0.3051
+
+0.3078 [0.3106 [0.3133
+
+[09 [0.3159 /0.3186 [0.3212 |0.3238 |0.3264 [0.3289 |0.3315
+
+{0.3340 [0.3365 [0.3389
+
+| 1.0 [0.3413 [0.3438 [0.3401 [0.3485 [0.3508 [0.3531 [0.3554
+
+[0.3577 [0.3599 [0.3621
+
+| 11 [0.3643 [0.3665 [0.3686 [0.3708 [0.3729 [0.3749 [0.3770
+
+(0.3790 [0.3810 [0.3830
+
+[1.2 [0.3849 [0.3869 [0.3888 [0.3907 {0.3925 [0.3944 [0.3962
+
+[0.3980 {0.3997 [0.4015
+
+| 1.3 [0.4032 [0.4049 [0.4066 [0.4082 [0.4099 [0.4115 [0.4131
+
+0.4147. [0.4162 [0.4177
+
+[ 14 [0.4192 [0.4207 [0.4222 (0.4236 {0.4251 {0.4265 [0.4279
+
+0.4292 [0.4306 |0.4319
+
+[ 1.5 [0.4332 [0.4345 [0.4357 [0.4370 [0.4382 [0.4394 [0.4406
+
+[0.4418 [0.4429 [0.4441
+
+| 1.6 [0.4452 0. 4463 |0.4474 0.4484 | 0.4495 [0.4505 [0.4515
+
+[0.4525 [0.4535 [0.4545
+
+(0.4582 (0.4591 [0.4599 [0.4608
+
+10.4616 0.4625 [0.4633
+
+rk 18 ioacal rea ae
+
+4664 [0.4671 [0.4678 [0.4686
+
+[0.4693 [0.4699 [0.4706
+
+[19 [0.4713 [0.4719 seal : | 4732 (0.4738 [0.4744 [0.4750
+
+[0.4756 [0.4761 [0.4767
+
+[2.0 0.4 4772 |0.4778- [0.4783 (0.4788 10.4793 [0.4798 [0.4803
+
+[2.1 [0.4821 |0.4826 [0.4830
+
+|0.4838 [0.4842 [0.4846
+
+|0.4808 [0.4812 |0.4817
+
+“10.4850. [0.4854 | [0.4857 i
+
+aa | + 0.4868 0.
+
+| 2.3 [0.4893 [0.4896 | 0.4898
+
+[0.4875 [0.4878 /0.4881
+(0.4904 [0.4906 0.4909
+
+(0.4911 04913 [0.4016
+
+[0.4884 |0.4887 [0.4890
+
+cc i a
+
+| 2.4 0.4918 | (0.4920 |0.4922
+
+|
+P25 [osoae [0.4940 [0.4941
+
+[0.4932 [0.4934 [0.4936
+
+[0.4949 [0.4951 [0.4952
+
+| 2.6 [0.4953 [0.4955 [oaase 4957 [0.4959 [0.4960 [0.4961
+
+[0.4962 [0.4963 [0.4964
+
+[ 2.7. [0.4965 |0.4966 | 0.4967 (0.4968 [0 4969 noon 4970 [os 4971
+
+| 2.8 “aaa OS (0.4976
+
+[0.4972 [0.4973 [0.4974
+
+[0.4979 [0.4980 [0.4981
+
+E [0.4981 [0.4982 [0.4982 _ car (0.498 [0.4984 oa
+
+[0.4985 [0.4986 | 0.4986
+
+| 3.0 (0.4987 [0.4987 as (0.4988 0.4988 fo. 4989 [0.4989
+
+'0. 4989 o, 4990 fo. 4990
+--- page 6 ---
+Tables TT
+
+Probabilit
+Table entry for p and C is the ropaeeny P
+
+critical value t* with probability p
+lying to its right and probability C
+lying between —¢* and ¢*. : *
+
+t Distribution Critical Values
+
+Upper-tail probability p
+
+df 29 .20 “1S 10 05 .025 -02 01 -005 .0025 001 .000™
+
+1 1.000 1.376 1.963 3.078 6.314 12.71 15.89 31.82 63.66 127.3 318.3 636.6
+2 0.816 1.061 1.386 1.886 2.920 4.303 4.849 6.965 9.925 14.09 22.33 31.60
+3 0.765 0.978 1.250 1.638 2.353 3.182 3.482 4.541 5.841 7.453 10.21 12.92
+4 0.741 0.941 1.190 1,533 2.132 2.776 2.999 3.747 4.604 5.598 VALT3 8.610
+5 0.727 0.920 1.156 1.476 2.015 2.571 2.757 3.365 4.032 4.773 5.893 6.869
+6 0.718 0.906 1.134 1.440 1.943 2.447 2.612 3.143 3.707 4.317 5.208 5.959
+uh 0.711 0.896 1.119 1.415 1.895. 2.365 2.517 2.998 3.499 4.029 4.785 5.408
+8 0.706 0.889 — 1,108 1.397 1.860 2.306 2.449 2.896 3.355 3.833 4.501 5.041
+9 0.703 0.883 1.100 1.383 1.833, 2.262 2.398 2.821 3.250 3.690 4.297 4.781
+10 0.700 0.879 ¥.093327°13372 1.812 2.228 2.359 2.764 3.169 3.581 4.144 4.587
+11 0.697 0.876 1.088 1.363 1.796 2.201 2.328 2.718 3.106 3.497 4.025 4.437
+12 0.695 0.873 1.083 1.356 1.782 2.179 2.303 2.681 3.055 3.428 3.930 4.318
+13 0.694 0.870 1.079 1.350 1.771 2.160 2.282 2.650 3.012 3.372 3.852 4.221
+14 0.692 0.868 1.076 1.345 1.761 2.145 2.264 2.624 2917 3.326 3.787 4.140
+15 0.691 0.866 1.074 1.341 1.753 2.131 2.249 2.602 2.947 3.286 3.733 4.073
+16 0.690 0.865 1.071 12337: 1.746 2.120 2.235 2.583 2.921 3252 3.686 4.015
+17 0.689 0.863 1.069 15333 1.740 2.110 2.224 2.567 2.898 3.222 3.646 3.965
+18 0.688 0.862 1.067 1.330 1.734 2.101 2.214 23552 2.878 3.107 3.611 3.922
+19 0.688 0.861 1.066 1.328 1.729 2.093 2.205 23539 2.861 3.174 3.579 3.883
+20 0.687 0.860 1.064 1.325 1.725 2.086 2.197 2.528 2.845 3.153 3.552 3.850.
+21 0.686 0.859 1.063 1.323 1.721 2.080 2.189 2.518 2.831 3.135 3.527 3.81
+22. 0.686 0.858 1.061 1.321 Lid? 2.074 2.183 2.508 2.819 3.119 3.505 3.792
+23 0.685 0.858 1.060 1.319 1.714 2.069 2.177 2.500 2.807 3.104 3.485 3.768
+24 0.685 0.857 1.059 1.318 L711 2.064 2172 2.492 2.797 3.091 3.467 3.745
+25 0.684 0.856 1.058 1.316 1.708 2.060 2.167 2.485 2.787 3.078 3.450 3.725
+26 0.684 0.856 1.058 1.315 1.706 2.056 2.162 2.479 2.779 3.067 3.435 3.707
+27 0.684 0.855 1.057 1.314 1.703 2.052 2.158 2.473 2TAL 3.057 3.421 3.690
+28 0.683 0.855 1.056 1-313 1.701 2.048 2.154 2.467 2.763 3.047 3.408 3.674
+29 0.683 0.854 1.055 1:31) 1.699 2.045 2.150 2.462 2.756 3.038 3.396 3.659
+30 0.683 0.854 1.055 1.310 1.697 2.042 2.147 2.457 2.750 3.030 3.385 3.646
+40 0.681 0.851 1.050 1.303 1.684 2.021 2.123 2.423 2.704 2,97) 3.307 3551
+50 0.679 0.849 1.047 1.299 1.676 2.009 2.109 2.403 2.678 2.937 3.261 3.496
+60 0.679 0.848 1.045 1.296 1.671 2.000 2.099 2.390 2.660 2i93.5 3.232 3.460
+80 0.678 0.846 1.043 1.292 1.664 1.990 2.088 2.374 2.639 2.887 3.195 3.416
+100 0.677 0.845 1.042 1.290 1.660 1.984 2.081 2.364 2.626 2.871 3.174 3.390
+1000 0.675 0.842 1.037 1.282 1.646 1.962 2.056 2.330 2.581 2.813 3.098 3.300
+2 0.674 0.841 1.036 1.282 1.645 1.960 2.054 2.326 2.576 2.807 3.091 3.291
+
+50% 60% 70% 80% 90% 95% 96% 98% 99% 99.5% 99.8% 99.9%
+
+Confidence level C
 ````
 
 ## 2022-23 · Final-Exam · paper ee17f6a0d04d
@@ -2360,6 +2715,7 @@ has lower average battery life than Brand Y.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE & DATA SCIENCE/RANDOM PROCESSES & ESTIMATION TECHNIQUES/Random Processes and Estimation Techniques, 2nd Year, Sem III, Year 2022-23 Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 23 November 2022
 - Text: ocr (8 pages), mean OCR confidence 81.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \
@@ -2573,7 +2929,6 @@ i | | | | i i
 | 1s [0.4713 [0.4719 [0.4726 [04732 [0.4738 foa744 0.4750 [0.4756 [0.4761 |0.4767
 | 20 [0.4772 [0.4778 [0.4783 [0.4788 [0.4793 [0.4798 [0.4803 [0.4808 |0.4812 |0.4817
 
-[ 24 [o.4s2i [0.4826 [0.4830 [0.4834 [oasae [0.4842 [oasa6 [oaaso |oaasd (0.4857
 
 [| 22 {0.4861 [0.4864 [oases [0.4871 [0.4875 |0.4878 (o.4Ks1 [0.4884 [0.4887 [0.4800
 23 {0.4893 [0.4896 [0.4898 [0.4901 (0.4904 0.4906 0.4909 [0.4911 0.4913 [0.4916
@@ -3440,365 +3795,6 @@ td 1.8339 1.7854 1.6697 1.5740 1.5098 1.4629 1.3981 1.3227 1.2272
 we
 ````
 
-## 2022-23 · Re-Exam · Sem 3 · paper 8a0cfb816520
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/RANDOM PROCESSES AND ESTIMATION TECHNIEQUES/Random Process & Estimation Tech , Re-exam 2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 84.9
-
-````text
-SVKM’S NMIMS S a,
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-Program/s: B TECH/MBA TECH Year: I] Semester: III
-Stream/s: AI/AIDS/AIML
-
-¥
-
-Subject: Random Process and Estimation Techniques Time: 3 hrs (40-am to dpm )
-Date:_10 / 02/2024 No. of Pages:6
-Marks: 100 _
-
-Re-Examination (2023-24)/Re-Examination ( 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate.full marks.
-7) Assume Suitable data if necessary.
-
-8) Required tables are attached with question paper.
-
-Qi .
-Answer briefly: [20]
-c a. If {X(t)} is a wide-sense stationary process with auto correlation
-O-2 ;
-SO- |: R(ty, tz) = 6e~3!%~t2!, determine the variance ( or also called second order [5]
-> «
-BL-3 moment) of the random variable X(6) — X(2).
-CO-3'$ b. Poisson distribution is different from Poisson process. Explain with the help
-SO-1; | of formulas used in both th P|
-BL-3 of formulas used in both the cases.
-CO-4; c. : . . oo.
-SO- I: Describe unbiasedness and consistency criteria for good estimator in brief. {5]
-BL-2
-d. The mean height of a random sample of 121 cats is 32 cm. If the standard
-deviation of the distribution of height of the population of cats is 2 cm, test the
-CO- 5; hypothesis that the mean height of the population cats is not 35 cm. Take 95%
-SO- 1; [5
-
-BL-3 confidence interval (with critical limits Zej2 = + 1.96).
---- page 2 ---
-*
-(i) Define a strict-sense stationary process and give an example. Also,
-
-write condition for strict -sense stationary process.
-
-A .. : [5]
-Q2 (ii) Ifa random process is given by X(t) = Asinwt, where w is constant
-sor and A is a random variable with uniform distribution over (0, 2).
-BL-2,3 - Compute the autocorrelation of X(t). [5]
-B (i) Define Cross Spectral Density. [2]
-(ii) Derive the transfer function of the linear time invariant (LTT) system
-CO-2; : — Sxyw)
-matt given by H(w) ae
-BL-1,3 Where Syy(w) cross-power spectral density and Syx (w) is power
-spectral density of x(t). Consider x(t) and y(t) as input and output of
-the LT] system respectively. [8]
-Q3 A If random process (t) = cos(wot + 6) , where wo is constant and @ isa
-CO-1; random variable uniformly distributed in (0,272). Prove that {X(t)} is a wide | [10]
--1; .
-ee sense stationary process.
-3 B (i) Define White Noise. Why it is called so. Also give its autocorrelation
--2; 2
-function. 2]
-SO-1;
-BL-13 (ii) For random process {X(t)}, the autocorrelation R(t) = e~*!*cosb r, [8]
-, find its power spectral density.
-A A mobile phone manufacturing company claims that the mean life of its
-Q4 phones is 8 years. However, an investigating agency found that the mean life
-See of the phone takes the following values for a random sample of 5 phones. [10]
-BL-3 5 years, 6 years, 8 years, 7 years, 10 years
-Use t-test to test if the company’s claim is true at 5% level of significance.
-B The arrival of the customers at a counter in a railway station is a Poisson
-process with the mean rate of 3 customers per minute. Find the probability
-CO-3; that the interval of time between two consecutive customers is
-SO-1; a. More than one minute [10]
-BL-3
-
-b. Between | and 2 minutes
-c. 3 or less than 3 minutes
-
-~
---- page 3 ---
-Suppose, there are two sample lots of a food item. From the first lot of 200
-
-sample packets of the food item, it is observed that the mean weight of the
-
-Q5 food item is 30 grams with the standard deviation of 2 grams. From the
-a second lot of 210 sample packets of the food item, it is observed that the [10]
-BL- 1 mean weight of the food item is 32 grams with the standard deviation of |
-gram. Can we conclude that both the samples have significant difference in
-the mean weight? (Take 5 % level of significance in equality)
-There is a container having same type of small products. There is a task to
-select one component at a time. The selected component may be either
-defective or non-defective. .
-CO-3; The probability for a product to be non-defective is 0.9 then determine the
-SO-1, probability that: [10]
-BL-3 a. The 4" non defective product is found at 9" trial.
-b. There are 2 non defective by the fourth trial, there are 4 non defective
-by the tenth trial, and there are 10 non defective by the eighteenth
-trial.
-Q6 Specify the conditions to select Z-test and t-test for hypothesis testing. Also,
-eh explain the criteria for rejection and acceptance of hypothetical statements, [10]
-BL-3 and discuss “Type-I and Type-II errors”.
-Eunice is a frugal undergraduate at State U, who is interested in purchasing a
-used car. She randomly selected 125 want ads and found that the average
-price of a car in this sample was $3,250. Eunice knows that the standard
-deviation of used-car prices in this city is $615.
-CO-4; . . ; . .
-SO-1: (a) Establish an interval estimate for the average price of a car so that‘Eunice [10]
-BL3 can be 68.3 percent certain that the population mean lies within this interval.
-(b) Establish an interval estimate for the average price of a-car so that Miss
-Eunice can be 95.5 percent certain that the population mean lies within this
-interval.
-In a test on the taste of mangos, 4500 out of 5000 mangos from Konkan are
-Q7 found tasty, and 5100 out of 6000 mangos from Pune are found tasty. Do
-CO-5: these details indicate a significant difference in the taste of mangos from 10]
-SO-1; Konkan and Pune? (Take 99% confidence interval)
-
-BL-3
---- page 4 ---
-CO-4;
-SO-1;
-BL-3
-
-Prove that sample mean and sample standard deviation are the unbiased
-estimators of the population mean and population standard deviation.
-
-n
-Dizi Xi
-
-Where sample mean is x =
-n
-
-Vika (i-X)?
-
-And sample standard deviation s = nol
-
-[10]
---- page 5 ---
-Standard Normal (Z) Table
-
-| | 0.00 | 0.01 { 002 | 003 | 0.04 | 0.05 [ 0.06
-
-‘| 007 [0.08 | 0.09
-
-| 0.0 [0.0000 [0.0040 [0.0080 [0.0120 0.0160 [0.0199 |0,0239
-
-[0.0279 0.0319 |0.0359
-
-| 0.1 [0.0398 [0.0438 [0.0478 [0.0517 [0.0557 [0.0596 [0.0636
-
-[0.0675 [0.0714 [0.0753
-
-| 0.2 {0.0793 [0.0832 [0.0871 {0.0910 |0.0948 |0.0987 [0.1026
-
-0.1064 {0.1103 [0.1141
-
-| 0.3 [0.1179 [0.1217 {0.1255 [0.1293 [0.1331 [0.1368 [0.1406
-
-0.1443 [0.1480 [0.1517
-
-| 0.4 [0.1554 [0.1591 pauses 10.1664 0.1700 (0.1736 [0.1772
-
-fou 1808 [0.1844 [0.1879
-
-[ 0s [o.1915 [0.1950 [0.1985 [0.2019 {0.2054 {0.2088 [0.2123
-
-[0.2157 [0.2190 [0.2224
-
-| 0.6 [0.2257 (0.2291 = 0.2357 0.2389 [0.2422 [0.2454
-
-[0.2486° [0.2517 [0.2549
-
-| 0.7 [0.2580 [0.2611 [0.2642 |0.2673 [0.2704 [0.2734 |0.2764
-
-[0.2794 |0.2823 [0.2852
-
-| 0.8 [0.2881 [0.2910 [0.2939 [0.2967 [0.2995 [0.3023 [0.3051
-
-0.3078 [0.3106 [0.3133
-
-[09 [0.3159 /0.3186 [0.3212 |0.3238 |0.3264 [0.3289 |0.3315
-
-{0.3340 [0.3365 [0.3389
-
-| 1.0 [0.3413 [0.3438 [0.3401 [0.3485 [0.3508 [0.3531 [0.3554
-
-[0.3577 [0.3599 [0.3621
-
-| 11 [0.3643 [0.3665 [0.3686 [0.3708 [0.3729 [0.3749 [0.3770
-
-(0.3790 [0.3810 [0.3830
-
-[1.2 [0.3849 [0.3869 [0.3888 [0.3907 {0.3925 [0.3944 [0.3962
-
-[0.3980 {0.3997 [0.4015
-
-| 1.3 [0.4032 [0.4049 [0.4066 [0.4082 [0.4099 [0.4115 [0.4131
-
-0.4147. [0.4162 [0.4177
-
-[ 14 [0.4192 [0.4207 [0.4222 (0.4236 {0.4251 {0.4265 [0.4279
-
-0.4292 [0.4306 |0.4319
-
-[ 1.5 [0.4332 [0.4345 [0.4357 [0.4370 [0.4382 [0.4394 [0.4406
-
-[0.4418 [0.4429 [0.4441
-
-| 1.6 [0.4452 0. 4463 |0.4474 0.4484 | 0.4495 [0.4505 [0.4515
-
-[0.4525 [0.4535 [0.4545
-
-(0.4582 (0.4591 [0.4599 [0.4608
-
-10.4616 0.4625 [0.4633
-
-rk 18 ioacal rea ae
-
-4664 [0.4671 [0.4678 [0.4686
-
-[0.4693 [0.4699 [0.4706
-
-[19 [0.4713 [0.4719 seal : | 4732 (0.4738 [0.4744 [0.4750
-
-[0.4756 [0.4761 [0.4767
-
-[2.0 0.4 4772 |0.4778- [0.4783 (0.4788 10.4793 [0.4798 [0.4803
-
-[2.1 [0.4821 |0.4826 [0.4830
-
-|0.4838 [0.4842 [0.4846
-
-|0.4808 [0.4812 |0.4817
-
-“10.4850. [0.4854 | [0.4857 i
-
-aa | + 0.4868 0.
-
-| 2.3 [0.4893 [0.4896 | 0.4898
-
-[0.4875 [0.4878 /0.4881
-(0.4904 [0.4906 0.4909
-
-(0.4911 04913 [0.4016
-
-[0.4884 |0.4887 [0.4890
-
-cc i a
-
-| 2.4 0.4918 | (0.4920 |0.4922
-
-|
-P25 [osoae [0.4940 [0.4941
-
-[0.4932 [0.4934 [0.4936
-
-[0.4949 [0.4951 [0.4952
-
-| 2.6 [0.4953 [0.4955 [oaase 4957 [0.4959 [0.4960 [0.4961
-
-[0.4962 [0.4963 [0.4964
-
-[ 2.7. [0.4965 |0.4966 | 0.4967 (0.4968 [0 4969 noon 4970 [os 4971
-
-| 2.8 “aaa OS (0.4976
-
-[0.4972 [0.4973 [0.4974
-
-[0.4979 [0.4980 [0.4981
-
-E [0.4981 [0.4982 [0.4982 _ car (0.498 [0.4984 oa
-
-[0.4985 [0.4986 | 0.4986
-
-| 3.0 (0.4987 [0.4987 as (0.4988 0.4988 fo. 4989 [0.4989
-
-'0. 4989 o, 4990 fo. 4990
---- page 6 ---
-Tables TT
-
-Probabilit
-Table entry for p and C is the ropaeeny P
-
-critical value t* with probability p
-lying to its right and probability C
-lying between —¢* and ¢*. : *
-
-t Distribution Critical Values
-
-Upper-tail probability p
-
-df 29 .20 “1S 10 05 .025 -02 01 -005 .0025 001 .000™
-
-1 1.000 1.376 1.963 3.078 6.314 12.71 15.89 31.82 63.66 127.3 318.3 636.6
-2 0.816 1.061 1.386 1.886 2.920 4.303 4.849 6.965 9.925 14.09 22.33 31.60
-3 0.765 0.978 1.250 1.638 2.353 3.182 3.482 4.541 5.841 7.453 10.21 12.92
-4 0.741 0.941 1.190 1,533 2.132 2.776 2.999 3.747 4.604 5.598 VALT3 8.610
-5 0.727 0.920 1.156 1.476 2.015 2.571 2.757 3.365 4.032 4.773 5.893 6.869
-6 0.718 0.906 1.134 1.440 1.943 2.447 2.612 3.143 3.707 4.317 5.208 5.959
-uh 0.711 0.896 1.119 1.415 1.895. 2.365 2.517 2.998 3.499 4.029 4.785 5.408
-8 0.706 0.889 — 1,108 1.397 1.860 2.306 2.449 2.896 3.355 3.833 4.501 5.041
-9 0.703 0.883 1.100 1.383 1.833, 2.262 2.398 2.821 3.250 3.690 4.297 4.781
-10 0.700 0.879 ¥.093327°13372 1.812 2.228 2.359 2.764 3.169 3.581 4.144 4.587
-11 0.697 0.876 1.088 1.363 1.796 2.201 2.328 2.718 3.106 3.497 4.025 4.437
-12 0.695 0.873 1.083 1.356 1.782 2.179 2.303 2.681 3.055 3.428 3.930 4.318
-13 0.694 0.870 1.079 1.350 1.771 2.160 2.282 2.650 3.012 3.372 3.852 4.221
-14 0.692 0.868 1.076 1.345 1.761 2.145 2.264 2.624 2917 3.326 3.787 4.140
-15 0.691 0.866 1.074 1.341 1.753 2.131 2.249 2.602 2.947 3.286 3.733 4.073
-16 0.690 0.865 1.071 12337: 1.746 2.120 2.235 2.583 2.921 3252 3.686 4.015
-17 0.689 0.863 1.069 15333 1.740 2.110 2.224 2.567 2.898 3.222 3.646 3.965
-18 0.688 0.862 1.067 1.330 1.734 2.101 2.214 23552 2.878 3.107 3.611 3.922
-19 0.688 0.861 1.066 1.328 1.729 2.093 2.205 23539 2.861 3.174 3.579 3.883
-20 0.687 0.860 1.064 1.325 1.725 2.086 2.197 2.528 2.845 3.153 3.552 3.850.
-21 0.686 0.859 1.063 1.323 1.721 2.080 2.189 2.518 2.831 3.135 3.527 3.81
-22. 0.686 0.858 1.061 1.321 Lid? 2.074 2.183 2.508 2.819 3.119 3.505 3.792
-23 0.685 0.858 1.060 1.319 1.714 2.069 2.177 2.500 2.807 3.104 3.485 3.768
-24 0.685 0.857 1.059 1.318 L711 2.064 2172 2.492 2.797 3.091 3.467 3.745
-25 0.684 0.856 1.058 1.316 1.708 2.060 2.167 2.485 2.787 3.078 3.450 3.725
-26 0.684 0.856 1.058 1.315 1.706 2.056 2.162 2.479 2.779 3.067 3.435 3.707
-27 0.684 0.855 1.057 1.314 1.703 2.052 2.158 2.473 2TAL 3.057 3.421 3.690
-28 0.683 0.855 1.056 1-313 1.701 2.048 2.154 2.467 2.763 3.047 3.408 3.674
-29 0.683 0.854 1.055 1:31) 1.699 2.045 2.150 2.462 2.756 3.038 3.396 3.659
-30 0.683 0.854 1.055 1.310 1.697 2.042 2.147 2.457 2.750 3.030 3.385 3.646
-40 0.681 0.851 1.050 1.303 1.684 2.021 2.123 2.423 2.704 2,97) 3.307 3551
-50 0.679 0.849 1.047 1.299 1.676 2.009 2.109 2.403 2.678 2.937 3.261 3.496
-60 0.679 0.848 1.045 1.296 1.671 2.000 2.099 2.390 2.660 2i93.5 3.232 3.460
-80 0.678 0.846 1.043 1.292 1.664 1.990 2.088 2.374 2.639 2.887 3.195 3.416
-100 0.677 0.845 1.042 1.290 1.660 1.984 2.081 2.364 2.626 2.871 3.174 3.390
-1000 0.675 0.842 1.037 1.282 1.646 1.962 2.056 2.330 2.581 2.813 3.098 3.300
-2 0.674 0.841 1.036 1.282 1.645 1.960 2.054 2.326 2.576 2.807 3.091 3.291
-
-50% 60% 70% 80% 90% 95% 96% 98% 99% 99.5% 99.8% 99.9%
-
-Confidence level C
-````
-
 ## 2022-23 · Re-Exam · Sem 3 · paper 391b8591bc33
 
 - Departments: Artificial Intelligence
@@ -3806,6 +3802,7 @@ Confidence level C
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/RANDOM PROCESSES AND ESTIMATION TECHNIEQUES/Random Processes & Estimation Techniques, Sem-III, Year 2022-23, Special Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 79.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3931,9 +3928,7 @@ ae Area under Standard Normal Curve between 0andz |
 Z | 0.00 | 0.01 | 0.02 | 0.03 7 0.04 | 0.05 | 006 | 0.07 | 008 | 0.09
 0.1 | 0.0398 | 0. Tone roe 0. 1 0.0557 | 0.0596 | 0.0636 | 0.0675 | 0.0714 | 0.0753
 0.3 mE 0.1217 [0.1255 | 0. 1298 01331 0.1368 | 0.1406 | 0.1443 |0.1480 | 0.1517
-| (gas Foms54 onteon =| omens | Oneoa| e700 |fomzeon ome 808) iC re
 yr! 0.5 [0.1915 | 0.1950 ae 0.2019 | 0.2054 | 0.2088 | 0.2123 | 0.2157 | 0.2190 | 0.2224
-A ci ra oc al ee oe sey ETO
 0.7 [0.2580 | 0.2611 | 0.2642 | 0.2673 | 0.2704 0.2734 10.2764 1 0.2794 | 0.2833 0.2852
 0.8 | 0.2881 [0.2910 | 0.2939 | 0.2967 | 01295: Fosdst 018076 06" /0¢
 0.9 [0.3159 | 0.3186 | 0.3212 | 0.3238 [0.3264 | 0.3289 | 0.3315 | 0.3340 | 0.3365 | 0.3389

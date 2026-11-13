@@ -14,19 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AI 7012 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSE DS 7011 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CyberSecurity 7010 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech IT 7001 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechanical 7003 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech AI 7051 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech IT 7041 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech AI 7012 | QP_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CSE DS 7011 | QP_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Civil 7005 | QP_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
@@ -40,5 +27,18 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech Computer 7047 | QP_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech DS 7052 | QP_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech IT 7041 | QP_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AI 7012 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSE DS 7011 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CyberSecurity 7010 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech IT 7001 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechanical 7003 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech AI 7051 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech IT 7041 | ANS_Industrial Relations and Peace Studies(702BS0I017)_2025-2026.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

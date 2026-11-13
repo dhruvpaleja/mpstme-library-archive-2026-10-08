@@ -1,10 +1,10 @@
 # Fundamentals of Financial Accounting: question papers in full
 
-3 unique papers · 2012-13 to 2012-13 · Chemical, Civil, Information Technology
+3 unique papers · 2012-13 to 2013-14 · Chemical, Civil, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Exam not stated · Trim 8 · paper 95ceb7f4d671
+## 2013-14 · Exam not stated · Trim 8 · paper 95ceb7f4d671
 
 - Departments: Chemical, Civil
 - Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL
@@ -128,6 +128,178 @@ Jan.30- 250 units
 Calculate the amount of closing stock by FIFO Method of Inventory Valuation.
 
 Dee
+````
+
+## 2013-14 · Re-Exam · Trim 8 · paper 6b3692c54975
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/fundamental of Financial Accounting/FUNDAMENTALS OF FINANCIAL ACCOUNTING BATCH 2012-13 RE EX0001(2).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; exam date: 14 /12/2013
+- Text: ocr (4 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL) Year: III Trimester: VIII
+
+Academic Year: 2013-14 Batch:2012-13
+
+Subject : Fundamentals of Financial Accounting
+
+Marks:50—
+Date :14 /12/2013 Time : 10.00
+
+Re-Examination *
+
+Instructions: Candidates should read carefully the instruction on the question paper and on
+the cover of the answer book, which is provide for their use.
+
+NB: 1. Section 1 is compulsory and Attempt any three question from Section 11
+2. Answer to each new question should bee started on fresh Page.
+3. Figures to the right indicate full marks
+
+Q1) From the following Trial Balance of books of M/s. Manish Brothers on 31 March 2010,
+
+prepare: .
+(a) ;
+i) Manufacturing ,Trading and Profit & Loss Account.
+ii) Balance Sheet. | (15 marks)
+Account Head Dr. Cr.
+Rs. Rs.
+Sundry Creditors ; 21,000
+Sales ; 228,600
+Discount received . 2,500
+Provision for bad & doubtful debts 1,200
+Cash in hand 5,000 .
+Cashat Bank 6,500
+
+Drawings 1,200
+a f
+uy 4
+--- page 2 ---
+—EE
+
+Capital
+
+Sundry Debtors 25,000
+Opening stock 11,500
+Purchases 1,08,000
+Sales & Purchases return 3,500
+Plant & Machinery 50,000
+Furniture 7,500
+Leese tools 8,500
+Building 20,000
+Office salaries 31,000
+Manufacturing wages 30,000
+Rent & Taxes 10,200
+Insurance 12,000
+Octroi 2,500
+Coringe inward 5,200
+Carriage outward 3,500
+Postage 1,500
+Total: 3,42.600
+
+Additional Information:
+
+1) Stock on 31° March 2010 was valued at Rs. 16,500.
+2) Wages & salaries outstanding are:
+Wages — Rs. 4000, Salaries — Rs. 4500
+
+3) Prepaid Insurance — Rs. 1500
+4) Provision . for bad & doubtful debts — 5% on debtors
+
+87,500
+
+1,800
+
+3,42,600
+
+24
+--- page 3 ---
+5) Depreciation to be charged on plant & machinery (10%), furniture (12%)
+6) Interest on capital is to be charged at 5%.
+
+Q1)(b) Explain the concept of Going Concern and Dual concept. (5 marks)
+
+SECTION 11
+
+Q2) On 1/1/2007 Lakshmi and company purchased a imported Machine from the cost of the
+
+machine is Rs 12,00,000 and import duty of Rs 2,50,000 and installation charges 25,000.
+On 1/6/2008 purchased a machine for Rs 1,00,000 and incurred installation cost of Rs
+25,000.
+
+On 1/8/2009 the company purchased another machine for Rs 3,00,000 and the machinery
+purchased on 1/1/2007 was sold for Rs 5,00,000.
+
+n account for 2007, 2008, 2009 assuming that
+
+lance method at 15%. Assume the year to be
+(10 marks)
+
+Prepare machinery account and depreciatio
+depreciation is charged on Diminishing ba
+Calendar year
+
+Q3) On 31st March, 2010, the Cash Book of Shri Girdhar Chandak showed a balance of Rs.
+14,000, but the Bank Pass Book showed a different balance. On comparing the Cash Book with
+the Pass Book, the following discrepancies were noticed. (10 marks)
+
+1. Cheques of Rs. 300, Rs. 200 were issued on 25th March, 2010; but both the cheques were
+
+presented for payment on Sth April, 2010.
+
+2. Cheques of Rs. 600 received from the customer:
+collected on Ist April, 2010.
+
+3. Mr. Trustworthy directly deposited Rs 300 into
+was made in the Cash Book on 4th April, 2010.
+
+4. The Bank has debited the Pass Book by Rs. 10 for Bank charges. The corresponding entry
+of the same was not found in the Cash Book.
+
+Prepare a Bank Reconciliation Statement as on 31st March, 2010.
+
+s were paid into the Bank, but they were
+
+the Bank Account, the entry of the same
+
+Q4) Prepare a stores ledger from the following transaction assuming that issue of stores have
+been made on Principle of FIFO basis.
+
+2009
+January 2 : Purchased 2000 units at Rs 4.00 per unit
+
+January 20: Purchased 250 units at Rs 5.00 per unit
+
+February 5: Issued 1000 units
+--- page 4 ---
+February 10: Purchased 3000 units at Rs 6.00 per unit
+February 12 : Issued 2000 units
+March 2 : Issued 500 units
+
+March 5: Issued 1000 units
+March 15 : Purchased 2250 units at Rs 5.50 unit
+
+March 20: Issued 1500 units
+
+A stock verifier of the factory noted that on 15" February he had found a excess of
+
+March 10 there was excess 10 units.
+
+If the market value is 2.5, find out the value of stock.
+Q5 ) (a) Explain methods of depreciation
+
+(b) Explain the causes of Depreciation
+
+5 units and
+(10 marks)
+
+(10 marks)
+
+a/4
 ````
 
 ## 2012-13 · Final-Exam · Trim 8 · paper 496c74b87de7
@@ -312,176 +484,4 @@ discounted. ;
 Prepare a Bank Reconciliation Statement as on 31“ January, 2008.
 
 (10 marks)
-````
-
-## 2012-13 · Re-Exam · Trim 8 · paper 6b3692c54975
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/fundamental of Financial Accounting/FUNDAMENTALS OF FINANCIAL ACCOUNTING BATCH 2012-13 RE EX0001(2).pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; exam date: 14 /12/2013
-- Text: ocr (4 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL) Year: III Trimester: VIII
-
-Academic Year: 2013-14 Batch:2012-13
-
-Subject : Fundamentals of Financial Accounting
-
-Marks:50—
-Date :14 /12/2013 Time : 10.00
-
-Re-Examination *
-
-Instructions: Candidates should read carefully the instruction on the question paper and on
-the cover of the answer book, which is provide for their use.
-
-NB: 1. Section 1 is compulsory and Attempt any three question from Section 11
-2. Answer to each new question should bee started on fresh Page.
-3. Figures to the right indicate full marks
-
-Q1) From the following Trial Balance of books of M/s. Manish Brothers on 31 March 2010,
-
-prepare: .
-(a) ;
-i) Manufacturing ,Trading and Profit & Loss Account.
-ii) Balance Sheet. | (15 marks)
-Account Head Dr. Cr.
-Rs. Rs.
-Sundry Creditors ; 21,000
-Sales ; 228,600
-Discount received . 2,500
-Provision for bad & doubtful debts 1,200
-Cash in hand 5,000 .
-Cashat Bank 6,500
-
-Drawings 1,200
-a f
-uy 4
---- page 2 ---
-—EE
-
-Capital
-
-Sundry Debtors 25,000
-Opening stock 11,500
-Purchases 1,08,000
-Sales & Purchases return 3,500
-Plant & Machinery 50,000
-Furniture 7,500
-Leese tools 8,500
-Building 20,000
-Office salaries 31,000
-Manufacturing wages 30,000
-Rent & Taxes 10,200
-Insurance 12,000
-Octroi 2,500
-Coringe inward 5,200
-Carriage outward 3,500
-Postage 1,500
-Total: 3,42.600
-
-Additional Information:
-
-1) Stock on 31° March 2010 was valued at Rs. 16,500.
-2) Wages & salaries outstanding are:
-Wages — Rs. 4000, Salaries — Rs. 4500
-
-3) Prepaid Insurance — Rs. 1500
-4) Provision . for bad & doubtful debts — 5% on debtors
-
-87,500
-
-1,800
-
-3,42,600
-
-24
---- page 3 ---
-5) Depreciation to be charged on plant & machinery (10%), furniture (12%)
-6) Interest on capital is to be charged at 5%.
-
-Q1)(b) Explain the concept of Going Concern and Dual concept. (5 marks)
-
-SECTION 11
-
-Q2) On 1/1/2007 Lakshmi and company purchased a imported Machine from the cost of the
-
-machine is Rs 12,00,000 and import duty of Rs 2,50,000 and installation charges 25,000.
-On 1/6/2008 purchased a machine for Rs 1,00,000 and incurred installation cost of Rs
-25,000.
-
-On 1/8/2009 the company purchased another machine for Rs 3,00,000 and the machinery
-purchased on 1/1/2007 was sold for Rs 5,00,000.
-
-n account for 2007, 2008, 2009 assuming that
-
-lance method at 15%. Assume the year to be
-(10 marks)
-
-Prepare machinery account and depreciatio
-depreciation is charged on Diminishing ba
-Calendar year
-
-Q3) On 31st March, 2010, the Cash Book of Shri Girdhar Chandak showed a balance of Rs.
-14,000, but the Bank Pass Book showed a different balance. On comparing the Cash Book with
-the Pass Book, the following discrepancies were noticed. (10 marks)
-
-1. Cheques of Rs. 300, Rs. 200 were issued on 25th March, 2010; but both the cheques were
-
-presented for payment on Sth April, 2010.
-
-2. Cheques of Rs. 600 received from the customer:
-collected on Ist April, 2010.
-
-3. Mr. Trustworthy directly deposited Rs 300 into
-was made in the Cash Book on 4th April, 2010.
-
-4. The Bank has debited the Pass Book by Rs. 10 for Bank charges. The corresponding entry
-of the same was not found in the Cash Book.
-
-Prepare a Bank Reconciliation Statement as on 31st March, 2010.
-
-s were paid into the Bank, but they were
-
-the Bank Account, the entry of the same
-
-Q4) Prepare a stores ledger from the following transaction assuming that issue of stores have
-been made on Principle of FIFO basis.
-
-2009
-January 2 : Purchased 2000 units at Rs 4.00 per unit
-
-January 20: Purchased 250 units at Rs 5.00 per unit
-
-February 5: Issued 1000 units
---- page 4 ---
-February 10: Purchased 3000 units at Rs 6.00 per unit
-February 12 : Issued 2000 units
-March 2 : Issued 500 units
-
-March 5: Issued 1000 units
-March 15 : Purchased 2250 units at Rs 5.50 unit
-
-March 20: Issued 1500 units
-
-A stock verifier of the factory noted that on 15" February he had found a excess of
-
-March 10 there was excess 10 units.
-
-If the market value is 2.5, find out the value of stock.
-Q5 ) (a) Explain methods of depreciation
-
-(b) Explain the causes of Depreciation
-
-5 units and
-(10 marks)
-
-(10 marks)
-
-a/4
 ````

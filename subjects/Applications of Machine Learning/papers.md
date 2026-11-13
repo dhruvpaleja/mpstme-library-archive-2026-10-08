@@ -4,20 +4,6 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2025-26 · Final-Exam · Sem 6 · Dataset · paper f1665ce5cdc6
-
-- Departments: Data Science
-- Programmes: BTech DS 7009
-- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_DS_7009/Applications of Machine Learning/data_set_Applications of Machine Learning(702DB0C025)_2025-2026.xlsx`
-- Text: none (spreadsheet data set; no question text)
-
-## 2025-26 · Final-Exam · Sem 6 · Dataset · paper ab42cd7f1d54
-
-- Departments: Data Science
-- Programmes: Integrated DS 7038, MBATech DS 7052
-- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_DS_7052/Applications of Machine Learning/data_set_Applications of Machine Learning(702DB0C025)_2025-2026.xlsx` (+3 identical copies)
-- Text: none (spreadsheet data set; no question text)
-
 ## 2025-26 · Final-Exam · Sem 6 · paper 1517b5493a50
 
 - Departments: Data Science
@@ -218,6 +204,20 @@ BL-2
 ii) Boosting machine learning models
 ********** 2 **********
 ````
+
+## 2025-26 · Final-Exam · Sem 6 · Dataset · paper f1665ce5cdc6
+
+- Departments: Data Science
+- Programmes: BTech DS 7009
+- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_DS_7009/Applications of Machine Learning/data_set_Applications of Machine Learning(702DB0C025)_2025-2026.xlsx`
+- Text: none (spreadsheet data set; no question text)
+
+## 2025-26 · Final-Exam · Sem 6 · Dataset · paper ab42cd7f1d54
+
+- Departments: Data Science
+- Programmes: Integrated DS 7038, MBATech DS 7052
+- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_DS_7052/Applications of Machine Learning/data_set_Applications of Machine Learning(702DB0C025)_2025-2026.xlsx` (+3 identical copies)
+- Text: none (spreadsheet data set; no question text)
 
 ## 2025-26 · Re-Exam · Sem 6 · paper 22d7fc7462dd
 
@@ -602,6 +602,156 @@ based on the evaluation metric.
 [30]
 ````
 
+## 2023-24 · Exam not stated · Sem 6 · paper 5f4e2deec596
+
+- Departments: Data Science
+- Programmes: MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM VI/Applications of Machine Learning/Applications of Machine Learning.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 88.5
+
+````text
+SVKM’S NMIMS /
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& Bi (GC
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Programs: MBA Tech Year: II] Semester: VI
+
+Stream/s ; Data Science
+
+Subject: Applications of Machine Learning te Time: 03 hrs (2pm to Spar_)
+Date:_193 /Apa/ 2024 No. of Pages: 3
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the TISieGkins printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+a
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any 4 __ questions.
+3) Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. .
+8) When given a choice, you may use any model from Sci-kit Learn library.
+9) Include plots wherever necessary.
+10) Mention insights and observations after every section.
+11) Failing to load datasets or generator functions using the specifications mentioned in the question paper will
+incur severe penalty.
+
+Mapping , Questions Marks
+_ Explain the steps involved in dealing with a text classification problem. Also
+@ | COL 50-1, Ql comment on Evaluation metrics and how ROC AUC score helps in [20]
+BL-2 ‘
+
+evaluating a model.
+Using the provided generator function generate and load a classification
+dataset.
+a) Perform pre-processing, feature engineering and EDA.
+b) Fit at least 2 models from and compare their performance.
+c) Score the models using appropriate metrics.
+CO-3; SO-2; Q2 | - d) Comment on the comparison of the models on the basis of [20]
+BL-3 performance.
+Code — :
+import pandas as pd
+from sklearn.datasets import make_blobs
+
+# Generate dataset
+--- page 2 ---
+xX, y = make_blobs(n_samples=4000, centers=3, ¥
+random state=42) ;
+# .... Proceed with mentioned tasks
+
+Create and load a Clustering dataset using the provided generator function.
+a) Perform pre-processing, feature engineering and EDA.
+b) Score the model using appropriate metrics.
+c) Plot the clusters to see quality of model.
+d) Comment on the quality of clusters by using that plot.
+
+Code —
+CO-3; SO-2; Q3 | import pandas as pd [20]
+BL-3 import numpy as np ,
+
+import matplotlib.pyplot as plt™
+from sklearn.datasets import make_hastie_10 2
+
+# Generate clustering dataset : age tatty S37. oe :
+X, = make_hastie_10_2(n_samples=1000, random state=42).
+# .... Proceed with mentioned tasks: — ; on 3
+
+Perform Regression tasks using the provided generator function to create
+a dataset.
+a) Perform pre-processing, feature engineering and EDA.
+b) Fit at least 2 models from and compare their performance.
+c) Score the models using appropriate metrics.
+CO-3; SO-2; Code —
+BL-3 Q4 import pandas as pd sii pies punts fayeitial nacsiakes gh Th [20]
+from sklearn.datasets import make regression i
+
+# Generate regression dataset
+
+X, y = make_regression(n_samples=5000, n_features=5,
+noise=0.3, random_state=42)
+
+# .... Proceed with mentioned tasks
+
+Using the provided generator function create a Classification dataset.
+a) Perform pre-processing, feature engineering and EDA.
+b) Fit one ML model and score it using appropriate metrics.
+c) Then conduct Grid Search to do Hyperparameter optimization.
+d) Track the Accuracy and F1 score before and after Grid search to
+CO-3; SO-2; find the impact of Grid Search.
+BL-3 Qs Code — [20]
+import numpy as np
+from sklearn.datasets import make_moons
+from sklearn.model_selection import train test, split,
+GridSearchCv
+
+# Generate dataset
+--- page 3 ---
+X, y = make_moons(n_samples=4000, noise=0.3,-
+random_state=42)
+# 1... Proceed with mentioned tasks
+
+Using the provided generator function create and load a Regression
+dataset.
+a) Perform pre-processing, feature engineering and EDA.
+b) Fit at least 2 models from and compare their performance.
+c) Score the models using appropriate metrics. Comment on the
+model performance.
+
+CO-3; SO-2; 06 Code — [20]
+BL-3 import numpy as np 5
+from sklearn.datasets import make_friedman2
+# Generate regression dataset using make_friedman2
+xX, y= make_friedman2 (n_samples=4000, noise=0.1,
+random_state=42) . ;
+# = .... Proceed with mentioned tasks
+Load the following Sci-kit Learn dataset mentioned in the code.
+a) Load and drop the supervised column.
+b) Perform EDA and Fit a Clustering model.
+c) Score and compare the model using appropriate metrics.
+d) Plot the clusters created by the Clustering algorithm.
+Code —
+CO-3; SO-2; import. pandas as pd
+BL-3 Q7 import numpy as np [20]
+
+import matplotlib.pyplot as plt
+from sklearn.datasets import load_iris
+
+# Load Iris dataset
+iris = load_iris()
+X = iris.data
+
+y = iris.target
+````
+
 ## 2023-24 · Re-Exam · Sem 6 · paper a7d7a900811f
 
 - Departments: Data Science
@@ -844,154 +994,4 @@ ii) Perform data preprocessing and EDA
 Oo eee y For question 6, train any 2 regression models. 20
 
 \
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 5f4e2deec596
-
-- Departments: Data Science
-- Programmes: MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM VI/Applications of Machine Learning/Applications of Machine Learning.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 88.5
-
-````text
-SVKM’S NMIMS /
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& Bi (GC
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Programs: MBA Tech Year: II] Semester: VI
-
-Stream/s ; Data Science
-
-Subject: Applications of Machine Learning te Time: 03 hrs (2pm to Spar_)
-Date:_193 /Apa/ 2024 No. of Pages: 3
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the TISieGkins printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-a
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any 4 __ questions.
-3) Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. .
-8) When given a choice, you may use any model from Sci-kit Learn library.
-9) Include plots wherever necessary.
-10) Mention insights and observations after every section.
-11) Failing to load datasets or generator functions using the specifications mentioned in the question paper will
-incur severe penalty.
-
-Mapping , Questions Marks
-_ Explain the steps involved in dealing with a text classification problem. Also
-@ | COL 50-1, Ql comment on Evaluation metrics and how ROC AUC score helps in [20]
-BL-2 ‘
-
-evaluating a model.
-Using the provided generator function generate and load a classification
-dataset.
-a) Perform pre-processing, feature engineering and EDA.
-b) Fit at least 2 models from and compare their performance.
-c) Score the models using appropriate metrics.
-CO-3; SO-2; Q2 | - d) Comment on the comparison of the models on the basis of [20]
-BL-3 performance.
-Code — :
-import pandas as pd
-from sklearn.datasets import make_blobs
-
-# Generate dataset
---- page 2 ---
-xX, y = make_blobs(n_samples=4000, centers=3, ¥
-random state=42) ;
-# .... Proceed with mentioned tasks
-
-Create and load a Clustering dataset using the provided generator function.
-a) Perform pre-processing, feature engineering and EDA.
-b) Score the model using appropriate metrics.
-c) Plot the clusters to see quality of model.
-d) Comment on the quality of clusters by using that plot.
-
-Code —
-CO-3; SO-2; Q3 | import pandas as pd [20]
-BL-3 import numpy as np ,
-
-import matplotlib.pyplot as plt™
-from sklearn.datasets import make_hastie_10 2
-
-# Generate clustering dataset : age tatty S37. oe :
-X, = make_hastie_10_2(n_samples=1000, random state=42).
-# .... Proceed with mentioned tasks: — ; on 3
-
-Perform Regression tasks using the provided generator function to create
-a dataset.
-a) Perform pre-processing, feature engineering and EDA.
-b) Fit at least 2 models from and compare their performance.
-c) Score the models using appropriate metrics.
-CO-3; SO-2; Code —
-BL-3 Q4 import pandas as pd sii pies punts fayeitial nacsiakes gh Th [20]
-from sklearn.datasets import make regression i
-
-# Generate regression dataset
-
-X, y = make_regression(n_samples=5000, n_features=5,
-noise=0.3, random_state=42)
-
-# .... Proceed with mentioned tasks
-
-Using the provided generator function create a Classification dataset.
-a) Perform pre-processing, feature engineering and EDA.
-b) Fit one ML model and score it using appropriate metrics.
-c) Then conduct Grid Search to do Hyperparameter optimization.
-d) Track the Accuracy and F1 score before and after Grid search to
-CO-3; SO-2; find the impact of Grid Search.
-BL-3 Qs Code — [20]
-import numpy as np
-from sklearn.datasets import make_moons
-from sklearn.model_selection import train test, split,
-GridSearchCv
-
-# Generate dataset
---- page 3 ---
-X, y = make_moons(n_samples=4000, noise=0.3,-
-random_state=42)
-# 1... Proceed with mentioned tasks
-
-Using the provided generator function create and load a Regression
-dataset.
-a) Perform pre-processing, feature engineering and EDA.
-b) Fit at least 2 models from and compare their performance.
-c) Score the models using appropriate metrics. Comment on the
-model performance.
-
-CO-3; SO-2; 06 Code — [20]
-BL-3 import numpy as np 5
-from sklearn.datasets import make_friedman2
-# Generate regression dataset using make_friedman2
-xX, y= make_friedman2 (n_samples=4000, noise=0.1,
-random_state=42) . ;
-# = .... Proceed with mentioned tasks
-Load the following Sci-kit Learn dataset mentioned in the code.
-a) Load and drop the supervised column.
-b) Perform EDA and Fit a Clustering model.
-c) Score and compare the model using appropriate metrics.
-d) Plot the clusters created by the Clustering algorithm.
-Code —
-CO-3; SO-2; import. pandas as pd
-BL-3 Q7 import numpy as np [20]
-
-import matplotlib.pyplot as plt
-from sklearn.datasets import load_iris
-
-# Load Iris dataset
-iris = load_iris()
-X = iris.data
-
-y = iris.target
 ````

@@ -1,10 +1,10 @@
 # Introduction to App Development: question papers in full
 
-1 unique papers · years not stated · Common (all branches)
+1 unique papers · 2021-22 to 2021-22 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## Year not stated · Exam not stated · Sem 8 · paper 271afa5ec68a
+## 2021-22 · Exam not stated · Sem 8 · paper 271afa5ec68a
 
 - Departments: Common (all branches)
 - Programmes: B TECH

@@ -1270,7 +1270,7 @@ d) Brainstorming
 e) Laizzez-faire leader
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper 2fd2387d724e
+## 2014-15 · Re-Exam · Sem 6 · paper 2fd2387d724e
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL

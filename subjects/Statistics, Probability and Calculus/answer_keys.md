@@ -220,6 +220,7 @@ FIC DI EH ar
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CSBS_7036/Statistics, Probability & Calculus/ANS_Statistics, Probability & Calculus(702BS0C023)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (6 pages), mean OCR confidence 71.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -266,7 +267,6 @@ c | k=1/9 2M
 3 2M
 ® 1p3_, 1| x? 1/81] 9
 ELX] =| xf (x)de =—]} xd =—| —] ==} — ]=—
-LY]= [fc Oode =o], eI 32 4 ou
 aa 1p fx |) 1f243]. 27
 ELX?] =|) x? fy (x)de =—| xtde =—| —]) =- =—
 ie) l. fC) of, eal 52 | 5
@@ -435,12 +435,13 @@ FIC 6 I HF
 - Programmes: BTech CSBS 7036
 - Source: `02_Question_Papers/2022/Sem_01/Re-Exam/BTech_CSBS_7036/Statistics, Probability & Calculus/ANS_Statistics, Probability & Calculus(702BS0C023)_2022-2023.pdf` (+1 identical copies)
 - Text: mixed (6 pages), mean OCR confidence 35.5
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 sere pie. EB
 
 Program: Blech Shear: 66S Yeas! TS gem! X
-cab + SHectishes, Foobobilthy A€alculun — Twe ! shoo,
 
 Matt, . [oo NO, by Fags: & ,
 Qo EXO hr (202222, 202 RA
@@ -496,7 +497,6 @@ Ztr = 303 (5) -\ Warnance. = Bie _(a~ — (1m)
 
 i ~ Ltt 230.2 (im): _ 100S= (30-2)"
 (x) Nean 5 ; AE * eS
-: # gheleca dovinboni 2 i" = G, 63 (app dan)
 WLC: ag Tam)"
 re icee>)
 is: = ‘ponent
@@ -513,7 +513,6 @@ a
 > {Owes ci Som =a (gm) of 2-5-3)
 216
 --- page 3 ---
-O.3.b. elxa)e\, Elx-Ade 4, Hx Wel0. eld) 4s
 
 etx) el, EES. __ (2m)
 

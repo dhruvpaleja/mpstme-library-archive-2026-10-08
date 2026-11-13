@@ -14,21 +14,21 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech AI 7051 | QP_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052 | ANS_Management of Technology and Innovation(703TG0C013)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBA TECH | Management of Technology and Innovation, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052 | QP_Management of Technology and Innovation(703TG0C013)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052 | ANS_Management of Technology and Innovation(703TG0C013)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 9 | MBA TECH | Mgmt of Technology & Innovation,Final 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 9 | MBA TECH | Mgmt of Technology & Innovation , Re-exam 2023-24.pdf |
 | 2015-16 | — | Question paper |  | MBA TECH | Management of Technology & Innovation Batch 2015-16 Fina.pdf |

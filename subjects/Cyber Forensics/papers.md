@@ -1076,6 +1076,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/CYBER FORENSICS/Cyber Forensics, Sem-VII, Batch 2024-25, Re Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (2 pages), mean OCR confidence 87.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1138,7 +1139,6 @@ Q3 [20]
 How can you ensure a subject’s computer boots to a forensic
 
 -2: SO-3: BL- a. [10]
-hese Els floppy disk or CD?
 CO-1; SO-2; BL-1 b. | What are some of the components of a disk drive? [10]
 O4 [20]
 

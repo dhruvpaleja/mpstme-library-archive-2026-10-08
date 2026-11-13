@@ -16,11 +16,11 @@ Also filed as: `COSTRUCTION PROJECT MANAGEMENT AND FINANCE`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Construction Project Management and Finance(702CI0C024)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | Construction Project Management and Finance, Sem-VII, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Civil 7005 | QP_Construction Project Management and Finance(702CI0C024)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Construction Project Management and Finance(702CI0C024)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Construction Project Management and Finance(702CI0C024)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech Civil 7005 | QP_Construction Project Management and Finance(702CI0C024)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Construction Project Management and Finance(702CI0C024)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 7, Sem 11 | B TECH / CIVIL, B.TECH INTEGRATED / CIVIL, MBA TECH / CIVIL | Construction Project Management and Finance Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 7 | MBA TECH / CIVIL | Construction Project Mgmt & Finance , Final exam 2024-25, Re-exam 2023-24.PDF [1] |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / CIVIL | Construction Project Management and Finance, Sem-VII, Batch 2023-24 & 2024-25, Re Exam.pdf |

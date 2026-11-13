@@ -16,8 +16,8 @@ Also filed as: `EMBEDDED SYSTEMS DESIGN`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Embedded System Design(702EX0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech EXTC 7006 | QP_Embedded System Design(702EX0E008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Embedded System Design(702EX0E008)_2025-2026.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | B TECH / EXTC | Embedded Systems Design, Sem-VI, Year 2024-25 Re Exam.pdf |
 | 2022-23 | — | Question paper | Sem 6 | MBA TECH / EXTC | Embedded system Design,2022-23.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 1 | M TECH / EXTC | Embedded System Design 2016-17 Final.pdf |

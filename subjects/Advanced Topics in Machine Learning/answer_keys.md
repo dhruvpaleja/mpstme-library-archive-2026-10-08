@@ -2254,6 +2254,7 @@ v.   Effectiveness.
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_AIML_7053/Advanced Topics in Machine Learning/ANS_Advanced Topics in Machine Learning(702AI0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Jul 2026
 - Text: mixed (18 pages), mean OCR confidence 70.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2564,7 +2565,6 @@ a [| features vertex:
 fl in| 9 ee
 
 Anal ial Model user-item interactions and
-; pee eee ; make personalised
 relationships, interactions recommendations
 
 and recommend content
@@ -2705,6 +2705,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_AI_7012/Advanced Topics in Machine Learning/ANS_Advanced Topics in Machine Learning(702AI0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Jul 2026
 - Text: mixed (18 pages), mean OCR confidence 70.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3015,7 +3016,6 @@ a [| features vertex:
 fl in| 9 ee
 
 Anal ial Model user-item interactions and
-; pee eee ; make personalised
 relationships, interactions recommendations
 
 and recommend content
@@ -3156,6 +3156,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/MBATech_AI_7051/Advanced Topics in Machine Learning/ANS_Advanced Topics in Machine Learning(702AI0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Jul 2026
 - Text: mixed (18 pages), mean OCR confidence 70.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3466,7 +3467,6 @@ a [| features vertex:
 fl in| 9 ee
 
 Anal ial Model user-item interactions and
-; pee eee ; make personalised
 relationships, interactions recommendations
 
 and recommend content
@@ -4382,6 +4382,7 @@ and robustness in real-world banking fraud detection systems.
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/BTech_AI_7012/Advanced Topics in Machine Learning/ANS_Advanced Topics in Machine Learning(702AI0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Jul 2026
 - Text: mixed (18 pages), mean OCR confidence 70.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4692,7 +4693,6 @@ a [| features vertex:
 fl in| 9 ee
 
 Anal ial Model user-item interactions and
-; pee eee ; make personalised
 relationships, interactions recommendations
 
 and recommend content

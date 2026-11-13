@@ -187,6 +187,7 @@ ad Q:7
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/FLEXIBLE MANUFACTURING SYSTEMS/FLEXIBLE_MANUFACTURING_SYSTEMS_B TECH (MECHATRONICS), 2018-19 FINAL_EXAM.pdf`
 - Printed on paper: exam date: 16 November 2018
 - Text: ocr (2 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -267,7 +268,6 @@ jobs, minimum time, required to process these jobs and the idle time for each of
 
 machines
 Jobs
-A B Cc D E F
 Mi ; 15 8 6 14 6 26
 M2 17 7 9 10 15 12
 M3 21 7 12 9 11 19

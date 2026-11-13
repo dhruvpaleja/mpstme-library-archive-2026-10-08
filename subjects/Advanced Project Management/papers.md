@@ -137,6 +137,201 @@ Based on the case, explain how culture impacts leadership and motivation.
 ********** 3 **********
 ````
 
+## 2023-24 · Exam not stated · Sem 10 · paper cef70aee89ca
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/ADVANCED PROJECT MANAGEMENT/Advanced Project Management.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’S NMIMS i[s
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT \
+Academic Year: 2023-2024
+
+Program/s: MBA Tech Year: V Semester: X
+
+Stream/s All .
+
+Subject: Advanced Project Management ' Time: 2 hrs (/02 coapto /2neor )
+Date:_24 / 4/2024 No. of Pages:2
+
+Marks: 50
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any _4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [10]
+0-4; SO- a. Explain the process of building an international team at the start of a
+‘BL- project, including steps for recruitment, onboarding, communication, and | 3
+Understa team building.
+nd
+™ | CO-3;SO- | b. : ; ‘i F
+2 Compare and contrast the roles of a project manager in traditional project
+; 3
+BL- management versus Agile project management.
+Evaluate
+CO-2 ; SO- | ¢ Discuss the significance of benefits management in program management.
+; Provide an example of how effective benefits management contributes to | 2
+BL-
+Evaluate organizational success.
+CO-2 ; SO- | d.
+3 What are some of the challenges organizations may ‘face when
+2
+BL- 4 '
+Apullenitio implementing Project Portfolio Management (PPM)?
+n
+--- page 2 ---
+Q2
+
+Discuss the challenges and advantages of distributed Agile teams. How
+
+CO-4; SO-
+; can organizations effectively manage and support distributed Agile teams | [10]
+al to maximize their performance and collaboration?
+Understa
+nd
+Q3 . . . : . :
+Outline the key competencies required for an international project
+Cco-4; SO- . . : ,
+- BL- manager, and explain how these competencies contribute to project [10]
+Knowledg success in a global context.
+e
+Q4
+CO-3; SO- What are the five phases of the program life cycle, and what are the key
+‘BL- activities and deliverables associated with each phase? Provide an [10]
+Knowledg example to illustrate the activities carried out in each phase.
+e
+Q5
+CO-3: SO- Discuss the roles and responsibilities of a Portfolio Manager in managing
+F a portfolio of projects with an organization. How does the portfolio
+BL- [10]
+manager optimize the resource allocation and prioritize projects to align
+Compreh
+P with strategic objectives?
+ension
+Q6
+CO-2; SO- Describe the Theory of Constraints (TOC) in detail, including its
+‘BL: fundamental principles, five focusing steps, and applications in [10]
+Compreh organizational management.
+ension
+Qq7 Compare and contrast project management maturity with project
+CO-1; SO- excellence. How do these concepts relate to each other, and how do they [10}
+; 1
+BL- contribute to organizational success? Provide examples to support your
+Evaluate arguments.
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper 291876e88748
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/ADVANCED PROJECT MANAGEMENT/Advanced Project Management_291876e887.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+SVKM’S NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech STREAM-ALL Year: V Semester: X
+Subject: Advanced Project Management Time: O02 hrs (2! 20 pmto 44400 pm)
+Date:_04 /05/23 : No. of Pages: 2
+
+Marks: 50
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any_4 __ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: {10 marks]
+CO- 3; a.
+Be estan Explain portfolio life cycle. 3 marks
+d|L
+“> | CO- 1; b.
+BL- Discuss short term and long term benefits of a standard methodology in 3 marks
+Understan Project management.
+d|M
+CO-4; e,
+BL-Apply Determine the necessities of building an international project team. 4 marks
+[L
+Q2 :
+Evaluate the definition of success considering the broader framework.
+CO-1; Apart from traditional triple constraints of Project management, what are | [0 marks]
+BL- the secondary success factors that enhance the definition of success?
+Analyse | Explain with examples.
+H
+Q3 Explain program benefits management. If you are a program manager of
+CO-3; an ecommerce company, discuss various benefits management steps with [10 marks]
+BL- important considerations in each phase.
+
+-|-
+--- page 2 ---
+Evaluate |
+
+H
+Q4
+CO-4;
+BL- Discuss various agile project management methods. How does agile differ [10 marks]
+ss : ices?
+Understan from traditional project management practices?
+d|M
+Q5
+CO-2;
+BL- Explain Critical chain and constraints of CCPM method. Assess various [10 marks] _|
+Remembe buffers and their use in timely completion of any project.
+r|M
+Q6
+CO-4; ce is . .
+BL- Managing international teams is an art that needs to be mastered for
+successful projects”. Discuss the challenges of managing international [10 marks]
+Evaluate | projects. Evaluate various leadership types/styles with benefits of each.
+M
+Q7
+CO-1; “Project management in present scenarios is not based only on triple
+BL- constraints but is a lot more.” Compare and contrast the differences [10 marks]
+between traditional project management and strategic project management
+Evaluate | :
+of current times.
+M
+
+a
+````
+
 ## 2021-22 · Final-Exam · Sem 10 · paper 08db708210f3
 
 - Departments: Common (all branches)
@@ -565,199 +760,4 @@ critical
 
 5] Project activity networks drawn under AOA and Aon conventions , if crashed to
 the maximum, give different project durations .
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper cef70aee89ca
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/ADVANCED PROJECT MANAGEMENT/Advanced Project Management.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS i[s
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT \
-Academic Year: 2023-2024
-
-Program/s: MBA Tech Year: V Semester: X
-
-Stream/s All .
-
-Subject: Advanced Project Management ' Time: 2 hrs (/02 coapto /2neor )
-Date:_24 / 4/2024 No. of Pages:2
-
-Marks: 50
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any _4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [10]
-0-4; SO- a. Explain the process of building an international team at the start of a
-‘BL- project, including steps for recruitment, onboarding, communication, and | 3
-Understa team building.
-nd
-™ | CO-3;SO- | b. : ; ‘i F
-2 Compare and contrast the roles of a project manager in traditional project
-; 3
-BL- management versus Agile project management.
-Evaluate
-CO-2 ; SO- | ¢ Discuss the significance of benefits management in program management.
-; Provide an example of how effective benefits management contributes to | 2
-BL-
-Evaluate organizational success.
-CO-2 ; SO- | d.
-3 What are some of the challenges organizations may ‘face when
-2
-BL- 4 '
-Apullenitio implementing Project Portfolio Management (PPM)?
-n
---- page 2 ---
-Q2
-
-Discuss the challenges and advantages of distributed Agile teams. How
-
-CO-4; SO-
-; can organizations effectively manage and support distributed Agile teams | [10]
-al to maximize their performance and collaboration?
-Understa
-nd
-Q3 . . . : . :
-Outline the key competencies required for an international project
-Cco-4; SO- . . : ,
-- BL- manager, and explain how these competencies contribute to project [10]
-Knowledg success in a global context.
-e
-Q4
-CO-3; SO- What are the five phases of the program life cycle, and what are the key
-‘BL- activities and deliverables associated with each phase? Provide an [10]
-Knowledg example to illustrate the activities carried out in each phase.
-e
-Q5
-CO-3: SO- Discuss the roles and responsibilities of a Portfolio Manager in managing
-F a portfolio of projects with an organization. How does the portfolio
-BL- [10]
-manager optimize the resource allocation and prioritize projects to align
-Compreh
-P with strategic objectives?
-ension
-Q6
-CO-2; SO- Describe the Theory of Constraints (TOC) in detail, including its
-‘BL: fundamental principles, five focusing steps, and applications in [10]
-Compreh organizational management.
-ension
-Qq7 Compare and contrast project management maturity with project
-CO-1; SO- excellence. How do these concepts relate to each other, and how do they [10}
-; 1
-BL- contribute to organizational success? Provide examples to support your
-Evaluate arguments.
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper 291876e88748
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/ADVANCED PROJECT MANAGEMENT/Advanced Project Management_291876e887.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’S NMIMS :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech STREAM-ALL Year: V Semester: X
-Subject: Advanced Project Management Time: O02 hrs (2! 20 pmto 44400 pm)
-Date:_04 /05/23 : No. of Pages: 2
-
-Marks: 50
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any_4 __ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: {10 marks]
-CO- 3; a.
-Be estan Explain portfolio life cycle. 3 marks
-d|L
-“> | CO- 1; b.
-BL- Discuss short term and long term benefits of a standard methodology in 3 marks
-Understan Project management.
-d|M
-CO-4; e,
-BL-Apply Determine the necessities of building an international project team. 4 marks
-[L
-Q2 :
-Evaluate the definition of success considering the broader framework.
-CO-1; Apart from traditional triple constraints of Project management, what are | [0 marks]
-BL- the secondary success factors that enhance the definition of success?
-Analyse | Explain with examples.
-H
-Q3 Explain program benefits management. If you are a program manager of
-CO-3; an ecommerce company, discuss various benefits management steps with [10 marks]
-BL- important considerations in each phase.
-
--|-
---- page 2 ---
-Evaluate |
-
-H
-Q4
-CO-4;
-BL- Discuss various agile project management methods. How does agile differ [10 marks]
-ss : ices?
-Understan from traditional project management practices?
-d|M
-Q5
-CO-2;
-BL- Explain Critical chain and constraints of CCPM method. Assess various [10 marks] _|
-Remembe buffers and their use in timely completion of any project.
-r|M
-Q6
-CO-4; ce is . .
-BL- Managing international teams is an art that needs to be mastered for
-successful projects”. Discuss the challenges of managing international [10 marks]
-Evaluate | projects. Evaluate various leadership types/styles with benefits of each.
-M
-Q7
-CO-1; “Project management in present scenarios is not based only on triple
-BL- constraints but is a lot more.” Compare and contrast the differences [10 marks]
-between traditional project management and strategic project management
-Evaluate | :
-of current times.
-M
-
-a
 ````

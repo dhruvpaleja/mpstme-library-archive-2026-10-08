@@ -380,152 +380,6 @@ challenges and justify your reasoning with examples.
 ********** 3 **********
 ````
 
-## 2025-26 · Final-Exam · Sem 7 · paper f0e767ea1b29
-
-- Departments: Information Technology
-- Programmes: BTech IT 7001, MBATech IT 7041
-- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_IT_7001/Advanced Database Management Systems/QP_Advanced Database Management Systems(702IT0E026)_2025-2026.docx` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: docx (1 page)
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-|
-Program: B. Tech   Stream: IT/COMPS/DS
-| Year: IV Semester: VII
-|
-Subject: Advanced Database Management Systems
-| Time: 3 hrs (______to_______)
-|
-Date:   /   / 2024
-| No. of Pages: 3
-|
-Marks: 100
-|
-|
-Final Examination
-|
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1
-
-|
-| Answer briefly:
-| [20]
-|
-CO1.
-BL- 5
-| a.
-| A financial institution needs a database structure to accurately track client investments. The fundamental object in the system is Security, which is defined by a unique Security ID, its Name, and its current Market Price. Securities are categorized as either Stock or Bond, though not every Security needs to fall into one of these two classifications. Furthermore, a Security cannot be both a Stock and a Bond. Stock entities are detailed with a Ticker Symbol and a Price-to-Earnings Ratio. Bond entities, conversely, are described by a Maturity Date and a Coupon Rate. Separately, all Stocks are further broken down into two types: Preferred Stock and Common Stock. Every Stock must be one of these two types, but never both. Preferred Stock includes a Dividend Rate, while Common Stock includes a Voting Rights Flag. The institution also tracks its clients, each identified by a unique Client ID, an Address, and a Risk Tolerance Level. In the system, every Security must belong to exactly one Client's portfolio, and a Client must have at least one Security in their portfolio, although a client will often hold many Securities.
-Design EER for above scenario. Draw EER for the above problem statement.
-| [5]
-|
-CO2.
-BL- 4
-| b.
-| Apply type constructors to model a Department that has a name, number, manager, a set of locations, and a set of employees. Specify suitable constructors and justify briefly.
-| [5]
-|
-CO4. BL-2
-| c.
-| Explain   the role of replication in distributed databases. How does synchronous replication ensure consistency compared to asynchronous replication
-| [5]
-|
-CO3.
-BL-2
-| d.
-| Compare XML Schema and DTD and analyze how XML Schema overcomes the limitations of DTD in defining structured data.
-| [5]
-|
-Q2
-CO1; BL-1
-| a.
-| Explain the difference between the Disjoint and Overlapping   constraints in a specialization. If a specialization hierarchy is both Total and Disjoint, what is the exact number of subclasses that every entity in the superclass must belong to, justify with example?
-| [10]
-|
-Q2
-CO2; BL-3
-| b.
-| Describe the purpose of each section (DECLARE, BEGIN, EXCEPTION, END) of a standard PL/SQL block. Design a single PL/SQL block that demonstrates both a predefined exception (NO_DATA_FOUND) and a user-defined exception
-| [10]
-|
-Q3
-CO3, BL-4
-| a.
-| Design an XML schema for an Online Shopping System that manages data for Customers, Orders, Products, and Payments. Include elements for order details, product descriptions, and customer information with attributes such as order ID and payment status.
-| [10]
-|
-Q3
-CO4; BL-3
-| b.
-| Analyze the roles of valid time and transaction time in temporal databases and evaluate how bitemporal modeling resolves limitations of single-time designs. Use a brief example from banking or healthcare to show lifecycle tracking of historical data.
-| [10]
-|
-Q4
-CO3, BL3
-| a.
-| Discuss the concept of encapsulation and tell how it is used to create abstract data types in object-oriented databases with example.
-| [10]
-|
-Q4
-CO4; BL-3
-| b.
-| Analyze how the Voting-based concurrency control method enhances fault tolerance compared to the Primary Site technique in a distributed database system
-| [10]
-|
-Q5
-CO4, BL-3
-| a.
-| How inter-query and intra-query parallelism improve performance in large-scale database environments. Discuss the trade-offs and implementation challenges.
-| [10]
-|
-Q5
-CO3;BL-4
-| b.
-| A university course management system maintains records of courses, students, and their prerequisites. Each course has attributes such as courseCode, courseTitle, creditHours, and description. Students have attributes including studentID, name, email, and major. A student can enroll in multiple courses, but certain courses have prerequisites that must be completed before enrollment. The system also tracks the semester in which the student enrolls in a course.   Instructions: Develop an ODL schema for the university course management system.
-| [10]
-|
-Q6
-CO4; BL-3
-| a.
-| . What are key features of NoSQL? In which situation will NoSQL database not be suitable to implement?
-| [10]
-|
-Q6
-CO2, BL-4
-| b.
-| Sample Clerk table (CL_ID, First_name, Department_name, Salary, Designation)
-Create a PL/SQL procedure called percentage_salary to update Clerks data
-The procedure has two parameters: IN_CL_ID and IN_PERCENT.
-The procedure adjusts the salary of a particular Clerk specified the IN_CL_ID by a given percentage IN_PERCENT. (salary + salary * in_percent / 100)
-In the procedure body, we use the UPDATE statement to update the salary information.
-Test the procedure with CL_ID = 175 and IN_PERCENT = 10%
-| [10]
-|
-Q7
-CO4; BL-3
-| a.
-| Explain the Active Database concepts in detail. Discuss the Event-Condition-Action (ECA) model, its components, and how it enhances traditional database systems. Give suitable examples of real-world applications where Active Databases are beneficial.
-| [10]
-|
-Q7
-CO4; BL-3
-| b.
-| Explain issues in RDBMS such as impedance mismatch, schema inflexibility, and scalability limitations. Suggest suitable database that can overcome these challenges and justify your reasoning with examples.
-| [10]
-|
-````
-
 ## 2025-26 · Final-Exam · Sem 7 · paper ee14fcce13c4
 
 - Departments: Information Technology
@@ -786,6 +640,7 @@ BL-2,4
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/ADVANCED DATABASE MANAGEMENT SYSTEMS/Advanced Database Management Systems, Year 2025-26, Final Exam.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; exam date: 04 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -923,7 +778,6 @@ CO4; BL-3 :
 
 challenges and justify your reasoning with examples.
 
-FERC GR GK ok aa aC air
 ````
 
 ## 2025-26 · Re-Exam · Sem 7 · paper 6edcee078250
@@ -1874,6 +1728,152 @@ CO 4; SO-   b Discuss an application which following architecture is most suitab
 1;BL-2
 Central Database, Parallel DBMS, Distributed DBMS.
 ********** 3 **********
+````
+
+## 2024-25 · Final-Exam · Sem 7 · paper f0e767ea1b29
+
+- Departments: Information Technology
+- Programmes: BTech IT 7001, MBATech IT 7041
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_IT_7001/Advanced Database Management Systems/QP_Advanced Database Management Systems(702IT0E026)_2025-2026.docx` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: docx (1 page)
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+|
+Program: B. Tech   Stream: IT/COMPS/DS
+| Year: IV Semester: VII
+|
+Subject: Advanced Database Management Systems
+| Time: 3 hrs (______to_______)
+|
+Date:   /   / 2024
+| No. of Pages: 3
+|
+Marks: 100
+|
+|
+Final Examination
+|
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1
+
+|
+| Answer briefly:
+| [20]
+|
+CO1.
+BL- 5
+| a.
+| A financial institution needs a database structure to accurately track client investments. The fundamental object in the system is Security, which is defined by a unique Security ID, its Name, and its current Market Price. Securities are categorized as either Stock or Bond, though not every Security needs to fall into one of these two classifications. Furthermore, a Security cannot be both a Stock and a Bond. Stock entities are detailed with a Ticker Symbol and a Price-to-Earnings Ratio. Bond entities, conversely, are described by a Maturity Date and a Coupon Rate. Separately, all Stocks are further broken down into two types: Preferred Stock and Common Stock. Every Stock must be one of these two types, but never both. Preferred Stock includes a Dividend Rate, while Common Stock includes a Voting Rights Flag. The institution also tracks its clients, each identified by a unique Client ID, an Address, and a Risk Tolerance Level. In the system, every Security must belong to exactly one Client's portfolio, and a Client must have at least one Security in their portfolio, although a client will often hold many Securities.
+Design EER for above scenario. Draw EER for the above problem statement.
+| [5]
+|
+CO2.
+BL- 4
+| b.
+| Apply type constructors to model a Department that has a name, number, manager, a set of locations, and a set of employees. Specify suitable constructors and justify briefly.
+| [5]
+|
+CO4. BL-2
+| c.
+| Explain   the role of replication in distributed databases. How does synchronous replication ensure consistency compared to asynchronous replication
+| [5]
+|
+CO3.
+BL-2
+| d.
+| Compare XML Schema and DTD and analyze how XML Schema overcomes the limitations of DTD in defining structured data.
+| [5]
+|
+Q2
+CO1; BL-1
+| a.
+| Explain the difference between the Disjoint and Overlapping   constraints in a specialization. If a specialization hierarchy is both Total and Disjoint, what is the exact number of subclasses that every entity in the superclass must belong to, justify with example?
+| [10]
+|
+Q2
+CO2; BL-3
+| b.
+| Describe the purpose of each section (DECLARE, BEGIN, EXCEPTION, END) of a standard PL/SQL block. Design a single PL/SQL block that demonstrates both a predefined exception (NO_DATA_FOUND) and a user-defined exception
+| [10]
+|
+Q3
+CO3, BL-4
+| a.
+| Design an XML schema for an Online Shopping System that manages data for Customers, Orders, Products, and Payments. Include elements for order details, product descriptions, and customer information with attributes such as order ID and payment status.
+| [10]
+|
+Q3
+CO4; BL-3
+| b.
+| Analyze the roles of valid time and transaction time in temporal databases and evaluate how bitemporal modeling resolves limitations of single-time designs. Use a brief example from banking or healthcare to show lifecycle tracking of historical data.
+| [10]
+|
+Q4
+CO3, BL3
+| a.
+| Discuss the concept of encapsulation and tell how it is used to create abstract data types in object-oriented databases with example.
+| [10]
+|
+Q4
+CO4; BL-3
+| b.
+| Analyze how the Voting-based concurrency control method enhances fault tolerance compared to the Primary Site technique in a distributed database system
+| [10]
+|
+Q5
+CO4, BL-3
+| a.
+| How inter-query and intra-query parallelism improve performance in large-scale database environments. Discuss the trade-offs and implementation challenges.
+| [10]
+|
+Q5
+CO3;BL-4
+| b.
+| A university course management system maintains records of courses, students, and their prerequisites. Each course has attributes such as courseCode, courseTitle, creditHours, and description. Students have attributes including studentID, name, email, and major. A student can enroll in multiple courses, but certain courses have prerequisites that must be completed before enrollment. The system also tracks the semester in which the student enrolls in a course.   Instructions: Develop an ODL schema for the university course management system.
+| [10]
+|
+Q6
+CO4; BL-3
+| a.
+| . What are key features of NoSQL? In which situation will NoSQL database not be suitable to implement?
+| [10]
+|
+Q6
+CO2, BL-4
+| b.
+| Sample Clerk table (CL_ID, First_name, Department_name, Salary, Designation)
+Create a PL/SQL procedure called percentage_salary to update Clerks data
+The procedure has two parameters: IN_CL_ID and IN_PERCENT.
+The procedure adjusts the salary of a particular Clerk specified the IN_CL_ID by a given percentage IN_PERCENT. (salary + salary * in_percent / 100)
+In the procedure body, we use the UPDATE statement to update the salary information.
+Test the procedure with CL_ID = 175 and IN_PERCENT = 10%
+| [10]
+|
+Q7
+CO4; BL-3
+| a.
+| Explain the Active Database concepts in detail. Discuss the Event-Condition-Action (ECA) model, its components, and how it enhances traditional database systems. Give suitable examples of real-world applications where Active Databases are beneficial.
+| [10]
+|
+Q7
+CO4; BL-3
+| b.
+| Explain issues in RDBMS such as impedance mismatch, schema inflexibility, and scalability limitations. Suggest suitable database that can overcome these challenges and justify your reasoning with examples.
+| [10]
+|
 ````
 
 ## 2024-25 · Final-Exam · Sem 7 · paper 765014bab3cd
@@ -2998,6 +2998,137 @@ Page 3 of 3
 a i i ele
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper e0ca779c3fa6
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/ADVANCED DATABASE MANAGEMENT SYSTEM/Advanced Database Management Systems.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 92.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B. Tech / MBA (Tech) Stream: Information Technology Year: III Semester: VI
+
+Subject: Advanced Database Management Systems Time: 3 hrs (2:00 pmto 5:00 pm)
+Date:_2'7_/ 04 / 2023 No. of Pages: 3
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [14/20]
+
+a. Consider a GRADE_BOOK database in which instructors within an academic
+department record points earned by individual students in their classes. The data
+requirements are summarized as follows:
+
+Each student is identified by a unique identifier, first and last name, and an e-mail
+
+address.
+
+Each instructor teaches certain courses each term. Each course is identified by a
+
+course number, a section number, and the term in which it is taught. For each course
+CO-COl: he or she teaches, the instructor specifies the minimum number of points required
+SO-NA. in order to earn letter grades A, B, C, D, and F. For example, 90 points for an A,
+BL-6 80 points for a B, 70 points for a C, and so forth.
+
+*Students are enrolled in each course taught by the instructor.
+
+*Each course has a number of grading components (such as midterm exam, final
+
+exam, project, and so forth). Each grading component has a maximum number of
+
+points (such as 100 or 50) and a weight (such as 20% or 10%). The weights of all
+
+the grading components of a course usually total 100.
+
+*Finally, the instructor records the points earned by each student in each of the
+
+grading components in each of the courses. For example, student 1234 earns 84
+--- page 2 ---
+points for the midterm exam grading component of the section 2 course CSc2310
+in the fall term of 2009. The midterm exam grading component may have been
+defined to have a maximum of 100 points and a weight of 20% of the course grade.
+
+Design an Enhanced Entity-Relationship diagram.
+
+CO-CO1; | b. .
+SO-NA. Using Q1. (a) Problem statement Convert EER into physical schema
+BL- 6
+CO-CO2, | c. . . ° ° ;
+CO4 ; SO- Define cursor. What is the significance of “FOUND and %“NOTFOUND in PL
+NA. SQL
+BL-4
+CO- C03; | d.
+SO- NA. What is the difference between XML schema and XML DTD?
+BL-1
+Q2 Explain with example how to define an abstract class in ODL.
+a C03 Being a DBA define a strategy for backup recovery plan in the event ofa [20]
+C04 ; SO- hardware or software failure of a banking application
+NA; BL-3
+Q3 Discuss the main categories of data models. What are the basic differences
+co-col, between the relational model and the XML model? 120]
+CO2; SO-
+NA Describe temporal database with suitable application.
+BL-6
+Sample Emp_clerk table (Emp_id, First_name, Department_name, Salary,
+Designation)
+Create a PL/SQL block to promote Clerks who earn more than 3000 to
+SR_CLERK and increase their salary by 10%.
+Q4 Develop an ODL schema for the following problem situation.
+a e A student, whose attributes include student Name, Address, phone, and [20]
+BL age, may engage in multiple campus-based activities.
+
+° The university keeps track of the number of years a given student has
+participated in a specific activity
+. and, at the end of each academic year, mails an activity report to the
+
+student showing his participation in various activities.
+
+Explain the challenges faced with respect to speed up and scale up of parallel
+Q5 DBMS.
+CO3-; SO- [20]
+NA; Discuss the semi-join method for executing an equijoin of two files located at
+
+different sites.
+--- page 3 ---
+Q6 How triggers can be used for making database active? List and explain various
+
+CO1,C04- trigger applications. [20]
+; SO-NA; .
+
+BL-1 Discuss the mechanism of attribute/relationship inheritance. Why is it useful?
+
+Q7 Why do we fragment data in distributed database?
+
+a How do spatial databases differ from regular databases? [20]
+BL-1
+--- page 4 ---
+
+````
+
 ## 2022-23 · Final-Exam · Sem 2 · paper 5cc442c16cb3
 
 - Departments: Computer Applications (MCA)
@@ -3300,6 +3431,152 @@ a
 [4M]
 
 Jee
+````
+
+## 2019-20 · Re-Exam · Sem 7 · paper 7055bf04fc67
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/ADVANCED DATABASE MANAGEMENT SYSTEM/Advanced Database Management System Batch 2017-18 Re Exam_7055bf04fc.pdf`
+- Printed on paper: exam date: 14 November 2019
+- Text: ocr (1 page), mean OCR confidence 90.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (Computer) | Year: IV. Semester: VII
+
+Academic Year: 2019-20
+Subject: Advance Database Management System
+
+Date: 14 November 2019
+
+we
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+a. Identify and briefly explain constraints & characteristics of specialization and 4
+generalization with example.
+b. List advantages of PL/SQL over SQL. 4
+c. Explain the term complex object in object oriented DBMS 4
+Q2 :
+a. Explain the concept of Exception handling with example. 6
+b. Differentiate between OODBMS & RDBMS. 6
+Q.3
+a. Design EER diagram for Hospital Management System. 6
+b. What is auditing? Why auditing in database is required? 6
+Q.4
+
+a. Write a program in PL/SQL to demonstrate Declaring, Defining and Invokinga 6
+PL/SQL Function that computes and returns the maximum of two values.
+
+b. Explain terms Object Identity, Object structure and type constructor with 6
+example.
+Q5
+a. Explain OODBMS architecture. 6
+b. What is Temporal Database? Explain with its forms. 6
+6
+° a. Explain managing users and privileges in database administration. 6
+
+b. Define parallel database system. Explain parallel database system architectures. 6
+
+Q.7 Write a short notes on
+a. Geographical Information System 6
+b. Semi structured data model of XML. 6 Pg eto ( 4
+````
+
+## 2019-20 · Re-Exam · Sem 7 · paper a66900cb51b6
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/ADVANCED DATABASE MANAGEMENT SYSTEM/Advanced Database Management System Batch 2018-19 Re Exam.pdf`
+- Printed on paper: exam date: 14 November 2019
+- Text: ocr (1 page), mean OCR confidence 89.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :B.Tech Integrated (Computer) Year: IV Semester VII
+
+Academic Year: 2019-2020
+EET
+SAfime: 10.0 EDO pm
+
+mparee™
+Dutatipm® AR (hrs)
+
+a. of Pages:
+Sites UNNERSS
+
+Subject: Advance Database Management System
+
+Date: 14 November 2019
+
+Re Examination(2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. __1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Aiswer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql
+a. Identify and briefly explain constraints & characteristics of specialization and 4
+generalization with example.
+b. List advantages of PL/SQL over SQL. 4
+c. Explain the term complex object in object oriented DBMS. 6
+Q2
+a. Explain the concept of Exception handling with example. 7
+b. Differentiate between OODBMS & RDBMS. 7
+Q.3
+a. Design EER diagram for Hospital Management System. 7
+b. What is auditing? Why auditing in database is required? 7
+Q.4
+
+a. Write a program in PL/SQL to demonstrate Declaring, Defining and Invokinga 7
+PL/SQL Function that computes and returns the maximum of two values.
+
+b. Explain terms Object Identity, Object structure and type constructor with 7
+example.
+Q.5
+a. Explain OODBMS architecture. 7
+b. What is Temporal Database? Explain with its forms. 7
+Q.6
+a. Explain managing users and privileges in database administration. 7
+
+b. Define parallel database system. Explain parallel database system architectures. 7
+
+Q.7 Write a short notes on
+a. Geographical Information System 7
+
+b. Semi structured data model of XML. ; x 7 pege ofA
 ````
 
 ## 2018-19 · Final-Exam · Sem 4 · paper 5cb54a176f34
@@ -3701,82 +3978,81 @@ b. | Deductive database
 — %
 ````
 
-## 2018-19 · Re-Exam · Sem 7 · paper a66900cb51b6
+## 2018-19 · Re-Exam · Sem 7 · paper 4bcf68488b83
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/ADVANCED DATABASE MANAGEMENT SYSTEM/Advanced Database Management System Batch 2018-19 Re Exam.pdf`
-- Printed on paper: exam date: 14 November 2019
-- Text: ocr (1 page), mean OCR confidence 89.2
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/ADVANCED DATABASE MANAGEMENT SYSTEM/Advanced Database Management System Batch 2017-18 Re Exam_4bcf68488b.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 19 January 2019
+- Text: ocr (2 pages), mean OCR confidence 92.8
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Program :B.Tech Integrated (Computer) Year: IV Semester VII
+Program: B.Tech Integrated (Computer) _ Year: [IV Semester: VI ~
+r Academic Year: 2018-2019
 
-Academic Year: 2019-2020
-EET
-SAfime: 10.0 EDO pm
+| Subject: Advanced Database Management System — Marks: 60 -
+Time: 2.00 pm to 5.00pm ~
 
-mparee™
-Dutatipm® AR (hrs)
+d
 
-a. of Pages:
-Sites UNNERSS
+: 2 4 :
+Date : 19 January 2019 Durations:3 (hrs)
 
-Subject: Advance Database Management System
-
-Date: 14 November 2019
-
-Re Examination(2018-19)
+No. of Pages: 2
+Re-examination (2017-18) -
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. __1____ is compulsory.
+1) Question No. _1___ is compulsory.
 
 2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
 
-3) In all__5__ questions to be attempted.
+4) All questions carry equal marks. :
 
-4) All questions carry equal marks.
-
-5) Aiswer to each new question to be started on a fresh page.
+5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume sitable data if necessary.
 
 Ql
-a. Identify and briefly explain constraints & characteristics of specialization and 4
-generalization with example.
-b. List advantages of PL/SQL over SQL. 4
-c. Explain the term complex object in object oriented DBMS. 6
+a. Explain Nested Relational Model. 4
+b. Identify advantages of PL/SQL over SQL. 4
+c. Explain architecture of OODBMS. a
+
 Q2
-a. Explain the concept of Exception handling with example. 7
-b. Differentiate between OODBMS & RDBMS. 7
+
+a. Explain the roles and responsibilities of database administrator. 6
+
+b. Compare OODBMS with ORDBMS. 6
 Q.3
-a. Design EER diagram for Hospital Management System. 7
-b. What is auditing? Why auditing in database is required? 7
+
+a. Draw EER diagram for University Database. 6
+
+b. What is DTD in XML? Explain with example. 6
 Q.4
 
-a. Write a program in PL/SQL to demonstrate Declaring, Defining and Invokinga 7
-PL/SQL Function that computes and returns the maximum of two values.
+a. Write a PL/SQL program using recursive function to calculate the factorialofa 6
+given number.
 
-b. Explain terms Object Identity, Object structure and type constructor with 7
-example.
-Q.5
-a. Explain OODBMS architecture. 7
-b. What is Temporal Database? Explain with its forms. 7
-Q.6
-a. Explain managing users and privileges in database administration. 7
+b. How exception handling is done in PL/SQL? Also mention the example. 6
 
-b. Define parallel database system. Explain parallel database system architectures. 7
+ify
+--- page 2 ---
+Explain Query processing and optimization in ORDBMS.
+Explain the types of data fragmentation with example.
 
-Q.7 Write a short notes on
-a. Geographical Information System 7
+What is distributed database? How query optimization is handled in distributed
+database?
+Explain temporal Database system with its forms.
 
-b. Semi structured data model of XML. ; x 7 pege ofA
+Write a short notes on
+OQL
+Spatial Database
 ````
 
 ## 2017-18 · Final-Exam · Sem 6 · paper 3ee06a3c0f1e
@@ -4331,151 +4607,6 @@ e) Architecture for parallel database.
 6
 
 12
-````
-
-## 2017-18 · Re-Exam · Sem 7 · paper 4bcf68488b83
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/ADVANCED DATABASE MANAGEMENT SYSTEM/Advanced Database Management System Batch 2017-18 Re Exam_4bcf68488b.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 19 January 2019
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech Integrated (Computer) _ Year: [IV Semester: VI ~
-r Academic Year: 2018-2019
-
-| Subject: Advanced Database Management System — Marks: 60 -
-Time: 2.00 pm to 5.00pm ~
-
-d
-
-: 2 4 :
-Date : 19 January 2019 Durations:3 (hrs)
-
-No. of Pages: 2
-Re-examination (2017-18) -
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks. :
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume sitable data if necessary.
-
-Ql
-a. Explain Nested Relational Model. 4
-b. Identify advantages of PL/SQL over SQL. 4
-c. Explain architecture of OODBMS. a
-
-Q2
-
-a. Explain the roles and responsibilities of database administrator. 6
-
-b. Compare OODBMS with ORDBMS. 6
-Q.3
-
-a. Draw EER diagram for University Database. 6
-
-b. What is DTD in XML? Explain with example. 6
-Q.4
-
-a. Write a PL/SQL program using recursive function to calculate the factorialofa 6
-given number.
-
-b. How exception handling is done in PL/SQL? Also mention the example. 6
-
-ify
---- page 2 ---
-Explain Query processing and optimization in ORDBMS.
-Explain the types of data fragmentation with example.
-
-What is distributed database? How query optimization is handled in distributed
-database?
-Explain temporal Database system with its forms.
-
-Write a short notes on
-OQL
-Spatial Database
-````
-
-## 2017-18 · Re-Exam · Sem 7 · paper 7055bf04fc67
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/ADVANCED DATABASE MANAGEMENT SYSTEM/Advanced Database Management System Batch 2017-18 Re Exam_7055bf04fc.pdf`
-- Printed on paper: exam date: 14 November 2019
-- Text: ocr (1 page), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated (Computer) | Year: IV. Semester: VII
-
-Academic Year: 2019-20
-Subject: Advance Database Management System
-
-Date: 14 November 2019
-
-we
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-a. Identify and briefly explain constraints & characteristics of specialization and 4
-generalization with example.
-b. List advantages of PL/SQL over SQL. 4
-c. Explain the term complex object in object oriented DBMS 4
-Q2 :
-a. Explain the concept of Exception handling with example. 6
-b. Differentiate between OODBMS & RDBMS. 6
-Q.3
-a. Design EER diagram for Hospital Management System. 6
-b. What is auditing? Why auditing in database is required? 6
-Q.4
-
-a. Write a program in PL/SQL to demonstrate Declaring, Defining and Invokinga 6
-PL/SQL Function that computes and returns the maximum of two values.
-
-b. Explain terms Object Identity, Object structure and type constructor with 6
-example.
-Q5
-a. Explain OODBMS architecture. 6
-b. What is Temporal Database? Explain with its forms. 6
-6
-° a. Explain managing users and privileges in database administration. 6
-
-b. Define parallel database system. Explain parallel database system architectures. 6
-
-Q.7 Write a short notes on
-a. Geographical Information System 6
-b. Semi structured data model of XML. 6 Pg eto ( 4
 ````
 
 ## 2017-18 · Re-Exam · Sem 7 · paper bb21c47dbdd1
@@ -5315,6 +5446,301 @@ Q7 Write notes on following(any 2) 12
 3. Trigger
 ````
 
+## 2014-15 · Re-Exam · Sem 6 · paper 79d485ef02ac
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/ADVANCED DATABASE MANAGEMENT SYSTEMS/ADVANCE DATABASE MANAGEMENT SYSTEM B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 14/05/2015
+- Text: ocr (2 pages), mean OCR confidence 93.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: II ; Semester: VI
+
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Ze
+hy, am SR
+Marks: [706s
+Date: 14/05/2015 Time: f/ 4 1 10.06 arartg
+Duratignss 8 (hrs) > 7 ¥
+
+Subject: Advance Database Management System
+
+\ ne
+Re-Examination NE
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+
+NB:
+
+on the cover of the answer book, which is provided for their use.
+
+1. Question No.1 is compulsory.
+
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
+
+Ql.
+
+Q2.
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Any 4 20
+
+b)
+c)
+d)
+e)
+
+a)
+
+b)
+
+a)
+b)
+
+a)
+b)
+
+a)
+b)
+
+a)
+b)
+
+Explain shared subclass
+
+Explain the following terms mean in OODB terminology: object identity, Method, signature, message ,extent
+Write down the difference between PL/SQL function and stored procedure
+
+What is valid and well formed XML document?
+
+What is the persistent object and transient object.
+
+Draw ER diagram for following scenario 10
+Each department has a unique name, a unique number, and a particular employee who manages the department. We
+keep track of the start date when that employee began managing the department. A department may have several
+locations. A department controls a number of projects, each of which has a unique name, a unique number, and a
+single location. We store each employee’s name, social security number, address, salary, sex and birthdate. An
+employee is assigned to one department but may work on several projects, which are not necessarily controlled by
+the same department. We keep track of the number of hours per week that an employee works on each project. We
+also keep track of the direct supervisor of each employee. We want to keep track of the dependents of each
+
+employee for insurance purposes. We keep each dependent’s name, sex, birthdate, and relationship to the
+employee.
+
+Explain Various Architectures of parallel databases 10
+Explain structured and unstructured complex object. 10
+Compare RDBMS, ORDBMS and OODBMS in detail 10
+What is Fragmentation and explain types of Fragmentation? f 10
+Write note on a) ODL, b) OQL 10
+Explain triplet format of Object representation. 10
+Explain concurrency control in distributed database 10
+What are the duties.of Database Administrator? : 10
+What is trigger explain with example ~ 10
+
+Write a short note on(any 4)
+1) Mobile database 20
+2) Managing users and privileges
+--- page 2 ---
+3) Structured, unstructured and Semi-structured data models
+4) Geographical information System.
+5) Cursor
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper ba4f442e9c08
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/ADVANCED DATABASE MANAGEMENT SYSTEMS/ADVANCE DATABASE MANAGEMENT SYSTEM B TECH (COMP), BATCH 2013-14 RE EXAM_ba4f442e9c.pdf`
+- Printed on paper: duration hours: 3; exam date: 03/07/2015
+- Text: ocr (1 page), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: III Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015.
+
+Subject: Advance Database Management System 3 ge.
+Marks: ‘~. QO
+
+Date: 03/07/2015 Time: “10400 am to 1.00 pm
+Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions print
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures to the right hand side indicate full marks.
+
+7) Assume suitable data wherever necessary.
+
+Q.1
+a Develop ER Model of a Bank Enterprise. [10]
+b Describe two phase commit protocol. [10]
+Q.2
+a Compare parallel and distributed databases. [10]
+b Explain specialization and generalization with suitable examples. {10]
+Q.3
+a What is a trigger? Which are different types of triggers? Explain any one [10]
+trigger with suitable example.
+b What are the main architectures used for building parallel databases? [10]
+Give advantages & disadvantages.
+Q.4
+a What is DTD? Explain with example. [10]
+b What is varying array data type? Discuss. [10]
+Q.5
+a Discuss the objectives of distributed databases. [10]
+b Describe Online redo log files. [10]
+Q.6
+a Describe temporal databases. [10]
+b Compare OODBMS, RDBMS and ORDBMS. # [10]
+Q.7 Write short notes on the followings
+a Client Server architecture [10]
+b Query Processing [10]
+
+1/4.
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper ae551f66ef0c
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/VIII SEMESTER/ADVANCES DATABASE MANAGEMENT SYSTEMS/Advanced Database Management System Batch 2013-14 Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 15/04/2015
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) Year: IV, Semester: VIII
+
+Academic Year: 2014-15
+
+renee /
+
+Batch: 2013-14
+
+hg
+
+Subject: Advanced Database Management System Zf b,
+Marks: 100 :/ @ luapstuE \%
+
+Date: 15/04/2015 Time : 2.00 phey{500pma RY JS
+Durations: 3 IS ;
+
+OTE OF °
+SERA A Ney
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for the use.
+
+NB.
+1. Question No.1 is compulsory
+2. Out of 6 questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. AlIl questions carry equal marks.
+5. Answer to each new question should be started on a fresh page.
+6. Figure in brackets indicate full marks.
+
+Q.1 Draw an EER diagram for a Library Management system and
+(a) Explain the steps and covert the EER diagram into relational schema [15]
+(b) Explain generalization and specialization with an example. [5]
+Q.2 (a) Explain how inheritance is represented using EER model and [10]
+
+explain the terms subclasses and super class.
+(b) Differentiate between RDBMS , object oriented , object relational [10]
+Database systems.
+
+Q.3. (a) Explain the terms object identity, object structure and type [10]
+constructors with proper example.
+(b) Explain object representation and show how a complex object be [10]
+
+represented using graph.
+
+Q4 (a) Differentiate transient object with persistent object. How can we
+create persistent object. [10]
+(b) Define User defined abstract data types (ADT).Explain in detail [10]
+how do we create ADT and nested ADT using SQL . What are the
+benefits of using ADT.
+
+Q.5 a) Differentiate parallel with distributed technology and explain in
+
+detail the advantages of distributed databases [10]
+b) Explain Concurrency Control and Recovery in Distributed Database [10]
+
+Page | of ‘2.
+--- page 2 ---
+Q.6
+
+Q7
+
+a)
+
+b)
+
+a)
+b)
+c)
+d)
+
+Explain the structure of XML DTD in detail. What are the
+additional concepts in XML Schema over XML DTD.
+Explain how Redo Log files are maintained? Explain different
+functionalities of DBA roles .
+
+Write short note on the following.
+Versions and Configurations
+OQL Queries
+
+Spatial Databases
+
+Semi Structured Data Model
+
+[10]
+
+[10]
+
+[20]
+
+Page 2 of 2
+````
+
 ## 2014-15 · Re-Exam · Sem 3 · paper 43e25ce42a59
 
 - Departments: Computer Applications (MCA)
@@ -5698,194 +6124,6 @@ x
 10
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper 79d485ef02ac
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/ADVANCED DATABASE MANAGEMENT SYSTEMS/ADVANCE DATABASE MANAGEMENT SYSTEM B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 14/05/2015
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: II ; Semester: VI
-
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Ze
-hy, am SR
-Marks: [706s
-Date: 14/05/2015 Time: f/ 4 1 10.06 arartg
-Duratignss 8 (hrs) > 7 ¥
-
-Subject: Advance Database Management System
-
-\ ne
-Re-Examination NE
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-
-NB:
-
-on the cover of the answer book, which is provided for their use.
-
-1. Question No.1 is compulsory.
-
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate full marks.
-
-Ql.
-
-Q2.
-
-Q3
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-Any 4 20
-
-b)
-c)
-d)
-e)
-
-a)
-
-b)
-
-a)
-b)
-
-a)
-b)
-
-a)
-b)
-
-a)
-b)
-
-Explain shared subclass
-
-Explain the following terms mean in OODB terminology: object identity, Method, signature, message ,extent
-Write down the difference between PL/SQL function and stored procedure
-
-What is valid and well formed XML document?
-
-What is the persistent object and transient object.
-
-Draw ER diagram for following scenario 10
-Each department has a unique name, a unique number, and a particular employee who manages the department. We
-keep track of the start date when that employee began managing the department. A department may have several
-locations. A department controls a number of projects, each of which has a unique name, a unique number, and a
-single location. We store each employee’s name, social security number, address, salary, sex and birthdate. An
-employee is assigned to one department but may work on several projects, which are not necessarily controlled by
-the same department. We keep track of the number of hours per week that an employee works on each project. We
-also keep track of the direct supervisor of each employee. We want to keep track of the dependents of each
-
-employee for insurance purposes. We keep each dependent’s name, sex, birthdate, and relationship to the
-employee.
-
-Explain Various Architectures of parallel databases 10
-Explain structured and unstructured complex object. 10
-Compare RDBMS, ORDBMS and OODBMS in detail 10
-What is Fragmentation and explain types of Fragmentation? f 10
-Write note on a) ODL, b) OQL 10
-Explain triplet format of Object representation. 10
-Explain concurrency control in distributed database 10
-What are the duties.of Database Administrator? : 10
-What is trigger explain with example ~ 10
-
-Write a short note on(any 4)
-1) Mobile database 20
-2) Managing users and privileges
---- page 2 ---
-3) Structured, unstructured and Semi-structured data models
-4) Geographical information System.
-5) Cursor
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper ba4f442e9c08
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/ADVANCED DATABASE MANAGEMENT SYSTEMS/ADVANCE DATABASE MANAGEMENT SYSTEM B TECH (COMP), BATCH 2013-14 RE EXAM_ba4f442e9c.pdf`
-- Printed on paper: duration hours: 3; exam date: 03/07/2015
-- Text: ocr (1 page), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: III Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015.
-
-Subject: Advance Database Management System 3 ge.
-Marks: ‘~. QO
-
-Date: 03/07/2015 Time: “10400 am to 1.00 pm
-Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions print
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures to the right hand side indicate full marks.
-
-7) Assume suitable data wherever necessary.
-
-Q.1
-a Develop ER Model of a Bank Enterprise. [10]
-b Describe two phase commit protocol. [10]
-Q.2
-a Compare parallel and distributed databases. [10]
-b Explain specialization and generalization with suitable examples. {10]
-Q.3
-a What is a trigger? Which are different types of triggers? Explain any one [10]
-trigger with suitable example.
-b What are the main architectures used for building parallel databases? [10]
-Give advantages & disadvantages.
-Q.4
-a What is DTD? Explain with example. [10]
-b What is varying array data type? Discuss. [10]
-Q.5
-a Discuss the objectives of distributed databases. [10]
-b Describe Online redo log files. [10]
-Q.6
-a Describe temporal databases. [10]
-b Compare OODBMS, RDBMS and ORDBMS. # [10]
-Q.7 Write short notes on the followings
-a Client Server architecture [10]
-b Query Processing [10]
-
-1/4.
-````
-
 ## 2013-14 · Re-Exam · Sem 6 · paper 98d84d217ff7
 
 - Departments: Computer Engineering
@@ -5964,113 +6202,6 @@ d) Client-Server Architecture
 e) Nested Relations
 
 ~
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper ae551f66ef0c
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/VIII SEMESTER/ADVANCES DATABASE MANAGEMENT SYSTEMS/Advanced Database Management System Batch 2013-14 Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 15/04/2015
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (IT) Year: IV, Semester: VIII
-
-Academic Year: 2014-15
-
-renee /
-
-Batch: 2013-14
-
-hg
-
-Subject: Advanced Database Management System Zf b,
-Marks: 100 :/ @ luapstuE \%
-
-Date: 15/04/2015 Time : 2.00 phey{500pma RY JS
-Durations: 3 IS ;
-
-OTE OF °
-SERA A Ney
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for the use.
-
-NB.
-1. Question No.1 is compulsory
-2. Out of 6 questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. AlIl questions carry equal marks.
-5. Answer to each new question should be started on a fresh page.
-6. Figure in brackets indicate full marks.
-
-Q.1 Draw an EER diagram for a Library Management system and
-(a) Explain the steps and covert the EER diagram into relational schema [15]
-(b) Explain generalization and specialization with an example. [5]
-Q.2 (a) Explain how inheritance is represented using EER model and [10]
-
-explain the terms subclasses and super class.
-(b) Differentiate between RDBMS , object oriented , object relational [10]
-Database systems.
-
-Q.3. (a) Explain the terms object identity, object structure and type [10]
-constructors with proper example.
-(b) Explain object representation and show how a complex object be [10]
-
-represented using graph.
-
-Q4 (a) Differentiate transient object with persistent object. How can we
-create persistent object. [10]
-(b) Define User defined abstract data types (ADT).Explain in detail [10]
-how do we create ADT and nested ADT using SQL . What are the
-benefits of using ADT.
-
-Q.5 a) Differentiate parallel with distributed technology and explain in
-
-detail the advantages of distributed databases [10]
-b) Explain Concurrency Control and Recovery in Distributed Database [10]
-
-Page | of ‘2.
---- page 2 ---
-Q.6
-
-Q7
-
-a)
-
-b)
-
-a)
-b)
-c)
-d)
-
-Explain the structure of XML DTD in detail. What are the
-additional concepts in XML Schema over XML DTD.
-Explain how Redo Log files are maintained? Explain different
-functionalities of DBA roles .
-
-Write short note on the following.
-Versions and Configurations
-OQL Queries
-
-Spatial Databases
-
-Semi Structured Data Model
-
-[10]
-
-[10]
-
-[20]
-
-Page 2 of 2
 ````
 
 ## 2013-14 · Re-Exam · Sem 8 · paper bacb9c8ac928
@@ -6253,135 +6384,4 @@ Zo.
 10
 
 10
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper e0ca779c3fa6
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/ADVANCED DATABASE MANAGEMENT SYSTEM/Advanced Database Management Systems.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 92.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B. Tech / MBA (Tech) Stream: Information Technology Year: III Semester: VI
-
-Subject: Advanced Database Management Systems Time: 3 hrs (2:00 pmto 5:00 pm)
-Date:_2'7_/ 04 / 2023 No. of Pages: 3
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [14/20]
-
-a. Consider a GRADE_BOOK database in which instructors within an academic
-department record points earned by individual students in their classes. The data
-requirements are summarized as follows:
-
-Each student is identified by a unique identifier, first and last name, and an e-mail
-
-address.
-
-Each instructor teaches certain courses each term. Each course is identified by a
-
-course number, a section number, and the term in which it is taught. For each course
-CO-COl: he or she teaches, the instructor specifies the minimum number of points required
-SO-NA. in order to earn letter grades A, B, C, D, and F. For example, 90 points for an A,
-BL-6 80 points for a B, 70 points for a C, and so forth.
-
-*Students are enrolled in each course taught by the instructor.
-
-*Each course has a number of grading components (such as midterm exam, final
-
-exam, project, and so forth). Each grading component has a maximum number of
-
-points (such as 100 or 50) and a weight (such as 20% or 10%). The weights of all
-
-the grading components of a course usually total 100.
-
-*Finally, the instructor records the points earned by each student in each of the
-
-grading components in each of the courses. For example, student 1234 earns 84
---- page 2 ---
-points for the midterm exam grading component of the section 2 course CSc2310
-in the fall term of 2009. The midterm exam grading component may have been
-defined to have a maximum of 100 points and a weight of 20% of the course grade.
-
-Design an Enhanced Entity-Relationship diagram.
-
-CO-CO1; | b. .
-SO-NA. Using Q1. (a) Problem statement Convert EER into physical schema
-BL- 6
-CO-CO2, | c. . . ° ° ;
-CO4 ; SO- Define cursor. What is the significance of “FOUND and %“NOTFOUND in PL
-NA. SQL
-BL-4
-CO- C03; | d.
-SO- NA. What is the difference between XML schema and XML DTD?
-BL-1
-Q2 Explain with example how to define an abstract class in ODL.
-a C03 Being a DBA define a strategy for backup recovery plan in the event ofa [20]
-C04 ; SO- hardware or software failure of a banking application
-NA; BL-3
-Q3 Discuss the main categories of data models. What are the basic differences
-co-col, between the relational model and the XML model? 120]
-CO2; SO-
-NA Describe temporal database with suitable application.
-BL-6
-Sample Emp_clerk table (Emp_id, First_name, Department_name, Salary,
-Designation)
-Create a PL/SQL block to promote Clerks who earn more than 3000 to
-SR_CLERK and increase their salary by 10%.
-Q4 Develop an ODL schema for the following problem situation.
-a e A student, whose attributes include student Name, Address, phone, and [20]
-BL age, may engage in multiple campus-based activities.
-
-° The university keeps track of the number of years a given student has
-participated in a specific activity
-. and, at the end of each academic year, mails an activity report to the
-
-student showing his participation in various activities.
-
-Explain the challenges faced with respect to speed up and scale up of parallel
-Q5 DBMS.
-CO3-; SO- [20]
-NA; Discuss the semi-join method for executing an equijoin of two files located at
-
-different sites.
---- page 3 ---
-Q6 How triggers can be used for making database active? List and explain various
-
-CO1,C04- trigger applications. [20]
-; SO-NA; .
-
-BL-1 Discuss the mechanism of attribute/relationship inheritance. Why is it useful?
-
-Q7 Why do we fragment data in distributed database?
-
-a How do spatial databases differ from regular databases? [20]
-BL-1
---- page 4 ---
-
 ````

@@ -357,6 +357,7 @@ Find:
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/Vibration Engineering Batch 2025-26 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2026
 - Text: ocr (4 pages), mean OCR confidence 85.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -499,7 +500,6 @@ BL-3 1. Resonance frequency —
 4. Damped frequenc cs
 P q y i; #
 
-FIO Hk a aH a i a ek a a
 --- page 4 ---
 Q7 a; Using Lagrange’s equation find the natural frequency for the system as shown. [10]
 CO3-; SO-7;
@@ -532,6 +532,7 @@ FRR RR Rk
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration Engineering, Sem-VI, Year 2024-25 Final Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (6 pages), mean OCR confidence 74.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -705,7 +706,6 @@ value after 8 oscillations. Determine
 --- page 6 ---
 , .
 e ae’ :
-rae - PRG ten - Bay - - a ~ ae at ™ wEEyE cy Ye. -
 rr Bee taped bose chy ghee Oo a re 8 7 7 #
 . ; . : 38
 ’ : ;
@@ -897,13 +897,14 @@ value after 8 oscillations. Determine
 3. spring stiffness
 ````
 
-## 2018-19 · Final + Re-Exam · Sem 5 · paper c1b18757f518
+## 2019-20 · Final + Re-Exam · Sem 5 · paper c1b18757f518
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engineering , Final 2016-20,Re-exam 18-19.pdf`
 - Printed on paper: exam date: 12 November 2019
 - Text: ocr (4 pages), mean OCR confidence 87.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Programme: MBA TECH (Mechanical)
@@ -990,7 +991,6 @@ m= 100 kg |e
 
 ly.
 
-Ol al i ar ae i i i ie fe a ae
 Attempt the following
 
 Find the fundamental frequency of the system as shown in Fig. Assume k = m =1
@@ -1037,7 +1037,6 @@ S? eo Lo.
 j= constant (35; —S; )fori+jand Uji = Uji, where S is distance from
 fixed support.
 
-w,= 40 N Wa = 30 M w= 20 N
 
 gs
 
@@ -1107,6 +1106,148 @@ unbalance.
 4/4
 ````
 
+## 2019-20 · Re-Exam · Sem 5 · paper e3671e1a582e
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engineering Re-exam 2017-18.pdf` (+1 identical copies)
+- Printed on paper: exam date: 12 November 2019
+- Text: ocr (3 pages), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA TECH (Mechanical) .- Year: III “ Semester: V
+
+Academic Year: 2019-20
+
+Subject: Vibration Engineering ~
+
+Date: 12 November 2019 ~
+
+Instructions: Candidates, should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘Suitable data if necessary.
+
+Q.1 Solve any two sub-questions from A ,B, C and any two sub-questions from D, E, F. [14]
+A. Write a short note on an underdamped system. [03]
+B. Citing two practical examples, discuss the significance of vibration isolation in engineering. [03]
+C. A system comprises of two rotors connected by a shaft which has two sections of equal [03]
+
+lengths but diameters ‘d’ and ‘2d’ respectively. Derive the expression for equivalent length
+of a shaft of diameter ‘d’ to replace the existing shaft.
+
+D. Define degree of freedom. With justification, cite examples of one, two and three degree of [04]
+freedom systems.
+
+E. Discuss balancing of single cylinder engine. [04]
+
+F. Elaborate on the steps required to find fundamental natural frequency of a multi-degree of [04]
+freedom system based on its maximum kinetic energy and maximum potential energy.
+
+Q.2A. A machine of mass 20 kg is mounted on springs and dashpots. The total stiffness of the [07]
+spring is 100 N/cm and the damping coefficient is 1.5 Ns/m. If the system is initially at rest
+and a velocity of 0.1 m/s is imparted to the mass. Determine the displacement and velocity
+of the mass as a function of time.
+
+Q.2B. Derive the expression for natural frequency of a compound pendulum. Using this expression, [07]
+calculate the moment of inertia of a connecting rod which is displaced and allowed to
+oscillate about one of its ends. The mass of the rod is 5 kg and the CG is 20 cm from the
+pivot point. The natural frequency of oscillation is 40 cycles per minute.
+
+1/3
+--- page 2 ---
+Q.3A. A vibrating system, supported on a spring and dashpot has a stiffness of 6400 N/m and the [07]
+damping coefficient of 125 Ns/m. It comprises of an unbalanced mass of 0.5 kg with an
+eccentricity of 50 mm. The total mass of the system is 20 kg. Ifthe system is running at 400
+rpm, determine:
+
+(i) Damping factor
+(ii) Amplitude of vibration
+(iii) Phase lag
+(iv) Amplitude at resonance
+Q.3B. Compare the principle and working of vibrometer, accelerometer and velometer assuming [07]
+* that seismic instrument is used as a fundamental structure in the design of vibrometer,
+velometer and accelerometer.
+
+Q.4A. A steel shaft 1500-:mm long is having multiple steps. The first section is of diameter 95 mm_ [07]
+and length 0.6 m, the second section is having diameter of 60 mm for 0.5 m length and the
+remaining section has a diameter of 50 mm. The shaft carries two flywheels at the ends. The
+first flywheel (located near 95 mm diameter section) is having a mass of 900 kg and 0.85 m
+radius of gyration while the second flywheel has a mass of 700 kg and 0.55 m radius of
+gyration. Determine the natural frequency of torsional vibrations when G=80 GPa. Also,
+draw the mode shapes.
+
+Q.4B. A vertical shaft 5 mm in diameter is 250 mm long and rotates in long bearings (fixed-fixed [07]
+condition). A disc of mass 60 kg with eccentricity 0.3 mm is mounted at the centre of the
+shaft. Determine the critical speed of rotation and the maximum stress in bending if the shaft
+
+FL
+rotates at 80% of the critical speed. Take E= 200 GPa, Bending moment, M= er
+Q.5A. Determine the natural frequencies of the following system. [07]
+LL
+
+‘2 ;
+L
+
+c
+
+‘S
+a
+
+OLPLETITE-
+
+Q.5B. Define magnification factor and discuss the effect of damping ratio and frequency ratio on [07]
+its magnitude. Also, derive the condition for maximum value of the magnification factor of
+a system subjected to harmonic excitation with magnitude Fo.
+
+Q.6A. A shaft carries four masses in parallel planes A, B, C and D in this order along its length. [08]
+The masses at B and C are 18 kg and 12.5 kg respectively and each of them is place at a
+radius of 60 mm. The masses at A and D are placed at a radius of 80 mm. The angle between
+the masses at B and C is 100° and that between masses B and A is 190°, both being measured
+
+2/3
+--- page 3 ---
+in the same direction. The axial distance between the planes A and B is 100 mm and that
+between B and C is 200 mm. If the shaft is in complete dynamic balance, determine:
+(i) The magnitude of masses at A and D;
+(ii) The distance between planes A and D;
+(iii) The angular position of the mass at D.
+Q.6B. Discuss the procedure to determine the unbalance primary and secondary forces in Vengine. (06)
+Show their directions with the help of a diagram.
+Q.7A. Explain the Dunkerley’s method and use it to estimate the fundamental natural frequency of [08]
+the system shown in the following figure. Take young’s modulus=E and moment of Inertia=
+I.
+
+my; My Ms
+i
+
+~ fx) } x,(0) } x3(0) , =
+
+oe
+
+Q.7B. Describe the steps required to find the natural frequency of a two degrees of freedom [06]
+torsional system having both ends fixed using Holzer’s method. Also, derive the general
+expression for finding amplitude of subsequent rotor based on the value for the previous
+
+rotor.
+
+3/3
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 5 · paper 6655f3632cf1
 
 - Departments: Mechanical
@@ -1114,6 +1255,7 @@ unbalance.
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engineering Final 18-19 Re-exam 17-18.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 20 November 2018
 - Text: ocr (4 pages), mean OCR confidence 91.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 C) -«
@@ -1219,7 +1361,6 @@ supported at the ends and carries three masses. Find the natural frequency of tr
 
 by using Dunkerley’s method. Assume E = 200 x 10° N/m?
 
-m,= 70 kg mz" 80kg m,= 50 kg
 
 Fail. sittin. sittin. ann.
 
@@ -1394,6 +1535,634 @@ problem using Rayleigh’s method.
 3/3
 ````
 
+## 2018-19 · Re-Exam · Sem 6 · paper 48f5df33cafe
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRARION ENGINEERING BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70
+- Text: ocr (7 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B. Tech (MECHANICAL) Year: IMI Semester: VI ~
+Academic Year: 2018-2019 ~
+
+Subject: Vibration Engineering « Marks: 70
+Date: 22 April2019 Time:10.00 a
+
+y
+ReExamination (2057-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 . questions.
+
+3) In all 5 questions are to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q 1)
+
+(a) Derive the equations of primary and secondary unbalanced forces of V engines (4)
+
+(b) Derive the expression for critical speed of shaft carrying single rotor without damping (4)
+
+(c) What are transverse vibrations, longitudinal vibration and torsional vibrations? Illustrate each type with
+
+sketches G3)
+(d) Explain damping coefficient and damping factor. (3)
+OR
+
+(e) Explain working of ‘Vibrometer’? (3)
+Q. 2)
+(a) Find the equation of motion of the uniform rigid bar OA of length / and mass m shown in figure. Also
+find its natural frequency. (4)
+
+Torsional ‘Linear
+
+spring _Sprin g
+
+(@ A
+—— Cf
+ae a4 ~ GG.
+
+| ky
+<———_— g—_—_— +
+a Linear -“S
+“ spring
+I pe |
+--- page 2 ---
+(b) Derive the equation of natural frequency of torsional vibration of shaft with one end fixed other end free,
+taking into account inertia of the constraint as shown in the figure. Assume suitable notations. (5)
+
+LLL Le,
+
+SIE
+
+a
+
+(c) What is logarithmic decrement? Derive an expression for logarithmic decrement (5)
+
+Q. 3)
+
+(a) An electric motor is supported on a spring and a dashpot. The spring has a stiffness of 6400 N / m, and
+the dashpot offers a resistance of 500 N at 4 m/ sec. The unbalanced mass of 0.5 kg rotates at 5 cm radius,
+and total mass of vibratory system is 20 kg. The motor runs at 400 rpm. Determine damping factor,
+amplitude of vibration, phase angle, resonant amplitude and forces exerted by the spring and dashpot on the
+motor : . (6)
+
+(b) A steel shaft 1.5 m long is 95 mm in diameter for the first 0.6 m of its length, 60 mm in diameter for the
+next 0.5 m of the length, and 50 mm in diameter for the remaining 0.4 m of its length. The shaft carries two
+flywheels at two ends, the first having a mass of 900 kg and 0.85 m radius of gyration located at the 95 mm
+diameter end and second having a mass of 700 kg and 0.55 m radius of gyration located at the other end.
+Determine the location of node and the natural frequency of free torsional vibration of the system. Modulus
+
+of rigidity of shaft material may be taken as 80 GN / m?. (5)
+O* B O
+95 mm |
+7 7 40 mm ,* mien
+——- a le = ¥ ‘tin
+
+I
+
+15m te
+
+(c) What is magnification factor derive the expression for magnification factor for a force damped spring
+mass system. Use suitable notations (3)
+
+2/b |
+--- page 3 ---
+Q. 4)
+
+(a) An accelerometer has a suspended mass of 0.01 kg with a damped natural frequency of vibration of 150
+Hz. When mounted on an engine undergoing an acceleration of 9.8 m / s? at an operating speed of 6000
+rpm, the acceleration is recorded as 9.5 m / s? by the instrument. Find the damping constant and the spring
+
+stiffness of the accelerometer. (6)
+
+(b) Explain the difference between an undamped, under damped, over-damped, and critically damped
+system. Use suitable graphical illustrations (3)
+
+(c) What is force transmissibility ratio? Explain salient features of variation of transmissibility ratio Vs
+frequency ratio using a graphical plot. (5)
+
+Q. 5)
+
+(a) A shaft carries four masses A, B, C and D of magnitude 200 kg, 300 kg, 400 kg and 200 kg respectively
+and revolving at radii 80 mm, 70 mm, 60 mm and 80 mm in planes measured from A at 300 mm, 400 mm
+and 700 mm. The angles between the cranks measured anticlockwise are A to B 45°, B to C 70° and C to D
+120°. The balancing masses are to be placed in planes X and Y. The distance between the planes A and X is
+100 mm, between X and Y is 400 mm and between Y and D is 200 mm. If the balancing masses revolve at a
+
+radius of 100 mm, find their magnitudes and angular positions. (10)
+
+(b) Explain coulomb damping? Plot a graph of amplitude vs time for one cycle (4)
+
+Q. 6)
+
+(a) Explain, Dunkerley’s and Rayleigh’s method to derive natural frequency of free transverse vibrations of
+a shaft, subjected to a number of point loads. ; (4)
+
+(b) 40 N at 20 cm, 30 N at 60 cm, and 10 N at 110 cm from fixed end are the loading on a cantilever beam.
+The deflection under 30 N load due to all loads is 3 mm. What would be the natural frequency of transverse
+vibration if 20 N is added at 90 cm from fixed end?
+
+40N 30N 10N
+
+Deflection at section i due to unit load at section j is given as:
+
+_ sa: .
+Ui = ——. (35; — S$; )for i+ j and U;; = Uji, where S is distance from fixed support. Find
+
+natural frequency of system using Rayleigh’s method. Compare it with the natural frequency obtained from
+Dunkerley’s method. (10)
+
+3/4
+--- page 4 ---
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B. Tech (MECHANICAL) Year: IM] Semester: VI ~
+Academic Year: 2018-2019 «
+
+Subject: Vibration Engineering « Marks: 70
+Date : 22 April2019 ~ Time:10.00 af i
+Duration: 3 (lars
+
+C
+Re-Examination (2017-18)
+
+SS
+
+pees
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any _4 _._ questions.
+
+3) In all 5 questions are to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. a
+7) Assume Suitable data if necessary.
+
+Q1)
+
+(a) Derive the equations of primary and secondary unbalanced forces of V engines (4)
+(b) Derive the expression for critical speed of shaft carrying single rotor without damping (4)
+(c) What are transverse vibrations, longitudinal vibration and torsional vibrations? Illustrate each type with
+
+sketches (3)
+(d) Explain damping coefficient and damping factor. (3)
+: OR
+
+(e) Explain working of ‘Vibrometer’? (3)
+Q. 2)
+(a) Find the equation of motion of the uniform rigid bar OA of length / and mass m shown in figure. Also
+find its natural frequency. (4)
+
+Torsional Ss Linear
+
+spring spring
+
+k —~J/ ky
+
+<r 2
+FIN as CG.
+| . ky
+———————— yg wr} «
+~——_—_——s—— >| __ Linear -" ok
+
+Be)
+
+~ 1 spring | |
+
+Wy
+--- page 5 ---
+(b) Derive the equation of natural frequency of torsional vibration of shaft with one end fixed other end free,
+taking into account inertia of the constraint as shown in the figure. Assume suitable notations. (5)
+
+LLS
+
+C)|2
+
+a
+
+(c) What is logarithmic decrement? Derive an expression for logarithmic decrement (5)
+
+Q. 3) 2 4
+(a) An electric motor is supported on a spring and a dashpot. The spring has a stiffness of 6400 N / m, and
+the dashpot offers a resistance of 500 N at 4 m/ sec. The unbalanced mass of 0.5 kg rotates at 5 cm radius,
+and total mass of vibratory system is 20 kg. The motor runs at 400 rpm. Determine damping factor,
+amplitude of vibration, phase angle, resonant amplitude and forces exerted by the spring and dashpot on the
+motor (6)
+
+(b) A steel shaft 1.5 m long is 95 mm in diameter for the first 0.6 m of its length, 60 mm in diameter for the
+next 0.5 m of the length, and 50 mm in diameter for the remaining 0.4 m of its length. The shaft carries two
+flywheels at two ends, the first having a mass of 900 kg and 0.85 m radius of gyration located at the 95 mm
+diameter end and second having a mass of 700 kg and 0.55 m radius of gyration located at the other end.
+Determine the location of node and the natural frequency of free torsional vibration of the system. Modulus
+of rigidity of shaft material may be taken as 80 GN / m?. (5)
+
+On s@)
+
+aad
+
+le 0.6m ae 0.5 m 5 0.4 m—>
+mo oO
+
+“Te 1.5m ne
+
+(c) What is magnification factor derive the expression for magnification factor for a force damped spring
+mass system. Use suitable notations (3)
+
+o/b
+--- page 6 ---
+Q. 4)
+
+(a) An accelerometer has a suspended mass of 0.01 kg with a damped natural frequency of vibration of 150
+Hz. When mounted on an engine undergoing an acceleration of 9.8 m / s* at an operating speed of 6000
+rpm, the acceleration is recorded as 9.5 m / s? by the instrument. Find the damping constant and the spring
+
+stiffness of the accelerometer. (6)
+
+(b) Explain the difference between an undamped, under damped, over-damped, and critically damped.
+
+system. Use suitable graphical illustrations (3)
+
+(c) What is force transmissibility ratio? Explain salient features of variation of transmissibility ratio Vs
+frequency ratio using a graphical plot. (5)
+
+Q. 5)
+
+(a) A shaft carries four masses A, B, C and D of magnitude 200 kg, 300 kg, 400 kg and 200 kg respectively
+and revolving at radii 80 mm, 70 mm, 60 mm and 80 mm in planes measured from A at 300 mm, 400 mm
+and 700 mm. The angles between the cranks measured anticlockwise are A to B 45°, B to C 70° and C to D
+120°. The balancing masses are to be placed in planes X and Y. The distance between the planes A and X is
+100 mm, between X and Y is 400 mm and between Y and D is 200 mm. If the balancing masses revolve at a
+
+radius of 100 mm, find their magnitudes and angular positions. (10)
+
+(b) Explain coulomb damping? Plot a graph of amplitude vs time for one cycle (4)
+
+Q. 6) “*
+
+(a) Explain, Dunkerley’s and Rayleigh’s method to derive natural frequency of free transverse vibrations of
+a shaft, subjected to a number of point loads. . (4)
+
+(b) 40 N at 20 cm, 30 N at 60 cm, and 10 N at 110 cm from fixed end are the loading on a cantilever beam.
+The deflection under 30 N load due to all loads is 3 mm. What would be the natural frequency of transverse
+vibration if 20 N is added at 90 cm from fixed end?
+
+Deflection at section i due to unit load at section j is given as:
+S? a os :
+
+y= constant (35; —S; )for i é j and Uj; = Uji, where S is distance from fixed support. Find
+natural frequency of system using Rayleigh’s method. Compare it with the natural frequency obtained from
+
+Dunkerley’s method. (10)
+--- page 7 ---
+af
+
+Q.7)
+Determine the natural frequencies in the range of 0 —3 rad / s and mode shapes of the system using Holzer’s
+method. Draw mode shapes for the frequencies you have found. How many natural frequencies does the
+
+system have? k= 1 N/m, and m= 1 kg. (14)
+
+4k
+
+uly
+````
+
+## 2018-19 · Re-Exam · Sem 6 · paper 194c5f151da6
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 22 April 2019
+- Text: ocr (3 pages), mean OCR confidence 92.4
+
+````text
+SVKM’S NMIMS
+CHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Year: IMf Semester: VI
+
+MUKESH PATEL S
+
+Program B. Tech (MECHANICAL)
+/ AcademicYear: 2018-2019
+
+Subject: Vibration Engineering
+
+Date : 22 April 2019
+
+0
+Re-Examination (2016-17) 7
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question Ne. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql) Answer any four out.of following questions: aa a (12)
+a) Discuss methods used to determine natural frequency of any system. (03)
+b) Define force transmissibility. Discuss the effect of damping factor and (03)
+
+frequency ratio on the transmissibility.
+
+c) Describe the various modes of vibration for a two rotor system and derive (03)
+expressions to determine natural frequency of the system and ratio of
+amplitudes for the two rotors. .
+
+d) Discuss balancing of V Engines. (03)
+
+e) What is the principle of Rayleigh's method? Illustrate the procedure to (03)
+determine fundamental natural frequency of any practical system using this
+method.
+
+Q2a) Derive the expression for displacement and velocity for an underdamped (06)
+system as a function of time 't’ when the initial conditions are: at t-0, x = Xo
+and at t=0, x = 0.Compare the response of such system with a critically
+damped system with same initial conditions.
+Q2b) Determine equivalent mass and equivalent stiffness for the system shown in (06)
+=— Fig.1, when x is the displacement of mass m1 from its equilibrium position and
+also derive an expression for the natural frequency. Mass moment of inertia of
+
+mo bell crank lever is I.
+--- page 2 ---
+Q3 a)
+
+Q3 b)
+
+Q4 a)
+
+Q4 b)
+
+Fig.1
+
+When a free vibration test is run on a machine shown in Fig.2, the ratio of
+amplitudes of two successive cycles was found to be 2.5 is to 1.Determine the
+responsé of the machine due to rotating unbalance of magnitude 0.25 kgm when
+the machine operates at 2000 rpm and the damping is assumed to be viscous.
+Take E =200 GPa, I=4.5 X 10° m*.
+
+Also determine the magnitude of maximum steady state amplitude of the
+
+system.
+
+fe BO I
+
+Fig.2
+
+A torsional system consists of a disc of mass moment of inertia J = 10 kgm’, a
+torsional damper of damping coefficient ¢ = 300 N-m-s/rad, and steel shaft of
+diameter 4 cm and length | m (fixed at one end and attached to the disc at the
+other end). A steady angular oscillation of amplitude 2° is observed when a
+harmonic torque of magnitude 1000 N-m is applied to the disc. (a) Find the
+frequency of the applied torque, (b) find the maximum torque transmitted to the
+support. Assume modulus of rigidity for the steel rod to be 0.83%10!! N/m’.
+
+A single cylinder IC. Engine drives a centrifugal pump, the rotating mass of the
+engine, flywheel and the pump with a shaft is equivalent to a three rotor system.
+The mass moment of inertia of rotors A,B and C are 0.15 kgm’,0.3 kgm? and
+0.09’kgm’.The length of shaft between A and B is 1.5 m and between Band C
+is 1 m. Diameter of shaft on both sides is 70mm.Find the natural frequency of
+torsional vibrations. Take G=84 GPa. Also draw the mode shapes.
+
+A vertical steel shaft 15 mm diameter is held in long bearings 1 m apart and
+carries a disc of mass 15 kg at its centre. The eccentricity of the dise from the
+centre is 0.30 mm. Take E=200 GPa and permissible stress in the shaft material
+
+as 70 MPa. Determine:
+
+2 of 3
+
+(06)
+
+(06)
+
+(06)
+
+(06)
+--- page 3 ---
+i. The critical speed of the shaft
+ii. The range of speed over which it is unsafe to run the shaft. Ls
+
+For a shaft with fixed-fixed end conditions, Bending moment is given by :
+M=WI/8.
+
+Q5a) Discuss balancing of a multi-cylinder inline engine. How does it differ from (04)
+balancing of masses revolving in different planes?
+
+Q5b) A Shaft carries four rotating masses A, B, C and D which are completely (08)
+balanced. The masses B, C and D are 50 kg, 80 kg and 70 kg respectively. The
+masses C and D make angles of 90° and 195° respectively with mass B in the
+same sense. The masses A, B, C and D are concentrated at radius 75 mm, 100
+mm, 50 mm and 90 mm respectively. The plane of rotation of masses B and C
+are 250 mm apart. Determine:
+
+i. The mass A and its angular position
+ii. The position of planes of A and D.
+
+Q6) For the system shown in Fig.2, obtain natural frequencies between 0-2 rad/s: (12)
+Use atleast 8 iterations.
+
+a J2 ds
+me Ka “< Ka y
+a a 7
+Figg
+
+Q7 a) Derive an expression for natural frequency of a spring mass system considering (03)
+mass of the spring.
+
+Q7b) With the help of diagram, explain principle, construction and working of (04)
+velocity pick-ups.
+
+Q7c) Write.a short note on Dunkerley's method. State its limitation. (03)
+Q7d) Write the expression for primary unbalanced force in a single cylinder 1.C. (02)
+engine due to partial balancing. Draw the diagram representing forces due to
+
+partial balancing.
+
+3 of 3
+````
+
+## 2018-19 · Re-Exam · Sem 6 · paper de57b5837afc
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 18 June 2019
+- Text: ocr (4 pages), mean OCR confidence 91.2
+
+````text
+SVKM’S NMIMS
+
+4
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B.Tech (MECHANICAL) ; Year: III Semester: a
+Academic Year: 2018-2019 « KE WSUETE OF
+/ wx
+i . a . s . o
+j Subject: Vibration Engineering ~ Marks: 70 + i it iP STH "Mt 7
+Date : 18 June 2019 ~ Time:10.00 am 500 pit
+
+Duration: 3 (hrs) SQ
+No. of Pages: 4
+Re-Examination (2017-18)
+
+Instructions: Candidates should read caretally the instructions printed ¢ on the spestiail p paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt the followings -*
+
+a. Explain the steps involved in vibration analysis 3
+
+b. A shaft carrying a rotor of mass 50 kg and eccentricity 2 mm rotates at 12000 rpm. Determine 6
+
+a) Steady state whirl amplitude
+b) Maximum whirl amplitude during start up condition of system
+
+c. | What are the conditions for complete balancing of multi-cylinder inline engines 2
+d. | Compare the viscous and coulomb damping. 3
+Q.2 a. A shaft is supported between bearing 2 m apart and extended 0.5 m beyond bearing at each end. 10
+
+The shaft carries 3 pulleys one at each end and one at the middle of its length. The masses of end
+pulleys are 50 kg and 25 kg and their centre of gravity are 20 mm and 15 mm respectively from the
+shaft axis. The centre pulley has a mass of 60 kg and its centre of gravity is 20 mm from the shaft
+axis. If the pulleys are arranged so as to give the static balance, determine;
+
+1) The relative angular position of the pulleys
+a 2) The dynamic force produced on the bearing when the shaft rotates at 340 rpm.
+
+b. A mass of 4.5 kg hangs from a spring and makes damped vibrations. The time of 50 complete 4
+oscillations is found to be 20 sec and the ratio of first downward displacement to the sixth is found
+to be 2.25. find the stiffness of the spring and damping force
+
+i
+--- page 2 ---
+Q.3 a. Amachine is supported by four isolators, each having a stiffness of 5500 N/m and damping 6
+coefficient of 50 N-s/m. The machine is to be isolated from support having an amplitude of 0.05
+mm at 60 r/s. if the total mass of the system is 50 kg, determine:
+1) Amplitude of vibration of machine
+2) Dynamic load on each isolator due to vibration
+
+b. Determine ‘D’ for the portion CD so that the Node of tortional vibration of system will be at centre 8
+of length BC and natural frequency of system when I, = 216 kgm? and Ip = 648 kgm? and assume
+G=80 GN/m?
+
+A D
+
+Q.4 a. A beam of negligible weight and length 1.2 m is simply supported at the ends and carries three 6
+transverse load of 200 N, 800 N and 400 N at a distance of 0.3 m, 0.6 m and 0.9 m from the left
+support respectively. Determine the frequency of transverse vibration using Dunkerley’s method
+assume E =80 x 10° N/cm* and I = 80 mm*
+
+b. Derive the equation of motion for a system as shown in fig. using Energy method 8
+
+K,=200 Nim
+
+K4= 100 N-mirad |
+
+—
+
+— a = 600 mm —>
+
+je |. = 1000 mm
+
+fy
+--- page 3 ---
+Q5 a.
+
+b.
+
+A cylinder of mass 100 kg and radius 50 mm is suspended from inextensible cord as shown. The 8
+spring stiffness is 500 N/m. Determine the natural frequency of the system. What would be the new
+spring stiffness required, if the mass of cylinder is reduced to 10 kg for the same natural frequency
+
+of oscillation.(use Equilibrium method)
+
+A free vibration records of 1 tonne machine mounted on an isolator is as shown in fig. Identify its 6
+characteristics
+
+5mm
+
+t 2.00
+
+3.15
+--- page 4 ---
+4
+
+Q6 a.
+b.
+Q.7 a.
+b.
+
+A machine of mass one tone is acted upon by external force of 2450 N at a frequency of 1500 rpm. 8
+To reduce the effect of vibration, isolator of rubber having a static deflection of 2 mm under the
+machine load and estimated damping € = 0.2 are used. Determine
+
+1) Force transmitted to the foundation
+
+2) Amplitude of vibration of machine
+
+3) Phase lag
+Find the total response of single degree of freedom system with m = 10 kg, c= 50 N-s/m, k= 2000 6
+N/m under the action of harmonic force F = F, sin wt and m = 31.416 r/s. The initial condition may
+be assumed as x = 0.01 m and dx/dt = 5 m/s att = 0.
+
+Explain damping coefficient and damping factor. 4
+For the torsional system as shown, determine the natural frequency in the range of (100-300 r/s) 10
+using holzer’s method. Take I; = I; =0.45 kg-m? Ip = Iy = 0.11 kg-m’,
+
+Ku =Ky = 0.113 x 10° m-N/rad and Kt2 = 0.226 x 10° m-N/rad
+````
+
 ## 2018-19 · Re-Exam · Sem 6 · paper 797f64c139db
 
 - Departments: Mechanical
@@ -1401,6 +2170,7 @@ problem using Rayleigh’s method.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING BATCH 18-19 RE EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 18 June 2019
 - Text: ocr (5 pages), mean OCR confidence 90.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Ve SVKM’S NMIMS
@@ -1465,7 +2235,6 @@ LITTATTITT
 
 Q.3 a. Four masses A, B, C, and D are completely balanced. Masses C and D makes an angle of 90° and 6
 195° respectively with B in the same sense. The rotating masses having following properties:
-my = 25 kg, me = 40 kg, mg = 35 kg, ra = 150 mm, fp = 200 mm, r,=100 mm and rg= 180 mm.
 plane B and C are 250 mm apart. Determine the mass of A and its angular position and position of
 
 planes A and D ;
@@ -1535,7 +2304,6 @@ b. Find the natural frequencies and 1“ mode shape of the system as shown using
 
 Given
 
-m, =m. =m3 =mand k; =k, =k; =k
 ````
 
 ## 2018-19 · Re-Exam · Sem 5 · paper e39f42aef528
@@ -1712,6 +2480,164 @@ torsional system with one end fixed.
 [05]
 
 [04]
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 89a220a3d7f9
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engineering Re-exam 2015-16.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 17 January 2019
+- Text: ocr (2 pages), mean OCR confidence 94.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (Mechanical) Year: III Semester : V
+} Academic Year: 2018-2019
+
+| Subject: Vibration Engineering Marks: 60 —
+
+Time: 2.00 pm to 5.00 pm —
+
+Date: 17 January 2019 ; |
+“ Durations: 3 (hrs)
+
+No. of Pages:_ 2
+Re-examination (2015-16) ~
+
+Instructions: Candidates.should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions. 4 MPSTM!
+3) In all 5 questions to be attempted. A LIBRARY
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer any four out of the following questions: (12)
+a) Derive expression for natural frequency of a compound pendulum. (03)
+b) What is the significance of the term transmissibility in the context of mechanical vibrations? (03)
+Write down its expression and state one application where it is desirable.
+
+c) Write a short note on the torsional vibrations of a system comprising of two rotors (Both ends (03)
+free) connected with a common shaft.
+
+d) Describe the procedure to balance a single rotating mass. Consider balancing in the same plane (03)
+as well as different planes.
+
+e) What is the principle of Rayleigh’s method used for finding the fundamental natural frequency (03)
+of a multi-degree of freedom system? State its limitations.
+
+Q2a. Determine the equation of motion for a spring-mass-damper system when, (06)
+(i) damping factor is 1
+(ii) damping factor is 0.3, if the mass “m” is displaced by a distance of 3 cm and released.
+
+Consider stiffness as “k”.
+
+Q2b. A 60 kg drum of diameter 40 cm containing waste material of mass density 1100 kg/m} is (06)
+being hoisted by a 30 mm diameter steel (E=210 GPa) cable. The system’s natural frequency
+corresponding to the wire length of 10 m is measured as 40 Hz. Determine the volume of the
+waste in the drum.
+
+Q3a. The rotating machine having total mass of 20 kg, has an eccentric mass of 1.5 kg with (06)
+
+1/2
+--- page 2 ---
+Q3b.
+
+Q4a.
+
+Q4b.
+
+Q5a.
+
+Q5b.
+Q6.
+
+Q7a.
+
+Q7b.
+
+QTc.
+
+eccentricity 25 mm. The machine rotates at 720 rpm. If the amplitude of vibrations which is 20
+mm, lags the eccentric mass by 90°, determine:
+
+(i) The circular natural frequency of the system.
+
+(ii) The damping factor
+
+(iii) The amplitude and phase angle when eccentric mass rotates at 1440 rpm.
+
+A machine of 100 kg mass has a 20 kg rotor with 0.5 mm eccentricity. The mounting springs
+have k= 85x 10° N/m and damping factor=0.02. The operating speed of machine is 600 rpm
+and the unit is constrained to move vertically. Find:
+
+(i) The dynamic amplitude of machine.
+
+(ii) The force transmitted to the supports.
+
+A four cylinder engine and flywheel coupled to a propeller are approximated to a 3 rotor
+system in which engine is equivalent to a rotor of moment of inertia 800 kgm?, the flywheel to
+a second rotor of 320: kgm? and the propeller to a third rotor of 20 kgm?. The first and the
+second rotors are connected by a 50 mm diameter and 2 m long shaft and the second and third
+rotors are connected by a 25 mm diameter and 2 m long shaft. Neglecting the inertia of the
+shaft and taking G=80 GPa, determine natural frequencies of torsional vibrations and also
+draw the mode shapes.
+
+Compare static and dynamic balancing.
+
+A four-stroke five-cylinder inline engine has a firing order 1-4-5-3-2-1.The centre lines of the
+cylinders are spaced at equal intervals of 150 mm. The reciprocating parts per cylinder have a
+mass of 1.5 kg, the piston stroke is 100 mm and the connecting rods are 175 mm long. The
+engine rotates at 600 rpm. Discuss the primary and secondary balancing, determine the values
+of maximum unbalanced couples about the central plane.
+
+Differentiate between rotating unbalance and reciprocating unbalance.
+
+A shaft of negligible weight and diameter 50 mm is 3 m long. It is simply supported at the
+ends and carries three masses of 70 kg, 90 kg and 50 kg at 1 m, 2 m and 2.5 m respectively
+from the left support. Find the fundamental natural frequency of transverse vibrations using
+Dunkerley’s formula. Take E=200 GPa and the general expression for static deflection
+because of a point load W, as:
+wizlt
+3EIl
+respectively. What is the drawback of the formula used?
+
+Compare damped (viscously) and undamped vibrations with respect to frequency, response
+curve, amplitude and equation of motion.
+
+Derive the expression for steady state amplitude of a spring-mass-damper system subjected to
+harmonic force.
+
+st = , where |), I2 are the distances of the point load from the left and right support
+
+Why are numerical methods used for finding natural frequencies in place of analytical
+methods even though they provide inaccurate solutions? Discuss the process of finding all the
+natural frequencies of a multi-degree of freedom system using a numerical method.
+
+2/2
+
+(06)
+
+(10)
+
+(02)
+(10)
+
+(02)
+(12)
+
+(04)
+(04)
+
+(04)
 ````
 
 ## 2017-18 · Final-Exam · Sem 6 · paper 01b53062c7d6
@@ -1942,324 +2868,6 @@ the amplitude of motion ofthe vibrating structure when it's frequency is 40rad/s
 Q7b) Explain in briefvibrometer and accelerometer. (4M)
 ````
 
-## 2017-18 · Re-Exam · Sem 6 · paper 48f5df33cafe
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRARION ENGINEERING BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70
-- Text: ocr (7 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program B. Tech (MECHANICAL) Year: IMI Semester: VI ~
-Academic Year: 2018-2019 ~
-
-Subject: Vibration Engineering « Marks: 70
-Date: 22 April2019 Time:10.00 a
-
-y
-ReExamination (2057-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 . questions.
-
-3) In all 5 questions are to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q 1)
-
-(a) Derive the equations of primary and secondary unbalanced forces of V engines (4)
-
-(b) Derive the expression for critical speed of shaft carrying single rotor without damping (4)
-
-(c) What are transverse vibrations, longitudinal vibration and torsional vibrations? Illustrate each type with
-
-sketches G3)
-(d) Explain damping coefficient and damping factor. (3)
-OR
-
-(e) Explain working of ‘Vibrometer’? (3)
-Q. 2)
-(a) Find the equation of motion of the uniform rigid bar OA of length / and mass m shown in figure. Also
-find its natural frequency. (4)
-
-Torsional ‘Linear
-
-spring _Sprin g
-
-(@ A
-—— Cf
-ae a4 ~ GG.
-
-| ky
-<———_— g—_—_— +
-a Linear -“S
-“ spring
-I pe |
---- page 2 ---
-(b) Derive the equation of natural frequency of torsional vibration of shaft with one end fixed other end free,
-taking into account inertia of the constraint as shown in the figure. Assume suitable notations. (5)
-
-LLL Le,
-
-SIE
-
-a
-
-(c) What is logarithmic decrement? Derive an expression for logarithmic decrement (5)
-
-Q. 3)
-
-(a) An electric motor is supported on a spring and a dashpot. The spring has a stiffness of 6400 N / m, and
-the dashpot offers a resistance of 500 N at 4 m/ sec. The unbalanced mass of 0.5 kg rotates at 5 cm radius,
-and total mass of vibratory system is 20 kg. The motor runs at 400 rpm. Determine damping factor,
-amplitude of vibration, phase angle, resonant amplitude and forces exerted by the spring and dashpot on the
-motor : . (6)
-
-(b) A steel shaft 1.5 m long is 95 mm in diameter for the first 0.6 m of its length, 60 mm in diameter for the
-next 0.5 m of the length, and 50 mm in diameter for the remaining 0.4 m of its length. The shaft carries two
-flywheels at two ends, the first having a mass of 900 kg and 0.85 m radius of gyration located at the 95 mm
-diameter end and second having a mass of 700 kg and 0.55 m radius of gyration located at the other end.
-Determine the location of node and the natural frequency of free torsional vibration of the system. Modulus
-
-of rigidity of shaft material may be taken as 80 GN / m?. (5)
-O* B O
-95 mm |
-7 7 40 mm ,* mien
-——- a le = ¥ ‘tin
-
-I
-<— 0.8 mi a os m le 0.4 na
-
-15m te
-
-(c) What is magnification factor derive the expression for magnification factor for a force damped spring
-mass system. Use suitable notations (3)
-
-2/b |
---- page 3 ---
-Q. 4)
-
-(a) An accelerometer has a suspended mass of 0.01 kg with a damped natural frequency of vibration of 150
-Hz. When mounted on an engine undergoing an acceleration of 9.8 m / s? at an operating speed of 6000
-rpm, the acceleration is recorded as 9.5 m / s? by the instrument. Find the damping constant and the spring
-
-stiffness of the accelerometer. (6)
-
-(b) Explain the difference between an undamped, under damped, over-damped, and critically damped
-system. Use suitable graphical illustrations (3)
-
-(c) What is force transmissibility ratio? Explain salient features of variation of transmissibility ratio Vs
-frequency ratio using a graphical plot. (5)
-
-Q. 5)
-
-(a) A shaft carries four masses A, B, C and D of magnitude 200 kg, 300 kg, 400 kg and 200 kg respectively
-and revolving at radii 80 mm, 70 mm, 60 mm and 80 mm in planes measured from A at 300 mm, 400 mm
-and 700 mm. The angles between the cranks measured anticlockwise are A to B 45°, B to C 70° and C to D
-120°. The balancing masses are to be placed in planes X and Y. The distance between the planes A and X is
-100 mm, between X and Y is 400 mm and between Y and D is 200 mm. If the balancing masses revolve at a
-
-radius of 100 mm, find their magnitudes and angular positions. (10)
-
-(b) Explain coulomb damping? Plot a graph of amplitude vs time for one cycle (4)
-
-Q. 6)
-
-(a) Explain, Dunkerley’s and Rayleigh’s method to derive natural frequency of free transverse vibrations of
-a shaft, subjected to a number of point loads. ; (4)
-
-(b) 40 N at 20 cm, 30 N at 60 cm, and 10 N at 110 cm from fixed end are the loading on a cantilever beam.
-The deflection under 30 N load due to all loads is 3 mm. What would be the natural frequency of transverse
-vibration if 20 N is added at 90 cm from fixed end?
-
-40N 30N 10N
-
-Deflection at section i due to unit load at section j is given as:
-
-_ sa: .
-Ui = ——. (35; — S$; )for i+ j and U;; = Uji, where S is distance from fixed support. Find
-
-natural frequency of system using Rayleigh’s method. Compare it with the natural frequency obtained from
-Dunkerley’s method. (10)
-
-3/4
---- page 4 ---
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program B. Tech (MECHANICAL) Year: IM] Semester: VI ~
-Academic Year: 2018-2019 «
-
-Subject: Vibration Engineering « Marks: 70
-Date : 22 April2019 ~ Time:10.00 af i
-Duration: 3 (lars
-
-C
-Re-Examination (2017-18)
-
-SS
-
-pees
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any _4 _._ questions.
-
-3) In all 5 questions are to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks. a
-7) Assume Suitable data if necessary.
-
-Q1)
-
-(a) Derive the equations of primary and secondary unbalanced forces of V engines (4)
-(b) Derive the expression for critical speed of shaft carrying single rotor without damping (4)
-(c) What are transverse vibrations, longitudinal vibration and torsional vibrations? Illustrate each type with
-
-sketches (3)
-(d) Explain damping coefficient and damping factor. (3)
-: OR
-
-(e) Explain working of ‘Vibrometer’? (3)
-Q. 2)
-(a) Find the equation of motion of the uniform rigid bar OA of length / and mass m shown in figure. Also
-find its natural frequency. (4)
-
-Torsional Ss Linear
-
-spring spring
-
-k —~J/ ky
-
-<r 2
-FIN as CG.
-| . ky
-———————— yg wr} «
-~——_—_——s—— >| __ Linear -" ok
-
-Be)
-
-~ 1 spring | |
-
-Wy
---- page 5 ---
-(b) Derive the equation of natural frequency of torsional vibration of shaft with one end fixed other end free,
-taking into account inertia of the constraint as shown in the figure. Assume suitable notations. (5)
-
-LLS
-
-C)|2
-
-a
-
-(c) What is logarithmic decrement? Derive an expression for logarithmic decrement (5)
-
-Q. 3) 2 4
-(a) An electric motor is supported on a spring and a dashpot. The spring has a stiffness of 6400 N / m, and
-the dashpot offers a resistance of 500 N at 4 m/ sec. The unbalanced mass of 0.5 kg rotates at 5 cm radius,
-and total mass of vibratory system is 20 kg. The motor runs at 400 rpm. Determine damping factor,
-amplitude of vibration, phase angle, resonant amplitude and forces exerted by the spring and dashpot on the
-motor (6)
-
-(b) A steel shaft 1.5 m long is 95 mm in diameter for the first 0.6 m of its length, 60 mm in diameter for the
-next 0.5 m of the length, and 50 mm in diameter for the remaining 0.4 m of its length. The shaft carries two
-flywheels at two ends, the first having a mass of 900 kg and 0.85 m radius of gyration located at the 95 mm
-diameter end and second having a mass of 700 kg and 0.55 m radius of gyration located at the other end.
-Determine the location of node and the natural frequency of free torsional vibration of the system. Modulus
-of rigidity of shaft material may be taken as 80 GN / m?. (5)
-
-On s@)
-
-aad
-
-le 0.6m ae 0.5 m 5 0.4 m—>
-mo oO
-
-“Te 1.5m ne
-
-(c) What is magnification factor derive the expression for magnification factor for a force damped spring
-mass system. Use suitable notations (3)
-
-o/b
---- page 6 ---
-Q. 4)
-
-(a) An accelerometer has a suspended mass of 0.01 kg with a damped natural frequency of vibration of 150
-Hz. When mounted on an engine undergoing an acceleration of 9.8 m / s* at an operating speed of 6000
-rpm, the acceleration is recorded as 9.5 m / s? by the instrument. Find the damping constant and the spring
-
-stiffness of the accelerometer. (6)
-
-(b) Explain the difference between an undamped, under damped, over-damped, and critically damped.
-
-system. Use suitable graphical illustrations (3)
-
-(c) What is force transmissibility ratio? Explain salient features of variation of transmissibility ratio Vs
-frequency ratio using a graphical plot. (5)
-
-Q. 5)
-
-(a) A shaft carries four masses A, B, C and D of magnitude 200 kg, 300 kg, 400 kg and 200 kg respectively
-and revolving at radii 80 mm, 70 mm, 60 mm and 80 mm in planes measured from A at 300 mm, 400 mm
-and 700 mm. The angles between the cranks measured anticlockwise are A to B 45°, B to C 70° and C to D
-120°. The balancing masses are to be placed in planes X and Y. The distance between the planes A and X is
-100 mm, between X and Y is 400 mm and between Y and D is 200 mm. If the balancing masses revolve at a
-
-radius of 100 mm, find their magnitudes and angular positions. (10)
-
-(b) Explain coulomb damping? Plot a graph of amplitude vs time for one cycle (4)
-
-Q. 6) “*
-
-(a) Explain, Dunkerley’s and Rayleigh’s method to derive natural frequency of free transverse vibrations of
-a shaft, subjected to a number of point loads. . (4)
-
-(b) 40 N at 20 cm, 30 N at 60 cm, and 10 N at 110 cm from fixed end are the loading on a cantilever beam.
-The deflection under 30 N load due to all loads is 3 mm. What would be the natural frequency of transverse
-vibration if 20 N is added at 90 cm from fixed end?
-
-Deflection at section i due to unit load at section j is given as:
-S? a os :
-
-y= constant (35; —S; )for i é j and Uj; = Uji, where S is distance from fixed support. Find
-natural frequency of system using Rayleigh’s method. Compare it with the natural frequency obtained from
-
-Dunkerley’s method. (10)
---- page 7 ---
-af
-
-Q.7)
-Determine the natural frequencies in the range of 0 —3 rad / s and mode shapes of the system using Holzer’s
-method. Draw mode shapes for the frequencies you have found. How many natural frequencies does the
-
-system have? k= 1 N/m, and m= 1 kg. (14)
-
-4k
-
-uly
-````
-
 ## 2017-18 · Re-Exam · Sem 6 · paper 0e0200bcc3ba
 
 - Departments: Mechanical
@@ -2472,150 +3080,139 @@ Zk
 [4 Marks]
 ````
 
-## 2017-18 · Re-Exam · Sem 6 · paper de57b5837afc
+## 2017-18 · Re-Exam · Sem 6 · paper 5c35173a50a3
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 18 June 2019
-- Text: ocr (4 pages), mean OCR confidence 91.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION_ENGINEERING_BATCH_14-15_16-17_RE_EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2018
+- Text: ocr (2 pages), mean OCR confidence 90.8
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 
-4
+Programme: B. Tech (MECHANICAL) Year: III Semester: VI
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Batch: (2014-15 / 2016-17)
 
-Program B.Tech (MECHANICAL) ; Year: III Semester: a
-Academic Year: 2018-2019 « KE WSUETE OF
-/ wx
-i . a . s . o
-j Subject: Vibration Engineering ~ Marks: 70 + i it iP STH "Mt 7
-Date : 18 June 2019 ~ Time:10.00 am 500 pit
+Academic Year: 2017-18
 
-Duration: 3 (hrs) SQ
-No. of Pages: 4
-Re-Examination (2017-18)
+Subject: Vibration Engineering ».
+Marks: 60 orm
+Date: 02 July 2018 Time: 2.00 pm to 5.08
+Durations: 3 (hrs)
+No. of Pages: __O2—
+Re-Examination _
 
-Instructions: Candidates should read caretally the instructions printed ¢ on the spestiail p paper and
-on the cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
 
-1) Question No.1 is compulsory.
+NB:1. Question No. 1 is compulsory ‘
+2. Out of remaining questions attempt any four questions
+3. In all five questions to be attempted
+4. All questions carry equal marks
+5. Answer to new question should be started on a fresh page
+6. Figures to the right hand side indicate full marks
+7. Use of scientific calculator is allowed
 
-2) Out of remaining questions, attempt any 4 questions.
+Q. 1) Solve any four
 
-3) In all 5 questions to be attempted.
+(a) Explain the difference between an under damped, over-damped, and critically damped system. (3)
+(b) Explain working of ‘Vibrometer’. Plot a graph explaining the principle. (3)
+(c) What is logarithmic decrement? Derive an expression for logarithmic decrement. (3)
+(d)Explain peak frequency and peak amplitude with graph. (3)
+(e) Explain coulomb damping. Plot a graph of amplitude vs time for two cycles. (3)
 
-4) All questions carry equal marks.
+Q. 2) (a) In the figure shown, the mass m is suspended by means of spring k2 from the end of a rigid massless
+beam that is of length £ and attached to the frame:at its left end. It is also supported in a horizontal position by a
+spring k1 attached to the frame as shown. Neglecting the mass of rod, find the natural frequency of the system.
 
-5) Answer to each new question to be started on a fresh page.
+Ry
+4O
+|
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+Ge]
 
-Q.1 Attempt the followings -*
+(b) Derive the natural frequency of an un-damped spring mass system suspended freely, taking into account the
 
-a. Explain the steps involved in vibration analysis 3
+mass of a spring. (4)
+(c) What are transverse vibrations, longitudinal vibration and torsional vibrations? Illustrate each type with
 
-b. A shaft carrying a rotor of mass 50 kg and eccentricity 2 mm rotates at 12000 rpm. Determine 6
+sketches. (4)
 
-a) Steady state whirl amplitude
-b) Maximum whirl amplitude during start up condition of system
+Q.3)
 
-c. | What are the conditions for complete balancing of multi-cylinder inline engines 2
-d. | Compare the viscous and coulomb damping. 3
-Q.2 a. A shaft is supported between bearing 2 m apart and extended 0.5 m beyond bearing at each end. 10
+— (a) A machine part weighing 20 N vibrates in a viscous medium. Determine the damping coefficient when a
+harmonic exciting force of 25 N results in a resonant amplitude of 0.01 m with a period of 0.2 sec. If the same
+gt: system is excited by a harmonic force of frequency 4 Hz. What will be the percentage increase in the amplitude
+of forced vibration when dashpot is removed ? (4)
+(b) Calculate the natural frequency of torsional vibration of two rotor system shown in figure. The mass moment
+of inertia of rotor A and B are 0.20 kg-m? and 0.8 kg-m? respectively. The modulus of rigidity is 80 GN / m’.
 
-The shaft carries 3 pulleys one at each end and one at the middle of its length. The masses of end
-pulleys are 50 kg and 25 kg and their centre of gravity are 20 mm and 15 mm respectively from the
-shaft axis. The centre pulley has a mass of 60 kg and its centre of gravity is 20 mm from the shaft
-axis. If the pulleys are arranged so as to give the static balance, determine;
+Show the mode shape. (6)
 
-1) The relative angular position of the pulleys
-a 2) The dynamic force produced on the bearing when the shaft rotates at 340 rpm.
+Rotor &
 
-b. A mass of 4.5 kg hangs from a spring and makes damped vibrations. The time of 50 complete 4
-oscillations is found to be 20 sec and the ratio of first downward displacement to the sixth is found
-to be 2.25. find the stiffness of the spring and damping force
+d,= 50
+RotorA   d,= 25mm 2 mm
 
-i
+—— a
+
+1,=200mm = '1,= 150 mm {,= 250 mm }
+: el 2
 --- page 2 ---
-Q.3 a. Amachine is supported by four isolators, each having a stiffness of 5500 N/m and damping 6
-coefficient of 50 N-s/m. The machine is to be isolated from support having an amplitude of 0.05
-mm at 60 r/s. if the total mass of the system is 50 kg, determine:
-1) Amplitude of vibration of machine
-2) Dynamic load on each isolator due to vibration
+=
+many
 
-b. Determine ‘D’ for the portion CD so that the Node of tortional vibration of system will be at centre 8
-of length BC and natural frequency of system when I, = 216 kgm? and Ip = 648 kgm? and assume
-G=80 GN/m?
+(c) Explain damping coefficient and damping ratio (Derive the relevant equations). (2)
 
-A D
+Q. 4)
 
-Q.4 a. A beam of negligible weight and length 1.2 m is simply supported at the ends and carries three 6
-transverse load of 200 N, 800 N and 400 N at a distance of 0.3 m, 0.6 m and 0.9 m from the left
-support respectively. Determine the frequency of transverse vibration using Dunkerley’s method
-assume E =80 x 10° N/cm* and I = 80 mm*
+(a) A spring-mass-damper system, having a natural frequency of 100 Hz, and a damping constant of 20 N-s/m, is
+used as an accelerometer to measure the vibration of a machine operating at a speed of 3000 rpm. If the actual
+acceleration is 10 m/s, and recorded acceleration is 9 m / s*, find the mass and spring constant of the
+accelerometer. (4)
 
-b. Derive the equation of motion for a system as shown in fig. using Energy method 8
+(b) Derive the equations of primary and secondary unbalanced forces of V-twin engine. (4)
 
-K,=200 Nim
+(c) Explain, Dunkerley’s and Rayleigh’s method to derive natural frequency of transverse vibrations of a shaft,
+subjected to a number of point loads. ; (4)
 
-K4= 100 N-mirad |
+Q. 5)
+(a) A, B, C, and D are four masses carried by a rotating shaft of radii 110, 140, 210, and 160 mm respectively.
+The planes in which the masses revolve are spaced 700 mm apart and the masses of B, C, and D are 12 kg, 7 kg,
 
-—
+and 5 kg respectively. Find the required mass A and the relative angular positions of the four masses so that the
 
-— a = 600 mm —>
+shaft is in complete balance. (8)
+(b) What is force transmissibility ratio? Explain salient features of variation of transmissibility ratio Vs frequency
+ratio using a graphical plot for different damping values. (4)
 
-je |. = 1000 mm
+Q. 6) The natural frequency of transverse vibration from (Rayleigh’s method ) of beam in figure is 25 rad/s. Find
+the natural frequency of vibration if another 30 N load is added at 40 cm from the left support
+20N 30N 20N
 
-fy
---- page 3 ---
-Q5 a.
+AN 20cm
 
-b.
+50cm
 
-A cylinder of mass 100 kg and radius 50 mm is suspended from inextensible cord as shown. The 8
-spring stiffness is 500 N/m. Determine the natural frequency of the system. What would be the new
-spring stiffness required, if the mass of cylinder is reduced to 10 kg for the same natural frequency
+70cm
 
-of oscillation.(use Equilibrium method)
+20cm.
 
-A free vibration records of 1 tonne machine mounted on an isolator is as shown in fig. Identify its 6
-characteristics
+Deflection at section i due to unit load at section j is given as:
 
-5mm
+_ SiZj 2 _ 2 _ 72 * > _ . 7 ¢
+oy = ae (l Sp -Z; )for i + j and U;; = Ujj, where S is distance from one support and Z is
+distance from another support. Find natural frequency of system using Rayleigh’s method. Compare it with the
+natural frequency obtained from Dunkerley’s method. (12)
 
-t 2.00
+Q. 7) (a) Determine the natural frequencies in the range of 0 to [Bana mode shapes of the system using Holzer’s
 
-3.15
---- page 4 ---
-4
+method. Draw mode shapes for the frequencies you have found out. How many natural frequencies does the
+— system have? (12)
 
-Q6 a.
-b.
-Q.7 a.
-b.
-
-A machine of mass one tone is acted upon by external force of 2450 N at a frequency of 1500 rpm. 8
-To reduce the effect of vibration, isolator of rubber having a static deflection of 2 mm under the
-machine load and estimated damping € = 0.2 are used. Determine
-
-1) Force transmitted to the foundation
-
-2) Amplitude of vibration of machine
-
-3) Phase lag
-Find the total response of single degree of freedom system with m = 10 kg, c= 50 N-s/m, k= 2000 6
-N/m under the action of harmonic force F = F, sin wt and m = 31.416 r/s. The initial condition may
-be assumed as x = 0.01 m and dx/dt = 5 m/s att = 0.
-
-Explain damping coefficient and damping factor. 4
-For the torsional system as shown, determine the natural frequency in the range of (100-300 r/s) 10
-using holzer’s method. Take I; = I; =0.45 kg-m? Ip = Iy = 0.11 kg-m’,
-
-Ku =Ky = 0.113 x 10° m-N/rad and Kt2 = 0.226 x 10° m-N/rad
+28 AT 31 IW I
 ````
 
 ## 2017-18 · Re-Exam · Sem 6 · paper d217fc263a47
@@ -2789,6 +3386,165 @@ M22%0 KY
 Maz SOK}
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 0b97a3a75777
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration Engineering 2015-16 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY M
+
+Year: Ill Semester: V
+
+ANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Mechanical)
+
+Batch: 2015-16 ~
+Academic Year: 2017-2018
+
+Subject: Vibration Engineering -
+Marks: 60
+
+Date: .30 May 2018 ~ Time: 2.00 pm to 5.00 pm~
+Durations: 3 (Hrs)
+
+No. of Pages: _©%
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+
+3. Inall five questions to be attempted.
+
+4. All questions carry equal marks.
+5. Answer to each new question to be started ona fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+7. Assume suitable data wherever necessary.
+
+Ql) Answer any four out of the following questions: (12)
+a) Derive expression for logarithmic decrement. (03)
+b) Enlist materials used for vibration isolation. How can be the effectiveness of (03)
+
+these isolators quantified. State corresponding formula.
+c) Derive expression for critical speed of shaft without considering the damping (03)
+
+effect.
+d) Compare reciprocating and rotating unbalance with examples. (03)
+e) Explain Holzer’s method with its applicability and limitations. (03)
+(04)
+
+Q2a) Compare Overdamped, critically damped and underdamped systems with
+respect to: Definition, Equation of motion and general solution, characteristics
+
+and response curve and practical examples.
+
+1/3
+--- page 2 ---
+Q2b) Determine the natural frequency of the following system (see Fig. 1). The disc \
+of mass, ms and radius, rs rolls without slipping. Assume mass m is displaced
+by an amount x; in the downward direction.
+
+mass #72,
+
+ka vis
+On Ks
+7. IFFPP
+No slip
+
+Bell crank lever, ———~
+mass moment of
+inertia Jo
+
+Fig. 1 -
+
+Q3.a) The weight of a motor is 160 N and it runs at 1500 rpm. The unbalanced (06)
+rotating mass in the motor weighs 35 N and its centre of gravity is 0.05 cm
+away from the axis of rotation. The motor is mounted on five springs of
+negligible damping. The force transmitted is one-eleventh of the impressed
+force. Assuming equal distribution of the weight on five springs, determine:
+
+(i) Stiffness of each spring. ,
+(ii) Dynamic force transmitted to the foundation.
+(iii)Natural frequency of the system.
+
+Q3 b) A 35 kg block is connected to a support through a spring of stiffness 1.4 x10° (06)
+N/m in parallel with a dashpot of damping coefficient 1.8 x 10? Ns/m. The
+support is given harmonic displacement of amplitude 10 mm at a frequency of
+35 hz. Find:
+
+(i) The steady state amplitude of the absolute displacement of the block.
+(ii) The relative amplitude of the block.
+
+Q4a) Derive expression for torsional vibrations for a single rotor shaft system, (04)
+neglecting the inertia of the shaft, also, Illustrate diagrammatically, the
+difference between torsional, transverse and longitudinal vibrations.
+
+Q4b) Obtain torsional natural frequencies of a turbine-coupling-generator system. (08)
+The mass moment of inertia of the turbine, coupling and generator are Ia= 0.15
+kg-m?, Ip = 0.3 kg-m? and Ic = 0.09 kg-m’, respectively; and these are assumed
+to be thin discs. Take the modulus of rigidity of the shaft as G = 0.84 x 10!!
+N/m2. Assume the shaft diameter is uniform throughout and is equal to 0.07 m,
+the length of shafts between the turbine and coupling is 1.5 m, and between
+generator and bearing is 1 m. Consider the shaft as massless.
+
+2/3
+--- page 3 ---
+Q5a) Discuss the balancing of four cylinder LC. Engine in detail using suitable (04)
+diagrams.
+
+Q5b) Asystem carries four masses A, B, C and D.of magnitudes 9 kg, 7kg,8 kg and (08)
+6 kg respectively. The radii of rotation for each of these masses are 100 mm,
+120 mm, 140 mm and 120 mm respectively. The orientation of masses B, C
+and D from mass A is 60°, 135° and 270° respectively measured in
+anticlockwise direction. The planes containing masses B, C and D are
+positioned at a distance of 160 mm, 320 mm and 560 mm respectively from
+plane containing mass A. If the shaft is balanced by two counter masses P and
+Q, each located at 100 mm radii, revolving in planes midway between planes
+of A and B, and midway between planes of C and D respectively. Determine
+the magnitude of masses and their respective angular positions.
+
+Q6) Estimate the fundamental frequency of the lateral vibration of a shaft carrying (12)
+three rotors (masses), as shown in Fig. 2, with m; = 20 kg, m2 = 50 kg, m3 =
+40 kg, li = 1m, lo = 3-m, ls = 4 m and ly = 2 m. The shaft is made of steel with
+a solid circular cross section of diameter 10 cm. The deflection of the beam
+w(x) due to static load P is given by the following expressions: Take E=207
+
+GPa.
+Pbx 4 2 2
+7 (FP —b* — <3 Osxsa
+LA 6Ell -
+w(x) seal Pa(! = x) _ , -
+=————_ | Fx = Dee; asxsl
+6EH °
+thts
+= Ms
+Hh, =
+Ss
+GTI | os OF
+! | b 5 |
+| . ; ps
+Fig. 2’Shaft carrying several masses.
+Q7) Write a short note on: (12)
+a) Equivalent stiffness of springs in series, parallel and inclined arrangement. (04)
+b) Vibration Measurement parameters and instruments. (04)
+
+c) Determination of natural frequency of Multi-degree of freedom systems using (04)
+Dunkerley's method.
+
+3/3
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper c652b981d5d9
 
 - Departments: Mechanical
@@ -2954,146 +3710,102 @@ methods? Elaborate using an example.
 3/3
 ````
 
-## 2017-18 · Re-Exam · Sem 5 · paper e3671e1a582e
+## 2017-18 · Re-Exam · Sem 5 · paper 36a8f9e692b6
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engineering Re-exam 2017-18.pdf` (+1 identical copies)
-- Printed on paper: exam date: 12 November 2019
-- Text: ocr (3 pages), mean OCR confidence 93.0
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engg 2014-15,2015-16,2016-17 Re-exam.pdf`
+- Printed on paper: exam date: 27 November 2017
+- Text: text (3 pages)
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA TECH (Mechanical) .- Year: III “ Semester: V
-
-Academic Year: 2019-20
-
-Subject: Vibration Engineering ~
-
-Date: 12 November 2019 ~
-
-Instructions: Candidates, should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ‘Suitable data if necessary.
-
-Q.1 Solve any two sub-questions from A ,B, C and any two sub-questions from D, E, F. [14]
-A. Write a short note on an underdamped system. [03]
-B. Citing two practical examples, discuss the significance of vibration isolation in engineering. [03]
-C. A system comprises of two rotors connected by a shaft which has two sections of equal [03]
-
-lengths but diameters ‘d’ and ‘2d’ respectively. Derive the expression for equivalent length
-of a shaft of diameter ‘d’ to replace the existing shaft.
-
-D. Define degree of freedom. With justification, cite examples of one, two and three degree of [04]
-freedom systems.
-
-E. Discuss balancing of single cylinder engine. [04]
-
-F. Elaborate on the steps required to find fundamental natural frequency of a multi-degree of [04]
-freedom system based on its maximum kinetic energy and maximum potential energy.
-
-Q.2A. A machine of mass 20 kg is mounted on springs and dashpots. The total stiffness of the [07]
-spring is 100 N/cm and the damping coefficient is 1.5 Ns/m. If the system is initially at rest
-and a velocity of 0.1 m/s is imparted to the mass. Determine the displacement and velocity
-of the mass as a function of time.
-
-Q.2B. Derive the expression for natural frequency of a compound pendulum. Using this expression, [07]
-calculate the moment of inertia of a connecting rod which is displaced and allowed to
-oscillate about one of its ends. The mass of the rod is 5 kg and the CG is 20 cm from the
-pivot point. The natural frequency of oscillation is 40 cycles per minute.
-
-1/3
---- page 2 ---
-Q.3A. A vibrating system, supported on a spring and dashpot has a stiffness of 6400 N/m and the [07]
-damping coefficient of 125 Ns/m. It comprises of an unbalanced mass of 0.5 kg with an
-eccentricity of 50 mm. The total mass of the system is 20 kg. Ifthe system is running at 400
-rpm, determine:
-
-(i) Damping factor
-(ii) Amplitude of vibration
-(iii) Phase lag
-(iv) Amplitude at resonance
-Q.3B. Compare the principle and working of vibrometer, accelerometer and velometer assuming [07]
-* that seismic instrument is used as a fundamental structure in the design of vibrometer,
-velometer and accelerometer.
-
-Q.4A. A steel shaft 1500-:mm long is having multiple steps. The first section is of diameter 95 mm_ [07]
-and length 0.6 m, the second section is having diameter of 60 mm for 0.5 m length and the
-remaining section has a diameter of 50 mm. The shaft carries two flywheels at the ends. The
-first flywheel (located near 95 mm diameter section) is having a mass of 900 kg and 0.85 m
-radius of gyration while the second flywheel has a mass of 700 kg and 0.55 m radius of
-gyration. Determine the natural frequency of torsional vibrations when G=80 GPa. Also,
-draw the mode shapes.
-
-Q.4B. A vertical shaft 5 mm in diameter is 250 mm long and rotates in long bearings (fixed-fixed [07]
-condition). A disc of mass 60 kg with eccentricity 0.3 mm is mounted at the centre of the
-shaft. Determine the critical speed of rotation and the maximum stress in bending if the shaft
-
-FL
-rotates at 80% of the critical speed. Take E= 200 GPa, Bending moment, M= er
-Q.5A. Determine the natural frequencies of the following system. [07]
-LL
-
-‘2 ;
-L
-
+Programme: MBA Tech (Mechanical)   Year: III   Semester: V
+,/   Batch: 2014-15/2015-16/2016-17
+Academic Year: 2017-2018
+J   Subject: Vibration Engineering
+Date: 27 November 2017
+Re-Examination
+Instruction: Candidates should read carefully the instructions printed on the questLonpap~f;'a
+the cover of the Answer Book, which is provided for their use.   L
+-
+NB:   '
+1. Question No. I is compulsory
+2. Out of remaining questions attempt any four questions
+3. In all five questions to be attempted
+4. All questions carry equal marks
+5. Answer to new question should be started on a fresh page
+6. Figures to the right hand side indicate full marks
+Q. 1) Solve any four
+(a) Explain peak frequency and peak amplitude.   (3)
+(b) Explain working of' Vibrometer' and' Accelometer'.   (3)
+(c) Explain Rayleigh Ritz's and Dunkerley's Method for multi degree of freedom system   (3)
+(d) What is transmissibility ratio for a damped forced vibrating system and explain the features
+using a plot of transmissibility ratio vs frequency ratio.   (3)
+(e) Explain with sketch longitudinal, transverse, and torsional vibration.   (3)
+Q.2)
+(a) A hinged rigid bar of length 1is connected by two springs of stiffness, k, and k2and is subjected
+to an initial disturbanc-e. Assuming that the angular displacement of the bar is small (8), find the
+equivalent spring constant of the system at a distance I.   (4)
 c
-
-‘S
-a
-
-OLPLETITE-
-
-Q.5B. Define magnification factor and discuss the effect of damping ratio and frequency ratio on [07]
-its magnitude. Also, derive the condition for maximum value of the magnification factor of
-a system subjected to harmonic excitation with magnitude Fo.
-
-Q.6A. A shaft carries four masses in parallel planes A, B, C and D in this order along its length. [08]
-The masses at B and C are 18 kg and 12.5 kg respectively and each of them is place at a
-radius of 60 mm. The masses at A and D are placed at a radius of 80 mm. The angle between
-the masses at B and C is 100° and that between masses B and A is 190°, both being measured
-
-2/3
+////.z   .".
+(b) What is logarithmic decrement? Derive the equation for logarithmic decrement.   (3)
+--- page 2 ---
+(c) Find the equivalent spring constant of the system shown   (2)
+k
+//   k
+rti:.YiYj}
+Wm'
+18l:OJ"'L--fCfi11}   F
+k   k
+(d) Find a single equivalent damping constant for the following cases:
+i.   When three dampers are parallel.
+ii.   When three dampers are in series.   (3)
+Q.3)
+(a) A lOO-kgmachine is supported on an isolator of stiffuess 700x 103 N/m. The machine causes a
+vertical disturbance force of 350 N at a revolution 0[3000 rpm. The damping ratio of the isolator
+is S = 0.2. Calculate (a) the amplitude of motion caused by the unbalanced force, (b) the
+transmissibility ratio, and (c) the magnitude of the force transmitted to ground through the isolator.
+.   (5)
+(b) An automobile is modeled as a single-degree-of- freedom system vibrating in the vertical
+direction. It is driven along a road whose elevation varies sinusoidally. The distance from peak to
+trough is 0.2 m and the distance along the road between the peaks is 35 m. If the natural frequency
+of the automobile is 2 Hz and the damping ratio of the shock absorbers is 0.15, determine the
+amplitude of vibration of the automobile at a speed of 60 km/hour. If the speed of the automobile
+is varied, find the mos(unfavorable speed for the passengers.   (5)
+(c) What is damping factor and damping ratio?   (2)
+Q.4)
+(a) Explain underdarnped,   over-damped   and critically damped vibrations ..   (3)
+2 I/.
+--r !
 --- page 3 ---
-in the same direction. The axial distance between the planes A and B is 100 mm and that
-between B and C is 200 mm. If the shaft is in complete dynamic balance, determine:
-(i) The magnitude of masses at A and D;
-(ii) The distance between planes A and D;
-(iii) The angular position of the mass at D.
-Q.6B. Discuss the procedure to determine the unbalance primary and secondary forces in Vengine. (06)
-Show their directions with the help of a diagram.
-Q.7A. Explain the Dunkerley’s method and use it to estimate the fundamental natural frequency of [08]
-the system shown in the following figure. Take young’s modulus=E and moment of Inertia=
-I.
-
-my; My Ms
-i
-
-~ fx) } x,(0) } x3(0) , =
-
-oe
-
-Q.7B. Describe the steps required to find the natural frequency of a two degrees of freedom [06]
-torsional system having both ends fixed using Holzer’s method. Also, derive the general
-expression for finding amplitude of subsequent rotor based on the value for the previous
-
-rotor.
-
-3/3
+-----
+(b) A steel shaft 1.5 m long is 95 mm in diameter for the first 0.6 m of its length, 60 mm in diameter   .
+for the next 0.5 m of the length and 50 mm in diameter for the remaining 0.4 m of its length. The
+shaft carries two flywheels at two ends, the first having a mass of 900 kg and 0.85 m radius of
+gyration located at the 95 mm diameter end and the second having a mass of 700 kg and 0.55 m
+radius of gyration located at the other end. Determine the location of the node and the natural
+frequency of free torsional vibration of the system. The modulus of rigidity of shaft material may
+be taken as 80 GN / m?   (6)
+95mm
+--D--------~-=r-t~-------1----   -i- v=
+r---   -~)'!ob05
+O_Bm   t~   .,~ OA m
+.•.~,   /~ '\
+\)   ~(
+10(   ·1.5 m   )0,
+(c) Derive the equation of natural frequency oflongitudinal system considering the effect of inertia
+of the spring.   (3)
+Q.5)
+(a) A four crank engine has the two outer cranks set at 1200 to each other, and their reciprocating
+masses are each 400 kg. The distance between the planes of rotation of adjacent cranks are 450
+mm, 750 mm and 600 mm. If the engine is to be in complete primary balance, find the reciprocating
+mass and the relative angular position for each of the inner cranks. If the length of each crank is
+300 mm, the length of each connecting rod is 1.2 m and the speed of rotation is 240 RPM, what is
+the maximum secondary unbalanced force?   (8)
+(b) Explain balancing of V - engine.   (4)
+Q·0   ....   .
+(a) What is magnification' factor? Derive expression ofmagnification   factor for an un-damped
+spring mass system with single degree of freedom.   (4)
 ````
 
 ## 2016-17 · Final-Exam · Sem 6 · paper 0d140689203d
@@ -3256,6 +3968,158 @@ possible natural frequencies of a system having one end fixed and carrying
 three springs and three masses.
 ````
 
+## 2016-17 · Re-Exam · Sem 6 · paper 99ab098af405
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING BATCH 13-14 RE EXAM_99ab098af4.pdf`
+- Printed on paper: max marks: 100; exam date: 11 July 2017
+- Text: ocr (3 pages), mean OCR confidence 90.4
+
+````text
+l ,
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) Year: III Semester: VI
+in :
+Batch: 2013-14 “on Mlaeag Ss
+Academic Year: 2016-2017 “4 oo |
+ye ; !
+Subject: Vibration Engineering Blow 195
+Marks: 100 :. S¢ ko» RAP” te,
+
+Date: 11 July 2017 Time: 2.00 p t@S.00 pm oy ix fp
+. Durations: 3 ( # Bis —
+No. of Pages:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql) Answer any four out of following questions: (20)
+~ --a) Define logarithmic decrement. Derive an expression for it in terms of damping (05)
+factor.
+
+b) What do you understand by the term magnification factor? Derive the condition (05)
+for maximum magnification factor.
+
+c) Explain the term whirling speed of shaft. State the reasons that lead to this (05)
+phenomenon.
+
+d) Discuss the effect of change in firing order from 1-2-3-4 to 1-2-4-3 on the (05)
+primary unbalanced forces and couples in a four cylinder Inline engine.
+
+e) Discuss the procedure to determine natural frequencies of torsional vibration (05)
+for a shaft carrying three rotors. What is the drawback of this method?
+
+Q2a) A machine of mass 20 kg is mounted on springs and dashpots. The total spring (10)
+stiffness is 100 N/cm and the total damping coefficient is 1.5 Ns/cm. If the
+system is initially at rest and a velocity of 10 cm/s is imparted to the mass,
+determine(a) the displacement and velocity as a function of time and(b)the
+displacement and velocity at t=1 second.
+
+al
+Q2b) Determine the mass moment of inertia and torsional stiffness for an equivalent (10)-
+system model of the system of Fig, 1 when @ , the clockwise angular
+gi: displacement of the bar, measured from the system's equilibrium position, is used
+» ag thes generalized coordinate, also determine its natural frequency.: Include.:::.: .axis <
+Page 1 of 3
+--- page 2 ---
+approximations for the inertia effects of the springs:and assume small 0.
+t a?
+=
+<— im, kom,
+1 Slender bar of mass m =
+Co
+
+~*~ i ) =
+r ah of, Le
+7 : = 4
+
+Fig. 1
+
+Q3a) The tail rotor section of the helicopter of Fig. 2 consists of four blades, each of (10)
+mass 2.3 kg, and an engine box of mass 28.5 kg. The center of gravity of each
+blade is 170 mm from the rotational axis. The tail section is connected to the
+main body of the helicopter by an _ elastic structure. The natural frequency of
+the tail section is observed as 135 rad /s. During flight, the rotor operates at 900
+r/min. What is the vibration amplitude of the tail section if one of the blades falls
+off during flight? Assume a damping ratio of 0.05.
+
+Fig. 2
+Q3b) A heavy machine of 3000 N, is supported on a resilient foundation. The static (10)
+eos deflection of the foundation due to the weight of the machine is found to be 7.5
+cm. It is observed that the machine vibrates with an amplitude of 1 cm when the
+base of the machine is subjected to harmonic oscillations at the undamped natural
+frequency of the system with an amplitude of 0.25 cm. Find (a) the damping
+constant of the foundation (b) the dynamic force transmitted to the base (c) the
+amplitude of the displacement of the machine relative to the base.
+
+Q4a)_ A Shaft of length 1.25 m is 75 mm in diameter for the first 275 mm of its length, (10)
+125 mm in diameter for the next 500 mm length, 87.5 mm in diameter for the
+next 375 mm length and 175 mm in diameter for the remaining 100 mm of its
+length. The shaft carries two rotors at two ends. The Mass Moment of Inertia of
+the first rotor is 75 kgm? whereas of the second rotor is 50 kgm?.Find the
+frequency of natural torsional vibrations of the system, also draw the mode
+shape and determine amplitude ratio for the two rotors. The modulus of rigidity
+of shaft material may be taken as 80 GPa.
+Q4b) A vertical shaft of 5 mm diameter is 200 mm long and is supported in long (10)
+bearings at its ends. A disc of mass 50 kg is attached at the centre of the shaft.
+Find the critical speed of rotation and maximum bending stress when the shaft
+is rotating at 75% of the critical speed. The centre of the disc is 0.25 mm away
+from the geometric axis of the shaft. Take E=200 GPa.. .
+Q5a) Discuss balancing of a system having a*shaft carrying four masses revolving in (08)
+
+Page 2 of 3
+--- page 3 ---
+different planes using analytical as well as graphical method:
+
+Q5b) -A four cylindervertical engine has cranks 150 mm long. The planes of rotation of» (12)
+the first, second and fourth cranks are 400 mm, 200 mm and 200 mm
+respectively from the third crank and their reciprocating masses are 50 kg, 60 kg
+and 50 kg respectively. Find the mass of the reciprocating parts for the third .
+cylinder and the relative angular positions of the cranks in the order that the
+engine may be in complete primary balance.
+
+Q6) For a simply supported beam shown in Fig.3, the deflection of beam at distance x (20)
+from left is given by:
+Wbx P
+Y= op (U- x? —b )for x < (l—b)
+Where, I=length of the beam and b is distance of the load from right support.
+Find the lowest natural frequency of transverse vibrations of the system using:
+i. Rayleigh's method
+it. Dunkerley's method.
+when E=196 GPa, I=10° m*, mi=40 kg and m= 20 kg.
+
+m4 m2
+
+Q7) Write short notes on:- (20)
+a) Type of vibrations. (05)
+b) Vibration Measurement. (05)
+c) Partial Balancing of Single cylinder engine. (05)
+
+d) Application of Dunkerley's Method to determine critical speed of shaft carrying. (05)
+a central load and having a significant mass per unit length.
+
+Page 3 of 3
+````
+
 ## 2016-17 · Re-Exam · Sem 6 · paper cc6fd4705e15
 
 - Departments: Mechanical
@@ -3263,6 +4127,7 @@ three springs and three masses.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING BATCH 14-15, 15-16, 16-17 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 11 July 2017
 - Text: ocr (2 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 os SVKM’s NMIMS
@@ -3374,7 +4239,6 @@ ve bet, bs,
 inf = fui] = bvindae |
 a ia am
 
-maeal TITIIT TTT TITIES ITaT eI TT P TIT T TT ITI TIT TD
 
 Q.7. a) A shaft of negligible weight 6 cm diameter and 5 m long is simply supported at the ends and carries four
 weights 50kg each at equal distance over the length of the shaft. Find the frequency of vibration by
@@ -3390,403 +4254,6 @@ Where Sis distance from one support and Z is distance from another support.
 b) Explain disadvantages of Dunkerley’s method and Rayleigh method. (02)
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper 194c5f151da6
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 22 April 2019
-- Text: ocr (3 pages), mean OCR confidence 92.4
-
-````text
-SVKM’S NMIMS
-CHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Year: IMf Semester: VI
-
-MUKESH PATEL S
-
-Program B. Tech (MECHANICAL)
-/ AcademicYear: 2018-2019
-
-Subject: Vibration Engineering
-
-Date : 22 April 2019
-
-0
-Re-Examination (2016-17) 7
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question Ne. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql) Answer any four out.of following questions: aa a (12)
-a) Discuss methods used to determine natural frequency of any system. (03)
-b) Define force transmissibility. Discuss the effect of damping factor and (03)
-
-frequency ratio on the transmissibility.
-
-c) Describe the various modes of vibration for a two rotor system and derive (03)
-expressions to determine natural frequency of the system and ratio of
-amplitudes for the two rotors. .
-
-d) Discuss balancing of V Engines. (03)
-
-e) What is the principle of Rayleigh's method? Illustrate the procedure to (03)
-determine fundamental natural frequency of any practical system using this
-method.
-
-Q2a) Derive the expression for displacement and velocity for an underdamped (06)
-system as a function of time 't’ when the initial conditions are: at t-0, x = Xo
-and at t=0, x = 0.Compare the response of such system with a critically
-damped system with same initial conditions.
-Q2b) Determine equivalent mass and equivalent stiffness for the system shown in (06)
-=— Fig.1, when x is the displacement of mass m1 from its equilibrium position and
-also derive an expression for the natural frequency. Mass moment of inertia of
-
-mo bell crank lever is I.
---- page 2 ---
-Q3 a)
-
-Q3 b)
-
-Q4 a)
-
-Q4 b)
-
-Fig.1
-
-When a free vibration test is run on a machine shown in Fig.2, the ratio of
-amplitudes of two successive cycles was found to be 2.5 is to 1.Determine the
-responsé of the machine due to rotating unbalance of magnitude 0.25 kgm when
-the machine operates at 2000 rpm and the damping is assumed to be viscous.
-Take E =200 GPa, I=4.5 X 10° m*.
-
-Also determine the magnitude of maximum steady state amplitude of the
-
-system.
-
-fe BO I
-
-Fig.2
-
-A torsional system consists of a disc of mass moment of inertia J = 10 kgm’, a
-torsional damper of damping coefficient ¢ = 300 N-m-s/rad, and steel shaft of
-diameter 4 cm and length | m (fixed at one end and attached to the disc at the
-other end). A steady angular oscillation of amplitude 2° is observed when a
-harmonic torque of magnitude 1000 N-m is applied to the disc. (a) Find the
-frequency of the applied torque, (b) find the maximum torque transmitted to the
-support. Assume modulus of rigidity for the steel rod to be 0.83%10!! N/m’.
-
-A single cylinder IC. Engine drives a centrifugal pump, the rotating mass of the
-engine, flywheel and the pump with a shaft is equivalent to a three rotor system.
-The mass moment of inertia of rotors A,B and C are 0.15 kgm’,0.3 kgm? and
-0.09’kgm’.The length of shaft between A and B is 1.5 m and between Band C
-is 1 m. Diameter of shaft on both sides is 70mm.Find the natural frequency of
-torsional vibrations. Take G=84 GPa. Also draw the mode shapes.
-
-A vertical steel shaft 15 mm diameter is held in long bearings 1 m apart and
-carries a disc of mass 15 kg at its centre. The eccentricity of the dise from the
-centre is 0.30 mm. Take E=200 GPa and permissible stress in the shaft material
-
-as 70 MPa. Determine:
-
-2 of 3
-
-(06)
-
-(06)
-
-(06)
-
-(06)
---- page 3 ---
-i. The critical speed of the shaft
-ii. The range of speed over which it is unsafe to run the shaft. Ls
-
-For a shaft with fixed-fixed end conditions, Bending moment is given by :
-M=WI/8.
-
-Q5a) Discuss balancing of a multi-cylinder inline engine. How does it differ from (04)
-balancing of masses revolving in different planes?
-
-Q5b) A Shaft carries four rotating masses A, B, C and D which are completely (08)
-balanced. The masses B, C and D are 50 kg, 80 kg and 70 kg respectively. The
-masses C and D make angles of 90° and 195° respectively with mass B in the
-same sense. The masses A, B, C and D are concentrated at radius 75 mm, 100
-mm, 50 mm and 90 mm respectively. The plane of rotation of masses B and C
-are 250 mm apart. Determine:
-
-i. The mass A and its angular position
-ii. The position of planes of A and D.
-
-Q6) For the system shown in Fig.2, obtain natural frequencies between 0-2 rad/s: (12)
-Use atleast 8 iterations.
-
-a J2 ds
-me Ka “< Ka y
-a a 7
-Figg
-
-Q7 a) Derive an expression for natural frequency of a spring mass system considering (03)
-mass of the spring.
-
-Q7b) With the help of diagram, explain principle, construction and working of (04)
-velocity pick-ups.
-
-Q7c) Write.a short note on Dunkerley's method. State its limitation. (03)
-Q7d) Write the expression for primary unbalanced force in a single cylinder 1.C. (02)
-engine due to partial balancing. Draw the diagram representing forces due to
-
-partial balancing.
-
-3 of 3
-````
-
-## 2016-17 · Re-Exam · Sem 6 · paper 5c35173a50a3
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION_ENGINEERING_BATCH_14-15_16-17_RE_EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2018
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-
-Programme: B. Tech (MECHANICAL) Year: III Semester: VI
-
-Batch: (2014-15 / 2016-17)
-
-Academic Year: 2017-18
-
-Subject: Vibration Engineering ».
-Marks: 60 orm
-Date: 02 July 2018 Time: 2.00 pm to 5.08
-Durations: 3 (hrs)
-No. of Pages: __O2—
-Re-Examination _
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-NB:1. Question No. 1 is compulsory ‘
-2. Out of remaining questions attempt any four questions
-3. In all five questions to be attempted
-4. All questions carry equal marks
-5. Answer to new question should be started on a fresh page
-6. Figures to the right hand side indicate full marks
-7. Use of scientific calculator is allowed
-
-Q. 1) Solve any four
-
-(a) Explain the difference between an under damped, over-damped, and critically damped system. (3)
-(b) Explain working of ‘Vibrometer’. Plot a graph explaining the principle. (3)
-(c) What is logarithmic decrement? Derive an expression for logarithmic decrement. (3)
-(d)Explain peak frequency and peak amplitude with graph. (3)
-(e) Explain coulomb damping. Plot a graph of amplitude vs time for two cycles. (3)
-
-Q. 2) (a) In the figure shown, the mass m is suspended by means of spring k2 from the end of a rigid massless
-beam that is of length £ and attached to the frame:at its left end. It is also supported in a horizontal position by a
-spring k1 attached to the frame as shown. Neglecting the mass of rod, find the natural frequency of the system.
-
-Ry
-4O
-|
-
-Ge]
-
-(b) Derive the natural frequency of an un-damped spring mass system suspended freely, taking into account the
-
-mass of a spring. (4)
-(c) What are transverse vibrations, longitudinal vibration and torsional vibrations? Illustrate each type with
-
-sketches. (4)
-
-Q.3)
-
-— (a) A machine part weighing 20 N vibrates in a viscous medium. Determine the damping coefficient when a
-harmonic exciting force of 25 N results in a resonant amplitude of 0.01 m with a period of 0.2 sec. If the same
-gt: system is excited by a harmonic force of frequency 4 Hz. What will be the percentage increase in the amplitude
-of forced vibration when dashpot is removed ? (4)
-(b) Calculate the natural frequency of torsional vibration of two rotor system shown in figure. The mass moment
-of inertia of rotor A and B are 0.20 kg-m? and 0.8 kg-m? respectively. The modulus of rigidity is 80 GN / m’.
-
-Show the mode shape. (6)
-
-Rotor &
-
-d,= 50
-RotorA   d,= 25mm 2 mm
-
-—— a
-
-1,=200mm = '1,= 150 mm {,= 250 mm }
-: el 2
---- page 2 ---
-=
-many
-
-(c) Explain damping coefficient and damping ratio (Derive the relevant equations). (2)
-
-Q. 4)
-
-(a) A spring-mass-damper system, having a natural frequency of 100 Hz, and a damping constant of 20 N-s/m, is
-used as an accelerometer to measure the vibration of a machine operating at a speed of 3000 rpm. If the actual
-acceleration is 10 m/s, and recorded acceleration is 9 m / s*, find the mass and spring constant of the
-accelerometer. (4)
-
-(b) Derive the equations of primary and secondary unbalanced forces of V-twin engine. (4)
-
-(c) Explain, Dunkerley’s and Rayleigh’s method to derive natural frequency of transverse vibrations of a shaft,
-subjected to a number of point loads. ; (4)
-
-Q. 5)
-(a) A, B, C, and D are four masses carried by a rotating shaft of radii 110, 140, 210, and 160 mm respectively.
-The planes in which the masses revolve are spaced 700 mm apart and the masses of B, C, and D are 12 kg, 7 kg,
-
-and 5 kg respectively. Find the required mass A and the relative angular positions of the four masses so that the
-
-shaft is in complete balance. (8)
-(b) What is force transmissibility ratio? Explain salient features of variation of transmissibility ratio Vs frequency
-ratio using a graphical plot for different damping values. (4)
-
-Q. 6) The natural frequency of transverse vibration from (Rayleigh’s method ) of beam in figure is 25 rad/s. Find
-the natural frequency of vibration if another 30 N load is added at 40 cm from the left support
-20N 30N 20N
-
-AN 20cm
-
-50cm
-
-70cm
-
-20cm.
-
-Deflection at section i due to unit load at section j is given as:
-
-_ SiZj 2 _ 2 _ 72 * > _ . 7 ¢
-oy = ae (l Sp -Z; )for i + j and U;; = Ujj, where S is distance from one support and Z is
-distance from another support. Find natural frequency of system using Rayleigh’s method. Compare it with the
-natural frequency obtained from Dunkerley’s method. (12)
-
-Q. 7) (a) Determine the natural frequencies in the range of 0 to [Bana mode shapes of the system using Holzer’s
-
-method. Draw mode shapes for the frequencies you have found out. How many natural frequencies does the
-— system have? (12)
-
-28 AT 31 IW I
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 36a8f9e692b6
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engg 2014-15,2015-16,2016-17 Re-exam.pdf`
-- Printed on paper: exam date: 27 November 2017
-- Text: text (3 pages)
-
-````text
-Programme: MBA Tech (Mechanical)   Year: III   Semester: V
-,/   Batch: 2014-15/2015-16/2016-17
-Academic Year: 2017-2018
-J   Subject: Vibration Engineering
-Date: 27 November 2017
-Re-Examination
-Instruction: Candidates should read carefully the instructions printed on the questLonpap~f;'a
-the cover of the Answer Book, which is provided for their use.   L
--
-NB:   '
-1. Question No. I is compulsory
-2. Out of remaining questions attempt any four questions
-3. In all five questions to be attempted
-4. All questions carry equal marks
-5. Answer to new question should be started on a fresh page
-6. Figures to the right hand side indicate full marks
-Q. 1) Solve any four
-(a) Explain peak frequency and peak amplitude.   (3)
-(b) Explain working of' Vibrometer' and' Accelometer'.   (3)
-(c) Explain Rayleigh Ritz's and Dunkerley's Method for multi degree of freedom system   (3)
-(d) What is transmissibility ratio for a damped forced vibrating system and explain the features
-using a plot of transmissibility ratio vs frequency ratio.   (3)
-(e) Explain with sketch longitudinal, transverse, and torsional vibration.   (3)
-Q.2)
-(a) A hinged rigid bar of length 1is connected by two springs of stiffness, k, and k2and is subjected
-to an initial disturbanc-e. Assuming that the angular displacement of the bar is small (8), find the
-equivalent spring constant of the system at a distance I.   (4)
-c
-////.z   .".
-(b) What is logarithmic decrement? Derive the equation for logarithmic decrement.   (3)
---- page 2 ---
-(c) Find the equivalent spring constant of the system shown   (2)
-k
-//   k
-rti:.YiYj}
-Wm'
-18l:OJ"'L--fCfi11}   F
-k   k
-(d) Find a single equivalent damping constant for the following cases:
-i.   When three dampers are parallel.
-ii.   When three dampers are in series.   (3)
-Q.3)
-(a) A lOO-kgmachine is supported on an isolator of stiffuess 700x 103 N/m. The machine causes a
-vertical disturbance force of 350 N at a revolution 0[3000 rpm. The damping ratio of the isolator
-is S = 0.2. Calculate (a) the amplitude of motion caused by the unbalanced force, (b) the
-transmissibility ratio, and (c) the magnitude of the force transmitted to ground through the isolator.
-.   (5)
-(b) An automobile is modeled as a single-degree-of- freedom system vibrating in the vertical
-direction. It is driven along a road whose elevation varies sinusoidally. The distance from peak to
-trough is 0.2 m and the distance along the road between the peaks is 35 m. If the natural frequency
-of the automobile is 2 Hz and the damping ratio of the shock absorbers is 0.15, determine the
-amplitude of vibration of the automobile at a speed of 60 km/hour. If the speed of the automobile
-is varied, find the mos(unfavorable speed for the passengers.   (5)
-(c) What is damping factor and damping ratio?   (2)
-Q.4)
-(a) Explain underdarnped,   over-damped   and critically damped vibrations ..   (3)
-2 I/.
---r !
---- page 3 ---
------
-(b) A steel shaft 1.5 m long is 95 mm in diameter for the first 0.6 m of its length, 60 mm in diameter   .
-for the next 0.5 m of the length and 50 mm in diameter for the remaining 0.4 m of its length. The
-shaft carries two flywheels at two ends, the first having a mass of 900 kg and 0.85 m radius of
-gyration located at the 95 mm diameter end and the second having a mass of 700 kg and 0.55 m
-radius of gyration located at the other end. Determine the location of the node and the natural
-frequency of free torsional vibration of the system. The modulus of rigidity of shaft material may
-be taken as 80 GN / m?   (6)
-95mm
---D--------~-=r-t~-------1----   -i- v=
-r---   -~)'!ob05
-O_Bm   t~   .,~ OA m
-.•.~,   /~ '\
-\)   ~(
-10(   ·1.5 m   )0,
-(c) Derive the equation of natural frequency oflongitudinal system considering the effect of inertia
-of the spring.   (3)
-Q.5)
-(a) A four crank engine has the two outer cranks set at 1200 to each other, and their reciprocating
-masses are each 400 kg. The distance between the planes of rotation of adjacent cranks are 450
-mm, 750 mm and 600 mm. If the engine is to be in complete primary balance, find the reciprocating
-mass and the relative angular position for each of the inner cranks. If the length of each crank is
-300 mm, the length of each connecting rod is 1.2 m and the speed of rotation is 240 RPM, what is
-the maximum secondary unbalanced force?   (8)
-(b) Explain balancing of V - engine.   (4)
-Q·0   ....   .
-(a) What is magnification' factor? Derive expression ofmagnification   factor for an un-damped
-spring mass system with single degree of freedom.   (4)
-````
-
 ## 2016-17 · Re-Exam · Sem 5 · paper 42529f0cd11d
 
 - Departments: Mechanical
@@ -3794,6 +4261,7 @@ spring mass system with single degree of freedom.   (4)
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engg 2014-15,2015-16,2016-17 Re-exam_42529f0cd1.pdf`
 - Printed on paper: exam date: 29 May 2017
 - Text: ocr (3 pages), mean OCR confidence 89.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \ SVKM’s NMIMS
@@ -3808,7 +4276,6 @@ OLIN
 
 j Subject: Vibration Engineering uM | CONN
 j ar ee e
-j ; es Es i i
 Date: 29 May 2017. Timep i. P ae pn =
 Y Dura’ fi 3. % ‘e
 No. O(Pgees; > *
@@ -3926,7 +4393,6 @@ in Fig. 3, lying between 0.50 rad/s to 1.25 rad/s.
 4
 Z SIS. ——~ 2K [T] K
 
-SEE is a oe en —f-— - - d-
 FZ =
 
 Z J 25
@@ -3955,6 +4421,7 @@ determine its natural frequencies using Holzer’s method.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION_ENGINEERING_B_TECH_(MECHANICAL)__BATCH_15-16_FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
 - Text: ocr (3 pages), mean OCR confidence 85.9
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . NN SVKM’s NMIMS
@@ -4076,16 +4543,13 @@ Take: k=20KN /m and m=5 kg
 be x, mee, bs,
 
 | é* f 2k of &
-qv m tm KMS \rj an
 
-Kis AUEE LEBEL OEE EE EALL BELLS ASE CEASERS ALCL CALLE SUA LILLE ELLOS ELA Ed
 
 Q7. The frequency of transverse vibration of the beam shown in the figure is 20 rad/sec. Find the new frequency
 of vibration if another 30 N is added at 40 cm from left support. (12)
 
 Note: Deflection at section I due to unit load at section J is given by
 
-Uij= Si Zj (F — S? — Z?) / constant forSi>Zj and Uy=Uji forSi >Zj
 
 Si L qT Zz
 <I
@@ -4102,6 +4566,7 @@ bs loo OW
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration Engineering Batch 2015-16 Final.pdf`
 - Printed on paper: exam date: 03/12/2015
 - Text: ocr (4 pages), mean OCR confidence 88.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Na SVKM’s NMIMS
@@ -4143,7 +4608,6 @@ ia
 
 os
 
-6 B TERT DAYLE TEV ET EE EET LE
 e) Find the natural frequency of the system (6)
 J :
 --- page 2 ---
@@ -4312,7 +4776,6 @@ what would be the new diameter?
 
 Rotor A d5=150 mm Rotor B
 
-i mm ai mm d,= 90 mm
 
 T } I
 
@@ -4486,161 +4949,348 @@ ic
 4/4
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 0b97a3a75777
+## 2015-16 · Re-Exam · Sem 6 · paper b1a2967d582a
 
 - Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration Engineering 2015-16 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 90.3
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENNGINEERING B TECH (MECHANICAL) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 July 2016
+- Text: ocr (3 pages), mean OCR confidence 88.5
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY M
 
-Year: Ill Semester: V
+MUKESH PATEL SCHOOL OF TECHNOLOGY EERING
+Programme: B.Tech (Mechanical) Year: III } : VI
+Academic Year: 2015-16
+Batch: 2013-14
+Subject: Vibration Engineering Marks: 100
+Time: 2.00 pm - 5.00 pm
+Date: 04 July 2016 Durations: 3 (hrs)
 
-ANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Mechanical)
-
-Batch: 2015-16 ~
-Academic Year: 2017-2018
-
-Subject: Vibration Engineering -
-Marks: 60
-
-Date: .30 May 2018 ~ Time: 2.00 pm to 5.00 pm~
-Durations: 3 (Hrs)
-
-No. of Pages: _©%
 Re-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and
 on the cover of the Answer Book, which is provided for their use.
 
 NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
 
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions. 2
 3. Inall five questions to be attempted.
 
 4. All questions carry equal marks.
-5. Answer to each new question to be started ona fresh page.
+
+5. Answer to each new question to be started on a fresh page.
+
 6. Figures in brackets on the right hand side indicate full marks.
 
 7. Assume suitable data wherever necessary.
 
-Ql) Answer any four out of the following questions: (12)
-a) Derive expression for logarithmic decrement. (03)
-b) Enlist materials used for vibration isolation. How can be the effectiveness of (03)
+Ql. Answer any four out of following questions: [20]
+a) Show that one third mass of the spring is to be added along with mass attached inthe [5]
+system to obtain natural frequency of a spring mass system (when mass of the spring
 
-these isolators quantified. State corresponding formula.
-c) Derive expression for critical speed of shaft without considering the damping (03)
+is considered).
+b) Compare the construction and working of Vibrometer and accelerometer. [5]
+c) Explain the concept of critical speed of shaft. What could be the reasons of [5]
 
-effect.
-d) Compare reciprocating and rotating unbalance with examples. (03)
-e) Explain Holzer’s method with its applicability and limitations. (03)
-(04)
+eccentricity in a rotor?
+d) Using suitable diagrams, describe the methods of balancing a single unbalanced [5]
 
-Q2a) Compare Overdamped, critically damped and underdamped systems with
-respect to: Definition, Equation of motion and general solution, characteristics
+mass.
+e) Describe the method of determining natural frequencies of multi degree of freedom [5]
 
-and response curve and practical examples.
+spring mass system using Rayleigh's method.
 
-1/3
+Q2a) Acylinder of mass m and moment of inertia Jo is free to roll without slipping but is [10]
+constrained by two springs as shown in the Fig. 2.1.
+
+Ay mo k .
+
+yy : x
+: AAAS
+~~ ‘o SS
+N ~
+S ~
+S iS
+MASARARS ‘ SOA
 --- page 2 ---
-Q2b) Determine the natural frequency of the following system (see Fig. 1). The disc \
-of mass, ms and radius, rs rolls without slipping. Assume mass m is displaced
-by an amount x; in the downward direction.
+Q2.b)
 
-mass #72,
+Q3 a)
 
-ka vis
-On Ks
-7. IFFPP
-No slip
+Q3 b)
 
-Bell crank lever, ———~
-mass moment of
-inertia Jo
+Q3 ¢)
 
-Fig. 1 -
+Q4 a)
 
-Q3.a) The weight of a motor is 160 N and it runs at 1500 rpm. The unbalanced (06)
-rotating mass in the motor weighs 35 N and its centre of gravity is 0.05 cm
-away from the axis of rotation. The motor is mounted on five springs of
-negligible damping. The force transmitted is one-eleventh of the impressed
-force. Assuming equal distribution of the weight on five springs, determine:
+Q4 b)
 
-(i) Stiffness of each spring. ,
-(ii) Dynamic force transmitted to the foundation.
-(iii)Natural frequency of the system.
+Q5a)
 
-Q3 b) A 35 kg block is connected to a support through a spring of stiffness 1.4 x10° (06)
-N/m in parallel with a dashpot of damping coefficient 1.8 x 10? Ns/m. The
-support is given harmonic displacement of amplitude 10 mm at a frequency of
-35 hz. Find:
+Q5 b)
 
-(i) The steady state amplitude of the absolute displacement of the block.
-(ii) The relative amplitude of the block.
+Q6.
 
-Q4a) Derive expression for torsional vibrations for a single rotor shaft system, (04)
-neglecting the inertia of the shaft, also, Illustrate diagrammatically, the
-difference between torsional, transverse and longitudinal vibrations.
+A 20 kg mass is resting on.a spring of 4700 N/m and dashpot of 147 Ns/m in parallel. [10]
+Ifa velocity of 0.10 m/s-is applied to the mass at rest position, what will be its
+displacement from the equilibrium position at the end of first second?
 
-Q4b) Obtain torsional natural frequencies of a turbine-coupling-generator system. (08)
-The mass moment of inertia of the turbine, coupling and generator are Ia= 0.15
-kg-m?, Ip = 0.3 kg-m? and Ic = 0.09 kg-m’, respectively; and these are assumed
-to be thin discs. Take the modulus of rigidity of the shaft as G = 0.84 x 10!!
-N/m2. Assume the shaft diameter is uniform throughout and is equal to 0.07 m,
-the length of shafts between the turbine and coupling is 1.5 m, and between
-generator and bearing is 1 m. Consider the shaft as massless.
+®
+An electric motor is supported on a spring and a dashpot. The spring has a stiffness [10]
+6400 N/m and the dashpot offers resistance of 500 N at 4.0 m/s. The unbalanced mass
+0.5 kg rotates at 5 cm radius and the total mass of vibratory system is 20 kg. The
+motor runs at 400 rpm.
+Determine:
+i. Damping factor
+ii. Amplitude of vibration and phase angle
+iii. Resonant speed and resonant amplitude
+iv. Force exerted by the spring and dashpot on the motor.
+A seismic instrument is mounted on a machine running at 1000 rpm. The natural [6]
+frequency of the seismic instrument is 20 rad/sec. The instrument records a relative
+amplitude of 0.5 mm. Compute the displacement, velocity and acceleration of the
+machine. Damping on seismic instrument is neglected. ss
+How can we reduce the vibration transmissibility? List out the materials used as [4]
 
-2/3
+isolators and their features.
+
+A disc of mass 4 kg is mounted midway between bearings which may be assumed to [12]
+be simple supports. The bearing span is 50 cm. The steel shaft is of 10 mm diameter
+
+and is horizontal. The centre of gravity of the disc is displaced 2 mm from the
+geometric centre. The equivalent viscous damping at the centre of the disc-shaft may
+
+be assumed as 50 N-sec/m. If the shaft rotates at 250 rpm, determine the maximum
+
+stress in the shaft. Take E =1.96 x 10!! N/m’.
+
+Calculate the natural frequency of a shaft of diameter 10 cm and length 300 cm [8]
+carrying two discs of diameters 125 cm and 200 cm respectively at its ends and
+weighing 480 N and 900 N respectively. Modulus of rigidity of the shaft may be
+taken as 196 GN/m2.Draw the corresponding mode shape and calculate the ratio of
+
+amplitudes.
+
+Three masses ma, mg and mc of 45 kg, 55 kg and 60 kg are rotating at radii 30 mm, [15]
+35 mm and 25 mm respectively. The masses are at 75°, 155° and 250° from positive
+X direction. Distance between plane of rotation of ma and mp is 130 mm and between
+mp and mc is 50 mm. Mass mpg is on right side of ma and mc is on right side of ms.
+These are to be balanced by masses mz and my rotating in planes L and M at radius
+70 mm. Plane M is on right side of Plane L at a distance of 190 mm and Plane L is
+on right side of Plane A at a distance of 60 mm. Find:
+
+i. Masses miand mm
+
+ii. | Angular Positions of Masses mz and mm from positive X direction.
+Compare static and dynamic balancing and describe the procedure to balance several [5]
+masses rotating in the same plane.
+
+For the system shown in Fig. 6.1 estimate all the natural frequencies between the [20]
+range   =0.25 rad/s to @= 2.5 rad/s using Holzer’s method (Use atleast 10 iterations).
+
+2/5
+
+Gn
 --- page 3 ---
-Q5a) Discuss the balancing of four cylinder LC. Engine in detail using suitable (04)
-diagrams.
+4 3K a
 
-Q5b) Asystem carries four masses A, B, C and D.of magnitudes 9 kg, 7kg,8 kg and (08)
-6 kg respectively. The radii of rotation for each of these masses are 100 mm,
-120 mm, 140 mm and 120 mm respectively. The orientation of masses B, C
-and D from mass A is 60°, 135° and 270° respectively measured in
-anticlockwise direction. The planes containing masses B, C and D are
-positioned at a distance of 160 mm, 320 mm and 560 mm respectively from
-plane containing mass A. If the shaft is balanced by two counter masses P and
-Q, each located at 100 mm radii, revolving in planes midway between planes
-of A and B, and midway between planes of C and D respectively. Determine
-the magnitude of masses and their respective angular positions.
+a Li
+a 2d om
 
-Q6) Estimate the fundamental frequency of the lateral vibration of a shaft carrying (12)
-three rotors (masses), as shown in Fig. 2, with m; = 20 kg, m2 = 50 kg, m3 =
-40 kg, li = 1m, lo = 3-m, ls = 4 m and ly = 2 m. The shaft is made of steel with
-a solid circular cross section of diameter 10 cm. The deflection of the beam
-w(x) due to static load P is given by the following expressions: Take E=207
+Fig. 6.1
 
-GPa.
-Pbx 4 2 2
-7 (FP —b* — <3 Osxsa
-LA 6Ell -
-w(x) seal Pa(! = x) _ , -
-=————_ | Fx = Dee; asxsl
-6EH °
-thts
-= Ms
-Hh, =
-et “a ‘ Z. : as 4 Zz
-Ss
-GTI | os OF
-! | b 5 |
-| . ; ps
-Fig. 2’Shaft carrying several masses.
-Q7) Write a short note on: (12)
-a) Equivalent stiffness of springs in series, parallel and inclined arrangement. (04)
-b) Vibration Measurement parameters and instruments. (04)
+Q7 a) Compare Overdamped, critically damped and underdamped systems with respect to [5]
+following points:
+i. Definition
+ii. General solution
+iii. | Characteristics
+iv. Response curve
+v. Example
+07b) Define magnification factor and derive the condition for maximum magnification [5]
 
-c) Determination of natural frequency of Multi-degree of freedom systems using (04)
-Dunkerley's method.
+-
+factor.
+Q7c) What do you understand by the term partial balancing? Derive the formula for [5]
+primary unbalanced force in single cylinder I.C. Engine due to partial balancing.
+Q7d) Derive Dunkerley’s formula to determine fundamental natural frequency of multi- [5]
+degree of freedom systems.
+4 scents AD
+a
+
+3/4
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 008a426a2c95
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration Engineering Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 03/12/2015
+- Text: ocr (3 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (MECHANICAL) Year:III Semester: V
+
+Academic Year: 2015 - 16
+Batch:2014-15 : itera or
+
+Subject : Vibration Engineering Mark: PST MB ‘Y 4
+Time {1 ae 21.00» ya .
+Date :03/12/2015 Dura cs frei /s if
+
+Se sane" °
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provides for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume suitable data wherever necessary.
+
+Ql. Attempt any four out of the following questions:
+
+(a) What do you understand by the rate of decay of vibrations fora damped [3 Marks]
+system? Derive an expression for rate of decay in viscous damping.
+
+(b) What is magnification factor? How is it affected by the frequency ratio [“%i Marks]
+and damping ratio? State the condition tor maximum magnification
+factor.
+
+(c) How can we determine the natural] frequency of a system comprising of [2% Marks]
+shaft with different diameters for different lengths. In the same context
+define torsionally equivalent shaft.
+
+@ (d) Describe the procedure to balance a multi-cylinder inline engine, ['%' Marks]
+
+graphically and analytically.
+
+(e) What are multi degree of freedom systems? Explain Rayleigh’s method [z Marks]
+to determine the fundamental natural frequency of such systems.
+
+Q2(a)(i) Obtain the natural frequency of a spring mass system using equilibrium | [’z Marks]
+method. Also find the natural frequency of a compound pendulum using
+this method.
+— (ii) What is the value of c such that the system shown in figure 1 is [4 Marks]
+critically damped’ if m=20 kg and k=10000 N/m? Also draw the
+pei response curve for the corrésponding system.
+
+: ke>*
+
+k
+
+Figure 1
+
+t/s
+--- page 2 ---
+Q2(b) An under damped shock absorber is to be designed for an automobile. It
+is required that initial amplitude to be reduced to 1/16" in one cycle.
+The mass of the automobile is 200 kg and damped period of vibration is
+1 sec. Find the value of stiffness and damping coefficients of shock
+absorbers.
+
+Q3(a)(i) Draw and explain the vector diagram of forces corresponding to steady (2 Marks]
+state vibrations of a spring mass damper system undergoing harmonic
+excitation and derive the expression for steady state amplitude with the
+help of this diagram. Plot the corresponding displacement-time curve.
+
+(ii) A 45 kg machine is mounted on four parallel springs each of stiffness [3 Marks]
+2X10°N/mm. When the machine operates at 32 Hz; the machine’s
+steady state amplitude is measured as 1.5 mm. What is the magnitude of
+Harmonic excitation force provided to the machine at this speed?
+
+Q3(b) The static deflection of an automobile on its springs is 10 cm. Find the fg Marks]
+critical speed when the automobile is travelling on a road, see figure 2,
+which can be approximated by a sine wave of amplitude 8 cm and a
+wavelength 15 m. Assume the damping to be given by €=0.05.Also
+determine the amplitude of vibration at 75 kmph.
+
+1
+ati
+
+r 18m {
+Figure 2
+
+Q4(a)(i) Determine the natural frequency of free torsional vibrations of single [2 Marks]
+rotor shaft system considering the effect of inertia of the shaft.
+(ii) Derive an expression for critical speed of shaft in an undamped [3 Marks]
+condition. Discuss cases with varying angular velocity.
+
+Q4(b) A shaft of length 1.25 m is 75 mm in diameter for the first 275 mm of [6 Marks]
+
+its length, 125 mm in diameter for the next 500 mm length, 87.5 mm in
+diameter for the next 375 mm length and 175 mm in diameter for the
+remaining 100 mm of its length. The shaft carries two rotors at its ends.
+The mass momeiit of inertia of the first rotor is 75 kgm? whereas for the
+second rotor is 50 kgm’.Find the frequency of natural torsional
+vibrations of the system. The modulus of rigidity of shaft material is 80
+GN/m?.Also draw the mode shape.and find the corresponding amplitude
+ratio.
+
+4/3
+--- page 3 ---
+Q5(a) A shaft carries four rotating masses A, B, C and D which are re Marks]
+completely balanced. The masses B, C, D are 50 kg, 80 kg and 70 kg
+respectively. The masses C and D make angles of 90° AND 195
+respectively with mass B in the same sense. The masses A, B, C and D
+are concentrated at radius 75 mm, 100 mm, 50 mm and 90 mm
+respectively. The plane of rotation of masses B and C.are 250 mm
+apart. Determine:
+
+(i) The mass A and its angular position.
+(ii) The position of planes A and D.
+
+Q5(b) Derive an expression for resultant primary and secondary forces of a V [lp Marks}
+engine.
+
+— Q.6 (a)A shaft of negligible mass 6 cm diameter and 5 m long is simply supported at the ends
+and carries four masses 50 kg each at equal distance over the length of the shaft. Find the natural
+frequency of vibration by Dunkerley’s method. Take E = 2x 10" N /m?. m4 Marks]
+
+Q6 (b) Find the natural frequency of the system shown in figure 4 by Holzer’s [6 Me
+method. Use three iterations with initial @=0.25 with a step increase of
+0,25,
+
+ks]
+
+. 2u 2y J
+a A=] EE
+
+AZ 4 L | [| Hj 2 4
+
+. Figure 4
+Q7 Attempt any four out of the following questions:
+(a) What is Coulomb damping? Derive an expression for the rate of decay (2% Marks]
+of vibrations for a system having coulomb damping.
+(b) A reciprocating compressor is undergoing heavy vibrations and causing {3 Marks]
+the machines in the adjoining region to vibrate. What is the cause for
+this? How can we quantify the vibrations transferred? State the means
+to avoid the vibrations transfer.
+(©) Describe any torsional damper with a neat diagram. ; [% Marks]
+(d) Write a note on balancing of reciprocating engines. In the same context [3 Marks]
+Explain the concept of partial balancing.
+(e) What is the drawback of using Holzer’s method for determining natural [3 Marks]
+frequencies? Explain how can it be used for finding natural frequencies
+of a three rotor system?
 
 3/3
 ````
@@ -4776,164 +5426,6 @@ and Uj= Uji where S is the distance of section from fixed end. (12)
 }~—=— —————_ ?
 
 2)e
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 89a220a3d7f9
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engineering Re-exam 2015-16.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 17 January 2019
-- Text: ocr (2 pages), mean OCR confidence 94.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (Mechanical) Year: III Semester : V
-} Academic Year: 2018-2019
-
-| Subject: Vibration Engineering Marks: 60 —
-
-Time: 2.00 pm to 5.00 pm —
-
-Date: 17 January 2019 ; |
-“ Durations: 3 (hrs)
-
-No. of Pages:_ 2
-Re-examination (2015-16) ~
-
-Instructions: Candidates.should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions. 4 MPSTM!
-3) In all 5 questions to be attempted. A LIBRARY
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql. Answer any four out of the following questions: (12)
-a) Derive expression for natural frequency of a compound pendulum. (03)
-b) What is the significance of the term transmissibility in the context of mechanical vibrations? (03)
-Write down its expression and state one application where it is desirable.
-
-c) Write a short note on the torsional vibrations of a system comprising of two rotors (Both ends (03)
-free) connected with a common shaft.
-
-d) Describe the procedure to balance a single rotating mass. Consider balancing in the same plane (03)
-as well as different planes.
-
-e) What is the principle of Rayleigh’s method used for finding the fundamental natural frequency (03)
-of a multi-degree of freedom system? State its limitations.
-
-Q2a. Determine the equation of motion for a spring-mass-damper system when, (06)
-(i) damping factor is 1
-(ii) damping factor is 0.3, if the mass “m” is displaced by a distance of 3 cm and released.
-
-Consider stiffness as “k”.
-
-Q2b. A 60 kg drum of diameter 40 cm containing waste material of mass density 1100 kg/m} is (06)
-being hoisted by a 30 mm diameter steel (E=210 GPa) cable. The system’s natural frequency
-corresponding to the wire length of 10 m is measured as 40 Hz. Determine the volume of the
-waste in the drum.
-
-Q3a. The rotating machine having total mass of 20 kg, has an eccentric mass of 1.5 kg with (06)
-
-1/2
---- page 2 ---
-Q3b.
-
-Q4a.
-
-Q4b.
-
-Q5a.
-
-Q5b.
-Q6.
-
-Q7a.
-
-Q7b.
-
-QTc.
-
-eccentricity 25 mm. The machine rotates at 720 rpm. If the amplitude of vibrations which is 20
-mm, lags the eccentric mass by 90°, determine:
-
-(i) The circular natural frequency of the system.
-
-(ii) The damping factor
-
-(iii) The amplitude and phase angle when eccentric mass rotates at 1440 rpm.
-
-A machine of 100 kg mass has a 20 kg rotor with 0.5 mm eccentricity. The mounting springs
-have k= 85x 10° N/m and damping factor=0.02. The operating speed of machine is 600 rpm
-and the unit is constrained to move vertically. Find:
-
-(i) The dynamic amplitude of machine.
-
-(ii) The force transmitted to the supports.
-
-A four cylinder engine and flywheel coupled to a propeller are approximated to a 3 rotor
-system in which engine is equivalent to a rotor of moment of inertia 800 kgm?, the flywheel to
-a second rotor of 320: kgm? and the propeller to a third rotor of 20 kgm?. The first and the
-second rotors are connected by a 50 mm diameter and 2 m long shaft and the second and third
-rotors are connected by a 25 mm diameter and 2 m long shaft. Neglecting the inertia of the
-shaft and taking G=80 GPa, determine natural frequencies of torsional vibrations and also
-draw the mode shapes.
-
-Compare static and dynamic balancing.
-
-A four-stroke five-cylinder inline engine has a firing order 1-4-5-3-2-1.The centre lines of the
-cylinders are spaced at equal intervals of 150 mm. The reciprocating parts per cylinder have a
-mass of 1.5 kg, the piston stroke is 100 mm and the connecting rods are 175 mm long. The
-engine rotates at 600 rpm. Discuss the primary and secondary balancing, determine the values
-of maximum unbalanced couples about the central plane.
-
-Differentiate between rotating unbalance and reciprocating unbalance.
-
-A shaft of negligible weight and diameter 50 mm is 3 m long. It is simply supported at the
-ends and carries three masses of 70 kg, 90 kg and 50 kg at 1 m, 2 m and 2.5 m respectively
-from the left support. Find the fundamental natural frequency of transverse vibrations using
-Dunkerley’s formula. Take E=200 GPa and the general expression for static deflection
-because of a point load W, as:
-wizlt
-3EIl
-respectively. What is the drawback of the formula used?
-
-Compare damped (viscously) and undamped vibrations with respect to frequency, response
-curve, amplitude and equation of motion.
-
-Derive the expression for steady state amplitude of a spring-mass-damper system subjected to
-harmonic force.
-
-st = , where |), I2 are the distances of the point load from the left and right support
-
-Why are numerical methods used for finding natural frequencies in place of analytical
-methods even though they provide inaccurate solutions? Discuss the process of finding all the
-natural frequencies of a multi-degree of freedom system using a numerical method.
-
-2/2
-
-(06)
-
-(10)
-
-(02)
-(10)
-
-(02)
-(12)
-
-(04)
-(04)
-
-(04)
 ````
 
 ## 2014-15 · Final-Exam · Sem 6 · paper af751e5accc8
@@ -5235,176 +5727,239 @@ rs x
 2]
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 008a426a2c95
+## 2014-15 · Re-Exam · Sem 6 · paper 3fc789bc91e3
 
 - Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration Engineering Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 03/12/2015
-- Text: ocr (3 pages), mean OCR confidence 89.2
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 02/07/2015
+- Text: ocr (2 pages), mean OCR confidence 92.8
 
 ````text
-SVKM’s NMIMS :
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (MECHANICAL) Year:III Semester: V
+Programme: B. Tech (MECH) Year: III Semester: VI
+Batch: 2013-14
 
-Academic Year: 2015 - 16
-Batch:2014-15 : itera or
+Academic Year: 2014-2015
 
-Subject : Vibration Engineering Mark: PST MB ‘Y 4
-Time {1 ae 21.00» ya .
-Date :03/12/2015 Dura cs frei /s if
+Subject: Vibration Engineering sy
+Marks: ‘100
 
-Se sane" °
+Date: 02/07/2015 Time: , 10.00'am to°l.00 pm
+Durations: \\ 3 (hrs) 8" Ye,
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+NB:1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5(Five) questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+Q.1 Solve any four of the following: (5*4 =20)
+a) Explain the term Magnification factor.
+b) Explain the working principal of vibrometer accelerometer with sketches.
+c) Explain with sketches the effect of forcing frequency and damping ratio on motion transmissibility and force
+transmissibility.
+d) Explain Dunkerley’s Method and Rayleigh’s Method to find out the natural frequency of transverse
+vibration.
+e) Explain Static balancing and Dynamic balancing.
+
+Q.2.a) A 2.5 kg slender bar of length 40 cm is pinned to one end. A 3 kg particle is to be attached to the bar. How far
+from the pin support should the particle be placed such that the period of the bar’s oscillation is 1 sec.? (08)
+
+b) A 200 kg machine is placed at the end of 1.8 m long steel ( E = 210*10° Nm” ) cantilever beam. The machine
+is observed to vibrate with a natural frequency of 2 Hz. What is the moment of inertia of the beam’s cross
+section about its neutral axis? (08)
+
+c) Determine the torsional stiffness of 60 cm long annular aluminum shaft ( G = 40*10° Nm” ) of inner radius
+25 mm and outer radius 35 mm. (04)
+
+Q.3. a) A free vibrations test is run to determine the stiffness and damping properties of an elastic element. A 20 kg
+block is attached to the element. The block is displaced 1 cm and released. The resulting oscillations are
+monitored which shows the amplitude after one oscillation reduced to’0.5 cm and period of oscillation 0.06
+sec. Determine stiffness and damping coefficient of the element. (10)
+
+b) A 110 kg machine is mounted on an elastic foundation of stiffness 2*10° Nm“. When operating at 150 rad/s
+the machine is subjected to harmonic force of magnitude 1500 N. The steady state amplitude of the machine
+is measured as 1.9 mm. Determine the damping ratio of the foundation. (10).
+
+Q.4. a) An automobile is modeled as a single degree of freedom system vibrating in the vertical direction. It is driven
+along a road whose elevation varies sinusoidally. The distance from peak to trough is 0.2 m and the distance
+along the road between the peaks is 35m. If the natural frequency of the automobile is 2 Hz and the damping
+ratio of the shock absorbers is 0.15, determine the amplitude of vibration of automobile at a speed of 60km hr™.
+
+4) ve (10)
+--- page 2 ---
+b) Using Holzer’s method, determine the natural frequency ond made shape in between 6 rad /s and 7 rad/s, if
+exists of the system shown in the figure, with m;= 100 kg, m,=20kg, m;=200kg, k, = 8000 Nm” and
+k, = 4000 Nm". (10)
+
+Q.5. a) A, B, C and D are four masses attached to a shaft at radii 0.1 m, 0.225 m, 0.15 m and 0.15 m respectively.
+Planes in which masses revolve are spaced 0.6 m apart and masses of B, C and D are 10 kg, 5.5 kg and 3.6 kg
+respectively. Estimate the required mass at A and the relative angular positions of all the four masses so that
+
+the shaft is in complete balance. (14)
+b) Explain the balancing of rotating masses and the balancing of reciprocating masses. (06)
+Q.6. A six cylinder four stroke vertical in line engine has a firing order 1- 4- 5 - 2 —-3 — 6 . The mass of the
+
+reciprocating parts per cylinder is 2 kg, stroke 10cm and connecting rod 20 cm. The cylinder center lines are
+30 cm apart. Estimate the engine for the balancing of primary and secondary forces and couples. If the
+engine is not completely balanced suggest the suitable firing order to make it completely balanced. (20)
+
+Q.7. a) 20 N at 20 cm, 10 N at 40 cm and 30 N at 60 cm from the fixed end are the loading on a cantilever. The
+deflection under 30 N due to all the ‘loads is 4 mm. Determine the natural frequency of the system by
+Dunkerley’s method and Rayleigh’s method .( Note: the deflection at section I due to unit load at section J is
+givenby —_-U,,=S/(3S;-S,) /6EI for $< S, and Uy =U, for S> S! (12)
+
+b) Find the natural frequencies of two masses m, and m, connected by spring of stiffness k, and their mode
+shapes. (08)
+
+a)
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper 6690550a19bb
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING B TECH (MECH), BATCH 2013-14 RE EXAM_6690550a19.pdf`
+- Text: ocr (3 pages), mean OCR confidence 85.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+rf
+
+. SVEM’s NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) : Year: II Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Vibration Engineering
+
+Date: » 12/05/2015
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provides for their use.
-
+Instruction: Candidates should reac carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided ior their use.
 NB:
 
-1. Question No. 1 is compulsory.
+1. Question No. 1 is compulsory
 
-2. Out of remaining questions, attempt any four questions.
+2. Out of remaining questions attempt any four questions
 
-3. In all five questions to be attempted.
+3. In all five questions to be attempted
 
-4. All questions carry equal marks.
+4. All questions carry equal marks
 
-5. Answer to each new question to be started on a fresh page.
+5. Answer to new question should be started on a fresh page
 
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume suitable data wherever necessary.
+6. Figures to the right hand side indicate full marks
 
-Ql. Attempt any four out of the following questions:
+Q.1. Explain the following: (Solve any five) (4*5=20)
 
-(a) What do you understand by the rate of decay of vibrations fora damped [3 Marks]
-system? Derive an expression for rate of decay in viscous damping.
+@ Peak frequency and peak amplitude.
+(ii) Viscous damping and coulomb damping.
+@ii) Balancing of V - engine.
+(iv) Dunkerley’s method and Rayleigh’s method to determine the natural frequency
+of transverse vibration.
+(v) Motion and Force Transmissibility.
+(vi) Vibration due to rotating unbalance.
 
-(b) What is magnification factor? How is it affected by the frequency ratio [“%i Marks]
-and damping ratio? State the condition tor maximum magnification
-factor.
+Q.2. (i) Determine the natural frequency of the system shown in the figure. (07)
 
-(c) How can we determine the natural] frequency of a system comprising of [2% Marks]
-shaft with different diameters for different lengths. In the same context
-define torsionally equivalent shaft.
+A,= 1 x teeme Ag= 34 * 15° ma—
 
-@ (d) Describe the procedure to balance a multi-cylinder inline engine, ['%' Marks]
+Pop: 197 ° fia
+E,2 Eye 200 16 me x ioe Dx joe
 
-graphically and analytically.
+mM
 
-(e) What are multi degree of freedom systems? Explain Rayleigh’s method [z Marks]
-to determine the fundamental natural frequency of such systems.
+jo G0 re J em
 
-Q2(a)(i) Obtain the natural frequency of a spring mass system using equilibrium | [’z Marks]
-method. Also find the natural frequency of a compound pendulum using
-this method.
-— (ii) What is the value of c such that the system shown in figure 1 is [4 Marks]
-critically damped’ if m=20 kg and k=10000 N/m? Also draw the
-pei response curve for the corrésponding system.
+(ii) Determine the natural frequency of the system shown in the figure. (07)
 
-: ke>*
+Erdev x 8 Ee
+Ta Hx OSA
 
-k
-
-Figure 1
-
-t/s
+(ii) Explain the, partial balancing of reciprocating mass. (06)
 --- page 2 ---
-Q2(b) An under damped shock absorber is to be designed for an automobile. It
-is required that initial amplitude to be reduced to 1/16" in one cycle.
-The mass of the automobile is 200 kg and damped period of vibration is
-1 sec. Find the value of stiffness and damping coefficients of shock
-absorbers.
+Q.3.@) The landing gear of an airplane can be idealized as ihe spring mass damper system as shown in the
+vs figure. If the runway surface is described as y(t) = Y cos wt, determine the values of. k and c that
+limit the amplitude of vibration of airplane (X) to 10 cm. Assiime m = 2006 kg, Y = 20 cm,
 
-Q3(a)(i) Draw and explain the vector diagram of forces corresponding to steady (2 Marks]
-state vibrations of a spring mass damper system undergoing harmonic
-excitation and derive the expression for steady state amplitude with the
-help of this diagram. Plot the corresponding displacement-time curve.
+@® = 157.08 rad/s. and deflection of spring under own mass = 3.924 mm. (10)
 
-(ii) A 45 kg machine is mounted on four parallel springs each of stiffness [3 Marks]
-2X10°N/mm. When the machine operates at 32 Hz; the machine’s
-steady state amplitude is measured as 1.5 mm. What is the magnitude of
-Harmonic excitation force provided to the machine at this speed?
+(ii) A torsional system consists of disc of mass moment of inertia Ip = 10 kg m’, a torsional damper of
+damping constant C;= 300 Nms/rad and a steel shaft of diameter 4 cm and length 1 m (fixed at
+one end and attached disc at other end). A steady state angular oscillation of amplitude 2° is
+observed when harmonic torque of magnitude 1000 Nm is applied to the disc. (a) Find the
+frequency of applied torque and (b) minimum torque transmitted to the support.
 
-Q3(b) The static deflection of an automobile on its springs is 10 cm. Find the fg Marks]
-critical speed when the automobile is travelling on a road, see figure 2,
-which can be approximated by a sine wave of amplitude 8 cm and a
-wavelength 15 m. Assume the damping to be given by €=0.05.Also
-determine the amplitude of vibration at 75 kmph.
+(Take G = 80 GN/m’”) (10)
 
-1
-ati
+Q.4. (i) _ A shaft of length 1.25 m is 75 mm in diameter for first 275 mm of its length, 125 mm in diameter
+for next 500 mm length, 87.5 mm in diameter for next 375 mm length and 175 mm in diameter for
+remaining 100 mm of its length. The shaft carries two rotors at two ends. The mass moment of
+inertia of the first rotor is 75 kg m” whereas the second rotor is 50 kg m? . Find the frequency of
+natural torsional vibrations of the system. -
 
-r 18m {
-Figure 2
+(Take modulus of rigidity of shaft material G = 80 GN/m’*) (10)
 
-Q4(a)(i) Determine the natural frequency of free torsional vibrations of single [2 Marks]
-rotor shaft system considering the effect of inertia of the shaft.
-(ii) Derive an expression for critical speed of shaft in an undamped [3 Marks]
-condition. Discuss cases with varying angular velocity.
+(Gi) | A moment Mp Sin ot, is applied to the end of the bar of the figure. Determine the maximum value
+of Mo such that the steady state amplitude of angular oscillation does not exceed 10° if w = 500
 
-Q4(b) A shaft of length 1.25 m is 75 mm in diameter for the first 275 mm of [6 Marks]
-
-its length, 125 mm in diameter for the next 500 mm length, 87.5 mm in
-diameter for the next 375 mm length and 175 mm in diameter for the
-remaining 100 mm of its length. The shaft carries two rotors at its ends.
-The mass momeiit of inertia of the first rotor is 75 kgm? whereas for the
-second rotor is 50 kgm’.Find the frequency of natural torsional
-vibrations of the system. The modulus of rigidity of shaft material is 80
-GN/m?.Also draw the mode shape.and find the corresponding amplitude
-ratio.
-
-4/3
+rpm, k=7000 N/m, C = 650 Ns/m, L = 1.2 mand mass of the bar is 15 kg. (10)
+foes te
+at it & .
+= i Ce oSinet
+a t wl
 --- page 3 ---
-Q5(a) A shaft carries four rotating masses A, B, C and D which are re Marks]
-completely balanced. The masses B, C, D are 50 kg, 80 kg and 70 kg
-respectively. The masses C and D make angles of 90° AND 195
-respectively with mass B in the same sense. The masses A, B, C and D
-are concentrated at radius 75 mm, 100 mm, 50 mm and 90 mm
-respectively. The plane of rotation of masses B and C.are 250 mm
-apart. Determine:
+“aa:
+Ss -
 
-(i) The mass A and its angular position.
-(ii) The position of planes A and D.
+Q.5 _ 20 N at 30 cm, 30 N at 60 cm, 10 N at 100 cm,-from the fixed end are the loading on cantilever. The
+deflection under 30 N load due to all the loads is 2 mm. What would be the natural frequency of
+transverse vibration. The deflection at section I due to unit load at section J is given as
 
-Q5(b) Derive an expression for resultant primary and secondary forces of a V [lp Marks}
-engine.
+Us = [ S? (38; — Sj) /constant ] for S; < S; and Uj = Uji where S is the distance of section from
+fixed support. (20)
 
-— Q.6 (a)A shaft of negligible mass 6 cm diameter and 5 m long is simply supported at the ends
-and carries four masses 50 kg each at equal distance over the length of the shaft. Find the natural
-frequency of vibration by Dunkerley’s method. Take E = 2x 10" N /m?. m4 Marks]
+Q.6. Determine the natural frequency of the following system in between ().5 rad/s and 1 rad/s if exists.
 
-Q6 (b) Find the natural frequency of the system shown in figure 4 by Holzer’s [6 Me
-method. Use three iterations with initial @=0.25 with a step increase of
-0,25,
+Draw the mode-shape of the system for the natural frequency you found, (15)
+How many natural frequencies the system has? (02)
+Draw the mode shapes for all the frequencies. (03)
 
-ks]
+Hl KT ke 7 ka fa]
 
-. 2u 2y J
-oh A 2k P| Ke _ Ke fy
-a A=] EE
+Pop pipe tly po ff
 
-AZ 4 L | [| Hj 2 4
+“ee
 
-. Figure 4
-Q7 Attempt any four out of the following questions:
-(a) What is Coulomb damping? Derive an expression for the rate of decay (2% Marks]
-of vibrations for a system having coulomb damping.
-(b) A reciprocating compressor is undergoing heavy vibrations and causing {3 Marks]
-the machines in the adjoining region to vibrate. What is the cause for
-this? How can we quantify the vibrations transferred? State the means
-to avoid the vibrations transfer.
-(©) Describe any torsional damper with a neat diagram. ; [% Marks]
-(d) Write a note on balancing of reciprocating engines. In the same context [3 Marks]
-Explain the concept of partial balancing.
-(e) What is the drawback of using Holzer’s method for determining natural [3 Marks]
-frequencies? Explain how can it be used for finding natural frequencies
-of a three rotor system?
+Ki=K;=0& Kp =K3=Ky4=Ks5=Kg=1 N/m & Mi = M2 =M3 = M,=Ms=1kg & Mo=o
 
-3/3
+Q.7. (i) Four masses are attached to a shaft at planes A, B, C and D at equal radii. The distance of the planes
+B, C, and D from A are 40 cm, 50 cm and 120 cm respectively. The masses at A, B and C are 60
+
+kg.45 kg and 70 kg respectively. If the system is in complete balance, determine the mass at D and
+the position of masses B, C and D with respect to A. (10)
+
+(ii) A five cylinder in line engine running at 750 rpm has successive cranks 144° apatr, the distance
+between the cylinder centre line being 375 mm. The piston stroke is 225 mm and the ratio of
+connecting rod to crank is 4. Examine the engine for balance of primary and secondary forces and
+couples. Find the maximum values of these and the position of the central crank at which these
+maximum values occur. The reciprocating mass for each cylinder is 15 kg. (10)
+
+————————
+
+Ys
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper 2555f64ed61e
@@ -5414,6 +5969,7 @@ of a three rotor system?
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration Engineering Batch 2014-15 Re Exam_2555f64ed6.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 08/06/2015
 - Text: ocr (3 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5467,7 +6023,6 @@ RMX MMM
 --- page 2 ---
 (b) The system shown in figure has a natural frequency of 5 Hz for the following data:
 
-m= 10 kg, Jo=5 kg-m’, r; = 10 cm, r = 25 cm.
 
 When the system is disturbed by giving it an initial displacement, the amplitude of free vibration
 is reduced by 80 percent in 10 cycles. Determine the values of k and c. 6)
@@ -5559,6 +6114,142 @@ I=kg-m’, K,=N m/rad
 2
 
 3/3
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper 78101384269e
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engg 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 100; exam date: 04/12/2014
+- Text: ocr (3 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (MECH) Year: II Semester: V
+Academic Year: 2014-15 Batch: 2013-14
+Subject : Vibration Engineering
+Marks: 100
+Date : 04/12/2014 Time : 10.0
+Durations:
+
+Re - Examination
+
+Instructions:
+1. Figures to the right indicate full marks for the question.
+
+2. Question 1 is compulsory.
+
+3. Attempt any four out of remaining questions. ( from question 2 to 7)
+4. Answer to the new question should be started on fresh page.
+
+5. Assume suitable data if necessary.
+
+l(a) A circular cylinder of mass ‘m’ and radius ‘r’ is connected by a spring of [10 Marks]
+stiffness ‘k’ as shown in the figure. If it rolls on the horizontal surface,
+without slipping find the natural frequency of vibration (i) by energy
+method (ii) by Newton’s Law of Motion.
+
+1(b) Prove that the resultant unbalanced force is minimum when half of the [10 Marks]
+reciprocating masses are balanced by rotating masses (i.e. when c = 4). ;
+
+2(a) Explain with the help of transmissibility plot why normally isolators are [5 Marks]
+designed for frequency ratio higher than V2 .
+
+2(b) 20N at 30cm, 30N at 60cm, 10 N at 100cm from the fixed end are the [15 Marks]
+loading on the cantilever. The deflection under 30N load due to all loads is
+2mm. What would be the natural frequency of transverse vibration if 20N
+
+4 |
+--- page 2 ---
+3(a)
+
+3(b)
+
+4(a)
+
+4(b)
+
+S(a)
+
+5(b)
+
+is added at 80cm from the fixed end? The deflection at section ‘i’ due to
+unit load at section ‘j’ is given by -
+
+Uy = Ure [S? (3S; . Si)] / [Constant] for S;< S; where S is the distance of
+the section from the fixed end.
+
+Co poe x) FD = Y Cost
+-| TI ot
+ooo oe
+Le OO
+
+Determine steady state response of mass ‘m’ for the system shown in the
+figure.
+
+Explain what do you mean by the term ‘critical speed’ or ‘whirling speed’
+of a rotating shaft? Derive the necessary formulae for undamped system.
+
+State the equation of motion for various damped systems for single degree
+of freedom system. Plot the displacement versus time curve for each
+system and discuss its significance.
+
+A machine of mass 1000 kg is acted upon by an external force of 3000N at
+1800 rpm. An isolator used, has static deflection of 2mm under machine
+weight and damping factor of 0.2. Determine:
+
+i) Amplitude of vibration of machine.
+
+ii) Force transmitted to the foundation.
+
+iii) Phase angle between transmitted force and excitation force.
+
+Prove that for finding the natural frequency of a torsional system, the mass
+moment of inertia of the shaft can be taken into account by adding one
+third of its inertia to the disc inertia.
+
+A single degree of freedom viscous damping system makes five complete
+oscillations per second. Its amplitude diminishes to 15% in 60 cycles.
+Determine :
+
+i) The logarithmic decrement.
+
+ii) The damping ratio.
+
+[10 Marks]
+
+[10 Marks]
+
+[8 Marks]
+
+[12 Marks]
+
+[iO Marks}
+
+[10 Marks]
+--- page 3 ---
+6(a) A shaft carries four masses A, B, C and D placed in parallel planes, [15 Marks]
+perpendicular to the shaft axis and in the same order along the shaft. The
+masses B and C are 36 kg and 25 kg and both are acting at a radius of 150
+mm, while the masses A and D are at a radius of 200 mm. The angle
+between radius of B and C is 100° and that between B and A is 190°, both
+angles being measured in the same sense. The planes containing A and B
+are 250 mm apart and those containing B and C are 500 mm apart. If the
+shaft is to be in complete dynamic balance, find:
+
+i) The masses of A and D.
+ii) The distance between planes C and D.
+(iii) The angular position of mass D.
+
+6(b) Explain the Holzer Method for multi degrees of freedom system. [5 Marks]
+~~ 7(a) Discuss the balancing of V Engines. [10 Marks]
+7(b) Investigate the state of primary and secondary balancing of four stroke [10 Marks]
+cycle four cylinder engine with a firing order I-II-IIJ-IV. What will be the
+change in this state when the firing order is altered to I-II-IV-III?
+=
 ````
 
 ## 2013-14 · Final-Exam · Sem 6 · paper 776ec7c82db4
@@ -5773,241 +6464,6 @@ OO x
 [5x4=20]
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper 3fc789bc91e3
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 02/07/2015
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: III Semester: VI
-Batch: 2013-14
-
-Academic Year: 2014-2015
-
-Subject: Vibration Engineering sy
-Marks: ‘100
-
-Date: 02/07/2015 Time: , 10.00'am to°l.00 pm
-Durations: \\ 3 (hrs) 8" Ye,
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-NB:1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5(Five) questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-Q.1 Solve any four of the following: (5*4 =20)
-a) Explain the term Magnification factor.
-b) Explain the working principal of vibrometer accelerometer with sketches.
-c) Explain with sketches the effect of forcing frequency and damping ratio on motion transmissibility and force
-transmissibility.
-d) Explain Dunkerley’s Method and Rayleigh’s Method to find out the natural frequency of transverse
-vibration.
-e) Explain Static balancing and Dynamic balancing.
-
-Q.2.a) A 2.5 kg slender bar of length 40 cm is pinned to one end. A 3 kg particle is to be attached to the bar. How far
-from the pin support should the particle be placed such that the period of the bar’s oscillation is 1 sec.? (08)
-
-b) A 200 kg machine is placed at the end of 1.8 m long steel ( E = 210*10° Nm” ) cantilever beam. The machine
-is observed to vibrate with a natural frequency of 2 Hz. What is the moment of inertia of the beam’s cross
-section about its neutral axis? (08)
-
-c) Determine the torsional stiffness of 60 cm long annular aluminum shaft ( G = 40*10° Nm” ) of inner radius
-25 mm and outer radius 35 mm. (04)
-
-Q.3. a) A free vibrations test is run to determine the stiffness and damping properties of an elastic element. A 20 kg
-block is attached to the element. The block is displaced 1 cm and released. The resulting oscillations are
-monitored which shows the amplitude after one oscillation reduced to’0.5 cm and period of oscillation 0.06
-sec. Determine stiffness and damping coefficient of the element. (10)
-
-b) A 110 kg machine is mounted on an elastic foundation of stiffness 2*10° Nm“. When operating at 150 rad/s
-the machine is subjected to harmonic force of magnitude 1500 N. The steady state amplitude of the machine
-is measured as 1.9 mm. Determine the damping ratio of the foundation. (10).
-
-Q.4. a) An automobile is modeled as a single degree of freedom system vibrating in the vertical direction. It is driven
-along a road whose elevation varies sinusoidally. The distance from peak to trough is 0.2 m and the distance
-along the road between the peaks is 35m. If the natural frequency of the automobile is 2 Hz and the damping
-ratio of the shock absorbers is 0.15, determine the amplitude of vibration of automobile at a speed of 60km hr™.
-
-4) ve (10)
---- page 2 ---
-b) Using Holzer’s method, determine the natural frequency ond made shape in between 6 rad /s and 7 rad/s, if
-exists of the system shown in the figure, with m;= 100 kg, m,=20kg, m;=200kg, k, = 8000 Nm” and
-k, = 4000 Nm". (10)
-
-Q.5. a) A, B, C and D are four masses attached to a shaft at radii 0.1 m, 0.225 m, 0.15 m and 0.15 m respectively.
-Planes in which masses revolve are spaced 0.6 m apart and masses of B, C and D are 10 kg, 5.5 kg and 3.6 kg
-respectively. Estimate the required mass at A and the relative angular positions of all the four masses so that
-
-the shaft is in complete balance. (14)
-b) Explain the balancing of rotating masses and the balancing of reciprocating masses. (06)
-Q.6. A six cylinder four stroke vertical in line engine has a firing order 1- 4- 5 - 2 —-3 — 6 . The mass of the
-
-reciprocating parts per cylinder is 2 kg, stroke 10cm and connecting rod 20 cm. The cylinder center lines are
-30 cm apart. Estimate the engine for the balancing of primary and secondary forces and couples. If the
-engine is not completely balanced suggest the suitable firing order to make it completely balanced. (20)
-
-Q.7. a) 20 N at 20 cm, 10 N at 40 cm and 30 N at 60 cm from the fixed end are the loading on a cantilever. The
-deflection under 30 N due to all the ‘loads is 4 mm. Determine the natural frequency of the system by
-Dunkerley’s method and Rayleigh’s method .( Note: the deflection at section I due to unit load at section J is
-givenby —_-U,,=S/(3S;-S,) /6EI for $< S, and Uy =U, for S> S! (12)
-
-b) Find the natural frequencies of two masses m, and m, connected by spring of stiffness k, and their mode
-shapes. (08)
-
-a)
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 6690550a19bb
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING B TECH (MECH), BATCH 2013-14 RE EXAM_6690550a19.pdf`
-- Text: ocr (3 pages), mean OCR confidence 85.6
-
-````text
-rf
-
-. SVEM’s NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) : Year: II Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Vibration Engineering
-
-Date: » 12/05/2015
-
-Re-Examination
-
-Instruction: Candidates should reac carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided ior their use.
-NB:
-
-1. Question No. 1 is compulsory
-
-2. Out of remaining questions attempt any four questions
-
-3. In all five questions to be attempted
-
-4. All questions carry equal marks
-
-5. Answer to new question should be started on a fresh page
-
-6. Figures to the right hand side indicate full marks
-
-Q.1. Explain the following: (Solve any five) (4*5=20)
-
-@ Peak frequency and peak amplitude.
-(ii) Viscous damping and coulomb damping.
-@ii) Balancing of V - engine.
-(iv) Dunkerley’s method and Rayleigh’s method to determine the natural frequency
-of transverse vibration.
-(v) Motion and Force Transmissibility.
-(vi) Vibration due to rotating unbalance.
-
-Q.2. (i) Determine the natural frequency of the system shown in the figure. (07)
-
-A,= 1 x teeme Ag= 34 * 15° ma—
-
-Pop: 197 ° fia
-E,2 Eye 200 16 me x ioe Dx joe
-
-mM
-
-jo G0 re J em
-
-(ii) Determine the natural frequency of the system shown in the figure. (07)
-
-Erdev x 8 Ee
-Ta Hx OSA
-
-(ii) Explain the, partial balancing of reciprocating mass. (06)
---- page 2 ---
-Q.3.@) The landing gear of an airplane can be idealized as ihe spring mass damper system as shown in the
-vs figure. If the runway surface is described as y(t) = Y cos wt, determine the values of. k and c that
-limit the amplitude of vibration of airplane (X) to 10 cm. Assiime m = 2006 kg, Y = 20 cm,
-
-@® = 157.08 rad/s. and deflection of spring under own mass = 3.924 mm. (10)
-
-(ii) A torsional system consists of disc of mass moment of inertia Ip = 10 kg m’, a torsional damper of
-damping constant C;= 300 Nms/rad and a steel shaft of diameter 4 cm and length 1 m (fixed at
-one end and attached disc at other end). A steady state angular oscillation of amplitude 2° is
-observed when harmonic torque of magnitude 1000 Nm is applied to the disc. (a) Find the
-frequency of applied torque and (b) minimum torque transmitted to the support.
-
-(Take G = 80 GN/m’”) (10)
-
-Q.4. (i) _ A shaft of length 1.25 m is 75 mm in diameter for first 275 mm of its length, 125 mm in diameter
-for next 500 mm length, 87.5 mm in diameter for next 375 mm length and 175 mm in diameter for
-remaining 100 mm of its length. The shaft carries two rotors at two ends. The mass moment of
-inertia of the first rotor is 75 kg m” whereas the second rotor is 50 kg m? . Find the frequency of
-natural torsional vibrations of the system. -
-
-(Take modulus of rigidity of shaft material G = 80 GN/m’*) (10)
-
-(Gi) | A moment Mp Sin ot, is applied to the end of the bar of the figure. Determine the maximum value
-of Mo such that the steady state amplitude of angular oscillation does not exceed 10° if w = 500
-
-rpm, k=7000 N/m, C = 650 Ns/m, L = 1.2 mand mass of the bar is 15 kg. (10)
-foes te
-at it & .
-= i Ce oSinet
-a t wl
---- page 3 ---
-“aa:
-Ss -
-
-Q.5 _ 20 N at 30 cm, 30 N at 60 cm, 10 N at 100 cm,-from the fixed end are the loading on cantilever. The
-deflection under 30 N load due to all the loads is 2 mm. What would be the natural frequency of
-transverse vibration. The deflection at section I due to unit load at section J is given as
-
-Us = [ S? (38; — Sj) /constant ] for S; < S; and Uj = Uji where S is the distance of section from
-fixed support. (20)
-
-Q.6. Determine the natural frequency of the following system in between ().5 rad/s and 1 rad/s if exists.
-
-Draw the mode-shape of the system for the natural frequency you found, (15)
-How many natural frequencies the system has? (02)
-Draw the mode shapes for all the frequencies. (03)
-
-Hl KT ke 7 ka fa]
-j WM, MW, ia ! Y) ye
-
-Pop pipe tly po ff
-
-“ee
-
-Ki=K;=0& Kp =K3=Ky4=Ks5=Kg=1 N/m & Mi = M2 =M3 = M,=Ms=1kg & Mo=o
-
-Q.7. (i) Four masses are attached to a shaft at planes A, B, C and D at equal radii. The distance of the planes
-B, C, and D from A are 40 cm, 50 cm and 120 cm respectively. The masses at A, B and C are 60
-
-kg.45 kg and 70 kg respectively. If the system is in complete balance, determine the mass at D and
-the position of masses B, C and D with respect to A. (10)
-
-(ii) A five cylinder in line engine running at 750 rpm has successive cranks 144° apatr, the distance
-between the cylinder centre line being 375 mm. The piston stroke is 225 mm and the ratio of
-connecting rod to crank is 4. Examine the engine for balance of primary and secondary forces and
-couples. Find the maximum values of these and the position of the central crank at which these
-maximum values occur. The reciprocating mass for each cylinder is 15 kg. (10)
-
-————————
-
-Ys
-````
-
 ## 2013-14 · Re-Exam · Sem 6 · paper 6d258cf0f4ec
 
 - Departments: Mechanical
@@ -6015,6 +6471,7 @@ Ys
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING B TECH (MECHANICAL) BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: exam date: 03/07/2014
 - Text: ocr (3 pages), mean OCR confidence 84.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -6096,7 +6553,6 @@ a _
 No
 
 Sa CECE LELRCRCE
-te. SN WN SO % ms NS AAAS
 
 (c) Explain in brief damping ratio, and damping coefficient. (4)
 
@@ -6152,6 +6608,7 @@ factor for varying damping conditions, and explain the various features of the p
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING BATCH 13-14 RE EXAM.pdf`
 - Printed on paper: max marks: 100; exam date: 22 April 2019
 - Text: ocr (3 pages), mean OCR confidence 92.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -6271,7 +6728,6 @@ at least 8 iterations.
 
 — 2K
 Z K
-yy a or Ss er 4 |-
 Y =
 4 J —
 4 2J 3)
@@ -6283,468 +6739,6 @@ c. Balancing of V Engine : (05)
 d. Vibration analysis of multi-degree of freedom systems. (05)
 
 3/3
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 99ab098af405
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENGINEERING BATCH 13-14 RE EXAM_99ab098af4.pdf`
-- Printed on paper: max marks: 100; exam date: 11 July 2017
-- Text: ocr (3 pages), mean OCR confidence 90.4
-
-````text
-l ,
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHANICAL) Year: III Semester: VI
-in :
-Batch: 2013-14 “on Mlaeag Ss
-Academic Year: 2016-2017 “4 oo |
-ye ; !
-Subject: Vibration Engineering Blow 195
-Marks: 100 :. S¢ ko» RAP” te,
-
-Date: 11 July 2017 Time: 2.00 p t@S.00 pm oy ix fp
-. Durations: 3 ( # Bis —
-No. of Pages:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql) Answer any four out of following questions: (20)
-~ --a) Define logarithmic decrement. Derive an expression for it in terms of damping (05)
-factor.
-
-b) What do you understand by the term magnification factor? Derive the condition (05)
-for maximum magnification factor.
-
-c) Explain the term whirling speed of shaft. State the reasons that lead to this (05)
-phenomenon.
-
-d) Discuss the effect of change in firing order from 1-2-3-4 to 1-2-4-3 on the (05)
-primary unbalanced forces and couples in a four cylinder Inline engine.
-
-e) Discuss the procedure to determine natural frequencies of torsional vibration (05)
-for a shaft carrying three rotors. What is the drawback of this method?
-
-Q2a) A machine of mass 20 kg is mounted on springs and dashpots. The total spring (10)
-stiffness is 100 N/cm and the total damping coefficient is 1.5 Ns/cm. If the
-system is initially at rest and a velocity of 10 cm/s is imparted to the mass,
-determine(a) the displacement and velocity as a function of time and(b)the
-displacement and velocity at t=1 second.
-
-al
-Q2b) Determine the mass moment of inertia and torsional stiffness for an equivalent (10)-
-system model of the system of Fig, 1 when @ , the clockwise angular
-gi: displacement of the bar, measured from the system's equilibrium position, is used
-» ag thes generalized coordinate, also determine its natural frequency.: Include.:::.: .axis <
-Page 1 of 3
---- page 2 ---
-approximations for the inertia effects of the springs:and assume small 0.
-t a?
-=
-<— im, kom,
-1 Slender bar of mass m =
-Co
-
-~*~ i ) =
-r ah of, Le
-7 : = 4
-
-Fig. 1
-
-Q3a) The tail rotor section of the helicopter of Fig. 2 consists of four blades, each of (10)
-mass 2.3 kg, and an engine box of mass 28.5 kg. The center of gravity of each
-blade is 170 mm from the rotational axis. The tail section is connected to the
-main body of the helicopter by an _ elastic structure. The natural frequency of
-the tail section is observed as 135 rad /s. During flight, the rotor operates at 900
-r/min. What is the vibration amplitude of the tail section if one of the blades falls
-off during flight? Assume a damping ratio of 0.05.
-
-Fig. 2
-Q3b) A heavy machine of 3000 N, is supported on a resilient foundation. The static (10)
-eos deflection of the foundation due to the weight of the machine is found to be 7.5
-cm. It is observed that the machine vibrates with an amplitude of 1 cm when the
-base of the machine is subjected to harmonic oscillations at the undamped natural
-frequency of the system with an amplitude of 0.25 cm. Find (a) the damping
-constant of the foundation (b) the dynamic force transmitted to the base (c) the
-amplitude of the displacement of the machine relative to the base.
-
-Q4a)_ A Shaft of length 1.25 m is 75 mm in diameter for the first 275 mm of its length, (10)
-125 mm in diameter for the next 500 mm length, 87.5 mm in diameter for the
-next 375 mm length and 175 mm in diameter for the remaining 100 mm of its
-length. The shaft carries two rotors at two ends. The Mass Moment of Inertia of
-the first rotor is 75 kgm? whereas of the second rotor is 50 kgm?.Find the
-frequency of natural torsional vibrations of the system, also draw the mode
-shape and determine amplitude ratio for the two rotors. The modulus of rigidity
-of shaft material may be taken as 80 GPa.
-Q4b) A vertical shaft of 5 mm diameter is 200 mm long and is supported in long (10)
-bearings at its ends. A disc of mass 50 kg is attached at the centre of the shaft.
-Find the critical speed of rotation and maximum bending stress when the shaft
-is rotating at 75% of the critical speed. The centre of the disc is 0.25 mm away
-from the geometric axis of the shaft. Take E=200 GPa.. .
-Q5a) Discuss balancing of a system having a*shaft carrying four masses revolving in (08)
-
-Page 2 of 3
---- page 3 ---
-different planes using analytical as well as graphical method:
-
-Q5b) -A four cylindervertical engine has cranks 150 mm long. The planes of rotation of» (12)
-the first, second and fourth cranks are 400 mm, 200 mm and 200 mm
-respectively from the third crank and their reciprocating masses are 50 kg, 60 kg
-and 50 kg respectively. Find the mass of the reciprocating parts for the third .
-cylinder and the relative angular positions of the cranks in the order that the
-engine may be in complete primary balance.
-
-Q6) For a simply supported beam shown in Fig.3, the deflection of beam at distance x (20)
-from left is given by:
-Wbx P
-Y= op (U- x? —b )for x < (l—b)
-Where, I=length of the beam and b is distance of the load from right support.
-Find the lowest natural frequency of transverse vibrations of the system using:
-i. Rayleigh's method
-it. Dunkerley's method.
-when E=196 GPa, I=10° m*, mi=40 kg and m= 20 kg.
-
-m4 m2
-
-Q7) Write short notes on:- (20)
-a) Type of vibrations. (05)
-b) Vibration Measurement. (05)
-c) Partial Balancing of Single cylinder engine. (05)
-
-d) Application of Dunkerley's Method to determine critical speed of shaft carrying. (05)
-a central load and having a significant mass per unit length.
-
-Page 3 of 3
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper b1a2967d582a
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/VIBRATION ENGINEERING/VIBRATION ENNGINEERING B TECH (MECHANICAL) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 July 2016
-- Text: ocr (3 pages), mean OCR confidence 88.5
-
-````text
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY EERING
-Programme: B.Tech (Mechanical) Year: III } : VI
-Academic Year: 2015-16
-Batch: 2013-14
-Subject: Vibration Engineering Marks: 100
-Time: 2.00 pm - 5.00 pm
-Date: 04 July 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions. 2
-3. Inall five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-7. Assume suitable data wherever necessary.
-
-Ql. Answer any four out of following questions: [20]
-a) Show that one third mass of the spring is to be added along with mass attached inthe [5]
-system to obtain natural frequency of a spring mass system (when mass of the spring
-
-is considered).
-b) Compare the construction and working of Vibrometer and accelerometer. [5]
-c) Explain the concept of critical speed of shaft. What could be the reasons of [5]
-
-eccentricity in a rotor?
-d) Using suitable diagrams, describe the methods of balancing a single unbalanced [5]
-
-mass.
-e) Describe the method of determining natural frequencies of multi degree of freedom [5]
-
-spring mass system using Rayleigh's method.
-
-Q2a) Acylinder of mass m and moment of inertia Jo is free to roll without slipping but is [10]
-constrained by two springs as shown in the Fig. 2.1.
-
-Ay mo k .
-
-yy : x
-: AAAS
-~~ ‘o SS
-N ~
-S ~
-S iS
-MASARARS ‘ SOA
---- page 2 ---
-Q2.b)
-
-Q3 a)
-
-Q3 b)
-
-Q3 ¢)
-
-Q4 a)
-
-Q4 b)
-
-Q5a)
-
-Q5 b)
-
-Q6.
-
-A 20 kg mass is resting on.a spring of 4700 N/m and dashpot of 147 Ns/m in parallel. [10]
-Ifa velocity of 0.10 m/s-is applied to the mass at rest position, what will be its
-displacement from the equilibrium position at the end of first second?
-
-®
-An electric motor is supported on a spring and a dashpot. The spring has a stiffness [10]
-6400 N/m and the dashpot offers resistance of 500 N at 4.0 m/s. The unbalanced mass
-0.5 kg rotates at 5 cm radius and the total mass of vibratory system is 20 kg. The
-motor runs at 400 rpm.
-Determine:
-i. Damping factor
-ii. Amplitude of vibration and phase angle
-iii. Resonant speed and resonant amplitude
-iv. Force exerted by the spring and dashpot on the motor.
-A seismic instrument is mounted on a machine running at 1000 rpm. The natural [6]
-frequency of the seismic instrument is 20 rad/sec. The instrument records a relative
-amplitude of 0.5 mm. Compute the displacement, velocity and acceleration of the
-machine. Damping on seismic instrument is neglected. ss
-How can we reduce the vibration transmissibility? List out the materials used as [4]
-
-isolators and their features.
-
-A disc of mass 4 kg is mounted midway between bearings which may be assumed to [12]
-be simple supports. The bearing span is 50 cm. The steel shaft is of 10 mm diameter
-
-and is horizontal. The centre of gravity of the disc is displaced 2 mm from the
-geometric centre. The equivalent viscous damping at the centre of the disc-shaft may
-
-be assumed as 50 N-sec/m. If the shaft rotates at 250 rpm, determine the maximum
-
-stress in the shaft. Take E =1.96 x 10!! N/m’.
-
-Calculate the natural frequency of a shaft of diameter 10 cm and length 300 cm [8]
-carrying two discs of diameters 125 cm and 200 cm respectively at its ends and
-weighing 480 N and 900 N respectively. Modulus of rigidity of the shaft may be
-taken as 196 GN/m2.Draw the corresponding mode shape and calculate the ratio of
-
-amplitudes.
-
-Three masses ma, mg and mc of 45 kg, 55 kg and 60 kg are rotating at radii 30 mm, [15]
-35 mm and 25 mm respectively. The masses are at 75°, 155° and 250° from positive
-X direction. Distance between plane of rotation of ma and mp is 130 mm and between
-mp and mc is 50 mm. Mass mpg is on right side of ma and mc is on right side of ms.
-These are to be balanced by masses mz and my rotating in planes L and M at radius
-70 mm. Plane M is on right side of Plane L at a distance of 190 mm and Plane L is
-on right side of Plane A at a distance of 60 mm. Find:
-
-i. Masses miand mm
-
-ii. | Angular Positions of Masses mz and mm from positive X direction.
-Compare static and dynamic balancing and describe the procedure to balance several [5]
-masses rotating in the same plane.
-
-For the system shown in Fig. 6.1 estimate all the natural frequencies between the [20]
-range   =0.25 rad/s to @= 2.5 rad/s using Holzer’s method (Use atleast 10 iterations).
-
-2/5
-
-Gn
---- page 3 ---
-4 3K a
-
-a Li
-a 2d om
-
-Fig. 6.1
-
-Q7 a) Compare Overdamped, critically damped and underdamped systems with respect to [5]
-following points:
-i. Definition
-ii. General solution
-iii. | Characteristics
-iv. Response curve
-v. Example
-07b) Define magnification factor and derive the condition for maximum magnification [5]
-
--
-factor.
-Q7c) What do you understand by the term partial balancing? Derive the formula for [5]
-primary unbalanced force in single cylinder I.C. Engine due to partial balancing.
-Q7d) Derive Dunkerley’s formula to determine fundamental natural frequency of multi- [5]
-degree of freedom systems.
-4 scents AD
-a
-
-3/4
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 78101384269e
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/VIBRATION ENGINEERING/Vibration engg 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 100; exam date: 04/12/2014
-- Text: ocr (3 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (MECH) Year: II Semester: V
-Academic Year: 2014-15 Batch: 2013-14
-Subject : Vibration Engineering
-Marks: 100
-Date : 04/12/2014 Time : 10.0
-Durations:
-
-Re - Examination
-
-Instructions:
-1. Figures to the right indicate full marks for the question.
-
-2. Question 1 is compulsory.
-
-3. Attempt any four out of remaining questions. ( from question 2 to 7)
-4. Answer to the new question should be started on fresh page.
-
-5. Assume suitable data if necessary.
-
-l(a) A circular cylinder of mass ‘m’ and radius ‘r’ is connected by a spring of [10 Marks]
-stiffness ‘k’ as shown in the figure. If it rolls on the horizontal surface,
-without slipping find the natural frequency of vibration (i) by energy
-method (ii) by Newton’s Law of Motion.
-
-1(b) Prove that the resultant unbalanced force is minimum when half of the [10 Marks]
-reciprocating masses are balanced by rotating masses (i.e. when c = 4). ;
-
-2(a) Explain with the help of transmissibility plot why normally isolators are [5 Marks]
-designed for frequency ratio higher than V2 .
-
-2(b) 20N at 30cm, 30N at 60cm, 10 N at 100cm from the fixed end are the [15 Marks]
-loading on the cantilever. The deflection under 30N load due to all loads is
-2mm. What would be the natural frequency of transverse vibration if 20N
-
-4 |
---- page 2 ---
-3(a)
-
-3(b)
-
-4(a)
-
-4(b)
-
-S(a)
-
-5(b)
-
-is added at 80cm from the fixed end? The deflection at section ‘i’ due to
-unit load at section ‘j’ is given by -
-
-Uy = Ure [S? (3S; . Si)] / [Constant] for S;< S; where S is the distance of
-the section from the fixed end.
-
-Co poe x) FD = Y Cost
--| TI ot
-ooo oe
-Le OO
-
-Determine steady state response of mass ‘m’ for the system shown in the
-figure.
-
-Explain what do you mean by the term ‘critical speed’ or ‘whirling speed’
-of a rotating shaft? Derive the necessary formulae for undamped system.
-
-State the equation of motion for various damped systems for single degree
-of freedom system. Plot the displacement versus time curve for each
-system and discuss its significance.
-
-A machine of mass 1000 kg is acted upon by an external force of 3000N at
-1800 rpm. An isolator used, has static deflection of 2mm under machine
-weight and damping factor of 0.2. Determine:
-
-i) Amplitude of vibration of machine.
-
-ii) Force transmitted to the foundation.
-
-iii) Phase angle between transmitted force and excitation force.
-
-Prove that for finding the natural frequency of a torsional system, the mass
-moment of inertia of the shaft can be taken into account by adding one
-third of its inertia to the disc inertia.
-
-A single degree of freedom viscous damping system makes five complete
-oscillations per second. Its amplitude diminishes to 15% in 60 cycles.
-Determine :
-
-i) The logarithmic decrement.
-
-ii) The damping ratio.
-
-[10 Marks]
-
-[10 Marks]
-
-[8 Marks]
-
-[12 Marks]
-
-[iO Marks}
-
-[10 Marks]
---- page 3 ---
-6(a) A shaft carries four masses A, B, C and D placed in parallel planes, [15 Marks]
-perpendicular to the shaft axis and in the same order along the shaft. The
-masses B and C are 36 kg and 25 kg and both are acting at a radius of 150
-mm, while the masses A and D are at a radius of 200 mm. The angle
-between radius of B and C is 100° and that between B and A is 190°, both
-angles being measured in the same sense. The planes containing A and B
-are 250 mm apart and those containing B and C are 500 mm apart. If the
-shaft is to be in complete dynamic balance, find:
-
-i) The masses of A and D.
-ii) The distance between planes C and D.
-(iii) The angular position of mass D.
-
-6(b) Explain the Holzer Method for multi degrees of freedom system. [5 Marks]
-~~ 7(a) Discuss the balancing of V Engines. [10 Marks]
-7(b) Investigate the state of primary and secondary balancing of four stroke [10 Marks]
-cycle four cylinder engine with a firing order I-II-IIJ-IV. What will be the
-change in this state when the firing order is altered to I-II-IV-III?
-=
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper 6d24331b310c

@@ -1445,6 +1445,7 @@ a 4 human resource.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_06/FUNDAMENTAL OF E COMMERCE/Fundamental of Ecommerce Batch 2022-23 Final0001.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (2 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1541,7 +1542,6 @@ C03; Explain Pervasive computing with its key characteristics. Provide example o
 SO-1; .
 BL2 computing system.
 Q5
-Se Explai impl ion of e-busi 10
 SO-1. xplain success factors for implementation of e-business strategies.
 BL-2
 CO-2;

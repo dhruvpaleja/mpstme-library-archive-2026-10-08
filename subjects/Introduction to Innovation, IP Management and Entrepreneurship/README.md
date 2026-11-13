@@ -16,10 +16,10 @@ Also filed as: `INTRODUCTION TO INNOVATION, IP MANAGEME`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Introduction to Innovation, IP Management & Entrepreneurship(702TG0C022)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CSBS 7036 | QP_Introduction to Innovation, IP Management & Entrepreneurship(702TG0C022)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Introduction to Innovation, IP Management & Entrepreneurship(702TG0C022)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Introduction to Innovation, IP Management & Entrepreneurship(702TG0C022)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech CSBS 7036 | QP_Introduction to Innovation, IP Management & Entrepreneurship(702TG0C022)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Introduction to Innovation, IP Management & Entrepreneurship(702TG0C022)_2025-2026.pdf |
 | 2024-25 | — | Question paper | Sem 4 | B TECH / CSBS | Introduction to Innovation, IP Mangement & Entrepeneurship, Sem IV, Year 2024-25 _f159f38a.pdf |
 | 2022-23 | — | Question paper | Sem 4 | B TECH / CSBS | Introduction to Innovation, IP Managemnt & Entrepreneurs, Sem-IV, Year 2022-23, F_30be7796.pdf |
 | 2021-22 | — | Question paper | Sem 4 | B TECH / CSBS | Introduction to Innovation, IP Management & Entrepreneurship, Batch 2021-22 & 202_5a0e62c9.pdf |

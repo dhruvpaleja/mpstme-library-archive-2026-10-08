@@ -2727,6 +2727,7 @@ architects, and operations teams, to ensure a smooth and successful transition
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Microservices and Architecture/ANS_Microservices and Architecture(703CO0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (9 pages), mean OCR confidence 34.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

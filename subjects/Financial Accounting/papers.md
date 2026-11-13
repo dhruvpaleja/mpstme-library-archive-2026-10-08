@@ -2220,6 +2220,394 @@ b. Double Entry System
 Page 3 of 3
 ````
 
+## 2016-17 · Re-Exam · Sem 5 · paper 67b1371506ac
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/FINANCIAL ACCOUNTING/financial Accounting batch 2015-2016 re exam.pdf`
+- Printed on paper: max marks: 60; exam date: 07 December 2016
+- Text: ocr (4 pages), mean OCR confidence 85.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme : MBA. Tech {All Streams) Year : Ill Semester: V
+Batch : 2015-16
+] Academic Year : 2016-2017
+
+Subject : Financial Accounting Marks: 60 3
+
+Time: 2.
+Date : 07 December 2016 | Duration :
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of the remaining 5 questions, attempt any 4 questions.
+
+3. In all 5 questions are to be answered.
+
+4, Answer to each new question to be started on a fresh page.
+
+5. Figure in the brackets on the right hand side indicates full marks.
+6. Use of calculators is permitted. ©
+
+belated itt ttlt tel LETT Tia TTT Tee Ter Tr ere errr ran
+
+I. From the following particulars, prepare Trading, Profit and Loss (20 Marks)
+Account and Balance Sheet as on 31*December 2011.
+
+Dr. (Rs.) Cr. Rs.)
+Cash in Hand 2,000
+Cash at Bank 18,000
+Purchases and Sales 2, 20,000 3, 50,000
+Return Inwards 6,000
+Return Outwards . 7,500
+Carriage on Purchases 4,400
+Carriage on Sales 2,100
+“Fuel and Power 15,500
+Opening Stock 36,000
+——n Bad Debts 6,200
+Bad Debts Provision _ 2,500
+oa ’ Debtors and Creditors ; 82,000 30,000
+--- page 2 ---
+Cupital 2. £5.000
+
+Investments 20,000
+
+Interest on Investment 2.000
+
+Loan from X 18% p.a. 10.000
+
+Repairs 1520
+
+General Expenses 10.600
+
+Land and Building 1, 80,000
+
+Wages and Salaries 18,000
+
+Miscellaneous Receipts 120
+
+Sules Tax Collected 5.200
+6. 22,320 6. 22.320
+
+Required:
+
+1]. Write off Rs.2, 000 as bad debts and provision for doubtful debts is to be maintained
+at 5% on Debtors.
+
+2. Loan fron: X was taken on 1 May 201]. No interest has been paid so far.
+
+3. Included in general expenses is insurance premium Rs.1, 200 paid for one year
+ending 31“ March, 2012.
+
+4. 1/3 of Wages and Salaries is to be charged to Trading A/C and the balance to Peciit
+and Loss A/C.
+
+5. Closing Stock was valued at Rs.50, 000.
+
+From the following information, prepare a Bank Reconciliation — (1@ Marks)
+Statement as on 31 Dec. 2011 for Messer’s New Steel Limited:
+
+Rs.
+Bank Overdralt as per cash book on 31 De. 2011 245.000
+interest debited by bank on 26 Dec.2011 but no advice received 27,870
+Cheque issued before 31 Dec.2011 but not yet presented to bank 66,000
+liansport Subsidy received from the stale government directly
+by the bank but not advised to the company 42,500
+Draft deposited in the bank but noi credited tii 31 Dec. 2011 13.500
+Bills for collection credited by the bank till 34 Dec. 2011
+but no advice received by the company. 3.600
+Amount wrongly debited lo company account by the bank,
+for which no details are available. 7.400
+
+— 24 -
+--- page 3 ---
+2
+
+3. Prepare a Triple Column Cash Book from the following transactions — (10 Marks)
+for the month of January 2041:
+
+Jan.} Cash in Hand Rs. 550. Cash at Bunk Rs. 4260.
+
+Jan. | Paid salaries by cheque Rs.800.
+
+Jan. | Paid te Ramnath cash Rs. 290
+
+Jan. 2 Paid cash for purchases Rs. 820.
+
+Jan. 2 Balak Ram paid cash Rs.700 in full setuement of debt Rs. 712.
+
+Jan. 3 Cash Sales Rs. 2200.
+
+Jan. 3 Deposited into Burk Rs.2, 000.
+
+Jan.3 Received a crossed cheque for Rs.980 {rom Madan Lal in discharge of a debt of
+Rs.1, 000.
+
+dan 4 Paid to Shankar by cheque af Rs. |,000 and balance in cash in setilement of an
+account of Rs. 1500.
+
+Jan. 5 Bank returned Madan Lal’scheque dishonored and charged Rs. 3 for expenses.
+Jan. 5 Paid to Mohan cash Rs. 995 and discount received Rs.5.
+
+Jan. 5 Withdraw cash from bank for office use Rs. 1,000.
+
+Jan. 6 Cash Sales Rs.S55
+
+Jan. 6 Purchased machinery worth Rs.7>90, payment being made by cheque.
+
+Jan.6 Paid petty cashier for petty expenses for the week Rs.150.
+
+Jan.6 Withdrew cash from bank for personal use Rs.655.
+
+4. A company, whose accounting year is the calendar year, purchased (10 Marks)
+on 1“ April. 2006. machinery costing Rs.30, 000. It purchased further machinery on 1*
+October, 2006. costing Rs.20. 000 and on 1 July, 2007. costing Rs. 10.000.
+
+On |* January 2008, one-third of the machinery which was installed on }“ April 2006
+became obsolcte and was sold for Rs.3, 000.
+
+Show how the machinery account would appear in the books of the company. given that
+machinery was depreciated by Fixed Installment at 10 percent per annum.
+
+5. A) low the follow ing items shall be treated in Final Accounts: (3 Marks}
+
+a. Depreciation on machinery at 5%, gisen that value of machinery is Rs. 70000.
+b. Provision for bad debt at 5% on Debtors of Ks. 45000.
+
+c. Distribution of goods worth Rs.5006 as irec sample.
+
+dg. Interest on capital at 5%, given that capital 1s Rs.1, 00,000.
+
+e. Rent fora month Rs.5000 received in advaice.
+
+-— Bhar
+--- page 4 ---
+B} Pass journal entries for the follow ing transactions: (3 Marks)
+
+a) Mr. K commenced business with Rs.4000 of which Rs.1500 was borrowed from his wile as
+loan.
+
+b}) Goods worth Rs.500 were used by the proprietor for domestic purpose.
+
+c} Goods damaged by fire Rs.1000 and insurance company accepted claim of Rs.800.
+
+d) Goods costing Rs.5000. whose sales price is Rs.6000 distributed as charity.
+
+e} Purchased machinery from HTM on credit Rs.50,000 and paid Rs.2500 for installation
+charges.
+
+6. Write Short Notes on :
+
+1, Accounting Concepts andi Conventions (5 Marks)
+2. Methods of Inventory Valuation (5 Marks)
+
+PRR EE TERRRRE ER ES Ct
+
+AR Tae. gop mea age g
+
+shalt
+
+— 4jb-
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper 12a8b08ac23b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/FINANCIAL ACCOUNTING/FINANCIAL ACCOUNTING BATCH 2014-2015 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 16 May 2017
+- Text: ocr (3 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS ,
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) _ Year: HI . Semester: VI-.
+
+Batch: 2014-2015
+. Academic Year: 2016-2017 .
+
+Subject: Financial Accounting ~ ; .
+Marks: 60
+Date: 16 May 2017 . Time: 2.00 pm to 4.00 pm ~
+‘ Durations: 2 (hrs}   -
+No. of Pages: - 3
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compuisory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions te be attempted.
+
+4) Ail questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Q1. A. From the following trial balance extracted from the books of Ravin Enterprises as on 31.12.16. (08)
+
+Prepare (i) Trading and Profit & Loss A/c and (ii) Balance Sheet
+
+Particulars Dr (Rs) | Particulars Cr (Rs)
+Cash in Hand 2000 | Capital 200000
+Machinery 60000 | Sales 254800
+Stock 50000 | Sundry Creditors 40000
+Bills Receivable 1600 | Bank Overdraft 22000
+Sundry Debtors 50000 | Return Outward 3000
+Wages 70000 | Discount Received 1800
+Land 40000 | Bills Payable 1860
+Carriage inward 2400
+Purchases 180000
+Salaries 24000
+Rent 4000
+Postage 1000
+Return Inward 3200
+Drawings 10000
+Furniture 18000
+Interest 600
+Cash at Bank 6600
+Total 523400 | Total 523400
+
+Closing Stock as on 31.12.16 to Rs. 1, 00,000.
+Q1. B. Determine whether the following Expenses are Capital, Revenue or Deferred Revenue Expenses with reason (04)
+
+i. Purchase of Vehicle ii. Legal Costs of Collecting Debt
+
+iii, Cost of building an extension to a factory iv. Wages of store assistant
+1} "282
+as
+--- page 2 ---
+Q2. (12 Marks)
+
+On 30" June, 2016 the bank column of Aman’s Cash Book showed.a debit balance of Rs 8,250. On
+Examination of Cash Book and Bank Statement you find that:
+
+1. Out of total cheques amounting to Rs 8,000 issued, cheques amounting to Rs 5,800 have been presented
+
+for payment upto 30" June 2016.
+
+2. Out of total cheques amounting to Rs 6,000 sent to Bank for collection, cheques of Rs 4,100 were
+credited in the pass book upto 30" June 2016.
+
+3. On 28" June.a customer deposited Rs 3,500 direct in the Bank account but it was entered only in Pass
+Book.
+
+4. Debit side of Aman’s Cash Book ( Bank Column) has been overcast by Rs 100
+
+5. No entry has been made in the Cash Book for Rent of Rs 800 paid by Bankers according to Aman’s
+
+standing instructions.
+6. The Pass Book showed a credit of Rs 320 for interest and a debit of Rs 40 for Bank Charges, but have
+not entered in the Cash Book.
+
+Prepare a Bank Reconciliation Statement as on 30" June 2017.
+
+Q3. Journalize the following transactions in the books of Gray Toy Trading (12)
+Date Particulars
+
+1“ January Mr. Donald Gray started Gray Toy Trading by investing Rs 1,00,000
+
+5" January Paid Registration and Licensing Fees for Business Rs 37,500
+
+i January Purchased Tables, Chairs, Shelves and other fixtures for Rs 30,000 for Cash
+
+10" January | Acquired an equipment for Rs 16,000 by making 50% down payment and the balance on
+credit
+
+15" January _| Purchased Toys worth Rs 30,000 from Khushi on Credit
+
+20" January _| Sold Toys worth Rs 8,000 at 10% cash Discount
+
+25" January | Paid Electricity charges Rs 2,000
+
+27" January | Paid Rent Rs 5,000 for Storehouse
+
+28" January _| Paid Khushi Rs 8,500 in full settlement of her account
+
+29" January | Borrowed Rs 10,000 from Kumar
+
+30° January | Sold Toys worth Rs 20,000 to Chand at 5% cash Discount
+
+31° January | Paid salary Rs 4,000 to Salesman
+
+Q4. (12)
+
+M/s Lokesh Fabrics purchased a Textile Machine on April 01, 2011 for Rs 1,00,000. On July 01, 2012 another
+machine costing Rs 2,50,000 was purchased . The machine purchased on April 01, 2011 was sold for Rs 25,000
+on October 01, 2015. The company charges depreciation @15% p.a. on straight line method. Prepare machinery
+account account for the year ended March 31, 2016.
+
+2[prse
+--- page 3 ---
+Qs. (12)
+
+M/s Sorabji & co. a trader of plastic toys had 12,000 toys valued at Rs 3 per toy on 1% July 2016. His purchases
+
+and sales during first six months ending 31‘ December 2016 were as under:
+
+On 22" July, 2016: Sales 5000 toys
+On 23" July, 2016: Purchased (Carriage Inward Rs 1,000) 10,000 Toys @ Rs 15 each
+
+On 25" October, 2016: Sales 8,000 Toys
+On 26" October, 2016: Purchased (Carriage Inward Rs 1,200) 12,000 Toys @ Rs 18 each
+
+On 31° December, 2016: Sales 13,000 Toys
+You are required to ascertain the cost of stock on hand as on 3 1 December under FIFO and LIFO methods.
+
+Q6. (42)
+
+From the following balances extracted from the books of a trader, prepare Trial Balance as on 3 1* March 2017.
+
+Particulars Rs
+
+Cash in hand 4200
+
+Cash at Bank 16800
+
+Bills Receivable | 18000
+
+Bills Payable 16000
+
+Sundry Debtors | 24600
+
+Sundry Creditors | 32400
+
+Capital 50000
+Drawings 18000
+Sales 105000
+Purchases 75000
+Carriage inward _| 2700
+Salaries 12000
+Advertisement 2400
+Insurance 1600
+Furniture 7500
+Stock 18600
+Office Rent 2000
+Q7. Write a short note on: (12)
+
+i. Capital Expenditure
+2. Cash Book
+3. Accounting cycle
+
+a|pese
+````
+
 ## 2016-17 · Re-Exam · Sem 2 · paper 9d6ac3eccb6a
 
 - Departments: Computer Applications (MCA)
@@ -2227,6 +2615,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/FINANCIAL ACCOUNTING/Finanial Accounting Batch 2016-17 Re Exam.pdf`
 - Printed on paper: duration hours: 3; exam date: 13 July 2017
 - Text: ocr (4 pages), mean OCR confidence 91.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2401,7 +2790,6 @@ a) Accrual and Realization Concept in Accountancy.
 
 b) Fund Flow Statement.
 
-eo ok ok ok 2 ooo a
 ````
 
 ## 2015-16 · Final-Exam · Sem 5 · paper 452983b58456
@@ -2957,203 +3345,180 @@ D. Reserve for Doubtful debts
 3)3
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 67b1371506ac
+## 2015-16 · Re-Exam · Sem 6 · paper 8676369fea86
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/FINANCIAL ACCOUNTING/financial Accounting batch 2015-2016 re exam.pdf`
-- Printed on paper: max marks: 60; exam date: 07 December 2016
-- Text: ocr (4 pages), mean OCR confidence 85.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/FINANCIAL ACCOUNTING/Financial Accounting Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60
+- Text: ocr (3 pages), mean OCR confidence 93.4
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme : MBA. Tech {All Streams) Year : Ill Semester: V
-Batch : 2015-16
-] Academic Year : 2016-2017
 
-Subject : Financial Accounting Marks: 60 3
-
-Time: 2.
-Date : 07 December 2016 | Duration :
+Programme: MBA Tech (All Streams) Year: III Semester: VI
+Academic Year: 2015-16 Cm,
+Batch: 2014-15 ier aS
+Subject: Financial Accounting ; F f wravMsb Ve
+Marks: 60 , | { uinRaaY
+Time: 10.00% ‘“h2.
+Date: O07 July 2016 Duration: 2 ‘i
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and ‘on the
+cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1. Question No. 1 is compulsory.
+1) Question No. 1 is compulsory.
 
-2. Out of the remaining 5 questions, attempt any 4 questions.
+2) Out of remaining questions, attempt any 4 questions.
 
-3. In all 5 questions are to be answered.
+3) In all 5 questions to be attempted.
 
-4, Answer to each new question to be started on a fresh page.
+4) All questions carry equal marks.
 
-5. Figure in the brackets on the right hand side indicates full marks.
-6. Use of calculators is permitted. ©
+- 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks. =
+7) Assume Suitable data if necessary
+Q.1 The following is trial balance extracted from the books of X as on 31 March 2015. Prepare trading
+and profit and loss account for the year ended 31 March 2009 and a balance sheet: (12 Marks)
+Particulars Amount(Dr.) | Amount(Cr.) : -
+Capital 9,00,000
+Drawings 35,000
+Buildings * 60,000
+Debtors and creditors 50,000 80,000
+Returns 3,500 2,900
+Purchases and sales 3,00,000 4,65,000
+Discount 7,100 5,100
+aa Life insurance 3,000
+Cash 30,000
+Stock (opening) 12,000
+Bad debts 5,000
+Bank Overdraft 17,000
+Carriage inwards 6,200
+Wages 27,700
+Machinery 8,00,000
+_— Furniture 60,000
+7 Salaries 35,000
+ges Bank commission 2,000
+Bills receivable/payable 60,000 40,000
+Trade expenses 13,500
 
-belated itt ttlt tel LETT Tia TTT Tee Ter Tr ere errr ran
+15,10,000 15,10,000
 
-I. From the following particulars, prepare Trading, Profit and Loss (20 Marks)
-Account and Balance Sheet as on 31*December 2011.
+Adjustments:
+(i) Depreciate building by 5%; furniture and machinery by 10% p.a.
 
-Dr. (Rs.) Cr. Rs.)
-Cash in Hand 2,000
-Cash at Bank 18,000
-Purchases and Sales 2, 20,000 3, 50,000
-Return Inwards 6,000
-Return Outwards . 7,500
-Carriage on Purchases 4,400
-Carriage on Sales 2,100
-“Fuel and Power 15,500
-Opening Stock 36,000
-——n Bad Debts 6,200
-Bad Debts Provision _ 2,500
-oa ’ Debtors and Creditors ; 82,000 30,000
+Page 1 of 3
 --- page 2 ---
-Cupital 2. £5.000
+(ii) Trade expenses Rs. 2,500 and wages Rs. 3,500 have not been paid yet.
+(iii) Allow interest on capital at 5% p.a.
 
-Investments 20,000
+(iv) Stock on 31 March 2009 was valued at Rs. 50,000.
 
-Interest on Investment 2.000
+Q. 2 Pass the journal entries for the following transactions in the books of Shikha: (12 Marks)
+2015,
 
-Loan from X 18% p.a. 10.000
+Jan | Started business with cash Rs.70,000
+2 Purchased goods from Patel Rs.7,500.
+3 Cash Deposited into Bank Rs.30,000.
+4 Goods returned to Patel Rs. 1,000 as they were not as per the sample.
+9 Sold goods to Vijay Rs.15,000.
+12 Paid for repair of Plant Rs. 700
+15 Received a cheque of Rs. 14,900 from Vijay in full settlement.
+18 Paid cash to Patel Rs.6,250 in full settlement of his account.
+25 Paid wages Rs. 3,400
+28Withdrawn goods of cost price of Rs.900 for personal use.
+29 Purchased furniture for Rs. 25,000
+31 Rent paid Rs. 7,000
 
-Repairs 1520
+Q.3 From the following transactions of Anisha & Co., prepare the stores ledger account for the firm,
+using LIFO method: (12 Marks)
+2007
 
-General Expenses 10.600
+1 July Opening stock 500 units @ Rs. 20 each
 
-Land and Building 1, 80,000
+4 July Purchased 400 units @ Rs. 21 each
 
-Wages and Salaries 18,000
+6 July Issued 600 units
 
-Miscellaneous Receipts 120
+8 July Purchased 800 units @ Rs.24 each
 
-Sules Tax Collected 5.200
-6. 22,320 6. 22.320
+9 July Issued 500
 
-Required:
+13 July Issued 300
 
-1]. Write off Rs.2, 000 as bad debts and provision for doubtful debts is to be maintained
-at 5% on Debtors.
+24 July Purchased 500 units @ Rs. 25 each
 
-2. Loan fron: X was taken on 1 May 201]. No interest has been paid so far.
+28 July Issued 400 units
 
-3. Included in general expenses is insurance premium Rs.1, 200 paid for one year
-ending 31“ March, 2012.
+Q.4 On Ist July, 2001, Tarkh Ltd purchases second hand machinery for Rs. 20,000 and spends
+Rs. 3,000 on reconditioning and installing it. On Ist January, 2002, the firm purchases new
+machinery worth Rs. 12,000. On 30th June, 2003, the machinery purchased on Ist January, 2002
+was sold for Rs. 8,000 & on Ist July, 2003, fresh plant was installed. Payment for this plant was
+to be made as follows:
 
-4. 1/3 of Wages and Salaries is to be charged to Trading A/C and the balance to Peciit
-and Loss A/C.
+Ist July, 2003 Rs. 5,000
 
-5. Closing Stock was valued at Rs.50, 000.
+20th June, 2004 Rs. 6,000
 
-From the following information, prepare a Bank Reconciliation — (1@ Marks)
-Statement as on 31 Dec. 2011 for Messer’s New Steel Limited:
+30th June, 2005 Rs. 5,500
 
-Rs.
-Bank Overdralt as per cash book on 31 De. 2011 245.000
-interest debited by bank on 26 Dec.2011 but no advice received 27,870
-Cheque issued before 31 Dec.2011 but not yet presented to bank 66,000
-liansport Subsidy received from the stale government directly
-by the bank but not advised to the company 42,500
-Draft deposited in the bank but noi credited tii 31 Dec. 2011 13.500
-Bills for collection credited by the bank till 34 Dec. 2011
-but no advice received by the company. 3.600
-Amount wrongly debited lo company account by the bank,
-for which no details are available. 7.400
+Payments in 2004 & 2005 include interest Rs 1,000 & 500 respectively.
 
-— 24 -
+The company writes off 10% on the original cost. The accounts are closed every year ending
+31st March, 2004. Show the Machinery account for three years ending 31st March, 2004. (12 Marks)
+
+Q.5 Define the term accounting. What are the different functions of accounting? Explain the systems of
+accounting. (12 Marks)
+
+Page 2 of 3
 --- page 3 ---
-2
+Q.6 Prepare Trial Balance as on 31/12/2014 from the following balances of Ms
+Capital 4,70,000 Machinery
+Cash In Hand 6,000 Sundry Debtors
+Building 3,20,000 Repairs
+Stock 33,000 Insurance Premium
+Sundry Creditors 26,000 Sales
+Commission Paid 750 Telephone charges
+Rent and Taxes 6,300 Furniture
+Purchases 1,65,000 Discount Earned
+Salaries 70,600 Loan
+Discount Allowed 650 Bank Overdraft
+Drawings 5,000 Bills Receivables
+Bad Debts 1,350 Bills Payable
 
-3. Prepare a Triple Column Cash Book from the following transactions — (10 Marks)
-for the month of January 2041:
+Q.7___ Explain the following concept of Accounting:
 
-Jan.} Cash in Hand Rs. 550. Cash at Bunk Rs. 4260.
+a) Accounting Cost Concept
+b) Dual Aspect.
+c) Materiality
 
-Jan. | Paid salaries by cheque Rs.800.
+. Rani:
 
-Jan. | Paid te Ramnath cash Rs. 290
+(12 Marks)
 
-Jan. 2 Paid cash for purchases Rs. 820.
+1,58,800
+48,000
+5,400
+3,300
+2,90,000
+6,450
+11,000
+1,100
+51,000
+5,900
+8,600
+6,000
 
-Jan. 2 Balak Ram paid cash Rs.700 in full setuement of debt Rs. 712.
+=
 
-Jan. 3 Cash Sales Rs. 2200.
+(4*3=12Marks)
 
-Jan. 3 Deposited into Burk Rs.2, 000.
-
-Jan.3 Received a crossed cheque for Rs.980 {rom Madan Lal in discharge of a debt of
-Rs.1, 000.
-
-dan 4 Paid to Shankar by cheque af Rs. |,000 and balance in cash in setilement of an
-account of Rs. 1500.
-
-Jan. 5 Bank returned Madan Lal’scheque dishonored and charged Rs. 3 for expenses.
-Jan. 5 Paid to Mohan cash Rs. 995 and discount received Rs.5.
-
-Jan. 5 Withdraw cash from bank for office use Rs. 1,000.
-
-Jan. 6 Cash Sales Rs.S55
-
-Jan. 6 Purchased machinery worth Rs.7>90, payment being made by cheque.
-
-Jan.6 Paid petty cashier for petty expenses for the week Rs.150.
-
-Jan.6 Withdrew cash from bank for personal use Rs.655.
-
-4. A company, whose accounting year is the calendar year, purchased (10 Marks)
-on 1“ April. 2006. machinery costing Rs.30, 000. It purchased further machinery on 1*
-October, 2006. costing Rs.20. 000 and on 1 July, 2007. costing Rs. 10.000.
-
-On |* January 2008, one-third of the machinery which was installed on }“ April 2006
-became obsolcte and was sold for Rs.3, 000.
-
-Show how the machinery account would appear in the books of the company. given that
-machinery was depreciated by Fixed Installment at 10 percent per annum.
-
-5. A) low the follow ing items shall be treated in Final Accounts: (3 Marks}
-
-a. Depreciation on machinery at 5%, gisen that value of machinery is Rs. 70000.
-b. Provision for bad debt at 5% on Debtors of Ks. 45000.
-
-c. Distribution of goods worth Rs.5006 as irec sample.
-
-dg. Interest on capital at 5%, given that capital 1s Rs.1, 00,000.
-
-e. Rent fora month Rs.5000 received in advaice.
-
--— Bhar
---- page 4 ---
-B} Pass journal entries for the follow ing transactions: (3 Marks)
-
-a) Mr. K commenced business with Rs.4000 of which Rs.1500 was borrowed from his wile as
-loan.
-
-b}) Goods worth Rs.500 were used by the proprietor for domestic purpose.
-
-c} Goods damaged by fire Rs.1000 and insurance company accepted claim of Rs.800.
-
-d) Goods costing Rs.5000. whose sales price is Rs.6000 distributed as charity.
-
-e} Purchased machinery from HTM on credit Rs.50,000 and paid Rs.2500 for installation
-charges.
-
-6. Write Short Notes on :
-
-1, Accounting Concepts andi Conventions (5 Marks)
-2. Methods of Inventory Valuation (5 Marks)
-
-PRR EE TERRRRE ER ES Ct
-
-AR Tae. gop mea age g
-
-shalt
-
-— 4jb-
+Page 3 of 3
 ````
 
 ## 2015-16 · Re-Exam · Sem 2 · paper 6151a4845821
@@ -3726,193 +4091,334 @@ b) Accrual theory of accounting & convention of Disclosure.
 c) Issues on. IFRS
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper 12a8b08ac23b
+## 2014-15 · Re-Exam · Sem 6 · paper 4da520106aed
+
+- Departments: Chemical, Common (all branches)
+- Programmes: MBA TECH, MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/FINANCIAL ACCOUNTING/FINANCIAL ACCOUNTING BATCH 2013-2014 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 13/05/2015
+- Text: ocr (3 pages), mean OCR confidence 92.5
+
+````text
+r
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: III Semester: VI
+
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Financial Accounting .
+
+Date: 13/05/2015 Time 4 BS
+bulvons :
+
+Re-Examination .
+
+Instructions: Candidates should read carefully the instruction on the question paper and on
+the cover of the answer book, which is provide for their use.
+
+NB: Qlis compulsory. Attempt any three from the remaining.
+
+Q1) The Trial Balance of Mr. Lakhamichand is as below:
+Prepare Manufacturing, Profit and loss and Balance sheet for the year ended 31° December,
+2007.
+
+Debit Balance Amt. Credit Balances Amt.
+Rs. Rs.
+Cash in hand 1,000 | Capital Account 41,860
+Machinery 30,000 | Sales 1,38,780
+Drawings 2,500 | R.D.D. 560
+Factory, Power and Fuel 450 | Sundry Creditors 8,800
+Office Salaries 6,225
+Carriage Outwards 500
+Manufacturing Wages 9,300
+Fumiture and Fixture 3,400
+Opening Stock :
+Finished Goods 4,000
+Work-in-Progress 7,250
+Raw Materials 2,800
+Carriage Inwards 1,000
+Rent (Factory %4) 4,000
+Sundry Debtors 21,600
+Advertisement 775
+Printing & Stationery 1,200
+Factory Insurance 1,280
+Purchase of Raw Material 82,950
+Balance at Bank 8,530
+Discount allowed 610
+Miscellaneous Expenses 630 -
+190.000 1,90,.000
+Adjustments : -
+1. Closing stock finished goods Rs. 6,500; Raw Materials Rs. 750; and Work-in-progress
+Rs. 4,750. :
+2. A Motor car purchased on 1" October, 2007 for Rs. 10,000 has been included in
+purchases.
+
+y
+
+a
+--- page 2 ---
+3. Depreciate Machinery at 15%
+
+p.a, Motor car at 20% p.a., Furniture and fixtures at 15%
+
+p.a.
+4. Provision for R.D.D. should be maintained at 10% of the debtors.
+5. Provision for unrealized Rent in respect of portion of the office sub-let at Rs. 120 p.m.
+from 1° October, 2007 has to be made
+(14 marks)
+Q1(b) Explain the concept of (1) Going concern (2) Money measurement (3) Conservatism
+(6 marks)
+Q2) On 31st March, 2008; the Cash Book of Shri Girdhar Chandak showed a balance of Rs.
+lance of Rs 14,190/-. On comparing the Cash Book
+
+14,000, but the Bank Pass Book showed a Ba
+with the Pass Book, the follo
+
+1. Cheques
+
+presented fo
+
+2. Cheques
+were col
+
+3. Mr. Trustworthy directly deposite
+
+made in
+
+4. The Bank has debited the Pass Book by R
+e was not found in the Cash Book.
+
+wing discrepancies were noticed.
+of Rs. 300, Rs. 200 were issued on 25th March, 2008; but both the cheques were
+
+r payment on Sth April, 2008.
+
+ustomers were recorded in the cash book but they
+
+of Rs. 600 received from the c
+
+lected on Ist April, 2008.
+d Rs 300 into the Bank Account, the entry of the same was
+
+the Cash Book on 4th April, 2008.
+s. 10 for Bank charges. The corresponding entry of
+
+the sam
+Prepare a Bank Reconciliation Statement as on 31st March, 2008.
+(10 marks)
+Q3) The following is an extract of the record of receipt and issue of sulphur in a Sita factory
+during February, 2008.
+February 1 Opening Balance 500 tonnes @ Rs. 200
+3 Issue: 70 tonnes
+4 Issue: 100 tonnes
+8 Issue 80 tonnes
+13. Received from supplier 200 tonnes @Rs. 190.
+14. Returned from Department 15 tonnes
+16 Issue: 180 tonnes
+20 Received from supplier 240 tonnes @ Rs. 190
+24 Issue: 300 tonnes
+25 Received from supplier 320 tonnes @ Rs. 190
+26 Issue: 115 tonnes
+27 Returned from Department 35 tonnes
+28 Received from supplier 100 tonnes @ Rs. 190
+Issues are to be priced on the principle of ‘First in, First Out’. The stock verifier of the factory
+the 22"! and left a note accordingly. Draw up a priced
+
+had found a shortage of 10 tonnes on
+
+the above transactions.
+
+Stores Ledger Card for the material, showing
+(10 marks)
+
+Q4) On 1
+
+machine is Rs 12,00,000 and import
+
+On 1/6/2011 purchased a
+
+/1/2010 Lakshmi and company purchased a impor: ed Machine from the cost of the
+duty of Rs 2,50,000 and installation charges 25,000.
+
+machine for Rs 1,00,000 and incurred installation cost of Rs 25,000.
+
+2/
+
+ir
+--- page 3 ---
+On 1/8/2012 the company purchased another machine for Rs 3,00,000 and the machinery
+purchased on 1/1/2010 was sold for Rs 5,00,000.
+
+Prepare machinery account for 2010, 2011, 2012 assuming that depreciation is charged on
+
+original cost method at 15%.Assume the year as calendar year. (10 marks)
+Q5) Explain the users of the financial statement. (10 marks)
+pF
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper 0227c1c1b7b8
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/FINANCIAL ACCOUNTING/FINANCIAL ACCOUNTING BATCH 2014-2015 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 16 May 2017
-- Text: ocr (3 pages), mean OCR confidence 91.5
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/FINANCIAL ACCOUNTING/Financial Accounting Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 50; exam date: 04/07/2015
+- Text: ocr (3 pages), mean OCR confidence 93.4
 
 ````text
-SVKM’s NMIMS ,
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (All Streams) _ Year: HI . Semester: VI-.
+Programme: MBA Tech (ALL STREAMS) Year: III Semester: VI
 
-Batch: 2014-2015
-. Academic Year: 2016-2017 .
+Academic Year: 2014-15
+Batch: 2013-14
 
-Subject: Financial Accounting ~ ; .
-Marks: 60
-Date: 16 May 2017 . Time: 2.00 pm to 4.00 pm ~
-‘ Durations: 2 (hrs}   -
-No. of Pages: - 3
+Subject : Financial Accounting
+
+Marks: 50 ¥ at
+Time : 2.0
+Date : 04/07/2015 co
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-1) Question No. 1 is compuisory.
+NB:
+1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
-3) In all 5 questions te be attempted.
+3) In all 5 questions to be attempted.
 
-4) Ail questions carry equal marks.
+4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5) Answer to each new question to Be started ona fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
 
-Q1. A. From the following trial balance extracted from the books of Ravin Enterprises as on 31.12.16. (08)
+7) Assume Suitable data if necessary
 
-Prepare (i) Trading and Profit & Loss A/c and (ii) Balance Sheet
+Que.1 (10 Marks)
 
-Particulars Dr (Rs) | Particulars Cr (Rs)
-Cash in Hand 2000 | Capital 200000
-Machinery 60000 | Sales 254800
-Stock 50000 | Sundry Creditors 40000
-Bills Receivable 1600 | Bank Overdraft 22000
-Sundry Debtors 50000 | Return Outward 3000
-Wages 70000 | Discount Received 1800
-Land 40000 | Bills Payable 1860
-Carriage inward 2400
-Purchases 180000
-Salaries 24000
-Rent 4000
-Postage 1000
-Return Inward 3200
-Drawings 10000
-Furniture 18000
-Interest 600
-Cash at Bank 6600
-Total 523400 | Total 523400
+The following is the trial balance of Mr. Aditya Traders as on 315t March, 2015. You are required
+to prepare the final accounts after giving effects to the adjustments: accounts after giving effect
+to the adjustments:
 
-Closing Stock as on 31.12.16 to Rs. 1, 00,000.
-Q1. B. Determine whether the following Expenses are Capital, Revenue or Deferred Revenue Expenses with reason (04)
+Particulars Dr (Rs) Cr. (Rs )
+Capital Account 2,00,000
+Furniture 60,000
 
-i. Purchase of Vehicle ii. Legal Costs of Collecting Debt
+Purchases 1,50,000
 
-iii, Cost of building an extension to a factory iv. Wages of store assistant
-1} "282
-as
+Debtors 2,00,000
+
+Interest Earned 2,000
+Salaries 40,000
+
+Sales 3,21,000
+Purchases Returns 5,000
+Wages 20,000
+
+Rent 20,000
+
+Sales Returns 10,000
+
+Creditors 1,20,000
+Drawings 44,000
+
+Printing & stationery 10,000
+
+Insurance 27,000
+
+Opening Stock 50,000
+
+Office Expenses 17,000
+
+6,48,000 6,48,000
 --- page 2 ---
-Q2. (12 Marks)
+Additional Information:
 
-On 30" June, 2016 the bank column of Aman’s Cash Book showed.a debit balance of Rs 8,250. On
-Examination of Cash Book and Bank Statement you find that:
+e 1. Depreciate furniture by 10% p.a
+2. Salary for the month of March 2015 amounting to Rs 3,000 was unpaid which must be
+provided for. However salaries included Rs 2,000 paid in advance.
 
-1. Out of total cheques amounting to Rs 8,000 issued, cheques amounting to Rs 5,800 have been presented
+3. Closing stock in trade Rs 6,000
+Que 2. (10 Marks)
+Sunakshi Enterprises Ltd purchased a machinery on January {, 2012 for Rs 550000 and spent Rs
+50000 on its installation. On September 1, 2012 it purchased another machine for Rs 360000. On
+May 1, 2013 it purchased another machine for Rs 840000 (including installation expenses of Rs
+10000). On 31st December 2013 it sold the machinery purchased on Ist January 2012 for Rs
+3,00,000.
 
-for payment upto 30" June 2016.
+Depreciation was provided on machinery @10 % p.a on original cost method annually on
+December 31.
 
-2. Out of total cheques amounting to Rs 6,000 sent to Bank for collection, cheques of Rs 4,100 were
-credited in the pass book upto 30" June 2016.
+Prepare machinery Account for the years from 2012 — 2013.
 
-3. On 28" June.a customer deposited Rs 3,500 direct in the Bank account but it was entered only in Pass
-Book.
+Que. 3 ‘ (10 Marks)
+Purchases and sales of a certain product during March 2015 are set out below:
 
-4. Debit side of Aman’s Cash Book ( Bank Column) has been overcast by Rs 100
+Purchases:
 
-5. No entry has been made in the Cash Book for Rent of Rs 800 paid by Bankers according to Aman’s
+1% March 2000 units @ Rs 10, 12 March 2000 units @ Rs 12
 
-standing instructions.
-6. The Pass Book showed a credit of Rs 320 for interest and a debit of Rs 40 for Bank Charges, but have
-not entered in the Cash Book.
+i5" March 1000 units @ Rsi5, 20° March 2000 units @ Rs 18
 
-Prepare a Bank Reconciliation Statement as on 30" June 2017.
+Sales
 
-Q3. Journalize the following transactions in the books of Gray Toy Trading (12)
-Date Particulars
+10% March 1600 units, 14 March 2000 units, 318* March 1000 units.
 
-1“ January Mr. Donald Gray started Gray Toy Trading by investing Rs 1,00,000
+There were no opening inventories. Prepare a Stores Ledger Account using FIFO / LIFO
+methods. .
+Que. 4 (10 Marks)
 
-5" January Paid Registration and Licensing Fees for Business Rs 37,500
+Prepare Shri Ketan’s Bank Reconciliation Statement as on 30" April 2015 from the following
+details:
 
-i January Purchased Tables, Chairs, Shelves and other fixtures for Rs 30,000 for Cash
+1. Cheques Deposited Cheques Realized Amount
+8 April 2015 14" April 2015 Rs 6250
+13" April 2015 22"4 April 2015 Rs 2500
+25% April 2015 5% May 2015 Rs 750
+29% April 2015 8 May 2015 Rs 1225
 
-10" January | Acquired an equipment for Rs 16,000 by making 50% down payment and the balance on
-credit
+2. Cheques drawn in April 2015 but presentation in May 2015: Kewal Rs 1225; Surjit Rs
+1525.
 
-15" January _| Purchased Toys worth Rs 30,000 from Khushi on Credit
+3. Bank had debited Rs 125 for Commission and credited Rs 625 for interest in the pass
+book, but these were not recorded in the cash book.
 
-20" January _| Sold Toys worth Rs 8,000 at 10% cash Discount
+4. A cheque for Rs 250 received from a customer on 30" April 2015 was recorded in the
+cash book but it was deposited in bank on 1*t May 2013.
 
-25" January | Paid Electricity charges Rs 2,000
+5. On 30" April 2015 cash book showed a balance (debit) of Rs 45000.
 
-27" January | Paid Rent Rs 5,000 for Storehouse
-
-28" January _| Paid Khushi Rs 8,500 in full settlement of her account
-
-29" January | Borrowed Rs 10,000 from Kumar
-
-30° January | Sold Toys worth Rs 20,000 to Chand at 5% cash Discount
-
-31° January | Paid salary Rs 4,000 to Salesman
-
-Q4. (12)
-
-M/s Lokesh Fabrics purchased a Textile Machine on April 01, 2011 for Rs 1,00,000. On July 01, 2012 another
-machine costing Rs 2,50,000 was purchased . The machine purchased on April 01, 2011 was sold for Rs 25,000
-on October 01, 2015. The company charges depreciation @15% p.a. on straight line method. Prepare machinery
-account account for the year ended March 31, 2016.
-
-2[prse
+2/3
 --- page 3 ---
-Qs. (12)
+Que.5 (10 Marks)
+From the following list of balances prepare a Trial Balance as on 31% December 2014
 
-M/s Sorabji & co. a trader of plastic toys had 12,000 toys valued at Rs 3 per toy on 1% July 2016. His purchases
+Capital A/c Rs 1,00,000 ; Debtors A/c Rs 20,000 ; Machinery A/c Rs 92,000 ;
 
-and sales during first six months ending 31‘ December 2016 were as under:
+Sales A/c Rs 1,10,000; Returns Outward A/c 1,000 ; Bills Payable A/c Rs 8,000;
 
-On 22" July, 2016: Sales 5000 toys
-On 23" July, 2016: Purchased (Carriage Inward Rs 1,000) 10,000 Toys @ Rs 15 each
+Bank overdraft A/c Rs 1,10,000 ; Opening Stock A/c Rs 15,000; Creditors A/c Rs 20,000;
+Purchase A/c Rs 70,000; Returns Inward A/c Rs 2,000; Wages and Salaries A/c Rs 30,000;
+Bills Receivable A/c Rs 15,000; Rent Paid A/c Rs 20,000; Furniture Rs 50,000 ;
 
-On 25" October, 2016: Sales 8,000 Toys
-On 26" October, 2016: Purchased (Carriage Inward Rs 1,200) 12,000 Toys @ Rs 18 each
+Audit fees Rs 10,000, Carriage Inward 2,000; Dividend received Rs 5,000;
 
-On 31° December, 2016: Sales 13,000 Toys
-You are required to ascertain the cost of stock on hand as on 3 1 December under FIFO and LIFO methods.
+Advertisement expenses Rs 20,000 ; Bank balance Rs 8,000.
 
-Q6. (42)
+Que.6 . Explain any five accounting concepts. (10 Marks)
+Que. 7. Write short notes on: ‘ (10 Marks)
 
-From the following balances extracted from the books of a trader, prepare Trial Balance as on 3 1* March 2017.
-
-Particulars Rs
-
-Cash in hand 4200
-
-Cash at Bank 16800
-
-Bills Receivable | 18000
-
-Bills Payable 16000
-
-Sundry Debtors | 24600
-
-Sundry Creditors | 32400
-
-Capital 50000
-Drawings 18000
-Sales 105000
-Purchases 75000
-Carriage inward _| 2700
-Salaries 12000
-Advertisement 2400
-Insurance 1600
-Furniture 7500
-Stock 18600
-Office Rent 2000
-Q7. Write a short note on: (12)
-
-i. Capital Expenditure
-2. Cash Book
-3. Accounting cycle
-
-a|pese
+a. Sum of Years Digit Method of Depreciation
+b. Accounting Cycle
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper 8447db2d6616
@@ -4102,182 +4608,6 @@ c) credit side of the cash book only.
 a) income b) assets c) liability
 
 3/s
-````
-
-## 2014-15 · Re-Exam · Sem 6 · paper 8676369fea86
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/FINANCIAL ACCOUNTING/Financial Accounting Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60
-- Text: ocr (3 pages), mean OCR confidence 93.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: III Semester: VI
-Academic Year: 2015-16 Cm,
-Batch: 2014-15 ier aS
-Subject: Financial Accounting ; F f wravMsb Ve
-Marks: 60 , | { uinRaaY
-Time: 10.00% ‘“h2.
-Date: O07 July 2016 Duration: 2 ‘i
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and ‘on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-- 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks. =
-7) Assume Suitable data if necessary
-Q.1 The following is trial balance extracted from the books of X as on 31 March 2015. Prepare trading
-and profit and loss account for the year ended 31 March 2009 and a balance sheet: (12 Marks)
-Particulars Amount(Dr.) | Amount(Cr.) : -
-Capital 9,00,000
-Drawings 35,000
-Buildings * 60,000
-Debtors and creditors 50,000 80,000
-Returns 3,500 2,900
-Purchases and sales 3,00,000 4,65,000
-Discount 7,100 5,100
-aa Life insurance 3,000
-Cash 30,000
-Stock (opening) 12,000
-Bad debts 5,000
-Bank Overdraft 17,000
-Carriage inwards 6,200
-Wages 27,700
-Machinery 8,00,000
-_— Furniture 60,000
-7 Salaries 35,000
-ges Bank commission 2,000
-Bills receivable/payable 60,000 40,000
-Trade expenses 13,500
-
-15,10,000 15,10,000
-
-Adjustments:
-(i) Depreciate building by 5%; furniture and machinery by 10% p.a.
-
-Page 1 of 3
---- page 2 ---
-(ii) Trade expenses Rs. 2,500 and wages Rs. 3,500 have not been paid yet.
-(iii) Allow interest on capital at 5% p.a.
-
-(iv) Stock on 31 March 2009 was valued at Rs. 50,000.
-
-Q. 2 Pass the journal entries for the following transactions in the books of Shikha: (12 Marks)
-2015,
-
-Jan | Started business with cash Rs.70,000
-2 Purchased goods from Patel Rs.7,500.
-3 Cash Deposited into Bank Rs.30,000.
-4 Goods returned to Patel Rs. 1,000 as they were not as per the sample.
-9 Sold goods to Vijay Rs.15,000.
-12 Paid for repair of Plant Rs. 700
-15 Received a cheque of Rs. 14,900 from Vijay in full settlement.
-18 Paid cash to Patel Rs.6,250 in full settlement of his account.
-25 Paid wages Rs. 3,400
-28Withdrawn goods of cost price of Rs.900 for personal use.
-29 Purchased furniture for Rs. 25,000
-31 Rent paid Rs. 7,000
-
-Q.3 From the following transactions of Anisha & Co., prepare the stores ledger account for the firm,
-using LIFO method: (12 Marks)
-2007
-
-1 July Opening stock 500 units @ Rs. 20 each
-
-4 July Purchased 400 units @ Rs. 21 each
-
-6 July Issued 600 units
-
-8 July Purchased 800 units @ Rs.24 each
-
-9 July Issued 500
-
-13 July Issued 300
-
-24 July Purchased 500 units @ Rs. 25 each
-
-28 July Issued 400 units
-
-Q.4 On Ist July, 2001, Tarkh Ltd purchases second hand machinery for Rs. 20,000 and spends
-Rs. 3,000 on reconditioning and installing it. On Ist January, 2002, the firm purchases new
-machinery worth Rs. 12,000. On 30th June, 2003, the machinery purchased on Ist January, 2002
-was sold for Rs. 8,000 & on Ist July, 2003, fresh plant was installed. Payment for this plant was
-to be made as follows:
-
-Ist July, 2003 Rs. 5,000
-
-20th June, 2004 Rs. 6,000
-
-30th June, 2005 Rs. 5,500
-
-Payments in 2004 & 2005 include interest Rs 1,000 & 500 respectively.
-
-The company writes off 10% on the original cost. The accounts are closed every year ending
-31st March, 2004. Show the Machinery account for three years ending 31st March, 2004. (12 Marks)
-
-Q.5 Define the term accounting. What are the different functions of accounting? Explain the systems of
-accounting. (12 Marks)
-
-Page 2 of 3
---- page 3 ---
-Q.6 Prepare Trial Balance as on 31/12/2014 from the following balances of Ms
-Capital 4,70,000 Machinery
-Cash In Hand 6,000 Sundry Debtors
-Building 3,20,000 Repairs
-Stock 33,000 Insurance Premium
-Sundry Creditors 26,000 Sales
-Commission Paid 750 Telephone charges
-Rent and Taxes 6,300 Furniture
-Purchases 1,65,000 Discount Earned
-Salaries 70,600 Loan
-Discount Allowed 650 Bank Overdraft
-Drawings 5,000 Bills Receivables
-Bad Debts 1,350 Bills Payable
-
-Q.7___ Explain the following concept of Accounting:
-
-a) Accounting Cost Concept
-b) Dual Aspect.
-c) Materiality
-
-. Rani:
-
-(12 Marks)
-
-1,58,800
-48,000
-5,400
-3,300
-2,90,000
-6,450
-11,000
-1,100
-51,000
-5,900
-8,600
-6,000
-
-=
-
-(4*3=12Marks)
-
-Page 3 of 3
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper 5492665d12ec
@@ -5007,173 +5337,190 @@ estimated life of Machine is 5 years. Calculate depreciation for 5 yrs on s
 6/6
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper 4da520106aed
+## 2013-14 · Re-Exam · Trim 8 · paper 693e82f569b4
 
-- Departments: Chemical, Common (all branches)
-- Programmes: MBA TECH, MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/FINANCIAL ACCOUNTING/FINANCIAL ACCOUNTING BATCH 2013-2014 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 13/05/2015
-- Text: ocr (3 pages), mean OCR confidence 92.5
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/FINANCIAL ACCOUNTING/FINANCIAL ACCOUNTING BATCH 2011-12 RE EXAM0001(1).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 14 /12/2013
+- Text: ocr (3 pages), mean OCR confidence 91.7
 
 ````text
-r
-
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (All Streams) Year: III Semester: VI
+Programme:MBA Tech (ALL) Year: III Trimester: VIII
 
-Batch: 2013-14
-Academic Year: 2014-2015
+Academic Year: 2013-14 Batch:2011-12
 
-Subject: Financial Accounting .
+Subject : Financial Accounting
 
-Date: 13/05/2015 Time 4 BS
-bulvons :
+Marks:50 ~ Lf
+Time : 10.00 am to,12.00 pm .\
+Durations:2 (hrs) - e
+Re-Examination —""
 
-Re-Examination .
+Date :14 /12/2013
 
-Instructions: Candidates should read carefully the instruction on the question paper and on
-the cover of the answer book, which is provide for their use.
+oP
 
-NB: Qlis compulsory. Attempt any three from the remaining.
+Instructions : Candidates should read carefully the instruction on the question paper and on the
+cover of the answer book, which is provide for their use.
 
-Q1) The Trial Balance of Mr. Lakhamichand is as below:
-Prepare Manufacturing, Profit and loss and Balance sheet for the year ended 31° December,
-2007.
+NB: 1. Section 1 is compulsory and Attempt any 3 ‘question from Section 11
+2. Answer to each new question should be: started on fresh Page.
+3. Figures to the right indicate full marks
 
-Debit Balance Amt. Credit Balances Amt.
+SECTION 1
+
+Q1) (a) From the following Trial Balance of Telly Enterprises, prepare Manufacturing Account,
+Trading and Profit & Loss Account for the year ended 31st December, 2009 and the Balance Sheet
+
+as on that date. (15 marks)
+Particulars Dr. Cr
 Rs. Rs.
-Cash in hand 1,000 | Capital Account 41,860
-Machinery 30,000 | Sales 1,38,780
-Drawings 2,500 | R.D.D. 560
-Factory, Power and Fuel 450 | Sundry Creditors 8,800
-Office Salaries 6,225
-Carriage Outwards 500
-Manufacturing Wages 9,300
-Fumiture and Fixture 3,400
-Opening Stock :
-Finished Goods 4,000
-Work-in-Progress 7,250
-Raw Materials 2,800
-Carriage Inwards 1,000
-Rent (Factory %4) 4,000
-Sundry Debtors 21,600
-Advertisement 775
-Printing & Stationery 1,200
-Factory Insurance 1,280
-Purchase of Raw Material 82,950
-Balance at Bank 8,530
-Discount allowed 610
-Miscellaneous Expenses 630 -
-190.000 1,90,.000
-Adjustments : -
-1. Closing stock finished goods Rs. 6,500; Raw Materials Rs. 750; and Work-in-progress
-Rs. 4,750. :
-2. A Motor car purchased on 1" October, 2007 for Rs. 10,000 has been included in
-purchases.
 
-y
+Lreliy’s Capital 1,60,000,
 
-a
+(Telly's Drawings 16,000
+
+Machinery 50,000}
+
+Raw material — Ist January 2009 26,000)
+
+Finished goods— Ist January 2009 25,000
+
+[Purchases and Sales 1,64,000, 2,65,000
+
+Returns 4,000, 2,00
+
+Sundry Debtors & Creditors 41,201 20,000
+
+[Furniture and Fixtures 10,000)
+
+Freight Inward 4,000
+
+Carriage Outward 1,000;
+
+Rent, Rates and Taxes 9,200
+
+Printing & Stationery 1,600)
+
+(General Expenses 800
+
+Postage & Telephone 1,60
+
+Provision for Doubtful Debts 800
+
+4/3
 --- page 2 ---
-3. Depreciate Machinery at 15%
+fasuane Charges 1,400
+S:
 
-p.a, Motor car at 20% p.a., Furniture and fixtures at 15%
+alaries and Wages 42.600
+(Cash at Bank 49,400)
 
-p.a.
-4. Provision for R.D.D. should be maintained at 10% of the debtors.
-5. Provision for unrealized Rent in respect of portion of the office sub-let at Rs. 120 p.m.
-from 1° October, 2007 has to be made
-(14 marks)
-Q1(b) Explain the concept of (1) Going concern (2) Money measurement (3) Conservatism
-(6 marks)
-Q2) On 31st March, 2008; the Cash Book of Shri Girdhar Chandak showed a balance of Rs.
-lance of Rs 14,190/-. On comparing the Cash Book
+4,47,800| 4,47,800
 
-14,000, but the Bank Pass Book showed a Ba
-with the Pass Book, the follo
+Adjustments :
+1. Closing stock of raw material Rs 20,000 and Closing stock of finished goods 25,000.
 
-1. Cheques
+2. Write off Rs. 1,200 as Bad Debts and the provision for doubtful debts is to be maintained at
+5% on sundry debtors and Provision on Discount on 2%.
 
-presented fo
+3. Insurance prepaid was Rs. 200.
 
-2. Cheques
-were col
+4. Interest on capital is 10% p.a. and Interest on Drawing is 8% p.a.
 
-3. Mr. Trustworthy directly deposite
+5. A fire occurred on 25th December, 2009 in the godown and stock of the value of Rs
+10,000 was destroyed. Goods were insured worth Rs 5,000.
 
-made in
+6. Depreciate machinery by 10 % p.a. and furniture by 5%.
 
-4. The Bank has debited the Pass Book by R
-e was not found in the Cash Book.
+7. Salaries and wages outstanding was Rs 1,400.
 
-wing discrepancies were noticed.
-of Rs. 300, Rs. 200 were issued on 25th March, 2008; but both the cheques were
+Q1)(b) Explain the concept of consistency and materiality. (5 marks)
+SECTION 11
 
-r payment on Sth April, 2008.
+Q2) During the month of April 2009, the following receipts and issues have taken place
+In respect of particular item of inventory in which Mohanal, a Merchant deals: (10 marks)
+1.4. 09 Opening stock 700 units @ Rs. 10.00 per unit.
+5.4.09 Purchases 1200 units @ Rs. 12.00 per unit.
+8.4.09 Issues 300 units
+12.4.09 Purchases 400 units @ Rs. 9.00 per unit
+18.4.09 Issues 700 units
+23.4.09 Issues 400 units
+27.4.09 Issues 60 units
+28.4.09 Purchases 1600 units @ Rs. 10.5 per unit
+30.4.09 Issues 450 units.
 
-ustomers were recorded in the cash book but they
+Find out the value of issues during the period and Closing iaventory on 30.4.09 by using FIFO
+Method of Inventory valuation.
 
-of Rs. 600 received from the c
+Q3) Profit & Loss Account for the year ending March 31, 2009 of M/S Kothari enterprises is
 
-lected on Ist April, 2008.
-d Rs 300 into the Bank Account, the entry of the same was
-
-the Cash Book on 4th April, 2008.
-s. 10 for Bank charges. The corresponding entry of
-
-the sam
-Prepare a Bank Reconciliation Statement as on 31st March, 2008.
-(10 marks)
-Q3) The following is an extract of the record of receipt and issue of sulphur in a Sita factory
-during February, 2008.
-February 1 Opening Balance 500 tonnes @ Rs. 200
-3 Issue: 70 tonnes
-4 Issue: 100 tonnes
-8 Issue 80 tonnes
-13. Received from supplier 200 tonnes @Rs. 190.
-14. Returned from Department 15 tonnes
-16 Issue: 180 tonnes
-20 Received from supplier 240 tonnes @ Rs. 190
-24 Issue: 300 tonnes
-25 Received from supplier 320 tonnes @ Rs. 190
-26 Issue: 115 tonnes
-27 Returned from Department 35 tonnes
-28 Received from supplier 100 tonnes @ Rs. 190
-Issues are to be priced on the principle of ‘First in, First Out’. The stock verifier of the factory
-the 22"! and left a note accordingly. Draw up a priced
-
-had found a shortage of 10 tonnes on
-
-the above transactions.
-
-Stores Ledger Card for the material, showing
-(10 marks)
-
-Q4) On 1
-
-machine is Rs 12,00,000 and import
-
-On 1/6/2011 purchased a
-
-/1/2010 Lakshmi and company purchased a impor: ed Machine from the cost of the
-duty of Rs 2,50,000 and installation charges 25,000.
-
-machine for Rs 1,00,000 and incurred installation cost of Rs 25,000.
-
-2/
-
-ir
+given. Prepare the same in vertical form. (10 marks)
+Particulars Rs. Particulars Rs.
+— To opening Stock By Sales 2,000
+Materials 90 By Stock
+, Finished Goods 120 Material 90
+oo Work in Progress 40 250 Finished Goods 160
+To Purchase of Material 850 Work in Progress 60 310
+2/3
 --- page 3 ---
-On 1/8/2012 the company purchased another machine for Rs 3,00,000 and the machinery
-purchased on 1/1/2010 was sold for Rs 5,00,000.
+To Wages 280 | By Dividend of Investment 30
 
-Prepare machinery account for 2010, 2011, 2012 assuming that depreciation is charged on
+To Power 40 | By Sale of Scrap 8
+To Factory Expenses 110
+To Office Salaries 80
+To Misc. Expenses 90
+To Selling Expenses 120
+To Advertisements 80
+To Preliminary Expenses 5
+w/off
+To Debenture Interest 15
+To Depreciation:
 
-original cost method at 15%.Assume the year as calendar year. (10 marks)
-Q5) Explain the users of the financial statement. (10 marks)
-pF
+Plant 60
+
+Factory Building 12 72
+To Provision for Taxation
+To Proposed Dividend 170
+To Balance of Profit 60
+Total Rs. 126
+
+2,348] | Total Rs. 2,348
+
+Q4) On 1/8/2006 Lakshmi and company purchased a imported Machine from USA the cost of the
+machine is Rs 22,00,000 and import duty of Rs 3,50,000 and installation charges Rs 45,000.
+
+On 1/8/2007 purchased a machine for Rs 1, 00,000 and incurred installation cost of Rs 45,000.
+
+On 1/8/2008 the company purchased another machine for Rs 3,00,000 and the machinery
+purchased on 1/8/2006 was sold for Rs 6,00,000.
+
+Prepare machinery account and depreciation account for 2006-07, 2007-08, 2008-09 assuming that
+depreciation is charged on straight line method at 15% and the year is a financial year.(10 marks)
+
+Q5) On 31st March, 2008; the Cash Book of Shri Girdhar Chandak showed a balance of Rs.
+
+14,000, but the Bank Pass Book showed a different balance. On comparing the Cash Book with the
+
+Pass Book, the following discrepancies were noticed
+
+1. Cheques of Rs. 300, Rs. 200 were issued on 25th March, 2008; but both the cheques were
+presented for payment on 5th April, 2008.
+
+2. Cheques of Rs. 600 received from the customers were paid into the Bank, but they were
+collected on 1st April, 2008.
+
+3. Mr. Trustworthy directly deposited Ra. 300 into the Bank Account, the entry of the same was
+made in the Cash Book on 4th April, 2008.
+
+4. The Bank has debited the Pass Book by Rs. 10 for Bank charges. The corresponding entry of
+the same was not found in the Cash Book.
+
+Prepare a Bank Reconciliation Statement as on 31st March, 2008. (10 marks)
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper 0e8e4b17f61f
@@ -5288,167 +5635,6 @@ of Inventory, Explain with examples? Marks 10
 
 y—— ¥
 2] 9
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 0227c1c1b7b8
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/FINANCIAL ACCOUNTING/Financial Accounting Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 50; exam date: 04/07/2015
-- Text: ocr (3 pages), mean OCR confidence 93.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: III Semester: VI
-
-Academic Year: 2014-15
-Batch: 2013-14
-
-Subject : Financial Accounting
-
-Marks: 50 ¥ at
-Time : 2.0
-Date : 04/07/2015 co
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to Be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Que.1 (10 Marks)
-
-The following is the trial balance of Mr. Aditya Traders as on 315t March, 2015. You are required
-to prepare the final accounts after giving effects to the adjustments: accounts after giving effect
-to the adjustments:
-
-Particulars Dr (Rs) Cr. (Rs )
-Capital Account 2,00,000
-Furniture 60,000
-
-Purchases 1,50,000
-
-Debtors 2,00,000
-
-Interest Earned 2,000
-Salaries 40,000
-
-Sales 3,21,000
-Purchases Returns 5,000
-Wages 20,000
-
-Rent 20,000
-
-Sales Returns 10,000
-
-Creditors 1,20,000
-Drawings 44,000
-
-Printing & stationery 10,000
-
-Insurance 27,000
-
-Opening Stock 50,000
-
-Office Expenses 17,000
-
-6,48,000 6,48,000
---- page 2 ---
-Additional Information:
-
-e 1. Depreciate furniture by 10% p.a
-2. Salary for the month of March 2015 amounting to Rs 3,000 was unpaid which must be
-provided for. However salaries included Rs 2,000 paid in advance.
-
-3. Closing stock in trade Rs 6,000
-Que 2. (10 Marks)
-Sunakshi Enterprises Ltd purchased a machinery on January {, 2012 for Rs 550000 and spent Rs
-50000 on its installation. On September 1, 2012 it purchased another machine for Rs 360000. On
-May 1, 2013 it purchased another machine for Rs 840000 (including installation expenses of Rs
-10000). On 31st December 2013 it sold the machinery purchased on Ist January 2012 for Rs
-3,00,000.
-
-Depreciation was provided on machinery @10 % p.a on original cost method annually on
-December 31.
-
-Prepare machinery Account for the years from 2012 — 2013.
-
-Que. 3 ‘ (10 Marks)
-Purchases and sales of a certain product during March 2015 are set out below:
-
-Purchases:
-
-1% March 2000 units @ Rs 10, 12 March 2000 units @ Rs 12
-
-i5" March 1000 units @ Rsi5, 20° March 2000 units @ Rs 18
-
-Sales
-
-10% March 1600 units, 14 March 2000 units, 318* March 1000 units.
-
-There were no opening inventories. Prepare a Stores Ledger Account using FIFO / LIFO
-methods. .
-Que. 4 (10 Marks)
-
-Prepare Shri Ketan’s Bank Reconciliation Statement as on 30" April 2015 from the following
-details:
-
-1. Cheques Deposited Cheques Realized Amount
-8 April 2015 14" April 2015 Rs 6250
-13" April 2015 22"4 April 2015 Rs 2500
-25% April 2015 5% May 2015 Rs 750
-29% April 2015 8 May 2015 Rs 1225
-
-2. Cheques drawn in April 2015 but presentation in May 2015: Kewal Rs 1225; Surjit Rs
-1525.
-
-3. Bank had debited Rs 125 for Commission and credited Rs 625 for interest in the pass
-book, but these were not recorded in the cash book.
-
-4. A cheque for Rs 250 received from a customer on 30" April 2015 was recorded in the
-cash book but it was deposited in bank on 1*t May 2013.
-
-5. On 30" April 2015 cash book showed a balance (debit) of Rs 45000.
-
-2/3
---- page 3 ---
-Que.5 (10 Marks)
-From the following list of balances prepare a Trial Balance as on 31% December 2014
-
-Capital A/c Rs 1,00,000 ; Debtors A/c Rs 20,000 ; Machinery A/c Rs 92,000 ;
-
-Sales A/c Rs 1,10,000; Returns Outward A/c 1,000 ; Bills Payable A/c Rs 8,000;
-
-Bank overdraft A/c Rs 1,10,000 ; Opening Stock A/c Rs 15,000; Creditors A/c Rs 20,000;
-Purchase A/c Rs 70,000; Returns Inward A/c Rs 2,000; Wages and Salaries A/c Rs 30,000;
-Bills Receivable A/c Rs 15,000; Rent Paid A/c Rs 20,000; Furniture Rs 50,000 ;
-
-Audit fees Rs 10,000, Carriage Inward 2,000; Dividend received Rs 5,000;
-
-Advertisement expenses Rs 20,000 ; Bank balance Rs 8,000.
-
-Que.6 . Explain any five accounting concepts. (10 Marks)
-Que. 7. Write short notes on: ‘ (10 Marks)
-
-a. Sum of Years Digit Method of Depreciation
-b. Accounting Cycle
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper 1644537e440f
@@ -6300,447 +6486,7 @@ Carriage Outward = Rs.5000   -   . .=!   <.,:.   .
 47. Compare the straight line method with the reducing balance method of depreciation.   (10)
 ````
 
-## 2011-12 · Exam not stated · Trim 8 · paper e90231f791ef
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/FINANCIAL ACCOUNTING/FINANCIAL ACCOUNTING 2011-2012.pdf` (+1 identical copies)
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-iF
-
-Programme:
-
-Subject:
-
-Date:
-t
-
-th
-
-b
-
-Q
-NS
-Ne
-
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-MBA (Tech)- ALL STREAMS Year: III Trimester:
-Academic Year : 2011-2012
-
-FINANCIAL ACCOUNTING
-
-02/02/2012
-Final - Examination
-
-Instructions: Candidates should carefully read the instructions printed on the Question Paper
-and on the cover of the Answer Book, which is provided for their use.
-1. Question No. 1 is Compulsory.
-2. Out of the remaining 5 questions, attempt any THREE questions
-3. Inall FOUR questions have to be attempted.
-4. Question No.1 carries 14 marks and all other questions carry 12 marks each.
-5. Answer to each new question should be started on a fresh page.
-6. Students are allowed to use elementary programmable calculators.
-7. Scientific Calculators are not allowed.
-
-1) Define the term Accounting. Explain the various Accounting Concepts and
-
-Conventions (14 M)
-2) What do you understand by the term Finance? Define Financial Management and
-explain its significance in the light of three major decisions. (12 M)
-3) Pass the Journal entries for the following transactions: (12 M)
-} Dec 1*., 2011 Ajit started business with cash Rs.4,00,000
-‘Dec 2"4 He paid into Bank Rs. 2,00,000
-) Dec 6" Purchased goods for cash Rs.30,000
-Dec 8", Sold goods for cash Rs.45,000
-
-Dec 12”. Sold goods to Rakesh Rs.23,000
-
-Dec15th Purchased Machinery and paid by Cheque Rs. 15,000
-
-Dec1 8th. Received from Rakesh as final settlement Rs.22,500.
-
-Dec 19", Withdrew from office, for personal use, Rs.5,000.
-
-Dec 23. Paid Telephone charges Rs.1200
-
-Dec28th. Paid for Stationery Rs.500, towards Rent Rs.1500 & Printing Rs.800.
-
-4) From the following particulars, prepare a bank Reconciliation Statement as at 30",
-Nov 2011, of M/S XY & Co. who had cash at bank as per the cash book Rs. 10,500.
-
-(12M)
-
-a) The following cheques were deposited on 29™ but were not collected till 30°.Nov
-
-Yo
---- page 2 ---
-i) Rs.300 ii) Rs.500 iii) Rs.200
-
-b) The following cheques were issued, but were not cashed till 30°. Nov
-
-i) Rs.600 ii) Rs.200 iii)Rs.490 iv) Rs.50 -
-
-c) The bank collected a Bill of Rs.1500 on 30° Nov, but the intimation was received
-by the firm on 2™ Dec 2011.
-
-d) The Bank allowed interest of Rs.20 and charged commission of Rs10 on 30" Nov.
-
-5) The following Trial Balance is extracted from the books of a Merchant as on 31‘.Dec
-
-2010. Prepare the Final Accounts. (12 M)
-! Particulars : DEBIT (Rs.) CREDIT (Rs.)
-
-Furniture and Fittings 640
-Motor Vehicles 6250
-Buildings 7500
-Capital Account 12500
-Bad Debts 125
-Provision for Bad Debts 200
-Sundry Debtors and Sundry Creditors 3800 2500
-Stock on January 1*. 3460
-Purchases and Sales 5475 154507
-Bank Overdraft 2850
-Sales Returns and Purchase Returns 200 125
-Advertising 450
-Interest on Overdraft 118
-Commission 375
-Cash 650
-Taxes and Insurance 1250
-General Expenses 782
-Salaries 3300 >
-
-: 34,000 34,000
-
-The following adjustments are to be made:
-a) Stock on hand on 31%. Dec 2010 was Rs.3250
-b) Depreciate Buildings @ 5%, Furniture & Fittings @ 10% and Motor Vehicles @ 20%
-c) Rs.85 is still outstanding on interest on Overdraft.
-d) Salaries Rs.300 and Taxes Rs.120 are outstanding. -
-
-e) Insurance is prepaid to the extent of Rs.100
-j
-
-. 6), Explain the various methods of charging Depreciation on Assets of Business. (12M)
-
-q)
-
-K
-````
-
-## 2011-12 · Re-Exam · Trim 8 · paper 693e82f569b4
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/FINANCIAL ACCOUNTING/FINANCIAL ACCOUNTING BATCH 2011-12 RE EXAM0001(1).pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 14 /12/2013
-- Text: ocr (3 pages), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL) Year: III Trimester: VIII
-
-Academic Year: 2013-14 Batch:2011-12
-
-Subject : Financial Accounting
-
-Marks:50 ~ Lf
-Time : 10.00 am to,12.00 pm .\
-Durations:2 (hrs) - e
-Re-Examination —""
-
-Date :14 /12/2013
-
-oP
-
-Instructions : Candidates should read carefully the instruction on the question paper and on the
-cover of the answer book, which is provide for their use.
-
-NB: 1. Section 1 is compulsory and Attempt any 3 ‘question from Section 11
-2. Answer to each new question should be: started on fresh Page.
-3. Figures to the right indicate full marks
-
-SECTION 1
-
-Q1) (a) From the following Trial Balance of Telly Enterprises, prepare Manufacturing Account,
-Trading and Profit & Loss Account for the year ended 31st December, 2009 and the Balance Sheet
-
-as on that date. (15 marks)
-Particulars Dr. Cr
-Rs. Rs.
-
-Lreliy’s Capital 1,60,000,
-
-(Telly's Drawings 16,000
-
-Machinery 50,000}
-
-Raw material — Ist January 2009 26,000)
-
-Finished goods— Ist January 2009 25,000
-
-[Purchases and Sales 1,64,000, 2,65,000
-
-Returns 4,000, 2,00
-
-Sundry Debtors & Creditors 41,201 20,000
-
-[Furniture and Fixtures 10,000)
-
-Freight Inward 4,000
-
-Carriage Outward 1,000;
-
-Rent, Rates and Taxes 9,200
-
-Printing & Stationery 1,600)
-
-(General Expenses 800
-
-Postage & Telephone 1,60
-
-Provision for Doubtful Debts 800
-
-4/3
---- page 2 ---
-fasuane Charges 1,400
-S:
-
-alaries and Wages 42.600
-(Cash at Bank 49,400)
-
-4,47,800| 4,47,800
-
-Adjustments :
-1. Closing stock of raw material Rs 20,000 and Closing stock of finished goods 25,000.
-
-2. Write off Rs. 1,200 as Bad Debts and the provision for doubtful debts is to be maintained at
-5% on sundry debtors and Provision on Discount on 2%.
-
-3. Insurance prepaid was Rs. 200.
-
-4. Interest on capital is 10% p.a. and Interest on Drawing is 8% p.a.
-
-5. A fire occurred on 25th December, 2009 in the godown and stock of the value of Rs
-10,000 was destroyed. Goods were insured worth Rs 5,000.
-
-6. Depreciate machinery by 10 % p.a. and furniture by 5%.
-
-7. Salaries and wages outstanding was Rs 1,400.
-
-Q1)(b) Explain the concept of consistency and materiality. (5 marks)
-SECTION 11
-
-Q2) During the month of April 2009, the following receipts and issues have taken place
-In respect of particular item of inventory in which Mohanal, a Merchant deals: (10 marks)
-1.4. 09 Opening stock 700 units @ Rs. 10.00 per unit.
-5.4.09 Purchases 1200 units @ Rs. 12.00 per unit.
-8.4.09 Issues 300 units
-12.4.09 Purchases 400 units @ Rs. 9.00 per unit
-18.4.09 Issues 700 units
-23.4.09 Issues 400 units
-27.4.09 Issues 60 units
-28.4.09 Purchases 1600 units @ Rs. 10.5 per unit
-30.4.09 Issues 450 units.
-
-Find out the value of issues during the period and Closing iaventory on 30.4.09 by using FIFO
-Method of Inventory valuation.
-
-Q3) Profit & Loss Account for the year ending March 31, 2009 of M/S Kothari enterprises is
-
-given. Prepare the same in vertical form. (10 marks)
-Particulars Rs. Particulars Rs.
-— To opening Stock By Sales 2,000
-Materials 90 By Stock
-, Finished Goods 120 Material 90
-oo Work in Progress 40 250 Finished Goods 160
-To Purchase of Material 850 Work in Progress 60 310
-2/3
---- page 3 ---
-To Wages 280 | By Dividend of Investment 30
-
-To Power 40 | By Sale of Scrap 8
-To Factory Expenses 110
-To Office Salaries 80
-To Misc. Expenses 90
-To Selling Expenses 120
-To Advertisements 80
-To Preliminary Expenses 5
-w/off
-To Debenture Interest 15
-To Depreciation:
-
-Plant 60
-
-Factory Building 12 72
-To Provision for Taxation
-To Proposed Dividend 170
-To Balance of Profit 60
-Total Rs. 126
-
-2,348] | Total Rs. 2,348
-
-Q4) On 1/8/2006 Lakshmi and company purchased a imported Machine from USA the cost of the
-machine is Rs 22,00,000 and import duty of Rs 3,50,000 and installation charges Rs 45,000.
-
-On 1/8/2007 purchased a machine for Rs 1, 00,000 and incurred installation cost of Rs 45,000.
-
-On 1/8/2008 the company purchased another machine for Rs 3,00,000 and the machinery
-purchased on 1/8/2006 was sold for Rs 6,00,000.
-
-Prepare machinery account and depreciation account for 2006-07, 2007-08, 2008-09 assuming that
-depreciation is charged on straight line method at 15% and the year is a financial year.(10 marks)
-
-Q5) On 31st March, 2008; the Cash Book of Shri Girdhar Chandak showed a balance of Rs.
-
-14,000, but the Bank Pass Book showed a different balance. On comparing the Cash Book with the
-
-Pass Book, the following discrepancies were noticed
-
-1. Cheques of Rs. 300, Rs. 200 were issued on 25th March, 2008; but both the cheques were
-presented for payment on 5th April, 2008.
-
-2. Cheques of Rs. 600 received from the customers were paid into the Bank, but they were
-collected on 1st April, 2008.
-
-3. Mr. Trustworthy directly deposited Ra. 300 into the Bank Account, the entry of the same was
-made in the Cash Book on 4th April, 2008.
-
-4. The Bank has debited the Pass Book by Rs. 10 for Bank charges. The corresponding entry of
-the same was not found in the Cash Book.
-
-Prepare a Bank Reconciliation Statement as on 31st March, 2008. (10 marks)
-````
-
-## 2011-12 · Re-Exam · Trim 8 · paper 41c211a78fca
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/FINANCIAL ACCOUNTING/FINANCIAL ACCOUNTING BATCH 2011-12 RE EXAM0001.pdf` (+1 identical copies)
-- Printed on paper: exam date: 25/06/2012
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engi:
-Programme: MBA Tech - ALL STREAMS Year: II Trimester:
-Academic Year : 2011-2012
-
-/ Batch: 2011-12
-| Subject: Financial Accounting Marks:
-Time: 10.00 am To 12.
-Date: 25/06/2012 Duration: g hrs ° wee
-Re - Examination
-Instructions:
-
-(i) Question No. 1 is compulsory, Attempt any 3 questions from remaining 4.
-
-(ii) Read the instructions printed inside the top cover of answer script CAREFULLY
-before attempting the paper.
-
-(iii) Figure in the bracket on the right hand side indicates full marks.
-
-(iv) Use of non-programmable scientific calculators of any model is allowed.
-
-(v) DO NOT write your Name, Reg. No. or Roll No. anywhere inside the answer
-script.
-
-Q.1 Consider the following Trial Balance of Shyama & co. for the Y.E. Mar 31, 2011. (20)
-
-Particulars Debit (Rs) | Credit (Rs)
-Sales 360000
-Interest Received 4.1200
-Purchases 256000
-Opening stock 50000
-Miscellaneous Expenses | 3000
-Salary 12000
-Printing and Stationery 200
-Rent paid 2000
-Carriage Inward 500
-Carriage Outward 600
-, Return Inward 13000
-Return Outward 7000
-q Capital 100000
-Fixed assets 60000
-. Investments 50000
-Insurance 3000
-Electricity Bill 3900
-Total 461200 461200
-
-lo
---- page 2 ---
-4
-
-Prepare Trading and Profit and Loss Account and Balance Sheet after giving effect to the under
-mentioned adjustments.
-
-(i) Wages to the labourers of Rs. 1500 is outstanding.
-
-(ii) Rent paid in advance Rs. 1000.
-
-(iii) Interest on Capital @ 10% to be allowed
-
-(iv) Depreciation @ 15 % is to be charged on Fixed assets.
-
-(v) One third of the Insurance is paid in Advance.
-
-2, On 31st March, 2011 the bank statement showed the credit balance of Rs10,500. Cheque
-amounting to Rs 2,750 were deposited into the bank but only cheque of Rs 750 had not been
-cleared up to 31st March. Cheques amounting to Rs 3,500 were issued, but cheque for Rs 1,200
-had not been presented for payment in the bank up to 31st March. Bank had given the debit of Rs
-35 for sundry charges and also bank had received directly from customers Rs 800 and dividend
-
-of Rs 130 up to 31st March. Find out the balance as per cash book. (10)
-3: On January 1, 2011 Noorani Stores cash book showed debit balance of cash Rs.1,550 and
-bank Rs.13,575. During the month of January following business was transacted. (10)
-2011
-Jan.1 Purchased office typewriter for cash Rs.750; cash sales Rs.315
-" Deposited cash Rs.500
-
-"4 Received from A. Hussan a cheque for Rs.2,550 in part payment of his account
-
-"6 Paid by cheque for merchandise purchased worth Rs.1,005
-
-" 8 Deposited into bank the cheque received from A. Hussan.
-
-"10 Received from Hayat Khan a cheque for Rs.775 in full settlement of his account and
-; allowed him discount Rs.15.
-
-"12 Sold merchandise to Divan Bros. for Rs.1,500 who paid by cheque which was
-
-deposited in the bank.
-
-"16 Paid Salman Rs.915 by cheque, discount received $5¢5 Q oe
-
-"27 Paid to Gulzar Ahmad by cheque Rs.650
-
-"30 Paid salaries by cheque Rs.1,750
-
-" 31 Deposited into bank the cheque of Hayat Khan.
-
-"31 Drew from bank for office use Rs.250.
-
-You are required to enter the above transactions in three column cash book and balance it.
-
-4. Briefly plain the Objectives and scopes of accounting. (10)
-
-5. Write short note on any five (2X5=10)
-a) Cash Book ;
-(b) Bank reconciliation statement
-(c) Trial Balance
-(d) Realization Concept
-(e) | Going concern concept
-
-(f)   Materiality concept
-````
-
-## 2011-12 · Re-Exam · Trim 8 · paper f99786bdc05a
+## 2012-13 · Re-Exam · Trim 8 · paper f99786bdc05a
 
 - Departments: Chemical, Information Technology
 - Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
@@ -6882,6 +6628,260 @@ recording the two balances: (10)
 (f) Realization Concept
 
 ye
+````
+
+## 2011-12 · Exam not stated · Trim 8 · paper e90231f791ef
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/FINANCIAL ACCOUNTING/FINANCIAL ACCOUNTING 2011-2012.pdf` (+1 identical copies)
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+iF
+
+Programme:
+
+Subject:
+
+Date:
+t
+
+th
+
+b
+
+Q
+NS
+Ne
+
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+MBA (Tech)- ALL STREAMS Year: III Trimester:
+Academic Year : 2011-2012
+
+FINANCIAL ACCOUNTING
+
+02/02/2012
+Final - Examination
+
+Instructions: Candidates should carefully read the instructions printed on the Question Paper
+and on the cover of the Answer Book, which is provided for their use.
+1. Question No. 1 is Compulsory.
+2. Out of the remaining 5 questions, attempt any THREE questions
+3. Inall FOUR questions have to be attempted.
+4. Question No.1 carries 14 marks and all other questions carry 12 marks each.
+5. Answer to each new question should be started on a fresh page.
+6. Students are allowed to use elementary programmable calculators.
+7. Scientific Calculators are not allowed.
+
+1) Define the term Accounting. Explain the various Accounting Concepts and
+
+Conventions (14 M)
+2) What do you understand by the term Finance? Define Financial Management and
+explain its significance in the light of three major decisions. (12 M)
+3) Pass the Journal entries for the following transactions: (12 M)
+} Dec 1*., 2011 Ajit started business with cash Rs.4,00,000
+‘Dec 2"4 He paid into Bank Rs. 2,00,000
+) Dec 6" Purchased goods for cash Rs.30,000
+Dec 8", Sold goods for cash Rs.45,000
+
+Dec 12”. Sold goods to Rakesh Rs.23,000
+
+Dec15th Purchased Machinery and paid by Cheque Rs. 15,000
+
+Dec1 8th. Received from Rakesh as final settlement Rs.22,500.
+
+Dec 19", Withdrew from office, for personal use, Rs.5,000.
+
+Dec 23. Paid Telephone charges Rs.1200
+
+Dec28th. Paid for Stationery Rs.500, towards Rent Rs.1500 & Printing Rs.800.
+
+4) From the following particulars, prepare a bank Reconciliation Statement as at 30",
+Nov 2011, of M/S XY & Co. who had cash at bank as per the cash book Rs. 10,500.
+
+(12M)
+
+a) The following cheques were deposited on 29™ but were not collected till 30°.Nov
+
+Yo
+--- page 2 ---
+i) Rs.300 ii) Rs.500 iii) Rs.200
+
+b) The following cheques were issued, but were not cashed till 30°. Nov
+
+i) Rs.600 ii) Rs.200 iii)Rs.490 iv) Rs.50 -
+
+c) The bank collected a Bill of Rs.1500 on 30° Nov, but the intimation was received
+by the firm on 2™ Dec 2011.
+
+d) The Bank allowed interest of Rs.20 and charged commission of Rs10 on 30" Nov.
+
+5) The following Trial Balance is extracted from the books of a Merchant as on 31‘.Dec
+
+2010. Prepare the Final Accounts. (12 M)
+! Particulars : DEBIT (Rs.) CREDIT (Rs.)
+
+Furniture and Fittings 640
+Motor Vehicles 6250
+Buildings 7500
+Capital Account 12500
+Bad Debts 125
+Provision for Bad Debts 200
+Sundry Debtors and Sundry Creditors 3800 2500
+Stock on January 1*. 3460
+Purchases and Sales 5475 154507
+Bank Overdraft 2850
+Sales Returns and Purchase Returns 200 125
+Advertising 450
+Interest on Overdraft 118
+Commission 375
+Cash 650
+Taxes and Insurance 1250
+General Expenses 782
+Salaries 3300 >
+
+: 34,000 34,000
+
+The following adjustments are to be made:
+a) Stock on hand on 31%. Dec 2010 was Rs.3250
+b) Depreciate Buildings @ 5%, Furniture & Fittings @ 10% and Motor Vehicles @ 20%
+c) Rs.85 is still outstanding on interest on Overdraft.
+d) Salaries Rs.300 and Taxes Rs.120 are outstanding. -
+
+e) Insurance is prepaid to the extent of Rs.100
+j
+
+. 6), Explain the various methods of charging Depreciation on Assets of Business. (12M)
+
+q)
+
+K
+````
+
+## 2011-12 · Re-Exam · Trim 8 · paper 41c211a78fca
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/FINANCIAL ACCOUNTING/FINANCIAL ACCOUNTING BATCH 2011-12 RE EXAM0001.pdf` (+1 identical copies)
+- Printed on paper: exam date: 25/06/2012
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engi:
+Programme: MBA Tech - ALL STREAMS Year: II Trimester:
+Academic Year : 2011-2012
+
+/ Batch: 2011-12
+| Subject: Financial Accounting Marks:
+Time: 10.00 am To 12.
+Date: 25/06/2012 Duration: g hrs ° wee
+Re - Examination
+Instructions:
+
+(i) Question No. 1 is compulsory, Attempt any 3 questions from remaining 4.
+
+(ii) Read the instructions printed inside the top cover of answer script CAREFULLY
+before attempting the paper.
+
+(iii) Figure in the bracket on the right hand side indicates full marks.
+
+(iv) Use of non-programmable scientific calculators of any model is allowed.
+
+(v) DO NOT write your Name, Reg. No. or Roll No. anywhere inside the answer
+script.
+
+Q.1 Consider the following Trial Balance of Shyama & co. for the Y.E. Mar 31, 2011. (20)
+
+Particulars Debit (Rs) | Credit (Rs)
+Sales 360000
+Interest Received 4.1200
+Purchases 256000
+Opening stock 50000
+Miscellaneous Expenses | 3000
+Salary 12000
+Printing and Stationery 200
+Rent paid 2000
+Carriage Inward 500
+Carriage Outward 600
+, Return Inward 13000
+Return Outward 7000
+q Capital 100000
+Fixed assets 60000
+. Investments 50000
+Insurance 3000
+Electricity Bill 3900
+Total 461200 461200
+
+lo
+--- page 2 ---
+4
+
+Prepare Trading and Profit and Loss Account and Balance Sheet after giving effect to the under
+mentioned adjustments.
+
+(i) Wages to the labourers of Rs. 1500 is outstanding.
+
+(ii) Rent paid in advance Rs. 1000.
+
+(iii) Interest on Capital @ 10% to be allowed
+
+(iv) Depreciation @ 15 % is to be charged on Fixed assets.
+
+(v) One third of the Insurance is paid in Advance.
+
+2, On 31st March, 2011 the bank statement showed the credit balance of Rs10,500. Cheque
+amounting to Rs 2,750 were deposited into the bank but only cheque of Rs 750 had not been
+cleared up to 31st March. Cheques amounting to Rs 3,500 were issued, but cheque for Rs 1,200
+had not been presented for payment in the bank up to 31st March. Bank had given the debit of Rs
+35 for sundry charges and also bank had received directly from customers Rs 800 and dividend
+
+of Rs 130 up to 31st March. Find out the balance as per cash book. (10)
+3: On January 1, 2011 Noorani Stores cash book showed debit balance of cash Rs.1,550 and
+bank Rs.13,575. During the month of January following business was transacted. (10)
+2011
+Jan.1 Purchased office typewriter for cash Rs.750; cash sales Rs.315
+" Deposited cash Rs.500
+
+"4 Received from A. Hussan a cheque for Rs.2,550 in part payment of his account
+
+"6 Paid by cheque for merchandise purchased worth Rs.1,005
+
+" 8 Deposited into bank the cheque received from A. Hussan.
+
+"10 Received from Hayat Khan a cheque for Rs.775 in full settlement of his account and
+; allowed him discount Rs.15.
+
+"12 Sold merchandise to Divan Bros. for Rs.1,500 who paid by cheque which was
+
+deposited in the bank.
+
+"16 Paid Salman Rs.915 by cheque, discount received $5¢5 Q oe
+
+"27 Paid to Gulzar Ahmad by cheque Rs.650
+
+"30 Paid salaries by cheque Rs.1,750
+
+" 31 Deposited into bank the cheque of Hayat Khan.
+
+"31 Drew from bank for office use Rs.250.
+
+You are required to enter the above transactions in three column cash book and balance it.
+
+4. Briefly plain the Objectives and scopes of accounting. (10)
+
+5. Write short note on any five (2X5=10)
+a) Cash Book ;
+(b) Bank reconciliation statement
+(c) Trial Balance
+(d) Realization Concept
+(e) | Going concern concept
+
+(f)   Materiality concept
 ````
 
 ## 2010-11 · Exam not stated · Trim 8 · paper 358d70b4c1dd

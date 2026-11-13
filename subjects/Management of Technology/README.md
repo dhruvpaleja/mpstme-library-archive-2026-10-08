@@ -1,6 +1,6 @@
 # Management of Technology
 
-**18** unique papers (40 copies across programmes) · 2007-08 to 2018-19 · 4 programmes · Sem 8, Trim 12
+**17** unique papers (39 copies across programmes) · 2007-08 to 2018-19 · 4 programmes · Sem 8, Trim 12
 
 Download only this subject, sorted by academic year:
 
@@ -29,7 +29,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2011-12 | Re-Exam | Question paper | Trim 12 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | MANAGEMENT OF TECHNOLOGY BATCH 2011-12 RE EXAM(1).pdf |
 | 2011-12 | Re-Exam | Question paper | Trim 12 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | MANAGEMENT OF TECHNOLOGY BATCH 2011-12 RE EXAM0001.pdf |
 | 2009-10 | Re-Exam | Question paper | Trim 12 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | 2009-2010 batch re exam(18).pdf |
-| 2008-09 | — | Question paper | Trim 12 | MBA TECH / CHEMICAL | 2008-2009(189).pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 12 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | 2008-2009 re exam(93).pdf |
 | 2007-08 | — | Question paper | Trim 12 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | 2007-2008(137).pdf |
 

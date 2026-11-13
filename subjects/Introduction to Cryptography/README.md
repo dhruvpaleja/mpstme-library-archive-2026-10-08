@@ -16,21 +16,21 @@ Also filed as: `INTRODUCTION TO CRPTOGRAPHY`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Introduction to Cryptography(702IT0C037)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CyberSecurity 7010 | QP_Introduction to Cryptography(702IT0C037)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated IT 7037 | QP_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Introduction to Cryptography(702IT0C037)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Introduction to Cryptography(702IT0C037)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 10 | B TECH / CSE CYBER SECURITY, B TECH / I T, B.TECH INTEGRATED / IT, MBA TECH / I T | Introduction to Cryptography Batch 2023-24,2024-25,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech CyberSecurity 7010 | QP_Introduction to Cryptography(702IT0C037)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | Integrated IT 7037 | QP_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Introduction to Cryptography(702IT0C037)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T | Introduction to Cryptography, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-2024.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Introduction to Cryptography Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY | Introduction to Cryptography, Batch 2021-22 & 2022-23 & 2023-24 Re Exam.pdf |

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRICAL/SEM V/CONTROL SYSTEM I/CONTROL SYSTEMS I FINAL EXAM 2019-20.pdf`
 - Printed on paper: max marks: 70; exam date: 09 November 2019
 - Text: ocr (4 pages), mean OCR confidence 79.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -104,7 +105,6 @@ nl a.?, / Fin
 LL-~WI ™ -WON   b
 E | rN A
 t engl i gtd a I a a a ]
-iy H i t i | T Lt t I Hi it oe " rj
 hf f,7
 Q.4 |a_ | Find the state space representation in Phase Variable Form of the given transfer 7 | 14
 function shown in figure and also draw the signal flow graph for the same.

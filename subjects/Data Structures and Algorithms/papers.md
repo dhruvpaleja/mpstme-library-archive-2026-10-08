@@ -1779,6 +1779,7 @@ FG 7 ORK
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Data Structures and Algorithms/Data Structures and Algorithms Final 2025-26.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2025
 - Text: ocr (3 pages), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1912,7 +1913,6 @@ encoded message. [10]
 
 111222233311114445555222211113344445”
 
-e RREREKERER Q RRR EKER REE
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · paper 6b26728a5f86
@@ -2474,6 +2474,7 @@ BL-3   11, 6, 18
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CSE_DS_7011/Data Structures and Algorithms/QP_Data Structures and Algorithms(702CO0C057)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (2 pages), mean OCR confidence 32.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -3882,6 +3883,174 @@ BL-3   11, 6, 18
 ********** 2 **********
 ````
 
+## 2024-25 · Exam not stated · Sem 7 · paper 71342c69e0aa
+
+- Departments: Data Science, Information Technology
+- Programmes: B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / IT
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/DATA SCIENCE/Sem_07/Data Structures and Algorithms/Data Stuctures and Algorithms Batch 2022-23,2023-24,20240001.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 February 2025
+- Text: ocr (3 pages), mean OCR confidence 94.5
+
+````text
+SVKM’s NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2024-25
+
+Programme: B Tech/MBA Tech/BTI Year: I/II /1V Semester: III/V/VII
+Stream/s: IT/Comp/MXTC/EXTC/DS/CSECS/AI/AIML/CSBS/CS/AIDS/CSEDS
+
+Subject: Data Structures and Algorithms
+Marks: 100
+
+Date: 15 February 2025 Time: 10:00 am to 01:00 pm
+Durations: 3 (Hrs)
+
+Re Examination (2022-23/2023-24/2024-25)
+
+Instructions:
+
+1. This question paper contains 3 pages ne
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+
+4. Question number | is compulsory
+
+5. Attempt any 4 questions out of remaining questions
+
+1. This is a sample question group
+I. Define Data structure. Write the importance of data structures.
+
+II. Using a stack data structure, write an algorithm for 1. Push and 2. Pop. Demonstrate your
+implementation with an example sequence of operations (push 10, push 20, push 30, pop, peek,
+Push 40) and show the stack's state after each step.
+
+UL. Explain the concept of a Minimum Spanning Tree (MST) in an undirected, weighted graph.
+How does the MST differ from a general spanning tree? Additionally, describe the significance
+
+of MST in practical applications, providing one real-world example.
+
+IV.
+Explain Binary search to search element 4 in the given array [3,4,5,6,7,8,9].
+
+2, This is a sample question group (Attempt Any 2 Questions)
+1. This is a sample question group
+
+1. Explain the concept of a priority queue and how it differs from a regular queue.
+
+Page 1 of 3
+
+20
+
+80
+
+20
+
+10
+--- page 2 ---
+Explain real life scenario where each can be used. Explain concept of ascending
+priority queue and descending priority queue.
+r
+. Given a Binary Tree, write a function to count the number of nodes in the tree. |.
+Construct a Binary Tree using the data set [27,40,26,49,29,29,28,38,32,45,31,50].
+Apply this function to the constructed Binary Tree and illustrate the process.
+
+This is a sample question group
+
+. Write an algorithm and compare the time complexity for inserting a node at the
+beginning and end of a link list with algorithm. Justify which has less time complexity.
+
+- For the given graph, you must traverse all the vertex with minimum cost. Is it possible?
+Which algorithm can be considered for traverse all the edge of the graph with
+
+optimized solution (minimum cost) and why? Justify your answer with valid proof.
+
+ey
+
+This is a sample question group
+
+. Explain how to find the In-order, Pre-order, and Post-order traversals of any given
+binary tree. Use an example to illustrate each traversal method.
+
+. Explain hash table and various hash functions. Show the each step of hash table entries
+for the given data set using linear probing 12,45,67,88,27,78,20,62,36,55 (size=10)
+
+This is a sample question group
+
+Consider the given letters along with their frequencies.
+
+Letter K Z E D M U Cc L
+
+Frequency|7 2 120 42 24 37 32 42
+
+a. Construct a Huffman tree for the given characters and their frequencies? Show all the
+steps involved in the construction process.
+b. Generate the Huffman codes for each character and list them.
+c. Calculate the average length of the Huffman codes.
+
+. Convert below infix expression into a prefix expression using stack data structure.
+Show each and every step.
+A+(B/C/D)*(E-F/(G*H))*T-X
+
+This is a sample question group
+
+Page 2 of 3
+
+10
+
+20
+
+10
+
+10
+
+20
+
+10
+
+10
+
+20
+
+10
+
+10
+
+20
+--- page 3 ---
+1. Explain the Insertion Sort algorithm. Apply the algorithm to sort the array [8, 4, |
+
+3, 7, 6, 5, 2] step by step, explaining how elements are inserted into their correct
+positions during each pass.
+
+2. State advantages and disadvantages of Doubly Link list over singly Link List (at least 3
+points each)
+
+3. Which type of problems are handled by the Dijkstra algorithm? Can Dijkstra algorithm
+applicable for the below mentioned graph? Justify your answer with valid proof and
+compute.
+
+ry
+
+This is a sample question group
+1. Write an algorithm to concatenate two singly linked list and print the concatenated list.
+2. Describe how to analyze the performance of an algorithm.
+
+3. Consider a two-dimensional array arr[10][10] with base address = 1000 and the array's
+number of bytes per element = 2. Now, compute the address of the element arr[8][5],
+assuming that the elements are stored in column-major order. (Row:[1..10],
+Column[1..5]
+
+Page 3 of 3
+
+10
+
+20
+
+10
+````
+
 ## 2024-25 · Exam not stated · Sem 1 · paper ca88a63493b8
 
 - Departments: Computer Applications (MCA)
@@ -3889,6 +4058,7 @@ BL-3   11, 6, 18
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Data Structures and Algorithms/Data Structures and Algorithms Batch 2023-24,2024-25 Re0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 18 Feb 2025
 - Text: ocr (3 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -3977,7 +4147,6 @@ example. Also, discuss the time complexity. 10
 
 Qs b. Construct an expression tree for the following. Write the pre-order for ;
 it.
-Exp = ((a + b) - (c * d)) % ((e *F) / (g - h))
 
 Write and explain the algorithm using a pointer to interchange an array's 5
 second biggest and second smallest numbers.
@@ -5871,6 +6040,7 @@ Page 4 of 4
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Data Structures and Algorithms/Data Structures and Algorithms Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; exam date: 29 Nov 2024
 - Text: ocr (3 pages), mean OCR confidence 90.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -5986,7 +6156,6 @@ operation's time and space complexity.
 
 10
 
-FIR 2 A kk a i A
 --- page 3 ---
 Write and explain the algorithm for interchanging the k" and (k+1) "° 10
 nodes of a circular linked list. :
@@ -7259,6 +7428,108 @@ Column[1..5]
 Page 3 of 3
 ````
 
+## 2024-25 · Re-Exam · Sem 2 · paper 511c49923d35
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/DATA STRUCTURES AND ALGORITHMS/Data Structures and Algoriths, Sem-II, Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program/s: B Tech Year: I Semester: II
+
+Stream/s: Computer Science and Business Systems
+
+Subject: Data Structures and Algorithms Time: 3 hrs. (2zv0pm to 5 20npm)
+Date:_10_/05_/ 2025 No. of Pages: 02
+
+Marks: 100
+
+Reexamination (2022-2023)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any _4 questions.
+
+3) In all _5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+= Answer briefly:
+a. __| Discuss the classification of data structures. [05]
+b. Explain doubly linked list with suitable example. [05]
+@ Explain the time complexity analysis with certain example. [05]
+d. What is recursion? Explain with an example. [05]
+Q e Write an algorithm to search element in an array linearly. Discuss both successful [10]
+and unsuccessful search
+b Explain the implementation of linear queue to insert and delete the elements. 110)
+Clearly state the need of Front and Rear pointer with necessary conditions.
+a Apply and explain insertion sort algorithm on‘the following dataset with the time
+Q3 complexity analysis. [10]
+LONQE 1384 WI 6 17
+b What is stack? How do you implement using an array? Show with an example. [10]
+Q4 a What is circular queue? How do you perform Insert and Delete Operation on [10]
+circular queue? Explain with suitable example.
+b Explain the significance of all the binary tree traversal algorithms with suitable
+example. U0]
+--- page 2 ---
+Q5
+
+Explain binary searching algorithm with suitable example. Give complexity
+
+analysis.
+
+[10]
+
+Discuss the significance of Huffman encoding method. Explain the encoding
+
+process with suitable example.
+
+[10]
+
+Q6
+
+Given a sequence of elements: 23, 13, 69, 78, 12, 45, 32
+Apply algorithm / function to generate the binary tree using the sequence.
+
+Comment on generated binary tree.
+
+[10]
+
+What is minimum spanning tree (MST)? Explain the working principle of MST
+
+with suitable example.
+
+[10]
+
+Q7
+
+Explain with the help of suitable algorithm, the insertion and deletion at the end
+
+of the linked list.
+
+[10]
+
+Apply Dijkstra’s algorithm on the following graph and find distance from single
+
+source node A to every other node. Also find the shortest path from node A to D.
+
+[10]
+````
+
 ## 2024-25 · Re-Exam · Sem 3 · paper b9a6e6322893
 
 - Departments: Data Science
@@ -7356,174 +7627,6 @@ CO-2;SO- | B [20]
 aoe Show step by step diagrammatical working to to Reverse a string using Queue.
 
 — 02-—
-````
-
-## 2023-24 · Exam not stated · Sem 7 · paper 71342c69e0aa
-
-- Departments: Data Science, Information Technology
-- Programmes: B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / IT
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/DATA SCIENCE/Sem_07/Data Structures and Algorithms/Data Stuctures and Algorithms Batch 2022-23,2023-24,20240001.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 February 2025
-- Text: ocr (3 pages), mean OCR confidence 94.5
-
-````text
-SVKM’s NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2024-25
-
-Programme: B Tech/MBA Tech/BTI Year: I/II /1V Semester: III/V/VII
-Stream/s: IT/Comp/MXTC/EXTC/DS/CSECS/AI/AIML/CSBS/CS/AIDS/CSEDS
-
-Subject: Data Structures and Algorithms
-Marks: 100
-
-Date: 15 February 2025 Time: 10:00 am to 01:00 pm
-Durations: 3 (Hrs)
-
-Re Examination (2022-23/2023-24/2024-25)
-
-Instructions:
-
-1. This question paper contains 3 pages ne
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-
-4. Question number | is compulsory
-
-5. Attempt any 4 questions out of remaining questions
-
-1. This is a sample question group
-I. Define Data structure. Write the importance of data structures.
-
-II. Using a stack data structure, write an algorithm for 1. Push and 2. Pop. Demonstrate your
-implementation with an example sequence of operations (push 10, push 20, push 30, pop, peek,
-Push 40) and show the stack's state after each step.
-
-UL. Explain the concept of a Minimum Spanning Tree (MST) in an undirected, weighted graph.
-How does the MST differ from a general spanning tree? Additionally, describe the significance
-
-of MST in practical applications, providing one real-world example.
-
-IV.
-Explain Binary search to search element 4 in the given array [3,4,5,6,7,8,9].
-
-2, This is a sample question group (Attempt Any 2 Questions)
-1. This is a sample question group
-
-1. Explain the concept of a priority queue and how it differs from a regular queue.
-
-Page 1 of 3
-
-20
-
-80
-
-20
-
-10
---- page 2 ---
-Explain real life scenario where each can be used. Explain concept of ascending
-priority queue and descending priority queue.
-r
-. Given a Binary Tree, write a function to count the number of nodes in the tree. |.
-Construct a Binary Tree using the data set [27,40,26,49,29,29,28,38,32,45,31,50].
-Apply this function to the constructed Binary Tree and illustrate the process.
-
-This is a sample question group
-
-. Write an algorithm and compare the time complexity for inserting a node at the
-beginning and end of a link list with algorithm. Justify which has less time complexity.
-
-- For the given graph, you must traverse all the vertex with minimum cost. Is it possible?
-Which algorithm can be considered for traverse all the edge of the graph with
-
-optimized solution (minimum cost) and why? Justify your answer with valid proof.
-
-ey
-
-This is a sample question group
-
-. Explain how to find the In-order, Pre-order, and Post-order traversals of any given
-binary tree. Use an example to illustrate each traversal method.
-
-. Explain hash table and various hash functions. Show the each step of hash table entries
-for the given data set using linear probing 12,45,67,88,27,78,20,62,36,55 (size=10)
-
-This is a sample question group
-
-Consider the given letters along with their frequencies.
-
-Letter K Z E D M U Cc L
-
-Frequency|7 2 120 42 24 37 32 42
-
-a. Construct a Huffman tree for the given characters and their frequencies? Show all the
-steps involved in the construction process.
-b. Generate the Huffman codes for each character and list them.
-c. Calculate the average length of the Huffman codes.
-
-. Convert below infix expression into a prefix expression using stack data structure.
-Show each and every step.
-A+(B/C/D)*(E-F/(G*H))*T-X
-
-This is a sample question group
-
-Page 2 of 3
-
-10
-
-20
-
-10
-
-10
-
-20
-
-10
-
-10
-
-20
-
-10
-
-10
-
-20
---- page 3 ---
-1. Explain the Insertion Sort algorithm. Apply the algorithm to sort the array [8, 4, |
-
-3, 7, 6, 5, 2] step by step, explaining how elements are inserted into their correct
-positions during each pass.
-
-2. State advantages and disadvantages of Doubly Link list over singly Link List (at least 3
-points each)
-
-3. Which type of problems are handled by the Dijkstra algorithm? Can Dijkstra algorithm
-applicable for the below mentioned graph? Justify your answer with valid proof and
-compute.
-
-ry
-
-This is a sample question group
-1. Write an algorithm to concatenate two singly linked list and print the concatenated list.
-2. Describe how to analyze the performance of an algorithm.
-
-3. Consider a two-dimensional array arr[10][10] with base address = 1000 and the array's
-number of bytes per element = 2. Now, compute the address of the element arr[8][5],
-assuming that the elements are stored in column-major order. (Row:[1..10],
-Column[1..5]
-
-Page 3 of 3
-
-10
-
-20
-
-10
 ````
 
 ## 2023-24 · Final + Re-Exam · Sem 3 · paper a7bd3f8ab16f
@@ -7629,6 +7732,7 @@ ara B 1. Backtracking algorithms
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE & DATA SCIENCE/DATA STRUCTURES & ALGORITHMS/Data Structure and Algorithms, Sem-III, Batch 2023-24 Final.pdf` (+17 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 91.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -7796,7 +7900,6 @@ BL-3 A+(B/(D*F)-H)*T
 (b) Construct the Huffman tree for the given symbols with their frequencies.
 
 CO-3; Show each step. Identify the code for each letter.
-SO-1; Ax= {a, b; c, d, e) [5]
 BL-3
 
 Px= {30, 25, 20, 10,15}
@@ -7919,6 +8022,94 @@ their network, which currently extends to the market town. Find out the minimum
 length of cable needed with the help of Kruskal’s algorithm. Show all the steps
 along with the use of data structures.
 CO-3; BL-H [10]
+````
+
+## 2023-24 · Re-Exam · Sem 2 · paper bd19bad9c66a
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/DATA STRUCTURES AND ALGORITHMS/Data Structures and Algorithms, Sem-II, Re Exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
+Academic Year: 2023-2024
+Program/s: B Tech Year: I serhietter: I
+Stream/s ; Computer Science and Business Systems
+Subject: Data Structures and Algorithms Time: 3 hrs. (2:00pm to S20 0pm)
+
+Date:_25°/ 4/2024 7 No. of Pages: 02
+Marks: 100
+
+(Re-Examination 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all _5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer the following
+: ay Explain asymptotic notations used to represent time complexity of an algorithm. [05]
+ai b. Discuss the classification of data structures? Give suitable example. [05]
+CO- 2; c. Differentiate between arrays and linked list. [05]
+BL-M
+CO- 3; d. How do you represent graphs in the memory? Give suitable example [05]
+BL-M .
+Q2 a . . . .
+
+Write a program / algorithm to read 10 values in an Array. Perform linear search [10]
+CO-2; operation on the array and display the result.
+BL-H 7 »
+CO-2; b What is the need of circular queue? Discuss conditions of empty and full queue 110)
+BL-M with suitable example.
+Q3 a Apply and explain binary searching algorithm on the following dataset. Search 70
+CO-4; and write all the steps accordingly. [10]
+BL-H 10, 20, 30, 40, 50, 50, 60, 70, 80.
+CO-2; b Discuss any two applications of stack. Perform one push and one pop operation 110]
+BL-L with the help of suitable algorithm on stack.
+
+Page 1 of 2
+--- page 2 ---
+¥
+
+Q4 a
+
+Perform insert and delete operation in between at the specified location of the
+
+CO-2; . ae . ; [10]
+BL-M linked list with suitable algorithms and example.
+CO-3; b . ; . . .
+BL-L Explain all the binary tree traversal algorithms with suitable example. [10]
+Os 7 How do you represent a queue using linked list? Write algorithm to perform 110]
+ies insert and delete operation on the same.
+CO-3; b Explain the working of Dijkstra Algorithm with suitable example with at least 5 110]
+BL-H nodes and 8 edges.
+G6 a |
+CO-3; Explain BFS algorithm with suitable example. [10]
+BL-L |
+b Given a sequence of elements: 45, 56, 12, 34, 58, 39, 44, 78, 5, 28, 66. j
+Ge Apply and explain the algorithm / function to generate the binary search tree for [10]
+this given sequence.
+Q7 a Discuss the importance of binary tree as expression tree. Draw expression tree for
+CO-3; the following infixed expression. [10]
+“= 3*(2-4)+(5*(6+7))
+a 5 Explain the merge sort algorithm with suitable example [10]
+Page 2 of 2
 ````
 
 ## 2023-24 · Re-Exam · Sem 2 · paper a08d3bc46d8b
@@ -8206,6 +8397,90 @@ Write an algorithm to explain Depth First Search with suitable example.
 [5]
 
 la
+````
+
+## 2023-24 · Re-Exam · Sem 3 · paper 33d9a9776b52
+
+- Departments: Data Science
+- Programmes: B TECH / CSE DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-III/DATA STRUCTURES AND ALGOTITHMS/Data Structures & Algorithms, Sem-III, Batch 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.6
+
+````text
+‘€
+LON
+
+SVKM’S NMIMS j :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024 r
+Program$Tech CSE DS Stream; CSE DS Year: II Semester: Ill
+Subject: Data Structures and Algorithms Time: 3 hrs (10:00am tol:00pm)
+Date:_6/02/ 2024 ; No. of Pages: 2
+
+Marks:100
+RE-EXAM (2022-2023)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+, 3) Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1 ‘
+Q Answer briefly: [20]
+Col, SOl, | 4 Why identification of suitable Data Structure is important for efficient
+BEI programming? Answer with an example.
+CO2, SO2, | b. . . : , _— :
+BL4 Discuss all deletion cases of circular linked list diagrammatically.
+CO3, SO2, | c. . ,
+BLS Choose an example of BST and Apply Left-Right rotation to balance the tree.
+CO-4, d. Differentiate between “Divide and Conquer” and “Backtracking algorithms. [Any
+- 802, BLS 5 valid points]
+A Which data structure will be suitable to implement “Printing requests received
+Q Jrom 10 different users at atime” Justify why not any other data structure other
+COI, SO1, than your selection will not be suitable to solve this problem.
+BL3 [20]
+CO2, SO2
+BL3 B Write a C++ Program to implement insertion of new node as first and last node in
+singly linked list.
+A
+Q3 “Adjacency list is preferred over Adjacency matrix while coding using Graph
+CO3/4, data structure” justify this statement using example. [20]
+
+SO2, BL3
+--- page 2 ---
+i
+
+Explain the step by step working of Binary search algorithm. How is it related to
+
+B Divide and conquer” category of algorithms.
+Qa A
+Col, SO1, Write note on “algorithmic Efficiency” in detail. Discuss its importance in
+BL3 efficient coding to solve any real-life problem.
+CO2, SO2,
+BL3 Write a program to implement the QUEUE operation using Linked list.
+B
+A Generate BST tree from following sequence. Show step by step procedure for the
+aoarh same. ‘Inorder: BAGDHCE Preorder: ABCDGHE
+SO2, BL3 . se
+B Explain at least 5 real life Applications of Graph data structure. Design
+Adjacency list for the same.
+Q6 A Differentiate between Doubly aud Circular Linked list with respect to the step-
+Col, SO] by-step process of inserting a.new node as last node.
+CO2, SO2, [20]
+BL3 Write a program to implement STACK operations and calculate the algorithmic
+B complexity of the code and suggest its complexity in Big O notation.
+con. 602 A Take an example of expression tree and show step by step traversing of Preorder,
+C04, $02, post order and inorder for the same. =
+BL3 B ‘
+
+Write note on Backtracking and Greedy Algorithms.
 ````
 
 ## 2023-24 · Re-Exam · Sem 1 · paper ce9b7038294d
@@ -8636,35 +8911,36 @@ CO- 1; BL-L
 2/2
 ````
 
-## 2022-23 · Re-Exam · Sem 2 · paper bd19bad9c66a
+## 2022-23 · Re-Exam · Sem 2 · paper d9d895dadebc
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/DATA STRUCTURES AND ALGORITHMS/Data Structures and Algorithms, Sem-II, Re Exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.0
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/DATA STRUCTURES AND ALGORITHMS/Data Structures & Algorithms, Sem-II, Batch 2020-21, 2021-22, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 47/05 /2023
+- Text: ocr (2 pages), mean OCR confidence 88.8
 
 ````text
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
-Academic Year: 2023-2024
-Program/s: B Tech Year: I serhietter: I
-Stream/s ; Computer Science and Business Systems
-Subject: Data Structures and Algorithms Time: 3 hrs. (2:00pm to S20 0pm)
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
 
-Date:_25°/ 4/2024 7 No. of Pages: 02
+Program: BTech Stream ;CSBS Year: | Semester: II
+
+Subject: Data Structures and Algorithms Time: 3 hrs @4:eamto 2:00pm)
+Date: 47/05 /2023, No. of Pages:2
+
 Marks: 100
 
-(Re-Examination 2022-23)
+Re-Examination (Batch 2020-21, 21-22 )
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. _1_ is compulsory.
+1) Question No. | is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
-3) In all _5_ questions to be attempted.
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -8673,55 +8949,166 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql
+Ql a.
+CO-I: Explain different asymptotic notations to compute the complexity [5]
+BL-2
+CO- 2; b. | State any one application of stack, queue, trees, linked list and graph data [5]
+BL-2 structures.
+CO- 3; c. | What are the two ways of representing trees in the memory? Which one do [5]
+BL-2 you prefer and why?
 
-Answer the following
-: ay Explain asymptotic notations used to represent time complexity of an algorithm. [05]
-ai b. Discuss the classification of data structures? Give suitable example. [05]
-CO- 2; c. Differentiate between arrays and linked list. [05]
-BL-M
-CO- 3; d. How do you represent graphs in the memory? Give suitable example [05]
-BL-M .
-Q2 a . . . .
-
-Write a program / algorithm to read 10 values in an Array. Perform linear search [10]
-CO-2; operation on the array and display the result.
-BL-H 7 »
-CO-2; b What is the need of circular queue? Discuss conditions of empty and full queue 110)
-BL-M with suitable example.
-Q3 a Apply and explain binary searching algorithm on the following dataset. Search 70
-CO-4; and write all the steps accordingly. [10]
-BL-H 10, 20, 30, 40, 50, 50, 60, 70, 80.
-CO-2; b Discuss any two applications of stack. Perform one push and one pop operation 110]
-BL-L with the help of suitable algorithm on stack.
-
-Page 1 of 2
+™ [Co-4; d. ; ;
+BL3 Write the algorithm for performing binary search on the sorted array. [5]
+Q2 a Create a binary search tree using the following data elements
+CO-3; 45, 39, 56, 12, 34, 78, 32, 10, 89, 54, 67, 81 [10]
+BL-4
+co-2 b Write an algorithm to implement insertion and deletion function of queue data
+BL3 structure. [10]
+Q3 a , =p ™ : .
+C03 Following graph represent cities in a state. Apply Dijkstra’s algorithm to find [10]
+BL-3 the optimal path between source city A to all other cities.
 --- page 2 ---
-¥
+~
 
-Q4 a
+. b | Discuss the concept of quick sort with an example
+CO-3; 10
+BL-2 Lid]
+a Write a program to implement following functions of linked list
+Q4 i. Insert a new node at the beginning of the list.
+CO-2; ii. Delete a node at the beginning of the lisr [10]
+BL-3
+CO-4; BL-3 | b__| What is hashing? Explain the concept of Linear probing. Give applications of [10]
+hashing
+Q5 a Write short note on
+CO-3; a) file organization b) expression tree [10]
+BL-4
+CO-2; b : . .
+BL-3 Write an algorithm for push and pop operation of Stacks [10]
+a Perform Breadth first search traversal and write an algorithm for the same
+He & a [10]
+CO-3
+BL-3 mS Q*
+@
+b | Consider an array of integers given below. Sort the given values using
+CO-4; , .
+BL2 insertion sort. [10]
 
-Perform insert and delete operation in between at the specified location of the
+39, 9, 45, 63, 18, 81, 108, 54, 72, 36
 
-CO-2; . ae . ; [10]
-BL-M linked list with suitable algorithms and example.
-CO-3; b . ; . . .
-BL-L Explain all the binary tree traversal algorithms with suitable example. [10]
-Os 7 How do you represent a queue using linked list? Write algorithm to perform 110]
-ies insert and delete operation on the same.
-CO-3; b Explain the working of Dijkstra Algorithm with suitable example with at least 5 110]
-BL-H nodes and 8 edges.
-G6 a |
-CO-3; Explain BFS algorithm with suitable example. [10]
-BL-L |
-b Given a sequence of elements: 45, 56, 12, 34, 58, 39, 44, 78, 5, 28, 66. j
-Ge Apply and explain the algorithm / function to generate the binary search tree for [10]
-this given sequence.
-Q7 a Discuss the importance of binary tree as expression tree. Draw expression tree for
-CO-3; the following infixed expression. [10]
-“= 3*(2-4)+(5*(6+7))
-a 5 Explain the merge sort algorithm with suitable example [10]
-Page 2 of 2
+2
+````
+
+## 2022-23 · Re-Exam · Sem 2 · paper b9acedbf2f09
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/DATA STRUCTURES AND ALGORITHMS/Data Structures and Algorithims, Sem-II, Batch 2021-22, Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 86.1
+
+````text
+SVKM’S NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+Program: B. Tech / MBATECH Stream; Year: I Semester: II
+
+B Tech IT, CE, CS, EXTC, MXTC, DS, CSE-CS, AI, AIML, AIDS/ MBA Tech
+IT, COMP, DS, AI
+
+Subject: Data Structures and Algorithms Time: __3___ hrs (2100 pmto 5:00pm)
+Date:_28 /06/2028 . No. of Pages: 3
+Marks: 100
+Re-Examination (Batch 2021-2022)
+<>
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql .
+Answer briefly: [20]
+Co 1 a. . .
+™!so1 Explain Asymptotic Notations [5]
+BL2
+jee) 2 b. : . . . . + .
+SOl Write a program to insert element at the beginning in singly Linked list [5]
+BL2
+CO 3 c. . . . . .
+SO 1 Explain different ways in which graph is represented in memory {5]
+BL4
+CO 4 d. Explain Binary search with help of an example and mention the pre —
+SO 1 a ; (5]
+BL3 condition for Binary search
+= [20]
+CO2 a. Write a function to insert and delete an element at the end in singly linked [10]
+--- page 2 ---
+SO 1 list
+BL 3
+
+b. Construct Binary Tree for given Inorder and Preorder sequence. Show all
+CO3
+the steps while reconstructing the Binary tree.
+so | [10]
+Inorder Traversal: {4, 2, 1, 7, 5, 8, 3, 6}
+BL4
+
+Preorder Traversal: { 1, 2, 4, 3, 5, 7, 8, 6 }
+
+a (20) .
+
+CO 3 a.
+
+* | What is the advantage of Threaded Binary Tree? Explain L-Thread and R-
+sO 1 : : [10]
+61,4 thread binary tree with the help of an example.
+
+b. Which data structure is used in depth first search. Apply depth first search
+
+on the following graph and give sequence of traversal
+
+CO 1,4 (A)
+
+SO 1 [10]
+
+_ (2) ©) ©
+
+Qa
+
+[20]
+CO 2 a.
+SO 1 Explain Circular Queue data structure with the help of an example. [10]
+BL2
+co 4 b.
+
+S| Write a program to implement linear search which will consider repetitive 10]
+5 elements and give indexes of every occurrence of element
+
+Q5 [20]
+--- page 3 ---
+CO2 a. Apply Infix to postfix and Infix to prefix on the following expression using
+
+SO 1 Stack [10]
+BL3 A‘B/D‘E4F*G/H
+CO 3 b.
+
+TT Write a function to implement inorder, preorder and postorder traversal on 10]
+binary search tree
+
+BL2
+Q6
+
+[20]
+CoO 4 a. Explain Breadth First Search with the help of an example. Apply insertion
+Sol sort on following elements and show all the required steps [10]
+BL2 15,20,10,30, 50,18,5,45 ,
+CO 2,1 b.
+
+_ Explain Binary Search Tree with the help of an example. Write a function to t10]
+on insert an element at beginning in doubly linked list.
 ````
 
 ## 2022-23 · Re-Exam · Sem 2 · paper 1e338d5ec7a8
@@ -8826,108 +9213,6 @@ and algorithm / program.
 page 2. a 2.
 ````
 
-## 2022-23 · Re-Exam · Sem 2 · paper 511c49923d35
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/DATA STRUCTURES AND ALGORITHMS/Data Structures and Algoriths, Sem-II, Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program/s: B Tech Year: I Semester: II
-
-Stream/s: Computer Science and Business Systems
-
-Subject: Data Structures and Algorithms Time: 3 hrs. (2zv0pm to 5 20npm)
-Date:_10_/05_/ 2025 No. of Pages: 02
-
-Marks: 100
-
-Reexamination (2022-2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any _4 questions.
-
-3) In all _5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-= Answer briefly:
-a. __| Discuss the classification of data structures. [05]
-b. Explain doubly linked list with suitable example. [05]
-@ Explain the time complexity analysis with certain example. [05]
-d. What is recursion? Explain with an example. [05]
-Q e Write an algorithm to search element in an array linearly. Discuss both successful [10]
-and unsuccessful search
-b Explain the implementation of linear queue to insert and delete the elements. 110)
-Clearly state the need of Front and Rear pointer with necessary conditions.
-a Apply and explain insertion sort algorithm on‘the following dataset with the time
-Q3 complexity analysis. [10]
-LONQE 1384 WI 6 17
-b What is stack? How do you implement using an array? Show with an example. [10]
-Q4 a What is circular queue? How do you perform Insert and Delete Operation on [10]
-circular queue? Explain with suitable example.
-b Explain the significance of all the binary tree traversal algorithms with suitable
-example. U0]
---- page 2 ---
-Q5
-
-Explain binary searching algorithm with suitable example. Give complexity
-
-analysis.
-
-[10]
-
-Discuss the significance of Huffman encoding method. Explain the encoding
-
-process with suitable example.
-
-[10]
-
-Q6
-
-Given a sequence of elements: 23, 13, 69, 78, 12, 45, 32
-Apply algorithm / function to generate the binary tree using the sequence.
-
-Comment on generated binary tree.
-
-[10]
-
-What is minimum spanning tree (MST)? Explain the working principle of MST
-
-with suitable example.
-
-[10]
-
-Q7
-
-Explain with the help of suitable algorithm, the insertion and deletion at the end
-
-of the linked list.
-
-[10]
-
-Apply Dijkstra’s algorithm on the following graph and find distance from single
-
-source node A to every other node. Also find the shortest path from node A to D.
-
-[10]
-````
-
 ## 2022-23 · Re-Exam · Sem 3 · paper 97f6c929f4f3
 
 - Departments: Data Science
@@ -9011,90 +9296,6 @@ C03/4, [20]
 S02, BL3
 Sort following list using merge sort and compare its steps with divide and
 B conquer algorithmic steps and reflect on the correlation these algorithms.
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper 33d9a9776b52
-
-- Departments: Data Science
-- Programmes: B TECH / CSE DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-III/DATA STRUCTURES AND ALGOTITHMS/Data Structures & Algorithms, Sem-III, Batch 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.6
-
-````text
-‘€
-LON
-
-SVKM’S NMIMS j :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024 r
-Program$Tech CSE DS Stream; CSE DS Year: II Semester: Ill
-Subject: Data Structures and Algorithms Time: 3 hrs (10:00am tol:00pm)
-Date:_6/02/ 2024 ; No. of Pages: 2
-
-Marks:100
-RE-EXAM (2022-2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-, 3) Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1 ‘
-Q Answer briefly: [20]
-Col, SOl, | 4 Why identification of suitable Data Structure is important for efficient
-BEI programming? Answer with an example.
-CO2, SO2, | b. . . : , _— :
-BL4 Discuss all deletion cases of circular linked list diagrammatically.
-CO3, SO2, | c. . ,
-BLS Choose an example of BST and Apply Left-Right rotation to balance the tree.
-CO-4, d. Differentiate between “Divide and Conquer” and “Backtracking algorithms. [Any
-- 802, BLS 5 valid points]
-A Which data structure will be suitable to implement “Printing requests received
-Q Jrom 10 different users at atime” Justify why not any other data structure other
-COI, SO1, than your selection will not be suitable to solve this problem.
-BL3 [20]
-CO2, SO2
-BL3 B Write a C++ Program to implement insertion of new node as first and last node in
-singly linked list.
-A
-Q3 “Adjacency list is preferred over Adjacency matrix while coding using Graph
-CO3/4, data structure” justify this statement using example. [20]
-
-SO2, BL3
---- page 2 ---
-i
-
-Explain the step by step working of Binary search algorithm. How is it related to
-
-B Divide and conquer” category of algorithms.
-Qa A
-Col, SO1, Write note on “algorithmic Efficiency” in detail. Discuss its importance in
-BL3 efficient coding to solve any real-life problem.
-CO2, SO2,
-BL3 Write a program to implement the QUEUE operation using Linked list.
-B
-A Generate BST tree from following sequence. Show step by step procedure for the
-aoarh same. ‘Inorder: BAGDHCE Preorder: ABCDGHE
-SO2, BL3 . se
-B Explain at least 5 real life Applications of Graph data structure. Design
-Adjacency list for the same.
-Q6 A Differentiate between Doubly aud Circular Linked list with respect to the step-
-Col, SO] by-step process of inserting a.new node as last node.
-CO2, SO2, [20]
-BL3 Write a program to implement STACK operations and calculate the algorithmic
-B complexity of the code and suggest its complexity in Big O notation.
-con. 602 A Take an example of expression tree and show step by step traversing of Preorder,
-C04, $02, post order and inorder for the same. =
-BL3 B ‘
-
-Write note on Backtracking and Greedy Algorithms.
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper 6b4df7494ff6
@@ -9672,206 +9873,6 @@ CO-4; BL-L_ | © | NP, NP —Hard and NP — Complete [5]
 2] uw
 ````
 
-## 2021-22 · Re-Exam · Sem 2 · paper d9d895dadebc
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/DATA STRUCTURES AND ALGORITHMS/Data Structures & Algorithms, Sem-II, Batch 2020-21, 2021-22, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 47/05 /2023
-- Text: ocr (2 pages), mean OCR confidence 88.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: BTech Stream ;CSBS Year: | Semester: II
-
-Subject: Data Structures and Algorithms Time: 3 hrs @4:eamto 2:00pm)
-Date: 47/05 /2023, No. of Pages:2
-
-Marks: 100
-
-Re-Examination (Batch 2020-21, 21-22 )
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql a.
-CO-I: Explain different asymptotic notations to compute the complexity [5]
-BL-2
-CO- 2; b. | State any one application of stack, queue, trees, linked list and graph data [5]
-BL-2 structures.
-CO- 3; c. | What are the two ways of representing trees in the memory? Which one do [5]
-BL-2 you prefer and why?
-
-™ [Co-4; d. ; ;
-BL3 Write the algorithm for performing binary search on the sorted array. [5]
-Q2 a Create a binary search tree using the following data elements
-CO-3; 45, 39, 56, 12, 34, 78, 32, 10, 89, 54, 67, 81 [10]
-BL-4
-co-2 b Write an algorithm to implement insertion and deletion function of queue data
-BL3 structure. [10]
-Q3 a , =p ™ : .
-C03 Following graph represent cities in a state. Apply Dijkstra’s algorithm to find [10]
-BL-3 the optimal path between source city A to all other cities.
---- page 2 ---
-~
-
-. b | Discuss the concept of quick sort with an example
-CO-3; 10
-BL-2 Lid]
-a Write a program to implement following functions of linked list
-Q4 i. Insert a new node at the beginning of the list.
-CO-2; ii. Delete a node at the beginning of the lisr [10]
-BL-3
-CO-4; BL-3 | b__| What is hashing? Explain the concept of Linear probing. Give applications of [10]
-hashing
-Q5 a Write short note on
-CO-3; a) file organization b) expression tree [10]
-BL-4
-CO-2; b : . .
-BL-3 Write an algorithm for push and pop operation of Stacks [10]
-a Perform Breadth first search traversal and write an algorithm for the same
-He & a [10]
-CO-3
-BL-3 mS Q*
-@
-b | Consider an array of integers given below. Sort the given values using
-CO-4; , .
-BL2 insertion sort. [10]
-
-39, 9, 45, 63, 18, 81, 108, 54, 72, 36
-
-2
-````
-
-## 2021-22 · Re-Exam · Sem 2 · paper b9acedbf2f09
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/DATA STRUCTURES AND ALGORITHMS/Data Structures and Algorithims, Sem-II, Batch 2021-22, Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 86.1
-
-````text
-SVKM’S NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-Program: B. Tech / MBATECH Stream; Year: I Semester: II
-
-B Tech IT, CE, CS, EXTC, MXTC, DS, CSE-CS, AI, AIML, AIDS/ MBA Tech
-IT, COMP, DS, AI
-
-Subject: Data Structures and Algorithms Time: __3___ hrs (2100 pmto 5:00pm)
-Date:_28 /06/2028 . No. of Pages: 3
-Marks: 100
-Re-Examination (Batch 2021-2022)
-<>
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql .
-Answer briefly: [20]
-Co 1 a. . .
-™!so1 Explain Asymptotic Notations [5]
-BL2
-jee) 2 b. : . . . . + .
-SOl Write a program to insert element at the beginning in singly Linked list [5]
-BL2
-CO 3 c. . . . . .
-SO 1 Explain different ways in which graph is represented in memory {5]
-BL4
-CO 4 d. Explain Binary search with help of an example and mention the pre —
-SO 1 a ; (5]
-BL3 condition for Binary search
-= [20]
-CO2 a. Write a function to insert and delete an element at the end in singly linked [10]
---- page 2 ---
-SO 1 list
-BL 3
-
-b. Construct Binary Tree for given Inorder and Preorder sequence. Show all
-CO3
-the steps while reconstructing the Binary tree.
-so | [10]
-Inorder Traversal: {4, 2, 1, 7, 5, 8, 3, 6}
-BL4
-
-Preorder Traversal: { 1, 2, 4, 3, 5, 7, 8, 6 }
-
-a (20) .
-
-CO 3 a.
-
-* | What is the advantage of Threaded Binary Tree? Explain L-Thread and R-
-sO 1 : : [10]
-61,4 thread binary tree with the help of an example.
-
-b. Which data structure is used in depth first search. Apply depth first search
-
-on the following graph and give sequence of traversal
-
-CO 1,4 (A)
-
-SO 1 [10]
-
-_ (2) ©) ©
-
-Qa
-
-[20]
-CO 2 a.
-SO 1 Explain Circular Queue data structure with the help of an example. [10]
-BL2
-co 4 b.
-
-S| Write a program to implement linear search which will consider repetitive 10]
-5 elements and give indexes of every occurrence of element
-
-Q5 [20]
---- page 3 ---
-CO2 a. Apply Infix to postfix and Infix to prefix on the following expression using
-
-SO 1 Stack [10]
-BL3 A‘B/D‘E4F*G/H
-CO 3 b.
-
-TT Write a function to implement inorder, preorder and postorder traversal on 10]
-binary search tree
-
-BL2
-Q6
-
-[20]
-CoO 4 a. Explain Breadth First Search with the help of an example. Apply insertion
-Sol sort on following elements and show all the required steps [10]
-BL2 15,20,10,30, 50,18,5,45 ,
-CO 2,1 b.
-
-_ Explain Binary Search Tree with the help of an example. Write a function to t10]
-on insert an element at beginning in doubly linked list.
-````
-
 ## 2021-22 · Re-Exam · Sem 2 · paper e66695af555c
 
 - Departments: Common (all branches)
@@ -10436,6 +10437,225 @@ CO-4;BL-L | c. NP, NP — Hard and NP — Complete [5]
 Ap
 ````
 
+## 2019-20 · Re-Exam · Sem 3 · paper b7ba685002d2
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATA STRUCTURES AND ALGORITHMS/Data structures & Algorithms,Re-exam 2018-19,2017-18.pdf` (+1 identical copies)
+- Printed on paper: exam date: 09 November 2019
+- Text: ocr (2 pages), mean OCR confidence 89.1
+
+````text
+: SVKM’s NMIMS
+4. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (IT) Year: II Semester: III
+
+Academic Year: 2019-20
+Subject: Data Structures and Algorithms
+
+RSUTUTE OF OF RSs
+
+ES
+; Ni
+7
+
+Date: 09 November 2019
+a
+
+No. of Page
+Re-examination B.Tech/ MBA Tech (20 18-19) / MBA Tech
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Attempt any four out of remaining six questions.
+
+3. Inall5 questions to be attempted
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on fresh page.
+
+6. Figures in bracket on the right hand side indicate full marks.
+7. Assume suitable data if necessary.
+
+Ql A _ Explain following terms with suitable example 7
+i) Binary search tree
+ii) Linked List
+iii) Minimum Cost Spanning tree
+iv) Time complexity
+Vv) Pointer Arrays
+vi) Abstract data type
+vil) Stack
+
+B Write the simple pseudo code . 7
+
+i. To insert an element in the Linked List at any place
+ii. To delete an element from the Linked list from any place
+
+2 A Write an algorithm to convert Infix expression to postfix expression. Explain it with suitable 7
+g Pp: Pp P. Pp.
+example.
+B State and explain all the conditions to delete an element from the Binary search tree. 7
+
+3 A Compare Depth first Search graph traversal technique with Breadth First search technique. 7
+Explain it with suitable example.
+
+B Define and differentiate the following growth functions: Big-Oh, Omega, Theta notations. 7
+Q4 A _ What is analysis of algorithm? Explain it with the example of bubble sort algorithm. 7
+B Explain divide and conquer method with suitable example. 7
+Q5 A Write a detailed note on Index sequential search with suitable example. 7
+
+1] 2—
+--- page 2 ---
+Q6
+
+Q7
+
+A
+
+Define Collision. State and explain all the collision handling techniques with suitable example. 7
+4
+
+What are Greedy techniques? Explain how prims algorithms shows greedy nature to find the 7
+
+MCST with suitable example.
+
+State the algorithm for Binary Search Technique. Compare the efficiency of this sleet with 7
+
+linear search technique.
+
+Write a short note on (Any Four)
+
+Threaded Binary tree 14
+Hashing
+
+Priority Queue
+
+Heap Sort
+
+Dynamic programming
+
+2 RRR oo a ace ak oo
+
+2)
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 780844711ab2
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATA STRUCTURE & ALGORITHMS/Data structures & Algorithms , Re-exam 2017-18-19.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 14 November 2019
+- Text: ocr (2 pages), mean OCR confidence 93.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
+
+SCHOOL OF TECHNOLOGY MANAGEMENT 6 ENGINEERING
+
+Programme: MBA Tech (Computer) Year: II ~ Semester: III
+
+Academic Year: 2019-20
+Subject: Data Structures and Algorithms -
+
+Marks: 70
+Date: 14 November 2019. - Time: 2.00 p
+‘ Durations: 3
+
+‘ No. of Pages:
+Re-Examination (2017-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1 A. Explain Divide and Conquer Algorithm design Strategy with example. 4M
+B. Which type of recursion is applied on Fibonacci series? Justify your answer with 3M
+demonstration 3M
+
+C. Write an algorithm for modified bubble sort and state its best and Worst case complexity. 4M
+D. Explain different ways in which Graph data structure can be represented in computers
+memory
+2 A. Write a program to perform matrix addition of 3x3 Matrix and explain its time 7M
+complexity
+B. You have the list of roll numbers stored randomly and you need to extract information of
+the student based on the given (input) roll number. Which searching technique will give 7M
+you faster performance in terms of time complexity? Justify your answer with above
+scenario
+3 A. Write an Algorithm of Circular Linked List for following Operations: 7™
+I. Inserting a Node at the end
+Il. Deleting a Specific Node from list
+B. Explain Expression Tree and Construct Expression Tree for the following: 7™
+a*(b-c)+d/e
+4 A. Write an algorithm for merging procedure in merge sort and explain merge sort time 7M
+complexity with the help of an example
+B. Explain Single source shortest path algorithm with suitable example 7™M
+
+fo
+--- page 2 ---
+A.
+
+A.
+
+A.
+
+Explain one way and multi way threaded binary tree in detail .
+
+Write a program on Single Dimensional Array having following operations
+
+I. Searching Second Highest element in an array
+
+Il. Display duplicate element in an array
+
+Explain Queue with application in detail. Write an algorithm for implementing Queue
+using Linked List
+
+Explain Types of Binary Tree and Construct Binary Tree from following given sequence
+Postorder : 20, 35, 30, 45, 40, 55, 70, 60, 50
+
+Inorder: 20, 30, 35, 40, 45, 50, 55, 60, 70
+
+Explain asymptotic notations with an example.
+
+What is Graph? Explain any 3 terminologies.
+
+Explain Greedy algorithm design Strategy with an example.
+
+2/2
+
+7™.
+
+7™
+
+7™
+
+7™
+
+™
+
+4M
+3M
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper 32a8576bd840
 
 - Departments: Information Technology
@@ -10786,113 +11006,204 @@ C Files as data structures 7
 fh
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper b7ba685002d2
+## 2018-19 · Re-Exam · Sem 3 · paper 28cf11ac70bb
 
-- Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATA STRUCTURES AND ALGORITHMS/Data structures & Algorithms,Re-exam 2018-19,2017-18.pdf` (+1 identical copies)
-- Printed on paper: exam date: 09 November 2019
-- Text: ocr (2 pages), mean OCR confidence 89.1
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATA STRUCTURE & ALGORITHMS/Data structures and Algorithms Re-exam 2017-18-19_28cf11ac70.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 January 2019
+- Text: ocr (2 pages), mean OCR confidence 92.8
 
 ````text
-: SVKM’s NMIMS
-4. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’S NMIMS
 
-Programme: B.Tech/ MBA Tech (IT) Year: II Semester: III
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Academic Year: 2019-20
-Subject: Data Structures and Algorithms
+Program: MBA Tech (Computer) Year: II - Semester : III
+Academic Year: 2018-2019
 
-RSUTUTE OF OF RSs
+Subject: Data Structures and Algorithms _- Marks: 70
 
-ES
-; Ni
-7
+Time: 2.00 pm to 5.00 pm ~
 
-Date: 09 November 2019
-a
+Date : 25 January 2019 ~ .
+Durations: 3 (hrs)
 
-No. of Page
-Re-examination B.Tech/ MBA Tech (20 18-19) / MBA Tech
+No. of Pages: s=
+Re-examination (2017-18/ 2018-19) _
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-NB:
+1) Question No. lis compulsory. ~
 
-1. Question No.1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
 
-2. Attempt any four out of remaining six questions.
+3) In all 5 questions to be attempted.
 
-3. Inall5 questions to be attempted
+4) All questions carry equal marks.
 
-4. All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
 
-5. Answer to each new question to be started on fresh page.
+l A. Explain Backtracking Algorithm design Strategy with example. 4M
 
-6. Figures in bracket on the right hand side indicate full marks.
-7. Assume suitable data if necessary.
+B. Explain different types of Recursion with an example. 3M
 
-Ql A _ Explain following terms with suitable example 7
-i) Binary search tree
-ii) Linked List
-iii) Minimum Cost Spanning tree
-iv) Time complexity
-Vv) Pointer Arrays
-vi) Abstract data type
-vil) Stack
+C. Derive the Complexity of Quick Sort. 3M
 
-B Write the simple pseudo code . 7
+D. Which data Structure is used in Depth First Search (DFS) Traversal technique? Write an 4M
+algorithm of DFS. :
 
-i. To insert an element in the Linked List at any place
-ii. To delete an element from the Linked list from any place
+2 A. Consider 20X5 dimensional array marks which has its base address = 1000 and the size 7M
 
-2 A Write an algorithm to convert Infix expression to postfix expression. Explain it with suitable 7
-g Pp: Pp P. Pp.
-example.
-B State and explain all the conditions to delete an element from the Binary search tree. 7
+of an element = 2bytes. Determine the address location of marks[18][4], when the array
+is stored in
+I: Row Major
+I: Column Major
+B. Consider an array of marks for the subject Data Structures and Algorithms and you need 7M
+to find a mark of any given random roll number. Which Searching technique you will
+use. Justify your answer with the help of code for your searching technique
 
-3 A Compare Depth first Search graph traversal technique with Breadth First search technique. 7
-Explain it with suitable example.
+3 A. Write an Algorithm of Doubly Linked List for following Operations: 7™.
+L Inserting a Node after a given element
+IL. Deleting a Node after a given element
 
-B Define and differentiate the following growth functions: Big-Oh, Omega, Theta notations. 7
-Q4 A _ What is analysis of algorithm? Explain it with the example of bubble sort algorithm. 7
-B Explain divide and conquer method with suitable example. 7
-Q5 A Write a detailed note on Index sequential search with suitable example. 7
+B. Construct Height Balance Tree for following sequence of numbers (Show all the 7M
+operations) 50, 25, 10, 5, 7, 3, 30, 20, 8, 15
+4 A. Explain Heap Sort. Apply Heap Sort on following elements: ™
+15,19,10,7,17,16
 
-1] 2—
+Vo
 --- page 2 ---
-Q6
+A.
 
-Q7
+Define Minimum Cost Spanning Tree. Explain Kruskal’s aa for constructing
+Minimum Spanning tree with suitable example
 
-A
+What is Binary Search Tree? Explain all the cases of Deleting a node from Binary
+Search Tree with the help of an algorithm and example
 
-Define Collision. State and explain all the collision handling techniques with suitable example. 7
-4
+Write a program on Single Dimensional Array having following operations
 
-What are Greedy techniques? Explain how prims algorithms shows greedy nature to find the 7
+I. Insertion
 
-MCST with suitable example.
+I. Deletion from Start, end and given position
 
-State the algorithm for Binary Search Technique. Compare the efficiency of this sleet with 7
+Il. Display
 
-linear search technique.
+Explain Stacks with application in detail. Write an algorithm for implementing Stack
+using Linked List
 
-Write a short note on (Any Four)
+Explain Tree traversal techniques with example. Create Binary Tree for the following
+given sequence and write the preorder, postorder and inorder : 33,28,65,74,96,55,32,41,
+96
 
-Threaded Binary tree 14
-Hashing
+Explain asymptotic notations with an example.
 
-Priority Queue
+Explain how graph is represented in Memory.
 
-Heap Sort
+Explain Divide and Conquer algorithm design Strategy with an example.
 
-Dynamic programming
+Dy
 
-2 RRR oo a ace ak oo
+™\
+7™M
 
-2)
+™
+
+7™
+™.
+™
+
+4M
+3M
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 537639e4f518
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DATA STRUCTURES & ALGORITHMS/Data structures and Algorithms , Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 January 2019
+- Text: ocr (2 pages), mean OCR confidence 86.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (IT) -~ Year:   * Semester : II
+Academic Year: 2018-19
+
+Subject: Data Structures and Algorithms _- Marks: 70 -
+
+Time: 2.00 pm to 5.00pm ~~
+Date: 16 January 2019 #
+. “ey Durations: 3 (hrs)
+a No. of Pages: O2-_
+
+_ Re-examination B.Tech (2018-19) / MBA Tech (2017-18/2018-19) <—
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Qi A What is a Data Structure? Explain its role in the development of a software 7
+program.
+
+B_ Explain the properties of Big Oh, Omega and Theta finetious with examples. 7
+
+Q2 A _ Explain the Divide and Conquer Technique with an example. 7
+
+B_ Explain the advantages of Linked list over Arrays. Discuss the representation of 7
+linked Lists in memory.
+
+Q3 A _ Explain the Queue data structure. Write algorithms for inserting and deleting 7
+elements from a Queue.
+B Convert the following infix expressions to its corresponding Prefix and Postfix i
+expressions.
+
+I ((at+b)* c-(d-e))/ft+g
+Tl. atb*c%(d+e)*ft+g
+
+Q4 A What is a Graph data structure? Explain any 2 types of graphs with examples. 7
+
+B What is a Binary Tree? Explain its Linked representation in memory. 7
+
+Q5 A_ Explain Binary search with an example. Discuss the time complexity of the 7
+algorithm.
+
+B_ Explain Stack as a data structure and its applications. 7
+
+Ye
+--- page 2 ---
+Q6 A Use the procedure of Bubble sort to sort the following array of numbers.
+
+14,33,27,35,10 ,
+B For the graph given below, apply BFS Algorithm to find all nodes reachable from
+
+node A.
+
+Q7 Write short notes on any TWO (2) of the following:
+A Dynamic programming
+B Hashing Techniques
+C Files as data structures
+
+ic
 ````
 
 ## 2017-18 · Final-Exam · Sem 3 · paper 605f5e41ebbe
@@ -11120,6 +11431,141 @@ B   Hashing   7
 C   Files an-dStreams   7
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper 9261bc636711
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATA STRUCTURES AND ALGORITHMS/DATA STRUCTURES AND ALGORITHMS (BATCH 16-17 ) RE-EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 28 November 2017
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+™~
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (I.T.) Year: Il. Semester: III -
+
+Batch: 2016-17 ~
+Academic Year: 2017-2018 ,
+
+Subject: Data Structures and Algorithms~ ay
+Marks: 70 _sggi\t®¥2 OF
+Date: 28 November 2017” Time: 10,00dm to I
+Duration&/3 (hss) - 4; 4
+No. of Pages, Fix ef
+cy wy
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining six questions, attempt any four questions.
+3) In all five questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data if necessary.
+
+Ql (a) Explain the different tree traversal techniques with suitable example. [4]
+
+(b) What are linear and multidimensional arrays? Explain both with a program of [8]
+addition/multiplication of matrices.
+
+c) Evaluate the following postfix expression (2]
+
+7 8+3 2+ /
+
+Q2 (a) Write a program for Priority Queue using linked list with insert and delete methods. [8]
+(b) Sort the following elements in descending order using Merge Sort algorithm:- [6]
+54, 26, 93, 17, 77, 31, 44, 55, 20.
+
+Q3 (a) Create Binary Search tree using following traversal information: [6]
+Inorder:- DBGEACF
+Postoder:- DGEBFCA
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+(b)
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+(c)
+
+Explain importance of Time and Space in algorithm formulation. Find worst, best and
+
+average case time complexity of Radix Sort.
+
+Write an algorithm for converting Infix expression to Postfix Expression using Stack.
+Covert the following infix expression to postfix: (a+b-c )*d-(e+f),
+Explain Header Linked List. Write an algorithm for insertion of an element at the
+
+beginning, middle and end of a linked list with suitable examples.
+
+Explain 0/1 — Knapsack problem with a greedy algorithm.
+
+Write an algorithm for Push and POP operation using linear array in a Stack data
+
+structure.
+
+Write an algorithm to insert, delete and search an element into a circular queue
+
+implemented using arrays.
+
+What are different collision resolution techniques for Hashing. Explain all with a same
+
+example.
+
+Compare BigOH, BigOmega and BigTheta notations used for time complexity.
+Explain Tower of Hanoi problem with an example.
+
+Explain Multiway search tree and B-Tree.
+
+AK
+
+[8]
+
+[6]
+
+[8]
+
+[8]
+
+[6]
+
+[8]
+
+[6]
+
+[6]
+
+[4]
+[4]
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper 3c9dad4f2e9d
 
 - Departments: Information Technology
@@ -11216,6 +11662,75 @@ b. Create a threaded tree (one-threaded with right thread) with the following da
 10, 16, 6, 7, 14, 3,17, 15, 1,4
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper c9d341694379
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATA STRUCTURE & ALGORITHMS/DATA STRUCTURE & ALGORITHMS BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: exam date: 30 November 2017
+- Text: text (2 pages)
+
+````text
+----"
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBATech (Computer)   Year: II   Semester: III
+Batch: 2016-17
+Academic Year: 2017-2018
+Subject: Data Structure & Algorithms
+J   Date: 30 November 2017
+Re-Examination
+Q.l   a. Why data structure is so important while solving any problem in computer world give   [6]
+some examples? Explain circular Queue in detail with advantage over linear Queue.
+b.   Describe the correctness of any general Algorithm.   [3]
+c.   Consider two binary operator [and t with precedence of operator t being lower than   [5]
+that of the [. Operator tin right associative while t left associative. Convert the
+following expression in to post fix
+7t3t4t3!2t4t3!2.
+Q.2   a.   Write a function/algorithm to find out whether a link list is circular or not.   [7]
+/
+b.   Write a program to sort the elements of given array in O(n) complexity. Where array   [7]
+°
+contains only two types of numbers   and 1.
+arr[ ]={ 0, 1,0,0, 1, 1, 1,0,0, 1,0, 1, 1,0, o....... }
+Q.3   a.   Perform the in-order, pre-order and post-order traversal technique on Fig.1 of binary   [6]
+search tree and in each step explains why you consider that node.
+b. A PUSHO operation of a stack is defined by the 2X+1 where X is the top of the stack   [4]
+and initially the stack contains 1 where a POPO operation is defined whenever the top
+of stack contain prime no it will pop the that element and .add 1 in it and PUSHO into
+the stack. What will be the contain of stack after 7 PUSHO operation.
+-
+c.   Define is array and compare it with Linklist.   [4]
+ljL-
+--- page 2 ---
+·   "
+QA   a.   Write a Program! Algorithm for insertion sort and discuss the time complexity for its   [7]
+best and worst case.
+b.   What is a good hash function? Hash the following in the table size of 13 use double
+hashing if collision occurs.   [7]
+Where HI (K)= K mod 13 and H2(K)=8- (K mod 8)
+18,41,44,59,32,31,73,28,33
+Q.5   a.   Write the complexity of heap creation and deletion. Create the max heap tree for the   [7]
+following input.
+21,42,93,84,83,55,83,97,90,80,79,73
+b.   What is the maximum and minimum number of comparisons required to merge sorted   [4]
+list of M and N length. Perform the merge sort on the following data,
+14,31,25,4,74,34,66,7
+c.   Discuss the time complexity of merge sort.   [3]
+Q.6   a.   Find the optimal solution to the fractional knapsack instance n=4,m=15, (pl,p2,p3,p4)   [7]
+= (l0,10,12,18)and (wl,w2,w3,w4)=(2,4,6,9).
+b. What is greedy approach/algorithm? Write down its abstract/general   description   [7]
+algorithm for solving any problem.
+Q.7   Attempt any two:-   [14]
+a.   Big vs Theta vs Omega,
+b. Graph traversing techniques.
+c.   Tic tac toe problem.
+d.   Perform radix sort
+01000 100000110000111 01110 10101 10010 1000000101 01110 11011
+11101 01101 10111 00001 10101
+Fig.l
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper 9552bee989fd
 
 - Departments: Computer Engineering
@@ -11307,316 +11822,6 @@ B) Write an algorithm for selection sort and discuss its time complexity.
 
 (7)
 (7)
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 780844711ab2
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATA STRUCTURE & ALGORITHMS/Data structures & Algorithms , Re-exam 2017-18-19.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 14 November 2019
-- Text: ocr (2 pages), mean OCR confidence 93.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
-
-SCHOOL OF TECHNOLOGY MANAGEMENT 6 ENGINEERING
-
-Programme: MBA Tech (Computer) Year: II ~ Semester: III
-
-Academic Year: 2019-20
-Subject: Data Structures and Algorithms -
-
-Marks: 70
-Date: 14 November 2019. - Time: 2.00 p
-‘ Durations: 3
-
-‘ No. of Pages:
-Re-Examination (2017-18/ 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1 A. Explain Divide and Conquer Algorithm design Strategy with example. 4M
-B. Which type of recursion is applied on Fibonacci series? Justify your answer with 3M
-demonstration 3M
-
-C. Write an algorithm for modified bubble sort and state its best and Worst case complexity. 4M
-D. Explain different ways in which Graph data structure can be represented in computers
-memory
-2 A. Write a program to perform matrix addition of 3x3 Matrix and explain its time 7M
-complexity
-B. You have the list of roll numbers stored randomly and you need to extract information of
-the student based on the given (input) roll number. Which searching technique will give 7M
-you faster performance in terms of time complexity? Justify your answer with above
-scenario
-3 A. Write an Algorithm of Circular Linked List for following Operations: 7™
-I. Inserting a Node at the end
-Il. Deleting a Specific Node from list
-B. Explain Expression Tree and Construct Expression Tree for the following: 7™
-a*(b-c)+d/e
-4 A. Write an algorithm for merging procedure in merge sort and explain merge sort time 7M
-complexity with the help of an example
-B. Explain Single source shortest path algorithm with suitable example 7™M
-
-fo
---- page 2 ---
-A.
-
-A.
-
-A.
-
-Explain one way and multi way threaded binary tree in detail .
-
-Write a program on Single Dimensional Array having following operations
-
-I. Searching Second Highest element in an array
-
-Il. Display duplicate element in an array
-
-Explain Queue with application in detail. Write an algorithm for implementing Queue
-using Linked List
-
-Explain Types of Binary Tree and Construct Binary Tree from following given sequence
-Postorder : 20, 35, 30, 45, 40, 55, 70, 60, 50
-
-Inorder: 20, 30, 35, 40, 45, 50, 55, 60, 70
-
-Explain asymptotic notations with an example.
-
-What is Graph? Explain any 3 terminologies.
-
-Explain Greedy algorithm design Strategy with an example.
-
-2/2
-
-7™.
-
-7™
-
-7™
-
-7™
-
-™
-
-4M
-3M
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 28cf11ac70bb
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATA STRUCTURE & ALGORITHMS/Data structures and Algorithms Re-exam 2017-18-19_28cf11ac70.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 January 2019
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (Computer) Year: II - Semester : III
-Academic Year: 2018-2019
-
-Subject: Data Structures and Algorithms _- Marks: 70
-
-Time: 2.00 pm to 5.00 pm ~
-
-Date : 25 January 2019 ~ .
-Durations: 3 (hrs)
-
-No. of Pages: s=
-Re-examination (2017-18/ 2018-19) _
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory. ~
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-l A. Explain Backtracking Algorithm design Strategy with example. 4M
-
-B. Explain different types of Recursion with an example. 3M
-
-C. Derive the Complexity of Quick Sort. 3M
-
-D. Which data Structure is used in Depth First Search (DFS) Traversal technique? Write an 4M
-algorithm of DFS. :
-
-2 A. Consider 20X5 dimensional array marks which has its base address = 1000 and the size 7M
-
-of an element = 2bytes. Determine the address location of marks[18][4], when the array
-is stored in
-I: Row Major
-I: Column Major
-B. Consider an array of marks for the subject Data Structures and Algorithms and you need 7M
-to find a mark of any given random roll number. Which Searching technique you will
-use. Justify your answer with the help of code for your searching technique
-
-3 A. Write an Algorithm of Doubly Linked List for following Operations: 7™.
-L Inserting a Node after a given element
-IL. Deleting a Node after a given element
-
-B. Construct Height Balance Tree for following sequence of numbers (Show all the 7M
-operations) 50, 25, 10, 5, 7, 3, 30, 20, 8, 15
-4 A. Explain Heap Sort. Apply Heap Sort on following elements: ™
-15,19,10,7,17,16
-
-Vo
---- page 2 ---
-A.
-
-Define Minimum Cost Spanning Tree. Explain Kruskal’s aa for constructing
-Minimum Spanning tree with suitable example
-
-What is Binary Search Tree? Explain all the cases of Deleting a node from Binary
-Search Tree with the help of an algorithm and example
-
-Write a program on Single Dimensional Array having following operations
-
-I. Insertion
-
-I. Deletion from Start, end and given position
-
-Il. Display
-
-Explain Stacks with application in detail. Write an algorithm for implementing Stack
-using Linked List
-
-Explain Tree traversal techniques with example. Create Binary Tree for the following
-given sequence and write the preorder, postorder and inorder : 33,28,65,74,96,55,32,41,
-96
-
-Explain asymptotic notations with an example.
-
-Explain how graph is represented in Memory.
-
-Explain Divide and Conquer algorithm design Strategy with an example.
-
-Dy
-
-™\
-7™M
-
-™
-
-7™
-™.
-™
-
-4M
-3M
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 537639e4f518
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DATA STRUCTURES & ALGORITHMS/Data structures and Algorithms , Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 January 2019
-- Text: ocr (2 pages), mean OCR confidence 86.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (IT) -~ Year:   * Semester : II
-Academic Year: 2018-19
-
-Subject: Data Structures and Algorithms _- Marks: 70 -
-
-Time: 2.00 pm to 5.00pm ~~
-Date: 16 January 2019 #
-. “ey Durations: 3 (hrs)
-a No. of Pages: O2-_
-
-_ Re-examination B.Tech (2018-19) / MBA Tech (2017-18/2018-19) <—
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qi A What is a Data Structure? Explain its role in the development of a software 7
-program.
-
-B_ Explain the properties of Big Oh, Omega and Theta finetious with examples. 7
-
-Q2 A _ Explain the Divide and Conquer Technique with an example. 7
-
-B_ Explain the advantages of Linked list over Arrays. Discuss the representation of 7
-linked Lists in memory.
-
-Q3 A _ Explain the Queue data structure. Write algorithms for inserting and deleting 7
-elements from a Queue.
-B Convert the following infix expressions to its corresponding Prefix and Postfix i
-expressions.
-
-I ((at+b)* c-(d-e))/ft+g
-Tl. atb*c%(d+e)*ft+g
-
-Q4 A What is a Graph data structure? Explain any 2 types of graphs with examples. 7
-
-B What is a Binary Tree? Explain its Linked representation in memory. 7
-
-Q5 A_ Explain Binary search with an example. Discuss the time complexity of the 7
-algorithm.
-
-B_ Explain Stack as a data structure and its applications. 7
-
-Ye
---- page 2 ---
-Q6 A Use the procedure of Bubble sort to sort the following array of numbers.
-
-14,33,27,35,10 ,
-B For the graph given below, apply BFS Algorithm to find all nodes reachable from
-
-node A.
-
-Q7 Write short notes on any TWO (2) of the following:
-A Dynamic programming
-B Hashing Techniques
-C Files as data structures
-
-ic
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper aee8c2537363
@@ -11930,210 +12135,6 @@ Q.7 Write a short note on (Any two) [14]
 (a) Back tracking.
 (b) Explain Priority Queues and explain how heaps are used in it.
 (c) Linear and non linear data structure.
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 9261bc636711
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATA STRUCTURES AND ALGORITHMS/DATA STRUCTURES AND ALGORITHMS (BATCH 16-17 ) RE-EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 28 November 2017
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-™~
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (I.T.) Year: Il. Semester: III -
-
-Batch: 2016-17 ~
-Academic Year: 2017-2018 ,
-
-Subject: Data Structures and Algorithms~ ay
-Marks: 70 _sggi\t®¥2 OF
-Date: 28 November 2017” Time: 10,00dm to I
-Duration&/3 (hss) - 4; 4
-No. of Pages, Fix ef
-cy wy
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining six questions, attempt any four questions.
-3) In all five questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data if necessary.
-
-Ql (a) Explain the different tree traversal techniques with suitable example. [4]
-
-(b) What are linear and multidimensional arrays? Explain both with a program of [8]
-addition/multiplication of matrices.
-
-c) Evaluate the following postfix expression (2]
-
-7 8+3 2+ /
-
-Q2 (a) Write a program for Priority Queue using linked list with insert and delete methods. [8]
-(b) Sort the following elements in descending order using Merge Sort algorithm:- [6]
-54, 26, 93, 17, 77, 31, 44, 55, 20.
-
-Q3 (a) Create Binary Search tree using following traversal information: [6]
-Inorder:- DBGEACF
-Postoder:- DGEBFCA
---- page 2 ---
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-(b)
-
-(a)
-
-(b)
-
-(a)
-
-(b)
-
-(a)
-
-(b)
-
-(a)
-
-(b)
-(c)
-
-Explain importance of Time and Space in algorithm formulation. Find worst, best and
-
-average case time complexity of Radix Sort.
-
-Write an algorithm for converting Infix expression to Postfix Expression using Stack.
-Covert the following infix expression to postfix: (a+b-c )*d-(e+f),
-Explain Header Linked List. Write an algorithm for insertion of an element at the
-
-beginning, middle and end of a linked list with suitable examples.
-
-Explain 0/1 — Knapsack problem with a greedy algorithm.
-
-Write an algorithm for Push and POP operation using linear array in a Stack data
-
-structure.
-
-Write an algorithm to insert, delete and search an element into a circular queue
-
-implemented using arrays.
-
-What are different collision resolution techniques for Hashing. Explain all with a same
-
-example.
-
-Compare BigOH, BigOmega and BigTheta notations used for time complexity.
-Explain Tower of Hanoi problem with an example.
-
-Explain Multiway search tree and B-Tree.
-
-AK
-
-[8]
-
-[6]
-
-[8]
-
-[8]
-
-[6]
-
-[8]
-
-[6]
-
-[6]
-
-[4]
-[4]
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper c9d341694379
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/DATA STRUCTURE & ALGORITHMS/DATA STRUCTURE & ALGORITHMS BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: exam date: 30 November 2017
-- Text: text (2 pages)
-
-````text
-----"
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBATech (Computer)   Year: II   Semester: III
-Batch: 2016-17
-Academic Year: 2017-2018
-Subject: Data Structure & Algorithms
-J   Date: 30 November 2017
-Re-Examination
-Q.l   a. Why data structure is so important while solving any problem in computer world give   [6]
-some examples? Explain circular Queue in detail with advantage over linear Queue.
-b.   Describe the correctness of any general Algorithm.   [3]
-c.   Consider two binary operator [and t with precedence of operator t being lower than   [5]
-that of the [. Operator tin right associative while t left associative. Convert the
-following expression in to post fix
-7t3t4t3!2t4t3!2.
-Q.2   a.   Write a function/algorithm to find out whether a link list is circular or not.   [7]
-/
-b.   Write a program to sort the elements of given array in O(n) complexity. Where array   [7]
-°
-contains only two types of numbers   and 1.
-arr[ ]={ 0, 1,0,0, 1, 1, 1,0,0, 1,0, 1, 1,0, o....... }
-Q.3   a.   Perform the in-order, pre-order and post-order traversal technique on Fig.1 of binary   [6]
-search tree and in each step explains why you consider that node.
-b. A PUSHO operation of a stack is defined by the 2X+1 where X is the top of the stack   [4]
-and initially the stack contains 1 where a POPO operation is defined whenever the top
-of stack contain prime no it will pop the that element and .add 1 in it and PUSHO into
-the stack. What will be the contain of stack after 7 PUSHO operation.
--
-c.   Define is array and compare it with Linklist.   [4]
-ljL-
---- page 2 ---
-·   "
-QA   a.   Write a Program! Algorithm for insertion sort and discuss the time complexity for its   [7]
-best and worst case.
-b.   What is a good hash function? Hash the following in the table size of 13 use double
-hashing if collision occurs.   [7]
-Where HI (K)= K mod 13 and H2(K)=8- (K mod 8)
-18,41,44,59,32,31,73,28,33
-Q.5   a.   Write the complexity of heap creation and deletion. Create the max heap tree for the   [7]
-following input.
-21,42,93,84,83,55,83,97,90,80,79,73
-b.   What is the maximum and minimum number of comparisons required to merge sorted   [4]
-list of M and N length. Perform the merge sort on the following data,
-14,31,25,4,74,34,66,7
-c.   Discuss the time complexity of merge sort.   [3]
-Q.6   a.   Find the optimal solution to the fractional knapsack instance n=4,m=15, (pl,p2,p3,p4)   [7]
-= (l0,10,12,18)and (wl,w2,w3,w4)=(2,4,6,9).
-b. What is greedy approach/algorithm? Write down its abstract/general   description   [7]
-algorithm for solving any problem.
-Q.7   Attempt any two:-   [14]
-a.   Big vs Theta vs Omega,
-b. Graph traversing techniques.
-c.   Tic tac toe problem.
-d.   Perform radix sort
-01000 100000110000111 01110 10101 10010 1000000101 01110 11011
-11101 01101 10111 00001 10101
-Fig.l
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper c93b2ec181ed
@@ -12602,6 +12603,93 @@ Figure 2
 2/2
 ````
 
+## 2015-16 · Re-Exam · Sem 3 · paper 6e77fe310bc2
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DATA STRUCTURES & ALGORITHMS/Data Structures and Algorithms Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 03/12/2015
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+\
+
+® Programme:MBA Tech (IT) Year:Il Semester: III
+
+Academic Year: 2015 - 16
+
+A agittTt 0 May
+(4 a.
+0 pros 5.0000 ye
+Pre 2.QOppm
+Bins) |e
+
+yr ah
+Mins
+
+Batch:2013-14 .
+
+Subject : Data Structures and Algorithms ~ Mark:
+
+Date :03/12/2015 Dura
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. one is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+
+6) Assume Suitable data if necessary
+
+Q.1) a) What is Binary Search. Calculate space and time complexity of Binary Search Technique. [10]
+b) Explain how a stack can be used for computation of mathematical expressions. For example
+
+consider the expression (xt+y)*(y-z). [10]
+Q.2) a) Explain the array implementation of a binary tree Cioy
+b) Write the algorithm of Merge Sort. Compute its time complexity. [10]
+
+Q.3) a) Write an algorithm for Priority Queue using linked list with Insert and Extract-Max
+
+Operations of Heap. [10]
+b) Hash the following function in a table of size 12. Use any two collision resolution technique:-
+
+98,20,94,27,67,99,41,0,4,17,2,15 [10]
+Q.4) a) Write a program to sort given n integer number using Heap Sort. [10]
+b) Explain the Tic-Tac-Toe problem in detail. [10]
+
+Q.5) a) Sort the given elements using Quick Sort:-
+26,33,35,29,19,12,22,31 [10]
+
+b) Using Prim’s and Kruskal’s algorithm find Minimum Spanning Tree for the
+
+following Graph. [10]
+--- page 2 ---
+Q.6) a) Explain 0/1 — Knapsack problem. [10]
+b) Write algorithm for BFS. Explain with example. [10]
+
+Q.7) Write short notes on any four the following:- [20]
+(a) Circular Queue.
+(b) Asymptotic Notations.
+(c) Optimal Binary Search Tree.
+(d) Complete Binary Tree.
+
+(e) Hash Table
+(f) Back tracking
+````
+
 ## 2015-16 · Re-Exam · Sem 3 · paper 6a64efdc7a07
 
 - Departments: Information Technology
@@ -12918,6 +13006,401 @@ Write notes on any four of the following: >
 5. Doubly Linked-list
 
 mM ee
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 0fc7f46c939a
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATA STRUCTURES AND ALGORITHMS/DATA STRUCTURES AND ALGORITHMS B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/06/2015
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: II Semester: III -
+Batch: 2013-14 Pye ait
+Academic Year: 2014-2015 OO eet von, Sell ’
+ie re
+Subject: Data Structures and Algorithms (Sf Ms
+Marks: 100 ., °
+Date: 10/06/2015 Time: 2.00 pm: to 5.00 pm
+Durations: 3 (hrs) NC b
+NZ
+Ss
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory
+2. Out of remainin’g , attempt any FOUR questions
+3. Inall FIVE questions to be attempted.
+4. Answer to each new question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+Q.1.A Explain properties of Big Oh, Big Omega and Big Theta with examples. 10
+
+B_ What is a stack? Write algorithms for implementing various stack operations 10
+using linked-list.
+
+Q.2.A Write an algorithm for post-order binary tree traversal. Explain with an 10
+example.
+B_ Write algorithm for Radix sort and explain the working with an example. 10
+
+Q.3.A Sort the following number using heap sort. Create the heap first and then sort 10
+it. Show each step separately
+
+[44 [33 [11 [55 [77 [90 [40 [60 [99 [22 [88 [66. |
+
+B_ Write algorithm for BFS, Explain with example. 10
+Q.4.A Explain Knapsack algorithm with an example. 10
+B_ Find the time complexity for Selection sort, Insertion Sort and Merge Sort. 10
+--- page 2 ---
+Q.5.A Write steps for Kruskal’s algorithm and Solve the following:
+
+B_ What is binary search tree? Write algorithm for insertion of an element in a
+binary tree.
+
+Q.6.A Explain Queue data structure. Write algorithm for insertion and deletion of an
+element from a Queue using array,
+
+B_ Explain N-Queen Problem with example.
+
+Q.7 Write notes on any four of the following:
+1. Backtracking
+2. Hashing
+3. Depth First Search
+4. Dijkstra’s Shortest Path Algorithm
+5. Doubly Linked-list
+
+- 2/ a
+
+10
+
+10
+
+10
+
+10
+
+20
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper d4d0ab04e0d4
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATA STRUCTURES AND ALGORITHMS/DATA STRUCTURES AND ALGORITHMS B TECH (IT), BATCH 2013-14 RE EXAM_d4d0ab04e0.pdf`
+- Printed on paper: exam date: 01/12/2014
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) . Year: II
+
+Semester: II]
+Batch: 2013-2014
+
+Academic Year: 2014-2015
+Subject: Data Structures and Algorithms
+
+Marks: ae J
+
+QD
+Date: 01/12/2014 Time: (CHE) il
+
+Durations: \ irs} 4 BRA
+
+Re-Examination . NG May his ee
+rai
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory.
+2. Attempt any four out of remaining six questions.
+3. Inall 5 questions to be attempted
+4. All questions carry equal marks.
+5. Answer to each new question to be started on fresh page.
+6. Figures in bracket on the right hand side indicate full marks.
+
+Q.1 a) State the time complexities of the following algorithms giving their complexities in 5
+terms of big-O, Q, 6. Quick sort, Selection sort, Shell sort, Insertion sort, Bubble sort.
+b) To construct the binary tree using: 5
+
+Preorder: ABD GCEHIF
+Inorder: DGBAHEICF
+and find the post order.
+c) Explain the divide and conquer technique with suitable example. 10
+
+Q.2 a) Write an algorithm for the binary search. Prove that the complexity of binary searchis 10
+O(log2N),
+b) Give algorithm / pseudo code for Breadth First Search and Use Breadth First Search 10
+technique to traverse a following graph. (Consider the node A as source.)
+
+Q3 a) Explain back tracking method? Develop an algorithm for finding solution to N-queen {Oo
+
+problem.
+b) Write a function to reverse singly linked list in place without creating second linked yo
+list.
+Q4 a) What are different types of graph? Explain the two ways of representation of graph. 10
+b) Write an algorithm to convert the given infix expression in to postfix expression and ite)
+
+explain with suitable example.
+
+Q.5 a) Find minimum cost spanning tree for the given graph figure, using Prim's and 10
+
+Page | of 2
+--- page 2 ---
+Q.6
+
+Q7
+
+Kruskai's Al gorithm.
+
+b) Explain Greedy approach to solve knapsack problem. Find optimal solution to
+knapsack instance where total objects (n) = 5, total capacity (m) = 11, (P1, P2,
+P3,P4,P5) = (1, 6,18,22,28) and (W1, W2, W3,W4,W5) = (1,2,5,6,7).
+
+a) Write a psudo code for following operations related to linear queue using Linked list.
+
+Insertion, deletion, display
+b) Sort the following using Insertion sort. Calculate the time complexity.
+0.79,0.13,0.16, 0.64, 0.39, 0.20, 0.89, 0.53, 0.71, 0.42
+
+Write short note on (any two)
+
+a) Dijekstra’s shortest path
+b) Strassen’s matrix multiplication
+c) Priority Queue
+
+Page 2 of 2
+
+10
+
+10
+
+10
+
+20
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper bd30cd0eb054
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DATA STRUCTURES & ALGORITHMS/DATA STRUCTURES AND ALGORITHMS BATCH 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 100; exam date: 05/12/2014
+- Text: ocr (2 pages), mean OCR confidence 90.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) : Year: II Semester: III
+
+Academic Year: 2014-15 Batch: 2013-14 eo agi V OTE &
+
+Subject : Data Structures and Algorithms
+Marks: 100 ~
+ares RY da
+
+Date : 05/12/2014 Time : 2.00 pri taS.00 pm jg}
+Durations 3 ( ae =o... /
+Re - Examination Me VTS
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
+3. Inall, FIVE (5) questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page
+6. Figure in brackets on the right hand side indicates full marks.
+
+Q1 A __ Define an algorithm. What are the different criteria that are used to ascertain the 5
+efficiency of an algorithm?
+B State and explain master theorem of algorithm. 5
+C — Calculate the time complexity of the following function 10
+
+T(n) = 3T (0/4) +n
+T(n) = 16T(n/4) + n°
+
+Q2 A Explain in detail the data structure Queue. Discuss the complexity of the algorithms 10
+used for inserting and deleting data from Queue.
+B What is graph? Explain the following terms associated with a graph withexample 10
+I Order of a Graph
+II Size of a graph
+III Multiplicity of edge
+IV Isolated vertex
+
+Q3 A For the following graph show the status of Queue for implementing Breadth First 10
+Search. Also explain the algorithm and discuss the time complexity of the same.
+
+ve
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+r s t “a
+
+¥ x y
+
+Compare and contrast Linear Search and Binary search. Which data structure is
+appropriate to implement these algorithms with respect to time?
+
+w
+
+Discuss efficiency consideration of sorting algorithms. Compare atleast five sorting
+algorithms on the basis of data structure used, best case, average case and worst
+case performance.
+
+Explain Radix Sort algorithm with an example.
+
+What is hashing? Explain any 2 collision resolution technique with the help of
+example.
+
+What do you understand by divide and conquer approach? Explain with the help of
+merge sort.
+
+What are the sequence steps of dynamic programming? Explain these steps for
+optimal binary search tree.
+Explain backtracking with the help of Hamiltonian cycle.
+
+Write short notes on any FOUR (4) of the following with examples:
+Interpolation search.
+
+Shell Sort
+
+Real world application of stack
+
+Differentiate between Big O and Small o asymptotic notation.
+Differentiate between Priority Queue and Dequeue
+
+Differentiate between Greedy and Dynamic Programming
+
+2/2.
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 67a8210bca2f
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DATA STRUCTURES & ALGORITHMS/DATA STRUCTURES AND ALGORITHMS BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 12/06/2015
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) Year: II Semester: I
+
+Academic Year: 2014-15 ——
+
+Batch: 2013-14
+
+Subject :Data Structures and Algorithms M 202 TM}
+; Tim QOpm = 5. 60pm) 8 aw
+Date : 12/06/2015 Dur ; ae (ars) _ : Ag 'y
+Re-Examination ay N
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory
+2. Out of remaining , attempt any FOUR questions
+3. Inall FIVE questions to be attempted.
+4. Answer to each new question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q1.a) Perform inorder, preorder, and post order binary tree traversal on given tree (10)
+
+12)
+
+BG) ®& Oo ®
+
+(b) Explain asymptotic notations? Explain properties of BigOh, Big Omega and Big
+
+Theta. (10)
+Q2.a) Explain Prim’s and Kruskal’s algorithm with suitable example (10)
+b) Sort the given values using Merge Sort? “t (10)
+
+26, 88 61, 0, 29, S55, 33, 5, 82, 12
+
+Q3. a) What is a queue? Write down the procedure for implementing various queue
+operations ; (10)
+
+fe
+--- page 2 ---
+b) Explain BFS &DFS algorithm with example (10)
+
+Q4. a) Explain Tic-Tac-Toe problem with example? (10)
+b) Explain fractional-knapsack problem ? (10)
+Q5.a) Write algorithm for Bucket sort and explain the working with an example (10)
+b) Compare linked list to the arrays with reference to the following aspects: (10)
+i) Accessing any element randomly
+ii) Insertion and deletion of an element
+iii) Utilization of computer memory
+
+Q6. a) Explain binary search algorithm with a suitable example (10)
+b) Sort the following number using heap sort. Create the heap first and then sort
+it. Show each step separately (0
+
+[44 [33 [ii [55 [77 [90 |40 [60 [99 [22 [88 [66. |
+
+Q7. Write short notes on (any four) :- (20)
+
+i) Priority Queue
+Definition -2 marks
+Example - 3 marks
+ii) Doubly linked list
+Definition -2 marks
+Example - 3 marks
+iii) Sequential search
+Definition -2 marks
+Example - 3 marks
+iv) Time complexity of Algorithm
+Definition -2 marks
+Example - 3 marks
+v) Hash table
+Definition and explanation -4 marks
+Example - 1 marks
+vi) Insertion Sort
+Definition -2 marks
+Example - 3 marks
+
+pa
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper aaa22327dfa9
@@ -13264,88 +13747,6 @@ Iteration & Recursion
 (5)
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 0fc7f46c939a
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATA STRUCTURES AND ALGORITHMS/DATA STRUCTURES AND ALGORITHMS B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/06/2015
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II Semester: III -
-Batch: 2013-14 Pye ait
-Academic Year: 2014-2015 OO eet von, Sell ’
-ie re
-Subject: Data Structures and Algorithms (Sf Ms
-Marks: 100 ., °
-Date: 10/06/2015 Time: 2.00 pm: to 5.00 pm
-Durations: 3 (hrs) NC b
-NZ
-Ss
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory
-2. Out of remainin’g , attempt any FOUR questions
-3. Inall FIVE questions to be attempted.
-4. Answer to each new question to be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
-Q.1.A Explain properties of Big Oh, Big Omega and Big Theta with examples. 10
-
-B_ What is a stack? Write algorithms for implementing various stack operations 10
-using linked-list.
-
-Q.2.A Write an algorithm for post-order binary tree traversal. Explain with an 10
-example.
-B_ Write algorithm for Radix sort and explain the working with an example. 10
-
-Q.3.A Sort the following number using heap sort. Create the heap first and then sort 10
-it. Show each step separately
-
-[44 [33 [11 [55 [77 [90 [40 [60 [99 [22 [88 [66. |
-
-B_ Write algorithm for BFS, Explain with example. 10
-Q.4.A Explain Knapsack algorithm with an example. 10
-B_ Find the time complexity for Selection sort, Insertion Sort and Merge Sort. 10
---- page 2 ---
-Q.5.A Write steps for Kruskal’s algorithm and Solve the following:
-
-B_ What is binary search tree? Write algorithm for insertion of an element in a
-binary tree.
-
-Q.6.A Explain Queue data structure. Write algorithm for insertion and deletion of an
-element from a Queue using array,
-
-B_ Explain N-Queen Problem with example.
-
-Q.7 Write notes on any four of the following:
-1. Backtracking
-2. Hashing
-3. Depth First Search
-4. Dijkstra’s Shortest Path Algorithm
-5. Doubly Linked-list
-
-- 2/ a
-
-10
-
-10
-
-10
-
-10
-
-20
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper 2504bca6f15f
 
 - Departments: Information Technology
@@ -13418,108 +13819,6 @@ FRAO CREAR RE RAK
 yi
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper d4d0ab04e0d4
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DATA STRUCTURES AND ALGORITHMS/DATA STRUCTURES AND ALGORITHMS B TECH (IT), BATCH 2013-14 RE EXAM_d4d0ab04e0.pdf`
-- Printed on paper: exam date: 01/12/2014
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) . Year: II
-
-Semester: II]
-Batch: 2013-2014
-
-Academic Year: 2014-2015
-Subject: Data Structures and Algorithms
-
-Marks: ae J
-
-QD
-Date: 01/12/2014 Time: (CHE) il
-
-Durations: \ irs} 4 BRA
-
-Re-Examination . NG May his ee
-rai
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Attempt any four out of remaining six questions.
-3. Inall 5 questions to be attempted
-4. All questions carry equal marks.
-5. Answer to each new question to be started on fresh page.
-6. Figures in bracket on the right hand side indicate full marks.
-
-Q.1 a) State the time complexities of the following algorithms giving their complexities in 5
-terms of big-O, Q, 6. Quick sort, Selection sort, Shell sort, Insertion sort, Bubble sort.
-b) To construct the binary tree using: 5
-
-Preorder: ABD GCEHIF
-Inorder: DGBAHEICF
-and find the post order.
-c) Explain the divide and conquer technique with suitable example. 10
-
-Q.2 a) Write an algorithm for the binary search. Prove that the complexity of binary searchis 10
-O(log2N),
-b) Give algorithm / pseudo code for Breadth First Search and Use Breadth First Search 10
-technique to traverse a following graph. (Consider the node A as source.)
-
-Q3 a) Explain back tracking method? Develop an algorithm for finding solution to N-queen {Oo
-
-problem.
-b) Write a function to reverse singly linked list in place without creating second linked yo
-list.
-Q4 a) What are different types of graph? Explain the two ways of representation of graph. 10
-b) Write an algorithm to convert the given infix expression in to postfix expression and ite)
-
-explain with suitable example.
-
-Q.5 a) Find minimum cost spanning tree for the given graph figure, using Prim's and 10
-
-Page | of 2
---- page 2 ---
-Q.6
-
-Q7
-
-Kruskai's Al gorithm.
-
-b) Explain Greedy approach to solve knapsack problem. Find optimal solution to
-knapsack instance where total objects (n) = 5, total capacity (m) = 11, (P1, P2,
-P3,P4,P5) = (1, 6,18,22,28) and (W1, W2, W3,W4,W5) = (1,2,5,6,7).
-
-a) Write a psudo code for following operations related to linear queue using Linked list.
-
-Insertion, deletion, display
-b) Sort the following using Insertion sort. Calculate the time complexity.
-0.79,0.13,0.16, 0.64, 0.39, 0.20, 0.89, 0.53, 0.71, 0.42
-
-Write short note on (any two)
-
-a) Dijekstra’s shortest path
-b) Strassen’s matrix multiplication
-c) Priority Queue
-
-Page 2 of 2
-
-10
-
-10
-
-10
-
-20
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper 35443ee2a764
 
 - Departments: Information Technology
@@ -13575,302 +13874,96 @@ B___ Discuss Kruskal’s algorithm. Generate minimum spanning tree for the follo
 Va
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper bd30cd0eb054
+## 2012-13 · Exam not stated · Trim 4 · paper 465cf62a3644
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DATA STRUCTURES & ALGORITHMS/DATA STRUCTURES AND ALGORITHMS BATCH 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 100; exam date: 05/12/2014
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (IT) : Year: II Semester: III
-
-Academic Year: 2014-15 Batch: 2013-14 eo agi V OTE &
-
-Subject : Data Structures and Algorithms
-Marks: 100 ~
-ares RY da
-
-i wt LY g RA }
-Date : 05/12/2014 Time : 2.00 pri taS.00 pm jg}
-Durations 3 ( ae =o... /
-Re - Examination Me VTS
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory.
-2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
-3. Inall, FIVE (5) questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page
-6. Figure in brackets on the right hand side indicates full marks.
-
-Q1 A __ Define an algorithm. What are the different criteria that are used to ascertain the 5
-efficiency of an algorithm?
-B State and explain master theorem of algorithm. 5
-C — Calculate the time complexity of the following function 10
-
-T(n) = 3T (0/4) +n
-T(n) = 16T(n/4) + n°
-
-Q2 A Explain in detail the data structure Queue. Discuss the complexity of the algorithms 10
-used for inserting and deleting data from Queue.
-B What is graph? Explain the following terms associated with a graph withexample 10
-I Order of a Graph
-II Size of a graph
-III Multiplicity of edge
-IV Isolated vertex
-
-Q3 A For the following graph show the status of Queue for implementing Breadth First 10
-Search. Also explain the algorithm and discuss the time complexity of the same.
-
-ve
---- page 2 ---
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-r s t “a
-
-¥ x y
-
-Compare and contrast Linear Search and Binary search. Which data structure is
-appropriate to implement these algorithms with respect to time?
-
-w
-
-Discuss efficiency consideration of sorting algorithms. Compare atleast five sorting
-algorithms on the basis of data structure used, best case, average case and worst
-case performance.
-
-Explain Radix Sort algorithm with an example.
-
-What is hashing? Explain any 2 collision resolution technique with the help of
-example.
-
-What do you understand by divide and conquer approach? Explain with the help of
-merge sort.
-
-What are the sequence steps of dynamic programming? Explain these steps for
-optimal binary search tree.
-Explain backtracking with the help of Hamiltonian cycle.
-
-Write short notes on any FOUR (4) of the following with examples:
-Interpolation search.
-
-Shell Sort
-
-Real world application of stack
-
-Differentiate between Big O and Small o asymptotic notation.
-Differentiate between Priority Queue and Dequeue
-
-Differentiate between Greedy and Dynamic Programming
-
-2/2.
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 67a8210bca2f
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DATA STRUCTURES & ALGORITHMS/DATA STRUCTURES AND ALGORITHMS BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 12/06/2015
-- Text: ocr (2 pages), mean OCR confidence 88.0
+- Departments: Computer Engineering, Information Technology
+- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/DATA STRUCTURES AND ALGORITHMS/scan0015(5).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/10/2012
+- Text: ocr (2 pages), mean OCR confidence 90.3
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (IT) Year: II Semester: I
+. Mukesh Patel School Of Technology Management & Engineering:
+Programme: MBA(Tech)-(1.T./COMP.) Year: II Trimester: IV
 
-Academic Year: 2014-15 ——
+Academic Year : 2012-2013
 
-Batch: 2013-14
+Subject: DATA STRUCTURE & ALGORITHMS Marks: 100
 
-Subject :Data Structures and Algorithms M 202 TM}
-; Tim QOpm = 5. 60pm) 8 aw
-Date : 12/06/2015 Dur ; ae (ars) _ : Ag 'y
-Re-Examination ay N
+Time: 2.00pm To 5.00pm
+Duration: 3 hrs.
+Final - Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+Date: 30/10/2012
 
-NB:
-1. Question No. 1 is compulsory
-2. Out of remaining , attempt any FOUR questions
-3. Inall FIVE questions to be attempted.
-4. Answer to each new question to be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
+Instructions to the candidates:
 
-Q1.a) Perform inorder, preorder, and post order binary tree traversal on given tree (10)
+1) Question no. 1 is compulsory.
 
-12)
+2) Attempt any four Questions from question no.2 to Question no. 7.
+3) In all 5 questions to be attempted.
 
-BG) ®& Oo ®
+4) All questions carry equal marks.
 
-(b) Explain asymptotic notations? Explain properties of BigOh, Big Omega and Big
+5) Answer to each question to be started on a fresh page.
 
-Theta. (10)
-Q2.a) Explain Prim’s and Kruskal’s algorithm with suitable example (10)
-b) Sort the given values using Merge Sort? “t (10)
+we
 
-26, 88 61, 0, 29, S55, 33, 5, 82, 12
+Q. No. | Questions Marks
 
-Q3. a) What is a queue? Write down the procedure for implementing various queue
-operations ; (10)
+a. Write short notes on (any 4) 20
+i. Threaded Binary Tree
+ii. Preorder Traversal
+ili, Asymptotic notations
+iv. Minimum Spanning Tree
+v. NP Problems
 
-fe
+2
+a. Explain Knapsack under greedy approach with example & Write the 10
+algorithm for it.
+10
+b. Explain DFS & BFS in detail with suitable example.
+3
+4 a. Write algorithms for Bubble sort & Insertion sort & give complexities of each 10
+} for all cases.
+10
+b. Explain Time & Space Complexity. Calculate the same for following
+algorithm using step per execution table.
+Algo > 1. Algorithm Add (a,b,c,m,n)
+2. {
+3. for i=1 to m do
+4, for j=1 ton do
+5. cfi,j]= afl, j) + bUl. J}:
+} 6. }
+av 7
+a. Write & Explain algorithm for inserting node in doubly linked list at different 10
+positions as, insertion in a) Beginning b) Middle c) Last.
+Consider suitable example & show status of linked list after each insertion. 10
+b. Explain Traveling Salesman problem with example & Write the algorithm
+for it.
+5 2
+a. Explain Hamiltonian cycles with example & Write the algorithm for it. 8
+
+Vo.
 --- page 2 ---
-b) Explain BFS &DFS algorithm with example (10)
+ee
 
-Q4. a) Explain Tic-Tac-Toe problem with example? (10)
-b) Explain fractional-knapsack problem ? (10)
-Q5.a) Write algorithm for Bucket sort and explain the working with an example (10)
-b) Compare linked list to the arrays with reference to the following aspects: (10)
-i) Accessing any element randomly
-ii) Insertion and deletion of an element
-iii) Utilization of computer memory
-
-Q6. a) Explain binary search algorithm with a suitable example (10)
-b) Sort the following number using heap sort. Create the heap first and then sort
-it. Show each step separately (0
-
-[44 [33 [ii [55 [77 [90 |40 [60 [99 [22 [88 [66. |
-
-Q7. Write short notes on (any four) :- (20)
-
-i) Priority Queue
-Definition -2 marks
-Example - 3 marks
-ii) Doubly linked list
-Definition -2 marks
-Example - 3 marks
-iii) Sequential search
-Definition -2 marks
-Example - 3 marks
-iv) Time complexity of Algorithm
-Definition -2 marks
-Example - 3 marks
-v) Hash table
-Definition and explanation -4 marks
-Example - 1 marks
-vi) Insertion Sort
-Definition -2 marks
-Example - 3 marks
-
-pa
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 6e77fe310bc2
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DATA STRUCTURES & ALGORITHMS/Data Structures and Algorithms Batch 2013-14 Re Exam.pdf`
-- Printed on paper: exam date: 03/12/2015
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-\
-
-® Programme:MBA Tech (IT) Year:Il Semester: III
-
-Academic Year: 2015 - 16
-
-A agittTt 0 May
-(4 a.
-0 pros 5.0000 ye
-Pre 2.QOppm
-Bins) |e
-
-yr ah
-Mins
-
-Batch:2013-14 .
-
-Subject : Data Structures and Algorithms ~ Mark:
-
-Date :03/12/2015 Dura
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. one is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-
-5) Figures in brackets on the right hand side indicate full marks.
-
-6) Assume Suitable data if necessary
-
-Q.1) a) What is Binary Search. Calculate space and time complexity of Binary Search Technique. [10]
-b) Explain how a stack can be used for computation of mathematical expressions. For example
-
-consider the expression (xt+y)*(y-z). [10]
-Q.2) a) Explain the array implementation of a binary tree Cioy
-b) Write the algorithm of Merge Sort. Compute its time complexity. [10]
-
-Q.3) a) Write an algorithm for Priority Queue using linked list with Insert and Extract-Max
-
-Operations of Heap. [10]
-b) Hash the following function in a table of size 12. Use any two collision resolution technique:-
-
-98,20,94,27,67,99,41,0,4,17,2,15 [10]
-Q.4) a) Write a program to sort given n integer number using Heap Sort. [10]
-b) Explain the Tic-Tac-Toe problem in detail. [10]
-
-Q.5) a) Sort the given elements using Quick Sort:-
-26,33,35,29,19,12,22,31 [10]
-
-b) Using Prim’s and Kruskal’s algorithm find Minimum Spanning Tree for the
-
-following Graph. [10]
---- page 2 ---
-Q.6) a) Explain 0/1 — Knapsack problem. [10]
-b) Write algorithm for BFS. Explain with example. [10]
-
-Q.7) Write short notes on any four the following:- [20]
-(a) Circular Queue.
-(b) Asymptotic Notations.
-(c) Optimal Binary Search Tree.
-(d) Complete Binary Tree.
-
-(e) Hash Table
-(f) Back tracking
+12
+|
+b. Define graphs. Explain the concept of AND / OR graphs. Write short note on graph
+| colouring concept.
+a. Explain Dijikstra’s shortest path method with suitable example. 10
+b. Explain job sequencing with deadline with example & Write the algorithm 10
+for it.
+a. Explain quick sort.using divide & conquer technique with example & Write the 10
+algorithm for it & comment on its complexities.
+b. Solve the following using Strassen’s matrix multiplication and write down the
+analysis. 10
+A= 79 B=32
+25>. 6 5
+-
 ````
 
 ## 2012-13 · Re-Exam · Trim 4 · paper 0e4c7d6c38f9
@@ -14045,6 +14138,7 @@ Q7.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/DATA STRUCTURES AND ALGORITHMS/data structure and algorithms 2010-2011.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28/10/2010
 - Text: ocr (2 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -14126,7 +14220,6 @@ c) Dynamic algorithm
 B) Explain what is mean by Heap. Also define Max Heap and Min Heap. Explain the
 process for Heap sort.
 
-SRR RR RR RR EK EE EE
 
 12
 
@@ -14637,96 +14730,4 @@ Write short notes on: (20)
 3. Tower of Hanoi using Recursion.
 
 4. Priority queues.
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 465cf62a3644
-
-- Departments: Computer Engineering, Information Technology
-- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/DATA STRUCTURES AND ALGORITHMS/scan0015(5).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/10/2012
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS
-
-. Mukesh Patel School Of Technology Management & Engineering:
-Programme: MBA(Tech)-(1.T./COMP.) Year: II Trimester: IV
-
-Academic Year : 2012-2013
-
-Subject: DATA STRUCTURE & ALGORITHMS Marks: 100
-
-Time: 2.00pm To 5.00pm
-Duration: 3 hrs.
-Final - Examination
-
-Date: 30/10/2012
-
-Instructions to the candidates:
-
-1) Question no. 1 is compulsory.
-
-2) Attempt any four Questions from question no.2 to Question no. 7.
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each question to be started on a fresh page.
-
-we
-
-Q. No. | Questions Marks
-
-a. Write short notes on (any 4) 20
-i. Threaded Binary Tree
-ii. Preorder Traversal
-ili, Asymptotic notations
-iv. Minimum Spanning Tree
-v. NP Problems
-
-2
-a. Explain Knapsack under greedy approach with example & Write the 10
-algorithm for it.
-10
-b. Explain DFS & BFS in detail with suitable example.
-3
-4 a. Write algorithms for Bubble sort & Insertion sort & give complexities of each 10
-} for all cases.
-10
-b. Explain Time & Space Complexity. Calculate the same for following
-algorithm using step per execution table.
-Algo > 1. Algorithm Add (a,b,c,m,n)
-2. {
-3. for i=1 to m do
-4, for j=1 ton do
-5. cfi,j]= afl, j) + bUl. J}:
-} 6. }
-av 7
-a. Write & Explain algorithm for inserting node in doubly linked list at different 10
-positions as, insertion in a) Beginning b) Middle c) Last.
-Consider suitable example & show status of linked list after each insertion. 10
-b. Explain Traveling Salesman problem with example & Write the algorithm
-for it.
-5 2
-a. Explain Hamiltonian cycles with example & Write the algorithm for it. 8
-
-Vo.
---- page 2 ---
-ee
-
-12
-|
-b. Define graphs. Explain the concept of AND / OR graphs. Write short note on graph
-| colouring concept.
-a. Explain Dijikstra’s shortest path method with suitable example. 10
-b. Explain job sequencing with deadline with example & Write the algorithm 10
-for it.
-a. Explain quick sort.using divide & conquer technique with example & Write the 10
-algorithm for it & comment on its complexities.
-b. Solve the following using Strassen’s matrix multiplication and write down the
-analysis. 10
-A= 79 B=32
-25>. 6 5
--
 ````

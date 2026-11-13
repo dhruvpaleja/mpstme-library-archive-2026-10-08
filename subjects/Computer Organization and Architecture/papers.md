@@ -2226,6 +2226,119 @@ more suitable for complex desktop applications compared to RISC.
 Page 2 of 2
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 5e3c22be2838
+
+- Departments: Computer Engineering, Cyber Security, Information Technology
+- Programmes: B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / I T, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER ORGANIZATION AND ARCHITECTURE/Computer Organization and Architecture, Sem-IV, Final & Re Exam 2022-23.pdf` (+5 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 83.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+Program/s: B TECH / MBA TECH /B. Tech Integrated
+Stream/s : IT/Comp Engg/CSE CS
+
+Year: II/[V Semester: IV /VIII
+
+Subject: Computer Organization and Architecture
+
+Time: 03 hrs (Jo:ocamto 1200pm)
+Date:_25 / 4 / 2024 No. of Pages: 2
+Marks: 100
+
+Final Examination/ Re-examination(2022-23)
+
+Instructions: Candidates should read.carefully the instructions printed on th
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory:
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly:
+
+col fa.
+
+SO1,2 Describe the functional components of computer. {5]
+BL3
+
+co2 |b. 5]
+$O1,2 Define any five elements of cache design.
+
+BL-1
+
+Cco2 c. . . [5]
+SO1,2 Explain memory hierarchy in brief.
+
+BL-2
+
+cos | 4. {5}
+SO1,2 Sketch and explain combinational circuit based ALU.
+BL-2,3
+
+Q2 a
+ot What are the different types of system buses? Explain Bus hierarchy in brief. | [10]
+SO1,2
+BL-1,2
+b. | Consider a direct mapped cache of size 16 KB with block size 256 bytes. The
+co2 size of main memory is 128 KB. Find
+1. Number of bits in tag - | (10)
+
+2. Tag directory size
+
+Page 1 of 2
+--- page 2 ---
+Q3 Fe {10}
+CO3 . . oo, . . 2
+S01,2 Discuss the Hardwired control unit with suitable diagram.
+BL-2
+a Draw the flowchart of Booth’s algorithm. Evaluate (+7) * (+3) using Booth's _ | [10]
+BL-3,5 algorithm.
+Q4 [10]
+CO2 . . + . . . + .
+SO1,2 Describe functioning of Associative memory with its associated register.
+BL-2 .
+CoO4 [10]
+SOl Explain how super-scaler processor helps in parallel computing. Describe the
+process with neat diagram.
+BL1,2
+Q5 ; . .
+CO3 How do we represent the floating-point number in IEEE 754 format?
+$O1,2 Represent the number “263.3” in single precision format and double precision | [10]
+BL-1,5 format.
+CO3 : . . . . . . +
+SO1,2 Draw the instruction cycle and explain along with various registers involved in [10]
+BL-2,3 | | it.
+Q6
+Cco4 Describe the concept of Interrupt Driven I/O and its role in improving system [10]
+SO1,2 performance.
+BL-2
+col . . . . oo, . [10]
+SO1,2 What is Bus arbitration technique ? Explain any one arbitration method in
+BL-1,2 detail.
+Q7 Discuss the following in brief [10]
+sce l.. Graphics Processing Unit (GPU)
+BL-2 2. Direct Memory Access (DMA)
+CcO2 [10]
+fee Draw and explain the architecture diagram of 8086 microprocessor
+
+Page 2 of 2
+````
+
 ## 2023-24 · Final-Exam · Sem 3 · paper 8a43355a7075
 
 - Departments: Computer Science and Business Systems
@@ -2616,117 +2729,91 @@ control unit.
 CO-3; SO-1; BL-2 \Ilustrate with a neat diagram the working of 8086 CPU in detail. [10]
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 5e3c22be2838
+## 2023-24 · Re-Exam · Sem 3 · paper 36b7f61d0323
 
-- Departments: Computer Engineering, Cyber Security, Information Technology
-- Programmes: B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / I T, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER ORGANIZATION AND ARCHITECTURE/Computer Organization and Architecture, Sem-IV, Final & Re Exam 2022-23.pdf` (+5 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 83.5
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/Computer Organization and Architecture/Computer Org & Architecture , Re-exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/23
+- Text: ocr (2 pages), mean OCR confidence 89.5
 
 ````text
+WSMIUTE Oe
+
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
 Academic Year: 2023-2024
-Program/s: B TECH / MBA TECH /B. Tech Integrated
-Stream/s : IT/Comp Engg/CSE CS
 
-Year: II/[V Semester: IV /VIII
+Program: MBA Tech Stream : IT Year: II Semester: III
 
-Subject: Computer Organization and Architecture
+Subject: Computer Organization and Architecture Time: 3 hrs (10:00 AM to 01:00 PM)
+Date: 27/11/23 No. of Pages: 02
 
-Time: 03 hrs (Jo:ocamto 1200pm)
-Date:_25 / 4 / 2024 No. of Pages: 2
 Marks: 100
 
-Final Examination/ Re-examination(2022-23)
+Re-examination 2022-23
 
-Instructions: Candidates should read.carefully the instructions printed on th
-the cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-1) Question No. _1___ is compulsory:
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all__5__ questions to be attempted.
-
+on 1) Question No. _1_ is compulsory.
+2) Out of remaining questions, attempt any __4 questions.
+3) In all_S_ questions to be attempted.
 4) All questions carry equal marks.
-
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql
-Answer briefly:
+Qi Answer briefly [20]
+CO-1; SO-1; BL-1 a. | List the elements of bus design [5]
+CO-2; SO-1; BL-4_ | >. | Differentiate between RAM and ROM [5]
+CO-3; SO-1; BL-3 c. | Calculate (19)i0 — (23)10 using 2’s compliment method [5]
+CO-4; SO-1: BL-2 d. | List the uses and advantages of GPU [5]
+ya Q2
+CO-2; SO-1; BL-2 a. | Explain the types of replacement algorithms for cache memory [10]
 
-col fa.
+Illustrate with the help of example the operational concept of a computer
+CO-1; $O-1; BL-2_ | ». [10]
+system
 
-SO1,2 Describe the functional components of computer. {5]
-BL3
+Q3
 
-co2 |b. 5]
-$O1,2 Define any five elements of cache design.
+List mapping techniques for cache memory. Explain with the help of a
+CO-2; SO-1; BL-2. | 4 vas . . [10]
+neat sketch set-associative cache mapping technique
 
-BL-1
+Explain with the help of example the types of addressing modes for 8086
 
-Cco2 c. . . [5]
-SO1,2 Explain memory hierarchy in brief.
+3: le . b.
+CO-3; SO-1; BL-2 CPU
 
-BL-2
-
-cos | 4. {5}
-SO1,2 Sketch and explain combinational circuit based ALU.
-BL-2,3
-
-Q2 a
-ot What are the different types of system buses? Explain Bus hierarchy in brief. | [10]
-SO1,2
-BL-1,2
-b. | Consider a direct mapped cache of size 16 KB with block size 256 bytes. The
-co2 size of main memory is 128 KB. Find
-1. Number of bits in tag - | (10)
-
-2. Tag directory size
-
-Page 1 of 2
+[10]
 --- page 2 ---
-Q3 Fe {10}
-CO3 . . oo, . . 2
-S01,2 Discuss the Hardwired control unit with suitable diagram.
-BL-2
-a Draw the flowchart of Booth’s algorithm. Evaluate (+7) * (+3) using Booth's _ | [10]
-BL-3,5 algorithm.
-Q4 [10]
-CO2 . . + . . . + .
-SO1,2 Describe functioning of Associative memory with its associated register.
-BL-2 .
-CoO4 [10]
-SOl Explain how super-scaler processor helps in parallel computing. Describe the
-process with neat diagram.
-BL1,2
-Q5 ; . .
-CO3 How do we represent the floating-point number in IEEE 754 format?
-$O1,2 Represent the number “263.3” in single precision format and double precision | [10]
-BL-1,5 format.
-CO3 : . . . . . . +
-SO1,2 Draw the instruction cycle and explain along with various registers involved in [10]
-BL-2,3 | | it.
-Q6
-Cco4 Describe the concept of Interrupt Driven I/O and its role in improving system [10]
-SO1,2 performance.
-BL-2
-col . . . . oo, . [10]
-SO1,2 What is Bus arbitration technique ? Explain any one arbitration method in
-BL-1,2 detail.
-Q7 Discuss the following in brief [10]
-sce l.. Graphics Processing Unit (GPU)
-BL-2 2. Direct Memory Access (DMA)
-CcO2 [10]
-fee Draw and explain the architecture diagram of 8086 microprocessor
+Q4
 
-Page 2 of 2
+i
+
+Develop and explain the flowchart for Interrupt Initiated I/O mode of data
+
+CO-4; $O-2; BL-6 Ta
+transfer
+
+CO-4; SO-1; BL-2 Explain the architecture of Superscalar processors [10]
+Q5
+
+CO-2: SO-1; BL-4 Classify the types of RAM and explain any one type in detail [10]
+
+CO-1; SO-1; BL-2 Explain the types of bus arbitration with the help of neat diagrams. [10]
+Q6
+
+CO-3; SO-2; BL-6 Design Full Subtractor circuit [10] <™
+
+CO-3; SO-1; BL-1 List and explain the types of logical instructions for 8086 CPU [10]
+Q7
+
+CO-4; SO-1; BL-2 With the help of a neat diagram explain hardwired control unit in detail [10]
+
+CO-3; $O-1; BL-3 Solve 3 X 7 using booth’s algorithm [10]
 ````
 
 ## 2022-23 · Final-Exam · Sem 3 · paper 46f79f9913b5
@@ -3040,6 +3127,7 @@ af
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-III/COMPUTER ORGANIZATION AND ARCHITECTURE/Commputer Organization and Architecture, 2nd Year, Sem III, Year 2022-23, Fianl Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 November 2022
 - Text: ocr (12 pages), mean OCR confidence 83.6
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 oe wee \ =
@@ -3460,7 +3548,6 @@ Figure-1 (For Question2)
 MIPS fener
 FOR- {FUNCT
 Refer ence Data NAME, MNEMONIC MAT OPERATION (Hex)
-OPCODE BranchOnFPTrue beit FI if(FPcond)PC=PC+4+BranchAddr (4) 11/8/1/--
 CORE INSTRUCTION a /FUNCT   BranchOn FP False be1f FI _ if{! FPcond)PC=PC+44BranchAddr (4) ni
 MNEM OPERATION (in Veril (He Divide div R   Lo=R{rs}/R[rt}; Hi=R[rs]%R[rt] O/-I-/la
 aaa we “ R[rd] = R[rs) +R[rt] ——_ (1) of = Divide Unsigned diva R_ Lo=Rfrs)/R[rt};Hi=R[rs]%R[rt] (6) O/~/~-/1b
@@ -3468,14 +3555,10 @@ aaa we “ R[rd] = R[rs) +R[rt] ——_ (1) of = Divide Unsigned diva R_ Lo=Rfrs
 Add Immediate addi 1 R{rt] =R[rs]+ SignExtimm (1,2) 8, FP Add casa BR {F[fa],F[fd+l]} = (F [fs], F[fs4i]} + 1-10
 Add Imm. Unsigned addiu I R[rt]=R{rs]+ SignExtimm (2) yee Double . {F[ft],F[ft+1}}
 Add Unsigned addu R_ R{rd]=R[rs]+ R[rt] . 0/21, FP Compare Single c.xs* FR FPcond = (F[fs] op F[ft])?1:0 11/10/—-/y,
-d= 0/24, FP Compare coxa FR FPcond = ({F[fs],F[fs+1]} op IWur-ly
 And and. OR Rirdl= Rls] elt] 74x Double Me (F(A) F[A+I)}) ? 1:0
-And Immediate andi I R{rt]=R[rs] & ZeroExtimm (3) Sy * (xis eq, lt, orle) (op is ==, <, or <=) (y is 32, 3c, or 3e)
 if(R[rs]==Rhrt) FP Divide Single div.s FR F{fd]= F[fs] / Fift] Li/o/—/3
-BranchOn Equal bea | 1 “BC pcy4yBranchAddr (4) the FP Divide aiv.a FR fFUGLFIGH] = (FUSLFISHIN ayy
 if(R[cs}!=R[rt]) - Double . {ELA F[ft+1]}
 Branch On Not Equalbne = 1 "po pGy 4 BranchAddr (4) Phew FP Multiply Single mul.s FR F[fd] = F[fs] * F[ft] 1I/10/—-/2
-EP Multiply (Fifa). Flfd+1]} = (FUGLF(6+H)}* yyy
 Jump 3 J PC=JumpAddr () Ae Double mid FR trigprieeyy
 Jump And Link jal J R(31]=PC+8;PC=JumpAddr (5) 3x FP Subtract Single sub.s FR F[fd]=F[fs] - F[ft] 11/10/-/1
 Jump Register jr R_ PC=R[rs] 0/08, FP Subtract sub.a FR {Flfd],Flfd+l]} = (F[fs),F[fs+1}} - 1y/Li/—f1
@@ -3483,16 +3566,12 @@ R[rt]={24’b0,M[R{rs] 4 Double | {F[ft],F[ft+1]} -
 Load Byte Unsigned Ibu I “+SignExtimm|(7.0)} (2) “*vex Load FPSingle = wer I F{rt]=M{[R[rs]+SignExtlmm] (2) 31/~/-S
 L =_ Load FP F[rt}]=M[R[rs]+SignExtimm]; (2) 36, . 7,
 oad Halfword R[rt]={16°b0,M[R[rs] ldc1 I 35/--/--/-
-lho oT . Bree Double F[rt+l]=M[R[rs]+SignExtImm-+4]
 Unsigned +SignExtImm](15:0)} (2) ae fon
 . Move From Hi mfhi R_ R[rd]=Hi O/--/--/10
 Load Linked 11 I R[rt]=M[R[rs]+SignExtimm] (2,7) 30, MoveFromLo flo R R[rd]=Lo O/-/-/12
 Load UpperImm. lui I R[rt] = {imm, 16’b0} fx Move From Control mfco R_ R[rd] = CR[rs} 10/0/--/0
 Load Word lw I R{rt] = M[R[rs]+SignExtimm] (2) 23,., vuely 7 mult 7 ae = ae * Riri © ane
 _ F 0/27, Multiply Unsigned multu {Hi,Lo} = R{rs] * R[rt 6) Of-/--
-Nor nor RK Ried] =~ (Rirs] | Rirt]) Vr Shige Right Arith. sra R_ R[rd] =R[rt] >> shamt O/-I-13
-Or or RR Rird) = Rfrs} | Rirt] 9725..   StoreFP Single swct_ 1 M[R(ts]+SignExtImm]=F[rt] (2) 39/-/-/-
-Or Immediate ori I R[rt] = R[rs] | ZeroExtimm (G3) 4, Store FP wae 1 M[R[rs]+SignExtimm] = F[rt}; (2) 34/11
 Set Less Than sit R R{rd] = (R[rs] < R[rt]) 71:0 0/2a,, Double M[R[rs]+SignExtimm+4] = F[rt+1]
 Set Less Than Imm. siti 1 Ri{rt] =(R[rs] < SignExtImm)? 1:0 (2) ae FLOATING-POINT INSTRUCTION FORMATS
 Set Less Than Imm. .,., Rit] = (Rirs] < SignExtimm) FR opcode | fmt [ft fs fa funct
@@ -3516,7 +3595,6 @@ Subtract Unsigned subu = R_ R{rd]=R[rs] - R[rt] 0/23,, ACALL?
 (1) May cause overflow exception $zero 0 The Constant Value 0 NLA.
 ie Senkxtimm ={ pore Ae aynesiate } Sat 1___Assembler Temporary No
 roExtIm: '0}, immediate r
-() umpaddr=(Pcvalsto8} ares 700) west 23 Gnd Eipesionttusion’ N°
 jump. =i +: :28], address, 2” q =
 (6) Operands considered unsigned numbers (vs. 2's comp.) $00:883 4°7__Arguments Ho
 (7) Atomic test&set pair; R[rt] = 1 if pair atomic, 0 if not atomic St0-$t7__8:15._ Temporaries No
@@ -3539,7 +3617,6 @@ Re ASCII SYMBOLS STANDARD IEEE 754 Symbols
 Hexa- ASCII Hexa- ASCII i
 Deci- Deci- Exponent | Fraction] Object
 opcode —funct funct | Binary i deci- Char- na deci- Char- (-1)5X(1 + Fraction) x 2(ExPonent - Bias) ? ? oe
-(31:26) (5:0) (5:0) mal mal_acter|™@! mal acter Ba
 Q) sll aaaf 000000 0 0 NUL| 64 40 @ where Single Precision Bias = 127, : #0 | +Denorm
 sub,f 000001 1 1 SOH/65 41 A Double Precision Bias = 1023 1 to MAX- 1 | anything [+ FL Pt. Num.
 i srl mul 000010 2 2 STX|66 42 B MAX 0 =
@@ -3547,14 +3624,12 @@ jal sra_ div 000011 3 3 _ETX| 67 4 C IEEE Single Precision and MAX #0 NaN
 beq sllv “ sart, 000100 4 4 EOT|/ 68 44 D Double Precision Formats: SP. MAX= 255, D.P MAX= 2047
 bne abs, 000101 S 5 ENQ|69 45 E =
 blez sriv nov 000110 6 6 ACK| 70 46 F [s] Exponent | Fraction ]
-bgtz srav neg f ooOollL 7 7 BEL|71 47 G 3_30 BRB a cease
 addi jr 001000 8 8 BS | 72 48 H Ss Exponent Fraction
 addiu jalr 001001 9 9 HT|73 49 I IL ss J aa
 siti movz 001010 10 a LF/74 4a Jj
 Sear eae me fF Le Oe MEMORY ALLOCATION STACK FRAME wher
 andi syscall round.wf| 001100 12. c FF |76 4c L Ssp —> 7067 fife, Stack aa Memo
 ori break trunc.wf| 001101 13. d CR|77 44 M “s Argument areas
-xord ceil.wf | 001110 14 e SO|78 4e N ‘Argument $ iat
 lui_ssynefloor.wf/ 001111 15 f SI | 79 4f O Sfp —>
 és — 010000 16 «10 DLE] 80 50 P D 4 5 Saved Registers | oy
 2) nm 010001 17 11 DC1| 81 51 ynarnic Data .
@@ -3571,7 +3646,6 @@ divu O1t0l1 27 Ib ESC| 91 5b [| DATA ALIGNMENT
 011100 28 4 FS |92 3c \ Double Word
 011101 29 id GS | 93 5d J .
 01111030 le RS |94 5e A ators : Word
-Oll111 31 if US |95 Sf _ Halfword Halfword Halfword Halfword -
 Tb add evt.sf | 100000 32 20 Space} 96 60 * B Bi B B Byt B B B
 wh addu cyt af | 100001 33 21 1 | 97, 61 a I me | ye | Sve | vee me | ve | Bye [ re
 oa ae 0 paie a 2 : 4 o b Value of three least significant bits of byte address (Big Endian)
@@ -3581,7 +3655,6 @@ lw xor 100110 38 26 & |102 66 f ; Mask
 nor 100111 39 27, * =+(|103. 67 g a
 - 101000 40. 28 + ( (104 68 h Pending
 8 101001 41 29 ) /105 69 i
-mal vale 1010 42 2a * jigs ga ~ Antern : . aa
 = see 8 ar + = + ae oa 1 BD = Branch Delay, UM= User Mode, EL = Exception Level, IE= Interrupt Enable
 101101 45 2d - [109 6d m EXCEPTION CODES
 ewr 101110 46 2e . |110 6e on < i
@@ -3602,7 +3675,6 @@ c.ltf 111100 60 3c 8 60< «(124 «=7c | SIZE | PREFIX | SYMBOL} size | PREFIX | 
 at o-naes 111101 61 3d = [125 7d} 1a [Kio | «| 2 [xe s 1000 | Fs = | > [a a
 ic: c.ley 111110 62 3e «=> {126 7e ~ : = a Th 7
 c-ngtf | 111111 63 3f 2 (127 7f DEL lS ee
-7 a 1900 | Giga- G 2 | Gii- a +1000" | Yotta- Y » Yobi- Xi
 (1) opcode) 31:26) == Se eo
 
 (2) opcode(31:26) == 17, (11,_.); if fmt(25:21)==16,,, (10,_.) f= s (single); = = : =
@@ -4075,6 +4147,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-III/COMPUTER ORGANIZATION AND ARCHITECTURE/Computer Organization & Architecture, Sem-III, Year 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (12 pages), mean OCR confidence 83.8
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ‘e
@@ -4525,11 +4598,8 @@ cl i =PC+4+ B/M--
 CORE INSTRUCTION SET OPCODE BranchOnFP True bet FI if{FPoond)PC=PC+4+BranchAddr (4) 11/
 (oN FOR: 7EUNCT Branch On FP False bc1f FI if(! FPcond)PC=PC-+4+-Branchaddr (4) _11/8/0/--
 NAME, MNEMONIC MAT —_ OPERATION (in Verilog) Gj Ne div RK Lo=Rirs}/R[rt}; Hic R[rs]%Rirt] iad
-Add aa RRird}= Ris) + Rt} (1) 0/20, Divide Unsigned diva R- Lo=Rfrs|/Rfrt]; Hi=R[rs}%R[rt} (6) O/--/—-/Ib
 a d= RUS} ‘= FP Add Single add.s FR Fifd |= F[fs} + F[ft] MNO/--10
-Addimmediate addi] R{rt] =R[rs]+SignExtImm (1,2) 8, FP Add ada.a FR (FIALFIGH) = (FIGSLFIGHD + ayo
 Add Imm. Unsigned addi 1 R{rt}=R[rs]+ SignExtImm (2) Double : {FER F[f+H}
-Add Unsigned addy R RirdJ=Rfrs]+ R[st] 0/21,, FP CompareSingle c.xe FR FPcond = (F{fs) op F(ft])? 1:0 1NO/-/y
 FP Compare FPcond = ({F[fs},F[fs+]} op tet
 And and R_ R{rd)= R[rs] & R[rt] 0/24... Double coxa FR {F(A F{fe+l]}) 21-0 JAL—-ly
 And immediate andi-_—s1_—R[rt] = Rr] & ZeroExtimm 3) See * (xis eq, it, orle) (op is ==, <, or <=) (9’is 32, 3c, or 3e)
@@ -4537,22 +4607,16 @@ it(R(rs]==RIn)) i EP Divide Single div.s FR Flfd]—F(f&}/Fift) 1N0/-B
 Branch@n Equal beq = | BC pete Bran (4) Ae FP Divide aiv.a FR (FIALFIG+)) = (FUL FISH iy
 - . if(R(rs}!=R[rt]) 5 Double {PL ft] F[A+1)}
 Branch On Not Equal bne | PC=PC+4+Branchaddr (4) he ie Matioly Single mul.s FR ail = its ; FIA vaystteat) T/O/--/2
-Jump j J PC=JumpAddr (6) fable mi.d pR {Flfd),Flfd+!)} = Tete unw-R
 Jump And Link jal J R[3J=PC+8;PC=JumpAddr (5) Byer FP Subtract Single sub.s FR F{fd]=F[fs] - F[ft] MAO/-/
 Jump Register jr R PC=RIrs) 0/08, FP Subtract cup.a FR IFEALPLG HT = (FUSED ary pp
 Rirt]=(24°D0.MIRfrs] Double {F [ft] F[ft+1]}
 Load Byte Unsigned thu “+SignExtImm|(7:0)} 2) 74 Load FP Single = Iwe2 1 PIrt}=M[R{rs]+SignExtimm] — (2) 31/-/-/~
-Load Halfword Rfrt}=[16 DOMIRIEs] 5 LoadieP aaca 1 PUUEMIRIes}+SignExtimms (2) 35) 4
-lhu if Brox Double F(rt+1J=M[R[rs]+SignExtImm+4}
-Unsigned ++SignExtimm|(15:0)} (2) MoveFromHi = mfhi_- RR rd] = Hi
-Loaditinked es UT Rist}=MIR[rs}+SignExtimm] (2,7) 30. Move FromLo —mflo.- RR Rird) = Lo
 Load Upperimm. us I Riri] = {imm, 16’b0} fon Move From Control mfco R_ Rird] = CR{[rs}
 Load Word lw I R{st}=MIR[rs]+SignExtimm] (2) 23, ee , mult . ae = Ae a Ra ©
 Multiply Unsigned rultu i,Lo} = R{rs) * R[rt 6
 _ 0/27,
 INGE nor R Rind = ~ (Rirs} | Rirt)) ‘= Shift Right Arith, era R[rd] = R{rt] >> shamt
 Or or R_ R{rd] = R{rs} | R{rt] 9/25,. Store FP Single swt | M[R{ts]+SignExtimm| =F[rt] (2)
-Or Immediate ori 1 R{[rt] = R[rs] | ZeroExtlmm 3) 4d. Store FP secr 1 MIRIrs]+SignExtmm]= Fim}; (2)
 Set Less Than sit   R_ R{rd}=(Rfrs} <R[rt])?1:0 0/2a,, Double MIR{rs}+SignExtimm+4] = F[rt+ 1]
 Set Less Than Imm. alti I Rist] =(R{rs] <SignExtimm)?1:0(2) a, FLOATING-POINT INSTRUCTION FORMATS
 Set Less Than Imm. _,,, R[rt] = (R[rs] < SignExtimm) b FR [ opcode [ fm [| f | 8 fd | funct |
@@ -4582,7 +4646,6 @@ Subtract Unsigned subu RR R[rd] = R{rsj - R{rt] Ke A CALL
 (7) Atomic test&set pair; R{rt] = 1 if pair atomic, 0 if not atomic ses 8 ve qemporat les ne
 BASIC INSTRUCTION FORMATS SsDiSs7_...16 23) _SavedTemporarles es
 $18-$t9 24-25 Temporaries No
-R [_epeode a = i it [ rd | shat _[ funct__] SKO-Skl__26-27 __ Reserved for OS Kernel No
 B 120 ie 5 10 35 2
 7 $gp 28 Global Pointer Yes
 1 Lope | os [a | . immediate | $sp 29 Stack Pointer Yes
@@ -4598,7 +4661,6 @@ si
 OPCODES, BASE CONVERSION, ASCII SYMBOLS STANDARD IEEE 754 Symbols
 MIPS (1) MIPS (2) MIPS Deci. Hexa- ASCII] j9¢). Hexa- ASCII Exponent | Fraction] Object
 opcode — funct funct | Binary deci- Char- al deci- Char- (-1)°x (1 + Fraction) x 2(Exponent - Bias) 0 0 +0
-(31:26) (5:0) (5:0) mal mal_acter | mal_acter A 9 Da
 @ sll aaa 0000000 0 NUL| 64 40 @ where Single Precision Bias = 127, #0 | +Denorm
 ; sub,f 000001 1 1 SOH|65 41 A Double Precision Bias = 1023 1 to MAX- 1 | anything | Fl. PL Num.
 j srl mul f 000010 2 «2 STX| 66 42 B MAX 0 to
@@ -4606,7 +4668,6 @@ jal sra div 000011 3 3 ETX| 67 43 C IEEE Single Precision and MAX #0 NaN
 beq sllv   sqrtf 000100 4 4 EOT| 68 44 D Double Precision Formats: S.P. MAX= 255, D.P. MAX= 2047
 bne abs.f 000101 5 5 ENQ|69 45 E -
 blez srlv movf | 000110 6 6 ACK|70 46 F [s [Exponent | Fraction
-bgtz srav__ neg f ooolll 7 7 BEL | 71 47_ G 31_30 232 eee oe
 addi 3¥ qo1000 8 8 BS |72 48 H [S| Exponent | Fraction u
 addiu jalr 001001 9 9 HT | 73 4% 1 ae aa
 siti movz 001010 10 a LF | 74 4a
@@ -4615,9 +4676,6 @@ andi syscall round.wj] 0011G0 12 ¢ FF | 76 4c L > - g
 ori. break trunc.wf| 001101 13 d CR|77 4d M Sp TF TATA | Argument _| Nerery |
 xori ceil.wf | 001110 14 e SO | 78 4e N Argument 5 :
 lui "sync floor.wf| O01 15 f st [79 4f 0 Sfp —>
-isan 010000 16 +10 DLE] 80 50 P 5 t > Paved Registers |. oy
-@) —omthi 010001 17 11 DCI] 81 51 yynantic Dat f
-nfo wovef | 010010 18 12 DC2| &2 oR Sgp¥1000 8000pex ‘Gas =
 mtlo movnf | 010011 19 13 DC3| 83 53 $ Static Data | Variabl .
 010100 20 «+14 DC4| 84 54 T O00 00 * ge Pees Narabies
 010101 21 15 NAK| 8 55 U Text >—>
@@ -4630,7 +4688,6 @@ divu 011011 27 Ib ESC] 91 5b ff DATA ALIGNMENT
 011100 28 Ie FS | 92 Sc \ Double Word
 O11101 29 Id GS |93 Sd } ;
 011110 30 le RS |94 Se A Word Word
-Olu 31 if US | 95 5f Halfword Halfword Halfword Halfword
 ib dd "
 nom ocd [pers Ge ae ous [oe [ ore [one [ ore | oe | ane [ one
 nay ae ia hore 34 - . 3 a b Value of three least significant bits of byte address (Big Endian)
@@ -4661,10 +4718,8 @@ a: az
 acl 111100 60 3e < 124 vier | ‘S7E | PREAX | SYMBOL} SI: | PREIX | SYMBOL SIZE | PREFIX | SYMBOL | SIZE | PREFIX | SYMBOI
 sdc WHOl 61 3d = |125 7d car Tm ac = = | [ee te
 sde2 111110 62 3e => {126 7e ae ee ~ a op :
-Hull @ 3 2 (a7 7 DEL rao [eee | mf fom | on | | voor fre | 2 | = low |
 (apes arad 1 a ae Y : =i
 (2) opcode(31:26) == 17, (11,_,) if fmt(25:21)==16,,, (10,_,) f= s (single); Rc nl a = ~
-hn L = ‘be 10008 | Betas , a» | Reb n F000" | Quecca: Q Pe | Quebi- Qi
 
 if fmt(25:21)==17,, (11,_.) f= d (double)
 © 2021 by Elsevier Inc. All rights reserved. From Patterson and Hennessy, Computer Organization and Design, 6th ed.
@@ -4689,7 +4744,6 @@ addiu Srt, Srs , immediate
 
 Add Unsigned
 
-addu Srd, Srs, Srt
 
 And
 
@@ -4781,7 +4835,6 @@ sub Srd, Srs , Srt
 
 Subtract Unsigned
 
-subu Srd, Srs , Srt
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper ae747e9e59b5
@@ -4791,6 +4844,7 @@ subu Srd, Srs , Srt
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-III/COMPUTER ORGANIZATION AND ARCHITECTURE/Computer Organization and Architecture, 2nd Year, Sem-III, Year 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 February 2023
 - Text: ocr (12 pages), mean OCR confidence 84.5
+- 14 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 : _ SVKM’S NMIMS
@@ -5228,13 +5282,11 @@ FOR: TFUNCT ‘Branch On FP False bei FI if(! FPcond)PC=PC+4+Branchaddr (4) 11/8
 NAME, MNEMONIC MAT OPERATION (in Verilog) (Hex) Divide div R_ Lo=R{rs)/R[rt]; Hi=R[rs]%R[rt] O/-/--/a
 ee 0/20 Divide Unsigned = diva R_ Lo=R{rs}/R[rt]; Hi=R[rs]%R[rt]_ (6) 0/--/--/1b
 Add add R Rind] = Res] + Rist] (1) 0720. Ep addSingle add. FR Flfd J=Flfs) + Flft M1N0/--/0
-Add Immediate addi I R{rt] =R[rs]+ SignExtImm (2) 8. FP Add ada.a FR (Fifa). Flfd+l)} = {FLfs) Fist} + yyyyay-0
 Add Imm. Unsigned addiu I R[rt]= R[rs]+ SignExtimm Q2) Double . tewie {ele EietIh rien
 Add Unsigned addu -R_R[rd]=R[rs)+ R[rt] 0/21, cameare Single c.x.e* FR EPeond - Caelcletinop ly
 And and = R_ R{rd]= Rfrs] & R[rt] 0124. Double cxd FR FIAL Fat} ?1;0 00 ENA
 And Immediate andi I R[rt]=R[rs] & ZeroExtImm GB) Se * (xis eq, 1t, or le) (op is ==, <, or <=) (y is 32, 3c, or 3e)
 if(R[rs]==Rint}) FP Divide Single div.s FR F{fd] = F(fs} / F(ft] H/AO/--/3
-BranchOn Equal — beg 1 PC=PCH4BranchAddr (a) A... rp oe div.a FR IFlfd),Flfd+l}} = Ee 1/73
 . if(R[rs}!=R[ ct 5 “pre : ’ =
 Branch OnNotEqualene —¢ MORUSSHISRIetD) (4) Sh «FP Multiply Single mut.s FR F[fal] = Flfs] * Fit) Hho
 = d () 2 FP Multiply mai.a pR {Fifd].Flfd+t}} = {F[fs],F[fs+1}} WAM
@@ -5242,9 +5294,7 @@ Jump 3 J PC=jumpaddr * Double (E[ft) F[ft+1))
 Jump And Link jal J R(31]=PC+8;PC=JumpAddr (5) 34, FP Subtract Single sub.s FR F[fdJ=F{fs] - F[ft] I1/10/--/1
 “a 6
 Jump Register # R PCERIrs] 0/08, FP Subtract euy.a PR (EU PUGH) = (FEL FISHD- yyy
-Rirt}=(24'b0,MIRIs} Double {FLA F[ft+1)}
 Load Byte Unsigned Ibu “+SignExtImm|(7.0)} (2) 7h Load FPSingle = lwci 1 F[rt}=M{R[rs]+SignExtimm| (2) 31}
-dHalti Rirt}=(16bO.MIRIrs} ‘ Load FP deca I A{Rirs]+SignExtiImm]; (2)
 Load Halfword — 1 = , ) 25, Double © F(rt+1J=M{R[rs]+SignExtImm+4]
 Unsigned +SignExtimm](15:0)} (2 Move From Hi mfhi R Rird) = Hi
 Load Linked 22 Tint] = MIR[rs]+SignExtimm] (2,7) 30. Move FromLo = mflo.-«R_ Rd] = Lo
@@ -5252,8 +5302,6 @@ Load Upper Imm. lui 1 R{rt] = {imm, 16’b0} fee Move From Control mfco R   R{[r
 Load Word lw 1 R{rt] = M[R[rs]+SignExtImm] (2) 23,, Multiply mult R_ {Hi,Lo} = R[rs] * R[rt] 0/--/--/18
 R Rird]=~(RI R 0/27 Multiply Unsigned muitu R= {Hi,Lo} = R[rs] * R[rt] (6) 0/-/-19
 Nor nor {rd} =~ (Rirs] | Riet}) ‘Shift Right Arith. sra_R- Rird] = R[rt] >> shamt 0/-/-/3
-Or or R_Rird] = Ris} | Rirt] 0/25, Store FPSingle   swc1 1 M[R{rs]-+SignExtImm] =F[rt] (2) 39/—/~/—
-Or Immediate ori TO R{rt] = R{rs] | ZeroExtimm G) 4,. Store FP sac 1 MIR[ts]+SignExtimm)=Flrt}s (2) 34yy
 Set Less Than sit R_ Rid} =(R{rs] <R[rt]) 21:0 0/2a,, Double MIR{[rs]+SignExtImm+4] = Ffrt+1]
 Set Less ThanImm siti 1 Rirt]=(R[rs] <SignExtimm)?1:0(2) a, FLOATING-POINT INSTRUCTION FORMATS
 Set Less Than Imm... Rirt] = (RIts] < SignExtImm) b FR [_ opcode fmt t | 6s | @ | tuna |
@@ -5297,7 +5345,6 @@ TI te r ra 31 Return Address Yes
 OPCODES, BASE CONVERSION, ASCII SYMBOLS STANDARD IEEE 754 Symbols
 prs CY MIPS_(3) ) MIPS Deci- Hexa- ASCH Deci-Hesa- ASCH Exponent | Fraction] _ Object
 lopcode —funct net Binary deci- Char- leci- Char- 1) ai (Exponent - Bias)
-(31:26) (5:0) (5:0) mal ‘mal_acter | ™!_mal_acter (CHP (1+ Fraction) x 2 # 8 +0
 a) sll adaf 000000 0 0 NUL| 64 40 @ where Single Precision Bias = 127, 0 #0 + Denorm
 sub 000001 1 1 SOH|65 41 A Double Precision Bias = 1023 1 to MAX - | | anything |+ Fl. PL Num.
 i srl gulf 000010 2° 2 STX]66 42 B MAX 0 =
@@ -5305,7 +5352,6 @@ jal sra div coool! 3 3_ETX| 67 43 OC IEEE Singte Precision and MAX ~0 NaN
 beq sliv sqrtf | 000100 4 4 EOT| 68 44 D Double Precision Formats: SP. MAX= 255, D.R MAX= 2047
 bre abs 000101 5 5 ENQ|69 45 E ~ —
 blez srlv_ mov 000110 6 6 ACK] 70 46 =#*F [ Ss l Exponent l Fraction ]
-botz Vo neg f ooolll 7 7 BEL|71 47 = G 3 3322 7
 addi 001000 8 8 BS |72 48 H [ Ss | Exponent | Fraction uy |
 addiu jalr 001001 9 9 HT | 73. 49 1 aa ws ° rae
 siti movz 00101010 a LF | 74 4a J L _
@@ -5329,7 +5375,6 @@ diva 11011 27, Ib ESC} 91 5b _ [ DATA ALIGNMENT
 01 1100 28 7 FS [92 5c ; Double Word
 011101 29 Id GS | 93 5d =
 11110 30 le RS |94 5e 4 Word: Mord
-O11 31) If US [95 Sf _ Haltword Halfword Halfword Halfword
 Tb add cvt.sf | 100000 32 20 Space] 96 60 * Byte | Byte | Byte | Byte | Byte | Byte | Byte | Byte
 ah addu evt.af | 100001 33° 21 +! | 97 61 a L a [ mi a * — ‘
 lvl sub 100010 34 22 * | 98 62 b Value of three least significant bits of byte address (Big Endian)
@@ -5345,7 +5390,6 @@ swl sit 101010 42 2a * =-}106 Ga i : : 7 3 we
 101101 45 24 2 {109 6d m EXCEPTION CODES
 bakcba 1Olll0 46 2e =. {110 6e on Number Name Cause of Exception [NumberName Cause of Exception
 cache toi a7 _2f_1 ill of _0 0 __Int__Interrupt (hardware) | 9 Bp _ Breakpoint Exception
-i tee oc. Ef 110000 48.30. ~«20 (112. 70 =P pt a P =
 lwel taeu c.unf 110001 49 31 461 |1I3) 71g 4 AdEL Address Error Exception 10 RI Reserved Instruction
 lwe2 tlt c.egf 110010 SQ 32) «2 «Jil 72k ‘ (load or instruction fetch Exception
 pref ctltu c.uegf 110011 51 33 3 41s 73s Address Error Exception . Coprocessor
@@ -5357,15 +5401,11 @@ ae c.stf | 111000 56 38 68 [120 78 x 7 DBE Load or Store Ln Trap
 swel senses 111001 57 39 9 ee e y 8 Sys Syscall Exception 1S. FPE Floating Point Exception]
 swc2 c.seqf | 111010 58 3a: a2
 c.nglf | M1011 59 3b; (|123, 7 SIZE PREFIXES
-c.ltf 111100 60 3c < (124. Ze | peti | sysinot | sar svar | f size [entree | svasos.| siz [rarnx: [senor
-sdcl e.ngef | 111101 61 3d = |125 7d } Xie x Ki tae 7 ah a
 sdc2 clef M1110 62 3e => {126 Fe ~ i 7 7 -_ a
 e.ngtyf | Mitt 63 3f 2 _([127_ 7 DEL a —> — . 7 =
-| CT opeade) STI) == 0 eee ele ee
 
 (2) opcode(31:26) == 17, (11,_,)s if fmt(25:21)==16,, (10,,,) f= s (single);
 
-if fmt(25: (il, f= 4 (double) weer | pee r » [pt ri roo | Queeea Q Br [Qube o
 
 © 2021 by Elsevier Inic. All rights reserved. From Patterson and Hennessy, Computer Organization and Design, oth ed.
 
@@ -5645,93 +5685,6 @@ BL-4 , microprogrammed control unit with a suitable diagram.
 
 CO-4; SO-1; | (b) | Classify computer Architecture as per Flynn’s classification and explain any [10]
 Beet one in detail with a suitable diagram.
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper 36b7f61d0323
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/Computer Organization and Architecture/Computer Org & Architecture , Re-exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/23
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-WSMIUTE Oe
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Program: MBA Tech Stream : IT Year: II Semester: III
-
-Subject: Computer Organization and Architecture Time: 3 hrs (10:00 AM to 01:00 PM)
-Date: 27/11/23 No. of Pages: 02
-
-Marks: 100
-
-Re-examination 2022-23
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-on 1) Question No. _1_ is compulsory.
-2) Out of remaining questions, attempt any __4 questions.
-3) In all_S_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly [20]
-CO-1; SO-1; BL-1 a. | List the elements of bus design [5]
-CO-2; SO-1; BL-4_ | >. | Differentiate between RAM and ROM [5]
-CO-3; SO-1; BL-3 c. | Calculate (19)i0 — (23)10 using 2’s compliment method [5]
-CO-4; SO-1: BL-2 d. | List the uses and advantages of GPU [5]
-ya Q2
-CO-2; SO-1; BL-2 a. | Explain the types of replacement algorithms for cache memory [10]
-
-Illustrate with the help of example the operational concept of a computer
-CO-1; $O-1; BL-2_ | ». [10]
-system
-
-Q3
-
-List mapping techniques for cache memory. Explain with the help of a
-CO-2; SO-1; BL-2. | 4 vas . . [10]
-neat sketch set-associative cache mapping technique
-
-Explain with the help of example the types of addressing modes for 8086
-
-3: le . b.
-CO-3; SO-1; BL-2 CPU
-
-[10]
---- page 2 ---
-Q4
-
-i
-
-Develop and explain the flowchart for Interrupt Initiated I/O mode of data
-
-CO-4; $O-2; BL-6 Ta
-transfer
-
-CO-4; SO-1; BL-2 Explain the architecture of Superscalar processors [10]
-Q5
-
-CO-2: SO-1; BL-4 Classify the types of RAM and explain any one type in detail [10]
-
-CO-1; SO-1; BL-2 Explain the types of bus arbitration with the help of neat diagrams. [10]
-Q6
-
-CO-3; SO-2; BL-6 Design Full Subtractor circuit [10] <™
-
-CO-3; SO-1; BL-1 List and explain the types of logical instructions for 8086 CPU [10]
-Q7
-
-CO-4; SO-1; BL-2 With the help of a neat diagram explain hardwired control unit in detail [10]
-
-CO-3; $O-1; BL-3 Solve 3 X 7 using booth’s algorithm [10]
 ````
 
 ## 2019-20 · Final-Exam · Sem 3 · paper 73f45dd26c44
@@ -6456,6 +6409,7 @@ Explain Flynn’s Classification with respect to computer architecture.
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/COMPUTER ORGANIZATION AND ARCHITECTURE/Computer Organization and Architecture 2018-19 Final.pdf`
 - Printed on paper: exam date: 15 November 2018
 - Text: ocr (2 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -6488,7 +6442,6 @@ of the Answer Book, which is provided for their use.
 7) Assume suitable data if necessary.
 
 Ql (a) Simplify the following expression using Boolean Algebra : [20]
-(i) (XY)’ (X’ + Y) (X’ + X)
 (ii) (A+ CVIAB)
 (b) Perform following conversions :
 (i) Convert (25.625)10 into a binary number
@@ -6571,6 +6524,103 @@ ae
 [10]
 
 [20]
+````
+
+## 2018-19 · Re-Exam · Sem 2 · paper 7fbf0d0a9b7b
+
+- Departments: Common (all branches), Data Science
+- Programmes: B TECH, B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER_ORGANIZATION_AND_ARCHITECTURE_BATCH_17-18_RE_EXAM_.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 April 2019
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B. Tech (Data Science) Year: I Semester: II
+Academic Year: 2018-2019 — “
+Subject: Computer Organization and Architecture < Marks: 70
+. — “
+Date : 12 April 2019 L Time:10.00 am to 1.00 pm
+
+=
+
+Duration: 3 (hrs) 7
+No. of Pages: _O2
+Re-Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+.5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Read A’ as complement of A
+
+Q.1)
+(a) Attempt any 3 (3 X 3=9)
+(i) Perform following conversions
+
+(1001100)2= (?)i0
+(28)i0= (2)s
+(F9)i6= (2)2
+
+(ii) State and prove De-Morgan’s theorems.
+
+(iti) Design half adder using basic gates.
+
+(iv) Compare combinational and sequential circuits.
+
+(b) Attempt any One (1 x5=5)
+(i) Compare RISC and CISC machine.
+(ii) Compare computer Architecture and Organization unit.
+Q.2)
+— (a) What are the applications of microprogramming? (7M)
+(b) With the help of flow chart, explain data transfer using interrupt driven Input/Output. (7M)
+
+P.T.O
+--- page 2 ---
+Q.3)
+(a) List the Flynn’s classification of parallel processing systems. (7M)
+(b) Reduce the following and realize reduced expression using logic gates. (7M)
+(i) A+A’B+AB
+(ii) WX? (W+Y) +WY (W’+X’)
+
+Q.4)
+
+(a) List any four application of multiplexer and implement the following expression using 16:1 MUX
+
+; Y= Ym (0, 3, 5, 6, 7, 10, 13). (7M)
+_ (b) List various types of flip-flops. Along with circuit diagram explain truth table for J-K flip-flop. (7M)
+
+Q.5)
+
+(a) What are characteristics of memory devices? (7M)
+
+(b) With the help of block diagram explain cache operation. (7M)
+Q.6)
+
+(a) What is instruction pipelining? (7M)
+(b) Compare Hardwired and micro-programmed control. (7M)
+
+Q.7) Write a short note on following
+(a) DRAM data transfer modes. (5M)
+(b) Bus arbitration. (4M)
+(c) CO-processor (5M)
+
+el 7,
+
+J
 ````
 
 ## 2018-19 · Re-Exam · Sem 4 · paper 792941ecc1f2
@@ -6668,6 +6718,69 @@ pages (frame size is 3)
 4,7,3,0,1,7,3,8,5,4,5,3,4,7
 
 2/o
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper c0c9f9fbfe78
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/COMPUTER ORGANIZATION & ARCHITECTURE/computer organization & Architecture Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 January 2019
+- Text: ocr (1 page), mean OCR confidence 92.1
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+) Program: MBA Tech (Computer) Year: II Semester : III
+Academic Year: 2018-2019
+
+, Subject: Computer Organization & Architecture Marks: 70
+
+Time: 2.00 pm to 5.00 pm
+Date : 23 January 2019 ~
+Durations: 3 (hrs)
+
+; No. of Pages: 4
+Re-examination (2017-18/ 2018-19) _
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compylsory
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql. a) Explain four phases of Pipeline for instruction execution with advantages. 4M
+b) Explain the working of DMA controller with block diagram. 5M
+c) What is bus arbitrator? Explain any two techniques. 5M
+Q.2a Explain Flynn’s classification of parallel processing system. ™
+Q.2b Explain with flowchart an execution of instruction with interrupts. 7™
+Q3a List and explain any two page replacement algorithm with suitable example. ™
+Q3b Explain Associative & Set Associative Mapping with suitable diagrams. 7™.
+Q4a Describe the functional view of the computer system. 7™
+Q.4b Give brief explanation of Bus Interconnection with suitable diagram. ™
+Q5a Differentiate between RISC & CISC with example. ™.
+Q.5b Explain hardwired control unit with block diagram. 7™
+Q.6a Explain any two I/O Modules with example. ™
+Q.6b Compare SRAM & DRAM in detail with the help of single bit storage cell. ™.
+Q7a Multiply following numbers with Booth’s Algorithm and specify all the steps. ™.
+1) 6)*(7)
+2) (-6)*(7)
+Q7b Explain Fixed point & Floating point Arithmetic with suitable example. 7™.
+
+4}4
 ````
 
 ## 2017-18 · Exam not stated · Sem 2 · paper b1168fce6379
@@ -7226,103 +7339,6 @@ d) Short Note on Error detecting and Correcting Codes
 [4]
 ````
 
-## 2017-18 · Re-Exam · Sem 2 · paper 7fbf0d0a9b7b
-
-- Departments: Common (all branches), Data Science
-- Programmes: B TECH, B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER_ORGANIZATION_AND_ARCHITECTURE_BATCH_17-18_RE_EXAM_.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 April 2019
-- Text: ocr (2 pages), mean OCR confidence 89.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program B. Tech (Data Science) Year: I Semester: II
-Academic Year: 2018-2019 — “
-Subject: Computer Organization and Architecture < Marks: 70
-. — “
-Date : 12 April 2019 L Time:10.00 am to 1.00 pm
-
-=
-
-Duration: 3 (hrs) 7
-No. of Pages: _O2
-Re-Examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-.5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Read A’ as complement of A
-
-Q.1)
-(a) Attempt any 3 (3 X 3=9)
-(i) Perform following conversions
-
-(1001100)2= (?)i0
-(28)i0= (2)s
-(F9)i6= (2)2
-
-(ii) State and prove De-Morgan’s theorems.
-
-(iti) Design half adder using basic gates.
-
-(iv) Compare combinational and sequential circuits.
-
-(b) Attempt any One (1 x5=5)
-(i) Compare RISC and CISC machine.
-(ii) Compare computer Architecture and Organization unit.
-Q.2)
-— (a) What are the applications of microprogramming? (7M)
-(b) With the help of flow chart, explain data transfer using interrupt driven Input/Output. (7M)
-
-P.T.O
---- page 2 ---
-Q.3)
-(a) List the Flynn’s classification of parallel processing systems. (7M)
-(b) Reduce the following and realize reduced expression using logic gates. (7M)
-(i) A+A’B+AB
-(ii) WX? (W+Y) +WY (W’+X’)
-
-Q.4)
-
-(a) List any four application of multiplexer and implement the following expression using 16:1 MUX
-
-; Y= Ym (0, 3, 5, 6, 7, 10, 13). (7M)
-_ (b) List various types of flip-flops. Along with circuit diagram explain truth table for J-K flip-flop. (7M)
-
-Q.5)
-
-(a) What are characteristics of memory devices? (7M)
-
-(b) With the help of block diagram explain cache operation. (7M)
-Q.6)
-
-(a) What is instruction pipelining? (7M)
-(b) Compare Hardwired and micro-programmed control. (7M)
-
-Q.7) Write a short note on following
-(a) DRAM data transfer modes. (5M)
-(b) Bus arbitration. (4M)
-(c) CO-processor (5M)
-
-el 7,
-
-J
-````
-
 ## 2017-18 · Re-Exam · Sem 4 · paper 47415ca887e3
 
 - Departments: Computer Engineering
@@ -7762,6 +7778,67 @@ Q7 . Short Notes (Answer any 2) [14]
 2/2,
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper 01c72a70d569
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/COMPUTER ORGANIZATION & ARCHITECTURE/COMPUTER ORGANIZATION & ARCHITECTURE BATCH 2016-2017 Re-exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 November 2017
+- Text: text (2 pages)
+
+````text
+Programme: MBATech (Computer)   Year: II   Semester: III
+Batch: 2016-17
+Academic Year: 2017-2018
+Subject: Computer Organization & Architecture
+Marks: 70
+Date: 25 November 2017   Time: 2.00 pm - 5.00 pm
+Durations: 3 Hrs
+No. of Pages: 0 '2--
+Re-E1mmination
+Instructions:   Candidates   should read carefully the instructions   printed on the question paper and on the cover
+of the Answer Book, which is provided   for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4),All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Q.l a) Explain PCI bus.
+[2]
+b) Explain MBR and MAR.   [2]
+c) What is memory access time and memory cycle time.   [2]
+d) Explain fixed and floating point numbers with an example.   [2]
+e) Explain immediate and direct addressing modes with an example.   [2J
+f) What are applications of microprogramming?   [2]
+g) What are device drivers?   [2]
+-
+Q.2 (a) Cache can hold 64 KB of data. Data is transferred between main memory and cache in blocks of 4 bytes each.
+Main memory consists of 16 MB. Find the distribution of main memory address in all the three mapping techniques
+i.e. direct mapping, associative and set associative mapping. (Assume 1 word= 1 byte). Assume two ways set
+associative.
+[9]
+(b) Differentiate between SRAM and DRAM.   [5]
+1//L-
+--- page 2 ---
+'-
+"
+I,
+Q.3 (a) Explain IEEE 754 single precision 32-bit format.   [7]
+(b) Explain memory hierarchy with the help of a diagram.   [7]
+QA (a) Multiply the following two numbers using Booth's algorithm 4 x 6. Comment on the efficiency of Booth's
+algorithm.   [7]
+(b) Explain addressing modes with the help of example.   [7]
+Q.5 (a) Write a short note on different modes ofDMA transfer.   [7]
+(b) Explain six stage instruction pipeline with the help oftiming diagram.   [7]
+Q.6 (a) Explain different parallel processing architectures.   [7]
+(b) Explain hard wired control unit in detail.   [7]
+Q.7 (a) Explain daisy chain, pollingand independent requesting with advantages and disadvantages.   [7]
+(b) Draw and explain instruction cycle state diagram with interrupts.   [7J
+-
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper f578f479b3bd
 
 - Departments: Computer Engineering
@@ -7851,69 +7928,6 @@ b) Interleaved memory
 c) Memory Hierarchy
 
 2fe_
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper c0c9f9fbfe78
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/COMPUTER ORGANIZATION & ARCHITECTURE/computer organization & Architecture Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 January 2019
-- Text: ocr (1 page), mean OCR confidence 92.1
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-) Program: MBA Tech (Computer) Year: II Semester : III
-Academic Year: 2018-2019
-
-, Subject: Computer Organization & Architecture Marks: 70
-
-Time: 2.00 pm to 5.00 pm
-Date : 23 January 2019 ~
-Durations: 3 (hrs)
-
-; No. of Pages: 4
-Re-examination (2017-18/ 2018-19) _
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compylsory
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql. a) Explain four phases of Pipeline for instruction execution with advantages. 4M
-b) Explain the working of DMA controller with block diagram. 5M
-c) What is bus arbitrator? Explain any two techniques. 5M
-Q.2a Explain Flynn’s classification of parallel processing system. ™
-Q.2b Explain with flowchart an execution of instruction with interrupts. 7™
-Q3a List and explain any two page replacement algorithm with suitable example. ™
-Q3b Explain Associative & Set Associative Mapping with suitable diagrams. 7™.
-Q4a Describe the functional view of the computer system. 7™
-Q.4b Give brief explanation of Bus Interconnection with suitable diagram. ™
-Q5a Differentiate between RISC & CISC with example. ™.
-Q.5b Explain hardwired control unit with block diagram. 7™
-Q.6a Explain any two I/O Modules with example. ™
-Q.6b Compare SRAM & DRAM in detail with the help of single bit storage cell. ™.
-Q7a Multiply following numbers with Booth’s Algorithm and specify all the steps. ™.
-1) 6)*(7)
-2) (-6)*(7)
-Q7b Explain Fixed point & Floating point Arithmetic with suitable example. 7™.
-
-4}4
 ````
 
 ## 2017-18 · Re-Exam · Sem 1 · paper 6ad9e2eb762c
@@ -8314,6 +8328,165 @@ Q.7. Write short note on following ( Any Two ) (14)
 Fane -2/o
 ````
 
+## 2016-17 · Re-Exam · Sem 4 · paper bf35ee502d40
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATION AND ARCHITECTURE BATCH 15-16 RE EXAM(1).pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 July 2017
+- Text: ocr (1 page), mean OCR confidence 91.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ei
+
+Programme: B. Tech (COMPUTER) Year: II Semester: IV
+
+Batch: 2015-2016
+
+Academic Year: 2016-2017
+
+Subject: Computer Organization and Architecture
+Marks: 60 ~~
+
+Date: 10 July 2017 ~ Time: 10.00 am A,
+Durations:3 (hrs)
+
+No. of Pages: _@!
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on‘the right hand side indicate full marks.
+7) Assume Suitable data if necessary-
+
+Q.1 Solve the following;
+
+a. Explain functional view of the computer system. [04]
+
+b. Discuss Flynn’s classification in detail. [04]
+
+c. Discuss complete memory hierarchy used in the computer system. [04]
+Q.2
+
+a. What is bus arbitration? Discuss daisy chain arbitration scheme. [06]
+
+b. Explain the working of Instruction Cycle with interrupt. [06]
+Q3
+
+a. Explain Static and Dynamic Ram operation. [06]
+
+b. Explain Programmed I/O and Interrupt driven V/O operations. [06]
+Q.4 ,
+
+a. What do you mean by cache mapping? Explain fully associative mapping with
+
+suitable example. [06]
+
+b. Explain Booth’s algorithm for signed multiplication with suitable example- [06]
+Q5
+
+a. Explain IEEE floating point representations and convert 40.15635 to IEEE 32-bit format. [06]
+
+b. Discuss any three addressing modes with suitable example. [06]
+Q.6
+
+a. Differentiate between RISC and CISC computers. [06]
+
+b. Explain the functioning of micro-programmed control unit with block diagram. [06]
+Q.7 Write short note on the following :
+
+a. Hardwired control Unit. [06]
+
+b. Redundant Array of Independent Disks. [06]
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 599d272451e0
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATION AND ARCHITECTURE BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 May 2017
+- Text: ocr (1 page), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) . Year: II Semester: IV
+Batch: 2015 - 2016
+Academic Year: 2016-2017
+Subject: Computer Organization and Architecture
+: : Marks: 60
+Date: 09 May 2017 ~ Time: 10.00 am to 1.00 pm ¢”
+
+Durations: 3 (hrs)
+
+No. of Pages: _|
+
+Re-Examination
+
+Instruction: Candidates should read the instructions printed on the question paper and on the cover of
+the Answer Book carefully.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql a) What is the difference between computer organization and computer architecture? (4)
+
+b) Explain pipelining and highlight its advantages. (4)
+
+c) Discuss DMA operation. : (4)
+
+Q2 a) Discuss the elements of bus design. (6)
+
+b) Explain Flynn’s classification. (6)
+
+Q3 a) Highlight the major features of RISC architectures. (6)
+b) With a neat sketch explain memory interleaving. (6) -
+
+Q4 a) Describe a hardwired control unit. Also state its advantages and disadvantages. (6)
+
+b) Explain floating point addition operation using a flowchart. (6)
+
+QS a) Using a flowchart and an example explain Booth’s algorithm for multiplication. (6)
+
+b) Discuss various cache mapping techniques. (6)
+
+Q6 a) Explain various addressing modes. . (6)
+
+— b) With a neat diagram explain a carry look ahead adder. (6)
+Q7_ Write short notes: (12)
+
+aad a) I/O channel
+
+b) Coprocessor
+c) Advanced DRAMs
+````
+
 ## 2016-17 · Re-Exam · Sem 4 · paper 5e4cdff71355
 
 - Departments: Computer Engineering
@@ -8488,6 +8661,106 @@ Q7 Write short note on any TWO: 14
 Page 2 of 2
 ````
 
+## 2016-17 · Re-Exam · Sem 4 · paper b3d7d5479f29
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATON & ARCHITECTURE BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 July 2017
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: II Semester: I
+
+Batch: 2015-2016 -~
+
+; Academic Year: 2016-2017
+Subject: Computer Organization & Architecture .~
+
+a
+
+Marks: 60 ~
+
+Date: 08 July 2017
+
+Durations: 3 (hrs)
+No. of Pages: _O2-
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer the following questions in short: 12
+a. Define the terms track, cylinder, and sector. : 2
+b. What are the characteristics of SRAMs? 2
+c. What are the independent mechanisms for controlling interrupt request? 2
+d. What is pipelining? 2
+e. What are four registers involved in fetch cycle? 2
+f. Explain the term striped data. 2
+Q2 Answer the following questions: 12
+_— a. Explain working of RAID level 3. 4
+b. A set associative cache size of 64Kline divided into 4-line sets (4-way) with block of 4 4
+ge: words. Main memory capacity is 64Mbyte.
+
+a. How many bits are used for main memory address?
+b. How many modules (set) in cache?
+c. How many bits for set numbers?
+
+/2
+--- page 2 ---
+d. How many bits for block words?
+e. Show the format of main memory addresses with tag, set and word bits.
+
+c. Consider a magnetic disk drive with 10 surfaces, 521 tracks per surface, and 64 sectors per 4
+track. Sector size is 2 KB. The average seek time is 8.7 ms, the track-to-track access time
+is 1.2 ms, and the drive rotates at 3600 rpm. Successive tracks in a cylinder can be read
+without head movement.
+
+a. What is the disk capacity?
+
+b. What is the average access time? Assume this file is stored in successive sectors and
+tracks of successive cylinders, starting at sector 0, track 0, of cylinder i.
+
+c. Estimate the time required to transfer a 5-MB file.
+
+d. What is the burst transfer rate?
+
+Q3 Answer the following questions; 12
+a. Describe in detail ENIAC computer architecture. 6
+b. Discuss write policy of cache memory in detail. 6
+Q4 Answer the following questions: 12
+a. Explain the elements of bus design in detail. 6
+b. Write a note‘on High performance bus architecture. 6
+Q5 Answer the following questions: 12
+a. Explain Booth’s Algorithm for division of two numbers with an example in detail. 6
+b. What are the basic elements of floating-point addition and subtraction? 6
+Q6 Answer the following questions: vu
+a. Discuss Immediate addressing and Register indirect addressing in detail. 6
+b. Explain the Six-stage Pipeline approach for instruction execution in detail. 6
+Q7 Answer the following questions: 12
+a. Explain working of DMA controller in detail. 4
+b. Explain the block diagram of the Control Unit in detail. 4
+c. Explain Flynn’s classification in detail. ; 4
+
+|/2
+````
+
 ## 2016-17 · Re-Exam · Sem 6 · paper bfbeecaf8033
 
 - Departments: Computer Engineering
@@ -8552,67 +8825,6 @@ Q.7b | Compare SRAM & DRAM in detail. 6M
 z
 
 oy
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 01c72a70d569
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/COMPUTER ORGANIZATION & ARCHITECTURE/COMPUTER ORGANIZATION & ARCHITECTURE BATCH 2016-2017 Re-exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 November 2017
-- Text: text (2 pages)
-
-````text
-Programme: MBATech (Computer)   Year: II   Semester: III
-Batch: 2016-17
-Academic Year: 2017-2018
-Subject: Computer Organization & Architecture
-Marks: 70
-Date: 25 November 2017   Time: 2.00 pm - 5.00 pm
-Durations: 3 Hrs
-No. of Pages: 0 '2--
-Re-E1mmination
-Instructions:   Candidates   should read carefully the instructions   printed on the question paper and on the cover
-of the Answer Book, which is provided   for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4),All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-Q.l a) Explain PCI bus.
-[2]
-b) Explain MBR and MAR.   [2]
-c) What is memory access time and memory cycle time.   [2]
-d) Explain fixed and floating point numbers with an example.   [2]
-e) Explain immediate and direct addressing modes with an example.   [2J
-f) What are applications of microprogramming?   [2]
-g) What are device drivers?   [2]
--
-Q.2 (a) Cache can hold 64 KB of data. Data is transferred between main memory and cache in blocks of 4 bytes each.
-Main memory consists of 16 MB. Find the distribution of main memory address in all the three mapping techniques
-i.e. direct mapping, associative and set associative mapping. (Assume 1 word= 1 byte). Assume two ways set
-associative.
-[9]
-(b) Differentiate between SRAM and DRAM.   [5]
-1//L-
---- page 2 ---
-'-
-"
-I,
-Q.3 (a) Explain IEEE 754 single precision 32-bit format.   [7]
-(b) Explain memory hierarchy with the help of a diagram.   [7]
-QA (a) Multiply the following two numbers using Booth's algorithm 4 x 6. Comment on the efficiency of Booth's
-algorithm.   [7]
-(b) Explain addressing modes with the help of example.   [7]
-Q.5 (a) Write a short note on different modes ofDMA transfer.   [7]
-(b) Explain six stage instruction pipeline with the help oftiming diagram.   [7]
-Q.6 (a) Explain different parallel processing architectures.   [7]
-(b) Explain hard wired control unit in detail.   [7]
-Q.7 (a) Explain daisy chain, pollingand independent requesting with advantages and disadvantages.   [7]
-(b) Draw and explain instruction cycle state diagram with interrupts.   [7J
--
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper def6f26402e1
@@ -8808,6 +9020,112 @@ Write short notes on(any 2):-
 Page of b 2.
 
 14
+````
+
+## 2015-16 · Exam not stated · Sem 4 · paper 22d5dd486a58
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANISATION AND ARCHITECTURE B TECH (IT), BATC0001.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 07/05/2016
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+L"UKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & FP segitTE OF mage
+ETE BF
+
+Programme: B. Tech (L.T.) Year: II Semester: IV [ee
+i oe
+Academic Year: 2015-2016 | {d Lj 7 OE
+Subject : Computer Organization & Architecture X wf
+: ° ° Marks: 60 7 eae Y
+Date : 07/05/2016 Time : 10.00 am to 100 p pm
+
+Durations: 3 (hrs)
+Final-Examination .
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Qi Answer the following questions 12
+
+a. Define computer organization and computer architecture. 2
+
+b. What are the characteristics of SRAMs? 2
+
+c. What are the independent mechanisms for controlling interrupt request? 2
+
+d. Define guard bits. 2
+
+e. What are four registers involved in fetch cycle? 2
+
+f. What are the I/O execution techniques? 2
+
+Q2 Answer the following questions 12
+
+a. Why RAID Level 0 is used for high data transfer capacity and I/O request rate? 4
+
+— b. A set associative cache size of 64Kline divided into 4-line sets (4-way) with block 4
+
+of 4 words. Main memory capacity is 64Mbyte.
+
+a. How many bits are used for main memory address?
+
+b. How many modules (set) in cache?
+
+c. How many bits for set numbersand block words?
+
+d. Show the format of main memory addresses with tag, set and word bits.
+
+c. Consider a magnetic disk drive with 10 surfaces, 521 tracks per surface, and 64 4
+sectors per track. Sector size is 2 KB. The average seek time is 8.7 ms, the track-to-
+track access time is 1.2 ms, and the drive rotates at 3600 rpm. Successive tracks in a
+cylinder can be read without head movement.
+
+a. What is the disk capacity?
+
+b. What is the average access time? Assume this file is stored in successive sectors
+and tracks of successive cylinders, starting at sector 0, track 0, of cylinder i.
+
+c. What is the burst transfer rate?
+
+Ho.
+--- page 2 ---
+Q3 Answer the following questions 12
+
+a. Explain Moore’s law and its consequences in detail. 6
+b. Discuss write policy of cache memory in detail 6
+Q4 Answer the following questions 12
+a. Explain the design elements of bus in detail. 6
+b. Explain High performance bus architecture in detail. - 6
+Q5 Answer the following questions 12
+a. Explain Booth’s Algorithm for Multiplication of two numbers with an example in 6
+detail.
+b. What are the basic elements of floating-point addition and subtraction? 6
+Q6 Answer the following questions 12
+a. Explain displacement addressing in detail. 6
+b. Explain the Six-stage Pipeline approach for instruction execution in detail. 6
+Q7 Answer the following questions 12
+a. Explain working of DMA controller in detail. 4
+b. Explain the block diagram of the Control Unit in detail. 4
+c. Explain Flynn’s classification in detail. 4
+7 |
+
+2)o
 ````
 
 ## 2015-16 · Exam not stated · Sem 4 · paper 3206f1064596
@@ -9147,6 +9465,7 @@ associative memory. Explain how four-bit argument register is realized
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/COMPUTER ORGANIZATION AND ARCHITECTURE/Computer Organization and Architecture 2015-16 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 28/11/2015
 - Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Sag
@@ -9203,7 +9522,6 @@ Q4. (a) Explain Booth’s algorithm for signed multiplication. Compute the produ
 
 steps for the same. [7]
 (b) Explain in detail characteristics of RISC & CISC processor. (7]
-rege ane et eee re TRA enue oe ee
 
 Page 1D
 --- page 2 ---
@@ -9229,165 +9547,6 @@ Q7.Write Short notes on any four of the following. [14]
 (iii) Carry look ahead adder
 (iv) Any one BUS arbitration
 (v) Program driven I/O
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper bf35ee502d40
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATION AND ARCHITECTURE BATCH 15-16 RE EXAM(1).pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 July 2017
-- Text: ocr (1 page), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ei
-
-Programme: B. Tech (COMPUTER) Year: II Semester: IV
-
-Batch: 2015-2016
-
-Academic Year: 2016-2017
-
-Subject: Computer Organization and Architecture
-Marks: 60 ~~
-
-Date: 10 July 2017 ~ Time: 10.00 am A,
-Durations:3 (hrs)
-
-No. of Pages: _@!
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on‘the right hand side indicate full marks.
-7) Assume Suitable data if necessary-
-
-Q.1 Solve the following;
-
-a. Explain functional view of the computer system. [04]
-
-b. Discuss Flynn’s classification in detail. [04]
-
-c. Discuss complete memory hierarchy used in the computer system. [04]
-Q.2
-
-a. What is bus arbitration? Discuss daisy chain arbitration scheme. [06]
-
-b. Explain the working of Instruction Cycle with interrupt. [06]
-Q3
-
-a. Explain Static and Dynamic Ram operation. [06]
-
-b. Explain Programmed I/O and Interrupt driven V/O operations. [06]
-Q.4 ,
-
-a. What do you mean by cache mapping? Explain fully associative mapping with
-
-suitable example. [06]
-
-b. Explain Booth’s algorithm for signed multiplication with suitable example- [06]
-Q5
-
-a. Explain IEEE floating point representations and convert 40.15635 to IEEE 32-bit format. [06]
-
-b. Discuss any three addressing modes with suitable example. [06]
-Q.6
-
-a. Differentiate between RISC and CISC computers. [06]
-
-b. Explain the functioning of micro-programmed control unit with block diagram. [06]
-Q.7 Write short note on the following :
-
-a. Hardwired control Unit. [06]
-
-b. Redundant Array of Independent Disks. [06]
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 599d272451e0
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATION AND ARCHITECTURE BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 May 2017
-- Text: ocr (1 page), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) . Year: II Semester: IV
-Batch: 2015 - 2016
-Academic Year: 2016-2017
-Subject: Computer Organization and Architecture
-: : Marks: 60
-Date: 09 May 2017 ~ Time: 10.00 am to 1.00 pm ¢”
-
-Durations: 3 (hrs)
-
-No. of Pages: _|
-
-Re-Examination
-
-Instruction: Candidates should read the instructions printed on the question paper and on the cover of
-the Answer Book carefully.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql a) What is the difference between computer organization and computer architecture? (4)
-
-b) Explain pipelining and highlight its advantages. (4)
-
-c) Discuss DMA operation. : (4)
-
-Q2 a) Discuss the elements of bus design. (6)
-
-b) Explain Flynn’s classification. (6)
-
-Q3 a) Highlight the major features of RISC architectures. (6)
-b) With a neat sketch explain memory interleaving. (6) -
-
-Q4 a) Describe a hardwired control unit. Also state its advantages and disadvantages. (6)
-
-b) Explain floating point addition operation using a flowchart. (6)
-
-QS a) Using a flowchart and an example explain Booth’s algorithm for multiplication. (6)
-
-b) Discuss various cache mapping techniques. (6)
-
-Q6 a) Explain various addressing modes. . (6)
-
-— b) With a neat diagram explain a carry look ahead adder. (6)
-Q7_ Write short notes: (12)
-
-aad a) I/O channel
-
-b) Coprocessor
-c) Advanced DRAMs
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 50529bceb89c
@@ -9487,106 +9646,6 @@ c) Instruction Cycle flowchart
 
 (6)
 (12)
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper b3d7d5479f29
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATON & ARCHITECTURE BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 July 2017
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II Semester: I
-
-Batch: 2015-2016 -~
-
-; Academic Year: 2016-2017
-Subject: Computer Organization & Architecture .~
-
-a
-
-Marks: 60 ~
-
-Date: 08 July 2017
-
-Durations: 3 (hrs)
-No. of Pages: _O2-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer the following questions in short: 12
-a. Define the terms track, cylinder, and sector. : 2
-b. What are the characteristics of SRAMs? 2
-c. What are the independent mechanisms for controlling interrupt request? 2
-d. What is pipelining? 2
-e. What are four registers involved in fetch cycle? 2
-f. Explain the term striped data. 2
-Q2 Answer the following questions: 12
-_— a. Explain working of RAID level 3. 4
-b. A set associative cache size of 64Kline divided into 4-line sets (4-way) with block of 4 4
-ge: words. Main memory capacity is 64Mbyte.
-
-a. How many bits are used for main memory address?
-b. How many modules (set) in cache?
-c. How many bits for set numbers?
-
-/2
---- page 2 ---
-d. How many bits for block words?
-e. Show the format of main memory addresses with tag, set and word bits.
-
-c. Consider a magnetic disk drive with 10 surfaces, 521 tracks per surface, and 64 sectors per 4
-track. Sector size is 2 KB. The average seek time is 8.7 ms, the track-to-track access time
-is 1.2 ms, and the drive rotates at 3600 rpm. Successive tracks in a cylinder can be read
-without head movement.
-
-a. What is the disk capacity?
-
-b. What is the average access time? Assume this file is stored in successive sectors and
-tracks of successive cylinders, starting at sector 0, track 0, of cylinder i.
-
-c. Estimate the time required to transfer a 5-MB file.
-
-d. What is the burst transfer rate?
-
-Q3 Answer the following questions; 12
-a. Describe in detail ENIAC computer architecture. 6
-b. Discuss write policy of cache memory in detail. 6
-Q4 Answer the following questions: 12
-a. Explain the elements of bus design in detail. 6
-b. Write a note‘on High performance bus architecture. 6
-Q5 Answer the following questions: 12
-a. Explain Booth’s Algorithm for division of two numbers with an example in detail. 6
-b. What are the basic elements of floating-point addition and subtraction? 6
-Q6 Answer the following questions: vu
-a. Discuss Immediate addressing and Register indirect addressing in detail. 6
-b. Explain the Six-stage Pipeline approach for instruction execution in detail. 6
-Q7 Answer the following questions: 12
-a. Explain working of DMA controller in detail. 4
-b. Explain the block diagram of the Control Unit in detail. 4
-c. Explain Flynn’s classification in detail. ; 4
-
-|/2
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper 90073e10c8c2
@@ -9767,6 +9826,153 @@ Compute the product p = x * y with Booth’s algorithm.(write all steps and calc
 2/2.
 ````
 
+## 2014-15 · Exam not stated · Sem 4 · paper a7dd02629943
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATION AND ARCHITECTURE B TECH (IT), BATC0001.pdf`
+- Printed on paper: exam date: 08/05/2015
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: II
+Batch: 2013-14
+
+Semester: IV
+
+Academic Year: 2014-2015
+Subject: Computer Organization and Architecture
+
+Marks: |:
+Date: 08/05/2015 Time: | / 2.00spimt&5!
+Durations: 13,(hrs). ° ¥
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+
+Q1.Answer any five (4 marks each)
+1. What is Embedded system, draw basic blocks of such system, give two examples?
+2. State and explain significance of Amdahl’s Law?
+3. Explain memory hierarchy concept?
+4. State Write policies of cache?
+5. Draw timing sequence of Asynchronous bus operation?
+6. Explain compact disk operation with figure, in brief?
+
+Q2) 1) What are Elements of Cache design? Draw and explain flow chart for cache read operation? (10)
+
+2) Draw and explain instruction cycle flow and state diagram with suitable example? (10)
+
+Q3) 1) Explain the principle of Booth’s algorithm with suitable example and states it’s benefits?(10)
+2) A two-way set-associative cache has lines of 16 bytes and a total size of 8 kbytes.
+
+The 64-Mbyte main memory is byte addressable. Show the format of main memory addresses. (10)
+
+Q4) 1) Show how the following floating-point calculations are performed (where significands are truncated to 4
+decimal digits). Show the results in normalized form. (10)
+a. (2.255 * 10') * (1.234 * 10°)
+b.(8.833 * 10?) + (5.555 * 10%)
+
+2) Give Flynn’s classification Taxonomy tree and explain ?(10)
+
+Page lof 2
+--- page 2 ---
+QS) 1) Discuss the Interrupt handling by processor in computer system and how multiple interrupts are handled
+using suitable diagram?(10)
+
+2) Explain PCI bus arbiter with suitable waveforms and figures?(10)
+
+Q6) 1) Discuss different addressing modes in detail?(10)
+
+2) Give your understanding on IEEE 754 std. for floating point representation and explain steps involve in
+multiplication of two floating point numbers?(10)
+
+Q7) 1) Compare different RAID levels in terms of advantage, disadvantage and application?(10)
+
+2)Explain characteristics of RISC? Compare RISC vs CISC. (10)
+
+Page 2 of 2
+````
+
+## 2014-15 · Exam not stated · Sem 4 · paper 172743000e48
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATION AND ARCHITECTURE B TECH (IT), FINA0001.pdf`
+- Printed on paper: exam date: 08/05/2015
+- Text: ocr (1 page), mean OCR confidence 91.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: II Semester: IV
+
+Academic Year: 2014-2015
+Subject: Computer Organization & Architecture
+
+(PSYTME
+2:00spmAtR HOG
+3 (hrs)
+
+ae Mie ae
+
+Date: 08/05/2015 Time :
+Durations},
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB: .
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all S questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1.A. Explain Structure and Functional view of Computer (6 Marks)
+B. Explain Evolution of Computers in detail. (6 Marks)
+Q 2. A. Explain Replacement Algorithms with examples. (6 Marks)
+B. Explain Mapping from Main Memory to Cache: Direct and Associative (6 Marks)
+Q 3. A. Explain Bus Hierarchy and Arbitration (6 Marks)
+B. State the difference between SRAM and DRAM. (6 Marks)
+Q 4. A. Explain Applications of Microprogramming. (6 Marks)
+B. Explain any two I/O modules (6 Marks)
+Q5. A. Explain Briefly RISC and CISC. (6 Marks)
+B. Explain any one High Speed Memory (6 Marks)
+Q 6. A. Explain Flynn’s Classification. (6 Marks)
+B. Explain DMA in detail (6 Marks)
+Q 7. Write short notes (on any TWO) (12 Marks)
+a) Optical Memory
+b) Magnetic Tape
+c) RAID
+x
+````
+
 ## 2014-15 · Final-Exam · Sem 4 · paper 1a75c64aa3e8
 
 - Departments: Computer Engineering
@@ -9943,6 +10149,123 @@ e) Flynn’s classification of parallel processing systems [5]
 x x
 
 V/)
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper fb0ed3219fe2
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATION AND ARCHITECTURE B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 01/07/2015
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: II Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Computer Organization and Architeettire”” me
+. “Marks? 100
+Date: 01/07/2015 : Times*. 2.00 pm to 5.00 pm
+ek 3 (hrs)
+
+Re-Exa mination = /
+
+Note the following instructions:-
+1. Question Number 01 is compulsory.
+2. Out of remaining questions, attempt any 04 out of six questions.
+3. All questions carry equal marks.
+4. Draw neat catia wherever necessary.
+5. Ali sub-questions of the same question shouid be answered at one place only in their
+serial order, and not scattered.
+6. Write everything in ink (no pencil) only.
+7. Assume suitable data if required.
+8. Copying solutions is academic dishonesty.
+9. The quality of your writing will be taken into account in the grade. The reader must
+understand what you wrote! Justify your answers.
+
+1 (a) Explain various addressing mode. [05]
+(b) Compare RISC with CISC architecture. [05]
+
+(c) How many memory chips are needed to construct 2M x 32 memory system using 512K x8 [05]
+Static memory chips?
+
+(d) Explain various replacement algorithm used in cache memory. [05]
+
+2 (a) The format of a double operand instruction of a CPU is
+OPCODE (4 bits) | SOURCE DATA (4 bits) |_ DESTINATION DATA (4 bits) [10]
+If a 12 double operand instructions and 30 single operand instructions must be
+implemented, and if the opcode field must identify the three groups of -operand
+instructions, calculate the total number of no-operand instructions that can be
+implemented.
+
+(b) Explain Flynn’s classification of parallel processing Systems. [10]
+
+3 (a) Consider an L1 cache with an access time of J ns and a hit ratio of H 0.95. Suppose that we [10]
+can change the cache design (size of cache, cache organization) such that we increase H to 0.97,
+but increase access time to /.5 ns. What conditions must be met for this change to result in
+improved performance? Explain why this result makes intuitive sense.
+
+(b) Explain Pipelining hazards. [10]
+
+if.
+2
+--- page 2 ---
+4 a) Consider a machine with a byte addressable main memory of 2'° bytes and block size [10]
+
+of 8 bytes. Assume that a direct mapped cache consisting of 32 lines is used with this
+
+machine.
+a) How is a 16-bit memory address divided into tag, line number, and byte
+
+number?
+b) Into what line would bytes with each of the following addresses be stored?
+0001 0001 0001 1011
+1100 0011 0011 0100
+1101 0000 0001 1101
+1010 1010 1010 1010
+c) Suppose the byte with address 0001 1010 0001 1010 is stored in the cache.
+What are the addresses of the other bytes stored along with it?
+d) How many total bytes of memory can be stored in the cache?
+e) Why is the tag also stored in the cache?
+
+(b) Given x = 1010 and y = 0101 in twos complement notation, Compute the product p=x *y [10]
+with Booth’s algorithm. ‘
+
+5 (a) Anadadress field in an instruction contains decimal value 78. Where is the corresponding [10]
+operand located for
+
+a. immediate addressing?
+
+b. direct addressing?
+
+c. indirect addressing?
+
+d, register addressing?
+
+e. register indirect addressing?
+
+(b) Your ALU can add its two input registers, and it can logically complement the bits of either [10]
+input register, but it cannot subtract. Numbers are to be stored in two’s complement
+representation. List the micro-operations your control unit must perform to cause a subtraction.
+
+[10]
+
+6 (a) Explain Bus arbitration techniques.
+[10]
+
+(b) Explain serial transmission and synchronization in Input and output Unit.
+
+[10]
+
+7 (a) Explain Program driven I/O and Interrupt driven I/O
+[10]
+
+(b) Explain Interleaved memory.
+
+2
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper f8f907049a21
@@ -10492,123 +10815,6 @@ Q7. Short Notes (Any Four) : (20)
 6. RISC & CISC
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper fb0ed3219fe2
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATION AND ARCHITECTURE B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 01/07/2015
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: II Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Computer Organization and Architeettire”” me
-. “Marks? 100
-Date: 01/07/2015 : Times*. 2.00 pm to 5.00 pm
-ek 3 (hrs)
-
-Re-Exa mination = /
-
-Note the following instructions:-
-1. Question Number 01 is compulsory.
-2. Out of remaining questions, attempt any 04 out of six questions.
-3. All questions carry equal marks.
-4. Draw neat catia wherever necessary.
-5. Ali sub-questions of the same question shouid be answered at one place only in their
-serial order, and not scattered.
-6. Write everything in ink (no pencil) only.
-7. Assume suitable data if required.
-8. Copying solutions is academic dishonesty.
-9. The quality of your writing will be taken into account in the grade. The reader must
-understand what you wrote! Justify your answers.
-
-1 (a) Explain various addressing mode. [05]
-(b) Compare RISC with CISC architecture. [05]
-
-(c) How many memory chips are needed to construct 2M x 32 memory system using 512K x8 [05]
-Static memory chips?
-
-(d) Explain various replacement algorithm used in cache memory. [05]
-
-2 (a) The format of a double operand instruction of a CPU is
-OPCODE (4 bits) | SOURCE DATA (4 bits) |_ DESTINATION DATA (4 bits) [10]
-If a 12 double operand instructions and 30 single operand instructions must be
-implemented, and if the opcode field must identify the three groups of -operand
-instructions, calculate the total number of no-operand instructions that can be
-implemented.
-
-(b) Explain Flynn’s classification of parallel processing Systems. [10]
-
-3 (a) Consider an L1 cache with an access time of J ns and a hit ratio of H 0.95. Suppose that we [10]
-can change the cache design (size of cache, cache organization) such that we increase H to 0.97,
-but increase access time to /.5 ns. What conditions must be met for this change to result in
-improved performance? Explain why this result makes intuitive sense.
-
-(b) Explain Pipelining hazards. [10]
-
-if.
-2
---- page 2 ---
-4 a) Consider a machine with a byte addressable main memory of 2'° bytes and block size [10]
-
-of 8 bytes. Assume that a direct mapped cache consisting of 32 lines is used with this
-
-machine.
-a) How is a 16-bit memory address divided into tag, line number, and byte
-
-number?
-b) Into what line would bytes with each of the following addresses be stored?
-0001 0001 0001 1011
-1100 0011 0011 0100
-1101 0000 0001 1101
-1010 1010 1010 1010
-c) Suppose the byte with address 0001 1010 0001 1010 is stored in the cache.
-What are the addresses of the other bytes stored along with it?
-d) How many total bytes of memory can be stored in the cache?
-e) Why is the tag also stored in the cache?
-
-(b) Given x = 1010 and y = 0101 in twos complement notation, Compute the product p=x *y [10]
-with Booth’s algorithm. ‘
-
-5 (a) Anadadress field in an instruction contains decimal value 78. Where is the corresponding [10]
-operand located for
-
-a. immediate addressing?
-
-b. direct addressing?
-
-c. indirect addressing?
-
-d, register addressing?
-
-e. register indirect addressing?
-
-(b) Your ALU can add its two input registers, and it can logically complement the bits of either [10]
-input register, but it cannot subtract. Numbers are to be stored in two’s complement
-representation. List the micro-operations your control unit must perform to cause a subtraction.
-
-[10]
-
-6 (a) Explain Bus arbitration techniques.
-[10]
-
-(b) Explain serial transmission and synchronization in Input and output Unit.
-
-[10]
-
-7 (a) Explain Program driven I/O and Interrupt driven I/O
-[10]
-
-(b) Explain Interleaved memory.
-
-2
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 1bcf5cf80557
 
 - Departments: Computer Engineering
@@ -10833,6 +11039,7 @@ representation. List the micro-operations your control unit must perform to caus
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/COMPUTER ORGANIZATION AND ARCHITECTURE/Computer Organization and Architecture Batch 2013-14 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10/06/2014
 - Text: ocr (2 pages), mean OCR confidence 81.9
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -10897,12 +11104,9 @@ a. Explain with neat diagram functioning of a micro programmed control unit. (10
 b. Why there is need for virtualization? Explain paging and segmentation. (10)
 Q6
 a. Baglin insimietion cycle with diagram. (10)
-b. Bxplainvwith nest diagram fimotioning-s , ne (10)
-Eeplain in Delail TEEE Ho any Po sa heed nuenber “forma
 Q7. Short Notes (Any Four) (20)
 1. DMA
 
-Bi ~PerBus ~ipesyet PCL Bus
 
 3. Register a
 4, LRU and FIFO
@@ -10912,6 +11116,209 @@ Bi ~PerBus ~ipesyet PCL Bus
 6. , Extemadttriones F
 
 ak
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper 635444dd213f
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/COMPUTER ORGANIZATIONS AND ARCHITECTURE/scan0007(9).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/10/2012
+- Text: ocr (1 page), mean OCR confidence 84.9
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MCA Year: I Trimester: I
+Academic Year : 2012-2013
+
+SVKm's
+Ca NMIMS Univ, ye \
+
+. a
+
+Subject: COMPUTER ORGANIZATION & ARCHITECTURE Marks: 100 Mumbai - 56, de.
+Time: 10.00 a:
+
+Date: 27/10/2012 Duration: 3 hr:
+
+Final - Examination
+
+NB:
+1. Q1is compulsory.
+2. Inall any 5 questions to be attempted.
+3. Answer to each question to be started on a fresh paper.
+4. Figures to the right indicate full marks.
+
+Qi.
+A Write Booths algorithm for twos compliment multiplication. 10
+Perform -4*6,
+B_ Explain DRAM and SRAM. Differentiate them in terms of characteristics 10
+such as speed, size and cost
+Q2. <A __ Discuss the flowchart of IAS operation of computers. 10
+B __ Discuss different instruction types in detail with example . 10
+Q3 A _ Discuss elements of bus design. 10
+B Discuss different branch prediction techniques used in instruction 10
+pipelining.
+Q4 A __ Discuss different types of contro! unit implementations. 10
+B Discuss FLYN’s classification of parallel systems.. 10
+QS, A What do you understand by page replacement algorithm. Discuss with 10
+} examples.
+B__ Discuss instruction pipelining. 10
+Q6 A __ Discuss processor organization. 10
+B_ Discuss different addressing modes used in processors. & 10
+Q7 White detail notes on (ANY FOUR) 20
+
+| a} Discuss organization and architecture in detail. _
+\ ‘ b) Co processors.
+v! c) JK,SR Flip Flops.
+d) Discuss generations of computer systems.
+e) Discuss memory hierarchy.
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper 403c4fc7f342
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/COMPUTER ORGANIZATIONS AND ARCHITECTURE/scan0011(10).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/10/2012
+- Text: ocr (1 page), mean OCR confidence 88.9
+
+````text
+_ SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MCA . Year: I Trimester: I
+Academic Year : 2012-2013
+
+Batch: 2011-12
+
+Subject: COMPUTER ORGANIZATION & ARCHITECTURE Marks: 100
+Time: 10.00 a.
+
+Date: 27/10/2012 Duration: 3 hrs.
+
+Re - Examination
+gue. J alto IVLATKS » 1UU
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the Answer
+Book, Which is provided for their use.
+
+NB. .
+
+1. Question No 1 is compulsory
+
+2. Out of remaining question, attempt any four questions
+3. Inall five questions to be attempted
+
+4. Answer to each question to be started on fresh page
+
+5. Figure in bracket indicate full marks.
+
+Q1 A) (i Perform following operation without changing base of numbers. [3]
+a) (1234)5+ (4321)s
+b) (ABCDH) — (9434H)
+
+(ii) Calculate 7 bit even Hamming code for a number (1010) [3]
+
+(iii) Differentiate between synchronous & asynchronous counter [4]
+
+B) “Booth’s Algorithm is fastest multiplication algorithm” Give reason & hence solve for [10]
+number (+10) & (-5).
+
+Q2 A) Explain two level memory hierarchy & Give formulae for various characteristics of it. [10]
+
+B) Explain memory interleaving with different interleaving Techniques in detail [10]
+
+Q3 A) Explain bus, bus arbitration, bus contention & techniques to resolve bus contention [10]
+
+j B) Explain different techniques to design control unit of computer . [10]
+
+Q4 A) Give limitation of programmed IO method & other methods to overcome these disadvantages. [10]
+
+B) Explain pipelines concept & with different instruction pipeline stages. [10j
+
+Q5 A) Define Cache memory with principle of locality, & different mapping scheme [10]
+
+B) Differentiate between RISC & CISC processors {16}
+
+Q 6 A) Explain content accessible memory 110]
+
+B)/ Simply using K-map and realize using logical gate [10]
+
+7 j ABCD) = Zm(1.3,7, 14.15} +E
+
+Q7 Write Details notes on following (Any Two) [20]
+
+a) Instruction cycle
+b) Flynn’s Classification
+c) RAID
+````
+
+## 2012-13 · Re-Exam · Trim 1 · paper b9393dda174e
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/COMPUTER ORGANIZATIONS AND ARCHITECTURE/COMPUTER ORGANIZATION & ARCHITECTURE I MCA 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/6/2013
+- Text: text (2 pages)
+
+````text
+Academic Year :2012-2013
+Batch:   2011-2012
+Subject:   Computer Organization &   Marks:   100
+Architecture   Time:   10.00 am To 1.00 pm
+Date:   11/6/2013   Duration: 3 hrs.
+Re - Examination
+'....- . -- -
+Instructions: Cand~dates should read carefully the ~nstructions printed on the question paper
+NB:   -
+1. Question 1 is compulsory.
+2. Out of remaining questions. attempt any Four question.
+?. In all Five questions to be attempted.
+4. Answer to each question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks
+6. Assume Suitable data if required.
+Q1. (a) Compare Computer Architecure and Organization w~th examples   Lo51
+(b) Obtain hamming code for 1010. Prove that hamming code is error detecting   [05]
+and correcting code
+(c) Convert JK Flip flop to SR and D flip flop   [lo]
+Q.2 (a) Explain different bus arbitration schemes with suitable diagrams   [lo]
+(b) A Winchester magnetic disk unit has densities of 40 x lo6 bits per square   [lo]
+inch of surface.   I
+i)   If ihe inner diameter of recording area is 4 inches and outer diameter
+is 7 inches, what is average bit density along a track if radial track
+spacing density is 2000 tracksf inch.
+ii) What is data transfer rate in byteslsec at a rotational speed of 3600
+rpm?
+Q. 3 (a) Explain the page replacement algorithms. Find d   t the page fault for   [lo]
+following string using LRU method. Consider page frame size=3,
+7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 1 7 0 1
+(b)   Explain with state diagram. MESl (Mutual Exclusive Shared Invalid)   [lo]
+Protocol.
+Q. 4 (a)   Explain different methods to des~gn the hardwired control unit   [lo]
+(b) Compare Vertical and Horizontal micropl.oyrarn~i-iing   1041
+(c) Wrile a micro program using   R'I'I.   ( Register 'I'ransfer Language) for   [06]
+following arithmetic operations
+i ) ADDRI. R2 i.e.RIFRI i-R2
+ii) MUL R1, R2 i.e. R1 t R1 * R2
+--- page 2 ---
+I
+. . ~ .~~ Q.5 (a~_lnterrupts. ar~e impraving.the.pwess.i~gefficiency; TRUE or FALSE? Justify   [08]-----
+I. I   with example
+(b)   Define Memory Access Time and Memory Cycle Time. State which is less?   LO21   1
+(c)   Define ("InputIOutput") Module. State the difference between programmable   [LO]   i
+and non prograrnn~able device. Explain in brief the structure of 8089 110
+processor.   4
+Q. 6 (a) What is bit sliced ALU'? Explain in brief the structure of AMD 2901 IC and   [lo]
+deign 12 bit ALU using AMD 2901 IC.
+(b) Compare RISC and ClSC in detail   [lo]
+Q. 7 (a) Draw a 3 bit ring counter and draw timing wave form. Prove that it is divide   [lo]
+by 3 network.
+(b) Explain what   is pipeline and   parallel processing. Explain Flynn's   [lo]
+classification of parallel processing systems.
+and on the cover of the Answer Book, which is provided for their use
 ````
 
 ## 2012-13 · Re-Exam · Trim 1 · paper 596b0f563347
@@ -11012,71 +11419,6 @@ Q7.’ a. r| hort Note : (Any Four) 20
 ok
 
 V/
-````
-
-## 2011-12 · Re-Exam · Trim 1 · paper b9393dda174e
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/COMPUTER ORGANIZATIONS AND ARCHITECTURE/COMPUTER ORGANIZATION & ARCHITECTURE I MCA 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/6/2013
-- Text: text (2 pages)
-
-````text
-Academic Year :2012-2013
-Batch:   2011-2012
-Subject:   Computer Organization &   Marks:   100
-Architecture   Time:   10.00 am To 1.00 pm
-Date:   11/6/2013   Duration: 3 hrs.
-Re - Examination
-'....- . -- -
-Instructions: Cand~dates should read carefully the ~nstructions printed on the question paper
-NB:   -
-1. Question 1 is compulsory.
-2. Out of remaining questions. attempt any Four question.
-?. In all Five questions to be attempted.
-4. Answer to each question to be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks
-6. Assume Suitable data if required.
-Q1. (a) Compare Computer Architecure and Organization w~th examples   Lo51
-(b) Obtain hamming code for 1010. Prove that hamming code is error detecting   [05]
-and correcting code
-(c) Convert JK Flip flop to SR and D flip flop   [lo]
-Q.2 (a) Explain different bus arbitration schemes with suitable diagrams   [lo]
-(b) A Winchester magnetic disk unit has densities of 40 x lo6 bits per square   [lo]
-inch of surface.   I
-i)   If ihe inner diameter of recording area is 4 inches and outer diameter
-is 7 inches, what is average bit density along a track if radial track
-spacing density is 2000 tracksf inch.
-ii) What is data transfer rate in byteslsec at a rotational speed of 3600
-rpm?
-Q. 3 (a) Explain the page replacement algorithms. Find d   t the page fault for   [lo]
-following string using LRU method. Consider page frame size=3,
-7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 1 7 0 1
-(b)   Explain with state diagram. MESl (Mutual Exclusive Shared Invalid)   [lo]
-Protocol.
-Q. 4 (a)   Explain different methods to des~gn the hardwired control unit   [lo]
-(b) Compare Vertical and Horizontal micropl.oyrarn~i-iing   1041
-(c) Wrile a micro program using   R'I'I.   ( Register 'I'ransfer Language) for   [06]
-following arithmetic operations
-i ) ADDRI. R2 i.e.RIFRI i-R2
-ii) MUL R1, R2 i.e. R1 t R1 * R2
---- page 2 ---
-I
-. . ~ .~~ Q.5 (a~_lnterrupts. ar~e impraving.the.pwess.i~gefficiency; TRUE or FALSE? Justify   [08]-----
-I. I   with example
-(b)   Define Memory Access Time and Memory Cycle Time. State which is less?   LO21   1
-(c)   Define ("InputIOutput") Module. State the difference between programmable   [LO]   i
-and non prograrnn~able device. Explain in brief the structure of 8089 110
-processor.   4
-Q. 6 (a) What is bit sliced ALU'? Explain in brief the structure of AMD 2901 IC and   [lo]
-deign 12 bit ALU using AMD 2901 IC.
-(b) Compare RISC and ClSC in detail   [lo]
-Q. 7 (a) Draw a 3 bit ring counter and draw timing wave form. Prove that it is divide   [lo]
-by 3 network.
-(b) Explain what   is pipeline and   parallel processing. Explain Flynn's   [lo]
-classification of parallel processing systems.
-and on the cover of the Answer Book, which is provided for their use
 ````
 
 ## 2010-11 · Exam not stated · Trim 1 · paper d39c273d6c45
@@ -11473,6 +11815,7 @@ XS
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/COMPUTER ORGANIZATIONS AND ARCHITECTURE/2007-2008.pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Say wn
@@ -11499,7 +11842,6 @@ _y Q 1 Answer the following. [20]
 1. Simplify the Boolean function F together with the don’t care condition din SOP and (5)
 POS form and then draw the circuit diagram for any 1 form.
 F(A, B, C, D)=¥ (0, 1, 2, 3, 7, 8, 10)
-F (A, B, C, D) = d (5, 6, 11, 15)
 
 2. Convert the (932);9 number into binary, octal and hexadecimal numbers. (3)
 3. Perform the subtraction using 1’s and 2’s complement 11011 — 11001. (4)
@@ -11560,395 +11902,4 @@ Q. 7 Answer the following. (Any 2)
 [20]
 
 [20]
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 22d5dd486a58
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANISATION AND ARCHITECTURE B TECH (IT), BATC0001.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 07/05/2016
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-L"UKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & FP segitTE OF mage
-ETE BF
-
-Programme: B. Tech (L.T.) Year: II Semester: IV [ee
-i oe
-Academic Year: 2015-2016 | {d Lj 7 OE
-Subject : Computer Organization & Architecture X wf
-: ° ° Marks: 60 7 eae Y
-Date : 07/05/2016 Time : 10.00 am to 100 p pm
-
-Durations: 3 (hrs)
-Final-Examination .
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Qi Answer the following questions 12
-
-a. Define computer organization and computer architecture. 2
-
-b. What are the characteristics of SRAMs? 2
-
-c. What are the independent mechanisms for controlling interrupt request? 2
-
-d. Define guard bits. 2
-
-e. What are four registers involved in fetch cycle? 2
-
-f. What are the I/O execution techniques? 2
-
-Q2 Answer the following questions 12
-
-a. Why RAID Level 0 is used for high data transfer capacity and I/O request rate? 4
-
-— b. A set associative cache size of 64Kline divided into 4-line sets (4-way) with block 4
-
-of 4 words. Main memory capacity is 64Mbyte.
-
-a. How many bits are used for main memory address?
-
-b. How many modules (set) in cache?
-
-c. How many bits for set numbersand block words?
-
-d. Show the format of main memory addresses with tag, set and word bits.
-
-c. Consider a magnetic disk drive with 10 surfaces, 521 tracks per surface, and 64 4
-sectors per track. Sector size is 2 KB. The average seek time is 8.7 ms, the track-to-
-track access time is 1.2 ms, and the drive rotates at 3600 rpm. Successive tracks in a
-cylinder can be read without head movement.
-
-a. What is the disk capacity?
-
-b. What is the average access time? Assume this file is stored in successive sectors
-and tracks of successive cylinders, starting at sector 0, track 0, of cylinder i.
-
-c. What is the burst transfer rate?
-
-Ho.
---- page 2 ---
-Q3 Answer the following questions 12
-
-a. Explain Moore’s law and its consequences in detail. 6
-b. Discuss write policy of cache memory in detail 6
-Q4 Answer the following questions 12
-a. Explain the design elements of bus in detail. 6
-b. Explain High performance bus architecture in detail. - 6
-Q5 Answer the following questions 12
-a. Explain Booth’s Algorithm for Multiplication of two numbers with an example in 6
-detail.
-b. What are the basic elements of floating-point addition and subtraction? 6
-Q6 Answer the following questions 12
-a. Explain displacement addressing in detail. 6
-b. Explain the Six-stage Pipeline approach for instruction execution in detail. 6
-Q7 Answer the following questions 12
-a. Explain working of DMA controller in detail. 4
-b. Explain the block diagram of the Control Unit in detail. 4
-c. Explain Flynn’s classification in detail. 4
-7 |
-
-2)o
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper a7dd02629943
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATION AND ARCHITECTURE B TECH (IT), BATC0001.pdf`
-- Printed on paper: exam date: 08/05/2015
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II
-Batch: 2013-14
-
-Semester: IV
-
-Academic Year: 2014-2015
-Subject: Computer Organization and Architecture
-
-Marks: |:
-Date: 08/05/2015 Time: | / 2.00spimt&5!
-Durations: 13,(hrs). ° ¥
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-
-Q1.Answer any five (4 marks each)
-1. What is Embedded system, draw basic blocks of such system, give two examples?
-2. State and explain significance of Amdahl’s Law?
-3. Explain memory hierarchy concept?
-4. State Write policies of cache?
-5. Draw timing sequence of Asynchronous bus operation?
-6. Explain compact disk operation with figure, in brief?
-
-Q2) 1) What are Elements of Cache design? Draw and explain flow chart for cache read operation? (10)
-
-2) Draw and explain instruction cycle flow and state diagram with suitable example? (10)
-
-Q3) 1) Explain the principle of Booth’s algorithm with suitable example and states it’s benefits?(10)
-2) A two-way set-associative cache has lines of 16 bytes and a total size of 8 kbytes.
-
-The 64-Mbyte main memory is byte addressable. Show the format of main memory addresses. (10)
-
-Q4) 1) Show how the following floating-point calculations are performed (where significands are truncated to 4
-decimal digits). Show the results in normalized form. (10)
-a. (2.255 * 10') * (1.234 * 10°)
-b.(8.833 * 10?) + (5.555 * 10%)
-
-2) Give Flynn’s classification Taxonomy tree and explain ?(10)
-
-Page lof 2
---- page 2 ---
-QS) 1) Discuss the Interrupt handling by processor in computer system and how multiple interrupts are handled
-using suitable diagram?(10)
-
-2) Explain PCI bus arbiter with suitable waveforms and figures?(10)
-
-Q6) 1) Discuss different addressing modes in detail?(10)
-
-2) Give your understanding on IEEE 754 std. for floating point representation and explain steps involve in
-multiplication of two floating point numbers?(10)
-
-Q7) 1) Compare different RAID levels in terms of advantage, disadvantage and application?(10)
-
-2)Explain characteristics of RISC? Compare RISC vs CISC. (10)
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 172743000e48
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/COMPUTER ORGANIZATION AND ARCHITECTURE/COMPUTER ORGANIZATION AND ARCHITECTURE B TECH (IT), FINA0001.pdf`
-- Printed on paper: exam date: 08/05/2015
-- Text: ocr (1 page), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II Semester: IV
-
-Academic Year: 2014-2015
-Subject: Computer Organization & Architecture
-
-(PSYTME
-2:00spmAtR HOG
-3 (hrs)
-
-ae Mie ae
-
-Date: 08/05/2015 Time :
-Durations},
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB: .
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all S questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q1.A. Explain Structure and Functional view of Computer (6 Marks)
-B. Explain Evolution of Computers in detail. (6 Marks)
-Q 2. A. Explain Replacement Algorithms with examples. (6 Marks)
-B. Explain Mapping from Main Memory to Cache: Direct and Associative (6 Marks)
-Q 3. A. Explain Bus Hierarchy and Arbitration (6 Marks)
-B. State the difference between SRAM and DRAM. (6 Marks)
-Q 4. A. Explain Applications of Microprogramming. (6 Marks)
-B. Explain any two I/O modules (6 Marks)
-Q5. A. Explain Briefly RISC and CISC. (6 Marks)
-B. Explain any one High Speed Memory (6 Marks)
-Q 6. A. Explain Flynn’s Classification. (6 Marks)
-B. Explain DMA in detail (6 Marks)
-Q 7. Write short notes (on any TWO) (12 Marks)
-a) Optical Memory
-b) Magnetic Tape
-c) RAID
-x
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 635444dd213f
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/COMPUTER ORGANIZATIONS AND ARCHITECTURE/scan0007(9).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/10/2012
-- Text: ocr (1 page), mean OCR confidence 84.9
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MCA Year: I Trimester: I
-Academic Year : 2012-2013
-
-SVKm's
-Ca NMIMS Univ, ye \
-
-. a
-
-Subject: COMPUTER ORGANIZATION & ARCHITECTURE Marks: 100 Mumbai - 56, de.
-Time: 10.00 a:
-
-Date: 27/10/2012 Duration: 3 hr:
-
-Final - Examination
-
-NB:
-1. Q1is compulsory.
-2. Inall any 5 questions to be attempted.
-3. Answer to each question to be started on a fresh paper.
-4. Figures to the right indicate full marks.
-
-Qi.
-A Write Booths algorithm for twos compliment multiplication. 10
-Perform -4*6,
-B_ Explain DRAM and SRAM. Differentiate them in terms of characteristics 10
-such as speed, size and cost
-Q2. <A __ Discuss the flowchart of IAS operation of computers. 10
-B __ Discuss different instruction types in detail with example . 10
-Q3 A _ Discuss elements of bus design. 10
-B Discuss different branch prediction techniques used in instruction 10
-pipelining.
-Q4 A __ Discuss different types of contro! unit implementations. 10
-B Discuss FLYN’s classification of parallel systems.. 10
-QS, A What do you understand by page replacement algorithm. Discuss with 10
-} examples.
-B__ Discuss instruction pipelining. 10
-Q6 A __ Discuss processor organization. 10
-B_ Discuss different addressing modes used in processors. & 10
-Q7 White detail notes on (ANY FOUR) 20
-
-| a} Discuss organization and architecture in detail. _
-\ ‘ b) Co processors.
-v! c) JK,SR Flip Flops.
-d) Discuss generations of computer systems.
-e) Discuss memory hierarchy.
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 403c4fc7f342
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/COMPUTER ORGANIZATIONS AND ARCHITECTURE/scan0011(10).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/10/2012
-- Text: ocr (1 page), mean OCR confidence 88.9
-
-````text
-_ SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MCA . Year: I Trimester: I
-Academic Year : 2012-2013
-
-Batch: 2011-12
-
-Subject: COMPUTER ORGANIZATION & ARCHITECTURE Marks: 100
-Time: 10.00 a.
-
-Date: 27/10/2012 Duration: 3 hrs.
-
-Re - Examination
-gue. J alto IVLATKS » 1UU
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the Answer
-Book, Which is provided for their use.
-
-NB. .
-
-1. Question No 1 is compulsory
-
-2. Out of remaining question, attempt any four questions
-3. Inall five questions to be attempted
-
-4. Answer to each question to be started on fresh page
-
-5. Figure in bracket indicate full marks.
-
-Q1 A) (i Perform following operation without changing base of numbers. [3]
-a) (1234)5+ (4321)s
-b) (ABCDH) — (9434H)
-
-(ii) Calculate 7 bit even Hamming code for a number (1010) [3]
-
-(iii) Differentiate between synchronous & asynchronous counter [4]
-
-B) “Booth’s Algorithm is fastest multiplication algorithm” Give reason & hence solve for [10]
-number (+10) & (-5).
-
-Q2 A) Explain two level memory hierarchy & Give formulae for various characteristics of it. [10]
-
-B) Explain memory interleaving with different interleaving Techniques in detail [10]
-
-Q3 A) Explain bus, bus arbitration, bus contention & techniques to resolve bus contention [10]
-
-j B) Explain different techniques to design control unit of computer . [10]
-
-Q4 A) Give limitation of programmed IO method & other methods to overcome these disadvantages. [10]
-
-B) Explain pipelines concept & with different instruction pipeline stages. [10j
-
-Q5 A) Define Cache memory with principle of locality, & different mapping scheme [10]
-
-B) Differentiate between RISC & CISC processors {16}
-
-Q 6 A) Explain content accessible memory 110]
-
-B)/ Simply using K-map and realize using logical gate [10]
-
-7 j ABCD) = Zm(1.3,7, 14.15} +E
-
-Q7 Write Details notes on following (Any Two) [20]
-
-a) Instruction cycle
-b) Flynn’s Classification
-c) RAID
 ````

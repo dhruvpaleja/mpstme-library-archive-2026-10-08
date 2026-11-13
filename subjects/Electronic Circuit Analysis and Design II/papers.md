@@ -1,86 +1,8 @@
 # Electronic Circuit Analysis and Design II: question papers in full
 
-4 unique papers · 2016-17 to 2018-19 · Electronics and Telecommunication
+3 unique papers · 2016-17 to 2018-19 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
-
-## 2018-19 · Final + Re-Exam · Sem 6 · paper 0fcf8b5839fb
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_06/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN II/Electronic Instrumentation 2018-19 Final Batch 2017-18 Re Exam.pdf`
-- Printed on paper: exam date: 15 April 2019
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program :B.Tech Integrated (EXTC) Year: IIL Semester: VI ~
-toy Academic Year: 2018-2019
-
-i -
-
-‘Subject: Electronic Instrumentation — : 70 «
-Date: 15 April 2019 - 02.00 pm to 5.00 pm -
-
-ope ae:
-Final Examination (2018-19)/Reexa
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Qut of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 a) Explain Total harmonic distortion. (3)
-Q.1 b) Explain the terms: (i) Precision, (ii) Accuracy (4)
-Q.1 c) Draw circuit diagram and vector diagram of Hay’s Bridge. (4)
-
-n. With meak Marvenn alas CRT. (3)
-Q.2 a) explain working of Strain Gauge and derive expression for gauge factor. (7)
-Q.2 b) With the help of neat diagram explain working principle of Venturi tube. (7)
-
-Q.3 a) with the help of neat diagram explain working principle of Ionisation type Vaccum
-gauge. (7)
-Q.3 b) with the help of neat diagram explain working of Attraction-type Moving-Iron
-
-Instrument. (7)
-
-Q.4 (a) Explain with neat diagram the working principle of Megger for High resistance
-measurement. (7)
-
-Q.4 (b) Draw the block diagram of Function generator and explain the role of each block. (7)
-
-Vo
---- page 2 ---
-Q.5 a) Give construction and working of RTD. (7)
-Q.5 b) Explain with neat diagram the working principle of Ultrasonic Level gauge. (7)
-
-Q.6 a) Explain with neat diagram Voltmeter-Ammeter Method for Measuring Low
-Resistance. . . (7)
-
-Q.6 b) Draw neat block diagram of Sampling Oscilloscope and explain the functioning of
-each block. : (7)
-
-Q.7 Attempt any two of the following:
-
-(a) Anderson Bridge (7)
-(b) Potentiometer Method for Measuring Low Resistance (7)
-(c) Schering Bridge (7)
-
-2f2
-````
 
 ## 2018-19 · Final-Exam · Sem 6 · paper 59313bfc0094
 
@@ -89,6 +11,8 @@ Q.7 Attempt any two of the following:
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_06/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN II/Electronic Circuit Analysis and Design II 2018-19 Final.pdf`
 - Printed on paper: exam date: 22 April 2019
 - Text: ocr (8 pages), mean OCR confidence 49.1
+- 21 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM’S NMIMS
@@ -219,7 +143,6 @@ iy
 YN, - focacd_ . = -o0as = Ass fim] kL
 ‘ Pertde) tde) e :
 ¥ = é Lim]
-Power raking. of franstater = aow. a
 ») Given Ret 16-2 , Rreq JOKS2
 Wwe knew 5 Rica - ae Ry _ a 16
 [Ok .c- = 16 LE
@@ -236,23 +159,17 @@ Desorption fam) | ie
 A daxivatton [2M]
 --- page 4 ---
 d 4) , ;
-fe > axle 7) c= ree - @ f> looletiz. RL =looptt|
 qa cy as 3B 30PF fom
 and @+ . psoolk tte & Ls (oot 3,2 lat 6 pf T2M)
 
-r. Raine of requincel eaparitor is agp te as.s2erl cm)
 
-kere ugcle of Che enpuct
 
-a a” Neut put canner ilowip in ow
 pagton of flee lead Line.
 
 ré) As dravrcstor operates the lenenr
 itt) ae A€ poured’ delivered és Sonal _
 2 Tate power sueppliedd bl de source
 iw) ee Ac power delivered tp lees ——— ET
-° Power” suppléedt a cha Sour tp (ke franstator
-D) May cman posséble eviercell of freden ty in eneased fs SOY
 x sto + points fam]
 
 YD) earcutt Déagram Baise 4 md
@@ -267,11 +184,9 @@ aS a7 Vollage Shunt Feed - back harp Hog
 \ 3
 
 ~ b) Given? - .
-Given? Ry SHEKO., Rew (DED, Re= seo WharlsO
 We=26k.0 Vee=lév.
 
 le, Khe R
-Ay Ve. olleanqe aur Nal wot tiout feed back Aye oa
 Oe
 
 aera |
@@ -308,7 +223,6 @@ a mH “he * [ooo
 ‘A5y {Kae
 
 TS n%
-Tis Seyaiy tb Ueccxe * BHO? SHIT? For
 
 Venfin = Fe Rs + V2 ~ (FA 18" ALAC   ) +5 =12V,
 
@@ -317,30 +231,24 @@ COLLAR Tg° UZ yap te Dy. = womb,
 Ulwiog = Pe Rat Va = BOY.
 ) Dee vee - a = asmA
 - 7 5
-Lyin e tem Tz mag -Asner- — OKO 5) = swith [3.5m 4
-Dy omap = Isg~ Fane * (a5 %10 5x16?) = gioma
 Sa? _ BVoe _
 Sv" cd ADO 7 vy tks
 _ Ave Bm)
 Fo” RT| Aver =
-ver leing erplouation (aM) . _ Bellre2 thre
 [ebpe
 Var’ arbie (Relhre Ye © 2)
 ie bee
 5 4 Selector ae’
-peasomHfiaA, te 2 5.tKx6 1 leh C) =grc
 LCrCo. Re.
 a -| 4
 ce SEKe * ener ste 6 _ .
 herr. BSOKIO? KIA ROE
 - -2—= are uF
-“5 HOH   y oe FBG REM , felect eae 2g HFGMT
 [2am 3 a
 Vic = [FBIVV.
 
 Sale dion ob Trcns L Vile = Vin afc k a
 
-prtlewing 207 ip aero Be, Pp & Reboke v= ao-F8V. Bam)
 
 7
 Verge * = 14.69 VU 2 Select 15-0-15 V Tramsprmet pee 6
@@ -351,10 +259,8 @@ Verge * = 14.69 VU 2 Select 15-0-15 V Tramsprmet pee 6
 Ty = fu. soo = acomaA
 7 os [2m
 
-Saleuboy cliodss vot He anv] 500m A:
 
 * Working Bp planation X prepranty formula [am 7
-* Nea Ske of. cereus & ‘Diogren Tam]
 
 ” [ataste] Design Y RC Phose Suifl oscillator
 bn shihin
@@ -374,7 +280,6 @@ TEL f3-6M)
 Cprerr ck Diéoe A rar) ar ing
 
 Fa, _s
-i A=GOAB =) p= lO0o (Paktng anrtiles 68 5 (ooo)
 
 ey 7 Fo Zo WALCO
 fol Te A p- Beil . See
@@ -394,9 +299,7 @@ Bs eee ene nl on
 =a Ae erent wal
 LZ Lae er eee
 
-i) Vg @ Uy = LON . Ca . to 2 OR
 P Cy 506
-i a Vp = Or EK LO © an
 ite prendre ain oa 2 < pro:
 210
 
@@ -412,6 +315,7 @@ SOS AESL
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_06/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN II/Electronic Circuit Analysis and Design II 2017-18 Final.pdf`
 - Printed on paper: max marks: 70; exam date: 12 May 2018
 - Text: ocr (3 pages), mean OCR confidence 68.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 sali
@@ -501,10 +405,8 @@ A»
 3 * : 3 ap Ryemaw ° :
 S(B]. |B SSBSSSS5IFIS2Sssgk .
 Pay, QO igt=seuelBlews? S é
-- ca ns Rat J i Nae ee SD ‘a. 7
 s “ : 2 a wea...
 EIR fa ; ag2sys SSSA ie z: as 4
-alot Ss: Br ps =. me dO . 3
 ao = ‘ 3 :
 . . ~ beef . Af .
 . ye Ea. . .
@@ -594,6 +496,7 @@ pia Be Say .
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_06/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN II/Electronic Circuit Analysis and Design II 2016-2017 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 15 May 2017
 - Text: ocr (3 pages), mean OCR confidence 70.5
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 dei ee?
@@ -687,7 +590,6 @@ wSofog ls
 8/2 /FS2S2838 an alu: te
 wore : 1 & S=RkM 2 elsiaye : 7
 . a,el) wl SP8 ee ~ | Phe
-c, als g eet glo 2S slal:.
 . Es 12/12
 . . Zi eie}elys a/R) S
 oe | éhstes & Sle] eo] ‘Bays
@@ -724,11 +626,8 @@ Pew |Soeneaan|]. ELE | | | :
 gsi {ES2earga erica ="
 Sad ? ‘ .
 Lo Sk feeonresl|-| pop: 1 dds. ;
-- . QE SASS ssa epORe JE Stele.
-ne [80s [POTS IR saa Sle ciel ea
 z go8 MOBI z
 LEAS [4 ARGS aadgada st +
-Lez por Selly wR EWA !- offs :
 TOT s . HE Se poop:
 oS oo ne . : _ : :
 we _ eho .

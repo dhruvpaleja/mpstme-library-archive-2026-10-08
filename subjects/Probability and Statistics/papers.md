@@ -5447,6 +5447,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/PROBABILITY AND STATISTICS/Probabilty and Statistics 2025-26 Final.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2025
 - Text: ocr (9 pages), mean OCR confidence 80.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -5743,7 +5744,6 @@ j 1.0 [0.3413 [0.3438 Jo.3461 [0.3485 [0.3508 [0.3531 |Q3554 [0.3577 [0.3599 [0.
 \
 - t
 
-FR Da a kk a kok
 --- page 6 ---
 t Distribution: Critical Values of ¢
 
@@ -5932,7 +5932,6 @@ Table of 'F Distribution. (Value of Fy 45)
 3.0718 §=.2.6802, 2.4472 «22899 «2.1750 2.0868 =. 2.0164 1.9588
 29987 26079 23749 22171 2.1016 82.0126 1.9415 1.8830
 
-FR RR Q RR RRR RR
 
 =
 
@@ -12989,6 +12988,7 @@ FIC QF EH 1
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/PROBABILITY & STATISTICS/Probability and Statistics Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf` (+14 identical copies)
 - Printed on paper: max marks: 100; exam date: 09 July 2026
 - Text: ocr (8 pages), mean OCR confidence 73.9
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / SVKM’S NMIMS
@@ -13054,7 +13054,6 @@ Ice Cream Sales (Y) (packs) | 120 | 135 | 150 | 165 | 160 | 145 | 170 | 180
 4 Calculate Karl Pearson’s coefficient of correlation between daily temperature and
 ice cream sales. :
 
-FSS IR | aa a ok ak a ae
 --- page 2 ---
 CO-2,3,4;|b)} During a quality control study in a manufacturing unit, the number of defects X | [6]
 SO-1; observed in randomly selected items was recorded. The following frequency
@@ -13113,7 +13112,6 @@ BL-3 0 0.05 [0.1 | 0.1 | 0.05
 Find (i) marginal probability distributions of X and Y, (ii) P(X < 1,Y = 3),
 (iii) P(X < 2, Y < 3).
 
-SRO RAK a aC ak a ok ak
 --- page 3 ---
 CO-2,3,5; |e) | Two fertilizers, A and B, are tested on similar fields to study the consistency in |.[8]
 SO-1; crop yield (quintals per hectare). The results are:
@@ -13161,7 +13159,6 @@ BL-3 Compute (i) value of k, (ii) P(x =1,y <2) , (iii) the marginal probability
 
 ¥ distribution of x.
 
-FRR ROR dk a ae ak ak ak a
 
 g
 --- page 4 ---
@@ -13349,7 +13346,6 @@ LOG 2.336
 
 1.860 2336
 
-FRA RRR 6 do ak ak ak ak
 
 1%
 a5%e
@@ -13541,6 +13537,7 @@ o>
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/PROBABILITY AND STASTISTICS/Probability and Statistics Batch 2024-25,2025-26 Re Exam.pdf`
 - Printed on paper: max marks: 100; exam date: 03 July 2026
 - Text: ocr (9 pages), mean OCR confidence 78.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4 SVKM’S NMIMS
@@ -13651,7 +13648,6 @@ and 3.2 respectively. Test at 5% level whether the population variances lee
 are equal. ’ |
 [6]
 
-FI I 2 ack a a a kak
 --- page 3 ---
 ek ye
 
@@ -13713,7 +13709,6 @@ Find with justification:
 
 ri
 
-FOI Qk a ok a a ak ok
 
 ty
 --- page 4 ---
@@ -14308,6 +14303,7 @@ MOS779.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/PROBABILITY & STATISTICS/Probability and Statistics, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf` (+6 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (12 pages), mean OCR confidence 78.6
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -14789,18 +14785,14 @@ ie
 
 Weer. orc re = a eee
 roy ess ee: br Seto. Ao
-aie \ bo aaa grec Beno
 welt ee, a PY
 Bg = pe ee ee
-ata Spr saat Petts: SS ANGRY JEtegy
 oe lies iy ne 7
 a Tt) eee a SPS eS
 — omits Geet oshtfe arp mer
-ur i. ee ah Pa [ume Pm 2 - ds
 sos ae contre ave ates | oee
 tot en ee eo 2 ke)
 Lis = UW ne: °, 2 Hea
-mi NE ae, ok ee oo
 tae i te
 ious a. SAL SES — Tie
 reo eS en fem ar fa”
@@ -14808,14 +14800,11 @@ a ws ae Te TE
 Poe! MR Mg SL hinge Rn
 MAS ks ee, ete Cate |
 a 8 I ess kit Corr ‘-
-r= hb = ea 4) ee ee &
 Ses EP epee ge
 re hee ie oe pitt
 Lhe rh] «yrlser Seen et
 Sek tre’ wie’ Meir
-piet ar ekie aie ere
 Vee Ge a) STL
-fio orn ieest fhidiut
 Re ees ets Eee
 
 a0" es hry
@@ -15748,6 +15737,7 @@ ala
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/IT/Sem_08/Probability and Statistics/Probability and Statistics Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (8 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / SVKM’S NMIMS
@@ -15939,7 +15929,6 @@ non fo. aoe
 
 0.00 / 0.01 | 0.02 | 0.03 | 0.04 , 0.05 | 0.06 | 0.07 | 0.08 | 0.09 |
 1.0 |0.0000 (0.0040 0.0080 “Tooi20 “10.0160 /0.0199 [0.0239 {0.0279 jo.0319 [0.0359 _
-i r enpeeevee aetiomemie. proneneree snk pear me rp oe nd |
 
 {0.0398 {0.0438 0.0478 [0.0517 [0.0557 0.0596 |0.0636 [o0ers {0.0714 {0.0753
 
@@ -15990,7 +15979,6 @@ oasis [0.4525 [o.
 
 0.4726 "ease [oie (0.4744 [0.4750 {0.4756 joa7er {0.4767
 
-P20 “Toarte loaris (0.4783 ~ 10.4788 [oaT55 (0.4798 10.4803 |0.4808_ [o.agia [4817
 
 | 2.1 |0.4821 [0.4826
 
@@ -16412,6 +16400,7 @@ Table of 'F' Distribution. (Value of F 9 95)
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/PROBABILITY AND STASTISTICS/Probability and Statistics Batch 2024-25 Final Batch 2022-23 ,2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 May 2025
 - Text: ocr (10 pages), mean OCR confidence 86.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -16466,7 +16455,6 @@ Sore i The joint PMF of two random variables X and Y is given by ahi
 BL-1
 
 1
-Pxy(x.y)= igo") ral Bya12
 
 0 otherwise
 
@@ -17363,6 +17351,7 @@ proposal are the same at 5% LOS.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/PROBABILITY AND STATISTICS/Probability and Statistics, Sem-III, Batch 2022-23, 2023-24 & 2024-25 Re Exam.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (10 pages), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -17459,7 +17448,6 @@ Do the data indicate the students benefited by coaching.
 Calculate the Spearman’s rank correlation from the following data:
 Q4 ‘4a x | 10) 112) 4) 08s ASE 1525.40
 
-CO-1; Ge eal eisai bolle Wes
 BL-1;
 
 [6]
@@ -17762,6 +17750,479 @@ i 5.697 6.408 7.564 8.672 10.085 24.769 27.587 30.191 33.409 35.718
 80 | 51.172 53.540 57.153 60.391 64.278 96.578 | 101.879 | 106.629 | 112.329 | 116.321
 90 | 59.196 61.754 65.647 69.126 73.291 .) 107.565 | 113.145 | 118.136 | 124.116 | 128.299
 100 | 67.328 70.065 74.222 77.929 82.358 | 118.498 | 124.342 | 129.561 | 135.807 | 140.169
+--- page 10 ---
+
+````
+
+## 2024-25 · Re-Exam · Sem 7 · paper 80bd2806fc26
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/Probability & Statistics/Probability and Statistics Batch 2022-23, 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (10 pages), mean OCR confidence 87.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2024-2025
+
+Program: B.Tech Integrated Year: IV Semester: VII
+
+Stream : Computer
+
+Subject: Probability and Statistics Time: 3 hrs. (josonamto 4¢ Copy)
+
+Date: 22/2/a5 No. of Pages: 9
+Marks: 100
+
+Re Exam 23-24 /24-25-
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1. Questions 1 is compulsory.
+
+2. Solve any four out of remaining six questions
+
+3. In all, 5 questions to be attempted
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started ona fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+
+8. Use of scientific calculator is allowed.
+
+Answer the following: Marks
+CO1/SO1/BL1 | Q.1a. | A discrete random variable has the following probability distribution:
+K ED a 0 1 [2 3 [4]
+PX=x) | 0.1 2k 0.1 2k 0.3 3k
+
+Find k and P( -1 < XK <1).
+
+CO1/SO1/BL2 b. The joint probability distribution of X and Y is given by
+P(X =x%,Y =y) =k(2x + 3y),x =0,1,2;y =1,2,3 : [4]
+Estimate k and marginal probability distributions of X.
+
+CO1/SO1/BL1 @ Identify the type of correlation in each of the following cases:
+
+ait
+
+0) byx aa — 5) Pxy ==2
+(Gi) = =r=0
+(iii) = r=-0.5
+CO1/SO1/BL1 a. A bag contains 6 Green balls, 3 Red and 6 Blue balls. A ball is drawn
+
+at random from the bag. State the probability that the ball drawn is [4]
+(i) red (ii) not green
+
+[4]
+
+CO1/SO1/BL1 e. A random sample of 60 items gives the mean 5.2 and standard
+: deviation 8.2. State whether it can be regarded as sample drawn from
+a normal population with mean 5 at 5% level of significance. [4]
+
+1/9
+--- page 2 ---
+COI/SOI/BL2 | Q.2a. | The fatality rate of typhoid patients is believed to be 17.5%. Ina
+certain year 640 patients suffering from typhoid was treated in a
+hospital and only 63 patients dies. Can you consider hospital
+
+efficient?
+
+[6]
+
+CO2/SO1/BL1 b. Suppose that the joint probability density function of X and Y is
+fy Gy) = xe ifx>0&y>0 [6]
+Examine whether the variables X and Y are independent.
+
+CO3/SO1/BL3 Cc. A random variable with probability density function is given below
+
+f(x)= kx’e* when x20 [8]
+= 0 elsewhere
+
+Calculate k, mean and variance.
+
+CO3/SO1/BL3 | Q3a. | Two fair dice are thrown independently. Three events A, B, and C are
+defined as follows:
+(i) Odd face with the first die. [6]
+(ii) Odd face with second die.
+(iii) Sum of the numbers in the 2 dice is odd.
+Determine whether the events A, B and C are mutually independent.
+
+CO2/S02/BL2 b. Intelligence tests were given to two groups of boys and girls of the
+same age group chosen from two colleges and the following results
+
+were obtained.
+
+Size Mean SD
+Boys 200 We 10 [6]
+Girls 100 715 8
+
+Examine whether the difference between the means is significant or
+not at 5% level of significance.
+
+C03/SO1/BL3 c. Suppose X is a discrete random variable and has a probability mass
+function as follows:
+x -2 3 1
+P(X=x) | 1 1/3 1/3 [8]
+
+Determine the moment generating function and hence find mean,
+variance and third central moment.
+
+CO2/SO1/BL1 | Q.4a. | A transmission channel has per digit error probability p = 0.01.
+
+Estimate the probability of more than 1 error in 10 received digits (61
+
+using (i) Binomial distribution (ii) Poisson distribution
+
+C04/SO2/BL5 b. 9 items of a sample had the following values
+64, 64, 65, 65, 68, 69, 69, 70, 70. [6]
+Test whether the mean of 9 items differ significantly from the
+assumed population mean 64 at 5% level of significance.
+
+2/9
+--- page 3 ---
+C04/SO1/BL3 G The following are the marks obtain by 12 students in two papers. Use
+least square method to find line of regression Y on X.
+X| 65 | 63 | 67 | 64 | 68 | 62 | 70] 66168167 [69 | 71 18]
+Y| 68 | 66 | 68 | 65 | 69 | 66 | 68 | 65 [71 167 |68 | 70
+
+CO1/SO1/BL2 | Q.5 a. | The nicotine contents in two random samples of tobacco are given
+below :
+Sample 1: 21, 24, 25, 26, 27 [6]
+Sample 2: 22, 27, 28, 30, 31, 36
+If the difference between means is insignificant, check whether that
+the two samples came from the same normal population?
+
+CO2/S02/BL4 b. The mean height and SD of 8 randomly chosen soldiers are 166.9 and
+8.29 respectively. The corresponding values of 6 randomly chose [6]
+sailors are 170.3 and 8.5 respectively. Based on these data, test that
+soldiers are in general, shorter than sailors.
+
+C02/SO1/BL2 @ Most graduate schools of business require applicants for admission to
+take the Graduate Management Admission Council’s GMAT
+examination. Scores on the GMAT are roughly normally distributed
+with a mean of 527 and a standard deviation of 112. Compute: (8)
+
+(i) The probability of an individual scoring above 500
+
+(ii) The probability more than expected value
+
+CO3/SO1/BL3 | Q.6 a. | The probability that a student passes a certain exam is 0.9, given that
+he studied. The probability that he passes the exam without studying
+is 0.2. Assume that the probability that the student studied for exam is [6]
+
+0.75. Apply Bayes’ theorem to find the probability that he studied
+given that the student passed exam.
+
+CO4/SO2/BL5 b. Evaluate Karl Pearson’s correlation coefficient from the following
+values :
+T lean 6
+X | 12/16 | 20 | 24 | 28 | 32 36 [6]
+
+vi6 Se 12ee5) 1a | at 24
+
+C04/SO2/BL2 ce Three types of fertilizers are used on three groups of plants for 5
+weeks. We want to check if there is a difference in the mean growth
+of each group. Illustrate whether there is any significant difference in
+the means using one-way ANOVA test at 5% significant level.
+Fertilizer 1 Fertilizer2 —_—‘ Fertilizer 3
+
+6 8 13 18]
+8 12 9
+4 9 11
+5 11 8
+3 6 7
+4 28 2
+CO3/SO1/BL1 | Q.7 a. | Identify whether the following lines are regression lines or not if so :
+find mean: 3x + y =5 & 2x —3y =7. I6]
+
+3/9
+--- page 4 ---
+CO1/SO1/BL1 b. List expected frequencies for the following distribution by using
+Poisson distribution:
+
+x 0 1 2 3 4 5 6 ? 8 [6]
+y 56 156 132 92 37 22 4] .0 1
+C04/SO2/BL5 @ In an anti-malaria campaign in a certain area, quinine (drug to treat
+malaria) was administered.
+The number of fever cases is shown below:
+Treatment Fever No fever Total
+Quinine 140 30 170
+No Quinine 60 20 80 [8]
+Total 200 50 250
+
+Discuss the usefulness of quinine in checking malaria using chi-
+
+square test at 5% LOS.
+
+4/9
+--- page 5 ---
+Table of Standard Normal Distribution
+
+A) z
+
+z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
+0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1 141
+0.30 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+0.4 0.1554 0.1591 0.1628 0.1664 0.1700* 0.1736 0.1772 0.1808 0.1844 0.1879
+05 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+
+0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 —0.2823-—«0.2852
+0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+1.0 0.3413 0.3438 0.3461 0.3485 «0.3508 )=—(0.3531 «0.3554 0.3577. «0.3599 -—«0.3621
+
+11 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+1.3 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162 0.4177
+1.4 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+1.5. 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
+
+1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 (0.4515 0.4525 «(0.4535 «(0.4545
+1.7 0.4554 0.4564 0.4573 0.4582 0.4591 (0.4599 0.4608 «(0.4616 0.4625 ~—«0.4633
+1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+1.9 0.4713 0.4719 0.4726 0.4732 -(0.4738-=—«0.4744.—Ss«0.4750 =—«0.4756-~«—«(0.4761_—Ss«0.4767
+2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+
+2.4 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
+2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+2.5 0.4938 — 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
+
+2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+27 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+2.8 0.4974 - 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
+29 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
+3.0 0.4987 __ 0.4987 _0.4987__ 0.4988 __—(0.4988 0.4989 _ 0.4989 - 0.4989 0.4990 _ 0.4990
+
+Note:
+
+Middle 50% area = + 0.6745 For any Normal Variate (with Mean = y and Std. Deviation = 0):
+Middle 90% area = + 1.6449 H+ 10 = 0.6827
+
+Middle 95% area = + 1.9600 . + 20 = 0.9545
+
+Middle 99% area = + 2.5758 H + 30 = 0.9973
+
+5/4
+--- page 6 ---
+t Distribution: Critical Values oft
+Significance level
+
+Degrees of Two-tailed test: 10% 5% 2% 1% 0.2% 0.1%
+freedom One-tailed test: 5% 2.5% 1% 0.5% 0.1% 0.05%
+318.309 636.619
+
+6.314 12.706 31.821 63.657
+
+tt
+
+2 2.920 4.303 6.965 9.925 22.327 31.599
+
+3 2.353 3.182 4.541 5.841 10.215 12.924
+
+4 2.132 2.776 3.747 4.604 7173 8.610
+
+iS 2.015 2.571 3.365 4.032 5.893 6.869
+
+6 1.943 2447 3.143 3.107 5.208 5.959
+4.785 5.408
+
+Lae 1.894 2.365 2.998 3.499
+
+1360 2306 2896 3.355 4501 5.041
+
+8 d :
+Y 1.833 2.262 2.821 3.250 4,297 A781
+10 1.812 2.228 2.764 3.169 4.144 4.587
+il 1.796 2.201 2.718 3.106 4.025 4.437
+12 1.782 2179 2.681 3.055 3.930 4.318
+13 L771 2.160 2.650 3.012 3.852 4.221
+14 1.761 2.145 2.624 2.977 3.787 4.140
+15 1.753 2.131 2.602 2.947 3.733 4.073
+16 1.746 2120 . 2.583 2.921 3.686 4.015
+17 1.740 2.110 2.567 2.898 3.646 3.965
+18 - 1.734 2.101 2.552 2.878 3.610 3.922
+19 1.729 2.093 2.539 2.861 3.579 3.883
+20 1.725 2.086 2.528 2.845 3.552; 3.850
+21 1.721 2.080 2.518 2.831 3.527 3.819
+22 1.717 2.074 2.508 2.819 3.505 3.792
+23 1.714 2.069 2.500 2.807 3.485 3.768
+24 1.711 2.064 2.492 2.797 3.467 3.745
+25 1.708 2.060 2.485 2.787 3.450 3.725
+26 1.706 2.056 2.479 2.779 3.435 3.707
+27 1.703 2.052 2.473 ° 2771 3.421 3.690
+28 £ : 1.701 2.048 2.467 2.763 3.408 3.674
+29 1.699 2.045 2.462 2.756 3.396 3.659
+30 : 1.697 2.042 2.457 2.750 3.385 3.646
+32 1.694 2.037- 2.449 2.738 3.365 3.622
+34 1.691 2.032 2.441 2.728 3.348 - 3.601
+36 1.688 2.028 2.434 2.719 3.333 3.582
+38 1,686 2.024 2.429 ZAIN S319 3.566
+40 1.684 2.021 2.423 2.704 3.307 3.551
+42 1.682 2.018 2418 2.698 3.296 3.538
+44 1.680 2.015 2.414 2.692 3.286 3.526
+46 1.679" 2.013 2.410 ° 2.687 3.277 3.515
+48 1.677 2.011 2.407 2.682 3.269 3.505
+50 : 1.676 2.009 2.403 2.678 3.261 3.496
+60 1.671 2.000 2.390 2.660 3.232 3.460
+70 1.667 1.994 2.381 2.648 3.211 3.435
+80 1.664 1.990 2.374 2.639 3.195 3.416
+90 1.662 1.987 2.368 2.632 3.183 3.402
+100 1.660 1.984 2.364 2.626 3.174 3.390
+120 1,658 1.980 2.358 2.617 3.160 3373
+150 1.655 1.976 2.351 2.609 3.145 3.357
+200 1.653 1.972 2.345 2.601 3.131 3.340
+300 1.650 1.968 2.339 2.592 3.118 3.323
+400 1.649 1.966 2.336 2.588 ABBR 3.315
+500 1.648 1.965 2.334 2.586 3.107 3.310
+600 1.647 1.964 2.333 2.584 3.104 3.307
+° 1.645 1.960 2.326 2.576 3.090 3.291
+Des
+
+&/4
+--- page 7 ---
+Table of Chi-Square (y”) Distribution
+
+© Level of significance (a) >
+df. 0.995 0.99 0.975 0.95 0.90 0.10 0.05 0.025 0.01 0.005
+1 0.0000 0.0002 0.0010 0.0039 0.0158 2.7055 3.8415 5.0239 6.6349 7.8794
+2 0.0100 0.0201 0.0506 0.1026 0.2107 4.6052 59915 7.3778 9.2103 10.5966
+3 0.0717 0.1148. 0.2158 0.3518 0.5844 62514 7.8147 9.3484 11.3449 12.8382
+4 0.2070 0.2971 0.4844 0.7107 1.0636 7.7794 9.4877 11.1433 13.2767 14.8603
+5 0.4117 0.5543 0.8312 1.1455 1.6103 9.2364 11.0705 12.8325 15.0863 16.7496
+
+6 0.6757 0.8721 1.2373 1.6354 2.2041 10.6446 12.5916 14.4494 16.8119 18.5476
+zu 0.9893 1.2390 1.6899. 2.1673 2.8331 12.0170 14.0671 16.0128 18,4753 20.2777
+8 1.3444 1.6465 2.1797 2.7326 3.4895 13.3616 15.5073 17.5345 20.0902 21 -9550
+9 1.7349 2.0879 2.7004 3.3251 4.1682 14.6837 16.9190 19.0228 21.6660 23.5894
+10 2.1559 2.5582 3.2470 3.9403 4.8652 15.9872 18.3070 20.4832 23.2093 25.1882
+
+11 2.6032 3.0535 3.8157 4.5748 5.5778 17.2750 19.6751 21.9200 24.7250 26.7568
+12 3.0738 3.5706 4.4038 5.2260 6.3038 18.5493 21.0261 23.3367 26.2170 28.2995
+13 3.5650 4.1069 5.0088 5.8919 7.0415 19.8119 22.3620 24.7356 27.6882 29.8195
+14 4.0747 4.6604 56287 6.5706 7.7895 21.0641 23.6848 26.1189 29.1412 31.3193
+15 . 4.6009 5.2293 6.2621 7.2609 8.5468 22.3071 24.9958 27.4884 30.5779 32.8013
+
+16 5.1422 5.8122 6.9077 7.9616 9.3122 23.5418 26.2962 28.8454. 31.9999 34.2672
+17 5.6972 6.4078 7.5642 8.6718 10.0852 24.7690 27.5871 30.1910 33.4087 35.7185
+18 6.2648 7.0149 8.2307 9.3905 10.8649. 25.9894 28.8693 31.5264 34.8053 37.1565
+19 6.8440 7.6327 8.9065 10.1170 11.6509 27.2036 30.1435 32.8523 36.1909 38.5823
+20 7.4338 8.2604 9.5908 10.8508 12.4426 28.4120 31.4104 34.1696 37.5662 39.9968
+
+21 8.0337 8.8972 10.2829. 11.5913 13.2396 29.6151 32.6706 35.4789 38.9322 41.4011
+22 8.6427. 9.5425 10.9823 12.3380 14.0415 30.8133 33.9244 36.7807 40.2894 42.7957
+23 9.2604 10.1957 11.6886 13.0905 14.8480 32.0069 35.1725 38.0756 41.6384 44.1813
+24 9.8862 10.8564 12.4012 13.8484 15.6587 33.1962 36.4150 39.3641 42.9798 45.5585
+25 10.5197 11.5240 13.1197 14.6114 16.4734 34.3816 37.6525 40.6465 44.3141 46.9279
+
+26 11.1602 12.1981 13.8439 15.3792 17.2919 35.5632 38.8851 41.9232 45.6417 48.2899
+27 «11.8076 12.8785 14.5734 16.1514 18.1139° 36.7412 40.1133 ° 43.1945 46,9629 49.6449
+28 12.4613 13.5647 15.3079 16.9279 18.9392 37.9159 41.3371 44.4608 48.2782 50.9934
+29 13.1211 14.2565 16.0471 17.7084 19.7677 39.0875 42.5570 45.7223 49.5879 52.3356
+30 13.7867 14.9535 16.7908 18.4927 20.5992 40.2560 43.7730 46.9792 50.8922 53.6720
+
+14
+--- page 8 ---
+Table of 'F' Distribution. (Value of F 995)
+
+5% area
+
+< Degrees of Freedom for the Numerator >
+1 e2) 3 4 5 6 7 8 9
+4 161.4476 199.5000 215.7073 224.5832 230.1619 233.9860 236.7684 238.8827 240.5433
+2 18.5128 19.0000 19.1643 19.2468 19.2964 19.3295 19.3532 19.3710 19.3848
+3 10.1280 9.5521 9.2766 9.1172 9.0135 8.9406 8.8867 8.8452 8.8123
+4 7.7086 6.9443 6.5914 6.3882 6.2561 6.1631 6.0942 6.0410 5.9988
+5 6.6079 5.7861 5.4095 5.1922 5.0503 4.9503 4.8759 4.8183 4.7725
+
+6 5.9874 5.1433 4.7571 4.5337 4.3874 4.2839 4.2067 4.1468 4.0990
+7 5.5914 4.7374 4.3468 4.1203 3.9715 3.8660 3.7870 3.7257 3.6767
+8 5.3177 4.4590 4.0662 3.8379. 3.6875 3.5806 3.5005 3.4381 3.3881
+9 5.1174 4.2565 3.8625 3.6331 3.4817 3.3738 3.2927 3.2296 3.1789
+10 4.9646 4.1028 3.7083 3.4780 3.3258 3.2172 3.1355 3.0717 3.0204
+
+41 4.8443. 3.9823 3.5874 3.3567 3.2039 3.0946 3.0123 2.9480 2.8962
+12. 4.7472 3.8853 3.4903 3.2592 3.1059 2.9961 2.9134 2.8486 2.7964
+13 4.6672 3.8056 3.4105 3.1791 3.0254 2.9153 2.8321 2.7669 2.7144
+14 4.6001 3.7389 3.3439 3.1122 2.9582 2.8477 2.7642 2.6987 2.6458
+15 4.5431 3.6823 3.2874 3.0556 2.9013 2.7905 2.7066 2.6408 2.5876
+
+16 4.4940 3.6337 3.2389 3.0069 2.8524 2.7413 2.6572 2.5911 2.5377
+17 4.4513 3.5915 3.1968 2.9647 2.8100 2.6987 2.6143 2.5480 2.4943
+18 4.4139 3.5546 3.1599 2.9277 2.7729 2.6613 2.5767 2.5102 2.4563
+19 4.3807 3.5219 3.1274 2.8951 2.7401 2.6283 2.5435 2.4768 2.4227
+20 4.3512 3.4928 3.0984 2.8661 2.7109 2.5990 2.5140 2.4471 2.3928
+
+21 4.3248 3.4668 3.0725 2.8401 2.6848 2.5727 2.4876 2.4205 2.3660
+22 4.3009 3.4434 3.0491 2.8167 2.6613 2.5491 2.4638 2.3965 2.3419
+23° 4.2793. 3.4221 3.0280 2.7955 2.6400 2.5277 2.4422 2.3748 2.3201
+24 4.2597 3.4028 3.0088 2.7763 2.6207 2.5082 2.4226 2.3551 2.3002
+25 4.2417 3.3852 2.9912 2.7587 2.6030 2.4904 2.4047 2.3371 2.2821
+
+30 94.1709 3.3158 2.9223 2.6896 2.5336 2.4205 2.3343 2.2662 2.2107
+40 4.0847 3.2317 2.8387 2.6060 2.4495 2.3359 2.2490 2.1802 2.1240
+60. 4.0012 3.1504 2.7581 2.5252 2.3683 2.2541 2.1665 2.0970° 2.6401
+120 3.9201 3.0718 2.6802 2.4472 2.2899 2.1750 2.0868 © 2.0164 1.9588
+°0 3.8446 2.9987 2.6079 2.3749 © 2.2171 2.1016 2.0126 1.9415 1.8830
+
+8/4
+--- page 9 ---
+... Table of 'F' Distribution. (Value of F 5)
+
+5% area
+
+< Degrees of Freedom for the Numerator >
+10 12 15 20 25 30 40 60 120
+1 241.8817 243.9060. 245.9499 248.0131 249.2601 250.0951 251.1432 252.1957 253.2529
+2 19.3959 19.4125 19.4291 19.4458 19.4558 19.4624 19.4707 19.4791 19.4874
+3 8.7855 8.7446 8.7029 8.6602 8.6341 8.6166 8.5944 8.5720 8.5494
+4 5.9644 5.9117 5.8578 5.8025 5.7687 5.7459 5.7170 5.6877 5.6581
+5 4.7351 4.6777 4.6188 4.5581 4.5209 4.4957 4.4638 4.4314 4.3985
+
+6 4.0600 3.9999 3.9381 3.8742 3.8348 3.8082 3.7743 3.7398 3.7047
+i 3.6365 3.5747 3.5107 3.4445 3.4036 3.3758 3.3404 3.3043 3.2674
+8 3.3472 3.2839 3.2184 3.1503 3.1081 3.0794 3.0428 3.0053 2.9669
+if 9 3.1373 3.0729 3.0061 2.9365 2.8932 2.8637 2.8259 2.7872 2.7475
+S 10 2.9782 2.9130 2.8450 2.7740 2.7298 2.6996 2.6609 2.6211 2.5801
+
+— 11 2.8536 2.7876 2.7186 2.6464 2.6014 2.5705 2.5309 2.4901 2.4480
+eo 22 237934, 2.6866 2.6169 2.5436 2.4977 2.4663 2.4259 2.3842 2.3410
+Q 13 2.6710 2.6037 2.5331 2.4589 2.4123 2.3803 2.3392 2.2966 2.2524
+s 14 2.6022 2.5342 2.4630 2.3879 2.3407 2.3082 2.2664 2.2229 2.1778
+5 15 +2:5437 2.4753 2.4034 2.3275 2.2797 2.2468 2.2043 2.1601 2.1141
+
+2 16° 2.4935 2.4247 2.3522 2.2756 2.2272 2.1938 2.1507 2.1058 2.0589
+8 17 2.4499 2.3807 2.3077 2.2304 2.1815 2.1477 2.1040 2.0584 2.0107
+u 18 2.4117 2.3421 2.2686 2.1906 2.1413 2.1071 2.0629 2.0166 1.9681
+O- 19°. 2.3779 2.3080 2.2341 2.1555 2.1057 2.0712 2.0264 1.9795 1.9302
+@ 20 2.3479 2.2776 2.2033 2.1242 2.0739 2.0391 1.9938 1.9464 1.8963
+& 21 2.3210 2.2504 2.1757 2.0960 2.0454 2.0102 1.9645 1.9165 1.8657
+Ven22— = 2:296/; 2.2258 2.1508 2.0707 2.0196 1.9842 1.9380 1.8894 1.8380
+
+23 2 2147. 2.2036 2.1282 2.0476 1.9963 1.9605 1.9139 1.8648 1.8128
+
+24 2.2547 2.1834 2.1077 2.0267 1.9750 1.9390 1.8920 1.8424 1.7896
+
+25 2.2365 2.1649 2.0889 2.0075 1.9554 1.9192 1.8718 4.8217 1.7684
+
+30 2.1646 2.0921 2.0148 1.9317. 1.8782 1.8409 1.7918 1.7396 1.6835
+40 2.0772 2.0035 1.9245 1.8389 1.7835 1.7444 1.6928 1.6373 1.5766
+60 1.9926 1.9174 1.8364 1.7480 1.6902 1.6491 1.5943 1.5343 1.4673
+120 1.9105 1.8337 1.7505 1.6587 1.5980 1.5543 1.4952 1.4290 1.3519
+° 1.8339 1.7554 1.6697 1.5740 1.5098 1.4629 1.3981 1.3227 1.2272
+
+9(9
 --- page 10 ---
 
 ````
@@ -20062,6 +20523,7 @@ D Sampling Distribution [5]
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/PROBABILITY AND STASTISTICS/Probability and Statistics Batch 2023-24 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 86.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -20110,7 +20572,6 @@ BL2 ‘from the following data
 
 Page 1 of 5
 --- page 2 ---
-ne 25, ) x - 125, ) x? é 650,) = 100," y? 7 960, ) xy’ = 508
 
 Q2 2 | The joint probability distribution of X and Y is given by P(X=x, vey)
 
@@ -20259,6 +20720,1274 @@ between 0 and z
 3.0 | 0.4987 | 0.4987 | 0.4987 0.4988 | 0.4988 | 0.4989 | 0.4989 0.4989 | 0.4990 | 0.4990
 
 Page 5 of 5
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper f39e5abbc7e5
+
+- Departments: Civil, Cyber Security, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/PROBABILITY & STATISTICS/Probability and statistics Batch 2021-22,2022-23 Re Exam.pdf` (+4 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (8 pages), mean OCR confidence 88.1
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+Program/s: B Tech/ BTI/ MBA Tech Year: II/ITV Semester: IV/ VIII
+Stream/s ; MBA Tech IT (Sem-IV) B. Tech IT/ CSE- Cyber Security,
+MXTC, MECH, Civil (Sem IV)/ BTI Civil (Sem -VIII)
+
+Subject: Probability and Statistics Time: 03 hrs (jo:ooemto_4 toopne)
+Date:_4 / 7/2024 No. of Pages: 04
+Marks: 100
+
+Re-Examination (2021-22, 22-23)
+
+_» Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+t of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly:
+
+(a) | There are 3 true coins and 1 false coin with head on both sides. A coin is chosen
+
+ai SO-1, at random and tossed 4 times. If head occurs all the 4 times, compute the | [4]
+probability that the false coin has been chosen and used?
+tm (b) | A random variable X has the following probability function: [4]
+. . xX 0 {1/2 3 4 5 6 7
+ries SO-1, P(X) [0 [& | 2k | 2k [3k [Re | 2e | 7e+k
+Find k, P(X <6).
+(c) | The joint probability density function of a two dimensional random variable (X, | [4]
+CO- 1; SO-1; 2,0<x<l0<y<x
+BL-1 fy) -| 0, otherwise
+Y) is given by: :
+Find the marginal density function of X and Y. —
+(d) | The mean height of a random sample of 100 individuals from a population is [4]
+CO-1 ; SO-2; 160. The Standard deviation of the sample is 10. Would it be reasonable to
+BL-1
+
+suppose that the mean height of the population is 165 with 2% LOS?
+
+1/4
+--- page 2 ---
+i
+
+()
+
+The following is the observation of from 25 pairs of data: | [4]
+
+Co- hi SO-1; Yix = 125, 0 y = 100, >) x? = 650, > = 436, > xy =520 Find correlation
+BL-
+coefficient.
+(a) | A service station has both self-service and full-service islands. On each island,
+there is a single regular unleaded pump with two hoses. Let X denote the number
+of hoses being used on the self-service island at a particular time, and let Y denote
+the number of hoses on the full-service island in use at that time. The joint pmf
+02 of X and Y appears in the accompanying tabulation.
+¥
+CO-1; SO-1; pix, y) | 0 1 2 [6]
+Bid 0 10 04 02
+x 1 .08 .20 06 i |
+2 .06 14 30
+i. Compute P(X = 1 and Y = 1)?
+ii. Compute P(X < 1 and Y <1).
+iii, __ Compute the marginal p.m.f. of X and of Y.
+(b) | 549 study participants who regularly used aspirin after being diagnosed with
+colorectal cancer, there were 81 colorectal cancer-specific deaths, whereas
+CO-2 ; SO-1; among 730 similarly diagnosed individuals who did not subsequently use aspirin, [6]
+BL-1 there were 141 colorectal cancer-specific deaths. State whether this data suggest
+that the regular use of aspirin after diagnosis will decrease the incidence rate of
+colorectal cancer-specific deaths, using significance level of 0.05.
+(c) | Suppose that in a certain region the daily rainfall (in inches) is a continuous
+random variable- X with p.d.f - f(x) given by
+3 (x~x%) O0<x<2
+CO-3 ; SO-1 eal
+-3 ; SO-1; ‘ 8
+Bra 0, otherwise [8] an
+Calculate the probability that on a given day in this region, the rainfall is :
+i. not more than | inch,
+ii. greater than 1.5 inches,
+iii. between 0.5 and 1.5 inches.
+Q3 (a) | A bag contains 3 red and 7 black balls. Two balls are drawn at random without
+. . replacement. If the second ball is red, compute the probability that the first ball | [6]
+CO-3; SO-1 ; P
+BL3 > > is also red?
+(b) | Analysis of a random sample consisting of 20 specimens of cold-rolled steel to
+determine yield strengths resulted in a sample average strength of 29.8 ksi and
+CO-2 ; SO-2; with standard deviation 4. A second random sample of 25 two-sided galvanized [6]
+BL-4 steel specimens gave a sample average strength of 34.7 ksi with standard
+
+deviation 5. Examine whether this data indicates that the corresponding true
+average yield strengths 11 and 12 are different at 5% level of significance?
+
+2/4
+--- page 3 ---
+7
+
+i
+
+(c) | Find the moment generating function of the random variable X whose:probability
+. : mass function is given by al
+ee ie x 2 [3 |1 [8]
+P(X) =| 1/3 | 1/2 | 1/6
+Also, analyse the skewness of the distribution.
+(a) | 1.4 % of students pass the IPS examination during first attempt. Compute the
+Q4 probability that out of 100 such students appearing for the first time for IPS,
+CO-2; SO-1; the number of students appearing the examination will be [6]
+BL-2 , (i) only one ,
+(ii) less than 3.
+(b) | A machine is designed to produce insulating washers for electrical devices of
+CO-4 : SO-1: average thickness of 0.025 cm. A random sample of 10 washers was found to ,
+BL-5 > > have an average thickness of 0.024 cm with a standard deviation of 0.002 cm. [6]
+Justify using testing of hypothesis, whether the average thickness can be
+0.025cm.
+(c) | Determine the equation of the line of regression of cost on age from the
+following table giving the age of a car of certain make and the annual
+maintenance cost.
+an 5 Be: Age of car (in years) 2 4 6 8 [8]
+Maintenance 5 7 8.5 11
+(in thousands of Rs.)
+Also find maintenance cost of the car if its age is 9 years.
+Q5 (a) | Ina sample of 8 observations, the sum of the squares of deviations of the sample
+CO-1: SO-2: values from the sample mean was 94.5, and in another sample of 10 observations [6]
+BL2 > it was 101.7. Compute the test statistic and test whether the difference in
+variance is significant at 5 % level.
+(b) | Arandom sample of 20 daily workers of State A was found to have average daily
+CO-2 : SO-1: earnings of Rs. 44 with sample variance 900. Another sample of 20 daily workers
+BL. ; from State B was found to earn on an average Rs. 30 per day with sample [6]
+variance 400. Determine whether the workers in State A are earning more than
+those in State B?
+(c) | The income of a group of 10000 persons were found to be normally distributed
+CO-2 ; SO-1; with mean Rs 520 and S.D. Rs 60. Find the following: [8]
+BL-2 (i) the number of persons having incomes between Rs 400 and Rs 550,
+(ii) __ the lowest income of the richest 500.
+Q6 (a) | In a neighborhood, 90% children were falling sick due to flu and 10% due to
+CO-3: SO-I: measles and no other disease. The probability of observing rashes for measles is [6]
+BL- 3 , 0.95 and for flu is 0.08. If a child develops rashes, Apply Bayes theorem to find
+the child’s probability of having flu.
+CO-4 ; SO-2; (b) | Determine and interpret coefficient of correlation between cost and sales using
+BL-5 Spearman’s rank Correlation.
+Cost (in lakh | 78 | 36 | 98 | 25 | 75 | 82 | 90 | 62 | 65 | 39 (6]
+
+2)
+Sales(in lakh | 84 | 51 | 91 | 60 | 68 | 62 | 86 | 58 | 53 | 47
+%)
+
+3/4
+--- page 4 ---
+rT
+
+CO-4 ;SO-2; | (c) | Compare the effectiveness of different diet plans (A, B, C and D),on weight
+
+BL-2 loss among participants using ANOVA (Use 5% level of significance)
+Observation | A B Cc
+1 8 12 18
+2 10 u 12 [8]
+3 12 9. 16
+4 8 14 6
+5 7 4 8
+Q7 (a) | The regression equation of two variables x & y are Sy=9x-22 and
+. . 20x=9y+350. Find the mean of the x and y. Also, find coefficient of [6]
+CO-3; SO-1; correlation between x & y.
+BL-1
+CO-1 ;SO-1; | (b) | Seven unbiased coins were tossed and number of heads are noted, this is
+BL-1 repeated 130 times and the following distribution is obtained. Find the ,
+parameters of a binomial distribution and fit it to this data. f
+No. of o/;1]2 7374 5 6 7 [6]
+heads :
+Frequency | 7 6 19} 35] 30 23 7 3
+(c) | Arandom sample of 395 people were surveyed and each person was asked to
+report the highest education level they obtained. The data that resulted from the
+survey is summarized in the following table:
+High Bachelors | Masters Ph.d. Total
+School
+CO-4 ; SO-2; Female _| 60 54 46 41 201 [8]
+BL-6
+Male 40 44 53 57 194
+Total 100 98 99 98 395
+Explain using chi square test if there is a significant association between gender é)
+
+and educational attainment based on the provided data. (Use 5% level of
+significance.)
+
+4/4
+--- page 5 ---
+Standard Normal (Z) Table
+a betwee
+
+[0.00 | 0.01 | 0.02
+
+| 0.03 i 0.04 | 0.05 | 0.06 | 0.07
+
+[| 0.08 |
+
+0.09
+
+| 0.0
+
+[0.0000 [0.0040 [0.0080
+
+[0.0120 [0.0160 [0.0199 [0.0239 [0.0279
+
+{0.0319 [0.0359
+
+i
+; 01
+
+[0.0398 [0.0438 [0.0478
+
+[0.0517 [0.0557 [0.0596 [0.0636 {0.0675
+
+{0.0714 [0.0753
+
+| 0.2
+
+{0.0793 [0.0832 [0.0871
+
+[0.0910 [0.0948 [0.0987 [0.1026 [0.1064
+
+[0.1103 [0.1141
+
+[ 0.3
+
+1
+
+[0.1179 [0.1217 [0.1255
+
+fo.1293 [0.1331 [0.1368 [o.1406 [0.1443
+
+[0.1480 [0.1517
+
+[0.4 [0.1554 [0.1591 [0.1628
+
+0.1664 [0.1700 [0.1736 [0.1772 [0.1808
+
+[0.1844 [0.1879
+
+[0s
+
+[0.1915 [0.1950 [0.1985
+
+[0.2019 [0.2054 [0.2088 [0.2123 [0.2157
+
+0.2190 [0.2224
+
+| 0.6
+
+[0.2257 [0.2291 [0.2324
+
+[0.2357 [0.2389 [0.2422 [0.2454 0.2486
+
+|0.2517 [0.2549
+
+[07
+
+{0.2580 [0.2611 [0.2642
+
+[0.2673 [0.2704 [0.2734 [0.2764 [0.2794
+
+{0.2823 [0.2852
+
+[08
+
+[0.2881 [0.2910 {0.2939
+
+[0.2967 [0.2995 [0.3023 [0.3051 [0.3078
+
+[0.3106 [0.3133
+
+| 09
+
+(0.3159 [0.3186 [0.3212
+
+}0.3238 [0.3264 [0.3289 [0.3315 [0.3340
+
+[0.3365 [0.3389
+
+| 1.0
+
+(0.3413 [0.3438 [0.3461
+
+(0.3485 [0.3508 [0.3531 [0.3554 [0.3577
+
+[0.3599 [0.3621
+
+faa
+
+[0.3643 [0.3665 [0.3686
+
+[0.3708 [0.3729 [0.3749 [0.3770 [0.3790
+
+[0.3810 [0.3830
+
+[12
+
+[0.3849 [0.3869 [0.3888
+
+}0.3907 [0.3925 [0.3044 [0.3962 [0.3980
+
+[0.3997 [0.4015
+
+} 13
+
+[0.4032 [0.4049 [0.4066
+
+[0.4082 [0.4099 [o.a1is [0.4131 [0.4147
+
+0.4162 [0.4177
+
+; 14
+
+[0.4192 [0.4207 [0.4222
+
+0.4236 0.4251 [0.4265 [0.4279 [0.4292
+
+[0.4306 [0.4319
+
+[1s
+
+(0.4332 [0.4345 [0.4357
+
+0.4370 0.4382 [0.4304 [0.4406 [0.4418
+
+[0.4429 [o.aaai
+
+[16
+
+0.4452 [0.4463 [0.474
+
+[o.4ag4 [0.4495 fo.4505 [oasis [0.4525
+
+[0.4535 [0.4545
+
+fag
+
+|0.4554 [0.4564 [0.4573
+
+[0.4582 [0.4591 [0.4599 [o.4608 [0.4616
+
+[0.4625 [0.4633
+
+| 18
+
+0.4641 |0.4649 [0.4656
+
+(0.4664 [0.4671 [0.4678 [0.4686 [0.4693
+
+{0.4699 [0.4706
+
+[19 [0.4713 [0.4719 [0.4726
+
+(0.4732 [0.4738 [0.4744 [0.4750 [0.4756
+
+[0.4761 [0.4767
+
+[ 20
+
+[0.4772 [0.4778 [0.4783
+
+[0.4788 [0.4793 [0.4798 [0.4803 [0.4808
+
+[0.4812 [0.4817
+
+| 24
+
+[0.4821 {0.4826 [0.4830
+
+[0.4834 [0.4838 [0.4842 [0.4846 [0.4850
+
+[0.4854 [0.4857
+
+[2.2 [o.as61 [0.4864 [0.4868
+
+[0.4871 [0.4875 [0.4878 [0.4881 [0.4884
+
+[0.4887 [0.4890
+
+| 2.3
+
+[0.4893 [0.4896 [0.4898
+
+}0.4901 [0.4904 [0.4906 [0.4909 [0.4911
+
+0.4913 [0.4916
+
+[ 2.4
+
+[0.4918 [0.4920 [0.4922
+
+[0.4925 [0.4927 [0.4929 [0.4931 [0.4932
+
+[0.4934 [0.4936
+
+[ 2.5
+
+[0.4938 [0.4940 [0.4941
+
+[0.4943 [0.4945 [0.4946 [0.4948 0.4949
+
+[0.4951 [0.4952
+
+[ 26
+
+[0.4953 [0.4955 [0.4956
+
+[0.4957 [0.4959 [0.4960 [0.4961 [0.4962
+
+{0.4963 [0.4964
+
+[27
+
+{0.4965 [0.4966 [0.4967
+
+[0.4968 [0.4969 [0.4970 [0.4971 [0.4972
+
+[0.4973 [0.4974
+
+[ 2.8
+
+[0.4974 [0.4975 |0.4976
+
+[0.4977 [0.4977 [0.4978 [0.4979 [0.4979
+
+{0.4980 |0.4981
+
+| 29
+
+[o.4981 [0.4982 [0.4982
+
+[0.4983 [0.4984 [o.4oga [0.4985 [0.4985
+
+|0.4986 [0.4986
+
+| 3.0
+
+[0.4987 [0.4987 [0.4987
+
+[0.4988 [0.4988 |0.4989 [0.4989 | 0.4989
+
+[0.4990 [0.4990
+--- page 6 ---
+Degrees of
+jreedom
+
+120
+150
+200
+300
+400
+
+600
+
+Two-tailed test:
+One-tailed test:
+
+t Distribution: Critical Values of t
+
+Significance level
+
+10% 5% 2%
+5% 2.5% 1%
+
+6.314 12.706 31.821
+2.920 4.303 6.965
+2.353 3.182 4.541
+2.132 2.7716 3.747
+2.015 2.571 3.365
+
+1.943 2.447 3.143
+1.894 2.365 2.998
+1.860 2.306 2.896
+1.833 2.262 2.821
+1.812 2.228 2.764
+
+1.796 2.201 2.718
+1.782 2179 2.681
+1.771 2.160 2.650
+1.761 2.145 2.624
+1.753 2.131 2.602
+
+1.746 2.120 2.583
+1.740 2.110 2.567
+1.734 2.101 2.552
+1.729 2.093 2.539
+1.725 2.086 2.528
+
+1.721 2.080 2.518
+1.717 2.074 2.508
+1.714 2.069 2.500
+1.711 2.064 2.492
+1.708 2.060 2.485
+
+1.706 2.056 2.479
+1.703 2.052 2.473
+1.701 2.048 2.467
+1.699 2.045 2.462
+1.697 2.042 2.457
+
+1.694 2.037 2.449
+1.691 2.032 2.441
+1.688 2.028 2.434
+1.686 2.024 2.429
+1.684 2.021 2.423
+
+1.682 2.018 2418
+1.680 2.015 2.414
+1.679 ° 2.013 2.410
+1.677 2.011 2.407
+1.676 2.009 2.403
+
+1.671 2.000 2.390
+1.667 1.994 2.381
+1.664 1.990 2.374
+1,662 1.987 2.368
+1.660 1.984 2.364
+
+1.658 1.980 2.358
+1.655 1.976 2.351
+1.653 1.972 2.345
+1.650 1.968 2.339
+1.649 1.966 2.336
+
+1.648 1.965 2.334
+1.647 1.964 2.333
+
+1.645 1.960 2.326
+
+Ba
+
+1%
+0.5%
+
+63.657
+9.925
+5.841
+4.604
+4.032
+
+3.707
+3.499
+3.355
+3.250
+3.169
+
+3.106
+3.055
+3.012
+2.977
+2.947
+
+2.921
+2.898
+2.878
+2.861
+2.845
+
+2.831
+2.819
+2.807
+2.797
+2.787
+
+2.779
+2.771
+2.763
+2.756
+2.750
+
+2.738
+2.728
+2.719
+2.712
+2.704
+
+2.698
+2.692
+2.687
+2.682
+2.678
+
+2.660
+2.648
+2.639
+2.632
+2.626
+
+2.617
+2.609
+2.601
+2.592
+2.588
+
+2.586
+2.584
+
+2.576
+
+0.2%
+0.1%
+
+318.309
+22.327
+10.215
+
+TAT3
+5.893
+
+5.208
+4.785
+4.501
+4.297
+4.144
+
+4.025
+3.930
+3.852
+3.787
+3.733
+
+3.686
+
+3.610
+3.579
+3.552.
+
+3.527
+3.505
+3.485
+3.467
+3.450
+
+3.435
+3.421
+3.408
+3.396
+3.385
+
+3.365
+3.348
+3.333
+3.319
+3.307
+
+3.296
+3.286
+3.277
+3.269
+3.261
+
+3.232
+3.211
+3.195
+3.183
+3.174
+
+3.160
+3.145
+3.131
+3.118
+3.11)
+
+3.107
+3.104
+
+3.090
+
+0.1%
+0.05%
+
+636.619
+31.599
+12.924
+
+8.610
+6.869
+
+5.959
+5.408
+5.041
+4.781
+4.587
+
+4.437
+4.318
+4.221
+4.140
+4.073
+
+4.015
+3.965
+3.922
+3.883
+3.850
+
+3.819
+3.792
+3.768
+3.745
+3.725
+
+3.707
+3.690
+3.674
+3.659
+3.646
+
+3.622
+3.601
+3.582
+3.566
+3.551
+
+3.538
+3.526
+3.515
+3.505
+3.496
+
+3.460
+3.435
+3.416
+3.402
+3.390
+
+3373:
+bY
+3.340
+3.323
+3.315
+
+3.310
+3.307
+
+3.291
+
+ak
+
+x
+--- page 7 ---
+df.d
+
+11
+12
+13
+14
+15
+
+16
+17
+18
+19
+20
+
+21
+22
+23
+24
+25
+
+26
+27
+28
+29
+30
+
+0.995
+0.0000
+0.0100
+0.0717
+0.2070
+0.4117
+
+0.6757
+0.9893
+1.3444
+1.7349
+2.1559
+
+2.6032
+3.0738
+3.5650
+4.0747
+4.6009
+
+5.1422
+5.6972
+6.2648
+6.8440
+7.4338
+
+8.0337
+8.6427
+9.2604
+
+9.8862
+10.5197
+
+11.1602
+11.8076
+12.4613
+13.1211
+13.7867
+
+0.99
+0.0002
+0.0201
+0.1148
+0.2971
+0.5543
+
+0.8721
+1.2390
+1.6465
+2.0879
+2.5582
+
+3.0535
+3.5706
+4.1069
+4.6604
+5.2293
+
+5.8122
+6.4078
+7.0149
+7.6327
+8.2604
+
+8.8972
+9.5425
+10.1957
+10.8564
+11.5240
+
+12.1981
+12.8785
+13.5647
+14.2565
+14.9535
+
+Table of Chi-Square (7) Distribution
+
+0.975
+0.0010
+0.0506
+0.2158
+0.4844
+0.8312
+
+1.2373
+1.6899
+2.1797
+2.7004
+3.2470
+
+3.8157
+4.4038
+5.0088
+5.6287
+6.2621
+
+6.9077
+7.5642
+8.2307
+8.9065
+9.5908
+
+10.2829
+10.9823
+11.6886
+12.4012
+13.1197
+
+13.8439
+14.5734
+15.3079
+16.0471
+16.7908
+
+© Level of significance (a) >
+
+0.95
+0.0039
+0.1026
+0.3518
+0.7107
+1.1455
+
+1.6354
+2.1673
+2.7326
+3.3251
+3.9403
+
+4.5748
+5.2260
+5.8919
+6.5706
+7.2609
+
+7.9616
+8.6718
+
+9.3905
+
+10.1170
+10.8508
+
+11.5913
+12.3380
+13.0905
+13.8484
+14.6114
+
+15.3792
+16.1514
+16.9279
+17.7084
+18.4927
+
+0.90
+0.0158
+0.2107
+0.5844
+1.0636
+1.6103
+
+2.2041
+2.8331
+3.4895
+4.1682
+4.8652
+
+5.5778
+6.3038
+7.0415
+7.7895
+8.5468
+
+9.3122
+10.0852
+10.8649
+11.6509
+12.4426
+
+13.2396
+14.0415
+14.8480
+15.6587
+16.4734
+
+17.2919
+18.1139
+18.9392
+19.7677
+20.5992
+
+0.10
+2.7055
+4.6052
+6.2514
+7.7794
+9.2364
+
+10.6446
+12.0170
+13.3616
+14.6837
+15.9872
+
+17.2750
+18.5493
+19.8119
+21.0641
+22.3071
+
+23.5418
+24.7690
+25.9894
+27.2036
+28.4120
+
+29.6151
+30.8133
+32.0069
+33.1962
+34.3816
+
+35.5632
+36.7412
+37.9159
+39.0875
+40.2560
+
+0.05
+3.8415
+5.9915
+7.8147
+9.4877
+
+11.0705
+
+12.5916
+14.0671
+15.5073
+16.9190
+18.3070
+
+19.6751
+21.0261
+22.3620
+23.6848
+24.9958
+
+26.2962
+27.5871
+28.8693
+30.1435
+31.4104
+
+32.6706
+33.9244
+35.1725
+36.4150
+37.6525
+
+38.8851
+40.1133
+41.3371
+42.5570
+43.7730
+
+0.025
+5.0239
+7.3778
+9.3484
+
+11.1433
+12.8325
+
+14.4494
+16.0128
+17.5345
+19.0228
+20.4832
+
+21.9200
+23.3367
+24.7356
+26.1189
+27.4884
+
+28.8454
+30.1910
+31.5264
+32.8523
+34.1696
+
+35.4789
+36.7807
+38.0756
+39.3641
+40.6465
+
+41.9232
+43.1945
+44.4608
+45.7223
+46.9792
+
+0.01
+6.6349
+9.2103
+
+11.3449
+13.2767
+15.0863
+
+16.8119
+18.4753
+20.0902
+21.6660
+23.2093
+
+24.7250
+26.2170
+27.6882
+29.1412
+30.5779
+
+31.9999
+33.4087
+34.8053
+36.1909
+37.5662
+
+38.9322
+40.2894
+41.6384
+42.9798
+44.3141
+
+45.6417
+46.9629
+48.2782
+49.5879
+50.8922
+
+0.005
+7.8794
+10.5966
+12.8382
+14.8603
+16.7496
+
+18.5476
+20.2777
+21.9550
+23.5894
+25.1882
+
+26.7568
+28.2995
+29.8195
+31.3193
+32.8013
+
+34.2672
+35.7185
+37.1565
+38.5823
+39.9968
+
+41.4011
+42.7957
+44.1813
+45.5585
+46.9279
+
+48.2899
+49.6449
+50.9934
+52.3356
+53.6720
+--- page 8 ---
+11
+12
+13
+14
+15
+
+16
+17
+18
+19
+20
+
+21
+22
+23
+24
+25
+
+30
+40
+60
+120
+
+1
+
+161.4476
+18.5128
+10.1280
+7.7086
+6.6079
+
+5.9874
+5.5914
+5.3177
+5.1174
+4.9646
+
+4.8443
+4.7472
+4.6672
+4.6001
+4.5431
+
+4.4940
+4.4513
+4.4139
+4.3807
+4.3512
+
+4.3248
+4.3009
+4.2793
+4.2597
+4.2417
+
+4.1709
+4.0847
+4.0012
+3.9201
+3.8446
+
+Table of 'F' Distribution. (Value of F 995)
+
+5% area
+
+«© Degrees of Freedom for the Numerator >
+2 3 4 5 6 7 8 9
+199.5000 215.7073 224.5832 230.1619 233.9860 236.7684 238.8827 240.5433
+19.0000 19.1643 19.2468 19.2964 19.3295 19.3532 19.3710 19.3848
+9.5521 9.2766 9.1172 9.0135 8.9406 8.8867 8.8452 8.8123
+6.9443 6.5914 6.3882 6.2561 6.1631 6.0942 6.0410 5.9988
+5.7861 5.4095 5.1922 5.0503 4.9503 4.8759 4.8183 4.7725
+
+5.1433 4.7571 4.5337 4.3874 4.2839 4.2067 4.1468 4.0990
+4.7374 4.3468 4.1203 3.9715 3.8660 3.7870 3.7257 3.6767
+4.4590 4.0662 3.8379 3.6875 3.5806 3.5005 3.4381 3.3881
+4.2565 3.8625 3.6331 3.4817 3.3738 3.2927 3.2296 3.1789
+4.1028 3.7083 3.4780 3.3258 3.2172 3.1355 3.0717 3.0204
+
+3.9823 3.5874 3.3567 3.2039 3.0946 3.0123 2.9480 2.8962
+3.8853 3.4903 3.2592 3.1059 2.9961 2.9134 2.8486 2.7964
+3.8056 3.4105 3.1791 3.0254 2.9153 2.8321 2.7669 2.7144
+3.7389 3.3439 3.1122 2.9582 2.8477 2.7642 2.6987 2.6458
+3.6823 3.2874 3.0556 2.9013 2.7905 2.7066 2.6408 2.5876
+
+3.6337 3.2389 3.0069 2.8524 2.7413 2.6572 2.5911 2.5377
+3.5915 3.1968 2.9647 2.8100 2.6987 2.6143 2.5480 2.4943
+3.5546 3.1599 2.9277 2.7729 2.6613 2.5767 2.5102 2.4563
+3.5219 3.1274 2.8951 2.7401 2.6283 2.5435 2.4768 2.4227
+3.4928 3.0984 2.8661 2.7109 2.5990 2.5140 2.4471 2.3928
+
+3.4668 3.0725 2.8401 2.6848 2.5727 2.4876 2.4205 2.3660
+3.4434 3.0491 2.8167 2.6613 2.5491 2.4638 2.3965 2.3419
+3.4221 3.0280 2.7955 2.6400 2.5277 2.4422 2.3748 2.3201
+3.4028 3.0088 2.7763 2.6207 2.5082 2.4226 2.3551 2.3002
+3.3852 2.9912 2.7587 2.6030 2.4904 2.4047 2.3371 2.2821
+
+3.3158 2.9223 2.6896 2.5336 2.4205 2.3343 2.2662 2.2107
+3.2317 2.8387 2.6060 2.4495 2.3359 2.2490 2.1802 2.1240
+3.1504 2.7581 2.5252 2.3683 2.2541 2.1665 2.0970 2.0401
+3.0718 2.6802 2.4472 2.2899 2.1750 2.0868 2.0164 1.9588
+2.9987 2.6079 2.3749 2.2171 2.1016 2.0126 1.9415 1.8830
 ````
 
 ## 2023-24 · Re-Exam · Sem 3 · paper 00fd4b0c91f1
@@ -21270,479 +22999,6 @@ OF Nee
 53.6720
 ````
 
-## 2023-24 · Re-Exam · Sem 7 · paper 80bd2806fc26
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/Probability & Statistics/Probability and Statistics Batch 2022-23, 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (10 pages), mean OCR confidence 87.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2024-2025
-
-Program: B.Tech Integrated Year: IV Semester: VII
-
-Stream : Computer
-
-Subject: Probability and Statistics Time: 3 hrs. (josonamto 4¢ Copy)
-
-Date: 22/2/a5 No. of Pages: 9
-Marks: 100
-
-Re Exam 23-24 /24-25-
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1. Questions 1 is compulsory.
-
-2. Solve any four out of remaining six questions
-
-3. In all, 5 questions to be attempted
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started ona fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume Suitable data if necessary.
-
-8. Use of scientific calculator is allowed.
-
-Answer the following: Marks
-CO1/SO1/BL1 | Q.1a. | A discrete random variable has the following probability distribution:
-K ED a 0 1 [2 3 [4]
-PX=x) | 0.1 2k 0.1 2k 0.3 3k
-
-Find k and P( -1 < XK <1).
-
-CO1/SO1/BL2 b. The joint probability distribution of X and Y is given by
-P(X =x%,Y =y) =k(2x + 3y),x =0,1,2;y =1,2,3 : [4]
-Estimate k and marginal probability distributions of X.
-
-CO1/SO1/BL1 @ Identify the type of correlation in each of the following cases:
-
-ait
-
-0) byx aa — 5) Pxy ==2
-(Gi) = =r=0
-(iii) = r=-0.5
-CO1/SO1/BL1 a. A bag contains 6 Green balls, 3 Red and 6 Blue balls. A ball is drawn
-
-at random from the bag. State the probability that the ball drawn is [4]
-(i) red (ii) not green
-
-[4]
-
-CO1/SO1/BL1 e. A random sample of 60 items gives the mean 5.2 and standard
-: deviation 8.2. State whether it can be regarded as sample drawn from
-a normal population with mean 5 at 5% level of significance. [4]
-
-1/9
---- page 2 ---
-COI/SOI/BL2 | Q.2a. | The fatality rate of typhoid patients is believed to be 17.5%. Ina
-certain year 640 patients suffering from typhoid was treated in a
-hospital and only 63 patients dies. Can you consider hospital
-
-efficient?
-
-[6]
-
-CO2/SO1/BL1 b. Suppose that the joint probability density function of X and Y is
-fy Gy) = xe ifx>0&y>0 [6]
-Examine whether the variables X and Y are independent.
-
-CO3/SO1/BL3 Cc. A random variable with probability density function is given below
-
-f(x)= kx’e* when x20 [8]
-= 0 elsewhere
-
-Calculate k, mean and variance.
-
-CO3/SO1/BL3 | Q3a. | Two fair dice are thrown independently. Three events A, B, and C are
-defined as follows:
-(i) Odd face with the first die. [6]
-(ii) Odd face with second die.
-(iii) Sum of the numbers in the 2 dice is odd.
-Determine whether the events A, B and C are mutually independent.
-
-CO2/S02/BL2 b. Intelligence tests were given to two groups of boys and girls of the
-same age group chosen from two colleges and the following results
-
-were obtained.
-
-Size Mean SD
-Boys 200 We 10 [6]
-Girls 100 715 8
-
-Examine whether the difference between the means is significant or
-not at 5% level of significance.
-
-C03/SO1/BL3 c. Suppose X is a discrete random variable and has a probability mass
-function as follows:
-x -2 3 1
-P(X=x) | 1 1/3 1/3 [8]
-
-Determine the moment generating function and hence find mean,
-variance and third central moment.
-
-CO2/SO1/BL1 | Q.4a. | A transmission channel has per digit error probability p = 0.01.
-
-Estimate the probability of more than 1 error in 10 received digits (61
-
-using (i) Binomial distribution (ii) Poisson distribution
-
-C04/SO2/BL5 b. 9 items of a sample had the following values
-64, 64, 65, 65, 68, 69, 69, 70, 70. [6]
-Test whether the mean of 9 items differ significantly from the
-assumed population mean 64 at 5% level of significance.
-
-2/9
---- page 3 ---
-C04/SO1/BL3 G The following are the marks obtain by 12 students in two papers. Use
-least square method to find line of regression Y on X.
-X| 65 | 63 | 67 | 64 | 68 | 62 | 70] 66168167 [69 | 71 18]
-Y| 68 | 66 | 68 | 65 | 69 | 66 | 68 | 65 [71 167 |68 | 70
-
-CO1/SO1/BL2 | Q.5 a. | The nicotine contents in two random samples of tobacco are given
-below :
-Sample 1: 21, 24, 25, 26, 27 [6]
-Sample 2: 22, 27, 28, 30, 31, 36
-If the difference between means is insignificant, check whether that
-the two samples came from the same normal population?
-
-CO2/S02/BL4 b. The mean height and SD of 8 randomly chosen soldiers are 166.9 and
-8.29 respectively. The corresponding values of 6 randomly chose [6]
-sailors are 170.3 and 8.5 respectively. Based on these data, test that
-soldiers are in general, shorter than sailors.
-
-C02/SO1/BL2 @ Most graduate schools of business require applicants for admission to
-take the Graduate Management Admission Council’s GMAT
-examination. Scores on the GMAT are roughly normally distributed
-with a mean of 527 and a standard deviation of 112. Compute: (8)
-
-(i) The probability of an individual scoring above 500
-
-(ii) The probability more than expected value
-
-CO3/SO1/BL3 | Q.6 a. | The probability that a student passes a certain exam is 0.9, given that
-he studied. The probability that he passes the exam without studying
-is 0.2. Assume that the probability that the student studied for exam is [6]
-
-0.75. Apply Bayes’ theorem to find the probability that he studied
-given that the student passed exam.
-
-CO4/SO2/BL5 b. Evaluate Karl Pearson’s correlation coefficient from the following
-values :
-T lean 6
-X | 12/16 | 20 | 24 | 28 | 32 36 [6]
-
-vi6 Se 12ee5) 1a | at 24
-
-C04/SO2/BL2 ce Three types of fertilizers are used on three groups of plants for 5
-weeks. We want to check if there is a difference in the mean growth
-of each group. Illustrate whether there is any significant difference in
-the means using one-way ANOVA test at 5% significant level.
-Fertilizer 1 Fertilizer2 —_—‘ Fertilizer 3
-
-6 8 13 18]
-8 12 9
-4 9 11
-5 11 8
-3 6 7
-4 28 2
-CO3/SO1/BL1 | Q.7 a. | Identify whether the following lines are regression lines or not if so :
-find mean: 3x + y =5 & 2x —3y =7. I6]
-
-3/9
---- page 4 ---
-CO1/SO1/BL1 b. List expected frequencies for the following distribution by using
-Poisson distribution:
-
-x 0 1 2 3 4 5 6 ? 8 [6]
-y 56 156 132 92 37 22 4] .0 1
-C04/SO2/BL5 @ In an anti-malaria campaign in a certain area, quinine (drug to treat
-malaria) was administered.
-The number of fever cases is shown below:
-Treatment Fever No fever Total
-Quinine 140 30 170
-No Quinine 60 20 80 [8]
-Total 200 50 250
-
-Discuss the usefulness of quinine in checking malaria using chi-
-
-square test at 5% LOS.
-
-4/9
---- page 5 ---
-Table of Standard Normal Distribution
-
-A) z
-
-z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
-0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
-0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1 141
-0.30 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-0.4 0.1554 0.1591 0.1628 0.1664 0.1700* 0.1736 0.1772 0.1808 0.1844 0.1879
-05 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-
-0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 —0.2823-—«0.2852
-0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
-0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
-1.0 0.3413 0.3438 0.3461 0.3485 «0.3508 )=—(0.3531 «0.3554 0.3577. «0.3599 -—«0.3621
-
-11 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
-1.3 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162 0.4177
-1.4 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
-1.5. 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
-
-1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 (0.4515 0.4525 «(0.4535 «(0.4545
-1.7 0.4554 0.4564 0.4573 0.4582 0.4591 (0.4599 0.4608 «(0.4616 0.4625 ~—«0.4633
-1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
-1.9 0.4713 0.4719 0.4726 0.4732 -(0.4738-=—«0.4744.—Ss«0.4750 =—«0.4756-~«—«(0.4761_—Ss«0.4767
-2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
-
-2.4 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
-2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
-2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
-2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-2.5 0.4938 — 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
-
-2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
-27 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
-2.8 0.4974 - 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
-29 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
-3.0 0.4987 __ 0.4987 _0.4987__ 0.4988 __—(0.4988 0.4989 _ 0.4989 - 0.4989 0.4990 _ 0.4990
-
-Note:
-
-Middle 50% area = + 0.6745 For any Normal Variate (with Mean = y and Std. Deviation = 0):
-Middle 90% area = + 1.6449 H+ 10 = 0.6827
-
-Middle 95% area = + 1.9600 . + 20 = 0.9545
-
-Middle 99% area = + 2.5758 H + 30 = 0.9973
-
-5/4
---- page 6 ---
-t Distribution: Critical Values oft
-Significance level
-
-Degrees of Two-tailed test: 10% 5% 2% 1% 0.2% 0.1%
-freedom One-tailed test: 5% 2.5% 1% 0.5% 0.1% 0.05%
-318.309 636.619
-
-6.314 12.706 31.821 63.657
-
-tt
-
-2 2.920 4.303 6.965 9.925 22.327 31.599
-
-3 2.353 3.182 4.541 5.841 10.215 12.924
-
-4 2.132 2.776 3.747 4.604 7173 8.610
-
-iS 2.015 2.571 3.365 4.032 5.893 6.869
-
-6 1.943 2447 3.143 3.107 5.208 5.959
-4.785 5.408
-
-Lae 1.894 2.365 2.998 3.499
-
-1360 2306 2896 3.355 4501 5.041
-
-8 d :
-Y 1.833 2.262 2.821 3.250 4,297 A781
-10 1.812 2.228 2.764 3.169 4.144 4.587
-il 1.796 2.201 2.718 3.106 4.025 4.437
-12 1.782 2179 2.681 3.055 3.930 4.318
-13 L771 2.160 2.650 3.012 3.852 4.221
-14 1.761 2.145 2.624 2.977 3.787 4.140
-15 1.753 2.131 2.602 2.947 3.733 4.073
-16 1.746 2120 . 2.583 2.921 3.686 4.015
-17 1.740 2.110 2.567 2.898 3.646 3.965
-18 - 1.734 2.101 2.552 2.878 3.610 3.922
-19 1.729 2.093 2.539 2.861 3.579 3.883
-20 1.725 2.086 2.528 2.845 3.552; 3.850
-21 1.721 2.080 2.518 2.831 3.527 3.819
-22 1.717 2.074 2.508 2.819 3.505 3.792
-23 1.714 2.069 2.500 2.807 3.485 3.768
-24 1.711 2.064 2.492 2.797 3.467 3.745
-25 1.708 2.060 2.485 2.787 3.450 3.725
-26 1.706 2.056 2.479 2.779 3.435 3.707
-27 1.703 2.052 2.473 ° 2771 3.421 3.690
-28 £ : 1.701 2.048 2.467 2.763 3.408 3.674
-29 1.699 2.045 2.462 2.756 3.396 3.659
-30 : 1.697 2.042 2.457 2.750 3.385 3.646
-32 1.694 2.037- 2.449 2.738 3.365 3.622
-34 1.691 2.032 2.441 2.728 3.348 - 3.601
-36 1.688 2.028 2.434 2.719 3.333 3.582
-38 1,686 2.024 2.429 ZAIN S319 3.566
-40 1.684 2.021 2.423 2.704 3.307 3.551
-42 1.682 2.018 2418 2.698 3.296 3.538
-44 1.680 2.015 2.414 2.692 3.286 3.526
-46 1.679" 2.013 2.410 ° 2.687 3.277 3.515
-48 1.677 2.011 2.407 2.682 3.269 3.505
-50 : 1.676 2.009 2.403 2.678 3.261 3.496
-60 1.671 2.000 2.390 2.660 3.232 3.460
-70 1.667 1.994 2.381 2.648 3.211 3.435
-80 1.664 1.990 2.374 2.639 3.195 3.416
-90 1.662 1.987 2.368 2.632 3.183 3.402
-100 1.660 1.984 2.364 2.626 3.174 3.390
-120 1,658 1.980 2.358 2.617 3.160 3373
-150 1.655 1.976 2.351 2.609 3.145 3.357
-200 1.653 1.972 2.345 2.601 3.131 3.340
-300 1.650 1.968 2.339 2.592 3.118 3.323
-400 1.649 1.966 2.336 2.588 ABBR 3.315
-500 1.648 1.965 2.334 2.586 3.107 3.310
-600 1.647 1.964 2.333 2.584 3.104 3.307
-° 1.645 1.960 2.326 2.576 3.090 3.291
-Des
-
-&/4
---- page 7 ---
-Table of Chi-Square (y”) Distribution
-
-© Level of significance (a) >
-df. 0.995 0.99 0.975 0.95 0.90 0.10 0.05 0.025 0.01 0.005
-1 0.0000 0.0002 0.0010 0.0039 0.0158 2.7055 3.8415 5.0239 6.6349 7.8794
-2 0.0100 0.0201 0.0506 0.1026 0.2107 4.6052 59915 7.3778 9.2103 10.5966
-3 0.0717 0.1148. 0.2158 0.3518 0.5844 62514 7.8147 9.3484 11.3449 12.8382
-4 0.2070 0.2971 0.4844 0.7107 1.0636 7.7794 9.4877 11.1433 13.2767 14.8603
-5 0.4117 0.5543 0.8312 1.1455 1.6103 9.2364 11.0705 12.8325 15.0863 16.7496
-
-6 0.6757 0.8721 1.2373 1.6354 2.2041 10.6446 12.5916 14.4494 16.8119 18.5476
-zu 0.9893 1.2390 1.6899. 2.1673 2.8331 12.0170 14.0671 16.0128 18,4753 20.2777
-8 1.3444 1.6465 2.1797 2.7326 3.4895 13.3616 15.5073 17.5345 20.0902 21 -9550
-9 1.7349 2.0879 2.7004 3.3251 4.1682 14.6837 16.9190 19.0228 21.6660 23.5894
-10 2.1559 2.5582 3.2470 3.9403 4.8652 15.9872 18.3070 20.4832 23.2093 25.1882
-
-11 2.6032 3.0535 3.8157 4.5748 5.5778 17.2750 19.6751 21.9200 24.7250 26.7568
-12 3.0738 3.5706 4.4038 5.2260 6.3038 18.5493 21.0261 23.3367 26.2170 28.2995
-13 3.5650 4.1069 5.0088 5.8919 7.0415 19.8119 22.3620 24.7356 27.6882 29.8195
-14 4.0747 4.6604 56287 6.5706 7.7895 21.0641 23.6848 26.1189 29.1412 31.3193
-15 . 4.6009 5.2293 6.2621 7.2609 8.5468 22.3071 24.9958 27.4884 30.5779 32.8013
-
-16 5.1422 5.8122 6.9077 7.9616 9.3122 23.5418 26.2962 28.8454. 31.9999 34.2672
-17 5.6972 6.4078 7.5642 8.6718 10.0852 24.7690 27.5871 30.1910 33.4087 35.7185
-18 6.2648 7.0149 8.2307 9.3905 10.8649. 25.9894 28.8693 31.5264 34.8053 37.1565
-19 6.8440 7.6327 8.9065 10.1170 11.6509 27.2036 30.1435 32.8523 36.1909 38.5823
-20 7.4338 8.2604 9.5908 10.8508 12.4426 28.4120 31.4104 34.1696 37.5662 39.9968
-
-21 8.0337 8.8972 10.2829. 11.5913 13.2396 29.6151 32.6706 35.4789 38.9322 41.4011
-22 8.6427. 9.5425 10.9823 12.3380 14.0415 30.8133 33.9244 36.7807 40.2894 42.7957
-23 9.2604 10.1957 11.6886 13.0905 14.8480 32.0069 35.1725 38.0756 41.6384 44.1813
-24 9.8862 10.8564 12.4012 13.8484 15.6587 33.1962 36.4150 39.3641 42.9798 45.5585
-25 10.5197 11.5240 13.1197 14.6114 16.4734 34.3816 37.6525 40.6465 44.3141 46.9279
-
-26 11.1602 12.1981 13.8439 15.3792 17.2919 35.5632 38.8851 41.9232 45.6417 48.2899
-27 «11.8076 12.8785 14.5734 16.1514 18.1139° 36.7412 40.1133 ° 43.1945 46,9629 49.6449
-28 12.4613 13.5647 15.3079 16.9279 18.9392 37.9159 41.3371 44.4608 48.2782 50.9934
-29 13.1211 14.2565 16.0471 17.7084 19.7677 39.0875 42.5570 45.7223 49.5879 52.3356
-30 13.7867 14.9535 16.7908 18.4927 20.5992 40.2560 43.7730 46.9792 50.8922 53.6720
-
-14
---- page 8 ---
-Table of 'F' Distribution. (Value of F 995)
-
-5% area
-
-< Degrees of Freedom for the Numerator >
-1 e2) 3 4 5 6 7 8 9
-4 161.4476 199.5000 215.7073 224.5832 230.1619 233.9860 236.7684 238.8827 240.5433
-2 18.5128 19.0000 19.1643 19.2468 19.2964 19.3295 19.3532 19.3710 19.3848
-3 10.1280 9.5521 9.2766 9.1172 9.0135 8.9406 8.8867 8.8452 8.8123
-4 7.7086 6.9443 6.5914 6.3882 6.2561 6.1631 6.0942 6.0410 5.9988
-5 6.6079 5.7861 5.4095 5.1922 5.0503 4.9503 4.8759 4.8183 4.7725
-
-6 5.9874 5.1433 4.7571 4.5337 4.3874 4.2839 4.2067 4.1468 4.0990
-7 5.5914 4.7374 4.3468 4.1203 3.9715 3.8660 3.7870 3.7257 3.6767
-8 5.3177 4.4590 4.0662 3.8379. 3.6875 3.5806 3.5005 3.4381 3.3881
-9 5.1174 4.2565 3.8625 3.6331 3.4817 3.3738 3.2927 3.2296 3.1789
-10 4.9646 4.1028 3.7083 3.4780 3.3258 3.2172 3.1355 3.0717 3.0204
-
-41 4.8443. 3.9823 3.5874 3.3567 3.2039 3.0946 3.0123 2.9480 2.8962
-12. 4.7472 3.8853 3.4903 3.2592 3.1059 2.9961 2.9134 2.8486 2.7964
-13 4.6672 3.8056 3.4105 3.1791 3.0254 2.9153 2.8321 2.7669 2.7144
-14 4.6001 3.7389 3.3439 3.1122 2.9582 2.8477 2.7642 2.6987 2.6458
-15 4.5431 3.6823 3.2874 3.0556 2.9013 2.7905 2.7066 2.6408 2.5876
-
-16 4.4940 3.6337 3.2389 3.0069 2.8524 2.7413 2.6572 2.5911 2.5377
-17 4.4513 3.5915 3.1968 2.9647 2.8100 2.6987 2.6143 2.5480 2.4943
-18 4.4139 3.5546 3.1599 2.9277 2.7729 2.6613 2.5767 2.5102 2.4563
-19 4.3807 3.5219 3.1274 2.8951 2.7401 2.6283 2.5435 2.4768 2.4227
-20 4.3512 3.4928 3.0984 2.8661 2.7109 2.5990 2.5140 2.4471 2.3928
-
-21 4.3248 3.4668 3.0725 2.8401 2.6848 2.5727 2.4876 2.4205 2.3660
-22 4.3009 3.4434 3.0491 2.8167 2.6613 2.5491 2.4638 2.3965 2.3419
-23° 4.2793. 3.4221 3.0280 2.7955 2.6400 2.5277 2.4422 2.3748 2.3201
-24 4.2597 3.4028 3.0088 2.7763 2.6207 2.5082 2.4226 2.3551 2.3002
-25 4.2417 3.3852 2.9912 2.7587 2.6030 2.4904 2.4047 2.3371 2.2821
-
-30 94.1709 3.3158 2.9223 2.6896 2.5336 2.4205 2.3343 2.2662 2.2107
-40 4.0847 3.2317 2.8387 2.6060 2.4495 2.3359 2.2490 2.1802 2.1240
-60. 4.0012 3.1504 2.7581 2.5252 2.3683 2.2541 2.1665 2.0970° 2.6401
-120 3.9201 3.0718 2.6802 2.4472 2.2899 2.1750 2.0868 © 2.0164 1.9588
-°0 3.8446 2.9987 2.6079 2.3749 © 2.2171 2.1016 2.0126 1.9415 1.8830
-
-8/4
---- page 9 ---
-... Table of 'F' Distribution. (Value of F 5)
-
-5% area
-
-< Degrees of Freedom for the Numerator >
-10 12 15 20 25 30 40 60 120
-1 241.8817 243.9060. 245.9499 248.0131 249.2601 250.0951 251.1432 252.1957 253.2529
-2 19.3959 19.4125 19.4291 19.4458 19.4558 19.4624 19.4707 19.4791 19.4874
-3 8.7855 8.7446 8.7029 8.6602 8.6341 8.6166 8.5944 8.5720 8.5494
-4 5.9644 5.9117 5.8578 5.8025 5.7687 5.7459 5.7170 5.6877 5.6581
-5 4.7351 4.6777 4.6188 4.5581 4.5209 4.4957 4.4638 4.4314 4.3985
-
-6 4.0600 3.9999 3.9381 3.8742 3.8348 3.8082 3.7743 3.7398 3.7047
-i 3.6365 3.5747 3.5107 3.4445 3.4036 3.3758 3.3404 3.3043 3.2674
-8 3.3472 3.2839 3.2184 3.1503 3.1081 3.0794 3.0428 3.0053 2.9669
-if 9 3.1373 3.0729 3.0061 2.9365 2.8932 2.8637 2.8259 2.7872 2.7475
-S 10 2.9782 2.9130 2.8450 2.7740 2.7298 2.6996 2.6609 2.6211 2.5801
-
-— 11 2.8536 2.7876 2.7186 2.6464 2.6014 2.5705 2.5309 2.4901 2.4480
-eo 22 237934, 2.6866 2.6169 2.5436 2.4977 2.4663 2.4259 2.3842 2.3410
-Q 13 2.6710 2.6037 2.5331 2.4589 2.4123 2.3803 2.3392 2.2966 2.2524
-s 14 2.6022 2.5342 2.4630 2.3879 2.3407 2.3082 2.2664 2.2229 2.1778
-5 15 +2:5437 2.4753 2.4034 2.3275 2.2797 2.2468 2.2043 2.1601 2.1141
-
-2 16° 2.4935 2.4247 2.3522 2.2756 2.2272 2.1938 2.1507 2.1058 2.0589
-8 17 2.4499 2.3807 2.3077 2.2304 2.1815 2.1477 2.1040 2.0584 2.0107
-u 18 2.4117 2.3421 2.2686 2.1906 2.1413 2.1071 2.0629 2.0166 1.9681
-O- 19°. 2.3779 2.3080 2.2341 2.1555 2.1057 2.0712 2.0264 1.9795 1.9302
-@ 20 2.3479 2.2776 2.2033 2.1242 2.0739 2.0391 1.9938 1.9464 1.8963
-& 21 2.3210 2.2504 2.1757 2.0960 2.0454 2.0102 1.9645 1.9165 1.8657
-Ven22— = 2:296/; 2.2258 2.1508 2.0707 2.0196 1.9842 1.9380 1.8894 1.8380
-
-23 2 2147. 2.2036 2.1282 2.0476 1.9963 1.9605 1.9139 1.8648 1.8128
-
-24 2.2547 2.1834 2.1077 2.0267 1.9750 1.9390 1.8920 1.8424 1.7896
-
-25 2.2365 2.1649 2.0889 2.0075 1.9554 1.9192 1.8718 4.8217 1.7684
-
-30 2.1646 2.0921 2.0148 1.9317. 1.8782 1.8409 1.7918 1.7396 1.6835
-40 2.0772 2.0035 1.9245 1.8389 1.7835 1.7444 1.6928 1.6373 1.5766
-60 1.9926 1.9174 1.8364 1.7480 1.6902 1.6491 1.5943 1.5343 1.4673
-120 1.9105 1.8337 1.7505 1.6587 1.5980 1.5543 1.4952 1.4290 1.3519
-° 1.8339 1.7554 1.6697 1.5740 1.5098 1.4629 1.3981 1.3227 1.2272
-
-9(9
---- page 10 ---
-
-````
-
 ## 2023-24 · Re-Exam · Sem 7 · paper 4bbdb014769a
 
 - Departments: Computer Engineering
@@ -22685,6 +23941,492 @@ between 0 and z
 Page 5 of 5
 ````
 
+## 2022-23 · Exam not stated · Sem 4 · paper efbe362ffa46
+
+- Departments: Information Technology, Mechanical
+- Programmes: MBA TECH / I T, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/PROBABILITY AND STATISTICS/Probability and Statistics.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (10 pages), mean OCR confidence 83.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+Program: B Tech/ MBA Tech/B.Tech Integrated Year: II/IV Semester: IV/VIII
+Stream : B. Tech (IT, CSE-Cyber Security, EXTC, Mechatronics,
+Civil, Mechanical), MBA Tech (IT, Mechanical) , B.Tech Integrated
+
+(Civil)
+
+Subject: Probability and Statistics Time: 3 hrs. (40am tod pm )
+Date: 24 Jo4]20 23 No. of Pages: 9
+
+Marks: 100
+
+Final Examination } Re- Exam nation .
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1. Questions 1 is compulsory.
+
+2. Solve any four out of remaining six questions
+
+3. In all, 5 questions to be attempted
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+
+8. Use of scientific calculator is allowed.
+
+Answer the following: Marks
+
+CO1/SO1/BL1 | Q.1a. | A discrete random variable has the following probability distribution:
+x -2 -l 0 1 2, 3
+P(X=x) |O1 [k 0.2 2k 03 3k
+Find k and P( -2 <X <2).
+CO1/SO1/BL2 b. The joint probability distribution of X and Y is given by
+P(X =x,Y =y) = 3 x =12;y =1,2. [4]
+
+24.
+Estimate marginal probability distributions of X and Y.
+
+CO1/SO1/BL1 c. Identify the type of correlation in each of the following cases:
+1
+
+[4]
+
+(i) byx i Fr bey =-3 [4]
+(ii) r=0
+Gii) r=0.5
+
+CO1/SO1/BL1 d. A bag contains 4 Green balls, 2 Red and 5 Blue balls. A ball is drawn
+at random from the bag. State the probability that the ball drawn is
+(i) blue (ii) not green [4]
+
+1/9
+--- page 2 ---
+CO1/SO1/BL1 e. A random sample of 50 items gives the mean 6.2 and standard
+deviation 10.24. State whether it can be regarded as sample drawn [4]
+from a normal population with mean 5.4 at 5% level of significance.
+
+CO1/SO1/BL2 | Q.2a. | A salesman in a departmental stores claims that 60 percent of the
+shoppers entering the store leaves without making purchase. A
+random sample of 50 shopper showed that 35 of them left without [6]
+making a purchase. Compare the sample results with the claim of the
+salesman at 5% LOS.
+
+CO2/SO1/BL1 b. Suppose that the joint probability density function of X and Y is
+tu (%y)= sve” if x €[0,00)& y €[3,5]
+
+; [6]
+=0 otherwise
+Find conditional density of X.
+CO3/SO1/BL3 @ The iength of time (in minutes) a lady speaks on telephone is found to
+be a random variable with probability density function
+f(x) = Ae* when x>0
+[8]
+
+= 0 elsewhere
+
+Calculate A, mean and variance.
+
+CO3/SO1/BL3 | Q.3 a. | Ina roll of a fair die, let A be the event that the outcome is an odd
+number, Also, let B be the event that the outcome is less than or equal
+to 3. Calculate P(A). Also, determine the probability of event A given [6]
+that B has occurred.
+
+CO2/SO2/BL2 b. Intelligence tests were given to two groups of boys and girls of the
+same age group chosen from the same college and the following
+results were obtained.
+
+Size Mean SD
+Boys 100 73 10 [6]
+
+Girls 60 75 8
+
+Examine whether the difference between the means is significant or
+not at 5% level of significance.
+
+CO3/SO1/BL3 c. Suppose X is a discrete random variable and has a probability mass
+function as follows:
+x -2 3 1
+PCX=x) | 13 1/2 1/6
+
+[8]
+Determine the moment generating function and hence find mean,
+variance and third central moment.
+
+2/9
+--- page 3 ---
+CO2/SO1/BL1 | Q.4a. | The probability of a man hitting the target is 1/4.
+(i) If he fires 7 times compute the probability of his hitting the
+target at least once. [6]
+(ii) Estimate no. of fire so that probability of his hitting the
+
+target at least once is greater than 2/3?
+
+CO04/SO2/BL5 b. Ten items of a sample had the following values
+63, 63, 64, 65, 66, 69, 69, 70, 70, 71. [6]
+Test whether the mean of 10 items differ significantly from the
+assumed population mean 65 at 5% level of significance.
+
+CO4/SO1/BL3 Gs The following are the marks obtain by 10 students in two papers. Use
+, least square method to find lines of regression.
+PaperI | 80 | 45 |55 |56|58 |65 |68 |70 |75 | 86 | [8]
+Paper II | 82 | 56 |50 |48|60 |64 |65 |70 | 74 | 90
+
+CO1/SO1/BL2 | Q.5a. | A researcher wants to test whether the variance of the weight of bags
+of rice produced by two different factories is the same or not. She
+takes a random sample of 21 bags of rice from each factory and finds
+that the variance of the weight of bags from Factory A is 36 and the [6]
+variance of the weight of bags from Factory B is 25. Use an F-test
+with 5% level of significance to demonstrate whether the variances of
+the weight of bags produced by the two factories are equal.
+
+CO2/SO02/BL4 b. Samples of two types of electric bulbs were tested for length of life
+and the following data were obtained
+
+Typel Type II
+Sample Size 8 7
+Sample Mean 1234 hrs 1036 hrs [6]
+Sample standard 36 hrs 40 hrs
+
+deviation
+Analyze the difference in the means sufficient to warrant that type I is
+superior to type II regarding length of life using level of significance
+5%.
+
+CO2/SO1/BL2 on In anormal distribution 7% of items are under 35 and 89% are under
+
+8
+63. Compute mean and standard deviation of items. i)
+
+CO3/SO1/BL3 | Q.6a. | A person has two bags. Bag A has 7 red and 2 blue balls and bag B
+has 5 red and 9 blue balls. A ball is drawn at random and it turns out [6]
+
+to be red. Determine the probability that the ball was from the bag A.
+
+CO4/SO2/BL5 b. Evaluate Karl Pearson’s correlation coefficient from the following
+values of demand and the corresponding price of commodity:
+Demandin | 65 | 66 | 67 67 68 69 70 72 [6]
+quintals
+PriceinRs. | 67] 68 |65 | 68 72 72 69 71
+Per kg
+
+3/9
+--- page 4 ---
+CO4/SO2/BL2 G A chef wants to compare the cooking time for three different types of
+pasta (A, B, C). She randomly selects 5 samples of each type and
+records the cooking times (in minutes) for each sample. The data are
+
+as follows:
+Pasta A: 10, 12, 11, 9, 11
+Pasta B: 8, 9, 7, 10, 8 [8]
+
+Pasta C: 13, 14, 12, 11, 13
+
+Illustrate whether there is any significant difference in the means of
+the cooking times for all three types of pasta using level of
+significance as 0.05.
+
+CO3/SO1/BL1 | Q.7 a. | If the two lines of regression are 4x — 5y + 30 = Oand
+20x — 9y — 107 = 0, identify regression line of x on y and y on x. [6]
+
+Justify. Also state sample mean ¥ and ¥.
+
+CO1/SO1/BL1 b. Assuming that the typing mistakes per page committed by a typist
+follows a Poisson distribution. List expected frequencies for the
+
+following distribution of typing mistakes by using Poisson
+distribution.
+
+No. of 0 1 ) 3 4 5 [6]
+mistakes
+
+per page
+
+Number | 40 30 20 15 10 BS)
+
+of pages
+
+C04/SO2/BL5 ce A survey was conducted to study the relationship between the gender
+of students (male/female) and their preference for a particular subject
+(mathematics/science/languages). The results are shown in the table
+below. Evaluate whether the hypothesis that there is no association
+between the gender of students and their subject preference is
+supported by the data provided in the survey using a significance level
+
+of 5%.
+[8]
+Mathematics | Science Languages | Total
+Male 20 15 25 60
+Female | 25 20 10 55
+Total 45 35 35 115
+
+4/9
+--- page 5 ---
+Table of Standard Normal Distribution
+
+0 2
+
+z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
+0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+0.3 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+0.4 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 - 0.2157 0.2190 0.2224
+
+0.6 0.2257 0.2291 0.2324 + 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
+
+1.1 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+1.3 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162 0.4177
+1.4 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+1.5 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
+
+1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 .0.4535 0.4545
+1.7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
+1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+1.9 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
+2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+
+2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
+2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+2.5 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
+
+2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+2.7 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+2.8 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
+2.9 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
+3.0 0.4987 _0.4987__0.4987 0.4988 —0.4988 ~— 0.4989 ~—0.4989 0.4989 0.4990 __—0.4990
+
+Note:
+
+Middle 50% area = + 0.6745 For any Normal Variate (with Mean = y and Std. Deviation = o):
+Middle 90% area = + 1.6449. y+ 10 = 0.6827
+
+Middle 95% area = + 1.9600 H+ 20 = 0.9545
+
+Middle 99% area = + 2.5758 y + 30 = 0.9973
+
+5/9
+--- page 6 ---
+Distribution: Critical Values of t
+
+Significance level
+
+Degreesof — Two-tailed test: 10% 5% 2% 1% 0.2% 0.1%
+jreedom One-tailed test: 5% 2.5% 1% 0.5% 0.1% 0.05%
+1 6.314 12,706 31.821 63.657 318.309 636.619
+2 2.920 4,303 6.965 9.925 22.327 31.599
+s 2.353 3,182 4.541 5.841 10.215 12,924
+4 2.132 2.776 3.747 4.604 TAT3 8.610
+Ss 2.015 2.571 3.365 4.032 5.893 6.869
+6 1.943 2.447 3.143 3.707 5.208 5.959
+7 1.894 2.365 2.998 3.499 4.785 5.408
+
+8 1.860 2.306 2.896 3.359 4.501 5.041
+9 1.833 2.262 2.821 3.250 4,297 4.781
+10 1.812 2.228 2.764 3.169 4.144 4.587
+li 1.796 2.201 2.718 3.106 4.025 4.437
+12 1,782 2.179 2.681 3.055 3.930 4.318
+3 a 1.771 2.160 2.650 3.012 3.852 4,221
+14 1.761 2.145 2.624 2.977 3.787 4,140
+15 1753-2131 «2.602 2.947 3.733 4.073
+16 1.746 2120 . 2.583 2.921 3.686 4.015
+17 1,740 2.110 2.567 2.898 3.646 3.965
+18 1.734 2101 2.552 2.878 3.610 3,922
+19 1.729 2.093 2,539 2.861 3.579 3.883
+20 1725 2.086 2.528 2.845 3.552 3.850
+21 1.721 2.080 2.518 2.831 3.527 3,819
+22 L717 2.074 2.508 2.819 3.505 3.792
+23 1.714 2.069 2.500 2.807 3.485 3.768
+24 1-711 2.064 2.492 27197 3.467 3.745
+25 1.708 2.060 2485 2.787 3.450 3.725
+26 1.706 2.056 2.479 2.779 3.435 3.707
+27 1.703 2.052 2.473 ° 2.771 3.421 3,690
+28 : 1.701 2.048 2.467 2.763 3.408 3.674
+29 1.699 2.045 2.462 2.756 3.396 3.659
+30 1.697 2.042 2.457 2.750 3.385 3.646
+32 1.694 2.037- 2.449 2.738 3.365 3.622
+34 1.691 2.032 2.441 2.728 3.348 3.601
+36 1.688 2.028 2.434 2.9 3.333 3.582
+38 1.686 2.024 2.429 2.712 Sa19 3.566
+40 1.684 2.021 2.423 2.704 3.307 3.551
+42 1.682 2.018 2418 2.698 3.296 3.538
+44 1.680 2.015 2.414 2.692 3.286 3.526
+46 1.679 2.013 2.410 2.687 3277 3.515
+48 1.677 2.011 2.407 2.682 3.269 3.505
+50 : 1.676 2,009 2.403 2.678 3.261 3.496
+60 1.671 2.000 2.390 2.660 3.232 3.460
+7 1.667 1,994 2.381 2.648 3.211 3.435
+80 1.664 1.990 2.374 2.639 3.195 3.416
+90 1.662 1.987 2.368 2.632 3.183 3.402
+100 1.660 1.984 2.364 2.626 3.174 3.390
+120 1.658 1.980 2.358 2.617 3.160 3373
+150 1.655 1,976 2.351 2.609 3.145 3.357
+200 1.653 1.972 2.345 2.601 3.131 3.340
+300 1.650 1,968 2.339 2.592 3.118 33323
+406 1.649 1,966 2.336 2.588 cB Bf 3.315
+509 1.648 1,965 2.334 2.586 3.107 3.310
+600 1.647 1,964 2,333 2.584 3.104 3.307
+oO 1.645 1.960 2.326 2.576 3.090 3251
+
+he
+
+6/9
+--- page 7 ---
+Table of 'F' Distribution. (Value of F 9.95)
+
+5% area
+A
+
+< Degrees of Freedom for the Numerator >
+1 2 3 4 5 6 7 8 9
+14 161.4476 199.5000 215.7073 224.5832 230.1619 233.9860 236.7684 238.8827 240.5433
+2 18.5128 19.0000 19.1643 19.2468 19.2964 19.3295 19.3532 19.3710 19.3848
+3 10.1280 9.5521 9.2766 9.1172 9.0135 8.9406 8.8867 8.8452 8.8123
+4 7.7086 6.9443 6.5914 6.3882 6.2561 6.1631 6.0942 6.0410 5.9988
+5 6.6079 5.7861 5.4095 5.1922 5.0503 4.9503 4.8759 4.8183 4.7725
+
+6 5.9874 5.1433 4.7571 4.5337 4.3874 4.2839 4.2067 4.1468 4.0990
+% 5.5914 4.7374 4.3468 4.1203 3.9715 3.8660 3.7870 3.7257 3.6767
+8 5.3177 4.4590 4.0662 3.8379 3.6875 3.5806 3.5005 3.4381 3.3881
+9 5.1174 4.2565 3.8625 3.6331 3.4817 3.3738 3.2927 3.2296 3.1789
+10 4.9646 4.1028 3.7083 3.4780 3.3258 3.2172 3.1355 3.0717 3.0204
+
+11 4.8443 3.9823 3.5874 3.3567 3.2039 3.0946 3.0123 2.9480 2.8962
+12 4.7472 3.8853 3.4903 3.2592 3.1059 2.9961 2.9134 2.8486 2.7964
+13. 4.6672 3.8056 3.4105 3.1791 3.0254 2.9153 2.8321 2.7669 2.7144
+14 4.6001 3.7389 3.3439 3.1122 2.9582 2.8477 2.7642 2.6987 2.6458
+15 4.5431 3.6823 3.2874 3.0556 2.9013 2.7905 2.7066 2.6408 2.5876
+
+16 4.4940 3.6337 3.2389 3.0069 2.8524 2.7413 2.6572 2.5911 2.5377
+17. 4.4513 3.5915 3.1968 2.9647 2.8100 2.6987 2.6143 2.5480 2.4943
+18 4.4139 3.5546 3.1599 2.9277 2.7729 2.6613 2.5767 2.5102 2.4563
+19 4.3807 3.5219 3.1274 2.8951 2.7401 2.6283 2.5435 2.4768 2.4227
+20 4.3512 3.4928 3.0984 2.8661 2.7109 2.5990 2.5140 2.4471 2.3928
+
+24 4.3248 3.4668 3.0725 2.8401 2.6848 2.5727 2.4876 2.4205 2.3660
+22 4.3009 3.4434 3.0491 2.8167 2.6613 2.5491 2.4638 2.3965 2.3419
+23° 4.2793 3.4221 3.0280 2.7955 2.6400 2.5277 2.4422 2.3748 2.3201
+24 4.2597 3.4028 3.0088 2.7763 2.6207 2.5082 2.4226 2.3551 2.3002
+25 4.2417 3.3852 2.9912 2.7587 2.6030 2.4904 2.4047 2.3371 2.2821
+
+30 4.1709 3.3158 2.9223 2.6896 2.5336 2.4205 2.3343 2.2662 2.2107
+40 4.0847 3.2317 2.8387 2.6060 2.4495 2.3359 2.2490 2.1802 2.1240
+60 4.0012 3.1504 2.7581 2.5252 2.3683 2.2541 2.1665 2.0970 2.0401
+120 3.9201 3.0718 2.6802 2.4472 2.2899 2.1750 2.0868 2.0164 1.9588
+®0 3.8446 2.9987 2.6079 2.3749 2.2171 2.1016 2.0126 1.9415 1.8830
+
+#/9
+--- page 8 ---
+... Table of 'F' Distribution. (Value of F 9.05)
+
+Nee
+< Degrees of Freedom for the Numerator >
+
+10 12 15 20 25 30 40 60 120
+1 241.8817 243.9060 245.9499 248.0131 249.2601 250.0951 251.1432 252.1957 253.2529
+2 19.3959 19.4125 19.4291 19.4458 19.4558 19.4624 19.4707 19.4791 19.4874
+3 8.7855 8.7446 8.7029 8.6602 8.6341 8.6166 8.5944 8.5720 8.5494
+4 5.9644 5.9117 5.8578 5.8025 5.7687 5.7459 5.7170 5.6877 5.6581
+5 4.7351 4.6777 4.6188 4.5581 4.5209 4.4957 4.4638 4.4314 4.3985
+
+6 4.0600 3.9999 3.9381 3.8742 3.8348 3.8082 3.7743 3.7398 3.7047
+7 3.6365 3.5747 3.5107 3.4445 3.4036 3.3758 3.3404 3.3043 3.2674
+8 3.3472 3.2839 3.2184 3.1503 3.1081 3.0794 3.0428 3.0053 2.9669
+tT 9 3.1373 3.0729 3.0061 2.9365 2.8932 2.8637 2.8259 2.7872 2.7475
+& 10 2.9782 2.9130 2.8450 2.7740 2.7298 2.6996 2.6609 2.6211 2.5801
+
+E 11 2.8536 2.7876 2.7186 2.6464 2.6014 2.5705 2.5309 2.4901 2.4480
+§ 12 2.7534 2.6866 2.6169 2.5436 2.4977 2.4663 2.4259 2.3842 2.3410
+QO 13 2.6710 2.6037 2.5331 2.4589 2.4123 2.3803 2.3392 2.2966 2.2524
+2 14 2.6022 2.5342 2.4630 2.3879 2.3407 2.3082 2.2664 2.2229 2.1778
+6 15 2.5437 2.4753 2.4034 2.3275 2.2797 2.2468 2.2043 2.1601 2.1141
+
+8 16 2.4935 2.4247 2.3522 2.2756 212272 2.1938 2.1507 2.1058 2.0589
+o 17 2.4499 2.3807 2.3077 2.2304 2.1815 2.1477 2.1040 2.0584 2.0107
+uw 18 = 2.4117 2.3421 2.2686 2.1906 2.1413 2.1071 2.0629 2.0166 1.9681
+o 19 2.3779 2.3080 2.2341 2.1555 2.1057 2.0712 2.0264 1.9795 1.9302
+@ 20 2.3479 2.2776 2.2033 2.1242 2.0739 2.0391 1.9938 1.9464 1.8963
+
+a 21 2.3210 2.2504 2.1757 2.0960 2.0454 2.0102 1.9645 1.9165 1.8657
+4 22 2.2967 2.2258 2.1508 2.0707 2.0196 1.9842 1.9380 1.8894 1.8380
+23 2.2747 2.2036 2.1282 2.0476 1.9963 1.9605 1.9139 1.8648 1.8128
+24 2.2547 2.1834 2.1077 2.0267 1.9750 1.9390 1.8920 1.8424 1.7896
+25 = 2.2365 2.1649 2.0889 2.0075 1.9554 1.9192 1.8718 1.8217 1.7684
+
+30 =. 2.1646 2.0921 2.0148 1.9317 1.8782 1.8409 1.7918 1.7396 1.6835
+40 2.0772 2.0035 1.9245 1.8389 1.7835 1.7444 1.6928 1.6373 1.5766
+60 1.9926 1.9174 1.8364 1.7480 1.6902 1.6491 1.5943 1.5343 1.4673
+120 1.9105 1.8337 1.7505 1.6587 1.5980 1.5543 1.4952 1.4290 1.3519
+0 1.8339 1.7554 1.6697 1.5740 1.5098 1.4629 1.3981 1.3227 1.2272
+
+8/3
+--- page 9 ---
+Table of Chi-Square (x?) Distribution
+
+© Level of significance (a) >
+df.4 0.995 0.99 0.975 0.95 0.90 0.10 0.05 0.025 0.01 0.005
+1 0.0000 0.0002 0.0010 0.0039 0.0158 2.7055 3.8415 5.0239 6.6349 7.8794
+2 0.0100 0.0201 0.0506 0.1026 0.2107 4.6052 5.9915 7.3778 9.2103 10.5966
+3 0.0717 0.1148 0.2158 0.3518 0.5844 6.2514 7.8147 9.3484 11.3449 12.8382
+4 0.2070 0.2971 0.4844 0.7107 1.0636 7.7794 9.4877 11.1433 13.2767 14.8603
+5 0.4117 0.5543 0.8312 1.1455 1.6103 9.2364 11.0705 12.8325 15.0863 16.7496
+
+6 0.6757 0.8721 = 1.2373 1.6354 92.2041 10.6446 12.5916 14.4494 16.8119 18.5476
+7 0.9893 1.2390 1.6899 2.1673 2.8331 12.0170 14.0671 16.0128 18.4753 20.2777
+8 1.3444 16465 2.1797 2.7326 3.4895 13.3616 15.5073 17.5345 20.0902 21.9550
+9 1.7349 2.0879 2.7004 3.3251 4.1682 14.6837 16.9190 19.0228 21.6660 23.5894
+10 2.1559 . 2.5582 3.2470 3.9403 4.8652 15.9872 18.3070 20.4832 23.2093 25.1882
+
+41 °2.6032 3.0535 3.8157 4.5748 5.5778 17.2750 19.6751 21.9200 24.7250 26.7568
+12 3.0738 3.5706 4.4038 5.2260 6.3038 18.5493 21.0261 23.3367 26.2170 28.2995
+13. 3.5650 4.1069 5.0088 5.8919 7.0415 19.8119 22.3620 24.7356 27.6882 29.8195
+14 4.0747 4.6604 5.6287 6.5706 7.7895 21.0641 23.6848 26.1189 29.1412 31.3193
+15 4.6009 5.2293 6.2621 7.2609 8.5468 22.3071 24.9958 27.4884 30.5779 32.8013
+
+16 5.1422 5.8122 6.9077 7.9616 9.3122 23.5418 26.2962 28.8454 31.9999 34.2672
+17 5.6972 6.4078 7.5642 8.6718 10.0852 24.7690 27.5871 30.1910 33.4087 35.7185
+18 6.2648 7.0149 82307 9.3905 10.8649 25.9894 28.8693 31.5264 34.8053 37.1565
+19 6.8440 7.6327 89065 10.1170 11.6509 27.2036 30.1435 32.8523 36.1909 38.5823
+20 7.4338 8.2604 9.5908 10.8508 12.4426 28.4120 31.4104 34.1696 37.5662 39.9968
+
+21 8.0337 8.8972 10.2829 11.5913 13.2396 29.6151 32.6706 35.4789 38.9322 41.4011
+22 8.6427 9.5425 10.9823 12.3380 14.0415 30.8133 33.9244 36.7807 40.2894 42.7957
+23 9.2604 10.1957 11.6886 13.0905 14.8480 32.0069 35.1725 38.0756 41.6384 44.1813
+24 9.8862 10.8564 12.4012 13.8484 15.6587 33.1962 36.4150 39.3641 42.9798 45.5585
+25 10.5197 11.5240 13.1197 14.6114 16.4734 34.3816 37.6525 40.6465 44.3141 46.9279
+
+26 11.1602 12.1981 13.8439 15.3792 17.2919 35.5632 38.8851 41.9232 45.6417 48.2899
+27 =11.8076 12.8785 14.5734 16.1514 18.1139 36.7412 40.1133 43.1945 46.9629 49.6449
+28 12.4613 13.5647 15.3079 16.9279 18.9392 37.9159 41.3371 44.4608 48.2782 50.9934
+29. 13.1211 14.2565 16.0471 17.7084 19.7677 39.0875 42.5570 45.7223 49.5879 52.3356
+30 13.7867 14.9535 16.7908 18.4927 20.5992 40.2560 43.7730 46.9792 50.8922 53.6720
+
+3/9
+--- page 10 ---
+2 Phe iE faa’
+
+i ae a a
+
+as | =e =
+````
+
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper 4899392b0093
 
 - Departments: Computer Applications (MCA)
@@ -22856,6 +24598,7 @@ Page 4of 4
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/PROBABILITY AND STATISTICS/Probability & Statistics, 2nd Year, Sem III, Year 2022-23, Final Exam.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 21 November 2022
 - Text: ocr (9 pages), mean OCR confidence 79.2
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -23051,11 +24794,8 @@ Table of Standard Normal Disiibution
 
 Ee 0.00 an Daz 0.03 and 0.05 ODS DOT 0.08 0.03
 
-0 O0000 0.0040 OGIBE Ofi2t m0IeD f0tea o.0239 O.027a 0.0319 1.02529
 D4 O8:0388 0.0435 G@O478 GO5IT MOssr O.0506 9.0636 o0s7Ts BOi4 10753
-O2 O0793 O0832 OORTt. goa 0048 o.08g7 ioe e106 , 01103 Ott
 O3 G17 O.4217 G4953 1203 11931 0.1308 O1406 01443 0.4480 AST
-O04 Diss4 O4591 8188 O1e84 IFO «M186 irre M1g0s miadd oar
 05 4515 O4080 G408S G2mig Mans 2088 02123 G2157 O:2180 02224
 
 O68 22357 02391 O22 8.2357 0.23980 02422, 0.2454 G.2486 2517 02548
@@ -24756,1274 +26496,6 @@ df. 0.995 0.99 0.975 0.95 0.90 0.10 0.05 0.025 0.01 0.005
 30 13.7867 14.9535 16.7908 18.4927 20.5992 40.2560 43.7730 46.9792 50.8922 53.6720
 
 3/9
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper f39e5abbc7e5
-
-- Departments: Civil, Cyber Security, Information Technology, Mechanical, Mechatronics
-- Programmes: B TECH / CIVIL, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/PROBABILITY & STATISTICS/Probability and statistics Batch 2021-22,2022-23 Re Exam.pdf` (+4 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (8 pages), mean OCR confidence 88.1
-
-````text
-SVKM’S NMIMS
-
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-Program/s: B Tech/ BTI/ MBA Tech Year: II/ITV Semester: IV/ VIII
-Stream/s ; MBA Tech IT (Sem-IV) B. Tech IT/ CSE- Cyber Security,
-MXTC, MECH, Civil (Sem IV)/ BTI Civil (Sem -VIII)
-
-Subject: Probability and Statistics Time: 03 hrs (jo:ooemto_4 toopne)
-Date:_4 / 7/2024 No. of Pages: 04
-Marks: 100
-
-Re-Examination (2021-22, 22-23)
-
-_» Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-t of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly:
-
-(a) | There are 3 true coins and 1 false coin with head on both sides. A coin is chosen
-
-ai SO-1, at random and tossed 4 times. If head occurs all the 4 times, compute the | [4]
-probability that the false coin has been chosen and used?
-tm (b) | A random variable X has the following probability function: [4]
-. . xX 0 {1/2 3 4 5 6 7
-ries SO-1, P(X) [0 [& | 2k | 2k [3k [Re | 2e | 7e+k
-Find k, P(X <6).
-(c) | The joint probability density function of a two dimensional random variable (X, | [4]
-CO- 1; SO-1; 2,0<x<l0<y<x
-BL-1 fy) -| 0, otherwise
-Y) is given by: :
-Find the marginal density function of X and Y. —
-(d) | The mean height of a random sample of 100 individuals from a population is [4]
-CO-1 ; SO-2; 160. The Standard deviation of the sample is 10. Would it be reasonable to
-BL-1
-
-suppose that the mean height of the population is 165 with 2% LOS?
-
-1/4
---- page 2 ---
-i
-
-()
-
-The following is the observation of from 25 pairs of data: | [4]
-
-Co- hi SO-1; Yix = 125, 0 y = 100, >) x? = 650, > = 436, > xy =520 Find correlation
-BL-
-coefficient.
-(a) | A service station has both self-service and full-service islands. On each island,
-there is a single regular unleaded pump with two hoses. Let X denote the number
-of hoses being used on the self-service island at a particular time, and let Y denote
-the number of hoses on the full-service island in use at that time. The joint pmf
-02 of X and Y appears in the accompanying tabulation.
-¥
-CO-1; SO-1; pix, y) | 0 1 2 [6]
-Bid 0 10 04 02
-x 1 .08 .20 06 i |
-2 .06 14 30
-i. Compute P(X = 1 and Y = 1)?
-ii. Compute P(X < 1 and Y <1).
-iii, __ Compute the marginal p.m.f. of X and of Y.
-(b) | 549 study participants who regularly used aspirin after being diagnosed with
-colorectal cancer, there were 81 colorectal cancer-specific deaths, whereas
-CO-2 ; SO-1; among 730 similarly diagnosed individuals who did not subsequently use aspirin, [6]
-BL-1 there were 141 colorectal cancer-specific deaths. State whether this data suggest
-that the regular use of aspirin after diagnosis will decrease the incidence rate of
-colorectal cancer-specific deaths, using significance level of 0.05.
-(c) | Suppose that in a certain region the daily rainfall (in inches) is a continuous
-random variable- X with p.d.f - f(x) given by
-3 (x~x%) O0<x<2
-CO-3 ; SO-1 eal
--3 ; SO-1; ‘ 8
-Bra 0, otherwise [8] an
-Calculate the probability that on a given day in this region, the rainfall is :
-i. not more than | inch,
-ii. greater than 1.5 inches,
-iii. between 0.5 and 1.5 inches.
-Q3 (a) | A bag contains 3 red and 7 black balls. Two balls are drawn at random without
-. . replacement. If the second ball is red, compute the probability that the first ball | [6]
-CO-3; SO-1 ; P
-BL3 > > is also red?
-(b) | Analysis of a random sample consisting of 20 specimens of cold-rolled steel to
-determine yield strengths resulted in a sample average strength of 29.8 ksi and
-CO-2 ; SO-2; with standard deviation 4. A second random sample of 25 two-sided galvanized [6]
-BL-4 steel specimens gave a sample average strength of 34.7 ksi with standard
-
-deviation 5. Examine whether this data indicates that the corresponding true
-average yield strengths 11 and 12 are different at 5% level of significance?
-
-2/4
---- page 3 ---
-7
-
-i
-
-(c) | Find the moment generating function of the random variable X whose:probability
-. : mass function is given by al
-ee ie x 2 [3 |1 [8]
-P(X) =| 1/3 | 1/2 | 1/6
-Also, analyse the skewness of the distribution.
-(a) | 1.4 % of students pass the IPS examination during first attempt. Compute the
-Q4 probability that out of 100 such students appearing for the first time for IPS,
-CO-2; SO-1; the number of students appearing the examination will be [6]
-BL-2 , (i) only one ,
-(ii) less than 3.
-(b) | A machine is designed to produce insulating washers for electrical devices of
-CO-4 : SO-1: average thickness of 0.025 cm. A random sample of 10 washers was found to ,
-BL-5 > > have an average thickness of 0.024 cm with a standard deviation of 0.002 cm. [6]
-Justify using testing of hypothesis, whether the average thickness can be
-0.025cm.
-(c) | Determine the equation of the line of regression of cost on age from the
-following table giving the age of a car of certain make and the annual
-maintenance cost.
-an 5 Be: Age of car (in years) 2 4 6 8 [8]
-Maintenance 5 7 8.5 11
-(in thousands of Rs.)
-Also find maintenance cost of the car if its age is 9 years.
-Q5 (a) | Ina sample of 8 observations, the sum of the squares of deviations of the sample
-CO-1: SO-2: values from the sample mean was 94.5, and in another sample of 10 observations [6]
-BL2 > it was 101.7. Compute the test statistic and test whether the difference in
-variance is significant at 5 % level.
-(b) | Arandom sample of 20 daily workers of State A was found to have average daily
-CO-2 : SO-1: earnings of Rs. 44 with sample variance 900. Another sample of 20 daily workers
-BL. ; from State B was found to earn on an average Rs. 30 per day with sample [6]
-variance 400. Determine whether the workers in State A are earning more than
-those in State B?
-(c) | The income of a group of 10000 persons were found to be normally distributed
-CO-2 ; SO-1; with mean Rs 520 and S.D. Rs 60. Find the following: [8]
-BL-2 (i) the number of persons having incomes between Rs 400 and Rs 550,
-(ii) __ the lowest income of the richest 500.
-Q6 (a) | In a neighborhood, 90% children were falling sick due to flu and 10% due to
-CO-3: SO-I: measles and no other disease. The probability of observing rashes for measles is [6]
-BL- 3 , 0.95 and for flu is 0.08. If a child develops rashes, Apply Bayes theorem to find
-the child’s probability of having flu.
-CO-4 ; SO-2; (b) | Determine and interpret coefficient of correlation between cost and sales using
-BL-5 Spearman’s rank Correlation.
-Cost (in lakh | 78 | 36 | 98 | 25 | 75 | 82 | 90 | 62 | 65 | 39 (6]
-
-2)
-Sales(in lakh | 84 | 51 | 91 | 60 | 68 | 62 | 86 | 58 | 53 | 47
-%)
-
-3/4
---- page 4 ---
-rT
-
-CO-4 ;SO-2; | (c) | Compare the effectiveness of different diet plans (A, B, C and D),on weight
-
-BL-2 loss among participants using ANOVA (Use 5% level of significance)
-Observation | A B Cc
-1 8 12 18
-2 10 u 12 [8]
-3 12 9. 16
-4 8 14 6
-5 7 4 8
-Q7 (a) | The regression equation of two variables x & y are Sy=9x-22 and
-. . 20x=9y+350. Find the mean of the x and y. Also, find coefficient of [6]
-CO-3; SO-1; correlation between x & y.
-BL-1
-CO-1 ;SO-1; | (b) | Seven unbiased coins were tossed and number of heads are noted, this is
-BL-1 repeated 130 times and the following distribution is obtained. Find the ,
-parameters of a binomial distribution and fit it to this data. f
-No. of o/;1]2 7374 5 6 7 [6]
-heads :
-Frequency | 7 6 19} 35] 30 23 7 3
-(c) | Arandom sample of 395 people were surveyed and each person was asked to
-report the highest education level they obtained. The data that resulted from the
-survey is summarized in the following table:
-High Bachelors | Masters Ph.d. Total
-School
-CO-4 ; SO-2; Female _| 60 54 46 41 201 [8]
-BL-6
-Male 40 44 53 57 194
-Total 100 98 99 98 395
-Explain using chi square test if there is a significant association between gender é)
-
-and educational attainment based on the provided data. (Use 5% level of
-significance.)
-
-4/4
---- page 5 ---
-Standard Normal (Z) Table
-a betwee
-
-[0.00 | 0.01 | 0.02
-
-| 0.03 i 0.04 | 0.05 | 0.06 | 0.07
-
-[| 0.08 |
-
-0.09
-
-| 0.0
-
-[0.0000 [0.0040 [0.0080
-
-[0.0120 [0.0160 [0.0199 [0.0239 [0.0279
-
-{0.0319 [0.0359
-
-i
-; 01
-
-[0.0398 [0.0438 [0.0478
-
-[0.0517 [0.0557 [0.0596 [0.0636 {0.0675
-
-{0.0714 [0.0753
-
-| 0.2
-
-{0.0793 [0.0832 [0.0871
-
-[0.0910 [0.0948 [0.0987 [0.1026 [0.1064
-
-[0.1103 [0.1141
-
-[ 0.3
-
-1
-
-[0.1179 [0.1217 [0.1255
-
-fo.1293 [0.1331 [0.1368 [o.1406 [0.1443
-
-[0.1480 [0.1517
-
-[0.4 [0.1554 [0.1591 [0.1628
-
-0.1664 [0.1700 [0.1736 [0.1772 [0.1808
-
-[0.1844 [0.1879
-
-[0s
-
-[0.1915 [0.1950 [0.1985
-
-[0.2019 [0.2054 [0.2088 [0.2123 [0.2157
-
-0.2190 [0.2224
-
-| 0.6
-
-[0.2257 [0.2291 [0.2324
-
-[0.2357 [0.2389 [0.2422 [0.2454 0.2486
-
-|0.2517 [0.2549
-
-[07
-
-{0.2580 [0.2611 [0.2642
-
-[0.2673 [0.2704 [0.2734 [0.2764 [0.2794
-
-{0.2823 [0.2852
-
-[08
-
-[0.2881 [0.2910 {0.2939
-
-[0.2967 [0.2995 [0.3023 [0.3051 [0.3078
-
-[0.3106 [0.3133
-
-| 09
-
-(0.3159 [0.3186 [0.3212
-
-}0.3238 [0.3264 [0.3289 [0.3315 [0.3340
-
-[0.3365 [0.3389
-
-| 1.0
-
-(0.3413 [0.3438 [0.3461
-
-(0.3485 [0.3508 [0.3531 [0.3554 [0.3577
-
-[0.3599 [0.3621
-
-faa
-
-[0.3643 [0.3665 [0.3686
-
-[0.3708 [0.3729 [0.3749 [0.3770 [0.3790
-
-[0.3810 [0.3830
-
-[12
-
-[0.3849 [0.3869 [0.3888
-
-}0.3907 [0.3925 [0.3044 [0.3962 [0.3980
-
-[0.3997 [0.4015
-
-} 13
-
-[0.4032 [0.4049 [0.4066
-
-[0.4082 [0.4099 [o.a1is [0.4131 [0.4147
-
-0.4162 [0.4177
-
-; 14
-
-[0.4192 [0.4207 [0.4222
-
-0.4236 0.4251 [0.4265 [0.4279 [0.4292
-
-[0.4306 [0.4319
-
-[1s
-
-(0.4332 [0.4345 [0.4357
-
-0.4370 0.4382 [0.4304 [0.4406 [0.4418
-
-[0.4429 [o.aaai
-
-[16
-
-0.4452 [0.4463 [0.474
-
-[o.4ag4 [0.4495 fo.4505 [oasis [0.4525
-
-[0.4535 [0.4545
-
-fag
-
-|0.4554 [0.4564 [0.4573
-
-[0.4582 [0.4591 [0.4599 [o.4608 [0.4616
-
-[0.4625 [0.4633
-
-| 18
-
-0.4641 |0.4649 [0.4656
-
-(0.4664 [0.4671 [0.4678 [0.4686 [0.4693
-
-{0.4699 [0.4706
-
-[19 [0.4713 [0.4719 [0.4726
-
-(0.4732 [0.4738 [0.4744 [0.4750 [0.4756
-
-[0.4761 [0.4767
-
-[ 20
-
-[0.4772 [0.4778 [0.4783
-
-[0.4788 [0.4793 [0.4798 [0.4803 [0.4808
-
-[0.4812 [0.4817
-
-| 24
-
-[0.4821 {0.4826 [0.4830
-
-[0.4834 [0.4838 [0.4842 [0.4846 [0.4850
-
-[0.4854 [0.4857
-
-[2.2 [o.as61 [0.4864 [0.4868
-
-[0.4871 [0.4875 [0.4878 [0.4881 [0.4884
-
-[0.4887 [0.4890
-
-| 2.3
-
-[0.4893 [0.4896 [0.4898
-
-}0.4901 [0.4904 [0.4906 [0.4909 [0.4911
-
-0.4913 [0.4916
-
-[ 2.4
-
-[0.4918 [0.4920 [0.4922
-
-[0.4925 [0.4927 [0.4929 [0.4931 [0.4932
-
-[0.4934 [0.4936
-
-[ 2.5
-
-[0.4938 [0.4940 [0.4941
-
-[0.4943 [0.4945 [0.4946 [0.4948 0.4949
-
-[0.4951 [0.4952
-
-[ 26
-
-[0.4953 [0.4955 [0.4956
-
-[0.4957 [0.4959 [0.4960 [0.4961 [0.4962
-
-{0.4963 [0.4964
-
-[27
-
-{0.4965 [0.4966 [0.4967
-
-[0.4968 [0.4969 [0.4970 [0.4971 [0.4972
-
-[0.4973 [0.4974
-
-[ 2.8
-
-[0.4974 [0.4975 |0.4976
-
-[0.4977 [0.4977 [0.4978 [0.4979 [0.4979
-
-{0.4980 |0.4981
-
-| 29
-
-[o.4981 [0.4982 [0.4982
-
-[0.4983 [0.4984 [o.4oga [0.4985 [0.4985
-
-|0.4986 [0.4986
-
-| 3.0
-
-[0.4987 [0.4987 [0.4987
-
-[0.4988 [0.4988 |0.4989 [0.4989 | 0.4989
-
-[0.4990 [0.4990
---- page 6 ---
-Degrees of
-jreedom
-
-120
-150
-200
-300
-400
-
-600
-
-Two-tailed test:
-One-tailed test:
-
-t Distribution: Critical Values of t
-
-Significance level
-
-10% 5% 2%
-5% 2.5% 1%
-
-6.314 12.706 31.821
-2.920 4.303 6.965
-2.353 3.182 4.541
-2.132 2.7716 3.747
-2.015 2.571 3.365
-
-1.943 2.447 3.143
-1.894 2.365 2.998
-1.860 2.306 2.896
-1.833 2.262 2.821
-1.812 2.228 2.764
-
-1.796 2.201 2.718
-1.782 2179 2.681
-1.771 2.160 2.650
-1.761 2.145 2.624
-1.753 2.131 2.602
-
-1.746 2.120 2.583
-1.740 2.110 2.567
-1.734 2.101 2.552
-1.729 2.093 2.539
-1.725 2.086 2.528
-
-1.721 2.080 2.518
-1.717 2.074 2.508
-1.714 2.069 2.500
-1.711 2.064 2.492
-1.708 2.060 2.485
-
-1.706 2.056 2.479
-1.703 2.052 2.473
-1.701 2.048 2.467
-1.699 2.045 2.462
-1.697 2.042 2.457
-
-1.694 2.037 2.449
-1.691 2.032 2.441
-1.688 2.028 2.434
-1.686 2.024 2.429
-1.684 2.021 2.423
-
-1.682 2.018 2418
-1.680 2.015 2.414
-1.679 ° 2.013 2.410
-1.677 2.011 2.407
-1.676 2.009 2.403
-
-1.671 2.000 2.390
-1.667 1.994 2.381
-1.664 1.990 2.374
-1,662 1.987 2.368
-1.660 1.984 2.364
-
-1.658 1.980 2.358
-1.655 1.976 2.351
-1.653 1.972 2.345
-1.650 1.968 2.339
-1.649 1.966 2.336
-
-1.648 1.965 2.334
-1.647 1.964 2.333
-
-1.645 1.960 2.326
-
-Ba
-
-1%
-0.5%
-
-63.657
-9.925
-5.841
-4.604
-4.032
-
-3.707
-3.499
-3.355
-3.250
-3.169
-
-3.106
-3.055
-3.012
-2.977
-2.947
-
-2.921
-2.898
-2.878
-2.861
-2.845
-
-2.831
-2.819
-2.807
-2.797
-2.787
-
-2.779
-2.771
-2.763
-2.756
-2.750
-
-2.738
-2.728
-2.719
-2.712
-2.704
-
-2.698
-2.692
-2.687
-2.682
-2.678
-
-2.660
-2.648
-2.639
-2.632
-2.626
-
-2.617
-2.609
-2.601
-2.592
-2.588
-
-2.586
-2.584
-
-2.576
-
-0.2%
-0.1%
-
-318.309
-22.327
-10.215
-
-TAT3
-5.893
-
-5.208
-4.785
-4.501
-4.297
-4.144
-
-4.025
-3.930
-3.852
-3.787
-3.733
-
-3.686
-
-3.610
-3.579
-3.552.
-
-3.527
-3.505
-3.485
-3.467
-3.450
-
-3.435
-3.421
-3.408
-3.396
-3.385
-
-3.365
-3.348
-3.333
-3.319
-3.307
-
-3.296
-3.286
-3.277
-3.269
-3.261
-
-3.232
-3.211
-3.195
-3.183
-3.174
-
-3.160
-3.145
-3.131
-3.118
-3.11)
-
-3.107
-3.104
-
-3.090
-
-0.1%
-0.05%
-
-636.619
-31.599
-12.924
-
-8.610
-6.869
-
-5.959
-5.408
-5.041
-4.781
-4.587
-
-4.437
-4.318
-4.221
-4.140
-4.073
-
-4.015
-3.965
-3.922
-3.883
-3.850
-
-3.819
-3.792
-3.768
-3.745
-3.725
-
-3.707
-3.690
-3.674
-3.659
-3.646
-
-3.622
-3.601
-3.582
-3.566
-3.551
-
-3.538
-3.526
-3.515
-3.505
-3.496
-
-3.460
-3.435
-3.416
-3.402
-3.390
-
-3373:
-bY
-3.340
-3.323
-3.315
-
-3.310
-3.307
-
-3.291
-
-ak
-
-x
---- page 7 ---
-df.d
-
-11
-12
-13
-14
-15
-
-16
-17
-18
-19
-20
-
-21
-22
-23
-24
-25
-
-26
-27
-28
-29
-30
-
-0.995
-0.0000
-0.0100
-0.0717
-0.2070
-0.4117
-
-0.6757
-0.9893
-1.3444
-1.7349
-2.1559
-
-2.6032
-3.0738
-3.5650
-4.0747
-4.6009
-
-5.1422
-5.6972
-6.2648
-6.8440
-7.4338
-
-8.0337
-8.6427
-9.2604
-
-9.8862
-10.5197
-
-11.1602
-11.8076
-12.4613
-13.1211
-13.7867
-
-0.99
-0.0002
-0.0201
-0.1148
-0.2971
-0.5543
-
-0.8721
-1.2390
-1.6465
-2.0879
-2.5582
-
-3.0535
-3.5706
-4.1069
-4.6604
-5.2293
-
-5.8122
-6.4078
-7.0149
-7.6327
-8.2604
-
-8.8972
-9.5425
-10.1957
-10.8564
-11.5240
-
-12.1981
-12.8785
-13.5647
-14.2565
-14.9535
-
-Table of Chi-Square (7) Distribution
-
-0.975
-0.0010
-0.0506
-0.2158
-0.4844
-0.8312
-
-1.2373
-1.6899
-2.1797
-2.7004
-3.2470
-
-3.8157
-4.4038
-5.0088
-5.6287
-6.2621
-
-6.9077
-7.5642
-8.2307
-8.9065
-9.5908
-
-10.2829
-10.9823
-11.6886
-12.4012
-13.1197
-
-13.8439
-14.5734
-15.3079
-16.0471
-16.7908
-
-© Level of significance (a) >
-
-0.95
-0.0039
-0.1026
-0.3518
-0.7107
-1.1455
-
-1.6354
-2.1673
-2.7326
-3.3251
-3.9403
-
-4.5748
-5.2260
-5.8919
-6.5706
-7.2609
-
-7.9616
-8.6718
-
-9.3905
-
-10.1170
-10.8508
-
-11.5913
-12.3380
-13.0905
-13.8484
-14.6114
-
-15.3792
-16.1514
-16.9279
-17.7084
-18.4927
-
-0.90
-0.0158
-0.2107
-0.5844
-1.0636
-1.6103
-
-2.2041
-2.8331
-3.4895
-4.1682
-4.8652
-
-5.5778
-6.3038
-7.0415
-7.7895
-8.5468
-
-9.3122
-10.0852
-10.8649
-11.6509
-12.4426
-
-13.2396
-14.0415
-14.8480
-15.6587
-16.4734
-
-17.2919
-18.1139
-18.9392
-19.7677
-20.5992
-
-0.10
-2.7055
-4.6052
-6.2514
-7.7794
-9.2364
-
-10.6446
-12.0170
-13.3616
-14.6837
-15.9872
-
-17.2750
-18.5493
-19.8119
-21.0641
-22.3071
-
-23.5418
-24.7690
-25.9894
-27.2036
-28.4120
-
-29.6151
-30.8133
-32.0069
-33.1962
-34.3816
-
-35.5632
-36.7412
-37.9159
-39.0875
-40.2560
-
-0.05
-3.8415
-5.9915
-7.8147
-9.4877
-
-11.0705
-
-12.5916
-14.0671
-15.5073
-16.9190
-18.3070
-
-19.6751
-21.0261
-22.3620
-23.6848
-24.9958
-
-26.2962
-27.5871
-28.8693
-30.1435
-31.4104
-
-32.6706
-33.9244
-35.1725
-36.4150
-37.6525
-
-38.8851
-40.1133
-41.3371
-42.5570
-43.7730
-
-0.025
-5.0239
-7.3778
-9.3484
-
-11.1433
-12.8325
-
-14.4494
-16.0128
-17.5345
-19.0228
-20.4832
-
-21.9200
-23.3367
-24.7356
-26.1189
-27.4884
-
-28.8454
-30.1910
-31.5264
-32.8523
-34.1696
-
-35.4789
-36.7807
-38.0756
-39.3641
-40.6465
-
-41.9232
-43.1945
-44.4608
-45.7223
-46.9792
-
-0.01
-6.6349
-9.2103
-
-11.3449
-13.2767
-15.0863
-
-16.8119
-18.4753
-20.0902
-21.6660
-23.2093
-
-24.7250
-26.2170
-27.6882
-29.1412
-30.5779
-
-31.9999
-33.4087
-34.8053
-36.1909
-37.5662
-
-38.9322
-40.2894
-41.6384
-42.9798
-44.3141
-
-45.6417
-46.9629
-48.2782
-49.5879
-50.8922
-
-0.005
-7.8794
-10.5966
-12.8382
-14.8603
-16.7496
-
-18.5476
-20.2777
-21.9550
-23.5894
-25.1882
-
-26.7568
-28.2995
-29.8195
-31.3193
-32.8013
-
-34.2672
-35.7185
-37.1565
-38.5823
-39.9968
-
-41.4011
-42.7957
-44.1813
-45.5585
-46.9279
-
-48.2899
-49.6449
-50.9934
-52.3356
-53.6720
---- page 8 ---
-11
-12
-13
-14
-15
-
-16
-17
-18
-19
-20
-
-21
-22
-23
-24
-25
-
-30
-40
-60
-120
-
-1
-
-161.4476
-18.5128
-10.1280
-7.7086
-6.6079
-
-5.9874
-5.5914
-5.3177
-5.1174
-4.9646
-
-4.8443
-4.7472
-4.6672
-4.6001
-4.5431
-
-4.4940
-4.4513
-4.4139
-4.3807
-4.3512
-
-4.3248
-4.3009
-4.2793
-4.2597
-4.2417
-
-4.1709
-4.0847
-4.0012
-3.9201
-3.8446
-
-Table of 'F' Distribution. (Value of F 995)
-
-5% area
-
-«© Degrees of Freedom for the Numerator >
-2 3 4 5 6 7 8 9
-199.5000 215.7073 224.5832 230.1619 233.9860 236.7684 238.8827 240.5433
-19.0000 19.1643 19.2468 19.2964 19.3295 19.3532 19.3710 19.3848
-9.5521 9.2766 9.1172 9.0135 8.9406 8.8867 8.8452 8.8123
-6.9443 6.5914 6.3882 6.2561 6.1631 6.0942 6.0410 5.9988
-5.7861 5.4095 5.1922 5.0503 4.9503 4.8759 4.8183 4.7725
-
-5.1433 4.7571 4.5337 4.3874 4.2839 4.2067 4.1468 4.0990
-4.7374 4.3468 4.1203 3.9715 3.8660 3.7870 3.7257 3.6767
-4.4590 4.0662 3.8379 3.6875 3.5806 3.5005 3.4381 3.3881
-4.2565 3.8625 3.6331 3.4817 3.3738 3.2927 3.2296 3.1789
-4.1028 3.7083 3.4780 3.3258 3.2172 3.1355 3.0717 3.0204
-
-3.9823 3.5874 3.3567 3.2039 3.0946 3.0123 2.9480 2.8962
-3.8853 3.4903 3.2592 3.1059 2.9961 2.9134 2.8486 2.7964
-3.8056 3.4105 3.1791 3.0254 2.9153 2.8321 2.7669 2.7144
-3.7389 3.3439 3.1122 2.9582 2.8477 2.7642 2.6987 2.6458
-3.6823 3.2874 3.0556 2.9013 2.7905 2.7066 2.6408 2.5876
-
-3.6337 3.2389 3.0069 2.8524 2.7413 2.6572 2.5911 2.5377
-3.5915 3.1968 2.9647 2.8100 2.6987 2.6143 2.5480 2.4943
-3.5546 3.1599 2.9277 2.7729 2.6613 2.5767 2.5102 2.4563
-3.5219 3.1274 2.8951 2.7401 2.6283 2.5435 2.4768 2.4227
-3.4928 3.0984 2.8661 2.7109 2.5990 2.5140 2.4471 2.3928
-
-3.4668 3.0725 2.8401 2.6848 2.5727 2.4876 2.4205 2.3660
-3.4434 3.0491 2.8167 2.6613 2.5491 2.4638 2.3965 2.3419
-3.4221 3.0280 2.7955 2.6400 2.5277 2.4422 2.3748 2.3201
-3.4028 3.0088 2.7763 2.6207 2.5082 2.4226 2.3551 2.3002
-3.3852 2.9912 2.7587 2.6030 2.4904 2.4047 2.3371 2.2821
-
-3.3158 2.9223 2.6896 2.5336 2.4205 2.3343 2.2662 2.2107
-3.2317 2.8387 2.6060 2.4495 2.3359 2.2490 2.1802 2.1240
-3.1504 2.7581 2.5252 2.3683 2.2541 2.1665 2.0970 2.0401
-3.0718 2.6802 2.4472 2.2899 2.1750 2.0868 2.0164 1.9588
-2.9987 2.6079 2.3749 2.2171 2.1016 2.0126 1.9415 1.8830
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper 0eaf2919f5fc
@@ -29868,6 +30340,7 @@ Page 7 of 7
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/PROBABILITY & STATISTICS/PROBABILITY AND STATISTICS 2019-20 FINAL EXAM 2019-20.pdf`
 - Printed on paper: exam date: 08 November 2019
 - Text: ocr (7 pages), mean OCR confidence 86.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 &
@@ -30075,7 +30548,6 @@ Percentile Values X; for the
 Chi-Square Distribution
 withv Degrees of Freedom
 
-vy | Xb | Xo | Xtos | Xs | Xio | xXbs | xXdo | X35 | Xoo | Xs | Xs | Xoo | Xs | Xb00
 
 1 -0000 | .0002 | .0010 | .0039 | .0158 | .102 455 1.32 | 2.71 3.84 | 5.02 | 6.63 7.88 10.8
 2 0100 | .0201 | .0506 | .103 211 575 1.39 | 2.77 | 4.61 5.99 | 7.38 9.21 10.6 | 13.8
@@ -30663,490 +31135,4 @@ D) Calculate the odds ratio and 95% confidence interval for psa from model 1. (9
 4fy
 
 oa
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper efbe362ffa46
-
-- Departments: Information Technology, Mechanical
-- Programmes: MBA TECH / I T, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/PROBABILITY AND STATISTICS/Probability and Statistics.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (10 pages), mean OCR confidence 83.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-Program: B Tech/ MBA Tech/B.Tech Integrated Year: II/IV Semester: IV/VIII
-Stream : B. Tech (IT, CSE-Cyber Security, EXTC, Mechatronics,
-Civil, Mechanical), MBA Tech (IT, Mechanical) , B.Tech Integrated
-
-(Civil)
-
-Subject: Probability and Statistics Time: 3 hrs. (40am tod pm )
-Date: 24 Jo4]20 23 No. of Pages: 9
-
-Marks: 100
-
-Final Examination } Re- Exam nation .
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1. Questions 1 is compulsory.
-
-2. Solve any four out of remaining six questions
-
-3. In all, 5 questions to be attempted
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume Suitable data if necessary.
-
-8. Use of scientific calculator is allowed.
-
-Answer the following: Marks
-
-CO1/SO1/BL1 | Q.1a. | A discrete random variable has the following probability distribution:
-x -2 -l 0 1 2, 3
-P(X=x) |O1 [k 0.2 2k 03 3k
-Find k and P( -2 <X <2).
-CO1/SO1/BL2 b. The joint probability distribution of X and Y is given by
-P(X =x,Y =y) = 3 x =12;y =1,2. [4]
-
-24.
-Estimate marginal probability distributions of X and Y.
-
-CO1/SO1/BL1 c. Identify the type of correlation in each of the following cases:
-1
-
-[4]
-
-(i) byx i Fr bey =-3 [4]
-(ii) r=0
-Gii) r=0.5
-
-CO1/SO1/BL1 d. A bag contains 4 Green balls, 2 Red and 5 Blue balls. A ball is drawn
-at random from the bag. State the probability that the ball drawn is
-(i) blue (ii) not green [4]
-
-1/9
---- page 2 ---
-CO1/SO1/BL1 e. A random sample of 50 items gives the mean 6.2 and standard
-deviation 10.24. State whether it can be regarded as sample drawn [4]
-from a normal population with mean 5.4 at 5% level of significance.
-
-CO1/SO1/BL2 | Q.2a. | A salesman in a departmental stores claims that 60 percent of the
-shoppers entering the store leaves without making purchase. A
-random sample of 50 shopper showed that 35 of them left without [6]
-making a purchase. Compare the sample results with the claim of the
-salesman at 5% LOS.
-
-CO2/SO1/BL1 b. Suppose that the joint probability density function of X and Y is
-tu (%y)= sve” if x €[0,00)& y €[3,5]
-
-; [6]
-=0 otherwise
-Find conditional density of X.
-CO3/SO1/BL3 @ The iength of time (in minutes) a lady speaks on telephone is found to
-be a random variable with probability density function
-f(x) = Ae* when x>0
-[8]
-
-= 0 elsewhere
-
-Calculate A, mean and variance.
-
-CO3/SO1/BL3 | Q.3 a. | Ina roll of a fair die, let A be the event that the outcome is an odd
-number, Also, let B be the event that the outcome is less than or equal
-to 3. Calculate P(A). Also, determine the probability of event A given [6]
-that B has occurred.
-
-CO2/SO2/BL2 b. Intelligence tests were given to two groups of boys and girls of the
-same age group chosen from the same college and the following
-results were obtained.
-
-Size Mean SD
-Boys 100 73 10 [6]
-
-Girls 60 75 8
-
-Examine whether the difference between the means is significant or
-not at 5% level of significance.
-
-CO3/SO1/BL3 c. Suppose X is a discrete random variable and has a probability mass
-function as follows:
-x -2 3 1
-PCX=x) | 13 1/2 1/6
-
-[8]
-Determine the moment generating function and hence find mean,
-variance and third central moment.
-
-2/9
---- page 3 ---
-CO2/SO1/BL1 | Q.4a. | The probability of a man hitting the target is 1/4.
-(i) If he fires 7 times compute the probability of his hitting the
-target at least once. [6]
-(ii) Estimate no. of fire so that probability of his hitting the
-
-target at least once is greater than 2/3?
-
-CO04/SO2/BL5 b. Ten items of a sample had the following values
-63, 63, 64, 65, 66, 69, 69, 70, 70, 71. [6]
-Test whether the mean of 10 items differ significantly from the
-assumed population mean 65 at 5% level of significance.
-
-CO4/SO1/BL3 Gs The following are the marks obtain by 10 students in two papers. Use
-, least square method to find lines of regression.
-PaperI | 80 | 45 |55 |56|58 |65 |68 |70 |75 | 86 | [8]
-Paper II | 82 | 56 |50 |48|60 |64 |65 |70 | 74 | 90
-
-CO1/SO1/BL2 | Q.5a. | A researcher wants to test whether the variance of the weight of bags
-of rice produced by two different factories is the same or not. She
-takes a random sample of 21 bags of rice from each factory and finds
-that the variance of the weight of bags from Factory A is 36 and the [6]
-variance of the weight of bags from Factory B is 25. Use an F-test
-with 5% level of significance to demonstrate whether the variances of
-the weight of bags produced by the two factories are equal.
-
-CO2/SO02/BL4 b. Samples of two types of electric bulbs were tested for length of life
-and the following data were obtained
-
-Typel Type II
-Sample Size 8 7
-Sample Mean 1234 hrs 1036 hrs [6]
-Sample standard 36 hrs 40 hrs
-
-deviation
-Analyze the difference in the means sufficient to warrant that type I is
-superior to type II regarding length of life using level of significance
-5%.
-
-CO2/SO1/BL2 on In anormal distribution 7% of items are under 35 and 89% are under
-
-8
-63. Compute mean and standard deviation of items. i)
-
-CO3/SO1/BL3 | Q.6a. | A person has two bags. Bag A has 7 red and 2 blue balls and bag B
-has 5 red and 9 blue balls. A ball is drawn at random and it turns out [6]
-
-to be red. Determine the probability that the ball was from the bag A.
-
-CO4/SO2/BL5 b. Evaluate Karl Pearson’s correlation coefficient from the following
-values of demand and the corresponding price of commodity:
-Demandin | 65 | 66 | 67 67 68 69 70 72 [6]
-quintals
-PriceinRs. | 67] 68 |65 | 68 72 72 69 71
-Per kg
-
-3/9
---- page 4 ---
-CO4/SO2/BL2 G A chef wants to compare the cooking time for three different types of
-pasta (A, B, C). She randomly selects 5 samples of each type and
-records the cooking times (in minutes) for each sample. The data are
-
-as follows:
-Pasta A: 10, 12, 11, 9, 11
-Pasta B: 8, 9, 7, 10, 8 [8]
-
-Pasta C: 13, 14, 12, 11, 13
-
-Illustrate whether there is any significant difference in the means of
-the cooking times for all three types of pasta using level of
-significance as 0.05.
-
-CO3/SO1/BL1 | Q.7 a. | If the two lines of regression are 4x — 5y + 30 = Oand
-20x — 9y — 107 = 0, identify regression line of x on y and y on x. [6]
-
-Justify. Also state sample mean ¥ and ¥.
-
-CO1/SO1/BL1 b. Assuming that the typing mistakes per page committed by a typist
-follows a Poisson distribution. List expected frequencies for the
-
-following distribution of typing mistakes by using Poisson
-distribution.
-
-No. of 0 1 ) 3 4 5 [6]
-mistakes
-
-per page
-
-Number | 40 30 20 15 10 BS)
-
-of pages
-
-C04/SO2/BL5 ce A survey was conducted to study the relationship between the gender
-of students (male/female) and their preference for a particular subject
-(mathematics/science/languages). The results are shown in the table
-below. Evaluate whether the hypothesis that there is no association
-between the gender of students and their subject preference is
-supported by the data provided in the survey using a significance level
-
-of 5%.
-[8]
-Mathematics | Science Languages | Total
-Male 20 15 25 60
-Female | 25 20 10 55
-Total 45 35 35 115
-
-4/9
---- page 5 ---
-Table of Standard Normal Distribution
-
-0 2
-
-z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
-0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
-0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
-0.3 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-0.4 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
-0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 - 0.2157 0.2190 0.2224
-
-0.6 0.2257 0.2291 0.2324 + 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
-0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
-1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
-
-1.1 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
-1.3 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162 0.4177
-1.4 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
-1.5 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
-
-1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 .0.4535 0.4545
-1.7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
-1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
-1.9 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
-2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
-
-2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
-2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
-2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
-2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-2.5 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
-
-2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
-2.7 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
-2.8 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
-2.9 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
-3.0 0.4987 _0.4987__0.4987 0.4988 —0.4988 ~— 0.4989 ~—0.4989 0.4989 0.4990 __—0.4990
-
-Note:
-
-Middle 50% area = + 0.6745 For any Normal Variate (with Mean = y and Std. Deviation = o):
-Middle 90% area = + 1.6449. y+ 10 = 0.6827
-
-Middle 95% area = + 1.9600 H+ 20 = 0.9545
-
-Middle 99% area = + 2.5758 y + 30 = 0.9973
-
-5/9
---- page 6 ---
-Distribution: Critical Values of t
-
-Significance level
-
-Degreesof — Two-tailed test: 10% 5% 2% 1% 0.2% 0.1%
-jreedom One-tailed test: 5% 2.5% 1% 0.5% 0.1% 0.05%
-1 6.314 12,706 31.821 63.657 318.309 636.619
-2 2.920 4,303 6.965 9.925 22.327 31.599
-s 2.353 3,182 4.541 5.841 10.215 12,924
-4 2.132 2.776 3.747 4.604 TAT3 8.610
-Ss 2.015 2.571 3.365 4.032 5.893 6.869
-6 1.943 2.447 3.143 3.707 5.208 5.959
-7 1.894 2.365 2.998 3.499 4.785 5.408
-
-8 1.860 2.306 2.896 3.359 4.501 5.041
-9 1.833 2.262 2.821 3.250 4,297 4.781
-10 1.812 2.228 2.764 3.169 4.144 4.587
-li 1.796 2.201 2.718 3.106 4.025 4.437
-12 1,782 2.179 2.681 3.055 3.930 4.318
-3 a 1.771 2.160 2.650 3.012 3.852 4,221
-14 1.761 2.145 2.624 2.977 3.787 4,140
-15 1753-2131 «2.602 2.947 3.733 4.073
-16 1.746 2120 . 2.583 2.921 3.686 4.015
-17 1,740 2.110 2.567 2.898 3.646 3.965
-18 1.734 2101 2.552 2.878 3.610 3,922
-19 1.729 2.093 2,539 2.861 3.579 3.883
-20 1725 2.086 2.528 2.845 3.552 3.850
-21 1.721 2.080 2.518 2.831 3.527 3,819
-22 L717 2.074 2.508 2.819 3.505 3.792
-23 1.714 2.069 2.500 2.807 3.485 3.768
-24 1-711 2.064 2.492 27197 3.467 3.745
-25 1.708 2.060 2485 2.787 3.450 3.725
-26 1.706 2.056 2.479 2.779 3.435 3.707
-27 1.703 2.052 2.473 ° 2.771 3.421 3,690
-28 : 1.701 2.048 2.467 2.763 3.408 3.674
-29 1.699 2.045 2.462 2.756 3.396 3.659
-30 1.697 2.042 2.457 2.750 3.385 3.646
-32 1.694 2.037- 2.449 2.738 3.365 3.622
-34 1.691 2.032 2.441 2.728 3.348 3.601
-36 1.688 2.028 2.434 2.9 3.333 3.582
-38 1.686 2.024 2.429 2.712 Sa19 3.566
-40 1.684 2.021 2.423 2.704 3.307 3.551
-42 1.682 2.018 2418 2.698 3.296 3.538
-44 1.680 2.015 2.414 2.692 3.286 3.526
-46 1.679 2.013 2.410 2.687 3277 3.515
-48 1.677 2.011 2.407 2.682 3.269 3.505
-50 : 1.676 2,009 2.403 2.678 3.261 3.496
-60 1.671 2.000 2.390 2.660 3.232 3.460
-7 1.667 1,994 2.381 2.648 3.211 3.435
-80 1.664 1.990 2.374 2.639 3.195 3.416
-90 1.662 1.987 2.368 2.632 3.183 3.402
-100 1.660 1.984 2.364 2.626 3.174 3.390
-120 1.658 1.980 2.358 2.617 3.160 3373
-150 1.655 1,976 2.351 2.609 3.145 3.357
-200 1.653 1.972 2.345 2.601 3.131 3.340
-300 1.650 1,968 2.339 2.592 3.118 33323
-406 1.649 1,966 2.336 2.588 cB Bf 3.315
-509 1.648 1,965 2.334 2.586 3.107 3.310
-600 1.647 1,964 2,333 2.584 3.104 3.307
-oO 1.645 1.960 2.326 2.576 3.090 3251
-
-he
-
-6/9
---- page 7 ---
-Table of 'F' Distribution. (Value of F 9.95)
-
-5% area
-A
-
-< Degrees of Freedom for the Numerator >
-1 2 3 4 5 6 7 8 9
-14 161.4476 199.5000 215.7073 224.5832 230.1619 233.9860 236.7684 238.8827 240.5433
-2 18.5128 19.0000 19.1643 19.2468 19.2964 19.3295 19.3532 19.3710 19.3848
-3 10.1280 9.5521 9.2766 9.1172 9.0135 8.9406 8.8867 8.8452 8.8123
-4 7.7086 6.9443 6.5914 6.3882 6.2561 6.1631 6.0942 6.0410 5.9988
-5 6.6079 5.7861 5.4095 5.1922 5.0503 4.9503 4.8759 4.8183 4.7725
-
-6 5.9874 5.1433 4.7571 4.5337 4.3874 4.2839 4.2067 4.1468 4.0990
-% 5.5914 4.7374 4.3468 4.1203 3.9715 3.8660 3.7870 3.7257 3.6767
-8 5.3177 4.4590 4.0662 3.8379 3.6875 3.5806 3.5005 3.4381 3.3881
-9 5.1174 4.2565 3.8625 3.6331 3.4817 3.3738 3.2927 3.2296 3.1789
-10 4.9646 4.1028 3.7083 3.4780 3.3258 3.2172 3.1355 3.0717 3.0204
-
-11 4.8443 3.9823 3.5874 3.3567 3.2039 3.0946 3.0123 2.9480 2.8962
-12 4.7472 3.8853 3.4903 3.2592 3.1059 2.9961 2.9134 2.8486 2.7964
-13. 4.6672 3.8056 3.4105 3.1791 3.0254 2.9153 2.8321 2.7669 2.7144
-14 4.6001 3.7389 3.3439 3.1122 2.9582 2.8477 2.7642 2.6987 2.6458
-15 4.5431 3.6823 3.2874 3.0556 2.9013 2.7905 2.7066 2.6408 2.5876
-
-16 4.4940 3.6337 3.2389 3.0069 2.8524 2.7413 2.6572 2.5911 2.5377
-17. 4.4513 3.5915 3.1968 2.9647 2.8100 2.6987 2.6143 2.5480 2.4943
-18 4.4139 3.5546 3.1599 2.9277 2.7729 2.6613 2.5767 2.5102 2.4563
-19 4.3807 3.5219 3.1274 2.8951 2.7401 2.6283 2.5435 2.4768 2.4227
-20 4.3512 3.4928 3.0984 2.8661 2.7109 2.5990 2.5140 2.4471 2.3928
-
-24 4.3248 3.4668 3.0725 2.8401 2.6848 2.5727 2.4876 2.4205 2.3660
-22 4.3009 3.4434 3.0491 2.8167 2.6613 2.5491 2.4638 2.3965 2.3419
-23° 4.2793 3.4221 3.0280 2.7955 2.6400 2.5277 2.4422 2.3748 2.3201
-24 4.2597 3.4028 3.0088 2.7763 2.6207 2.5082 2.4226 2.3551 2.3002
-25 4.2417 3.3852 2.9912 2.7587 2.6030 2.4904 2.4047 2.3371 2.2821
-
-30 4.1709 3.3158 2.9223 2.6896 2.5336 2.4205 2.3343 2.2662 2.2107
-40 4.0847 3.2317 2.8387 2.6060 2.4495 2.3359 2.2490 2.1802 2.1240
-60 4.0012 3.1504 2.7581 2.5252 2.3683 2.2541 2.1665 2.0970 2.0401
-120 3.9201 3.0718 2.6802 2.4472 2.2899 2.1750 2.0868 2.0164 1.9588
-®0 3.8446 2.9987 2.6079 2.3749 2.2171 2.1016 2.0126 1.9415 1.8830
-
-#/9
---- page 8 ---
-... Table of 'F' Distribution. (Value of F 9.05)
-
-Nee
-< Degrees of Freedom for the Numerator >
-
-10 12 15 20 25 30 40 60 120
-1 241.8817 243.9060 245.9499 248.0131 249.2601 250.0951 251.1432 252.1957 253.2529
-2 19.3959 19.4125 19.4291 19.4458 19.4558 19.4624 19.4707 19.4791 19.4874
-3 8.7855 8.7446 8.7029 8.6602 8.6341 8.6166 8.5944 8.5720 8.5494
-4 5.9644 5.9117 5.8578 5.8025 5.7687 5.7459 5.7170 5.6877 5.6581
-5 4.7351 4.6777 4.6188 4.5581 4.5209 4.4957 4.4638 4.4314 4.3985
-
-6 4.0600 3.9999 3.9381 3.8742 3.8348 3.8082 3.7743 3.7398 3.7047
-7 3.6365 3.5747 3.5107 3.4445 3.4036 3.3758 3.3404 3.3043 3.2674
-8 3.3472 3.2839 3.2184 3.1503 3.1081 3.0794 3.0428 3.0053 2.9669
-tT 9 3.1373 3.0729 3.0061 2.9365 2.8932 2.8637 2.8259 2.7872 2.7475
-& 10 2.9782 2.9130 2.8450 2.7740 2.7298 2.6996 2.6609 2.6211 2.5801
-
-E 11 2.8536 2.7876 2.7186 2.6464 2.6014 2.5705 2.5309 2.4901 2.4480
-§ 12 2.7534 2.6866 2.6169 2.5436 2.4977 2.4663 2.4259 2.3842 2.3410
-QO 13 2.6710 2.6037 2.5331 2.4589 2.4123 2.3803 2.3392 2.2966 2.2524
-2 14 2.6022 2.5342 2.4630 2.3879 2.3407 2.3082 2.2664 2.2229 2.1778
-6 15 2.5437 2.4753 2.4034 2.3275 2.2797 2.2468 2.2043 2.1601 2.1141
-
-8 16 2.4935 2.4247 2.3522 2.2756 212272 2.1938 2.1507 2.1058 2.0589
-o 17 2.4499 2.3807 2.3077 2.2304 2.1815 2.1477 2.1040 2.0584 2.0107
-uw 18 = 2.4117 2.3421 2.2686 2.1906 2.1413 2.1071 2.0629 2.0166 1.9681
-o 19 2.3779 2.3080 2.2341 2.1555 2.1057 2.0712 2.0264 1.9795 1.9302
-@ 20 2.3479 2.2776 2.2033 2.1242 2.0739 2.0391 1.9938 1.9464 1.8963
-
-a 21 2.3210 2.2504 2.1757 2.0960 2.0454 2.0102 1.9645 1.9165 1.8657
-4 22 2.2967 2.2258 2.1508 2.0707 2.0196 1.9842 1.9380 1.8894 1.8380
-23 2.2747 2.2036 2.1282 2.0476 1.9963 1.9605 1.9139 1.8648 1.8128
-24 2.2547 2.1834 2.1077 2.0267 1.9750 1.9390 1.8920 1.8424 1.7896
-25 = 2.2365 2.1649 2.0889 2.0075 1.9554 1.9192 1.8718 1.8217 1.7684
-
-30 =. 2.1646 2.0921 2.0148 1.9317 1.8782 1.8409 1.7918 1.7396 1.6835
-40 2.0772 2.0035 1.9245 1.8389 1.7835 1.7444 1.6928 1.6373 1.5766
-60 1.9926 1.9174 1.8364 1.7480 1.6902 1.6491 1.5943 1.5343 1.4673
-120 1.9105 1.8337 1.7505 1.6587 1.5980 1.5543 1.4952 1.4290 1.3519
-0 1.8339 1.7554 1.6697 1.5740 1.5098 1.4629 1.3981 1.3227 1.2272
-
-8/3
---- page 9 ---
-Table of Chi-Square (x?) Distribution
-
-© Level of significance (a) >
-df.4 0.995 0.99 0.975 0.95 0.90 0.10 0.05 0.025 0.01 0.005
-1 0.0000 0.0002 0.0010 0.0039 0.0158 2.7055 3.8415 5.0239 6.6349 7.8794
-2 0.0100 0.0201 0.0506 0.1026 0.2107 4.6052 5.9915 7.3778 9.2103 10.5966
-3 0.0717 0.1148 0.2158 0.3518 0.5844 6.2514 7.8147 9.3484 11.3449 12.8382
-4 0.2070 0.2971 0.4844 0.7107 1.0636 7.7794 9.4877 11.1433 13.2767 14.8603
-5 0.4117 0.5543 0.8312 1.1455 1.6103 9.2364 11.0705 12.8325 15.0863 16.7496
-
-6 0.6757 0.8721 = 1.2373 1.6354 92.2041 10.6446 12.5916 14.4494 16.8119 18.5476
-7 0.9893 1.2390 1.6899 2.1673 2.8331 12.0170 14.0671 16.0128 18.4753 20.2777
-8 1.3444 16465 2.1797 2.7326 3.4895 13.3616 15.5073 17.5345 20.0902 21.9550
-9 1.7349 2.0879 2.7004 3.3251 4.1682 14.6837 16.9190 19.0228 21.6660 23.5894
-10 2.1559 . 2.5582 3.2470 3.9403 4.8652 15.9872 18.3070 20.4832 23.2093 25.1882
-
-41 °2.6032 3.0535 3.8157 4.5748 5.5778 17.2750 19.6751 21.9200 24.7250 26.7568
-12 3.0738 3.5706 4.4038 5.2260 6.3038 18.5493 21.0261 23.3367 26.2170 28.2995
-13. 3.5650 4.1069 5.0088 5.8919 7.0415 19.8119 22.3620 24.7356 27.6882 29.8195
-14 4.0747 4.6604 5.6287 6.5706 7.7895 21.0641 23.6848 26.1189 29.1412 31.3193
-15 4.6009 5.2293 6.2621 7.2609 8.5468 22.3071 24.9958 27.4884 30.5779 32.8013
-
-16 5.1422 5.8122 6.9077 7.9616 9.3122 23.5418 26.2962 28.8454 31.9999 34.2672
-17 5.6972 6.4078 7.5642 8.6718 10.0852 24.7690 27.5871 30.1910 33.4087 35.7185
-18 6.2648 7.0149 82307 9.3905 10.8649 25.9894 28.8693 31.5264 34.8053 37.1565
-19 6.8440 7.6327 89065 10.1170 11.6509 27.2036 30.1435 32.8523 36.1909 38.5823
-20 7.4338 8.2604 9.5908 10.8508 12.4426 28.4120 31.4104 34.1696 37.5662 39.9968
-
-21 8.0337 8.8972 10.2829 11.5913 13.2396 29.6151 32.6706 35.4789 38.9322 41.4011
-22 8.6427 9.5425 10.9823 12.3380 14.0415 30.8133 33.9244 36.7807 40.2894 42.7957
-23 9.2604 10.1957 11.6886 13.0905 14.8480 32.0069 35.1725 38.0756 41.6384 44.1813
-24 9.8862 10.8564 12.4012 13.8484 15.6587 33.1962 36.4150 39.3641 42.9798 45.5585
-25 10.5197 11.5240 13.1197 14.6114 16.4734 34.3816 37.6525 40.6465 44.3141 46.9279
-
-26 11.1602 12.1981 13.8439 15.3792 17.2919 35.5632 38.8851 41.9232 45.6417 48.2899
-27 =11.8076 12.8785 14.5734 16.1514 18.1139 36.7412 40.1133 43.1945 46.9629 49.6449
-28 12.4613 13.5647 15.3079 16.9279 18.9392 37.9159 41.3371 44.4608 48.2782 50.9934
-29. 13.1211 14.2565 16.0471 17.7084 19.7677 39.0875 42.5570 45.7223 49.5879 52.3356
-30 13.7867 14.9535 16.7908 18.4927 20.5992 40.2560 43.7730 46.9792 50.8922 53.6720
-
-3/9
---- page 10 ---
-2 Phe iE faa’
-
-i ae a a
-
-as | =e =
 ````

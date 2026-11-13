@@ -400,6 +400,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Civil_7005/Fluid Mechanics and Hydraulics/ANS_Fluid Mechanics and Hydraulics(702CI0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Jun 2026
 - Text: mixed (9 pages), mean OCR confidence 80.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -613,7 +614,6 @@ Zp =h/2=0.39m
 (1 mark)
 
 Step 4: Metacentric height
-BM = 0.24 m, BG = 0.21m > GM = 0.03 m.
 (2 marks)
 
 Step 5: Comment on stability
@@ -735,7 +735,6 @@ tan(0/2) = 0.625,
 
 Substitute:
 8 ib
-Qi; = 0.59 x 5 x 0.625 x 4.43 x (0.4)5/?
 oO
 Qi; = 0.59 x 0.333 x 0.625 x 4.43 x 0.101
 Qui © 0.05 m3 /s

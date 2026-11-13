@@ -1,8 +1,159 @@
 # Computer Networking: question papers in full
 
-7 unique papers · 2008-09 to 2012-13 · Computer Applications (MCA), Computer Engineering
+7 unique papers · 2008-09 to 2013-14 · Computer Applications (MCA), Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2013-14 · Re-Exam · Trim 4 · paper f2dda17a1fb2
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM IV/COMPUTER NETWORKING/COMPUTER NETWORKS(RE EXAM)0001 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/12/2013
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS Xe
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Programme:MCA
+
+Year: II Trimester: IV
+Academic Year: 2013-14 Batch:2012-13
+Subject : Computer Networks
+Marks:100
+Date :11/12/2013
+
+Time : 2.00 pm to 5.00 pm
+
+Durations:3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefull
+
+y the instructions printed on the question
+paper and on the cover of the Answer book,
+
+which is provided for their use.
+N.B:
+
+(1) Question No.1 is compulsory.
+
+(2) Out of remaining question , Attempt any 4 questions.
+3) All question carry equal marks
+q ry eq
+
+(4) Assume suitable data if required.
+
+Q.1 a) Explain following with example:
+MAC address , IP address » Socket , Baud rate, Latency. .
+(b) Give the functionality of :
+Repeater, hubs , Bridges , Switches » router.
+Q.2 a) Explain DNS and SMTP
+(b) Explain different TCP Flags
+Q.3 a) How TCP controls congestion?
+b) Explain five functions of data-link layer
+Q.4 a) Explain different types of routing Algorithm
+
+b) Explain error detection Algorithm,
+--- page 2 ---
+Q.5 a) Explain Queuing Theory
+
+b) Explain Framing Flow And error control in data link layer
+Q.6 a) Explain the entire Functionality of e-mail system.
+
+b) Explain the various MAC layer protocols,
+
+Q.7) Write notes on the following.
+
+1) IPv4 2) DNS 3) HTTP
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper 9cfd9a18b729
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM IV/COMPUTER NETWORKING/scan0003(7).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/10/2012
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+SVKM’s NMIMS
+
+TEL StH, :
+Mukesh Patel School Of Technology Management & Engineering of ne a IN
+: iS; Ng
+Programme: MCA Year: II Trimester: IV SVKM's 2
+Academic Year : 2012-2013 od { NMIMs Univers \*
+Mumbai ~ Ye
+Lisra Ei
+Subject: COMPUTER NETWORK Marks: 100 4 a nr >
+Time: 2.00pm To it
+es Se Ye VW :
+Date: 30/10/2012 Duration: 3 hrs. MAN, nena 4
+
+Final - Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+
+NB:
+1. Attempt any five questions.
+2. All questions carry equal marks.
+3. Answer to each new question to be started on a fresh page.
+4. Make reasonable assumptions, if required.
+5. Figures in bracket on the right hand side indicate full marks.
+woes nn nnn n cen nnn nnn nnn nnn All the Best-------+----------------------------------------------------
+
+Q1A) What is layered architecture? List the advantages of layered architecture. Explain (10)
+
+TCP/IP model.
+
+Q1B) Compare and contrast between circuit switched networks and packet switched (10)
+networks.
+
+Q2A) Find following for the network address 170.16.0.0 / 25 (10)
+
+1. Number of subnets
+2. Number of host per subnet
+3. Subnet IDs
+
+} 4. Broadcast address for each subnet
+5. Usable IP address range
+Q2B) Explain Intserv architecture for providing QoS. (10)
+
+Q3A) What is CRC? What are the advantages and limitations of CRC? Calculate CRC —_ (10)
+for message 1101011011 and generator polynomial 10011
+Q3B) Explain Go back N and selective repeat ARQ. (10)
+
+QA) What is CDMA and how it works? State it’s advantages and disadvantages. (10)
+Q4B) Packet arrives with the mean arrival rate of 5 per second. The average packet (10)
+“ ) length is 144 octets, and it is assumed that the packet length is exponentially
+distributed. Line speed from router to the WAN is 9600 bps.
+1. What is the probability that the packet arriving at the server will have to
+wait?
+2. Find the average waiting time in queue and system.
+3. Find the average number of packets in the system.
+
+Q5A)_ The following is the UDP header dump in hexadecimal format: (10)
+
+h
+--- page 2 ---
+0x 00 35 DF 00 00 58 00 00
+1.\, What are the source port number and destination port number?
+2. What is the length of the user datagram?
+3. What is the length of data?
+4. Is the packet directed from client to server or server to client?
+5. Identify service based on port number?
+
+Q5B) Explain TCP segment header. (10)
+Q6A) Explain various timers associated with TCP. (10)
+Q6B) Compare and contrast datagram subnet and VC subnet. (10)
+Q7A)_ Write short note on following (10)
+1. DNS
+2. HTTP protocol
+Q7B) Explain Frame relay. Compare it with X.25 (10)
+````
 
 ## 2012-13 · Re-Exam · Trim 4 · paper 8e02833e626e
 
@@ -72,6 +223,84 @@ Q 6B) Compare and contrast datagram subnet and VC subnet.
 Q 7A) Write short note on DNS.   (10)
 Q 7B) Write a short note on http protocol.   (10)
 ----------------------------------LLLLLLLL,-*------------------------------------------
+````
+
+## 2010-11 · Exam not stated · Trim 4 · paper e4bde570dac1
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/COMPUTER NETWORKING/COMPUTER NETWORKS.pdf`
+- Printed on paper: exam date: 10/05/2011
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management &
+
+Programme: MBA (TECH)-I.T/Computer Year: II Trimest
+Academic Year : 2010-2011
+
+Subject: Computer Networks Marks: 0
+Time: 89;pm To 5.00 pm
+Date: 10/05/2011 Duration: Fs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for the use.
+
+NB:
+1. Question No.1 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. In all FIVE questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question should be started on a fresh page.
+6. Figure in brackets indicate full marks.
+
+Ql.
+a) Compare & contrast between ISO OSI model and TCP/IP reference models. (5)
+b) Differentiate between Circuit switching & Packet switching. (5)
+c) What do you mean by a WAN? Give its characteristics. (5)
+d) What are different kinds of frames in HDLC? (5)
+Q2.
+a) Differentiate between Guided & Unguided transmission media, giving an example of
+each. Also describe any one Guided transmission media in detail. (10)
+b) Explain Framing. Why is it necessary? Explain different Framing techniques used in Data
+Link Layer? (10)
+Q3.
+
+a) Suppose a 7-bit message 1101111 is transmitted by using even parity hamming code.
+What is the output codeword? Suppose bit is inverted at position 5 of the codeword, show
+
+that how to detect and correct it? (10)
+
+b) Draw and explain the structure of an ATM cell. (10)
+Q4.
+
+a) Describe classification of IP addresses in IPv4. (10)
+
+b) Explain CSMA protocols. Differentiate between CSMA/CD & Token passing. (10)
+
+a) What does routing mean? How does it work? Explain routing table structure in detail.(10)
+b) Explain traffic shaping algorithms used to control congestion in the network. (10)
+
+f
+--- page 2 ---
+Q6.
+a) Why is TCP considered as reliable & UDP as unreliable protocol. Explain why UDP is
+
+used irrespective of its unreliable nature? (10)
+b) Describe TCP segment header in detail. (10)
+Q7.
+a) Differentiate between X.25 & Frame Relay. (10)
+b) Write short note on following (any two): (10)
+i) DNS
+ii) WWW
+
+iii) Quality of service.
+
+fa
 ````
 
 ## 2010-11 · Exam not stated · Trim 4 · paper a98c103044da
@@ -321,233 +550,4 @@ college premises (10)
 7. (a) What is the difference between Circuit switch and Packet Switch (10)
 (b) Explain URL (5)
 (c) Draw TCP/IP Protocol Suite (PI. do not explain) (5)
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper e4bde570dac1
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/COMPUTER NETWORKING/COMPUTER NETWORKS.pdf`
-- Printed on paper: exam date: 10/05/2011
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management &
-
-Programme: MBA (TECH)-I.T/Computer Year: II Trimest
-Academic Year : 2010-2011
-
-Subject: Computer Networks Marks: 0
-Time: 89;pm To 5.00 pm
-Date: 10/05/2011 Duration: Fs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for the use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. In all FIVE questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question should be started on a fresh page.
-6. Figure in brackets indicate full marks.
-
-Ql.
-a) Compare & contrast between ISO OSI model and TCP/IP reference models. (5)
-b) Differentiate between Circuit switching & Packet switching. (5)
-c) What do you mean by a WAN? Give its characteristics. (5)
-d) What are different kinds of frames in HDLC? (5)
-Q2.
-a) Differentiate between Guided & Unguided transmission media, giving an example of
-each. Also describe any one Guided transmission media in detail. (10)
-b) Explain Framing. Why is it necessary? Explain different Framing techniques used in Data
-Link Layer? (10)
-Q3.
-
-a) Suppose a 7-bit message 1101111 is transmitted by using even parity hamming code.
-What is the output codeword? Suppose bit is inverted at position 5 of the codeword, show
-
-that how to detect and correct it? (10)
-
-b) Draw and explain the structure of an ATM cell. (10)
-Q4.
-
-a) Describe classification of IP addresses in IPv4. (10)
-
-b) Explain CSMA protocols. Differentiate between CSMA/CD & Token passing. (10)
-
-a) What does routing mean? How does it work? Explain routing table structure in detail.(10)
-b) Explain traffic shaping algorithms used to control congestion in the network. (10)
-
-f
---- page 2 ---
-Q6.
-a) Why is TCP considered as reliable & UDP as unreliable protocol. Explain why UDP is
-
-used irrespective of its unreliable nature? (10)
-b) Describe TCP segment header in detail. (10)
-Q7.
-a) Differentiate between X.25 & Frame Relay. (10)
-b) Write short note on following (any two): (10)
-i) DNS
-ii) WWW
-
-iii) Quality of service.
-
-fa
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 9cfd9a18b729
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM IV/COMPUTER NETWORKING/scan0003(7).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/10/2012
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’s NMIMS
-
-TEL StH, :
-Mukesh Patel School Of Technology Management & Engineering of ne a IN
-: iS; Ng
-Programme: MCA Year: II Trimester: IV SVKM's 2
-Academic Year : 2012-2013 od { NMIMs Univers \*
-Mumbai ~ Ye
-Lisra Ei
-Subject: COMPUTER NETWORK Marks: 100 4 a nr >
-Time: 2.00pm To it
-es Se Ye VW :
-Date: 30/10/2012 Duration: 3 hrs. MAN, nena 4
-
-Final - Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Attempt any five questions.
-2. All questions carry equal marks.
-3. Answer to each new question to be started on a fresh page.
-4. Make reasonable assumptions, if required.
-5. Figures in bracket on the right hand side indicate full marks.
-woes nn nnn n cen nnn nnn nnn nnn All the Best-------+----------------------------------------------------
-
-Q1A) What is layered architecture? List the advantages of layered architecture. Explain (10)
-
-TCP/IP model.
-
-Q1B) Compare and contrast between circuit switched networks and packet switched (10)
-networks.
-
-Q2A) Find following for the network address 170.16.0.0 / 25 (10)
-
-1. Number of subnets
-2. Number of host per subnet
-3. Subnet IDs
-
-} 4. Broadcast address for each subnet
-5. Usable IP address range
-Q2B) Explain Intserv architecture for providing QoS. (10)
-
-Q3A) What is CRC? What are the advantages and limitations of CRC? Calculate CRC —_ (10)
-for message 1101011011 and generator polynomial 10011
-Q3B) Explain Go back N and selective repeat ARQ. (10)
-
-QA) What is CDMA and how it works? State it’s advantages and disadvantages. (10)
-Q4B) Packet arrives with the mean arrival rate of 5 per second. The average packet (10)
-“ ) length is 144 octets, and it is assumed that the packet length is exponentially
-distributed. Line speed from router to the WAN is 9600 bps.
-1. What is the probability that the packet arriving at the server will have to
-wait?
-2. Find the average waiting time in queue and system.
-3. Find the average number of packets in the system.
-
-Q5A)_ The following is the UDP header dump in hexadecimal format: (10)
-
-h
---- page 2 ---
-0x 00 35 DF 00 00 58 00 00
-1.\, What are the source port number and destination port number?
-2. What is the length of the user datagram?
-3. What is the length of data?
-4. Is the packet directed from client to server or server to client?
-5. Identify service based on port number?
-
-Q5B) Explain TCP segment header. (10)
-Q6A) Explain various timers associated with TCP. (10)
-Q6B) Compare and contrast datagram subnet and VC subnet. (10)
-Q7A)_ Write short note on following (10)
-1. DNS
-2. HTTP protocol
-Q7B) Explain Frame relay. Compare it with X.25 (10)
-````
-
-## Year not stated · Re-Exam · Trim 4 · paper f2dda17a1fb2
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM IV/COMPUTER NETWORKING/COMPUTER NETWORKS(RE EXAM)0001 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/12/2013
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS Xe
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Programme:MCA
-
-Year: II Trimester: IV
-Academic Year: 2013-14 Batch:2012-13
-Subject : Computer Networks
-Marks:100
-Date :11/12/2013
-
-Time : 2.00 pm to 5.00 pm
-
-Durations:3 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefull
-
-y the instructions printed on the question
-paper and on the cover of the Answer book,
-
-which is provided for their use.
-N.B:
-
-(1) Question No.1 is compulsory.
-
-(2) Out of remaining question , Attempt any 4 questions.
-3) All question carry equal marks
-q ry eq
-
-(4) Assume suitable data if required.
-
-Q.1 a) Explain following with example:
-MAC address , IP address » Socket , Baud rate, Latency. .
-(b) Give the functionality of :
-Repeater, hubs , Bridges , Switches » router.
-Q.2 a) Explain DNS and SMTP
-(b) Explain different TCP Flags
-Q.3 a) How TCP controls congestion?
-b) Explain five functions of data-link layer
-Q.4 a) Explain different types of routing Algorithm
-
-b) Explain error detection Algorithm,
---- page 2 ---
-Q.5 a) Explain Queuing Theory
-
-b) Explain Framing Flow And error control in data link layer
-Q.6 a) Explain the entire Functionality of e-mail system.
-
-b) Explain the various MAC layer protocols,
-
-Q.7) Write notes on the following.
-
-1) IPv4 2) DNS 3) HTTP
 ````

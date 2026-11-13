@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Fluid Mechanics and Hydraulics(702CI0C032)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Civil 7005 | QP_Fluid Mechanics and Hydraulics(702CI0C032)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Fluid Mechanics and Hydraulics(702CI0C032)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Fluid Mechanics and Hydraulics(702CI0C032)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | B Tech, Fluid Mechanics and Hydraulics, Sem-IV, Batch 2022-23, 2024-25 & 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech Civil 7005 | QP_Fluid Mechanics and Hydraulics(702CI0C032)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Fluid Mechanics and Hydraulics(702CI0C032)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | Fluid Mechanics and Hydraulics, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 5 | B TECH / CIVIL | Fluid Mechanics and Hydraulics, Final Exam 2023-24 & Re Exam 2022-23, A Y 2023-24.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / CIVIL | Fluid Mechanics and Hydraulics Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |

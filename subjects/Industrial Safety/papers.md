@@ -133,6 +133,7 @@ Q2 of 2
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/INDUSTRIAL SAFETY/Industrial Safety,Sem6,Final,2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
 - Text: ocr (2 pages), mean OCR confidence 93.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -187,7 +188,6 @@ Q2B Draw the symbol for Fumigation, Looping, and transportation symbol of Class 
 and Class 8
 
 Q3A_ Define: (10)
-1) Missile damage; 2) LFL and UFL; 3) TLV-—STEL; 4) BLEVE; 5) OSHA IR
 
 Q3B_ Whatare the reasons for Flixborough Incident? Explain the initiation, propagation and (10)
 
@@ -743,6 +743,7 @@ suited for a refinery? |
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/INDUSTRIAL SAFETY/INDUSTRIAL SAFETY 2016-2017 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 13 May 2017
 - Text: ocr (2 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -794,7 +795,6 @@ Q 2 B| Explain ways to combat static charge buildup. (06)
 Q3A| Define: — (08)
 
 1) Auto ignition temperature; 2) Missile damage; 3) LFL and UFL; 4) MOC;
-5) TLV-—STEL; 6) BLEVE; 7) Health; 8) OSHA IR
 Q 3 B| Draw the transportation symbol for Class 2, Class 4, Class 6 and Class 8. (04)
 
 Q4A| What are the reasons for Flixborough Incident? Explain the initiation, propagation and (06)
@@ -1157,6 +1157,7 @@ a/2
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/INDUSTRIAL SAFETY/Industrial Safety Batch (2014-15) Re Exam.pdf`
 - Printed on paper: max marks: 60; exam date: 03/07/2015
 - Text: ocr (2 pages), mean OCR confidence 87.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Programme: MBA Tech (CHEMICAL) Year: Il
@@ -1219,7 +1220,6 @@ Atmospherc
 } ie Pressure Control valves Ammonia Vaper to Cooling gystam
 
 Relief Valve
-i Rupture Disk [|__ Bloce Valvce
 
 4 iscistion Valve
 
@@ -1668,9 +1668,9 @@ i ee
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INDUSTRIAL SAFETY/2010-2011(15).pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12/01/2011
 - Text: ocr (2 pages), mean OCR confidence 92.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SR ASE yer 3 TARE NT EET NIE
 
 SVKM’s NMIMS
 ——- Mukesh Patel School Of Technology Management & Engineering
@@ -2183,6 +2183,7 @@ x -
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INDUSTRIAL SAFETY/2007-2008(92).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY’S
@@ -2318,7 +2319,6 @@ material factor.
 we d) BLEVE
 (B) Draw the transportation symbol and write which materials belonging to class 2 and
 Class 8 group. (4)
-(C) What do you understand by TLV — STEL, TLV —C, TLV - TWA? (4)
 
 Q.7. (A) What are the parameters affecting Dispersion and describe them in detail? (12)
 

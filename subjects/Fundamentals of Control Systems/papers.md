@@ -108,6 +108,114 @@ C
 Page 3 of 3
 ````
 
+## 2021-22 · Final-Exam · Sem 4 · paper 0380ddb5298e
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/FUNDAMENTALS OF CONTROL SYSTEMS/B Tech, Mechatronics, Fundamentals of Control Sytems, 2nd Year, Sem-IV, Final Exa_179e5180.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 April 2022
+- Text: ocr (3 pages), mean OCR confidence 83.7
+
+````text
+7 fr ; he ‘ nee j
+SVKM’s NMIMS re (4,
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING / y
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING =~
+
+Academic Year: 2021-22
+
+Programme: B. Tech (Mechatronics) Year: II Semester: IV |
+Subject: Fundamentals of Control Systems
+Marks: 100
+Date: 12 April 2022 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs
+No. of Pages:
+
+Final Examination
+
+Instructions: Candidates shouid read carefuily the instructions printed ca the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt the following - (20)
+a ‘a SO-1; | q| Explain closed loop control system with example. (05)
+a = SO-1; | | Define the following system by sketching their output waveform for a unit step input: | (05)
+i)Underdamped system ii) Undamped System
+iii)Overdamped System iv) Critically damped
+Also show the poles location for above systems and give respective value of damping
+factor.
+CO- 3; SO-1; c | Explain the effect of addition of poles and zeros on root locus. (05)
+BL-2
+yr * SO-1; | q| Explain the concept of observability with example. (05)
+Q.2 a| Determine the transfer function using Block Diagram Reduction Rules. (10)
+CO-2;SO-1 ;
+BL-3
+
+Page 1 of 3
+--- page 2 ---
+pa * SO-1; b| Determine transfer function using Masson’s Gain Formula. (10)
+
+Q3 a| Investigate the stability using Routh Criterion. (10)
+
+CO- 2; SO-6;
+= i)   F(s) =s'+ 5s°+ 2s4+ 3s7+1=0
+
+i)   F(s) =s°+s*+ 2s°+2s? + 3s+5=0
+
+co 7 S0-6; b/ A feedback system is having the closed loop transfer function: (10)
+s*+3s+3
+TIS)= 3 3
+si+2s*+3s+1
+Construct a state model for the system.
+Q.4 a A unity feedback system has a forward path transfer function (10)
+CO- 2; SO-1; .
+a S+2
+G(s) = (s+2)
+s(s +1)
+Determine:
+
+Page 2 of 3
+--- page 3 ---
+i) Natural frequency ii) Damping ratio
+
+ii) Settling time iv) Peak overshoot
+ce i S$0-6; b| A unity feedback system has (10)
+40(s+2
+G(s) = 20S 42) _
+s(s +1)(s+ 4)
+Determine: i) Type of the system ii) All error coefficients
+iii) Steady state error for ramp input with magnitude 4.
+Q.5 a| Sketch Bode plot for the open loop transfer function. Indicate gain and phase margin. (12)
+=. * S0-6; Also give comment on stability
+10
+G(s)H(s) =
+(s)H(s) s(1+0.4s)(1+ 0.15)
+o 3 SO-1; b| Explain standard test signals? Also define poles , zeros , characteristics equation , order | (08)
+and type of.a transfer function.
+Q.6 a| Sketch the root locus for unity feedback system whose open loop forward transfer (14)
+CO- 3; SO-6; function is given by
+BL-3
+k
+G 3): yqQOrr >
+(s) s(s + 3)(s +5)
+Also give comment on stability.
+oS 3 SO-1; b| Explain Force —Voltage Analogy in detail (06)
+
+Page 3 of 3
+````
+
 ## 2021-22 · Re-Exam · Sem 4 · paper 7695cf17b7c3
 
 - Departments: Mechatronics
@@ -229,114 +337,6 @@ i) -F(s)=s7+ 28+ s°+ 2s4- s3- 2s?-s-2=0
 ii)   F(s)=s5+s*t+2s'+6s+6=0
 _t
 aaniiial
-
-Page 3 of 3
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper 0380ddb5298e
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/FUNDAMENTALS OF CONTROL SYSTEMS/B Tech, Mechatronics, Fundamentals of Control Sytems, 2nd Year, Sem-IV, Final Exa_179e5180.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 April 2022
-- Text: ocr (3 pages), mean OCR confidence 83.7
-
-````text
-7 fr ; he ‘ nee j
-SVKM’s NMIMS re (4,
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING / y
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING =~
-
-Academic Year: 2021-22
-
-Programme: B. Tech (Mechatronics) Year: II Semester: IV |
-Subject: Fundamentals of Control Systems
-Marks: 100
-Date: 12 April 2022 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs
-No. of Pages:
-
-Final Examination
-
-Instructions: Candidates shouid read carefuily the instructions printed ca the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt the following - (20)
-a ‘a SO-1; | q| Explain closed loop control system with example. (05)
-a = SO-1; | | Define the following system by sketching their output waveform for a unit step input: | (05)
-i)Underdamped system ii) Undamped System
-iii)Overdamped System iv) Critically damped
-Also show the poles location for above systems and give respective value of damping
-factor.
-CO- 3; SO-1; c | Explain the effect of addition of poles and zeros on root locus. (05)
-BL-2
-yr * SO-1; | q| Explain the concept of observability with example. (05)
-Q.2 a| Determine the transfer function using Block Diagram Reduction Rules. (10)
-CO-2;SO-1 ;
-BL-3
-
-Page 1 of 3
---- page 2 ---
-pa * SO-1; b| Determine transfer function using Masson’s Gain Formula. (10)
-
-Q3 a| Investigate the stability using Routh Criterion. (10)
-
-CO- 2; SO-6;
-= i)   F(s) =s'+ 5s°+ 2s4+ 3s7+1=0
-
-i)   F(s) =s°+s*+ 2s°+2s? + 3s+5=0
-
-co 7 S0-6; b/ A feedback system is having the closed loop transfer function: (10)
-s*+3s+3
-TIS)= 3 3
-si+2s*+3s+1
-Construct a state model for the system.
-Q.4 a A unity feedback system has a forward path transfer function (10)
-CO- 2; SO-1; .
-a S+2
-G(s) = (s+2)
-s(s +1)
-Determine:
-
-Page 2 of 3
---- page 3 ---
-i) Natural frequency ii) Damping ratio
-
-ii) Settling time iv) Peak overshoot
-ce i S$0-6; b| A unity feedback system has (10)
-40(s+2
-G(s) = 20S 42) _
-s(s +1)(s+ 4)
-Determine: i) Type of the system ii) All error coefficients
-iii) Steady state error for ramp input with magnitude 4.
-Q.5 a| Sketch Bode plot for the open loop transfer function. Indicate gain and phase margin. (12)
-=. * S0-6; Also give comment on stability
-10
-G(s)H(s) =
-(s)H(s) s(1+0.4s)(1+ 0.15)
-o 3 SO-1; b| Explain standard test signals? Also define poles , zeros , characteristics equation , order | (08)
-and type of.a transfer function.
-Q.6 a| Sketch the root locus for unity feedback system whose open loop forward transfer (14)
-CO- 3; SO-6; function is given by
-BL-3
-k
-G 3): yqQOrr >
-(s) s(s + 3)(s +5)
-Also give comment on stability.
-oS 3 SO-1; b| Explain Force —Voltage Analogy in detail (06)
 
 Page 3 of 3
 ````

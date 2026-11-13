@@ -765,6 +765,143 @@ GSOP and explain its application.
 also explain the concept of flat fading and frequency selective fading.
 ````
 
+## 2011-12 · Exam not stated · Trim 1 · paper e3d86a8688c0
+
+- Departments: Electronics, Electronics and Telecommunication
+- Programmes: M TECH / ELECTRONIC, M TECH / EXTC
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ELECTRONIC/TRIM I/ADVANCED DIGITAL COMMUNICATION/ADVANCED DIGITAL COMMUNICATION BATCH 2010-110001(3).pdf` (+4 identical copies)
+- Printed on paper: exam date: 13/06/2012
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+: SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: M.Tech - ELEX/EXTC Year: I Trimester: I
+: Academic Year : 2011-2012
+
+Batch: 2010-11
+Subject: Advanced Digital Communication Marks:
+Time:
+Date: 13/06/2012 Duration4/ 33 hrs»
+
+Re - Examination
+
+N LBAARY E |}
+“a.
+© s
+Instructions: Candidates should read carefully the instructions printed on “@yestion paper and, y/
+on the cover of the Answer book, which is provided for their use. , <6 Man ncene wy,
+AN AGE Wee
+
+1. Question no. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets carry equal marks.
+
+Q1. Attempt all the following parts:
+a) State & Explain the concept of CPFSK.
+b) Draw Miller code waveform for the binary sequence 1100001 101. What is the main
+
+property of Miller code?
+c) Compare Temporal waveform encoding with Spectral waveform coding.
+d) State basic principle of Adaptive equalizer in brief & draw block diagram of any type of
+
+Adaptive Equalizer.
+e) Draw cyclic encoder for given generator polynomial:
+
+| Ql) = pde p+
+(20)
+Q2: Attempt all the following parts:
+a) Determine the generator matrix G for the given polynomial of (7,4) cyclic code in
+systematic form:
+E(p)= Pr+prL
+(10)
+
+» Find the transfer function and minimum distance for the following convolutional
+encoder:
+
+ra
+Th pat
+
+(10)
+
+Q3: Attempt all the following parts:
+a) Derive expression of power spectral density for Quardrature Amplitude modulation.
+
+Draw power spectra & find bandwidth for the same.
+(10)
+
+lo.
+--- page 2 ---
+b) How phase continuity can be achieved using MSK ? Show the same using suitable
+example. (10)
+
+Q4: Attempt all the following parts:
+a) What is the significance of GSOP procedure in digital communication? What are
+
+properties of basis functions? (5)
+b) How Hilbert transform can be used for getting pre envelope of band limited signals.
+(5)
+c) State and prove Nyquist criteria for no ISI for band limited channels. (10)
+
+Q5: Attempt all the following parts: :
+a) Derive the expression for decision threshold of Maximum likelihood detector.
+Find decision threshold for the given wave form also.
+
+Ss & f Salt) *
+3V -
+
+&
+
+ae
+5 : os
+r (10)
+b) A binary baseband system transmits information over an unequalised linear channel.
+When a 1 is transmitted, the noise free output of the demodulator is
+03 (m=!)
+Gn = O.g (rm = re)
+O33 (m= A)
+Dtheswise
+i)Design a three tap zero forcing linear equalizer so that the output is
+oy (m=)
+
+dn= § o (m=i)
+
+ii)Determine output for m=0,+1,-1,+2,-2. (10)
+
+Q6: Explain Frequency hopped Spread spectrum system with the help of block diagram. What is
+the difference between slow hopped and fast hopped spread spectrum. A fast FH/MSK system
+has the following parameters:
+
+The number of bits per MFSK symbol = 4
+
+The number of hops per MFSK symbol = 4
+Calculat¢ the processing gain of the system. (20)
+Q74Write short notes on the following : (Any four)
+
+a. Model based Encoding
+
+b. Modeljof fading
+c. Dupbinary coding
+d. Marcov chain
+e. Adaptive delta modulation
+f. Feedback decoding for convolutional codes (20)
+
+\
+
+29.
+
+cs
+````
+
 ## 2011-12 · Exam not stated · Trim 1 · ZIP of papers · paper 720341676f38 · ADVANCED DIGITAL COMMUNICATION 2011-2012.pdf
 
 - Departments: Electronics and Telecommunication
@@ -879,6 +1016,131 @@ j ii) Limpel Ziv Algorithm
 v) Raised cosine filter
 vi) Turbo Encoder . (20)
 x x
+````
+
+## 2011-12 · Exam not stated · Trim 1 · ZIP of papers · paper 090b13c08851 · ADVANCED DIGITAL COMMUNICATION BATCH 2010-2011 RE EXAM,.pdf
+
+- Departments: Electronics and Telecommunication
+- Programmes: M TECH / EXTC
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM I/Advanced Digital Communication/M Tech EXTC TRIM I Advanced Digital Communication ADVANCED DIGITAL COMMUNICATION _ecddbc75.zip`
+- Printed on paper: exam date: 4/11/2011
+- Text: ocr (2 pages), mean OCR confidence 87.6
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technolo:
+Programme: M. TECH - ELEX/ EXTC Year: I Trimester/// J,
+Academic Year : 2011-2012 [7
+
+Batch: 2010-11
+
+Subject: ADVANCED DIGITAL Marks:
+COMMUNICATION Time:
+
+Date: 4/11/2011 Duration:
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer book, which is provided for their use.
+
+NB:
+1. Question no. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets carry equal marks.
+
+Q1. Attempt all the following parts:
+a) What is the requirement of signal space representation of digitally modulated signals?
+b) Draw the frequency domain and time domain response of Raised cosine filter.
+How it is used for removing ISI?
+c) Compare Model based waveform encoding with Spectral waveform coding.
+d) Draw & Explain block diagram of Direct sequence spread spectrum transmitter.
+e) Draw Block code encoder for given generator matrix:
+
+'OoOo} © j
+
+Te le.o4 & yet 4
+O0o0o;{o1 1 (20)
+
+Q2: Attempt all the following parts:
+a) A Convolutional code is described by
+
+; Si=Ctot]) ge=Q
+
+\ Find the transfer function and the distance for the code.
+»! Determine the generator matrix G for the given polynomial of (7,4) cyclic code in
+
+systematic form: q ( >) _ Pe +P +l
+; (10)
+
+Q3: Attempt all the following parts:
+a) Explain how CPFSK is non linear modulation with memory? Explain one example of
+
+CPFSK in details. (10)
+b) How Miller code can be represented using Markov Chain ? Find transition matrix & |
+transition probability matrix. (10)
+
+Vo.
+--- page 2 ---
+\
+
+Q4: Attempt all the following parts:
+a) Apply GSOP Procedure for the following signals & find basis functions for given signal
+
+space set:
+Pa Ce) Satt) pe
+: 3
+ro) - t
+O aot 4(.- -2L_]
+st) sult)
+Ht —,
+3 t fe) _— t
+j 7 . 7" (12)
+
+b) Explain how pulse shaping method can be used for removing Intersymbol Interference?
+(8)
+Q5: Attempt all the following parts:
+a) The transmission of a signal pulse with a raised cosine spectrum through a channel results
+in following noise free sampled output from the demodulator:
+0:5 Cm =-2)
+O.| (m=-))
+rn = i ( m=o)
+-Or>r (m=)
+0:05 (m=2)
+
+} 6thayaise
+i) Design a three tap zero forcing linear equalizer based on the zero forcing
+criteria.
+} ii) Determine the values of m for which the input is the pulse mentioned above.
+Find the residual ISI’s at all points where ISI is present. (10)
+b) Write expression for the transfer function of Matched filter & explain the properties of
+Matched filter. How correlator can be used for the realization of matched filter? (10)
+
+Q6: Attempt all the following parts:
+a) Prove how spread spectrum helps anti jamming with the help of power spectra. (6)
+b) Discuss the generation of PN sequences in details. Explain the following properties of
+i} PN sequences used in spread spectrum:
+_ | Balance property
+v Run property
+Correlation property . (14)
+
+Q7: Write short notes on the following : (Any four)
+a. Types of fading
+b. Adaptive equalizer
+c. Slow frequency hopped spread spectrum
+d. Average Mutual Information
+e. Viterbi decoding for convolutional codes
+f. Nyquist criteria for no ISI (20)
+
+a
+
+°
+
+Zf/p-
 ````
 
 ## 2011-12 · Final-Exam · Trim 1 · paper 8913f5275b6e
@@ -1107,143 +1369,6 @@ v } Standard array
 vl) Model based encoding : (20)
 
 % mA
-````
-
-## 2010-11 · Exam not stated · Trim 1 · paper e3d86a8688c0
-
-- Departments: Electronics, Electronics and Telecommunication
-- Programmes: M TECH / ELECTRONIC, M TECH / EXTC
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ELECTRONIC/TRIM I/ADVANCED DIGITAL COMMUNICATION/ADVANCED DIGITAL COMMUNICATION BATCH 2010-110001(3).pdf` (+4 identical copies)
-- Printed on paper: exam date: 13/06/2012
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-: SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: M.Tech - ELEX/EXTC Year: I Trimester: I
-: Academic Year : 2011-2012
-
-Batch: 2010-11
-Subject: Advanced Digital Communication Marks:
-Time:
-Date: 13/06/2012 Duration4/ 33 hrs»
-
-Re - Examination
-
-N LBAARY E |}
-“a.
-© s
-Instructions: Candidates should read carefully the instructions printed on “@yestion paper and, y/
-on the cover of the Answer book, which is provided for their use. , <6 Man ncene wy,
-AN AGE Wee
-
-1. Question no. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets carry equal marks.
-
-Q1. Attempt all the following parts:
-a) State & Explain the concept of CPFSK.
-b) Draw Miller code waveform for the binary sequence 1100001 101. What is the main
-
-property of Miller code?
-c) Compare Temporal waveform encoding with Spectral waveform coding.
-d) State basic principle of Adaptive equalizer in brief & draw block diagram of any type of
-
-Adaptive Equalizer.
-e) Draw cyclic encoder for given generator polynomial:
-
-| Ql) = pde p+
-(20)
-Q2: Attempt all the following parts:
-a) Determine the generator matrix G for the given polynomial of (7,4) cyclic code in
-systematic form:
-E(p)= Pr+prL
-(10)
-
-» Find the transfer function and minimum distance for the following convolutional
-encoder:
-
-ra
-Th pat
-
-(10)
-
-Q3: Attempt all the following parts:
-a) Derive expression of power spectral density for Quardrature Amplitude modulation.
-
-Draw power spectra & find bandwidth for the same.
-(10)
-
-lo.
---- page 2 ---
-b) How phase continuity can be achieved using MSK ? Show the same using suitable
-example. (10)
-
-Q4: Attempt all the following parts:
-a) What is the significance of GSOP procedure in digital communication? What are
-
-properties of basis functions? (5)
-b) How Hilbert transform can be used for getting pre envelope of band limited signals.
-(5)
-c) State and prove Nyquist criteria for no ISI for band limited channels. (10)
-
-Q5: Attempt all the following parts: :
-a) Derive the expression for decision threshold of Maximum likelihood detector.
-Find decision threshold for the given wave form also.
-
-Ss & f Salt) *
-3V -
-
-&
-
-ae
-5 : os
-r (10)
-b) A binary baseband system transmits information over an unequalised linear channel.
-When a 1 is transmitted, the noise free output of the demodulator is
-03 (m=!)
-Gn = O.g (rm = re)
-O33 (m= A)
-Dtheswise
-i)Design a three tap zero forcing linear equalizer so that the output is
-oy (m=)
-
-dn= § o (m=i)
-
-ii)Determine output for m=0,+1,-1,+2,-2. (10)
-
-Q6: Explain Frequency hopped Spread spectrum system with the help of block diagram. What is
-the difference between slow hopped and fast hopped spread spectrum. A fast FH/MSK system
-has the following parameters:
-
-The number of bits per MFSK symbol = 4
-
-The number of hops per MFSK symbol = 4
-Calculat¢ the processing gain of the system. (20)
-Q74Write short notes on the following : (Any four)
-
-a. Model based Encoding
-
-b. Modeljof fading
-c. Dupbinary coding
-d. Marcov chain
-e. Adaptive delta modulation
-f. Feedback decoding for convolutional codes (20)
-
-\
-
-29.
-
-cs
 ````
 
 ## 2010-11 · Exam not stated · Trim 1 · ZIP of papers · paper cfc61dac5d45 · advanced digital communication 2010-2011.pdf
@@ -1664,6 +1789,7 @@ d. Duobinary coding with precoding. Fe
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM I/Advanced Digital Communication/M Tech EXTC TRIM I Advanced Digital Communication 2007-2008.zip`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/07
 - Text: ocr (2 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \
@@ -1695,7 +1821,6 @@ a) Determine a generator matrix G for this code in systematic form.
 b) Determine the generator polynomial for dual code.
 
 QNo2)   3/p : (20)
-Binavy if ovd pu brnavy Sequence
 Sequence, Yor
 
 Given figure depicts a rate 4 constraint length k = 2, Convolutional code.
@@ -1814,129 +1939,4 @@ Portd toe eee e eee ee! Port 2
 (16)
 --- page 2 ---
 
-````
-
-## Year not stated · Exam not stated · Trim 1 · ZIP of papers · paper 090b13c08851 · ADVANCED DIGITAL COMMUNICATION BATCH 2010-2011 RE EXAM,.pdf
-
-- Departments: Electronics and Telecommunication
-- Programmes: M TECH / EXTC
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM I/Advanced Digital Communication/M Tech EXTC TRIM I Advanced Digital Communication ADVANCED DIGITAL COMMUNICATION _ecddbc75.zip`
-- Printed on paper: exam date: 4/11/2011
-- Text: ocr (2 pages), mean OCR confidence 87.6
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technolo:
-Programme: M. TECH - ELEX/ EXTC Year: I Trimester/// J,
-Academic Year : 2011-2012 [7
-
-Batch: 2010-11
-
-Subject: ADVANCED DIGITAL Marks:
-COMMUNICATION Time:
-
-Date: 4/11/2011 Duration:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer book, which is provided for their use.
-
-NB:
-1. Question no. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets carry equal marks.
-
-Q1. Attempt all the following parts:
-a) What is the requirement of signal space representation of digitally modulated signals?
-b) Draw the frequency domain and time domain response of Raised cosine filter.
-How it is used for removing ISI?
-c) Compare Model based waveform encoding with Spectral waveform coding.
-d) Draw & Explain block diagram of Direct sequence spread spectrum transmitter.
-e) Draw Block code encoder for given generator matrix:
-
-'OoOo} © j
-
-Te le.o4 & yet 4
-O0o0o;{o1 1 (20)
-
-Q2: Attempt all the following parts:
-a) A Convolutional code is described by
-
-; Si=Ctot]) ge=Q
-
-\ Find the transfer function and the distance for the code.
-»! Determine the generator matrix G for the given polynomial of (7,4) cyclic code in
-
-systematic form: q ( >) _ Pe +P +l
-; (10)
-
-Q3: Attempt all the following parts:
-a) Explain how CPFSK is non linear modulation with memory? Explain one example of
-
-CPFSK in details. (10)
-b) How Miller code can be represented using Markov Chain ? Find transition matrix & |
-transition probability matrix. (10)
-
-Vo.
---- page 2 ---
-\
-
-Q4: Attempt all the following parts:
-a) Apply GSOP Procedure for the following signals & find basis functions for given signal
-
-space set:
-Pa Ce) Satt) pe
-: 3
-ro) - t
-O aot 4(.- -2L_]
-st) sult)
-Ht —,
-3 t fe) _— t
-j 7 . 7" (12)
-
-b) Explain how pulse shaping method can be used for removing Intersymbol Interference?
-(8)
-Q5: Attempt all the following parts:
-a) The transmission of a signal pulse with a raised cosine spectrum through a channel results
-in following noise free sampled output from the demodulator:
-0:5 Cm =-2)
-O.| (m=-))
-rn = i ( m=o)
--Or>r (m=)
-0:05 (m=2)
-
-} 6thayaise
-i) Design a three tap zero forcing linear equalizer based on the zero forcing
-criteria.
-} ii) Determine the values of m for which the input is the pulse mentioned above.
-Find the residual ISI’s at all points where ISI is present. (10)
-b) Write expression for the transfer function of Matched filter & explain the properties of
-Matched filter. How correlator can be used for the realization of matched filter? (10)
-
-Q6: Attempt all the following parts:
-a) Prove how spread spectrum helps anti jamming with the help of power spectra. (6)
-b) Discuss the generation of PN sequences in details. Explain the following properties of
-i} PN sequences used in spread spectrum:
-_ | Balance property
-v Run property
-Correlation property . (14)
-
-Q7: Write short notes on the following : (Any four)
-a. Types of fading
-b. Adaptive equalizer
-c. Slow frequency hopped spread spectrum
-d. Average Mutual Information
-e. Viterbi decoding for convolutional codes
-f. Nyquist criteria for no ISI (20)
-
-a
-
-°
-
-Zf/p-
 ````

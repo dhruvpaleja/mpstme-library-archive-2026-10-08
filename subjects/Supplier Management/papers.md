@@ -184,67 +184,51 @@ to derive advantages (10)
 > m
 ````
 
-## 2011-12 · Re-Exam · Trim 15 · paper 28245ee96df0
+## 2012-13 · Exam not stated · Trim 15 · paper f15dcdded15f
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/SUPPLIER MANAGEMENT/SUPPLIERS MANAGEMENT BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: exam date: 25/06/2012
-- Text: ocr (1 page), mean OCR confidence 93.6
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/SUPPLIER MANAGEMENT/Scan 0015.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 15/4/2013
+- Text: text (1 page)
 
 ````text
-—
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engi: f
-Programme: MBA Tech - ALL STREAMS Year: V Trimester: X
-Academic Year : 2011-2012
-
-Batch: 2011-12
-
-Subject: Suppliers Management Marks:
-Time:
-
-Date: 25/06/2012 Duration:
-
-Re - Examination
-
-Relating to real industry practices, examples or cases taught will fetch additional credit.
-
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management 8s
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV   I'   ,
+Academic Year : 2012-2013   '   5   . 1 LC Ib ?. -i ;
+/   b   \ -   J J \ - * 7 '
+Subject:   SUPPLIER MANAGEMENT   Marks:   50   ' ., * ~t,*!f,q - --CV~bs' \\?A   . e 1
+Time:   2.00pm T&.M)~/'*
+Date:   15/4/2013   Duration:   2   hrs.
+Final - Examination
+Answer any five(5) Questions.   Answer in brief and to the point.
+NB : Answering with reference to real industry practices1 examples or cases taught will fetch
+additional credit.   All Questions carry ecpal rnarks(l0)
 NB : Cell Phones , Calculators and any kind of electronic Gadjet is not allowed in Exam. Hall
-
-1. a)What is Supplier Segmentation ? b) What factors should be considered for segmentation ? 10 marks
-
-2. Why a Good Governance is required in Supplier Mangement Program ? 10 Marks
-Explain the salient points of COBIT Framework for a IT Supplier Governance .
-
-3.Explain , for any commodity (like office supplies), what could be the different Objectives
-and Performance Metrices of a Supplier? . 10 Marks
-
-4.a. What are the strengths and weakness of a Supplier Scorecard system in any Auto/Engg Company?
+1. What is Spend Management ?
+A company (Manufacturing /Bank) is evaluating a Supplier Management Software.
+There are 4 Major Areas viz
+Sourcing and Decision Support (A), Spend and Contract -Visibility (B), Procure to Pay(C)
+and Risk Management and Supply Performance (D).
+Explain the sub-modules (at least 2 ) or functions under each one of them
+2. a. What are the strengths and weakness of a Supplier Scorecard system in any AutotEngg Company?
 b. Normally ,How are the incentives of the various managers involved in procurement decided ?
 c. Give 5 major points that you would change in the scorecardsystem.
-
-5. a, Explain , while procuring a Capital Equipment from Germany/USA , what Supplier
-Parameters and Factors needs to be evaluated ? 7 marks
-b) Explain the Terms with example : Cost Drivers,Total Cost of Ownership,& LCC 3 Marks
-
-6. Explain any 5 Major Laws of Contract as it relates to Supplier Management . 10 Marks
-Explain the difference of Supplier Management and Contract between a Manufacturing and a Service
-Industry (like a IT company or a Hotel/Bank) while writing a Contract.
-
-7. What is Spend Management ? 10 Marks
-A company (Manufacturing /Bank) is evaluating a Supplier Management Software. There are 4 Major Areas viz
-Sourcing and Decision Support (A), Spend and Contract Visibility (B), ae to Pay(C)
-And Risk Management and Supply Performance (D).
-j
-Explain the $ub-modules (at least 2 ) or functions under each one of them . -
-
-¥!
+3. a)What is Supplier Segmentation ? b) What factors should be considered for segmentation ?
+4. Explain , for any commodity (like office supplies), what could be the different Objectives
+and Performance Metrices of a Supplier ? .
+5. a. Explain , while procuring a Capital Equipment from GermanyIUSA , what Supplier
+Parameters and Factors needs to be evaluated ?
+marks
+b) Explain the Terms with example : Cost Drivers,Total Cost of Ownership,& LCC
+b
+6. Explain any 5 Major Laws of Contract as it relates to Supplier Management .
+Explain the difference of Supplier Management and Contract between a Manufacturing and a
+Service Industry (like a IT company or a HotelIBank) while writing a Contract.
 ````
 
-## Year not stated · Exam not stated · Trim 15 · paper a31512306efa
+## 2011-12 · Exam not stated · Trim 15 · paper a31512306efa
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -304,46 +288,62 @@ x
 Y)
 ````
 
-## Year not stated · Exam not stated · Trim 15 · paper f15dcdded15f
+## 2011-12 · Re-Exam · Trim 15 · paper 28245ee96df0
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/SUPPLIER MANAGEMENT/Scan 0015.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 15/4/2013
-- Text: text (1 page)
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/SUPPLIER MANAGEMENT/SUPPLIERS MANAGEMENT BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: exam date: 25/06/2012
+- Text: ocr (1 page), mean OCR confidence 93.6
 
 ````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management 8s
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV   I'   ,
-Academic Year : 2012-2013   '   5   . 1 LC Ib ?. -i ;
-/   b   \ -   J J \ - * 7 '
-Subject:   SUPPLIER MANAGEMENT   Marks:   50   ' ., * ~t,*!f,q - --CV~bs' \\?A   . e 1
-Time:   2.00pm T&.M)~/'*
-Date:   15/4/2013   Duration:   2   hrs.
-Final - Examination
-Answer any five(5) Questions.   Answer in brief and to the point.
-NB : Answering with reference to real industry practices1 examples or cases taught will fetch
-additional credit.   All Questions carry ecpal rnarks(l0)
+—
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engi: f
+Programme: MBA Tech - ALL STREAMS Year: V Trimester: X
+Academic Year : 2011-2012
+
+Batch: 2011-12
+
+Subject: Suppliers Management Marks:
+Time:
+
+Date: 25/06/2012 Duration:
+
+Re - Examination
+
+Relating to real industry practices, examples or cases taught will fetch additional credit.
+
 NB : Cell Phones , Calculators and any kind of electronic Gadjet is not allowed in Exam. Hall
-1. What is Spend Management ?
-A company (Manufacturing /Bank) is evaluating a Supplier Management Software.
-There are 4 Major Areas viz
-Sourcing and Decision Support (A), Spend and Contract -Visibility (B), Procure to Pay(C)
-and Risk Management and Supply Performance (D).
-Explain the sub-modules (at least 2 ) or functions under each one of them
-2. a. What are the strengths and weakness of a Supplier Scorecard system in any AutotEngg Company?
+
+1. a)What is Supplier Segmentation ? b) What factors should be considered for segmentation ? 10 marks
+
+2. Why a Good Governance is required in Supplier Mangement Program ? 10 Marks
+Explain the salient points of COBIT Framework for a IT Supplier Governance .
+
+3.Explain , for any commodity (like office supplies), what could be the different Objectives
+and Performance Metrices of a Supplier? . 10 Marks
+
+4.a. What are the strengths and weakness of a Supplier Scorecard system in any Auto/Engg Company?
 b. Normally ,How are the incentives of the various managers involved in procurement decided ?
 c. Give 5 major points that you would change in the scorecardsystem.
-3. a)What is Supplier Segmentation ? b) What factors should be considered for segmentation ?
-4. Explain , for any commodity (like office supplies), what could be the different Objectives
-and Performance Metrices of a Supplier ? .
-5. a. Explain , while procuring a Capital Equipment from GermanyIUSA , what Supplier
-Parameters and Factors needs to be evaluated ?
-marks
-b) Explain the Terms with example : Cost Drivers,Total Cost of Ownership,& LCC
-b
-6. Explain any 5 Major Laws of Contract as it relates to Supplier Management .
-Explain the difference of Supplier Management and Contract between a Manufacturing and a
-Service Industry (like a IT company or a HotelIBank) while writing a Contract.
+
+5. a, Explain , while procuring a Capital Equipment from Germany/USA , what Supplier
+Parameters and Factors needs to be evaluated ? 7 marks
+b) Explain the Terms with example : Cost Drivers,Total Cost of Ownership,& LCC 3 Marks
+
+6. Explain any 5 Major Laws of Contract as it relates to Supplier Management . 10 Marks
+Explain the difference of Supplier Management and Contract between a Manufacturing and a Service
+Industry (like a IT company or a Hotel/Bank) while writing a Contract.
+
+7. What is Spend Management ? 10 Marks
+A company (Manufacturing /Bank) is evaluating a Supplier Management Software. There are 4 Major Areas viz
+Sourcing and Decision Support (A), Spend and Contract Visibility (B), ae to Pay(C)
+And Risk Management and Supply Performance (D).
+j
+Explain the $ub-modules (at least 2 ) or functions under each one of them . -
+
+¥!
 ````

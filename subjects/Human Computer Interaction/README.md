@@ -14,15 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AIML 7053 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech IT 7001 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated IT 7037 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech AI 7051 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 7, Sem 9 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSBS, B TECH / I T, B.TECH INTEGRATED / IT, MBA TECH / I T | Human Computer Interaction 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech AIML 7053 | QP_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
@@ -33,19 +24,28 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 9 | Integrated IT 7037 | QP_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech AI 7051 | QP_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated IT 7037 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech IT 7041 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AIML 7053 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech IT 7001 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated IT 7037 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech AI 7051 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CYBER SECURITY, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / Computer | Human Computer Interaction Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | Integrated IT 7037 | QP_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech IT 7041 | QP_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Human Computer Interaction(703CO0E003)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | Integrated IT 7037 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech IT 7041 | ANS_Human Computer Interaction(702CO0E007)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer | Human Computer Interaction, Sem VI, Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / I T, MBA TECH / I T | Human Computer Interaction, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Human Computer Interaction(703CO0E003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MCA | Human Computer Interaction Batch 2024-25 Final.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Human Computer Interaction(703CO0E003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Human Computer Interaction(703CO0E003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / I T, MBA TECH / I T | Human Computer Interaction , Re-exam, 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Human Computer Interaction(703CO0E003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Human Computer Interaction(703CO0E003)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / I T | Human Computer Interaction, Sem-V, A Y 2023-24, Final Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | MBA TECH / I T | Human Computer Interaction, Final 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | MCA | Human Computer Interaction Batch 2023-24 Final.pdf |

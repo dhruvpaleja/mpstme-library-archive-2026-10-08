@@ -782,6 +782,108 @@ BL-4 , represented using 6 bits
 
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 3 · paper a8ae357f10ad
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/COMPUTER ARCHITECTURE/Computer Architecture , Final ,Re-exam 2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/23
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN! :
+SCHOOL OF TECHNOLOGY MANAGEMENT :
+
+Academic Year: 2023-2024
+
+Program: B. Tech/MBA (Tech) Year: II Semester: III
+
+Stream: Artificial Intelligence
+
+Subject: Computer Architecture Time: 03 hrs. (10.00 am to 1.00 pm)
+Date: 27/11/23 No. of Pages: 02
+
+Marks: 100
+
+Final Examination/Re-Examination 2022-23
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+ee S01; | a. | Solve (15)10 — (24)i0 using 2’s compliment subtraction method [05]
+ae SO-1; b. | Illustrate overview of basic instruction cycle with diagram. [05]
+Srape | & | List key characteristics of memory. Compare between SRAM and DRAM. [05]
+Sto | d. | Demonstrate Register organization of Microprocessor. [05]
+Q2 a. | Distinguish between Computer organization and architecture of system. [10]
+CO-1; $O-1;
+
+BL-4
+
+Q2 b. | Outline the timing diagram of memory write bus cycle and explain in brief. [10]
+CO-2; SO-1;
+
+BL-2
+
+Q3 a. | Illustrate the schematic of a MOSFET based static RAM cell and explain its | [10]
+wee working for write operation.
+
+Q3 b. | What is the significance of Booth’s algorithm and solve (-7)j0 x (3)i0 using the | [10]
+CO-3; SO-1; same!
+
+BL-13
+
+Page 1 of 2
+--- page 2 ---
+¥
+
+Q4 a. | What is pipelining? List and Discuss the five stages of Instruction pipelining with | [10]
+
+ae SO-1; appropriate diagram.
+
+Q4 b. | Mention the different types of control unit and examine the operation of a | [10]
+Pr ia microprogrammed control unit with a suitable diagram.
+
+Q5 a. What are the different mapping technique in cache memory? Sketch the neat- | [10]
+po BOT: labelled diagram of the direct mapped cache and describe it.
+
+Q5 b. | Demonstrate basic principle of superscalar architecture and explain superscalar | [10]
+Cp Bes architecture with appropriate block diagram.
+
+Q6 a. | Design a 4-bit parallel adder and explain with examples. [10]
+0-3; $O-2;
+
+BL-6
+
+Q6 b. | Illustrate various fields of instruction format with diagram and state the | [10]
+COs SO; characteristics of RISC and CISC processor architectures.
+
+Q7 a. | Sketch cache memory system and describe how performance of the cache system | [10]
+fa is measured. Also, tell different basic cache design elements.
+
+Q7 b. | Outline the block diagram of computer along with various I/O processors [05]
+oo and explain the function of each block in brief.
+
+Q7 c. | Draw the block diagram of Von Neumann architecture and explain the load — | [05]
+Se cl store concept of the same.
+
+Page 2 of 2
+````
+
 ## 2023-24 · Re-Exam · Sem 3 · paper f9e43a0f9937
 
 - Departments: Artificial Intelligence
@@ -991,108 +1093,6 @@ CO-4; SO-1; . 7
 BL-4 (6) Explain the term Stored Program Control and discuss its classification. [10]
 
 >,
-````
-
-## 2022-23 · Final + Re-Exam · Sem 3 · paper a8ae357f10ad
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/COMPUTER ARCHITECTURE/Computer Architecture , Final ,Re-exam 2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/23
-- Text: ocr (2 pages), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN! :
-SCHOOL OF TECHNOLOGY MANAGEMENT :
-
-Academic Year: 2023-2024
-
-Program: B. Tech/MBA (Tech) Year: II Semester: III
-
-Stream: Artificial Intelligence
-
-Subject: Computer Architecture Time: 03 hrs. (10.00 am to 1.00 pm)
-Date: 27/11/23 No. of Pages: 02
-
-Marks: 100
-
-Final Examination/Re-Examination 2022-23
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-ee S01; | a. | Solve (15)10 — (24)i0 using 2’s compliment subtraction method [05]
-ae SO-1; b. | Illustrate overview of basic instruction cycle with diagram. [05]
-Srape | & | List key characteristics of memory. Compare between SRAM and DRAM. [05]
-Sto | d. | Demonstrate Register organization of Microprocessor. [05]
-Q2 a. | Distinguish between Computer organization and architecture of system. [10]
-CO-1; $O-1;
-
-BL-4
-
-Q2 b. | Outline the timing diagram of memory write bus cycle and explain in brief. [10]
-CO-2; SO-1;
-
-BL-2
-
-Q3 a. | Illustrate the schematic of a MOSFET based static RAM cell and explain its | [10]
-wee working for write operation.
-
-Q3 b. | What is the significance of Booth’s algorithm and solve (-7)j0 x (3)i0 using the | [10]
-CO-3; SO-1; same!
-
-BL-13
-
-Page 1 of 2
---- page 2 ---
-¥
-
-Q4 a. | What is pipelining? List and Discuss the five stages of Instruction pipelining with | [10]
-
-ae SO-1; appropriate diagram.
-
-Q4 b. | Mention the different types of control unit and examine the operation of a | [10]
-Pr ia microprogrammed control unit with a suitable diagram.
-
-Q5 a. What are the different mapping technique in cache memory? Sketch the neat- | [10]
-po BOT: labelled diagram of the direct mapped cache and describe it.
-
-Q5 b. | Demonstrate basic principle of superscalar architecture and explain superscalar | [10]
-Cp Bes architecture with appropriate block diagram.
-
-Q6 a. | Design a 4-bit parallel adder and explain with examples. [10]
-0-3; $O-2;
-
-BL-6
-
-Q6 b. | Illustrate various fields of instruction format with diagram and state the | [10]
-COs SO; characteristics of RISC and CISC processor architectures.
-
-Q7 a. | Sketch cache memory system and describe how performance of the cache system | [10]
-fa is measured. Also, tell different basic cache design elements.
-
-Q7 b. | Outline the block diagram of computer along with various I/O processors [05]
-oo and explain the function of each block in brief.
-
-Q7 c. | Draw the block diagram of Von Neumann architecture and explain the load — | [05]
-Se cl store concept of the same.
-
-Page 2 of 2
 ````
 
 ## 2022-23 · Final-Exam · paper 9e7d1d512365

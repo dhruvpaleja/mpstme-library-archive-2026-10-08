@@ -77,101 +77,6 @@ Q.07 Write short note on:   (20)
 (a) CMMS(b) Equipment History Card (c)Sixteen losses of TPM (d) MIS
 ````
 
-## 2011 · Exam not stated · Trim 12 · paper f54679ffed99
-
-- Departments: Manufacturing
-- Programmes: MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MANUFACTURING/TRIM XII/MAINTENANCE ENGINEERING & MANAGEMENT/MAINTENANCE ENGINEERING & MANAGEMENT 2011(1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 18/04/2011
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (Tech) - Manufacturing Year: IV Trimester: XII
-Academic Year : 2010-2011
-
-Subject: Maintenance Engineering Marks: 100
-& Management Time: 2.00 pm To 5.00 pm
-Date: 18/04/2011 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer book, which is provided for use.
-
-NB:
-1. Question No.01 is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. In all Five questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-Q.01 (a) Explain the term: “Maintenance prevention”? How can you achieve it? (05)
-
-(b) Identify the correct and false statement and rewrite the false statement correctly (10)
-(i) In case of preventive maintenance, more stand by equipments are required
-(ii) Spare parts codification is generally limited to 8 digits
-(iii) Major importance is given to maintenance rather than production in S.S.I.
-(iv) Government is responsible for protection from fire in industry
-(v) Proper installation of machine means better life and less maintenance
-(c) How do you estimate the Work Content of repair or unscheduled work? Explain (05)
-
-Q.02 (a) Explain the major failure factors of bearings, giving its cause and corrective actions (05)
-
-(b) Give the features of Industrial Air-conditioning. How do you carry out the (05)
-Preventive Maintenance for unit type of air-conditioning equipment?
-(c) Give the cause and remedy for the following: ; (10)
-
-(i) Plummer block seems hotter than normal
-(ii) Worker feel suffocated in workshop
-(iii) Electric Contactors are tripping in regular operation.
-(iv) Leakage occurring in Valve joints
-(v) Pressure cylinder of Air-compressor getting overheated
-01/02
-
-Yo.
---- page 2 ---
-Q.03 (a) What is “Work Order”? Give profoma of a simple work order for maintenance. (05)
-
-(b) Explain the advantages of Time-Study (05)
-(c) Explain “The Inventory Balancing Act” of maintenance (05)
-(d) How do you rate maintenance workers? Explain (05)
-Q.04 (a) Why breakdown of any machine occur? Explain with diagram (05)
-(b) What is dynamic status of equipment or machine? How it is measured? (05)
-(c) Describe FMEA & FTA techniques of root cause analysis. (05)
-(d) Explain, how to manage effective lubrication (05)
-
-Q.05 (a) Explain the role of maintenance department in installation and commissioning (05)
-of new machinery.
-
-(b) How do you carry out the Waste management for different wastes in industry? (05)
-
-(c) Explain the use of Fire extinguishers and list common types used in industry (05)
-
-(d) Explain the importance of Energy conservation and Management (05)
-Q.06 (a) What is TPM? What are 16 losses of TPM? (05)
-
-(b) What is PQCDSM? How it is measured? (05)
-
-(c) Explain term OEE? Evaluate OEE based on data given below: (10)
-
-A machine is under maintenance for 2 hrs. a day ina 30 days month. It has
-set up change everyday which takes 30 minutes. It produced 3000 pieces
-
-in month out of which 20 pieces got rejected. It has capacity to produce
-120 pieces per day. Assume that the machine run all the days in month.
-
-Q.07 Write short note on: (20)
-(a) CMMS (b) Service Reliability (c) Project planning chart (d) POKA YOKE
-
-38 eR aR aR oR oR OK
-
-02/02
-
-qh.
-````
-
 ## 2011-12 · Exam not stated · Trim 12 · paper 330f9747c8f3
 
 - Departments: Manufacturing
@@ -380,6 +285,101 @@ Q.07 Write short note on: (20)
 FR HK
 
 v Do
+````
+
+## 2010-11 · Exam not stated · Trim 12 · paper f54679ffed99
+
+- Departments: Manufacturing
+- Programmes: MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MANUFACTURING/TRIM XII/MAINTENANCE ENGINEERING & MANAGEMENT/MAINTENANCE ENGINEERING & MANAGEMENT 2011(1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 18/04/2011
+- Text: ocr (2 pages), mean OCR confidence 93.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (Tech) - Manufacturing Year: IV Trimester: XII
+Academic Year : 2010-2011
+
+Subject: Maintenance Engineering Marks: 100
+& Management Time: 2.00 pm To 5.00 pm
+Date: 18/04/2011 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer book, which is provided for use.
+
+NB:
+1. Question No.01 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. In all Five questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+Q.01 (a) Explain the term: “Maintenance prevention”? How can you achieve it? (05)
+
+(b) Identify the correct and false statement and rewrite the false statement correctly (10)
+(i) In case of preventive maintenance, more stand by equipments are required
+(ii) Spare parts codification is generally limited to 8 digits
+(iii) Major importance is given to maintenance rather than production in S.S.I.
+(iv) Government is responsible for protection from fire in industry
+(v) Proper installation of machine means better life and less maintenance
+(c) How do you estimate the Work Content of repair or unscheduled work? Explain (05)
+
+Q.02 (a) Explain the major failure factors of bearings, giving its cause and corrective actions (05)
+
+(b) Give the features of Industrial Air-conditioning. How do you carry out the (05)
+Preventive Maintenance for unit type of air-conditioning equipment?
+(c) Give the cause and remedy for the following: ; (10)
+
+(i) Plummer block seems hotter than normal
+(ii) Worker feel suffocated in workshop
+(iii) Electric Contactors are tripping in regular operation.
+(iv) Leakage occurring in Valve joints
+(v) Pressure cylinder of Air-compressor getting overheated
+01/02
+
+Yo.
+--- page 2 ---
+Q.03 (a) What is “Work Order”? Give profoma of a simple work order for maintenance. (05)
+
+(b) Explain the advantages of Time-Study (05)
+(c) Explain “The Inventory Balancing Act” of maintenance (05)
+(d) How do you rate maintenance workers? Explain (05)
+Q.04 (a) Why breakdown of any machine occur? Explain with diagram (05)
+(b) What is dynamic status of equipment or machine? How it is measured? (05)
+(c) Describe FMEA & FTA techniques of root cause analysis. (05)
+(d) Explain, how to manage effective lubrication (05)
+
+Q.05 (a) Explain the role of maintenance department in installation and commissioning (05)
+of new machinery.
+
+(b) How do you carry out the Waste management for different wastes in industry? (05)
+
+(c) Explain the use of Fire extinguishers and list common types used in industry (05)
+
+(d) Explain the importance of Energy conservation and Management (05)
+Q.06 (a) What is TPM? What are 16 losses of TPM? (05)
+
+(b) What is PQCDSM? How it is measured? (05)
+
+(c) Explain term OEE? Evaluate OEE based on data given below: (10)
+
+A machine is under maintenance for 2 hrs. a day ina 30 days month. It has
+set up change everyday which takes 30 minutes. It produced 3000 pieces
+
+in month out of which 20 pieces got rejected. It has capacity to produce
+120 pieces per day. Assume that the machine run all the days in month.
+
+Q.07 Write short note on: (20)
+(a) CMMS (b) Service Reliability (c) Project planning chart (d) POKA YOKE
+
+
+02/02
+
+qh.
 ````
 
 ## 2009-10 · Exam not stated · Trim 12 · paper a7bbce8e0b1e

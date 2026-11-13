@@ -16,11 +16,11 @@ Also filed as: `NEURAL NETWORK & DEEP LEARNING`, `NEURAL NETWORK AND DEEP LEARNI
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Neural Networks and Deep Learning(702DB0C027)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Neural Networks and Deep Learning(702DB0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7057 | QP_Neural Networks and Deep Learning(702DB0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper |  | MBA TECH / Data Science | Neural Networks and Deep Learning ,2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBA TECH / Data Science, MBATech DS 7052 | QP_Neural Networks and Deep Learning(702DB0C027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Neural Networks and Deep Learning(702DB0C027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Neural Networks and Deep Learning(702DB0C027)_2025-2026.pdf |
 | 2024-25 | — | Question paper |  | MBA TECH / Data Science | Neural Networks and Deep Learning, 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / DATA SCIENCE | Neural Networks and Deep Learning, Sem-IV, Final Exam 2024-25.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Netural Networks and Deep Learning Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |

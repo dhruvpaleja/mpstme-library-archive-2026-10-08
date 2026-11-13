@@ -165,6 +165,96 @@ Elaborate on the advantages of classification
 [10]
 ````
 
+## 2022-23 · Exam not stated · Sem 7 · paper 02e88c305151
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/CONSTRUCTION MATERIAL MANAGEMENT/Construction materials Management.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 82.5
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
+Academic Year: 2022-2023
+
+MBA Teclu ;
+Program: B Tech A Stream ;CIVIL Year: IV Semester: VII
+Subject: Construction Materials Management Time: 03 _ hrs (41:o0AMto 2:00 PM )
+Date:_20 / 06 / 23 : No. of Pages: 02
+
+Marks: 100
+Special Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any __4__ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qa .
+Answer briefly: [20]
+ao sot; a | Discuss the advantages of Material management. 0]
+ao 50-1; b. | Explain the various assumptions in EOQ model. [5]
+en S045 c | Explain the disadvantages of ABC analysis. (5)
+res $0-1; d. | Elaborate on the functions of MRP. [5]
+Q2 . [5]
+m2 conser cia [A Elaborate on the 5 pillars of procurement. [5]
+7 @ Elaborate on conformance and non-conformance costs associated with [10]
+CO-1; SO-7; BL-2 | B quality.
+Q3 i. Explain the advantages of statistical quality control. [10]
+CO-1; SO-7; BL-2 | A ii. Elaborate on use of Ishikawa diagram for cause-effect analysis
+Q@3 Explain in detail about importance of supply chain management for any | f10]
+
+0-2; 50-7; BL4 | 8 organization.
+--- page 2 ---
+Classify the following inventory using ABC analysis
+
+ANNUAL
+ITEMS UNITS SOLD|cost per unit
+aper clips 21000 5
+staple pins 10000 5
+a4 correcting fluid 16000 15
+0-2; $O-7; =, ol
+BL-4 diaries 50000 250
+lerasers 15000 12
+Inotepads 40000 15
+encils 80000 35
+ens 120000 10
+staplers 10000 45
+Q4 List and explain the various non-probabilistic sampling techniques with
+CO-2; SO-1; B [10]
+BL. examples.
+Qs i. Explain advantages of standardization. 10]
+CO-1;S0-1; BL-2 A ii | Elaborate on functions of stores department.
+Qs P . 10
+coa;s0-7, a4 |g | Discuss the disadvantages of LIFO and FIFO (10)
+6 [10]
+
+co1:so1si2 |A Discuss the advantages and disadvantages of centralized stores.
+
+Q6 B a4 ‘ ‘ ; ‘
+re Explain in detail the various functions of inventory management. [10]
+
+Q7 i [5]
+
+CO-t; SO-1; BL-2 Elaborate on the advantages of classification. 5]
+
+Q7 B
+
+to's S04; BLS Elaborate on the advantages and disadvantages of JIT technique. [10]
+````
+
 ## 2022-23 · Final-Exam · Sem 7 · paper 8377505fc555
 
 - Departments: Civil
@@ -379,94 +469,4 @@ CO-2;$0-1; BL-2 Discuss the disadvantages of LIFO and FIFO (10)
 a Cam
 
 2)z
-````
-
-## Year not stated · Exam not stated · Sem 7 · paper 02e88c305151
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/CONSTRUCTION MATERIAL MANAGEMENT/Construction materials Management.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 82.5
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
-Academic Year: 2022-2023
-
-MBA Teclu ;
-Program: B Tech A Stream ;CIVIL Year: IV Semester: VII
-Subject: Construction Materials Management Time: 03 _ hrs (41:o0AMto 2:00 PM )
-Date:_20 / 06 / 23 : No. of Pages: 02
-
-Marks: 100
-Special Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any __4__ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qa .
-Answer briefly: [20]
-ao sot; a | Discuss the advantages of Material management. 0]
-ao 50-1; b. | Explain the various assumptions in EOQ model. [5]
-en S045 c | Explain the disadvantages of ABC analysis. (5)
-res $0-1; d. | Elaborate on the functions of MRP. [5]
-Q2 . [5]
-m2 conser cia [A Elaborate on the 5 pillars of procurement. [5]
-7 @ Elaborate on conformance and non-conformance costs associated with [10]
-CO-1; SO-7; BL-2 | B quality.
-Q3 i. Explain the advantages of statistical quality control. [10]
-CO-1; SO-7; BL-2 | A ii. Elaborate on use of Ishikawa diagram for cause-effect analysis
-Q@3 Explain in detail about importance of supply chain management for any | f10]
-
-0-2; 50-7; BL4 | 8 organization.
---- page 2 ---
-Classify the following inventory using ABC analysis
-
-ANNUAL
-ITEMS UNITS SOLD|cost per unit
-aper clips 21000 5
-staple pins 10000 5
-a4 correcting fluid 16000 15
-0-2; $O-7; =, ol
-BL-4 diaries 50000 250
-lerasers 15000 12
-Inotepads 40000 15
-encils 80000 35
-ens 120000 10
-staplers 10000 45
-Q4 List and explain the various non-probabilistic sampling techniques with
-CO-2; SO-1; B [10]
-BL. examples.
-Qs i. Explain advantages of standardization. 10]
-CO-1;S0-1; BL-2 A ii | Elaborate on functions of stores department.
-Qs P . 10
-coa;s0-7, a4 |g | Discuss the disadvantages of LIFO and FIFO (10)
-6 [10]
-
-co1:so1si2 |A Discuss the advantages and disadvantages of centralized stores.
-
-Q6 B a4 ‘ ‘ ; ‘
-re Explain in detail the various functions of inventory management. [10]
-
-Q7 i [5]
-
-CO-t; SO-1; BL-2 Elaborate on the advantages of classification. 5]
-
-Q7 B
-
-to's S04; BLS Elaborate on the advantages and disadvantages of JIT technique. [10]
 ````

@@ -1577,6 +1577,7 @@ b) Explain Clutch Disc Type and their types with neat sketch . (6]
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/AUTOMOBILE ENGINEERING/AUTOMOBILE ENGINEERING B TECH (MECH) 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; exam date: 03/12/2014
 - Text: ocr (2 pages), mean OCR confidence 91.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1625,7 +1626,6 @@ b. Explain the following terms a) Turbocharge Engine with inter cooler b) Front 
 wheel & Rear wheel Drive, All Wheel drive.
 
 Q.3 a. Define following 1) Automobile Body Characteristic II) types of Loads acting 10
-on irame Jil) chassis & Frame Maieriais 1V) Sprung & unsprung weight.
 
 f What is monocoque construction of body? Explain the advantage of 10
 monocoque construction.

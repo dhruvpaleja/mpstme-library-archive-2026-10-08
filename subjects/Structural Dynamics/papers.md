@@ -306,6 +306,143 @@ $5> 31363 FitJ= F0 sin( 26-5) t)
 3\ 03
 ````
 
+## 2018-19 · Re-Exam · Sem 8 · paper 64566d0a9a3a
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/STRUCTURAL DYNAMICS/STRUCTURAL_DYANAMICS_B TECH (CIVIL), BATCH_16-17_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 June 2019
+- Text: ocr (3 pages), mean OCR confidence 82.0
+
+````text
+/
+
+a -
+, SVKM’S NMIMS
+
+/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEE
+Program B.Tech (CIVIL) .; Year: IV Semester:VII,
+Academic Year: 2018-2019
+Subject: Structural Dynamics - Marks: 60 °
+Date: 14 June 2019 Time:2.00 pm to 5.00 pm
+
+Duration: 3 (hrs)
+No. of Pages:_O3 _
+
+Re-Examination (2016-17)
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and on the
+cover of the answer book,which provided for their use.
+
+Note: 1) Question:No.1 is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+4) All questions carry equal marks.
+5) Answers to each question to be started on fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+a.
+
+Q.1(a) Define dynamic load. Explain different types of loads, 03
+(b) Explain clearly the difference between static and dynamic analysis of structure 03
+(c) Explain different methods of writing equation of motion. 3 03
+(d) What is damping? Explain the various types of damping. What are the effects of 03
+damping?
+Q.2(a) For the structural system shown in figure compute the natural frequency of 06
+vibration. mest:
+a je i) FZ.
+\ \ ;
+oY iB EL
+A Am: to, 330
+j rai
+4 Ero jos
+Er = (0, 000\Nw Yn
+ex: jSOID EN WwW
+CG
+aaa . :
+(b) An SDOF structure is subjected to pure impulsive load as shown in figure, 06
+se evaluate the maximum force develop in column.
+W=2€ 7OEN e
+LLL, LLLA
+ARSON
+= 17S LM)
+. 0 10Sseo a
+
+veges LTA '/2
+--- page 2 ---
+Qs3 (a) State and prove orthogonality principle.
+
+Also state the significance of “06
+. a . 7 ; N
+
+orthogonality principle in dynamic analysis. =
+(b) For the pulse type load shown in figure, derive the expression for DLF using 06
+
+] Duhamel’s Integration.
+
+, F
+ae ae
+= eee te
+
+Q.4 (a) Two storied frame with rigid girder is subjected to dynamic forces as shown in 12
+
+figure. Result of free vibration analysis as given below Compute the upper bond
+on maximum displacement of each floor.
+
+A GZAte
+A LL, Z, G (>
+Bn
+‘ ee \eO ;
+LA's va k
+awl ZL.
+Hv) ~
+erSsec* :
+WG ey PAL ;
+Floor No. Mass Mode No. @ (rad/sec) Mode shapes |
+nate Poe
+1 15t 1 - 14.58 1 1.481
+L 2 10t 2 38.07 1 -0.822
+
+Q.5 A steel frame with rigid girder as shown in figure supports a rotating machine
+
+which exerts a horizontal force. at girder ‘level. given by. F(t)=907.2sin(5.3)t
+
+12
+
+: 7
+
+Newton. Assuming 2 % of critical damping. Determine
+(i) Steady state amplitude of girder level
+
+(ii) Maximum dynamic stress develop in column.
+
+| °°. TZ.
+
+y,
+‘ r me €§ 6h 7
+Ea 2x po® kbs
+
+Ss
+Da 2-68 x10 m7
+AGw.
+--- page 3 ---
+«6 (a) The stiffness & damping property of a mass spring damping system are to be 06
+determining by free vibration test. The mass is 0.1 kg. In this test mass is
+displaced by 10 mm by a hydraulic jack & then suddenly released. T the end of
+20 cycles the time recorded is 3 secs & amplitude measured to be 2 mm.
+Determine stiffeness & damping coefficient.
+
+4
+
+(b) Explain clearly how the dynamic analysis for random dynamic load is done. 06
+
+Q.7 A three storey single bay frame has storey height of 4 m each. The columns of 12
+ground and first storey are of size 300 mm X 750 mm deep while the columns
+at second storey are 230 mm X 600 mm deep & beams are very stiff. The mass
+on first and second floor is 100 t & on third floor it is 75 t. Calculate natural
+‘frequency and mode shapes. Take E = 2 X 10” kN/m
+````
+
 ## 2017-18 · Final + Re-Exam · Sem 8 · paper dbea669d3493
 
 - Departments: Civil
@@ -313,6 +450,7 @@ $5> 31363 FitJ= F0 sin( 26-5) t)
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/STRUCTURAL DYNAMICS/STRUCTURAL DYNAMICS B TECH (CIVIL), BATCH 2016-17 RE EXAM 2017-18 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 08 May 2018
 - Text: ocr (4 pages), mean OCR confidence 68.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -462,7 +600,6 @@ Figure =5
 Page 3 of 4
 --- page 4 ---
 - 120 9444)
-Fay = 50 Sin W) = 104 tad/gec
 
 1
 —P SOt Us ; Wo = 36 6 8ad/ec
@@ -738,141 +875,4 @@ iii) Logarithmic decrement iv) The ratio of two successive amplitudes and v) The
 cycles after which the initial amplitude is reduced to 25%. (6)
 
 2|Qege
-````
-
-## 2016-17 · Re-Exam · Sem 8 · paper 64566d0a9a3a
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/STRUCTURAL DYNAMICS/STRUCTURAL_DYANAMICS_B TECH (CIVIL), BATCH_16-17_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 June 2019
-- Text: ocr (3 pages), mean OCR confidence 82.0
-
-````text
-/
-
-a -
-, SVKM’S NMIMS
-
-/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEE
-Program B.Tech (CIVIL) .; Year: IV Semester:VII,
-Academic Year: 2018-2019
-Subject: Structural Dynamics - Marks: 60 °
-Date: 14 June 2019 Time:2.00 pm to 5.00 pm
-
-Duration: 3 (hrs)
-No. of Pages:_O3 _
-
-Re-Examination (2016-17)
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and on the
-cover of the answer book,which provided for their use.
-
-Note: 1) Question:No.1 is compulsory.
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-4) All questions carry equal marks.
-5) Answers to each question to be started on fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-a.
-
-Q.1(a) Define dynamic load. Explain different types of loads, 03
-(b) Explain clearly the difference between static and dynamic analysis of structure 03
-(c) Explain different methods of writing equation of motion. 3 03
-(d) What is damping? Explain the various types of damping. What are the effects of 03
-damping?
-Q.2(a) For the structural system shown in figure compute the natural frequency of 06
-vibration. mest:
-a je i) FZ.
-\ \ ;
-oY iB EL
-A Am: to, 330
-j rai
-4 Ero jos
-Er = (0, 000\Nw Yn
-ex: jSOID EN WwW
-CG
-aaa . :
-(b) An SDOF structure is subjected to pure impulsive load as shown in figure, 06
-se evaluate the maximum force develop in column.
-W=2€ 7OEN e
-LLL, LLLA
-ARSON
-= 17S LM)
-. 0 10Sseo a
-
-veges LTA '/2
---- page 2 ---
-Qs3 (a) State and prove orthogonality principle.
-
-Also state the significance of “06
-. a . 7 ; N
-
-orthogonality principle in dynamic analysis. =
-(b) For the pulse type load shown in figure, derive the expression for DLF using 06
-
-] Duhamel’s Integration.
-
-, F
-ae ae
-= eee te
-
-Q.4 (a) Two storied frame with rigid girder is subjected to dynamic forces as shown in 12
-
-figure. Result of free vibration analysis as given below Compute the upper bond
-on maximum displacement of each floor.
-
-A GZAte
-A LL, Z, G (>
-Bn
-‘ ee \eO ;
-LA's va k
-awl ZL.
-Hv) ~
-erSsec* :
-WG ey PAL ;
-Floor No. Mass Mode No. @ (rad/sec) Mode shapes |
-nate Poe
-1 15t 1 - 14.58 1 1.481
-L 2 10t 2 38.07 1 -0.822
-
-Q.5 A steel frame with rigid girder as shown in figure supports a rotating machine
-
-which exerts a horizontal force. at girder ‘level. given by. F(t)=907.2sin(5.3)t
-
-12
-
-: 7
-
-Newton. Assuming 2 % of critical damping. Determine
-(i) Steady state amplitude of girder level
-
-(ii) Maximum dynamic stress develop in column.
-
-| °°. TZ.
-
-y,
-‘ r me €§ 6h 7
-Ea 2x po® kbs
-
-Ss
-Da 2-68 x10 m7
-AGw.
---- page 3 ---
-«6 (a) The stiffness & damping property of a mass spring damping system are to be 06
-determining by free vibration test. The mass is 0.1 kg. In this test mass is
-displaced by 10 mm by a hydraulic jack & then suddenly released. T the end of
-20 cycles the time recorded is 3 secs & amplitude measured to be 2 mm.
-Determine stiffeness & damping coefficient.
-
-4
-
-(b) Explain clearly how the dynamic analysis for random dynamic load is done. 06
-
-Q.7 A three storey single bay frame has storey height of 4 m each. The columns of 12
-ground and first storey are of size 300 mm X 750 mm deep while the columns
-at second storey are 230 mm X 600 mm deep & beams are very stiff. The mass
-on first and second floor is 100 t & on third floor it is 75 t. Calculate natural
-‘frequency and mode shapes. Take E = 2 X 10” kN/m
 ````

@@ -1,6 +1,6 @@
 # Electrical Network Analysis and Synthesis
 
-**37** unique papers (38 copies across programmes) · 2010-11 to 2018-19 · 2 programmes · Sem 3, Trim 4
+**38** unique papers (39 copies across programmes) · 2010-11 to 2018-19 · 2 programmes · Sem 3, Trim 4
 
 Download only this subject, sorted by academic year:
 
@@ -41,6 +41,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2013-14 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS B TECH (EXTC), BATCH 2013-14 RE EXAM_df675484b5.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS BATCH 2013-14 RE EXAM.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS B TECH (EXTC), 2013-14 RE EXAM.pdf [1] |
+| 2013-14 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2013-14 RE EXAM_4b646729b3.pdf [2] |
 | 2013-14 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | ELECTRICAL NETWORK ANALYSIS & SYNTHESIS BATCH 2013-14 Re-exam.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS 2013-14 Re-exam.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS BATCH 2013-2014 Re-exam.pdf |
@@ -55,5 +56,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 **Notes on papers placed here from a different folder**
 
 1. filed under "ELECTRONICC CIRCUIT AND DESIGN" but the file name says "ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS"
+2. filed under "ELECTRONICC CIRCUIT AND DESIGN" but the paper is headed "Electrical Network Analysis and Synthesis"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Computational Statistics(702BS0C074)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | B TECH / CSBS | Computational Statistics, Sem-III, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech CSBS 7036 | QP_Computational Statistics(702BS0C074)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Computational Statistics(702BS0C074)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Computational Statistics(702BS0C074)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CSBS 7036 | QP_Computational Statistics(702BS0C074)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Computational Statistics(702BS0C074)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CSBS | Computational Statistics, Sem-III, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CSBS | Computational Statistics, Sem-II, Batch 2022-23 & 2024-25 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | B TECH / CSBS | Computational Statistics, Sem-III, Batch 2023-24, Re Exam.pdf |

@@ -1,8 +1,1387 @@
 # Industrial Marketing: question papers in full
 
-10 unique papers · 2007-08 to 2012-13 · Chemical, Information Technology, Manufacturing
+25 unique papers · 2007-08 to 2018-19 · Common (all branches), Chemical, Information Technology, Manufacturing
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2018-19 · Final-Exam · Sem 8 · paper 0e2aa31a2394
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing , Final 2018-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 11 Aprit 2019
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+; SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program MBA Tech (All Streams) Year: IV Semester: VIII
+. Academic Year: 2018-2019
+Subject: Industrial Marketing Marks: 70
+Date: 11 Aprit 2019 Time:2.00 pm to 4.00 pm
+
+Duration: 2 (hrs)
+No. of Pages:_O2~
+
+Final Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions)printed on the questiop peperans d.on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks. as
+7) Assume Suitable data if necessary.
+
+Ql) Write Short Notes (any 2): (7 marks each) (14 Marks)
+
+a) Different types of target marketing
+b) Learning curve
+
+c) BCG Growth-Share Matrix
+
+d) Key account management
+
+Q2) In order to market effectively in business markets we must understand the nature and differences of
+business marketing from consumer marketing. Explain such differences with the help of an industrial product
+of your choice. (14 Marks)
+
+Q3) The General Manager (Purchase) of Pepsico is considering buying a new packaging machinery to
+improve the quality of food products manufactured. The company has never used such a machine in the past.
+Explain the different steps that the company would go through before making the purchase decision?
+
+(14 Marks)
+
+i
+--- page 2 ---
+wae
+
+Q4) A) What are the various objectives that a B2B company can have with respect to pricing of products?
+
+B) Explain the pricing methods which are typically used for pricing the industrial products
+(14 Marks)
+
+Q5) A) Explain Product Evaluation matrix and evaluate its utility in deciding product strategies.
+
+A) Explain the terms brand hierarchy and choosing brand names with reference to industrial products.
+
+(14 Marks)
+
+Q6) You are Head (Indirect Channels) of a company manufacturing industrial control valves.
+A) What are some of the techniques that you can use fer‘ selecting the distributor or channel network?
+B) Some of the channel members are not performing to their potential. Develop some tools or strategies
+
+which you can use for improving their performance through motivation.
+feala, (14 marks)
+
+we
+
+ess reyse *
+
+Q7) You have been assigned as a territory manager for an industrial paints company.
+A) Describe and evaluate the various methods which can be used for the compensation and motivation of
+the sales force.
+B) Design and develop a method for the evaluation and control of the sales force.
+(14 marks)
+
+2
+````
+
+## 2018-19 · Re-Exam · Sem 8 · paper bae6d75427b8
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial_marketing....Re-exam_2018-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 18 June 2619
+- Text: ocr (2 pages), mean OCR confidence 94.0
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program MBA Tech (All Streams)
+
+>
+
+Year: IV Semester:VIII
+Academic Year: 2018-2019
+
+“Subject: Industrial Marketing Marks: 70
+
+Date: 18 June 2619 Time22.00 pm to 4.00 pm
+ra
+
+Duration: 2 (hrs)
+
+No. of Pages: 2
+Re-Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+QI) Write Short Notes (any 2): (7 marks each) (14 Marks)
+
+a) Different stages in technology adoption cycle .
+b) Porters five force model
+
+c) Types of sales organization
+
+d) Key risks in International marketing
+
+Q2) Describe the Sheth model of buyer behavior with reference to industrial marketing. (14 Marks)
+
+Q3) You are in charge of the Marketing and sales function of a company manufacturing Industrial conveyor
+belts. Explain the variables which you can use for segmenting the market. Justify your answer with logical
+
+reasoning. (14 Marks)
+--- page 2 ---
+Q4) A) Explain the process of competitive bidding with reference to industrial products.
+
+B) Discuss the effect of government regulations on pricing of industrial products. (14 Marks)
+
+Q5) Bosch is launching a new brake pad which is expected to save fuel by up to 9%. Develop a step by step
+approach on creating the marketing communication program for the newly launched product.
+(14 marks)
+
+Q6) You are Head (Indirect Channels) of a company manufacturing storage tanks and you are in-charge of a
+network of over 400 distributors
+
+A) What are some of the techniques that you can use for motivating the distributor network?
+
+B) Illustrate the factors which you can use for evaluating the channel partners performance. (14 marks)
+
+Q7) You have been assigned as a territory sales manager for an industrial paints company.
+A) How would you go about in the recruitment, selection and training of the sales executives in your
+territory? 4
+B) Apply some of the tools and methods that you can use for motivating the sales force.
+(14 marks)
+````
+
+## 2017-18 · Final-Exam · Sem 8 · paper a8f9b574a4b4
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industral Marketing 2017-18 Final.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 16 April 2018
+- Text: ocr (1 page), mean OCR confidence 91.6
+
+````text
+german
+{ » »~
+
+SVKM’s NMIMS a PST aE
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN} RincA RY 2%
+Programme: MBA Tech ( All Streams) Year: IV Semester’ taal
+Academic Year: 2017-2018 ee
+Subject: Industrial Marketing
+Marks: 60
+Date: 16 April 2018 Time: 2.00 pm - 4.00 pm
+
+Durations: 2 Hrs.
+
+No. of Pages: _ Of
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right{hand side indicate full marks.
+7) Assume suitable data if necessany. {
+
+a
+
+QI: Write Short Notes (any 2): (6 marks each) (12 Marks)
+
+a) Criteria for effective segmentation
+
+b) Trade shows
+
+c) Derived demand and cross elasticity
+
+d) Strategies for entry in international markets
+e) Advantages of e-commerce
+
+Q2: A large number of laptops are bought by ICICI Bank for their relationship managers. Discuss the eight stages of
+such a buying process by using the buy-grid model. (12 Marks)
+
+Q3: Explain PLC stages and marketing strategies in each stage. (12 Marks)
+
+Q4: You are a marketing manager of a company manufacturing industrial products. Explain the various factors
+affecting pricing decision of your product. (12 Marks)
+
+QS. A. Explain the different types of intermediaries in industrial products such an electric motor. What is the
+difference between a distributor and a manufacturer’s representative? (6 Marks)
+
+B. What are the sources of channel conflicts? Explain methods of managing such conflicts. (6 Marks)
+
+Q6: You are the sales manager of a company manufacturing air compressors. Explain the selling process that you will
+follow in the market place. (12 marks)
+
+Q7: You are the product manager in charge of developing new products in an industrial products company. Explain
+new product development process in detail. (12 marks)
+
+Vi
+````
+
+## 2017-18 · Re-Exam · Sem 8 · paper d3309f61ac50
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 16 April 2018
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
+
+Programme: MBA Tech ( All Streams) Year: IV
+
+Academic Year: 2017-2018
+Subject: Industrial Marketing
+
+Marks: 60
+Time: 2.00 pm — 4.00 pm
+Durations: 2 Hrs.
+
+No. of Pages: _O2Z-
+Re-Examination (2016-17)
+
+Date: 16 April 2018
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. :
+
+4) All questions carry equal marks.
+
+5) Answer to each new question tovbe started on a fresh , page.
+
+6) Figures in brackets on the right hand side indicate fall marks.
+7) Assume suitable data if necessary.
+
+QI: Write Short Notes (any 2): (6 marks each) (12 Marks)
+
+a) Buying centre.
+
+b) Derived demand
+
+c) Entry strategies for international markets
+d) Trade shows.
+
+Q2: To satisfy the customers and market effectively in an industrial market a marketer must understand the differences
+between consumer markets and industrial markets. Explain the key differences between consumer markets and
+
+industrial markets. (12 Marks)
+Q3: Explain the product evaluation matrix and its usefulness in deciding product strategies.
+(12 Marks)
+Q4: As a marketing manager of a power transformer company, what are some of the factors you would consider before
+making a pricing decision? (12 Marks)
+Q5:
+A) Choose any industrial product of your choice. What are the different types of channel members you may use
+for the product? (6 Marks)
+B) Describe some strategies for motivating the channel members. (6 Marks)
+
+Yr
+--- page 2 ---
+Q6:
+
+A) Explain the steps in recruitment of sales force. (6 Marks)
+B) Describe some of the tools for motivation of sales force. (6 Marks)
+Qk
+A) What are the different types of purchases or buying situations? (6 Marks)
+B) Explain a method for evaluating supplier performance. (6 Marks)
+ee!
+````
+
+## 2017-18 · Re-Exam · Sem 8 · paper 755f3e9a6712
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing 2017-18 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 02 July 2018
+- Text: ocr (1 page), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+
+Programme: MBA Tech (All Streams) Year: IV Semestep Vi & ~
+
+TBRARY
+Batch: 2016-17 - EALBISA
+
+Academic Year: 2017-2018:
+Subject: Industrial Marketing
+
+Marks: 60 -
+
+Date: 02 July 2018 ° Time: 2.00 pm - 4.00 pm °
+Durations: 2 Hrs.
+No. of Pages : Q|
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql: Write Short Notes (any 2): (6 marks each) (12 Marks)
+
+a) Competitive Bidding
+b) Various strategies for entering industrial markets
+c) Selecting and Motivating Channel Intermediaries
+
+Q 2: Compare and Contrast B2C vs B2B marketing (12 marks)
+Q 3: Describe the buy-grid model of buyer behaviour in B2B markets (12 marks)
+Q 4) Describe the types of industrial products (12 marks)
+
+Q5: Describe the macro and micro variables used for-segmenting business markets (12 marks)
+
+Q 6: Write a note describing trade shows and telemarketing as too!s for promoting business products
+(12 marks)
+
+Q7: Describe the new product development process (12 marks)
+
+M
+````
+
+## 2016-17 · Exam not stated · Sem 8 · paper 3bb2b129f9da
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing 2015-16,2016-17.pdf`
+- Printed on paper: exam date: 12 July 2017
+- Text: ocr (1 page), mean OCR confidence 94.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) | Year: IV < Semester: VIII
+Batch: 2015-16 /2016-17 ~
+
+Academic Year: 2016-2017
+Subject: Industrial Marketing _
+
+Date: 12 July 2017 « Time
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1. is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Q1. Write short notes on any 2 of the following. (Each carries equal marks)
+
+a) Salient features of Industrial Markets sai
+b) Conflict resolution in decision making
+
+c) Value analysis
+
+d) Entry strategies for International markets
+
+Q2. Explain the different buying situations and phases in the purchasing decision as per the ‘Buy-grid’ model.
+Briefly explain the appropriate marketing strategy for the same.
+
+Q3. Explain the following
+
+a) Objectives in organizational buying
+b) Product evaluation matrix
+
+Q4. Describe the procedure for evaluation of potential segments and the process of target marketing.
+
+Q5. “Distributors are true middle-men”. Explain the statement, also explain the key differences. between
+industrial distributors and manufacturing representatives.
+
+Q6. Explain the factors effecting Industrial Pricing Decision.
+
+Q7. Explain the typical areas for sales training. Describe the different ways of organizing the sales force.
+
+t/4.
+````
+
+## 2016-17 · Final-Exam · Sem 8 · paper ad629fe2c785
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing Batch 2016-17 Final.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 18 April 2017
+- Text: ocr (1 page), mean OCR confidence 93.3
+
+````text
+BRARY iy
+
+“nes 3 eee
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+SVKM’s NMIMS
+
+Programme: MBA Tech (All streams), Year: IV Semester: VIII +
+Academic Year: 2016-17
+
+Subject: Industrial Marketing -
+
+Marks: 60
+. Time: 2.00 pm - 4.00 pm -
+Date: 18 April 2017 Durations: 2 Hrs -
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. >
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary .
+
+Q1: Write Short Notes (any 2): (6 marks each) : 12 Marks
+
+a) Characteristics of Industrial Marketing Customer.
+
+b) Enhanced and augmented properties of an Industrial Product.
+
+c) Use of Sales Promotion in Industrial Marketing.
+
+d) Environments differentiating Domestic & international marketing.
+
+Q2: Explain the different Basis for Segmenting the Industrial Market. 12 Marks
+Q3: In an Industrial buying scenario, what is a Buying Centre and the roles played by key members? "12 Marks
+Q4:
+
+4a) How are new products in Industrial Marketing Classified? 6 Marks
+4b) How should an Industrial Entity organize themselves for effective product development? 6 Marks
+Q5:
+
+Sa: What are the different Cost Centers in Total Cost Analysis of the Logistics of a company? 6 Marks
+Sb: Enumerate the advantages and disadvantages of various transportation modes. 6 Marks
+Q6: Explain the selling process with respect to an Industrial product such as Switch Gear. 12 marks
+
+Q7: You are the Marketing Head of an industrial organisation. What are the different Pricing Strategic Decisions that
+you can take and why? 12 Marks
+
+ah
+````
+
+## 2016-17 · Re-Exam · Sem 8 · paper 843e711fc14c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 18 April 2017
+- Text: ocr (1 page), mean OCR confidence 90.5
+
+````text
+i. | a e
+} (Cox iG
+a we
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG!
+
+Programme: MBA. Tech (All Streams) — . Year: IV ° Semester: VIII
+
+Batch: 2014-15 -
+Academic Year: 2016-17 -
+
+Subject: Industrial Marketing _ Marks: 60
+' Time: 2.00 pm - 4.00 pm
+Date: 18 April 2017 . Durations: 2 Hrs-
+
+No. of pages 4
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. »
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary .
+
+QI: Write Short Notes (any 2): (6 marks each) 12 Marks
+
+a) Derived Demand
+b) ROI Pricing
+
+c) Buying Centre
+d) Joint Demand
+
+Q2: What are the salient features that differentiate Industrial Marketing from Consumer Marketing? 12 Marks
+Q3: Explain the different buying situations and Phases in the Purchasing decision process as per Buygrid Model.
+
+12 Marks
+Q4: Explain the different basis for segmenting the Industrial Markets. 12 Marks
+QS: Briefly explain the different Factors that influence the Industrial Pricing Strategy. 12 Marks
+Q6: What are the uses of Advertising in the Industrial Market? 12 marks
+Q7: Briefly explain the selling process of an Industrial Product. 12 Marks
+
+if
+````
+
+## 2016-17 · Re-Exam · Sem 8 · paper 9a6d81448ece
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing Batch 2015-16 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 18 April 2017
+- Text: ocr (3 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & BRINE we i
+om ;
+‘
+
+Programme: MBA Tech (All Streams) ©   Year:IV ~*~ semestr ves a4 § wie WO
+Batch: 2015-16 ¢ 3 \ “
+Academic Year: 2016-17 ANS
+a ~ *
+Subject: Industrial Marketing < Marks: 60 .
+Time: 2.00 pm - 4.00-p:
+Date: 18 April 2017 ~ Durations: 2 Hrs~
+
+No. of pages 3
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+QI. CASE (12MKS) bd
+
+DOUBLE L COMPANY
+
+Double L was founded in 1957 by Mary and Phil Lamount as a part time business in their garage. Their
+expertise lied in electrical field and the dream of making.an electrical car always seemed far fetched. Phil
+Jr. seemed to have his parents expertise in technical competence. It was not until their son Phil Jr. went
+through a certification programme did their business dream start looking realistic.
+
+Initially he started with making inexpensive kitchen appliances with alloys.
+
+By 1981, Phil Jr. employed 32 people on its production lines and another 5 who looked at administrative
+duties, including a marketing manager Ralph Egerton. Ralph worked with industry reps and personally
+
+performed a small amount of direct marketing.
+
+By 1984, Phil Jr. had begun tinkering with the use of alloys in the development of an engine that could be
+
+used to power a lawn mower.
+In 1986, Phil Jr. completed nearly 50% of the work with improved and lighter engines, with alloys that
+
+could withstand higher temperatures than conventional lawn mower engines and thus permitted
+
+improvement in the new design.
+
+4/3
+--- page 2 ---
+Double L’s capital was however limited and was not allowing them to produce a line of mowers. Ralph
+was asked to contact the largest mower manufacturer in the US, Breeze Inc. Phil Jr. might have asked
+Ralph to contact other manufacturers as well but he reasoned that in their oligopsonist market each
+producer would want to make most out of a product differentiation.
+
+Ralph had met Mary in Breeze to crack the deal, but Mary would not allow him to meet anyone else in the
+organization, neither would she work on schedule and honor deadlines. The pressure was rising on Ralph
+as Phil Jr. was always very impatient.
+
+One day Ralph reported that Mary had given them a huge opportunity of sending their new motors to
+Breeze for testing, which would eventually give them their BIG order. Post sending the motor, there was
+no communication or follow up from Mary. After interrogating Ralph was told they Breeze was more
+convinces by a “new motor” developed by their competitor NR Sud and would go ahead with a contract
+
+with them.
+
+Ralph suddenly felt that probably Phil Jr. had set his price too high to crack the deal. Let down by Double
+L, Ralph jokingly asked Mary if they had an opening for a Marketing Manager! To which she was more
+than willing to have him with Breeze. ;
+
+A. Looking at the case, if Ralph was given a second chance, what should he have done to ensure the key
+
+account doesn’t go to their competitor? . (6 mks)
+
+B. What are factors affecting pricing decision of ny company. Specifically which of these factors are
+relevant for this company (6 mks)
+
+ATTEMPT ANY 4 OUT OF THE FOLLOWING
+
+Q2. If you were selling in both the commercial market and the government market, is it possible to adopt
+a single marketing strategy? Also, how is the purchasing pattern different in both the above mentioned
+
+markets? Support your answer with valid examples. (12mks)
+
+2/3
+--- page 3 ---
+Se ae
+
+Q3. Explain the process of Marketing Research and discuss the advantages of qualitative research over
+
+quantitative research. (12mks)
+
+Q4. Write short notes on (ANY 2) (12 mks)
+
+a) New Product Development Process
+b) Maintaining Indirect Channel Effectiveness
+
+c) Controlling the sales force
+
+QS. Using the Thomas and Shapiro Model, explain how industrial Markets are segmented. (12mks)
+
+Q6. What are the different modes of entry available to an Industrial Marketer to enter in an International
+
+Market? (12mks)
+
+Q7. What is the role of advertising in business marketing? What are the other major promotional tools
+
+used in business marketing? (12mks)
+````
+
+## 2015-16 · Final-Exam · Sem 8 · paper 218c0543ab9c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing 2015-16 Final.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 22/04/2016
+- Text: ocr (2 pages), mean OCR confidence 95.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
+
+Programme: MBA Tech (All Streams) Year: IV Ss
+
+Academic Year: 2015-16
+Subject: Industrial Marketing Marks: 60
+Time: 2.00 pm - 4.00 pm
+
+Date: 22/04/2016 Durations: 2 (hrs)
+
+Final Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1. CASE (12MKS)
+
+PRENTICE MACHINE. TOOLS
+
+Prentice was a moderate-size, regional producer of hand tools such as hammers, saws, chisels, bits etc.
+Competition came from a number of large national competitors, and many specialty producers. Low cost
+
+imports were a growing influence in the American market and represented about 10% of total sales.
+Prentice strategy had always been to price 10-15 percent below the level of top four competitors. The Co.
+spent almost nothing on advertising, relying instead upon price to generate sales in major retail outlets. It
+
+also had an active private-label program, which accounted for a growing 30% of its total sales.
+
+Prentice realized a tight 3% profit on sales which was a constant over the past 4 yrs despite market
+
+fluctuations.
+
+On Jan 15, 1979, one of the major competitors (no 3 brand) announced a national price program
+
+consisting of permanent price cuts of 10-25 percent at retail. Their objective seemed to buy market share.
+
+1/2
+--- page 2 ---
+Prentice had the following options —
+
+1. Do nothing —which will put the firm at a major disadvantage
+2. Immediately drop prices to match the competitor — which will cause severe retaliation with the
+competitors
+
+3. Some combination of marketing effort — which will give the firm some breathing time.
+
+4. Try to reduce internal cost — in order to try and match the competing prices.
+
+The firm had 6 salesmen who worked with distributors and sold a few large private accounts directly.
+
+Exclusive use of market reps would cost them typically 5% commission on direct sales.
+
+A) If Prentice was to relook at its pricing strategy in order to protect its market share, what factors would
+
+ically influence their pricing strategy decisions? (6mks)
+typ’
+
+B) Say Prentice was to use option 3 which is Using a combination Marketing effort, advise on how to
+promote their product to ensure that they do not lose out their clients to major brand no.3?
+
+(6mks)
+
+ATTEMPT ANY 4 OUT OF THE FOLLOWING
+
+Q2. How would the desire for stable relationships in the industrial market affect a firm’s ability to sell its
+
+products to a manufacturer currently buying from another source? (12mks)
+
+Q3. Does variable cost reduce with expansion of capacity. Support your answer with clear reasoning.
+
+(12 mks)
+Q4. Write short notes on (ANY 2) (12 mks)
+a) PLC Analysis
+b) Maintaining Indirect Channel Effectiveness
+c) Economics of Industrial Demand
+Q5. Comment on the new ways in which B2B commerce on the web offers to boost a company’s profits,
+efficiency, and strategic connections. (12 mks)
+
+Q6. Explain what are the Legal and Cultural aspects of International Marketing Environment? (12 mks)
+
+Q7. How are sales forces managed and deployed? |
+
+2/2
+
+(12mks)
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper 6bf78dfbb26f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing Batch 2014-15 Re Exam_6bf78dfbb2.pdf`
+- Printed on paper: exam date: 09 July 2016
+- Text: ocr (3 pages), mean OCR confidence 94.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+
+Academic Year: 2015-16
+
+Batch: 2014-15
+Subject: Industrial Marketing
+
+Date: 09 July 2016
+
+Re-Examination S : iP
+
+4
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. o
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Q1. CASE (12MKS)
+
+DOUBLE L COMPANY
+
+Double L was founded in 1957 by Mary and Phil Lamount as a part time business in their garage. Their
+expertise lied in electrical field and the dream of making an electrical car always seemed far fetched. Phil
+Jr. seemed to have his parents expertise in technical competence. It was not until their son Phil Jr. went
+through a certification programme did their business dream start looking realistic.
+
+Initially he started with making inexpensive kitchen appliances with alloys.
+
+By 1981, Phil Jr. employed 32 people on its production lines and another 5 who looked at administrative
+duties, including a marketing manager Ralph Egerton. Ralph worked with industry reps and personally
+
+performed a small amount of direct marketing.
+
+By 1984, Phil Jr. had begun tinkering with the use of alloys in the development of an engine that could be
+
+used to power a lawn mower.
+
+\/3
+--- page 2 ---
+In 1986, Phil Jr. completed nearly 50% of the work with improved and lighter engines, with alloys that
+could withstand higher temperatures than conventional lawn mower engines and thus permitted
+improvement in the new design.
+
+Double L’s capital was however limited and was not allowing them to produce a line of mowers. Ralph
+was asked to contact the largest mower manufacturer in the US, Breeze Inc. Phil Jr. might have asked
+Ralph to contact other manufacturers as well but he reasoned that in their oligopsonist market each
+producer would want to make most out of a product differentiation.
+
+Ralph had met Mary in Breeze to crack the deal, but Mary would not allow him to meet anyone else in the
+organization, neither would she work on schedule and honor deadlines. The pressure was rising on Ralph
+
+as Phil Jr. was always very impatient.
+
+One day Ralph reported that Mary had given them a huge opportunity of sending their new motors to
+
+Breeze for testing, which would eventually give them their BIG order. Post sending the motor, there was
+
+no communication or follow up from Mary. After interrogating Ralph
+
+convinces by a “new motor”
+
+was told they Breeze was more
+
+developed by their competitor NR Sud and would go ahead with a contract
+with them.
+
+Ralph suddenly felt that probably Phil Jr. had set his price too high to crack the deal. Let down by Double
+L, Ralph jokingly asked Mary if they had an opening for a Marketing Manager! To w
+
+than willing to have him with Breeze.
+
+hich she was more
+
+A. Looking at the case, if Ralph was given a second chance, what should he have done to ensure the key
+
+account doesn’t go to their competitor? . (6 mks)
+
+B. What are factors affecting pricing decision of ny company. Specifically which of these factors are
+relevant for this company (6 mks)
+
+ATTEMPT ANY 4 OUT OF THE FOLLOWING
+
+Q2. Using Porters 5 forces Model as a basis explain the following statement — “ Industrial firms can exert
+
+influence over their target markets and even competitors, but they can only sit and watch what happens in
+
+the macro environment” (12mks)
+
+0/3
+--- page 3 ---
+Q3. “ The differentiating opportunities are similar for marketers of all types of industrial products ”. Do
+
+ou agree? Why? 12mks
+Df
+
+Q4. Write short notes on (ANY Pa) (12 mks)
+a) New Product Development Process
+
+b) Maintaining Indirect Channel Effectiveness
+
+c) Controlling the sales force
+
+QS. Using the Thomas and Shapiro Model, explain how industrial Markets are segmented. (12mks)
+
+=
+Q6. Assume you are advising and directing your subordinate on the number of sales persons required for
+
+the business. How would you go about this task. Write down stepwise instructions to your subordinate.
+
+(12 mks)
+
+Q7. What factors influence changes in a product strategy? How and why do marketing strategies differ at
+various stages of Product Life Cycle (PLC) ? (12 mks)
+
+~
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper 10926bb8ba94
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing Batch 2015-16 Re Exam_10926bb8ba.pdf`
+- Printed on paper: exam date: 09 July 2016
+- Text: ocr (3 pages), mean OCR confidence 94.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+
+Academic Year: 2015-16 ”
+. ath LORE BF an
+Batch: 2015-16 yeas
+
+Subject: Industrial Marketing
+
+Marke: 60. ®
+
+3 CARY
+Time: 2.00 pm — 4.
+Date: 09 July 2016 Da eg P gogm
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+"5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+QI. CASE (12MKS)
+
+FRANK SUD FURNITURE
+
+Frank Sud Furniture (FSD) is one of the many small companies that abound in the furniture industry. The
+plants value is approx $15 million, and it employs 186 people in management and production. It deals in
+
+high priced and custom made furniture. It’s a small market but profitability is relatively high. Only a
+handful of custom manufacturers now exist.
+
+FSD has expanded 3 times since inception. Sales have traditionally been carried on by a very limited
+number of “ high class” outlets and company salespeople decorators. This allows FSD to have complete
+control over its marketing and production processes. The store works on a very small inventory which is
+supplemented by company catalogs. The Salesforce works through these catalogs only. The Co. also
+
+supports them with large show rooms. This is considered to be a really expensive sales structure by most
+furniture manufacturers.
+
+\
+t/2
+--- page 2 ---
+Mr. Sud now wants to change his marketing structure. Offers from fine furniture stores have been
+forthcoming regularly for years but have been rejected regularly on grounds that Mr. Sud will himself
+lose control. However, 2 large showrooms have requested Mr. Sud to handle their product.
+
+One, Sud showrooms of New York, with 5 showrooms on the east cost, has been increasingly persistent.
+It has approx. 30 decorators per showroom and one of the highest caliber showrooms in the east.
+
+Two, Knife and Tubes, has showrooms in Chicago, Dallas, LA and Denver. With 25 decorators per show
+
+room it would give FSD more coverage in large cities west of Mississippi.
+
+Both Co’s have offered to assimilate the present company sales personnel in their respective areas, and
+both have agreed to show substantial amount to FSD.
+
+FSD is now considering all possibilities.
+2
+
+A. Comment on the current Sales Structure of FSD. If FSD was to consider retraining it sales personnel,
+
+what are the areas which it could consider for training its sales staff? (6 mks)
+
+B. What are the different modes of promotions that FSD to could in order to leverage on this given
+
+opportunity? Justify. (6 mks)
+
+ATTEMPT ANY 4 OUT OF THE FOLLOWING
+
+Q2. Using Porters 5 forces Model as a basis explain the following statement — “ Industrial firms can exert
+
+influence over their target markets and even competitors, but they can only sit and watch what happens in
+
+the macro environment” (12mks)
+
+Q3. “ The differentiating opportunities are similar for marketers of all types of industrial products ”. Do
+
+you agree? Why? (12mks)
+
+aie
+--- page 3 ---
+Q4. Wnite short notes on (ANY 2) (12 mks)
+a) Systems Marketing
+
+b) Maintaining Indirect Channel Effectiveness
+
+c) Forward and Reverse Aggregator Model
+
+Q5. Explain the importance for a business to enter into an international market. Also explain the risks
+
+involved in entering into an international market. (12mks)
+
+Q6. Assume you are advising and directing your subordinate on the number of sales persons required for
+the business. How would you go about this task. Write down stepwise instructions to your subordinate.
+
+(12 mks)
+
+=
+
+Q7. What factors influence changes in a product strategy? How and why do marketing strategies differ at
+various stages of Product Life Cycle (PLC) ? (12 mks)
+
+3/3
+````
+
+## 2014-15 · Final-Exam · Sem 8 · paper 923db07a72d3
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing Batch 2014-15 Final Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 23/04/2015
+- Text: ocr (2 pages), mean OCR confidence 95.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+
+Academic Year: 2014-15 AST Rags.
+~mam te
+
+Subject: Industrial Marketing
+Marks: 60
+Date: 23/04/2015 Time: 2.00 p
+Durations: 2
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks of 12 each.
+
+5) Answer to each new question to be started on a fresh page.
+6) Assume Suitable data if necessary
+
+1. Write notes on any one
+a. Value Analysis
+b. Types of Industrial Products
+c. Microvariables of segmenting Industrial Markets
+
+2. Honda Motor Company has a major manufacturing plant that falls within your new sales territory.
+~ On your initial visit to this plant, you learn from a receptionist that the purchasing department is
+in the very preliminary stages of making a major purchase of the type of production equipment
+that you sell. First, how would you predict the likely composition of the buying center for this
+particular purchase? Second, what insights might be gathered concerning the relative influence
+that different organizational members might exert on the buying decision?
+
+3. Rattan a sales manager works for Aryan lubricants. He was successful in getting order from a
+large industrial giant by cultivating personal relationships with the purchase manager. He could
+get a trial order for 10 percent of the demand. How should Rattan go about converting his share
+from 10 percent to 70%. ?
+
+4. Describe specific product, market, and competitive conditions that lend themselves to: (a) a
+direct channel of distribution and (b) an indirect channel of distribution.
+
+5. Explain how learning curve influences pricing in industrial markets.
+6. Many experts argue that the persuasive power of advertising is grossly overestimated especially
+
+in the business market. If advertising doesn't persuade, what does it do, and describe any one
+other promotional method available to the marketer?
+
+4/2
+--- page 2 ---
+7. The Sales manager of Adarsh ERP Software with headquarters in Mumbai, is evaluating
+sending his sales team to Delhi and Poona markets in search of additional business. He estimates
+that he will be to generate sales worth Rs 3 crores from the 20 prospects in Delhi and 1 crore
+from 10 prospects in Poona markets. Is it profitable to send his sales team to these two markets.
+How would he arrive at this decision ? (State your assumptions if any)
+
+8. Compare and Contrast B2B versus B2C marketing?
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper ef359e4bdc41
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing Batch (2014-15) Re Exam.pdf`
+- Printed on paper: exam date: 07/07/2015
+- Text: ocr (1 page), mean OCR confidence 94.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: IV Semester: VIII
+
+Academic Year: 2014-15
+Batch: 2014-15
+
+Subject : Industrial Marketing Marks: 6)
+
+wa i Jee
+Time : 10 NGeA my
+Date : 07/07/2015 2 Seed
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks of 12 each.
+
+5) Answer to each new question to be started on a fresh page.
+6) Assume Suitable data if necessary
+
+1. Write notes on any one
+a. Bonoma and Shapiro’s Segmentation Model
+b. Sheth’s Model of Buyer Behavior
+
+2. Using an illustration of your choice, describe the factors that might move a purchasing manager
+to shift from a straight rebuy to a modified rebuy. Next, describe the steps that should be taken by
+both the “in” supplier and “out” supplier as a modified rebuy situation develops
+
+3. Write a note advising your sales manager on how to manage his channel members effectively.
+
+4. Are successful negotiations a result of personality trait? Discuss with a note on how to conduct
+negotiations effectively in B2B context?
+
+5. SKF retail point of sale software company invests a significant proportion of their promotional
+budget in trade shows. Management, however, wonders whether they are getting the proper
+return on this sizeable investment. Propose a set of guidelines that the firm might use in
+designing a more effective trade show communications strategy.
+
+6. State the strategic factors affecting pricing decisions.
+
+7. Describe any two methods of Vendor selection process ?
+
+_ 8. Mr. Rakesh has been working as a Marketing Manager of Kitchen Appliances for retail
+customers. Recently he has been given additional charge to focus on B2B customers. Should he
+continue with the same approach in marketing or change. Justify your stand.
+
+1/1
+````
+
+## 2013-14 · Re-Exam · Sem 8 · paper 9d998cdb4a8d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 22/04/2014
+- Text: ocr (1 page), mean OCR confidence 89.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME!
+
+s
+See a
+3 f Semester: 4/1
+
+Programme: MBA Tech (ALL STREAMS) Year: IV Re
+‘ a. LiBKARY A
+oN Ay
+
+.o
+Academic Year:2013-14 \ BA /
+tO
+. : . Mins uN” 2
+Subject :Industrial Marketing — —_
+Marks:50
+Date : 22/04/2014 Time : 10.30 am to 12.30 pm
+
+Durations:2 (hrs)
+Final Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+QI. Define Industrial marketing. How would you differentiate between Industrial markets and
+
+consumer markets. (10M)
+Q2. Explain in detail the macro variables as a basis to segment industrial markets (10M)
+Q3. Describe the strategies used by buyers to reduce vendor risk. ‘ (10M)
+
+Q4. What are the various pricing strategies considered by Industrial marketers while introducing
+a new product? (10M)
+
+QS. Explain the buying phases involved in “new task” along with marketing implications ? (10M)
+
+Q6. Explain the role played by various promotional methods used by Industrial marketers to
+market their products/services? (10M)
+
+Q7. Being the National Sales Manager of a multinational firm what areas do you feel important
+to be included while imparting training to the new sales recruits? (10M)
+
+OH
+````
+
+## 2013-14 · Re-Exam · Sem 8 · paper d861ad0b79b3
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/B2B Marketing/Industrial Marketing 2013-14 Re-exam_d861ad0b79.pdf`
+- Printed on paper: exam date: 04/07/2014
+- Text: ocr (1 page), mean OCR confidence 94.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL Stream) Year: IV Semester: VIII
+
+Academic Year: 2013-14
+
+Batch:2013-2014
+Subject : Industrial Marketing M
+
+Date :04/07/2014 Dura
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+QI. Purchasing considerations in the Resellers market has many similarities to industrial markets. Explain
+this phenomena. (10M)
+
+Q2. Write a short note on micro variables as a basis to segment industrial markets (10M)
+Q3. Define Value analysis. Describe the stepwise procedure of value analysis by General electric. (10M)
+
+Q4. Write short notes on (5*2=10M)
+1. Competitive Bidding
+2. Return on investment pricing
+
+Q5. Write detailed note on any one of the following (10M)
+(a) Factors influencing Joint Decision Making in industrial buying and marketing implications for sellers
+(b) Psychological Factors influencing Individual Decision Making and marketing implications for sellers
+
+Q6. Write short notes on (5*2=10M)
+1. Organising the sales force.
+2. Work load Analysis.
+
+Q7. Describe the strategies of maintaining indirect channel effectiveness (10M)
+
+x x
+
+I)
+````
 
 ## 2012-13 · Exam not stated · Trim 12 · paper cd7f0ea67d92
 
@@ -51,6 +1430,50 @@ consumer marketing research?
 branding process.
 7. What are the possible sources of conflict between a manufacturer and its agents (or
 representatives)? How these conflicts can be controlled or managed?
+````
+
+## 2012-13 · Re-Exam · Trim 12 · paper cad0c8667b1e
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Industrial marketing/INDUSTRIAL MARKETING BATCH 2011-12 RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: duration hours: 2; exam date: 2/5/2013
+- Text: text (1 page)
+
+````text
+-\ \ ,
+SVKM's NMIMS
+Mukesh Patel School of Technolorn Management & Enzineering.
+Programme: MBA (Tech)ALL STREAMS   Year: IV   Trimester:
+Academic Year :2012-2013
+Batch:   201 1-2012
+Subject:   INDUSTRIAL MARKEING   Marks:
+Time:
+Date:   2/5/2013   Duration:   2 hrs.
+Re - Examination
+Instructions: Candidates should carefully read the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+Note: This question paper consists of a single page. Answer any five questions carrving equal
+marks. Answer to each question to be started on a fresh page. Figures in brackets on the
+r i ~ h hand t   side indicate marks.
+1. Describe the Buygrid model describing its three buying situations and eight phases in the buying
+decision process.?
+2. (a)What are the types of industrial distributors? (7 marks)
+(b)What are the primary functions of a channel in industrial markets? (3 marks)
+3. Draw the factors influencing segmentation of industrial products ? Briefly explain any one factor
+influencing industrial segmentation strategy (10 marks)
+4. Write a note on any two of the following (2 x 5 marks)
+a) lnternational pricing
+b) lnternational PLC
+1
+c)   lnternational supply chain management ; and Differential advantages in international
+distribution.
+5. What are the conditions under which industrial marketers may choose the direct or indirect
+sales channel   (10 marks)
+6.   ji) Explain pricing strategies withrespect to the foilowing
+(a) New product introduction   (3 marks)
+(b)PLC stages besides introduction (3 marks)
+(ii) Explain Discount Pricing policies   (4 marks)
 ````
 
 ## 2012-13 · Re-Exam · Trim 12 · paper b16edbe92c6a
@@ -114,6 +1537,7 @@ the importance of consultants in lndustrial Marketing.
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Industrial marketing/INDUSTRIAL MARKETING 2011-120001.pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 02/05/2012
 - Text: ocr (2 pages), mean OCR confidence 92.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -182,112 +1606,8 @@ marketing is required to handle these industrial customers. (10 Marks)
 Is determination of optimum price levels a difficult task in industrial markets? Explain
 and illustrate, How are pricing decisions taken in industrial marketing? (10 Marks)
 
-FR OK KR OR KR KE EK EK
 
 Page Lof 2
-````
-
-## 2011 · Exam not stated · Trim 12 · paper 4aa6c16ac81c
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Industrial marketing/INDUSTRIAL MARKETING 2011.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 25/04/2011
-- Text: ocr (1 page), mean OCR confidence 93.0
-
-````text
-rR ee nt ee ene een
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
-Academic Year : 2010-2011
-
-Subject: Industrial Marketing Marks: 50
-Time: 2.00 pm To 4.00 pm
-Date: 25/04/2011 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the
-
-1. Attempt any five questions.
-
-2. Each question carries 10 marks
-
-3.. Answer to each new.question to be started on a fresh page
-
-4. Only first five answers will be evaluated
-
-1) What is Buygrid model? Give examples.
-
-2) Draw the flow of decision approach in STP process for industrial marketers. Explain macro
-and micro segmentation factors. Explain with examples.
-
-3) Explain the Webster and Wind model in organizational decision-making. Give one example.
-
-4) As an industrial buyer, what factors you will look for in a supplier? Explain with examples.
-
-5) What are the four product strategies? What are the different product strategies to be used on
-the four stages of lifecycle of an industrial product? Give examples.
-
-6) If you are the head of marketing of an industrial marketing firm and would like to develop
-new marketing channels for new products, what procedure will you follow?
-
-7) What are the strategies for pricing new products? Give examples.
-
-8) What are the six different roles of buying center? Give one example of each.
-
-9) State any four types of demand in industrial markets. Explain each with examples.
-
-10) What are the four different types of industrial customers? Give one example of each type.
-
-Page 1of1
-````
-
-## 2011-12 · Re-Exam · Trim 12 · paper cad0c8667b1e
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Industrial marketing/INDUSTRIAL MARKETING BATCH 2011-12 RE EXAM.pdf` (+2 identical copies)
-- Printed on paper: duration hours: 2; exam date: 2/5/2013
-- Text: text (1 page)
-
-````text
--\ \ ,
-SVKM's NMIMS
-Mukesh Patel School of Technolorn Management & Enzineering.
-Programme: MBA (Tech)ALL STREAMS   Year: IV   Trimester:
-Academic Year :2012-2013
-Batch:   201 1-2012
-Subject:   INDUSTRIAL MARKEING   Marks:
-Time:
-Date:   2/5/2013   Duration:   2 hrs.
-Re - Examination
-Instructions: Candidates should carefully read the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-Note: This question paper consists of a single page. Answer any five questions carrving equal
-marks. Answer to each question to be started on a fresh page. Figures in brackets on the
-r i ~ h hand t   side indicate marks.
-1. Describe the Buygrid model describing its three buying situations and eight phases in the buying
-decision process.?
-2. (a)What are the types of industrial distributors? (7 marks)
-(b)What are the primary functions of a channel in industrial markets? (3 marks)
-3. Draw the factors influencing segmentation of industrial products ? Briefly explain any one factor
-influencing industrial segmentation strategy (10 marks)
-4. Write a note on any two of the following (2 x 5 marks)
-a) lnternational pricing
-b) lnternational PLC
-1
-c)   lnternational supply chain management ; and Differential advantages in international
-distribution.
-5. What are the conditions under which industrial marketers may choose the direct or indirect
-sales channel   (10 marks)
-6.   ji) Explain pricing strategies withrespect to the foilowing
-(a) New product introduction   (3 marks)
-(b)PLC stages besides introduction (3 marks)
-(ii) Explain Discount Pricing policies   (4 marks)
 ````
 
 ## 2011-12 · Re-Exam · Trim 12 · paper fbd05d884614
@@ -362,6 +1682,65 @@ example the various strategies of distribution. (10 Marks)
 marketing logistics. (10 Marks)
 
 Page Zof 2
+````
+
+## 2010-11 · Exam not stated · Trim 12 · paper 4aa6c16ac81c
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Industrial marketing/INDUSTRIAL MARKETING 2011.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 25/04/2011
+- Text: ocr (1 page), mean OCR confidence 93.0
+
+````text
+rR ee nt ee ene een
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
+Academic Year : 2010-2011
+
+Subject: Industrial Marketing Marks: 50
+Time: 2.00 pm To 4.00 pm
+Date: 25/04/2011 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the
+
+1. Attempt any five questions.
+
+2. Each question carries 10 marks
+
+3.. Answer to each new.question to be started on a fresh page
+
+4. Only first five answers will be evaluated
+
+1) What is Buygrid model? Give examples.
+
+2) Draw the flow of decision approach in STP process for industrial marketers. Explain macro
+and micro segmentation factors. Explain with examples.
+
+3) Explain the Webster and Wind model in organizational decision-making. Give one example.
+
+4) As an industrial buyer, what factors you will look for in a supplier? Explain with examples.
+
+5) What are the four product strategies? What are the different product strategies to be used on
+the four stages of lifecycle of an industrial product? Give examples.
+
+6) If you are the head of marketing of an industrial marketing firm and would like to develop
+new marketing channels for new products, what procedure will you follow?
+
+7) What are the strategies for pricing new products? Give examples.
+
+8) What are the six different roles of buying center? Give one example of each.
+
+9) State any four types of demand in industrial markets. Explain each with examples.
+
+10) What are the four different types of industrial customers? Give one example of each type.
+
+Page 1of1
 ````
 
 ## 2009-10 · Re-Exam · Trim 12 · paper 8c225071fa63
@@ -610,240 +1989,6 @@ Question VI. Explain the steps in New Product Development Process
 Question VII. Write a note on managing channel members.
 
 ——_———x 7
-````
-
-## 2008-09 · Re-Exam · Trim 12 · paper 8d67d7d83e6c
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Industrial marketing/2008-2009 re exam(90).pdf` (+1 identical copies)
-- Text: ocr (4 pages), mean OCR confidence 91.6
-
-````text
-SVKM’S NMIMS UNIVERSITY on sae
-IF a» 2 V0)
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & 9 ~\ »~
-ENGINEERING
-
-MUMBAI / S33RFGR—
-MBA (Tech) Programme IV Year , XII Trimester, 2
-Subject: Strategic Management i
-Date: 1b-06-0 G Time Allowed: ~
-
-instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1. All questions are compulsory.
-2. All question carry equal marks ic t@-each.
-3. Answer to each new question to be started on a fresh page.
-
-Q 1.1 to 1.10 : Multiple choice questions. Please select only 1 option. In the answer sheet,
-write only the sub- question no. and it’s appropriate option.
-
-i. At what stage is the threat from competitors at its peak in an industry?
-
-a Introduction
-
-b. Growth stage.
-
-c Maturity stage.
-d Shakeout stage
-e Re-launch Stage
-
-1.2 describe its products, market and technological areas of thrust and reflects
-the values and priorities of the strategic decision maker.
-
-a. A company’s profile.
-
-b. A company’s mission.
-
-c. A company’s objectives.
-
-d. Acompany’s policy.
-
-e. Acompany’s corporate strategy
-
-1,3. Which marketing tool uses multiple factors to assess industry attractiveness.and
-business strength?
-
-a. The GE Grid
-
-b. = The BCG matrix.
-
-c. The Turnaround strategy.
-d. SWOT analysis.
-
-e. Ansoff’s Matrix
-
-i.4 What is the main difference between cost leadership, differentiation, and focus
-strategies?
-
-a. Cost leadership and differentiation are highly expensive strategies, whereas
-
-focus is a low cost strategy.
---- page 2 ---
-b Cost leadership and differentiation focus on one particular market segment,
-whereas a focus strategy concentrates on all the market segments.
-
-¢. Cost leadership and differentiation are aimed at the total industry; whereas a
-focus strategy is aimed at a particular target market.
-
-d Cost leadership and differentiation are company specific, whereas focus is
-industry specific.
-
-e. Focus aims at global market, whereas the other two aim for regional markets
-
-1.5 Technological transfer, market sharing and investment sharing are seen in -
-
-1.6
-
-1.7
-
-1.8
-
-1.9
-
-a Acquisitions.
-
-b Management contracts.
-c Turnkey operations.
-
-d Divestiture
-
-e. Joint ventures.
-
-Who develops the short range objectives and strategies for production, operation,
-marketing etc?
-
-a Corporate level managers.
-
-b Business level managers.
-
-c Functional level managers
-d= Multi-business level managers
-e. Consultants
-
-In comparison with the Corporate Level decisions, the functional level decisions
-
-are relatively
-(a) Short range plan, with high risk
-(b) Short range plan, with low risk
-(c) Long range plan, with high risk
-(d) Long range plan, with low risk
-(e) Medium range plan, with no risk
-
-Costs incurred by customers, when they change the present supplier and buy from a
-new supplier is called as -
-
-a. Shift over costs
-
-b, Change over costs
-c. New supplier costs
-d. Switching costs
-
-e. None of the above
-
-Indian oil integrated from refilling, packing and bottling, to marketing and
-distribution. This integration is called
-
-a.Concentric integration
-
-b. Conglomerate integration
-c. Horizontal integration
-
-d. Vertical forward integration
-e. Vertical backward integration
-
-PTO
---- page 3 ---
-—~ 2
-
-1.10 Following is not a desirable strategy for an established firm in declining industry
-a. Maintain leadership vis-a-vis competitors
-b. Invest in expansion
-c. Build position in a Niche segment that is stable
-d. Harvest
-€. Quickly divest
-
-Part B-
-Q.2 To achieve competitive advantage via cost leadership, strategists examine the
-Business value chain for low cost leadership advantages
-a) What are the advantages of Low cost strategy (3)
-b) What are the key risks involved with a low cost strategy (3)
-c) Draw the value chain for a company’s low cost strategy indicating the value
-
-creating activities and explain 4
-
-Q.3 Analyze the competitive position of your Business school in the market for
-business education. Then answer the following questions:
-
-a) Does your business school have a competitive advantage? If yes, what is that?
-
-If no, identify the inhibiting factors (5)
-b) Does the internet pose a threat to the competitive position of your School or is it
-an opportunity to enhance its competitive position? (5)
-QA Write short Notes on any two; (2X5)
-
-a) GE Nine cell Matrix
-b) Difference between Taper Integration, Quasi Integration and Joint Venture
-¢) Strategies adopted by the top 100 companies in the RDEs ( and 21 Indian
-
-companies ) to become global
-
-PTO
---- page 4 ---
-——_4y —
-Part C
-
-Following is the Credo Statement adopted by a leading healthcare company. Please
-read it and answer the questions below suitably.
-
-Our Credo
-
-We believe our first responsibility is to the doctors, nurses and patients, to
-mothers and fathers and all others who use our products and services. In meeting their
-needs everything we do must be of high quality.
-
-We must constantly strive to reduce our costs in order to maintain reasonable
-prices. Customer’s orders must be serviced promptly and accurately. Our suppliers and
-distributors must have an opportunity to make a fair profit.
-
-We are responsible to our employees, the men and women who work with us
-throughout the world. Everyone must be considered as an individual. We must respect
-their dignity and recognize their merit. They must have a sense of security in their jobs.
-Compensation must be fair and adequate, and working conditions clean, orderly and safe.
-
-We must be mindful of ways to help our employees fulfill their family
-responsibilities. Employees must feel free to make suggestions and complaints. There
-must be equal opportunity for employment, development and advancement for those
-qualified.
-
-We must provide competent management, and their actions must be just and
-ethical. We are responsible to the communities in which we live and work and to the
-world community as well.
-
-We must be good citizens — support good works and charities and bear our fair
-share of taxes. We must encourage civic improvements and better health and education.
-‘We must maintain in good order the property we are privileged to use, protecting the
-environment and natural resources.
-
-Our final responsibility is to our stockholders. Business must make a sound
-profit. We must experiment with new ideas. Research must be carried on, innovative
-programs developed and mistakes paid for. New equipment must be purchased, new
-facilities provided and new products launched.
-
-Reserves must be created to provide for adverse times. When we operate
-according to these principles, the stockholders should realize a fair return.
-
-Q3a. On the test criteria of Mission Statement, does this Credo fulfil the requirements,
-according to you? Discuss in brief (4)
-
-b. Based on the directives given in this credo, can you suggest 2 strategies each in the
-area of — marketing, finance and operations? (6)
-
-~—
-
-ae
 ````
 
 ## 2007-08 · Exam not stated · Trim 12 · paper d7350a9e8cd3

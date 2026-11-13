@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Introduction to Business Statistics, Analytics & Modeling-I(702BS0C018)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Introduction to Business Statistics, Analytics & Modeling-I(702BS0C018)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Introduction to Business Statistics, Analytics & Modeling-I(702BS0C018)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Introduction to Business Statistics, Analytics & Modeling-I(702BS0C018)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Introduction to Business Statistics, Analytics & Modeling-I(702BS0C018)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Introduction to Business Statistics, Analytics & Modeling-I(702BS0C018)_2024-2025.pdf |
 | 2022-23 | — | Question paper | Sem 2 | B TECH | Introduction to Business Statistics, Analytics & Modeling-I, Sem-II, Year 2022-23_c8bb8478.pdf [1] |
 | 2021 | — | Question paper | Sem 2 | B TECH | Introduction to Business Statistics, Analytics & Medeling-I, Sem-II, Batch 2021-2_7ee64aff.pdf [2] |
 | 2021-22 | — | Question paper | Sem 2 | B TECH | Introduction to Business Statistics, Analytics & Modeling-I, Batch 2021-22, 2022-_53c105ef.pdf [3] |

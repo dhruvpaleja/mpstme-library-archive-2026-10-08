@@ -2586,38 +2586,38 @@ help achieving the desired objectives.
 ********** 4 **********
 ````
 
-## 2021-22 · Final-Exam · Sem 8 · paper d33dc654ebf6
+## 2023-24 · Exam not stated · Sem 8 · paper d0e9254365c8
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Business Research Methods/Business Research Methods,Sem8,Final,2021-22.pdf`
-- Printed on paper: max marks: 100; duration hours: 2; exam date: 11 April 2022
-- Text: ocr (2 pages), mean OCR confidence 88.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Business Research Methods/Business Research Methods_d0e9254365.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 88.1
 
 ````text
-SVKM’s NMIMS \
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT é ENGINEERING SS
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ~~~
+SVKM’S NMIMS
 
-/ Academic Year: 2021-22
-Programme: MBA Tech (All Stream) Year: IV Semester: VIII
-Subject: Business Research Methods
-Marks: 100
-Date: 11 April 2022 Time: 2.00 pm to 4.00 pm
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024 .
+Program/s: MBA Tech . :
 
-Durations: 2 (hrs)
+Stream/s ; All Streams
 
-No. of Pages: __ O92
-Final Examination
+" Subject: Business Research Methods / . Time: 2 hrs (40-am to 42-noo
+
+Date:_23 /04 /.2024° ' No. of Pages:_2
+Marks: 50
+
+Final Examination/Re-Examination (2021-22)
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+’ of the Answer Book, which is provided for their use.
 
 1) Question No. _1___ is compulsory.
 
-2) Out of remaining questions, attempt any __4 _ questions.
+2) Out of remaining questions, attempt any__4 _ questions.
 
-3) In all___5_ questions to be attempted.
+3) Inall__5_ questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -2626,80 +2626,73 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Read the scenario and answer the questions that follow:
+Read the scenario and answer the following questions:
 
-Story of a group of Artisans from a town located in Narayanpur,
-Chhattisgarh, India: These Artisans are specialized in developing creative
-handicrafts especially from bamboo. Their products are mostly the décor
-items. The raw material bamboo is available in abundance in these regions.
-Most of the Artisans belong to the local tribes and have mastered the art of
-creating beautiful handcrafted toys, flutes, wooden trays, mugs, special
-bamboo curtains, wooden body for wall clocks, pen / pencil stands and
-wooden deity idols. These products have made their way into the Indian
+Employee turnover is 40 percent within the first three years of recruitment. This is
 
-1 homes as well as international through traditional means and methods. in
-the recent years this region has seen substantial development in
-infrastructure with good roads, emergence of new regional banks, new
-schoo! buildings etc. This has led to moderate growth in both public and
-private transportation. Although, Handicraft products of this region is now
-able to find new customers who travel to their locality for direct purchase
-but, many people mostly prefer to buy these crafts online, which is thus
-hampering their overall sales as claimed by these local Artisans. This has
-compelled the Artisans to sell their produce to middleman for very little
-profits. Handicraft Council of India is planning to provide a feasible
-solution to all such Artisans in the country so that these Artisans can sell
-their crafts online through Government support.
+Ql ; undesirable since turnover has a negative effect on productivity, it brings about extra [10 Marks]
+arks
+costs and it leads to less profits. The management objective is to reduce undesirable
+employee turnover within the next 12 months. A researcher wants to provide valuable
+insights for decision makers, after analyzing the situation.
+a. . .
+. Formulate research questions (any two) and state the research problem for the above
+CO-1; : [4 Marks] -
+BL- Create scenario.
 
-tp
+b. | Develop a conceptual model that describes the relationship between the dependent
+
+CO-2,3; BL- variable and thé independent variables and a moderating variable if any, for the above [4 Marks]
+create
+
+scenario.
+CO-2,3; BL- c. | Develop the hypotheses (at least two) for the above scenario. [2 Marks]
+create . ;
+Q2 Answer the following questions: , | [10 Marks]
 --- page 2 ---
-Develop a conceptual model that describes the relationship between the
-CO-1,2; SO- ;
+‘a. | Explain in what ways can researchers critically evaluate and synthesize conflicting }.
 
-BL- dependent variable, at least two independent variables, and either a ks
-<i mar!
-Application moderating or a mediating variable.
-CO-1,2; SO-; | b. | Develop the problem statement and formulate the hypotheses for the above | 10
-pps tion scenario. marks
-Q2 a |. oo, a ee
-: First step in a literature review involves the identification of various | 10
-CO-1,2; SO-; . . . .
-§ BL- published and unpublished materials. Discuss. marks
-: Application
-* CO-3; SO-; b. | Distinguish between cross-sectional and longitudinal designs by giving iD
-BL- suitable examples. In what situations would you recommend the usage of i
-_ marks
-Application one over the other?
-Q3 a) . ; . .
-dod 80 Discuss the aspects to be considered while making decision on the sample | 10
-BL- , , size needed to do research? marks
-Application
-CO-3; SO-; b. . . . :
-+a, Design a questionnaire on any hypothetical topic related to management 10
-research using appropriate scales. marks
-Application
-Q4 a. .
-Discuss different methods of data collection from primary sources with 10
-CO-4; SO-; :
-suitable examples.
-BL- marks
-Application
-CO-4; SO-; b. | «4 valid instrument is always reliable, but a reliable instrument may not 10
-BL- always be valid”. Explain. "
-Application marks
-Q5 os . a . a .
-Describe in brief following multivariate techniques giving assumptions 20
-CO-4; SO-; and applications in business for each.
-BL- a) Cluster Analysis (10 marks) marks
-_ Application b) Principle Component Analysis (10 marks)
-Q6
-CO-1; SO-; Explain the various steps involved in developing a research proposal, with ad
-BL- a suitable example. marks
-Application
-
-z Je
+Fie findings within the existing literature, and how does this process contribute to the
+ae tie dept, ps . . [5 Marks] .
+un derstan d idéntification of research gaps and the refinement of research questions*for their own |" ~
+study? : ;
+b. | Explain how can businesses ensure the alignment.of their research objectives with
+CO-1; overall organizational goals, and what challenges may arise in the early stages of
+BL- . . ena [5 Marks]
+introducing research initiatives?
+understand
+Q3 5
+Answer the following questions: . _ | [L0 marks]
+CO-2,3; Explain the concept of systematic sampling and stratified sampling, with suitable
+BL a. | examples. [5 Marks]
+understand
+CO-2,3; b. . ;
+BL- Discuss the issues of precision and confidence in determining sample size. [5 Marks]
+understand : :
+Q4 Answer the following questions: [10 marks]
+: a. | Discuss briefly the different rating scales (any five) used in business research with
+CO-2,3; BL- : : [5 Marks]
+apply . suitable examples.
+CO-2,3;BL- | b. ;
+apply, Describe the means by which the reliability and validity of measures can be assessed. | [5 Marks]
+understand
+Q5 Discuss the advantages and disadvantages of.various-data collection methods in
+CO-2,3: BL- [10 Marks]
+oa) survey research.
+understand :
+You work for an e-commerce company that wants to enhance its marketing strategies
+by tailoring promotions and communication to different customer segments. The
+Q6 company has a vast customer base, and there is a need to identify distinct groups of
+CO-2,3; BL- |° customers based on their purchasing behavior. : ~ | [LO Marks]
+apply Enumerate the variables that could possibly be taken to conduct the research. Also,
+— mention and justify the choice of the technique to be used for such a work.
+Q7 Discuss briefly the following:
+CO-2,3; BL- 1. Narrative Analysis . | [10 Marks]
+understand, 2. Content analysis
+remember
 ````
 
-## 2021-22 · Re-Exam · Sem 8 · paper 4153485800fd
+## 2023-24 · Re-Exam · Sem 8 · paper 4153485800fd
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -2803,119 +2796,7 @@ understand,ap
 ply
 ````
 
-## 2021-22 · Re-Exam · Sem 8 · paper 7807e93bb4df
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Business Research Methods/Business Research Methods , Re-exam 2021-22_7807e93bb4.pdf`
-- Printed on paper: max marks: 100; duration hours: 2; exam date: 13 June 2022
-- Text: ocr (2 pages), mean OCR confidence 90.1
-
-````text
-“
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING . /
-
-Academic Year: 2021-22
-
-Programme: MBA Tech (All Stream) Year: IV Semester: VIII
-Subject: Business Research Methods
-. Marks: 100
-Date: 13 June 2022 Time: 10.00 am to 12.00 noon
-
-Durations: 2 (Hrs)
-No. of Pages: _ aa
-Re-Examination (2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper.and on the cover
-of the Answer Book, which is provided for their use. 7
-
-1) Question No. _1__ is compulsory. f
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5__ questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-
-5) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Read the scenario and answer the questions that follow:
-
-During Pandemic times, online education was the need of the hour and Work
-from Home (WFH) became absolute necessity, virtual meetings a new norm.
-Globally travel restrictions are now relaxed and educational institutions
-switching to offline mode. However certain percentage of online education may
-continue to exist. It is predicted that by this year end there will be almost 50%
-
-Qi decline in the use of Virtual Meetings Application (viz. MS Teams, Zoom etc.)
-subscriptions. This can be a cause of concern for all these software companies
-who had been developing these applications as there can be substantial decrease
-in their future revenues. Also, it is likely to impact the sales of the hardware.
-(viz. laptops, Desktops, Computer accessories, smart phones etc.). These
-Software Companies allocate and spend a considerable capital expenditure for
-their. R&D and HR (hiring of specialized teams for App developments). These
-companies’ want to survey and check how many subscriptions will be active in
-next 12 months.
-
-CO-1,2; SO- | a | Develop a conceptual model that describes the relationship between the
-
-‘ei dependent variable, at least two independent variables, and a moderating | 10 marks
-
-Application variable.
-
-Che SO- |b. Develop the problem statement and formulate the hypotheses for the —
-marks
-
-BL- above scenario.
-
-Application
---- page 2 ---
-Q2 a. | Critical review of the literature will spark many useful insights on your
-
-CO-1,2; SO-; research topic and will allow you to make informed business decisions. | 10 marks
-_ Explain
-Application brain.
-b. | Describe the classifications of research designs, stating the distinguishing
-a 80s; features of each classification. Differentiate by giving appropriate
-- 10 marks
-Application euamplen
-Q3 a. | Explain the characteristics of a good sample? Discuss any two methods
-CO-3; SO-; used for collecting a sample from a population with suitable 10 marks
-BL-
-Application a id
-CO-3; SO-; | b. . . .
-You are conducting a study to assess consumer satisfaction with an
-BL- . . . . 10 marks
-airline. Design a questionnaire that can be used for this study.
-
-Application
-Q4 a.
-CO-4: SO-: Discuss the factors affecting reliability in a research process? Why is it 10 :
-
-; ; " marks
-BL- important to establish “Goodness” of measure and how is it done?
-Application
-CO-4; SO-; | b. | Describe Qualitative research and its application in business decision
-
-pp
-
-BL- making with suitable examples. 10 marks
-Application
-= Describe cluster analysis. Explain in brief the underlying assumption of
-_ 80-5 the technique. Also, give one application of the technique in Business 20 marks
-Application Management.
-Q6
-CO-1: SO-: Discuss in detail about the guidelines to be followed to formulate a —"
-
-> > marks
-BL- research report, with a suitable example.
-Application
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper f41ab1ab7197
+## 2022-23 · Exam not stated · Sem 8 · paper f41ab1ab7197
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -3059,113 +2940,7 @@ Understand, dining facilities.
 Create
 ````
 
-## Year not stated · Exam not stated · Sem 8 · paper d0e9254365c8
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Business Research Methods/Business Research Methods_d0e9254365.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 88.1
-
-````text
-SVKM’S NMIMS
-
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024 .
-Program/s: MBA Tech . :
-
-Stream/s ; All Streams
-
-" Subject: Business Research Methods / . Time: 2 hrs (40-am to 42-noo
-
-Date:_23 /04 /.2024° ' No. of Pages:_2
-Marks: 50
-
-Final Examination/Re-Examination (2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-’ of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Read the scenario and answer the following questions:
-
-Employee turnover is 40 percent within the first three years of recruitment. This is
-
-Ql ; undesirable since turnover has a negative effect on productivity, it brings about extra [10 Marks]
-arks
-costs and it leads to less profits. The management objective is to reduce undesirable
-employee turnover within the next 12 months. A researcher wants to provide valuable
-insights for decision makers, after analyzing the situation.
-a. . .
-. Formulate research questions (any two) and state the research problem for the above
-CO-1; : [4 Marks] -
-BL- Create scenario.
-
-b. | Develop a conceptual model that describes the relationship between the dependent
-
-CO-2,3; BL- variable and thé independent variables and a moderating variable if any, for the above [4 Marks]
-create
-
-scenario.
-CO-2,3; BL- c. | Develop the hypotheses (at least two) for the above scenario. [2 Marks]
-create . ;
-Q2 Answer the following questions: , | [10 Marks]
---- page 2 ---
-‘a. | Explain in what ways can researchers critically evaluate and synthesize conflicting }.
-
-Fie findings within the existing literature, and how does this process contribute to the
-ae tie dept, ps . . [5 Marks] .
-un derstan d idéntification of research gaps and the refinement of research questions*for their own |" ~
-study? : ;
-b. | Explain how can businesses ensure the alignment.of their research objectives with
-CO-1; overall organizational goals, and what challenges may arise in the early stages of
-BL- . . ena [5 Marks]
-introducing research initiatives?
-understand
-Q3 5
-Answer the following questions: . _ | [L0 marks]
-CO-2,3; Explain the concept of systematic sampling and stratified sampling, with suitable
-BL a. | examples. [5 Marks]
-understand
-CO-2,3; b. . ;
-BL- Discuss the issues of precision and confidence in determining sample size. [5 Marks]
-understand : :
-Q4 Answer the following questions: [10 marks]
-: a. | Discuss briefly the different rating scales (any five) used in business research with
-CO-2,3; BL- : : [5 Marks]
-apply . suitable examples.
-CO-2,3;BL- | b. ;
-apply, Describe the means by which the reliability and validity of measures can be assessed. | [5 Marks]
-understand
-Q5 Discuss the advantages and disadvantages of.various-data collection methods in
-CO-2,3: BL- [10 Marks]
-oa) survey research.
-understand :
-You work for an e-commerce company that wants to enhance its marketing strategies
-by tailoring promotions and communication to different customer segments. The
-Q6 company has a vast customer base, and there is a need to identify distinct groups of
-CO-2,3; BL- |° customers based on their purchasing behavior. : ~ | [LO Marks]
-apply Enumerate the variables that could possibly be taken to conduct the research. Also,
-— mention and justify the choice of the technique to be used for such a work.
-Q7 Discuss briefly the following:
-CO-2,3; BL- 1. Narrative Analysis . | [10 Marks]
-understand, 2. Content analysis
-remember
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper e65bb0e817f5
+## 2022-23 · Exam not stated · Sem 8 · paper e65bb0e817f5
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -3262,4 +3037,229 @@ CO-2,3; . . .
 he uestions to be asked while studying the demographic profile of a
 BL- Apply, q oe ———EE———e Marks]
 Create consumer while doing market research.
+````
+
+## 2021-22 · Final-Exam · Sem 8 · paper d33dc654ebf6
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Business Research Methods/Business Research Methods,Sem8,Final,2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 2; exam date: 11 April 2022
+- Text: ocr (2 pages), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT é ENGINEERING SS
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ~~~
+
+/ Academic Year: 2021-22
+Programme: MBA Tech (All Stream) Year: IV Semester: VIII
+Subject: Business Research Methods
+Marks: 100
+Date: 11 April 2022 Time: 2.00 pm to 4.00 pm
+
+Durations: 2 (hrs)
+
+No. of Pages: __ O92
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Read the scenario and answer the questions that follow:
+
+Story of a group of Artisans from a town located in Narayanpur,
+Chhattisgarh, India: These Artisans are specialized in developing creative
+handicrafts especially from bamboo. Their products are mostly the décor
+items. The raw material bamboo is available in abundance in these regions.
+Most of the Artisans belong to the local tribes and have mastered the art of
+creating beautiful handcrafted toys, flutes, wooden trays, mugs, special
+bamboo curtains, wooden body for wall clocks, pen / pencil stands and
+wooden deity idols. These products have made their way into the Indian
+
+1 homes as well as international through traditional means and methods. in
+the recent years this region has seen substantial development in
+infrastructure with good roads, emergence of new regional banks, new
+schoo! buildings etc. This has led to moderate growth in both public and
+private transportation. Although, Handicraft products of this region is now
+able to find new customers who travel to their locality for direct purchase
+but, many people mostly prefer to buy these crafts online, which is thus
+hampering their overall sales as claimed by these local Artisans. This has
+compelled the Artisans to sell their produce to middleman for very little
+profits. Handicraft Council of India is planning to provide a feasible
+solution to all such Artisans in the country so that these Artisans can sell
+their crafts online through Government support.
+
+tp
+--- page 2 ---
+Develop a conceptual model that describes the relationship between the
+CO-1,2; SO- ;
+
+BL- dependent variable, at least two independent variables, and either a ks
+<i mar!
+Application moderating or a mediating variable.
+CO-1,2; SO-; | b. | Develop the problem statement and formulate the hypotheses for the above | 10
+pps tion scenario. marks
+Q2 a |. oo, a ee
+: First step in a literature review involves the identification of various | 10
+CO-1,2; SO-; . . . .
+§ BL- published and unpublished materials. Discuss. marks
+: Application
+* CO-3; SO-; b. | Distinguish between cross-sectional and longitudinal designs by giving iD
+BL- suitable examples. In what situations would you recommend the usage of i
+_ marks
+Application one over the other?
+Q3 a) . ; . .
+dod 80 Discuss the aspects to be considered while making decision on the sample | 10
+BL- , , size needed to do research? marks
+Application
+CO-3; SO-; b. . . . :
++a, Design a questionnaire on any hypothetical topic related to management 10
+research using appropriate scales. marks
+Application
+Q4 a. .
+Discuss different methods of data collection from primary sources with 10
+CO-4; SO-; :
+suitable examples.
+BL- marks
+Application
+CO-4; SO-; b. | «4 valid instrument is always reliable, but a reliable instrument may not 10
+BL- always be valid”. Explain. "
+Application marks
+Q5 os . a . a .
+Describe in brief following multivariate techniques giving assumptions 20
+CO-4; SO-; and applications in business for each.
+BL- a) Cluster Analysis (10 marks) marks
+_ Application b) Principle Component Analysis (10 marks)
+Q6
+CO-1; SO-; Explain the various steps involved in developing a research proposal, with ad
+BL- a suitable example. marks
+Application
+
+z Je
+````
+
+## 2021-22 · Re-Exam · Sem 8 · paper 7807e93bb4df
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Business Research Methods/Business Research Methods , Re-exam 2021-22_7807e93bb4.pdf`
+- Printed on paper: max marks: 100; duration hours: 2; exam date: 13 June 2022
+- Text: ocr (2 pages), mean OCR confidence 90.1
+
+````text
+“
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING . /
+
+Academic Year: 2021-22
+
+Programme: MBA Tech (All Stream) Year: IV Semester: VIII
+Subject: Business Research Methods
+. Marks: 100
+Date: 13 June 2022 Time: 10.00 am to 12.00 noon
+
+Durations: 2 (Hrs)
+No. of Pages: _ aa
+Re-Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper.and on the cover
+of the Answer Book, which is provided for their use. 7
+
+1) Question No. _1__ is compulsory. f
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5__ questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Read the scenario and answer the questions that follow:
+
+During Pandemic times, online education was the need of the hour and Work
+from Home (WFH) became absolute necessity, virtual meetings a new norm.
+Globally travel restrictions are now relaxed and educational institutions
+switching to offline mode. However certain percentage of online education may
+continue to exist. It is predicted that by this year end there will be almost 50%
+
+Qi decline in the use of Virtual Meetings Application (viz. MS Teams, Zoom etc.)
+subscriptions. This can be a cause of concern for all these software companies
+who had been developing these applications as there can be substantial decrease
+in their future revenues. Also, it is likely to impact the sales of the hardware.
+(viz. laptops, Desktops, Computer accessories, smart phones etc.). These
+Software Companies allocate and spend a considerable capital expenditure for
+their. R&D and HR (hiring of specialized teams for App developments). These
+companies’ want to survey and check how many subscriptions will be active in
+next 12 months.
+
+CO-1,2; SO- | a | Develop a conceptual model that describes the relationship between the
+
+‘ei dependent variable, at least two independent variables, and a moderating | 10 marks
+
+Application variable.
+
+Che SO- |b. Develop the problem statement and formulate the hypotheses for the —
+marks
+
+BL- above scenario.
+
+Application
+--- page 2 ---
+Q2 a. | Critical review of the literature will spark many useful insights on your
+
+CO-1,2; SO-; research topic and will allow you to make informed business decisions. | 10 marks
+_ Explain
+Application brain.
+b. | Describe the classifications of research designs, stating the distinguishing
+a 80s; features of each classification. Differentiate by giving appropriate
+- 10 marks
+Application euamplen
+Q3 a. | Explain the characteristics of a good sample? Discuss any two methods
+CO-3; SO-; used for collecting a sample from a population with suitable 10 marks
+BL-
+Application a id
+CO-3; SO-; | b. . . .
+You are conducting a study to assess consumer satisfaction with an
+BL- . . . . 10 marks
+airline. Design a questionnaire that can be used for this study.
+
+Application
+Q4 a.
+CO-4: SO-: Discuss the factors affecting reliability in a research process? Why is it 10 :
+
+; ; " marks
+BL- important to establish “Goodness” of measure and how is it done?
+Application
+CO-4; SO-; | b. | Describe Qualitative research and its application in business decision
+
+pp
+
+BL- making with suitable examples. 10 marks
+Application
+= Describe cluster analysis. Explain in brief the underlying assumption of
+_ 80-5 the technique. Also, give one application of the technique in Business 20 marks
+Application Management.
+Q6
+CO-1: SO-: Discuss in detail about the guidelines to be followed to formulate a —"
+
+> > marks
+BL- research report, with a suitable example.
+Application
 ````

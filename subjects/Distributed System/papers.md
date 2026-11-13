@@ -93,6 +93,69 @@ Monotonic write
 (02/02)
 ````
 
+## 2018-19 · Re-Exam · Sem 6 · paper 44f4fab124cf
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/DISTRIBUTED SYSTEM/Distributed systems.....Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 June 2019
+- Text: ocr (1 page), mean OCR confidence 91.2
+
+````text
+4 SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program MBA.Tech (COMPUTER) Year: III Semester:VI.
+Academic Year: 2018-2019
+
+Subject: Distributed Systems < Marks: 70 ©
+
+Date: 19 June 2019. Time:10.00 am to 1.00 pm
+Duration: 3 (hrs)
+No. of Pages: O _
+Re-Examination (2017-18 / 2018-19)
+
+Instructions: Candidates should r read ‘carefully the instr wetions Printed onthe on the question p paper vend
+on thé cover of the Answer Book, which is provided for their use.
+
+1) Question No, lis gompulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘suitable data if necessary.
+
+Q.1 a) What are goals of distributed system? (5)
+b) Compare process and thread. ‘ *% (4)
+
+c) Explain different types of transparencies in distributed database. (5)
+
+Q.2 a) Explain the difference between stateful and stateless server implementation models. (7)
+b) What do you mean by marshalling of arguments and results in RPC?
+
+List the actions involved in marshalling. _ (7)
+Q.3 a) Explain migration in heterogeneous system. (7)
+b) What is naming? Explain the implementation of name resolution techniques. (7)
+Q. 4. a) Explain distributed algorithms for clock synchronization. (7)
+b) Explain RSA algorithm with the help of an example. (7)
+Q.5 a) What is RMI? What are the main features of Java RMI? (7)
+b) Describe multitier architecture in client server organization. (7)
+Q.6 a) How does light weight RPC work in cross domain architecture? (7)
+b) Explain with the help of diagram traditional web based system. (7)
+Q.7. a) Differentiate between Symmetric and Asymmetric encryption (5)
+b) Explain role of virtualization in distributed system. (5)
+c), Explain Ring Election algorithm. (4)
+
+i
+````
+
 ## 2017-18 · Exam not stated · Sem 6 · paper ba48dc98523d
 
 - Departments: Computer Engineering
@@ -162,69 +225,6 @@ B Bully Election algorithm (04
 (e Monotonic Write (05
 
 a
-````
-
-## 2017-18 · Re-Exam · Sem 6 · paper 44f4fab124cf
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/DISTRIBUTED SYSTEM/Distributed systems.....Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 June 2019
-- Text: ocr (1 page), mean OCR confidence 91.2
-
-````text
-4 SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program MBA.Tech (COMPUTER) Year: III Semester:VI.
-Academic Year: 2018-2019
-
-Subject: Distributed Systems < Marks: 70 ©
-
-Date: 19 June 2019. Time:10.00 am to 1.00 pm
-Duration: 3 (hrs)
-No. of Pages: O _
-Re-Examination (2017-18 / 2018-19)
-
-Instructions: Candidates should r read ‘carefully the instr wetions Printed onthe on the question p paper vend
-on thé cover of the Answer Book, which is provided for their use.
-
-1) Question No, lis gompulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ‘suitable data if necessary.
-
-Q.1 a) What are goals of distributed system? (5)
-b) Compare process and thread. ‘ *% (4)
-
-c) Explain different types of transparencies in distributed database. (5)
-
-Q.2 a) Explain the difference between stateful and stateless server implementation models. (7)
-b) What do you mean by marshalling of arguments and results in RPC?
-
-List the actions involved in marshalling. _ (7)
-Q.3 a) Explain migration in heterogeneous system. (7)
-b) What is naming? Explain the implementation of name resolution techniques. (7)
-Q. 4. a) Explain distributed algorithms for clock synchronization. (7)
-b) Explain RSA algorithm with the help of an example. (7)
-Q.5 a) What is RMI? What are the main features of Java RMI? (7)
-b) Describe multitier architecture in client server organization. (7)
-Q.6 a) How does light weight RPC work in cross domain architecture? (7)
-b) Explain with the help of diagram traditional web based system. (7)
-Q.7. a) Differentiate between Symmetric and Asymmetric encryption (5)
-b) Explain role of virtualization in distributed system. (5)
-c), Explain Ring Election algorithm. (4)
-
-i
 ````
 
 ## 2017-18 · Re-Exam · Sem 6 · paper ba14135ee161

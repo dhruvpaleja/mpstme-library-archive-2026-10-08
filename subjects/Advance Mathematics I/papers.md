@@ -1,210 +1,10 @@
 # Advance Mathematics I: question papers in full
 
-13 unique papers · 2010-11 to 2012-13 · Electronics and Telecommunication, Computer Engineering, Mechanical
+13 unique papers · 2010-11 to 2014-15 · Electronics and Telecommunication, Computer Engineering, Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Exam not stated · Trim 5 · paper ef9029033afa
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ADVANCE MATHEMATICES I/ADVANCED MTHEMATICS II 2012-13.pdf`
-- Printed on paper: exam date: 13/02/2013
-- Text: text (2 pages)
-
-````text
-SVKM7s NMIMS
-Academic Year : 20 12-2013
-Subject:   ADVANCED MATHEMATICS - II
-Date:   13/02/2013
-Final - Examination
-Instructions: Candidate should read carefully the instructions printed on the question paper
-and on the cover of the Answer book which is provided for their use
-NB:
-a) Question No: 1 is compulsory
-b) Out of remaining questions attempt any 2 questions
-c) All questions carry equal marks
-d) Answers to each new question to be started on a fresh page
-e) Figures in brackets on the right hand side indicate full marks
-@I   a) Find the directional derivative of 4 = x4 + y4 + z4 at the point A ( 1, -2, 1 ) in the
-direction of AB where B is ( 2, 6, -1 )   [51
-b) Find a, b and c if F = (ary + bz3)l + (3n2 - cz)j + (3xz2 - y)i is irrotational   [5]
-c) Find the Bilinear transformation that maps the points - i , 0 , i in the z - plane into
-the points - 1 , i , 1 respectively in the w -plane   151
-r dj Show that the function w = z" where n positive analytic by using Cauchy -
-Riemann equations and hence find - dw   [51
-dz
-Q.11   a) Find the image of the circle (x - 3)2 + y2 = 2 under the transformation w = - 1
-z
-Depict the region so obtained graphically and interpret it.
---- page 2 ---
-b) Show that the function u(x, y) = cos xcosh y is harmonic and construct the
-corresponding analytic function w = u + iv
-c) Is the function w = log z analytic in the entire complex plane ? Justify.
-- axr
-Q.111 a) Is F = -   where 7 = xl+ y; + z i , ii is a constant vector and   171 = r is
-r "
-solenoidal ?   151
-b) Find the unit normal vector to the surface x2 + 2xz2 = 8 at ( 1, 0, 2 )   L51
-c) If 4 = x3 +y3+z3-3xyz find (i) curlF (ii) divF where F = V4   [51
-b) State true or false with proper justification " There exist an analytic function
-whose real part is x3 - 3x2 y - y3   [51
-c) Prove that cross ratio is invarient under Bilinear transformation   [51
-1
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper 83f2f93c1186
-
-- Departments: Computer Engineering, Electronics and Telecommunication
-- Programmes: MBA TECH / COMPUTER, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/ADVANCE MATHEMATICES I/ADVANCED MATHEMATICS I BATCH 2012-13 RE EXAM0003.pdf` (+1 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/06/2014
-- Text: ocr (2 pages), mean OCR confidence 77.8
-
-````text
-: SVKM?’s NMIMS —
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANA
-
-Programme: MBA Tech (ALL STREAMS) Year: II = “Trimester: IV
-Academic Year: 2013-14 | ~ : Batch : 2012-13
-
-Subject : Advanced'Mathematics — I
-Marks: 50
-Date : 19/06/2014 Time : 2.00pm - 4.00pm
-Durations 2 (hrs)
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use. *
-NB:
-
-a) Attempt any 5 questions.
-
-b) All questions carry equal marks.
-
-c) Answer to each new question to be stated on a fresh page.
-d) Figure in right indicate full marks.
-
-e) Use of calculator is allowed.
-
-sl -
-s?
-
-Q.1 (a) Find Inverse Laplace Transform log (05>)
-
-(b) Using Laplace transforms find the solution of y"+9y =9u(t—-3); y(0)=y'(0)=0;
-where u(t—3)is the unit step function. 605)
-Q.2 (a) Using Laplace Transform of the periodic function (saw tooth wave)
-
-f()-F for 0<¢<T; f(t+T)=f(0). iS)
-
-0; t<az _—
-(05,
-
-(b) Find Laplace Transform of ew, (t) , where u, (t) = (i ;
-,t>7.
-
-Q3 (a) Represent f(t)=sin20,20<t<4a and f(t)=0,otherwise,in terms of unit step
-
-function and find its Laplace transforms. /05°
-(b) Evaluate [eS (t—2)at. (05>
-s ,
-Q.4 (a) Find inverse Laplace Transform of L~' ; ———— ; . (05 )
-(s2 +a?) ‘
-| \-
-
-ae
---- page 2 ---
-(b) Find the characteristic equation of the matrix A given below, verify Cayley-Hamilton
-
-theorem and hence find the matrix represented by
-
-f
-
--
-
-211
-AS SA’ +7A° 3A? + A‘ -5A°-84? +2A-I; where A = 01 0): (05)
-1 1 2
--l 2 -2
-Q.5 (a) The square matrix A is defined 4 = | 1 2 1 . Find the modal matrix P the
--I -1 0
-resulting diagonal matrix D of A. {05°
-
-(b) Reduce the following quadratic form to diagonal form through congruent
-transformation, 6x? + 3x} + 3x? —4x,x, —2x,x, +4x,x,° (05)
-
-Q.6 (a) Use Cayley-Hamilton theorem for the matrix and find A" for:
-
-43 1
-A=|2 1 -2}. £05)
-12 1
-10 cae
-(b) Given 4 _( \ find A? . : /05%
-(0 3) :
-s
-Q. 7 (a) Solve by using Convolution theorem L' (ah )(s 48") sa#b. . (05)
-1 20 0
-(b) If 4=|-1 7 1 |:find tanA.. (05)
-3.0 -2
-Xx
-
-i aa
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper 615fcd9531bd
-
-- Departments: Computer Engineering, Electronics and Telecommunication, Mechanical
-- Programmes: MBA TECH / COMPUTER, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/ADVANCE MATHEMATICES I/ADVANCED MATHEMATICS-I IV MBA TECH 2012-13 RE EXAM(7).pdf` (+3 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: text (2 pages)
-
-````text
-BVKM's NMIMS
-Mukesh Patel School of Technolorn Manaeement & E n h e
-Programme: MBA Tech - All Stream   Year:   I1   Trimester: IV
-- -   Academic Yew :2012-2013
-Batch:   2012-13
-Subject:   Advanced Mathematics - I   Marks:   50
-Time:   2.00 pm To 4.00 pm
-: Date:   Duration: 2 hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the   '
-cover of the Answer Book, which is provided for their use.   *   -
-NB:
-a) Attempt any 5questions.
-b) AJl questions carry equal marks.
-c) Answer to each new question to be started on a fresh page.
-d) Figure-in brackets indicate full marks.
-$ I.   a)   Ve~ifq.Cayley h i l t o n theorem and hence find A-'
-s2
-b)   If(4(s)=(sZ+1 )(s2+4) Find L-' {(4(s))
-using Convolution.
-Q 2.   a)   Find characteristic eqmtion of matrix A and the matrix represented by
-'   I
-A ~ - ~ A ~ + ~ O ~ SuchthatA= ' - ~ A ~ + A + I
-b)   D~-2~-~=-2te-'+e'-6t   .   &   5
-Solve   ,giventhat n=O,Dx=l,y=O,   af t=O.
-fi2n-@=te" -3
-3   .   a)
-Show that. A= 0 4   2   is similar to diagonal matrix. Find transformation
-0 -6   -3
-matrix and diagonal matrix.
-b)   Find the Laplace transform of the periodic function
-E, OO<t I p / 2   such that f (t+p) =f4t)
--E, p12lf i p
---- page 2 ---
-Q 5-   Reduce the quadratic form   +2x: +q2+6%x3-25% + 4 x , 3 to canonical form using   10
-congruent transformation Find two sets of values of x,,x,,x, which make the form positive
-and negative respectively. Also write linear transformation. State rank, index, signature &
-nature of quadratic form.
-Q 6.   m   t+t
-8) Using Laplace transform, evaluate J'e-''(l+   2 ) ~ t-3)dt. (
-0
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper 42ed3b4bbc27
+## 2014-15 · Re-Exam · Trim 4 · paper 42ed3b4bbc27
 
 - Departments: Computer Engineering, Electronics and Telecommunication, Mechanical
 - Programmes: MBA TECH / COMPUTER, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
@@ -340,7 +140,106 @@ fO (t—2)’,t >2
 (5)
 ````
 
-## 2012-13 · Re-Exam · Trim 4 · paper 2f88fe87259d
+## 2013-14 · Re-Exam · Trim 4 · paper 83f2f93c1186
+
+- Departments: Computer Engineering, Electronics and Telecommunication
+- Programmes: MBA TECH / COMPUTER, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/ADVANCE MATHEMATICES I/ADVANCED MATHEMATICS I BATCH 2012-13 RE EXAM0003.pdf` (+1 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/06/2014
+- Text: ocr (2 pages), mean OCR confidence 77.8
+
+````text
+: SVKM?’s NMIMS —
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANA
+
+Programme: MBA Tech (ALL STREAMS) Year: II = “Trimester: IV
+Academic Year: 2013-14 | ~ : Batch : 2012-13
+
+Subject : Advanced'Mathematics — I
+Marks: 50
+Date : 19/06/2014 Time : 2.00pm - 4.00pm
+Durations 2 (hrs)
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use. *
+NB:
+
+a) Attempt any 5 questions.
+
+b) All questions carry equal marks.
+
+c) Answer to each new question to be stated on a fresh page.
+d) Figure in right indicate full marks.
+
+e) Use of calculator is allowed.
+
+sl -
+s?
+
+Q.1 (a) Find Inverse Laplace Transform log (05>)
+
+(b) Using Laplace transforms find the solution of y"+9y =9u(t—-3); y(0)=y'(0)=0;
+where u(t—3)is the unit step function. 605)
+Q.2 (a) Using Laplace Transform of the periodic function (saw tooth wave)
+
+f()-F for 0<¢<T; f(t+T)=f(0). iS)
+
+0; t<az _—
+(05,
+
+(b) Find Laplace Transform of ew, (t) , where u, (t) = (i ;
+,t>7.
+
+Q3 (a) Represent f(t)=sin20,20<t<4a and f(t)=0,otherwise,in terms of unit step
+
+function and find its Laplace transforms. /05°
+(b) Evaluate [eS (t—2)at. (05>
+s ,
+Q.4 (a) Find inverse Laplace Transform of L~' ; ———— ; . (05 )
+(s2 +a?) ‘
+| \-
+
+ae
+--- page 2 ---
+(b) Find the characteristic equation of the matrix A given below, verify Cayley-Hamilton
+
+theorem and hence find the matrix represented by
+
+f
+
+-
+
+211
+AS SA’ +7A° 3A? + A‘ -5A°-84? +2A-I; where A = 01 0): (05)
+1 1 2
+-l 2 -2
+Q.5 (a) The square matrix A is defined 4 = | 1 2 1 . Find the modal matrix P the
+-I -1 0
+resulting diagonal matrix D of A. {05°
+
+(b) Reduce the following quadratic form to diagonal form through congruent
+transformation, 6x? + 3x} + 3x? —4x,x, —2x,x, +4x,x,° (05)
+
+Q.6 (a) Use Cayley-Hamilton theorem for the matrix and find A" for:
+
+43 1
+A=|2 1 -2}. £05)
+12 1
+10 cae
+(b) Given 4 _( \ find A? . : /05%
+(0 3) :
+s
+Q. 7 (a) Solve by using Convolution theorem L' (ah )(s 48") sa#b. . (05)
+1 20 0
+(b) If 4=|-1 7 1 |:find tanA.. (05)
+3.0 -2
+Xx
+
+i aa
+````
+
+## 2013-14 · Re-Exam · Trim 4 · paper 2f88fe87259d
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -445,7 +344,7 @@ X
 ofa
 ````
 
-## 2012-13 · Re-Exam · Trim 4 · paper 371d6efe3656
+## 2013-14 · Re-Exam · Trim 4 · paper 371d6efe3656
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -543,6 +442,159 @@ X
 2/2
 ````
 
+## 2012-13 · Exam not stated · Trim 5 · paper ef9029033afa
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ADVANCE MATHEMATICES I/ADVANCED MTHEMATICS II 2012-13.pdf`
+- Printed on paper: exam date: 13/02/2013
+- Text: text (2 pages)
+
+````text
+SVKM7s NMIMS
+Academic Year : 20 12-2013
+Subject:   ADVANCED MATHEMATICS - II
+Date:   13/02/2013
+Final - Examination
+Instructions: Candidate should read carefully the instructions printed on the question paper
+and on the cover of the Answer book which is provided for their use
+NB:
+a) Question No: 1 is compulsory
+b) Out of remaining questions attempt any 2 questions
+c) All questions carry equal marks
+d) Answers to each new question to be started on a fresh page
+e) Figures in brackets on the right hand side indicate full marks
+@I   a) Find the directional derivative of 4 = x4 + y4 + z4 at the point A ( 1, -2, 1 ) in the
+direction of AB where B is ( 2, 6, -1 )   [51
+b) Find a, b and c if F = (ary + bz3)l + (3n2 - cz)j + (3xz2 - y)i is irrotational   [5]
+c) Find the Bilinear transformation that maps the points - i , 0 , i in the z - plane into
+the points - 1 , i , 1 respectively in the w -plane   151
+r dj Show that the function w = z" where n positive analytic by using Cauchy -
+Riemann equations and hence find - dw   [51
+dz
+Q.11   a) Find the image of the circle (x - 3)2 + y2 = 2 under the transformation w = - 1
+z
+Depict the region so obtained graphically and interpret it.
+--- page 2 ---
+b) Show that the function u(x, y) = cos xcosh y is harmonic and construct the
+corresponding analytic function w = u + iv
+c) Is the function w = log z analytic in the entire complex plane ? Justify.
+- axr
+Q.111 a) Is F = -   where 7 = xl+ y; + z i , ii is a constant vector and   171 = r is
+r "
+solenoidal ?   151
+b) Find the unit normal vector to the surface x2 + 2xz2 = 8 at ( 1, 0, 2 )   L51
+c) If 4 = x3 +y3+z3-3xyz find (i) curlF (ii) divF where F = V4   [51
+b) State true or false with proper justification " There exist an analytic function
+whose real part is x3 - 3x2 y - y3   [51
+c) Prove that cross ratio is invarient under Bilinear transformation   [51
+1
+````
+
+## 2012-13 · Re-Exam · Trim 4 · paper 615fcd9531bd
+
+- Departments: Computer Engineering, Electronics and Telecommunication, Mechanical
+- Programmes: MBA TECH / COMPUTER, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/ADVANCE MATHEMATICES I/ADVANCED MATHEMATICS-I IV MBA TECH 2012-13 RE EXAM(7).pdf` (+3 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: text (2 pages)
+
+````text
+BVKM's NMIMS
+Mukesh Patel School of Technolorn Manaeement & E n h e
+Programme: MBA Tech - All Stream   Year:   I1   Trimester: IV
+- -   Academic Yew :2012-2013
+Batch:   2012-13
+Subject:   Advanced Mathematics - I   Marks:   50
+Time:   2.00 pm To 4.00 pm
+: Date:   Duration: 2 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the   '
+cover of the Answer Book, which is provided for their use.   *   -
+NB:
+a) Attempt any 5questions.
+b) AJl questions carry equal marks.
+c) Answer to each new question to be started on a fresh page.
+d) Figure-in brackets indicate full marks.
+$ I.   a)   Ve~ifq.Cayley h i l t o n theorem and hence find A-'
+s2
+b)   If(4(s)=(sZ+1 )(s2+4) Find L-' {(4(s))
+using Convolution.
+Q 2.   a)   Find characteristic eqmtion of matrix A and the matrix represented by
+'   I
+A ~ - ~ A ~ + ~ O ~ SuchthatA= ' - ~ A ~ + A + I
+b)   D~-2~-~=-2te-'+e'-6t   .   &   5
+Solve   ,giventhat n=O,Dx=l,y=O,   af t=O.
+fi2n-@=te" -3
+3   .   a)
+Show that. A= 0 4   2   is similar to diagonal matrix. Find transformation
+0 -6   -3
+matrix and diagonal matrix.
+b)   Find the Laplace transform of the periodic function
+E, OO<t I p / 2   such that f (t+p) =f4t)
+-E, p12lf i p
+--- page 2 ---
+Q 5-   Reduce the quadratic form   +2x: +q2+6%x3-25% + 4 x , 3 to canonical form using   10
+congruent transformation Find two sets of values of x,,x,,x, which make the form positive
+and negative respectively. Also write linear transformation. State rank, index, signature &
+nature of quadratic form.
+Q 6.   m   t+t
+8) Using Laplace transform, evaluate J'e-''(l+   2 ) ~ t-3)dt. (
+0
+````
+
+## 2012-13 · Re-Exam · Trim 5 · paper e05cab8f342a
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ADVANCE MATHEMATICES I/ADVANCED MATHEMATICS-II V MBA TECH 2011-12 RE EXAM(5).pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Patel School of Technolorn Manaeement %
+Programme: MBA TECH (AllStreams)   Year:   II . Trimester: V .
+Academic Year :2012-2013
+Batch:   2011-2012..   -
+I Subject:   Advanced Mathematics I1 .   Marks:   50.
+Time:   -   . .
+Date:   Duration: 2 hrs.   d
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+a) Question No. 1is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) All qaestions carry 5 marks each.
+d) Answer to each nePv question to hestated on ti fresh page.
+Q.l i) Determine the region in the z-plane represented by 1< I z + 2i(I2.
+ii) ~f 2 = 3x2' T -yz] + (x + 2z)i; find curlcurl 2.
+4.2 i) If w = f (z) = -, l + z   find - dw Determine where w is non-analytic.
+1-z   & '
+ii) Find the bilinear transformation which maps the points m, i,0 of z- plane onto the points 0,i,ao
+of w-plane respectively.
+4.3 i) Prove that under the transformation w = -, z - i   the region Im(z) I 0 is mapped into the
+12-1
+region 1 wI < 1. Into what region is Im(z) < 0 mapped under the transformation?
+ii)If f; =x+y+z,f,=x+y+z2,f,=2xz+2yz+t3   ; P ~ e t h a t ~ f ; - [ ~ f , x ~ f , ] = O .
+4.4 i) In aerodynamics and fluid mechanics, the function / and y in f (z) = (+ iy ,where
+f (z) is analyiic, arecaikd the velocity potential and stre-m function respecSvsly. If
+(=x2+4x-y2+2y,a)ind y andb)find f(z).
+ii) Show that the hction defined as
+=o   ,z = o
+is not analytic at origin, even though Cauchy-Riemanii equations are satisfied there.
+Q.5 i) Find the directional derivative of U = 2xy -za & (2,-1,l) in a diction toward (3,1,-1) .
+ii) Show that the field P =(x2+ xy2)T + (yZ+ x2 y ) j is irrotational.
+4.6 i)Show that the vector field 2= (x2-y2+ x); -(2xy + y)S is irrotational, and find a scalar
+4 such that 2 = grad/.
+ii)Find the vector .   . defined by ? = exs.jnyi^+excos2is ..   irrotational or solenoidal.
+,,   ,,   .. . .
+~.7i)~indvalueofi,b,crkothat ~ = ( ~ ~ 2 ~ + & ~ 1 + ( b x - 3 j - z ) ~ ' + ( 4 x + is c ~ + 2 z ) ~
+irrotational.
+ii) Prove that div
+````
+
 ## 2011-12 · Exam not stated · Trim 4 · paper 57497c7f6e07
 
 - Departments: Computer Engineering, Mechanical
@@ -550,9 +602,9 @@ X
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/ADVANCE MATHEMATICES I/ADVANCED MATHEMATICS I 2011-12(2).pdf` (+1 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 4/11/2011
 - Text: ocr (2 pages), mean OCR confidence 77.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-ses ee ie sl a ON :
 SVKM’s NMIMS Va
 
 Mukesh Patel School Of Technology Management & Engingering
@@ -667,6 +719,7 @@ Ke
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ADVANCE MATHEMATICES I/ADVANCED MATHEMATICS II 2011-2012(7).pdf`
 - Printed on paper: exam date: 08/02/2012
 - Text: ocr (2 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -730,7 +783,6 @@ Q3.
 Q4.
 
 c) A vector field Fis given by _ _ [5]
-F= (ysinz-sinx) i+ (xsinz+2yz)j + (xycoszty’) k
 prove that it is irrotational and hence find its scalar potential
 
 a) Show that W = Eee a is an analytic function and [5]
@@ -934,58 +986,6 @@ F =(ax+3y+4z2)i+(x-2y +32) j+(3x+2y-z)k.
 ii) Let F=xi + yj i+ zk, r= lr and da is aconstant vector. Find the value of av( % = *).
 
 |
-````
-
-## 2011-12 · Re-Exam · Trim 5 · paper e05cab8f342a
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ADVANCE MATHEMATICES I/ADVANCED MATHEMATICS-II V MBA TECH 2011-12 RE EXAM(5).pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School of Technolorn Manaeement %
-Programme: MBA TECH (AllStreams)   Year:   II . Trimester: V .
-Academic Year :2012-2013
-Batch:   2011-2012..   -
-I Subject:   Advanced Mathematics I1 .   Marks:   50.
-Time:   -   . .
-Date:   Duration: 2 hrs.   d
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-a) Question No. 1is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) All qaestions carry 5 marks each.
-d) Answer to each nePv question to hestated on ti fresh page.
-Q.l i) Determine the region in the z-plane represented by 1< I z + 2i(I2.
-ii) ~f 2 = 3x2' T -yz] + (x + 2z)i; find curlcurl 2.
-4.2 i) If w = f (z) = -, l + z   find - dw Determine where w is non-analytic.
-1-z   & '
-ii) Find the bilinear transformation which maps the points m, i,0 of z- plane onto the points 0,i,ao
-of w-plane respectively.
-4.3 i) Prove that under the transformation w = -, z - i   the region Im(z) I 0 is mapped into the
-12-1
-region 1 wI < 1. Into what region is Im(z) < 0 mapped under the transformation?
-ii)If f; =x+y+z,f,=x+y+z2,f,=2xz+2yz+t3   ; P ~ e t h a t ~ f ; - [ ~ f , x ~ f , ] = O .
-4.4 i) In aerodynamics and fluid mechanics, the function / and y in f (z) = (+ iy ,where
-f (z) is analyiic, arecaikd the velocity potential and stre-m function respecSvsly. If
-(=x2+4x-y2+2y,a)ind y andb)find f(z).
-ii) Show that the hction defined as
-=o   ,z = o
-is not analytic at origin, even though Cauchy-Riemanii equations are satisfied there.
-Q.5 i) Find the directional derivative of U = 2xy -za & (2,-1,l) in a diction toward (3,1,-1) .
-ii) Show that the field P =(x2+ xy2)T + (yZ+ x2 y ) j is irrotational.
-4.6 i)Show that the vector field 2= (x2-y2+ x); -(2xy + y)S is irrotational, and find a scalar
-4 such that 2 = grad/.
-ii)Find the vector .   . defined by ? = exs.jnyi^+excos2is ..   irrotational or solenoidal.
-,,   ,,   .. . .
-~.7i)~indvalueofi,b,crkothat ~ = ( ~ ~ 2 ~ + & ~ 1 + ( b x - 3 j - z ) ~ ' + ( 4 x + is c ~ + 2 z ) ~
-irrotational.
-ii) Prove that div
 ````
 
 ## 2010-11 · Exam not stated · Trim 5 · paper ded747aa9587

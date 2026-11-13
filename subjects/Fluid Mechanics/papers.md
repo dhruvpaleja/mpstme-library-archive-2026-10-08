@@ -1602,6 +1602,164 @@ find the discharge and losses. Take f= 0.02. Consider all the losses. All
 draw EGL and HGL.
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 456733a61f70
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/FLUID MECHANICS/Fluid Mechanics, Sem-IV, Final & Re Exam Batch 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 89.5
+
+````text
+SVKM’S NMIMS / 3°
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&| ENGINEERING
+Academic Year: 2023-2024 wy red
+
+Program/s: B.Tech Year: IL Sertiester4¥4
+Stream/s ; Mechatronics
+
+Subject: Fluid Mechanics Time: 03 hrs (10.00 to 1.00 PM)
+Date:_20/ 04 / 2024 = No. of Pages: 3 “nm
+
+Marks: 100
+
+Final Examination/Re-Examination (20-42-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1_ is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+©» 3)Inall 5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8) Use of Scientific Calculator is allowed.
+
+Ql Answer briefly: [20]
+Two Horizontal flat plates are placed 0.15 mm apart and the space between them is
+
+CO-1; filled with an oil of viscosity 1 poise. The upper plate of area 1.5 m?is required to
+
+aS ; @) move with a speed of 0.5 m/s relative to the lower plate. Determine the necessary Bl
+
+force and power required to maintain this speed.
+
+CO-1; ; [5]
+SO- 2; (b) | State Pascal’s law and discuss its applications.
+BL-2
+
+Which of the following velocity fields pertain to the motion of steady, two-
+
+@ CO-2; dimensional flow of an incompressible fluid? [5]
+SO-1; (c) (i) = 9x2 «opie 32 py2
+> ) u = 2x* —xy ; v= x? -4xy +
+BL-3 x yy
+(ii) u=—A pve A loge (xy) where A is a numerical constant.
+
+For the Laminar flow of an oil having a density of 1250kg/m? dynamic viscosity
+
+=.0.75 Pas in a 85mm diameter pipe, If shear stress at the wall is 300 N/m’.
+CO-3 ; Calculate: {5]
+S$0-6 ; (d) . . ;
+
+_———w BL-3 (i) The average velocity of the pipe.
+
+- (ii) The flow rate.
+
+(iii) Reynold’s number of flow.
+
+2 @) Calculate the viscosity of a liquid between two concentric cylinders. The inner [10]
+a
+CO-1; cylinder has a diameter of 0.30 m and rotates at 27 rad/s (or 60 r.p.m., since angular
+1
+--- page 2 ---
+SO-2;
+
+velocity @ = 2nN/60 where N is the speed of rotation in r.p.m.). The outer cylinder
+
+BL-4 has a diameter of 0.31 m, and both cylinders are 0.3 m long. A torque 8f0.98 N.m
+is needed to maintain this rotation.
+A cylindrical tank of 3 m in height and 5 cm’ cross-sectional area is filled with water
+up to a height of 2 m and remaining with oil of specific gravity 0.8 at the top. The
+vessel is open to the atmosphere. Calculate
+() (i) _Pressure intensity at the interface [10]
+(ii) Absolute and gauge pressure on the base of the tank in terms of water
+head and oil head and N/m’.
+Take atmospheric pressure as 1.0132 bar and work out the net force experienced by
+the base of the tank.
+Determine:
+(i) The total pressure, and
+(ii) The centre of pressure.
+@) An isosceles triangular plate of base 5 m and altitude 5 m is immersed vertically in U0)
+an oil of specific gravity 0.8. The base of the plate coincides with the free surface
+of oil.
+Analyze the stability of a solid cylinder floating in water. The cylinder has a
+diameter of 2 meters, a height of 2 meters, and is made of a material (wood) with a
+Q3 specific gravity of 0.65. Find the metacentric height and classify its equilibrium as
+ah stable or unstable.
+BL-4
+(b) [10]
+Vv
+eo
+BO
+5
+For the velocity field given by:
+Q4 q (x y,z,t) = 10xyi + 5x7j+(t?x + z)k
+ene @) Determine the velocity and acceleration of a fluid particle at position (1, 2, 3) when 0]
+BL-4 time t= 1.
+Determine:
+(b) : . . [10]
+(i) The displacement thickness,
+--- page 3 ---
+(ii) The momentum thickness,
+
+(iii) The energy thickness, and
+(iv) The value of -
+
+When velocity distribution in the boundary layer is given by: 7 = - where u is the
+velocity at a distance y from the plate and u = U at y = 4, 6 being boundary layer
+
+thickness.
+
+Two reservoirs are connected by a pipeline which is 15 cm in diameter for the first
+
+5 mand 25 cm in diameter for the remaining 15 m. Entry to and exit from the pipe
+
+Q5
+CO-2: is sharp, and the water surface in the upper reservoir 7.5 m above that in the lower [10]
+SO-1; (a) reservoir.
+Biss Represent the layout and tabulate the head losses by assuming that the friction
+coefficient is 0.01 for both the pipes.
+(b) | Derive continuity equation in 3-dimensional steady incompressible flow. [10]
+@) Determine the flow rate in Question 5 (a) and produce visual representations of the (10)
+a
+hydraulic gradient and energy gradient line for the arrangement.
+Prove that the momentum thickness and energy thickness for boundary layer flows
+Q6 are given by:
+CO-3;
+SO-6; &
+BL: u u
+(b) 6=}—|1-—]ap [10]
+0 U U
+6 u w
+and, 6.=|—|1-— | dy
+@) Find the kinematic viscosity of a liquid in strokes whose specific gravity is 0.95 and [05]
+a
+dynamic viscosity is 0.012 poise.
+Qi State and explain Archimede’s principle and mention some of its practical
+(b) ail [05]
+CO-1,2; applications.
+SO-1,2;
+BL-2,3 The diameters of a pipe at the sections 1-1 and 2-2 are 200 mm and 300 mm
+respectively. If the velocity of water flowing through the pipe at section 1-1 is 4m/s,
+(c) | Calculate: [05]
+e (i) Discharge through the pipe, and
+(ii) Velocity of water at section 2-2
+(d) | Give five examples in everyday life where formation of boundary layer is important. [05]
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper 1da7c63e2df3
 
 - Departments: Mechanical
@@ -1769,6 +1927,7 @@ the discharge and draw the energy gradient line. Take f= 0-04.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/FLUID MECHANICS/Fluid Mechanics, Batch 2022-23 & 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26/06/2024
 - Text: ocr (3 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTM:!
@@ -1811,7 +1970,6 @@ SO-2 : (a) | in mercury. Take the surface tension of mercury in contact with air
 BL-2 area wetting contact angle as 130°.
 Calculate the pressure in N/m’ corresponding to:
 CO-1; (i) 6 m of water column, [5]
-SO- 2; (b) = io f f d
 BL2 (ii) cm of mercury column an
 fo (iii) 40 cm of column of a fluid of specific gravity 0.7.
 Check whether the following sets of velocity components satisfy the continuity equation
@@ -2054,164 +2212,6 @@ ini BGsly levels in two tanks is 10 m. Determine the rate of flow of water if co
 friction are 0:0075, 0-0078 and 0-0072 respectively considering: (i) Minor losses
 
 also, and (ii) Neglecting minor losses.
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 456733a61f70
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/FLUID MECHANICS/Fluid Mechanics, Sem-IV, Final & Re Exam Batch 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS / 3°
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&| ENGINEERING
-Academic Year: 2023-2024 wy red
-
-Program/s: B.Tech Year: IL Sertiester4¥4
-Stream/s ; Mechatronics
-
-Subject: Fluid Mechanics Time: 03 hrs (10.00 to 1.00 PM)
-Date:_20/ 04 / 2024 = No. of Pages: 3 “nm
-
-Marks: 100
-
-Final Examination/Re-Examination (20-42-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1_ is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-©» 3)Inall 5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-8) Use of Scientific Calculator is allowed.
-
-Ql Answer briefly: [20]
-Two Horizontal flat plates are placed 0.15 mm apart and the space between them is
-
-CO-1; filled with an oil of viscosity 1 poise. The upper plate of area 1.5 m?is required to
-
-aS ; @) move with a speed of 0.5 m/s relative to the lower plate. Determine the necessary Bl
-
-force and power required to maintain this speed.
-
-CO-1; ; [5]
-SO- 2; (b) | State Pascal’s law and discuss its applications.
-BL-2
-
-Which of the following velocity fields pertain to the motion of steady, two-
-
-@ CO-2; dimensional flow of an incompressible fluid? [5]
-SO-1; (c) (i) = 9x2 «opie 32 py2
-> ) u = 2x* —xy ; v= x? -4xy +
-BL-3 x yy
-(ii) u=—A pve A loge (xy) where A is a numerical constant.
-
-For the Laminar flow of an oil having a density of 1250kg/m? dynamic viscosity
-
-=.0.75 Pas in a 85mm diameter pipe, If shear stress at the wall is 300 N/m’.
-CO-3 ; Calculate: {5]
-S$0-6 ; (d) . . ;
-
-_———w BL-3 (i) The average velocity of the pipe.
-
-- (ii) The flow rate.
-
-(iii) Reynold’s number of flow.
-
-2 @) Calculate the viscosity of a liquid between two concentric cylinders. The inner [10]
-a
-CO-1; cylinder has a diameter of 0.30 m and rotates at 27 rad/s (or 60 r.p.m., since angular
-1
---- page 2 ---
-SO-2;
-
-velocity @ = 2nN/60 where N is the speed of rotation in r.p.m.). The outer cylinder
-
-BL-4 has a diameter of 0.31 m, and both cylinders are 0.3 m long. A torque 8f0.98 N.m
-is needed to maintain this rotation.
-A cylindrical tank of 3 m in height and 5 cm’ cross-sectional area is filled with water
-up to a height of 2 m and remaining with oil of specific gravity 0.8 at the top. The
-vessel is open to the atmosphere. Calculate
-() (i) _Pressure intensity at the interface [10]
-(ii) Absolute and gauge pressure on the base of the tank in terms of water
-head and oil head and N/m’.
-Take atmospheric pressure as 1.0132 bar and work out the net force experienced by
-the base of the tank.
-Determine:
-(i) The total pressure, and
-(ii) The centre of pressure.
-@) An isosceles triangular plate of base 5 m and altitude 5 m is immersed vertically in U0)
-an oil of specific gravity 0.8. The base of the plate coincides with the free surface
-of oil.
-Analyze the stability of a solid cylinder floating in water. The cylinder has a
-diameter of 2 meters, a height of 2 meters, and is made of a material (wood) with a
-Q3 specific gravity of 0.65. Find the metacentric height and classify its equilibrium as
-ah stable or unstable.
-BL-4
-(b) [10]
-Vv
-eo
-BO
-5
-For the velocity field given by:
-Q4 q (x y,z,t) = 10xyi + 5x7j+(t?x + z)k
-ene @) Determine the velocity and acceleration of a fluid particle at position (1, 2, 3) when 0]
-BL-4 time t= 1.
-Determine:
-(b) : . . [10]
-(i) The displacement thickness,
---- page 3 ---
-(ii) The momentum thickness,
-
-(iii) The energy thickness, and
-(iv) The value of -
-
-When velocity distribution in the boundary layer is given by: 7 = - where u is the
-velocity at a distance y from the plate and u = U at y = 4, 6 being boundary layer
-
-thickness.
-
-Two reservoirs are connected by a pipeline which is 15 cm in diameter for the first
-
-5 mand 25 cm in diameter for the remaining 15 m. Entry to and exit from the pipe
-
-Q5
-CO-2: is sharp, and the water surface in the upper reservoir 7.5 m above that in the lower [10]
-SO-1; (a) reservoir.
-Biss Represent the layout and tabulate the head losses by assuming that the friction
-coefficient is 0.01 for both the pipes.
-(b) | Derive continuity equation in 3-dimensional steady incompressible flow. [10]
-@) Determine the flow rate in Question 5 (a) and produce visual representations of the (10)
-a
-hydraulic gradient and energy gradient line for the arrangement.
-Prove that the momentum thickness and energy thickness for boundary layer flows
-Q6 are given by:
-CO-3;
-SO-6; &
-BL: u u
-(b) 6=}—|1-—]ap [10]
-0 U U
-6 u w
-and, 6.=|—|1-— | dy
-@) Find the kinematic viscosity of a liquid in strokes whose specific gravity is 0.95 and [05]
-a
-dynamic viscosity is 0.012 poise.
-Qi State and explain Archimede’s principle and mention some of its practical
-(b) ail [05]
-CO-1,2; applications.
-SO-1,2;
-BL-2,3 The diameters of a pipe at the sections 1-1 and 2-2 are 200 mm and 300 mm
-respectively. If the velocity of water flowing through the pipe at section 1-1 is 4m/s,
-(c) | Calculate: [05]
-e (i) Discharge through the pipe, and
-(ii) Velocity of water at section 2-2
-(d) | Give five examples in everyday life where formation of boundary layer is important. [05]
 ````
 
 ## 2022-23 · Final-Exam · Sem 4 · paper c31e82ed9c22
@@ -3496,6 +3496,124 @@ FIO ICE eR ee
 Page 3 of 3
 ````
 
+## 2018-19 · Exam not stated · Sem 3 · paper a9beff24727b
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics 2016-17-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 18 January 2019
+- Text: ocr (3 pages), mean OCR confidence 90.6
+
+````text
+SVKM’S NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (Mechanical) Year: I Semester : IIT
+Academic Year: 2018-19 ,
+“Subject: Fluid Mechanics ~~ Marks: 70 7”
+
+Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+
+a No. of Pages:_ O3
+_ __Re-examination B.Tech (2018-19) / MBA Tech (2016-17 / 2017-18/2018-19) cal
+
+~
+
+| Date: 18 January 2019 2
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql a. Explain the phenomenon of surface tension. 3M
+b. State the condition for the stability of floating body. 3M
+c. A simple manometer is used to measure the pressure of oil (specific gravity = 0.8) 4M
+following in pipeline. Its right limb is open to the atmosphere and the left limb is connected
+to the pipe. The center of the pipe is 90 mm below the level of mercury (specific gravity =
+13.6) in the right limb. If the difference of mercury levels in the two limbs is 150 mm. Find
+the pressure of oil in the pipe.
+
+d. State the assumptions made in Bernoulli’s principle. 4M
+
+Q2 a. Explain Capillary action. Determine the capillary depression of mercury ina 4 mmID 7M
+glass tube. Assume surface tension as 0.45 N/m and B =115°.
+b. A vertical sluice gate 3 m wide and 2.5 m deep contains water on both of its sides. On the 7M
+upstream side, the water is 5 m deep and on the downstream side it is 2 m deep from the
+
+bottom of the sluice. What is the resultant force on the gate?
+--- page 2 ---
+SRIRRER ER wot
+
+Q3 a. A rectangular plate 2 m wide and 4 m deep is immersed in water in such a way that its ™
+g
+plane makes an angle of 25e@ with the water surface as shown below.
+
+a Surface
+
+Determine the total pressure on one side of the plate and the position of the center of
+pressure. ,
+b. Given that u= x? —y and v = — 2xy, determine the stream function and potential function 7M
+for the flow.
+Q4 a. Derive Euler’s equation of motion for flow along a stream line. State its assumptions. ™
+b. Water flows in a tapering pipe vertically as shown below. Determine the manometer 7M
+
+reading ‘‘h’’. The manometer fluid has a specific gravity of 13.6. The flow rate is 100 lit/s.
+--- page 3 ---
+Q5
+
+Q6
+
+Q7
+
+Using dimensional analysis, obtain a correlation for the frictional torque due to rotation of
+a disc in a viscous fluid. The parameters influencing the torque can be identified as the
+diameter, rotational speed, viscosity and density of the fluid.
+
+Define displacement thickness. Derive the expression for displacement thickness.
+
+An oil of specific gravity 0.82 and kinematic viscosity 16 x 10-6 m?/s flows in a smooth
+pipe of 8 cm diameter at a rate of 2 lit/s. Determine whether the flow is laminar or turbulent.
+Also calculate the velocity at the center line and the velocity at a radius of 2.5 cm. What is
+head loss for a length of 10 m? What will be the entry length? Also determine the wall
+shear. ,
+
+The difference in water surface levels in two tanks, which are connected by three pipes in
+series of lengths 300 m, 170 m and 210 m and of diameters 300 mm, 200 mm and 400 mm
+respectively, is 12 m. Determine the rate of flow of water considering minor losses if
+
+coefficient of friction are 0.005, 0.0052 and 0.0048 respectively.
+
+. 2
+For the velocity profile for laminar boundary layer t= 2(2) = *(%) . Determine the
+
+boundary layer thickness, shear stress and drag force.
+
+A ship’s plan view is in the form of an ellipse with a major axis of 36 m and minor axis of
+12 m. The mass of the ship is 1000 tons. The center of buoyancy is 1.8 m below the water
+level and the center of gravity is 0.3 m below the water level. Determine the metacentric
+
+height for rolling (y — y axis) and pitching (x — x axis). (Sea water density = 1030 Kg/m3)
+
+7™.
+
+7™
+
+7™
+
+7™
+
+™
+
+™
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper e2116f614883
 
 - Departments: Civil
@@ -3789,6 +3907,7 @@ layer flows. (7)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics Final 2018-19,Re-exam 2016-17,2017-18.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 20 November 2018
 - Text: ocr (2 pages), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 oO
@@ -3895,7 +4014,6 @@ calculate the pressure just after the expansion. Assume the pipe to be horizonta
 (b) Describe the “Energy Thickness” and obtain an expression for “Energy Thickness” for boundary
 layer flows. (7)
 
-OR a a ok ok ok ok
 
 2),
 ````
@@ -4006,6 +4124,465 @@ required to overcome friction in bearing ii)Power utilized in overcoming viscous
 08
 
 06
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 847f9d2beae1
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS BATCH 16-17, 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 17 November 2018
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) _~ Year: II Semester: III ~
+
+/ Academic Year: 2018-2019
+
+Subject: Fluid Mechanics #
+
+Date: 17 November 2018 ‘
+7
+
+No Sfp
+a ae
+Re-examination (2016-17 2017-18 SS
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer book which is provided for their use.
+
+N.B.:
+
+1. Question No. 01 is compulsory.
+
+2. Out of remaining six questions, attempt any four questions.
+
+3. In all, 05 question to be attempted.
+
+4. Group all sub questions together.
+
+5. All questions carry equal marks.
+
+6. Answer to each new question to be started on a fresh page.
+
+7. Figures in brackets on the right hand side indicate full marks.
+
+1.Write short notes on any FOUR : (3.5 *4=14 marks)
+a. Hydraulic coefficients of an orifice
+b. Classification of fluids based on viscosity
+c. Mechanical pressure gauges Y
+d. Cipolletti weir :
+e. Equilibrium of floating bodies
+
+2. a State and prove Pascal’s Law. (7 marks)
+b. A 90 N rectangular solid block slides down a 30° inclined plane. The plane is lubricated by
+a3 mm thick film of lubricating oil having a relative density of 0.9 and viscosity of 0.8 poise.
+If the contact area is 0.3 m2, calciilate the velocity of the block. (7 marks)
+
+3 a .Derive an expression for the discharge over a triangular notch. (7 marks)
+
+b. Water flows over a sharp crested’ rectangular weir of 1m height which extends over a
+
+—— rectangular channel 3m width. If the head of the water over the weir is 0.45m, calculate the
+discharge by considering the velocity of approach. Ca= 0.63 (7 marks)
+
+Ve
+--- page 2 ---
+4 a. Calculate the pressure gradient along the flow, average velocity and the discharge of an oil
+of viscosity 0.02 Ns/m? flowing between two stationary parallel plates Im wide maintained |
+cm apart. The velocity midway between the plates is 2m/s. (7 marks)
+
+b. Explain with neat sketches : (i) Borda’s mouthpiece (ii) Rotameter (7 marks)
+
+5 a. An oil of specific gravity 0.85 is flowing through a tapering pipe 30 cm diameter at bottom
+and 60 cm at top. The top of the pipe is 10 m above the bottom. The pressures at the upper and
+lower ends are 100 KN/m? and 50 KN/m? respectively. For a discharge of 300 Ips, determine
+the flow direction and head loss. Neglect the minor losses. (7 marks)
+
+__b. Derive Euler’s equation and hence derive Bernolli’s equation for an incompressible fluid
+flowing through a pipe.
+
+(7 marks)
+
+6a. An open cylindrical tank 0.9m high and 0.6m diameter is filled two-thirds with water. Find
+the speed of rotation so that a point at the center of the base is just exposed, also, find the
+
+percentage of water left in the tank. (7 marks)
+b. Derive an expression to find the time required for emptying a tank using an orifice provided
+at the bottom of the tank. (7 marks)
+
+7 a. A horizontal venturimeter with inlet diameter 20 cm and throat diameter 10 cm is used to
+measure the flow of oil of specific gravity 0.8. The discharge through the venturimeter is 60Ips.
+
+Find the reading of oil-mercury differential manometer given Cg is 0.98. (7 marks)
+b. Derive an expression for total pressure and center.of pressure for an inclined plane surface
+submerged in a liquid. on (7 marks)
+
+2 fa
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 7bfd2267b037
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS BATCH 2016-17 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 16 January 2019
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+. SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech ( Civil ) Year: II Semester;
+“ Academic Year: 2018-19
+] Subject: Fluid Mechanics
+&
+
+Date: 16 January 2019
+a
+
+No. of Pase -
+
+Re-examination (2016-17/2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is-compulsory.
+
+2) Out of remaining questions, attempt any _4 __ questions.
+3)Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q 1. Answer the following questions:
+
+(a) An inverted u-tube manometer is connected to two horizontal pipes A and B through which
+water is flowing. The vertical distance between the axes of these pipes is 30 cm. When an oil of
+sp. gr. 0.8 is used as a gauge fluid, the vertical heights of water columns in the two limbs of
+inverted manometer ( when measured from the respective Centre lines of the pipes) are found to
+be same and equal to 35 cm. Determine the difference of pressure between the pipes.
+(04) ;
+
+(b) Explain the term ‘Meta-Centre’ and ‘Meta- Centric Height’. (03)
+
+(c) A plate having an area 0.8 m’ is sliding down the inclined plane at 30 ° to the horizontal with a
+velocity of 0.40m. There is a cushion of fluid 1.8 mm thick between the plane and the plate. Find the
+viscosity of the fluid if the weight of the plate is 280 N. (04)
+
+(d) What is momentum correction factor and kinetic energy correction factor? (03)
+Q 2. Answer the following questions:
+
+(a) A circular opening, 3 m diameter, in a vertical side of a tank is closed by a disk os 3 m diameter_
+which can rotate about a horizontal diameter. Calculate: (i) the force on the disk (ii) The torque
+required to maintain the disc in equilibrium in the vertical position when the head of water above the
+horizontal diameter is 4 m. (07)
+
+(b) Find the density of a metallic body which floats at the interface of mercury of sp. gr. 13.6 and water
+such that 40% of its volume is submerged in mercury and 60 % in water. (04)
+
+et (c) Define and explain the terms ‘buoyancy’ and ‘centre of buoyancy’. (03)
+--- page 2 ---
+} Q 3. Answer the following questions:
+
+! (a) State Bernaulli’s theorem for steady flow of an incompressible fluid. Derive an expression for }
+Bernaullie’s equation from first principle and state the assumptions. (07) \
+
+(b) A pipeline carrying oil of sp.gr. 0.87 , changes in diameter from 200 mm diameter at a
+position A to 500 mm diameter at a position B which is 4 mettes at a higher level. If the
+pressure at A and B are 9.81N/cm? and 5.886N/cm’ respectively and the discharge is 200 Its/s,
+determine the loss of head and direction of flow. (07)
+Q 4. Answer the following questions:
+
+(a) A 100 mm diameter orifice discharge 36 Its per second of water under a constant head of 2.6 m. A
+flat plate held normal to the jet just downstream from the orifice requires a force of 240 N to resist the
+impact of the jet. Determine the hydraulic co-efficients. (07)
+
+(b) Explain : (i) Pathline (ii) Streamline (iii) Streakline (03)
+
+(c) An internal mouthpiece of 100 mm diameter is discharging water under a constant head of 5 m. Find
+the discharge through mouthpiece when:
+(i) The mouthpiece is running free
+(ii) The mouthpiece is running full (04)
+
+Q 5. Answer the following questions:
+
+(a) Prove that the maximum velocity in a circular pipe for a viscous flow is equal to two times the
+
+average velocity of flow. (06)
+(b) Find the time required to lower the water level from 3 m to 2 m in a reservoir of dimensions 70 m*
+70 m, by
+
+(i) a rectangular notch of length 1.2 m
+
+(ii) a right angled V-notch. Take Cy = 0.62 (04)
+
+(c) A broad’crested weir of 50 m length, has 50 cm height of water above its crest. Find the maximum
+discharge. Take Cy = 0.6. Neglect velocity of approach. (b) If the velocity of approach is to be taken into
+consideration, find the maximum discharge when the channel has a cross-sectional area of 50 m’ on the
+
+upstream side. . (04)
+
+Q 6. Answer the following questions:
+(a)The fluid flow field is given by
+
+V= x’yi +y’zj — (2xyztyz’)k
+Prove that it is a case of possible steady incompressible fluid flow. Calculate the velocity and
+acceleration at the point (2, 1, 3). , (06)
+
+(b)The velocity components in x and y directions are given as u= 2 xy'/3 — x’y and v= xy’ — 2yx?/3.
+Indicate whether the given velocity distribution is a possible field of flow or a not possible field of flow.
+
+(03)
+
+(c) What is flow net? Enumerate the methods of drawing flow nets. What are uses and limitations of
+
+| flow nets? (05)
+
+| Q7. Answer the following questions:
+
+te (a) Obtain the equation for pressure variation in a fluid at rest. (03)
+(b) Explain notch, weir, nappe and crest. (04)
+(c) Write short notes on bourdon tube pressure gauge. (03)
+
+(d) With neat sketches, explain the conditions of equilibrium for floating and submerged body. ( 04)
+
+* 2/2
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 01601423644e
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS BATCH 16-17 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 90.4
+
+````text
+; SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+_ Program: B. Tech (Mechanical) Year: II Semester : III
+| a Academic Year: 2018-2019 Pa =
++ Subject: Fluid Mechanics Marks: 70
+Time: 2.00-pm to 5.00 pm
+Date: 18 J 2019 =
+ue anvay 4 : Durations:3 (hrs) _
+
+No. of Pages: 43
+Re-examination (2016-17 / 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+.
+
+Ql Attempt the following (Any four) 14
+
+a) State Newton’s law of viscosity and explain different types of fluids.
+
+b) Define and explain total pressure and centre of pressure.
+
+c) Explain velocity potential and stream function. What is relationship
+between velocity potential and stream function?
+
+d) Explain stable, unstable and neutral equilibrium of floating bodies.
+
+e) What is Pitot tube? On what principle does it work?
+
+f) Explain hydraulic gradient and total energy line.
+
+i Q.2 <A A differential manometer connected at the two points A and B at the same level 07
+
+in a pipe containing an oil of specific gravity 0.8, shows a difference in mercury
+levels as 100 mm. Determine the difference in pressures at the two points.
+
+3
+--- page 2 ---
+BA rectangular plate 0.6 m wide and 1.2 m deep is submerged in an oil bath of 07
+specific gravity 0.8. The maximum and minimum depths of the plate are 1.6 m
+and 0.75 m from the free surface. Calculate hydrostatic force on one face of the
+plate and depth of center of pressure.
+
+Q3 A Explain in detail major and minor energy losses in pipes. 07
+
+BA solid cylinder of 360 mm long and 80 mm diameter has its base 10 mm thick 07
+of specific gravity 7. The remaining part of the cylinder is of specific gravity
+0.5. Determine, if the cylinder can float vertically in the water.
+
+Q.4 <A __ Derive the continuity equation in Cartesian co-ordinates. 07
+
+B 200 mm x 100 mm venturimeter is mounted in a vertical pipe carrying water, 07
+_ the flow being upwards. The throat section is 200 mm above the entrance
+section of the venturimeter. For a certain flow through the meter, the
+differential gauge between the throat and entrance indicates a gauge of
+deflection of 250 mm. Assuming the venturi coefficient as 0.98, find the
+discharge.
+Q.5 A State and prove Bernoulli’s equation of fluid flow. Mention assumption made in 07
+
+derivation.
+
+B_ The velocity potential function for a two dimensional flow is @ = x(2y—1). 07
+At a point P(4,5) determine:
+(i) The velocity
+(ii) The value of stream function
+
+Q.6 A Prove that the discharge over a spillway is given by the relation, 07
+ei Q=VD*f (2) . (| where V = Velocity of flow; D = Depth at the throat;
+
+H = Head of water and g = Acceleration due to gravity. Use Buckingham’s z-Theorem
+
+B Derive Hagen-Poiseuille equation for laminar flow through circular pipe. 07
+
+= ole
+--- page 3 ---
+Q.7. A __ The diameter of a horizontal pipe which is 300 mm is suddenly enlarged to 600 07
+mm. The rate of flow of water through this pipe is 0.4 m’/s. If the intensity of
+pressure in the smaller pipe is 125 kN/m?. Determine:
+
+(i) Loss of head due to sudden enlargement
+(ii) Intensity of pipe in the larger pipe, and
+(iii) | Power loss due to enlargement
+
+B In the boundary layer over the face of high spillway, the velocity distribution 07
+
+was observed to have the following form:
+yy 0.22
+
+u
+
+U (5)
+The free stream velocity U at a certain section was observed to be 30 m/s and a
+boundary layer thickness of 60 mm was estimated from the velocity distribution
+measured at the section. The discharge passing over the spillway was 6 m 3/s per
+meter length of spillway. Calculate :
+
+i. The displacement thickness
+ii. The energy thickness and
+iii. | The loss of energy upto section under consideration.
+
+a]s
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper d67a1f8f9389
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS BATCH 16-17, 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 20 November 2018
+- Text: ocr (2 pages), mean OCR confidence 93.1
+
+````text
+[o) SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) Fear II Semester: II
+| Academic Year: 2018-2019
+
+Subject: Fluid Mechanics y
+
+Marks \70
+Date: 20 November 2018 Time?
+, 7 3 Durati
+No. of Pa
+
+Re-examination (2016-17 / 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the enestion paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1. | Attempt the following (any seven) (7x2) 14
+a) State and explain newton’s Law of Viscosity.
+b) Difference between Eulerian and Lagrangian method.
+c) State Archimedes’ Principle.
+d) State Hydrostatic and Pascal’s Law.
+e) Difference between Laminar and Turbulent boundary layer.
+f) Explain Moody’s chart.
+g) What is a Pitot-tube?
+h) Difference between Streamline and Streaklines. \
+
+2. A. Calculate hydrostatic force on a vertical submerged surface. 07
+B. Find the total pressure and position of center of pressure on a triangular plate of base 2m and 07
+height 3m which is immersed in water in such a way that the plane of the plate makes an angle
+of 60 degree with the free surface of water. The base of the plate is parallel to water surface and
+at a depth of 2.5m from water surface.
+
+3. A. Derive continuity equation in 3- dimensional steady incompressible flow. 10
+B. The stream function in a two-dimensional, incompressible flow field is given as y = 3xy. 04
+(a) Determine the velocity components.
+
+(b) Check whether the flow is irrotational or rotational.
+
+4. A. Short note on stability of floating and submerged body 06
+
+B. A 300mmdiameter pipe carries water under a head of 20 meters with a velocity of 3.5m/s. If 08
+the axis of the pipe turns through 45 degree; find the magnitude and direction of the resultant
+force at the bend.
+
+atacand
+5. A. The inverted U-tube manometer contains oil (SG = 0.9) and water as shown in figure below.
+tes The pressure differential between pipes A and B, DP, Py is —5 kPa. Determine the
+differential reading, h.
+--- page 2 ---
+07
+
+B. A 10 cm diameter horizontal pipe is suddenly enlarged to 15 cm diameter pipe. The average 07
+velocity of water and pressure of smaller diameter pipes are 5.5 m/s and 130 kN/m?,
+respectively. Determine the loss of head due to sudden enlargement, p
+diameter pipe and power lost due to sudden enlargement.
+
+6. A. Derive the Hagen-Poiseuille Equation in viscous flow through circular pipes. 08
+. A venturimeter is fitted in a pipe of 30 cm diameter inclined at 40° to the horizontal to 06
+measure the flow rate of petrol having a specific gravity of 0.8. The ratio of areas of main
+pipe and throat is 5 and the throat is at 1 m from the inlet along its length. The difference in
+manometer head is 40 mm of mercury. Assuming the coefficient of discharge as 0.96.
+Calculate the discharge through the venturimeter and the pressure difference between the
+throat and the entry point of the venturimeter.
+7. A. Write short on (2x4)—
+a) State Buckingham — x theorem.
+b) Hydraulic Gradient and Total energy lines.
+B. Determine the wall shearing stress in a pipe of diameter 100mm which carries water. The 06
+
+velocities at the pipe centre and30mm from the pipe centre are 2m./s and 1.5m/s respectively.
+The flow in pipe is given as turbulent.
+
+ressure in the larger
+
+08
+
+v
 ````
 
 ## 2018-19 · Re-Exam · Sem 3 · paper 5a3bc5eb5d63
@@ -4369,6 +4946,252 @@ specific gravity of the material of cylinder is 0.65, find its metacentric heigh
 whether the body is stable or unstable
 ````
 
+## 2018-19 · Re-Exam · Sem 3 · paper dfe262809656
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics Re-exam 2016-17-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 January 2019
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (Civil) ~~ Year: I Semester : IT]
+Academic Year: 2018-19
+
+Subject: Fluid Mechanics _, Marks: 70 -
+
+Time: 2.00 pm to 5.00 pm .
+
+Date : 16 January 2019 “
+Date : 16 January Durations: 3 (hrs)
+
+No. of Pages: U—_ O2—
+Reexamination B. Tech 2018-19), ! MBA Tech (2016- 17 /2017-18 /2018- 1)
+
+Instruction: Candidates should read carettilly the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+LIBRAR
+
+on
+ks Naina
+
+AS Us IV
+
+Ql Answeriq || the qrrestions. ro)
+a Explain any one mechanical gauge for measurement of pressure. ow)
+b What do you understand by orifice and mouthpiece? How are they different from cy)
+each other?
+c Write a short note on Cipolleti weir. C3)
+
+d Define streamline, streaklines and pathlines. : : : C3)
+
+Q2 a _ What do you understand by equilibrium of floating bodies? - (D
+b A circular plate of 3m diameter is placed vertically in water such that the center of a)
+the plate is 2m below the free surface of water. Find the depth of center of pressure
+and total pressure on the plate.
+
+Q3 a State and derive Pascal’s law. a1)
+b A tank 1.5m height , square in plan having sides 1m long contains oil of specific (4)
+gravity 0.8 to a depth of 50cm floating on a 1m depth of water. Calculate the total
+pressure on one side of tank and the location of center of pressure.
+
+Q4 a Derive an equation for discharge over a triangular notch. “(q)
+b__ A tank has two identical orifices provided on one of its sides ata depth of 2m and ~ a)
+5m below the free surface of water in the tank. Determine the position of the
+intersection of the two jets with respect to the free surface of water if C, =0.98.
+
+/o-
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+Derive the Bernoulli’s equation.
+A horizontal venturimeter having inlet diameter 20cm and throat diameter 10 cm is
+
+used to measure the flow of oil of specific gravity 0.8. The discharge through the
+venturimeter is 60 Ips. Find the reading on oil-mercury different manometer given
+
+Ca is 0.98.
+
+The velocity components of a 2-D flow for an incompressible fluid are given by
+u=y? +2x -x’y and v=xy? -2y -x'/3. Show that it represents a possible case of
+irrotational flow.
+
+An open cylindrical tank 0.9m high and 0.6m diameter is filled 2/3" with water.
+Find the speed in rpm with which the tank may be rotated so that water just starts
+
+spilling out.
+
+For a laminar flow through circular pipe, derive a relation between maximum and
+average velocity.
+
+Calculate pressure gradient along flow, average velocity and discharge for an oil of
+viscosity 0.02Ns/m? flowing between 2 stationary parallel plates 1m wide and
+spaced 1cm apart given that velocity midway between the plates is2 m/s.
+
+i)
+7)
+
+7)
+
+CD
+
+qT)
+
+O)
+````
+
+## 2017-18 · Exam not stated · Sem 3 · paper 489210b0473f
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics 2016-17 (Mechanical).pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 May 2018
+- Text: ocr (3 pages), mean OCR confidence 90.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Mechanical) Year: II Semester: III
+
+Batch: 2016-17 f
+Academic Year: 2017-2018 A
+
+Subject: Fluid Mechanics ,
+, Marks: 70
+Date: 30 May 2018 - Time: 10.00 am to 1.00 pm-
+‘ Durations: 3 (Hrs)
+No. of Pages: 3
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. -
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any _4__ questions.
+3)Inall__5 ‘questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql a. Define the term: ~ : 3M
+i. Compressibility :
+ii. Newtonian fluid
+iii. Specific weight
+b. Explain the term i) Rotational and Irrotational flow, ii) steady flow and un-steady flow. 3M
+_c. A mercury column is used to measure the atmospheric pressure. The height of column 4M
+above the mercury well surface is 762 mm. The tube is 3 mm in dia. The contact angle is
+140°. Determine the true pressure in mm of mercury if surface tension is 0.51 N/m. The
+space above the column may be considered as. vacuum.
+d. State the assumptions made in-Bernoulli’s principle. 4M
+
+Q2 a. Define the continuity equation. Obtain an expression for continuity equation in Cartesian 7M ~
+coordinate system.
+
+b. Ina two dimensional flow the x and y directional velocities u and v are given by ™
+ee -__%
+~ x2+y?2 x2+y2
+
+1. Show that the flow is steady and 2. Check whether the flow is irrotational.
+
+3 a. Amanometer is fitted as shown in Fig.1. Determine the pressure at point A. ™
+
+4/3
+--- page 2 ---
+by
+
+Q4 a.
+b.
+Q5 a.
+
+---Hg (13,600 kgim®)
+
+Figure 1
+Determine the force exerted by sea water (sp.gravity = 1.025) on the curved portion AB 7M
+of an oil tanker as shown in Fig. Ex. 2, also determine the direction of action of the force.
+
+Db OG WL -
+
+Oil tanker
+
+Fig.2
+Starting with Eular’s equation of motion along a stream line, obtain Bernoulli’s equation 7M
+by its integration.
+
+A tap discharges water evenly in a jet at a velocity of 2.6 m/s at the tap outlet, the diameter 7M
+of the jet at this point being 15 mm. The jet flows down vertically in a smooth stream.
+Determine the velocity and the diameter of the jet at 0.6 m below the tap outlet.
+
+Tr
+
+i Oe8m
+
+nh
+at
+
+Wy
+
+Fig. 3
+
+Prove that the maximum velocity in a circular pipe for viscous flow is equal to two times 7M
+the average velocity of the flow.
+
+2/3
+--- page 3 ---
+Q6
+
+Q7
+
+b.
+
+A venturimeter as shown in Fig 4 is used measure flow of petrol with a specific gravity of 7M
+0.8. The manometer reads 10 cm of mercury of specific gravity 13.6. Determine the flow
+rate.
+
+State the, conditions for the stability of floating bodies. ™
+Define displacement thickness. Derive the expression for displacement thickness. ™
+
+Air at 1 atm and 30 °C flows through a pipe of 30 cm dia. The kinematic viscosity at this 7M
+condition is 16 x 10-6 m2/s. The density is 1.165 kg/m3. Determine the maximum average
+velocity for the flow to remain laminar. What will be the volume and mass flow rates at
+
+this condition? Also determine the head loss/m due to friction.
+
+The drag force on a smooth sphere is found to be affected by the velocity of flow, u, the 7M
+diameter D of the sphere and the fluid properties density p and viscosity w. Using
+dimensional analysis obtain the dimensionless groups to correlate the parameters.
+
+2/3
+````
+
 ## 2017-18 · Exam not stated · Sem 3 · paper e4cbfba47979
 
 - Departments: Mechanical
@@ -4593,6 +5416,141 @@ radius r. (08)
 ah
 ````
 
+## 2017-18 · Final-Exam · Sem 3 · paper 7cd74a3e3ef6
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS (MECHANICAL), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 28 November 2017
+- Text: ocr (3 pages), mean OCR confidence 88.8
+
+````text
+~_
+x SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+. Programme: B. Tech (MECHANICAL) ~ Year: I - Semester: III —
+
+Academic Year: 2017-2018
+
+j Subject: Fluid Mechanics yen oN
+Marks: 70 ~ 37.7 NSH}
+
+Date: 28 November 2017 — Time: 10.00 ai to 1.00°pm i \ %
+
+Durations: 3:{hrs) i A RY sg 3
+
+No. of Pages: Wek E
+Sa pa
+
+y the instructions printed on the question paper and
+ovided for their use.
+
+Final-Examination
+#inal-Examination
+
+on the cover of the Answer Book, which is pr
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+3) In all 05 questions to be attempted.
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume ~uitable data if necessary.
+Q.1 Attempt All Questions
+
+I.
+
+IL.
+
+(3.5 X 4=14)
+Explain dynamic viscosity and kinematic viscosity.
+
+State the condition of equilibrium of floating bodies with sketch,
+Tl. Define uniform and non-uniform flow.
+
+IV. Define Kinetic energy correction factor and momentum correction factor.
+
+Q.2 A. A Im wide and 1.5m deep rectangular plane surface lies in water in such a
+
+(07)
+way that its plane makes an angle of 30°
+
+with the free water surface,
+Determine the total pressure force and position of the centre of pressure
+
+when the upper edge is 0.75 m below the free water surface.
+
+. Fig 1 shows a differential manometers connected at two points A and B. At
+A pressure is 100 kN/m/. Find the absolute pressure at B.
+
+(07)
+--- page 2 ---
+Q.3 A. A wooden block of width 1.25m, depth 0.75m and length 3.0m is floating in (07)
+water. Specific weight of the wood is 6.4 KN/m’. Find:
+i. Volume of water displaced, and
+ii. Position of centre of buoyancy.
+; . . oo. (07)
+B}- The velocity field in a flow is given by ;
+V = (34 2xy + 4t7)i + (xy? + 30)j
+Determine the velocity vector and acceleration at point (1, 2) after 2 seconds.
+Q.4 A. In a two dimensional incompressible flow field the velocity.components are (07)
+
+expressed as:
+3 x3
+
+: w= 2x xy yy = xy? — Day — >
+
+Obtain an expression for stream function and velocity potential function.
+State whether the flow is rotational or irrational.
+B. A 45° reducing bend is connected in a pipe line, the diameters at the inlet and (07)
+outlet of the bend being 600 mm and 300 mm respectively. Find the force
+exerted by water on the bend if the intensity of pressure at inlet to bend is
+
+ge ; 8.829 N/cm? and rate of flow of water is 600 liters/s.
+--- page 3 ---
+-Q5 A. Find the discharge of water flowing through a pipe 30 cm diameter placed in (07)
+an inclined position where a venintinieter in inserted, having a throat
+diameter of 15 cm. The difference of pressure between the main and throat is
+measured by a liquid of specific gravity 0.6 in an inverted U-tube which
+gives a reading of 30 cm. The loss of head between the main and throat is 0.2
+times the kinetic head of the pipe.
+B. Derive on the basis of dimensional analysis suitable parameters to present the (07)
+thrust developed by a propeller. Assume that the thrust P depends upon the
+angular velocity , speed of advance V, diameter D, dynamic viscosity, mass
+density p, elasticity of the fluid medium which can be denoted by the speed
+
+of sound in the medium C.
+
+Q.6 A. In a smooth pipe of diameter 0.5 m and length 1000 m is flowing at the rate (07)
+of 0.05 m/s. Assuming the kinematic viscosity of water as 0.02 stokes, find:
+G) head loss due to friction, (ii) wall shear stress, (iii) Centre line velocity,
+(iv) thickness of laminar sublayer.
+B. A horizontal pipe line 40 m long is connected to a water tank at one end and (07)
+discharge freely into the atmosphere at the other end. For the first 25 m of its
+length from the tank, the pipe is 150 mm diameter and its diameter is
+suddenly enlarged to 300 mm. the height of water level in the tank is 8 m
+above the centre of the pipe. Considering all losses of head which occur,
+
+determine the rate of flow. Take f=0.01 for both section of pipe.
+
+Q.7 A. For the velocity profile for laminar boundary layer ; (07)
+
+7 26)-@)
+
+Find the. displacement thickness, the momentum thickness and energy
+
+thickness.
+
+2
+
+B. Derive Hagen-Poiseuille equation for viscous fluid through circular section. (07)
+````
+
 ## 2017-18 · Final-Exam · Sem 5 · paper 85683b153319
 
 - Departments: Mechanical
@@ -4813,6 +5771,108 @@ U   2'8   2 8
 -
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper d17e1ba27124
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS (CIVIL), BATCH 16-17 RE-EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (CIVIL) Year: II - Semester: III
+
+Batch: 2016-17 -
+Academic Year: 2017-2018 -
+
+Subject: Fluid Mechanics .
+Marks: 70
+Date: 30 November 2017 Time: 10.0
+Durations;)
+
+No. of Pages
+
+Re-Examination ¥
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining question, attempt any 4 questions.
+
+3. In all 5 questions to attempted.
+
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+
+Q.1   Question(a) is compulsory out of remaining question, attempt (4)
+any 3 question
+a) Explain dynamic Viscosity. (2)
+b) Draw stress-strain relationship for different types of fluid. (4)
+c) Explain velocity potential function and stream function and their respective (4)
+properties.
+d) Explain Flow net and Critical velocity (4)
+e) Define the terms — gauge pressure, vacuum pressure and absolute pressure. (4)
+
+Indicate their relative positions on a chart.
+
+Q.2. Attempt following (14)
+a) Pipes A and B containing water and a liquid of specific gravity 1.2 are (07)
+connected to a U-tube manometer as shown in Fig. 1.1. The measuring fluid in
+the manometer is oil of specific gravity 0.80. Determine the difference of
+pressure between the centers of the fluids in the pipes.
+
+Page 1 of 2
+--- page 2 ---
+Cusp. gr=0.80
+
+Fig. 1.1
+b) Derive the expression to find out the resultant hydrostatic force on the Vertical (07)
+plane surface.
+Q.3) Attempt following (14)
+a) State Bernoulli’s equation. Derive Bernoulli’s equation from Euler’s equation (07)
+of motion.
+b) What is Pitot- tube describes with diagram? How will you determine velocity (07)
+at any point with the heip of pitot-tube?
+Q.4) Attempt following (14)
+a) A circular tank of diameter 1.5 m contains water upto a height of 6 m. An (07)
+
+orifice of 60 mm diameter is provides at its bottom If Ca =0.62, find the height
+
+of water above the orifice after 1.5 ininutes.
+
+b) Obtain an expression for the discharge over a rectangular notch. (07)
+Q.5) Attempt following. . (14)
+a) A rectangular tank 3 m wide, 4 m long and 2 m deep contains water for a (07)
+
+depth of 1.75 m. find the horizontal acceleration with which the tank has to
+move parallel to its length so that the water may just spill out of the tank. Find
+also the forces exerted on the two ends of the tank, and the accelerating force
+on the fluid mass. ~
+b) Explain the different hydraulic coefficients of an orifice. Why the coefficient (07)
+of discharge of an orifice meter is smaller than Venturimeter.
+
+Q.6) Attempt following (14)
+a) A fluid of viscosity 0.9 Ns/m? and specific gravity 1.5 is flowing through a (07)
+circular pipe of diameter 15 cm. The maximum shear stress at the pipe wall is
+given as 200 N/m’, Find i) the pressure gradient ii) the average velocity.
+
+b) Describe Reynolds experiments to demonstrate the two types of flow. (07)
+Q.7) Write short note on following (14)
+a) Uniform and Non Uniform Flow. (03)
++) Dash pot mechanism with diagram. (03)
+c) Kinetic correction factor and Compressible flow. (04)
+d) Cipolleti weir and write its discharge formula. (04)
+
+Page 2 of 2
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper 5f68c62e1629
 
 - Departments: Civil
@@ -5008,236 +6068,100 @@ iii. | Kinetic energy correction factor and momentum correction factor. (4)
 Hy
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper 847f9d2beae1
+## 2017-18 · Re-Exam · Sem 3 · paper 20c95eb3cd4c
 
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS BATCH 16-17, 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 17 November 2018
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) _~ Year: II Semester: III ~
-
-/ Academic Year: 2018-2019
-
-Subject: Fluid Mechanics #
-
-Date: 17 November 2018 ‘
-7
-
-No Sfp
-a ae
-Re-examination (2016-17 2017-18 SS
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer book which is provided for their use.
-
-N.B.:
-
-1. Question No. 01 is compulsory.
-
-2. Out of remaining six questions, attempt any four questions.
-
-3. In all, 05 question to be attempted.
-
-4. Group all sub questions together.
-
-5. All questions carry equal marks.
-
-6. Answer to each new question to be started on a fresh page.
-
-7. Figures in brackets on the right hand side indicate full marks.
-
-1.Write short notes on any FOUR : (3.5 *4=14 marks)
-a. Hydraulic coefficients of an orifice
-b. Classification of fluids based on viscosity
-c. Mechanical pressure gauges Y
-d. Cipolletti weir :
-e. Equilibrium of floating bodies
-
-2. a State and prove Pascal’s Law. (7 marks)
-b. A 90 N rectangular solid block slides down a 30° inclined plane. The plane is lubricated by
-a3 mm thick film of lubricating oil having a relative density of 0.9 and viscosity of 0.8 poise.
-If the contact area is 0.3 m2, calciilate the velocity of the block. (7 marks)
-
-3 a .Derive an expression for the discharge over a triangular notch. (7 marks)
-
-b. Water flows over a sharp crested’ rectangular weir of 1m height which extends over a
-
-—— rectangular channel 3m width. If the head of the water over the weir is 0.45m, calculate the
-discharge by considering the velocity of approach. Ca= 0.63 (7 marks)
-
-Ve
---- page 2 ---
-4 a. Calculate the pressure gradient along the flow, average velocity and the discharge of an oil
-of viscosity 0.02 Ns/m? flowing between two stationary parallel plates Im wide maintained |
-cm apart. The velocity midway between the plates is 2m/s. (7 marks)
-
-b. Explain with neat sketches : (i) Borda’s mouthpiece (ii) Rotameter (7 marks)
-
-5 a. An oil of specific gravity 0.85 is flowing through a tapering pipe 30 cm diameter at bottom
-and 60 cm at top. The top of the pipe is 10 m above the bottom. The pressures at the upper and
-lower ends are 100 KN/m? and 50 KN/m? respectively. For a discharge of 300 Ips, determine
-the flow direction and head loss. Neglect the minor losses. (7 marks)
-
-__b. Derive Euler’s equation and hence derive Bernolli’s equation for an incompressible fluid
-flowing through a pipe.
-
-(7 marks)
-
-6a. An open cylindrical tank 0.9m high and 0.6m diameter is filled two-thirds with water. Find
-the speed of rotation so that a point at the center of the base is just exposed, also, find the
-
-percentage of water left in the tank. (7 marks)
-b. Derive an expression to find the time required for emptying a tank using an orifice provided
-at the bottom of the tank. (7 marks)
-
-7 a. A horizontal venturimeter with inlet diameter 20 cm and throat diameter 10 cm is used to
-measure the flow of oil of specific gravity 0.8. The discharge through the venturimeter is 60Ips.
-
-Find the reading of oil-mercury differential manometer given Cg is 0.98. (7 marks)
-b. Derive an expression for total pressure and center.of pressure for an inclined plane surface
-submerged in a liquid. on (7 marks)
-
-2 fa
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 7bfd2267b037
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS BATCH 2016-17 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 16 January 2019
-- Text: ocr (2 pages), mean OCR confidence 93.2
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS (MECHANICAL), BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 28 November 2017
+- Text: ocr (2 pages), mean OCR confidence 91.0
 
 ````text
-. SVKM’s NMIMS
+SVKMW’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Program: B.Tech ( Civil ) Year: II Semester;
-“ Academic Year: 2018-19
-] Subject: Fluid Mechanics
-&
+Programme: B.Tech (MECHANICAL) Year: I Semester: III
 
-Date: 16 January 2019
-a
+Batch: 2016-17 :
+Academic Year: 2017-2018
 
-No. of Pase -
+Subject: Fluid Mechanics ~
+Marks: 70 ge) ete Be Bilttaes~S ¥
 
-Re-examination (2016-17/2017-18)
+Date: 28 November 2017 Time: 10.0Q¢4m'to'l. OO Pry x
+Duration: 70 st wi b a 4
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+wyatt Ye
 
-1) Question No. _1____ is-compulsory.
+4 soe OS
 
-2) Out of remaining questions, attempt any _4 __ questions.
-3)Inall__5__ questions to be attempted.
+Instructions: Candidates should read carefully the instructions printed on the ae iF an bn 6c cover
+of the Answer Book, which is provided for their use. a
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
 
-Q 1. Answer the following questions:
+7) Assume suitable data if necessary.
 
-(a) An inverted u-tube manometer is connected to two horizontal pipes A and B through which
-water is flowing. The vertical distance between the axes of these pipes is 30 cm. When an oil of
-sp. gr. 0.8 is used as a gauge fluid, the vertical heights of water columns in the two limbs of
-inverted manometer ( when measured from the respective Centre lines of the pipes) are found to
-be same and equal to 35 cm. Determine the difference of pressure between the pipes.
-(04) ;
+Re-Examination
 
-(b) Explain the term ‘Meta-Centre’ and ‘Meta- Centric Height’. (03)
+1. Attempt the following (any seven) (7X2) 14
+a) Classification of fluid.
+b) Difference between Eulerian and Lagrangian method.
+c) Compressible and incompressible flow.
+d) Hydrostatic and Pascal’s Law.
+e) Laminar and Turbulent boundary layer.
+f) Newton’s Law of viscosity.
+g) Orifice meter.
+h) Pathline and streamline.
+2. A. Calculate hydrostatic force on an inclined plane surface. 06
+B. A wooden block of rectangular cross section of width b, length L and submerged depth is H 08
+has its center of gravity at the waterline. Find the metacentric height and the ratio of b/H for
+which the block is stable.
 
-(c) A plate having an area 0.8 m’ is sliding down the inclined plane at 30 ° to the horizontal with a
-velocity of 0.40m. There is a cushion of fluid 1.8 mm thick between the plane and the plate. Find the
-viscosity of the fluid if the weight of the plate is 280 N. (04)
+3. A. Derive continuity equation for steady two dimensional incompressible flow. 10
+B. Does the velocity of incompressible fluid ¥ ~ ~3xb ~ dy + Tek satisfy the law of conservation 04
 
-(d) What is momentum correction factor and kinetic energy correction factor? (03)
-Q 2. Answer the following questions:
+of mass?
+4. A. Short note on Couette Flow. 06
+B. Derive Navier-Stokes equation of motion. 08
 
-(a) A circular opening, 3 m diameter, in a vertical side of a tank is closed by a disk os 3 m diameter_
-which can rotate about a horizontal diameter. Calculate: (i) the force on the disk (ii) The torque
-required to maintain the disc in equilibrium in the vertical position when the head of water above the
-horizontal diameter is 4 m. (07)
+5. A.A large tank has a sharp edged circular orifice of 30 mm diameter at a depth of 4m below 07
+constant water level. The jet issues horizontally and in a horizontal distance of 2.65 m, it fails
+~ by 0.5 m. The measured discharge is 4 liter per sec. Determine the coefficient of velocity,
+coal discharge and contraction for the orifice.
 
-(b) Find the density of a metallic body which floats at the interface of mercury of sp. gr. 13.6 and water
-such that 40% of its volume is submerged in mercury and 60 % in water. (04)
-
-et (c) Define and explain the terms ‘buoyancy’ and ‘centre of buoyancy’. (03)
+B. A 10 cm diameter horizontal pipe is suddenly enlarged to 15 cm diameter pipe. The average 07
+velocity of water and pressure of smaller diameter pipes are 5.5 m/s and 130 kN/m?,
+respectively. Determine the loss of head due to sudden enlargement, pressure in the larger
+diameter pipe and power lost due to sudden enlargement.
 --- page 2 ---
-} Q 3. Answer the following questions:
+6. A. Derive Von-Karman momentum integral equation for steady two dimensional incompressible 06°
+flow.
+B. In an experiment on turbulent flow, following velocity data were recorded at 1s interval time 06
+at a particular point. Determine the value of Reynolds shear stress. Density is 1.2 kg/m’.
 
-! (a) State Bernaulli’s theorem for steady flow of an incompressible fluid. Derive an expression for }
-Bernaullie’s equation from first principle and state the assumptions. (07) \
+u (m/s) 22 34 12 42 17 29
+v (m/s) 7 -8 -4 10 7 -6
+C. Specific gravity of a liquid is 0.7 Find i) Mass density ii) specific weight. 02
+7. A. Write short on (any two) (2X4)— 08
 
-(b) A pipeline carrying oil of sp.gr. 0.87 , changes in diameter from 200 mm diameter at a
-position A to 500 mm diameter at a position B which is 4 mettes at a higher level. If the
-pressure at A and B are 9.81N/cm? and 5.886N/cm’ respectively and the discharge is 200 Its/s,
-determine the loss of head and direction of flow. (07)
-Q 4. Answer the following questions:
-
-(a) A 100 mm diameter orifice discharge 36 Its per second of water under a constant head of 2.6 m. A
-flat plate held normal to the jet just downstream from the orifice requires a force of 240 N to resist the
-impact of the jet. Determine the hydraulic co-efficients. (07)
-
-(b) Explain : (i) Pathline (ii) Streamline (iii) Streakline (03)
-
-(c) An internal mouthpiece of 100 mm diameter is discharging water under a constant head of 5 m. Find
-the discharge through mouthpiece when:
-(i) The mouthpiece is running free
-(ii) The mouthpiece is running full (04)
-
-Q 5. Answer the following questions:
-
-(a) Prove that the maximum velocity in a circular pipe for a viscous flow is equal to two times the
-
-average velocity of flow. (06)
-(b) Find the time required to lower the water level from 3 m to 2 m in a reservoir of dimensions 70 m*
-70 m, by
-
-(i) a rectangular notch of length 1.2 m
-
-(ii) a right angled V-notch. Take Cy = 0.62 (04)
-
-(c) A broad’crested weir of 50 m length, has 50 cm height of water above its crest. Find the maximum
-discharge. Take Cy = 0.6. Neglect velocity of approach. (b) If the velocity of approach is to be taken into
-consideration, find the maximum discharge when the channel has a cross-sectional area of 50 m’ on the
-
-upstream side. . (04)
-
-Q 6. Answer the following questions:
-(a)The fluid flow field is given by
-
-V= x’yi +y’zj — (2xyztyz’)k
-Prove that it is a case of possible steady incompressible fluid flow. Calculate the velocity and
-acceleration at the point (2, 1, 3). , (06)
-
-(b)The velocity components in x and y directions are given as u= 2 xy'/3 — x’y and v= xy’ — 2yx?/3.
-Indicate whether the given velocity distribution is a possible field of flow or a not possible field of flow.
-
-(03)
-
-(c) What is flow net? Enumerate the methods of drawing flow nets. What are uses and limitations of
-
-| flow nets? (05)
-
-| Q7. Answer the following questions:
-
-te (a) Obtain the equation for pressure variation in a fluid at rest. (03)
-(b) Explain notch, weir, nappe and crest. (04)
-(c) Write short notes on bourdon tube pressure gauge. (03)
-
-(d) With neat sketches, explain the conditions of equilibrium for floating and submerged body. ( 04)
-
-* 2/2
+a) State Buckingham ~ mtheorem.
+b) Derive Bernoulli equation from Euler equation.
+c) Effect of temperature and pressure on viscosity.
+B. Define following term (3X2) — 06
+a) Reynolds number and Weber number.
+‘ b) Reynold’s transport theorem statement and mathematical formula.
+c) Buoyancy force and metacenter.
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper 48902a08ad78
@@ -5395,32 +6319,33 @@ a)Losses in pipe flow . (4)
 b) Working of Bourdon gauge (4)
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper 01601423644e
+## 2017-18 · Re-Exam · Sem 3 · paper 1c40d45ae618
 
 - Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS BATCH 16-17 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 90.4
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/FLUID MECHANICS/Fluid Mechanics Batch 2016-17 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 92.2
 
 ````text
-; SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’S NMIMS
+/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-_ Program: B. Tech (Mechanical) Year: II Semester : III
-| a Academic Year: 2018-2019 Pa =
-+ Subject: Fluid Mechanics Marks: 70
-Time: 2.00-pm to 5.00 pm
-Date: 18 J 2019 =
-ue anvay 4 : Durations:3 (hrs) _
+Academic Year: 2017 - 2018 - —— .
+Program: B. Tech Integrated (Mechanical) - Year:III” Semester:V" Sy
+Batch: 2016-17¢ Marks: 60: ‘ aw
+Subject: Fluid Mechanics - Time:02300 pm to 05.60%
 
-No. of Pages: 43
-Re-examination (2016-17 / 2017-18)
+Date :30 November 2017 | Duratior *
+‘ No. of Page}
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+RE - EXAMINATION
 
-1) Question No. 01 is compulsory.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
 2) Out of remaining questions, attempt any four questions.
 
 3) In all five questions to be attempted.
@@ -5430,128 +6355,113 @@ on the cover of the Answer Book, which is provided for their use.
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -suitable data if necessary.
+7) Assume suitable data if necessary.
 
-.
+QI: Answer the following
 
-Ql Attempt the following (Any four) 14
+a) Explain Newton’s law of viscosity. (2)
 
-a) State Newton’s law of viscosity and explain different types of fluids.
+b) Explain the conditions for stability of a floating body. (2)
 
-b) Define and explain total pressure and centre of pressure.
+c) Define stream line and stream function. (2)
 
-c) Explain velocity potential and stream function. What is relationship
-between velocity potential and stream function?
+d) Write Bernoulli’s equation and assumptions made in deriving it. (2)
 
-d) Explain stable, unstable and neutral equilibrium of floating bodies.
+e) Explain the significance of Moody’s chart. (2)
 
-e) What is Pitot tube? On what principle does it work?
+f) Define displacement thickness and momentum thickness. (2)
+Q2:
 
-f) Explain hydraulic gradient and total energy line.
+a) The velocity distribution for flow over a flat plate is given by u = 2y — y* where the velocity u is in m/s at a
+distance y meters above the plate. Determine the velocity gradient and shear stress at the boundary and 1.5 m
 
-i Q.2 <A A differential manometer connected at the two points A and B at the same level 07
+from it. Take dynamic viscosity of fluid as 0.9Ns/m?. (6)
+b) Derive an expression for the total pressure exerted on a submerged vertical plane surface by the static fluid
+and locate the position of the center of pressure. (6)
+Q3:
+a) State and prove the Pascal’s law. (6)
+b) A two dimensional flow field is given by = 3xy, determine the i) The stream function ii) The velocities at
+L(2,6) and M(6,6). (6)
 
-in a pipe containing an oil of specific gravity 0.8, shows a difference in mercury
-levels as 100 mm. Determine the difference in pressures at the two points.
-
-3
+Vie
 --- page 2 ---
-BA rectangular plate 0.6 m wide and 1.2 m deep is submerged in an oil bath of 07
-specific gravity 0.8. The maximum and minimum depths of the plate are 1.6 m
-and 0.75 m from the free surface. Calculate hydrostatic force on one face of the
-plate and depth of center of pressure.
+Q4:
 
-Q3 A Explain in detail major and minor energy losses in pipes. 07
+a) U-—Tube manometer containing mercury was used to find the negative pressure in the pipe, containing water.
+The right limb was open to atmosphere. Find the vacuum pressure in the pipe, if the difference of mercury
 
-BA solid cylinder of 360 mm long and 80 mm diameter has its base 10 mm thick 07
-of specific gravity 7. The remaining part of the cylinder is of specific gravity
-0.5. Determine, if the cylinder can float vertically in the water.
+level in the two limbs was 100 mm and the height of water in the left limb from the center of the pipe was
+found to be 40 mm below. Take specific gravity of mercury as 13.6 (6)
 
-Q.4 <A __ Derive the continuity equation in Cartesian co-ordinates. 07
+b) Derive the continuity equation in Cartesian coordinate system for a 3 —D flow. (6)
 
-B 200 mm x 100 mm venturimeter is mounted in a vertical pipe carrying water, 07
-_ the flow being upwards. The throat section is 200 mm above the entrance
-section of the venturimeter. For a certain flow through the meter, the
-differential gauge between the throat and entrance indicates a gauge of
-deflection of 250 mm. Assuming the venturi coefficient as 0.98, find the
-discharge.
-Q.5 A State and prove Bernoulli’s equation of fluid flow. Mention assumption made in 07
+Qs:
 
-derivation.
+a) A horizontal venturimeter with inlet diameter 200 mm and throat diameter’100 mm is employed to measure
 
-B_ The velocity potential function for a two dimensional flow is @ = x(2y—1). 07
-At a point P(4,5) determine:
-(i) The velocity
-(ii) The value of stream function
+the flow of water. The reading of the differential manometer connected to the inlet is 180 mm of mercury. If
+the coefficient of discharge is 0.98, determine the rate of flow.
 
-Q.6 A Prove that the discharge over a spillway is given by the relation, 07
-ei Q=VD*f (2) . (| where V = Velocity of flow; D = Depth at the throat;
+(6)
 
-H = Head of water and g = Acceleration due to gravity. Use Buckingham’s z-Theorem
+6) Discuss the major and the minor losses taking place in pipes. (6)
+Q6:
 
-B Derive Hagen-Poiseuille equation for laminar flow through circular pipe. 07
+a) Derive the Hagen Poissuille equation for the flow of viscous fluid through pipe. (6)
 
-= ole
---- page 3 ---
-Q.7. A __ The diameter of a horizontal pipe which is 300 mm is suddenly enlarged to 600 07
-mm. The rate of flow of water through this pipe is 0.4 m’/s. If the intensity of
-pressure in the smaller pipe is 125 kN/m?. Determine:
+b) A farmer wishes to connect two pipes of different lengths and diameters to a common header supplied with
+8 x10° m*/s of water from a pump. One pipe is 100 m long and 5 cm in diameter. The other is 800 m long.
+Determine the diameter of the second pipe such that both the pipes have the same flow rate. Assume the pipes
 
-(i) Loss of head due to sudden enlargement
-(ii) Intensity of pipe in the larger pipe, and
-(iii) | Power loss due to enlargement
+to be laid on level ground and the friction coefficient for both the pipes is 0.02, also determine the head loss
+in metres of water in the pipes. (6)
 
-B In the boundary layer over the face of high spillway, the velocity distribution 07
+Q7:
 
-was observed to have the following form:
-yy 0.22
-
+a) Explain the concept of Boundary Layer separation. Discuss any two methods to control it. (6)
+b) The velocity profile within a laminar boundary layer over a flat plate is given by the equation
 u
 
-U (5)
-The free stream velocity U at a certain section was observed to be 30 m/s and a
-boundary layer thickness of 60 mm was estimated from the velocity distribution
-measured at the section. The discharge passing over the spillway was 6 m 3/s per
-meter length of spillway. Calculate :
+2
+5 2¢ = (2) - Find an expression for Displacement thickness & and Momentum Thickness (6)
 
-i. The displacement thickness
-ii. The energy thickness and
-iii. | The loss of energy upto section under consideration.
-
-a]s
+he
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper d67a1f8f9389
+## 2017-18 · Re-Exam · Sem 5 · paper 0c92b294250e
 
 - Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS BATCH 16-17, 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 20 November 2018
-- Text: ocr (2 pages), mean OCR confidence 93.1
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_05/FLUID MECHANICS/Fluid Mechanics Batch 2016-17 Re Exam.pdf`
+- Printed on paper: exam date: 31 May 2018
+- Text: ocr (2 pages), mean OCR confidence 93.2
 
 ````text
-[o) SVKM’s NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (MECHANICAL) Fear II Semester: II
-| Academic Year: 2018-2019
+Semester: V
 
-Subject: Fluid Mechanics y
+‘
 
-Marks \70
-Date: 20 November 2018 Time?
-, 7 3 Durati
-No. of Pa
+Programme: B. Tech Integrated (Mechanical) < Year: III
 
-Re-examination (2016-17 / 2017-18)
+Batch: 2016-17 <
+Academic Year: 2017-2018
 
-Instructions: Candidates should read carefully the instructions printed on the enestion paper and on the cover
+Subject: Fluid Mechanics «
+
+Date: 31 May 2018,
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
-1) Question No. | is compulsory.
+
+1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
-3) In all 5 questions to be attempted.
+3) In all, 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -5560,66 +6470,92 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-1. | Attempt the following (any seven) (7x2) 14
-a) State and explain newton’s Law of Viscosity.
-b) Difference between Eulerian and Lagrangian method.
-c) State Archimedes’ Principle.
-d) State Hydrostatic and Pascal’s Law.
-e) Difference between Laminar and Turbulent boundary layer.
-f) Explain Moody’s chart.
-g) What is a Pitot-tube?
-h) Difference between Streamline and Streaklines. \
+Qn. Marks
+No. .
+la. | Attempt any Two
+i Explain the concept-of capillarity. 3
+ii | Distinguish between real fluids and ideal fluids. 3
+iii | Derive the Hydrostatic Equation. 3
+iv | If 5 m? of a certain oil weighs 40 KN, calculate the specific weight, mass density and 3
 
-2. A. Calculate hydrostatic force on a vertical submerged surface. 07
-B. Find the total pressure and position of center of pressure on a triangular plate of base 2m and 07
-height 3m which is immersed in water in such a way that the plane of the plate makes an angle
-of 60 degree with the free surface of water. The base of the plate is parallel to water surface and
-at a depth of 2.5m from water surface.
+specific gravity of the oil.
+1b. | Attempt any One
+i A hollow cylinder of outside diameter 1.25 m, length 3.5 m and specific weight 75 537 6
+N/m?, floats just in stable equilibrium in sea water. Find the minimum permissible
+thickness of the cylinder. Sea water weighs 10 055 N/m?.
 
-3. A. Derive continuity equation in 3- dimensional steady incompressible flow. 10
-B. The stream function in a two-dimensional, incompressible flow field is given as y = 3xy. 04
-(a) Determine the velocity components.
+ii | Explain Prandtl’s mixing length theory. 6
+2a. | The diameter of a pipe bend is 0.3 m at inlet and 0.15 m at outlet and the flow is turned 6
+through 120° in a vertical plane. The axis at inlet is horizontal and centre of outlet section
+is 1.5 m below the centre of the inlet section. The total volume of fluid contained in the
+bend is 0.085 m?. Neglecting friction, calculate the magnitude and direction of force
+exerted on the bend by the water flowing through it at 225 I/s when the inlet pressure is
 
-(b) Check whether the flow is irrotational or rotational.
+137.34 kN/m?
+2b. | Show the different regimes of fluid flow in a Moody chart while explaining its 6
+significance.
 
-4. A. Short note on stability of floating and submerged body 06
-
-B. A 300mmdiameter pipe carries water under a head of 20 meters with a velocity of 3.5m/s. If 08
-the axis of the pipe turns through 45 degree; find the magnitude and direction of the resultant
-force at the bend.
-
-atacand
-5. A. The inverted U-tube manometer contains oil (SG = 0.9) and water as shown in figure below.
-tes The pressure differential between pipes A and B, DP, Py is —5 kPa. Determine the
-differential reading, h.
+Page 1 of 2
 --- page 2 ---
-07
+3a.
 
-B. A 10 cm diameter horizontal pipe is suddenly enlarged to 15 cm diameter pipe. The average 07
-velocity of water and pressure of smaller diameter pipes are 5.5 m/s and 130 kN/m?,
-respectively. Determine the loss of head due to sudden enlargement, p
-diameter pipe and power lost due to sudden enlargement.
+3b.
 
-6. A. Derive the Hagen-Poiseuille Equation in viscous flow through circular pipes. 08
-. A venturimeter is fitted in a pipe of 30 cm diameter inclined at 40° to the horizontal to 06
-measure the flow rate of petrol having a specific gravity of 0.8. The ratio of areas of main
-pipe and throat is 5 and the throat is at 1 m from the inlet along its length. The difference in
-manometer head is 40 mm of mercury. Assuming the coefficient of discharge as 0.96.
-Calculate the discharge through the venturimeter and the pressure difference between the
-throat and the entry point of the venturimeter.
-7. A. Write short on (2x4)—
-a) State Buckingham — x theorem.
-b) Hydraulic Gradient and Total energy lines.
-B. Determine the wall shearing stress in a pipe of diameter 100mm which carries water. The 06
+For a three-dimensional flow field described by V = (y* + z’) i+ (z? + x?) j + (x* +y’)
+k, at (1, 2, 3), find, (i) the components of acceleration and (ii) the components of rotation.
+The gate shown in the figure is 1 m long and 1 m wide and is made of a material with
+density 24 kN/m*. If the gate is hinged at the top and freely supported at one of the
+bottom ends, find the height of water h on the upstream side when the gate will just be
+lifted.
 
-velocities at the pipe centre and30mm from the pipe centre are 2m./s and 1.5m/s respectively.
-The flow in pipe is given as turbulent.
+Discuss Couette flow.
 
-ressure in the larger
+4a.
 
-08
+4b.
 
-v
+Two pipes each 300 m long are available for connecting to a reservoir from which a flow
+of 0.085 m°/s is required. If the diameters of the two pipes are 0.30 m and 0.15 m
+respectively, determine the ratio of the head lost when the pipes are connected in series
+to the head lost when they are connected in parallel. Neglect minor losses.
+
+Derive an expression for the velocity distribution for viscous flow through a circular
+pipe. Start with the Navier-Stokes equation.
+
+Sa.
+
+5b.
+
+Two parallel plates kept 0.1 m apart have laminar flow of oil between them with a
+maximum velocity of 1.5 m/s. Calculate the discharge per metre width, the shear stress
+at the plates, the difference in pressure in Pascal between two points 20 m apart, the
+velocity gradient at the plates and velocity at 0.02 m from the plate. Take viscosity of
+oil to be 2.453 N.s/m?.
+
+Describe Major and Minor Losses in pipes. -
+
+6 b.
+
+The velocity distribution in the boundary layer is given as:
+v/V = 3/2 (1) - 1/2 (n° wherein, n =(y/ 6). Compute (6 */ 6) and(@/ &).
+Derive an expression for discharge through venturimeter.
+
+7a.
+Tb.
+
+‘Ge
+
+Compare the Lagrangian approach to the Eulerian approach.
+
+Calculate the capillary rise in a glass tube of 2 mm diameter when immersed in (a) water
+and (b) mercury. Surface tensions at the state temperature are 0.0075 kg(f)/m and 0.052
+kg(f)/m respectively for water and mercury in contact with air.
+
+Discuss the phenomenon of boundary layer separation.
+
+1.5m
+
+Page 2 of 2
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper e3756bfe8ede
@@ -5754,252 +6690,87 @@ The pressure drop over a 0.5 m length is 6 kPa. Evaluate the average velocity an
 Explain Couette flow.
 ````
 
-## 2016-17 · Exam not stated · Sem 3 · paper 489210b0473f
+## 2017-18 · Re-Exam · Sem 3 · paper 800f79530f47
 
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics 2016-17 (Mechanical).pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 May 2018
-- Text: ocr (3 pages), mean OCR confidence 90.5
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: exam date: 25 November 2017
+- Text: text (2 pages)
 
 ````text
-SVKM’s NMIMS
+SVKM's NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Mechanical) Year: II Semester: III
-
-Batch: 2016-17 f
-Academic Year: 2017-2018 A
-
-Subject: Fluid Mechanics ,
-, Marks: 70
-Date: 30 May 2018 - Time: 10.00 am to 1.00 pm-
-‘ Durations: 3 (Hrs)
-No. of Pages: 3
-
+Programme: MBATech (CIVIL)   Year: II   Semester: III
+Batch: 2016-17
+Academic Year: 2017-2018
+Subject: Fluid Mechanics
+Date: 25 November 2017
 Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. -
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any _4__ questions.
-3)Inall__5 ‘questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql a. Define the term: ~ : 3M
-i. Compressibility :
-ii. Newtonian fluid
-iii. Specific weight
-b. Explain the term i) Rotational and Irrotational flow, ii) steady flow and un-steady flow. 3M
-_c. A mercury column is used to measure the atmospheric pressure. The height of column 4M
-above the mercury well surface is 762 mm. The tube is 3 mm in dia. The contact angle is
-140°. Determine the true pressure in mm of mercury if surface tension is 0.51 N/m. The
-space above the column may be considered as. vacuum.
-d. State the assumptions made in-Bernoulli’s principle. 4M
-
-Q2 a. Define the continuity equation. Obtain an expression for continuity equation in Cartesian 7M ~
-coordinate system.
-
-b. Ina two dimensional flow the x and y directional velocities u and v are given by ™
-ee -__%
-~ x2+y?2 x2+y2
-
-1. Show that the flow is steady and 2. Check whether the flow is irrotational.
-
-3 a. Amanometer is fitted as shown in Fig.1. Determine the pressure at point A. ™
-
-4/3
+Instructions: Candidates should read carefully the instructions printed on the ques IOnpaper
+and on the cover of the Answer Book, which is provided for their use.
+1. Question No. 1 is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. In all 5,questions to attempted .
+. 4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume suitable data if necessary.
+&&2   ca   a   c AL   _.E._.!il
+Q.l   Question(a) is compulsory out of remaining question, attempt   (14)
+any 3 question
+a)   Define vapour pressure.   (2)
+b) What are the classification of orifices and mouthpiece?   (4)
+c) What is meant byViscosity of a liquid? What is effect of temperature on   (4)
+Viscosity of liquid?
+d)   State and prove Pascal's law.   (4)
+e)   Write a short note on Vorticity and Circulation.   (4)
+Q.2   Attempt following   (14)
+a)   Explain the phenomenon of capillarity and obtain an expression for capillary   (07)
+rise and capillary fall of liquid.
+b)   The diameter at the ends of a 16 m long vertical conical pipe conveying water   (07)
+are 0.5 meter and 1.5 m. The loss of head due to friction is 2.65 m for flow is
+either direction when the velocity at the smaller section is 9 m/s if the smaller
+section is at the top and the pressure head at the section is 2.15 m of water.   -
+Find the pressure at the lower and when the flow 1~
+a) Downward
+b) Upward
+Page 1 of 2
 --- page 2 ---
-by
-
-Q4 a.
-b.
-Q5 a.
-
----Hg (13,600 kgim®)
-
-Figure 1
-Determine the force exerted by sea water (sp.gravity = 1.025) on the curved portion AB 7M
-of an oil tanker as shown in Fig. Ex. 2, also determine the direction of action of the force.
-
-Db OG WL -
-
-Oil tanker
-
-Fig.2
-Starting with Eular’s equation of motion along a stream line, obtain Bernoulli’s equation 7M
-by its integration.
-
-A tap discharges water evenly in a jet at a velocity of 2.6 m/s at the tap outlet, the diameter 7M
-of the jet at this point being 15 mm. The jet flows down vertically in a smooth stream.
-Determine the velocity and the diameter of the jet at 0.6 m below the tap outlet.
-
-Tr
-
-i Oe8m
-
-nh
-at
-
-Wy
-
-Fig. 3
-
-Prove that the maximum velocity in a circular pipe for viscous flow is equal to two times 7M
-the average velocity of the flow.
-
-2/3
---- page 3 ---
-Q6
-
-Q7
-
-b.
-
-A venturimeter as shown in Fig 4 is used measure flow of petrol with a specific gravity of 7M
-0.8. The manometer reads 10 cm of mercury of specific gravity 13.6. Determine the flow
-rate.
-
-State the, conditions for the stability of floating bodies. ™
-Define displacement thickness. Derive the expression for displacement thickness. ™
-
-Air at 1 atm and 30 °C flows through a pipe of 30 cm dia. The kinematic viscosity at this 7M
-condition is 16 x 10-6 m2/s. The density is 1.165 kg/m3. Determine the maximum average
-velocity for the flow to remain laminar. What will be the volume and mass flow rates at
-
-this condition? Also determine the head loss/m due to friction.
-
-The drag force on a smooth sphere is found to be affected by the velocity of flow, u, the 7M
-diameter D of the sphere and the fluid properties density p and viscosity w. Using
-dimensional analysis obtain the dimensionless groups to correlate the parameters.
-
-2/3
-````
-
-## 2016-17 · Exam not stated · Sem 3 · paper a9beff24727b
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics 2016-17-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 18 January 2019
-- Text: ocr (3 pages), mean OCR confidence 90.6
-
-````text
-SVKM’S NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (Mechanical) Year: I Semester : IIT
-Academic Year: 2018-19 ,
-“Subject: Fluid Mechanics ~~ Marks: 70 7”
-
-Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-
-a No. of Pages:_ O3
-_ __Re-examination B.Tech (2018-19) / MBA Tech (2016-17 / 2017-18/2018-19) cal
-
-~
-
-| Date: 18 January 2019 2
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql a. Explain the phenomenon of surface tension. 3M
-b. State the condition for the stability of floating body. 3M
-c. A simple manometer is used to measure the pressure of oil (specific gravity = 0.8) 4M
-following in pipeline. Its right limb is open to the atmosphere and the left limb is connected
-to the pipe. The center of the pipe is 90 mm below the level of mercury (specific gravity =
-13.6) in the right limb. If the difference of mercury levels in the two limbs is 150 mm. Find
-the pressure of oil in the pipe.
-
-d. State the assumptions made in Bernoulli’s principle. 4M
-
-Q2 a. Explain Capillary action. Determine the capillary depression of mercury ina 4 mmID 7M
-glass tube. Assume surface tension as 0.45 N/m and B =115°.
-b. A vertical sluice gate 3 m wide and 2.5 m deep contains water on both of its sides. On the 7M
-upstream side, the water is 5 m deep and on the downstream side it is 2 m deep from the
-
-bottom of the sluice. What is the resultant force on the gate?
---- page 2 ---
-SRIRRER ER wot
-
-Q3 a. A rectangular plate 2 m wide and 4 m deep is immersed in water in such a way that its ™
-g
-plane makes an angle of 25e@ with the water surface as shown below.
-
-a Surface
-
-Determine the total pressure on one side of the plate and the position of the center of
-pressure. ,
-b. Given that u= x? —y and v = — 2xy, determine the stream function and potential function 7M
-for the flow.
-Q4 a. Derive Euler’s equation of motion for flow along a stream line. State its assumptions. ™
-b. Water flows in a tapering pipe vertically as shown below. Determine the manometer 7M
-
-reading ‘‘h’’. The manometer fluid has a specific gravity of 13.6. The flow rate is 100 lit/s.
---- page 3 ---
-Q5
-
-Q6
-
-Q7
-
-Using dimensional analysis, obtain a correlation for the frictional torque due to rotation of
-a disc in a viscous fluid. The parameters influencing the torque can be identified as the
-diameter, rotational speed, viscosity and density of the fluid.
-
-Define displacement thickness. Derive the expression for displacement thickness.
-
-An oil of specific gravity 0.82 and kinematic viscosity 16 x 10-6 m?/s flows in a smooth
-pipe of 8 cm diameter at a rate of 2 lit/s. Determine whether the flow is laminar or turbulent.
-Also calculate the velocity at the center line and the velocity at a radius of 2.5 cm. What is
-head loss for a length of 10 m? What will be the entry length? Also determine the wall
-shear. ,
-
-The difference in water surface levels in two tanks, which are connected by three pipes in
-series of lengths 300 m, 170 m and 210 m and of diameters 300 mm, 200 mm and 400 mm
-respectively, is 12 m. Determine the rate of flow of water considering minor losses if
-
-coefficient of friction are 0.005, 0.0052 and 0.0048 respectively.
-
-. 2
-For the velocity profile for laminar boundary layer t= 2(2) = *(%) . Determine the
-
-boundary layer thickness, shear stress and drag force.
-
-A ship’s plan view is in the form of an ellipse with a major axis of 36 m and minor axis of
-12 m. The mass of the ship is 1000 tons. The center of buoyancy is 1.8 m below the water
-level and the center of gravity is 0.3 m below the water level. Determine the metacentric
-
-height for rolling (y — y axis) and pitching (x — x axis). (Sea water density = 1030 Kg/m3)
-
-7™.
-
-7™
-
-7™
-
-7™
-
-™
-
-™
+•
+Q.3) Attempt following   (14)
+a)   Derive the continuity   equation   for- 3-dimensional   flow in Cartesian co-   (07)
+ordinate system.
+b) A wooden cylinder of circular cross-section   (specific gravity=0.6) having   (07)
+length L and diameter d floats in water find the maximum permissible Lld
+ratio so that the cylinder may float in stable equilibrium with its axis vertical.
+What would be the cylinder length if it is 25 cm in diameter?
+Q.4)   . Attempt following   (14)
+a)   What is Rotameter?   (3)
+b)   Derive an expression of flow velocity through an orifice.   (4)
+c)   If for a two-dimensional   potential flow, the velocity potential is given by   (07)
+q,=x(2y-l)
+determine the velocity at the point P (3,6).Determine also the value of stream
+function   \jI at the point P.
+Q.5) Attempt following   (14)
+a) How are the notches and weir classified? Give anyone advantage of triangular   (07)
+notch or weir over rectangular notch or weir any two.
+b) A tank containing water upto a depth of 600 mm is moving vertically upward   (07)
+with a constant acceleration of2.5 mls2. Find the force exerted by water on the
+side of the tank) also calculate the force on the side of tank when the width of
+tank: is 2 m and Tank   IS moving vertically downward with a constant
+acceleration of2.5 m/s".
+Q.6) Attempt following   (14)
+a)   Derive Hagen Poiseuille's formula for the discharge through a pipe.   (07)
+b)   Prove that the velocity distribution   for viscous flow between two parallel   (07)
+plates when both plates are fixed across a section is parabolic in nature.
+Q7   Attempt all the questions
+a) Define Modulus of elasticity and cornpressibility   (04)
+b) Explain momentum correction factor and energy correction factor   (03)
+c) Explain velocity of approach and its effects on discharge   (03)
+d) Draw a neat diagram of Bourdon's pressure gauge and explain its working.(04)
+-
+Page 2 of 2
 ````
 
 ## 2016-17 · Final-Exam · Sem 3 · paper e483c280c6fd
@@ -6371,6 +7142,7 @@ Derive Hagen-Poiseuille equation for laminar flow through circular pipe.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics Batch 2016-17 Final.pdf`
 - Printed on paper: exam date: 29 November 2016
 - Text: ocr (2 pages), mean OCR confidence 94.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -6413,7 +7185,6 @@ greatest and least depth below the free surface are 4m & 1.5m respectively. Dete
 
 and its position. (07)
 b. Verify whether given stream functions represent irrotational flow:
-"4 () y = Ax’ y (ii) y = Ax- By’. (07)
 cd 5.a. Derive Bernoulli’s equation. (07)
 
 b. A horizontal venturimetér 20x10cm is used to measure is used to measure the flow of oil of
@@ -6434,441 +7205,229 @@ b. Find discharge of water flowing over a rectangular notch of 3m with head of 5
 discharge for the notch is 0.64. Derive the equation you will use. (07)
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper d17e1ba27124
+## 2016-17 · Re-Exam · Sem 3 · paper 453d19fd5c5f
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS (CIVIL), BATCH 16-17 RE-EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 93.2
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS B TECH (CIVIL), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 30 November 2016
+- Text: ocr (2 pages), mean OCR confidence 91.4
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (CIVIL) Year: II - Semester: III
+Programme :. B. Tech (CIVIL) Year : II Semester: III
+Batch : 2014-2015 / 2015-2016 “ =
 
-Batch: 2016-17 -
-Academic Year: 2017-2018 -
+Academic Year : 2016-2017
+Subject : Fluid Mechanics
 
-Subject: Fluid Mechanics .
-Marks: 70
-Date: 30 November 2017 Time: 10.0
-Durations;)
+Date : 30 November 2016
 
-No. of Pages
+Re-Examination
 
-Re-Examination ¥
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
+NB:
 
-1. Question No. 1 is compulsory.
-
-2. Out of remaining question, attempt any 4 questions.
-
-3. In all 5 questions to attempted.
-
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume Suitable data if necessary.
-
-Q.1   Question(a) is compulsory out of remaining question, attempt (4)
-any 3 question
-a) Explain dynamic Viscosity. (2)
-b) Draw stress-strain relationship for different types of fluid. (4)
-c) Explain velocity potential function and stream function and their respective (4)
-properties.
-d) Explain Flow net and Critical velocity (4)
-e) Define the terms — gauge pressure, vacuum pressure and absolute pressure. (4)
-
-Indicate their relative positions on a chart.
-
-Q.2. Attempt following (14)
-a) Pipes A and B containing water and a liquid of specific gravity 1.2 are (07)
-connected to a U-tube manometer as shown in Fig. 1.1. The measuring fluid in
-the manometer is oil of specific gravity 0.80. Determine the difference of
-pressure between the centers of the fluids in the pipes.
-
-Page 1 of 2
---- page 2 ---
-Cusp. gr=0.80
-
-Fig. 1.1
-b) Derive the expression to find out the resultant hydrostatic force on the Vertical (07)
-plane surface.
-Q.3) Attempt following (14)
-a) State Bernoulli’s equation. Derive Bernoulli’s equation from Euler’s equation (07)
-of motion.
-b) What is Pitot- tube describes with diagram? How will you determine velocity (07)
-at any point with the heip of pitot-tube?
-Q.4) Attempt following (14)
-a) A circular tank of diameter 1.5 m contains water upto a height of 6 m. An (07)
-
-orifice of 60 mm diameter is provides at its bottom If Ca =0.62, find the height
-
-of water above the orifice after 1.5 ininutes.
-
-b) Obtain an expression for the discharge over a rectangular notch. (07)
-Q.5) Attempt following. . (14)
-a) A rectangular tank 3 m wide, 4 m long and 2 m deep contains water for a (07)
-
-depth of 1.75 m. find the horizontal acceleration with which the tank has to
-move parallel to its length so that the water may just spill out of the tank. Find
-also the forces exerted on the two ends of the tank, and the accelerating force
-on the fluid mass. ~
-b) Explain the different hydraulic coefficients of an orifice. Why the coefficient (07)
-of discharge of an orifice meter is smaller than Venturimeter.
-
-Q.6) Attempt following (14)
-a) A fluid of viscosity 0.9 Ns/m? and specific gravity 1.5 is flowing through a (07)
-circular pipe of diameter 15 cm. The maximum shear stress at the pipe wall is
-given as 200 N/m’, Find i) the pressure gradient ii) the average velocity.
-
-b) Describe Reynolds experiments to demonstrate the two types of flow. (07)
-Q.7) Write short note on following (14)
-a) Uniform and Non Uniform Flow. (03)
-+) Dash pot mechanism with diagram. (03)
-c) Kinetic correction factor and Compressible flow. (04)
-d) Cipolleti weir and write its discharge formula. (04)
-
-Page 2 of 2
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 20c95eb3cd4c
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS (MECHANICAL), BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 28 November 2017
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-SVKMW’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (MECHANICAL) Year: I Semester: III
-
-Batch: 2016-17 :
-Academic Year: 2017-2018
-
-Subject: Fluid Mechanics ~
-Marks: 70 ge) ete Be Bilttaes~S ¥
-
-Date: 28 November 2017 Time: 10.0Q¢4m'to'l. OO Pry x
-Duration: 70 st wi b a 4
-
-wyatt Ye
-
-4 soe OS
-
-Instructions: Candidates should read carefully the instructions printed on the ae iF an bn 6c cover
-of the Answer Book, which is provided for their use. a
-
-1) Question No. | is compulsory.
+1) Question No. i is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
-4) All questions carry equal marks.
+4) All questions carry equal marks. -
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
 
-7) Assume suitable data if necessary.
+Qi Answer the following questions (Any Three) (12)
+(a) Define surface tension. Prove that the relationship between surface tension and pressure (04)
 
-Re-Examination
+inside a droplet of liquid in excess of outside pressure is given by p = 40/d.
 
-1. Attempt the following (any seven) (7X2) 14
-a) Classification of fluid.
-b) Difference between Eulerian and Lagrangian method.
-c) Compressible and incompressible flow.
-d) Hydrostatic and Pascal’s Law.
-e) Laminar and Turbulent boundary layer.
-f) Newton’s Law of viscosity.
-g) Orifice meter.
-h) Pathline and streamline.
-2. A. Calculate hydrostatic force on an inclined plane surface. 06
-B. A wooden block of rectangular cross section of width b, length L and submerged depth is H 08
-has its center of gravity at the waterline. Find the metacentric height and the ratio of b/H for
-which the block is stable.
+(b) Define and explain Newton’s law of viscosity and different types of fluids. (04)
+(c) | Explain the term ‘ Meta-Centre’ and ‘Meta- Centric Height’. (04)
+Differentiate between (i) Compressible and incompressible flow (ii) Rotational and (04)
+(4) _ irrotational flow.
+Q2
+a) Explain : (i) Pathline (ii) Streamline (iii) Streakline. (06)
 
-3. A. Derive continuity equation for steady two dimensional incompressible flow. 10
-B. Does the velocity of incompressible fluid ¥ ~ ~3xb ~ dy + Tek satisfy the law of conservation 04
+b) A rectangular plane surface 2 m wide and 3 m deep lies in water in such a way that its (04)
+plane makes an angle 30° with the free surface of water. Determine the total pressure
+and position of centre of pressure when the upper edge is 1.5 m below the free water
+surface.
 
-of mass?
-4. A. Short note on Couette Flow. 06
-B. Derive Navier-Stokes equation of motion. 08
+(c) The velocity distribution for flow over a flat plate is given by u = 3/2 y- y*” , where u (02)
+is point velocity in metres per sec at a distance y metre above the plate. Determine the
+shear stress at y = 9 cm. Assume dynamic viscosity as 8 poise.
 
-5. A.A large tank has a sharp edged circular orifice of 30 mm diameter at a depth of 4m below 07
-constant water level. The jet issues horizontally and in a horizontal distance of 2.65 m, it fails
-~ by 0.5 m. The measured discharge is 4 liter per sec. Determine the coefficient of velocity,
-coal discharge and contraction for the orifice.
+Q3
 
-B. A 10 cm diameter horizontal pipe is suddenly enlarged to 15 cm diameter pipe. The average 07
-velocity of water and pressure of smaller diameter pipes are 5.5 m/s and 130 kN/m?,
-respectively. Determine the loss of head due to sudden enlargement, pressure in the larger
-diameter pipe and power lost due to sudden enlargement.
+(a) The velocity component in a two dimensional flow field for an incompressible fluid are (06)
+as follows: u = y?/3 + 2x — x’y and v= xy? -2y —x?/3. Obtain an expression for the stream
+function.
+
+(b) State Bernoulli’s theorem for steady flow of an incompressible fluid. Derive an (06)
+expression for Bernoulli’s equation from first principle and state the
+assumptions.
+
+1of2
 --- page 2 ---
-6. A. Derive Von-Karman momentum integral equation for steady two dimensional incompressible 06°
-flow.
-B. In an experiment on turbulent flow, following velocity data were recorded at 1s interval time 06
-at a particular point. Determine the value of Reynolds shear stress. Density is 1.2 kg/m’.
+Q4
 
-u (m/s) 22 34 12 42 17 29
-v (m/s) 7 -8 -4 10 7 -6
-C. Specific gravity of a liquid is 0.7 Find i) Mass density ii) specific weight. 02
-7. A. Write short on (any two) (2X4)— 08
+(a), An orifice meter with orifice diameter 10 cm is inserted in a pipe of 20 cm diameter. (04)
+The pressure gauges fitted upstream and downstream of the orifice meter gives readings
+of 19.62N/cm? and 9.81N/cm? respectively. Co-efficient of discharge for the orifice
+meter is given as 0.6. Find the discharge of water through pipe.
 
-a) State Buckingham ~ mtheorem.
-b) Derive Bernoulli equation from Euler equation.
-c) Effect of temperature and pressure on viscosity.
-B. Define following term (3X2) — 06
-a) Reynolds number and Weber number.
-‘ b) Reynold’s transport theorem statement and mathematical formula.
-c) Buoyancy force and metacenter.
+(b) Explain the experimental procedure to determine hydraulic co-efficients of an orifice. (08)
+Q5
+(a) | Obtain an expression for discharge over a triangular notch. (06)
+(b) | Obtain an expression for liquid container subjected to constant horizontal acceleration. (06)
+Q6
+
+(a) Obtain the equation for velocity distribution for flow of viscous fluid between two (06)
+parallel plates.
+
+(b) Describe Reynolds’s experiment. Define (i) Critical velocity and (ii) Reynolds’s number (06)
+
+Q7___~Write short notes on:
+
+(a) Kinetic correction factor and Momentum correction factor. (04)
+(b) Notch, Weir, Nappe and Crest. (04)
+(c) Pitot tube. (04)
+
+2 of 2
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 1c40d45ae618
+## 2016-17 · Re-Exam · Sem 3 · paper 57b07ed1fc78
 
 - Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/FLUID MECHANICS/Fluid Mechanics Batch 2016-17 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 92.2
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS B TECH (MECHANICS), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 28 November 2016
+- Text: ocr (2 pages), mean OCR confidence 91.8
 
 ````text
 SVKM’S NMIMS
-/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2017 - 2018 - —— .
-Program: B. Tech Integrated (Mechanical) - Year:III” Semester:V" Sy
-Batch: 2016-17¢ Marks: 60: ‘ aw
-Subject: Fluid Mechanics - Time:02300 pm to 05.60%
-
-Date :30 November 2017 | Duratior *
-‘ No. of Page}
-
-RE - EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-QI: Answer the following
-
-a) Explain Newton’s law of viscosity. (2)
-
-b) Explain the conditions for stability of a floating body. (2)
-
-c) Define stream line and stream function. (2)
-
-d) Write Bernoulli’s equation and assumptions made in deriving it. (2)
-
-e) Explain the significance of Moody’s chart. (2)
-
-f) Define displacement thickness and momentum thickness. (2)
-Q2:
-
-a) The velocity distribution for flow over a flat plate is given by u = 2y — y* where the velocity u is in m/s at a
-distance y meters above the plate. Determine the velocity gradient and shear stress at the boundary and 1.5 m
-
-from it. Take dynamic viscosity of fluid as 0.9Ns/m?. (6)
-b) Derive an expression for the total pressure exerted on a submerged vertical plane surface by the static fluid
-and locate the position of the center of pressure. (6)
-Q3:
-a) State and prove the Pascal’s law. (6)
-b) A two dimensional flow field is given by = 3xy, determine the i) The stream function ii) The velocities at
-L(2,6) and M(6,6). (6)
-
-Vie
---- page 2 ---
-Q4:
-
-a) U-—Tube manometer containing mercury was used to find the negative pressure in the pipe, containing water.
-The right limb was open to atmosphere. Find the vacuum pressure in the pipe, if the difference of mercury
-
-level in the two limbs was 100 mm and the height of water in the left limb from the center of the pipe was
-found to be 40 mm below. Take specific gravity of mercury as 13.6 (6)
-
-b) Derive the continuity equation in Cartesian coordinate system for a 3 —D flow. (6)
-
-Qs:
-
-a) A horizontal venturimeter with inlet diameter 200 mm and throat diameter’100 mm is employed to measure
-
-the flow of water. The reading of the differential manometer connected to the inlet is 180 mm of mercury. If
-the coefficient of discharge is 0.98, determine the rate of flow.
-
-(6)
-
-6) Discuss the major and the minor losses taking place in pipes. (6)
-Q6:
-
-a) Derive the Hagen Poissuille equation for the flow of viscous fluid through pipe. (6)
-
-b) A farmer wishes to connect two pipes of different lengths and diameters to a common header supplied with
-8 x10° m*/s of water from a pump. One pipe is 100 m long and 5 cm in diameter. The other is 800 m long.
-Determine the diameter of the second pipe such that both the pipes have the same flow rate. Assume the pipes
-
-to be laid on level ground and the friction coefficient for both the pipes is 0.02, also determine the head loss
-in metres of water in the pipes. (6)
-
-Q7:
-
-a) Explain the concept of Boundary Layer separation. Discuss any two methods to control it. (6)
-b) The velocity profile within a laminar boundary layer over a flat plate is given by the equation
-u
-
-2
-5 2¢ = (2) - Find an expression for Displacement thickness & and Momentum Thickness (6)
-
-he
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 0c92b294250e
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_05/FLUID MECHANICS/Fluid Mechanics Batch 2016-17 Re Exam.pdf`
-- Printed on paper: exam date: 31 May 2018
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Semester: V
+Programme : B. Tech (MECHANICAL) Year : II Semester : III
+Batch : 2014-2015 / 2015-2016
+Academic Year : 2016-2017
 
-‘
+j Subject : Fluid Mechanics Marks : 60 Zggven ag |
+/ Time: 10.00 "00 pine,
+j Date : 28 November 2016 Duration : 3 MPST WE aN
+LbvRARY if i
+Re-Examination ~~ ft up
+ee
 
-Programme: B. Tech Integrated (Mechanical) < Year: III
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Batch: 2016-17 <
-Academic Year: 2017-2018
+NB:
 
-Subject: Fluid Mechanics «
+1. Question No. | is compulsory.
 
-Date: 31 May 2018,
-Re-Examination
+2. Out of remaining questions attempt any four questions.
+3. In all five questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary,
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Q.1 Attempt the following (Any six) 12
+a) State and explain Newton’s law of viscosity,
+b) Define the term total pressure and centre of pressure.
+c) Define the term Metacentre and Metacentric height.
+d) Differentiate between rotational and irrotational flows.
+e) List assumptions which are made while deriving Bernoulli’s equation
+f) What is dimensional analysis?
+g) What is difference between Laminar and Turbulent flow?
+h) Define momentum thickness and energy thickness.
 
-1) Question No. 1 is compulsory.
+Q.2. A __ Derive an expression for total pressure and centre of pressure for inclined 06
+immersed surface.
 
-2) Out of remaining questions, attempt any 4 questions.
+B__ Solid cube of sides 0.5 m each is made of a material of relative density 0.5. The 06
+cube floats in a liquid of relative density 0.95 with two sides of faces horizontal.
 
-3) In all, 5 questions to be attempted.
+Examine its stability.
 
-4) All questions carry equal marks.
+3 A Derive the continuity equation in Cartesian co-ordinates. 06
 
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qn. Marks
-No. .
-la. | Attempt any Two
-i Explain the concept-of capillarity. 3
-ii | Distinguish between real fluids and ideal fluids. 3
-iii | Derive the Hydrostatic Equation. 3
-iv | If 5 m? of a certain oil weighs 40 KN, calculate the specific weight, mass density and 3
-
-specific gravity of the oil.
-1b. | Attempt any One
-i A hollow cylinder of outside diameter 1.25 m, length 3.5 m and specific weight 75 537 6
-N/m?, floats just in stable equilibrium in sea water. Find the minimum permissible
-thickness of the cylinder. Sea water weighs 10 055 N/m?.
-
-ii | Explain Prandtl’s mixing length theory. 6
-2a. | The diameter of a pipe bend is 0.3 m at inlet and 0.15 m at outlet and the flow is turned 6
-through 120° in a vertical plane. The axis at inlet is horizontal and centre of outlet section
-is 1.5 m below the centre of the inlet section. The total volume of fluid contained in the
-bend is 0.085 m?. Neglecting friction, calculate the magnitude and direction of force
-exerted on the bend by the water flowing through it at 225 I/s when the inlet pressure is
-
-137.34 kN/m?
-2b. | Show the different regimes of fluid flow in a Moody chart while explaining its 6
-significance.
-
-Page 1 of 2
+ee B An annular plate 2 m external diameter and 1 m internal diameter with its 06
+greatest and least depths below the surface being 1.5m and 0.75 m
+respectively. Calculate the magnitude direction and location of the force
+acting upon one side of the plate due to water pressure.
 --- page 2 ---
-3a.
+Q4
 
-3b.
+Q.5
 
-For a three-dimensional flow field described by V = (y* + z’) i+ (z? + x?) j + (x* +y’)
-k, at (1, 2, 3), find, (i) the components of acceleration and (ii) the components of rotation.
-The gate shown in the figure is 1 m long and 1 m wide and is made of a material with
-density 24 kN/m*. If the gate is hinged at the top and freely supported at one of the
-bottom ends, find the height of water h on the upstream side when the gate will just be
-lifted.
+Q.6
 
-Discuss Couette flow.
+Q7
 
-4a.
+State and prove Bernoulli’s equation.
 
-4b.
+If @ =3xy, find x and y components of velocity at (1,3) and (3,3).
+Determine the discharge passing between stream lines passing through these
+points.
 
-Two pipes each 300 m long are available for connecting to a reservoir from which a flow
-of 0.085 m°/s is required. If the diameters of the two pipes are 0.30 m and 0.15 m
-respectively, determine the ratio of the head lost when the pipes are connected in series
-to the head lost when they are connected in parallel. Neglect minor losses.
+Derive an expression for loss of head due to friction in pipe.
 
-Derive an expression for the velocity distribution for viscous flow through a circular
-pipe. Start with the Navier-Stokes equation.
+A horizontal venturimeter with inlet diameter 200 mm and throat diameter
+100 mm is used to measure the flow of water. The pressure at inlet is 0.18
+N/mm’ and vacuum pressure at the throat is 280 mm of mercury. Find the
+rate of flow. The value of coefficient of discharge may be taken as 0.98.
 
-Sa.
+The velocity distribution in boundary layer is given by
 
-5b.
+1/7
+ame
 
-Two parallel plates kept 0.1 m apart have laminar flow of oil between them with a
-maximum velocity of 1.5 m/s. Calculate the discharge per metre width, the shear stress
-at the plates, the difference in pressure in Pascal between two points 20 m apart, the
-velocity gradient at the plates and velocity at 0.02 m from the plate. Take viscosity of
-oil to be 2.453 N.s/m?.
+Calculate displacement thickness, momentum thickness and energy
+thickness.
 
-Describe Major and Minor Losses in pipes. -
+The diameter of a horizontal pipe which is 300 mm is suddenly enlarged to
+600 mm. The rate of flow of water through this pipe is 0.4 m’/s. If the
+intensity of pressure in the smaller pipe is 125 kN/m*. Determine
 
-6 b.
+(i) Loss of head due to sudden enlargement
 
-The velocity distribution in the boundary layer is given as:
-v/V = 3/2 (1) - 1/2 (n° wherein, n =(y/ 6). Compute (6 */ 6) and(@/ &).
-Derive an expression for discharge through venturimeter.
+(ii) Intensity of pressure in larger pipe and
 
-7a.
-Tb.
+(iii) | Power lost due to enlargement.
 
-‘Ge
+Derive Hagen-Poiseuille equation.
+The resistance R experienced by a partially submerged body depends upon
 
-Compare the Lagrangian approach to the Eulerian approach.
+the velocity V, length of body /, viscosity of fluid yw, density of fluid p and
+gravitational acceleration g. Obtain dimensionless expression for R.
 
-Calculate the capillary rise in a glass tube of 2 mm diameter when immersed in (a) water
-and (b) mercury. Surface tensions at the state temperature are 0.0075 kg(f)/m and 0.052
-kg(f)/m respectively for water and mercury in contact with air.
+06
 
-Discuss the phenomenon of boundary layer separation.
+06
 
-1.5m
+06
 
-Page 2 of 2
+06
+
+06
+
+06
+
+06
+
+06
+
+2]a
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper 06f21c1c861f
@@ -6998,89 +7557,6 @@ z=3@)-1@7
 06
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 800f79530f47
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: exam date: 25 November 2017
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBATech (CIVIL)   Year: II   Semester: III
-Batch: 2016-17
-Academic Year: 2017-2018
-Subject: Fluid Mechanics
-Date: 25 November 2017
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the ques IOnpaper
-and on the cover of the Answer Book, which is provided for their use.
-1. Question No. 1 is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. In all 5,questions to attempted .
-. 4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume suitable data if necessary.
-&&2   ca   a   c AL   _.E._.!il
-Q.l   Question(a) is compulsory out of remaining question, attempt   (14)
-any 3 question
-a)   Define vapour pressure.   (2)
-b) What are the classification of orifices and mouthpiece?   (4)
-c) What is meant byViscosity of a liquid? What is effect of temperature on   (4)
-Viscosity of liquid?
-d)   State and prove Pascal's law.   (4)
-e)   Write a short note on Vorticity and Circulation.   (4)
-Q.2   Attempt following   (14)
-a)   Explain the phenomenon of capillarity and obtain an expression for capillary   (07)
-rise and capillary fall of liquid.
-b)   The diameter at the ends of a 16 m long vertical conical pipe conveying water   (07)
-are 0.5 meter and 1.5 m. The loss of head due to friction is 2.65 m for flow is
-either direction when the velocity at the smaller section is 9 m/s if the smaller
-section is at the top and the pressure head at the section is 2.15 m of water.   -
-Find the pressure at the lower and when the flow 1~
-a) Downward
-b) Upward
-Page 1 of 2
---- page 2 ---
-•
-Q.3) Attempt following   (14)
-a)   Derive the continuity   equation   for- 3-dimensional   flow in Cartesian co-   (07)
-ordinate system.
-b) A wooden cylinder of circular cross-section   (specific gravity=0.6) having   (07)
-length L and diameter d floats in water find the maximum permissible Lld
-ratio so that the cylinder may float in stable equilibrium with its axis vertical.
-What would be the cylinder length if it is 25 cm in diameter?
-Q.4)   . Attempt following   (14)
-a)   What is Rotameter?   (3)
-b)   Derive an expression of flow velocity through an orifice.   (4)
-c)   If for a two-dimensional   potential flow, the velocity potential is given by   (07)
-q,=x(2y-l)
-determine the velocity at the point P (3,6).Determine also the value of stream
-function   \jI at the point P.
-Q.5) Attempt following   (14)
-a) How are the notches and weir classified? Give anyone advantage of triangular   (07)
-notch or weir over rectangular notch or weir any two.
-b) A tank containing water upto a depth of 600 mm is moving vertically upward   (07)
-with a constant acceleration of2.5 mls2. Find the force exerted by water on the
-side of the tank) also calculate the force on the side of tank when the width of
-tank: is 2 m and Tank   IS moving vertically downward with a constant
-acceleration of2.5 m/s".
-Q.6) Attempt following   (14)
-a)   Derive Hagen Poiseuille's formula for the discharge through a pipe.   (07)
-b)   Prove that the velocity distribution   for viscous flow between two parallel   (07)
-plates when both plates are fixed across a section is parabolic in nature.
-Q7   Attempt all the questions
-a) Define Modulus of elasticity and cornpressibility   (04)
-b) Explain momentum correction factor and energy correction factor   (03)
-c) Explain velocity of approach and its effects on discharge   (03)
-d) Draw a neat diagram of Bourdon's pressure gauge and explain its working.(04)
--
-Page 2 of 2
-````
-
 ## 2016-17 · Re-Exam · Sem 3 · paper 28b221f2963d
 
 - Departments: Civil
@@ -7188,122 +7664,6 @@ measure the flow of oil of specific gravity 0.8. The discharge through the ventu
 Derive an expression for total pressure and center of pressure for an inclined plane surface
 
 submerged in a liquid.
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper dfe262809656
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics Re-exam 2016-17-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 January 2019
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (Civil) ~~ Year: I Semester : IT]
-Academic Year: 2018-19
-
-Subject: Fluid Mechanics _, Marks: 70 -
-
-Time: 2.00 pm to 5.00 pm .
-
-Date : 16 January 2019 “
-Date : 16 January Durations: 3 (hrs)
-
-No. of Pages: U—_ O2—
-Reexamination B. Tech 2018-19), ! MBA Tech (2016- 17 /2017-18 /2018- 1)
-
-Instruction: Candidates should read carettilly the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -suitable data if necessary.
-
-LIBRAR
-
-on
-ks Naina
-
-AS Us IV
-
-Ql Answeriq || the qrrestions. ro)
-a Explain any one mechanical gauge for measurement of pressure. ow)
-b What do you understand by orifice and mouthpiece? How are they different from cy)
-each other?
-c Write a short note on Cipolleti weir. C3)
-
-d Define streamline, streaklines and pathlines. : : : C3)
-
-Q2 a _ What do you understand by equilibrium of floating bodies? - (D
-b A circular plate of 3m diameter is placed vertically in water such that the center of a)
-the plate is 2m below the free surface of water. Find the depth of center of pressure
-and total pressure on the plate.
-
-Q3 a State and derive Pascal’s law. a1)
-b A tank 1.5m height , square in plan having sides 1m long contains oil of specific (4)
-gravity 0.8 to a depth of 50cm floating on a 1m depth of water. Calculate the total
-pressure on one side of tank and the location of center of pressure.
-
-Q4 a Derive an equation for discharge over a triangular notch. “(q)
-b__ A tank has two identical orifices provided on one of its sides ata depth of 2m and ~ a)
-5m below the free surface of water in the tank. Determine the position of the
-intersection of the two jets with respect to the free surface of water if C, =0.98.
-
-/o-
---- page 2 ---
-Q5
-
-Q6
-
-Q7
-
-Derive the Bernoulli’s equation.
-A horizontal venturimeter having inlet diameter 20cm and throat diameter 10 cm is
-
-used to measure the flow of oil of specific gravity 0.8. The discharge through the
-venturimeter is 60 Ips. Find the reading on oil-mercury different manometer given
-
-Ca is 0.98.
-
-The velocity components of a 2-D flow for an incompressible fluid are given by
-u=y? +2x -x’y and v=xy? -2y -x'/3. Show that it represents a possible case of
-irrotational flow.
-
-An open cylindrical tank 0.9m high and 0.6m diameter is filled 2/3" with water.
-Find the speed in rpm with which the tank may be rotated so that water just starts
-
-spilling out.
-
-For a laminar flow through circular pipe, derive a relation between maximum and
-average velocity.
-
-Calculate pressure gradient along flow, average velocity and discharge for an oil of
-viscosity 0.02Ns/m? flowing between 2 stationary parallel plates 1m wide and
-spaced 1cm apart given that velocity midway between the plates is2 m/s.
-
-i)
-7)
-
-7)
-
-CD
-
-qT)
-
-O)
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper 3fc7b4ad2eb7
@@ -7983,25 +8343,27 @@ thickness for the velocity distribution in the boundary layer given
 2/2
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 453d19fd5c5f
+## 2015-16 · Re-Exam · Sem 3 · paper cf0c1b789c52
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS B TECH (CIVIL), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 30 November 2016
-- Text: ocr (2 pages), mean OCR confidence 91.4
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 92.9
 
 ````text
-SVKM’S NMIMS
+Pi SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme :. B. Tech (CIVIL) Year : II Semester: III
-Batch : 2014-2015 / 2015-2016 “ =
+Programme: B. Tech (Civil) Year: II Semester: III
+Batch: 2013-2014
 
-Academic Year : 2016-2017
-Subject : Fluid Mechanics
+Academic Year: 2015-2016
 
-Date : 30 November 2016
+Subject: Fluid Mechanics
+
+Marks
+Date: 02/12/2015 Time
 
 Re-Examination
 
@@ -8010,76 +8372,189 @@ cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No. i is compulsory.
+1) Question No. ONE is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
 
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. -
+4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
 
-Qi Answer the following questions (Any Three) (12)
-(a) Define surface tension. Prove that the relationship between surface tension and pressure (04)
+Q.1 Attempt any FIVE. 20
+a), Define absolute, gauge and atmospheric pressure along with neat sketch.
+b) Classify orifices.
+c) 1. Define surface tension and give its SI unit.
+2. What are the methods of describing fluid flow?
+d) A 30 cm diameter pipe, conveying water, branches in to two pipes of diameters
+20 cm and 15 cm respectively. If the average velocity in 30 cm diameter pipe is
+2.6 m/s, find the discharge in this pipe. Also determine the velocity in 15 cm
+diameter pipe if average velocity in 20 cm diameter pipe is 2.1 m/s.
+e) The velocity components in a two dimensional flow are:
 
-inside a droplet of liquid in excess of outside pressure is given by p = 40/d.
+2
 
-(b) Define and explain Newton’s law of viscosity and different types of fluids. (04)
-(c) | Explain the term ‘ Meta-Centre’ and ‘Meta- Centric Height’. (04)
-Differentiate between (i) Compressible and incompressible flow (ii) Rotational and (04)
-(4) _ irrotational flow.
-Q2
-a) Explain : (i) Pathline (ii) Streamline (iii) Streakline. (06)
+g
+u=8x’y — Zy? and v=~ 8xy? + =x?
 
-b) A rectangular plane surface 2 m wide and 3 m deep lies in water in such a way that its (04)
-plane makes an angle 30° with the free surface of water. Determine the total pressure
-and position of centre of pressure when the upper edge is 1.5 m below the free water
-surface.
+Show that these velocity components represent a possible case of an irrotational
 
-(c) The velocity distribution for flow over a flat plate is given by u = 3/2 y- y*” , where u (02)
-is point velocity in metres per sec at a distance y metre above the plate. Determine the
-shear stress at y = 9 cm. Assume dynamic viscosity as 8 poise.
+flow.
+f) How will you determine velocity at any point with help of Pitot-tube?
+Q.2 1) Explain with neat sketch (i) Rotameter (ii) Nozzle meter 10
+_— 4 2) A rectangular wooden block is 5 m long, 3 m wide and 1.2 m high. The depth of
+immersion of block is 0.9 m in sea water. If the centre of gravity is 0.6 m above
+ae the bottom, determine meta centric height. The density of sea water = 1025
+kg/m}. 10
 
-Q3
-
-(a) The velocity component in a two dimensional flow field for an incompressible fluid are (06)
-as follows: u = y?/3 + 2x — x’y and v= xy? -2y —x?/3. Obtain an expression for the stream
-function.
-
-(b) State Bernoulli’s theorem for steady flow of an incompressible fluid. Derive an (06)
-expression for Bernoulli’s equation from first principle and state the
-assumptions.
-
-1of2
+Q.3 1) Derive Euler’s equation and hence derive Bernoulli’s equation for an 10
+incompressible fluid flowing through pipe.
 --- page 2 ---
-Q4
+2) The velocity vector in a fluid flow is given by
+V = 4x31 — 10x’yj-+ 2tk.
 
-(a), An orifice meter with orifice diameter 10 cm is inserted in a pipe of 20 cm diameter. (04)
-The pressure gauges fitted upstream and downstream of the orifice meter gives readings
-of 19.62N/cm? and 9.81N/cm? respectively. Co-efficient of discharge for the orifice
-meter is given as 0.6. Find the discharge of water through pipe.
+Find the velocity and acceleration of a fluid particle at (3, 2, 1) at time t= 1. 10
+Q4 1) Explain Reynold’s experiment along with the neat sketch. 06
+2) Explain vena-contracta with sketch. 04
 
-(b) Explain the experimental procedure to determine hydraulic co-efficients of an orifice. (08)
-Q5
-(a) | Obtain an expression for discharge over a triangular notch. (06)
-(b) | Obtain an expression for liquid container subjected to constant horizontal acceleration. (06)
-Q6
+3) Derive an expression of total pressure and centre of pressure for vertical plane
+surface submerged in liquid. 10
+Q.5 1) Give classification of fluid flow along with their mathematical expressions. 10
 
-(a) Obtain the equation for velocity distribution for flow of viscous fluid between two (06)
-parallel plates.
+2) A rectangular weir of crest length 50 cm is used to measure the rate of flow of
+water in a rectangular channel 80 cm wide and 70 cm deep, find the discharge in
+the channel if the water level is 80 mm above the crest of weir. Take velocity of
+approach in to consideration and value of Ca = 0.62. 10
+Q.6 1) Ina process a liquid with dynamic viscosity of 2 N/m? flows in the gap between
+two horizontal parallel plates having a gap of 100mm between them. If a
+maximum velocity of 1.5m/s is desired, find the (a) discharge per unit width of
+the plates (b) boundary shear stress and (c) the pressure gradient 10
+2) Explain hydraulic coefficients and derive Ca= Ce x Cy 10
 
-(b) Describe Reynolds’s experiment. Define (i) Critical velocity and (ii) Reynolds’s number (06)
+Q.7 1) Define orifice and mouthpiece. Obtain expression for discharge through large 10
+rectangular orifice.
+2) A closed cylindrical tank of diameter 1.2 m and length 6 m is completely filled
+with oil of sp.gr. 0.9. If the tank is placed with its axis horizontal and subjected
+to an acceleration of 2.5 m/s? in the horizontal direction, find the forces on the
+two ends of the tank, when (a) the oil is filled at atmospheric pressure, (b) the oil
+is filled under a pressure of 17.658 KN/m*. Show that the difference between
+these forces equals the unbalanced force necessary to accelerate the liquid mass _—10
+in the tank.
 
-Q7___~Write short notes on:
+Ye
 
-(a) Kinetic correction factor and Momentum correction factor. (04)
-(b) Notch, Weir, Nappe and Crest. (04)
-(c) Pitot tube. (04)
+2o—
+````
 
-2 of 2
+## 2015-16 · Re-Exam · Sem 3 · paper 33658701cd25
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil) Year: Il Semester: III
+Batch: 2014-2015 _.
+Academic Year: 2015-2016 watt y
+ve She NAWag.
+
+Subject: Fluid Mechanics $ f of 7 Ne
+
+Marks: 60 4 3¢ MPSTME )}-
+Date: 02/12/2015 Time:
+
+Duration:
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No._01_ is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.No.1. Write short notes on: (any four) (42)
+(a) Types of fluids.
+(b) Flotation and buoyancy.
+(c) Flow net.
+(d) Rotameter.
+(e) Kinetic and momentum correction factor.
+
+Q.No.2. (a) Explain the term surface tension and capillarity. What would be the capillary rise ina glass (6)
+tube of 2 mm diameter when immersed vertically in water, if surface tension of water 0.075 N/m °
+and the angle of contact for water and glass is zero?
+
+(b) Define following properties of fluids along with their SI units and state importance of each (3)
+properties:
+
+(i) Saturation vapor pressure
+
+(ii) Dynamic viscosity and
+
+(iii) Compressibility
+(c) Explain: Pressure scale. (3 )
+Q. No.3. (a) State and prove Pascal law. ie)
+
+(b) A vertical gate is 10 m wide and has water to a depth of 10 m on one side and to a depth of 6 (s)
+m on other side. Find the regultant horizontal force on the gate and position ofits line of action.
+
+(c) State Archimedes’s principle. (2)
+
+Page No. 1/2.
+--- page 2 ---
+Q.No.4. (a) Explain Langragian method and Eulerian method of fluid flow description. (3)
+
+(b) State Bernoulli’s theorem and give its practical applications. (a)
+(c) Obtain the stream functions (¥) for the given potential functions (9): (6)
+1. O=xty _
+2. D=x2+ y?
+
+Q.No.5. (a) Derive an expression for discharge through triangular notch or weir. (SD
+
+(b) A horizontal. Venturimeter with inlet diameter 30 cm and throat diameter 15 emis (¢$)
+used to measure the flow of oil of specific gravity 0.85. The discharge of oil through
+Venturimeter is 85 lit/sec. find the reading of oil mercury differential manometer. Take
+
+Cd = 0.96.
+
+(c) Write short notes on: Cipolletti weir. (2)
+
+Q.No.6. (a) A 20 mm diameter, 100 mm long mouthpiece is fitted externally and discharges water (5)
+under a head of 4.2 meters. Taking Cc as 0.62 and separation pressure as 2.5 meters
+respectively, calculate discharge and maximum permissible head.
+
+(b) An open cylinder 60 cm diameter and 100 cm height is filled with water and rotated (s)
+about its axis, Calculate the amount of water spilled when the speed of rotation is 350
+
+rpm.
+(c) Define: hydraulic coefficients of orifice. (2)
+
+Q.No.7. (a) Obtain an expression for head loss when laminar flow takes place between two CS)
+stationary parallel plates. Sketch velocity and shear stress distribution.
+(b) Water having viscosity of 0.01 Poise is flowing between two large stationery parallel {5)
+plates which are 2 mm apart. Determine maximum velocity, the pressure drop per unit
+length and the shear stress at walls of the plate if average velocity is 0.40 m/sec.
+(c) Explain; velocity of approach and end contraction. (2)
+
+Page No. 2/2
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper 2c3f0c4f6293
@@ -8222,130 +8697,894 @@ BS
 5[-
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 57b07ed1fc78
+## 2015-16 · Re-Exam · Sem 3 · paper 965504a997c4
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS B TECH (MECHANICS), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 28 November 2016
-- Text: ocr (2 pages), mean OCR confidence 91.8
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS (MECHANICAL), B TECH MECHANICAL BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 30/11/2015
+- Text: ocr (4 pages), mean OCR confidence 89.5
 
 ````text
-SVKM’S NMIMS
+\ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (Mechanical) Year: II Semester: III
+Batch: 2014-2015
+Academic Year: 2015-2016 cia \
+Subject: Fluid Mechanics : + ‘f “<eSTME ‘yt
+Marks: 60° i LIBRARY Sy
+Date: 30/11/2015 Time: 10: igh to to 1.00 pag,
+Duration: 3 (hi *
+| me <n Ms rani
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+aud on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No 1 is compulsory
+2. Out of remaining questions, attempt any FOUR.
+7™ 3. All questions carry equal marks.
+4. In all five questions to be attempted.
+5. Answer to each new question should be started on a fresh page.
+6. Figure in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+
+Q.1 Define the following term :- (any Four ): (4x32 12)
+i. Specific volume and specific gravity of fluid.
+
+ii. Meta centre and meta-centric height.
+
+iii. Streak line and stream line.
+
+iv. Co-efficient of contraction and Co-efficient of discharge.
+
+vy. Flow Nets and methods of drawing flow nets.
+
+vi. Kinetic energy correction factor and momentum correction factor.
+vii. Major losses and minor losses in pipe.
+
+viii. Euler’s number and Weber’s number.
+
+Q2 A) Drive an expression for the force exerted on submerged vertical plane surface by C06)
+static liquid and locates the position for centre of pressure.
+
+B) Two co axial cylinder 10 em and 9.75 cm in diameter and 2.5 cm high have both
+
+their ends open and have a viscous liquid filled in between. A torque of 1.2 N-m is (03) ,
+produced on the inner cylinder when the outer one rotates at 90 rpm. Determine the
+
+coefficient of viscosity of the liquid. Refer given fig.
+
+el CLS @
+--- page 2 ---
+C) A multitude manometer is used to determine the pressure difference between points od
+
+A and B as shown in fig below .For the given values of height determine the pressure
+
+difference between points A and B. Specific gravities of benzene and kerosene are 0.88
+
+and 0.82 respectively. Density of air 1.2 kg/m?
+
+pA J 4 hy
+
+Bent oe
+x
+
+>»
+Q3 A) Explain conditions of equilibrium of a floating and submerged body. co)
+B) A sector gate in the form of circular arc of radius 5 m retains water to height of 4m
+above its still as in fig below. Calculate the magnitude and directions of resultant force (93)
+per unit length of the gate.
+C ) A solid of 200mm diameter and 800mm length has its base 20mm thick and of _
+
+specific gravity 6. The remaining part of the cylinder is of specific gravity 0.6. State if it
+
+can float vertically in water. Coe
+Q4 A) Define the equation of continuity .obtain an expression for continuity equation for (03)
+three dimensional flows in Cartesian co ordinates.
+saad B) Define the following term give one practical example of each: (03)
+
+i. One, two and three dimensional flows
+
+a ii. Rotational and ir-rotational flow
+
+iii. | Compressible and incompressible flow
+
+aly
+--- page 3 ---
+C) Which of the following functions represent possible irrotational flow? (08)
+i y= AG?y’)
+ii, = y= xy
+
+ili. 6=(r-2)ain
+
+\ r
+
+iv. g= Ur cos6-+—-cosd
+-
+
+Q5 A) What is the Euler’s equation of motion? How will you obtain Bernoulli’s equation (>
+
+from it?
+
+B) What is mean by non dimensional number? define the following non dimensional
+
+numbers : (98)
+
+oO i. Reynolds number
+ii. Froude’s number
+iii, Mach number. What are their significance for fluid flow problem?
+C) The following data relate to an inclined venturimeter.
+i. Diameter of pipeline =400mm
+ii. Inclination of pipe line with horizontal =30° (06)
+iii. Throat diameter =200mm
+iv. The distance between the mouth and throat of the meter =600mm
+y. Sp. Gravity of oil flowing through the pipe line =0.7
+vi. Sp. Gravity of oil heavy liquid (U tube) =13.6
+vii. Reading of the differential manometer =S0mm
+a> viii. The co-efficient of the meter =0.98
+Determine the rate of flow in pipe line.
+Q.6 A) Drive expression jor velocity distribution for viscous flow through a circular pipe. (06)
+Also sketch the velocity distribution and shear stress distribution across a section of
+pipe.
+B) Water is flowing through a rough pipe of diameter 500mm and length 4000m at the
+_ rate of 0.5 m*/s. Find the power required to maintain this flow. Take the average height oy
+pie of roughness as k=0.40mm.
+
+ayy
+--- page 4 ---
+Q.3
+
+Q4
+
+C) A muititude manometer Is used to determine the pressure difference between points
+
+A and B as shown in fig below .For the given values of height determine the pressure
+
+difference between points A and B. Specific gravities of benzene and kerosene are 0.88
+
+and 0.82 respectively. Density of air 1.2 kg/m?
+
+A) Explain conditions of equilibrium of a floating and submerged body.
+B) A sector gate in the form of circular arc of radius 5 m retains water to height of 4m
+
+above its still as in fig below. Calculate the magnitude and directions of resultant force
+
+per unit length of the gate.
+
+Cc ) A solid of 200mm diameter and 800mm length has its base 20mm thick and of
+
+specific gravity 6. The remaining part of the cylinder is of specific gravity 0.6. State if it
+
+can float vertically in water.
+
+A) Define the equation of continuity obtain an expression for continuity equation for
+three dimensional flows in Cartesian co ordinates.
+B) Define the following term give one practical example of each:
+
+i. One , two and three dimensional flows
+
+ii. Rotational and ir-rotational flow
+
+iii. Compressible and incompressible flow
+
+Aly
+
+(03
+
+co3)
+
+(06)
+9)
+©)
+
+~
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 72853341e4e6
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS B TECH (MECHANICAL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2015
+- Text: ocr (3 pages), mean OCR confidence 92.3
+
+````text
+Mi . SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (MECHANICAL) Year : II Semester : III
-Batch : 2014-2015 / 2015-2016
-Academic Year : 2016-2017
+Programme: B. Tech (Mechanical) Year: II Semester: III
+Batch: 2013-2014
 
-j Subject : Fluid Mechanics Marks : 60 Zggven ag |
-/ Time: 10.00 "00 pine,
-j Date : 28 November 2016 Duration : 3 MPST WE aN
-LbvRARY if i
-Re-Examination ~~ ft up
-ee
+f Academic Year: 2015-2016
+
+a Rey, ]
+( Subject: Fluid Mechanics st — “NM,
+Marks : 100 F ahaa ‘ye :
+
+Date: 30/11/2015 Time —: 10.00 asia Oe “
+
+Duration: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) All questions carry equal marks.
+= 4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary
+
+Qu.1 Attempt any Five questions
+a) Explain Buckingham-z theorem. (4)
+b)   Explain- stream line, path line and streak line (4)
+c) Explain between gauge pressure, absolute pressure and vacuum pressure. (4)
+d) Obtain an expression of height of liquid rise in a capillary tube. + (4)
+e) What is orifice-meter? How it can be used for measuring discharge of fluid flowing (4)
+through the pipe.
+f) Define following non dimensional number and give their significance. (4)
+
+Froude number, Mach number, Reynolds number and weber number
+g) Define boundary layer thickness. What are the factors affecting boundary layer (4)
+
+thickness.
+Qu.2 (a) Find the expression for head loss due to sudden expansion of pipe. (5)
+Cc (b) What is metacentric height? Obtain an expression for the metacentric height ofa (10)
+floating body in a liquid.
+(c) Explain briefly about Reynold experiment. (5)
+
+Qu.3 (a) Two large vertical plane parallel surfaces are 5 mm apart and the space between (6)
+them is filled with a fluid. A thin plate of 12.5 cm square falls freely between the
+planes along the central plane and reaches a steady velocity of 2 m/s. Determine
+the weight of the plate if the viscosity of the fluid filling the space is 0.02 Ns/m?.
+
+— (b) A circular plate of 3 m diameter is vertically placed in water with its centre 5 m (6)
+from the free surface. Determine the force due to the fluid pressure on one side of
+: the plate and also its point of application.
+
+(c) Oil of specific gravity 0.92 and dynamic viscosity 1.05 poise flows between two (8)
+fixed parallel plates 15mm apart. Ifthe mean velocity is 2 m/s. Calculate Maximum
+--- page 2 ---
+velocity, Velocity and shear stress at a distance of 3mm from one of the plates and,
+Loss of head over a distance of 15m.
+
+Qu.4 (a) An inverted differential manometer is connected to two pipes A and B which
+convey water. The fluid in manometer is oil of specific gravity 0.85. For the
+manometer reading shown in figure, find the pressure difference between the
+points A and B.
+
+Oil sp. gr. = 0.85
+
+(6)
+
+Water
+
+(b) Obtain an expression for discharge (Q) of laminar flow through circular pipe. (6)
+(c) Obtain an expression for kinetic energy correction factor (a) and momentum (8)
+correction factor (8) for laminar flow through circular pipe.
+
+Qu.5 (a) Derive continuity equation in Cartesian co-ordinate system by listing all the (8)
+assumptions.
+(b) For the following set of velocity component verify whether the continuity (6)
+equation is satisfied. If so, determine the vorticity vector (Q) at point (1, 1, 1)
+equation.
+
+u=2x? +3y, u=—2xyt3y° +3zy wanS2 —2xy-9y"z,
+
+(c) Ina flow through a sudden contraction in a circular duct, the head loss (h) is found (6)
+to depend on the inlet velocity (u), larger diameters (D), smaller diameter (d), the
+density of fluid (p), viscosity of fluid (\) and gravitational acceleration (g).
+Determine dimensionless parameters to correlate experimental results.
+
+Qu.6 (a) A venturimeter of inlet diameter 150 mm and throat diameter 75 mm is used to (6)
+measure the flow rate of oil having specific gravity of 0.9. The reading shown by
+the U tube manometer connected to the venturimeter is 150 mm of mercury
+column. Calculate the coefficient of discharge for the venturimeter if the flow rate
+is 1.7 m3/min.
+
+(b) An object weighs 20 N when fully submerged in water. The same object weighs (6)
+
+35 N when fully submerged in an oil of specific gravity 0.8. Determine its volume
+and density.
+
+0) 7 (8)
+The velocity distribution in boundary layer is given by . = (2), where u is the
+
+velocity at distance y from plate and u=U at y=d, where 6 being boundary layer
+thickness.
+
+2/3
+--- page 3 ---
+Find the following quantities in terms of 6.
+(i) Displacement thickness
+
+(ii) | Momentum thickness
+
+(iii) | Energy thickness
+
+Qu.7 (a) Explain the working principle of pitot static tube. (6)
+If a pitot static tube is used to measure the velocity of air flowing through a duct. The
+manometer shows a difference in head of 5 cm of water. If the density of air and water are
+1.13 kg/m? and 1000 kg/m? determine the velocity of air. Assume the coefficient of the
+pitot tube as 0.98.
+
+(b) What do you understand by boundary layer separation? What methods are used to control (6)
+the boundary layer separation?
+
+(c) Find the rate of flow through horizontal pipe line 60 m long which is connected toa water (8)
+tank at one end and discharged freely into the atmosphere at the other end .For the first 30
+meters of its length from the tank, the pipe is 250 mm in diameter and is suddenly enlarged
+to 350 mm. the height of the water level in the tank is 15 meters above the center of the
+pipe. Considering all the minor losses. Take f= 0.025 for both section of pipes.
+
+a
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper f43a4bba9703
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS B TECH MECHANICAL BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 June 2016
+- Text: ocr (2 pages), mean OCR confidence 91.9
+
+````text
+SVKM’s NMIMS (fins
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & a ie
+. f “PST 4
+Programme: B.Tech (Mechanical) Year: II Semester: III , a L TB RA RY iG
+Academic Year: 2015-16 \ ae “iar A
+Batch: 2013-14 Marks:100
+Subject: Fluid Mechanics Time: 10.00 am - 1.00 pm
+Date: 10 June 2016 Durations: 3 (hrs)
+
+Re-Examination
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1. Question No. | is compulsory.
+1) Question No. 1 is compulsory.
 
-2. Out of remaining questions attempt any four questions.
-3. In all five questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume Suitable data if necessary,
+2) Out of remaining questions, attempt any FOUR questions.
 
-Q.1 Attempt the following (Any six) 12
-a) State and explain Newton’s law of viscosity,
-b) Define the term total pressure and centre of pressure.
-c) Define the term Metacentre and Metacentric height.
-d) Differentiate between rotational and irrotational flows.
-e) List assumptions which are made while deriving Bernoulli’s equation
-f) What is dimensional analysis?
-g) What is difference between Laminar and Turbulent flow?
-h) Define momentum thickness and energy thickness.
+3) In all FIVE questions to be attempted.
 
-Q.2. A __ Derive an expression for total pressure and centre of pressure for inclined 06
-immersed surface.
+4) All questions carry equal marks.
 
-B__ Solid cube of sides 0.5 m each is made of a material of relative density 0.5. The 06
-cube floats in a liquid of relative density 0.95 with two sides of faces horizontal.
+5) Answer to each new question to be started on a fresh page. 2
+6) Figures in brackets on the right hand side indicate full marks.
 
-Examine its stability.
+7) Assume Suitable data if necessary
 
-3 A Derive the continuity equation in Cartesian co-ordinates. 06
+Qu.1 Attempt any five questions
 
-ee B An annular plate 2 m external diameter and 1 m internal diameter with its 06
-greatest and least depths below the surface being 1.5m and 0.75 m
-respectively. Calculate the magnitude direction and location of the force
-acting upon one side of the plate due to water pressure.
+(a) Distinguish between: i) steady and unsteady flow ii) Uniform and non-uniform flow. (4)
+(b) What are various Types of fluids? Explain in brief about Newtonian fluids with example. (4)
+(c) Explain - stream lines, streak lines and Path line, In which case all of them are identical? (4)
+(d) Define i) FROUDE Number ii) WEBER Number iii) Euler Number iv) Mach Number (4)
+
+(e) Explain the terms: Geometric similarity, Kinematic similarity, Dimensional Homogeneity (4)
+and dynamic similarity.
+
+(f) What do you understand by stream function and potential function? Give relation between (4)
+them.
+(g) Explain center of pressure and total pressure with the help of suitable figure. (4)
+
+Qu.2 Attempt the following questions
+(a) What is a venturimeter? Find an expression for actual discharge through venturimeter. (6)
+
+(b) An annular plate of 4 m OD and 2 m ID is kept in water at an angle of 30° with the (8)
+horizontal, the center being at 4 m depth. Determine the hydrostatic force on one side of the
+plane. Also locate the center of pressure.
+
+(c) -A 90 N weight rectangular solid block slides down a 30° inclined plane. The plane is (6)
+lubricated by 3 mm thick film of oil of specific gravity 0.90 and viscosity 8 poise. If the
+contact area is 0.3 m’. Calculate the terminal velocity of the block.
+
+Qu.3 Attempt the following questions
+(a) Derive Darcy weisbach equation for head loss and Show that the friction factor (f) for (10)
+
+laminar flow in circular pipe is given by pele
+Re
+
+(b) The stream function for a two-dimensional flow is given by y = 3xy. Calculate the velocity (5)
+at Point A (3, 4). Also find the velocity potential function ¢.
+
+(c) What is capillarity? Find the expression for rise of the level of liquid in a capillary tube of (5)
+diameter (d), dipped in a liquid of density (p), surface tension (c) and angle of contact (0).
+
+i/o.
 --- page 2 ---
-Q4
+tig
+~
 
-Q.5
+\ Qu.4 Attempt the following questions
+x (a) Oil of specific gravity 0.85 and dynamic viscosity 1.10 poise flows between two fixed (10)
+s" parallel plates 15 mm apart. If the mean velocity is 1.5m/s, calculate-
 
-Q.6
+(i) Maximum velocity
+(ii) Velocity and shear stress at a distance of 2mm from one of the plates and,
+(iii) Loss of head over a distance of 25m along the length of plate.
 
-Q7
+(b) A solid cylinder of diameter D and height H having a relative density of S floats in water (10)
+(density = 1000 kg /m*) with its axis vertical .Show that the maximum value of H/D for
+which the cylinder will float in stable equilibrium with its axis vertical is given as
+H 1
+=<
 
-State and prove Bernoulli’s equation.
+D 8SC-S)
 
-If @ =3xy, find x and y components of velocity at (1,3) and (3,3).
-Determine the discharge passing between stream lines passing through these
-points.
+Qu.5 Attempt the following questions
 
-Derive an expression for loss of head due to friction in pipe.
+(a) Water is drawn from a reservoir through two pipes of 900 mm dia. and 1500 m lengthtoa , (8)
+common junction from where a pipe of 1200 mm diameter and 2400 m length carries it to
+the lower reservoir. If the difference in water levels is 10 m, determine the flow rate.
+(Take f= 0.02, neglect other losses)
 
-A horizontal venturimeter with inlet diameter 200 mm and throat diameter
-100 mm is used to measure the flow of water. The pressure at inlet is 0.18
-N/mm’ and vacuum pressure at the throat is 280 mm of mercury. Find the
-rate of flow. The value of coefficient of discharge may be taken as 0.98.
+(b) What is metacentric height? Obtain an expression for metacentric height. (8)
 
-The velocity distribution in boundary layer is given by
+(c) What do you understand by prandtl mixing length theory? Explain. (4)
 
-1/7
-ame
+Qu.6 Attempt the following questions
 
-Calculate displacement thickness, momentum thickness and energy
+(a) What do you understand by boundary layer separation? Discuss the effect of pressure (10)
+gradient on boundary layer separation. What methods are used to control the boundary layer
+
+separation?
+
+(b) The velocity distribution in boundary layer is given by # =sn{ 2x2} , where w is the (10)
+U 2 6
+
+velocity at distance y from plate and w=U at y=0, being boundary layer thickness.
+Find the following quantities in terms of 6.
+(i) Displacement thickness
+(ii) Momentum thickness
+
+Qu.7 Attempt the following questions:
+(a) Obtain an expression for that the loss of head due to sudden expansion and contraction in (6)
+
+a the pipe.
+, (b) Obtain an expression for continuity equation for a three-dimensional using Cartesian co- (6)
+4 ordinate system.
+(c) The drag force on a smooth sphere is found to be affected by the velocity of flow (u), the (8)
+diameter (D) of the sphere, the fluid properties density (p) and viscosity (u). Using
+dimensional analysis obtain the dimensionless groups to correlate the parameters.
+
+2/2.
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 93e2a414e773
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS B TECH MECHANICAL BATCH 14-15 16-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
+- Text: ocr (3 pages), mean OCR confidence 91.3
+
+````text
+——
+SVKM’s NMIMS <ganitOTE BF We
+\ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & Encigite RING
+
+a( arstun Ss
+EN LIBRARY Je
+
+Academic Year: 2015-16 i   Y
+er aH
+Batch: 2014-15 / 2015-16 Marks:60 =
+
+Subject: Fluid Mechanics Time: 10.00 am - 1.00 pm
+Date: 10 June 2016 Durations: 3 (hrs)
+Re-Examination
+
+, Programme: B.Tech (Mechanical) Year: I Semester: III
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) All questions carry equal marks.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary
+
+Qu.1 Attempt any Four questions
+a) Explain- Circulation, stream function and potential function for a flow field. (3)
+b) What are various Types of fluids? Explain in brief about Newtonian fluids with (3)
+example.
+c) Explain - stream lines, streak lines and Path line. (3)
+
+d) Define surface tension. Obtain an expression of for surface tension of liquid (3)
+bubble in terms of the excess pressure inside the bubble.
+
+e) What is pitot tube? How it can be used for measuring static pressure in the pipe. (3)
+
+f) Define following non dimensional number and give their significance. (3)
+Euler’s number, Weber number and Reynolds number
+
+g) What do you understand about viscous sub layer? Give the significance of viscous (3)
+sub layer.
+
+Qu.2 (a) What is an orifice meter? Find an expression for actual discharge through an (4)
+orifice meter.
+
+(b) A rectangular plate 0.6 meter wide and 1.2 m deep lies within water body sich (5)
+that its plane is inclined at 45° to the horizontal and the top edge is 0.70 meter
+below the water surface. Determine the total pressure force on one side of the
+plate and the location of the center of the pressure.
+
+(c) Explain briefly about Prandtl mixing length theory. (3)
+
+Qu.3 (a) A 90 N weight rectangular solid block slides down a 30° inclined plane. The plane (3)
+is lubricated by 3 mm thick film of oil of specific gravity 0.90 and viscosity
+8 poise. If the contact area is 0.3 m”. Calculate the terminal velocity of the block.
+--- page 2 ---
+Qu.4
+
+Qu.5
+
+Qu.6
+
+(b)
+
+(©)
+
+(a)
+
+(b)
+
+()
+
+(a)
+(b)
+
+(c)
+
+(a)
+(b)
+
+(¢)
+
+Oil of specific gravity 0.92 and dynamic viscosity 1.05 poise flows between two
+fixed parallel plates 12mm apart. Ifthe mean velocity is 1.4m/s, calculate
+1. Maximum velocity ,
+2. Velocity and shear stress at a distance of 2mm from one of the plates and,
+3. Loss of head over a distance of 25m.
+
+Show that the friction factor (f) for laminar flow in circular pipe is given by p= 16
+Re
+
+Where Re is the Reynolds number.
+
+Water flows through a pipe of 150 mm diameter and 400 m long with constant
+flow rate of 0.02.m?/sec. The inlet of pipe is 20m below the outlet and the pressure
+at the out let is 200kPa.If friction factor (f) of the pipe is 0.006; find the pressure at
+the inlet of the pipe. (neglect all minor losses)
+
+Obtain an expression for average veiocity of laminar flow through circular pipe.
+
+A solid cylinder of diameter D and height H having a relative density of S floats in
+water (density = 1000 kg /m*) with its axis vertical .Show that the maximum value
+of H/D for which the cylinder will float in stable equilibrium with its axis vertical
+
+. H 1
+1s given aS — <<
+D Jgsa-S)
+
+Derive Euler’s equation by listing all the assumptions. Hence deduce Bernoulli’s
+equation.
+Show that potential function (¢) exists for the given flow field,
+
+u=xyV
+
+v= yx?
+
+Hence obtain the expression for the potential function (#) for the flow field.
+
+The thrust force, F generated by a propeller is found to depend on the following
+parameters: diameter (D), forward velocity (u), density (p), viscosity (11) and
+rotational speed (N). Determine the dimensionless parameters to correlate the
+
+phenomenon.
+
+Obtain an expression of head loss due to sudden expansion in a pipe.
+What do you understand by compressibility? If a liquid is undergone a change of
+pressure from 6.87 MPa to 13.73 MPa to make the volumetric change of 0.0113
+m? to 0.0111 m>. Calculate the compressibility of the liquid?
+
+2 .
+The velocity distribution in boundary layer is given by 4 af2).(2) ; where u is
+the velocity at distance y from plate and w=U at y=d, 6 being boundary layer
+
 thickness.
+Find the following quantities in terms of 6.
 
-The diameter of a horizontal pipe which is 300 mm is suddenly enlarged to
-600 mm. The rate of flow of water through this pipe is 0.4 m’/s. If the
-intensity of pressure in the smaller pipe is 125 kN/m*. Determine
+(i) Displacement thickness
+(ii) Momentum thickness
+(iii) | Energy thickness
 
-(i) Loss of head due to sudden enlargement
+©)
 
-(ii) Intensity of pressure in larger pipe and
+(4)
 
-(iii) | Power lost due to enlargement.
+(3)
 
-Derive Hagen-Poiseuille equation.
-The resistance R experienced by a partially submerged body depends upon
+(4)
+6)
 
-the velocity V, length of body /, viscosity of fluid yw, density of fluid p and
-gravitational acceleration g. Obtain dimensionless expression for R.
+(4)
+(4)
 
-06
+(4)
 
-06
+G3)
+(3)
 
-06
+(6)
 
-06
+2/3
+--- page 3 ---
+Qu.7 (a) From a water tank two identical jets issue at distances H; and H» from the water level at (4)
+the top. Both reach the same point at the ground level of the tank. If the distance from the
 
-06
+#.
+ground level to the jet levels are y; and y2, Show that va ttn
 
-06
+y A,
 
-06
+n | ya
 
-06
+y Groundlevel
 
-2]a
+(b) Discuss the effect-of pressure gradient on boundary layer separation. What methods are (3)
+used to control the boundary layer separation?
+
+(c) Find the rate of flow through horizontal pipe line 50 m long which is connected to a water (5)
+tank at one end and discharged freely into the atmosphere at the other end .For the first 30
+meters of its length from the tank, the pipe is 200 mm in diameter and is suddenly
+enlarged to 300 mm. the height of the water level in the tank is 10 meters above the center
+of the pipe. Considering all the minor losses. Take f= 0.02 for both section of pipes.
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 5b32ce268de4
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics Batch 2013-14 Re-exam.pdf`
+- Printed on paper: exam date: 28/11/2015
+- Text: ocr (3 pages), mean OCR confidence 91.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CIVIL) Yearill Semester: ITI
+
+Academic Year: 2015 - 16
+
+Batch:2013-14 eae
+= NS
+Subject : Fluid Mechanics M MOOI PST aE it
+Ti Go ghe-5 QA prypH
+
+c fs 4
+bes bP
+nis HNO
+
+a
+
+al
+
+Date :28/11/2015 Du
+: Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.1 Attempt any FIVE. 20
+
+a) A plate 0.025 mm distant from a fixed plate, moves at 60 cm/s and requires a
+force of 2 N/m? to maintain this speed. Determine the fluid viscosity between
+plates.
+
+b) Define velocity potential and stream functions with their expressions.
+
+c) 1. Define viscosity and give its SI unit.
+
+2. Define vorticity and rotation.
+
+d) State Newton’s law of viscosity and explain it. What do you mean by plastic fluid
+and real fluid?
+
+e) Find discharge through a rectangular orifice 2 m wide and 1.5 m deep fitted to a
+water tank, The water level in the tank is 3 m above the top edge of an orifice.
+Take Cq = 0.62.
+
+f) What is mouthpiece? Classify them.
+
+Q.2 1) State and prove Pascal’s law. 10
+2) Verify whether the following stream functions represent irrotational flow:
+
+_= a) psy -xs
+
+b) y= Ax?y?
+ee ce) w= Ax By? 10
+
+Q.3 1) Derive the expression for a gauge and vacuum pressure in a pipe for a simple U-
+tube manometer. 06
+--- page 2 ---
+2) Define steady and uniform flow along with their mathematical expressions. 04
+3) A rectangular plane surface is 2 m wide and 3 m deep. It lies in vertical plane in
+water. Determine the total pressure and position of center of pressure on the plane
+surface when its upper edge is horizontal and i) coincides with water surface ii)
+
+2.5 m below the free surface. 10
+Q.4 1) A single column manometer is connected to a pipe containing a liquid of specific
+gravity 0.9 as shown in figure. Find the pressure in the pipe if the area of the
+reservoir is 100 times the area of the tube of the manometer reading as shown in
+
+fi .
+igure LI} 10
+
+4ocm
+
+2) The velocity vector in an incompressible flow is given by
+V = (6xt + yz" )it Bt + xy) j + (xy — 2xyz - 61z)k
+a. Verify whether the continuity equation is satisfied
+b. Determine the acceleration vector at point A(1,1,1) att = 1.0 10
+Q.5 1) Derive the expression for time of empting a tank through an orifice at its bottom. 10
+2) A Venturimeter is with area ratio 2. It has throat diameter 80mm, is mounted in a
+vertical pipe carrying water, the flow being upwards. The throat section is 225mm
+above the inlet of the Venturimeter. The discharge of the Venturimeter is 45lit/sec
+and the coefficient of discharge is 0.96. Calculate (a) the static pressure difference
+between inlet and throat and (b) the difference in levels of mercury in a vertical U-
+
+tube manometer connected between these points (Draw a neat sketch) 10
+Q.6 1) Derive an expression of total pressure and centre of pressure for horizontal plane
+surface submerged in liquid. 10
+
+2) Oil of relative density 0.92 and dynamic viscosity 1.05 poise flows between two
+fixed parallel plates kept 1.2 cm apart. If the mean velocity is 1.4m/s calculate (a)
+the maximum velocity, (b) the boundary shear stress, (c) velocity and shear stress
+at a distance of 0.2 cm from the plates, and (d) head loss in a distance of 25m. 10
+
+2/%
+--- page 3 ---
+Q.7 1) Derive an expression for flow through an external cylindrical mouthpiece and 10
+
+obtain values for its hydraulic coefficients.
+
+2) A closed cylindrical tank of diameter 1.2m and length 6m is completely filled
+with oil of sp.gr. 0.9. If the tank is placed with its axis horizontal and subjected
+to an acceleration of 2.5 m/s? in the horizontal direction, find the forces on the
+two ends of the tank, when (a) the oil is filled at atmospheric pressure, (b) the oil
+is filled under a pressure of 17.658 KN/m?. Show that the difference between
+these forces equals the unbalanced force necessary to accelerate the liquid mass
+
+in the tank. 10
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper e95c0c46b2a2
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 28/11/2015
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CIVIL) YearilI Semester: III
+
+Academic Year: 2015 - 16
+
+Batch:2014-15
+
+ST aR cy
+
+08 pint 5.00 pp S E
+29 (hrs) Ss 7
+Visage oY
+
+Subject :Fluid Mechanics Mai
+
+Date : 28/11/2015, Dur
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper aid on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No._ is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.No.1. Write short notes on: (any four) \2
+(a) Classification of fluids based on viscosity.
+(b) Absolute, gauge, atmospheric, and vacuum pressure.
+(c) Rotameter.
+(d) Uniform and Non-uniform flow.
+(e) End contraction and Velocity of approach in weirs.
+
+Q.No.2. (a) Explain the phenomenon of capillarity and obtain an expression for capillary rise ina gap &
+between two concentric tubes.
+(b) A block of base area 30 sq.cm weighing 150 N slides down a 30 degree inclined plane overan 4
+oil film of thickness 1 mm. If the coefficient of viscosity of oil is 45 poise. Find the steady state
+velocity of the block.
+(c) Find mass density, specific volume and specific weight ofa fluid having specific gravity=0.88. 4
+
+Q. No.3. (6) A wooden block of rectangular section 1.35 meter wide, 2.25 meter deep and 4.25 long floats “¢
+horizontally in sea water. If the specific gravity of wood is 0.60 and water weighs 1025 kg/m?
+find the volume of liquid displaced and the position of the centre of buoyancy.
+(® A tank 2.50 m x 3 m in plan is 10 meters deep. The tank if filled with 3 meters of water,2 meters 6
+of glycerin and 1 meter of mercury. Determine resultant hydrostatic force and its location on 3 m
+side of the tank.
+--- page 2 ---
+Q.No.4. (a) Explain:
+(i) Steady flow and Unsieady flow. 3
+(ii) Eulerian approach and Lagrangian approach.
+(b) The velocity componenis in a two dimensional flow field for an incompressible fluid are 6
+expressed as: u= Y°/3 + 2X - XY and v= xy? —2Y — X3/3; Show that these functions represent a
+
+possible case of ari irrotational flow.
+
+One
+Q.No.5. (a) Define hydraulic coefficients for an orifice? How they determined in laboratory? za
+(b) A rectangular notch is used to measure the flow of oil in an open channel, obtain an 2
+
+expression for the discharge over the notch.
+(c) A 15 cm x 5 cm venturimeter is provided in a vertical pipeline carrying crude oil of Specific 6
+gravity 0.82. The flow is in upward direction. The difference in elevation between the throat and
+inlet section is 32 cms. The jevel difference in mercury manorneter is 22 cms. Calculate the rate of
+
+flow. Take meter coefficient as 0.96.
+
+Q.No.6. (a) Differentiate between large and small orifice. Derive an expression for discharge through a large
+rectangular orifice.
+(b) Explain the concept of liquids in relative equilibrium. 3
+(c) An open cylinder 50 cm diameter and 95 cm height is filled with water and rotated aboutitsaxis. =
+Calculate the amount of water spilled when the speed of rotation is 375 rpm.
+
+Q.No.7. (a) Laminar flow is occurring between two rigid parallel boundaries. Obtain an expression for &
+head loss and shear stress and plot the distribution for velocity and shear stress.
+(b) Explain performance of Reynold’s experiment in brief. 3
+(c) Prove the condition of Orthogonality for stream lines and Equipotential lines. 3
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper de201431b092
@@ -9168,6 +10407,140 @@ Buckingham’s x-theorem, obtain an expression for Ap.
 06
 ````
 
+## 2014-15 · Re-Exam · Sem 3 · paper 2397bf2f7808
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS B TECH (CIVIL), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: II Semester: III
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Fluid Mechanics VAS IS =
+Marks: 100
+
+Date: 11/06/2015 Time: 2.00 p £5 003 oot MB
+Durations: 3 (hrs)\\ Ewe ZS RARY
+
+\
+Re-Examination NG I ait
+
+ye
+
+eee
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the Answer Book,
+which is provided for their use.
+
+NB:
+
+1. Qu. Lis compulsory
+
+2. Out of remaining questions attempt Any 4 questions
+
+3. All questions carry equal marks
+
+4. Answer to each question to be started on the fresh page
+
+5. Assume suitable additional data, if not given & mention it clearly.
+
+Qu.1: Attempt any Four(Each carrying equal marks) 20
+a) Define and Explain Newton’s law
+b) Differentiate between rotational and irrotational flows
+c) Define and explain Streamlines, pathlines and streaklines
+d) Derive an expression for an orifice fully submerged in liquid
+e) Derive an expression for liquid container subjected to constant horizontal acceleration
+f) Derive an expression for laminar flow through two parallel fixed plates.
+
+Qu.2a: A plate 0.028mm distant from a fixed plate, moves at 60cm/s and requires a force of 1.51N/m? to 08
+maintain this speed. Determine the fluid viscosity between the places in the poise.
+
+Qu.2b: A vertical gap 12mm wide of infinite extent contains fluid of kinematic viscosity 15 Stoke and 12
+specific gravity 0.8. A metallic plate 1.2m x 2.4m and 2 mm thick is to be lifted up with a constant
+velocity of 0.2 m/sec through the gap. Find the force required if the plate is in the middle of the gap
+and weighs 60N.
+
+Qu.3a: Find the total pressure and position of centre of pressure on a triangular plate of base 2m and height 10
+3m which is immersed in water in such a way that the plane of the plate makes an angle 600 with
+the free surface of the water. The base of the plate is parallel to water surface and at a depth of 2.5m
+from water surface.
+
+Qu.3b: — Explain in detail the lab experiment for determining Reynold’s number (Draw a neat diagram) 10
+
+Qu.4a: — A circular tank-of diameter 1.5m contains water upto a height of 4m. An orifice of 40mm diameter _05
+is provided at its bottom. If cd=0.62, find the height of water above the orifice after 10 minutes.
+
+Qu.4b: A rectangular contracted weir has a length of 2.5m between the abutments. There are two 15 cm 10
+thick rectangular pier-like obstructions on the crest. Estimate the discharge under a head of 70cm.
+Assume Cd=0.62 and the velocity of approach to be negligible.
+
+Qu.4c: A convergent-divergent mouth piece having throat diameter of 60mm is discharging water under a 05
+constant head of 3m. Determine the maximum outlet diameter for maximum discharge. Find
+maximum discharge also. Take atmospheric pressure head =10.3m of water and separation pressure
+head=2.5m of water absolute.
+
++p
+--- page 2 ---
+Qu.5a:
+
+Qu.5b:
+
+Qu.6a:
+
+Qu.6b:
+
+Qu.7:
+
+For steady, incompressible flow, verify whether the following the values of u and v are possible:
+u=2x"+y”, v=-4xy
+u=-x/(x2-+y?), v=-y/(x?+y’)
+
+Verify whether the following stream functions represent irrotational flow:
+a w= y —x’;
+b. w= Ax? y
+ce. W=Ax- By’
+
+Oil of absolute viscosity 1.5poise and relative density 0.85 flows through a 30 cm diameter pipe. If
+the head loss in 3000 m length of pipe is 20m, estimate (a) the shear stress at the pipe wall(b) shear
+stress at a radial distance of 10cm from the pipe axis (c) the friction factor f by assuming the flow
+to be laminar
+
+fot
+
+R
+
+Consider e
+
+Water is flowing between two large parallel plates which are 2.0mm apart. Determine: (a) maximum
+velocity, (b) the pressure drop per unit length and (c) the shear stress at walls of the plate if the
+average velocity is 0.4 m/s. Take viscosity of water as 0.01 poise.
+
+A vertical sluice gate is used to coVer an opening in a dam. The opening is 2m wide and 1.2m high.
+On the upstream of the gate, the liquid of specific gravity 1.45, lies upto a height of 1.5m above the
+top of the gate, whereas on the downstream side the water is available upto a height touching the
+top of the gate. Find the resultant force acting on the gate and position of centre of pressure. Find
+also the force acting horizontally at the top of the gate which is capable of opening it. Assume that
+the gate is hinged at the bottom.
+
+z fa
+
+10
+
+10
+
+10
+
+10
+
+20
+````
+
 ## 2014-15 · Re-Exam · Sem 3 · paper 103df8a4aee0
 
 - Departments: Civil
@@ -9282,496 +10655,301 @@ c) Differentiate between triangular and rectangular notch
 ~
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper 33658701cd25
+## 2014-15 · Re-Exam · Sem 3 · paper 7cfa42664d82
 
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 90.8
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 01/12/2014
+- Text: ocr (2 pages), mean OCR confidence 91.3
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Civil) Year: Il Semester: III
-Batch: 2014-2015 _.
-Academic Year: 2015-2016 watt y
-ve She NAWag.
+Programme: B. Tech (MECH) Year: II Semesters It
+Batch: 2013-2014 on kc.
+Academic Year: 2014-2015 h, pospee A Rtey,
 
-Subject: Fluid Mechanics $ f of 7 Ne
+Subject: Fluid Mechanics _ * e
 
-Marks: 60 4 3¢ MPSTME )}-
-Date: 02/12/2015 Time:
+Marks: MPSTM «
+: a
 
-Duration:
+Date: 01/12/2014 Time:
+
+Durations: ;
 
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions attempt any four questions.
+
+3. Inall five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new questions to be started on a fresh page.
+6. Figures on the right hand side indicate full marks.
+
+Q.1 Attempt any FOUR of the followings- (20)
+
+(a) What is Newton’s law of viscosity? Which are the various Newtonian and ‘non-
+Newtonian fluids?
+
+(b) What is the significance of meta-centric height? State the conditions for stable and
+unstable equilibrium.
+
+(c) What are Euler’s approach and Lagrangian approach of fluid motion? Which one of
+them is suitable in application and why?
+
+(d) Write a short note on Venturi meter and Pitot tube.
+
+(e) What are the applications and limitations of Reynold’s number in fluid dynamics?
+How would you classify laminar and turbulent flows?
+(f) Write a short note on following
+i. Momentum thickness
+ii. _ Energy thickness 4
+
+Q.2(a) Derive an expression for capillary rise of liquid in a capillary tube,if angle between (06)
+liquid film and tube wall is 0, surface tension of liquid is 6, density of liquid is p,
+diameter of tube is d and acceleration due to gravity is g.
+(b) A triangular plate of height 2.4 m and base 1.5 m is submerged in an oil of specific (08)
+gravity 0.85 in such a way that its plane makes an angle of 45° with the free surface
+of the oil. The base of the plate is parallel to the oil surface and at a depth of 1.2 m
+below the oil surface. Find the total pressure force on the plate and the position of
+centre of pressure.
+(c) Explain the followings with proper sketches- (06)
+(i) Centre of pressure (ii) Total pressure force
+
+Q.3(a) A400 mm diameter shaft is rotating at 200 rpm in a bearing of length 120 mm. Ifthe (07)
+thickness of oil film is 1.5 mm and the dynamic viscosity of the oil is 0.7
+Ns/m? Determine.
+1/5
+--- page 2 ---
+ae
+
+i) Torque required to overcome viscous resistance
+ii) Power utilised in overcoming the resistance
+(b) For two dimensional flow potential flow (®) is defined as a function- (07)
+
+@=In(x? + y”), Find the stream function in terms of x and y.
+(c) What is flow-net? Also Find the relation between stream function and potential (06)
+function (®).
+
+Q.4(a) A venturimeter with inlet and throat diameters are 150 mm and 75 mm respectively. (10)
+It is mounted on vertical pipe carrying water, the flow being upwards. The throat
+section is 250 mm above the inlet of the venturimeter. The discharge of the
+venturimeter is 40 lit/sec and the coefficient of discharge is 0.96.Calculate a) the
+
+static pressure difference between inlet and throat b) the difference in level of
+mercury in a vertical U-Tube manometer connected between these points.
+
+(b) State the Buckingham a theorem.
+Show that- Discharge Q through a centrifugal pump is dependent on mass density p
+of fluid, pump speed N (r.p.m), impeller diameter D, Pressure P, and viscosity of
+
+fluid p.
+Q = ND*0 | f
+
+(10)
+
+gH
+N2p2’
+
+8 :
+33, Here p/ p = Owhich is kinematic viscosity of fluid.
+
+Q.5(a) For a horizontal pipe having circular cross section with diameter D, average velocity (10)
+V, dynamic viscosity p,length of pipe from section 1 to section 2 is L. Prove that the
+pressure drop for laminar flow between 1 and 2 would be: Py — Pz = _
+
+(b) A 30 m long pipe line connects two reservoirs, both of which are open to the (10)
+atmosphere. The difference in their water level is 12 m. The pipe has three equal
+sections of 10 m each. The first and last sections are 60 mm in diameter and the
+intermediate section is 40 mm in diameter. The value of f for the pipes is 0.0054.
+Calculate the flow rate.
+
+Q.6(a) Explain the phenomenon of boundary layer formation and development. Comment on (06)
+boundary layer separation.
+(6) A wooden block of dimension 50 cm x 25 cm x 20 cm floats in water with its shortest (08)
+axis vertical. The depth of immersion of the block is 15 cm. Determine the
+metacentric height and state the condition of its equilibrium.
+
+(c) Explain the followings- (06)
+i) Velocity potential and Stream function -
+ii) Rotational and Irrotational flow
+
+Q.7(a) Find the expression for boundary layer thickness and shear stress for the given (10)
+velocity profile for laminar boundary layer given as
+us 3vy 1pyy3
+. u- 2 5) a(3)
+(b) An oil having viscosity 7.5 poise of specific gravity 0.85 flows through horizontal 50 (10)
+mm diameter pipe with a pressure drop of 18 KN/m’ per meter length of pipe.
+
+Determine
+i) the flow rate of oil and centre line velocity
+ii) power required to maintain the flow in 1000 mm length of pipe.
+
+iii) Velocity and shear stress at 8 mm from the wall.
+Z x
+2/5
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper e52ffee196d0
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 03/12/2014
+- Text: ocr (3 pages), mean OCR confidence 94.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CIVIL) Year: II Semester: III
+
+Academic Year: 2014-15 Batch: 2013-14
+
+Subject : Fluid Mechanics
+Marks: 100
+Date : 03/12/2014 Time : 2.00
+Durations:
+Re - Examination
+
+Instructions: Candidate should read carefully on the question paper and on the of the
 cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No._01_ is compulsory.
+(a) Question no.i is compulsory.
 
-2) Out of remaining questions, attempt any Four questions.
+(b) Attend any Four from remaining questions.
 
-3) In all 05 questions to be attempted.
+(c) Assume any suitable data, if necessary.
 
-4) All questions carry equal marks.
+(d) Answer to each new question should be started on a fresh new page.
+(e) Figures to right indicate marks.
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
+Q.1 | Solve any Four from following questions. (20)
 
-Q.No.1. Write short notes on: (any four) (42)
-(a) Types of fluids.
-(b) Flotation and buoyancy.
-(c) Flow net.
-(d) Rotameter.
-(e) Kinetic and momentum correction factor.
+(a) State the Newton’s law of viscosity. Give the example of Newtonian and
+non-Newtonian fluids.
 
-Q.No.2. (a) Explain the term surface tension and capillarity. What would be the capillary rise ina glass (6)
-tube of 2 mm diameter when immersed vertically in water, if surface tension of water 0.075 N/m °
-and the angle of contact for water and glass is zero?
+(b) Define and explain Flow net.
 
-(b) Define following properties of fluids along with their SI units and state importance of each (3)
-properties:
+(c) State and prove Pascal’s law.
 
-(i) Saturation vapor pressure
+(d) Define and explain Borda’s mouth piece.
 
-(ii) Dynamic viscosity and
+(e) If three liters of diesel weighs 25 N, calculate mass density, specific weight,
+specific volume and specific gravity of diesel.
 
-(iii) Compressibility
-(c) Explain: Pressure scale. (3 )
-Q. No.3. (a) State and prove Pascal law. ie)
+Q.2 | (a) Determine the pressure difference between points A and B, (refer figure 1)
+Assume density of mercury as 13600kg/m* and density of water as 1000kg/m’. (10)
 
-(b) A vertical gate is 10 m wide and has water to a depth of 10 m on one side and to a depth of 6 (s)
-m on other side. Find the regultant horizontal force on the gate and position ofits line of action.
+Oil of Sp. Gr. 0.9
 
-(c) State Archimedes’s principle. (2)
+Figure 1
 
-Page No. 1/2.
+1/3
 --- page 2 ---
-Q.No.4. (a) Explain Langragian method and Eulerian method of fluid flow description. (3)
+(b) A tank contains water up to a height of 0.7 m above the base. An immiscible
+liquid of specific gravity 0.95 is filled on the top of water up to 1.5 m height.
+Calculate:
 
-(b) State Bernoulli’s theorem and give its practical applications. (a)
-(c) Obtain the stream functions (¥) for the given potential functions (9): (6)
-1. O=xty _
-2. D=x2+ y?
+(i) Total pressure on one side of the tank.
 
-Q.No.5. (a) Derive an expression for discharge through triangular notch or weir. (SD
+(i) The position of center of pressure for one side of the tank, which is 2.5 m wide.
 
-(b) A horizontal. Venturimeter with inlet diameter 30 cm and throat diameter 15 emis (¢$)
-used to measure the flow of oil of specific gravity 0.85. The discharge of oil through
-Venturimeter is 85 lit/sec. find the reading of oil mercury differential manometer. Take
+(10)
 
-Cd = 0.96.
-
-(c) Write short notes on: Cipolletti weir. (2)
-
-Q.No.6. (a) A 20 mm diameter, 100 mm long mouthpiece is fitted externally and discharges water (5)
-under a head of 4.2 meters. Taking Cc as 0.62 and separation pressure as 2.5 meters
-respectively, calculate discharge and maximum permissible head.
-
-(b) An open cylinder 60 cm diameter and 100 cm height is filled with water and rotated (s)
-about its axis, Calculate the amount of water spilled when the speed of rotation is 350
-
-rpm.
-(c) Define: hydraulic coefficients of orifice. (2)
-
-Q.No.7. (a) Obtain an expression for head loss when laminar flow takes place between two CS)
-stationary parallel plates. Sketch velocity and shear stress distribution.
-(b) Water having viscosity of 0.01 Poise is flowing between two large stationery parallel {5)
-plates which are 2 mm apart. Determine maximum velocity, the pressure drop per unit
-length and the shear stress at walls of the plate if average velocity is 0.40 m/sec.
-(c) Explain; velocity of approach and end contraction. (2)
-
-Page No. 2/2
-````
-
-## 2014-15 · Re-Exam · Sem 3 · paper 965504a997c4
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS (MECHANICAL), B TECH MECHANICAL BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 30/11/2015
-- Text: ocr (4 pages), mean OCR confidence 89.5
-
-````text
-\ SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (Mechanical) Year: II Semester: III
-Batch: 2014-2015
-Academic Year: 2015-2016 cia \
-Subject: Fluid Mechanics : + ‘f “<eSTME ‘yt
-Marks: 60° i LIBRARY Sy
-Date: 30/11/2015 Time: 10: igh to to 1.00 pag,
-Duration: 3 (hi *
-| me <n Ms rani
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-aud on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No 1 is compulsory
-2. Out of remaining questions, attempt any FOUR.
-7™ 3. All questions carry equal marks.
-4. In all five questions to be attempted.
-5. Answer to each new question should be started on a fresh page.
-6. Figure in brackets on the right hand side indicate full marks.
-7. Assume Suitable data if necessary.
-
-Q.1 Define the following term :- (any Four ): (4x32 12)
-i. Specific volume and specific gravity of fluid.
-
-ii. Meta centre and meta-centric height.
-
-iii. Streak line and stream line.
-
-iv. Co-efficient of contraction and Co-efficient of discharge.
-
-vy. Flow Nets and methods of drawing flow nets.
-
-vi. Kinetic energy correction factor and momentum correction factor.
-vii. Major losses and minor losses in pipe.
-
-viii. Euler’s number and Weber’s number.
-
-Q2 A) Drive an expression for the force exerted on submerged vertical plane surface by C06)
-static liquid and locates the position for centre of pressure.
-
-B) Two co axial cylinder 10 em and 9.75 cm in diameter and 2.5 cm high have both
-
-their ends open and have a viscous liquid filled in between. A torque of 1.2 N-m is (03) ,
-produced on the inner cylinder when the outer one rotates at 90 rpm. Determine the
-
-coefficient of viscosity of the liquid. Refer given fig.
-
-el CLS @
---- page 2 ---
-C) A multitude manometer is used to determine the pressure difference between points od
-
-A and B as shown in fig below .For the given values of height determine the pressure
-
-difference between points A and B. Specific gravities of benzene and kerosene are 0.88
-
-and 0.82 respectively. Density of air 1.2 kg/m?
-
-pA J 4 hy
-
-Bent oe
-x
-
->»
-Q3 A) Explain conditions of equilibrium of a floating and submerged body. co)
-B) A sector gate in the form of circular arc of radius 5 m retains water to height of 4m
-above its still as in fig below. Calculate the magnitude and directions of resultant force (93)
-per unit length of the gate.
-C ) A solid of 200mm diameter and 800mm length has its base 20mm thick and of _
-
-specific gravity 6. The remaining part of the cylinder is of specific gravity 0.6. State if it
-
-can float vertically in water. Coe
-Q4 A) Define the equation of continuity .obtain an expression for continuity equation for (03)
-three dimensional flows in Cartesian co ordinates.
-saad B) Define the following term give one practical example of each: (03)
-
-i. One, two and three dimensional flows
-
-a ii. Rotational and ir-rotational flow
-
-iii. | Compressible and incompressible flow
-
-aly
---- page 3 ---
-C) Which of the following functions represent possible irrotational flow? (08)
-i y= AG?y’)
-ii, = y= xy
-
-ili. 6=(r-2)ain
-
-\ r
-
-iv. g= Ur cos6-+—-cosd
--
-
-Q5 A) What is the Euler’s equation of motion? How will you obtain Bernoulli’s equation (>
-
-from it?
-
-B) What is mean by non dimensional number? define the following non dimensional
-
-numbers : (98)
-
-oO i. Reynolds number
-ii. Froude’s number
-iii, Mach number. What are their significance for fluid flow problem?
-C) The following data relate to an inclined venturimeter.
-i. Diameter of pipeline =400mm
-ii. Inclination of pipe line with horizontal =30° (06)
-iii. Throat diameter =200mm
-iv. The distance between the mouth and throat of the meter =600mm
-y. Sp. Gravity of oil flowing through the pipe line =0.7
-vi. Sp. Gravity of oil heavy liquid (U tube) =13.6
-vii. Reading of the differential manometer =S0mm
-a> viii. The co-efficient of the meter =0.98
-Determine the rate of flow in pipe line.
-Q.6 A) Drive expression jor velocity distribution for viscous flow through a circular pipe. (06)
-Also sketch the velocity distribution and shear stress distribution across a section of
-pipe.
-B) Water is flowing through a rough pipe of diameter 500mm and length 4000m at the
-_ rate of 0.5 m*/s. Find the power required to maintain this flow. Take the average height oy
-pie of roughness as k=0.40mm.
-
-ayy
---- page 4 ---
 Q.3
 
-Q4
-
-C) A muititude manometer Is used to determine the pressure difference between points
-
-A and B as shown in fig below .For the given values of height determine the pressure
-
-difference between points A and B. Specific gravities of benzene and kerosene are 0.88
-
-and 0.82 respectively. Density of air 1.2 kg/m?
-
-A) Explain conditions of equilibrium of a floating and submerged body.
-B) A sector gate in the form of circular arc of radius 5 m retains water to height of 4m
-
-above its still as in fig below. Calculate the magnitude and directions of resultant force
-
-per unit length of the gate.
-
-Cc ) A solid of 200mm diameter and 800mm length has its base 20mm thick and of
-
-specific gravity 6. The remaining part of the cylinder is of specific gravity 0.6. State if it
-
-can float vertically in water.
-
-A) Define the equation of continuity obtain an expression for continuity equation for
-three dimensional flows in Cartesian co ordinates.
-B) Define the following term give one practical example of each:
-
-i. One , two and three dimensional flows
-
-ii. Rotational and ir-rotational flow
-
-iii. Compressible and incompressible flow
-
-Aly
-
-(03
-
-co3)
-
-(06)
-9)
-©)
-
-~
-````
-
-## 2014-15 · Re-Exam · Sem 3 · paper 93e2a414e773
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS B TECH MECHANICAL BATCH 14-15 16-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
-- Text: ocr (3 pages), mean OCR confidence 91.3
-
-````text
-——
-SVKM’s NMIMS <ganitOTE BF We
-\ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & Encigite RING
-
-a( arstun Ss
-EN LIBRARY Je
-
-Academic Year: 2015-16 i   Y
-er aH
-Batch: 2014-15 / 2015-16 Marks:60 =
-
-Subject: Fluid Mechanics Time: 10.00 am - 1.00 pm
-Date: 10 June 2016 Durations: 3 (hrs)
-Re-Examination
-
-, Programme: B.Tech (Mechanical) Year: I Semester: III
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) All questions carry equal marks.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary
-
-Qu.1 Attempt any Four questions
-a) Explain- Circulation, stream function and potential function for a flow field. (3)
-b) What are various Types of fluids? Explain in brief about Newtonian fluids with (3)
-example.
-c) Explain - stream lines, streak lines and Path line. (3)
-
-d) Define surface tension. Obtain an expression of for surface tension of liquid (3)
-bubble in terms of the excess pressure inside the bubble.
-
-e) What is pitot tube? How it can be used for measuring static pressure in the pipe. (3)
-
-f) Define following non dimensional number and give their significance. (3)
-Euler’s number, Weber number and Reynolds number
-
-g) What do you understand about viscous sub layer? Give the significance of viscous (3)
-sub layer.
-
-Qu.2 (a) What is an orifice meter? Find an expression for actual discharge through an (4)
-orifice meter.
-
-(b) A rectangular plate 0.6 meter wide and 1.2 m deep lies within water body sich (5)
-that its plane is inclined at 45° to the horizontal and the top edge is 0.70 meter
-below the water surface. Determine the total pressure force on one side of the
-plate and the location of the center of the pressure.
-
-(c) Explain briefly about Prandtl mixing length theory. (3)
-
-Qu.3 (a) A 90 N weight rectangular solid block slides down a 30° inclined plane. The plane (3)
-is lubricated by 3 mm thick film of oil of specific gravity 0.90 and viscosity
-8 poise. If the contact area is 0.3 m”. Calculate the terminal velocity of the block.
---- page 2 ---
-Qu.4
-
-Qu.5
-
-Qu.6
-
-(b)
-
-(©)
-
-(a)
-
-(b)
-
-()
-
-(a)
-(b)
-
-(c)
-
-(a)
-(b)
-
-(¢)
-
-Oil of specific gravity 0.92 and dynamic viscosity 1.05 poise flows between two
-fixed parallel plates 12mm apart. Ifthe mean velocity is 1.4m/s, calculate
-1. Maximum velocity ,
-2. Velocity and shear stress at a distance of 2mm from one of the plates and,
-3. Loss of head over a distance of 25m.
-
-Show that the friction factor (f) for laminar flow in circular pipe is given by p= 16
-Re
-
-Where Re is the Reynolds number.
-
-Water flows through a pipe of 150 mm diameter and 400 m long with constant
-flow rate of 0.02.m?/sec. The inlet of pipe is 20m below the outlet and the pressure
-at the out let is 200kPa.If friction factor (f) of the pipe is 0.006; find the pressure at
-the inlet of the pipe. (neglect all minor losses)
-
-Obtain an expression for average veiocity of laminar flow through circular pipe.
-
-A solid cylinder of diameter D and height H having a relative density of S floats in
-water (density = 1000 kg /m*) with its axis vertical .Show that the maximum value
-of H/D for which the cylinder will float in stable equilibrium with its axis vertical
-
-. H 1
-1s given aS — <<
-D Jgsa-S)
-
-Derive Euler’s equation by listing all the assumptions. Hence deduce Bernoulli’s
-equation.
-Show that potential function (¢) exists for the given flow field,
-
-u=xyV
-
-v= yx?
-
-Hence obtain the expression for the potential function (#) for the flow field.
-
-The thrust force, F generated by a propeller is found to depend on the following
-parameters: diameter (D), forward velocity (u), density (p), viscosity (11) and
-rotational speed (N). Determine the dimensionless parameters to correlate the
-
-phenomenon.
-
-Obtain an expression of head loss due to sudden expansion in a pipe.
-What do you understand by compressibility? If a liquid is undergone a change of
-pressure from 6.87 MPa to 13.73 MPa to make the volumetric change of 0.0113
-m? to 0.0111 m>. Calculate the compressibility of the liquid?
-
-2 .
-The velocity distribution in boundary layer is given by 4 af2).(2) ; where u is
-the velocity at distance y from plate and w=U at y=d, 6 being boundary layer
-
-thickness.
-Find the following quantities in terms of 6.
-
-(i) Displacement thickness
-(ii) Momentum thickness
-(iii) | Energy thickness
-
-©)
-
-(4)
-
-(3)
-
-(4)
-6)
-
-(4)
-(4)
-
-(4)
-
-G3)
-(3)
+(a)The velocity field in a fluid flow is given by
+
+V = x? ti + 2xytj + 2yztk
+Where x, y and z are given in meter and time t is seconds. Determine the velocity
+vector at point (2,-1,1) at time t=1s. Also determine the magnitude of velocity and
+acceleration of the flow for given location and time.
+
+(b) Derive an expression for effect on computed discharge over a weir or notch due
+to error in measurement of head.
+
+(c) A uniform body of size 3m x 3m and | m deep floats in water. What is the
+weight of the body if depth of immersion is 0.8m? Calculate the density of the body
+material and its metacentric height.
 
 (6)
 
+(6)
+
+(8)
+
+Q.4
+
+(a)A venturimeter is installed in pipeline carrying water and is 30 cm in diameter.
+The throat diameter is 12.5 cm. the pressure in pipeline is 140 kN/m’, and the
+vacuum in a throat is 37.5 cm of mercury. 4% of differential head is lost between the
+gauges. Working from first principles find the flow rate in the pipeline in liter/s,
+assuming the venturimeter is horizontal.
+
+(b) A convergent-divergent nozzle is fitted into the side of a tank containing water.
+Assuming that there are no losses in the convergent part of the nozzle, that the losses
+in the divergent part are equivalent to 0.18 times the velocity head at exit, and that
+the minimum absolute pressure at the throat is 2.5 m of water for a barometric
+pressure of 10.3 mi. of water, determine the throat and exit diameters of nozzle to
+discharge 0.0042 m 3/s for a head of 1.5 m above the center-line of nozzle.
+
+(10)
+
+(10)
+
+Q.5
+
+(a) Water flows over a rectangular weir of width 2 m at a depth of 20 cm. afterwards,
+water passes through a triangular right-angled weir. Find the depth of water through
+the triangular weir. The coefficients of discharge for rectangular and triangular weirs
+are 0.63 and 0.59, respectively.
+
+(b) A rectangular tank 6 m long, 2 m déep and 2.4 m wide contains 1 m of water. If
+the tank moves horizontally in the direction of the length of the tank with a constant
+linear acceleration of 2.45m/s’, calculate (i) the angle of the water surface to the
+horizontal, (ii) the maximum pressure intensity on the bottom, (iii) the minimum
+pressure intensity on the bottom,(iv)the total force due to the water acting on each
+end of the tank.
+
+(10)
+
+(10)
+
 2/3
 --- page 3 ---
-Qu.7 (a) From a water tank two identical jets issue at distances H; and H» from the water level at (4)
-the top. Both reach the same point at the ground level of the tank. If the distance from the
+Q.6 | (a) A crude oil of viscosity 0.8 poise and relative density 0.8 is flowing through a
+horizontal circular pipe of diameter 150 mm and length 15 m. Calculate the
+difference of pressure at the two ends of the pipe, if 110 kg of the oil is collected in a
+tank in 35 seconds. (10)
 
-#.
-ground level to the jet levels are y; and y2, Show that va ttn
+(b) A shaft having a diameter of 65 mm rotates centrally in a journal bearing having
+a diameter of 55.15 mm and length 140 mm. the angular space between the shaft and
+bearing is filled with oil having viscosity of 0.95poise. Determine the power
+absorbed in the bearing when the speed of rotation is 65r.p.m. (10)
 
-y A,
+Q.7 | Write short note on any Four:- | (20)
+a) Kinetic correction factor.
+b) Capillarity.
+c) Condition of equilibrium of a floating body.
+d) Dashpot mechanism
+e) Compressibility
 
-n | ya
-
-y Groundlevel
-
-(b) Discuss the effect-of pressure gradient on boundary layer separation. What methods are (3)
-used to control the boundary layer separation?
-
-(c) Find the rate of flow through horizontal pipe line 50 m long which is connected to a water (5)
-tank at one end and discharged freely into the atmosphere at the other end .For the first 30
-meters of its length from the tank, the pipe is 200 mm in diameter and is suddenly
-enlarged to 300 mm. the height of the water level in the tank is 10 meters above the center
-of the pipe. Considering all the minor losses. Take f= 0.02 for both section of pipes.
+3/3
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 8d21fffd7739
@@ -9892,102 +11070,137 @@ of the tank. Find also the depth of centre of pressure from free surface
 2
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper e95c0c46b2a2
+## 2014-15 · Re-Exam · Sem 3 · paper ce223bd0ef98
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 28/11/2015
-- Text: ocr (2 pages), mean OCR confidence 90.5
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/sFLUID MECHANICS BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 11/06/2015
+- Text: ocr (2 pages), mean OCR confidence 91.4
 
 ````text
-SVKM’s NMIMS
+SVEM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (CIVIL) YearilI Semester: III
+Programme:MBA Tech (CIVIL) Year: I ’ Semester: HI
 
-Academic Year: 2015 - 16
+Academic Year: 2014-15
 
-Batch:2014-15
+Batch:2013-14
 
-ST aR cy
+; o.%
+Subject :Fluid Mechanics - {iMarks: 100° Ll x iE ‘
+‘ime : 2. 00pm = 3.0 Y
+Date : 11/06/2015 ations:3 ( (ars)
+Re-Examination SS. “my ise
+om,
 
-08 pint 5.00 pp S E
-29 (hrs) Ss 7
-Visage oY
-
-Subject :Fluid Mechanics Mai
-
-Date : 28/11/2015, Dur
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper aid on the
-cover of the Answer Book, which is provided for their use.
+ernie
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the Answer Book,
+which is provided for their use.
 
 NB:
 
-1) Question No._ is compulsory.
+4. Qu. 1 is compulsory
 
-2) Out of remaining questions, attempt any 4 questions.
+2. Out of remaining questions attempt Any 4 questions
+S- All questions carry equal marks
 
-3) In all 5 questions to be attempted.
+4+ Answer to each question to be started on the fresh page
 
-4) All questions carry equal marks.
+5. Assume suitable additional data, if not given & mention it clearly.
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
+Qu.1: Attempt any Four(Each carrying equal marks) 20
+a) Define and Explain Pascal’s law
 
-Q.No.1. Write short notes on: (any four) \2
-(a) Classification of fluids based on viscosity.
-(b) Absolute, gauge, atmospheric, and vacuum pressure.
-(c) Rotameter.
-(d) Uniform and Non-uniform flow.
-(e) End contraction and Velocity of approach in weirs.
+b) Give different Types of fluids with examples.
 
-Q.No.2. (a) Explain the phenomenon of capillarity and obtain an expression for capillary rise ina gap &
-between two concentric tubes.
-(b) A block of base area 30 sq.cm weighing 150 N slides down a 30 degree inclined plane overan 4
-oil film of thickness 1 mm. If the coefficient of viscosity of oil is 45 poise. Find the steady state
-velocity of the block.
-(c) Find mass density, specific volume and specific weight ofa fluid having specific gravity=0.88. 4
+c) Define and explain potential flow, stream flow and flow net
 
-Q. No.3. (6) A wooden block of rectangular section 1.35 meter wide, 2.25 meter deep and 4.25 long floats “¢
-horizontally in sea water. If the specific gravity of wood is 0.60 and water weighs 1025 kg/m?
-find the volume of liquid displaced and the position of the centre of buoyancy.
-(® A tank 2.50 m x 3 m in plan is 10 meters deep. The tank if filled with 3 meters of water,2 meters 6
-of glycerin and 1 meter of mercury. Determine resultant hydrostatic force and its location on 3 m
-side of the tank.
+d) Derive an expression for an orifice partially submerged in liquid
+
+e) Derive an expression for liquid container subjected to constant vertical acceleration
+
+f) Derive Hagen Poiseulle’s equation
+
+Qu.2a: If the equation of a velocity profile over a plate is v = 2y?/?; in which v is the velocity in m/s ata 05
+
+distance of y metres above the plate, determine the shear stress at y= 0 and y= 0.075 m.
+Given pw = 8.25 poise.
+
+Qu.2b: For having a blood sample a fine glass capillary of diameter 2mm was held touching a freshly 05
+punctured finger tip. Estimate in ‘ml’ the volume of blood sample so drawn. Take density of blood
+as 1060kg/m3, surface tension as 5x10-2 N/m and its contact angle with glass as zero degree.
+
+Qu.2c: A tank contains water upto a height of 0.5m above the base. An immiscible liquid of sp.gr. 0.8 is 10
+filled on the top of water upto Im height. Caicuiate:
+(i) Total pressure on one side of the tank
+(ii) The position of centre of pressure for one side of the tank, which is ;2m wide.
+
+Qu.3a: — Anopen tank 4.5m long, 2m deep and 3m wide contains oil of relative density 0.9 to a depth of 0.8. 10
+If a tank is accelerated along its length on a horizontal track at a constant value of 3.5m/s’, determine
+(i) the new position of the ail surface, and (ii) pressures at the bottom of the tank at the front and
+rear edges. (Draw a neat diagram) -
+
+Qu.3b: — Explain in detail the lab experiment for determining Reynold’s number (Draw a neat diagram) 05
+
+Qu.3c: A hollow cylinder 1 m long has internal and external diameters of 0.4m and 0.6m respectively. Both 05
+ends of the cylinder are open. If the weight of the cylinder is 700N, analyze whether the cylinder is
+would be stable and float in water with its axis vertical.
+
+Qu.4a: The head of water over an orifice of diameter 100mm is 5m. The water coming out from orifice is 10
+collected in a circular tank of diameter 2m. The rise of water level in a circular tank is 45 cm in 30
+seconds. Also the co-ordinates of a certain point on the jet, measured from vena-contracta are 100cm
+horizontal and 5.2 m vertical. Find the hydraulic co-efficients Cy, Cy and C.
 --- page 2 ---
-Q.No.4. (a) Explain:
-(i) Steady flow and Unsieady flow. 3
-(ii) Eulerian approach and Lagrangian approach.
-(b) The velocity componenis in a two dimensional flow field for an incompressible fluid are 6
-expressed as: u= Y°/3 + 2X - XY and v= xy? —2Y — X3/3; Show that these functions represent a
+Qu.4b:
 
-possible case of ari irrotational flow.
+Qu.5a:
 
-One
-Q.No.5. (a) Define hydraulic coefficients for an orifice? How they determined in laboratory? za
-(b) A rectangular notch is used to measure the flow of oil in an open channel, obtain an 2
+Qu.5b:
 
-expression for the discharge over the notch.
-(c) A 15 cm x 5 cm venturimeter is provided in a vertical pipeline carrying crude oil of Specific 6
-gravity 0.82. The flow is in upward direction. The difference in elevation between the throat and
-inlet section is 32 cms. The jevel difference in mercury manorneter is 22 cms. Calculate the rate of
+Qu. 6a:
 
-flow. Take meter coefficient as 0.96.
+Qu.6b:
 
-Q.No.6. (a) Differentiate between large and small orifice. Derive an expression for discharge through a large
-rectangular orifice.
-(b) Explain the concept of liquids in relative equilibrium. 3
-(c) An open cylinder 50 cm diameter and 95 cm height is filled with water and rotated aboutitsaxis. =
-Calculate the amount of water spilled when the speed of rotation is 375 rpm.
+Qu.7a:
 
-Q.No.7. (a) Laminar flow is occurring between two rigid parallel boundaries. Obtain an expression for &
-head loss and shear stress and plot the distribution for velocity and shear stress.
-(b) Explain performance of Reynold’s experiment in brief. 3
-(c) Prove the condition of Orthogonality for stream lines and Equipotential lines. 3
+Qu.7b:
+
+A convergent-divergent mouth piece having throat diameter of 60mm is discharging water undera 40
+constant head of 3m. Determine the maximum outlet diameter for maximum discharge. Find
+maximum discharge also. Take atmospheric pressure head =10.3m of water and separation pressure
+head=2.5m of water absolute.
+
+The velocity components in a two-dimensional flow are: 10
+8 8 :
+u= 8x*y —sy? andv = —8xy? + se . Show that these velocity components represent a
+
+possible case of an irrotational flow.
+
+Check if @ = x? — y? + y represents the velocity potential for two-dimensional irrotational flow. If 10
+it does, then determine the stream function Y.
+
+Derive Euler’s equation of motion and from that derive Bernoulli’s equation 10
+
+How will you calculate Reynold’s number experimentally in the laboratory. Draw neat sketch. 10
+
+Water is flowing between two large parallel plates which are 2.0mm apart. Determine: (a) maximum 10
+velocity, (b) the pressure drop per unit length and (c) the shear stress at walls of the plate if the
+average velocity is 0.4 m/s. Take viscosity of water as 0.01 poise.
+
+A vertical sluice gate is used to cover an opening in a dam. The opening is 2m wide and 1.2m high. - 10
+On the upstream of the gate, the liquid of specific gravity 1.45, lies upto a height of 1.5m above the
+
+top of the gate, whereas on the downstream side the water is available upto a height touching the
+
+top of the gate. Find the resultant force acting on the gate and position of centre of pressure. Find
+
+also the force acting horizontally at the top of the gate which is capable of opening it. Assume that
+
+the gate is hinged at the bottom.
+
+vs
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 7992c3b37331
@@ -10438,245 +11651,6 @@ number. 10
 P=
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 2397bf2f7808
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS B TECH (CIVIL), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: III
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Fluid Mechanics VAS IS =
-Marks: 100
-
-Date: 11/06/2015 Time: 2.00 p £5 003 oot MB
-Durations: 3 (hrs)\\ Ewe ZS RARY
-
-\
-Re-Examination NG I ait
-
-ye
-
-eee
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the Answer Book,
-which is provided for their use.
-
-NB:
-
-1. Qu. Lis compulsory
-
-2. Out of remaining questions attempt Any 4 questions
-
-3. All questions carry equal marks
-
-4. Answer to each question to be started on the fresh page
-
-5. Assume suitable additional data, if not given & mention it clearly.
-
-Qu.1: Attempt any Four(Each carrying equal marks) 20
-a) Define and Explain Newton’s law
-b) Differentiate between rotational and irrotational flows
-c) Define and explain Streamlines, pathlines and streaklines
-d) Derive an expression for an orifice fully submerged in liquid
-e) Derive an expression for liquid container subjected to constant horizontal acceleration
-f) Derive an expression for laminar flow through two parallel fixed plates.
-
-Qu.2a: A plate 0.028mm distant from a fixed plate, moves at 60cm/s and requires a force of 1.51N/m? to 08
-maintain this speed. Determine the fluid viscosity between the places in the poise.
-
-Qu.2b: A vertical gap 12mm wide of infinite extent contains fluid of kinematic viscosity 15 Stoke and 12
-specific gravity 0.8. A metallic plate 1.2m x 2.4m and 2 mm thick is to be lifted up with a constant
-velocity of 0.2 m/sec through the gap. Find the force required if the plate is in the middle of the gap
-and weighs 60N.
-
-Qu.3a: Find the total pressure and position of centre of pressure on a triangular plate of base 2m and height 10
-3m which is immersed in water in such a way that the plane of the plate makes an angle 600 with
-the free surface of the water. The base of the plate is parallel to water surface and at a depth of 2.5m
-from water surface.
-
-Qu.3b: — Explain in detail the lab experiment for determining Reynold’s number (Draw a neat diagram) 10
-
-Qu.4a: — A circular tank-of diameter 1.5m contains water upto a height of 4m. An orifice of 40mm diameter _05
-is provided at its bottom. If cd=0.62, find the height of water above the orifice after 10 minutes.
-
-Qu.4b: A rectangular contracted weir has a length of 2.5m between the abutments. There are two 15 cm 10
-thick rectangular pier-like obstructions on the crest. Estimate the discharge under a head of 70cm.
-Assume Cd=0.62 and the velocity of approach to be negligible.
-
-Qu.4c: A convergent-divergent mouth piece having throat diameter of 60mm is discharging water under a 05
-constant head of 3m. Determine the maximum outlet diameter for maximum discharge. Find
-maximum discharge also. Take atmospheric pressure head =10.3m of water and separation pressure
-head=2.5m of water absolute.
-
-+p
---- page 2 ---
-Qu.5a:
-
-Qu.5b:
-
-Qu.6a:
-
-Qu.6b:
-
-Qu.7:
-
-For steady, incompressible flow, verify whether the following the values of u and v are possible:
-u=2x"+y”, v=-4xy
-u=-x/(x2-+y?), v=-y/(x?+y’)
-
-Verify whether the following stream functions represent irrotational flow:
-a w= y —x’;
-b. w= Ax? y
-ce. W=Ax- By’
-
-Oil of absolute viscosity 1.5poise and relative density 0.85 flows through a 30 cm diameter pipe. If
-the head loss in 3000 m length of pipe is 20m, estimate (a) the shear stress at the pipe wall(b) shear
-stress at a radial distance of 10cm from the pipe axis (c) the friction factor f by assuming the flow
-to be laminar
-
-fot
-
-R
-
-Consider e
-
-Water is flowing between two large parallel plates which are 2.0mm apart. Determine: (a) maximum
-velocity, (b) the pressure drop per unit length and (c) the shear stress at walls of the plate if the
-average velocity is 0.4 m/s. Take viscosity of water as 0.01 poise.
-
-A vertical sluice gate is used to coVer an opening in a dam. The opening is 2m wide and 1.2m high.
-On the upstream of the gate, the liquid of specific gravity 1.45, lies upto a height of 1.5m above the
-top of the gate, whereas on the downstream side the water is available upto a height touching the
-top of the gate. Find the resultant force acting on the gate and position of centre of pressure. Find
-also the force acting horizontally at the top of the gate which is capable of opening it. Assume that
-the gate is hinged at the bottom.
-
-z fa
-
-10
-
-10
-
-10
-
-10
-
-20
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper cf0c1b789c52
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/FLUID MECHANICS/FLUID MECHANICS B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-Pi SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: II Semester: III
-Batch: 2013-2014
-
-Academic Year: 2015-2016
-
-Subject: Fluid Mechanics
-
-Marks
-Date: 02/12/2015 Time
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.1 Attempt any FIVE. 20
-a), Define absolute, gauge and atmospheric pressure along with neat sketch.
-b) Classify orifices.
-c) 1. Define surface tension and give its SI unit.
-2. What are the methods of describing fluid flow?
-d) A 30 cm diameter pipe, conveying water, branches in to two pipes of diameters
-20 cm and 15 cm respectively. If the average velocity in 30 cm diameter pipe is
-2.6 m/s, find the discharge in this pipe. Also determine the velocity in 15 cm
-diameter pipe if average velocity in 20 cm diameter pipe is 2.1 m/s.
-e) The velocity components in a two dimensional flow are:
-
-2
-
-g
-u=8x’y — Zy? and v=~ 8xy? + =x?
-
-Show that these velocity components represent a possible case of an irrotational
-
-flow.
-f) How will you determine velocity at any point with help of Pitot-tube?
-Q.2 1) Explain with neat sketch (i) Rotameter (ii) Nozzle meter 10
-_— 4 2) A rectangular wooden block is 5 m long, 3 m wide and 1.2 m high. The depth of
-immersion of block is 0.9 m in sea water. If the centre of gravity is 0.6 m above
-ae the bottom, determine meta centric height. The density of sea water = 1025
-kg/m}. 10
-
-Q.3 1) Derive Euler’s equation and hence derive Bernoulli’s equation for an 10
-incompressible fluid flowing through pipe.
---- page 2 ---
-2) The velocity vector in a fluid flow is given by
-V = 4x31 — 10x’yj-+ 2tk.
-
-Find the velocity and acceleration of a fluid particle at (3, 2, 1) at time t= 1. 10
-Q4 1) Explain Reynold’s experiment along with the neat sketch. 06
-2) Explain vena-contracta with sketch. 04
-
-3) Derive an expression of total pressure and centre of pressure for vertical plane
-surface submerged in liquid. 10
-Q.5 1) Give classification of fluid flow along with their mathematical expressions. 10
-
-2) A rectangular weir of crest length 50 cm is used to measure the rate of flow of
-water in a rectangular channel 80 cm wide and 70 cm deep, find the discharge in
-the channel if the water level is 80 mm above the crest of weir. Take velocity of
-approach in to consideration and value of Ca = 0.62. 10
-Q.6 1) Ina process a liquid with dynamic viscosity of 2 N/m? flows in the gap between
-two horizontal parallel plates having a gap of 100mm between them. If a
-maximum velocity of 1.5m/s is desired, find the (a) discharge per unit width of
-the plates (b) boundary shear stress and (c) the pressure gradient 10
-2) Explain hydraulic coefficients and derive Ca= Ce x Cy 10
-
-Q.7 1) Define orifice and mouthpiece. Obtain expression for discharge through large 10
-rectangular orifice.
-2) A closed cylindrical tank of diameter 1.2 m and length 6 m is completely filled
-with oil of sp.gr. 0.9. If the tank is placed with its axis horizontal and subjected
-to an acceleration of 2.5 m/s? in the horizontal direction, find the forces on the
-two ends of the tank, when (a) the oil is filled at atmospheric pressure, (b) the oil
-is filled under a pressure of 17.658 KN/m*. Show that the difference between
-these forces equals the unbalanced force necessary to accelerate the liquid mass _—10
-in the tank.
-
-Ye
-
-2o—
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper fb0c8f23a08b
 
 - Departments: Civil
@@ -10934,295 +11908,6 @@ K x
 “fe
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 7cfa42664d82
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 01/12/2014
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: II Semesters It
-Batch: 2013-2014 on kc.
-Academic Year: 2014-2015 h, pospee A Rtey,
-
-Subject: Fluid Mechanics _ * e
-
-Marks: MPSTM «
-: a
-
-Date: 01/12/2014 Time:
-
-Durations: ;
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions attempt any four questions.
-
-3. Inall five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new questions to be started on a fresh page.
-6. Figures on the right hand side indicate full marks.
-
-Q.1 Attempt any FOUR of the followings- (20)
-
-(a) What is Newton’s law of viscosity? Which are the various Newtonian and ‘non-
-Newtonian fluids?
-
-(b) What is the significance of meta-centric height? State the conditions for stable and
-unstable equilibrium.
-
-(c) What are Euler’s approach and Lagrangian approach of fluid motion? Which one of
-them is suitable in application and why?
-
-(d) Write a short note on Venturi meter and Pitot tube.
-
-(e) What are the applications and limitations of Reynold’s number in fluid dynamics?
-How would you classify laminar and turbulent flows?
-(f) Write a short note on following
-i. Momentum thickness
-ii. _ Energy thickness 4
-
-Q.2(a) Derive an expression for capillary rise of liquid in a capillary tube,if angle between (06)
-liquid film and tube wall is 0, surface tension of liquid is 6, density of liquid is p,
-diameter of tube is d and acceleration due to gravity is g.
-(b) A triangular plate of height 2.4 m and base 1.5 m is submerged in an oil of specific (08)
-gravity 0.85 in such a way that its plane makes an angle of 45° with the free surface
-of the oil. The base of the plate is parallel to the oil surface and at a depth of 1.2 m
-below the oil surface. Find the total pressure force on the plate and the position of
-centre of pressure.
-(c) Explain the followings with proper sketches- (06)
-(i) Centre of pressure (ii) Total pressure force
-
-Q.3(a) A400 mm diameter shaft is rotating at 200 rpm in a bearing of length 120 mm. Ifthe (07)
-thickness of oil film is 1.5 mm and the dynamic viscosity of the oil is 0.7
-Ns/m? Determine.
-1/5
---- page 2 ---
-ae
-
-i) Torque required to overcome viscous resistance
-ii) Power utilised in overcoming the resistance
-(b) For two dimensional flow potential flow (®) is defined as a function- (07)
-
-@=In(x? + y”), Find the stream function in terms of x and y.
-(c) What is flow-net? Also Find the relation between stream function and potential (06)
-function (®).
-
-Q.4(a) A venturimeter with inlet and throat diameters are 150 mm and 75 mm respectively. (10)
-It is mounted on vertical pipe carrying water, the flow being upwards. The throat
-section is 250 mm above the inlet of the venturimeter. The discharge of the
-venturimeter is 40 lit/sec and the coefficient of discharge is 0.96.Calculate a) the
-
-static pressure difference between inlet and throat b) the difference in level of
-mercury in a vertical U-Tube manometer connected between these points.
-
-(b) State the Buckingham a theorem.
-Show that- Discharge Q through a centrifugal pump is dependent on mass density p
-of fluid, pump speed N (r.p.m), impeller diameter D, Pressure P, and viscosity of
-
-fluid p.
-Q = ND*0 | f
-
-(10)
-
-gH
-N2p2’
-
-8 :
-33, Here p/ p = Owhich is kinematic viscosity of fluid.
-
-Q.5(a) For a horizontal pipe having circular cross section with diameter D, average velocity (10)
-V, dynamic viscosity p,length of pipe from section 1 to section 2 is L. Prove that the
-pressure drop for laminar flow between 1 and 2 would be: Py — Pz = _
-
-(b) A 30 m long pipe line connects two reservoirs, both of which are open to the (10)
-atmosphere. The difference in their water level is 12 m. The pipe has three equal
-sections of 10 m each. The first and last sections are 60 mm in diameter and the
-intermediate section is 40 mm in diameter. The value of f for the pipes is 0.0054.
-Calculate the flow rate.
-
-Q.6(a) Explain the phenomenon of boundary layer formation and development. Comment on (06)
-boundary layer separation.
-(6) A wooden block of dimension 50 cm x 25 cm x 20 cm floats in water with its shortest (08)
-axis vertical. The depth of immersion of the block is 15 cm. Determine the
-metacentric height and state the condition of its equilibrium.
-
-(c) Explain the followings- (06)
-i) Velocity potential and Stream function -
-ii) Rotational and Irrotational flow
-
-Q.7(a) Find the expression for boundary layer thickness and shear stress for the given (10)
-velocity profile for laminar boundary layer given as
-us 3vy 1pyy3
-. u- 2 5) a(3)
-(b) An oil having viscosity 7.5 poise of specific gravity 0.85 flows through horizontal 50 (10)
-mm diameter pipe with a pressure drop of 18 KN/m’ per meter length of pipe.
-
-Determine
-i) the flow rate of oil and centre line velocity
-ii) power required to maintain the flow in 1000 mm length of pipe.
-
-iii) Velocity and shear stress at 8 mm from the wall.
-Z x
-2/5
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 72853341e4e6
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS B TECH (MECHANICAL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2015
-- Text: ocr (3 pages), mean OCR confidence 92.3
-
-````text
-Mi . SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Mechanical) Year: II Semester: III
-Batch: 2013-2014
-
-f Academic Year: 2015-2016
-
-a Rey, ]
-( Subject: Fluid Mechanics st — “NM,
-Marks : 100 F ahaa ‘ye :
-
-Date: 30/11/2015 Time —: 10.00 asia Oe “
-
-Duration: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any FOUR questions.
-3) All questions carry equal marks.
-= 4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary
-
-Qu.1 Attempt any Five questions
-a) Explain Buckingham-z theorem. (4)
-b)   Explain- stream line, path line and streak line (4)
-c) Explain between gauge pressure, absolute pressure and vacuum pressure. (4)
-d) Obtain an expression of height of liquid rise in a capillary tube. + (4)
-e) What is orifice-meter? How it can be used for measuring discharge of fluid flowing (4)
-through the pipe.
-f) Define following non dimensional number and give their significance. (4)
-
-Froude number, Mach number, Reynolds number and weber number
-g) Define boundary layer thickness. What are the factors affecting boundary layer (4)
-
-thickness.
-Qu.2 (a) Find the expression for head loss due to sudden expansion of pipe. (5)
-Cc (b) What is metacentric height? Obtain an expression for the metacentric height ofa (10)
-floating body in a liquid.
-(c) Explain briefly about Reynold experiment. (5)
-
-Qu.3 (a) Two large vertical plane parallel surfaces are 5 mm apart and the space between (6)
-them is filled with a fluid. A thin plate of 12.5 cm square falls freely between the
-planes along the central plane and reaches a steady velocity of 2 m/s. Determine
-the weight of the plate if the viscosity of the fluid filling the space is 0.02 Ns/m?.
-
-— (b) A circular plate of 3 m diameter is vertically placed in water with its centre 5 m (6)
-from the free surface. Determine the force due to the fluid pressure on one side of
-: the plate and also its point of application.
-
-(c) Oil of specific gravity 0.92 and dynamic viscosity 1.05 poise flows between two (8)
-fixed parallel plates 15mm apart. Ifthe mean velocity is 2 m/s. Calculate Maximum
---- page 2 ---
-velocity, Velocity and shear stress at a distance of 3mm from one of the plates and,
-Loss of head over a distance of 15m.
-
-Qu.4 (a) An inverted differential manometer is connected to two pipes A and B which
-convey water. The fluid in manometer is oil of specific gravity 0.85. For the
-manometer reading shown in figure, find the pressure difference between the
-points A and B.
-
-Oil sp. gr. = 0.85
-
-(6)
-
-Water
-
-(b) Obtain an expression for discharge (Q) of laminar flow through circular pipe. (6)
-(c) Obtain an expression for kinetic energy correction factor (a) and momentum (8)
-correction factor (8) for laminar flow through circular pipe.
-
-Qu.5 (a) Derive continuity equation in Cartesian co-ordinate system by listing all the (8)
-assumptions.
-(b) For the following set of velocity component verify whether the continuity (6)
-equation is satisfied. If so, determine the vorticity vector (Q) at point (1, 1, 1)
-equation.
-
-u=2x? +3y, u=—2xyt3y° +3zy wanS2 —2xy-9y"z,
-
-(c) Ina flow through a sudden contraction in a circular duct, the head loss (h) is found (6)
-to depend on the inlet velocity (u), larger diameters (D), smaller diameter (d), the
-density of fluid (p), viscosity of fluid (\) and gravitational acceleration (g).
-Determine dimensionless parameters to correlate experimental results.
-
-Qu.6 (a) A venturimeter of inlet diameter 150 mm and throat diameter 75 mm is used to (6)
-measure the flow rate of oil having specific gravity of 0.9. The reading shown by
-the U tube manometer connected to the venturimeter is 150 mm of mercury
-column. Calculate the coefficient of discharge for the venturimeter if the flow rate
-is 1.7 m3/min.
-
-(b) An object weighs 20 N when fully submerged in water. The same object weighs (6)
-
-35 N when fully submerged in an oil of specific gravity 0.8. Determine its volume
-and density.
-
-0) 7 (8)
-The velocity distribution in boundary layer is given by . = (2), where u is the
-
-velocity at distance y from plate and u=U at y=d, where 6 being boundary layer
-thickness.
-
-2/3
---- page 3 ---
-Find the following quantities in terms of 6.
-(i) Displacement thickness
-
-(ii) | Momentum thickness
-
-(iii) | Energy thickness
-
-Qu.7 (a) Explain the working principle of pitot static tube. (6)
-If a pitot static tube is used to measure the velocity of air flowing through a duct. The
-manometer shows a difference in head of 5 cm of water. If the density of air and water are
-1.13 kg/m? and 1000 kg/m? determine the velocity of air. Assume the coefficient of the
-pitot tube as 0.98.
-
-(b) What do you understand by boundary layer separation? What methods are used to control (6)
-the boundary layer separation?
-
-(c) Find the rate of flow through horizontal pipe line 60 m long which is connected toa water (8)
-tank at one end and discharged freely into the atmosphere at the other end .For the first 30
-meters of its length from the tank, the pipe is 250 mm in diameter and is suddenly enlarged
-to 350 mm. the height of the water level in the tank is 15 meters above the center of the
-pipe. Considering all the minor losses. Take f= 0.025 for both section of pipes.
-
-a
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper 327fdcb94e50
 
 - Departments: Mechanical
@@ -11400,142 +12085,6 @@ d) Explain the following terms with saltabie sketches for fluid flow condition- 
 and angular deformation.
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper f43a4bba9703
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS B TECH MECHANICAL BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 June 2016
-- Text: ocr (2 pages), mean OCR confidence 91.9
-
-````text
-SVKM’s NMIMS (fins
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & a ie
-. f “PST 4
-Programme: B.Tech (Mechanical) Year: II Semester: III , a L TB RA RY iG
-Academic Year: 2015-16 \ ae “iar A
-Batch: 2013-14 Marks:100
-Subject: Fluid Mechanics Time: 10.00 am - 1.00 pm
-Date: 10 June 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page. 2
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Qu.1 Attempt any five questions
-
-(a) Distinguish between: i) steady and unsteady flow ii) Uniform and non-uniform flow. (4)
-(b) What are various Types of fluids? Explain in brief about Newtonian fluids with example. (4)
-(c) Explain - stream lines, streak lines and Path line, In which case all of them are identical? (4)
-(d) Define i) FROUDE Number ii) WEBER Number iii) Euler Number iv) Mach Number (4)
-
-(e) Explain the terms: Geometric similarity, Kinematic similarity, Dimensional Homogeneity (4)
-and dynamic similarity.
-
-(f) What do you understand by stream function and potential function? Give relation between (4)
-them.
-(g) Explain center of pressure and total pressure with the help of suitable figure. (4)
-
-Qu.2 Attempt the following questions
-(a) What is a venturimeter? Find an expression for actual discharge through venturimeter. (6)
-
-(b) An annular plate of 4 m OD and 2 m ID is kept in water at an angle of 30° with the (8)
-horizontal, the center being at 4 m depth. Determine the hydrostatic force on one side of the
-plane. Also locate the center of pressure.
-
-(c) -A 90 N weight rectangular solid block slides down a 30° inclined plane. The plane is (6)
-lubricated by 3 mm thick film of oil of specific gravity 0.90 and viscosity 8 poise. If the
-contact area is 0.3 m’. Calculate the terminal velocity of the block.
-
-Qu.3 Attempt the following questions
-(a) Derive Darcy weisbach equation for head loss and Show that the friction factor (f) for (10)
-
-laminar flow in circular pipe is given by pele
-Re
-
-(b) The stream function for a two-dimensional flow is given by y = 3xy. Calculate the velocity (5)
-at Point A (3, 4). Also find the velocity potential function ¢.
-
-(c) What is capillarity? Find the expression for rise of the level of liquid in a capillary tube of (5)
-diameter (d), dipped in a liquid of density (p), surface tension (c) and angle of contact (0).
-
-i/o.
---- page 2 ---
-tig
-~
-
-\ Qu.4 Attempt the following questions
-x (a) Oil of specific gravity 0.85 and dynamic viscosity 1.10 poise flows between two fixed (10)
-s" parallel plates 15 mm apart. If the mean velocity is 1.5m/s, calculate-
-
-(i) Maximum velocity
-(ii) Velocity and shear stress at a distance of 2mm from one of the plates and,
-(iii) Loss of head over a distance of 25m along the length of plate.
-
-(b) A solid cylinder of diameter D and height H having a relative density of S floats in water (10)
-(density = 1000 kg /m*) with its axis vertical .Show that the maximum value of H/D for
-which the cylinder will float in stable equilibrium with its axis vertical is given as
-H 1
-=<
-
-D 8SC-S)
-
-Qu.5 Attempt the following questions
-
-(a) Water is drawn from a reservoir through two pipes of 900 mm dia. and 1500 m lengthtoa , (8)
-common junction from where a pipe of 1200 mm diameter and 2400 m length carries it to
-the lower reservoir. If the difference in water levels is 10 m, determine the flow rate.
-(Take f= 0.02, neglect other losses)
-
-(b) What is metacentric height? Obtain an expression for metacentric height. (8)
-
-(c) What do you understand by prandtl mixing length theory? Explain. (4)
-
-Qu.6 Attempt the following questions
-
-(a) What do you understand by boundary layer separation? Discuss the effect of pressure (10)
-gradient on boundary layer separation. What methods are used to control the boundary layer
-
-separation?
-
-(b) The velocity distribution in boundary layer is given by # =sn{ 2x2} , where w is the (10)
-U 2 6
-
-velocity at distance y from plate and w=U at y=0, being boundary layer thickness.
-Find the following quantities in terms of 6.
-(i) Displacement thickness
-(ii) Momentum thickness
-
-Qu.7 Attempt the following questions:
-(a) Obtain an expression for that the loss of head due to sudden expansion and contraction in (6)
-
-a the pipe.
-, (b) Obtain an expression for continuity equation for a three-dimensional using Cartesian co- (6)
-4 ordinate system.
-(c) The drag force on a smooth sphere is found to be affected by the velocity of flow (u), the (8)
-diameter (D) of the sphere, the fluid properties density (p) and viscosity (u). Using
-dimensional analysis obtain the dimensionless groups to correlate the parameters.
-
-2/2.
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper 7f8085c6d577
 
 - Departments: Mechanical
@@ -11689,6 +12238,166 @@ Ala
 Lew
 ````
 
+## 2013-14 · Re-Exam · Trim 4 · paper d33c5fbfa159
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/FLUID MECHANICS BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; exam date: 9/12/2013
+- Text: ocr (2 pages), mean OCR confidence 84.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (Chemical) Year: II Trimester: IV
+Academic Year: 2013-14 Batch:2012-13 au 0t Se
+
+Subject : Fluid Mechanics
+Marks: 100
+
+Date :9/12/2013 Time : 2.00p
+Durations:3 (
+
+Re-Examination
+
+asi antennas i eatsaete 1
+
+instructions: Candidate should read carefully the instruction printed on the question paper and on
+
+h is provided for their
+
+cover of the Answer Book, ¥
+
+1. Question No.1 is compulsory.
+
+Onto
+ae TG
+
+aining question, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. Ali question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in the brackeis on the right hand side indicate fuli marks.
+
+m4 A Lc vee £ + ¢)
+Q.1 Answer any four of the following 20
+a) Define friction factor and write equation to obtain its value from
+Reynolds number for a flow through a smooth pipe under
+Laminar and Turbulant flow.
+‘Ik TW isstuwan. dacs
+O) perine teri
+
+c) Give the Bernauli’s equation and explain each term and
+
+ing velocity and explain its significance.
+
+al se
+
+corresponding Sf ur
+
+d) Differentiate between Compressible and incompressible flow.
+| >
+é) NOtat
+
+43-51 f1A..-,
+LiGhdar 11OWw
+
+al asiurt Tro
+Peas Abd ADDL
+
+Q.2 a) Derive the expression to calculate the pressure drop using 10
+differential manometer put across two points in a pipe.
+WKY) Write a note an tt an mnreecire carr ws
+Q.3 a) With the help of stress — strain diagrams, explain the 10
+characteristics of types of Newtonian and Non- Newtonian
+fluids.
+b) Calculate the pressure drop due to friction in circular pipe with 10
+
+Tir “xy we TE wan Fee Tan, fon
+locity of water 1 m/s. Use the
+
+length and diameter 5 cm, ve
+
+sip at en
+ICL 1A,
+
+4/2.
+--- page 2 ---
+Q4
+
+Q,5
+
+Q.6
+
+a
+0.7
+
+a) State and explain the physical significance of continuity equation
+and Bernoulli’s equation. Also state the limitation of Bernoulli’s
+
+equation.
+b) Derive an expression for Hagen poiseuille law for steady laminar
+
+flow in circular pipe.
+
+a) Explain the types and regimes of gas — liquid two phase flow in
+horizontal and vertical pipes.
+
+b) Explain the phenomena of fluidization giving relation between
+pressure drop and velocity. Give the relations to calculate bed
+
+length and porosity in the fluidized bed.
+
+a) 1) Explain Multistage Centrifugal Pumps.
+
+ii) Explain characteristics curves of centrifugal pumps.
+
+b) A solid spherical particle of density 2.4 kg/cubic meter, while
+settling in an oil of specific gravity 0.9 and viscosity 0.027 Poise,
+attains a terminal settling velocity of 0.003 m/s. What would be
+its terminal settling velocity in air with viscosity of 0.000017 N-
+
+aferaar,
+S/aiplticis
+
+Write short notes on the following (any two):
+a) Draw and explain briefly the different valves used in chemical
+
+plants.
+
+sification of mixing equipments.
+
+for mixing liquias.
+
+Canant tnac of lmpellers
+yETrENt cYPes Or tittpereis
+
+LS
+a/o.
+
+10
+
+10
+
+10
+
+10
+
+10
+
+19
+
+10
+
+1D
+````
+
 ## 2013-14 · Re-Exam · Sem 3 · paper 5bede39462eb
 
 - Departments: Civil
@@ -11821,779 +12530,7 @@ _ -END
 2] 2
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper e52ffee196d0
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 03/12/2014
-- Text: ocr (3 pages), mean OCR confidence 94.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL) Year: II Semester: III
-
-Academic Year: 2014-15 Batch: 2013-14
-
-Subject : Fluid Mechanics
-Marks: 100
-Date : 03/12/2014 Time : 2.00
-Durations:
-Re - Examination
-
-Instructions: Candidate should read carefully on the question paper and on the of the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-(a) Question no.i is compulsory.
-
-(b) Attend any Four from remaining questions.
-
-(c) Assume any suitable data, if necessary.
-
-(d) Answer to each new question should be started on a fresh new page.
-(e) Figures to right indicate marks.
-
-Q.1 | Solve any Four from following questions. (20)
-
-(a) State the Newton’s law of viscosity. Give the example of Newtonian and
-non-Newtonian fluids.
-
-(b) Define and explain Flow net.
-
-(c) State and prove Pascal’s law.
-
-(d) Define and explain Borda’s mouth piece.
-
-(e) If three liters of diesel weighs 25 N, calculate mass density, specific weight,
-specific volume and specific gravity of diesel.
-
-Q.2 | (a) Determine the pressure difference between points A and B, (refer figure 1)
-Assume density of mercury as 13600kg/m* and density of water as 1000kg/m’. (10)
-
-Oil of Sp. Gr. 0.9
-
-Figure 1
-
-1/3
---- page 2 ---
-(b) A tank contains water up to a height of 0.7 m above the base. An immiscible
-liquid of specific gravity 0.95 is filled on the top of water up to 1.5 m height.
-Calculate:
-
-(i) Total pressure on one side of the tank.
-
-(i) The position of center of pressure for one side of the tank, which is 2.5 m wide.
-
-(10)
-
-Q.3
-
-(a)The velocity field in a fluid flow is given by
-
-V = x? ti + 2xytj + 2yztk
-Where x, y and z are given in meter and time t is seconds. Determine the velocity
-vector at point (2,-1,1) at time t=1s. Also determine the magnitude of velocity and
-acceleration of the flow for given location and time.
-
-(b) Derive an expression for effect on computed discharge over a weir or notch due
-to error in measurement of head.
-
-(c) A uniform body of size 3m x 3m and | m deep floats in water. What is the
-weight of the body if depth of immersion is 0.8m? Calculate the density of the body
-material and its metacentric height.
-
-(6)
-
-(6)
-
-(8)
-
-Q.4
-
-(a)A venturimeter is installed in pipeline carrying water and is 30 cm in diameter.
-The throat diameter is 12.5 cm. the pressure in pipeline is 140 kN/m’, and the
-vacuum in a throat is 37.5 cm of mercury. 4% of differential head is lost between the
-gauges. Working from first principles find the flow rate in the pipeline in liter/s,
-assuming the venturimeter is horizontal.
-
-(b) A convergent-divergent nozzle is fitted into the side of a tank containing water.
-Assuming that there are no losses in the convergent part of the nozzle, that the losses
-in the divergent part are equivalent to 0.18 times the velocity head at exit, and that
-the minimum absolute pressure at the throat is 2.5 m of water for a barometric
-pressure of 10.3 mi. of water, determine the throat and exit diameters of nozzle to
-discharge 0.0042 m 3/s for a head of 1.5 m above the center-line of nozzle.
-
-(10)
-
-(10)
-
-Q.5
-
-(a) Water flows over a rectangular weir of width 2 m at a depth of 20 cm. afterwards,
-water passes through a triangular right-angled weir. Find the depth of water through
-the triangular weir. The coefficients of discharge for rectangular and triangular weirs
-are 0.63 and 0.59, respectively.
-
-(b) A rectangular tank 6 m long, 2 m déep and 2.4 m wide contains 1 m of water. If
-the tank moves horizontally in the direction of the length of the tank with a constant
-linear acceleration of 2.45m/s’, calculate (i) the angle of the water surface to the
-horizontal, (ii) the maximum pressure intensity on the bottom, (iii) the minimum
-pressure intensity on the bottom,(iv)the total force due to the water acting on each
-end of the tank.
-
-(10)
-
-(10)
-
-2/3
---- page 3 ---
-Q.6 | (a) A crude oil of viscosity 0.8 poise and relative density 0.8 is flowing through a
-horizontal circular pipe of diameter 150 mm and length 15 m. Calculate the
-difference of pressure at the two ends of the pipe, if 110 kg of the oil is collected in a
-tank in 35 seconds. (10)
-
-(b) A shaft having a diameter of 65 mm rotates centrally in a journal bearing having
-a diameter of 55.15 mm and length 140 mm. the angular space between the shaft and
-bearing is filled with oil having viscosity of 0.95poise. Determine the power
-absorbed in the bearing when the speed of rotation is 65r.p.m. (10)
-
-Q.7 | Write short note on any Four:- | (20)
-a) Kinetic correction factor.
-b) Capillarity.
-c) Condition of equilibrium of a floating body.
-d) Dashpot mechanism
-e) Compressibility
-
-3/3
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 5b32ce268de4
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/Fluid Mechanics Batch 2013-14 Re-exam.pdf`
-- Printed on paper: exam date: 28/11/2015
-- Text: ocr (3 pages), mean OCR confidence 91.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CIVIL) Yearill Semester: ITI
-
-Academic Year: 2015 - 16
-
-Batch:2013-14 eae
-= NS
-Subject : Fluid Mechanics M MOOI PST aE it
-Ti Go ghe-5 QA prypH
-
-c fs 4
-bes bP
-nis HNO
-
-a
-
-al
-
-Date :28/11/2015 Du
-: Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.1 Attempt any FIVE. 20
-
-a) A plate 0.025 mm distant from a fixed plate, moves at 60 cm/s and requires a
-force of 2 N/m? to maintain this speed. Determine the fluid viscosity between
-plates.
-
-b) Define velocity potential and stream functions with their expressions.
-
-c) 1. Define viscosity and give its SI unit.
-
-2. Define vorticity and rotation.
-
-d) State Newton’s law of viscosity and explain it. What do you mean by plastic fluid
-and real fluid?
-
-e) Find discharge through a rectangular orifice 2 m wide and 1.5 m deep fitted to a
-water tank, The water level in the tank is 3 m above the top edge of an orifice.
-Take Cq = 0.62.
-
-f) What is mouthpiece? Classify them.
-
-Q.2 1) State and prove Pascal’s law. 10
-2) Verify whether the following stream functions represent irrotational flow:
-
-_= a) psy -xs
-
-b) y= Ax?y?
-ee ce) w= Ax By? 10
-
-Q.3 1) Derive the expression for a gauge and vacuum pressure in a pipe for a simple U-
-tube manometer. 06
---- page 2 ---
-2) Define steady and uniform flow along with their mathematical expressions. 04
-3) A rectangular plane surface is 2 m wide and 3 m deep. It lies in vertical plane in
-water. Determine the total pressure and position of center of pressure on the plane
-surface when its upper edge is horizontal and i) coincides with water surface ii)
-
-2.5 m below the free surface. 10
-Q.4 1) A single column manometer is connected to a pipe containing a liquid of specific
-gravity 0.9 as shown in figure. Find the pressure in the pipe if the area of the
-reservoir is 100 times the area of the tube of the manometer reading as shown in
-
-fi .
-igure LI} 10
-
-4ocm
-
-2) The velocity vector in an incompressible flow is given by
-V = (6xt + yz" )it Bt + xy) j + (xy — 2xyz - 61z)k
-a. Verify whether the continuity equation is satisfied
-b. Determine the acceleration vector at point A(1,1,1) att = 1.0 10
-Q.5 1) Derive the expression for time of empting a tank through an orifice at its bottom. 10
-2) A Venturimeter is with area ratio 2. It has throat diameter 80mm, is mounted in a
-vertical pipe carrying water, the flow being upwards. The throat section is 225mm
-above the inlet of the Venturimeter. The discharge of the Venturimeter is 45lit/sec
-and the coefficient of discharge is 0.96. Calculate (a) the static pressure difference
-between inlet and throat and (b) the difference in levels of mercury in a vertical U-
-
-tube manometer connected between these points (Draw a neat sketch) 10
-Q.6 1) Derive an expression of total pressure and centre of pressure for horizontal plane
-surface submerged in liquid. 10
-
-2) Oil of relative density 0.92 and dynamic viscosity 1.05 poise flows between two
-fixed parallel plates kept 1.2 cm apart. If the mean velocity is 1.4m/s calculate (a)
-the maximum velocity, (b) the boundary shear stress, (c) velocity and shear stress
-at a distance of 0.2 cm from the plates, and (d) head loss in a distance of 25m. 10
-
-2/%
---- page 3 ---
-Q.7 1) Derive an expression for flow through an external cylindrical mouthpiece and 10
-
-obtain values for its hydraulic coefficients.
-
-2) A closed cylindrical tank of diameter 1.2m and length 6m is completely filled
-with oil of sp.gr. 0.9. If the tank is placed with its axis horizontal and subjected
-to an acceleration of 2.5 m/s? in the horizontal direction, find the forces on the
-two ends of the tank, when (a) the oil is filled at atmospheric pressure, (b) the oil
-is filled under a pressure of 17.658 KN/m?. Show that the difference between
-these forces equals the unbalanced force necessary to accelerate the liquid mass
-
-in the tank. 10
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper ce223bd0ef98
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/FLUID MECHANICS/sFLUID MECHANICS BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 11/06/2015
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVEM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CIVIL) Year: I ’ Semester: HI
-
-Academic Year: 2014-15
-
-Batch:2013-14
-
-; o.%
-Subject :Fluid Mechanics - {iMarks: 100° Ll x iE ‘
-‘ime : 2. 00pm = 3.0 Y
-Date : 11/06/2015 ations:3 ( (ars)
-Re-Examination SS. “my ise
-om,
-
-ernie
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the Answer Book,
-which is provided for their use.
-
-NB:
-
-4. Qu. 1 is compulsory
-
-2. Out of remaining questions attempt Any 4 questions
-S- All questions carry equal marks
-
-4+ Answer to each question to be started on the fresh page
-
-5. Assume suitable additional data, if not given & mention it clearly.
-
-Qu.1: Attempt any Four(Each carrying equal marks) 20
-a) Define and Explain Pascal’s law
-
-b) Give different Types of fluids with examples.
-
-c) Define and explain potential flow, stream flow and flow net
-
-d) Derive an expression for an orifice partially submerged in liquid
-
-e) Derive an expression for liquid container subjected to constant vertical acceleration
-
-f) Derive Hagen Poiseulle’s equation
-
-Qu.2a: If the equation of a velocity profile over a plate is v = 2y?/?; in which v is the velocity in m/s ata 05
-
-distance of y metres above the plate, determine the shear stress at y= 0 and y= 0.075 m.
-Given pw = 8.25 poise.
-
-Qu.2b: For having a blood sample a fine glass capillary of diameter 2mm was held touching a freshly 05
-punctured finger tip. Estimate in ‘ml’ the volume of blood sample so drawn. Take density of blood
-as 1060kg/m3, surface tension as 5x10-2 N/m and its contact angle with glass as zero degree.
-
-Qu.2c: A tank contains water upto a height of 0.5m above the base. An immiscible liquid of sp.gr. 0.8 is 10
-filled on the top of water upto Im height. Caicuiate:
-(i) Total pressure on one side of the tank
-(ii) The position of centre of pressure for one side of the tank, which is ;2m wide.
-
-Qu.3a: — Anopen tank 4.5m long, 2m deep and 3m wide contains oil of relative density 0.9 to a depth of 0.8. 10
-If a tank is accelerated along its length on a horizontal track at a constant value of 3.5m/s’, determine
-(i) the new position of the ail surface, and (ii) pressures at the bottom of the tank at the front and
-rear edges. (Draw a neat diagram) -
-
-Qu.3b: — Explain in detail the lab experiment for determining Reynold’s number (Draw a neat diagram) 05
-
-Qu.3c: A hollow cylinder 1 m long has internal and external diameters of 0.4m and 0.6m respectively. Both 05
-ends of the cylinder are open. If the weight of the cylinder is 700N, analyze whether the cylinder is
-would be stable and float in water with its axis vertical.
-
-Qu.4a: The head of water over an orifice of diameter 100mm is 5m. The water coming out from orifice is 10
-collected in a circular tank of diameter 2m. The rise of water level in a circular tank is 45 cm in 30
-seconds. Also the co-ordinates of a certain point on the jet, measured from vena-contracta are 100cm
-horizontal and 5.2 m vertical. Find the hydraulic co-efficients Cy, Cy and C.
---- page 2 ---
-Qu.4b:
-
-Qu.5a:
-
-Qu.5b:
-
-Qu. 6a:
-
-Qu.6b:
-
-Qu.7a:
-
-Qu.7b:
-
-A convergent-divergent mouth piece having throat diameter of 60mm is discharging water undera 40
-constant head of 3m. Determine the maximum outlet diameter for maximum discharge. Find
-maximum discharge also. Take atmospheric pressure head =10.3m of water and separation pressure
-head=2.5m of water absolute.
-
-The velocity components in a two-dimensional flow are: 10
-8 8 :
-u= 8x*y —sy? andv = —8xy? + se . Show that these velocity components represent a
-
-possible case of an irrotational flow.
-
-Check if @ = x? — y? + y represents the velocity potential for two-dimensional irrotational flow. If 10
-it does, then determine the stream function Y.
-
-Derive Euler’s equation of motion and from that derive Bernoulli’s equation 10
-
-How will you calculate Reynold’s number experimentally in the laboratory. Draw neat sketch. 10
-
-Water is flowing between two large parallel plates which are 2.0mm apart. Determine: (a) maximum 10
-velocity, (b) the pressure drop per unit length and (c) the shear stress at walls of the plate if the
-average velocity is 0.4 m/s. Take viscosity of water as 0.01 poise.
-
-A vertical sluice gate is used to cover an opening in a dam. The opening is 2m wide and 1.2m high. - 10
-On the upstream of the gate, the liquid of specific gravity 1.45, lies upto a height of 1.5m above the
-
-top of the gate, whereas on the downstream side the water is available upto a height touching the
-
-top of the gate. Find the resultant force acting on the gate and position of centre of pressure. Find
-
-also the force acting horizontally at the top of the gate which is capable of opening it. Assume that
-
-the gate is hinged at the bottom.
-
-vs
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper b631d4aaf06b
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/06/2014
-- Text: ocr (3 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (MECH) Year: II Semester: III
-
-Academic Year: 2013-14 Batch :2013-14
-
-Subject : Fluid Mechanics
-
-Marks: 100
-
-Time : 2.00 pm to 5.00 pm
-Durations 3 (hrs)
-Re - Examination
-
-Date : 11/06/2014
-
-NB:
-1. Question no. 1 is compulsory, answer any four from the remaining questions,
-2. All questions carry equal marks.
-
-3. Answer to each new questions to be started on a fresh page.
-4. Figures on the right hand side indicate full marks.
-5. Make suitable assumptions if needed with proper reasoning.
-
-Q.N.1 Answer any five of following-- — me
-
-(a) What is the difference between a Newtonian fluid and Non- Newtonian fluid?
-
-Name at least three Newtonian fluids and three Non-Newtonian fluids.
-
-(b) Define Meta centre and metacentric height
-
-(c) Major & Minor losses in a pipe flow
-
-(d) Explain steady and uniform flow
-
-(e) Express the Bernoulli equation in terms of heads and discuss its significance.
-
-(f) Explain Reynolds Transport Theorem.
-
-(g) Explain Prandtl’s mixing length theory
-Q.N.2 (a) Two co-axial cylinders 10cm and 9.75cm in diameter and 2.5cm high have both their
-ends open and have a viscous liquid filled in between. A torque of 1.2Nm is produced on the
-inner cylinder .When the outer one rotates at 90rpm. Determine the coefficient of viscosity of the
-liquid. 8
-
-€
-es
-mn
-N
-'
-i
-5 —_ *
-+ 9.75 cm —+ Clearence = h
-
-~ 10.00 cm> >
-
-1/3
---- page 2 ---
-(b) Explain the importance of the study of fluid forces acting on submerged bodies.
-Derive an expression for the force on a thin plate of given arbitrary shape immersed in a
-liquid at an angle 0 to the free surface. 12
-
-Q.N.3(a) The lower corner of a water tank has the shape of a quadrant of a circle of radius 1.2m.
-The water surface is 2.4m above the centre of curvature. The water tank is 3m long, Find
-the magnitude, direction and location of the total force exerted by the water surface on this
-
-curved surface. 8
-(b) Explain the stability condition for the following cases with proper illustration- 6
-
-(1) Submerged bodies (2) Floating bodies
-(Ga )Explain velocity potential and stream function. 6
-QyA(a) Explain different approaches of investigating fluid flow motion. Explain your answer
-; @, with suitable example. 8
-
-a (b) Consider the following steady, two dimensional, incompressible velocity field
-SV= (ax+b)i+(- aysc)}. Is this flow field irrotational? If so, generate an expression for the
-velocity potential function. 6
-(c)Define the following terms —
-Stream lines, path lines and streak lines. Explain these terms with respect to steady state
-flow condition. 6
-Q.N.5(a) Air flows through a pipe at a rate of 170L/s. The pipe consists of two sections of
-diameters 18cm and 10cm with a smooth reducing section that connects them. The pressure
-difference between two pipe sections is measured by a water manometer. Neglecting frictional
-effects, determine the differential height of water between the two pipe sections. Take air density
-to be 1.2Kg/m* 10
-
-Air
-170 Ls
-
-(b) Using Buckingham’s 7 —theorem, show that the velocity through a circular orifice is
-
-given by
-V=/29gH Q[ 2 oa! 10
-
-QwN. 6 (a )Oil having a viscosity of 0.08Kg/ms flows through 100mm diameter pipe. The laminar
-Flow velocity distribution u(r) is given by
-u= 1.4[1-(/R)]
-
-ie)
-
-(a
-
-3
---- page 3 ---
-where R= radius of the pipe and r= radial coordinate. (1) Determine the shear stress at the
-
-wall, (2) Calculate the pressure drop for 1m length of pipe. 8
-(b) What is Couette flow ?Find an expression for velocity and pressure fields, and estimate
-the shear force per unit area acting on the bottom plate. 12
-
-Q.N.7 (a) What is boundary layer thickness? How is it estimated? Whether the boundary layer is
-desirable or not desirable. Comment on it. 6
-(b) Find the displacement thickness, the momentum thickness and energy thickness for
-
-2
-the velocity distribution in the boundary layer given by < =2 (2) —2 (=) 8
-(c )Obtain an expression for the head loss due to friction in straight pipes by using Darcy
-Formula. 6
-
-az
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper d33c5fbfa159
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/FLUID MECHANICS BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; exam date: 9/12/2013
-- Text: ocr (2 pages), mean OCR confidence 84.1
-
-````text
-SVKM’s NMIMS :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (Chemical) Year: II Trimester: IV
-Academic Year: 2013-14 Batch:2012-13 au 0t Se
-
-Subject : Fluid Mechanics
-Marks: 100
-
-Date :9/12/2013 Time : 2.00p
-Durations:3 (
-
-Re-Examination
-
-asi antennas i eatsaete 1
-
-instructions: Candidate should read carefully the instruction printed on the question paper and on
-
-h is provided for their
-
-cover of the Answer Book, ¥
-
-1. Question No.1 is compulsory.
-
-Onto
-ae TG
-
-aining question, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. Ali question carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in the brackeis on the right hand side indicate fuli marks.
-
-m4 A Lc vee £ + ¢)
-Q.1 Answer any four of the following 20
-a) Define friction factor and write equation to obtain its value from
-Reynolds number for a flow through a smooth pipe under
-Laminar and Turbulant flow.
-‘Ik TW isstuwan. dacs
-O) perine teri
-
-c) Give the Bernauli’s equation and explain each term and
-
-ing velocity and explain its significance.
-
-al se
-
-corresponding Sf ur
-
-d) Differentiate between Compressible and incompressible flow.
-| >
-é) NOtat
-
-43-51 f1A..-,
-LiGhdar 11OWw
-
-al asiurt Tro
-Peas Abd ADDL
-
-Q.2 a) Derive the expression to calculate the pressure drop using 10
-differential manometer put across two points in a pipe.
-WKY) Write a note an tt an mnreecire carr ws
-D) VYLIle a HULe Uli bo avi vi essure Fact . iV
-Q.3 a) With the help of stress — strain diagrams, explain the 10
-characteristics of types of Newtonian and Non- Newtonian
-fluids.
-b) Calculate the pressure drop due to friction in circular pipe with 10
-
-Tir “xy we TE wan Fee Tan, fon
-locity of water 1 m/s. Use the
-
-length and diameter 5 cm, ve
-
-sip at en
-ICL 1A,
-
-4/2.
---- page 2 ---
-Q4
-
-Q,5
-
-Q.6
-
-a
-0.7
-
-a) State and explain the physical significance of continuity equation
-and Bernoulli’s equation. Also state the limitation of Bernoulli’s
-
-equation.
-b) Derive an expression for Hagen poiseuille law for steady laminar
-
-flow in circular pipe.
-
-a) Explain the types and regimes of gas — liquid two phase flow in
-horizontal and vertical pipes.
-
-b) Explain the phenomena of fluidization giving relation between
-pressure drop and velocity. Give the relations to calculate bed
-
-length and porosity in the fluidized bed.
-
-a) 1) Explain Multistage Centrifugal Pumps.
-
-ii) Explain characteristics curves of centrifugal pumps.
-
-b) A solid spherical particle of density 2.4 kg/cubic meter, while
-settling in an oil of specific gravity 0.9 and viscosity 0.027 Poise,
-attains a terminal settling velocity of 0.003 m/s. What would be
-its terminal settling velocity in air with viscosity of 0.000017 N-
-
-aferaar,
-S/aiplticis
-
-Write short notes on the following (any two):
-a) Draw and explain briefly the different valves used in chemical
-
-plants.
-
-sification of mixing equipments.
-
-for mixing liquias.
-
-Canant tnac of lmpellers
-yETrENt cYPes Or tittpereis
-
-LS
-a/o.
-
-10
-
-10
-
-10
-
-10
-
-10
-
-19
-
-10
-
-1D
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper bd27e247ec1d
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/FLUID MECHANICS IV (CHEMICAL) MBA TECH 2012-13 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/6/2013
-- Text: text (2 pages)
-
-````text
-SvKM's NMIMS
-Mukesh Patel School of Technoloas Management & Enefneeting
-Programme: MBA Tech - CHEMICAL   Year:   I1   Trimester:   I V
-Academic Year :2012-2013
-Batch:   2012-2013
-Subject:   Fluid Mechanics   Marks:   100
-Time:   2.00 p m To 5.00 p m
-Date:   10/6/2013   Duration: 3 hrs.
-Re - Examination
-.   -.-......--.-- -   _ _ .__
-Instructions: Candidates should read carefully the instructions printed on the cover of the Answer Book,
-which is provided for their use.
-NB:
-1. Question No. 1is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions be attempted.
-4.   All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Assume suitable data wherever necessary.
-4.1.Answer any five of the followings:
-(a)Give values of atmospheric pressure at sea level in terms of Pascal, mm of Hg,and m of water.
-State the ideal gas law ghring units of each parameter.
-(b) Define Reynold stress, eddy viscosity, kinematic vimsity and eddy diffusivity. Write expression
-for total stress in terms of strain, and viscosities for turbulent flow.
-(c) Write the characteristics and applications of blowers, fans and compressors.
-(d) Define partide Reynold number. Glve rangesof particle Reynold number for Stoke's law and
-Newton's law regions and relation with drag coefficient.
-(e) Write Bernoulli equation with and without friction and give meaning of each term.
-(f) Explain why priming is required in centrifugal pump.
-Q.2. fa) Using Bernoulli equation derive the expression for velod& through orifice meter.
-(b) Water is flowing through a pipe of 2.4 cm diameter. The manometer reading across the venturi
-meter in the pipe is 3.2 cm Hg. The venturi throat diameter is 1.4cm. R the velocity efficient
-of venturi meter Is 0.96,calculate the mass Row rate in kg/s through the pipe.
-4.3. (a) Derive the HagewPoiseuille equation for pressure drop in laminar flow in a pipe in terms of
-viscosity, velocity, diameter and length of pipe.
-(b) Calculate the pressure drop per meter in a pipe of diameter 5 cm ifwater flow rate is .Olcubic
-meters/s. Use appropriate equation for friction factor calculation from Reynold number
---- page 2 ---
-Q.4. (a) Derive the expression for terminal velocity of a free falling solid particle in a fluid under
-gravitational force.
-(b) Derive the expression for equivalent diameter of channel in a packed bed in terms of partide
-diameter, sphericity, and porosity of the bed. Calculate the Equivalent diameter of channels if
-particle diameter is .17 cm, sphericity is 0.8 and porosity of bed is .45.
-4.5. (a) Write the construction and working of centrifugal pump.
-(b) Calculate the work done in adiabatic compression of air ifthe compression ratio is 6, initial
-value of pressure is 1atmosphere and initial densam/ is 1.2 kg/cubic meter.
-(26. (a) Explain the Isothermal friction Bow process of compressible fluid in a pipe. Write the differential
-equation for mechanical energy balance for this process.
-(b)Define Mach number, Asterisk conditions, Stagnation temperature, and isentropic flow. Derive
-expression for stagnation temperature for agiven fluid velocity and temperature.
-4.7. Write notes on any two:
-(a) Reciprocating piston pump
-(b) Flow number and Power number in Agitatedvessel.
-(c) Fluidized bed.
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper 24d0d67e5a5f
+## 2013-14 · Re-Exam · Trim 4 · paper 24d0d67e5a5f
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -12756,6 +12693,794 @@ x
 05
 ````
 
+## 2013-14 · Re-Exam · Sem 3 · paper b631d4aaf06b
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/06/2014
+- Text: ocr (3 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (MECH) Year: II Semester: III
+
+Academic Year: 2013-14 Batch :2013-14
+
+Subject : Fluid Mechanics
+
+Marks: 100
+
+Time : 2.00 pm to 5.00 pm
+Durations 3 (hrs)
+Re - Examination
+
+Date : 11/06/2014
+
+NB:
+1. Question no. 1 is compulsory, answer any four from the remaining questions,
+2. All questions carry equal marks.
+
+3. Answer to each new questions to be started on a fresh page.
+4. Figures on the right hand side indicate full marks.
+5. Make suitable assumptions if needed with proper reasoning.
+
+Q.N.1 Answer any five of following-- — me
+
+(a) What is the difference between a Newtonian fluid and Non- Newtonian fluid?
+
+Name at least three Newtonian fluids and three Non-Newtonian fluids.
+
+(b) Define Meta centre and metacentric height
+
+(c) Major & Minor losses in a pipe flow
+
+(d) Explain steady and uniform flow
+
+(e) Express the Bernoulli equation in terms of heads and discuss its significance.
+
+(f) Explain Reynolds Transport Theorem.
+
+(g) Explain Prandtl’s mixing length theory
+Q.N.2 (a) Two co-axial cylinders 10cm and 9.75cm in diameter and 2.5cm high have both their
+ends open and have a viscous liquid filled in between. A torque of 1.2Nm is produced on the
+inner cylinder .When the outer one rotates at 90rpm. Determine the coefficient of viscosity of the
+liquid. 8
+
+€
+es
+mn
+N
+'
+i
+5 —_ *
++ 9.75 cm —+ Clearence = h
+
+~ 10.00 cm> >
+
+1/3
+--- page 2 ---
+(b) Explain the importance of the study of fluid forces acting on submerged bodies.
+Derive an expression for the force on a thin plate of given arbitrary shape immersed in a
+liquid at an angle 0 to the free surface. 12
+
+Q.N.3(a) The lower corner of a water tank has the shape of a quadrant of a circle of radius 1.2m.
+The water surface is 2.4m above the centre of curvature. The water tank is 3m long, Find
+the magnitude, direction and location of the total force exerted by the water surface on this
+
+curved surface. 8
+(b) Explain the stability condition for the following cases with proper illustration- 6
+
+(1) Submerged bodies (2) Floating bodies
+(Ga )Explain velocity potential and stream function. 6
+QyA(a) Explain different approaches of investigating fluid flow motion. Explain your answer
+; @, with suitable example. 8
+
+a (b) Consider the following steady, two dimensional, incompressible velocity field
+SV= (ax+b)i+(- aysc)}. Is this flow field irrotational? If so, generate an expression for the
+velocity potential function. 6
+(c)Define the following terms —
+Stream lines, path lines and streak lines. Explain these terms with respect to steady state
+flow condition. 6
+Q.N.5(a) Air flows through a pipe at a rate of 170L/s. The pipe consists of two sections of
+diameters 18cm and 10cm with a smooth reducing section that connects them. The pressure
+difference between two pipe sections is measured by a water manometer. Neglecting frictional
+effects, determine the differential height of water between the two pipe sections. Take air density
+to be 1.2Kg/m* 10
+
+Air
+170 Ls
+
+(b) Using Buckingham’s 7 —theorem, show that the velocity through a circular orifice is
+
+given by
+V=/29gH Q[ 2 oa! 10
+
+QwN. 6 (a )Oil having a viscosity of 0.08Kg/ms flows through 100mm diameter pipe. The laminar
+Flow velocity distribution u(r) is given by
+u= 1.4[1-(/R)]
+
+ie)
+
+(a
+
+3
+--- page 3 ---
+where R= radius of the pipe and r= radial coordinate. (1) Determine the shear stress at the
+
+wall, (2) Calculate the pressure drop for 1m length of pipe. 8
+(b) What is Couette flow ?Find an expression for velocity and pressure fields, and estimate
+the shear force per unit area acting on the bottom plate. 12
+
+Q.N.7 (a) What is boundary layer thickness? How is it estimated? Whether the boundary layer is
+desirable or not desirable. Comment on it. 6
+(b) Find the displacement thickness, the momentum thickness and energy thickness for
+
+2
+the velocity distribution in the boundary layer given by < =2 (2) —2 (=) 8
+(c )Obtain an expression for the head loss due to friction in straight pipes by using Darcy
+Formula. 6
+
+az
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper a9bd814cd448
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/scan0019(9).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+a
+
+SVKM’s NMIMS
+
+S¥kwer Y
+Mukesh Patel School Of Technology Management & Enginee NMP Gn versity \ ¥
+Programme: MBA(Tech) - (Chemical) Year: II Trimester: IV = ‘ a = i
+
+Academic Year : 2012-2013
+
+Subject: FLUID MECHANICS Marks: 100
+Time: — 2.00 pm To 5.00 p
+Date: 26/10/2012 Duration: 3 hrs.
+
+Final - Examination
+
+Instruct ions : Candidates should read carefully the instructions printed on the cover of the Answer
+Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Assume suitable data wherever necessary.
+
+Q.1. Answer any five of the followings:
+
+(a) Calculate the absolute pressure in Pascal at the bottom of an open water tank with cross section
+area 2 square meters and water level 8.5 meters.
+
+(b) Write important characteristics of laminar flow and turbulent flow.
+
+ri (c) Draw nature of graphs and write equations for the stress — strain relations for Newtonian and
+} non - Newtonian fluids.
+
+(d) What is NPSH. Write the expression for NPSH giving meaning of each term.
+
+(e) Write Mechanical energy balance with pump work and frictional losses in fluid flow giving
+meaning of each term.
+
+(f) Define equivalent length of pipe fitting. Define friction factor and friction parameter for the flow
+of fluid in conduit
+
+Q.2. (a) Using Bernoulli equation derive the expression for velocity through venture meter.
+
+H (b) Water is flowing through a pipe of 2.4 cm diameter. The manometer reading across the orifice
+
+. . meter in the pipe is 2.3 cm Hg. The orifice diameter is 1.4 cm. If the velocity coefficient of orifice
+¢ } meter is 0.61, calculate the mass flow rate in kg/s through the pipe.
+
+Q.3. (a) Derive the equation for pressure drop for flow in a pipe in terms of friction parameter and
+kinetic energy term.
+
+(b) Calculate the pressure drop in a pipe of diameter 20 cm and length 150 m if water flow rate is
+0.5 cubic meters/s. Use appropriate equation for friction factor calculation from Reynold
+number.
+
+Yo.
+--- page 2 ---
+ee
+
+Q.4.(a) Define drag coefficient for flow past immersed body. Draw the nature of drag coefficient vs.
+Particle Reynold number graph for a spherical particle. Write the expressions for calculation of
+drag coefficient-in Stoke’s law region and give value in Newton’s law region. Write the ranges of
+Particle Reynold number for these regions.
+
+(b) Write the expression for criterion K used in calculation of terminal velocity of particle in fluid.
+For water as fluid, what values of K are arrived at for Stoke’s law region and for Newton’s law
+region? Explain how drag coefficient values are related to particle Reynold number in various
+regions.
+
+Q.5. (a) Write the construction and working of reciprocating piston pump.
+
+(b) Calculate the work done in isothermal compression of air if the compression ratio is 5, initial
+pressure is 1 atmosphere and temperature is 300 K.
+
+Q.6. (a) Explain the adiabatic frictionless flow process in a nozzle.
+
+(b)Define Mach number, Asterisk conditions, Stagnation temperature, and isentropic flow. Derive
+expression for stagnation temperature for a given fluid velocity and temperature.
+
+Q.7. Write notes on any two:
+(a) Air lift for liquid.
+(b) Power consumption in Agitated vessel.
+
+(c) Universal velocity profile.
+
+in |
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper fef32b805348
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/scan0024(6).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA(Tech) - (Chemical) Year: II Trimester: IV
+Academic Year : 2012-2013
+
+MS Univers
+Mumbaj ~ 56,
+
+LIBRARY
+
+Batch: 2011-2012
+Subject: FLUID MECHANICS Marks: 100
+
+; Time: 2.00 pm To 5.00 pm
+Date: 26/10/2012 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question
+paper and on the cover of the Answer book, which is provided for their use.
+
+NB:
+
+1. Question No 1 is compulsory
+
+2. Out of remaining questions, attempt any four questions
+
+3. In all five questions to be attempted.
+
+4. All question carry equal marks.
+
+5 Answer to each new question to be started on a fresh page.
+6 Figures in brackets indicate full marks.
+
+Q-1 Answer the following:-
+a). Define viscosity of fluid and state Newton’s law of viscosity
+b) State various pressure measuring devices.
+c.) Describe various pressure scales.
+d) Distinguish between Reynold’s number and critical Reynold’s number
+
+(20)
+Q-2
+a.)U-tube manometer is employed to measure differential pressure across two points in
+a water pipe. If manometric fluid is carbon —tetrachloride (specific gravity 1.6) and
+
+manometer reads 20cm ievel difference,. Calculate pressure drop in gmf/cm* across two
+points. (5)
+
+b) Find the type of flow of an oil of specific gravity 0.9 and dynamic viscosity 20 poise,
+} flowing through a pipe of diameter 20cm and giving discharge of 10 lit/sec.
+
+i (5)
+
+“ ¢.)Calculate the critical velocity of water flowing through 25 mm id pipe. Take viscosity
+of water =0.008 poise. (5)
+d) Write short notes on Bourdon pressure gauge. (5)
+
+:
+2.
+--- page 2 ---
+Q-3
+a) A pipeline 600m long and of 15cm diameter i is discharging an oil with velocity of 50
+cm/sec. if the kinematic viscosity of oil is 19 cm?/sec, find the loss of head due to
+friction. (10)
+b)State and explain the physical significance of Continuity equation and Bernoulli’s
+equation. Write Bernoulli’s equation with correction factors in mathematical form. Also
+state the limitations of Bernoulli’s equation.
+
+(10)
+Q-4
+a). Differentiate between the operating principles of head flow meter and variable area
+flow meter. Write notes on Venturi meter.
+
+(10)
+b.JA Venturimeter of throat diameter 6cm has a discharge coefficient of 0.97, and with a
+flow of 0.025 m*/s. the pressure differential is 10 N/m?.make calculations for flow rate
+when an orifice of 6cm is installed in the same pipe. The discharge coefficient for the
+orifice is 0.62 and pressure differential is the same.
+
+(10)
+Q-5
+a.) What do you understand by (I) suction head (II) Discharge head (III) Total head of a
+centrifugal pump. (10)
+b.) Explain with neat diagram working of centrifugal pump and explain its performance
+characteristics. (10)
+Q-6
+
+a) Find the Mach number, when an aero plane is flying at 900 km/hr through still air
+having pressure of 8 N/cm2 and temperature of -15 °c. Take k= 1.4 and R= 287 j/kg
+Ok.Calculate pressure, temperature and density of air at the stagnation point of the plane,
+
+ie at the nose of the plane. (10)
+b) Derive an expression for the velocity of sound for isothermal and adiabatic processes
+(10)
+
+Q-7. Write short notes on:-
+a) Types of agitators
+b) .Fluidization
+
+‘
+2
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper 53eeb626e4d0
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/FLUID MECHANICS/scan0025(4).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+_   SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering.
+Programme: MBA(Tech) - (Civil) Year: II Trimester: IV
+Academic Year : 2012-2013
+
+Subject: FLUID MECHANICS Marks: 100
+Time: 2.00 pm Toff
+Date: 29/10/2012 Duration: 3 hrs. ff >
+
+Final - Examination
+
+Mun: »
+
+\ _. ( Libnwy
+%, De.
+he Answer Boa,
+14 _— a”
+Manageme ;
+
+Instructions: Candidates should read carefully the instructions printed on the question paper ar
+which is provided for their use.
+
+NB:
+
+1. Solve any FIVE questions
+
+2. All questions carry equal marks
+
+3. Answer to each question to be started on the fresh page
+
+4. Assume suitable additional data, if not given & mention it clearly.
+
+Qu. 1 (a): Each gate of a lock is 2m high and 1.2m high lies in vertical plane and is hinged at the bottom. There is a liquid
+on upstream side of the gate which extends 1.5m above the top of the gate and has a specific gravity of 1.45. On the
+downstream side of the gate there is a water upto the top of the gate. Find:
+
+(i) The resultant force acting on the gate
+
+(ii) The position of the centre of pressure, and
+
+(iii) The least force acting horizontally on the top of the gate which is capable of opening it. (15)
+Qu. 1 (b): Define gauge pressure and absolute pressure (5)
+
+Qu. 2 (a): ACylinder of 100 mm diameter and 300 mm length rotates about a vertical axis inside a fixed cylindrical tube
+of 105 mm diameter and 300 mm length. If the space between the tube and the cylinder is filled with liquid of dynamic
+
+viscosity of 0.125 N.s/m’, determine the speed of rotation of the cylinder which will be obtained if an external torque of
+1Nm is applied to it. (10)
+
+Qu. 2(b): The diarneters of a small piston and a large piston of a hydraulic jack are 2.5 cm and 8 cm respectively. A force
+of 75 N is applied on the small piston, Find the load lifted by the large piston when
+
+1. The pistons are at the same level
+2. Small piston is 45 cm above the large piston
+
+The density offaud in the jack is given as 1000 kg/m? ; (10)
+Qu. 3(a): A circular plate of diameter 1m is immersed in water in.such a way that its plane makes an angle of 300 with
+
+the free surface of water. The centre of the plate is 2m below the free surface. Determine the total pressure force on
+
+one side of the plate and the position of the centre of pressure.
+(10)
+
+Yo
+--- page 2 ---
+on
+
+Qu. 3(b): A horizontal venturimeter with inlet and throat diameter 240 mm and 120 mm respectively is used to measure
+the flow of water. The pressure intensity at inlet is 130 kN/m2(gauge), while the vacuum pressure head at throat is
+150mm of mercury. Assuming that 3% of pressure head is lost in between inlet and throat, find the coefficient of
+discharge and rate of flow. (10)
+
+Qu. 4(a): (i) Derive an expression for discharge through partially submerged orifice. (4)
+
+(ii) A reservoir discharges though a rectangular orifice of width 0.5m and height 1m. If the top edge of the
+orifice is 3m below the water level in the reservoir, calculate the discharge through the orifice. The coefficient of
+discharge of the orifice is 0.60. What would be the percentage error if the orifice were to be treated as small
+orifice? (6)
+
+Qu.4 (b): A hemispherical tank of radius 1.5m contains water up to a height of 1.5m. An orifice of diameter 30 cm and
+coefficient of discharge 0.6 is provided at the bottom of the tank. Find the time required to lower the water level
+from 1.5m to 0.5m. ; (10)
+
+Qu. 5({a): Water flows over a trapezoidal notch which is 1.1m wide at the top and 0.6m at the bottom and is 0.5m in
+height. If the height of water above the crest is 0.3m, find the discharge over the weir. The coefficient of
+discharge for the rectangular and triangular portion are 0.62 and 0.59, respectively. (10)
+
+Qu. 5(b): (i) A broad crested weir of length 40m has 400 mm height of water above its crest. Find the maximum
+discharge. Take Cy= 0.6. Neglect velocity of approach.
+
+{ii) If velocity of approach is to be taken into consideration, find the maximum discharge when the channel
+has a cross sectional area of 40m’ on the upstream side. (10)
+
+Qu. 6(a): Two tanks containing water are connected by a horizontal pipe of length 25m and diameter 20 cm. If the
+difference of water surface in the reservoir is 4m, find the rate of flow. Also draw the energy gradient line and
+hydraulic gradient line. Take Darcy’s friction factor f=0.01. (10)
+
+Qu. 6(b): A rectangular channel needs to be designed to carry a flow of 0.6 m3/s under uniform flow conditions. If the
+bed slope of the channel is 1 in 3000, find the most economical dimensions of the channel. Take Chezy’s constant C = 50.
+
+(10)
+Qu. 7: Write short notes on (any 4) (20)
+(i) Bernoulli’s theorem =
+(ii) Pipes in series
+
+(iii) Water hammer pressure
+(iv) Hydraulic jump
+(Vv) -Equivalent pipes
+
+vt
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper b2cba0ca4b14
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/FLUID MECHANICS/scan0020(9).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 93.4
+
+````text
+Programme:
+
+Batch:
+Subject:
+
+Date:
+
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineeri:
+MBA (Tech) -MECH Year: II Trimester: IV
+Academic Year : 2012-2013
+
+NMIMS Lniversi:,
+Mumbai - 56,
+LIBRARY
+
+2011-12
+FLUID MECHANICS Marks: 100
+
+Time: 2.00 pm To 5.00 pm
+27/10/2012 Duration: 3 hrs.
+
+Re - Examination
+
+1. Inall five questions to be attempted.
+
+2. All questions carry equal marks.
+
+3. Answer to each new questions to be started on a fresh page.
+4. Figures on the right hand side indicate full marks
+
+Q.1 a) State hydrostatic law. Derive an expression for total pressure and centre of pressure for
+an incline surface submerged in a fluid. 10
+
+b) A circular plate of 3.5 m diameter is immersed in water in such way that it’s greatest and
+least depth below the free surface are 4 m and 2.5 m respectively. Find the total pressure on
+the face of the plate and position of the centre pressure. 10
+
+Q.2 a) Define stream function and velocity potential function. 04
+
+b) Lateral stability of long shaft 150 mm diameter is obtained by means of 250 mm stationary
+bearing having an internal diameter of 150.25 mm. If the space between the bearing and shaft
+is filled with lubricant having viscosity 0.245 N-s /m? what power will be required to
+overcome the viscous resistance when the shaft is rotated at 180 rpm. 08
+
+c) A solid cylinder of diameter 1 m has height of 1 m. Find the metacentric height of the
+cylinder when it is floating in water with its axis vertical. The specific gravity of the cylinder
+
+is 0.7, State whether the equilibrium is stable or unstable. 08
+Q.3 a) Derive Euler’s equations of motion and from that derive Bernoulli’s equation. 10
+b) The velocity vector in an incompressible flow is given by 10
+
+V = (6xt+ yz")i + (3t+xy?)j + (xy - 2xyz- 6tz)k ,
+
+a) Verify whether the continuity equation is satisfied
+b) Determine the acceleration vector at point A (1,1,1) and t= 1
+
+Q.4 a), Define surface tension and Buoyancy 04
+b) Prove continuity equation using basic principle. 08
+
+c) A 400 mm diameter pipe carries water under a head of 30 m with a velocity of 4.5 m/s.The
+axis of the pipe turns through 45° and the pipe is laid horizontally. Find the magnitude and
+direction of the resultant force on the bend, 08
+
+Q.5 a) Define: i) Boundary layer thickness ii) Momentum Thickness iii) Kinetic energy
+correction factor iv) Momentum correction factor. 08
+
+Yo
+--- page 2 ---
+b) Find the expression for boundary layer thickness, shear stress, average coefficient of drag
+in terms of Reynolds No. for the given velocity profile for laminar boundary layer given as
+
+2
+Mowat 5(2) = (2) LD
+u- 2X6 2\6
+Q.6 a) Derive Hagen poiseuille equation for laminar flow through a circular pipe 10
+
+b) An old water supply distribution pipe of 350 mm diameter of a city is to be replaced by
+two parallel pipes of smaller equal diameter having equal length and identical friction factor
+values.Fnd out the new diameter required. 10
+
+Q.7 a) Derive Darcy Weisbach equation for loss of head due to friction. 10
+
+An oil of specific gravity 0.8 is flowing through a pipe diameter 120 mm. The viscosity of oil
+is 15 poise and velocity at the centre is 3 m/s. Find 10
+
+1) Pressure gradient in the direction of flow
+2) Shear stress at the pipe wall
+3) Reynolds No. and Velocity at a distance of 30 mm from the wall.
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper 3d3d5acc3a1f
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/FLUID MECHANICS/scan0033(2).pdf`
+- Printed on paper: duration hours: 3; exam date: 27/10/2012
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engin
+Programme: MBA (Tech) -MECH Year: © I: Trimester: .IV
+Academic Year : 2012-2013
+
+Subject: FLUID MECHANICS Marks: - 100
+Time: 2.00 p.m To 5.00 p.m
+Date: 27/10/2012 Duration: 3 hrs.
+
+Final - Examination
+
+Instuctions: Canditates should read carefully the instructions printed on the question
+paper and on the cover of the Answer book,which is provided for their use.
+
+NB:
+
+1.Questin no 1 is compulsory.
+
+2.Out of remaining questions,attempt any four questions. . i
+3.In all Five questions to be attempted.
+
+4.All questions carry equal marks.
+
+5. Answer to each new question to be started on fresh page.
+
+6.Figures in brackets on the right hand side indicate full marks.
+
+1.Attempt any Four.
+(20)
+
+(a)Types of fluids.
+
+j (b)Difference between Newtonian and Non Newtonion fluids.
+
+(c) Hydrostatic Law.
+(d) Types of fluid flow.
+
+(e) Total Pressure and centre of pressure.
+
+ata) Derive an expression for Darcy- Weisbach Equation . (10)
+Vd) The dynamic viscosity of an oil, used for lubrication oetween a shaft and sleeve is 6 poise.
+The shaft is of diameter 0.4m and rotates at 190 rp.m. Calculate the power lost in the bearing for
+a sleeve length of 90mm. The thickness of the oil film is 1.5mm. (10)
+
+3.(a) Derive Continuity equation in cartician co ordinate system. (10)
+
+l h.
+--- page 2 ---
+(b) A cubical tank has sides 1.5m .It contains water for the lower 0.6m depth.The upper
+remaining part is filled with oil of specific gravity 0.9. Calculate total pressure and centre
+of pressure for one vertical side of the tank. (10)
+
+4.(a) Derive an expression for Berrnaulli’s Equation from Euler’s Equation of motion.(10)
+
+(b) Explain surface tension and capillarity. — (10)
+5.(a) Eplain with neat sketch “Formation of boundary layer”. (10)
+(b) Derive an expression for metacentric height. (10)
+
+6.(a)A solid cylinder of diameter 4m has a height of 4m find the metacentric height of the
+cylinder if the specific gravity of cylinder is 0.6 and is floating in water with its axis
+vertical.State whether the equilibrium is stable or unstable (10)
+
+(b) Derive an expression for total pressure and centre of pressure for inclined plane
+
+~ surface . (10)
+7.(a) State and prove Pascal’s law. (10)
+(b) Derive an expression for Navier-Stoke equation. (10)
+````
+
+## 2012-13 · Re-Exam · Trim 4 · paper 863671b6df40
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/FLUID MECHANICS IV (CHEMICAL) MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 10/6/2013
+- Text: text (2 pages)
+
+````text
+Mulresh Patel Schoolof Techaolom Manasement 8s Ensrlaeeting
+P r o g r m e : MBA Tech -CHEMICAL   Year:   I1   Trimester: IV
+Academic Year :2012-2013
+Batch:   201 1-2012
+Subject:   Fluid Mechanics   Marks:   100
+Time:   2.00 p m To 5.00 pm
+Date:   10/6/2013   Duration: 3hts.
+Re - M i n a t i o n
+Instructions: Candidates should read -fully   the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+1. Quest ion No.1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. In all 5questions to be atkmpkd.
+4. All questions crwy equalmarks.
+5. Answer to ewh new   to be started on a h s h page.
+Q.lAttempt any fiveof the following:
+(a) Write (i) StaticPressure&) -Height(z) relationshipin a fluid, (i) Density@)-
+pressure@) relationship for an ideal gas.
+(b) Write Stress -Strain relationship for (i) Newtonian fluids and (ii) Bingham
+plastic fluids.
+(c) WriteBernoulli equation with friction for incompressiMe fluids givingmeaning
+of each term.
+(d) Write the names of any four types of pipe fittings and draw their sketches.
+(e) Writethe expression for calculation of pressure drop in straight pipe for laminar
+flow of Newtonian fluids.
+(0Draw the sketches of Head-Capacity curve and Efficiency -Capacity curvw for
+a centrifugal pump.   4
+Q2 (a) DeriveB&quati~wie~~ltwv.-- -- -- - - -
+(b) Calculate the gauge and absolute pressures in the water reservoir at a point 120m
+below the surfme. Assume water density as 1000 kg/m3 and g =9.81 m/s2.
+4.3 (a) Derive the expression for velocity in terms of pressure drop across the d c e
+meter in apipe lime for flow of non compressible fluids.
+(6) The mercury manometer across the orifice meter in a water pipe line shows the
+reading 5.2 cm.If pipe diameter is 1 cm, find the water flow ratem3/sin a pipe
+lie. Take velocity coefficient of orifice meter as 0.61 and water density as lo00
+kp/m3.
+--- page 2 ---
+4.4 (a) Write the expression for velocity profile for non wmpmssible fluid in
+laminar flow in circular pipe. Prove that the average velocity is 0.5 times the
+maximum velocity.
+(b) Forthe liquid with density 800 kg/m3 and viscosity 1 cp flowing in straight pipe,
+estimate the value of fiction factor(0in the following two cases:
+(i) Pipe diameter 1 cm and velocity 0.1 mls.
+(ii) Pipe diameter 5 cm and velocity lmls.
+Q.5 (a) Explain the meaning of Stagnation temperature of a h i speed gas in a pipe lie.
+Prove that the Stagnation temperature for a given gas depends on its temperame
+and its velocitv.
+(b) (i)The bed &ked with spherical particles of 3-   diameter has porosity of 0.4.
+Calculate the equivalent diameter of channels in the bed.
+(ii)For Motion of prticle throughfluid, draw the sketch of a graph of CDvs.
+Nw. and give the values of CD in Stokes' law region and m Newton's law
+region.
+4.6 (a) With the help of labeled diagram, Explain the construction and working of
+Reciprocating piston pump. Write its applications.
+@) Calculate the work done in adiabatic compression of air if inlet 3p~e~~u~eiSlatm
+and outlet pressure is 4 atm.Take&density at inlet as 1kglm .
+4.7 Write notes on any two:
+(a) NPSHR and NPSHA
+(b) Types and Regimes of Two phase flow
+(c) Flow Number and Power Number m Agitated Mixer
+````
+
+## 2012-13 · Re-Exam · Trim 4 · paper bd27e247ec1d
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/FLUID MECHANICS IV (CHEMICAL) MBA TECH 2012-13 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/6/2013
+- Text: text (2 pages)
+
+````text
+SvKM's NMIMS
+Mukesh Patel School of Technoloas Management & Enefneeting
+Programme: MBA Tech - CHEMICAL   Year:   I1   Trimester:   I V
+Academic Year :2012-2013
+Batch:   2012-2013
+Subject:   Fluid Mechanics   Marks:   100
+Time:   2.00 p m To 5.00 p m
+Date:   10/6/2013   Duration: 3 hrs.
+Re - Examination
+.   -.-......--.-- -   _ _ .__
+Instructions: Candidates should read carefully the instructions printed on the cover of the Answer Book,
+which is provided for their use.
+NB:
+1. Question No. 1is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions be attempted.
+4.   All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Assume suitable data wherever necessary.
+4.1.Answer any five of the followings:
+(a)Give values of atmospheric pressure at sea level in terms of Pascal, mm of Hg,and m of water.
+State the ideal gas law ghring units of each parameter.
+(b) Define Reynold stress, eddy viscosity, kinematic vimsity and eddy diffusivity. Write expression
+for total stress in terms of strain, and viscosities for turbulent flow.
+(c) Write the characteristics and applications of blowers, fans and compressors.
+(d) Define partide Reynold number. Glve rangesof particle Reynold number for Stoke's law and
+Newton's law regions and relation with drag coefficient.
+(e) Write Bernoulli equation with and without friction and give meaning of each term.
+(f) Explain why priming is required in centrifugal pump.
+Q.2. fa) Using Bernoulli equation derive the expression for velod& through orifice meter.
+(b) Water is flowing through a pipe of 2.4 cm diameter. The manometer reading across the venturi
+meter in the pipe is 3.2 cm Hg. The venturi throat diameter is 1.4cm. R the velocity efficient
+of venturi meter Is 0.96,calculate the mass Row rate in kg/s through the pipe.
+4.3. (a) Derive the HagewPoiseuille equation for pressure drop in laminar flow in a pipe in terms of
+viscosity, velocity, diameter and length of pipe.
+(b) Calculate the pressure drop per meter in a pipe of diameter 5 cm ifwater flow rate is .Olcubic
+meters/s. Use appropriate equation for friction factor calculation from Reynold number
+--- page 2 ---
+Q.4. (a) Derive the expression for terminal velocity of a free falling solid particle in a fluid under
+gravitational force.
+(b) Derive the expression for equivalent diameter of channel in a packed bed in terms of partide
+diameter, sphericity, and porosity of the bed. Calculate the Equivalent diameter of channels if
+particle diameter is .17 cm, sphericity is 0.8 and porosity of bed is .45.
+4.5. (a) Write the construction and working of centrifugal pump.
+(b) Calculate the work done in adiabatic compression of air ifthe compression ratio is 6, initial
+value of pressure is 1atmosphere and initial densam/ is 1.2 kg/cubic meter.
+(26. (a) Explain the Isothermal friction Bow process of compressible fluid in a pipe. Write the differential
+equation for mechanical energy balance for this process.
+(b)Define Mach number, Asterisk conditions, Stagnation temperature, and isentropic flow. Derive
+expression for stagnation temperature for agiven fluid velocity and temperature.
+4.7. Write notes on any two:
+(a) Reciprocating piston pump
+(b) Flow number and Power number in Agitatedvessel.
+(c) Fluidized bed.
+````
+
 ## 2012-13 · Re-Exam · Trim 4 · paper f180faab3fc3
 
 - Departments: Civil
@@ -12834,6 +13559,82 @@ b) A horizontal venturimeter with inlet & throat diameters 30 cm & 15 cm   10
 respectively is used to measure the flow of water. The reading of differential
 manometer connected to the inlet & throat is 20 cm of mercury. Determine rate of
 flow. Take Cd = 0.98
+````
+
+## 2012-13 · Re-Exam · Trim 4 · paper bffa066ac6bb
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/FLUID MECHANICS/FLUID MECHANICS IV (MECHANICAL) MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 13/6/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of ~echnoiovv Mana~ement(k Engineering
+Programme: MBA Tech - MECHANICAL   Yea:   I1   Trimester: IV
+Academic Year :2012-2013
+Batch:   2011-12
+Subject:   Fluid Mechanics   Marks:   100
+Time:   2.00 p m To 5.00 pm
+Date:   13/6/2013   Duration: 3 brs.
+Re - Rmnrination
+NB:
+1. Question No. 1 is compulsory
+2. Out of remaining questions attempt any four questions.
+3. In allfive questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new questions to be started on a .fresh page.
+6. Figures on the right hand side indicate full matks.
+Define the following properties and state their units   06
+i) Specific weight ii) Kinematic viscosity iii) Vapour pressure
+Establish a relation between absolute, gauge and atmospheric pressure with a 04
+simple sketch.
+Lateral stability of a long shaft 150 mm &a. is obtained by means of 250 mm 10
+stationary bearing having an internal diameter of 150.25 mm. if the shaft is
+filled with lubricant having the viscosity 0.245 N-sh?, what power will be
+required to overcome the viscous resistance, when the shaft is rotated at 180
+rpm.
+With neat sketch explain the condition of equilibrium of floating and 10
+submerged bodies.
+The velocity field in a fluid flow is given by   d   10
+~=(6+2x+t~)i-(x~+10t)j+20k
+Evaluate the acceleration of a fluid particle at (1,0,2) at t = 1 s.
+Distinguish between   10
+i)   Steady and un-steady flow
+ii)   Uniform and non uniform flow
+iii)   Laminar and turbulent flow
+iv)   Rotational and Irrotational flow
+An oil of viscosity 0.97 poise   relative density 0.9 is flowing through a 10
+horizontal pipe of 10 cm and of length 10 m .If 100 kg of oil is collected in a
+tank in 30 seconds. Calculate the difference of pressure at the two ends of
+pipe
+State and prove Bernoulli's equation of fluid flow. Mention assumption 10
+--- page 2 ---
+made in derivation.
+b   ' A circular opening, 3 m diameter in a vertical side of a tank is closed by a 10
+disc of 3 m diameter which can rotate about horizontal diameter. Find
+i)   The force on the disc
+ii)   The torque required to maintain the disc in equilibrium in vertical
+position when the head of water above the horizontal diameter is 4 m.
+Q.5   a   Derive Darcy - Weisbach equation for the loss of head due friction in the 10
+pipe.
+b A 20 310 cm Venturimeter is provided in a vertical pipe line carrying oil of 10
+specific gravity 0.8, the flow being upwards. The difference in elevation of
+the throat and entrance section of the Venturimeter is 50 cm. The differential
+U-tube mercury manometer shows a deflection of 30 cm of merc T.
+Calculate i) The discharge of oil ii5 The pressure difference (in N/cm )
+between entrance section and throat section. Assume Cd = 0.98 and specific
+gravity of mercury as 13.6
+Q.6   a   Derive Hagen-poiseulle's equation for viscous flow through circular pipe.   10
+b An old water supply distribution pipe of 250 mm diameter of a city is to be 10
+replaced by two parallel pipes of smaller equal diameter having equd lengths
+and identical friction factor values. Find out the new diameter required
+Explain the following tenns   20
+i)   Surface tension and Capillarity
+ii)   Total pressure and Centre of pressure
+iii)   Metacentre and Metacentric height
+iv)   Boundary layer thickness and Momentum thickness
 ````
 
 ## 2012-13 · Re-Exam · Trim 4 · paper 4ef4549e5267
@@ -13109,78 +13910,6 @@ Q.7 Write notes on any two:
 a]
 ````
 
-## 2011-12 · Re-Exam · Trim 4 · paper 863671b6df40
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/FLUID MECHANICS IV (CHEMICAL) MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 10/6/2013
-- Text: text (2 pages)
-
-````text
-Mulresh Patel Schoolof Techaolom Manasement 8s Ensrlaeeting
-P r o g r m e : MBA Tech -CHEMICAL   Year:   I1   Trimester: IV
-Academic Year :2012-2013
-Batch:   201 1-2012
-Subject:   Fluid Mechanics   Marks:   100
-Time:   2.00 p m To 5.00 pm
-Date:   10/6/2013   Duration: 3hts.
-Re - M i n a t i o n
-Instructions: Candidates should read -fully   the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-1. Quest ion No.1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
-3. In all 5questions to be atkmpkd.
-4. All questions crwy equalmarks.
-5. Answer to ewh new   to be started on a h s h page.
-Q.lAttempt any fiveof the following:
-(a) Write (i) StaticPressure&) -Height(z) relationshipin a fluid, (i) Density@)-
-pressure@) relationship for an ideal gas.
-(b) Write Stress -Strain relationship for (i) Newtonian fluids and (ii) Bingham
-plastic fluids.
-(c) WriteBernoulli equation with friction for incompressiMe fluids givingmeaning
-of each term.
-(d) Write the names of any four types of pipe fittings and draw their sketches.
-(e) Writethe expression for calculation of pressure drop in straight pipe for laminar
-flow of Newtonian fluids.
-(0Draw the sketches of Head-Capacity curve and Efficiency -Capacity curvw for
-a centrifugal pump.   4
-Q2 (a) DeriveB&quati~wie~~ltwv.-- -- -- - - -
-(b) Calculate the gauge and absolute pressures in the water reservoir at a point 120m
-below the surfme. Assume water density as 1000 kg/m3 and g =9.81 m/s2.
-4.3 (a) Derive the expression for velocity in terms of pressure drop across the d c e
-meter in apipe lime for flow of non compressible fluids.
-(6) The mercury manometer across the orifice meter in a water pipe line shows the
-reading 5.2 cm.If pipe diameter is 1 cm, find the water flow ratem3/sin a pipe
-lie. Take velocity coefficient of orifice meter as 0.61 and water density as lo00
-kp/m3.
---- page 2 ---
-4.4 (a) Write the expression for velocity profile for non wmpmssible fluid in
-laminar flow in circular pipe. Prove that the average velocity is 0.5 times the
-maximum velocity.
-(b) Forthe liquid with density 800 kg/m3 and viscosity 1 cp flowing in straight pipe,
-estimate the value of fiction factor(0in the following two cases:
-(i) Pipe diameter 1 cm and velocity 0.1 mls.
-(ii) Pipe diameter 5 cm and velocity lmls.
-Q.5 (a) Explain the meaning of Stagnation temperature of a h i speed gas in a pipe lie.
-Prove that the Stagnation temperature for a given gas depends on its temperame
-and its velocitv.
-(b) (i)The bed &ked with spherical particles of 3-   diameter has porosity of 0.4.
-Calculate the equivalent diameter of channels in the bed.
-(ii)For Motion of prticle throughfluid, draw the sketch of a graph of CDvs.
-Nw. and give the values of CD in Stokes' law region and m Newton's law
-region.
-4.6 (a) With the help of labeled diagram, Explain the construction and working of
-Reciprocating piston pump. Write its applications.
-@) Calculate the work done in adiabatic compression of air if inlet 3p~e~~u~eiSlatm
-and outlet pressure is 4 atm.Take&density at inlet as 1kglm .
-4.7 Write notes on any two:
-(a) NPSHR and NPSHA
-(b) Types and Regimes of Two phase flow
-(c) Flow Number and Power Number m Agitated Mixer
-````
-
 ## 2011-12 · Re-Exam · Trim 4 · paper ad5c72996657
 
 - Departments: Civil
@@ -13188,6 +13917,7 @@ and outlet pressure is 4 atm.Take&density at inlet as 1kglm .
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/FLUID MECHANICS/FLUID MECHNICS BATCH 2011-12 RE EXAM0001.pdf`
 - Printed on paper: exam date: 13/06/2012
 - Text: ocr (2 pages), mean OCR confidence 91.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -13287,7 +14017,6 @@ meters, find the depth of flow. Assume Chezy’s ‘C’ = 58, and longitudinal 
 5000. Determine necessary bed slope for the depth of flow of 1.25 meters using Manning’s
 constant. Also derive relationship between Chezy’s factor ‘C’ & Manning’s constant ‘N’. (12)
 
-FEI OCC CICS ai a ack i ik
 
 fo
 
@@ -13461,80 +14190,140 @@ i! | 2p.
 10
 ````
 
-## 2011-12 · Re-Exam · Trim 4 · paper bffa066ac6bb
+## 2010-11 · Exam not stated · Trim 4 · paper 7e037e5d2641
 
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/FLUID MECHANICS/FLUID MECHANICS IV (MECHANICAL) MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 13/6/2013
-- Text: text (2 pages)
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/FLUID MACHANICS BACTH 2009-2010.pdf` (+1 identical copies)
+- Printed on paper: exam date: 13/06/2011
+- Text: ocr (2 pages), mean OCR confidence 93.6
 
 ````text
-SVKM's NMIMS
-Mukesh Pate1 School of ~echnoiovv Mana~ement(k Engineering
-Programme: MBA Tech - MECHANICAL   Yea:   I1   Trimester: IV
-Academic Year :2012-2013
-Batch:   2011-12
-Subject:   Fluid Mechanics   Marks:   100
-Time:   2.00 p m To 5.00 pm
-Date:   13/6/2013   Duration: 3 brs.
-Re - Rmnrination
-NB:
-1. Question No. 1 is compulsory
-2. Out of remaining questions attempt any four questions.
-3. In allfive questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new questions to be started on a .fresh page.
-6. Figures on the right hand side indicate full matks.
-Define the following properties and state their units   06
-i) Specific weight ii) Kinematic viscosity iii) Vapour pressure
-Establish a relation between absolute, gauge and atmospheric pressure with a 04
-simple sketch.
-Lateral stability of a long shaft 150 mm &a. is obtained by means of 250 mm 10
-stationary bearing having an internal diameter of 150.25 mm. if the shaft is
-filled with lubricant having the viscosity 0.245 N-sh?, what power will be
-required to overcome the viscous resistance, when the shaft is rotated at 180
-rpm.
-With neat sketch explain the condition of equilibrium of floating and 10
-submerged bodies.
-The velocity field in a fluid flow is given by   d   10
-~=(6+2x+t~)i-(x~+10t)j+20k
-Evaluate the acceleration of a fluid particle at (1,0,2) at t = 1 s.
-Distinguish between   10
-i)   Steady and un-steady flow
-ii)   Uniform and non uniform flow
-iii)   Laminar and turbulent flow
-iv)   Rotational and Irrotational flow
-An oil of viscosity 0.97 poise   relative density 0.9 is flowing through a 10
-horizontal pipe of 10 cm and of length 10 m .If 100 kg of oil is collected in a
-tank in 30 seconds. Calculate the difference of pressure at the two ends of
-pipe
-State and prove Bernoulli's equation of fluid flow. Mention assumption 10
+—_— >
+
+SVKM’s NMIMS A
+Mukesh Patel School of Technology Management & Bhgineering
+
+Programme: MBA Tech (Chemical) Year: Il Trimester: IV
+Academic Year : 2010-2011 S (
+Batch: 2009-2010 x (
+Subject: Fluid Mechanics Marks: \%, 100°
+Time: %2.00 pm To, 5 (oy) m
+Date: 13/06/2011 Duration: Sirs,
+
+Re - Examination
+
+Instructions : Candidates should read carefully the instructions given below and on
+the cover of the answer book, which is provided for their use.
+
+N.B.: 1. Question No. 1 is compulsory
+2. Out of remaining questions, attempt any four questions.
+3. In all five questions to be attempted
+4. Figures in brackets indicate full marks
+5. Assume suitable data wherever required
+6. Answer to each new question to be started on a fresh page.
+
+Q.1. Answer any four of the following 20
+a) Define hydraulic radius and equivalent diameter for a circular,
+rectangular and annular cross sections.
+b) Define Drag Coefficient and write equations to obtain its valves from
+particle Reynold number for stoke’s law region and for Newton’s law
+region. Give nature of log-log curve for entire range.
+
+c) Write the equations for universal velocity profiles and define the terms
+involved. Show on the Semi-log plot these profiles.
+
+d) Write Bernoulli equation for flow of liquid with friction giving meaning
+of each term.
+
+e) For compressible fluid, write the differential form of continuity equation,
+total energy balance equation and Mechanical energy balance equation
+with friction. Define stagnation temperature.
+Q.2) a) With the help of diagrams, explain the construction and working of 10
+mechanical type pressure gages.
+
+b) With the help of diagram, explain the construction and working of 10
+Mercury filled and Mechanical Barometers. .
+
+Q.3) a) Define friction factor and derive Hagen-Poisuellie equation. 10
+
+b) A water tank located at a height of 30 m from the ground level. The total 10
+length of straight pipes is 45 m and the equivalent length of all fittings
+and fully open valves in the line is 5m. Diameter of pipe is5 cm. Take
+the value of f as 0.005 and calculate the maximum flow rate and Reynold
+number possible.
+P.T.O.
+
+Yo
 --- page 2 ---
-made in derivation.
-b   ' A circular opening, 3 m diameter in a vertical side of a tank is closed by a 10
-disc of 3 m diameter which can rotate about horizontal diameter. Find
-i)   The force on the disc
-ii)   The torque required to maintain the disc in equilibrium in vertical
-position when the head of water above the horizontal diameter is 4 m.
-Q.5   a   Derive Darcy - Weisbach equation for the loss of head due friction in the 10
-pipe.
-b A 20 310 cm Venturimeter is provided in a vertical pipe line carrying oil of 10
-specific gravity 0.8, the flow being upwards. The difference in elevation of
-the throat and entrance section of the Venturimeter is 50 cm. The differential
-U-tube mercury manometer shows a deflection of 30 cm of merc T.
-Calculate i) The discharge of oil ii5 The pressure difference (in N/cm )
-between entrance section and throat section. Assume Cd = 0.98 and specific
-gravity of mercury as 13.6
-Q.6   a   Derive Hagen-poiseulle's equation for viscous flow through circular pipe.   10
-b An old water supply distribution pipe of 250 mm diameter of a city is to be 10
-replaced by two parallel pipes of smaller equal diameter having equd lengths
-and identical friction factor values. Find out the new diameter required
-Explain the following tenns   20
-i)   Surface tension and Capillarity
-ii)   Total pressure and Centre of pressure
-iii)   Metacentre and Metacentric height
-iv)   Boundary layer thickness and Momentum thickness
+Q.4
+
+Q5)
+
+Q.6)
+
+Q7)
+
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+b)
+c)
+
+Using the Bernoulli equation, derive the equation for pressure drop across
+1. Venturimeter and 2. Orificemeter .
+
+Calculate the flow rate of water in a pipe line if pressure drop across
+Orifice meter is 500Pa and C, = 0.6. Diameter of pipe is 5 cm and
+Orifice diameter is 2 cm. If flow rate is increased to four times, what will
+be the value of pressure drop across Orifice meter?
+
+List various types of rotary type flow measuring instruments and describe
+the construction and working of any two.
+
+List various type of pumps and write applications of a centrifugal pump.
+When multistage centrifugal pumps are used?
+
+Describe the phenomena of fluidization with the help of plot for pressure
+drop and bed height vs. velocity. Discuss the types of fluidizations
+classified from appearance of the bed when fluidized with liquid and with
+gas.
+
+Write Force balance for a motion of particle in a fluid and derive the
+equation for terminal velocity under gravitational force and under
+centrifugal force.
+
+Write notes on any two of the following
+NPSH and Priming
+
+Static Mixers
+
+Process of Compressible flow
+
+XXXXXXXXXXXXK
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+20
 ````
 
 ## 2010-11 · Exam not stated · Trim 4 · paper ef3a1bb3800e
@@ -13765,142 +14554,6 @@ b Baker’s diagrame (two phase flow)
 (20)
 
 ~~
-````
-
-## 2009-10 · Exam not stated · Trim 4 · paper 7e037e5d2641
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/FLUID MACHANICS BACTH 2009-2010.pdf` (+1 identical copies)
-- Printed on paper: exam date: 13/06/2011
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-—_— >
-
-SVKM’s NMIMS A
-Mukesh Patel School of Technology Management & Bhgineering
-
-Programme: MBA Tech (Chemical) Year: Il Trimester: IV
-Academic Year : 2010-2011 S (
-Batch: 2009-2010 x (
-Subject: Fluid Mechanics Marks: \%, 100°
-Time: %2.00 pm To, 5 (oy) m
-Date: 13/06/2011 Duration: Sirs,
-
-Re - Examination
-
-Instructions : Candidates should read carefully the instructions given below and on
-the cover of the answer book, which is provided for their use.
-
-N.B.: 1. Question No. 1 is compulsory
-2. Out of remaining questions, attempt any four questions.
-3. In all five questions to be attempted
-4. Figures in brackets indicate full marks
-5. Assume suitable data wherever required
-6. Answer to each new question to be started on a fresh page.
-
-Q.1. Answer any four of the following 20
-a) Define hydraulic radius and equivalent diameter for a circular,
-rectangular and annular cross sections.
-b) Define Drag Coefficient and write equations to obtain its valves from
-particle Reynold number for stoke’s law region and for Newton’s law
-region. Give nature of log-log curve for entire range.
-
-c) Write the equations for universal velocity profiles and define the terms
-involved. Show on the Semi-log plot these profiles.
-
-d) Write Bernoulli equation for flow of liquid with friction giving meaning
-of each term.
-
-e) For compressible fluid, write the differential form of continuity equation,
-total energy balance equation and Mechanical energy balance equation
-with friction. Define stagnation temperature.
-Q.2) a) With the help of diagrams, explain the construction and working of 10
-mechanical type pressure gages.
-
-b) With the help of diagram, explain the construction and working of 10
-Mercury filled and Mechanical Barometers. .
-
-Q.3) a) Define friction factor and derive Hagen-Poisuellie equation. 10
-
-b) A water tank located at a height of 30 m from the ground level. The total 10
-length of straight pipes is 45 m and the equivalent length of all fittings
-and fully open valves in the line is 5m. Diameter of pipe is5 cm. Take
-the value of f as 0.005 and calculate the maximum flow rate and Reynold
-number possible.
-P.T.O.
-
-Yo
---- page 2 ---
-Q.4
-
-Q5)
-
-Q.6)
-
-Q7)
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-b)
-c)
-
-Using the Bernoulli equation, derive the equation for pressure drop across
-1. Venturimeter and 2. Orificemeter .
-
-Calculate the flow rate of water in a pipe line if pressure drop across
-Orifice meter is 500Pa and C, = 0.6. Diameter of pipe is 5 cm and
-Orifice diameter is 2 cm. If flow rate is increased to four times, what will
-be the value of pressure drop across Orifice meter?
-
-List various types of rotary type flow measuring instruments and describe
-the construction and working of any two.
-
-List various type of pumps and write applications of a centrifugal pump.
-When multistage centrifugal pumps are used?
-
-Describe the phenomena of fluidization with the help of plot for pressure
-drop and bed height vs. velocity. Discuss the types of fluidizations
-classified from appearance of the bed when fluidized with liquid and with
-gas.
-
-Write Force balance for a motion of particle in a fluid and derive the
-equation for terminal velocity under gravitational force and under
-centrifugal force.
-
-Write notes on any two of the following
-NPSH and Priming
-
-Static Mixers
-
-Process of Compressible flow
-
-XXXXXXXXXXXXK
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-20
 ````
 
 ## 2008-09 · Exam not stated · Trim 4 · paper f6b4f5f3b972
@@ -14403,657 +15056,4 @@ b. What is NPSH available and NPSH required? Show the velocity triangle on the v
 
 pump and explain various vectors. 10
 \
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper a9bd814cd448
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/scan0019(9).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-a
-
-SVKM’s NMIMS
-
-S¥kwer Y
-Mukesh Patel School Of Technology Management & Enginee NMP Gn versity \ ¥
-Programme: MBA(Tech) - (Chemical) Year: II Trimester: IV = ‘ a = i
-
-Academic Year : 2012-2013
-
-Subject: FLUID MECHANICS Marks: 100
-Time: — 2.00 pm To 5.00 p
-Date: 26/10/2012 Duration: 3 hrs.
-
-Final - Examination
-
-Instruct ions : Candidates should read carefully the instructions printed on the cover of the Answer
-Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Assume suitable data wherever necessary.
-
-Q.1. Answer any five of the followings:
-
-(a) Calculate the absolute pressure in Pascal at the bottom of an open water tank with cross section
-area 2 square meters and water level 8.5 meters.
-
-(b) Write important characteristics of laminar flow and turbulent flow.
-
-ri (c) Draw nature of graphs and write equations for the stress — strain relations for Newtonian and
-} non - Newtonian fluids.
-
-(d) What is NPSH. Write the expression for NPSH giving meaning of each term.
-
-(e) Write Mechanical energy balance with pump work and frictional losses in fluid flow giving
-meaning of each term.
-
-(f) Define equivalent length of pipe fitting. Define friction factor and friction parameter for the flow
-of fluid in conduit
-
-Q.2. (a) Using Bernoulli equation derive the expression for velocity through venture meter.
-
-H (b) Water is flowing through a pipe of 2.4 cm diameter. The manometer reading across the orifice
-
-. . meter in the pipe is 2.3 cm Hg. The orifice diameter is 1.4 cm. If the velocity coefficient of orifice
-¢ } meter is 0.61, calculate the mass flow rate in kg/s through the pipe.
-
-Q.3. (a) Derive the equation for pressure drop for flow in a pipe in terms of friction parameter and
-kinetic energy term.
-
-(b) Calculate the pressure drop in a pipe of diameter 20 cm and length 150 m if water flow rate is
-0.5 cubic meters/s. Use appropriate equation for friction factor calculation from Reynold
-number.
-
-Yo.
---- page 2 ---
-ee
-
-Q.4.(a) Define drag coefficient for flow past immersed body. Draw the nature of drag coefficient vs.
-Particle Reynold number graph for a spherical particle. Write the expressions for calculation of
-drag coefficient-in Stoke’s law region and give value in Newton’s law region. Write the ranges of
-Particle Reynold number for these regions.
-
-(b) Write the expression for criterion K used in calculation of terminal velocity of particle in fluid.
-For water as fluid, what values of K are arrived at for Stoke’s law region and for Newton’s law
-region? Explain how drag coefficient values are related to particle Reynold number in various
-regions.
-
-Q.5. (a) Write the construction and working of reciprocating piston pump.
-
-(b) Calculate the work done in isothermal compression of air if the compression ratio is 5, initial
-pressure is 1 atmosphere and temperature is 300 K.
-
-Q.6. (a) Explain the adiabatic frictionless flow process in a nozzle.
-
-(b)Define Mach number, Asterisk conditions, Stagnation temperature, and isentropic flow. Derive
-expression for stagnation temperature for a given fluid velocity and temperature.
-
-Q.7. Write notes on any two:
-(a) Air lift for liquid.
-(b) Power consumption in Agitated vessel.
-
-(c) Universal velocity profile.
-
-in |
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper fef32b805348
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/FLUID MECHANIES/scan0024(6).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MBA(Tech) - (Chemical) Year: II Trimester: IV
-Academic Year : 2012-2013
-
-MS Univers
-Mumbaj ~ 56,
-
-LIBRARY
-
-Batch: 2011-2012
-Subject: FLUID MECHANICS Marks: 100
-
-; Time: 2.00 pm To 5.00 pm
-Date: 26/10/2012 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidate should read carefully the instructions printed on the question
-paper and on the cover of the Answer book, which is provided for their use.
-
-NB:
-
-1. Question No 1 is compulsory
-
-2. Out of remaining questions, attempt any four questions
-
-3. In all five questions to be attempted.
-
-4. All question carry equal marks.
-
-5 Answer to each new question to be started on a fresh page.
-6 Figures in brackets indicate full marks.
-
-Q-1 Answer the following:-
-a). Define viscosity of fluid and state Newton’s law of viscosity
-b) State various pressure measuring devices.
-c.) Describe various pressure scales.
-d) Distinguish between Reynold’s number and critical Reynold’s number
-
-(20)
-Q-2
-a.)U-tube manometer is employed to measure differential pressure across two points in
-a water pipe. If manometric fluid is carbon —tetrachloride (specific gravity 1.6) and
-
-manometer reads 20cm ievel difference,. Calculate pressure drop in gmf/cm* across two
-points. (5)
-
-b) Find the type of flow of an oil of specific gravity 0.9 and dynamic viscosity 20 poise,
-} flowing through a pipe of diameter 20cm and giving discharge of 10 lit/sec.
-
-i (5)
-
-“ ¢.)Calculate the critical velocity of water flowing through 25 mm id pipe. Take viscosity
-of water =0.008 poise. (5)
-d) Write short notes on Bourdon pressure gauge. (5)
-
-:
-2.
---- page 2 ---
-Q-3
-a) A pipeline 600m long and of 15cm diameter i is discharging an oil with velocity of 50
-cm/sec. if the kinematic viscosity of oil is 19 cm?/sec, find the loss of head due to
-friction. (10)
-b)State and explain the physical significance of Continuity equation and Bernoulli’s
-equation. Write Bernoulli’s equation with correction factors in mathematical form. Also
-state the limitations of Bernoulli’s equation.
-
-(10)
-Q-4
-a). Differentiate between the operating principles of head flow meter and variable area
-flow meter. Write notes on Venturi meter.
-
-(10)
-b.JA Venturimeter of throat diameter 6cm has a discharge coefficient of 0.97, and with a
-flow of 0.025 m*/s. the pressure differential is 10 N/m?.make calculations for flow rate
-when an orifice of 6cm is installed in the same pipe. The discharge coefficient for the
-orifice is 0.62 and pressure differential is the same.
-
-(10)
-Q-5
-a.) What do you understand by (I) suction head (II) Discharge head (III) Total head of a
-centrifugal pump. (10)
-b.) Explain with neat diagram working of centrifugal pump and explain its performance
-characteristics. (10)
-Q-6
-
-a) Find the Mach number, when an aero plane is flying at 900 km/hr through still air
-having pressure of 8 N/cm2 and temperature of -15 °c. Take k= 1.4 and R= 287 j/kg
-Ok.Calculate pressure, temperature and density of air at the stagnation point of the plane,
-
-ie at the nose of the plane. (10)
-b) Derive an expression for the velocity of sound for isothermal and adiabatic processes
-(10)
-
-Q-7. Write short notes on:-
-a) Types of agitators
-b) .Fluidization
-
-‘
-2
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 53eeb626e4d0
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/FLUID MECHANICS/scan0025(4).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-_   SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering.
-Programme: MBA(Tech) - (Civil) Year: II Trimester: IV
-Academic Year : 2012-2013
-
-Subject: FLUID MECHANICS Marks: 100
-Time: 2.00 pm Toff
-Date: 29/10/2012 Duration: 3 hrs. ff >
-
-Final - Examination
-
-Mun: »
-
-\ _. ( Libnwy
-%, De.
-he Answer Boa,
-14 _— a”
-Manageme ;
-
-Instructions: Candidates should read carefully the instructions printed on the question paper ar
-which is provided for their use.
-
-NB:
-
-1. Solve any FIVE questions
-
-2. All questions carry equal marks
-
-3. Answer to each question to be started on the fresh page
-
-4. Assume suitable additional data, if not given & mention it clearly.
-
-Qu. 1 (a): Each gate of a lock is 2m high and 1.2m high lies in vertical plane and is hinged at the bottom. There is a liquid
-on upstream side of the gate which extends 1.5m above the top of the gate and has a specific gravity of 1.45. On the
-downstream side of the gate there is a water upto the top of the gate. Find:
-
-(i) The resultant force acting on the gate
-
-(ii) The position of the centre of pressure, and
-
-(iii) The least force acting horizontally on the top of the gate which is capable of opening it. (15)
-Qu. 1 (b): Define gauge pressure and absolute pressure (5)
-
-Qu. 2 (a): ACylinder of 100 mm diameter and 300 mm length rotates about a vertical axis inside a fixed cylindrical tube
-of 105 mm diameter and 300 mm length. If the space between the tube and the cylinder is filled with liquid of dynamic
-
-viscosity of 0.125 N.s/m’, determine the speed of rotation of the cylinder which will be obtained if an external torque of
-1Nm is applied to it. (10)
-
-Qu. 2(b): The diarneters of a small piston and a large piston of a hydraulic jack are 2.5 cm and 8 cm respectively. A force
-of 75 N is applied on the small piston, Find the load lifted by the large piston when
-
-1. The pistons are at the same level
-2. Small piston is 45 cm above the large piston
-
-The density offaud in the jack is given as 1000 kg/m? ; (10)
-Qu. 3(a): A circular plate of diameter 1m is immersed in water in.such a way that its plane makes an angle of 300 with
-
-the free surface of water. The centre of the plate is 2m below the free surface. Determine the total pressure force on
-
-one side of the plate and the position of the centre of pressure.
-(10)
-
-Yo
---- page 2 ---
-on
-
-Qu. 3(b): A horizontal venturimeter with inlet and throat diameter 240 mm and 120 mm respectively is used to measure
-the flow of water. The pressure intensity at inlet is 130 kN/m2(gauge), while the vacuum pressure head at throat is
-150mm of mercury. Assuming that 3% of pressure head is lost in between inlet and throat, find the coefficient of
-discharge and rate of flow. (10)
-
-Qu. 4(a): (i) Derive an expression for discharge through partially submerged orifice. (4)
-
-(ii) A reservoir discharges though a rectangular orifice of width 0.5m and height 1m. If the top edge of the
-orifice is 3m below the water level in the reservoir, calculate the discharge through the orifice. The coefficient of
-discharge of the orifice is 0.60. What would be the percentage error if the orifice were to be treated as small
-orifice? (6)
-
-Qu.4 (b): A hemispherical tank of radius 1.5m contains water up to a height of 1.5m. An orifice of diameter 30 cm and
-coefficient of discharge 0.6 is provided at the bottom of the tank. Find the time required to lower the water level
-from 1.5m to 0.5m. ; (10)
-
-Qu. 5({a): Water flows over a trapezoidal notch which is 1.1m wide at the top and 0.6m at the bottom and is 0.5m in
-height. If the height of water above the crest is 0.3m, find the discharge over the weir. The coefficient of
-discharge for the rectangular and triangular portion are 0.62 and 0.59, respectively. (10)
-
-Qu. 5(b): (i) A broad crested weir of length 40m has 400 mm height of water above its crest. Find the maximum
-discharge. Take Cy= 0.6. Neglect velocity of approach.
-
-{ii) If velocity of approach is to be taken into consideration, find the maximum discharge when the channel
-has a cross sectional area of 40m’ on the upstream side. (10)
-
-Qu. 6(a): Two tanks containing water are connected by a horizontal pipe of length 25m and diameter 20 cm. If the
-difference of water surface in the reservoir is 4m, find the rate of flow. Also draw the energy gradient line and
-hydraulic gradient line. Take Darcy’s friction factor f=0.01. (10)
-
-Qu. 6(b): A rectangular channel needs to be designed to carry a flow of 0.6 m3/s under uniform flow conditions. If the
-bed slope of the channel is 1 in 3000, find the most economical dimensions of the channel. Take Chezy’s constant C = 50.
-
-(10)
-Qu. 7: Write short notes on (any 4) (20)
-(i) Bernoulli’s theorem =
-(ii) Pipes in series
-
-(iii) Water hammer pressure
-(iv) Hydraulic jump
-(Vv) -Equivalent pipes
-
-vt
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper b2cba0ca4b14
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/FLUID MECHANICS/scan0020(9).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-Programme:
-
-Batch:
-Subject:
-
-Date:
-
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineeri:
-MBA (Tech) -MECH Year: II Trimester: IV
-Academic Year : 2012-2013
-
-NMIMS Lniversi:,
-Mumbai - 56,
-LIBRARY
-
-2011-12
-FLUID MECHANICS Marks: 100
-
-Time: 2.00 pm To 5.00 pm
-27/10/2012 Duration: 3 hrs.
-
-Re - Examination
-
-1. Inall five questions to be attempted.
-
-2. All questions carry equal marks.
-
-3. Answer to each new questions to be started on a fresh page.
-4. Figures on the right hand side indicate full marks
-
-Q.1 a) State hydrostatic law. Derive an expression for total pressure and centre of pressure for
-an incline surface submerged in a fluid. 10
-
-b) A circular plate of 3.5 m diameter is immersed in water in such way that it’s greatest and
-least depth below the free surface are 4 m and 2.5 m respectively. Find the total pressure on
-the face of the plate and position of the centre pressure. 10
-
-Q.2 a) Define stream function and velocity potential function. 04
-
-b) Lateral stability of long shaft 150 mm diameter is obtained by means of 250 mm stationary
-bearing having an internal diameter of 150.25 mm. If the space between the bearing and shaft
-is filled with lubricant having viscosity 0.245 N-s /m? what power will be required to
-overcome the viscous resistance when the shaft is rotated at 180 rpm. 08
-
-c) A solid cylinder of diameter 1 m has height of 1 m. Find the metacentric height of the
-cylinder when it is floating in water with its axis vertical. The specific gravity of the cylinder
-
-is 0.7, State whether the equilibrium is stable or unstable. 08
-Q.3 a) Derive Euler’s equations of motion and from that derive Bernoulli’s equation. 10
-b) The velocity vector in an incompressible flow is given by 10
-
-V = (6xt+ yz")i + (3t+xy?)j + (xy - 2xyz- 6tz)k ,
-
-a) Verify whether the continuity equation is satisfied
-b) Determine the acceleration vector at point A (1,1,1) and t= 1
-
-Q.4 a), Define surface tension and Buoyancy 04
-b) Prove continuity equation using basic principle. 08
-
-c) A 400 mm diameter pipe carries water under a head of 30 m with a velocity of 4.5 m/s.The
-axis of the pipe turns through 45° and the pipe is laid horizontally. Find the magnitude and
-direction of the resultant force on the bend, 08
-
-Q.5 a) Define: i) Boundary layer thickness ii) Momentum Thickness iii) Kinetic energy
-correction factor iv) Momentum correction factor. 08
-
-Yo
---- page 2 ---
-b) Find the expression for boundary layer thickness, shear stress, average coefficient of drag
-in terms of Reynolds No. for the given velocity profile for laminar boundary layer given as
-
-2
-Mowat 5(2) = (2) LD
-u- 2X6 2\6
-Q.6 a) Derive Hagen poiseuille equation for laminar flow through a circular pipe 10
-
-b) An old water supply distribution pipe of 350 mm diameter of a city is to be replaced by
-two parallel pipes of smaller equal diameter having equal length and identical friction factor
-values.Fnd out the new diameter required. 10
-
-Q.7 a) Derive Darcy Weisbach equation for loss of head due to friction. 10
-
-An oil of specific gravity 0.8 is flowing through a pipe diameter 120 mm. The viscosity of oil
-is 15 poise and velocity at the centre is 3 m/s. Find 10
-
-1) Pressure gradient in the direction of flow
-2) Shear stress at the pipe wall
-3) Reynolds No. and Velocity at a distance of 30 mm from the wall.
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 3d3d5acc3a1f
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/FLUID MECHANICS/scan0033(2).pdf`
-- Printed on paper: duration hours: 3; exam date: 27/10/2012
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engin
-Programme: MBA (Tech) -MECH Year: © I: Trimester: .IV
-Academic Year : 2012-2013
-
-Subject: FLUID MECHANICS Marks: - 100
-Time: 2.00 p.m To 5.00 p.m
-Date: 27/10/2012 Duration: 3 hrs.
-
-Final - Examination
-
-Instuctions: Canditates should read carefully the instructions printed on the question
-paper and on the cover of the Answer book,which is provided for their use.
-
-NB:
-
-1.Questin no 1 is compulsory.
-
-2.Out of remaining questions,attempt any four questions. . i
-3.In all Five questions to be attempted.
-
-4.All questions carry equal marks.
-
-5. Answer to each new question to be started on fresh page.
-
-6.Figures in brackets on the right hand side indicate full marks.
-
-1.Attempt any Four.
-(20)
-
-(a)Types of fluids.
-
-j (b)Difference between Newtonian and Non Newtonion fluids.
-
-(c) Hydrostatic Law.
-(d) Types of fluid flow.
-
-(e) Total Pressure and centre of pressure.
-
-ata) Derive an expression for Darcy- Weisbach Equation . (10)
-Vd) The dynamic viscosity of an oil, used for lubrication oetween a shaft and sleeve is 6 poise.
-The shaft is of diameter 0.4m and rotates at 190 rp.m. Calculate the power lost in the bearing for
-a sleeve length of 90mm. The thickness of the oil film is 1.5mm. (10)
-
-3.(a) Derive Continuity equation in cartician co ordinate system. (10)
-
-l h.
---- page 2 ---
-(b) A cubical tank has sides 1.5m .It contains water for the lower 0.6m depth.The upper
-remaining part is filled with oil of specific gravity 0.9. Calculate total pressure and centre
-of pressure for one vertical side of the tank. (10)
-
-4.(a) Derive an expression for Berrnaulli’s Equation from Euler’s Equation of motion.(10)
-
-(b) Explain surface tension and capillarity. — (10)
-5.(a) Eplain with neat sketch “Formation of boundary layer”. (10)
-(b) Derive an expression for metacentric height. (10)
-
-6.(a)A solid cylinder of diameter 4m has a height of 4m find the metacentric height of the
-cylinder if the specific gravity of cylinder is 0.6 and is floating in water with its axis
-vertical.State whether the equilibrium is stable or unstable (10)
-
-(b) Derive an expression for total pressure and centre of pressure for inclined plane
-
-~ surface . (10)
-7.(a) State and prove Pascal’s law. (10)
-(b) Derive an expression for Navier-Stoke equation. (10)
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 7cd74a3e3ef6
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/FLUID MECHANICS/FLUID MECHANICS (MECHANICAL), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 28 November 2017
-- Text: ocr (3 pages), mean OCR confidence 88.8
-
-````text
-~_
-x SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-. Programme: B. Tech (MECHANICAL) ~ Year: I - Semester: III —
-
-Academic Year: 2017-2018
-
-j Subject: Fluid Mechanics yen oN
-Marks: 70 ~ 37.7 NSH}
-
-Date: 28 November 2017 — Time: 10.00 ai to 1.00°pm i \ %
-
-Durations: 3:{hrs) i A RY sg 3
-
-No. of Pages: Wek E
-Sa pa
-
-y the instructions printed on the question paper and
-ovided for their use.
-
-Final-Examination
-#inal-Examination
-
-on the cover of the Answer Book, which is pr
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-3) In all 05 questions to be attempted.
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume ~uitable data if necessary.
-Q.1 Attempt All Questions
-
-I.
-
-IL.
-
-(3.5 X 4=14)
-Explain dynamic viscosity and kinematic viscosity.
-
-State the condition of equilibrium of floating bodies with sketch,
-Tl. Define uniform and non-uniform flow.
-
-IV. Define Kinetic energy correction factor and momentum correction factor.
-
-Q.2 A. A Im wide and 1.5m deep rectangular plane surface lies in water in such a
-
-(07)
-way that its plane makes an angle of 30°
-
-with the free water surface,
-Determine the total pressure force and position of the centre of pressure
-
-when the upper edge is 0.75 m below the free water surface.
-
-. Fig 1 shows a differential manometers connected at two points A and B. At
-A pressure is 100 kN/m/. Find the absolute pressure at B.
-
-(07)
---- page 2 ---
-Q.3 A. A wooden block of width 1.25m, depth 0.75m and length 3.0m is floating in (07)
-water. Specific weight of the wood is 6.4 KN/m’. Find:
-i. Volume of water displaced, and
-ii. Position of centre of buoyancy.
-; . . oo. (07)
-B}- The velocity field in a flow is given by ;
-V = (34 2xy + 4t7)i + (xy? + 30)j
-Determine the velocity vector and acceleration at point (1, 2) after 2 seconds.
-Q.4 A. In a two dimensional incompressible flow field the velocity.components are (07)
-
-expressed as:
-3 x3
-
-: w= 2x xy yy = xy? — Day — >
-
-Obtain an expression for stream function and velocity potential function.
-State whether the flow is rotational or irrational.
-B. A 45° reducing bend is connected in a pipe line, the diameters at the inlet and (07)
-outlet of the bend being 600 mm and 300 mm respectively. Find the force
-exerted by water on the bend if the intensity of pressure at inlet to bend is
-
-ge ; 8.829 N/cm? and rate of flow of water is 600 liters/s.
---- page 3 ---
--Q5 A. Find the discharge of water flowing through a pipe 30 cm diameter placed in (07)
-an inclined position where a venintinieter in inserted, having a throat
-diameter of 15 cm. The difference of pressure between the main and throat is
-measured by a liquid of specific gravity 0.6 in an inverted U-tube which
-gives a reading of 30 cm. The loss of head between the main and throat is 0.2
-times the kinetic head of the pipe.
-B. Derive on the basis of dimensional analysis suitable parameters to present the (07)
-thrust developed by a propeller. Assume that the thrust P depends upon the
-angular velocity , speed of advance V, diameter D, dynamic viscosity, mass
-density p, elasticity of the fluid medium which can be denoted by the speed
-
-of sound in the medium C.
-
-Q.6 A. In a smooth pipe of diameter 0.5 m and length 1000 m is flowing at the rate (07)
-of 0.05 m/s. Assuming the kinematic viscosity of water as 0.02 stokes, find:
-G) head loss due to friction, (ii) wall shear stress, (iii) Centre line velocity,
-(iv) thickness of laminar sublayer.
-B. A horizontal pipe line 40 m long is connected to a water tank at one end and (07)
-discharge freely into the atmosphere at the other end. For the first 25 m of its
-length from the tank, the pipe is 150 mm diameter and its diameter is
-suddenly enlarged to 300 mm. the height of water level in the tank is 8 m
-above the centre of the pipe. Considering all losses of head which occur,
-
-determine the rate of flow. Take f=0.01 for both section of pipe.
-
-Q.7 A. For the velocity profile for laminar boundary layer ; (07)
-
-7 26)-@)
-
-Find the. displacement thickness, the momentum thickness and energy
-
-thickness.
-
-2
-
-B. Derive Hagen-Poiseuille equation for viscous fluid through circular section. (07)
 ````

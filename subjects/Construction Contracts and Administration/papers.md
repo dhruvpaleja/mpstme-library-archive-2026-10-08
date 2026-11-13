@@ -750,6 +750,89 @@ Explain a lump sum contract with its advantages and disadvantages
 {10]
 ````
 
+## 2022-23 · Exam not stated · Sem 8 · paper 64c6d784e448
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/CONSTRUCTION CONTRACTS AND ADMINISTRATION/Construction Contracts and Administration.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/05/ 2023
+- Text: ocr (2 pages), mean OCR confidence 85.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
+Academic Year: 2022-2023
+Program/s: B.Tech./MBA Tech. Year:4 Semester: 8
+Stream/s ;CIVIL
+
+Subject: Construction Contracts and Administration Time: 3 hrs (10 am to | pm)
+Date: 02/05/ 2023 No. of Pages:02
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+
+CO-1;S0-4;BL-3 4. Explain in brief the characteristics of torts.
+CO-1;S0-4;BL-3_ bh, Elaborate on permanent injunction
+C0-2;S0-7,BL-3_   ¢, Elaborate on the powers of an arbitrator.
+
+CO-1;S0-4;BL-3_ dq, Elaborate on the various types of delays. Give suitable examples.
+
+Q2 a Explain the classification of contracts based on creation and performance in [10]
+CO-1 ; SO-4; BL-3 detail.
+Q2 b Distinguish between valid, void and voidable contracts. [10]
+
+CO-1 ; SO-4; BL-4
+
+Q3 a Explain the modes of inviting tenders. [10]
+CO-1 ; SO-4; BL-3
+Q3 b_ Explain the concept of joint venture with advantages. [10]
+
+CO-1 ; SO-4; BL-3
+--- page 2 ---
+Q4 a Elaborate on the Processes in Claims Management in contracts. [10]
+CO-1 ; $O-4; BL-3
+Q4 b_ Elaborate on the essential elements of contracts. [10]
+CO-1 ; SO-4; BL-3
+
+Q5 a Elaborate on 7/12 extract stating its content and uses. [10]
+CO-1 ; $O-4; BL-3
+
+Q5 b_ Elaborate on CAR policy. [10]
+CO-1 ; SO-4; BL-3
+
+Q6 a Distinguish between arbitration and conciliation. [10]
+CO-2 ; SO-7; BL-3
+
+Q6 b Elaborate on item rate and lump sum contract stating advantages and [10]
+CO-1; 80-4; BL-3 disadvantages.
+
+Q7 a Elaborate on the various modes of creation of agency. [10]
+CO-1 ; SO-4; BL-3
+
+Q7 b Elaborate on the composition of Arbitral Tribunal. . [10]
+
+CO-2 ; SO-7; BL-3
+
+—_—_-&-
+````
+
 ## 2021-22 · Re-Exam · Sem 8 · paper eb850e3c2c24
 
 - Departments: Civil
@@ -1256,6 +1339,7 @@ oul 2 fe
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/CONSTRUCTION CONTRACTS AND ADMINISTRATION/CONSTRUCTION CONTRACTS AND ADMINISTRATION B TECH (CIVIL), 2016-17 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
 - Text: ocr (1 page), mean OCR confidence 84.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1305,7 +1389,6 @@ Q.2 a)Elaborate on the various types contractual problems in construction indust
 b) Elaborate on Arbitration and Conciliation Act 1996. 06
 Q3 a) Elaborate on selection of Arbitrator. 06
 b) Elaborate on the pawens and duties ofan Arbitrator, , 06
-bie toes VO Dry ae oo) 7 pe rey. OF Sere “Al eat ae 4
 Q.4 a) Enlist- ual sexplata: aba regulations: related 2 wages. Ch OG rey “06
 b) Discuss salient features of Indian Contracts Act. . 66
 Q.5 a) Enlist and explain labour regulations related to wages. 06
@@ -1385,87 +1468,4 @@ Q.7 (a) List out important Contract Documents and their contents. (06 Marks)
 % x
 
 vi
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 64c6d784e448
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/CONSTRUCTION CONTRACTS AND ADMINISTRATION/Construction Contracts and Administration.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/05/ 2023
-- Text: ocr (2 pages), mean OCR confidence 85.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
-Academic Year: 2022-2023
-Program/s: B.Tech./MBA Tech. Year:4 Semester: 8
-Stream/s ;CIVIL
-
-Subject: Construction Contracts and Administration Time: 3 hrs (10 am to | pm)
-Date: 02/05/ 2023 No. of Pages:02
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-
-CO-1;S0-4;BL-3 4. Explain in brief the characteristics of torts.
-CO-1;S0-4;BL-3_ bh, Elaborate on permanent injunction
-C0-2;S0-7,BL-3_   ¢, Elaborate on the powers of an arbitrator.
-
-CO-1;S0-4;BL-3_ dq, Elaborate on the various types of delays. Give suitable examples.
-
-Q2 a Explain the classification of contracts based on creation and performance in [10]
-CO-1 ; SO-4; BL-3 detail.
-Q2 b Distinguish between valid, void and voidable contracts. [10]
-
-CO-1 ; SO-4; BL-4
-
-Q3 a Explain the modes of inviting tenders. [10]
-CO-1 ; SO-4; BL-3
-Q3 b_ Explain the concept of joint venture with advantages. [10]
-
-CO-1 ; SO-4; BL-3
---- page 2 ---
-Q4 a Elaborate on the Processes in Claims Management in contracts. [10]
-CO-1 ; $O-4; BL-3
-Q4 b_ Elaborate on the essential elements of contracts. [10]
-CO-1 ; SO-4; BL-3
-
-Q5 a Elaborate on 7/12 extract stating its content and uses. [10]
-CO-1 ; $O-4; BL-3
-
-Q5 b_ Elaborate on CAR policy. [10]
-CO-1 ; SO-4; BL-3
-
-Q6 a Distinguish between arbitration and conciliation. [10]
-CO-2 ; SO-7; BL-3
-
-Q6 b Elaborate on item rate and lump sum contract stating advantages and [10]
-CO-1; 80-4; BL-3 disadvantages.
-
-Q7 a Elaborate on the various modes of creation of agency. [10]
-CO-1 ; SO-4; BL-3
-
-Q7 b Elaborate on the composition of Arbitral Tribunal. . [10]
-
-CO-2 ; SO-7; BL-3
-
-—_—_-&-
 ````

@@ -418,6 +418,99 @@ Explain bye-laws for open space requirements for residential building.
 (03)
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper e5ea591cf417
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/BUILDING DESIGN AND DRAWING I/BUILDIGN DESIGN AND DRAWING_-I BATHC 16-17-18-19_RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 4; exam date: 15 June 2019
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE
+Programme: B. Tech / MBA Tech(Civil) Year: II Semester: TV ~
+
+Academic Year: 2018-2019
+Subject: Building Design and Drawing-I Marks: 70“
+
+Date: 15 June 2019 ~ , Time: 2.00 pm to 6.00 pm ~
+. Duration: 4 (Hrs) «
+
+; - No. of Pages:_ 2
+
+Re- Examination (2016-17 / 2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of.the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. .
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘Suitable data if necessary.
+
+Q-01a) | AR.C.C. residential building (G+1 storey) is to be planned in a plot of | (10)
+17m x 20m. A shorter side of the plot is adjoining a 12 m wide road.
+Following accomodations are to be provided.
+
+Ground Floor:
+Living room
+Kitchen cum dining room
+Store room
+Guest room
+First-floor:
+Master bed room
+Kid’s room with kid’s play.area
+Bed room
+Recreational area
+Note: All necessary circulation systems like verandah, passage,
+staircase and sanitary units with standard dimensions shall be
+considered.
+Draw developed plan for the ground floor.
+b) | Design a dog-legged staircase for floor to slab height to be 3.1 m and (04)
+slab thickness as 150mm for Q-1(a).
+
+Q-02 a) _| Draw a developed plan for the first floor for the data given in Q-01 (a) | (10)
+b) | Draw a site plan and draft the schedule of openings for the structure (04)
+you have planned for Q-01(a) and (b).
+
+Q-03 a) | Draw front elevation for the building for Q-01(a). (08)
+
+Ve
+--- page 2 ---
+b) | Enlist all the principles of planning of buildings. Explain in brief (06)
+“Privacy and Grouping”. ;
+
+Q-04 Draw cross sectional elevation passing through the stair, and a sanitary | (14)
+unit for the structure you have planned in Q-01(a).
+
+Q-05 Draw neat sketches and label the following:
+
+a) Typical section of staircase connecting ground floor to first floor with (06)
+
+details.
+b) Typical section and elevation of single panelled door. (04)
+c) Typical section of water proofing on terrace. (04)
+Q-06 a) | Draw the foundation plan with detailed section of the foundation for (10)
+
+the structure you have planned in Q-01 (a).
+
+b) | Enlist the general bye-laws that one need to follow while planning any | (04)
+
+residential building.
+Q-07a) | Explain F.S.I. and its importance in planning. (06)
+b) _| Draw detail (half section) of a king post roof truss for a span of 10 m. (06)
+c) | State certain things which should not be near the site for residential (02)
+building. 2
+````
+
 ## 2017-18 · Final + Re-Exam · Sem 4 · paper 273191dcb667
 
 - Departments: Civil
@@ -2152,6 +2245,102 @@ bearing foundation for an external and internal wall.
 06
 ````
 
+## 2014-15 · Final-Exam · Sem 4 · paper aee28b63d382
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/BUILDING DESIGN AND DRAWING I/BUILDING DESING AND DRAWING I B TECH (CIVIL), BATCH 2013-14 FINAL EXAM.pdf`
+- Printed on paper: exam date: 30/06/2015
+- Text: ocr (2 pages), mean OCR confidence 94.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: II Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Building Design and Drawing-I
+
+Marks:
+
+Date: 30/06/2015 Time:
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q-01 a) AR.C.C. residential building (G+1) is to be planned in a plot of land 350 (15)
+sq.m.. The maximum permissible plinth area is 30 % of plot area while the
+total builtup area is 200 sq.m. 12 meter wide road is next to the one shorter
+side of the plot. Following accommodation is to be provided.
+
+i) Drawing room , Kitchen cum dining room and a small bed room
+on ground floor.
+
+ii) Bed room with attached W.C. and Bath , guest room and study
+room on the first floor.
+
+iii) Provide adequate sanitary units, passage, verandah, staircase
+etc. :
+
+Draw detailed plan showing space allocation for the accommodation
+mentioned above at the Ground Floor Lvl..
+
+b) Briefly explain the planning principles you adopted for the structure you (05)
+have planned. :
+
+Q-02 a) Draw first floor line plan for the data given in Q-01 (a). Draft the schedule of | (10)
+opening.
+b) Draw a site plan and give area statement showing calculations for actual (10)
+plinth area and total builtup area for the structure you have planned in Q-01
+
+Q-03 a) Design and draw detailed section of the staircase provided in Q .1(a). (10)
+b) Enlist any six principles of planning of buildings. Explain in brief with neat (10)
+sketches ‘Privacy” and ‘Grouping” in planning of residential building
+
+Q-04 a) Draw a front elevation for Q-01 (a). (15)
+b) Write short notes on floor area ratio. Explain with neat sketches how it is (05)
+related to height of the building ?
+
+fp.
+--- page 2 ---
+Q-05 a) Draw sectional elevation (G+I structure) passing through staircase and (15)
+sanitary units for a structure mentioned in Q-01 (a).
+
+b) Explain in detail types of residential buildings. (05)
+Q-06 a) Draw a detailed section of a typical stepped stone masonry foundation for (10)
+depth of foundation to be 1.5 m for external wall of thickness 300 mm.
+
+b) Draw plan, elevation and section of the main door you have provided for the | (10)
+
+residential unit for Q-01 a).
+
+Q-07 a) Draw a detailed section of a pitched roof with Queen Post Timber Truss fora | (15)
+span of 4.0 m c/c of a wall thickness 250 mm.
+
+b) What is meant by orientation of building? Mension suggestion for obtaining | (05)
+| optimum orientation of buiiding. i
+
+2
+````
+
 ## 2014-15 · Final-Exam · Sem 4 · paper ddd9381cde4f
 
 - Departments: Civil
@@ -2256,6 +2445,105 @@ column.
 06
 ````
 
+## 2014-15 · Re-Exam · Sem 4 · paper abc51e0d8457
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/BUILDING DESIGN AND DRAWING I/BUILDING DESIGN AND DRAWING I B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 15/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: Il Semester: 1V
+Batch: 2013-14
+Academic Year: 2014-2015 (v7 a worn wag ‘
+Subject: Building Design and Drawing-I
+° Marks{ 4 (Mas ¥ ue
+Date: 15/05/2015 Time: | x ‘inanae dg m
+Durati
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+}. Section | and II is compulsory.
+2. Section I must be draw on sheet.
+3. Section I and II carry equal marks.
+4. Section II must be attempted on answer sheet and each new question to be started on a
+fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+
+SECTION -I
+
+Q.1) A residential building is to be planned for a practicing advocate with the following
+requirements:
+
+(i) Living cum drawing hall.
+
+(ii) Master bed room with toilet.
+
+(iii) Second bed room.
+
+(iv) Kitchen and store.
+
+(v) Additional bath and W.C.
+
+(vi) Staircase.
+
+The dimensions of the site are 15 m X 20 m and the road is on western side, parallel to 15 m side.
+
+The plinth area is not to exceed 125 Sq m. Adopt moderate specifications.
+
+(a) Plan of the building. (10 Mark)
+(b) Sectional elevation. (12 Mark)
+(c) Front elevation. (12 Mark)
+(d) Site Plan. (08 Mark)
+(e) Schedule of opening (04 Mark)
+(f) Drainage line plan (04 Mark)
+--- page 2 ---
+QWOw’TTAN oir
+BUI —
+
+Q.2) Attempt Any Four. (20 Mark)
+
+a) What are the objectives of building bye-laws?
+
+b) Write a short note on floor area ratio. How is it related to height of the building? Explain
+
+c) How disposition of doors and mode of hanging shutters affect privacy in a building?
+
+d) Define the plan of a building. What are the factors affect the planning of a residential building?
+
+e) Draw a symbol of brick, plaster, ceramic tile, cooking platform and pump.
+
+Q.3) Attempt Any Five. (10 Mark)
+
+a) Define plinth area.
+
+b) What is the minimum area for bed room?
+
+c) What are the basic principles to be covered in planning a living room?
+
+d) On what consideration the ‘Grouping’ of various units in a building is made?
+e) What do you mean by “built up area”?
+
+f) What are the factors to be considered in fixing up the height of the building?
+
+Q. 4) Draw the following:-
+
+a) Foudation plan for the building / structure you have planned in Q.no. 1 (a)
+
+considering it as a R.C.C structure. (12)
+b) Detailed section of a stepped stone masonary foundation (loud bearing) having
+depth of foundation of 2m for an internal wall of 150mm. (08)
+x
+````
+
 ## 2014-15 · Re-Exam · Sem 4 · paper 87907b239df2
 
 - Departments: Civil
@@ -2332,6 +2620,95 @@ Q-07 a) Draw the terrace plan with a section showing waterproofing details for t
 structure planned in Q-01 (a)
 
 b) Explain with neat sketches F.A.R. and 63%/2° rule (06)
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 203cf8410ef2
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/BUILDING DESING AND DRAWING I/BULIDING DESIGN AND DRAWING I BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: duration hours: 4; exam date: 06/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Civil) Year: II Semester: IV
+
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Building Design and Drawing -I
+Marks: ff fy 7190, STM ye ,
+Date: 06/05/2015 Time: H oft 10.00, pan to2.98 5
+Durations:’, 4 (hrs) F,
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data wherever necessary and mention it.
+
+Q.no.1 It is proposed to construct a small RCC G+] bungalow for a general physician at a rural
+area with the following requirements:
+1. Dispensary/ clinic — 10 sq.m
+2. Living room — 15 sq.m
+3. drawing hall — 12 sq.m
+4. Bedroom (3 nos) with attached toilet - 15 sq.m
+5. Kitchen with dining — 12 sq.m
+6. Pooja /study/ store room — 9 sq.m
+7. Terrace — 9 sq.m
+Provide adequate facilities like stair, toilets, etc..
+
+a) Design and draw line plan of ground floor and first floor (sy
+b) Develop ground floor plan from the line plan (05)
+Q.no.2 a) Write a note on ‘ importance of building drawing’ (05)
+b) Write a note on ‘ importance of layout plan in design & planning’ (05)
+c) Draw a site plan showing all the details for the structure you have planned in Q.no.1. (10)
+
+Assume a 7m road running parallel to the longest side of the structure.
+
+Q.no.3_ a) Draw a foundation plan with all the details for the structure you have planned inQ.no. (12)
+1 (08)
+b) Draw plan and section of isolated footing with plinth beam and column details for the
+
+structure you have designed in Q.no.1
+--- page 2 ---
+Q.no.4_ a) Draw front and side elevation for the structure you have planned in Q.no.1 (08)
+b) Write a note on ‘ different scales used for drawing’ (05)
+c) Give the door and window schedule, construction notes, schedule of plinth beams, (07)
+
+columns and footings you have planned for your structure in Q.no. 1
+
+Q.no.5 Draw a detail section passing through the stair, toilets and door and window for the (20)
+
+structure you have planned in Q.no.1
+
+Q.no.6 Write a note on: (20)
+a) Sunpath diagram and its importance
+b) Aspect and prospect
+c) Building byelaws for residential planning
+d) Softwares in planning & designing
+Q.no.7 a) Draw a detailed half section of a king post roof truss for a span of 10m. (10)
+b) Draw detail section of water proofing of the terrace you have provided in Q.no.1 (10)
+x
+YY
+
+0X
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper d19ef21ee352
@@ -2600,102 +2977,6 @@ of 4.0m C/C ofa wall of thickness 230mm.
 2/2.
 ````
 
-## 2013-14 · Final-Exam · Sem 4 · paper aee28b63d382
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/BUILDING DESIGN AND DRAWING I/BUILDING DESING AND DRAWING I B TECH (CIVIL), BATCH 2013-14 FINAL EXAM.pdf`
-- Printed on paper: exam date: 30/06/2015
-- Text: ocr (2 pages), mean OCR confidence 94.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Building Design and Drawing-I
-
-Marks:
-
-Date: 30/06/2015 Time:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q-01 a) AR.C.C. residential building (G+1) is to be planned in a plot of land 350 (15)
-sq.m.. The maximum permissible plinth area is 30 % of plot area while the
-total builtup area is 200 sq.m. 12 meter wide road is next to the one shorter
-side of the plot. Following accommodation is to be provided.
-
-i) Drawing room , Kitchen cum dining room and a small bed room
-on ground floor.
-
-ii) Bed room with attached W.C. and Bath , guest room and study
-room on the first floor.
-
-iii) Provide adequate sanitary units, passage, verandah, staircase
-etc. :
-
-Draw detailed plan showing space allocation for the accommodation
-mentioned above at the Ground Floor Lvl..
-
-b) Briefly explain the planning principles you adopted for the structure you (05)
-have planned. :
-
-Q-02 a) Draw first floor line plan for the data given in Q-01 (a). Draft the schedule of | (10)
-opening.
-b) Draw a site plan and give area statement showing calculations for actual (10)
-plinth area and total builtup area for the structure you have planned in Q-01
-
-Q-03 a) Design and draw detailed section of the staircase provided in Q .1(a). (10)
-b) Enlist any six principles of planning of buildings. Explain in brief with neat (10)
-sketches ‘Privacy” and ‘Grouping” in planning of residential building
-
-Q-04 a) Draw a front elevation for Q-01 (a). (15)
-b) Write short notes on floor area ratio. Explain with neat sketches how it is (05)
-related to height of the building ?
-
-fp.
---- page 2 ---
-Q-05 a) Draw sectional elevation (G+I structure) passing through staircase and (15)
-sanitary units for a structure mentioned in Q-01 (a).
-
-b) Explain in detail types of residential buildings. (05)
-Q-06 a) Draw a detailed section of a typical stepped stone masonry foundation for (10)
-depth of foundation to be 1.5 m for external wall of thickness 300 mm.
-
-b) Draw plan, elevation and section of the main door you have provided for the | (10)
-
-residential unit for Q-01 a).
-
-Q-07 a) Draw a detailed section of a pitched roof with Queen Post Timber Truss fora | (15)
-span of 4.0 m c/c of a wall thickness 250 mm.
-
-b) What is meant by orientation of building? Mension suggestion for obtaining | (05)
-| optimum orientation of buiiding. i
-
-2
-````
-
 ## 2013-14 · Final-Exam · Sem 4 · paper be9ca6a2c091
 
 - Departments: Civil
@@ -2792,105 +3073,6 @@ b) Detail section of stepped stone masonary foundation for external and internal
 el
 
 Y
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper abc51e0d8457
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/BUILDING DESIGN AND DRAWING I/BUILDING DESIGN AND DRAWING I B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 15/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: Il Semester: 1V
-Batch: 2013-14
-Academic Year: 2014-2015 (v7 a worn wag ‘
-Subject: Building Design and Drawing-I
-° Marks{ 4 (Mas ¥ ue
-Date: 15/05/2015 Time: | x ‘inanae dg m
-Durati
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-}. Section | and II is compulsory.
-2. Section I must be draw on sheet.
-3. Section I and II carry equal marks.
-4. Section II must be attempted on answer sheet and each new question to be started on a
-fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
-
-SECTION -I
-
-Q.1) A residential building is to be planned for a practicing advocate with the following
-requirements:
-
-(i) Living cum drawing hall.
-
-(ii) Master bed room with toilet.
-
-(iii) Second bed room.
-
-(iv) Kitchen and store.
-
-(v) Additional bath and W.C.
-
-(vi) Staircase.
-
-The dimensions of the site are 15 m X 20 m and the road is on western side, parallel to 15 m side.
-
-The plinth area is not to exceed 125 Sq m. Adopt moderate specifications.
-
-(a) Plan of the building. (10 Mark)
-(b) Sectional elevation. (12 Mark)
-(c) Front elevation. (12 Mark)
-(d) Site Plan. (08 Mark)
-(e) Schedule of opening (04 Mark)
-(f) Drainage line plan (04 Mark)
---- page 2 ---
-QWOw’TTAN oir
-BUI —
-
-Q.2) Attempt Any Four. (20 Mark)
-
-a) What are the objectives of building bye-laws?
-
-b) Write a short note on floor area ratio. How is it related to height of the building? Explain
-
-c) How disposition of doors and mode of hanging shutters affect privacy in a building?
-
-d) Define the plan of a building. What are the factors affect the planning of a residential building?
-
-e) Draw a symbol of brick, plaster, ceramic tile, cooking platform and pump.
-
-Q.3) Attempt Any Five. (10 Mark)
-
-a) Define plinth area.
-
-b) What is the minimum area for bed room?
-
-c) What are the basic principles to be covered in planning a living room?
-
-d) On what consideration the ‘Grouping’ of various units in a building is made?
-e) What do you mean by “built up area”?
-
-f) What are the factors to be considered in fixing up the height of the building?
-
-Q. 4) Draw the following:-
-
-a) Foudation plan for the building / structure you have planned in Q.no. 1 (a)
-
-considering it as a R.C.C structure. (12)
-b) Detailed section of a stepped stone masonary foundation (loud bearing) having
-depth of foundation of 2m for an internal wall of 150mm. (08)
-x
 ````
 
 ## 2013-14 · Re-Exam · Sem 4 · paper 793efcf250e7
@@ -3110,186 +3292,4 @@ c) Sun path diagram
 d) Phases in construction process
 
 t= 1
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 203cf8410ef2
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/BUILDING DESING AND DRAWING I/BULIDING DESIGN AND DRAWING I BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: duration hours: 4; exam date: 06/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Civil) Year: II Semester: IV
-
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Building Design and Drawing -I
-Marks: ff fy 7190, STM ye ,
-Date: 06/05/2015 Time: H oft 10.00, pan to2.98 5
-Durations:’, 4 (hrs) F,
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data wherever necessary and mention it.
-
-Q.no.1 It is proposed to construct a small RCC G+] bungalow for a general physician at a rural
-area with the following requirements:
-1. Dispensary/ clinic — 10 sq.m
-2. Living room — 15 sq.m
-3. drawing hall — 12 sq.m
-4. Bedroom (3 nos) with attached toilet - 15 sq.m
-5. Kitchen with dining — 12 sq.m
-6. Pooja /study/ store room — 9 sq.m
-7. Terrace — 9 sq.m
-Provide adequate facilities like stair, toilets, etc..
-
-a) Design and draw line plan of ground floor and first floor (sy
-b) Develop ground floor plan from the line plan (05)
-Q.no.2 a) Write a note on ‘ importance of building drawing’ (05)
-b) Write a note on ‘ importance of layout plan in design & planning’ (05)
-c) Draw a site plan showing all the details for the structure you have planned in Q.no.1. (10)
-
-Assume a 7m road running parallel to the longest side of the structure.
-
-Q.no.3_ a) Draw a foundation plan with all the details for the structure you have planned inQ.no. (12)
-1 (08)
-b) Draw plan and section of isolated footing with plinth beam and column details for the
-
-structure you have designed in Q.no.1
---- page 2 ---
-Q.no.4_ a) Draw front and side elevation for the structure you have planned in Q.no.1 (08)
-b) Write a note on ‘ different scales used for drawing’ (05)
-c) Give the door and window schedule, construction notes, schedule of plinth beams, (07)
-
-columns and footings you have planned for your structure in Q.no. 1
-
-Q.no.5 Draw a detail section passing through the stair, toilets and door and window for the (20)
-
-structure you have planned in Q.no.1
-
-Q.no.6 Write a note on: (20)
-a) Sunpath diagram and its importance
-b) Aspect and prospect
-c) Building byelaws for residential planning
-d) Softwares in planning & designing
-Q.no.7 a) Draw a detailed half section of a king post roof truss for a span of 10m. (10)
-b) Draw detail section of water proofing of the terrace you have provided in Q.no.1 (10)
-x
-YY
-
-0X
-````
-
-## Year not stated · Re-Exam · Sem 4 · paper e5ea591cf417
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/BUILDING DESIGN AND DRAWING I/BUILDIGN DESIGN AND DRAWING_-I BATHC 16-17-18-19_RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 4; exam date: 15 June 2019
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE
-Programme: B. Tech / MBA Tech(Civil) Year: II Semester: TV ~
-
-Academic Year: 2018-2019
-Subject: Building Design and Drawing-I Marks: 70“
-
-Date: 15 June 2019 ~ , Time: 2.00 pm to 6.00 pm ~
-. Duration: 4 (Hrs) «
-
-; - No. of Pages:_ 2
-
-Re- Examination (2016-17 / 2017-18/2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of.the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. .
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ‘Suitable data if necessary.
-
-Q-01a) | AR.C.C. residential building (G+1 storey) is to be planned in a plot of | (10)
-17m x 20m. A shorter side of the plot is adjoining a 12 m wide road.
-Following accomodations are to be provided.
-
-Ground Floor:
-Living room
-Kitchen cum dining room
-Store room
-Guest room
-First-floor:
-Master bed room
-Kid’s room with kid’s play.area
-Bed room
-Recreational area
-Note: All necessary circulation systems like verandah, passage,
-staircase and sanitary units with standard dimensions shall be
-considered.
-Draw developed plan for the ground floor.
-b) | Design a dog-legged staircase for floor to slab height to be 3.1 m and (04)
-slab thickness as 150mm for Q-1(a).
-
-Q-02 a) _| Draw a developed plan for the first floor for the data given in Q-01 (a) | (10)
-b) | Draw a site plan and draft the schedule of openings for the structure (04)
-you have planned for Q-01(a) and (b).
-
-Q-03 a) | Draw front elevation for the building for Q-01(a). (08)
-
-Ve
---- page 2 ---
-b) | Enlist all the principles of planning of buildings. Explain in brief (06)
-“Privacy and Grouping”. ;
-
-Q-04 Draw cross sectional elevation passing through the stair, and a sanitary | (14)
-unit for the structure you have planned in Q-01(a).
-
-Q-05 Draw neat sketches and label the following:
-
-a) Typical section of staircase connecting ground floor to first floor with (06)
-
-details.
-b) Typical section and elevation of single panelled door. (04)
-c) Typical section of water proofing on terrace. (04)
-Q-06 a) | Draw the foundation plan with detailed section of the foundation for (10)
-
-the structure you have planned in Q-01 (a).
-
-b) | Enlist the general bye-laws that one need to follow while planning any | (04)
-
-residential building.
-Q-07a) | Explain F.S.I. and its importance in planning. (06)
-b) _| Draw detail (half section) of a king post roof truss for a span of 10 m. (06)
-c) | State certain things which should not be near the site for residential (02)
-building. 2
 ````

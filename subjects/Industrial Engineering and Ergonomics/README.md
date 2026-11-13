@@ -14,12 +14,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Industrial Engineering and Ergonomics(701ME0C011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | Integrated Mechanical 7031 | QP_Industrial Engineering and Ergonomics(701ME0C011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Industrial Engineering and Ergonomics(701ME0C011)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / MECHANICAL | Industrial Engineering and Ergonomics Batch 2025-26 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Industrial Engineering and Ergonomics(701ME0C011)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / MECHANICAL | Industrial Engineering and Ergonomics Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | Integrated Mechanical 7031 | QP_Industrial Engineering and Ergonomics(701ME0C011)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Industrial Engineering and Ergonomics(701ME0C011)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6, Sem 8 | B.TECH INTEGRATED / MECHANICAL | Industrial Engineering & Ergonomics Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / MECHANICAL | Industrial Engineering & Ergonomics Batch 2023-24 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / MECHANICAL | Industial Engineering & Ergonomics Batch 2022-23 Final.pdf |

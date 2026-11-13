@@ -4,6 +4,112 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2012-13 · Exam not stated · Trim 7 · paper 4993e48c8943
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/PLANT UTILITIES AND PIPING/scan0010(5).pdf`
+- Printed on paper: max marks: 100; exam date: 05/10/2012
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA-(Tech) - Chemical Year: II Trimester: VII
+
+———
+Academic Year : 2012-2013 es
+
+: : ' Or \
+Subject: PLANT UTILITIES & PIPING Marks: 100 >, SVKMS \
+
+Time: 10. ; at TOM"OOYomnersity ¥
+
+Date: 05/10/2012 Duration: 3 (re. lisnaay jz
+
+Final - Examination Ga i<
+
+Care re
+; i ; ee
+Instructions: Candidates should read carefully the instructions printed on th estipn Rare
+
+on the cover of the Answer book, which is provided for use.
+
+NB:
+1. Question paper has two sections
+2. Question No.1 is compulsory in each section.
+3. Out of remaining six questions attempt any four in each section.
+4. Answer to each question to be started on a fresh page.
+5. Answer to each section must be written on different Answer Books
+
+6. Figures in brackets indicate full marks.
+SECTION I
+
+Q1 Answer the following questions. (Any two) (10)
+a) Reasons-why combustion gases are not directly used for heating process streams.
+b) Explain Condensate treatment to get boiler feed water
+c) Explain importance of deaerator cum expansion tank
+
+Q2A__ Back pressure turbine is supplied with superheated steam (30 bar at 400C, 3232.2 (5)
+KJ/Kg). It exists at (5 bar at 200C, 2885.1 KJ/Kg). Calculate theoretical power.
+Q2B 25 TPH of saturated steam at 20 bar(2797 KJ/Kg) is produced from superheated steam (5)
+\ at 300C (3025.0 KJ/Kg) & BFW having enthalpy of 900 KJ/Kg. Calculate quantity of
+} superheated steam & BFW required per hour.
+
+Q3 Furnace oil is used for heating thermic fluid from 270C to 300C. Mass rate of thermic (10)
+fluid is 70,000 kg/hr. Specific heat of thermic fluid is 0.55 kcal/kgC. Net calorific value
+of furnace oil is 9500 Keal/kg. Composition of furnace oil is C-83%, H-12%, S-3.0%,
+water -1.5% & ash 0.5%. Calculate quantity of furnace oil & air required. List your
+assumptions. :
+
+Q4 | Write notes on (10)
+‘ a) Method of computing make-up & blow down in cooling water system
+
+q } b) Storage & pumping capacity of fire water
+c) Vauum producing equipment
+d) Flares
+
+Q5A __ Anair compressor has clearance ratio of 3%. Suction pressure is 101.325 KPa. (5)
+Polytropic compression coefficient is 1.35. Find discharge pressure where volumetric
+
+efficiency becomes zero.
+
+Q5B__ Advantages of multistage compression (5)
+Q6 Write notes on: (4)
+1) Advantages of vapor compression refrigeration system
+2) Effect of evaporation & condensation pressure on refrigerant selection (3)
+--- page 2 ---
+3) Absorption refrigeration system (3)
+
+Q7A Enumerate advantages & limitations of Steam heating & Thermic fluid heating (7)
+
+Q7B __ Reasons for selecting Dowtherm as heating medium. (3)
+SECTION I
+
+Ql Answer the following questions. (10)
+
+a) What is electric resistance heat tracing?
+b) What is the difference between safety valves & pressure relief devices?
+
+Q2 Derive the equation for optimum pipe diameter. Estimate the optimum pipe diameter (10)
+for a water service flow rate of 8 kg/s at 22 C. C.S. pipe is used. Determine whether the
+flow is laminar or turbulent.
+
+Q3 Write a short note on classification of piping materials. (10)
+Q4 What are the inputs received by a Piping engineer? Explain how each input helps him. (10)
+What are the outputs given by a Piping engineer? Who uses these outputs & how are
+they used.
+Q5 Explain (10)
+i. Ball valve
+ii. Globe valve
+Q6 What is a strainer? Explain different types of strainers (10)
+ohn Find the optimum diameter for CO. @1000 Kg/hr at 160 C&10 Kg/cm2 (g) with a (10)
+
+velocity of 15 m/s.
+
+rf
+````
+
 ## 2012-13 · Re-Exam · Trim 7 · paper 4da295ce8f0a
 
 - Departments: Chemical
@@ -97,105 +203,7 @@ i.   Spring supports
 ii.   Line designation list.
 ````
 
-## 2010-11 · Exam not stated · Trim 7 · paper 9a85996ad0a2
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/PLANT UTILITIES AND PIPING/PLANT UTILITIES AND PIPING BACTH 2010-2011.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14/06/2011
-- Text: ocr (2 pages), mean OCR confidence 91.6
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Programme: MBA Tech - CHEMICAL Year: III Trimester: vu
-Academic Year : 2010-2011 |
-
-Batch: 2010-2011 \
-
-Subject: Plant Utilities & Piping Marks: 100 /
-Time: 10,00 am To 1.00 pm
-
-Date: 14/06/2011 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer book, which is provided for use.
-
-NB:
-1. Question paper has two pages.
-2. Question No.1 is compulsory.
-
-4
-
-3. Out of remaining five questions attempt any four.
-
-Q.1 Answer the following questions. (20)
-a) What information is obtained from pump characteristic curve?
-d) What are the different codes used in piping?
-c) Draw a type of steamtrap.
-e) Explain Vacuum distillation.
-
-Q2
-(a) 25 TPH of saturated steam at 20 bar (2797 KJ/Kg) is produced from superheated
-steam at 300C (3025.0 KJ/Kg) & BFW having enthalpy of 900 KJ/Kg. Calculate
-, quantity of superheated steam & BFW required per hour.
-(10)
-(b) Draw a P&ID for a condenser. (10)
-
-Q3
-
-(a) What are the inputs received by a Piping engineer? Explain how each input helps him.
-What are the outputs given by a Piping engineer? Who uses these outputs & how are they
-used. (10)
-(b) Explain the piping for heat exchangers & reboilers. (10)
-
-Q.4 (a) A plant is producing 15 TPH of steam at 180C & 1002.7KPa pressure from water
-at 60C. Fuel is furnace oil having net calorific value of 9400 kcal/kg. Boiler efficiency is
-83%. Enthalpy of steam=554 kcal/kg & enthalpy of water=60 kcal/kg. Cost of furnace oil
-is Rs. 50/kg. Compute cost of furnace oil per hour. (10)
-(b) What are the different types of strainers? Explain any one with diagram. (10)
-
-Q.5 (a) A single stage singie acting compressor delivers 15 cu.m. of free air per minute
-from 1 bar to 8 bar. The speed of compressor is 300 rpm. Assuming that compression &
-
-fo
---- page 2 ---
-expansion follow the law pv! > =constant & clearance is 1/16 of swept volume. Find
-diameter & stroke of compressor. Take L/D=1.5. (10)
-(b) Explain any two (10)
-i. ANSIB31.3
-ii. NFPArules
-ili. Factories act
-iv. ASME section I
-
-Q.6 A refrigeration system requires 20 TR effect at an evaporation temperature of 265K
-& condensation temperature of 303K. Refrigerant is sub cooled by 7C before it enters
-expansion valve & vapor is superheated by 5C before entering compressor suction.
-Compression is isentropic. Determine: (20)
-
-a) Refrigeration effect
-
-b) Wt. of refrigerant circulated
-
-c) Power required by compressor
-
-d) COP
-
-e) Heat removed in condenser
-
-f) Flashing in throttling valve
-
-Data: Cpl=0.99 KK/KgC, Cpv=0.74 KJ/KgC
-
-Pressure, Temperature, Enthalpy, JJ/Kg Entropy, KJ/KgC
-KPa Kk L Vv L Vv
-235.4 265 28.77 185.13 0.115 0.7048
-746.6 303 64.77 201.10 0.2406 0.6903
-````
-
-## 2010-11 · Exam not stated · Trim 7 · paper 2d8683fb4848
+## 2011-12 · Exam not stated · Trim 7 · paper 2d8683fb4848
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -297,6 +305,104 @@ iv. } Line designation list.
 a! x
 
 DZlo
+````
+
+## 2010-11 · Exam not stated · Trim 7 · paper 9a85996ad0a2
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/PLANT UTILITIES AND PIPING/PLANT UTILITIES AND PIPING BACTH 2010-2011.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14/06/2011
+- Text: ocr (2 pages), mean OCR confidence 91.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Programme: MBA Tech - CHEMICAL Year: III Trimester: vu
+Academic Year : 2010-2011 |
+
+Batch: 2010-2011 \
+
+Subject: Plant Utilities & Piping Marks: 100 /
+Time: 10,00 am To 1.00 pm
+
+Date: 14/06/2011 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer book, which is provided for use.
+
+NB:
+1. Question paper has two pages.
+2. Question No.1 is compulsory.
+
+4
+
+3. Out of remaining five questions attempt any four.
+
+Q.1 Answer the following questions. (20)
+a) What information is obtained from pump characteristic curve?
+d) What are the different codes used in piping?
+c) Draw a type of steamtrap.
+e) Explain Vacuum distillation.
+
+Q2
+(a) 25 TPH of saturated steam at 20 bar (2797 KJ/Kg) is produced from superheated
+steam at 300C (3025.0 KJ/Kg) & BFW having enthalpy of 900 KJ/Kg. Calculate
+, quantity of superheated steam & BFW required per hour.
+(10)
+(b) Draw a P&ID for a condenser. (10)
+
+Q3
+
+(a) What are the inputs received by a Piping engineer? Explain how each input helps him.
+What are the outputs given by a Piping engineer? Who uses these outputs & how are they
+used. (10)
+(b) Explain the piping for heat exchangers & reboilers. (10)
+
+Q.4 (a) A plant is producing 15 TPH of steam at 180C & 1002.7KPa pressure from water
+at 60C. Fuel is furnace oil having net calorific value of 9400 kcal/kg. Boiler efficiency is
+83%. Enthalpy of steam=554 kcal/kg & enthalpy of water=60 kcal/kg. Cost of furnace oil
+is Rs. 50/kg. Compute cost of furnace oil per hour. (10)
+(b) What are the different types of strainers? Explain any one with diagram. (10)
+
+Q.5 (a) A single stage singie acting compressor delivers 15 cu.m. of free air per minute
+from 1 bar to 8 bar. The speed of compressor is 300 rpm. Assuming that compression &
+
+fo
+--- page 2 ---
+expansion follow the law pv! > =constant & clearance is 1/16 of swept volume. Find
+diameter & stroke of compressor. Take L/D=1.5. (10)
+(b) Explain any two (10)
+i. ANSIB31.3
+ii. NFPArules
+ili. Factories act
+iv. ASME section I
+
+Q.6 A refrigeration system requires 20 TR effect at an evaporation temperature of 265K
+& condensation temperature of 303K. Refrigerant is sub cooled by 7C before it enters
+expansion valve & vapor is superheated by 5C before entering compressor suction.
+Compression is isentropic. Determine: (20)
+
+a) Refrigeration effect
+
+b) Wt. of refrigerant circulated
+
+c) Power required by compressor
+
+d) COP
+
+e) Heat removed in condenser
+
+f) Flashing in throttling valve
+
+Data: Cpl=0.99 KK/KgC, Cpv=0.74 KJ/KgC
+
+Pressure, Temperature, Enthalpy, JJ/Kg Entropy, KJ/KgC
+235.4 265 28.77 185.13 0.115 0.7048
+746.6 303 64.77 201.10 0.2406 0.6903
 ````
 
 ## 2010-11 · Exam not stated · Trim 7 · paper bfbedd19acda
@@ -833,110 +939,4 @@ b. Differentiate between expansion loop & expansion bellow. 06
 HREREK
 
 Pg.2
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper 4993e48c8943
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/PLANT UTILITIES AND PIPING/scan0010(5).pdf`
-- Printed on paper: max marks: 100; exam date: 05/10/2012
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA-(Tech) - Chemical Year: II Trimester: VII
-
-———
-Academic Year : 2012-2013 es
-
-: : ' Or \
-Subject: PLANT UTILITIES & PIPING Marks: 100 >, SVKMS \
-
-Time: 10. ; at TOM"OOYomnersity ¥
-
-Date: 05/10/2012 Duration: 3 (re. lisnaay jz
-
-Final - Examination Ga i<
-
-Care re
-; i ; ee
-Instructions: Candidates should read carefully the instructions printed on th estipn Rare
-
-on the cover of the Answer book, which is provided for use.
-
-NB:
-1. Question paper has two sections
-2. Question No.1 is compulsory in each section.
-3. Out of remaining six questions attempt any four in each section.
-4. Answer to each question to be started on a fresh page.
-5. Answer to each section must be written on different Answer Books
-
-6. Figures in brackets indicate full marks.
-SECTION I
-
-Q1 Answer the following questions. (Any two) (10)
-a) Reasons-why combustion gases are not directly used for heating process streams.
-b) Explain Condensate treatment to get boiler feed water
-c) Explain importance of deaerator cum expansion tank
-
-Q2A__ Back pressure turbine is supplied with superheated steam (30 bar at 400C, 3232.2 (5)
-KJ/Kg). It exists at (5 bar at 200C, 2885.1 KJ/Kg). Calculate theoretical power.
-Q2B 25 TPH of saturated steam at 20 bar(2797 KJ/Kg) is produced from superheated steam (5)
-\ at 300C (3025.0 KJ/Kg) & BFW having enthalpy of 900 KJ/Kg. Calculate quantity of
-} superheated steam & BFW required per hour.
-
-Q3 Furnace oil is used for heating thermic fluid from 270C to 300C. Mass rate of thermic (10)
-fluid is 70,000 kg/hr. Specific heat of thermic fluid is 0.55 kcal/kgC. Net calorific value
-of furnace oil is 9500 Keal/kg. Composition of furnace oil is C-83%, H-12%, S-3.0%,
-water -1.5% & ash 0.5%. Calculate quantity of furnace oil & air required. List your
-assumptions. :
-
-Q4 | Write notes on (10)
-‘ a) Method of computing make-up & blow down in cooling water system
-
-q } b) Storage & pumping capacity of fire water
-c) Vauum producing equipment
-d) Flares
-
-Q5A __ Anair compressor has clearance ratio of 3%. Suction pressure is 101.325 KPa. (5)
-Polytropic compression coefficient is 1.35. Find discharge pressure where volumetric
-
-efficiency becomes zero.
-
-Q5B__ Advantages of multistage compression (5)
-Q6 Write notes on: (4)
-1) Advantages of vapor compression refrigeration system
-2) Effect of evaporation & condensation pressure on refrigerant selection (3)
---- page 2 ---
-3) Absorption refrigeration system (3)
-
-Q7A Enumerate advantages & limitations of Steam heating & Thermic fluid heating (7)
-
-Q7B __ Reasons for selecting Dowtherm as heating medium. (3)
-SECTION I
-
-Ql Answer the following questions. (10)
-
-a) What is electric resistance heat tracing?
-b) What is the difference between safety valves & pressure relief devices?
-
-Q2 Derive the equation for optimum pipe diameter. Estimate the optimum pipe diameter (10)
-for a water service flow rate of 8 kg/s at 22 C. C.S. pipe is used. Determine whether the
-flow is laminar or turbulent.
-
-Q3 Write a short note on classification of piping materials. (10)
-Q4 What are the inputs received by a Piping engineer? Explain how each input helps him. (10)
-What are the outputs given by a Piping engineer? Who uses these outputs & how are
-they used.
-Q5 Explain (10)
-i. Ball valve
-ii. Globe valve
-Q6 What is a strainer? Explain different types of strainers (10)
-ohn Find the optimum diameter for CO. @1000 Kg/hr at 160 C&10 Kg/cm2 (g) with a (10)
-
-velocity of 15 m/s.
-
-rf
 ````

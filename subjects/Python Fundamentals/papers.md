@@ -207,6 +207,7 @@ im
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Python Fundamentals/Python Fundamentals Batch 2023-24 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 / Dec / 2023
 - Text: ocr (3 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS .
@@ -310,7 +311,6 @@ first 3 columns for deaths greater than 60. (iv). Display records where death
 greater than 100 or regiment first character as ‘D’. (v) Update the deaths of
 Q3 ‘Canada’ by increasing by 5 and display the records.
 
-Cth, regiment deaths | post | armored 20mks
 ining Nighthawks | 523 | USA | Heavy [arava
 ne Nighthawks 52 Austria | Heavy *4]
 Dragoons 43 Canada| Light

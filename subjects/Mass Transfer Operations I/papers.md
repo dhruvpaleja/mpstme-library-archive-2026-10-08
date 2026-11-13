@@ -1,6 +1,6 @@
 # Mass Transfer Operations I: question papers in full
 
-25 unique papers · 2005-06 to 2018-19 · Chemical
+26 unique papers · 2005-06 to 2018-19 · Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -639,6 +639,7 @@ diagrams.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/MASS TRANSFER OPERATIONS I/MASS TRANSFER OPERATIONS I BATCH 2014-2015 FINAL.pdf`
 - Printed on paper: exam date: 06/05/2015
 - Text: ocr (3 pages), mean OCR confidence 72.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -748,12 +749,210 @@ UIV ANG JO DM 3d PH - Ad IWHLNA
 & # £ £ cs g £ © s £ s & & & & @ ©
 &
 XASNOYSW JO WW - SYNSS3Yd HOdVA
-SRA RBRRRRRERNAKR SSE SHES SES wwe ow eo mw — ;
-a fe ee ee ee ee le
 4 1 ttt ttt ppp |
 a g 2 » 284
 
 De - LNIOd M30
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 9f30cd7552c4
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/MASS TRANSFER OPERATIONS I/MASS TRANSFER OPERATIONS I BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 06/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Chemical) Year: Il Semester: IV
+Batch: 2013-14 —
+Academic Year: 2014-2015 it ae oS a
+Subject: Mass Transfer Operations-I f _ , os %,
+Marks: QQpstTM a
+Date: 06/05/2015 Time: | ~ (10.00 am ®Y¥.
+Durations; €.
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1__| Write Short notes on:
+
+a. Penetration Theory 05
+b. Surface Renewal Theory 05
+G Tray Efficiencies 05
+d. Absorption with chemical reaction 05
+Q.2.
+
+a. In an oxygen-nitrogen mixture at 10 atmosphere and 25°C,the concentration of 10
+
+oxygen at two places of 0.2 cm a part are 10 and 20 volume percent respectively.
+Calculate the rate of diffusion of oxygen expressed as gm/cm/? -hr for the case of
+Unicomponent diffusion (nitrogen to non-diffusing).
+
+Data: Value of diffusivity between oxygen-nitrogen=0.181 cm? /sec
+
+R=82.06 atm.cm?/gm.moleK .
+
+b. Molecules of hydrogen chloride diffuse through a thin, static film of water 4mm 10
+thick at 10°C.The concentration of HCL at one boundary of the film is 12% w/w HCL
+(density=1060.7 kg/m* ),and at the other boundary is 6% w/w HCL (density=1030.3
+kg/m: ).the diffusion coefficient of HCL in water is 2.5 X10° m’/sec. Assuming
+steady state and one boundary impermeable to water, calculate the flux of HCL
+using both exact and dilute formulae. Does the dilute formula approximate well to
+the exact one here?
+
+Q3
+
+a. Calculate convective mass transfer coefficient in a wetted wall tower for the 07
+transfer of benzene into carbon dioxide at 0°C.The gas velocity through the column
+is 1.25 m/s. The diameter of the column is 0.16m.Assume that benzene
+concentration in CO, is very low.
+Data: Density-of Carbon Dioxide=1.966 kg/m?
+Viscosity of Carbon Dioxide=5.28X10° Kg/m.sec
+Dag=5.28X10° m7 /sec
+--- page 2 ---
+b. __| Write short note on mass, heat, momentum transfer analogies. 08
+c. Discuss the diffusion through polymer and mention the flux equation. 05
+Q.4 | Write Short notes on:
+a. (i) Wetted Wall Column (ii) Sparged Vessels 12
+b. Compare Packed column with tray tower 08
+Qs ;
+a. A counter current plate absorber is to be installed for scrubbing of an air mixture 12
+Containing 5% ammonia by volume. The scrubber is fed with water containing
+0.002 mole NH; per mole of water. The scrubbing water flows at the rate of 1 mole
+water per mole air. It is necessary to absorb 85% of the ammonia present in the
+gas by operating the absorber at 20 °C. k= 0.80 mole_NH3
+mole NH;/mole of HO
+Calculate the concentration of NH; in the outgoing liquid and estimate number of
+stages necessary for this operation.
+b. Define Absorption factor. What should be the economical range of absorption 04
+factor? :
+G What are the significant Characteristics of ideal solution? 04
+Q.6 | Write Short notes on:
+a. (i) Spray Tower (ii) Psychometric Chart (iii) Types of cooling tower 15
+b. Define the terms: 05
+(i) Humidity (ii) Percentage humidity (iii) Saturation Humidity
+Q7.
+a. With the help of neat sketch explain the construction and working of a rotary drier. | 10
+b. Discuss any one of the method of design of a cooling tower based on calculation of | 10
+
+transfer units and height of transfer units.
+
+— *«
+
+%%
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper e56a07729143
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/MASS TRANSFER OPERATIONS I/Mass Transfer Operations I Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+SVKM’s NMIMS ‘
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CHEMICAL) Year: II Semester: IV
+
+Academic Year: 2014-15
+
+Batch: 2013-14 Fgh a oN
+\ oN
+
+Subject : Mass Transfer Operations-I f
+
+Marks: 100; = ‘{P>STMBE =
+Time : 10.0 to: B. =.
+Date : 29/06/2015 Durations: oR pRY te
+Re-Examination Sones aeRO Si
+
+NOTE:
+1. Question number | is compulsory.
+2. Attempt any four questions from the remaining questions.
+3. All questions carry equal marks.
+
+Qi Write short note on following: [20]
+a) Temperature dependence of Diffusivity in gases & liquids
+b) Working of rotary dryer ,
+c) Describe temperature profiles in cooling tower
+d) Wet bulb temperature & its importance in Air-Water
+system.
+
+Q2 A wet solid of 28% moisture is to be dried to 0.5% moisture in a [20]
+tray drier. A lab test shows that it requires 8 hrs to reduce the
+moisture content of the same solid to 2%. The critical moisture
+content is 6% and the equilibrium moisture is 0.2%. The falling
+rate of drying is linear in the free moisture content. Calculate the
+drying time of the solid if the drying conditions same to those in
+the lab test are maintained. All moistures are expressed as % of
+‘bone dry’ mass of solid.
+
+Q3 A Write a note on Dry Bulb Temperature and Lewis Relationship [10]
+B_ Draw rate of drying curve and explain every term used in it. [10]
+
+Q4 A Well located in the desert is 10 m deep to the water level and 1 [20]
+m in diameter. The stagnant air and water in the well are at 30 C
+and normal atmospheric pressure. A slight breeze of dry air is
+blowing across the top of the Well. Calculate the rate of steady
+state diffusion of water vapor in the Well. (Assume partial
+pressure of water vapor in the air = vapor pressure of water at 30
+C). Assume diffusivity of water vapor in air at 30 C is Dy, = 2.6*
+
+10-5, Vapor pressure of water at 30 C = 4.112 KN/square
+meter. “
+
+Q5 A _ Write a note on NTU and HTU. [10]
+
+4/2
+--- page 2 ---
+B_ Write a short note on Design of Packed column.
+
+[10]
+
+Q6 The carbon dioxide issuing out of fermenter contains 0.01 mole {20]
+
+fraction of ethanol, which has to be reduced to 0.0001 mole
+fraction by scrubbing with water in a countercurrent packed
+tower. The gas flow rate is 227.3 Kmol/hr and may be assumed
+constant throughout the tower. The equilibrium mole fraction of
+ethanol in the gas phase y* is related to that in the liquid x as
+
+y* = 1.07 x
+
+Determine the minimum liquid rate needed and the number of
+overall gas side transfer units needed at 1.5 times the minimum
+
+liquid rate. The entering liquid may be assumed to be free of
+ethanol. :
+
+Q7 A Derive Stefan’s equation for determinin
+
+g diffusivity of a binary [10]
+mixture.
+
+B_ Write a short note on concept of HETP. [10]
 ````
 
 ## 2013-14 · Final-Exam · Sem 4 · paper 3d3d027fccbe
@@ -987,207 +1186,7 @@ b. With the help of neat sketch explain the construction and working of a rotary
 i ~
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 9f30cd7552c4
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/MASS TRANSFER OPERATIONS I/MASS TRANSFER OPERATIONS I BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 06/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Chemical) Year: Il Semester: IV
-Batch: 2013-14 —
-Academic Year: 2014-2015 it ae oS a
-Subject: Mass Transfer Operations-I f _ , os %,
-Marks: QQpstTM a
-Date: 06/05/2015 Time: | ~ (10.00 am ®Y¥.
-Durations; €.
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1__| Write Short notes on:
-
-a. Penetration Theory 05
-b. Surface Renewal Theory 05
-G Tray Efficiencies 05
-d. Absorption with chemical reaction 05
-Q.2.
-
-a. In an oxygen-nitrogen mixture at 10 atmosphere and 25°C,the concentration of 10
-
-oxygen at two places of 0.2 cm a part are 10 and 20 volume percent respectively.
-Calculate the rate of diffusion of oxygen expressed as gm/cm/? -hr for the case of
-Unicomponent diffusion (nitrogen to non-diffusing).
-
-Data: Value of diffusivity between oxygen-nitrogen=0.181 cm? /sec
-
-R=82.06 atm.cm?/gm.moleK .
-
-b. Molecules of hydrogen chloride diffuse through a thin, static film of water 4mm 10
-thick at 10°C.The concentration of HCL at one boundary of the film is 12% w/w HCL
-(density=1060.7 kg/m* ),and at the other boundary is 6% w/w HCL (density=1030.3
-kg/m: ).the diffusion coefficient of HCL in water is 2.5 X10° m’/sec. Assuming
-steady state and one boundary impermeable to water, calculate the flux of HCL
-using both exact and dilute formulae. Does the dilute formula approximate well to
-the exact one here?
-
-Q3
-
-a. Calculate convective mass transfer coefficient in a wetted wall tower for the 07
-transfer of benzene into carbon dioxide at 0°C.The gas velocity through the column
-is 1.25 m/s. The diameter of the column is 0.16m.Assume that benzene
-concentration in CO, is very low.
-Data: Density-of Carbon Dioxide=1.966 kg/m?
-Viscosity of Carbon Dioxide=5.28X10° Kg/m.sec
-Dag=5.28X10° m7 /sec
---- page 2 ---
-b. __| Write short note on mass, heat, momentum transfer analogies. 08
-c. Discuss the diffusion through polymer and mention the flux equation. 05
-Q.4 | Write Short notes on:
-a. (i) Wetted Wall Column (ii) Sparged Vessels 12
-b. Compare Packed column with tray tower 08
-Qs ;
-a. A counter current plate absorber is to be installed for scrubbing of an air mixture 12
-Containing 5% ammonia by volume. The scrubber is fed with water containing
-0.002 mole NH; per mole of water. The scrubbing water flows at the rate of 1 mole
-water per mole air. It is necessary to absorb 85% of the ammonia present in the
-gas by operating the absorber at 20 °C. k= 0.80 mole_NH3
-mole NH;/mole of HO
-Calculate the concentration of NH; in the outgoing liquid and estimate number of
-stages necessary for this operation.
-b. Define Absorption factor. What should be the economical range of absorption 04
-factor? :
-G What are the significant Characteristics of ideal solution? 04
-Q.6 | Write Short notes on:
-a. (i) Spray Tower (ii) Psychometric Chart (iii) Types of cooling tower 15
-b. Define the terms: 05
-(i) Humidity (ii) Percentage humidity (iii) Saturation Humidity
-Q7.
-a. With the help of neat sketch explain the construction and working of a rotary drier. | 10
-b. Discuss any one of the method of design of a cooling tower based on calculation of | 10
-
-transfer units and height of transfer units.
-
-— *«
-
-%%
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper e56a07729143
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/MASS TRANSFER OPERATIONS I/Mass Transfer Operations I Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-SVKM’s NMIMS ‘
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CHEMICAL) Year: II Semester: IV
-
-Academic Year: 2014-15
-
-Batch: 2013-14 Fgh a oN
-\ oN
-
-Subject : Mass Transfer Operations-I f
-
-Marks: 100; = ‘{P>STMBE =
-Time : 10.0 to: B. =.
-Date : 29/06/2015 Durations: oR pRY te
-Re-Examination Sones aeRO Si
-
-NOTE:
-1. Question number | is compulsory.
-2. Attempt any four questions from the remaining questions.
-3. All questions carry equal marks.
-
-Qi Write short note on following: [20]
-a) Temperature dependence of Diffusivity in gases & liquids
-b) Working of rotary dryer ,
-c) Describe temperature profiles in cooling tower
-d) Wet bulb temperature & its importance in Air-Water
-system.
-
-Q2 A wet solid of 28% moisture is to be dried to 0.5% moisture in a [20]
-tray drier. A lab test shows that it requires 8 hrs to reduce the
-moisture content of the same solid to 2%. The critical moisture
-content is 6% and the equilibrium moisture is 0.2%. The falling
-rate of drying is linear in the free moisture content. Calculate the
-drying time of the solid if the drying conditions same to those in
-the lab test are maintained. All moistures are expressed as % of
-‘bone dry’ mass of solid.
-
-Q3 A Write a note on Dry Bulb Temperature and Lewis Relationship [10]
-B_ Draw rate of drying curve and explain every term used in it. [10]
-
-Q4 A Well located in the desert is 10 m deep to the water level and 1 [20]
-m in diameter. The stagnant air and water in the well are at 30 C
-and normal atmospheric pressure. A slight breeze of dry air is
-blowing across the top of the Well. Calculate the rate of steady
-state diffusion of water vapor in the Well. (Assume partial
-pressure of water vapor in the air = vapor pressure of water at 30
-C). Assume diffusivity of water vapor in air at 30 C is Dy, = 2.6*
-
-10-5, Vapor pressure of water at 30 C = 4.112 KN/square
-meter. “
-
-Q5 A _ Write a note on NTU and HTU. [10]
-
-4/2
---- page 2 ---
-B_ Write a short note on Design of Packed column.
-
-[10]
-
-Q6 The carbon dioxide issuing out of fermenter contains 0.01 mole {20]
-
-fraction of ethanol, which has to be reduced to 0.0001 mole
-fraction by scrubbing with water in a countercurrent packed
-tower. The gas flow rate is 227.3 Kmol/hr and may be assumed
-constant throughout the tower. The equilibrium mole fraction of
-ethanol in the gas phase y* is related to that in the liquid x as
-
-y* = 1.07 x
-
-Determine the minimum liquid rate needed and the number of
-overall gas side transfer units needed at 1.5 times the minimum
-
-liquid rate. The entering liquid may be assumed to be free of
-ethanol. :
-
-Q7 A Derive Stefan’s equation for determinin
-
-g diffusivity of a binary [10]
-mixture.
-
-B_ Write a short note on concept of HETP. [10]
-````
-
-## 2012-13 · Re-Exam · Trim 5 · paper 738b9e450335
+## 2013-14 · Re-Exam · Trim 5 · paper 738b9e450335
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -1303,7 +1302,7 @@ Raensscon] X------
 Page 2 of 2
 ````
 
-## 2012-13 · Re-Exam · Trim 5 · paper 5e9e5da3fad2
+## 2013-14 · Re-Exam · Trim 5 · paper 5e9e5da3fad2
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -2043,11 +2042,11 @@ e) Any two type of cooling towers
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/MASS TRANSFERT OPERATIONS I/2009-2010(53).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 86.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 QVKM's NIMINS
 
-M weak atl ¢ chunyl a Te Ace hy Mew fe _& A ies
 
 - 1 STUTE DE Mtg
 od Che Orintin ge TN,
@@ -2646,6 +2645,90 @@ Q.7 Write notes on :
 5 ae
 ````
 
+## 2007-08 · Re-Exam · Trim 5 · paper 8dc2411b8c09
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/CHEMICAL ENGINEERING THEMODYNAMICS/2007-2008 batch re exam(1).pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+SVKM’S NMIMS
+Mukesh Patel School of Technology Management & Engineering
+MBA(Tech.), Second Year, Trimester — VIC REME CH Ly
+Academic year - 2006 F-O8
+Subject : Mass Transfer Operations—I Date: \4 /°l / 29\0
+
+¥ an = - Marks: 100 Time: 3 H
+Re- Enc aminethion - 2O8%-10 arks C2 oopm te S00 PM]
+
+Instructions: Candidates should read carefully the instructions printed on the question
+
+paper and on the cover of the Answer Book, which is provided for their use. ag aiTUTE OF May Mg
+NB: . gr
+1. Quest ion No.1 is compulsory. Sf ps tME Yo
+2. Out of remaining questions, attempt any four questions. \ nf 7 vRY ) &
+3. Inall 5 questions to be attempted. BS ‘=
+4. All questions carry equal marks. < Nig ame
+5. Answer to each new question to be started on a fresh page. a
+(20)
+
+Q.1. Attempt any four of the following:
+
+(a) Define diffusivity and explain one method of estimation of diffusivity.
+
+(b) Explain the two-film theory of mass transfer. Write the assumptions of this
+theory.
+
+(c) Write the effects of temperature and pressure on the solubility of gases in
+liquid.
+
+(d) Define adiabatic saturation temperature and wet bulb temperature.
+
+(e) Write the merits and demerits of batch and continuous drying operations.
+
+Q.2 (a) Derive the expression for molar flux of binary mass transfer for equi-molal (10)
+counter diffusion.
+(b) For a diffusion of solute A through a layer of gas to an absorbing liquid, (10)
+calculate the ratio of transfer rate for one way diffusion to that for equi-molal
+diffusion if ya = 0.25 and yaj= 0.15.
+
+Q.3 (a) Explain co-current, counter current and cross current methods of contacting (\o )
+phases for mass transfer. State with reasons the applications of each method.
+(b) Explain the concepts of NTS and NTU in counter current steady state mass (|0 )
+transfer operation.
+
+Q.4 (a) On y-x diagram sketch the Operating line and Equilibrium line for a single ¢ \ 0)
+stage mass transfer operation. Write the overall and component mass balance
+the equation of operating line. .
+(b) For a single stage mass transfer operation, the feed contains 5 wt% solute. (io >)
+Calculate the minimum Solvent to Feed ratio to transfer 60 % of solute from
+feed to solvent if the distribution coefficient Xs/Xp on weight basis is 1.2 and
+mutual solubility values are negligible.
+(PTO)
+--- page 2 ---
+Q.5 (a) In a counter current gas absorption concentrations of solute in inlet and outlet \0)
+of the gas stream are 0.05 and 0.005 mole fractions respectively. The solvent
+used is fresh, S/F ratio is 1.2 times the minimum, the concentration of solute
+in the outgoing solvent is 0.45 moles per mole of solvent. calculate the
+number of Theoratical Satges.
+(b) Write the effects of various factors to be considered for selection of a solvent ( 10)
+for gas absorption.
+
+Q.6 (a) With the help of typical drying curve for a porous solid material define (i) rate (i 0)
+of drying, (ii) critical moisture content, (iii) equilibrium moisture content.
+Explain the mechanism of drying for the constant rate and falling rate.
+
+(b) Explain the design procedure for a typical Rotary Dryer. ¢ 10)
+Q.7 Write notes on:
+(a) Heat, Mass and Momentum Transfer analogy Cie)
+(b) Types of cooling towers ae >)
+AL ve
+
+/\
+````
+
 ## 2007-08 · Re-Exam · Trim 5 · paper 954355bdfad3
 
 - Departments: Chemical
@@ -2854,9 +2937,9 @@ d) Fluidised bed driers
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/MASS TRANSFERT OPERATIONS I/2005-2006(21).pdf`
 - Printed on paper: max marks: 100; exam date: 20/01/2006
 - Text: ocr (2 pages), mean OCR confidence 92.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-NARS. EE INSTITU! ANAGEMENT STUDIES MBAI-56.
 (DEEMED UNIVERSITY)
 
 MBA-TECH II YR. TRIM.V (2005-06)

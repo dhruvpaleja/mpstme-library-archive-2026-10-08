@@ -14,17 +14,17 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045, MBATech AI 7051, MBATech Computer 7047 | ANS_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041 | QP_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech DS 7052 | QP_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045, MBATech AI 7051, MBATech Computer 7047 | ANS_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBA TECH | Integrated Marketing Communication, Final Exam 2024-25.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Integrated Marketing Communication(703TM0E004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Integrated Marketing Communication(703TM0E004)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Integrated Marketing Communication(703TM0E004)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 9 | MBA TECH | Integrated Marketing Communication , Final 23-24.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 9 | MBA TECH | Integrated Marketing Commn,Final,2022-23.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 9 | MBA TECH | Integrated Marketing Communication,Re-exam 2022-23.pdf |

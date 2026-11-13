@@ -278,7 +278,7 @@ in
 FOR GR RE
 ````
 
-## 2024-25 · Final-Exam · Sem 5 · paper a3578a16650f
+## 2023-24 · Final-Exam · Sem 5 · paper a3578a16650f
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL

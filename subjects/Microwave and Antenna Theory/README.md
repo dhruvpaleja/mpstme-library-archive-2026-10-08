@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Microwave and Antenna Theory(702EX0C020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC | Microwave and Antenna Theory, Sem-V, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech EXTC 7006 | QP_Microwave and Antenna Theory(702EX0C020)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Microwave and Antenna Theory(702EX0C020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Microwave and Antenna Theory(702EX0C020)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech EXTC 7006 | QP_Microwave and Antenna Theory(702EX0C020)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Microwave and Antenna Theory(702EX0C020)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC | Microwave and Antena Theory, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC, MBA TECH / EXTC | Microwave and Antenna Theory, Sem-V, 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC, MBA TECH / EXTC | Microwave & Antenna Theory , Final 2023-24.pdf |

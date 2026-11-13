@@ -105,6 +105,7 @@ FIC 2 I HH ar
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/INDIAN KNOWLEDGE SYSTEMS/Indian Knowlege System 2025-26 Final Exam.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 88.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -159,7 +160,6 @@ SO-1;
 
 BL-2
 
-RRRRRRRRER RRA RRR RAE
 --- page 2 ---
 Q3.
 
@@ -221,7 +221,6 @@ SO-1;
 
 BL-1
 
-d FRI RRA dee ak dee ok ak
 
 Ga)
 ````
@@ -233,6 +232,7 @@ Ga)
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_Mechanical_7003/Indian Knowledge System/QP_Indian Knowledge System(702BS0I023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (3 pages), mean OCR confidence 57.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

@@ -1,229 +1,10 @@
 # Analog and Integrated Circuits: question papers in full
 
-6 unique papers · 2005-06 to 2009-10 · Electronics and Telecommunication
+6 unique papers · 2005-06 to 2010-11 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2009-10 · Exam not stated · Trim 4 · paper c098655ad7ec
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ANALOG AND INTEGRATED CIRCUITS/2009-2010(85).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS UNIVERSITY
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
-MBA TECH(Telecom) Programme II Year
-Trimester IV, 2009-2010
-
-Subject: Analog Integrated Circuits Max Marks:100
-Date: -lo -¢€ 1G Time allowed 3Hrs
--_ a-OO -S-
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer book, which is provide for their use.
-
-NB:
-1.’ Question No. 1 is compulsory.
-2. Out of the remaining questions, attempt any 4.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicate full marks.
-
-1. Attempt any four: - (20)
-
-a) Draw and explain functional block description of IC8038.
-
-b) Draw and explain functional diagram of IC 555.
-
-c) Draw the circuit diagram of inverting Schmitt trigger using op-amp and explain with
-waveforms. What is hysteresis voltage?
-
-d) Explain how IC 566 can be used as VCO. Draw the circuit using IC 566 as VCO to
-generate fy = 10 KHZ, supply voltage is 12 V, R= 10K and c =0.001 pf.
-If fy is required to be changed to 8KHZ, what is the change required in the control
-
-+ voltage? ;
-
-2. a) Deign a colpitts oscillator for the oscillation frequency of 5 KHZ .why clapp
-oscillator is better then colpitt oscillator. (10)
-
-b) Draw the block diagram of IC XR-2206 and explain in brief. (10)
-
-3. a) Explain R-2R Ladder DAC , hence derive the equation for output voltage. (10)
-b) Draw and explain astable multivibrator using op- amp with wave forms. (10)
-
-4. a) Explain , with circuit diagram the operation of FSK generator using IC 555 .state
-
-The equation for output frequency. (10)
-b) What are the limitations of three terminal regulators? How those can be overcome
-by IC 723? Explain the remedies with functional diagram of IC 723. (10)
-
-: PTO
---- page 2 ---
-*
-
-5. a) Design 2™ order high pass filter for the cut off frequency of 10 KHZ .Draw its
-
-frequency response also. (10)
-b) Explain the basic principal of PLL .Explain any one application of PLL .What is
-the significance of capture range. (10)
-
-6. a) Draw and explain circuit diagram of op- amps based sample and hold circuit.
-
-Suggest a monolithic circuit .and explain how it can be used. (10)
-b) What are the different applications of Balanced modulator IC 1496 . Explain
-
-those applications with the help of block diagrams. (id) —
-7. Write short notes (Attempt any 4) (20)
-
-a) Comparator as Zero crossing detector.
-b) Clamper using diode
-
-c) Inverting Amplifier
-
-d) Precision Rectifier
-
-e) Switching mode regulator
-
-f) IC 555 as missing pulse detector.
-
-x a ae
-````
-
-## 2008-09 · Exam not stated · Trim 4 · paper 3e92fb0f0127
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ANALOG AND INTEGRATED CIRCUITS/2008-2009(84).pdf`
-- Printed on paper: duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 83.4
-
-````text
-MBA ( Tech ) Telecom , I] Year
-Trimester IV, 2008- 2009.
-
-Subject : Analog Integrated Circuits. :
-Date: 2.60.0 & ~ Time Allowed: 3hrs.
-
-2:00 -SODpm :
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. AlJ questions carry equal marks.
-
-5. Answer to each new questions to be started on a fresh page.
-6. Figure in brackets indicate full marks.
-
-Q 1. What is the output waveform for the following circuits: (20 M)
-tMPE
-
-1
-ts ESsinwt out
-
-on
-
-v\
-
--§ +
-Input
-=
-2) Tn put
-aS 65 sinwt Up
-vi =
--S
-
-PTC
---- page 2 ---
-4) +40 5) gtvee
-lok I,
-99k S R mi 2u A z yy
-s tG re
-No input zoe AP ° tle Pa SSS 3}-—so/p
-fe _
-ool: a Zz 2 Va 2: a
-Zox —L Sf TES
-Fe a L oie | pom ae pa ibe O-)UF
-olupay 3 $ " 7
-es s
-e
-
-Q 2.a) Design a colpitts oscillator for the oscillation frequency of 5 KHz. Why clapp
-oscillator is better then colpitt oscillator. (10M)
-
-b) What is the significance of Op-Amp base ac amplifiers. Explain non- inverting ac
-amplifier and draw its frequency response also. (10 M)
-Q 3.a) Design 2" order high pass filter for the cut off frequency of 10 KHz. Draw its
-
-frequency response also. (10 M)
-
-b) Design a square wave generator using Op-Amp for getting output frequency of
-2 KHz. (05 M)
-
-c) Show how following circuit can work like antilog amplifier (05 M)
-
-R
-
-+/\/\A—
-Vv D eet Vo
---- page 3 ---
-hee
-
-——_ 3 —
-
-Q 4.a) Design IC 555 in monostable mode of operation for time of 0.5 ms. Derive the
-expression of Ton for monostable multivibrater by using output waveforms. (12 M)
-
-b) Describe the function of following pins related with timer IC 555. (08 M)
-1) Reset
-2) Discharge
-3) Control pin
-4) Trigger
-
-Q 5.a) Explain the basic principle of PLL. Explain any one application of PLL. What is the
-significance of capture range (10 M)
-
-b) Draw and explain circuit diagram of Op-Amps based sample and hold circuit.
-Suggest a monolithic circuit. And explain how it can be used. (10M)
-
-Q 6.a) What are the different applications of Balanced Modulator IC 1496. Explain those
-applications with the help of Block diagrams. (10 M)
-
-b) What are the advantages of three terminal adjustable Voltage Regulator. Draw &
-explain typical connection diagram of LM 317 Regulator. (08 M)
-
-c) What is the main difference between XR 2206 & IC 8038 function Generator ICs
-(02 M)
-
-Q 7. Write short notes (Attempt any 4) (20 M)
-
-1) Comparator as Zero crossing detector
-2) Clamper using diode
-
-3) DAC Monolithic circuit
-
-4) Function Generator IC XR 2206
-
-5) Inverting Amplifier
-
-6) Precision Rectifier
-
-7*
-````
-
-## 2008-09 · Re-Exam · Trim 4 · paper ef064eee40e9
+## 2010-11 · Re-Exam · Trim 4 · paper ef064eee40e9
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -336,6 +117,225 @@ vi) Diode based clamper (20)
 a
 ````
 
+## 2009-10 · Exam not stated · Trim 4 · paper c098655ad7ec
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ANALOG AND INTEGRATED CIRCUITS/2009-2010(85).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS UNIVERSITY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
+MBA TECH(Telecom) Programme II Year
+Trimester IV, 2009-2010
+
+Subject: Analog Integrated Circuits Max Marks:100
+Date: -lo -¢€ 1G Time allowed 3Hrs
+-_ a-OO -S-
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer book, which is provide for their use.
+
+NB:
+1.’ Question No. 1 is compulsory.
+2. Out of the remaining questions, attempt any 4.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicate full marks.
+
+1. Attempt any four: - (20)
+
+a) Draw and explain functional block description of IC8038.
+
+b) Draw and explain functional diagram of IC 555.
+
+c) Draw the circuit diagram of inverting Schmitt trigger using op-amp and explain with
+waveforms. What is hysteresis voltage?
+
+d) Explain how IC 566 can be used as VCO. Draw the circuit using IC 566 as VCO to
+generate fy = 10 KHZ, supply voltage is 12 V, R= 10K and c =0.001 pf.
+If fy is required to be changed to 8KHZ, what is the change required in the control
+
++ voltage? ;
+
+2. a) Deign a colpitts oscillator for the oscillation frequency of 5 KHZ .why clapp
+oscillator is better then colpitt oscillator. (10)
+
+b) Draw the block diagram of IC XR-2206 and explain in brief. (10)
+
+3. a) Explain R-2R Ladder DAC , hence derive the equation for output voltage. (10)
+b) Draw and explain astable multivibrator using op- amp with wave forms. (10)
+
+4. a) Explain , with circuit diagram the operation of FSK generator using IC 555 .state
+
+The equation for output frequency. (10)
+b) What are the limitations of three terminal regulators? How those can be overcome
+by IC 723? Explain the remedies with functional diagram of IC 723. (10)
+
+: PTO
+--- page 2 ---
+*
+
+5. a) Design 2™ order high pass filter for the cut off frequency of 10 KHZ .Draw its
+
+frequency response also. (10)
+b) Explain the basic principal of PLL .Explain any one application of PLL .What is
+the significance of capture range. (10)
+
+6. a) Draw and explain circuit diagram of op- amps based sample and hold circuit.
+
+Suggest a monolithic circuit .and explain how it can be used. (10)
+b) What are the different applications of Balanced modulator IC 1496 . Explain
+
+those applications with the help of block diagrams. (id) —
+7. Write short notes (Attempt any 4) (20)
+
+a) Comparator as Zero crossing detector.
+b) Clamper using diode
+
+c) Inverting Amplifier
+
+d) Precision Rectifier
+
+e) Switching mode regulator
+
+f) IC 555 as missing pulse detector.
+
+x a ae
+````
+
+## 2008-09 · Exam not stated · Trim 4 · paper 3e92fb0f0127
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ANALOG AND INTEGRATED CIRCUITS/2008-2009(84).pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 83.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+MBA ( Tech ) Telecom , I] Year
+Trimester IV, 2008- 2009.
+
+Subject : Analog Integrated Circuits. :
+Date: 2.60.0 & ~ Time Allowed: 3hrs.
+
+2:00 -SODpm :
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. AlJ questions carry equal marks.
+
+5. Answer to each new questions to be started on a fresh page.
+6. Figure in brackets indicate full marks.
+
+Q 1. What is the output waveform for the following circuits: (20 M)
+tMPE
+
+1
+ts ESsinwt out
+
+on
+
+v\
+
+-§ +
+Input
+=
+2) Tn put
+aS 65 sinwt Up
+vi =
+-S
+
+PTC
+--- page 2 ---
+4) +40 5) gtvee
+lok I,
+s tG re
+No input zoe AP ° tle Pa SSS 3}-—so/p
+fe _
+ool: a Zz 2 Va 2: a
+Zox —L Sf TES
+Fe a L oie | pom ae pa ibe O-)UF
+olupay 3 $ " 7
+es s
+e
+
+Q 2.a) Design a colpitts oscillator for the oscillation frequency of 5 KHz. Why clapp
+oscillator is better then colpitt oscillator. (10M)
+
+b) What is the significance of Op-Amp base ac amplifiers. Explain non- inverting ac
+amplifier and draw its frequency response also. (10 M)
+Q 3.a) Design 2" order high pass filter for the cut off frequency of 10 KHz. Draw its
+
+frequency response also. (10 M)
+
+b) Design a square wave generator using Op-Amp for getting output frequency of
+2 KHz. (05 M)
+
+c) Show how following circuit can work like antilog amplifier (05 M)
+
+R
+
++/\/\A—
+Vv D eet Vo
+--- page 3 ---
+hee
+
+——_ 3 —
+
+Q 4.a) Design IC 555 in monostable mode of operation for time of 0.5 ms. Derive the
+expression of Ton for monostable multivibrater by using output waveforms. (12 M)
+
+b) Describe the function of following pins related with timer IC 555. (08 M)
+1) Reset
+2) Discharge
+3) Control pin
+4) Trigger
+
+Q 5.a) Explain the basic principle of PLL. Explain any one application of PLL. What is the
+significance of capture range (10 M)
+
+b) Draw and explain circuit diagram of Op-Amps based sample and hold circuit.
+Suggest a monolithic circuit. And explain how it can be used. (10M)
+
+Q 6.a) What are the different applications of Balanced Modulator IC 1496. Explain those
+applications with the help of Block diagrams. (10 M)
+
+b) What are the advantages of three terminal adjustable Voltage Regulator. Draw &
+explain typical connection diagram of LM 317 Regulator. (08 M)
+
+c) What is the main difference between XR 2206 & IC 8038 function Generator ICs
+(02 M)
+
+Q 7. Write short notes (Attempt any 4) (20 M)
+
+1) Comparator as Zero crossing detector
+2) Clamper using diode
+
+3) DAC Monolithic circuit
+
+4) Function Generator IC XR 2206
+
+5) Inverting Amplifier
+
+6) Precision Rectifier
+
+7*
+````
+
 ## 2007-08 · Exam not stated · Trim 4 · paper 0fc9fa468f6a
 
 - Departments: Electronics and Telecommunication
@@ -421,6 +421,7 @@ x ——————= “A
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ANALOG AND INTEGRATED CIRCUITS/2006-2007(47).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NARSEE MONJEE INSTITUTE OF MANAGEMENT & HIGHER STUDIES
@@ -429,7 +430,6 @@ SUBJECT: Analog and digital circuits
 COURSE: MBATECH IV TRIM. (TELECOMM) MAX.MARKS: 100
 
 ACADEMIC YEAR: 2006-2007 DURATION: 3 HOURS
-“Deke ARlb gq lok Timi as - 3-6 bo bw 9.
 Instructions: 8] NM & ‘ ig) P 9
 1. Question no. 1 is compulsory. Attempt any four from remaining
 questions.
@@ -556,6 +556,7 @@ Fy
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ANALOG AND INTEGRATED CIRCUITS/2005-2006(42).pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 *
@@ -572,7 +573,6 @@ NARSEE MONJEE INSTITUTE OF MANAGEMENT STUDIES
 (DEEMED UNIVERSITY)
 COURSE:- IV (Trimester)(Telecomm.) ; F.M.:100
 SUBJECT:- Analog & Digital circuits DURATION: 3 hrs
-Dake Blo] os~ Time - |leooam to Qvy,
 
 Instructions:
 1. Attempt five questions with minimum two questions from each section.

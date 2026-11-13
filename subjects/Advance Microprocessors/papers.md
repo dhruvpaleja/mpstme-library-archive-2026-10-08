@@ -1,8 +1,114 @@
 # Advance Microprocessors: question papers in full
 
-3 unique papers · 2013-14 to 2013-14 · Electronics
+3 unique papers · 2013-14 to 2014-15 · Electronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2014-15 · Re-Exam · Sem 5 · paper bc94955a867e
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONIC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/V SEMESTER/ADVANCE MICROPROCESSORS/ADVANCED MICROPROCESSOR B TECH (ELECTRONICS) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 27/11/2014
+- Text: ocr (3 pages), mean OCR confidence 89.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Electronics)
+
+ares pois pote z Year: III Semester: V
+Academic Year: 2014-2015 =
+Subject: Advanced Microprocessor “oi i
+Date: 27/11/2014 a 1a aa
+/ Time: Ff ier 46 5.06%
+Durations: ‘\3%hrs)i BRARY Ap
+Re-Examination ws * hap
+
+a talent
+
+Instructions: - Candidates should read carefully the instruction prinied on the question paper
+and on the cover of the Answer book, which is provided for their use.
+
+NB:
+
+_ 1) Question No. 1 is compulsory.
+
+2) Out of thé remaining questions, attempt any FOUR questions.
+3) i all, five questions are to be attempted.
+
+4) All the questions carry equal marks:
+
+5) Answer to each new question to be started on the fresh page.
+
+6) Figures in bracket on the right hand side indicate full marks.
+
+Ql
+a) Compare the real mode and protected mode of 80386DX. [05]
+b) What is Task State Segment (TSS) for 80386DX? Explain briefly. [05]
+c) Which factors will affect the Hit Rate for the cache memory? [05]
+
+d) Discuss the advantages of segmentation of memory in 80386. [05]
+
+Vs
+--- page 2 ---
+Q.2 It is required to design the system based on 80386DX with following specifications: [20]
+a) 80386DX working at 25MHz.
+b) 128KB of EPROM using 32KB EPROM chips.
+c) 256KB of SRAM using 64KB SRAM chips.
+
+Draw the memory map for the above system. Draw the interfacing diagram of the system.
+
+Q.3
+
+a) Explain the protection mechanism for code segment, data segment and stack
+segment in 80386DX. [10]
+
+b) Compare and contrast the following cache organizations:
+a. One way set associative cache organization.
+
+b. Two way set associative cache organization. [10]
+
+Q4
+a) Justify the need for the following registers of 80386: [10]
+
+i. GDTR
+ii. LDTR Selector
+iii. IDTR
+iv. TR Selector
+
+b) Show the procedure with reasons to perform the address translation for the
+segmentation in 80386 supported with diagram. [10]
+
+Q.5
+
+a) Explain how task switching is implemented in 80386. Support your answer with
+an appropriate diagram. [10]
+
+b) 80386DX has an instruction ‘ARPL”. Describe the instruction with respect to the
+function and its application. [10]
+--- page 3 ---
+Q6
+
+Q7
+
+a) Analyze the concept of paging and show the procedure of implementing paging
+mechanism in 80386dx. What is the role of Translation Look-aside Buffer (TLB)?
+
+[10]
+
+b) Explain protected mode interrupt and exceptions and their vector transfer
+methods. {i6j
+Write short notes: (Any Tw? ) peas [20]
+
+a) 80386EX architecture
+b) 80386DX IOPL
+
+c) Virtual 86 Mode of 80386DX
+
+% %
+````
 
 ## 2013-14 · Final-Exam · Sem 5 · paper 5fddfaccdbc1
 
@@ -107,112 +213,6 @@ c) Virtual 86 Mode of 80386DX
 a ‘% i eee
 
 3}3
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper bc94955a867e
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONIC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/V SEMESTER/ADVANCE MICROPROCESSORS/ADVANCED MICROPROCESSOR B TECH (ELECTRONICS) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 27/11/2014
-- Text: ocr (3 pages), mean OCR confidence 89.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Electronics)
-
-ares pois pote z Year: III Semester: V
-Academic Year: 2014-2015 =
-Subject: Advanced Microprocessor “oi i
-Date: 27/11/2014 a 1a aa
-/ Time: Ff ier 46 5.06%
-Durations: ‘\3%hrs)i BRARY Ap
-Re-Examination ws * hap
-
-a talent
-
-Instructions: - Candidates should read carefully the instruction prinied on the question paper
-and on the cover of the Answer book, which is provided for their use.
-
-NB:
-
-_ 1) Question No. 1 is compulsory.
-
-2) Out of thé remaining questions, attempt any FOUR questions.
-3) i all, five questions are to be attempted.
-
-4) All the questions carry equal marks:
-
-5) Answer to each new question to be started on the fresh page.
-
-6) Figures in bracket on the right hand side indicate full marks.
-
-Ql
-a) Compare the real mode and protected mode of 80386DX. [05]
-b) What is Task State Segment (TSS) for 80386DX? Explain briefly. [05]
-c) Which factors will affect the Hit Rate for the cache memory? [05]
-
-d) Discuss the advantages of segmentation of memory in 80386. [05]
-
-Vs
---- page 2 ---
-Q.2 It is required to design the system based on 80386DX with following specifications: [20]
-a) 80386DX working at 25MHz.
-b) 128KB of EPROM using 32KB EPROM chips.
-c) 256KB of SRAM using 64KB SRAM chips.
-
-Draw the memory map for the above system. Draw the interfacing diagram of the system.
-
-Q.3
-
-a) Explain the protection mechanism for code segment, data segment and stack
-segment in 80386DX. [10]
-
-b) Compare and contrast the following cache organizations:
-a. One way set associative cache organization.
-
-b. Two way set associative cache organization. [10]
-
-Q4
-a) Justify the need for the following registers of 80386: [10]
-
-i. GDTR
-ii. LDTR Selector
-iii. IDTR
-iv. TR Selector
-
-b) Show the procedure with reasons to perform the address translation for the
-segmentation in 80386 supported with diagram. [10]
-
-Q.5
-
-a) Explain how task switching is implemented in 80386. Support your answer with
-an appropriate diagram. [10]
-
-b) 80386DX has an instruction ‘ARPL”. Describe the instruction with respect to the
-function and its application. [10]
---- page 3 ---
-Q6
-
-Q7
-
-a) Analyze the concept of paging and show the procedure of implementing paging
-mechanism in 80386dx. What is the role of Translation Look-aside Buffer (TLB)?
-
-[10]
-
-b) Explain protected mode interrupt and exceptions and their vector transfer
-methods. {i6j
-Write short notes: (Any Tw? ) peas [20]
-
-a) 80386EX architecture
-b) 80386DX IOPL
-
-c) Virtual 86 Mode of 80386DX
-
-% %
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper aa10182ba748

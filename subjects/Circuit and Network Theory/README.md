@@ -16,13 +16,13 @@ Also filed as: `CIRCUITS AND NETWORK THEORY`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Circuit and Network Theory(702EX0C030)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Circuit and Network Theory(702EX0C030)_2025-2026_afcdc69dd1.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | B TECH / EXTC | Circuit & Network Theory, Sem-III, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech EXTC 7006 | QP_Circuit and Network Theory(702EX0C030)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech EXTC 7006 | QP_Circuit and Network Theory(702EX0C030)_2025-2026_ca277da260.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Circuit and Network Theory(702EX0C030)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Circuit and Network Theory(702EX0C030)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Circuit and Network Theory(702EX0C030)_2025-2026_afcdc69dd1.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech EXTC 7006 | QP_Circuit and Network Theory(702EX0C030)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Circuit and Network Theory(702EX0C030)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / EXTC | Circuit and Networks Theory, Sem-I, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | Circuit and Network Theory, Sem-III, Batch 2023-24 & 2024-25 Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B TECH / EXTC | Circuit and Network Theory, Sem-III, Fianl Exam & Re Exam 2022-23, A Y 2023-24.pdf |

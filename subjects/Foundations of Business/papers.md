@@ -1,8 +1,125 @@
 # Foundations of Business: question papers in full
 
-11 unique papers · 2022-23 to 2024-25 · Common (all branches), Data Science
+11 unique papers · 2022-23 to 2025-26 · Common (all branches), Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 1 · paper 47f1ae1e8acc
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/FOUNDATIONS OF BUSINESS/B Tech (CSE-DS), Foundations of Business, Sem-I Batch 2024-25 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 92.7
+
+````text
+SVKM’S NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2025-2026
+
+Program: B.Tech = Stream :csbs Year: I Semester: I
+Subject: Foundations of Business : Time: 3 hrs (2t00pm to, 5200pm_)
+Date: 29 / 1) /25 ; No. of Pages: 3
+
+Marks: 100
+
+Re Examination (24- 25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. :
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+[20]
+CO-2 SO-4 | a. | Define Management and discuss the two main aspects of Management giving two
+BL-2 examples
+CO3; SO-1; | b. | Explain the meaning of Corporate Social Responsibility and how it is connected to -
+BL-2 Ethics. . :
+CO-4 SO-3 | ¢. Briefly explain what a “Vision Statement” is giving an example
+BL-3 _
+Wee $0-2 jd. Enumerate any four Barriers to effective Communication
+Q2 a | Why would an economist choose either the neoclassical perspective or the
+Keynesian perspective, but not both? [20]
+CO- SO-3 Could a security’s intrinsic value to an investor ever differ from the security’s
+BL-3 b | market value? If so, under what circumstances?
+a | Enumerate the four types of Plans generally used in the Planning Process and
+Q3 CO3- b describe any two.
+SO0-2BL-3 Enumerate the different types of structures used generally by Organizations and [20]
+
+describe any two. .
+
+Q4 Read the Case Study attached and answer the questions given below: [20]
+--- page 2 ---
+C€0-3 SO-2 |a | What resource or capability challenges have Uber and Lyft faced because their
+
+BL-4 fast company
+growth?
+b | What industry challenges (think of Porter’s Five Forces) does the use of self-
+driving cars address?
+
+a | If investors were not risk averse on average, but rather were either risk
+
+Q5 indifferent (neutral) or even liked risk, would the risk-return concepts
+CO-1 SO-5; presented in this chapter be valid? [20]
+BL-3 b | Explain why converging economies may present a strong argument for ;
+
+limiting flows of capital but not for limiting trade.
+
+Q6 a Explain the elements of Emotional Intelligence in Goleman’s Situational Theory of
+CO-3 SO-5 Ssalain cle i by “S' ic Control” and why it is important f [20]
+BL-2 Explain clearly what is meant by “Strategic Control’ and why t is important for
+
+b Organizations.
+
+a_ | Explain briefly the Process of Control Function in Organizations. Give two examples
+
+Q7 , from the Industry.
+
+CO-2 SO-5 | 4 | Discuss what is a Balanced Score Card and its Components. Explain its importance [20]
+
+BL-2 for Organizations
+
+Case Study (Pertains to Question 4)
+
+Technology and Innovation: The Transportation of the Future
+
+Although the ride-sharing industry is still relatively new, it has seen explosive growth, and its two main
+rivals, Uber and Lyft, are looking for ways to increase their capacity to serve riders. Both firms, and rivals
+like them, operate in basically the same way. A person needing a ride uses a smartphone app to alert a
+nearby person with a car of their location. The driver, usually an independent contractor for the service :
+(meaning they are just a person with a car that has signed up to provide rides in exchange for a portion of
+the fare the customer pays), picks up the customer and drives them to their destination. Paying for the ride is
+also handled through the app, and the driver receives about 75-80% of the fare, with Uber or Lyft keeping
+
+the balance.
+
+The popularity of ride-sharing services has soared, and both companies are constantly recruiting more
+drivers. However, both companies have also explored alternatives to independent drivers: self-driving cars.
+Uber and Lyft have taken different paths to develop this capability. Uber has worked to internally develop
+its own software technology and self-driving car technology, while Lyft has focused on software interfaces
+that can accommodate other companies’ self-driving cars. Lyft’s partnerships with firms such as Google and
+GM that are already developing self-driving cars has put it ahead of Uber in the race to get driverless
+vehicles into its ride-sharing network, and it was able to test self-driving cars in Boston by partnering with
+--- page 3 ---
+Nu-Tonomy in 2017. Lyft offered a demonstration to journalists at the Consumer Electronics Show in Las
+Vegas in 2018, offering rides in self-driving cars developed by Aptiv. Uber had been testing similar
+technology in Pittsburgh but suspended its self-driving car program after a fatal pedestrian accident in
+Arizona.
+--- page 4 ---
+
+````
 
 ## 2024-25 · Final-Exam · Sem 1 · paper 7d578abebbf2
 
@@ -425,123 +542,6 @@ Depreciation: 65,000; Marketing Expenses: 1,00,000; Legal Fees: 55,000; Closing 
 ********** 3 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 1 · paper 47f1ae1e8acc
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/FOUNDATIONS OF BUSINESS/B Tech (CSE-DS), Foundations of Business, Sem-I Batch 2024-25 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 92.7
-
-````text
-SVKM’S NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2025-2026
-
-Program: B.Tech = Stream :csbs Year: I Semester: I
-Subject: Foundations of Business : Time: 3 hrs (2t00pm to, 5200pm_)
-Date: 29 / 1) /25 ; No. of Pages: 3
-
-Marks: 100
-
-Re Examination (24- 25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. :
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-[20]
-CO-2 SO-4 | a. | Define Management and discuss the two main aspects of Management giving two
-BL-2 examples
-CO3; SO-1; | b. | Explain the meaning of Corporate Social Responsibility and how it is connected to -
-BL-2 Ethics. . :
-CO-4 SO-3 | ¢. Briefly explain what a “Vision Statement” is giving an example
-BL-3 _
-Wee $0-2 jd. Enumerate any four Barriers to effective Communication
-Q2 a | Why would an economist choose either the neoclassical perspective or the
-Keynesian perspective, but not both? [20]
-CO- SO-3 Could a security’s intrinsic value to an investor ever differ from the security’s
-BL-3 b | market value? If so, under what circumstances?
-a | Enumerate the four types of Plans generally used in the Planning Process and
-Q3 CO3- b describe any two.
-SO0-2BL-3 Enumerate the different types of structures used generally by Organizations and [20]
-
-describe any two. .
-
-Q4 Read the Case Study attached and answer the questions given below: [20]
---- page 2 ---
-C€0-3 SO-2 |a | What resource or capability challenges have Uber and Lyft faced because their
-
-BL-4 fast company
-growth?
-b | What industry challenges (think of Porter’s Five Forces) does the use of self-
-driving cars address?
-
-a | If investors were not risk averse on average, but rather were either risk
-
-Q5 indifferent (neutral) or even liked risk, would the risk-return concepts
-CO-1 SO-5; presented in this chapter be valid? [20]
-BL-3 b | Explain why converging economies may present a strong argument for ;
-
-limiting flows of capital but not for limiting trade.
-
-Q6 a Explain the elements of Emotional Intelligence in Goleman’s Situational Theory of
-CO-3 SO-5 Ssalain cle i by “S' ic Control” and why it is important f [20]
-BL-2 Explain clearly what is meant by “Strategic Control’ and why t is important for
-
-b Organizations.
-
-a_ | Explain briefly the Process of Control Function in Organizations. Give two examples
-
-Q7 , from the Industry.
-
-CO-2 SO-5 | 4 | Discuss what is a Balanced Score Card and its Components. Explain its importance [20]
-
-BL-2 for Organizations
-
-Case Study (Pertains to Question 4)
-
-Technology and Innovation: The Transportation of the Future
-
-Although the ride-sharing industry is still relatively new, it has seen explosive growth, and its two main
-rivals, Uber and Lyft, are looking for ways to increase their capacity to serve riders. Both firms, and rivals
-like them, operate in basically the same way. A person needing a ride uses a smartphone app to alert a
-nearby person with a car of their location. The driver, usually an independent contractor for the service :
-(meaning they are just a person with a car that has signed up to provide rides in exchange for a portion of
-the fare the customer pays), picks up the customer and drives them to their destination. Paying for the ride is
-also handled through the app, and the driver receives about 75-80% of the fare, with Uber or Lyft keeping
-
-the balance.
-
-The popularity of ride-sharing services has soared, and both companies are constantly recruiting more
-drivers. However, both companies have also explored alternatives to independent drivers: self-driving cars.
-Uber and Lyft have taken different paths to develop this capability. Uber has worked to internally develop
-its own software technology and self-driving car technology, while Lyft has focused on software interfaces
-that can accommodate other companies’ self-driving cars. Lyft’s partnerships with firms such as Google and
-GM that are already developing self-driving cars has put it ahead of Uber in the race to get driverless
-vehicles into its ride-sharing network, and it was able to test self-driving cars in Boston by partnering with
---- page 3 ---
-Nu-Tonomy in 2017. Lyft offered a demonstration to journalists at the Consumer Electronics Show in Las
-Vegas in 2018, offering rides in self-driving cars developed by Aptiv. Uber had been testing similar
-technology in Pittsburgh but suspended its self-driving car program after a fatal pedestrian accident in
-Arizona.
---- page 4 ---
-
-````
-
 ## 2023-24 · Final + Re-Exam · Sem 1 · paper 425a9e5820ea
 
 - Departments: Common (all branches)
@@ -618,79 +618,84 @@ Q Discuss the scope of hospitality industry and the components of tourism indust
 CO-4; SO4-; BL-11
 ````
 
-## 2023-24 · Re-Exam · Sem 1 · paper 653fff1b6f81
+## 2023-24 · Re-Exam · Sem 1 · paper e225e7a40caa
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/FOUNDATIONS OF BUSINESS/Foundations of Business, Sem-I, Year 2023-24, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 March 2023
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/FOUNDATIONS OF BUSINESS/Foundations of Business, Sem-I, Year 2022-23, Special Re-Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 88.9
 
 ````text
-‘SVKM’S NMIMS
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT }
+Academic Year: 2023-2024 oe
+Program/s: B. Tech Stream : CSEDS Year: I Semester: I
+Stream/s : CSEDS
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Subject: Foundations of Business . Time: 3 hrs ( Zprn toS pwn )
+Date:_O7 Jn2 ) 202.4 : No. of Pages:1
 
-Program: B.Tech (CSE Data Science) ‘ Year: I Semester : I
+Marks: 100
 
-AcademicYear: 2022-23
-Subject: Foundations of Business Marks: 100
+Re-Examination
 
-Time: 11.00 am - 2.00 pm
-
-Date : 03 March 2023
-Durations: 3 (Hrs)
-
-Re - Examination (2022-23) No. of Pages: 4
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 1) Question No. _1___ is compulsory.
 
-2) Out of remaining questions, attempt any __4 _ questions.
-3) Inall___5_ questions to be attempted. MPSTME
-4) All questions carry equal marks. LIBRARY
+- 2) Out of remaining questions, attempt any 4 _ questions.
+
+3)In all__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
 
-7) Assume Suitable data if necessary.
+7) Assume Suitable data if necessary
 
 8) Sub questions of Question No.1 carry 5 marks each.
 
 9) Sub questions of Question No.2, 3, 4, 5 and 6 carry 10 marks each.
 
-Ql Answer briefly: [20]
+Qi Answer briefly: [20]
 
-co-2;$0-5;8t- | * | Describe FW Taylor’s Principles of Scientific Management.
+CO-1 ; SO-4 ;BL-11 = Examine the advantages and disadvantages of a Partnership.
 
-co-4;S0-4 ;BL- | ©» | Describe “Product” and “Place” of Marketing Mix.
-co-1;S0-4;8L- |“ | Explain basic characteristics of Organic Organizations.
-co-6 ;S0-4;8L- | 4 | Illustrate any two ethical dilemmas faced by a Bank Manager.
+CO-2;S0-5;BL-11 | > | {Illustrate the two different types of plans based on the FREQUENCY OF USE.
 
-Q - | Express the scope of Hospitality Industry? [20]
-CO-2; $0-5;BL- | 6 | What are the elements of Entrepreneurial Ecosystem?
+c. | Interpret the following terms in the context of Organizations:
 
-a. | Discuss Mc Gregor’s Theory X and Y.
+CO-3 ; SO-4 ;BL-11 (i) Chain of Command (ii) Bureaucracy
+(iii) Delayering (iv) Decentralization
+0-4; $0-4;BL-11 | 4. | Describe as to who are the “users” of Accounting Information System.
+—| Q2 - | Illustrate three types of Dividend Policies. [20]
 
-a an Explain the strengths and allowable weaknesses of the following 4 team roles of [20]
-oa Belbin’s theory: Resource Investigator; Plant, Shaper, Specialist.
+CO-5; SO-3;BL-12 b. | Discuss briefly the Theory X and Theory Y by Douglas McGregor.
+3 | What is an Economic Cycle? Examine its stages. 20]
+CO-1; SO-4; BL-11 b. | Examine four basic types of Market Segmentation.
 
-04 a. | Explain the features of Strategic Plans.
+a. | Explain features of a Team, its advantages and disadvantages.
+Q4 b. | Describe the Belbin’s Team Role, strengths and weaknesses of the following: [20]
+CO-2; SO-5;BL-11 i) Shaper
 
-What do you understand by classification of costs by Nature and classification of | [0]
-CO-3; SO-4;BL- :
+ii) Monitor Evaluator
 
-costs by Functions?
-Qs 2. | What are the three common sources of funding available for Companies? (20)
-co-5;s0-4;8t- |» | Inspect the meaning of “Bond”. Give an example.
-6 2. | Explain the four stages of an Economic Cycle. {20}
-CO-4; SO-1;BL- >. | Explain concurrent controls in detail and illustrate with an example?
-a sides’ What are-the seven main: functions of operational management? (20]
+Qs * | Illustrate briefly Balanced Score Card, Benchmarking, GANTT Charts and PERT Charts. [20]
+CO-6; SO-4; BL-8 5. | Illustrate common ethical dilemmas faced by Corporate Managers.
 
-t/t:
+a. | Interpret how Operations Management integrates with other business functions like
+Q6 b. | Finance & Accounts, Marketing, Human Resource, Management Information System and 20]
+CO-3; SO-4;BL-11 Entrepreneurship.
+
+Describe “) the Role or Importance of Entrepreneurship in Economic Development?
+
+a Discuss the characteristics of hospitality industry. (20)
+
+CO-4; SO4-; BL-11
 ````
 
 ## 2022-23 · Final-Exam · Sem 1 · paper 84876afd52bd
@@ -834,82 +839,77 @@ CO-3; SO-4; BL-
 h
 ````
 
-## 2022-23 · Re-Exam · Sem 1 · paper e225e7a40caa
+## 2022-23 · Re-Exam · Sem 1 · paper 653fff1b6f81
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/FOUNDATIONS OF BUSINESS/Foundations of Business, Sem-I, Year 2022-23, Special Re-Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/FOUNDATIONS OF BUSINESS/Foundations of Business, Sem-I, Year 2023-24, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 March 2023
 - Text: ocr (1 page), mean OCR confidence 88.9
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT }
-Academic Year: 2023-2024 oe
-Program/s: B. Tech Stream : CSEDS Year: I Semester: I
-Stream/s : CSEDS
+‘SVKM’S NMIMS
 
-Subject: Foundations of Business . Time: 3 hrs ( Zprn toS pwn )
-Date:_O7 Jn2 ) 202.4 : No. of Pages:1
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
 
-Marks: 100
+Program: B.Tech (CSE Data Science) ‘ Year: I Semester : I
 
-Re-Examination
+AcademicYear: 2022-23
+Subject: Foundations of Business Marks: 100
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Time: 11.00 am - 2.00 pm
+
+Date : 03 March 2023
+Durations: 3 (Hrs)
+
+Re - Examination (2022-23) No. of Pages: 4
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
 1) Question No. _1___ is compulsory.
 
-- 2) Out of remaining questions, attempt any 4 _ questions.
-
-3)In all__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
+2) Out of remaining questions, attempt any __4 _ questions.
+3) Inall___5_ questions to be attempted. MPSTME
+4) All questions carry equal marks. LIBRARY
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
 
-7) Assume Suitable data if necessary
+7) Assume Suitable data if necessary.
 
 8) Sub questions of Question No.1 carry 5 marks each.
 
 9) Sub questions of Question No.2, 3, 4, 5 and 6 carry 10 marks each.
 
-Qi Answer briefly: [20]
+Ql Answer briefly: [20]
 
-CO-1 ; SO-4 ;BL-11 = Examine the advantages and disadvantages of a Partnership.
+co-2;$0-5;8t- | * | Describe FW Taylor’s Principles of Scientific Management.
 
-CO-2;S0-5;BL-11 | > | {Illustrate the two different types of plans based on the FREQUENCY OF USE.
+co-4;S0-4 ;BL- | ©» | Describe “Product” and “Place” of Marketing Mix.
+co-1;S0-4;8L- |“ | Explain basic characteristics of Organic Organizations.
+co-6 ;S0-4;8L- | 4 | Illustrate any two ethical dilemmas faced by a Bank Manager.
 
-c. | Interpret the following terms in the context of Organizations:
+Q - | Express the scope of Hospitality Industry? [20]
+CO-2; $0-5;BL- | 6 | What are the elements of Entrepreneurial Ecosystem?
 
-CO-3 ; SO-4 ;BL-11 (i) Chain of Command (ii) Bureaucracy
-(iii) Delayering (iv) Decentralization
-0-4; $0-4;BL-11 | 4. | Describe as to who are the “users” of Accounting Information System.
-—| Q2 - | Illustrate three types of Dividend Policies. [20]
+a. | Discuss Mc Gregor’s Theory X and Y.
 
-CO-5; SO-3;BL-12 b. | Discuss briefly the Theory X and Theory Y by Douglas McGregor.
-3 | What is an Economic Cycle? Examine its stages. 20]
-CO-1; SO-4; BL-11 b. | Examine four basic types of Market Segmentation.
+a an Explain the strengths and allowable weaknesses of the following 4 team roles of [20]
+oa Belbin’s theory: Resource Investigator; Plant, Shaper, Specialist.
 
-a. | Explain features of a Team, its advantages and disadvantages.
-Q4 b. | Describe the Belbin’s Team Role, strengths and weaknesses of the following: [20]
-CO-2; SO-5;BL-11 i) Shaper
+04 a. | Explain the features of Strategic Plans.
 
-ii) Monitor Evaluator
+What do you understand by classification of costs by Nature and classification of | [0]
+CO-3; SO-4;BL- :
 
-Qs * | Illustrate briefly Balanced Score Card, Benchmarking, GANTT Charts and PERT Charts. [20]
-CO-6; SO-4; BL-8 5. | Illustrate common ethical dilemmas faced by Corporate Managers.
+costs by Functions?
+Qs 2. | What are the three common sources of funding available for Companies? (20)
+co-5;s0-4;8t- |» | Inspect the meaning of “Bond”. Give an example.
+6 2. | Explain the four stages of an Economic Cycle. {20}
+CO-4; SO-1;BL- >. | Explain concurrent controls in detail and illustrate with an example?
+a sides’ What are-the seven main: functions of operational management? (20]
 
-a. | Interpret how Operations Management integrates with other business functions like
-Q6 b. | Finance & Accounts, Marketing, Human Resource, Management Information System and 20]
-CO-3; SO-4;BL-11 Entrepreneurship.
-
-Describe “) the Role or Importance of Entrepreneurship in Economic Development?
-
-a Discuss the characteristics of hospitality industry. (20)
-
-CO-4; SO4-; BL-11
+t/t:
 ````

@@ -1,10 +1,10 @@
 # Financial Institutions and Markets: question papers in full
 
-19 unique papers · 2008-09 to 2021-22 · Common (all branches), Data Science
+19 unique papers · 2008-09 to 2022-23 · Common (all branches), Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2021-22 · Re-Exam · paper dc309acb0179
+## 2022-23 · Re-Exam · paper dc309acb0179
 
 - Departments: Data Science
 - Programmes: M TECH / DATA SCIENCE
@@ -76,6 +76,127 @@ principal and interest rates) (10 marks)
 KKK
 
 4/4
+````
+
+## 2021-22 · Final-Exam · Sem 6 · paper ca17fc5fd3e2
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM VI/FINANCIAL INSTITUTION AND MARKET/B Tech, Data Science, Financial Institution and Market, 3rd Year, Sem-VI, Final E_0d1243da.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+Academic Year: 2021-22
+
+Programme: B.Tech (Data Science) Year: III Semester: VI /
+Subject: Financial Institution and Market
+
+: a Marks: 100
+Date: 16 April 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+. No. of Pages: 2
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+qi
+Answer briefly: [20]
+
+CO- 2; SO- ; a.
+
+BL- RBI [4]
+Understand
+
+CO- 2; SO-; b.
+
+BL- IRDA [4]
+Understand
+
+CO-2;SO-; | c. Hire Purchase [4]
+BL-Analyse
+
+CO-3;S0-; | d. Credit Rating [4]
+BL- Analyse
+
+CO-3;SO-; |e. | _pg 1994 [4]
+BL- Analyse
+Q2 [20]
+CO-1; SO-; a.
+
+BL- Explain the components of Indian Financial system with its weakness [10]
+Remember & .
+Understand
+CO-1; SO-; b. What are the objectives and functions of SEBI? [10]
+
+V2
+--- page 2 ---
+BL-
+Understand
+& Apply
+
+s Q3 [20]
+
+CO-1 & 2; a.
+SO-; What is meant by Financial Intermediaries? How are they classified? [10]
+BL- Analyze :
+
+CO-1 & 2; b.
+SO-;
+
+Bl What is meant by a Bank? What are the different types of Banks in India? | [10]
+
+Understand
+
+& Apply
+
+a4 [20]
+
+CO-2; SO-; a. . . . . .
+Bt Apply Explain the different types of Capital Markets in India. [10]
+
+CO-2; SO-; ‘b. What is a Financial Derivative? What are the different types of financial
+
+[10]
+BL- Analyze Derivatives?
+
+Qs
+[20]
+
+CO- 3; SO-; a.
+BL- Apply & Explain the different types of public issue in an equity market in detail. [10]
+
+Analyze
+
+2:60.- b.
+x sci What are the sources of long term funds to a company? [10]
+
+“ [20]
+
+-3-S0-- a.
+alert What is meant by Leasing? What are its features? [10]
+BL- Analyze
+
+co-3;S0-; | » ;
+, , What is a mutual fund? Explain the different types of mutual funds. [10]
+BL- Analyze
+
+2/2
 ````
 
 ## 2019-20 · Final-Exam · paper 43b911d088c2
@@ -459,6 +580,70 @@ a. Market based Financial System _b. AMFI
 be
 ````
 
+## 2016-17 · Re-Exam · Sem 1 · paper 9223fc20d54b
+
+- Departments: Data Science
+- Programmes: M TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM I SPRING/SEM I/FINANCIAL INSTITUTIONS AND MARKETS/Financial Institution and Markets Batch 2015-16 Re Exam.pdf`
+- Printed on paper: exam date: 27 May 2017
+- Text: ocr (1 page), mean OCR confidence 92.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: M. Tech - Data Science (Business Analytics) “ Year: I
+Batch: 2015-16 «
+
+Semester: Spring Sem I
+
+¢
+
+Academic Year: 2016-2017
+
+Subject: Financial Institutions & Markets a
+Marks: .
+Date: 27 May 2017 0; pm to 4.00 YP ec
+Ca 2 eh &
+Re-Examination ~ Crea a y
+
+Instruction: Candidates should read carefully the instructions printed on the questio
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+1. What are the different types of NBFC s operating in India? Discuss the role played by them in the
+economy. (14 Marks)
+
+2. Describe the role played by Merchants banker in detail. (14 Marks)
+
+3. “Banks are an important financial intermediary in the financial system” Discuss. What are the fee
+
+based and fund based services provided by them. (14 Marks)
+4. Why is Debt market an important segment in of the capital market? Who are the participants in Debt
+Market? (14 Marks)
+5. What is Mutual funds? What are the benefits of investing in Mutual funds? Explain the differences
+between open-ended and closed ended scheme. (14 Marks)
+6. Compare Certificate of Deposit with Commercial Papers. (14 Marks)
+
+7. “Central bank maintains price stability by ensuring adequate flow of credit to productive sectors”.
+Briefly explain the statement. (14 Marks)
+
+Uf
+````
+
 ## 2015-16 · Final-Exam · paper 6e5ad93df00e
 
 - Departments: Data Science
@@ -628,70 +813,6 @@ NB:
 (d) Debt Markets
 
 1/1
-````
-
-## 2015-16 · Re-Exam · Sem 1 · paper 9223fc20d54b
-
-- Departments: Data Science
-- Programmes: M TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM I SPRING/SEM I/FINANCIAL INSTITUTIONS AND MARKETS/Financial Institution and Markets Batch 2015-16 Re Exam.pdf`
-- Printed on paper: exam date: 27 May 2017
-- Text: ocr (1 page), mean OCR confidence 92.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: M. Tech - Data Science (Business Analytics) “ Year: I
-Batch: 2015-16 «
-
-Semester: Spring Sem I
-
-¢
-
-Academic Year: 2016-2017
-
-Subject: Financial Institutions & Markets a
-Marks: .
-Date: 27 May 2017 0; pm to 4.00 YP ec
-Ca 2 eh &
-Re-Examination ~ Crea a y
-
-Instruction: Candidates should read carefully the instructions printed on the questio
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-1. What are the different types of NBFC s operating in India? Discuss the role played by them in the
-economy. (14 Marks)
-
-2. Describe the role played by Merchants banker in detail. (14 Marks)
-
-3. “Banks are an important financial intermediary in the financial system” Discuss. What are the fee
-
-based and fund based services provided by them. (14 Marks)
-4. Why is Debt market an important segment in of the capital market? Who are the participants in Debt
-Market? (14 Marks)
-5. What is Mutual funds? What are the benefits of investing in Mutual funds? Explain the differences
-between open-ended and closed ended scheme. (14 Marks)
-6. Compare Certificate of Deposit with Commercial Papers. (14 Marks)
-
-7. “Central bank maintains price stability by ensuring adequate flow of credit to productive sectors”.
-Briefly explain the statement. (14 Marks)
-
-Uf
 ````
 
 ## 2014-15 · Final-Exam · Sem 9 · paper 1b95498d812a
@@ -1015,6 +1136,183 @@ a) Role of Financial Markets b) America options vs. European options
 
 K —— %
 YR
+````
+
+## 2012-13 · Exam not stated · Trim 14 · paper 04ed0d09214f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Financial Institution and markets/scan0010(17).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 11/01/2013
+- Text: ocr (3 pages), mean OCR confidence 91.4
+
+````text
+f
+
+GERI
+SVKM’s NMIMS he
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (Tech) -ALL STREAMS Year: V_ Trimester: XIV if
+Academic Year : 2012-2013
+
+Subject: FINANCIAL INSTITUTIONS AND MARKETS Marks: 50
+Time: 11.00 a.m To-1.00 p.m
+Date: 11/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+Instruction : Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, whipch is provided for their use.
+
+NB:
+
+1) Question No. 1 & 2 are compulsory.
+
+2) Out of remaining questions, attempt any 2 questions.
+
+8) In all 4 questions to be attempted.
+
+4) Marks are indicated against question.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate tuli marks. |
+
+Question. I. Answer (Any Ten) (10 Marks)
+
+1. The face or par value of a bond is
+a) The amount paid by the issuer when the bond matures
+b) Its price in the secondary market
+c) The amount paid by the investor when the bond is purchased.
+d) Its anticipated yield to maturity
+
+“2. How many securities are there in Nifty index?
+a) 30
+b) 100
+c) 500
+d) 50 ~
+
+3. Exchange Traded futures contracts are
+a) Customized
+b) Non-novated
+Standardised
+d) All of them
+
+4. The minimum number of members in-a public limited company is
+a) 10
+b) 20
+ce) No limit
+4 } d) 7
+5. Which of the following do not issue securities in the primary market?
+a) Fllsv
+b) State Governments
+c) Companies
+d) None of the above
+--- page 2 ---
+a) SEBI
+
+b) Company Law Board
+c) RBI
+
+d) Ministry of Finance
+
+6; the highest authority among the following is the
+
+“i. What is the main responsibility of the underwriting department of a life
+(\ insurance Company?
+a) To guard against adverse selection
+b) To set a limit on the amount of insurance issued
+c) To set adequate insurance rates
+d) To avoid exposure that could result in loss
+een the government decides economic policy through the budget, it is
+a) Monetary Policy
+b) Fiscal Policy.
+
+c) Income Policy
+d) Exchange rate Policy
+
+9/ Money market mutual fund can invest in__.
+a) Treasury Bills
+b) Certificate of Deposits
+c) Commercial paper
+4d) Allofthe above —
+
+(0) The Mumbai Stock Exchange is a
+* a) Corporate entity
+b) Partnership Firm
+c) Association of Persons
+d) None of them
+
+1.) An insurance Company reduces its risk by
+a) Rejecting insurance applications
+b) Imposing a high deductible
+c) Reinsuring with re-insurers
+gd) Employing the principle of contribution
+
+13 Ares investing in equity share is better than investing in equity share
+through a mutual fund because of
+a) Tailor — made portfolio
+b) Absence of distribution expenses
+q } c) Control over cost
+- d) Allofthe above .
+--- page 3 ---
+13. gives the buyer the buyer the right, but not the obligation to sell
+a given quantity of underlying asset as a given price on or before a given
+future date
+
+a) put option
+b) forward}
+c) future
+
+d) call option
+
+14. FDI holding in Indian Insurance Co. cannot exceed
+a) 100%
+b) 74%
+c) 49%
+d) 26% -
+
+15. ULIP is under monitoring / controlling authority of
+
+a. SEBI -
+
+b. IRDA -
+c. RBI
+
+Question II Write Short Notes on (Any 4). (20 Marks)
+
+a) Fixed Income securities NCD & Preference Shares.
+b) Schemes of Mutual Funds (Broad Out-line).
+.c) Benefits of Securitization.
+
+eee & Lease with Example.
+: Future & Options.
+
+f) Features of V/C & P/E Funding.
+xgY Covered Call & Protective Put
+er Detariffing and its impact on insured / insurer.
+Question III . (10 Marks)
+
+Discuss Prudential Accounting & Provisioning Norms relating to Credit / Advances
+& Investment.
+
+Question IV (10 Marks)
+
+What is meant by Capital Adequacy Ratio? Explain 3 Pillars of BASEL IT and
+discuss Credit Management Technique in Banks.
+
+Question V (10 Marks)
+
+‘ What is Capital & Debt Market? Narrate major reforms in Primary & Secondary
+Market.
+
+Question VI (10 Marks)
+
+ention Powers & Functions of IRDA and Main Reforms introduced by IRDA
+commenting on Agenda ahead.
+
+%
+Bf,
 ````
 
 ## 2010-11 · Exam not stated · Trim 14 · paper 8bd1be719503
@@ -1483,302 +1781,4 @@ a. Certificate of Deposit
 b. Depositories (NSDL and CDSL)
 c. Insurance Regulatory and Development Authority (IRDA)
 d. Global Depository Receipt (GDR) and American Depository Receipt ADR
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 04ed0d09214f
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Financial Institution and markets/scan0010(17).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 11/01/2013
-- Text: ocr (3 pages), mean OCR confidence 91.4
-
-````text
-f
-
-GERI
-SVKM’s NMIMS he
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (Tech) -ALL STREAMS Year: V_ Trimester: XIV if
-Academic Year : 2012-2013
-
-Subject: FINANCIAL INSTITUTIONS AND MARKETS Marks: 50
-Time: 11.00 a.m To-1.00 p.m
-Date: 11/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-Instruction : Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, whipch is provided for their use.
-
-NB:
-
-1) Question No. 1 & 2 are compulsory.
-
-2) Out of remaining questions, attempt any 2 questions.
-
-8) In all 4 questions to be attempted.
-
-4) Marks are indicated against question.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate tuli marks. |
-
-Question. I. Answer (Any Ten) (10 Marks)
-
-1. The face or par value of a bond is
-a) The amount paid by the issuer when the bond matures
-b) Its price in the secondary market
-c) The amount paid by the investor when the bond is purchased.
-d) Its anticipated yield to maturity
-
-“2. How many securities are there in Nifty index?
-a) 30
-b) 100
-c) 500
-d) 50 ~
-
-3. Exchange Traded futures contracts are
-a) Customized
-b) Non-novated
-Standardised
-d) All of them
-
-4. The minimum number of members in-a public limited company is
-a) 10
-b) 20
-ce) No limit
-4 } d) 7
-5. Which of the following do not issue securities in the primary market?
-a) Fllsv
-b) State Governments
-c) Companies
-d) None of the above
---- page 2 ---
-a) SEBI
-
-b) Company Law Board
-c) RBI
-
-d) Ministry of Finance
-
-6; the highest authority among the following is the
-
-“i. What is the main responsibility of the underwriting department of a life
-(\ insurance Company?
-a) To guard against adverse selection
-b) To set a limit on the amount of insurance issued
-c) To set adequate insurance rates
-d) To avoid exposure that could result in loss
-een the government decides economic policy through the budget, it is
-a) Monetary Policy
-b) Fiscal Policy.
-
-c) Income Policy
-d) Exchange rate Policy
-
-9/ Money market mutual fund can invest in__.
-a) Treasury Bills
-b) Certificate of Deposits
-c) Commercial paper
-4d) Allofthe above —
-
-(0) The Mumbai Stock Exchange is a
-* a) Corporate entity
-b) Partnership Firm
-c) Association of Persons
-d) None of them
-
-1.) An insurance Company reduces its risk by
-a) Rejecting insurance applications
-b) Imposing a high deductible
-c) Reinsuring with re-insurers
-gd) Employing the principle of contribution
-
-13 Ares investing in equity share is better than investing in equity share
-through a mutual fund because of
-a) Tailor — made portfolio
-b) Absence of distribution expenses
-q } c) Control over cost
-- d) Allofthe above .
---- page 3 ---
-13. gives the buyer the buyer the right, but not the obligation to sell
-a given quantity of underlying asset as a given price on or before a given
-future date
-
-a) put option
-b) forward}
-c) future
-
-d) call option
-
-14. FDI holding in Indian Insurance Co. cannot exceed
-a) 100%
-b) 74%
-c) 49%
-d) 26% -
-
-15. ULIP is under monitoring / controlling authority of
-
-a. SEBI -
-
-b. IRDA -
-c. RBI
-
-Question II Write Short Notes on (Any 4). (20 Marks)
-
-a) Fixed Income securities NCD & Preference Shares.
-b) Schemes of Mutual Funds (Broad Out-line).
-.c) Benefits of Securitization.
-
-eee & Lease with Example.
-: Future & Options.
-
-f) Features of V/C & P/E Funding.
-xgY Covered Call & Protective Put
-er Detariffing and its impact on insured / insurer.
-Question III . (10 Marks)
-
-Discuss Prudential Accounting & Provisioning Norms relating to Credit / Advances
-& Investment.
-
-Question IV (10 Marks)
-
-What is meant by Capital Adequacy Ratio? Explain 3 Pillars of BASEL IT and
-discuss Credit Management Technique in Banks.
-
-Question V (10 Marks)
-
-‘ What is Capital & Debt Market? Narrate major reforms in Primary & Secondary
-Market.
-
-Question VI (10 Marks)
-
-ention Powers & Functions of IRDA and Main Reforms introduced by IRDA
-commenting on Agenda ahead.
-
-%
-Bf,
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper ca17fc5fd3e2
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM VI/FINANCIAL INSTITUTION AND MARKET/B Tech, Data Science, Financial Institution and Market, 3rd Year, Sem-VI, Final E_0d1243da.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-Academic Year: 2021-22
-
-Programme: B.Tech (Data Science) Year: III Semester: VI /
-Subject: Financial Institution and Market
-
-: a Marks: 100
-Date: 16 April 2022 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-. No. of Pages: 2
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-qi
-Answer briefly: [20]
-
-CO- 2; SO- ; a.
-
-BL- RBI [4]
-Understand
-
-CO- 2; SO-; b.
-
-BL- IRDA [4]
-Understand
-
-CO-2;SO-; | c. Hire Purchase [4]
-BL-Analyse
-
-CO-3;S0-; | d. Credit Rating [4]
-BL- Analyse
-
-CO-3;SO-; |e. | _pg 1994 [4]
-BL- Analyse
-Q2 [20]
-CO-1; SO-; a.
-
-BL- Explain the components of Indian Financial system with its weakness [10]
-Remember & .
-Understand
-CO-1; SO-; b. What are the objectives and functions of SEBI? [10]
-
-V2
---- page 2 ---
-BL-
-Understand
-& Apply
-
-s Q3 [20]
-
-CO-1 & 2; a.
-SO-; What is meant by Financial Intermediaries? How are they classified? [10]
-BL- Analyze :
-
-CO-1 & 2; b.
-SO-;
-
-Bl What is meant by a Bank? What are the different types of Banks in India? | [10]
-
-Understand
-
-& Apply
-
-a4 [20]
-
-CO-2; SO-; a. . . . . .
-Bt Apply Explain the different types of Capital Markets in India. [10]
-
-CO-2; SO-; ‘b. What is a Financial Derivative? What are the different types of financial
-
-[10]
-BL- Analyze Derivatives?
-
-Qs
-[20]
-
-CO- 3; SO-; a.
-BL- Apply & Explain the different types of public issue in an equity market in detail. [10]
-
-Analyze
-
-2:60.- b.
-x sci What are the sources of long term funds to a company? [10]
-
-“ [20]
-
--3-S0-- a.
-alert What is meant by Leasing? What are its features? [10]
-BL- Analyze
-
-co-3;S0-; | » ;
-, , What is a mutual fund? Explain the different types of mutual funds. [10]
-BL- Analyze
-
-2/2
 ````

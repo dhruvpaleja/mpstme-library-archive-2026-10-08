@@ -1,8 +1,93 @@
 # Sustainable Energy Technologies: question papers in full
 
-53 unique papers · 2021-22 to 2025-26 · Common (all branches), Computer Engineering, Artificial Intelligence, Information Technology, Data Science, Cyber Security, Electronics and Telecommunication, Mechatronics, AI and Data Science, Civil, Mechanical
+53 unique papers · 2021-22 to 2025-26 · Common (all branches), Computer Engineering, Artificial Intelligence, Information Technology, Data Science, AI and Data Science, Cyber Security, Electronics and Telecommunication, Mechatronics, Civil, Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 5 · paper 3ef1cc55edc4
+
+- Departments: AI and Data Science
+- Programmes: BTech AIDS 7056
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_AIDS_7056/Sustainable Energy Technologies/QP_Sustainable Energy Technologies(702CE0I001)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA
+Tech (DS)
+Year: III/Semester V(Exam Year: 2025-2026)
+Subject: Sustainable Energy Technologies
+Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly
+CO-1;   (a)   Define Energy and classify the different types of energy based on the source with   (4)
+BL-2   suitable example.
+CO-2;   (b)   Explain energy management system and its main objectives.   (4)
+BL-2
+CO-2;   (c)   Define energy audit and discuss different types of energy audits.   (4)
+BL-2
+CO-3;   (d)   Explain air preheater as a waste heat recovery device with a neat sketch.   (4)
+BL-2
+CO-3;   (e)   Explain biofuels and enlist at least five advantages and five disadvantages of using the   (4)
+BL-2   biofuels.
+CO-1;   Q2(a)   Explain any ten sustainable development goals.   (10)
+BL-2
+CO-2;   Q2(b)   Explain the energy monitoring and targeting in energy management system. Also,   (10)
+BL-2   discuss the elements of monitoring and targeting system.
+CO-2;   Q3(a)   Explain the basic components of the energy audit in detail.   (10)
+BL-2
+CO-3;   Q3(b)   Explain the working of a recuperator as a waste heat recovery device with a neat   (10)
+BL-2   diagram, and discuss the advantages of using heat exchangers in power plants.
+CO-1;   Q4(a) A thermal power plant has power output of 2kW and an efficiency of 45% and the   (10)
+BL-3   input energy used is coal (NCV 4500 kcal/kg). If the percentage of carbon in the coal is
+55% by weight calculate the emission factor of the plant.
+CO-3;   Q4(b) What is a photovoltaic (PV) cell? Explain its working principle, types, and applications.   (10)
+BL-2
+CO-2;   Q5(a)   Explain the significance of organizational structure in an energy management program.   (10)
+BL-2
+********** 1 **********
+--- page 2 ---
+CO-3;   Q5(b)   Find out the efficiency and evaporation ratio of the boiler by direct method with the   (10)
+BL-3   data given below:
+Type of boiler   :   Coal fired
+Quantity of steam (dry) generated   :   12 TPH
+Steam pressure / temp   :   10 kg/cm2(g)/ 180oC
+Quantity of coal consumed   :   2.0 TPH
+Feed water temperature   :   80oC
+GCV of coal   :   4200 kcal/kg
+Enthalpy of saturated steam at 10 kg/cm2
+pressure   :   785 kcal/kg
+Enthalpy of feed water   :   105 kcal/kg
+CO-3;   Q6(a)   Explain biodiesel based on its different generations. Compare the advantages of   (10)
+BL-2   biofuels overs the traditional fossil fuels.
+CO-1;   Q6(b) Assume you wish to make the series of withdrawals illustrated in the figure below from   (10)
+BL-4   an account that pays 15% / year. How much money would you have to deposit today,
+such that the account is depleted at the time of the last withdrawal?
+CO-2;   Q7(a)   The lighting connected load for the small industry consisting of 170 fluorescent tubes   (10)
+BL-4   of 60 W each with magnetic ballast. In first option, the magnetic ballast of fluorescent
+tubes is replaced by electronic ballast and power consumption of same fluorescent
+tubes reduced to 40 W. Cost of each electronic ballast tube is Rs 240. In second option,
+fluorescent tubes are replaced by energy efficient fluorescent tubes of 20 W and cost
+of Rs 470 each.
+Calculate simple payback period for each option and justify which energy saving option
+is better. Consider usage of 18 hours per day and an electrical tariff of Rs 6 per KWh.
+CO-3;   Q7(b)   Explain the various types of electric vehicles. Also list the advantages of electric   (10)
+BL-2   vehicles.
+********** 2 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 5 · paper 9bbfba6bce9c
 
@@ -2321,91 +2406,6 @@ BL-2 cells.
 FIG IG 3 OIG A ta
 ````
 
-## 2024-25 · Final-Exam · Sem 5 · paper 3ef1cc55edc4
-
-- Departments: AI and Data Science
-- Programmes: BTech AIDS 7056
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_AIDS_7056/Sustainable Energy Technologies/QP_Sustainable Energy Technologies(702CE0I001)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
-- Text: text (2 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech
-(DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA
-Tech (DS)
-Year: III/Semester V(Exam Year: 2025-2026)
-Subject: Sustainable Energy Technologies
-Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 2 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-Q1   Answer briefly
-CO-1;   (a)   Define Energy and classify the different types of energy based on the source with   (4)
-BL-2   suitable example.
-CO-2;   (b)   Explain energy management system and its main objectives.   (4)
-BL-2
-CO-2;   (c)   Define energy audit and discuss different types of energy audits.   (4)
-BL-2
-CO-3;   (d)   Explain air preheater as a waste heat recovery device with a neat sketch.   (4)
-BL-2
-CO-3;   (e)   Explain biofuels and enlist at least five advantages and five disadvantages of using the   (4)
-BL-2   biofuels.
-CO-1;   Q2(a)   Explain any ten sustainable development goals.   (10)
-BL-2
-CO-2;   Q2(b)   Explain the energy monitoring and targeting in energy management system. Also,   (10)
-BL-2   discuss the elements of monitoring and targeting system.
-CO-2;   Q3(a)   Explain the basic components of the energy audit in detail.   (10)
-BL-2
-CO-3;   Q3(b)   Explain the working of a recuperator as a waste heat recovery device with a neat   (10)
-BL-2   diagram, and discuss the advantages of using heat exchangers in power plants.
-CO-1;   Q4(a) A thermal power plant has power output of 2kW and an efficiency of 45% and the   (10)
-BL-3   input energy used is coal (NCV 4500 kcal/kg). If the percentage of carbon in the coal is
-55% by weight calculate the emission factor of the plant.
-CO-3;   Q4(b) What is a photovoltaic (PV) cell? Explain its working principle, types, and applications.   (10)
-BL-2
-CO-2;   Q5(a)   Explain the significance of organizational structure in an energy management program.   (10)
-BL-2
-********** 1 **********
---- page 2 ---
-CO-3;   Q5(b)   Find out the efficiency and evaporation ratio of the boiler by direct method with the   (10)
-BL-3   data given below:
-Type of boiler   :   Coal fired
-Quantity of steam (dry) generated   :   12 TPH
-Steam pressure / temp   :   10 kg/cm2(g)/ 180oC
-Quantity of coal consumed   :   2.0 TPH
-Feed water temperature   :   80oC
-GCV of coal   :   4200 kcal/kg
-Enthalpy of saturated steam at 10 kg/cm2
-pressure   :   785 kcal/kg
-Enthalpy of feed water   :   105 kcal/kg
-CO-3;   Q6(a)   Explain biodiesel based on its different generations. Compare the advantages of   (10)
-BL-2   biofuels overs the traditional fossil fuels.
-CO-1;   Q6(b) Assume you wish to make the series of withdrawals illustrated in the figure below from   (10)
-BL-4   an account that pays 15% / year. How much money would you have to deposit today,
-such that the account is depleted at the time of the last withdrawal?
-CO-2;   Q7(a)   The lighting connected load for the small industry consisting of 170 fluorescent tubes   (10)
-BL-4   of 60 W each with magnetic ballast. In first option, the magnetic ballast of fluorescent
-tubes is replaced by electronic ballast and power consumption of same fluorescent
-tubes reduced to 40 W. Cost of each electronic ballast tube is Rs 240. In second option,
-fluorescent tubes are replaced by energy efficient fluorescent tubes of 20 W and cost
-of Rs 470 each.
-Calculate simple payback period for each option and justify which energy saving option
-is better. Consider usage of 18 hours per day and an electrical tariff of Rs 6 per KWh.
-CO-3;   Q7(b)   Explain the various types of electric vehicles. Also list the advantages of electric   (10)
-BL-2   vehicles.
-********** 2 **********
-````
-
 ## 2024-25 · Final-Exam · Sem 5 · paper 812d6670abde
 
 - Departments: Common (all branches)
@@ -3137,6 +3137,115 @@ CO-3;BL-2 | Q7(b) | Evaluate green building in terms of environmentally friendly
 and building materials.
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 4864a15a45f1
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/SUSTAINABLE ENERGY TECHNOLOGIES/Sustainable Energy Technologies.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 93.3
+
+````text
+CAS
+
+SVKM’S NMIMS
+
+Academic Year: 2022-2023
+
+Programs: B Tech/MBA Tech Year: IH/IV Semester: VI/VIII
+Streams: All Streams
+
+Subject: Sustainable Energy Technologies Time: 3 hrs. (2:00 PM ty 5:00 PM)
+Date: 04 | 05 ] 2023 No. of Pages:2
+
+Marks: 100
+
+Final Examination/ Re-Examinakion
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly:
+
+CO-1;BL-1 (a) Classify different types of energy based on their source with suitable | [4]
+examples.
+CO-2;BL-1 (b) | List four vital requirements for a successful energy management program. [4]
+CO-2;BL-2 | __(c) _| Classify different Energy Conservation (ENCON) Measures. [4]
+CO-3;BL-2 | (d)__| Explain “Air preheater” as a waste heat recovery device along with a diagram. | [4]
+CO-3;BL-2 | _(e) _| Discuss the different hydrogen technologies. [4]
+» | CO-1;BL-4 | Q2 (a) Analyze global energy scenario from India’s perspective. [10]
+
+CO-2;BL-2 | Q2 (b) | What is an energy management system? Discuss different types of monitoring | [10]
+and evaiuation done by an energy management system and compare it with
+building management system.
+
+CO-2;BL-2 | Q3 (a) | Explain benchmarking and give a relevant example of it. [10]
+CO-3;BL-2 | Q3 (b) | Explain in brief the key elements for increasing energy efficiencies of boilers | [10]
+and fire systems.
+
+CO-1;BL-3 | Q4 (a) | A thermal power plant has an actual annual generation of 3800 million units, | [10]
+has 8% auxiliary consumption and 40% efficiency. If the input energy used is
+coal (NCV 4500 kcal/kg), calculate:
+a) Net generation
+b) Auxiliary consumption
+c) Total input energy supplied to plant
+--- page 2 ---
+d) Amount of coal used
+
+CO-3;BL-5 | Q4 (b) | Evaluate Green Building with respect to sustainable site design and materials | [10]
+
+used.
+CO-2;BL-2 | Q5 (a) | Explain different aspects of planning in an energy management program. [10]
+CO-3;BL- | QS (b) | What is waste heat? Explain the “heat wheel” as a heat recovery device. [10]
+1,2
+CO-3;BL- | Q6 (a) | Explain working of photovoltaic device and evaluate different types of | [10]
+2,4 photovoltaic cells.
+CO-2;BL-4 | Q6 (b) | The connected loads for the bungalow are as below: [10]
+
+i. 5 bulbs of 60 W each
+
+ii. 6 fluorescent tubes of 40 W each
+
+iii. An old refrigerator of 200 W each.
+a) Considering usages of 8 hours per day for bulbs and tubes and 12 hours per
+day for the refrigerator, calculate the breakup of energy consumption per
+appliance on an annual . basis.
+b) It is decided to replace the bulbs and tubes with 11 CFL of 15 W each and
+the old refrigerator by energy efficient refrigerator of 175 W. Consider usages
+of 8 hours per day for bulbs and tubes and 12 hours per day for the refrigerator
+and an electrical tariff of Rs 4 per KWh, calculate annual energy saving in
+KWh and money.
+
+CO-1;BL-4 | Q7 (a) | For the installation of thermal windows cash flow shown below, [10]
+600 600 600 1
+0 J 1 2 3 4
+1,000
+
+a) Calculate the present worth of the entire cash flow taking into account
+MARR=12% per year.
+
+b) Based on present worth measure evaluate whether investment is worth or
+not.
+
+CO-1;BL-2 | Q7(b) | Illustrate different components of capital investment through a cash flow | [5]
+diagram.
+
+CO-3;BL-2 | Q7(c) | Discuss steps for biodiesel production. [5]
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 6db34c547362
 
 - Departments: Common (all branches)
@@ -3665,113 +3774,4 @@ b. , [10]
 CO-3; SO-; BL-6 the need of the green fuels?
 
 Te
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 4864a15a45f1
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/SUSTAINABLE ENERGY TECHNOLOGIES/Sustainable Energy Technologies.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-CAS
-
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-
-Programs: B Tech/MBA Tech Year: IH/IV Semester: VI/VIII
-Streams: All Streams
-
-Subject: Sustainable Energy Technologies Time: 3 hrs. (2:00 PM ty 5:00 PM)
-Date: 04 | 05 ] 2023 No. of Pages:2
-
-Marks: 100
-
-Final Examination/ Re-Examinakion
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly:
-
-CO-1;BL-1 (a) Classify different types of energy based on their source with suitable | [4]
-examples.
-CO-2;BL-1 (b) | List four vital requirements for a successful energy management program. [4]
-CO-2;BL-2 | __(c) _| Classify different Energy Conservation (ENCON) Measures. [4]
-CO-3;BL-2 | (d)__| Explain “Air preheater” as a waste heat recovery device along with a diagram. | [4]
-CO-3;BL-2 | _(e) _| Discuss the different hydrogen technologies. [4]
-» | CO-1;BL-4 | Q2 (a) Analyze global energy scenario from India’s perspective. [10]
-
-CO-2;BL-2 | Q2 (b) | What is an energy management system? Discuss different types of monitoring | [10]
-and evaiuation done by an energy management system and compare it with
-building management system.
-
-CO-2;BL-2 | Q3 (a) | Explain benchmarking and give a relevant example of it. [10]
-CO-3;BL-2 | Q3 (b) | Explain in brief the key elements for increasing energy efficiencies of boilers | [10]
-and fire systems.
-
-CO-1;BL-3 | Q4 (a) | A thermal power plant has an actual annual generation of 3800 million units, | [10]
-has 8% auxiliary consumption and 40% efficiency. If the input energy used is
-coal (NCV 4500 kcal/kg), calculate:
-a) Net generation
-b) Auxiliary consumption
-c) Total input energy supplied to plant
---- page 2 ---
-d) Amount of coal used
-
-CO-3;BL-5 | Q4 (b) | Evaluate Green Building with respect to sustainable site design and materials | [10]
-
-used.
-CO-2;BL-2 | Q5 (a) | Explain different aspects of planning in an energy management program. [10]
-CO-3;BL- | QS (b) | What is waste heat? Explain the “heat wheel” as a heat recovery device. [10]
-1,2
-CO-3;BL- | Q6 (a) | Explain working of photovoltaic device and evaluate different types of | [10]
-2,4 photovoltaic cells.
-CO-2;BL-4 | Q6 (b) | The connected loads for the bungalow are as below: [10]
-
-i. 5 bulbs of 60 W each
-
-ii. 6 fluorescent tubes of 40 W each
-
-iii. An old refrigerator of 200 W each.
-a) Considering usages of 8 hours per day for bulbs and tubes and 12 hours per
-day for the refrigerator, calculate the breakup of energy consumption per
-appliance on an annual . basis.
-b) It is decided to replace the bulbs and tubes with 11 CFL of 15 W each and
-the old refrigerator by energy efficient refrigerator of 175 W. Consider usages
-of 8 hours per day for bulbs and tubes and 12 hours per day for the refrigerator
-and an electrical tariff of Rs 4 per KWh, calculate annual energy saving in
-KWh and money.
-
-CO-1;BL-4 | Q7 (a) | For the installation of thermal windows cash flow shown below, [10]
-600 600 600 1
-0 J 1 2 3 4
-1,000
-
-a) Calculate the present worth of the entire cash flow taking into account
-MARR=12% per year.
-
-b) Based on present worth measure evaluate whether investment is worth or
-not.
-
-CO-1;BL-2 | Q7(b) | Illustrate different components of capital investment through a cash flow | [5]
-diagram.
-
-CO-3;BL-2 | Q7(c) | Discuss steps for biodiesel production. [5]
 ````

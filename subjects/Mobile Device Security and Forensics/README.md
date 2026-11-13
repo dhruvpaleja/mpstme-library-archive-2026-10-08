@@ -16,14 +16,14 @@ Also filed as: `Mobile Device Security Forensics`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Mobile Device Security and Forensics(702IT0E019)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CyberSecurity 7010 | QP_Mobile Device Security and Forensics(702IT0E019)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Mobile Device Security and Forensics(702IT0E019)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Mobile Device Security and Forensics(702IT0E019)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / CSE CYBER SECURITY | B Tech, Mobile Device Security and Forensics, Sem-VI, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CyberSecurity 7010 | QP_Mobile Device Security and Forensics(702IT0E019)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 12 | Integrated Computer 7032 | ANS_Mobile Device Security and Forensics(702IT0E019)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Mobile Device Security and Forensics(702IT0E019)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / COMPUTER | Mobile Device Security and Forensics Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | Integrated Computer 7032 | QP_Mobile Device Security and Forensics(702IT0E019)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 12 | Integrated Computer 7032 | ANS_Mobile Device Security and Forensics(702IT0E019)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6, Sem 12 | B TECH / CYBER SECURITY, B.TECH INTEGRATED / COMPUTER | Mobile Device Security Forensics Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6, Sem 12 | B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B.TECH INTEGRATED / COMPUTER | Mobile Device Security and Forensics Batch 2023-24 Re Exam.pdf |
 | 2022-23 | — | Question paper | Sem 6 | B TECH / CSE CYBER SECURITY | Mobile Device Security & Forensics, Sem-VI, Year 2022-23.pdf |

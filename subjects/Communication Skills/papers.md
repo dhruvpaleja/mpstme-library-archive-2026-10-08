@@ -1,6 +1,6 @@
 # Communication Skills: question papers in full
 
-72 unique papers · 2007-08 to 2024-25 · Common (all branches), Computer Applications (MCA)
+75 unique papers · 2006-07 to 2024-25 · Common (all branches), Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -746,6 +746,7 @@ cooperate. Tell me what you know.” His change in tone aims to elicit a respons
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/Communications Skills-I, 1st Year, Sem I, Year 22-23 Final Exam 2021-22 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 January 2023
 - Text: ocr (9 pages), mean OCR confidence 94.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1071,7 +1072,6 @@ The Athenian army attacked, and Greek citizens fought bravely. The
 power of the mighty Persians was offset by the love that the Athenians had
 for their city. Athenians defeated the Persians in both archery and hand
 combat. Greek soldiers seized Persian ships and burned them, and the
-Persians fled in terror. Herodotus, a famous historian, reports that 6,400
 
 Persians died, compared to only 192 Athenians.
 
@@ -1306,6 +1306,174 @@ he
 =
 
 am
+````
+
+## 2019-20 · Re-Exam · Sem 1 · paper 2b704ab4f652
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2018-2019 Re Exam.pdf`
+- Printed on paper: exam date: 13 November 2019
+- Text: ocr (3 pages), mean OCR confidence 94.7
+
+````text
+/ 4 SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :B.Tech Integrated (All Stream) Year: I Semester I
+Academic Year: 2019-2020
+Subject: Communication Skills
+
+Date : 13 November 2019
+
+Re Examination(2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use. _
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+. 7) Assume ‘suitable data if necessary.
+
+Q1. Answer all five questions below (20 Marks)
+A. Define the process of communication with the help of diagram and two examples. (4)
+B. Classify the following instructions as caution, warning, precaution or notes. (4)
+
+1) Do not expose medicine to the direct sunlight
+2) Avoid smoking
+
+3) Wear hand gloves
+
+4) Fill in the entries carefully
+
+C. Identify the barriers in the following communication situations (4)
+
+i) The presenter uses only technical terms in a seminar and could not impress the audience.
+ii) The DJ music was so loud that the students could hardly study.
+
+iii) Inability of the rural audience to understand the speech of the President of America on
+TV.
+
+iv) A primary section child did not know that the school was closed today because the notice
+was written on a board much higher than he could see.
+
+D. Do as directed: (4)
+i. | Give a synonym for ‘Berate’
+ii. Give an antonym for ‘Gloomy’
+iii. | What is the meaning of the prefix: trans -
+
+iv. What is the meaning of the suffix: - ship
+
+E. State and explain any two Presentation skills. (4)
+--- page 2 ---
+:
+
+Q2. Answer the two questions below (20 Marks)
+
+A. State any five types of listening with the help of one example each (10)
+B. Write a short note on: (10)
+i. Feedback
+
+ii. | Grapevine communication
+
+Q3. Answer the two questions below (20 Marks)
+
+A. Describe any one of the following objects giving (i) definition (ii) diagram (iii) description
+- and working (a) Calculator OR (b) Microscope. (10)
+
+B. Read the following passage and answer the questions below: (10)
+
+It is time we looked at the latent causes. Where does the strength of India lie? Not in numbers, not
+necessarily in our moral stands on international issues. In modern times, the strength of a nation
+lies in its achievement in science and technology. This is not to say that the other fields do not
+count. In the five decades after independence, we have yet to demonstrate our originality in applied
+science and technology. Though Japan also started like us, by cultivating the technology of the
+west, the Japanese adapted, improved and displayed originality in, several areas of science and
+technology. The generation which was at the helm of affairs in science and technology in our
+country after independence mostly consisted of self-seeker. By and large the science and technology
+managers in India concentrated on gaining power and influence. They loved publicity. Most of them
+stopped doing science while they managed science. Things would have been better, had they been
+humble enough to acknowledge the difference between doing and managing science. Instead, they
+claimed that they were the foremost in science and technology, simply because they were at the
+helm of affairs. As a result they ceased to inspire the younger a lot. India continues to be the
+borrower of science and technology, even though its potential for originality is substantial. Our
+achievement in nuclear science and technology may be dazzling to our people. But, in worth and
+originality they are ordinary and routine While our own people remain ignote, the people of other
+countries know all about the pretensions to knowledge of our nuclear science and technology
+managers. The veil of secrecy over nuclear deals does not allow any investigations into misdeeds
+of the people who sabotage good and sincere efforts. The ones at the helm of affairs do make every
+endeavor to sabotage any genuine efforts; least they might not get the continued funding if the
+actual objective is accomplished International bodies came in as handy tools in this subtle process.
+The talk of national security comes as an easy weapon to prevent any probe into mismanagement
+On nuclear matters, the media in our country, by and large, avoid the investigative approach. As a
+result, the mismatch between promise and performance in the nuclear field does not get exposed as
+much as that in other fields.
+
+1. What, according to the passage, is the criterion to decide the strength of the country?
+2. What is common between the scientists of Japan and India?
+
+3. What does the author mean by doing science?
+
+4. Give meanings of the following words from the passage.
+
+a) Pretension b) Managed
+
+2s
+--- page 3 ---
+4
+
+5) Give a suitable title for the passage.
+Q4. Answer the two questions below (20 Marks)
+
+A. As the Purchase Manager of your company you had ordered two dozen personal computers.
+When the consignment arrived, you found some pieces in damaged condition. Write a
+complaint letter to the Sales Manager of the company asking for replacement or compensation.
+(Complete block form) (12 marks)
+
+B. Doas directed: (8 Marks)
+
+a. Provide one-word substitute for: (i) one who undertakes space travel
+
+(ii) science deals with living things
+b. Provide synonyms for: (i) Haughty
+
+(ii) Isolate
+
+¢. Give a definition for homographs and give an example
+d. Give the meaning of the prefix sub- and give a word that uses the prefix.
+e. Give the meaning of the suffix less and give a word that uses the suffix.
+f. Use ‘cease’ in a sentence of your own.
+
+_ Q5. Answer the two questions below (20 Marks)
+A. Write instructions for withdrawing money from ATM. (10)
+
+B. Write short notes on any five 7C’s in communication. (10)
+
+Q6. Answer the two questions below (20 Marks)
+A. Write short notes on: (a) Silence comimunication (12)
+
+(b) Downward communication “
+(c) Paralanguage
+
+B. Write the advantages and disadvantages of oral communication (8)
+Q7. Answer all the three questions below (20 Marks)
+
+A. Write an essay on ‘Digital India’. (12)
+
+B. Describe modified block format of letter with the diagrammatic representation. (4)
+
+C. What are barriers in communication? Explain any two barriers with the help on one example
+each. (4)
 ````
 
 ## 2018-19 · Final-Exam · Sem 1 · paper 0fbfc97f4b30
@@ -1597,6 +1765,437 @@ e- Grapevine communication
 f- Sandwich feedback.
 ````
 
+## 2018-19 · Re-Exam · Sem 1 · paper 2e41236a29e9
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/COMMUNICATION SKILLS BATCH 16-17, 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 20 November 2018
+- Text: ocr (2 pages), mean OCR confidence 94.3
+
+````text
+SVKM’s NMIMS
+‘ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (All Streams) Year: I Semester: I
+
+“
+
+Academic Year: 2018-2019
+
+} Subject: Communication Skills
+/ ~ Marks: 70
+Date: 20 November 2018 Time: 10.00
+“ Durations: 3 (Ars]}X,
+No. of Pages : .
+
+Re-examination (2016-17 / 2017-18) _
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1. (a) Write short notes on any two of the following: - (150 words each) (10)
+(i) Skimming and scanning
+(ii) Grapevine Communication
+(iii) You Attitude
+
+(b) State four commonly used popular gestures. (4)
+
+Q.2. (a) What is meant by Feedback? Is it a part of communication cycle? What role does it
+play in the process of communication? (250 words) (7)
+
+(b) ‘Psychological barriers can be overcome only by one's own efforts'. Discuss the statement
+giving examples of any three psychological barriers.(250 words) (7)
+
+Q.3. (a) Comment on the difference between Hearing and Listening. What are the benefits of
+active listening from organization point of view? (250 words) (7)
+
+(b) Compare and contrast between Oral and Written Communication. (250 words) (7)
+
+Q.4. Computer institute in Mumbai has advertised a special vacation training programme on
+Artificial Intelligence for engineering students which you wish to attend. Draft a letter of -
+enquiry requesting details of the programme including accommodation facilities available for
+out station students. Draft the letter in the modified block format. (14)
+
+Q.5 (a) What is vertical communication? Discuss its types, and objectives. (350 words)
+
+(8)
+
+(b) Define the following: - (6)
+(1) Hammer
+(ii) Welding
+
+nd (iii) Microscope
+
+Q.6. (a) Describe computer with definition, diagram, components and working. (250 words)
+
+1)
+
+(b) What are the seven principles of business correspondence? (7)
+
+® ye
+--- page 2 ---
+Q.7 Read the passage given below and answer the questions that follow :-
+
+There are many among us who, given the opportunity to leave India, are only too happy to go.
+But whenever I have had the chance to go away, I have held back. Or something has held me
+back. What is it that has such a hold on me, but leaves others free to where they will, sometimes
+never to come back? A few years ago I was offered a well-paid job on a magazine in Hong
+Kong. I thought about it for weeks, worried myself to distraction, and finally, with a great sigh
+of relief, turned it down. My friends thought I was-crazy. They still do. Most of them would
+have jumped at a comparable offer, even if it had meant spending the rest of their lives far from
+the palm fringed coasts or pine-clad mountains of this land. Many friends have indeed gone
+away, never to return, except perhaps to get married, very quickly, before they are off again!
+Don't they feel homesick, 1 wonder. I am ‘almost paranoid at the thought of going away and
+then being unable to come back. This almost happened to me when, as a boy, I went to England,
+longed to return to India, and did not have the money for the passage. For two years I worked
+and slaved like a miser (something I have never done since) until I had enough to bring me
+home. And 'home' wasn't parents and brothers and sisters. They were no longer here. Home,
+for me, was India. So what is it that keeps me here? My birth? I take too closely after a Nordic
+grandparent to pass for a typical son of the soil. Hotel receptionists often ask me for my
+passport. *
+
+"Must I carry a passport to travel in my own country?’ I ask.
+‘But you don't look like an Indian,' they protest.
+‘I’m a Red Indian," I say.
+
+India is where I was born and went to school and grew to manhood. India was where my father
+was born and went to school and worked and died. India is where my grandfather lived and
+died. Surely that entitles me to a place in the Indian sun. If it doesn't, I can revert to my mother's
+family and go back to the time of Timur the Lame. How far back does one have to go in order
+to establish one's Indianness? It must be the land itself that holds me. But so many of my fellow
+Indians have been born (and reborn) here, and yet they think nothing of leaving the land. They
+will leave the mountains for the plains; the villages for the cities; their country for another
+country, and if other countries were a little more willing to open their doors, we would have no
+population problem-mass emigration would have solved it. But it's more than the land that
+holds me. For India is more than a land. India is an atmosphere. Over thousands of years, the
+races and religions of the world have mingled here and produced that unique, indefinable
+phenomenon, the Indian: so terrifying in a-crowd, so beautiful in himself. And oddly enough,
+I'm one too. I know that I'm as Indian as the postman or the paanwala or your favourite MP.
+Race did not make me an Indian. Religion did not make me an Indian. But history did. And in
+
+the long run, its history that counts. ---Ruskin Bond
+Q.1. What was ‘Home’ for the author? (1)
+Q.2. The writer says: India is an atmosphere. What does it mean? (2)
+ae Q.3. What, according to the writer, has made him an Indian? (2)
+Q.4. What do you learn from the passage? (2)
+
+Q.5. Write a summary of the above passage in about 70 words. Give a suitable title. (7)
+
+zh
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper 05c6cfb30c0f
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2015-16,2016-17,2017-18 Re Exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 November 2018
+- Text: ocr (4 pages), mean OCR confidence 94.0
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGIN
+
+Program. B.Tech Integrated (All Streams) ; Year: I Se
+Academic Year: 2018-2019
+
+Subject: Communication Skills ~ Marks: 70
+
+Date : 21 November 2018 _ Time:10.00 am to 1.00 pm ~
+Duration: 3 (hrs) ~
+No. of Pages: OF
+Re-examination (2015-16/2016-17/2017-18) _-
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1-A) Discuss any three organizational barriers in communication. (3 Marks)
+B) Choose the correct alternative: (2 Marks)
+i) Indication of a disease:
+a) Fatigue b) pain ~ ¢) dysfunctional d) symptom
+
+ii) Someone who speaks two languages:
+a) Bias b) biennial c) bilingual d) bewilder
+
+iii) To make (oneself or a person aware of):
+a) Acknowledge b) Admire . c) Acquaint d) Affinity
+
+iv) Word which is NOT A SYNONYM of Adversity:
+a) Prosperity b) Misfortune c) Distress d) Hardship
+
+C) Add suffix to the following words in consonance of the meaning given against it: (2 Marks)
+
+i) Gene : the science of heredity
+ii) Klepto : irresistible desire to steal
+
+D) Define any TWO of the following terms: (2 Marks)
+a) Chronemics b) Voltmeter c) Welding
+
+7
+--- page 2 ---
+E) Explain the following in brief: (5 Marks)
+a) Skimming b) Scanning — c) Signature Block d) Inside Address
+e) Mixed Punctuation Style
+Q.2-A) Discuss various components of paralanguage and how these components play an important role in
+oral communication. (500 words) (7 Marks)
+
+Q.2-B) Discuss Kinesics as an important component of non-verbal communication. (500 words)
+(7 Marks)
+
+Q.3-A) Discuss various types of listening that people often engage in. Also discuss the relevance of
+appropriate listening and suggest ways to improve one’s listening skills. (S00 words) (7 Marks)
+
+Q.3-B) Discuss the components of audience that are to be analysed before presentations (200 words)
+
+(3 Marks)
+Q.3-C) Discuss methods to effectively eliminate stage fright. (250 words) (4 marks)
+Q.4-A) List and explain any four Cs of Effective written communication. (450 words) (6 Marks)
+Q.4-B) You are Surya Prakash, Sports Secretary of your College. Draft a letter to a sports dealer making
+
+enquiries about prices of sports gear for cricket, badminton, tennis and chess. Provide details of quality
+and quantity of goods _ required and set a deadline for reply. (Modified Block Format) (8 Marks)
+
+Q.5-A) Technically describe any ONE of the following objects: (8 marks)
+a) Electric Iron b) Mechanical pencil
+
+Q.5-B) Give Technical Instructions for any ONE of the following Processes: (4 Marks)
+a) Withdrawing cash from ATM b) Using an elevator
+
+Q.5-C) Convert the following statements into precautions for Welding: (2 Marks)
+
+a) Goggles will protect your eyes from sparks.
+b) A face mask will protect your eyes from the arc light.
+
+Q.6-A) Discuss any three objectives of Communication. (450 words) (6 Marks)
+
+Q.6-B) Compare Formal and informal networks of communication in an organization to highlight the role
+and importance of each. (600 words) (8 Marks)
+
+Q.7-A) Read the given passage and answer the questions that follow: (6 Marks)
+
+The hammer may be the oldest tool we have record of. Stone hammers—some of the oldest human
+artifacts ever discovered—date back as early as 2,600,000 BCE. Not only is the hammer the oldest tool,
+but it is also the greatest. What makes the hammer so great is its simplicity, power, and usefulness.
+
+ah
+
+— ¢
+--- page 3 ---
+The structure of the hammer is relatively simple—a fact largely responsible for its early invention and
+widespread distribution across cultures and geographic regions. The hammer is composed of two main
+parts: a handle and a head. The handle is used to swing the hammer. The head is used to hit other objects.
+
+While the hammer is a very simple tool, it is still able to generate tremendous power. This power results
+from two factors: the weight of the head, and the speed at which the hammer is swung. Every hammer
+(though some more than others) has a large distribution of weight at the head. When a hammer is swung,
+this weight pivots about the hand, which acts as a fulcrum. The handle carries the weight at a distance,
+acting as a lever arm; so a longer handle means increased speed. The weight of the head together with the
+speed generated by the lever arm is what gives the hammer so much power. The heavier the head and the
+faster it is swung, the more power a hammer produces.
+
+In addition to the hammer's great power, it also has an exceptionally wide range of useful applications.
+The purpose of the hammer-- to hit-- is a universal action that can accomplish many tasks. Let's start with
+the obvious: a hammer can be made to pound nails. But a hammer has many other uses as well. It can
+break apart hard objects such as brick or concrete. It can bend and shape metal or steel. It can gently tap
+objects to make small adjustments. It can be used to make sculpture or pottery. It can be used in the hot,
+harsh business of blacksmithing as well as in delicate operations like crafting jewellery. In times of
+desperation, it can even be used as a weapon.
+
+The hammer truly is a great tool. It is simple, powerful, and useful. A quintessential symbol of labor, the
+hammer has come to represent hard work and embody the spirit of human industry. ( 390 words)
+
+1) The thesis statement is one sentence that clearly communicates what the author plans to discuss in the
+passage. Based on this information, which of the following sentences from the passage is its thesis
+statement?
+
+A. "The hammer may be the oldest tool we have record of."
+
+B. "Not only is the hammer the oldest tool, but it is also the greatest."
+
+C. "A quintessential symbol of labor, the hammer has come to represent hard work and embody the spirit
+
+of human industry."
+D. "What makes the hammer so great is its simplicity, power, and usefulness."
+
+2) Which of the following best describes the organization of this passage?
+A. introduction, supporting paragraphs, conclusion
+
+B. introduction, examples, supporting paragraphs, conclusion
+
+C. history, examples, conclusion
+
+D. history, introduction, supporting paragraphs
+
+3) Based on information in the passage, it can be inferred that which of the following hammers is capable
+
+of generating the most power?
+
+A. aclaw hammer, because it can be swung very fast
+
+B. a ball-peen hammer, because it has a medium length handle and a small head
+C. a sledge hammer, because it has a long handle and a heavy head
+
+D. a bush hammer, because it has a long handle and a light head
+
+4) Based on information in the passage, all of the following people might reasonably use a hammer at
+
+work except
+A. a sculptor who works in different metals
+
+B. an artist who makes earrings
+C. the driver of a concrete mixer
+
+xh
+
+— ¢
+--- page 4 ---
+D. a carpenter who frames wooden houses
+
+5) As used in the final paragraph, which of the following describes something quintessential?
+
+A. Jean-Michel finds a prize at the bottom of a cereal box. Once he digs it out, he sees that it is a cheap
+plastic toy car. After playing with it for a few minutes, he throws it in the trash.
+
+B. Veterans agree that there are many songs that accurately depict the struggles faced by U.S. soldiers
+during the Vietnam War. |
+
+C. While the buildings that line the streets in downtown Manhattan are very impressive, what visitors
+tend to remember most about New York City are the signature yellow taxi cabs that appear nearly
+everywhere.
+
+D. During the first three months of its life, our new born baby cried at night. It was only after we
+implemented a strict routine of feeding, sleeping, and activity time that we were finally able to enjoy a
+soundless night.
+
+6) Find from the passage a word that means great or enormous.
+
+Q.7-B) Write a précis of the above passage in 150 words. (8 Marks)
+
+wef
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper 5ce8591b5a19
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2015-16,2016-17,2017-18 Re Exam_5ce8591b5a.pdf`
+- Printed on paper: max marks: 70; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 93.3
+
+````text
+SVKM’S NMIMS
+
+} Program: B.Tech Integrated (All Streams) Year: | Semester : I
+ia Academic Year: 2018-2019
+
+Subject: Communication Skills = Marks: 70) ~
+
+Time: 2.00 pm to 5.00 pm
+
+2019 -
+Date: 18 January - Durations: 3 (hrs)
+
+No. of Pages: 2
+Re-examination (2015-16/ 2016-17/ 2017-18) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1. Answer the following: . (14 marks)
+a. With regards Communication Cycle, define i) Ideation and ii) Encoding. (4)
+b. Explain briefly the importance of Channel/ Medium in the Communication Cycle. (2)
+c. Provide one word for (2)
+ky A booklet giving information
+ii. the opposite of ‘desirable’
+d. What do ‘S’ and ‘Q’ stand for in ‘SQ3R’ technique? (2)
+e. Mention any 2 types of Listening. (1)
+f. Provide definition for an electric mixer. (1)
+g. Suppose that you are to write a letter to the Dean of your college. What can be your salutation? What will
+be your complimentary close? (2)
+2. Answer the following: (14 marks)
+
+a) Explain what role do listening skills play in making an engineer successful at the workplace.
+
+(200 words) (10)
+b) Explain briefly how various facial expressions of a person can convey meaning while appearing in an
+interview. (80 words) (4)
+
+5
+--- page 2 ---
+Answer the following: (14 marks)
+
+a. Explain the various cultural barriers to communication at the workplace. (150 words) (7)
+b. Write a short note on Chronemics. (150 words) (7)
+Answer the following: (14 marks)
+a. What is Diagonal Communication? Explain using a diagram. What, do you think, are its advantages/
+disadvantages? (120 words) (6)
+b. Choose the correct words to fill in the blanks: (4)
+i. Life has become very boring. I need some (bait/ entertainment).
+ii. The material world doesn’t attract me. | am more keen towards (spirituality/ liquidity).
+iii. A synonym for ‘stand’ can be (stance/ urn).
+iv. An antonym for pretty can be (unattractive/ inattractive).
+c. Give one word for (3)
+
+i. One who makes cushion covers, sofa set covers, etc.
+ii. One who knows many languages
+iii. A place where manufacturing is carried on
+
+d. Use the proverb, ‘a barking dog never bites’ in a meaningful sentence of your own. qd)
+Explain any 5 of the 7 Cs of Effective Writing. (250 words) (14 marks)
+Answer the following: ; (14 marks)
+a. Write a short note on Skimming and Scanning. (150 words) (8)
+b. Write the technical description for a refrigerator. (6)
+Write a formal letter on any 1 of the following (use Semi-Block format): . (14 marks)
+
+a. The students of your. college are organizing a function on Teachers’ Day. You are the Head of the
+Decorations Team. Make a list of the decoration articles you would require for the celebration. Write a
+letter to Arihant Decorators placing an order for the same.
+
+b. Your End Term Exams at college are a week away. But you have an injured right hand which is bandaged.
+The doctor has advised no motion of the hand for a month. Write a letter of application to the Dean
+informing him of your state; and requesting that you be provided a writer (a person to whom you can speak
+the answer you want him/ her to write for you) during the exam.
+````
+
 ## 2018-19 · Re-Exam · Sem 1 · paper 5ebb02b2ccfe
 
 - Departments: Common (all branches)
@@ -1715,33 +2314,39 @@ conduct some special courses during the summer vacations in the subject of your 
 ao
 ````
 
-## 2018-19 · Re-Exam · Sem 1 · paper 2b704ab4f652
+## 2018-19 · Re-Exam · Sem 2 · paper 1846246b1aea
 
 - Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2018-2019 Re Exam.pdf`
-- Printed on paper: exam date: 13 November 2019
-- Text: ocr (3 pages), mean OCR confidence 94.7
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/COMMUNICATION SKILLS/Communication skills Re-exam 2015-16-17-18.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 18 April 2019
+- Text: ocr (2 pages), mean OCR confidence 91.3
 
 ````text
-/ 4 SVKM’S NMIMS
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE! 2IN
+Programme: MBA Tech (All Streams) ~ Year: I — Semester: II ~
 
-Program :B.Tech Integrated (All Stream) Year: I Semester I
-Academic Year: 2019-2020
-Subject: Communication Skills
+Academic Year: 2018-2019
 
-Date : 13 November 2019
+Subject: Communication Skills “
 
-Re Examination(2018-19)
+Marks: 70 ~
 
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use. _
+Date: 18 April 2019 - ~ Time: 10.00 am to 1.00 pm ~
+Durations: 3 (hrs) ~
+No. of Pages: <
 
-1) Question No. lis compulsory.
+Re-Examination (2015-16 / 2016-17 / 2017-18)
 
-2) Out of remaining questions, attempt any 4 questions.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of the remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
@@ -1750,137 +2355,83 @@ and on the cover of the Answer Book, which is provided for their use. _
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-. 7) Assume ‘suitable data if necessary.
+7) Assume Suitable data if necessary.
 
-Q1. Answer all five questions below (20 Marks)
-A. Define the process of communication with the help of diagram and two examples. (4)
-B. Classify the following instructions as caution, warning, precaution or notes. (4)
+1, A. Write a short note on Paralanguage. (250 words) | ' (4)
 
-1) Do not expose medicine to the direct sunlight
-2) Avoid smoking
+B. Attempt any 2 of the following: : ; (10)
+i. Explain Skimming and Scanning with respect to reading skills. (300 words)
+ii. Explain the 7 Cs of effective business writing. (300 words)
+iii. | Write a technical description of an electric iron.
+iv. Fill in the following blanks with appropriate words from the options given below:
+, (excruciating, punctuation, extracting, paraphrasing, compensated, gratitude, regret,
+relieved)
 
-3) Wear hand gloves
+The commas and full-stops in my essay weren’t in place; and my alphabets were too small.
+Therefore, the teacher asked me to work on and handwriting. I tried
+re-doing the assignment but the pain in my shoulder didn’t allow me to
+write. | expressed my to the teacher but she said I didn’t need to feel sorry.
+Her kindness me of half the pain. Next week, I ___ by
+submitting two essays rather than just one!
 
-4) Fill in the entries carefully
+2. Explain and compare Horizontal, Vertical and Diagonal flows of communication in workplaces. (14)
+(700 words)
 
-C. Identify the barriers in the following communication situations (4)
-
-i) The presenter uses only technical terms in a seminar and could not impress the audience.
-ii) The DJ music was so loud that the students could hardly study.
-
-iii) Inability of the rural audience to understand the speech of the President of America on
-TV.
-
-iv) A primary section child did not know that the school was closed today because the notice
-was written on a board much higher than he could see.
-
-D. Do as directed: (4)
-i. | Give a synonym for ‘Berate’
-ii. Give an antonym for ‘Gloomy’
-iii. | What is the meaning of the prefix: trans -
-
-iv. What is the meaning of the suffix: - ship
-
-E. State and explain any two Presentation skills. (4)
+hy
 --- page 2 ---
-:
+5.
 
-Q2. Answer the two questions below (20 Marks)
+Explain, with examples, what kind of socio-psychological barriers affect communication. Suggest
+how these barriers can be overcome. (700 words)
 
-A. State any five types of listening with the help of one example each (10)
-B. Write a short note on: (10)
-i. Feedback
+Why are speaking skills important for professionals? How can one enhance speaking skills? What
+are the characteristics of good oral communication? (700 words)
 
-ii. | Grapevine communication
+A. Write a technical description of an air conditioner.
+B. Write basic instructions for using a smart phone.
 
-Q3. Answer the two questions below (20 Marks)
+You are the General Secretary of your college’s Alumni Association. Being the silver jubilee year
+of the college, this students’ re-union is to be even grander. Draft a letter of order to Daffodils
+Decorators & Event Managers specifying to them your requirements of furniture, decoration,
+music, food and beverages, etc. (Use Full Block Format)
 
-A. Describe any one of the following objects giving (i) definition (ii) diagram (iii) description
-- and working (a) Calculator OR (b) Microscope. (10)
+A. Provide one word substitutes for the following:
+i. | One who doubts excessively
+ii. To have control over a person :
+iii. A regular record of your thoughts, opinions or experiences that you put on the internet for
+other people to read
+iv. A book containing maps
 
-B. Read the following passage and answer the questions below: (10)
+Vv. An examination and analysis of views, opinions, behaviour, etc. by asking questions to
+people
+vi. A city that is the center of government of a country or state sg
+vii. A place where manufacturing is carried on
 
-It is time we looked at the latent causes. Where does the strength of India lie? Not in numbers, not
-necessarily in our moral stands on international issues. In modern times, the strength of a nation
-lies in its achievement in science and technology. This is not to say that the other fields do not
-count. In the five decades after independence, we have yet to demonstrate our originality in applied
-science and technology. Though Japan also started like us, by cultivating the technology of the
-west, the Japanese adapted, improved and displayed originality in, several areas of science and
-technology. The generation which was at the helm of affairs in science and technology in our
-country after independence mostly consisted of self-seeker. By and large the science and technology
-managers in India concentrated on gaining power and influence. They loved publicity. Most of them
-stopped doing science while they managed science. Things would have been better, had they been
-humble enough to acknowledge the difference between doing and managing science. Instead, they
-claimed that they were the foremost in science and technology, simply because they were at the
-helm of affairs. As a result they ceased to inspire the younger a lot. India continues to be the
-borrower of science and technology, even though its potential for originality is substantial. Our
-achievement in nuclear science and technology may be dazzling to our people. But, in worth and
-originality they are ordinary and routine While our own people remain ignote, the people of other
-countries know all about the pretensions to knowledge of our nuclear science and technology
-managers. The veil of secrecy over nuclear deals does not allow any investigations into misdeeds
-of the people who sabotage good and sincere efforts. The ones at the helm of affairs do make every
-endeavor to sabotage any genuine efforts; least they might not get the continued funding if the
-actual objective is accomplished International bodies came in as handy tools in this subtle process.
-The talk of national security comes as an easy weapon to prevent any probe into mismanagement
-On nuclear matters, the media in our country, by and large, avoid the investigative approach. As a
-result, the mismatch between promise and performance in the nuclear field does not get exposed as
-much as that in other fields.
+B. Match the words of column A with their synonyms/ words closest in meaning in Column B
 
-1. What, according to the passage, is the criterion to decide the strength of the country?
-2. What is common between the scientists of Japan and India?
+A i B
+|_| numerical a_| vigorous
+2_| interval * ‘ > |b | precise
+3_| healthy c | period
+4 | mental d | alacrity
+5_| accurate e | arithmetical
+6 | haste f_| fear
+7_| alarm g | rational
 
-3. What does the author mean by doing science?
+fe
 
-4. Give meanings of the following words from the passage.
+(14)
 
-a) Pretension b) Managed
+(14)
 
-2s
---- page 3 ---
-4
+(7)
 
-5) Give a suitable title for the passage.
-Q4. Answer the two questions below (20 Marks)
+(7)
+(14)
 
-A. As the Purchase Manager of your company you had ordered two dozen personal computers.
-When the consignment arrived, you found some pieces in damaged condition. Write a
-complaint letter to the Sales Manager of the company asking for replacement or compensation.
-(Complete block form) (12 marks)
+(7)
 
-B. Doas directed: (8 Marks)
-
-a. Provide one-word substitute for: (i) one who undertakes space travel
-
-(ii) science deals with living things
-b. Provide synonyms for: (i) Haughty
-
-(ii) Isolate
-
-¢. Give a definition for homographs and give an example
-d. Give the meaning of the prefix sub- and give a word that uses the prefix.
-e. Give the meaning of the suffix less and give a word that uses the suffix.
-f. Use ‘cease’ in a sentence of your own.
-
-_ Q5. Answer the two questions below (20 Marks)
-A. Write instructions for withdrawing money from ATM. (10)
-
-B. Write short notes on any five 7C’s in communication. (10)
-
-Q6. Answer the two questions below (20 Marks)
-A. Write short notes on: (a) Silence comimunication (12)
-
-(b) Downward communication “
-(c) Paralanguage
-
-B. Write the advantages and disadvantages of oral communication (8)
-Q7. Answer all the three questions below (20 Marks)
-
-A. Write an essay on ‘Digital India’. (12)
-
-B. Describe modified block format of letter with the diagrammatic representation. (4)
-
-C. What are barriers in communication? Explain any two barriers with the help on one example
-each. (4)
+(7)
 ````
 
 ## 2017-18 · Exam not stated · Sem 2 · paper f2b0c16e72b8
@@ -2129,6 +2680,7 @@ Jy
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/COMMUNICATION SKILLS/communication_skill_2015-16_2016-17_2017-18.pdf`
 - Printed on paper: max marks: 70; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 93.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2271,7 +2823,6 @@ William Kamkwamba's example has inspired other children in the village to pursue
 science. William says they now see that if they put their mind to something, they
 can achieve it. 'It has changed the way people think,’ he says.
 
-2 os fe 6 oe 2s 2 2 2s oe ak
 
 Page 3 of 3
 ````
@@ -2532,6 +3083,7 @@ Jy
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/COMMUNICATION SKILLS (ALL STREAMS), FINAL EXAM 2017-2018.pdf`
 - Printed on paper: max marks: 70; exam date: 04 December 2017
 - Text: ocr (4 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2718,7 +3270,6 @@ Q.7 d. Give the antonyms for the following words: (1 mark)
 i. progress
 ii. soar
 
-2 ee os fs 2 ok fe oie 2c fe os oe 2 2s oft ee 2 os ee os eo oe
 
 a )ee
 
@@ -2732,6 +3283,7 @@ a )ee
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2017-2018 Final.pdf`
 - Printed on paper: exam date: 30 November 2017
 - Text: ocr (4 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2909,7 +3461,6 @@ Q.7 d. Give the antonyms for the following words: (1 mark)
 i. recede
 ii. thaw
 
-RREREE LEER ER EAE EERE RE EEE ERE EE EEE
 
 4
 ````
@@ -3002,6 +3553,162 @@ significance of each with examples. (14)
 Q7. Enumerate and briefly talk about the 7 C’s of business correspondence. (14)
 
 Page 2 of 2
+````
+
+## 2017-18 · Re-Exam · Sem 1 · paper c00543e93511
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/COMMUNICATION SKILL (ALL STREAMS), BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 04 December 2017
+- Text: ocr (3 pages), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (All Streams) Year: Iv Semester: 1 <
+
+Batch: 2016-17 -
+Academic Year: 2017-2018 .
+
+Subject: Communication Skills - Reg
+Marks: 70 < ; ¢ :%
+Date: 04 December 2017 Time: 10.00 am to, t. 00: po ¥
+
+Durations: 3 Fas.
+
+Re-Examinaticon
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+f 2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+. 6) Figures in brackets on the right hand side indicate full marks.
+
+i ~ 7) Assume uitable data if necessary.
+{ 8) Draw diagrams wherever necessary.
+
+' Q1. A) Write short notes on any two of the following:(150 words each) (8 marks)
+a) Chronemics
+b) Any two Cs of letter writing
+c) Advantages of written communication
+d) Reading as an essential skill
+
+B) Assess the importance of feedback in the communication cycle. (250 words) (6 marks)
+
+Q2. Discuss formal communication in the organization. (600 words) (14 marks)
+
+Q3. A.)Technically describe any one of the following objects: (300 words) (7 marks)
+
+i a) Thermometer
+
+: b) Torch
+
+i
+— B.)As the proprietor of Gem Ceramics, Vile Parle (West), Mumbai 400056, reply to a letter
+
+. enquiring about the bathroom products at your store. Use the complete block format.
+gee (7 marks)
+
+: Q4. Discuss cultural barriers to communication and add a note on how they can be overcome,
+
+|
+3
+] a
+
+(600 words) (14 marks)
+--- page 2 ---
+Q5. The study of kinesics and proxemics is essential for global business environment. (600
+words) (14 marks)
+
+Q6. Evaluate the importance of listening for an employee. Give instances. (600 words) (14
+marks)
+
+Q7. A) Read the following passage and summarize it in about 250 words: (10 marks)
+
+The searing heat deep inside Earth is what keeps the planet churning — creeping tectonic plates,
+erupting volcanoes and a working magnetic field — but how much of this sizzling energy does
+the planet have in its tank?
+
+Scientists have long wondered how much energy remains in the planet today, 4.6 billion years
+after the rocky world formed. Now, a team of researchers plans to have an answer to the
+gargantuan question by 2025. By determining how much energy Earth has left, scientists will
+better understand the building blocks of the planet and its energy-spending processes.
+
+ti When all of the energy is used up, that means Earth will "die" in the sense that the moon is
+' "dead" because it does not have the energy for mantle convection, volcanism, and other planetary
+processes. ;
+
+These planetary processes run on two types of energy: primordial energy, which is the heat left
+over from Earth's violent formation, and nuclear energy, or the heat produced during natural
+radioactive decay.
+
+Past calculations of Earth's inner energy have varied.
+
+"We're in a field of guesses," one of the study's authors, William McDonough, a professor of
+geology at the University of Maryland, said in a statement. "At this point in my career, I don't
+care if I'm right or wrong. I just want to know the answer."
+
+Here's how McDonough and his team ‘wil! tackle the problem: As has been done for past
+estimates, the scientists will measure Earth's geoneutrinos, or the antimatter partners of neutrinos
+— ghostly subatomic particles that pass right through Earth relatively unscathed. The
+antineutrino particles are byproducts of nuclear reactions, resulting from radioactive decay of
+elements such as thorium and uranium.
+
+— "The particles will tell us about how many atoms of uranium and thorium are inside the Earth.
+Therefore, that will tell us about how much radioactivity potential there exists," McDonough told
+ge Live Science. "We know the Earth radiates 46 terawatts of heat, or power, and so what we
+
+i | determine for nuclear energy, the difference would amount to the primordial energy left."
+
+Previous research has demonstrated that these heat-producing radioactive elements alone are
+insufficient to account for the 46 TW the Earth radiates; therefore, residual primordial energy
+
+2 Is
+--- page 3 ---
+must be present. Determining the amount of energy left from both sources will also offer insight
+into how the Earth is burning its fuel, its consumption rate in the past and its future fuel budget.
+
+"There are two gas gauges — one primordial energy and one nuclear energy," McDonough
+explained. "If we have lots of nuclear energy, we used up our primordial energy. If we have a
+little bit of nuclear energy, then we have not used up our primordial energy."
+
+McDonough said the amount of fuel left could be the difference between the planet continuing to
+function for 5 billion years or 10 billion years. When the fuel does run out, which McDonough
+said will happen, then the planet will essentially "die" as its planetary processes no longer
+function.
+
+The detectors used to find the antineutrino particles are each the size of a small office building,
+housed about a mile underground. Antineutrinos are identified inside the detector when the
+particles crash into a hydrogen atom, causing two characteristic light flashes. There are currently
+two such detection facilities, in Japan and Italy, which record only about 16 collisions per year.
+Three new detectors — one in Canada and two in China — are expected to come online in 2022.
+
+"Once we collect three years of antineutrino data from all five detectors, we are confident that we
+will have developed an accurate fuel gauge for the Earth and be able to calculate the amount of
+remaining fuel inside Earth," McDonough said in the statement about the team's 2025 goal.
+
+B) Give the synonyms of: (4 marks)
+
+i. Wane
+ii. Authentic
+iii. Diligent
+iv. Tensile
+v. Wit
+vi. Gimmick
+vii. Ambidextrous
+viii. | Homogenous
+
+3 [3
 ````
 
 ## 2017-18 · Re-Exam · Sem 1 · paper d3dadb3ce171
@@ -3208,339 +3915,198 @@ Q.7-B) Summarize the above passage in 150 words, also give a suitable title.
 (8 Marks)
 ````
 
-## 2017-18 · Re-Exam · Sem 1 · paper 2e41236a29e9
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/COMMUNICATION SKILLS BATCH 16-17, 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 20 November 2018
-- Text: ocr (2 pages), mean OCR confidence 94.3
-
-````text
-SVKM’s NMIMS
-‘ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (All Streams) Year: I Semester: I
-
-“
-
-Academic Year: 2018-2019
-
-} Subject: Communication Skills
-/ ~ Marks: 70
-Date: 20 November 2018 Time: 10.00
-“ Durations: 3 (Ars]}X,
-No. of Pages : .
-
-Re-examination (2016-17 / 2017-18) _
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1. (a) Write short notes on any two of the following: - (150 words each) (10)
-(i) Skimming and scanning
-(ii) Grapevine Communication
-(iii) You Attitude
-
-(b) State four commonly used popular gestures. (4)
-
-Q.2. (a) What is meant by Feedback? Is it a part of communication cycle? What role does it
-play in the process of communication? (250 words) (7)
-
-(b) ‘Psychological barriers can be overcome only by one's own efforts'. Discuss the statement
-giving examples of any three psychological barriers.(250 words) (7)
-
-Q.3. (a) Comment on the difference between Hearing and Listening. What are the benefits of
-active listening from organization point of view? (250 words) (7)
-
-(b) Compare and contrast between Oral and Written Communication. (250 words) (7)
-
-Q.4. Computer institute in Mumbai has advertised a special vacation training programme on
-Artificial Intelligence for engineering students which you wish to attend. Draft a letter of -
-enquiry requesting details of the programme including accommodation facilities available for
-out station students. Draft the letter in the modified block format. (14)
-
-Q.5 (a) What is vertical communication? Discuss its types, and objectives. (350 words)
-
-(8)
-
-(b) Define the following: - (6)
-(1) Hammer
-(ii) Welding
-
-nd (iii) Microscope
-
-Q.6. (a) Describe computer with definition, diagram, components and working. (250 words)
-
-1)
-
-(b) What are the seven principles of business correspondence? (7)
-
-® ye
---- page 2 ---
-Q.7 Read the passage given below and answer the questions that follow :-
-
-There are many among us who, given the opportunity to leave India, are only too happy to go.
-But whenever I have had the chance to go away, I have held back. Or something has held me
-back. What is it that has such a hold on me, but leaves others free to where they will, sometimes
-never to come back? A few years ago I was offered a well-paid job on a magazine in Hong
-Kong. I thought about it for weeks, worried myself to distraction, and finally, with a great sigh
-of relief, turned it down. My friends thought I was-crazy. They still do. Most of them would
-have jumped at a comparable offer, even if it had meant spending the rest of their lives far from
-the palm fringed coasts or pine-clad mountains of this land. Many friends have indeed gone
-away, never to return, except perhaps to get married, very quickly, before they are off again!
-Don't they feel homesick, 1 wonder. I am ‘almost paranoid at the thought of going away and
-then being unable to come back. This almost happened to me when, as a boy, I went to England,
-longed to return to India, and did not have the money for the passage. For two years I worked
-and slaved like a miser (something I have never done since) until I had enough to bring me
-home. And 'home' wasn't parents and brothers and sisters. They were no longer here. Home,
-for me, was India. So what is it that keeps me here? My birth? I take too closely after a Nordic
-grandparent to pass for a typical son of the soil. Hotel receptionists often ask me for my
-passport. *
-
-"Must I carry a passport to travel in my own country?’ I ask.
-‘But you don't look like an Indian,' they protest.
-‘I’m a Red Indian," I say.
-
-India is where I was born and went to school and grew to manhood. India was where my father
-was born and went to school and worked and died. India is where my grandfather lived and
-died. Surely that entitles me to a place in the Indian sun. If it doesn't, I can revert to my mother's
-family and go back to the time of Timur the Lame. How far back does one have to go in order
-to establish one's Indianness? It must be the land itself that holds me. But so many of my fellow
-Indians have been born (and reborn) here, and yet they think nothing of leaving the land. They
-will leave the mountains for the plains; the villages for the cities; their country for another
-country, and if other countries were a little more willing to open their doors, we would have no
-population problem-mass emigration would have solved it. But it's more than the land that
-holds me. For India is more than a land. India is an atmosphere. Over thousands of years, the
-races and religions of the world have mingled here and produced that unique, indefinable
-phenomenon, the Indian: so terrifying in a-crowd, so beautiful in himself. And oddly enough,
-I'm one too. I know that I'm as Indian as the postman or the paanwala or your favourite MP.
-Race did not make me an Indian. Religion did not make me an Indian. But history did. And in
-
-the long run, its history that counts. ---Ruskin Bond
-Q.1. What was ‘Home’ for the author? (1)
-Q.2. The writer says: India is an atmosphere. What does it mean? (2)
-ae Q.3. What, according to the writer, has made him an Indian? (2)
-Q.4. What do you learn from the passage? (2)
-
-Q.5. Write a summary of the above passage in about 70 words. Give a suitable title. (7)
-
-zh
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper 05c6cfb30c0f
+## 2017-18 · Re-Exam · Sem 1 · paper 11cef1bbdf7b
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2015-16,2016-17,2017-18 Re Exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 November 2018
-- Text: ocr (4 pages), mean OCR confidence 94.0
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2015-16,2016-17 Re Exam_11cef1bbdf.pdf`
+- Printed on paper: exam date: 30 November 2017
+- Text: ocr (4 pages), mean OCR confidence 93.8
 
 ````text
-SVKM’S NMIMS
+SVKM’S NMIMS |
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2017-2018 .
+Program: B, Tech Integrated (All Streams) ~ - Year:} « Semester:Ir
+Batch: 2015-16/ 2016-17 =
+Subject: Communication Skills ~
+Date 30 November 2017
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGIN
+RE-EXAMINATION
 
-Program. B.Tech Integrated (All Streams) ; Year: I Se
-Academic Year: 2018-2019
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
 
-Subject: Communication Skills ~ Marks: 70
+Answer Book, which is provided for their use.
 
-Date : 21 November 2018 _ Time:10.00 am to 1.00 pm ~
-Duration: 3 (hrs) ~
-No. of Pages: OF
-Re-examination (2015-16/2016-17/2017-18) _-
+NB:
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
+1) Question No. | is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
-3) In all 5 questions to be attempted.
+3) In all 5 questions are to be attempted.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
-
+5) Answer to each new question to be started on a fresh page. -
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume suitable data if necessary. —
 
-Q.1-A) Discuss any three organizational barriers in communication. (3 Marks)
-B) Choose the correct alternative: (2 Marks)
-i) Indication of a disease:
-a) Fatigue b) pain ~ ¢) dysfunctional d) symptom
+Q.1-A): Write short notes on any two: 300 words each (2x4=8 Marks)
 
-ii) Someone who speaks two languages:
-a) Bias b) biennial c) bilingual d) bewilder
+a. Write a short note on education as an objective of communication.
+b. Explain with examples any four organizational barriers to communication.
+c. Study of proxemics helps one understand space dynamics and communicate better. Comment.
 
-iii) To make (oneself or a person aware of):
-a) Acknowledge b) Admire . c) Acquaint d) Affinity
+Q.1-B)-a) Choose a word which is a synonym of the given word: (3 Marks)
 
-iv) Word which is NOT A SYNONYM of Adversity:
-a) Prosperity b) Misfortune c) Distress d) Hardship
+1. Augment
 
-C) Add suffix to the following words in consonance of the meaning given against it: (2 Marks)
+a. slope b. deceive c. affirm d. increase
+2. Quandry
+a. disagree   b. mockery c. dilemma d. change
 
-i) Gene : the science of heredity
-ii) Klepto : irresistible desire to steal
+3. mundane
+a. feminine b. friendly c. ordinary d. amazing
 
-D) Define any TWO of the following terms: (2 Marks)
-a) Chronemics b) Voltmeter c) Welding
-
-7
+/+
 --- page 2 ---
-E) Explain the following in brief: (5 Marks)
-a) Skimming b) Scanning — c) Signature Block d) Inside Address
-e) Mixed Punctuation Style
-Q.2-A) Discuss various components of paralanguage and how these components play an important role in
-oral communication. (500 words) (7 Marks)
+b) Choose a word which is an antonym of the given word: (3 Marks)
 
-Q.2-B) Discuss Kinesics as an important component of non-verbal communication. (500 words)
-(7 Marks)
+1. Surfeit
+a. lack b. mass c. refuse d. blemish
+2. Demur
+a. agree b. elevate c. trick d. huff
+3. Frail
+a. Perplexed b. humble c. strong d. inapt
+Q.2-A Read the given passage carefully and answer the questions that follow: (6 Marks)
 
-Q.3-A) Discuss various types of listening that people often engage in. Also discuss the relevance of
-appropriate listening and suggest ways to improve one’s listening skills. (S00 words) (7 Marks)
+Fleas are perfectly designed by nature to feast on anything containing blood. Like a shark in the water or a wolf in the
+woods, fleas are ideally equipped to do what they do, making them very difficult to defeat. The bodies of these tiny
+parasites are extremely hardy and well-suited for their job.
 
-Q.3-B) Discuss the components of audience that are to be analysed before presentations (200 words)
+A flea has a.very hard exoskeleton, which means the body is covered by a tough, tile-like plate called a sclerite. Because
+of these plates, fleas are almost impossible to squish. The exoskeletons of fleas are also waterproof and shock resistant,
+and therefore fleas are highly resistant to the sprays and chemicals used to kill them.
 
-(3 Marks)
-Q.3-C) Discuss methods to effectively eliminate stage fright. (250 words) (4 marks)
-Q.4-A) List and explain any four Cs of Effective written communication. (450 words) (6 Marks)
-Q.4-B) You are Surya Prakash, Sports Secretary of your College. Draft a letter to a sports dealer making
+Little spines are attached to this plate. The spines lie flat against the flea’s thin, narrow body as the flea scurries through
+an animal’s fur in search of food. However, if anything (like fingers or a self-grooming pet) tries to pull a flea off through
+the hair coat, these spines will extend and stick to the fur like Velcro.
 
-enquiries about prices of sports gear for cricket, badminton, tennis and chess. Provide details of quality
-and quantity of goods _ required and set a deadline for reply. (Modified Block Format) (8 Marks)
+Fleas are some of the best jumpers in the natural world. A flea can jump seven inches, or 150 times its own length, either
+vertically or horizontally. An equivalent jump for a person would be 555 feet, the height of the Washington Monument.
+Fleas can jump 30,000 times in a row without stopping, and they are able to accelerate through the air at an incredibly
+high rate—a rate which is over ten times what humans can withstand in an airplane.
 
-Q.5-A) Technically describe any ONE of the following objects: (8 marks)
-a) Electric Iron b) Mechanical pencil
+Fleas have very long rear legs with huge thigh muscles and multiple joints. When they get ready to jump, they fold their
+long legs up and crouch like a runner on a starting block. Several of their joints contain a protein called resilin, which
+helps catapult fleas into the air as they jump, similar to the way a rubber band provides momentum to a slingshot.
+Outward facing claws on the bottom of their legs grip anything they touch when they land.
 
-Q.5-B) Give Technical Instructions for any ONE of the following Processes: (4 Marks)
-a) Withdrawing cash from ATM b) Using an elevator
+The adult female flea mates after her first blood meal and begins producing eggs in just | to 2 days. One flea can lay up to
 
-Q.5-C) Convert the following statements into precautions for Welding: (2 Marks)
+.50 eggs in one day and over 2,000 in her lifetime. Flea eggs can be seen with the naked eye, but they are about the size of
+a grain of salt. Shortly after being laid, the eggs begin to transform into cocoons. In the cocoon state, fleas are fully
+developed adults, and will hatch immediately if conditions are favorable. Fleas can detect warmth, movement, and carbon
+dioxide in exhaled breath, and these three factors stimulate them to emerge as new adults. If the flea does not detect
+appropriate conditions, it can remain dormant in the cocoon state for extended periods. Under ideal conditions, the entire
+life cycle may only take 3 weeks, so in no time at all, pets and homes can become infested.
 
-a) Goggles will protect your eyes from sparks.
-b) A face mask will protect your eyes from the arc light.
+Because of these characteristics, fleas are intimidating opponents. The best way to control fleas, therefore, is to take steps
+to prevent an infestation from ever occurring.
 
-Q.6-A) Discuss any three objectives of Communication. (450 words) (6 Marks)
-
-Q.6-B) Compare Formal and informal networks of communication in an organization to highlight the role
-and importance of each. (600 words) (8 Marks)
-
-Q.7-A) Read the given passage and answer the questions that follow: (6 Marks)
-
-The hammer may be the oldest tool we have record of. Stone hammers—some of the oldest human
-artifacts ever discovered—date back as early as 2,600,000 BCE. Not only is the hammer the oldest tool,
-but it is also the greatest. What makes the hammer so great is its simplicity, power, and usefulness.
-
-ah
-
-— ¢
+‘ly
 --- page 3 ---
-The structure of the hammer is relatively simple—a fact largely responsible for its early invention and
-widespread distribution across cultures and geographic regions. The hammer is composed of two main
-parts: a handle and a head. The handle is used to swing the hammer. The head is used to hit other objects.
+1) The primary purpose of the passage is to
 
-While the hammer is a very simple tool, it is still able to generate tremendous power. This power results
-from two factors: the weight of the head, and the speed at which the hammer is swung. Every hammer
-(though some more than others) has a large distribution of weight at the head. When a hammer is swung,
-this weight pivots about the hand, which acts as a fulcrum. The handle carries the weight at a distance,
-acting as a lever arm; so a longer handle means increased speed. The weight of the head together with the
-speed generated by the lever arm is what gives the hammer so much power. The heavier the head and the
-faster it is swung, the more power a hammer produces.
+A. educate the reader about the physical characteristics of fleas
+B. compare fleas to other members of the animal kingdom
 
-In addition to the hammer's great power, it also has an exceptionally wide range of useful applications.
-The purpose of the hammer-- to hit-- is a universal action that can accomplish many tasks. Let's start with
-the obvious: a hammer can be made to pound nails. But a hammer has many other uses as well. It can
-break apart hard objects such as brick or concrete. It can bend and shape metal or steel. It can gently tap
-objects to make small adjustments. It can be used to make sculpture or pottery. It can be used in the hot,
-harsh business of blacksmithing as well as in delicate operations like crafting jewellery. In times of
-desperation, it can even be used as a weapon.
+C. relate the problems that can result from a flea infestation
 
-The hammer truly is a great tool. It is simple, powerful, and useful. A quintessential symbol of labor, the
-hammer has come to represent hard work and embody the spirit of human industry. ( 390 words)
+D. explain why a flea infestation is hard to get rid of
 
-1) The thesis statement is one sentence that clearly communicates what the author plans to discuss in the
-passage. Based on this information, which of the following sentences from the passage is its thesis
-statement?
+2) The author’s tone in the passage is best described as
+A. concerned
 
-A. "The hammer may be the oldest tool we have record of."
+B. passionate
 
-B. "Not only is the hammer the oldest tool, but it is also the greatest."
+C. informative
 
-C. "A quintessential symbol of labor, the hammer has come to represent hard work and embody the spirit
+D. opinionated
 
-of human industry."
-D. "What makes the hammer so great is its simplicity, power, and usefulness."
+3) According to the passage, fleas are resistant to sprays and chemicals because they,
+A. have waterproof sclerites
 
-2) Which of the following best describes the organization of this passage?
-A. introduction, supporting paragraphs, conclusion
+B. are excellent jumpers
 
-B. introduction, examples, supporting paragraphs, conclusion
+C. reproduce very rapidly
 
-C. history, examples, conclusion
+D. can stick to fur like Velcro
 
-D. history, introduction, supporting paragraphs
+4) Fleas are difficult to squish because they have
+I. sclerites
 
-3) Based on information in the passage, it can be inferred that which of the following hammers is capable
+II. tough spines
 
-of generating the most power?
+III. resilin in their joints
 
-A. aclaw hammer, because it can be swung very fast
+A. Lonly
 
-B. a ball-peen hammer, because it has a medium length handle and a small head
-C. a sledge hammer, because it has a long handle and a heavy head
+B. Land II only
+C. I and III only
+D. I, I, and Il
 
-D. a bush hammer, because it has a long handle and a light head
+5) According to the passage, which of the following statements is true?
+A. Fleas extend their little spines if threatened.
 
-4) Based on information in the passage, all of the following people might reasonably use a hammer at
+B. Fleas have the ability to jump higher than humans.
 
-work except
-A. a sculptor who works in different metals
+C. Humans can jump higher if they consume foods containing resilin.
 
-B. an artist who makes earrings
-C. the driver of a concrete mixer
+D. The resilin found in fleas is used to make rubber bands.
 
-xh
+6) According to the passage, fleas are able to jump
+I. with a high rate of acceleration
 
-— ¢
+II. up and down and from side to side
+
+IIL. because the blood they eat contains resilin
+
+A. I only
+
+B. Land II only
+C. IL and III only
+D. |, IL, and Il
+
+Q.2-B) Summarize the above passage in about 180 words. (8 Marks)
+14
 --- page 4 ---
-D. a carpenter who frames wooden houses
+Q. 3-A) Breakdown may occur at any of the stages during the communication process. Explain with examples and
 
-5) As used in the final paragraph, which of the following describes something quintessential?
+diagram. (500 words) . (8 Marks)
+Q.3- B) Explain and elaborate motivation and raising morale as objectives of communication. (400 words)
+(6 Marks)
 
-A. Jean-Michel finds a prize at the bottom of a cereal box. Once he digs it out, he sees that it is a cheap
-plastic toy car. After playing with it for a few minutes, he throws it in the trash.
+Q.4-A) Technically describe (with illustration) any one of the following objects:
+a. Mechanical Pencil b. overhead projector c. mini drafter (8 Marks)
+Q.4-B) Give technical instructions for soldering. (6 Marks)
 
-B. Veterans agree that there are many songs that accurately depict the struggles faced by U.S. soldiers
-during the Vietnam War. |
+Q.5-A) Explain the process of listening and elucidate with examples any four types of listening. (400 words)
 
-C. While the buildings that line the streets in downtown Manhattan are very impressive, what visitors
-tend to remember most about New York City are the signature yellow taxi cabs that appear nearly
-everywhere.
+(6 Marks)
+Q.5-B) Discuss formal Networks of Communication and the flow of communication in an organization. Include channels
+used, advantages and drawbacks of each of them. (500 words) (8 Marks)
 
-D. During the first three months of its life, our new born baby cried at night. It was only after we
-implemented a strict routine of feeding, sleeping, and activity time that we were finally able to enjoy a
-soundless night.
+Q.6) Explain with exampies various barriers to communication and also reflect on how to eliminate these barriers.
+(800-1000 words) (14 Marks)
 
-6) Find from the passage a word that means great or enormous.
+Q. 7-A) You are the Sales Manager of Utkarsh Electrical Stores. You have received a complaint letter from one of your
+customers about the defects in a laptop that he bought from your store a week ago. Draft a suitable reply. (Full
+Block Format) (8 Marks)
 
-Q.7-B) Write a précis of the above passage in 150 words. (8 Marks)
-
-wef
+Q.7-B) Discuss various formats of formal letters. Enlist and explain individual parts of letters. (400 words)
+(6 Marks)
 ````
 
 ## 2017-18 · Re-Exam · Sem 1 · paper 46f1753653e8
@@ -3660,102 +4226,6 @@ quotation for the same. Write in complete block style. (600 Words) (8 Marks)
 B. Discuss any three Socio Psychological Barriers to communication. (450 words) (6 Marks)
 
 2/y
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper 5ce8591b5a19
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2015-16,2016-17,2017-18 Re Exam_5ce8591b5a.pdf`
-- Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-SVKM’S NMIMS
-
-} Program: B.Tech Integrated (All Streams) Year: | Semester : I
-ia Academic Year: 2018-2019
-
-Subject: Communication Skills = Marks: 70) ~
-
-Time: 2.00 pm to 5.00 pm
-
-2019 -
-Date: 18 January - Durations: 3 (hrs)
-
-No. of Pages: 2
-Re-examination (2015-16/ 2016-17/ 2017-18) —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-
-3) Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-1. Answer the following: . (14 marks)
-a. With regards Communication Cycle, define i) Ideation and ii) Encoding. (4)
-b. Explain briefly the importance of Channel/ Medium in the Communication Cycle. (2)
-c. Provide one word for (2)
-ky A booklet giving information
-ii. the opposite of ‘desirable’
-d. What do ‘S’ and ‘Q’ stand for in ‘SQ3R’ technique? (2)
-e. Mention any 2 types of Listening. (1)
-f. Provide definition for an electric mixer. (1)
-g. Suppose that you are to write a letter to the Dean of your college. What can be your salutation? What will
-be your complimentary close? (2)
-2. Answer the following: (14 marks)
-
-a) Explain what role do listening skills play in making an engineer successful at the workplace.
-
-(200 words) (10)
-b) Explain briefly how various facial expressions of a person can convey meaning while appearing in an
-interview. (80 words) (4)
-
-5
---- page 2 ---
-Answer the following: (14 marks)
-
-a. Explain the various cultural barriers to communication at the workplace. (150 words) (7)
-b. Write a short note on Chronemics. (150 words) (7)
-Answer the following: (14 marks)
-a. What is Diagonal Communication? Explain using a diagram. What, do you think, are its advantages/
-disadvantages? (120 words) (6)
-b. Choose the correct words to fill in the blanks: (4)
-i. Life has become very boring. I need some (bait/ entertainment).
-ii. The material world doesn’t attract me. | am more keen towards (spirituality/ liquidity).
-iii. A synonym for ‘stand’ can be (stance/ urn).
-iv. An antonym for pretty can be (unattractive/ inattractive).
-c. Give one word for (3)
-
-i. One who makes cushion covers, sofa set covers, etc.
-ii. One who knows many languages
-iii. A place where manufacturing is carried on
-
-d. Use the proverb, ‘a barking dog never bites’ in a meaningful sentence of your own. qd)
-Explain any 5 of the 7 Cs of Effective Writing. (250 words) (14 marks)
-Answer the following: ; (14 marks)
-a. Write a short note on Skimming and Scanning. (150 words) (8)
-b. Write the technical description for a refrigerator. (6)
-Write a formal letter on any 1 of the following (use Semi-Block format): . (14 marks)
-
-a. The students of your. college are organizing a function on Teachers’ Day. You are the Head of the
-Decorations Team. Make a list of the decoration articles you would require for the celebration. Write a
-letter to Arihant Decorators placing an order for the same.
-
-b. Your End Term Exams at college are a week away. But you have an injured right hand which is bandaged.
-The doctor has advised no motion of the hand for a month. Write a letter of application to the Dean
-informing him of your state; and requesting that you be provided a writer (a person to whom you can speak
-the answer you want him/ her to write for you) during the exam.
 ````
 
 ## 2016-17 · Final-Exam · Sem 1 · paper 8c97c44a5bc0
@@ -3905,6 +4375,7 @@ d. Pliable
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2016-17 Final.pdf`
 - Printed on paper: exam date: 30 November 2016
 - Text: ocr (4 pages), mean OCR confidence 94.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 =>
@@ -3953,7 +4424,6 @@ ij
 \e - 4
 Kk K |
 
-ABO TY h en ca¢ 1 ix + Cy
 
 Society enquiring) if they will arrange a health check-up in your hostel. Give all
 
@@ -4284,160 +4754,150 @@ B.) Outline the precautions that need to be taken while taking notes for writing
 ay)
 ````
 
-## 2016-17 · Re-Exam · Sem 1 · paper c00543e93511
+## 2016-17 · Re-Exam · Sem 1 · paper 98af17192597
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/COMMUNICATION SKILL (ALL STREAMS), BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 04 December 2017
-- Text: ocr (3 pages), mean OCR confidence 92.9
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/COMMUNICAITON SKILLS BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 31 May 2017
+- Text: ocr (3 pages), mean OCR confidence 93.9
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (All Streams) Year: Iv Semester: 1 <
+Programme: B. Tech. (All Streams) Year: I Semester: I
 
-Batch: 2016-17 -
-Academic Year: 2017-2018 .
+Batch: 2015-16 : eee
+« Academic Year: 2016-2017
+: doaieanian aN
 
-Subject: Communication Skills - Reg
-Marks: 70 < ; ¢ :%
-Date: 04 December 2017 Time: 10.00 am to, t. 00: po ¥
+Subject: Communication Skills <
+Marks: 70 af MPSTME YS:
 
-Durations: 3 Fas.
+Date: 31 May 2017. — Time: 10.00 fn bol B00 prt "i
+. Durations:3 faks|_
 
-Re-Examinaticon
+No. of Pages. —— a,
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the eed
+paper and on the cover of Answer Book, which is provided for the use.
+NB:
 
-1) Question No. 1 is compulsory.
-f 2) Out of remaining questions, attempt any 4 questions.
+Re-Examination
 
-3) In all 5 questions to be attempted.
+1. Question No. 1 is compulsory
 
-4) All questions carry equal marks.
+2. Out of remaining questions, attempt any 4 questions.
 
-5) Answer to each new question to be started on a fresh page.
+3. In all five questions to be attempted.
 
-. 6) Figures in brackets on the right hand side indicate full marks.
+4. Answer to each new question to be started on a fresh page.
 
-i ~ 7) Assume uitable data if necessary.
-{ 8) Draw diagrams wherever necessary.
+5. Figures in brackets on the right hand side indicate full marks.
 
-' Q1. A) Write short notes on any two of the following:(150 words each) (8 marks)
-a) Chronemics
-b) Any two Cs of letter writing
-c) Advantages of written communication
-d) Reading as an essential skill
+6. Answers to all the sub-questions should be attempted and grouped together.
 
-B) Assess the importance of feedback in the communication cycle. (250 words) (6 marks)
+Q.1 a) “The sender is largely responsible for the effective transmission of a message.”---In the
+light of this statement explain what the sender of a message can do to minimize barriers in
+communication. (7 marks)
 
-Q2. Discuss formal communication in the organization. (600 words) (14 marks)
+b) Explain the significance of downward communication in an organization. “(7 marks)
 
-Q3. A.)Technically describe any one of the following objects: (300 words) (7 marks)
+Q.2 a) Agrawal Textile Mills Ltd., Pune have received an order for 1000 mts of dark grey
+woolen suiting. They are out of stock for this particular shade but can offer suiting of a lighter
+shade and of a better quality at same price. Write a persuasive letter on their behalf. (Use Semi
+Block Format) (10 marks)
 
-i a) Thermometer
+b) Identify the communication barriers in the following situations: (4 marks)
+1) “This room is terrible to work in. I am able to hear everyone around and | can’t concentrate.”
 
-: b) Torch
+2) “I don’t agree with you. I have specialized in the subject and have been frequently invited to
+deliver talks on this. I can’t be wrong.”
 
-i
-— B.)As the proprietor of Gem Ceramics, Vile Parle (West), Mumbai 400056, reply to a letter
+Q.3 a) Write a technical description of an electric bulb. (7 marks)
+b) Explain the importance of non-verbal communication in oral presentation. (7 marks)
 
-. enquiring about the bathroom products at your store. Use the complete block format.
-gee (7 marks)
+Q.4 a) You are the proprietor of “Bagal Furnitures.” You have received an order of 100 office
+tables and chairs. But you are unable to execute the order because of shortage of workers. Draft a
+suitable adjustment letter in the modified block format. (10 marks)
 
-: Q4. Discuss cultural barriers to communication and add a note on how they can be overcome,
-
-|
-3
-] a
-
-(600 words) (14 marks)
+1/3
 --- page 2 ---
-Q5. The study of kinesics and proxemics is essential for global business environment. (600
-words) (14 marks)
+b) Explain the following terms briefly: (4 marks)
 
-Q6. Evaluate the importance of listening for an employee. Give instances. (600 words) (14
-marks)
+1) Skimming
 
-Q7. A) Read the following passage and summarize it in about 250 words: (10 marks)
+2) Review
 
-The searing heat deep inside Earth is what keeps the planet churning — creeping tectonic plates,
-erupting volcanoes and a working magnetic field — but how much of this sizzling energy does
-the planet have in its tank?
+Q.5 a) Why is ‘Listening’ an important skill for effective communication? (7 marks)
+b) What are the objectives of communication? (7 marks)
+Q.6 a) Define the following: (6 marks)
+1) Hammer
 
-Scientists have long wondered how much energy remains in the planet today, 4.6 billion years
-after the rocky world formed. Now, a team of researchers plans to have an answer to the
-gargantuan question by 2025. By determining how much energy Earth has left, scientists will
-better understand the building blocks of the planet and its energy-spending processes.
+2) Hack saw
 
-ti When all of the energy is used up, that means Earth will "die" in the sense that the moon is
-' "dead" because it does not have the energy for mantle convection, volcanism, and other planetary
-processes. ;
+3) Voltmeter
 
-These planetary processes run on two types of energy: primordial energy, which is the heat left
-over from Earth's violent formation, and nuclear energy, or the heat produced during natural
-radioactive decay.
+b) Write short notes on the following: (8 marks)
+1) Grapevine communication
 
-Past calculations of Earth's inner energy have varied.
+2) The importance of a courteous, helpful attitude in writing business letters.
 
-"We're in a field of guesses," one of the study's authors, William McDonough, a professor of
-geology at the University of Maryland, said in a statement. "At this point in my career, I don't
-care if I'm right or wrong. I just want to know the answer."
+Q.7. Read the following passage and answer the questions that follow:
 
-Here's how McDonough and his team ‘wil! tackle the problem: As has been done for past
-estimates, the scientists will measure Earth's geoneutrinos, or the antimatter partners of neutrinos
-— ghostly subatomic particles that pass right through Earth relatively unscathed. The
-antineutrino particles are byproducts of nuclear reactions, resulting from radioactive decay of
-elements such as thorium and uranium.
+It is reported that the government is close to finalizing a system of dual pricing forsthe
+public procurement of food grains. There would be two basic elements to this system: A fixed
+Minimum Support Price (MSP) covering the cost of cultivation, as at present, recommended by
+the Commission on Agricultural Costs and Prices (CACP), and variable procurement prices, at
+the discretion of the department of food, depending on market. For example, according to a
+working group of the Planning Commission, over the five year period ending 2001-02 when
+there was a steep rise in procurement price resulting in accumulation of embarrassing large
+stock of food grains of over 60 million tones with the government, consumption of food grains
+in the country was reduced, on this account, by at least five million tons per annum. The new
+system by assigning a greater role for private trade can improve the efficiency in the distribution
+of food grains and substantially cut down subsidies, which can help to step up much needed
+public investment in agriculture. The proposed dual pricing system is a better alternative than
+total marketisation of food grains trade by disbanding altogether public procurement at MSP.
 
-— "The particles will tell us about how many atoms of uranium and thorium are inside the Earth.
-Therefore, that will tell us about how much radioactivity potential there exists," McDonough told
-ge Live Science. "We know the Earth radiates 46 terawatts of heat, or power, and so what we
+Such a dismantling could lead to a crash in market prices of food grains in years of food
+harvest. Even though this may take exports competitive and raise domestic consumption of food
+grains in the short run, it may undermine food security by sapping producer incentives. The
+experience of green revolution underlines the importance of assured MSP including the farmers
+to step up their own investment and derive full benefit from available infrastructure. For the
+dual pricing system to yield desired results, it needs to be backed by several other policy
+measures. Since the impetus for crop diversification would be greater in the infrastructurally-
+developed regions like the north-west , this can slow down the growth of food grains output in
 
-i | determine for nuclear energy, the difference would amount to the primordial energy left."
-
-Previous research has demonstrated that these heat-producing radioactive elements alone are
-insufficient to account for the 46 TW the Earth radiates; therefore, residual primordial energy
-
-2 Is
+2/8
 --- page 3 ---
-must be present. Determining the amount of energy left from both sources will also offer insight
-into how the Earth is burning its fuel, its consumption rate in the past and its future fuel budget.
+the country and, in particular, the surpluses procured, unless immediate measures are taken to
+Strengthen public support for irrigation, technology, extension and credit in the rest of the
+company, especially in the central and eastern regions where there is a large potentials the
+growth of food grains output has barely kept pace with population growth since the mid-90s.
+This also calls for more effective public procurement of food grains at MSP in these regions, as
+farmers have to often sell their produce immediately after the harvest at prices that are lower
+than MSP. Therefore, dual pricing system can be sustained only through non-price interventions
+such as infrastructural support for regional dispersal of growth in food grains output.
 
-"There are two gas gauges — one primordial energy and one nuclear energy," McDonough
-explained. "If we have lots of nuclear energy, we used up our primordial energy. If we have a
-little bit of nuclear energy, then we have not used up our primordial energy."
+The new system requires better market intelligence forecasts as well as conc
 
-McDonough said the amount of fuel left could be the difference between the planet continuing to
-function for 5 billion years or 10 billion years. When the fuel does run out, which McDonough
-said will happen, then the planet will essentially "die" as its planetary processes no longer
-function.
+urrent analyses on
+prices and sales in markets in India and abroad.
 
-The detectors used to find the antineutrino particles are each the size of a small office building,
-housed about a mile underground. Antineutrinos are identified inside the detector when the
-particles crash into a hydrogen atom, causing two characteristic light flashes. There are currently
-two such detection facilities, in Japan and Italy, which record only about 16 collisions per year.
-Three new detectors — one in Canada and two in China — are expected to come online in 2022.
+Questions.
 
-"Once we collect three years of antineutrino data from all five detectors, we are confident that we
-will have developed an accurate fuel gauge for the Earth and be able to calculate the amount of
-remaining fuel inside Earth," McDonough said in the statement about the team's 2025 goal.
+(a) | What are the two elements of dual pricing system for procuring food grains? (2 marks)
 
-B) Give the synonyms of: (4 marks)
+(b) How will the above proposed system benefit the nation? (2 marks)
 
-i. Wane
-ii. Authentic
-iii. Diligent
-iv. Tensile
-v. Wit
-vi. Gimmick
-vii. Ambidextrous
-viii. | Homogenous
+(c) In order to boost the dual system what urgent measures are needed to be taken? (2 marks)
 
-3 [3
+(d) How we can sustain the dual pricing system? (2 marks)
+
+(e) Summaries the passage in your own words. (6 marks)
+
+3{8
 ````
 
 ## 2016-17 · Re-Exam · Sem 1 · paper 50d9248517cb
@@ -4592,6 +5052,290 @@ iv. An imaginary perfect social and political system
 3/5,
 ````
 
+## 2016-17 · Re-Exam · Sem 1 · paper c15911f846d3
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/COMMUNICATION SKILLS B TECH (ALL STREAMS), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 03 December 2016
+- Text: ocr (3 pages), mean OCR confidence 93.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+—
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Progfamme : B. Tech (All Streams) Year: I Semester: I
+Batch : 2015-2016
+fi Academic Year : 2016-2017 etn a
+OVE OF
+Subject : Communication Skills Marks : 70 4, coo coe
+Time: 2. Bir to 5.0 5! ff
+Date : 03 December 2016 Duration ce 7 . . te Ue
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all 5 questions to be attempted. :
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1-A) Summarize the given passage in about 180 words: - (8 Marks)
+
+Jellyfish have drifted along on ocean currents for millions of years, even before dinosaurs lived on the Earth. The
+jellylike creatures pulse along on ocean currents and are abundant in cold and warm ocean water, in deep water, and
+along coastlines.
+
+Jellyfish have tiny stinging cells in their tentacles to stun or paralyze their prey before they eat them. Inside their bell-
+shaped body is an opening that is its mouth. They eat and discard waste from this opening. As jellyfish squirt water
+from their mouths they are propelled forward. Tentacles hang down from the smooth baglike body and sting their
+prey.
+
+Jellyfish stings can be painful to humans and sometimes very dangerous. But jellyfish don't purposely attack humans.
+Most stings occur when people accidentally touch a jellyfish, but if the sting is from a dangerous species, it can be
+deadly. Jellyfish digest their food very quickly. They wouldn't be able to float if they had to carry a large, undigested
+meal around.
+
+They dine on fish, shrimp, crabs and tiny plants. Sea turtles relish the taste of jellyfish. Some jellyfish are clear, but
+others are in vibrant colors such as pink, yellow, blue, and purple, and often are luminescent. The Chinese have fished
+jellyfish for 1,700 years. They are considered a delicacy and are used in Chinese medicine.
+--- page 2 ---
+Jellyfish” is a decidedly unscientific term—the creatures are not fish and are more rubbery than jamlike—but
+
+scientists use it all the same (though one I spoke with prefers his own coinage, “gelata”). The word “jellyfish” lumps i
+together two groups of creatures that look similar but are unrelated. The largest group includes the bell-shaped beings
+that most people envision when they think of jellyfish: the so-called “true jellies” and their kin. The other group
+consists of comb jellies—ovoid, ghostly creatures that swim by beating their hairlike cilia and attack their prey with
+gluey appendages instead of stinging tentacles. (Many other gelatinous animals are often referred to as jellyfish,
+including the Portuguese man-of-war, a colony of stinging animals known as a siphonophore.) All told, there are some
+1,500 jellyfish species: blue blubbers, bushy bottoms, fire jellies, jimbles. Cannonballs, sea walnuts. Pink meanies,
+
+The bell-shaped jellies—distantly related to corals and anemones—launched their lifestyle long, long ago. Exquisite
+jellyfish fossils found recently in Utah display reproductive organs, muscle structure and intact tentacles; the jelly
+fossils, the oldest discovered, date back more than 500 million years, when Utah was a shallow sea. By contrast, fish
+evolved only about 370 million years ago.
+
+’ The descendants of those ancient jellies haven’t changed much. They are boneless and bloodless. In their domelike
+bells, guts are squished beside gonads. The mouth doubles as an anus. (Jellies are also brainless, “so they don’t have
+to contemplate that,” one jelly specialist says.) Jellies drift at the mercy of the currents, though many also propel
+themselves by contracting their bells, pushing water out, while others—such as the upside-down jellyfish and the
+flower hat, with its psychedelic lures—can recline on the seafloor. They absorb oxygen and store it in their jelly. They
+can sense light and certain chemicals. They can grow quickly when there’s food around and shrink when there isn’t.
+Their tentacles, which reach up to 100 feet long in some species, are covered with cells called nematocysts that fire
+tiny poison harpoons, enabling the animals to immobilize krill, larval fish and other prey without risking their mushy
+bodies in a struggle. Yet if sea turtle bites off a hunk, the flesh regenerates.
+
+Q.1-B) Answer any two of the following questions in 250 words each: (3 x 2=6 Marks)
+
+a. Discuss SQ3R technique of reading.
+b. Explain any three types of listening.
+c. Discuss a few strategies to enhance reading speed.
+
+Q.2-A) Explain Kinesics as an important component of Non Verbal Communication. (500 words) (7 Marks)
+
+Q.2-B) Silence and paralinguistic elements speak louder than words. Reflect. (500 words) (7 Marks)
+
+Q.3-A) Technically describe any one of the following objects: (8 Marks)
+a. Microscope b. Mechanical Pencil
+
+Q.3-B) Complete the sentence using the word or set of words for each blank that best fits the meaning of the sentence
+as a whole. (6 Marks)
+
+1. The other children did not want Alexander to play with them, so they him from their game.
+
+A. exchanged B. exhibited — C. exposed D. examined _ E. excluded
+--- page 3 ---
+2. Apart from the one small river running through it, the desert is entirely
+
+A. arid B. humid C. remote D. temperate _E. moist
+
+3. Thedancertriedto__ the movements of his teacher, exactly copying every graceful step.
+A. plagiarize _B. interpret C. mimic D. possess E. refine
+
+4. Ihave always preferred areasto___ ones, because I really like the countryside.
+A. city ...downtown   B. rural ... urban C. attractive ... beautiful
+
+
+5. Although it’s not remotely frightening in the daylight, the estate takes on quality at night.
+Q.4-A) Write notes on any three of the following in about 300 hundred words each: (4x3=12Marks)
+
+a. Proxemics
+b. Cross cultural barriers in communication
+c. Barriers to effective listening
+d. Motivation as an objective of communication
+e. Grapevine communication
+Q.4-B) Define any two of the following terms: (1x2=2 Marks)
+a. CPU b. Overhead Projector c. Desktop d. Mini drafter
+Q.5-A) You are Mr. Suryaprakash Jain, HR head of Sigma Enterprises Ltd. Your Organization has a
+huge community hall which is often lent to other organizations for their functions. You have
+received a request from Mr. Rajat Popat, Head, Student Council, NMIMS, for lending the same for
+their Youth fest. Draft a letter refusing the request. Cite appropriate reasons for the refusal.
+(modified block format) (8 Marks)
+Q.5-B) Explain the following letter parts/formats in brief: (any three) (6 Marks)
+a. Prefatory parts
+b. Complete/full Block Format
+c. Semi Block format
+d. Supplementary letter parts
+e. Open and mixed punctuation style
+
+Q.6-A) Discuss any four types of barriers in Communication and ways to minimize or eliminate these
+barriers. (600 words) (8 Marks)
+Q. 6-B) Discuss vertical, horizontal and cross channel communication, along with their advantages and
+disadvantages. (400 words) (6 Marks)
+Q.7-A) Each stage in the process of communication is equally important. Discuss. Cite examples to justify
+your answer.(500 words) (7 Marks)
+a Q.7-B) Education for employees, management and external agencies is an important objective of
+communication for organizations. Discuss. (500 words) (7 Marks)
+````
+
+## 2016-17 · Re-Exam · Sem 1 · paper 3c0978f8c2a3
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2015-16 Re Exam.pdf`
+- Printed on paper: exam date: 30 November 2016
+- Text: ocr (3 pages), mean OCR confidence 93.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated - (All Streams) Year: 1 Semester: I
+
+Academic Year: 2016-2017
+
+Subject : Communication Skills BATCH:
+Mark:
+Date : 30 November 2016 Tim¢ :
+: Dur:
+
+Re-Examination
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Q.1-A) Replace each of the following groups of words by a single word: (any fouy) Marks)
+a. Apperson who leaves his country to settle in some other country
+b. One who is an eloquent public speaker
+c. One who always looks at the positive side of life
+d. That which cannot be avoided
+e. That which cannot be expressed in words
+
+Q.1 B) Use any two of the following pair of words in sentences to show out differences in their meanings:
+
+. (2 Marks)
+a. Formerly-Formally
+b. Advice-Advise
+c. Affect-Effect
+Q.1-C) Summarize the following paragraph in around 180 words: (8 Marks)
+
+Many of us think that communication is talking - and talk we do. We interrupt, advise, reassure, judge, analyze,
+criticize, argue, moralize, threaten, divert, diagnose, etc., etc. But, good communication requires good listening as
+
+7 well as talking. In fact, since we have two ears and only one mouth, listening just might be the more important skill.
+However, we receive almost no training in good listening and usually do not realize that really "hearing" someone is
+not a passive activity.
+
+4/3
+--- page 2 ---
+To be a good listener, we must, first, pay attention. The remainder of this article will focus on "attending" skills. The
+next article will discuss how to listen "actively" rather than passively.
+
+When you are speaking and someone is not paying attention, how do you feel? Annoyed, frustrated, discounted,
+rejected, anxious or angry? Such feelings usually make communication more difficult. So how can we show someone
+who is speaking that we really are paying attention to them? We can do this both nonverbally and verbally.
+
+Research shows that about 85% of what we communicate is nonverbal. This includes our posture, physical
+movements, eye contact and our psychological presence. So, when someone is speaking to you, is your posture
+inclined toward the speaker, so as to invite and encourage expression? Or is your back turned or your arms or legs
+tightly crossed, which discourages and cuts off involvement? Are you fidgeting or otherwise distracting the speaker or
+yourself? Are you making good eye contact with the person? By looking at and observing the speaker, not only will
+the speaker fee] "attended" to, you will learn more about what is really important to him or her. Finally, we cannot
+pretend to pay attention by employing these physical techniques without also being psychologically present. We can’t
+fake interest. The speaker will know if our hearts and minds are not really there.
+
+A good listener uses questions sparingly because questions tend to focus the conversation on the questioner’ s
+perspective and concerns and can derail the focus of the speaker. Work on asking fewer questions, and when you do,
+ask "open-ended" questions. Compare "Did you call the police?" to "What did you do?" Or, "Do you feel anxious
+about the meeting tomorrow?" to "How do you feel about the meeting tomorrow?" An open-ended question is like an
+essay question which allows the speaker, rather than the questioner, to lead the conversation and clarify his or her own
+concerns. A closed question is like a true/false question and often suggests or narrows the agenda.
+
+Finally, knowing when to be silent can be a powerful communication tool. Silence allows the speaker to become
+aware of his or her own feelings, to explore more deeply and to proceed at his or her own pace. Because many
+listeners become self-conscious with silence, they feel the need to "break" it by talking or asking questions.
+Unfortunately, this usually disrupts and derails the speaker. How can silence be handled? Pay attention to the body
+posture of the speaker and "listen" to what it says to you. Try to imagine what the speaker might be feeling, consider
+various ways that you might respond, and then choose the most helpful response.
+
+Q.2-A) List down and explain any five organizational barriers to communication. (600 Words) (8 Marks)
+Q.2- B) Discuss Information as an objective of communication. (300 words) (@Marks)
+Q.3-) Write short notes on any four of the following: (200 words each) A (4 Marks)
+
+a. Paralanguage
+
+b. Chronemics
+
+c. Proxemics
+
+d. Business Letter formats
+
+e. Silence as a means of communication
+
+f. Haptics
+Q.4-A) Explain how one can enhance one’s communication skills through reading. Also discuss a few strategies that
+can help one improve one’s reading speed. (400 words) (7/Marks)
+Q.4-B) Active listening skills can help one become a better communicator. Explain. (400 words) €7-Marks)
+
+2[3
+--- page 3 ---
+Q.5 -A) Technically Describe any one of the following objects: (8 Marks)
+i) Calculator ii) Soldering Iron .
+
+Q.5- B) Technically describe any one of following the processes: (6Marks)
+i) Withdrawing money from ATM
+ii) Any one of your lab experiments
+
+~
+Q.6-A) Discuss formal networks of communication and their advantages and limitations (400 words).
+
+(} Marks)
+
+Q.6-B) Discuss grapevine as an informal channel of communication and its advantages and limitations. (400 words)
+
+(¥Marks)
+
+Q.7) As the purchase manager of Satyam Computers, 5 -Pallava Road, Banagalore-240089, you had ordered thirty
+personal computers from MB Computers, 140, BM Road, New Delhi-230078. When the consignment arrived,
+you found some of the pieces in damaged condition. Draft a letter of complaint asking for repair,
+replacement or compensation. (full block format) (14-Marks)
+
+3[3
+````
+
 ## 2016-17 · Re-Exam · Sem 1 · paper f2348d358154
 
 - Departments: Common (all branches)
@@ -4599,6 +5343,7 @@ iv. An imaginary perfect social and political system
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2015-16,2016-17 Re Exam.pdf`
 - Printed on paper: exam date: 30-May-17
 - Text: ocr (3 pages), mean OCR confidence 93.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4705,7 +5450,6 @@ a. Vacuum Cleaner
 b. OHP
 2.
 a. Write the Synonyms for the following words: (2 Marks)
-i) Frail ii) Mundane iii) Colossal iv) Erudite
 b. Write the Antonyms for the following words: (2 Marks)
 i) Rigid ii) Egoistic iii) Animosity iv) Glib
 3. Choose the appropriate word to fit the sentence: (2 Marks)
@@ -4732,200 +5476,6 @@ a quotation for the same. Use Semi-block form for your letter. (8 Marks)
 b. Explain the different types and techniques of reading with examples. (6 Marks)
 
 zs
-````
-
-## 2016-17 · Re-Exam · Sem 1 · paper 11cef1bbdf7b
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2015-16,2016-17 Re Exam_11cef1bbdf.pdf`
-- Printed on paper: exam date: 30 November 2017
-- Text: ocr (4 pages), mean OCR confidence 93.8
-
-````text
-SVKM’S NMIMS |
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2017-2018 .
-Program: B, Tech Integrated (All Streams) ~ - Year:} « Semester:Ir
-Batch: 2015-16/ 2016-17 =
-Subject: Communication Skills ~
-Date 30 November 2017
-
-RE-EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-
-Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions are to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page. -
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary. —
-
-Q.1-A): Write short notes on any two: 300 words each (2x4=8 Marks)
-
-a. Write a short note on education as an objective of communication.
-b. Explain with examples any four organizational barriers to communication.
-c. Study of proxemics helps one understand space dynamics and communicate better. Comment.
-
-Q.1-B)-a) Choose a word which is a synonym of the given word: (3 Marks)
-
-1. Augment
-
-a. slope b. deceive c. affirm d. increase
-2. Quandry
-a. disagree   b. mockery c. dilemma d. change
-
-3. mundane
-a. feminine b. friendly c. ordinary d. amazing
-
-/+
---- page 2 ---
-b) Choose a word which is an antonym of the given word: (3 Marks)
-
-1. Surfeit
-a. lack b. mass c. refuse d. blemish
-2. Demur
-a. agree b. elevate c. trick d. huff
-3. Frail
-a. Perplexed b. humble c. strong d. inapt
-Q.2-A Read the given passage carefully and answer the questions that follow: (6 Marks)
-
-Fleas are perfectly designed by nature to feast on anything containing blood. Like a shark in the water or a wolf in the
-woods, fleas are ideally equipped to do what they do, making them very difficult to defeat. The bodies of these tiny
-parasites are extremely hardy and well-suited for their job.
-
-A flea has a.very hard exoskeleton, which means the body is covered by a tough, tile-like plate called a sclerite. Because
-of these plates, fleas are almost impossible to squish. The exoskeletons of fleas are also waterproof and shock resistant,
-and therefore fleas are highly resistant to the sprays and chemicals used to kill them.
-
-Little spines are attached to this plate. The spines lie flat against the flea’s thin, narrow body as the flea scurries through
-an animal’s fur in search of food. However, if anything (like fingers or a self-grooming pet) tries to pull a flea off through
-the hair coat, these spines will extend and stick to the fur like Velcro.
-
-Fleas are some of the best jumpers in the natural world. A flea can jump seven inches, or 150 times its own length, either
-vertically or horizontally. An equivalent jump for a person would be 555 feet, the height of the Washington Monument.
-Fleas can jump 30,000 times in a row without stopping, and they are able to accelerate through the air at an incredibly
-high rate—a rate which is over ten times what humans can withstand in an airplane.
-
-Fleas have very long rear legs with huge thigh muscles and multiple joints. When they get ready to jump, they fold their
-long legs up and crouch like a runner on a starting block. Several of their joints contain a protein called resilin, which
-helps catapult fleas into the air as they jump, similar to the way a rubber band provides momentum to a slingshot.
-Outward facing claws on the bottom of their legs grip anything they touch when they land.
-
-The adult female flea mates after her first blood meal and begins producing eggs in just | to 2 days. One flea can lay up to
-
-.50 eggs in one day and over 2,000 in her lifetime. Flea eggs can be seen with the naked eye, but they are about the size of
-a grain of salt. Shortly after being laid, the eggs begin to transform into cocoons. In the cocoon state, fleas are fully
-developed adults, and will hatch immediately if conditions are favorable. Fleas can detect warmth, movement, and carbon
-dioxide in exhaled breath, and these three factors stimulate them to emerge as new adults. If the flea does not detect
-appropriate conditions, it can remain dormant in the cocoon state for extended periods. Under ideal conditions, the entire
-life cycle may only take 3 weeks, so in no time at all, pets and homes can become infested.
-
-Because of these characteristics, fleas are intimidating opponents. The best way to control fleas, therefore, is to take steps
-to prevent an infestation from ever occurring.
-
-‘ly
---- page 3 ---
-1) The primary purpose of the passage is to
-
-A. educate the reader about the physical characteristics of fleas
-B. compare fleas to other members of the animal kingdom
-
-C. relate the problems that can result from a flea infestation
-
-D. explain why a flea infestation is hard to get rid of
-
-2) The author’s tone in the passage is best described as
-A. concerned
-
-B. passionate
-
-C. informative
-
-D. opinionated
-
-3) According to the passage, fleas are resistant to sprays and chemicals because they,
-A. have waterproof sclerites
-
-B. are excellent jumpers
-
-C. reproduce very rapidly
-
-D. can stick to fur like Velcro
-
-4) Fleas are difficult to squish because they have
-I. sclerites
-
-II. tough spines
-
-III. resilin in their joints
-
-A. Lonly
-
-B. Land II only
-C. I and III only
-D. I, I, and Il
-
-5) According to the passage, which of the following statements is true?
-A. Fleas extend their little spines if threatened.
-
-B. Fleas have the ability to jump higher than humans.
-
-C. Humans can jump higher if they consume foods containing resilin.
-
-D. The resilin found in fleas is used to make rubber bands.
-
-6) According to the passage, fleas are able to jump
-I. with a high rate of acceleration
-
-II. up and down and from side to side
-
-IIL. because the blood they eat contains resilin
-
-A. I only
-
-B. Land II only
-C. IL and III only
-D. |, IL, and Il
-
-Q.2-B) Summarize the above passage in about 180 words. (8 Marks)
-14
---- page 4 ---
-Q. 3-A) Breakdown may occur at any of the stages during the communication process. Explain with examples and
-
-diagram. (500 words) . (8 Marks)
-Q.3- B) Explain and elaborate motivation and raising morale as objectives of communication. (400 words)
-(6 Marks)
-
-Q.4-A) Technically describe (with illustration) any one of the following objects:
-a. Mechanical Pencil b. overhead projector c. mini drafter (8 Marks)
-Q.4-B) Give technical instructions for soldering. (6 Marks)
-
-Q.5-A) Explain the process of listening and elucidate with examples any four types of listening. (400 words)
-
-(6 Marks)
-Q.5-B) Discuss formal Networks of Communication and the flow of communication in an organization. Include channels
-used, advantages and drawbacks of each of them. (500 words) (8 Marks)
-
-Q.6) Explain with exampies various barriers to communication and also reflect on how to eliminate these barriers.
-(800-1000 words) (14 Marks)
-
-Q. 7-A) You are the Sales Manager of Utkarsh Electrical Stores. You have received a complaint letter from one of your
-customers about the defects in a laptop that he bought from your store a week ago. Draft a suitable reply. (Full
-Block Format) (8 Marks)
-
-Q.7-B) Discuss various formats of formal letters. Enlist and explain individual parts of letters. (400 words)
-(6 Marks)
 ````
 
 ## 2016-17 · Re-Exam · Sem 2 · paper 6d6d209b3475
@@ -5392,6 +5942,7 @@ speech. (7 marks) ~
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/COMMUNICAITON SKILL BATCH 2015-16 RE EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 13 June 2016
 - Text: ocr (3 pages), mean OCR confidence 91.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 XY SVKM’s NMIMS
@@ -5541,439 +6092,6 @@ Q.9.C. Give the synonyms of: (2 marks)
 
 2. Disseminate
 
-24 2 ee ag oe 2 2 2 2 oe ee oe oe 2 2 2 2 2 2 2 oe 2 2 oe ok ok ok 2 ok ok ok ok
-````
-
-## 2015-16 · Re-Exam · Sem 1 · paper 98af17192597
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/COMMUNICAITON SKILLS BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 31 May 2017
-- Text: ocr (3 pages), mean OCR confidence 93.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech. (All Streams) Year: I Semester: I
-
-Batch: 2015-16 : eee
-« Academic Year: 2016-2017
-: doaieanian aN
-
-Subject: Communication Skills <
-Marks: 70 af MPSTME YS:
-
-Date: 31 May 2017. — Time: 10.00 fn bol B00 prt "i
-. Durations:3 faks|_
-
-No. of Pages. —— a,
-
-Instructions: Candidates should read carefully the instructions printed on the eed
-paper and on the cover of Answer Book, which is provided for the use.
-NB:
-
-Re-Examination
-
-1. Question No. 1 is compulsory
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all five questions to be attempted.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-6. Answers to all the sub-questions should be attempted and grouped together.
-
-Q.1 a) “The sender is largely responsible for the effective transmission of a message.”---In the
-light of this statement explain what the sender of a message can do to minimize barriers in
-communication. (7 marks)
-
-b) Explain the significance of downward communication in an organization. “(7 marks)
-
-Q.2 a) Agrawal Textile Mills Ltd., Pune have received an order for 1000 mts of dark grey
-woolen suiting. They are out of stock for this particular shade but can offer suiting of a lighter
-shade and of a better quality at same price. Write a persuasive letter on their behalf. (Use Semi
-Block Format) (10 marks)
-
-b) Identify the communication barriers in the following situations: (4 marks)
-1) “This room is terrible to work in. I am able to hear everyone around and | can’t concentrate.”
-
-2) “I don’t agree with you. I have specialized in the subject and have been frequently invited to
-deliver talks on this. I can’t be wrong.”
-
-Q.3 a) Write a technical description of an electric bulb. (7 marks)
-b) Explain the importance of non-verbal communication in oral presentation. (7 marks)
-
-Q.4 a) You are the proprietor of “Bagal Furnitures.” You have received an order of 100 office
-tables and chairs. But you are unable to execute the order because of shortage of workers. Draft a
-suitable adjustment letter in the modified block format. (10 marks)
-
-1/3
---- page 2 ---
-b) Explain the following terms briefly: (4 marks)
-
-1) Skimming
-
-2) Review
-
-Q.5 a) Why is ‘Listening’ an important skill for effective communication? (7 marks)
-b) What are the objectives of communication? (7 marks)
-Q.6 a) Define the following: (6 marks)
-1) Hammer
-
-2) Hack saw
-
-3) Voltmeter
-
-b) Write short notes on the following: (8 marks)
-1) Grapevine communication
-
-2) The importance of a courteous, helpful attitude in writing business letters.
-
-Q.7. Read the following passage and answer the questions that follow:
-
-It is reported that the government is close to finalizing a system of dual pricing forsthe
-public procurement of food grains. There would be two basic elements to this system: A fixed
-Minimum Support Price (MSP) covering the cost of cultivation, as at present, recommended by
-the Commission on Agricultural Costs and Prices (CACP), and variable procurement prices, at
-the discretion of the department of food, depending on market. For example, according to a
-working group of the Planning Commission, over the five year period ending 2001-02 when
-there was a steep rise in procurement price resulting in accumulation of embarrassing large
-stock of food grains of over 60 million tones with the government, consumption of food grains
-in the country was reduced, on this account, by at least five million tons per annum. The new
-system by assigning a greater role for private trade can improve the efficiency in the distribution
-of food grains and substantially cut down subsidies, which can help to step up much needed
-public investment in agriculture. The proposed dual pricing system is a better alternative than
-total marketisation of food grains trade by disbanding altogether public procurement at MSP.
-
-Such a dismantling could lead to a crash in market prices of food grains in years of food
-harvest. Even though this may take exports competitive and raise domestic consumption of food
-grains in the short run, it may undermine food security by sapping producer incentives. The
-experience of green revolution underlines the importance of assured MSP including the farmers
-to step up their own investment and derive full benefit from available infrastructure. For the
-dual pricing system to yield desired results, it needs to be backed by several other policy
-measures. Since the impetus for crop diversification would be greater in the infrastructurally-
-developed regions like the north-west , this can slow down the growth of food grains output in
-
-2/8
---- page 3 ---
-the country and, in particular, the surpluses procured, unless immediate measures are taken to
-Strengthen public support for irrigation, technology, extension and credit in the rest of the
-company, especially in the central and eastern regions where there is a large potentials the
-growth of food grains output has barely kept pace with population growth since the mid-90s.
-This also calls for more effective public procurement of food grains at MSP in these regions, as
-farmers have to often sell their produce immediately after the harvest at prices that are lower
-than MSP. Therefore, dual pricing system can be sustained only through non-price interventions
-such as infrastructural support for regional dispersal of growth in food grains output.
-
-The new system requires better market intelligence forecasts as well as conc
-
-urrent analyses on
-prices and sales in markets in India and abroad.
-
-Questions.
-
-(a) | What are the two elements of dual pricing system for procuring food grains? (2 marks)
-
-(b) How will the above proposed system benefit the nation? (2 marks)
-
-(c) In order to boost the dual system what urgent measures are needed to be taken? (2 marks)
-
-(d) How we can sustain the dual pricing system? (2 marks)
-
-(e) Summaries the passage in your own words. (6 marks)
-
-3{8
-````
-
-## 2015-16 · Re-Exam · Sem 1 · paper c15911f846d3
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMMMUNICATION SKILLS/COMMUNICATION SKILLS B TECH (ALL STREAMS), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 03 December 2016
-- Text: ocr (3 pages), mean OCR confidence 93.1
-
-````text
-—
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Progfamme : B. Tech (All Streams) Year: I Semester: I
-Batch : 2015-2016
-fi Academic Year : 2016-2017 etn a
-OVE OF
-Subject : Communication Skills Marks : 70 4, coo coe
-Time: 2. Bir to 5.0 5! ff
-Date : 03 December 2016 Duration ce 7 . . te Ue
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4questions.
-
-3) In all 5 questions to be attempted. :
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1-A) Summarize the given passage in about 180 words: - (8 Marks)
-
-Jellyfish have drifted along on ocean currents for millions of years, even before dinosaurs lived on the Earth. The
-jellylike creatures pulse along on ocean currents and are abundant in cold and warm ocean water, in deep water, and
-along coastlines.
-
-Jellyfish have tiny stinging cells in their tentacles to stun or paralyze their prey before they eat them. Inside their bell-
-shaped body is an opening that is its mouth. They eat and discard waste from this opening. As jellyfish squirt water
-from their mouths they are propelled forward. Tentacles hang down from the smooth baglike body and sting their
-prey.
-
-Jellyfish stings can be painful to humans and sometimes very dangerous. But jellyfish don't purposely attack humans.
-Most stings occur when people accidentally touch a jellyfish, but if the sting is from a dangerous species, it can be
-deadly. Jellyfish digest their food very quickly. They wouldn't be able to float if they had to carry a large, undigested
-meal around.
-
-They dine on fish, shrimp, crabs and tiny plants. Sea turtles relish the taste of jellyfish. Some jellyfish are clear, but
-others are in vibrant colors such as pink, yellow, blue, and purple, and often are luminescent. The Chinese have fished
-jellyfish for 1,700 years. They are considered a delicacy and are used in Chinese medicine.
---- page 2 ---
-Jellyfish” is a decidedly unscientific term—the creatures are not fish and are more rubbery than jamlike—but
-
-scientists use it all the same (though one I spoke with prefers his own coinage, “gelata”). The word “jellyfish” lumps i
-together two groups of creatures that look similar but are unrelated. The largest group includes the bell-shaped beings
-that most people envision when they think of jellyfish: the so-called “true jellies” and their kin. The other group
-consists of comb jellies—ovoid, ghostly creatures that swim by beating their hairlike cilia and attack their prey with
-gluey appendages instead of stinging tentacles. (Many other gelatinous animals are often referred to as jellyfish,
-including the Portuguese man-of-war, a colony of stinging animals known as a siphonophore.) All told, there are some
-1,500 jellyfish species: blue blubbers, bushy bottoms, fire jellies, jimbles. Cannonballs, sea walnuts. Pink meanies,
-a.k.a. stinging cauliflowers. Hair jellies, a.k.a. snotties. Purple people eaters.
-
-The bell-shaped jellies—distantly related to corals and anemones—launched their lifestyle long, long ago. Exquisite
-jellyfish fossils found recently in Utah display reproductive organs, muscle structure and intact tentacles; the jelly
-fossils, the oldest discovered, date back more than 500 million years, when Utah was a shallow sea. By contrast, fish
-evolved only about 370 million years ago.
-
-’ The descendants of those ancient jellies haven’t changed much. They are boneless and bloodless. In their domelike
-bells, guts are squished beside gonads. The mouth doubles as an anus. (Jellies are also brainless, “so they don’t have
-to contemplate that,” one jelly specialist says.) Jellies drift at the mercy of the currents, though many also propel
-themselves by contracting their bells, pushing water out, while others—such as the upside-down jellyfish and the
-flower hat, with its psychedelic lures—can recline on the seafloor. They absorb oxygen and store it in their jelly. They
-can sense light and certain chemicals. They can grow quickly when there’s food around and shrink when there isn’t.
-Their tentacles, which reach up to 100 feet long in some species, are covered with cells called nematocysts that fire
-tiny poison harpoons, enabling the animals to immobilize krill, larval fish and other prey without risking their mushy
-bodies in a struggle. Yet if sea turtle bites off a hunk, the flesh regenerates.
-
-Q.1-B) Answer any two of the following questions in 250 words each: (3 x 2=6 Marks)
-
-a. Discuss SQ3R technique of reading.
-b. Explain any three types of listening.
-c. Discuss a few strategies to enhance reading speed.
-
-Q.2-A) Explain Kinesics as an important component of Non Verbal Communication. (500 words) (7 Marks)
-
-Q.2-B) Silence and paralinguistic elements speak louder than words. Reflect. (500 words) (7 Marks)
-
-Q.3-A) Technically describe any one of the following objects: (8 Marks)
-a. Microscope b. Mechanical Pencil
-
-Q.3-B) Complete the sentence using the word or set of words for each blank that best fits the meaning of the sentence
-as a whole. (6 Marks)
-
-1. The other children did not want Alexander to play with them, so they him from their game.
-
-A. exchanged B. exhibited — C. exposed D. examined _ E. excluded
---- page 3 ---
-2. Apart from the one small river running through it, the desert is entirely
-
-A. arid B. humid C. remote D. temperate _E. moist
-
-3. Thedancertriedto__ the movements of his teacher, exactly copying every graceful step.
-A. plagiarize _B. interpret C. mimic D. possess E. refine
-
-4. Ihave always preferred areasto___ ones, because I really like the countryside.
-A. city ...downtown   B. rural ... urban C. attractive ... beautiful
-
-D. quiet ... tranquil   E. magnificent ... majestic
-
-5. Although it’s not remotely frightening in the daylight, the estate takes on quality at night.
-A. an eerie B. a stately C. ajovial D. an optimistic E. a marvelous
-Q.4-A) Write notes on any three of the following in about 300 hundred words each: (4x3=12Marks)
-
-a. Proxemics
-b. Cross cultural barriers in communication
-c. Barriers to effective listening
-d. Motivation as an objective of communication
-e. Grapevine communication
-Q.4-B) Define any two of the following terms: (1x2=2 Marks)
-a. CPU b. Overhead Projector c. Desktop d. Mini drafter
-Q.5-A) You are Mr. Suryaprakash Jain, HR head of Sigma Enterprises Ltd. Your Organization has a
-huge community hall which is often lent to other organizations for their functions. You have
-received a request from Mr. Rajat Popat, Head, Student Council, NMIMS, for lending the same for
-their Youth fest. Draft a letter refusing the request. Cite appropriate reasons for the refusal.
-(modified block format) (8 Marks)
-Q.5-B) Explain the following letter parts/formats in brief: (any three) (6 Marks)
-a. Prefatory parts
-b. Complete/full Block Format
-c. Semi Block format
-d. Supplementary letter parts
-e. Open and mixed punctuation style
-
-Q.6-A) Discuss any four types of barriers in Communication and ways to minimize or eliminate these
-barriers. (600 words) (8 Marks)
-Q. 6-B) Discuss vertical, horizontal and cross channel communication, along with their advantages and
-disadvantages. (400 words) (6 Marks)
-Q.7-A) Each stage in the process of communication is equally important. Discuss. Cite examples to justify
-your answer.(500 words) (7 Marks)
-a Q.7-B) Education for employees, management and external agencies is an important objective of
-communication for organizations. Discuss. (500 words) (7 Marks)
-````
-
-## 2015-16 · Re-Exam · Sem 1 · paper 3c0978f8c2a3
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2015-16 Re Exam.pdf`
-- Printed on paper: exam date: 30 November 2016
-- Text: ocr (3 pages), mean OCR confidence 93.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated - (All Streams) Year: 1 Semester: I
-
-Academic Year: 2016-2017
-
-Subject : Communication Skills BATCH:
-Mark:
-Date : 30 November 2016 Tim¢ :
-: Dur:
-
-Re-Examination
-
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-Q.1-A) Replace each of the following groups of words by a single word: (any fouy) Marks)
-a. Apperson who leaves his country to settle in some other country
-b. One who is an eloquent public speaker
-c. One who always looks at the positive side of life
-d. That which cannot be avoided
-e. That which cannot be expressed in words
-
-Q.1 B) Use any two of the following pair of words in sentences to show out differences in their meanings:
-
-. (2 Marks)
-a. Formerly-Formally
-b. Advice-Advise
-c. Affect-Effect
-Q.1-C) Summarize the following paragraph in around 180 words: (8 Marks)
-
-Many of us think that communication is talking - and talk we do. We interrupt, advise, reassure, judge, analyze,
-criticize, argue, moralize, threaten, divert, diagnose, etc., etc. But, good communication requires good listening as
-
-7 well as talking. In fact, since we have two ears and only one mouth, listening just might be the more important skill.
-However, we receive almost no training in good listening and usually do not realize that really "hearing" someone is
-not a passive activity.
-
-4/3
---- page 2 ---
-To be a good listener, we must, first, pay attention. The remainder of this article will focus on "attending" skills. The
-next article will discuss how to listen "actively" rather than passively.
-
-When you are speaking and someone is not paying attention, how do you feel? Annoyed, frustrated, discounted,
-rejected, anxious or angry? Such feelings usually make communication more difficult. So how can we show someone
-who is speaking that we really are paying attention to them? We can do this both nonverbally and verbally.
-
-Research shows that about 85% of what we communicate is nonverbal. This includes our posture, physical
-movements, eye contact and our psychological presence. So, when someone is speaking to you, is your posture
-inclined toward the speaker, so as to invite and encourage expression? Or is your back turned or your arms or legs
-tightly crossed, which discourages and cuts off involvement? Are you fidgeting or otherwise distracting the speaker or
-yourself? Are you making good eye contact with the person? By looking at and observing the speaker, not only will
-the speaker fee] "attended" to, you will learn more about what is really important to him or her. Finally, we cannot
-pretend to pay attention by employing these physical techniques without also being psychologically present. We can’t
-fake interest. The speaker will know if our hearts and minds are not really there.
-
-A good listener uses questions sparingly because questions tend to focus the conversation on the questioner’ s
-perspective and concerns and can derail the focus of the speaker. Work on asking fewer questions, and when you do,
-ask "open-ended" questions. Compare "Did you call the police?" to "What did you do?" Or, "Do you feel anxious
-about the meeting tomorrow?" to "How do you feel about the meeting tomorrow?" An open-ended question is like an
-essay question which allows the speaker, rather than the questioner, to lead the conversation and clarify his or her own
-concerns. A closed question is like a true/false question and often suggests or narrows the agenda.
-
-Finally, knowing when to be silent can be a powerful communication tool. Silence allows the speaker to become
-aware of his or her own feelings, to explore more deeply and to proceed at his or her own pace. Because many
-listeners become self-conscious with silence, they feel the need to "break" it by talking or asking questions.
-Unfortunately, this usually disrupts and derails the speaker. How can silence be handled? Pay attention to the body
-posture of the speaker and "listen" to what it says to you. Try to imagine what the speaker might be feeling, consider
-various ways that you might respond, and then choose the most helpful response.
-
-Q.2-A) List down and explain any five organizational barriers to communication. (600 Words) (8 Marks)
-Q.2- B) Discuss Information as an objective of communication. (300 words) (@Marks)
-Q.3-) Write short notes on any four of the following: (200 words each) A (4 Marks)
-
-a. Paralanguage
-
-b. Chronemics
-
-c. Proxemics
-
-d. Business Letter formats
-
-e. Silence as a means of communication
-
-f. Haptics
-Q.4-A) Explain how one can enhance one’s communication skills through reading. Also discuss a few strategies that
-can help one improve one’s reading speed. (400 words) (7/Marks)
-Q.4-B) Active listening skills can help one become a better communicator. Explain. (400 words) €7-Marks)
-
-2[3
---- page 3 ---
-Q.5 -A) Technically Describe any one of the following objects: (8 Marks)
-i) Calculator ii) Soldering Iron .
-
-Q.5- B) Technically describe any one of following the processes: (6Marks)
-i) Withdrawing money from ATM
-ii) Any one of your lab experiments
-
-~
-Q.6-A) Discuss formal networks of communication and their advantages and limitations (400 words).
-
-(} Marks)
-
-Q.6-B) Discuss grapevine as an informal channel of communication and its advantages and limitations. (400 words)
-
-(¥Marks)
-
-Q.7) As the purchase manager of Satyam Computers, 5 -Pallava Road, Banagalore-240089, you had ordered thirty
-personal computers from MB Computers, 140, BM Road, New Delhi-230078. When the consignment arrived,
-you found some of the pieces in damaged condition. Draft a letter of complaint asking for repair,
-replacement or compensation. (full block format) (14-Marks)
-
-3[3
 ````
 
 ## 2015-16 · Re-Exam · Sem 2 · paper 6a6aab99abfe
@@ -6074,126 +6192,6 @@ Q. 7) A computer institute in Mumbai has advertised a special vacation training 
 
 engineering students which you wish to attend. Draft a letter of enquiry requesting details of the program, including
 accommodation facilities for outstation students. (Full Block Format) (14 Marks)
-````
-
-## 2015-16 · Re-Exam · Sem 2 · paper 1846246b1aea
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/COMMUNICATION SKILLS/Communication skills Re-exam 2015-16-17-18.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 18 April 2019
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE! 2IN
-Programme: MBA Tech (All Streams) ~ Year: I — Semester: II ~
-
-Academic Year: 2018-2019
-
-Subject: Communication Skills “
-
-Marks: 70 ~
-
-Date: 18 April 2019 - ~ Time: 10.00 am to 1.00 pm ~
-Durations: 3 (hrs) ~
-No. of Pages: <
-
-Re-Examination (2015-16 / 2016-17 / 2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1, A. Write a short note on Paralanguage. (250 words) | ' (4)
-
-B. Attempt any 2 of the following: : ; (10)
-i. Explain Skimming and Scanning with respect to reading skills. (300 words)
-ii. Explain the 7 Cs of effective business writing. (300 words)
-iii. | Write a technical description of an electric iron.
-iv. Fill in the following blanks with appropriate words from the options given below:
-, (excruciating, punctuation, extracting, paraphrasing, compensated, gratitude, regret,
-relieved)
-
-The commas and full-stops in my essay weren’t in place; and my alphabets were too small.
-Therefore, the teacher asked me to work on and handwriting. I tried
-re-doing the assignment but the pain in my shoulder didn’t allow me to
-write. | expressed my to the teacher but she said I didn’t need to feel sorry.
-Her kindness me of half the pain. Next week, I ___ by
-submitting two essays rather than just one!
-
-2. Explain and compare Horizontal, Vertical and Diagonal flows of communication in workplaces. (14)
-(700 words)
-
-hy
---- page 2 ---
-5.
-
-Explain, with examples, what kind of socio-psychological barriers affect communication. Suggest
-how these barriers can be overcome. (700 words)
-
-Why are speaking skills important for professionals? How can one enhance speaking skills? What
-are the characteristics of good oral communication? (700 words)
-
-A. Write a technical description of an air conditioner.
-B. Write basic instructions for using a smart phone.
-
-You are the General Secretary of your college’s Alumni Association. Being the silver jubilee year
-of the college, this students’ re-union is to be even grander. Draft a letter of order to Daffodils
-Decorators & Event Managers specifying to them your requirements of furniture, decoration,
-music, food and beverages, etc. (Use Full Block Format)
-
-A. Provide one word substitutes for the following:
-i. | One who doubts excessively
-ii. To have control over a person :
-iii. A regular record of your thoughts, opinions or experiences that you put on the internet for
-other people to read
-iv. A book containing maps
-
-Vv. An examination and analysis of views, opinions, behaviour, etc. by asking questions to
-people
-vi. A city that is the center of government of a country or state sg
-vii. A place where manufacturing is carried on
-
-B. Match the words of column A with their synonyms/ words closest in meaning in Column B
-
-A i B
-|_| numerical a_| vigorous
-2_| interval * ‘ > |b | precise
-3_| healthy c | period
-4 | mental d | alacrity
-5_| accurate e | arithmetical
-6 | haste f_| fear
-7_| alarm g | rational
-
-fe
-
-(14)
-
-(14)
-
-(7)
-
-(7)
-(14)
-
-(7)
-
-(7)
 ````
 
 ## 2015-16 · Re-Exam · Sem 1 · paper a9955b66c4b9
@@ -6394,6 +6392,7 @@ compensation. Invent necessary details. (Use Modified block style) (12)
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMUNICACTION SKILLS/Communication Skills Batch 2014-2015 Re Exam.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 12 June 2015
 - Text: ocr (2 pages), mean OCR confidence 92.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -6430,7 +6429,6 @@ b. A) In questions given below out of four alternatives, choose the one which ca
 for the given word/sentence.
 a. Study of birds
 
-i. Orology ii.Optology iii-Opthalmology iv.Ornithology
 b. A post which doesn’t carry any salary
 
 i.Honorable ii. Honorary iii. Human Resources iv.Human Rights
@@ -6442,7 +6440,6 @@ d. A place that provides refuge
 i.Asylum ii.Sanatorium iii.Shelter iv.Orphanage
 
 e. Parts of a country behind the coast or a river’s bank
-ilsthumus ii-Archipelago iii-Hinterland iv.Swamps
 B) Make sentences using the set of words to form a single sentence
 a. Board - bored
 b. Coarse - course
@@ -7006,6 +7003,76 @@ X
 (10x2=20)
 ````
 
+## 2013-14 · Re-Exam · Trim 2 · paper e0109c635470
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/COMUNICATION SKILLS BATCH 2010-11,11-12,12-13 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/06/2014
+- Text: ocr (1 page), mean OCR confidence 90.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+, '' MPSTMB }%
+1 LIBRARY Jg
+conn fs
+
+SVKM’s NMIMS lia ga
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E’
+
+Programme: B. Tech (ALL STREAMS) Year: I Trimester: II
+Batch : 2010-11/11-12/12-13
+Academic Year: 2013-2014
+Subject : Communication Skills
+Marks: 100
+Date : 25/06/2014 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+Re-Examination
+
+1. Attempt any five questions out of seven questions.
+2. Answer to each new question to be started on a fresh page.
+3. Figures in brackets to the right hand side indicate full marks.
+
+Q.1 (a). Evaluate the importance of the study of the communication cycle to improve one’s skills in
+communication. (10)
+
+Q.1 (b). Identify the advantages that the written mode of communication has over the oral mode in an
+organizational set-up. (10)
+
+Q.2 (a). Proxemics is the study of physical space in interpersonal relations. Write a detailed essay on the
+use of space as a powerful form of nonverbal communication. (10)
+Q.2 (b). Discuss any three kinds of cultural barriers to communication. (10)
+
+Q.3. Outline and explain the various stages in preparing and delivering a presentation. (20)
+
+Q.4. Draft an order letter for 1,000 boxes of assorted dry fruits that you require for your departmental
+store to meet the demands of the customers during the festive season in the city. Give all the details
+
+regarding the same in response to the quotation that you have received from Eagle Wholesale Mart. Use
+the semi-block form. (20)
+
+Q.5. Write short notes on any two of the following: (20)
+a. Mass Communication
+
+b. Grapevine
+
+c. Appraisal interview
+
+d. Notice and agenda of a Meeting
+
+Q.6 (a). Describe the preliminary steps to be followed before drafting an effective technical report. (10)
+Q.6 (b). State and explain any two objectives of business communication. (10)
+
+Q.7 (a). List and review the skills that can be employed for an effective Group Discussion. (10)
+Q.7 (b). Examine the various reasons for poor listening that adversely affect interpersonal
+
+communication. (10)
+
+/j
+````
+
 ## 2013-14 · Re-Exam · Sem 2 · paper 13e714914e62
 
 - Departments: Common (all branches)
@@ -7231,74 +7298,111 @@ if ons ; %
 fi
 ````
 
-## 2012-13 · Re-Exam · Trim 2 · paper e0109c635470
+## 2012-13 · Exam not stated · Trim 1 · paper 640bb67dd296
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/COMMUNICATION SKILLS/scan0004(10).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/10/2012
+- Text: ocr (1 page), mean OCR confidence 87.1
+
+````text
+™N
+
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MCA Year: I Trimester: I
+
+Academic Year : 2012-2013 ot: \*
+: Mumbes ee )
+| Subject: COMMUNICATION SKILLS Marks: 100 uatany :
+
+Time: 10.00 a.m. Ne
+
+Date: 30/10/2012 Duration: 3 hrs.
+
+Final - Examination
+
+N.B: 1. Atternpt any FIVE questions of the following.
+2All questions carry equal marks 20 (sub question
+
+3. Answer to each new question to be started on a fresh page
+
+Q.1. According to NLP feelings are 55 % Body language. 38% tone and 7 % words. Explain
+nonverbal communication kinesics as well as proxemics in the light of this statement.
+
+Q.2. Communication is not sarne as conversation. Cc you agree? Discuss the systematic,
+step by step naiure of communication process along with a suitable diagram and an
+explanation
+
+Q.3. A- What do you mean by GD? What are the criteria of evaluation for an effective GD.?
+B- interview skills are very iraportant as some of the interviewers ask some very probing
+questions. Discuss the techniques to achieve mastery in the personal interview skills.
+
+QA, Listening is the most naglected aspact of cornmur.cation. Write a detailed note on the
+barriers to listening and a profile of a good listener
+
+Q.5. Your friend is required te give @ formal oresentation. Vvhat suggestion would you offer
+hin in order to achieve succ
+B-What do you mean by a job application? Write ys
+
+Hur COW reSuine as a specimen.
+
+Q.6. You regularly visit “Malca super "for your shop “Recently you have
+experienced poor service and substandard goods. Write a complaint letter to the manager
+mentioning specific incidences. (Use semi block form}
+
+j
+
+‘Q.7. write shert notes o7- any two
+
+v!
+A- Grapevine communication B- Oral form of communication C- Importance of
+communication
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 49a875b96924
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/COMUNICATION SKILLS BATCH 2010-11,11-12,12-13 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/06/2014
-- Text: ocr (1 page), mean OCR confidence 90.7
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/Communication Skills Batch 2010-11,2011-12 Re Exam (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; exam date: 21/06/2013
+- Text: text (1 page)
 
 ````text
-, '' MPSTMB }%
-1 LIBRARY Jg
-conn fs
-
-SVKM’s NMIMS lia ga
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E’
-
-Programme: B. Tech (ALL STREAMS) Year: I Trimester: II
-Batch : 2010-11/11-12/12-13
-Academic Year: 2013-2014
-Subject : Communication Skills
-Marks: 100
-Date : 25/06/2014 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-Re-Examination
-
-1. Attempt any five questions out of seven questions.
-2. Answer to each new question to be started on a fresh page.
-3. Figures in brackets to the right hand side indicate full marks.
-
-Q.1 (a). Evaluate the importance of the study of the communication cycle to improve one’s skills in
-communication. (10)
-
-Q.1 (b). Identify the advantages that the written mode of communication has over the oral mode in an
-organizational set-up. (10)
-
-Q.2 (a). Proxemics is the study of physical space in interpersonal relations. Write a detailed essay on the
-use of space as a powerful form of nonverbal communication. (10)
-Q.2 (b). Discuss any three kinds of cultural barriers to communication. (10)
-
-Q.3. Outline and explain the various stages in preparing and delivering a presentation. (20)
-
-Q.4. Draft an order letter for 1,000 boxes of assorted dry fruits that you require for your departmental
-store to meet the demands of the customers during the festive season in the city. Give all the details
-
-regarding the same in response to the quotation that you have received from Eagle Wholesale Mart. Use
-the semi-block form. (20)
-
-Q.5. Write short notes on any two of the following: (20)
-a. Mass Communication
-
-b. Grapevine
-
-c. Appraisal interview
-
-d. Notice and agenda of a Meeting
-
-Q.6 (a). Describe the preliminary steps to be followed before drafting an effective technical report. (10)
-Q.6 (b). State and explain any two objectives of business communication. (10)
-
-Q.7 (a). List and review the skills that can be employed for an effective Group Discussion. (10)
-Q.7 (b). Examine the various reasons for poor listening that adversely affect interpersonal
-
-communication. (10)
-RAR AR KR KR KK KR KKK RK KK RK KKK KE KK
-
-/j
+SVKM's NMIMS
+Mukesh Patel School ofTechnolorn Manazement & Engine
+Programme:   B.Tech (ALL STREAMS)   Year: I   Trimester:   I1
+Academic Year :2012-2013
+Batch:   2010-11; 2011-12
+Subject:   Communication Skills .   Marks:   100
+Time:   10.00 a m To 1.00 pm
+Date:   21/06/2013   Duration: 3 Ins.
+Re - Examination
+N.B: 1. Attempt any   questions of the following.
+2All questions carry equal marks 20 (sub question 10)
+3. Answer to each new question to be starled on a fresh page
+Q.1. According to NLPfeelings are 55 % Body language, 38%tone and 7 %words. Explain
+nonverbal communication including Body Language as well as Space Language in the light
+of this statement.
+Q.2 Communication is not same as conversation. Do you agree? Discuss the systematic,
+step by step nature of communication process along with a suitable diagram.
+Q.3. A- What do you mean by GD? What are the criteria of evaluation for a0 effective GD.?
+5Your friend wants fo appear for an interview for a well known MNC. What suggestions
+and guidelines would you offer h iin order to be successful in his task?
+0.4. Listening is the most neglected aspect of communication. Write a detailed note on the
+barriers to listening and coping mechanisms to overcome the same.
+Q.5. The power point presentations skills play an important role in business for obvious and
+1   good reasons. Discuss in brief the presentation strategies needed to adopt by a
+professional.
+BWhat do you mean by a jobapplication? Write your own resume as a specimen.
+Q.6. You regularly visit "Malco superstore" for your shopping&Recently you have
+experienced poor service and substandard goods. Write a complaint letter to the manager
+mentioning specific incidences. (Use complete block form)
+Q.7. write short notes on- any two.
+A- Grapevine communication B- minutes of a meeting C- Cross cultural barriers to
+communication
 ````
 
 ## 2012-13 · Re-Exam · Trim 2 · paper dfb695608465
@@ -7403,6 +7507,121 @@ A Profile of a good listmer.
 B advantages and disadvantages of oral form.
 C personal interview skills
 D. Praxemics
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper ea15878e19b9
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/COMMUNICATION SKILLS/COMMUNICATION SKILL II MCA 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: text (1 page)
+
+````text
+1:
+, % + ,
+- -- - -SVKM'sNlWMS
+Programme:   Year: I .   Trimester:   I1
+Academic Year :2012-2013
+Batch:   2011-12
+Subject:   Communication Skill   Marks:   100
+Time:   10.00 am To 1.00 pm
+Date:.   Duration: 3 hrs.
+Re - Examination
+N.B: 1. Attempt any   questions of the following.
+2All questions carry equal marks 20 (sub questions 10)
+3. Answer to each new question ta be started on a fresh page
+(2.1.- ' Communication doesn't just happen but you have to make it happen." Comment upon
+the cyclical and fhe systematic nature of communication with suitable explanation 8 a
+diagram.
+(2.2. Verbal communication form lrastLyo important aspects i.e. Oral and written form. Write
+the advantages and disadvantages of both the aspects.
+Q.3. A- The young breed of CEO s believe in empowerment of the employees. Write a note
+on the skills of an effective GD as an important means of communication.
+B- Your friendwants to appear for an interview for a well known MNC.What suggestions
+and guidelines would you offer him in order to achieve success in his task.
+t
+Q.4.A- Evenwith the best intentions, communication barriers cropup and
+misunderstandings take place. Comment upon the socio-psychological barriers which can
+hamper the communMion.
+5 eye contact and body gestures are very powerful means of non-verbal communication.
+Justify.   I
+Q.5. A power point presentation is a preferred form of corporate cornmunicatiin. Discuss
+the effective strategies andpreparatory stages for a successful show.
+Q.6. As the purchase manager of Satyarn Computers Hyderabad you had orderedhnro
+dozens Personal Computers from Hindustan Computers Limited (HCL) Banglore. After
+having checked the consignment the four computers are in a damaged condition. Draft a
+complaint letter asking for a repair, replacement or compensation. (Usecomplete block form)
+9.7. write short notes on any two of the folbwing.
+A- Listening skills 5grapevine communication C Minutes of a meeting.
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper eb6bd97599c9
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/COMMUNICATION SKILLS/communication skills BATCH 2011-12 RE EXAMscan0003.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07/02/2013
+- Text: ocr (1 page), mean OCR confidence 90.6
+
+````text
+asrtTUTE OF ay
+[yo
+(#0 cestmB ye
+rat Bye
+
+1 LIBRARY J&
+
+Kon —_ J
+SVKM’s NMIMS SiO
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MCA Year: I Trimester: II
+
+Academic Year : 2012-2013
+
+Batch: 2011-12
+Subject: Communication Skills Marks: 100
+
+Time: 10.00 am To 1.00 pm
+Date: 07/02/2013: Duration: 3 hrs.
+
+Re - Examination
+N.B: 1. Attempt any FIVE questions of the following.
+2A\l questions carry equal marks 20 (sub questions 10)
+
+3. Answer to each new question to be started on a fresh page
+
+Q.1. 'Communication doesn’t just happen but you have to make it happen.” Comment
+upon the cyclical and the systematic nature of communication with suitable explanation & a
+diagram.
+
+Q.2. Verbal communication form has two important aspects i.e. Oral and written form. Write
+the advantages and disadvantages of both the aspects.
+
+Q.3. A- The young breed of CEO s believe in empowerment of the employees. Write a note
+on the skills of an effective GD as an important means of communication..?
+
+B- Interview skills are very important as some of the interviewers ask some very probing
+questions. Discuss the techniques to achieve mastery in the same.
+
+Q.4. What do you mean by barriers to communication? The socio-psychological barriers can
+be overcome only by one’s own effort. Justify the statement with various examples.
+
+Q.5. A power point presentation is a preferred form of corporate communication. What are
+the important steps of it ?
+
+Q.6. The trucks of a factory next to your office are parked in front of your gate causing
+inconvenience to your staff and customers. Draft a complaint letter to the factory owner
+pointing out the problem and requesting for a prompt action. (Use complete block form)
+
+Q.7. write short notes on any two of the following.
+
+A- downward communication B-Proxemics C- Body posture and eye contact.
+
+x
+
+A
 ````
 
 ## 2011-12 · Exam not stated · Trim 2 · paper 8bfdcb838c59
@@ -7528,6 +7747,123 @@ D. Proxemics
 Y
 ````
 
+## 2011-12 · Re-Exam · Trim 2 · paper 6a68ef8ff992
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/COMMUNICATION SKILLS BATCH 2009-10 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 22/06/2012
+- Text: ocr (1 page), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Programme: B.Tech
+
+(ALL STREAMS) Year: I Trimester: II
+Academic Year : 2011-2012
+
+Batch: 2009-2010
+Subject: Communication Skills Marks: 100
+
+Time: 10.00 am To 1.00
+Date: 22/06/2012 “
+
+Duration: 3 hrs.
+Re - Examination
+
+1) Attempt any five questions out of seven.
+2) Answers to all sub questions should be grouped together.
+3) All Questions carry Equal marks (20).
+
+Q1. A) Explain the components in the process of communication with the help.of a diagram and an example.
+B) What are the advantages of Oral Communication? Explain any 5 with examples.
+
+Q2. A) Discuss in brief any 5 Socio-Psychological barriers to communication.
+B) Write in short the guidelines for effective Listening skills.
+
+} Q3. You have received wooden furniture for your newly renovated office. However, the delivery has been delayed
+due to which you had to postpone the opening of your office. The furniture is also damaged and scratched at various
+places. Draft a suitable complaint cum claim letter asking for appropriate compensation. (Use Complete Block
+Form).
+
+Q4. A) What is a Group Discussion? What are the Dos and Don’ts ofa Group Discussion?
+B) Your friend wants to appear for an interview. Suggest some techniques:to achieve excellence in the same.
+
+Q5. Write a covering letter and a resume to the Manager of Zenith Computers for the post of a Network Engineer.
+Candidate should be B.E / BTECH with minimum 2 years of experience with a reputed firm. (Use Semi-Block
+Fou)
+
+Q6. A) Explain the aspects involved in Kinesis/Body Language. , .
+: B) What is Grapevine communication? What are the problems associated with Grapevine communication?
+
+Q7. A) List some of the factors necessary for successful upward communication.
+B) What aspects should be kept in mind for a successful presentation?
+
+— X-——-
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper f30d067e945d
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/COMMUNICATION SKILLS BATCH 2010-11 RE EXAM0001.pdf`
+- Printed on paper: max marks: 20; exam date: 22/06/2012
+- Text: ocr (1 page), mean OCR confidence 94.1
+
+````text
+\
+
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: II
+Academic Year : 2011-2012
+
+Batch: 2010-2011
+Subject: Communication Skills
+Date: 22/06/2012
+Re - Examination
+Instructions:
+
+1. Attempt any 5 questions
+2. All questions carry equal marks 20 ( sub questions 10)
+3. Answers to each new question to be started on a fresh page.
+
+I. “One cannot not communicate”. Discuss this statement in the light of non-
+verbal communication.
+
+I. a) The trucks of a factory next to your office are parked in front of your gate,
+causing inconvenience to your staff and customers. Write to the Manager of
+the factory pointing out the problem and requesting his co-operation.
+
+b) Compare and Contrast the features of oral and written communication.
+
+Ill. a) What are the causes of poor listening? What steps should one take to ensure
+good listening?
+b) Explain the importance of feedback in communication.
+
+1 IV. a) What are the seven ‘C’s of communication? Give examples to illustrate
+
+} your answer.
+b) Part of your duties as Hostel Secretary on your campus includes organizing
+a health check- up for the hostel inmates. You have heard from your friends at
+another college that the Red Cross Society has conducted an effective health
+programme on their campus. Therefore write to the incharge of the Red Cross
+Society enquiring if they will arrange a health check-up in your hostel. Give
+all the details of your requirements.
+
+N. The Principal of a college has appointed a committee of two teachers and
+‘ P three students to suggest new directions in which students’ co- curricular
+q | activities can be developed. Write the committee’s report.
+
+VI. a) List three situations which could occur in your personal life where you
+would choose to speak rather than write. Explain the reason for your choice.
+b) Explain the punctuation pattern in the various formats of letters.
+
+VII. ‘Socio- psychological barriers can be overcome only by one’s own efforts.’
+Discuss the statement giving examples.
+````
+
 ## 2011-12 · Re-Exam · Trim 2 · paper 86b77e89ca53
 
 - Departments: Common (all branches)
@@ -7651,477 +7987,7 @@ resources, having 5 years Experience. Good communication skills is the basic req
 an application letter with your Resume’ to the HR Manager. (use semi block form). (20)
 ````
 
-## 2011-12 · Re-Exam · Trim 2 · paper 49a875b96924
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/Communication Skills Batch 2010-11,2011-12 Re Exam (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; exam date: 21/06/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School ofTechnolorn Manazement & Engine
-Programme:   B.Tech (ALL STREAMS)   Year: I   Trimester:   I1
-Academic Year :2012-2013
-Batch:   2010-11; 2011-12
-Subject:   Communication Skills .   Marks:   100
-Time:   10.00 a m To 1.00 pm
-Date:   21/06/2013   Duration: 3 Ins.
-Re - Examination
-N.B: 1. Attempt any   questions of the following.
-2All questions carry equal marks 20 (sub question 10)
-3. Answer to each new question to be starled on a fresh page
-Q.1. According to NLPfeelings are 55 % Body language, 38%tone and 7 %words. Explain
-nonverbal communication including Body Language as well as Space Language in the light
-of this statement.
-Q.2 Communication is not same as conversation. Do you agree? Discuss the systematic,
-step by step nature of communication process along with a suitable diagram.
-Q.3. A- What do you mean by GD? What are the criteria of evaluation for a0 effective GD.?
-5Your friend wants fo appear for an interview for a well known MNC. What suggestions
-and guidelines would you offer h iin order to be successful in his task?
-0.4. Listening is the most neglected aspect of communication. Write a detailed note on the
-barriers to listening and coping mechanisms to overcome the same.
-Q.5. The power point presentations skills play an important role in business for obvious and
-1   good reasons. Discuss in brief the presentation strategies needed to adopt by a
-professional.
-BWhat do you mean by a jobapplication? Write your own resume as a specimen.
-Q.6. You regularly visit "Malco superstore" for your shopping&Recently you have
-experienced poor service and substandard goods. Write a complaint letter to the manager
-mentioning specific incidences. (Use complete block form)
-Q.7. write short notes on- any two.
-A- Grapevine communication B- minutes of a meeting C- Cross cultural barriers to
-communication
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper ea15878e19b9
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/COMMUNICATION SKILLS/COMMUNICATION SKILL II MCA 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: text (1 page)
-
-````text
-1:
-, % + ,
-- -- - -SVKM'sNlWMS
-Programme:   Year: I .   Trimester:   I1
-Academic Year :2012-2013
-Batch:   2011-12
-Subject:   Communication Skill   Marks:   100
-Time:   10.00 am To 1.00 pm
-Date:.   Duration: 3 hrs.
-Re - Examination
-N.B: 1. Attempt any   questions of the following.
-2All questions carry equal marks 20 (sub questions 10)
-3. Answer to each new question ta be started on a fresh page
-(2.1.- ' Communication doesn't just happen but you have to make it happen." Comment upon
-the cyclical and fhe systematic nature of communication with suitable explanation 8 a
-diagram.
-(2.2. Verbal communication form lrastLyo important aspects i.e. Oral and written form. Write
-the advantages and disadvantages of both the aspects.
-Q.3. A- The young breed of CEO s believe in empowerment of the employees. Write a note
-on the skills of an effective GD as an important means of communication.
-B- Your friendwants to appear for an interview for a well known MNC.What suggestions
-and guidelines would you offer him in order to achieve success in his task.
-t
-Q.4.A- Evenwith the best intentions, communication barriers cropup and
-misunderstandings take place. Comment upon the socio-psychological barriers which can
-hamper the communMion.
-5 eye contact and body gestures are very powerful means of non-verbal communication.
-Justify.   I
-Q.5. A power point presentation is a preferred form of corporate cornmunicatiin. Discuss
-the effective strategies andpreparatory stages for a successful show.
-Q.6. As the purchase manager of Satyarn Computers Hyderabad you had orderedhnro
-dozens Personal Computers from Hindustan Computers Limited (HCL) Banglore. After
-having checked the consignment the four computers are in a damaged condition. Draft a
-complaint letter asking for a repair, replacement or compensation. (Usecomplete block form)
-9.7. write short notes on any two of the folbwing.
-A- Listening skills 5grapevine communication C Minutes of a meeting.
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper a186b6007803
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/COMMUNICATION SKILLS/COMMUNICATION SKILLS BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 18/06/2012
-- Text: ocr (1 page), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & En
-
-=
-de |
-
-Séring <i
-
-Programme: MCA Year: I Trimester: IPS al wiv 4
-Academic Year : 2011-2012 ee
-Batch: 2011-12
-Subject: Communication SkillS ~ Marks: 100
-Time: 10.00 am To 1.00 pm
-Date: 18/06/2012 Duration: 3 hrs.
-
-Re - Examination
-N.B: 1. Attempt any FIVE questions of the following.
-2All questions carry equal marks 20 (sub questions 10)
-
-3. Answer to each new question to be started on a fresh page
-
-Q.1.' Communication is not just a conversation but it is much more deliberate and a
-systematic process.” Justify this statement with suitable explanation & a diagram.
-
-Q.2. Kinesics is a systematic study of Body Language which provides an important
-dimension to nonverbal communication.- Discuss in detail.
-
-Q.3. A- What are the criteria of evaluation for an effective GD.?
-B- Interview skills are very important as some of the interviewers ask some very probing
-questions. Discuss the techniques to achieve mastery in the same.
-
-Q.4. Listening is the most neglected aspect of communication. Write a note on the barriers to
-listening and a profile of a good listener.
-
-Q.5. Your friend is required to give a formal presentation. What suggestion would you offer
-him in order to achieve success in the same?
-
-Qi6. A college library intends to buy display boards and racks. Draft the college principal's
-
-letter asking Jupiter Displays for their catalogue and quotation. Insist on a substantial
-@icession as it is for an educational institution. (Use semi block form)
-
-Q.7. write short notes on-
-
-A- Grapevine communication B- Oral form of communication C- Importance of
-communication
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper eb6bd97599c9
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/COMMUNICATION SKILLS/communication skills BATCH 2011-12 RE EXAMscan0003.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07/02/2013
-- Text: ocr (1 page), mean OCR confidence 90.6
-
-````text
-asrtTUTE OF ay
-[yo
-(#0 cestmB ye
-rat Bye
-
-1 LIBRARY J&
-
-Kon —_ J
-SVKM’s NMIMS SiO
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MCA Year: I Trimester: II
-
-Academic Year : 2012-2013
-
-Batch: 2011-12
-Subject: Communication Skills Marks: 100
-
-Time: 10.00 am To 1.00 pm
-Date: 07/02/2013: Duration: 3 hrs.
-
-Re - Examination
-N.B: 1. Attempt any FIVE questions of the following.
-2A\l questions carry equal marks 20 (sub questions 10)
-
-3. Answer to each new question to be started on a fresh page
-
-Q.1. 'Communication doesn’t just happen but you have to make it happen.” Comment
-upon the cyclical and the systematic nature of communication with suitable explanation & a
-diagram.
-
-Q.2. Verbal communication form has two important aspects i.e. Oral and written form. Write
-the advantages and disadvantages of both the aspects.
-
-Q.3. A- The young breed of CEO s believe in empowerment of the employees. Write a note
-on the skills of an effective GD as an important means of communication..?
-
-B- Interview skills are very important as some of the interviewers ask some very probing
-questions. Discuss the techniques to achieve mastery in the same.
-
-Q.4. What do you mean by barriers to communication? The socio-psychological barriers can
-be overcome only by one’s own effort. Justify the statement with various examples.
-
-Q.5. A power point presentation is a preferred form of corporate communication. What are
-the important steps of it ?
-
-Q.6. The trucks of a factory next to your office are parked in front of your gate causing
-inconvenience to your staff and customers. Draft a complaint letter to the factory owner
-pointing out the problem and requesting for a prompt action. (Use complete block form)
-
-Q.7. write short notes on any two of the following.
-
-A- downward communication B-Proxemics C- Body posture and eye contact.
-
-x
-
-A
-````
-
-## 2010-11 · Exam not stated · Trim 2 · paper 2fc0dcbb9716
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/COMMUNICATION SKILLS BATCH 2010-2011.pdf`
-- Printed on paper: duration hours: 3; exam date: 22/06/2011
-- Text: ocr (1 page), mean OCR confidence 93.6
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-‘Ryogramme: B.Tech (ALL STREAMS) Year: I Trimester: II
-
-Academic Year : 2010-2011
-
-. Batch: 2010-2011
-Subject: Communication Skills Marks: /) 100
-Time: | 10.00 am To 1.00 pm
-Date: 22/06/2011 Duration: ; 3 hrs,
-Re - Examination ia
-a:
-Instructions: Candidates should read carefully the instructions printed on the quy Oh MANERA the
-cover of the Answer Book, which is provided for their use. -
-NB:
-1. Question no. 1 is compulsory.
-2. Attempt any four from the remaining questions.
-3. Figures to the right indicate full marks.
-Q.1. a) Discuss ‘Listening requires more efforts than hearing’. (10)
-
-b) ‘The process of communication is a deliberate,cyclical and step by step process.’ Discuss this
-
-statement with to a suitable diagram & its components. (10)
-Q.2.a) Discuss ‘Action speaks louder than words’. (10)
-b) What are the advantages and disadvantages of written and oral communication? (10)
-
-Q.3. a) Do you feel electronic means of communication is always advantageous over the traditional
-means? Explain your answer with suitable five examples. (15)
-
-b) Prepare a notice informing all the members about a meeting to be held at the _ registered office of
-the company at particular date and time about informing branch personnel of the ISO audit which will
-
-take place and to decide on the steps to be taken for audit (05)
-
-Q.4 a) How will you prepare yourself for an interview? Suggest some good techniques to achieve
-
-Excellency in it. (10)
-
-b) A business letter should be written not in a manner in which a writer should _ like to write, but ina
-manner in which a reader would like to read’. Discuss. (10)
-Q.5 a) What are the Seven Cs of business correspondence? Write a brief note on each. (10)
-
-b)What are the linguistic barriers in multilingual society? How do you overcome such barriers? (10)
-Q.6 a) Write a note on socio-psychological barriers to communications. (10)
-
-b) You have an agency of well-known international group of magazines. Write a Sales Letter to be
-
-sent to educational institutes. (Use complete block format) (10)
-Q.7 a) Elucidate any five aspects of Body language? (10)
-b) What is a modified block format of a letter? Give a specimen (diagram) to explain it. (10)
-
-V4
-````
-
-## 2010-11 · Re-Exam · Trim 2 · paper f30d067e945d
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/COMMUNICATION SKILLS BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: max marks: 20; exam date: 22/06/2012
-- Text: ocr (1 page), mean OCR confidence 94.1
-
-````text
-\
-
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: II
-Academic Year : 2011-2012
-
-Batch: 2010-2011
-Subject: Communication Skills
-Date: 22/06/2012
-Re - Examination
-Instructions:
-
-1. Attempt any 5 questions
-2. All questions carry equal marks 20 ( sub questions 10)
-3. Answers to each new question to be started on a fresh page.
-
-I. “One cannot not communicate”. Discuss this statement in the light of non-
-verbal communication.
-
-I. a) The trucks of a factory next to your office are parked in front of your gate,
-causing inconvenience to your staff and customers. Write to the Manager of
-the factory pointing out the problem and requesting his co-operation.
-
-b) Compare and Contrast the features of oral and written communication.
-
-Ill. a) What are the causes of poor listening? What steps should one take to ensure
-good listening?
-b) Explain the importance of feedback in communication.
-
-1 IV. a) What are the seven ‘C’s of communication? Give examples to illustrate
-
-} your answer.
-b) Part of your duties as Hostel Secretary on your campus includes organizing
-a health check- up for the hostel inmates. You have heard from your friends at
-another college that the Red Cross Society has conducted an effective health
-programme on their campus. Therefore write to the incharge of the Red Cross
-Society enquiring if they will arrange a health check-up in your hostel. Give
-all the details of your requirements.
-
-N. The Principal of a college has appointed a committee of two teachers and
-‘ P three students to suggest new directions in which students’ co- curricular
-q | activities can be developed. Write the committee’s report.
-
-VI. a) List three situations which could occur in your personal life where you
-would choose to speak rather than write. Explain the reason for your choice.
-b) Explain the punctuation pattern in the various formats of letters.
-
-VII. ‘Socio- psychological barriers can be overcome only by one’s own efforts.’
-Discuss the statement giving examples.
-````
-
-## 2009-10 · Exam not stated · Trim 2 · paper b5bf217fcd98
-
-- Departments: Common (all branches), Computer Applications (MCA)
-- Programmes: MBA TECH, MCA
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/COMUNICATION SKILLS/2009-2010(41).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 February 201
-- Text: ocr (1 page), mean OCR confidence 91.1
-
-````text
-— om
-
-ust OF May
-
-NM,
-SVKM’S NMIMS Mest NS
-Mukesh Patel School of Technology Management and Eng exring 15 : TME y=
-Programme: MCA Year : 1 Trime ARY Je
-
-Academic Year 2009-2010
-
-Subject: Communication Skills Date: 11 February 201 }
-Marks: 100
-
-Time: 3 hours (3 hm bo G p=)
-
-Aine Ls Amr
-Instructions:
-
-1. Out of seven, attempt any FIVE questions.
-2. Figures to the right indicate full marks.
-
-a (a) What are the common human shortcomings that prevent communication (10)
-from being successful? Discuss with examples from your experience.
-
-(b) What are the advantages of written communication? (10)
-
-2.(a) Write a note on the importance of body'language in making an oral presentation. (10)
-
-(b) What steps would you take to improve your listening skills? (10)
-3. (a) Explain the importance of non-verbal communication in a document. (10)
-(b) Why is email etiquette important in business communication? (10)
-
-4. Three of the management trainees, placed in the Sales Department in which = (20)
-you are the Chief Training Officer, are expecting to be appointed to the post of
-Assistant Sales Manager which is to fall vacant on the present incumbent’s new
-posting abroad. Draw up a report recommending one of the three for the
-appointment. Your report, which will be an assessment of all the three, may be
-shown to them as a part of their training.
-
-5. (a) Write a note on the Cs of effective communication. Illustrate your answer *
-with examples. (10)
-
-(b) A valued customer of seven years’ standing has failed to pay dues of Rs.
-
-300,000/- in spite of several reminders. The customer’s financial position is sound
-and you have checked up on his satisfaction with your service and delivery. Draft a
-letter trying to make the customer pay. (Assume a suitable identity for the customer
-as a company or as an individual, as you like) (10)
-
-6. (a) What skills do you need to be an effective participant in a Group Discussion? (10)
-(b) As secretary of your college Students’ Forum, draft the notice of the last meeting
-
-of the year. (10)
-7. (a) How will you prepare yourself for a job interview? (10)
-(b) How would you answer the following questions at an interview? (10)
-
-(i) Tell us about yourself.
-(ii) What are the disadvantages of a career in computer applications?
-(iii) Why should we appoint you to this post?
-KKEREREE RE
-
-Sp?
-````
-
-## 2009-10 · Re-Exam · Trim 2 · paper 6a68ef8ff992
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/COMMUNICATION SKILLS BATCH 2009-10 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 22/06/2012
-- Text: ocr (1 page), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Programme: B.Tech
-
-(ALL STREAMS) Year: I Trimester: II
-Academic Year : 2011-2012
-
-Batch: 2009-2010
-Subject: Communication Skills Marks: 100
-
-Time: 10.00 am To 1.00
-Date: 22/06/2012 “
-
-Duration: 3 hrs.
-Re - Examination
-
-1) Attempt any five questions out of seven.
-2) Answers to all sub questions should be grouped together.
-3) All Questions carry Equal marks (20).
-
-Q1. A) Explain the components in the process of communication with the help.of a diagram and an example.
-B) What are the advantages of Oral Communication? Explain any 5 with examples.
-
-Q2. A) Discuss in brief any 5 Socio-Psychological barriers to communication.
-B) Write in short the guidelines for effective Listening skills.
-
-} Q3. You have received wooden furniture for your newly renovated office. However, the delivery has been delayed
-due to which you had to postpone the opening of your office. The furniture is also damaged and scratched at various
-places. Draft a suitable complaint cum claim letter asking for appropriate compensation. (Use Complete Block
-Form).
-
-Q4. A) What is a Group Discussion? What are the Dos and Don’ts ofa Group Discussion?
-B) Your friend wants to appear for an interview. Suggest some techniques:to achieve excellence in the same.
-
-Q5. Write a covering letter and a resume to the Manager of Zenith Computers for the post of a Network Engineer.
-Candidate should be B.E / BTECH with minimum 2 years of experience with a reputed firm. (Use Semi-Block
-Fou)
-
-Q6. A) Explain the aspects involved in Kinesis/Body Language. , .
-: B) What is Grapevine communication? What are the problems associated with Grapevine communication?
-
-Q7. A) List some of the factors necessary for successful upward communication.
-B) What aspects should be kept in mind for a successful presentation?
-
-— X-——-
-````
-
-## 2009-10 · Re-Exam · Trim 2 · paper 8241e699317e
+## 2011-12 · Re-Exam · Trim 2 · paper 8241e699317e
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -8297,6 +8163,261 @@ iv. We are sending the air — coolers today.
 xX
 ````
 
+## 2011-12 · Re-Exam · Trim 2 · paper a186b6007803
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/COMMUNICATION SKILLS/COMMUNICATION SKILLS BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 18/06/2012
+- Text: ocr (1 page), mean OCR confidence 91.4
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & En
+
+=
+de |
+
+Séring <i
+
+Programme: MCA Year: I Trimester: IPS al wiv 4
+Academic Year : 2011-2012 ee
+Batch: 2011-12
+Subject: Communication SkillS ~ Marks: 100
+Time: 10.00 am To 1.00 pm
+Date: 18/06/2012 Duration: 3 hrs.
+
+Re - Examination
+N.B: 1. Attempt any FIVE questions of the following.
+2All questions carry equal marks 20 (sub questions 10)
+
+3. Answer to each new question to be started on a fresh page
+
+Q.1.' Communication is not just a conversation but it is much more deliberate and a
+systematic process.” Justify this statement with suitable explanation & a diagram.
+
+Q.2. Kinesics is a systematic study of Body Language which provides an important
+dimension to nonverbal communication.- Discuss in detail.
+
+Q.3. A- What are the criteria of evaluation for an effective GD.?
+B- Interview skills are very important as some of the interviewers ask some very probing
+questions. Discuss the techniques to achieve mastery in the same.
+
+Q.4. Listening is the most neglected aspect of communication. Write a note on the barriers to
+listening and a profile of a good listener.
+
+Q.5. Your friend is required to give a formal presentation. What suggestion would you offer
+him in order to achieve success in the same?
+
+Qi6. A college library intends to buy display boards and racks. Draft the college principal's
+
+letter asking Jupiter Displays for their catalogue and quotation. Insist on a substantial
+@icession as it is for an educational institution. (Use semi block form)
+
+Q.7. write short notes on-
+
+A- Grapevine communication B- Oral form of communication C- Importance of
+communication
+````
+
+## 2010-11 · Exam not stated · Trim 2 · paper e4353e3021d1
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2010-2011 (1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/02/2011
+- Text: ocr (1 page), mean OCR confidence 94.8
+
+````text
+\ SVKM’s NMIMS
+Mukesh Patel School Of Technolo
+Programme: B.TECH (ALL STREAMS) Year: I Trimester: II
+Academic Year ;: 2010-2011
+
+Subject: COMMUNICATION SKILL Marks: 100
+Time: 2.00 PM TO 5.00 PM
+Date: 09/02/2011 Duration: 3 hrs.
+
+Final - Examination
+
+Attempt any FIVE questions of the following.
+All questions carry equal marks (20)
+
+Q.1 A Explain the cyclical and a systematic process of communication with a suitable
+diagram and an explanation.
+
+B -Proficiency in communication is a pre-requisite for a successful corporate
+professional. Justify this in the light of importance of communication.
+
+Q2. A-”Body speaks louder than words”. Discuss this statement with reference to the
+factors of body language.
+B-What are the advantages of Oral form of communication?
+
+Q.3 Well -prepared interviewers ask some very probing questions.
+a Tel us about yourself.
+b-What have you learnt from your extra-curricular activities in schools/colleges?
+c-Why did you choose this particular field of work/ specialization?
+Write elaborate answers to the above questions as an interviewee.
+
+Q.4 Write a detail note on cross cultural barriers. In a flat global village of today its very
+important to develop cross cultural sensitivity — Justify
+
+Q.5 A long standing customer has placed an unusually large order for designing &
+printing his company’s office stationary. Draft a letter acknowledging the order,
+appreciate his prompt payments up till now and reinforce a long term association with
+him ( semi block form)
+
+Q.6 A What is the importance of a power point presentation? Suggest some effective
+techniques to master this skill.
+B Discuss the downward form of a communication in an organization.
+
+Q.7 Write Short Notes on any two-
+A Faulty listening habits
+B Minutes of a Meeting.
+C Advantages of written communication
+D. Proxemics
+
+/
+````
+
+## 2010-11 · Exam not stated · Trim 2 · paper 2fc0dcbb9716
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/COMMUNICATION SKILLS BATCH 2010-2011.pdf`
+- Printed on paper: duration hours: 3; exam date: 22/06/2011
+- Text: ocr (1 page), mean OCR confidence 93.6
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+‘Ryogramme: B.Tech (ALL STREAMS) Year: I Trimester: II
+
+Academic Year : 2010-2011
+
+. Batch: 2010-2011
+Subject: Communication Skills Marks: /) 100
+Time: | 10.00 am To 1.00 pm
+Date: 22/06/2011 Duration: ; 3 hrs,
+Re - Examination ia
+a:
+Instructions: Candidates should read carefully the instructions printed on the quy Oh MANERA the
+cover of the Answer Book, which is provided for their use. -
+NB:
+1. Question no. 1 is compulsory.
+2. Attempt any four from the remaining questions.
+3. Figures to the right indicate full marks.
+Q.1. a) Discuss ‘Listening requires more efforts than hearing’. (10)
+
+b) ‘The process of communication is a deliberate,cyclical and step by step process.’ Discuss this
+
+statement with to a suitable diagram & its components. (10)
+Q.2.a) Discuss ‘Action speaks louder than words’. (10)
+b) What are the advantages and disadvantages of written and oral communication? (10)
+
+Q.3. a) Do you feel electronic means of communication is always advantageous over the traditional
+means? Explain your answer with suitable five examples. (15)
+
+b) Prepare a notice informing all the members about a meeting to be held at the _ registered office of
+the company at particular date and time about informing branch personnel of the ISO audit which will
+
+take place and to decide on the steps to be taken for audit (05)
+
+Q.4 a) How will you prepare yourself for an interview? Suggest some good techniques to achieve
+
+Excellency in it. (10)
+
+b) A business letter should be written not in a manner in which a writer should _ like to write, but ina
+manner in which a reader would like to read’. Discuss. (10)
+Q.5 a) What are the Seven Cs of business correspondence? Write a brief note on each. (10)
+
+b)What are the linguistic barriers in multilingual society? How do you overcome such barriers? (10)
+Q.6 a) Write a note on socio-psychological barriers to communications. (10)
+
+b) You have an agency of well-known international group of magazines. Write a Sales Letter to be
+
+sent to educational institutes. (Use complete block format) (10)
+Q.7 a) Elucidate any five aspects of Body language? (10)
+b) What is a modified block format of a letter? Give a specimen (diagram) to explain it. (10)
+
+V4
+````
+
+## 2009-10 · Exam not stated · Trim 2 · paper b5bf217fcd98
+
+- Departments: Common (all branches), Computer Applications (MCA)
+- Programmes: MBA TECH, MCA
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/COMUNICATION SKILLS/2009-2010(41).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 February 201
+- Text: ocr (1 page), mean OCR confidence 91.1
+
+````text
+— om
+
+ust OF May
+
+NM,
+SVKM’S NMIMS Mest NS
+Mukesh Patel School of Technology Management and Eng exring 15 : TME y=
+Programme: MCA Year : 1 Trime ARY Je
+
+Academic Year 2009-2010
+
+Subject: Communication Skills Date: 11 February 201 }
+Marks: 100
+
+Time: 3 hours (3 hm bo G p=)
+
+Aine Ls Amr
+Instructions:
+
+1. Out of seven, attempt any FIVE questions.
+2. Figures to the right indicate full marks.
+
+a (a) What are the common human shortcomings that prevent communication (10)
+from being successful? Discuss with examples from your experience.
+
+(b) What are the advantages of written communication? (10)
+
+2.(a) Write a note on the importance of body'language in making an oral presentation. (10)
+
+(b) What steps would you take to improve your listening skills? (10)
+3. (a) Explain the importance of non-verbal communication in a document. (10)
+(b) Why is email etiquette important in business communication? (10)
+
+4. Three of the management trainees, placed in the Sales Department in which = (20)
+you are the Chief Training Officer, are expecting to be appointed to the post of
+Assistant Sales Manager which is to fall vacant on the present incumbent’s new
+posting abroad. Draw up a report recommending one of the three for the
+appointment. Your report, which will be an assessment of all the three, may be
+shown to them as a part of their training.
+
+5. (a) Write a note on the Cs of effective communication. Illustrate your answer *
+with examples. (10)
+
+(b) A valued customer of seven years’ standing has failed to pay dues of Rs.
+
+300,000/- in spite of several reminders. The customer’s financial position is sound
+and you have checked up on his satisfaction with your service and delivery. Draft a
+letter trying to make the customer pay. (Assume a suitable identity for the customer
+as a company or as an individual, as you like) (10)
+
+6. (a) What skills do you need to be an effective participant in a Group Discussion? (10)
+(b) As secretary of your college Students’ Forum, draft the notice of the last meeting
+
+of the year. (10)
+7. (a) How will you prepare yourself for a job interview? (10)
+(b) How would you answer the following questions at an interview? (10)
+
+(i) Tell us about yourself.
+(ii) What are the disadvantages of a career in computer applications?
+(iii) Why should we appoint you to this post?
+KKEREREE RE
+
+Sp?
+````
+
 ## 2008-09 · Exam not stated · Trim 2 · paper 824f1661a61b
 
 - Departments: Common (all branches), Computer Applications (MCA)
@@ -8362,6 +8483,101 @@ yo
 ___
 
 vero
+````
+
+## 2007-08 · Exam not stated · Trim 2 · paper 07b0fe3887a4
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2007-2008.pdf`
+- Text: ocr (2 pages), mean OCR confidence 94.3
+
+````text
+SVKM’s NMIMS UNIVERSITY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE
+ENGINEERING
+TECH 187 Year
+Trimester IN, 2007-08
+
+Subject : Communication Skills
+
+Qale? 29-04 -0F
+
+Instructions : Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
+
+NB:
+1. Attempt any 5 out of 7 questions.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in brackets indicate full marks.
+
+1a) Define the word ‘Communication’. Describe the process of Communication with the
+help of a diagram, its elements and working. (10)
+
+1b) Socio-psychological barriers can be overcome only by one’s own efforts’. Discuss
+the statement giving examples of any five socio-psychological barriers. (10)
+
+2a) Write short notes on any two:- (10)
+i Merits of oral communication
+
+ii Ways to improve upward communication
+
+iii Proxemics/Space distancing
+
+2b) Read the following case study and answer the questions that follow:
+
+A student took a summer job in rural Maharashtra which involved interviewing
+farmers about the water supply availability. The first few days he went to the field
+wearing a suit and tie. He also used a lot of technical words in his questions. He got
+little co-operation from the farmers. He decided to change his strategy- he began
+wearing a Kurta and Pyjama and started speaking to the farmers in native Marathi.
+The farmers were much more co-operative.
+
+i why did you think the farmers were uncooperative? What barriers do you feel were (3)
+operating at this point?
+
+ii Why were the farmers cooperative later? What does this tell you about effective (2)
+communication?
+
+PTO
+--- page 2 ---
+Q
+
+2c) State whether the following statements are true or false .Give reasons for the same (5)
+i Stage fright is a very phenomenon
+
+ii Crossing one’s arms across one’s chest is a sign of defensiveness
+
+iii The first component in the process of communication is encoding
+
+iv Written communication has legal validity
+
+v One should write to impress, not express
+
+3a) What is a Group discussion? What are the dos’ and don’ts of a group discussion (10)
+
+3b) What is an interview? What verbal and non-verbal aspects should be kept in
+mind by the candidate to ensure success at the interview. (10)
+
+4\ Write a covering letter and bio-data to the Manager of Datamatics for the post of a
+Network Engineer. Candidate should be BE/Btech with minimum of 2 yrs experience
+
+with a reputed firm. (Use Semi-block form) (20)
+5a) What aspects should be kept in mind for a successful presentation : (10)
+Sb) What are the barriers faced while listening. How can it be overcome? (10)
+6a) Explain the aspects involved in Kinesics /body language (10)
+
+6b) What is Grapevine communication? What are the problems associated with
+grapevine communication? (10)
+
+7a) What are the advantages of written communication? Explain any five points (10)
+with suitable examples
+
+7b) What are cross cultural barriers? Suggest ways to overcome them (10)
+
+—
+
+a oat
 ````
 
 ## 2007-08 · Exam not stated · Trim 2 · paper 563edcde397c
@@ -8515,227 +8731,202 @@ Q7 b) Explain how to overcome anxiety in presentation giving suitable examples.
 Tal
 ````
 
-## Year not stated · Exam not stated · Trim 2 · paper 14656006ad01
+## 2007-08 · Re-Exam · Trim 2 · paper 01109db96d5f
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMMUNICATION SKILLS/scan0002(8) (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/09/2012
-- Text: ocr (4 pages), mean OCR confidence 79.5
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2007-2008 re exam (1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-4
-“ SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: II
-Academic Year : 2011-2012
+SVKM’s NMIMS UNIVERSITY Mumbai - 66,
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT AND**’
+ENGINEERING &
 
-Batch: 2010-2011
-Subject: Basic Electronics Marks: 100
 
-Time: 11.00 am To 2.00 pm
-Date: 13/09/2012 Duration: 3 hrs.
-
-Special Re-Examination
-
-Instructions: Candidates should read carefully the instruction printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Subject : Communication Skills
+Dailies 2107/08 | Marks : 100
+Time : 3 Hrs
+J -@0-5-0O pe
+Instructions : Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
 
 NB:
+1. Attempt any 5 out of 7 questions.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in brackets indicate full marks.
 
-1. Question No. 1 is compulsory.
+1a) “Communication is a deliberate and systematic activity”. Explain this statement with
 
-2. Out of remaining questions, attempt any four questions.
+the help of a diagram and various stages of communication process. (10)
+1b) What are the advantages and disadvantages of oral communication. (10)
+2a) Write short notes on any two:- (10)
 
-3. Inall five questions to be attempted
+i) Language Barriers
+ii) Advantages of written communication
+iii Proxemics / Space distancing
 
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicate full marks.
+2b) Read the following case study and answer the questions that follow: (5)
 
-1. (a) Derive the condition for zero temperature drift biasing of FET. (05)
-(b) Ifinput V; is 1KHz square wave with 30V p-p voltage applied to a given circuit with
-practical diode of silicon. Determine Vo and draw waveform. (05)
-if Po
-pas
-t . ‘aut. @a.|mF
-; = joo RW
-NV v R Vo A |
-See | cae
-(c ) Which biasing method cannot be used for D-MOSFET and why? (05)
-(d) What is the maximum reverse voltage PIV across a diode in ( i) HWR (ii) FWR with
-: ‘center-tapped transformer (iii) Bridge wave rectifier. (05)
-v!
+Vinod was a foreman in a large fiberglass product factory. As he was talking to his
+employees, he often talked in a very loud voice because he was talking over factory
+noise. Vinod was a very hyper-active, aggressive man and he was always in a hurry. Ram
+and Shyam were called into Vinod’s office for an explanation of a new procedure. Vinod
+talked to them in the same loud voice he uses in the factory. The loudness of his voice
+made the workers hard to concentrate of his message. Vinod was in a hurry as usual. He
+didn’t pause for questions and left in a hurry. His parting words were “ Go back to the
+line and explain to your co-workers how we are going to implement this procedure.”
+Ram and Shyam left his office utterly confused, frustrated and not very knowledgeable
+about the new procedure they were assigned to implement.
 
-Page 1 of 4
+i) What suggestions would you offer to Mr Vinod? (3)
+ii) How should Ram and Shyam prepare for their next conversation with Mr. Vinod? (2)
+
+PTO
 --- page 2 ---
-(b) Design for full wave rectifier an L — type LC filter which gives a d.c output voltage of
+aX
 
-/ 2. (a) Compare L-Section LC and C filter. (05)
+c) Match the following body gestures with their appropriate interpretations (6)
 
-10V at a load current of 100 mA. The allowable ripple factor is 0.02. (10)
-(c) Determine Ing , Vesa, Vpsq for the following network: (05)
-Vpp = t24V
-2-5 ee
-Rp Vp Fox, JRFET
-: (ue 6 ‘ S
-Vi l . — Ps pe - mA
-Mp2 -acVv
-Rea lA 9 Se beet :
-{a
+i) Raised Eyebrows Honest approach
 
-3. (a) Fora standard voltage-divider bias configuration of C — E amplifier with Rg bypassed
-by a capacitor CE the following data is given - (12)
+ii) Pointing Fingers —------------ Confidence
 
-j Vec=22V; Ri =56KQ, R=82KQ, Rco=68KQ
-Re=15KQ_ ,Ca = Cco = 10MF, Cp=20uUF, B=90
+iii) Frown on Forehead ------------ Surprise / Disbelief
 
-Determine Seg,» Zi ,Zo for &, = 0, Ay for yp =0 OQ
+iv) Steady Eye contact ------------ Authority / Domination
+v) OpenPalms =~ ------------ Confusion
 
-(b) Explain with diagram the working of power FET (VMOS). (08)
+3a) “Body speaks louder than words.” Discuss this statement with reference to factors of
 
-’ j
-4 (a) Peeunile Ay, Avs, Zi, Zo and Ay for the network shown in figure (10)
+body language. (10)
+3b) What are the effective presentation skills? (10)
+4a) Explain any 5 socio-psychological barriers to communication. (10)
+4b) Write a brief note on cross — cultural barriers to communication. (10)
 
-Oo Hev
-Coie Lue
-|   ——» Yo
-;
-is |
+5a) What is horizontal communication? Suggest some techniques to overcome the
 
-ae SHF For BIT
-Sie 4+ UE * sealed
-Ue is 7 lo hoe 225
+problems of horizontal communication. (10)
+5b) What are the barriers to effective listening? (10)
+6a) What are the criteria for evaluation of an effective group discussion? (10)
 
-——— FJ
+6b) Your friend wants to appear for a personal interview. Suggest some techniques to
+achieve success in the interview. (10)
 
-fag aof 4
+7) Write a covering letter and bio-data for the post of the post of ‘Control and
+Automation Engineer’ advertised by Technocraft Paper Technology (India) Ltd. 4,
+Nariman Point, Churchgate, Mumbai — 400002. You as a candidate are an Engineer in
+Electronics / Computers / Instrumentation Engineering with proficiency in programming
+in C++. (Use Semi-block form.) (20)
+
+Daa, |
 --- page 3 ---
-(b) Calculate Zi ,Z> and output voltage Vo if Vj = 100 mV for circuit shown below:- (10)
+pare
 
-v
+c) What is Exact Differential Equation? For the following differential equation test
+for exactness and solve.
 
-+127V
-2 i Ne
-(_—*
-BaF
-i Fox TFET
-—| = 2 10mA
-, : be Toss = 0"
-tyr
-vee chVv
-Vi 100 P
-mY 74 rd a= 4o K
-fil
-5 (a) Draw the neat diagram of a JFET CS amplifier with unbypassed and derive the expression
-for the voltage gain, input impedance and output impedance. (10)
+2 4x 3 19 2 *)
+(ye +4x°)de + (Qxye”” -—3y?)dy =0
 
-(b) Calculate the voltage gain and input and output impedances for the circuit shown below: (10)
+Q.7) a) Solve (5+ 2x)? 2% ~ 6(5+2x)™ + 8y = 6x
+ax a&
 
-7 +4V
-eos Ar for JEGT
+b) Solve the Differential Equation y"+ y =secx by the method of variation of
+parameters.
 
-. ; -———4 O05 He
-} Ne —je—0Vo   Tpge =!”
-Lom Like -2 Ne Nip toh
-L D Yos = 264
+c) Solve completely the differential equation (D? ~5D+4+ 6)y = sin3x
+````
 
-ty
-6 (a) estan Ipaq, Icqand Vcxg for the circuit shown below: (10)
-{ I2V
-rT L, ne
-An | __, one Jou Vo
+## 2006-07 · Exam not stated · Trim 2 · paper 275fff75b5b0
 
-> LUF oo Bact M40:
-\ i
-‘4 “a
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/BASIC ELECTRONICS/2006-2007 (1).pdf`
+- Printed on paper: exam date: 24/04/07
+- Text: ocr (1 page), mean OCR confidence 94.5
 
-i ___ | Fage 3ef4
---- page 4 ---
-(b) Explain with diagram:
-(a) Zener diode regulator circuit
+````text
+SVKM’s
+NMIMS University
 
-(b) Transistor as a switch
+Course : B.Tech Ty Trimester : III Academic year 06-07
+Subject : Communication Skills
 
-7. Write short notes (any three):-
+Final Examination
 
-(a) SCR characteristic and its application as controlled rectifier
+Date : 24/04/07 Total Marks :
+Time : 11.00 - 2.00 p.m.
 
-(b) Comparison of performance of CE, CB and CC BJT amplifiers
+Instruction: Out of Seven attempt any FIVE questions
 
-(c) Construction, process of electroluminescence of Light — Emitting diode (LED)
-(d) Photodiodes and Schottky Barrier diode.
+Ql.
 
-X X XxX XxX
+Q2.
 
-Page 4 of 4
+Q3.
 
-X
+Q4.
+
+QS.
+
+Q6.
+
+Q7.
+
+c) How will you prepare yourself before the actual interview?
+d) Discuss in brief the criteria for evaluation in a Group Discussion.
+
+c) Explain the components in the process of communication with the help of a
+diagram and an example.
+
+d) What are the advantages of Oral Communication? Explain any 5 with
+examples.
+
+c) What are the barriers to effective listening?
+d) Elucidate any 5 aspects of Body Language.
+
+c) Explain Socio-Psychological barriers with examples.
+d) What are the aspects that you will keep in mind for a good presentation?
+
+Keltron Engineers Pvt. Ltd. At B-16 Laxmi Industrial Estate, Andheri (W),
+
+. Mumbai has advertised for the post of Sales Manager. Candidates should be
+
+B.E./B.Tech graduates with M.B.A. having 4-5 years experience. Good
+communication skills is also a requisite. Write an application letter with your
+resume to the HR Manager using the Semi-Block format
+
+c) List some of the factors necessary for successful upward communication.
+d) What is Grapevine? What are its advantages?
+
+c) Explain Physical barriers to communication with examples.
+d) What are the advantages of Writien Communication?
+
+—~\
+
+100
+
+(10)
+(10)
 
 (10)
 
+(10)
+
+(10)
+(10)
+
+(10)
+(10)
+
 (20)
-````
 
-## Year not stated · Exam not stated · Trim 1 · paper 640bb67dd296
+(10)
+(10)
 
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/COMMUNICATION SKILLS/scan0004(10).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/10/2012
-- Text: ocr (1 page), mean OCR confidence 87.1
-
-````text
-™N
-
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MCA Year: I Trimester: I
-
-Academic Year : 2012-2013 ot: \*
-: Mumbes ee )
-| Subject: COMMUNICATION SKILLS Marks: 100 uatany :
-
-Time: 10.00 a.m. Ne
-
-Date: 30/10/2012 Duration: 3 hrs.
-
-Final - Examination
-
-N.B: 1. Atternpt any FIVE questions of the following.
-2All questions carry equal marks 20 (sub question
-
-3. Answer to each new question to be started on a fresh page
-
-Q.1. According to NLP feelings are 55 % Body language. 38% tone and 7 % words. Explain
-nonverbal communication kinesics as well as proxemics in the light of this statement.
-
-Q.2. Communication is not sarne as conversation. Cc you agree? Discuss the systematic,
-step by step naiure of communication process along with a suitable diagram and an
-explanation
-
-Q.3. A- What do you mean by GD? What are the criteria of evaluation for an effective GD.?
-B- interview skills are very iraportant as some of the interviewers ask some very probing
-questions. Discuss the techniques to achieve mastery in the personal interview skills.
-
-QA, Listening is the most naglected aspact of cornmur.cation. Write a detailed note on the
-barriers to listening and a profile of a good listener
-
-Q.5. Your friend is required te give @ formal oresentation. Vvhat suggestion would you offer
-hin in order to achieve succ
-B-What do you mean by a job application? Write ys
-
-Hur COW reSuine as a specimen.
-
-Q.6. You regularly visit “Malca super "for your shop “Recently you have
-experienced poor service and substandard goods. Write a complaint letter to the manager
-mentioning specific incidences. (Use semi block form}
-
-j
-
-‘Q.7. write shert notes o7- any two
-
-v!
-A- Grapevine communication B- Oral form of communication C- Importance of
-communication
+(10)
+(10)
 ````

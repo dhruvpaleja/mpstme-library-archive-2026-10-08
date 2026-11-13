@@ -1,6 +1,6 @@
 # Advance Manufacturing Processes: question papers in full
 
-3 unique papers · 2022 to 2023-24 · Mechanical
+3 unique papers · 2022-23 to 2023-24 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -197,7 +197,7 @@ CO-2; SO-6; en site rela
 _ 80:6; “ Explain additive manufacturing with its advantages and limitations. [08]
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper 0f55581242d1
+## 2022-23 · Final-Exam · Sem 9 · paper 0f55581242d1
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL

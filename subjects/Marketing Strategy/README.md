@@ -14,32 +14,32 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech AI 7051 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Marketing Strategy(703TM0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Marketing Strategy(703TM0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech AI 7051 | QP_Marketing Strategy(703TM0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Marketing Strategy(703TM0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech DS 7052 | QP_Marketing Strategy(703TM0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Marketing Strategy(703TM0E014)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech AI 7051 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Marketing Strategy(703TM0E014)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Marketing Strategy(703TM0E014)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Marketing Strategy(703TM0E014)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Marketing Strategy(703TM0E014)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Marketing Strategy(703TM0E014)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Marketing Strategy(703TM0E014)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Marketing Strategy(703TM0E014)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Marketing Strategy(703TM0E014)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Marketing Strategy(703TM0E014)_2024-2025.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 10 | MBA TECH | Marketing Strategy ,Re-exam 2023-2024.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 10 | MBA TECH | Marketing Strategy,SemX,Final , 2021-22.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 10 | MBA TECH | Marketing Strategy , Re-exam 2021-2022.pdf |

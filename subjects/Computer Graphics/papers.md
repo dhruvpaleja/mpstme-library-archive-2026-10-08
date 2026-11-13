@@ -2238,43 +2238,38 @@ b) Write short note on any two: ; 3M |
 (iii) Aliasing and Anti-aliasing.
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 9163725a89e1
+## 2016-17 · Final-Exam · Sem 5 · paper 447de1f17086
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/COMPUTER GRAPHICS/COMPUTER GRAPHICS BATCH 14-15,15-16,16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 29 May 2017
-- Text: ocr (2 pages), mean OCR confidence 88.7
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/COMPUTER GRAPHICS/COMPUTER GRAPHICS B TECH (COMPUTER), FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 November 2016
+- Text: ocr (2 pages), mean OCR confidence 89.8
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (COMPUTER) Year: Ill Semester: V
+Programme: B. Tech (COMPUTER) Year: III Semester: V
 
-; Batch: 2014-15/ 2015-16/ 2016-17 we oun PONS
-Academic Year: 2016-2017 -
+Academic Year: 2016-2017 an
+eon oY
 
-; . af posven
-Subject: Computer Graphics Bs use ARW
-Marks: 60 \ $b "*"
+Subject : Computer Graphics »
+Marks:60 .>stmB Ve
+Date : 29 November 2016 Time : 2,00 pm.to,5,0Q p
 
-oe
-Date: 29 May 2017 Time: 10.00 a at gy
-Durations: 3 (hi ars ew ea
-No. of Pages: 2
+Durations: 3 (hrs) FS ye]
+Final-Examination 0) ke d
 
-Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their
-use.
+1) Question No. ONE is compulsory.
 
-1) Question No.1 is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
 
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
+3) In all FIVE questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -2283,55 +2278,48 @@ use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql. Answer the following 12M
-a) Explain Homogenous co-ordinate system.
+Q.1 A) Define Computer Graphics and explain the various applications of Computer Graphics. (03)
 
-b) Explain even-odd test to determine whether the point is inside or outside of
-polygon with special cases.
+B) Explain Inside Outside test using odd-even method. (03)
+C) Explain 2D Shear & 2D Reflection with their matrices. (03)
+D) Explain Area Subdivision method of Hidden surface elimination. (03)
 
-c) Differentiate between Raster scan display and Radom scan display.
-d) State the properties of B-Spline Curves.
-e) Explain Ray tracing.
-
-f) | Write matrix to perform 3D reflection about xy, yz and xz planes.
-
-Q2 a) Explain Flood fill algorithm using 8 connected method. What is its advantage 6M
-over boundary fill algorithm?
-
-b) Derive the steps required to perform 2-Dimension fixed point scaling with the 6M
-example. :
-
-Q3 a) Develop the Bresenhams Circle generation algorithm. Find the co-ordinateon 6M
-circumference of circle with radius 6.
-
-b) Derive the matrix in 2D for reflection of an object about a line y= mx+c - 6M
-
-’ , 3
+Q2 A) What is 3D projection? Explain Parallel and Perspective projection with neat diagram. (06)
+B) Explain Z-buffer algorithm. (06)
+Q3 A) Define window and viewport: Draw and explain the two dimensional viewing (06)
+transformation pipeline.
+B) Explain Gouraud and Phong shading. (06)
+Q4 A) Aclipping window ABCD is located as A(100, 10), B(160,10), C(160, 40), D(100, 40). (06)
+Using alee San ein line clipping algorithm, find the visible portion if any, of the
+segment EF & GF, E(50, 0), F(70, 80), G(120, 20), H(140, 80).
+B) Compare Raster scan display and Vector scan display. (03)
 --- page 2 ---
-Q4 a) Explain drawback of the Sutherland Hodgman polygon clipping algorithm with 4M
-example.
+C) _ Find transformation of triangle A(1, 0), B(O, 1), C1, 1) by
+1. Rotating 45°
 
-b) Explain Cohen Sutherland line clipping algorithm. Apply the algorithm to clip 8M
-the line segment A(110,70) and B(170,90) against the window, Co-ordinate
-Xwmin = 90 , Xwmax = 160, Ywmin = 80 and Ywmax= 100.
+(03)
+about the origin and then translating one unit in x and y direction.
 
-Q5 a) Construct the Bezier curve of order 3 and with 4 polygon vertices 6M
-A(1,1),B(2,3),C(4,3) and D(6,4).
+Q.5 A) Give the mathematical calculation for mid-point circle generation. Using the same plot (06)
+the circle whose radius is 10 units.
+B) _ Derive the steps required to perform 2D rotation about arbitrary point. (06)
+Q.6 A) “Gi
 
-b) Explain Parallel and Perspective projection. Derive the matrix for perspective 6M
+Give steps of DDA line Drawing algorithm. Calculate the pixel positions along straight (06)
+line between A (10,'12) and B (20, 20) using DDA line generation algorithm.
+B) Explain scan line fill algorithm with suitable example.
 
-projection.
-Q6 a) Derive the 3-D transformation for the rotation about an arbitrary axis. 6M
-b) Explain scanline hidden surface algorithm in detail. 6M
-Q7 a) Write and explain the depth buffer algorithm for detecting visible surface. 6M
-b) Write short note on any two: 6M
-(i) Viewing Transformation .
+(06)
+Q.7 A) What are Bezier curves? Explain the various properties of a Bezier curve. (06)
+B) Explain 3-D Transformation for (06)
 
-(ii) Scanline polygon filling algorithm.
-(iii) Constant Shading algorithm
+9) Translation |
+189) Scaling .
+
+I) Rotation about co-ordinate axis
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 5d2565258981
+## 2016-17 · Re-Exam · Sem 5 · paper 5d2565258981
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
@@ -2434,6 +2422,99 @@ Ye
 [3]
 3]
 [3]
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper 9163725a89e1
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/COMPUTER GRAPHICS/COMPUTER GRAPHICS BATCH 14-15,15-16,16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 29 May 2017
+- Text: ocr (2 pages), mean OCR confidence 88.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) Year: Ill Semester: V
+
+; Batch: 2014-15/ 2015-16/ 2016-17 we oun PONS
+Academic Year: 2016-2017 -
+
+; . af posven
+Subject: Computer Graphics Bs use ARW
+Marks: 60 \ $b "*"
+
+oe
+Date: 29 May 2017 Time: 10.00 a at gy
+Durations: 3 (hi ars ew ea
+No. of Pages: 2
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their
+use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer the following 12M
+a) Explain Homogenous co-ordinate system.
+
+b) Explain even-odd test to determine whether the point is inside or outside of
+polygon with special cases.
+
+c) Differentiate between Raster scan display and Radom scan display.
+d) State the properties of B-Spline Curves.
+e) Explain Ray tracing.
+
+f) | Write matrix to perform 3D reflection about xy, yz and xz planes.
+
+Q2 a) Explain Flood fill algorithm using 8 connected method. What is its advantage 6M
+over boundary fill algorithm?
+
+b) Derive the steps required to perform 2-Dimension fixed point scaling with the 6M
+example. :
+
+Q3 a) Develop the Bresenhams Circle generation algorithm. Find the co-ordinateon 6M
+circumference of circle with radius 6.
+
+b) Derive the matrix in 2D for reflection of an object about a line y= mx+c - 6M
+
+’ , 3
+--- page 2 ---
+Q4 a) Explain drawback of the Sutherland Hodgman polygon clipping algorithm with 4M
+example.
+
+b) Explain Cohen Sutherland line clipping algorithm. Apply the algorithm to clip 8M
+the line segment A(110,70) and B(170,90) against the window, Co-ordinate
+Xwmin = 90 , Xwmax = 160, Ywmin = 80 and Ywmax= 100.
+
+Q5 a) Construct the Bezier curve of order 3 and with 4 polygon vertices 6M
+A(1,1),B(2,3),C(4,3) and D(6,4).
+
+b) Explain Parallel and Perspective projection. Derive the matrix for perspective 6M
+
+projection.
+Q6 a) Derive the 3-D transformation for the rotation about an arbitrary axis. 6M
+b) Explain scanline hidden surface algorithm in detail. 6M
+Q7 a) Write and explain the depth buffer algorithm for detecting visible surface. 6M
+b) Write short note on any two: 6M
+(i) Viewing Transformation .
+
+(ii) Scanline polygon filling algorithm.
+(iii) Constant Shading algorithm
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper ae53a705f1f6
@@ -2542,6 +2623,128 @@ D) 3D Display methods
 E) Application areas of Computer Graphics
 
 Page 2 of 2
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 0399c17f23f0
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/COMPUTER GRAPHICS/COMPUTER GRAPHICS B TECH (COMPUTER) BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 30/11/2015
+- Text: ocr (2 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Computer) Year: II Semester: V
+Batch: 2014-2015
+Academic Year: 2015-2016
+
+Subject: Computer Graphics /
+
+Marks: 60:' ut
+Date: 30/11/2015 Time: 2.00 Bp bo 5.00: bin f
+Duration: 3 (nish
+
+NO eet
+‘ oe
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of Answer Book, which is provided for the use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4, All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets indicate full marks.
+
+Q.1 Answer the following (any 4)
+a) Find transformation of triangle A(1, 0), B(O, 1), C(1,1) by (2.
+a) Rotating 45° about the origin and then translating one unit in x and y
+direction ;
+b) Write short note on Phong Shading
+c) What is homogeneous coordinates? Give homogeneous coordinates for
+Translation, Rotation and Scaling.
+d) Differentiate between Raster scan display and Random scan display.
+e) Explain Z-buffer algorithm.
+Q.2 a) Mid-point circle algorithm with all mathematical representation. &
+b) What is shear transformation? Express Shear Transformation in terms of 6
+: Scaling and Rotation
+Q.3 a) Describe the Bresenham’s line drawing algorithm. Find out which pixel would 6
+be turned “ON” for the line having end-points P1 (-1, -2) and P2 (4, 8) using
+Bresenham’s algorithm.
+b) Define window and view port. Assuming the window and view port to be 6
+rectangular derive the steps and respective transformation matrix for
+transforming a point (Xwmins Ywmin) in window to point (Xyminy Yvmin) in
+viewport. a ;
+
+4/2
+--- page 2 ---
+Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+a)
+
+b) i
+i
+
+a)
+
+b) i
+il
+
+b)
+
+Explain 3-D Transformation for
+
+l) Translation ;
+
+Tl) Scaling
+
+III) Rotation about co-ordinate axis
+Write a short note on Gouraud Shading.
+
+; What is Aliasing? Explain techniques of Anti-aliasing
+
+Explain the Scan-line algorithm for polygon filling
+
+Scan line method for hidden surface elimination
+
+Explain even-odd test to determine whether the point is inside or outside of
+polygon.
+Write a line clipping algorithm. Which uses parametric form of equation?
+Test it for a line P1P2 whose P1 = (20, 10) P2 = (60, 30) against the window
+
+What are the properties of Bezier curve? Describe the procédures to generate
+Bezier curve.
+
+Write Short note on any Four
+a) Color CRT Monitors
+
+b) Depth Cueing
+
+c) Area Subdivision Method
+d) Ray Tracing
+
+e) Show that composition of two rotations is additive by concatenating matrix.
+
+9
+
+6
+
+{o-
 ````
 
 ## 2014-15 · Final-Exam · Sem 5 · paper 73a54d074159
@@ -2747,128 +2950,6 @@ d Vector scan display.
 a ed
 
 ie
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 0399c17f23f0
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/COMPUTER GRAPHICS/COMPUTER GRAPHICS B TECH (COMPUTER) BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 30/11/2015
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Computer) Year: II Semester: V
-Batch: 2014-2015
-Academic Year: 2015-2016
-
-Subject: Computer Graphics /
-
-Marks: 60:' ut
-Date: 30/11/2015 Time: 2.00 Bp bo 5.00: bin f
-Duration: 3 (nish
-
-NO eet
-‘ oe
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of Answer Book, which is provided for the use.
-
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4, All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets indicate full marks.
-
-Q.1 Answer the following (any 4)
-a) Find transformation of triangle A(1, 0), B(O, 1), C(1,1) by (2.
-a) Rotating 45° about the origin and then translating one unit in x and y
-direction ;
-b) Write short note on Phong Shading
-c) What is homogeneous coordinates? Give homogeneous coordinates for
-Translation, Rotation and Scaling.
-d) Differentiate between Raster scan display and Random scan display.
-e) Explain Z-buffer algorithm.
-Q.2 a) Mid-point circle algorithm with all mathematical representation. &
-b) What is shear transformation? Express Shear Transformation in terms of 6
-: Scaling and Rotation
-Q.3 a) Describe the Bresenham’s line drawing algorithm. Find out which pixel would 6
-be turned “ON” for the line having end-points P1 (-1, -2) and P2 (4, 8) using
-Bresenham’s algorithm.
-b) Define window and view port. Assuming the window and view port to be 6
-rectangular derive the steps and respective transformation matrix for
-transforming a point (Xwmins Ywmin) in window to point (Xyminy Yvmin) in
-viewport. a ;
-
-4/2
---- page 2 ---
-Q.4
-
-Q.5
-
-Q.6
-
-Q.7
-
-a)
-
-b) i
-i
-
-a)
-
-b) i
-il
-
-b)
-
-Explain 3-D Transformation for
-
-l) Translation ;
-
-Tl) Scaling
-
-III) Rotation about co-ordinate axis
-Write a short note on Gouraud Shading.
-
-; What is Aliasing? Explain techniques of Anti-aliasing
-
-Explain the Scan-line algorithm for polygon filling
-
-Scan line method for hidden surface elimination
-
-Explain even-odd test to determine whether the point is inside or outside of
-polygon.
-Write a line clipping algorithm. Which uses parametric form of equation?
-Test it for a line P1P2 whose P1 = (20, 10) P2 = (60, 30) against the window
-with (Xwmins ¥ wmin)= (15, 15), (Xowmaxs Y wmex) = (25, 25).
-
-What are the properties of Bezier curve? Describe the procédures to generate
-Bezier curve.
-
-Write Short note on any Four
-a) Color CRT Monitors
-
-b) Depth Cueing
-
-c) Area Subdivision Method
-d) Ray Tracing
-
-e) Show that composition of two rotations is additive by concatenating matrix.
-
-9
-
-6
-
-{o-
 ````
 
 ## 2013-14 · Final-Exam · Sem 5 · paper 74ff4e75acb7
@@ -3090,85 +3171,4 @@ YA.
 05
 05
 0S
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper 447de1f17086
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/COMPUTER GRAPHICS/COMPUTER GRAPHICS B TECH (COMPUTER), FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 November 2016
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) Year: III Semester: V
-
-Academic Year: 2016-2017 an
-eon oY
-
-Subject : Computer Graphics »
-Marks:60 .>stmB Ve
-Date : 29 November 2016 Time : 2,00 pm.to,5,0Q p
-
-Durations: 3 (hrs) FS ye]
-Final-Examination 0) ke d
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 A) Define Computer Graphics and explain the various applications of Computer Graphics. (03)
-
-B) Explain Inside Outside test using odd-even method. (03)
-C) Explain 2D Shear & 2D Reflection with their matrices. (03)
-D) Explain Area Subdivision method of Hidden surface elimination. (03)
-
-Q2 A) What is 3D projection? Explain Parallel and Perspective projection with neat diagram. (06)
-B) Explain Z-buffer algorithm. (06)
-Q3 A) Define window and viewport: Draw and explain the two dimensional viewing (06)
-transformation pipeline.
-B) Explain Gouraud and Phong shading. (06)
-Q4 A) Aclipping window ABCD is located as A(100, 10), B(160,10), C(160, 40), D(100, 40). (06)
-Using alee San ein line clipping algorithm, find the visible portion if any, of the
-segment EF & GF, E(50, 0), F(70, 80), G(120, 20), H(140, 80).
-B) Compare Raster scan display and Vector scan display. (03)
---- page 2 ---
-C) _ Find transformation of triangle A(1, 0), B(O, 1), C1, 1) by
-1. Rotating 45°
-
-(03)
-about the origin and then translating one unit in x and y direction.
-
-Q.5 A) Give the mathematical calculation for mid-point circle generation. Using the same plot (06)
-the circle whose radius is 10 units.
-B) _ Derive the steps required to perform 2D rotation about arbitrary point. (06)
-Q.6 A) “Gi
-
-Give steps of DDA line Drawing algorithm. Calculate the pixel positions along straight (06)
-line between A (10,'12) and B (20, 20) using DDA line generation algorithm.
-B) Explain scan line fill algorithm with suitable example.
-
-(06)
-Q.7 A) What are Bezier curves? Explain the various properties of a Bezier curve. (06)
-B) Explain 3-D Transformation for (06)
-
-9) Translation |
-189) Scaling .
-
-I) Rotation about co-ordinate axis
 ````

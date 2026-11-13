@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM VI/HYDROLOGY/HYDROLOGY 2011-120001.pdf`
 - Printed on paper: duration hours: 3; exam date: 11/05/2012
 - Text: ocr (2 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS “sit TUTE IF Mtg
@@ -123,7 +124,6 @@ Q‘No.7(B) Discuss the various empirical formulae used in ‘the design of floo
 
 a
 
-oi a a Ro a a ROR
 
 %
 ````
@@ -135,6 +135,7 @@ oi a a Ro a a ROR
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM VI/HYDROLOGY/HYDROLOGY BATCH 2011-12 RE EXAM0001.pdf`
 - Printed on paper: exam date: 28/06/2012
 - Text: ocr (2 pages), mean OCR confidence 90.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / SVKM’s NMIMS
@@ -232,7 +233,6 @@ Q:No.7(B) Describe in detail different methods used in the flood control. [10]
 
 4
 
-ok ok 2k ok a a oR RE
 
 /2-
 ````

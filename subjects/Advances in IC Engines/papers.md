@@ -489,172 +489,7 @@ EKER ERD of Paper****
 10
 ````
 
-## 2023-24 · Re-Exam · Sem 6 · paper 787b76e7b913
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/ADVANCES IN IC ENGINES/Advances in IC Engines , Re-exam 2023-2024.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2024
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENG
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program: B.Tech / MBA Tech. Year: DT Semester: VI
-Stream: Mechanical Engineering .
-Subject: Advances in I.C Engines Time: 3 hrs (2:00 pm to.5:00 pm)
-Date: 27/06/2024 No. of Pages: 02
-Marks: 100
-
-Re Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-
-CO- 1; $0-1; a. Differentiate between carburetor-based systems and gasoline injection 4
-
-BL-2 systems, highlighting their key differences and advantages.
-
-CO- 1; SO-1; b. Compare and contrast air-cooled and liquid-cooled engines in terms of 4
-
-BL-4 cooling efficiency and suitability for different applications
-
-CO-1;SO-1; «4 List the factors affecting delay period in C.I engines 4
-
-me d. List the different types of diesel combustion systems used in compression 4
-
-it SO-5 ; ignition engines. What are the distinguishing features of each combustion
-system?
-
-CO-3; $0-7; e. Discuss the importance of emission control in automobiles. Why is it 4
-
-BL-1 necessary to regulate vehicle emissions?
-
-Q2 A Evaluate the effectiveness of different engine cooling methods in 10
-
-red SO-7; maintaining optimal engine temperatures.
-
-Q2 B Differentiate scavenging and super charging. Also classify scavenging in 10
-
-CO-1; SO-2; compression ignition engine
-
-BL-4
---- page 2 ---
-Q3
-CO-1; SO-2;
-BL-2
-
-Q3
-
-CO-2; SO-5;
-BL-2
-
-Q4
-
-CO-2; SO-7;
-BL-4 ~
-
-Q4
-
-CO-3; SO-1;
-BL-4
-
-Q5
-
-CO-3; SO-2;
-BL-4
-
-Q5
-
-CO-2; SO-2;
-BL-5
-
-Q6
-
-CO-2; SO-5;
-BL-6
-
-Q6 ©
-
-CO-1; SO-7;
-BL-4
-
-Q7
-
-CO-1,2; SO-
-5,75
-
-BL-3
-
-Explain the various characteristics of an I.C engine.
-
-Explain the term “Spray visualization” Choose the different techniques of
-
-spray visualisation in detail.
-
-With a neat sketch explain the construction and working of battery ignition
-
-system.
-
-Explain the role of diesel oxidation catalyst (DOC) in controlling emissions
-from diesel-powered vehicles. How does a DOC work, and what pollutants
-does it target?
-
-“Supercharging affects engine performance” Justify the statement.
-
-Discuss the principles and operation of selective catalytic reduction (SCR)
-and lean NOx trap (LNT) systems in controlling nitrogen oxide (NOx)
-emissions from automobiles. How do SCR and LNT systems differ, and
-what factors influence their performance?
-
-Compile the various methods of Supercharging.
-
-Explain the construction and working of a HCCI engine using a labelled
-
-diagram.
-
-Write short notes on following:
-(i) Need for emission control .
-(ii) Particle Image Velocimetry
-(iii) Supercharging
-(i) Ignition timing
-
-FR AK KR KE of Papert #**#¥e*
-
-10
-10
-10
-10
-10
-
-10
-
-10
-10
-5x
-
-20
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper b71f9df3a4db
+## 2023-24 · Exam not stated · Sem 6 · paper b71f9df3a4db
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -833,4 +668,169 @@ HK EKAKEKE of Paper****erres
 10
 
 5x4
+````
+
+## 2023-24 · Re-Exam · Sem 6 · paper 787b76e7b913
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/ADVANCES IN IC ENGINES/Advances in IC Engines , Re-exam 2023-2024.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2024
+- Text: ocr (2 pages), mean OCR confidence 91.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENG
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program: B.Tech / MBA Tech. Year: DT Semester: VI
+Stream: Mechanical Engineering .
+Subject: Advances in I.C Engines Time: 3 hrs (2:00 pm to.5:00 pm)
+Date: 27/06/2024 No. of Pages: 02
+Marks: 100
+
+Re Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+
+CO- 1; $0-1; a. Differentiate between carburetor-based systems and gasoline injection 4
+
+BL-2 systems, highlighting their key differences and advantages.
+
+CO- 1; SO-1; b. Compare and contrast air-cooled and liquid-cooled engines in terms of 4
+
+BL-4 cooling efficiency and suitability for different applications
+
+CO-1;SO-1; «4 List the factors affecting delay period in C.I engines 4
+
+me d. List the different types of diesel combustion systems used in compression 4
+
+it SO-5 ; ignition engines. What are the distinguishing features of each combustion
+system?
+
+CO-3; $0-7; e. Discuss the importance of emission control in automobiles. Why is it 4
+
+BL-1 necessary to regulate vehicle emissions?
+
+Q2 A Evaluate the effectiveness of different engine cooling methods in 10
+
+red SO-7; maintaining optimal engine temperatures.
+
+Q2 B Differentiate scavenging and super charging. Also classify scavenging in 10
+
+CO-1; SO-2; compression ignition engine
+
+BL-4
+--- page 2 ---
+Q3
+CO-1; SO-2;
+BL-2
+
+Q3
+
+CO-2; SO-5;
+BL-2
+
+Q4
+
+CO-2; SO-7;
+BL-4 ~
+
+Q4
+
+CO-3; SO-1;
+BL-4
+
+Q5
+
+CO-3; SO-2;
+BL-4
+
+Q5
+
+CO-2; SO-2;
+BL-5
+
+Q6
+
+CO-2; SO-5;
+BL-6
+
+Q6 ©
+
+CO-1; SO-7;
+BL-4
+
+Q7
+
+CO-1,2; SO-
+5,75
+
+BL-3
+
+Explain the various characteristics of an I.C engine.
+
+Explain the term “Spray visualization” Choose the different techniques of
+
+spray visualisation in detail.
+
+With a neat sketch explain the construction and working of battery ignition
+
+system.
+
+Explain the role of diesel oxidation catalyst (DOC) in controlling emissions
+from diesel-powered vehicles. How does a DOC work, and what pollutants
+does it target?
+
+“Supercharging affects engine performance” Justify the statement.
+
+Discuss the principles and operation of selective catalytic reduction (SCR)
+and lean NOx trap (LNT) systems in controlling nitrogen oxide (NOx)
+emissions from automobiles. How do SCR and LNT systems differ, and
+what factors influence their performance?
+
+Compile the various methods of Supercharging.
+
+Explain the construction and working of a HCCI engine using a labelled
+
+diagram.
+
+Write short notes on following:
+(i) Need for emission control .
+(ii) Particle Image Velocimetry
+(iii) Supercharging
+(i) Ignition timing
+
+
+10
+10
+10
+10
+10
+
+10
+
+10
+10
+5x
+
+20
 ````

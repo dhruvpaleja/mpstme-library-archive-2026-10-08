@@ -1,10 +1,10 @@
 # Professional Ethics and Legal Aspects: question papers in full
 
-1 unique papers · years not stated · Computer Engineering, Electronics and Telecommunication, Mechanical, Mechatronics
+1 unique papers · 2021-22 to 2021-22 · Computer Engineering, Electronics and Telecommunication, Mechanical, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## Year not stated · Final-Exam · Sem 6 · paper 9ae2a9ae9942
+## 2021-22 · Final-Exam · Sem 6 · paper 9ae2a9ae9942
 
 - Departments: Computer Engineering, Electronics and Telecommunication, Mechanical, Mechatronics
 - Programmes: B TECH / COMPUTER, B TECH / EXTC, B TECH / MECHANICAL, B TECH / MECHATRONICS

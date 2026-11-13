@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Business Statistics/QP_Business Statistics(703TM0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 29 Nov 2025
 - Text: mixed (7 pages), mean OCR confidence 69.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -356,7 +357,6 @@ Chi-Square Distribution Table
 
 ‘The shaded area is equal to a for y? = x2.
 
-af ane x bon hrs bso x00 Pate) 3Cheo Chas xno Pacers
 1 0.000 0.000: 0.001 O00 O.016 2.706 dal 5.024 6.635 T8To
 2 0.010 0.020 O.061 O.103 O.211 4.005 5.991 7.378 9310 10.597
 3 O.07T2 0.115. 0.216 0.352 O54 6.251 7.815 9.343 11.345 12.938
@@ -405,6 +405,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/MBATech_AI_7051/Business Statistics/QP_Business Statistics(703TM0C001)_2025-2026.pdf` (+3 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 29 Nov 2025
 - Text: mixed (7 pages), mean OCR confidence 69.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -750,7 +751,6 @@ Chi-Square Distribution Table
 
 ‘The shaded area is equal to a for y? = x2.
 
-af ane x bon hrs bso x00 Pate) 3Cheo Chas xno Pacers
 1 0.000 0.000: 0.001 O00 O.016 2.706 dal 5.024 6.635 T8To
 2 0.010 0.020 O.061 O.103 O.211 4.005 5.991 7.378 9310 10.597
 3 O.07T2 0.115. 0.216 0.352 O54 6.251 7.815 9.343 11.345 12.938
@@ -799,6 +799,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Business Statistics/QP_Business Statistics(703TM0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 06 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 69.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1118,7 +1119,6 @@ Chi-Square Distribution Table
 
 ‘The shaded area is equal to a for y? = x2.
 
-af ane x bon hrs bso x00 Pate) 3Cheo Chas xno Pacers
 1 0.000 0.000: 0.001 O00 O.016 2.706 dal 5.024 6.635 T8To
 2 0.010 0.020 O.061 O.103 O.211 4.005 5.991 7.378 9310 10.597
 3 O.07T2 0.115. 0.216 0.352 O54 6.251 7.815 9.343 11.345 12.938
@@ -1167,6 +1167,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/MBATech_Computer_7047/Business Statistics/QP_Business Statistics(703TM0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 06 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 69.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1486,7 +1487,6 @@ Chi-Square Distribution Table
 
 ‘The shaded area is equal to a for y? = x2.
 
-af ane x bon hrs bso x00 Pate) 3Cheo Chas xno Pacers
 1 0.000 0.000: 0.001 O00 O.016 2.706 dal 5.024 6.635 T8To
 2 0.010 0.020 O.061 O.103 O.211 4.005 5.991 7.378 9310 10.597
 3 O.07T2 0.115. 0.216 0.352 O54 6.251 7.815 9.343 11.345 12.938
@@ -1535,6 +1535,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/MBATech_DS_7052/Business Statistics/QP_Business Statistics(703TM0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 06 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 69.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1854,7 +1855,6 @@ Chi-Square Distribution Table
 
 ‘The shaded area is equal to a for y? = x2.
 
-af ane x bon hrs bso x00 Pate) 3Cheo Chas xno Pacers
 1 0.000 0.000: 0.001 O00 O.016 2.706 dal 5.024 6.635 T8To
 2 0.010 0.020 O.061 O.103 O.211 4.005 5.991 7.378 9310 10.597
 3 O.07T2 0.115. 0.216 0.352 O54 6.251 7.815 9.343 11.345 12.938
@@ -1903,6 +1903,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/BUSINESS STATISTICS/Business Statistics, 2024-25.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 27/ 11/24
 - Text: ocr (8 pages), mean OCR confidence 82.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2319,7 +2320,6 @@ Chi-Square Distribution Table
 
 The shaded area is equal to @ for x? = x2.
 
-| xhos X%o0 Xr X2580 2heo Xoo Caso has xdia Xoc6
 
 1 @.000 0.000 @.008 G.004 0016 2.708 3.841 5.024 6.635 T3873
 2 0.010 0.020 Ost 0.103 O21 4.605. 5.991 7.378 9.210 10.597
@@ -2367,6 +2367,7 @@ e 60 | 35534 37.485 40.482 | 42.188 46.459 | 74397 | 79.082 83.298 | 88.379 | 91
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/BUSINESS STATISTICS/Business Statistics , Re-exam 2022-23,2023-24,2024-25.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 45/02/25
 - Text: ocr (8 pages), mean OCR confidence 79.9
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2593,7 +2594,6 @@ Total 14933333: | V4 = ee Vis ies Sa ee
 
 Analyze the output and interpret the business implication.
 
-FES I I a a a a a I aE ae a a a
 
 )
 --- page 5 ---
@@ -2700,7 +2700,6 @@ Chi-Square Distribution Table
 
 ‘The shaded area is equal to @ for xy? =
 
-G | xh | xhoo | xbe | xdc0 | xd0 | xno Xoo | X%s | xdno | xo
 1 6.000 0.000 G.008 0.004 0N16 2.706 3.841 5.024 6.635 7879
 2 0.010 0.020 0.081 0.103 O211 4.605 5.991 7.378 9.210 10.597
 3 0.072 O.115, 0.216 0.352 0.584 G251 7.815 9.348 11.345 12.8338
@@ -2718,7 +2717,6 @@ i, | 2008 | S0es | aeis | ears | e578 | irars | i.e7s | ana | Sis] Ear
 {| 4601 | 5200 | 6202 | 7261 | ss47 | 20207 | 24096 | o7aas | aoszs | a2801
 16 5.142 5.812 6.908 7.962 9.312 23.542 26.206 ‘28.845 32.000 34.267
 17 5.097 6.408 T5064 8.672 10.085 24.769 27.587 30.191 33.409 35.718
-18 | 6.265 | 7015 | gest | 9390 | tose | 2,989 | o8sco | 31805 | aaans | a7 jee
 19: 6.844 7.633 907 10.117 11.651 27204 30.844 32.852 36.191 38.582
 20 7.434 8.260 9.591 10.851 12.443 28.412 31.410 34.170 37.566 39.997
 21 8.034 8.897 10.283 11.591 13.240 29.615 32.671 35.479 38.902 41.401
@@ -2726,7 +2724,6 @@ i, | 2008 | S0es | aeis | ears | e578 | irars | i.e7s | ana | Sis] Ear
 23 9.260 10.196 11.685 13.091 14.848 32.007 35.172 38.076 41.638 44.181
 34] 9.886 | 10.856 | 12.401 | 13.848 | is¢6s9 | 33196 | 35.415 | 39.364 | azse0 | asco
 25 | 10.520 | t1.s24 | 13.190 | 14611 | 16.473 | 3a352.| 37.652 | aness | aaaia | agen
-36 | 11.160 | 1298 | Wasi | is379 | 17.293 |~aaces | eBaS | abeas | a5 Gas} assag
 27 11.808 22.879 14.573 16.151 18.114 36.741 0.113 43.195 46.963 49.645
 28 12.462 13.565 45.208 16.928 18.939 37.916 41.337 44.461 48.278 50.993
 3a | 1282t | 14.256 | 16.047 | 17.706 | 19.768 | so.087 | 22557 | as722 | aosss | soaag
@@ -2749,6 +2746,7 @@ i, | 2008 | S0es | aeis | ears | e578 | irars | i.e7s | ana | Sis] Ear
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/BUSINESS STATISTICS/Business Statistics , Final 2023-24,Re-exam 2022-23.pdf`
 - Printed on paper: max marks: 50
 - Text: ocr (8 pages), mean OCR confidence 83.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a SVKM’S NMIMS .
@@ -3038,7 +3036,6 @@ terms of average sales. Also give business implications.
 
 [5]
 
-2 ok oi a iC ok ok ok ao oR a aK
 --- page 6 ---
 Standard Normal Probabilities The values in the table are the arez
 between zero and the z-score. That is, P(0<Z<z-score)
@@ -3218,6 +3215,831 @@ df} 0.995 0.99} 0.975 0.95 0.9 0.1 0.05 0.025 0.005
 NOE
 ````
 
+## 2023-24 · Re-Exam · paper a6dd222d1d05
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/BUSINESS STATISTICS/Business Statistics , Re-exam 2022-23.pdf`
+- Printed on paper: max marks: 50
+- Text: ocr (8 pages), mean OCR confidence 80.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+4 SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERID
+Academic Year: 2023-2024
+
+Program: MBA Tech Stream ;_ ALL Streams Year: Iv. Semester: ye
+Subject: __ Business Statistics Time: 2_ hrs C10. 00 ) 012: 00_)
+Date:__08 08 / 02/2024) No. of Pages: 5“ ™O
+Marks: 50.
+
+___| Re-Examination 2022-23
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi a. A production company’s 350 daily wages workers average 37.6 years of age, with
+om Su sooly a standard deviation of 8.3 years. If a random sample of 45 daily wages workers is | [3]
+Analyse taken, what is the probability that the average of the sample is less than 40?
+oon C02; a Customers arrive randomly in a bank.on weekday afternoons at an average of 3.2
+SO-; customers every 4 minutes. What is the probability of exactly 5 customers [3]
+BL: Apply arriving in a 4-minute interval on a weekday afternoon?
+Analyse -
+c. You are in a company providing top class security solutions to your clients. You are
+Qi conducting acceptance sampling for specialised chips to be included in the security
+01, C02, product. You need 1000 of these chips. Your requirement is that the 99.9% of the
+noah chips should be absolutely defect free. You have a vender that claims the required | [4]
+Analyse,Eval accuracy. Null hypothesis is that the claim is correct. Define Type | and Type Il error
+uate for this test and discuss the cost (consequences) of each type of error. Which of
+the errors is more dangerous? Why?
+a. The Wall Street Journal reported some interesting statistics on the job market. One
+Statistic is that 40% of all workers say they would change jobs for “slightly Higher
+= pay.” In addition, 88% of companies say that there is a shortage of qualified job
+Q2 candidates. ;
+my he i. If 10 workers are randomly selected and asked if they would change jobs i6)
+BL- ‘Apply for “slightly higher pay.” What is the probability that at least 1 say yes?
+Analyse ii. If 5 companies are contacted, what is the probability that ali of the
+companies say there is a shortage of qualified job candidates?
+ii. If 5 companies are contacted, what is the expected number of companies
+that would say there is a shortage of qualified job candidates
+b. Parminder Singh is the supervisor for the Krishna hydroelectric Dam. He knows that
+Q2z the dam’s turbines generate electricity at the peak rate only when at least
+ome €02), 1,000,000 gallons of water pass through the dam each day. He also knows, from 14)
+BL Abply experience, the daily flow is normally distributed, with the mean equal to 850,000
+Analyse, gallons and standard deviation of 200,000 gallons. What is the probability that the
+turbines will generate at peak rate today?
+a3 a. ROE (Return on Equity) data was gathered for 3 different industries ( the
+
+C01, Co2 companies selected were homogenous in terms of other parameters) [6]
+Descriptive statistics was performed on the data and the results are given below :
+
+1
+--- page 2 ---
+BL- Apply ,
+Analyse,
+
+evaluate Histogram Industry A Histogram Industry B
+Gf oe ts sin nee Se ne i RS ee | . itt
+2 : .
+x0 6
+8 s
+4 3
+2 :
+_ a ; 30:39 40-49, ; 5059 °
+Histogram Industry Ci
+39-48 49-58 ‘59-69
+Descriptive Statistics .
+Industry A Industry B Industry C
+Mean 43.36 | Mean 38.64 | Mean 49.5
+Standard
+Standard Error 1.56 | Error 2.1 | Standard Error 1.23
+Median 43.5 | Median 36 | Median 48.5
+Mode 39 | Mode 27 | Mode 59
+Standard Standard Standard
+Deviation 8.26 | Deviation 11.11 | Deviation 6.5
+Sample ‘
+Sample Variance | 68.16 | Variance 123.35 | Sample Variance 42.19
+Kurtosis 0.13 | Kurtosis -0.9 | Kurtosis -1.39
+Skewness -0.45 | Skewness 0.56 | Skewness 0.26
+Range 35 | Range 35 | Range : 20
+Minimum 23 | Minimum 25 | Minimum 40
+Maximum 58 | Maximum 60 | Maximum 60
+Sum 1214 | Sum 1082 | Sum 1386
+Count 28 | Count 28 | Count 28
+Analyse the data and report the findings about these three industries. If you wish to
+invest in any one of the Industries, which one will you prefer? Why?
+b. Hewitt Associates conducted a national survey to determine the extent to which
+a _ employers are promoting health and fitness among their employees. One of the
+BL- ‘apply , questions asked was, does your company offer on-site exercise classes? Suppose | [4]
+Analyse, it was estimated before the study that no more than 40% of the companies
+
+would answer Yes, How large a sample would Hewitt Associates have to take in
+--- page 3 ---
+a ile ell
+
+estimating the population proportion to ensure a 98% confidence in the results:
+and to be within + .03 of the true population proportion? re
+
+The owner of a large equipment rental company wants to make a rather quick estimate
+of the average number of days a piece of ditchdigging equipment is rented out per
+person per time. The company has records of all rentals, but the amount of time
+
+aa c02, required to conduct an audit of all accounts would be prohibitive. The owner decides to
+co3 take a random sample of rental invoices. Fourteen different rentals of ditchdiggers are [5]
+BL- Apply, selected randomly from the files, yield with mean 2.14 and standard deviation 1.29.
+Analyse Construct a 99% confidence interval to estimate the average number of days that a
+ditchdigger is rented and assumes that the number of days per rental is normally
+distributed in the population. Also interpret the results.
+aa The Department of Economic and Community Development (DECD) reported that in a year
+C01, Co2, the average number of new jobs created per city in the country was 1450. A random
+BL- Apply ; sample of 25 cities was taken from the country and found that the average new jobs
+Analyse, created were 1390 with standard deviation of 400. We want to determine whether there 6)
+Evaluate has been a significant decrease in the average number of jobs created than reported value.
+At 5% LOS (Alpha) test the hypotheses. Assume the population is normally distributed.
+Before marketing new products nationally, companies often test them on
+samples of potential customers. Such tests have a known reliability. For a
+as particular product type, a test will indicate success of the product 75% of the
+c01, C02, time if the product is indeed successful and 15% of the time when the product is t5I
+pas not successful. From past experience with similar products, a company knows
+‘ that a new product has a 0.60 chance of success on the national market. If the
+test indicates that the product wil! be successful, what is the probability that it
+really will be successful?
+From a total of 10,200 loans made by a state employees’ credit union in the most
+Qs recent 5-year period, 350 were sampled to determine what proportion was made
+coe 02, to women. This sample showed that 39 percent of the loans were made to
+BL- Apply , women employees. A complete census of loans 5 years ago showed that 41 [5]
+Analyse, percent of borrowers were women at a significant level of 0.02, can you conclude
+Evaluate that the proportion of loans made to women has changed significantly in la8t 5
+years? Set null and alternate hypothesis, test the hypothesis and explain results.
+A district industries centre (DIC) has collected the data summarizing the number
+of industries in the district under each combination of the level of technology used
+and the level of rate of return, as shown in the following table. Test whether the
+rate of return is independent of the ievel of technology while grouping the
+oat C02, industries, at a significance level of 0.05.
+C03 Summary of Data of Industries
+BL- Apply, Level of technology used ©)
+Analyse, ey _
+Evaluate
+Rate of return Low Medium High
+R<8% 20 50 10
+8% <R<15% 50 70 20
+15%<R 30 75 70
+as Coopers & Lybrand surveyed 210 chief executives of fast-growing small companies. Only
+C01, CO2, 51% of these executives had a management succession plan in place. A spokesperson for is]
+oe Cooper & Lybrand said that many companies do not worry about management
+
+succession unless it is an immediate problem. However, the unexpected exit of a
+
+3
+--- page 4 ---
+corporate leader can disrupt and unfocus a company for long enough to cause it to lose}
+its momentum.
+
+Use the data given to compute a 92% confidence interval to estimate the proportion of
+all fast-growing small companies that have a management succession plan. Also
+interpret the results
+
+A company selling ready-to-eat Pulav has created two flavours (Flavour A & B) of
+the product and launched them in different cities (one flavor in a city). The
+monthly sales ( in Lakhs Rupees) for both these flavours were compiled and
+analysed: Following is the analysis :
+
+F-Test Two-Sample for Variances F-Test Two-Sample for Variances
+
+Flavour A Flavour B
+Mean 46.46667 34 Mean
+Variance 554.981 321.25 Variance
+Observations 15 17 Observations
+df 14 16 df
+F 1.727567 F
+P(F<=f) Two-tail 0.146765 P(F<=f) Two-tail
+
+t-Test: Two-Sample Assuming Unequal Variances
+
+~ Flavour A Flavour B
+
+Mean 46.46666667 34
+
+Variance 554.9809524 321.25
+Q7 Observations 15 17
+coe C02, Hypothesized Mean Difference 0
+BL- Apply , df 26 (5]
+Analyse, t Stat 1.667480647
+Evaluate P(T<=t) one-tail 0.053710484
+
+t Critical one-tail 1.70561792 é
+
+P(T<=t) two-tail 0.107420969
+
+t Critical two-tail 2.055529439
+
+t-Test: Two-Sample Assuming Equal Variances
+
+Flavour A Flavour B
+
+Mean 46.46666667 34
+
+Variance 554.9809524 321.25
+
+Observations 15 17
+
+Pooled Variance 430.3244444
+
+Hypothesized Mean
+
+Difference 0
+
+df 30
+
+t Stat 1.696474907
+
+P(T<=t) one-tail 0.049075123
+
+t Critical one-tail 1.697260887
+
+P(T<=t) two-tail 0.100150245
+
+t Critical two-tail 2.042272456
+--- page 5 ---
+Use appropriate outputs to Test if the two flavours have equal reception by the
+consumers at alpha value 5%. Also test if Flavour A is better received by consumers than
+Flavour B. State business insights from these results
+
+b. An HR executive of a company wants to compare effectiveness of training methods for
+company’s sales executives. He considers 3 methods namely MethodA,B&C.He
+selects 36 sales executives with similar performance and divides them in the group of 12
+each. Each group is given training using different method.
+
+After the training, weekly sales of each of the trained executive is recorded. The output
+of the analysis is given below: ;
+Anova: Single Factor
+
+SUMMARY
+Groups Count Sum Average Variance
+a7 Method A 12 1013 84.41667 93.90152
+coi, C02, Method B 12 772 = 64.33333 250.7879
+| Method C 12 897 74.75 56.93182 (5)
+Evaluate
+ANOVA
+Source of Variation SS df Ms F P-value F crit
+Between Groups 2421.17 2 1210.58 9.04273 0.00074 3.28492
+Within Groups 4417.83 ~ 33 133.8737
+Total : 6839 35
+
+Formulate Null & Alternate hypothesis to test if the methods are equally effective in
+terms of average sales. Also give business implications.
+
+--- page 6 ---
+Standard Normal Probabilities The values in the table are the arez |
+between zero and the z-score. That is, P(0<Z<z-score) y :
+
+o
+
+| z| 0.00 0.01| 0.02] 0.03 0.04| 0.05 0.06, 0.07] 0.08) 0.09
+| 9.0[ 0.0000] 0.0040 0.0080{ 0.0120] 0.0160| 0.0199] 0.0239| 0.0279| 0.0319 | 0.0359
+|   o.| 0.0398] 0.0438] 0.0478| 0.0517| 0.0557] 0.0596| 0.0636] 0.0675| 0.0714| 0.0753
+[| 0.2 0.0793| 0.0832| 0.0871| 0.0910] 0.0948] 0.0987] 0.1026] 0.1064| 0.1103 | 0.1141
+| 03] 01179| 0.1217] 6.1255] 0.1293] 0.1331| 0.1368| 0.1406| 0.1443] 0.1480 | 0.1517
+| 0.4{ 0.1554] 0.1591| 0.1628] 0.1664| 0.1700] 0.1736{ 0.1772| 0.1808| 0.1844| 0.1879
+[ 05] 0.1915] 0.1950{ 0.1985{ 0.2019[ 0.2054| 0.2088] 0.2123| 0.2157| 0.2190 | 0.2224
+[ 06] 0.2257] 0.2291! 0.2324[ 0.2357| 0.2389[ 0.2422] 0.2454] 0.2486| 0.2517| 0.2549
+| —0.7[ 0.2580[ 0.2611[ 0.2642| 0.2673] 0.2704| 0.2734| 0.2764| 0.2794| 0.2823 0.2852
+| 0.8! 0.2881] 0.2910/ 0.2939] 0.2967| 0.2995] 0.3023] 0.3051] 0.3078] 0.3106 | 0.3133
+| 0.9} 0.3159] 0.3186] 0.3212] 0.3238) 0.3264] 0.3289] 0.3315] 0.3340] 0.3365 0.3389
+1.0] 0.3413] 0.3438] 0.3461) 0.3485| 0.3508] - 0.3531] 0.3554] 0.3577] 0.3599} 0.3621
+| 1.1| 0.3643| 0.3665| 0.3686/ 0.3708| 0.3729| 0.3749| 0.3770| 0.3790] 0.3810 | 0.3830
+1.2| 0.3849| 0.3869] 0.3888) 0.3907} 0.3925) 0.3944] 0.3962] 0.3980| 0.3997 0.4015
+1.3| 0.4032] 0.4049| (0.4066| 0.4082) 0.4099] 0.4115) 0.4131| 0.4147| 0.4162) 0.4177
+1.4] 0.4192] 0.4207} 0.4222} 0.4236 0.4251] 0.4265| 0.4279! 0.4292| 0.4306 | 0.4319
+1.5] 0.4332} 0.4345] 0.4357| 0.4370| 0.4382] 0.4394) 0.4406| 0.4418| 0.4429 0.4441
+1.6| 0.4452| 0.4463| 0.4474| 0.4484| 0.4495| 0.4505] 0.4515] 0.4525] 0.4535 | 0.4545
+17] 0.4554] 0.4564] 0.4573| 0.4582/ 0.4591| 0.4599| 0.4608] 0.4616} 0.4625 | 0.4633
+1.8| 0.4641) 0.4649) 0.4656| 0.4664| 0.4671/ 0.4678! 0.4686] 0.4693] 0.4699} 0.4706
+19] 0.4713] 0.4719| 0.4726| 0.4732| 0.4738} 0.4744| 0.4750 0.4756| 0.4761 0.4767
+2.0} 0.4772} 0.4778} 0.4783} 0.4788| 0.4793| 0.4798} 0.4803} 0.4808 0.4812 | 0.4817
+2.1} 0.4821] 0.4826! 0.4830} 0.4834) 0.4838} 0.4842| . 0.4846] 0.4850] 0.4854 | 0.4857
+2.2| 0.4861, 0.4864| 0.4868] 0.4871| 0.4875| 0.4878| 0.4881| 0.4884] — 0.4887/ 0.4890
+2.3} 0.4893] 0.4896] 0.4898] 0.4901} 0.4904) 0.4906] 0.4909] 0.4911] 0.4913 | 0.4916
+2.4; 0.4918| 0.4920} 0.4922} 0.4925} 0.4927/ 0.4929|’ 0.4931| 0.4932! 0.4934 | 0.4936
+2.5| 0.4938, 0.4940| 0.4941| 0.4943| 0.4945) 0.4946| 0.4948| 0.4949] 0.4951 0.4952
+2.6} 0.4953] 0.4955} 0.4956] 0.4957| 0.4959] 0.4960| 0.4961} 0.4962| 0.4963 | 0.4964
+27| 0.4965! 0.4966] 0.4967, 0.4968| 0.4969) 0.4970| 0.4971] 0.4972] 0.4973 | 0.4974
+[   28{ 0.4974] 0.4975] 0.4976| 0.4977[ 0.4977| 0.4978| 0.4979 0.4979| 0.4980 | 0.4981
+[   29{ 0.4981| 0.4982] 0.4982] 0.4983| 0.4984[ 0.4984 0.4985 0.4985| 0.4986 | 0.4986
+[3.0] 0.4987] 0.4987| 0.4987| 0.4988] 0.4988 0.4989/ 0.4989 0.4989| 0.4990 0.4990
+--- page 7 ---
+Student's T Probabilities
+
+0, 0, ry
+Conf. | 50% | 80% | 90% | 95% | 98% | 99% Cont | 50%] 80% | 90% | 988e1 98% | 99%
+Level
+. Level
+on 25) OL) O05) ONES) (ee) 0s One} 0.25| 0.1| 0.05] 0.025] 0.01] 0.005
+ail 3
+Tail
+5 . . . . :
+aid 0 O12) Ot) DOR) oon; ot Two! 0.5! 02) 01] 0.05} 0.02] 0.01
+Tail
+df
+df
+1 1 | 3.078 | 6.314 | 12.706 | 31.821 | 63.657
+
+24 | 0.685 | 1.318 | 1.711 | 2.064| 2.492 | 2.797
+
+2 0.816 | 1.886 | 2.92] 4.303} 6.965 | 9.925 -
+25 | 0.684 | 1.316 | 1.708 2.06 | 2.485 | 2.787
+
+3 0.765 | 1.638 | 2.353 | 3.182) 4.541 | 5.841 ,
+. 26 | 0.684! 1.315 | 1.706 | 2.056) 2.479} 2.779
+
+4 0.741 | 1.533 | 2.132} 2.776} 3.747 | 4.604
+27 | 0.684 | 1.314 | 1.703] 2.052] 2.473] 2.771
+
+5 0.727 |. 1.476 | 2.015 | 2.571 |’ 3.365 | 4.032
+28 | 0.683 | 1.313 | 1.701 | 2.048) 2.467} 2.763
+
+6 0.718 | 1.44 | 1.943 | 2.447] .3.143 | 3.707
+29 | 0.683 | 1.311 | 1.699 | 2.045 | - 2.462] 2.756
+
+7 0.711 | 1.415 | 1.895} 2.365} 2.998 | 3.499
+= 30 | 0.683} 1.31] 1.697] 2.042] 2.457 dato
+
+8 0.706 | 1.397] 1.86] 2.306} 2.896} 3.355
+40 | 0.681 | 1.303 | 1.684] 2.021 2.423 | 2.704
+
+9 0.703 | 1.383 | 1.833 | 2.262) 2.821 3.25
+50 | 0.679 | 1.299 | 1.676 | 2.009] 2.403 | 2.678
+
+10 0.7 | 1.372 | 1.812 | 2.228} 2.764} 3.169
+60 | 0.679 | 1.296 | 1.671 2 2.39 2.66
+
+11 0.697 | 1.363 | 1.796 | 2.201 2.718 | 3.106
+70 |-0.678 | 1.294 | 1.667] 1.994) 2.381 | 2.648
+
+12 | 0.695 | 1.356 |'1.782 | 2.179] 2.681} 3.055
+80 | 0.678 | 1.292 | 1.664 1.99 | 2.374]. 2.639
+
+13 0.694 |; 1.35 | 1.771 2.16 2.65 | 3.012
+90 | 0.677 | 1.291 | 1.662) 1.987] 2.368] 2.632
+
+14 0.692 | 1.345 | 1.761] 2.145 | 2.624) 2.977
+100 | 0.677] 1.29] .1.66} 1.984] 2.364] 2.626
+
+15 0.691 | 1.341 | 1.753 | 2.131 2.602 | 2.947
+% 0.674 | 1.282 | 1.645 1G | 2.326 | 2.576
+
+16 0.69 | 1.337 |. 1.746 2.12 | 2.583 | 2.921
+
+17 0.689 | 1.333 1.74 2.11] 2.567 | 2.898 : a
+The values in the table are the areas critical
+
+18 0.688 | 1.33 | 1.734} 2.101 2.552 | 2.878 _ F ‘ : :
+values for the given areas in the right tail or in
+
+19 0.688 | 1.328 | 1.729 | 2.093 | 2.539-| 2.861 both tails
+
+20 | 0.687 | 1.325 | 1.725 | 2.086} 2.528) 2.845
+
+21 0.686 | 1.323 | 1.721 2.08 2.518] 2.831
+
+22 =| 0.686 | 1.321 | 1.717 | 2.074] 2.508] 2.819
+
+23 0.685 | 1.319} 1.714 | 2.069 2.5 | 2.807
+--- page 8 ---
+. 2 Distribution Probabilities in the right tail =>
+
+fw
+
+df| 0.995 0.99} 0.975} 0.95 0.9 0.1 0.05} 0.025 0.01 0.005
+1 _ --| 0.001] 0.004} 0.016 2.706 3.841 5.024 6.635. |. 7.879
+2 0.01 0.02} 0.051} 0.103} 0.211 4.605 5.991 7.378 9.21] 10.597
+3} 0.072} 0.115] 0.216] 0.352] 0.584 6.251 7.815 9.348] 11.345) 12.838
+4} 0.207; 0.297} 0.484] 0.711 1.064 7.779 9.488 | 11.143] 13.277 14.86
+5| 0.412). 0.554} 0.831 1.145 1.61 9.236 11.07] 12.833] 15.086 16.75
+6| 0.676| 0.872] 1.237] 1.635] 2.204] 10.645) 12.592} 14.449] 16.812] 18.548
+7} 0.989) 1.239 1.69] 2.167} 2.833} 12.017] 14.067} 16.013] 18.475] 20.278
+8] 1.344) 1.646 2.18 | 2.733 3.49| 13.362} 15.507| 17.535 20.09 | 21.955
+9} 1.735} 2.088 2.7-| 3.325} 4.168] 14.684} 16.919) 19.023) 21.666] 23.589
+10} 2.156} 2.558} 3.247 3.94] 4.865] 15.987] 18.307] 20.483] 23.209} 25.188
+11] 2.603) 3.053] 3.816] 4.575] 5.578] 17.275} 19.675 21.92] 24.725 | 26.757
+12} 3.0741 3.571} 4.404] 5.226) 6.304) 18.549) 21.026) 23.337] 26.217 28.3
+13] 3.565] 4.107] 5.009] 5.892} 7.042] 19.812} 22.362} 24.736] .27.688| 29.819
+14) 4.075 4.66} 5.629) 6.571 7.79] 21.064] 23.685] 26.119] 29.141] 31.319
+15} 4.601] 5.229} 6.262| 7.261| 8.547] 22.307| 24.996] 27.488] 30.578] 32.801
+16] 5.142] 5812|} 6908] 7.962] 9.312} 23.542] 26.296} 28.845 32 | 34.267
+17| 5.697| 6.408} 7.564] 8.672] 10.085) 24.769} 27.587} 30.191 33.409 | 35.718
+18} 6265} 7.015} 8.231 9.39 | 10.865] 25.989} 28.869| 31.526] 34.805) 37.156
+19| 6.844] 7.633} 8.907] 10.117] 11.651] 27.204] 30.144] 32.852} 36.191] 38.582
+20} 7.434 8.26] 9.591} 10.851} 12.443] 28.412 31.41 34.17 | 37.566 | 39.997
+21| 8.034] 8.897] 10.283] 11.591] 13.24] 29.615] 32.671| 35.479] 38.932] 41.401
+22} 8.643) 9.542] 10.982] 12.338] 14.041] 30.813] 33.924] 36.781 | 40.289| 42.796
+23 9.26 | 10.196 | 11.689] 13.091 | 14.848} 32.007] 35.172] 38.076] 41.638]. 44.181
+24| 9.886 | 10.856] 12.401 | 13.848] 15.659) 33.196] 36.415) 39.364 42.98 | 45.559
+25) 10.52] 11.524] 13.12} 14.611] 16.473] 34.382] 37.652| 40.646] 44.314) 46.928
+26) 11.16| 12.198] 13.844] 15.379] 17.292] 35.563} 38.885 41.923] 45.642 48.29
+27 | 11.808 | 12.879] 14.573 | 16.151] 18.114] 36.741] 40.113] 43.195) 46.963) 49.645
+28 | 12.461 | 13.565 | 15.308 | 16.928] 18.939] 37.916] 41.337] 44.461] .48.278| 50.993
+29 | 13.121] 14.256 | 16.047 | 17.708 | 19.768] 39.087] 42.557] 45.722] 49.588] 52.336
+30] 13.787 | 14.953] 16.791 | 18.493} 20.599] 40.256] 43.773) 46.979) 50.892; 53.672
+40 | 20.707 | 22.164] 24.433 | 26.509} 29.051| 51.805] 55.758} 59.342} 63.691] 66.766
+50 | 27.991 | 29.707 | 32.357 | 34.764 | 37.689} 63.167] 67.505 71.42] 76.154 79.49
+60 | 35.534 | 37.485 | 40.482 | 43.188 | 46.459] 74.397] 79.082} 83.298} 88.379] 91.952
+70 | 43.275 | 45.442 | 48.758 | 51.739 | 55.329] 85.527 | 90.531 | 95.023 | 100.425 | 104.215
+80| 51.172] 53.54] 57.153 | 60.391 | 64.278] 96.578 | 101.879 | 106.629 | 112.329 | 116.321
+90.| 59.196 | 61.754] 65.647 | 69.126 | 73.291 | 107.565 | 113.145 | 118.136 | 124.116 | 128.299
+100 | 67.328 | 70.065 | 74.222 | 77.929 | 82.358 | 118.498 | 124.342 | 129.561 | 135.807 | 140.169
+````
+
+## 2022-23 · Exam not stated · paper 380039dd6576
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/BUSINESS STATISTICS/Business Statistics.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (7 pages), mean OCR confidence 79.7
+
+````text
+4 SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
+
+Academic Year: 2022-2023
+
+Program: _MBA Tech Stream ;__ ALL Streams Year: 4 _ Semester: a
+
+Subject: Business Statistics Time: 2 hrs ({)So0a to 1s0Dpwe)
+Date:_157/ 6 /23 : No. of Pages:_7
+
+Marks: 50 A
+
+-specta| Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+a a. A salesperson goes door-to-door in a residential area to demonstrate the use of a new
+household appliance to potential customers. At the end of a demonstration, the
+Qi probability that the potential customer would place an order for the product is a constant
+C01, CO2; 0.43. To perform satisfactorily on the job, the salesperson needs at least one order. 13]
+BL- Apply Assume that each demonstration is a Bernoulli trial.
+Analyse
+
+If the salesperson makes 6 demonstrations, what is the probability that there would be
+at least one order?
+
+b. Two brands of tyres are tested with the following results
+X Y
+20-25 3 0
+25-30 a5 20)
+30-35 66) 79)
+35-40 10) 1
+40-45 6 0
+Output _ :
+_ Basic Statistics Company X .
+i Sum(FX) 3,255.00
+Count (Sum F) 100.00
+Qi Arithmetic Mean 32.55
+oo Median 32.42
+BL- Apply Variance 15.25 14]
+Analyse, Standard Deviation 3.90
+Evaluate ‘
+coefficient of variation 12.00%
+Mode 34.55
+Basic Statistics Company Y
+Sum(FX) 3,155.00
+Count (Sum F) 100.00
+Arithmetic Mean 31,55)
+Median 31.90
+Variance 4.35
+Standard Deviation 2.09
+coefficient of variation 6.61%
+
+Mode 33.78
+--- page 2 ---
+|. Which of tyres have greater average life? t
+ll. Which are more reliable?
+lll. Which brand of tyres would you recommend ? Why?
+
+c. Define Type | and Type II error for given scenario, and discuss the cost (consequences) of
+Qi each type of error.
+C01, cO2, During the pre-flight check, Pilot Jones discovers a minor problem - a warning light
+a indicates that the fuel gauge may be broken. If Jones decides to check the fuel level by | [3]
+Analyse,Eval hand, it will delay the flight by 45 minutes. If Jones decides to ignore the warning, the
+uate aircraft may run out of fuel before it gets to Gimli. In this situation, if the
+null hypothesis is that the warning can be ignored.(warning is erroneous )
+a. A consumer-research organization routinely selects several car models each year and evaluates
+their fuel efficiency. In this year’s study of two similar subcompact models from two different
+automakers, the average gas mileage for 12 cars of brand A was 27.2 miles per gallon, with a
+standard deviation of 3.8 mpg. The nine brand B cars that were tested averaged 32.1 mpg, witha
+standard deviation of 4.3 mpg. At a= 0.01, should it conclude that brand B cars have higher average
+b gas mileage than do brand A cars? State null and alternate hypothesis. State conclusions &
+interpretations.
+Output is given below
+t-Test for Difference in Population Means
+Evidence
+cou. co2, _Sample1__ Sample2
+CO3; SO-; Size 5 [5]
+BL- Apply Mean |
+Analyse, Std. Deviation
+Evaluate
+Assuming Population Variances are Equal
+Pooled Variance | 16.1453 | sp
+Test Statistic | -2.7655 | t
+df 19
+At an a of
+Null Hypothesis value
+Ho: pi — p2 = 0.0123
+Ho: pi-p2>= 0 0.0062
+Ho: p1—p2 <= 0 0.9938
+b. A company appoints four salesmen A, B, C and D and observes their sales in three
+seasons summer, Winter and Monsoon. The figures (in Lakhs of Rs) are given in the
+following table.
+Salesmen
+AB C D
+a2 Seasons
+01, C02, Summer 6 4 8 6
+C03; Winter 7 6 6 9 [5]
+BL- Apply Monsoon 8 5 10 9
+Analyse,
+Evaluate
+
+On the basis of above data, can it be concluded that the overall sales are dependent
+on Seasons?. Also are the four salesmen equally effective?
+--- page 3 ---
+ANOVA Table 5% t
+
+Source SS | df MS F Fcritical | p-value
+Treatment 8 2 4 2.4 5.14 0.1715
+Block 18 3 6 3.6 4.76 | 0.0852
+Error 10 6| 1.667
+
+Total 36 11
+
+State null and alternate hypothesis. State conclusions & interpretations.
+
+a. The personnel department of an organization would like to estimate the family dental
+Q3 expenses of its employees to determine the feasibility of providing a dental insurance
+a C01, CO2 plan. A random sample of 10 employees reveals the following family dental expenses (in (5)
+( BL- Apply , thousand Rs) in the previous year: 11, 37, 25, 62, 51, 20, 18, 41, 30, and 20. Set up a 90
+Analyse per cent confidence interval of the average family dental expenses for the employees of
+this organization
+b. The marketing manager of a company feels that 42% of retailers enhance weekly sales
+Q.3 after introducing an advertisement at a point of sales. A sample of 70 retailer shops of
+€O1,,co2 the company where the point of sales advertisement has been displayed reveals that
+BL- Apply , , " ‘ : [5]
+Analyse, only 35 of them are having enhanced sales after displaying the advertisement.
+Evaluate Determine the confidence interval for the proportion representing enhanced sales witha
+confidence level of 95.5%.
+a. ‘As an incentive for customers to spend more money on its credit a bank has decided to
+aa award high spending customers with a free gift. However, it doesn’t want to give gifts to
+C01, Co2, more than 5% of customers. If the mean spend per customer is Rs 12250 with a standard
+co3 deviation of Rs 2000, what balance should the company specify? However, at the end of | [5]
+BL- Apply , the first month it was found that 8% of customers qualified for the free gift. What has
+Analyse happened? Assuming that the standard deviation hasn’t changed, calculate the new
+mean spend per customer.
+b. When the economic situation is “high,” a certain economic indicator rises with probability
+é aa 0.6. When the economic situation is “medium,” the economic indicator rises with
+C01, CO2, probability 0.3. When the economic situation is “low,” the indicator rises with probability
+~| BL: Apply , 0.1. The economy is high 15% of the time, it is medium 70% of the time, and it is low 15% | [5]
+Analyse, of the time. Given that the indicator has just gone up, what is the probability that the
+economic situation is high?
+a. The following data were obtained from a company which manufactures special plastic
+containers which are to hold a specified volume of hazardous material. On each of the
+three 8 hour shifts workers are able to make 500 of the containers. Some containers do
+not meet specifications as required by the company's customer because they are too
+Qs small, others because they are too large. Test at 5% LOS if conformance to specification
+coi, co2, is independent of shift timings [5]
+oe ae Conformance to Specification
+ANAIYSE, Shift Too Small Within Spec. Too Large
+8am 36 452 12
+4pm 24 443 33
+midnight 12 438 50
+State Null & Alternate hypothesis. Give conclusions & interpretations.
+a co2 Os The sales representative of a pharmaceutical company claims that a new drug cures (5
+co; fever in at least 88% of the cases. When it is administered by a doctor to 80 patients, it
+--- page 4 ---
+BL- Apply , cured only 68 patients. Check the claim of the sales representative at a significance level
+peed of 0.05. State Null & Alternate hypothesis. Give conclusions & interpretations.
+An investment analyst collects data on stocks and notes whether or not dividends were
+paid and whether or not the stocks increased in price over a given period, Data are
+presented in the following table.
+Price No Price
+Increase | Increase | Total
+Dividends paid 34 78 112
+No Dividends paid 85 49 134
+Q6 Total 119 127 246
+C01, co2,
+te I. If a stock is selected at random, what is the probability that it paid dividends? [5]
+Analyse, , Il. If a stock is randomly selected, what is the probability that it both increased in
+Evaluate price and paid dividends?
+lll. What is the probability that a randomly selected stock neither paid dividends nor
+increased in price?
+\V. Given that a stock increased in price, what is the probability that it also paid
+dividends? .
+V. What is the probability that a randomly selected stock was worth holding during
+the period in question; that is, what is the probability that it increased in price or
+paid dividends or did both?
+The customers in a bank usually arrive at the rate of 1 in 10 minutes, every day. On one
+day, the employees complained to the manager that there is extra load due to failure of
+oon co2 the bank’s ATM machine. Hence manager collected data of customer arrival for next 10
+BL- ‘Apply, minutes and found that more than 2 customers arrived in 10 minutes. Using this [5]
+Analyse, evidence what should manager comment about the employees complain? Support your
+conclusions with probabilities. (Assume Poisson Distribution)
+The annual sales of the dealers of a company follow normal distribution. The targeted
+7 mean of the annual sales of the dealers of the population is Rs. 55 lakhs. The variance of
+01, C02, the annual sales of the dealers of the population is Rs. 100 lakhs’. The regional
+co3 marketing manager feels that the performance of the dealers has increased in the recent (6]
+BL- Apply , past. A random sample of 64 out of 200 dealers is taken from the normal population for
+Anal, which the mean annual sales is found to be Rs. 58 lakhs. Check whether the sales of the
+dealers have increased from Rs. 55 lakhs at a significance level of 0.01
+State Null & Alternate hypothesis. Give conclusions & interpretations.
+A personnel department analyst wishes to estimate the mean number of training hours
+aan 02 annually for supervisors in a division of the company with 2.5 hr (plus or minus) and with
+BL- ‘Apply , 90 percent confidence. Based on data from other divisions, the analyst estimates the [4]
+Analyse, standard deviation of training hours to be o = 15.0 hr. Find the minimum required
+
+sample size.
+
+FSI CIC CIR A IO ICR
+--- page 5 ---
+Standard Normal Probabilities The values in the table are the arez
+between zero and the z-score. That is, P(0<Z<z-score) :
+
+z| 0.00 0.01! 0.02) 0.03 | 0.04 | 0.05 0.06| 0.07 |, 0.08} 0.09
+
+0.0/ 0.0000/ 0.0040/ 0.0080| 0.0120/ 0.0160 0.0199| 0.0239/ 0.0279 F"0.0319 | 0.0359
+
+0.1| 0.0398{ 0.0438| 0.0478/ 0.0517| 0.0557| 0.0596| 0.0636| 0.0675| 0.0714 | 0.0753
+
+0.2/ 0.0793| 0.0832| 0.0871/ 0.0910/ 0.0948| 0.0987/ 0.1026 0.1064| 0.1103] 0.1141
+
+0.3| 0.1179/ 0.1217) 0.1255| 0.1293[ 0.1331, 0.1368| 0.1406| 0.1443) 0.1480 0.1517
+
+04) o.1554| 0.1591) 0.1628, 0.1664/ 0.1700| 0.1736| 0.1772| 0.1808| 0.1844) 0.1879
+
+0.5| 0.1915| 0.1950) 0.1985| 0.2019/ 0.2054| 0.2088/ 0.2123) 0.2157| 0.2190 | 0.2224
+
+06 0.2257| 0.2291) 0.2324, 0.2357| 0.2389 0.2422{ 0.2454/ 0.2486| 0.2517 | 0.2549
+/o7/ 0.2580) 0.2611) 0.2642) 0.2673| 0.2704[ 0.2734/ 0.2764 0.2794/ 0.2823 0.2852
+08/ 0.2881) 0.2910/ 0.2939| 0.2967| 0.2995 0.3023| 0.3051| 0.3078| 0.3106 0.3133
+
+o.9/ 0.3159) 0.3186) 0.3212, 0.3238 0.3264) 0.3289/ 0.3315] 0.3340) 0.3365 | 0.3389
+10) 0.3413; 0.3438| 0.3461, 0.3485| 0.3508, 0.3531| 0.3554 0.3577) 0.3599 0.3621
+
+11/ 0.3643| 0.3665| 0.3686/ 0.3708/ 0.3729 0.3749 0.3770| 0.3790| 0.3810 0.3830
+~~12/ 03849| 0.3869| 0.3888| 0.3907| 0.3925] 0.3944) 0.3962 "03980 0.3997 | 0.4015
+"23/ 0.4032/ 0.4049) 0.4066, 0.4082) 0.4099| 0.4115) 0.4131| 0.4147| 0.4162| 0.4177
+14| o.4192| 0.4207, 0.4222) 0.8236| 0.4251| 0.4265) 0.4279| 0.4292 0.4306 | 0.4319
+
+| as) 0.4332/ 0.4345/ 0.4357) 0.4370, 0.4382) 0.4394 0.4406) 0.4418) 0.4429 0.4441 |
+16/ 0.4452) 0.4463, 0.4474, 0.4484| 0.4495| 0.4505, 0.4515 0.4525| 0.4535 0.4545 |
+
+| 17) 0.4554) 0.4564) 0.4573) 0.4582) 0.4591, 0.4599 0.4608) 0.4616 0.4625 0.4633
+18) 0.4641, 0.4649, 0.4656, 0.4664| 0.4671| 0.4678, 0.4686, 0.4693 0.4699 0.4706
+
+19| 0.4713| 0.4719) 0.4726 0.4732| 0.4738| 0.4744| 0.4750| 0.4756, 0.4761 | 0.4767
+_ 20 0.4772| 0.478) 0.4783, 0.4788) 0.4793 0.4798) 0.4803, 0.4808| 0.4812) 0.4817
+| 2a) 0.4821) 0.4826) 0.4830) 0.4834 0.4838) 0.4842 | 0.8846 | 0.4850| 0.4854 0.4857 |
+~~ 22| o4s61| 0.4864) ogee, 0.4871, 0.4875| 0.4878| 0.4881/ 0.4884, 0.4887 | 0.4890
+(23) 0.4893| 0.4896, 0.4898, 0.4901/ 0.4904| 0.4906| 0.4909| 0.4911) 0.4913 | 0.4916
+2a) oasia| 0.4920, 0.4922) 0.4925 0.4927, 0.4929 0.4931, 0.4932, 0.4934 0.4936,
+~25/ 04938/ 0.4940/ 0.4941, 0.4943, 0.4945| 0.4946, 0.948| 0.4949/ 0.4951 0.4952.
+2.6/ 0.4953| 0.4955 0.4956 0.4957, 0.4959, 0.4960/ 0.4961/ 0.4962, 0.4963 0.4964
+2.7| 0.4965) 0.4966) 0.4967, 0.4968, 0.4969| 0.4970 0.4971| 0.4972| 0.4973 | 0.4974
+[28 0.4974) 0.4975 0.4976 0.4977, 0.4977| 0.4978| 0.4979| 0.4979 0.4980, 0.4981
+/29/ 0.4981/ 0.4982/ 0.4982/ 0.4983, 0.4984/ 0.4984, 0.4985 0.4985| 0.4986 | 0.4986.
+[30/ o4987, 0.4987, 0.4987, 0.4988) 0.4988/ 0.4989 0.4989| 0.989 0.4990 0.4990
+--- page 6 ---
+42 Distribution Probabilities in the right tail =>
+
+df] 0.995 0.99] 0.975 0.95 0.9 0.1 0.05 0.025 0,01 0.005
+
+1 --- --| 0.001] 0.004} 0.016 2.706 3.841 5.024 6.635 7.879
+
+2 0.01 0.02} 0.051} 0.103) 0.211 4.605 5.991 7.378 | x 9.21 | 10.597
+
+3] 0.072} 0.115} 0.216] 0.352] 0.584 6.251 7.815 9.348] 11.9451 12.838
+
+4] 0.207] 0.297} 0.484) 0.711 1.064 7.779 9.488} 11.143) 13.277 14.86
+
+5| 0.412] 0.554] 0.831 1.145 1.61 9.236 11.07] 12.833] 15.086 16.75
+
+6| 0.676} 0.872] 1.237] 1.635] 2.204] 10.645) 12.592] 14.449] 16.812] 18.548
+
+7| 0.989} 1.239 1.69] 2.167] 2.833] 12.017] 14.067} 16.013] 18.475} 20.278
+
+8) 1.344] 1.646 2.18] 2.733 3.49} 13.362} 15.507] 17.535 20.09 | 21.955
+
+9] 1.735] 2.088 2.7| 3.325) 4.168] 14.684] 16.919] 19.023] 21.666] 23.589
+
+10} 2.156] 2.558) 3.247 3.94] 4.865] 15.987] 18.307} 20.483] 23.209] 25.188
+
+11] 2603] 3.053} 3.816) 4.575] 5.578} 17.275) 19.675 21.92} 24.725 | 26.757
+
+12] 3.074] 3.571] 4.404} 5.226] 6.304] 18.549] 21.026) 23.337] 26.217 28.3
+
+13| 3.565] 4.107] 5.009] 5.892] 7.042] 19.812} 22.362] 24.736| 27.688] 29.819
+
+14| 4.075 4.66] 5.629] 6.571 7.79| 21.064} 23.685} 26.119] 29.141} 31.319
+
+15| 4.601] 5.229} 6.262] 7.261] 8.547] 22.307] 24.996] 27.488] 30.578) 32.801
+
+16| 5.142] 5.812] 6.908] 7.962] 9.312] 23.542] 26.296) 28.845 32 | 34.267
+
+17| 5697] 6408] 7.564] 8.672] 10.085] 24.769] 27.587] 30.191] 33.409] 35.718
+
+18} 6265] 7.015] 8.231 9.39] 10.865} 25.989] 28.869] 31.526) 34.805} 37.156
+
+19| 6844] 7.633] 8.907] 10.117] 11.651] 27.204} 30.144] 32.852] 36.191 | 38.582
+
+20| 7.434 8.26} 9.591 | 10.851} 12.443) 28.412 31.41 34.17 | 37.566 | 39.997
+
+21] 8.034] 8.897} 10.283] 11.591 13.24] 29.615] 32.671] 35.479] 38.932] 41.401
+
+22) 8.643] 9.542] 10.982 | 12.338] 14.041] 30.813] 33.924] 36.781] 40.289] 42.796
+
+23 9.26 | 10.196 | 11.689 | 13.091 | 14.848] 32.007] 35.172] 38.076] 41.638} 44.181
+
+24] 9.886] 10.856} 12.401 | 13.848} 15.659) 33.196] 36.415] 39.364 42.98} 45.559
+
+25| 10.52] 11.524] 13.12] 14.611] 16.473] 34.382] 37.652] 40.646) 44.314] 46.928
+
+26) 11.16] 12.198] 13.844] 15.379] 17.292] 35.563] 38.885] 41.923] 45.642 48.29
+
+27 | 11.808] 12.879] 14.573} 16.151 | 18.114] 36.741] 40.113] 43.195] 46.963] 49.645
+
+28| 12.461 | 13.565 | 15.308 |] 16.928] 18.939] 37.916] 41.337] 44.461] 48.278] 50.993
+
+29 | 13.121 | 14.256 | 16.047 | 17.708] 19.768} 39.087] 42.557] 45.722| 49.588} 52.336
+
+30 | 13.787 | 14.953] 16.791 | 18.493] 20.599} 40.256] 43.773] 46.979] 50.892] 53.672
+
+40 | 20.707 | 22.164] 24.433 | 26.509] 29.051) 51.805] 55.758} 59.342] 63.691] 66.766
+
+50 | 27.991 | 29.707 | 32.357 | 34.764 | 37.689} 63.167] 67.505 71.42 | 76.154 79.49
+
+60 | 35.534 | 37.485 | 40.482 | 43.188] 46.459] 74.397] 79.082] 83.298] 88.379} 91.952
+
+70 | 43.275 | 45.442 | 48.758 | 51.739 | 55.329] 85.527) 90.531} 95.023 | 100.425 | 104.215
+
+80 | 51.172} 53.54] 57.153 | 60.391 | 64.278} 96.578 | 101.879 | 106.629 | 112.329 | 116.321
+
+90 | 59.196 | 61.754 | 65.647 | 69.126 | 73.291 | 107.565 | 113.145 | 118.136 | 124.116 | 128.299
+
+100 | 67.328 | 70.065 | 74.222 | 77.929 | 82.358 | 118.498 | 124.342 | 129.561 | 135.807 | 140.169
+--- page 7 ---
+Student's T Probabilities {
+
+Cont. | 50% | 80% | 90% | 95% 98% | 99% Conf. | 50% | 80% | 90%}. 95% 98% | 99%
+
+Level |. Level
+One| 0.25] 0.1] 0.05] 0.025| 0.01! 0.005 One| 0.25) 0.1} 0.05) 0.025) 0.01) 0.005
+Tail anil
+Two| 05) 02] O21] 005| 0.02] 0.01 Two} 0.5) 0.2] 01) 0.05) 0.02) 0.01
+Tail Tail
+df df
+1 1 | 3.078 | 6.314 | 12.706 | 31.821 | 63.657 24 | 0.685 | 1.318] 1.711 | 2.064] 2.492 | 2.797
+2 0.816 | 1.886 | 2.92] 4.303 6.965 | 9.925 25 | 0.684 | 1.316 | 1.708 2.06| 2.485 | 2.787
+3. | 0.765 | 1.638 | 2.353 | 3.182] 4.541] 5.841 26 | 0.684 | 1.315 | 1.706 | 2.056| 2.479 | 2.779
+4 | 0.741 | 1.533] 2.132| 2.776] 3.747| 4.604 27 | 0.684 | 1.314] 1.703} 2.052] 2.473 | 2.771
+5 | 0.727] 1.476 | 2.015] 2.571| 3.365 | 4.032 28 | 0.683 | 1.313 | 1.701 | 2.048] 2.467] 2.763
+6 |o.718| 1.441 1.943| 2.447] 3.143 | 3.707 29 | 0.683 | 1.311 | 1.699| 2.045| 2.462] 2.756
+7 |o.711| 1.415] 1.895] 2.3651 2.998] 3.499 30 | 0.683| 1.31] 1.697] 2.042) 2.457| 2.75
+8 | 0.706) 1.397] 1.86] 2.306| 2.896 | 3.355 40 | 0.681 | 1.303 | 1.684] 2.021] 2.423] 2.704
+9 | 0.703 | 1.383 | 1.833 2.262] 2.921| 3.25 50 | 0.679 | 1.299 | 1.676 | 2.009] 2.403 | 2.678
+10 0.7| 1.372 | 1.812} 2.228] 2.764 | 3.169 60 | 0.679 | 1.296 | 1.671 2| 239) 2.66
+11 | 0.697 | 1.363 | 1.796 | 2.201] 2.718) 3.106 70 | 0.678 | 1.294 | 1.667] 1.994] 2.381] 2.648
+12 | 0.695 | 1.356 | 1.782] 2.179| 2.681) 3.055 80 | 0.678 | 1.2921 1.664] 1.99] 2.374] 2.639
+13 | 0.694] 1.35]1.771] 2.16| 2.65) 3.012 90 | 0.677] 1.291 | 1.662] 1.987] 2.368] 2.632
+14 | 0.692 | 1.345 | 1.761) 2.145] 2.624] 2.977 100 | 0.677] 1.29] 1.66} 1.984) 2.364] 2.626
+r 15 | 0.691 | 1.341] 1.753 | 2.131] 2.602 | 2.947 z | 0.674) 1.282 | 1.645| 1.96] 2.326] 2.576
+
+16 0.69 | 1.337 | 1.746 212 | 2.083 | 2.921
+
+17 0.689 | 1.333 1.74 2.11 2.567 | 2.898 The values in the table are the areas critical
+
+values for the given areas in the right tail or
+in both tails.
+
+18 0.688 | 1.33 | 1.734] 2.101} 2.552 | 2.878
+
+19 0.688 | 1.328 | 1.729 | 2.093 | 2.539] 2.861
+
+20 0.687 | 1.325 | 1.725 | 2.086] 2.528] 2.845
+
+21 0.686 | 1.323 | 1.721 2.08) 2.518 | 2.831
+
+22 0.686 | 1.321 | 1.717} 2.074] 2.508) 2.819
+
+23 0.685 | 1.319 | 1.714 | 2.069 2.5 | 2.807
+````
+
 ## 2022-23 · Final-Exam · paper 78ce89ab9b3d
 
 - Departments: Common (all branches)
@@ -3225,6 +4047,7 @@ NOE
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/BUSINESS STATISTICS/Business Statistics,Final,2022-23.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 19 November 2022
 - Text: ocr (9 pages), mean OCR confidence 82.6
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3555,9 +4378,7 @@ seem to have better levels of job satisfaction than the other types?
 Measures ~~~] Work Pay [Promotion| Work | Pay | Promotion| Work | Pay | Promotion] Work | Pay [Promotion
 Mean 7728) 4871) 6357] 78.11] 4933) 56.22) 79.44) 85.44) S449] RAT daa7l 50.09
 Median Quertle 2) | 7800} 46.00) 63.50] 7300] 49.00) $5.00) 75.00] 56.00) 55.00) 7200) 4400) 55.0
-Quartile { 11.00] 38.00) 61.00) 7200) 37.00) 20 71.00] avon] 2300; igo] shoo] S200
 Quartile 3 $6.00] 57.00] 67.00] 400] en.ool arn) 89.00) 85.00 79.001 axon! sean! e700
-eR =| «4400; 49.007 on) 1200) soot 500 18.00) 1200) seco! tron stool thon
 
 Lower Limit 50.00) 9.50) 52.00) 5400) 250) 28.50) 44.00) 25.00 84.00) 45.50.50] 29.50
 per Limit 406.00} 85.50) 76.00} 10200) 94.50) 80.60) 116.00] 77.00) 18300) 113.50] 9050] 99.50
@@ -3724,7 +4545,6 @@ Yo
 Student's T Probabilities
 
 8, 0, 0, 0, 0, 0,
-Bonk; S06) BOG6 | Aire; Seve 98% | 99% Conf. | 50% | 80% | 90% | 95% 98% | 99%
 
 Level
 = Level
@@ -3857,436 +4677,6 @@ e 13.121 14.256 16.047 17.708 19.768 39.087 42.557 45.722 49.588 52.336
 80} 51.172 53.54| 57.153] 60.391 64.278 96.578] 101.879} 106.629} 112.329] 116.321
 90} 59.196] 61.754) 65.647] 69.126] 73.291] 107.565) 113.145} 118.136] 124.116] 128.299
 100} 67.328] 70.065} 74.222 77.929] 82.358] 118.498] 124.342} 129.561] 135.807] 140.169
-````
-
-## 2022-23 · Re-Exam · paper a6dd222d1d05
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/BUSINESS STATISTICS/Business Statistics , Re-exam 2022-23.pdf`
-- Printed on paper: max marks: 50
-- Text: ocr (8 pages), mean OCR confidence 80.7
-
-````text
-4 SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERID
-Academic Year: 2023-2024
-
-Program: MBA Tech Stream ;_ ALL Streams Year: Iv. Semester: ye
-Subject: __ Business Statistics Time: 2_ hrs C10. 00 ) 012: 00_)
-Date:__08 08 / 02/2024) No. of Pages: 5“ ™O
-Marks: 50.
-
-___| Re-Examination 2022-23
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi a. A production company’s 350 daily wages workers average 37.6 years of age, with
-om Su sooly a standard deviation of 8.3 years. If a random sample of 45 daily wages workers is | [3]
-Analyse taken, what is the probability that the average of the sample is less than 40?
-oon C02; a Customers arrive randomly in a bank.on weekday afternoons at an average of 3.2
-SO-; customers every 4 minutes. What is the probability of exactly 5 customers [3]
-BL: Apply arriving in a 4-minute interval on a weekday afternoon?
-Analyse -
-c. You are in a company providing top class security solutions to your clients. You are
-Qi conducting acceptance sampling for specialised chips to be included in the security
-01, C02, product. You need 1000 of these chips. Your requirement is that the 99.9% of the
-noah chips should be absolutely defect free. You have a vender that claims the required | [4]
-Analyse,Eval accuracy. Null hypothesis is that the claim is correct. Define Type | and Type Il error
-uate for this test and discuss the cost (consequences) of each type of error. Which of
-the errors is more dangerous? Why?
-a. The Wall Street Journal reported some interesting statistics on the job market. One
-Statistic is that 40% of all workers say they would change jobs for “slightly Higher
-= pay.” In addition, 88% of companies say that there is a shortage of qualified job
-Q2 candidates. ;
-my he i. If 10 workers are randomly selected and asked if they would change jobs i6)
-BL- ‘Apply for “slightly higher pay.” What is the probability that at least 1 say yes?
-Analyse ii. If 5 companies are contacted, what is the probability that ali of the
-companies say there is a shortage of qualified job candidates?
-ii. If 5 companies are contacted, what is the expected number of companies
-that would say there is a shortage of qualified job candidates
-b. Parminder Singh is the supervisor for the Krishna hydroelectric Dam. He knows that
-Q2z the dam’s turbines generate electricity at the peak rate only when at least
-ome €02), 1,000,000 gallons of water pass through the dam each day. He also knows, from 14)
-BL Abply experience, the daily flow is normally distributed, with the mean equal to 850,000
-Analyse, gallons and standard deviation of 200,000 gallons. What is the probability that the
-turbines will generate at peak rate today?
-a3 a. ROE (Return on Equity) data was gathered for 3 different industries ( the
-
-C01, Co2 companies selected were homogenous in terms of other parameters) [6]
-Descriptive statistics was performed on the data and the results are given below :
-
-1
---- page 2 ---
-BL- Apply ,
-Analyse,
-
-evaluate Histogram Industry A Histogram Industry B
-Gf oe ts sin nee Se ne i RS ee | . itt
-2 : .
-x0 6
-8 s
-4 3
-2 :
-_ a ; 30:39 40-49, ; 5059 °
-Histogram Industry Ci
-39-48 49-58 ‘59-69
-Descriptive Statistics .
-Industry A Industry B Industry C
-Mean 43.36 | Mean 38.64 | Mean 49.5
-Standard
-Standard Error 1.56 | Error 2.1 | Standard Error 1.23
-Median 43.5 | Median 36 | Median 48.5
-Mode 39 | Mode 27 | Mode 59
-Standard Standard Standard
-Deviation 8.26 | Deviation 11.11 | Deviation 6.5
-Sample ‘
-Sample Variance | 68.16 | Variance 123.35 | Sample Variance 42.19
-Kurtosis 0.13 | Kurtosis -0.9 | Kurtosis -1.39
-Skewness -0.45 | Skewness 0.56 | Skewness 0.26
-Range 35 | Range 35 | Range : 20
-Minimum 23 | Minimum 25 | Minimum 40
-Maximum 58 | Maximum 60 | Maximum 60
-Sum 1214 | Sum 1082 | Sum 1386
-Count 28 | Count 28 | Count 28
-Analyse the data and report the findings about these three industries. If you wish to
-invest in any one of the Industries, which one will you prefer? Why?
-b. Hewitt Associates conducted a national survey to determine the extent to which
-a _ employers are promoting health and fitness among their employees. One of the
-BL- ‘apply , questions asked was, does your company offer on-site exercise classes? Suppose | [4]
-Analyse, it was estimated before the study that no more than 40% of the companies
-
-would answer Yes, How large a sample would Hewitt Associates have to take in
---- page 3 ---
-a ile ell
-
-estimating the population proportion to ensure a 98% confidence in the results:
-and to be within + .03 of the true population proportion? re
-
-The owner of a large equipment rental company wants to make a rather quick estimate
-of the average number of days a piece of ditchdigging equipment is rented out per
-person per time. The company has records of all rentals, but the amount of time
-
-aa c02, required to conduct an audit of all accounts would be prohibitive. The owner decides to
-co3 take a random sample of rental invoices. Fourteen different rentals of ditchdiggers are [5]
-BL- Apply, selected randomly from the files, yield with mean 2.14 and standard deviation 1.29.
-Analyse Construct a 99% confidence interval to estimate the average number of days that a
-ditchdigger is rented and assumes that the number of days per rental is normally
-distributed in the population. Also interpret the results.
-aa The Department of Economic and Community Development (DECD) reported that in a year
-C01, Co2, the average number of new jobs created per city in the country was 1450. A random
-BL- Apply ; sample of 25 cities was taken from the country and found that the average new jobs
-Analyse, created were 1390 with standard deviation of 400. We want to determine whether there 6)
-Evaluate has been a significant decrease in the average number of jobs created than reported value.
-At 5% LOS (Alpha) test the hypotheses. Assume the population is normally distributed.
-Before marketing new products nationally, companies often test them on
-samples of potential customers. Such tests have a known reliability. For a
-as particular product type, a test will indicate success of the product 75% of the
-c01, C02, time if the product is indeed successful and 15% of the time when the product is t5I
-pas not successful. From past experience with similar products, a company knows
-‘ that a new product has a 0.60 chance of success on the national market. If the
-test indicates that the product wil! be successful, what is the probability that it
-really will be successful?
-From a total of 10,200 loans made by a state employees’ credit union in the most
-Qs recent 5-year period, 350 were sampled to determine what proportion was made
-coe 02, to women. This sample showed that 39 percent of the loans were made to
-BL- Apply , women employees. A complete census of loans 5 years ago showed that 41 [5]
-Analyse, percent of borrowers were women at a significant level of 0.02, can you conclude
-Evaluate that the proportion of loans made to women has changed significantly in la8t 5
-years? Set null and alternate hypothesis, test the hypothesis and explain results.
-A district industries centre (DIC) has collected the data summarizing the number
-of industries in the district under each combination of the level of technology used
-and the level of rate of return, as shown in the following table. Test whether the
-rate of return is independent of the ievel of technology while grouping the
-oat C02, industries, at a significance level of 0.05.
-C03 Summary of Data of Industries
-BL- Apply, Level of technology used ©)
-Analyse, ey _
-Evaluate
-Rate of return Low Medium High
-R<8% 20 50 10
-8% <R<15% 50 70 20
-15%<R 30 75 70
-as Coopers & Lybrand surveyed 210 chief executives of fast-growing small companies. Only
-C01, CO2, 51% of these executives had a management succession plan in place. A spokesperson for is]
-oe Cooper & Lybrand said that many companies do not worry about management
-
-succession unless it is an immediate problem. However, the unexpected exit of a
-
-3
---- page 4 ---
-corporate leader can disrupt and unfocus a company for long enough to cause it to lose}
-its momentum.
-
-Use the data given to compute a 92% confidence interval to estimate the proportion of
-all fast-growing small companies that have a management succession plan. Also
-interpret the results
-
-A company selling ready-to-eat Pulav has created two flavours (Flavour A & B) of
-the product and launched them in different cities (one flavor in a city). The
-monthly sales ( in Lakhs Rupees) for both these flavours were compiled and
-analysed: Following is the analysis :
-
-F-Test Two-Sample for Variances F-Test Two-Sample for Variances
-
-Flavour A Flavour B
-Mean 46.46667 34 Mean
-Variance 554.981 321.25 Variance
-Observations 15 17 Observations
-df 14 16 df
-F 1.727567 F
-P(F<=f) Two-tail 0.146765 P(F<=f) Two-tail
-
-t-Test: Two-Sample Assuming Unequal Variances
-
-~ Flavour A Flavour B
-
-Mean 46.46666667 34
-
-Variance 554.9809524 321.25
-Q7 Observations 15 17
-coe C02, Hypothesized Mean Difference 0
-BL- Apply , df 26 (5]
-Analyse, t Stat 1.667480647
-Evaluate P(T<=t) one-tail 0.053710484
-
-t Critical one-tail 1.70561792 é
-
-P(T<=t) two-tail 0.107420969
-
-t Critical two-tail 2.055529439
-
-t-Test: Two-Sample Assuming Equal Variances
-
-Flavour A Flavour B
-
-Mean 46.46666667 34
-
-Variance 554.9809524 321.25
-
-Observations 15 17
-
-Pooled Variance 430.3244444
-
-Hypothesized Mean
-
-Difference 0
-
-df 30
-
-t Stat 1.696474907
-
-P(T<=t) one-tail 0.049075123
-
-t Critical one-tail 1.697260887
-
-P(T<=t) two-tail 0.100150245
-
-t Critical two-tail 2.042272456
---- page 5 ---
-Use appropriate outputs to Test if the two flavours have equal reception by the
-consumers at alpha value 5%. Also test if Flavour A is better received by consumers than
-Flavour B. State business insights from these results
-
-b. An HR executive of a company wants to compare effectiveness of training methods for
-company’s sales executives. He considers 3 methods namely MethodA,B&C.He
-selects 36 sales executives with similar performance and divides them in the group of 12
-each. Each group is given training using different method.
-
-After the training, weekly sales of each of the trained executive is recorded. The output
-of the analysis is given below: ;
-Anova: Single Factor
-
-SUMMARY
-Groups Count Sum Average Variance
-a7 Method A 12 1013 84.41667 93.90152
-coi, C02, Method B 12 772 = 64.33333 250.7879
-| Method C 12 897 74.75 56.93182 (5)
-Evaluate
-ANOVA
-Source of Variation SS df Ms F P-value F crit
-Between Groups 2421.17 2 1210.58 9.04273 0.00074 3.28492
-Within Groups 4417.83 ~ 33 133.8737
-Total : 6839 35
-
-Formulate Null & Alternate hypothesis to test if the methods are equally effective in
-terms of average sales. Also give business implications.
-
-2 2 ok 2 3 ok 2 oe ok oko i 2 oo oR oe aE
---- page 6 ---
-Standard Normal Probabilities The values in the table are the arez |
-between zero and the z-score. That is, P(0<Z<z-score) y :
-
-o
-
-| z| 0.00 0.01| 0.02] 0.03 0.04| 0.05 0.06, 0.07] 0.08) 0.09
-| 9.0[ 0.0000] 0.0040 0.0080{ 0.0120] 0.0160| 0.0199] 0.0239| 0.0279| 0.0319 | 0.0359
-|   o.| 0.0398] 0.0438] 0.0478| 0.0517| 0.0557] 0.0596| 0.0636] 0.0675| 0.0714| 0.0753
-[| 0.2 0.0793| 0.0832| 0.0871| 0.0910] 0.0948] 0.0987] 0.1026] 0.1064| 0.1103 | 0.1141
-| 03] 01179| 0.1217] 6.1255] 0.1293] 0.1331| 0.1368| 0.1406| 0.1443] 0.1480 | 0.1517
-| 0.4{ 0.1554] 0.1591| 0.1628] 0.1664| 0.1700] 0.1736{ 0.1772| 0.1808| 0.1844| 0.1879
-[ 05] 0.1915] 0.1950{ 0.1985{ 0.2019[ 0.2054| 0.2088] 0.2123| 0.2157| 0.2190 | 0.2224
-[ 06] 0.2257] 0.2291! 0.2324[ 0.2357| 0.2389[ 0.2422] 0.2454] 0.2486| 0.2517| 0.2549
-| —0.7[ 0.2580[ 0.2611[ 0.2642| 0.2673] 0.2704| 0.2734| 0.2764| 0.2794| 0.2823 0.2852
-| 0.8! 0.2881] 0.2910/ 0.2939] 0.2967| 0.2995] 0.3023] 0.3051] 0.3078] 0.3106 | 0.3133
-| 0.9} 0.3159] 0.3186] 0.3212] 0.3238) 0.3264] 0.3289] 0.3315] 0.3340] 0.3365 0.3389
-1.0] 0.3413] 0.3438] 0.3461) 0.3485| 0.3508] - 0.3531] 0.3554] 0.3577] 0.3599} 0.3621
-| 1.1| 0.3643| 0.3665| 0.3686/ 0.3708| 0.3729| 0.3749| 0.3770| 0.3790] 0.3810 | 0.3830
-1.2| 0.3849| 0.3869] 0.3888) 0.3907} 0.3925) 0.3944] 0.3962] 0.3980| 0.3997 0.4015
-1.3| 0.4032] 0.4049| (0.4066| 0.4082) 0.4099] 0.4115) 0.4131| 0.4147| 0.4162) 0.4177
-1.4] 0.4192] 0.4207} 0.4222} 0.4236 0.4251] 0.4265| 0.4279! 0.4292| 0.4306 | 0.4319
-1.5] 0.4332} 0.4345] 0.4357| 0.4370| 0.4382] 0.4394) 0.4406| 0.4418| 0.4429 0.4441
-1.6| 0.4452| 0.4463| 0.4474| 0.4484| 0.4495| 0.4505] 0.4515] 0.4525] 0.4535 | 0.4545
-17] 0.4554] 0.4564] 0.4573| 0.4582/ 0.4591| 0.4599| 0.4608] 0.4616} 0.4625 | 0.4633
-1.8| 0.4641) 0.4649) 0.4656| 0.4664| 0.4671/ 0.4678! 0.4686] 0.4693] 0.4699} 0.4706
-19] 0.4713] 0.4719| 0.4726| 0.4732| 0.4738} 0.4744| 0.4750 0.4756| 0.4761 0.4767
-2.0} 0.4772} 0.4778} 0.4783} 0.4788| 0.4793| 0.4798} 0.4803} 0.4808 0.4812 | 0.4817
-2.1} 0.4821] 0.4826! 0.4830} 0.4834) 0.4838} 0.4842| . 0.4846] 0.4850] 0.4854 | 0.4857
-2.2| 0.4861, 0.4864| 0.4868] 0.4871| 0.4875| 0.4878| 0.4881| 0.4884] — 0.4887/ 0.4890
-2.3} 0.4893] 0.4896] 0.4898] 0.4901} 0.4904) 0.4906] 0.4909] 0.4911] 0.4913 | 0.4916
-2.4; 0.4918| 0.4920} 0.4922} 0.4925} 0.4927/ 0.4929|’ 0.4931| 0.4932! 0.4934 | 0.4936
-2.5| 0.4938, 0.4940| 0.4941| 0.4943| 0.4945) 0.4946| 0.4948| 0.4949] 0.4951 0.4952
-2.6} 0.4953] 0.4955} 0.4956] 0.4957| 0.4959] 0.4960| 0.4961} 0.4962| 0.4963 | 0.4964
-27| 0.4965! 0.4966] 0.4967, 0.4968| 0.4969) 0.4970| 0.4971] 0.4972] 0.4973 | 0.4974
-[   28{ 0.4974] 0.4975] 0.4976| 0.4977[ 0.4977| 0.4978| 0.4979 0.4979| 0.4980 | 0.4981
-[   29{ 0.4981| 0.4982] 0.4982] 0.4983| 0.4984[ 0.4984 0.4985 0.4985| 0.4986 | 0.4986
-[3.0] 0.4987] 0.4987| 0.4987| 0.4988] 0.4988 0.4989/ 0.4989 0.4989| 0.4990 0.4990
---- page 7 ---
-Student's T Probabilities
-
-0, 0, ry
-Conf. | 50% | 80% | 90% | 95% | 98% | 99% Cont | 50%] 80% | 90% | 988e1 98% | 99%
-Level
-. Level
-on 25) OL) O05) ONES) (ee) 0s One} 0.25| 0.1| 0.05] 0.025] 0.01] 0.005
-ail 3
-Tail
-5 . . . . :
-aid 0 O12) Ot) DOR) oon; ot Two! 0.5! 02) 01] 0.05} 0.02] 0.01
-Tail
-df
-df
-1 1 | 3.078 | 6.314 | 12.706 | 31.821 | 63.657
-
-24 | 0.685 | 1.318 | 1.711 | 2.064| 2.492 | 2.797
-
-2 0.816 | 1.886 | 2.92] 4.303} 6.965 | 9.925 -
-25 | 0.684 | 1.316 | 1.708 2.06 | 2.485 | 2.787
-
-3 0.765 | 1.638 | 2.353 | 3.182) 4.541 | 5.841 ,
-. 26 | 0.684! 1.315 | 1.706 | 2.056) 2.479} 2.779
-
-4 0.741 | 1.533 | 2.132} 2.776} 3.747 | 4.604
-27 | 0.684 | 1.314 | 1.703] 2.052] 2.473] 2.771
-
-5 0.727 |. 1.476 | 2.015 | 2.571 |’ 3.365 | 4.032
-28 | 0.683 | 1.313 | 1.701 | 2.048) 2.467} 2.763
-
-6 0.718 | 1.44 | 1.943 | 2.447] .3.143 | 3.707
-29 | 0.683 | 1.311 | 1.699 | 2.045 | - 2.462] 2.756
-
-7 0.711 | 1.415 | 1.895} 2.365} 2.998 | 3.499
-= 30 | 0.683} 1.31] 1.697] 2.042] 2.457 dato
-
-8 0.706 | 1.397] 1.86] 2.306} 2.896} 3.355
-40 | 0.681 | 1.303 | 1.684] 2.021 2.423 | 2.704
-
-9 0.703 | 1.383 | 1.833 | 2.262) 2.821 3.25
-50 | 0.679 | 1.299 | 1.676 | 2.009] 2.403 | 2.678
-
-10 0.7 | 1.372 | 1.812 | 2.228} 2.764} 3.169
-60 | 0.679 | 1.296 | 1.671 2 2.39 2.66
-
-11 0.697 | 1.363 | 1.796 | 2.201 2.718 | 3.106
-70 |-0.678 | 1.294 | 1.667] 1.994) 2.381 | 2.648
-
-12 | 0.695 | 1.356 |'1.782 | 2.179] 2.681} 3.055
-80 | 0.678 | 1.292 | 1.664 1.99 | 2.374]. 2.639
-
-13 0.694 |; 1.35 | 1.771 2.16 2.65 | 3.012
-90 | 0.677 | 1.291 | 1.662) 1.987] 2.368] 2.632
-
-14 0.692 | 1.345 | 1.761] 2.145 | 2.624) 2.977
-100 | 0.677] 1.29] .1.66} 1.984] 2.364] 2.626
-
-15 0.691 | 1.341 | 1.753 | 2.131 2.602 | 2.947
-% 0.674 | 1.282 | 1.645 1G | 2.326 | 2.576
-
-16 0.69 | 1.337 |. 1.746 2.12 | 2.583 | 2.921
-
-17 0.689 | 1.333 1.74 2.11] 2.567 | 2.898 : a
-The values in the table are the areas critical
-
-18 0.688 | 1.33 | 1.734} 2.101 2.552 | 2.878 _ F ‘ : :
-values for the given areas in the right tail or in
-
-19 0.688 | 1.328 | 1.729 | 2.093 | 2.539-| 2.861 both tails
-
-20 | 0.687 | 1.325 | 1.725 | 2.086} 2.528) 2.845
-
-21 0.686 | 1.323 | 1.721 2.08 2.518] 2.831
-
-22 =| 0.686 | 1.321 | 1.717 | 2.074] 2.508] 2.819
-
-23 0.685 | 1.319} 1.714 | 2.069 2.5 | 2.807
---- page 8 ---
-. 2 Distribution Probabilities in the right tail =>
-
-fw
-
-df| 0.995 0.99} 0.975} 0.95 0.9 0.1 0.05} 0.025 0.01 0.005
-1 _ --| 0.001] 0.004} 0.016 2.706 3.841 5.024 6.635. |. 7.879
-2 0.01 0.02} 0.051} 0.103} 0.211 4.605 5.991 7.378 9.21] 10.597
-3} 0.072} 0.115] 0.216] 0.352] 0.584 6.251 7.815 9.348] 11.345) 12.838
-4} 0.207; 0.297} 0.484] 0.711 1.064 7.779 9.488 | 11.143] 13.277 14.86
-5| 0.412). 0.554} 0.831 1.145 1.61 9.236 11.07] 12.833] 15.086 16.75
-6| 0.676| 0.872] 1.237] 1.635] 2.204] 10.645) 12.592} 14.449] 16.812] 18.548
-7} 0.989) 1.239 1.69] 2.167} 2.833} 12.017] 14.067} 16.013] 18.475] 20.278
-8] 1.344) 1.646 2.18 | 2.733 3.49| 13.362} 15.507| 17.535 20.09 | 21.955
-9} 1.735} 2.088 2.7-| 3.325} 4.168] 14.684} 16.919) 19.023) 21.666] 23.589
-10} 2.156} 2.558} 3.247 3.94] 4.865] 15.987] 18.307] 20.483] 23.209} 25.188
-11] 2.603) 3.053] 3.816] 4.575] 5.578] 17.275} 19.675 21.92] 24.725 | 26.757
-12} 3.0741 3.571} 4.404] 5.226) 6.304) 18.549) 21.026) 23.337] 26.217 28.3
-13] 3.565] 4.107] 5.009] 5.892} 7.042] 19.812} 22.362} 24.736] .27.688| 29.819
-14) 4.075 4.66} 5.629) 6.571 7.79] 21.064] 23.685] 26.119] 29.141] 31.319
-15} 4.601] 5.229} 6.262| 7.261| 8.547] 22.307| 24.996] 27.488] 30.578] 32.801
-16] 5.142] 5812|} 6908] 7.962] 9.312} 23.542] 26.296} 28.845 32 | 34.267
-17| 5.697| 6.408} 7.564] 8.672] 10.085) 24.769} 27.587} 30.191 33.409 | 35.718
-18} 6265} 7.015} 8.231 9.39 | 10.865] 25.989} 28.869| 31.526] 34.805) 37.156
-19| 6.844] 7.633} 8.907] 10.117] 11.651] 27.204] 30.144] 32.852} 36.191] 38.582
-20} 7.434 8.26] 9.591} 10.851} 12.443] 28.412 31.41 34.17 | 37.566 | 39.997
-21| 8.034] 8.897] 10.283] 11.591] 13.24] 29.615] 32.671| 35.479] 38.932] 41.401
-22} 8.643) 9.542] 10.982] 12.338] 14.041] 30.813] 33.924] 36.781 | 40.289| 42.796
-23 9.26 | 10.196 | 11.689] 13.091 | 14.848} 32.007] 35.172] 38.076] 41.638]. 44.181
-24| 9.886 | 10.856] 12.401 | 13.848] 15.659) 33.196] 36.415) 39.364 42.98 | 45.559
-25) 10.52] 11.524] 13.12} 14.611] 16.473] 34.382] 37.652| 40.646] 44.314) 46.928
-26) 11.16| 12.198] 13.844] 15.379] 17.292] 35.563} 38.885 41.923] 45.642 48.29
-27 | 11.808 | 12.879] 14.573 | 16.151] 18.114] 36.741] 40.113] 43.195) 46.963) 49.645
-28 | 12.461 | 13.565 | 15.308 | 16.928] 18.939] 37.916] 41.337] 44.461] .48.278| 50.993
-29 | 13.121] 14.256 | 16.047 | 17.708 | 19.768] 39.087] 42.557] 45.722] 49.588] 52.336
-30] 13.787 | 14.953] 16.791 | 18.493} 20.599] 40.256] 43.773) 46.979) 50.892; 53.672
-40 | 20.707 | 22.164] 24.433 | 26.509} 29.051| 51.805] 55.758} 59.342} 63.691] 66.766
-50 | 27.991 | 29.707 | 32.357 | 34.764 | 37.689} 63.167] 67.505 71.42] 76.154 79.49
-60 | 35.534 | 37.485 | 40.482 | 43.188 | 46.459] 74.397] 79.082} 83.298} 88.379] 91.952
-70 | 43.275 | 45.442 | 48.758 | 51.739 | 55.329] 85.527 | 90.531 | 95.023 | 100.425 | 104.215
-80| 51.172] 53.54] 57.153 | 60.391 | 64.278] 96.578 | 101.879 | 106.629 | 112.329 | 116.321
-90.| 59.196 | 61.754] 65.647 | 69.126 | 73.291 | 107.565 | 113.145 | 118.136 | 124.116 | 128.299
-100 | 67.328 | 70.065 | 74.222 | 77.929 | 82.358 | 118.498 | 124.342 | 129.561 | 135.807 | 140.169
 ````
 
 ## 2022-23 · Re-Exam · paper 53fa4b63ecbd
@@ -6067,399 +6457,4 @@ Degrees of freedom in the numerator
 2.99 2.77 2.54 2.30 2.14 2.02 1.87 1.77 1.69 1.49 £22
 
 Vhs
-````
-
-## Year not stated · Exam not stated · paper 380039dd6576
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/BUSINESS STATISTICS/Business Statistics.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (7 pages), mean OCR confidence 79.7
-
-````text
-4 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
-
-Academic Year: 2022-2023
-
-Program: _MBA Tech Stream ;__ ALL Streams Year: 4 _ Semester: a
-
-Subject: Business Statistics Time: 2 hrs ({)So0a to 1s0Dpwe)
-Date:_157/ 6 /23 : No. of Pages:_7
-
-Marks: 50 A
-
--specta| Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1____is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-a a. A salesperson goes door-to-door in a residential area to demonstrate the use of a new
-household appliance to potential customers. At the end of a demonstration, the
-Qi probability that the potential customer would place an order for the product is a constant
-C01, CO2; 0.43. To perform satisfactorily on the job, the salesperson needs at least one order. 13]
-BL- Apply Assume that each demonstration is a Bernoulli trial.
-Analyse
-
-If the salesperson makes 6 demonstrations, what is the probability that there would be
-at least one order?
-
-b. Two brands of tyres are tested with the following results
-X Y
-20-25 3 0
-25-30 a5 20)
-30-35 66) 79)
-35-40 10) 1
-40-45 6 0
-Output _ :
-_ Basic Statistics Company X .
-i Sum(FX) 3,255.00
-Count (Sum F) 100.00
-Qi Arithmetic Mean 32.55
-oo Median 32.42
-BL- Apply Variance 15.25 14]
-Analyse, Standard Deviation 3.90
-Evaluate ‘
-coefficient of variation 12.00%
-Mode 34.55
-Basic Statistics Company Y
-Sum(FX) 3,155.00
-Count (Sum F) 100.00
-Arithmetic Mean 31,55)
-Median 31.90
-Variance 4.35
-Standard Deviation 2.09
-coefficient of variation 6.61%
-
-Mode 33.78
---- page 2 ---
-|. Which of tyres have greater average life? t
-ll. Which are more reliable?
-lll. Which brand of tyres would you recommend ? Why?
-
-c. Define Type | and Type II error for given scenario, and discuss the cost (consequences) of
-Qi each type of error.
-C01, cO2, During the pre-flight check, Pilot Jones discovers a minor problem - a warning light
-a indicates that the fuel gauge may be broken. If Jones decides to check the fuel level by | [3]
-Analyse,Eval hand, it will delay the flight by 45 minutes. If Jones decides to ignore the warning, the
-uate aircraft may run out of fuel before it gets to Gimli. In this situation, if the
-null hypothesis is that the warning can be ignored.(warning is erroneous )
-a. A consumer-research organization routinely selects several car models each year and evaluates
-their fuel efficiency. In this year’s study of two similar subcompact models from two different
-automakers, the average gas mileage for 12 cars of brand A was 27.2 miles per gallon, with a
-standard deviation of 3.8 mpg. The nine brand B cars that were tested averaged 32.1 mpg, witha
-standard deviation of 4.3 mpg. At a= 0.01, should it conclude that brand B cars have higher average
-b gas mileage than do brand A cars? State null and alternate hypothesis. State conclusions &
-interpretations.
-Output is given below
-t-Test for Difference in Population Means
-Evidence
-cou. co2, _Sample1__ Sample2
-CO3; SO-; Size 5 [5]
-BL- Apply Mean |
-Analyse, Std. Deviation
-Evaluate
-Assuming Population Variances are Equal
-Pooled Variance | 16.1453 | sp
-Test Statistic | -2.7655 | t
-df 19
-At an a of
-Null Hypothesis value
-Ho: pi — p2 = 0.0123
-Ho: pi-p2>= 0 0.0062
-Ho: p1—p2 <= 0 0.9938
-b. A company appoints four salesmen A, B, C and D and observes their sales in three
-seasons summer, Winter and Monsoon. The figures (in Lakhs of Rs) are given in the
-following table.
-Salesmen
-AB C D
-a2 Seasons
-01, C02, Summer 6 4 8 6
-C03; Winter 7 6 6 9 [5]
-BL- Apply Monsoon 8 5 10 9
-Analyse,
-Evaluate
-
-On the basis of above data, can it be concluded that the overall sales are dependent
-on Seasons?. Also are the four salesmen equally effective?
---- page 3 ---
-ANOVA Table 5% t
-
-Source SS | df MS F Fcritical | p-value
-Treatment 8 2 4 2.4 5.14 0.1715
-Block 18 3 6 3.6 4.76 | 0.0852
-Error 10 6| 1.667
-
-Total 36 11
-
-State null and alternate hypothesis. State conclusions & interpretations.
-
-a. The personnel department of an organization would like to estimate the family dental
-Q3 expenses of its employees to determine the feasibility of providing a dental insurance
-a C01, CO2 plan. A random sample of 10 employees reveals the following family dental expenses (in (5)
-( BL- Apply , thousand Rs) in the previous year: 11, 37, 25, 62, 51, 20, 18, 41, 30, and 20. Set up a 90
-Analyse per cent confidence interval of the average family dental expenses for the employees of
-this organization
-b. The marketing manager of a company feels that 42% of retailers enhance weekly sales
-Q.3 after introducing an advertisement at a point of sales. A sample of 70 retailer shops of
-€O1,,co2 the company where the point of sales advertisement has been displayed reveals that
-BL- Apply , , " ‘ : [5]
-Analyse, only 35 of them are having enhanced sales after displaying the advertisement.
-Evaluate Determine the confidence interval for the proportion representing enhanced sales witha
-confidence level of 95.5%.
-a. ‘As an incentive for customers to spend more money on its credit a bank has decided to
-aa award high spending customers with a free gift. However, it doesn’t want to give gifts to
-C01, Co2, more than 5% of customers. If the mean spend per customer is Rs 12250 with a standard
-co3 deviation of Rs 2000, what balance should the company specify? However, at the end of | [5]
-BL- Apply , the first month it was found that 8% of customers qualified for the free gift. What has
-Analyse happened? Assuming that the standard deviation hasn’t changed, calculate the new
-mean spend per customer.
-b. When the economic situation is “high,” a certain economic indicator rises with probability
-é aa 0.6. When the economic situation is “medium,” the economic indicator rises with
-C01, CO2, probability 0.3. When the economic situation is “low,” the indicator rises with probability
-~| BL: Apply , 0.1. The economy is high 15% of the time, it is medium 70% of the time, and it is low 15% | [5]
-Analyse, of the time. Given that the indicator has just gone up, what is the probability that the
-economic situation is high?
-a. The following data were obtained from a company which manufactures special plastic
-containers which are to hold a specified volume of hazardous material. On each of the
-three 8 hour shifts workers are able to make 500 of the containers. Some containers do
-not meet specifications as required by the company's customer because they are too
-Qs small, others because they are too large. Test at 5% LOS if conformance to specification
-coi, co2, is independent of shift timings [5]
-oe ae Conformance to Specification
-ANAIYSE, Shift Too Small Within Spec. Too Large
-8am 36 452 12
-4pm 24 443 33
-midnight 12 438 50
-State Null & Alternate hypothesis. Give conclusions & interpretations.
-a co2 Os The sales representative of a pharmaceutical company claims that a new drug cures (5
-co; fever in at least 88% of the cases. When it is administered by a doctor to 80 patients, it
---- page 4 ---
-BL- Apply , cured only 68 patients. Check the claim of the sales representative at a significance level
-peed of 0.05. State Null & Alternate hypothesis. Give conclusions & interpretations.
-An investment analyst collects data on stocks and notes whether or not dividends were
-paid and whether or not the stocks increased in price over a given period, Data are
-presented in the following table.
-Price No Price
-Increase | Increase | Total
-Dividends paid 34 78 112
-No Dividends paid 85 49 134
-Q6 Total 119 127 246
-C01, co2,
-te I. If a stock is selected at random, what is the probability that it paid dividends? [5]
-Analyse, , Il. If a stock is randomly selected, what is the probability that it both increased in
-Evaluate price and paid dividends?
-lll. What is the probability that a randomly selected stock neither paid dividends nor
-increased in price?
-\V. Given that a stock increased in price, what is the probability that it also paid
-dividends? .
-V. What is the probability that a randomly selected stock was worth holding during
-the period in question; that is, what is the probability that it increased in price or
-paid dividends or did both?
-The customers in a bank usually arrive at the rate of 1 in 10 minutes, every day. On one
-day, the employees complained to the manager that there is extra load due to failure of
-oon co2 the bank’s ATM machine. Hence manager collected data of customer arrival for next 10
-BL- ‘Apply, minutes and found that more than 2 customers arrived in 10 minutes. Using this [5]
-Analyse, evidence what should manager comment about the employees complain? Support your
-conclusions with probabilities. (Assume Poisson Distribution)
-The annual sales of the dealers of a company follow normal distribution. The targeted
-7 mean of the annual sales of the dealers of the population is Rs. 55 lakhs. The variance of
-01, C02, the annual sales of the dealers of the population is Rs. 100 lakhs’. The regional
-co3 marketing manager feels that the performance of the dealers has increased in the recent (6]
-BL- Apply , past. A random sample of 64 out of 200 dealers is taken from the normal population for
-Anal, which the mean annual sales is found to be Rs. 58 lakhs. Check whether the sales of the
-dealers have increased from Rs. 55 lakhs at a significance level of 0.01
-State Null & Alternate hypothesis. Give conclusions & interpretations.
-A personnel department analyst wishes to estimate the mean number of training hours
-aan 02 annually for supervisors in a division of the company with 2.5 hr (plus or minus) and with
-BL- ‘Apply , 90 percent confidence. Based on data from other divisions, the analyst estimates the [4]
-Analyse, standard deviation of training hours to be o = 15.0 hr. Find the minimum required
-
-sample size.
-
-FSI CIC CIR A IO ICR
---- page 5 ---
-Standard Normal Probabilities The values in the table are the arez
-between zero and the z-score. That is, P(0<Z<z-score) :
-
-z| 0.00 0.01! 0.02) 0.03 | 0.04 | 0.05 0.06| 0.07 |, 0.08} 0.09
-
-0.0/ 0.0000/ 0.0040/ 0.0080| 0.0120/ 0.0160 0.0199| 0.0239/ 0.0279 F"0.0319 | 0.0359
-
-0.1| 0.0398{ 0.0438| 0.0478/ 0.0517| 0.0557| 0.0596| 0.0636| 0.0675| 0.0714 | 0.0753
-
-0.2/ 0.0793| 0.0832| 0.0871/ 0.0910/ 0.0948| 0.0987/ 0.1026 0.1064| 0.1103] 0.1141
-
-0.3| 0.1179/ 0.1217) 0.1255| 0.1293[ 0.1331, 0.1368| 0.1406| 0.1443) 0.1480 0.1517
-
-04) o.1554| 0.1591) 0.1628, 0.1664/ 0.1700| 0.1736| 0.1772| 0.1808| 0.1844) 0.1879
-
-0.5| 0.1915| 0.1950) 0.1985| 0.2019/ 0.2054| 0.2088/ 0.2123) 0.2157| 0.2190 | 0.2224
-
-06 0.2257| 0.2291) 0.2324, 0.2357| 0.2389 0.2422{ 0.2454/ 0.2486| 0.2517 | 0.2549
-/o7/ 0.2580) 0.2611) 0.2642) 0.2673| 0.2704[ 0.2734/ 0.2764 0.2794/ 0.2823 0.2852
-08/ 0.2881) 0.2910/ 0.2939| 0.2967| 0.2995 0.3023| 0.3051| 0.3078| 0.3106 0.3133
-
-o.9/ 0.3159) 0.3186) 0.3212, 0.3238 0.3264) 0.3289/ 0.3315] 0.3340) 0.3365 | 0.3389
-10) 0.3413; 0.3438| 0.3461, 0.3485| 0.3508, 0.3531| 0.3554 0.3577) 0.3599 0.3621
-
-11/ 0.3643| 0.3665| 0.3686/ 0.3708/ 0.3729 0.3749 0.3770| 0.3790| 0.3810 0.3830
-~~12/ 03849| 0.3869| 0.3888| 0.3907| 0.3925] 0.3944) 0.3962 "03980 0.3997 | 0.4015
-"23/ 0.4032/ 0.4049) 0.4066, 0.4082) 0.4099| 0.4115) 0.4131| 0.4147| 0.4162| 0.4177
-14| o.4192| 0.4207, 0.4222) 0.8236| 0.4251| 0.4265) 0.4279| 0.4292 0.4306 | 0.4319
-
-| as) 0.4332/ 0.4345/ 0.4357) 0.4370, 0.4382) 0.4394 0.4406) 0.4418) 0.4429 0.4441 |
-16/ 0.4452) 0.4463, 0.4474, 0.4484| 0.4495| 0.4505, 0.4515 0.4525| 0.4535 0.4545 |
-
-| 17) 0.4554) 0.4564) 0.4573) 0.4582) 0.4591, 0.4599 0.4608) 0.4616 0.4625 0.4633
-18) 0.4641, 0.4649, 0.4656, 0.4664| 0.4671| 0.4678, 0.4686, 0.4693 0.4699 0.4706
-
-19| 0.4713| 0.4719) 0.4726 0.4732| 0.4738| 0.4744| 0.4750| 0.4756, 0.4761 | 0.4767
-_ 20 0.4772| 0.478) 0.4783, 0.4788) 0.4793 0.4798) 0.4803, 0.4808| 0.4812) 0.4817
-| 2a) 0.4821) 0.4826) 0.4830) 0.4834 0.4838) 0.4842 | 0.8846 | 0.4850| 0.4854 0.4857 |
-~~ 22| o4s61| 0.4864) ogee, 0.4871, 0.4875| 0.4878| 0.4881/ 0.4884, 0.4887 | 0.4890
-(23) 0.4893| 0.4896, 0.4898, 0.4901/ 0.4904| 0.4906| 0.4909| 0.4911) 0.4913 | 0.4916
-2a) oasia| 0.4920, 0.4922) 0.4925 0.4927, 0.4929 0.4931, 0.4932, 0.4934 0.4936,
-~25/ 04938/ 0.4940/ 0.4941, 0.4943, 0.4945| 0.4946, 0.948| 0.4949/ 0.4951 0.4952.
-2.6/ 0.4953| 0.4955 0.4956 0.4957, 0.4959, 0.4960/ 0.4961/ 0.4962, 0.4963 0.4964
-2.7| 0.4965) 0.4966) 0.4967, 0.4968, 0.4969| 0.4970 0.4971| 0.4972| 0.4973 | 0.4974
-[28 0.4974) 0.4975 0.4976 0.4977, 0.4977| 0.4978| 0.4979| 0.4979 0.4980, 0.4981
-/29/ 0.4981/ 0.4982/ 0.4982/ 0.4983, 0.4984/ 0.4984, 0.4985 0.4985| 0.4986 | 0.4986.
-[30/ o4987, 0.4987, 0.4987, 0.4988) 0.4988/ 0.4989 0.4989| 0.989 0.4990 0.4990
---- page 6 ---
-42 Distribution Probabilities in the right tail =>
-
-df] 0.995 0.99] 0.975 0.95 0.9 0.1 0.05 0.025 0,01 0.005
-
-1 --- --| 0.001] 0.004} 0.016 2.706 3.841 5.024 6.635 7.879
-
-2 0.01 0.02} 0.051} 0.103) 0.211 4.605 5.991 7.378 | x 9.21 | 10.597
-
-3] 0.072} 0.115} 0.216] 0.352] 0.584 6.251 7.815 9.348] 11.9451 12.838
-
-4] 0.207] 0.297} 0.484) 0.711 1.064 7.779 9.488} 11.143) 13.277 14.86
-
-5| 0.412] 0.554] 0.831 1.145 1.61 9.236 11.07] 12.833] 15.086 16.75
-
-6| 0.676} 0.872] 1.237] 1.635] 2.204] 10.645) 12.592] 14.449] 16.812] 18.548
-
-7| 0.989} 1.239 1.69] 2.167] 2.833] 12.017] 14.067} 16.013] 18.475} 20.278
-
-8) 1.344] 1.646 2.18] 2.733 3.49} 13.362} 15.507] 17.535 20.09 | 21.955
-
-9] 1.735] 2.088 2.7| 3.325) 4.168] 14.684] 16.919] 19.023] 21.666] 23.589
-
-10} 2.156] 2.558) 3.247 3.94] 4.865] 15.987] 18.307} 20.483] 23.209] 25.188
-
-11] 2603] 3.053} 3.816) 4.575] 5.578} 17.275) 19.675 21.92} 24.725 | 26.757
-
-12] 3.074] 3.571] 4.404} 5.226] 6.304] 18.549] 21.026) 23.337] 26.217 28.3
-
-13| 3.565] 4.107] 5.009] 5.892] 7.042] 19.812} 22.362] 24.736| 27.688] 29.819
-
-14| 4.075 4.66] 5.629] 6.571 7.79| 21.064} 23.685} 26.119] 29.141} 31.319
-
-15| 4.601] 5.229} 6.262] 7.261] 8.547] 22.307] 24.996] 27.488] 30.578) 32.801
-
-16| 5.142] 5.812] 6.908] 7.962] 9.312] 23.542] 26.296) 28.845 32 | 34.267
-
-17| 5697] 6408] 7.564] 8.672] 10.085] 24.769] 27.587] 30.191] 33.409] 35.718
-
-18} 6265] 7.015] 8.231 9.39] 10.865} 25.989] 28.869] 31.526) 34.805} 37.156
-
-19| 6844] 7.633] 8.907] 10.117] 11.651] 27.204} 30.144] 32.852] 36.191 | 38.582
-
-20| 7.434 8.26} 9.591 | 10.851} 12.443) 28.412 31.41 34.17 | 37.566 | 39.997
-
-21] 8.034] 8.897} 10.283] 11.591 13.24] 29.615] 32.671] 35.479] 38.932] 41.401
-
-22) 8.643] 9.542] 10.982 | 12.338] 14.041] 30.813] 33.924] 36.781] 40.289] 42.796
-
-23 9.26 | 10.196 | 11.689 | 13.091 | 14.848] 32.007] 35.172] 38.076] 41.638} 44.181
-
-24] 9.886] 10.856} 12.401 | 13.848} 15.659) 33.196] 36.415] 39.364 42.98} 45.559
-
-25| 10.52] 11.524] 13.12] 14.611] 16.473] 34.382] 37.652] 40.646) 44.314] 46.928
-
-26) 11.16] 12.198] 13.844] 15.379] 17.292] 35.563] 38.885] 41.923] 45.642 48.29
-
-27 | 11.808] 12.879] 14.573} 16.151 | 18.114] 36.741] 40.113] 43.195] 46.963] 49.645
-
-28| 12.461 | 13.565 | 15.308 |] 16.928] 18.939] 37.916] 41.337] 44.461] 48.278] 50.993
-
-29 | 13.121 | 14.256 | 16.047 | 17.708] 19.768} 39.087] 42.557] 45.722| 49.588} 52.336
-
-30 | 13.787 | 14.953] 16.791 | 18.493] 20.599} 40.256] 43.773] 46.979] 50.892] 53.672
-
-40 | 20.707 | 22.164] 24.433 | 26.509] 29.051) 51.805] 55.758} 59.342] 63.691] 66.766
-
-50 | 27.991 | 29.707 | 32.357 | 34.764 | 37.689} 63.167] 67.505 71.42 | 76.154 79.49
-
-60 | 35.534 | 37.485 | 40.482 | 43.188] 46.459] 74.397] 79.082] 83.298] 88.379} 91.952
-
-70 | 43.275 | 45.442 | 48.758 | 51.739 | 55.329] 85.527) 90.531} 95.023 | 100.425 | 104.215
-
-80 | 51.172} 53.54] 57.153 | 60.391 | 64.278} 96.578 | 101.879 | 106.629 | 112.329 | 116.321
-
-90 | 59.196 | 61.754 | 65.647 | 69.126 | 73.291 | 107.565 | 113.145 | 118.136 | 124.116 | 128.299
-
-100 | 67.328 | 70.065 | 74.222 | 77.929 | 82.358 | 118.498 | 124.342 | 129.561 | 135.807 | 140.169
---- page 7 ---
-Student's T Probabilities {
-
-Cont. | 50% | 80% | 90% | 95% 98% | 99% Conf. | 50% | 80% | 90%}. 95% 98% | 99%
-
-Level |. Level
-One| 0.25] 0.1] 0.05] 0.025| 0.01! 0.005 One| 0.25) 0.1} 0.05) 0.025) 0.01) 0.005
-Tail anil
-Two| 05) 02] O21] 005| 0.02] 0.01 Two} 0.5) 0.2] 01) 0.05) 0.02) 0.01
-Tail Tail
-df df
-1 1 | 3.078 | 6.314 | 12.706 | 31.821 | 63.657 24 | 0.685 | 1.318] 1.711 | 2.064] 2.492 | 2.797
-2 0.816 | 1.886 | 2.92] 4.303 6.965 | 9.925 25 | 0.684 | 1.316 | 1.708 2.06| 2.485 | 2.787
-3. | 0.765 | 1.638 | 2.353 | 3.182] 4.541] 5.841 26 | 0.684 | 1.315 | 1.706 | 2.056| 2.479 | 2.779
-4 | 0.741 | 1.533] 2.132| 2.776] 3.747| 4.604 27 | 0.684 | 1.314] 1.703} 2.052] 2.473 | 2.771
-5 | 0.727] 1.476 | 2.015] 2.571| 3.365 | 4.032 28 | 0.683 | 1.313 | 1.701 | 2.048] 2.467] 2.763
-6 |o.718| 1.441 1.943| 2.447] 3.143 | 3.707 29 | 0.683 | 1.311 | 1.699| 2.045| 2.462] 2.756
-7 |o.711| 1.415] 1.895] 2.3651 2.998] 3.499 30 | 0.683| 1.31] 1.697] 2.042) 2.457| 2.75
-8 | 0.706) 1.397] 1.86] 2.306| 2.896 | 3.355 40 | 0.681 | 1.303 | 1.684] 2.021] 2.423] 2.704
-9 | 0.703 | 1.383 | 1.833 2.262] 2.921| 3.25 50 | 0.679 | 1.299 | 1.676 | 2.009] 2.403 | 2.678
-10 0.7| 1.372 | 1.812} 2.228] 2.764 | 3.169 60 | 0.679 | 1.296 | 1.671 2| 239) 2.66
-11 | 0.697 | 1.363 | 1.796 | 2.201] 2.718) 3.106 70 | 0.678 | 1.294 | 1.667] 1.994] 2.381] 2.648
-12 | 0.695 | 1.356 | 1.782] 2.179| 2.681) 3.055 80 | 0.678 | 1.2921 1.664] 1.99] 2.374] 2.639
-13 | 0.694] 1.35]1.771] 2.16| 2.65) 3.012 90 | 0.677] 1.291 | 1.662] 1.987] 2.368] 2.632
-14 | 0.692 | 1.345 | 1.761) 2.145] 2.624] 2.977 100 | 0.677] 1.29] 1.66} 1.984) 2.364] 2.626
-r 15 | 0.691 | 1.341] 1.753 | 2.131] 2.602 | 2.947 z | 0.674) 1.282 | 1.645| 1.96] 2.326] 2.576
-
-16 0.69 | 1.337 | 1.746 212 | 2.083 | 2.921
-
-17 0.689 | 1.333 1.74 2.11 2.567 | 2.898 The values in the table are the areas critical
-
-values for the given areas in the right tail or
-in both tails.
-
-18 0.688 | 1.33 | 1.734] 2.101} 2.552 | 2.878
-
-19 0.688 | 1.328 | 1.729 | 2.093 | 2.539] 2.861
-
-20 0.687 | 1.325 | 1.725 | 2.086] 2.528] 2.845
-
-21 0.686 | 1.323 | 1.721 2.08) 2.518 | 2.831
-
-22 0.686 | 1.321 | 1.717} 2.074] 2.508) 2.819
-
-23 0.685 | 1.319 | 1.714 | 2.069 2.5 | 2.807
 ````

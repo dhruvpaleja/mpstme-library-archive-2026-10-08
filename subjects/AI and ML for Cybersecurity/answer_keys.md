@@ -2,596 +2,7 @@
 
 Answer keys and model answers published on the portal, newest first.
 
-## 2025-26 · Re-Exam · Sem 5 · Answer key · paper 4ba55a5779d4
-
-- Departments: Cyber Security
-- Programmes: BTech CyberSecurity 7010
-- Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_CyberSecurity_7010/AI and ML for Cybersecurity/ANS_AI and ML for Cybersecurity(702IT0E003)_2025-2026.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
-- Text: text (13 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
-ENGINEERING (CYBER SECURITY)
-Year: III/Sem 5 Re-exam(Exam Year: 2025-2026)
-Subject: AI and ML for Cybersecurity
-Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 13 pages.
-2. Question No. 1 is compulsory
-3. Out of the remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1   Answer briefly:
-a   Identify typical data problems in machine learning
- Data quality: To ensure that the data is accurate, complete, and
-representative of the problem domain. Low-quality data can result in
-inaccurate or biased models (Very crucial in Health domain).
-⚫ Ex: Data that has lot of formatting errors, typos, redundancies,
-missing entries, irrelevant values etc.
- Data quantity: There may not be enough data available to train an accurate
-machine learning model.
-⚫ Ex: 1000 samples used to train a deep learning model to detect
-cancerous cells
- Bias and fairness: To ensure that the training data is not biased or
-unrepresentative. This can lead to unfair outcomes for certain groups of
-people, such as minorities or women when the model is trained on them.
- Ex: 70 safe mails and 30 spam mails to train a Spam detection
-CO-1; BL-1   model   [5]
- Overfitting: It occurs when a model is too complex and fits the training data
-too closely, resulting in poor generalization to new data.
-⚫ Ex: A model that picks up noise or random fluctuations in the training
-data and learns them as concepts.
-⚫ Real time Ex: A student preparing for an exam and has studied all
-non-exam topics in books( which have no relevance with the exam).
- Underfitting: It occurs when a model is too simple and does not capture all
-the relevant patterns in the data.
-⚫ Ex: A model fails to capture patterns in the data set
-⚫ Real time Ex: A student preparing for an exam and has left all major
-topics in books( which is very important for the exam).
- Privacy and security: Data may sometimes be sensitive information about
-individuals or organizations, raising concerns about privacy and security.
-Ex: Health related data, personal data etc.
-CO-2; BL-2 b Describe the importance of feature engineering in building ML models   [5]
-********** 1 **********
---- page 2 ---
- Data are observations of real-world (Ex: Personal biometric data can include
-measurements of our minute-by-minute heart rate, blood sugar level, blood
-pressure, etc.)
- Each piece of data provides a small window into a limited aspect of reality.
-The collection of all these observations gives us a picture of the whole which
-maybe messy most of the times as it may have noise and missing pieces.
- A feature is a numeric representation of raw data. In datasets, they appear as
-columns. So, by choosing the most relevant pieces of data, we achieve more
-accurate predictions for the model.
- The number of features is also important. If there are not enough informative
-features, then the model will be unable to perform the ultimate task. If there
-are too many features, or if most of them are irrelevant, then the model will
-be more expensive and tricky to train.
- Feature Engineering is the process of extracting and organizing the important
-features from raw data in such a way that it fits the purpose of the machine
-learning model.
- It can be thought of as the art of selecting the important features and
-transforming them into refined and meaningful features that suit the needs of
-the model.
- Feature Engineering encapsulates various data engineering techniques such
-as selecting relevant features, handling missing data, encoding the data, and
-normalizing it.
- It has 2 goals:
- Preparing the proper input dataset, compatible with the machine
-learning algorithm requirements.
- Improving the performance of machine learning models.
-c Recall the key limitations associated with Decision Tree models.
- Sensitivity to hyper parameter tuning: Decision Trees are very
-sensitive to hyper parameter tuning (i.e. parameters which are in control
-of the programmer) and can be tuned to get better performance out of a
-given model but can also vary drastically if the hyper parameters are
-inaccurately tuned.
- Overfitting: Decision trees are prone to overfitting (Model learns the data
-CO-2; BL-1   too well and hence performs well on training dataset but fails to perform   [5]
-on testing dataset). Decision trees are prone to overfitting if the breadth
-and depth of the tree is set to very high for a simpler dataset.
- Underfitting: Decision trees are also prone to under fitting (Model is too
-simple for it to learn the dataset effectively). Decision tree suffers from
-under fitting if the breadth and depth of the model or the number of nodes
-are set too low. This does not allow the model to fit the data properly and
-hence fails to learn.
-d Discuss how different clustering approaches group data.
- Connectivity (Hierarchical) models: These models are based on the
-notion that the data points closer in data space exhibit more similarity
-to each other than the data points lying farther away (Ex: Hierarchical
-Clustering)
- Centroid models: These are iterative clustering algorithms in which
-the notion of similarity is derived by the closeness of a data point to the
-CO-1; BL-2   [5]
-centroid or cluster center of the clusters (Ex: k-Means Clustering)
- Distribution models: Based on the notion of how probable it is that all
-data points in the cluster belong to the same distribution (like Normal,
-Gaussian) (Ex: Expectation-maximization algorithm ). As the distance
-from the distribution’s center increases, the probability that a point
-belongs to the distribution decreases. The band colors show a decrease
-in probability.
-********** 2 **********
---- page 3 ---
- Density models: These models search the data space for areas of the
-varied density of data points in the data space. They isolate different
-dense regions and assign the data points within these regions to the
-same cluster (Ex: DBSCAN and OPTICS).
-a Demonstrate the working of a clustering algorithm suitable for large databases.
-DBSCAN:
- Is the most common unsupervised density-based clustering algorithm
-that works on the principle that for each point of a cluster, the
-neighborhood of a given radius has to contain at least a minimum
-number of points.
- Every data point is surrounded by a circle with a radius of
-epsilon(eps), and DBSCAN identifies them as being either a
-⚫ Core point - If the circle that surrounds it has a minimum
-number of points specified by minPoints parameter.
-⚫ Border Point - if the number of points is lower than the
-minimum required.
-⚫ Noise Point - if there are no additional data points located
-within an epsilon radius of any data point.
- DBSCAN algorithms require only two parameters from the user:
-⚫ The radius of the circle to be created around each data point,
-also known as `epsilon`
-Q2   ⚫ MinPoints which defines the minimum number of data points   [10]
-CO-2; BL-3   required inside that circle for that data point to be classified as
-a Core point.
-Steps of the algorithm:
- Step 1:
-⚫ Algorithm start by selecting a point (x) randomly from the data
-set and finding all the neighbor points within Eps from it.
-⚫ If the number of Eps-neighbours is greater than or equal
-to MinPoints, we consider x a core point. Then, with its Eps-
-neighbours, x forms the first cluster.
-⚫ After creating the first cluster, we examine all its member points
-and find their respective Eps -neighbors. If a member has at
-least MinPoints Eps-neighbours, we expand the initial cluster
-by adding those Eps-neighbours to the cluster. This continues
-until there are no more points to add to this cluster.
- Step 2:
-⚫ For any other core point not assigned to cluster, create a new
-cluster.
- Step 3:
-⚫ To the core point cluster, find and assign all points that are
-recursively connected to it.
-⚫ Step 4: Iterate through all unattended points in the dataset and
-assign them to the nearest cluster at Eps distance from
-********** 3 **********
---- page 4 ---
-themselves. If a point does not fit any available clusters, locate
-it as a noise point.
-b Analyze the data points and form 2 clusters with the K-Means algorithm,
-starting with A and B as initial means.
-X   Y
-A   3   3
-B   5   3
-C   7   6
-D   8   7
-Initial centroids:
-•   Cluster 1 centroid = A (3,3)
-•   Cluster 2 centroid = B (5,3)
-Step 1: Assign points to nearest centroid
-Distance formula:
-𝑑= √(𝑥2 −𝑥1)2 + (𝑦2 −𝑦1)2
-Cluster assignment after Step 1
-Cluster Points
-1   A
-2   B, C, D
-Step 2: Recalculate centroids
-CO-3; BL-4   Cluster 1 (only A)   [10]
-New centroid = (3,3)(no change)
-Cluster 2 (B, C, D)
-5 + 7 + 8 20
-X mean =   =   ≈6.667
-3   3
-3 + 6 + 7 16
-Y mean =   =   ≈5.333
-3   3
-New centroid for Cluster 2: (6.667, 5.333)
-Final Cluster Assignment
-Cluster Points
-1   A, B
-2   C, D
-Step 4: Final Centroids
-Cluster 1 (A, B):
-𝑋= (3 + 5)/2 = 4, 𝑌= (3 + 3)/2 = 3 ⇒(4,3)
-Cluster 2 (C, D):
-𝑋= (7 + 8)/2 = 7.5, 𝑌= (6 + 7)/2 = 6.5 ⇒(7.5,6.5)
-Clusters:
-•   Cluster 1: A, B → Centroid (4,3)
-•   Cluster 2: C, D → Centroid (7.5,6.5)
-a Discuss how AI can be categorized based on its capabilities
-Q3
-[10]
-CO-1; BL-2   Based on how they learn and how far they can apply their knowledge, all AI can
-be broken down into three capability types:
-********** 4 **********
---- page 5 ---
-•   Artificial Narrow Intelligence (ANI) or Weak AI
-o   Is goal oriented and is programmed to perform a single task.
-o   Is very intelligent in completing the specific task that   it is
-programmed to do.
-o Are built to serve and excel in one cognitive capability and cannot
-independently learn skills beyond its design.
-o They use information from a specific dataset and do not perform any
-task that is outside of the single task that they are designed to
-perform.
-o They can fail in unpredictable ways if it goes beyond its limits.
-o Ex: Siri, Auto pilot in an airplane, Recommendation Systems –
-Netflix, YouTube, and Amazon recommendations, Image and speech
-recognition, ChatGPT etc.
-•   Artificial General Intelligence (AGI) or Strong AI
-o   Is a concept in which machines exhibit human intelligence.
-o These machines have the ability to learn, understand and act in a way
-that is indistinguishable from a human in a given situation.
-o They are machines that can think, strategize and perform multiple
-tasks under uncertain conditions.
-o They integrate their prior knowledge in decision making to come up
-with innovative, creative and unconventional solutions.
-o Ex: ChatGPT (to some extent), Fujitsu has built the K computer(is
-one of the fastest supercomputers in the world) , Tianhe-2 is a
-supercomputer that was developed by the China's National University
-of Defense Technology (It holds the record for cps (calculations per
-second) at 33.86 petaflops), Creative AI in Art and Music etc.
-•   Artificial Super Intelligence (ASI)
-o   Is a hypothetical AI where machines will be capable of exhibiting
-intelligence that surpasses that of the brightest humans.
-o Apart from having multifaceted intelligence of human beings
-machines will have greater problem solving and decision-making
-capabilities that will be far superior to human beings.
-o Some key characteristics include their capability to think, to reason,
-solve the puzzle, make judgments, plan, learn, and communicate by
-its own. (Ex: Solving complex global issues like climate change,
-disease and poverty, Capable of forming its own goals and improving
-itself)
-o   It’s theorized that once AI has reached the general intelligence level,
-it will soon learn at such a fast rate that its knowledge and capabilities
-will become stronger than that even of humankind.
-b Apply Principal Component Analysis and discuss how it helps in building
-efficient ML models
-Dimensionality Reduction:
-⚫   It is a data preparation technique performed on data prior to modeling.
-⚫   It might be performed after data cleaning and data scaling and before training
-a ML model.
-⚫ Any dimensionality reduction performed on training data must also be
-CO-2; BL-3   performed on test dataset, validation dataset, and data when making a   [10]
-prediction with the final model.
-⚫ The process essentially transforms data from high-dimensional feature space
-to a low-dimensional feature space ensuring that meaningful properties
-present in the data are not lost during the transformation.
-⚫   It is also commonly used in data visualization to understand and interpret the
-data.
-Benefits:
-********** 5 **********
---- page 6 ---
-⚫   It helps in data compression by reducing features hence the space required to
-store the dataset also gets reduced.
-⚫   It makes machine learning algorithms computationally efficient.
-⚫ Less computation training time is required for reduced dimensions of
-features.
-⚫ Reduced dimensions of features of the dataset help in visualizing the data
-quickly.
-⚫   It removes the redundant features   (if present) by taking care of
-multicollinearity.
-PCA
-⚫ Is a dimensionality reduction technique used to reduce the number of
-variables of a data set, while preserving as much information as possible.
-⚫   It takes datasets that have several correlated features and projects them onto
-a coordinate (axis) system that has fewer correlated features. These new,
-uncorrelated features are called principal components.
-⚫ The goal is to identify patterns and latent structures within datasets in order
-to create new columns and use these columns instead of the original
-features.
-⚫ With a data matrix of size n x d where n is the number of observations and
-d is the number of original features, PCA projects the matrix onto a matrix
-of size n x k (where k < d).
-⚫ PCA gives rise to new columns that maximize the variance in our data
-(refers to identifying which features (or variables) in a dataset contribute the
-most to the variability or spread of the data or which aspects of the data
-change the most and might be the most important for analysis.)
-⚫ Principal components are ordered by variance (ones with higher variance
-often are more informative because they contribute more to the overall
-spread and diversity of the data) explained so that the first principal
-component does the most to explain the variance of the data, while the
-second component does the second most to explain the variance of the data.
-⚫   Principal components indicates the directions in which the data varies the
-most (i.e. they point in the direction where the data points are most spread
-out)
-⚫ Thus, PCA is a method that brings together:
-⚫ A measure of how each variable is associated with one another.
-(Covariance matrix.)
-⚫ The directions in which our data are dispersed. (Eigenvectors.)
-⚫ The amount of variance carried by each principal component.
-(Eigenvalues.)
-⚫ PCA combines our predictors and allows us to drop the eigenvectors
-that are relatively unimportant.
-a Clarify the meaning of data imbalance and illustrate why it should be managed
-using an example.
- It refers to a problem in classification where the classes are not represented
-equally.
- Imbalanced data refers to those types of datasets where the target class has an
-uneven distribution of observations, i.e. one class label has a very high
-number of observations and the other has a very low number of observations.
-Q4
- Ex: In a fraudulent transactions data set, 98% transaction is “No Fraud” in   [10]
-CO-2; BL-2
-nature and 2% data is of type “Fraud”
- With imbalanced classes, it’s easy to get a high accuracy without actually
-making useful predictions. So, accuracy as an evaluation metrics makes sense
-only if the class labels are uniformly distributed.
- In case of imbalanced classes confusion-matrix and F1 score are good
-techniques to summarize the performance of a classification algorithm.
- Oversampling (or Up sample):
-********** 6 **********
---- page 7 ---
- Minority class is oversampled using replacement.
- Simply adding duplicate records of minority class often don’t add any
-new information to the model.
- Undersampling (or Down sample): Rows are randomly deleted from majority
-class to match with minority class
-b Analyze the dataset and classify the tuple (Login_frequency =” Medium”,
-Suspicious IP =” Yes” ,Malware Flag=”No” ) as M or H using Naïve Bayes
-Login_Frequency Suspicious_IP   Malware_Flag   Risk
-Low   No   No   M
-High   Yes   Yes   H
-Medium   No   Yes   M
-High   Yes   No   H
-Medium   No   No   M
-High   Yes   Yes   H
-Low   Yes   No   M
-Medium   Yes   No   H
-Low   No   Yes   M
-Medium   Yes   Yes   H
-Step 1: Prior probabilities
-5   5
-𝑃(𝑀) = = 0.5, 𝑃(𝐻) = = 0.5
-10   10
-CO-3; BL-4   Step 2: Likelihoods   [10]
-• Login_Frequency = Medium
-𝑃(𝐿𝑜𝑔𝑖𝑛= 𝑀𝑒𝑑𝑖𝑢𝑚∣𝑀) = 2/5 = 0.4, 𝑃(𝐿𝑜𝑔𝑖𝑛= 𝑀𝑒𝑑𝑖𝑢𝑚∣𝐻) = 2/5 = 0.4
-•   Suspicious_IP = Yes
-𝑃(𝑆𝑢𝑠𝑝𝑖𝑐𝑖𝑜𝑢𝑠= 𝑌𝑒𝑠∣𝑀) = 2/5 = 0.4, 𝑃(𝑆𝑢𝑠𝑝𝑖𝑐𝑖𝑜𝑢𝑠= 𝑌𝑒𝑠∣𝐻) = 5/5 = 1
-• Malware_Flag = No
-𝑃(𝑀𝑎𝑙𝑤𝑎𝑟𝑒= 𝑁𝑜∣𝑀) = 3/5 = 0.6, 𝑃(𝑀𝑎𝑙𝑤𝑎𝑟𝑒= 𝑁𝑜∣𝐻) = 2/5 = 0.4
-Step 3: Compute posterior probabilities
-Class M
-𝑃(𝑀∣𝑡𝑢𝑝𝑙𝑒) ∝𝑃(𝑀) ⋅𝑃(𝐿𝑜𝑔𝑖𝑛= 𝑀𝑒𝑑𝑖𝑢𝑚∣𝑀) ⋅𝑃(𝑆𝑢𝑠𝑝𝑖𝑐𝑖𝑜𝑢𝑠= 𝑌𝑒𝑠
-∣𝑀) ⋅𝑃(𝑀𝑎𝑙𝑤𝑎𝑟𝑒= 𝑁𝑜∣𝑀)
-𝑃(𝑀∣𝑡𝑢𝑝𝑙𝑒) = 0.5 ⋅0.4 ⋅0.4 ⋅0.6 = 0.048
-Class H
-𝑃(𝐻∣𝑡𝑢𝑝𝑙𝑒) ∝𝑃(𝐻) ⋅𝑃(𝐿𝑜𝑔𝑖𝑛= 𝑀𝑒𝑑𝑖𝑢𝑚∣𝐻) ⋅𝑃(𝑆𝑢𝑠𝑝𝑖𝑐𝑖𝑜𝑢𝑠= 𝑌𝑒𝑠
-∣𝐻) ⋅𝑃(𝑀𝑎𝑙𝑤𝑎𝑟𝑒= 𝑁𝑜∣𝐻)
-𝑃(𝐻∣𝑡𝑢𝑝𝑙𝑒) = 0.5 ⋅0.4 ⋅1 ⋅0.4 = 0.08
-********** 7 **********
---- page 8 ---
-Step 4: Compare posteriors
-𝑃(𝐻∣𝑡𝑢𝑝𝑙𝑒) > 𝑃(𝑀∣𝑡𝑢𝑝𝑙𝑒)
-Classification: H (High Risk)
-a   Identify the key distinctions between Linear and Logistic Regression
-Linear Regression   Logistic Regression
-Is used to predict the continuous   Is used to predict the categorical
-dependent variable using a given set   dependent variable using a given set
-of independent variables.   of independent variables.
-Is used for solving Regression   Is used for solving Classification
-problem.   problems.
-We find the best fit line, by which we We find the S-curve by which we can
-can easily predict the output.   classify the samples.
-Least square estimation method is   Maximum likelihood estimation
-used for estimation of accuracy.   method is used for estimation of
-accuracy.
-The output must be a continuous   The output must be a Categorical
-Q5   value, such as price, age, etc.   value such as 0 or 1, Yes or No, etc.   [10]
-CO2; BL1
-It is required that relationship   It is not required to have the linear
-between dependent variable and   relationship between the dependent
-independent variable must be linear.   and independent variable.
-b Describe how Decision Trees can be applied to regression and classification
-problems with examples
- Are popular machine learning algorithms that can be used for both regression
-(observes features of an object and trains a model in the structure of a tree to
-predict data in the future to produce meaningful continuous output) and
-CO-2; BL-2   classification tasks.   [10]
- It uses a flowchart like a tree structure to show the predictions that result from
-a series of feature-based splits.
- It starts with a root node and ends with a decision made by leaves.
- Are Partitioning based algorithms – that is search space is divided into
-rectangular regions.
- Tuple placed into class based on the region within which it falls.
-********** 8 **********
---- page 9 ---
- Different decision tree approaches differ in how the tree is built: DT
-Induction
- Assumptions made while using the decision tree:
- At the beginning, we consider the whole training set as the root.
- Feature values are preferred to be categorical. If the values are continuous
-then they are discretized prior to building the model.
- On the basis of attribute values, records are distributed recursively.
- We use statistical methods for ordering attributes as root or the internal node.
- Algorithms: ID3, C4.5, CART, Random Forest
-a   Illustrate the functioning of Support Vector Machines with an example.
- Is a supervised machine learning algorithm that works best on smaller
-datasets that are complex.
- It finds a hyperplane that best separates two or more classes.
- It selects the hyperplane that has maximum distances between the classes.
- Types:
-⚫ Linear SVM – Used when the data is perfectly linearly separable (i.e.,
-the data points can be classified into 2 classes by using a single
-straight line).
-⚫ Non-Linear SVM - Used when the data is not linearly separable
- Applications:
-⚫ They work on a range of different types of data, but are most effective
-Q6   on data sets with very high dimensions relative to the observations.
-[10]
-CO-3; BL-2   ⚫ Ex: Text classification, in which language has many dimensions of
-word   vectors, DNA sequencing by labeling chromatograms
-correctly, in determining malicious IP addresses and malicious port
-address in face detection as there are many features that can be taken
-into consideration while classifying.
- Hyperplane: There can be multiple lines/decision boundaries to segregate
-the classes in n-dimensional space and the best boundary is known as the
-hyperplane of SVM. The dimensions of the hyperplane depend on the features
-present in the dataset. (Ex: If there are 2 features then hyperplane is a straight
-line, if there are 3 features then hyperplane is a 2-dimensional plane etc.)
- Support Vectors: These are the points that are closest to the hyperplane.
- Margin: Is the distance between the hyperplane and the observations closest
-to the hyperplane (support vectors).
-********** 9 **********
---- page 10 ---
-Working:
- The process starts by finding different hyperplanes which classify the labels
-in the best way.
- Out of all the different hyperplanes, the one which is farthest from the data
-points or the one which has a maximum margin is selected.
- The best hyperplane is that plane that has the maximum distance from both
-the classes, and this is the main aim of SVM. The hyperplane with maximum
-margin is called the optimal hyperplane.
-b Build a two-hidden-layer neural network with proper activation functions and
-illustrate how it processes data.
- Is a small neural network of four layers.
- The input layer is where we feed data from which our neural network has
-to learn.
- The output layer is where we get the target value, this represents what the
-neural network is trying to predict or learn.
- All layers in between are called hidden layers.
- When we feed the inputs into the first layer, the values of the nodes will be
-calculated layer by layer using the matrix multiplications and activation
-functions till we get the final values at the output layer.
-CO2; BL-3   [10]
-
-Ex: Problem statement: Whether to go surfing or not?
- Factors influencing our decision making are:
- Are the waves good? (Yes: 1, No: 0)
- Is the line-up empty? (Yes: 1, No: 0)
- Has there been a recent shark attack? (Yes: 0, No: 1)
- Assuming the following inputs:
- X1 = 1, since the waves are good
- X2 = 0, since the crowds are out
- X3 = 1, since there hasn’t been a recent shark attack
- Assigning weights to determine importance (Larger weights signify that
-particular variables are of greater importance to the decision or outcome)
-********** 10 **********
---- page 11 ---
- W1 = 5, since large swells don’t come around often
- W2 = 2, since you’re used to the crowds
- W3 = 4, since you have a fear of sharks
-∑wixi + bias = w1x1 + w2x2 + w3x3 + bias
-output = f(x) = 1 if ∑w1x1 + b>= 0
-= f(x) = 0 if ∑w1x1 + b < 0
-Assuming a bias of -3, which is an external factor,
-Predicted value = (1*5) + (0*2) + (1*4) – 3 = 6
-As 6 > 0, predicted value is “go surfing"
-Short notes on:
-a. Hierarchical vs. Centroid based models
-Hierarchial:
- Is an unsupervised machine-learning clustering strategy.
- It groups the data points together that are close to each other based on
-the measure of similarity or distance.
- Tree-like morphologies called Dendograms are used to bunch the
-dataset and create the hierarchy of the clusters.
- Individual data points are located at the bottom of the dendrogram,
-while the largest clusters, which include all the data points, are located
-at the top.
- The Dendrogram is created by iteratively merging or splitting clusters
-based on a measure of similarity or distance between data points.
- In order to generate different numbers of clusters, the Dendrogram can
-be sliced at various heights.
- Agglomerative
- Initially each item in its own cluster.
- Iteratively clusters are merged together.
- Bottom Up
- Divisive
- Initially all items in one cluster.
-Q7
- Large clusters are successively divided.
-CO-1; CO-
- Top Down
-3; CO-1;   [5*4=20]
-Centroid based:
-CO-1; BL-2
- It organizes the data into non-hierarchical clusters.
- This technique uses centroids, the center of each cluster, to minimize
-the sum of the distances between the data points and their corresponding
-cluster centroids.
- The data points are as close as possible to the center of the cluster and
-the inter-cluster distance is maximized.
- Is ideal for datasets with easily separable, well-defined clusters and also
-suitable when the number of clusters is known or can be easily
-estimated.
- Creates clusters in one step as opposed to several steps and further
-iterations refines the clusters formed.
- Usually deals with static sets.
- They suffer from a combinatorial explosion due to the number of
-possible solutions.
- Real-world applications include image segmentation, Cyber profiling
-(an analysis on the digital footprints associated with a person whose
-identity may or may not have been known such as personality, motives
-etc. ), Insurance Fraud Detection, Malware detection (detect malware
-behavior of data based on the features of the malware) etc.
-b. Application of AI/ML in domain of cybersecurity
-AI is employed in:
-********** 11 **********
---- page 12 ---
- Threat detection and response by learning normal network
-behavior to identify anomalies.
- Conducting behavioral   analysis   to   detect suspicious
-activities.
- Enabling   real-time monitoring   for immediate   threat
-identification.
-Enhanced Threat Detection:
- AI systems can analyze vast amounts of data quickly to
-identify anomalies and potential threats that might be missed
-by traditional methods.
- This capability is crucial for identifying sophisticated and
-emerging threats in real time.
- Ex: An AI-powered SIEM (Security Information and Event
-Management) platform detects an unusual login pattern from
-an employee’s account—accessing sensitive files at odd
-hours from an unrecognized IP address across multiple
-locations.
-c. Describe various stages in Machine Learning
- Gathering Data
- Preparing that data
- Choosing a model
- Training
- Evaluation
- Hyperparameter Tuning
- Prediction
-d. Explain concept of Cost and loss function
-Loss Function:
- The loss function, also known as the error function, measures how
-well a single prediction matches the actual value.
- It quantifies the error or deviation of the predicted value from the true
-value for a single data point.
- It helps in determining how much the model's prediction deviates
-from the actual value for each individual data point.
-Cost Function:
- Is basically the calculation of the error between predicted values and
-expected values and presents it in the form of a single real number.
- It is the average of error of n-sample in the data.
- Is used during the training process to optimize the model. The goal of
-training is to minimize the cost function, which indicates that the
-model’s predictions are becoming closer to the actual values on
-average.
- Ideal value of the Cost Function is 0 or somewhere closer to 0, that
-indicates a better model fit to the data.
-********** 12 **********
---- page 13 ---
- In order to get out ideal Cost Function, we can use Gradient technique
-(iterative optimization technique used to find the parameters that
-minimize the cost function).
-********** 13 **********
-````
-
-## 2024-25 · Final-Exam · Sem 5 · Answer key · paper e8d622e6090b
+## 2025-26 · Final-Exam · Sem 5 · Answer key · paper e8d622e6090b
 
 - Departments: Cyber Security
 - Programmes: BTech CyberSecurity 7010
@@ -1294,4 +705,593 @@ model or a classification model can be used to predict the missing
 values.
 
 FE AACR CIC 7] AAR oR oR ok
+````
+
+## 2025-26 · Re-Exam · Sem 5 · Answer key · paper 4ba55a5779d4
+
+- Departments: Cyber Security
+- Programmes: BTech CyberSecurity 7010
+- Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_CyberSecurity_7010/AI and ML for Cybersecurity/ANS_AI and ML for Cybersecurity(702IT0E003)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
+- Text: text (13 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
+ENGINEERING (CYBER SECURITY)
+Year: III/Sem 5 Re-exam(Exam Year: 2025-2026)
+Subject: AI and ML for Cybersecurity
+Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 13 pages.
+2. Question No. 1 is compulsory
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+a   Identify typical data problems in machine learning
+ Data quality: To ensure that the data is accurate, complete, and
+representative of the problem domain. Low-quality data can result in
+inaccurate or biased models (Very crucial in Health domain).
+⚫ Ex: Data that has lot of formatting errors, typos, redundancies,
+missing entries, irrelevant values etc.
+ Data quantity: There may not be enough data available to train an accurate
+machine learning model.
+⚫ Ex: 1000 samples used to train a deep learning model to detect
+cancerous cells
+ Bias and fairness: To ensure that the training data is not biased or
+unrepresentative. This can lead to unfair outcomes for certain groups of
+people, such as minorities or women when the model is trained on them.
+ Ex: 70 safe mails and 30 spam mails to train a Spam detection
+CO-1; BL-1   model   [5]
+ Overfitting: It occurs when a model is too complex and fits the training data
+too closely, resulting in poor generalization to new data.
+⚫ Ex: A model that picks up noise or random fluctuations in the training
+data and learns them as concepts.
+⚫ Real time Ex: A student preparing for an exam and has studied all
+non-exam topics in books( which have no relevance with the exam).
+ Underfitting: It occurs when a model is too simple and does not capture all
+the relevant patterns in the data.
+⚫ Ex: A model fails to capture patterns in the data set
+⚫ Real time Ex: A student preparing for an exam and has left all major
+topics in books( which is very important for the exam).
+ Privacy and security: Data may sometimes be sensitive information about
+individuals or organizations, raising concerns about privacy and security.
+Ex: Health related data, personal data etc.
+CO-2; BL-2 b Describe the importance of feature engineering in building ML models   [5]
+********** 1 **********
+--- page 2 ---
+ Data are observations of real-world (Ex: Personal biometric data can include
+measurements of our minute-by-minute heart rate, blood sugar level, blood
+pressure, etc.)
+ Each piece of data provides a small window into a limited aspect of reality.
+The collection of all these observations gives us a picture of the whole which
+maybe messy most of the times as it may have noise and missing pieces.
+ A feature is a numeric representation of raw data. In datasets, they appear as
+columns. So, by choosing the most relevant pieces of data, we achieve more
+accurate predictions for the model.
+ The number of features is also important. If there are not enough informative
+features, then the model will be unable to perform the ultimate task. If there
+are too many features, or if most of them are irrelevant, then the model will
+be more expensive and tricky to train.
+ Feature Engineering is the process of extracting and organizing the important
+features from raw data in such a way that it fits the purpose of the machine
+learning model.
+ It can be thought of as the art of selecting the important features and
+transforming them into refined and meaningful features that suit the needs of
+the model.
+ Feature Engineering encapsulates various data engineering techniques such
+as selecting relevant features, handling missing data, encoding the data, and
+normalizing it.
+ It has 2 goals:
+ Preparing the proper input dataset, compatible with the machine
+learning algorithm requirements.
+ Improving the performance of machine learning models.
+c Recall the key limitations associated with Decision Tree models.
+ Sensitivity to hyper parameter tuning: Decision Trees are very
+sensitive to hyper parameter tuning (i.e. parameters which are in control
+of the programmer) and can be tuned to get better performance out of a
+given model but can also vary drastically if the hyper parameters are
+inaccurately tuned.
+ Overfitting: Decision trees are prone to overfitting (Model learns the data
+CO-2; BL-1   too well and hence performs well on training dataset but fails to perform   [5]
+on testing dataset). Decision trees are prone to overfitting if the breadth
+and depth of the tree is set to very high for a simpler dataset.
+ Underfitting: Decision trees are also prone to under fitting (Model is too
+simple for it to learn the dataset effectively). Decision tree suffers from
+under fitting if the breadth and depth of the model or the number of nodes
+are set too low. This does not allow the model to fit the data properly and
+hence fails to learn.
+d Discuss how different clustering approaches group data.
+ Connectivity (Hierarchical) models: These models are based on the
+notion that the data points closer in data space exhibit more similarity
+to each other than the data points lying farther away (Ex: Hierarchical
+Clustering)
+ Centroid models: These are iterative clustering algorithms in which
+the notion of similarity is derived by the closeness of a data point to the
+CO-1; BL-2   [5]
+centroid or cluster center of the clusters (Ex: k-Means Clustering)
+ Distribution models: Based on the notion of how probable it is that all
+data points in the cluster belong to the same distribution (like Normal,
+Gaussian) (Ex: Expectation-maximization algorithm ). As the distance
+from the distribution’s center increases, the probability that a point
+belongs to the distribution decreases. The band colors show a decrease
+in probability.
+********** 2 **********
+--- page 3 ---
+ Density models: These models search the data space for areas of the
+varied density of data points in the data space. They isolate different
+dense regions and assign the data points within these regions to the
+same cluster (Ex: DBSCAN and OPTICS).
+a Demonstrate the working of a clustering algorithm suitable for large databases.
+DBSCAN:
+ Is the most common unsupervised density-based clustering algorithm
+that works on the principle that for each point of a cluster, the
+neighborhood of a given radius has to contain at least a minimum
+number of points.
+ Every data point is surrounded by a circle with a radius of
+epsilon(eps), and DBSCAN identifies them as being either a
+⚫ Core point - If the circle that surrounds it has a minimum
+number of points specified by minPoints parameter.
+⚫ Border Point - if the number of points is lower than the
+minimum required.
+⚫ Noise Point - if there are no additional data points located
+within an epsilon radius of any data point.
+ DBSCAN algorithms require only two parameters from the user:
+⚫ The radius of the circle to be created around each data point,
+also known as `epsilon`
+Q2   ⚫ MinPoints which defines the minimum number of data points   [10]
+CO-2; BL-3   required inside that circle for that data point to be classified as
+a Core point.
+Steps of the algorithm:
+ Step 1:
+⚫ Algorithm start by selecting a point (x) randomly from the data
+set and finding all the neighbor points within Eps from it.
+⚫ If the number of Eps-neighbours is greater than or equal
+to MinPoints, we consider x a core point. Then, with its Eps-
+neighbours, x forms the first cluster.
+⚫ After creating the first cluster, we examine all its member points
+and find their respective Eps -neighbors. If a member has at
+least MinPoints Eps-neighbours, we expand the initial cluster
+by adding those Eps-neighbours to the cluster. This continues
+until there are no more points to add to this cluster.
+ Step 2:
+⚫ For any other core point not assigned to cluster, create a new
+cluster.
+ Step 3:
+⚫ To the core point cluster, find and assign all points that are
+recursively connected to it.
+⚫ Step 4: Iterate through all unattended points in the dataset and
+assign them to the nearest cluster at Eps distance from
+********** 3 **********
+--- page 4 ---
+themselves. If a point does not fit any available clusters, locate
+it as a noise point.
+b Analyze the data points and form 2 clusters with the K-Means algorithm,
+starting with A and B as initial means.
+X   Y
+A   3   3
+B   5   3
+C   7   6
+D   8   7
+Initial centroids:
+•   Cluster 1 centroid = A (3,3)
+•   Cluster 2 centroid = B (5,3)
+Step 1: Assign points to nearest centroid
+Distance formula:
+𝑑= √(𝑥2 −𝑥1)2 + (𝑦2 −𝑦1)2
+Cluster assignment after Step 1
+Cluster Points
+1   A
+2   B, C, D
+Step 2: Recalculate centroids
+CO-3; BL-4   Cluster 1 (only A)   [10]
+New centroid = (3,3)(no change)
+Cluster 2 (B, C, D)
+5 + 7 + 8 20
+X mean =   =   ≈6.667
+3   3
+3 + 6 + 7 16
+Y mean =   =   ≈5.333
+3   3
+New centroid for Cluster 2: (6.667, 5.333)
+Final Cluster Assignment
+Cluster Points
+1   A, B
+2   C, D
+Step 4: Final Centroids
+Cluster 1 (A, B):
+𝑋= (3 + 5)/2 = 4, 𝑌= (3 + 3)/2 = 3 ⇒(4,3)
+Cluster 2 (C, D):
+𝑋= (7 + 8)/2 = 7.5, 𝑌= (6 + 7)/2 = 6.5 ⇒(7.5,6.5)
+Clusters:
+•   Cluster 1: A, B → Centroid (4,3)
+•   Cluster 2: C, D → Centroid (7.5,6.5)
+a Discuss how AI can be categorized based on its capabilities
+Q3
+[10]
+CO-1; BL-2   Based on how they learn and how far they can apply their knowledge, all AI can
+be broken down into three capability types:
+********** 4 **********
+--- page 5 ---
+•   Artificial Narrow Intelligence (ANI) or Weak AI
+o   Is goal oriented and is programmed to perform a single task.
+o   Is very intelligent in completing the specific task that   it is
+programmed to do.
+o Are built to serve and excel in one cognitive capability and cannot
+independently learn skills beyond its design.
+o They use information from a specific dataset and do not perform any
+task that is outside of the single task that they are designed to
+perform.
+o They can fail in unpredictable ways if it goes beyond its limits.
+o Ex: Siri, Auto pilot in an airplane, Recommendation Systems –
+Netflix, YouTube, and Amazon recommendations, Image and speech
+recognition, ChatGPT etc.
+•   Artificial General Intelligence (AGI) or Strong AI
+o   Is a concept in which machines exhibit human intelligence.
+o These machines have the ability to learn, understand and act in a way
+that is indistinguishable from a human in a given situation.
+o They are machines that can think, strategize and perform multiple
+tasks under uncertain conditions.
+o They integrate their prior knowledge in decision making to come up
+with innovative, creative and unconventional solutions.
+o Ex: ChatGPT (to some extent), Fujitsu has built the K computer(is
+one of the fastest supercomputers in the world) , Tianhe-2 is a
+supercomputer that was developed by the China's National University
+of Defense Technology (It holds the record for cps (calculations per
+second) at 33.86 petaflops), Creative AI in Art and Music etc.
+•   Artificial Super Intelligence (ASI)
+o   Is a hypothetical AI where machines will be capable of exhibiting
+intelligence that surpasses that of the brightest humans.
+o Apart from having multifaceted intelligence of human beings
+machines will have greater problem solving and decision-making
+capabilities that will be far superior to human beings.
+o Some key characteristics include their capability to think, to reason,
+solve the puzzle, make judgments, plan, learn, and communicate by
+its own. (Ex: Solving complex global issues like climate change,
+disease and poverty, Capable of forming its own goals and improving
+itself)
+o   It’s theorized that once AI has reached the general intelligence level,
+it will soon learn at such a fast rate that its knowledge and capabilities
+will become stronger than that even of humankind.
+b Apply Principal Component Analysis and discuss how it helps in building
+efficient ML models
+Dimensionality Reduction:
+⚫   It is a data preparation technique performed on data prior to modeling.
+⚫   It might be performed after data cleaning and data scaling and before training
+a ML model.
+⚫ Any dimensionality reduction performed on training data must also be
+CO-2; BL-3   performed on test dataset, validation dataset, and data when making a   [10]
+prediction with the final model.
+⚫ The process essentially transforms data from high-dimensional feature space
+to a low-dimensional feature space ensuring that meaningful properties
+present in the data are not lost during the transformation.
+⚫   It is also commonly used in data visualization to understand and interpret the
+data.
+Benefits:
+********** 5 **********
+--- page 6 ---
+⚫   It helps in data compression by reducing features hence the space required to
+store the dataset also gets reduced.
+⚫   It makes machine learning algorithms computationally efficient.
+⚫ Less computation training time is required for reduced dimensions of
+features.
+⚫ Reduced dimensions of features of the dataset help in visualizing the data
+quickly.
+⚫   It removes the redundant features   (if present) by taking care of
+multicollinearity.
+PCA
+⚫ Is a dimensionality reduction technique used to reduce the number of
+variables of a data set, while preserving as much information as possible.
+⚫   It takes datasets that have several correlated features and projects them onto
+a coordinate (axis) system that has fewer correlated features. These new,
+uncorrelated features are called principal components.
+⚫ The goal is to identify patterns and latent structures within datasets in order
+to create new columns and use these columns instead of the original
+features.
+⚫ With a data matrix of size n x d where n is the number of observations and
+d is the number of original features, PCA projects the matrix onto a matrix
+of size n x k (where k < d).
+⚫ PCA gives rise to new columns that maximize the variance in our data
+(refers to identifying which features (or variables) in a dataset contribute the
+most to the variability or spread of the data or which aspects of the data
+change the most and might be the most important for analysis.)
+⚫ Principal components are ordered by variance (ones with higher variance
+often are more informative because they contribute more to the overall
+spread and diversity of the data) explained so that the first principal
+component does the most to explain the variance of the data, while the
+second component does the second most to explain the variance of the data.
+⚫   Principal components indicates the directions in which the data varies the
+most (i.e. they point in the direction where the data points are most spread
+out)
+⚫ Thus, PCA is a method that brings together:
+⚫ A measure of how each variable is associated with one another.
+(Covariance matrix.)
+⚫ The directions in which our data are dispersed. (Eigenvectors.)
+⚫ The amount of variance carried by each principal component.
+(Eigenvalues.)
+⚫ PCA combines our predictors and allows us to drop the eigenvectors
+that are relatively unimportant.
+a Clarify the meaning of data imbalance and illustrate why it should be managed
+using an example.
+ It refers to a problem in classification where the classes are not represented
+equally.
+ Imbalanced data refers to those types of datasets where the target class has an
+uneven distribution of observations, i.e. one class label has a very high
+number of observations and the other has a very low number of observations.
+Q4
+ Ex: In a fraudulent transactions data set, 98% transaction is “No Fraud” in   [10]
+CO-2; BL-2
+nature and 2% data is of type “Fraud”
+ With imbalanced classes, it’s easy to get a high accuracy without actually
+making useful predictions. So, accuracy as an evaluation metrics makes sense
+only if the class labels are uniformly distributed.
+ In case of imbalanced classes confusion-matrix and F1 score are good
+techniques to summarize the performance of a classification algorithm.
+ Oversampling (or Up sample):
+********** 6 **********
+--- page 7 ---
+ Minority class is oversampled using replacement.
+ Simply adding duplicate records of minority class often don’t add any
+new information to the model.
+ Undersampling (or Down sample): Rows are randomly deleted from majority
+class to match with minority class
+b Analyze the dataset and classify the tuple (Login_frequency =” Medium”,
+Suspicious IP =” Yes” ,Malware Flag=”No” ) as M or H using Naïve Bayes
+Login_Frequency Suspicious_IP   Malware_Flag   Risk
+Low   No   No   M
+High   Yes   Yes   H
+Medium   No   Yes   M
+High   Yes   No   H
+Medium   No   No   M
+High   Yes   Yes   H
+Low   Yes   No   M
+Medium   Yes   No   H
+Low   No   Yes   M
+Medium   Yes   Yes   H
+Step 1: Prior probabilities
+5   5
+𝑃(𝑀) = = 0.5, 𝑃(𝐻) = = 0.5
+10   10
+CO-3; BL-4   Step 2: Likelihoods   [10]
+• Login_Frequency = Medium
+𝑃(𝐿𝑜𝑔𝑖𝑛= 𝑀𝑒𝑑𝑖𝑢𝑚∣𝑀) = 2/5 = 0.4, 𝑃(𝐿𝑜𝑔𝑖𝑛= 𝑀𝑒𝑑𝑖𝑢𝑚∣𝐻) = 2/5 = 0.4
+•   Suspicious_IP = Yes
+𝑃(𝑆𝑢𝑠𝑝𝑖𝑐𝑖𝑜𝑢𝑠= 𝑌𝑒𝑠∣𝑀) = 2/5 = 0.4, 𝑃(𝑆𝑢𝑠𝑝𝑖𝑐𝑖𝑜𝑢𝑠= 𝑌𝑒𝑠∣𝐻) = 5/5 = 1
+• Malware_Flag = No
+𝑃(𝑀𝑎𝑙𝑤𝑎𝑟𝑒= 𝑁𝑜∣𝑀) = 3/5 = 0.6, 𝑃(𝑀𝑎𝑙𝑤𝑎𝑟𝑒= 𝑁𝑜∣𝐻) = 2/5 = 0.4
+Step 3: Compute posterior probabilities
+Class M
+𝑃(𝑀∣𝑡𝑢𝑝𝑙𝑒) ∝𝑃(𝑀) ⋅𝑃(𝐿𝑜𝑔𝑖𝑛= 𝑀𝑒𝑑𝑖𝑢𝑚∣𝑀) ⋅𝑃(𝑆𝑢𝑠𝑝𝑖𝑐𝑖𝑜𝑢𝑠= 𝑌𝑒𝑠
+∣𝑀) ⋅𝑃(𝑀𝑎𝑙𝑤𝑎𝑟𝑒= 𝑁𝑜∣𝑀)
+𝑃(𝑀∣𝑡𝑢𝑝𝑙𝑒) = 0.5 ⋅0.4 ⋅0.4 ⋅0.6 = 0.048
+Class H
+𝑃(𝐻∣𝑡𝑢𝑝𝑙𝑒) ∝𝑃(𝐻) ⋅𝑃(𝐿𝑜𝑔𝑖𝑛= 𝑀𝑒𝑑𝑖𝑢𝑚∣𝐻) ⋅𝑃(𝑆𝑢𝑠𝑝𝑖𝑐𝑖𝑜𝑢𝑠= 𝑌𝑒𝑠
+∣𝐻) ⋅𝑃(𝑀𝑎𝑙𝑤𝑎𝑟𝑒= 𝑁𝑜∣𝐻)
+𝑃(𝐻∣𝑡𝑢𝑝𝑙𝑒) = 0.5 ⋅0.4 ⋅1 ⋅0.4 = 0.08
+********** 7 **********
+--- page 8 ---
+Step 4: Compare posteriors
+𝑃(𝐻∣𝑡𝑢𝑝𝑙𝑒) > 𝑃(𝑀∣𝑡𝑢𝑝𝑙𝑒)
+Classification: H (High Risk)
+a   Identify the key distinctions between Linear and Logistic Regression
+Linear Regression   Logistic Regression
+Is used to predict the continuous   Is used to predict the categorical
+dependent variable using a given set   dependent variable using a given set
+of independent variables.   of independent variables.
+Is used for solving Regression   Is used for solving Classification
+problem.   problems.
+We find the best fit line, by which we We find the S-curve by which we can
+can easily predict the output.   classify the samples.
+Least square estimation method is   Maximum likelihood estimation
+used for estimation of accuracy.   method is used for estimation of
+accuracy.
+The output must be a continuous   The output must be a Categorical
+Q5   value, such as price, age, etc.   value such as 0 or 1, Yes or No, etc.   [10]
+CO2; BL1
+It is required that relationship   It is not required to have the linear
+between dependent variable and   relationship between the dependent
+independent variable must be linear.   and independent variable.
+b Describe how Decision Trees can be applied to regression and classification
+problems with examples
+ Are popular machine learning algorithms that can be used for both regression
+(observes features of an object and trains a model in the structure of a tree to
+predict data in the future to produce meaningful continuous output) and
+CO-2; BL-2   classification tasks.   [10]
+ It uses a flowchart like a tree structure to show the predictions that result from
+a series of feature-based splits.
+ It starts with a root node and ends with a decision made by leaves.
+ Are Partitioning based algorithms – that is search space is divided into
+rectangular regions.
+ Tuple placed into class based on the region within which it falls.
+********** 8 **********
+--- page 9 ---
+ Different decision tree approaches differ in how the tree is built: DT
+Induction
+ Assumptions made while using the decision tree:
+ At the beginning, we consider the whole training set as the root.
+ Feature values are preferred to be categorical. If the values are continuous
+then they are discretized prior to building the model.
+ On the basis of attribute values, records are distributed recursively.
+ We use statistical methods for ordering attributes as root or the internal node.
+ Algorithms: ID3, C4.5, CART, Random Forest
+a   Illustrate the functioning of Support Vector Machines with an example.
+ Is a supervised machine learning algorithm that works best on smaller
+datasets that are complex.
+ It finds a hyperplane that best separates two or more classes.
+ It selects the hyperplane that has maximum distances between the classes.
+ Types:
+⚫ Linear SVM – Used when the data is perfectly linearly separable (i.e.,
+the data points can be classified into 2 classes by using a single
+straight line).
+⚫ Non-Linear SVM - Used when the data is not linearly separable
+ Applications:
+⚫ They work on a range of different types of data, but are most effective
+Q6   on data sets with very high dimensions relative to the observations.
+[10]
+CO-3; BL-2   ⚫ Ex: Text classification, in which language has many dimensions of
+word   vectors, DNA sequencing by labeling chromatograms
+correctly, in determining malicious IP addresses and malicious port
+address in face detection as there are many features that can be taken
+into consideration while classifying.
+ Hyperplane: There can be multiple lines/decision boundaries to segregate
+the classes in n-dimensional space and the best boundary is known as the
+hyperplane of SVM. The dimensions of the hyperplane depend on the features
+present in the dataset. (Ex: If there are 2 features then hyperplane is a straight
+line, if there are 3 features then hyperplane is a 2-dimensional plane etc.)
+ Support Vectors: These are the points that are closest to the hyperplane.
+ Margin: Is the distance between the hyperplane and the observations closest
+to the hyperplane (support vectors).
+********** 9 **********
+--- page 10 ---
+Working:
+ The process starts by finding different hyperplanes which classify the labels
+in the best way.
+ Out of all the different hyperplanes, the one which is farthest from the data
+points or the one which has a maximum margin is selected.
+ The best hyperplane is that plane that has the maximum distance from both
+the classes, and this is the main aim of SVM. The hyperplane with maximum
+margin is called the optimal hyperplane.
+b Build a two-hidden-layer neural network with proper activation functions and
+illustrate how it processes data.
+ Is a small neural network of four layers.
+ The input layer is where we feed data from which our neural network has
+to learn.
+ The output layer is where we get the target value, this represents what the
+neural network is trying to predict or learn.
+ All layers in between are called hidden layers.
+ When we feed the inputs into the first layer, the values of the nodes will be
+calculated layer by layer using the matrix multiplications and activation
+functions till we get the final values at the output layer.
+CO2; BL-3   [10]
+
+Ex: Problem statement: Whether to go surfing or not?
+ Factors influencing our decision making are:
+ Are the waves good? (Yes: 1, No: 0)
+ Is the line-up empty? (Yes: 1, No: 0)
+ Has there been a recent shark attack? (Yes: 0, No: 1)
+ Assuming the following inputs:
+ X1 = 1, since the waves are good
+ X2 = 0, since the crowds are out
+ X3 = 1, since there hasn’t been a recent shark attack
+ Assigning weights to determine importance (Larger weights signify that
+particular variables are of greater importance to the decision or outcome)
+********** 10 **********
+--- page 11 ---
+ W1 = 5, since large swells don’t come around often
+ W2 = 2, since you’re used to the crowds
+ W3 = 4, since you have a fear of sharks
+∑wixi + bias = w1x1 + w2x2 + w3x3 + bias
+output = f(x) = 1 if ∑w1x1 + b>= 0
+= f(x) = 0 if ∑w1x1 + b < 0
+Assuming a bias of -3, which is an external factor,
+Predicted value = (1*5) + (0*2) + (1*4) – 3 = 6
+As 6 > 0, predicted value is “go surfing"
+Short notes on:
+a. Hierarchical vs. Centroid based models
+Hierarchial:
+ Is an unsupervised machine-learning clustering strategy.
+ It groups the data points together that are close to each other based on
+the measure of similarity or distance.
+ Tree-like morphologies called Dendograms are used to bunch the
+dataset and create the hierarchy of the clusters.
+ Individual data points are located at the bottom of the dendrogram,
+while the largest clusters, which include all the data points, are located
+at the top.
+ The Dendrogram is created by iteratively merging or splitting clusters
+based on a measure of similarity or distance between data points.
+ In order to generate different numbers of clusters, the Dendrogram can
+be sliced at various heights.
+ Agglomerative
+ Initially each item in its own cluster.
+ Iteratively clusters are merged together.
+ Bottom Up
+ Divisive
+ Initially all items in one cluster.
+Q7
+ Large clusters are successively divided.
+CO-1; CO-
+ Top Down
+3; CO-1;   [5*4=20]
+Centroid based:
+CO-1; BL-2
+ It organizes the data into non-hierarchical clusters.
+ This technique uses centroids, the center of each cluster, to minimize
+the sum of the distances between the data points and their corresponding
+cluster centroids.
+ The data points are as close as possible to the center of the cluster and
+the inter-cluster distance is maximized.
+ Is ideal for datasets with easily separable, well-defined clusters and also
+suitable when the number of clusters is known or can be easily
+estimated.
+ Creates clusters in one step as opposed to several steps and further
+iterations refines the clusters formed.
+ Usually deals with static sets.
+ They suffer from a combinatorial explosion due to the number of
+possible solutions.
+ Real-world applications include image segmentation, Cyber profiling
+(an analysis on the digital footprints associated with a person whose
+identity may or may not have been known such as personality, motives
+etc. ), Insurance Fraud Detection, Malware detection (detect malware
+behavior of data based on the features of the malware) etc.
+b. Application of AI/ML in domain of cybersecurity
+AI is employed in:
+********** 11 **********
+--- page 12 ---
+ Threat detection and response by learning normal network
+behavior to identify anomalies.
+ Conducting behavioral   analysis   to   detect suspicious
+activities.
+ Enabling   real-time monitoring   for immediate   threat
+identification.
+Enhanced Threat Detection:
+ AI systems can analyze vast amounts of data quickly to
+identify anomalies and potential threats that might be missed
+by traditional methods.
+ This capability is crucial for identifying sophisticated and
+emerging threats in real time.
+ Ex: An AI-powered SIEM (Security Information and Event
+Management) platform detects an unusual login pattern from
+an employee’s account—accessing sensitive files at odd
+hours from an unrecognized IP address across multiple
+locations.
+c. Describe various stages in Machine Learning
+ Gathering Data
+ Preparing that data
+ Choosing a model
+ Training
+ Evaluation
+ Hyperparameter Tuning
+ Prediction
+d. Explain concept of Cost and loss function
+Loss Function:
+ The loss function, also known as the error function, measures how
+well a single prediction matches the actual value.
+ It quantifies the error or deviation of the predicted value from the true
+value for a single data point.
+ It helps in determining how much the model's prediction deviates
+from the actual value for each individual data point.
+Cost Function:
+ Is basically the calculation of the error between predicted values and
+expected values and presents it in the form of a single real number.
+ It is the average of error of n-sample in the data.
+ Is used during the training process to optimize the model. The goal of
+training is to minimize the cost function, which indicates that the
+model’s predictions are becoming closer to the actual values on
+average.
+ Ideal value of the Cost Function is 0 or somewhere closer to 0, that
+indicates a better model fit to the data.
+********** 12 **********
+--- page 13 ---
+ In order to get out ideal Cost Function, we can use Gradient technique
+(iterative optimization technique used to find the parameters that
+minimize the cost function).
+********** 13 **********
 ````

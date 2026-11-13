@@ -914,7 +914,7 @@ Treatment Plant
 @)/%
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper 6170456b17d7
+## 2022-23 · Final-Exam · Sem 9 · paper 6170456b17d7
 
 - Departments: Civil
 - Programmes: B.TECH INTEGRATED / CIVIL

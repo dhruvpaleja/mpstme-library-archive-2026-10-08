@@ -289,6 +289,90 @@ a 2
 04
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper 92b2837792b5
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/V SEMESTER/RADIATING SYSTEMS AND WAVE PROPGATION/Radiating systems and wave propagation Re-exam 17-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 January 2019
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+/ SVKM’S NMIMS__
+: MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Program: B.Tech/ MBA Tech (EXTC) Year: III Semester : V
+Academic Year: 2018-19
+Subject: Radiating Systems and Wave Propagation Marks: 70
+
+Time: 2.00 pm to 5.00 pm
+Date : 17 January 2019
+Durations: 3 (hrs)
+
+No. of Pages: OZ
+; Re-examination (2017-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume,Suitable data if necessary.
+
+Q.1 Attempt any four of the following.
+[14]
+A) An Antenna has field pattern given by
+E(@) = cos*(@) for 0° < @.< 90°. Find HPBW.
+B) Why Yagi-Uda antenna is suitable for point to point communication.
+C) Explain the significance of Maxwell’s Equation.
+D) What is Beam Solid angle? Show that its value is 4 7.
+@) Define Antenna array. Why Antenna array is used?
+&)) What are the sources of error in absolute method of Gain measurement?
+Q.2-A) Define Maximum usable frequency. Prove that fnur = fesecd. [7]
+B) What do you understand by Propagation loss? Derive FRISS Transmission equation. [7]
+
+Q.3-A) Draw the Structure of ionosphere and explain it.With the help of diagram explain Duct [7]
+propagation.
+B) Define effective aperture of Antenna. Deduce the relation between effective aperture and [7]
+directivity.
+
+Q.4-A) Compare a Monopole and Dipole antenna. Show that input impedance of half wave folded [7]
+
+dipole is 292 Q.
+B) Derive the expression for directivity of Broad side array. [7]
+
+Vy
+
+a
+--- page 2 ---
+Q.5-A) When a linear dipole is called as infinitesimal dipole? Compare Short dipole and half wave [7]
+Dipole. ;
+B) Explain the principle of Pattern multiplication. Compare Broad side array and End fire [7]
+array.
+
+Q.6-A) Design a five turn Helical antenna in the normal mode at 400Hz. The spacing between the [7]
+turns is 4/.9. The antenna possesses circular polarization. Determine the
+I. Circumference of the helix.
+Il. Length of the single turn.
+IH. Overall length of the helix.
+IV. Pitch angle in Degree.
+B) ‘With the help of diagram explain the working of Microstrip patch antenna. List its [7]
+advantages and disadvantages.
+
+Q.7-A) What are the method of measurement of antenna impedance? Explain slotted line Method. [7]
+B) List benefit of Smart antennas. Explain adaptive beam forming.
+
+[7]
+````
+
 ## 2017-18 · Final-Exam · Sem 5 · paper 4991aa983d39
 
 - Departments: Electronics and Telecommunication
@@ -472,88 +556,4 @@ b. -Phase measurement methods.
 c. Sources of error in antenna measurement.
 
 ge 2
-````
-
-## Year not stated · Re-Exam · Sem 5 · paper 92b2837792b5
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/V SEMESTER/RADIATING SYSTEMS AND WAVE PROPGATION/Radiating systems and wave propagation Re-exam 17-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 January 2019
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-/ SVKM’S NMIMS__
-: MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Program: B.Tech/ MBA Tech (EXTC) Year: III Semester : V
-Academic Year: 2018-19
-Subject: Radiating Systems and Wave Propagation Marks: 70
-
-Time: 2.00 pm to 5.00 pm
-Date : 17 January 2019
-Durations: 3 (hrs)
-
-No. of Pages: OZ
-; Re-examination (2017-18/ 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume,Suitable data if necessary.
-
-Q.1 Attempt any four of the following.
-[14]
-A) An Antenna has field pattern given by
-E(@) = cos*(@) for 0° < @.< 90°. Find HPBW.
-B) Why Yagi-Uda antenna is suitable for point to point communication.
-C) Explain the significance of Maxwell’s Equation.
-D) What is Beam Solid angle? Show that its value is 4 7.
-@) Define Antenna array. Why Antenna array is used?
-&)) What are the sources of error in absolute method of Gain measurement?
-Q.2-A) Define Maximum usable frequency. Prove that fnur = fesecd. [7]
-B) What do you understand by Propagation loss? Derive FRISS Transmission equation. [7]
-
-Q.3-A) Draw the Structure of ionosphere and explain it.With the help of diagram explain Duct [7]
-propagation.
-B) Define effective aperture of Antenna. Deduce the relation between effective aperture and [7]
-directivity.
-
-Q.4-A) Compare a Monopole and Dipole antenna. Show that input impedance of half wave folded [7]
-
-dipole is 292 Q.
-B) Derive the expression for directivity of Broad side array. [7]
-
-Vy
-
-a
---- page 2 ---
-Q.5-A) When a linear dipole is called as infinitesimal dipole? Compare Short dipole and half wave [7]
-Dipole. ;
-B) Explain the principle of Pattern multiplication. Compare Broad side array and End fire [7]
-array.
-
-Q.6-A) Design a five turn Helical antenna in the normal mode at 400Hz. The spacing between the [7]
-turns is 4/.9. The antenna possesses circular polarization. Determine the
-I. Circumference of the helix.
-Il. Length of the single turn.
-IH. Overall length of the helix.
-IV. Pitch angle in Degree.
-B) ‘With the help of diagram explain the working of Microstrip patch antenna. List its [7]
-advantages and disadvantages.
-
-Q.7-A) What are the method of measurement of antenna impedance? Explain slotted line Method. [7]
-B) List benefit of Smart antennas. Explain adaptive beam forming.
-
-[7]
 ````

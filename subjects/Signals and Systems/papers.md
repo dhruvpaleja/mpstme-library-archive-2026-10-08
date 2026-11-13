@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CyberSecurity_7010/Signals and Systems/QP_Signals and Systems(702EX0C029)_2025-2026.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -118,6 +119,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_EXTC_7006/Signals and Systems/QP_Signals and Systems(702EX0C029)_2025-2026_8883c31089.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1225,131 +1227,7 @@ Page 3 of 3
 
 ````
 
-## 2023-24 · Re-Exam · Sem 3 · paper addc23da32c1
-
-- Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/Signals & Systems , Re-exam 2022-23,2023-24.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 80.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT ;
-
-Academic Year: 2023-2024
-
-i
-
-¥
-
-Program/s: B.Tech/ MBA Tech Year: It Semester: Il [ Vv
-
-Stream/s ; EXTC/IT/ CSE-Cyber Security ] Mechatwo nics
-
-Subject: Signals & Systems ; Time: 02 _hrs({0 amto | pm_)
-| Date: 08 [02 ]:2094 , No. of Pages: 2
-
-Marks: 100 : ;
-
-net. Re-Examination (2023-24 / 2022-23 )
-
-Instructions: Candidates should read carefully the instructions printed on the quéstion paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks. .
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: pit
-a. | Explain the following signals with their mathematical function
-CO-1, SO-2, (i) ‘Unit Step
-
-oa (ii) Unit Ramp [5]
-(iii) Unit Impulse
-(iv) Triangular signal
-
-oO ee b. | Check if the given sinusoid is periodic signal with period 10 [5]
-BL-5 x[n] = 4 cos(0.57 n)
-con c. | Determine the Z Transform & ROC of the following sequence (5]
-SO-1, BL-5 x(n)={1,2,3,4,5}
-any SO-I, | d. | Explain the Dirichlet conditions. (5]
-a. | Test the following systems for linearity: [10] LL
-am 1. y(t) =tx(t)
-CO-2, $O-1,
-BL-6 2. y(t) = x(t?)
-
-Page 1 of 3
---- page 2 ---
-b. | Obtain the convolution of the signals given below , {10]
-
-h(t
-CE) )
-CO-2;
-SO-2;BL-5
-a. | Determine exponential Fourier series for given periodic signal [10]
-Q3 ac{+)
-
-CO-3; SO-1;
-
-ors VIVA
-1 22
-
-—-3-~%-l o
-
-b. | Check whether the following systems are time invariant or not. [10]
-
-cO-2; =
-§0-1,8-2,5 l. y(t) = x(t).cos wt
-2. y[n] = x[n?]
-a. | Let, X(S) = L{x(t)}. Compute the initial value, x(0) and the final value, x(00), for the [10]
-following signals
-Q4 8 slg .
-Co-3; 1. X(S)= s(s—1)
-SO-1; BL-S
-7S+6
-z. 2(8)= s(3s+5) ;
-b. | Calculate the inverse Laplace transform for the following transfer function. [10]
-cO-3; 1
-SO-1; BL-6 zis) = S(s+1)(s+2)
-Qs 4. | Obtain Fourier transform of given signal by applying properties of FT [10]
-co-3; _ of
-50-1; BES x(t) = sinwgt
-b. | Find the Z transform and ROC of following infinite length sequence (10]
-CcO-4;
-° xX =-u(-n-l 3 yn
-conus (@ — X()=-uC-n-1) (ii) x(n)=a"u(n)
-
-Page 2 of 3
---- page 3 ---
-Q6 a. : {10]
-Compute the Fourier transform of the signal x(t)=e™ u(t), a>0, plot the
-
-CO-3; SO-1; .
-ais magnitude and phase spectrum.
-CO-3; b. | List and explain properties of region of convergence (ROC) for Laplace [10]
-50-1:BL-5 transform. 7
-
-a. | Determine the impulse response of given system ; [10]
-Q7 2 ,
-
-d*y(t dy(t dx(t
-
-co-3; = ) + Pa + 3y(t) = ae + 2x(t)
-$O-1; BL-S f f
-cO-3; b. |. : : [10]
-50-1816 Discuss the properties of region of convergence (ROC) for Z-transform.
-
-Page 3 of 3
-````
-
-## 2022-23 · Final + Re-Exam · Sem 3 · paper 2f07f6a6c8eb
+## 2023-24 · Final + Re-Exam · Sem 3 · paper 2f07f6a6c8eb
 
 - Departments: Information Technology
 - Programmes: B TECH / I T, MBA TECH / I T
@@ -1475,6 +1353,384 @@ SO-1;BL-5
 2. X(z) = (1+22-1-3z72)
 
 Page 3 of 3
+````
+
+## 2023-24 · Re-Exam · Sem 3 · paper addc23da32c1
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/Signals & Systems , Re-exam 2022-23,2023-24.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 80.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT ;
+
+Academic Year: 2023-2024
+
+i
+
+¥
+
+Program/s: B.Tech/ MBA Tech Year: It Semester: Il [ Vv
+
+Stream/s ; EXTC/IT/ CSE-Cyber Security ] Mechatwo nics
+
+Subject: Signals & Systems ; Time: 02 _hrs({0 amto | pm_)
+| Date: 08 [02 ]:2094 , No. of Pages: 2
+
+Marks: 100 : ;
+
+net. Re-Examination (2023-24 / 2022-23 )
+
+Instructions: Candidates should read carefully the instructions printed on the quéstion paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks. .
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: pit
+a. | Explain the following signals with their mathematical function
+CO-1, SO-2, (i) ‘Unit Step
+
+oa (ii) Unit Ramp [5]
+(iii) Unit Impulse
+(iv) Triangular signal
+
+oO ee b. | Check if the given sinusoid is periodic signal with period 10 [5]
+BL-5 x[n] = 4 cos(0.57 n)
+con c. | Determine the Z Transform & ROC of the following sequence (5]
+SO-1, BL-5 x(n)={1,2,3,4,5}
+any SO-I, | d. | Explain the Dirichlet conditions. (5]
+a. | Test the following systems for linearity: [10] LL
+am 1. y(t) =tx(t)
+CO-2, $O-1,
+BL-6 2. y(t) = x(t?)
+
+Page 1 of 3
+--- page 2 ---
+b. | Obtain the convolution of the signals given below , {10]
+
+h(t
+CE) )
+CO-2;
+SO-2;BL-5
+a. | Determine exponential Fourier series for given periodic signal [10]
+Q3 ac{+)
+
+CO-3; SO-1;
+
+ors VIVA
+1 22
+
+—-3-~%-l o
+
+b. | Check whether the following systems are time invariant or not. [10]
+
+cO-2; =
+§0-1,8-2,5 l. y(t) = x(t).cos wt
+2. y[n] = x[n?]
+a. | Let, X(S) = L{x(t)}. Compute the initial value, x(0) and the final value, x(00), for the [10]
+following signals
+Q4 8 slg .
+Co-3; 1. X(S)= s(s—1)
+SO-1; BL-S
+7S+6
+z. 2(8)= s(3s+5) ;
+b. | Calculate the inverse Laplace transform for the following transfer function. [10]
+cO-3; 1
+SO-1; BL-6 zis) = S(s+1)(s+2)
+Qs 4. | Obtain Fourier transform of given signal by applying properties of FT [10]
+co-3; _ of
+50-1; BES x(t) = sinwgt
+b. | Find the Z transform and ROC of following infinite length sequence (10]
+CcO-4;
+° xX =-u(-n-l 3 yn
+conus (@ — X()=-uC-n-1) (ii) x(n)=a"u(n)
+
+Page 2 of 3
+--- page 3 ---
+Q6 a. : {10]
+Compute the Fourier transform of the signal x(t)=e™ u(t), a>0, plot the
+
+CO-3; SO-1; .
+ais magnitude and phase spectrum.
+CO-3; b. | List and explain properties of region of convergence (ROC) for Laplace [10]
+50-1:BL-5 transform. 7
+
+a. | Determine the impulse response of given system ; [10]
+Q7 2 ,
+
+d*y(t dy(t dx(t
+
+co-3; = ) + Pa + 3y(t) = ae + 2x(t)
+$O-1; BL-S f f
+cO-3; b. |. : : [10]
+50-1816 Discuss the properties of region of convergence (ROC) for Z-transform.
+
+Page 3 of 3
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper f84a77655704
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/SIGNAL AND SYSTEMS/Signals & Systems , Re-exam 2021-2022.pdf` (+1 identical copies)
+- Text: ocr (3 pages), mean OCR confidence 78.1
+
+````text
+pape:
+MPSTM:
+
+SVKM’S NMIMS WIBRAR’
+
+Academic Year: 2023-24
+
+Program: B Tech/ MBA Tech Stream ; IT ; Year: II Semester: _IV.
+
+Subject: Signals & Systems_ —— - ; Time: 3 _ hrs (104m to_1P_)
+Date:_22 / 06 / 2024 No. of Pages:__3___
+
+Marks: __100
+
+Re-Examination (Batch 2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and.on ihe cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [4x5=20]
+CO-1; SO-1; a. | Determine whether the signal x(t) = e“ u(t), a> 0 is energy signal or power [4]
+BL-5 signal.
+CO- 3; SO-1; b. | Explain Dirichlet’s conditions for Fourier series. [4]
+BL-2
+| CO- 1; $O-1; C Explain the relationship between Z transform and Fourier transform? [4]
+BL-2
+d. | Determine the Laplace Transform of the following signals using appropriate
+CO- 3; SO-1; properties. [4]
+BLS (i) 8(t-5)
+Gi) u(t-5)
+CO-4; SO-1; é Find the z-transform & its associated ROC for x(n) = M1238 900:7) [4]
+BL-1 :
+
+Q2C0-2;S0- | a. | Determine the output of LTI system when input applied is x(n) = [1,2,3,4] and [10]
+
+1; BL- 5 impulse response h(n) = [1, -1,1] using graphical method of convolution.
+b. ‘
+Determine the trigonometric fourier series for the given sawtooth wave shown
+CO-2; SO-1; in fi [10]
+BLS in fig.
+--- page 2 ---
+Q3C0-4;S0- | a. | Determine the Fourier transform for the given signal [10]
+
+1; BL-5
+x(t) = elt! Also sketch its magnitude and phase spectrum.
+
+b. | Examine whether the signals are periodic or not. If so, find the fundamental
+CO-2; SO-1; period.
+BL-4 (i) x(t sin (15x) {10}
+(ii) x(t) = 2cos(10mt + a)
+
+a. | Determine the Laplace transform and ROC for the following signals.
+
+4 €0-3; SO- (i) —-x(t)=e* u(t) + e* fo [10]
+ages Gi) x0=3- Be
+
+CO-3; SO-1; b. | Discuss the Properties of Region of convergence for Z- Transform. [10]
+BL-6
+
+a. | A system is described by the following input output relationship as
+
+y(n) = x(n— No)
+Analyse the following system properties
+
+Q5 CO-1; SO-
+BLA (i) Stability [10]
+a (ii) Causality
+(iii) Linearity
+(iv) Time-invariance
+(v) Memory
+CO-4; SO-1; b. | Explain time shifting and differentiation property of Fourier transform. [10]
+BL-1
+Q6 a. | Determine the inverse Laphae transform for the following transfer function.
+' 2425-2 10
+©03;80-1 XS)= Sey —- ROC: Rets)>3 _
+
+BL-5 ‘
+--- page 3 ---
+For given
+
+_ z(z*—4z+5)
+XO) = Gae-veD |
+0-4: 80a: Determine x(n) using partial fraction method of inverse z-transform for the :
+aie following ROC. ah [10]
+BL-5 ,
+(i) 2<|Z|<3,
+(ii) |Z>3
+(iii) |Z|<1
+Determine the impulse response of the system described by difference
+hare ie 80-1; equation [10]
+y(n) — 3y(n— 1) — 4y(n— 2) = x(n) + 2x(n—- 1)
+using z-transform.
+Compare
+{ “ry 80-1; (i) Trigonometric and Exponential Fourier series. [10]
+° (ii) Energy and power signal.
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper 0199dc6b1955
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/SIGNAL AND SYSTEMS/Signals & Systems, Sem-IV, Re Exam Batch 2021-22.pdf` (+1 identical copies)
+- Text: ocr (3 pages), mean OCR confidence 79.4
+
+````text
+yy
+
+WSIITUTE OFS
+Shas
+“i
+
+SVKM’S NMIMS
+
+EERING
+Cina ee BY
+UNIVERSIN #22
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& E
+
+Academic Year: 2023-24
+
+Program: _B Tech/ MBA Tech Stream ; IT Year: II__ Semester: IV.
+
+Subject: Signals & Systems_ _ Time: 3 _ hrs (40am to Lm )
+
+Date: 22 /0% / ZOZ4 No. of Pages:_0 3
+
+Marks: __ 100
+Re-Examination (Batch 2021-22)
+over
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the c
+(>. of the Answer Book, which is provided for their use. ;
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4___ questions.
+
+3) In all___5_ questions to be attempted. ;
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [4x5=20] |
+CO-2; SO-1; | a Analyse whether the given system y(n) = nx(n) is linear, time invariant and [4]
+BL-4 static.
+b. Determine the four ier transform for the following signal 4
+CO- 3; SO-1; [4]
+BL-5 x(t) = (6 b(t 1) + 4(t- 1) +6(e+ s)+0e-D
+oO CO-2;S0-1; | ¢ Explain the dirichlet’s condition for existence of Fourier series. (4]
+BL-2
+CO-3;S0-1; | 4. Explain bilateral and unilateral laplace transform. [4]
+BL-5
+C0-4;$0-1; | & Determine the z-transform and ROC of x(n)= a". [4]
+BL-5 :
+Q2 CO-2; a. Determine the convolution of x(t) = u(t) — u(t-1) and no) = u(t) — u(t-2) using
+$O-1; BL- 5 graphical method of convolution. [10]
+b. Solve for the trigonometric fourier series representation of a periodic square
+CO-2; SO-1; wave fl 0]
+BL-3 ° (t) = { 1 for interval (0,7)
+X= 10 for interval (1, 27)
+--- page 2 ---
+Q3 a. Determine the Fourier transform of x(t) = e “a >0. Sketch its magnitude
+
+response as well. ; [10]
+CO-3; SO-1; 7 #)
+BL-5 :
+co-1:so-1: | > Determine the energy and power of the following signals:
+an @) x(t) = e**u(t) [10]
+
+(ii) x(t) = 20cos2nt
+
+a. AnLTI system generates the output
+y@) = @* —e u(t)
+Q4C0-3; in response to the input oe _ ;
+S0-1; BL-S x(t) = eu) oe BO]
+(i) Determine the impulse response of the system
+
+(ii) Sketch the magnitude and phase response.
+
+CO-3; 80-1; | b. Discuss the Properties of Region of convergence for Laplace Transform. [10]
+BL-6
+
+QS5CO-1; a. Find the odd and even components of the signal [10]
+SO-1; BL-1 (i) cost + sint + cost sint.
+
+(ii) x(n)={1,2,2,3,4}.
+b. A causal discrete time LTI system is described by
+3 1
+yn) - 7 YM-1+ 5 y(n-2)=x(n)
+CO-4; SO-1; 110]
+BL-5 where x(n) and y(n) are the input and the output of the system respectively.
+(i) Determine the system function H(z) for causal system function.
+(ii) Determine the impulse response h(n) of the system.
+2 =
+Q6 a. Consider the following function X(s) = a
+S(S+2)(s—3) [10]
+
+CO-3; SO-1;
+
+BL-5 Determine the inverse laplace transform if the ROC is Re(s)>3.
+
+b. For given
+_ (+2)
+
+CO-4; $0-1; XQ) = rea om
+BL-5
+
+Determine x(n) using partial fraction method of inverse z-transform for
+
+@ — |ZP3
+--- page 3 ---
+0 A.
+Gi) st
+
+(ii) $<|zl<3 !
+
+° a. Determine the z-transform and ROC for the given signals
+7
+co-4 $0-1; (i) x(n) = 2"u(n) + 3()"u(n) [10]
+Gi) x(n) = 3(-3)"u(n) - 2)"uC-n- 1)
+b. (i) Explain the necessary and sufficient condition on impulse response for [05]
+stability of a causal LTI systems.
+(ii) Explain and prove the time shifting property and linearity property of
+en00-2.3 fourier transform. ; [05]
+SO-1; BL-2
+O
 ````
 
 ## 2022-23 · Final-Exam · Sem 3 · paper 96a94f420134
@@ -1764,6 +2020,123 @@ of Laplace Transform. Also Sketch the ROC.
 CO-2 ; (i) x(t) = te~*tu(t)
 SO-1 ; 7 _ 4) — et [10]
 BL-3 (ii) x(t) = u(t + 4) — e*u(t)
+````
+
+## 2022-23 · Re-Exam · Sem 4 · paper 00d483f28f6a
+
+- Departments: Cyber Security, Information Technology
+- Programmes: B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/SIGNAL AND SYSTEMS/Signals & Systems, Sem-IV, Batch 2021-22, Re Exam.pdf` (+3 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 83.0
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
+Academic Year: 2022-2023
+Program: _B Tech/ MBA Tech Stream ; IT/ CSE-Cyber Security Year: I] Semester: __1V
+
+Subject: Signals & Systems_ Time: __3__ hrs @e:eoamto 400 pm)
+
+Date:_26 /06 / 2023 No. of Pages: 03
+Marks: 100
+Re-Examination (Batch 2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+o
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+Ql Answer briefly: [4x5=20]
+
+a. Explain the following signals with their mathematical function
+(i) Unit Step
+CO-1; SO-1; (i) Unit Ramp [4]
+BL-2 (ili) Unit Impulse
+(iv) Signum function
+r™
+
+CO- 3; $0-1; | b. Explain time shifting property of fourier transform. [4]
+BL-2
+CO- 1;$0-1; | & A signal x(t) = cos 2z ft is passed through a device whose input-output is [4]
+BL-2 related by y(t) = x? (t). What are the frequency components in the output?
+CO- 3; SO-1; | d. Compute Laplace transform of x(t) = e~2° u(t) + e~?! u(t). [4]
+BL-3
+CO-4;SO-1; | & Compute the z-transform and ROC of x(n)= u(n). [4]
+BL-3
+Q2 CO-2; a. Compute the convolution of x(t) = u(t) — u(t-3) and h(t) = 2u(t+1) — 2u(t-1)
+SO-1; BL- 3 using graphical method of convolution. [10]
+--- page 2 ---
+b.
+
+Calculate the trigonometric CTFS coefficients of the periodic signal x(t)
+defined over one period To= 3 as follows:
+
+’ . .
+x= { +1 -1st<1
+
+0 1<t<2 i
+CO-2; SO-1; x(t) iN]
+BL-3
+AAA
+aPAVADADAWAWA >
+-8 -6 -4 -2 0 2 4 6 8 10
+Q3CO-4: a. Determine the z transform and plot the ROC for the sequence.
+; [10]
+80-1; BL-3 x(n)= a" u(n) — b" u(n), b>a
+co-2:so-1. | >: Determine whether the following signals are energy signals, power signals,
+er, . , neither energy nor power signals. [10]
+: (i) x(t) = e~7* u(t)
+(ii) x(t) = t u(t)
+. a. Compute the Laplace transform and ROC for the following signals.
+Q4 CO-3; F
+(i) x(t) = u(t) [10]
+SO-1; BL-3 (i) x(t) = te* u(t)
+CO-3; SO-1; | b. Discuss the Properties of Region of convergence for Laplace transform. [10]
+BL-2
+Q5CO-1; a. Sketch the following signal and extract even and odd components from the
+; ; signal [10]
+sO, Bis x[n}= u[n] + 2u[n] + 3u[n-4] - u[n-5]
+CO-4; SO-1; | b. Compute the Fourier transform of the signal x(t)=e“ u(t), a >0, plot the [10]
+BL-3 Magnitude and Phase Spectrum.
+Q6 & Calculate the inverse Laplace transform for the following transfer function.
+___(s+3) [10]
+CO-3; SO-1; X(S) S(s+1)(s+2)
+BL-3
+b. For given
+Se 4
+CO-4; SO-1; X(Z) = (Z—1)(Z-2)(Z—3) [10]
+BL-3
+
+Compute x(n) using partial fraction method of inverse z-transform for the
+following ROC.
+
+an
+--- page 3 ---
+(i) |Z|> 3,
+
+(ii) 3>|Z/>2
+
+(iii) |Z|<1
+Q7CO-4; a. Discuss various types of systems [10]
+SO-1; BL-3
+CO-2;SO-1; | b. Briefly explain the three forms of Fourier series. [10]
+
+BL-3
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper 0e1c6eb26ce1
@@ -2187,377 +2560,6 @@ h3(n) = 6(n) + 26(n-1) + 38(n-2),
 ha(n) = 28(n) + 6(n-1) + 26(n-2)
 
 Cue)
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper 00d483f28f6a
-
-- Departments: Cyber Security, Information Technology
-- Programmes: B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/SIGNAL AND SYSTEMS/Signals & Systems, Sem-IV, Batch 2021-22, Re Exam.pdf` (+3 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 83.0
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
-Academic Year: 2022-2023
-Program: _B Tech/ MBA Tech Stream ; IT/ CSE-Cyber Security Year: I] Semester: __1V
-
-Subject: Signals & Systems_ Time: __3__ hrs @e:eoamto 400 pm)
-
-Date:_26 /06 / 2023 No. of Pages: 03
-Marks: 100
-Re-Examination (Batch 2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-o
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-Ql Answer briefly: [4x5=20]
-
-a. Explain the following signals with their mathematical function
-(i) Unit Step
-CO-1; SO-1; (i) Unit Ramp [4]
-BL-2 (ili) Unit Impulse
-(iv) Signum function
-r™
-
-CO- 3; $0-1; | b. Explain time shifting property of fourier transform. [4]
-BL-2
-CO- 1;$0-1; | & A signal x(t) = cos 2z ft is passed through a device whose input-output is [4]
-BL-2 related by y(t) = x? (t). What are the frequency components in the output?
-CO- 3; SO-1; | d. Compute Laplace transform of x(t) = e~2° u(t) + e~?! u(t). [4]
-BL-3
-CO-4;SO-1; | & Compute the z-transform and ROC of x(n)= u(n). [4]
-BL-3
-Q2 CO-2; a. Compute the convolution of x(t) = u(t) — u(t-3) and h(t) = 2u(t+1) — 2u(t-1)
-SO-1; BL- 3 using graphical method of convolution. [10]
---- page 2 ---
-b.
-
-Calculate the trigonometric CTFS coefficients of the periodic signal x(t)
-defined over one period To= 3 as follows:
-
-’ . .
-x= { +1 -1st<1
-
-0 1<t<2 i
-CO-2; SO-1; x(t) iN]
-BL-3
-AAA
-aPAVADADAWAWA >
--8 -6 -4 -2 0 2 4 6 8 10
-Q3CO-4: a. Determine the z transform and plot the ROC for the sequence.
-; [10]
-80-1; BL-3 x(n)= a" u(n) — b" u(n), b>a
-co-2:so-1. | >: Determine whether the following signals are energy signals, power signals,
-er, . , neither energy nor power signals. [10]
-: (i) x(t) = e~7* u(t)
-(ii) x(t) = t u(t)
-. a. Compute the Laplace transform and ROC for the following signals.
-Q4 CO-3; F
-(i) x(t) = u(t) [10]
-SO-1; BL-3 (i) x(t) = te* u(t)
-CO-3; SO-1; | b. Discuss the Properties of Region of convergence for Laplace transform. [10]
-BL-2
-Q5CO-1; a. Sketch the following signal and extract even and odd components from the
-; ; signal [10]
-sO, Bis x[n}= u[n] + 2u[n] + 3u[n-4] - u[n-5]
-CO-4; SO-1; | b. Compute the Fourier transform of the signal x(t)=e“ u(t), a >0, plot the [10]
-BL-3 Magnitude and Phase Spectrum.
-Q6 & Calculate the inverse Laplace transform for the following transfer function.
-___(s+3) [10]
-CO-3; SO-1; X(S) S(s+1)(s+2)
-BL-3
-b. For given
-Se 4
-CO-4; SO-1; X(Z) = (Z—1)(Z-2)(Z—3) [10]
-BL-3
-
-Compute x(n) using partial fraction method of inverse z-transform for the
-following ROC.
-
-an
---- page 3 ---
-(i) |Z|> 3,
-
-(ii) 3>|Z/>2
-
-(iii) |Z|<1
-Q7CO-4; a. Discuss various types of systems [10]
-SO-1; BL-3
-CO-2;SO-1; | b. Briefly explain the three forms of Fourier series. [10]
-
-BL-3
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper f84a77655704
-
-- Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/SIGNAL AND SYSTEMS/Signals & Systems , Re-exam 2021-2022.pdf` (+1 identical copies)
-- Text: ocr (3 pages), mean OCR confidence 78.1
-
-````text
-pape:
-MPSTM:
-
-SVKM’S NMIMS WIBRAR’
-
-Academic Year: 2023-24
-
-Program: B Tech/ MBA Tech Stream ; IT ; Year: II Semester: _IV.
-
-Subject: Signals & Systems_ —— - ; Time: 3 _ hrs (104m to_1P_)
-Date:_22 / 06 / 2024 No. of Pages:__3___
-
-Marks: __100
-
-Re-Examination (Batch 2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and.on ihe cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [4x5=20]
-CO-1; SO-1; a. | Determine whether the signal x(t) = e“ u(t), a> 0 is energy signal or power [4]
-BL-5 signal.
-CO- 3; SO-1; b. | Explain Dirichlet’s conditions for Fourier series. [4]
-BL-2
-| CO- 1; $O-1; C Explain the relationship between Z transform and Fourier transform? [4]
-BL-2
-d. | Determine the Laplace Transform of the following signals using appropriate
-CO- 3; SO-1; properties. [4]
-BLS (i) 8(t-5)
-Gi) u(t-5)
-CO-4; SO-1; é Find the z-transform & its associated ROC for x(n) = M1238 900:7) [4]
-BL-1 :
-
-Q2C0-2;S0- | a. | Determine the output of LTI system when input applied is x(n) = [1,2,3,4] and [10]
-
-1; BL- 5 impulse response h(n) = [1, -1,1] using graphical method of convolution.
-b. ‘
-Determine the trigonometric fourier series for the given sawtooth wave shown
-CO-2; SO-1; in fi [10]
-BLS in fig.
---- page 2 ---
-Q3C0-4;S0- | a. | Determine the Fourier transform for the given signal [10]
-
-1; BL-5
-x(t) = elt! Also sketch its magnitude and phase spectrum.
-
-b. | Examine whether the signals are periodic or not. If so, find the fundamental
-CO-2; SO-1; period.
-BL-4 (i) x(t sin (15x) {10}
-(ii) x(t) = 2cos(10mt + a)
-
-a. | Determine the Laplace transform and ROC for the following signals.
-
-4 €0-3; SO- (i) —-x(t)=e* u(t) + e* fo [10]
-ages Gi) x0=3- Be
-
-CO-3; SO-1; b. | Discuss the Properties of Region of convergence for Z- Transform. [10]
-BL-6
-
-a. | A system is described by the following input output relationship as
-
-y(n) = x(n— No)
-Analyse the following system properties
-
-Q5 CO-1; SO-
-BLA (i) Stability [10]
-a (ii) Causality
-(iii) Linearity
-(iv) Time-invariance
-(v) Memory
-CO-4; SO-1; b. | Explain time shifting and differentiation property of Fourier transform. [10]
-BL-1
-Q6 a. | Determine the inverse Laphae transform for the following transfer function.
-' 2425-2 10
-©03;80-1 XS)= Sey —- ROC: Rets)>3 _
-
-BL-5 ‘
---- page 3 ---
-For given
-
-_ z(z*—4z+5)
-XO) = Gae-veD |
-0-4: 80a: Determine x(n) using partial fraction method of inverse z-transform for the :
-aie following ROC. ah [10]
-BL-5 ,
-(i) 2<|Z|<3,
-(ii) |Z>3
-(iii) |Z|<1
-Determine the impulse response of the system described by difference
-hare ie 80-1; equation [10]
-y(n) — 3y(n— 1) — 4y(n— 2) = x(n) + 2x(n—- 1)
-using z-transform.
-Compare
-{ “ry 80-1; (i) Trigonometric and Exponential Fourier series. [10]
-° (ii) Energy and power signal.
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper 0199dc6b1955
-
-- Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/SIGNAL AND SYSTEMS/Signals & Systems, Sem-IV, Re Exam Batch 2021-22.pdf` (+1 identical copies)
-- Text: ocr (3 pages), mean OCR confidence 79.4
-
-````text
-yy
-
-WSIITUTE OFS
-Shas
-“i
-
-SVKM’S NMIMS
-
-EERING
-Cina ee BY
-UNIVERSIN #22
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& E
-
-Academic Year: 2023-24
-
-Program: _B Tech/ MBA Tech Stream ; IT Year: II__ Semester: IV.
-
-Subject: Signals & Systems_ _ Time: 3 _ hrs (40am to Lm )
-
-Date: 22 /0% / ZOZ4 No. of Pages:_0 3
-
-Marks: __ 100
-Re-Examination (Batch 2021-22)
-over
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the c
-(>. of the Answer Book, which is provided for their use. ;
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4___ questions.
-
-3) In all___5_ questions to be attempted. ;
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [4x5=20] |
-CO-2; SO-1; | a Analyse whether the given system y(n) = nx(n) is linear, time invariant and [4]
-BL-4 static.
-b. Determine the four ier transform for the following signal 4
-CO- 3; SO-1; [4]
-BL-5 x(t) = (6 b(t 1) + 4(t- 1) +6(e+ s)+0e-D
-oO CO-2;S0-1; | ¢ Explain the dirichlet’s condition for existence of Fourier series. (4]
-BL-2
-CO-3;S0-1; | 4. Explain bilateral and unilateral laplace transform. [4]
-BL-5
-C0-4;$0-1; | & Determine the z-transform and ROC of x(n)= a". [4]
-BL-5 :
-Q2 CO-2; a. Determine the convolution of x(t) = u(t) — u(t-1) and no) = u(t) — u(t-2) using
-$O-1; BL- 5 graphical method of convolution. [10]
-b. Solve for the trigonometric fourier series representation of a periodic square
-CO-2; SO-1; wave fl 0]
-BL-3 ° (t) = { 1 for interval (0,7)
-X= 10 for interval (1, 27)
---- page 2 ---
-Q3 a. Determine the Fourier transform of x(t) = e “a >0. Sketch its magnitude
-
-response as well. ; [10]
-CO-3; SO-1; 7 #)
-BL-5 :
-co-1:so-1: | > Determine the energy and power of the following signals:
-an @) x(t) = e**u(t) [10]
-
-(ii) x(t) = 20cos2nt
-
-a. AnLTI system generates the output
-y@) = @* —e u(t)
-Q4C0-3; in response to the input oe _ ;
-S0-1; BL-S x(t) = eu) oe BO]
-(i) Determine the impulse response of the system
-
-(ii) Sketch the magnitude and phase response.
-
-CO-3; 80-1; | b. Discuss the Properties of Region of convergence for Laplace Transform. [10]
-BL-6
-
-QS5CO-1; a. Find the odd and even components of the signal [10]
-SO-1; BL-1 (i) cost + sint + cost sint.
-
-(ii) x(n)={1,2,2,3,4}.
-b. A causal discrete time LTI system is described by
-3 1
-yn) - 7 YM-1+ 5 y(n-2)=x(n)
-CO-4; SO-1; 110]
-BL-5 where x(n) and y(n) are the input and the output of the system respectively.
-(i) Determine the system function H(z) for causal system function.
-(ii) Determine the impulse response h(n) of the system.
-2 =
-Q6 a. Consider the following function X(s) = a
-S(S+2)(s—3) [10]
-
-CO-3; SO-1;
-
-BL-5 Determine the inverse laplace transform if the ROC is Re(s)>3.
-
-b. For given
-_ (+2)
-
-CO-4; $0-1; XQ) = rea om
-BL-5
-
-Determine x(n) using partial fraction method of inverse z-transform for
-
-@ — |ZP3
---- page 3 ---
-0 A.
-Gi) st
-
-(ii) $<|zl<3 !
-
-° a. Determine the z-transform and ROC for the given signals
-7
-co-4 $0-1; (i) x(n) = 2"u(n) + 3()"u(n) [10]
-Gi) x(n) = 3(-3)"u(n) - 2)"uC-n- 1)
-b. (i) Explain the necessary and sufficient condition on impulse response for [05]
-stability of a causal LTI systems.
-(ii) Explain and prove the time shifting property and linearity property of
-en00-2.3 fourier transform. ; [05]
-SO-1; BL-2
-O
 ````
 
 ## 2021-22 · Re-Exam · Sem 4 · paper 39bbdbb01981
@@ -3080,6 +3082,203 @@ hs
 07
 ````
 
+## 2019-20 · Re-Exam · Sem 3 · paper 45edb7dc564f
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNAL AND SYSTEMES B TECH (EXTC), 2017-18_2018-19_RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 14 November 2019
+- Text: ocr (2 pages), mean OCR confidence 87.9
+
+````text
+SVKM’s NMIMS
+. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (EXTC) Year: II Semester: III
+
+Academic Year: 2019-20
+
+Subject: Signals and Systems
+7
+
+Date: 14 November 2019
+
+v
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Attempt Any four of the following
+
+a. | What is signal? Verify whether the following continuous time signals are periodic. If [3.5]
+periodic, find the fundamental period. (1) x(t)= 2 cos . (2) x(t)= 3 cos(St +e )
+b. | Determine the range of values of ‘a’ and ‘b’ for the stability of LTI system with impulse | [3.5]
+Ql. response
+h(t) = e*.u(t) + e © u(t)
+c. | What are Dirichlet conditions of Fourier Transform? [3.5]
+d. | Derive the relation between Fourier and Laplace Transform. [3.5]
+e. | What are properties of ROC of Laplace Transform? [3.5]
+f. | Derive the relation between Laplace Transform and Z-Transform. [3.5]
+a. | Determine the power and energy for the following continuous time signals. [5]
+
+02. (1) x(t)=e* u(t) (2) x(t)= 3 cosSwt
+
+b. | A discrete time system can be (1) static or dynamic (2) linear or non-linear (3) time
+variant on time invariant (4) causal or non-causal (5) stable or unstable. Examine the
+following system with respect to the above properties: y(n)= cos[x(n)]
+
+[5]
+
+c. | Prove the following property for LTI System
+(1) Distributive (2) Commutative
+
+[4]
+
+G3 | a. | Obtain the Linear Convolution of the following signal of x(n)={1,2,3,4} and
+h(n)={1,-3,2,-1}
+
+[5]
+
+page
+--- page 2 ---
+Q3. | b. | Determine the trigonometric form of Fourier series of the waveform shown in figure [9] -
+
+4
+: ACE)
+Att
+A
+—-
+z . +
+< a: 0 >
+tfial PEt a
+a. | Write short note on Gibb’s phenomenon. “ [5]
+Q4. |b. | State & Prove Time shifting and Time scaling property of Continuous Time Fourier [6]
+Transform.
+c. | Determine the Fourier Transform of the rectangular pulse shown in figure [3]
+AKG,
+!
+g ++
+-T oO TF
+a. | State & Prove Time differentiation and Time integration property of Laplace Transform. [8]
+
+Q5. | b. | Perform the convolution of Xi(t)= u(t+5) and X2 (t)= 6 (t-7) using convolution theorem of | [6]
+Laplace transform.
+
+a. | State & prove Initial value theorem of Laplace Transform. [4]
+Q6. | b. | State & prove convolution theorem of Z-Transform. [6]
+c. | Find the one sided Z-Transform of the x(n)=n a"), [4]
+a. 3 : (z—4) 7,
+Determine inverse Z transform of Gpe-pe 7]
+
+7. - 2
+Q b. | Determine the impulse response h(n) for the system described by the second order [7]
+
+difference equation: y(n)-4y(n-1)+4y(n-2)=x(n-1)
+
+2fP 2
+pes
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 116b88c9168d
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/Signals & Systems,Re-exam 2016-17-18-19.pdf` (+2 identical copies)
+- Printed on paper: exam date: 14 November 2019
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (IT) Year: II Semester: III
+
+“Academic Year: 2019-20
+Subject: Signals and Systems
+/
+Date: 14 November 2019
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In'all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume 2uitable data if necessary.
+
+Q1. a) Answer any Three: (3 marks each)
+
+I) Define continuous time signals .State type of continuous time signal.
+If) Test the stability of following systems.
+i) y=cos(x(t)) ti) (= x(t-2) ii) y=t x) .
+II) State Dirichlet’s conditions and where is it applicable?
+2
+
+IV) Determine the inverse Laplace transform of X(S) = Pa
+b) State and explain any 5 properties of Z-transform. (5 marks)
+Q2. a) Determine the Fourier transform of the triangular pulse shown below.
+x(t)
+Ne
+(7 marks)
+
+-T O T t
+
+b) State space model of a continuous time system is given by,
+
+A= [2 Pal :B=[)| ; C=[l 3]; D=[3] Derive the transfer function of the system.
+
+Ke
+(7 marks)
+Vo
+--- page 2 ---
+Q3) a) find the impulse response of the system described by the difference equation.
+
+y(n)-3y(n-1)-4y(n-2)=x(n)+2x(n-1) (7 marks)
+
+b) Perform convolution of x:(t) =e? cos 3t u(t) and x2(t) =4 sin 3t u(t)
+using Laplace transform. (7 marks)
+Q4) a) Determine the Fourier series representation of the full wave rectifier output. (7 marks)
+
+b) Define Fourier transform .Find the Fourier transform of (i) Signum Function and (ii) Unit step signal.
+
+(7 marks)
+Q5) a) Determine the unit step response of the following system. (7 marks)
+2 ee + 0.6y(t) = x(t) , with zero initial conditions.
+b) Find the one sided Z-transform of the following discrete time signals.
+(@) x@)=na®) (ii) x(n)=n? (7 marks)
+Q6) a) Determine the Laplace transform of the following continuous time signals and their ROC.
+(i) x(t u(t) Gi)x()=e** u(t)
+(7 marks)
+b) The impulse response of an LTI system is h(t)=2 e** u(t).
+Find the response of the system for the input x(t)=2 e*'u(t),using Fourier transform. (7 marks)
+Q7) Attempt following.
+a) Define state vector and state space. What are the advantages of state space analysis (3 marks)
+b) Compare continuous time system and discrete time system. (3 marks)
+c) Write a short note on: Relationship between Laplace transform and Z-transform. (4 marks)
+d) Write a short note on: Gibbs phenomenon. (4 marks)
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper a6c98ea66691
 
 - Departments: Electronics and Telecommunication
@@ -3255,6 +3454,7 @@ where x(n) and y(n) are the input and the output of the system respectively.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/signals & systems ,Final 2018-19,Re-exam 2016-17,2017-18.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 22 November 2018
 - Text: ocr (3 pages), mean OCR confidence 82.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 wt
@@ -3362,7 +3562,6 @@ y(n) — 4y(n — 1) + 4y(m — 2) = x(n) — 5x(n — 3)
 
 Determine the state equation.
 
-FOO SIAC GCI ICICIGICICI ICICI CI Ck ACR ak oR ak ake
 
 Page 3 of 3
 ````
@@ -3608,37 +3807,43 @@ Check whether the given system is linear, time invariant, static, causal and sta
 14
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper 45edb7dc564f
+## 2018-19 · Re-Exam · Sem 4 · paper 00d8fbc4b9c4
 
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNAL AND SYSTEMES B TECH (EXTC), 2017-18_2018-19_RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 14 November 2019
-- Text: ocr (2 pages), mean OCR confidence 87.9
+- Departments: Electrical
+- Programmes: B TECH / ELECTRICAL, MBA TECH / ELECTRICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM IV/SIGNALS AND SYSTEMS/SIGNAL AND SYSTEMS B TECH (ELECTRICAL), BATCH 2017-18 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 20 April 2019
+- Text: ocr (2 pages), mean OCR confidence 85.0
 
 ````text
-SVKM’s NMIMS
-. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+MPSTME
 
-Programme: B.Tech/ MBA Tech (EXTC) Year: II Semester: III
+LIBRARY
 
-Academic Year: 2019-20
+% SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Subject: Signals and Systems
-7
+Programme: B.Tech / MBA Tech(Electrical) Y Year: II / Semester: IV
+co
+Academic Year: 2018-2019
 
-Date: 14 November 2019
+Subject: Signals and systems
 
-v
+Marks: 70 ~
+Date: 20 April 2019 | Time: 2.00 pm to5.00 pm ~
+‘ < Durations: 3 (hrs) /»
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+No. of Pages: o2.
+Re-examination (2017-18) _
 
-1) Question No. | is compulsory.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-2) Out of remaining questions, attempt any 4 questions.
+1) Question No.___1__ is compulsory.
 
-3) In all 5 questions to be attempted.
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all__5___ questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -3647,75 +3852,197 @@ cover of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Attempt Any four of the following
+Q.1 Attempt any four. 14M.
+A Explain Random and Deterministic signals. ‘ 3.5M
+B___ Determine if the following system is memoryless, causal and linear. 3.5M
+* y(t) = t.x(t)
+C__ State the conditions which are required to be satisfied by function f(t) for Fourier Series to 3.5M
+exist.
+D Prove Time shifting property of Laplace Transform. 3.5M
+E Justify the need of Z- Transform for the analysis of DT system in transform domain. 3.5M
+Q.2 A Classify the following signals as periodic/Non periodic. If periodic then find period. 8M
+(i) x(t) = 2cos 1007t + 5 sin 50¢
+oe mm . mm
+(ii) x(n) = cos (=) sin(=)
+B_ A discrete time signal is given by 6M
 
-a. | What is signal? Verify whether the following continuous time signals are periodic. If [3.5]
-periodic, find the fundamental period. (1) x(t)= 2 cos . (2) x(t)= 3 cos(St +e )
-b. | Determine the range of values of ‘a’ and ‘b’ for the stability of LTI system with impulse | [3.5]
-Ql. response
-h(t) = e*.u(t) + e © u(t)
-c. | What are Dirichlet conditions of Fourier Transform? [3.5]
-d. | Derive the relation between Fourier and Laplace Transform. [3.5]
-e. | What are properties of ROC of Laplace Transform? [3.5]
-f. | Derive the relation between Laplace Transform and Z-Transform. [3.5]
-a. | Determine the power and energy for the following continuous time signals. [5]
+x(n) = { 1, 1, 1,1,2}
 
-02. (1) x(t)=e* u(t) (2) x(t)= 3 cosSwt
+Sketch the following signals:
+(i) x [n]. u[n-1]
+(ii) x[3-n]
+(iii) = x[n-1]. &'[n-1]
 
-b. | A discrete time system can be (1) static or dynamic (2) linear or non-linear (3) time
-variant on time invariant (4) causal or non-causal (5) stable or unstable. Examine the
-following system with respect to the above properties: y(n)= cos[x(n)]
+Q.3. A Obtain the Fourier transform of a periodic gate function of amplitude A, period Toand width 9M
+t assuming that the function is centered on the origin.
 
-[5]
-
-c. | Prove the following property for LTI System
-(1) Distributive (2) Commutative
-
-[4]
-
-G3 | a. | Obtain the Linear Convolution of the following signal of x(n)={1,2,3,4} and
-h(n)={1,-3,2,-1}
-
-[5]
-
-page
+ify
 --- page 2 ---
-Q3. | b. | Determine the trigonometric form of Fourier series of the waveform shown in figure [9] -
+Q.4
 
-4
-: ACE)
-Att
-A
-—-
-z . +
-< a: 0 >
-tfial PEt a
-a. | Write short note on Gibb’s phenomenon. “ [5]
-Q4. |b. | State & Prove Time shifting and Time scaling property of Continuous Time Fourier [6]
-Transform.
-c. | Determine the Fourier Transform of the rectangular pulse shown in figure [3]
-AKG,
-!
-g ++
--T oO TF
-a. | State & Prove Time differentiation and Time integration property of Laplace Transform. [8]
+Q.5
 
-Q5. | b. | Perform the convolution of Xi(t)= u(t+5) and X2 (t)= 6 (t-7) using convolution theorem of | [6]
-Laplace transform.
+Q.6
 
-a. | State & prove Initial value theorem of Laplace Transform. [4]
-Q6. | b. | State & prove convolution theorem of Z-Transform. [6]
-c. | Find the one sided Z-Transform of the x(n)=n a"), [4]
-a. 3 : (z—4) 7,
-Determine inverse Z transform of Gpe-pe 7]
+Q7
 
-7. - 2
-Q b. | Determine the impulse response h(n) for the system described by the second order [7]
+Using property of Fourier transform determine Fourier transform of x(t)
+x(t) = e73lt-tol a e73lt+tol
 
-difference equation: y(n)-4y(n-1)+4y(n-2)=x(n-1)
+Obtain Inverse Laplace Transform of the function
+x(S) = 3S +7
+~ $2—-S—12
 
-2fP 2
-pes
+Also comment on the stability and causality of the system for each of ROC conditions.
+Support your answer with appropriate sketches of ROCs
+
+i) Re (S)>4.
+
+ii) Re(S) < -3
+
+iii) -3 < Re (S) <4
+
+State and prove final value Theorem of Laplace Transform.
+
+Determine the system function, unit sample response and pole zero plot of the system
+described by the difference equation,
+
+1
+y(n) - 5 y(n- 1) =2 x(n)
+
+State and prove with appropriate mathematical derivation convolution in time domain
+property of Z transform.
+
+Obtain relationship between Discrete time Fourier teaser and Z- transform and show that
+the two are same on unit circle.
+A continuous time LTI system is initially "elaxed and is ——" by the equation
+
+ay 3% pay@ sane
+ot +8 ae y x(t)
+i) Determine transfer function of the system
+ii) Determine impulse response of the system
+
+iii) Find response of the system to an input x(t) = 4e72! u(t)
+
+A CT signal x(t) is applied to the input of a CT LTI systems with unit impulse response h(t).
+Find out y(t) using convolution integral.
+
+x(t) = e~* u(t) a>o
+
+A(t) = u(t)
+
+Calculate Z transform of following signals.
+
+1 1
+x[n] = n(— 7)" ulr} * (gy ™ un)
+
+5M
+
+9M
+
+5M
+
+8M
+
+6M
+
+5M
+
+9M
+
+8M
+
+6M
+
+2fr
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper a26bdfacbdb9
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNAL AND SYSTEMS BATCH 2016-17 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 eee, 019
+- Text: ocr (2 pages), mean OCR confidence 84.7
+
+````text
+é
+
+SVKM’S NMIMS
+
+Program: B.Tech/ MBA Tech (IT) Year: Ht. Semester : If]
+é Academic Year: 2018-19
+
+|
+| Subject: Signals and Systems Marks: 70
+
+Time: 2.00 pm to 5.90 pm
+
+92 =)
+Date: 23 eee, 019 Durations:3 (hrs),
+
+No. of Pages:_D2—
+Re-examination (2016-17 / 2817-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be'attempted.
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data if necessary.
+
+Ql. a. Given a sequence x(n)=(1/2)" u(n) [3.5]
+Sketch the following sequences:.(i) x(n-2) (ii) x(-n+2)
+b. Explain the Initial value theorem and final value theorem in Laplace transform’. [3.5]
+
+c. Define the term ROC in Laplace transform and its significance. What is relation between [3.5]
+Fourier & Z-Transform?
+
+d. Determine the power and energy of x(n)=(1/4)" u(n) [3.5]
+
+Q2. a. Determine the range of values of ‘a’ and ‘b’ for the stability.of LTI system with impulse [7]
+response h(t) = e*.u(t) + et u(t).
+
+b. Find the convolution of x(n)=[1, 2,3,4] & hm)=[1,-1, 1, -1] using Analytical Method. (7]
+Q3. a. Determine the Fourier Series representation of x(n) = 4 cos0.510. {7]
+
+b. For continuous time periodic signal [7]
+
+21 _ 51
+x(t) = 2+cos (=:) +4sin a)
+
+cal
+Determine fundamental frequency Wo and Fourier series coefficients.
+gt Q4. a. Determine the Fourier Transform of the signal x(n) = (a)!™ ; -1<a<1 (7]
+b. State & prove convolution and differentiation property of Discrete Time Fourier Transform. [7]
+Q5. a. Find the z-transform X(z) and sketch the pole zero with ROC for the following sequence. [7]
+a oe i
+
+i fpage
+--- page 2 ---
+x(n) = ()" u(n) + ()" u(—n — 1)
+
+b. Pind the inverse z-transform of X (Z) = a 7]
+(2-1)(z—-2)
+Q6. a. Find the Laplace transform and ROC of x(t) = e~**u(t). i [7]
+
+b. Perform Convolution of Xi(t) and X2(t) of following using convolution theorem of Laplace —_[7]
+Transform. Xi(t)= u(t+5), X2(t)}= 6(t — 7)-
+Q7. a. Determine the state model of the system govern by the equation: (7]
+y(n) = —2y(n — 1) + 3y(n — 2) + 0.5y(n — 3) + 2x(n) + 1.5x(n — 1) +
+2.5x(n — 2) +4x(n— 3)?
+b: The state space representation of discrete time system is given by, [7]
+
+_ 72 -1 _ fl _ _
+4=(; y}8=[)¢=0 32-6)
+Derive the transfer function of the system.
 ````
 
 ## 2018-19 · Re-Exam · Sem 4 · paper c2ea1572e652
@@ -3906,6 +4233,242 @@ b Compute the z transform and sketch the ROC for 6
 x(n) = -b" u(-n-1)
 
 242
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 09a051ef42d3
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/SIGNALS AND SYSTEMS/Signals and systems Re-exam 2016-17-18-19_09a051ef42.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 anuagy 019
+- Text: ocr (2 pages), mean OCR confidence 84.8
+
+````text
+é
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (IT) Year: (- Semester : II
+o Academic Year: 2018-19
+| Subject: Signals and Systems Marks: 70
+
+Time: 2.00 pm to 5.98 pm
+
+2235 (2
+Date : 23 anuagy 019 Durations:3 (hrs),
+
+No. of Pages:_D2— _
+Re-examination (2016-17 / 2017-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data if necessary.
+
+Ql. a. Given a sequence x(n)=(1/2)" u(n) [3.5]
+Sketch the following sequences: (i) x(n-2) (ii) x(-n+2)
+b. Explain the Initial value theorem and final value theorem in Laplace transform’. [3.5]
+
+c. Define the term ROC in Laplace transform and its significance. What is relation between [3.5]
+Fourier & Z-Transform?
+
+d. Determine the power and energy of x(n)=(1/4)" u(n) [3.5]
+
+Q2. a. Determine the range of values of ‘a’ and ‘b’ for the stability of LTI system with impulse [7]
+response h(t) = e*.u(t) + e7>* u(t).
+
+b. Find the convolution of x(n)=[1, 2, 3,4] & h(n)=[1, -1, 1, -1] using Analytical Method. [7]
+Q3. a. Determine the Fourier Series representation of x(n) = 4 cos0.57n. [7]
+b. For continuous time periodic signal [7]
+2m 5m
+x(t) =2+cos (=:) +4 sin Zo
+Determine fundamental frequency Wo and Fourier series coefficients.
+Q4. a. Determine the Fourier Transform of the signal x(n) = (a)!™ ; -1<a<1 [7]
+b. State & prove convolution and differentiation property of Discrete Time Fourier Transform. [7]
+
+Q5. a. Find the z-transform X(z) and sketch the pole zero with ROC for the following sequence. [7]
+
+tfpage
+--- page 2 ---
+Qo.
+
+Q7.
+
+x(n) = ()" u(n) + (2)" u(—n — 1)
+
+Find the inverse z-transform of X(Z) = = [7]
+(z-1)(z-2)
+Find the Laplace transform and ROC of x(t) = e~3*u(t). ; (7]
+
+Perform Convolution of Xi(t) and X2(t) of following using convolution theorem of Laplace —_[7]
+Transform. Xi(t)= u(t+5), X2(t)= 6(t — 7)-
+
+Determine the state model of the system govern by the equation: [7]
+y(n) = —2y(n — 1) + 3y(n — 2) + 0.5y(n — 3) + 2x(n) + 1.5x(n — 1) +
+
+2.5x(n — 2) +4x(n— 3)?
+The state space representation of discrete time system is given by, [7]
+_f2 -1 _ fl) pe _
+4=[§ [be=[)¢=0 30-8)
+Derive the transfer function of the system.
+
+apes
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper c9fb1ea99986
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/Signals_and_systems_2017-18-19_ Re-exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 January 2019
+- Text: ocr (2 pages), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (EXTC) Year: U Semester : Il
+Academic Year: 2018-19 ;
+
+Subject: Signals and Systems .- Marks: 70 ~
+
+Time: 2.00 pm to 5.00 pm -—~
+
+Date : 25 January 2019
+as _ Durations: 3 (hrs)
+
+No. of Pages: 02
+Re-examination (2017-18/ 2018-19) _—
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. ;
+
+Ql Attempt any four (All question carry 3.5 marks) . (14)
+a Classify symmetric and antisymmetric signals and find even and odd components of
+x(t) =34+2t+ 5t?
+b Determine the Fourier Series coefficient of x[n] = cos
+
+c Determine the transfer function of the LT] system defined by the equation
+y(n) — 0.5y(n-1) = x(n) + 0.4x(n-1)
+d Define initial and final value theorem and for given function
+
+As+1
+X(s) = s?+68+3
+
+e State and prove time shifting property of Fourier Transform
+
+determine the initial value x(0)
+
+Q2 a Forthe givensystems (i) y(n) = x(n?) and (ii) y(o) = 2tx(t) (7)
+Determine whether it is
+i. Linear or non linear
+ii. Time variant or invariant
+iii. | Causal or non-causal
+b Find the convolution of the two discrete time signals using graphical method (7)
+
+x(n) = *{u(n) -—u(n—4)}; and h(n) = {u(m) — u(n— 10)}
+
+Te
+--- page 2 ---
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Determine the signal x[n] given DTFS coefficients of the signal that is periodic with
+period N=8.
+
+x kr + si fea
+= cos(— sin(——
+«= cos(—) ~
+
+Determine the trigonometric Fourier series coefficient of the waveform.
+
+=
+
+Consider a causal LTI system with frequency response H(jw) = aan For a
+
+particular input x(t), this system produces output y(t) = e7%'u(t) — e~*u(t)
+Determine x(t).
+Explain in brief the Dirichlet conditions for Fourier Series
+
+Find the Fourier Transform G(w) of the signal g(t) = _
+
+Using Laplace Transform determine the complete response y(t) of the system
+described by the following differential equation.
+
+d’y(t) | _dy(t) dx(t)
+5—— + 4y(t) =
+de + ae * PO ae
+For input x(t) = e7?‘u(t) and initial condition y(0) = 0, 7(0)=1
+3s? + 85 + 23
+
+Find the Inverse Laplace Transform of H(s) = assuming that
+
+(s+3)(s2+ 2s+10)
+h(t) is causal.
+
+Using Z Transform determine the response of the LTI system with impulse response
+h(n) = {1, -1, 1} for an input x(n) = {-2, 3, 1}
+Explain Region of Convergence (ROC) in Z Transform.
+
+Find the inverse Z Transform of
+1-274 27? :
+X(z) = Gohan hae) with ROC 1<|z| <2
+Write short note on (Any Two):
+i. Unilateral Laplace Transform
+ii. Static and Dynamic Systems.
+ili. Impulse and Step Response of LTI systems.
+
+(7)
+
+(7)
+
+(6)
+
+(4)
+(4)
+
+(7)
+
+7)
+
+(7)
+(7)
+(7)
+
+(7)
+
+2-
 ````
 
 ## 2017-18 · Exam not stated · Sem 3 · paper 08fecbc61ebc
@@ -4103,6 +4666,233 @@ X(2) = of (42?-5z-1).
 B_ Derive the convolution property of Z-transform. 7
 a ccaaacel
 */L-
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper 98557f6d7db2
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS (EXTC), FINAL EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 02 December 2017
+- Text: ocr (2 pages), mean OCR confidence 85.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: II ~ Semester: III ~
+Z
+
+Academic Year: 2017-2018
+
+Subject: Signals and Systems i
+Marks: 70 site 0 Bey
+Date: 02 December 2017 — Time: 10.00 am toif'00 pm ws
+
+Durations: 3 (hrs)/
+No. of Pages: 19 2"
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the quesitd
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Attempt any FOUR of the following. / (3.5*4
+=14)
+
+a Check for periodicity of the following, if periodic find the fundamental period. (3.5)
+
+X(n) = 3cos(— *) + 2cos (= )
+b Find the convolution of the sequences, X,(n) = { 1, 2, 1 } & Xo(n)= {1,-1.1} (3.5)
+o 4 A
+
+c Prove time shifting property of Fourier-Transform. (3.5)
+d Plot X(t) = 2u(t) — u(t-1) — u(t-2). Hence plot its even and odd parts also. (35)
+e Check for linearity and causality for y(t) =x 2) + x(t-1). (3.5)
+f | What is ROC in Laplace Transform? Give its properties. (3.5)
+Q.2 a State the condition for stability of LTI systems & check the range of values of (5)
+
+a’ and ‘b’ for which the system is stable.
+h(n) = a" u(n) + b" u(-n)
+
+b Determine Z-Transform of X(n) = (a)" cos(wn) u(n) using Z-T property. (5)
+
+c What are Dirichlet’s conditions for continuous time Fourier Series. (4)
+
+Q.3. a Find the inverse Laplace transform of (8)
+X(s) = SS
+. (s—2)(s+3)
+
+If ROC is, i) 2>Re{s} >-3
+ii) Re{s} <-3
+iii) Re[s}>2
+
+tp
+--- page 2 ---
+Q4
+
+Q.5
+
+Q.6
+
+Q7
+
+Obtain convolution of X)(n) = { 3,2, 1,4} & X2(n) = {5, 7, -8, 2 } by using
+Z-Transform.
+
+For continuous time signal shown, A x(t)
+find the following version of the
+Signals, 2
+i) X(t-2)
+ii) X(-t) t
+iil) X(-t + 2)
+-2 -| I
+
+Determine the energy and power of the following signals:
+X(t) = 4 u(t)
+What is Gibb’s phenomenon in Fourier Series:
+
+Determine inverse z-Transform for all possible ROC condition.
+
+: _ z(z-3)
+Hi} (z-0.5)(z + 4)
+
+An discrete time system having impulse response h(n) = { -1, 2, 3, 2}, is applied
+
+by an input of x(n) = {1, 2, 1}. Find the output response of the system
+graphically.
+
+Obtain the impulse response of interconnected LTI system using Laplace
+transform
+
+, x(t) y(t)
+Where hj(t) =e u(t) hy(t) ho(t)
+ho(t) =e u(t)
+h3(t)= t u(t) ba(d
+
+Derive the relation between Fourier transform and Laplace Transform.
+
+A causal DT LTI system is described as,
+Y(n) = -3y(n— 2) + 4y(n — 1) + x(n)
+Obtain: i) T.F. of system
+ii) Impulse response
+iii) Response if input x(n) = (1/3)" u(n)
+Determine the Trigonometric form Fourier series for the given waveform,
+x(t) fA
+
+-T | -T/2 T/2 | T
+
+2a_
+
+(6)
+
+(6)
+
+(4)
+
+(4)
+
+(8)
+
+(6)
+
+(10)
+
+(4)
+(8)
+
+(6)
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper 74a3e455d4cd
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS (IT), FINAL EXAM0001.pdf`
+- Printed on paper: max marks: 70; exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 87.1
+
+````text
+&
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) ~ Year: II - Semester: II —
+Academic Year: 2017-2018
+
+Subject: Signals and Systems ~
+Marks: 70 —
+
+Date: 30 November 2017 ~
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.__1__ is compulsory
+_ 2) Out of remaining questions, attempt any 4 questions.
+3) Inall__5___ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume | uitable data if necessary.
+
+Qi(A) | Attempt All”
+1) Test the system for Linearity : y(t) = x(t + 10) + x?(t)
+
++44
+2) Explain Time scaling property of Laplace transform. ‘ ( ae
+3) Define State, State vector, State variable and State Space.
+Q2(A) | Define Signal and classification of signals in detail with example. 7
+Q2(B) | Find whether the following signal are energy or power. Find appropriate value
+x(n) =cos(mn) —-4<n<4 7
+=0 otherwise
+Q3(A) | State and prove Parseval Power theorem.
+— a
+~ | Q3(B) For an LTI system with unit impulse response h(t) = e~*". u(t) , determine output 7
+giie to the input x(t) = e~**. u(t)
+Q4 (A) | A stable system has the input x(t) and output y(t). Use Laplace transform to determine
+the transfer and impulse response h(t) of the system given %
+
+x(t) =e77".u(t); yt) = —2e*. u(t) + 3e7**. u(t)
+
+1 hh
+--- page 2 ---
+Q4(B) - | State and prove initial and final value property of Laplace transform.
+
+7
+QS(A) | Obtain Z-transform of
+x(n) = a” sin(won).u(n) 7
+Q5(B) | Using partial fraction expansion method find inverse Z-transform of following system
+given by
+X(Z)= t 7
+~1-1527+05272
+If ROC 1) |Z|>1
+2) |Z| < 0.5
+3) 0.5<|Z| <1
+Q6(A) | Determine the Fourier series coefficient of x(t) = COS Wg t. 7
+Q6(B) | Find the Fourier transform of the following signal using convolution property:
+y(t) = e-*u(t) # u(t) ’
+Q7 Attempt all:
+a) Difference between energy and power signal. 44+54+5
+b) State and explain the time shifting property of Fourier transform. (14)
+
+c) Explain properties of ROC for Z-transform.
 ````
 
 ## 2017-18 · Final-Exam · Sem 4 · paper 27dd5e1059c1
@@ -4615,156 +5405,6 @@ graphically.   t
 Page 2 of 2
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper 00d8fbc4b9c4
-
-- Departments: Electrical
-- Programmes: B TECH / ELECTRICAL, MBA TECH / ELECTRICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM IV/SIGNALS AND SYSTEMS/SIGNAL AND SYSTEMS B TECH (ELECTRICAL), BATCH 2017-18 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 20 April 2019
-- Text: ocr (2 pages), mean OCR confidence 85.0
-
-````text
-MPSTME
-
-LIBRARY
-
-% SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech / MBA Tech(Electrical) Y Year: II / Semester: IV
-co
-Academic Year: 2018-2019
-
-Subject: Signals and systems
-
-Marks: 70 ~
-Date: 20 April 2019 | Time: 2.00 pm to5.00 pm ~
-‘ < Durations: 3 (hrs) /»
-
-No. of Pages: o2.
-Re-examination (2017-18) _
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.___1__ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) In all__5___ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt any four. 14M.
-A Explain Random and Deterministic signals. ‘ 3.5M
-B___ Determine if the following system is memoryless, causal and linear. 3.5M
-* y(t) = t.x(t)
-C__ State the conditions which are required to be satisfied by function f(t) for Fourier Series to 3.5M
-exist.
-D Prove Time shifting property of Laplace Transform. 3.5M
-E Justify the need of Z- Transform for the analysis of DT system in transform domain. 3.5M
-Q.2 A Classify the following signals as periodic/Non periodic. If periodic then find period. 8M
-(i) x(t) = 2cos 1007t + 5 sin 50¢
-oe mm . mm
-(ii) x(n) = cos (=) sin(=)
-B_ A discrete time signal is given by 6M
-
-x(n) = { 1, 1, 1,1,2}
-
-Sketch the following signals:
-(i) x [n]. u[n-1]
-(ii) x[3-n]
-(iii) = x[n-1]. &'[n-1]
-
-Q.3. A Obtain the Fourier transform of a periodic gate function of amplitude A, period Toand width 9M
-t assuming that the function is centered on the origin.
-
-ify
---- page 2 ---
-Q.4
-
-Q.5
-
-Q.6
-
-Q7
-
-Using property of Fourier transform determine Fourier transform of x(t)
-x(t) = e73lt-tol a e73lt+tol
-
-Obtain Inverse Laplace Transform of the function
-x(S) = 3S +7
-~ $2—-S—12
-
-Also comment on the stability and causality of the system for each of ROC conditions.
-Support your answer with appropriate sketches of ROCs
-
-i) Re (S)>4.
-
-ii) Re(S) < -3
-
-iii) -3 < Re (S) <4
-
-State and prove final value Theorem of Laplace Transform.
-
-Determine the system function, unit sample response and pole zero plot of the system
-described by the difference equation,
-
-1
-y(n) - 5 y(n- 1) =2 x(n)
-
-State and prove with appropriate mathematical derivation convolution in time domain
-property of Z transform.
-
-Obtain relationship between Discrete time Fourier teaser and Z- transform and show that
-the two are same on unit circle.
-A continuous time LTI system is initially "elaxed and is ——" by the equation
-
-ay 3% pay@ sane
-ot +8 ae y x(t)
-i) Determine transfer function of the system
-ii) Determine impulse response of the system
-
-iii) Find response of the system to an input x(t) = 4e72! u(t)
-
-A CT signal x(t) is applied to the input of a CT LTI systems with unit impulse response h(t).
-Find out y(t) using convolution integral.
-
-x(t) = e~* u(t) a>o
-
-A(t) = u(t)
-
-Calculate Z transform of following signals.
-
-1 1
-x[n] = n(— 7)" ulr} * (gy ™ un)
-
-5M
-
-9M
-
-5M
-
-8M
-
-6M
-
-5M
-
-9M
-
-8M
-
-6M
-
-2fr
-````
-
 ## 2017-18 · Re-Exam · Sem 4 · paper 0232409c6d80
 
 - Departments: Electrical
@@ -4858,6 +5498,148 @@ y[n] + 6y[n-1] + 8y[n-2] = 5x[n-1] + x[n-2]
 The initial conditions are y[-1] = 1 and y[-2] =2.Find the step response of the system.
 
 a
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper c354d66f8dbc
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS & SYSTEMS (EXTC) BATCH 16-17 RE-EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 02 December 2017
+- Text: ocr (2 pages), mean OCR confidence 83.7
+
+````text
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (EXTC) Year: II Semester: IIT
+
+Batch: 2016-17
+
+Academic Year: 2017-2018 -
+Subject: Signals and Systems-
+
+Date: 02 December 2017. Tne 169
+
+Re-Examination
+
+instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+_ 6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary-
+
+Ql Attempt any four of the following (3.5 marks each) (14)
+a For the given system y[n] = x[n”] determine whether the corresponding system is
+i. Linear or Non Linear
+
+ii. Time Variant or Invariant
+
+iii. | Causal or Non Causal
+For the continuous-time periodic signal x(t) = 2 + cos E t)+4 sin e t) Determine
+Fourier Series Coefficients Xx.
+c State the initial and final value theorem of Laplace Transform.
+d State the properties of State Transition matrix in the state space model.
+
+e Determine the unilateral Z transform of
+x[{n] = [125403]
+T
+
+x[n] = [125403]
+
+t
+Q2 a For given signal (7)
+1; n=1,2
+x[n]J= 5-1; n= —-1,-2
+
+0; n=0,|n| >2
+i. plot x[3-n]
+ii. | Compute even and odd component
+b Obtain the convolution of two signals using graphical method (7)
+
+h(t)=e7%4u(t) and x(t) = u(t-3) — u(t-5)
+
+1/2
+--- page 2 ---
+7
+1B)
+
+Q4
+
+QS
+
+Q6
+
+Q7
+
+What are Dirichlet conditions, what is the significance of these conditions?
+Evaluate the numerical values of one period of the Fourier Series coefficient for the
+signal x(n) = N2--. [46(m — 4m) + 86(n — 1 - 4m)]
+
+Obtain trigonometric Fourier Series for the waveform as shown
+
+-20 i) 2a 4m t
+Explain Discrete Time Fourier Transform (DTFT) and determine the Fourier
+Transform of an exponential sequence with alternating sign
+yf] = (—1)"a"u[n] , Jal <1
+Determine and sketch magnitude response of given systems
+
+i. h(t) = 6(t) — 2e7**'w(0)
+
+i, P2+ ye) = SP-xH
+Explain Unilateral Laplace Transform and obtain unilateral inverse Laplace
+st+3+5 e725
+(s+1)(s+2)
+List the properties of Region of Convergence (ROC) in Laplace Transform
+Determine the Laplace Transform of x (t) = —etu(—t) + e734u(—t) and depict
+its ROC and location of poles and zeros in s-plane
+A state model of the system is given by
+
+x4(0) 0 17 [%1(O], 70
+ne al [u (t)}* [i] 7
+_ x4 (0)
+Compute the transfer function H(s) and the output response y(t) if input r(t) = u(t)
+z3—10z?—42+4
+
+Transform for X(s) =
+
+Determine inverse Z Transform of X(z) = 32 -a5—4 sROC |z| <1
+zit ; z? .
+Consider a system function H(z) =—3 Zz Determine
+1-Sz-14+ 2
+
+5 357
+i. the impulse response
+ii. output y(n) if input is a step signal with zero initial conditions
+
+Determine State Transition Matrix (STM) for A = [Se a
+
+2/2
+
+G3)
+(4)
+
+(7)
+
+(7)
+
+7)
+
+(7)
+
+(7)
+
+(7)
+
+(7)
+
+(9)
+
+(5)
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper e7b5a8fba398
@@ -5053,6 +5835,7 @@ Here r(t) is unit step
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SINGNALS AND SYSTEMS BATCH 17-18 RE EXAM 2017-18.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 01 June 2018
 - Text: ocr (3 pages), mean OCR confidence 78.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5167,7 +5950,6 @@ Q.7(a) Determine-the trigonometric form of Fourier series for the signal shown i
 } a
 
 ya A i | y “4
-ra i rm a i Pa ” H
 a t Of - yw i
 ; Pa H A ; wv
 a” — -
@@ -5178,92 +5960,144 @@ x(n) = 4cos >
 Page 3 of 3
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper a26bdfacbdb9
+## 2017-18 · Re-Exam · Sem 3 · paper d892a076635a
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNAL AND SYSTEMS BATCH 2016-17 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 eee, 019
-- Text: ocr (2 pages), mean OCR confidence 84.7
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNAL & SYSTEMS (BATCH 16-17) RE-EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 86.8
 
 ````text
-é
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-SVKM’S NMIMS
+Programme: B.Tech (I.T.) ~ Year: II « Semester: III -
 
-Program: B.Tech/ MBA Tech (IT) Year: Ht. Semester : If]
-é Academic Year: 2018-19
+Batch: 2016-17 <
+Academic Year: 2017-2018
 
-|
-| Subject: Signals and Systems Marks: 70
+Subject: Signals and Systems ~ ,
+: Marks: 70 “ va B
 
-Time: 2.00 pm to 5.90 pm
+Date: 30 November 2017. Time: 10.00 am to 1.00ip
+| Durations: rs) ,
 
-92 =)
-Date: 23 eee, 019 Durations:3 (hrs),
+oO
+No. of Raged=.2-
+Re-Examination * Hidcrag yar -
 
-No. of Pages:_D2—
-Re-examination (2016-17 / 2817-18/ 2018-19)
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+1) Question No. __1__ is compulsory
 
-1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any _4_ questions.
 
-2) Out of remaining questions, attempt any 4 questions.
+3) In all__5__ questions to be attempted.
 
-3) In all 5 questions to be'attempted.
+4) All questions carry equal marks.
 
-4) Answer to each new question to be started on a fresh page.
+5) Answer to each new question to be started on a fresh page.
 
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data if necessary.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
 
-Ql. a. Given a sequence x(n)=(1/2)" u(n) [3.5]
-Sketch the following sequences:.(i) x(n-2) (ii) x(-n+2)
-b. Explain the Initial value theorem and final value theorem in Laplace transform’. [3.5]
+QI(A)_ | Attempt All (3 Marks each)
+1) Determine the signal is energy or power signal
+x(t) = cos*(wt)
+2) Explain the necessity of Laplace Transform and also find the relationship with Fourier
 
-c. Define the term ROC in Laplace transform and its significance. What is relation between [3.5]
-Fourier & Z-Transform?
+transform.
+3) Define State, State vector, State variable and State Space.
 
-d. Determine the power and energy of x(n)=(1/4)" u(n) [3.5]
+Q(B) | Determine whether the following CTS is
+y(t) = x(t + 10) + x?(6)
+a) Linear or Non linear
+b) Causal or Non Causal
+c) Shift variant or shift invariant
+d) Stable or unstable
+e) Static or dynamic
 
-Q2. a. Determine the range of values of ‘a’ and ‘b’ for the stability.of LTI system with impulse [7]
-response h(t) = e*.u(t) + et u(t).
+Q2(A) | Define Signal and explain classification of signals with example.
 
-b. Find the convolution of x(n)=[1, 2,3,4] & hm)=[1,-1, 1, -1] using Analytical Method. (7]
-Q3. a. Determine the Fourier Series representation of x(n) = 4 cos0.510. {7]
+Q2(B) | Obtain DTFT of double sided exponential signal.
+x(n) = a" cos (wn) u(n)
 
-b. For continuous time periodic signal [7]
-
-21 _ 51
-x(t) = 2+cos (=:) +4sin a)
-
-cal
-Determine fundamental frequency Wo and Fourier series coefficients.
-gt Q4. a. Determine the Fourier Transform of the signal x(n) = (a)!™ ; -1<a<1 (7]
-b. State & prove convolution and differentiation property of Discrete Time Fourier Transform. [7]
-Q5. a. Find the z-transform X(z) and sketch the pole zero with ROC for the following sequence. [7]
-a oe i
-
-i fpage
+af |
 --- page 2 ---
-x(n) = ()" u(n) + ()" u(—n — 1)
+Q3(A)
 
-b. Pind the inverse z-transform of X (Z) = a 7]
-(2-1)(z—-2)
-Q6. a. Find the Laplace transform and ROC of x(t) = e~**u(t). i [7]
+Obtain the exponential Fourier series of sawtooth waveform as shown in fig :
 
-b. Perform Convolution of Xi(t) and X2(t) of following using convolution theorem of Laplace —_[7]
-Transform. Xi(t)= u(t+5), X2(t)}= 6(t — 7)-
-Q7. a. Determine the state model of the system govern by the equation: (7]
-y(n) = —2y(n — 1) + 3y(n — 2) + 0.5y(n — 3) + 2x(n) + 1.5x(n — 1) +
-2.5x(n — 2) +4x(n— 3)?
-b: The state space representation of discrete time system is given by, [7]
+| y
+of T 27   3T +
 
-_ 72 -1 _ fl _ _
-4=(; y}8=[)¢=0 32-6)
-Derive the transfer function of the system.
+Q3(B)
+
+For the following signals , determine and sketch convolution y(n) graphically:
+x(n) = (1/2)" .u(n — 2)
+h(n) = u(n+ 2)
+
+Q4 (A)
+
+State and Proof Parseval’s Power theorem of CTFS.
+
+Q4B)
+
+Compute the inverse Z-transform of the following sequence for all possible values
+
+5z71
+X) = Garner
+
+Q5(A)
+
+A continuous time LTI system is initially relaxed and is represented by the
+
+dy(t) | 3dy(t)
+2 + a “fe 2y(t) = 2x(€)
+
+equation
+1)Determine transfer function of the system
+2)Determine impulse response of the system
+
+3) Find response of the system to an input x(t) = 4e73tu(t)
+
+Q5(B)
+
+Consider the following difference equation and Form state equation
+8y[n-3] + 9y[n-2] - 5y[n-1] + y[n] = x{n] + 7x[n-1]
+
+Q6(A)
+
+Compute the inverse Laplace transform of the following sequence for all possible
+values
+
+_ 3
+X(s) ~ (s+2) (s-1)
+
+Q6(B)
+
+State and proof the following properties of Fourier transform:
+1) Integration in time domain
+
+2) Convolution in time domain
+
+3) Frequency Shifting
+
+QUA)
+
+1) Compare energy and power signals. (any 5 points )
+2) Relationship between trigonometric Fourier series and complex Fourier series.
+
+Q7U(B)
+
+Obtain system function H(Z) for
+
+1
+y(n) + 5 y(n — 1) = x(n) — x(n — 1)
+
+Determine the poles and zeros and draw poles-zero plots.
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper 160d761a2e65
@@ -5657,6 +6491,330 @@ c. Prove the differentiation property of Laplace Transform.
 3| Bage
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper a4652a3b2ed4
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: exam date: 05 December 2017
+- Text: text (2 pages)
+
+````text
+/
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBATech (Computer)   Year: II   Semester: III
+Batch: 2016-17 .-
+Academic Year: 2017-2018
+Subject: Signals and Systemsj.
+Date: 05 December 2017
+Re-Examination
+1) Question No.I is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Attempt Any Four of the following
+a. Show that discrete Time Sinusoidal Signal is periodic only if its frequency 'f can be   [3.5]
+expressed as ration of two integers i.e. if 'f'is rational.
+Q1. b.   State & Explain Sampling Theorem.   [3.5]
+c.   Determine the power and energy ofx(t)=e-2t u(t).   [3.5]
+d. Given a sequence x(n)=(5)n u(n)   [3.5]
+Sketch the following   sequences:   (i) x(n-2) (ii) x(-n+2).
+e.   Test for periodicity ofx(t)=5cos(4rct)+3sin(8rct).   [3.5]
+f.   What is relation between Fourier & Z-Transform?   [3.5]
+a. What is LTI System? Prove the following   property   for LTI System.   [7]
+Q2.   (i)Distributive   (ii)Comrnutative   (iii)Associative   (iv)Causality   (v)Stability   (vi)
+Invertibility.
+b.   Determine the Linear convolution of sequences x(nj=u(n)-u(n-N) & h(n)= an u(n) ;a<l   [7]
+Q3.   a.   State & Prove convolution   property   of Z-Transform.   Apply this convolution   [7]
+property   to find Z-Transform   using Convolution   for given sequences:   xl(n)= (a)n
+u(n);a<l and x2(n)= u(n),
+b.   Find Inverse Z-Transform   of Log(l +az+] ; lzl >lal.   [7]   -
+Q4.   a.   State & prove any three-properties of FT & DiFT.   [7]
+b.   Find the Fourier transform ofx(t)=sinwot.Draw magnitude & phase plot.   [7]
+Q5.   a. - Find the discrete time Fourier series representation for x(n)=cos([n/8]n+8).   [7]
+b.   If x(t)=l +sinwst+Zcoswot+cosjzwot+Iz/qj]   which has fundamental frequency wo Plot the   [7]
+magnitude and phase response for Fourier Coefficient.
+)/ '1--
+--- page 2 ---
+•
+Q6.   a.   State & prove any three properties of Laplace transform.   [7]
+b.   Consider an LTI system with system function H(S)=(s-l)/(s+   l)(s-2)
+(i) Obtain het)
+(ii) Draw pole zero plot   [7]
+(iii) Show ROC
+(iv)Determine whether the system is causal and stable.
+Q7   a. A discrete time 'system can be (1) static or dynamic (2)Linear or non-Linear (3)Time
+Variant or time invariant (4)Causal or Non causal (S)Stable or unstable   [7]
+Examine the following system with respect to the above properties:
+y(n)= x2(n)+x(n-l)+ 2x(n+ 1)
+b. Determine the state model of the system governed by the Transfer function given by   [7]
+H(Z)=(1.S+ 2Z-1+ 3Z-2+2Z-3)/(1+3Z-1+ 2Z-2+4Z-3)
+-
+2-/
+,--2..   _
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper dbd3979e078e
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/SIGNALS AND SYSTEMS/signal & systems 2015-16 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 June 2018
+- Text: ocr (2 pages), mean OCR confidence 85.3
+
+````text
+Ql.
+
+Q2.
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Computer) v Year: II Semester: III
+
+Batch: 2015-16 v
+Academic Year: 2017-2018
+
+Subject: Signals and Systems ~
+Marks: 60
+Date: 02 June 2018” Time: 10.00 am to 1.00 pm ~
+Durations: 3 (Hrs)
+No. of Pages: _OZ-
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. 7
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Attempt any Four.
+
+a. Determine the linear convolution of the two sequences: [3]
+x(n) = {1,2} and h(n) ={1,2, 3}
+b. Determine whether the given system is causal, time invariant and memoryless. [3]
+y(t) = x(t) + x(t - 1)
+ce. Explain Impulse signal and unit step signal with proper figure. [3]
+
+d. Check whether the following signals are energy or power, also find the values ofenergy or [3]
+n
+power: x(n) = () u(n).
+e. ‘Explain even and odd signals with help of an example. [3]
+
+a. Explain periodic and non-periodic signal and check whether the following signal is periodic [6]
+or non-periodic. If periodic, find period of the signal: x(t) = cos(4t) + 2 sin(8t)
+b. Find the z-transform and ROC of the following signal: [6]
+
+xe =(Ef +E )u0n
+ii, x(n) = Ey u(n) + Ey u(—n — 1),
+
+1)|Pa e
+228
+
+\
+--- page 2 ---
+Q3.
+
+Q4.
+
+QS.
+
+Q6.
+
+Q7
+
+Find the Laplace transform of the following with ROC: x(t) = cost u(t). [6]
+
+Determine the inverse Discrete Time Fourier Transform (DTFT) of the following signal [6]
+. 1
+X(e”) = —>—_
+") =
+2
+Obtain the trigonometric Fourier series of the rectangular pulse: [6]
+
+A o<t<e
+, ~ 4
+
+lo Tee?
+4 ~2
+State and prove the following properties of Continuous Time Fourier Transform (CTFT): [6]
+i) Time scaling .. :
+ii) Time shifting.
+Determine the inverse z-transform of: [6]
+1
+z(z—=
+10) =
+Find the inverse Laplace transform of: : [6]
+H@) =
+
+s(s+1)(s +2)
+Using Laplace Transform, find the transfer function and Impluse response of an LTI system [6]
+
+described by the following differntial equation,
+d’y(t) _ dy(t)
+
+de de 2y(t) = x(t)
+Assume zero intial conditions.
+Given the following system: [6]
+X4 = Xz
+X= —2x, —X2+5u
+ya Xe
+Set the system on the following state-space form:
+x= Ax + Bu
+y=Cx+Du
+Explain the classification of Discrete Time Systems. [6]
+State the properties of z-transform with proper expressions. [6]
+
+2[page
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper a480484544dc
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/SIGNALS AND SYSTEMS/signals & systems 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 02 June 2018
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Computer)~ Year: II Semester: III
+
+Batch: 2016-17-
+Academic Year: 2017-2018
+
+Subject: Signals and Systems ~
+Marks: 70
+Date: 02 June 2018 ~ Time: 10.00 am to 1.00 pm ~
+Durations: 3 (Hrs)
+No. of Pages: _©2-
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory. .
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Attempt any four ‘
+a Find the energy and power of the following signal and also verify type of the signal. 35
+x(t) = 3u(t)
+b Determine whether the following system is static, Causal, time invariant. 3.5
+yfa] = x{n}+nx{n+1]
+c Determine whether the following signal is periodic or not. If periodic then find the | 3.5
+fundamental time period.
+nt. nt
+x(n] = cos(=) cos(=)
+d Find Fourier Series representation for the signal given by x(t) = sin(Wot) and also draw | 3.5
+magnitude and phase plots.
+e Describe and Derive the relationship between Continuous time Fourier transform | 3.5
+(CTFT) and Laplace transform.
+Q2 Solve the following :
+a If the x(t) is shown as follows x) 7
+i. x(2t+1) 2
+ii, x(t-1) :
+os t !
+iii, x(4-= H
+( 2) ut = 2] = 0 t 51 ;
+foes ly
+7
+
+b | Find y(t) = x(t)*h(t) by convolution method and plot y(t). Where x(t) = e*tu(—t) and
+h(t) = u(t-2).
+
+1]page
+--- page 2 ---
+Q3
+
+Solve the following:
+
+Find the Continuous time exponential Fourier series and plot the magnitude and phase
+spectrum of a Saw tooth wave form shown below
+
+Define the Fourier Series and Write the derivation for determining the Fourier series
+coefficient of a continuous time periodic Signal.
+
+Q4
+
+Solve the following ;
+
+Find Continuous time Fourier transform of the following:
+i. x(t) = eWale-2l
+ii, x(t) = cos(6mt — = -
+
+Using the convolution property of Discrete time Fourier transform (DTFT) find
+y[n] = x[n]*h[n] such that X[n] = a@”" u[n] and h[n] =8" u[n].
+
+Q5
+
+Solve the following :
+
+Consider the following signal
+x(t) =e7*u(—t) + eStu(—t) ,
+Determine the Laplace transform and locate the poles, zeros and ROC in the s- plane.
+
+Consider the LTI system with the following differential equation with zero Initial
+conditions. .
+d* y(t dy(t
+x Ns 5 ) + 6y(t) = x(t)
+Where x(t) = e~**u(t). Find an expression for y(t) using Laplace Transform method.
+
+Q6
+
+Solve the following :
+
+Find the Z- transform of the following sequences and also plot ROC with pole zero plot
+using the properties of Z-—transform.
+
+i. x[n] = @ruln] + (:)" u[—n — 1]
+i, x(n] = ulm} + (2) uf-n- 4.
+
+Find x[n] using inverse Z-Transform method
+
+if X[z] = ary with ROC |z| > 4.
+
+Q7
+
+Attempt any two :
+
+If x(n) = 2"u(—n — 1) and h(n) = u(n — 1). Then find y(n) = x(n)*h(n) by analytical
+method.
+
+Explain and prove the Initial value theorem and final value theorem of Laplace
+Transform.
+
+Prove the Differentiation in time domain property and convolution property of the
+continuous time Fourier transform (CTFT).
+
+2]gaee
+````
+
 ## 2017-18 · Re-Exam · Sem 4 · paper 80e2d2787538
 
 - Departments: Electrical
@@ -5772,6 +6930,85 @@ For, X(z)= @DG-5
 Find x(n). ROC |z| > 4.
 
 afore
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 38e8c45f1de7
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2015-16 RE EXAM_38e8c45f1d.pdf`
+- Printed on paper: exam date: 02 December 2017
+- Text: text (2 pages)
+
+````text
+~J   _-'   SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+.Programme: MBATech(EXTC)   Year: II   Semester: III
+Batch: 2015-16
+Academic Year: 2017-2018
+Subject: Signals and Systems
+Date: 02 December 2017
+Re-Examination
+1) Question No, 1 is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data, if required.
+__Q.1   Attempt any THREE   of the following   (12)
+a   Determine the periodicity of the following continuous time signals. If periodic   (4)
+then also find fundamental period
+x(t) = 2 cos 3t + 6 sin 7t
+b   Sketch the even and odd part of unit step signal   (4)
+c   Verify whether.the following system are linear or non linear, stable or   (4)
+t
+unstable.   yet) = e x(t)
+d Determine the energy and power of the following signal.   (4)
+x(n) = (0.25t u(n) + (lot u(-n-l)
+Q.2   a   Determine the exponential form of the Fourier series representation of the signal   (8)
+shown in following figure. Hence determine the trigonometric form of Fourier
+senes.
+x(t)
+t
+Page 1 of 2-
+--- page 2 ---
+. ,
+b   Find the Fourier Transform ofx(n) = 1 ; 0 ~ n ~ 4   (4)
+= 0 ; otherwise
+Q.3   a   Perform convolution   of following signals and find yet) :   (8)
+i)   x(t)   e3t u(t) and   het) =   e10t u(-t)
+ii)   x(t) =   sint u(t) and   het) =   r(t)
+b Find the Laplace transform of the following continuous time signal and its   (4)
+RaC
+x(t) = e-3t u( -t)
+Q.4   a   Determine the Fourier transform of the pure constant signal.   (6)
+b Find Fourier Series representation of following discrete time signal:   (6)
+nn
+x(n)= 4cos-
+2
+Q.5   a   Determine Z Transform anti causal unit step signal. Plot its poles and zeros   (6)
+and specify its RaC.
+b   List and explain properties of RaC with respect to Laplace Transform.   (6)
+Q.6   a   Determine the impulse response signal for all possible RaC conditions if the   (8)
+transfer function of the Discrete time LTI system is given as :
+H(z) = z(3z-11.5)
+(z+4)(z-3)
+b Find the initial value X (0) and final value X (00) of the following z-domain   (4)
+signals
+X(z)=   1-1.8z-1+O.8z-2
+Q.7   a What are Dirchlet Conditions? What is the significance of these conditions?   (4)
+b   Obtain the Laplace Transform of following waveform:   (8)
+-
+i)
+x(t)
+x(t) r-
+a
+1 •••••-.,
+•..
+o   a   "t
+a   t
+Page 2 of 2-
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper 4f4153c7939b
@@ -5894,150 +7131,143 @@ ii)
 Page 3 of 3
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper c9fb1ea99986
+## 2017-18 · Re-Exam · Sem 3 · paper 33884aab0d81
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/Signals_and_systems_2017-18-19_ Re-exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 January 2019
-- Text: ocr (2 pages), mean OCR confidence 86.0
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/signals & system 2015-16 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 01 June 2018
+- Text: ocr (3 pages), mean OCR confidence 84.0
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING . \
 
-Program: B.Tech/ MBA Tech (EXTC) Year: U Semester : Il
-Academic Year: 2018-19 ;
+Programme: MBA Tech (EXTC) Year: II Semester: III
 
-Subject: Signals and Systems .- Marks: 70 ~
+Batch: 2015-16 -
+Academic Year: 2017-2018
 
-Time: 2.00 pm to 5.00 pm -—~
+Subject: Signals and Systems «
 
-Date : 25 January 2019
-as _ Durations: 3 (hrs)
+Marks: 60
+Time: 10.00 am to 1.00 pm
+Durations: 3 (Hrs)
 
-No. of Pages: 02
-Re-examination (2017-18/ 2018-19) _—
+No. of Pages: ___)%
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Date: 01 June 2018 -
 
-1) Question No. | is compulsory.
+Re-Examination
 
-2) Out of remaining questions, attempt any 4 questions.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
 
-3) In all 5 questions to be attempted.
+1) Question No.___1__ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5 ___ questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary. ;
+7) Assume ‘suitable data if necessary.
 
-Ql Attempt any four (All question carry 3.5 marks) . (14)
-a Classify symmetric and antisymmetric signals and find even and odd components of
-x(t) =34+2t+ 5t?
-b Determine the Fourier Series coefficient of x[n] = cos
+Ql Attempt any three questions out of five. (12M)
+(a) Determine whether the following systems are: i) Memoryless, ii) Causal iii) Linear andiv) (4)
+Time-invariant.
+(1) ym)= x(n)
+(2) y= e
 
-c Determine the transfer function of the LT] system defined by the equation
-y(n) — 0.5y(n-1) = x(n) + 0.4x(n-1)
-d Define initial and final value theorem and for given function
+(b) Distinguish between: i) Deterministic and random signals and ii) Energy and periodic (4)
 
-As+1
-X(s) = s?+68+3
+signals.
+(c) Explain time shifting property of Fourier Transform. (4)
+(d) Solve the following differential equation using Laplace transform (4)
 
-e State and prove time shifting property of Fourier Transform
+d?x(t) dx(t)
+; de +6 ai + 5x(t) = exp(-7t) u(t)
+x(t
 
-determine the initial value x(0)
+With x(0) = 0 and ‘“ Dy =0
 
-Q2 a Forthe givensystems (i) y(n) = x(n?) and (ii) y(o) = 2tx(t) (7)
-Determine whether it is
-i. Linear or non linear
-ii. Time variant or invariant
-iii. | Causal or non-causal
-b Find the convolution of the two discrete time signals using graphical method (7)
+(e) Determine the transfer function and impulse response of the following difference (4)
 
-x(n) = *{u(n) -—u(n—4)}; and h(n) = {u(m) — u(n— 10)}
+equations.
 
-Te
+(i) yfn] - $ y[n-1] = 2x{n-1]
+(ii) y(n] = x(n] —x[n-2] + x[n-4] —x[n-6]
+
+vy
 --- page 2 ---
-Q3
+Q2 (a) Use the method of partial fractions to compute the inverse Z-transform of (6)
 
-Q4
+142 got
+X(Z) =z 7. when ROC’s are
+(1-5 2-*)(14+5274)
+1
+Ola>>
+. 1
+(ii) al <>
 
-Q5
+wasy “DL a
+(ii) > < |z| < a
+(b) Compute the Fourier transform of x(t) = e** u(t), Qlso Plot magnitude and Phase spectrum. (6)
 
-Q6
+Q3 (a) Compute the Nyquist rate for each of the signal (6)
 
-Q7
+(i) x(t) = sin c(200t)
+(ii) x(t) = sin ¢7(500t)
 
-Determine the signal x[n] given DTFS coefficients of the signal that is periodic with
-period N=8.
+(b) The input x(t) and the impulse response h(t) of a continuous time LTI system are given by (6)
+x(t) =u(t) A(t)=e“u(t),a>0
 
-x kr + si fea
-= cos(— sin(——
-«= cos(—) ~
+Compute the output of LTI system.
 
-Determine the trigonometric Fourier series coefficient of the waveform.
+Q4. (a) Determine the Fourier transform of x(t) =e!" (6)
 
-=
-~2T T A) 7/2 T aT t
+(b) (i) Determine the Laplace Transform, associated ROC and the pole zero plot of for the (3)
+following signal.
+x(t) = 6(3t) +u(3t)
 
-Consider a causal LTI system with frequency response H(jw) = aan For a
+(ii) Discuss any three properties of ROC in Laplace Transform. (3)
+Q5. (a) Determine the discrete Fourier series representation for each of the following sequences: (6)
 
-particular input x(t), this system produces output y(t) = e7%'u(t) — e~*u(t)
-Determine x(t).
-Explain in brief the Dirichlet conditions for Fourier Series
+(i) x(n) = cos n
 
-Find the Fourier Transform G(w) of the signal g(t) = _
+(ii) x(n) = cosy n+sin z n
 
-Using Laplace Transform determine the complete response y(t) of the system
-described by the following differential equation.
+(b) Determine the system function for the causal LTI system described by the difference (6)
+equation
 
-d’y(t) | _dy(t) dx(t)
-5—— + 4y(t) =
-de + ae * PO ae
-For input x(t) = e7?‘u(t) and initial condition y(0) = 0, 7(0)=1
-3s? + 85 + 23
+vir] = yin = T+ Lyn ~ 2) = ae.
 
-Find the Inverse Laplace Transform of H(s) = assuming that
+Q6. (a) Consider an LTI system whose response to the input (6) —_
+x(t) = (e* +e™)u(t)
+is
+y(t) = (2 &*- 2 €* u(t)
 
-(s+3)(s2+ 2s+10)
-h(t) is causal.
+(i) Find the frequency response of this system.
+(ii) Determine the system's impulse response.
 
-Using Z Transform determine the response of the LTI system with impulse response
-h(n) = {1, -1, 1} for an input x(n) = {-2, 3, 1}
-Explain Region of Convergence (ROC) in Z Transform.
+i
+--- page 3 ---
+(b) Compute the z-transform of x (n) = a" u (n) + b" u (-n-1).Sketch the ROC. (6)
 
-Find the inverse Z Transform of
-1-274 27? :
-X(z) = Gohan hae) with ROC 1<|z| <2
-Write short note on (Any Two):
-i. Unilateral Laplace Transform
-ii. Static and Dynamic Systems.
-ili. Impulse and Step Response of LTI systems.
+Q7 (a) The state space representation of a continuous time system is given by (6)
 
-(7)
+af; Th B=[5].c= 31, D=13]
 
-(7)
+Derive the transfer function for the continuous time system.
 
-(6)
+(b) Find the state transition matrix for the following continuous time system parameter matrix (6)
 
-(4)
-(4)
+a> “1
 
-(7)
-
-7)
-
-(7)
-(7)
-(7)
-
-(7)
-
-2-
+v
 ````
 
 ## 2016-17 · Final-Exam · Sem 4 · paper c6f13b09b4f0
@@ -6170,6 +7400,100 @@ The initial conditions are y[-1] =1 and y[-2] =2.the input x[n] = u{n].
 
 5mks
 9mks
+````
+
+## 2016-17 · Final-Exam · Sem 3 · paper c43cef2208f1
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS B TECH (IT), FINAL EXAM0001.pdf`
+- Printed on paper: max marks: 70; exam date: 30 November 2016
+- Text: ocr (2 pages), mean OCR confidence 83.8
+
+````text
+2 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF ‘TECHNOLOGY MANAGEMENT & ENGINEERING
+
+: Programme: B. Tech (L.T.) Year: II Semester: III
+}
+
+Academic Year: 2016-2017 glee NN y
+Subject : Signals and Systems re, -3TuMB z
+Marks: 70 ce Lis RARY re
+Time : 10.00’@m to 1.00 p Cw
+: mo "eee é
+Durations: 3) fia
+
+Final-Examination aa
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+Date : 30 November 2016
+
+1) Question No. __1___ is compulsory
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3)Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. . L
+7) Assume Suitable data if necessary
+
+QI(A) | Attempt All (3 Marks each)
+1) Determine the signal is even or odd.
+x() = 1+ t cos(f) + t” sin(t) +t sint(t) cos(t)
+2) Obtain the Linear Convolution using tabular method. 2 7
+x(n) = {2,3,1,4} h(n) = {-1,2,3,0}
+3) Define State, State vector, State variable and State Space.
+
+Q1(B) | Explain the necessity of Laplace Transform and also find the relationship with Fourier
+transform. : ; °
+
+Q2(A) | Define System and ‘classify systems in detail with example.
+
+7
+Q2(B) | Obtain DTFT of double sided exponential signal.
+n n | 7 -
+x(n) =a" u(n) +a” u(-n-1)
+Q3(A) | Obtain the trignotremic Fourier series for the full wave rectifier sine wave as shown in
+fig : » pa)
+a f 7
+
+= < © | nv 2n +
+--- page 2 ---
+Q3(B) | Compute inverse Z-transform of the following sequence for all possible values of ROC’s &
+
+X(Z) = 5z1
+ee _ 7
+see 1 -1
+eae om (1-2Z") (3-Z")
+.Q4 (A) Drive the expression for the Linear convolution sum for a discrete time system. 7
+Q4(B) | Compute.the Z-transform of the following sequence:
+x(n) = [ (0.5) "sin (n 7 /4)] ,ucrd 7
+Q5(A)__ | Find Laplace Transform of the following signal using property of Laplace transform.
+mt 3t a: 7
+x(t) =5e™ Cos (4t) — 6 e~ Sin(2t) + 9
+Q5(B) State and proof Final Value theorem and also find the initial and final value of the given
+function:
+X(s) = 0.8 7
+s (s* +0.6s + 0.2) :
+Q6(A) | Find state equation of discrete time LTI system with system function.
+H(@) = b’+b'z'+b?2” 2
+Italgtt+a?z? .
+Q6(B) State and proof the following properties of Fourier transform:
+1) Time Shifting 7
+2) Convolution in time domain
+3) Differentiation
+Q7(A) | 1) Compare energy and power signals. (any 5 points ), 8
+2) List and explain any three properties of Z-Transform.
+Q7(B) Determine the Z-transform of following sequence using Z-transform properties 6 7
+
+x(n) =n a" u(-n)
 ````
 
 ## 2016-17 · Final-Exam · Sem 6 · paper ae97b8003b01
@@ -6789,373 +8113,689 @@ Tmks
 7Tmks
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper c354d66f8dbc
+## 2016-17 · Re-Exam · Sem 3 · paper 66a2ebc35a73
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS & SYSTEMS (EXTC) BATCH 16-17 RE-EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 02 December 2017
-- Text: ocr (2 pages), mean OCR confidence 83.7
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS B TECH (EXTC), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: exam date: 02 December 2016
+- Text: ocr (2 pages), mean OCR confidence 86.6
 
 ````text
-SVKM’s NMIMS .
+SVKM’S NMIMS . :
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (EXTC) Year: II Semester: IIT
+Programme : B. Tech (EXTC) Year : Il Semester : III
+Batch : 2014-2015
 
-Batch: 2016-17
-
-Academic Year: 2017-2018 -
-Subject: Signals and Systems-
-
-Date: 02 December 2017. Tne 169
+Academic Year : 2016-2017
+Subject : Signals and Systems
+Date : 02 December 2016
 
 Re-Examination
-
-instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-_ 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary-
-
-Ql Attempt any four of the following (3.5 marks each) (14)
-a For the given system y[n] = x[n”] determine whether the corresponding system is
-i. Linear or Non Linear
-
-ii. Time Variant or Invariant
-
-iii. | Causal or Non Causal
-For the continuous-time periodic signal x(t) = 2 + cos E t)+4 sin e t) Determine
-Fourier Series Coefficients Xx.
-c State the initial and final value theorem of Laplace Transform.
-d State the properties of State Transition matrix in the state space model.
-
-e Determine the unilateral Z transform of
-x[{n] = [125403]
-T
-
-x[n] = [125403]
-
-t
-Q2 a For given signal (7)
-1; n=1,2
-x[n]J= 5-1; n= —-1,-2
-
-0; n=0,|n| >2
-i. plot x[3-n]
-ii. | Compute even and odd component
-b Obtain the convolution of two signals using graphical method (7)
-
-h(t)=e7%4u(t) and x(t) = u(t-3) — u(t-5)
-
-1/2
---- page 2 ---
-7
-1B)
-
-Q4
-
-QS
-
-Q6
-
-Q7
-
-What are Dirichlet conditions, what is the significance of these conditions?
-Evaluate the numerical values of one period of the Fourier Series coefficient for the
-signal x(n) = N2--. [46(m — 4m) + 86(n — 1 - 4m)]
-
-Obtain trigonometric Fourier Series for the waveform as shown
-
--20 i) 2a 4m t
-Explain Discrete Time Fourier Transform (DTFT) and determine the Fourier
-Transform of an exponential sequence with alternating sign
-yf] = (—1)"a"u[n] , Jal <1
-Determine and sketch magnitude response of given systems
-
-i. h(t) = 6(t) — 2e7**'w(0)
-
-i, P2+ ye) = SP-xH
-Explain Unilateral Laplace Transform and obtain unilateral inverse Laplace
-st+3+5 e725
-(s+1)(s+2)
-List the properties of Region of Convergence (ROC) in Laplace Transform
-Determine the Laplace Transform of x (t) = —etu(—t) + e734u(—t) and depict
-its ROC and location of poles and zeros in s-plane
-A state model of the system is given by
-
-x4(0) 0 17 [%1(O], 70
-ne al [u (t)}* [i] 7
-_ x4 (0)
-Compute the transfer function H(s) and the output response y(t) if input r(t) = u(t)
-z3—10z?—42+4
-
-Transform for X(s) =
-
-Determine inverse Z Transform of X(z) = 32 -a5—4 sROC |z| <1
-zit ; z? .
-Consider a system function H(z) =—3 Zz Determine
-1-Sz-14+ 2
-
-5 357
-i. the impulse response
-ii. output y(n) if input is a step signal with zero initial conditions
-
-Determine State Transition Matrix (STM) for A = [Se a
-
-2/2
-
-G3)
-(4)
-
-(7)
-
-(7)
-
-7)
-
-(7)
-
-(7)
-
-(7)
-
-(7)
-
-(9)
-
-(5)
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper d892a076635a
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNAL & SYSTEMS (BATCH 16-17) RE-EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 86.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (I.T.) ~ Year: II « Semester: III -
-
-Batch: 2016-17 <
-Academic Year: 2017-2018
-
-Subject: Signals and Systems ~ ,
-: Marks: 70 “ va B
-
-Date: 30 November 2017. Time: 10.00 am to 1.00ip
-| Durations: rs) ,
-
-oO
-No. of Raged=.2-
-Re-Examination * Hidcrag yar -
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. __1__ is compulsory
-
-2) Out of remaining questions, attempt any _4_ questions.
-
-3) In all__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-QI(A)_ | Attempt All (3 Marks each)
-1) Determine the signal is energy or power signal
-x(t) = cos*(wt)
-2) Explain the necessity of Laplace Transform and also find the relationship with Fourier
-
-transform.
-3) Define State, State vector, State variable and State Space.
-
-Q(B) | Determine whether the following CTS is
-y(t) = x(t + 10) + x?(6)
-a) Linear or Non linear
-b) Causal or Non Causal
-c) Shift variant or shift invariant
-d) Stable or unstable
-e) Static or dynamic
-
-Q2(A) | Define Signal and explain classification of signals with example.
-
-Q2(B) | Obtain DTFT of double sided exponential signal.
-x(n) = a" cos (wn) u(n)
-
-af |
---- page 2 ---
-Q3(A)
-
-Obtain the exponential Fourier series of sawtooth waveform as shown in fig :
-
-| y
-of T 27   3T +
-
-Q3(B)
-
-For the following signals , determine and sketch convolution y(n) graphically:
-x(n) = (1/2)" .u(n — 2)
-h(n) = u(n+ 2)
-
-Q4 (A)
-
-State and Proof Parseval’s Power theorem of CTFS.
-
-Q4B)
-
-Compute the inverse Z-transform of the following sequence for all possible values
-
-5z71
-X) = Garner
-
-Q5(A)
-
-A continuous time LTI system is initially relaxed and is represented by the
-
-dy(t) | 3dy(t)
-2 + a “fe 2y(t) = 2x(€)
-
-equation
-1)Determine transfer function of the system
-2)Determine impulse response of the system
-
-3) Find response of the system to an input x(t) = 4e73tu(t)
-
-Q5(B)
-
-Consider the following difference equation and Form state equation
-8y[n-3] + 9y[n-2] - 5y[n-1] + y[n] = x{n] + 7x[n-1]
-
-Q6(A)
-
-Compute the inverse Laplace transform of the following sequence for all possible
-values
-
-_ 3
-X(s) ~ (s+2) (s-1)
-
-Q6(B)
-
-State and proof the following properties of Fourier transform:
-1) Integration in time domain
-
-2) Convolution in time domain
-
-3) Frequency Shifting
-
-QUA)
-
-1) Compare energy and power signals. (any 5 points )
-2) Relationship between trigonometric Fourier series and complex Fourier series.
-
-Q7U(B)
-
-Obtain system function H(Z) for
-
-1
-y(n) + 5 y(n — 1) = x(n) — x(n — 1)
-
-Determine the poles and zeros and draw poles-zero plots.
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 116b88c9168d
-
-- Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/Signals & Systems,Re-exam 2016-17-18-19.pdf` (+2 identical copies)
-- Printed on paper: exam date: 14 November 2019
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech/ MBA Tech (IT) Year: II Semester: III
-
-“Academic Year: 2019-20
-Subject: Signals and Systems
-/
-Date: 14 November 2019
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. lis compulsory.
+1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
-3) In'all 5 questions to be attempted.
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume 2uitable data if necessary.
+7) Assume Suitable data if necessary.
 
-Q1. a) Answer any Three: (3 marks each)
+Ql Attempt any four of the following (12)
+a_ Write short note on different types of systems and draw u(-t+1), where u is step
+signal.
+b Determine Discrete Time Exponential Fourier Series for given signal.
+x{n}
 
-I) Define continuous time signals .State type of continuous time signal.
-If) Test the stability of following systems.
-i) y=cos(x(t)) ti) (= x(t-2) ii) y=t x) .
-II) State Dirichlet’s conditions and where is it applicable?
-2
+aL Hall =
 
-IV) Determine the inverse Laplace transform of X(S) = Pa
-b) State and explain any 5 properties of Z-transform. (5 marks)
-Q2. a) Determine the Fourier transform of the triangular pulse shown below.
-x(t)
-Ne
-(7 marks)
+1
+4 0
 
--T O T t
+c Explain Region of Convergence of Laplace Transform.
+d What are the advantages of state space analysis?
+e Determine the even and odd parts of given signal
+x{[n] = u(n)
+Q2 a Determine whether the given system is (i) linear or nonlinear (ii) time variant or (6)
+invariant (iii) causal or non-causal
+i. y(t) = x(t+10) + x(t)
 
-b) State space model of a continuous time system is given by,
+ii. y(n) = x(4n+1)
+od b Obtain the convolution of two signals using graphical method (6)
+h(t)=1u(t); and x()=e-";0<t <T
 
-A= [2 Pal :B=[)| ; C=[l 3]; D=[3] Derive the transfer function of the system.
-
-Ke
-(7 marks)
-Vo
+1/2
 --- page 2 ---
-Q3) a) find the impulse response of the system described by the difference equation.
+Q3 a Explain various types of Fourier Series representation. What are Dirichlet (6)
+conditions, what is the significance of these conditions?
 
-y(n)-3y(n-1)-4y(n-2)=x(n)+2x(n-1) (7 marks)
+b Obtain trigonometric Fourier Series for signal as shown : (6)
+x(t):
+A
+6G V t
+Q4 a Explain Discrete Time Fourier Transform (DTFT) and determine the Fourier (6)
 
-b) Perform convolution of x:(t) =e? cos 3t u(t) and x2(t) =4 sin 3t u(t)
-using Laplace transform. (7 marks)
-Q4) a) Determine the Fourier series representation of the full wave rectifier output. (7 marks)
+Transform for —x < w <1 of the following signals
+i. xi[n] = sin @ on
 
-b) Define Fourier transform .Find the Fourier transform of (i) Signum Function and (ii) Unit step signal.
+ii, xafn]= G)"
 
-(7 marks)
-Q5) a) Determine the unit step response of the following system. (7 marks)
-2 ee + 0.6y(t) = x(t) , with zero initial conditions.
-b) Find the one sided Z-transform of the following discrete time signals.
-(@) x@)=na®) (ii) x(n)=n? (7 marks)
-Q6) a) Determine the Laplace transform of the following continuous time signals and their ROC.
-(i) x(t u(t) Gi)x()=e** u(t)
-(7 marks)
-b) The impulse response of an LTI system is h(t)=2 e** u(t).
-Find the response of the system for the input x(t)=2 e*'u(t),using Fourier transform. (7 marks)
-Q7) Attempt following.
-a) Define state vector and state space. What are the advantages of state space analysis (3 marks)
-b) Compare continuous time system and discrete time system. (3 marks)
-c) Write a short note on: Relationship between Laplace transform and Z-transform. (4 marks)
-d) Write a short note on: Gibbs phenomenon. (4 marks)
+b_ Find the Fourier Transform of the trapezoidal pulse shown below (6)
+x(t)
+=D = t
+Qs a For the given system £20 Ewe) + geo Ome 3y (= at) + 2x(t). Determine (6)
+i. Transfer function ;
+
+ii. Poles — Zeros plot
+iii. Impulse Response
+b The input x (t) = e~“u(t) and impulse response h (t) =u (t-1) ofacontinuous (6)
+time system is given. Find the output.
+Q6 a State the initial and final value theorem with regards to Z transform. Determine. (6)
+1
+the initial and final value of X(z) = Tara
+
+b 3+ 2274
+
+Determine inverse Z Transform of X(z) = se for all possible ROC’s (6)
+
+Q7 a Determine the impulse response of discrete time LTI system defined by (6)
+y(n) — 2y(n-1) + y(n-2) = x(n) + 3x(n-3).
+b_ The state space representation of a continuous time system is given by (6)
+
+a-2 ffspeBfse-t alsm=0I
+
+Derive the transfer function of the continuous time system.
+
+2/2
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper 304aef757245
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS B TECH (EXTC), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 02 December 2016
+- Text: ocr (3 pages), mean OCR confidence 79.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (EXTC) Year : Il Semester : III
+Batch : 2015-2016 ee
+Academic Year : 2016-2017 jg Ree a
+| 7
+| i Marks | ra
+j i Systems 7
+| Subject : Signals and System: el Sti ;
+PRA ‘1
+Date : 02 December 2016 Duratil (hrs) 4
+* pt *
+Maas TaN
+Re-Examination SS ul
+
+. Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+NB: : :
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. In all five questions to be attempted.
+4. All question carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets on right hand side indicate full marks.
+
+Q.1 | Attempt any Four of the following: 12
+A. Find &.sketch even & odd parts of the signals as shown below. 3
+: UN
+peey
+t
+7 D
+hes ° 2 \3 >» ¢ :
+B. _ - Explain Linear and Non-Linear systems with one Example. : 3
+Cc. State & Prove Final value theorem of Laplace transform. 3
+D. Find the fundamental period and frequency of following signal: 3
+
+X(t) = 5sin 242 t +7sin3 6x t.
+E. State and Prove Time reversal Property of Z-Transform. 3
+
+F.- Prove that the signals X(t) and Y(t) given in figure below are Orthogonal over 3
+
+the interval [0, 4]. yo.
+Ie 14 _ +\ = 4
+. ; —> >t
+oe 0 OG ae
+Q.2 — Attempt the following: . a : 12
+A. Sketch: X(t) = [ u(t) + r(t-1) — 2 u(t- 3)] u(- t+ 5). Also Find Even and odd part 06
+of X(t) .
+--- page 2 ---
+B. °. Determine whether the following systems are static, causal, time invariant, linear and 06
+stable.
+
+a) Y(n) = X(n) —X(n- 1) + X(nt+ 1) b) ¥(t) = sin[X(t + 2)]
+
+Q.3. . - Attempt the following: : 12
+A. State various applications of Convolution Also Find the convolution sum for following 06
+DTS.
+
+X[n] = {2,4,3} h[n]={ 8,7,1,6}
+tT "
+
++t
+B.. If X(S) = saat ie
+‘Then Find the Laplace Transform of the Following:
+a) Y()=XQ2t-1) b) Y(t) = X(t) * Cos 7t
+Q.4.° Attempt the following: 12
+Ae Find the Inverse Laplace Transform of / - 06
+X(S)=>=   Forall Possible ROCs.
+B. A Certain System is described by following differential equation: 06
+
+ayo) 7 4x)
+dt? dt
+
++ 12y(t) = x(t)
+Use Laplace transform to determine the response of the system to unit step i/p .
+applied at t= 0 . Assume the initial conditions are y(0-) = -2 & y(0-) = 0
+
+Q. 5 Attempt the following:
+
+sei ucne meric
+
+A. _ Obtain the Fourier series for the rectangular pulse train shown below: 06
+Fig. he 2.2.1,
+x(t)
+: A
+—i—t —>t
+Ty -Ty2   -v2 | v2   Ty2 it
+Tp ‘|
+
+ee
+
+B. * State and Prove any Three Properties of Fourier Transform. 06
+gibi Q.6 Attempt the Following: - : 12
+
+A. *, Determine the Z-Transform, ROC, the location of poles & zeros of X(z) for the 06
+
+following signal.
+
+X[n] = (1/2)"u(n)—(1/4)"u(n) — Also show that u(n)*U(n-1) = n. u(n)
+
+2/3
+--- page 3 ---
+B. Find the inverse Z Transform of , ~ 06
+
+X(z) = (4-1/2.2%) / (1-1/4.2?) with ROC |z] >%
+
+Q.7 Attempt the following: 12
+A. Using suitable method obtain the state transition matrix for the system matrix 06
+[0 -3
+at Tal
+
+Also Obtain Eigen values of A.
+
+B. _ Obtain state variable model in phase variable form for the transfer function 06
+
+s+3
+
+NS) = Stee card
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper e43e95109b13
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS (IT), BATCH 14-15, 15-16 RE EXAM0001.pdf`
+- Printed on paper: exam date: 30 November 2016
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (I.T.) Year : I Semester : III
+Batch : 2014-2015 / 2015-2016 5
+
+Academic Year : 2016-2017
+Subject : Signals and Systems
+
+Date : 30 November 2016
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+3) Inall 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Ql Attempt (Any THREE)
+1) Draw and explain any five standard Discrete time signals.
+2) Find even and odd parts of x(n):
+x(n)=u(n)-u(n-5)
+12(s+1)
+3) Find initial and final value x(t) = --------------------
+s (s? + 4)
+
+12
+
+for Laplace transform.
+4) Explain properties of convolution integral.
+5) Explain the concept of Region of Convergence, single and double sided
+Z transform.
+6) Derive the quadrature Fourier series analysis for periodic signals.
+Q2(A) Plot the following signal-
+x(t) =[Su(t+4)-2u(t-2)+2(t-1)]+[r(t)-r(t-3)]
+
+Q2(B) Determine whether the following continuous time system is- 1)static or
+dynamic 2) linear or non-linear 3)shift variant or invariant 4) causal or
+non-causal 5)stable or unstable
+
+y(t)= sin [x (t+2) ]
+a Q3(A) Compute the Convolution y(n) = x(n) * h(n) where x(n) = {2, -2, 0, 4,1}
+“and h(n)= {1,-3, Ne using Tabulation method. 4 6
+
+Q3(B) Sketch the single and double sided spectra of x(t)= 2 sin(10 m t-30°) +
+cos (2 1 ft) using Fourier Series.
+--- page 2 ---
+Q4(A)
+
+Q4(B)
+
+5A)
+Q5)
+Q6(A)
+
+Q6(B)
+
+Q7
+
+Obtain the inverse Laplace transform of X(s) for ROC: o > -(1/4)
+
+(s-(1/2))
+X(S)=---------------- ==>
+(s? + (3/4)s+(1/8))
+Consider a continuous-time. LTI system with system function
+
+3st+7
+H(S)=-----------2-0-- 020220
+(s+1) (s+2)(s+5)
+
+Find state representation of the system such that its system matrix A is
+
+diagonal.
+Obtain DTFT and plot the magnitude and phase response of
+
+h(n)= {0, 1, 1,1}.
+
+Find the Laplace transform of the given function.
+x(t) =(t? -2t) u(t-1)
+Determine Z transform and ROC of signal: x(n) = [3 (42) - 5 (3°)] u(n)
+1
+
+Determine inverse Z transform using PFE X(Z) = -----
+(Z-1) (Z-3)
+
+Write a short note on: (Any Two)
+
+1) Direct form-I and Direct form-II structure of LTI system
+2) Properties of Linear convolution
+
+3) Discrete Time Fourier Transform
+
+4) Parseval’s power theorem
+
+2) 2
+
+12
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper b97b017181b7
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS B TECH (IT), 14-15, 15-16 RE EXAM0001.pdf`
+- Printed on paper: exam date: 30 November 2016
+- Text: ocr (2 pages), mean OCR confidence 89.3
+
+````text
+“
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (I.T.) Year : Il Semester : III
+Batch : 2014-2015 / 2015-2016
+Academic Year : 2016-2017
+
+Subject : Signals and Systems
+Date : 30 November 2016
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. :
+
+NB:
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3) In all _S_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Ql Attempt (Any THREE)
+1) Draw and explain any five standard Discrete time signals.
+2) Find even and odd parts of x(n):
+&(n)=u(n)-u(n-5)
+12(s+1)
+3) Find initial and final value x(t) = --------------------
+
+for Laplace transform.
+4) Explain properties of convolution integral.
+5) Explain the concept of Region of Convergence, single and double sided
+Z transform.
+6) Derive the quadrature Fourier series analysis for periodic signals.
+Q2(A) Plot the following signal-
+x(t) =[Su(t+4)-2u(t-2)+2(t-1)]+[x(t)-1(t-3)]
+
+Q2(B) Determine whether the following continuous time system is- 1)static or
+dynamic 2) linear or non-linear 3)shift variant or invariant 4) causal or
+non-causal 5)stable or unstable
+
+y(t}= sin [x (t+2) ]
+Q3(A) Compute the Convolution y(n) = x(n) * h(n) where x(n) = {2, -2, 0, 4,1}
+“and h{(n)= {1,-3, $3 using Tabulation method. 4
+
+Q3(B) Sketch the single and double sided spectra of x(t)= 2 sin(10 m t-309) +
+cos (2 1 ft) using Fourier Series.
+
+12
+--- page 2 ---
+Q4(A)
+
+Q4(B)
+
+QS(A)
+
+QS5(B)
+
+Q6(A)
+Q6(B)
+
+Q7
+
+Obtain the inverse Laplace transform of X(s) for ROC: o = -(1/4)
+
+(s-(1/2))
+X(S)=------------------- ==
+(s? + (3/4)s+(1/8))
+Consider a continuous-time LTI system with system function
+
+3s+7
+H(S8)=-------------------------
+(s+1) (s+2)(s+5)
+
+Find state representation of the system such that its system matrix A is
+diagonal.
+
+Obtain DTFT and plot the magnitude and phase response of
+
+h(n)= {0, 1, 1,1}.
+
+Find the Laplace transform of the given function.
+
+x(t) =(t? -2t) u(t-1) 3
+Determine Z transform and ROC of signal: x(n) = [8 (4) -5 (34) u(n)
+
+1
+Determine inverse Z transform using PFE X(Z) = ------------------
+(Z-1) (Z-3)
+
+Write a short note on: (Any Two)
+1) Direct form-I and Direct form-II structure of LTI system
+2) Properties of Linear convolution
+3) Discrete Time Fourier Transform
+4) Parseval’s power theorem
+
+2) 2.
+
+12
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 29784fdd1ea5
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 14-15, 15-16 RE EXAM(1).pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 July 2017
+- Text: ocr (2 pages), mean OCR confidence 82.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: I Semester: IV ~~
+
+| Batch: 2014-2015 / 2015-2016 +
+
+7 ert OF
+, Academic Year: 2016-2017 ae 2 NN
+
+Subject: Signals and Systems ~~ Ag { o8t tek Ra
+Marks: 60 wo MARY }
+Date: 08 July 2017 + Time: 10.00 ami tl\.00'pr ae
+
+Durations:3 (hrs) "% ‘
+No. of Pages: OZ OR eae
+Re-Examination oe
+
+*
+=i
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data, if required.
+
+Q.1 Attempt any THREE of the following - (12)
+a Distinguish between: i) Energy & Power signal, ii)Deterministic and Random *-: (4)
+
+Signal iii)Even and Odd Signal
+
+b_ Verify whether the following system are linear or non linear , stable or unstable . ; (4)
+yal x()
+c Explain relationship between Laplace transform and Fourier transform- (4)
+
+d Distinguish between: i) Energy & Power signal, ii)Deterministic and Random (4)
+Signal iii)Even and Odd Signal
+
+Q.2 a Find the Laplace transform of the following continuous time signal and its (4)
+ROC. ;
+x(t) = e** u(t)
+b_ Determine the initial value x(0) and the finat value x(c0) for the following (8)
+“Signals Using initial and final value theorems.
+. st1
+i) X(s) = s?4+2s+2
+.. s?41
+| a Ris) = Ss?+6S+5
+Q.3 a Determine the transfer function for the system described by following (4)
+difference equation.
+a i) y[n]-0.5y[n-1]=2x[n-1]
+
+li) y[n]=x[n]-x[n-2]+x[n-4]-x[n-6]
+
+b Determine the impulse response signal for all possible ROC conditions if the (8)
+
+- Page 1 of 2
+--- page 2 ---
+transfer function of the Discrete time LTI system is given as : 7 ae ws
+
+__ z(3z-11.5)
+H(Z) = Gea@-3)
+Q.4 a §$tate and prove following properties w. r. t. Fourier Transform: (8)
+i) Linearity Property
+ii) Time Shifting Property
+b_ Find the Fourier Transform of x(n) = {21,2} (4)
+Q5. a Determine the Fourier series representation of the signal shown in following (8)
+
+figure. Hence determine the trigonometric form of Fourier series.
+
+aw
+
+|
+
+37 &
+
+b_ Find the Fourier transform of-unit step signal. (4)
+
+4
+Q.6 4 Find the inverse Laplace transform of X(s) = Giner) 8)
+
+if the ROC is
+i) -2>Re{s}>-4
+ii)Re{s}<-4
+iii)Re{s}>-2
+
+b What are Dirchlet Conditions ? What is the significance of these conditions? (4)
+Q.7. a..Perform.convolution of following signals and find y(t) : (6)
+
+x(t) = sint.u(t) and h(t)= r(t)
+b Determine Z Transform of- (6)
+
+i) x1[n] = a" u[n]
+
+aad ii) © x2[n] =—a™u[-n-1].
+
+Plot its poles and zeros and specify its ROC.
+
+= Page 2 of 2
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 1cb7e117d2a7
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 06 May 2017
+- Text: ocr (3 pages), mean OCR confidence 91.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN EERING
+
+Programme: B. Tech (MECHATRONICS) Year: II Semester: IV
+Batch: 2014-2015/2015 - 2016
+Academic Year: 2016-2017
+
+Subject: Signals and Systems
+
+Marks: 60
+Date: 06 May 2017. Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs) ~—
+No. of Pages: 3 —
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data, if required.
+
+Q.1 Attempt any THREE of the following (12)
+
+a | Determine power and energy of the following signal. ; (4)
+
+x(t) = et u(t)
+
+b | Sketch the even and odd part of unit step signal . (4)
+c | Verify whether the following system are linear or non linear , stable or (4)
+t
+unstable . y(t)=e x(t)
+
+d | Verify whether the following signal is periodic or non periodic . If periodic find | (4)
+fundamental period. x(t)= 6 sin(5t)+5 sin (4zt )
+
+Q.2 | a | Determine the exponential form of the Fourier series representation of the signal | (8)
+shown in following figure. Hence determine the trigonometric form of Fourier
+series.
+--- page 2 ---
+x(t)#
+
++ tt Prt T t
+27% a 2
+
+Find the Fourier Transform of x(n)=1; OSn<4 (4)
+=0 ; otherwise
+Q.3 Perform convolution of following causal signals (8)
+. -5t
+@ xHj=tu,hQ=e u(t)
+(ii) ~—s Gi) x(t) = cost u(t), h() =t u(t) .
+Find the Laplace transform of the following continuous time signal and its (4)
+ROC
+x(t) =e" u(t) ‘
+Q.4 Determine the Fourier transform of the signum signal. (6)
+Find Fourier Series representation of following discrete time signal : (6)
+x(n) = 4cos =
+Q.5 Determine Z Transform causal unit step signal . Plot its poles and zeros and (6)
+specify its ROC.
+List and explain properties of ROC. (6)
+Q.6 Determine the impulse response signal for all possible ROC conditions if the (8)
+transfer function of the Discrete time LTI system is given as :
+_ 2(3z-11.5)
+H@) = Grae-3)
+Determine the initial value x(0) and the final value x(oo) for the following (4)
+signal using initial and final value theorems.
+t+
+X(s) ~ §2+46s+5
+Q.7 Obtain Fourier Transform of a pure constant signal. (4)
+
+2/5
+--- page 3 ---
+b | State and prove following properties w. r. t. Z Transform: (8)
+
+i) Multiplication by n Property
+ii) Time Shifting Property
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper ac4ae5e82af6
@@ -7266,71 +8906,134 @@ iii) Response if input_x(n) = (1/2)" um)
 b | Determine Fourier transform of signum signal. (5)
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper a4652a3b2ed4
+## 2016-17 · Re-Exam · Sem 3 · paper 31c8631e3813
 
 - Departments: Computer Engineering
 - Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: exam date: 05 December 2017
-- Text: text (2 pages)
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2015-16 RE EXAM.pdf`
+- Printed on paper: exam date: 27 May 2017
+- Text: ocr (2 pages), mean OCR confidence 89.8
 
 ````text
-/
-SVKM's NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBATech (Computer)   Year: II   Semester: III
-Batch: 2016-17 .-
-Academic Year: 2017-2018
-Subject: Signals and Systemsj.
-Date: 05 December 2017
+
+Programme: MBA Tech (Computer) Year: II Semester: III
+al
+Batch: 2015-16
+Academic Year: 2016-2017
+
+Subject: Signals and Systems “ °
+
+Date: 27 May 2017 ¢
+
 Re-Examination
-1) Question No.I is compulsory.
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
 2) Out of remaining questions, attempt any 4 questions.
+
 3) In all 5 questions to be attempted.
+
 4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-Attempt Any Four of the following
-a. Show that discrete Time Sinusoidal Signal is periodic only if its frequency 'f can be   [3.5]
-expressed as ration of two integers i.e. if 'f'is rational.
-Q1. b.   State & Explain Sampling Theorem.   [3.5]
-c.   Determine the power and energy ofx(t)=e-2t u(t).   [3.5]
-d. Given a sequence x(n)=(5)n u(n)   [3.5]
-Sketch the following   sequences:   (i) x(n-2) (ii) x(-n+2).
-e.   Test for periodicity ofx(t)=5cos(4rct)+3sin(8rct).   [3.5]
-f.   What is relation between Fourier & Z-Transform?   [3.5]
-a. What is LTI System? Prove the following   property   for LTI System.   [7]
-Q2.   (i)Distributive   (ii)Comrnutative   (iii)Associative   (iv)Causality   (v)Stability   (vi)
-Invertibility.
-b.   Determine the Linear convolution of sequences x(nj=u(n)-u(n-N) & h(n)= an u(n) ;a<l   [7]
-Q3.   a.   State & Prove convolution   property   of Z-Transform.   Apply this convolution   [7]
-property   to find Z-Transform   using Convolution   for given sequences:   xl(n)= (a)n
-u(n);a<l and x2(n)= u(n),
-b.   Find Inverse Z-Transform   of Log(l +az+] ; lzl >lal.   [7]   -
-Q4.   a.   State & prove any three-properties of FT & DiFT.   [7]
-b.   Find the Fourier transform ofx(t)=sinwot.Draw magnitude & phase plot.   [7]
-Q5.   a. - Find the discrete time Fourier series representation for x(n)=cos([n/8]n+8).   [7]
-b.   If x(t)=l +sinwst+Zcoswot+cosjzwot+Iz/qj]   which has fundamental frequency wo Plot the   [7]
-magnitude and phase response for Fourier Coefficient.
-)/ '1--
+7) Assume Suitable data if necessary,
+
+Ql Attempt any three from the following questions 4x3
+=12
+1 Explain the even and odd parts of a continuous time signal with expressions. 4
+2 Determine whether the following system is static, Causal, time invariant, linear 4
+1
+y) = 5k) +x(-0)]
+3 Prove the convolution property of the continuous time Fourier transform (CTFT). -
+
+4 Describe the relationship between Continuous time Fourier transform (CTFT) and 4
+Laplace transform and then explain for which kind of signal the CTFT is not applicable
+and Laplace transform is applicabie.
+
+Q2 Solve the following
+1 Explain the following operation with the continuous signals with example 6
+a. Time shifting
+b. Time reversal
+c. Time scaling
+
+2 Find y(t) = x(t)*h(t) by convolution method and plot y(t) 6
+Where h(t) = A[u(t+T) — u(t-T)]
+os { -T<t<T
+x0 0, otherwise
+1jPage
 --- page 2 ---
-•
-Q6.   a.   State & prove any three properties of Laplace transform.   [7]
-b.   Consider an LTI system with system function H(S)=(s-l)/(s+   l)(s-2)
-(i) Obtain het)
-(ii) Draw pole zero plot   [7]
-(iii) Show ROC
-(iv)Determine whether the system is causal and stable.
-Q7   a. A discrete time 'system can be (1) static or dynamic (2)Linear or non-Linear (3)Time
-Variant or time invariant (4)Causal or Non causal (S)Stable or unstable   [7]
-Examine the following system with respect to the above properties:
-y(n)= x2(n)+x(n-l)+ 2x(n+ 1)
-b. Determine the state model of the system governed by the Transfer function given by   [7]
-H(Z)=(1.S+ 2Z-1+ 3Z-2+2Z-3)/(1+3Z-1+ 2Z-2+4Z-3)
--
-2-/
-,--2..   _
+Q3
+
+Q4
+
+Qs
+
+06
+
+Q7
+
+Solve the following
+Find the Discrete time exponential Fourier series and plot the magnitude and phase
+spectrum of a Saw tooth wave form shown below
+
+Using the convolution property of Discrete time Fourier transform (DTFT) find
+y[n] = x[n]*h[n] such that X[n] = @” u[n] and h[n] =" u[n].
+
+Solve the following
+
+Obtain bilateral inverse Laplace transform of the given function for all possible ROCs
+by showing corresponding pol-zero plots and also predict the stability and causality of
+each —
+
+X(s ) ea
+Find the Z- Transform for the following signal with ROC and also plot the ROC
+
+X[n] = 76)"uln] - 6G)"ufn]
+
+Solve the following
+Explain and derive the Parseval’s Relation for the continuous time Fourier transform.
+Find the impulse response h(t) of a system characterized by equation by using continuous
+
+time Fourier transform (CTFT).
+ay) | a dy(t)
+ae ae FOF Ge tO
+
+Solve the following
+
+Consider the LTI system with the following differential equation with zero initial
+PO 4590 + 6y(t) = x(t).
+
+If x(t) = etule) then find the expression of y(t) using Laplace transform method.
+Consider following system function
+
+5 Z
+Hz] —— >.
+[2] Z-Dez+DE-D
+
+conditions
+
+For different ROCs determine impulse response h[n] and causality and stability. Also
+
+draw the pole-zero plot for each ROC.
+
+Solve any Three
+
+Prove the time shifting property of the discrete time Fourier transform (DTFT).
+Explain the duality property of continuous time Fourier transform (CTFT).
+Explain the final value theorem of Laplace Transform.
+
+Prove the differentiation property of Laplace Transform.
+
+2 he
+
+Page
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper 3855625afcaa
@@ -7489,139 +9192,6 @@ input x (n) for output which is given by y(n) = [1, 1, 2, -1, 3].
 7M
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper a480484544dc
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/SIGNALS AND SYSTEMS/signals & systems 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 02 June 2018
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Computer)~ Year: II Semester: III
-
-Batch: 2016-17-
-Academic Year: 2017-2018
-
-Subject: Signals and Systems ~
-Marks: 70
-Date: 02 June 2018 ~ Time: 10.00 am to 1.00 pm ~
-Durations: 3 (Hrs)
-No. of Pages: _©2-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory. .
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql Attempt any four ‘
-a Find the energy and power of the following signal and also verify type of the signal. 35
-x(t) = 3u(t)
-b Determine whether the following system is static, Causal, time invariant. 3.5
-yfa] = x{n}+nx{n+1]
-c Determine whether the following signal is periodic or not. If periodic then find the | 3.5
-fundamental time period.
-nt. nt
-x(n] = cos(=) cos(=)
-d Find Fourier Series representation for the signal given by x(t) = sin(Wot) and also draw | 3.5
-magnitude and phase plots.
-e Describe and Derive the relationship between Continuous time Fourier transform | 3.5
-(CTFT) and Laplace transform.
-Q2 Solve the following :
-a If the x(t) is shown as follows x) 7
-i. x(2t+1) 2
-ii, x(t-1) :
-os t !
-iii, x(4-= H
-( 2) ut = 2] = 0 t 51 ;
-foes ly
-7
-
-b | Find y(t) = x(t)*h(t) by convolution method and plot y(t). Where x(t) = e*tu(—t) and
-h(t) = u(t-2).
-
-1]page
---- page 2 ---
-Q3
-
-Solve the following:
-
-Find the Continuous time exponential Fourier series and plot the magnitude and phase
-spectrum of a Saw tooth wave form shown below
-
-Define the Fourier Series and Write the derivation for determining the Fourier series
-coefficient of a continuous time periodic Signal.
-
-Q4
-
-Solve the following ;
-
-Find Continuous time Fourier transform of the following:
-i. x(t) = eWale-2l
-ii, x(t) = cos(6mt — = -
-
-Using the convolution property of Discrete time Fourier transform (DTFT) find
-y[n] = x[n]*h[n] such that X[n] = a@”" u[n] and h[n] =8" u[n].
-
-Q5
-
-Solve the following :
-
-Consider the following signal
-x(t) =e7*u(—t) + eStu(—t) ,
-Determine the Laplace transform and locate the poles, zeros and ROC in the s- plane.
-
-Consider the LTI system with the following differential equation with zero Initial
-conditions. .
-d* y(t dy(t
-x Ns 5 ) + 6y(t) = x(t)
-Where x(t) = e~**u(t). Find an expression for y(t) using Laplace Transform method.
-
-Q6
-
-Solve the following :
-
-Find the Z- transform of the following sequences and also plot ROC with pole zero plot
-using the properties of Z-—transform.
-
-i. x[n] = @ruln] + (:)" u[—n — 1]
-i, x(n] = ulm} + (2) uf-n- 4.
-
-Find x[n] using inverse Z-Transform method
-
-if X[z] = ary with ROC |z| > 4.
-
-Q7
-
-Attempt any two :
-
-If x(n) = 2"u(—n — 1) and h(n) = u(n — 1). Then find y(n) = x(n)*h(n) by analytical
-method.
-
-Explain and prove the Initial value theorem and final value theorem of Laplace
-Transform.
-
-Prove the Differentiation in time domain property and convolution property of the
-continuous time Fourier transform (CTFT).
-
-2]gaee
-````
-
 ## 2016-17 · Re-Exam · Sem 3 · paper d6d69c14187a
 
 - Departments: Information Technology
@@ -7751,94 +9321,156 @@ Sketch the following signal with respect to time
 x(t)}= u(t)-r(t-1)+2r(t-2)-r(t-3)+u(t-4)-2u(t-5)
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 09a051ef42d3
+## 2016-17 · Re-Exam · Sem 3 · paper 6ee522dfc565
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/SIGNALS AND SYSTEMS/Signals and systems Re-exam 2016-17-18-19_09a051ef42.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 anuagy 019
-- Text: ocr (2 pages), mean OCR confidence 84.8
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2015-16 RE EXAM_6ee522dfc5.pdf`
+- Printed on paper: exam date: 31 May 2017
+- Text: ocr (2 pages), mean OCR confidence 82.4
 
 ````text
-é
-
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Program: B.Tech/ MBA Tech (IT) Year: (- Semester : II
-o Academic Year: 2018-19
-| Subject: Signals and Systems Marks: 70
+Programme: MBA Tech (EXTC) Year: II Semester: III
+c
 
-Time: 2.00 pm to 5.98 pm
+Batch: 2015-16
+Academic Year: 2016-2017
 
-2235 (2
-Date : 23 anuagy 019 Durations:3 (hrs),
+~ATOTE BF Bap
+Subject: Signals and Systems 4 sot NAS
+y Mapes60 NS
+Date: 31 May 2017 Timae? 10.00 anité 1.0@
 
-No. of Pages:_D2— _
-Re-examination (2016-17 / 2017-18/ 2018-19)
+ériss 3. (hrs)* 3 s
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Re-Examination = Meenas
 
-1) Question No. | is compulsory.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-2) Out of remaining questions, attempt any 4 questions.
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any f WL questions.
+3) In all_45 _ questions to be attempted
 
-3) In all 5 questions to be attempted.
+4) All questions carry equal marks
 
-4) Answer to each new question to be started on a fresh page.
+5) Answer to each new question to be started on a fresh page.
 
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data if necessary.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
-Ql. a. Given a sequence x(n)=(1/2)" u(n) [3.5]
-Sketch the following sequences: (i) x(n-2) (ii) x(-n+2)
-b. Explain the Initial value theorem and final value theorem in Laplace transform’. [3.5]
+Ql Answer any three of the following questions. [12]
+A Define different types of signals. [4]
+B Check whether the system are linear or not. [4]
 
-c. Define the term ROC in Laplace transform and its significance. What is relation between [3.5]
-Fourier & Z-Transform?
+@ y(t) =t x(t)
+Gi) @ yO = x(t)
 
-d. Determine the power and energy of x(n)=(1/4)" u(n) [3.5]
+Cc Explain time shifting property of Fourier transform. ’ [4]
+D Determine the z-transform and ROC of [4]
+x(n) = {on 20
+0 n<0 .
+E Explain state model of second order system. [4]
+Q2 A Determine linear convolution of the two sequences using linear convolution using graphical [6]
+method
+x[n] = {1,2,2,3}
+h{n] = {1,1,2}
+B Obtain the trigonometric Fourier series for the half wave rectified sine wave as shown in fig. [6]
 
-Q2. a. Determine the range of values of ‘a’ and ‘b’ for the stability of LTI system with impulse [7]
-response h(t) = e*.u(t) + e7>* u(t).
+Pt
 
-b. Find the convolution of x(n)=[1, 2, 3,4] & h(n)=[1, -1, 1, -1] using Analytical Method. [7]
-Q3. a. Determine the Fourier Series representation of x(n) = 4 cos0.57n. [7]
-b. For continuous time periodic signal [7]
-2m 5m
-x(t) =2+cos (=:) +4 sin Zo
-Determine fundamental frequency Wo and Fourier series coefficients.
-Q4. a. Determine the Fourier Transform of the signal x(n) = (a)!™ ; -1<a<1 [7]
-b. State & prove convolution and differentiation property of Discrete Time Fourier Transform. [7]
+Hy
+a (
+0 Wp T 3/2
 
-Q5. a. Find the z-transform X(z) and sketch the pole zero with ROC for the following sequence. [7]
-
-tfpage
+if
 --- page 2 ---
-Qo.
+Q3.
 
-Q7.
+Q4.
 
-x(n) = ()" u(n) + (2)" u(—n — 1)
+Q5
 
-Find the inverse z-transform of X(Z) = = [7]
-(z-1)(z-2)
-Find the Laplace transform and ROC of x(t) = e~3*u(t). ; (7]
+Q6.
 
-Perform Convolution of Xi(t) and X2(t) of following using convolution theorem of Laplace —_[7]
-Transform. Xi(t)= u(t+5), X2(t)= 6(t — 7)-
+Qz.
 
-Determine the state model of the system govern by the equation: [7]
-y(n) = —2y(n — 1) + 3y(n — 2) + 0.5y(n — 3) + 2x(n) + 1.5x(n — 1) +
+A
 
-2.5x(n — 2) +4x(n— 3)?
-The state space representation of discrete time system is given by, [7]
-_f2 -1 _ fl) pe _
-4=[§ [be=[)¢=0 30-8)
-Derive the transfer function of the system.
+A
 
-apes
+A
+
+Determine the impulse response and ,frequency response of linear constant coefficient
+difference equation
+
+y(n) — 2y(n- 1) +2 y(n — 2) = x) - Fx(n-1)
+
+Explain the properties of ROC for Laplace Transform.
+
+Compute the inverse z-transform for
+X(z) =
+(i) lz|>1
+(ii) e|< ;
+
+(ii) $<p<I
+
+372 -4z41 for following cases of ROC.
+
+Determine the Fourier transform for the double exponential pulse whose function is given by
+qy=e El,
+
+Compute the step response of the system
+y(n) — syn -1)- syn — 2) =x(n)
+
+The discrete time systems are represented by the following difference equations in
+which x(n) is input and y(n) is output.
+
+(i) y(n) = 3y2(n— 1) — nx(n) + 4x(n — 1) — 2x(n + 1)
+
+(ii) y(n) = nx(n + 1) — 3x(n) + x(n - 1)
+Are these systems linear, shift invariant and causal? Justify your answer.
+
+Determine the initial and final value of the current where
+0.52
+\(s) = 5G2 4045s + 0.818)
+If the state model of the system is given by
+xy(kK+1)] 70 17$%1k) 0
+(eee a" Dl =[4 —sl mo) +[;] uo
+%
+ya= 2 -1[2 eo] + flue
+
+Determine the transfer function of the system.
+
+Write Short Notes on any two
+
+Discrete time Fourier transform and it’s any two properties.
+Series and parallel interconnection of the system
+
+Initial and final Value theorem of Z-Transform
+
+tp
+
+[6]
+
+[6]
+
+[6]
+
+[6]
+
+[6]
+
+[6]
+
+{6]
+
+[6]
+
+{12]
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper d2af601813cc
@@ -7848,6 +9480,7 @@ apes
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2016-17 RE EXAM.pdf`
 - Printed on paper: exam date: 31 May 2017
 - Text: ocr (3 pages), mean OCR confidence 83.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7919,7 +9552,6 @@ a) Determine the trigonometric form of Fourier series of the waveform shown in
 below figure. [07]
 CO
 &
-~T -x.* f° zx & 5 t
 2 4a a 2
 
 b) Determine the convolution of X(t) = e* u(t) and X2(t) = e u(t). Using
@@ -7978,6 +9610,134 @@ fundamental period
 X(t)= 4sin a +5 sin =
 
 Page 3 of 3
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper 063cb5874182
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/Signals And Systems Batch 2015-16 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 03 December 2016
+- Text: ocr (3 pages), mean OCR confidence 79.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : MBA. Tech (EXTC) Year : II Semester : III
+Batch : 2015-16
+
+Academic Year : 2016-2017
+
+Subject : Signals and Systems Marks : 60
+Time: 10.00 am to 1.00 pm
+Date : 03 December 2016 Duration : 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+NB:
+
+{. Question No. 1 is compulsory.
+
+z. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4: All question carry equal marks.
+
+' 5, Answer to each new question to be started ona fresh page.
+*€.. Figure in brackets on right hand side indicate full marks.
+
+Ql Attempt any Four of the following: — 12
+A. _ - Perform the following operations on triangular pulse given below: . 3
+aC ‘ .
+‘
+a aly | \ >
+x(2t+3) and x(- 2t+3) .
+B. Explain Time variant and Invariant systems with one Example. 3
+C. __ Differentiate between Laplace transform and Z-Transform (any three points). 3
+. D. Find the fundamental period and frequency of following signal: 3
+
+X(t) = Ssin 242 t +7sin36z t
+
+E. Find Z-Transform of X(n) = {1,2,5,7,0,2} - 3
+
+F.- Find odd & even components of each of the following signals: : . 3
+x(t) = 1+ tcos(t) + t.sin(t) + t?.sin(t)cos(t)
+
+Q.2 Attempt the following: : 12
+
+A. Plot the following: . : ~ 06
+X(t)= 2u(t)+ 2u(t-2)-2u(t-4)-2u(t-6) and x(n)= 2", UC n)
+
+as
+--- page 2 ---
+Determine whether the following systems are static, causal, time invariant, linear and
+
+stable.
+, a) Y(t)= x(t). cos100n t b) y(t)= 10 x(t) +5
+Q.3. Attempt the following: : : -
+A. State various applications of Convolution Also Find the convolution of x(t) and h(t) 06
+
+X(t)= u(t) — u(t-3) and h(t) = u(t) — u(t-2).
+
+B. _ State and prove Convolution property of Laplace Transform also obtain the 06
+Initial and Final value of X(S) = at
+Q.4. Attempt the following: 2
+A. _, - Find the Inverse Laplace Transform of . . 06
+1O= SEH
+B. A Certain System is described by following differential equation: 06
+£70 4 72 + 129) = x(o),
+
+Use Laplace transform to determine the response of the system to unit step i/p
+applied at t= 0 . Assume the initial conditions are y(0-) = -2 & ¥(0-) = 0
+
+Q.5 — Attempt the following:
+
+A. °, — Find the trigonometric Fourier series for the periodic signal shown below: 06
+
+ua ue)
+
+2 7
+
+. > ue we transform of the vel f(t) ) Shown't "below 06
+a
+\ od -\od &
+oov
+<< ~W ze
+Q.6° Attempt the pies ek 12
+A. : Determine the Z-Transform and ROC for the following signal. 06
+
+X[n] = (n+ 0.5) (1/3)"u(n) = Also showthat — x(n) =n. u(n- 1)
+
+B. Find the fayerse Zz Transform of . ~ 06
+ta) =
+eed = (44 627)
+
+a
+--- page 3 ---
+Q7--
+
+Attempt the following:
+
+The state variable model of a continuous LTI system is
+
+200 ) fo 2 Aral ‘pe
+
+Obtain the state response x(t) Assuming zero initial conditions.
+
+Explain Diagonalisation and find the state variable model of the system described
+- below:
+
+YN) 42ND — YC — 6Yb= 2:8)
+
+12
+
+06
+
+06
 ````
 
 ## 2015-16 · Final-Exam · Sem 3 · paper 321eb909fee3
@@ -8724,134 +10484,136 @@ If system matrix A = 0-2
 find the state transition matrix of discrete time domain.
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 304aef757245
+## 2015-16 · Re-Exam · Sem 3 · paper b4187d30a63b
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS B TECH (EXTC), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 02 December 2016
-- Text: ocr (3 pages), mean OCR confidence 79.9
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 04/12/2015
+- Text: ocr (3 pages), mean OCR confidence 82.0
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (EXTC) Year : Il Semester : III
-Batch : 2015-2016 ee
-Academic Year : 2016-2017 jg Ree a
-| 7
-| i Marks | ra
-j i Systems 7
-| Subject : Signals and System: el Sti ;
-PRA ‘1
-Date : 02 December 2016 Duratil (hrs) 4
-* pt *
-Maas TaN
-Re-Examination SS ul
+Programme: B. Tech (EXTC) Year: II Semester: III
+Batch: 2014-2015
 
-. Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use.
-NB: : :
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
-3. In all five questions to be attempted.
-4. All question carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets on right hand side indicate full marks.
+Academic Year: 2015-2016
 
-Q.1 | Attempt any Four of the following: 12
-A. Find &.sketch even & odd parts of the signals as shown below. 3
-: UN
-peey
-t
-7 D
-hes ° 2 \3 >» ¢ :
-B. _ - Explain Linear and Non-Linear systems with one Example. : 3
-Cc. State & Prove Final value theorem of Laplace transform. 3
-D. Find the fundamental period and frequency of following signal: 3
+Subject: Signals and Systems . NS A
+Marks: 6 MPSTME Y%
+Date: 04/12/2015 Time: Yl sten o5:%)8
+Duration: 3 Se ; {f
+y A
+Ora iD
 
-X(t) = 5sin 242 t +7sin3 6x t.
-E. State and Prove Time reversal Property of Z-Transform. 3
+Re-Examination
 
-F.- Prove that the signals X(t) and Y(t) given in figure below are Orthogonal over 3
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-the interval [0, 4]. yo.
-Ie 14 _ +\ = 4
-. ; —> >t
-oe 0 OG ae
-Q.2 — Attempt the following: . a : 12
-A. Sketch: X(t) = [ u(t) + r(t-1) — 2 u(t- 3)] u(- t+ 5). Also Find Even and odd part 06
-of X(t) .
+Note the given instructions:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions are to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data, if required.
+
+Q1. Attempt any Pour questions. i)
+(a) Distinguish between Power & Energy Signals with the help of examples.
+(b) Determine the properties of the following system when :
+y(t) = x(t) — tx(t) + x(t?)
+(c) State and prove the time scaling property w.r.t. Z transform.
+
+(d) Define poles and zeroes of a system. Out of poles and zeroes which determine the system’s
+stability. Explain your answer with the help of relevant mathematics.
+
+(e) Obtain the convolution between x[n] = {1,2,3,1} & h[n] = {1,2,5} using tabular
+method.
+
+(f) Obtain the Fourier transform of x(t) = te~™.
+Q2.
+(a) State and prove any three properties of Laplace transform. ¢)
+
+(b) “A signal can never be time limited and band limited simultaneously.” Explain the validity of
+this statement using examples and mathematical equations. Cc»
+
+43
 --- page 2 ---
-B. °. Determine whether the following systems are static, causal, time invariant, linear and 06
-stable.
+r.
 
-a) Y(n) = X(n) —X(n- 1) + X(nt+ 1) b) ¥(t) = sin[X(t + 2)]
+nalwhen x(t) =r (c)-7 (Cc -1)t+u(t—-2)- 2u(¢-3). C2)
 
-Q.3. . - Attempt the following: : 12
-A. State various applications of Convolution Also Find the convolution sum for following 06
-DTS.
+Q3.
+(a) Find the Trigonometric Fourier Series for full-wave rectified sine wave. C6)
+(b) Find fourier transform for x(t) =u(t+0.5)-—u(é— 0.5)? Draw magnitude and
+phase plot for fourier transform. (6)
+Q4.
 
-X[n] = {2,4,3} h[n]={ 8,7,1,6}
-tT "
+(a) A causal DT-LTI system has the transfer function of the form H(z) = H,(z).H2(z). The
+poles and zeroes of H,(z) are p = 0.5 & z= -1/3 whereas the poles and zeroes of H2(z) are p=
+0 & z=-1/2 respectively.
 
-+t
-B.. If X(S) = saat ie
-‘Then Find the Laplace Transform of the Following:
-a) Y()=XQ2t-1) b) Y(t) = X(t) * Cos 7t
-Q.4.° Attempt the following: 12
-Ae Find the Inverse Laplace Transform of / - 06
-X(S)=>=   Forall Possible ROCs.
-B. A Certain System is described by following differential equation: 06
+(i) Determine the transfer function of the system.
+(ii) Find the difference equation of the system.
+ees . 1\"
+(iii) Find the output response of the system when x[n] = (- *) u{n]. (a>) ~~
 
-ayo) 7 4x)
-dt? dt
+(b) Obtain the convolution between the following sequences when using Graphical method
 
-+ 12y(t) = x(t)
-Use Laplace transform to determine the response of the system to unit step i/p .
-applied at t= 0 . Assume the initial conditions are y(0-) = -2 & y(0-) = 0
+ONLY when:
 
-Q. 5 Attempt the following:
+x(t) = u(t)- u(t-3)
 
-sei ucne meric
+A(t) = u(t -4) -u(t— 7) C6)
+Q.5. (a) A causal discrete time LTI system is described by: ce)
 
-A. _ Obtain the Fourier series for the rectangular pulse train shown below: 06
-Fig. he 2.2.1,
-x(t)
-: A
-—i—t —>t
-Ty -Ty2   -v2 | v2   Ty2 it
-Tp ‘|
+Y(n]-2 y[n-1] +5 y[n—2] = x{n]
+Where x(n] & y[n] are the input and output of the system respectively.
 
-ee
+(i) Determine the system function H(Z)
+(ii) Find the impulse response h[n] of the system
+(iii) Find the step response s[n] of the system
 
-B. * State and Prove any Three Properties of Fourier Transform. 06
-gibi Q.6 Attempt the Following: - : 12
+1
+(b) Find the response of a system with transfer function H(S) = — where Re(S) > -5.
 
-A. *, Determine the Z-Transform, ROC, the location of poles & zeros of X(z) for the 06
+Input x(t) = e* u(t) +e u(t). C 6)
+Q.6. (a) Find state transition matrix if e)
+-3 0
+ail —
+ae | 0 1]
+pee (b) Determine the state variable model of — (3)
 
-following signal.
+Y[n] + aly[n-1] + a2y[n—2] + ady[n—-3] = bx{n]
 
-X[n] = (1/2)"u(n)—(1/4)"u(n) — Also show that u(n)*U(n-1) = n. u(n)
-
-2/3
+13
 --- page 3 ---
-B. Find the inverse Z Transform of , ~ 06
+riable model ofa CT LTI system ‘s — ce)
 
-X(z) = (4-1/2.2%) / (1-1/4.2?) with ROC |z] >%
+(c) The siate var
 
-Q.7 Attempt the following: 12
-A. Using suitable method obtain the state transition matrix for the system matrix 06
-[0 -3
-at Tal
+¥%,(t)] 7 0 24{1O1, [1s
+Pa =|-3 —5) | x(t)4 + [3 ae
 
-Also Obtain Eigen values of A.
+Calculate the state vector [x,(t) x.(t)] 7
 
-B. _ Obtain state variable model in phase variable form for the transfer function 06
+Q.7. | (a) Find the state space model of the given electrical network C6)
+ly - |
+R \ L i {Le _
 
-s+3
+(b) The impulse response of an LT] system h[n] = {1, 2, 1,-1}. Find the response y[n] of the
+oo system for the input x[n] = {1, 2, 3, 1} using Discrete time Fourier Transform. <>)
 
-NS) = Stee card
+3/z
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper da9ea1d12f40
@@ -8861,6 +10623,7 @@ NS) = Stee card
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS B TECH BATCH 15-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 13 June 2016
 - Text: ocr (2 pages), mean OCR confidence 81.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 " SVKM’s NMIMS
@@ -8930,7 +10693,6 @@ i
 Sketch x(3t+2) and x(-2t-1)
 b Obtain the convolution of two discrete time signals using graphical method (6)
 
-h(n) == {ufn]—ufm-4]} and x(n) = u[n] — ufn-10]
 
 +6.
 --- page 2 ---
@@ -8983,25 +10745,30 @@ eal x(n) =a"[u(n)— u(n—N)], a0
 Also determine and sketch the poles and zeros of Z Transform for N = 4
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper e43e95109b13
+## 2015-16 · Re-Exam · Sem 3 · paper 6f2b8d24c68c
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS (IT), BATCH 14-15, 15-16 RE EXAM0001.pdf`
-- Printed on paper: exam date: 30 November 2016
-- Text: ocr (2 pages), mean OCR confidence 89.0
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS B TECH (I T ), BATCH 2014-15 RE EXAM0001.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’S NMIMS
+SN SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (I.T.) Year : I Semester : III
-Batch : 2014-2015 / 2015-2016 5
+Programme: B. Tech (1.T.) Year: II Semester: III
+Batch: 2014-2015
 
-Academic Year : 2016-2017
-Subject : Signals and Systems
+Academic Year: 2015-2016
 
-Date : 30 November 2016
+Subject: Signals and Systems
+
+i Marks:
+Date: 02/12/2015 Time:
+
+Duration:
 
 Re-Examination
 
@@ -9010,359 +10777,114 @@ cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No. _1_ is compulsory.
+1) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any __4 __ questions.
-3) Inall 5 questions to be attempted.
+2) Out of remaining questions, attempt any 4 questions.
 
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Ql Attempt (Any THREE)
-1) Draw and explain any five standard Discrete time signals.
-2) Find even and odd parts of x(n):
-x(n)=u(n)-u(n-5)
-12(s+1)
-3) Find initial and final value x(t) = --------------------
-s (s? + 4)
-
-12
-
-for Laplace transform.
-4) Explain properties of convolution integral.
-5) Explain the concept of Region of Convergence, single and double sided
-Z transform.
-6) Derive the quadrature Fourier series analysis for periodic signals.
-Q2(A) Plot the following signal-
-x(t) =[Su(t+4)-2u(t-2)+2(t-1)]+[r(t)-r(t-3)]
-
-Q2(B) Determine whether the following continuous time system is- 1)static or
-dynamic 2) linear or non-linear 3)shift variant or invariant 4) causal or
-non-causal 5)stable or unstable
-
-y(t)= sin [x (t+2) ]
-a Q3(A) Compute the Convolution y(n) = x(n) * h(n) where x(n) = {2, -2, 0, 4,1}
-“and h(n)= {1,-3, Ne using Tabulation method. 4 6
-
-Q3(B) Sketch the single and double sided spectra of x(t)= 2 sin(10 m t-30°) +
-cos (2 1 ft) using Fourier Series.
---- page 2 ---
-Q4(A)
-
-Q4(B)
-
-5A)
-Q5)
-Q6(A)
-
-Q6(B)
-
-Q7
-
-Obtain the inverse Laplace transform of X(s) for ROC: o > -(1/4)
-
-(s-(1/2))
-X(S)=---------------- ==>
-(s? + (3/4)s+(1/8))
-Consider a continuous-time. LTI system with system function
-
-3st+7
-H(S)=-----------2-0-- 020220
-(s+1) (s+2)(s+5)
-
-Find state representation of the system such that its system matrix A is
-
-diagonal.
-Obtain DTFT and plot the magnitude and phase response of
-
-h(n)= {0, 1, 1,1}.
-
-Find the Laplace transform of the given function.
-x(t) =(t? -2t) u(t-1)
-Determine Z transform and ROC of signal: x(n) = [3 (42) - 5 (3°)] u(n)
-1
-
-Determine inverse Z transform using PFE X(Z) = -----
-(Z-1) (Z-3)
-
-Write a short note on: (Any Two)
-
-1) Direct form-I and Direct form-II structure of LTI system
-2) Properties of Linear convolution
-
-3) Discrete Time Fourier Transform
-
-4) Parseval’s power theorem
-
-2) 2
-
-12
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper b97b017181b7
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS B TECH (IT), 14-15, 15-16 RE EXAM0001.pdf`
-- Printed on paper: exam date: 30 November 2016
-- Text: ocr (2 pages), mean OCR confidence 89.3
-
-````text
-“
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (I.T.) Year : Il Semester : III
-Batch : 2014-2015 / 2015-2016
-Academic Year : 2016-2017
-
-Subject : Signals and Systems
-Date : 30 November 2016
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. :
-
-NB:
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3) In all _S_ questions to be attempted.
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable Data if required
 
-Ql Attempt (Any THREE)
-1) Draw and explain any five standard Discrete time signals.
-2) Find even and odd parts of x(n):
-&(n)=u(n)-u(n-5)
-12(s+1)
-3) Find initial and final value x(t) = --------------------
+Ql Attempt (Any Four) fa
 
-for Laplace transform.
-4) Explain properties of convolution integral.
-5) Explain the concept of Region of Convergence, single and double sided
-Z transform.
-6) Derive the quadrature Fourier series analysis for periodic signals.
-Q2(A) Plot the following signal-
-x(t) =[Su(t+4)-2u(t-2)+2(t-1)]+[x(t)-1(t-3)]
+1) Distinguish Continuous, Discrete valued signal and Digital signal.
+2) What do you mean by Nyquist rate and Nyquist interval?
+3) Explain the concept of Region of Convergence and Pole-Zero.
+4) Determine the Initial and Final values of the function whose Laplace Transform is
+given by :
 
-Q2(B) Determine whether the following continuous time system is- 1)static or
-dynamic 2) linear or non-linear 3)shift variant or invariant 4) causal or
-non-causal 5)stable or unstable
+5s +50
 
-y(t}= sin [x (t+2) ]
-Q3(A) Compute the Convolution y(n) = x(n) * h(n) where x(n) = {2, -2, 0, 4,1}
-“and h{(n)= {1,-3, $3 using Tabulation method. 4
+X(S) = n-ne
+s(st+5)
 
-Q3(B) Sketch the single and double sided spectra of x(t)= 2 sin(10 m t-309) +
-cos (2 1 ft) using Fourier Series.
+5) What is the necessity of Fourier Transform?
+6) Derive Initial value Theorem
+Q2(A) Determine whether the following continuous time system is- 1)static 6
+or dynamic 2) linear or non-linear 3)shift variant or invariant 4)
+causal or non-causal 5)stable or unstable
+yi(t)= x(t) Cos 100nt
 
-12
+Q2(B) State and Prove Sampling Theorem. 6
+Q3(A) Compute the Convolution y(n) = x(n) * h(n) where x(n) = {1,3,0,-2,1} 6
+gai h(n)= ¢1,-1,, e using Tabulation method. :
+
+Q3(B) Explain and derive the following interconnection to different €
+subsystems: 1) Cascade, 2) Parallel and 3) Feedback
 --- page 2 ---
-Q4(A)
+Q4(B) Using partial fraction expansion method find Z transform of the 6 |
+following system givenby,
+- Z+0.3
+(Z + 0.2) (Z + 0.5)
 
-Q4(B)
+Q4(A) Determine H(Z) and draw a pole-zero plot of a system 6
+3. 1
+y(n) + y(n-1) + — y(n-2) = x(n) + x(n-]) i
+4 8
 
-QS(A)
+Q5(A) Determine inverse Z transform using convolution method 6
 
-QS5(B)
+1- 3Z1 + 2Z-2
+QS5(B) Draw the direct form-I and II structure for the following system: 6
+3y (n) - 2(n-1) + y(n-2) = 4x (n) - 3x (n-1) + 2x(n-2)
+Q6(A)   LTI system, which is initially at rest, is described by the differential equation. 6
 
-Q6(A)
-Q6(B)
+a’ y(t) dy (t) ax (6)
+— 43 ———-- +2 (=~ + 3x(t)
+a? dt dt
 
-Q7
-
-Obtain the inverse Laplace transform of X(s) for ROC: o = -(1/4)
-
-(s-(1/2))
-X(S)=------------------- ==
-(s? + (3/4)s+(1/8))
-Consider a continuous-time LTI system with system function
-
+Calculate system transfer and impulse response of the system.
+Q6(B) Consider a continuous-time LTI system with system function 6
 3s+7
-H(S8)=-------------------------
+
+H[s)=----------------2-0=-=--"
 (s+1) (s+2)(s+5)
 
-Find state representation of the system such that its system matrix A is
-diagonal.
-
-Obtain DTFT and plot the magnitude and phase response of
-
-h(n)= {0, 1, 1,1}.
-
-Find the Laplace transform of the given function.
-
-x(t) =(t? -2t) u(t-1) 3
-Determine Z transform and ROC of signal: x(n) = [8 (4) -5 (34) u(n)
-
-1
-Determine inverse Z transform using PFE X(Z) = ------------------
-(Z-1) (Z-3)
-
-Write a short note on: (Any Two)
-1) Direct form-I and Direct form-II structure of LTI system
-2) Properties of Linear convolution
-3) Discrete Time Fourier Transform
-4) Parseval’s power theorem
-
-2) 2.
-
-12
+Find state representation of the system such that its system matrix A
+is diagonal
+Q7 Write a short note on: (Any Two) pe
+1) Summary of Laplace Transform :
+2) Properties of C.T. Fourier Series
+3) Convolution Properties
+4) Pole-Zero plot of System .
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 29784fdd1ea5
+## 2015-16 · Re-Exam · Sem 4 · paper cdcbd53112cc
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 14-15, 15-16 RE EXAM(1).pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 July 2017
-- Text: ocr (2 pages), mean OCR confidence 82.2
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS B TECH (MECHATRONICS), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 07/05/2016
+- Text: ocr (2 pages), mean OCR confidence 85.6
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (MECHATRONICS) Year: I Semester: IV ~~
+Programme: B.Tech (Mechatronics) Year: I Semester: IV
 
-| Batch: 2014-2015 / 2015-2016 +
+Academic Year: 2015-16
 
-7 ert OF
-, Academic Year: 2016-2017 ae 2 NN
+Batch: 2014-15
 
-Subject: Signals and Systems ~~ Ag { o8t tek Ra
-Marks: 60 wo MARY }
-Date: 08 July 2017 + Time: 10.00 ami tl\.00'pr ae
+j i Marks: 60
+, t
+Subject: Signals and Systems ees obo ie
+Date: 07/05/2016 Durations: 3 hrs.
 
-Durations:3 (hrs) "% ‘
-No. of Pages: OZ OR eae
-Re-Examination oe
+Re-Examination w
+ug a Ve
+\ eal and ¥ if)
+ee Y
 
-*
-=i
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data, if required.
-
-Q.1 Attempt any THREE of the following - (12)
-a Distinguish between: i) Energy & Power signal, ii)Deterministic and Random *-: (4)
-
-Signal iii)Even and Odd Signal
-
-b_ Verify whether the following system are linear or non linear , stable or unstable . ; (4)
-yal x()
-c Explain relationship between Laplace transform and Fourier transform- (4)
-
-d Distinguish between: i) Energy & Power signal, ii)Deterministic and Random (4)
-Signal iii)Even and Odd Signal
-
-Q.2 a Find the Laplace transform of the following continuous time signal and its (4)
-ROC. ;
-x(t) = e** u(t)
-b_ Determine the initial value x(0) and the finat value x(c0) for the following (8)
-“Signals Using initial and final value theorems.
-. st1
-i) X(s) = s?4+2s+2
-.. s?41
-| a Ris) = Ss?+6S+5
-Q.3 a Determine the transfer function for the system described by following (4)
-difference equation.
-a i) y[n]-0.5y[n-1]=2x[n-1]
-
-li) y[n]=x[n]-x[n-2]+x[n-4]-x[n-6]
-
-b Determine the impulse response signal for all possible ROC conditions if the (8)
-
-- Page 1 of 2
---- page 2 ---
-transfer function of the Discrete time LTI system is given as : 7 ae ws
-
-__ z(3z-11.5)
-H(Z) = Gea@-3)
-Q.4 a §$tate and prove following properties w. r. t. Fourier Transform: (8)
-i) Linearity Property
-ii) Time Shifting Property
-b_ Find the Fourier Transform of x(n) = {21,2} (4)
-Q5. a Determine the Fourier series representation of the signal shown in following (8)
-
-figure. Hence determine the trigonometric form of Fourier series.
-
-aw
-
-|
-
-37 &
-
-b_ Find the Fourier transform of-unit step signal. (4)
-
-4
-Q.6 4 Find the inverse Laplace transform of X(s) = Giner) 8)
-
-if the ROC is
-i) -2>Re{s}>-4
-ii)Re{s}<-4
-iii)Re{s}>-2
-
-b What are Dirchlet Conditions ? What is the significance of these conditions? (4)
-Q.7. a..Perform.convolution of following signals and find y(t) : (6)
-
-x(t) = sint.u(t) and h(t)= r(t)
-b Determine Z Transform of- (6)
-
-i) x1[n] = a" u[n]
-
-aad ii) © x2[n] =—a™u[-n-1].
-
-Plot its poles and zeros and specify its ROC.
-
-= Page 2 of 2
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 1cb7e117d2a7
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 06 May 2017
-- Text: ocr (3 pages), mean OCR confidence 91.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN EERING
-
-Programme: B. Tech (MECHATRONICS) Year: II Semester: IV
-Batch: 2014-2015/2015 - 2016
-Academic Year: 2016-2017
-
-Subject: Signals and Systems
-
-Marks: 60
-Date: 06 May 2017. Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs) ~—
-No. of Pages: 3 —
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
+Instruction: Candidates should read carefully the instructions printed on the qu
 on the cover of the Answer Book, which is provided for their use.
-NB:
+
+NB: ;
 
 1) Question No. 1 is compulsory.
 
@@ -9375,62 +10897,76 @@ NB:
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
+
 7) Assume suitable data, if required.
 
 Q.1 Attempt any THREE of the following (12)
+a Determine power and energy of the unit step signal. (4
+b Sketch the even and odd part of unit step signal (4)
+c Verify whether the following system are linear or non linear ,-stable or (4)
+unstable . y(t) =t? x(t)
 
-a | Determine power and energy of the following signal. ; (4)
+d_ Verify whether the following signal is periodic . If periodic find fundamental (4)
 
-x(t) = et u(t)
+period. x(t)=4sin( =) +5 sin =)
 
-b | Sketch the even and odd part of unit step signal . (4)
-c | Verify whether the following system are linear or non linear , stable or (4)
-t
-unstable . y(t)=e x(t)
+Q.2. a Perform convolution of following causal signals (8)
 
-d | Verify whether the following signal is periodic or non periodic . If periodic find | (4)
-fundamental period. x(t)= 6 sin(5t)+5 sin (4zt )
+(i) x(t) =2 u(t), h(t) = u(t)
+(ii) (ii) x(t) = cost u(t), h(t)=t u(t) .
 
-Q.2 | a | Determine the exponential form of the Fourier series representation of the signal | (8)
+b Find the Laplace transform of the following continuous time signal and its (4)
+ROC
+x(t) = e** u(-t)
+
+Q.3 a Determine the exponential form of the Fourier series representation of the signal (8)
 shown in following figure. Hence determine the trigonometric form of Fourier
 series.
+
+Va
 --- page 2 ---
-x(t)#
+x(t)
 
-+ tt Prt T t
-27% a 2
+fo) T 27 3T t
+i
+ye
+b Find the Fourier Transform of x(n) = { 2, 1, 2 } (4)
+~* °.Q.4 a Determine the Fourier transform of the signal shown below (6)
+at)
+4.
+-T T t>2
+b Find Fourier Series representation of following discrete time signal : (6)
 
-Find the Fourier Transform of x(n)=1; OSn<4 (4)
-=0 ; otherwise
-Q.3 Perform convolution of following causal signals (8)
-. -5t
-@ xHj=tu,hQ=e u(t)
-(ii) ~—s Gi) x(t) = cost u(t), h() =t u(t) .
-Find the Laplace transform of the following continuous time signal and its (4)
-ROC
-x(t) =e" u(t) ‘
-Q.4 Determine the Fourier transform of the signum signal. (6)
-Find Fourier Series representation of following discrete time signal : (6)
 x(n) = 4cos =
-Q.5 Determine Z Transform causal unit step signal . Plot its poles and zeros and (6)
-specify its ROC.
-List and explain properties of ROC. (6)
-Q.6 Determine the impulse response signal for all possible ROC conditions if the (8)
-transfer function of the Discrete time LTI system is given as :
-_ 2(3z-11.5)
-H@) = Grae-3)
-Determine the initial value x(0) and the final value x(oo) for the following (4)
-signal using initial and final value theorems.
-t+
-X(s) ~ §2+46s+5
-Q.7 Obtain Fourier Transform of a pure constant signal. (4)
 
-2/5
---- page 3 ---
-b | State and prove following properties w. r. t. Z Transform: (8)
+Q.5 a Determine Z Transform of anti-causal unit step signal . Plot its poles and zeros (6)
+and specify its ROC.
 
-i) Multiplication by n Property
+b_ List and explain properties of ROC (6)
+Q.6 a Obtain Fourier Transform ofa pure constant signal. ; (4)
+b State and prove following properties w. r. t. Laplace Transform: (8)
+
+i) Linearity Property
 ii) Time Shifting Property
+
+Q.7 a Determine the impulse response signal for all possible ROC conditions if the (8)
+transfer function of the Discrete time LT] system is given as :
+
+z(3z-11.5)
+(2+4)(z-3)
+
+H(z) =
+
+b Determine the initial value x(0) and the final value x(c0) for the following (4)
+signal using initial and final value theorems.
+
+X(s) = stl
+
+s?4+2s+2
+
++> bf
+
+ef
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 73c0f26fcae6
@@ -9555,136 +11091,6 @@ d) State and prove the time differentiation property of Laplace transform.
 e) Define the function for Laplace and inverse Laplace transform.
 
 Page 3 of 3
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 31c8631e3813
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2015-16 RE EXAM.pdf`
-- Printed on paper: exam date: 27 May 2017
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Computer) Year: II Semester: III
-al
-Batch: 2015-16
-Academic Year: 2016-2017
-
-Subject: Signals and Systems “ °
-
-Date: 27 May 2017 ¢
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-Ql Attempt any three from the following questions 4x3
-=12
-1 Explain the even and odd parts of a continuous time signal with expressions. 4
-2 Determine whether the following system is static, Causal, time invariant, linear 4
-1
-y) = 5k) +x(-0)]
-3 Prove the convolution property of the continuous time Fourier transform (CTFT). -
-
-4 Describe the relationship between Continuous time Fourier transform (CTFT) and 4
-Laplace transform and then explain for which kind of signal the CTFT is not applicable
-and Laplace transform is applicabie.
-
-Q2 Solve the following
-1 Explain the following operation with the continuous signals with example 6
-a. Time shifting
-b. Time reversal
-c. Time scaling
-
-2 Find y(t) = x(t)*h(t) by convolution method and plot y(t) 6
-Where h(t) = A[u(t+T) — u(t-T)]
-os { -T<t<T
-x0 0, otherwise
-1jPage
---- page 2 ---
-Q3
-
-Q4
-
-Qs
-
-06
-
-Q7
-
-Solve the following
-Find the Discrete time exponential Fourier series and plot the magnitude and phase
-spectrum of a Saw tooth wave form shown below
-
-Using the convolution property of Discrete time Fourier transform (DTFT) find
-y[n] = x[n]*h[n] such that X[n] = @” u[n] and h[n] =" u[n].
-
-Solve the following
-
-Obtain bilateral inverse Laplace transform of the given function for all possible ROCs
-by showing corresponding pol-zero plots and also predict the stability and causality of
-each —
-
-X(s ) ea
-Find the Z- Transform for the following signal with ROC and also plot the ROC
-
-X[n] = 76)"uln] - 6G)"ufn]
-
-Solve the following
-Explain and derive the Parseval’s Relation for the continuous time Fourier transform.
-Find the impulse response h(t) of a system characterized by equation by using continuous
-
-time Fourier transform (CTFT).
-ay) | a dy(t)
-ae ae FOF Ge tO
-
-Solve the following
-
-Consider the LTI system with the following differential equation with zero initial
-PO 4590 + 6y(t) = x(t).
-
-If x(t) = etule) then find the expression of y(t) using Laplace transform method.
-Consider following system function
-
-5 Z
-Hz] —— >.
-[2] Z-Dez+DE-D
-
-conditions
-
-For different ROCs determine impulse response h[n] and causality and stability. Also
-
-draw the pole-zero plot for each ROC.
-
-Solve any Three
-
-Prove the time shifting property of the discrete time Fourier transform (DTFT).
-Explain the duality property of continuous time Fourier transform (CTFT).
-Explain the final value theorem of Laplace Transform.
-
-Prove the differentiation property of Laplace Transform.
-
-2 he
-
-Page
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper b918da9f8c43
@@ -9866,487 +11272,143 @@ Find Inverse Z- Transform of following
 6M
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper dbd3979e078e
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/III SEMESTER/SIGNALS AND SYSTEMS/signal & systems 2015-16 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 June 2018
-- Text: ocr (2 pages), mean OCR confidence 85.3
-
-````text
-Ql.
-
-Q2.
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Computer) v Year: II Semester: III
-
-Batch: 2015-16 v
-Academic Year: 2017-2018
-
-Subject: Signals and Systems ~
-Marks: 60
-Date: 02 June 2018” Time: 10.00 am to 1.00 pm ~
-Durations: 3 (Hrs)
-No. of Pages: _OZ-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. 7
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Attempt any Four.
-
-a. Determine the linear convolution of the two sequences: [3]
-x(n) = {1,2} and h(n) ={1,2, 3}
-b. Determine whether the given system is causal, time invariant and memoryless. [3]
-y(t) = x(t) + x(t - 1)
-ce. Explain Impulse signal and unit step signal with proper figure. [3]
-
-d. Check whether the following signals are energy or power, also find the values ofenergy or [3]
-n
-power: x(n) = () u(n).
-e. ‘Explain even and odd signals with help of an example. [3]
-
-a. Explain periodic and non-periodic signal and check whether the following signal is periodic [6]
-or non-periodic. If periodic, find period of the signal: x(t) = cos(4t) + 2 sin(8t)
-b. Find the z-transform and ROC of the following signal: [6]
-
-xe =(Ef +E )u0n
-ii, x(n) = Ey u(n) + Ey u(—n — 1),
-
-1)|Pa e
-228
-
-\
---- page 2 ---
-Q3.
-
-Q4.
-
-QS.
-
-Q6.
-
-Q7
-
-Find the Laplace transform of the following with ROC: x(t) = cost u(t). [6]
-
-Determine the inverse Discrete Time Fourier Transform (DTFT) of the following signal [6]
-. 1
-X(e”) = —>—_
-") =
-2
-Obtain the trigonometric Fourier series of the rectangular pulse: [6]
-
-A o<t<e
-, ~ 4
-
-lo Tee?
-4 ~2
-State and prove the following properties of Continuous Time Fourier Transform (CTFT): [6]
-i) Time scaling .. :
-ii) Time shifting.
-Determine the inverse z-transform of: [6]
-1
-z(z—=
-10) =
-Find the inverse Laplace transform of: : [6]
-H@) =
-
-s(s+1)(s +2)
-Using Laplace Transform, find the transfer function and Impluse response of an LTI system [6]
-
-described by the following differntial equation,
-d’y(t) _ dy(t)
-
-de de 2y(t) = x(t)
-Assume zero intial conditions.
-Given the following system: [6]
-X4 = Xz
-X= —2x, —X2+5u
-ya Xe
-Set the system on the following state-space form:
-x= Ax + Bu
-y=Cx+Du
-Explain the classification of Discrete Time Systems. [6]
-State the properties of z-transform with proper expressions. [6]
-
-2[page
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 38e8c45f1de7
+## 2015-16 · Re-Exam · Sem 3 · paper b1131a9c76f5
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2015-16 RE EXAM_38e8c45f1d.pdf`
-- Printed on paper: exam date: 02 December 2017
-- Text: text (2 pages)
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/Signals and Systems Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 86.7
 
 ````text
-~J   _-'   SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-.Programme: MBATech(EXTC)   Year: II   Semester: III
-Batch: 2015-16
-Academic Year: 2017-2018
+SVKM’s NMIMS
+L MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Semester: ITI
+
+Programme: MBA Tech (EXTC) Year: I
+Academic Year: 2015 - 16
+Batch: 2014-15
+
 Subject: Signals and Systems
-Date: 02 December 2017
-Re-Examination
-1) Question No, 1 is compulsory.
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data, if required.
-__Q.1   Attempt any THREE   of the following   (12)
-a   Determine the periodicity of the following continuous time signals. If periodic   (4)
-then also find fundamental period
-x(t) = 2 cos 3t + 6 sin 7t
-b   Sketch the even and odd part of unit step signal   (4)
-c   Verify whether.the following system are linear or non linear, stable or   (4)
-t
-unstable.   yet) = e x(t)
-d Determine the energy and power of the following signal.   (4)
-x(n) = (0.25t u(n) + (lot u(-n-l)
-Q.2   a   Determine the exponential form of the Fourier series representation of the signal   (8)
-shown in following figure. Hence determine the trigonometric form of Fourier
-senes.
-x(t)
-t
-Page 1 of 2-
---- page 2 ---
-. ,
-b   Find the Fourier Transform ofx(n) = 1 ; 0 ~ n ~ 4   (4)
-= 0 ; otherwise
-Q.3   a   Perform convolution   of following signals and find yet) :   (8)
-i)   x(t)   e3t u(t) and   het) =   e10t u(-t)
-ii)   x(t) =   sint u(t) and   het) =   r(t)
-b Find the Laplace transform of the following continuous time signal and its   (4)
-RaC
-x(t) = e-3t u( -t)
-Q.4   a   Determine the Fourier transform of the pure constant signal.   (6)
-b Find Fourier Series representation of following discrete time signal:   (6)
-nn
-x(n)= 4cos-
-2
-Q.5   a   Determine Z Transform anti causal unit step signal. Plot its poles and zeros   (6)
-and specify its RaC.
-b   List and explain properties of RaC with respect to Laplace Transform.   (6)
-Q.6   a   Determine the impulse response signal for all possible RaC conditions if the   (8)
-transfer function of the Discrete time LTI system is given as :
-H(z) = z(3z-11.5)
-(z+4)(z-3)
-b Find the initial value X (0) and final value X (00) of the following z-domain   (4)
-signals
-X(z)=   1-1.8z-1+O.8z-2
-Q.7   a What are Dirchlet Conditions? What is the significance of these conditions?   (4)
-b   Obtain the Laplace Transform of following waveform:   (8)
--
-i)
-x(t)
-x(t) r-
-a
-1 •••••-.,
-•..
-o   a   "t
-a   t
-Page 2 of 2-
-````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 6ee522dfc565
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2015-16 RE EXAM_6ee522dfc5.pdf`
-- Printed on paper: exam date: 31 May 2017
-- Text: ocr (2 pages), mean OCR confidence 82.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II Semester: III
-c
-
-Batch: 2015-16
-Academic Year: 2016-2017
-
-~ATOTE BF Bap
-Subject: Signals and Systems 4 sot NAS
-y Mapes60 NS
-Date: 31 May 2017 Timae? 10.00 anité 1.0@
-
-ériss 3. (hrs)* 3 s
-
-Re-Examination = Meenas
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any f WL questions.
-3) In all_45 _ questions to be attempted
-
-4) All questions carry equal marks
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer any three of the following questions. [12]
-A Define different types of signals. [4]
-B Check whether the system are linear or not. [4]
-
-@ y(t) =t x(t)
-Gi) @ yO = x(t)
-
-Cc Explain time shifting property of Fourier transform. ’ [4]
-D Determine the z-transform and ROC of [4]
-x(n) = {on 20
-0 n<0 .
-E Explain state model of second order system. [4]
-Q2 A Determine linear convolution of the two sequences using linear convolution using graphical [6]
-method
-x[n] = {1,2,2,3}
-h{n] = {1,1,2}
-B Obtain the trigonometric Fourier series for the half wave rectified sine wave as shown in fig. [6]
-
-Pt
-
-Hy
-a (
-0 Wp T 3/2
-
-if
---- page 2 ---
-Q3.
-
-Q4.
-
-Q5
-
-Q6.
-
-Qz.
-
-A
-
-A
-
-A
-
-Determine the impulse response and ,frequency response of linear constant coefficient
-difference equation
-
-y(n) — 2y(n- 1) +2 y(n — 2) = x) - Fx(n-1)
-
-Explain the properties of ROC for Laplace Transform.
-
-Compute the inverse z-transform for
-X(z) =
-(i) lz|>1
-(ii) e|< ;
-
-(ii) $<p<I
-
-372 -4z41 for following cases of ROC.
-
-Determine the Fourier transform for the double exponential pulse whose function is given by
-qy=e El,
-
-Compute the step response of the system
-y(n) — syn -1)- syn — 2) =x(n)
-
-The discrete time systems are represented by the following difference equations in
-which x(n) is input and y(n) is output.
-
-(i) y(n) = 3y2(n— 1) — nx(n) + 4x(n — 1) — 2x(n + 1)
-
-(ii) y(n) = nx(n + 1) — 3x(n) + x(n - 1)
-Are these systems linear, shift invariant and causal? Justify your answer.
-
-Determine the initial and final value of the current where
-0.52
-\(s) = 5G2 4045s + 0.818)
-If the state model of the system is given by
-xy(kK+1)] 70 17$%1k) 0
-(eee a" Dl =[4 —sl mo) +[;] uo
-%
-ya= 2 -1[2 eo] + flue
-
-Determine the transfer function of the system.
-
-Write Short Notes on any two
-
-Discrete time Fourier transform and it’s any two properties.
-Series and parallel interconnection of the system
-
-Initial and final Value theorem of Z-Transform
-
-tp
-
-[6]
-
-[6]
-
-[6]
-
-[6]
-
-[6]
-
-[6]
-
-{6]
-
-[6]
-
-{12]
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 063cb5874182
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/Signals And Systems Batch 2015-16 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 03 December 2016
-- Text: ocr (3 pages), mean OCR confidence 79.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : MBA. Tech (EXTC) Year : II Semester : III
-Batch : 2015-16
-
-Academic Year : 2016-2017
-
-Subject : Signals and Systems Marks : 60
-Time: 10.00 am to 1.00 pm
-Date : 03 December 2016 Duration : 3 (hrs)
-
+Date : 02/12/2015
 Re-Examination
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use.
+
+cover of the Answer Book, which is provided for their use.
+
 NB:
 
-{. Question No. 1 is compulsory.
+1) Question No. 1 is compulsory.
 
-z. Out of remaining questions, attempt any four questions.
+2) Out of remaining questions, attempt any FOUR questions.
 
-3. In all five questions to be attempted.
+3) In all FIVE questions to be attempted:
 
-4: All question carry equal marks.
+4) All questions carry equal marks.
 
-' 5, Answer to each new question to be started ona fresh page.
-*€.. Figure in brackets on right hand side indicate full marks.
+5) Answer to each new question-to be started on a fresh page.
 
-Ql Attempt any Four of the following: — 12
-A. _ - Perform the following operations on triangular pulse given below: . 3
-aC ‘ .
-‘
-a aly | \ >
-x(2t+3) and x(- 2t+3) .
-B. Explain Time variant and Invariant systems with one Example. 3
-C. __ Differentiate between Laplace transform and Z-Transform (any three points). 3
-. D. Find the fundamental period and frequency of following signal: 3
+6) Figures in brackets on the right hand side indicate full marks.
 
-X(t) = Ssin 242 t +7sin36z t
+7) Assume suitable data, if required.
 
-E. Find Z-Transform of X(n) = {1,2,5,7,0,2} - 3
+Q1 Attempt any four of the following (12)
+a State and prove time shifting property and convolution property of Z-transform.
+b Sketch the odd and even parts of the signal y(t) = t u(t-2)
 
-F.- Find odd & even components of each of the following signals: : . 3
-x(t) = 1+ tcos(t) + t.sin(t) + t?.sin(t)cos(t)
+c Determine power and energy for the following signals
+(i) x(t) = 3 COS 5 Wot
+(ii) X{n] = (1/4)" ula]
 
-Q.2 Attempt the following: : 12
+d= Check dynamicity, linearity, time variance, causality and stability of —Y[n] = x[n/2]
+e List all the properties of Laplace transform. Explain any two of them.
 
-A. Plot the following: . : ~ 06
-X(t)= 2u(t)+ 2u(t-2)-2u(t-4)-2u(t-6) and x(n)= 2", UC n)
+Q2 a Perform convolution in time domain of — ‘ (6)
+(i) X(t) = u(t) — u(t-3) with (ii) h(t) = u(t) — u(t-2) and sketch its output.
 
-as
+b Determine Fourier series representation of the following signal (G6)
+re
+TT + . = oa t-
+“Ty To => | i Ta 2To
+mad Q3 a Plot the signal x(t) w.r.t. time where x(t) = 2r(t) -2r(t-1) — 2u(t-3) and hence sketch ( cS)
+(i) x(1-t) (ii) x(t+2) (iii) x(2t-1)
+
+b List and explain properties of ROC (2)
 --- page 2 ---
-Determine whether the following systems are static, causal, time invariant, linear and
+Q4
 
-stable.
-, a) Y(t)= x(t). cos100n t b) y(t)= 10 x(t) +5
-Q.3. Attempt the following: : : -
-A. State various applications of Convolution Also Find the convolution of x(t) and h(t) 06
+Qs
 
-X(t)= u(t) — u(t-3) and h(t) = u(t) — u(t-2).
+Q6
 
-B. _ State and prove Convolution property of Laplace Transform also obtain the 06
-Initial and Final value of X(S) = at
-Q.4. Attempt the following: 2
-A. _, - Find the Inverse Laplace Transform of . . 06
-1O= SEH
-B. A Certain System is described by following differential equation: 06
-£70 4 72 + 129) = x(o),
+Q7
 
-Use Laplace transform to determine the response of the system to unit step i/p
-applied at t= 0 . Assume the initial conditions are y(0-) = -2 & ¥(0-) = 0
+Consider 2 causal discrete time filter described by the impulse response
+H[n] = 1/3 {6[n] + d[n-1] + 6[n-2]}
 
-Q.5 — Attempt the following:
+(i) Sketch the impulse response h[n] of the filter
+(ii) Find the frequency response of the filter
+(iii) Find the magnitude response of the filter
 
-A. °, — Find the trigonometric Fourier series for the periodic signal shown below: 06
+Solve the second order Linear differential equation with initial conditions y(0)=2,
+y'(0)=1 and x(t) = e*u(t).
 
-ua ue)
+Y(t) +5y’(t) +6y(t) = x(i)
+Find the Inverse Laplace Transform of —
+X(s) = (S? + 2S? +6) / (S? + 3S) if ROC Re(S) > 0.
 
-2 7
+Find the Laplace Transform of given signals and draw its ROC
 
-. > ue we transform of the vel f(t) ) Shown't "below 06
-a
-\ od -\od &
-oov
-<< ~W ze
-Q.6° Attempt the pies ek 12
-A. : Determine the Z-Transform and ROC for the following signal. 06
+(i) X(t) = e* {u(t) — ult-5)}
 
-X[n] = (n+ 0.5) (1/3)"u(n) = Also showthat — x(n) =n. u(n- 1)
+(ii) X(t) = e** { u(t) } + e* {ul-t)}
 
-B. Find the fayerse Zz Transform of . ~ 06
-ta) =
-eed = (44 627)
+3—S271
+ares
+Determine x(n) for |z| > 1/3
+|z| > 1/4
+|z| < 1/4
+dy(t)
 
-a
---- page 3 ---
-Q7--
+Determine Laplace transform for re 2y(t) = x(t)
 
-Attempt the following:
+For x(t) =e u(t), assume initial conditions to be zero
 
-The state variable model of a continuous LTI system is
+The system is described by 2” order differential equation
 
-200 ) fo 2 Aral ‘pe
+H(t) + ary(t) + ary(t) = b rt)
 
-Obtain the state response x(t) Assuming zero initial conditions.
+Obtain state transition matrix and transfer function of system
 
-Explain Diagonalisation and find the state variable model of the system described
-- below:
+Explain in brief the causality and stability condition for LT] system along with ROC
+The impulse response of LTI system is given as h{n] = [1 2 -1 2] and x[n] =[1 32 1]
+Determine y[n] using DTFT
 
-YN) 42ND — YC — 6Yb= 2:8)
+Explain Diagonalization in state space using example
 
-12
+Z transform X(z) = is given
 
-06
+(s)
 
-06
+(A)
+
+C3)
+
+(6)
+
+(6)
+
+(é)
+
+(6)
+
+(8)
+(6)
+
+(6)
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper 21f6dc7d39d0
@@ -10356,6 +11418,7 @@ YN) 42ND — YC — 6Yb= 2:8)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/Signals and Systems Batch 2015-16 Re Exam_21f6dc7d39.pdf`
 - Printed on paper: exam date: 11 June 2016
 - Text: ocr (3 pages), mean OCR confidence 84.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . SVKM’s NMIMS
@@ -10487,7 +11550,6 @@ to unit step input. It is given that
 
 2/3
 --- page 3 ---
-C= y i b= (l and x? (0) = [14]
 
 (b) What are Dirichlet’s conditions? Explain the significance of these conditions.
 
@@ -10507,145 +11569,6 @@ Specify the ROC of H(z) and determine h(n) for the following conditions:
 e—
 
 3)3
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 33884aab0d81
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/signals & system 2015-16 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 01 June 2018
-- Text: ocr (3 pages), mean OCR confidence 84.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING . \
-
-Programme: MBA Tech (EXTC) Year: II Semester: III
-
-Batch: 2015-16 -
-Academic Year: 2017-2018
-
-Subject: Signals and Systems «
-
-Marks: 60
-Time: 10.00 am to 1.00 pm
-Durations: 3 (Hrs)
-
-No. of Pages: ___)%
-
-Date: 01 June 2018 -
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-1) Question No.___1__ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5 ___ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ‘suitable data if necessary.
-
-Ql Attempt any three questions out of five. (12M)
-(a) Determine whether the following systems are: i) Memoryless, ii) Causal iii) Linear andiv) (4)
-Time-invariant.
-(1) ym)= x(n)
-(2) y= e
-
-(b) Distinguish between: i) Deterministic and random signals and ii) Energy and periodic (4)
-
-signals.
-(c) Explain time shifting property of Fourier Transform. (4)
-(d) Solve the following differential equation using Laplace transform (4)
-
-d?x(t) dx(t)
-; de +6 ai + 5x(t) = exp(-7t) u(t)
-x(t
-
-With x(0) = 0 and ‘“ Dy =0
-
-(e) Determine the transfer function and impulse response of the following difference (4)
-
-equations.
-
-(i) yfn] - $ y[n-1] = 2x{n-1]
-(ii) y(n] = x(n] —x[n-2] + x[n-4] —x[n-6]
-
-vy
---- page 2 ---
-Q2 (a) Use the method of partial fractions to compute the inverse Z-transform of (6)
-
-142 got
-X(Z) =z 7. when ROC’s are
-(1-5 2-*)(14+5274)
-1
-Ola>>
-. 1
-(ii) al <>
-
-wasy “DL a
-(ii) > < |z| < a
-(b) Compute the Fourier transform of x(t) = e** u(t), Qlso Plot magnitude and Phase spectrum. (6)
-
-Q3 (a) Compute the Nyquist rate for each of the signal (6)
-
-(i) x(t) = sin c(200t)
-(ii) x(t) = sin ¢7(500t)
-
-(b) The input x(t) and the impulse response h(t) of a continuous time LTI system are given by (6)
-x(t) =u(t) A(t)=e“u(t),a>0
-
-Compute the output of LTI system.
-
-Q4. (a) Determine the Fourier transform of x(t) =e!" (6)
-
-(b) (i) Determine the Laplace Transform, associated ROC and the pole zero plot of for the (3)
-following signal.
-x(t) = 6(3t) +u(3t)
-
-(ii) Discuss any three properties of ROC in Laplace Transform. (3)
-Q5. (a) Determine the discrete Fourier series representation for each of the following sequences: (6)
-
-(i) x(n) = cos n
-
-(ii) x(n) = cosy n+sin z n
-
-(b) Determine the system function for the causal LTI system described by the difference (6)
-equation
-
-vir] = yin = T+ Lyn ~ 2) = ae.
-
-Q6. (a) Consider an LTI system whose response to the input (6) —_
-x(t) = (e* +e™)u(t)
-is
-y(t) = (2 &*- 2 €* u(t)
-
-(i) Find the frequency response of this system.
-(ii) Determine the system's impulse response.
-
-i
---- page 3 ---
-(b) Compute the z-transform of x (n) = a" u (n) + b" u (-n-1).Sketch the ROC. (6)
-
-Q7 (a) The state space representation of a continuous time system is given by (6)
-
-af; Th B=[5].c= 31, D=13]
-
-Derive the transfer function for the continuous time system.
-
-(b) Find the state transition matrix for the following continuous time system parameter matrix (6)
-
-a> “1
-
-v
 ````
 
 ## 2014-15 · Final-Exam · Sem 3 · paper 5a1cf7c58b87
@@ -11004,6 +11927,7 @@ Find the Fourier Transform of x(n) = { 2, 1, 2 }
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/SIGNALS AND SYSTEMS/Signals And Systems Final Exam 2014-15.pdf`
 - Printed on paper: exam date: 03/12/2014
 - Text: ocr (2 pages), mean OCR confidence 84.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -11055,7 +11979,6 @@ Q3(B) | Find the complex exponential Fourier series of x(t).
 x &)
 10
 i \ —
-te To ° Ye Ty Co +
 a 4
 
 Vo
@@ -11070,7 +11993,6 @@ I+a,z ‘+a2z 7
 Q5(A) | Find the inverse Laplace transform of lo
 -2s -4s
 X(s)=   =-2+2se “*+4e
-wen een enn n nnn nnnen= Re(s)>-1
 S*+4s+3
 QS(B) | State and prove Parseval theorem of Fourier transform. id
 Q6(A) | Obtain the Z transform of the following system given by,
@@ -11245,266 +12167,26 @@ b_ Explain in brief the causality and stability condition for LTI system along w
 (10)
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper 66a2ebc35a73
+## 2014-15 · Re-Exam · Sem 3 · paper 0f59c83a7e7d
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS B TECH (EXTC), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: exam date: 02 December 2016
-- Text: ocr (2 pages), mean OCR confidence 86.6
-
-````text
-SVKM’S NMIMS . :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (EXTC) Year : Il Semester : III
-Batch : 2014-2015
-
-Academic Year : 2016-2017
-Subject : Signals and Systems
-Date : 02 December 2016
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Attempt any four of the following (12)
-a_ Write short note on different types of systems and draw u(-t+1), where u is step
-signal.
-b Determine Discrete Time Exponential Fourier Series for given signal.
-x{n}
-
-aL Hall =
-
-1
-4 0
-
-c Explain Region of Convergence of Laplace Transform.
-d What are the advantages of state space analysis?
-e Determine the even and odd parts of given signal
-x{[n] = u(n)
-Q2 a Determine whether the given system is (i) linear or nonlinear (ii) time variant or (6)
-invariant (iii) causal or non-causal
-i. y(t) = x(t+10) + x(t)
-
-ii. y(n) = x(4n+1)
-od b Obtain the convolution of two signals using graphical method (6)
-h(t)=1u(t); and x()=e-";0<t <T
-
-1/2
---- page 2 ---
-Q3 a Explain various types of Fourier Series representation. What are Dirichlet (6)
-conditions, what is the significance of these conditions?
-
-b Obtain trigonometric Fourier Series for signal as shown : (6)
-x(t):
-A
-6G V t
-Q4 a Explain Discrete Time Fourier Transform (DTFT) and determine the Fourier (6)
-
-Transform for —x < w <1 of the following signals
-i. xi[n] = sin @ on
-
-ii, xafn]= G)"
-
-b_ Find the Fourier Transform of the trapezoidal pulse shown below (6)
-x(t)
-=D = t
-Qs a For the given system £20 Ewe) + geo Ome 3y (= at) + 2x(t). Determine (6)
-i. Transfer function ;
-
-ii. Poles — Zeros plot
-iii. Impulse Response
-b The input x (t) = e~“u(t) and impulse response h (t) =u (t-1) ofacontinuous (6)
-time system is given. Find the output.
-Q6 a State the initial and final value theorem with regards to Z transform. Determine. (6)
-1
-the initial and final value of X(z) = Tara
-
-b 3+ 2274
-
-Determine inverse Z Transform of X(z) = se for all possible ROC’s (6)
-
-Q7 a Determine the impulse response of discrete time LTI system defined by (6)
-y(n) — 2y(n-1) + y(n-2) = x(n) + 3x(n-3).
-b_ The state space representation of a continuous time system is given by (6)
-
-a-2 ffspeBfse-t alsm=0I
-
-Derive the transfer function of the continuous time system.
-
-2/2
-````
-
-## 2014-15 · Re-Exam · Sem 3 · paper b4187d30a63b
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 04/12/2015
-- Text: ocr (3 pages), mean OCR confidence 82.0
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS B TECH (EXTC), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 12/06/2015
+- Text: ocr (2 pages), mean OCR confidence 81.8
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
 Programme: B. Tech (EXTC) Year: II Semester: III
-Batch: 2014-2015
+Batch: 2013-14
+Academic Year: 2014-2015 peruse
+Subject: Signals and Systems ln an -
+Marks: 100 # Pe
+Date: 12/06/2015 Time:
 
-Academic Year: 2015-2016
-
-Subject: Signals and Systems . NS A
-Marks: 6 MPSTME Y%
-Date: 04/12/2015 Time: Yl sten o5:%)8
-Duration: 3 Se ; {f
-y A
-Ora iD
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-Note the given instructions:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions are to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data, if required.
-
-Q1. Attempt any Pour questions. i)
-(a) Distinguish between Power & Energy Signals with the help of examples.
-(b) Determine the properties of the following system when :
-y(t) = x(t) — tx(t) + x(t?)
-(c) State and prove the time scaling property w.r.t. Z transform.
-
-(d) Define poles and zeroes of a system. Out of poles and zeroes which determine the system’s
-stability. Explain your answer with the help of relevant mathematics.
-
-(e) Obtain the convolution between x[n] = {1,2,3,1} & h[n] = {1,2,5} using tabular
-method.
-
-(f) Obtain the Fourier transform of x(t) = te~™.
-Q2.
-(a) State and prove any three properties of Laplace transform. ¢)
-
-(b) “A signal can never be time limited and band limited simultaneously.” Explain the validity of
-this statement using examples and mathematical equations. Cc»
-
-43
---- page 2 ---
-r.
-
-nalwhen x(t) =r (c)-7 (Cc -1)t+u(t—-2)- 2u(¢-3). C2)
-
-Q3.
-(a) Find the Trigonometric Fourier Series for full-wave rectified sine wave. C6)
-(b) Find fourier transform for x(t) =u(t+0.5)-—u(é— 0.5)? Draw magnitude and
-phase plot for fourier transform. (6)
-Q4.
-
-(a) A causal DT-LTI system has the transfer function of the form H(z) = H,(z).H2(z). The
-poles and zeroes of H,(z) are p = 0.5 & z= -1/3 whereas the poles and zeroes of H2(z) are p=
-0 & z=-1/2 respectively.
-
-(i) Determine the transfer function of the system.
-(ii) Find the difference equation of the system.
-ees . 1\"
-(iii) Find the output response of the system when x[n] = (- *) u{n]. (a>) ~~
-
-(b) Obtain the convolution between the following sequences when using Graphical method
-
-ONLY when:
-
-x(t) = u(t)- u(t-3)
-
-A(t) = u(t -4) -u(t— 7) C6)
-Q.5. (a) A causal discrete time LTI system is described by: ce)
-
-Y(n]-2 y[n-1] +5 y[n—2] = x{n]
-Where x(n] & y[n] are the input and output of the system respectively.
-
-(i) Determine the system function H(Z)
-(ii) Find the impulse response h[n] of the system
-(iii) Find the step response s[n] of the system
-
-1
-(b) Find the response of a system with transfer function H(S) = — where Re(S) > -5.
-
-Input x(t) = e* u(t) +e u(t). C 6)
-Q.6. (a) Find state transition matrix if e)
--3 0
-ail —
-ae | 0 1]
-pee (b) Determine the state variable model of — (3)
-
-Y[n] + aly[n-1] + a2y[n—2] + ady[n—-3] = bx{n]
-
-13
---- page 3 ---
-riable model ofa CT LTI system ‘s — ce)
-
-(c) The siate var
-
-¥%,(t)] 7 0 24{1O1, [1s
-Pa =|-3 —5) | x(t)4 + [3 ae
-
-Calculate the state vector [x,(t) x.(t)] 7
-
-Q.7. | (a) Find the state space model of the given electrical network C6)
-ly - |
-R \ L i {Le _
-
-(b) The impulse response of an LT] system h[n] = {1, 2, 1,-1}. Find the response y[n] of the
-oo system for the input x[n] = {1, 2, 3, 1} using Discrete time Fourier Transform. <>)
-
-3/z
-````
-
-## 2014-15 · Re-Exam · Sem 3 · paper 6f2b8d24c68c
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS B TECH (I T ), BATCH 2014-15 RE EXAM0001.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 86.0
-
-````text
-SN SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (1.T.) Year: II Semester: III
-Batch: 2014-2015
-
-Academic Year: 2015-2016
-
-Subject: Signals and Systems
-
-i Marks:
-Date: 02/12/2015 Time:
-
-Duration:
+Durations:
 
 Re-Examination
 
@@ -11523,71 +12205,73 @@ NB:
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable Data if required
+7) Assume Suitable data if necessary «
 
-Ql Attempt (Any Four) fa
+Ql Attempt any 4 20
+A Differentiate between Energy Signal and Power Signal 5
+B Find convolution integral $
 
-1) Distinguish Continuous, Discrete valued signal and Digital signal.
-2) What do you mean by Nyquist rate and Nyquist interval?
-3) Explain the concept of Region of Convergence and Pole-Zero.
-4) Determine the Initial and Final values of the function whose Laplace Transform is
-given by :
+x(t) = cos(t) u(t)
+x2(t) = t u(t)
 
-5s +50
+ie Explain Time scaling property of Laplace transform. 5
+D Find fourier transform of x(t) = Ae~** t2=0 5
+E Properties of ROC for Z transform 5
+Q2 20
+A Find Inverse Z transfor ‘ 10
+Fle] = —z(z+0.4)
+(z — 0.8)(z — 2)
+i. ROC |z| > 2
 
-X(S) = n-ne
-s(st+5)
+ii. ROC [zj < 0.8
+iii, ROC 0.8<|z| <2
+B Using Z transform find x[n] when 10
+Y[z] = 2z2+74142714+ 162-7 +11273 + 5274275
+H[z] =14 2271432742
 
-5) What is the necessity of Fourier Transform?
-6) Derive Initial value Theorem
-Q2(A) Determine whether the following continuous time system is- 1)static 6
-or dynamic 2) linear or non-linear 3)shift variant or invariant 4)
-causal or non-causal 5)stable or unstable
-yi(t)= x(t) Cos 100nt
+Q3
+A Convolution property of Laplace Transform 10
+B Find response y(t) using Laplace Transform lo
 
-Q2(B) State and Prove Sampling Theorem. 6
-Q3(A) Compute the Convolution y(n) = x(n) * h(n) where x(n) = {1,3,0,-2,1} 6
-gai h(n)= ¢1,-1,, e using Tabulation method. :
-
-Q3(B) Explain and derive the following interconnection to different €
-subsystems: 1) Cascade, 2) Parallel and 3) Feedback
+A/e
 --- page 2 ---
-Q4(B) Using partial fraction expansion method find Z transform of the 6 |
-following system givenby,
-- Z+0.3
-KX(Z)= ---eeennene renee nen eee
-(Z + 0.2) (Z + 0.5)
+y(t) + 5y'(t) + 6y(t) = x'(t) + x)
+initial conditions y(0 -) =2,y’/(0-)=1
+x(t) = e~**u(t) x(0 -) = 0
 
-Q4(A) Determine H(Z) and draw a pole-zero plot of a system 6
-3. 1
-y(n) + y(n-1) + — y(n-2) = x(n) + x(n-]) i
-4 8
+Q4
+A Find relation to convert state space to transfer function? 10
+Get transfer function for
+_f3 4 _ fl
+As [ 3 —_ [3]
+c=[{1 2) D=(1]
+B Find state transition matrix for A = 3 | 10
+301
+Q5
+A Find fourier transform for 5
+x(t)=1 fort=—TtoT
+B Prove Time shifting property of Fourier Transform 5
+c Find Fourier transform for 10
+, i. x(t) = cos(wot) ‘
+ii. x(t) = sin(wot)
+Q6
+A Prove Comutative, Associative and Distributive property of convolution sum 10
+B Detemine signal is periodic or non periodic 10
+, A 2 1 1 Tw
+i. x(t) = 2sin (2) +4 cos (t) +4cos (Ge -*)
+ii. x(t) = sin(t) + sin (art)
+iii.x(t) = eJ0.2nt 4 oe J0.3nt
+Q7 20
+A i. Find above signal is even or odd 10
+il. Find energy of given signal.
+iii. Derivative of Signal.
+B For above x(t) 10
+Find
+io x(t—1) ii. x(t +1) ii. x(2t)
+wv x(5) vx) vi x(8)
+2
 
-Q5(A) Determine inverse Z transform using convolution method 6
-
-1- 3Z1 + 2Z-2
-QS5(B) Draw the direct form-I and II structure for the following system: 6
-3y (n) - 2(n-1) + y(n-2) = 4x (n) - 3x (n-1) + 2x(n-2)
-Q6(A)   LTI system, which is initially at rest, is described by the differential equation. 6
-
-a’ y(t) dy (t) ax (6)
-— 43 ———-- +2 (=~ + 3x(t)
-a? dt dt
-
-Calculate system transfer and impulse response of the system.
-Q6(B) Consider a continuous-time LTI system with system function 6
-3s+7
-
-H[s)=----------------2-0=-=--"
-(s+1) (s+2)(s+5)
-
-Find state representation of the system such that its system matrix A
-is diagonal
-Q7 Write a short note on: (Any Two) pe
-1) Summary of Laplace Transform :
-2) Properties of C.T. Fourier Series
-3) Convolution Properties
-4) Pole-Zero plot of System .
+2fa.
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 5fcd39f3195d
@@ -11690,122 +12374,6 @@ Q7 Write a short note on: (Any Two)
 \2
 
 To.
-````
-
-## 2014-15 · Re-Exam · Sem 4 · paper cdcbd53112cc
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS B TECH (MECHATRONICS), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 07/05/2016
-- Text: ocr (2 pages), mean OCR confidence 85.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Mechatronics) Year: I Semester: IV
-
-Academic Year: 2015-16
-
-Batch: 2014-15
-
-j i Marks: 60
-, t
-Subject: Signals and Systems ees obo ie
-Date: 07/05/2016 Durations: 3 hrs.
-
-Re-Examination w
-ug a Ve
-\ eal and ¥ if)
-ee Y
-
-Instruction: Candidates should read carefully the instructions printed on the qu
-on the cover of the Answer Book, which is provided for their use.
-
-NB: ;
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data, if required.
-
-Q.1 Attempt any THREE of the following (12)
-a Determine power and energy of the unit step signal. (4
-b Sketch the even and odd part of unit step signal (4)
-c Verify whether the following system are linear or non linear ,-stable or (4)
-unstable . y(t) =t? x(t)
-
-d_ Verify whether the following signal is periodic . If periodic find fundamental (4)
-
-period. x(t)=4sin( =) +5 sin =)
-
-Q.2. a Perform convolution of following causal signals (8)
-
-(i) x(t) =2 u(t), h(t) = u(t)
-(ii) (ii) x(t) = cost u(t), h(t)=t u(t) .
-
-b Find the Laplace transform of the following continuous time signal and its (4)
-ROC
-x(t) = e** u(-t)
-
-Q.3 a Determine the exponential form of the Fourier series representation of the signal (8)
-shown in following figure. Hence determine the trigonometric form of Fourier
-series.
-
-Va
---- page 2 ---
-x(t)
-
-fo) T 27 3T t
-i
-ye
-b Find the Fourier Transform of x(n) = { 2, 1, 2 } (4)
-~* °.Q.4 a Determine the Fourier transform of the signal shown below (6)
-at)
-4.
--T T t>2
-b Find Fourier Series representation of following discrete time signal : (6)
-
-x(n) = 4cos =
-
-Q.5 a Determine Z Transform of anti-causal unit step signal . Plot its poles and zeros (6)
-and specify its ROC.
-
-b_ List and explain properties of ROC (6)
-Q.6 a Obtain Fourier Transform ofa pure constant signal. ; (4)
-b State and prove following properties w. r. t. Laplace Transform: (8)
-
-i) Linearity Property
-ii) Time Shifting Property
-
-Q.7 a Determine the impulse response signal for all possible ROC conditions if the (8)
-transfer function of the Discrete time LT] system is given as :
-
-z(3z-11.5)
-(2+4)(z-3)
-
-H(z) =
-
-b Determine the initial value x(0) and the final value x(c0) for the following (4)
-signal using initial and final value theorems.
-
-X(s) = stl
-
-s?4+2s+2
-
-+> bf
-
-ef
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper ae54f41c5de3
@@ -11934,6 +12502,274 @@ Ht) eee)
 (8)
 ````
 
+## 2014-15 · Re-Exam · Sem 3 · paper b61fe09c5755
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 03/12/2014
+- Text: ocr (3 pages), mean OCR confidence 81.7
+
+````text
+SVKM’s NMIMS
+
+IN MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA Tech (EXTC) Year: II Semester: III
+Academic Year: 2014-15 Batch: 2013-14
+
+P Be
+
+Yip,
+“ke, /
+
+Subject : Signals and Systems
+
+Marks: 100 /
+
+( MPSTME Yo |
+Date : 03/12/2014 Time : 2.00 Prato HO BA RY JS 5
+Durations: 3 es SF y, ;
+
+Re - Examination nas a af
+
+ea
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
+
+Ql. Attempt any four questions:
+
+A State & prove initial value theorem of Laplace transform. 5
+B Determine whether the signal shown below is an energy OR power signal & calculate 5
+corresponding value. :
+x(t)
+3
+a2
+fe
+“fu 2 4 ‘
+C Find odd & even components of each of the following signals: 5
+
+i) x(t) = 1 + toos(t) + C.sin(t) +t sin(t)cos(t)
+
+D Define the following terms: 5
+i) state ii) State variables iii) State vectors iv) state space v)Diagonalisation
+E Find initial & final value of : 5
+10
+Q2 A Sketch the following signal also state whether this signal is energy OR power signal &
+Find corresponding energy OR power.
+a) x(t)= u(t)- r(t-1) +2r(t-2) — r(t-3) + u(t-4) — 2u(t-5)
+B Determine whether the following systems are static, causal, time invariant, linear and 10
+
+stable.
+a) y{tl=x[ttl0] +x’
+b) y[tl= x()cos100 nt
+
+4/3
+--- page 2 ---
+Q3 A _ Find the convolution sum for following DTS 10
+x(n] ={2,4,3} — h{n]={ 8,7,1,6}
+tT +
+
+B Find the Laplace transform of the following signals. Draw ROC in each case
+(i) x(t}= cos(3ttn/4) (11) x(t) = t u(t)* e -3t u(t) 10
+
+Q4 A __ Find the inverse laplace transform of 10
+
+For all possible ROC conditions.
+B___ Solve the second order linear differential equation: ; 10
+
+with initial conditions y(0-) = 2 & $(0-) = 1 and input x(t)= e“*. u(t)
+
+Q5 A Obtain the quadrature fourier series for the rectangular pulse train shown below: 10°
+rig. P. 2.2.1 . i
+
+x(t)
+
+“Th Ty2 2 [ue Ty? anne
+
+et
+
+B Obtain the Fourier transform of the antisymmetrical pulse shown below: 10
+--- page 3 ---
+Q6
+
+Q7
+
+A
+
+A
+
+State & Prove Time Shifting Property of Z-Transform
+
+Determine the Z-Transform, ROC, the location of poles & zeros of X(z) for the
+following signal.
+
+X[n] = (1/2) Lum) —u(n-10)]
+
+Find the inverse Z Transform of using a power series Expansion.
+
+X(z) = (2+z') /(1-1/2z"') with ROC |z|>% & z|<%
+
+Find the transfer function of ,
+
+\
+
+10
+
+[oO
+
+10
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper bc415c7ea6c4
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 11/06/2015
+- Text: ocr (2 pages), mean OCR confidence 76.3
+
+````text
+J
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: II Semester: III
+
+Academic Year: 2014-15 ,
+
+“PONETE BF re,
+Batch:2013-14 Oo tN
+a jaf wpsy. >)
+Subject : Signals and Systems Marks:100}\ 4 we }
+. Time : 2.00 r pe
+Date : 11/06/2015 Durations:3 jf
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q! Attempt any 4 20
+A x(t)=1, -05<t<05 5
+find
+fa. x(2t) ix (5) ii. x(t +0.5)
+2
+iv. x(t — 0.5) Vv. -x(t)
+B Determine below system is LTI system or not 5
+[ i. y(t) = x2() +5 [ it, y(t) = x(2t) |
+C Write expression for x(t) in Fourier series and give expression for ay, a, and by 5
+D Find Z transform for x[n] = cos [an]u[n] . 5
+E Discuss State space representation of system and advantages of State Space over transfer | 5
+function
+Q2 - 126
+A Define Impulse signal and describe its properties 10 |
+B Find energy and power of below signal 10 |
+[i x(t) = u(t) — u(t — 4) [ii x(t) = 2e-*- 6e*, t>0 |
+Q3 y"(t) +3y' (tH) + 2y(t) =x(t) t20 P 20
+y(0)=3   yi(0)=4 :
+x(t) = 4e73* ;
+i. Natural Response ii. Forced Response
+iil. Zero Input Response iv. Zero State Response -
+--- page 2 ---
+B
+
+Find Fo
+
+ifting property of F
+
+x(t) = cos (se + ®)u u(t)
+=
+iii. x(t) = t?u(t — 1)
+
+ee
+
+courier T
+
+Find laplace Transform of
+i. x(t) = te =“3tu(t) =
+
+GB)
+
+ransform
+
+Using Laplace tr
+
+y(0) = 3
+
+ansform find System response
+y"(t) + 3y'() + 2y® = 4
+
+y'(0) =4
+
+2t
+
+Find Convolution by Z transform
+x[n
+
+fer ——
+
+eo
+
+Get transfer function
+
+| ab
+\ c=(1
+
+| Find State transition matrix for A = | 0
+
+Derive relation to convert state space to tral
+of following state space variable
+
+i ne
+
+|= {2,3,2,1}
+
+h{nj =
+
+nsfer function.
+
+1 2
+
+tt 3 D=(3)
+—3 0 |
+
+a
+
+{1.2.3.3}
+
+——eE
+eee
+~ 10 |
+
+ee
+’ 10
+
+”
+_—_——____——~
+````
+
 ## 2014-15 · Re-Exam · Sem 3 · paper 1814f1000e8a
 
 - Departments: Electronics and Telecommunication
@@ -11941,6 +12777,7 @@ Ht) eee)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2014-2015 RE EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 11/06/2015
 - Text: ocr (3 pages), mean OCR confidence 73.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -12039,7 +12876,6 @@ graph of the system described by the equation
 using differentiator as wellas integrator:
 
 AP yer) yer
-eee +24 Oy s yep — 4 ARO + woty
 
 |
 |e]
@@ -12086,145 +12922,6 @@ Unity. ' RACES :
 for the following system: 6 |
 A O -%
 ~ Ll) -4
-````
-
-## 2014-15 · Re-Exam · Sem 3 · paper b1131a9c76f5
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/Signals and Systems Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 86.7
-
-````text
-SVKM’s NMIMS
-L MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Semester: ITI
-
-Programme: MBA Tech (EXTC) Year: I
-Academic Year: 2015 - 16
-Batch: 2014-15
-
-Subject: Signals and Systems
-
-Date : 02/12/2015
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted:
-
-4) All questions carry equal marks.
-
-5) Answer to each new question-to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data, if required.
-
-Q1 Attempt any four of the following (12)
-a State and prove time shifting property and convolution property of Z-transform.
-b Sketch the odd and even parts of the signal y(t) = t u(t-2)
-
-c Determine power and energy for the following signals
-(i) x(t) = 3 COS 5 Wot
-(ii) X{n] = (1/4)" ula]
-
-d= Check dynamicity, linearity, time variance, causality and stability of —Y[n] = x[n/2]
-e List all the properties of Laplace transform. Explain any two of them.
-
-Q2 a Perform convolution in time domain of — ‘ (6)
-(i) X(t) = u(t) — u(t-3) with (ii) h(t) = u(t) — u(t-2) and sketch its output.
-
-b Determine Fourier series representation of the following signal (G6)
-re
-TT + . = oa t-
-“Ty To => | i Ta 2To
-mad Q3 a Plot the signal x(t) w.r.t. time where x(t) = 2r(t) -2r(t-1) — 2u(t-3) and hence sketch ( cS)
-(i) x(1-t) (ii) x(t+2) (iii) x(2t-1)
-
-b List and explain properties of ROC (2)
---- page 2 ---
-Q4
-
-Qs
-
-Q6
-
-Q7
-
-Consider 2 causal discrete time filter described by the impulse response
-H[n] = 1/3 {6[n] + d[n-1] + 6[n-2]}
-
-(i) Sketch the impulse response h[n] of the filter
-(ii) Find the frequency response of the filter
-(iii) Find the magnitude response of the filter
-
-Solve the second order Linear differential equation with initial conditions y(0)=2,
-y'(0)=1 and x(t) = e*u(t).
-
-Y(t) +5y’(t) +6y(t) = x(i)
-Find the Inverse Laplace Transform of —
-X(s) = (S? + 2S? +6) / (S? + 3S) if ROC Re(S) > 0.
-
-Find the Laplace Transform of given signals and draw its ROC
-
-(i) X(t) = e* {u(t) — ult-5)}
-
-(ii) X(t) = e** { u(t) } + e* {ul-t)}
-
-3—S271
-ares
-Determine x(n) for |z| > 1/3
-|z| > 1/4
-|z| < 1/4
-dy(t)
-
-Determine Laplace transform for re 2y(t) = x(t)
-
-For x(t) =e u(t), assume initial conditions to be zero
-
-The system is described by 2” order differential equation
-
-H(t) + ary(t) + ary(t) = b rt)
-
-Obtain state transition matrix and transfer function of system
-
-Explain in brief the causality and stability condition for LT] system along with ROC
-The impulse response of LTI system is given as h{n] = [1 2 -1 2] and x[n] =[1 32 1]
-Determine y[n] using DTFT
-
-Explain Diagonalization in state space using example
-
-Z transform X(z) = is given
-
-(s)
-
-(A)
-
-C3)
-
-(6)
-
-(6)
-
-(é)
-
-(6)
-
-(8)
-(6)
-
-(6)
 ````
 
 ## 2013-14 · Final-Exam · Sem 3 · paper cc1032a729fb
@@ -12528,113 +13225,6 @@ x
 [10]
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 0f59c83a7e7d
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS B TECH (EXTC), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 12/06/2015
-- Text: ocr (2 pages), mean OCR confidence 81.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: II Semester: III
-Batch: 2013-14
-Academic Year: 2014-2015 peruse
-Subject: Signals and Systems ln an -
-Marks: 100 # Pe
-Date: 12/06/2015 Time:
-
-Durations:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary «
-
-Ql Attempt any 4 20
-A Differentiate between Energy Signal and Power Signal 5
-B Find convolution integral $
-
-x(t) = cos(t) u(t)
-x2(t) = t u(t)
-
-ie Explain Time scaling property of Laplace transform. 5
-D Find fourier transform of x(t) = Ae~** t2=0 5
-E Properties of ROC for Z transform 5
-Q2 20
-A Find Inverse Z transfor ‘ 10
-Fle] = —z(z+0.4)
-(z — 0.8)(z — 2)
-i. ROC |z| > 2
-
-ii. ROC [zj < 0.8
-iii, ROC 0.8<|z| <2
-B Using Z transform find x[n] when 10
-Y[z] = 2z2+74142714+ 162-7 +11273 + 5274275
-H[z] =14 2271432742
-
-Q3
-A Convolution property of Laplace Transform 10
-B Find response y(t) using Laplace Transform lo
-
-A/e
---- page 2 ---
-y(t) + 5y'(t) + 6y(t) = x'(t) + x)
-initial conditions y(0 -) =2,y’/(0-)=1
-x(t) = e~**u(t) x(0 -) = 0
-
-Q4
-A Find relation to convert state space to transfer function? 10
-Get transfer function for
-_f3 4 _ fl
-As [ 3 —_ [3]
-c=[{1 2) D=(1]
-B Find state transition matrix for A = 3 | 10
-301
-Q5
-A Find fourier transform for 5
-x(t)=1 fort=—TtoT
-B Prove Time shifting property of Fourier Transform 5
-c Find Fourier transform for 10
-, i. x(t) = cos(wot) ‘
-ii. x(t) = sin(wot)
-Q6
-A Prove Comutative, Associative and Distributive property of convolution sum 10
-B Detemine signal is periodic or non periodic 10
-, A 2 1 1 Tw
-i. x(t) = 2sin (2) +4 cos (t) +4cos (Ge -*)
-ii. x(t) = sin(t) + sin (art)
-iii.x(t) = eJ0.2nt 4 oe J0.3nt
-Q7 20
-A i. Find above signal is even or odd 10
-il. Find energy of given signal.
-iii. Derivative of Signal.
-B For above x(t) 10
-Find
-io x(t—1) ii. x(t +1) ii. x(2t)
-wv x(5) vx) vi x(8)
-2
-
-2fa.
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper 6ccf14209233
 
 - Departments: Electronics and Telecommunication
@@ -12799,6 +13389,7 @@ K x
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS 2013-14 Re-exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12/06/2014
 - Text: ocr (3 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -12857,7 +13448,6 @@ A _| Find convolution of two signals as shown below ; [10]
 i i os
 i : “as
 as : i |
-ey res re ; ro 7 a % oy ese rr 5 or 7 a 3
 B_ | Find exponential Fourier series for the impulse train shown below. Plot its magnitude and [10]
 
 phase spectrum
@@ -12925,352 +13515,7 @@ c) x(2(t-2)) d) x (3t)+x Gtt2)
 B State & Prove any Four properties of Z-Transform. ; , 10
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper b61fe09c5755
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 03/12/2014
-- Text: ocr (3 pages), mean OCR confidence 81.7
-
-````text
-SVKM’s NMIMS
-
-IN MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA Tech (EXTC) Year: II Semester: III
-Academic Year: 2014-15 Batch: 2013-14
-
-P Be
-
-Yip,
-“ke, /
-
-Subject : Signals and Systems
-
-Marks: 100 /
-
-( MPSTME Yo |
-Date : 03/12/2014 Time : 2.00 Prato HO BA RY JS 5
-Durations: 3 es SF y, ;
-
-Re - Examination nas a af
-
-ea
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate full marks.
-
-Ql. Attempt any four questions:
-
-A State & prove initial value theorem of Laplace transform. 5
-B Determine whether the signal shown below is an energy OR power signal & calculate 5
-corresponding value. :
-x(t)
-3
-a2
-fe
-“fu 2 4 ‘
-C Find odd & even components of each of the following signals: 5
-
-i) x(t) = 1 + toos(t) + C.sin(t) +t sin(t)cos(t)
-
-D Define the following terms: 5
-i) state ii) State variables iii) State vectors iv) state space v)Diagonalisation
-E Find initial & final value of : 5
-10
-Q2 A Sketch the following signal also state whether this signal is energy OR power signal &
-Find corresponding energy OR power.
-a) x(t)= u(t)- r(t-1) +2r(t-2) — r(t-3) + u(t-4) — 2u(t-5)
-B Determine whether the following systems are static, causal, time invariant, linear and 10
-
-stable.
-a) y{tl=x[ttl0] +x’
-b) y[tl= x()cos100 nt
-
-4/3
---- page 2 ---
-Q3 A _ Find the convolution sum for following DTS 10
-x(n] ={2,4,3} — h{n]={ 8,7,1,6}
-tT +
-
-B Find the Laplace transform of the following signals. Draw ROC in each case
-(i) x(t}= cos(3ttn/4) (11) x(t) = t u(t)* e -3t u(t) 10
-
-Q4 A __ Find the inverse laplace transform of 10
-
-For all possible ROC conditions.
-B___ Solve the second order linear differential equation: ; 10
-
-with initial conditions y(0-) = 2 & $(0-) = 1 and input x(t)= e“*. u(t)
-
-Q5 A Obtain the quadrature fourier series for the rectangular pulse train shown below: 10°
-rig. P. 2.2.1 . i
-
-x(t)
-
-“Th Ty2 2 [ue Ty? anne
-
-et
-
-B Obtain the Fourier transform of the antisymmetrical pulse shown below: 10
---- page 3 ---
-Q6
-
-Q7
-
-A
-
-A
-
-State & Prove Time Shifting Property of Z-Transform
-
-Determine the Z-Transform, ROC, the location of poles & zeros of X(z) for the
-following signal.
-
-X[n] = (1/2) Lum) —u(n-10)]
-
-Find the inverse Z Transform of using a power series Expansion.
-
-X(z) = (2+z') /(1-1/2z"') with ROC |z|>% & z|<%
-
-Find the transfer function of ,
-
-\
-
-10
-
-[oO
-
-10
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper bc415c7ea6c4
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 11/06/2015
-- Text: ocr (2 pages), mean OCR confidence 76.3
-
-````text
-J
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II Semester: III
-
-Academic Year: 2014-15 ,
-
-“PONETE BF re,
-Batch:2013-14 Oo tN
-a jaf wpsy. >)
-Subject : Signals and Systems Marks:100}\ 4 we }
-. Time : 2.00 r pe
-Date : 11/06/2015 Durations:3 jf
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q! Attempt any 4 20
-A x(t)=1, -05<t<05 5
-find
-fa. x(2t) ix (5) ii. x(t +0.5)
-2
-iv. x(t — 0.5) Vv. -x(t)
-B Determine below system is LTI system or not 5
-[ i. y(t) = x2() +5 [ it, y(t) = x(2t) |
-C Write expression for x(t) in Fourier series and give expression for ay, a, and by 5
-D Find Z transform for x[n] = cos [an]u[n] . 5
-E Discuss State space representation of system and advantages of State Space over transfer | 5
-function
-Q2 - 126
-A Define Impulse signal and describe its properties 10 |
-B Find energy and power of below signal 10 |
-[i x(t) = u(t) — u(t — 4) [ii x(t) = 2e-*- 6e*, t>0 |
-Q3 y"(t) +3y' (tH) + 2y(t) =x(t) t20 P 20
-y(0)=3   yi(0)=4 :
-x(t) = 4e73* ;
-i. Natural Response ii. Forced Response
-iil. Zero Input Response iv. Zero State Response -
---- page 2 ---
-B
-
-Find Fo
-
-ifting property of F
-
-x(t) = cos (se + ®)u u(t)
-=
-iii. x(t) = t?u(t — 1)
-
-ee
-
-courier T
-
-Find laplace Transform of
-i. x(t) = te =“3tu(t) =
-
-GB)
-
-ransform
-
-Using Laplace tr
-
-y(0) = 3
-
-ansform find System response
-y"(t) + 3y'() + 2y® = 4
-
-y'(0) =4
-
-2t
-
-Find Convolution by Z transform
-x[n
-
-fer ——
-
-eo
-
-Get transfer function
-
-| ab
-\ c=(1
-
-| Find State transition matrix for A = | 0
-
-Derive relation to convert state space to tral
-of following state space variable
-
-i ne
-
-|= {2,3,2,1}
-
-h{nj =
-
-nsfer function.
-
-1 2
-
-tt 3 D=(3)
-—3 0 |
-
-a
-
-{1.2.3.3}
-
-——eE
-eee
-~ 10 |
-
-ee
-’ 10
-
-”
-_—_——____——~
-````
-
-## 2012-13 · Final-Exam · Trim 5 · paper da4f8d156b58
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/SIGNAL AND SYSTEMS/SIGNALS & SYSTEMS BATCH 2012-2013 FINALScan 006.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07/02/2013
-- Text: text (3 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technolorn Management &
-Programme: MBA (Tech) -EXTC   Year:   I1 Trimester:
-Academic Year : 2012-20 13
-'i I   Subject:   SIGNALS AND SYSTEMS   Marks:   100
-Time:   2.00 p.m To 5.00 p.m
-I   Date:   07/02/2013   Duration:   3   hrs.
-Final - Examination
-Instructions: Candidate should read carefi~lly tlie instructions printed on the question paper and
-on tlie cover of the Answer Boolc, ~vliicli is provided for their use.
-NB:
-1. '~i~estion No. l is compi~lsory
-2. Out of the I-eniaining questions, attempt ally FOUR questions.
-3. In all FIVE questio~is to be attempted.
-4. All qi~estions carry equal marlts.
-5. Answer to. each new question to be stalled on a fresh page.
-6. Figure i n brackets on tlie right hand side indicate fill1 marks.
-Q1 Attempt any FOUR of tlle following:
-a   If y(/) = x(/) * /7(1), show that X(I - t, ) * h(/ - I , ) = y(t - I , - t, )   ~051
-b Sketcli tlie even and odd parts of x(t)=4e-' j'   LO51
-c Let xl[n]and x2[i7] be periodic sequences witli fundamental periods NI and IV-,
-respectively. Under what conditions is tlie S L I I I ~ ~ [ n =,~~[n] ]   %\~-,[n] periodic, and
-I   what is the fi~ndamental period ofx[i7] if it is periodic?   ~051
-d Prove tlie property: 'Scaling   i n tlie z-domain'. What is tlie pliysical implication of [05]
-the result?
-e We are given tlie following information about a sequence x[17]: It is periodic witli [OS]
-5   7
-period N=6, x r [ n ] = 2 ,   - I   " x[n] = I and that x[n] has miliimr~ni power per
-1 , = 0   ,I=?
-period among all signals satisfying the preceding three conditions. Find x [ n ] .
-Q2a Determine the linear convolution of the following sequences using graphical   CIol
-~iiethod if u.> I:
-I   O S n 5 4   a" O I n S 6
-~ [ n = ]   and h[n] =
-0   otheiwise   otherwise
-b Determine tlie complex exponential Foil rier series for the signal sIio\v~i below:
---- page 2 ---
-Q3 a Solve tlie folIo\vi~ig differential ecl~~ation using Laplace TI-ansfol-m:
-( D ? + S D + ~ ' ~ )='D+I! ' /   /"/:\ritIi   initial conditions ) I ! ( ; )   =2.-(0) 0'))   =land
-L /I
-the input .f / I ,= e -4 I u /t'\D is tlie derivative operator.
-b Deteniii~ie tlie state space I-epl-eseritation for tlie follo~ving circuit \,\;lien tlie applied
-input is x(l) and the oc~tput is y(/) across R I
-r@
-Q4a Find tlie DTFT of tlie following periodic signals:
-i.   .x[n]=cos 7 ~ n / 1 6
-. I . I .   x[n] = 2 cos 37rn/8 +/TI; + I si 11 ~ 1 7 / 2
-b   Find the Z_Transfol-rn ofx[~]=1.7't,[n]
-c Co11side1- the state variable 11ioclel of a second order discrete time system
-I-eprese~ited as:
-Find tlie state response s(/) for PO.
-Find the state respolise by using discrete ti~iie approximation
-Q5a   Filld tlie inverse Z-transfor~ii of the following in closed ibl-m:
-" - 1
-, List all possible ROC conditions and classify tlie system on the basis of the ROC.
-b Determine the Fourier coefficients for the follo\vi~ig sequence and ~lictch tlie
-magnitude spectrum
---- page 3 ---
-Q6a Find the Laplace Transform and the ROC for x(i)=6(ut+h) \vhere 61 and 13 are   [ogl
-constants. Also prove the integration property.
-b Determine the inverse Laplace TI-ansform of the follo~ving:   [ 121
-How is stability deter~nined on the basis of ROC of Laplace ancl Z - I ' I - ~ I ~ S I ~ I . ~ ~ ' ?
-Q7a Explain invertible systems, stable and unstable systems ~vitli an example.   [051
-b Discuss convergence of conti~i~~ous time Fourier Tra~isfor~ii in detail.   [ojl
-c State and prove the filial v a l ~ ~ tlieorem e   for L I I lateral I ~   'Laplace TI-ansfol-ni.   LO51
-d wily is the study of non-causal systems important?   So51
-````
-
-## 2012-13 · Re-Exam · Trim 5 · paper e3fdf1cf2902
+## 2013-14 · Re-Exam · Trim 5 · paper e3fdf1cf2902
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -13443,6 +13688,83 @@ Ris) ~ Sep 5s + 9St4
 10
 
 10
+````
+
+## 2012-13 · Final-Exam · Trim 5 · paper da4f8d156b58
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/SIGNAL AND SYSTEMS/SIGNALS & SYSTEMS BATCH 2012-2013 FINALScan 006.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07/02/2013
+- Text: text (3 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technolorn Management &
+Programme: MBA (Tech) -EXTC   Year:   I1 Trimester:
+Academic Year : 2012-20 13
+'i I   Subject:   SIGNALS AND SYSTEMS   Marks:   100
+Time:   2.00 p.m To 5.00 p.m
+I   Date:   07/02/2013   Duration:   3   hrs.
+Final - Examination
+Instructions: Candidate should read carefi~lly tlie instructions printed on the question paper and
+on tlie cover of the Answer Boolc, ~vliicli is provided for their use.
+NB:
+1. '~i~estion No. l is compi~lsory
+2. Out of the I-eniaining questions, attempt ally FOUR questions.
+3. In all FIVE questio~is to be attempted.
+4. All qi~estions carry equal marlts.
+5. Answer to. each new question to be stalled on a fresh page.
+6. Figure i n brackets on tlie right hand side indicate fill1 marks.
+Q1 Attempt any FOUR of tlle following:
+a   If y(/) = x(/) * /7(1), show that X(I - t, ) * h(/ - I , ) = y(t - I , - t, )   ~051
+b Sketcli tlie even and odd parts of x(t)=4e-' j'   LO51
+c Let xl[n]and x2[i7] be periodic sequences witli fundamental periods NI and IV-,
+respectively. Under what conditions is tlie S L I I I ~ ~ [ n =,~~[n] ]   %\~-,[n] periodic, and
+I   what is the fi~ndamental period ofx[i7] if it is periodic?   ~051
+d Prove tlie property: 'Scaling   i n tlie z-domain'. What is tlie pliysical implication of [05]
+the result?
+e We are given tlie following information about a sequence x[17]: It is periodic witli [OS]
+5   7
+period N=6, x r [ n ] = 2 ,   - I   " x[n] = I and that x[n] has miliimr~ni power per
+1 , = 0   ,I=?
+period among all signals satisfying the preceding three conditions. Find x [ n ] .
+Q2a Determine the linear convolution of the following sequences using graphical   CIol
+~iiethod if u.> I:
+I   O S n 5 4   a" O I n S 6
+~ [ n = ]   and h[n] =
+0   otheiwise   otherwise
+b Determine tlie complex exponential Foil rier series for the signal sIio\v~i below:
+--- page 2 ---
+Q3 a Solve tlie folIo\vi~ig differential ecl~~ation using Laplace TI-ansfol-m:
+( D ? + S D + ~ ' ~ )='D+I! ' /   /"/:\ritIi   initial conditions ) I ! ( ; )   =2.-(0) 0'))   =land
+L /I
+the input .f / I ,= e -4 I u /t'\D is tlie derivative operator.
+b Deteniii~ie tlie state space I-epl-eseritation for tlie follo~ving circuit \,\;lien tlie applied
+input is x(l) and the oc~tput is y(/) across R I
+r@
+Q4a Find tlie DTFT of tlie following periodic signals:
+i.   .x[n]=cos 7 ~ n / 1 6
+. I . I .   x[n] = 2 cos 37rn/8 +/TI; + I si 11 ~ 1 7 / 2
+b   Find the Z_Transfol-rn ofx[~]=1.7't,[n]
+c Co11side1- the state variable 11ioclel of a second order discrete time system
+I-eprese~ited as:
+Find tlie state response s(/) for PO.
+Find the state respolise by using discrete ti~iie approximation
+Q5a   Filld tlie inverse Z-transfor~ii of the following in closed ibl-m:
+" - 1
+, List all possible ROC conditions and classify tlie system on the basis of the ROC.
+b Determine the Fourier coefficients for the follo\vi~ig sequence and ~lictch tlie
+magnitude spectrum
+--- page 3 ---
+Q6a Find the Laplace Transform and the ROC for x(i)=6(ut+h) \vhere 61 and 13 are   [ogl
+constants. Also prove the integration property.
+b Determine the inverse Laplace TI-ansform of the follo~ving:   [ 121
+How is stability deter~nined on the basis of ROC of Laplace ancl Z - I ' I - ~ I ~ S I ~ I . ~ ~ ' ?
+Q7a Explain invertible systems, stable and unstable systems ~vitli an example.   [051
+b Discuss convergence of conti~i~~ous time Fourier Tra~isfor~ii in detail.   [ojl
+c State and prove the filial v a l ~ ~ tlieorem e   for L I I lateral I ~   'Laplace TI-ansfol-ni.   LO51
+d wily is the study of non-causal systems important?   So51
 ````
 
 ## 2012-13 · Re-Exam · Trim 5 · paper 8cd838856418
@@ -14140,325 +14462,4 @@ Ris) $345.84 P54 4
 10
 
 10
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 98557f6d7db2
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/SIGNAL AND SYSTEM/SIGNALS AND SYSTEMS (EXTC), FINAL EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 02 December 2017
-- Text: ocr (2 pages), mean OCR confidence 85.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: II ~ Semester: III ~
-Z
-
-Academic Year: 2017-2018
-
-Subject: Signals and Systems i
-Marks: 70 site 0 Bey
-Date: 02 December 2017 — Time: 10.00 am toif'00 pm ws
-
-Durations: 3 (hrs)/
-No. of Pages: 19 2"
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the quesitd
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Attempt any FOUR of the following. / (3.5*4
-=14)
-
-a Check for periodicity of the following, if periodic find the fundamental period. (3.5)
-
-X(n) = 3cos(— *) + 2cos (= )
-b Find the convolution of the sequences, X,(n) = { 1, 2, 1 } & Xo(n)= {1,-1.1} (3.5)
-o 4 A
-
-c Prove time shifting property of Fourier-Transform. (3.5)
-d Plot X(t) = 2u(t) — u(t-1) — u(t-2). Hence plot its even and odd parts also. (35)
-e Check for linearity and causality for y(t) =x 2) + x(t-1). (3.5)
-f | What is ROC in Laplace Transform? Give its properties. (3.5)
-Q.2 a State the condition for stability of LTI systems & check the range of values of (5)
-
-a’ and ‘b’ for which the system is stable.
-h(n) = a" u(n) + b" u(-n)
-
-b Determine Z-Transform of X(n) = (a)" cos(wn) u(n) using Z-T property. (5)
-
-c What are Dirichlet’s conditions for continuous time Fourier Series. (4)
-
-Q.3. a Find the inverse Laplace transform of (8)
-X(s) = SS
-. (s—2)(s+3)
-
-If ROC is, i) 2>Re{s} >-3
-ii) Re{s} <-3
-iii) Re[s}>2
-
-tp
---- page 2 ---
-Q4
-
-Q.5
-
-Q.6
-
-Q7
-
-Obtain convolution of X)(n) = { 3,2, 1,4} & X2(n) = {5, 7, -8, 2 } by using
-Z-Transform.
-
-For continuous time signal shown, A x(t)
-find the following version of the
-Signals, 2
-i) X(t-2)
-ii) X(-t) t
-iil) X(-t + 2)
--2 -| I
-
-Determine the energy and power of the following signals:
-X(t) = 4 u(t)
-What is Gibb’s phenomenon in Fourier Series:
-
-Determine inverse z-Transform for all possible ROC condition.
-
-: _ z(z-3)
-Hi} (z-0.5)(z + 4)
-
-An discrete time system having impulse response h(n) = { -1, 2, 3, 2}, is applied
-
-by an input of x(n) = {1, 2, 1}. Find the output response of the system
-graphically.
-
-Obtain the impulse response of interconnected LTI system using Laplace
-transform
-
-, x(t) y(t)
-Where hj(t) =e u(t) hy(t) ho(t)
-ho(t) =e u(t)
-h3(t)= t u(t) ba(d
-
-Derive the relation between Fourier transform and Laplace Transform.
-
-A causal DT LTI system is described as,
-Y(n) = -3y(n— 2) + 4y(n — 1) + x(n)
-Obtain: i) T.F. of system
-ii) Impulse response
-iii) Response if input x(n) = (1/3)" u(n)
-Determine the Trigonometric form Fourier series for the given waveform,
-x(t) fA
-
--T | -T/2 T/2 | T
-
-2a_
-
-(6)
-
-(6)
-
-(4)
-
-(4)
-
-(8)
-
-(6)
-
-(10)
-
-(4)
-(8)
-
-(6)
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 74a3e455d4cd
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS (IT), FINAL EXAM0001.pdf`
-- Printed on paper: max marks: 70; exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 87.1
-
-````text
-&
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) ~ Year: II - Semester: II —
-Academic Year: 2017-2018
-
-Subject: Signals and Systems ~
-Marks: 70 —
-
-Date: 30 November 2017 ~
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No.__1__ is compulsory
-_ 2) Out of remaining questions, attempt any 4 questions.
-3) Inall__5___ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume | uitable data if necessary.
-
-Qi(A) | Attempt All”
-1) Test the system for Linearity : y(t) = x(t + 10) + x?(t)
-
-+44
-2) Explain Time scaling property of Laplace transform. ‘ ( ae
-3) Define State, State vector, State variable and State Space.
-Q2(A) | Define Signal and classification of signals in detail with example. 7
-Q2(B) | Find whether the following signal are energy or power. Find appropriate value
-x(n) =cos(mn) —-4<n<4 7
-=0 otherwise
-Q3(A) | State and prove Parseval Power theorem.
-— a
-~ | Q3(B) For an LTI system with unit impulse response h(t) = e~*". u(t) , determine output 7
-giie to the input x(t) = e~**. u(t)
-Q4 (A) | A stable system has the input x(t) and output y(t). Use Laplace transform to determine
-the transfer and impulse response h(t) of the system given %
-
-x(t) =e77".u(t); yt) = —2e*. u(t) + 3e7**. u(t)
-
-1 hh
---- page 2 ---
-Q4(B) - | State and prove initial and final value property of Laplace transform.
-
-7
-QS(A) | Obtain Z-transform of
-x(n) = a” sin(won).u(n) 7
-Q5(B) | Using partial fraction expansion method find inverse Z-transform of following system
-given by
-X(Z)= t 7
-~1-1527+05272
-If ROC 1) |Z|>1
-2) |Z| < 0.5
-3) 0.5<|Z| <1
-Q6(A) | Determine the Fourier series coefficient of x(t) = COS Wg t. 7
-Q6(B) | Find the Fourier transform of the following signal using convolution property:
-y(t) = e-*u(t) # u(t) ’
-Q7 Attempt all:
-a) Difference between energy and power signal. 44+54+5
-b) State and explain the time shifting property of Fourier transform. (14)
-
-c) Explain properties of ROC for Z-transform.
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper c43cef2208f1
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/SIGNALS AND SYSTEMS/SIGNALS AND SYSTEMS B TECH (IT), FINAL EXAM0001.pdf`
-- Printed on paper: max marks: 70; exam date: 30 November 2016
-- Text: ocr (2 pages), mean OCR confidence 83.8
-
-````text
-2 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF ‘TECHNOLOGY MANAGEMENT & ENGINEERING
-
-: Programme: B. Tech (L.T.) Year: II Semester: III
-}
-
-Academic Year: 2016-2017 glee NN y
-Subject : Signals and Systems re, -3TuMB z
-Marks: 70 ce Lis RARY re
-Time : 10.00’@m to 1.00 p Cw
-: mo "eee é
-Durations: 3) fia
-
-Final-Examination aa
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-Date : 30 November 2016
-
-1) Question No. __1___ is compulsory
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3)Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks. . L
-7) Assume Suitable data if necessary
-
-QI(A) | Attempt All (3 Marks each)
-1) Determine the signal is even or odd.
-x() = 1+ t cos(f) + t” sin(t) +t sint(t) cos(t)
-2) Obtain the Linear Convolution using tabular method. 2 7
-x(n) = {2,3,1,4} h(n) = {-1,2,3,0}
-3) Define State, State vector, State variable and State Space.
-
-Q1(B) | Explain the necessity of Laplace Transform and also find the relationship with Fourier
-transform. : ; °
-
-Q2(A) | Define System and ‘classify systems in detail with example.
-
-7
-Q2(B) | Obtain DTFT of double sided exponential signal.
-n n | 7 -
-x(n) =a" u(n) +a” u(-n-1)
-Q3(A) | Obtain the trignotremic Fourier series for the full wave rectifier sine wave as shown in
-fig : » pa)
-a f 7
-
-= < © | nv 2n +
---- page 2 ---
-Q3(B) | Compute inverse Z-transform of the following sequence for all possible values of ROC’s &
-
-X(Z) = 5z1
-ee _ 7
-see 1 -1
-eae om (1-2Z") (3-Z")
-.Q4 (A) Drive the expression for the Linear convolution sum for a discrete time system. 7
-Q4(B) | Compute.the Z-transform of the following sequence:
-x(n) = [ (0.5) "sin (n 7 /4)] ,ucrd 7
-Q5(A)__ | Find Laplace Transform of the following signal using property of Laplace transform.
-mt 3t a: 7
-x(t) =5e™ Cos (4t) — 6 e~ Sin(2t) + 9
-Q5(B) State and proof Final Value theorem and also find the initial and final value of the given
-function:
-X(s) = 0.8 7
-s (s* +0.6s + 0.2) :
-Q6(A) | Find state equation of discrete time LTI system with system function.
-H(@) = b’+b'z'+b?2” 2
-Italgtt+a?z? .
-Q6(B) State and proof the following properties of Fourier transform:
-1) Time Shifting 7
-2) Convolution in time domain
-3) Differentiation
-Q7(A) | 1) Compare energy and power signals. (any 5 points ), 8
-2) List and explain any three properties of Z-Transform.
-Q7(B) Determine the Z-transform of following sequence using Z-transform properties 6 7
-
-x(n) =n a" u(-n)
 ````

@@ -1231,6 +1231,7 @@ Page - 6 of 6
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/STRENGTH OF MATERIALS/Strength of Materials, Sem IV, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (6 pages), mean OCR confidence 71.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1421,8 +1422,6 @@ speaneth iol Be : i . 7 -
 . a ee . i
 a : ¢
 
-ap el Nee. | Mest dette By Ee birt .
-SOGR ee, Hse hele Ue PET .
 ae : :
 tile i
 ; Eo ae 3 : : 7
@@ -3277,6 +3276,7 @@ Page - 5 of 5
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/STRENGTH OF MATERIALS/Strength of Materials,SemIV,Final,A.Y.2021-22.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 April 2022
 - Text: ocr (3 pages), mean OCR confidence 89.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS ° a
@@ -3323,7 +3323,6 @@ SOl point of contra flexure.
 BL3 2 kN/m 10 kN
 
 Agr foo L Pa aN
-a Cc D c= =e ?
 — m——|e2 mle 2 met m:
 
 1/3
@@ -3399,173 +3398,7 @@ N/mm’.
 3/3
 ````
 
-## 2021-22 · Re-Exam · Sem 4 · paper 89f8a1634a7c
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/Strength of Materials , Re-exam 2021-2022.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 June 2022
-- Text: ocr (3 pages), mean OCR confidence 86.3
-
-````text
-ra
-
-«4
-
-SVKM’s NMIMS .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2021-22
-
-Programme: B. Tech / MBA Tech (Mechanical) Year: I Semester: IV
-ao ae _
-Subject: Strength of Materials
-: . Marks: 100, ~
-Date: 06 June 2022 Time: 10.00 am to 1.00 pm
-a Durations: 3 (Hrs) a=
-
-No. of Pages: _@2 _
-Re-Examination (2021- 22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. ——
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-
-Answer briefly: [20]
-CO 1 a. : .
-SO2 Highlight the difference between yield and ultimate stress 04
-BL 1
-CO 4 b. :
-SO 2 Outline solid and hollow shafts for torque applications 04
-BL1
-col Gs
-so4 Relate Principal stresses to Principal planes 04
-BL 3
-CO 3 d. Find the stress in the wall of a sphere having an inside diameter of 300 mm and a P
-
-4
-8° ; wall thickness of 1.50 mm when carrying nitrogen gas at 3500 kPa internal pressure
-CO2 e : ,
-SO2 Examine the importance of section modulus in strength. 04
-BL 3
-Q2 .
-C01 Sketch the complete shearing force and bending moment diagrams for the beam
-: 20
-
-SO 1 : shown in Figure . [20]
-BL 3
-
-il
---- page 2 ---
-800 N 1000 N 1200 N
-
-300-
-A C. E
-B
-° 50-4 D
-100- 250
-500-
-(All dimensions are in mm)
-Q3 [20]
-a. Determine the maximum stress due to bending for the beam shown in Figure. The
-
-cross section of the beam is a rectangle 100 mm high and 25 mm wide. The load
-
-at the middle of the beam is 1500 N, and the length of the beam is 3.40 m.
-
-coi 1500 N
-SO2 12
-BL3
-il 100mm
-3.4 m
-———25 mm——*
-b. Solve for the torsional shear stress when it is transmitting a torque of 1.76 KN m
-So ; for a propeller driveshaft. The shaft is a hollow tube having an outside diameter of ag
-BL6 60 mm and an inside diameter of 40 mm. Find the stress at both the outer and inner
-surfaces,
-Q4 [20]
-a. Around shaft, 45 mm in diameter, carries a 3500 N load, as shown in Figure. If the
-shaft is steel (E = 207 GPa), calculate the deflection at the load and at the point C,
-100 mm from the right end of the shafi. Also, calculate the maximum deflection.
-3500 N
-CO 2
-so 2 150- 450 12
-BL4
-A
-B Cc D
-
-‘400-
-
-(All dimensions are in mm)
-
-rf
---- page 3 ---
-b Estimate the elongation of the wire due to the weight of the 10 kg ball on a large
-
-So ; pendulum suspended by an aluminum (aluminum alloy 7075-T6 with yield strength og
-BL2 of 503 MPa) wire having a diameter of 1.00 mm and a length of 6.30 m. Consider
-
-the design factor / factor of safety as 2.
-
-Q5 . [20]
-co 1 a. Sketch the distribution of shearing stress in
-
-sol .
-
-BL3 (i) rectangular shape beam 10
-(ii) triangular shape beam, and indicate the centroidal axis and maximum shearing
-stresses
-
-CO 3 b. .
-
-SO 1 Comment on the importance of Longitudinal stress and Hoop stress 05
-
-BL5 :
-
-col c.
-
-SO 1 Explain the stress strain curve for mild steel 05
-
-BL4
-
-06 [20]
-a. Estimate the maximum and minimum stresses at the base of a hollow circular
-
-CO 2 chimney of height 22m with external diameter 4m with a thickness of lm. Specific
-
-SO7 : 10
-
-BL2 material of chimney is 20 kN/m>. The chimney is subjected to wind pressure of
-1.25 KN/m?
-
-b. It has been determined that a point in a load-carrying member is subjected to the
-following stress condition:
-
-=a 5 x= 400 MPa oy=—300 MPa try= 200 MPa (CW) 0
-
-BL3 Perform the following:
-
-(a) Sketch the initial stress element.
-
-(b) Sketch the complete Mohr’s circle, labeling critical points.
-````
-
-## 2020-21 · Re-Exam · Sem 4 · paper c3038b0a42a0
+## 2021-22 · Re-Exam · Sem 4 · paper c3038b0a42a0
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -3743,6 +3576,444 @@ BL-4
 C4fy))
 ````
 
+## 2021-22 · Re-Exam · Sem 4 · paper 89f8a1634a7c
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/Strength of Materials , Re-exam 2021-2022.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 June 2022
+- Text: ocr (3 pages), mean OCR confidence 86.3
+
+````text
+ra
+
+«4
+
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2021-22
+
+Programme: B. Tech / MBA Tech (Mechanical) Year: I Semester: IV
+ao ae _
+Subject: Strength of Materials
+: . Marks: 100, ~
+Date: 06 June 2022 Time: 10.00 am to 1.00 pm
+a Durations: 3 (Hrs) a=
+
+No. of Pages: _@2 _
+Re-Examination (2021- 22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. ——
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+
+Answer briefly: [20]
+CO 1 a. : .
+SO2 Highlight the difference between yield and ultimate stress 04
+BL 1
+CO 4 b. :
+SO 2 Outline solid and hollow shafts for torque applications 04
+BL1
+col Gs
+so4 Relate Principal stresses to Principal planes 04
+BL 3
+CO 3 d. Find the stress in the wall of a sphere having an inside diameter of 300 mm and a P
+
+4
+8° ; wall thickness of 1.50 mm when carrying nitrogen gas at 3500 kPa internal pressure
+CO2 e : ,
+SO2 Examine the importance of section modulus in strength. 04
+BL 3
+Q2 .
+C01 Sketch the complete shearing force and bending moment diagrams for the beam
+: 20
+
+SO 1 : shown in Figure . [20]
+BL 3
+
+il
+--- page 2 ---
+800 N 1000 N 1200 N
+
+300-
+A C. E
+B
+° 50-4 D
+100- 250
+500-
+(All dimensions are in mm)
+Q3 [20]
+a. Determine the maximum stress due to bending for the beam shown in Figure. The
+
+cross section of the beam is a rectangle 100 mm high and 25 mm wide. The load
+
+at the middle of the beam is 1500 N, and the length of the beam is 3.40 m.
+
+coi 1500 N
+SO2 12
+BL3
+il 100mm
+3.4 m
+———25 mm——*
+b. Solve for the torsional shear stress when it is transmitting a torque of 1.76 KN m
+So ; for a propeller driveshaft. The shaft is a hollow tube having an outside diameter of ag
+BL6 60 mm and an inside diameter of 40 mm. Find the stress at both the outer and inner
+surfaces,
+Q4 [20]
+a. Around shaft, 45 mm in diameter, carries a 3500 N load, as shown in Figure. If the
+shaft is steel (E = 207 GPa), calculate the deflection at the load and at the point C,
+100 mm from the right end of the shafi. Also, calculate the maximum deflection.
+3500 N
+CO 2
+so 2 150- 450 12
+BL4
+A
+B Cc D
+
+‘400-
+
+(All dimensions are in mm)
+
+rf
+--- page 3 ---
+b Estimate the elongation of the wire due to the weight of the 10 kg ball on a large
+
+So ; pendulum suspended by an aluminum (aluminum alloy 7075-T6 with yield strength og
+BL2 of 503 MPa) wire having a diameter of 1.00 mm and a length of 6.30 m. Consider
+
+the design factor / factor of safety as 2.
+
+Q5 . [20]
+co 1 a. Sketch the distribution of shearing stress in
+
+sol .
+
+BL3 (i) rectangular shape beam 10
+(ii) triangular shape beam, and indicate the centroidal axis and maximum shearing
+stresses
+
+CO 3 b. .
+
+SO 1 Comment on the importance of Longitudinal stress and Hoop stress 05
+
+BL5 :
+
+col c.
+
+SO 1 Explain the stress strain curve for mild steel 05
+
+BL4
+
+06 [20]
+a. Estimate the maximum and minimum stresses at the base of a hollow circular
+
+CO 2 chimney of height 22m with external diameter 4m with a thickness of lm. Specific
+
+SO7 : 10
+
+BL2 material of chimney is 20 kN/m>. The chimney is subjected to wind pressure of
+1.25 KN/m?
+
+b. It has been determined that a point in a load-carrying member is subjected to the
+following stress condition:
+
+=a 5 x= 400 MPa oy=—300 MPa try= 200 MPa (CW) 0
+
+BL3 Perform the following:
+
+(a) Sketch the initial stress element.
+
+(b) Sketch the complete Mohr’s circle, labeling critical points.
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 9df98c0c9d15
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS BATCH 16-17 17-18 18-19 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 November 2019
+- Text: ocr (2 pages), mean OCR confidence 88.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+Programme: B. Tech (Mechanical) Year: II Semester: III
+
+Academic Year: 2019-20
+Subject: Strength of Materials
+
+6 Marks: 70 <
+Date: 16 November 2019 Time: 2.00 pm - 5.00 pm
+é Durations: 3 (hrs) ~
+No. of Pages:
+Re-Examination (2016-17/ 2017-18 / 2018-19)
+~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume-suitable data if necessary.
+
+Q.1 Draw the AF.D. , S.F.D. & B.M.D. for the following beam. Locate the point of zero shear and point
+
+of contraflexure, if any. (14M)
+30 kN
+40 EN
+20kN
+12kN/m
+30° Sa Ban eneys
+
+m ¢ a 2m
+
+L 2m & 2 LL 2m a
+Q.2 For the beam shown in Fig 2, find the slope and deflection at all points and maximum deflection. E=
+2 X 10°MPa. The beam is made of I cross section having upper flange 80 x 20mm and lower flange 70 x
+30mm. The web is 10 x 60mm. Draw the maximum shear stress distribution diagram. Also find the
+Bending moment resisted by the Upper flange and upper web. (10M)
+
+Zo kel
+
+&
+--- page 2 ---
+fs
+
+Q.2 b) State the assumptions in theory of bending. (4M)
+
+Q.3 a) For the beam shown in Figure 2, draw the maximum shear stress distribution diagram considering
+it has a T- cross section having flange of 80mm x 15mm and a web of 20 mm x 60 mm. (7M)
+Q.3 b) Derive the formula for two types of stresses in cylindrical shell. (7M)
+
+Q.4 a) A point in a strained material has two mutually perpendicular compressive stresses of 160 MPa and
+100 MPa acting on it accompanied by a shear stress of 80 MPa. Find the normal, tangential and resultatnt
+stresses on a plane at 30 degrees to the major principal plane. (7M)
+
+Q.4 b) A solid shaft has its maximum torque 25% more than the average torque. The modulus of rigidity
+G = 75 GPa and its average torque is 35kNm. If the maximum shear stress is not to exceed 80 MPa and
+angle of twist not to exceed 1° in 3m length; calculate the safe diameter and the values of the shear stress
+and angle of twist at that diameter. (7M)
+
+Q.5 a) What is core of a section? Derive the area indicating the core of a rectangular section. (7M)
+
+Q.5 b) A 6 m long cast iron tube of 80 mm external diameter tightly encloses a copper rod of 40 mm
+diameter. If a compressive load of 40KN is applied to these tubes whose ends are firmly fastened together,
+what will be the loads on each material and also their change in lengths. E = 155GPa for cast iron and
+
+72GPa for copper. (7M)
+Q.6 a) State and derive the Torsion Formula. (7M)
+Q.6 b) Explain the Hooke’s Law and also explain the stress-strain curve for ductile material (7M)
+
+Q.7 Find the slope and deflection at points B& D. Also find the maximum deflection. Take E= 2.1 X
+10°MPa and I=8 x 10° mm‘. (14M)
+
+20kN 30 kN
+
+ve
+E
+
+ce} a
+
+
+Zs
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper d1593d9a3fbb
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 16-17 17-18 18-19 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 09 November 2019
+- Text: ocr (3 pages), mean OCR confidence 90.0
+
+````text
+&
+
+—- SVKM’s NMIMS 4
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
+Programme: B. Tech (Mechatronics) Year: II Semester: HI
+a c ;
+Academic Year: 2019-20
+Subject: Strength of Materials
+a Marks: 70 ~
+Date: 09 November 2019 Time: 2.00 pm -
+“ Durations: 3 (Hrs)
+No. of Pages: A.
+
+Re-Examination (2016-17 / 2017-18 / 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘suitable data if necessary,
+
+Q.1 A. Solve Any Two
+a. Explain the stress and strain curve for the ductile material. (04)
+b. Define the efficiency of riveted joint. (04)
+c. Explain the concept of torsion of circular shaft. (04)
+
+B. Solve Any Two
+
+a. Define Principal stress and Principal strain. S (03)
+b. Explain the flexure formula for theory of bending. (03)
+c. Explain the procedure of double integration method in deflection of beam. (03)
+Q.2 A. A steel bar is 900 mm long; its two ends are 40 mm and 30 mm in diameter and the (07)
+
+length of-each rod is 200 mm. The middle portion of the bar is 15 mm in diameter and
+500 mm long. If the bar is subjected to an axial tensile load of 15 KN, find its total
+extension. Take E= 200 GN/m? (G stands for giga and 1G =10).
+
+au —_
+e es | L5eN.
+
+: PLS
+af @ "8
+® a
+ZOOM” 41 Bop mm =} 200 Wore
+--- page 2 ---
+Q.3
+
+Q.4
+
+B.
+
+What must be the length of a 5 mm diameter aluminum wire so that it can be twisted
+through one complete revolution without exceeding a shearing stress of 42 MN/m?.
+
+Take C= 27 GN/m?.
+
+A. A long rectangular wall is 2.5 m wide. If the maximum wind pressure on the face of
+
+the wall is 1.1 kKN/m?, find the maximum height of the wall so that there is no tension
+
+in the base of the wall. The specific weight of masonry is 22 kN/m?.
+
+B. Prove that the shear stress at any point in the cross section of a beam which is
+
+A
+
+B
+
+subjected to a shear force F, is given by;
+
+. A beam is simply supported and carries a uniformly distributed load of 40 kN/m run
+over the whole span. The section of the beam is rectangular having depth as 500 mm.
+if the maximum stress in the material of the beam is 120 N/mm? and moment of
+
+inertia of the section is 7 X 108 mm’, find the span of the beam.
+
+. The shear force acting on a section of a beam is 50 kN. The section of the beam is of
+T-shaped of dimensions 100 mm X 100 mm X 20 mm as shown in Figure 2. The
+moment of inertia about the -horizontal axis is 314.221 X 10* mm‘. Calculate the
+
+shear stress at the neutral axis and at the junction of the web and the flange.
+
+Y
+
+| K - 420mm >
+Coa
+4 [@ |
+Kn
+€
+]
+Sg
+S| & ©
+so.
+OM
+
+¥ Fig. No.02
+
+(07)
+
+(07)
+
+(07)
+
+(07)
+
+(07)
+--- page 3 ---
+Q.5
+
+Q6
+
+Q.7
+
+A. Explain the significance of Shear Force Diagram (SFD) and Bending Moment (04)
+
+Diagram (BMD).
+B. Draw the S.F.D. and B.M.D. for the beam as shown in Figure 1. (10)
+| SOREN Loe
+c D
+A f .&
+2m brn mM
+PE oe seinen
+Fr Fig. no. oL Pa
+
+A. A beam of length 6 m is simply supported at its ends and carries two points load of (07)
+48 kN and 40 KN at a distance of 1 m and 3 m respectively from the left support.
+Take E= 2 X 10° N/mm? and I= 85 X 10° mm’. Find;
+i. Deflection under each load,
+ii. Maximum deflection, and
+
+iii. The point at which maximum deflection occurs.
+
+B. Ata point in a strained material the principal stresses are 100 N/mm? (tensile) and 60 (07)
+N/mm? (compressive). Determine the normal stress, shear stress and resultant stress
+on a-plane inclined at 50°.to the axis of major principal stress. Also determine the
+maximum shear stress at the point. .
+A. A cylindrical vessel, whose ends are closed by means of rigid flange plates, is made (07)
+of steel plate 3 mm thick. The length and internal diameter of the vessel are 50 cm
+and 25 cm respectively. Determine the longitudinal and hoop stresses in the
+cylindrical shell due to internal fluid pressure of 3 N/mm?. Also calculate the increase
+in length, diameter and volume of the vessel. Take E= 2 X 10° N/mm? and p= 0.3.
+. (07)
+B. A short column of external diameter 40 cm and internal diameter 20 cm carries an
+eccentric load of 80 kN. Find the greatest eccentricity which the load can have
+
+without producing tension on the cross section.
+
+B)%
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper 918bafd81e07
 
 - Departments: Civil
@@ -3750,6 +4021,7 @@ C4fy))
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/Strength of Materials Final 2018-19 Re-exam 16-17,17-18.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 22 November 2018
 - Text: ocr (2 pages), mean OCR confidence 89.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 é&
@@ -3768,7 +4040,6 @@ Final Examination (2018-19) / Re-examination (2016-17 / 2017-18)
 
 Date: 22 November 2018
 
-DS LSSS OSS cose sesso e cose ccc cece ses c cece seco neces e cece cece eee ecesesecececsseesceececesccecsees
 
 Instruction: Candidates should read carefully the instructions printed on the question paper
 and over the cover of the Answer Book, which is provided for their use.
@@ -3869,7 +4140,6 @@ two point loads of 35 KN and 55 kN at 1.5 m and 3 m respectively from the left e
 beam. If the section is rectangular with 250 mm width and 525 mm deep, find the
 deflection under each load. Take E = 22.36 x 10? N/mm’. (07)
 
-26 6 ee 2 ee ek OA A OH
 
 a s
 ````
@@ -3881,6 +4151,7 @@ a s
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/Strength of material Final 18-19,Re-exam 17-18.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 18 April 2019
 - Text: ocr (2 pages), mean OCR confidence 86.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3955,7 +4226,6 @@ b) Draw a Shear force and bending moment diagram for a cantilever shown in figur
 t1\KN BN an Q2KnN
 
 q i} DKN/m \
-Ni vad D E F A
 “Nama 1m, 1m ,Aim, 31m,
 
 1. —\— + “tv =
@@ -4013,6 +4283,7 @@ Solve this problem a) analytically and b) Graphically (using Mohr’s circle met
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS (MECHANICAL), FINAL EXAM 18-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 24 November 2018
 - Text: ocr (2 pages), mean OCR confidence 82.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4053,7 +4324,6 @@ Q.1 Draw Axial Force Diagram, Shear Force Diagram and Bending Moment Diagram for
 in the figure. ; (14M)
 S5kKN ,_
 25kN/m aa 33kNYm
-z& te BY ee” PSL E __F
 Cc ae, ae
 16kNm :
 ft—— Im —e}<——- 3m ca 3m 4 6m —>}<«— 2 m—+
@@ -4088,7 +4358,6 @@ deflection in the beam. Take E = 2 X 10° MPa and I = 4.5 x108 mm‘*.» (14M)
 30kN/m 40kN
 
 ‘ 10kN/m vs)
-xz ee Be Me ott] E | i
 c .
 
 ja Im ——-e}<-— 2m —— > - Lm — +e — 6M > 2m —>
@@ -4324,6 +4593,7 @@ tigidity (ED for the beam as 80 x 10° N-mm?
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials 2018-19 Final.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 18 April 2019
 - Text: ocr (3 pages), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Program :B.Tech Integrated (CIVIL) —
@@ -4388,7 +4658,6 @@ Q.3(A) A steel bar 1600 mm long is acted upon by forces as shown in figure below
 elongation of the bar. Take E = 210 GN/mm’.
 
 | [   aomm gp .
-AEN 4 Zorn o Abs 6yar!d— 2Zomm ¢ Lo 4g en
 <—500 mm — k—5pomm 3
 : « 600 mm—S
 
@@ -4460,108 +4729,345 @@ exceed 150 N/mm?, find the thickness of the shell. Assume E = 2 x 10° N/mm? and
 0.25. Find change in diameter, length and volume of the shell.
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper 9df98c0c9d15
+## 2018-19 · Re-Exam · Sem 3 · paper 6ef95ec05729
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2016-17 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+NAN AS)
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT uneuans/
+
+Program: B.Tech/ MBA Tech (Civil) a Year: Il Semester : III
+Academic Year: 2018-19
+
+Subject: Strength of Materials Marks: 70
+
+Time: 2.00 pm to 5.00 pm —*
+
+22 2019 7 Co
+ce: ae : Durations: 3 (hrs)
+
+No. of Pages: 02 :
+
+Re-examination (2016-17 / 2017-18/ 2018-19) _~
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+over the cover of the Answer Book, which is provided for their use.
+
+NB: 1) Question No.1 is compulsory.
+2) Out of remaining questions attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Assume any other data, whenever not given, suitably but state and justify the same.
+7) Illustrate your answer with neat sketches whenever required.
+8) Figures in brackets on the right hand side indicate full marks.
+
+eee
+
+1. Attempt any TWO questions out of THREE. (14)
+I. a) A spherical vessel 0.8 m diameter is subjected to an internal pressure of 1.5 N/mm”. Find the
+
+stress in material of vessel, if the thickness of wall is 3 mm. (3)
+
+b) Derive the relationship between rate of loading w, shear force V, and bending moment M. (4)
+Il. a) Define core of section and calculate core of section for circular section of diameter ‘D’. (4)
+b) A steel square bar of 50 x 50 mm is acted upon by forces as shown in figure. Determine the
+maximum stress and total elongation of the bar. Take E= 210 GPa. (3)
+
+A B C D
+10kN<— 5kN <4 t—> 25kN *— 10 kN
+0.8m 1.0m 1.5m
+
+Ill. a) A shaft of 80 mm diameter subjected to a torque of 15 KNm. Determine the maximum shear
+stress in the shaft. Take G= 80 GPa. (3)
+b) Find the deflection for a simply supported beam of length 3 m. Beam is subjected to UDL of
+
+8 KN/m over entire span. Assume EI is constant. (4)
+
+2.a) A beam is loaded as shown in Fig.1. Draw S.F. and B.M diagram. (7)
+
+15KN
+
+1|Bage
+--- page 2 ---
+b) A steel tube 50 mm in external diameter and 3 mm thick encloses centrally a solid copper bar
+of 35 mm diameter. The bar and the tube are rigidly connected together at the ends at a
+temperature of 20°C. Find the stresses in each metal when heated to 170°C, also find the
+increase in length, if the original length of the assembly is 350 mm. Take E; = 200 kN/mm?,
+
+Ec = 100 kN/mm? and a; = 1.08 x 10°5/°C, ae = 1.7 x 10°C. (7)
+.a) Fora SS beam as shown in Fig. 2, draw shear force and bending moment diagram. Couple of
+10 kNm is acting at C point. (7)
+okNm UDL =8 kN/m
+nN DOOOOOOO
+2m CA4) 15m 2m | B
+| Y Fig. 2
+
+b) A symmetrical I-section has flanges of 100 mm x 10 mm, and web of 150 mmx 10 mm. If it
+
+_is used as a simply supported beam and span of beam is 4 m with load including self-weight
+
+on beam is 10 kN/m over entire span. Find the stresses developed at the extreme fibers of
+beam section, Also sketch the bending stress diagram. (7)
+
+. a) A solid shaft rotating at 100 rpm transmits 120 kW. The maximum torque is 15% more than
+the mean torque. The modulus of rigidity (C or G) is 80 GPa. The diameter of the shaft is 100
+mm and length of shaft is 1.3 m. Calculate i) maximum shear stress and ii) angle of twist in
+the given length of shaft. (7)
+
+b) An element in a structure is subjected to a plane stress system that has the stress 0; = 100
+N/mm? (Tensile), oy= 80 N/mm? (Compressive) and txy= 20 N/mm? (clockwise). Find i) the
+principal stresses and its plane ii) maximum shear stress and its plane. Use analytical method.
+
+(7)
+
+.a) Asimply supported steel beam of 6 m span having rectangular cross section, carries a UDL
+of 25 kN/m on entire span. If the maximum shear stress is 75 MPa, find the dimensions of
+beam section if d= 2.5b. (7)
+
+b) A masonry chimney having the shape of frustum of a cone is 25 m meters high. The external
+diameter at the top and the internal diameter at the bottom is 2 meters. The chimney is 0.5m
+thick at the base. If the weight of the chimney is 1800 KN, find the horizontal wind pressure
+that may act on the chimney in order to avoid the tension at the base. (7)
+
+- a) Explain Mohr’s circle method to find the principal stresses, with example of yours choice.(7)
+b) A thin cylindrical shell of 800 mm diameter and 2 m long with a wall thickness of 10 mm is
+filled with a fluid at pressure of 5 MPa. Find i) hoop stress ii) longitudinal stress and iii)
+change in dimensions of shell. Take E= 2.1 x 10°N/mm? and p= 0.3. (7)
+
+- a) Derive flexural equation for a simply supported beam-when subjected to uniformly distributed
+load. (7)
+
+b) A beam of uniform cross section, 8 m long is simply supported at the ends. It carries a point
+loads of 48 KN at 2 m from left support and UDL of 10 KN/m on right half span of the beam.
+Calculate the deflection under point load and at center of beam. Assume E = 200 kN/mm? and
+1=6.5x 10!° mm‘. Use Macaulay’s method. (7)
+
+
+2|\Bage
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 10ddb87d3e90
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS BATCH 16-17 17-18 18-19 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 November 2019
-- Text: ocr (2 pages), mean OCR confidence 88.7
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS BATCH 16-17 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70
+- Text: ocr (2 pages), mean OCR confidence 85.0
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 
-Programme: B. Tech (Mechanical) Year: II Semester: III
-
-Academic Year: 2019-20
-Subject: Strength of Materials
-
-6 Marks: 70 <
-Date: 16 November 2019 Time: 2.00 pm - 5.00 pm
-é Durations: 3 (hrs) ~
+Program: B, Tech (Mechanical) Year: II. Semester : III
+) 4 Academic Year: 2018-2019 : ao << 4
+| Subject: Strength of Materials _ Marks: 70 \
+“ _ Time: 2.00 pm to 5.00 pm ;
+Date : 23 January ~ Durations:3 (hts) wie
 No. of Pages:
-Re-Examination (2016-17/ 2017-18 / 2018-19)
-~
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Re-examination (2016- -17 / 2017-18) va
 
-1) Question No. _1___ is compulsory.
+Instructions: Candidates should read carefully ‘the instructions printed on the anesiian. paper Fr on the cover
+of the Answer Book,.which is provided for their use. ~~
 
-2) Out of remaining questions, attempt any__4 _ questions.
+1) Question No._1___ is compulsory.
 
-3)Inall___5_ questions to be attempted.
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
 
-7) Assume-suitable data if necessary.
+Q.1 Draw the Axial Force Diagram, Shear Force Diagram and Bending Moment Diagram for the following beam (14)
+45KkN .
 
-Q.1 Draw the AF.D. , S.F.D. & B.M.D. for the following beam. Locate the point of zero shear and point
+80KN - QOKN
+42kNim
+anigie
+tl oie: aondannce, |
 
-of contraflexure, if any. (14M)
-30 kN
-40 EN
-20kN
-12kN/m
-30° Sa Ban eneys
+ca
+41 Im 2
+} 3m > ms ae m a ee
 
-m ¢ a 2m
+Q.2 a) The stresses on two perpendicular planes through a point in a body are 500 MPa and 350 MPa both tensile
+alongwith shear stress of 100 MPa. Find : i) the magnitude and direction of principal stresses and ii) also the magnitude
+of maximum shear stress. (7)
 
-L 2m & 2 LL 2m a
-Q.2 For the beam shown in Fig 2, find the slope and deflection at all points and maximum deflection. E=
-2 X 10°MPa. The beam is made of I cross section having upper flange 80 x 20mm and lower flange 70 x
-30mm. The web is 10 x 60mm. Draw the maximum shear stress distribution diagram. Also find the
-Bending moment resisted by the Upper flange and upper web. (10M)
+Q.2 b) A bar system is loaded as shown in the figure. Determine the reactions generated and stresses in the bars.
+Take E = 2 X 10° MPa. (7)
 
-Zo kel
+WOmmte—) -— [1.2m
 
-&
+t
+
+55
+a 220 mm? 4 yay 24m
+
+i
+
+ee. oeemeeda .3
+
+12mm
 --- page 2 ---
-fs
+Q.3 a) A bar of 30 mm diameter and 30cm length when subjected to an axial load of 54KN increases in length by
+0.112mm and the diameter changes by0.00366mm. Find: i) Young’s Modulus, ii) Bulk Modulus and iii) Modulus of
 
-Q.2 b) State the assumptions in theory of bending. (4M)
+Rigidity. : (6)
+Q.3 b) A Simply supported beam carries a maximum 170
 
-Q.3 a) For the beam shown in Figure 2, draw the maximum shear stress distribution diagram considering
-it has a T- cross section having flange of 80mm x 15mm and a web of 20 mm x 60 mm. (7M)
-Q.3 b) Derive the formula for two types of stresses in cylindrical shell. (7M)
+Sagging bending moment of 50 kNm If the beam has I ok
 
-Q.4 a) A point in a strained material has two mutually perpendicular compressive stresses of 160 MPa and
-100 MPa acting on it accompanied by a shear stress of 80 MPa. Find the normal, tangential and resultatnt
-stresses on a plane at 30 degrees to the major principal plane. (7M)
+shaped cross section as shown then find the force 25
 
-Q.4 b) A solid shaft has its maximum torque 25% more than the average torque. The modulus of rigidity
-G = 75 GPa and its average torque is 35kNm. If the maximum shear stress is not to exceed 80 MPa and
-angle of twist not to exceed 1° in 3m length; calculate the safe diameter and the values of the shear stress
-and angle of twist at that diameter. (7M)
+resisted by Upper Flange. and Upper Web, also find the i
 
-Q.5 a) What is core of a section? Derive the area indicating the core of a rectangular section. (7M)
+Bending moment resisted by the upper flange. (8) tes +s
 
-Q.5 b) A 6 m long cast iron tube of 80 mm external diameter tightly encloses a copper rod of 40 mm
-diameter. If a compressive load of 40KN is applied to these tubes whose ends are firmly fastened together,
-what will be the loads on each material and also their change in lengths. E = 155GPa for cast iron and
+20
+ca ‘ 4150 >|
 
-72GPa for copper. (7M)
-Q.6 a) State and derive the Torsion Formula. (7M)
-Q.6 b) Explain the Hooke’s Law and also explain the stress-strain curve for ductile material (7M)
+Q.4 a) A hollow shaft 3m long has diameter ratio of 0.6. and transmits 300kW at 80 RPM. Ifthe maximum torque it =
+carries is 1.4 times the mean torque and the maximum allowable shear stress is 6(0MPa; then find the diameters of the
 
-Q.7 Find the slope and deflection at points B& D. Also find the maximum deflection. Take E= 2.1 X
-10°MPa and I=8 x 10° mm‘. (14M)
+shaft. G= 82 GPa. (7)
+Q.4 b) A simply supported beam of 4m carries a + Juez 250 —!
+Uniformly Distributed Load of 40 KN/m. over its entire 50
+length. Draw the shear stress distribution diagram if the
+cross section is I-shaped as shown in the figure. (7)
+250 40
+50
 
-20kN 30 kN
+. n 150
+Q.5 a) A spherical pressure vessel of Im diameter has a 1.2 cm thickness. If Poisson’s ratio is 0.3 and E = 200 GPa,
+then find the internal pressure required to cause an increase in volume of 175cm°. (7)
 
-ve
-E
+Q.5 b) A 24m high cylindrical chimney has an internal and external diameters o f 2m and 3.5m respectively. It is made
+up of a masonry of density of 22kN/m’. If the wind pressure is 1 KN/m2 and wind coefficient is (2/3), then find the
 
-ce} a
-P sinse— on a ae im —|
+resultant stresses in the beam (7)
+Q.6 a) Derive the Torsion Formula. (7)
+Q.6 b) State the formula for Shear distribution across a cross-section. (3)
+Q.6 c) State four assumptions of Bending theory. (4)
+Q.7 For the beam shown, find the slopes at all the points and also the maximum deflection. EI= 4.2 x10°kNm? (14)
+ZOKN Gok
+al 13 wf.
+& (ail L Jdakace
+PD 20% zm 3m 7 Lm® Si
+es fe pe at fg
 
-ORR eA ASE 2 Eo ke 2k A A CE A A EE 2 2 Eo 2 2 2 2 oe 2 2k ok oe oe 2 2k oe ko eo oo 2 OK
+oh
+````
 
-Zs
+## 2018-19 · Re-Exam · Sem 3 · paper 23f71e591027
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS BATCH 16-17, 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 24 November 2018
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+re)
+i SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (MECHANICAL) Year: II _ Semester: III)
+a
+a
+
+Academic Year: 2018-2019
+| Subject: Strength of Materials’
+
+Date: 24 November 2018 / Time\\2.00 pintg
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book; which is provided for their use.
+1) Question No. ONE is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1_— Attempt any two of the following
+a) What is pure bending also state the assumptions made for it. [7]
+b) Draw a stress and strain diagram for ductile material, also label it with all points. Explain the [7]
+significance of all the points.
+c) Explain Longitudinal and circumferential stress in thit-cylinder with sketches. [7]
+Q2a) Draw a shear force and bending Moment diagram for the Beam shown below, also show Point of [10]
+
+Contraflexure if any.
+BO KN BOKN
+
+, N)m
+ror
+
+A C.
+
+ark rane 6m
+
+b) Find the equations of shear force and bending moment for a cantilever of length L loaded by UDL (4)
+over a full span.
+Q3a) Derive a torsion formula. [7]
+——— b) A rectangular beam 200 mm deep and 300 mm wide is simply supported over a span of 8m. What [7]
+uniformly distributed load per meter the beam may carry, if the bending stress is not to exceed 120
+
+— N/mm.
+--- page 2 ---
+Q4 = Atimber beam of rectangular section is simply supported at the ends and carries a point load atthe [7]
+. a) center of the beam. The maximum bending stress is 12 N/mm? and maximum shear stress is 1N/mm/2,
+find the ratio of the span to the depth.
+
+b) Derive a shear stress equation for a rectangular section of width b and depth d. [7]
+Also draw shear stress distribution.
+
+Q5a) ~Asteel rod of 3 cm diameter is enclosed centrally in a hollow copper tube of external diameter5cm [7]
+and internal diameter of 4 cm. The composite bar is then subjected to an axial pull of 45 KN. If the
+length of bar is 15 cm, deterfnine stresses in tube and rod and load carried by each member. Take E
+for steel 210 GPa and for copper 110 GPa.
+
+b) Ashort column of external diameter 40 cm and internal diameter 20 cm carries an eccentric load of [7]
+80 KN. Find the greatest eccentricity which the load can have without producing tension on the cross
+section.
+
+Q6a) A body is subjected to a tensile stress of 65 MPa and 35 MPa accompanied by shear stress of 25 [7]
+MPa. Find the normal and shear stress on a plane inclined at an angle of 45° with major plane. (Solve
+analytically).
+
+b) Solve above problem Graphically. [7]
+
+Q7 For a simply supported beam shown in the figure, find deflection at C. Take E=200 GPa and moment [10]
+
+a) of Inertia 5 x 10° mm‘.
+AKNI® \ 12KN
+Cc
+
+LV YN?
+A s. _ D>
+
+Ts
+
+\
+
+) 7
+
+b) What is the relation between curvature, slope and deflection? [4]
+
+z Pageaor Q
 ````
 
 ## 2018-19 · Re-Exam · Sem 3 · paper c0cd59f586c4
@@ -4779,6 +5285,7 @@ Ys Ys
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATC H2018-19 RE EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 16 January 2019
 - Text: ocr (4 pages), mean OCR confidence 81.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -4905,7 +5412,6 @@ Pa ‘i JouN.m “ens a
 Don, __ (Ase as!
 
 A 7
-rAN Sm ,P em \ sn \A> sm =
 c) Acast iron beam is of T section as shown in the figure and loaded as shown. Draw the shear stress
 distribution across the c/s for the maximum shear force for the beam.
 
@@ -4925,7 +5431,6 @@ E = 200 X 10° N/mm and I =20X 10% m’.
 ZOKN\ IO KN
 ISuNm le Pa J4 KN /m
 AK yannaaaaiaaaas ahes ye
-i Bu L 2m L 4 yn L Zm yp
 
 caf
 
@@ -4990,32 +5495,32 @@ c) With usual notations show that ey = 2e: + e2 in case of cylindrical shells.
 ly
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper d1593d9a3fbb
+## 2018-19 · Re-Exam · Sem 3 · paper 75d60c63e4a8
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 16-17 17-18 18-19 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 09 November 2019
-- Text: ocr (3 pages), mean OCR confidence 90.0
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 16-17, 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 17 November 2018
+- Text: ocr (3 pages), mean OCR confidence 90.8
 
 ````text
-&
+Oo
 
-—- SVKM’s NMIMS 4
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
-Programme: B. Tech (Mechatronics) Year: II Semester: HI
-a c ;
-Academic Year: 2019-20
-Subject: Strength of Materials
-a Marks: 70 ~
-Date: 09 November 2019 Time: 2.00 pm -
-“ Durations: 3 (Hrs)
-No. of Pages: A.
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Re-Examination (2016-17 / 2017-18 / 2018-19)
+] Programme: B. Tech (MECHATRONICS) ~ meet, Semester:
+ep
+Academic Year: 2018-2019
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
+Subject: Strength of Materials Y
+Date: 17 November 2018 _ Time: 2. OOS
+
+No. of Pages : (e) >
+Re-examination (2016- 17 / 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
 1) Question No. 1 is compulsory.
 
@@ -5028,135 +5533,245 @@ Answer Book, which is provided for their use.
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ‘suitable data if necessary,
+7) Assume suitable data if necessary.
 
-Q.1 A. Solve Any Two
-a. Explain the stress and strain curve for the ductile material. (04)
-b. Define the efficiency of riveted joint. (04)
-c. Explain the concept of torsion of circular shaft. (04)
+Ql
+A Explain Factor of safety, also Define Young’s Modulus and Bulk Modulus (6)
+B Attempt any TWO of the following
+(8)
 
-B. Solve Any Two
+1. Draw the typical Stress strain diagram for mild steel.
 
-a. Define Principal stress and Principal strain. S (03)
-b. Explain the flexure formula for theory of bending. (03)
-c. Explain the procedure of double integration method in deflection of beam. (03)
-Q.2 A. A steel bar is 900 mm long; its two ends are 40 mm and 30 mm in diameter and the (07)
+2. What do you know by pure bending? Also state assumptions made in simple
+bending.
 
-length of-each rod is 200 mm. The middle portion of the bar is 15 mm in diameter and
-500 mm long. If the bar is subjected to an axial tensile load of 15 KN, find its total
-extension. Take E= 200 GN/m? (G stands for giga and 1G =10).
+3. Draw Mohr’s circle to find maximum shear stress and principal stresses.
 
-au —_
-e es | L5eN.
+Q2 A A cast iron beam of I section with a top flange 80 x 20 mm thick, bottom flange 160 (7)
+x 40 mm thick and web 200 mm deep and 20 mm thick. The beam is simply
+supported on a span of 5 m. If the tensile bending stress is not to exceed 20 N/mm’,
+— find the ud! which the beam can carry. Find also the maximum compressive stress
 
-: PLS
-af @ "8
-® a
-ZOOM” 41 Bop mm =} 200 Wore
+eee B Two steel rods, each of diameter 20 mm and a copper rod of diameter 25 mm, (7)
+together support a load of 25 kN in the form of a rigid plate. Determine the stresses
+developed in each rod. Assume that the two steel rods are equidistant from the
+
+copper rod.
+Take Es= 200 GN/m?, Ec=100 GN/m?.
+
+a \/z
 --- page 2 ---
-Q.3
+Q3
 
-Q.4
+Q4
 
-B.
-
-What must be the length of a 5 mm diameter aluminum wire so that it can be twisted
-through one complete revolution without exceeding a shearing stress of 42 MN/m?.
-
-Take C= 27 GN/m?.
-
-A. A long rectangular wall is 2.5 m wide. If the maximum wind pressure on the face of
-
-the wall is 1.1 kKN/m?, find the maximum height of the wall so that there is no tension
-
-in the base of the wall. The specific weight of masonry is 22 kN/m?.
-
-B. Prove that the shear stress at any point in the cross section of a beam which is
+Q5
 
 A
 
+A
+
+Draw SFD and BMD for the loaded beam as shown in figure and show the point of (14)
+contra flexure.
+
+An I-section beam 200 mm wide x 350 mm deep has a web thickness of 12.5 mm _ (8)
+and a flange thickness of 25 mm. It carries a shearing force of 200 KN at a section.
+Sketch the shear stress distribution across the section.
+
+A cylindrical shell 1 meter in diameter and 3 m long has a metal thickness of 10 (6)
+mm. If it is subjected to an initial pressure of 3 N/mm?, Determine 5L and éd.
+
+Take E = 210 kN/mm?, “= 03
+
+Determine the diameter of the shaft to transmit 1 MW rotating at 220 rpm and the (5)
+working conditions to be satisfied are:
+
+a. That the shaft must not twist more than 1° on length of 12 times diameters
+
+b. The shear stress must not exceed 60 N/mm?. Take G = 84 kKN/mm?
+
+A T shaped column as shown in figure is le 200 mm ——>4 (9)
+under the action of a compressive force L +
+P = 80 KN. Determine the resultant stress | | J 20mm
+
+; 7
+
+at the top & bottom edge of the section.
+
+2/5
+--- page 3 ---
+Q6 A aa point in a strained material is subjected to the stresses as shown in figure. Find out (7)
+the normal and shear stresses on the section AB.
+
+‘i 25 MPa yaad
+E at _-
+25 MPa|
+75 MPa
+¥
+150 MPa
+B A cast iron water pipe of 500 mm inside diameter and 20 mm thick is simply (7)
+
+supported over the span of 10 m. Find the maximum stress in the pipe metal when
+the pipe is running full. Take density of cast iron as 70.6 KN/m? and that of water as
+9.8 KN/m?.
+
+Q7 A beam AB of 4 m span is simply supported at the ends and is loaded as shown in (14)
+figure. Determine:
+(i) Deflection at C
+(ii) Maximum Deflection, and
+(iii) Slope at the end A.
+Given: E = 200 x 10°KN/m?, and I = 20 x 106 m4,
+
+20 KN
+````
+
+## 2018-19 · Re-Exam · Sem 4 · paper 9de4edfedfc3
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2016-17,2017-18 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 April 2019
+- Text: ocr (3 pages), mean OCR confidence 90.0
+
+````text
+Program :B.Tech Integrated (MECHANICAL) | Year: If Semester: IV
+Academic Year: 2018-2019
+Subject: Strength of Materials _ Marks: 70
+Date : 23 April 2019 | Time: 02.00 pm to 5.00 pm _
+Duration: 3 (hrs)
+No. of Pages: 3
+Final Examination (2018-19)/Re-examination(2016-17/2017-18) ~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql ; (14)
+
+1. Define and Explain: (3)
+
+i) Factor of safety
+ii) Young’s Modulus
+iii) | Bulk Modulus
+
+2. Explain Principal planes and principal stress (3)
+
+3. What do you know by pure bending? Also state assumptions made in simple (4)
+
+bending.
+4. | What is Riveted shell and also state its efficiency. (4)
+Q2 A A rectangular steel bar 30 mm wide, 50 mm deep and 4 m long is simply supported (7)
+
+at its ends. The density of steel is 7850 kg/m? If the maximum bending stress is not
+to exceed 50 MPa, determine the maximum safe udl the beam can carry.
+
+B Two steel rods, each of diameter 20 mm and a copper rod of diameter 25 mm, (7)
+together support a load of 25 kN in the form of a rigid plate. Determine the stresses
+developed in each rod. Assume that the two steel rods are equidistant from the
+copper rod.
+
+Take Es= 200 GN/m?,
+Ec=100 GN/m?.
+
+1of3
+--- page 2 ---
+Q3 Draw SFD and BMD for the loaded beam as shown in figure and show the point of (14)
+contra flexure.
+
+_ 25kN 40 kN 25 kN
+
+| 42kN/m
+A E
+
+B Cc D J
+1 m-pke— 2 m —pe———- 4 m >} 1 m
+
+Q4 A A hollow circular column having external and internal diameters of 320 mm and 240 (6)
+mm respectively carries a load of 80 KN at outer edge of the column. Calculate the
+maximum and minimum intensities of stress in the section.
+
+B A cylindrical shell 1 meter in diameter and 3 m long has a metal thickness of 10 mm. (8)
+
+If it is subjected to an initial pressure of 3 N/mm?, Determine 85L and 6d.
+
+Take E = 210 kN/mm?, <= 0.3
+
+Q5.A Determine the diameter of the shaft to transmit 1 MW rotating at 220 rpm and the (6)
+working conditions to be satisfied are:
+a. That the shaft must not twist more than 1° on length of 12 times diameters
+b. The shear stress must not exceed 60 N/mm?. Take G = 84 kN/mm?
+
+B A cast iron beam is of T section as shown in figure and loaded as shown below. (8)
+Draw shear stress distribution across the cross section for maximum shear force for
+the beam.
+1800 N/m 100 mm
+A B | | 20 mm
+3m Cem i
+it
+120 mm
+- 20mm ~-
+short hollow square concrete column havin mm wall thickness is required to
+6 A A short holl te col having 50 Il thickn quired t 7
+
+carry a maximum load of 400 KN. The ultimate compressive strength of concrete to
+be used is 15 N/mm?. Using a factor of safety of 3, decide the outside dimensions of
+the column.
+
+2 of 3
+--- page 3 ---
+Q7
+
 B
 
-subjected to a shear force F, is given by;
+A point in a strained material is subjected to the stresses as shown in figure. Find out
+the normal and shear stresses on the section AB.
+25 MPa
 
-. A beam is simply supported and carries a uniformly distributed load of 40 kN/m run
-over the whole span. The section of the beam is rectangular having depth as 500 mm.
-if the maximum stress in the material of the beam is 120 N/mm? and moment of
+150 MPa
+*
 
-inertia of the section is 7 X 108 mm’, find the span of the beam.
+25 MPa
 
-. The shear force acting on a section of a beam is 50 kN. The section of the beam is of
-T-shaped of dimensions 100 mm X 100 mm X 20 mm as shown in Figure 2. The
-moment of inertia about the -horizontal axis is 314.221 X 10* mm‘. Calculate the
+75 MPa « 15 MPa
 
-shear stress at the neutral axis and at the junction of the web and the flange.
+25 MPa
 
-Y
+25 MPa
+150 MPa
 
-| K - 420mm >
-Coa
-4 [@ |
-Kn
-€
-]
-Sg
-S| & ©
-so.
-OM
+A beam AB of 4 m span is simply supported at the ends and is loaded as shown in
+figure. Determine:
 
-¥ Fig. No.02
+(i) Deflection at C
 
-(07)
+(ii) Maximum Deflection, and
 
-(07)
+(iii) Slope at the end A.
+Given: E = 200 x 10°kN/m?, and I= 20 x 10% m4.
 
-(07)
+20 KN
+A EL TESS ESE
+im—>|<— im —>|<
+Ra Rg
 
-(07)
+30f3
 
-(07)
---- page 3 ---
-Q.5
+(7)
 
-Q6
-
-Q.7
-
-A. Explain the significance of Shear Force Diagram (SFD) and Bending Moment (04)
-
-Diagram (BMD).
-B. Draw the S.F.D. and B.M.D. for the beam as shown in Figure 1. (10)
-| SOREN Loe
-c D
-A f .&
-2m brn mM
-PE oe seinen
-Fr Fig. no. oL Pa
-
-A. A beam of length 6 m is simply supported at its ends and carries two points load of (07)
-48 kN and 40 KN at a distance of 1 m and 3 m respectively from the left support.
-Take E= 2 X 10° N/mm? and I= 85 X 10° mm’. Find;
-i. Deflection under each load,
-ii. Maximum deflection, and
-
-iii. The point at which maximum deflection occurs.
-
-B. Ata point in a strained material the principal stresses are 100 N/mm? (tensile) and 60 (07)
-N/mm? (compressive). Determine the normal stress, shear stress and resultant stress
-on a-plane inclined at 50°.to the axis of major principal stress. Also determine the
-maximum shear stress at the point. .
-A. A cylindrical vessel, whose ends are closed by means of rigid flange plates, is made (07)
-of steel plate 3 mm thick. The length and internal diameter of the vessel are 50 cm
-and 25 cm respectively. Determine the longitudinal and hoop stresses in the
-cylindrical shell due to internal fluid pressure of 3 N/mm?. Also calculate the increase
-in length, diameter and volume of the vessel. Take E= 2 X 10° N/mm? and p= 0.3.
-. (07)
-B. A short column of external diameter 40 cm and internal diameter 20 cm carries an
-eccentric load of 80 kN. Find the greatest eccentricity which the load can have
-
-without producing tension on the cross section.
-
-B)%
+(14)
 ````
 
 ## 2018-19 · Re-Exam · Sem 4 · paper b38e6d2a408f
@@ -5268,6 +5883,134 @@ circumferential joints aren,=80% and Nc=50% respectively.
 E=200 GPa and =~ = 0.286
 
 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 3430d7b6943b
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/Strength of Materials Re-exam 2016-17-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 20
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (Civil) /. Year: [1 . Semester : II
+Academic Year: 2018-19
+
+Subject: Strength of Materials Marks: 70
+
+Time: 2.00 pm to 5.00 pm —”
+
+‘ nuary 2019 )
+Date : 21 January 20 Durations: 3 (hrs)
+
+No. of Pages: O22
+Re-examination (2016-17 / 2017-18/ 2018-19) _—
+
+Instruction: Candidates should read carefully the instructions printed on the questign-peper-an
+over the cover of the Answer Book, which is provided for their use. f
+
+NB: 1) Question No.1 is compulsory.
+2) Out of remaining questions attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Assume any other data, whenever not given, suitably but state and justify the same.
+7) Illustrate your answer with neat sketches whenever required.
+8) Figures in brackets on the right hand side indicate full marks.
+
+i. Attempt any TWO questions out of THREE. (14)
+I. a) A spherical vessel 0.8 m diameter is subjected to an internal pressure of 1.5 N/mm?. Find the
+stress in material of vessel, if the thickness of wall is 3 mm. (3)
+
+b) Derive the relationship between rate of loading w, shear force V, and bending moment M. (4)
+
+II. a) Define core of section and calculate core of section for circular section of diameter ‘D’. (4)
+b) A steel square bar of 50 x 50 mm is acted upon by forces as shown in figure. Determine the
+maximum stress and total elongation of the bar. Take E= 210 GPa. (3)
+
+A B C D
+10kN<4 SKN + -—> 25kN — 10 kN
+0.8m 1.0m 1.5m
+
+Ill. a) A shaft of 80 mm diameter subjected to a torque of 15 kNm. Determine the maximum shear
+stress in the shaft. Take G= 80 GPa. (3)
+b) Find the deflection for a simply supported beam of length 3 m. Beam is subjected to UDL of
+
+8 KN/m over entire span. Assume EI is constant. (4)
+
+2.a) A beam is loaded as shown in Fig.1. Draw S.F. and B.M diagram. (7)
+
+15kKN
+
+Fig. 1 1|Bage
+
+4
+
+iy
+--- page 2 ---
+b) A steel tube 50 mm in external diameter and 3 mm thick encloses centrally a solid copper bar
+of 35 mm diameter. The bar and the tube are rigidly connected together at the ends at a
+temperature of 20°C. Find the stresses in each metal when heated to 170°C, also find the
+increase in length, if the original length of the assembly is 350 mm. Take E; = 200 kN/mm’,
+Ec = 100 kN/mm? and as = 1.08 x 10°/°C, a = 1.7 x 10°°/°C. (7)
+
+3. a) Fora SS beam as shown in Fig. 2, draw shear force and bending moment diagram. Couple of
+
+10 kNm is acting at C point. (7)
+10 kNm
+UDL =8 kN/m
+: x PCCOQOOO
+| 2m Cd 15m 2m ] B
+Fig. 2
+
+b) A symmetrical I-section has flanges of 100 mm x 10 mm, and web of 150 mm x 10 mm. If it
+
+_is used as a simply supported beam and span of beam is 4 m with load including self-weight
+
+on beam is 10 kN/m over entire span. Find the stresses developed at the extreme fibers of
+beam section, also sketch the bending stress diagram. (7)
+
+4. a) A solid shaft rotating at 100 rpm transmits 120 kW. The maximum torque is 15% more than
+the mean torque. The modulus of rigidity (C or G) is 80 GPa. The diameter of the shaft is 100
+mm and length of shaft is 1.3 m. Calculate i) maximum shear stress and ii) angle of twist in
+
+the given length of shaft. (7)
+
+b) An element in a structure is subjected to a plane stress system that has the stress 0x = 100
+N/mm? (Tensile), oy = 80 N/mm? (Compressive) and Txy = 20 N/mm? (clockwise). Find i) the
+principal stresses and its plane ii) maximum shear stress and its plane. Use analytical method.
+
+(7)
+
+5.a) A-simply supported steel beam of 6 m span having rectangular cross section, carries a UDL
+of 25 kN/m on entire span. If the maximum shear stress is 75 MPa, find the dimensions of
+beam section if d = 2.5b. (7)
+
+b) A masonry chimney having the shape of frustum of a cone is 25 m meters high. The external
+diameter at the top and the internal diameter at the bottom is 2 meters. The chimney is 0.5m
+thick at the base. If the weight of the chimney is 1800 KN, find the horizontal wind pressure
+that may act on the chimney in order to avoid the tension at the base. (7)
+
+6. a) Explain Mohr’s circle method to find the principal stresses, with example of yours choice.(7)
+b) A thin cylindrical shell of 800 mm diameter and 2 m long with a wall thickness of 10 mm is
+filled with a fluid at pressure of 5 MPa. Find i) hoop stress ii) longitudinal stress and iii)
+change in dimensions of shell. Take E= 2.1 x 10° N/mm? and p= 0.3. (7)
+
+7. a) Derive flexural equation for a simply supported beam when subjected to uniformly distributed
+load. (7)
+
+b) A beam of uniform cross section, 8 m long is simply supported at the ends. It carries a point
+loads of 48 KN at 2 m from left support and UDL of 10 kN/m on right half span of the beam.
+Calculate the deflection under point load and at center of beam. Assume E = 200 kN/mm? and
+1=6.5x 10!° mm‘. Use Macaulay’s method. (7)
+
+2 se 6 ee 2 2 2c ee 2 2 2 2 2
+
+2|Bage
 ````
 
 ## 2017-18 · Final + Re-Exam · Sem 4 · paper 25b738fdd6cd
@@ -5556,6 +6299,274 @@ wood as 200 GPa and 25 GPa respectively. [07]
 Page 2 of 3
 ````
 
+## 2017-18 · Final-Exam · Sem 3 · paper c6f11c2ec97f
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS (MECHANICAL), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 02 December 2017
+- Text: ocr (2 pages), mean OCR confidence 80.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) » - Year: ID - Semester: III
+
+x
+
+Academic Year: 2017-2018
+
+i\lucd 8? Tgp
+Subject: Strength of Materials — > ~
+
+: asf NO
+Marks: 70 ~ ‘ e%\
+Date: 02 December 2017 ~ Time: 10.00 am; dtr m8 3
+Durations: 3 (arg SO" 8 pe
+No. of Pages: \ rw
+Final-Examination st eee Z .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1)-Question No. ONE is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Q1 Attempt any two of the following
+a) A bar ABCD 950 mm long is made of three parts AB, BC and CD of lengths 250,450 and 250 mm_ [7]
+respectively. End portions AB and CD are cylindrical of diameter 25 mm and 15 mm
+whereas central portion BC is square section (30 x 30 mm). A bar is subjected to 26 kN. Find the
+stresses in rods as well.as elongation in each rods. Take Young’s modulus as 200 GPa.
+
+b) Draw a shear force and Bending diagram for a cantilever shown in the figure. [7]
+\ ps tN] yeene
+A y : OOO VV)" =
+a D E
+, im , 15m in 2m 0-5
+
+c) Write a short note on Longitudinal and circumferential stress in thin cylinder. A900 mmdiameter [7]
+pipe contains a fluid at a pressure of 25 N/mm’. If the safe stress in tension is 100 MPa find the
+minimum thickness of pipe.
+
+Q2a) Two vertical rods (steel and bronze) are each fastened at their upper ends at a distance 600 m apart. [7]
+Each rod is 3 meter long and 12 mm in diameter. A horizontal rigid bar connects the lower ends of
+the rods on it is placed a load of 4500 N so that the cross bar remain horizontal. Find the position of
+the load on the cross bar and thé stress in each rod. Take Young’s Modulus for steel and bronze are
+196 and 63 GPa.
+b) Derive the formula for maximum torque transmitted by solid circular shaft. [7]
+Q3a) State assumptions in pure bending and derive a bending formula for a beam. [7]
+
+b) Ahorizontal beam of the cross section shown in the figure is 3 m long and simply supported at ends. [7]
+
+Find the maximum uniformly distributed load it can carry, if the compressive and tensile stress must
+
+—— not exceed 55 MPa and 30 MPa. {9 “>
+r44~ 25MM 455mm
+
+|
+- ©
+N L
+~| 25 Mm
+“ rs
+150mm
+Yo
+--- page 2 ---
+~A
+
+Q4 Draw a shear force and bending Moment diagram for the Beam shown below, aiso show Point of [10]
+
+a) Contraflexure. ; o.
+vy 4OIKN
+y DKNIM
+A $22
+m8 co PE
+7
+4 2M, IM, AM, 2m 2M
+' I ' j t F
+b) Explain the point of contraflexure and point of maximum moment. [4]
+
+Q5a) Asimply supported beam is facing maximum shear force of 100 kN across the section. Section ofa [7]
+
+beam is shown below. Calculate and Draw shear stress distribution across the section.
+200mm
+
+_| | | | 50 mr
+
+[s)
+[3)
+“ ->| 50
+b) Find the stress intensities on all four corners of a pier. [7]
+¥
+100k 6 O-TM, “EA
+ote Eg Prev (3x2m)
+_ | g& | g
+of smi StS “
+Sam IO
+300 ki” y
+KAS ; 400.
+
+: 4
+}
+Q6a) A plane element in a body is subjected to a tensile stress of 100 MPa accompanied by a clockwise [7]
+shear stress of 25 MPa. Find the normal and shear stress on a plane inclined at an angle of 20° with
+tensile stress and maximum shear stress on a plane. (Solve analytically).
+
+b) Solve above problem Graphically. [7]
+Q7 For a simply supported beam shown in the figure, find deflection at C and D. Take E=200 GPa and _ [7]
+a) moment of Inertia 6.50 x 10° mm‘.
+
+4QKN
+f 10 KNI™M
+Z DOOY YY
+A ~ £ B
+2m, 2m, 4
+Parr ee {
+b) Find out slope and deflection equations for a cantilever carrying a uniformly supported load w over [7]
+
+a full span of length L.
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper 294ef07f3b48
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS (MECHATRONICS), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 November 2017
+- Text: ocr (3 pages), mean OCR confidence 87.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+F Programme: B. Tech (MECHATRONICS) Year: II - Semester: III ~
+wt
+i Academic Year: 2017-2018
+Subject: Strength of Materials
+a Marks: 70 ~ ‘ ,Teae oa
+Date: 28 November 2017 Time: 10.00 am tt. Ce ALY FA
+a Durations: 3 (hrs)
+
+No. of Pages:
+Final-Examination Se ht ey
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+A Explain Mohr’s circle construction for principal stresses. (4)
+B Attempt any FIVE of the following (2 Marks each) (10)
+1. Define Factor of safety and state its importance.
+
+2. Draw Shear Force diagram for the loaded beam as shown
+| 25 kN |*5 KN
+
+YY.
+
+ba m L = | im
+
+B
+
+State assumptions made in ‘Theory of Bending’
+
+4. Calculate the bursting pressure for a cold drawn seamless steel tubing of 60 mm
+inside diameter with 2 mm wall thickness. The ultimate strength of steel is 380
+MN/m’.
+--- page 2 ---
+5. What is Torsional Rigidity. n
+
+6. Define Modulus of Rigidity and state its unit.
+
+Wp Meat Meter”
+Q2 A Draw SFD and BMD for the loaded beam as shown in figure. (10)
+
+B A brass bar having cross sectional area of 1000 mm? is subjected to axial forces (4)
+shown in figure. Find the total elongation of the bar. Modulus of Elasticity of brass =
+
+100 GN/m’.
+
+I si TST
+
+20 KN
+10 KN |
+M 80 KN N p
+
+0.6 m>|+—1.0 m + /+—1.2 m —>
+
+Q3 A Derive the Bending Equation. (7)
+B An symmetrical I-section with rectangular ends has the following dimensions: (7)
+Flanges : 100mm x 10 mm :
+Web   : 120mm x 10mm_
+If this section is subjected to a bending moment of 5 kNm and a shearing force of 5
+
+KN, find the maximum tensile and shear stresses induced in it.
+. — varcde
+Q4 A A beam of channel section 120 mm,x 60 has uniform thickness of 15 mm. Draw (8)
+diagram showing the distribution of shear stress for a vertical section where shearing
+force is 50 KN. Find the ratio between maximum and mean shear stresses.
+
+teeta
+B A boiler shell is to be made of 15 mm thick plate having tensile stress of 120 MN/m2. (6)
+pee If the efficiencies of the longitudinal and circumferential joints are 70 % and 30 %
+
+respectively. Determine maximum possible diameter of the shell for an internal
+pressure of 2 MN/m?.
+
+243
+--- page 3 ---
+Q5°A A masonry chimney 24 m high, of uniform circular section, 3.5 m external diameter (9)
+and 2 m internal diameter is subjected to a horizontal wind pressure of 1 kN/m’ of
+projected area. Find the maximum and minimum stress intensities at the base, if the
+specific weight of masonry is 22 kN/m’.
+
+B A hollow shaft of diameter ratio 3:5 is required to transmit 600 kW at 110 RPM the (5)
+maximum torque being 12 % greater than the mean. The shear stress is not to exceed
+60 N/mm* and the twist in length of 3 m not to exceed 1°, Calculate the minimum
+external diameter. Take G = 8 X 10* N/mm’.
+
+Q6 A A plane element is subjected to stresses as shown in the figure. Determine (8)
+analytically:
+a. The principal planes and their stresses
+b. The plane of maximum shear and its intensity
+
+r 0G MPa
+so mpa
+150 MPa 150 MPa
+30°
+50 MPa <
+Vv100 MPa
+B Explain stress on an oblique plane of a member subjected to axial stress in one (6)
+direction only.
+7 A Determine the following for an overhanging beam ABC supported at A and’ B and (12)
+g
+loaded as shown in figure:
+(i) Deflection at the free end C;
+(ii) | Maximum deflection between A and B.
+Take: E = 200 x 10°kKN/m? and I= 13.5 x 10° m*
+4.5 EN
+f 3 i:N/m i
+B What is stress? State different types of stresses. (2)
+
+2h s
+````
+
 ## 2017-18 · Final-Exam · Sem 4 · paper e0a5c7898b29
 
 - Departments: Mechanical
@@ -5694,6 +6705,195 @@ VIVITITITITITIVITAT TTT TTT FTTTTT
 3/5
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper 215eba146f04
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS (BATCH 2016-17) RE-EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 25 November 2017
+- Text: ocr (4 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (CIVIL) ’ Year: II Semester: III .
+
+th: 2016-17°
+Bate Academic Year: 2017-2018 ‘
+
+ject: th of Materials”
+Subject: Strength o Marks: 70
+
+Date: 25 November 2017 . Time: Ae j
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+1) Question No.1 is compulsory
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1a) Find total elongation of the compound bar shown below. Length of A, Band C is 1m, (3)
+
+1.5m, and 0.5m respectively. Diameter of A, B and C is 20 mm, 25 mm and 20 mm
+respectively. Take modulus of elasticity E as 2.1 x 10° N/mm2.
+
+30 kN 40 kN
+
+20 kN
+
+L im > 1.5m i, 5m ]
+
+rt *s |
+
+b) A thin spherical shell of 100 cm diameter and 10 mm thickness is subjected to an internal (2)
+pressure of 1.2 N/mm”. Find the change in diameter of shell. Take modulus of elasticity
+(E) as 2 x 10° N/mm?and poisson’s ratio (v ) as 0.3.
+
+¢) Solve any three questions out of four: (3 Marks each) (9}
+i) Enlist the assumptions made in the simple bending theory.
+ii) Write formula and explain the terms for shear stress distribution across a section of
+beam
+iii) Draw stress-strain curve for mild steel and indicate elastic limit, yield stress,
+ultimate stress, breaking point and strain hardening region
+iv) Write formula for the simple theory of bending and explain all the terms in detail.
+
+14
+--- page 2 ---
+Q.2a) Athinclosed cylindrical shell of diameter 1200 mm, thickness 12 mm, length 2 m, is filled (7)
+with a fluid at a pressure 1.5 N/mm?. Modulus of elasticity (E )= 2 x 10° N/mm”, poissons
+ratio(v)=0.3 Calculate (a) Circumferential stress (b) Longitudinal stress (c ) Change
+in diameter (d) Change in length ( e) Change in volume
+
+Q.2 b) A shaft can transmit power of 100 kW at 100 rpm. Maximum shear stress (Tmax) allowed (7)
+is 50 N/mm?. Determine the diameter of the shaft. Also determine the length of the shaft
+if the angle of twist is 2 degree over the entire length.
+Take modulus of rupture (G) = 70 x 10? N/mm?
+
+Q.3.a) A point in a material has the state of stress as shown below. Calculate the normal stress (7)
+and shear stress on a plane AB inclined at 70 degrees with the horizontal as shown.
+
+50 MPa A
+20MPa ¢_| /
+/
+100 MPa / 100 MPa
+A7z0°
+7 20 MPa
+
+B
+50 MPa
+
+Q.3 b) A flitched beam made up of steel and timber has a section as shown below. If the (7)
+
+maximum permissible stress in timber (Otm permissible) is 5 MPa, calculate the maximum
+stress in the steel. Also calculate the moment of resistance of the section. Assume that
+steel will not be overstressed.
+
+Modulus of elasticity of steel (Est) = 20 x Modulus of elasticity of timber (Et)
+
+i T Timber
+
+200 mm 120 mm
+
+| I Steel
+, 4
+
+|} 44>
+
+75mm 12mm 75mm
+
+Q.4a) A beam of rectangular cross section (width B = 100 mm, depth D = 200 mm) is subjected (7)
+to a shear force of 20 KN. Calculate
+(a) Shear stress (t) developed at a layer 80 mm above the neutral axis of the section.
+(b) Maximum shear stress (tmax) in the section
+(c) Draw the shear stress distribution diagram.
+
+a4
+--- page 3 ---
+Q.4 b) Draw the shear force diagram (SFD) and bending moment diagram (BMD) for the beam (7)
+loaded as shown in figure below. Indicate all the significant values including maximum
+bending moment and point of contraflexure.
+
+10kN/m 4kN
+B
+Ic
+A
+L
+5m 2m
+
+Q.5 a) A composite rod is fixed at one end and free at other, as shown below, is subjected to an (7)
+increase in temperature of 60°C. Calculate the stresses induced in each metal.
+
+Est = 200 GPa; Epr = 85 GPa
+
+Ost = 12x 10°/) C; Opr = 20x 10°C
+
+Cross sectional area of steel (Ast) = 150 mm?
+
+L Cross sectional area of brass (Abr) = 150 mm?
+
+Steel Length (L) = 500 mm
+
+Q.5 b) A point in a material has the following state of stress. Determine (7)
+(a) magnitude and direction of thé principal stresses (01, 62, Op)
+(b) magnitude and direction of the maximum shear stress (tmax, 8s) .
+
+40 N/mm?
+30 N/mm?
+80 N/mm?” df + 80 N/mm?
+30 N/mm?
+40 N/mm?
+
+3ly
+--- page 4 ---
+Q.6 a) Draw Shear Force Diagram (SFD) and Bending Moment Diagram (BMD) for the beam
+shown below. Indicate all the significant values.
+
+10 kN
+30°
+A 4 A =) 5 kN.m
+1.5m 2m
+a 4 |
+
+Q.6 b) A retaining wall 2 m wide at the top and 8 m wide at the bottom is 10 m high. It is subjected
+to earth pressure on the back. The weight of masonry is 25 kN/m? and that of earth 18
+kN/m>. The angle of repose of earth is 30°. Top level of the earth is horizontal and level
+with the top of the wall. Find the maximum and minimum intensities of pressure on the
+base.
+
+Q.7 a) Derive the equation for simple theory of torsion.
+
+Q.7b) A 14m long steel girder of uniform section is simply supported at its ends. It carries
+concentrated loads of 90 kN and 60 KN at points 3 m and 4.5 m from the two ends
+respectively, as shown. Calculate the deflection of the girder at C, Slope at A and
+maximum deflection using Macaulay’s method. Take I= 64x 104 m‘and E=210
+x 10° kN/m?
+
+90 kN 60 kN
+
+L 3m Re 6.5m aL 45m ~|
+
+ue) Y
+
+6)
+
+(9)
+
+(7)
+(7)
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper 73c3d238df19
 
 - Departments: Civil
@@ -5701,6 +6901,7 @@ VIVITITITITITIVITAT TTT TTT FTTTTT
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 14-15 15-16 RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 29 May 2018
 - Text: ocr (4 pages), mean OCR confidence 85.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5795,7 +6996,6 @@ Q.5a) Calculate the total elongation of the compound bar shown below. LengthofA,
 C is 2m, 1.5m, and 1 m respectively. Diameter of A, B and C is 20 mm, 25 mm and
 20 mm respectively. Take modulus of elasticity E as 2 x10° N/mm?
 
-otmienee: oOo FA aimemeesarabace: sen tesee ere Bene “E> Prem e cic cececentes
 50 kN 70 kN
 20 kN
 L2m sm Lim |
@@ -6013,130 +7213,169 @@ TC SRR
 Page 3 of 3
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper 6ef95ec05729
+## 2017-18 · Re-Exam · Sem 3 · paper 537e4bad1c97
 
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2016-17 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 90.3
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS (BATCH 16-17 ) RE-EXAM.pdf`
+- Printed on paper: exam date: 02 December 2017
+- Text: ocr (3 pages), mean OCR confidence 81.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 
-NAN AS)
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT uneuans/
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Program: B.Tech/ MBA Tech (Civil) a Year: Il Semester : III
-Academic Year: 2018-19
+Programme: B.Tech (MECHANICAL) - Year: Il Semester: III
 
-Subject: Strength of Materials Marks: 70
+Batch: 2016-17 ~
+a“ Academic Year: 2017-2018
 
-Time: 2.00 pm to 5.00 pm —*
+Strength f Materials < Pid ;
+j 2 St re)
+Subject: re gt! fo
 
-22 2019 7 Co
-ce: ae : Durations: 3 (hrs)
+Time: 10. 06 am to: £00 pm
 
-No. of Pages: 02 :
+Durations) 3i(Hirs)) A 2 W
+No. of ex 3
 
-Re-examination (2016-17 / 2017-18/ 2018-19) _~
+Cy
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-over the cover of the Answer Book, which is provided for their use.
+Date: 02 December 2017 ”
+Re-Examination
 
-NB: 1) Question No.1 is compulsory.
-2) Out of remaining questions attempt any four questions.
-3) In all five questions to be attempted.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
 4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
-6) Assume any other data, whenever not given, suitably but state and justify the same.
-7) Illustrate your answer with neat sketches whenever required.
-8) Figures in brackets on the right hand side indicate full marks.
 
-eee
+6) Figures in brackets on the right hand side indicate full marks.
 
-1. Attempt any TWO questions out of THREE. (14)
-I. a) A spherical vessel 0.8 m diameter is subjected to an internal pressure of 1.5 N/mm”. Find the
+7) Assume Suitable data if necessary.
+Q.1 Draw the A.F.D., S.F.D. & B.M.D. of the beam shown in the figure below. (14M)
 
-stress in material of vessel, if the thickness of wall is 3 mm. (3)
+25 kN
 
-b) Derive the relationship between rate of loading w, shear force V, and bending moment M. (4)
-Il. a) Define core of section and calculate core of section for circular section of diameter ‘D’. (4)
-b) A steel square bar of 50 x 50 mm is acted upon by forces as shown in figure. Determine the
-maximum stress and total elongation of the bar. Take E= 210 GPa. (3)
+90! KN
+6 kNim 10 km
+404 L i 4 na
 
-A B C D
-10kN<— 5kN <4 t—> 25kN *— 10 kN
-0.8m 1.0m 1.5m
+om —fe— ine —>fe— 2m —rfe1 mofen mo}
 
-Ill. a) A shaft of 80 mm diameter subjected to a torque of 15 KNm. Determine the maximum shear
-stress in the shaft. Take G= 80 GPa. (3)
-b) Find the deflection for a simply supported beam of length 3 m. Beam is subjected to UDL of
+Q.2 a)The C/s. of the Simply Supported Beam AB is shown in the figure. It is an I section of unequal flanges. It
+carries a U.D.L. of 8kN/m. throughout its length and a Point load of 30 kN at its centre. Find the bending moment
 
-8 KN/m over entire span. Assume EI is constant. (4)
+resisted by flanges.
 
-2.a) A beam is loaded as shown in Fig.1. Draw S.F. and B.M diagram. (7)
+(11M)
+{-———- 220 ——+]
+25
+30KN   _ akn/m
+20 poorer hoes
+250 A£ c “2B
+po 2m 2M
+30
+t—120 —4
+b) State any three assumptions of Bending Theory. (3M)
 
-15KN
-
-1|Bage
+4/3
 --- page 2 ---
-b) A steel tube 50 mm in external diameter and 3 mm thick encloses centrally a solid copper bar
-of 35 mm diameter. The bar and the tube are rigidly connected together at the ends at a
-temperature of 20°C. Find the stresses in each metal when heated to 170°C, also find the
-increase in length, if the original length of the assembly is 350 mm. Take E; = 200 kN/mm?,
+Q.3 a) Three equally spaced rods in the same vertical —>| 30 mm
 
-Ec = 100 kN/mm? and a; = 1.08 x 10°5/°C, ae = 1.7 x 10°C. (7)
-.a) Fora SS beam as shown in Fig. 2, draw shear force and bending moment diagram. Couple of
-10 kNm is acting at C point. (7)
-okNm UDL =8 kN/m
-nN DOOOOOOO
-2m CA4) 15m 2m | B
-| Y Fig. 2
+plane support a Rigid Bar AB. Two outer rods are of E £e.
 
-b) A symmetrical I-section has flanges of 100 mm x 10 mm, and web of 150 mmx 10 mm. If it
+brass, each 600 mm long and of 25mm diameter. The a" = f
 
-_is used as a simply supported beam and span of beam is 4 m with load including self-weight
+central steel rod is 800mm long and 30 mm in diameter. we 7 “eee
 
-on beam is 10 kN/m over entire span. Find the stresses developed at the extreme fibers of
-beam section, Also sketch the bending stress diagram. (7)
+Determine the forces in the bars due to an applied load i E £
 
-. a) A solid shaft rotating at 100 rpm transmits 120 kW. The maximum torque is 15% more than
-the mean torque. The modulus of rigidity (C or G) is 80 GPa. The diameter of the shaft is 100
-mm and length of shaft is 1.3 m. Calculate i) maximum shear stress and ii) angle of twist in
-the given length of shaft. (7)
+of 120 KN through the mid-point of the bar. The bar B 5 3 iS
 
-b) An element in a structure is subjected to a plane stress system that has the stress 0; = 100
-N/mm? (Tensile), oy= 80 N/mm? (Compressive) and txy= 20 N/mm? (clockwise). Find i) the
-principal stresses and its plane ii) maximum shear stress and its plane. Use analytical method.
+remains horizontal after the application of load. Take Es Ea o 8
 
-(7)
+/Eb=2. ne Jom bem | it
+(7M) A B
 
-.a) Asimply supported steel beam of 6 m span having rectangular cross section, carries a UDL
-of 25 kN/m on entire span. If the maximum shear stress is 75 MPa, find the dimensions of
-beam section if d= 2.5b. (7)
+120kN-
+Q.3 b) Derive the Relations between E, G & K. Explain significance of Poisson’s ratio (7M)
+Q.4a) For the state of plane stress shown in the figure, 148 MPa
 
-b) A masonry chimney having the shape of frustum of a cone is 25 m meters high. The external
-diameter at the top and the internal diameter at the bottom is 2 meters. The chimney is 0.5m
-thick at the base. If the weight of the chimney is 1800 KN, find the horizontal wind pressure
-that may act on the chimney in order to avoid the tension at the base. (7)
+determine: a) Principal planes, b) Principal stresses and
+the Maximum Shear stress.
 
-- a) Explain Mohr’s circle method to find the principal stresses, with example of yours choice.(7)
-b) A thin cylindrical shell of 800 mm diameter and 2 m long with a wall thickness of 10 mm is
-filled with a fluid at pressure of 5 MPa. Find i) hoop stress ii) longitudinal stress and iii)
-change in dimensions of shell. Take E= 2.1 x 10°N/mm? and p= 0.3. (7)
+(8M)
 
-- a) Derive flexural equation for a simply supported beam-when subjected to uniformly distributed
-load. (7)
+Q.4 b) The stepped steel shaft is as shown in the figure. Section AB is 1.2m long with 100mm dia. while section BC is
+1.8m long with 50 mm dia. It is subjected to a torque (T) at the free end , and a Torque (2T) in the opposite direction
+at the junction of the two sizes. What is the angle of twist at the free end, if the maximum shear stress in the shaft is
+limited to 70 MPa? Assume the modulus of rigidity to be 84 GPa cén)
 
-b) A beam of uniform cross section, 8 m long is simply supported at the ends. It carries a point
-loads of 48 KN at 2 m from left support and UDL of 10 KN/m on right half span of the beam.
-Calculate the deflection under point load and at center of beam. Assume E = 200 kN/mm? and
-1=6.5x 10!° mm‘. Use Macaulay’s method. (7)
+2T
+_T
 
-ER ee eo oo ao aR a
+Fa
+100 mm dia 50 mm dia CO
+1.2m Ne 1.8m Ne
 
-2|\Bage
+Q.5 a) A cylindrical vessel 2m long and 500mm’in dia with 10 mm thick plates is subjected to an internal pressure of
+3MPa. Calculate the change in volume of the vessel. Take E=200GPa and Poisson’s ratio = 0.3 for the vessel material.
+(7M)
+
+Q.5 b) Draw the Shear Stress distribution diagram for the cross section shown in the figure, if it carries a Shear force of
+
+25KN. q™)
+aS BG eee
++
++
+is 75
+t
+—-
+
+<_——15
+--- page 3 ---
+]
+
+Q.6 a) A cylindrical column of dia.
+100 mm from the axis of the cylinder. If the column is made
+stresses acting on the cylinder, Also suggest changes to ensure
+
+300mm and height 5m carries an eccentric vertical load of 600 KN, at a distance of
+
+up of a material having density of 320kN/m’ find the
+
+that the column stays stable on the ground ensuring No
+(8M)
+
+tensile condition.
+
+& Derive the formula for Shear Stress Distribution across a cross section caused by Shear Force. (6M)
+
+Q.6 b) State
+Q.7 Find the slope and deflection at the points B, C, D & E, also find the maximum deflection. (14M)
+30kN
+20kNm 5kN/m
+
+2
+
+
+id 44 anton st
+, Cc Pe) cs © i
+m—ple— 3m—+}e— 1m —h— 2m—>}1 m>}
+
+JES EHO GSS IEEE SSIS IEEE EE IOS ITER SSI TIE IAEA aa IE
+
+3/3
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper 8d4d2119497c
@@ -6258,221 +7497,6 @@ BOKN
 pe A | vaKN/m
 
 Po Lore
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 10ddb87d3e90
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS BATCH 16-17 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70
-- Text: ocr (2 pages), mean OCR confidence 85.0
-
-````text
-SVKM’S NMIMS
-
-Program: B, Tech (Mechanical) Year: II. Semester : III
-) 4 Academic Year: 2018-2019 : ao << 4
-| Subject: Strength of Materials _ Marks: 70 \
-“ _ Time: 2.00 pm to 5.00 pm ;
-Date : 23 January ~ Durations:3 (hts) wie
-No. of Pages:
-
-Re-examination (2016- -17 / 2017-18) va
-
-Instructions: Candidates should read carefully ‘the instructions printed on the anesiian. paper Fr on the cover
-of the Answer Book,.which is provided for their use. ~~
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Draw the Axial Force Diagram, Shear Force Diagram and Bending Moment Diagram for the following beam (14)
-45KkN .
-
-80KN - QOKN
-42kNim
-anigie
-tl oie: aondannce, |
-
-ca
-41 Im 2
-} 3m > ms ae m a ee
-
-Q.2 a) The stresses on two perpendicular planes through a point in a body are 500 MPa and 350 MPa both tensile
-alongwith shear stress of 100 MPa. Find : i) the magnitude and direction of principal stresses and ii) also the magnitude
-of maximum shear stress. (7)
-
-Q.2 b) A bar system is loaded as shown in the figure. Determine the reactions generated and stresses in the bars.
-Take E = 2 X 10° MPa. (7)
-
-WOmmte—) -— [1.2m
-
-t
-
-55
-a 220 mm? 4 yay 24m
-
-i
-
-ee. oeemeeda .3
-
-12mm
---- page 2 ---
-Q.3 a) A bar of 30 mm diameter and 30cm length when subjected to an axial load of 54KN increases in length by
-0.112mm and the diameter changes by0.00366mm. Find: i) Young’s Modulus, ii) Bulk Modulus and iii) Modulus of
-
-Rigidity. : (6)
-Q.3 b) A Simply supported beam carries a maximum 170
-
-Sagging bending moment of 50 kNm If the beam has I ok
-
-shaped cross section as shown then find the force 25
-
-resisted by Upper Flange. and Upper Web, also find the i
-
-Bending moment resisted by the upper flange. (8) tes +s
-
-20
-ca ‘ 4150 >|
-
-Q.4 a) A hollow shaft 3m long has diameter ratio of 0.6. and transmits 300kW at 80 RPM. Ifthe maximum torque it =
-carries is 1.4 times the mean torque and the maximum allowable shear stress is 6(0MPa; then find the diameters of the
-
-shaft. G= 82 GPa. (7)
-Q.4 b) A simply supported beam of 4m carries a + Juez 250 —!
-Uniformly Distributed Load of 40 KN/m. over its entire 50
-length. Draw the shear stress distribution diagram if the
-cross section is I-shaped as shown in the figure. (7)
-250 40
-50
-
-. n 150
-Q.5 a) A spherical pressure vessel of Im diameter has a 1.2 cm thickness. If Poisson’s ratio is 0.3 and E = 200 GPa,
-then find the internal pressure required to cause an increase in volume of 175cm°. (7)
-
-Q.5 b) A 24m high cylindrical chimney has an internal and external diameters o f 2m and 3.5m respectively. It is made
-up of a masonry of density of 22kN/m’. If the wind pressure is 1 KN/m2 and wind coefficient is (2/3), then find the
-
-resultant stresses in the beam (7)
-Q.6 a) Derive the Torsion Formula. (7)
-Q.6 b) State the formula for Shear distribution across a cross-section. (3)
-Q.6 c) State four assumptions of Bending theory. (4)
-Q.7 For the beam shown, find the slopes at all the points and also the maximum deflection. EI= 4.2 x10°kNm? (14)
-ZOKN Gok
-al 13 wf.
-& (ail L Jdakace
-PD 20% zm 3m 7 Lm® Si
-es fe pe at fg
-
-oh
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 23f71e591027
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS BATCH 16-17, 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 24 November 2018
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-re)
-i SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (MECHANICAL) Year: II _ Semester: III)
-a
-a
-
-Academic Year: 2018-2019
-| Subject: Strength of Materials’
-
-Date: 24 November 2018 / Time\\2.00 pintg
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book; which is provided for their use.
-1) Question No. ONE is compulsory.
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1_— Attempt any two of the following
-a) What is pure bending also state the assumptions made for it. [7]
-b) Draw a stress and strain diagram for ductile material, also label it with all points. Explain the [7]
-significance of all the points.
-c) Explain Longitudinal and circumferential stress in thit-cylinder with sketches. [7]
-Q2a) Draw a shear force and bending Moment diagram for the Beam shown below, also show Point of [10]
-
-Contraflexure if any.
-BO KN BOKN
-
-, N)m
-ror
-
-A C.
-
-ark rane 6m
-
-b) Find the equations of shear force and bending moment for a cantilever of length L loaded by UDL (4)
-over a full span.
-Q3a) Derive a torsion formula. [7]
-——— b) A rectangular beam 200 mm deep and 300 mm wide is simply supported over a span of 8m. What [7]
-uniformly distributed load per meter the beam may carry, if the bending stress is not to exceed 120
-
-— N/mm.
---- page 2 ---
-Q4 = Atimber beam of rectangular section is simply supported at the ends and carries a point load atthe [7]
-. a) center of the beam. The maximum bending stress is 12 N/mm? and maximum shear stress is 1N/mm/2,
-find the ratio of the span to the depth.
-
-b) Derive a shear stress equation for a rectangular section of width b and depth d. [7]
-Also draw shear stress distribution.
-
-Q5a) ~Asteel rod of 3 cm diameter is enclosed centrally in a hollow copper tube of external diameter5cm [7]
-and internal diameter of 4 cm. The composite bar is then subjected to an axial pull of 45 KN. If the
-length of bar is 15 cm, deterfnine stresses in tube and rod and load carried by each member. Take E
-for steel 210 GPa and for copper 110 GPa.
-
-b) Ashort column of external diameter 40 cm and internal diameter 20 cm carries an eccentric load of [7]
-80 KN. Find the greatest eccentricity which the load can have without producing tension on the cross
-section.
-
-Q6a) A body is subjected to a tensile stress of 65 MPa and 35 MPa accompanied by shear stress of 25 [7]
-MPa. Find the normal and shear stress on a plane inclined at an angle of 45° with major plane. (Solve
-analytically).
-
-b) Solve above problem Graphically. [7]
-
-Q7 For a simply supported beam shown in the figure, find deflection at C. Take E=200 GPa and moment [10]
-
-a) of Inertia 5 x 10° mm‘.
-AKNI® \ 12KN
-Cc
-
-LV YN?
-A s. _ D>
-
-Ts
-
-\
-
-) 7
-
-b) What is the relation between curvature, slope and deflection? [4]
-
-z Pageaor Q
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper 8062f717f704
@@ -6616,37 +7640,39 @@ SO oe a
 | 70)
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper 75d60c63e4a8
+## 2017-18 · Re-Exam · Sem 4 · paper fc19e2fa9237
 
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 16-17, 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 17 November 2018
-- Text: ocr (3 pages), mean OCR confidence 90.8
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2016-17 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 11 May 2018
+- Text: ocr (3 pages), mean OCR confidence 88.1
 
 ````text
-Oo
-
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-] Programme: B. Tech (MECHATRONICS) ~ meet, Semester:
-ep
-Academic Year: 2018-2019
+Programme: B.Tech Integrated (CIVIL) ¥ Year:II < Semester: Vv :
+Academic Year: 2017-2018 <«
 
-Subject: Strength of Materials Y
-Date: 17 November 2018 _ Time: 2. OOS
+Subject: Strength of Materials -
 
-No. of Pages : (e) >
-Re-examination (2016- 17 / 2017-18)
+Marks: 70 ~
+
+Date: 11 May 2018 , Time: 10.00 am
+Durations: 3 (hr
+No. of Pages:
+
+Final Examination (2017-18) / Re-examination (2016-17)
+; €
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
 of the Answer Book, which is provided for their use.
 
 1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
-
 3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
@@ -6654,96 +7680,169 @@ of the Answer Book, which is provided for their use.
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
+
 7) Assume suitable data if necessary.
 
-Ql
-A Explain Factor of safety, also Define Young’s Modulus and Bulk Modulus (6)
-B Attempt any TWO of the following
-(8)
+Q.1 (a) Calculate the modulus of rigidity and bulk modulus of a cylindrical bar of diameter 30 mm 05
+and of length of 1.5 m if the longitudinal strain in a bar during a tensile test is four times the
+lateral strain, also, determine change in volume, when the bar is subjected to a hydrostatic
+pressure of 100 N/mm?. Take E = 1 x 10° N/mm’.
 
-1. Draw the typical Stress strain diagram for mild steel.
+(b) Figure below shows a steel bar of varying cross-section subjected to equivalent axial 05
 
-2. What do you know by pure bending? Also state assumptions made in simple
-bending.
+external loads Pi, P2, Ps and Ps. Determine P2 which will produce equilibrium and hence
 
-3. Draw Mohr’s circle to find maximum shear stress and principal stresses.
+determine total elongation of AD. Take E= 2.1 X 10° MPa, Pi= 145 KN, Ps= 650 kN and
+P4= 300 KN.
 
-Q2 A A cast iron beam of I section with a top flange 80 x 20 mm thick, bottom flange 160 (7)
-x 40 mm thick and web 200 mm deep and 20 mm thick. The beam is simply
-supported on a span of 5 m. If the tensile bending stress is not to exceed 20 N/mm’,
-— find the ud! which the beam can carry. Find also the maximum compressive stress
+Py
 
-eee B Two steel rods, each of diameter 20 mm and a copper rod of diameter 25 mm, (7)
-together support a load of 25 kN in the form of a rigid plate. Determine the stresses
-developed in each rod. Assume that the two steel rods are equidistant from the
+625 mm? 4250 mm’
+2500 mm?
 
-copper rod.
-Take Es= 200 GN/m?, Ec=100 GN/m?.
+|-meat 1200 mm — 1600 mm panne? 08 mn, |
 
-a \/z
+(c) For rectangular section prove that maximum shear stress is 1.5 times average shear stress. 04
+
+Page 1 of 3
 --- page 2 ---
-Q3
+Q.2 (a)
 
-Q4
+(b)
 
-Q5
+Q.3 (a)
+(b)
+Q.4 (a)
+(b)
+Q5 (a)
+(b)
 
-A
+A shaft is rotating at 150 rpm and transmits a power of 300 kW. The diameter of the shaft is
 
-A
+100 mm and length of shaft is 1.5 m. Maximum torque is 25% more than the mean torque.
+Determine the magnitude of maximum shear stress and angle of twist if G = 85 GPa.
 
-Draw SFD and BMD for the loaded beam as shown in figure and show the point of (14)
-contra flexure.
+Draw shear force and bending moment diagram for the beam shown in figure, indicating the
 
-An I-section beam 200 mm wide x 350 mm deep has a web thickness of 12.5 mm _ (8)
-and a flange thickness of 25 mm. It carries a shearing force of 200 KN at a section.
-Sketch the shear stress distribution across the section.
+salient points.
+44kN SEN
 
-A cylindrical shell 1 meter in diameter and 3 m long has a metal thickness of 10 (6)
-mm. If it is subjected to an initial pressure of 3 N/mm?, Determine 5L and éd.
+[-SkN/r
 
-Take E = 210 kN/mm?, “= 03
+A oan ae nevannecoimoormmnner BD
+8 j
 
-Determine the diameter of the shaft to transmit 1 MW rotating at 220 rpm and the (5)
-working conditions to be satisfied are:
+Vide
+2m RYT) Qe =? ‘ Z
 
-a. That the shaft must not twist more than 1° on length of 12 times diameters
+e
 
-b. The shear stress must not exceed 60 N/mm?. Take G = 84 kKN/mm?
+State the assumptions made for theory of pure bending.
 
-A T shaped column as shown in figure is le 200 mm ——>4 (9)
-under the action of a compressive force L +
-P = 80 KN. Determine the resultant stress | | J 20mm
+Two mutually perpendicular planes of an element of material are subjected to tensile stress
 
-; 7
+of 110 N/mm? and tensile stress of 47 N/mm? along with shear stress of 63 N/mm’.
 
-at the top & bottom edge of the section.
+Determine analytically (i) Magnitude and direction of principle stresses and (iii) Magnitude
 
-2/5
+of maximum shear stress along with its plane.
+
+Derive an expression for the theory of simple torsion.
+
+A reinforced concrete column of 500 mm X 500 mm in section is reinforced with 4 steel
+
+. The column is carrying an axial load of
+
+teel bars. Take Esteel= 2.1 X 10° MPa,
+
+bars of 25 mm diameter, one in each corne
+2000kKN. Find the stresses in concrete and s'
+Econcrete= 0:14 X 10° MPa.
+
+Explain terms shear force and bending moment, also derive relationship between load
+
+intensity, shear force and bending moment.
+
+The plane element is subjected to the stresses as shown. Determine graphically (by Mohr’s
+
+circle)-
+(i) Principal stresses
+(ii) Maximum shear stress
+
+(iii) Magnitude of normal and tangential stresses on shown inclined 30° plane.
+
+\oomMPa
+sd MPA
+Pa
+}so im \so ina}
+iia a
+A\39
+sO <O
+MPa
+e\0O MPa
+
+Page 2 of 3
+
+06
+
+08
+
+06
+08
+
+06
+08
+
+06
 --- page 3 ---
-Q6 A aa point in a strained material is subjected to the stresses as shown in figure. Find out (7)
-the normal and shear stresses on the section AB.
+Q.6 (a) A beam of T-section is having overall depth as 200 mm and overall width as 200 mm. The
+thickness of flanges is 10 mm whereas the thickness of web is also 10 mm. If the section
+carries a shear force of 90 KN, calculate the shear stresses at various salient points along
+depth of section, also sketch the shear stress distribution across the section.
 
-‘i 25 MPa yaad
-E at _-
-25 MPa|
-75 MPa
-¥
-150 MPa
-B A cast iron water pipe of 500 mm inside diameter and 20 mm thick is simply (7)
+(b) Draw shear force and bending moment diagram for the beam shown in figure, indicating the
 
-supported over the span of 10 m. Find the maximum stress in the pipe metal when
-the pipe is running full. Take density of cast iron as 70.6 KN/m? and that of water as
-9.8 KN/m?.
+salient points. § Binae
+BEN/m ees 3
+A erOnn ene nen J D
+& 4 > ea
+i— ae
+7 Zam . oa) : 2ra 1
+of —— i — —"
 
-Q7 A beam AB of 4 m span is simply supported at the ends and is loaded as shown in (14)
-figure. Determine:
-(i) Deflection at C
-(ii) Maximum Deflection, and
-(iii) Slope at the end A.
-Given: E = 200 x 10°KN/m?, and I = 20 x 106 m4,
+Q.7 (a) A mild steel plate 150 mm wide and 20 mm thick, 6 m long carries an axial pull of 300 kN.
+If the modulus of elasticity of steel is 200 kN/mm? and Poisson’s ratio is 0.25, calculate
 
-20 KN
+change in length, width and thickness of plate.
+
+rst
+iso 200m
+yt
+|
+len t
+4200 * === ee al » ZBOOKN.
+
+(b) A steel rod of 3 cm diameter and 5 m long is connected to two grips and the rod is
+maintained at a temperature of 95°C. Determine the stress and pull exerted when the
+temperature falls to 30°C if the end yield by 0.12 cm. Take a= 12 X 10% °C,
+Esteel= 2.1 X 10° MPa. ,
+
+(c) A beam of internal diameter 55 mm and external diameter 70 mm is used as simply
+supported beam over an effective span of 2.5 m. Determine the maximum point load that
+
+can be applied at the mid span if permissible bending stress of material is 150 MPa.
+
+Page 3 of 3
+
+06
+
+08
+
+06
+
+04
+
+04
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper 91bbbd410ffa
@@ -6950,155 +8049,6 @@ elasticity E, having diameters d1 and d2 at ends loaded with force P is 5L = 4PL
 =
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper 9de4edfedfc3
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2016-17,2017-18 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 April 2019
-- Text: ocr (3 pages), mean OCR confidence 90.0
-
-````text
-Program :B.Tech Integrated (MECHANICAL) | Year: If Semester: IV
-Academic Year: 2018-2019
-Subject: Strength of Materials _ Marks: 70
-Date : 23 April 2019 | Time: 02.00 pm to 5.00 pm _
-Duration: 3 (hrs)
-No. of Pages: 3
-Final Examination (2018-19)/Re-examination(2016-17/2017-18) ~
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql ; (14)
-
-1. Define and Explain: (3)
-
-i) Factor of safety
-ii) Young’s Modulus
-iii) | Bulk Modulus
-
-2. Explain Principal planes and principal stress (3)
-
-3. What do you know by pure bending? Also state assumptions made in simple (4)
-
-bending.
-4. | What is Riveted shell and also state its efficiency. (4)
-Q2 A A rectangular steel bar 30 mm wide, 50 mm deep and 4 m long is simply supported (7)
-
-at its ends. The density of steel is 7850 kg/m? If the maximum bending stress is not
-to exceed 50 MPa, determine the maximum safe udl the beam can carry.
-
-B Two steel rods, each of diameter 20 mm and a copper rod of diameter 25 mm, (7)
-together support a load of 25 kN in the form of a rigid plate. Determine the stresses
-developed in each rod. Assume that the two steel rods are equidistant from the
-copper rod.
-
-Take Es= 200 GN/m?,
-Ec=100 GN/m?.
-
-1of3
---- page 2 ---
-Q3 Draw SFD and BMD for the loaded beam as shown in figure and show the point of (14)
-contra flexure.
-
-_ 25kN 40 kN 25 kN
-
-| 42kN/m
-A E
-
-B Cc D J
-1 m-pke— 2 m —pe———- 4 m >} 1 m
-
-Q4 A A hollow circular column having external and internal diameters of 320 mm and 240 (6)
-mm respectively carries a load of 80 KN at outer edge of the column. Calculate the
-maximum and minimum intensities of stress in the section.
-
-B A cylindrical shell 1 meter in diameter and 3 m long has a metal thickness of 10 mm. (8)
-
-If it is subjected to an initial pressure of 3 N/mm?, Determine 85L and 6d.
-
-Take E = 210 kN/mm?, <= 0.3
-
-Q5.A Determine the diameter of the shaft to transmit 1 MW rotating at 220 rpm and the (6)
-working conditions to be satisfied are:
-a. That the shaft must not twist more than 1° on length of 12 times diameters
-b. The shear stress must not exceed 60 N/mm?. Take G = 84 kN/mm?
-
-B A cast iron beam is of T section as shown in figure and loaded as shown below. (8)
-Draw shear stress distribution across the cross section for maximum shear force for
-the beam.
-1800 N/m 100 mm
-A B | | 20 mm
-3m Cem i
-it
-120 mm
-- 20mm ~-
-short hollow square concrete column havin mm wall thickness is required to
-6 A A short holl te col having 50 Il thickn quired t 7
-
-carry a maximum load of 400 KN. The ultimate compressive strength of concrete to
-be used is 15 N/mm?. Using a factor of safety of 3, decide the outside dimensions of
-the column.
-
-2 of 3
---- page 3 ---
-Q7
-
-B
-
-A point in a strained material is subjected to the stresses as shown in figure. Find out
-the normal and shear stresses on the section AB.
-25 MPa
-
-150 MPa
-*
-
-25 MPa
-
-75 MPa « 15 MPa
-
-25 MPa
-
-25 MPa
-150 MPa
-
-A beam AB of 4 m span is simply supported at the ends and is loaded as shown in
-figure. Determine:
-
-(i) Deflection at C
-
-(ii) Maximum Deflection, and
-
-(iii) Slope at the end A.
-Given: E = 200 x 10°kN/m?, and I= 20 x 10% m4.
-
-20 KN
-A EL TESS ESE
-im—>|<— im —>|<
-Ra Rg
-
-30f3
-
-(7)
-
-(14)
-````
-
 ## 2017-18 · Re-Exam · Sem 4 · paper acf7b38510ee
 
 - Departments: Mechanical
@@ -7253,6 +8203,93 @@ applied force P, if the bar remains horizontal after the load has been applied.
 Take Es/Ep =2.
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper 590fb8d6ca31
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: exam date: 30 November 2017
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA Tech (CIVIL)   Year: II   Semester:   III
+j
+Batch: 2016-17
+Academic Year: 2017-2018
+Subject:   Strength   of Materials
+Date: 30 November 2017
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question p
+cover of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data if necessary.
+Qil (a) A metal bar having 80 mm diameter is subjected to an axial compressive load of 50 kN at   (05)
+ends, the contraction of 0.55 mm is found over a 250 mm gauge length and increase in
+diameter 0.04 mm. Find the values of Poisson's   ratio Young's modulus and Modulus of
+rigidity.
+(b) Derive relation between rate ofloading, shear force and bending moment.   (05)
+(c) A cylindrical shell, 3 m long and having internal diameter lm, is subjected to an internal   (04)
+pressure of 1.5 M!>a. If the shell thickness   if 20 mm, find circumferential   stress and
+longitudinal stress.
+Q.2 (a)   Solid circular shaft ABC is fixed at end A and free at C. The lengths AB = L and BC =   (08)
+Ll3. The diameter of the shaft is 90 mm. The shaft is subjected to 2.1 kN.m torque at Band
+0.7 kN.m torque at free end C both clockwise. Determine the length of shafts AB and BC,
+if total angle of twist between A and C is 5°,) also determine the stresses induced in the
+shafts AB and BC. Take G = 85 GPa.   -
+(b) A thin cylinder of internal diameter 1.25 m contains fluid at an internal pressure of 3   (06)
+Nzmrrr'. Determine the permissible thickness of the cylinder if,
+(i) Longitudinal stress does not exceed 30 Nzrnrrr'.   -
+(ii) The circumferential   stress does not exceed 50 Nzrnrn".
+Q.3 (a) At a point in a strained material, the principal stresses are 100 Nzmrrr' tensile and 50   (07)
+Nzmm? compressive. Determine the normal, tangential and resultant stresses on a plane
+inclined at 50° to the axis of major principal stress) also determine the maximum intensity
+of shear stress in the material at the point.
+--- page 2 ---
+(b) A steel rod of 25 mm diameter is enclosed cen~rally in a hollow copper tube of external   (07)
+diameter 55 mm and internal diameter 35 mm. the composite bar is then subjected to an
+axial pull of 80 kN. If the length of each bar is equal to 200 mm, determine
+(i) the stress in steel rod and copper tube, and
+(ii) load carried by each bar.
+Take ESteel=2.l~105N/mm2 and ECopper=1.1xl05N/mm~
+Q.4 (a) Draw shear force and bending moment diagram for the beam shown in figure, indicating   (08)
+the salient points.
+30kN   15 kl'{/m
+1m 1m   I   3m   I· 2m   21n   I
+(b) A beam of symmetrical I-section is having overall depth as 400 mm and flange width as   (06)
+200 mm. The thickness of flanges is 20 mm whereas the thickness of web is 15 mm. If the
+section carries a shear force of 80 kN, calculate the shear stresses and sketch the shear
+stress distribution across the section.
+QS(a) A steel bar 20 mm in diameter and 4.50 m long is heated through 40° C above the   (08)
+atmosphere   temperature   and thereafter   the ends are clamped. On cooling back to
+atmospheric temperature,   it is found that the clamps have yielded by 0.5 mm. Find the
+pulls exerted on the bar by the end clamps, also calculate the same if the clamps do not
+yield at all. [Take E = 2 X 105 MPa and a = 10 X 10-6 per ° C]
+(b) Derive the torsion formula with usual notations for a circular shaft subjected to equal and   (06)
+opposite torque T.o"
+Q.6 (a) Determine the deflection and slope at the free end of the cantilever beam which is   (07)
+subjected to the uniformly distributed load of 2 kN/m arid the point load of 15 kN at free
+end. Span of the beam is 6m.
+(b) An element has a compressive   str~ss of 75 MN/m2 and a tensile stress of 150 MN/m2   (07)
+acting on two mutually perpendicular planes. Also it is subjected to shearing stress of 10
+MN/m2 on these planes. Determine the magnitude and direction of the principal stresses
+and the magnitude and direction of the maximum shear stresses.
+Q.7 (a) A cantilever, 7.5 m long is subjected to a uniformly distributed load of 5 kN/m acting   (07)
+-
+downwards throughout   its length. The cross section of a beam is a Tee section having
+overall height 200 mm, flange width 200 mm and thickness of flange as well as web is 10
+mm. Determine   the maximum   tensile and maximum   compressive· bending   stresses
+induced.
+(b) Find the maximum and minimum stress intensities at the base of uniform circular chimney   (07)
+having external diameter 2 m and internal diameter 1.6 m. The height of the chimney is 25
+m and is subjected to wind pressure of 1.5 kN/m2• Take Ymaterial = 78.5 kN/m3.
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper b21b03c7eb9b
 
 - Departments: Civil
@@ -7260,6 +8297,7 @@ Take Es/Ep =2.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/strength of Materials 2017-18 Re-exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 31 May 2018
 - Text: ocr (2 pages), mean OCR confidence 91.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7370,7 +8408,6 @@ b) A beam of uniform cross section, 4 m long is simply supported at the ends. It
 point loads of 10 KN and 30 KN at 1 m and 3 m respectively from the left end of the beam.
 Calculate the deflection under each load. Assume EI is constant. (7)
 
-FERRO CR A a a a a ok ok
 
 2) Pa ze
 ````
@@ -7382,6 +8419,7 @@ FERRO CR A a a a a ok ok
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/SOM.......Re-exam 2017-18-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 15 June 2019
 - Text: ocr (3 pages), mean OCR confidence 82.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -7468,7 +8506,6 @@ equilibrium. Also find the individual elongations and total elongations of the m
 B Cc
 | .
 A ote 1
-45 kN oe 2 P £450 kN 2 130 kN
 ee) — mm ‘ied = <— 1250 mm fp
 N
 
@@ -7523,7 +8560,6 @@ ae : Im - ole ~-2m abla ~iIm - ft Tm oe
 (4M)
 
 b) Explain the significance of point of zeros shear and point of contraflexure.
-JOSH ROHR SSIS SI ISSR RSIS IS SSIS ISHS ARISIR IRSISGISI IGE IAAI IAI ICI A AI I Aa AR RAI ICR AAA AR
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper 2e2b28370f18
@@ -7533,6 +8569,7 @@ JOSH ROHR SSIS SI ISSR RSIS IS SSIS ISHS ARISIR IRSISGISI IGE IAAI IAI ICI A AI 
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/Strength_of_materials_2016-17_2017-18_ Re-exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 30 June 2018
 - Text: ocr (3 pages), mean OCR confidence 87.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7566,9 +8603,7 @@ cover of the Answer Book, which is provided for their use.
 Q.1 Draw the S.F.D. and B.M.D. for the beam as shown in Fig.1 (14)
 
 rs a ana a
-if f ty fog |s fi jy mf
 
-om im Ym im Gm om
 Fig. p
 
 Q.2 A. A steel rod of 3 cm diameter is enclosed centrally in a hollow copper tube of (09)
@@ -8135,6 +9170,7 @@ bar. Take E = 2 x 10° N/mm’, m =3.1.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2016-17 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 11 May 2017
 - Text: ocr (3 pages), mean OCR confidence 86.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 BLINN
@@ -8245,9 +9281,7 @@ salient points.
 BSlen}m 2OV= EN
 oe a
 
-lNZEN Interna Hings Bokn
 
-ok ie si me ce LL
 ¢ ote, ob ple
 
 2m BY
@@ -8317,6 +9351,7 @@ tara
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2016-17 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 13 May 2017
 - Text: ocr (2 pages), mean OCR confidence 83.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 wy
@@ -8424,12 +9459,10 @@ Q7 vind the slope and deflection at all the points on the beam shown below _, Al
 Deflection. E=200GPa, I= 5 X 10’ mm?” (14Marks)
 Z oul is eth
 j 8 kN/m
-2 L S nn ey D E
 _ ey
 
 }— 1m ahr im —>}<— 1m te im —-+4
 
-SE A SE RRR EERE E RAK K KKK KK KEK ERK KKK KARR EEK ERE RE EK
 
 ze
 ````
@@ -8577,563 +9610,592 @@ B Define & Explain “Principal Planes and Principal stresses”. (4)
 %,
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 215eba146f04
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS (BATCH 2016-17) RE-EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 25 November 2017
-- Text: ocr (4 pages), mean OCR confidence 88.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (CIVIL) ’ Year: II Semester: III .
-
-th: 2016-17°
-Bate Academic Year: 2017-2018 ‘
-
-ject: th of Materials”
-Subject: Strength o Marks: 70
-
-Date: 25 November 2017 . Time: Ae j
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-1) Question No.1 is compulsory
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1a) Find total elongation of the compound bar shown below. Length of A, Band C is 1m, (3)
-
-1.5m, and 0.5m respectively. Diameter of A, B and C is 20 mm, 25 mm and 20 mm
-respectively. Take modulus of elasticity E as 2.1 x 10° N/mm2.
-
-~~ ore Sey RD pe Rn Sa eege ceee
-30 kN 40 kN
-
-20 kN
-
-L im > 1.5m i, 5m ]
-
-rt *s |
-
-b) A thin spherical shell of 100 cm diameter and 10 mm thickness is subjected to an internal (2)
-pressure of 1.2 N/mm”. Find the change in diameter of shell. Take modulus of elasticity
-(E) as 2 x 10° N/mm?and poisson’s ratio (v ) as 0.3.
-
-¢) Solve any three questions out of four: (3 Marks each) (9}
-i) Enlist the assumptions made in the simple bending theory.
-ii) Write formula and explain the terms for shear stress distribution across a section of
-beam
-iii) Draw stress-strain curve for mild steel and indicate elastic limit, yield stress,
-ultimate stress, breaking point and strain hardening region
-iv) Write formula for the simple theory of bending and explain all the terms in detail.
-
-14
---- page 2 ---
-Q.2a) Athinclosed cylindrical shell of diameter 1200 mm, thickness 12 mm, length 2 m, is filled (7)
-with a fluid at a pressure 1.5 N/mm?. Modulus of elasticity (E )= 2 x 10° N/mm”, poissons
-ratio(v)=0.3 Calculate (a) Circumferential stress (b) Longitudinal stress (c ) Change
-in diameter (d) Change in length ( e) Change in volume
-
-Q.2 b) A shaft can transmit power of 100 kW at 100 rpm. Maximum shear stress (Tmax) allowed (7)
-is 50 N/mm?. Determine the diameter of the shaft. Also determine the length of the shaft
-if the angle of twist is 2 degree over the entire length.
-Take modulus of rupture (G) = 70 x 10? N/mm?
-
-Q.3.a) A point in a material has the state of stress as shown below. Calculate the normal stress (7)
-and shear stress on a plane AB inclined at 70 degrees with the horizontal as shown.
-
-50 MPa A
-20MPa ¢_| /
-/
-100 MPa / 100 MPa
-A7z0°
-7 20 MPa
-
-B
-50 MPa
-
-Q.3 b) A flitched beam made up of steel and timber has a section as shown below. If the (7)
-
-maximum permissible stress in timber (Otm permissible) is 5 MPa, calculate the maximum
-stress in the steel. Also calculate the moment of resistance of the section. Assume that
-steel will not be overstressed.
-
-Modulus of elasticity of steel (Est) = 20 x Modulus of elasticity of timber (Et)
-
-i T Timber
-
-200 mm 120 mm
-
-| I Steel
-, 4
-
-|} 44>
-
-75mm 12mm 75mm
-
-Q.4a) A beam of rectangular cross section (width B = 100 mm, depth D = 200 mm) is subjected (7)
-to a shear force of 20 KN. Calculate
-(a) Shear stress (t) developed at a layer 80 mm above the neutral axis of the section.
-(b) Maximum shear stress (tmax) in the section
-(c) Draw the shear stress distribution diagram.
-
-a4
---- page 3 ---
-Q.4 b) Draw the shear force diagram (SFD) and bending moment diagram (BMD) for the beam (7)
-loaded as shown in figure below. Indicate all the significant values including maximum
-bending moment and point of contraflexure.
-
-10kN/m 4kN
-B
-Ic
-A
-L
-5m 2m
-
-Q.5 a) A composite rod is fixed at one end and free at other, as shown below, is subjected to an (7)
-increase in temperature of 60°C. Calculate the stresses induced in each metal.
-
-Est = 200 GPa; Epr = 85 GPa
-
-Ost = 12x 10°/) C; Opr = 20x 10°C
-
-Cross sectional area of steel (Ast) = 150 mm?
-
-L Cross sectional area of brass (Abr) = 150 mm?
-
-Steel Length (L) = 500 mm
-
-Q.5 b) A point in a material has the following state of stress. Determine (7)
-(a) magnitude and direction of thé principal stresses (01, 62, Op)
-(b) magnitude and direction of the maximum shear stress (tmax, 8s) .
-
-40 N/mm?
-30 N/mm?
-80 N/mm?” df + 80 N/mm?
-30 N/mm?
-40 N/mm?
-
-3ly
---- page 4 ---
-Q.6 a) Draw Shear Force Diagram (SFD) and Bending Moment Diagram (BMD) for the beam
-shown below. Indicate all the significant values.
-
-10 kN
-30°
-A 4 A =) 5 kN.m
-1.5m 2m
-a 4 |
-
-Q.6 b) A retaining wall 2 m wide at the top and 8 m wide at the bottom is 10 m high. It is subjected
-to earth pressure on the back. The weight of masonry is 25 kN/m? and that of earth 18
-kN/m>. The angle of repose of earth is 30°. Top level of the earth is horizontal and level
-with the top of the wall. Find the maximum and minimum intensities of pressure on the
-base.
-
-Q.7 a) Derive the equation for simple theory of torsion.
-
-Q.7b) A 14m long steel girder of uniform section is simply supported at its ends. It carries
-concentrated loads of 90 kN and 60 KN at points 3 m and 4.5 m from the two ends
-respectively, as shown. Calculate the deflection of the girder at C, Slope at A and
-maximum deflection using Macaulay’s method. Take I= 64x 104 m‘and E=210
-x 10° kN/m?
-
-90 kN 60 kN
-
-L 3m Re 6.5m aL 45m ~|
-
-ue) Y
-
-6)
-
-(9)
-
-(7)
-(7)
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 537e4bad1c97
+## 2016-17 · Re-Exam · Sem 3 · paper 52138b8a126e
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS (BATCH 16-17 ) RE-EXAM.pdf`
-- Printed on paper: exam date: 02 December 2017
-- Text: ocr (3 pages), mean OCR confidence 81.8
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS (MECHANICAL), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 02 December 2016
+- Text: ocr (3 pages), mean OCR confidence 82.3
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS '
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIA
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme : B. Tech (MECHANICAL) Year : II Semester : : I
+Batch : 2014-2015 / 2015-2016
 
-Programme: B.Tech (MECHANICAL) - Year: Il Semester: III
+H Academic Year : 2016-2017 o
 
-Batch: 2016-17 ~
-a“ Academic Year: 2017-2018
+| . & et
 
-Strength f Materials < Pid ;
-j 2 St re)
-Subject: re gt! fo
+Subject : Strength of Materials Marks : /.. SS.
+. Time: I to iJ 0
+Date : 02 December 2016 Duration = ~ B)
 
-Time: 10. 06 am to: £00 pm
-
-Durations) 3i(Hirs)) A 2 W
-No. of ex 3
-
-Cy
-
-Date: 02 December 2017 ”
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+cover of a“ answer book, which is provided for their use.
+NB: - 1) Question No.ONE is compulsory, Out of remaining, attempt FOUR questions,
+2 All Questions carry equal marks.
+3) Figures in brackets on right hand side indicate full marks.
+4) Assume suitable data whenever necessary.
 
-1) Question No. 1 is compulsory.
+Qi Solve any Two of the following (6 x2]
+a) State the assumptions in Pure bending and Derive the Bending formula. : = “ =f
+. ’ Pa
+b) Find out the deflection of a simply supported Beam of span | carrying a load of w per
+unit run over a full span by double integration method.
 
-2) Out of remaining questions, attempt any FOUR questions.
+c) Derive torsion equation. Also state the assumptions.
+T. t GO
 
-3) In all FIVE questions to be attempted.
+J Rol
+Q2 a) A solid cylinder 500 mm long and 70 mm diameter is placed inside an aluminum [06]
+cylinder having 75 mm inside diameter and 100 mm outside diameter. The
+aluminum cylinder is 0.16 mm longer than the steel cylinder. An axial load of 500 kN
 
-4) All questions carry equal marks.
+is applied to a bar and the cylinder through a rigid cover plate as shown in figure.
+Find the stress developed in the steel and aluminum tube. Assume Es=220 GPa and
 
-5) Answer to each new question to be started on a fresh page.
+Ea= 70 GPa. J, 500KN
+> ; b= ey f ae OrtEMm
+\! t
+g 7 Hat cydander
+E 1 tt
+S ! F el cylinder
+itt 1! ett Se cy
+i! oh
+vi
+sft? at i :
 
-6) Figures in brackets on the right hand side indicate full marks.
+= ny
 
-7) Assume Suitable data if necessary.
-Q.1 Draw the A.F.D., S.F.D. & B.M.D. of the beam shown in the figure below. (14M)
+Baa KN
 
-25 kN
+b) A tie bar has enlarged ends of square section 60 x60 mm as shown in the figure. If [06]
+the middle section of the bar is also a square section. Find the size and the length of
+the middle portion, if the stress is 140 MPa and the total extension of the bar is 0.14
 
-90! KN
-6 kNim 10 km
-404 L i 4 na
+mm. Ss Sq A.
+ws . _ 66X60 bO%x60
+BT? <1 pa OTEK
+yen
+= —
 
-om —fe— ine —>fe— 2m —rfe1 mofen mo}
+SBM CThree)
 
-Q.2 a)The C/s. of the Simply Supported Beam AB is shown in the figure. It is an I section of unequal flanges. It
-carries a U.D.L. of 8kN/m. throughout its length and a Point load of 30 kN at its centre. Find the bending moment
-
-resisted by flanges.
-
-(11M)
-{-———- 220 ——+]
-25
-30KN   _ akn/m
-20 poorer hoes
-250 A£ c “2B
-po 2m 2M
-30
-t—120 —4
-b) State any three assumptions of Bending Theory. (3M)
-
-4/3
+4/5
 --- page 2 ---
-Q.3 a) Three equally spaced rods in the same vertical —>| 30 mm
+Draw Shear force and bending moment Diagram for Cantilever Shown. {04]
 
-plane support a Rigid Bar AB. Two outer rods are of E £e.
+Q3_ a)
+\ Va ooo
+N : y A
+y B E Dp
+4 ' +m!
+yo | YM 2M \
+b) Draw a Shear force and Bending moment diagram for the Beam shown below. Also [08]
+find maximum bending moment and point of contraflexture.
+20 46 KAI 20 Kal mM
+Ko)
+Ae ta oe E
+A @ Cc \ Ay
+Dp
+ee ee
+is simply [06]
 
-brass, each 600 mm long and of 25mm diameter. The a" = f
+The horizontal beam of section shown in the figure is 4 m long and
+supported at the ends. Calculate the maximum uniformly distributed load it can
+carry if the tensile and compressive stresses is not to exceed 25 and 45 MPa
 
-central steel rod is 800mm long and 30 mm in diameter. we 7 “eee
+respectively. 90m" G 20mm
 
-Determine the forces in the bars due to an applied load i E £
+a ae
 
-of 120 KN through the mid-point of the bar. The bar B 5 3 iS
+Q4 a)
 
-remains horizontal after the application of load. Take Es Ea o 8
+490MM)
 
-/Eb=2. ne Jom bem | it
-(7M) A B
+b) AT shaped cross section of the beam is shown in the figure is subjected to a toad of [06]
 
-120kN-
-Q.3 b) Derive the Relations between E, G & K. Explain significance of Poisson’s ratio (7M)
-Q.4a) For the state of plane stress shown in the figure, 148 MPa
+100 kN. Draw the shear distribution curve across the cross section.
 
-determine: a) Principal planes, b) Principal stresses and
-the Maximum Shear stress.
+KK — 2066mmM—I
+\ | [son
 
-(8M)
+200m”
 
-Q.4 b) The stepped steel shaft is as shown in the figure. Section AB is 1.2m long with 100mm dia. while section BC is
-1.8m long with 50 mm dia. It is subjected to a torque (T) at the free end , and a Torque (2T) in the opposite direction
-at the junction of the two sizes. What is the angle of twist at the free end, if the maximum shear stress in the shaft is
-limited to 70 MPa? Assume the modulus of rigidity to be 84 GPa cén)
+/
 
-2T
-_T
+-5OmmM
 
-Fa
-100 mm dia 50 mm dia CO
-1.2m Ne 1.8m Ne
-
-Q.5 a) A cylindrical vessel 2m long and 500mm’in dia with 10 mm thick plates is subjected to an internal pressure of
-3MPa. Calculate the change in volume of the vessel. Take E=200GPa and Poisson’s ratio = 0.3 for the vessel material.
-(7M)
-
-Q.5 b) Draw the Shear Stress distribution diagram for the cross section shown in the figure, if it carries a Shear force of
-
-25KN. q™)
-aS BG eee
-+
-+
-is 75
-t
-—-
-
-<_——15
+2/3
 --- page 3 ---
-]
+Q5_ a) A hollow shaft of diameter ratio 3/8 is required to transmit 600 kW at 110 rpm. The [06]
+maximum torque being 20 % greater than the mean. The shear stress is not exceed
+63 MPa. And the twist in the length of 3 m not to exceed 1.4 degrees. Calculate the
+maximum external diameter. C= 84 GN/m?
+b) A cylindrical chimney 22 m high of uniform circular section 4 meter external [06]
+diameter and 2 meter internal diameter is subjected to a horizontal wind pressure
+of 1.2 kN/m? of projected area. Find the maximum and minimum stress intensities
+at the base, if the specific weight of the masonry is 22 kN/m?. Take coefficient of
+wind resistance 2/3.
+Q6 a) Define the core (Kernal) of the section for rectangular and circular sections. [04]
+b) The state of the stress at a point of a machine is shown in the figure. Determine the [08]
+principal stress and the maximum shear stress and its inclination. Also solve this
 
-Q.6 a) A cylindrical column of dia.
-100 mm from the axis of the cylinder. If the column is made
-stresses acting on the cylinder, Also suggest changes to ensure
+problem graphically. ZOMW Pa
+gomea fs
 
-300mm and height 5m carries an eccentric vertical load of 600 KN, at a distance of
+230M
+7 y aos 50 MPa
+cen
 
-up of a material having density of 320kN/m’ find the
+re aah
 
-that the column stays stable on the ground ensuring No
-(8M)
+0 MPa
+Q7 a) Determine the Deflection at C and D in the Beam shown. Use Macaulay’s method. {06]
+2OKNIM | 2OKN
+A ¥ : , &
 
-tensile condition.
+7y
 
-& Derive the formula for Shear Stress Distribution across a cross section caused by Shear Force. (6M)
+te, C
+} + — +
+sm \™M am
 
-Q.6 b) State
-Q.7 Find the slope and deflection at the points B, C, D & E, also find the maximum deflection. (14M)
-30kN
-20kNm 5kN/m
-
-2
-
-FEA RIO I I I I ACR aOR A
-
-id 44 anton st
-, Cc Pe) cs © i
-m—ple— 3m—+}e— 1m —h— 2m—>}1 m>}
-
-JES EHO GSS IEEE SSIS IEEE EE IOS ITER SSI TIE IAEA aa IE
+b) Acylindrical vessel whose ends are closed by means of rigid flange plates is made of [06]
+steel plate 3 mm thick. The internal length and the diameter of the Vessel are 50 cm
+and 25 cm respectively. Determine the longitudinal and the circumferential stress in
+the cylinder due to internal pressure 3MN/m’. Also calculate the increase in length
+, diameter and the volume of the vessel. E = 200 GPa. p =0.3.
 
 3/3
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper fc19e2fa9237
+## 2016-17 · Re-Exam · Sem 3 · paper 131511bc0d28
 
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2016-17 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 11 May 2018
-- Text: ocr (3 pages), mean OCR confidence 88.1
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS B TECH (MECHANICAL), BATCH 14-15, 2015-16 RE EXAM.pdf`
+- Text: ocr (3 pages), mean OCR confidence 79.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech Integrated (CIVIL) ¥ Year:II < Semester: Vv :
-Academic Year: 2017-2018 <«
+Programme : B. Tech (MECHANICAL) Year : I
+Batch : 2014-2015 / 2015-2016
 
-Subject: Strength of Materials -
+epg TE
+Academic Year : 2016-2017 Gos oN
 
-Marks: 70 ~
+SN
 
-Date: 11 May 2018 , Time: 10.00 am
-Durations: 3 (hr
-No. of Pages:
+Subject : Strength of Materials Mark: i. : SPME Ve |
+vyate 09 Decent Time dnt Po P)
 
-Final Examination (2017-18) / Re-examination (2016-17)
-; €
+es aa”
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+Re-Examination
 
-of the Answer Book, which is provided for their use.
+Instructions:-Candidates should read carefully the instructions printed on the question paper and onthe
+
+cover of the answer book, which is provided for their use.
+NB: - 1) Question No.ONE is compulsory, Out of remaining, attempt FOUR questions,
+2 All Questions carry equal marks.
+3) Figures in brackets on right hand side indicate full marks.
+4) Assume suitable data whenever necessary. .
+Qi Solve any Two of the following [6 x2]
+
+a) State the assumptions in Pure bending and Derive the Bending formula. 2 =—=-—
+
+b) Find out the deflection of a simply supported Beam of span | carrying a load of w per
+unit run over a full span by double integration method.
+
+c) Derive torsion equation. Also state the assumptions.
+T. t GO
+
+Jy oR 1
+
+Q2 a) A solid cylinder 500 mm long and 70 mm diameter is placed inside an aluminum [06]
+cylinder having 75 mm inside diameter and 100 mm outside diameter. The
+aluminum cylinder is 0.16 mm longer than the steel cylinder. An axial load of 500 kN
+is applied to a bar and the cylinder through a rigid cover plate as shown in figure.
+
+Find the stress developed in the steel and aluminum tube. Assume Es=220 GPa and
+
+Ea= 70 GPa. IL 500KN y
+x finn at] a ote mm
+1! (!
+. \!
+S 1} Mh at cylander
+E i I!
+° {
+g) | eitf — sted eytanaes
+| vy |
+2° at 11 i!
+: ~ * Bao KAT
+
+b) A tie bar has enlarged ends of square section 60 x60 mm as shown in the figure. If [06]
+the middle section of the bar is also a square section. Find the size and the length of
+the middle portion, if the stress is 140 MPa and the total extension of the bar is 0.14
+mm. sg
+
+Lo. 66X60 | Sexaa .
+81:7 <| a» 87-5 Kw
+yen
+} —
+
+- BM Cthree)
+
+x
+--- page 2 ---
+Q3 a) Draw Shear force and bending moment Diagram for Cantilever Shown. (04]
+
+. VSN onlin [ tA
+N\ pone, Y an
+
+Je £5 D c
+
+Q
+
+a nt a Se)
+
+b) Draw a Shear force and Bending moment diagram for the Beam shown below. Also {08]
+find maximum bending moment and point of contraflexture.
+
+\ANAKN 20KN OKANO
+
+20KNIM
+Gi | Cc a , E
+( x
+rr a
+) ym) 2m om) 2am |
+
+Q4 a) The horizontal beam of section shown in the figure is 4 m long and is simply [06]
+supported at the ends. Calculate the maximum uniformly distributed load it can
+carry if the tensile and compressive stresses is not to exceed 25 and 45 MPa
+respectively. 20 mm
++
+
+if, 20mm
+}2O mm =
+
+4o0mnmM
+
+b) AT shaped cross section of the beam is shown in the figure is subjected to aload of [06]
+100 KN. Draw the shear distribution curve across the cross section.
+
+k— _ 266 mmMm—I
+
+= \ i 50mm
+
+200mm
+--- page 3 ---
+Q5 a) Ahollow shaft of diameter ratio 3/8 is required to transmit 600 kW at110 rpm. The [06]
+maximum torque being 20 % greater than the mean. The shear stress is not exceed
+63 MPa. And the twist in the length of 3 m not to exceed 1.4 degrees. Calculate the
+maximum external diameter. C = 84 GN/m?
+b) A cylindrical chimney 22 m high of uniform circular section 4 meter external [06]
+diameter and 2 meter internal diameter is subjected to a horizontal wind pressure
+of 1.2 kN/m? of projected area. Find the maximum and minimum stress intensities
+at the base, if the specific weight of the masonry is 22 kN/m? . Take coefficient of
+wind resistance 2/3.
+Q6 a) Define the core (Kernal) of the section for rectangular and circular sections. [04]
+b) The state of the stress at a point of a machine is shown in the figure. Determine the [08]
+principal stress and the maximum shear stress and its inclination. Also solve this
+
+problem graphically. ZOMPaA
+zomte_t
+
+20M
+. x fees 50MPa
+em
+
+0 MPa
+Q7. a) Determine the Deflection at C and D in the Beam shown. Use Macaulay’s method. [06]
+wre KN Im | QOKN
+A pomonyyyvy), : , ©
+
+Ja, C
+
+t+ 4
+
+sam \™ am
+
+b) Acylindrical vessel whose ends are closed by means of rigid flange plates is made of [06]
+steel plate 3 mm thick. The internal length and the diameter of the Vessel are 50 cm
+and 25 cm respectively. Determine the longitudinal and the circumferential stress in
+the cylinder due to internal pressure 3MN/m?. Also calculate the increase in length
+, diameter and the volume of the vessel. E = 200 GPa. 1 =0.3.
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper 0ce2fa9f97f5
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS (MECHATRONICS), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 28 November 2016
+- Text: ocr (4 pages), mean OCR confidence 81.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+I Syenaer r: Ul
+Programme : B. Tech (MECHATRONICS) Year: TT” Pena 4
+Batch : 2015-2016 amy ;
+
+Academic Year : 2016-2017
+
+os peRARD
+Subject : Strength of Materials
+
+Date : 28 November 2016
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed ¢ on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
 
 1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5S questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary
+
+1. 3434343
+
+a) b) The rigid beam is supported by a pin at A and wires BD and CE. If the load P
+on the beam causes the end C to displace 10 mm downwards, determine the
+normal strain developed in wires CE and BD.
+
+I —3m [}—2m—|-——-2m—-|
+
+b) write the assumptions in theory of simple bending
+c) Why hollow circular shafts are preferred over solid circular shafts
+d) Define principal stresses and principal planes
+
+2 a) Ifa beam is subjected to an internal moment of M = 75 KN-m, determine the 6+6
+maximum tensile and compressive stress acting in the beam.
+
+fase \ of 4
+--- page 2 ---
+5) The 8 mm diameter steel bolt is screwed ti ghtly into a block at A. Determine the
+
+couple forces F that should be applied to the wrench so that the maximum shear
+
+stress in the bolt becomes 18 MPa. Also compute the displacement of each force
+F needed to cause this stress,
+
+3
+
+12
+
+4 | Determine the deflection of end C of the 100mm diameter solid circular shaft which is
+simply supported at bearing:
+
+s A and B. The shaft is made of steel having a modulus of
+elasticity of E = 200 GPa. :
+
+12
+--- page 3 ---
+rs ae 4
+
+b) A spherical tank has an inner radius of r =
+
+Pressure of p = 300kPa, determine its
+
+Stress is not to exceed 12 MPa
+
+7 | Determine the principal stress and maximum shear stress using Mohr’
+element loaded as shown. Also specify the orientation of these to the
+
+1.5 m. if it is subjected to an internal
+required thickness if maximum normal
+
+s circle for an
+horizontal.
+--- page 4 ---
+fagy. 4 4.
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 2fee2359e5dd
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2015-16 Re Exam_2fee2359e5.pdf`
+- Printed on paper: exam date: 11 July 2017
+- Text: ocr (2 pages), mean OCR confidence 89.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATE#?SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2016-2017
+
+Program: B. Tech Integrated (Civil) Year:II | Semester:IV
+
+Batch: 2015-16 Maks Cee
+Time: @.08}5m to 5.00 pm)) =
+
+Subject: Strength of Materials
+Date : 11 July 2017 Duration’ firs DRAB “NG
+
+No. of eee
+RE - EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+-of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory( aay three)
+
+2) Out of remaining questions, attempt any 4 questions.
+
 3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
+6) Figures on the right hand side indicate full marks.
 
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary.
 
-Q.1 (a) Calculate the modulus of rigidity and bulk modulus of a cylindrical bar of diameter 30 mm 05
-and of length of 1.5 m if the longitudinal strain in a bar during a tensile test is four times the
-lateral strain, also, determine change in volume, when the bar is subjected to a hydrostatic
-pressure of 100 N/mm?. Take E = 1 x 10° N/mm’.
+4
 
-(b) Figure below shows a steel bar of varying cross-section subjected to equivalent axial 05
+Q.1 (a) Derive relation among bending moment, shear force and rate of loading.
+(b) Define modulus of elasticity, bulk modulus and modulus of rigidity. State relation between them.
+(c) State assumptions made in theory of simple bending.
+(d) Determine maximum shear stress induced in a solid circular shaft of diameter 150 mm if it is
 
-external loads Pi, P2, Ps and Ps. Determine P2 which will produce equilibrium and hence
+subjected to shear force of 180 KN.
 
-determine total elongation of AD. Take E= 2.1 X 10° MPa, Pi= 145 KN, Ps= 650 kN and
-P4= 300 KN.
+Q.2(a) A shaft is rotating at 150 rpm and transmits a power of 300 kW. The diameter of the shaft is 100 mm
+and length of shaft is 1.5 m. Maximum torque is 25 % more than the mean torque. Determine the
+magnitude of maximum shear stress and angle of twist if G = 85 GPa.
 
-Py
+(b) A beam of T-section is having overall depth as 200 mm and flange width as 200 mm. The thickness °
+of flange as well as of web is 10 mm. If the section carries a shear force of 90 KN, calculate the shear
 
-625 mm? 4250 mm’
-2500 mm?
+stresses at various salient points along depth of section, @lso sketch the shear stress distribution
 
-|-meat 1200 mm — 1600 mm panne? 08 mn, |
+across the section.
 
-(c) For rectangular section prove that maximum shear stress is 1.5 times average shear stress. 04
+Q.3 (a) AT section beam of span 5 m has a flange 125 mm X 12.5 mm and web 8 mm X 187.5 mm. If
 
-Page 1 of 3
+maximum permissible stress is 150MPa. Determine maximum u.d.l. the beam can carry.
+
+Yo
+
+04
+04
+04
+04
+
+06
+
+06
+
+06
 --- page 2 ---
-Q.2 (a)
+a)
+
+Qa)
 
 (b)
 
-Q.3 (a)
-(b)
-Q.4 (a)
-(b)
-Q5 (a)
+Q:5 (a)
+
 (b)
 
-A shaft is rotating at 150 rpm and transmits a power of 300 kW. The diameter of the shaft is
+Q.6 (a)
+(b)
 
-100 mm and length of shaft is 1.5 m. Maximum torque is 25% more than the mean torque.
-Determine the magnitude of maximum shear stress and angle of twist if G = 85 GPa.
+Q.7 (a)
 
-Draw shear force and bending moment diagram for the beam shown in figure, indicating the
+(b)
 
-salient points.
-44kN SEN
+Determine the support reaction at A and C when shaft ABC is axially loaded by.7 KN at B as:shown.
+Take E = 200 X 10° N/ mm’.
 
-[-SkN/r
 
-A oan ae nevannecoimoormmnner BD
-8 j
+rH   —elIrn
 
-Vide
-2m RYT) Qe =? ‘ Z
+toa . . is ._— ro
+/ ;———_IS
+_—_—_—__————_——_——______—_—_— X.
 
-e
+[{2howmen 5 \BEOW yy :
 
-State the assumptions made for theory of pure bending.
+O,3T '
 
-Two mutually perpendicular planes of an element of material are subjected to tensile stress
+Two mutually perpendicular planes of an element of material are subjected to tensile stress of 100
+N/mm? and compressive stress of 40 N/mm’ along with shear stress of 60 N/mm>. Determine
+analytically (i) Magnitude and direction of principle stresses and (iii) Magnitude of maximum shear
+stress along with its plane.
 
-of 110 N/mm? and tensile stress of 47 N/mm? along with shear stress of 63 N/mm’.
+A wooden beam 150 mm X 250 mm has a steel strap of 150 mm X 10 mm fixed at its bottom
+rigidly. The beam is subjected to sagging bending moment of 3 kN.m on horizontal axis. Determine
+the stresses in steel and wood. Take Es = 200 GPa and Ew = 10 GPa-
 
-Determine analytically (i) Magnitude and direction of principle stresses and (iii) Magnitude
+A metal bar, 50 mm X 50 mm in section, is subjected to an axial compressive load of 500 kN. The
+contraction of a 200 mm gauge length is found to be 0.5 mm and the increase in thickness 0.04 mm.
+Determine Young’s Modulus, Poisson’s ratio and Modulus of Rigidity.
 
-of maximum shear stress along with its plane.
+Draw shear force and bending moment diagram for the beam shown in figure, indicating the salient
+RR | a id 4
+
+a q
+f 3m Lim 7G tm
+— A Pas
+
+i
+vas
 
 Derive an expression for the theory of simple torsion.
+The principal tensile stresses at a point across two perpendicular planes are 120 MN/m’tensile and
+60 MN/m’ tensile. Determine the normal and tangential stresses and the resultant stress along with
 
-A reinforced concrete column of 500 mm X 500 mm in section is reinforced with 4 steel
+its obliquity on a plane of 20°with the major principal plane by using Mohr’s circle.
+quity Pp p
 
-. The column is carrying an axial load of
+A steel tube 2.4 cm external diameter and 1.8 cm internal diameter encloses a copper rod 1.5 cm
+diameter to which it is rigidly connected at the two ends. If at a temperature of 10° C there is no
+longitudinal stress, calculate the stresses in the rod and the tube when the temperature is raised to
+200°C. Take Es = 210 GPa ; as =11 X 10°per °C ; Ecu = 100 GPa and acu =18 X 10%per °C.
 
-teel bars. Take Esteel= 2.1 X 10° MPa,
+For rectangular section prove that maximum shear stress is 1.5 times average shear stress.
 
-bars of 25 mm diameter, one in each corne
-2000kKN. Find the stresses in concrete and s'
-Econcrete= 0:14 X 10° MPa.
-
-Explain terms shear force and bending moment, also derive relationship between load
-
-intensity, shear force and bending moment.
-
-The plane element is subjected to the stresses as shown. Determine graphically (by Mohr’s
-
-circle)-
-(i) Principal stresses
-(ii) Maximum shear stress
-
-(iii) Magnitude of normal and tangential stresses on shown inclined 30° plane.
-
-\oomMPa
-sd MPA
-Pa
-}so im \so ina}
-iia a
-A\39
-sO <O
-MPa
-e\0O MPa
-
-Page 2 of 3
+2| 7
 
 06
 
-08
-
 06
-08
-
-06
-08
-
-06
---- page 3 ---
-Q.6 (a) A beam of T-section is having overall depth as 200 mm and overall width as 200 mm. The
-thickness of flanges is 10 mm whereas the thickness of web is also 10 mm. If the section
-carries a shear force of 90 KN, calculate the shear stresses at various salient points along
-depth of section, also sketch the shear stress distribution across the section.
-
-(b) Draw shear force and bending moment diagram for the beam shown in figure, indicating the
-
-salient points. § Binae
-BEN/m ees 3
-A erOnn ene nen J D
-& 4 > ea
-i— ae
-7 Zam . oa) : 2ra 1
-of —— i — —"
-
-Q.7 (a) A mild steel plate 150 mm wide and 20 mm thick, 6 m long carries an axial pull of 300 kN.
-If the modulus of elasticity of steel is 200 kN/mm? and Poisson’s ratio is 0.25, calculate
-
-change in length, width and thickness of plate.
-
-rst
-iso 200m
-yt
-|
-len t
-4200 * === ee al » ZBOOKN.
-
-(b) A steel rod of 3 cm diameter and 5 m long is connected to two grips and the rod is
-maintained at a temperature of 95°C. Determine the stress and pull exerted when the
-temperature falls to 30°C if the end yield by 0.12 cm. Take a= 12 X 10% °C,
-Esteel= 2.1 X 10° MPa. ,
-
-(c) A beam of internal diameter 55 mm and external diameter 70 mm is used as simply
-supported beam over an effective span of 2.5 m. Determine the maximum point load that
-
-can be applied at the mid span if permissible bending stress of material is 150 MPa.
-
-Page 3 of 3
 
 06
 
-08
+03
+
+09
+
+06
+06
 
 06
 
-04
-
-04
+06
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper 8ec5336e911b
@@ -9263,6 +10325,219 @@ longitudinal stress, calculate the stresses in the rod and the tube when the tem
 shear force and bending moment.
 ````
 
+## 2016-17 · Re-Exam · Sem 4 · paper f34a79bd8832
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2015-2016 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 May 2017
+- Text: ocr (3 pages), mean OCR confidence 82.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS gt tage
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & sACINEERING ‘s
+
+aay Y
+Academic Year: 2016 - 2017 4 NY Le x JE
+Program: B. Tech Integrated (MECHANICAL) Year:If   SemestersIW wr
+Batch: 2015-16 Marks: 60 0 UE
+Subject: Strength of Materials Time: (10.00 am to 1.00 pm)
+Date : 13 May 2017 Duration:3 hrs
+
+No. of Pages: “3
+RE - EXAMINATION
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) Each question carries 12 marks.
+
+4) Figures on right hand side indicates full marks.
+
+5) Assume suitable data if necessary,
+
+Ql Attempt any four of the following (3 Marks each) , 12
+a State Hooke’s Law.
+
+b What is Lateral strain? How the Lateral dimensions changes according to nature of
+force?
+c Draw SFD and BMD for the loaded beam as shown
+
+w/unit length
+
+WL. L
+= Tw
+
+d Draw the typical Stress strain diagram for mild steel.
+e Determine the slope and the supports of the beam AB and deflection at the centre,
+
+30 KN
+ct
+
+A B
+a 2m ——»}
+
+f What do you know by pure bending? also state assumptions made in simple bending.
+
+Q2 a A beam ABC is loaded as shown. The c/s of the beam is T-shaped as shown. Calculate 6
+the maximum value of load that can be applied safely if the allowed stresses in the
+material of the beam are 40 MPa in tension and 70 MPa in compression.
+
+P
+A 2 |
+ic 2m =| 1m a
+100 mm
+20mm
+80mm
+20
+--- page 2 ---
+Q3
+
+Q4
+
+Q5
+
+b_ A rigid block of weight W is supported by three symmetrically spaced rods. The bronze
+rods are 14 mm diameter, 300 mm in length and allowable stress is 90 MPa while steel
+rod is hollow with 20 mm and 16 mm being external and internal diameters respectively,
+500 mm in length and allowable stress is 120 N/mm’. Determine the safe maximum
+value of W which can be supported. Es=200 GPa and Eb= 80 GPa
+
+WwW
+Steel
+Va
+bronze ran
+
+\G vn
+VMLLLLLLLS VIIVVITTT
+
+y R
+
+4
+
+N
+LITTITTTTTATT AT
+
+a A short vertical column is of rectangular section 40 cm X 30 cm. It carries a load 80 kN
+at a point 5 cm away from the centre of the section along one of the diagonals as shown
+in figure. Calculate the intensities of the stress at the corners of the column in plan.
+
+A F B
+N I “
+7
+_
+ot vo
+a7?
+aaa == JZ _~_ |. 30cm
+aN
+7 ~*~
+rn
+f ' ‘Y
+7 | .
+
+b What is Mohr’s stress circle? How it is useful in solution of stress analysis problem?
+
+Draw SFD and BMD for the loaded beam as shown in figure and show the point of
+
+contraflexure.
+15kN
+20 KN
+~N a 5 kN/m | 20 kNm
+0
+A 30 (> SVE
+(a B “s oa
+
+Cc :
+"Te— 1m rhe 2m rle—1 me 1 m—
+
+A horizontal beam is loaded and supported as shown in figure. Determine
+i) Slope at A
+ii) Deflection at B
+iii) Slope at D
+
+Take E = 200 X 10°kN/m” and I= 20 X.10° m4
+
+20 KN 14 kN/m 10 KN
+15 kNm
+LEY E
+Look am Nt 2am on 4m wer 3m e
+< Bre bit >;
+7 !
+
+*b
+
+4
+
+12
+
+12
+--- page 3 ---
+Q6 a Anelement in plane stress is subjected to stresses as shown in figure. 6
+Determine
+(i) Normal and tangential stress acting on plane AB.
+(ii) Principal stresses and their direction.
+(iii) | Maximum shear and its direction.
+
+4o,= 30 MPa
+ty215MPaé—-——__ a
+
+?
+7
+cd
+
+o,= 80 MPa 7 —~<60 6,= 80 MPa
+
+7
+a”
+
+Aap
+
+—|——> 1,=15MPa
+
+Vo, = 30 MPa
+
+b A450 kW power has to be transmitted at 100 RPM Find 6
+i. The necessary diameter of a solid circular shaft
+il. The necessary diameters of hollow circular section, inside diameter being %
+
+of the external diameter. Allowable shear stress = 75 N/mm”
+
+Q7 a Acement concrete block is tested in a compression testing machine by applying load P. 6
+It was observes that height AC decreased by 0.275 mm and side AB increased by 0.025
+mm. If E= 13 GPa, Determine
+i) Poisson’s ratio
+ii) Value of Force P
+iii) | Volumetric strain of the block
+
+P D
+1
+]
+A l
+{ 5 300
+1 mm
+I
+fr
+I
+H |
+re eee
+a “ &
+“ ¢
+we
+
+¢
+Cc
+ke 200 mm i
+P
+
+b Accylindrical shell one meter in diameter and 3 m long has a metal thickness of 10 mm. 6
+If it is subjected to an ia pressure of 3 N/mm’, Determine 6 L, 6 d and 6 v.
+
+Take E = 210 kN/mm’, — = 0.3
+
+3),
+````
+
 ## 2016-17 · Re-Exam · Sem 4 · paper 392cd10d0b2b
 
 - Departments: Mechanical
@@ -9270,6 +10545,7 @@ shear force and bending moment.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2016-17 Re Exam.pdf`
 - Printed on paper: exam date: 12 July 2017
 - Text: ocr (2 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -9307,7 +10583,6 @@ figure. (14Marks)
 7 FeO REM ao kin FO wi
 *
 te khm
-ett B c a Db E Kor
 > =
 je— 3 mi —sfe— 2 m —o}e— 2 m —a|e— em ef
 Q.2 a) The I — cross section of a beam shown in the e200
@@ -9372,93 +10647,6 @@ z
 Im —+}-— 2m —+be— 1m —>}<— Im —+}<— 2m —+e— 1m +4
 
 af.
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 590fb8d6ca31
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: exam date: 30 November 2017
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA Tech (CIVIL)   Year: II   Semester:   III
-j
-Batch: 2016-17
-Academic Year: 2017-2018
-Subject:   Strength   of Materials
-Date: 30 November 2017
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question p
-cover of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data if necessary.
-Qil (a) A metal bar having 80 mm diameter is subjected to an axial compressive load of 50 kN at   (05)
-ends, the contraction of 0.55 mm is found over a 250 mm gauge length and increase in
-diameter 0.04 mm. Find the values of Poisson's   ratio Young's modulus and Modulus of
-rigidity.
-(b) Derive relation between rate ofloading, shear force and bending moment.   (05)
-(c) A cylindrical shell, 3 m long and having internal diameter lm, is subjected to an internal   (04)
-pressure of 1.5 M!>a. If the shell thickness   if 20 mm, find circumferential   stress and
-longitudinal stress.
-Q.2 (a)   Solid circular shaft ABC is fixed at end A and free at C. The lengths AB = L and BC =   (08)
-Ll3. The diameter of the shaft is 90 mm. The shaft is subjected to 2.1 kN.m torque at Band
-0.7 kN.m torque at free end C both clockwise. Determine the length of shafts AB and BC,
-if total angle of twist between A and C is 5°,) also determine the stresses induced in the
-shafts AB and BC. Take G = 85 GPa.   -
-(b) A thin cylinder of internal diameter 1.25 m contains fluid at an internal pressure of 3   (06)
-Nzmrrr'. Determine the permissible thickness of the cylinder if,
-(i) Longitudinal stress does not exceed 30 Nzrnrrr'.   -
-(ii) The circumferential   stress does not exceed 50 Nzrnrn".
-Q.3 (a) At a point in a strained material, the principal stresses are 100 Nzmrrr' tensile and 50   (07)
-Nzmm? compressive. Determine the normal, tangential and resultant stresses on a plane
-inclined at 50° to the axis of major principal stress) also determine the maximum intensity
-of shear stress in the material at the point.
---- page 2 ---
-(b) A steel rod of 25 mm diameter is enclosed cen~rally in a hollow copper tube of external   (07)
-diameter 55 mm and internal diameter 35 mm. the composite bar is then subjected to an
-axial pull of 80 kN. If the length of each bar is equal to 200 mm, determine
-(i) the stress in steel rod and copper tube, and
-(ii) load carried by each bar.
-Take ESteel=2.l~105N/mm2 and ECopper=1.1xl05N/mm~
-Q.4 (a) Draw shear force and bending moment diagram for the beam shown in figure, indicating   (08)
-the salient points.
-30kN   15 kl'{/m
-1m 1m   I   3m   I· 2m   21n   I
-(b) A beam of symmetrical I-section is having overall depth as 400 mm and flange width as   (06)
-200 mm. The thickness of flanges is 20 mm whereas the thickness of web is 15 mm. If the
-section carries a shear force of 80 kN, calculate the shear stresses and sketch the shear
-stress distribution across the section.
-QS(a) A steel bar 20 mm in diameter and 4.50 m long is heated through 40° C above the   (08)
-atmosphere   temperature   and thereafter   the ends are clamped. On cooling back to
-atmospheric temperature,   it is found that the clamps have yielded by 0.5 mm. Find the
-pulls exerted on the bar by the end clamps, also calculate the same if the clamps do not
-yield at all. [Take E = 2 X 105 MPa and a = 10 X 10-6 per ° C]
-(b) Derive the torsion formula with usual notations for a circular shaft subjected to equal and   (06)
-opposite torque T.o"
-Q.6 (a) Determine the deflection and slope at the free end of the cantilever beam which is   (07)
-subjected to the uniformly distributed load of 2 kN/m arid the point load of 15 kN at free
-end. Span of the beam is 6m.
-(b) An element has a compressive   str~ss of 75 MN/m2 and a tensile stress of 150 MN/m2   (07)
-acting on two mutually perpendicular planes. Also it is subjected to shearing stress of 10
-MN/m2 on these planes. Determine the magnitude and direction of the principal stresses
-and the magnitude and direction of the maximum shear stresses.
-Q.7 (a) A cantilever, 7.5 m long is subjected to a uniformly distributed load of 5 kN/m acting   (07)
--
-downwards throughout   its length. The cross section of a beam is a Tee section having
-overall height 200 mm, flange width 200 mm and thickness of flange as well as web is 10
-mm. Determine   the maximum   tensile and maximum   compressive· bending   stresses
-induced.
-(b) Find the maximum and minimum stress intensities at the base of uniform circular chimney   (07)
-having external diameter 2 m and internal diameter 1.6 m. The height of the chimney is 25
-m and is subjected to wind pressure of 1.5 kN/m2• Take Ymaterial = 78.5 kN/m3.
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper f8137f72f8cf
@@ -9576,134 +10764,6 @@ Calculate the deflection under 50 KN load. Take E = 2 x 10° N/mm? and I= 1.18 x
 )
 
 a
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper 3430d7b6943b
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/Strength of Materials Re-exam 2016-17-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 20
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (Civil) /. Year: [1 . Semester : II
-Academic Year: 2018-19
-
-Subject: Strength of Materials Marks: 70
-
-Time: 2.00 pm to 5.00 pm —”
-
-‘ nuary 2019 )
-Date : 21 January 20 Durations: 3 (hrs)
-
-No. of Pages: O22
-Re-examination (2016-17 / 2017-18/ 2018-19) _—
-
-Instruction: Candidates should read carefully the instructions printed on the questign-peper-an
-over the cover of the Answer Book, which is provided for their use. f
-
-NB: 1) Question No.1 is compulsory.
-2) Out of remaining questions attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Assume any other data, whenever not given, suitably but state and justify the same.
-7) Illustrate your answer with neat sketches whenever required.
-8) Figures in brackets on the right hand side indicate full marks.
-
-i. Attempt any TWO questions out of THREE. (14)
-I. a) A spherical vessel 0.8 m diameter is subjected to an internal pressure of 1.5 N/mm?. Find the
-stress in material of vessel, if the thickness of wall is 3 mm. (3)
-
-b) Derive the relationship between rate of loading w, shear force V, and bending moment M. (4)
-
-II. a) Define core of section and calculate core of section for circular section of diameter ‘D’. (4)
-b) A steel square bar of 50 x 50 mm is acted upon by forces as shown in figure. Determine the
-maximum stress and total elongation of the bar. Take E= 210 GPa. (3)
-
-A B C D
-10kN<4 SKN + -—> 25kN — 10 kN
-0.8m 1.0m 1.5m
-
-Ill. a) A shaft of 80 mm diameter subjected to a torque of 15 kNm. Determine the maximum shear
-stress in the shaft. Take G= 80 GPa. (3)
-b) Find the deflection for a simply supported beam of length 3 m. Beam is subjected to UDL of
-
-8 KN/m over entire span. Assume EI is constant. (4)
-
-2.a) A beam is loaded as shown in Fig.1. Draw S.F. and B.M diagram. (7)
-
-15kKN
-
-Fig. 1 1|Bage
-
-4
-
-iy
---- page 2 ---
-b) A steel tube 50 mm in external diameter and 3 mm thick encloses centrally a solid copper bar
-of 35 mm diameter. The bar and the tube are rigidly connected together at the ends at a
-temperature of 20°C. Find the stresses in each metal when heated to 170°C, also find the
-increase in length, if the original length of the assembly is 350 mm. Take E; = 200 kN/mm’,
-Ec = 100 kN/mm? and as = 1.08 x 10°/°C, a = 1.7 x 10°°/°C. (7)
-
-3. a) Fora SS beam as shown in Fig. 2, draw shear force and bending moment diagram. Couple of
-
-10 kNm is acting at C point. (7)
-10 kNm
-UDL =8 kN/m
-: x PCCOQOOO
-| 2m Cd 15m 2m ] B
-Fig. 2
-
-b) A symmetrical I-section has flanges of 100 mm x 10 mm, and web of 150 mm x 10 mm. If it
-
-_is used as a simply supported beam and span of beam is 4 m with load including self-weight
-
-on beam is 10 kN/m over entire span. Find the stresses developed at the extreme fibers of
-beam section, also sketch the bending stress diagram. (7)
-
-4. a) A solid shaft rotating at 100 rpm transmits 120 kW. The maximum torque is 15% more than
-the mean torque. The modulus of rigidity (C or G) is 80 GPa. The diameter of the shaft is 100
-mm and length of shaft is 1.3 m. Calculate i) maximum shear stress and ii) angle of twist in
-
-the given length of shaft. (7)
-
-b) An element in a structure is subjected to a plane stress system that has the stress 0x = 100
-N/mm? (Tensile), oy = 80 N/mm? (Compressive) and Txy = 20 N/mm? (clockwise). Find i) the
-principal stresses and its plane ii) maximum shear stress and its plane. Use analytical method.
-
-(7)
-
-5.a) A-simply supported steel beam of 6 m span having rectangular cross section, carries a UDL
-of 25 kN/m on entire span. If the maximum shear stress is 75 MPa, find the dimensions of
-beam section if d = 2.5b. (7)
-
-b) A masonry chimney having the shape of frustum of a cone is 25 m meters high. The external
-diameter at the top and the internal diameter at the bottom is 2 meters. The chimney is 0.5m
-thick at the base. If the weight of the chimney is 1800 KN, find the horizontal wind pressure
-that may act on the chimney in order to avoid the tension at the base. (7)
-
-6. a) Explain Mohr’s circle method to find the principal stresses, with example of yours choice.(7)
-b) A thin cylindrical shell of 800 mm diameter and 2 m long with a wall thickness of 10 mm is
-filled with a fluid at pressure of 5 MPa. Find i) hoop stress ii) longitudinal stress and iii)
-change in dimensions of shell. Take E= 2.1 x 10° N/mm? and p= 0.3. (7)
-
-7. a) Derive flexural equation for a simply supported beam when subjected to uniformly distributed
-load. (7)
-
-b) A beam of uniform cross section, 8 m long is simply supported at the ends. It carries a point
-loads of 48 KN at 2 m from left support and UDL of 10 kN/m on right half span of the beam.
-Calculate the deflection under point load and at center of beam. Assume E = 200 kN/mm? and
-1=6.5x 10!° mm‘. Use Macaulay’s method. (7)
-
-2 se 6 ee 2 2 2c ee 2 2 2 2 2
-
-2|Bage
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper 366558453f80
@@ -9980,6 +11040,7 @@ h-
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS B TECH (MECHATRONICS), YEAR 15-16 FINAL EXAM.pdf`
 - Printed on paper: exam date: 30/11/2015
 - Text: ocr (3 pages), mean OCR confidence 90.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -10034,9 +11095,7 @@ diameter is 30 mm and internal diameter is 25 mm. The ends of the two materials 
 connected together. The composite bar is heated though 60° C. Calculate the change in length
 and stress induced in each metal.
 
-ds = 11.2 x 10° /°C, ay = 16.5 x 10° /°C,
 
-Es =2 x 105 N/ mm?, Ey = 1 x 105 N/mm?
 
 4/s
 
@@ -10146,7 +11205,6 @@ Also find the position and value of maximum deflection in the beam. Take E= 210�
 B
 v c D
 1 {
-i Sm i* 3m i¢ am
 Ry
 
 Derive the Flexure formula used in Theory of Bending.
@@ -10541,6 +11599,7 @@ E=200 GPa and =~ = 0.286
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS MBA TECH (CIVIL), YEAR 15-16 FINAL.pdf`
 - Printed on paper: exam date: 01/12/2015
 - Text: ocr (2 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Z
@@ -10605,7 +11664,6 @@ may be subjected if the maximum stress is limited to 100 N/mm”. Find the total
 elongation. Take E = 2.1x10° N/mm?.
 b) A composite member of overall cross-sectional dimensions 50mm x 30mm is made (06)
 up of steel and bronze flats of size 50mm x 15mm each and connected; ther side . wads
-by sidgeo el chee tee Solnpdsite TOS Sen RAST GS Leet Teside ;
 compression of 0.014mm in a length of 200mm. find the load acting on a composite
 member and that shared by each material. Take Es = 200 KN/mm?, E, = 80 KN/mm”.
 4, a) Derive the fiexural forraula for a simply. supported beam. (85)
@@ -10650,6 +11708,7 @@ aps
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/Strength of Materials Batch 2015-16 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
 - Text: ocr (2 pages), mean OCR confidence 89.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 1
@@ -10744,7 +11803,6 @@ exceed 90 MPa and angle of twist not to exceed 1° in 2m length. Calculate the s
 values of the shear stress and angle of twist at that diameter. (7M)
 
 Q.7 b Explain: i)Mohr’s circle, ii) Core of a section, iii) Section Modulus Formula (5M)
-FOO ICG GIO III GG I Ke
 
 2/: 2.
 ````
@@ -10892,327 +11950,178 @@ He a a a a
 
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 52138b8a126e
+## 2015-16 · Re-Exam · Sem 3 · paper 0e82b013297f
 
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS (MECHANICAL), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 02 December 2016
-- Text: ocr (3 pages), mean OCR confidence 82.3
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/STRENGTH OF MATIRIALS B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 27/11/2015
+- Text: ocr (3 pages), mean OCR confidence 87.7
 
 ````text
-SVKM’S NMIMS '
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIA
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (MECHANICAL) Year : II Semester : : I
-Batch : 2014-2015 / 2015-2016
+Programme: B. Tech (Civil) Year: II Semester: III
+Batch: 2014-2015
 
-H Academic Year : 2016-2017 o
+Academic Year: 2015-2016
 
-| . & et
+A gsi STE DF a :
 
-Subject : Strength of Materials Marks : /.. SS.
-. Time: I to iJ 0
-Date : 02 December 2016 Duration = ~ B)
+lf a? ¥ — TAN
+Subject: Strength of Materials rs, i Ae,
+wf ge STMB YS
+
+Marks: 0 2 <r Wk
+Date: 27/11/2015 Time: 10,00{atn +8 T.60%p ps ;
+Na oY
+
+Duration: 3 (f SF,
+Fe S Ora ed
+—
 
 Re-Examination
 
-cover of a“ answer book, which is provided for their use.
-NB: - 1) Question No.ONE is compulsory, Out of remaining, attempt FOUR questions,
-2 All Questions carry equal marks.
-3) Figures in brackets on right hand side indicate full marks.
-4) Assume suitable data whenever necessary.
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
 
-Qi Solve any Two of the following (6 x2]
-a) State the assumptions in Pure bending and Derive the Bending formula. : = “ =f
-. ’ Pa
-b) Find out the deflection of a simply supported Beam of span | carrying a load of w per
-unit run over a full span by double integration method.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. In all 5 questions to attempted.
+4, All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
 
-c) Derive torsion equation. Also state the assumptions.
-T. t GO
+Q.1) | Attempt any FGUR
 
-J Rol
-Q2 a) A solid cylinder 500 mm long and 70 mm diameter is placed inside an aluminum [06]
-cylinder having 75 mm inside diameter and 100 mm outside diameter. The
-aluminum cylinder is 0.16 mm longer than the steel cylinder. An axial load of 500 kN
+{2
+a) Derive the relationship between shear force and bending moment. 3
+b) | Asteel bar 2m long and 40mm in diameter is subjected te en axial pull of 2
 
-is applied to a bar and the cylinder through a rigid cover plate as shown in figure.
-Find the stress developed in the steel and aluminum tube. Assume Es=220 GPa and
+| 80kn.find the length of the 20mm diameter bore, which should be centrally
+| carried out. So that the total elongation should increase by 20% under the same
+pull. Take E for the bar material as 200 Gpa.
+c) A circular beam of 100mm diameter is subjected to a shear force of Skn. 3
+Calculate the average shear stress, maximum shear stress and shear stress at a
+[ distance of 40mm from N.A.
+a) A Vessel I the shape of a spherical shell of 1.20m internal diameter and 12mm a
+shell thickness is subjected to pressure of 1.6n/mm2. Determine the stress
+induced in the material of the vessel.
+e) A cantilever of length 3m carries a uniformly distributed load of 10kn/m over a a
+length of 2m from the free end. Take E= 2x 10° n/mm? and I= 10°mm*. Find the
+deflection at free end.
 
-Ea= 70 GPa. J, 500KN
-> ; b= ey f ae OrtEMm
-\! t
-g 7 Hat cydander
-E 1 tt
-S ! F el cylinder
-itt 1! ett Se cy
-i! oh
-vi
-sft? at i :
+Q.2) | Solve
+{2
+a) A Steel bar is 960mm Jong and its two ends are 40mm and 30mm in diameter 6
+and the length ofeach rod is 20Gmm. The middle portion of the bar is iSmm in
+diameter and 500mm long. If the bar is subjected to an axial tensile load of JSkn.
+find its total extension. Take E = 200 Gn/m’.
 
-= ny
-
-Baa KN
-
-b) A tie bar has enlarged ends of square section 60 x60 mm as shown in the figure. If [06]
-the middle section of the bar is also a square section. Find the size and the length of
-the middle portion, if the stress is 140 MPa and the total extension of the bar is 0.14
-
-mm. Ss Sq A.
-ws . _ 66X60 bO%x60
-BT? <1 pa OTEK
-yen
-= —
-
-SBM CThree)
-
-4/5
+1/3
 --- page 2 ---
-Draw Shear force and bending moment Diagram for Cantilever Shown. {04]
+-
 
-Q3_ a)
-\ Va ooo
-N : y A
-y B E Dp
-4 ' +m!
-yo | YM 2M \
-b) Draw a Shear force and Bending moment diagram for the Beam shown below. Also [08]
-find maximum bending moment and point of contraflexture.
-20 46 KAI 20 Kal mM
-Ko)
-Ae ta oe E
-A @ Cc \ Ay
-Dp
-ee ee
-is simply [06]
+bey A rod of steel is 26m long at a temperature of 20°
+rature is raised to 65°c. Find the temperature stress
 
-The horizontal beam of section shown in the figure is 4 m long and
-supported at the ends. Calculate the maximum uniformly distributed load it can
-carry if the tensile and compressive stresses is not to exceed 25 and 45 MPa
+L_
 
-respectively. 90m" G 20mm
+rod, when the tempe
 
-a ae
+produced (i) when the expansion of the rod is
 
-Q4 a)
+c. Find the free expansion of the
 
-490MM)
+prevented (ii) when the rod is
+8mm. Take a = 12x 10 © per °c and E=2x 10° p/mm?
 
-b) AT shaped cross section of the beam is shown in the figure is subjected to a toad of [06]
+6
 
-100 kN. Draw the shear distribution curve across the cross section.
+permitted to expand by 5.
 
-KK — 2066mmM—I
-\ | [son
+ie]
 
-200m”
+Q.3) | Solve
+a) Draw a shear force and bending moment diagram for the simply supported
+beam as shown in the figure
+ad thn =
+| L
 
-/
+tel = FT . aT 7 -
+Pd
 
--5OmmM
+b)
+
+Draw the shear force bending moment a
+
+| shown in the
+
+yment am for the overhanging beam as
+
+25_NM
+
+Coe ess
+
+figure and aiso locate the point of shear and point of contra Hexure.
+
+1.5m!
+
+4
+poe £
+
+[ Q.4)
+
+Solve
+a Derive the bending equation for a beam 6
+b) A rectangular beam 20mm deep and 300mm wide is simply supported over a 6
+span of 8m. What uniformly distributed load per meter the beam may carry, if
+the bending stress is not to exceed 120 n/mm’.
+Q.5) | Solve
+cL (2
+| a) A simply supported wooden beam of span 1.3m having a cross section 150mm 6
+: wide and 250mm deep carries a point load W at the centre. The permissible
+stresses are 7n/mm/ in bending and 1n/mm? in shearing. Calculate the safe load.
+b) A solid steel shaft has to transmit 75kw at 200rpm. Taking allowable stress as 6
+
+70n/mm2, find suitable diameter for the sha
+ted at each revolution exceeds the mean by 30%.
+
+transmit
+
+ft, if the maximum torque
 
 2/3
 --- page 3 ---
-Q5_ a) A hollow shaft of diameter ratio 3/8 is required to transmit 600 kW at 110 rpm. The [06]
-maximum torque being 20 % greater than the mean. The shear stress is not exceed
-63 MPa. And the twist in the length of 3 m not to exceed 1.4 degrees. Calculate the
-maximum external diameter. C= 84 GN/m?
-b) A cylindrical chimney 22 m high of uniform circular section 4 meter external [06]
-diameter and 2 meter internal diameter is subjected to a horizontal wind pressure
-of 1.2 kN/m? of projected area. Find the maximum and minimum stress intensities
-at the base, if the specific weight of the masonry is 22 kN/m?. Take coefficient of
-wind resistance 2/3.
-Q6 a) Define the core (Kernal) of the section for rectangular and circular sections. [04]
-b) The state of the stress at a point of a machine is shown in the figure. Determine the [08]
-principal stress and the maximum shear stress and its inclination. Also solve this
+Q.6) | Solve
+{2
 
-problem graphically. ZOMW Pa
-gomea fs
+a) A masonry retaining wall of trapezoidal section is 10m high and retains earth 6
+which is level up to the top. The width at the top is 2m and at the bottom 8m and
+the exposed face is vertical. Find the maximum and minimum intensities of
+normal stress at the base. Take density of earth= 1600kg/m’, density of
+masonry= 2400kg/m*, angle of repose of earth =30°.
+b) At a certain point in a strained material, the intensities of stresses on two planes 6
+at right angles te each otier are 26 n/mmZ and 16n/mmi2 both tensile. They are
+| accompanied by a shear stress of magnitude 10n/mm2. Draw Mohr’s circle and
+evaluate principle stresses and locate principle planes.
 
-230M
-7 y aos 50 MPa
-cen
+Q.7) | Salve
+, [2
+a) A cylindrical vessel is 1.5m diameter and 4m long is closed at ends by rigid G
+: plates. It is subjected to an internal pressure of 3n/mm2. If the maximum
+:'@ principal stress is not to exceed 150n/mm2, find the thickness of the shell.
+Assume Take E= 2x10°n/mm’. Poisson’s ratio= 0.25. Determine the change in
+diameter, change in length and change in volume.
+d at its end and carries two point loads of 6
 
-re aah
+b) ‘A beam of length 6m is simply supporte
+40kn ata distance of 4m from the left support. Find the deflection under the load
 
-0 MPa
-Q7 a) Determine the Deflection at C and D in the Beam shown. Use Macaulay’s method. {06]
-2OKNIM | 2OKN
-A ¥ : , &
-
-7y
-
-te, C
-} + — +
-sm \™M am
-
-b) Acylindrical vessel whose ends are closed by means of rigid flange plates is made of [06]
-steel plate 3 mm thick. The internal length and the diameter of the Vessel are 50 cm
-and 25 cm respectively. Determine the longitudinal and the circumferential stress in
-the cylinder due to internal pressure 3MN/m’. Also calculate the increase in length
-, diameter and the volume of the vessel. E = 200 GPa. p =0.3.
-
-3/3
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 131511bc0d28
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS B TECH (MECHANICAL), BATCH 14-15, 2015-16 RE EXAM.pdf`
-- Text: ocr (3 pages), mean OCR confidence 79.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (MECHANICAL) Year : I
-Batch : 2014-2015 / 2015-2016
-
-epg TE
-Academic Year : 2016-2017 Gos oN
-
-SN
-
-Subject : Strength of Materials Mark: i. : SPME Ve |
-vyate 09 Decent Time dnt Po P)
-ate : ecember 2016 Duratity® ,3vbrs
-
-es aa”
-
-Re-Examination
-
-Instructions:-Candidates should read carefully the instructions printed on the question paper and onthe
-
-cover of the answer book, which is provided for their use.
-NB: - 1) Question No.ONE is compulsory, Out of remaining, attempt FOUR questions,
-2 All Questions carry equal marks.
-3) Figures in brackets on right hand side indicate full marks.
-4) Assume suitable data whenever necessary. .
-Qi Solve any Two of the following [6 x2]
-
-a) State the assumptions in Pure bending and Derive the Bending formula. 2 =—=-—
-
-b) Find out the deflection of a simply supported Beam of span | carrying a load of w per
-unit run over a full span by double integration method.
-
-c) Derive torsion equation. Also state the assumptions.
-T. t GO
-
-Jy oR 1
-
-Q2 a) A solid cylinder 500 mm long and 70 mm diameter is placed inside an aluminum [06]
-cylinder having 75 mm inside diameter and 100 mm outside diameter. The
-aluminum cylinder is 0.16 mm longer than the steel cylinder. An axial load of 500 kN
-is applied to a bar and the cylinder through a rigid cover plate as shown in figure.
-
-Find the stress developed in the steel and aluminum tube. Assume Es=220 GPa and
-
-Ea= 70 GPa. IL 500KN y
-x finn at] a ote mm
-1! (!
-. \!
-S 1} Mh at cylander
-E i I!
-° {
-g) | eitf — sted eytanaes
-| vy |
-2° at 11 i!
-: ~ * Bao KAT
-
-b) A tie bar has enlarged ends of square section 60 x60 mm as shown in the figure. If [06]
-the middle section of the bar is also a square section. Find the size and the length of
-the middle portion, if the stress is 140 MPa and the total extension of the bar is 0.14
-mm. sg
-
-Lo. 66X60 | Sexaa .
-81:7 <| a» 87-5 Kw
-yen
-} —
-
-- BM Cthree)
-
-x
---- page 2 ---
-Q3 a) Draw Shear force and bending moment Diagram for Cantilever Shown. (04]
-
-. VSN onlin [ tA
-N\ pone, Y an
-
-Je £5 D c
-
-Q
-
-a nt a Se)
-
-b) Draw a Shear force and Bending moment diagram for the Beam shown below. Also {08]
-find maximum bending moment and point of contraflexture.
-
-\ANAKN 20KN OKANO
-
-20KNIM
-Gi | Cc a , E
-( x
-rr a
-) ym) 2m om) 2am |
-
-Q4 a) The horizontal beam of section shown in the figure is 4 m long and is simply [06]
-supported at the ends. Calculate the maximum uniformly distributed load it can
-carry if the tensile and compressive stresses is not to exceed 25 and 45 MPa
-respectively. 20 mm
-+
-
-if, 20mm
-}2O mm =
-
-4o0mnmM
-
-b) AT shaped cross section of the beam is shown in the figure is subjected to aload of [06]
-100 KN. Draw the shear distribution curve across the cross section.
-
-k— _ 266 mmMm—I
-
-= \ i 50mm
-
-200mm
---- page 3 ---
-Q5 a) Ahollow shaft of diameter ratio 3/8 is required to transmit 600 kW at110 rpm. The [06]
-maximum torque being 20 % greater than the mean. The shear stress is not exceed
-63 MPa. And the twist in the length of 3 m not to exceed 1.4 degrees. Calculate the
-maximum external diameter. C = 84 GN/m?
-b) A cylindrical chimney 22 m high of uniform circular section 4 meter external [06]
-diameter and 2 meter internal diameter is subjected to a horizontal wind pressure
-of 1.2 kN/m? of projected area. Find the maximum and minimum stress intensities
-at the base, if the specific weight of the masonry is 22 kN/m? . Take coefficient of
-wind resistance 2/3.
-Q6 a) Define the core (Kernal) of the section for rectangular and circular sections. [04]
-b) The state of the stress at a point of a machine is shown in the figure. Determine the [08]
-principal stress and the maximum shear stress and its inclination. Also solve this
-
-problem graphically. ZOMPaA
-zomte_t
-
-20M
-. x fees 50MPa
-em
-
-0 MPa
-Q7. a) Determine the Deflection at C and D in the Beam shown. Use Macaulay’s method. [06]
-wre KN Im | QOKN
-A pomonyyyvy), : , ©
-
-Ja, C
-
-t+ 4
-
-sam \™ am
-
-b) Acylindrical vessel whose ends are closed by means of rigid flange plates is made of [06]
-steel plate 3 mm thick. The internal length and the diameter of the Vessel are 50 cm
-and 25 cm respectively. Determine the longitudinal and the circumferential stress in
-the cylinder due to internal pressure 3MN/m?. Also calculate the increase in length
-, diameter and the volume of the vessel. E = 200 GPa. 1 =0.3.
+and maximum deflection. Also calculate the point at which maximum deflection
+takes place. Given M.O.I of beam = 7.33 x 10 7mm‘ and E= 2x10°n/mm? ‘|
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper ef95ebfaa940
@@ -11222,6 +12131,7 @@ the cylinder due to internal pressure 3MN/m?. Also calculate the increase in len
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS B TECH MECHANICAL BATCH 14-15 15-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 13 June 2016
 - Text: ocr (2 pages), mean OCR confidence 84.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -11341,106 +12251,137 @@ load W at its centre. (4M)
 b) Explain the significance of Point of Zero Shear and Point of contraflexure. (3M)
 c) Derive the formula for Torsion Equation. (5M)
 
-22 ER 2A 2 fA CEO A 2 A Co 2 A CR 2A A CR Cf 2 CG aC aC CI A CI COR COR oR a oe a CORO a
 
 BB
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 0ce2fa9f97f5
+## 2015-16 · Re-Exam · Sem 3 · paper bab5eef7cec7
 
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS (MECHATRONICS), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 28 November 2016
-- Text: ocr (4 pages), mean OCR confidence 81.2
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENNGTH OF MATERIALS B TECH (MECHANICAL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 04/12/2015
+- Text: ocr (3 pages), mean OCR confidence 88.5
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-I Syenaer r: Ul
-Programme : B. Tech (MECHATRONICS) Year: TT” Pena 4
-Batch : 2015-2016 amy ;
 
-Academic Year : 2016-2017
-
-os peRARD
-Subject : Strength of Materials
-
-Date : 28 November 2016
+Programme: B. Tech (Mechanical) Year: II Semester: III
+Batch: 2014-2015 Pen
+Academic Year: 2015-2016 “gests on “
+ee! 73
+: A Vig
+Subject: Strength of Materials il aX
+Marks: 60 MPSTME :
+Date: 04/12/2015 Time: 10. ARO RY ie
+Duration: 3 (hr od 4
+a Care Yo
 
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed ¢ on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5S questions to be attempted.
-
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+NB: ,
+1) Question No. one is compulsory.
+2) Out of remaining questions, attempt any four questions.
+=. 3) In all five questions to be attempted.
 4) All questions carry equal marks.
-
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary
 
-1. 3434343
+1. Attempt any four of the following:
+A. State various assumptions made in deriving torsional formula. (¢5)
 
-a) b) The rigid beam is supported by a pin at A and wires BD and CE. If the load P
-on the beam causes the end C to displace 10 mm downwards, determine the
-normal strain developed in wires CE and BD.
+B. What are statically determinate and statically indeterminate beams? Hence classify following beams
 
-I —3m [}—2m—|-——-2m—-|
+(1) cantilever (2) simply supported (3) fixed beam (03)
+C. Establish the relation to show variation of shear stress across rectangular section. (03) ,
+D. What are elastic constants? State various elastic constants with their expressions. (03)
 
-b) write the assumptions in theory of simple bending
-c) Why hollow circular shafts are preferred over solid circular shafts
-d) Define principal stresses and principal planes
+E. Which one is more economical among the circular, rectangular and | sections for beam having the same
+. . hy? a
+weight per meter length and why (e 3)
 
-2 a) Ifa beam is subjected to an internal moment of M = 75 KN-m, determine the 6+6
-maximum tensile and compressive stress acting in the beam.
+2. A. A circular bar A BC D is rigidly fixed at A and D and is subjected to axial forces as shown in fig.
 
-fase \ of 4
+4
+Determine the reactions Ri and R2, the force and stresses in each portion of the bar and change in length
+of each portion. Take E=200 kN/mm?, (08)
+c BD
+A 8 R
+& 5 ich A
+‘9 ackw— _ ee a &
+Gas ant isd0mm= | 2000mmE |
+fom 1s Sm — Hh am of— Sim —+4
+ssaaaiiieail
+pai B. The cross section of a joist is a T—section, as shown in figure belowf Sketch the shear stress distribution
+
+across the depth if cross section has to resist a shear force of 200 kN. C06)
 --- page 2 ---
-5) The 8 mm diameter steel bolt is screwed ti ghtly into a block at A. Determine the
+3. A. A simply supported beam with overhang ends carries loads as shown in fig. If W=Lw, what is the
+overhang length on each side such thet the bending moment at the middle of the beam is zero. Sketch
+shear force and bending moment diagram indicating principal values. (07)
 
-couple forces F that should be applied to the wrench so that the maximum shear
+|
+c .
+i)
+od _——— et
+bene ol
 
-stress in the bolt becomes 18 MPa. Also compute the displacement of each force
-F needed to cause this stress,
+ne L+26 ;
 
-3
+B. A rectangular column of size 300 mm x 600 mm is subjected to an axial load of 400 kN. In addition to
+this a load of 50 kN is acting at an eccentricity of 40 mm about both x-x axis and y-y axis. Find stresses at
 
-12
+all the four corners. (05)
 
-4 | Determine the deflection of end C of the 100mm diameter solid circular shaft which is
-simply supported at bearing:
+4. A. A shaft transmits 300 kW power at 120 r.p.m. Determine (a) the necessary diameter of solid circular
+shaft (b) the necessary diameter of hollow circular section, the internal diameter being 2/3 of the external
+diameter. The allowable shear stress is 70 N/mm?. Taking the density of material is 77 kN/m3, calculate
+the % saving in the material if hollow shaft is used. (oD
 
-s A and B. The shaft is made of steel having a modulus of
-elasticity of E = 200 GPa. :
+B. At a point in an elastic material under strain, there are normal stresses of 60 N/mm?and 40 N/mm?
+(both tensile) respectively at right angles to each other, with shearing stress of 20 N/mm?. Find (i)
+principal stresses and the position of principal planes, and (ii) maximum shear stress and its plane. (oS)
 
-12
+5. A. Asimply supported beam with an overhang (A B C), is supported at A & B and is loaded as shown in
+figure below. Determine the deflection at the free end and maximum deflection between A and B. take |=
+
+600 cm*and E=2 x 105 N/mm?. (ot)
+AKN
+
+a L.
+am 4
 --- page 3 ---
-rs ae 4
+B. Compare the weights of two beams of the same material and of equal strength, one being of circular
+6 7
+nal diameter being 3/4 of external.
 
-b) A spherical tank has an inner radius of r =
+(05)
 
-Pressure of p = 300kPa, determine its
+ural formula for bending stress in beam. (oD
 
-Stress is not to exceed 12 MPa
+section and solid and other being of hollow circular section, the in
 
-7 | Determine the principal stress and maximum shear stress using Mohr’
-element loaded as shown. Also specify the orientation of these to the
+6. A. Derive th
 
-1.5 m. if it is subjected to an internal
-required thickness if maximum normal
+B. A cylindrical steam boiler, 3m in diameter, is made of 25 mm thick mild steel plates. The efficiency of
+longitudinal riveted joint is 88 % and that of circumferential riveted joint is 70 %. Determine the
+permissible steam pressure if the maximum tensile stress in plate section through the rivets is not to
+exceed 120 N/mm. Also calculate (a) circumferential stress in the solid plate and (b) longitudinal stress
 
-s circle for an
-horizontal.
---- page 4 ---
-fagy. 4 4.
+in the plate section through the rivets. (05)
+
+7. A. Ata point in an elastic material under strain, there are normal stresses of 120 N/mm? and 60 N/mm?
+(both tensile) respectively at right angle to each other, with positive shearing stress of 30 N/mm?. Find
+using the Mohr’'s stress circle method, the principal stresses and maximum shear stress at the point. (08)
+
+B. A circular rod of 20 mm diameter carries a pull along a line which is parallel to the centroid axis at an
+eccentricity ‘e’, Determine the eccentricity ‘e’ of the line of pull from the centroid axis, if the maximum _
+stress is 20 % greater than the mean stress on the section normal to the axis. (oe
+
+3/5
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 0a14032ac550
@@ -11600,175 +12541,6 @@ Page 2 of 2
 
 06
 
-06
-
-06
-
-06
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 2fee2359e5dd
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2015-16 Re Exam_2fee2359e5.pdf`
-- Printed on paper: exam date: 11 July 2017
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATE#?SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2016-2017
-
-Program: B. Tech Integrated (Civil) Year:II | Semester:IV
-
-Batch: 2015-16 Maks Cee
-Time: @.08}5m to 5.00 pm)) =
-
-Subject: Strength of Materials
-Date : 11 July 2017 Duration’ firs DRAB “NG
-
-No. of eee
-RE - EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
--of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory( aay three)
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-4
-
-Q.1 (a) Derive relation among bending moment, shear force and rate of loading.
-(b) Define modulus of elasticity, bulk modulus and modulus of rigidity. State relation between them.
-(c) State assumptions made in theory of simple bending.
-(d) Determine maximum shear stress induced in a solid circular shaft of diameter 150 mm if it is
-
-subjected to shear force of 180 KN.
-
-Q.2(a) A shaft is rotating at 150 rpm and transmits a power of 300 kW. The diameter of the shaft is 100 mm
-and length of shaft is 1.5 m. Maximum torque is 25 % more than the mean torque. Determine the
-magnitude of maximum shear stress and angle of twist if G = 85 GPa.
-
-(b) A beam of T-section is having overall depth as 200 mm and flange width as 200 mm. The thickness °
-of flange as well as of web is 10 mm. If the section carries a shear force of 90 KN, calculate the shear
-
-stresses at various salient points along depth of section, @lso sketch the shear stress distribution
-
-across the section.
-
-Q.3 (a) AT section beam of span 5 m has a flange 125 mm X 12.5 mm and web 8 mm X 187.5 mm. If
-
-maximum permissible stress is 150MPa. Determine maximum u.d.l. the beam can carry.
-
-Yo
-
-04
-04
-04
-04
-
-06
-
-06
-
-06
---- page 2 ---
-a)
-
-Qa)
-
-(b)
-
-Q:5 (a)
-
-(b)
-
-Q.6 (a)
-(b)
-
-Q.7 (a)
-
-(b)
-
-Determine the support reaction at A and C when shaft ABC is axially loaded by.7 KN at B as:shown.
-Take E = 200 X 10° N/ mm’.
-
-Ane cmcemit Apc =SOmm
-
-rH   —elIrn
-
-toa . . is ._— ro
-/ ;———_IS
-_—_—_—__————_——_——______—_—_— X.
-
-[{2howmen 5 \BEOW yy :
-
-O,3T '
-
-Two mutually perpendicular planes of an element of material are subjected to tensile stress of 100
-N/mm? and compressive stress of 40 N/mm’ along with shear stress of 60 N/mm>. Determine
-analytically (i) Magnitude and direction of principle stresses and (iii) Magnitude of maximum shear
-stress along with its plane.
-
-A wooden beam 150 mm X 250 mm has a steel strap of 150 mm X 10 mm fixed at its bottom
-rigidly. The beam is subjected to sagging bending moment of 3 kN.m on horizontal axis. Determine
-the stresses in steel and wood. Take Es = 200 GPa and Ew = 10 GPa-
-
-A metal bar, 50 mm X 50 mm in section, is subjected to an axial compressive load of 500 kN. The
-contraction of a 200 mm gauge length is found to be 0.5 mm and the increase in thickness 0.04 mm.
-Determine Young’s Modulus, Poisson’s ratio and Modulus of Rigidity.
-
-Draw shear force and bending moment diagram for the beam shown in figure, indicating the salient
-points. morn fen etky
-RR | a id 4
-
-a q
-f 3m Lim 7G tm
-— A Pas
-
-i
-vas
-
-Derive an expression for the theory of simple torsion.
-The principal tensile stresses at a point across two perpendicular planes are 120 MN/m’tensile and
-60 MN/m’ tensile. Determine the normal and tangential stresses and the resultant stress along with
-
-its obliquity on a plane of 20°with the major principal plane by using Mohr’s circle.
-quity Pp p
-
-A steel tube 2.4 cm external diameter and 1.8 cm internal diameter encloses a copper rod 1.5 cm
-diameter to which it is rigidly connected at the two ends. If at a temperature of 10° C there is no
-longitudinal stress, calculate the stresses in the rod and the tube when the temperature is raised to
-200°C. Take Es = 210 GPa ; as =11 X 10°per °C ; Ecu = 100 GPa and acu =18 X 10%per °C.
-
-For rectangular section prove that maximum shear stress is 1.5 times average shear stress.
-
-2| 7
-
-06
-
-06
-
-06
-
-03
-
-09
-
-06
 06
 
 06
@@ -11955,217 +12727,134 @@ of the shell. Take poison’s ratio as 0.3 and E=2 X 10° N/mm?
 6
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper f34a79bd8832
+## 2015-16 · Re-Exam · Sem 3 · paper 5191fe030fc2
 
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/STRENGTH OF MATERIALS/Strength of Materials Batch 2015-2016 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 May 2017
-- Text: ocr (3 pages), mean OCR confidence 82.6
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/Strength of Materials Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 01/12/2015
+- Text: ocr (2 pages), mean OCR confidence 76.0
 
 ````text
-SVKM’S NMIMS gt tage
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & sACINEERING ‘s
+N~ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-aay Y
-Academic Year: 2016 - 2017 4 NY Le x JE
-Program: B. Tech Integrated (MECHANICAL) Year:If   SemestersIW wr
-Batch: 2015-16 Marks: 60 0 UE
-Subject: Strength of Materials Time: (10.00 am to 1.00 pm)
-Date : 13 May 2017 Duration:3 hrs
+Programme:MBA Tech (CIVIL) . Year:II. Semester: III.
 
-No. of Pages: “3
-RE - EXAMINATION
+Academic Year: 2015 - 16
 
-1) Question No. 1 is compulsory.
+Batch:2014-15
 
-2) Out of remaining questions, attempt any 4 questions.
-3) Each question carries 12 marks.
+Subject : Strength of Materials
 
-4) Figures on right hand side indicates full marks.
+Date :01/12/2015-
 
-5) Assume suitable data if necessary,
+Re-Examination
 
-Ql Attempt any four of the following (3 Marks each) , 12
-a State Hooke’s Law.
+Answer any four questions out of five questions.
 
-b What is Lateral strain? How the Lateral dimensions changes according to nature of
-force?
-c Draw SFD and BMD for the loaded beam as shown
+1. Define Bulk Modulus. Derive an expression for Young Modulus, in terms of bulk modulus
+and Poisson Ratio.
 
-w/unit length
+2. Derive the Torsion Equation -
 
-WL. L
-= Tw
+3. Derive flemiral Equation of Pure Bending, state assumptions made in it.
 
-d Draw the typical Stress strain diagram for mild steel.
-e Determine the slope and the supports of the beam AB and deflection at the centre,
+4, Derive the relationship between shear force, bending moment, rate of loading.
 
-30 KN
-ct
+5. What must be the length of a 5 mm diameter aluminum wire so that it cam be twisted
 
-A B
-a 2m ——»}
+" throtigh one coinplete revolution without exceeding a ghearing stress of 42MN/m’%, G = 27
 
-f What do you know by pure bending? also state assumptions made in simple bending.
+GNim.
 
-Q2 a A beam ABC is loaded as shown. The c/s of the beam is T-shaped as shown. Calculate 6
-the maximum value of load that can be applied safely if the allowed stresses in the
-material of the beam are 40 MPa in tension and 70 MPa in compression.
+Qa.” te]
+(a) Determine the support reaction when the member ABC is axially loaded by a 7 KN load at B as
+shown (EB =2x10°N/mm’) — ;
 
-P
-A 2 |
-ic 2m =| 1m a
-100 mm
-20mm
-80mm
-20
+03mm gap
+J B./> _
+A FZ KN
+. -
+/ - | Cc OY
+c/s 200mm? c/s 50mm?
+1=24m l-12m
+
+(6) ARGC cohima 30cm x 50 am is c/s is reinforced with 6 rods of stéel 22 mm in diameter. If the
+pemmissible stress in the steel and concrete are not to exceed 130N/cm? and 60N/cm?, find the safe
+maximum load the column can carry. If the length of the column is 4.5m what will be the change in
+the length. Es = 2 %10° Némm?, Ec = 1 10°N/mm? : -
+
+QQ.
+(a) A hollow circular shaft the outer diameter is 120 mm transmits 300 kW at 200 rpm. If the
+
+| maximum stress is not to exceed 60 N/mm/, find the maximum internal diameter. (G6 marks)
+(b)A flitched beam is made up of two timber joists each 10 cm wide by 24 cm deep with a,2 cm
+steel plate 15 cm deep placed symmetrically between them and firmly attached to both. The plate is
+
+ges recessed in to grooves cut in the inner faces of the joist so that the overall dimension of the built up
+section may be taken as 20 cm by 24 cm. E.=210GPa, Eam = 12 GPa. Find moment of resistance of
+the combined section when the maximum bending stress in the timber is 8 Mpa - (C€ marks) .
+
+Q4.
+
+(a) What do you-mean by “limit of eccentricity”? Derive an expression for core of section of ©
+circular and rectangular sections. . (3 marks)
+
+(B)A beam of 20 m length is supported on two intermediate props 42 m apart carries a udl of 6
+KN/m together with concentrated load of 30 KN at the left end Aand 50 KN at the right end B. The
+
+1/2
 --- page 2 ---
-Q3
+pris
 
-Q4
+props are so located that the reactions are same at each support. Determine the position of props and
 
-Q5
+draw SFD, BMD. Mark maximum BM, SF ( 9-marks)
+Qs ; s
+Find the principle planes arid principal stresses: ;
+I. Analytically - ; { € marks)
+I. Graphically - os (6 marks)
+| 30m
+| : } 40.NAnt |
+|
+| : 1 SON/m* |
+: |
+| ; /
+| @ +} 20Nm? |
+| |
+Q6.
 
-b_ A rigid block of weight W is supported by three symmetrically spaced rods. The bronze
-rods are 14 mm diameter, 300 mm in length and allowable stress is 90 MPa while steel
-rod is hollow with 20 mm and 16 mm being external and internal diameters respectively,
-500 mm in length and allowable stress is 120 N/mm’. Determine the safe maximum
-value of W which can be supported. Es=200 GPa and Eb= 80 GPa
+(a) A cylinder 3 m jong and dosed at ends having internal diameter im and. a wali thickness of 15
+mm. calculate hoop stress, long shear stress, stress induced and also change’ of diameter, length. and
 
-WwW
-Steel
-Va
-bronze ran
+volume if the internal pressure is 1.5 Mpa : ; ( 6'marks)
+(b)Find the deflection at E and slope at A : ( 6 marks)
+; 100Nia
 
-\G vn
-VMLLLLLLLS VIIVVITTT
+L/L : 200N
+“100Nm
+2 ; E
+( D .
 
-y R
+in 2m 3m
 
-4
+><. -d- 1 ¥.
+i) - ><. oe
 
-N
-LITTITTTTTATT AT
+Q7.
+Calculate and draw
 
-a A short vertical column is of rectangular section 40 cm X 30 cm. It carries a load 80 kN
-at a point 5 cm away from the centre of the section along one of the diagonals as shown
-in figure. Calculate the intensities of the stress at the corners of the column in plan.
+° Bending stress diagram (6 marks)
+° Shear Stress diagram (6! marks)
 
-A F B
-N I “
-7
-_
-ot vo
-a7?
-aaa == JZ _~_ |. 30cm
-aN
-7 ~*~
-rn
-f ' ‘Y
-7 | .
+All dimensions are Oe ae a,
+in mm | :
 
-b What is Mohr’s stress circle? How it is useful in solution of stress analysis problem?
+| - 20 |
 
-Draw SFD and BMD for the loaded beam as shown in figure and show the point of
-
-contraflexure.
-15kN
-20 KN
-~N a 5 kN/m | 20 kNm
-0
-A 30 (> SVE
-(a B “s oa
-
-Cc :
-"Te— 1m rhe 2m rle—1 me 1 m—
-
-A horizontal beam is loaded and supported as shown in figure. Determine
-i) Slope at A
-ii) Deflection at B
-iii) Slope at D
-
-Take E = 200 X 10°kN/m” and I= 20 X.10° m4
-
-20 KN 14 kN/m 10 KN
-15 kNm
-A B . vy yv x 2) y
-LEY E
-Look am Nt 2am on 4m wer 3m e
-< Bre bit >;
-7 !
-
-*b
-
-4
-
-12
-
-12
---- page 3 ---
-Q6 a Anelement in plane stress is subjected to stresses as shown in figure. 6
-Determine
-(i) Normal and tangential stress acting on plane AB.
-(ii) Principal stresses and their direction.
-(iii) | Maximum shear and its direction.
-
-4o,= 30 MPa
-ty215MPaé—-——__ a
-
-?
-7
-cd
-
-o,= 80 MPa 7 —~<60 6,= 80 MPa
-
-7
-a”
-
-Aap
-
-—|——> 1,=15MPa
-
-Vo, = 30 MPa
-
-b A450 kW power has to be transmitted at 100 RPM Find 6
-i. The necessary diameter of a solid circular shaft
-il. The necessary diameters of hollow circular section, inside diameter being %
-
-of the external diameter. Allowable shear stress = 75 N/mm”
-
-Q7 a Acement concrete block is tested in a compression testing machine by applying load P. 6
-It was observes that height AC decreased by 0.275 mm and side AB increased by 0.025
-mm. If E= 13 GPa, Determine
-i) Poisson’s ratio
-ii) Value of Force P
-iii) | Volumetric strain of the block
-
-P D
-1
-]
-A l
-{ 5 300
-1 mm
-I
-fr
-I
-H |
-re eee
-a “ &
-“ ¢
-we
-
-¢
-Cc
-ke 200 mm i
-P
-
-b Accylindrical shell one meter in diameter and 3 m long has a metal thickness of 10 mm. 6
-If it is subjected to an ia pressure of 3 N/mm’, Determine 6 L, 6 d and 6 v.
-
-Take E = 210 kN/mm’, — = 0.3
-
-3),
+Vor 2 KN -
+Ma Leu Kam | :.
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper 83a7fa351e99
@@ -12175,6 +12864,7 @@ Take E = 210 kN/mm’, — = 0.3
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/Strength of Materials Batch 2015-16 Re Exam.pdf`
 - Printed on paper: exam date: 10 June 2016
 - Text: ocr (3 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -12243,7 +12933,6 @@ in Figure (2). (06)
 
 6kKN
 8kNim gy oe]
-A c daw ED te B
 S Zz
 
 im im im im im
@@ -12332,6 +13021,269 @@ maximum deflection. Take Ix-x for the section = 7.33x107 mm* and E= 200 KN/ m’
 2 2K 2K ok
 
 Page 3 of 3
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper daf143426960
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/strength of Materials Batch 2013-14 Re Exam_daf1434269.pdf`
+- Printed on paper: exam date: 01/12/2015
+- Text: ocr (3 pages), mean OCR confidence 90.3
+
+````text
+/
+
+\
+
+4
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CIVIL) Year: II Semester: III
+
+Academic Year: 2015 - 16
+
+Batch:2013-14 - Zeger Ray .
+Subject :Strength of Materials anal” MPSTME YO %
+Time (2.80 pm pRQ0pm Js
+Date : 01/12/2015 Dura iors} U4, e/
+*
+
+Re-Examination * dan, AN
+ee teas is WINES
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB: — 1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Assume any other data, wherever not given, suitably but state and justify the same.
+7) Illustrate your answer with neat sketches wherever required.
+8) Figures in brackets on the right hand side indicate full marks.
+
+1. Solve any four questions out of six. (20)
+i) Explain the following:-
+a) Hooke’s Law.
+b) Factor of safety.
+c) Modulus of Elasticity.
+d) Bulk modulus. ~
+ii) A simply supported beam 6.5 m long carries a gradually varying load (UVL), Zero at
+end A to 1500 N/m at end B. Draw Shear Force and Bending Moment diagram for the
+Beam.
+iii) Two parallel walls, 8m apart, are to be stayed together by a steel rod of 30 mm
+diameter with the help of washer and nuts at the ends. The Steel rod is passed through the
+metal plates and is heated. When its temperature is raised to 90°C, the nuts are tightened .
+Determine the pull in.the bar When it is cooled to 24°C if (i)the ends do not yield (ii)the
+total yielding at the ends is 2 mm E= 205Gpa & coefficient of Thermal Expansion of
+steel equals to 11x 10°°/°C
+
+1/3,
+--- page 2 ---
+4,
+
+iv) A steel Bar of 25-mm diameter is acted upon by forces as shown if fig (\). What is the
+total elongation of the bar? Take E= 190Gpa
+
+F—2. —$FA—B
+> Boker SOKN
+
+—
+Go kx 20kN |
+
+v) Draw the Stress and Strain Curve for the Mild Steel and Explain Salient points on the
+Curve.
+
+vi) State the equation of the bars of the varying sections of Conical and Trapezoidal
+Section of uniform thickness
+
+A 100 mm x 40 mm I- Beam is Subjected to a shear force of 15 KN. Find the Transverse Shear
+Stress at the neutral axis and at the top of the web. Compare it with the mean stress on the
+assumption of uniform distribution over the web. What is the percentage of shear force carried
+by the web? Moment of inertia of the section is 1.1 x 10°mm*, web thickness is 3mm and flange
+thickness is 4mm
+
+a) A hollow steel shat transmits 200 Kw of power at 150 rpm. The total angle of twist in
+a length of 5 m of the shaft is 3°. Find the inner and outer diameters of the Shat if the
+permissible shear stress is 60 MPa. G=80 Gpa.
+
+a) A 12-m high masonry retaining wall of trapezoidal section has a width of 2 m at
+the top and 8 m at the bottom. The retaining surface is vertical and the wall retains
+earth which is level up to the top. Determine the maximum and minimum stresses at
+the base. The densities of the earth and the masonry are 14 kN/m> and 25 kN/m3
+respectively and the angle of repose of the earth is 30°
+
+b) Derive the flexural formula for a simply supported beam.
+
+a) A rectangular block is subjected to two perpendicular stresses of 10 Mpa tension and
+10 Mpa compression. Determine the stresses on planes inclined at (i) 30°, (ii) 45°,
+(iii) 60° with the plane of compressive stress.
+
+b) A circle of 200-mm diameter is drawn on a mild steel plate before it is subjected to
+two mutually perpendicular stresses of 160 Mpa and 40 Mpa along with a shear stress
+of 60 Mpa. After stressing, the circle on the plate deforms to an ellipse. Determine
+the lengths of the major.and minor axes of the ellipse and their directions. E= 205Gpa
+and Poisson ratio = 0.3
+
+2/3
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+(10)
+
+(10)
+--- page 3 ---
+y Accylindrical shell 3 m long which is closed at the ends has an internal diameter of | (10)
+m and a wall thickness of 15 mm. Calculate the circumferential and longitudinal
+stresses induced and.also change in the dimensions of the shell if it is subjected to an
+internal pressure of 1.5 MN/m?.
+
+b) Draw SFD & BMD for a beam as shown in figure (2)
+
+40N
+
+20 N\ en (8)
+
+jon\ay
+
+dy L ;
+bp begen © SMD 3m aebp
+
+6. A simply supported beam of 8-m span carries two point loads of 64 KN and 48 KN at 1 (10)
+m and 4 m respectively from the left hand end. Find the deflection under each load and
+the maximum deflection. E = 210 GPA and I = 180x 10° mm‘
+b) A 2 m long cantilever made of steel tube of section 150mm external diameter and 10 (10)
+mm thick is loaded as shown in fig (). If E= 200 GN/m2 Calculate: (i) The maximum
+valve of W so that the maximum bending stress is 150 MN/m2; (ii) The maximum
+deflection of the loading.
+
+7. a) A 20 m long Girder carrying a U.D.L of w kn/m is to be supported on Two piers that (12)
+are 12 m apart in such a way that the maximum B.M is as small as possible. Determine
+the distance of piers from the ends of the girders and maximum B.M Draw the S.F and
+B.M diagrams.
+
+b) Calculate SFD and BMD for the following beam (08)
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper 4b1ba5347de3
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/Strength of Materials Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
+- Text: ocr (2 pages), mean OCR confidence 83.7
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+; MORESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+/ Programme: MBA Tech (Mechanical) Year: II Semester: IV
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Strength of Materials . Marks: 60
+Time: 2.00 pm - 5.00 pm
+Date: 14/05/2016 Durations: 3 (hrs)
+Re-Examination Ne
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB: 1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.1 Draw the Axial Force Diagram, Shear Force Diagram and Bending Moment Diagram. 12M
+
+60kNim
+20kN \
+
+: 5 kN/m
+| E¥
+> oe
+fo 1m —a}e-2.5 m —e}e— 3 m—ofe— 0.5 m—2ke— 3m —
+.2. a) The stress at a point in a component are 100MPa (tensile) and 50 MPa (Compressive). Determine
+
+the magnitude of the normal and shear stresses on a plane inclined at an angle of 250 with tensile stress.
+Also determine the direction of the resultant stress and the magnitude of the maximum intensity of shear
+
+stress. 6M
+Q.2 b)A cross section of a Simply Supported Beam ke 70o— > t
+carries a 200kNm Sagging Bending Moment. If the is
+cross section of the beam is as shown in the figure, =
+find the force resisted by lower flange and bending __, jig. 80
+moment resisted by Upper flange. x
+
+om = | =—™)>
+
+be— 120 >] #
+
+Q.3 a) Derive Flexure Formula for Simple Theory of Bending. 5M
+b) A Simply Supported Beam 5m length carries _ 215
+a Uniformly Distributed Load of 10kN/m ao]
+throughout its length and also carries an
+additional load of 25KN at its center. If the Cross 35 180
+Section is as shown in the figure, draw the Shear . ;
+stress Distribution diagram at the cross section 20
+carrying Maximum Shear Force. 250 (7™)
+
+{/
+
+(2.
+--- page 2 ---
+Q.4 For the beam shown in the figure, find the slope and deflection at point B, C and D. Find the
+
+maximum deflection. (12M)
+-90 kN/im
+2OkN L
+Lor 5kN/m |
+A. By f D =e
+
+
+Q.5 a) A solid aluminium shaft 1m long and of 50 mm diameter is to be replaced by a hollow shaft of the
+same length and same outside diameter, so that the hollow shaft could carry the same torque and has the
+same angle of twist. What must be the inner diameter of the hollow shaft? Take Modulus of rigidity for
+the aluminium as 28 GPa and that for steel as 85GPa. (6M)
+
+b) A cylindrical shell vessel 1.8m long 800 mm in diameter is made up of 8 mm thick plates. Find the
+hoop and longitudinal stresses in the vessel, when it contains fluid under a pressure of 2.5 MPa. Also find
+the changes in length, diameter and volume of the vessel. Take E = 200GPa and Poisson’s ratio is 0.3
+(6M)
+
+Q.6 a) Describe the Stress-Strain Curve for Ductile and Brittle Material in detail. (6M)
+b) A rectangular pier is 1500 mm x 1000 mm is }— 1500 —
+subjected to a compressive load of 450 KN as 7 pa ae 7 =i) |
+shown in the figure. Find the stress intensities in del. _- 250-21 hog
+the four corners of the pier. eg ai i
+(6M) point, t {4
+A
+
+Q.7 a) A load of 270 KN is carried by a short concrete column of 250 mm x 250 mm in size. The column
+is reinforced with 8 bars of 16 mm diameter. Find the stresses in in concrete and steel, if the modulus of
+elasticity for the steel is 18 times that of concrete. If the stress in concrete is not to exceed 5 MPa, find the
+area of steel required, so that column may carry a load of 500 KN. (7M)
+
+Q.7 b) Derive the expression for self elongation of a rod under its own weight. (5M)
+
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 457852975217
@@ -12747,6 +13699,7 @@ Ko
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/Strength of Materials Final Exam 2014-15.pdf`
 - Printed on paper: max marks: 100; exam date: 01/12/2014
 - Text: ocr (3 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 7 SVKM’s NMIMS
@@ -12815,7 +13768,6 @@ a) Draw a shear force and bending moment diagram for the simply supported beam a
 shown in the figure
 Yon din en
 |
-AN im © in Im, im ®
 b) Draw the shear force bending moment diagram for the overhanging beam 10 m long as 10
 shown in the figure. The beam is having two supports with same value. Find the distance
 between AC and BD and also locate the point of shear and point of contra flexure.
@@ -12885,6 +13837,7 @@ E=2x10°n/mm? and I= 85x10°mm’*. ; : |
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/STRENGTH OF MATERIALS BATCH 2014-2015 FINAL Exam.pdf`
 - Printed on paper: exam date: 15/05/2015
 - Text: ocr (2 pages), mean OCR confidence 84.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -12959,7 +13912,6 @@ EI = 70,000 kNm’. (12M)
 e SkN/m
 A Orv
 as pons hy
-a lm sis 3m ee Tm he DI. im -
 
 Q.5 a) Find the maximum torque, that can be safely applied to a shaft of 80 mm diameter. The permissible
 angle of twist is 1.5° in a length of 5m and shear stress not io exceed 42 MPa. ‘Take G> 84 GPa. (6M)
@@ -12995,6 +13947,207 @@ Q.7 b) Explain the construction and utility of Mohr’s circle for a body subjec
 mutually perpendicular directions accompanied by a Simple Shear stress. (5M)
 
 2/2
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 448a65bf1bda
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS B TECH (CIVIL) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 28/11/2014
+- Text: ocr (4 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: II Semester: IIT
+
+Batch: 2013-2014
+Academic Year: 2014-2015
+
+Subject: Strength of Materials
+Marks: Stan \%
+Date: 28/11/2014 Time: Een Ups
+Durations: HS) J tS ig
+Gi KY
+Re-Examination KZ ts “wen ra
+
+~~ ae
+
+INSTRUCTION: Candidates should read carefully the instructions printed on
+the question paper and on the cover of the answer book, which is provided for
+the use.
+
+NB: 1) Question No. 01 is compulsory.
+2) Out of remaining questions, attempt any 04 questions.
+3) In all 05 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+§) Figures in brackets on the right hand side indicate full marks.
+Q.1 Attempt any five
+
+(a) Draw SFD and BMD for two standard cases of simply supported (04)
+beam with point load.
+
+(b) For a tension test on 20 mm diameter bar the . following
+
+observations were recorded for an axial pull of: 100KN. (i) 08
+Elongation of 0.29 mm over 100mm gauge length. (ii)
+Reduction in diameter of 0.016mm. Calculate Poisson’s ratio and
+modulus of elasticity.
+(c) State assumptions made in the theory of simple bending. (04)
+(d) Derive shear stress equation. : (04)
+(e) State any four assumptions for theory of pure torsion. (04)
+
+(f) Define kernel of a section and derive core of circular section for (04)
+no tension condition.
+
+(g) A 12mm diameter bar is subjected to a pull of 12KN. Calculate the
+
+Wy
+--- page 2 ---
+Q.2
+
+Q3
+
+normal and tangential stresses on planes making angle of 5° and
+37° with the axis of the bar.
+
+(h) A cantilever of span 3.5m carries a point load at the free end. If
+the maximum slope at the free end is 1°, determine the maximum
+deflection in mm.
+
+(i) The compressed air cylinder 1.4m internal diameter and 20mm
+thick is subjected to internal pressure of 1.6 MPa. Calculate the
+change in diameter. Take Poisson’s ratio = 0.28 and E = 2 x 10°
+MPa.
+
+(a) Draw the Shear force and Bending Moment diagrams for the
+following beam.
+
+20 FA Inn 4oky
+A ( c
+
+5m™ 3m
+
+ant?
+
+(b) A steel bar ABCD 4 m long is subjected to the forces as shown in fig.
+2. Diameter of the bar AB and CD is 15 mm where as diameter of bar BC
+is 20mm.Find the elongation of the bar. Take E= 200 GPa.
+
+A B Cc D
+20 KN SKN 16 KN 25 KN
+— a -——>
+
+lm 2m lm
+
+(a) A cast iron beam section is of I section with a top flange 80mm x
+20mm thick, bottom flange 160mm x 40mm thick and the web 200mm
+deep and 20mm thick. The beam is freely supported on a span of 5
+meters. If the tensile stress is not to exceed 20 N/mm”, find the safe
+uniformly distributed load which the beam can carry. Find also the
+maximum compressive stress.
+
+3/4
+
+(04)"
+
+(04)
+
+(04)
+
+(10)
+
+(10)
+
+(10)
+--- page 3 ---
+Qa
+
+Q.5
+
+Q.6
+
+(b) A simply supported beam of rectangular section is 200mm wide and
+300mm deep. It supports a uniformly distributed load of 6 KN/m over an
+effective span of 4m. Calculate the magnitude and direction of the
+principal stresses at a point located 0.50m from the left support and
+50mm above the neutral axis.
+
+(a) An I section beam carries a UDL of 20 kN/m over its entire span
+length of 3m. The beam section carries its upper flanges 90mm x 10mm,
+web 120mm x 10mm and lower flange 120mm x 15mm. Determine the
+shear stress distribution at important locations of the cross section and
+show the shear stress distribution.
+
+(b) Derive the the expression:
+
+(a) A short vertical column is of rectangular section 40cm x 30cm. It
+carries a load 80kN at a point Scm away from the centre of the section
+along one of the diagonals. Calculate the intensity of stress at the corners
+of the column in plan.
+
+(b) For the beam shown in fig. calculate deflection at point C, maximum
+deflection and slope at end A. Take E= 2 x10° N/mm” and I = 2000
+em‘ solve by Macaulay’s method.
+
+Sey c *Kilm
+A D =
+
+am —+* Im —_}— 3m
+
+B
+
+(a) A point in an elastic material carries mutually perpendicular direct
+stresses of 180 MPa and 60 MPa, both tensile. It also carries a shear stress
+of 103.92 MPa. Using Mohr’s circle (i) Determine the normal, tangential,
+resultant stresses on the plane passing through the point at an angle of 40°
+to the plane of 180 MPa. Determine the obliquity of the resultant stress.
+(ii) Locate the principal planes and determine the principal stresses.
+
+(10)
+
+(10)
+
+(10)
+(10)
+
+(10)
+
+(10)
+--- page 4 ---
+Q.7
+
+(b) A steel rod 32mm in diameter is fixed concentrically in a brass tube
+which has outside and inside diameters of 48mm and 34mm respectively.
+Both the rod and the tube are 400mm long and their ends are level. The
+compound rod is held between two stops which are exactly 400mm apart
+and the temperature of the bar is then raised by 60° C. (i) Find the stresses
+
+_ in the rod and tube if the distance between the stops is increased by
+
+0.25mm. (ii) Find the increase in the distance between the stops if the
+force exerted between them is 80 kN.
+
+Take E, = 2 x 10° N/mm’, Ey = 0.9 x 10° N/mm’, a, = 1.2 x 10° per °C,
+Op» = 2.1 x 10° per %.
+
+(a) Derive the expression for the stresses in thin spherical shell.
+
+(b) A hollow rectangle section beam is simply supported at its ends and
+carries a u.d.l. over the entire span length. The beam length is 6m and the
+cross section dimensions are 100mm x 200mm outside and 80mm x
+180mm inside. If the maximum permissible stress is 120 MPa, determine
+the maximum u.d.l. which the beam can carry. Neglect the self weight of
+the beam.
+
+(10)
+
+(10)
+
+(10)
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 0afb680dc0fe
@@ -13121,178 +14274,249 @@ ess on the plane of
 Sf,
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper 0e82b013297f
+## 2014-15 · Re-Exam · Sem 3 · paper 07d9759e37fe
 
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/STRENGTH OF MATIRIALS B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 27/11/2015
-- Text: ocr (3 pages), mean OCR confidence 87.7
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS B TECH (MECH), 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 05/12/2014
+- Text: ocr (2 pages), mean OCR confidence 87.8
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Civil) Year: II Semester: III
-Batch: 2014-2015
+Programme: B. Tech (MECH) Year: I Semester: III
+Batch: 2013-2014 :
 
-Academic Year: 2015-2016
+Academic Year: 2014-2015
 
-A gsi STE DF a :
+A sgit¥¥E aF 2,
 
-lf a? ¥ — TAN
-Subject: Strength of Materials rs, i Ae,
-wf ge STMB YS
+Subject: Strength of Materials £ 6
+Marks: R00 MPSTME |
 
-Marks: 0 2 <r Wk
-Date: 27/11/2015 Time: 10,00{atn +8 T.60%p ps ;
-Na oY
+Date: 05/12/2014 Time: 40 .d0lameta ROP iE.”
+Durations: s) SF A F
 
-Duration: 3 (f SF,
-Fe S Ora ed
-—
+ea wan
+a ee
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. In all 5 questions to attempted.
-4, All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
 
-Q.1) | Attempt any FGUR
+1) Question No. _1_ is compulsory.
 
-{2
-a) Derive the relationship between shear force and bending moment. 3
-b) | Asteel bar 2m long and 40mm in diameter is subjected te en axial pull of 2
+2) Out of remaining questions, attempt any __4 questions.
 
-| 80kn.find the length of the 20mm diameter bore, which should be centrally
-| carried out. So that the total elongation should increase by 20% under the same
-pull. Take E for the bar material as 200 Gpa.
-c) A circular beam of 100mm diameter is subjected to a shear force of Skn. 3
-Calculate the average shear stress, maximum shear stress and shear stress at a
-[ distance of 40mm from N.A.
-a) A Vessel I the shape of a spherical shell of 1.20m internal diameter and 12mm a
-shell thickness is subjected to pressure of 1.6n/mm2. Determine the stress
-induced in the material of the vessel.
-e) A cantilever of length 3m carries a uniformly distributed load of 10kn/m over a a
-length of 2m from the free end. Take E= 2x 10° n/mm? and I= 10°mm*. Find the
-deflection at free end.
+3)Inall_5 questions to be attempted.
 
-Q.2) | Solve
-{2
-a) A Steel bar is 960mm Jong and its two ends are 40mm and 30mm in diameter 6
-and the length ofeach rod is 20Gmm. The middle portion of the bar is iSmm in
-diameter and 500mm long. If the bar is subjected to an axial tensile load of JSkn.
-find its total extension. Take E = 200 Gn/m’.
+4) All questions carry equal marks.
 
-1/3
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Qi—Figure 1 shows a loaded beam.Draw the SFD and BMD for the beam.Calculate the value
+
+ofthe maximum B.M and the point where it occurs.Determine the point of contraflexure. 20
+: 6 KN BEN ; 2EN
+[iz . ° |
+A D B £
+[Sma pE— 159 HE 24n—9
+Q2-(a) Prove with the usual notation that as per the theory of bending,
+M=E = 6 :
+\ R y 08
+
+( b)Calculate the dimensions of the strongest rectangular section that can be cut from a circular
+
+wood of diameter 25 cm .What will be the longest span of this beam if it is to carry
+
+log of
+0 10 N/sq.mm?What will be
+
+aU.D.L of 2500 N/m and maximum bending stress is limited t
+
+the longest span if the circular log itself is used asa beam? 12
+
+Q3 (a)Derive with the usual notation the following equation for torsion, 03
+
+ke £ = jmax = GO
+J r R L
+
+cted to a torque of 45000 N-m.The angle of twist and the
+
+(b)A solid steel shaft is subje
+10 N/sq.mm 12
+
+maximum shear stress should not exceed 0.5 degrees per metre length and 9
+respectively.Calculate—
+1)Suitable diameter of shaft
+2)Final maximum shear stress and angle of twist for the diameter calculated above
+3)Maximum shear strain‘in the shaft.
+Take shear modulus G= 80,000 N/sq.mm 4/2.
 --- page 2 ---
--
+Q4 (a) The principal stresses at a point across two perpendicular planes are 75 N/sq.mm(Tensile) 08
+and 35 N/sq.mm(Tensile).Find the normal,tangential and resultant stresses ona plane
+at 20 degrees to the major principal plane using Mohr’s circle.
+Q4(b)Direct stresses of 120 N/sq.mm in tension and 90 N/sq.mm in compression are applied to 12
+an elastic material at a certain point on planes at right angles to each other.If the maximum
+principal stress is not to exceed 150 N/sq.mm in tension,what is the shear stress that can be
 
-bey A rod of steel is 26m long at a temperature of 20°
-rature is raised to 65°c. Find the temperature stress
+applied?What is then the maximum shearing stress? Find also the inclinations of the
+principal stresses.
 
-L_
+Q5(a)Derive using the normal notation,the formula for the shear stress at a height of ‘a’ from the 08
+N.A on the cross-section of a beam.
+Q5(b)An I-section beam 340mm by 200 mm_has web thickness of 10 mm and flange thickness 12
 
-rod, when the tempe
+of 20 mm.It carries a shearing force of 100 KN.Draw the shear stress diagram and find the
+maximum shearing stress.
 
-produced (i) when the expansion of the rod is
+Q6 (a)A square chimney 24 m high has an opening of 1.25 m by 1.25 m inside.The external 10
+dimensions are 2.5 m by 2.5 m.The horizontal intensity of wind pressure is 1.3 KN/sq.m
+and the specific weight of masonry is 22 KN per cubic metre.Calculate the maximum
+and minimum stress intensities at the base of the chimney.
 
-c. Find the free expansion of the
+Q6(b) A cylindrical shell 3m long,closed at the ends, has an internal diameter of lm andawall 10
+thickness of 15 mm.Calculate the circumferential and longitudinal stresses induced
+and also the change in dimensions of the shell if it is subjected to an internal pressure
+of 1.5N/sq.mm. E=200 GN persq. metre and 1/m = 0.3
 
-prevented (ii) when the rod is
-8mm. Take a = 12x 10 © per °c and E=2x 10° p/mm?
+Q7(a)A beam AB of span 8m is simply supported at its ends.It carries a U.D.L of 30 KN/m 10
+over its entire length and a concentrated load of 60 KN at 3m from the support A.
+Determine the maximum deflection in the beam and its location.
 
-6
+E =200 GN per sq.metre
+M.I for beam section = 800,000 cm‘
 
-permitted to expand by 5.
+Q7(b)A copper rod of 40 mm diameter is surrounded tightly by acast irontube of80mm 10
 
-ie]
+external diameter ,the ends being firmly fastened together.When put to a compressive
 
-Q.3) | Solve
-a) Draw a shear force and bending moment diagram for the simply supported
-beam as shown in the figure
-ad thn =
-| L
+load of 30 KN ,what load will be shared by each?Also determine the amount by which the
+bar shortens if it is 2m long.
 
-tel = FT . aT 7 -
-Pd
+E for C.1=175 GN per sq. metre
+E for Copper = 75 GN persq. metre
 
-b)
+Ye
+A= ;
 
-Draw the shear force bending moment a
+sla
+````
 
-| shown in the
+## 2014-15 · Re-Exam · Sem 3 · paper c84a197647f4
 
-yment am for the overhanging beam as
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS B TECH (MECH), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 87.4
 
-25_NM
+````text
+\ SVKM’s NMIMS
 
-Coe ess
+» MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Pri :
+ogramine: B. Tech (MECH) Year: II Semester: III
+Batch: 2013-14
+Academic Year: 2014-2015 ~~ ANTE OF Rag, a,
+Subject: Strength of Materials Ji Zsa ey *
+ro,
+, Marks: 100 S$, a ; %,
+| Date: . f 3
+ate 12/06/2015 Time: 2.00 Hinde 5. 00 ‘pa tes ve
+Durations: 3 (hrs}\ @\ ° ») eS
+SN ah i
+Re-Examination Sa Hen
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+NB:
+1) Question No. one is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to cach new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks
+1. A. Explain the term biaxial stress. Berive the expression for normal stresses on planes inclined to the
+main axis. (4)
+B. What is Mohr’s stress circle? How it is useful in solution of stress analysis problems? {4}
+C. Establish the relation to show variation of shear stress across rectangular section. [4]
+D. Draw a typical stress-strain diagram for mild steel. Using the diagram define proportional limit, clastic
+limit, yield stress, ultimate stress and failure stress. {4}
+E. State various assumptions made in deriving torsional formula. 14)
+2. A.A circular bar A B C D is rigidly fixed at A and D and is subjected to axial force as shown
+Determine the reactions, the force in each portion of the bar and the displacement of point B and
+£=200 kN/mm?.
+c D
+R fa —
+aig BORN a
+{1860 mne 2g eue" 4
+r 1-3rn ‘ 2m ;
+ae
+ais B. The cross section of a joist is a T — section, 100 mm x150 mm x 20mm with 106 mm side horizontal.
+Sketch the shear stress distribution if it has to resist a Shear force of 100 kN. 110}
+ee oo a
 
-figure and aiso locate the point of shear and point of contra Hexure.
+[
+--- page 2 ---
+moment diagram indicating principal values.
 
-1.5m!
+SFO KN '
+dokn|m QoKNM
+a stub” dh ody th ox 8
+<p Ee
+aT 4m KM im |
+mm
 
-4
-poe £
+B. A square column of size 200 mm x 200 mm is subjected to an axial load of 200 kN. in addition to this a
 
-[ Q.4)
+load of 20 kN is acting at an eccentricity of 20 mm about both x-x axis and y-y axis. Find stresses at all the
+four corners. {8]
 
-Solve
-a Derive the bending equation for a beam 6
-b) A rectangular beam 20mm deep and 300mm wide is simply supported over a 6
-span of 8m. What uniformly distributed load per meter the beam may carry, if
-the bending stress is not to exceed 120 n/mm’.
-Q.5) | Solve
-cL (2
-| a) A simply supported wooden beam of span 1.3m having a cross section 150mm 6
-: wide and 250mm deep carries a point load W at the centre. The permissible
-stresses are 7n/mm/ in bending and 1n/mm? in shearing. Calculate the safe load.
-b) A solid steel shaft has to transmit 75kw at 200rpm. Taking allowable stress as 6
+4. A. A shaft transmits 300 kW power at 120 r.p.m. Determine (a) the necessary diameter of solid circular
+shaft (b) the necessary diameter of hollow circular section, the inside diameter being 2/3 of the external
+diameter. The allowable shear stress is 70 N/mm?. Taking the density of material is 77 kN/m*, calculate
+the % saving in the material if hollow shaft is used. {12]
 
-70n/mm2, find suitable diameter for the sha
-ted at each revolution exceeds the mean by 30%.
+B. Ata point in an elastic material under strain, there are normal stress of 60 N/mm*and 40 N/mm? (both
+tensile) respectively at right angles to each other, with positive shearing stress of 20 N/mm”. Find {i}
 
-transmit
+principal stresses and the position of principal planes, and (ii) maximum shear stress and its plane. [8]
 
-ft, if the maximum torque
+5. A. A simply supported beam carries a load varying from w1/m at left end to w2/m at the right end. Find
+the slope at the supports. If L=9 m, w1=20kN/m, and w2=40 kN/m, find the slope at the ends and position
+and magnitude of maximum deflection. E=200 GN/m? and I= 12000 cm’. (12]
 
-2/3
+mim TITEL I LT [te
+k L a
+
+B. A cast iron pipe has 300 mm bore and 10 mm metal thickness, and is supported at two points 8m
+apart. Find the maximum stress in the metal when it is running full. Take unit weight of the cast iron as
+70 kN/m? and that of water as 9.81 kN/m?. 1g}
+
+6. A. Derive differential equation of the deflection curve of beam. [12]
+
+B. A steam boiler, 3m in diameter, is made of 25 mm thick mild steel plates. The efficiency of longitudinal
+riveted joint is 88 % and that of circumferential riveted joint is 70 %. Determine the permissible steam
+pressure if the maximum tensile stress in plate section through the rivets is ‘not to exceed 120 N/m?
+
+ee Also calculate (a) circumferential stress in the solid plate and (b) longitudinal stress in the plate section
+through the rivets. {8]
 --- page 3 ---
-Q.6) | Solve
-{2
+7. A. Ata point in an elastic material under strain, there are normal stresses of 60 N/imm* IN/
 
-a) A masonry retaining wall of trapezoidal section is 10m high and retains earth 6
-which is level up to the top. The width at the top is 2m and at the bottom 8m and
-the exposed face is vertical. Find the maximum and minimum intensities of
-normal stress at the base. Take density of earth= 1600kg/m’, density of
-masonry= 2400kg/m*, angle of repose of earth =30°.
-b) At a certain point in a strained material, the intensities of stresses on two planes 6
-at right angles te each otier are 26 n/mmZ and 16n/mmi2 both tensile. They are
-| accompanied by a shear stress of magnitude 10n/mm2. Draw Mohr’s circle and
-evaluate principle stresses and locate principle planes.
+(both tensile) respectively at right angle to each other, with positive shearing stress of 20 N/mm. Find
+using the Mohr’s stress circle method, the principal stresses and maximum shear stress at the point. [12]
 
-Q.7) | Salve
-, [2
-a) A cylindrical vessel is 1.5m diameter and 4m long is closed at ends by rigid G
-: plates. It is subjected to an internal pressure of 3n/mm2. If the maximum
-:'@ principal stress is not to exceed 150n/mm2, find the thickness of the shell.
-Assume Take E= 2x10°n/mm’. Poisson’s ratio= 0.25. Determine the change in
-diameter, change in length and change in volume.
-d at its end and carries two point loads of 6
-
-b) ‘A beam of length 6m is simply supporte
-40kn ata distance of 4m from the left support. Find the deflection under the load
-
-and maximum deflection. Also calculate the point at which maximum deflection
-takes place. Given M.O.I of beam = 7.33 x 10 7mm‘ and E= 2x10°n/mm? ‘|
+B. A short C.I. column of hollow circular section is attached with a projection bracket carrying a load of
+100 kN. The load line is off the axis of the column by 200 mm. Find the maximum and minimum stress
+intensities in the column if it has an external diameter of 200 mm and internal diameter of 150 mm. [8]
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 07ce3097dd3c
@@ -13302,6 +14526,7 @@ takes place. Given M.O.I of beam = 7.33 x 10 7mm‘ and E= 2x10°n/mm? ‘|
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS B TECH (MECH), BATCH 14-15 RE EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 12/06/2015
 - Text: ocr (2 pages), mean OCR confidence 82.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -13364,7 +14589,6 @@ respectively, find the safe load that can be supported. Young’s modulus for st
 200 GPa and for copper 100 GPa.
 
 EF 2smmct y 25mm x15 mm
-e x 2Z5mM Z) a . ; Y
 
 .é) ZOmm
 
@@ -13447,135 +14671,6 @@ A Cc Dp
 am 6§5m™ 465m
 
 os
-````
-
-## 2014-15 · Re-Exam · Sem 3 · paper bab5eef7cec7
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENNGTH OF MATERIALS B TECH (MECHANICAL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 04/12/2015
-- Text: ocr (3 pages), mean OCR confidence 88.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Mechanical) Year: II Semester: III
-Batch: 2014-2015 Pen
-Academic Year: 2015-2016 “gests on “
-ee! 73
-: A Vig
-Subject: Strength of Materials il aX
-Marks: 60 MPSTME :
-Date: 04/12/2015 Time: 10. ARO RY ie
-Duration: 3 (hr od 4
-a Care Yo
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-NB: ,
-1) Question No. one is compulsory.
-2) Out of remaining questions, attempt any four questions.
-=. 3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-1. Attempt any four of the following:
-A. State various assumptions made in deriving torsional formula. (¢5)
-
-B. What are statically determinate and statically indeterminate beams? Hence classify following beams
-
-(1) cantilever (2) simply supported (3) fixed beam (03)
-C. Establish the relation to show variation of shear stress across rectangular section. (03) ,
-D. What are elastic constants? State various elastic constants with their expressions. (03)
-
-E. Which one is more economical among the circular, rectangular and | sections for beam having the same
-. . hy? a
-weight per meter length and why (e 3)
-
-2. A. A circular bar A BC D is rigidly fixed at A and D and is subjected to axial forces as shown in fig.
-
-4
-Determine the reactions Ri and R2, the force and stresses in each portion of the bar and change in length
-of each portion. Take E=200 kN/mm?, (08)
-c BD
-A 8 R
-& 5 ich A
-‘9 ackw— _ ee a &
-Gas ant isd0mm= | 2000mmE |
-fom 1s Sm — Hh am of— Sim —+4
-ssaaaiiieail
-pai B. The cross section of a joist is a T—section, as shown in figure belowf Sketch the shear stress distribution
-
-across the depth if cross section has to resist a shear force of 200 kN. C06)
---- page 2 ---
-3. A. A simply supported beam with overhang ends carries loads as shown in fig. If W=Lw, what is the
-overhang length on each side such thet the bending moment at the middle of the beam is zero. Sketch
-shear force and bending moment diagram indicating principal values. (07)
-
-|
-c .
-i)
-od _——— et
-bene ol
-
-ne L+26 ;
-
-B. A rectangular column of size 300 mm x 600 mm is subjected to an axial load of 400 kN. In addition to
-this a load of 50 kN is acting at an eccentricity of 40 mm about both x-x axis and y-y axis. Find stresses at
-
-all the four corners. (05)
-
-4. A. A shaft transmits 300 kW power at 120 r.p.m. Determine (a) the necessary diameter of solid circular
-shaft (b) the necessary diameter of hollow circular section, the internal diameter being 2/3 of the external
-diameter. The allowable shear stress is 70 N/mm?. Taking the density of material is 77 kN/m3, calculate
-the % saving in the material if hollow shaft is used. (oD
-
-B. At a point in an elastic material under strain, there are normal stresses of 60 N/mm?and 40 N/mm?
-(both tensile) respectively at right angles to each other, with shearing stress of 20 N/mm?. Find (i)
-principal stresses and the position of principal planes, and (ii) maximum shear stress and its plane. (oS)
-
-5. A. Asimply supported beam with an overhang (A B C), is supported at A & B and is loaded as shown in
-figure below. Determine the deflection at the free end and maximum deflection between A and B. take |=
-
-600 cm*and E=2 x 105 N/mm?. (ot)
-AKN
-
-a L.
-am 4
---- page 3 ---
-B. Compare the weights of two beams of the same material and of equal strength, one being of circular
-6 7
-nal diameter being 3/4 of external.
-
-(05)
-
-ural formula for bending stress in beam. (oD
-
-section and solid and other being of hollow circular section, the in
-
-6. A. Derive th
-
-B. A cylindrical steam boiler, 3m in diameter, is made of 25 mm thick mild steel plates. The efficiency of
-longitudinal riveted joint is 88 % and that of circumferential riveted joint is 70 %. Determine the
-permissible steam pressure if the maximum tensile stress in plate section through the rivets is not to
-exceed 120 N/mm. Also calculate (a) circumferential stress in the solid plate and (b) longitudinal stress
-
-in the plate section through the rivets. (05)
-
-7. A. Ata point in an elastic material under strain, there are normal stresses of 120 N/mm? and 60 N/mm?
-(both tensile) respectively at right angle to each other, with positive shearing stress of 30 N/mm?. Find
-using the Mohr’'s stress circle method, the principal stresses and maximum shear stress at the point. (08)
-
-B. A circular rod of 20 mm diameter carries a pull along a line which is parallel to the centroid axis at an
-eccentricity ‘e’, Determine the eccentricity ‘e’ of the line of pull from the centroid axis, if the maximum _
-stress is 20 % greater than the mean stress on the section normal to the axis. (oe
-
-3/5
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 6ed87452ba58
@@ -13721,134 +14816,378 @@ b) Derive the Shear Stress Distribution Formula at any distance y from the Neutr
 3 /3
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper 5191fe030fc2
+## 2014-15 · Re-Exam · Sem 3 · paper c37b53be2676
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/Strength of Materials Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 01/12/2015
-- Text: ocr (2 pages), mean OCR confidence 76.0
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/STRENGH OF MATERIALS BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 10/06/2015
+- Text: ocr (3 pages), mean OCR confidence 90.4
 
 ````text
-N~ SVKM’s NMIMS
+_SVEM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (CIVIL) . Year:II. Semester: III.
+Programme:MBA Tech (CIVIL) Year: II Semester: III
+Academic Year: 2014-15 set
+Batch:2013-14 tT OF ty
+eo von ‘
+Subject :Strength of Materials if Beeis100
 
-Academic Year: 2015 - 16
-
-Batch:2014-15
-
-Subject : Strength of Materials
-
-Date :01/12/2015-
-
+Date : 10/06/2015
 Re-Examination
 
-Answer any four questions out of five questions.
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
-1. Define Bulk Modulus. Derive an expression for Young Modulus, in terms of bulk modulus
-and Poisson Ratio.
+NB: — 1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Assume any other data, wherever not given, suitably but state and justify the same.
+7) Illustrate your answer with neat sketches wherever required.
+8) Figures in brackets on the right hand side indicate full marks.
 
-2. Derive the Torsion Equation -
+1. Solve any four questions out of six. (20)
+a) Draw the Shear force and Bending moment Diagram for a beam ABCD, Supported at
+B & C. Length BC = ‘2L’ m & Overhang AB = CD = ‘L’ m, a point load of ‘P’ KN.
+is acting at point A & D.
+b) Draw the Stress-Strain curve for mild steel and explain the salient points on curve.
+c) A solid circular shaft of 30 mm diameter is subjected to torque of 0.25 kN.m causing
+an angle of twist of 3.74° in a 2 m length. Determine the modulus of rigidity for the
+material of the shaft.
+d) A circular section 200 mm diameter is subjected to a shear force of 4 kN when used
+as a beam. Determine the maximum stress induced and draw the shear stress
+distribution diagram.
+e) Find out core of section for a hollow square having external width as ‘B’ and internal
+width as ‘b’.
+f) A bar is subjected to a tensile stress of 100 N/mm?. Determine the normal and
+tangential stresses on a plane making an angle of 60° with the axis of tensile stress.
+2: Draw SFD & BMD for a beam as shown in figure 1 and find the point of contra (20)
+flexure.
 
-3. Derive flemiral Equation of Pure Bending, state assumptions made in it.
-
-4, Derive the relationship between shear force, bending moment, rate of loading.
-
-5. What must be the length of a 5 mm diameter aluminum wire so that it cam be twisted
-
-" throtigh one coinplete revolution without exceeding a ghearing stress of 42MN/m’%, G = 27
-
-GNim.
-
-Qa.” te]
-(a) Determine the support reaction when the member ABC is axially loaded by a 7 KN load at B as
-shown (EB =2x10°N/mm’) — ;
-
-03mm gap
-J B./> _
-A FZ KN
-. -
-/ - | Cc OY
-c/s 200mm? c/s 50mm?
-1=24m l-12m
-
-(6) ARGC cohima 30cm x 50 am is c/s is reinforced with 6 rods of stéel 22 mm in diameter. If the
-pemmissible stress in the steel and concrete are not to exceed 130N/cm? and 60N/cm?, find the safe
-maximum load the column can carry. If the length of the column is 4.5m what will be the change in
-the length. Es = 2 %10° Némm?, Ec = 1 10°N/mm? : -
-
-QQ.
-(a) A hollow circular shaft the outer diameter is 120 mm transmits 300 kW at 200 rpm. If the
-
-| maximum stress is not to exceed 60 N/mm/, find the maximum internal diameter. (G6 marks)
-(b)A flitched beam is made up of two timber joists each 10 cm wide by 24 cm deep with a,2 cm
-steel plate 15 cm deep placed symmetrically between them and firmly attached to both. The plate is
-
-ges recessed in to grooves cut in the inner faces of the joist so that the overall dimension of the built up
-section may be taken as 20 cm by 24 cm. E.=210GPa, Eam = 12 GPa. Find moment of resistance of
-the combined section when the maximum bending stress in the timber is 8 Mpa - (C€ marks) .
-
-Q4.
-
-(a) What do you-mean by “limit of eccentricity”? Derive an expression for core of section of ©
-circular and rectangular sections. . (3 marks)
-
-(B)A beam of 20 m length is supported on two intermediate props 42 m apart carries a udl of 6
-KN/m together with concentrated load of 30 KN at the left end Aand 50 KN at the right end B. The
-
-1/2
+\ \
 --- page 2 ---
-pris
+3c
 
-props are so located that the reactions are same at each support. Determine the position of props and
+a)
 
-draw SFD, BMD. Mark maximum BM, SF ( 9-marks)
-Qs ; s
-Find the principle planes arid principal stresses: ;
-I. Analytically - ; { € marks)
-I. Graphically - os (6 marks)
-| 30m
-| : } 40.NAnt |
+b) A mild steel specime
+
+40 KN 30 kN/m 50 kN 45 kN
+
 |
-| : 1 SON/m* |
-: |
-| ; /
-| @ +} 20Nm? |
-| |
-Q6.
 
-(a) A cylinder 3 m jong and dosed at ends having internal diameter im and. a wali thickness of 15
-mm. calculate hoop stress, long shear stress, stress induced and also change’ of diameter, length. and
+AL B ye pe F
 
-volume if the internal pressure is 1.5 Mpa : ; ( 6'marks)
-(b)Find the deflection at E and slope at A : ( 6 marks)
-; 100Nia
+T 2m 3m Tisml 25M 7 2M
 
-L/L : 200N
-“100Nm
-2 ; E
-( D .
+Figure 1
+A steel rod is subjected to a pull of 10kN and rigidly fixed at the ends at a certain
+temperature. Find the magnitude of the stress and its nature due to the change in
 
-in 2m 3m
+temperature by 20° C (both rise and fall). Area of bar is 200mm?. E = 200Gpa, a =
 
-><. -d- 1 ¥.
-i) - ><. oe
+12x10°/C.
+in was tested in tension using U.T.M. and the following
 
-Q7.
-Calculate and draw
+observations were recorded.
 
-° Bending stress diagram (6 marks)
-° Shear Stress diagram (6! marks)
+Diameter of the specimen : 10mm
+Length of the specimen : 200 mm
+Extension under a load of 5.3 KN : 0.064 mm
+Load at yield point : 20 kN
+Maximum load :33 KN
+Length of the specimen after fracture : 250 mm
+Diameter at neck 6.7mm
+Breaking load :30 kN
 
-All dimensions are Oe ae a,
-in mm | :
+Calculate (i) Young’s modulus (ii) Yield stress (iii) Ultimate stress (iv) % Elongation
 
-| - 20 |
+(v) Nominal breaking stress (vi) Actual breaking stress
 
-Vor 2 KN -
-Ma Leu Kam | :.
+a) Derive the flexural formula for a simply supported beam.
+b) A T-Section beam having flange 160mm wide and 20mm thick’and web 180mm long
+
+and 20mm thick. The permissible stress in compression and tension is equal to
+100N/mm2 and 140N/mm? respectively. Calculate the Maximum UDL the beam can
+
+carry over the simply supported span of 10 m.
+
+a) A hollow rectangular section 40 mm x 80 mm inside dimensions and 10 mm thick is
+
+subjected to a shear force of 50 kN. Draw the Shear stress variation diagram and find
+
+the ratio of maximum shear stress to average shear stress.
+b) Select a suitable diameter for a solid circular shaft to transmit 200 H.P. at 180 r.p.m.
+
+the allowable shear stress is 80 N/mm? and the allowable angle of twist is 1° in a
+
+length of 3m. Take C = 0.82 x 10° N/mm?.
+
+a) A Square column of size 500mm x 500mm subjected to a’load of 25 kN at an
+
+eccentricity of 50mm in both the axis, Calculate the stresses at each corner.
+
+ee
+
+Cio)
+
+(10)
+
+(10)
+(10)
+
+(10)
+
+(10)
+
+(10)
+--- page 3 ---
+7.
+
+b) A thin cylinder 75mm internal diameter, 250mm long with walls 2.5mm thick is (19)
+
+a)
+
+b)
+
+subjected to an internal pressure of 7 MN/m?. Determine the change in internal
+diameter and the change in length.
+
+At a point in a strained material the principal stresses are 100 N/mm? tensile and 50 (Wo)
+N/mm? tensile. Find the normal and tangential stresses across a plane passing through
+
+that point inclined at 60° to the plane having 100 N/mm? stress, also calculate the
+resultant stress, angle of obliquity, maximum shear stress and the normal stress on the
+
+plane of maximum shear.
+
+Determine the slope at ‘B’ and deflection under the point load for beam shown (10)
+below.
+Zalsn ZEN] RO
+peat peasant é 2D) B
+
+= deam aS 4m
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 7011a9105ff3
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 01/12/2014
+- Text: ocr (4 pages), mean OCR confidence 91.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CIVIL) Year: II Semester: II]
+
+Academic Year: 2014-15 Batch: 2013-14
+
+PS aee Rey, %,/
+Subject : Strength of Materials £7, V4 a,
+Marks: 100 wc MPSTME )7
+Date : 01/12/2014 Time : 2.00 p BaONPAA RY de
+
+Durations 3 (
+
+Re - Examination a —S 7;
+
+INSTRUCTION: Candidates should read carefully the instructions
+printed on the question paper and on the cover of the answer book,
+which is provided for the use.
+
+NB: 1) Question No. 01 is compulsory.
+2) Out of remaining questions, attempt any 04 questions.
+3) In all 05 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+Ql Attempt any five
+(a) Draw SFD and BMD for two standard cases of simply (04)
+supported beam with point load.
+
+(b) For a given material Young’s modulus is 1 x 10° N/mm?
+
+and modulus of rigidity 0.4 x 10° N/mm”. Find the bulk (04)
+modulus and lateral contraction of a round bar of 50mm
+diameter and 2.5m long, when stretched 2.5mm. Take
+Poisson’s ratio as 0.25.
+(c) Derive flexural formula for pure bending. (04)
+(d) Draw shear stress distribution diagram for a rectangular (04)
+section and derive the relation between maximum shear
+stress and average shear stress.
+. . 04
+(e) State assumptions made in theory of pure torsion. (04)
+(04)
+
+(f) State and explain Middle Third Rule of core of section
+
+4/4
+--- page 2 ---
+Q.2
+
+Q.3
+
+for no tension condition.
+
+(g) A tension member is subjected to axial stress 10 N/mm? (04)
+and the plane of oblique is 30° to the axis of stress.
+Compute the normal and shear stress on oblique plane.
+
+(h) A simply supported beam has a span of 6m. The cross-
+section of a beam is rectangular of width 50mm and (04)
+depth equal to 100mm. Find the maximum value of load
+placed at its centre which will produce deflection of
+
+10mm. Take E = 2 x 10° MPa.
+
+(i) A cylindrical shell 3m long and 1m in diameter is
+
+subjected to an internal pressure of 1 MPa. If the (04)
+thickness of the cylindrical shell is 12mm, find the
+change in volume of the cylindrical shell. Take E = 2 x
+10° N/mm” and Poisson’s ratio = 0.3.
+(a) Draw the Shear force and Bending Moment diagrams for the (10)
+
+following beam. Indicate maximum BM and point of
+
+contraflexure. 25 by
+
+c
+
+A le bf
+
+for am
+
+2am »
+
+40H Ik, 25 EW
+
+Oo
+mo
+
+(b) Draw the Shear force and Bending Moment diagrams for
+the following beam. Indicate maximum BM .
+
+4 L
+
+Vey | TEN
+
+2Ky (10)
+
+|
+
+a a ee ee ee
+
+(a) Derive the equation of bending stress for the beam
+
+M/I = E/R= oly
+
+2/4
+
+(10)
+--- page 3 ---
+Q.4
+
+Q.5
+
+Q.6
+
+(b) An element carries two perpendicular stresses through a
+point as 90 N/mm? and 60 N/mm?,both tensile. It also carries a
+shear stress of 45 N/mm’. Find the stress components and
+resultant stress on a plane at 40° inclination to the plane of
+major tensile stress. Also determine the principal stresses and
+principal planes.
+
+(a) The cross section of the joist is a T- section as shown in
+figure. Plot the shear stress distribution force of 200 KN.
+}20 mm
+
+a fen
+
+Zoo
+mM
+A\Q+
+(b) ) Derive the the expression’
+Pot = St
+J oR -
+
+(a) Find the maximum and the minimum stress intensities at the
+base of a uniform circular chimney, having external and
+internal diameters as Sm and 3m respectively. The height of the
+chimney is 25m and is subjected to a wind pressure of 1.5
+kN/m’. The density of the mesonary may be taken as 21 kN/m’.
+
+(b) A simply supported beam with I cross-section carries two
+flanges 10 x 120mm and a central web 10 x 180mm. The beam
+is 6m long and weighs 0.35 kN/m. It carries a central point load
+of 20 KN. Determine the deflection at the centre and the slope at
+the ends. Assume E = 2 x 10° N/mm’.
+
+(a) In a two dimensional stress system, the stresses in two
+planes A and B at a point are as follows.
+
+Plane A - Normal stress = 0, Shear stress = 40 MPa clockwise
+
+Plane B - Normal stress = 60 MPa Tensile, Shear stress =40
+MPa clockwise
+
+Using Mohr’s circle (i) Locate Major and Minor principal
+
+3/4
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+--- page 4 ---
+Q.7
+
+planes and determine respective stresses. (ii) Determine angular
+position of the principal planes with respect to the plane A. (iii)
+Locate the plane of maximum shear with respect to the plane A.
+
+(b) Two vertical rods are each fastened at their upper ends at a
+distance of 600mm apart. Each rod is 3m long and 12mm in
+diameter. A horizontal rigid cross bar connects the lower ends
+of the rods and on it is placed a load of 4500 N so that the cross
+bar remains horizontal. Find the position of the load on the
+cross bar and the stresses in each rod. One rod is of steel for
+which E = 1.96 x 10° N/mm” and the other of bronze for which
+E = 0.63 x 10° N/mm”.
+
+(a) For a tension test on 20 mm diameter bar the following
+observations were recorded for an axial pull of lOOKN. (i)
+Elongation of 0.29 mm over 100mm gauge length. (ii)
+Reduction in diameter of 0.016mm. Calculate Poisson’s ratio
+and modulus of elasticity.
+
+(b) A T-beam having flange 200 x 50mm and a web of 200 x
+50mm with overall height 250mm is subjected to a shear force
+of 120KN. Calculate the shear stresses induced in the section &
+draw the stress distribution diagram. Take I = 1.15x108 mm4
+and Y = 87.5mm from bottom.
+
+4/4
+
+(10)
+
+(10)
+
+(10)
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 3389fa013f7e
@@ -13971,32 +15310,185 @@ x
 ae
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper 4b1ba5347de3
+## 2014-15 · Re-Exam · Trim 4 · paper 391059549fa6
 
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/Strength of Materials Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
-- Text: ocr (2 pages), mean OCR confidence 83.7
+- Departments: Civil, Mechanical
+- Programmes: MBA TECH / CIVIL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/STREANTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2012-13 RE EXAM 20001.pdf` (+1 identical copies)
+- Printed on paper: exam date: 18/06/2015
+- Text: ocr (3 pages), mean OCR confidence 85.4
 
 ````text
 SVKM’s NMIMS
-; MORESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-/ Programme: MBA Tech (Mechanical) Year: II Semester: IV
-Academic Year: 2015-16
+Programme: MBA ‘Tech (MECHANICAL/CIVIL) Year: II Trimester: IV
 
-Batch: 2014-15
+Academic Year: 2014-15
 
-Subject: Strength of Materials . Marks: 60
-Time: 2.00 pm - 5.00 pm
-Date: 14/05/2016 Durations: 3 (hrs)
-Re-Examination Ne
+Batch: 2012-13 y yen“ mes
+iy ys # ,
+Subject: Strength of Materials Arks: 100... _
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+{me: 2.00 ‘pm 3 Spm
+Date: 18/06/2015 Birations: 3( (Hrs
++ ,
 
-NB: 1) Question No. 1 is compulsory.
+Re-Examination
+
+INSTRUCTIONS
+* Question No. 1 is compulsory and attempt any FOUR questions out of SEX questions.
++ Answers to all sub questions should be grouped together.
+
+* Figures to the right indicate full marks.
+
++ Assume suitable data if necessary and state the same clearly.
+
+Q.1 Draw AFD, SFD and BMD for the beam loaded as shown in the figure below. (20)
+
+\SKN/ rp
+
+plo KN] i
+
+A ANNI i Di
+B
+
+E
+>
+et
+an AM }
+
+Q.2 (a) For the bar shown in figure below, determine the reactions and the stresses (12)
+developed if E = 200 GPa.
+
+joo mm
+some 4omm
+BOKK SOkN
+SS — >
+
+y
+pH 2m tam am A
+(b) Determine the self-weight elongation of a tapered bar having larger width ‘B’ at (08)
+
+top fixed end and smaller width ‘b’ at lower free end. The thickness ‘t’ of the bar
+is constant over the entire length “L’. Take modulus of elasticity as “B’.
+
+Page 1 of 3
+--- page 2 ---
+Q.3 (a) State assumptions involved in simple theory of torsion and derive simple torsion (10)
+formula.
+
+(b) A closed ended cylindrical vessel is made up of steel plate 8 mm thick. The (10)
+length and the diameter of the vessel are 1000 mm and 250 mm respectively.
+Determine an internal fluid pressure such that the longitudinal and hoop stresses
+in the cylindrical vessel are limited to 120 Mpa. Also calculate the increase in
+the length, diameter and volumse of the cylindrical vessel. Take E = 210 GPa and
+Poisson’s ratio as 0.3.
+
+Q.4 (a) Derive moment curvature relationship. State the assumptions involved in it. (08)
+
+(b) A hollow circular shaft transmits 150 kW power at 100 RPM. Determine the (12)
+diameter of the shaft required if shear stress is not to exceed 120 Mpa and twist
+in a length of 5 m is not to exceed 1.5°. Take G = 80000 Mpa. Assume that the
+maximum torque is 25 % higher than the average torque. Also determine the
+outer diameter of the shaft required if 8 mm thick metal is used as a shaft
+material. Also determine the % saving in the other case when compared with
+solid shaft.
+
+Q.5 . A-simply supported beam of span 8 m is subjected to a load of 20 KN/m over its (20)
+entire length. The cross section of the beam is as shown below. Determine the
+maximum bending stresses developed in the beam. Also determine the
+maximum tensile and compressive force developed in flange portion of the
+section. Also plot the variation of shear stresses across the depth of the section.
+
+What is the ratio of the maximum shear stress to average shear stress?
+
+eet
+
+>| K-20 mm |
+
+SOMTrM
+
+ASOMM)
+
+| joomnm
+p200 mi, res
+
+Page 2 of 3
+--- page 3 ---
+Q.6 (a) The Normal stresses and shear stress at a point in the strained material are as (08)
+shown below. Determine the normal stress, shear stress and resultant stress on a
+plane making an angle of 50° to the X axis. Use Mohr’s Circle.
+
+20MPag PEO AGO MPL
+(SOMPA
+1 SOMPy xz
+aren
+
+(b) For the stress conditicn given in O.6(a! above, dztermine the direction of (12)
+principal planes, magnitude of principal stresses, magnitude of maximum shear
+stress, direction of planes carrying maximum shear stress and normal stress
+associated with the maximum shear stress. Indicate all the above planes by a
+sketch.
+
+Q.7 (a) A hollow steel column of cross section as shown below has a length 6 m andis (10)
+fixed at one end and hinged at the other end. Determine the maximum load
+carrying capacity of the column using Rankine’s Formula. Take the modulus of
+elasticity as 210 Gpa and Rankine’s constant as 1/3600.
+
+|
+
+—_ 60 Mn)
+Sa oe I OLD
+
+60m
+
+a
+
+mM | nth)
+psd too) Som
+v A aa
+(b) A cantilever beam of length 3 m is subjected to a load of 20 KN ata point 2m (10)
+
+from fixed end and udl of intensity 10 kN/m over entire length. Determine the
+slope and deflection at free end of the beam. Take EI = 25000 kN-m’.
+
+~—
+
+Page 3 of S
+````
+
+## 2014-15 · Re-Exam · Trim 4 · paper f64cfd47ba1f
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/STREANTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2012-13 RE EXAM0001(3).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/12/2014
+- Text: ocr (3 pages), mean OCR confidence 88.2
+
+````text
+~
+
+SVKM’s NMIMS
+‘MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (MECH / CMIL) Year: II Trimester: IV
+Academic Year: 2014-15 ante oS
+rd S- pan NN
+a,
+Batch:2012-13 fer a ewe y
+Subject : Strength of Materials Marks: 100 roe ~s RARY s
+Time : 2. 00pm \ 4%
+Date :11/12/2014 Durations:3 (hrs Ca IN Z
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -14006,83 +15498,390 @@ NB: 1) Question No. 1 is compulsory.
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Draw Axial Force Diagram, Shear Force Diagram & Bending Moment Diagram for
+the beam shown below. (20M)
+
+80 kN 90kN
+30kNm   15kN/m
+
+Cont 30°
+
+= {= T
+
++ 2m Nie 2m—v}e—.3 m: ae
+
+Q.2 a) Find the maximum torque, that can be safely Applied to a shaft of 80 mm
+diameter. The permissible angle of twist is 1.5 degree in a length of Sm and shear stress is
+
+not to exceed 42 MPa. G = 84GPa. (10M)
+Q.2b)
+A C Cross section beam is carrying a j-——200_.] {
+Shear Force of 60 kN at one of its cross ]10
+section. The dimensions of the cross 7
+section are as shown in the figure. 115
+Determine the Shear Stress Distribution 180
+Diagram for the same. (10M) t
+15
+160 tT
+
+Q.3 a) A closed cylindrical vessel made of steel plates 4mm thick with plane ends, carries
+fluid under a pressure of 1.5 N/mm”. The internal dia. of cylinder is 1m and length is 3m,
+calculate the longitudinal and hoop stress in the cylinder wall and determine the change
+in dimensions and volume of the cylinder. E = 2 X 10° N/mm” and Poisson’s ratio is 0. a
+
+(12M)
+
+Y3
+--- page 2 ---
+Q.3 b) Explain the significance of Factor of Safety, Point of Zero Shear and Point of
+
+Contraflexure. (8M)
+Q.4)Find the slope and deflection at the extremities of all the spans of the beam and also
+the maximum deflection. (20M)
+SOkN 80 kN
+\ 2m | 2m \ 3m: , 3m 1
+J | T T t
+OR
+Q.4a) The shear force acting on a | 220 a
+beam at an I[-section with unequal | 2s
+flanges is 120 kN. The section is as -
+shown in the figure. Draw the shear 35 195
+_ stress distribution: diagram with all the
+values of the shear stresses at the -
+extremities as well as the junction of 18,
+
+the web and flanges. (10M)
+
+Q.4 b) A plane element in a boiler is subjected to tensile stresses of 400 MPa on one
+plane and 150 MPa on the other at right angles to the former. Each of the above stresses
+is accompanied by a shear stress of 100 MPa such that when associated with the minor
+tensile stress tends to rotate the element in anticlockwise direction. Find: i) Principal
+stresses and their directions; ii) Maximum shearing stresses and the direction of the plane
+
+on which they act. (10M)
+
+Q.5) a)What are the three types of Modulii of elasticity. Explain their significance and
+relation. (6M)
+b) Explain the stress strain curve for a brittle material. (4M)
+
+c) A rigid bar AB is hinged at A and supported by a copper rod 2m long and steel rod 1m
+long. The bar carries a load of 20kN at D as shown in the figure. If the cross sectional
+areas of steel and copper are 200 mm” and 400 mm‘ respectively , find the load carried
+and also the stresses developed in each rod. Take the values of E for steel and copper as
+200 GPa and 100GPa respectively. :
+
+(10M)
+
+Q/>
+--- page 3 ---
+be | m—+ = 2) — m4
+> + ue ‘-:
+oan |B
+
+A at D
+
+20 kN
+Q.6a) A short cast iron column has a | 4-160 ——+12
+rectangular section 160 mm x 200mm ix.f Se +
+with a circular hole of 80 mm diameter | _ . |
+
+as shown in the figure. It carries an |
+eccentric load of 100kKN, located as
+
+shown in the figure. Determine the a 200
+values of the stresses at the four corners im i
+of the section. (08M) fl 00
+4 ot
+a é
+
+b) A cylindrical vessel 1.8 m long, 800 mm in diameter is made up of 8 mm thick plates.
+Find the hoop and longitudinal stresses in the vessel, when it contains fluid under
+pressure of 2.5 MPa. Also find the changes in length, diameter and volume of the vessel.
+Take E = 200 GPa and 1/m=0.3. (12M)
+
+Q.7a) Derive the Euler’s formula for column with both ends fixed. (08M) .
+
+b) Find the Euler’s crippling load for a hollow cylindrical steel column of 38 mm external
+dianieter and 2.5 mm thick. Take length of the column as 2.3 m and hinged at its both
+ends. Take E = 205 GPa. Also determine the crippling load by Rankine’s formula using
+constant as 335 MPa and 1/7500. (12M)
+
+% Oe
+
+3/3
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 85f6f8f9071d
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 01/12/2014
+- Text: ocr (4 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+\
+
+Programme: MBA Tech (MECH) Year: II Semester: III
+) Academic Year: 2014-15 Batch: 2013-14
+|
+| Subject : Strength of Materials
+Marks: 100
+Date : 01/12/2014 Time : 2.00 pr
+
+Durations 3 (h
+Re _- Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempied.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+1.a Deduce an expression among three elastic constants of a maiteriai. 5
+
+b. Derive the relation between bending moment and shear force in a beam. What do you mean
+by point of inflection or contraflexture? 5
+
+c. Deduce the torsion equation stating the assumptions made. 5
+
+d. Establish the relation to find the shear stress across sections of triangle, side as base. Also
+find the maximum value of shear stress. 5
+
+2. a. A suspended bar consists of two cross sections as shown in the figure. Initially its lower
+surface is 0.8 mm above the ground surface. Determine the reaction of the lower support
+and the stresses in each section when a load of 40 KN is applied as shown in the figure.
+Take E = 205 GPa. 5
+--- page 2 ---
+b. | What is volumetric strain? Show that it is the algebraic sum of tree mutually perpendicular
+
+strains. 5
+c. A beam ABCDE is supported at A and D and is loaded as shown in figure below. Determine
+
+the value of W so that the reaction at A and D are equal. For this value of W, draw the SFD
+
+and BMD 10
+20 KN/m 20 KN.M w
+a AN AN AEN ANNAN f_ D E
+E Cc
+a 4M 2M oi a
+—_
+
+3.a A wooden beam 1.8 m long, simply supported at the ends, has a rectangular section 150m
+wide and 600 m deep and carries a uniformly distributed load of 80 KN per meter over the
+entire span. Calculate the bending stress at a layer 200 mm above the bottom of the beam,
+the layer being of the section distant 800 mm from the left support. Also determine the
+
+maximum bending stress developed in the beam.
+10
+
+| -150'mm—_
+
+o M E
+b. Prove the relation y =a with usual notations. 3)
+
+4.a Ashort column of I section has cross sectional area 5520 mm? and maximum radius of gyration
+of 965 mm. A vertical load of W Newton acting through the centroid together a parallel load of
+W/2 Newton acts through a point on the centre line of the web at a distance 100 mm from the
+centroid as shown in the figure. Determine the maximum value of W such that the maximum
+
+stress does not exceed 100 N/mmz2. 10
+--- page 3 ---
+300 mm
+
+j
+
+“J |
+Yj wu
+
+WwW, w2
+
++ +
+400 mm-+—_—_]
+
+b. A short column of external and internal diameters respectively carries an eccentric load W.
+Determine the maximum eccentricity which the load can have without producing tension on
+the cross section of the column. 10
+
+5.a. Asimply supported beam AB, 6 m long is loaded with a UDL of 50 KN/m over the entire span.
+Ata section 1.2 m from end A, find S.F and B.M magnitudes to be resisted and draw the shear
+stress distribution diagrams. Also find the magnitudes of shear stress at a position 5 cm
+below the neutral axis. The cross section of the beam is shown in figure. 10
+
+B
+b. Derive an expression for shear stress distribution across a section of beam. 5
+c. Show the relation to find the shear stress across sections of triangular section. 5
+
+6.a. A shaft carries five pulleys A, B, C, D and E. The details of pulley torques, shaft diameters and shaft
+lengths are given as are given as shown in figure. Determine in which section maximum shear
+stress and in which section maximum angular twist occurs [G = 80 GPA] 10
+
+3/4
+--- page 4 ---
+b. Asimply supported beam of 8 m length carries two point loads of 64 KN and 48 KN at 1
+meter and 4 meter respectively from the left hand end. Find the deflection under each
+load and the maximum deflection. Take E= 210 GPA and I= 180 X 10° mm‘.
+
+64 KN 48 KN
+la 4m
+1m |
+A | i le
+a em ° I
+Q i
+
+7.a. At a certain point in a strained material the principal stresses are 100 N/mm? and 40
+N/mm? both tensile. Find the normal, tangential and resultant stresses across a plane
+through the point at 48 degrees to the major principal plane, using Mohr’s circle of
+stress.
+
+b. Wall thickness of a cylindrical shell of 800 mm internal diameter and 2 -m long is 10 mm.
+If the shell is subjected to an internal pressure of 1.5 MPa, find the following:
+Take E= 205 GPa and v = 0.3.
+j. the maximum intensity of shear stress induced.
+ii. The change in the dimensions of the shell.
+
+4/4
+
+10
+
+10
+
+10
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 2f17aa603b9c
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/06/2015
+- Text: ocr (2 pages), mean OCR confidence 88.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (MECHANICAL) Year:Ii
+
+Semester: III
+
+Academic Year: 2014-15
+Batch: 2013-14
+
+Subject :Strength of Materials Marks:100 vs
+Time : 2.00pm - §,6¢
+Durations:3 (hrs) » —s 4
+
+Re-Examination NX a ge fe
+
+a ee ——
+
+Date : 10/06/2015
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB; 1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
 7) Assume Suitable data if necessary
 
-Q.1 Draw the Axial Force Diagram, Shear Force Diagram and Bending Moment Diagram. 12M
+Q.1 Draw the Axial Force Diagram, Shear Force Diagram and Bending Moment Diagram. Explain the
 
-60kNim
-20kN \
+significance of Point of Zero Shear and Point of contraflexure. Also, indicate if present for the following
 
-: 5 kN/m
-| E¥
-A yB c a) ayn F
-> oe
-fo 1m —a}e-2.5 m —e}e— 3 m—ofe— 0.5 m—2ke— 3m —
-.2. a) The stress at a point in a component are 100MPa (tensile) and 50 MPa (Compressive). Determine
+beam: 20M
+30KNIM 40 kN 20 kN
 
-the magnitude of the normal and shear stresses on a plane inclined at an angle of 250 with tensile stress.
-Also determine the direction of the resultant stress and the magnitude of the maximum intensity of shear
+Q.2 a) The stresses on two perpendicular planes through a point in a body are 160 MPa and 100 MPa both
+compressive alongwith a shear stress of 80 MPa. Determine the stresses on a plane inclined at 30° to the
 
-stress. 6M
-Q.2 b)A cross section of a Simply Supported Beam ke 70o— > t
-carries a 200kNm Sagging Bending Moment. If the is
-cross section of the beam is as shown in the figure, =
-find the force resisted by lower flange and bending __, jig. 80
-moment resisted by Upper flange. x
+plane of 160 MPa stress. . 08M
+Q.2 b)A 5m long Simply Supported beam carries a 200
 
-om = | =—™)>
+U.D.L, of 6 KN/m throughout its length. If the cross sl
 
-be— 120 >] #
+section of the beam is as shown in the figure, draw a
 
-Q.3 a) Derive Flexure Formula for Simple Theory of Bending. 5M
-b) A Simply Supported Beam 5m length carries _ 215
-a Uniformly Distributed Load of 10kN/m ao]
-throughout its length and also carries an
-additional load of 25KN at its center. If the Cross 35 180
-Section is as shown in the figure, draw the Shear . ;
-stress Distribution diagram at the cross section 20
-carrying Maximum Shear Force. 250 (7™)
+the shear stress distribution diagram at the cross I
 
-{/
+section carrying maximum shear force. (12M) 224
 
-(2.
+Q.3 a) Explain the stress-strain curve for ductile material and brittle material. (8M)
+Q3 b) A rectangular footing 3m x 2m carries four magnitudes of the stresses at the four corners. (12M)
+
+vertical point loads of 200KN, 150KN, 300KN and D ‘is ¢
+130KN as shown in the figure. Determine the i 180 KN
+i<—0.9
+poe E
+$a ¢1 yt)
+x[ 4 i t |*
+2 t 2
+Forel asad
+geo i et a
+Ty
+M)* }}#-——41*
 --- page 2 ---
-Q.4 For the beam shown in the figure, find the slope and deflection at point B, C and D. Find the
+Q.4 a) The I- cross section of a beam shown in
+the figure carries a Bending Moment of 75 KN
+Sagging. Find: i) Total Tensile force and ii) the
 
-maximum deflection. (12M)
--90 kN/im
-2OkN L
-Lor 5kN/m |
-A. By f D =e
+bending moment resisted by Lower flange.
 
-Fam ale 2m—afe— 3m etm
+7” (13M)
+Q.4 b) Derive the formula for elongation of a wire under self-weight. (7M)
 
-Q.5 a) A solid aluminium shaft 1m long and of 50 mm diameter is to be replaced by a hollow shaft of the
-same length and same outside diameter, so that the hollow shaft could carry the same torque and has the
-same angle of twist. What must be the inner diameter of the hollow shaft? Take Modulus of rigidity for
-the aluminium as 28 GPa and that for steel as 85GPa. (6M)
+Q 5a) A hoiler of 1-6 m dia. is made of 20 mm thick steel plates. Determine the permissible steam pressure
+in the boiler if the efficiency of the longitudinal joint of the boiler is 80% and maximum tensile stress in
+the steel plates is not to exceed 80 MPa. Calculate the longitudinal stress in the plate section through the
 
-b) A cylindrical shell vessel 1.8m long 800 mm in diameter is made up of 8 mm thick plates. Find the
-hoop and longitudinal stresses in the vessel, when it contains fluid under a pressure of 2.5 MPa. Also find
-the changes in length, diameter and volume of the vessel. Take E = 200GPa and Poisson’s ratio is 0.3
-(6M)
+rivets of the circumferential joint if the efficiency of the joint is 70 %. (8M)
+Q.5 b) A suspended bar system consists of two is applied as shown. E= 205 GPa
+cross-sections as shown in the figure. Initially its 7?
+lower surface is 0.8mm above the ground surface. nme >| | + em
+Determine the reaction of the lower support and Y a
+the stresses in each section when a load of 40 kN 160 | 40 Ls
 
-Q.6 a) Describe the Stress-Strain Curve for Ductile and Brittle Material in detail. (6M)
-b) A rectangular pier is 1500 mm x 1000 mm is }— 1500 —
-subjected to a compressive load of 450 KN as 7 pa ae 7 =i) |
-shown in the figure. Find the stress intensities in del. _- 250-21 hog
-the four corners of the pier. eg ai i
-(6M) point, t {4
-A
+mm? | KN) ¢
 
-Q.7 a) A load of 270 KN is carried by a short concrete column of 250 mm x 250 mm in size. The column
-is reinforced with 8 bars of 16 mm diameter. Find the stresses in in concrete and steel, if the modulus of
-elasticity for the steel is 18 times that of concrete. If the stress in concrete is not to exceed 5 MPa, find the
-area of steel required, so that column may carry a load of 500 KN. (7M)
+‘WITATTT7
+08mm = (12M)
 
-Q.7 b) Derive the expression for self elongation of a rod under its own weight. (5M)
+Q.6 a) A solid shaft transmits 200 kW at 150 RPM. The total angle of twist in a length of 5m of the shaft is
+30, Find the inner and outer diameters of the shaft if the permissible shear stress is 60 MPa. Take G =
+80GPa. (8M)
 
-2 ee a 2 ee 2 oe 2 2 2 2A 2 2 fe 2 ie ie ae 2 2 2k kee 2 2 2 2 ea ee ie fe a2 2k ee ee aoe oe oft fe oe ae a oe fe oie oft fe a oe oft eof fe ae oie a as a oie oe akc ae ae a a ae aie
+Q.6 b) Explain the core of a section wrt the combined direct and bending. Derive the flexure formula.
+
+(12M)
+Q.7 For the beam shown in the figure, find the maximum deflection. Also find slope and deflection at
+points B & F. EI = 70,000 kNm’. (20M)
+30kN/m
+20 kN
+
+A B
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 9808e104a7c1
@@ -14092,6 +15891,7 @@ Q.7 b) Derive the expression for self elongation of a rod under its own weight. 
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/Strength of Materials Batch( 2014-15) Re Exam.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 03/07/2015
 - Text: ocr (2 pages), mean OCR confidence 84.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -14149,7 +15949,6 @@ of contraflexure if any. ae nN
 \6Kn | Wy
 | ZEN QIN
 ce EE J
-fe aN aa maa oN am: OO =
 ne ee -
 |
 ee Sees eee
@@ -14197,6 +15996,155 @@ KK na PII OEY Yr B
 \ mM ee) 2 YY
 
 2/2.
+````
+
+## 2014-15 · Re-Exam · Trim 4 · paper 7272e3aefb7e
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/STREANTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2012-13 RE EXAM0001(2).pdf`
+- Printed on paper: max marks: 100; exam date: 11/12/2014
+- Text: ocr (3 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL ae OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (MECH / CIVIL) Year: II Trimester: IV
+
+Academic Year: 2014-15
+
+Batch:2012-13 oom
+
+fis
+Marks:100 (i(oezeran Ye
+Time : 2.00pr\ 3 OOpRR A RY
+
+Date :11/12/2014 Durations:3 (
+
+Subject : Strength of Materials
+
+Re-Examination a.
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Draw Axial Force Diagram, Shear Force Diagram & Bending Moment Diagram for
+the beam shown below. (20M)
+
+80 kN 90kN
+30kNm 15 kN/m
+Cooter, 30°
+& coy
+J 2 Mn] 2 m—oe—-3 mi —sfe— 3 mi — |
+
+Q.2 a) Find the maximum torque, that can be safely Applied to a shaft of 80 mm
+diameter. The permissible angle of twist is 1.5 degree in a length of 5m and shear stress is
+
+T
+
+not to exceed 42 MPa. G = 84GPa. (10M)
+Q.2b)
+A C Cross section beam is carrying a J~——200_. t
+Shear Force of 60 KN at one of its cross | 10
+section. The dimensions of the cross 7
+section are as shown in the figure. e115 be
+Determine the Shear Stress Distribution 180
+Diagram for the same. (10M) t
+15
+¥
+1.160
+
+Q.3 a) A closed cylindrical vessel made of steel plates 4mm thick with plane ends, carries
+fluid under a pressure of 1.5 N/mm’. The internal dia. of cylinder is 1m and length is 3m,
+calculate the longitudinal and hoop stress in the cylinder wall and determine the change
+in dimensions and volume of the cylinder. E= 2 X 10° N/mm’ and Poisson’s ratio is 0.3.
+
+(12M)
+Y3
+--- page 2 ---
+Q.3 b) Explain the significance of Factor of Safety, Point of Zero Shear and Point of
+Contraflexure. (8M)
+
+Q.4)Find the slope and deflection at the extremities of all the spans of the beam and also
+the maximum deflection. (20M)
+
+90kN 80.kN
+
+moke Th
+ee ers | i |
+3m }
+
+2m | 2m F 3m '
+J
+OR
+Q.4a) The shear force acting on a 220 4
+beam at an J-section with unequal 25
+flanges is 120 KN. The section is as
+shown in the figure. Draw the shear 195
+stress distribution diagram with all the
+values of the shear stresses at the -
+
+extremities as well as the junction of 14,
+the web and flanges. (10M)
+
+Q.4 b) A plane element in a boiler is subjected to tensile stresses of 400 MPa on one
+plane and 150 MPa on the other at right angles to the former. Each of the above stresses
+is accompanied by a shear stress of 100 MPa such that when associated with the minor
+tensile stress tends to rotate the element in anticlockwise direction. Find: i) Principal
+stresses and their directions; ii) Maximum shearing stresses and the direction of the plane
+
+on which they act. (10M)
+
+Q.5) a)What are the three types of Modulii of elasticity. Explain their significance and
+relation. (6M)
+b) Explain the stress strain curve for a brittle material. (4M)
+
+c) A rigid bar AB is hinged at A and supported by a copper rod 2m long and steel fod 1m
+long. The bar carries a load of 20kN at D as shown in the figure. If the cross sectional
+areas of steel and copper are 200 mm” and 400 mm?” respectively , find the load carried
+and also the stresses developed in each rod. Take the values of E for steel and copper as
+200 GPa and 100GPa respectively.
+
+(10M)
+
+Q/2,
+--- page 3 ---
+Q.6a) A short cast iron column has a
+rectangular section 160 mm x 200mm
+with a circular hole of 80 mm diameter
+as shown in the figure. It carries an
+eccentric load of 100kKN, located as
+shown in the figure. Determine the
+values of the stresses at the four corners
+of the section. (08M)
+
+b) A cylindrical vessel 1.8 m long, 800 mm in diameter is made up of 8 mm thick plates.
+Find the hoop and longitudinal stresses in the vessel, when it contains fluid under
+pressure of 2.5 MPa. Also find the changes in length, diameter and volume of the vessel.
+Take E = 200 GPa and 1/m = 0.3. (12M)
+
+Q.7a) Derive the Euler’s formula for column with both ends fixed. (08M) .
+
+b) Find the Euler’s crippling load for a hollow cylindrical steel column of 38 mm external
+diameter and 2.5 mm thick. Take length of the column as 2.3 m and hinged at its both
+ends. Take E = 205 GPa. Also determine the crippling load by Rankine’s formula using
+constant as 335 MPa and 1/7500. ~(12M)
+
+3/3
 ````
 
 ## 2013-14 · Final-Exam · Sem 3 · paper 66ff4976ac5b
@@ -14541,6 +16489,7 @@ ra
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS 2013-14 Final exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29/11/2013
 - Text: ocr (3 pages), mean OCR confidence 85.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \ SVKM’s NMIMS —
@@ -14574,7 +16523,6 @@ a) State four assumptions made in the theory of pure torsion. 05
 b) A member ABCD is subjected to point Loads p1,p2, p3 & p4 as shown in figure.4 | 05
 Calculate the force P2 necessary for equilibrium, if P1=45KN, P3= 450KN &
 P4= 130KN. Determine total elongation of the member assuming E=2.1X10°
-Nimm?, Pefeu Rguun @ the end &€ the Ruwhm fepeu
 c) A steel rod of 25mm diameter & 2m long is subjected to an axial pull of 45KN. 05
 Find stress, strain & total elongation of the rod.
 d) Give Core of the sections for 1. Solid Circular Sections 2. Hollow circular Section | 05
@@ -14597,7 +16545,6 @@ in fig. 2. Also find the maximum bending moment.
 JQ en]
 A B al "> 4 Ee
 
-Ir Uy) ns ee | ro.
 
 ZA
 
@@ -14637,7 +16584,6 @@ Q.6) | Solve 20
 a) For the beam shown in figure. Calculate deflection at point C, Maximum | 5
 deflection in the beam & slope at point A. Take E= 2x10*S5 N/mm2 & I=
 
-2000cem4 p | EN y ae a,
 
 ee Im ——
 
@@ -14682,6 +16628,7 @@ RE GO MM 4
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGTH OF MATERIALS/STRENGH OF MATERIALS 2013-14 Final exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05/12/2013
 - Text: ocr (4 pages), mean OCR confidence 87.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS ‘
@@ -14746,10 +16693,7 @@ fixed at ends as shown in fig.2. Find the maximum values of stresses when it is
 
 subjected to 20 KN force axially (Tensile). [10]
 Gorm
-Y A Stee | B z Y
-Esteel = 2x108N/mm? Yyg2 asmm de Emm Y
 es ‘ _—e
-=F) x oS N Anz kN 2oOkKN
 — - ‘ . ‘a
 
 ‘ coppet
@@ -14851,207 +16795,6 @@ x<
 alg
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 448a65bf1bda
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS B TECH (CIVIL) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 28/11/2014
-- Text: ocr (4 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: IIT
-
-Batch: 2013-2014
-Academic Year: 2014-2015
-
-Subject: Strength of Materials
-Marks: Stan \%
-Date: 28/11/2014 Time: Een Ups
-Durations: HS) J tS ig
-Gi KY
-Re-Examination KZ ts “wen ra
-
-~~ ae
-
-INSTRUCTION: Candidates should read carefully the instructions printed on
-the question paper and on the cover of the answer book, which is provided for
-the use.
-
-NB: 1) Question No. 01 is compulsory.
-2) Out of remaining questions, attempt any 04 questions.
-3) In all 05 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-§) Figures in brackets on the right hand side indicate full marks.
-Q.1 Attempt any five
-
-(a) Draw SFD and BMD for two standard cases of simply supported (04)
-beam with point load.
-
-(b) For a tension test on 20 mm diameter bar the . following
-
-observations were recorded for an axial pull of: 100KN. (i) 08
-Elongation of 0.29 mm over 100mm gauge length. (ii)
-Reduction in diameter of 0.016mm. Calculate Poisson’s ratio and
-modulus of elasticity.
-(c) State assumptions made in the theory of simple bending. (04)
-(d) Derive shear stress equation. : (04)
-(e) State any four assumptions for theory of pure torsion. (04)
-
-(f) Define kernel of a section and derive core of circular section for (04)
-no tension condition.
-
-(g) A 12mm diameter bar is subjected to a pull of 12KN. Calculate the
-
-Wy
---- page 2 ---
-Q.2
-
-Q3
-
-normal and tangential stresses on planes making angle of 5° and
-37° with the axis of the bar.
-
-(h) A cantilever of span 3.5m carries a point load at the free end. If
-the maximum slope at the free end is 1°, determine the maximum
-deflection in mm.
-
-(i) The compressed air cylinder 1.4m internal diameter and 20mm
-thick is subjected to internal pressure of 1.6 MPa. Calculate the
-change in diameter. Take Poisson’s ratio = 0.28 and E = 2 x 10°
-MPa.
-
-(a) Draw the Shear force and Bending Moment diagrams for the
-following beam.
-
-20 FA Inn 4oky
-A ( c
-
-5m™ 3m
-
-ant?
-
-(b) A steel bar ABCD 4 m long is subjected to the forces as shown in fig.
-2. Diameter of the bar AB and CD is 15 mm where as diameter of bar BC
-is 20mm.Find the elongation of the bar. Take E= 200 GPa.
-
-A B Cc D
-20 KN SKN 16 KN 25 KN
-— a -——>
-
-lm 2m lm
-
-(a) A cast iron beam section is of I section with a top flange 80mm x
-20mm thick, bottom flange 160mm x 40mm thick and the web 200mm
-deep and 20mm thick. The beam is freely supported on a span of 5
-meters. If the tensile stress is not to exceed 20 N/mm”, find the safe
-uniformly distributed load which the beam can carry. Find also the
-maximum compressive stress.
-
-3/4
-
-(04)"
-
-(04)
-
-(04)
-
-(10)
-
-(10)
-
-(10)
---- page 3 ---
-Qa
-
-Q.5
-
-Q.6
-
-(b) A simply supported beam of rectangular section is 200mm wide and
-300mm deep. It supports a uniformly distributed load of 6 KN/m over an
-effective span of 4m. Calculate the magnitude and direction of the
-principal stresses at a point located 0.50m from the left support and
-50mm above the neutral axis.
-
-(a) An I section beam carries a UDL of 20 kN/m over its entire span
-length of 3m. The beam section carries its upper flanges 90mm x 10mm,
-web 120mm x 10mm and lower flange 120mm x 15mm. Determine the
-shear stress distribution at important locations of the cross section and
-show the shear stress distribution.
-
-(b) Derive the the expression:
-
-(a) A short vertical column is of rectangular section 40cm x 30cm. It
-carries a load 80kN at a point Scm away from the centre of the section
-along one of the diagonals. Calculate the intensity of stress at the corners
-of the column in plan.
-
-(b) For the beam shown in fig. calculate deflection at point C, maximum
-deflection and slope at end A. Take E= 2 x10° N/mm” and I = 2000
-em‘ solve by Macaulay’s method.
-
-Sey c *Kilm
-A D =
-
-am —+* Im —_}— 3m
-
-B
-
-(a) A point in an elastic material carries mutually perpendicular direct
-stresses of 180 MPa and 60 MPa, both tensile. It also carries a shear stress
-of 103.92 MPa. Using Mohr’s circle (i) Determine the normal, tangential,
-resultant stresses on the plane passing through the point at an angle of 40°
-to the plane of 180 MPa. Determine the obliquity of the resultant stress.
-(ii) Locate the principal planes and determine the principal stresses.
-
-(10)
-
-(10)
-
-(10)
-(10)
-
-(10)
-
-(10)
---- page 4 ---
-Q.7
-
-(b) A steel rod 32mm in diameter is fixed concentrically in a brass tube
-which has outside and inside diameters of 48mm and 34mm respectively.
-Both the rod and the tube are 400mm long and their ends are level. The
-compound rod is held between two stops which are exactly 400mm apart
-and the temperature of the bar is then raised by 60° C. (i) Find the stresses
-
-_ in the rod and tube if the distance between the stops is increased by
-
-0.25mm. (ii) Find the increase in the distance between the stops if the
-force exerted between them is 80 kN.
-
-Take E, = 2 x 10° N/mm’, Ey = 0.9 x 10° N/mm’, a, = 1.2 x 10° per °C,
-Op» = 2.1 x 10° per %.
-
-(a) Derive the expression for the stresses in thin spherical shell.
-
-(b) A hollow rectangle section beam is simply supported at its ends and
-carries a u.d.l. over the entire span length. The beam length is 6m and the
-cross section dimensions are 100mm x 200mm outside and 80mm x
-180mm inside. If the maximum permissible stress is 120 MPa, determine
-the maximum u.d.l. which the beam can carry. Neglect the self weight of
-the beam.
-
-(10)
-
-(10)
-
-(10)
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper a3a2a69e95a3
 
 - Departments: Civil
@@ -15059,6 +16802,7 @@ the beam.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS CIVIL BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10/06/2014
 - Text: ocr (3 pages), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 > : SVKM’s NMIMS
@@ -15092,7 +16836,6 @@ b) State the assumptions made in theory of simple bending. 05
 c) Draw S.F. and B.M. diagram for beam shown in Fig. 1 . 05
 1000 N |1000N 1L000N
 y | |
-A y. B Cc D Fig. 1
 < 05M _, osm —e<— 05m —>
 
 d) For a material Young’s Modulus is 1.15 x 10° N/mm” and modulus of rigidity is 05
@@ -15205,251 +16948,6 @@ b) T 3 Ge 10
 3) 3
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 07d9759e37fe
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS B TECH (MECH), 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 05/12/2014
-- Text: ocr (2 pages), mean OCR confidence 87.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: I Semester: III
-Batch: 2013-2014 :
-
-Academic Year: 2014-2015
-
-A sgit¥¥E aF 2,
-
-Subject: Strength of Materials £ 6
-Marks: R00 MPSTME |
-
-Date: 05/12/2014 Time: 40 .d0lameta ROP iE.”
-Durations: s) SF A F
-
-ea wan
-a ee
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any __4 questions.
-
-3)Inall_5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Qi—Figure 1 shows a loaded beam.Draw the SFD and BMD for the beam.Calculate the value
-
-ofthe maximum B.M and the point where it occurs.Determine the point of contraflexure. 20
-: 6 KN BEN ; 2EN
-[iz . ° |
-A D B £
-[Sma pE— 159 HE 24n—9
-Q2-(a) Prove with the usual notation that as per the theory of bending,
-M=E = 6 :
-\ R y 08
-
-( b)Calculate the dimensions of the strongest rectangular section that can be cut from a circular
-
-wood of diameter 25 cm .What will be the longest span of this beam if it is to carry
-
-log of
-0 10 N/sq.mm?What will be
-
-aU.D.L of 2500 N/m and maximum bending stress is limited t
-
-the longest span if the circular log itself is used asa beam? 12
-
-Q3 (a)Derive with the usual notation the following equation for torsion, 03
-
-ke £ = jmax = GO
-J r R L
-
-cted to a torque of 45000 N-m.The angle of twist and the
-
-(b)A solid steel shaft is subje
-10 N/sq.mm 12
-
-maximum shear stress should not exceed 0.5 degrees per metre length and 9
-respectively.Calculate—
-1)Suitable diameter of shaft
-2)Final maximum shear stress and angle of twist for the diameter calculated above
-3)Maximum shear strain‘in the shaft.
-Take shear modulus G= 80,000 N/sq.mm 4/2.
---- page 2 ---
-Q4 (a) The principal stresses at a point across two perpendicular planes are 75 N/sq.mm(Tensile) 08
-and 35 N/sq.mm(Tensile).Find the normal,tangential and resultant stresses ona plane
-at 20 degrees to the major principal plane using Mohr’s circle.
-Q4(b)Direct stresses of 120 N/sq.mm in tension and 90 N/sq.mm in compression are applied to 12
-an elastic material at a certain point on planes at right angles to each other.If the maximum
-principal stress is not to exceed 150 N/sq.mm in tension,what is the shear stress that can be
-
-applied?What is then the maximum shearing stress? Find also the inclinations of the
-principal stresses.
-
-Q5(a)Derive using the normal notation,the formula for the shear stress at a height of ‘a’ from the 08
-N.A on the cross-section of a beam.
-Q5(b)An I-section beam 340mm by 200 mm_has web thickness of 10 mm and flange thickness 12
-
-of 20 mm.It carries a shearing force of 100 KN.Draw the shear stress diagram and find the
-maximum shearing stress.
-
-Q6 (a)A square chimney 24 m high has an opening of 1.25 m by 1.25 m inside.The external 10
-dimensions are 2.5 m by 2.5 m.The horizontal intensity of wind pressure is 1.3 KN/sq.m
-and the specific weight of masonry is 22 KN per cubic metre.Calculate the maximum
-and minimum stress intensities at the base of the chimney.
-
-Q6(b) A cylindrical shell 3m long,closed at the ends, has an internal diameter of lm andawall 10
-thickness of 15 mm.Calculate the circumferential and longitudinal stresses induced
-and also the change in dimensions of the shell if it is subjected to an internal pressure
-of 1.5N/sq.mm. E=200 GN persq. metre and 1/m = 0.3
-
-Q7(a)A beam AB of span 8m is simply supported at its ends.It carries a U.D.L of 30 KN/m 10
-over its entire length and a concentrated load of 60 KN at 3m from the support A.
-Determine the maximum deflection in the beam and its location.
-
-E =200 GN per sq.metre
-M.I for beam section = 800,000 cm‘
-
-Q7(b)A copper rod of 40 mm diameter is surrounded tightly by acast irontube of80mm 10
-
-external diameter ,the ends being firmly fastened together.When put to a compressive
-
-load of 30 KN ,what load will be shared by each?Also determine the amount by which the
-bar shortens if it is 2m long.
-
-E for C.1=175 GN per sq. metre
-E for Copper = 75 GN persq. metre
-
-Ye
-A= ;
-
-sla
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper c84a197647f4
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS B TECH (MECH), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 87.4
-
-````text
-\ SVKM’s NMIMS
-
-» MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Pri :
-ogramine: B. Tech (MECH) Year: II Semester: III
-Batch: 2013-14
-Academic Year: 2014-2015 ~~ ANTE OF Rag, a,
-Subject: Strength of Materials Ji Zsa ey *
-ro,
-, Marks: 100 S$, a ; %,
-| Date: . f 3
-ate 12/06/2015 Time: 2.00 Hinde 5. 00 ‘pa tes ve
-Durations: 3 (hrs}\ @\ ° ») eS
-SN ah i
-Re-Examination Sa Hen
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-NB:
-1) Question No. one is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to cach new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks
-1. A. Explain the term biaxial stress. Berive the expression for normal stresses on planes inclined to the
-main axis. (4)
-B. What is Mohr’s stress circle? How it is useful in solution of stress analysis problems? {4}
-C. Establish the relation to show variation of shear stress across rectangular section. [4]
-D. Draw a typical stress-strain diagram for mild steel. Using the diagram define proportional limit, clastic
-limit, yield stress, ultimate stress and failure stress. {4}
-E. State various assumptions made in deriving torsional formula. 14)
-2. A.A circular bar A B C D is rigidly fixed at A and D and is subjected to axial force as shown
-Determine the reactions, the force in each portion of the bar and the displacement of point B and
-£=200 kN/mm?.
-c D
-R fa —
-aig BORN a
-{1860 mne 2g eue" 4
-r 1-3rn ‘ 2m ;
-ae
-ais B. The cross section of a joist is a T — section, 100 mm x150 mm x 20mm with 106 mm side horizontal.
-Sketch the shear stress distribution if it has to resist a Shear force of 100 kN. 110}
-ee oo a
-
-[
---- page 2 ---
-moment diagram indicating principal values.
-
-SFO KN '
-dokn|m QoKNM
-a stub” dh ody th ox 8
-<p Ee
-aT 4m KM im |
-mm
-
-B. A square column of size 200 mm x 200 mm is subjected to an axial load of 200 kN. in addition to this a
-
-load of 20 kN is acting at an eccentricity of 20 mm about both x-x axis and y-y axis. Find stresses at all the
-four corners. {8]
-
-4. A. A shaft transmits 300 kW power at 120 r.p.m. Determine (a) the necessary diameter of solid circular
-shaft (b) the necessary diameter of hollow circular section, the inside diameter being 2/3 of the external
-diameter. The allowable shear stress is 70 N/mm?. Taking the density of material is 77 kN/m*, calculate
-the % saving in the material if hollow shaft is used. {12]
-
-B. Ata point in an elastic material under strain, there are normal stress of 60 N/mm*and 40 N/mm? (both
-tensile) respectively at right angles to each other, with positive shearing stress of 20 N/mm”. Find {i}
-
-principal stresses and the position of principal planes, and (ii) maximum shear stress and its plane. [8]
-
-5. A. A simply supported beam carries a load varying from w1/m at left end to w2/m at the right end. Find
-the slope at the supports. If L=9 m, w1=20kN/m, and w2=40 kN/m, find the slope at the ends and position
-and magnitude of maximum deflection. E=200 GN/m? and I= 12000 cm’. (12]
-
-mim TITEL I LT [te
-k L a
-
-B. A cast iron pipe has 300 mm bore and 10 mm metal thickness, and is supported at two points 8m
-apart. Find the maximum stress in the metal when it is running full. Take unit weight of the cast iron as
-70 kN/m? and that of water as 9.81 kN/m?. 1g}
-
-6. A. Derive differential equation of the deflection curve of beam. [12]
-
-B. A steam boiler, 3m in diameter, is made of 25 mm thick mild steel plates. The efficiency of longitudinal
-riveted joint is 88 % and that of circumferential riveted joint is 70 %. Determine the permissible steam
-pressure if the maximum tensile stress in plate section through the rivets is ‘not to exceed 120 N/m?
-
-ee Also calculate (a) circumferential stress in the solid plate and (b) longitudinal stress in the plate section
-through the rivets. {8]
---- page 3 ---
-7. A. Ata point in an elastic material under strain, there are normal stresses of 60 N/imm* IN/
-
-(both tensile) respectively at right angle to each other, with positive shearing stress of 20 N/mm. Find
-using the Mohr’s stress circle method, the principal stresses and maximum shear stress at the point. [12]
-
-B. A short C.I. column of hollow circular section is attached with a projection bracket carrying a load of
-100 kN. The load line is off the axis of the column by 200 mm. Find the maximum and minimum stress
-intensities in the column if it has an external diameter of 200 mm and internal diameter of 150 mm. [8]
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper 9bbd1802a086
 
 - Departments: Mechanical
@@ -15457,6 +16955,7 @@ intensities in the column if it has an external diameter of 200 mm and internal 
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS B TECH MECHANICAL BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13/06/2014
 - Text: ocr (3 pages), mean OCR confidence 85.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \
@@ -15493,7 +16992,6 @@ Quel:-Attempt any four [5x4]
 
 a. An axial pull of 35000N is acting on a bar consisting of three lengths as shown in Fig If
 the young modulus=2.1x10°N/mm?, Determine : stress in each section, total elongation of
-the bar. zemdsa 3emclia Koacem cha
 
 WA ¥v
 S5066N +4 7 S5000N
@@ -15604,162 +17102,6 @@ permissible stress as 20N/mm’. : [5]
 % x
 
 313
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper c37b53be2676
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/STRENGH OF MATERIALS BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 10/06/2015
-- Text: ocr (3 pages), mean OCR confidence 90.4
-
-````text
-_SVEM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CIVIL) Year: II Semester: III
-Academic Year: 2014-15 set
-Batch:2013-14 tT OF ty
-eo von ‘
-Subject :Strength of Materials if Beeis100
-
-Date : 10/06/2015
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB: — 1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Assume any other data, wherever not given, suitably but state and justify the same.
-7) Illustrate your answer with neat sketches wherever required.
-8) Figures in brackets on the right hand side indicate full marks.
-
-1. Solve any four questions out of six. (20)
-a) Draw the Shear force and Bending moment Diagram for a beam ABCD, Supported at
-B & C. Length BC = ‘2L’ m & Overhang AB = CD = ‘L’ m, a point load of ‘P’ KN.
-is acting at point A & D.
-b) Draw the Stress-Strain curve for mild steel and explain the salient points on curve.
-c) A solid circular shaft of 30 mm diameter is subjected to torque of 0.25 kN.m causing
-an angle of twist of 3.74° in a 2 m length. Determine the modulus of rigidity for the
-material of the shaft.
-d) A circular section 200 mm diameter is subjected to a shear force of 4 kN when used
-as a beam. Determine the maximum stress induced and draw the shear stress
-distribution diagram.
-e) Find out core of section for a hollow square having external width as ‘B’ and internal
-width as ‘b’.
-f) A bar is subjected to a tensile stress of 100 N/mm?. Determine the normal and
-tangential stresses on a plane making an angle of 60° with the axis of tensile stress.
-2: Draw SFD & BMD for a beam as shown in figure 1 and find the point of contra (20)
-flexure.
-
-\ \
---- page 2 ---
-3c
-
-a)
-
-b) A mild steel specime
-
-40 KN 30 kN/m 50 kN 45 kN
-
-|
-
-AL B ye pe F
-
-T 2m 3m Tisml 25M 7 2M
-
-Figure 1
-A steel rod is subjected to a pull of 10kN and rigidly fixed at the ends at a certain
-temperature. Find the magnitude of the stress and its nature due to the change in
-
-temperature by 20° C (both rise and fall). Area of bar is 200mm?. E = 200Gpa, a =
-
-12x10°/C.
-in was tested in tension using U.T.M. and the following
-
-observations were recorded.
-
-Diameter of the specimen : 10mm
-Length of the specimen : 200 mm
-Extension under a load of 5.3 KN : 0.064 mm
-Load at yield point : 20 kN
-Maximum load :33 KN
-Length of the specimen after fracture : 250 mm
-Diameter at neck 6.7mm
-Breaking load :30 kN
-
-Calculate (i) Young’s modulus (ii) Yield stress (iii) Ultimate stress (iv) % Elongation
-
-(v) Nominal breaking stress (vi) Actual breaking stress
-
-a) Derive the flexural formula for a simply supported beam.
-b) A T-Section beam having flange 160mm wide and 20mm thick’and web 180mm long
-
-and 20mm thick. The permissible stress in compression and tension is equal to
-100N/mm2 and 140N/mm? respectively. Calculate the Maximum UDL the beam can
-
-carry over the simply supported span of 10 m.
-
-a) A hollow rectangular section 40 mm x 80 mm inside dimensions and 10 mm thick is
-
-subjected to a shear force of 50 kN. Draw the Shear stress variation diagram and find
-
-the ratio of maximum shear stress to average shear stress.
-b) Select a suitable diameter for a solid circular shaft to transmit 200 H.P. at 180 r.p.m.
-
-the allowable shear stress is 80 N/mm? and the allowable angle of twist is 1° in a
-
-length of 3m. Take C = 0.82 x 10° N/mm?.
-
-a) A Square column of size 500mm x 500mm subjected to a’load of 25 kN at an
-
-eccentricity of 50mm in both the axis, Calculate the stresses at each corner.
-
-ee
-
-Cio)
-
-(10)
-
-(10)
-(10)
-
-(10)
-
-(10)
-
-(10)
---- page 3 ---
-7.
-
-b) A thin cylinder 75mm internal diameter, 250mm long with walls 2.5mm thick is (19)
-
-a)
-
-b)
-
-subjected to an internal pressure of 7 MN/m?. Determine the change in internal
-diameter and the change in length.
-
-At a point in a strained material the principal stresses are 100 N/mm? tensile and 50 (Wo)
-N/mm? tensile. Find the normal and tangential stresses across a plane passing through
-
-that point inclined at 60° to the plane having 100 N/mm? stress, also calculate the
-resultant stress, angle of obliquity, maximum shear stress and the normal stress on the
-
-plane of maximum shear.
-
-Determine the slope at ‘B’ and deflection under the point load for beam shown (10)
-below.
-Zalsn ZEN] RO
-peat peasant é 2D) B
-
-= deam aS 4m
 ````
 
 ## 2013-14 · Re-Exam · Sem 3 · paper 74fdc903345d
@@ -15895,909 +17237,7 @@ ra
 Ala
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 7011a9105ff3
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 01/12/2014
-- Text: ocr (4 pages), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL) Year: II Semester: II]
-
-Academic Year: 2014-15 Batch: 2013-14
-
-PS aee Rey, %,/
-Subject : Strength of Materials £7, V4 a,
-Marks: 100 wc MPSTME )7
-Date : 01/12/2014 Time : 2.00 p BaONPAA RY de
-
-Durations 3 (
-
-Re - Examination a —S 7;
-
-INSTRUCTION: Candidates should read carefully the instructions
-printed on the question paper and on the cover of the answer book,
-which is provided for the use.
-
-NB: 1) Question No. 01 is compulsory.
-2) Out of remaining questions, attempt any 04 questions.
-3) In all 05 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-Ql Attempt any five
-(a) Draw SFD and BMD for two standard cases of simply (04)
-supported beam with point load.
-
-(b) For a given material Young’s modulus is 1 x 10° N/mm?
-
-and modulus of rigidity 0.4 x 10° N/mm”. Find the bulk (04)
-modulus and lateral contraction of a round bar of 50mm
-diameter and 2.5m long, when stretched 2.5mm. Take
-Poisson’s ratio as 0.25.
-(c) Derive flexural formula for pure bending. (04)
-(d) Draw shear stress distribution diagram for a rectangular (04)
-section and derive the relation between maximum shear
-stress and average shear stress.
-. . 04
-(e) State assumptions made in theory of pure torsion. (04)
-(04)
-
-(f) State and explain Middle Third Rule of core of section
-
-4/4
---- page 2 ---
-Q.2
-
-Q.3
-
-for no tension condition.
-
-(g) A tension member is subjected to axial stress 10 N/mm? (04)
-and the plane of oblique is 30° to the axis of stress.
-Compute the normal and shear stress on oblique plane.
-
-(h) A simply supported beam has a span of 6m. The cross-
-section of a beam is rectangular of width 50mm and (04)
-depth equal to 100mm. Find the maximum value of load
-placed at its centre which will produce deflection of
-
-10mm. Take E = 2 x 10° MPa.
-
-(i) A cylindrical shell 3m long and 1m in diameter is
-
-subjected to an internal pressure of 1 MPa. If the (04)
-thickness of the cylindrical shell is 12mm, find the
-change in volume of the cylindrical shell. Take E = 2 x
-10° N/mm” and Poisson’s ratio = 0.3.
-(a) Draw the Shear force and Bending Moment diagrams for the (10)
-
-following beam. Indicate maximum BM and point of
-
-contraflexure. 25 by
-
-c
-
-A le bf
-
-for am
-
-2am »
-
-40H Ik, 25 EW
-
-Oo
-mo
-
-(b) Draw the Shear force and Bending Moment diagrams for
-the following beam. Indicate maximum BM .
-
-4 L
-
-Vey | TEN
-
-2Ky (10)
-
-|
-
-a a ee ee ee
-
-(a) Derive the equation of bending stress for the beam
-
-M/I = E/R= oly
-
-2/4
-
-(10)
---- page 3 ---
-Q.4
-
-Q.5
-
-Q.6
-
-(b) An element carries two perpendicular stresses through a
-point as 90 N/mm? and 60 N/mm?,both tensile. It also carries a
-shear stress of 45 N/mm’. Find the stress components and
-resultant stress on a plane at 40° inclination to the plane of
-major tensile stress. Also determine the principal stresses and
-principal planes.
-
-(a) The cross section of the joist is a T- section as shown in
-figure. Plot the shear stress distribution force of 200 KN.
-}20 mm
-
-a fen
-
-Zoo
-mM
-A\Q+
-(b) ) Derive the the expression’
-Pot = St
-J oR -
-
-(a) Find the maximum and the minimum stress intensities at the
-base of a uniform circular chimney, having external and
-internal diameters as Sm and 3m respectively. The height of the
-chimney is 25m and is subjected to a wind pressure of 1.5
-kN/m’. The density of the mesonary may be taken as 21 kN/m’.
-
-(b) A simply supported beam with I cross-section carries two
-flanges 10 x 120mm and a central web 10 x 180mm. The beam
-is 6m long and weighs 0.35 kN/m. It carries a central point load
-of 20 KN. Determine the deflection at the centre and the slope at
-the ends. Assume E = 2 x 10° N/mm’.
-
-(a) In a two dimensional stress system, the stresses in two
-planes A and B at a point are as follows.
-
-Plane A - Normal stress = 0, Shear stress = 40 MPa clockwise
-
-Plane B - Normal stress = 60 MPa Tensile, Shear stress =40
-MPa clockwise
-
-Using Mohr’s circle (i) Locate Major and Minor principal
-
-3/4
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(10)
---- page 4 ---
-Q.7
-
-planes and determine respective stresses. (ii) Determine angular
-position of the principal planes with respect to the plane A. (iii)
-Locate the plane of maximum shear with respect to the plane A.
-
-(b) Two vertical rods are each fastened at their upper ends at a
-distance of 600mm apart. Each rod is 3m long and 12mm in
-diameter. A horizontal rigid cross bar connects the lower ends
-of the rods and on it is placed a load of 4500 N so that the cross
-bar remains horizontal. Find the position of the load on the
-cross bar and the stresses in each rod. One rod is of steel for
-which E = 1.96 x 10° N/mm” and the other of bronze for which
-E = 0.63 x 10° N/mm”.
-
-(a) For a tension test on 20 mm diameter bar the following
-observations were recorded for an axial pull of lOOKN. (i)
-Elongation of 0.29 mm over 100mm gauge length. (ii)
-Reduction in diameter of 0.016mm. Calculate Poisson’s ratio
-and modulus of elasticity.
-
-(b) A T-beam having flange 200 x 50mm and a web of 200 x
-50mm with overall height 250mm is subjected to a shear force
-of 120KN. Calculate the shear stresses induced in the section &
-draw the stress distribution diagram. Take I = 1.15x108 mm4
-and Y = 87.5mm from bottom.
-
-4/4
-
-(10)
-
-(10)
-
-(10)
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper daf143426960
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/STRENGTH OF MATERIALS/strength of Materials Batch 2013-14 Re Exam_daf1434269.pdf`
-- Printed on paper: exam date: 01/12/2015
-- Text: ocr (3 pages), mean OCR confidence 90.3
-
-````text
-/
-
-\
-
-4
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CIVIL) Year: II Semester: III
-
-Academic Year: 2015 - 16
-
-Batch:2013-14 - Zeger Ray .
-Subject :Strength of Materials anal” MPSTME YO %
-Time (2.80 pm pRQ0pm Js
-Date : 01/12/2015 Dura iors} U4, e/
-*
-
-Re-Examination * dan, AN
-ee teas is WINES
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB: — 1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Assume any other data, wherever not given, suitably but state and justify the same.
-7) Illustrate your answer with neat sketches wherever required.
-8) Figures in brackets on the right hand side indicate full marks.
-
-1. Solve any four questions out of six. (20)
-i) Explain the following:-
-a) Hooke’s Law.
-b) Factor of safety.
-c) Modulus of Elasticity.
-d) Bulk modulus. ~
-ii) A simply supported beam 6.5 m long carries a gradually varying load (UVL), Zero at
-end A to 1500 N/m at end B. Draw Shear Force and Bending Moment diagram for the
-Beam.
-iii) Two parallel walls, 8m apart, are to be stayed together by a steel rod of 30 mm
-diameter with the help of washer and nuts at the ends. The Steel rod is passed through the
-metal plates and is heated. When its temperature is raised to 90°C, the nuts are tightened .
-Determine the pull in.the bar When it is cooled to 24°C if (i)the ends do not yield (ii)the
-total yielding at the ends is 2 mm E= 205Gpa & coefficient of Thermal Expansion of
-steel equals to 11x 10°°/°C
-
-1/3,
---- page 2 ---
-4,
-
-iv) A steel Bar of 25-mm diameter is acted upon by forces as shown if fig (\). What is the
-total elongation of the bar? Take E= 190Gpa
-
-F—2. —$FA—B
-> Boker SOKN
-
-—
-Go kx 20kN |
-
-v) Draw the Stress and Strain Curve for the Mild Steel and Explain Salient points on the
-Curve.
-
-vi) State the equation of the bars of the varying sections of Conical and Trapezoidal
-Section of uniform thickness
-
-A 100 mm x 40 mm I- Beam is Subjected to a shear force of 15 KN. Find the Transverse Shear
-Stress at the neutral axis and at the top of the web. Compare it with the mean stress on the
-assumption of uniform distribution over the web. What is the percentage of shear force carried
-by the web? Moment of inertia of the section is 1.1 x 10°mm*, web thickness is 3mm and flange
-thickness is 4mm
-
-a) A hollow steel shat transmits 200 Kw of power at 150 rpm. The total angle of twist in
-a length of 5 m of the shaft is 3°. Find the inner and outer diameters of the Shat if the
-permissible shear stress is 60 MPa. G=80 Gpa.
-
-a) A 12-m high masonry retaining wall of trapezoidal section has a width of 2 m at
-the top and 8 m at the bottom. The retaining surface is vertical and the wall retains
-earth which is level up to the top. Determine the maximum and minimum stresses at
-the base. The densities of the earth and the masonry are 14 kN/m> and 25 kN/m3
-respectively and the angle of repose of the earth is 30°
-
-b) Derive the flexural formula for a simply supported beam.
-
-a) A rectangular block is subjected to two perpendicular stresses of 10 Mpa tension and
-10 Mpa compression. Determine the stresses on planes inclined at (i) 30°, (ii) 45°,
-(iii) 60° with the plane of compressive stress.
-
-b) A circle of 200-mm diameter is drawn on a mild steel plate before it is subjected to
-two mutually perpendicular stresses of 160 Mpa and 40 Mpa along with a shear stress
-of 60 Mpa. After stressing, the circle on the plate deforms to an ellipse. Determine
-the lengths of the major.and minor axes of the ellipse and their directions. E= 205Gpa
-and Poisson ratio = 0.3
-
-2/3
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-(10)
-
-(10)
---- page 3 ---
-y Accylindrical shell 3 m long which is closed at the ends has an internal diameter of | (10)
-m and a wall thickness of 15 mm. Calculate the circumferential and longitudinal
-stresses induced and.also change in the dimensions of the shell if it is subjected to an
-internal pressure of 1.5 MN/m?.
-
-b) Draw SFD & BMD for a beam as shown in figure (2)
-
-40N
-
-20 N\ en (8)
-
-jon\ay
-
-dy L ;
-bp begen © SMD 3m aebp
-
-6. A simply supported beam of 8-m span carries two point loads of 64 KN and 48 KN at 1 (10)
-m and 4 m respectively from the left hand end. Find the deflection under each load and
-the maximum deflection. E = 210 GPA and I = 180x 10° mm‘
-b) A 2 m long cantilever made of steel tube of section 150mm external diameter and 10 (10)
-mm thick is loaded as shown in fig (). If E= 200 GN/m2 Calculate: (i) The maximum
-valve of W so that the maximum bending stress is 150 MN/m2; (ii) The maximum
-deflection of the loading.
-
-7. a) A 20 m long Girder carrying a U.D.L of w kn/m is to be supported on Two piers that (12)
-are 12 m apart in such a way that the maximum B.M is as small as possible. Determine
-the distance of piers from the ends of the girders and maximum B.M Draw the S.F and
-B.M diagrams.
-
-b) Calculate SFD and BMD for the following beam (08)
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 9e7fdf65bd82
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14/06/2014
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT 85 ENGINEERING
-
-Programme: MBA Tech (MECH) Year: II Semester: III
-
-Academic Year: 2013-14 Batch :2013-14
-
-Subject : Strength of Materials
-Marks: 100
-Date : 14/06/2014 Time : 2.00 pm to 5.00 pm
-
-Durations: 3 (hrs)
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for the use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question should be started on a fresh page.
-6. Figure in brackets indicated full marks.
-7. Assume suitable data if required and justify the same.
-
-Q.1- Draw the Axial Force Diagram, Shear Force Diagram and Bending moment
-Diagram for the figure shown. Explain the significance of Point of Zero Shear (20M)
-
-60 KN 90 KN/m
-
-20 KN/m a
-Ke re 40l \ \
-a om—|2m__| sm__| 3m Lan?”
-
-Q.2 a. Draw the Bending stress distribution diagram for an I Cross section beam with the
-upper flange measuring 180mm x 20mm and web measuring 20mm x 160 mm and the
-lower flange measuring 100 mm x 10mm. Find the bending Moment resisted by upper
-flange, lower flange and web if the the Bending Moment acting on the Cross section is
-250kN.m (13 M)
-
-Q.2 b Derive the Shear Stress Distribution Formula T = F(Ay)/bI (7M)
-
-Q.3 a A solid shaft of 120mm diameter is required to transmit 200kW at 100 rpm. If the
-angle of twists is not to exceed 2 , then find the length of the shaft. Take modulus of
-
-rigidity for the shaft material as 90 GPa. (8M)
-Q.3 b Derive the flexure formula. Also state four important assumptions of the Simple
-theory of Bending. (12M)
-
-Mo.
---- page 2 ---
-Q.4 a) A beam having T — cross-section with 150mm x 50mm flange and a Web of
-30mm x 200 mm carries a shear force of 1SOkKN. Calculate the shear stress at important
-points and draw the shear stress distribution diagram. (8M)
-
-Q.4 b Amachine component is subjected to the stresses as shown in the figure. Find the
-normal and shearing stress on the section AB inclined at an angle of 60° with x-x axis.
-
-Also find the magnitude and the angle of the resultant stress on the section.. (12M)
-
-50 MPa
-25MPa
-}
-
--as
-
-25MPa
-100MPa 100MPa
-)
-25MPa * 60 7 \B
-
-a
-25MPa
-
-50 MPa
-
-Q.5a. Explain the Stress Strain curve for Ductile material. Derive the formula for
-elongation under self-weight for a uniform rod. (10M)
-Q.5 b Find the longitudinal and hoop stress for a closed cylindrical steel container filled
-with a fluid having a pressure of 3MPa. The internal diameter and thickness of the 0.5m
-long shell is 250 mm and 3 mm respectively. If the Young’s Modulus is 200 GPa and the
-Poisson’s ratio is 0.3 for steel; find the change in dimensions and volume-of the cylinder.
-
-(10M)
-Q.6 a) Find the slopes and deflection at the ends of the beam. Also find the deflection at
-the points C& D. Also find the maximum deflection in the beam. (20M)
-1kN/m 6kN
-A (O {
-AAAI Oy Cc. yo _B
-5m | 3m | 2m
-
-Q.7 a) Find the maximum and minimum stress intensities at the base of a uniform circular
-chimney, having external and internal diameters as 5m and 3m. The height of the
-chimney is 25m and it is subjected to wind pressure of 1.5kKN/m?. The density of the
-masonry may be taken as 21kN/m’. (10M)
-
-Q.7 b) Derive the formula for Hoop stress and longitudinal stress for a cylindrical shell.
-(10M)
-
-SEA AR A A RRR RR ORR RR ARR RAR RCAC 2 OR A CC RR RR Ra oR oR oR oR oR ok ok ok ok ak a a a a
-
-Ar
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 85f6f8f9071d
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 01/12/2014
-- Text: ocr (4 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-\
-
-Programme: MBA Tech (MECH) Year: II Semester: III
-) Academic Year: 2014-15 Batch: 2013-14
-|
-| Subject : Strength of Materials
-Marks: 100
-Date : 01/12/2014 Time : 2.00 pr
-
-Durations 3 (h
-Re _- Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempied.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-1.a Deduce an expression among three elastic constants of a maiteriai. 5
-
-b. Derive the relation between bending moment and shear force in a beam. What do you mean
-by point of inflection or contraflexture? 5
-
-c. Deduce the torsion equation stating the assumptions made. 5
-
-d. Establish the relation to find the shear stress across sections of triangle, side as base. Also
-find the maximum value of shear stress. 5
-
-2. a. A suspended bar consists of two cross sections as shown in the figure. Initially its lower
-surface is 0.8 mm above the ground surface. Determine the reaction of the lower support
-and the stresses in each section when a load of 40 KN is applied as shown in the figure.
-Take E = 205 GPa. 5
---- page 2 ---
-b. | What is volumetric strain? Show that it is the algebraic sum of tree mutually perpendicular
-
-strains. 5
-c. A beam ABCDE is supported at A and D and is loaded as shown in figure below. Determine
-
-the value of W so that the reaction at A and D are equal. For this value of W, draw the SFD
-
-and BMD 10
-20 KN/m 20 KN.M w
-a AN AN AEN ANNAN f_ D E
-E Cc
-a 4M 2M oi a
-—_
-
-3.a A wooden beam 1.8 m long, simply supported at the ends, has a rectangular section 150m
-wide and 600 m deep and carries a uniformly distributed load of 80 KN per meter over the
-entire span. Calculate the bending stress at a layer 200 mm above the bottom of the beam,
-the layer being of the section distant 800 mm from the left support. Also determine the
-
-maximum bending stress developed in the beam.
-10
-
-| -150'mm—_
-
-o M E
-b. Prove the relation y =a with usual notations. 3)
-
-4.a Ashort column of I section has cross sectional area 5520 mm? and maximum radius of gyration
-of 965 mm. A vertical load of W Newton acting through the centroid together a parallel load of
-W/2 Newton acts through a point on the centre line of the web at a distance 100 mm from the
-centroid as shown in the figure. Determine the maximum value of W such that the maximum
-
-stress does not exceed 100 N/mmz2. 10
---- page 3 ---
-300 mm
-
-j
-
-“J |
-Yj wu
-
-WwW, w2
-
-+ +
-400 mm-+—_—_]
-
-b. A short column of external and internal diameters respectively carries an eccentric load W.
-Determine the maximum eccentricity which the load can have without producing tension on
-the cross section of the column. 10
-
-5.a. Asimply supported beam AB, 6 m long is loaded with a UDL of 50 KN/m over the entire span.
-Ata section 1.2 m from end A, find S.F and B.M magnitudes to be resisted and draw the shear
-stress distribution diagrams. Also find the magnitudes of shear stress at a position 5 cm
-below the neutral axis. The cross section of the beam is shown in figure. 10
-
-B
-b. Derive an expression for shear stress distribution across a section of beam. 5
-c. Show the relation to find the shear stress across sections of triangular section. 5
-
-6.a. A shaft carries five pulleys A, B, C, D and E. The details of pulley torques, shaft diameters and shaft
-lengths are given as are given as shown in figure. Determine in which section maximum shear
-stress and in which section maximum angular twist occurs [G = 80 GPA] 10
-
-3/4
---- page 4 ---
-b. Asimply supported beam of 8 m length carries two point loads of 64 KN and 48 KN at 1
-meter and 4 meter respectively from the left hand end. Find the deflection under each
-load and the maximum deflection. Take E= 210 GPA and I= 180 X 10° mm‘.
-
-64 KN 48 KN
-la 4m
-1m |
-A | i le
-a em ° I
-Q i
-
-7.a. At a certain point in a strained material the principal stresses are 100 N/mm? and 40
-N/mm? both tensile. Find the normal, tangential and resultant stresses across a plane
-through the point at 48 degrees to the major principal plane, using Mohr’s circle of
-stress.
-
-b. Wall thickness of a cylindrical shell of 800 mm internal diameter and 2 -m long is 10 mm.
-If the shell is subjected to an internal pressure of 1.5 MPa, find the following:
-Take E= 205 GPa and v = 0.3.
-j. the maximum intensity of shear stress induced.
-ii. The change in the dimensions of the shell.
-
-4/4
-
-10
-
-10
-
-10
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 2f17aa603b9c
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/06/2015
-- Text: ocr (2 pages), mean OCR confidence 88.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (MECHANICAL) Year:Ii
-
-Semester: III
-
-Academic Year: 2014-15
-Batch: 2013-14
-
-Subject :Strength of Materials Marks:100 vs
-Time : 2.00pm - §,6¢
-Durations:3 (hrs) » —s 4
-
-Re-Examination NX a ge fe
-
-a ee ——
-
-Date : 10/06/2015
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB; 1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Q.1 Draw the Axial Force Diagram, Shear Force Diagram and Bending Moment Diagram. Explain the
-
-significance of Point of Zero Shear and Point of contraflexure. Also, indicate if present for the following
-
-beam: 20M
-30KNIM 40 kN 20 kN
-
-Q.2 a) The stresses on two perpendicular planes through a point in a body are 160 MPa and 100 MPa both
-compressive alongwith a shear stress of 80 MPa. Determine the stresses on a plane inclined at 30° to the
-
-plane of 160 MPa stress. . 08M
-Q.2 b)A 5m long Simply Supported beam carries a 200
-
-U.D.L, of 6 KN/m throughout its length. If the cross sl
-
-section of the beam is as shown in the figure, draw a
-
-the shear stress distribution diagram at the cross I
-
-section carrying maximum shear force. (12M) 224
-
-Q.3 a) Explain the stress-strain curve for ductile material and brittle material. (8M)
-Q3 b) A rectangular footing 3m x 2m carries four magnitudes of the stresses at the four corners. (12M)
-
-vertical point loads of 200KN, 150KN, 300KN and D ‘is ¢
-130KN as shown in the figure. Determine the i 180 KN
-i<—0.9
-poe E
-$a ¢1 yt)
-x[ 4 i t |*
-2 t 2
-Forel asad
-geo i et a
-Ty
-M)* }}#-——41*
---- page 2 ---
-Q.4 a) The I- cross section of a beam shown in
-the figure carries a Bending Moment of 75 KN
-Sagging. Find: i) Total Tensile force and ii) the
-
-bending moment resisted by Lower flange.
-
-7” (13M)
-Q.4 b) Derive the formula for elongation of a wire under self-weight. (7M)
-
-Q 5a) A hoiler of 1-6 m dia. is made of 20 mm thick steel plates. Determine the permissible steam pressure
-in the boiler if the efficiency of the longitudinal joint of the boiler is 80% and maximum tensile stress in
-the steel plates is not to exceed 80 MPa. Calculate the longitudinal stress in the plate section through the
-
-rivets of the circumferential joint if the efficiency of the joint is 70 %. (8M)
-Q.5 b) A suspended bar system consists of two is applied as shown. E= 205 GPa
-cross-sections as shown in the figure. Initially its 7?
-lower surface is 0.8mm above the ground surface. nme >| | + em
-Determine the reaction of the lower support and Y a
-the stresses in each section when a load of 40 kN 160 | 40 Ls
-
-mm? | KN) ¢
-
-‘WITATTT7
-08mm = (12M)
-
-Q.6 a) A solid shaft transmits 200 kW at 150 RPM. The total angle of twist in a length of 5m of the shaft is
-30, Find the inner and outer diameters of the shaft if the permissible shear stress is 60 MPa. Take G =
-80GPa. (8M)
-
-Q.6 b) Explain the core of a section wrt the combined direct and bending. Derive the flexure formula.
-
-(12M)
-Q.7 For the beam shown in the figure, find the maximum deflection. Also find slope and deflection at
-points B & F. EI = 70,000 kNm’. (20M)
-30kN/m
-20 kN
-
-A B
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper 391059549fa6
-
-- Departments: Civil, Mechanical
-- Programmes: MBA TECH / CIVIL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/STREANTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2012-13 RE EXAM 20001.pdf` (+1 identical copies)
-- Printed on paper: exam date: 18/06/2015
-- Text: ocr (3 pages), mean OCR confidence 85.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA ‘Tech (MECHANICAL/CIVIL) Year: II Trimester: IV
-
-Academic Year: 2014-15
-
-Batch: 2012-13 y yen“ mes
-iy ys # ,
-Subject: Strength of Materials Arks: 100... _
-
-{me: 2.00 ‘pm 3 Spm
-Date: 18/06/2015 Birations: 3( (Hrs
-+ ,
-
-Re-Examination
-
-INSTRUCTIONS
-* Question No. 1 is compulsory and attempt any FOUR questions out of SEX questions.
-+ Answers to all sub questions should be grouped together.
-
-* Figures to the right indicate full marks.
-
-+ Assume suitable data if necessary and state the same clearly.
-
-Q.1 Draw AFD, SFD and BMD for the beam loaded as shown in the figure below. (20)
-
-\SKN/ rp
-
-plo KN] i
-
-A ANNI i Di
-B
-
-E
->
-et
-an AM }
-
-Q.2 (a) For the bar shown in figure below, determine the reactions and the stresses (12)
-developed if E = 200 GPa.
-
-joo mm
-some 4omm
-BOKK SOkN
-SS — >
-
-y
-pH 2m tam am A
-(b) Determine the self-weight elongation of a tapered bar having larger width ‘B’ at (08)
-
-top fixed end and smaller width ‘b’ at lower free end. The thickness ‘t’ of the bar
-is constant over the entire length “L’. Take modulus of elasticity as “B’.
-
-Page 1 of 3
---- page 2 ---
-Q.3 (a) State assumptions involved in simple theory of torsion and derive simple torsion (10)
-formula.
-
-(b) A closed ended cylindrical vessel is made up of steel plate 8 mm thick. The (10)
-length and the diameter of the vessel are 1000 mm and 250 mm respectively.
-Determine an internal fluid pressure such that the longitudinal and hoop stresses
-in the cylindrical vessel are limited to 120 Mpa. Also calculate the increase in
-the length, diameter and volumse of the cylindrical vessel. Take E = 210 GPa and
-Poisson’s ratio as 0.3.
-
-Q.4 (a) Derive moment curvature relationship. State the assumptions involved in it. (08)
-
-(b) A hollow circular shaft transmits 150 kW power at 100 RPM. Determine the (12)
-diameter of the shaft required if shear stress is not to exceed 120 Mpa and twist
-in a length of 5 m is not to exceed 1.5°. Take G = 80000 Mpa. Assume that the
-maximum torque is 25 % higher than the average torque. Also determine the
-outer diameter of the shaft required if 8 mm thick metal is used as a shaft
-material. Also determine the % saving in the other case when compared with
-solid shaft.
-
-Q.5 . A-simply supported beam of span 8 m is subjected to a load of 20 KN/m over its (20)
-entire length. The cross section of the beam is as shown below. Determine the
-maximum bending stresses developed in the beam. Also determine the
-maximum tensile and compressive force developed in flange portion of the
-section. Also plot the variation of shear stresses across the depth of the section.
-
-What is the ratio of the maximum shear stress to average shear stress?
-
-eet
-
->| K-20 mm |
-
-SOMTrM
-
-ASOMM)
-
-| joomnm
-p200 mi, res
-
-Page 2 of 3
---- page 3 ---
-Q.6 (a) The Normal stresses and shear stress at a point in the strained material are as (08)
-shown below. Determine the normal stress, shear stress and resultant stress on a
-plane making an angle of 50° to the X axis. Use Mohr’s Circle.
-
-20MPag PEO AGO MPL
-(SOMPA
-1 SOMPy xz
-aren
-
-(b) For the stress conditicn given in O.6(a! above, dztermine the direction of (12)
-principal planes, magnitude of principal stresses, magnitude of maximum shear
-stress, direction of planes carrying maximum shear stress and normal stress
-associated with the maximum shear stress. Indicate all the above planes by a
-sketch.
-
-Q.7 (a) A hollow steel column of cross section as shown below has a length 6 m andis (10)
-fixed at one end and hinged at the other end. Determine the maximum load
-carrying capacity of the column using Rankine’s Formula. Take the modulus of
-elasticity as 210 Gpa and Rankine’s constant as 1/3600.
-
-|
-
-—_ 60 Mn)
-Sa oe I OLD
-
-60m
-
-a
-
-mM | nth)
-psd too) Som
-v A aa
-(b) A cantilever beam of length 3 m is subjected to a load of 20 KN ata point 2m (10)
-
-from fixed end and udl of intensity 10 kN/m over entire length. Determine the
-slope and deflection at free end of the beam. Take EI = 25000 kN-m’.
-
-~—
-
-Page 3 of S
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper c3168a74ba52
+## 2013-14 · Re-Exam · Trim 4 · paper c3168a74ba52
 
 - Departments: Civil, Mechanical
 - Programmes: MBA TECH / CIVIL, MBA TECH / MECHANICAL
@@ -16903,260 +17343,120 @@ of 10 KN at point B. Determine the slope and deflection of the beam at point B.
 Take EI = 25000 KN-m’.
 ````
 
-## 2012-13 · Re-Exam · Trim 4 · paper f64cfd47ba1f
+## 2013-14 · Re-Exam · Sem 3 · paper 9e7fdf65bd82
 
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/STREANTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2012-13 RE EXAM0001(3).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/12/2014
-- Text: ocr (3 pages), mean OCR confidence 88.2
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14/06/2014
+- Text: ocr (2 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-~
-
 SVKM’s NMIMS
-‘MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT 85 ENGINEERING
 
-Programme:MBA Tech (MECH / CMIL) Year: II Trimester: IV
-Academic Year: 2014-15 ante oS
-rd S- pan NN
-a,
-Batch:2012-13 fer a ewe y
-Subject : Strength of Materials Marks: 100 roe ~s RARY s
-Time : 2. 00pm \ 4%
-Date :11/12/2014 Durations:3 (hrs Ca IN Z
+Programme: MBA Tech (MECH) Year: II Semester: III
 
-Re-Examination
+Academic Year: 2013-14 Batch :2013-14
 
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+Subject : Strength of Materials
+Marks: 100
+Date : 14/06/2014 Time : 2.00 pm to 5.00 pm
 
+Durations: 3 (hrs)
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for the use.
 NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question should be started on a fresh page.
+6. Figure in brackets indicated full marks.
+7. Assume suitable data if required and justify the same.
 
-1) Question No. 1 is compulsory.
+Q.1- Draw the Axial Force Diagram, Shear Force Diagram and Bending moment
+Diagram for the figure shown. Explain the significance of Point of Zero Shear (20M)
 
-2) Out of remaining questions, attempt any 4 questions.
+60 KN 90 KN/m
 
-3) In all Five questions to be attempted.
+20 KN/m a
+Ke re 40l \ \
+a om—|2m__| sm__| 3m Lan?”
 
-4) All questions carry equal marks.
+Q.2 a. Draw the Bending stress distribution diagram for an I Cross section beam with the
+upper flange measuring 180mm x 20mm and web measuring 20mm x 160 mm and the
+lower flange measuring 100 mm x 10mm. Find the bending Moment resisted by upper
+flange, lower flange and web if the the Bending Moment acting on the Cross section is
+250kN.m (13 M)
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
+Q.2 b Derive the Shear Stress Distribution Formula T = F(Ay)/bI (7M)
 
-Q.1) Draw Axial Force Diagram, Shear Force Diagram & Bending Moment Diagram for
-the beam shown below. (20M)
+Q.3 a A solid shaft of 120mm diameter is required to transmit 200kW at 100 rpm. If the
+angle of twists is not to exceed 2 , then find the length of the shaft. Take modulus of
 
-80 kN 90kN
-30kNm   15kN/m
+rigidity for the shaft material as 90 GPa. (8M)
+Q.3 b Derive the flexure formula. Also state four important assumptions of the Simple
+theory of Bending. (12M)
 
-Cont 30°
-
-= {= T
-
-+ 2m Nie 2m—v}e—.3 m: ae
-
-Q.2 a) Find the maximum torque, that can be safely Applied to a shaft of 80 mm
-diameter. The permissible angle of twist is 1.5 degree in a length of Sm and shear stress is
-
-not to exceed 42 MPa. G = 84GPa. (10M)
-Q.2b)
-A C Cross section beam is carrying a j-——200_.] {
-Shear Force of 60 kN at one of its cross ]10
-section. The dimensions of the cross 7
-section are as shown in the figure. 115
-Determine the Shear Stress Distribution 180
-Diagram for the same. (10M) t
-15
-160 tT
-
-Q.3 a) A closed cylindrical vessel made of steel plates 4mm thick with plane ends, carries
-fluid under a pressure of 1.5 N/mm”. The internal dia. of cylinder is 1m and length is 3m,
-calculate the longitudinal and hoop stress in the cylinder wall and determine the change
-in dimensions and volume of the cylinder. E = 2 X 10° N/mm” and Poisson’s ratio is 0. a
-
-(12M)
-
-Y3
+Mo.
 --- page 2 ---
-Q.3 b) Explain the significance of Factor of Safety, Point of Zero Shear and Point of
+Q.4 a) A beam having T — cross-section with 150mm x 50mm flange and a Web of
+30mm x 200 mm carries a shear force of 1SOkKN. Calculate the shear stress at important
+points and draw the shear stress distribution diagram. (8M)
 
-Contraflexure. (8M)
-Q.4)Find the slope and deflection at the extremities of all the spans of the beam and also
-the maximum deflection. (20M)
-SOkN 80 kN
-\ 2m | 2m \ 3m: , 3m 1
-J | T T t
-OR
-Q.4a) The shear force acting on a | 220 a
-beam at an I[-section with unequal | 2s
-flanges is 120 kN. The section is as -
-shown in the figure. Draw the shear 35 195
-_ stress distribution: diagram with all the
-values of the shear stresses at the -
-extremities as well as the junction of 18,
+Q.4 b Amachine component is subjected to the stresses as shown in the figure. Find the
+normal and shearing stress on the section AB inclined at an angle of 60° with x-x axis.
 
-the web and flanges. (10M)
+Also find the magnitude and the angle of the resultant stress on the section.. (12M)
 
-Q.4 b) A plane element in a boiler is subjected to tensile stresses of 400 MPa on one
-plane and 150 MPa on the other at right angles to the former. Each of the above stresses
-is accompanied by a shear stress of 100 MPa such that when associated with the minor
-tensile stress tends to rotate the element in anticlockwise direction. Find: i) Principal
-stresses and their directions; ii) Maximum shearing stresses and the direction of the plane
+50 MPa
+25MPa
+}
 
-on which they act. (10M)
+-as
 
-Q.5) a)What are the three types of Modulii of elasticity. Explain their significance and
-relation. (6M)
-b) Explain the stress strain curve for a brittle material. (4M)
+25MPa
+100MPa 100MPa
+)
+25MPa * 60 7 \B
 
-c) A rigid bar AB is hinged at A and supported by a copper rod 2m long and steel rod 1m
-long. The bar carries a load of 20kN at D as shown in the figure. If the cross sectional
-areas of steel and copper are 200 mm” and 400 mm‘ respectively , find the load carried
-and also the stresses developed in each rod. Take the values of E for steel and copper as
-200 GPa and 100GPa respectively. :
+a
+25MPa
+
+50 MPa
+
+Q.5a. Explain the Stress Strain curve for Ductile material. Derive the formula for
+elongation under self-weight for a uniform rod. (10M)
+Q.5 b Find the longitudinal and hoop stress for a closed cylindrical steel container filled
+with a fluid having a pressure of 3MPa. The internal diameter and thickness of the 0.5m
+long shell is 250 mm and 3 mm respectively. If the Young’s Modulus is 200 GPa and the
+Poisson’s ratio is 0.3 for steel; find the change in dimensions and volume-of the cylinder.
 
 (10M)
+Q.6 a) Find the slopes and deflection at the ends of the beam. Also find the deflection at
+the points C& D. Also find the maximum deflection in the beam. (20M)
+1kN/m 6kN
+A (O {
+AAAI Oy Cc. yo _B
+5m | 3m | 2m
 
-Q/>
---- page 3 ---
-be | m—+ = 2) — m4
-> + ue ‘-:
-oan |B
+Q.7 a) Find the maximum and minimum stress intensities at the base of a uniform circular
+chimney, having external and internal diameters as 5m and 3m. The height of the
+chimney is 25m and it is subjected to wind pressure of 1.5kKN/m?. The density of the
+masonry may be taken as 21kN/m’. (10M)
 
-A at D
+Q.7 b) Derive the formula for Hoop stress and longitudinal stress for a cylindrical shell.
+(10M)
 
-20 kN
-Q.6a) A short cast iron column has a | 4-160 ——+12
-rectangular section 160 mm x 200mm ix.f Se +
-with a circular hole of 80 mm diameter | _ . |
 
-as shown in the figure. It carries an |
-eccentric load of 100kKN, located as
-
-shown in the figure. Determine the a 200
-values of the stresses at the four corners im i
-of the section. (08M) fl 00
-4 ot
-a é
-
-b) A cylindrical vessel 1.8 m long, 800 mm in diameter is made up of 8 mm thick plates.
-Find the hoop and longitudinal stresses in the vessel, when it contains fluid under
-pressure of 2.5 MPa. Also find the changes in length, diameter and volume of the vessel.
-Take E = 200 GPa and 1/m=0.3. (12M)
-
-Q.7a) Derive the Euler’s formula for column with both ends fixed. (08M) .
-
-b) Find the Euler’s crippling load for a hollow cylindrical steel column of 38 mm external
-dianieter and 2.5 mm thick. Take length of the column as 2.3 m and hinged at its both
-ends. Take E = 205 GPa. Also determine the crippling load by Rankine’s formula using
-constant as 335 MPa and 1/7500. (12M)
-
-% Oe
-
-3/3
+Ar
 ````
 
-## 2012-13 · Re-Exam · Trim 4 · paper add70a74ca6a
-
-- Departments: Civil, Mechanical
-- Programmes: MBA TECH / CIVIL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/STREANTH OF MATERIALS/STRENGTH OF MATERIALS IV (MECHANICAL-CIVIL) MBA TECH 2012-13 RE EXAM(1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/6/2013
-- Text: text (2 pages)
-
-````text
-.   .
-SVKM's NMIMS
-Mukesh Pate1 School of Technolow Management & Engineering
-Programme.: . MBA Tech - MECHANICAL/ CMLYear: 11   Trimester:   ' JY
-Academic Year :2012-2013
-Batch:   2012-2013
-Subject:   Strength of Materials   Marks:   100
-Time:   . 2.00pmTo 5.0
-Date:   11/6/2013   Duration: 3 hrs.
-Re - Examination
-, _   _ _   ~ ______-__. .. .   ,,   . .
-lnsihctions: CanditiatFSiiourd read carefully the instructions printed inthe question paper & on the cover
-of the answer book, which is provided for use.
-N.6:   1) Q:I;is compulsory
-2) Out of remaining questions attempt ANY 4 questions.
-3) ln all 5 questions to be attempted.
-4) All questions carry equal marks. .
-,5 ) Answer to each newquestion to be started on fresh page.
-6) Figures in brackets on the right hand side indicate full marks.   . .   ..
-Q.l ~tternktfollowing questibns   - 20
-a) Draw SFD & BMD   t o ~ j r n
-for beam Shown
-.   .
-. .   (45)
-.   . ~.
-b) Define (I) SFD (2) BMD (3) Point of zero shear (4) Point of contraflexure .   .   .   .
-(5) Sign Conventions for Sheaf force & Bending moment   (05,
-..   .
-Q.2 Attempt the following questions   - 20
-Find stress& in each bar shown in fig, ifextension
-in both bars is same.
-Area of steel bar = 2500-mmz
-Area of Copper bar = 1600 mmz
-Total load supported by bars = 370KN   '   '
-Es=2 x I0%1mm2 .& Ec= 1 x I 05. lt/mmZ
-(10)
-~.
-. '
-b) ~ind'toiateiongation of bar shown, if crass sectional area is &me throughout = 1000 mm2'
-E = - L * ~ ~ P R
-BOKN   - 20KN -D 10KN   "
-(10)
-*.   #.-   ,OW t . c   ,200
-rnm.   mm   mm
-Attempt the following questions   - 20
-a)   A cantilever beam having cross section shown in fig. Subjected
-to maximum bending moment 40 MNmm.
-Determine maximum compressive & tensile bending stress &
-also state its nature.   (10)
---- page 2 ---
-4 Der~vean equatron for shearstress at a section   = SAT -
-II,
-Q.4 Attempt the following questions
-a) Derive an torsron equation for shaft - 7 = - ce =-q
-R   L   r
-b) Derive equatlon for shear stress s for symmetrical I section
-Q.5 Attempt the following questions   -- 20-
-a) A column having cross section shown in
-fig It carries point load of 360 KN havrng
-eccentricity ex = 100mm & ey = 75mm
-oint
-Calculate stresses at ail four
-corners!A,%,C,D) of the section   (10)
-I 8 r =-   I   -   -..+-7.. -n+.'.LT; -   ..L' Y . .   _ . - . . ..- . .. .I -
-- .   . . ?i . > -   - ;. -   . - . . - - -
-f *L   B   . -
-,;om.   .   .   .
-b) A solid round bar 3rn long & 5 cm in diameter used as s t ~ t .Determine crippling load if
-1. Both ends are hinged   (10)   .   .
-2. One end is fixed & other end is free Take E= 2 x 1o5 ~lrnm'   ,%   . ..
-0.6 Attempt the following questions   20
-a) Find (I) Deflection under each load
-(2) Maximum deflection   .   ~.   .   . .
-For the beam shorn in fig, By using
-Macaulys Method.   RB   (10)
-Taka .-.,-
-E= 2 x to5~ MI i = 85 x ~ l o 6 mm4 ~ RA ~   ,   . . ~~ . .
-b) Determine Normal   stress, Tangential
-stress &Resultant Stress, on oblique plane   "'
-inclined at an angle of 45 degree with
-minor tensile stress plane shown in figure.   (1?!
-.   ~   -   - -. ~--   -   .   ~
-Q.7 Attempt the following questions   -   -.   ~s -   -   -   ~   ~
-a) Derive an equation for (I)Hoop stress (2) Longitudinal stress 4 also find the longitudinal
-stress & hoop stress for pipe diameter = 1.5177& thickness =.I.!&m!   subjected   internal
-pressure= I.2 ~lmrn'   .   .   . . . . . . .,..   -   . ... ...* .
-b) Draw SFD & BMD for beam stiown in figure   :   '   ':
-'La --+t zm
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper 49aa94d0eb85
+## 2013-14 · Re-Exam · Trim 4 · paper 49aa94d0eb85
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -17259,153 +17559,365 @@ for steel and 20 GPa for concrete. What would be the change in length of
 the pedestal under that load if the length of the pedestal is 1000 mm.
 ````
 
-## 2012-13 · Re-Exam · Trim 4 · paper 7272e3aefb7e
+## 2012-13 · Exam not stated · Trim 4 · paper b7cad06bc3b1
 
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/STREANTH OF MATERIALS/STRENGTH OF MATERIALS BATCH 2012-13 RE EXAM0001(2).pdf`
-- Printed on paper: max marks: 100; exam date: 11/12/2014
-- Text: ocr (3 pages), mean OCR confidence 91.3
+- Departments: Chemical, Civil, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/STREANTH OF MATERIAL/scan0018(10).pdf` (+2 identical copies)
+- Printed on paper: max marks: 10; exam date: 30/10/2012
+- Text: ocr (2 pages), mean OCR confidence 90.4
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL ae OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS OoOlk
+Mukesh Patel School of Technology Management & Engineering
 
-Programme:MBA Tech (MECH / CIVIL) Year: II Trimester: IV
+Programme: MBA (Tech) -CHEM/CIVIL/MECH Year: II Trimes
+Academic Year : 2012-2013 ;
 
-Academic Year: 2014-15
+Batch: 2011-12 ‘s aon Om
+Subject: STRENGTH OF MATERIALS Marks: 10¢/=( xmims Univers} \ \
+Time: oe fa TSpeO0pm ~ |
+Date: 30/10/2012 Duration: 3h manAny &
+Re - Examination , Ls, ‘}
+~~ ys
+INSTRUCTIONS
 
-Batch:2012-13 oom
+* Question No. 1 is compulsory and attempt any FOUR questions out of SIX questions.
+¢ Answers to all sub questions should be grouped together.
 
-fis
-Marks:100 (i(oezeran Ye
-Time : 2.00pr\ 3 OOpRR A RY
+¢ Figures to the right indicate full marks.
 
-Date :11/12/2014 Durations:3 (
+¢ Assume suitable data if necessary and state the same clearly.
 
-Subject : Strength of Materials
+Q.1 Draw AFD, SFD and BMD for the beam loaded as shown in the figure below. (20)
+100 kN 30 kN/m
 
-Re-Examination a.
+10 kN/m
+30°
 
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+A
+shox 3m XXXX
 
-NB:
+L 2m L
+4 7 7
 
-1) Question No. 1 is compulsory.
+2m L
+ra
 
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1) Draw Axial Force Diagram, Shear Force Diagram & Bending Moment Diagram for
-the beam shown below. (20M)
-
-80 kN 90kN
-30kNm 15 kN/m
-Cooter, 30°
-& coy
-J 2 Mn] 2 m—oe—-3 mi —sfe— 3 mi — |
-
-Q.2 a) Find the maximum torque, that can be safely Applied to a shaft of 80 mm
-diameter. The permissible angle of twist is 1.5 degree in a length of 5m and shear stress is
-
-T
-
-not to exceed 42 MPa. G = 84GPa. (10M)
-Q.2b)
-A C Cross section beam is carrying a J~——200_. t
-Shear Force of 60 KN at one of its cross | 10
-section. The dimensions of the cross 7
-section are as shown in the figure. e115 be
-Determine the Shear Stress Distribution 180
-Diagram for the same. (10M) t
-15
-¥
-1.160
-
-Q.3 a) A closed cylindrical vessel made of steel plates 4mm thick with plane ends, carries
-fluid under a pressure of 1.5 N/mm’. The internal dia. of cylinder is 1m and length is 3m,
-calculate the longitudinal and hoop stress in the cylinder wall and determine the change
-in dimensions and volume of the cylinder. E= 2 X 10° N/mm’ and Poisson’s ratio is 0.3.
-
-(12M)
-Y3
+Q.2(a) A steel tube of 75 mm external diameter and 10 mm thick encloses rigidly a (12)
+copper rod of 55 mm diameter. The length of the composite rod is 3 m. Calculate
+the change in the length of the composite rod and the stresses developed in both
+the materials when it is subjected to a temperature rise of 50°C. Take E for steel
+j and copper as 200 Gpa and 100 Gpa respectively and coefficient of thermal
+expansion and contraction as 12 x 10° and 18 x 10° /C respectively.
+(b) A hollow circular bar of length ‘L’, and Diameter ratio 5/8 fixed at bottom. It is (08)
+subjected to a compressive force of P. Derive an expression for the contraction
+of the bar due to a load P and its own weight combined together.
+Q.3 (a) A steel beam of symmetrical I section has following properties. (15)
+Top and bottom flanges: 200 mm X 20 mm
+i Thickness of web: 10 mm
+Overall depth: 400 mm
+v ) The beam is simply supported over a span of 6 m and is loaded by two point
+loads 50 kN each 2 m from either supports. Determine the maximum bending
+stresses developed Also plot the shear stress variation across the section.
+Comment on the safety of the beam if allowable bending and shear stresses are
+150 Mpa and 100Mpa respectively.
+ip.
 --- page 2 ---
-Q.3 b) Explain the significance of Factor of Safety, Point of Zero Shear and Point of
-Contraflexure. (8M)
+(b) Explain the beams of uniform strength with sketches (05)
 
-Q.4)Find the slope and deflection at the extremities of all the spans of the beam and also
-the maximum deflection. (20M)
+Q.4 . Write the assumptions involved in theory of simple bending. (20)
 
-90kN 80.kN
+Derive simple flexure formula and simple torsion formula
+Q.5 (a) A hollow circular shaft transmits 100 kW power at 100 RPM. Determine the (12)
+external diameter of the shaft required if shear stress is not to exceed 80 Mpa
+and twist in a length of 1m is not to exceed 1°.
+Take G = 80000 Mpa
+Assume that the maximum torque is 15% greater than mean torque and diameter
+ratio as 5/6.
 
-moke Th
-ee ers | i |
-3m }
+(b) A cylindrical vessel, whose ends are closed, is made up of steel plate 10 mm (08)
+thick. The length and the diameter of the vessel are 1500 mm and 750 mm
+respectively. Determine an internal fluid pressure such that the longitudinal and
+hoop stresses in the cylindrical vessel are limited to 150 Mpa. Also calculate the
+increase in the length, diameter and volume of the cylindrical vessel. Take E =
+200 GPa and Poisson’s ratio as 0.3.
 
-2m | 2m F 3m '
-J
-OR
-Q.4a) The shear force acting on a 220 4
-beam at an J-section with unequal 25
-flanges is 120 KN. The section is as
-shown in the figure. Draw the shear 195
-stress distribution diagram with all the
-values of the shear stresses at the -
+Q.6 (a) The state of stress at a point in the strained material is as follows. (12)
 
-extremities as well as the junction of 14,
-the web and flanges. (10M)
+Normal stresses are 150Mpa and 75 Mpa both tensile.
 
-Q.4 b) A plane element in a boiler is subjected to tensile stresses of 400 MPa on one
-plane and 150 MPa on the other at right angles to the former. Each of the above stresses
-is accompanied by a shear stress of 100 MPa such that when associated with the minor
-tensile stress tends to rotate the element in anticlockwise direction. Find: i) Principal
-stresses and their directions; ii) Maximum shearing stresses and the direction of the plane
+Shear stresses are 30Mpa.
 
-on which they act. (10M)
+Determine the direction of principal planes, magnitude of principal stresses,
+magnitude of maximum shear stress, direction of planes carrying maximum
+shear stress and normal stress associated with the maximum shear stress.
+Indicate all the above planes by a sketch.
 
-Q.5) a)What are the three types of Modulii of elasticity. Explain their significance and
-relation. (6M)
-b) Explain the stress strain curve for a brittle material. (4M)
+(b) Explain Mohr’s Circle method for determining the principal stresses and (08)
+principal planes with example.
 
-c) A rigid bar AB is hinged at A and supported by a copper rod 2m long and steel fod 1m
-long. The bar carries a load of 20kN at D as shown in the figure. If the cross sectional
-areas of steel and copper are 200 mm” and 400 mm?” respectively , find the load carried
-and also the stresses developed in each rod. Take the values of E for steel and copper as
-200 GPa and 100GPa respectively.
+Q.7 (a) A hollow circular steel column of External diameter 150 mm and 10 mm thick, (10)
+i having length 6 m, is hinged at both ends. Determine the maximum load
+carrying capacity of the column using Rankine’s Formula. Take the modulus of
 
+elasticity as 200 Gpa and Rankine’s constant as 1/3600.
+
+(b) A beam ABC is simply supported at A and C. AB = 3 mand overhang BC = 2m. (10)
+It is subjected to a udl of intensity 10kN/m over portion AC and a concentrated
+load of 10 KN at point B. Determine the slope and deflection of the beam at point
+B, Take EI = 25000 kN-m’.
+
+vw
+
+fa.
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper 382ee45e0880
+
+- Departments: Civil, Mechanical
+- Programmes: MBA TECH / CIVIL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/STREANTH OF MATERIALS/scan0026(4).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; exam date: 30/10/2012
+- Text: ocr (3 pages), mean OCR confidence 85.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS .
+Mukesh Patel School Of Technology Management & Engineering
+
+\ MBA(Tech) - .
+\, Progra : Ee , : :
+‘ gramme (Civil Mechariiaal) Year: Il Trimester: IV
+Academic Year : 2012-2013
+Subject: STRENGTH OF MAT! : \ |
+ubjec GTH OF MATERIALS Marks: 100 FC. now sf \
+Time: 2.00 pm «6.00 piles = =°.
+Date: 30/10/2012 ‘Duration: 3 hbrahat Ey
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the qué
+paper and on the cover of the Answer Book, which is provided for the use.
+NB:
+1. Question No. | is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question should be started on a fresh page.
+6. Figure in brackets indicated full marks.
+7. Assume suitable data if required and justify the same.
+
+Q.1 a) Draw the Axial Force Diagram, Shear Force Diagram and Bending moment
+
+Diagram for the figure shown. (15M)
+20 kKN/m 40KN
+
+E ] 8 G@b2tKN™ 5 E
+
+= 2m —rle— 2 rn apf Dl trig 2m —»|
+Q.1 b) Explain the significance of Point of Zero shear. (5M)
+
+Q.2 a)Explain the Stress Strain curve for Brittle material & Define Young’s Modulus
+(SM)
+Q.2 b A brass bar of varying cross sections is subjected to the loads shown in the Figure.
+Find the maximum stress and total elongation if E = 2x 10° MPa. (SM)
+30KN | 40 Le
+
+| go0mm | 1000.
+
+* Q.2¢ A bar ECD is kept in a horizontal position by two vertical rods, one of brass and
+V ) the other of steel. The steel rod has a length of 3m and a diameter of 20 mm. The brass
+rod has a length of 2m and a diameter of 30 mm. Find the position of the load P so that
+
+the bar remains horizontal. E = 200GPa for steel and 100 GPa for brass. (10M)
+--- page 2 ---
+g| & =| |
+& e |; {E
+E is
+8 | |
+ey td
+i)
+a | ,
+- |
+res
+4m igs
+
+a 1
+
+Q.3 a) The C/s. of a simply supported beam is a symmetrical T-section. The web is
+50mm width x 200 depth while the flange is 180 mm width x 40 mm depth. The 4m long
+Simply supported beam carries a U.D.L. of 5kN/m from its fixed support for a length of
+2m and 30 KN vertical point load above the roller support at the other end. Find the
+maximum tensile force resisted by the cross section at a-distance of 2m from fixed end.
 (10M)
+Q. 3 b Derive the Flexure formula. State five assumptions in Bending Theory. (10M)
 
-Q/2,
+Q.4 a) Prove the relationship between the Maximum Shear Stress and Average Shear
+Stress for a Rectangular C/s. (5M)
+
+Q. 4b) Show that in a strained material subjected to two-dimensional stress, the sum of
+the normal components of stress on any two mutually perpendicular planes is constant.
+(SM) —
+Q.4 c) Draw the shear stress distribution diagram of the following beam having a
+symmetrical I —Section at the cross section having maximum Shear Force. Also find the
+
+shear force resisted by the flanges. (10M)
+
+_ 200,
+
+gE
+
+poo 20 kim | 7 |
+
+/ 50 kN ae
+
+{ 200
+. 2m \ so), a
+eo 200!
+
+Q.5 a) A masonry chimney 24 m high of uniform circular section has 3.5m external dia.
+and 2m internal dia. It is subjected to a horizontal wind pressure of 1kN/m’ of projected
+area. Find the maximum and minimum stress intensities at the base if the specific weight
+
+of the masonry is 22 kN/m?. (10M)
+a
+
+(!s b) A symmetric C- channel section Rankine’s constant is (1/1600). Figure of
+shown in the figure is 3m long, with C- Section is as follows: (10M)
+
+both ends hinged. Compare the load
+carrying capacities obtained using
+Euler’s and Rankine’s critical load. E =
+200GPa, Crushing stress is 300 MPa &
+
+*p
 --- page 3 ---
-Q.6a) A short cast iron column has a
-rectangular section 160 mm x 200mm
-with a circular hole of 80 mm diameter
-as shown in the figure. It carries an
-eccentric load of 100kKN, located as
-shown in the figure. Determine the
-values of the stresses at the four corners
-of the section. (08M)
+4
 
-b) A cylindrical vessel 1.8 m long, 800 mm in diameter is made up of 8 mm thick plates.
-Find the hoop and longitudinal stresses in the vessel, when it contains fluid under
-pressure of 2.5 MPa. Also find the changes in length, diameter and volume of the vessel.
-Take E = 200 GPa and 1/m = 0.3. (12M)
+220mm | | |
 
-Q.7a) Derive the Euler’s formula for column with both ends fixed. (08M) .
+Q. 6 a) Find the power transmitted by a shaft 40m long rotating at 320 RPM without
+exceeding the permissible stress of 100 MPa if the shaft is i) a solid circular shaft of
 
-b) Find the Euler’s crippling load for a hollow cylindrical steel column of 38 mm external
-diameter and 2.5 mm thick. Take length of the column as 2.3 m and hinged at its both
-ends. Take E = 205 GPa. Also determine the crippling load by Rankine’s formula using
-constant as 335 MPa and 1/7500. ~(12M)
+diameter 60 mm _ and ii) a hollow shaft of the same internal diameter and has the same
+weight as the solid shaft (10 M)
 
-3/3
+b) A Simply supported beam has a UDL of SkN/m. upto a distance of 2m from its fixed
+support at left end and a vertical point load of 20KN at a distance of 2m from its other
+roller support. The length of the beam is 6m.-Find the maximum deflection in the beam.
+E=2x 10' N/mm”. The beam has a rectangular C/s.-of 100 mm width and 200 mm
+depth. (10M)
+
+Q. 7 a) A spherical shell has 120 cm dia is subjected to an internal fluid pressure of 2
+MPa. Yourng’s Modulus is 1 x 10°N/mm7 . Poisson’s ratio is 0.3. Find the stress
+developed change in dimensions. (10 M)
+
+b) Find the normal and shear stresses on a plane inclined at an angle of 30° with the x-x
+axis for a point ina body which is subjected to a compressive stress of 320MPa in y-y
+direction and a tensile stress of 220MPa in the x-x direction. Each of the above stresses is
+subjected to a shear stress of 100 MPa such that when it is associated with the
+compressive stress, it tends to rotate the element in an anticlockwise direction. (10M)
+
+````
+
+## 2012-13 · Re-Exam · Trim 4 · paper add70a74ca6a
+
+- Departments: Civil, Mechanical
+- Programmes: MBA TECH / CIVIL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/STREANTH OF MATERIALS/STRENGTH OF MATERIALS IV (MECHANICAL-CIVIL) MBA TECH 2012-13 RE EXAM(1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/6/2013
+- Text: text (2 pages)
+
+````text
+.   .
+SVKM's NMIMS
+Mukesh Pate1 School of Technolow Management & Engineering
+Programme.: . MBA Tech - MECHANICAL/ CMLYear: 11   Trimester:   ' JY
+Academic Year :2012-2013
+Batch:   2012-2013
+Subject:   Strength of Materials   Marks:   100
+Time:   . 2.00pmTo 5.0
+Date:   11/6/2013   Duration: 3 hrs.
+Re - Examination
+, _   _ _   ~ ______-__. .. .   ,,   . .
+lnsihctions: CanditiatFSiiourd read carefully the instructions printed inthe question paper & on the cover
+of the answer book, which is provided for use.
+N.6:   1) Q:I;is compulsory
+2) Out of remaining questions attempt ANY 4 questions.
+3) ln all 5 questions to be attempted.
+4) All questions carry equal marks. .
+,5 ) Answer to each newquestion to be started on fresh page.
+6) Figures in brackets on the right hand side indicate full marks.   . .   ..
+Q.l ~tternktfollowing questibns   - 20
+a) Draw SFD & BMD   t o ~ j r n
+for beam Shown
+.   .
+. .   (45)
+.   . ~.
+b) Define (I) SFD (2) BMD (3) Point of zero shear (4) Point of contraflexure .   .   .   .
+(5) Sign Conventions for Sheaf force & Bending moment   (05,
+..   .
+Q.2 Attempt the following questions   - 20
+Find stress& in each bar shown in fig, ifextension
+in both bars is same.
+Area of steel bar = 2500-mmz
+Area of Copper bar = 1600 mmz
+Total load supported by bars = 370KN   '   '
+Es=2 x I0%1mm2 .& Ec= 1 x I 05. lt/mmZ
+(10)
+~.
+. '
+b) ~ind'toiateiongation of bar shown, if crass sectional area is &me throughout = 1000 mm2'
+E = - L * ~ ~ P R
+BOKN   - 20KN -D 10KN   "
+(10)
+*.   #.-   ,OW t . c   ,200
+rnm.   mm   mm
+Attempt the following questions   - 20
+a)   A cantilever beam having cross section shown in fig. Subjected
+to maximum bending moment 40 MNmm.
+Determine maximum compressive & tensile bending stress &
+also state its nature.   (10)
+--- page 2 ---
+4 Der~vean equatron for shearstress at a section   = SAT -
+II,
+Q.4 Attempt the following questions
+a) Derive an torsron equation for shaft - 7 = - ce =-q
+R   L   r
+b) Derive equatlon for shear stress s for symmetrical I section
+Q.5 Attempt the following questions   -- 20-
+a) A column having cross section shown in
+fig It carries point load of 360 KN havrng
+eccentricity ex = 100mm & ey = 75mm
+oint
+Calculate stresses at ail four
+corners!A,%,C,D) of the section   (10)
+I 8 r =-   I   -   -..+-7.. -n+.'.LT; -   ..L' Y . .   _ . - . . ..- . .. .I -
+- .   . . ?i . > -   - ;. -   . - . . - - -
+f *L   B   . -
+,;om.   .   .   .
+b) A solid round bar 3rn long & 5 cm in diameter used as s t ~ t .Determine crippling load if
+1. Both ends are hinged   (10)   .   .
+2. One end is fixed & other end is free Take E= 2 x 1o5 ~lrnm'   ,%   . ..
+0.6 Attempt the following questions   20
+a) Find (I) Deflection under each load
+(2) Maximum deflection   .   ~.   .   . .
+For the beam shorn in fig, By using
+Macaulys Method.   RB   (10)
+Taka .-.,-
+E= 2 x to5~ MI i = 85 x ~ l o 6 mm4 ~ RA ~   ,   . . ~~ . .
+b) Determine Normal   stress, Tangential
+stress &Resultant Stress, on oblique plane   "'
+inclined at an angle of 45 degree with
+minor tensile stress plane shown in figure.   (1?!
+.   ~   -   - -. ~--   -   .   ~
+Q.7 Attempt the following questions   -   -.   ~s -   -   -   ~   ~
+a) Derive an equation for (I)Hoop stress (2) Longitudinal stress 4 also find the longitudinal
+stress & hoop stress for pipe diameter = 1.5177& thickness =.I.!&m!   subjected   internal
+pressure= I.2 ~lmrn'   .   .   . . . . . . .,..   -   . ... ...* .
+b) Draw SFD & BMD for beam stiown in figure   :   '   ':
+'La --+t zm
 ````
 
 ## 2011-12 · Exam not stated · Trim 4 · paper 1191fcd36918
@@ -17552,6 +18064,7 @@ ox
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/STREANTH OF MATERIALS/STRENGTH OF MATERIAL BATCH 2011-12 RE EXAM0001.pdf`
 - Printed on paper: exam date: 12/06/2012
 - Text: ocr (2 pages), mean OCR confidence 86.2
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -17611,7 +18124,6 @@ maximum Bending Moment and point of contraflecture. \
 
 200N 120 pufro
 cc) At ‘i
-; bE Im b 7 10 z t
 4 a ; A
 
 Two Vertical rods are fasteried at their upper ends at a distance of 600 mm apart. Each rod is [10}
@@ -17663,8 +18175,6 @@ Que7 a) Draw the shear force diagram and bending moment diagram for the followin
 maximum Bending Moment. dl
 ot wv
 LZ sOK
-a c D E il B
-* Ym Sm ym _y im y
 b) Derive the torsion equation and also find the torque transmitted by the solid circular shaft of [10]
 j diameter D.
 
@@ -17678,6 +18188,7 @@ po ae
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/STREANTH OF MATERIAL/strength of materials 2010-2011.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28/10/2010
 - Text: ocr (3 pages), mean OCR confidence 83.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -17795,7 +18306,6 @@ inside diameter carries a vertical load of 400 KN along one of the diameter plan
 away from the axis of the column. Find the extreme intensities of stresses and their
 
 nature. Calculate the modification required to remove the tensile stress. (12M)
-2 2 es ae 2g 2 2 ee ee of 22h 2 ee 2 ok ee og os oe of fe 22 of of fe 22 of se 2 of 2 ee os 2 2 oe 2 oR is og ok eo og oo oo 2 OK
 ````
 
 ## 2010-11 · Re-Exam · Trim 4 · paper 2bd4835039e9
@@ -17949,6 +18459,7 @@ zz)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/STREANTH OF MATERIAL/2008-2009(44).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 85.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 i
@@ -18051,7 +18562,6 @@ L -- 12kN/m |
 , Bye Pe tecncbercarr.! E
 
 (Sj
-|e. we 2 1 —ole- me 2 i -rl a an
 --- page 3 ---
 —_—_ «= [ed
 3
@@ -18242,6 +18752,7 @@ x
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/STREANTH OF MATERIAL/2007-2008(31).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 80.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 wee?
@@ -18255,7 +18766,6 @@ ENGINEERING — MPSTME):
 MBA Tech HI Year
 Trimester IV 2007- 08.
 
-Subject: Streagth of Materials (Che nuicol + Mowe chun ce)
 Dates Q4+-C09-OF Marks: 100 9 Co 5.60 pm
 Time: 3 hrs P
 Instructions: Candidates should read carefully the instructions printed on the
@@ -18368,7 +18878,6 @@ Determine the stresses across the Cross section (8M)
 1 5G kN 50 kN
 eP ey —?
 £ | 46mm
-pelo ceca Salli: ae me mee be eee a —
 Q t
 S} |
 1
@@ -18385,6 +18894,7 @@ __
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/STREANTH OF MATERIAL/2007-2008 re exam(11).pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 79.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Fe om mom Oe
@@ -18539,7 +19049,6 @@ a \
 
 Je-1000 mm +[¢—— 1500 mm ——e|750 mmfe— 1250 mm ——>}
 
-oi oe oe ok ok eo oo oR ek RR RK
 ````
 
 ## 2005-06 · Exam not stated · Trim 4 · paper b9c6921f6b46
@@ -18702,535 +19211,4 @@ ee «+50 N/mm
 im
 
 -X-X-X-
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper b7cad06bc3b1
-
-- Departments: Chemical, Civil, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/STREANTH OF MATERIAL/scan0018(10).pdf` (+2 identical copies)
-- Printed on paper: max marks: 10; exam date: 30/10/2012
-- Text: ocr (2 pages), mean OCR confidence 90.4
-
-````text
-SVKM’s NMIMS OoOlk
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA (Tech) -CHEM/CIVIL/MECH Year: II Trimes
-Academic Year : 2012-2013 ;
-
-Batch: 2011-12 ‘s aon Om
-Subject: STRENGTH OF MATERIALS Marks: 10¢/=( xmims Univers} \ \
-Time: oe fa TSpeO0pm ~ |
-Date: 30/10/2012 Duration: 3h manAny &
-Re - Examination , Ls, ‘}
-~~ ys
-INSTRUCTIONS
-
-* Question No. 1 is compulsory and attempt any FOUR questions out of SIX questions.
-¢ Answers to all sub questions should be grouped together.
-
-¢ Figures to the right indicate full marks.
-
-¢ Assume suitable data if necessary and state the same clearly.
-
-Q.1 Draw AFD, SFD and BMD for the beam loaded as shown in the figure below. (20)
-100 kN 30 kN/m
-
-10 kN/m
-30°
-
-A
-shox 3m XXXX
-
-L 2m L
-4 7 7
-
-2m L
-ra
-
-Q.2(a) A steel tube of 75 mm external diameter and 10 mm thick encloses rigidly a (12)
-copper rod of 55 mm diameter. The length of the composite rod is 3 m. Calculate
-the change in the length of the composite rod and the stresses developed in both
-the materials when it is subjected to a temperature rise of 50°C. Take E for steel
-j and copper as 200 Gpa and 100 Gpa respectively and coefficient of thermal
-expansion and contraction as 12 x 10° and 18 x 10° /C respectively.
-(b) A hollow circular bar of length ‘L’, and Diameter ratio 5/8 fixed at bottom. It is (08)
-subjected to a compressive force of P. Derive an expression for the contraction
-of the bar due to a load P and its own weight combined together.
-Q.3 (a) A steel beam of symmetrical I section has following properties. (15)
-Top and bottom flanges: 200 mm X 20 mm
-i Thickness of web: 10 mm
-Overall depth: 400 mm
-v ) The beam is simply supported over a span of 6 m and is loaded by two point
-loads 50 kN each 2 m from either supports. Determine the maximum bending
-stresses developed Also plot the shear stress variation across the section.
-Comment on the safety of the beam if allowable bending and shear stresses are
-150 Mpa and 100Mpa respectively.
-ip.
---- page 2 ---
-(b) Explain the beams of uniform strength with sketches (05)
-
-Q.4 . Write the assumptions involved in theory of simple bending. (20)
-
-Derive simple flexure formula and simple torsion formula
-Q.5 (a) A hollow circular shaft transmits 100 kW power at 100 RPM. Determine the (12)
-external diameter of the shaft required if shear stress is not to exceed 80 Mpa
-and twist in a length of 1m is not to exceed 1°.
-Take G = 80000 Mpa
-Assume that the maximum torque is 15% greater than mean torque and diameter
-ratio as 5/6.
-
-(b) A cylindrical vessel, whose ends are closed, is made up of steel plate 10 mm (08)
-thick. The length and the diameter of the vessel are 1500 mm and 750 mm
-respectively. Determine an internal fluid pressure such that the longitudinal and
-hoop stresses in the cylindrical vessel are limited to 150 Mpa. Also calculate the
-increase in the length, diameter and volume of the cylindrical vessel. Take E =
-200 GPa and Poisson’s ratio as 0.3.
-
-Q.6 (a) The state of stress at a point in the strained material is as follows. (12)
-
-Normal stresses are 150Mpa and 75 Mpa both tensile.
-
-Shear stresses are 30Mpa.
-
-Determine the direction of principal planes, magnitude of principal stresses,
-magnitude of maximum shear stress, direction of planes carrying maximum
-shear stress and normal stress associated with the maximum shear stress.
-Indicate all the above planes by a sketch.
-
-(b) Explain Mohr’s Circle method for determining the principal stresses and (08)
-principal planes with example.
-
-Q.7 (a) A hollow circular steel column of External diameter 150 mm and 10 mm thick, (10)
-i having length 6 m, is hinged at both ends. Determine the maximum load
-carrying capacity of the column using Rankine’s Formula. Take the modulus of
-
-elasticity as 200 Gpa and Rankine’s constant as 1/3600.
-
-(b) A beam ABC is simply supported at A and C. AB = 3 mand overhang BC = 2m. (10)
-It is subjected to a udl of intensity 10kN/m over portion AC and a concentrated
-load of 10 KN at point B. Determine the slope and deflection of the beam at point
-B, Take EI = 25000 kN-m’.
-
-vw
-
-fa.
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 382ee45e0880
-
-- Departments: Civil, Mechanical
-- Programmes: MBA TECH / CIVIL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/STREANTH OF MATERIALS/scan0026(4).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; exam date: 30/10/2012
-- Text: ocr (3 pages), mean OCR confidence 85.1
-
-````text
-SVKM’s NMIMS .
-Mukesh Patel School Of Technology Management & Engineering
-
-\ MBA(Tech) - .
-\, Progra : Ee , : :
-‘ gramme (Civil Mechariiaal) Year: Il Trimester: IV
-Academic Year : 2012-2013
-Subject: STRENGTH OF MAT! : \ |
-ubjec GTH OF MATERIALS Marks: 100 FC. now sf \
-Time: 2.00 pm «6.00 piles = =°.
-Date: 30/10/2012 ‘Duration: 3 hbrahat Ey
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the qué
-paper and on the cover of the Answer Book, which is provided for the use.
-NB:
-1. Question No. | is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question should be started on a fresh page.
-6. Figure in brackets indicated full marks.
-7. Assume suitable data if required and justify the same.
-
-Q.1 a) Draw the Axial Force Diagram, Shear Force Diagram and Bending moment
-
-Diagram for the figure shown. (15M)
-20 kKN/m 40KN
-
-E ] 8 G@b2tKN™ 5 E
-
-= 2m —rle— 2 rn apf Dl trig 2m —»|
-Q.1 b) Explain the significance of Point of Zero shear. (5M)
-
-Q.2 a)Explain the Stress Strain curve for Brittle material & Define Young’s Modulus
-(SM)
-Q.2 b A brass bar of varying cross sections is subjected to the loads shown in the Figure.
-Find the maximum stress and total elongation if E = 2x 10° MPa. (SM)
-30KN | 40 Le
-
-| go0mm | 1000.
-
-* Q.2¢ A bar ECD is kept in a horizontal position by two vertical rods, one of brass and
-V ) the other of steel. The steel rod has a length of 3m and a diameter of 20 mm. The brass
-rod has a length of 2m and a diameter of 30 mm. Find the position of the load P so that
-
-the bar remains horizontal. E = 200GPa for steel and 100 GPa for brass. (10M)
---- page 2 ---
-g| & =| |
-& e |; {E
-E is
-8 | |
-ey td
-i)
-a | ,
-- |
-res
-4m igs
-
-a 1
-
-Q.3 a) The C/s. of a simply supported beam is a symmetrical T-section. The web is
-50mm width x 200 depth while the flange is 180 mm width x 40 mm depth. The 4m long
-Simply supported beam carries a U.D.L. of 5kN/m from its fixed support for a length of
-2m and 30 KN vertical point load above the roller support at the other end. Find the
-maximum tensile force resisted by the cross section at a-distance of 2m from fixed end.
-(10M)
-Q. 3 b Derive the Flexure formula. State five assumptions in Bending Theory. (10M)
-
-Q.4 a) Prove the relationship between the Maximum Shear Stress and Average Shear
-Stress for a Rectangular C/s. (5M)
-
-Q. 4b) Show that in a strained material subjected to two-dimensional stress, the sum of
-the normal components of stress on any two mutually perpendicular planes is constant.
-(SM) —
-Q.4 c) Draw the shear stress distribution diagram of the following beam having a
-symmetrical I —Section at the cross section having maximum Shear Force. Also find the
-
-shear force resisted by the flanges. (10M)
-
-_ 200,
-
-gE
-
-poo 20 kim | 7 |
-
-/ 50 kN ae
-
-{ 200
-. 2m \ so), a
-eo 200!
-
-Q.5 a) A masonry chimney 24 m high of uniform circular section has 3.5m external dia.
-and 2m internal dia. It is subjected to a horizontal wind pressure of 1kN/m’ of projected
-area. Find the maximum and minimum stress intensities at the base if the specific weight
-
-of the masonry is 22 kN/m?. (10M)
-a
-
-(!s b) A symmetric C- channel section Rankine’s constant is (1/1600). Figure of
-shown in the figure is 3m long, with C- Section is as follows: (10M)
-
-both ends hinged. Compare the load
-carrying capacities obtained using
-Euler’s and Rankine’s critical load. E =
-200GPa, Crushing stress is 300 MPa &
-
-*p
---- page 3 ---
-4
-
-220mm | | |
-
-Q. 6 a) Find the power transmitted by a shaft 40m long rotating at 320 RPM without
-exceeding the permissible stress of 100 MPa if the shaft is i) a solid circular shaft of
-
-diameter 60 mm _ and ii) a hollow shaft of the same internal diameter and has the same
-weight as the solid shaft (10 M)
-
-b) A Simply supported beam has a UDL of SkN/m. upto a distance of 2m from its fixed
-support at left end and a vertical point load of 20KN at a distance of 2m from its other
-roller support. The length of the beam is 6m.-Find the maximum deflection in the beam.
-E=2x 10' N/mm”. The beam has a rectangular C/s.-of 100 mm width and 200 mm
-depth. (10M)
-
-Q. 7 a) A spherical shell has 120 cm dia is subjected to an internal fluid pressure of 2
-MPa. Yourng’s Modulus is 1 x 10°N/mm7 . Poisson’s ratio is 0.3. Find the stress
-developed change in dimensions. (10 M)
-
-b) Find the normal and shear stresses on a plane inclined at an angle of 30° with the x-x
-axis for a point ina body which is subjected to a compressive stress of 320MPa in y-y
-direction and a tensile stress of 220MPa in the x-x direction. Each of the above stresses is
-subjected to a shear stress of 100 MPa such that when it is associated with the
-compressive stress, it tends to rotate the element in an anticlockwise direction. (10M)
-
-3 AG 2 ae of oR oR oe a 2 2 a ok of ae a of of a ke oko eo oe 9 Ko a oe 9 oR oe oe eo oo oe ak ok ok oe eo oe 2k he oe feo oe eo 2 oR ok HE
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper c6f11c2ec97f
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/STRENGH OF MATERIALS/STRENGTH OF MATERIALS (MECHANICAL), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 02 December 2017
-- Text: ocr (2 pages), mean OCR confidence 80.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHANICAL) » - Year: ID - Semester: III
-
-x
-
-Academic Year: 2017-2018
-
-i\lucd 8? Tgp
-Subject: Strength of Materials — > ~
-
-: asf NO
-Marks: 70 ~ ‘ e%\
-Date: 02 December 2017 ~ Time: 10.00 am; dtr m8 3
-Durations: 3 (arg SO" 8 pe
-No. of Pages: \ rw
-Final-Examination st eee Z .
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1)-Question No. ONE is compulsory.
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-Q1 Attempt any two of the following
-a) A bar ABCD 950 mm long is made of three parts AB, BC and CD of lengths 250,450 and 250 mm_ [7]
-respectively. End portions AB and CD are cylindrical of diameter 25 mm and 15 mm
-whereas central portion BC is square section (30 x 30 mm). A bar is subjected to 26 kN. Find the
-stresses in rods as well.as elongation in each rods. Take Young’s modulus as 200 GPa.
-
-b) Draw a shear force and Bending diagram for a cantilever shown in the figure. [7]
-\ ps tN] yeene
-A y : OOO VV)" =
-a D E
-, im , 15m in 2m 0-5
-
-c) Write a short note on Longitudinal and circumferential stress in thin cylinder. A900 mmdiameter [7]
-pipe contains a fluid at a pressure of 25 N/mm’. If the safe stress in tension is 100 MPa find the
-minimum thickness of pipe.
-
-Q2a) Two vertical rods (steel and bronze) are each fastened at their upper ends at a distance 600 m apart. [7]
-Each rod is 3 meter long and 12 mm in diameter. A horizontal rigid bar connects the lower ends of
-the rods on it is placed a load of 4500 N so that the cross bar remain horizontal. Find the position of
-the load on the cross bar and thé stress in each rod. Take Young’s Modulus for steel and bronze are
-196 and 63 GPa.
-b) Derive the formula for maximum torque transmitted by solid circular shaft. [7]
-Q3a) State assumptions in pure bending and derive a bending formula for a beam. [7]
-
-b) Ahorizontal beam of the cross section shown in the figure is 3 m long and simply supported at ends. [7]
-
-Find the maximum uniformly distributed load it can carry, if the compressive and tensile stress must
-
-—— not exceed 55 MPa and 30 MPa. {9 “>
-r44~ 25MM 455mm
-
-|
-- ©
-N L
-~| 25 Mm
-“ rs
-150mm
-Yo
---- page 2 ---
-~A
-
-Q4 Draw a shear force and bending Moment diagram for the Beam shown below, aiso show Point of [10]
-
-a) Contraflexure. ; o.
-vy 4OIKN
-y DKNIM
-A $22
-m8 co PE
-7
-4 2M, IM, AM, 2m 2M
-' I ' j t F
-b) Explain the point of contraflexure and point of maximum moment. [4]
-
-Q5a) Asimply supported beam is facing maximum shear force of 100 kN across the section. Section ofa [7]
-
-beam is shown below. Calculate and Draw shear stress distribution across the section.
-200mm
-
-_| | | | 50 mr
-
-[s)
-[3)
-“ ->| 50
-b) Find the stress intensities on all four corners of a pier. [7]
-¥
-100k 6 O-TM, “EA
-ote Eg Prev (3x2m)
-_ | g& | g
-of smi StS “
-Sam IO
-300 ki” y
-KAS ; 400.
-
-: 4
-}
-Q6a) A plane element in a body is subjected to a tensile stress of 100 MPa accompanied by a clockwise [7]
-shear stress of 25 MPa. Find the normal and shear stress on a plane inclined at an angle of 20° with
-tensile stress and maximum shear stress on a plane. (Solve analytically).
-
-b) Solve above problem Graphically. [7]
-Q7 For a simply supported beam shown in the figure, find deflection at C and D. Take E=200 GPa and _ [7]
-a) moment of Inertia 6.50 x 10° mm‘.
-
-4QKN
-f 10 KNI™M
-Z DOOY YY
-A ~ £ B
-2m, 2m, 4
-Parr ee {
-b) Find out slope and deflection equations for a cantilever carrying a uniformly supported load w over [7]
-
-a full span of length L.
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 294ef07f3b48
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/STRENGTH OF MATERIALS/STRENGTH OF MATERIALS (MECHATRONICS), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 November 2017
-- Text: ocr (3 pages), mean OCR confidence 87.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-F Programme: B. Tech (MECHATRONICS) Year: II - Semester: III ~
-wt
-i Academic Year: 2017-2018
-Subject: Strength of Materials
-a Marks: 70 ~ ‘ ,Teae oa
-Date: 28 November 2017 Time: 10.00 am tt. Ce ALY FA
-a Durations: 3 (hrs)
-
-No. of Pages:
-Final-Examination Se ht ey
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-A Explain Mohr’s circle construction for principal stresses. (4)
-B Attempt any FIVE of the following (2 Marks each) (10)
-1. Define Factor of safety and state its importance.
-
-2. Draw Shear Force diagram for the loaded beam as shown
-| 25 kN |*5 KN
-
-YY.
-
-ba m L = | im
-
-B
-
-State assumptions made in ‘Theory of Bending’
-
-4. Calculate the bursting pressure for a cold drawn seamless steel tubing of 60 mm
-inside diameter with 2 mm wall thickness. The ultimate strength of steel is 380
-MN/m’.
---- page 2 ---
-5. What is Torsional Rigidity. n
-
-6. Define Modulus of Rigidity and state its unit.
-
-Wp Meat Meter”
-Q2 A Draw SFD and BMD for the loaded beam as shown in figure. (10)
-
-B A brass bar having cross sectional area of 1000 mm? is subjected to axial forces (4)
-shown in figure. Find the total elongation of the bar. Modulus of Elasticity of brass =
-
-100 GN/m’.
-
-I si TST
-
-20 KN
-10 KN |
-M 80 KN N p
-
-0.6 m>|+—1.0 m + /+—1.2 m —>
-
-Q3 A Derive the Bending Equation. (7)
-B An symmetrical I-section with rectangular ends has the following dimensions: (7)
-Flanges : 100mm x 10 mm :
-Web   : 120mm x 10mm_
-If this section is subjected to a bending moment of 5 kNm and a shearing force of 5
-
-KN, find the maximum tensile and shear stresses induced in it.
-. — varcde
-Q4 A A beam of channel section 120 mm,x 60 has uniform thickness of 15 mm. Draw (8)
-diagram showing the distribution of shear stress for a vertical section where shearing
-force is 50 KN. Find the ratio between maximum and mean shear stresses.
-
-teeta
-Mega Neddneped miter Squive
-B A boiler shell is to be made of 15 mm thick plate having tensile stress of 120 MN/m2. (6)
-pee If the efficiencies of the longitudinal and circumferential joints are 70 % and 30 %
-
-respectively. Determine maximum possible diameter of the shell for an internal
-pressure of 2 MN/m?.
-
-243
---- page 3 ---
-Q5°A A masonry chimney 24 m high, of uniform circular section, 3.5 m external diameter (9)
-and 2 m internal diameter is subjected to a horizontal wind pressure of 1 kN/m’ of
-projected area. Find the maximum and minimum stress intensities at the base, if the
-specific weight of masonry is 22 kN/m’.
-
-B A hollow shaft of diameter ratio 3:5 is required to transmit 600 kW at 110 RPM the (5)
-maximum torque being 12 % greater than the mean. The shear stress is not to exceed
-60 N/mm* and the twist in length of 3 m not to exceed 1°, Calculate the minimum
-external diameter. Take G = 8 X 10* N/mm’.
-
-Q6 A A plane element is subjected to stresses as shown in the figure. Determine (8)
-analytically:
-a. The principal planes and their stresses
-b. The plane of maximum shear and its intensity
-
-r 0G MPa
-so mpa
-150 MPa 150 MPa
-30°
-50 MPa <
-Vv100 MPa
-B Explain stress on an oblique plane of a member subjected to axial stress in one (6)
-direction only.
-7 A Determine the following for an overhanging beam ABC supported at A and’ B and (12)
-g
-loaded as shown in figure:
-(i) Deflection at the free end C;
-(ii) | Maximum deflection between A and B.
-Take: E = 200 x 10°kKN/m? and I= 13.5 x 10° m*
-4.5 EN
-f 3 i:N/m i
-ne mf Bom ao Da Oe Qe
-B What is stress? State different types of stresses. (2)
-
-2h s
 ````

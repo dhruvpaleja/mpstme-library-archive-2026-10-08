@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_EXTC_7006/ANALOG CIRCUITS ANALYSIS AND DESIGN/ANS_ANALOG CIRCUITS ANALYSIS AND DESIGN(702EX0C031)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2025
 - Text: mixed (4 pages), mean OCR confidence 40.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -142,6 +143,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_EXTC_7006/ANALOG CIRCUITS ANALYSIS AND DESIGN/ANS_ANALOG CIRCUITS ANALYSIS AND DESIGN(702EX0C031)_2025-2026_f1759fc383.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2025
 - Text: mixed (4 pages), mean OCR confidence 40.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -268,6 +270,106 @@ Load
 FIC 7) IC HOH
 ````
 
+## 2025-26 · Re-Exam · Sem 4 · Answer key · paper 759f4350a464
+
+- Departments: Electronics and Telecommunication
+- Programmes: BTech EXTC 7006
+- Source: `02_Question_Papers/2024/Sem_04/Re-Exam/BTech_EXTC_7006/Analog Circuits Analysis and Design/ANS_Analog Circuits Analysis and Design(702EX0C013)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
+- Text: text (3 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (ELECTRONICS &
+TELECOMMUNICATION ENGINEERING)
+Year: II/Semester IV(Exam Year: 2025-2026)
+Subject: Analog Circuits Analysis and Design
+Date: 05 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:   [20]
+CO- 5;   a.   Various stages-------------3 Marks
+SO- 1;   Function in the construction of an op- amp-------------2 Marks   [05]
+BL-1
+b.   What do you understand by class A, class B and class C amplifiers ----3
+CO-6;   Marks
+SO-1 ;   [05]
+BL-1   Mention the maximum efficiency in each case-------------2 Marks
+CO-4 ;   c.   What do you understand by an electronic oscillator-------------3 Marks
+SO-1 ;   What is the Barkhausen condition under which a feedback amplifier   [05]
+BL-1   works as an oscillator-------------2 Marks
+CO- 1;   d.   Equivalent circuit of a common emitter amplifier in terms of approximate
+SO-1 ;   h- parameter -------------3 Marks   [05]
+BL-1   Equation for voltage gain -------------2 Marks
+Design a single stage RC coupled CE amplifier-
+Circuit Diagram- 3 Marks
+Q2
+CO-2;   [20]
+SO-1;
+BL-3
+Selection of 07 components- 14 Marks
+********** 1 **********
+--- page 2 ---
+Determination of Ic and Vcc – 3 Marks
+Design:
+Circuit Diagram- 3 Marks
+Selection of 07 components- 14 Marks
+Q3
+CO-3;   [20]
+SO-1;
+BL-3
+Expected ripple factor for designed circuit- 3 Marks
+Q4   a   Circuit diagram of phase shift oscillator – 4 Marks
+CO-4;   Working- 3 Marks   [10]
+SO-1;   Necessary necessary conditions for sustained oscillations- 3 Marks
+BL-2
+b   Design BJT phase shift oscillator to operate at 10kHz
+Design:
+Circuit Diagram- 3 Marks
+Selection of components-7 Marks
+CO-4;
+SO-1;   [10]
+BL-3
+Q5   a   Voltage gain = - gm (rd ∥ RD)----------------- 4 Marks
+CO-1;   Input impedance = RG---------------------------------------3 Marks   [10]
+SO-1;   Output impedance = rd ∥ RD--------------------------------3 Marks
+BL-3
+b   Explanation- use of the TINA tool in the design of amplifier circuits-----
+CO-1;
+SO-1;   ---------6 Marks   [10]
+BL-2   Example----------4 Marks
+Q6   a   What do you understand by term negative feedback in amplifiers?
+CO-4;   ----------4 Marks   [10]
+SO-1;   Enumerate the effects of negative feedback on the various characteristics
+BL-1   of the amplifier----------6 Marks
+********** 2 **********
+--- page 3 ---
+b   Precision half wave rectifier circuit -------------3 Marks
+CO-5;
+SO-1;   Explanation --------------------4 Marks   [10]
+BL-2   Waveforms---------3 Marks
+Q7   a   Push pull power amplifier Circuit----------4 Marks
+CO-6;   Working----------3 Marks   [10]
+SO-1;   Derivation n expression for its efficiency---------- 3 Marks
+BL-1
+CO-5;   b   Summing amplifier circuit -------------6 Marks
+SO-1;   Explanation --------------------4 Marks   [10]
+BL-2
+********** 3 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper cde47d8c4dfa
 
 - Departments: Electronics and Telecommunication
@@ -391,104 +493,4 @@ SO-1;
 [10]
 BL-2;
 ********** 4 **********
-````
-
-## 2024-25 · Re-Exam · Sem 4 · Answer key · paper 759f4350a464
-
-- Departments: Electronics and Telecommunication
-- Programmes: BTech EXTC 7006
-- Source: `02_Question_Papers/2024/Sem_04/Re-Exam/BTech_EXTC_7006/Analog Circuits Analysis and Design/ANS_Analog Circuits Analysis and Design(702EX0C013)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
-- Text: text (3 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY (ELECTRONICS &
-TELECOMMUNICATION ENGINEERING)
-Year: II/Semester IV(Exam Year: 2025-2026)
-Subject: Analog Circuits Analysis and Design
-Date: 05 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Question No. 1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1
-Answer briefly:   [20]
-CO- 5;   a.   Various stages-------------3 Marks
-SO- 1;   Function in the construction of an op- amp-------------2 Marks   [05]
-BL-1
-b.   What do you understand by class A, class B and class C amplifiers ----3
-CO-6;   Marks
-SO-1 ;   [05]
-BL-1   Mention the maximum efficiency in each case-------------2 Marks
-CO-4 ;   c.   What do you understand by an electronic oscillator-------------3 Marks
-SO-1 ;   What is the Barkhausen condition under which a feedback amplifier   [05]
-BL-1   works as an oscillator-------------2 Marks
-CO- 1;   d.   Equivalent circuit of a common emitter amplifier in terms of approximate
-SO-1 ;   h- parameter -------------3 Marks   [05]
-BL-1   Equation for voltage gain -------------2 Marks
-Design a single stage RC coupled CE amplifier-
-Circuit Diagram- 3 Marks
-Q2
-CO-2;   [20]
-SO-1;
-BL-3
-Selection of 07 components- 14 Marks
-********** 1 **********
---- page 2 ---
-Determination of Ic and Vcc – 3 Marks
-Design:
-Circuit Diagram- 3 Marks
-Selection of 07 components- 14 Marks
-Q3
-CO-3;   [20]
-SO-1;
-BL-3
-Expected ripple factor for designed circuit- 3 Marks
-Q4   a   Circuit diagram of phase shift oscillator – 4 Marks
-CO-4;   Working- 3 Marks   [10]
-SO-1;   Necessary necessary conditions for sustained oscillations- 3 Marks
-BL-2
-b   Design BJT phase shift oscillator to operate at 10kHz
-Design:
-Circuit Diagram- 3 Marks
-Selection of components-7 Marks
-CO-4;
-SO-1;   [10]
-BL-3
-Q5   a   Voltage gain = - gm (rd ∥ RD)----------------- 4 Marks
-CO-1;   Input impedance = RG---------------------------------------3 Marks   [10]
-SO-1;   Output impedance = rd ∥ RD--------------------------------3 Marks
-BL-3
-b   Explanation- use of the TINA tool in the design of amplifier circuits-----
-CO-1;
-SO-1;   ---------6 Marks   [10]
-BL-2   Example----------4 Marks
-Q6   a   What do you understand by term negative feedback in amplifiers?
-CO-4;   ----------4 Marks   [10]
-SO-1;   Enumerate the effects of negative feedback on the various characteristics
-BL-1   of the amplifier----------6 Marks
-********** 2 **********
---- page 3 ---
-b   Precision half wave rectifier circuit -------------3 Marks
-CO-5;
-SO-1;   Explanation --------------------4 Marks   [10]
-BL-2   Waveforms---------3 Marks
-Q7   a   Push pull power amplifier Circuit----------4 Marks
-CO-6;   Working----------3 Marks   [10]
-SO-1;   Derivation n expression for its efficiency---------- 3 Marks
-BL-1
-CO-5;   b   Summing amplifier circuit -------------6 Marks
-SO-1;   Explanation --------------------4 Marks   [10]
-BL-2
-********** 3 **********
 ````

@@ -14,17 +14,17 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Predictive Analytics(702EX0E012)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Predictive Analytics(702EX0E012)_2025-2026_4fd8a6401c.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Predictive Analytics(702EX0E012)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / EXTC | Predictive Analysis 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech EXTC 7006 | QP_Predictive Analytics(702EX0E012)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBA TECH / EXTC | Predictive Analytics, 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Predictive Analytics(702EX0E012)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Predictive Analytics(702EX0E012)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Predictive Analytics(702EX0E012)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Predictive Analytics(702EX0E012)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Predictive Analytics(702EX0E012)_2025-2026_4fd8a6401c.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Predictive Analytics(702EX0E012)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech EXTC 7006 | QP_Predictive Analytics(702EX0E012)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Predictive Analytics(702EX0E012)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Predictive Analytics(702EX0E012)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Predictive Analytics(702EX0E012)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / EXTC | Predictive Analytics, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / EXTC | Predictive Anlytics Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBA TECH / EXTC | Predictive Analytics , Final 2024-25.pdf |

@@ -186,6 +186,206 @@ ee IP core used for embedded system design.
 Page 2 of 2
 ````
 
+## 2023-24 · Exam not stated · Sem 6 · paper fd315e75e7ac
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Embedded System Design/Embedded System Design.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 22/04/24
+- Text: ocr (2 pages), mean OCR confidence 88.3
+
+````text
+&To
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN!
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Program: B. Tech/MBA Tech ~ Year: III Semester: VI
+
+Stream: Electronics and Telecommunication
+
+Subject: Embedded System Design Time: 03 hrs. (02.00 pm to 5.00 pm)
+Date: 22/04/24 No. of Pages: 02
+
+Marks: 100
+
+Final Examination
+
+Tustructions: Candidates shouid read carefuiiy the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+we So; | a. | Discuss System On Chip concept in embedded system with a suitable example. | [05]
+eee Oi b. | What is RS-232? Draw DB-9 pin connector with mentioning all pins name and | [05]
+
+explain any two pins
+
+a So; | c. | Outline issues for the scheduler in RTOS and list methods to solve it. [05]
+re Sol; | d. | Distinguish between Emulators and Simulators [05]
+Q2 a. | List components of embedded system and explain architecture of embedded [10]
+Bea system with the help of suitable diagram.
+
+Q2 b. | What are different communication protocol? Summarize features of ZigBee | [10]
+ceo technology in details. Also list Network devices and application of ZigBee
+
+Q3 a. | Develop an 8051 based program in embedded C to send message ‘INDIA’ | [10]
+fe serially with a 4800-baud rate using full duplex serial port of 8051
+
+Q3 b. | Explain Deadlock issue occurs during share data system in RTOS with suitable [10]
+Reaiso-L, example.
+
+Page 1 of 2
+--- page 2 ---
+Q4 a. Define Computational Models in Embedded Design. Illustrate FSM model for | [10]
+
+mie the Automatic Tea/Coffee vending Machine.
+Q4 b. | Discuss target hardware debugging process in details. [10]
+0-4; SO-1;
+BL-6
+Q5 a. i) Distinguish between actuators and sensors | [5+5]
+a SO=15 ii) List thermal sensors and Explain basic working principles of any four.
+Q5 b. .| Discuss different process states and state transition with the help of suitable | [10] -
+soa SO-15 diagram in RTOS.
+Q6 a. | List the two basic approaches of embedded firmware design and develop an 8051 | [10]
+sto controller based system to blink single LED at regular intervals connected on any
+
+, one pin of parallel portl. Write a code using assembly or C language.
+Q6 b. | Design any one microcontroller based embedded system with suitable | [10]
+ae requirements and hardware software specifications.
+Q7 a. Compare Harvard architecture and Von-Neumann architecture. [05]
+CO-1; SO-1;
+BL-2
+Q7 b. | Explain current Embedded OS trends in brief. [05]
+C03 ; $O-1;
+BL2
+Q7 c. | List the Integrated Development Environment components used in embedded | [05]
+Co Se system and explain disassembler. :
+Q7 d. | List core of embedded systems design and discuss the different core on which | [05]
+wie embedded system design depends.
+
+Page 2 of 2
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper 9e1356948089
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Embedded System Design/Embedded System Design_9e13569480.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’S NMIMS ee NEST
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023 ser, '
+Program/s: B TECH /MBA TECH Year: III Semester: VI
+
+Stream/s: EXTC
+Subject: Embedded System Design Time: 03 hrs (2:o0pmto 5:00pm)
+Date:_03 /o7 / 2023 No. of Pages: 02
+Marks: 100
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly:
+
+Pe ‘ma |e Briefly discuss Reduced Instruction Set Computing architecture. [5]
+oo _ b. | Sketch and list all fields of the standard CAN message format. [5]
+CO-1; c. | Compare Static RAM and Dynamic RAM. [5]
+$0-6,7; BL-4
+
+CO-3; d. | What is Semaphore? Discuss counting Semaphore. [5]
+| SO-6,7; BL-2
+
+Q2 a [10]
+
+Discuss the different techniques used for data communication among tasks.
+CO-3;
+$0-6,7; BL-2
+b. | Describe following tools in detail. [10]
+
+CO-1; .
+
+S0-6.7; BL-2 1. Compiler
+
+2. Decompiler
+
+Q3 * | Sketch and explain the FSM model for the Automatic Tea/Coffee vending [10]
+ee BL- Machine. List various states and events.
+
+3,2
+
+pao BLD b. | Explain the RS 232 serial interface in detail. [10]
+
+Page lof 2
+--- page 2 ---
+Q4 a. | Discuss the various types of microprocessors and microcontrollers used in /, » [10]
+CO-1; design of embedded systems.
+
+$0-6,7; BL-2
+
+0-4: b. | Develop an 8051 base system to generate a square wave of 10KHz frequency. [10]
+$0-6,7; BL-6
+
+Write a code using assembly or C language.
+
+Q5 a [10]
+
+Describe the deadlock problem in detail with suitable example?
+
+CO-3;
+$0-6,7; BL-2
+en a b. | List and briefly explain the various digital electronics components used in [10]
+12 embedded system.
+Q6 a. [10]
+meen Discuss the fundamental issues in hardware software co-design.
+$0-6,7;BL-2
+CO-1: b. | List and explain the various files which are generated during cross compilation | [10]
+$0-6,7; BL-2 process.
+Q7 a. | Discuss the different components required to build the power supply unit used
+CO-1; in embedded systems. a
+$0-6,7; BL-2
+
+b. | Design and discuss an automated meter reading system for electricity
+a BL-6 measurement with its essential requirements and hardware software [10]
+
+specifications.
+
+Page 2 of 2
+````
+
 ## 2022-23 · Exam not stated · Sem 6 · paper a98c4daabee5
 
 - Departments: Electronics and Telecommunication
@@ -911,204 +1111,4 @@ c) Tool chains
 
 2
 7
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper fd315e75e7ac
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Embedded System Design/Embedded System Design.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 22/04/24
-- Text: ocr (2 pages), mean OCR confidence 88.3
-
-````text
-&To
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN!
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Program: B. Tech/MBA Tech ~ Year: III Semester: VI
-
-Stream: Electronics and Telecommunication
-
-Subject: Embedded System Design Time: 03 hrs. (02.00 pm to 5.00 pm)
-Date: 22/04/24 No. of Pages: 02
-
-Marks: 100
-
-Final Examination
-
-Tustructions: Candidates shouid read carefuiiy the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-we So; | a. | Discuss System On Chip concept in embedded system with a suitable example. | [05]
-eee Oi b. | What is RS-232? Draw DB-9 pin connector with mentioning all pins name and | [05]
-
-explain any two pins
-
-a So; | c. | Outline issues for the scheduler in RTOS and list methods to solve it. [05]
-re Sol; | d. | Distinguish between Emulators and Simulators [05]
-Q2 a. | List components of embedded system and explain architecture of embedded [10]
-Bea system with the help of suitable diagram.
-
-Q2 b. | What are different communication protocol? Summarize features of ZigBee | [10]
-ceo technology in details. Also list Network devices and application of ZigBee
-
-Q3 a. | Develop an 8051 based program in embedded C to send message ‘INDIA’ | [10]
-fe serially with a 4800-baud rate using full duplex serial port of 8051
-
-Q3 b. | Explain Deadlock issue occurs during share data system in RTOS with suitable [10]
-Reaiso-L, example.
-
-Page 1 of 2
---- page 2 ---
-Q4 a. Define Computational Models in Embedded Design. Illustrate FSM model for | [10]
-
-mie the Automatic Tea/Coffee vending Machine.
-Q4 b. | Discuss target hardware debugging process in details. [10]
-0-4; SO-1;
-BL-6
-Q5 a. i) Distinguish between actuators and sensors | [5+5]
-a SO=15 ii) List thermal sensors and Explain basic working principles of any four.
-Q5 b. .| Discuss different process states and state transition with the help of suitable | [10] -
-soa SO-15 diagram in RTOS.
-Q6 a. | List the two basic approaches of embedded firmware design and develop an 8051 | [10]
-sto controller based system to blink single LED at regular intervals connected on any
-
-, one pin of parallel portl. Write a code using assembly or C language.
-Q6 b. | Design any one microcontroller based embedded system with suitable | [10]
-ae requirements and hardware software specifications.
-Q7 a. Compare Harvard architecture and Von-Neumann architecture. [05]
-CO-1; SO-1;
-BL-2
-Q7 b. | Explain current Embedded OS trends in brief. [05]
-C03 ; $O-1;
-BL2
-Q7 c. | List the Integrated Development Environment components used in embedded | [05]
-Co Se system and explain disassembler. :
-Q7 d. | List core of embedded systems design and discuss the different core on which | [05]
-wie embedded system design depends.
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 9e1356948089
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Embedded System Design/Embedded System Design_9e13569480.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’S NMIMS ee NEST
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023 ser, '
-Program/s: B TECH /MBA TECH Year: III Semester: VI
-
-Stream/s: EXTC
-Subject: Embedded System Design Time: 03 hrs (2:o0pmto 5:00pm)
-Date:_03 /o7 / 2023 No. of Pages: 02
-Marks: 100
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly:
-
-Pe ‘ma |e Briefly discuss Reduced Instruction Set Computing architecture. [5]
-oo _ b. | Sketch and list all fields of the standard CAN message format. [5]
-CO-1; c. | Compare Static RAM and Dynamic RAM. [5]
-$0-6,7; BL-4
-
-CO-3; d. | What is Semaphore? Discuss counting Semaphore. [5]
-| SO-6,7; BL-2
-
-Q2 a [10]
-
-Discuss the different techniques used for data communication among tasks.
-CO-3;
-$0-6,7; BL-2
-b. | Describe following tools in detail. [10]
-
-CO-1; .
-
-S0-6.7; BL-2 1. Compiler
-
-2. Decompiler
-
-Q3 * | Sketch and explain the FSM model for the Automatic Tea/Coffee vending [10]
-ee BL- Machine. List various states and events.
-
-3,2
-
-pao BLD b. | Explain the RS 232 serial interface in detail. [10]
-
-Page lof 2
---- page 2 ---
-Q4 a. | Discuss the various types of microprocessors and microcontrollers used in /, » [10]
-CO-1; design of embedded systems.
-
-$0-6,7; BL-2
-
-0-4: b. | Develop an 8051 base system to generate a square wave of 10KHz frequency. [10]
-$0-6,7; BL-6
-
-Write a code using assembly or C language.
-
-Q5 a [10]
-
-Describe the deadlock problem in detail with suitable example?
-
-CO-3;
-$0-6,7; BL-2
-en a b. | List and briefly explain the various digital electronics components used in [10]
-12 embedded system.
-Q6 a. [10]
-meen Discuss the fundamental issues in hardware software co-design.
-$0-6,7;BL-2
-CO-1: b. | List and explain the various files which are generated during cross compilation | [10]
-$0-6,7; BL-2 process.
-Q7 a. | Discuss the different components required to build the power supply unit used
-CO-1; in embedded systems. a
-$0-6,7; BL-2
-
-b. | Design and discuss an automated meter reading system for electricity
-a BL-6 measurement with its essential requirements and hardware software [10]
-
-specifications.
-
-Page 2 of 2
 ````

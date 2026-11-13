@@ -2401,6 +2401,240 @@ time or under predetermined conditions.
 ********** 9 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 8 · Answer key · paper d1f773a40d67
+
+- Departments: Mechanical
+- Programmes: MBATech(MECHANICAL ENGINEERING) - 7046
+- Source: `02_Question_Papers/2023/Sem_08/Re-Exam/MBATech(MECHANICAL ENGINEERING) - 7046/Financial Management/ANS_Financial Management(703TF0C003)_2023-2024.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 02 May 2026
+- Text: text (5 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (Comp)/MBA Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Financial Management
+Date: 02 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2023-2024)
+Instructions:
+1. This question paper contains 5 pages.
+2. This question paper contains 1 pages.
+3. Question 1 is Compulsory.
+4. From remaining questions, attempt any four.
+5. In all five questions to be attempted.
+6. Figure in right hand side indicates full marks
+7. Answer to each new question to be started on a fresh page.
+8. All questions carry equal marks.
+9. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-2 ;   a.   FVan = P [(1+r)n -1] / r   (1)
+SO- ;   FVan = 20,000 [(1+0.01)96 -1] / 0.01   (0.5)   [2.5]
+BL- Apply   FV Annuity = 35,71,483.56   (1)
+b.   [2.5]
+PBP = 3 years   (1.5)
+CO- 2; SO- ;
+As the cutoff rate is 3 years – company should go for this
+BL-Apply
+investment. (1)
+c.   Cost of capital is the minimum required rate of return and acts   [2.5]
+as a benchmark to evaluate investment proposals using
+CO- 1; SO- ;
+techniques like NPV and IRR.
+BL-
+It ensures that only those projects are selected which generate
+Understand
+returns higher than the cost, thereby maximizing shareholders’
+wealth.
+d.   Financing decisions refer to the choice of the most appropriate   [2.5]
+CO- 1; SO- ;   mix of debt and equity to raise funds for business operations
+BL-   and investments.
+Understand   They aim to minimize the cost of capital while maintaining an
+optimal capital structure and maximizing shareholders’ wealth.
+a   PVA=12000[1.07^12 -1]/[0.07*1.07^12]= 95,312   (2)
+Q2
+CO-2 ;
+PV = 6000[1.07^22 -1 ]/ [0.06*1.06^22] = 66,367   (2)   [05]
+SO- ;
+BL- Apply
+Option ii should be preferred   (1)
+********** 1 **********
+--- page 2 ---
+b   Financial markets facilitate the efficient allocation of funds by
+channelling savings from investors to businesses and
+CO-1 ;
+governments needing capital.
+SO- ;
+They enhance liquidity, price discovery, and economic growth   [05]
+BL-
+by enabling trading of financial assets and efficient resource
+Understand
+allocation.
+PVCOF = 1,80,000
+Depreciation = 55,000 [(180,000-15,000) / 3]
+Particulars   Year 1 Year 2 Year 3   M
+Sales Units   60,000   58,000   55,000
+Sales (₹ @10)   6,00,000   5,80,000   5,50,000
+(-) VC (₹ @5)   3,00,000   2,90,000   2,75,000
+(-) FC   70,000   70,000   70,000
+EBITDA   2,30,000   2,20,000   2,05,000
+(-) Depreciation   55,000   55,000   55,000
+EBIT = EBT   1,75,000   1,65,000   1,50,000
+Q3   (-) Taxes (35%)   61,250   57,750   52,500
+CO-3; SO-;   [10]
+EAT   1,13,750   1,07,250   97,500
+BL- Analyse
+(+) Depreciation   55,000   55,000   55,000
+CFAT   1,68,750   1,62,250   1,52,500   40,000   15,000
+PV @16%   0.8620   0.7431   0.6406   0.6406   0.6406
+PVCIF   1,45,474   1,20,578   97,700   25,626   9,610
+Total PVCIF   3,98,989
+PVCOF   220000
+NPV   1,78,989
+NPV is positive, the project should be accepted.
+********** 2 **********
+--- page 3 ---
+Marks
+Cost of
+7.15%   1
+debenture
+cost of
+13%   1
+preference
+cost of equity   16.86%   1
+cost of term
+7.80%   1
+loan
+WACC using Book Value Weights
+BV -
+Book   Wi
+Weigh   Ki
+Value   *Ki
+t Wi
+0.5714   0.0408
+Debenture   100   7.15%   0.5
+3   6
+0.1142   0.0142
+Preference   20   13%   0.5
+9   9
+Q4   Equity   40 0.2285   16.86 0.0385   0.5
+CO-2; SO-;   7   %   4   [10]
+BL- Apply   Term Loan   15 0.0857 7.80% 0.0066   0.5
+1   9
+0.1003
+175   1   1
+7
+WACC using Market Value Weights
+MV -
+Market   Wi
+Weigh   Ki
+Value   *Ki
+t Wi
+0.0506   0.0036
+Debenture   39.2   7.15%   0.5
+1   2
+0.0263   0.0032
+Preference   20.4   13%   0.5
+4   9
+0.9036   16.86 0.1523
+Equity   700   0.5
+9   %   6
+0.0193   0.0015
+Term Loan   15   7.80%   0.5
+6   1
+0.1607
+774.6   1   1
+8
+Particulars   Alpha industries   Beta Industries   Marks
+Ltd   Ltd
+Units Sold   18000   22000
+Sales @ 120
+2160000   2640000   1
+Q5   per unit
+CO-2; SO-;   Variable Cost   1404000   1716000   1   [10]
+BL- Apply   (65%)
+Contribution   756000   924000
+Fixed Cost   600000   600000   1
+EBIT   156000   324000
+DOL   4.85   2.85   2
+********** 3 **********
+--- page 4 ---
+% Change in
+6%   6%
+Sales
+% Change
+29%   17%   2
+in EBIT
+Alpha Ltd. should be recommended because it has
+higher operating leverage (4.85), indicating higher
+3
+risk and higher returns, which matches Gamma
+Ltd.’s policy.
+Mar
+Financing plans
+ks
+Plan A   Plan B   Plan C
+180000
+1800000   1800000
+0
+Equity (%)   1080000 450000   270000   0.5
+Debt (%)   720000 630000   990000   0.5
+Preference
+0 720000   540000   0.5
+(%)
+Computation of EPS
+Particulars   Plan A   Plan B   Plan C
+EBIT   650000 650000   650000
+Q6   Less: Interest   54000   47250   74250   1.5
+CO-2; SO-;   EBT   596000 602750   575750   [10]
+BL- Apply   Less: Tax @
+208600 210962   201512   1.5
+35%
+PAT   387400 391787   374237
+Preference
+Share   0   72000   54000   1
+Dividend
+Earnings
+available for   319787.
+387400   320237.5   1.5
+Equity share   5
+holder
+Number of
+10800   4500   2700   1.5
+Shares
+EPS   35.87   71.06   118.60   1.5
+Financial Plan C is suggested as it gives highest EPS
+********** 4 **********
+--- page 5 ---
+Optimum Dividend Policy using Walter’s Model
+(5 Marks)
+Given:
+E = ₹40 crore / 40 lakh shares = ₹100 per share
+k = 13%
+r = 22%
+Since r > k (22% > 13%), as per Walters’s Model:
+The firm should retain earnings
+Dividend payout ratio should be 0%
+Optimum Policy = 0% dividend payout (retain all earnings)
+Q7   Note on Walters’s Model
+CO-2; SO-;   (5 Marks)   [10]
+BL- Apply   Walter’s Model states that dividend policy is relevant and
+affects the value of the firm. It emphasizes the relationship
+between the firm’s internal rate of return (r) and cost of equity
+(k).
+The model suggests:
+If r > k → Retain earnings (low/zero dividend)
+If r < k → Pay higher dividends
+If r = k → Dividend policy is irrelevant
+It assumes no external financing, constant r and k, and that all
+earnings are either retained or distributed.
+Thus, Walter’s Model helps in determining the optimal
+dividend payout ratio to maximize shareholders’ wealth.
+********** 5 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 7 · Answer key · paper 2efde43bbc7a
 
 - Departments: Computer Science and Business Systems
@@ -8515,238 +8749,4 @@ interest income and administrative expenses for tracking overdue accounts.
 d) Default Cost – Losses incurred when customers fail to pay their dues, leading to
 bad debts and provisions for doubtful accounts.
 ********** 7 **********
-````
-
-## 2023-24 · Re-Exam · Sem 8 · Answer key · paper d1f773a40d67
-
-- Departments: Mechanical
-- Programmes: MBATech(MECHANICAL ENGINEERING) - 7046
-- Source: `02_Question_Papers/2023/Sem_08/Re-Exam/MBATech(MECHANICAL ENGINEERING) - 7046/Financial Management/ANS_Financial Management(703TF0C003)_2023-2024.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 02 May 2026
-- Text: text (5 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: MBA Tech (Comp)/MBA Tech (Mech)
-Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
-Subject: Financial Management
-Date: 02 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
-Max. Marks: 50
-RE EXAMINATION (Acad. Year:2023-2024)
-Instructions:
-1. This question paper contains 5 pages.
-2. This question paper contains 1 pages.
-3. Question 1 is Compulsory.
-4. From remaining questions, attempt any four.
-5. In all five questions to be attempted.
-6. Figure in right hand side indicates full marks
-7. Answer to each new question to be started on a fresh page.
-8. All questions carry equal marks.
-9. Assume suitable data if necessary
-Q1   Answer briefly:   [10]
-CO-2 ;   a.   FVan = P [(1+r)n -1] / r   (1)
-SO- ;   FVan = 20,000 [(1+0.01)96 -1] / 0.01   (0.5)   [2.5]
-BL- Apply   FV Annuity = 35,71,483.56   (1)
-b.   [2.5]
-PBP = 3 years   (1.5)
-CO- 2; SO- ;
-As the cutoff rate is 3 years – company should go for this
-BL-Apply
-investment. (1)
-c.   Cost of capital is the minimum required rate of return and acts   [2.5]
-as a benchmark to evaluate investment proposals using
-CO- 1; SO- ;
-techniques like NPV and IRR.
-BL-
-It ensures that only those projects are selected which generate
-Understand
-returns higher than the cost, thereby maximizing shareholders’
-wealth.
-d.   Financing decisions refer to the choice of the most appropriate   [2.5]
-CO- 1; SO- ;   mix of debt and equity to raise funds for business operations
-BL-   and investments.
-Understand   They aim to minimize the cost of capital while maintaining an
-optimal capital structure and maximizing shareholders’ wealth.
-a   PVA=12000[1.07^12 -1]/[0.07*1.07^12]= 95,312   (2)
-Q2
-CO-2 ;
-PV = 6000[1.07^22 -1 ]/ [0.06*1.06^22] = 66,367   (2)   [05]
-SO- ;
-BL- Apply
-Option ii should be preferred   (1)
-********** 1 **********
---- page 2 ---
-b   Financial markets facilitate the efficient allocation of funds by
-channelling savings from investors to businesses and
-CO-1 ;
-governments needing capital.
-SO- ;
-They enhance liquidity, price discovery, and economic growth   [05]
-BL-
-by enabling trading of financial assets and efficient resource
-Understand
-allocation.
-PVCOF = 1,80,000
-Depreciation = 55,000 [(180,000-15,000) / 3]
-Particulars   Year 1 Year 2 Year 3   M
-Sales Units   60,000   58,000   55,000
-Sales (₹ @10)   6,00,000   5,80,000   5,50,000
-(-) VC (₹ @5)   3,00,000   2,90,000   2,75,000
-(-) FC   70,000   70,000   70,000
-EBITDA   2,30,000   2,20,000   2,05,000
-(-) Depreciation   55,000   55,000   55,000
-EBIT = EBT   1,75,000   1,65,000   1,50,000
-Q3   (-) Taxes (35%)   61,250   57,750   52,500
-CO-3; SO-;   [10]
-EAT   1,13,750   1,07,250   97,500
-BL- Analyse
-(+) Depreciation   55,000   55,000   55,000
-CFAT   1,68,750   1,62,250   1,52,500   40,000   15,000
-PV @16%   0.8620   0.7431   0.6406   0.6406   0.6406
-PVCIF   1,45,474   1,20,578   97,700   25,626   9,610
-Total PVCIF   3,98,989
-PVCOF   220000
-NPV   1,78,989
-NPV is positive, the project should be accepted.
-********** 2 **********
---- page 3 ---
-Marks
-Cost of
-7.15%   1
-debenture
-cost of
-13%   1
-preference
-cost of equity   16.86%   1
-cost of term
-7.80%   1
-loan
-WACC using Book Value Weights
-BV -
-Book   Wi
-Weigh   Ki
-Value   *Ki
-t Wi
-0.5714   0.0408
-Debenture   100   7.15%   0.5
-3   6
-0.1142   0.0142
-Preference   20   13%   0.5
-9   9
-Q4   Equity   40 0.2285   16.86 0.0385   0.5
-CO-2; SO-;   7   %   4   [10]
-BL- Apply   Term Loan   15 0.0857 7.80% 0.0066   0.5
-1   9
-0.1003
-175   1   1
-7
-WACC using Market Value Weights
-MV -
-Market   Wi
-Weigh   Ki
-Value   *Ki
-t Wi
-0.0506   0.0036
-Debenture   39.2   7.15%   0.5
-1   2
-0.0263   0.0032
-Preference   20.4   13%   0.5
-4   9
-0.9036   16.86 0.1523
-Equity   700   0.5
-9   %   6
-0.0193   0.0015
-Term Loan   15   7.80%   0.5
-6   1
-0.1607
-774.6   1   1
-8
-Particulars   Alpha industries   Beta Industries   Marks
-Ltd   Ltd
-Units Sold   18000   22000
-Sales @ 120
-2160000   2640000   1
-Q5   per unit
-CO-2; SO-;   Variable Cost   1404000   1716000   1   [10]
-BL- Apply   (65%)
-Contribution   756000   924000
-Fixed Cost   600000   600000   1
-EBIT   156000   324000
-DOL   4.85   2.85   2
-********** 3 **********
---- page 4 ---
-% Change in
-6%   6%
-Sales
-% Change
-29%   17%   2
-in EBIT
-Alpha Ltd. should be recommended because it has
-higher operating leverage (4.85), indicating higher
-3
-risk and higher returns, which matches Gamma
-Ltd.’s policy.
-Mar
-Financing plans
-ks
-Plan A   Plan B   Plan C
-180000
-1800000   1800000
-0
-Equity (%)   1080000 450000   270000   0.5
-Debt (%)   720000 630000   990000   0.5
-Preference
-0 720000   540000   0.5
-(%)
-Computation of EPS
-Particulars   Plan A   Plan B   Plan C
-EBIT   650000 650000   650000
-Q6   Less: Interest   54000   47250   74250   1.5
-CO-2; SO-;   EBT   596000 602750   575750   [10]
-BL- Apply   Less: Tax @
-208600 210962   201512   1.5
-35%
-PAT   387400 391787   374237
-Preference
-Share   0   72000   54000   1
-Dividend
-Earnings
-available for   319787.
-387400   320237.5   1.5
-Equity share   5
-holder
-Number of
-10800   4500   2700   1.5
-Shares
-EPS   35.87   71.06   118.60   1.5
-Financial Plan C is suggested as it gives highest EPS
-********** 4 **********
---- page 5 ---
-Optimum Dividend Policy using Walter’s Model
-(5 Marks)
-Given:
-E = ₹40 crore / 40 lakh shares = ₹100 per share
-k = 13%
-r = 22%
-Since r > k (22% > 13%), as per Walters’s Model:
-The firm should retain earnings
-Dividend payout ratio should be 0%
-Optimum Policy = 0% dividend payout (retain all earnings)
-Q7   Note on Walters’s Model
-CO-2; SO-;   (5 Marks)   [10]
-BL- Apply   Walter’s Model states that dividend policy is relevant and
-affects the value of the firm. It emphasizes the relationship
-between the firm’s internal rate of return (r) and cost of equity
-(k).
-The model suggests:
-If r > k → Retain earnings (low/zero dividend)
-If r < k → Pay higher dividends
-If r = k → Dividend policy is irrelevant
-It assumes no external financing, constant r and k, and that all
-earnings are either retained or distributed.
-Thus, Walter’s Model helps in determining the optimal
-dividend payout ratio to maximize shareholders’ wealth.
-********** 5 **********
 ````

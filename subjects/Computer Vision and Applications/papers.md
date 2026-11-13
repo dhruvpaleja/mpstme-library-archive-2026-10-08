@@ -434,6 +434,7 @@ detection and lane detection in self-driving cars.   [10]
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/DATA SCIENCE/Sem_10/Computer Vision and Applications/Computer Vision and Applications Batch 2025-26 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Jul 2026
 - Text: ocr (5 pages), mean OCR confidence 91.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -533,7 +534,6 @@ Assignment"
 
 step mathematically achieves rotation invariance for its feature descriptors. [10]
 
-> FE 2 ok tok kk aa x
 
 >
 approach will completely fail if the microchip

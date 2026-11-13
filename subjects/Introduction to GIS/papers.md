@@ -2214,106 +2214,7 @@ BL-3 * | using a case study.
 Page |2
 ````
 
-## 2022-23 · Re-Exam · Sem 6 · paper e10eb093e62e
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/INTRODUCTION TO GIS/Introduction to GIS, Sem-VI, Year 2022-23, Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.2
-
-````text
-SVKM’S NMIMS a
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERS
-Academic Year: 2022-2023 :
-Program/s: Btech/MBATech Year: I Semestét: VI
-
-Stream/s: Open Elective: All Branches
-Subject: Introduction to GIS Time: 3 hours (10 am to 1 pm)
-Date: S Tiulg 2023 No. of Pages:02
-Marks:100
-Re Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 (four) questions.
-
-3) In all 5 (five) questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page. Draw diagrams and sketch graphs wherever
-necessary
-
-6) Figures in brackets on the right-hand side indicate full marks.
-
-Ql Compulsory Question [20]
-ae 46 a Elaborate upon the Relational Model that works on non-spatial data management (6)
-BL: 3 , * | Systems
-CO-1
-S0-3,4,6, | 5 Describe the Data accuracy and Uncertainty in Map Scales? What are the mandatory | (5)
-7 ’ | extensions of shape files and what do they represent?
-BL:3
-CO-2
-SO-3, 4, 6, (5)
-7 c. | Elaborate upon Data, Methods and Hardware as GIS Components. ?
-BL: 3
-CO-1
-7 S0-3,4,6, | 4 Describe the functioning of a Representative Fraction (RF) Scale. (5)
-7 * | Simplify the scale, 5mm : Im.
-BL: 4,5
-Answer any (4) four from Q2 to Q7
-With respect to ESRI’s ArcGIS software, describe the functionality of Attribute
-Q2 a Tables? [10]
-Son'4 6 ’ | Differentiate between Geodatabase and Feature Data Sets that can be added to a
-7 “eee Geospatial analysis.
-BL- 4,3 b. Differentiate between Topographical Maps and Cadastral Maps. ; [10]
-Elaborate upon the different types of generalized topographical maps worldwide.
-12 a. | Describe Heat Maps and differentiate between their advantages and disadvantages. [10]
-rial 4, 6, b Differentiate between latitudes and Longitudes as different elements of a Map [10]
-, ae abies
-BL3,4,7 Projection Graticule?
-Q4 a. | Describe the Interval and Ratio Levels of Measurement in GIS. [10]
-
-1|Page
---- page 2 ---
-CO-2, 1 (|
-Justify the use of Attribute tables in GIS. What are Joining tables. Analyse reasons [10]
-
-SO-3, 4, 6, b
-
-7 * | where joining tables may fail.
-
-BL-4, 5
-
-Q5 a Elaborating upon the concept of Raster Data types, describe the different kinds of data [10]
-CO-2, 3 "| that can be represented as Raster Data sets.
-
-=a 4,6, b Describe the concept of Polygon Attribute Table (PAT). [10]
-BL-3, 4 ‘| How do Datums help in geospatial analysis?
-
-Q6 7 Justify Area Definition as one of the topological precepts for vector operation. [10]
-CO-1, 2 "| Describe the Attribute Measurement Level Operations.
-
-SO-3, 4, 6,
-
-7 b. | Elaborate upon the concept of GIS Overlay Tools [10]
-BL-3
-
-Q7 a ~ | Using a case study, describe how GIS can be used to optimize Banking Sector [10]
-CO-3 “| Management and Analysis.
-
-50-8, A, 6 b Describe how GIS may be used to understand Climate Change Modelling, using a | [10]
-
-BL-3 | case study.
-
-2|Page
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 7e9fe47fc68f
+## 2022-23 · Exam not stated · Sem 6 · paper 7e9fe47fc68f
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
@@ -2433,6 +2334,105 @@ CO-3 "_| Logistics.
 
 7 b ’ : [10]
 BL3 | conservation efforts, using a case study.
+
+2|Page
+````
+
+## 2022-23 · Re-Exam · Sem 6 · paper e10eb093e62e
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/INTRODUCTION TO GIS/Introduction to GIS, Sem-VI, Year 2022-23, Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+SVKM’S NMIMS a
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERS
+Academic Year: 2022-2023 :
+Program/s: Btech/MBATech Year: I Semestét: VI
+
+Stream/s: Open Elective: All Branches
+Subject: Introduction to GIS Time: 3 hours (10 am to 1 pm)
+Date: S Tiulg 2023 No. of Pages:02
+Marks:100
+Re Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 (four) questions.
+
+3) In all 5 (five) questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. Draw diagrams and sketch graphs wherever
+necessary
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+Ql Compulsory Question [20]
+ae 46 a Elaborate upon the Relational Model that works on non-spatial data management (6)
+BL: 3 , * | Systems
+CO-1
+S0-3,4,6, | 5 Describe the Data accuracy and Uncertainty in Map Scales? What are the mandatory | (5)
+7 ’ | extensions of shape files and what do they represent?
+BL:3
+CO-2
+SO-3, 4, 6, (5)
+7 c. | Elaborate upon Data, Methods and Hardware as GIS Components. ?
+BL: 3
+CO-1
+7 S0-3,4,6, | 4 Describe the functioning of a Representative Fraction (RF) Scale. (5)
+7 * | Simplify the scale, 5mm : Im.
+BL: 4,5
+Answer any (4) four from Q2 to Q7
+With respect to ESRI’s ArcGIS software, describe the functionality of Attribute
+Q2 a Tables? [10]
+Son'4 6 ’ | Differentiate between Geodatabase and Feature Data Sets that can be added to a
+7 “eee Geospatial analysis.
+BL- 4,3 b. Differentiate between Topographical Maps and Cadastral Maps. ; [10]
+Elaborate upon the different types of generalized topographical maps worldwide.
+12 a. | Describe Heat Maps and differentiate between their advantages and disadvantages. [10]
+rial 4, 6, b Differentiate between latitudes and Longitudes as different elements of a Map [10]
+, ae abies
+BL3,4,7 Projection Graticule?
+Q4 a. | Describe the Interval and Ratio Levels of Measurement in GIS. [10]
+
+1|Page
+--- page 2 ---
+CO-2, 1 (|
+Justify the use of Attribute tables in GIS. What are Joining tables. Analyse reasons [10]
+
+SO-3, 4, 6, b
+
+7 * | where joining tables may fail.
+
+BL-4, 5
+
+Q5 a Elaborating upon the concept of Raster Data types, describe the different kinds of data [10]
+CO-2, 3 "| that can be represented as Raster Data sets.
+
+=a 4,6, b Describe the concept of Polygon Attribute Table (PAT). [10]
+BL-3, 4 ‘| How do Datums help in geospatial analysis?
+
+Q6 7 Justify Area Definition as one of the topological precepts for vector operation. [10]
+CO-1, 2 "| Describe the Attribute Measurement Level Operations.
+
+SO-3, 4, 6,
+
+7 b. | Elaborate upon the concept of GIS Overlay Tools [10]
+BL-3
+
+Q7 a ~ | Using a case study, describe how GIS can be used to optimize Banking Sector [10]
+CO-3 “| Management and Analysis.
+
+50-8, A, 6 b Describe how GIS may be used to understand Climate Change Modelling, using a | [10]
+
+BL-3 | case study.
 
 2|Page
 ````

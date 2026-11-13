@@ -362,6 +362,240 @@ the two coils and mutual inductance between them. . (5)
 Page 3 of 3
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper e320ffe9f637
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/ELECTRICAL TECHNOLOGY/Electrical Technology Batch 2015-16 Re Exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 01 December 2017
+- Text: ocr (2 pages), mean OCR confidence 85.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2017-2018
+Program: B. Tech Integrated (EXTC) ~ * Year:IL Semester: 111
+
+Batch: 2015-16 «
+Subject: Electrical Technology <
+Date :01 December 2017 «
+
+Duration:3 hrs ¢
+No. of Pages:\. @ 2 _—
+RE - EXAMINATION »
+
+Instructions: Candidates should read carefully the instructions printed on the question i
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume —uitable data if necessary.
+
+Qi Attempt any two questions {12]
+a) Derive the emf equation of a transformer.
+b) Define the following terms: turns ratio, slip, permeability, flux density, self
+inductance, coefficient of coupling. ;
+c) State and prove maximum power transfer theorem.
+Q.2
+a) Find the current through R: using superposition theorem. [06]
+
+VWN VW |
+
+wv | Ob 2AS RK 1 4y
+_ |
+
+b) Find the current through R, using Thevenin’s theorem. [06]
+Re 205
+NNN AN
+| \OP_E
+
+{oov
+
+(Mion Sv S nf. =
+
+ify
+--- page 2 ---
+Q3
+a)
+
+b)
+
+Find the equivalent resistance between A and B using star-delta transformation.
+
+Ly re
+Se A—ANN a
+
+A > Ze 3a. 2 B
+Sn PD
+
+Explain with relevant diagrams the construction and working of a single phase
+transformer.
+
+Q.4-
+
+b)
+
+Q5
+
+b)
+
+Q6
+
+b)
+
+Q7
+
+b)
+
+An 80 KVA, 3200 V/400 V, 50 Hz, single phase transformer has 111 turns on the
+secondary winding. The flux density in the core is 1.2.T. Calculate i) the number
+primary turns ii) primary and secondary current iii) cross-sectional area of the
+core.
+
+Compare between electric and magnetic circuits.
+
+Explain the construction and working of a single phase induction motor with
+relevant diagrams.
+
+Why is a single phase induction motor not self starting? Explain any one starting
+method.
+
+Explain the working principle and construction of a dc motor.
+Explain types of dc motors with their equivalent circuit diagram and voltage-
+current relationships.
+
+An iron ring of mean diameter 15 cm and cross-sectional area of 10 cm? is wound
+with 200 turns of wire. An airgap of 2 mm is cut in the ring. For a flux density of 1
+
+Wb/m? in the airgap and a relative permeability of 500, find the current required.
+
+Find the value of R, for maximum power transfer and calculate maximum power.
+
+| One 2K
+
+VA AA .
+
+[06]
+
+[06]
+
+[06]
+
+[06]
+
+[06]
+
+[06]
+
+[06]
+[06]
+
+[06]
+
+[06]
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 238954d90fa9
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/ELECTRICAL TECHNOLOGY/Electrical Technology Batch 2016-17 Re Exam.pdf`
+- Printed on paper: max marks: 70; exam date: 01 December 2017
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2017-2018 «
+
+Program: B. Tech Integrated (EXTC) Year:If * Semester:II
+
+es aw Bap,
+Batch: 2016-17 “ Marks: 70 -—. gt Shea %,
+Subject: Electrical Technology ~ Time: 02.00 pai fo 05.00 ee a Ve =
+
+Date :01 December 2017 - Duration:3
+No. of Page:
+RE - EXAMINATION
+
+Tiivéractions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Solve any TWO of the following.
+
+A)Explain principle of operation single phase transformer. (7)
+
+B)State and explain Faradays laws of electromagnetic induction. (7)
+
+C)State and explain Thevenin theorem and maximum power transfer theorem. (4+3)
+
+D)Explain concept of Back EMF? How DC motors are classified2 (4+3)
+
+Q.2 A)Derive the expressions to convert Delta network to a star network. 7)
+
+Q.2B)Find the current through 10 ohm resistor using Thevenin theorem, (7)
+Bo
+
+Q3.A) Find the current through 10 ohm resistor using Norton theorem. (7)
+
+lon,
+
+~, f
+Oh
+--- page 2 ---
+Q.3B) Compare Electric and magnetic circuits. (7)
+
+Q.4A)Two coils with a coefficient of coupling 0.5 between them ,are connected in series so as to magnetize (a) in the
+same direction (b)in the opposite direction . The corresponding values of total inductances are for (a) 1.9 H and for
+(b) 0.7 H.Find the self inductances of two coils and mutual inductance between them. ( 443)
+
+Q.4B)A conductor of length one meter moves at a right angles to a uniform magnetic field of flux density 1.5 Wb/m’
+with a velocity of 50 m/s. Calculate the EMF induced in it. Find also the value of induced EMF when conductor
+moves at an angle of 30° to the direction of the field. (4+3)
+
+Q.5A)A single phase 50 Hz transformer has 80 turns on the primary winding and 280 turns in the secondary winding.
+The voltage applied across the primary winding is 240 V at 50 Hz. Calculate(i)maximum flux density in-the core and
+
+(ii)induced EMF in secondary. The net cross sectional area of the core is 200cm~. (4+3)
+Q.5B)Explain various losses in the transformer. Which are tests used to calculate these losses? (7)
+Q.6A)Explain construction and working principles of DC motor. How they are classified? (7)
+
+Q6.B)A slip ring induction motor runs at 290 r.p.m.lf synchronous speed is 300 r.p.m. when connected to a 50 Hz
+
+supply. Determine no. of poles and slip. (5+2)
+
+Q.7A)Explain various starting methods of single phase induction motors. (7)
+
+Q.7BFind the value of resistance R, for maximum power transfer and calculate maximum power. (7)
+[ON 2 ofl
+
+JRL.
+
+SOA (A)
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper a5e1ace9d41e
 
 - Departments: Electronics and Telecommunication
@@ -615,95 +849,122 @@ series motor. (443)
 Q.7B)How DC motors are classified? Explain the concept of back e.m.f. in DC motors. (4+3)
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 238954d90fa9
+## 2016-17 · Re-Exam · Sem 3 · paper 02d22acb9dd7
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/ELECTRICAL TECHNOLOGY/Electrical Technology Batch 2016-17 Re Exam.pdf`
-- Printed on paper: max marks: 70; exam date: 01 December 2017
-- Text: ocr (2 pages), mean OCR confidence 90.2
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/ELECTRICAL TECHNOLOGY/Electrical Technology Batch 2015-16 Re Exam_02d22acb9d.pdf`
+- Printed on paper: max marks: 60; exam date: 03 December 2016
+- Text: ocr (3 pages), mean OCR confidence 87.7
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Academic Year: 2017-2018 «
+Programme: B. Tech Integrated (EXTC) Year: II Semester: III |
+| : Academic Year: 2016-2017 =
+; , ae A031 F agp
+Subject : Electrical Technology BATCH: 2015-2016.»
+Marks: 60 » / PSTMB YS
+Date : 03 December 2016 Time : 10.0) toslnae ma
+Duration: ee
 
-Program: B. Tech Integrated (EXTC) Year:If * Semester:II
+Re-Examination
 
-es aw Bap,
-Batch: 2016-17 “ Marks: 70 -—. gt Shea %,
-Subject: Electrical Technology ~ Time: 02.00 pai fo 05.00 ee a Ve =
+Instruction: Candidates should read carefully the instructions printed on the question ~
+cover of the Answer Book, which is provided for their use.
 
-Date :01 December 2017 - Duration:3
-No. of Page:
-RE - EXAMINATION
-
-Tiivéractions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks
-
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any four questions.
+[- 3) In all five questions to be attempted.
+4) All questions carry equal marks.
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary.
 
-Q.1 Solve any TWO of the following.
+Qi Attempt any three questions [12]
 
-A)Explain principle of operation single phase transformer. (7)
+a) Explain in brief self-induced emf and mutually induced emf. Write the equations for
+coefficients of self and mutual induction.
 
-B)State and explain Faradays laws of electromagnetic induction. (7)
+b) State and explain superposition theorem.
 
-C)State and explain Thevenin theorem and maximum power transfer theorem. (4+3)
+c) Draw the torque/speed characteristics of a 3 phase induction motor and explain.
 
-D)Explain concept of Back EMF? How DC motors are classified2 (4+3)
+d) Explain in brief the various losses taking place in a transformer.
 
-Q.2 A)Derive the expressions to convert Delta network to a star network. 7)
+Q.2
 
-Q.2B)Find the current through 10 ohm resistor using Thevenin theorem, (7)
-Bo
+a) For the following circuit, find the value of Ri for maximum power transfer and find the | [06]
+value of maximum power.
 
-Q3.A) Find the current through 10 ohm resistor using Norton theorem. (7)
+WV
 
-lon,
+San —
 
-~, f
-Oh
+a SV —
 --- page 2 ---
-Q.3B) Compare Electric and magnetic circuits. (7)
+b) For the following circuit, find the resistance between terminals A and B using star-delta [06] |
 
-Q.4A)Two coils with a coefficient of coupling 0.5 between them ,are connected in series so as to magnetize (a) in the
-same direction (b)in the opposite direction . The corresponding values of total inductances are for (a) 1.9 H and for
-(b) 0.7 H.Find the self inductances of two coils and mutual inductance between them. ( 443)
+transformation.
 
-Q.4B)A conductor of length one meter moves at a right angles to a uniform magnetic field of flux density 1.5 Wb/m’
-with a velocity of 50 m/s. Calculate the EMF induced in it. Find also the value of induced EMF when conductor
-moves at an angle of 30° to the direction of the field. (4+3)
+LS \W\-
 
-Q.5A)A single phase 50 Hz transformer has 80 turns on the primary winding and 280 turns in the secondary winding.
-The voltage applied across the primary winding is 240 V at 50 Hz. Calculate(i)maximum flux density in-the core and
+hoe ye Sm
+A soe 3 S > B
+TSA TS
+37
+Q.3
+a) An iron ring has a cross-section of 3 cm2 and a mean diameter of 25 cm. An airgap of [06]
 
-(ii)induced EMF in secondary. The net cross sectional area of the core is 200cm~. (4+3)
-Q.5B)Explain various losses in the transformer. Which are tests used to calculate these losses? (7)
-Q.6A)Explain construction and working principles of DC motor. How they are classified? (7)
+0.4 mm has been cut across the section of the ring. The ring is wound with 200 turns
+through which a current of 2 A is passed. If the total magnetic flux is 0.24 mWb, find
 
-Q6.B)A slip ring induction motor runs at 290 r.p.m.lf synchronous speed is 300 r.p.m. when connected to a 50 Hz
+the relative permeability of iron.
 
-supply. Determine no. of poles and slip. (5+2)
+b) Two coils A and B lie in parallel planes. Coil A has 5000 turns and coil Bhas 3000 turns. | [06]
+Accurrent of 6A in coil A produces a flux of 0.1 mWb in it. If 60% of the flux produced
+by coil A links with coil B, calculate the emf induced in coil B when the current in coil A
+changes from 5A to -5A in 0.01 second. Also calculate the value of self inductance of
 
-Q.7A)Explain various starting methods of single phase induction motors. (7)
+coil A.
+Q4
+a) Explain with relevant diagrams the construction and working of a single phase [06]
+transformer. Also derive the emf equation.
+b) The following data has been obtained from the short circuit and open circuit tests [06]
+performed on a single phase transformer of 5 KVA, 250 V/500 V, 50 Hz rating.
+(iii) Draw the equivalent circuit of the transformer and insert all parameter
+values
+(iv) Find the copper loss and iron loss
+OC test (LV side): 250 V 0.75A 60 W
+SC test (HV side): 9V 6A 21.6 W
+Q.5
+a) Explain with relevant diagrams the concept of a rotating magnetic field. [06]
+b) Draw the torque/armature current, speed/armature current and speed/torque [06]
 
-Q.7BFind the value of resistance R, for maximum power transfer and calculate maximum power. (7)
-[ON 2 ofl
+characteristics of dc series motor and shunt motor and explain each one.
 
-JRL.
+afs
+--- page 3 ---
+Q.6
 
-SOA (A)
+a) A 2200/200V single phase transformer draws a no-load primary current of 0.6 A and [06]
+absorbs 400 watts. Find the magnetizing and iron-loss currents and the hysteresis
+angle of advance.
+b) Using Norton’s theorem, find the current through Ri [06]
+SOL
+WAM
+2On
+SOV 4 Ry. =
+po OM
+_ |Orm
+a
+lov |]
+Q7 Write short notes on any two of the following: [12]
+a) B-H curve
+b) Star-to-delta and delta-to-star transformation (derivation)
+c) Starting methods of single phase induction motor
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper f87dbb719888
@@ -896,267 +1157,6 @@ of this test. (06)
 Q7B) Explain various types of single phase induction motors. (06)
 
 Ao
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper e320ffe9f637
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/ELECTRICAL TECHNOLOGY/Electrical Technology Batch 2015-16 Re Exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 01 December 2017
-- Text: ocr (2 pages), mean OCR confidence 85.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2017-2018
-Program: B. Tech Integrated (EXTC) ~ * Year:IL Semester: 111
-
-Batch: 2015-16 «
-Subject: Electrical Technology <
-Date :01 December 2017 «
-
-Duration:3 hrs ¢
-No. of Pages:\. @ 2 _—
-RE - EXAMINATION »
-
-Instructions: Candidates should read carefully the instructions printed on the question i
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume —uitable data if necessary.
-
-Qi Attempt any two questions {12]
-a) Derive the emf equation of a transformer.
-b) Define the following terms: turns ratio, slip, permeability, flux density, self
-inductance, coefficient of coupling. ;
-c) State and prove maximum power transfer theorem.
-Q.2
-a) Find the current through R: using superposition theorem. [06]
-
-VWN VW |
-
-wv | Ob 2AS RK 1 4y
-_ |
-
-b) Find the current through R, using Thevenin’s theorem. [06]
-Re 205
-NNN AN
-| \OP_E
-
-{oov
-
-(Mion Sv S nf. =
-
-ify
---- page 2 ---
-Q3
-a)
-
-b)
-
-Find the equivalent resistance between A and B using star-delta transformation.
-
-Ly re
-Se A—ANN a
-
-A > Ze 3a. 2 B
-Sn PD
-
-Explain with relevant diagrams the construction and working of a single phase
-transformer.
-
-Q.4-
-
-b)
-
-Q5
-
-b)
-
-Q6
-
-b)
-
-Q7
-
-b)
-
-An 80 KVA, 3200 V/400 V, 50 Hz, single phase transformer has 111 turns on the
-secondary winding. The flux density in the core is 1.2.T. Calculate i) the number
-primary turns ii) primary and secondary current iii) cross-sectional area of the
-core.
-
-Compare between electric and magnetic circuits.
-
-Explain the construction and working of a single phase induction motor with
-relevant diagrams.
-
-Why is a single phase induction motor not self starting? Explain any one starting
-method.
-
-Explain the working principle and construction of a dc motor.
-Explain types of dc motors with their equivalent circuit diagram and voltage-
-current relationships.
-
-An iron ring of mean diameter 15 cm and cross-sectional area of 10 cm? is wound
-with 200 turns of wire. An airgap of 2 mm is cut in the ring. For a flux density of 1
-
-Wb/m? in the airgap and a relative permeability of 500, find the current required.
-
-Find the value of R, for maximum power transfer and calculate maximum power.
-
-| One 2K
-
-VA AA .
-
-[06]
-
-[06]
-
-[06]
-
-[06]
-
-[06]
-
-[06]
-
-[06]
-[06]
-
-[06]
-
-[06]
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 02d22acb9dd7
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/ELECTRICAL TECHNOLOGY/Electrical Technology Batch 2015-16 Re Exam_02d22acb9d.pdf`
-- Printed on paper: max marks: 60; exam date: 03 December 2016
-- Text: ocr (3 pages), mean OCR confidence 87.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (EXTC) Year: II Semester: III |
-| : Academic Year: 2016-2017 =
-; , ae A031 F agp
-Subject : Electrical Technology BATCH: 2015-2016.»
-Marks: 60 » / PSTMB YS
-Date : 03 December 2016 Time : 10.0) toslnae ma
-Duration: ee
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question ~
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any four questions.
-[- 3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Attempt any three questions [12]
-
-a) Explain in brief self-induced emf and mutually induced emf. Write the equations for
-coefficients of self and mutual induction.
-
-b) State and explain superposition theorem.
-
-c) Draw the torque/speed characteristics of a 3 phase induction motor and explain.
-
-d) Explain in brief the various losses taking place in a transformer.
-
-Q.2
-
-a) For the following circuit, find the value of Ri for maximum power transfer and find the | [06]
-value of maximum power.
-
-WV
-
-San —
-
-a SV —
---- page 2 ---
-b) For the following circuit, find the resistance between terminals A and B using star-delta [06] |
-
-transformation.
-
-LS \W\-
-
-hoe ye Sm
-A soe 3 S > B
-TSA TS
-37
-Q.3
-a) An iron ring has a cross-section of 3 cm2 and a mean diameter of 25 cm. An airgap of [06]
-
-0.4 mm has been cut across the section of the ring. The ring is wound with 200 turns
-through which a current of 2 A is passed. If the total magnetic flux is 0.24 mWb, find
-
-the relative permeability of iron.
-
-b) Two coils A and B lie in parallel planes. Coil A has 5000 turns and coil Bhas 3000 turns. | [06]
-Accurrent of 6A in coil A produces a flux of 0.1 mWb in it. If 60% of the flux produced
-by coil A links with coil B, calculate the emf induced in coil B when the current in coil A
-changes from 5A to -5A in 0.01 second. Also calculate the value of self inductance of
-
-coil A.
-Q4
-a) Explain with relevant diagrams the construction and working of a single phase [06]
-transformer. Also derive the emf equation.
-b) The following data has been obtained from the short circuit and open circuit tests [06]
-performed on a single phase transformer of 5 KVA, 250 V/500 V, 50 Hz rating.
-(iii) Draw the equivalent circuit of the transformer and insert all parameter
-values
-(iv) Find the copper loss and iron loss
-OC test (LV side): 250 V 0.75A 60 W
-SC test (HV side): 9V 6A 21.6 W
-Q.5
-a) Explain with relevant diagrams the concept of a rotating magnetic field. [06]
-b) Draw the torque/armature current, speed/armature current and speed/torque [06]
-
-characteristics of dc series motor and shunt motor and explain each one.
-
-afs
---- page 3 ---
-Q.6
-
-a) A 2200/200V single phase transformer draws a no-load primary current of 0.6 A and [06]
-absorbs 400 watts. Find the magnetizing and iron-loss currents and the hysteresis
-angle of advance.
-b) Using Norton’s theorem, find the current through Ri [06]
-SOL
-WAM
-2On
-SOV 4 Ry. =
-po OM
-_ |Orm
-a
-lov |]
-Q7 Write short notes on any two of the following: [12]
-a) B-H curve
-b) Star-to-delta and delta-to-star transformation (derivation)
-c) Starting methods of single phase induction motor
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper 0a7ad2d04312

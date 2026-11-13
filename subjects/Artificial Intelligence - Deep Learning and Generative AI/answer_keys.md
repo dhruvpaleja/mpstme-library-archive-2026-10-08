@@ -569,6 +569,7 @@ FRR IC 7 DA HOH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/MASTER OF TECHNOLOGY (ARTIFICIAL INTELL_fdd2a5aa/Artificial Intelligence - Deep Learning_7071ba3b/ANS_Artificial Intelligence - Deep Learning & Generative AI(703DB0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
 - Text: mixed (7 pages), mean OCR confidence 77.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -631,7 +632,6 @@ For Hidden Neuron 2:
 H = (0.4 x 0.5) + (0.7 x 0.3) + 0.3
 Ay = 0.2 + 0.21 + 0.3 = 0.71
 Compute Output Layer Output
-O = (Ws - Hi) + (We- He) + Bs
 O = (0.6 x 0.5) + (0.8 x 0.71) + 0.5
 
 O = 0.3 + 0.568 + 0.5 = 1.368

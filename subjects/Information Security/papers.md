@@ -2029,6 +2029,168 @@ d) Laws and Ethics [03]
 2/2
 ````
 
+## 2018-19 · Re-Exam · Sem 7 · paper 2e6a851bd400
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VII SEMESTER/INFORMATION SECURITY/INFORMATION_SECURITY_B TECH (IT), BATCH_17-18_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 19 November 2018
+- Text: ocr (3 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+
+Programme: B. Tech (IT) < Year: IV ~ Semester: VII “
+
+Academic Year: 2018-2019
+
+J Subject: Information Security”
+Marks: 60°
+Date: 19 November 2018 « Time: 2.00 pm to 5.00 pm”
+Durations: 3 (hrs) ¢
+No. of Pages: 3
+
+Re-examination (2017-18) «
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi _ Answer the following questions
+
+a) Which security goal (confidentiality, integrity or availability) is affected in the (04)
+following cases? Justify your answer.
+
+i. A student hacks into a professor’s laptop to obtain a copy of the next
+day’s test paper.
+
+ii. A student sends hundreds of emails per day to another student using a
+spoofed return email address.
+
+b) The Bell-LaPadula model (BLP) is a formal model of a computer security policy (04)
+designed to provide access control based on information sensitivity and subject
+authorizations.
+
+i. Identify the major security goal of the Bell-LaPadula security model.
+ii. Give an example of an environment where the Bell-LaPadula model is
+
+appropriate.
+iii. | Explain Simple Security property and Star (*) -property. of the Bell-
+LaPadula security model.
+a c) Explain NSTISSC Security Model with an example. (¢4)
+te .
+a) Explain program level security policy. What are the components of such policy? (©4)
+
+Give examples for the same.
+b) Classify viruses based on concealment strategy and explain the same. (66)
+--- page 2 ---
+Q3
+
+-a) The Diffie-Hellman (DH) key exchange is to be used to establish a shared secret (66)
+key between Alice and Bob. How Alice and Bob can use DH Key exchange
+
+algorithm?
+}
+: Alice and Bob have agreed to use the prime n = 17 and base value g=3.
+“= es Let Alice chooses the random value x = 4, what value does Alice send to Bob?
+“~~ "2. If Alice receives the value 11 from Bob, what is the value of the shared secret
+key?
+b) Explain broad level steps of an AES algorithm. (06)
+Q4
+a) What is packet filtering? Explain the following packet filtering firewalls: (06)
+
+i. Static filtering
+ii. ., Dynamic filtering
+iii.   Stateful inspection
+
+b) Explain encryption and decryption process in CBC mode. List advantages and (66)
+disadvantages of the same.
+
+Q5
+
+a) What is Virtual private network (VPN)? Explain transport mode of VPN (06)
+
+b) Match the following with their definition. (06)
+A B = a
+
+Logic Bomb Replicates itself without limit to exhaust resources
+
+Time bomb Malicious hacker tools used to break into new machines
+remotely.
+
+Trojan Horse A program that triggers when predefined conditions are
+met.
+
+Rabbit Any mechanisin that bypasses a normal security check; it
+may allow unauthorized access to functionality.
+
+Trapdoor A computer program that appears to have a useful
+function, but also has a hidden and potentially malicious
+function that evades security mechanisms
+
+Auto rooter Set of hacker tools used after attacker has broken into a
+computer system and gained root-level access.
+
+Rootkit Triggers actions when specified time occurs
+
+Q6
+
+a) A large advertising company handles campaigns for a number of different (06)
+clients, including two competing banks ICICI and HDFC, and two rival soft
+drink manufacturers Coca Cola and Pepsi. Suresh is working as a relationship
+manager for the advertising company. Company implements Chinese wall
+model for access control. Answer the following questions with justification
+based on the information given above.
+
+1. Will Suresh be able to read ICICI Company Dataset (CD), if he has not
+read any other CDs?
+--- page 3 ---
+b)
+
+Q7
+a)
+b)
+
+2. Will Suresh be able to read HDFC records if he has already read ICICI
+CDs?
+
+. Will Suresh be able to read Pepsi records if he has accessed ICICI records
+but not Coca Cola records?
+4. Will Suresh be able to write to Pepsi records if he has already accessed
+ICICI records which contains unsanitized data?
+
+Explain following IDPS terminologies:
+i. Alert or alarm
+ii. False Attack Stimulus
+iii. False negative
+iv. False positive
+v. Noise
+vi. Site policy
+vii. True attack stimulus
+
+What are various ways to manage risk? Explain with a neat flowchart.
+What is cybercrime? Why it is difficult to prosecute a cybercrime?
+
+fg
+
+(of)
+
+(6)
+(06)
+````
+
 ## 2018-19 · Re-Exam · Sem 7 · paper 387f86181d44
 
 - Departments: Information Technology
@@ -2723,168 +2885,6 @@ c) Secure Shell protocol
 {e
 ````
 
-## 2017-18 · Re-Exam · Sem 7 · paper 2e6a851bd400
-
-- Departments: Information Technology
-- Programmes: B TECH / IT
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VII SEMESTER/INFORMATION SECURITY/INFORMATION_SECURITY_B TECH (IT), BATCH_17-18_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 19 November 2018
-- Text: ocr (3 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-
-Programme: B. Tech (IT) < Year: IV ~ Semester: VII “
-
-Academic Year: 2018-2019
-
-J Subject: Information Security”
-Marks: 60°
-Date: 19 November 2018 « Time: 2.00 pm to 5.00 pm”
-Durations: 3 (hrs) ¢
-No. of Pages: 3
-
-Re-examination (2017-18) «
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi _ Answer the following questions
-
-a) Which security goal (confidentiality, integrity or availability) is affected in the (04)
-following cases? Justify your answer.
-
-i. A student hacks into a professor’s laptop to obtain a copy of the next
-day’s test paper.
-
-ii. A student sends hundreds of emails per day to another student using a
-spoofed return email address.
-
-b) The Bell-LaPadula model (BLP) is a formal model of a computer security policy (04)
-designed to provide access control based on information sensitivity and subject
-authorizations.
-
-i. Identify the major security goal of the Bell-LaPadula security model.
-ii. Give an example of an environment where the Bell-LaPadula model is
-
-appropriate.
-iii. | Explain Simple Security property and Star (*) -property. of the Bell-
-LaPadula security model.
-a c) Explain NSTISSC Security Model with an example. (¢4)
-te .
-a) Explain program level security policy. What are the components of such policy? (©4)
-
-Give examples for the same.
-b) Classify viruses based on concealment strategy and explain the same. (66)
---- page 2 ---
-Q3
-
--a) The Diffie-Hellman (DH) key exchange is to be used to establish a shared secret (66)
-key between Alice and Bob. How Alice and Bob can use DH Key exchange
-
-algorithm?
-}
-: Alice and Bob have agreed to use the prime n = 17 and base value g=3.
-“= es Let Alice chooses the random value x = 4, what value does Alice send to Bob?
-“~~ "2. If Alice receives the value 11 from Bob, what is the value of the shared secret
-key?
-b) Explain broad level steps of an AES algorithm. (06)
-Q4
-a) What is packet filtering? Explain the following packet filtering firewalls: (06)
-
-i. Static filtering
-ii. ., Dynamic filtering
-iii.   Stateful inspection
-
-b) Explain encryption and decryption process in CBC mode. List advantages and (66)
-disadvantages of the same.
-
-Q5
-
-a) What is Virtual private network (VPN)? Explain transport mode of VPN (06)
-
-b) Match the following with their definition. (06)
-A B = a
-
-Logic Bomb Replicates itself without limit to exhaust resources
-
-Time bomb Malicious hacker tools used to break into new machines
-remotely.
-
-Trojan Horse A program that triggers when predefined conditions are
-met.
-
-Rabbit Any mechanisin that bypasses a normal security check; it
-may allow unauthorized access to functionality.
-
-Trapdoor A computer program that appears to have a useful
-function, but also has a hidden and potentially malicious
-function that evades security mechanisms
-
-Auto rooter Set of hacker tools used after attacker has broken into a
-computer system and gained root-level access.
-
-Rootkit Triggers actions when specified time occurs
-
-Q6
-
-a) A large advertising company handles campaigns for a number of different (06)
-clients, including two competing banks ICICI and HDFC, and two rival soft
-drink manufacturers Coca Cola and Pepsi. Suresh is working as a relationship
-manager for the advertising company. Company implements Chinese wall
-model for access control. Answer the following questions with justification
-based on the information given above.
-
-1. Will Suresh be able to read ICICI Company Dataset (CD), if he has not
-read any other CDs?
---- page 3 ---
-b)
-
-Q7
-a)
-b)
-
-2. Will Suresh be able to read HDFC records if he has already read ICICI
-CDs?
-
-. Will Suresh be able to read Pepsi records if he has accessed ICICI records
-but not Coca Cola records?
-4. Will Suresh be able to write to Pepsi records if he has already accessed
-ICICI records which contains unsanitized data?
-
-Explain following IDPS terminologies:
-i. Alert or alarm
-ii. False Attack Stimulus
-iii. False negative
-iv. False positive
-v. Noise
-vi. Site policy
-vii. True attack stimulus
-
-What are various ways to manage risk? Explain with a neat flowchart.
-What is cybercrime? Why it is difficult to prosecute a cybercrime?
-
-fg
-
-(of)
-
-(6)
-(06)
-````
-
 ## 2016-17 · Final-Exam · Sem 7 · paper a439b3b3b0ec
 
 - Departments: Information Technology
@@ -3269,6 +3269,101 @@ b. Vulnerability and threat
 c. Challenge response . *
 d. Modus operandi
 e. Virtual Private Network
+````
+
+## 2015-16 · Re-Exam · Sem 7 · paper aff0b48e65de
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VII SEMESTER/INFORMATION SECURITY/INFORMATION SECURITY B TECH (IT), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 01/12/2015
+- Text: ocr (2 pages), mean OCR confidence 89.3
+
+````text
+N\ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: IV
+
+Sernesier: VII
+Batch: 2014-2015
+
+UTE 27 y
+
+Academic Year: 2015-2016 me /
+aig
+
+ia.
+Subject: Information Security
+
+Marks:
+Time:
+Duration:
+
+Date: 01/12/2015
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+NB:
+1) Question Ne. 1 is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data wherever necessary. Assumptions made must be clearly stated.
+
+Qi Answer the following questions
+a) Explaifi passive attack giving an example. (3)
+b) Explain Discretionary access control. List its advantages and disadvantages. (3)
+c) Explain NSTISSC Security Model giving an example. (3)
+d) Explain known plain text attack and chosen plain text attack on cryptographic systems (a)
+Q2
+a) Explain following security design principles in brief giving an example of each. (6)
+1. Separation of Privileges Principle .
+2. Least Privilege Principle
+3. Defense in Depth Principle
+4. .Fail safe defaults .
+5. Complete mediation ,
+b) What is a computer virus? What are the components of computer virus program? (6)
+Q3
+a) Compare and contrast symmetric and asymmetric key cryptography. (6)
+b) What are the different classes of fires? What kind of suppression mechanism is to be used for Information (6)
+System?
+Q4 :
+a) What is firewall? Classify firewalls based on processing modes. (6)
+b) Explain in details the working mechanism of DES algorithm. (6)
+Qs
+a) What is online and offline dictionary attack on password based system? How to prevent it? (6)
+b) Explain computer worm. What are the main categories of worm? : (6)
+Q6
+a) Explain read and write rule of Chinese wall model giving an example. (6)
+b) Why do we need intrusion detection and prevention system? Explain following terms wrt IDS. (6)
+
+- 4p
+--- page 2 ---
+a
+Ary fur
+
+1. False negative
+
+2. False positive
+
+3. Noise
+
+4, Site policy
+
+5. True attack stimulus
+Q7
+a) What is risk management? What are various ways to manage risk? C6)
+b) What is cybercrime? Why cybercrime is hard to prosecute? (6)
+
+XX
+
+Ay
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper e7515f14710d
@@ -3769,101 +3864,6 @@ Identify the biometric system. Justify your answer. Also state limitations
 of the selected option.
 ````
 
-## 2014-15 · Re-Exam · Sem 7 · paper aff0b48e65de
-
-- Departments: Information Technology
-- Programmes: B TECH / IT
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VII SEMESTER/INFORMATION SECURITY/INFORMATION SECURITY B TECH (IT), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 01/12/2015
-- Text: ocr (2 pages), mean OCR confidence 89.3
-
-````text
-N\ SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: IV
-
-Sernesier: VII
-Batch: 2014-2015
-
-UTE 27 y
-
-Academic Year: 2015-2016 me /
-aig
-
-ia.
-Subject: Information Security
-
-Marks:
-Time:
-Duration:
-
-Date: 01/12/2015
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-NB:
-1) Question Ne. 1 is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data wherever necessary. Assumptions made must be clearly stated.
-
-Qi Answer the following questions
-a) Explaifi passive attack giving an example. (3)
-b) Explain Discretionary access control. List its advantages and disadvantages. (3)
-c) Explain NSTISSC Security Model giving an example. (3)
-d) Explain known plain text attack and chosen plain text attack on cryptographic systems (a)
-Q2
-a) Explain following security design principles in brief giving an example of each. (6)
-1. Separation of Privileges Principle .
-2. Least Privilege Principle
-3. Defense in Depth Principle
-4. .Fail safe defaults .
-5. Complete mediation ,
-b) What is a computer virus? What are the components of computer virus program? (6)
-Q3
-a) Compare and contrast symmetric and asymmetric key cryptography. (6)
-b) What are the different classes of fires? What kind of suppression mechanism is to be used for Information (6)
-System?
-Q4 :
-a) What is firewall? Classify firewalls based on processing modes. (6)
-b) Explain in details the working mechanism of DES algorithm. (6)
-Qs
-a) What is online and offline dictionary attack on password based system? How to prevent it? (6)
-b) Explain computer worm. What are the main categories of worm? : (6)
-Q6
-a) Explain read and write rule of Chinese wall model giving an example. (6)
-b) Why do we need intrusion detection and prevention system? Explain following terms wrt IDS. (6)
-
-- 4p
---- page 2 ---
-a
-Ary fur
-
-1. False negative
-
-2. False positive
-
-3. Noise
-
-4, Site policy
-
-5. True attack stimulus
-Q7
-a) What is risk management? What are various ways to manage risk? C6)
-b) What is cybercrime? Why cybercrime is hard to prosecute? (6)
-
-XX
-
-Ay
-````
-
 ## 2013-14 · Final-Exam · Sem 7 · paper 9a082759cdd8
 
 - Departments: Information Technology
@@ -3871,6 +3871,7 @@ Ay
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VII SEMESTER/INFORMATION SECURITY/INFORMATION SECURITY B TECH (IT), 2013-14 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03/12/2013
 - Text: ocr (2 pages), mean OCR confidence 91.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 — SVKM’s NMIMS SNTITE SF Alay, SS
@@ -3922,7 +3923,6 @@ iv. Which of the following malicious code enters into the system not following t
 direct way?
 a. Virus b.Trapdoors   c. Logic bombs d. Rabbits
 v. Which of the following is poly-alphabetic cipher?
-a. Railfence b.DES   c.Caesarcipher Vignere
 Q1.B. State the different ways a virus attaches itself to any healthy code in order to infect it. 05
 Q1.C. Explain in brief what is classical cryptography? Explain in details the working mechanism of DES 10
 algorithm.
@@ -4063,6 +4063,203 @@ want nnn nen nnn nee End ------------------------------------
 10
 ````
 
+## 2013-14 · Re-Exam · Trim 6 · paper 98dc3cefdbe6
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/INFORMATION SECURITY/INFORMATION SECURITY BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/07/2014
+- Text: ocr (2 pages), mean OCR confidence 90.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MCA Year: Il Trimester: VI / geet Aee, My.
+
+af MPSTME’ Ne
+(Gc dg
+
+Academic Year: 2013-14
+
+Batch:2011-2012 —_ Ys
+ans ANt x ia
+: F NIVER
+j : Inf tion Securit Marks: 100 U
+—__ ° Time : 11.00 am to 2.00"*pm
+Date :11/07/2014 Durations:3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Solve any five questions.
+2) All questions carry equal marks.
+3) Answer to each new question to be started on a fresh page.
+4) Figures in brackets on the right hand side indicate full marks.
+5) Assume Suitable data wherever necessary. Assumptions made must be clearly
+
+stated.
+Ql
+a) Explain Confidentiality, integrity and availability with an example. 10
+bao What is packet filtering? Explain the types of packet filtering firewall. 10
+Q2
+In RSA algorithm if p=5, q=11, n=55, and suppose public key e=7, then 20
+compute private key d. show encryption and decryption for letter ‘ce’
+assuming a=0, b=1 ... z=25. State all the steps.
+Q3
+a) Explain Substitution and transposition ciphers with an example 10
+b) Match the following with their description. 10
+1. Virus a. Propagates copies of itself
+through networks
+2. Worm
+
+b. Contains unexpected,
+
+3. Trojan horse additional functionality
+
+4. Logic bomb c. Triggers actions when
+
+5. Trap door conditions occurs
+
+d. Attaches itself to programs
+and propagates copies of
+itself to other programs
+
+e. Replicates itself without
+--- page 2 ---
+Q4
+a)
+b)
+
+Q5
+a)
+
+Q6
+a)
+b)
+
+Q7
+a)
+b)
+
+limit to exhaust resource
+
+f. Allows unauthorized access
+to functionality
+
+Explain the characteristics of Information Security Policies.
+The victim’s email account password is stolen and the account is then
+misused for sending out malicious code (virus, worm, Trojan etc) to people
+in the victim’s address book. The recipients of these viruses believe that the
+email is coming from a known person and run the attachments. This infects
+their computers with the malicious code. For this scenario, answer the
+following
+1. What sections of the Indian IT act are applicable and who is liable?
+2. Explain modus operandi and possible motive behind such cyber
+crime?
+
+Write a note on Virtual private network.
+What are basic components of Authentication system? How does password
+
+authentication mechanism works?
+
+Explain security requirements for database.
+Explain following terms with respect to risk:
+1. Exposure factor 2.ARO 3.SLE 4.ALE
+
+What is cyber crime? Why cyber crime is hard to prosecute?
+Write a note on HIPPA
+
+a ened x
+
+10
+10
+
+10
+10
+
+10
+10
+````
+
+## 2012-13 · Exam not stated · Trim 7 · paper 12ecfad00850
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/INFORMATION SECURITY/scan0015(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/09/2012
+- Text: ocr (1 page), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA (Tech) -I. T.
+
+Academic Year : 2012-2013
+
+Subject: INFORMATION SECURITY
+
+Date: 27/09/2012
+
+Final - Examination
+
+Year: Ii
+
+Trimester: VII
+
+Marks: 100
+Time: 10.00am To 1.0 rm
+Duration: 3 hrs.
+
+Instructions: Candidates should read carefully the instructions printed on the mires
+
+paper and on the cover of the Answer Book, which is provided for their use.
+
+Note:
+1, Attempt any five questions.
+
+2. Answer to each question to be started on a fresh page.
+3. All questions carry equal marks
+4. Figures on the right side indicate full marks.
+
+5. Assumptions made must be clearly stated.
+
+All The Best
+
+QIA The victim’s email account password is stolen and the hacker tries to 10
+extort money from the victim. The victim is threatened that if he does not
+pay the money, the information contained in the emails will be misused.
+
+For this scenario,
+1, Who is liable?
+
+2. Explain modus operandi and possible motive behind such cyber
+
+crime?
+QiB Explain water sprinkler system 10
+Q2A) Explain online and offline dictionary attack wrt password authentication 10
+mechanism.
+oP) What is an information security policy? Explain characteristics of 10
+information security policies.
+Q3A) What is key distribution problem? How it is solved for symmetric key 10
+cryptographic system?
+Q3B) Explain RSA algorithm in detail with an Example. PA 10
+Q4A) Explain non malicious program errors. 10
+Q4B) What is computer virus? Explain classification of virus by target. 10
+}
+QSA) | Explain classification of hackers based on psychological profiling. 10
+QS5B) kplain read and write rule of Chinese Wall model with an example. 10
+Q6A) Compare and contrast HIDS and NIDS 10
+Q6B) What is VPN? Explain tunnel mode of operation of VPN. 10
+
+Q7A) What are various ways of managing risks? Explain each with an example. 10
+Q7B) Write a note on working of Kerberos. Also explain its limitations. 10
+````
+
 ## 2012-13 · Final-Exam · Trim 6 · paper 780c697d0c5f
 
 - Departments: Computer Applications (MCA)
@@ -4161,6 +4358,50 @@ Q.6   '   (20)
 Q.7   -.
 (a) What are the threats and measures for physical security?
 (b) Describe Risk Assessment techniques.
+````
+
+## 2012-13 · Re-Exam · Trim 6 · paper 47e111b79765
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/INFORMATION SECURITY/INFORMATION SECURITY VI MCA 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 19/6/2013
+- Text: text (1 page)
+
+````text
+Programme: MCA   Year:   I1   Trimester: VI
+Academic Year :2012-2013
+201 1-2012
+Subject:   Lnformation Security .   Marks:   100
+Time:   2.00 pm To 5.00 prn
+Date:   19/6/2013   Duration: 3 hrs.   ,
+Re - Examination
+Instrsctions: Candidates should read carefully tbe instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+Note:
+1. Attempt any fivequestions.
+2. Answer to each question to be started on a fresh page.
+3. All questions carry equal marks
+4. Figures on the right side indicate full marks.
+- -5. Assumptions made must be clearly ------------- stated.
+__________________
+Q1A What do you mean by threat? Explain various kinks of threats.
+QIB   List and explain security requirements for databases.
+Q2A Explain DES algorithm in details.
+Q2B How ceasar cipher works? What are it's advantages and limitations
+Q3A What do you mean by non malicious program errors? Explain buffer   10
+overflow error with its security implication.
+Q3B What do you mean by covert channel? Explain storage covert channel.   10
+Q4A How base1 bound register are useful to protect memory and address?
+Q4B Explain authentication. How an identity can he established?
+QSA Classify firewall based on processing mode.
+Q5E Write a note on VPN.
+Q6A Compare and contrast symmetric and asymmetric key cryptography.   10
+Q6B What are various methods of managing risk?   10
+Q7A Explain meaning of trade secret? How it is applicable to computer   10
+soilware?
+Q73 Write a short note on SOX   10
+, -
 ````
 
 ## 2012-13 · Re-Exam · Trim 6 · paper 466ec53077c3
@@ -4332,6 +4573,136 @@ v!
 
 10
 
+10
+
+10
+
+10
+
+10
+10
+````
+
+## 2011-12 · Re-Exam · Trim 7 · paper 44e0ae7f654c
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/INFORMATION SECURITY/INFORMATION SECURITY BATCH 2010-2011 RE EXAM(1).pdf`
+- Printed on paper: exam date: 27/01/2012
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engi
+Programme: B. Tech- I. T. Year: IV Trimeste
+
+Academic Year : 2011-2012
+
+Batch: 2010-2011
+* Subject: INFORMATION SECURITY Mark (“et Un versity eg
+. pai - 56.
+Date: 27/01/2012 rime: « 1010@48%h To 5 pm
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+Note:
+1. Question no.1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. In all five questions to be attempted.
+4. Answer to each question to be started on a fresh page.
+5. All questions carry equal marks
+6. Figures on the right side in the bracket indicate full marks.
+7. Assumptions made must be clearly stated.
+
+~— —
+
+Q1A_ Answer the following 10
+1 propagates a copy of itself through a network.
+a.Worm   b.Rabbit cc. Virus d. Bacteria
+2 Inthe Bell- LaPadula model, the simple security property addresses which
+) of the following?
+a.Reads   b. Writes c.Executes   d. Read/Writes
+3 Binding of identity to the subject is called
+a. Authentication b. authorization c. access control __ d. confidentiality
+4 Anderson formulais P___ TG/N
+
+a= b> aS d=
+5 In this access control, objects are labeled by the level of sensitivity.
+a.DAC b.MAC c¢.ACL~ d.RBAC
+6 Circuit gateways operate at the layer of OSI model.
+
+i a. Application b.Network cc. Transport d. Data Link Layer
+4) / Single loss expectancy (SLE) is calculated by using:
+¥ a. Asset Value and annulized rate of occurance
+b. Asset value, local annual frequency estimate and standard annual
+frequency estimate
+c. Asset value and exposure factor
+d. All of the above
+8 What are the three types of access control?
+a. Administrative, physical and technical
+b. Identification, authentication and authorization
+c. Mandatory, discretionary and least privilege
+d. Access, management and monitoring
+
+\/o
+--- page 2 ---
+10
+
+A way to defeat frequency analysis as a method to determine the key is to
+use:
+
+a. Substitution ciphers b. Transposition ciphers c. Polyalphabetic ciphers
+d. Inversion ciphers
+
+Which one of these fire extinguisher classes is most appropriate for
+controlling fires in electrical equipment or wiring?
+
+a. Class A b.ClassB   c.ClassC — d. Class D
+
+Explain vulnerability with an example.
+
+Explain in brief, general steps involved in computer forensic process.
+
+Explain Security System development life cycle.
+Explain DH algorithm with an example.
+
+Explain RSA algorithm in detail with an example.
+Explain defense in depth, least privilege, separation of privilege and
+security through obscurity principles.
+
+Explain non malicious program errors.
+Write a note on working of Kerberos. Also explain its limitations.
+
+Explain Certification rules and Enforcement rules in Clark Wilson model.
+Explain following terms:
+1. Exposure factor 2.ARO 3.SLE 4. ALE
+
+Write a note on network based IDS. State the advantages and limitation of
+NIDS.
+Explain detective access controls.
+
+Explain packet filtering firewall in detail.
+Explain water sprinkler system in detail.
+
+Sh Ro x
+
+05
+05
+
+10
+10
+
+10
+10
+
+10
+10
+
+10
 10
 
 10
@@ -4595,172 +4966,6 @@ ah
 10
 ````
 
-## 2011-12 · Re-Exam · Trim 6 · paper 98dc3cefdbe6
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/INFORMATION SECURITY/INFORMATION SECURITY BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/07/2014
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MCA Year: Il Trimester: VI / geet Aee, My.
-
-af MPSTME’ Ne
-(Gc dg
-
-Academic Year: 2013-14
-
-Batch:2011-2012 —_ Ys
-ans ANt x ia
-: F NIVER
-j : Inf tion Securit Marks: 100 U
-—__ ° Time : 11.00 am to 2.00"*pm
-Date :11/07/2014 Durations:3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Solve any five questions.
-2) All questions carry equal marks.
-3) Answer to each new question to be started on a fresh page.
-4) Figures in brackets on the right hand side indicate full marks.
-5) Assume Suitable data wherever necessary. Assumptions made must be clearly
-
-stated.
-Ql
-a) Explain Confidentiality, integrity and availability with an example. 10
-bao What is packet filtering? Explain the types of packet filtering firewall. 10
-Q2
-In RSA algorithm if p=5, q=11, n=55, and suppose public key e=7, then 20
-compute private key d. show encryption and decryption for letter ‘ce’
-assuming a=0, b=1 ... z=25. State all the steps.
-Q3
-a) Explain Substitution and transposition ciphers with an example 10
-b) Match the following with their description. 10
-1. Virus a. Propagates copies of itself
-through networks
-2. Worm
-
-b. Contains unexpected,
-
-3. Trojan horse additional functionality
-
-4. Logic bomb c. Triggers actions when
-
-5. Trap door conditions occurs
-
-d. Attaches itself to programs
-and propagates copies of
-itself to other programs
-
-e. Replicates itself without
---- page 2 ---
-Q4
-a)
-b)
-
-Q5
-a)
-
-Q6
-a)
-b)
-
-Q7
-a)
-b)
-
-limit to exhaust resource
-
-f. Allows unauthorized access
-to functionality
-
-Explain the characteristics of Information Security Policies.
-The victim’s email account password is stolen and the account is then
-misused for sending out malicious code (virus, worm, Trojan etc) to people
-in the victim’s address book. The recipients of these viruses believe that the
-email is coming from a known person and run the attachments. This infects
-their computers with the malicious code. For this scenario, answer the
-following
-1. What sections of the Indian IT act are applicable and who is liable?
-2. Explain modus operandi and possible motive behind such cyber
-crime?
-
-Write a note on Virtual private network.
-What are basic components of Authentication system? How does password
-
-authentication mechanism works?
-
-Explain security requirements for database.
-Explain following terms with respect to risk:
-1. Exposure factor 2.ARO 3.SLE 4.ALE
-
-What is cyber crime? Why cyber crime is hard to prosecute?
-Write a note on HIPPA
-
-a ened x
-
-10
-10
-
-10
-10
-
-10
-10
-````
-
-## 2011-12 · Re-Exam · Trim 6 · paper 47e111b79765
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/INFORMATION SECURITY/INFORMATION SECURITY VI MCA 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 19/6/2013
-- Text: text (1 page)
-
-````text
-Programme: MCA   Year:   I1   Trimester: VI
-Academic Year :2012-2013
-201 1-2012
-Subject:   Lnformation Security .   Marks:   100
-Time:   2.00 pm To 5.00 prn
-Date:   19/6/2013   Duration: 3 hrs.   ,
-Re - Examination
-Instrsctions: Candidates should read carefully tbe instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-Note:
-1. Attempt any fivequestions.
-2. Answer to each question to be started on a fresh page.
-3. All questions carry equal marks
-4. Figures on the right side indicate full marks.
-- -5. Assumptions made must be clearly ------------- stated.
-__________________
-Q1A What do you mean by threat? Explain various kinks of threats.
-QIB   List and explain security requirements for databases.
-Q2A Explain DES algorithm in details.
-Q2B How ceasar cipher works? What are it's advantages and limitations
-Q3A What do you mean by non malicious program errors? Explain buffer   10
-overflow error with its security implication.
-Q3B What do you mean by covert channel? Explain storage covert channel.   10
-Q4A How base1 bound register are useful to protect memory and address?
-Q4B Explain authentication. How an identity can he established?
-QSA Classify firewall based on processing mode.
-Q5E Write a note on VPN.
-Q6A Compare and contrast symmetric and asymmetric key cryptography.   10
-Q6B What are various methods of managing risk?   10
-Q7A Explain meaning of trade secret? How it is applicable to computer   10
-soilware?
-Q73 Write a short note on SOX   10
-, -
-````
-
 ## 2011-12 · Re-Exam · Trim 6 · paper fbaa3e0820b3
 
 - Departments: Computer Applications (MCA)
@@ -4806,134 +5011,54 @@ Q7B Write a short note on BS7799 standard.   10
 ........................................   End ......................................
 ````
 
-## 2010-11 · Re-Exam · Trim 7 · paper 44e0ae7f654c
+## 2010-11 · Exam not stated · Trim 6 · paper a0c4ddc03259
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/INFORMATION SECURITY/INFORMATION SECURITY BATCH 2010-2011 RE EXAM(1).pdf`
-- Printed on paper: exam date: 27/01/2012
-- Text: ocr (2 pages), mean OCR confidence 89.8
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/INFORMATION SECURITY/INFORMATION SECURITY.pdf`
+- Printed on paper: exam date: 09/05/2011
+- Text: ocr (1 page), mean OCR confidence 90.6
 
 ````text
 SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
 
-Mukesh Patel School Of Technology Management & Engi
-Programme: B. Tech- I. T. Year: IV Trimeste
+Programme: MCA Year: II Trimester:
+Academic Year : 2010-2011
+s SVKM'S (Ve
+Subject: Information Security Marks: {/* {00rn Unversity Yop
+Time: * 2.00 prsaTey 5.00 tg
+Date: 09/05/2011 Duration:
+Final - Examination
+Instructions: Candidates should read carefully the instructions printed on the On paper
 
-Academic Year : 2011-2012
+and on the cover of the answer book, which is provided for their use.
 
-Batch: 2010-2011
-* Subject: INFORMATION SECURITY Mark (“et Un versity eg
-. pai - 56.
-Date: 27/01/2012 rime: « 1010@48%h To 5 pm
+NB:
+1. Question No.1 is compulsory. Out of remaining questions, attempt any 4 .
+2. Inall ,5 questions to be attempted.
+3. Answers to each new question to be started on fresh page.
+4. Figure to the right indicate full marks.
+w
+Q.1 a) Explain attacks against availability , integrity and confidentiality (4 each) in detail. 10
+b) Compare the following: 10
+i) Virus and worm ii)symmetric key encryption & asymmetric key encryption
+Q2. a) Explain DES algorithm in detail 10
+b) Explain non malicious program errors with examples 10
+Q3. a) Explain various schemes for file protection 10
+b) Explain vernam cipher and vigenere cipher with suitable examples. 10
+Q4. a) Explain the basic security requirements of Database systems 10
+b) Explain approaches to multilevel security for databases 10
+- Q5. a) Explain different types of firewalls in detail. 10
+b) What is Intrusion Detection System(IDS)? Explain two general types of IDS. 10
+Q6. a) Explain the characteristics of the security requirements during security planning. 10
+b) Highlight legal issues in computer security. 10
+Q7. Write notes on any two of the following: 20
+a) Internet worm
+b) Multilevel databases
+c) Cookies
 
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-Note:
-1. Question no.1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
-3. In all five questions to be attempted.
-4. Answer to each question to be started on a fresh page.
-5. All questions carry equal marks
-6. Figures on the right side in the bracket indicate full marks.
-7. Assumptions made must be clearly stated.
-
-~— —
-
-Q1A_ Answer the following 10
-1 propagates a copy of itself through a network.
-a.Worm   b.Rabbit cc. Virus d. Bacteria
-2 Inthe Bell- LaPadula model, the simple security property addresses which
-) of the following?
-a.Reads   b. Writes c.Executes   d. Read/Writes
-3 Binding of identity to the subject is called
-a. Authentication b. authorization c. access control __ d. confidentiality
-4 Anderson formulais P___ TG/N
-
-a= b> aS d=
-5 In this access control, objects are labeled by the level of sensitivity.
-a.DAC b.MAC c¢.ACL~ d.RBAC
-6 Circuit gateways operate at the layer of OSI model.
-
-i a. Application b.Network cc. Transport d. Data Link Layer
-4) / Single loss expectancy (SLE) is calculated by using:
-¥ a. Asset Value and annulized rate of occurance
-b. Asset value, local annual frequency estimate and standard annual
-frequency estimate
-c. Asset value and exposure factor
-d. All of the above
-8 What are the three types of access control?
-a. Administrative, physical and technical
-b. Identification, authentication and authorization
-c. Mandatory, discretionary and least privilege
-d. Access, management and monitoring
-
-\/o
---- page 2 ---
-10
-
-A way to defeat frequency analysis as a method to determine the key is to
-use:
-
-a. Substitution ciphers b. Transposition ciphers c. Polyalphabetic ciphers
-d. Inversion ciphers
-
-Which one of these fire extinguisher classes is most appropriate for
-controlling fires in electrical equipment or wiring?
-
-a. Class A b.ClassB   c.ClassC — d. Class D
-
-Explain vulnerability with an example.
-
-Explain in brief, general steps involved in computer forensic process.
-
-Explain Security System development life cycle.
-Explain DH algorithm with an example.
-
-Explain RSA algorithm in detail with an example.
-Explain defense in depth, least privilege, separation of privilege and
-security through obscurity principles.
-
-Explain non malicious program errors.
-Write a note on working of Kerberos. Also explain its limitations.
-
-Explain Certification rules and Enforcement rules in Clark Wilson model.
-Explain following terms:
-1. Exposure factor 2.ARO 3.SLE 4. ALE
-
-Write a note on network based IDS. State the advantages and limitation of
-NIDS.
-Explain detective access controls.
-
-Explain packet filtering firewall in detail.
-Explain water sprinkler system in detail.
-
-Sh Ro x
-
-05
-05
-
-10
-10
-
-10
-10
-
-10
-10
-
-10
-10
-
-10
-
-10
-
-10
-10
+h
 ````
 
 ## 2009-10 · Exam not stated · Trim 12 · paper 104a09197018
@@ -5219,129 +5344,4 @@ c) Computer crime.
 d) Ethical issues in computer society.
 
 x ee L
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper 12ecfad00850
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/INFORMATION SECURITY/scan0015(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/09/2012
-- Text: ocr (1 page), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MBA (Tech) -I. T.
-
-Academic Year : 2012-2013
-
-Subject: INFORMATION SECURITY
-
-Date: 27/09/2012
-
-Final - Examination
-
-Year: Ii
-
-Trimester: VII
-
-Marks: 100
-Time: 10.00am To 1.0 rm
-Duration: 3 hrs.
-
-Instructions: Candidates should read carefully the instructions printed on the mires
-
-paper and on the cover of the Answer Book, which is provided for their use.
-
-Note:
-1, Attempt any five questions.
-
-2. Answer to each question to be started on a fresh page.
-3. All questions carry equal marks
-4. Figures on the right side indicate full marks.
-
-5. Assumptions made must be clearly stated.
-
-All The Best
-
-QIA The victim’s email account password is stolen and the hacker tries to 10
-extort money from the victim. The victim is threatened that if he does not
-pay the money, the information contained in the emails will be misused.
-
-For this scenario,
-1, Who is liable?
-
-2. Explain modus operandi and possible motive behind such cyber
-
-crime?
-QiB Explain water sprinkler system 10
-Q2A) Explain online and offline dictionary attack wrt password authentication 10
-mechanism.
-oP) What is an information security policy? Explain characteristics of 10
-information security policies.
-Q3A) What is key distribution problem? How it is solved for symmetric key 10
-cryptographic system?
-Q3B) Explain RSA algorithm in detail with an Example. PA 10
-Q4A) Explain non malicious program errors. 10
-Q4B) What is computer virus? Explain classification of virus by target. 10
-}
-QSA) | Explain classification of hackers based on psychological profiling. 10
-QS5B) kplain read and write rule of Chinese Wall model with an example. 10
-Q6A) Compare and contrast HIDS and NIDS 10
-Q6B) What is VPN? Explain tunnel mode of operation of VPN. 10
-
-Q7A) What are various ways of managing risks? Explain each with an example. 10
-Q7B) Write a note on working of Kerberos. Also explain its limitations. 10
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper a0c4ddc03259
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/INFORMATION SECURITY/INFORMATION SECURITY.pdf`
-- Printed on paper: exam date: 09/05/2011
-- Text: ocr (1 page), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MCA Year: II Trimester:
-Academic Year : 2010-2011
-s SVKM'S (Ve
-Subject: Information Security Marks: {/* {00rn Unversity Yop
-Time: * 2.00 prsaTey 5.00 tg
-Date: 09/05/2011 Duration:
-Final - Examination
-Instructions: Candidates should read carefully the instructions printed on the On paper
-
-and on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory. Out of remaining questions, attempt any 4 .
-2. Inall ,5 questions to be attempted.
-3. Answers to each new question to be started on fresh page.
-4. Figure to the right indicate full marks.
-w
-Q.1 a) Explain attacks against availability , integrity and confidentiality (4 each) in detail. 10
-b) Compare the following: 10
-i) Virus and worm ii)symmetric key encryption & asymmetric key encryption
-Q2. a) Explain DES algorithm in detail 10
-b) Explain non malicious program errors with examples 10
-Q3. a) Explain various schemes for file protection 10
-b) Explain vernam cipher and vigenere cipher with suitable examples. 10
-Q4. a) Explain the basic security requirements of Database systems 10
-b) Explain approaches to multilevel security for databases 10
-- Q5. a) Explain different types of firewalls in detail. 10
-b) What is Intrusion Detection System(IDS)? Explain two general types of IDS. 10
-Q6. a) Explain the characteristics of the security requirements during security planning. 10
-b) Highlight legal issues in computer security. 10
-Q7. Write notes on any two of the following: 20
-a) Internet worm
-b) Multilevel databases
-c) Cookies
-
-h
 ````

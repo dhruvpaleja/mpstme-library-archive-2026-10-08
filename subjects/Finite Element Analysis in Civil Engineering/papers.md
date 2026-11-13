@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/FINITE ELEMENT ANALYSIS IN CIVIL ENGINEERING/FINITE ELEMENT ANALYSIS IN CIVIL ENGINEERING FINAL EXAM 2019-20.pdf`
 - Printed on paper: exam date: 13 November,2019
 - Text: ocr (3 pages), mean OCR confidence 84.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —ow oe
@@ -110,7 +111,6 @@ forces developed in elements. Also determine element stresses and strains. Take 
 Node-1
 Node-2 Node-3
 ' P=150 kN
-{ A= 1500 mm? —— A= 1000 mm? S
 /
 f 2m 7 2m si
 al wit
@@ -182,6 +182,7 @@ Page 03/03
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/CIVIL/SEM IX/FINITE ELEMENT ANALYSIS IN CIVIL ENGINEERING/Finite Element Anaysis in Civil Engineering 2019-20 Final.pdf`
 - Printed on paper: exam date: 13 November,2019
 - Text: ocr (3 pages), mean OCR confidence 85.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ——— ——
@@ -239,7 +240,6 @@ Node-1 Node-4
 t= 500°C Node-2 Node-3 t= 150°C
 Fire Insulation Red
 Brick Brick Brick
-Le 235 cm a 10cm 20 cm S|
 Lh >t i¢ >|
 
 Page 01/03
@@ -274,7 +274,6 @@ forces developed in elements. Also determine element stresses and strains. Take 
 Node-]
 Node-2 Node-3
 P= 150 kN 4g
-\ A= 1500 mm? MG—— A= 1000 mm? P
 2m 2m '
 
 Page 02/03

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AIDS_7056/French/QP_French(702BS0I015)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
 - Text: ocr (4 pages), mean OCR confidence 91.1
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -43,7 +44,6 @@ Instructions:
 Ql Answer briefly:
 a. Translate the following to English
 
-1.Un crayon, 2. La mer, 3. Les chaussettes , 4. Le petit-déjeuner , 5. Le printemps (5)
 
 b.Translate the following to French
 
@@ -62,7 +62,6 @@ c. Conjugation: ALLER and FAIRE [5}
 4. Complete with the correct conjugation of FAIRE: J'
 
 ses devoirs aprés le diner..
-la vaisselle tous les soirs.
 
 5.Complete with the correct conjugation of FAIRE: Tu du sport le
 week-end?
@@ -110,7 +109,6 @@ Daily Life and Grammar
 
 1. Translate the following sentences to English
 
-a. Il fait beau aujourd'hui. b. Tu mets un imperméable quand il pleut. c. Je me réveille a six heures. d.
 Nous dinons a vingt heures. e. Les fruits sont sur la table.
 
 2. Write a short paragraph (3-4 sentences) describing a typical weekend activity, using a minimum of
@@ -161,9 +159,7 @@ a walk, Day, Shopping.
 Q7 Passage Translation
 Translate the following passage to English.
 
-“Mon quartier est calme et propre. Il y a un parc ot les enfants jouent et un petit marché pour acheter
 des fruits et légumes. J'aime aller a la piscine !e matin avant de commencer le travail. Je travaille dans
-une banque prés d'ici. Le soir, je rentre en bus et je prépare le diner. Je me couche toujours a vingt-trois
 heures. Ma vie est simple mais agréable."
 
 RRRARARRRK QR RRR KEK
@@ -295,6 +291,7 @@ J'aime beaucoup ma vie.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE Data Science (311)/SEM-VI/FRENCH/French, Sem VI, Final Exam 2024-25.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (8 pages), mean OCR confidence 78.8
+- 21 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -343,7 +340,6 @@ BL-3 nchanté
 
 4. Nous sommes coiffeurs et vous ?
 
-5. Excusez-moi mademoiselle, s’il vous plait.
 
 b. Traduisez: (Translate from English to French)
 
@@ -383,9 +379,7 @@ Mettez le dialogue en bon ordre : (Arrange the dialogue in proper order)
 
 2. Oui, je travaille dans un bar.
 
-3. Super! j’habite a Lyon. Tu travailles?
 
-4. Oui, je suis frangais et toi?
 
 5. Bravo ! enchanté !
 
@@ -393,7 +387,6 @@ Mettez le dialogue en bon ordre : (Arrange the dialogue in proper order)
 
 7. Non, je ne travaille pas et toi ?
 
-8. Moi, je suis japonais, mais j’habite a Paris.
 9. Bonjour, trés bien et toi ?
 
 10. A bientét ! Bonne journée !
@@ -461,10 +454,8 @@ a.
 _ 3. Nous le badminton aujourd’hui. (jouer)
 4. Les garcons regarder le cinéma. (adorer)
 Ee : 5. Vous le stylo a Charles. (donner) . (10)
-BL- 1 6. Le professeur le travail ce matin. (finir)
 7. Je examen de TCF. (réussir)
 8. Nous le train. (attendre)
-9. Naima le jus d’orange. (boire)
 10. II Paul Bouchard. (s’appeler)
 Réécrivez le mot avec le bon accent. (Re-write the words with correct
 b. accent) :
@@ -476,7 +467,6 @@ BL-1
 5. Frere
 Ecrivez les nationalités. (Write the nationalites)
 ee Ba Bee 1. Nous habitons en Chine. Nous sommes : (6)
-BL-1 2. Pierre et Matthew habitent au Canada. Ils sont
 --- page 4 ---
 3. J’habite en Italie. Je suis .
 
@@ -495,13 +485,9 @@ BL-1 4. Le soleil (sun) est
 5. Le concombre (cucumber) est
 Mettez les phrases au féminin : (Put the sentences to feminine form).
 b. 1. L’homme est mauvais.
-CO-13: 2. Le journaliste est espagnol et fort. (5) .
-SO- 3; 3. Iladore la salade avec du yaourt
 BL- 3 4. Le grand-pere est australien.
 5. Mon oncle est pilote.
-Complétez avec l’adiectif démonstratif: ce/cette/ce/ces/cet
 c. 1. J’adore école, c’est magnifique !
-2. Monsieur, vous avez deux chiens avec vous ?
 co- 1; (5)
 SO- 3; 3. Varchitecture de maison est originale.
 BL-1 4. Le décor de cinéma est super !
@@ -523,7 +509,6 @@ CO- 1,3: 2. C’est un livre marron. (5)
 SO- 3; 3. Je regarde un film indien.
 BL- 3 4. || porte un pantalon.
 5. L’acteur est joli et content.
-Complétez avec |’adjectif interrogatif: quel/quelle/quels/quelles
 b. 1. Vous aimez bouteille ?
 2. est votre nationalité ?
 CO- 1; pease ; (5)
@@ -581,14 +566,9 @@ Q7 . [20]
 Lisez le texte et répondez aux questions : (Read the text and reply to the
 a. questions )
 CO- 3,4; oe . .
-50-3: Aujourd’hui, c’est vendredi, Emma va au restaurant avec sa famille. Le
 BL- 6 restaurant est grand et magnifique. Elle mange du poulet avec du riz. Son (10)
 
 peére mange du poisson avec de la biére. Ils sont trés contents. C’est
-anniversaire de son pére. Son pére s’appelle Monsieur Michel Lacroix. II
-a quarante deux ans. Il est jeune. Il habite a Lyon mais il travaille a
-Marseille. Il aime la musique classique. Il est beau. Demain matin, Emma
-va a la plage et le soir elle va au cinéma avec ses amis. Dimanche, elle
 reste a la maison. Elle aime le printemps. C’est la saison des couleurs, il y
 a des fleurs rouges, roses, jaunes, oranges. Le soleil brille et le ciel est
 bleu. II fait beau.
@@ -599,7 +579,6 @@ Répondez aux questions :
 
 2. Que mange Emma ?
 --- page 7 ---
-3. M. Michel Lacroix travaille dans quelle ville ?
 4. Demain, Emma fait quelle activité ?
 5. Emma aime quelle saison ?
 
@@ -620,9 +599,7 @@ b.
 
 Traduisez : (Translate the following passage to english)
 
-Je m’appelle Nathalie. J’habite avec ma famille dans une grande maison.
 lly a une université pres de ma maison. Je me léve a 7 heures. Je joue le
-tennis. je suis petite et sportive. Je mange mon petit déjeuner et je vais a
 l'université. Je déjeune avec mes amis au restaurant. J’écoute la
 
 musique. Je dine a 21 heures.
@@ -631,7 +608,6 @@ musique. Je dine a 21 heures.
 --- page 8 ---
 ‘ oo a og. tigussy th ce Pathbt 4 3 2
 U feta a a 7 :
-ee beget 94 fhe nig Say ena Kahr 7 wey hs
 ````
 
 ## 2024-25 · Final-Exam · Sem 7 · paper 2d4d8f190457
@@ -640,6 +616,7 @@ ee beget 94 fhe nig Say ena Kahr 7 wey hs
 - Programmes: B TECH, MBA TECH
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/FRENCH/French, Sem-VII, Final Exam 2024-25.pdf` (+1 identical copies)
 - Text: ocr (7 pages), mean OCR confidence 81.2
+- 15 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYKM’S NMIMS .
@@ -728,11 +705,9 @@ BL-
 
 10. Vous
 
-Je_. (parler) avec mes amis tous les jours.
 
 1,
 
-2. Nous (finir) nos devoirs avant de sortir.
 
 3. Tu .__ (vendre) des journaux au coin de la
 rue. a
@@ -746,11 +721,8 @@ rapidement. .
 
 7. On (manger) ensemble ce soir ?
 
-8. Les enfants (remplir) les verres d'eau.
 
-9. Marc (attendre) le bus tous les matins.
 
-(arriver) a la gare a quelle heure
 ? . ,
 
 [20]
@@ -799,32 +771,24 @@ BL-
 Answer the questions according to the text given
 
 Je m'appelle Marie, j'ai vingt-deux ans et j‘habite a Paris. Je suis
-étudiante en histoire a runiversité, J'ai une petite sceur qui s'appelle
 Léa, elle a quinze ans et elle est au lycée. Mon pére travaille dans
 une banque, et ma mére est infirmiére.
 
 Tous les jours, je me léve a sept heures. Je prends un petit déjeuner
-iéger : un café et une tartine. Ensuite, je vais a luniversité en métro.
 Mes cours commencent a néuf heures et finissent vers seize heures.
 Le soir, j'aime cuisiner. Mon plat préféré est les pates a la sauce
-tomate. Nous mangeons souvent ensemble en famille, et apres le
-diner, je regarde un peu fa télé ou je lis un livre. Je me.couche vers
 
 vingt-trois heures.
 
 Le week-end, j'aime sortir avec mes amis et aller au cinéma. J'adore
-aussi rendre visite-& mes grands-parents qui habitent a la campagne.
 
 Questions: (10 marks}
 
 1. Quel 4ge a Marie?
 
-2. Comment s‘appelle la sceur de Marie ?
 
 [20]
 --- page 6 ---
-3. Aquelle heure Marie se léve-t-elle ?
-4.- Quel est le plat préféré de Marie ?
 5. Que fait Marie aprés le diner ?
 
 1. Look for the corresponding words from the text. (10
@@ -854,11 +818,9 @@ Q?
 CO-1,2 | ‘Le midi, je déjeune a la cafétéria avec mes amis, puis je joue au foot. [20]
 SO-; : :
 
-Bile Jaime beaucoup regarder-dés films.et écouter de ia musique. Le samedi
 
 soir, je mange des pates et je sors gvec mes amis pour aller au cinéma.
 
-HEH HRAH SARAH HRHHRHH Re
 ````
 
 ## 2023-24 · Final-Exam · Sem 7 · paper b6149d8f1235
@@ -868,6 +830,7 @@ HEH HRAH SARAH HRHHRHH Re
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/FRENCH/French , Final 2023-2024.pdf` (+10 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 87.7
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 S SVKM’S NMIMS
@@ -988,19 +951,15 @@ BL-1, 3
 
 1. Conjugate the following verbs.
 
-1. Les filles porter de jolies robes. (aimer)
 
 2.Tu dans une chorale. (chanter)
 
 [20]
 --- page 3 ---
-3. Lucie a son amie demain (téléphoner)
 
-4. Marion dans le jardin des voisins. (jouer)
 
 5. Vous le train? (attendre)
 
-6. Elle quand elle a le temps. (répondre)
 7. Nous nos amis. (défendre)
 
 8. Les enfants dans le jardin. (courir)
@@ -1062,15 +1021,12 @@ Mes fréres et moi parlons frangais, italien et allemand a la maison. Nous
 
 avons une grande maison avec un chien, un poisson et deux chats.
 
-Aujourd’hui, on est samedi, nous rendons visite & notre grand-mére. Elle a 84
-ans et elle habite a Antibes. J’adore ma grand-mére, elle est trés gentille. Elle
 
 fait de bons gateaux.
 
 Lundi, je retourne a l’école. Je suis contente, je vais voir Amélie. C’est ma
 meilleure amie. J’aime beaucoup |’école. Mes matiéres préférées sont le
 
-francais et le sport. J’aime beaucoup lire et je nage trés bien. .
 
 1. Answer the following questions
 
@@ -1103,9 +1059,7 @@ BL- 1,6
 Translate the following passage to English
 
 Ma famille n'est pas trés grande, nous ne sommes que quatre personnes :
-mon pére, ma mére, ma sceur et moi. Nous avons aussi un chien. je suis
 grand, gentil et intelligent. J'ai douze ans. Mes parents s'appellent Javier
-et Maria, ma sceur s'appelle Sara et je m'appelle Luis. Nous vivons tous
 
 ensemble dans une trés bonne maison.
 
@@ -1119,6 +1073,7 @@ ensemble dans une trés bonne maison.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/FRENCH/French , Re-exam 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (5 pages), mean OCR confidence 85.9
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / : SVKM’S NMIMS
@@ -1238,18 +1193,15 @@ BL+2,.3
 
 [20]
 --- page 3 ---
-3. Je francais avec mon correspondant (parler)
 
 4.Tu_____un bain au bébé? (donner)
 
-5. lls leurs voix. (entendre)
 
 6. Tu au marché la semaine prochaine (aller)
 7. Nous le bus. (attendre)
 
 8.Je_————s chaque matin. (courir)
 
-9.Joe-Bob et Corey___ toujours leurs pizzas. (finir)
 
 10. Edouard, vous ne
 
@@ -1288,7 +1240,6 @@ a. Il fait bon.
 b. Tu manges du riz.
 c. Ellaa huit ans.
 
-d. Elle porte une jupe.
 
 Qs e. Je vais a pied
 CO-2 [20]
@@ -1299,15 +1250,9 @@ c. I drink coffee.
 d. She is my sister. :
 e. Weare tall.
 Answer the questions according to the text given
-Je m’appelle Marie. J’ai trente ans. Ma famille se compose de quatre
-personnes. Mon mari et moi avons deux enfants, une fille de sept ans
-et un garcon de trois ans. Nous avons également des animaux : un
-chat, un chien, deux lapins et des poissons rouges. Mon mari s’appelle
 Q6 Louis. Nous vivons dans une jolie maison avec un grand jardin. Notre
-co-1,2,3 quartier est calme et paisible. Je suis secrétaire et je m’occupe de mes 20]
 BL-1,2,6
 
-deux enfants quand ils rentrent de |’école. Mon mari est professeur
 d’anglais dans une école qui se trouve a 20 kilométres de la maison.
 Le dimanche, nous aimons nous promener en famille dans la forét
 proche de notre maison et faire des jeux. Nous jouons dans le jardin
@@ -1317,7 +1262,6 @@ quand il fait beau ou dans la maison quand il pleut.
 1. Answer the following questions we
 1. Quel age a Marie?
 2. Comment s'appelle son mari ?
-3. Combien de personnes y a-t-il dans Marie famille ?
 4. Combien d' enfants a-t-elle ?
 
 5. Qu’est-ce que la famille aime faire le week-end ?
@@ -1339,7 +1283,6 @@ Q7 Je me léve a sept heures trente, je prends mon petit-déjeuner et je vais a
 cO-1 l'université. [20]
 BL- 1,6 Le midi, je mange a la maison et je regarde la télévision.
 
-J’aime beaucoup le cinéma, le théatre et la musique. Le vendredi soir, je
 
 mange de la pizza et je danse au club.
 ````

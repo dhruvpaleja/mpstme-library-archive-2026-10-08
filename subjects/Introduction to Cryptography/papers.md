@@ -894,6 +894,7 @@ SRR RRR 2 RRR KK de
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/INTRODUCTION TO CRYPTOGRAPHY/Introduction to Cryptography, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-2024.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 62.7
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1013,19 +1014,176 @@ be, A 4
 7 & aS ogthf S > -
 5 : i pes ey oop Roe ED
 as
-2 olay Sguscides e POR RLS Pyit@acar, peered a ¥
 Bowe + : -
 s a
 i } :
 eet pom
-: - 4 aye eta, soos ae atk toes Fl
 . 7 et - * 4 eth REE UT ote
-: coy yews woe tis, ace! ‘es . :
 : / — thle as - ma age? a 7
 - Q 7 - cares eae Bs - - aaa by
 Bed: 7 RG
 _ § : eh a oe ae wiseenns | Lob oa ume
 Sassy tl . - att ok ney 2
+````
+
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 26daf7380198
+
+- Departments: Cyber Security
+- Programmes: B TECH / CSE-CYBER SECURITY
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/INTRODUCTION TO CRYPTOGRAPHY/Introduction to Cryptography, Sem-IV, Final & Re Exam Batch 2021-22, 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 82.1
+
+````text
+SVKM’S NMIMS 4
+-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: B. Tech : Year: IT Semester: [V
+
+Stream/s : CSE (Cybersecurity) i.
+
+Subject: Introduction to Cryptography . Time: 3 hrs (10:00 am. To 01:00 pm.)
+Date:_22 /.04 / 2024 No. of Pages: 03
+
+Marks: 100
+
+Final Exaimination/ Re-Examination (2021-22,2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+,
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___ 5 _ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Qi Solve:
+a. | Ciphertext given below is obtained by first encrypting the plaintext by using Auto key cipher
+with the key 9 and then encrypting the result again by the permutation cipher with the key:
+co-1; ; [05]
+BL-2 __ ft y2y3 74s
+"Ts 4[ 13/2
+Decrypt the text: VZBGHEVTSHVZKIY
+lan b. | Suppose that the message "brick" is encrypted as CBKRI by using the permutation cipher
+Cou ‘with a key 2. Write down the key by filling out the missing entries in the permutation z: .
+aly 0.
+BL-2 ; [05]
+1{2|3|4|5
+c. | You found one paragraph ciphertext that was encrypted by using Vigenere cipher. You
+found that the string: BQJTWDAQZALB occurs many times. Suppose you make a guess
+cd s correctly that the repeating above ciphertext is the encryption of the plaintext [05]
+"cryptography". If you know that the keyword is a 7 letters word, find the key word.
+Your answer should be a meaningful word with 7 letters. :
+Coon d. | Following cipher text was encrypted by a Shift Cipher mod 26: WTQP TD L RTQE [05]
+BL-2 Decrypt the message by finding the key. Hint: There is a one letter word.
+
+1/3
+--- page 2 ---
+a. | Compute d (55) where
+
+Q2 i)
+: [10]
+
+oo Recall that a modified RSA cryptosystem is defined similarly as regular RSA system except
+
+that a is calculated by requiring ab = 1 mod A(n) instead of ab = 1 mod   (n). Compute a for
+
+the modified RSA cryptosystem with (55, 3) as the public key.
+02 b. | Bob accidentally selected n such that n + 9” is a perfect square, that is, n-+ 9? = s? for some
+CO-2; positive integer s. Find the factors of n. Hint: a’ — b’ = (a + b) (a— b). [10]
+BL-2 Also find factors ofn = 2189284635403183.
+03 a. | Let M be the Multiplicative Cipher where the encryption rule is given by ex (x) = kx mod 26
+cO-2; and S be the Shift Cipher. Consider the key (5,12) in M x S. Find the corresponding key in| [10]
+BL- 4 S x M that gives the same encryption rule.
+03 b. || Notice that the key stream 1101010110101011 of a LFSR has period seven. Find the degree
+CO-1: of this key stream. Suppose that the first eight bits of the key stream of a LFRS of degree 3 | [10]
+
+BL- 2 is 10100111. Find next four bits of this key stream.
+
+a. | Compute Nz (6, 4) by filling out the following table:
+
+Xi | Xa | Xz [M1] [5 6 4
+
+ofo fo
+0 9 It
+pape
+Q4 bo yaya
+CO-1; rhe 10]
+BL-6 Tpipo
+ijiji |
+
+Compute the bias € (6, 4). The pair (6, 4) can be used to construct linear approximation for
+the given SPN. Is it True or False?
+
+b. | Given the input difference x’ = 101, fill out the following table to find the corresponding
+
+output difference distribution by using x* =x @ x', y*=(x*) andy @y*=y':
+Q4 il Es
+
+E ¥ y* y!
+
+000 110
+CO-1; 001 10t [10]
+BL-2 di0 O07
+
+Oi G00
+
+100 o1L
+
+TOT 010
+
+Tio Tit
+
+Tit 00
+
+‘a. | By looking at the last column of the above table Q. 4A, find the distribution for the
+
+ae corresponding output difference: 10
+CO - 2; [10]
+
+BL-6 y¥_| 000 [00t [010 [Ot | 100 | 101 | Tid | ati
+freq. . °
+
+2/3
+--- page 3 ---
+Find all b such that Np (9, b) is the maximum value. Compute the corresponding Rp (9, b)
+
+Qs b. | Solve 12x-+4= 14 mod 26 and find both the solutions by using the fact that 6(11) = 66 =
+
+10]
+CO-1; [
+Bio). 5(13) +1
+a. | Consider the second $-box for SDES which is given below:
+Q6 S)2;1161314171 0
+CO-1; if4[ej2{o;7{5]3 [10]
+1) Bie Recall that the first bit of the input decides the row and the last three bits decide the column
+of the S-box. If the input is 1011, find the corresponding output given by the above S-box.
+Q6 b.
+CO-1: Find all the inputs for the above S-box for SDES cipher which yield the output 101 [10]
+BL-3 : :
+XY a 12 3
+to-1; : 0 i 0 [10]
+Bre Find the inverse of the following matrix in Z26: foto
+Q7 b. Complete the division algorithm table to find the ged (17, 5). Find the value of x and y such 110]
+a. that 17x + 5y = ged (17, 5). Find the inverse of 5 in mod 17.
+Alphabet Codings
+AIBIC{]D/IE|F/G/H|I[J|/K|[LIM
+Ol; 1}/2/3][4]5][6]7]/8]9]{ 10] 11 | 12
+N/O]}P/Q{R{]S{T]ULV] WI xX] Y | z
+13 | 14 [| 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25
+Inverses in Zy.
+a|{1l{3{ 5] 7 | 11] 174 25
+Cc a i} 1] 9 {21 ] 15 | 19 | 23 | 25
+S-box zs for a simple SPN
+O00 | ODL | O10 | G11 | 100 | 10a | 440 | 214
+110 | 101 | 001 | G00 | O12 | G10 | 117 | 700
+i
+3/3
 ````
 
 ## 2023-24 · Final-Exam · Sem 9 · paper dcd6a3d7211f
@@ -1279,166 +1437,6 @@ a i} 1] 9] 21] 15] 19 | 23 | 25
 3/3
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 26daf7380198
-
-- Departments: Cyber Security
-- Programmes: B TECH / CSE-CYBER SECURITY
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE-CYBER SECURITY/SEM-IV/INTRODUCTION TO CRYPTOGRAPHY/Introduction to Cryptography, Sem-IV, Final & Re Exam Batch 2021-22, 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 82.1
-
-````text
-SVKM’S NMIMS 4
--MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: B. Tech : Year: IT Semester: [V
-
-Stream/s : CSE (Cybersecurity) i.
-
-Subject: Introduction to Cryptography . Time: 3 hrs (10:00 am. To 01:00 pm.)
-Date:_22 /.04 / 2024 No. of Pages: 03
-
-Marks: 100
-
-Final Exaimination/ Re-Examination (2021-22,2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-,
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___ 5 _ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Qi Solve:
-a. | Ciphertext given below is obtained by first encrypting the plaintext by using Auto key cipher
-with the key 9 and then encrypting the result again by the permutation cipher with the key:
-co-1; ; [05]
-BL-2 __ ft y2y3 74s
-"Ts 4[ 13/2
-Decrypt the text: VZBGHEVTSHVZKIY
-lan b. | Suppose that the message "brick" is encrypted as CBKRI by using the permutation cipher
-Cou ‘with a key 2. Write down the key by filling out the missing entries in the permutation z: .
-aly 0.
-BL-2 ; [05]
-1{2|3|4|5
-c. | You found one paragraph ciphertext that was encrypted by using Vigenere cipher. You
-found that the string: BQJTWDAQZALB occurs many times. Suppose you make a guess
-cd s correctly that the repeating above ciphertext is the encryption of the plaintext [05]
-"cryptography". If you know that the keyword is a 7 letters word, find the key word.
-Your answer should be a meaningful word with 7 letters. :
-Coon d. | Following cipher text was encrypted by a Shift Cipher mod 26: WTQP TD L RTQE [05]
-BL-2 Decrypt the message by finding the key. Hint: There is a one letter word.
-
-1/3
---- page 2 ---
-a. | Compute d (55) where
-
-Q2 i)
-: [10]
-
-oo Recall that a modified RSA cryptosystem is defined similarly as regular RSA system except
-
-that a is calculated by requiring ab = 1 mod A(n) instead of ab = 1 mod   (n). Compute a for
-
-the modified RSA cryptosystem with (55, 3) as the public key.
-02 b. | Bob accidentally selected n such that n + 9” is a perfect square, that is, n-+ 9? = s? for some
-CO-2; positive integer s. Find the factors of n. Hint: a’ — b’ = (a + b) (a— b). [10]
-BL-2 Also find factors ofn = 2189284635403183.
-03 a. | Let M be the Multiplicative Cipher where the encryption rule is given by ex (x) = kx mod 26
-cO-2; and S be the Shift Cipher. Consider the key (5,12) in M x S. Find the corresponding key in| [10]
-BL- 4 S x M that gives the same encryption rule.
-03 b. || Notice that the key stream 1101010110101011 of a LFSR has period seven. Find the degree
-CO-1: of this key stream. Suppose that the first eight bits of the key stream of a LFRS of degree 3 | [10]
-
-BL- 2 is 10100111. Find next four bits of this key stream.
-
-a. | Compute Nz (6, 4) by filling out the following table:
-
-Xi | Xa | Xz [M1] [5 6 4
-
-ofo fo
-0 9 It
-pape
-Q4 bo yaya
-CO-1; rhe 10]
-BL-6 Tpipo
-ijiji |
-
-Compute the bias € (6, 4). The pair (6, 4) can be used to construct linear approximation for
-the given SPN. Is it True or False?
-
-b. | Given the input difference x’ = 101, fill out the following table to find the corresponding
-
-output difference distribution by using x* =x @ x', y*=(x*) andy @y*=y':
-Q4 il Es
-
-E ¥ y* y!
-
-000 110
-CO-1; 001 10t [10]
-BL-2 di0 O07
-
-Oi G00
-
-100 o1L
-
-TOT 010
-
-Tio Tit
-
-Tit 00
-
-‘a. | By looking at the last column of the above table Q. 4A, find the distribution for the
-
-ae corresponding output difference: 10
-CO - 2; [10]
-
-BL-6 y¥_| 000 [00t [010 [Ot | 100 | 101 | Tid | ati
-freq. . °
-
-2/3
---- page 3 ---
-Find all b such that Np (9, b) is the maximum value. Compute the corresponding Rp (9, b)
-
-Qs b. | Solve 12x-+4= 14 mod 26 and find both the solutions by using the fact that 6(11) = 66 =
-
-10]
-CO-1; [
-Bio). 5(13) +1
-a. | Consider the second $-box for SDES which is given below:
-Q6 S)2;1161314171 0
-CO-1; if4[ej2{o;7{5]3 [10]
-1) Bie Recall that the first bit of the input decides the row and the last three bits decide the column
-of the S-box. If the input is 1011, find the corresponding output given by the above S-box.
-Q6 b.
-CO-1: Find all the inputs for the above S-box for SDES cipher which yield the output 101 [10]
-BL-3 : :
-XY a 12 3
-to-1; : 0 i 0 [10]
-Bre Find the inverse of the following matrix in Z26: foto
-Q7 b. Complete the division algorithm table to find the ged (17, 5). Find the value of x and y such 110]
-a. that 17x + 5y = ged (17, 5). Find the inverse of 5 in mod 17.
-Alphabet Codings
-AIBIC{]D/IE|F/G/H|I[J|/K|[LIM
-Ol; 1}/2/3][4]5][6]7]/8]9]{ 10] 11 | 12
-N/O]}P/Q{R{]S{T]ULV] WI xX] Y | z
-13 | 14 [| 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25
-Inverses in Zy.
-a|{1l{3{ 5] 7 | 11] 174 25
-Cc a i} 1] 9 {21 ] 15 | 19 | 23 | 25
-S-box zs for a simple SPN
-O00 | ODL | O10 | G11 | 100 | 10a | 440 | 214
-110 | 101 | 001 | G00 | O12 | G10 | 117 | 700
-i
-3/3
-````
-
 ## 2022-23 · Final-Exam · Sem 5 · paper 282bda29bbf4
 
 - Departments: Information Technology
@@ -1541,7 +1539,7 @@ BL-3 Theorem.
 2
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper aa10e5b2d2c4
+## 2022-23 · Final-Exam · Sem 9 · paper aa10e5b2d2c4
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -1930,6 +1928,245 @@ BL- . . . a 1 1 0
 >>
 ````
 
+## 2021-22 · Final-Exam · Sem 4 · paper eab74880c00d
+
+- Departments: Data Science
+- Programmes: B TECH / CSE DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/INTRODUCTION TO CRYPTOGRAPHY/B Tech, CSE Data Science, Introduction to Cryptography, 2nd Year, Sem-IV, Final E_4bf956d1.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
+- Text: ocr (4 pages), mean OCR confidence 87.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+ayt
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ;
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2021-22
+
+Programme: B.Tech CSE Cyber Security Year: IT Semester: IV
+
+Subject: Introduction to Cryptography
+Marks: 100
+
+Date: 14 April 2022 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages:
+
+Final Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.:
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer the following questions [20]
+
+a. | Suppose that a given cryptosystem satisfies H(P) = 5, H(C) = 7, and H(?, C) = 8. By
+using the chain rule of Shannon property: H(X, Y)= A(Y)+ H(X|Y), compute H(P|C)
+and state how much information about the plaintext is revealed on average by
+knowing ciphertext in the cryptosystem.
+
+b. | Solve 10x +8 =24 mod 26.
+
+c. | Recall that a key k is called an involutory key if the encryption function eg is the
+same as the decryption function d. Find the involutary key for the Affine Cipher
+from the foliowing list:
+
+(A) CL 5)
+(B) (3, 5)
+(C) CL, 5)
+(D) 03, 1D)
+(E) G, 5)
+
+Justify your answer.
+
+d. | Suppose that the first seven bits of the key stream of a LFRS of degree 3 is 1101001.
+Find next three bits of this key stream.
+
+e. | Consider a cryptosystem in which the key space contains exactly 3 keys and the keys
+are chosen with equal probability. Find H(K). ;
+
+(ify)
+--- page 2 ---
+Let-M be the Multiplicative Cipher and S be the Shift Cipher. Consider the key (7,12)
+in M x S. Find the corresponding key in S x M that gives the same encryption rule.
+
+|
+
+Given that 247 = 13 x 19, compute g (247).
+
+Compute 10*° mod 15 by using the square and multiply algorithm.
+
+Suppose you receive a 5-letter encrypted message in Greek consisting of 5 different
+letters. You know that the message has been encrypted by a Substitution Cipher. How
+many possible plaintext codes are there that could have produced your ciphertext?
+You may assume that there are 24 Greek alphabets and the plaintext code may not
+be a meaningful word.
+
+Affine Cipher achieves perfect secrecy if p[k] = 1/312 for each key k in the key space.
+Is it true or false? Justify your answer.
+
+Q2
+
+Find an estimate for the unicity distance for Substitution Cipher.
+
+[05]
+
+Let Si and S2 be the standard Permutation and Vigenére ciphers, respectively, with P =
+(Z26)* (so the block length of each is m = 5). Consider the product cipher S; x Sp.
+Consider the key x; in Permutation Cipher given by
+
+12 [34 6
+> B |IR2
+
+and the keycode kz = apple in Vigenére Cipher. Find the decryption
+d(ki,k2) (CHXEIOD) in S; x S2. Write your plaintext with spaces and punctuations.
+
+[07]
+
+If ex (x) = 9x + 17, write the decryption rule in the form dx (y) = cy + d mod 26 where
+0 <<c, d<= 25. If the key is given as above, decrypt: BRTMB
+
+[08]
+
+Q3
+
+Explain Advanced Encryption standard (AES) in detail.
+
+[10]
+
+Alice wants to use RSA algorithm for encryption and decryption. What will be her
+private key if following values are used?
+
+P=13; q=17; public key, e=19, private key, d=?
+
+If the message is 5, what will be the encrypted value?
+
+[10]
+
+Q4
+
+Consider the finite field F = Z2[x)/ (x++x+ 1).
+Compute (x + 1)(x3+x7?+ x) in the field F and represent it in binary bits.
+
+Consider the Substitute nibble zs : {0, 1} — {0, 1}* that is part of the components
+of the Simplified AES, which is given as follows:
+
+The permutation zs incorporates operations in the finite field F .
+
+Identify the binary string a3a2a\a9 of length four with the field element y = a3x3 +
+ax? + aix + ao and let y~! = b3x3 + box? + bix + bo be the inverse of y in F (with 07!
+
+=0). us
+Then, compute
+
+c3 1011 b3 1
+
+c2\_/ 1101 b2 @ 0
+
+cl 1110 b1 0
+
+cO 0111 bo 1
+
+[16]
+--- page 3 ---
+1
+
+Define zs(a3a2@1a0) = ¢3¢2C1C0.
+Using the above description, compute zs (3) in hexadecimal form.
+
+Consider the MixColumn that is part of the components of the Simplified AES,
+which is given as the following matrix multiplication in the field F = Zo[x|(x* + x +
+
+1):
+
+4 lllao Ga dio dy
+
+If co,0 = 6, co,1 = 9, C10 = 1, and ci, = C in hexadecimal notation, find the resulting
+
+matrix after the MixColumn. Write doo, do,1, di,0,di,1 of your matrix in hexadecimal
+notation.
+
+Consider the second S-box for SDES which is given below: [04]
+406 5 7 It B 2
+5 B 0 7 6 2 i 4
+If the input is 0011, find the corresponding output given by the above S-box.
+Find all the inputs for the above S-box for SDES cipher which yield the output 110.
+Q5 Explain vigenere cipher with an example. List the advantages and limitations of the | [10]
+same.
+Consider the following: suppose that X is a random variable on S = {a, b, c, d, e} | [10]
+with ; ;
+probabilities p[a] = 0:35, p[b] = 0:25, p[c] = 0:18, p[d] = 0:12 and p[e] = 0:10. Draw
+Huffman tree by using the proper coding for the branches.
+By using Huffman’s algorithm, find the optimal prefix-free encoding of X and fill in
+the second row of the following table.
+Code ;
+It is known that a key k = (a, b) in the Affine Cipher over Z26 (where gcd(a, 26) = | [06]
+1) is
+a an involutory key if and only if a2=1 mod 26 and b(a + 1) = 0 mod 26. Assuming
+this fact, find all involutory keys in the Affine Cipher over Z26.
+Decrypt the following cipher text by using Vigenere cipher with the key "mrbond": | [04]
+
+ORTWARDFZOYH Write your plaintext that has two words.
+
+Consider the following cipher over P = (Z2)*. We regard x € P as x = x1x2||x3x4.
+- Let zs be the permutation defined as follows
+
+z input (00 {01 {10 {11
+s(z) joutput 01 [11 {10 (00
+
+[10]
+
+C3{4)
+--- page 4 ---
+- Let t be the index permutation given by
+
+1284
+42 i) 6
+That is, c(vivev3va) = vav2viv3. Encryption Rule of this cipher has two rounds. Each
+round is described as follows:
+Given the input x = x1x2||x3x4 and a 4-bit string key K = kika||kska:
+- XOR xix\|x3x4 and kiko||k3ka bitwise. Denote the resulting string by
+yiyallysy4.
+- Then apply zs to each substring yiy2 and y3y4. Let viv2 = ms(viy2) and v3va
+= ms(y3y4).
+- Next apply the index-permutation t to (v1, v2, v3, v4). The resulting 4-bit
+string is the output.
+
+It is given that the plaintext is the hexadecimal digit B = 1011 and there are two
+rounds with the round keys K! = 0101 and K? = 1010. Find the output of the first
+round. Write your answer as hexadecimal digit.
+
+Alphabet Codings
+
+A|B/C[D/JE|F[G[H/I[J[K{[LI[M
+OTT (2/3 /4[5[6[7[8]9 | 10] 11 | 12
+
+N7TO|]P/Q,/R{IS{[T[U[V{[W[ xX] Y{Z
+13| 147 15] 16] 17] 18] 19 | 20] 21 | 22 | 23 | 24] 25
+
+Inverses in Z26
+
+a {1[3[ 5] 7] 1117] 25
+a! [1{9{ 21 {| 15 | 19 | 23 | 25
+
+Cafu)
+````
+
 ## 2021-22 · Re-Exam · Sem 4 · paper 3bda1127968f
 
 - Departments: Cyber Security
@@ -2146,244 +2383,4 @@ Inverses in Z2¢6
 
 a |{1]3] 5] 77] 11717725
 a! | 1] 9] 21] 15) 19} 23] 25
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper eab74880c00d
-
-- Departments: Data Science
-- Programmes: B TECH / CSE DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/INTRODUCTION TO CRYPTOGRAPHY/B Tech, CSE Data Science, Introduction to Cryptography, 2nd Year, Sem-IV, Final E_4bf956d1.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
-- Text: ocr (4 pages), mean OCR confidence 87.3
-
-````text
-ayt
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ;
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2021-22
-
-Programme: B.Tech CSE Cyber Security Year: IT Semester: IV
-
-Subject: Introduction to Cryptography
-Marks: 100
-
-Date: 14 April 2022 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages:
-
-Final Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.:
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-Answer the following questions [20]
-
-a. | Suppose that a given cryptosystem satisfies H(P) = 5, H(C) = 7, and H(?, C) = 8. By
-using the chain rule of Shannon property: H(X, Y)= A(Y)+ H(X|Y), compute H(P|C)
-and state how much information about the plaintext is revealed on average by
-knowing ciphertext in the cryptosystem.
-
-b. | Solve 10x +8 =24 mod 26.
-
-c. | Recall that a key k is called an involutory key if the encryption function eg is the
-same as the decryption function d. Find the involutary key for the Affine Cipher
-from the foliowing list:
-
-(A) CL 5)
-(B) (3, 5)
-(C) CL, 5)
-(D) 03, 1D)
-(E) G, 5)
-
-Justify your answer.
-
-d. | Suppose that the first seven bits of the key stream of a LFRS of degree 3 is 1101001.
-Find next three bits of this key stream.
-
-e. | Consider a cryptosystem in which the key space contains exactly 3 keys and the keys
-are chosen with equal probability. Find H(K). ;
-
-(ify)
---- page 2 ---
-Let-M be the Multiplicative Cipher and S be the Shift Cipher. Consider the key (7,12)
-in M x S. Find the corresponding key in S x M that gives the same encryption rule.
-
-|
-
-Given that 247 = 13 x 19, compute g (247).
-
-Compute 10*° mod 15 by using the square and multiply algorithm.
-
-Suppose you receive a 5-letter encrypted message in Greek consisting of 5 different
-letters. You know that the message has been encrypted by a Substitution Cipher. How
-many possible plaintext codes are there that could have produced your ciphertext?
-You may assume that there are 24 Greek alphabets and the plaintext code may not
-be a meaningful word.
-
-Affine Cipher achieves perfect secrecy if p[k] = 1/312 for each key k in the key space.
-Is it true or false? Justify your answer.
-
-Q2
-
-Find an estimate for the unicity distance for Substitution Cipher.
-
-[05]
-
-Let Si and S2 be the standard Permutation and Vigenére ciphers, respectively, with P =
-(Z26)* (so the block length of each is m = 5). Consider the product cipher S; x Sp.
-Consider the key x; in Permutation Cipher given by
-
-12 [34 6
-> B |IR2
-
-and the keycode kz = apple in Vigenére Cipher. Find the decryption
-d(ki,k2) (CHXEIOD) in S; x S2. Write your plaintext with spaces and punctuations.
-
-[07]
-
-If ex (x) = 9x + 17, write the decryption rule in the form dx (y) = cy + d mod 26 where
-0 <<c, d<= 25. If the key is given as above, decrypt: BRTMB
-
-[08]
-
-Q3
-
-Explain Advanced Encryption standard (AES) in detail.
-
-[10]
-
-Alice wants to use RSA algorithm for encryption and decryption. What will be her
-private key if following values are used?
-
-P=13; q=17; public key, e=19, private key, d=?
-
-If the message is 5, what will be the encrypted value?
-
-[10]
-
-Q4
-
-Consider the finite field F = Z2[x)/ (x++x+ 1).
-Compute (x + 1)(x3+x7?+ x) in the field F and represent it in binary bits.
-
-Consider the Substitute nibble zs : {0, 1} — {0, 1}* that is part of the components
-of the Simplified AES, which is given as follows:
-
-The permutation zs incorporates operations in the finite field F .
-
-Identify the binary string a3a2a\a9 of length four with the field element y = a3x3 +
-ax? + aix + ao and let y~! = b3x3 + box? + bix + bo be the inverse of y in F (with 07!
-
-=0). us
-Then, compute
-
-c3 1011 b3 1
-
-c2\_/ 1101 b2 @ 0
-
-cl 1110 b1 0
-
-cO 0111 bo 1
-
-[16]
---- page 3 ---
-1
-
-Define zs(a3a2@1a0) = ¢3¢2C1C0.
-Using the above description, compute zs (3) in hexadecimal form.
-
-Consider the MixColumn that is part of the components of the Simplified AES,
-which is given as the following matrix multiplication in the field F = Zo[x|(x* + x +
-
-1):
-
-h q [2° tl = ie ce
-4 lllao Ga dio dy
-
-If co,0 = 6, co,1 = 9, C10 = 1, and ci, = C in hexadecimal notation, find the resulting
-
-matrix after the MixColumn. Write doo, do,1, di,0,di,1 of your matrix in hexadecimal
-notation.
-
-Consider the second S-box for SDES which is given below: [04]
-406 5 7 It B 2
-5 B 0 7 6 2 i 4
-If the input is 0011, find the corresponding output given by the above S-box.
-Find all the inputs for the above S-box for SDES cipher which yield the output 110.
-Q5 Explain vigenere cipher with an example. List the advantages and limitations of the | [10]
-same.
-Consider the following: suppose that X is a random variable on S = {a, b, c, d, e} | [10]
-with ; ;
-probabilities p[a] = 0:35, p[b] = 0:25, p[c] = 0:18, p[d] = 0:12 and p[e] = 0:10. Draw
-Huffman tree by using the proper coding for the branches.
-By using Huffman’s algorithm, find the optimal prefix-free encoding of X and fill in
-the second row of the following table.
-x a b c d e
-Code ;
-It is known that a key k = (a, b) in the Affine Cipher over Z26 (where gcd(a, 26) = | [06]
-1) is
-a an involutory key if and only if a2=1 mod 26 and b(a + 1) = 0 mod 26. Assuming
-this fact, find all involutory keys in the Affine Cipher over Z26.
-Decrypt the following cipher text by using Vigenere cipher with the key "mrbond": | [04]
-
-ORTWARDFZOYH Write your plaintext that has two words.
-
-Consider the following cipher over P = (Z2)*. We regard x € P as x = x1x2||x3x4.
-- Let zs be the permutation defined as follows
-
-z input (00 {01 {10 {11
-s(z) joutput 01 [11 {10 (00
-
-[10]
-
-C3{4)
---- page 4 ---
-- Let t be the index permutation given by
-
-1284
-42 i) 6
-That is, c(vivev3va) = vav2viv3. Encryption Rule of this cipher has two rounds. Each
-round is described as follows:
-Given the input x = x1x2||x3x4 and a 4-bit string key K = kika||kska:
-- XOR xix\|x3x4 and kiko||k3ka bitwise. Denote the resulting string by
-yiyallysy4.
-- Then apply zs to each substring yiy2 and y3y4. Let viv2 = ms(viy2) and v3va
-= ms(y3y4).
-- Next apply the index-permutation t to (v1, v2, v3, v4). The resulting 4-bit
-string is the output.
-
-It is given that the plaintext is the hexadecimal digit B = 1011 and there are two
-rounds with the round keys K! = 0101 and K? = 1010. Find the output of the first
-round. Write your answer as hexadecimal digit.
-
-Alphabet Codings
-
-A|B/C[D/JE|F[G[H/I[J[K{[LI[M
-OTT (2/3 /4[5[6[7[8]9 | 10] 11 | 12
-
-N7TO|]P/Q,/R{IS{[T[U[V{[W[ xX] Y{Z
-13| 147 15] 16] 17] 18] 19 | 20] 21 | 22 | 23 | 24] 25
-
-Inverses in Z26
-
-a {1[3[ 5] 7] 1117] 25
-a! [1{9{ 21 {| 15 | 19 | 23 | 25
-
-Cafu)
 ````

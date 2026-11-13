@@ -1,8 +1,137 @@
 # Physics IV: question papers in full
 
-16 unique papers · 2022-23 to 2024-25 · Data Science, Computer Engineering, Information Technology, Common (all branches), Mechanical
+16 unique papers · 2022-23 to 2025-26 · Data Science, Computer Engineering, Information Technology, Common (all branches), Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 4 · paper c17a5b81d8b4
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Sem_04/Physics -IV/Physics -IV Batch 2022-23,2023-24,2024-25 Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 08 July 2026
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Academic Year: 2025-26
+
+Program: B Tech Intg (IT/COMP/MECH/DS) UL
+Year: a Den BUTI
+Subject: Physics-IV <7 ,
+
+Time: 2.00 pm to 5.00 roi es) 1
+
+Date : 08 July 2026
+
+No. of Pages: O2
+Marks: 100
+
+Re-Exam (2022-23/2023-24/2024-25)
+
+Instructions:
+
+1. This question paper contains 2 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question No. | is compulsory.
+
+5. Out of remaining questions, attempt any 4 questions.
+
+6. In all 5 questions to be attempted.
+
+7. All questions carry equal marks.
+
+8. Assume Suitable data if necessary. [Given: Planck’s constant h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s,
+Speed of light, c = 3 x 108 m/s, electronic mass, me = 9.1 x 10-31 kg, electronic charge, e = 1.6 x 10-19
+C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K]
+
+Ql Answer briefly: : [20]
+CO-1; | a. | Using Wein’s displacement law, estimate the temperature of a body. Given: Am = [4]
+BL- 1,2 5000 A and Wein’s constant = 0.292 cm. K.
+aa Hl B What is meant by normalization and expectation value of a wave function? [4]
+a ‘ °- | State Reflection coefficient and Transmission coefficient. Write formula for both. [4]
+CO-2; | d. ae : .
+BL-1.2 Illustrate and explain microcanonical and grandcanonical ensembles. [4]
+CO-3; |e. ae
+BL+1.2 Define system, surrounding, isolated system, closed system. [4]
+Q2 | 20]
+CO-1; | a. | Explain the process of obtaining the time-independent Schrédinger equations, also [10]
+BL-1,2 explain the two properties of Schrodinger equation.
+CO-1; | b. | Light with a wavelength of 600 nm is incident on a metal, which has a work function [6]
+BL-4 of 2.28 eV. Determine the maximum kinetic energy of the ejected photoelectron. .
+CO-1; | c. | Apply the momentum operator on the wave function e2x to check whether it is an [4]
+BL-3,4 eigen function and if so, identify the corresponding eigenvalue?
+Q3 [20]
+CO-1; | a.. | State Heisenberg Uncertainity Principle and show that the electron cannot stay inside
+
+[10]
+BL-1,2 the nucleus.
+CO-1; | b. | Arvelectron is trapped in an infinite potential well of length 0.5 A. In the ground state, [6]
+BL-4 calculate the probability of finding the electron in the region x = 0 to 0.5 A.
+a ; 4 °- | List in detail the four fundamental postulates of quantum mechanics. [4]
+Q4 . [20]
+CO-1; | a. . . . . .
+BL-1.2 Prove that the energy of Simple Harmonic Oscillator is quantized. . [10]
+
+Pi
+
+FRR RR 7 RR RR
+--- page 2 ---
+A stream of electrons, each of energy E = 5 eV, is incident on a potential barrier. of
+
+a height V = 7 eV. The width of the barrier is 5 A. Calculate the percentage transmission | [6]
+of the beam through this barrier. e
+
+Sra ’ 4 Highlight two major limitations of Maxwell-Boltzmann statistics. [4]
+
+Q5 [20]
+
+CO-2; State the four basic postulates of Maxwell-Boltzmann and Fermi-Dirac statistics. [10]
+
+BL-1,2 Write the distribution equations of Bose-Einstein Statistics.
+
+CO-2; Two particles are to be distributed in three cells under MB, FD, and BE statistics. [6]
+
+BL-4 Determine the total number of possible arrangements for each case.
+
+CO-1; Describe the working of a Scanning Tunneling Microscope (STM) and illustrate its [4]
+
+BL-3,4 operation with a labeled diagram.
+
+Q6 [20]
+
+CO-3; State second law of thermodynamics and Explain Carnot’s cycle with appropriate [10]
+
+BL-1,2 diagram.
+
+CO-3: A steam engine delivers 4 x 10° J of work per minute and services 3 x 10° J of heat
+
+BL- 4 per minute from its boiler. What is the efficiency of the engine? How much heat is | [6]
+wasted per minute?
+
+ay 4 State and explain de Broglie hypothesis? : [4]
+
+Q7 [20]
+
+CO-2; Describe black body radiation and interpret the derivation of Planck’s radiation [10]
+
+BL-1,2 formula with respect to frequency.
+
+CO-1; X-ray photon of wavelength 0.6 A is scattered through an angle 30° by a loosely bound [6]
+
+BL-4 electron. Analyse the wavelength of scattered photon.
+
+CO-3; A refrigerator transfers heat from a cold body to a hot body. Does this not violate the [4]
+
+BL-3,4 second law of thermodynamics? :
+
+FOR 2 RRR RE
+````
 
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper bd340cb448fc
 
@@ -634,135 +763,6 @@ thermodynamics with suitable examples.
 ********** 2 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 4 · paper c17a5b81d8b4
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Sem_04/Physics -IV/Physics -IV Batch 2022-23,2023-24,2024-25 Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 08 July 2026
-- Text: ocr (2 pages), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Academic Year: 2025-26
-
-Program: B Tech Intg (IT/COMP/MECH/DS) UL
-Year: a Den BUTI
-Subject: Physics-IV <7 ,
-
-Time: 2.00 pm to 5.00 roi es) 1
-
-Date : 08 July 2026
-
-No. of Pages: O2
-Marks: 100
-
-Re-Exam (2022-23/2023-24/2024-25)
-
-Instructions:
-
-1. This question paper contains 2 pages.
-
-2. Answer to each new question to be started on a fresh page.
-
-3. Figure in right hand side indicates full marks
-
-4. Question No. | is compulsory.
-
-5. Out of remaining questions, attempt any 4 questions.
-
-6. In all 5 questions to be attempted.
-
-7. All questions carry equal marks.
-
-8. Assume Suitable data if necessary. [Given: Planck’s constant h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s,
-Speed of light, c = 3 x 108 m/s, electronic mass, me = 9.1 x 10-31 kg, electronic charge, e = 1.6 x 10-19
-C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K]
-
-Ql Answer briefly: : [20]
-CO-1; | a. | Using Wein’s displacement law, estimate the temperature of a body. Given: Am = [4]
-BL- 1,2 5000 A and Wein’s constant = 0.292 cm. K.
-aa Hl B What is meant by normalization and expectation value of a wave function? [4]
-a ‘ °- | State Reflection coefficient and Transmission coefficient. Write formula for both. [4]
-CO-2; | d. ae : .
-BL-1.2 Illustrate and explain microcanonical and grandcanonical ensembles. [4]
-CO-3; |e. ae
-BL+1.2 Define system, surrounding, isolated system, closed system. [4]
-Q2 | 20]
-CO-1; | a. | Explain the process of obtaining the time-independent Schrédinger equations, also [10]
-BL-1,2 explain the two properties of Schrodinger equation.
-CO-1; | b. | Light with a wavelength of 600 nm is incident on a metal, which has a work function [6]
-BL-4 of 2.28 eV. Determine the maximum kinetic energy of the ejected photoelectron. .
-CO-1; | c. | Apply the momentum operator on the wave function e2x to check whether it is an [4]
-BL-3,4 eigen function and if so, identify the corresponding eigenvalue?
-Q3 [20]
-CO-1; | a.. | State Heisenberg Uncertainity Principle and show that the electron cannot stay inside
-
-[10]
-BL-1,2 the nucleus.
-CO-1; | b. | Arvelectron is trapped in an infinite potential well of length 0.5 A. In the ground state, [6]
-BL-4 calculate the probability of finding the electron in the region x = 0 to 0.5 A.
-a ; 4 °- | List in detail the four fundamental postulates of quantum mechanics. [4]
-Q4 . [20]
-CO-1; | a. . . . . .
-BL-1.2 Prove that the energy of Simple Harmonic Oscillator is quantized. . [10]
-
-Pi
-
-FRR RR 7 RR RR
---- page 2 ---
-A stream of electrons, each of energy E = 5 eV, is incident on a potential barrier. of
-
-a height V = 7 eV. The width of the barrier is 5 A. Calculate the percentage transmission | [6]
-of the beam through this barrier. e
-
-Sra ’ 4 Highlight two major limitations of Maxwell-Boltzmann statistics. [4]
-
-Q5 [20]
-
-CO-2; State the four basic postulates of Maxwell-Boltzmann and Fermi-Dirac statistics. [10]
-
-BL-1,2 Write the distribution equations of Bose-Einstein Statistics.
-
-CO-2; Two particles are to be distributed in three cells under MB, FD, and BE statistics. [6]
-
-BL-4 Determine the total number of possible arrangements for each case.
-
-CO-1; Describe the working of a Scanning Tunneling Microscope (STM) and illustrate its [4]
-
-BL-3,4 operation with a labeled diagram.
-
-Q6 [20]
-
-CO-3; State second law of thermodynamics and Explain Carnot’s cycle with appropriate [10]
-
-BL-1,2 diagram.
-
-CO-3: A steam engine delivers 4 x 10° J of work per minute and services 3 x 10° J of heat
-
-BL- 4 per minute from its boiler. What is the efficiency of the engine? How much heat is | [6]
-wasted per minute?
-
-ay 4 State and explain de Broglie hypothesis? : [4]
-
-Q7 [20]
-
-CO-2; Describe black body radiation and interpret the derivation of Planck’s radiation [10]
-
-BL-1,2 formula with respect to frequency.
-
-CO-1; X-ray photon of wavelength 0.6 A is scattered through an angle 30° by a loosely bound [6]
-
-BL-4 electron. Analyse the wavelength of scattered photon.
-
-CO-3; A refrigerator transfers heat from a cold body to a hot body. Does this not violate the [4]
-
-BL-3,4 second law of thermodynamics? :
-
-FOR 2 RRR RE
-````
-
 ## 2023-24 · Final + Re-Exam · Sem 4 · paper 0fbe9992ea59
 
 - Departments: Computer Engineering, Data Science, Information Technology, Mechanical
@@ -884,6 +884,111 @@ CO-3: BL-3.4 Ci, Construct the concept of temperature from the zeroth law of
 , , thermodynamics.
 
 [4]
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper ea4ec1767d6a
+
+- Departments: Data Science, Information Technology
+- Programmes: B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / IT
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/DATA SCIENCE/Sem_04/Physics IV/PHYSICS IV Batch 2022-23 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26 / 06// 2024
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Program/s: B Tech (Integrated) ; Year: 2024Ar Semester: IV
+Stream/s : Computer/ IT/ DS/ALL
+
+Subject: Physics IV - Time: 3 hrs (10 AM to 1 PM)
+Date: 26 / 06// 2024 No. of Pages: 2
+
+Marks: 100
+
+Re Examination (Re Exam 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. .
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+[Given: Planck’s constant h = 6.625 x 1074 J-s = 4.14 x 10°) eV-s, Speed of light, ¢ = 3 x 10% m/s, electronic
+mass, me = 9.1 x 10°! kg, electronic charge, e = 1.6 x 107? C, Boltzmann’s constant, kg = 1.38 x 10°77 J/K]
+
+Ql Answer briefly: [20]
+CO-1: BL- 1,2 a. State Stefan-Boltzmann law of blackbody radiation with proper [4]
+mathematical expression.
+CO-1 ; BL-1,2 b. What is the significance of a quantum mechanical wave function? [4]
+CO-1; BL-1,2 c. Explain the pheHOMIeran of quantum cially: State the various factors [4]
+which determines the tunneling probability.
+d. When a fair coin is tossed there is an equal chance of getting either heads or
+CO- 2; BL-1,2 tails. When three fair coins are tossed, calculate the probability that all of | [4]
+them will show heads.
+CO- 3; BL-1,2 e. What is the second law of thermodynamics? [4]
+Q2 [20]
+CO-1: BL-1.2 a. What is photoelectric effect? Summarize the failures of classical [10] =
+electromagnetic theory in explaining the photoelectric effect.
+b. An enclosure, filled with He, is heated to 400 K. A beam of He atom emerges
+CO-1; BL-4 out of the enclosure. Calculate the de Broglie wavelength corresponding to [6]
+He atoms. Mass of He atom is 6.7 x 10°” kg.
+CO-1; BL-3,4 Cc. What is meant by “normalization” of a wave function? [4]
+--- page 2 ---
+Q3
+
+we [20]
+CO-1: BL-1.2 a. Show that the energy level of a quantum particle in an infinite potential well [10]
+; ; is quantized.
+b. An electron is trapped in a 1D region of length 10” m. How much energy
+CO-1; BL-4 must be supplied to excite the electron from the ground state to the second | [6]
+excited state?
+CO-1; BL-3,4 G What is de Broglie hypothesis? [4]
+Q4 [20]
+CO-1; BL-1,2 a. Write a short note on Scanning Tunneling Microscope (STM). [10]
+b. Calculate the probability of transmission of an electron with an energy of 2
+CO-1; BL-4 eV incident upon a rectangular potential energy barrier of height 5eV and . | [6]
+width 0.4 nm.
+CO-2; BL-3,4 c. Explain phase space and phase point in relation with statistical physics. [4]
+Q5 [20]
+CO-2: BL-1.2 a. What is an ensemble? Discuss different types of ensemble in statistical [10]
+; physics.
+b. A system has non-degenerate single-particle states with 0, /,2,3 energy units.
+CO-2: BL-4 Three particles are to be distributed in these states such that the total energy | 16}
+; of the system is 3 units. Find the number of microstates if the particles obey
+BE and FD statistics. -
+CO-1: BL-3.4 & Briefly explain the decay of a - particles by applying quantum mechanical 4]
+; ; tunneling.
+Q6 [20]
+a. Define isolated system, closed system, open system, adiabatic process and
+CO-3; BL-1,2 ; . [10]
+thermal equilibrium in relation with thermodynamics.
+b. 2 kg of a gas is squeezed ina piston-cylinder arrangement from /4 m? to 9
+CO-3: BL-4 m’. During this operation the pressure is kept constant as 2000 Nm”. If the [6]
+; internal energy of the system is decreased by 6000 J, calculate how much
+energy was transferred as heat to and from the gas in this process.
+c. State and explain Heisenberg’s uncertainty principle regarding the position
+CO-1; BL-3,4 P . pees panes [4]
+and momentum of a particle.
+Q7 [20]
+CO-2; BL-1,2 a. Differentiate between MB, BE and FD statistics. [10]
+CO-1: BL-4 b. An electron is confined in a box of length / 4. Calculate the minimum [6]
+; uncertainty in its velocity.
+CO-3: BL-3.4 c. Construct the concept of temperature from the zeroth law of [4]
+, , thermodynamics.
 ````
 
 ## 2022-23 · Final-Exam · Sem 4 · paper ba56c281d6d8
@@ -1158,109 +1263,4 @@ fair dices are rolled, calculate the probability that all two dices will show on
 
 CO-3; c. State: (i) Second law of thermodynamics (ii) Open system (iii) Closed system and (iv) Isolated [4]
 BL-1 system.
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper ea4ec1767d6a
-
-- Departments: Data Science, Information Technology
-- Programmes: B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / IT
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/DATA SCIENCE/Sem_04/Physics IV/PHYSICS IV Batch 2022-23 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26 / 06// 2024
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Program/s: B Tech (Integrated) ; Year: 2024Ar Semester: IV
-Stream/s : Computer/ IT/ DS/ALL
-
-Subject: Physics IV - Time: 3 hrs (10 AM to 1 PM)
-Date: 26 / 06// 2024 No. of Pages: 2
-
-Marks: 100
-
-Re Examination (Re Exam 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. .
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-[Given: Planck’s constant h = 6.625 x 1074 J-s = 4.14 x 10°) eV-s, Speed of light, ¢ = 3 x 10% m/s, electronic
-mass, me = 9.1 x 10°! kg, electronic charge, e = 1.6 x 107? C, Boltzmann’s constant, kg = 1.38 x 10°77 J/K]
-
-Ql Answer briefly: [20]
-CO-1: BL- 1,2 a. State Stefan-Boltzmann law of blackbody radiation with proper [4]
-mathematical expression.
-CO-1 ; BL-1,2 b. What is the significance of a quantum mechanical wave function? [4]
-CO-1; BL-1,2 c. Explain the pheHOMIeran of quantum cially: State the various factors [4]
-which determines the tunneling probability.
-d. When a fair coin is tossed there is an equal chance of getting either heads or
-CO- 2; BL-1,2 tails. When three fair coins are tossed, calculate the probability that all of | [4]
-them will show heads.
-CO- 3; BL-1,2 e. What is the second law of thermodynamics? [4]
-Q2 [20]
-CO-1: BL-1.2 a. What is photoelectric effect? Summarize the failures of classical [10] =
-electromagnetic theory in explaining the photoelectric effect.
-b. An enclosure, filled with He, is heated to 400 K. A beam of He atom emerges
-CO-1; BL-4 out of the enclosure. Calculate the de Broglie wavelength corresponding to [6]
-He atoms. Mass of He atom is 6.7 x 10°” kg.
-CO-1; BL-3,4 Cc. What is meant by “normalization” of a wave function? [4]
---- page 2 ---
-Q3
-
-we [20]
-CO-1: BL-1.2 a. Show that the energy level of a quantum particle in an infinite potential well [10]
-; ; is quantized.
-b. An electron is trapped in a 1D region of length 10” m. How much energy
-CO-1; BL-4 must be supplied to excite the electron from the ground state to the second | [6]
-excited state?
-CO-1; BL-3,4 G What is de Broglie hypothesis? [4]
-Q4 [20]
-CO-1; BL-1,2 a. Write a short note on Scanning Tunneling Microscope (STM). [10]
-b. Calculate the probability of transmission of an electron with an energy of 2
-CO-1; BL-4 eV incident upon a rectangular potential energy barrier of height 5eV and . | [6]
-width 0.4 nm.
-CO-2; BL-3,4 c. Explain phase space and phase point in relation with statistical physics. [4]
-Q5 [20]
-CO-2: BL-1.2 a. What is an ensemble? Discuss different types of ensemble in statistical [10]
-; physics.
-b. A system has non-degenerate single-particle states with 0, /,2,3 energy units.
-CO-2: BL-4 Three particles are to be distributed in these states such that the total energy | 16}
-; of the system is 3 units. Find the number of microstates if the particles obey
-BE and FD statistics. -
-CO-1: BL-3.4 & Briefly explain the decay of a - particles by applying quantum mechanical 4]
-; ; tunneling.
-Q6 [20]
-a. Define isolated system, closed system, open system, adiabatic process and
-CO-3; BL-1,2 ; . [10]
-thermal equilibrium in relation with thermodynamics.
-b. 2 kg of a gas is squeezed ina piston-cylinder arrangement from /4 m? to 9
-CO-3: BL-4 m’. During this operation the pressure is kept constant as 2000 Nm”. If the [6]
-; internal energy of the system is decreased by 6000 J, calculate how much
-energy was transferred as heat to and from the gas in this process.
-c. State and explain Heisenberg’s uncertainty principle regarding the position
-CO-1; BL-3,4 P . pees panes [4]
-and momentum of a particle.
-Q7 [20]
-CO-2; BL-1,2 a. Differentiate between MB, BE and FD statistics. [10]
-CO-1: BL-4 b. An electron is confined in a box of length / 4. Calculate the minimum [6]
-; uncertainty in its velocity.
-CO-3: BL-3.4 c. Construct the concept of temperature from the zeroth law of [4]
-, , thermodynamics.
 ````

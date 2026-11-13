@@ -205,6 +205,7 @@ Sensitivity: LNT Construction Internal Use
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM II/Distributed Data Processing/Distributed Data Processing Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
 - Text: ocr (2 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -326,7 +327,6 @@ e Filter high-quality wine (quality > 7)
 
 2
 
-FR FOR OR Ok ok OR
 
 Sensitivity: LNT Construction Internal Use
 ````

@@ -14,14 +14,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Introduction to Data Communication and Networks(701IT0C004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper |  | B.TECH INTEGRATED / IT | Introduction to Data Communication and Networks 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | Integrated IT 7037 | QP_Introduction to Data Communication and Networks(701IT0C004)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Introduction to Data Communication and Networks(701IT0C004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Introduction to Data Communication and Networks(701IT0C004)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | Integrated IT 7037 | QP_Introduction to Data Communication and Networks(701IT0C004)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Introduction to Data Communication and Networks(701IT0C004)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Introduction to Data Communication and Networks(701IT0C004)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper |  | B.TECH INTEGRATED / IT | Introduction to Data Communication and Networks Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | Integrated IT 7037 | QP_Introduction to Data Communication and Networks(701IT0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Introduction to Data Communication and Networks(701IT0C004)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper |  | B.TECH INTEGRATED / IT | Intorduction to Data Communication and Networks Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper |  | B.TECH INTEGRATED / IT | Introduction to Data Communication and Networks Batch 2023-24 Re Exam.pdf |
 

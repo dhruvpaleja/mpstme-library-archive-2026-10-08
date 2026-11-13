@@ -6451,6 +6451,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_Computer_7047/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (12 pages), mean OCR confidence 71.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6593,7 +6594,6 @@ BL-1 re ai
 
 —— Ek . 20
 
-ChilicSuca,   Moma® * tae IP Seay
 —— ————— _ 2 Mark.
 (Ne/ne drow, >} eae
 iE a. ]

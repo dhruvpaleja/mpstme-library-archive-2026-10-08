@@ -16,17 +16,17 @@ Also filed as: `Ethic Hacking`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7, Sem 11 | BTech Computer 7002, BTech CSE DS 7011, Integrated Computer 7032, MBATech Computer 7047 | ANS_Ethical Hacking(702IT0E028)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7, Sem 11 | B TECH / COMPUTER, B TECH / CSE DATA SCIENCE (311), B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER | Ethical Hacking 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7, Sem 11 | BTech Computer 7002, BTech CSE DS 7011, Integrated Computer 7032, MBATech Computer 7047 | QP_Ethical Hacking(702IT0E028)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Ethical Hacking(702IT0E028)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Ethical Hacking(702IT0E028)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7, Sem 11 | BTech Computer 7002, BTech CSE DS 7011, Integrated Computer 7032, MBATech Computer 7047 | ANS_Ethical Hacking(702IT0E028)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech Computer 7002 | QP_Ethical Hacking(702IT0E028)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech Computer 7047 | QP_Ethical Hacking(702IT0E028)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 12 | BTech (ELECTRONICS & TELECOMMUNICATION | ANS_Ethical Hacking(702IT0E028)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Ethical Hacking(702IT0E028)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Ethical Hacking(702IT0E028)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / COMPUTER, B TECH / CSE DATA SCIENCE (311), MBA TECH / COMPUTER | Ethical Hacking, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / EXTC | Ethical Hacking Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | BTech (ELECTRONICS & TELECOMMUNICATION | QP_Ethical Hacking(702IT0E028)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 12 | BTech (ELECTRONICS & TELECOMMUNICATION | ANS_Ethical Hacking(702IT0E028)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / COMPUTER, MBA TECH / COMPUTER | Ethical Hacking, Sem-VII, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / COMPUTER, B TECH / IT, MBA TECH / COMPUTER, MBA TECH / I T | Ethical Hacking , Final 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 7 | B TECH / COMPUTER, B TECH / IT, MBA TECH / COMPUTER, MBA TECH / I T | Ethical Hacking , Re-exam 2023-24.pdf |

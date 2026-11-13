@@ -2,7 +2,7 @@
 
 Answer keys and model answers published on the portal, newest first.
 
-## 2024-25 · Re-Exam · Sem 7 · Answer key · paper c8a561b82b8f
+## 2025-26 · Re-Exam · Sem 7 · Answer key · paper c8a561b82b8f
 
 - Departments: Data Science
 - Programmes: BTech DS 7009, MBATech DS 7052

@@ -631,178 +631,6 @@ c) Superheated steam at 250°C
 CO1,SO1,BL3 The work applied to a closed system is 160 kJ. The initial volume is 800 | [10]
 ````
 
-## 2022-23 · Exam not stated · Sem 4 · paper e121879236fa
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/BASIC THERMODYNAMICS/Basic Thermodynamics Batch 2022-230001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2022
-- Text: ocr (3 pages), mean OCR confidence 89.5
-
-````text
-Ji SSMTUTE OF
-Oe are
-
-; SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT é&
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE
-
-Academic Year: 2021-22
-
-Programme: B.Tech Integrated (Mechanical) Year: II Semester: IV
-a
-Subject: Basic Thermodynamics L
-. . Marks: 100
-Date: 08 June 2022 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (Hrs) e
-No. of Pages: 3
-Re-Examination (2021-22)
-
-i
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-8) Use of Steam table, Mollier diagram allowed
-
-Ql .
-Answer briefly: [20]
-os 780-1; | a, Explain with help of example open thermodynamic system 04
-CO-2 ; SO-1, . 5 ink ;
-, 7b. | What is PMM 1? Why is it impossible? 04
-BL-2 :
-Gi State and explain briefly Kelvin-Planck statement of second law of
-CO-2 ; $O-1; ’ 04
-BL-2 thermodynamics?
-ne 180-4, | d. Explain use of T-s plot. 04
-e Explain following terms associated with pure substance:
-CO- 3; SO-1; 04
-BL-2 1. Latent heat of fusion, 2. Latent heat of vaporization
-a At the inlet to a certain nozzle the enthalpy of fluid passing is 2800 kJ/kg,
-@ and the velocity is 50 m/s. At the discharge end the enthalpy is 2600 kJ/kg.
-60-2: $0.1; The nozzle is horizontal and there is negligible heat loss from it. 08
-BL-3 (i) Using SFEE (steady flow energy equation) find the velocity at exit of
-the nozzle.
-
-1/3
---- page 2 ---
-(ii) If the inlet area is 900 cm2 and the specific volume at inlet is 0.187
-
-m?/kg, find the mass flow rate.
-
-Explain following terms associated with pressure:
-1. Atmospheric Pressure
-2. Gauge Pressure
-
-3. Absolute Pressure
-
-A platinum resistance thermometer has resistance of 2.8 ohm at 0°C and
-
-3.8 ohm at 100°C. Calculate the resistance when temperature is 300°C.
-Take relation R = Ro ( 1+a T)
-
-Where Ro is resistance at 0°C and a is constant and T is temperature in
-
-To a closed system 150 kJ of work is supplied. If the initial volume is
-0.6 m? and pressure of the system changes as p = 8 — 4V, where p is in bar
-and V is in m3,calculate the final volume and pressure of the system.
-
-a
-
-Explain first law of thermod
-
-ynamics for a closed system undergoing a
-cycle.
-
-A fluid system, contained ina
-a complete cyclé of four proce
-acycle is —340 kJ. The syste!
-the following table showing
-
-piston and cylinder machine, passes through
-sses. The sum of all heat transferred during
-m completes 200 cycles per min. Complete
-the method of calculation for each item.
-
-W (kJ/min) AE (kJ/min)
-
-4340, fn
-
-servoirs at 1000 K and 350K is
-used to drive the heat pump which extracts heat from reservoir at 350K.
-The heat extracted by heat pump is twice the heat rejected by heat engine.
-If the efficiency of heat engine is 40% of maximum possible efficiency
-
-and heat pump is reversible. Calculate the temperature of reservoir in
-
-A heat engine operating between two re.
-
-Q4
-
-CO-2; SO-1,7;
-BL-3
-
-which heat pump rejects heat and also calculate the amount of heat
-rejected by heat pump. Assume all work produced by heat engine is used
-
-by heat pump. Take the heat supplied to the heat engine from 1000K
-reservoir is 50 kJ.
-
-2/3
---- page 3 ---
-Explain following:
-
-Q4 1. Critical point 08
-CO-3; SO-1; . :
-_ 2. Triple point
-3. Dryness fraction
-
-Qs A rigid vessel of volume 0.86 m? contains 1 kg of steam at a pressure of 2
-€0-3; $0-1; bar. Calculate the specific volume, dryness fraction, enthalpy, and entropy 06
-Bs of steam.
-
-Steam at a pressure of 10bar and 0.9 dryness fraction is throttled to a
-Q5 pressure of 2 bar. Using steam table only, calculate the condition of steam a
-ee Bests after throttling process in terms of dryness fraction. Also calculate the
-
-change of entropy during this process.
-Q5 Sketch Carnot cycle on p-v and T-s diagram and also derive expression for -
-a sos efficiency of Carnot cycle.
-Q6 Explain mixing of two fluids as application of principle of increase of 0g x
-CO-2; $O-1; .
-BL-3 entropy.
-Q6
-€0-2; $0-1; Explain the significance of Clausius inequality. 04
-BL-2
-
-A vessel contains at | bar and 20°C a mixture of 1 mole of CO2 and 4
-
-moles of air. Calculate for the mixture :
-Q6 (i) The masses of CO2, O2 and No, and the total mass ;
-
-one. (ii) The percentage carbon content by mass ; 08
-
-ce iidiad (iii) The apparent molecular weight for the mixture.
-
-Volumetric analysis of air can be taken as 21% oxygen and 79% nitrogen
-
-(Take molecular weight of carbon as 12)
-````
-
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper 6656c474936d
 
 - Departments: Mechanical
@@ -1238,6 +1066,178 @@ Find the:
 (v) The specific entropy, and (vi) The specific internal energy.
 ````
 
+## 2021-22 · Exam not stated · Sem 4 · paper e121879236fa
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/BASIC THERMODYNAMICS/Basic Thermodynamics Batch 2022-230001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2022
+- Text: ocr (3 pages), mean OCR confidence 89.5
+
+````text
+Ji SSMTUTE OF
+Oe are
+
+; SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT é&
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Mechanical) Year: II Semester: IV
+a
+Subject: Basic Thermodynamics L
+. . Marks: 100
+Date: 08 June 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (Hrs) e
+No. of Pages: 3
+Re-Examination (2021-22)
+
+i
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+8) Use of Steam table, Mollier diagram allowed
+
+Ql .
+Answer briefly: [20]
+os 780-1; | a, Explain with help of example open thermodynamic system 04
+CO-2 ; SO-1, . 5 ink ;
+, 7b. | What is PMM 1? Why is it impossible? 04
+BL-2 :
+Gi State and explain briefly Kelvin-Planck statement of second law of
+CO-2 ; $O-1; ’ 04
+BL-2 thermodynamics?
+ne 180-4, | d. Explain use of T-s plot. 04
+e Explain following terms associated with pure substance:
+CO- 3; SO-1; 04
+BL-2 1. Latent heat of fusion, 2. Latent heat of vaporization
+a At the inlet to a certain nozzle the enthalpy of fluid passing is 2800 kJ/kg,
+@ and the velocity is 50 m/s. At the discharge end the enthalpy is 2600 kJ/kg.
+60-2: $0.1; The nozzle is horizontal and there is negligible heat loss from it. 08
+BL-3 (i) Using SFEE (steady flow energy equation) find the velocity at exit of
+the nozzle.
+
+1/3
+--- page 2 ---
+(ii) If the inlet area is 900 cm2 and the specific volume at inlet is 0.187
+
+m?/kg, find the mass flow rate.
+
+Explain following terms associated with pressure:
+1. Atmospheric Pressure
+2. Gauge Pressure
+
+3. Absolute Pressure
+
+A platinum resistance thermometer has resistance of 2.8 ohm at 0°C and
+
+3.8 ohm at 100°C. Calculate the resistance when temperature is 300°C.
+Take relation R = Ro ( 1+a T)
+
+Where Ro is resistance at 0°C and a is constant and T is temperature in
+
+To a closed system 150 kJ of work is supplied. If the initial volume is
+0.6 m? and pressure of the system changes as p = 8 — 4V, where p is in bar
+and V is in m3,calculate the final volume and pressure of the system.
+
+a
+
+Explain first law of thermod
+
+ynamics for a closed system undergoing a
+cycle.
+
+A fluid system, contained ina
+a complete cyclé of four proce
+acycle is —340 kJ. The syste!
+the following table showing
+
+piston and cylinder machine, passes through
+sses. The sum of all heat transferred during
+m completes 200 cycles per min. Complete
+the method of calculation for each item.
+
+W (kJ/min) AE (kJ/min)
+
+4340, fn
+
+servoirs at 1000 K and 350K is
+used to drive the heat pump which extracts heat from reservoir at 350K.
+The heat extracted by heat pump is twice the heat rejected by heat engine.
+If the efficiency of heat engine is 40% of maximum possible efficiency
+
+and heat pump is reversible. Calculate the temperature of reservoir in
+
+A heat engine operating between two re.
+
+Q4
+
+CO-2; SO-1,7;
+BL-3
+
+which heat pump rejects heat and also calculate the amount of heat
+rejected by heat pump. Assume all work produced by heat engine is used
+
+by heat pump. Take the heat supplied to the heat engine from 1000K
+reservoir is 50 kJ.
+
+2/3
+--- page 3 ---
+Explain following:
+
+Q4 1. Critical point 08
+CO-3; SO-1; . :
+_ 2. Triple point
+3. Dryness fraction
+
+Qs A rigid vessel of volume 0.86 m? contains 1 kg of steam at a pressure of 2
+€0-3; $0-1; bar. Calculate the specific volume, dryness fraction, enthalpy, and entropy 06
+Bs of steam.
+
+Steam at a pressure of 10bar and 0.9 dryness fraction is throttled to a
+Q5 pressure of 2 bar. Using steam table only, calculate the condition of steam a
+ee Bests after throttling process in terms of dryness fraction. Also calculate the
+
+change of entropy during this process.
+Q5 Sketch Carnot cycle on p-v and T-s diagram and also derive expression for -
+a sos efficiency of Carnot cycle.
+Q6 Explain mixing of two fluids as application of principle of increase of 0g x
+CO-2; $O-1; .
+BL-3 entropy.
+Q6
+€0-2; $0-1; Explain the significance of Clausius inequality. 04
+BL-2
+
+A vessel contains at | bar and 20°C a mixture of 1 mole of CO2 and 4
+
+moles of air. Calculate for the mixture :
+Q6 (i) The masses of CO2, O2 and No, and the total mass ;
+
+one. (ii) The percentage carbon content by mass ; 08
+
+ce iidiad (iii) The apparent molecular weight for the mixture.
+
+Volumetric analysis of air can be taken as 21% oxygen and 79% nitrogen
+
+(Take molecular weight of carbon as 12)
+````
+
 ## 2021-22 · Final-Exam · Sem 4 · paper cab611f1ff6c
 
 - Departments: Mechanical
@@ -1245,6 +1245,7 @@ Find the:
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/BASIC THERMODYNAMICS/Basic Thermodynamics 2021-22 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 April 2022
 - Text: ocr (3 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . SVKM’s NMIMS eH eth i,
@@ -1343,7 +1344,6 @@ C0-2; $0-1; Process | Q (kJ/min) W (kJ/min) AE (kJ/min) 06
 BL-3 a-b 0 2170 wine ves
 b-c 21000 0 ceeeecees
 c-d -2100 ie nsese -36600
-d-a ceeceees owieine sivas eeaeauss
 A house is to be maintained at 25°C in summer as well as in winter. For
 this purpose it is proposed to use a reversible device which work as
 Q4 refrigerator in summer and as a heat pump in winter. The ambient

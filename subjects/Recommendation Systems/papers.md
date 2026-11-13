@@ -247,6 +247,154 @@ BL-4   problem in recommender systems.
 ********** 3 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 7 · paper d6befa5e4811
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / Artificial Intelligence
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ARTIFICIAL INTELLIGENCE/SEM-VII/RECOMMENDATION SYSTEM/B Tech, (AI) Recommendation Systems, Sem VII, Batch 2023 & 2024, Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026 .
+
+Program/s: B.Tech /MBA.Tech Year: 4 Semester: VII
+
+Stream/s : Artificial Intelligence ,
+
+Subject: Recommendation Systems Time: _ 3 _ hrs (to2manto 44 Mp).
+Date:_1 /'A/a5- No. of Pages:__ 3.
+
+Marks: 100
+—. .
+: ReExamination (23-24 /24- 25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+. Answer briefly: [20]
+
+CO- 1; a.
+SO-1 ; How do recommendation systems handle the cold-start problem? [5]
+BL-2
+Co- 1; b. : .
+SO-1; Compare content-based recommendation system and a collaborative-based [5]
+BL-2 recommendation system?
+
+c. Explain Stochastic gradient descent method. Write the update equations for
+
+Uiq and Vig using stochastic gradient descent method (with regularization)
+CO-2 ; including
+SO-1 ; , (i) Explicit feedback only [5]
+BL-3 . (ii) Incorporating user bias and item bias
+(iii) Incorporating implicit feedback.
+
+CO-3 ; d. : . eye . a . 5
+SO-1: Explain the different Similarity Function used in recommendation system? [5]
+
+BL-2
+--- page 2 ---
+Consider a matrix that shows four users Alice, Ul, U2 and U3 rating on
+different news apps. The rating range is from 1 to 5 on.the basis of user’s
+likability of the news app. The “?” indicates that the user has not rated the app.
+
+
+@ > .
+CO-2; Alice | 5 4 1 4 2 [10]
+SO-1; Ul 3 1 2 3 3
+BL-3 U2 4 3 _|4 3 5
+U3 3 3 1 5 4
+Solve for the values of missing rating of Alice on BBC(5) using user based
+collaborative filtering algorithm. Use the Pearson correlation coefficient.
+A user rates 20 movies as either “liked” or “disliked.” Out of these, 11 movies
+are disliked and 9 are liked. Among the 6 movies tagged with the genre
+CO-3; ‘| “comedy,” 4 are disliked. :
+SO-1; @) Compute the Gini index for the overall dataset. [10]
+BL-5 (ii) Compute the Gini index for the subset of movies labelled
+“comedy.” . .
+(iii) Based on the Gini index values, discuss whether the genre label
+“comedy” should be considered a useful feature for classification.
+“NextStar has incorporated a recommender system into their application,
+Q3 which provides personalized recommendations to users based on their ratings [10]
+CO-3; and preferences. As the system becomes more sophisticated, it is critical to
+SO-1; ensure that it provides accurate and relevant recommendations to users.” ;
+BL-2 Explain how can NextStar test and evaluate their recommender system to
+ensure it provides accurate and relevant recommendations to users.
+Analyze the concept of matrix factorization and its application in the
+CO-2; recommendation systems. Discuss the advantages and limitations of matrix
+SO-1: factorization compared to other techniques and provide examples of real-world | [10]
+BL-4 applications :
+Q4 CO-2; . . 4 0 ; ae
+For the given matrix A = [ | , Determine U, V and = using singular
+SO-1; 30-5 — [10]
+BL-5 vector decomposition.
+CO-1; In an online fashion store, users frequently browse and purchase clothing
+SO-1; items. Explain how a content-based recommender can use attributes like color, | [10]
+BL-2 style, and brand to suggest similar products?
+--- page 3 ---
+Q5
+
+Explain the optimization objective in unconstrained matrix factorization.
+
+CO-2; a. Interpret the loss function and discuss how it is minimized using gradient [10]
+
+SO-1; descent.
+
+BL-5
+
+CO-3; b. Explain the significance of precision, recall, and F1 score in evaluating
+
+SO-1; recommendation systems. Why might accuracy alone be misleading in [10]
+
+BL-2 imbalanced datasets? ,
+
+Q6 a. A music streaming app wants to recommend songs based on time of day and
+
+So user mood. Discuss how contextual modeling can be used to improve [10]
+
+BL-6 recommendation quality.
+
+CO-2: b. Compare the effectiveness of recommendation models trained on explicit 110]
+
+SO-1; feedback versus those trained on implicit feedback. Which is more scalable
+
+BL-2 and why?
+
+Q7CO-4; ) a. Discuss how stochastic gradient descent (SGD) can be used to optimize a
+
+SO-1; context-aware recommendation model. Illustrate the update rules for user, [10]
+item, and context embeddings.
+
+BL-6
+
+CO-1,2; b. ;
+
+SO-1; Explain how matrix factorization uses latent factors to model user-item
+
+BL-2 : [10]
+
+interactions. Discuss its advantages over neighborhood-based methods.
+--- page 4 ---
+
+````
+
 ## 2024-25 · Final + Re-Exam · Sem 7 · paper 4b870492a285
 
 - Departments: Artificial Intelligence
@@ -468,6 +616,7 @@ a
 - Programmes: MBA TECH / Artificial Intelligence
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/Artificial Intelligence/Recommendation System/Recommendation Systems , Final exam 2024-25, Re-exam 2023-24.pdf`
 - Text: ocr (6 pages), mean OCR confidence 73.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -642,7 +791,6 @@ Q5
 CO-2; SO- a. Explain the unconstrained matrix factorization method with stochastic [10]
 1; gradient descent and batch updates with incorporating user and item biases.
 BL-2 :
-b. i a oh he ees os — Se aie rome A : oe sacra Se [05]
 
 (i) Explain the common challenges associated with neighborhood-based
 CO-2; SO- collaborative filtering.
@@ -680,154 +828,6 @@ CO-2; SO- (ii) What are the advantages of latent factor models over [05]
 BL-1 neighborhood based collaborative filtering.
 --- page 6 ---
 ~
-````
-
-## 2024 · Re-Exam · Sem 7 · paper d6befa5e4811
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / Artificial Intelligence
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ARTIFICIAL INTELLIGENCE/SEM-VII/RECOMMENDATION SYSTEM/B Tech, (AI) Recommendation Systems, Sem VII, Batch 2023 & 2024, Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 88.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026 .
-
-Program/s: B.Tech /MBA.Tech Year: 4 Semester: VII
-
-Stream/s : Artificial Intelligence ,
-
-Subject: Recommendation Systems Time: _ 3 _ hrs (to2manto 44 Mp).
-Date:_1 /'A/a5- No. of Pages:__ 3.
-
-Marks: 100
-—. .
-: ReExamination (23-24 /24- 25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-. Answer briefly: [20]
-
-CO- 1; a.
-SO-1 ; How do recommendation systems handle the cold-start problem? [5]
-BL-2
-Co- 1; b. : .
-SO-1; Compare content-based recommendation system and a collaborative-based [5]
-BL-2 recommendation system?
-
-c. Explain Stochastic gradient descent method. Write the update equations for
-
-Uiq and Vig using stochastic gradient descent method (with regularization)
-CO-2 ; including
-SO-1 ; , (i) Explicit feedback only [5]
-BL-3 . (ii) Incorporating user bias and item bias
-(iii) Incorporating implicit feedback.
-
-CO-3 ; d. : . eye . a . 5
-SO-1: Explain the different Similarity Function used in recommendation system? [5]
-
-BL-2
---- page 2 ---
-Consider a matrix that shows four users Alice, Ul, U2 and U3 rating on
-different news apps. The rating range is from 1 to 5 on.the basis of user’s
-likability of the news app. The “?” indicates that the user has not rated the app.
-
-Item id | InShoris(il) FHTd2) |NYT@3) |TOIG4) | BBC(S)
-
-@ > .
-CO-2; Alice | 5 4 1 4 2 [10]
-SO-1; Ul 3 1 2 3 3
-BL-3 U2 4 3 _|4 3 5
-U3 3 3 1 5 4
-Solve for the values of missing rating of Alice on BBC(5) using user based
-collaborative filtering algorithm. Use the Pearson correlation coefficient.
-A user rates 20 movies as either “liked” or “disliked.” Out of these, 11 movies
-are disliked and 9 are liked. Among the 6 movies tagged with the genre
-CO-3; ‘| “comedy,” 4 are disliked. :
-SO-1; @) Compute the Gini index for the overall dataset. [10]
-BL-5 (ii) Compute the Gini index for the subset of movies labelled
-“comedy.” . .
-(iii) Based on the Gini index values, discuss whether the genre label
-“comedy” should be considered a useful feature for classification.
-“NextStar has incorporated a recommender system into their application,
-Q3 which provides personalized recommendations to users based on their ratings [10]
-CO-3; and preferences. As the system becomes more sophisticated, it is critical to
-SO-1; ensure that it provides accurate and relevant recommendations to users.” ;
-BL-2 Explain how can NextStar test and evaluate their recommender system to
-ensure it provides accurate and relevant recommendations to users.
-Analyze the concept of matrix factorization and its application in the
-CO-2; recommendation systems. Discuss the advantages and limitations of matrix
-SO-1: factorization compared to other techniques and provide examples of real-world | [10]
-BL-4 applications :
-Q4 CO-2; . . 4 0 ; ae
-For the given matrix A = [ | , Determine U, V and = using singular
-SO-1; 30-5 — [10]
-BL-5 vector decomposition.
-CO-1; In an online fashion store, users frequently browse and purchase clothing
-SO-1; items. Explain how a content-based recommender can use attributes like color, | [10]
-BL-2 style, and brand to suggest similar products?
---- page 3 ---
-Q5
-
-Explain the optimization objective in unconstrained matrix factorization.
-
-CO-2; a. Interpret the loss function and discuss how it is minimized using gradient [10]
-
-SO-1; descent.
-
-BL-5
-
-CO-3; b. Explain the significance of precision, recall, and F1 score in evaluating
-
-SO-1; recommendation systems. Why might accuracy alone be misleading in [10]
-
-BL-2 imbalanced datasets? ,
-
-Q6 a. A music streaming app wants to recommend songs based on time of day and
-
-So user mood. Discuss how contextual modeling can be used to improve [10]
-
-BL-6 recommendation quality.
-
-CO-2: b. Compare the effectiveness of recommendation models trained on explicit 110]
-
-SO-1; feedback versus those trained on implicit feedback. Which is more scalable
-
-BL-2 and why?
-
-Q7CO-4; ) a. Discuss how stochastic gradient descent (SGD) can be used to optimize a
-
-SO-1; context-aware recommendation model. Illustrate the update rules for user, [10]
-item, and context embeddings.
-
-BL-6
-
-CO-1,2; b. ;
-
-SO-1; Explain how matrix factorization uses latent factors to model user-item
-
-BL-2 : [10]
-
-interactions. Discuss its advantages over neighborhood-based methods.
---- page 4 ---
-
 ````
 
 ## 2024-25 · Re-Exam · Sem 7 · paper 7a23d117f7b6

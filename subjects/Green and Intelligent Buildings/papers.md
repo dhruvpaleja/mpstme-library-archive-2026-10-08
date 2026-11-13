@@ -68,6 +68,7 @@ assessment of green building projects.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GREEN AND INTELLIGENT BUILDINGS/Green and Intelligent Buildings, Sem-V, Year 2025-26 Final Exam.pdf`
 - Printed on paper: max marks: 100; exam date: 02 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 87.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -144,7 +145,6 @@ assessment of green building projects.
 
 o
 
-RK 2 a ao kok A kok ok
 
 [10]
 

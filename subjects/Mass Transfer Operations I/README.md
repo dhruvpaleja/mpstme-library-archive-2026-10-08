@@ -1,6 +1,6 @@
 # Mass Transfer Operations I
 
-**25** unique papers (26 copies across programmes) · 2005-06 to 2018-19 · 1 programme · Sem 4, Trim 5
+**26** unique papers (27 copies across programmes) · 2005-06 to 2018-19 · 1 programme · Sem 4, Trim 5
 
 Download only this subject, sorted by academic year:
 
@@ -35,9 +35,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2008-09 | Re-Exam | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2008-2009 batch re exam(5).pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2008-2009 re exam(23).pdf |
 | 2007-08 | — | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2007-2008(34).pdf |
+| 2007-08 | Re-Exam | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2007-2008 batch re exam(1).pdf [1] |
 | 2007-08 | Re-Exam | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2007-2008 re exam(12).pdf |
 | 2006-07 | — | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2006-2007(18).pdf |
 | 2005-06 | — | Question paper | Trim 5 | MBA TECH / CHEMICAL | 2005-2006(21).pdf |
 | — | — | Question paper | Trim 5 | MBA TECH / CHEMICAL | Scan 0014.pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "CHEMICAL ENGINEERING THEMODYNAMICS" but the paper is headed "Mass Transfer Operations I"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

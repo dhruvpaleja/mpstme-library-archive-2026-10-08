@@ -297,6 +297,7 @@ Normal Form (CNF)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/Semester 3/Intelligent System/Intelligent Systems-I, Year 2025-26 Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: ocr (4 pages), mean OCR confidence 88.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 m=
@@ -367,7 +368,6 @@ BL- 3
 
 node A to the goal state.
 
-FER 7 aoa i i sok okt ae
 --- page 2 ---
 Q:3 Answer briefly: [20]
 So fy Explain the working of a Simple Reflex Agent and a Model-Based Reflex [05]
@@ -395,7 +395,6 @@ CO-3
 SO-1 [10]
 BL- 4
 
-tL M N O P QR S TUYw x. Y
 QB ®@ & 7 © © Gd   @) (8) (4) (10) (2)
 
 FRR Dk kok
@@ -1450,6 +1449,7 @@ BL-2,4
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE & MACHINE LEARNING/SEM-III/INTELLIGENT SYSTEMS/Intelligent Systems-I, 2nd Year, Sem-III, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 December 2022
 - Text: ocr (6 pages), mean OCR confidence 85.9
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1498,7 +1498,6 @@ BL-2
 d. Consider the following solved crossword puzzle. Formulate this as
 constraint satisfaction problem by stating the variables, their domains and
 their constraints.
-efolurk tito fe ’e Mole elaly iy
 CO- 3; ahaa. anno ne
 SO-1 ; Ao fGen afeane [04]
 BL-6 "alilcin ee ee
@@ -1507,7 +1506,6 @@ rc efilo ojos ofr
 “siatelkis|oln fm Ca
 Palu[aMwlacoliia i
 fn no A one
-“ali{nio/s MM tala Mmuiulely
 “slot aM o fo DAES
 y raj uth c
 
@@ -1599,7 +1597,6 @@ a | oeetes —,
 ; e 4Bn ;
 ttheorg
 2 ics) eee ° 4Sn
-Ls . e Su Wr U Wa
 CBee Cease |
 ’ vee =| NS |S = Questions before next
 START
@@ -1686,6 +1683,7 @@ xm
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/Semester 3/Intelligent System/Intelligent Systems-1,2022-23,Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 December 2022
 - Text: ocr (6 pages), mean OCR confidence 86.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -1745,7 +1743,6 @@ Riitnlals Mw lala Mu lulely
 AHA fF pMMwlaliiviels
 t ‘jul c
 
-SITIE{LiL AMD] alMioiniols
 
 VW
 --- page 2 ---
@@ -1833,7 +1830,6 @@ Wee) ;
 e 4Bn
 time
 2 ae e 4S8u
-Ls - e Si Wr U Wa
 CBieasg = oc bleasg —|
 ’ oe | Ba |S Questions before next
 START.
@@ -1917,6 +1913,7 @@ Ye
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/Semester 3/Intelligent System/Intelligent Systems-I ,Re-exam 2022-23.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 February 2023
 - Text: ocr (6 pages), mean OCR confidence 88.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / oxlor!2%= 'o'gpam
@@ -2071,7 +2068,6 @@ CO-4; tautology or contradiction
 SO-1; . [04]
 BL-4 i. P—>(PVQ)
 
-ii, (A A 4B)V(B A BA)
 
 U/e
 --- page 5 ---
@@ -2240,6 +2236,7 @@ c. Iterative deepening search technique
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/INTELLIGENT SYSTEM/INTELLIGENT SYSTEMS B TECH (COMPUTER), BATCH 16-17 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 27 May 2017
 - Text: ocr (2 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2327,7 +2324,6 @@ functions. ;
 > H(n)= The straight Line Distance between any town and town M. these distance
 are given in the table below.
 Straight Line Distance to M
-AlTBIic/TDTETF[Glali Jie] ittM
 44 | 20 | 33 | 25 | 31 | 22) 14 lo | 11] 5 | 40 | 20] 0
 a) Provide the search tree for your solution, showing the order in which the nodes
 were expanded and cost at each node. You should not re-visit a town that you have
@@ -2450,6 +2446,105 @@ Page 2 of 2
 12
 ````
 
+## 2015-16 · Re-Exam · Sem 7 · paper 11f84fbabd49
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/INTELLIGENT SYSTEM/INTELLIGENT SYSTEMS B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 28/11/2015
+- Text: ocr (2 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Computer) Year: IV Semester: VII
+Batch: 2014-2015
+
+Academic Year: 2015-2016
+
+Subject: Intelligent Systems
+
+Marks: 60 fel, joe,ewy 3°
+Date: 28/11/2015 Time: 10.08 ap {6 1.00 fix "dé
+Duration: ‘ of
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for the use.
+
+NB.
+1. Question No.1 is compulsory
+2. Out of remaining 6 questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4, All questions carry equal marks.
+5. Answer to each new question should be started on a Fresh page.
+6. Figure in brackets indicate full marks.
+
+Q.1 Solve any four (12)
+a) What are the different types of environments in intelligence system?
+b) What is forward and backward chaining in generalized modus
+ponens rule?
+c) How is knowledge represented? Explain with example
+d) Describes problems with hill climbing in detail
+e) Prove A* is complete and optimal algorithm
+f) Give architecture of neural network
+
+Q.2 a) Describe search strategies and compare them with their (6)
+complexities.
+e Depth First Search
+e Depth Limited Search
+e Iterative Deepening Search
+Bidirectional Search
+b) Explain different types of agents with their advantages and C6}
+disadvantages.
+
+Q3 a) Describe Min-Max algorithm with alpha -cut and beta-cut example (6)
+b) 4 = fi4 284 984 2 A — [98 a, OF, 02, 04 (6)
+Solve Complement (A,B), Union (A U B), Intersection (AN B) and
+Prove De Morgan’s Principle (A UB = ANB ) and
+(AnB = AUB).
+
+Q.4 a) Write conversion steps of first order logic sentence into conjunctive (6)
+normal form
+b) Represent the following sentences in predicate logic. (6)
+
+Page | of 2
+--- page 2 ---
+1. Brothers are siblings.
+
+2. “Sibling” is symmetric.
+
+3. One’s mother is one’s female parent.
+
+4. A first cousin is a child of parent’s sibling
+
+Q.5 a) Explain Error back propagation algorithm with the help of flow (6)
+chart
+
+b) Write in detail the Defuzzification Methods (6)
+
+0.6 a) Explain with example frames, semantic network and partitioned (6)
+
+semantic network ne
+
+b) Give an example of expert system with definition, model, (8)
+
+characteristics, architecture, development process and limitations.
+
+Q.7 Write short note on (any two) (12)
+
+a) Script for Online Shopping system
+b) Applications of fuzzy logic.
+
+c) Interactive English Tutor Agent.
+d) AO* Algorithm
+
+Page 2 of 2
+````
+
 ## 2014-15 · Final-Exam · Sem 7 · paper 9617e2cf710e
 
 - Departments: Computer Engineering
@@ -2568,365 +2663,7 @@ e) Frames as a sets and instances.
 20
 ````
 
-## 2014-15 · Re-Exam · Sem 7 · paper 98a57260c38b
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/INTELLIGENT SYSTEM/INTELLIGENT SYSTEMS B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: exam date: 09/06/2015
-- Text: ocr (3 pages), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: IV Semester: VII ;
-Batch: 2014-15 i
-
-Academic Year: 2014-2015
-Subject: Intelligent Systems
-Marks:
-Date: 09/06/2015 Time:
-. Durations:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instruction printed on the question paper and
-on the cover of the answer book , which is provided for the use.
-
-1. Question 1 is compulsory
-
-2. Out of remaining question, attempt any 4 questions
-
-3. In all 5 question to be attempted.
-
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on afresh page.
-
-6. Figure to the right indicate full marks.
-
-7. Assume suitable data whenever necessary
-
-Q.1 A Define AI? Explain the Turing Machine approach to AI. a
-
-B What are the problems faced by Hill climbing search? Suggest 2,
-method for each problem to overcome.
-
-C Show that the following proposition is tautology. 3
-(Pp —* q) +> (~pV q)
-
-D_ Defined following terms: 3
-(i) Semanitic Net (ii) Frames (iii) Scripts (iv) Conceptual
-Dependency (v) Ontology
-Q.2 A Explain ditterent typesot Agent Architecture? 6
-B You are given two jugs, a 4-gallon one and a 3 gallon one. Neither
-has any measuring markers on it. There is a pump that can be used to 6
-fill the jugs with water. how you get exactly 2 gallons of water into
-the 4-gallon jug?
-Q.3 A Explain AO* algorithm. 6
-
-B_ Consider the following map(not drawn to scale). 6
-
-4/5
---- page 2 ---
-M
-Use the A* algorithm to work out a route from A to town M .Use the
-following cost functions.
-
-> G(n)= The cost of each move as the distance between each
-town(show on map).
-
-» H(n)= The straight Line Distance between any town and town
-M. fhese distance are given in the table below.
-
-Straight Line Distance to M
-
-|A_[B [c |p Je TF [G JH TT |v [kK [LM]
-[56 [22 [30 [29 [29 130 114110 1815130 15 [0 |
-
-(a ) Provide the search tree for your solution , showing the order in
-which the nodes were expanded and cost at each node. You should
-not re-visit a town that you have just come frome
-
-(b) State the route you would take and the cost of that route.
-
-Q.4 A State Algorithm to convert wff in to CNF.
-
-B_ Convert the following into first order form.
-(i) All law-abiding citizens obey the traffic rules.
-
-(ii), There is a student who likes Mathematics but not
-Geography.
-
-(iii) There is somebody whom everybody loves.
-
-(iv) Each integer is either even or odd.
-
-(v) People only try to assassinate rulers they are not loyal to.
-
-2/: 3s
---- page 3 ---
-Q.5 A
-
-Q6 A
-
-Q.7
-
-Construct a script for going to a restaurant from the viewpoint of the
-diners.
-
-Represent the following sentences into the appropriate semantic
-network diagram:
-
-(a) John believes that pizza is tasty
-(b) Every student loves to party
-
-Explain Alpha Beta pruning with Suitable examples?
-
-Write the step by step procedure of the backpropagation algorithm
-
-Write short note on following.
-(a) Application of fuzzy logic
-(b) Blackboard learning Model
-(c) Application of Neural Network
-(d)Examples of Expert systems
-
-x
-
-6
-
-6
-
-6
-
-j2
-````
-
-## 2014-15 · Re-Exam · Sem 7 · paper 11f84fbabd49
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/INTELLIGENT SYSTEM/INTELLIGENT SYSTEMS B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 28/11/2015
-- Text: ocr (2 pages), mean OCR confidence 90.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Computer) Year: IV Semester: VII
-Batch: 2014-2015
-
-Academic Year: 2015-2016
-
-Subject: Intelligent Systems
-
-Marks: 60 fel, joe,ewy 3°
-Date: 28/11/2015 Time: 10.08 ap {6 1.00 fix "dé
-Duration: ‘ of
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for the use.
-
-NB.
-1. Question No.1 is compulsory
-2. Out of remaining 6 questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4, All questions carry equal marks.
-5. Answer to each new question should be started on a Fresh page.
-6. Figure in brackets indicate full marks.
-
-Q.1 Solve any four (12)
-a) What are the different types of environments in intelligence system?
-b) What is forward and backward chaining in generalized modus
-ponens rule?
-c) How is knowledge represented? Explain with example
-d) Describes problems with hill climbing in detail
-e) Prove A* is complete and optimal algorithm
-f) Give architecture of neural network
-
-Q.2 a) Describe search strategies and compare them with their (6)
-complexities.
-e Depth First Search
-e Depth Limited Search
-e Iterative Deepening Search
-Bidirectional Search
-b) Explain different types of agents with their advantages and C6}
-disadvantages.
-
-Q3 a) Describe Min-Max algorithm with alpha -cut and beta-cut example (6)
-b) 4 = fi4 284 984 2 A — [98 a, OF, 02, 04 (6)
-) A= G+ ao yt = ad B =[F+ 2+ S+ Sh} (6)
-Solve Complement (A,B), Union (A U B), Intersection (AN B) and
-Prove De Morgan’s Principle (A UB = ANB ) and
-(AnB = AUB).
-
-Q.4 a) Write conversion steps of first order logic sentence into conjunctive (6)
-normal form
-b) Represent the following sentences in predicate logic. (6)
-
-Page | of 2
---- page 2 ---
-1. Brothers are siblings.
-
-2. “Sibling” is symmetric.
-
-3. One’s mother is one’s female parent.
-
-4. A first cousin is a child of parent’s sibling
-
-Q.5 a) Explain Error back propagation algorithm with the help of flow (6)
-chart
-
-b) Write in detail the Defuzzification Methods (6)
-
-0.6 a) Explain with example frames, semantic network and partitioned (6)
-
-semantic network ne
-
-b) Give an example of expert system with definition, model, (8)
-
-characteristics, architecture, development process and limitations.
-
-Q.7 Write short note on (any two) (12)
-
-a) Script for Online Shopping system
-b) Applications of fuzzy logic.
-
-c) Interactive English Tutor Agent.
-d) AO* Algorithm
-
-Page 2 of 2
-````
-
-## 2013-14 · Final-Exam · Sem 7 · paper 25d3a05d5a4e
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/INTELLIGENT SYSTEM/INTELLIGENT SYSTEMS B TECH (COMPUTER), 2013-14 FINAL EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2013
-- Text: ocr (3 pages), mean OCR confidence 90.0
-
-````text
-SVKM’s NMIMS f. A
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & aucinneyc
-da \
-
-Programme:B. Tech (COMP) Year: IV Semester: Viz j
-\ S : Ey,
-
-Academic Year: 2013-2014 \ nia
-
-Subject ‘Intelligent Systems
-Marks: 100
-Date : 30/11/2013 Time : 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Attempt any four out of remaining six questions.
-3. Inall 5 questions to be attempted
-4. All questions carry equal marks.
-5. Answer to each new question to be started on fresh page.
-6. Figures in parenthesis on the right hand side indicate full marks.
-
-Q.1 Solve Any Four [20]
-a. Compare and contrast Depth Limited Search and iterative Deepening Search
-b. | Write PEAS description for Vacuum Cleaner Agent
-c. Explain Turing Test and capabilities required for system to pass
-Turing Test ?
-d. Explain Explanation based learning with example
-e. What are the different ways of representing knowledge? Give examples of each
-Q.2 a. Explain Min-Max algorithm and apply alpha-beta pruning for the same example [10]
-
-b. With help of Tic-Tac-Toe game implementation illustrate three approaches where level of [10]
-Intelligence is encoded from low to high
-
-Q3 a Using resolution for propositional logic prove (D) from (A,B,C): [10]
-A.P > (Q< R)
-“(Q<R)
-C.SWQ > P
-D.-P\/ (SQ)
-
-b. Find out about the Internet shopping agent [10]
-1.What are the percepts for this agent ?
-2. Characterize the operating environment.
-3. What are the actions the agent can take ?
-4. How can one evaluate the performance of the agent ?
-5. What sort of agent architecture do you think is most suitable for this agent ?
-
-1/3
---- page 2 ---
-Q4 a.
-
-Q.5 a.
-
-Explain Semantic Network, Partitioned Semantic Network and Frames with suitable [10]
-example
-
-What are five applications which may not be possible to implement with AI Techniques in [10]
-next 10 Years ? justify
-
-(START) [10]
-A
-
-(END)
-
-Using the A* algorithm work out a route from town A to town M.
-
-Use the following cost functions. :
-
-> G(n) = The cost of each move as the distance between each town (shown on
-map).
-
-> H(n) = The Straight Line Distance between any town and town M. These
-distances are given in the table below.
-
-Provide the search tree for your solution and indicate the order in which you
-expanded the nodes. Finally, state the route you would take and the cost of that
-route.
-
-Straight Line Distance to M
-
-A | 223 E | 165 I | 100 [M [0 |
-B | 222 F | 136 J | 60
-C | 166 G | 122 K | 32
-D | 192 H {111 L | 102
-What are task domains of AI? Give three applications of Intelligent System [10]
-
-2\3
---- page 3 ---
-Q6
-
-Q7
-
-Represent the following sentences in predicate logic.
-“Jack owns a dog.”
-“Every dog owner is animal lover.”
-“No animal lover kills an animal.”
-“Either Jack or Curiosity killed the cat, who is named Tuna.”
-Prove that “Curiosity killed the cat” by resolution.
-
-Write Short Note on (Any two)
-Candidate Elimination Algorithms
-Learning with Chunking
-
-Wumpus World PEAS description
-AO* Algorithm
-
-3\3
-
-[20]
-````
-
-## 2013-14 · Re-Exam · Sem 7 · paper 9ba918d8db4a
+## 2014-15 · Re-Exam · Sem 7 · paper 9ba918d8db4a
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
@@ -3053,6 +2790,265 @@ x
 S)
 
 [20]
+
+[20]
+````
+
+## 2014-15 · Re-Exam · Sem 7 · paper 98a57260c38b
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/INTELLIGENT SYSTEM/INTELLIGENT SYSTEMS B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: exam date: 09/06/2015
+- Text: ocr (3 pages), mean OCR confidence 91.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: IV Semester: VII ;
+Batch: 2014-15 i
+
+Academic Year: 2014-2015
+Subject: Intelligent Systems
+Marks:
+Date: 09/06/2015 Time:
+. Durations:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instruction printed on the question paper and
+on the cover of the answer book , which is provided for the use.
+
+1. Question 1 is compulsory
+
+2. Out of remaining question, attempt any 4 questions
+
+3. In all 5 question to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on afresh page.
+
+6. Figure to the right indicate full marks.
+
+7. Assume suitable data whenever necessary
+
+Q.1 A Define AI? Explain the Turing Machine approach to AI. a
+
+B What are the problems faced by Hill climbing search? Suggest 2,
+method for each problem to overcome.
+
+C Show that the following proposition is tautology. 3
+(Pp —* q) +> (~pV q)
+
+D_ Defined following terms: 3
+(i) Semanitic Net (ii) Frames (iii) Scripts (iv) Conceptual
+Dependency (v) Ontology
+Q.2 A Explain ditterent typesot Agent Architecture? 6
+B You are given two jugs, a 4-gallon one and a 3 gallon one. Neither
+has any measuring markers on it. There is a pump that can be used to 6
+fill the jugs with water. how you get exactly 2 gallons of water into
+the 4-gallon jug?
+Q.3 A Explain AO* algorithm. 6
+
+B_ Consider the following map(not drawn to scale). 6
+
+4/5
+--- page 2 ---
+M
+Use the A* algorithm to work out a route from A to town M .Use the
+following cost functions.
+
+> G(n)= The cost of each move as the distance between each
+town(show on map).
+
+» H(n)= The straight Line Distance between any town and town
+M. fhese distance are given in the table below.
+
+Straight Line Distance to M
+
+[56 [22 [30 [29 [29 130 114110 1815130 15 [0 |
+
+(a ) Provide the search tree for your solution , showing the order in
+which the nodes were expanded and cost at each node. You should
+not re-visit a town that you have just come frome
+
+(b) State the route you would take and the cost of that route.
+
+Q.4 A State Algorithm to convert wff in to CNF.
+
+B_ Convert the following into first order form.
+(i) All law-abiding citizens obey the traffic rules.
+
+(ii), There is a student who likes Mathematics but not
+Geography.
+
+(iii) There is somebody whom everybody loves.
+
+(iv) Each integer is either even or odd.
+
+(v) People only try to assassinate rulers they are not loyal to.
+
+2/: 3s
+--- page 3 ---
+Q.5 A
+
+Q6 A
+
+Q.7
+
+Construct a script for going to a restaurant from the viewpoint of the
+diners.
+
+Represent the following sentences into the appropriate semantic
+network diagram:
+
+(a) John believes that pizza is tasty
+(b) Every student loves to party
+
+Explain Alpha Beta pruning with Suitable examples?
+
+Write the step by step procedure of the backpropagation algorithm
+
+Write short note on following.
+(a) Application of fuzzy logic
+(b) Blackboard learning Model
+(c) Application of Neural Network
+(d)Examples of Expert systems
+
+x
+
+6
+
+6
+
+6
+
+j2
+````
+
+## 2013-14 · Final-Exam · Sem 7 · paper 25d3a05d5a4e
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/INTELLIGENT SYSTEM/INTELLIGENT SYSTEMS B TECH (COMPUTER), 2013-14 FINAL EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2013
+- Text: ocr (3 pages), mean OCR confidence 90.0
+
+````text
+SVKM’s NMIMS f. A
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & aucinneyc
+da \
+
+Programme:B. Tech (COMP) Year: IV Semester: Viz j
+\ S : Ey,
+
+Academic Year: 2013-2014 \ nia
+
+Subject ‘Intelligent Systems
+Marks: 100
+Date : 30/11/2013 Time : 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory.
+2. Attempt any four out of remaining six questions.
+3. Inall 5 questions to be attempted
+4. All questions carry equal marks.
+5. Answer to each new question to be started on fresh page.
+6. Figures in parenthesis on the right hand side indicate full marks.
+
+Q.1 Solve Any Four [20]
+a. Compare and contrast Depth Limited Search and iterative Deepening Search
+b. | Write PEAS description for Vacuum Cleaner Agent
+c. Explain Turing Test and capabilities required for system to pass
+Turing Test ?
+d. Explain Explanation based learning with example
+e. What are the different ways of representing knowledge? Give examples of each
+Q.2 a. Explain Min-Max algorithm and apply alpha-beta pruning for the same example [10]
+
+b. With help of Tic-Tac-Toe game implementation illustrate three approaches where level of [10]
+Intelligence is encoded from low to high
+
+Q3 a Using resolution for propositional logic prove (D) from (A,B,C): [10]
+A.P > (Q< R)
+“(Q<R)
+C.SWQ > P
+D.-P\/ (SQ)
+
+b. Find out about the Internet shopping agent [10]
+1.What are the percepts for this agent ?
+2. Characterize the operating environment.
+3. What are the actions the agent can take ?
+4. How can one evaluate the performance of the agent ?
+5. What sort of agent architecture do you think is most suitable for this agent ?
+
+1/3
+--- page 2 ---
+Q4 a.
+
+Q.5 a.
+
+Explain Semantic Network, Partitioned Semantic Network and Frames with suitable [10]
+example
+
+What are five applications which may not be possible to implement with AI Techniques in [10]
+next 10 Years ? justify
+
+(START) [10]
+A
+
+(END)
+
+Using the A* algorithm work out a route from town A to town M.
+
+Use the following cost functions. :
+
+> G(n) = The cost of each move as the distance between each town (shown on
+map).
+
+> H(n) = The Straight Line Distance between any town and town M. These
+distances are given in the table below.
+
+Provide the search tree for your solution and indicate the order in which you
+expanded the nodes. Finally, state the route you would take and the cost of that
+route.
+
+Straight Line Distance to M
+
+A | 223 E | 165 I | 100 [M [0 |
+B | 222 F | 136 J | 60
+C | 166 G | 122 K | 32
+D | 192 H {111 L | 102
+What are task domains of AI? Give three applications of Intelligent System [10]
+
+2\3
+--- page 3 ---
+Q6
+
+Q7
+
+Represent the following sentences in predicate logic.
+“Jack owns a dog.”
+“Every dog owner is animal lover.”
+“No animal lover kills an animal.”
+“Either Jack or Curiosity killed the cat, who is named Tuna.”
+Prove that “Curiosity killed the cat” by resolution.
+
+Write Short Note on (Any two)
+Candidate Elimination Algorithms
+Learning with Chunking
+
+Wumpus World PEAS description
+AO* Algorithm
+
+3\3
 
 [20]
 ````

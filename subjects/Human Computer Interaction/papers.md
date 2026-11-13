@@ -968,6 +968,7 @@ Provide suitable example.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/HUMAN COMPUTER INTERACTION/Human Computer Interaction 2025-26 Final.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 85.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1069,7 +1070,6 @@ BL-2 What are the primary goals of Human-Computer Interaction (HCI)?
 Q7 b
 , te = 2; Explain the principles of User-Centered Design (UCD) O)
 
-AE A ek ok oe ok ak ok
 --- page 3 ---
 Q7 C | Explain the concept of Ergonomics in Human—Computer Interaction [5]
 
@@ -2176,6 +2176,151 @@ SO-2;
 BL-2,3
 ````
 
+## 2023-24 · Exam not stated · Sem 6 · paper 727b75534d01
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/HUMAN COMPUTER INTERACTION/Human Computer Interaction.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 79.6
+
+````text
+Comp .
+
+SVKM’S NMIMS
+
+RENOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+|
+
+: Program/s: B.Tech /MBA Tech ; ; - Year: Wi Semester: VI
+‘Stream/s ; Computer Engg. /Computer Engg / Computer Science 3 . . i
+Subject: Human Computer Interaction Ee Time: 03 hrs (2idopmto 5 :00pr)
+Date: 3 /S~ 12024 bk, othe . : a No. of Pages: 03
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the > question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any _4 }_quesiions.
+
+3) In all_5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started oma fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+
+Answer briefly: ‘ [20] .
+| a. | What input and output devices would you use for the following system? Justify your
+CO-1; answer. Indicaté why the conventional keyboard, mouse and CRT screen may be less
+SO-2; , :
+BL-1 suitable.
+
+System: Interactive Learning System for Children
+
+CO-4; | b. | Propose a design for a wearable gadget encouraging daily physical activity. Describe | [5]
+SO- 7; a ; ;
+
+BL-4 its main features, user interaction methods, and anticipated challenges in creation.
+
+C03; Je] [5]
+S02; Differentiate between UI and UX.
+
+BL-1 wise =
+
+CO-2; | d. | How does the integration of ergonomic principles influence the Human-Computer | [5]
+eh Interface (HCI)?
+
+Q
+
+[20]
+
+11/3
+--- page 2 ---
+“| Imagine you. are designing a new social media application. Users c can post updates,
+‘| share photos, and ¢onnect with friends. Apply Shneiderman's Eight Golden Rules of
+
+oa Interface Design. to address potential usability. issues in the following scenario. A user [10]
+BL-3 ‘|< | is trying t to post a status update’ but encounters difficulty in finding the option to add a
+photo to their post. Additionally, after “posting, the npeate, a realize they made a
+typo and want to’ puttges it.
+CO-1;. |b.) erie ged tye gO ; a
+pate ‘| teh Ghats the elk interaction design basics with diagram’ [10]
+13 .
+° [20]
+: hod sd State gestalt principles. Design a webpage for e-library using any five gestalt
+La _ ~ a | LILO]
+SO-2; principles. Incorporate the gulf of execution and evaluation into your design. justify.
+BL-5 : to : 4
+CO-2; b ; aye a% : Fi ? ;
+SO-6; Evaluate the interface of a calorie intake tracker app utilizing Nielsen's heuristics. [10]
+BL-3 . . , tet . 3
+4 :
+° (20)
+
+CO-1; | a | List and elaborate on the analysis tools utilized in User-Centered Design
+
+SO-2; methodologies. ° / [10]
+BL-1 : ;
+CO-4; Tb
+SO-2; Describe the Voice User Interface (VUI)? How Does a Voice Interface Work? [5]
+BL-2 a ates . . . : ‘
+COT |C] oe oye wee “
+&4; Describe thé design considerations for an online attendance marking system. [5]
+rae, Develop a persona for a student who desires to monitor their daily attendance. ;
+
+5
+° [20)
+coz: |? You are tasked with designing a new e-commerce website. Perform a Hierarchical
+80-6; Task Analysis (HTA) for the process of making a purchase on the website. Provide a | [10]
+
+4 . P ; :
+
+BL detailed breakdown of the hierarchical tasks involved.
+co » 'b. | What is human memory model explain in brief and discuss how the concepts-of
+S0-2; sensory memory and short-term memory relate to Human-Computer Interaction [10]
+BL-1 oe -
+
+(HCI)
+
+213
+--- page 3 ---
+6 * aw
+° cwt| [20]
+scree Discuss qualitative research analysis techniques, using a concrete example to. (io) ;
+BL3: demonstrate their application. s, i
+ee Describe the collaborative roles and responsibilities of UI and UX designers in the roy
+BL2 design process of a game application. - Bo jer
+‘7
+° [20]
+cO-2: You are tasked with designing a new email client application. Apply and write ‘
+¢ 0-6; GOMS (Goals, Operators, Methods, and Selection rules) analysis to improve ‘the [8]
+L-4 : ; ;
+| efficiency of composing and sending an email within the application.
+CO-3; : ;
+SO-6; Illustrate how do the elements of UX contribute to improving UI design? [6]
+BL-2 ’ : .
+; Choose an appropriate evaluation method for the following situation. In each-case
+C0-2: identify (i) The participants. (ii) The method used. (iii) Hypothesis (iv)Representative
+S0-6; tasks to be examined. (v) variables (vi) Test for carrying out the evaluation. [6]
+BL-5 oa ‘i
+A movie ticket booking application improves user accessibility and efficiency by
+simplifying the process of reserving seats for a show
+~
+
+3/3
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper bde2fe952032
 
 - Departments: Artificial Intelligence, Information Technology
@@ -2954,6 +3099,102 @@ S04;
 BL2
 
 Page 2 of 2
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper d55c7f393000
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/HUMAN COMPUTER INTERACTION/Human computer Interaction_d55c7f3930.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program/s: B Tech/MBA Tech Year: 3rd__ Semester: VI
+Stream/s ; Computer Engineering
+
+Subject: Human Computer Interaction Time: _3hrs (2:00pm__to_5:00pm)
+Date:__02_ / 05 /23 i No. of Pages: 2
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of:the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all, 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1
+% Answer briefly: [14/20]
+a. Today’s youth is spending most of their time on social media, which may
+create adverse effect on their lives. To limit such activities, some software
+Ee S0-6; should be added on so that they can get idea about time spent and | [5]
+accordingly limit the surfing on social media. Consider this situation and
+write persona for above situation.
+ee b. Write a detailed note on Components in HCI. How input and output devices
+= 1; S0-2; [5]
+BL-1 make impact on HCI.
+re sont Create HTA sketch for “Making a Tea “. [5]
+d. Distinguish between Quantitative and Qualitative Research methods in
+CO-2 ; $0-2; [5]
+BL-4 designing.
+Q2 vy) Compare good and bad interface design. [10]
+€0-1,2; 80-1; | 2) . . . .
+BL-2 What is GOMS model? Create GOMS script for “sending email message”. [10]
+Q3 1) Relate how ergonomics affects users-computer interaction. Illustrate with | [10]
+CO-2; SO-2;
+
+pres pictorial sketch.
+--- page 2 ---
+2) Explain in detail common interaction styles? [10]
+
+1 Relate between UI and UX. What challenges UI designer faces while
+aa ee a [10]
+designing interaction?
+CO-3,4; SO-3;
+BL-4 2) os ; _ . i ; [10]
+Explain Nielsen’s Heuristics 10 Usability Principles To Improve UI Design
+1) Explain what are the different designing aspects required for designing
+Q5 wearable devices. Design any one wearable design according to your [10]
+CO-2,4; SO-4; innovation.
+BL-3 [10]
+2) Elaborate 8 Golden Rules of User Interface Design with example.
+1) Draw and explain interaction design basics process
+2) Choose an appropriate evaluation method for the following situation. In
+each case identify
+(i) The participants. [10]
+Os (ii) The technique used.
+he som (iii) Representative tasks to be examined.
+(iv) Measurements that would be appropriate. [10]
+(v) An outline plan for carrying out the evaluation.
+Situation: You have designed and implemented a new game system and
+want to evaluate it before release.
+Evaluate the following terms in context of HCI -
+a) Norman’s 7 principle
+Q7
+CO-2,3; SO-3; b) Memory model pel
+
+BL-S
+
+c) Types of Qualitative analysis
+
+d) Participatory Design
 ````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper 9b072abedca5
@@ -4450,6 +4691,171 @@ HCI4D
 (3)
 ````
 
+## 2016-17 · Final-Exam · Sem 8 · paper 03d6e75468fc
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION B TECH (IT),1 6-17 FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 May 2017
+- Text: ocr (3 pages), mean OCR confidence 88.3
+
+````text
+SVKM’s NMIMS mT
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI ig may .
+“
+a)
+
+Programme: B. Tech (IT) Year: IV Semester: VIII a “Ps are <A
+a ZiBR
+/ Academic Year: 2016-2017 \ 3 Cae
+*
+Subject: Human Computer Interaction NET
+Marks: 60
+Date: 09 May 2017 : Time: 2.00 pm to 5.00 pm
+; Durations: 3 (hrs)
+No. of Pages:
+
+Final-Examinations
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any FOUR (4) questions.
+
+3) In all FIVE (5) questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi A __ Discuss the importance and benefits of good design in HCI. With an example, (6)
+highlight the problems of poor design.
+
+B You have designed and implemented a new game system for teenagers and want (6)
+to evaluate it with users before release. —
+Choose an appropriate evaluation method for this scenario giving proper
+justification. In your answer, highlight the study participants, iexaikicil technique,
+tasks to carry out, measurement and an outline plan.
+
+Q2 A _ Discuss the ways in which Gestalt Laws of Organization could be applied to (6)
+enhance the usability of websites.
+
+B_ What are affordances and constraints in design? How designers can use them (6)
+effectively in design? Provide examples.
+
+Q3 A__ Explain the different prototyping techniques used in HCI. In which stages of the design (6)
+cycle these are used and why?
+
+ail
+B What do the THREE (3) generic usability principles — Learnability, Flexibility and (6)
+a Robustness imply? How can you apply these generic principles for building a
+mobile application? Provide an example to each of the principle to justify your
+answer.
+
+Q4 A Schneiderman’s eight golden rules of interface design (as given below) is used in (6)
+many IT companies for designing their products.
+
+/3
+--- page 2 ---
+Q5
+
+Q6
+
+A
+
+A
+
+With an example, briefly explain each rule.
+8 golden rules:
+1. Consistency
+
+2. Shortcuts
+3. Feedback
+4. Closure
+
+5. Error prevention and error handling
+6. Easy reversal of actions
+
+7. Internal locus of control
+
+8. Reduce short term memory load
+
+a) List some of the obstacles for integrating usability in software development
+process.
+
+b) What is a mental operator in the Keystroke Level Model (KLM)? How it is
+different from physical operators?
+
+Briefly explain Cognitive walkthrough.
+
+Perform a GOMS description of a task of setting text to italics in a word
+processor (e.g. MS WORD).
+
+The table below gives the times for various operators in the keystroke-level model
+
+(KLM) (adapted from Card, Moran and Newell, 1983). Conduct a keystroke-level
+
+analysis for deleting a word in a sentence using Microsoft WORD, comparing the
+
+following two methods of performing the task: .
+
+1. Deleting each letter of the word individually using the delete key
+
+2. Highlighting the word using the mouse and then deleting the highlighted
+section in one go ,
+
+Operator _ Remarks : ; a - Time (s)
+
+K Press key ;
+good typist (90 wpm) 0.12
+poor typist (40 wpm) 0.28
+non-typist 1.20
+
+B Mouse button press
+down or up 0.10
+click 0.20
+
+P Point with mouse
+Average movement 1.10
+Fitts’ law 0.1 loge (D/S +0.5)
+
+a H Home hands to and from keyboard 0.40
+
+D Drawing - domain dependent
+
+M Mentally prepare 1.35
+
+R Response from system - measure -
+
+Times for various operators in the Keystroke-Level Model
+(adapted from Card, Moran and Newell, 1983)
+
+23
+
+(6)
+
+(6)
+(6)
+
+(6)
+--- page 3 ---
+B What is design thinking? Briefly explain the five stages ((Empathize, Define, (6) —
+Ideate, Prototype and Test) of design thinking.
+
+Q7 Write short notes on any FOUR (4) of the following:
+A Mental model (3)
+B_ Persona (3)
+C Familiarity in design (3)
+D Think aloud evaluation technique (3)
+E Ethnographic methods (3)
+F   HCI4D ; (3)
+````
+
 ## 2016-17 · Final-Exam · Sem 4 · paper 3ee5aa6e8b5e
 
 - Departments: Information Technology
@@ -4817,6 +5223,111 @@ Visual Perception
 (3)
 ````
 
+## 2015-16 · Re-Exam · Sem 3 · paper a80e8f3d04f3
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/HUMAN COMPUTER INTERACTION/Human Computer Interaction Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 89.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (IT) Year: ll Semester: III
+
+Academic Year: 2015 - 16 “ >
+TUTE OF
+J QTE Mg
+
+af wm PST mb Ye
+Subject :Human Computer Interaction Marks:10Q BL LIBR AP
+
+Time : 2.0 5.00 pm 4% ;
+Date : 02/12/2015 Durations: Nt Sigs ane A
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+Batch:2013-14
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
+3. Inall, FIVE (5) questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page
+
+6. Figure in brackets on the right hand side indicates full marks.
+
+Q1 A _ “Globalisation brings with it new issues relating to culture and ethics. With respect (10)
+to design, standard HCI guidelines may not be adequate. They need to be modified,
+extended, or restricted.” Discuss.
+
+BA data entry screen being designed displays a form consisting of a large number of (10)
+text boxes. The information to be entered will be in several categories, including
+personal details, account details and transaction information. Discuss the ways in
+which Gestalt Laws of Organization could be applied to enhance the usability of
+
+this screen.
+
+Q2 A Explain what is meant by the terms ‘gulf of execution’ and ‘ gulf of evaluation’. (10)
+Explain how both designers and users can bridge these * gulfs’ and in each case,
+provide two examples showing how this might be achieved.
+
+B_ Explain the importance of prototyping in interface design. (10)
+Q3 A__ Briefly describe the importance of writing scenarios in interface design. (10)
+B__ Discuss Shneiderman’s eight golden rules of interface design. (10)
+
+if
+--- page 2 ---
+Q4 A Discuss Norman’s seven principles of user-centred design. (10)
+
+B_ Explain MVC architecture with a diagram. How does it overcome the concerns not (10)
+addressed by Seeheim’s model.
+
+Q5 A What is HCI Pattern and what are its characteristics. Briefly discuss.
+(10)
+B Consider designing a system, for example, a word processing or a graphics
+
+package. What kind of visual feedback would you provide to include the following (10)
+states, giving reasons(s) to explain your choice using well established design
+principles and guidelines:
+
+(i) When the system is processing and can not accept any input at that time.
+
+(ii) When the system requires you to input some information in a particular
+
+form.
+
+Q6 A Youare asked to update and existing website that supports senior citizens to find 10)
+healthcare related information and resources as well as to communicate with each
+other. Describe how your design will take the diversity of users into consideration.
+
+B Identify FIVE (5) styles of interaction and for each identify TWO (2) application (10)
+types where each might be successfully utilized according to user needs and
+
+requirements.
+Q7 Write short notes on any FOUR (4) of the following:
+A Visual Perception C >)
+B Mental model C 5)
+C_ Affordances C Ss)
+D Familiarity in design CS)
+ca
+
+E Ergonomics.
+
+F Ubiquitous computing. -£ S)
+
+aR.
+````
+
 ## 2014-15 · Final-Exam · Sem 4 · paper e3890c152166
 
 - Departments: Information Technology
@@ -4934,6 +5445,264 @@ Cognitive walkthrough
 (3)
 (3)
 (3)
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper da50b452a024
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION BATCH 2013-14 RE EXAM_da50b452a0.pdf`
+- Printed on paper: max marks: 100; exam date: 03/12/2014
+- Text: ocr (2 pages), mean OCR confidence 93.7
+
+````text
+2
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) Year: II Semester: III
+Academic Year: 2014-15 Batch: 2013-14
+Subject : Human Computer Interaction
+
+Marks: 100
+Date : 03/12/2014 Time : 2.00 p
+
+Durations: 3 (
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
+3. Inall, FIVE (5) questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page
+
+6. Figure in brackets on the right hand side indicates full marks.
+
+Q1 A “Globalisation brings with it new issues relating to culture and ethics. With respect (10)
+to design, standard HCI guidelines may not be adequate. They need to be modified,
+extended, or restricted.” Discuss.
+
+B_ Mention suitable combination of I/O devices for the following scenarios. Justify the (10)
+choice of I/O devices mentioned over conventional I/O devices like key board and
+
+mouse.
+(i) Tourist information system at public places
+(ii) Word Processor for blind people
+
+Q2 A Compare and contrast Short-term Memory vs, Long-term memory with respect to (10)
+interface design. Give suitable examples.
+
+B__ Explain the importance of prototyping in interface design. (10)
+Q3 A__ The Xerox star system, introduced in the 1970’s, the concept of desktop metaphors (10)
+
+for computer interfaces. Discuss the use of metaphors in modern graphical user
+interfaces and comment critically on whether the desktop metaphor is still useful
+
+today.
+
+2
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Explain the following interaction models. And also discuss how these models assist
+
+in bridging gulf of execution and gulf of evaluation.
+(a) | Norman’s Model of Interaction
+(b) Interaction Framework by Abowd & Beale
+
+Discuss the principles of Norman’s user-centred design. Explain why these
+principles are important for system design.
+
+Discuss the importance of good design in HCI. With an example, highlight the
+problems of poor design.
+
+You are asked to update an existing website that supports senior citizens to find
+healthcare related information and resources as well as to communicate with each
+other. Describe how your design will take the diversity of users into consideration.
+
+Discuss design principles that support flexibility of use of your system mentioned
+in 5 (A).
+
+Explain Shneiderman’s eight golden rules of interface design.
+
+Explain the following styles of interaction along with their application types
+(i) Command line interface
+(ii) Menus
+(iii) Point and click
+(iv) Natural language
+
+Write short notes on any FOUR (4) of the following:
+Mental model.
+Scenarios.
+Affordances.
+Miller’s 7 +2 golden rules.
+’ Auditory perception.
+Dialog control
+
+2/2
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(8)
+
+(12)
+
+6)
+G)
+6)
+G)
+6)
+6)
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 14bd9d54bf8c
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 11/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme :MBA Tech (IT) Year:II Semester: III
+Academic Year: 2014-15
+
+Batch: 2013-14
+
+Subject :Human Computer Interaction Maj YOO ST ys 24
+
+Ti opin 5.00pm) 3 3
+
+Date : 11/06/2015 DurQyGas:3 (hrs) VEL
+Re-Examination 5 ans *
+
+a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
+3. Inall, FIVE (5) questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page
+
+6. Figure in brackets on the right hand side indicates full marks.
+
+Q1 A __ Discuss the importance of good design in HCI. With an example, highlight the (10)
+problems of poor design.
+
+B Compare and contrast Short-term Memory vs. Long-term memory with respect to (10)
+interface design. Give suitable examples. :
+
+Q2 A_ Explain what is meant by the terms ‘gulf of execution’ and ‘gulf of evaluation’. (10)
+Explain how both designers and users can bridge these ‘gulfs’ and in each case,
+provide two examples showing how this might be achieved.
+
+B__ Explain the importance of prototyping in interface design. ; (10)
+
+Q3 A__ The following terms are essential concepts when discussing HCT issues. Discuss, (10)
+with appropriate examples, what they mean, why they are important and how they
+can be applied in design.
+(i) Affordance
+(ii) Constraints
+
+B___ Discuss Norman’s seven principles of user-centred design. (10)
+
+y
+
+a
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Discuss Shneiderman’s eight golden rules of interface design.
+
+A fast food restaurant is planning to introduce a new computer system which will
+allow customers to place orders from their table. Justify the selection and rejection
+of input and output devices for the system.
+
+Briefly discuss the THREE (3) main principles to support usability
+
+You are asked to update an existing website that supports senior citizens to find
+
+healthcare related information and resources as well as to communicate with each
+other. Describe how your design will take the diversity of users into consideration.
+
+Briefly discuss (with examples) to illustrate how designers should accommodate
+for human diversity.
+What is HCI Pattern and what are its characteristics. Briefly discuss.
+
+Write short notes on any FOUR (4) of the following:
+Mental model
+
+Metaphors.
+
+Miller’s 7 + 2 golden rules.
+Ergonomics
+
+Visual Perception.
+
+Recognition and recall.
+
+x
+
+om
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(5)
+(5)
+(5)
+(6)
+6)
+(5)
 ````
 
 ## 2013-14 · Final-Exam · Sem 3 · paper 80f4e8a9dfe5
@@ -5204,367 +5973,120 @@ x
 (6)
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper da50b452a024
+## 2012-13 · Final-Exam · Trim 6 · paper 47d79ec0be7e
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION BATCH 2013-14 RE EXAM_da50b452a0.pdf`
-- Printed on paper: max marks: 100; exam date: 03/12/2014
-- Text: ocr (2 pages), mean OCR confidence 93.7
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/HUMAN COMPUTER INTERACTION/Human Computer Interaction Final 24.pdf`
+- Printed on paper: exam date: 10/5/2013
+- Text: text (2 pages)
 
 ````text
-2
+SVKM's NMIMS
+Mukesh Pate1 School of Technolow Management & Ent~ineednp; .* ,. .
+Programme: MBA (TECH)-I.T.   Year:   I1
+Academic Year : 2012-2013
+Subject:   Human Computer Interaction
+Date:   10/5/2013   Duration:
+Final - Examhation
+Instructions:
+1. Question No 1 is compulsory
+2. Out of remaining questions, attempt any 4 questions.
+3. In all, 5 questions to be attempted.
+4. All questions carry equal marks
+5. Figure to the right indicate full marks
+6. Assume suitable data wherever required
+Q1)
+a) Produce a high-level hierarchal task analysis and enhanced HTA showing how you
+would find information on a website. Assume the site has a search kcility as well as
+normal links.   (10M)
+b) What are Norman's seven principles? Apply the principles Design the sketch of a
+college websiteusing the seven principles
+'
+Q2 a) Describe with diagramthe types of architecture for implementing groupware   (]OM)
+b) What is Design Rationale? Explain the structure of gBIS in the design rationale   (1 OM)
+43) a) Explain the following dialogue design notations:   (1 OM)
+i.   STN(state-transition nets)
+ii.   JSD
+b)   Explain the importance of good design in HCI
+&
+Q4)a) Explain briefly, the various methods of evaluation in the HCI design process
+b)   Explain the process steps of Socio Technical modeling for:
+i.   Custom
+ii. OSTA
+--- page 2 ---
+Q5) a) Describe the linguistic models in cognitive framework.
+b) Explain Speech Recognition Digitization and Generation
+Q6) a) Explain the different techniques for prototyping
+b) What are web technology issues and design implications in World Wide Web (1 OM)
+47) Write Short Notes on (ANY 4):
+a) Augmented Reality
+b) Interaction Devices
+c) Challenges in Ubiquitous Computing
+d) Petri Nets
+e) UIMS
+````
 
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+## 2012-13 · Re-Exam · Trim 6 · paper 6df30c1dd7ee
 
-Programme: MBA Tech (IT) Year: II Semester: III
-Academic Year: 2014-15 Batch: 2013-14
-Subject : Human Computer Interaction
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION VI (IT) MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2013
+- Text: text (2 pages)
 
-Marks: 100
-Date : 03/12/2014 Time : 2.00 p
-
-Durations: 3 (
+````text
+- -   -   ,
+L
+Programme:
+Academic Year :2012-2013
+Batch:   2011-12
+Subject:   Human Computer Interaction   Marks:   100
+Time:   2.00 p m To 5.00pm
+Date:   27/06/2013   Duration: 3 hrs.
 Re - Examination
-
 Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
+on the cover of the Answer Book, which is provided for the use.
+1   _   -
 NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
-3. Inall, FIVE (5) questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page
-
-6. Figure in brackets on the right hand side indicates full marks.
-
-Q1 A “Globalisation brings with it new issues relating to culture and ethics. With respect (10)
-to design, standard HCI guidelines may not be adequate. They need to be modified,
-extended, or restricted.” Discuss.
-
-B_ Mention suitable combination of I/O devices for the following scenarios. Justify the (10)
-choice of I/O devices mentioned over conventional I/O devices like key board and
-
-mouse.
-(i) Tourist information system at public places
-(ii) Word Processor for blind people
-
-Q2 A Compare and contrast Short-term Memory vs, Long-term memory with respect to (10)
-interface design. Give suitable examples.
-
-B__ Explain the importance of prototyping in interface design. (10)
-Q3 A__ The Xerox star system, introduced in the 1970’s, the concept of desktop metaphors (10)
-
-for computer interfaces. Discuss the use of metaphors in modern graphical user
-interfaces and comment critically on whether the desktop metaphor is still useful
-
-today.
-
-2
+1. Attempt any FIVE questions.
+2. All questions carry equal marks.
+3. Answer to each new question should be started on a'fresh page.
+4. Figure in brackets indicate full marks.
+Q1.   Write short note on following: (any four)
+a ) PIE model.
+b) Web technology & issues.
+c) Augmented real&.
+d) Cognitive walkthfough.
+I   e) Petri net
+Q2.
+a) Draw hierarchal task analysis (HTA) diagram for ''online shopping".
+b) Explain & compare architecture for groupware systems. &
+Q3-
+a) What are Participatory Design & Ethnographic methods for capturing requirements? How
+do they differ to each other?   (10)
+b) Distinguish between principles, guidelines and standards, using examples of each to
+illustrate.   (10)
+-
+a) Explain various challenges in Ubiquitous computing.   (10)
+b) Describe GOMS (goals, operators, methods, selection) model with suitable example.(lO)
 --- page 2 ---
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-Explain the following interaction models. And also discuss how these models assist
-
-in bridging gulf of execution and gulf of evaluation.
-(a) | Norman’s Model of Interaction
-(b) Interaction Framework by Abowd & Beale
-
-Discuss the principles of Norman’s user-centred design. Explain why these
-principles are important for system design.
-
-Discuss the importance of good design in HCI. With an example, highlight the
-problems of poor design.
-
-You are asked to update an existing website that supports senior citizens to find
-healthcare related information and resources as well as to communicate with each
-other. Describe how your design will take the diversity of users into consideration.
-
-Discuss design principles that support flexibility of use of your system mentioned
-in 5 (A).
-
-Explain Shneiderman’s eight golden rules of interface design.
-
-Explain the following styles of interaction along with their application types
-(i) Command line interface
-(ii) Menus
-(iii) Point and click
-(iv) Natural language
-
-Write short notes on any FOUR (4) of the following:
-Mental model.
-Scenarios.
-Affordances.
-Miller’s 7 +2 golden rules.
-’ Auditory perception.
-Dialog control
-
-2/2
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(8)
-
-(12)
-
-6)
-G)
-6)
-G)
-6)
-6)
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 14bd9d54bf8c
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 11/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme :MBA Tech (IT) Year:II Semester: III
-Academic Year: 2014-15
-
-Batch: 2013-14
-
-Subject :Human Computer Interaction Maj YOO ST ys 24
-
-Ti opin 5.00pm) 3 3
-
-Date : 11/06/2015 DurQyGas:3 (hrs) VEL
-Re-Examination 5 ans *
-
-a
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
-3. Inall, FIVE (5) questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page
-
-6. Figure in brackets on the right hand side indicates full marks.
-
-Q1 A __ Discuss the importance of good design in HCI. With an example, highlight the (10)
-problems of poor design.
-
-B Compare and contrast Short-term Memory vs. Long-term memory with respect to (10)
-interface design. Give suitable examples. :
-
-Q2 A_ Explain what is meant by the terms ‘gulf of execution’ and ‘gulf of evaluation’. (10)
-Explain how both designers and users can bridge these ‘gulfs’ and in each case,
-provide two examples showing how this might be achieved.
-
-B__ Explain the importance of prototyping in interface design. ; (10)
-
-Q3 A__ The following terms are essential concepts when discussing HCT issues. Discuss, (10)
-with appropriate examples, what they mean, why they are important and how they
-can be applied in design.
-(i) Affordance
-(ii) Constraints
-
-B___ Discuss Norman’s seven principles of user-centred design. (10)
-
-y
-
-a
---- page 2 ---
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-Discuss Shneiderman’s eight golden rules of interface design.
-
-A fast food restaurant is planning to introduce a new computer system which will
-allow customers to place orders from their table. Justify the selection and rejection
-of input and output devices for the system.
-
-Briefly discuss the THREE (3) main principles to support usability
-
-You are asked to update an existing website that supports senior citizens to find
-
-healthcare related information and resources as well as to communicate with each
-other. Describe how your design will take the diversity of users into consideration.
-
-Briefly discuss (with examples) to illustrate how designers should accommodate
-for human diversity.
-What is HCI Pattern and what are its characteristics. Briefly discuss.
-
-Write short notes on any FOUR (4) of the following:
-Mental model
-
-Metaphors.
-
-Miller’s 7 + 2 golden rules.
-Ergonomics
-
-Visual Perception.
-
-Recognition and recall.
-
-x
-
-om
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(5)
-(5)
-(5)
-(6)
-6)
-(5)
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper a80e8f3d04f3
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/HUMAN COMPUTER INTERACTION/Human Computer Interaction Batch 2013-14 Re Exam.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 89.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (IT) Year: ll Semester: III
-
-Academic Year: 2015 - 16 “ >
-TUTE OF
-J QTE Mg
-
-af wm PST mb Ye
-Subject :Human Computer Interaction Marks:10Q BL LIBR AP
-
-Time : 2.0 5.00 pm 4% ;
-Date : 02/12/2015 Durations: Nt Sigs ane A
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-Batch:2013-14
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
-3. Inall, FIVE (5) questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page
-
-6. Figure in brackets on the right hand side indicates full marks.
-
-Q1 A _ “Globalisation brings with it new issues relating to culture and ethics. With respect (10)
-to design, standard HCI guidelines may not be adequate. They need to be modified,
-extended, or restricted.” Discuss.
-
-BA data entry screen being designed displays a form consisting of a large number of (10)
-text boxes. The information to be entered will be in several categories, including
-personal details, account details and transaction information. Discuss the ways in
-which Gestalt Laws of Organization could be applied to enhance the usability of
-
-this screen.
-
-Q2 A Explain what is meant by the terms ‘gulf of execution’ and ‘ gulf of evaluation’. (10)
-Explain how both designers and users can bridge these * gulfs’ and in each case,
-provide two examples showing how this might be achieved.
-
-B_ Explain the importance of prototyping in interface design. (10)
-Q3 A__ Briefly describe the importance of writing scenarios in interface design. (10)
-B__ Discuss Shneiderman’s eight golden rules of interface design. (10)
-
-if
---- page 2 ---
-Q4 A Discuss Norman’s seven principles of user-centred design. (10)
-
-B_ Explain MVC architecture with a diagram. How does it overcome the concerns not (10)
-addressed by Seeheim’s model.
-
-Q5 A What is HCI Pattern and what are its characteristics. Briefly discuss.
-(10)
-B Consider designing a system, for example, a word processing or a graphics
-
-package. What kind of visual feedback would you provide to include the following (10)
-states, giving reasons(s) to explain your choice using well established design
-principles and guidelines:
-
-(i) When the system is processing and can not accept any input at that time.
-
-(ii) When the system requires you to input some information in a particular
-
-form.
-
-Q6 A Youare asked to update and existing website that supports senior citizens to find 10)
-healthcare related information and resources as well as to communicate with each
-other. Describe how your design will take the diversity of users into consideration.
-
-B Identify FIVE (5) styles of interaction and for each identify TWO (2) application (10)
-types where each might be successfully utilized according to user needs and
-
-requirements.
-Q7 Write short notes on any FOUR (4) of the following:
-A Visual Perception C >)
-B Mental model C 5)
-C_ Affordances C Ss)
-D Familiarity in design CS)
-ca
-
-E Ergonomics.
-
-F Ubiquitous computing. -£ S)
-
-aR.
+Q5.
+a) Explain Linguistic models with suitable example.   (10)
+b) Mention suitable combination of input & output devices for following scenarios. Justify
+the choice of UO devices mentioned over conventional J/O devices like keyboard, mouse
+and CRT screen
+i) Word processor for blind people
+ii) Tourist information system at public places   (10)
+Q6.
+a) Describe briefly five different interaction styles used to accommodate interaction
+between user &computer.   (10)
+b) Explain Usability Engineering, giving an example. List & explain in brief someIS0
+standards for usability.   (10)
+Q7.
+a) What are the factors governing the choice of an appropriate evaluation technique for
+different interactive systems? Give brief details.   (10)
+b) Explain different approaches of prototyping.   (10)
 ````
 
 ## 2012-13 · Re-Exam · Trim 6 · paper 3afac7e4eb96
@@ -5777,146 +6299,104 @@ Web technology & issues.
 Virtuai reality.
 ````
 
-## 2011-12 · Re-Exam · Trim 6 · paper 6df30c1dd7ee
+## 2011-12 · Exam not stated · Trim 6 · paper b661899f9cc4
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION VI (IT) MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2013
-- Text: text (2 pages)
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/HUMAN COMPUTER INTERACTION/scan0008(6).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/09/2012
+- Text: ocr (2 pages), mean OCR confidence 88.0
 
 ````text
-- -   -   ,
-L
-Programme:
-Academic Year :2012-2013
-Batch:   2011-12
-Subject:   Human Computer Interaction   Marks:   100
-Time:   2.00 p m To 5.00pm
-Date:   27/06/2013   Duration: 3 hrs.
-Re - Examination
+SVKM’s NMIMS “ Ne,
+Mukesh Patel School of Technology Management & Enginee SVKANS AWwek
+Programme: MBA-Tech (I.T) Year: = It Trimester: VI fF( xmiv~ Lnversiy A\
+Academic Year : 2011-2012 manne oe ET
+Batch: 2011-2012 Ee ae =) |
+Subject: Human Computer Interaction Marks: 100 %o ‘ x
+ca Se aie
+Time: 3.00 pmX& we
+Date: 12/09/2012 Duration: 3 hrs. ~
+
+Special Re-Examination
+
 Instructions: Candidates should read carefully the instructions printed on the question paper and
 on the cover of the Answer Book, which is provided for the use.
-1   _   -
+
+- . cet eS a,
+
 NB:
-1. Attempt any FIVE questions.
-2. All questions carry equal marks.
-3. Answer to each new question should be started on a'fresh page.
-4. Figure in brackets indicate full marks.
-Q1.   Write short note on following: (any four)
-a ) PIE model.
-b) Web technology & issues.
-c) Augmented real&.
-d) Cognitive walkthfough.
-I   e) Petri net
+1. Question No.1 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. Inall FIVE questions to be attempted.
+4, All questions carry equal marks. ;
+5. Answer to each new question should be started on a fresh page.
+6. Figure in brackets indicate full marks.
+
+Ql.
+
+a) What input & output devices would you use for the following systems? Justify your
+i choice of devices for each scenario and indicate why conventional I/O devices (if not
+} indicated) will be less suitable : (attempt any two) (10)
+i) Portable word processor
+ii) Tourist information system (at public place)
+iii) Word processor for blind people
+b) Differentiate between Interface & Interaction. Write features of a “good interaction
+
+design”. (10)
 Q2.
-a) Draw hierarchal task analysis (HTA) diagram for ''online shopping".
-b) Explain & compare architecture for groupware systems. &
-Q3-
-a) What are Participatory Design & Ethnographic methods for capturing requirements? How
-do they differ to each other?   (10)
-b) Distinguish between principles, guidelines and standards, using examples of each to
-illustrate.   (10)
--
-a) Explain various challenges in Ubiquitous computing.   (10)
-b) Describe GOMS (goals, operators, methods, selection) model with suitable example.(lO)
+a) Draw & explain life cycle for interactive systems. (10)
+b) Explain golden rule of design for human computer interaction. (10)
+‘ Q3. F “
+@) Describe briefly five different interaction styles used to accommodate the dialog between
+user & computer. (10)
+b) Explain Usability engineering giving an example. What the problems associated with it?
+(10)
+Q4.
+a) Explain GOMS. Create a GOMS description of the task of ‘photocopying a paper from
+the journal’. (10)
+b) Explain Linguistic models. (10)
 --- page 2 ---
-Q5.
-a) Explain Linguistic models with suitable example.   (10)
-b) Mention suitable combination of input & output devices for following scenarios. Justify
-the choice of UO devices mentioned over conventional J/O devices like keyboard, mouse
-and CRT screen
-i) Word processor for blind people
-ii) Tourist information system at public places   (10)
-Q6.
-a) Describe briefly five different interaction styles used to accommodate interaction
-between user &computer.   (10)
-b) Explain Usability Engineering, giving an example. List & explain in brief someIS0
-standards for usability.   (10)
+QS.
+
+Qo.
+
 Q7.
-a) What are the factors governing the choice of an appropriate evaluation technique for
-different interactive systems? Give brief details.   (10)
-b) Explain different approaches of prototyping.   (10)
+
+a)
+
+b)
+
+a)
+b)
+
+a)
+b)
+¢)
+d)
+e)
+
+q
+
+What are Participatory Design & Ethnographic methods for capturing requirements? How
+do they differ to each other? (10)
+Explain different approaches for prototyping. (10)
+Create a text based HTA & Enhanced HTA for “making a telephone call”. (10)
+Explain architectures for Groupware systems. (10)
+Write short note on following: (any four) (20)
+PIE model. :
+Cognitive architectures.
+
+ETHICS
+
+Web technology & issues.
+
+Virtual reality.
+
+}
 ````
 
-## 2010-11 · Exam not stated · Trim 6 · paper e99280f3aae0
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERATION BACTH 2010-2011.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/06/2011
-- Text: ocr (1 page), mean OCR confidence 88.8
-
-````text
-\ Za
-
-SVKM’s NMIMS |
-
-Mukesh Patel School of Technology Management & Engineerin
-Programme: MBA TECH -1.T Year: II Trimester: VI
-
-Academic Year : 2010-2011
-
-Batch: 2010-2011
-Subject: Human Computer Interation Marks: 100
-
-Time: 2.00 pm To 5.00 pm
-Date: 29/06/2011 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions : Candidates should read carefully the instructions printed on
-the question paper and on cover of the Answer Book which provided for
-their use.
-
-NB:
-
-1 Attempt any five questions.
-
-2 All question carry equal marks.
-
-3 Answer to each new question to be started on a fresh page.
-
-Qa Write detailed notes on any two 20
-a) —_ Issues in Groupware
-b) — Challenges in Ubiquitous Computing
-c) Augmented reality
-
-Q.2 Choose suitable combination of i/o devices to best support the intended interactions 20
-for the following scenarios. Identify typical users and classes of users. Explain the
-\ major problems that the input & output devices solve
-} a) Word processor for blind people
-b) — Environmental database
-
-Q.3a) Explain interaction styles with a suitable design example. 10
-Q.3 b) Design & sketch a website for an Examination Department of a college using 10
-Norman’s seven principles.
-
-Q.4 a) — Explain QOC (Question, option, criteria) design rationale using an example to 10
-illustrate. ‘
-
-Q.4 b) Write a detailed note on — UIMS (User Interface Management System) 10
-
-Q.5a) Explain Linguistic models with suitable examples. ~ 10
-
-Q.5 b) Describe GOMS (goal, operators, methods, selection) model with suitable 10
-examples.
-
-Q.6a) — Write briefly on — Dialog Design Notations 10
-
-Q.6 b) Draw HTA (Hierarchical Task Analysis) diagram for preparing your result mark 10
-sheet. (GPA sheet)
-
-Q.7a) Explain the PIE model with an example to illustrate. 10
-
-Q.7b) — Explain the concept - rich contexts in designing 10
-
-a
-
-ys
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper 4e6d370fc1bb
+## 2010-11 · Exam not stated · Trim 6 · paper 4e6d370fc1bb
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
@@ -6021,559 +6501,79 @@ design rationale as process or structure oriented? Why?
 [10]
 ````
 
-## Year not stated · Exam not stated · Trim 6 · paper b661899f9cc4
+## 2010-11 · Exam not stated · Trim 6 · paper e99280f3aae0
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/HUMAN COMPUTER INTERACTION/scan0008(6).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/09/2012
-- Text: ocr (2 pages), mean OCR confidence 88.0
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERATION BACTH 2010-2011.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/06/2011
+- Text: ocr (1 page), mean OCR confidence 88.8
 
 ````text
-SVKM’s NMIMS “ Ne,
-Mukesh Patel School of Technology Management & Enginee SVKANS AWwek
-Programme: MBA-Tech (I.T) Year: = It Trimester: VI fF( xmiv~ Lnversiy A\
-Academic Year : 2011-2012 manne oe ET
-Batch: 2011-2012 Ee ae =) |
-Subject: Human Computer Interaction Marks: 100 %o ‘ x
-ca Se aie
-Time: 3.00 pmX& we
-Date: 12/09/2012 Duration: 3 hrs. ~
+\ Za
 
-Special Re-Examination
+SVKM’s NMIMS |
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for the use.
+Mukesh Patel School of Technology Management & Engineerin
+Programme: MBA TECH -1.T Year: II Trimester: VI
 
-- . cet eS a,
+Academic Year : 2010-2011
+
+Batch: 2010-2011
+Subject: Human Computer Interation Marks: 100
+
+Time: 2.00 pm To 5.00 pm
+Date: 29/06/2011 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions : Candidates should read carefully the instructions printed on
+the question paper and on cover of the Answer Book which provided for
+their use.
 
 NB:
-1. Question No.1 is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. Inall FIVE questions to be attempted.
-4, All questions carry equal marks. ;
-5. Answer to each new question should be started on a fresh page.
-6. Figure in brackets indicate full marks.
 
-Ql.
+1 Attempt any five questions.
 
-a) What input & output devices would you use for the following systems? Justify your
-i choice of devices for each scenario and indicate why conventional I/O devices (if not
-} indicated) will be less suitable : (attempt any two) (10)
-i) Portable word processor
-ii) Tourist information system (at public place)
-iii) Word processor for blind people
-b) Differentiate between Interface & Interaction. Write features of a “good interaction
+2 All question carry equal marks.
 
-design”. (10)
-Q2.
-a) Draw & explain life cycle for interactive systems. (10)
-b) Explain golden rule of design for human computer interaction. (10)
-‘ Q3. F “
-@) Describe briefly five different interaction styles used to accommodate the dialog between
-user & computer. (10)
-b) Explain Usability engineering giving an example. What the problems associated with it?
-(10)
-Q4.
-a) Explain GOMS. Create a GOMS description of the task of ‘photocopying a paper from
-the journal’. (10)
-b) Explain Linguistic models. (10)
---- page 2 ---
-QS.
+3 Answer to each new question to be started on a fresh page.
 
-Qo.
+Qa Write detailed notes on any two 20
+a) —_ Issues in Groupware
+b) — Challenges in Ubiquitous Computing
+c) Augmented reality
 
-Q7.
+Q.2 Choose suitable combination of i/o devices to best support the intended interactions 20
+for the following scenarios. Identify typical users and classes of users. Explain the
+\ major problems that the input & output devices solve
+} a) Word processor for blind people
+b) — Environmental database
 
-a)
+Q.3a) Explain interaction styles with a suitable design example. 10
+Q.3 b) Design & sketch a website for an Examination Department of a college using 10
+Norman’s seven principles.
 
-b)
+Q.4 a) — Explain QOC (Question, option, criteria) design rationale using an example to 10
+illustrate. ‘
 
-a)
-b)
+Q.4 b) Write a detailed note on — UIMS (User Interface Management System) 10
 
-a)
-b)
-¢)
-d)
-e)
+Q.5a) Explain Linguistic models with suitable examples. ~ 10
 
-q
+Q.5 b) Describe GOMS (goal, operators, methods, selection) model with suitable 10
+examples.
 
-What are Participatory Design & Ethnographic methods for capturing requirements? How
-do they differ to each other? (10)
-Explain different approaches for prototyping. (10)
-Create a text based HTA & Enhanced HTA for “making a telephone call”. (10)
-Explain architectures for Groupware systems. (10)
-Write short note on following: (any four) (20)
-PIE model. :
-Cognitive architectures.
+Q.6a) — Write briefly on — Dialog Design Notations 10
 
-ETHICS
+Q.6 b) Draw HTA (Hierarchical Task Analysis) diagram for preparing your result mark 10
+sheet. (GPA sheet)
 
-Web technology & issues.
+Q.7a) Explain the PIE model with an example to illustrate. 10
 
-Virtual reality.
+Q.7b) — Explain the concept - rich contexts in designing 10
 
-}
-````
+a
 
-## Year not stated · Exam not stated · Sem 6 · paper 727b75534d01
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/HUMAN COMPUTER INTERACTION/Human Computer Interaction.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 79.6
-
-````text
-Comp .
-
-SVKM’S NMIMS
-
-RENOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-|
-
-: Program/s: B.Tech /MBA Tech ; ; - Year: Wi Semester: VI
-‘Stream/s ; Computer Engg. /Computer Engg / Computer Science 3 . . i
-Subject: Human Computer Interaction Ee Time: 03 hrs (2idopmto 5 :00pr)
-Date: 3 /S~ 12024 bk, othe . : a No. of Pages: 03
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the > question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any _4 }_quesiions.
-
-3) In all_5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started oma fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-
-Answer briefly: ‘ [20] .
-| a. | What input and output devices would you use for the following system? Justify your
-CO-1; answer. Indicaté why the conventional keyboard, mouse and CRT screen may be less
-SO-2; , :
-BL-1 suitable.
-
-System: Interactive Learning System for Children
-
-CO-4; | b. | Propose a design for a wearable gadget encouraging daily physical activity. Describe | [5]
-SO- 7; a ; ;
-
-BL-4 its main features, user interaction methods, and anticipated challenges in creation.
-
-C03; Je] [5]
-S02; Differentiate between UI and UX.
-
-BL-1 wise =
-
-CO-2; | d. | How does the integration of ergonomic principles influence the Human-Computer | [5]
-eh Interface (HCI)?
-
-Q
-
-[20]
-
-11/3
---- page 2 ---
-“| Imagine you. are designing a new social media application. Users c can post updates,
-‘| share photos, and ¢onnect with friends. Apply Shneiderman's Eight Golden Rules of
-
-oa Interface Design. to address potential usability. issues in the following scenario. A user [10]
-BL-3 ‘|< | is trying t to post a status update’ but encounters difficulty in finding the option to add a
-photo to their post. Additionally, after “posting, the npeate, a realize they made a
-typo and want to’ puttges it.
-CO-1;. |b.) erie ged tye gO ; a
-pate ‘| teh Ghats the elk interaction design basics with diagram’ [10]
-13 .
-° [20]
-: hod sd State gestalt principles. Design a webpage for e-library using any five gestalt
-La _ ~ a | LILO]
-SO-2; principles. Incorporate the gulf of execution and evaluation into your design. justify.
-BL-5 : to : 4
-CO-2; b ; aye a% : Fi ? ;
-SO-6; Evaluate the interface of a calorie intake tracker app utilizing Nielsen's heuristics. [10]
-BL-3 . . , tet . 3
-4 :
-° (20)
-
-CO-1; | a | List and elaborate on the analysis tools utilized in User-Centered Design
-
-SO-2; methodologies. ° / [10]
-BL-1 : ;
-CO-4; Tb
-SO-2; Describe the Voice User Interface (VUI)? How Does a Voice Interface Work? [5]
-BL-2 a ates . . . : ‘
-COT |C] oe oye wee “
-&4; Describe thé design considerations for an online attendance marking system. [5]
-rae, Develop a persona for a student who desires to monitor their daily attendance. ;
-
-5
-° [20)
-coz: |? You are tasked with designing a new e-commerce website. Perform a Hierarchical
-80-6; Task Analysis (HTA) for the process of making a purchase on the website. Provide a | [10]
-
-4 . P ; :
-
-BL detailed breakdown of the hierarchical tasks involved.
-co » 'b. | What is human memory model explain in brief and discuss how the concepts-of
-S0-2; sensory memory and short-term memory relate to Human-Computer Interaction [10]
-BL-1 oe -
-
-(HCI)
-
-213
---- page 3 ---
-6 * aw
-° cwt| [20]
-scree Discuss qualitative research analysis techniques, using a concrete example to. (io) ;
-BL3: demonstrate their application. s, i
-ee Describe the collaborative roles and responsibilities of UI and UX designers in the roy
-BL2 design process of a game application. - Bo jer
-‘7
-° [20]
-cO-2: You are tasked with designing a new email client application. Apply and write ‘
-¢ 0-6; GOMS (Goals, Operators, Methods, and Selection rules) analysis to improve ‘the [8]
-L-4 : ; ;
-| efficiency of composing and sending an email within the application.
-CO-3; : ;
-SO-6; Illustrate how do the elements of UX contribute to improving UI design? [6]
-BL-2 ’ : .
-; Choose an appropriate evaluation method for the following situation. In each-case
-C0-2: identify (i) The participants. (ii) The method used. (iii) Hypothesis (iv)Representative
-S0-6; tasks to be examined. (v) variables (vi) Test for carrying out the evaluation. [6]
-BL-5 oa ‘i
-A movie ticket booking application improves user accessibility and efficiency by
-simplifying the process of reserving seats for a show
-~
-
-3/3
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper d55c7f393000
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/HUMAN COMPUTER INTERACTION/Human computer Interaction_d55c7f3930.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program/s: B Tech/MBA Tech Year: 3rd__ Semester: VI
-Stream/s ; Computer Engineering
-
-Subject: Human Computer Interaction Time: _3hrs (2:00pm__to_5:00pm)
-Date:__02_ / 05 /23 i No. of Pages: 2
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of:the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all, 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1
-% Answer briefly: [14/20]
-a. Today’s youth is spending most of their time on social media, which may
-create adverse effect on their lives. To limit such activities, some software
-Ee S0-6; should be added on so that they can get idea about time spent and | [5]
-accordingly limit the surfing on social media. Consider this situation and
-write persona for above situation.
-ee b. Write a detailed note on Components in HCI. How input and output devices
-= 1; S0-2; [5]
-BL-1 make impact on HCI.
-re sont Create HTA sketch for “Making a Tea “. [5]
-d. Distinguish between Quantitative and Qualitative Research methods in
-CO-2 ; $0-2; [5]
-BL-4 designing.
-Q2 vy) Compare good and bad interface design. [10]
-€0-1,2; 80-1; | 2) . . . .
-BL-2 What is GOMS model? Create GOMS script for “sending email message”. [10]
-Q3 1) Relate how ergonomics affects users-computer interaction. Illustrate with | [10]
-CO-2; SO-2;
-
-pres pictorial sketch.
---- page 2 ---
-2) Explain in detail common interaction styles? [10]
-
-1 Relate between UI and UX. What challenges UI designer faces while
-aa ee a [10]
-designing interaction?
-CO-3,4; SO-3;
-BL-4 2) os ; _ . i ; [10]
-Explain Nielsen’s Heuristics 10 Usability Principles To Improve UI Design
-1) Explain what are the different designing aspects required for designing
-Q5 wearable devices. Design any one wearable design according to your [10]
-CO-2,4; SO-4; innovation.
-BL-3 [10]
-2) Elaborate 8 Golden Rules of User Interface Design with example.
-1) Draw and explain interaction design basics process
-2) Choose an appropriate evaluation method for the following situation. In
-each case identify
-(i) The participants. [10]
-Os (ii) The technique used.
-he som (iii) Representative tasks to be examined.
-(iv) Measurements that would be appropriate. [10]
-(v) An outline plan for carrying out the evaluation.
-Situation: You have designed and implemented a new game system and
-want to evaluate it before release.
-Evaluate the following terms in context of HCI -
-a) Norman’s 7 principle
-Q7
-CO-2,3; SO-3; b) Memory model pel
-
-BL-S
-
-c) Types of Qualitative analysis
-
-d) Participatory Design
-````
-
-## Year not stated · Final-Exam · Sem 8 · paper 03d6e75468fc
-
-- Departments: Information Technology
-- Programmes: B TECH / IT
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION B TECH (IT),1 6-17 FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 May 2017
-- Text: ocr (3 pages), mean OCR confidence 88.3
-
-````text
-SVKM’s NMIMS mT
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI ig may .
-“
-a)
-
-Programme: B. Tech (IT) Year: IV Semester: VIII a “Ps are <A
-a ZiBR
-/ Academic Year: 2016-2017 \ 3 Cae
-*
-Subject: Human Computer Interaction NET
-Marks: 60
-Date: 09 May 2017 : Time: 2.00 pm to 5.00 pm
-; Durations: 3 (hrs)
-No. of Pages:
-
-Final-Examinations
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any FOUR (4) questions.
-
-3) In all FIVE (5) questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi A __ Discuss the importance and benefits of good design in HCI. With an example, (6)
-highlight the problems of poor design.
-
-B You have designed and implemented a new game system for teenagers and want (6)
-to evaluate it with users before release. —
-Choose an appropriate evaluation method for this scenario giving proper
-justification. In your answer, highlight the study participants, iexaikicil technique,
-tasks to carry out, measurement and an outline plan.
-
-Q2 A _ Discuss the ways in which Gestalt Laws of Organization could be applied to (6)
-enhance the usability of websites.
-
-B_ What are affordances and constraints in design? How designers can use them (6)
-effectively in design? Provide examples.
-
-Q3 A__ Explain the different prototyping techniques used in HCI. In which stages of the design (6)
-cycle these are used and why?
-
-ail
-B What do the THREE (3) generic usability principles — Learnability, Flexibility and (6)
-a Robustness imply? How can you apply these generic principles for building a
-mobile application? Provide an example to each of the principle to justify your
-answer.
-
-Q4 A Schneiderman’s eight golden rules of interface design (as given below) is used in (6)
-many IT companies for designing their products.
-
-/3
---- page 2 ---
-Q5
-
-Q6
-
-A
-
-A
-
-With an example, briefly explain each rule.
-8 golden rules:
-1. Consistency
-
-2. Shortcuts
-3. Feedback
-4. Closure
-
-5. Error prevention and error handling
-6. Easy reversal of actions
-
-7. Internal locus of control
-
-8. Reduce short term memory load
-
-a) List some of the obstacles for integrating usability in software development
-process.
-
-b) What is a mental operator in the Keystroke Level Model (KLM)? How it is
-different from physical operators?
-
-Briefly explain Cognitive walkthrough.
-
-Perform a GOMS description of a task of setting text to italics in a word
-processor (e.g. MS WORD).
-
-The table below gives the times for various operators in the keystroke-level model
-
-(KLM) (adapted from Card, Moran and Newell, 1983). Conduct a keystroke-level
-
-analysis for deleting a word in a sentence using Microsoft WORD, comparing the
-
-following two methods of performing the task: .
-
-1. Deleting each letter of the word individually using the delete key
-
-2. Highlighting the word using the mouse and then deleting the highlighted
-section in one go ,
-
-Operator _ Remarks : ; a - Time (s)
-
-K Press key ;
-good typist (90 wpm) 0.12
-poor typist (40 wpm) 0.28
-non-typist 1.20
-
-B Mouse button press
-down or up 0.10
-click 0.20
-
-P Point with mouse
-Average movement 1.10
-Fitts’ law 0.1 loge (D/S +0.5)
-
-a H Home hands to and from keyboard 0.40
-
-D Drawing - domain dependent
-
-M Mentally prepare 1.35
-
-R Response from system - measure -
-
-Times for various operators in the Keystroke-Level Model
-(adapted from Card, Moran and Newell, 1983)
-
-23
-
-(6)
-
-(6)
-(6)
-
-(6)
---- page 3 ---
-B What is design thinking? Briefly explain the five stages ((Empathize, Define, (6) —
-Ideate, Prototype and Test) of design thinking.
-
-Q7 Write short notes on any FOUR (4) of the following:
-A Mental model (3)
-B_ Persona (3)
-C Familiarity in design (3)
-D Think aloud evaluation technique (3)
-E Ethnographic methods (3)
-F   HCI4D ; (3)
-````
-
-## Year not stated · Final-Exam · Trim 6 · paper 47d79ec0be7e
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/HUMAN COMPUTER INTERACTION/Human Computer Interaction Final 24.pdf`
-- Printed on paper: exam date: 10/5/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technolow Management & Ent~ineednp; .* ,. .
-Programme: MBA (TECH)-I.T.   Year:   I1
-Academic Year : 2012-2013
-Subject:   Human Computer Interaction
-Date:   10/5/2013   Duration:
-Final - Examhation
-Instructions:
-1. Question No 1 is compulsory
-2. Out of remaining questions, attempt any 4 questions.
-3. In all, 5 questions to be attempted.
-4. All questions carry equal marks
-5. Figure to the right indicate full marks
-6. Assume suitable data wherever required
-Q1)
-a) Produce a high-level hierarchal task analysis and enhanced HTA showing how you
-would find information on a website. Assume the site has a search kcility as well as
-normal links.   (10M)
-b) What are Norman's seven principles? Apply the principles Design the sketch of a
-college websiteusing the seven principles
-'
-Q2 a) Describe with diagramthe types of architecture for implementing groupware   (]OM)
-b) What is Design Rationale? Explain the structure of gBIS in the design rationale   (1 OM)
-43) a) Explain the following dialogue design notations:   (1 OM)
-i.   STN(state-transition nets)
-ii.   JSD
-b)   Explain the importance of good design in HCI
-&
-Q4)a) Explain briefly, the various methods of evaluation in the HCI design process
-b)   Explain the process steps of Socio Technical modeling for:
-i.   Custom
-ii. OSTA
---- page 2 ---
-Q5) a) Describe the linguistic models in cognitive framework.
-b) Explain Speech Recognition Digitization and Generation
-Q6) a) Explain the different techniques for prototyping
-b) What are web technology issues and design implications in World Wide Web (1 OM)
-47) Write Short Notes on (ANY 4):
-a) Augmented Reality
-b) Interaction Devices
-c) Challenges in Ubiquitous Computing
-d) Petri Nets
-e) UIMS
+ys
 ````

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech_AI_7051/Data Mining and Analytics/QP_Data Mining and Analytics(703TM0E013)_2025-2026.pdf` (+3 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (8 pages), mean OCR confidence 85.5
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -192,7 +193,6 @@ Resaaroh Direoter
 Node? Node S Nodes Node 10
 Category % 5 Category % 2 Category % o Category % a
 SNe O27 120 Ne 93.3 750 B Ne $33 =Ne e75 175
-Yas 173 27 Yes 87 54 Byes 307 54 mYes 425 __25
 Total 10.0 156 Total 55.1 610 Teta! 100 147 Total 436 200
 
 MStatus
@@ -507,7 +507,6 @@ d) How would you classify Employee with following values? Also mention probabili
 
 Attrition
 Total lial Mont Environme
-Overti | worki Anan hly JobRole nt Marital
 me ng - P Incom Satisfactio | Status(Mstatus)
 years e n
 Feature worked
@@ -517,7 +516,6 @@ Value e
 e) How would you classify Employee with following values? Also mention probability of
 Attrition
 Total — Mont Environme
-Overti | worki Gao hly JobRole nt Marital
 me ng ma P Incom Satisfactio | Status(Mstatus}
 years e n
 Feature worked
@@ -650,6 +648,7 @@ Pererrer rT errr
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/DATA MINING AND ANALYTICS/Data Mining & Analytics, Final Exam 2024-25.pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (12 pages), mean OCR confidence 82.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -911,7 +910,6 @@ in 24
 
 4
 
-T T T T T T T T T
 4 2 3 4 5 6 7 8 a
 
 Component Number
@@ -1362,7 +1360,6 @@ cons.conf.idx -36.4
 euribor3m 4.86
 nr.employed 5000
 
-2 oe oe 8 fe ot os 2 os 2s 9 oe oe ok ok oe ok 2B 2K 2k ke
 ````
 
 ## 2023-24 · Final-Exam · Sem 9 · paper b72d477202a4
@@ -1371,6 +1368,7 @@ nr.employed 5000
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/DATA MINING AND ANALYTICS/Data Mining & Analytics , Final 2023-2024.pdf`
 - Text: ocr (8 pages), mean OCR confidence 83.6
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 fo SVIKM’s NMIMS
@@ -1779,7 +1777,6 @@ ets 4000 444 1073
 H
 State ;
 Improvement-0,008 ‘
-NCR; MADHYAPRADESH; UTTAR Kamataka; HARYANA; WEST
 PRADESH; KERALA: Gujarat BENGAL; MADHYA PRADESH;
 TAMILNADU; Assam; PUNJAB Maharashtra
 Node 4 Node2
@@ -1799,8 +1796,6 @@ Total 48.9182 Total 248 521 | Total 137 334] | Total 15.8 362
 | 4 | H
 City City
 Improvement=0.004 Improvement=0.040
-CALICUT; CHENNAI; Guwahati NEWDELHI; NOIDA; INDORE; INDORE; MATHURA; CALICUT; NEWDELHI; NOIDA; AHMEDABAD;
-MATHURA; AHMEDABAD; CHENNAI; Guwahati VARANASI; JALANDHAR; LUDHIANA
 ‘VARANASI; JALANDHAR; LUDHIANA
 Node 7 Nodes Node @ Node 10
 Category % Category % 0 Category % on Categoy % on
@@ -2052,6 +2047,7 @@ Sho. |_| What is differencing explain with exampie. [5M]
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/DATA MINING AND ANALYTICS/Data Mining & Analytics,Final,2022-23.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 20 December 2022
 - Text: ocr (7 pages), mean OCR confidence 78.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -2293,7 +2289,6 @@ Improvement=0.017 Improvement=0.007 \
 Node 3 Node 4 Node S Node @
 Categoy % on Category % on Category % in Category % a
 TNo 204 24 BNo 772 268| |@No 670 69 No 018 685
-Wyes 698 48 Byes 228 70! |MYes 33.020 Yes a4 81
 Total 4769 Total 22.8 347] | Total 6.0 88 Total 65.7 088
 a I El
 JobRole ‘ NumCompaniesWonked
@@ -2492,7 +2487,6 @@ would be your prediction for this employee?
 
 7m
 
-2 Sk Ro ok 2k ao ok oi a oe ok ok
 
 +7
 ````
@@ -3024,6 +3018,62 @@ regression. : (3+3)
 22
 ````
 
+## 2017-18 · Exam not stated · Sem 9 · paper 7ddb58b50303
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/DATA MINING AND ANALYTICS/Data mining & Analytics 2016-17 (All stream).pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 28 May 2018
+- Text: ocr (1 page), mean OCR confidence 94.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAM ) Year: V Semester : IX
+Academic Year: 2017-2018
+
+Subject: Data Mining And Analytics
+. Marks:60
+Date: 28 May 2018 Time: 02.00 pm to 04.00 pm
+Durations: 2 (hrs)
+No. of Pages :
+Re-examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘suitable data if necessary.
+
+QI. (a) (i) Applications of data mining with appropriate examples. ; (6 Marks)
+
+(ii) Explain the intuition behind R-square and adjusted R-square.
+
+QI. (b) Difference between bagging and boosting. (6 Marks)
+Q2. (a) Explain k-means clustering with any one application. (6 Marks)
+Q2. (b) What are different resampling techniques? Explain any two in short. (6 Marks)
+Q3. (a) Explain the parameters for choosing the optimal model on basis of adjusting the training error. (6 Marks)
+Q3. (b) Explain types of linkages in hierarchical clustering. (6 Marks)
+Q4. (a) Explain bootstrap and its application in short. (6 Marks)
+Q4. (b) What are iannarumdteis methods? Explain any one in detail. (6 Marks)
+QS. (a) What is over fitting? Explain techniques to avoid over fitting in decision trees. (6 Marks)
+Q5. (b) Explain supervised and unsupervised learning in detail. (6 Marks)
+Q6. Explain different subset/feature selection techniques in detail. (12 Marks)
+
+Yt
+````
+
 ## 2017-18 · Final-Exam · Sem 9 · paper 05d492c7872b
 
 - Departments: Common (all branches)
@@ -3102,162 +3152,7 @@ o   5   .10   15   20
 Number of Variables
 ````
 
-## 2016-17 · Exam not stated · Sem 9 · paper 7ddb58b50303
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/DATA MINING AND ANALYTICS/Data mining & Analytics 2016-17 (All stream).pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 28 May 2018
-- Text: ocr (1 page), mean OCR confidence 94.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAM ) Year: V Semester : IX
-Academic Year: 2017-2018
-
-Subject: Data Mining And Analytics
-. Marks:60
-Date: 28 May 2018 Time: 02.00 pm to 04.00 pm
-Durations: 2 (hrs)
-No. of Pages :
-Re-examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ‘suitable data if necessary.
-
-QI. (a) (i) Applications of data mining with appropriate examples. ; (6 Marks)
-
-(ii) Explain the intuition behind R-square and adjusted R-square.
-
-QI. (b) Difference between bagging and boosting. (6 Marks)
-Q2. (a) Explain k-means clustering with any one application. (6 Marks)
-Q2. (b) What are different resampling techniques? Explain any two in short. (6 Marks)
-Q3. (a) Explain the parameters for choosing the optimal model on basis of adjusting the training error. (6 Marks)
-Q3. (b) Explain types of linkages in hierarchical clustering. (6 Marks)
-Q4. (a) Explain bootstrap and its application in short. (6 Marks)
-Q4. (b) What are iannarumdteis methods? Explain any one in detail. (6 Marks)
-QS. (a) What is over fitting? Explain techniques to avoid over fitting in decision trees. (6 Marks)
-Q5. (b) Explain supervised and unsupervised learning in detail. (6 Marks)
-Q6. Explain different subset/feature selection techniques in detail. (12 Marks)
-
-Yt
-````
-
-## 2016-17 · Final-Exam · Sem 9 · paper 4eabfb835fe5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/DATA MINING AND ANALYTICS/Data Mining and Analytics Batch 2016-17 Final.pdf`
-- Printed on paper: exam date: 14 December 2016
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: V
-
-Semester: IX
-Academic Year: 2016-17
-
-Subject: Data Mining and Analytics »
-pmytomt. WEpin -
-Date:14 December 2016. ; . Dur&tions: 22. Hire
-
-Final Examination Vu
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Qla What is dimension reduction in Data Mining? Explain its importance. (2
-
-Qlb What is principal component analysis method? Explain the four methods when you should stop carrying
-out further analysis.
-
-Q2 Explain the difference between the sequential sums of squares and the partial sums of squares. For which
-procedures do we need these statistics? \2.
-
-Q3 Make up a set of three records, each with two numeric predictor variables and one categorical target
-variable, so that the classification would not change regardless of the value of k. {2
-
-Q4 Discuss the benefits and drawbacks of a binary tree versus a bushier tree. (2
-"Consider the data in Table 1. The target variable is salary. Start by discretizing salary as follows:
-
-a. Less than $35,000 Level 1
-
-b. $35,000 to less than $45,000 Level 2
-ce. $45,000 to less than $55,000 Level 3
-d. Above $55,000 Level 4
-
-4}2
---- page 2 ---
-TABLE 1 Decision tree data
-
-Occupation Gender Age Salary
-Service Female 45 $48,000
-Male 25 $25,000
-Male 33 $35,000
-Management Male 25 $45,000
-Female 35 $65,000
-Male 26 $45,000
-Female 45 $70,000
-Sales Female 40 $50,000
-Male 30 $40,000
-Staff Female 50 $40,000
-Male 25 $25,00
-
-Q5 Discuss the use of predictors that turn out to be non-significant in estimating the response. When might this
-
-be appropriate, if at all? Why would this not be appropriate in general? (2
-
-(2
-
-Q6a What is an intuitive idea for the meaning of the centroid of a cluster?
-
-Q6b. Suppose that we have the following data:
-a b c d e f g h i j
-(2,0) (1,2) (2,2) G.2) (2,3) 3,3) (2,4) (3,4) (4,4) 3,5)
-Identify the cluster by applying the k-means algorithm, with k = 2. Try using initial cluster centers as far apart
-as possible.
-
-(2
-
-Q7a State the three steps of the bagging algorithm.
-
-Q7b How does bagging contribute to a reduction in the prediction error?
-
-Q7c What is a downside of using bagging?
-````
-
-## 2016-17 · Re-Exam · Sem 9 · paper f149e2bb8c57
+## 2017-18 · Re-Exam · Sem 9 · paper f149e2bb8c57
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -3413,4 +3308,103 @@ Table 1 Records
 Construct a classification and regression tree to classify salary based on the other variables. Do as much
 as you can by hand.   ./
 -
+````
+
+## 2016-17 · Final-Exam · Sem 9 · paper 4eabfb835fe5
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/DATA MINING AND ANALYTICS/Data Mining and Analytics Batch 2016-17 Final.pdf`
+- Printed on paper: exam date: 14 December 2016
+- Text: ocr (2 pages), mean OCR confidence 92.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: V
+
+Semester: IX
+Academic Year: 2016-17
+
+Subject: Data Mining and Analytics »
+pmytomt. WEpin -
+Date:14 December 2016. ; . Dur&tions: 22. Hire
+
+Final Examination Vu
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Qla What is dimension reduction in Data Mining? Explain its importance. (2
+
+Qlb What is principal component analysis method? Explain the four methods when you should stop carrying
+out further analysis.
+
+Q2 Explain the difference between the sequential sums of squares and the partial sums of squares. For which
+procedures do we need these statistics? \2.
+
+Q3 Make up a set of three records, each with two numeric predictor variables and one categorical target
+variable, so that the classification would not change regardless of the value of k. {2
+
+Q4 Discuss the benefits and drawbacks of a binary tree versus a bushier tree. (2
+"Consider the data in Table 1. The target variable is salary. Start by discretizing salary as follows:
+
+a. Less than $35,000 Level 1
+
+b. $35,000 to less than $45,000 Level 2
+ce. $45,000 to less than $55,000 Level 3
+d. Above $55,000 Level 4
+
+4}2
+--- page 2 ---
+TABLE 1 Decision tree data
+
+Occupation Gender Age Salary
+Service Female 45 $48,000
+Male 25 $25,000
+Male 33 $35,000
+Management Male 25 $45,000
+Female 35 $65,000
+Male 26 $45,000
+Female 45 $70,000
+Sales Female 40 $50,000
+Male 30 $40,000
+Staff Female 50 $40,000
+Male 25 $25,00
+
+Q5 Discuss the use of predictors that turn out to be non-significant in estimating the response. When might this
+
+be appropriate, if at all? Why would this not be appropriate in general? (2
+
+(2
+
+Q6a What is an intuitive idea for the meaning of the centroid of a cluster?
+
+Q6b. Suppose that we have the following data:
+(2,0) (1,2) (2,2) G.2) (2,3) 3,3) (2,4) (3,4) (4,4) 3,5)
+Identify the cluster by applying the k-means algorithm, with k = 2. Try using initial cluster centers as far apart
+as possible.
+
+(2
+
+Q7a State the three steps of the bagging algorithm.
+
+Q7b How does bagging contribute to a reduction in the prediction error?
+
+Q7c What is a downside of using bagging?
 ````

@@ -1128,6 +1128,101 @@ components for a residential building project.
 ********** 2 **********
 ````
 
+## 2023-24 · Exam not stated · Sem 10 · paper f84d09d76d92
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/SUSTAINABLE BUSINESS MANAGEMENT PRACTICES/Sustainable Business Management Practices.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 87.1
+
+````text
+SVKM’S NMIMS \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS Ef
+
+SCHOOL OF TECHNOLOGY MANAGEMENT a
+Academic Year: 2023-2024 :
+Program/s: MBA Tech Year: V Semester: X
+Stream/s ; All Streams :.
+Subject: Sustainable Business Management Practices Time: 2 hrs (iozopanto!2new)
+Date:_30 / 4 / 2024 No. of Pages: 2
+Marks: 50
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql ,
+Discuss briefly the following: [10 Marks]
+
+CO-1; a. ;
+
+BL- Carbon Credits Business [4 Marks]
+understand : :
+
+CO-1,3; b. | Differentiate between primary and secondary stakeholders in a business
+
+BL- oo . [4 Marks]
+
+@ understand situation with examples. ;
+
+CO-2,3;
+BL- : [2 Marks]
+understand | & Sustainable Development Goals (any two).
+Q2 Answer the following questions: ; [10 Marks]
+CO-1,2; a. | Discuss the following statement, with a suitable example “integrating
+
+BL- sustainability initiatives throughout the value chain, impact a [5 Marks]
+understand company's competitive advantage and overall performance”.
+CO-3: b. | Discuss the United Nations Global Compact self-assessment tool. [5 Marks]
+--- page 2 ---
+BL-
+
+understand
+Q3 i Lo
+Answer the following question: [10 marks]
+CO-1,2; . . . rar. :
+BL- Describe with suitable examples the initiatives to harness sustainable
+understarid energies (any two types) in global context.
+Q4 Answer the following questions: ; [10 marks]
+a. | Describe the concept of 'End-of-pipe' within the framework of
+CO-1,2; Pe PIP [5 Marks]
+BL-apply environmental discussions.
+b. | Compare and Contrast the Triple Bottom line Concept and Corporate
+
+CO-1,3; np P P . [5 Marks]
+BL-analyse Social Responsibility.
+Q5 Answer the following question: [10 marks]
+CO-2; ' .
+BL- Analyze and evaluate advanced energy-efficient technologies
+understand, associated with the Residential sector.
+apply °
+Q6 Answer the following question: {10 Marks]
+CO-2; BL- Explain product stewardship, in context of product sustainability
+understand framework.
+Q7 . .
+
+; Answer the following question: [10 Marks]
+CO-2,3; Discuss briefly with a suitable example, how businesses should
+BL- respond to the ESG challenge with respect to (a). Key environmental,
+understand, social and governance issues. (b).Stakeholders influence on corporate
+apply ESG performance.
+````
+
 ## 2023-24 · Re-Exam · Sem 10 · paper 2a4b4b030b0d
 
 - Departments: Common (all branches)
@@ -1226,6 +1321,157 @@ e (a) ESG risks and opportunities.
 
 understand, . : 7
 apply e (b) Environmental Social and Governance issues.
+````
+
+## 2017-18 · Re-Exam · Sem 8 · paper 4d8351c84303
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/SUSTAINABLE BUSINESS MANAGEMENT PRACTICES/Sustainable Business Management Practices 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 18 April 2018
+- Text: ocr (1 page), mean OCR confidence 90.2
+
+````text
+OF Ng»,
+penne
+{PST wa : ia
+
+SVKM’s NMIMS fl di
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ndigoaaot' , ‘
+
+Programme: MBA Tech ( All Streams) Year: IV esteem” Y
+
+Academic Year: 2017-2018
+Subject: Sustainable Business Management Practices
+
+Marks: 60°
+
+Date: 18 April 2018 - Time: 2.00 pm — 4.00 pm:
+Durations: 2 Hrs.
+No. of Pages: __ ©
+
+Re-Examination (2016-17):
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the tight hand side indicate full marks.
+
+|. Explain with a suitable example the transition stages of companies to adapt to changes in
+business environment in-order to incorporate sustainable practices. (12 marks)
+
+2. Discuss the role of stakeholder theory to manage the issues of stakeholders. (12 Marks)
+
+3. Explain the importance of Life Cycle Analysis as a tool in environmental management with
+suitable examples(12 Marks)
+
+4. Discuss any four of the sustainable development goals and explain how it can affect
+corporate sustainability using relevant examples. (12 Marks)
+
+5. Discuss the business case for CSR, also discuss the contemporary drivers for CSR. (12
+Marks)
+
+6. Discuss in detail Climate change and Carbon credits business with suitable examples. (12
+
+marks).
+
+y)
+````
+
+## 2017-18 · Re-Exam · Sem 8 · paper 0fc77f6842c5
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/SUSTAINABLE BUSINESS MANAGEMENT PRACTICES/Sustainable_business_Management_practices_2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 04 July 2018
+- Text: ocr (2 pages), mean OCR confidence 95.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+
+Batch: 2016-17 °
+
+Academic Year: 2017-2018
+
+Subject: Sustainable Business Management Practices
+Marks: 60
+Date: 04 July 2018 ° Time: 2.00 pm - 4.00 pm
+‘ Durations: 2 Hrs.
+No. of Pages : ol
+Re-Examination -
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .suitable data if necessary.
+
+Q.1. Steel industry uses large amount of water and discharges wastewater in proportion. Waste water contains SS,
+lubrication oils, and several toxic substances and several toxic substances. There are seven major integrated iron and
+steel plants in India, out of which five are under the Steel Authority of India Ltd. (SAIL). The total world annual
+production of steel is 715.4 million tonnes of which India contributes 14.5 million tonnes. In India, on an average
+each tonne of steel production consumes 25 to 60 cubic meters of water and 4 to 5 tonnes of other raw materials. It
+may be noted that in developed countries the water consumption for each tonne of steel production varies from 3
+to 6 cubic meters, i.e., 8 to 10 times less than that of water consumption in India.
+
+In an Integrated lron & Steel Industry, wastewater generated from-Coke Oven By-product Plant is considered to be
+the most polluting. This wastewater contains toxic. This wastewater contains toxic chemicals like phenol, cyanide
+and ammonia, which are harmful to the receiving water bodies when discharged untreated/partially treated. This
+large amount of release of toxic waste is detrimental to ecosystem.
+
+Questions:
+
+a. Analyze the situation keeping in view the significant contribution of India in Steel production to world
+annual production
+
+b. Suggest recommendations to Government of India to contain the extent of damage to Ecosystem
+
+c. Discuss various provisions under legal system to contain water pollution. (12 Marks)
+
+1 Vb
+--- page 2 ---
+Q.2 Write short notes on any TWO of the following (2*6 Marks=12Marks)
+a. Kyoto Protocol
+
+b. Biomass energy
+
+c. Ecological foot print
+
+Q.3. Explain the concept of Environmental Audits. Discuss various Regulatory Instruments available for Environment
+Management. (12 Marks)
+
+Q.4. What are the various important aspects to develop a frame work for CSR? Analyze any TWO models CSR in the
+back drop of Globalization. (12 Marks)
+
+Q.5.Explain the concept of Triple Bottom Line with relevant examples. What are the various issues in the
+implementation of Triple Bottom Line. (12 Marks)
+
+Q.6. What is Green Marketing? Discuss relevance of Green Marketing in Environmental Management: (12 Marks)
+
+Q.7. Discuss the concept Business Ethics in the background various frauds which are detrimental to economic
+growth of our country. (12 Marks)
 ````
 
 ## 2016-17 · Final-Exam · Sem 8 · paper 17240043cc8a
@@ -1399,70 +1645,6 @@ Page 2 of 2
 ~
 ````
 
-## 2016-17 · Re-Exam · Sem 8 · paper 4d8351c84303
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/SUSTAINABLE BUSINESS MANAGEMENT PRACTICES/Sustainable Business Management Practices 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 18 April 2018
-- Text: ocr (1 page), mean OCR confidence 90.2
-
-````text
-OF Ng»,
-penne
-{PST wa : ia
-
-SVKM’s NMIMS fl di
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ndigoaaot' , ‘
-
-Programme: MBA Tech ( All Streams) Year: IV esteem” Y
-
-Academic Year: 2017-2018
-Subject: Sustainable Business Management Practices
-
-Marks: 60°
-
-Date: 18 April 2018 - Time: 2.00 pm — 4.00 pm:
-Durations: 2 Hrs.
-No. of Pages: __ ©
-
-Re-Examination (2016-17):
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the tight hand side indicate full marks.
-
-|. Explain with a suitable example the transition stages of companies to adapt to changes in
-business environment in-order to incorporate sustainable practices. (12 marks)
-
-2. Discuss the role of stakeholder theory to manage the issues of stakeholders. (12 Marks)
-
-3. Explain the importance of Life Cycle Analysis as a tool in environmental management with
-suitable examples(12 Marks)
-
-4. Discuss any four of the sustainable development goals and explain how it can affect
-corporate sustainability using relevant examples. (12 Marks)
-
-5. Discuss the business case for CSR, also discuss the contemporary drivers for CSR. (12
-Marks)
-
-6. Discuss in detail Climate change and Carbon credits business with suitable examples. (12
-
-marks).
-
-y)
-````
-
 ## 2016-17 · Re-Exam · Sem 8 · paper c99fe788dd7f
 
 - Departments: Common (all branches)
@@ -1529,93 +1711,6 @@ b. Cleaner Technologies and its role in sustainable business practices
 c. Caroll’s pyramid of CSR
 
 : TY,
-````
-
-## 2016-17 · Re-Exam · Sem 8 · paper 0fc77f6842c5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/SUSTAINABLE BUSINESS MANAGEMENT PRACTICES/Sustainable_business_Management_practices_2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 04 July 2018
-- Text: ocr (2 pages), mean OCR confidence 95.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-
-Batch: 2016-17 °
-
-Academic Year: 2017-2018
-
-Subject: Sustainable Business Management Practices
-Marks: 60
-Date: 04 July 2018 ° Time: 2.00 pm - 4.00 pm
-‘ Durations: 2 Hrs.
-No. of Pages : ol
-Re-Examination -
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume .suitable data if necessary.
-
-Q.1. Steel industry uses large amount of water and discharges wastewater in proportion. Waste water contains SS,
-lubrication oils, and several toxic substances and several toxic substances. There are seven major integrated iron and
-steel plants in India, out of which five are under the Steel Authority of India Ltd. (SAIL). The total world annual
-production of steel is 715.4 million tonnes of which India contributes 14.5 million tonnes. In India, on an average
-each tonne of steel production consumes 25 to 60 cubic meters of water and 4 to 5 tonnes of other raw materials. It
-may be noted that in developed countries the water consumption for each tonne of steel production varies from 3
-to 6 cubic meters, i.e., 8 to 10 times less than that of water consumption in India.
-
-In an Integrated lron & Steel Industry, wastewater generated from-Coke Oven By-product Plant is considered to be
-the most polluting. This wastewater contains toxic. This wastewater contains toxic chemicals like phenol, cyanide
-and ammonia, which are harmful to the receiving water bodies when discharged untreated/partially treated. This
-large amount of release of toxic waste is detrimental to ecosystem.
-
-Questions:
-
-a. Analyze the situation keeping in view the significant contribution of India in Steel production to world
-annual production
-
-b. Suggest recommendations to Government of India to contain the extent of damage to Ecosystem
-
-c. Discuss various provisions under legal system to contain water pollution. (12 Marks)
-
-1 Vb
---- page 2 ---
-Q.2 Write short notes on any TWO of the following (2*6 Marks=12Marks)
-a. Kyoto Protocol
-
-b. Biomass energy
-
-c. Ecological foot print
-
-Q.3. Explain the concept of Environmental Audits. Discuss various Regulatory Instruments available for Environment
-Management. (12 Marks)
-
-Q.4. What are the various important aspects to develop a frame work for CSR? Analyze any TWO models CSR in the
-back drop of Globalization. (12 Marks)
-
-Q.5.Explain the concept of Triple Bottom Line with relevant examples. What are the various issues in the
-implementation of Triple Bottom Line. (12 Marks)
-
-Q.6. What is Green Marketing? Discuss relevance of Green Marketing in Environmental Management: (12 Marks)
-
-Q.7. Discuss the concept Business Ethics in the background various frauds which are detrimental to economic
-growth of our country. (12 Marks)
 ````
 
 ## 2016-17 · Re-Exam · Sem 10 · paper 9ade71b9cbc5
@@ -1688,99 +1783,4 @@ c) Cleaner Technologies as an Environmental Management Strategy
 Marks
 
 Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper f84d09d76d92
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/SUSTAINABLE BUSINESS MANAGEMENT PRACTICES/Sustainable Business Management Practices.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 87.1
-
-````text
-SVKM’S NMIMS \
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS Ef
-
-SCHOOL OF TECHNOLOGY MANAGEMENT a
-Academic Year: 2023-2024 :
-Program/s: MBA Tech Year: V Semester: X
-Stream/s ; All Streams :.
-Subject: Sustainable Business Management Practices Time: 2 hrs (iozopanto!2new)
-Date:_30 / 4 / 2024 No. of Pages: 2
-Marks: 50
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql ,
-Discuss briefly the following: [10 Marks]
-
-CO-1; a. ;
-
-BL- Carbon Credits Business [4 Marks]
-understand : :
-
-CO-1,3; b. | Differentiate between primary and secondary stakeholders in a business
-
-BL- oo . [4 Marks]
-
-@ understand situation with examples. ;
-
-CO-2,3;
-BL- : [2 Marks]
-understand | & Sustainable Development Goals (any two).
-Q2 Answer the following questions: ; [10 Marks]
-CO-1,2; a. | Discuss the following statement, with a suitable example “integrating
-
-BL- sustainability initiatives throughout the value chain, impact a [5 Marks]
-understand company's competitive advantage and overall performance”.
-CO-3: b. | Discuss the United Nations Global Compact self-assessment tool. [5 Marks]
---- page 2 ---
-BL-
-
-understand
-Q3 i Lo
-Answer the following question: [10 marks]
-CO-1,2; . . . rar. :
-BL- Describe with suitable examples the initiatives to harness sustainable
-understarid energies (any two types) in global context.
-Q4 Answer the following questions: ; [10 marks]
-a. | Describe the concept of 'End-of-pipe' within the framework of
-CO-1,2; Pe PIP [5 Marks]
-BL-apply environmental discussions.
-b. | Compare and Contrast the Triple Bottom line Concept and Corporate
-
-CO-1,3; np P P . [5 Marks]
-BL-analyse Social Responsibility.
-Q5 Answer the following question: [10 marks]
-CO-2; ' .
-BL- Analyze and evaluate advanced energy-efficient technologies
-understand, associated with the Residential sector.
-apply °
-Q6 Answer the following question: {10 Marks]
-CO-2; BL- Explain product stewardship, in context of product sustainability
-understand framework.
-Q7 . .
-
-; Answer the following question: [10 Marks]
-CO-2,3; Discuss briefly with a suitable example, how businesses should
-BL- respond to the ESG challenge with respect to (a). Key environmental,
-understand, social and governance issues. (b).Stakeholders influence on corporate
-apply ESG performance.
 ````

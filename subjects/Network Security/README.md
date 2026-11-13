@@ -15,10 +15,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | — | Question paper | Sem 5 | B TECH / CSE CYBER SECURITY | Network Security, Sem-V, Year 2025-26.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_Network Security(702IT0C014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech CyberSecurity 7010 | QP_Network Security(702IT0C014)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_Network Security(702IT0C014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_Network Security(702IT0C014)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech CyberSecurity 7010 | QP_Network Security(702IT0C014)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_Network Security(702IT0C014)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B TECH / CSE DATA SCIENCE | Network Security, Sem-V, Final Exam 2024-25 & Re Exam 2023-24 (2).pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / CSE CYBER SECURITY | Network Security, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / CSE CYBER SECURITY | Network Security, Sem-V, Final Exam, A Y 2023-24.pdf |

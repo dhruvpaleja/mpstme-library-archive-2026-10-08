@@ -14,14 +14,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechanical 7003 | ANS_Total Quality Management(702ME0E021)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Total Quality Management(702MH0E014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 11 | Integrated Mechanical 7031 | ANS_Total Quality Management(702ME0E021)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / MECHANICAL | B Tech (MECH), Total Quality Management, , Sem-VII, Year 2025-2026 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7, Sem 11 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Total Quality Management 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Mechanical 7003 | QP_Total Quality Management(702ME0E021)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_Total Quality Management(702MH0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 11 | Integrated Mechanical 7031 | QP_Total Quality Management(702ME0E021)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechanical 7003 | ANS_Total Quality Management(702ME0E021)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Total Quality Management(702MH0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 11 | Integrated Mechanical 7031 | ANS_Total Quality Management(702ME0E021)_2025-2026.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / MECHANICAL | Total Quality Management Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / MECHANICAL | Total Quality Mangement Batch 2023-24 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 7 | B TECH / MECHANICAL | Total Quality Management, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf |

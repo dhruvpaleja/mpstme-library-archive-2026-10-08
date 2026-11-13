@@ -1,6 +1,6 @@
 # Project Appraisal and Financing: question papers in full
 
-24 unique papers · 2024-25 to 2025-26 · Computer Engineering, Mechanical, Information Technology, Common (all branches), Artificial Intelligence, Data Science, Chemical
+24 unique papers · 2022-23 to 2025-26 · Computer Engineering, Mechanical, Information Technology, Common (all branches), Artificial Intelligence, Data Science, Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1479,7 +1479,153 @@ value and the standard deviation of net present value assuming that r = 11 %.
 ********** 3 **********
 ````
 
-## Year not stated · Exam not stated · Sem 10 · paper 648e53dd9fae
+## 2023-24 · Exam not stated · Sem 10 · paper 7d069b24865e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Project Appraisal and Financing/Project Appraisal and Financing_7d069b2486.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (3 pages), mean OCR confidence 91.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+M tam
+
+|GINEERING/
+
+Academic Year: 2023-2024 ee
+Program/s: MBA Tech Year: V Semester: X
+Stream/s : All streams 7
+Subject: Project Appraisal and Financing Time: 02 hrs (10:00am to l2ncon_)
+Date:_27 / 4/2024 No. of Pages: 03
+
+Marks: 50
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 __ questions.
+3) Inall___5__ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql.
+Answer briefly: [10]
+CO-1;SO-; | a.
+BL- Explain the concept : Financial Closure (02)
+Understand #
+CO-1;SO-; | b.
+a | BL Differentiate BOOT and BOO Projects . (03)
+Understand
+CO-2;SO-; | c. What are Eurocurrency Loans (02)
+BL- Apply
+d. Vishwa Oil is planning drill oil in East Coast basin. The cost of drilling a 400 metre well is Rs
+40 million. The probability of getting oil at that depth is 0.5. If oil is struck, the present value
+CO- 2; SO- ; of oil obtained will be Rs.60 million. If the well turns out to be dry, Magna can drill another | (03)
+Bl- Apply 500 metres at a cost of Rs.50 million. If it does so, the probability of striking oil at 1000 metres
+is 0.5 and the present value of oil obtained will be Rs.110 million. Draw the decision tree.
+Q2
+
+Why is PPP model adopted for most Infrastructure projects? Elaborate on the structure of
+CO-13 SO-; : [10]
+BL- PPP projects and the benefits derived from PPP projects
+
+Understand
+
+Page [04,3
+--- page 2 ---
+Q3 a Write a note on Export Credit Schemes 3 [05]
+rr
+CO-1; SO-; 5 -
+BL- What are the various reasons for failure of Projects [05]
+Understand
+GenZee Limited is planning to set up an automobile manufacturing plant. The expected
+outlays and proposed financing during the construction and the first operating year are shown
+below :
+Construction period I Operating Year
+1/4/2023-3 1/03/24 1/4/2024-3 1/03/25
+(Rs in Million ) (Rs in Million )
+Outlays
+Land 2000 - cy
+Buildings 1000 -
+Plant & machinery 500 -
+Current assets (other than cash) - 500
+Total 3500 500
+Financing
+Equity capital . 2500
+Term loan 2000 500
+Total 4500 500
+Q4
+The following information is available:
+CO-2; SO-; [10]
+BL-Apply a. The term loan will carry an interest of 10% p.a. The term loan financing of Rs 500
+Million in the first operating period will occur right in the beginning of that year.
+b. The expected revenues and cost of sales (excluding depreciation, other amortization,
+and interest) for the first operating year are Rs 2000 and Rs 500 Million respectively.
+>
+
+c. The depreciation rates for company law purposes will be as follows:
+Building: 5% ; Plant and machinery: 10%
+There will be no income tax liability for the first operating year.
+
+Prepare the Projected Income Statement for the year 2024-25 and Projected Cash Flow
+Statement for the years 2023-24 and 2024-25
+
+fogea of 3
+
+"
+--- page 3 ---
+i
+
+Q5 Lakozy Automotive Ltd is considering the replacement of one of its machines. The existing
+
+CO-3: SO-: machine is in good operating condition, but is smaller than required if the firm is to expand its
+BL- operations. It is 4 years old, has a current salvage value of Rs 3,00,000.The machine is being
+Evaluate depreciated at 10% on the basis of written down value method.
+
+The new machine will cost Rs 20,00,000 and will be subject to the same method as well as the
+same rate of depreciation. It is expected to have a useful life of 4 years, with Rs 8,00,000 of
+salvage value at the end of its life. The management anticipates that with the expanded [10]
+operations, there will be a need of an additional net working capital of Rs 2,00,000 lakh. The
+new machine will allow the firm to expand current operations and thereby increase annual
+revenues by Rs 10,00,000; Annual Fixed Operating costs (excluding depreciation) are likely
+to increase by Rs 2,00,000 . The corporate tax rate is 35 per cent. Its cost of capital is 10 per
+cent. The company has several machines in the block of 10% per cent depreciation. Should
+
+the company replace its existing machine?
+
+Star Infra Ltd has a target Capital Structure of Equity at 40% and Debt at 60%. The Before
+
+Q6 Cost of funds from various sources are as follows:
+Equity Ke Debt Kd
+CO-2; SO-; Up to 30 Crore 20% Up to 30 Crore 10%
+BL- Apply 30 — 60 Crore 22% 30 — 60 Crore 11%
+More than 60 Crore 24% More than 60 Crore 12%
+. . . . __ | [10]
+If Star infra Ltd wishes to raise Rs 120 Crore for financing its investment project? Tax rate is
+40%. What would be the Marginal Cost of capital
+A project.involving an outlay of Rs 25 lakhs has the following benefits associated with it.
+Year 1 Year 2
+Q7 Cash Flow Cash Flow
+Probability Probability
+CO-2; SO-; Rs in Lakhs Rs in Lakhs [10]
+BL- Apply 5 0.3 6 0.3
+10 0.5 12 0.4
+15 0.2 15 0.3
+
+Assume that the cash flows are independent. Calculate the expected net present value and the
+standard deviation of net present value assuming that r= 10 %.
+
+Toge 2 oO 3
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper 648e53dd9fae
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1654,153 +1800,7 @@ Q7 .Write short notes on any 3 of the following, with specific reference to risk
 10 Marks
 ````
 
-## Year not stated · Exam not stated · Sem 10 · paper 7d069b24865e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Project Appraisal and Financing/Project Appraisal and Financing_7d069b2486.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (3 pages), mean OCR confidence 91.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-M tam
-
-|GINEERING/
-
-Academic Year: 2023-2024 ee
-Program/s: MBA Tech Year: V Semester: X
-Stream/s : All streams 7
-Subject: Project Appraisal and Financing Time: 02 hrs (10:00am to l2ncon_)
-Date:_27 / 4/2024 No. of Pages: 03
-
-Marks: 50
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 __ questions.
-3) Inall___5__ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql.
-Answer briefly: [10]
-CO-1;SO-; | a.
-BL- Explain the concept : Financial Closure (02)
-Understand #
-CO-1;SO-; | b.
-a | BL Differentiate BOOT and BOO Projects . (03)
-Understand
-CO-2;SO-; | c. What are Eurocurrency Loans (02)
-BL- Apply
-d. Vishwa Oil is planning drill oil in East Coast basin. The cost of drilling a 400 metre well is Rs
-40 million. The probability of getting oil at that depth is 0.5. If oil is struck, the present value
-CO- 2; SO- ; of oil obtained will be Rs.60 million. If the well turns out to be dry, Magna can drill another | (03)
-Bl- Apply 500 metres at a cost of Rs.50 million. If it does so, the probability of striking oil at 1000 metres
-is 0.5 and the present value of oil obtained will be Rs.110 million. Draw the decision tree.
-Q2
-
-Why is PPP model adopted for most Infrastructure projects? Elaborate on the structure of
-CO-13 SO-; : [10]
-BL- PPP projects and the benefits derived from PPP projects
-
-Understand
-
-Page [04,3
---- page 2 ---
-Q3 a Write a note on Export Credit Schemes 3 [05]
-rr
-CO-1; SO-; 5 -
-BL- What are the various reasons for failure of Projects [05]
-Understand
-GenZee Limited is planning to set up an automobile manufacturing plant. The expected
-outlays and proposed financing during the construction and the first operating year are shown
-below :
-Construction period I Operating Year
-1/4/2023-3 1/03/24 1/4/2024-3 1/03/25
-(Rs in Million ) (Rs in Million )
-Outlays
-Land 2000 - cy
-Buildings 1000 -
-Plant & machinery 500 -
-Current assets (other than cash) - 500
-Total 3500 500
-Financing
-Equity capital . 2500
-Term loan 2000 500
-Total 4500 500
-Q4
-The following information is available:
-CO-2; SO-; [10]
-BL-Apply a. The term loan will carry an interest of 10% p.a. The term loan financing of Rs 500
-Million in the first operating period will occur right in the beginning of that year.
-b. The expected revenues and cost of sales (excluding depreciation, other amortization,
-and interest) for the first operating year are Rs 2000 and Rs 500 Million respectively.
->
-
-c. The depreciation rates for company law purposes will be as follows:
-Building: 5% ; Plant and machinery: 10%
-There will be no income tax liability for the first operating year.
-
-Prepare the Projected Income Statement for the year 2024-25 and Projected Cash Flow
-Statement for the years 2023-24 and 2024-25
-
-fogea of 3
-
-"
---- page 3 ---
-i
-
-Q5 Lakozy Automotive Ltd is considering the replacement of one of its machines. The existing
-
-CO-3: SO-: machine is in good operating condition, but is smaller than required if the firm is to expand its
-BL- operations. It is 4 years old, has a current salvage value of Rs 3,00,000.The machine is being
-Evaluate depreciated at 10% on the basis of written down value method.
-
-The new machine will cost Rs 20,00,000 and will be subject to the same method as well as the
-same rate of depreciation. It is expected to have a useful life of 4 years, with Rs 8,00,000 of
-salvage value at the end of its life. The management anticipates that with the expanded [10]
-operations, there will be a need of an additional net working capital of Rs 2,00,000 lakh. The
-new machine will allow the firm to expand current operations and thereby increase annual
-revenues by Rs 10,00,000; Annual Fixed Operating costs (excluding depreciation) are likely
-to increase by Rs 2,00,000 . The corporate tax rate is 35 per cent. Its cost of capital is 10 per
-cent. The company has several machines in the block of 10% per cent depreciation. Should
-
-the company replace its existing machine?
-
-Star Infra Ltd has a target Capital Structure of Equity at 40% and Debt at 60%. The Before
-
-Q6 Cost of funds from various sources are as follows:
-Equity Ke Debt Kd
-CO-2; SO-; Up to 30 Crore 20% Up to 30 Crore 10%
-BL- Apply 30 — 60 Crore 22% 30 — 60 Crore 11%
-More than 60 Crore 24% More than 60 Crore 12%
-. . . . __ | [10]
-If Star infra Ltd wishes to raise Rs 120 Crore for financing its investment project? Tax rate is
-40%. What would be the Marginal Cost of capital
-A project.involving an outlay of Rs 25 lakhs has the following benefits associated with it.
-Year 1 Year 2
-Q7 Cash Flow Cash Flow
-Probability Probability
-CO-2; SO-; Rs in Lakhs Rs in Lakhs [10]
-BL- Apply 5 0.3 6 0.3
-10 0.5 12 0.4
-15 0.2 15 0.3
-
-Assume that the cash flows are independent. Calculate the expected net present value and the
-standard deviation of net present value assuming that r= 10 %.
-
-Toge 2 oO 3
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper bd8ba4c88e30
+## 2022-23 · Exam not stated · Sem 10 · paper bd8ba4c88e30
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH

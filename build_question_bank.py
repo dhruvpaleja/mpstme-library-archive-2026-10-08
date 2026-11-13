@@ -35,6 +35,7 @@ BANK_DIR = HERE / 'question_bank'
 TEXT_CACHE = BANK_DIR / 'extracted_text'          # 16 gzipped JSONL shards
 OCR_DPI = 200
 MAX_OCR_PIXELS = 3600            # longest side of a rendered page
+LOW_OCR_CONFIDENCE = 60          # mean Tesseract confidence below this: handwritten or a poor scan
 MIN_TEXT_LETTERS = 80            # fewer letters than this on a PDF page means it is a scan -> OCR
 
 # ============================================================================ text extraction (worker side)
@@ -368,15 +369,16 @@ TAGS = [
     ('so', re.compile(r'\b[SP]\s?[O0]\s?[-–.:]?\s?([\dlI](?:\s*[,&]\s*\d)*)\b[\s;,:]*')),
 ]
 QUESTION_START = re.compile(       # OCR reads "Q1" as "Ql"/"QI" and "Q5" as "QS"
-    r'^(?:Q(?:ue(?:stion|s)?)?\s*\.?\s*(?:No\.?\s*)?|Q\s*)(\d{1,2}|[lIS](?=[\s.):]|$))\s*[.):\-]?\s*(.*)$', re.I)
+    r'^(?:Q(?:ue(?:stion|s)?)?\s*\.?\s*(?:No\.?\s*)?|Q\s*)(\d{1,2}|[lIS](?=[\s.):]|$)|(?:I{2,3}|IV|VI{0,3}|IX|XI{0,2}|V)(?=[\s.):]|$))'
+    r'\s*[.):\-]?\s*(.*)$', re.I)
 NUMBER_START = re.compile(r'^(\d{1,2})(?:\s*[.)]\s+|\s+(?=[A-Z(\[]))(\S.*)$')   # "1. Explain", "2) ...", "3 (a) ..."
 SUBQUESTION_START = re.compile(r'^(\d{1,2})\s*\)\s*(.*)$')          # "1)" inside "Q2 Attempt any 4"
 QPART_START = re.compile(r'^(?:Q\.?\s*)?(\d{1,2})\.?\(?([a-hA-H])\)?[\s._):]+(.*)$')   # "1.a", "1b", "2(a)", "Q3a"
 ROMAN_QUESTION = re.compile(r'^(I{1,3}|IV|VI{0,3}|IX|X)\s*[.)]\s+(\S.*)$')   # upper-case "II. Attempt any four"
 ROMAN_VALUE_Q = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10}
-PART_START = re.compile(                   # (a)  a.  b)  "c   text"  "A Write"  and OCR forms ".B_ Write", "{c)", "B - Write"
-    r'^[.,\'"`~_\-]*(?:[({\[]\s*([a-hj-k])\s*[)}\]]|([a-hj-k])\s*[.)_~:\-]+(?=\s)|([a-hj-k])\s*[.)]|'
-    r'([a-hj-k])(?=\s{3}|\s[A-Z]))\s*(.*)$', re.I)
+PART_START = re.compile(   # groups: 1 "(a)"  2 "a." "b)" "B -" "b__|"  3 "c   text" (table cell)  4 "A Write"  5 rest
+    r'^[.,\'"`~_\-]*(?:[({\[]\s*([a-hj-k])\s*[)}\]]|([a-hj-k])\s*[.)_~:|\-]+(?=\s|$)|'
+    r'([a-hj-k])(?=\s{3})|([a-hj-k])(?=\s[A-Z]))\s*(.*)$', re.I)
 ROMAN_START = re.compile(r'^\(?\s*(i{1,3}|iv|vi{0,3}|ix|x)\s*[.)]\s*(.*)$', re.I)
 MARKS_END = re.compile(
     r'(?:[\[({|]\s*[0O]?(\d{1,2}(?:\.\d)?)\s*(?:m|marks?)?\s*[\])}|]?'      # [5]  (10)  [04  (5 Marks)
@@ -418,7 +420,9 @@ def paper_header(text):
         info['exam_title'] = re.sub(r'\s+', ' ', match.group(1)).title()
     match = re.search(r'(?i)(?:acad(?:emic)?\.?\s*year|exam year)\s*[:\-]?\s*((?:19|20)\d\d)\s*[-–]\s*(?:19|20)?(\d\d)', head)
     if match:
-        info['academic_year'] = f'{match.group(1)}-{match.group(2)}'
+        start = int(match.group(1))
+        if int(match.group(2)) == (start + 1) % 100 and 1995 <= start <= 2030:   # a real consecutive pair
+            info['academic_year'] = f'{start}-{match.group(2)}'
     match = re.search(r'(?i)(?:semester|sem|trimester|trim)\s*[:\-]?\s*([IVX]{1,4}|\d{1,2})\b', head)
     if match:
         info['semester_printed'] = match.group(1).upper()
@@ -447,7 +451,7 @@ def take_tags(line, item):
         if item is not None and match.group(2) and match.group(2).isdigit():
             item.setdefault('bl', 'BL' + match.group(2))
         line = line[match.end():]
-    line = re.sub(r'^¢\s*[.)]', 'c.', line)
+    line = re.sub(r'^¢(?=[\s.)|])', 'c', line)                         # OCR reads "c" as "¢"
     line = re.sub(r'(?i)(?:^|\s{3})(?:marks|co|bl|so|q\.?\s*no\.?)(?:\s+(?:marks|co|bl|so))*\s*$', '', line)  # headers
     for key, pattern in TAGS:
         for match in pattern.finditer(line):
@@ -472,7 +476,16 @@ def take_marks(line):
     rest = line[:match.start()].rstrip(' ;,:|-')
     if re.search(r'[=+\-*/^]\s*$', rest):            # "... = 10" is part of an equation, not marks
         return line, None
+    if re.search(r'(?i)\b(any|of|all|from|attempt|question|questions|q\.?|no\.?|first|last|than)\s*[(\[]?\s*$', rest):
+        return line, None                           # "(Attempt any 4)", "Question 3)" are not marks
     return rest, value
+
+
+def question_number(label, roman=False):
+    """'3' -> '3'; OCR 'l'/'I' -> '1', 'S' -> '5'; Roman 'II', 'IV' -> '2', '4'."""
+    if label.upper() in ROMAN_VALUE_Q and (roman or label.lower() not in ('l', 'i', 's')):
+        return str(ROMAN_VALUE_Q[label.upper()])
+    return {'l': '1', 'i': '1', 's': '5'}.get(label.lower(), label)
 
 
 def instructions_end(lines):
@@ -524,7 +537,16 @@ def parse_questions(text):
         current['parts'].append(item)
         return item
 
-    for raw in body:
+    def upcoming_label(index):
+        """Question number on one of the next three lines, if any (table cells centre the number vertically)."""
+        for ahead in body[index + 1:index + 4]:
+            pattern = QUESTION_START if q_style else ROMAN_QUESTION if roman_style else NUMBER_START
+            found = pattern.match(take_tags(ahead.strip(), None))
+            if found:
+                return int(question_number(found.group(1), roman_style))
+        return None
+
+    for index, raw in enumerate(body):
         line = take_tags(raw.strip(), item)
         if not line:
             continue
@@ -569,7 +591,7 @@ def parse_questions(text):
             continue
         if match:
             label = match.group(1)
-            label = str(ROMAN_VALUE_Q[label]) if roman_style else {'l': '1', 'i': '1', 's': '5'}.get(label.lower(), label)
+            label = question_number(label, roman_style)
             previous = int(current['question']) if current else 0
             rest = match.group(2).strip().lstrip('~_-:.;,|\'"` ')
             if previous < int(label) <= previous + 3:   # next question (tolerates a skipped number)
@@ -594,12 +616,22 @@ def parse_questions(text):
             new_item('')
             item['part'] = sub
         part = PART_START.match(line)
-        if part and (part.group(2) or part.group(4)):
-            # Loosely written letters ("A Write", "B - Explain") count only as the next letter in sequence,
-            # so a sentence starting "A PLC program ..." does not open part (a).
+        if (part and current['parts'] and next(g for g in part.groups()[:4] if g).lower() == 'a'
+                and upcoming_label(index) == int(current['question']) + 1):
+            # Part (a) of the next question, printed above its centred question number: start that question now.
+            current = {'question': str(int(current['question']) + 1), 'stem': [], 'marks': None, 'parts': []}
+            questions.append(current)
+            item, sub = None, ''
+        if part and not part.group(1):
+            # Unbracketed letters must follow the sequence: "b." or a table cell may skip up to two letters that
+            # OCR lost; "A Write ..." must be exactly the next letter, so "A PLC program ..." opens no part.
             last = item['part'].split('.')[-1].split('(')[0] if item is not None and item['part'] else ''
-            expected = chr(ord(last) + 1) if len(last) == 1 and last.isalpha() else 'a'
-            if (part.group(2) or part.group(4)).lower() not in (expected, 'a' if not last else expected):
+            letter = next(g for g in part.groups()[:4] if g).lower()
+            if len(last) == 1 and last.isalpha():
+                allowed = [chr(ord(last) + n) for n in ((1,) if part.group(4) else (1, 2, 3))]
+            else:
+                allowed = ['a'] if part.group(4) else ['a', 'b', 'c']
+            if letter not in allowed:
                 part = None
         roman = ROMAN_START.match(line) if not part else None
         if part:
@@ -638,10 +670,12 @@ def parse_questions(text):
                 out.append({'question': question['question'], 'part': None, 'text': stem,
                             'marks': question['marks']})
             continue
+        if len(stem) > 120:                            # a full question or case text, not just "Answer briefly"
+            out.append({'question': question['question'], 'part': None, 'text': stem, 'marks': question['marks']})
         for part in parts:
             record = {'question': question['question'], 'part': part['part'],
                       'text': ' '.join(part['lines']).strip(), 'marks': part.get('marks')}
-            if stem:
+            if stem and len(stem) <= 120:
                 record['question_stem'] = stem
             if question['marks'] is not None:
                 record['question_marks'] = question['marks']
@@ -655,10 +689,10 @@ def parse_questions(text):
 # ============================================================================ build stage
 
 QUESTION_FIELDS = ['subject', 'academic_year', 'exam', 'semester', 'departments', 'paper_id', 'question', 'part',
-                   'question_stem', 'text', 'marks', 'question_marks', 'co', 'bl', 'extraction']
-PAPER_FIELDS = ['paper_id', 'subject', 'kind', 'academic_year', 'exam', 'semester', 'departments', 'programme_types',
+                   'question_stem', 'text', 'marks', 'question_marks', 'co', 'bl', 'extraction', 'text_quality']
+PAPER_FIELDS = ['paper_id', 'subject', 'kind', 'academic_year', 'academic_year_filed', 'exam', 'exam_printed', 'semester', 'departments', 'programme_types',
                 'programmes', 'max_marks', 'duration_hours', 'exam_date', 'pages', 'extraction', 'ocr_confidence',
-                'questions_extracted', 'source_path', 'identical_copies', 'text_status']
+                'questions_extracted', 'text_quality', 'source_path', 'identical_copies', 'text_status']
 
 
 def load_texts(path):
@@ -744,6 +778,7 @@ def cmd_build(args):
     texts = load_texts(source)
     if args.texts:
         save_text_cache(texts)
+    drop_ocr_noise(texts, known_words(texts))               # after saving: the cache keeps the raw OCR
     with INDEX_CSV.open(encoding='utf-8', newline='') as stream:
         rows = list(csv.DictReader(stream))
     by_subject = defaultdict(lambda: defaultdict(list))         # subject -> sha -> copies
@@ -765,15 +800,63 @@ def cmd_build(args):
           f"{stats['papers_not_extracted']} papers not extracted yet.")
 
 
+def known_words(texts):
+    """Words found in at least 3 papers that have an exact PDF text layer: real English and technical vocabulary."""
+    papers_with = Counter()
+    for record in texts.values():
+        seen = set()
+        for _, pages in documents(record):
+            for page in pages:
+                if page['method'] in ('text', 'docx'):
+                    seen.update(w.lower() for w in re.findall(r'[A-Za-z]{3,}', page['text']))
+        papers_with.update(seen)
+    return {word for word, count in papers_with.items() if count >= 3}
+
+
+def ocr_noise(line, known):
+    """An OCR line read from a stamp, scribble or blank area: few real words, or mostly one- and two-letter bits."""
+    if re.search(r'(?i)\bQ\.?\s*\d|\bmarks?\b', line):     # question numbers and marks are always kept
+        return False
+    words = re.findall(r'[A-Za-z]{3,}', line)
+    if len(words) >= 4 and sum(w.lower() in known for w in words) < 0.4 * len(words):
+        return True
+    bits = [b for b in line.split() if not re.fullmatch(r'[\d.,%()+/=\-]+', b)]      # numbers are table data
+    if any(len(w) >= 4 and w.lower() in known for w in words):   # "Inorder: A, B, C", "F is conservative"
+        return False
+    return len(bits) >= 6 and sum(bool(re.fullmatch(r'\W*[A-Za-z]{1,2}\W*', b)) for b in bits) > 0.7 * len(bits)
+
+
+def drop_ocr_noise(texts, known):
+    """Remove noise lines from OCR pages in place, recording how many were dropped on each page."""
+    for record in texts.values():
+        for _, pages in documents(record):
+            for page in pages:
+                if page['method'] == 'ocr':
+                    lines = page['text'].split('\n')
+                    kept = [line for line in lines if not ocr_noise(line, known)]
+                    if len(kept) < len(lines):
+                        page['omitted_lines'] = len(lines) - len(kept)
+                        page['text'] = '\n'.join(kept)
+
+
 def build_subject(subject, papers, folder, texts, stats):
     """Write papers.md, answer_keys.md, papers.jsonl and questions.jsonl for one subject; return its summary."""
     folder.mkdir(parents=True, exist_ok=True)
     paper_blocks, answer_blocks, paper_lines, question_lines = [], [], [], []
     dept_papers, dept_questions, years = Counter(), Counter(), set()
 
+    def printed_year(sha):
+        docs = list(documents(texts[sha])) if sha in texts else []
+        return paper_header(page_text(docs[0][1])).get('academic_year') if docs else None
+
+    # The academic year printed on the paper is when it was set; file names often give the batch year instead.
+    best_year = {sha: printed_year(sha) or min(copies, key=lambda r: r['path'])['academic_year']
+                 for sha, copies in papers.items()}
+
     def order(item):
         first = min(item[1], key=lambda r: r['path'])
-        return (-year_key(first['academic_year']), first['exam'], first['kind'], first['path'])
+        kind = {'Question paper': 0, 'Answer key': 1}.get(first['kind'], 2)
+        return (-year_key(best_year[item[0]]), first['exam'], kind, first['path'])
 
     for sha, copies in sorted(papers.items(), key=order):
         copies = sorted(copies, key=lambda r: r['path'])
@@ -781,13 +864,15 @@ def build_subject(subject, papers, folder, texts, stats):
         programmes = sorted({c['programme'] for c in copies}, key=lambda p: (p.lower(), p))
         departments = sorted({department(p) for p in programmes})
         dept_papers.update(departments)
-        if first['academic_year']:
-            years.add(first['academic_year'])
-        paper = {'paper_id': sha[:12], 'subject': subject, 'kind': first['kind'], 'academic_year': first['academic_year'],
+        year = best_year[sha]
+        if year:
+            years.add(year)
+        paper = {'paper_id': sha[:12], 'subject': subject, 'kind': first['kind'], 'academic_year': year,
+                 'academic_year_filed': first['academic_year'] if first['academic_year'] != year else None,
                  'exam': first['exam'], 'semester': first['semester'], 'departments': departments,
                  'programme_types': sorted({programme_type(p) for p in programmes}), 'programmes': programmes,
                  'source_path': first['path'], 'identical_copies': len(copies) - 1}
-        heading = ' · '.join(b for b in (first['academic_year'] or 'Year not stated', first['exam'] or 'Exam not stated',
+        heading = ' · '.join(b for b in (year or 'Year not stated', first['exam'] or 'Exam not stated',
                                          first['semester'], None if first['kind'] == 'Question paper' else first['kind'])
                              if b) + f' · paper {sha[:12]}'
         meta = [f'- Departments: {", ".join(departments)}', f'- Programmes: {", ".join(programmes)}',
@@ -816,10 +901,10 @@ def build_subject(subject, papers, folder, texts, stats):
                        **{k: header[k] for k in ('max_marks', 'duration_hours', 'exam_date') if k in header})
             if label:
                 doc['source_path'] = f"{first['path']} :: {label}"
-            if not doc['exam'] and header.get('exam_title'):
-                doc['exam'] = header['exam_title']
-            if not doc['academic_year'] and header.get('academic_year'):
-                doc['academic_year'] = header['academic_year']
+            if header.get('exam_title'):
+                doc['exam_printed'] = header['exam_title']
+                if not doc['exam']:
+                    doc['exam'] = header['exam_title']
             printed = [f'{k.replace("_", " ")}: {header[k]}' for k in ('max_marks', 'duration_hours', 'exam_date')
                        if k in header]
             lines = [f'## {heading}' + (f' · {label}' if label else ''), ''] + meta
@@ -827,6 +912,15 @@ def build_subject(subject, papers, folder, texts, stats):
                 lines.append('- Printed on paper: ' + '; '.join(printed))
             lines.append(f'- Text: {method} ({len(pages)} page{"s" if len(pages) != 1 else ""})'
                          + (f', mean OCR confidence {confidence}' if confidence is not None else ''))
+            omitted = sum(page.get('omitted_lines', 0) for page in pages)
+            if omitted:
+                lines.append(f'- {omitted} unreadable OCR line{"s" if omitted != 1 else ""} (stamps, scribbles, '
+                             'blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.')
+            if confidence is not None and confidence < LOW_OCR_CONFIDENCE:
+                doc['text_quality'] = 'low'
+                stats['low_quality_' + ('answer_keys' if first['kind'] == 'Answer key' else 'papers')] += 1
+                lines.append('- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is '
+                             'only partly readable. Restore the original file to read it.')
             ticks = fence(text)
             target.append('\n'.join(lines + ['', ticks + 'text', text, ticks, '']))
             if first['kind'] == 'Question paper':
@@ -839,7 +933,7 @@ def build_subject(subject, papers, folder, texts, stats):
                         q['question_stem'] = q['question_stem'][:300]
                     entry = dict(q, subject=subject, academic_year=doc['academic_year'], exam=doc['exam'],
                                  semester=doc['semester'], departments=departments, paper_id=doc['paper_id'],
-                                 extraction=method)
+                                 extraction=method, text_quality=doc.get('text_quality'))
                     question_lines.append(json.dumps({k: entry[k] for k in QUESTION_FIELDS
                                                       if entry.get(k) not in (None, '', [])}, ensure_ascii=False))
                     stats['questions'] += 1
@@ -943,12 +1037,16 @@ def write_bank_readme(stats, summary, dept_subjects):
         f'- {stats["questions"]:,} questions and sub-questions extracted; {stats["questions_with_marks"]:,} with marks. '
         f'{split:,} papers ({100 * split / read:.0f}%) split into 3 or more questions; the rest are kept as full text '
         'in papers.md.',
+        f'- {stats["low_quality_papers"]:,} question papers have low OCR quality (mostly handwritten 2004-2010 papers '
+        'or poor scans); they and their questions are marked `text_quality: low`.',
         f'- Files with no readable text (corrupt PDFs, spreadsheet data sets): {stats["papers_without_text"]:,}.'
         + (f' Not yet extracted: {stats["papers_not_extracted"]:,}.' if stats['papers_not_extracted'] else ''), '',
         '## questions.jsonl fields', '',
         '| Field | Meaning |', '| --- | --- |',
         '| `subject` | Canonical subject name (same as the folder) |',
-        '| `academic_year`, `exam`, `semester` | e.g. `2024-25`, `Final-Exam` / `Re-Exam`, `Sem 5` |',
+        '| `academic_year`, `exam`, `semester` | e.g. `2024-25`, `Final-Exam` / `Re-Exam`, `Sem 5`. The year is the one '
+        'printed on the paper when it states one (file names often give the batch year; that is kept in '
+        '`papers.jsonl` as `academic_year_filed`) |',
         '| `departments` | Branches the paper was set for |',
         '| `paper_id` | First 12 hex digits of the paper file\'s SHA-256; matches `papers.jsonl` for programmes, max '
         'marks, date and source file |',
@@ -957,7 +1055,8 @@ def write_bank_readme(stats, summary, dept_subjects):
         '| `text` | The question text |',
         '| `marks`, `question_marks` | Marks for this part, and for the whole question when printed |',
         '| `co`, `bl` | Course outcome and Bloom\'s level tags printed on newer papers |',
-        '| `extraction` | `text` (exact, from the PDF) or `ocr` (scanned paper read by Tesseract) |', '',
+        '| `extraction` | `text` (exact, from the PDF) or `ocr` (scanned paper read by Tesseract) |',
+        '| `text_quality` | `low` when the scan read poorly (handwritten or faint papers); treat the text with care |', '',
         '## Accuracy', '',
         'Text-layer papers (most 2024-25 and 2025-26 papers) are extracted exactly. Older papers are scans read by OCR: '
         'ordinary text is reliable, but equations, symbols and diagrams are often garbled, and diagrams are not '

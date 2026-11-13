@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_EXTC_7006/Robotics and Automation/ANS_Robotics and Automation(702EX0E014)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: mixed (12 pages), mean OCR confidence 46.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -396,6 +397,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_EXTC_7006/Robotics and Automation/ANS_Robotics and Automation(702EX0E014)_2025-2026_d029d7167d.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: mixed (12 pages), mean OCR confidence 46.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

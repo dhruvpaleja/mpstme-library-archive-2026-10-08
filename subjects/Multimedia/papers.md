@@ -1,8 +1,154 @@
 # Multimedia: question papers in full
 
-10 unique papers · 2009-10 to 2012-13 · Computer Applications (MCA)
+10 unique papers · 2009-10 to 2013-14 · Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2013-14 · Re-Exam · Trim 6 · paper 9e1efbd3b2a5
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/MULTIMEDIA/MULTIMEADIA BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14/07/2014
+- Text: ocr (1 page), mean OCR confidence 88.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+. panitUTE OP Rey,
+Programme:MCA Year: Il Trimester: VI, ~~,
+/ ,
+: . j MPSTMBE )~
+Academic Year: 2013-14 ( a LIBRAR ¥
+
+Batch:2011-2012 Es)
+oir it 7
+Marks: 100 :
+
+Subject : Multimedia
+Time : 11.00 am to 2.00 pm
+Date :14/07/2014 Durations:3 (hrs)
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Attempt any four out of remaining six questions.
+
+3. Assumptions made should be clearly stated.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figure in brackets indicate full marks.
+
+6. Illustrate answer with sketches wherever required.
+
+Q.1 (a) Give descriptions of following file format. (10)
+a. MIDI b. RTF c. WMF d. DVCS e. VIM f. RDIB g. DIB h. PAL i. WAVE j. MMM
+(b) Explain moving picture types and motion compensation? (05)
+(c) Write a note on information access. (05)
+Q.2 (a) Discuss different Scanner features? (05)
+(b) | Write a note on business model for IFC (05)
+(c) ”CCDs are called as the eyes of the scanners”, justify. (10)
+Q.3 (a) What is the workflow in a complete business process? Give classification. (10)
+(b) Discuss various RAID levels? (10)
+Q.4 (a) Enlist hypermedia message components and give details with examples. (10)
+(b) Discuss image display issues and special features of video playback. (10)
+Q.5 (a) Enlist components of a distributed multimedia system and explain distributed client (10)
+server operartion? ;
+(b) Explain human factors in virtual reality design? (10)
+Q.6 (a) Explain video capture board architecture in detail (10)
+(b) Explain MIDI file format with its various communication protocols? (10)
+sh Write short note on following (any four).
+a. Image enhancement techniques (20)
+b. MAPI
+c. Telephone authoring systems
+d. CORBA
+
+e. Dedicated function boards
+f. CD-ROM standards
+
+x
+
+~ | )
+````
+
+## 2013-14 · Re-Exam · Trim 6 · paper 73995b64b661
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/MULTIMEDIA/MULTIMEDIA BATCH 2011-12 RE EXAM TRIM VI0001.pdf`
+- Printed on paper: max marks: 10; duration hours: 3; exam date: 27/03/2014
+- Text: ocr (1 page), mean OCR confidence 87.6
+
+````text
+SVKM’s NMIMS
+
+; giNtBTE OF ay, >
+
+Mukesh Patel School of Technology Management & Engineering’ ~~~ ly, .
+Year: Il Trimester: VIE oom We.
+
+Academic Year : 2013-2014 a
+
+Programme: MCA
+
+Batch: 2011-2012
+
+Subject: Multimedia Marks: 10'
+Time: 4.00 p
+
+Date: 27/03/2014 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefuily the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+NB: ,
+
+1. Question No. 1 is compulsory.
+
+2. Attempt any four out of remaining six questions.
+
+3. Assumptions made should be clearly stated.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figure in brackets indicate full marks.
+
+6. Illustrate answer with sketches wherever required.
+
+Q.1 (a) Discuss different multimedia applications. (10)
+(b) Explain moving pictur types and motion compensation? (05)
+(c) | Write a note on information access. (05)
+Q.2 (a) Discuss different types of Scanner? (10)
+(b) ”CCDs are called as the eyes of the scanners”, justify. (10)
+Q3 (a) | What is the workflow in a complete business process? Give classification. (10)
+(b) Discuss various RAID levels? (10)
+Q.4 (a) Enlist hypermedia message components and give details with examples. (10)
+(b) Discuss image display issues and special features of video playback. (10)
+Q.5 (a) Enlist components of a distributed multimedia system and explain distributed client (10)
+server operartion?
+_ (b) Explain human factors in virtual reality design? (10)
+Q.6 (a) Explain video capture board architecture in detail (10)
+(b) Explain RIFF file format? (10)
+Q7 Write short note on following (any four).
+a. Digital signal processing (20)
+b. TAPI e
+c. Issues in Multimedia authoring
+d. CORBA ,
+
+e. Dedicated function boards
+
+x
+````
 
 ## 2012-13 · Final-Exam · Trim 6 · paper 89447a5671e4
 
@@ -47,6 +193,56 @@ a   User Interface Design
 b. TheWWW
 G.   Run Length Encoding
 d.   Video Frame Grabber   --
+````
+
+## 2012-13 · Re-Exam · Trim 6 · paper 7bfef2dd403b
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/MULTIMEDIA/MULTIMEDIA VI MCA 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 22/6/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Patel School of Technologv Management & Engineering
+MCA   Year:   I1   Trimester: VI
+-   - Academic Year :2012-2013   .   ,.
+Batch:   2011-2012
+Subject:   Multimedia   Marks:   100
+Time:   2.00 pm To 5.00 pm
+Date:   22/6/2013   ,%ration:   3 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+NB:
+1. Question No. 1 is compulsory.
+2. Attempt any four out of remaining six questions.
+3. Assumptions made should be clearly stated.
+4. Aqswer to each new question to be started on a fresh page.
+5. Figure in brackets indicate full marks.
+6. Illustrate answer with sketches wherever required.
+Q.l   (a)   Explain different multimedia objects with examples?   (10)
+(b)   Apply LZW on following data string :CCGCBBBAAAADEECCCBDCBBBC   (10)
+Q.2   (a)   Write a note on video image compression.   (10)
+(b)   What is the K-factor? What is the purpose of K-factor in group 3-2Dcompression   (10)
+skiIls?
+Q.3 (a)   Write steps for workflow in a complete business process? Give classification.
+(b)   Describe information access in detail.
+,Q.4 (a)   Discuss design steps for multimedia systems.
+(b) -Explain hyper media message components?
+Q.5 (a)   Explain vendor-independent Messaging & services in brief?
+(b)   What are the components of Multimedia systems? Explain each one of them
+aE
+4 . 6 (a)   Explain MPEG compression and methodology with need sketch in detail
+@)   Explain RIFF file format with various RIFF file type in brief?
+Write short note on following (any four).
+a CCD color capture
+b. Video on demand
+c. Different media for storage
+d. WWW
+e. VoIP
+f. UI design
 ````
 
 ## 2012-13 · Re-Exam · Trim 6 · paper 135e645796bd
@@ -187,152 +383,6 @@ f. Ul design
 f
 ````
 
-## 2011-12 · Re-Exam · Trim 6 · paper 9e1efbd3b2a5
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/MULTIMEDIA/MULTIMEADIA BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14/07/2014
-- Text: ocr (1 page), mean OCR confidence 88.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-. panitUTE OP Rey,
-Programme:MCA Year: Il Trimester: VI, ~~,
-/ ,
-: . j MPSTMBE )~
-Academic Year: 2013-14 ( a LIBRAR ¥
-
-Batch:2011-2012 Es)
-oir it 7
-Marks: 100 :
-
-Subject : Multimedia
-Time : 11.00 am to 2.00 pm
-Date :14/07/2014 Durations:3 (hrs)
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Attempt any four out of remaining six questions.
-
-3. Assumptions made should be clearly stated.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figure in brackets indicate full marks.
-
-6. Illustrate answer with sketches wherever required.
-
-Q.1 (a) Give descriptions of following file format. (10)
-a. MIDI b. RTF c. WMF d. DVCS e. VIM f. RDIB g. DIB h. PAL i. WAVE j. MMM
-(b) Explain moving picture types and motion compensation? (05)
-(c) Write a note on information access. (05)
-Q.2 (a) Discuss different Scanner features? (05)
-(b) | Write a note on business model for IFC (05)
-(c) ”CCDs are called as the eyes of the scanners”, justify. (10)
-Q.3 (a) What is the workflow in a complete business process? Give classification. (10)
-(b) Discuss various RAID levels? (10)
-Q.4 (a) Enlist hypermedia message components and give details with examples. (10)
-(b) Discuss image display issues and special features of video playback. (10)
-Q.5 (a) Enlist components of a distributed multimedia system and explain distributed client (10)
-server operartion? ;
-(b) Explain human factors in virtual reality design? (10)
-Q.6 (a) Explain video capture board architecture in detail (10)
-(b) Explain MIDI file format with its various communication protocols? (10)
-sh Write short note on following (any four).
-a. Image enhancement techniques (20)
-b. MAPI
-c. Telephone authoring systems
-d. CORBA
-
-e. Dedicated function boards
-f. CD-ROM standards
-
-x
-
-~ | )
-````
-
-## 2011-12 · Re-Exam · Trim 6 · paper 73995b64b661
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/MULTIMEDIA/MULTIMEDIA BATCH 2011-12 RE EXAM TRIM VI0001.pdf`
-- Printed on paper: max marks: 10; duration hours: 3; exam date: 27/03/2014
-- Text: ocr (1 page), mean OCR confidence 87.6
-
-````text
-SVKM’s NMIMS
-
-; giNtBTE OF ay, >
-
-Mukesh Patel School of Technology Management & Engineering’ ~~~ ly, .
-Year: Il Trimester: VIE oom We.
-
-Academic Year : 2013-2014 a
-
-Programme: MCA
-
-Batch: 2011-2012
-
-Subject: Multimedia Marks: 10'
-Time: 4.00 p
-
-Date: 27/03/2014 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefuily the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-NB: ,
-
-1. Question No. 1 is compulsory.
-
-2. Attempt any four out of remaining six questions.
-
-3. Assumptions made should be clearly stated.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figure in brackets indicate full marks.
-
-6. Illustrate answer with sketches wherever required.
-
-Q.1 (a) Discuss different multimedia applications. (10)
-(b) Explain moving pictur types and motion compensation? (05)
-(c) | Write a note on information access. (05)
-Q.2 (a) Discuss different types of Scanner? (10)
-(b) ”CCDs are called as the eyes of the scanners”, justify. (10)
-Q3 (a) | What is the workflow in a complete business process? Give classification. (10)
-(b) Discuss various RAID levels? (10)
-Q.4 (a) Enlist hypermedia message components and give details with examples. (10)
-(b) Discuss image display issues and special features of video playback. (10)
-Q.5 (a) Enlist components of a distributed multimedia system and explain distributed client (10)
-server operartion?
-_ (b) Explain human factors in virtual reality design? (10)
-Q.6 (a) Explain video capture board architecture in detail (10)
-(b) Explain RIFF file format? (10)
-Q7 Write short note on following (any four).
-a. Digital signal processing (20)
-b. TAPI e
-c. Issues in Multimedia authoring
-d. CORBA ,
-
-e. Dedicated function boards
-
-x
-````
-
 ## 2011-12 · Re-Exam · Trim 6 · paper c33851b0a5bd
 
 - Departments: Computer Applications (MCA)
@@ -392,56 +442,6 @@ c. MAPI
 d. WWW
 e. VoIP
 f. ATM
-````
-
-## 2011-12 · Re-Exam · Trim 6 · paper 7bfef2dd403b
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/MULTIMEDIA/MULTIMEDIA VI MCA 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 22/6/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School of Technologv Management & Engineering
-MCA   Year:   I1   Trimester: VI
--   - Academic Year :2012-2013   .   ,.
-Batch:   2011-2012
-Subject:   Multimedia   Marks:   100
-Time:   2.00 pm To 5.00 pm
-Date:   22/6/2013   ,%ration:   3 hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-NB:
-1. Question No. 1 is compulsory.
-2. Attempt any four out of remaining six questions.
-3. Assumptions made should be clearly stated.
-4. Aqswer to each new question to be started on a fresh page.
-5. Figure in brackets indicate full marks.
-6. Illustrate answer with sketches wherever required.
-Q.l   (a)   Explain different multimedia objects with examples?   (10)
-(b)   Apply LZW on following data string :CCGCBBBAAAADEECCCBDCBBBC   (10)
-Q.2   (a)   Write a note on video image compression.   (10)
-(b)   What is the K-factor? What is the purpose of K-factor in group 3-2Dcompression   (10)
-skiIls?
-Q.3 (a)   Write steps for workflow in a complete business process? Give classification.
-(b)   Describe information access in detail.
-,Q.4 (a)   Discuss design steps for multimedia systems.
-(b) -Explain hyper media message components?
-Q.5 (a)   Explain vendor-independent Messaging & services in brief?
-(b)   What are the components of Multimedia systems? Explain each one of them
-aE
-4 . 6 (a)   Explain MPEG compression and methodology with need sketch in detail
-@)   Explain RIFF file format with various RIFF file type in brief?
-Write short note on following (any four).
-a CCD color capture
-b. Video on demand
-c. Different media for storage
-d. WWW
-e. VoIP
-f. UI design
 ````
 
 ## 2011-12 · Re-Exam · Trim 6 · paper 26d10c43e873

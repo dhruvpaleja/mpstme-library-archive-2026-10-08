@@ -1,8 +1,98 @@
 # Digital Design and Microprocessor: question papers in full
 
-8 unique papers · 2005-06 to 2009-10 · Information Technology
+8 unique papers · 2005-06 to 2010-11 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2010-11 · Re-Exam · Trim 4 · paper 21ce768a4afe
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/DIGITAL DESIGN AND MICROPROCESSER/digital design and microprocessor 2009-2010 re exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/10/2010
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Enginee:
+
+Programme: MBA (Tech) (I. T.) Year: II Trimester: IV
+Academic Year : 2010-2011
+
+Batch: 2009-2010
+
+Subject: DIGITAL DESIGN & Marks: 100
+MICROPROCESSOR Time: 2.00pm To 5.00pm
+
+Date: 25/10/2010 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question no. 1 is compulsory
+2. Qut of the remaining attempt any four full questions
+3. In all Five questions to be attempted
+4. All questions carry equal marks
+5. Amswer to each question to be started on a fresh page
+6. Figure in the brackets on the right hand side indicate full marks.
+
+Q1. A) Convert the following: (4)
+a. (ED8.B59)i¢ to (?)2
+b. (21.012)j0 to (?)s
+c. €71.45)s to (?)is
+d. (11011100.1101) to (?)10
+
+13) Implement the logic functions ABC +AC+ AB © using (4)
+only NAND gates
+
+C) Design Half adder circuit and implement using logic gates. (4)
+
+D) Explain flag register of 8085 (4)
+
+E) Explain i/o control word format of PPI 8255. (4)
+
+Q2. /\) Using K-map method simplify the following function and implement (10)
+1) Y= TI M(1,2,5,6,7,8, 10,2, 15)
+ji)   Y=Em(O, 1,3,4,5,7,8,12,14) + d(10,11)
+
+Ii) Give the design details of a 4-bit BCD adder using IC 7483. (10)
+Q3. A) Explain interrupt structure of 8085 microprocessor in detail. (10)
+I) Write an ALP to find number of positive and negative numbers (10)
+
+fom a given block of 10 numbers starting from D100H, store the count at
+D200H and D201H respectively.
+
+Q4. A) Explain the working of 5K Flip Flop with the help of truth table, (10)
+logic diagram, and write Excitation table.
+
+Vo
+--- page 2 ---
+B) Wha: are the various functional blocks of 8259 PIC. (10)
+
+QS. A) Draw and explain the working of 4-bit Serial-In-Serial-Out Shift register (10)
+along with timing diagram.
+B) What is memory mapping? Differentiate between memory mapped i/o (10)
+and i/o mapped i/o
+
+Q6. A) i)Explain the following instructions with example: G6)
+CMP r, RLC, STAX rp, ANI 02H, IN port.
+ii) Explain the function of the following pins in 8085 Microprocessor (5)
+IO/M , ALE, RESET, CLOCKOUT, S1-S0.
+B) Explain MOD-8 ripple counter using circuit diagram and waveforms. (10)
+
+Wha: is the advantage of synchronous counters over ripple counters?
+
+Q7. Write a detailed note on any 4: (20)
+a. Serial communication in 8085
+b, SRAM and DRAM.
+c. 8:1 Multiplexer.
+d. Priority Encoders
+e. Stack in 8085
+````
 
 ## 2009-10 · Exam not stated · Trim 4 · paper 3b7c38b26f50
 
@@ -222,96 +312,6 @@ d) Stack and Stack Pointer in 8085.
 e) Priority Encoder.
 
 A. 7
-````
-
-## 2009-10 · Re-Exam · Trim 4 · paper 21ce768a4afe
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/DIGITAL DESIGN AND MICROPROCESSER/digital design and microprocessor 2009-2010 re exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/10/2010
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Enginee:
-
-Programme: MBA (Tech) (I. T.) Year: II Trimester: IV
-Academic Year : 2010-2011
-
-Batch: 2009-2010
-
-Subject: DIGITAL DESIGN & Marks: 100
-MICROPROCESSOR Time: 2.00pm To 5.00pm
-
-Date: 25/10/2010 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question no. 1 is compulsory
-2. Qut of the remaining attempt any four full questions
-3. In all Five questions to be attempted
-4. All questions carry equal marks
-5. Amswer to each question to be started on a fresh page
-6. Figure in the brackets on the right hand side indicate full marks.
-
-Q1. A) Convert the following: (4)
-a. (ED8.B59)i¢ to (?)2
-b. (21.012)j0 to (?)s
-c. €71.45)s to (?)is
-d. (11011100.1101) to (?)10
-
-13) Implement the logic functions ABC +AC+ AB © using (4)
-only NAND gates
-
-C) Design Half adder circuit and implement using logic gates. (4)
-
-D) Explain flag register of 8085 (4)
-
-E) Explain i/o control word format of PPI 8255. (4)
-
-Q2. /\) Using K-map method simplify the following function and implement (10)
-1) Y= TI M(1,2,5,6,7,8, 10,2, 15)
-ji)   Y=Em(O, 1,3,4,5,7,8,12,14) + d(10,11)
-
-Ii) Give the design details of a 4-bit BCD adder using IC 7483. (10)
-Q3. A) Explain interrupt structure of 8085 microprocessor in detail. (10)
-I) Write an ALP to find number of positive and negative numbers (10)
-
-fom a given block of 10 numbers starting from D100H, store the count at
-D200H and D201H respectively.
-
-Q4. A) Explain the working of 5K Flip Flop with the help of truth table, (10)
-logic diagram, and write Excitation table.
-
-Vo
---- page 2 ---
-B) Wha: are the various functional blocks of 8259 PIC. (10)
-
-QS. A) Draw and explain the working of 4-bit Serial-In-Serial-Out Shift register (10)
-along with timing diagram.
-B) What is memory mapping? Differentiate between memory mapped i/o (10)
-and i/o mapped i/o
-
-Q6. A) i)Explain the following instructions with example: G6)
-CMP r, RLC, STAX rp, ANI 02H, IN port.
-ii) Explain the function of the following pins in 8085 Microprocessor (5)
-IO/M , ALE, RESET, CLOCKOUT, S1-S0.
-B) Explain MOD-8 ripple counter using circuit diagram and waveforms. (10)
-
-Wha: is the advantage of synchronous counters over ripple counters?
-
-Q7. Write a detailed note on any 4: (20)
-a. Serial communication in 8085
-b, SRAM and DRAM.
-c. 8:1 Multiplexer.
-d. Priority Encoders
-e. Stack in 8085
 ````
 
 ## 2008-09 · Exam not stated · Trim 4 · paper 2a5ff7267681

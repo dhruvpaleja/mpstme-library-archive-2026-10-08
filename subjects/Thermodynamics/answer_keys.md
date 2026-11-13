@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Mechatronics_7004/Thermodynamics/ANS_Thermodynamics(702MH0C024)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: mixed (10 pages), mean OCR confidence 78.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -73,7 +74,6 @@ BL-2
 Assuming density of Hg, p,,, = 13.596 x 1000 kg/m?
 Pressure of 760 mm of Hg will be
 
-=pxgx h = 13.596 x 1000 x 9.806 x im
 = 101325 Pa = 101.325 kPa.
 (i) Pressure of 80 em of Hg
 = 800 , 101.325 = 106.65 kPa. (Ans.)

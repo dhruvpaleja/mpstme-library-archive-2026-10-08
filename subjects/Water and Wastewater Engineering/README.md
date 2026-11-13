@@ -16,8 +16,8 @@ Also filed as: `WATER AND WASTWATER ENGINEERING`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Water and Wastewater Engineering(702CI0C020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Water and Wastewater Engineering(702CI0C020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Water and Wastewater Engineering(702CI0C020)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / CIVIL | Water and Wastewater Engineering, Sem VI, Final Exam 2024-25.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 6 | B TECH / CIVIL | Water and Wastewater Engineering Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B TECH / CIVIL | Water and Westewater Engineering Batch 2022-23,2023-24 Re Exam.pdf |

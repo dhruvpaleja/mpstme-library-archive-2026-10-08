@@ -15,22 +15,22 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / ENGINEEING PHYSICS | Physics III Batch 2024-25 Final Batch 2023-24 Re Exam.pdf [1] |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated DS 7038 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated IT 7037 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated Mechanical 7031 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | Integrated DS 7038 | QP_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | Integrated IT 7037 | QP_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | Integrated Mechanical 7031 | QP_Physics-III(701BS0C016)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | Integrated Computer 7032 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | Integrated DS 7038 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | Integrated IT 7037 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | Integrated Mechanical 7031 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated DS 7038 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated IT 7037 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated Mechanical 7031 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / ENGINEEING PHYSICS | Physics III Batch 2022-23,2023-24,2024-25 Re Exam0001.pdf [2] |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / ENGINEEING PHYSICS | Physics III Batch 2023-24,2024-25 Re Exam0001.pdf [3] |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | Integrated Computer 7032 | QP_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | Integrated DS 7038 | QP_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | Integrated IT 7037 | QP_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | Integrated Mechanical 7031 | QP_Physics-III(701BS0C016)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | Integrated Computer 7032 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | Integrated DS 7038 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | Integrated IT 7037 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | Integrated Mechanical 7031 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / ENGINEEING PHYSICS | Physics III Batch 2023-24 Final.pdf [4] |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / ENGINEEING PHYSICS | Physics III Batch 2023-24 Re Exam.pdf [5] |
 | 2022 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / ENGINEEING PHYSICS | Physics III Batch 2022 Final0001.pdf [6] |

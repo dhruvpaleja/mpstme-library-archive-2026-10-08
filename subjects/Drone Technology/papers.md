@@ -2419,6 +2419,84 @@ BL- 4 > Bluetooth.
 O21.
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 0fd3a73df39c
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/DRONE TECHNOLOGY/Drone Technology.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/05/2023
+- Text: ocr (2 pages), mean OCR confidence 88.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B. Tech / MBA Tech Stream: All Year: III; Semester: VI
+
+Subject: Dvyone Technology Time: 03 hrs (10:00 am to 01:00 pm)
+Date: 04/05/2023 No. of Pages: 01
+
+Marks: 100 (Printed on both sides)
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on ihe question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory. ‘
+2) Out of remaining questions, attempt any _4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: 120]
+-1; SO-2;
+co a , a. | Summarize the steps to identify motor for a drone. (05)
+CO-2; SO-1;
+° BL-2 > b. | Classify types of SBC as applicable for a drone. (05)
+CO-1; SO-2;
+corse > c. | Illustrate the steps to choose a propeller for a drone. (05)
+CO-3; SO-1;
+BL3 Bla Explain types of Drone based on motor speed. (05)
+Q {20}
+cor “pes a. | Cite the functions of the left joystick key on the transmitter. (05)
+CO-3; SO-1;
+oy ° b. | Sketch and explain Proportional type of controller used to control throttle. (15)
+° [20]
+-3; -1; ;
+co ee ° a. | Cite and illustrate the type of drone and components required for photography. (10)
+C02; SO-1; | 4, | With neat diagram explain the working of a ESC (10)
+
+BL-4
+--- page 2 ---
+Q4
+
+CO-2; SO-1; Plan and explain the process to build a Non-Racer drone under 2000 grams total weight. [20]
+BL-5
+Q5 [20]
+CO-3; SO-1; . : oe
+BL-4 Show manual tuning of a Drone PID values after the assembly done using Mission Planner. (15)
+CO-1; SO-2; wee ae
+BL-3 Criticize the application of drone for war. (05)
+Q6 [20]
+CO-2; SO-1; . : :
+BL3 Explain the specifications of a Motor for a Racer type of Drone. (10)
+CO-3; SO-1; . 3
+BL3 Discover the manual method for tuning of a PID controller done using Matlab. (10)
+Q7
+CO-4; SO-2; Design, develop and choose a frame using Generative Design for a Racer drone. [20]
+
+BL-4
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper ffbc6931c93c
 
 - Departments: Common (all branches)
@@ -2504,82 +2582,4 @@ CO-4; SO-2; : {20}
 BL-4 and PixHawk controller.
 
 oa *
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 0fd3a73df39c
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/DRONE TECHNOLOGY/Drone Technology.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/05/2023
-- Text: ocr (2 pages), mean OCR confidence 88.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B. Tech / MBA Tech Stream: All Year: III; Semester: VI
-
-Subject: Dvyone Technology Time: 03 hrs (10:00 am to 01:00 pm)
-Date: 04/05/2023 No. of Pages: 01
-
-Marks: 100 (Printed on both sides)
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on ihe question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory. ‘
-2) Out of remaining questions, attempt any _4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: 120]
--1; SO-2;
-co a , a. | Summarize the steps to identify motor for a drone. (05)
-CO-2; SO-1;
-° BL-2 > b. | Classify types of SBC as applicable for a drone. (05)
-CO-1; SO-2;
-corse > c. | Illustrate the steps to choose a propeller for a drone. (05)
-CO-3; SO-1;
-BL3 Bla Explain types of Drone based on motor speed. (05)
-Q {20}
-cor “pes a. | Cite the functions of the left joystick key on the transmitter. (05)
-CO-3; SO-1;
-oy ° b. | Sketch and explain Proportional type of controller used to control throttle. (15)
-° [20]
--3; -1; ;
-co ee ° a. | Cite and illustrate the type of drone and components required for photography. (10)
-C02; SO-1; | 4, | With neat diagram explain the working of a ESC (10)
-
-BL-4
---- page 2 ---
-Q4
-
-CO-2; SO-1; Plan and explain the process to build a Non-Racer drone under 2000 grams total weight. [20]
-BL-5
-Q5 [20]
-CO-3; SO-1; . : oe
-BL-4 Show manual tuning of a Drone PID values after the assembly done using Mission Planner. (15)
-CO-1; SO-2; wee ae
-BL-3 Criticize the application of drone for war. (05)
-Q6 [20]
-CO-2; SO-1; . : :
-BL3 Explain the specifications of a Motor for a Racer type of Drone. (10)
-CO-3; SO-1; . 3
-BL3 Discover the manual method for tuning of a PID controller done using Matlab. (10)
-Q7
-CO-4; SO-2; Design, develop and choose a frame using Generative Design for a Racer drone. [20]
-
-BL-4
 ````

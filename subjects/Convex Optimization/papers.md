@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM II/CONVEX OPTIMIZATION/Convex Optimization Batch 2023-24 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 83.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . SVKM’S NMIMS i
@@ -98,9 +99,6 @@ Subject ‘To, >
 21, 22,23 > (0 and Integers
 b. | Deciper the following arithmetic problems of AI.
 - A P D
-S EN D x A D
-+ M O R E R P A D [10]
-M ON E Y DD COD x
 
 D PCED
 --- page 3 ---
@@ -173,6 +171,7 @@ The reader is advised to draw a neat and clean graphical solution to proceed.
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM II/CONVEX OPTIMIZATION/Convex Optimization Batch 2022-23 Final0001.pdf`
 - Printed on paper: max marks: 100; exam date: 04/05 / 2023
 - Text: ocr (4 pages), mean OCR confidence 86.1
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS a
@@ -267,11 +266,7 @@ Subject ‘To,
 b. | Deciper the following arithmetic problems of AI.
 w H Y
 x N U T
-c RO 8S 8 Oo O N P
-+ R O A D S Oo Y P Y x [10]
-DAN GER Oo U H A x x
 
-O N E P O P
 
 2
 --- page 3 ---

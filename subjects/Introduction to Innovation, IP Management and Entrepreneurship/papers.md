@@ -4,6 +4,147 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Exam not stated · Sem 4 · paper dcfa6f0dd13f
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/INTRODUCTION TO INNOVATION, IP MANAGEME_6d3699f6/B Tech, Introduction to Innovation, IP Management & Enterpreneurship, Sem-IV, Bat_a902fcb1.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 July 2026
+- Text: ocr (3 pages), mean OCR confidence 91.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT. ENGINEERING
+
+Academic Year: 2025-26
+Program: B Tech (CSBS)
+
+Year: I Semester :
+
+Subject: Introduction to Innovation, IP Management & .
+Entrepreneurship Time: 2.00 pm to 5.00 pm (3 hrs)
+
+Date : 09 July 2026
+
+No. of Pages: 03
+Marks: 100
+
+Re-Exam (2023-24/2025-26)
+
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. truction....
+5. Out of remaining questions, attempt any 4 questions.
+6. Both parts of Q2 to Q7 are compulsory
+7. In all 5 questions to be attempted.
+8. Figures in brackets on the right hand side indicate full marks.
+9. Marks will be deducted for untidy work / illegible handwriting
+
+Qi .
+Answer briefly: [14/20]
+CO-4 ; a.
+SO- 2; What actually was the case of Dyson versus Hoover all about?
+BL- 3
+CO- 4; b.
+SO- 2; Why was Dyson unhappy with the Hoover vacuum cleaner?
+BL- 3
+CO-4; Cc.
+SO- 2; What was Dyson’s idea and how did he turn it into an opportunity
+BL- 3
+CO- 4; d. . ; . . . .
+50-2: Looking at Dyson’s struggles in spite of having a great idea, what do
+BL- 3 you think were the reasons for his success?
+Q2 a. Show how the three forces shaping the twenty-first century, according ‘
+to Salkowitz (2010) — youth, entrepreneurship and ICT — are captured in {14/20
+CO- 2; the cyclical model of innovation
+SO 2-; b. Explain Sergey Brin’s (co-founder of Google) comment that coming up ]
+BL-2 ‘with an idea is easy, but innovation is difficult.
+Q3 a. What is the difference between an unsuccessful innovation and an
+invention? [14/20
+CO-2;
+SO- 4; ib. Explain how customer focus and innovation can be special strengths of ]
+BL-4 small businesses. Give two examples from the Industry
+Q4 a. If the income statement of a ffnancial plan shows that the business will [14/20
+CO 2-; b be profitable, why is there a need for a statement of cash flows
+SO- 4; | Investors are said to be more market-oriented than product-oriented. ]
+BL-4 4 What is the logic behind this orientation
+
+FOC 7 GR GR Rr
+--- page 2 ---
+~ mF
+
+Os Why might an entrepreneur prefer to launch an entirely new venture
+—_ 9 [14/20
+CO- 3; a. rather than buy an existing firm?
+SO- 3; What are the three basic types of start-up ideas? What are thie j post ]
+BL- 2 b. common sources of inspiration for start-up ideas?
+Q6 a. - . . . .
+What advantages are realized by using a computer in preparing the
+a : : : 2 : 2 7 [14/20
+CO- 3; narrative sections of a business plan? In preparing the financial plan?
+SO- 3; b When should you write a business plan? When might it not be necessary | |
+BL- 2 : or even advisable to write a plan?
+Q7 a. . , . . . .
+How might an entrepreneur’s perspective differ from that of an investor in (14/20
+CO- 4; b terms of the business plan?
+SO 4-; . What are the most common sources of inspiration for start-up ideas? Give ]
+BL- 3 two examples.
+
+Read the Case study below and answer the questions Q1 (a) to (d)
+Bags of Ideas — The Case of James Dyson
+
+In October 2000, the air inside Court 58 of the Royal Courts of Justice in London rang with terms such
+as ‘bagless dust collection’, ‘cycloné technology’, ‘triple vortex’ and ‘dual cyclone’ as one of the most
+bitter of patent battles in recent years was brought to a conclusion. On one side was Hoover, a
+multinational firm with the eponymous vacuum suction sweeper at the heart of a consumer appliance
+empire. On the other side, a lone inventor — James Dyson — who had pioneered a new approach to the
+humble task of house cleaning and then seen his efforts threatened by an apparent imitation by Hoover.
+Eventually, the court ruled in Dyson’s favour.
+
+This represented the culmination of a long and difficult journey that Dyson wavcladit in bringing his
+ideas to a wary marketplace. It began in 1979 when Dyson was using, ironically, a Hoover Junior
+vacuum cleaner to dust the house. He was struck by the inefficiency of a system, which effectively
+reduced its capability to suck the more it was used since the bag became clogged with dust. He tried
+various improvements such as a finer mesh filter bag, but the results were not promising. The
+breakthrough came with the idea of using industrial cyclone technology applied in a new way — to the
+problem of domestic cleaners. Dyson was already an inventor with some track record’and one of his
+products was a wheelbarrow that used a ball instead of a front wheel. In order to spray the black dust
+paint in a powder coating plant, a cyclone was installed — a well-established engineering solution to the
+problem of dust extraction. Essentially, a mini-tornado is created within a shell and the air in the vortex
+moves so fast that*the particles of dust are forced to the edge where they can be collected while clean air
+moves to the centre. Dyson began to ask why the principle could not be applied in vacuum cleaners —
+and soon found out. His early experiments — with the Hoover — were not entirely successful but
+eventually he applied for a patent in 1980 for a vacuum cleaning appliance using cyclone technology.
+It took arfother four years and 5127 prototypes and even then he could not patent the application of a
+single cyclone since that would only represent an improvement on cyclone system that used the first to
+separate out large items of domestic refuse — cigarette ends, dog hairs, cornflakes, and so on — and the
+second to pick up the finer dust particles. But having proved the technology, he found a distinct cold
+shoulder on the part of the existing vacuum cleaner industry represented by firms such as Hoover,
+Philips‘and Electrolux. In typical examples of the ‘not-invented-here’ effect, they remained committed
+to the idea of vacuum cleaners using bags and were unhappy with bagless technology. (This is not
+entirely surprising since suppliers such as Electrolux make a significant income on selling the
+
+FICK A IH IC A
+--- page 3 ---
+.
+
+replacement bags for its vacuum cleaners.) Eventually, Dyson began the hard work of raising the funds
+to start his own business — and it gradually paid off.
+Launched in 1993 — 14 years after the initial idea - Dyson now runs a design-driven Business worth
+around £530 million and has a number of product variants in its vacuum cleaner range; other products
+under development aim to re-examine domestic appliances such as washing machines and dishwashers
+to try and bring similar new ideas into play. The basic dual cyclone cleaner was one of the products
+identified by the UK Design Council as one of its ‘millennium products’. Perhaps, the greatest accolade
+though is the fact that the vacuum cleaner giants such as Hoover eventually saw the potential and began
+developing their own versions. Dyson has once again shown the role of the individual champion in
+: innovation — and that success depends on more than just a good idea. Edison’s famous comment, that is,
+4 ‘1% inspiration and 99% perspiration’, seems an apt motto here!
+
+FOR QR AE
+````
+
 ## 2025-26 · Final-Exam · Sem 4 · paper e0753e6d4e50
 
 - Departments: Computer Science and Business Systems
@@ -396,104 +537,7 @@ registration for unique styles and silhouettes.
 20
 ````
 
-## 2022-23 · Exam not stated · Sem 4 · paper 2351ebdd5fa6
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/INTRODUCTION TO INNOVATION, IP MANAGEME_6d3699f6/Introduction to Innovation, IP Managemnt & Entrepreneurs, Sem-IV, Year 2022-23, F_30be7796.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2022-2023
-
-Program/s: B.Tech CSBS Year: 1 Semester: IV
-Stream/s ;
-
-Subject: Introduction to Innovation, IP Management & Entrepreneurship Time: 03 hrs (40:00 amto 4:00 pm)
-Date:_27 / 04 / 2023 . No. of Pages: 02 |
-
-Marks: 100.
-
-Final Examination | Re- Examination .
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: (all parts of this question carry equal marks) [20]
-
-CO-1,2 ; a;
-
-ne 12 What are the sources of innovation
-
-remember
-
-Co- 1; b.
-
-a 1 Paraphrase the Stage-gate process for new product development.
-understand
-
-CO- 1,2; c.
-So- 1,2 Articulate the factors found to affect the likelihood of establishing a new venture
-
-BL-apply
-
-CO- 2,3; d.
-SO- 2,3
-
-BL- property.
-analyze
-
-Compare and contrast between A Patent and A trademark as an intellectual
---- page 2 ---
-Suppose a software engineer from a prominent university wants to start a venture
-
-Q2 which would exist only through a digital platform. Taking realistic assumptions,
-CO- 2,3; 1. Provide an innovative business idea [20]
-i 2,3 2. List the functionalities which will be required for above business.
-create 3. Explain any one of the above mentioned functionality in detail.
-4. Mention how revenue will be generated from this business.
-Q3
-CO-1,2; Compare and contrast the “Internal Development” and “Corporate Venture” with [20]
-aa 1,2 respect to the dimensions of technology and market.
-analyze
-a “Among the factors which influence the likelihood of establishing a new venture,
-So. } > ; family background and psychological profile have the highest irifluence”. Do you | [20]
-BL- agree with this statement? Critically examine.
-evaluate
-Q5
-CO- 1,3; . ; 9
-SO- 13 Enumerate the components of a Typical Business Plan for a New Venture? [20]
-BL-
-remember
-Q6
-CO- 1,2; . :
-SO- 1.2 Compare and contrast the different methods of valuation of a venture. [20]
-BL-
-analyze
-Q7 .
-CO- 2,3; _| Distinguish between the different types of intellectual property and their [20]
-aa 2,3 protection mechanism in India.
-apply
-````
-
-## 2021-22 · Exam not stated · Sem 4 · paper 54df57eb92b9
+## 2023-24 · Exam not stated · Sem 4 · paper 54df57eb92b9
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -596,360 +640,7 @@ encountered by a bootstrapped venture? Illustrate with examples.
 ——
 ````
 
-## 2021-22 · Re-Exam · Sem 4 · paper 1e3831d95b40
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/INTRODUCTION TO INNOVATION, IP MANAGEME_6d3699f6/Introduction to Innovation, IP Management & Entrepreneurship, Sem-IV, Re-Exam, 2021-22.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2022
-- Text: ocr (2 pages), mean OCR confidence 87.7
-
-````text
-=
-
-a3
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
-
-Academic Year: 2021-22
-
-Programme: B. Tech Computer Science and Business Systems Year: II Semester: IV
-Subject: Introduction to Innovation, IP Management & Entrepreneurship
-
-. Marks: 100
-Date: 09 June 2022 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (Hrs)
-: No. of Pages: _0Z
-Re-Examination (2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page with relevant examples.
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Qi
-
-Answer briefly: 20
-ae 50-5 | Explain innovation and the process of business innovation. 5
-c0-2;s0-;_ | > Evaluate and decide which innovation- Open or Collaborative is a better | 5
-BL-4 approach to manage innovation in organisations
-c. If an inventor gets an award for his patent in the Australia for a process
-en development of breeding of two plants which he mentioned in Australia
-as itself; which was developed by another person in USA after six-months | >
-independently and now he wants to get patent in USA then illustrate what
-he should do?
-SS S0-; | d. Explain Internal Sources of Funds 5
-As Amazon.com grows larger, the sizes of their Oracle databases continue
-to grow, and so does the sheer number of databases they maintain. This
-has caused growing pains related to backing up legacy Oracle databases to
-2 tape and led to the consideration of alternate strategies including the use of
-Cloud services of Amazon Web Services (AWS), a subsidiary of
-a SO: Amazon.com.
-
-In 2011, Amazon.com switched from tape backup to using Amazon
-Simple Storage Service (Amazon S3) for backing up the majority of its
-Oracle databases. This strategy reduces complexity and capital
-expenditures, provides faster backup and restore performance, eliminates
-
-\
-=
---- page 2 ---
-tape capacity planning for backup and archive, and frees up administrative
-staff for higher value operations. The company was able to replace their
-backup tape infrastructure with cloud-based Amazon S3 storage, eliminate
-backup software, and experienced a 12X performance improvement,
-reducing restore time from around 15 hours to 2.5 hours in select
-scenarios.
-
-Questions:
-
-a. Define Creative Destruction and Disruptive Innovation with an example.
-
-b. Is the innovation mentioned in the above case study a creative 5
-destruction or a disruptive innovation? Explain. 5
-. _ c. Amazon.com switching from tape backup to using Amazon Simple
-$ ; Storage Service (Amazon S3) was Knowledge Push or Need Pull 5
-i Innovation? Justify your answer.
-e d. Is the Innovation undertaken by Amazon.com radical or incremental? 5
-
-Justify your answer.
-
-3 ? : ;
-& Explain the difference between Copyright, Trade mark and Trade Secret 20
-ey 5o% on at least five parameters
-Q4 a . . _— 10
-
-Examine what rights are granted to the patentee when a patent is issued?
-CO-3; SO-; b 7 : a
-BL-3 Examine the various methods of Generating New Ideas. 10
-Qs : : ‘ 3 ,
-cos Se In Strategic Advantages by Innovation explain the Legal protection of 0
-BL? Intellectual Property with examples.
-a6 . . . : ‘
-Rad Hs Explain the various Stages of Financing by a Venture Capital firm 26
-BLA explaining salient features of each stage.
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 2028b7bd9845
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/INTRODUCTION TO INNOVATION, IP MANAGEME_6d3699f6/B Tech, CSBS, Introduction to Innovation, IP Management & Entrepreneurship, 2nd Y_5645f91e.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
-- Text: ocr (2 pages), mean OCR confidence 89.9
-
-````text
-=
-
-> rn
-“ SUVaaly
-. HN LSAK
-
-; SVKM’s NMIMS Se
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2021-22
-
-Programme: B.Tech Computer Science and Business Systems Year: II Semester: IV
-
-Subject: Introduction to Innovation, IP Management & Entrepreneurship
-
-Marks: 100
-
-Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-
-No. of Pages: _2
-
-Date: 14 April 2022
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page with relevant examples.
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-1 :
-° Answer briefly: 20
-a 180-5; | & Explain in detail the sources of business innovation. 5
-co-1;so-; | > Explain in detail both radical and incremental innovation and differentiate | ,
-BL-2 them.
-co-1;S0-; | & Distinguish between Knowledge Push and Need Pull innovation with 5
-BL-2 examples.
-a 1S0-; | d. Compare debt Vs equity as source of Capital for an Entrepreneur 5
-2 ie .
-a a Illustrate how organisation manage Innovation. 10
-aa sl Illustrate how to build an innovation organisation 10
-Case Study
-One inventor resides in country A, a free-market oriented economy. He
-spends a large amount of money to develop a new product. He needs to
-03 recoup the investment from consumers — he will thus internalize the
-sunken costs of R&D into prices. If the invention is commercially
-soe 5O-; successful, it is probable that in another country (country B) where it is not
-
-protected by a patent, a local manufacturer will reverse-engineer the
-process and will “copy” the product. Because the copier will not have
-R&D costs to recover, the copied product, if all other factors are equal,
-will be cheaper in B.
-
-4/2
---- page 2 ---
-Later, the inventor decides to export the product to country B, where he
-will face the competition of the local copier and his lower prices.
-Therefore, he will not be able to export his invention to country B. The
-lack of patent protection in country B operates as a non-tariff barrier to
-trade originated in country A.
-In an international trade rationale, Answer the following questions:
-
-a) What should the government of country A decide?
-
-b) What should the government of country B decide?
-
-c) What is the value of IP here?
-
-d) What could be the WTO dispute settlement mechanism in this
-
-case?
-Q4 : ' -_ ‘
-0.3862 What is the procedure of filing of an application form of a patent? Explain | 39
-Bla with flow diagram.
-Qs Explain the various Technological vs. Non-technological innovation with | 1°
-0-3; S0-; suitable examples.
-Bee Identify the entry strategies available for an entrepreneur to start business. | 10
-06
-€0-3;$0-; Formulate all aspects of the Entrepreneurial Process. 20
-BL-6
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper dcfa6f0dd13f
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/INTRODUCTION TO INNOVATION, IP MANAGEME_6d3699f6/B Tech, Introduction to Innovation, IP Management & Enterpreneurship, Sem-IV, Bat_a902fcb1.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 July 2026
-- Text: ocr (3 pages), mean OCR confidence 91.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT. ENGINEERING
-
-Academic Year: 2025-26
-Program: B Tech (CSBS)
-
-Year: I Semester :
-
-Subject: Introduction to Innovation, IP Management & .
-Entrepreneurship Time: 2.00 pm to 5.00 pm (3 hrs)
-
-Date : 09 July 2026
-
-No. of Pages: 03
-Marks: 100
-
-Re-Exam (2023-24/2025-26)
-
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No.1 is compulsory. truction....
-5. Out of remaining questions, attempt any 4 questions.
-6. Both parts of Q2 to Q7 are compulsory
-7. In all 5 questions to be attempted.
-8. Figures in brackets on the right hand side indicate full marks.
-9. Marks will be deducted for untidy work / illegible handwriting
-
-Qi .
-Answer briefly: [14/20]
-CO-4 ; a.
-SO- 2; What actually was the case of Dyson versus Hoover all about?
-BL- 3
-CO- 4; b.
-SO- 2; Why was Dyson unhappy with the Hoover vacuum cleaner?
-BL- 3
-CO-4; Cc.
-SO- 2; What was Dyson’s idea and how did he turn it into an opportunity
-BL- 3
-CO- 4; d. . ; . . . .
-50-2: Looking at Dyson’s struggles in spite of having a great idea, what do
-BL- 3 you think were the reasons for his success?
-Q2 a. Show how the three forces shaping the twenty-first century, according ‘
-to Salkowitz (2010) — youth, entrepreneurship and ICT — are captured in {14/20
-CO- 2; the cyclical model of innovation
-SO 2-; b. Explain Sergey Brin’s (co-founder of Google) comment that coming up ]
-BL-2 ‘with an idea is easy, but innovation is difficult.
-Q3 a. What is the difference between an unsuccessful innovation and an
-invention? [14/20
-CO-2;
-SO- 4; ib. Explain how customer focus and innovation can be special strengths of ]
-BL-4 small businesses. Give two examples from the Industry
-Q4 a. If the income statement of a ffnancial plan shows that the business will [14/20
-CO 2-; b be profitable, why is there a need for a statement of cash flows
-SO- 4; | Investors are said to be more market-oriented than product-oriented. ]
-BL-4 4 What is the logic behind this orientation
-
-FOC 7 GR GR Rr
---- page 2 ---
-~ mF
-
-Os Why might an entrepreneur prefer to launch an entirely new venture
-—_ 9 [14/20
-CO- 3; a. rather than buy an existing firm?
-SO- 3; What are the three basic types of start-up ideas? What are thie j post ]
-BL- 2 b. common sources of inspiration for start-up ideas?
-Q6 a. - . . . .
-What advantages are realized by using a computer in preparing the
-a : : : 2 : 2 7 [14/20
-CO- 3; narrative sections of a business plan? In preparing the financial plan?
-SO- 3; b When should you write a business plan? When might it not be necessary | |
-BL- 2 : or even advisable to write a plan?
-Q7 a. . , . . . .
-How might an entrepreneur’s perspective differ from that of an investor in (14/20
-CO- 4; b terms of the business plan?
-SO 4-; . What are the most common sources of inspiration for start-up ideas? Give ]
-BL- 3 two examples.
-
-Read the Case study below and answer the questions Q1 (a) to (d)
-Bags of Ideas — The Case of James Dyson
-
-In October 2000, the air inside Court 58 of the Royal Courts of Justice in London rang with terms such
-as ‘bagless dust collection’, ‘cycloné technology’, ‘triple vortex’ and ‘dual cyclone’ as one of the most
-bitter of patent battles in recent years was brought to a conclusion. On one side was Hoover, a
-multinational firm with the eponymous vacuum suction sweeper at the heart of a consumer appliance
-empire. On the other side, a lone inventor — James Dyson — who had pioneered a new approach to the
-humble task of house cleaning and then seen his efforts threatened by an apparent imitation by Hoover.
-Eventually, the court ruled in Dyson’s favour.
-
-This represented the culmination of a long and difficult journey that Dyson wavcladit in bringing his
-ideas to a wary marketplace. It began in 1979 when Dyson was using, ironically, a Hoover Junior
-vacuum cleaner to dust the house. He was struck by the inefficiency of a system, which effectively
-reduced its capability to suck the more it was used since the bag became clogged with dust. He tried
-various improvements such as a finer mesh filter bag, but the results were not promising. The
-breakthrough came with the idea of using industrial cyclone technology applied in a new way — to the
-problem of domestic cleaners. Dyson was already an inventor with some track record’and one of his
-products was a wheelbarrow that used a ball instead of a front wheel. In order to spray the black dust
-paint in a powder coating plant, a cyclone was installed — a well-established engineering solution to the
-problem of dust extraction. Essentially, a mini-tornado is created within a shell and the air in the vortex
-moves so fast that*the particles of dust are forced to the edge where they can be collected while clean air
-moves to the centre. Dyson began to ask why the principle could not be applied in vacuum cleaners —
-and soon found out. His early experiments — with the Hoover — were not entirely successful but
-eventually he applied for a patent in 1980 for a vacuum cleaning appliance using cyclone technology.
-It took arfother four years and 5127 prototypes and even then he could not patent the application of a
-single cyclone since that would only represent an improvement on cyclone system that used the first to
-separate out large items of domestic refuse — cigarette ends, dog hairs, cornflakes, and so on — and the
-second to pick up the finer dust particles. But having proved the technology, he found a distinct cold
-shoulder on the part of the existing vacuum cleaner industry represented by firms such as Hoover,
-Philips‘and Electrolux. In typical examples of the ‘not-invented-here’ effect, they remained committed
-to the idea of vacuum cleaners using bags and were unhappy with bagless technology. (This is not
-entirely surprising since suppliers such as Electrolux make a significant income on selling the
-
-FICK A IH IC A
---- page 3 ---
-.
-
-replacement bags for its vacuum cleaners.) Eventually, Dyson began the hard work of raising the funds
-to start his own business — and it gradually paid off.
-Launched in 1993 — 14 years after the initial idea - Dyson now runs a design-driven Business worth
-around £530 million and has a number of product variants in its vacuum cleaner range; other products
-under development aim to re-examine domestic appliances such as washing machines and dishwashers
-to try and bring similar new ideas into play. The basic dual cyclone cleaner was one of the products
-identified by the UK Design Council as one of its ‘millennium products’. Perhaps, the greatest accolade
-though is the fact that the vacuum cleaner giants such as Hoover eventually saw the potential and began
-developing their own versions. Dyson has once again shown the role of the individual champion in
-: innovation — and that success depends on more than just a good idea. Edison’s famous comment, that is,
-4 ‘1% inspiration and 99% perspiration’, seems an apt motto here!
-
-FOR QR AE
-````
-
-## Year not stated · Final + Re-Exam · Sem 4 · paper 87643139f9eb
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 87643139f9eb
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -1060,4 +751,313 @@ BL-6
 
 screening, monitoring and progression frameworks such as Cooper’s ‘stage-
 gate’ approach. Illustrate and explain the approach.
+````
+
+## 2022-23 · Exam not stated · Sem 4 · paper 2351ebdd5fa6
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/INTRODUCTION TO INNOVATION, IP MANAGEME_6d3699f6/Introduction to Innovation, IP Managemnt & Entrepreneurs, Sem-IV, Year 2022-23, F_30be7796.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2022-2023
+
+Program/s: B.Tech CSBS Year: 1 Semester: IV
+Stream/s ;
+
+Subject: Introduction to Innovation, IP Management & Entrepreneurship Time: 03 hrs (40:00 amto 4:00 pm)
+Date:_27 / 04 / 2023 . No. of Pages: 02 |
+
+Marks: 100.
+
+Final Examination | Re- Examination .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: (all parts of this question carry equal marks) [20]
+
+CO-1,2 ; a;
+
+ne 12 What are the sources of innovation
+
+remember
+
+Co- 1; b.
+
+a 1 Paraphrase the Stage-gate process for new product development.
+understand
+
+CO- 1,2; c.
+So- 1,2 Articulate the factors found to affect the likelihood of establishing a new venture
+
+BL-apply
+
+CO- 2,3; d.
+SO- 2,3
+
+BL- property.
+analyze
+
+Compare and contrast between A Patent and A trademark as an intellectual
+--- page 2 ---
+Suppose a software engineer from a prominent university wants to start a venture
+
+Q2 which would exist only through a digital platform. Taking realistic assumptions,
+CO- 2,3; 1. Provide an innovative business idea [20]
+i 2,3 2. List the functionalities which will be required for above business.
+create 3. Explain any one of the above mentioned functionality in detail.
+4. Mention how revenue will be generated from this business.
+Q3
+CO-1,2; Compare and contrast the “Internal Development” and “Corporate Venture” with [20]
+aa 1,2 respect to the dimensions of technology and market.
+analyze
+a “Among the factors which influence the likelihood of establishing a new venture,
+So. } > ; family background and psychological profile have the highest irifluence”. Do you | [20]
+BL- agree with this statement? Critically examine.
+evaluate
+Q5
+CO- 1,3; . ; 9
+SO- 13 Enumerate the components of a Typical Business Plan for a New Venture? [20]
+BL-
+remember
+Q6
+CO- 1,2; . :
+SO- 1.2 Compare and contrast the different methods of valuation of a venture. [20]
+BL-
+analyze
+Q7 .
+CO- 2,3; _| Distinguish between the different types of intellectual property and their [20]
+aa 2,3 protection mechanism in India.
+apply
+````
+
+## 2021-22 · Exam not stated · Sem 4 · paper 2028b7bd9845
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/INTRODUCTION TO INNOVATION, IP MANAGEME_6d3699f6/B Tech, CSBS, Introduction to Innovation, IP Management & Entrepreneurship, 2nd Y_5645f91e.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
+- Text: ocr (2 pages), mean OCR confidence 89.9
+
+````text
+=
+
+> rn
+“ SUVaaly
+. HN LSAK
+
+; SVKM’s NMIMS Se
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2021-22
+
+Programme: B.Tech Computer Science and Business Systems Year: II Semester: IV
+
+Subject: Introduction to Innovation, IP Management & Entrepreneurship
+
+Marks: 100
+
+Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+
+No. of Pages: _2
+
+Date: 14 April 2022
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page with relevant examples.
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+1 :
+° Answer briefly: 20
+a 180-5; | & Explain in detail the sources of business innovation. 5
+co-1;so-; | > Explain in detail both radical and incremental innovation and differentiate | ,
+BL-2 them.
+co-1;S0-; | & Distinguish between Knowledge Push and Need Pull innovation with 5
+BL-2 examples.
+a 1S0-; | d. Compare debt Vs equity as source of Capital for an Entrepreneur 5
+2 ie .
+a a Illustrate how organisation manage Innovation. 10
+aa sl Illustrate how to build an innovation organisation 10
+Case Study
+One inventor resides in country A, a free-market oriented economy. He
+spends a large amount of money to develop a new product. He needs to
+03 recoup the investment from consumers — he will thus internalize the
+sunken costs of R&D into prices. If the invention is commercially
+soe 5O-; successful, it is probable that in another country (country B) where it is not
+
+protected by a patent, a local manufacturer will reverse-engineer the
+process and will “copy” the product. Because the copier will not have
+R&D costs to recover, the copied product, if all other factors are equal,
+will be cheaper in B.
+
+4/2
+--- page 2 ---
+Later, the inventor decides to export the product to country B, where he
+will face the competition of the local copier and his lower prices.
+Therefore, he will not be able to export his invention to country B. The
+lack of patent protection in country B operates as a non-tariff barrier to
+trade originated in country A.
+In an international trade rationale, Answer the following questions:
+
+a) What should the government of country A decide?
+
+b) What should the government of country B decide?
+
+c) What is the value of IP here?
+
+d) What could be the WTO dispute settlement mechanism in this
+
+case?
+Q4 : ' -_ ‘
+0.3862 What is the procedure of filing of an application form of a patent? Explain | 39
+Bla with flow diagram.
+Qs Explain the various Technological vs. Non-technological innovation with | 1°
+0-3; S0-; suitable examples.
+Bee Identify the entry strategies available for an entrepreneur to start business. | 10
+06
+€0-3;$0-; Formulate all aspects of the Entrepreneurial Process. 20
+BL-6
+````
+
+## 2021-22 · Re-Exam · Sem 4 · paper 1e3831d95b40
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/INTRODUCTION TO INNOVATION, IP MANAGEME_6d3699f6/Introduction to Innovation, IP Management & Entrepreneurship, Sem-IV, Re-Exam, 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2022
+- Text: ocr (2 pages), mean OCR confidence 87.7
+
+````text
+=
+
+a3
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
+
+Academic Year: 2021-22
+
+Programme: B. Tech Computer Science and Business Systems Year: II Semester: IV
+Subject: Introduction to Innovation, IP Management & Entrepreneurship
+
+. Marks: 100
+Date: 09 June 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (Hrs)
+: No. of Pages: _0Z
+Re-Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page with relevant examples.
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Qi
+
+Answer briefly: 20
+ae 50-5 | Explain innovation and the process of business innovation. 5
+c0-2;s0-;_ | > Evaluate and decide which innovation- Open or Collaborative is a better | 5
+BL-4 approach to manage innovation in organisations
+c. If an inventor gets an award for his patent in the Australia for a process
+en development of breeding of two plants which he mentioned in Australia
+as itself; which was developed by another person in USA after six-months | >
+independently and now he wants to get patent in USA then illustrate what
+he should do?
+SS S0-; | d. Explain Internal Sources of Funds 5
+As Amazon.com grows larger, the sizes of their Oracle databases continue
+to grow, and so does the sheer number of databases they maintain. This
+has caused growing pains related to backing up legacy Oracle databases to
+2 tape and led to the consideration of alternate strategies including the use of
+Cloud services of Amazon Web Services (AWS), a subsidiary of
+a SO: Amazon.com.
+
+In 2011, Amazon.com switched from tape backup to using Amazon
+Simple Storage Service (Amazon S3) for backing up the majority of its
+Oracle databases. This strategy reduces complexity and capital
+expenditures, provides faster backup and restore performance, eliminates
+
+\
+=
+--- page 2 ---
+tape capacity planning for backup and archive, and frees up administrative
+staff for higher value operations. The company was able to replace their
+backup tape infrastructure with cloud-based Amazon S3 storage, eliminate
+backup software, and experienced a 12X performance improvement,
+reducing restore time from around 15 hours to 2.5 hours in select
+scenarios.
+
+Questions:
+
+a. Define Creative Destruction and Disruptive Innovation with an example.
+
+b. Is the innovation mentioned in the above case study a creative 5
+destruction or a disruptive innovation? Explain. 5
+. _ c. Amazon.com switching from tape backup to using Amazon Simple
+$ ; Storage Service (Amazon S3) was Knowledge Push or Need Pull 5
+i Innovation? Justify your answer.
+e d. Is the Innovation undertaken by Amazon.com radical or incremental? 5
+
+Justify your answer.
+
+3 ? : ;
+& Explain the difference between Copyright, Trade mark and Trade Secret 20
+ey 5o% on at least five parameters
+Q4 a . . _— 10
+
+Examine what rights are granted to the patentee when a patent is issued?
+CO-3; SO-; b 7 : a
+BL-3 Examine the various methods of Generating New Ideas. 10
+Qs : : ‘ 3 ,
+cos Se In Strategic Advantages by Innovation explain the Legal protection of 0
+BL? Intellectual Property with examples.
+a6 . . . : ‘
+Rad Hs Explain the various Stages of Financing by a Venture Capital firm 26
+BLA explaining salient features of each stage.
 ````

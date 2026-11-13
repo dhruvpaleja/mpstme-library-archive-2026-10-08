@@ -1,6 +1,6 @@
 # Machine Learning: question papers in full
 
-110 unique papers · 2017-18 to 2025-26 · Computer Engineering, Electronics and Telecommunication, Artificial Intelligence, Data Science, Computer Science and Business Systems, Computer Applications (MCA), AI and Data Science, AI and Machine Learning, Computer Science, Common (all branches)
+111 unique papers · 2017-18 to 2025-26 · Computer Engineering, Electronics and Telecommunication, Artificial Intelligence, Data Science, Computer Science and Business Systems, Computer Applications (MCA), AI and Data Science, AI and Machine Learning, Computer Science, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -2588,6 +2588,7 @@ FRR aOR GK x
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE Data Science (311)/SEM-V/MACHINE LEARNING/Machine Learning, Sem-V, Year 2025-26, Final Exam.pdf`
 - Printed on paper: max marks: 100; exam date: 26 Nov 2025
 - Text: ocr (3 pages), mean OCR confidence 87.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -2661,7 +2662,6 @@ S00 ip P Ip
 
 = 1, No = 0) based on their years of experience (X). where c=—4, m=0.5. Use | [10]
 BL-3 Logistic regression to solve the problem.
-OB Ro KK OK 1 OR RK KR KK
 
 ,
 --- page 2 ---
@@ -4119,6 +4119,7 @@ L-
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_CSBS_7036/Machine Learning/QP_Machine Learning(702CO1E001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -4842,6 +4843,7 @@ BL-2
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_CS_7055/Machine Learning/QP_Machine Learning(702CO1E001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -5150,6 +5152,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/MACHINE LEARNING/Machine Learning, Sem-IV, Batch 2023-24 &2024-25, 2025-26, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; exam date: 30 June 2026
 - Text: ocr (5 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / SVKM’S NMIMS
@@ -5409,7 +5412,6 @@ remains
 
 [10
 
-FRI aA A i a ok
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · paper 107e95cb9aef
@@ -5419,6 +5421,7 @@ FRI aA A i a ok
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/MACHINE LEARNING/Machine Learning Batch 2023-24,2024-25,2025-26 Re Exam.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; exam date: 09 July 2026
 - Text: ocr (3 pages), mean OCR confidence 84.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 — SVKM’S NMIMS
@@ -5512,7 +5515,6 @@ eae sigmoid activation function is applied to both the hidden and output layers.
 
 Blo eights are given by,
 
-Xi | Xo | X3 | Waa | Wis | Wea | Was | Waa | Was | Was | Wee | Woa | Wos | Woe
 1|0O /1 0.2 | -0.3 0.4 0.1 | -0.5 0.2 | -0.3 -0.2 -0.4 0.2 | 0.4
 
 “e
@@ -5526,7 +5528,6 @@ Q5 a. | Explain Random Forest algorithm in detail. Discuss how randomness in dat
 SO-1, and feature selection improves generalization.
 BL-3 Z
 
-FIO CR AIC A i dk a
 --- page 3 ---
 ~
 
@@ -5575,6 +5576,7 @@ RRR RRR 2 KR RR KR KEK
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/MACHINE LEARNING/Machine Learning, Semester IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 90.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -5822,7 +5824,6 @@ Page 5 of 6
 Apply Agglomerative Clustering with Single Linkage and construct a
 dendrogram to represent the clustering hierarchy.
 
-CO-3; SO- P Q R s il U
 
 P 0 3 8 10 7 12 [10]
 fae Q 3 0 6 9 5 11
@@ -6203,6 +6204,7 @@ No Yes No No
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM X/Machine learning/Machine learning Batch 2024-25 Final Batch 2023-24 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -6219,7 +6221,6 @@ Date: a7 _/oag / 2025 No. of Pages: 4
 
 Marks: 100
 
-Final Exgmin eyo ee Beaulinaiton (23- 24)
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
@@ -7219,6 +7220,158 @@ BL-4 2 1 1 0 [10]
 
 ````
 
+## 2024-25 · Re-Exam · Sem 6 · paper 655852d95be6
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/MACHINE LEARNING/Machine Learning , Re-exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: _MBATech_ Year: Til Semester: VI
+Stream/s;____ Computer.
+
+Subject: _ Machine Learning Time: _03 hrs (Q-o0ps to 5: 80 pro)
+Date:_07 /05 / 2025 No. of Pages: 3
+
+Marks: 100
+
+Re-Examination - (2022-2023)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1. is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: a
+CO- 1;| A. | What are the common techniques for handling missing values in a dataset?
+S$O-1 ; Explain how the choice of technique can impact the performance of a machine | [05]
+BL-2 learning model.
+Co-3 ;/| B.
+SO-1; What are some common challenges in evaluating recommender systems? [05]
+BL-2
+co2 3/C.
+SO-2 ; Define bias and variance in the context of machine learning models. [05]
+BL-2
+co-3 ;/D. : ;
+SO-1: Describe the concept of Support Vector Machines (SVMs) and how they are [05]
+; used for binary classification.
+BL-2
+Q2 A . a . a
+CO-1: Discuss two real-world applications where supervised learning is used and two
+S O-1: applications where unsupervised learning is applied. Explain why each | [10]
+BL-2 algorithm type is suitable for the respective application
+B_ | You are given a dataset of student scores:
+CO-1; Scores: [55,58,45,60,62,78,85,95,200,48,50,52,90]
+SO-1; Identify the outliers using the Interquartile Range (IQR) method. If any outliers | [10]
+BL-3 are detected, replace them with the upper or lower bound as needed.
+--- page 2 ---
+Q3 A
+
+CO-3; What is ensemble learning, and how does it improve the performance of [10
+SO-2; individual models? Explain the concept with an example. ]
+BL-2
+B_ | Acompany wants to predict whether a customer will purchase a product (Class
+= 1) or not purchase a product (Class = 0) based on two features: X1: Number
+of visits to the website, X2: Time spent on the website (in minutes)
+X1 (Visits) X2 (Time Spent) Class (Purchase)
+3 5 0
+CO-3; 5 8 1
+SO-6; 6 6 1 [10]
+BL-3
+8 9 0
+7 4 1
+Predict the class of a new point (4, 5) using the k-NN algorithm with k=3. Use
+Euclidean distance to calculate distance.
+Q4 A .
+a 7 What are recommender systems, and how do they enhance user experience? _| [10]
+al
+BL-2
+B_ | You are given the following data points:
+X (Hours Studied) | Y (Marks Scored)
+2 50
+COo-2; 3 60
+SO-6; 5 80 [10]
+BL-3 7 90
+9 95
+Use the OLS method to calculate the slope B1 and intercept B0 of the regression
+line
+A_ | A telecom company wants to predict whether a customer will churn based on
+the following dataset:
+Tenure Contract Type Churn
+Qs <=12 Monthly Yes
+CO-1; <=12 Yearly No (10)
+SO-1; 13-24 Monthly Yes
+BL-2 13-24 Yearly No
+
+>24 Monthly No
+
+1. Calculate the Gini index of the target variable (Churn).
+2. Compute the Gini index for the attribute ‘Tenure’.
+--- page 3 ---
+3, Determine which attribute should be used for the first split using the CART
+
+algorithm.
+CO-4; B . : .
+50-6: Explain the working of a content-based recommender system. How does it [10]
+BL-3 utilize item features to make recommendations?
+
+A_ | A tech company has developed a machine learning model to classify incoming
+emails as either Spam (Positive) or Not Spam (Negative) to protect users from
+unwanted messages. To evaluate the performance of the model, the company
+
+Q6 tested it on a sample of 200 emails, and the following results were obtained:
+
+CO-3; e 85 emails that were actually spam were correctly identified as spam. [10]
+SO-6; e 15 emails that were spam were incorrectly classified as not spam.
+
+BL-3 » 90 emails that were not spam were correctly classified as not spam.
+
+e 10 emails that were not spam were mistakenly classified as spam.
+Create confusion matrix from above information and compute precision, recall,
+accuracy and F1 score
+
+CO-2: B Explain the concepts of Ridge and Lasso regression. How do these
+SO-2; regularization techniques modify the cost function in linear regression to | [10]
+BL-2 prevent overfitting?
+Q7 A
+CO-2; What are the key advantages of using bagging techniques in machine learning? 10
+SO-2; Explain how bagging helps reduce variance. [10]
+BL-2
+
+B
+CO-1; What is the "No Free Lunch Theorem" in the context of machine learning? [05]
+SO-1; Discuss its implications for choosing an optimal model for a given problem
+BL-2
+Co-1; Cc What i . ‘ . P ca
+
+at is the importance of variable transformation and variable creation in
+
+SO-1; [05]
+
+* ering’?
+BL-1 feature engineering?
+--- page 4 ---
+
+````
+
 ## 2024-25 · Re-Exam · Sem 3 · paper 3d18e58dc9e3
 
 - Departments: Computer Applications (MCA)
@@ -7300,6 +7453,463 @@ CO-2; BL-M example ,
 b | What do you mean by Ensemble Technique? Explain the working of random forest
 CO-2; BL-M . we [10]
 algorithm with suitable example.
+````
+
+## 2023-24 · Final + Re-Exam · Sem 4 · paper f8477fd37109
+
+- Departments: Artificial Intelligence, Data Science
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/MACHINE LEARNING/Machine Learning, Sem-IV, Final & Re Exam 2022-23.pdf` (+3 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 18/04/2024
+- Text: ocr (5 pages), mean OCR confidence 86.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+MPSTME
+wr LIBRARY   /s
+os
+
+SENGINEERING/, J
+
+SP Frnt
+Lim Wn
+S UNIVERS!
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024 - cf oie
+Program/s: B Tech/MBA Tech . Year: II Sesiesiae IV
+Stream/s : AYAIDS/AIML/CSE(DS) ___ _ -
+Subject: Machine Learning Time: 3 hrs (10.00 am to 1.00 pm)
+Date: 18/04/2024. ; : _ No. of Pages: 5
+Marks: 100
+
+Final Examination/Re-Examination ( 2022-2093) 00!
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. :
+--~1) Question No. _1____ is compulsory. :
+2) Out of remaining questions, attempt any __4 _ questions.
+3) Inall___5_ questions to be attempted. —
+4) All questions carry equal marks. ,
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly (Each question carries 4 marks): [20]
+
+CO-1; |-a. | Predicting the price of a pre-owned vehicle depends on the number of factors such as
+SO-1; Purchased year, Current showroom price, Fuel type, kilometers driven, Existing
+BL-1 owners, Transmission type, Seller type. Answer the following for this application:
+
+1. Identify the appropriate category (supervised/unsupervised). of the machine
+learning algorithm that can be applied to above task
+
+2. Identify a suitable algorithm which can be used for this task
+
+3. List:dependent and independent features.
+
+CO-1; | b. | Identify outliers from the following quiz scores for 18 students using boxplot:
+
+| SO-2; (11, 8, 12, 12, 5, 13, 12, 14, 14, 13, 13, 14, 13, 15, 15, 15, 15,15)
+BL-3
+CO-2; | «. | Consider the data shown,
+SO-2; x (No. of years.in the | y (skill upgradation
+BL-5 organization) courses completed)
+3 1
+4 2
+5 : 2
+6 3
+
+Evaluate the updated weights (parameters) after one iteration if simple linear regression
+is applied by using gradient descent. Use learning rate «. =0.05 and initial weights,
+
+00 = 6; = 0.5. .
+CO-2; | d. | Explain the significance of sigmoid function in logistic regression. Justify its use for
+SO-2; logistic regression. :
+
+BL-2
+
+Faqe we
+--- page 2 ---
+¥
+
+CO-3; | e. | A classifier is used to train a machine to classify cat, dog and Monkey. Confusion
+
+SO-2; matrix for this classifier is shown below. Determine recall for each class.
+BL-3 | — Predicted
+‘ Cat | Dog | Monkey
+Cat “18 . 16 5.
+Actual Dog 4 20 4
+
+Monkey | 3 + 30
+Q2
+CO-1; | A | The dataset given below is for the. land price detection model for various zones in a | [5]
+SO-2; city using Area of the land and Air Quality Index. Apply normalization scaling
+BL-3 technique on the following two features:
+
+1. Area of the Land
+2. Air Quality Index
+
+s Sr No | Area of the Land | Air Quality | Land Price
+
+= (sq: meters) Index (AQD) | (Rs. Per acre)
+
+1. 13690 ‘146 ; 120000
+
+2. 12555 42 150000
+
+3. 11900 -_ | 139 345000
+
+4, 12560 144 445000
+
+= 23000 37 - | 600000
+
+6. 35550 ; 350 -| 350000
+
+7. 42000 | 45 450000
+
+8. 45000 112 550000
+
+9: 27700 77 250000
+
+10. 12345 _ | 82 -_ | 377133
+CO-1; | B | Explain the term ‘curse of dimensionality’. What problem does it cause? List down the | [5]
+SO-2; methods used in:Dimensionality Reduction.
+BL-2
+CO-3;|C [l.” Use the K nearest neighbor classifier (KNN) to categorize the patient with | [10]
+SO-2; BMI=43.6 and Age=40 as diabetic/non-diabetic. Given the training examples:
+BL-4 (Assume K=3 and use Euclidean. Distance)
+
+2. What will be the classification if k=5? How do we choose the optimum value of K
+in KNN algorithm?
+
+BMI Age Diabetic/non-
+diabetic
+33.6 50 1
+26.6 30 0
+23.4 40 0
+43.1 67 0
+35.3 23 1
+35.9 67 1
+
+Page Ys
+--- page 3 ---
+3
+8 ele)
+
+-2;| A |1. With the help of an example, develop the model for multiple linear regression: [10]
+SO-2; Outline the steps for estimating the parameters of the model.
+BL-2 2. — Justify the need of polynomial regression giving an example.
+
+B | Consider the dissimilarity matrix for the data points. Perform agglomerative clustering | [10]
+on the data points and draw the dencoenam, Use Euclidean distance as a distance
+measure.
+
+CO-3; A |0
+SO-2; B 2 0
+BL-4 {Cc 4 3 0 .
+‘|D 10 7: _|9 - [0
+E 8 5 6 |3 |0
+F [4 6.15 |2 |1 jo
+a ;
+Q4 ;
+CO-1; | A | Explain and illustrate with examples the various techniques that can be used to handle | [5]
+SO-2; | missing data in machine learning.
+BL-2 ’ ; ;
+B |l.._ Estimate the equation of the line separating positively labelled data points (1,1), | [10]
+CO-3; (2,0), (1, -1) and negatively labelled data points (4,0), (5,1), (5, -1) using Support
+SO-2; Vector Machine (SVM) algorithm.
+BL-3 2. Howis SVM used for classifying non-linearly sepavstile data? Explain what is the
+kernel trick in SVM.
+‘CO-3; | C | What is ensemble learning, and how does it differ from traditional machine learning | [5]
+SO-2; approaches?
+BL-2
+Q5
+A | The dataset given below shows the relationship between the number of hours spent [10]
+on writing essay and the grade scored. Determine the best fitting line using ordinary
+a least square regression (OLS).
+: Sr No | Hours spent on Essay | Grade
+1 6 ‘ 82
+2 10 88
+CO-2; 3 2 56
+S0-2: 4- 4 64
+BI-3 5 6 77
+6 7 92
+7 0 23
+8 1 ‘ Al
+9 8 80
+10 5 59
+ll 3 47
+
+Page 3 i
+--- page 4 ---
+¥
+
+Consider the data for the six cites shown in the table, where number of schools and the [10]
+student strength in each school is shown. Use K means algorithm to cluster the data
+
+and show the updated cluster centers after first iteration. Assume k = 2 and (2,2) and
+
+(3,3) as initial cluster centers.
+
+Sr | Number | student
+
+CO-3; No -| of schools | strength in each
+SO-2; school (in
+BL-3 thousands)
+1 3 3 :
+2 2 2
+3 2 4
+4 2 1
+5 4. 2
+6 3 1
+Q6 7
+A | A company is trying to predict whether customers will purchase a product based on | [10] -
+demographic and purchase history data. They have collected the following dataset:
+Customer | Age . Gender | Income | Purchase
+1 Young Male Low No
+2 Young Male High No
+CO-3; 3 Middle-aged _| Male Low Yes
+SO-2; 4- Senior Male High |, Yes
+BL-4 5 Senior Female | Low Yes
+6 Middle-aged | Female | Low Yes
+7 Young Female | High No
+8 Young Female Low Yes
+
+Using entropy as the splitting criterion, decide which feature (Age/ Gender/ nc
+should be used as the root node for splitting the samples.
+
+Page 41s
+--- page 5 ---
+B|1. | What is the Naive assumption in Naive Bayes classifier? Fr [10]
+2. Given a dataset to predict the species from the features, Predict the species of an
+entity with the following attributes using the Naive Bayes classification
+approach, X = {Legs=2, Height=Tall, Smelly=No}
+
+Legs Height | Smelly Species _
+
+CO-3; 3 Short Yes M
+SO-2; 2 Tall No M
+BL-3 ; 3 Short Yes M
+3 Short Yes M
+2 Short’ No H
+2 Tall No H
+2 Tall No H
+2 Short Yes H
+Q7
+CO-1; | A |1. Compare Parametric and non-parametric machine learning models. [4]
+SO-1; 2. Explain briefly the points which influence the choice of Parametric and non-
+BL-2 parametric machine learning models?
+CO-3; | B |l. | Compare bagging and boosting techniques used in ensemble learning. [8]
+SO-2; | °2. Explain the basic concept of Adaboost classifier.
+BL-2
+
+C | With respect to DBSCAN algorithm, explain the following terms with suitable | [8]
+examples: .
+
+CO-3; 1. ° Core points
+SO-2; 2 Bod int
+BL2 ‘ order points
+
+3. Density reachable points
+4. Outliers
+
+Fage Ss]
+````
+
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 2b1640e05855
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/MACHINE LEARNING/Machine Learning, Sem-IV, Final & Re Exam Batch 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 88.6
+
+````text
+°STM:
+SRARY
+RING/
+
+SVKM’S NMIMS (a
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: B Tech Year: I] Semester: IV
+Stream/s ; AI
+
+Subject: Machine Learning 7 Time: 3 hrs (104m to_4pm_)
+Date:_18& /04/2024 No. of Pages: 4
+Marks: 100
+
+Final Examination/Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+ff»
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly:
+
+a. | Suppose you developed a model to predict whether a received email is spam
+
+(positive class) or not spam (negative class). You tested the model on 100
+
+emails and the results were:
+C033 - True Positives (TP): 40 emails
+SO-6 ; - True Negatives (TN): 50 emails [5]
+
+7 >BL-3 - False Positives (FP): 5 emails
+- False Negatives (FN): 5 emails
+Calculate the Precision, Recall, Accuracy and F1 score.
+Also, show the confusion matrix.
+b. | Describe the scenario where machine learning is boon for the society.
+
+Identify the types of machine learning algorithms. In case of supervised
+Col; algorithm, also specify the types. Justify your answers
+SO-6 ; i. Stock market prediction [5]
+BL-2 ii. Prediction of count of potential dengue patients
+
+ili. Placing of items in shopping mart
+
+CO2- ; ¢.
+SO- 1; Differentiate between Lasso and Ridge Regression. Use schematics. [5]
+BL-3
+--- page 2 ---
+CO3- ; d. | For the below feature space (Eucledian distance given) for 5 points, identify the | [5]
+
+SO- 6; core/border/noise points for DBSCAN given EPS=0.2 and MinPts=2.
+BL-4 Pl P2 P3 P4 P5
+
+Pl 0 0.9 0.59 0.45 0.65
+
+PZ 0.9 0 0.36 0.53 0.02
+
+P3 0.59 | 0.36 0 0.56 0.15
+
+P4 0.45 0.53 0.56 0 0.24
+
+PS 0.65 0.02 | 0.15 0.24 0
+
+i. Determine the underfitted and overfitted model from the graphs given
+below. Justify your answer. Discuss problem of underfitting and overfitting
+while designing machine learning mode]. How can you overcome it?
+
+| =| 3 |
+Q2a g . *| =|
+=) i
+eae | ee [10]
+SO-1; if age Size OG
+BL-4 00 + O12 + Box? + 032° + 0424 0 + Oa + O52?
+(a) (b)
+ii. Using Apriori algorithm, find the frequent item sets for the following
+transactions and items (Minimum Support = 2)
+Transaction | Items
+Tl 1|3 |4
+T2 213 [5
+T3 1 {2 |[3{|5
+Q2b Demonstrate using diagram the concept of support vectors in SVM. Show that
+C02-; in SVM, minimizing the weights maximizes the margin. Explain the importance [10]
+SO-1; of soft margin in SVM. How does SVM deal with nonlinear data?
+BL-5
+Apply the concept of Naive bayes classifier for text classification to classify:
+A very close game
+Q3a Text Tag
+CO3-; “A great game” Sports
+“The election was over” Not sports [10]
+SO-1; “Very clean match” Sports
+BL-5S “A clean but forgettable game” Sports
+“Tt was a close election” Not sports
+2
+--- page 3 ---
+Determine values of thetas by performing two iterations of gradient descent for
+. . . ai ¥
+
+linear regression. (use vectorized method). Let learning rate be 0.001, start
+with initial coefficients as 0. Calculate the error at each iteration.
+
+xX Y
+Q3b 1 8
+CO2-; 2 17 [10]
+SO-1; 2 im
+BL-5 3 22
+4 20
+4 27
+5 50
+i. Describe with schematics how Logistic regression can be used for multi-class
+classification. [5]
+ii. Consider the below dataset:
+Xi1 X2 Default
+87 2 N
+89 2 N
+aa 100 | 26 Y
+CO3-; 275 54 Y [10]
+SO-6; 42 57 Y
+BL-4 88 53 N
+The data set was used as training set to build a logistic regression model and the
+values of thetas obtained after training were
+89 = —5.7, 6, = 0.008 and 6, = 0.102.
+Consider the data you want to test on the model is the training set (above).
+Find the new predictions. [5]
+Apply 2 iterations of K-means clustering and get the centroids (K=3) on the
+following data samples. Assume initial centroids: C1=(2,3), C2=(5,4),C3=(9,6).
+Calculate Cluster Cohesion (SSE) and Cluster Separation (SSB).
+Q4b xl x2
+2 3
+CO3-; 5 4 [10]
+SO-1; 9 6
+BL-S 8 2
+7 5
+6 8
+3 6
+4 2
+3
+--- page 4 ---
+Q5a Apply agglomerative clustering using single linkage approach on the following
+data set. Plot the dendrogram of your result. [10]
+we SOl, A(1, 1), B(2, 3), C(3, 5), D(4,5), E(6,6), and F(7,5)
+Q5b
+CO3-; $06: kidcc is Ensemble neaunsnigt, Yitiat is the difference between Bagging and [10]
+BL-4 oosting techniques?
+Q6a
+CO3-; Demonstrate Principal component analysis to perform dimensionality reduction [10]
+SO]; on the following data points: (4,11), (8,4) (13,5) (7,14).
+BL-5
+Q6b
+COl-: i. Describe the major tasks required in data preprocessing. [5]
+> ii. Explain the different methods of choosing the test set for model [10]
+SO-1; .   s . : we
+BL-4 evaluation in machine learning, which is the best and why? [5]
+Consider the following dataset for a binary class problem:
+A B _| Class Label
+T F +
+T T +
+T T +
+T F -
+T T +
+Q7 F E -
+C03-; SO1; FF : [20]
+BL-6 ane -
+T T -
+T F -
+
+i. Calculate the information gain when splitting on A and B. Which
+attribute would the decision tree induction algorithm choose (use
+Entropy as an impurity measure)?
+
+ii. Calculate the gain in the Gini index when splitting on A and B. Which
+attribute would the decision tree induction algorithm choose?
 ````
 
 ## 2023-24 · Final-Exam · Sem 6 · paper a732abb9770d
@@ -7897,6 +8507,7 @@ page- 2.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/MACHINE LEARNING/Machine Learning , Re-exam 2022-23,2023-24.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 88.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -8087,7 +8698,6 @@ BL-3 2. Consider the’ dissimilarity matrix for the 8 data-points as shown belo
 Assuming number of points in the neighborhood (MinPts) = 4, radius (¢) = 3
 determine the clusters.
 
-A B.. |c|D E F G H
 
 A 0 2.82 3 6.40 2 6.7 T21 721
 
@@ -8361,6 +8971,190 @@ split at (use Gini index)?
 iii. | Why can’t you use CustomerID to split on?
 iv. Explain the concept of overfitting in classifiers and why decision
 trees classifier is prone to overfitting? How can it be overcome?
+````
+
+## 2023-24 · Re-Exam · Sem 6 · paper eda834d26553
+
+- Departments: Common (all branches), Computer Engineering
+- Programmes: B TECH, B TECH / COMPUTER, MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/MACHINE LEARNING/Machine Learning Re-exam 2022-2023.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/06 / 202
+- Text: ocr (4 pages), mean OCR confidence 88.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINBER
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Pr
+
+Program/s: MBA.Tech\B.Tech Year: II[ Semester: VI
+Stream/s ; Computer .
+
+Subject: Machine Learning Time: 3 hrs (2:0 0pmto 5 200 pa7
+Date: 25/06 / 202% No. of Pages: 4
+
+Marks: 100
+
+Re-Examination (2022-2023)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+“a
+1) Question No.1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql .
+Answer briefly: [20]
+CO- 2,3 a. State the difference between classification and clustering. Discuss two
+SO-! lications of each in detail
+BL-4 applications of each in detail.
+Co- 1 b. What is feature scaling? Discuss any two feature scaling techniques in 5]
+SO- 1 7
+Da BL-2 detail.
+Co- | c. What is model under-fitting and over-fitting? Explain concept of curse of [5]
+SO- 1 . ; .
+BL-2 dimensionality. .
+d. Calculate coefficient of determination and state your inference for below data set.
+CO-2 i :
+SO- 1 The regression line for the same is 1.33x + 0.33. [5]
+BL. 4 Xx 05 [07 |09 |1 1.3
+: Y 1 12 115 [18 |2
+Q2 [a] . . . ;
+£0-1 Discuss advantages and disadvantages of supervised and unsupervised fo)
+SO- 1 machine learning. Discuss any three applications of each.
+BL-2 ‘
+Q2 [b] Given the following data for the sales of vehicle company for six a
+= SO- consecutive years. Predict the sales for next two consecutive years. Check
+--- page 2 ---
+BL- 4 the type of relationship that exist between both the attributes, plotting a
+
+scatter plot. Apply simple linear regression to predict sales for next two
+
+years.
+Year Sales
+a 1 110
+2 100
+3 250
+4 275
+5 230 =
+6 300 )
+Q3 CO- 2 | [a] te Pees : ae . .
+aaes What is logistic regression? How does it differs from linear regression? [10]
+—_ Discuss suitability of sigmoid function for logistic regression.
+[b] Apply 3-Nearest Neighbour algorithm on below flower dataset and find the
+class for test data point x’=(Sepal Length=6.4, Sepal Width= 3.1, Petal
+Length= 4.2, Petal Width= 1.6)
+Length Width Length Width Species
+Q3 5.1 3.5 1.4 0.2 Setosa
+4.9 3 1.4 0.2 Setosa [10] a
+CO-3 SO- 5.7 2.8 4.5 13 Versicolor y
+6 BL-4 6.2 29 43 15 Versicolor
+6.3 : 3.3 6 25 Virginica
+5.9 3 51 1.8 Virginica
+6.5 3 Ey) 1.8 Virginica
+7 3.2 4.7 1.4 Versicolor
+6.8 2.8 4.8 1.4 Versicolor
+6 27 52 1.6 Virginica
+Q4 | [al
+CO-2 What constitutes an outlier, and what impact does it havé on a dataset? The 110]
+SO- 1; ages of fourteen students participating in a "Statistics" workshop are
+BL- 2 :
+--- page 3 ---
+provided below. Create a box plot to visualize the data, identify any outliers,
+and provide your analysis based on the findings.
+[age [10 | 12 [13 | 15 | 20 | 21 | 26 | 28 | 29 | 30 | 31 | 34 | 45 | 56 |
+
+[b] Given the training data in the table below (Buy Computer data). Predict the class
+of the following new example using Naive Bayes classification: age>40,
+income=medium, student=yes, credit-rating=excellent
+
+Age Income Student | credit_rating Class:
+buys_Computer
+
+Q4 <=30 high no fair no
+
+<=30 high no excellent no
+
+7 C0-3 SO- 31,.....40 | high No fair yes [10]
+
+1,6 >40 medium No fair yes
+BL-3 >40 low yes fair Yes
+
+>40 low yes excellent No
+
+31,... ,40 low yes excellent Yes
+
+<=30 medium no fair No
+
+<=30 low yes fair Yes
+
+>40 medium yes fair Yes
+Q5 [a]
+CO-2 SO- Elaborate on the Gradient Descent method extensively. [10]
+1 BL-2
+
+[b] Given a dataset for customers. Annual income and spending score of 10
+
+customer is given. Apply Kmeans clustering technique on a dataset for k=2.
+
+The initial cluster centers are data-point 3 and 8.
+
+Sr.No Annual income (kS) | spending score(1-100)
+
+Q5 1 15 39
+CO-3 SO- : - . [10]
+6 BL-3
+
+4 16 77
+
+5 17 40
+
+6 17 76
+
+7 18 6 ‘
+
+8 18 94
+
+9 19 3
+
+10 19 72
+--- page 4 ---
+Q6 [a] Explain below terms if detail. . ee
+CO-3 SO- 1. Cross Validation [10]
+6 BL-3 2. Bias- Variance Trade off
+[b] Stock market involving Income as categorical attribute, with values {Up,
+Down} as dependent variable. Find the entropy. Also find the suitable root
+. node for the given problem by applying ID3 decision tree algorithm.
+
+Age Type Income
+06 Old Software Down
+CO-3 SO- Old Software Down [10]
+6 BL-3 Old Hardware Down
+
+Mid Software Up
+
+Mid Hardware Up
+
+Mid Software Up
+
+Mid Software Up
+Q7 [a]
+CO-1 SO- Explain Ridge and Lasso regression in detail. [10]
+1 BL-2
+Q7 [b] ee
+
+How PCA reduces the dimensionality of a dataset? What are some common [10]
+
+Tee 5° applications of PCA in real world scenarios?
 ````
 
 ## 2023-24 · Re-Exam · Sem 5 · paper 519ff68a4833
@@ -8877,304 +9671,35 @@ CO-1; BL-L Write a short note on FI-score. [06]
 page - 2
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper f8477fd37109
+## 2022-23 · Exam not stated · Sem 6 · paper bcd2e9a171aa
 
-- Departments: Artificial Intelligence, Data Science
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/MACHINE LEARNING/Machine Learning, Sem-IV, Final & Re Exam 2022-23.pdf` (+3 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 18/04/2024
-- Text: ocr (5 pages), mean OCR confidence 86.9
-
-````text
-MPSTME
-wr LIBRARY   /s
-os
-
-SENGINEERING/, J
-
-SP Frnt
-Lim Wn
-S UNIVERS!
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024 - cf oie
-Program/s: B Tech/MBA Tech . Year: II Sesiesiae IV
-Stream/s : AYAIDS/AIML/CSE(DS) ___ _ -
-Subject: Machine Learning Time: 3 hrs (10.00 am to 1.00 pm)
-Date: 18/04/2024. ; : _ No. of Pages: 5
-Marks: 100
-
-Final Examination/Re-Examination ( 2022-2093) 00!
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. :
---~1) Question No. _1____ is compulsory. :
-2) Out of remaining questions, attempt any __4 _ questions.
-3) Inall___5_ questions to be attempted. —
-4) All questions carry equal marks. ,
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly (Each question carries 4 marks): [20]
-
-CO-1; |-a. | Predicting the price of a pre-owned vehicle depends on the number of factors such as
-SO-1; Purchased year, Current showroom price, Fuel type, kilometers driven, Existing
-BL-1 owners, Transmission type, Seller type. Answer the following for this application:
-
-1. Identify the appropriate category (supervised/unsupervised). of the machine
-learning algorithm that can be applied to above task
-
-2. Identify a suitable algorithm which can be used for this task
-
-3. List:dependent and independent features.
-
-CO-1; | b. | Identify outliers from the following quiz scores for 18 students using boxplot:
-
-| SO-2; (11, 8, 12, 12, 5, 13, 12, 14, 14, 13, 13, 14, 13, 15, 15, 15, 15,15)
-BL-3
-CO-2; | «. | Consider the data shown,
-SO-2; x (No. of years.in the | y (skill upgradation
-BL-5 organization) courses completed)
-3 1
-4 2
-5 : 2
-6 3
-
-Evaluate the updated weights (parameters) after one iteration if simple linear regression
-is applied by using gradient descent. Use learning rate «. =0.05 and initial weights,
-
-00 = 6; = 0.5. .
-CO-2; | d. | Explain the significance of sigmoid function in logistic regression. Justify its use for
-SO-2; logistic regression. :
-
-BL-2
-
-Faqe we
---- page 2 ---
-¥
-
-CO-3; | e. | A classifier is used to train a machine to classify cat, dog and Monkey. Confusion
-
-SO-2; matrix for this classifier is shown below. Determine recall for each class.
-BL-3 | — Predicted
-‘ Cat | Dog | Monkey
-Cat “18 . 16 5.
-Actual Dog 4 20 4
-
-Monkey | 3 + 30
-Q2
-CO-1; | A | The dataset given below is for the. land price detection model for various zones in a | [5]
-SO-2; city using Area of the land and Air Quality Index. Apply normalization scaling
-BL-3 technique on the following two features:
-
-1. Area of the Land
-2. Air Quality Index
-
-s Sr No | Area of the Land | Air Quality | Land Price
-
-= (sq: meters) Index (AQD) | (Rs. Per acre)
-
-1. 13690 ‘146 ; 120000
-
-2. 12555 42 150000
-
-3. 11900 -_ | 139 345000
-
-4, 12560 144 445000
-
-= 23000 37 - | 600000
-
-6. 35550 ; 350 -| 350000
-
-7. 42000 | 45 450000
-
-8. 45000 112 550000
-
-9: 27700 77 250000
-
-10. 12345 _ | 82 -_ | 377133
-CO-1; | B | Explain the term ‘curse of dimensionality’. What problem does it cause? List down the | [5]
-SO-2; methods used in:Dimensionality Reduction.
-BL-2
-CO-3;|C [l.” Use the K nearest neighbor classifier (KNN) to categorize the patient with | [10]
-SO-2; BMI=43.6 and Age=40 as diabetic/non-diabetic. Given the training examples:
-BL-4 (Assume K=3 and use Euclidean. Distance)
-
-2. What will be the classification if k=5? How do we choose the optimum value of K
-in KNN algorithm?
-
-BMI Age Diabetic/non-
-diabetic
-33.6 50 1
-26.6 30 0
-23.4 40 0
-43.1 67 0
-35.3 23 1
-35.9 67 1
-
-Page Ys
---- page 3 ---
-3
-8 ele)
-
--2;| A |1. With the help of an example, develop the model for multiple linear regression: [10]
-SO-2; Outline the steps for estimating the parameters of the model.
-BL-2 2. — Justify the need of polynomial regression giving an example.
-
-B | Consider the dissimilarity matrix for the data points. Perform agglomerative clustering | [10]
-on the data points and draw the dencoenam, Use Euclidean distance as a distance
-measure.
-
-A B {C |D |E |{F
-CO-3; A |0
-SO-2; B 2 0
-BL-4 {Cc 4 3 0 .
-‘|D 10 7: _|9 - [0
-E 8 5 6 |3 |0
-F [4 6.15 |2 |1 jo
-a ;
-Q4 ;
-CO-1; | A | Explain and illustrate with examples the various techniques that can be used to handle | [5]
-SO-2; | missing data in machine learning.
-BL-2 ’ ; ;
-B |l.._ Estimate the equation of the line separating positively labelled data points (1,1), | [10]
-CO-3; (2,0), (1, -1) and negatively labelled data points (4,0), (5,1), (5, -1) using Support
-SO-2; Vector Machine (SVM) algorithm.
-BL-3 2. Howis SVM used for classifying non-linearly sepavstile data? Explain what is the
-kernel trick in SVM.
-‘CO-3; | C | What is ensemble learning, and how does it differ from traditional machine learning | [5]
-SO-2; approaches?
-BL-2
-Q5
-A | The dataset given below shows the relationship between the number of hours spent [10]
-on writing essay and the grade scored. Determine the best fitting line using ordinary
-a least square regression (OLS).
-: Sr No | Hours spent on Essay | Grade
-1 6 ‘ 82
-2 10 88
-CO-2; 3 2 56
-S0-2: 4- 4 64
-BI-3 5 6 77
-6 7 92
-7 0 23
-8 1 ‘ Al
-9 8 80
-10 5 59
-ll 3 47
-
-Page 3 i
---- page 4 ---
-¥
-
-Consider the data for the six cites shown in the table, where number of schools and the [10]
-student strength in each school is shown. Use K means algorithm to cluster the data
-
-and show the updated cluster centers after first iteration. Assume k = 2 and (2,2) and
-
-(3,3) as initial cluster centers.
-
-Sr | Number | student
-
-CO-3; No -| of schools | strength in each
-SO-2; school (in
-BL-3 thousands)
-1 3 3 :
-2 2 2
-3 2 4
-4 2 1
-5 4. 2
-6 3 1
-Q6 7
-A | A company is trying to predict whether customers will purchase a product based on | [10] -
-demographic and purchase history data. They have collected the following dataset:
-Customer | Age . Gender | Income | Purchase
-1 Young Male Low No
-2 Young Male High No
-CO-3; 3 Middle-aged _| Male Low Yes
-SO-2; 4- Senior Male High |, Yes
-BL-4 5 Senior Female | Low Yes
-6 Middle-aged | Female | Low Yes
-7 Young Female | High No
-8 Young Female Low Yes
-
-Using entropy as the splitting criterion, decide which feature (Age/ Gender/ nc
-should be used as the root node for splitting the samples.
-
-Page 41s
---- page 5 ---
-B|1. | What is the Naive assumption in Naive Bayes classifier? Fr [10]
-2. Given a dataset to predict the species from the features, Predict the species of an
-entity with the following attributes using the Naive Bayes classification
-approach, X = {Legs=2, Height=Tall, Smelly=No}
-
-Legs Height | Smelly Species _
-
-CO-3; 3 Short Yes M
-SO-2; 2 Tall No M
-BL-3 ; 3 Short Yes M
-3 Short Yes M
-2 Short’ No H
-2 Tall No H
-2 Tall No H
-2 Short Yes H
-Q7
-CO-1; | A |1. Compare Parametric and non-parametric machine learning models. [4]
-SO-1; 2. Explain briefly the points which influence the choice of Parametric and non-
-BL-2 parametric machine learning models?
-CO-3; | B |l. | Compare bagging and boosting techniques used in ensemble learning. [8]
-SO-2; | °2. Explain the basic concept of Adaboost classifier.
-BL-2
-
-C | With respect to DBSCAN algorithm, explain the following terms with suitable | [8]
-examples: .
-
-CO-3; 1. ° Core points
-SO-2; 2 Bod int
-BL2 ‘ order points
-
-3. Density reachable points
-4. Outliers
-
-Fage Ss]
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 2b1640e05855
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/MACHINE LEARNING/Machine Learning, Sem-IV, Final & Re Exam Batch 2022-23.pdf`
+- Departments: Computer Engineering, Electronics and Telecommunication
+- Programmes: MBA TECH / Computer, MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/MACHINE LEARNING/Machine Learning_bcd2e9a171.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 88.6
+- Text: ocr (4 pages), mean OCR confidence 89.9
 
 ````text
-°STM:
-SRARY
-RING/
+SVKM’S NMIMS
 
-SVKM’S NMIMS (a
+Academic Year: 2022-2023
 
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
+Program/s: B.Tech/MBATECH Year: 3™ yr Semester: VI
+Stream/s :(ComputeyEngineering., Electronigs &Telecomm Engineering)
 
-Program/s: B Tech Year: I] Semester: IV
-Stream/s ; AI
+Subject: Machine Learning Time: 3 hrs (2?00p~to 5 :00prs)
+Date:_26 / 04 / 2023 No. of Pages:4
 
-Subject: Machine Learning 7 Time: 3 hrs (104m to_4pm_)
-Date:_18& /04/2024 No. of Pages: 4
 Marks: 100
 
-Final Examination/Re-Examination (2022-23)
+Final Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-ff»
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+-> 2) Out of remaining questions, attempt any 4 _ questions.
+3) Inall___5_ questions to be attempted.
 4) All questions carry equal marks.
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
@@ -9183,155 +9708,155 @@ ff»
 Ql
 
 Answer briefly:
+os 2+ | What is need for data normalization? Explain different types of Data Normalization 5
+Sol techniques?
+CO3 b.
+BL2 What is PCA ? Give its advantages and disadvantages 5
+SOl
+Co2 c. . . ; 5 bi age
 
-a. | Suppose you developed a model to predict whether a received email is spam
+_.| BL2 Explain how gradient descent algorithm ensures the error minimization. 5
 
-(positive class) or not spam (negative class). You tested the model on 100
+SO1,2
+co3 d. | Discuss why linear regression fails for below scenario. Suggest most suitable technique
+SOl or the ane . . : . 5
+BL2 “A model is required that classifies cancer patients as malignant (class 1) or benign
 
-emails and the results were:
-C033 - True Positives (TP): 40 emails
-SO-6 ; - True Negatives (TN): 50 emails [5]
+(class 0)”
+Q2
+Col a | What do you mean by unsupervised learning? Give advantages and disadvantages of it.
+BL2 Give any 2 applications of unsupervised learning. List out unsupervised learning 10
+SOl algorithms.
 
-7 >BL-3 - False Positives (FP): 5 emails
-- False Negatives (FN): 5 emails
-Calculate the Precision, Recall, Accuracy and F1 score.
-Also, show the confusion matrix.
-b. | Describe the scenario where machine learning is boon for the society.
+b | What is outlier? Apply the IQR method on following data and identify the outliers.
 
-Identify the types of machine learning algorithms. In case of supervised
-Col; algorithm, also specify the types. Justify your answers
-SO-6 ; i. Stock market prediction [5]
-BL-2 ii. Prediction of count of potential dengue patients
+Col
 
-ili. Placing of items in shopping mart
-
-CO2- ; ¢.
-SO- 1; Differentiate between Lasso and Ridge Regression. Use schematics. [5]
-BL-3
+5, 6, 12, 13, 15, 18, 22, 50
+BL3 10
+SOl
 --- page 2 ---
-CO3- ; d. | For the below feature space (Eucledian distance given) for 5 points, identify the | [5]
+Q3
 
-SO- 6; core/border/noise points for DBSCAN given EPS=0.2 and MinPts=2.
-BL-4 Pl P2 P3 P4 P5
-
-Pl 0 0.9 0.59 0.45 0.65
-
-PZ 0.9 0 0.36 0.53 0.02
-
-P3 0.59 | 0.36 0 0.56 0.15
-
-P4 0.45 0.53 0.56 0 0.24
-
-PS 0.65 0.02 | 0.15 0.24 0
-
-i. Determine the underfitted and overfitted model from the graphs given
-below. Justify your answer. Discuss problem of underfitting and overfitting
-while designing machine learning mode]. How can you overcome it?
-
-| =| 3 |
-Q2a g . *| =|
-=) i
-eae | ee [10]
-SO-1; if age Size OG
-BL-4 00 + O12 + Box? + 032° + 0424 0 + Oa + O52?
-(a) (b)
-ii. Using Apriori algorithm, find the frequent item sets for the following
-transactions and items (Minimum Support = 2)
-Transaction | Items
-Tl 1|3 |4
-T2 213 [5
-T3 1 {2 |[3{|5
-Q2b Demonstrate using diagram the concept of support vectors in SVM. Show that
-C02-; in SVM, minimizing the weights maximizes the margin. Explain the importance [10]
-SO-1; of soft margin in SVM. How does SVM deal with nonlinear data?
-BL-5
-Apply the concept of Naive bayes classifier for text classification to classify:
-A very close game
-Q3a Text Tag
-CO3-; “A great game” Sports
-“The election was over” Not sports [10]
-SO-1; “Very clean match” Sports
-BL-5S “A clean but forgettable game” Sports
-“Tt was a close election” Not sports
-2
+co3 a__| Explain how the Random Forests give output for Classification
+BL23 Suppose you have built a random forest model on dataset with 10000 trees. You found 10
+S Qo? that the training error is 0.00, but validation error of 40.25. What is this problem and
+how you can handle this?
+b__| The below training data set is to identify the gender of the officer based on height, eye
+color and hair length as input features. Apply Naive Bayes classifier to identify gender
+of an officer having height more than 170CM, eye-colour=Blue and hair length=Short
+Height over
+id 170 cm Eye colour | Hair Length | Gender
+CO-3 i No Blue Short - Male
+BL3 2 Yes Brown Long Female
+S06 3 No Blue Medium Female 10
+4 No Blue Long Female as
+5 Yes Brown Long Male
+6 No Blue Short Male
+7 Yes Brown Short Female
+8 Yes Blue Medium Female
+9 No Blue Long Female
+10 Yes Brown Short Male
+Q4
+C03 |a
+BL2 Write a short note on matrix factorization for recommendation system. 10
+sol
+. Apply Linear Regression on the given data. Find out dependent and independent
+variables. Also find equation of least square regression line by choosing appropriate
+dependent and independent variables. Predict the monthly auto insurance premium for a
+driver with 10 years of driving experience.
+Driving Experience Monthly Auto Insurance 7
+co2 e ears) efemium
+BL3 5) 87 10
+SO1,2 12 50
+9 71
+15 44
+6 56
+25 42
+16 60
+Q5
+CO3 a__| Consider the following dataset. Apply ID3 decision tree algorithm and determine which
+BL3 attribute should be used as a root node. 10
+SO6
 --- page 3 ---
-Determine values of thetas by performing two iterations of gradient descent for
-. . . ai ¥
+Attributes Classes
 
-linear regression. (use vectorized method). Let learning rate be 0.001, start
-with initial coefficients as 0. Calculate the error at each iteration.
+Gender Travel Cost Income Transporta
+($)/km Level tion mode
+Male Cheap Low Bus
+Male Cheap Medium Bus
+Female Cheap Medium Train
+Female Cheap Low Bus
+Male Cheap Medium Bus
+Male Standard Medium Train
+Female Standard Medium Train
+Female Expensive High Car
+Male Expensive Medium Car
+Female Expensive High Car
 
-xX Y
-Q3b 1 8
-CO2-; 2 17 [10]
-SO-1; 2 im
-BL-5 3 22
-4 20
-4 27
-5 50
-i. Describe with schematics how Logistic regression can be used for multi-class
-classification. [5]
-ii. Consider the below dataset:
-Xi1 X2 Default
-87 2 N
-89 2 N
-aa 100 | 26 Y
-CO3-; 275 54 Y [10]
-SO-6; 42 57 Y
-BL-4 88 53 N
-The data set was used as training set to build a logistic regression model and the
-values of thetas obtained after training were
-89 = —5.7, 6, = 0.008 and 6, = 0.102.
-Consider the data you want to test on the model is the training set (above).
-Find the new predictions. [5]
-Apply 2 iterations of K-means clustering and get the centroids (K=3) on the
-following data samples. Assume initial centroids: C1=(2,3), C2=(5,4),C3=(9,6).
-Calculate Cluster Cohesion (SSE) and Cluster Separation (SSB).
-Q4b xl x2
-2 3
-CO3-; 5 4 [10]
-SO-1; 9 6
-BL-S 8 2
-7 5
-6 8
-3 6
-4 2
-3
+St Explain the steps of k-Means Clustering Algorithm? How outliers affect the K-Means 10
+Clustering?
+SOl
+Q6
+Explain why KNN classification algorithm is called lazy learner. Apply 5-KNN for the
+given data set and identify whether the person with (Gender= 1, age=23, salary=25) will
+purchase or not.
+Estimated salary (in
+id Gender age thousands) Purchased
+CcO3 1 1 19 19 0
+BL3 2 1 35 20 0
+$06 3 0 26 43 0 7
+4 0 27 57 1
+5 1 19 76 0
+6 1 27 58 0
+7 0 32 84 1
+8 0 25 52 1
+9 1 35 86 l
+10 0 26 18 0
+CO2
+BL2 What is the need of Regularization? Explain the concept of Lasso and Ridge Regression | 10
+SO1,2
+Q7 Answer the following.
+col ;
+BL2 Differentiate parametric and non-parametric model. 5
+sol
+Col
+BLI1 Describe univariate, bivariate and multivariate analysis. 5
+
+SOl
 --- page 4 ---
-Q5a Apply agglomerative clustering using single linkage approach on the following
-data set. Plot the dendrogram of your result. [10]
-we SOl, A(1, 1), B(2, 3), C(3, 5), D(4,5), E(6,6), and F(7,5)
-Q5b
-CO3-; $06: kidcc is Ensemble neaunsnigt, Yitiat is the difference between Bagging and [10]
-BL-4 oosting techniques?
-Q6a
-CO3-; Demonstrate Principal component analysis to perform dimensionality reduction [10]
-SO]; on the following data points: (4,11), (8,4) (13,5) (7,14).
-BL-5
-Q6b
-COl-: i. Describe the major tasks required in data preprocessing. [5]
-> ii. Explain the different methods of choosing the test set for model [10]
-SO-1; .   s . : we
-BL-4 evaluation in machine learning, which is the best and why? [5]
-Consider the following dataset for a binary class problem:
-A B _| Class Label
-T F +
-T T +
-T T +
-T F -
-T T +
-Q7 F E -
-C03-; SO1; FF : [20]
-BL-6 ane -
-T T -
-T F -
+A classification model is applied on the student training data set to classify students as
+pass or fail. The class 1 denotes pass and class 0 denotes fail. The below table denotes
+actual class and the predicted class for each sample of the data set.
 
-i. Calculate the information gain when splitting on A and B. Which
-attribute would the decision tree induction algorithm choose (use
-Entropy as an impurity measure)?
+Create a confusion matrix, calculate accuracy of the model and fill the classification
+report.
 
-ii. Calculate the gain in the Gini index when splitting on A and B. Which
-attribute would the decision tree induction algorithm choose?
+Sample id Yactual Ypredicted
+
+Bers 1 1 1
+ss | |-—p
+S06
+
+4 0 1
+
+5 1 0
+
+6 1 1
+
+7 0 0 ~
+
+8 1 1
+
+Classification report:
+Precision Recall Flscore
+
+Class 1 (Pass)
+CO3
+BL3 Enlist bagging and boosting alogithms. Write the diffrence between bagging and
+SOl boosting. ;
+
+4
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper 6c2bc10eecbf
@@ -10684,7 +11209,7 @@ you will choose as final model [mark: 35]
 Also try to show some visualizations in terms of cost functions output for all the models.
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper 0b984d5a4c4f
+## 2022-23 · Final-Exam · Sem 3 · paper 0b984d5a4c4f
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -10825,6 +11350,319 @@ CO-1;BL-L |». | Writea short note on Ensemble Learning technique. [05]
 CO-1;BL-L | ¢ Write a short note on Logistic Regression technique. [05]
 
 Loss
+````
+
+## 2022-23 · Re-Exam · Sem 4 · paper f00a31704a7d
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/MACHINE LEARNING/Artificial Intelligence, Sem-IV, Batch 2021-22, 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 88.9
+
+````text
+SY 7
+st MPSTME
+w\ LIBRARY
+AS,
+A.
+
+“a
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+Program/s: B-Tech Year: II Semester: IV
+
+Stream/s: Artificial Intelligence
+
+Subject: Machine Learning Time: 03 hrs (4o:00amto 4:00pm)
+Date:_28 / 06 / 2023 No. of Pages: 6
+Marks: 100
+
+Re-+Examination (2021-22 /2022- 23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+an
+
+1
+° Answer briefly: (Each question carries 4 marks) [20]
+
+CO-1;SO- | a. | Explain the data science life cycle with the help of schematics. Mention the most important
+2 a . .
+BL-2 challenges in building a machine learning model.
+
+CO-1;SO- | b. | For the following vectors, x and y, calculate the indicated similarity or distance measures.
+2; a. x=(1, 1,1, 1), y= (2, 2, 2, 2) cosine, correlation, Euclidean
+BL-3 b. x=(0, 1,0, 1), y =(1, 0, 1, 0) cosine, correlation, Euclidean, Jaccard
+
+c. x=(0,-1, 0, 1), y=(1, 0, -1, 0) cosine, correlation, Euclidean
+
+d. x=(1, 1,0, 1,0, 1), y=(1, 1, 1, 0, 0, 1) cosine, correlation, Jaccard
+
+e. x=(2,~-1, 0,2, 0, -3), y=(-1, 1,—-1, 0, 0, -1) cosine, correlation
+
+~| CO-1;SO- | c. | Describe how a box plot can give information about whether the value of an attribute is
+2; symmetrically distributed. What can you say about the symmetry of the distributions of the
+BL-4 attributes shown in Figure?
+
+o
+Shaailongh   Sipal Wern
+
+Rage a4
+--- page 2 ---
+CO-2;SO- | d. | For Linear regression, please derive an equation for all thetas in form of matrix representation
+2; ge : :
+BL-2 for each iteration using gradient descent.
+
+CO-3; SO- | e. | What is the use of a validation set in classification models in machine learning? How can you
+2:
+
+BL-2 solve issues of missing data in a data set for all kind of data types.
+
+Q2 a. Predict the class label for a test sample (A = 0, B = 1, C = 0) using the naive Bayes [20]
+CO-3; SO- approach.
+
+3; b. Predict the class label for a test sample (A = 0, B = 1, C = 0) using the naive Bayes
+
+BL-3 approach but with Laplace estimate.
+
+c. Compare the output from (a) and (b), which method is better and why?
+
+Record A B 6) Class
+1 0 0 0 +
+z 0 0 1 -
+3 0 1 1 -
+4 0 1 1 -
+5 0 0 1 +
+6 1 0 1 +
+7 1 0 1 -
+8 1 0 1 -
+9 1 1 1 +
+
+10 1 0 1 +
+
+d. For the one-dimensional data shown below, Classify the data point x = 4.6 according to its
+1-, 3-, 5-, and 9-nearest neighbors (using majority vote)
+
+Xx 0.5 3.0 45 4.6 4.9 5.2 5.3 5.5 7.0 9.5
+Y : S - + + - - + - -
+--- page 3 ---
+P»
+
+Q3
+CO-3; SO-
+3; BL-3
+
+a. Using Apriori algorithm for the below data, Find [20]
+© The frequent itemsets. he
+o Association rules for frequent itemsets with the largest number of items.
+
+Assume that minimum support (s =2) and minimum confident threshold (c = 60%)
+
+TID | Items
+
+Tl 11, 12, 15
+T2 12, 14
+
+T3 12, 13
+
+T4 11, 12, 14
+TS [UB
+
+T6 12, 13
+
+T7 1, 13
+
+T8 Il, 12, 13,
+
+Is
+
+T9 11, 12, 13
+
+b. You are asked to evaluate the performance of two classification models, M1 and M2. The
+test set you have chosen contains 26 binary attributes, labeled as A through Z. The below
+table shows the posterior probabilities obtained by applying the models to the test set.
+(Only the posterior probabilities for the positive class are shown). As this is a two-class
+problem,
+
+P(-)=1 — P(+) and P(-|A,..., Z)=1—PCHA,..., Z).
+Assume that we are mostly interested in detecting instances from the positive class:
+
+o Plot the ROC curve for both M1 and M2. (You should plot them on the same graph.)
+Which model do you think is better? Explain your reasons.
+
+o For model M1, suppose you choose the cutoff threshold to be t = 0.5. In other words,
+any test instances whose posterior probability is greater than t will be classified as a
+positive example. Compute the precision, recall, and F-measure for the model at this
+threshold value.
+
+o Repeat the analysis using the same cutoff threshold on model M2. Compare the F-
+measure results for both models. Which model is better? Are the results consistent
+with what you expect from the ROC curve?
+
+Instance | True Class +h aie Rs eae Z,
+1 + 0.73 0.61
+2 + 0.69 0.03
+3 - 0.44 0.68
+4 - 0.55 0.31
+5 + 0.67 0.45
+6 + 0.47 0.09
+7 - 0.08 0.38
+8 - 0.15 0.05
+9 + 0.45 0.01
+10 - 0.35 0.04
+
+Page 3/6
+--- page 4 ---
+[20]
+
+4
+° : What is Lasso and Ridge regression? Which of these are used for feature reduction
+CO-2; SO- : : : Le
+2: (Explain with schematics?)
+BL-3 b. What is Ensemble learning? What is the difference between Bagging and Boosting
+techniques?
+c. For the below Data set build a XGBoost regressor, use learning rate=0.5 and lambda=1,
+gamma=0. Build the MO and M1 learners only.
+Years of Gap Annual
+experience Salary (in
+. 100k)
+1 N 4
+1.5 Y 4
+2.5 Y 5.5:
+3 N 7
+5 N 15
+6 N 9
+Q5 What are Kernels in support vector machines (give one example of a kernel), Why are they [20]
+CO-3; SO- used?
+3: b- For the below data set build a one split regression tree. Draw the one-split tree.
+BL-3 c- For the second split use a CV=25% for 1‘ split as a split stopping criterion, draw the 2-split
+
+tree.
+d- What will be the output prediction from the regression tree if you had an input of
+(Outlook=Rain, Temp.=High, Humidity=High, Wind=Strong)
+
+Day Outlook | Temp. Humidity | Wind Golf Players
+1 Sunny Hot High Weak 25
+2 Sunny Hot High Strong 30
+3 Overcast | Hot High Weak 46
+4 Rain Mild High Weak 45
+5 Rain Cool Normal Weak 52
+6 Rain Cool Normal Strong 23
+7 Overcast | Cool Normal Strong 43
+8 Sunny Mild High Weak 35
+9 Sunny Cool Normal Weak 38
+10 Rain Mild Normal Weak 46
+11 Sunny Mild Normal Strong 48
+12 Overcast | Mild High Strong 52
+13 Overcast | Hot Normal Weak 44
+14 Rain Mild High Strong 30
+
+fage Gl’
+--- page 5 ---
+Q6 a. Mention the difference between generative and discriminative classifiers, using [20]
+
+CO-3; SO- schematics and give an example for each.
+2; b. Define what is High Bias and High Variance in classifiers. How can this be detected in our
+BL-3 model design?
+
+c. Consider the training examples shown in below table for a binary classification problem.
+
+Customer ID | Gender Car Type Shirt Size Class
+
+1 M Family Small CO
+2 M.- Sports Medium co
+3 M Sports Medium CO
+4 M Sports Large (et)
+> M Sports Extra large co
+6 M Sports Extra Large | CO
+7 F Sports Smail CO
+8 F Sports Small . Co
+9 B Sports Medium co
+10 F Luxury Large ie)
+11 M Family Large Cl
+12 M Family Extra large Cl
+13 M Family Medium Cl
+14 M Luxury Extra large Cl
+15 F Luxury Small Cl
+16 F Luxury Small Cl
+17 F Luxury Medium Ci
+18 F Luxury Medium Cl
+19 F Luxury Medium Gl
+20 F Luxury Large Cl
+
+i. Compute the Gini index for the overall collection of training examples.
+ii. | Compute the Gini index for the Customer ID attribute.
+iii. | Compute the Gini index for the Gender attribute.
+iv. | Compute the Gini index for the Car Type attribute using multiway split.
+y. Explain why Customer ID should not be used as the attribute test condition even
+though it has the lowest Gini.
+
+Q7 a. Please explain with schematics the difference between hierarchical and partitional [20]
+CO-3; SO- clustering, mention an algorithm used for each.
+
+2; b. For the below table, please perform complete linkage agglomerative clustering and
+
+BL-3 plot the dendrogram, showing the clusters for cluster size=3.
+
+Student ID | Marks
+
+1 10
+2 7
+3 28
+4 20
+5 35
+
+Foqe ce
+--- page 6 ---
+c. Measure the cluster cohesion (SSE) and cluster separation (SSB) for number of
+clusters=3, also get the SSE and SSB if we only have one cluster. :
+
+d. For the below 2 dimensional feature space, please use DBSCAN to identify the
+core/border/noise points (use Euclidean distance as the distance measure).
+
+Form clusters with e=3.5 and MinPts=3
+
+SI 5 7
+S2 8 4
+$3 3 3
+S4 4 4
+$5 3 7
+S6 6 7
+S7 6 1
+$8 5 5
+
+a
+
+7 oss @ Sl © $6
+
+s © SB
+
+4 2 $4 e $2
+
+¥
+
+1 - ee
+
+°o .
+
+fase Clg
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper e62c60484acf
@@ -11031,190 +11869,6 @@ Q7 4. What do you understand by divisive/top-down clustering? Write down the
 
 CO-3; SO-1, . re : . 6)
 BL-2 steps involved in divisive clustering algorithm.
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper eda834d26553
-
-- Departments: Common (all branches), Computer Engineering
-- Programmes: B TECH, B TECH / COMPUTER, MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/MACHINE LEARNING/Machine Learning Re-exam 2022-2023.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/06 / 202
-- Text: ocr (4 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINBER
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Pr
-
-Program/s: MBA.Tech\B.Tech Year: II[ Semester: VI
-Stream/s ; Computer .
-
-Subject: Machine Learning Time: 3 hrs (2:0 0pmto 5 200 pa7
-Date: 25/06 / 202% No. of Pages: 4
-
-Marks: 100
-
-Re-Examination (2022-2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-“a
-1) Question No.1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql .
-Answer briefly: [20]
-CO- 2,3 a. State the difference between classification and clustering. Discuss two
-SO-! lications of each in detail
-BL-4 applications of each in detail.
-Co- 1 b. What is feature scaling? Discuss any two feature scaling techniques in 5]
-SO- 1 7
-Da BL-2 detail.
-Co- | c. What is model under-fitting and over-fitting? Explain concept of curse of [5]
-SO- 1 . ; .
-BL-2 dimensionality. .
-d. Calculate coefficient of determination and state your inference for below data set.
-CO-2 i :
-SO- 1 The regression line for the same is 1.33x + 0.33. [5]
-BL. 4 Xx 05 [07 |09 |1 1.3
-: Y 1 12 115 [18 |2
-Q2 [a] . . . ;
-£0-1 Discuss advantages and disadvantages of supervised and unsupervised fo)
-SO- 1 machine learning. Discuss any three applications of each.
-BL-2 ‘
-Q2 [b] Given the following data for the sales of vehicle company for six a
-= SO- consecutive years. Predict the sales for next two consecutive years. Check
---- page 2 ---
-BL- 4 the type of relationship that exist between both the attributes, plotting a
-
-scatter plot. Apply simple linear regression to predict sales for next two
-
-years.
-Year Sales
-a 1 110
-2 100
-3 250
-4 275
-5 230 =
-6 300 )
-Q3 CO- 2 | [a] te Pees : ae . .
-aaes What is logistic regression? How does it differs from linear regression? [10]
-—_ Discuss suitability of sigmoid function for logistic regression.
-[b] Apply 3-Nearest Neighbour algorithm on below flower dataset and find the
-class for test data point x’=(Sepal Length=6.4, Sepal Width= 3.1, Petal
-Length= 4.2, Petal Width= 1.6)
-Sepal Sepal Petal Petal
-Length Width Length Width Species
-Q3 5.1 3.5 1.4 0.2 Setosa
-4.9 3 1.4 0.2 Setosa [10] a
-CO-3 SO- 5.7 2.8 4.5 13 Versicolor y
-6 BL-4 6.2 29 43 15 Versicolor
-6.3 : 3.3 6 25 Virginica
-5.9 3 51 1.8 Virginica
-6.5 3 Ey) 1.8 Virginica
-7 3.2 4.7 1.4 Versicolor
-6.8 2.8 4.8 1.4 Versicolor
-6 27 52 1.6 Virginica
-Q4 | [al
-CO-2 What constitutes an outlier, and what impact does it havé on a dataset? The 110]
-SO- 1; ages of fourteen students participating in a "Statistics" workshop are
-BL- 2 :
---- page 3 ---
-provided below. Create a box plot to visualize the data, identify any outliers,
-and provide your analysis based on the findings.
-[age [10 | 12 [13 | 15 | 20 | 21 | 26 | 28 | 29 | 30 | 31 | 34 | 45 | 56 |
-
-[b] Given the training data in the table below (Buy Computer data). Predict the class
-of the following new example using Naive Bayes classification: age>40,
-income=medium, student=yes, credit-rating=excellent
-
-Age Income Student | credit_rating Class:
-buys_Computer
-
-Q4 <=30 high no fair no
-
-<=30 high no excellent no
-
-7 C0-3 SO- 31,.....40 | high No fair yes [10]
-
-1,6 >40 medium No fair yes
-BL-3 >40 low yes fair Yes
-
->40 low yes excellent No
-
-31,... ,40 low yes excellent Yes
-
-<=30 medium no fair No
-
-<=30 low yes fair Yes
-
->40 medium yes fair Yes
-Q5 [a]
-CO-2 SO- Elaborate on the Gradient Descent method extensively. [10]
-1 BL-2
-
-[b] Given a dataset for customers. Annual income and spending score of 10
-
-customer is given. Apply Kmeans clustering technique on a dataset for k=2.
-
-The initial cluster centers are data-point 3 and 8.
-
-Sr.No Annual income (kS) | spending score(1-100)
-
-Q5 1 15 39
-CO-3 SO- : - . [10]
-6 BL-3
-
-4 16 77
-
-5 17 40
-
-6 17 76
-
-7 18 6 ‘
-
-8 18 94
-
-9 19 3
-
-10 19 72
---- page 4 ---
-Q6 [a] Explain below terms if detail. . ee
-CO-3 SO- 1. Cross Validation [10]
-6 BL-3 2. Bias- Variance Trade off
-[b] Stock market involving Income as categorical attribute, with values {Up,
-Down} as dependent variable. Find the entropy. Also find the suitable root
-. node for the given problem by applying ID3 decision tree algorithm.
-
-Age Type Income
-06 Old Software Down
-CO-3 SO- Old Software Down [10]
-6 BL-3 Old Hardware Down
-
-Mid Software Up
-
-Mid Hardware Up
-
-Mid Software Up
-
-Mid Software Up
-Q7 [a]
-CO-1 SO- Explain Ridge and Lasso regression in detail. [10]
-1 BL-2
-Q7 [b] ee
-
-How PCA reduces the dimensionality of a dataset? What are some common [10]
-
-Tee 5° applications of PCA in real world scenarios?
 ````
 
 ## 2022-23 · Re-Exam · Sem 6 · paper 07c88fd19f28
@@ -11683,158 +12337,6 @@ B| Page of S
 *
 ````
 
-## 2022-23 · Re-Exam · Sem 6 · paper 655852d95be6
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/MACHINE LEARNING/Machine Learning , Re-exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-
-Program/s: _MBATech_ Year: Til Semester: VI
-Stream/s;____ Computer.
-
-Subject: _ Machine Learning Time: _03 hrs (Q-o0ps to 5: 80 pro)
-Date:_07 /05 / 2025 No. of Pages: 3
-
-Marks: 100
-
-Re-Examination - (2022-2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1. is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: a
-CO- 1;| A. | What are the common techniques for handling missing values in a dataset?
-S$O-1 ; Explain how the choice of technique can impact the performance of a machine | [05]
-BL-2 learning model.
-Co-3 ;/| B.
-SO-1; What are some common challenges in evaluating recommender systems? [05]
-BL-2
-co2 3/C.
-SO-2 ; Define bias and variance in the context of machine learning models. [05]
-BL-2
-co-3 ;/D. : ;
-SO-1: Describe the concept of Support Vector Machines (SVMs) and how they are [05]
-; used for binary classification.
-BL-2
-Q2 A . a . a
-CO-1: Discuss two real-world applications where supervised learning is used and two
-S O-1: applications where unsupervised learning is applied. Explain why each | [10]
-BL-2 algorithm type is suitable for the respective application
-B_ | You are given a dataset of student scores:
-CO-1; Scores: [55,58,45,60,62,78,85,95,200,48,50,52,90]
-SO-1; Identify the outliers using the Interquartile Range (IQR) method. If any outliers | [10]
-BL-3 are detected, replace them with the upper or lower bound as needed.
---- page 2 ---
-Q3 A
-
-CO-3; What is ensemble learning, and how does it improve the performance of [10
-SO-2; individual models? Explain the concept with an example. ]
-BL-2
-B_ | Acompany wants to predict whether a customer will purchase a product (Class
-= 1) or not purchase a product (Class = 0) based on two features: X1: Number
-of visits to the website, X2: Time spent on the website (in minutes)
-X1 (Visits) X2 (Time Spent) Class (Purchase)
-3 5 0
-CO-3; 5 8 1
-SO-6; 6 6 1 [10]
-BL-3
-8 9 0
-7 4 1
-Predict the class of a new point (4, 5) using the k-NN algorithm with k=3. Use
-Euclidean distance to calculate distance.
-Q4 A .
-a 7 What are recommender systems, and how do they enhance user experience? _| [10]
-al
-BL-2
-B_ | You are given the following data points:
-X (Hours Studied) | Y (Marks Scored)
-2 50
-COo-2; 3 60
-SO-6; 5 80 [10]
-BL-3 7 90
-9 95
-Use the OLS method to calculate the slope B1 and intercept B0 of the regression
-line
-A_ | A telecom company wants to predict whether a customer will churn based on
-the following dataset:
-Tenure Contract Type Churn
-Qs <=12 Monthly Yes
-CO-1; <=12 Yearly No (10)
-SO-1; 13-24 Monthly Yes
-BL-2 13-24 Yearly No
-
->24 Monthly No
-
-1. Calculate the Gini index of the target variable (Churn).
-2. Compute the Gini index for the attribute ‘Tenure’.
---- page 3 ---
-3, Determine which attribute should be used for the first split using the CART
-
-algorithm.
-CO-4; B . : .
-50-6: Explain the working of a content-based recommender system. How does it [10]
-BL-3 utilize item features to make recommendations?
-
-A_ | A tech company has developed a machine learning model to classify incoming
-emails as either Spam (Positive) or Not Spam (Negative) to protect users from
-unwanted messages. To evaluate the performance of the model, the company
-
-Q6 tested it on a sample of 200 emails, and the following results were obtained:
-
-CO-3; e 85 emails that were actually spam were correctly identified as spam. [10]
-SO-6; e 15 emails that were spam were incorrectly classified as not spam.
-
-BL-3 » 90 emails that were not spam were correctly classified as not spam.
-
-e 10 emails that were not spam were mistakenly classified as spam.
-Create confusion matrix from above information and compute precision, recall,
-accuracy and F1 score
-
-CO-2: B Explain the concepts of Ridge and Lasso regression. How do these
-SO-2; regularization techniques modify the cost function in linear regression to | [10]
-BL-2 prevent overfitting?
-Q7 A
-CO-2; What are the key advantages of using bagging techniques in machine learning? 10
-SO-2; Explain how bagging helps reduce variance. [10]
-BL-2
-
-B
-CO-1; What is the "No Free Lunch Theorem" in the context of machine learning? [05]
-SO-1; Discuss its implications for choosing an optimal model for a given problem
-BL-2
-Co-1; Cc What i . ‘ . P ca
-
-at is the importance of variable transformation and variable creation in
-
-SO-1; [05]
-
-* ering’?
-BL-1 feature engineering?
---- page 4 ---
-
-````
-
 ## 2022-23 · Re-Exam · Sem 3 · paper 7aaa567d6fb7
 
 - Departments: Computer Applications (MCA)
@@ -12184,6 +12686,7 @@ Page $/s~
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/MACHINE LEARNING/Machine Learning, Sem-IV, Re-Exam, Year 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2022
 - Text: ocr (5 pages), mean OCR confidence 90.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . SVKM’s NMIMS
@@ -12251,7 +12754,6 @@ BL-4 well separated. Justify your answer.
 ‘ CO-3; SO- a. Consider the dissimilarity matrix for the 8 data-points as shown below. Assuming | [12]
 e . 4 MinPts = 4, € = 3, determine the clusters.
 
-A B Cc D E F G H
 A|0 2.82 | 3 6.40 | 2 6.7 | 7.21 | 7.21
 B | 2.82 | 0 2.23 | 3.60 | 2 4.12 | 4.47 | 4.47
 C | 3 2.23 | 0 447 |1 4.24 | 6.08 | 5
@@ -12947,6 +13449,7 @@ t-table.xls 7/14/2007
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM I/MACHINE LEARNING/Machine Learning 2018-19.pdf`
 - Printed on paper: exam date: 30 November 2018
 - Text: ocr (12 pages), mean OCR confidence 89.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -13132,7 +13635,6 @@ oe
 
 |
 
-ne prcienennemeicige w t . — i ed
 
 1.1<2<3<4:
 2.1>2>3>4
@@ -13251,7 +13753,6 @@ D) g(z(g(z)-1)
 
 eo A) Kx) = %-%;
 --- page 9 ---
-e B) K (xj, x) = (1 — Xj. %; y
 c C) K(x, x;) = e(—||x; — all /(20?))
 cD) K(x, x;) = tanh(B0 Xj.Xj + B1)
 
@@ -13657,6 +14158,75 @@ B Explain any one algorithm that reduces system dimensions. 3
 C State and Explain the R-square term.
 ````
 
+## 2018-19 · Re-Exam · Sem 7 · paper a890fb41ebe7
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/MACHINE LERANING/MACHINE_LEARNING_B TECH (EXTC), BATCH 2017-18 RE_EXAM_.pdf`
+- Printed on paper: exam date: 21 November 2018
+- Text: ocr (2 pages), mean OCR confidence 92.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) . Year: IV
+Academic Year: 2018-2019
+Subject: Machine Learning
+
+Date: 21 November 2018 ° Time: 2.08%
+
+No. of Pages:
+
+Re-examination (2017-18) /
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+Q.1-A Answer any 3 12
+
+1) How is machine learning different than conventional programming?
+
+2) What is training? Why is it necessary?
+
+3) What are the different types of errors in classification?
+
+4) What is need for domain knowledge?
+Q.2A Explain the salient properties of the feature set. What happens when feature set is too large? 442
+B If y= X1+X2.X3+not(x4).X2 draw the version tree for the same. 6
+Q.3-A_ Where is a Naive Bayes classification useful? When we should not use it? 6
+B Describe where supervised and unsupervised classifier should be used with suitable example. 6
+
+afze
+--- page 2 ---
+Q.4-A Explain the different statistical tests used in multiple linear regression. 6
+
+B Explain how initial choice of parameters does not affect the error convergence in gradient descent algorithm. 6
+
+Q.5-A Explain the support vector machine classifier with any example. 6
+B Describe the discriminant function in LDA classifier. 6
+Q.6-A Explain the K-nn classifier algorithm. Justify that it does not need training. 6
+B what is meant by spectral decomposition in PCA analysis? Explain. 6
+
+Q.7 -A Explain the terms:
+i) Eigen vector in LDA ii) Bias Variance tradeoff. 6
+
+B Explain machine learning application in image recognition. 6
+````
+
 ## 2018-19 · Re-Exam · Sem 7 · paper 7d203260a19d
 
 - Departments: Electronics and Telecommunication
@@ -13743,6 +14313,102 @@ Q.7 -A Explain any one commercial classifier example and suitable hardware for t
 B Justify the need of machine learning robotic arm control. Explain the learning scheme used in the same.
 
 af
+````
+
+## 2017-18 · Final-Exam · Sem 7 · paper 542388b7a09c
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/MACHINE LERANING/MACHINE LEARNING (EXTC), FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+SVKM’s.NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+No. of Pages:
+Final-Examination
+
+Programme: B. Tech (EXTC) ; Year: IV ~ Semester: VII -
+Academic Year: 2017-2018
+Subject: Machine Learning ~ ee mmAN ~
+Marks: 60 S ware Ne
+Date: 30 November 2017 ~ Time: 10.00 am to 1, 0 pri want Pe.
+Durations: 3 (hrs) °4) Sf
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Answer any three 12
+a) Explain the need of machine learning.
+
+b) What are the different disciplines that are associated with machine learning? Why are
+they necessary? ;
+c) What is the significance of statistical tests required in regression?
+
+d) Explain any one application where machine learning finds its suitability.
+
+e) Compare machine learning with conventional computing.
+Q2 .
+a) What do you mean by 6
+
+i Hypothesis space design
+il Attribute noise and class noise
+
+ili Can you design a classifier or predictor without domain knowledge? What would
+— happen in such case? 6
+
+pee Q3 . Explain the terms supervised and unsupervised learning. Explain the suitability of both 6
+a) in specific applications for each.
+
+b) Suppose a Bayesian classifier is to be designed for multiclass classifier. How is the
+choice of class made? Explain maximum likelihood concept.
+--- page 2 ---
+Q 4 Answer any three 12
+
+a) For y= x1.x2+not(x3) + not(x2) + x3 derive the version tree.
+
+b) How do you differentiate necessary condition from sufficient condition while
+determining a hypothesis space?
+
+c) What is the effect of designing the version graph hypothesis for special set of data?
+
+d) Explain the concept of multiclass classification for 3 feature parameters with an
+example.
+
+Q5_ Answer the following.
+a) Discuss feedforward and feedback network with suitable application. 4
+
+b) Write in detail how Lagrange equation is suitable in margin optimization in support
+
+vector machines. 4
+c) What model of classifier is suitable if data does not fit in training space and is
+overlapped? Justify you answer. 4
+
+Q6. Answer the following.
+a) Explain how gradient descent algorithm is suitable for error minimization. How gradient 6
+descent is suitable for high performance in new environments?
+
+b) Explain the concept of k- nearest neighbor classifier.
+_Q.7_ Answer any two.
+a) Explain the salient features of principal component analysis. Explain how it is suitable ¢
+to multivariate analysis. What do you mean by orthogonal basis set?
+b) Explain machine learning implementation in speech signal classification.
+c) Explain how KNN is applicable in handwritten character recognition.
 ````
 
 ## 2017-18 · Final-Exam · Sem 2 · paper 7eb482011611
@@ -14086,357 +14752,4 @@ ll. Applications of Machine Learning
 
 b What is feature selection and Dimensionality Reduction? Explain Principal 6
 Component Analysis algorithm ,
-````
-
-## 2017-18 · Re-Exam · Sem 7 · paper a890fb41ebe7
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/MACHINE LERANING/MACHINE_LEARNING_B TECH (EXTC), BATCH 2017-18 RE_EXAM_.pdf`
-- Printed on paper: exam date: 21 November 2018
-- Text: ocr (2 pages), mean OCR confidence 92.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) . Year: IV
-Academic Year: 2018-2019
-Subject: Machine Learning
-
-Date: 21 November 2018 ° Time: 2.08%
-
-No. of Pages:
-
-Re-examination (2017-18) /
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -suitable data if necessary.
-
-Q.1-A Answer any 3 12
-
-1) How is machine learning different than conventional programming?
-
-2) What is training? Why is it necessary?
-
-3) What are the different types of errors in classification?
-
-4) What is need for domain knowledge?
-Q.2A Explain the salient properties of the feature set. What happens when feature set is too large? 442
-B If y= X1+X2.X3+not(x4).X2 draw the version tree for the same. 6
-Q.3-A_ Where is a Naive Bayes classification useful? When we should not use it? 6
-B Describe where supervised and unsupervised classifier should be used with suitable example. 6
-
-afze
---- page 2 ---
-Q.4-A Explain the different statistical tests used in multiple linear regression. 6
-
-B Explain how initial choice of parameters does not affect the error convergence in gradient descent algorithm. 6
-
-Q.5-A Explain the support vector machine classifier with any example. 6
-B Describe the discriminant function in LDA classifier. 6
-Q.6-A Explain the K-nn classifier algorithm. Justify that it does not need training. 6
-B what is meant by spectral decomposition in PCA analysis? Explain. 6
-
-Q.7 -A Explain the terms:
-i) Eigen vector in LDA ii) Bias Variance tradeoff. 6
-
-B Explain machine learning application in image recognition. 6
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper bcd2e9a171aa
-
-- Departments: Computer Engineering, Electronics and Telecommunication
-- Programmes: MBA TECH / Computer, MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/MACHINE LEARNING/Machine Learning_bcd2e9a171.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 89.9
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-
-Program/s: B.Tech/MBATECH Year: 3™ yr Semester: VI
-Stream/s :(ComputeyEngineering., Electronigs &Telecomm Engineering)
-
-Subject: Machine Learning Time: 3 hrs (2?00p~to 5 :00prs)
-Date:_26 / 04 / 2023 No. of Pages:4
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
--> 2) Out of remaining questions, attempt any 4 _ questions.
-3) Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly:
-os 2+ | What is need for data normalization? Explain different types of Data Normalization 5
-Sol techniques?
-CO3 b.
-BL2 What is PCA ? Give its advantages and disadvantages 5
-SOl
-Co2 c. . . ; 5 bi age
-
-_.| BL2 Explain how gradient descent algorithm ensures the error minimization. 5
-
-SO1,2
-co3 d. | Discuss why linear regression fails for below scenario. Suggest most suitable technique
-SOl or the ane . . : . 5
-BL2 “A model is required that classifies cancer patients as malignant (class 1) or benign
-
-(class 0)”
-Q2
-Col a | What do you mean by unsupervised learning? Give advantages and disadvantages of it.
-BL2 Give any 2 applications of unsupervised learning. List out unsupervised learning 10
-SOl algorithms.
-
-b | What is outlier? Apply the IQR method on following data and identify the outliers.
-
-Col
-
-5, 6, 12, 13, 15, 18, 22, 50
-BL3 10
-SOl
---- page 2 ---
-Q3
-
-co3 a__| Explain how the Random Forests give output for Classification
-BL23 Suppose you have built a random forest model on dataset with 10000 trees. You found 10
-S Qo? that the training error is 0.00, but validation error of 40.25. What is this problem and
-how you can handle this?
-b__| The below training data set is to identify the gender of the officer based on height, eye
-color and hair length as input features. Apply Naive Bayes classifier to identify gender
-of an officer having height more than 170CM, eye-colour=Blue and hair length=Short
-Height over
-id 170 cm Eye colour | Hair Length | Gender
-CO-3 i No Blue Short - Male
-BL3 2 Yes Brown Long Female
-S06 3 No Blue Medium Female 10
-4 No Blue Long Female as
-5 Yes Brown Long Male
-6 No Blue Short Male
-7 Yes Brown Short Female
-8 Yes Blue Medium Female
-9 No Blue Long Female
-10 Yes Brown Short Male
-Q4
-C03 |a
-BL2 Write a short note on matrix factorization for recommendation system. 10
-sol
-. Apply Linear Regression on the given data. Find out dependent and independent
-variables. Also find equation of least square regression line by choosing appropriate
-dependent and independent variables. Predict the monthly auto insurance premium for a
-driver with 10 years of driving experience.
-Driving Experience Monthly Auto Insurance 7
-co2 e ears) efemium
-BL3 5) 87 10
-SO1,2 12 50
-9 71
-15 44
-6 56
-25 42
-16 60
-Q5
-CO3 a__| Consider the following dataset. Apply ID3 decision tree algorithm and determine which
-BL3 attribute should be used as a root node. 10
-SO6
---- page 3 ---
-Attributes Classes
-
-Gender Travel Cost Income Transporta
-($)/km Level tion mode
-Male Cheap Low Bus
-Male Cheap Medium Bus
-Female Cheap Medium Train
-Female Cheap Low Bus
-Male Cheap Medium Bus
-Male Standard Medium Train
-Female Standard Medium Train
-Female Expensive High Car
-Male Expensive Medium Car
-Female Expensive High Car
-
-St Explain the steps of k-Means Clustering Algorithm? How outliers affect the K-Means 10
-Clustering?
-SOl
-Q6
-Explain why KNN classification algorithm is called lazy learner. Apply 5-KNN for the
-given data set and identify whether the person with (Gender= 1, age=23, salary=25) will
-purchase or not.
-Estimated salary (in
-id Gender age thousands) Purchased
-CcO3 1 1 19 19 0
-BL3 2 1 35 20 0
-$06 3 0 26 43 0 7
-4 0 27 57 1
-5 1 19 76 0
-6 1 27 58 0
-7 0 32 84 1
-8 0 25 52 1
-9 1 35 86 l
-10 0 26 18 0
-CO2
-BL2 What is the need of Regularization? Explain the concept of Lasso and Ridge Regression | 10
-SO1,2
-Q7 Answer the following.
-col ;
-BL2 Differentiate parametric and non-parametric model. 5
-sol
-Col
-BLI1 Describe univariate, bivariate and multivariate analysis. 5
-
-SOl
---- page 4 ---
-A classification model is applied on the student training data set to classify students as
-pass or fail. The class 1 denotes pass and class 0 denotes fail. The below table denotes
-actual class and the predicted class for each sample of the data set.
-
-Create a confusion matrix, calculate accuracy of the model and fill the classification
-report.
-
-Sample id Yactual Ypredicted
-
-Bers 1 1 1
-ss | |-—p
-S06
-
-4 0 1
-
-5 1 0
-
-6 1 1
-
-7 0 0 ~
-
-8 1 1
-
-Classification report:
-Precision Recall Flscore
-
-Class 1 (Pass)
-CO3
-BL3 Enlist bagging and boosting alogithms. Write the diffrence between bagging and
-SOl boosting. ;
-
-4
-````
-
-## Year not stated · Final-Exam · Sem 7 · paper 542388b7a09c
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/MACHINE LERANING/MACHINE LEARNING (EXTC), FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 91.1
-
-````text
-SVKM’s.NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-No. of Pages:
-Final-Examination
-
-Programme: B. Tech (EXTC) ; Year: IV ~ Semester: VII -
-Academic Year: 2017-2018
-Subject: Machine Learning ~ ee mmAN ~
-Marks: 60 S ware Ne
-Date: 30 November 2017 ~ Time: 10.00 am to 1, 0 pri want Pe.
-Durations: 3 (hrs) °4) Sf
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Answer any three 12
-a) Explain the need of machine learning.
-
-b) What are the different disciplines that are associated with machine learning? Why are
-they necessary? ;
-c) What is the significance of statistical tests required in regression?
-
-d) Explain any one application where machine learning finds its suitability.
-
-e) Compare machine learning with conventional computing.
-Q2 .
-a) What do you mean by 6
-
-i Hypothesis space design
-il Attribute noise and class noise
-
-ili Can you design a classifier or predictor without domain knowledge? What would
-— happen in such case? 6
-
-pee Q3 . Explain the terms supervised and unsupervised learning. Explain the suitability of both 6
-a) in specific applications for each.
-
-b) Suppose a Bayesian classifier is to be designed for multiclass classifier. How is the
-choice of class made? Explain maximum likelihood concept.
---- page 2 ---
-Q 4 Answer any three 12
-
-a) For y= x1.x2+not(x3) + not(x2) + x3 derive the version tree.
-
-b) How do you differentiate necessary condition from sufficient condition while
-determining a hypothesis space?
-
-c) What is the effect of designing the version graph hypothesis for special set of data?
-
-d) Explain the concept of multiclass classification for 3 feature parameters with an
-example.
-
-Q5_ Answer the following.
-a) Discuss feedforward and feedback network with suitable application. 4
-
-b) Write in detail how Lagrange equation is suitable in margin optimization in support
-
-vector machines. 4
-c) What model of classifier is suitable if data does not fit in training space and is
-overlapped? Justify you answer. 4
-
-Q6. Answer the following.
-a) Explain how gradient descent algorithm is suitable for error minimization. How gradient 6
-descent is suitable for high performance in new environments?
-
-b) Explain the concept of k- nearest neighbor classifier.
-_Q.7_ Answer any two.
-a) Explain the salient features of principal component analysis. Explain how it is suitable ¢
-to multivariate analysis. What do you mean by orthogonal basis set?
-b) Explain machine learning implementation in speech signal classification.
-c) Explain how KNN is applicable in handwritten character recognition.
 ````

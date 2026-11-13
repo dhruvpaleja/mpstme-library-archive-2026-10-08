@@ -270,7 +270,7 @@ classification.
 Page 2
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper f378d43475b0
+## 2022-23 · Final-Exam · Sem 3 · paper f378d43475b0
 
 - Departments: Artificial Intelligence
 - Programmes: M TECH / ARTIFICIAL INTELLIGENCE

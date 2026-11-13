@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Analytics in Operations and Supply Chai_65448e85/ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 16 Dec 2025
 - Text: mixed (6 pages), mean OCR confidence 48.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -420,6 +421,7 @@ Blockchain for supplier traceability: Ensures material authenticity, better qual
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech_DS_7052/Analytics in Operations and Supply Chai_65448e85/ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: mixed (6 pages), mean OCR confidence 51.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -626,6 +628,7 @@ FORK GA dC I ok ok ok ak
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech_IT_7041/Analytics in Operations and Supply Chai_65448e85/ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 16 Dec 2025
 - Text: mixed (6 pages), mean OCR confidence 48.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

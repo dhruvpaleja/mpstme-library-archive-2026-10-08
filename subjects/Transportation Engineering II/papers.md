@@ -102,113 +102,7 @@ is 0.35 %, calculate the length of runway to be provided.
 2 |
 ````
 
-## 2022-23 · Final-Exam · Sem 8 · paper 66f5e2e3127e
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_08/TRANSPORTATION ENGINEERING II/Transportation Engineering Batch 2022-23 Final0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 19/04/ 2023
-- Text: ocr (2 pages), mean OCR confidence 92.1
-
-````text
-[-
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023 ‘
-
-Program: BTech / B Tech Integrated
-
-Stream: Civil Engineering \
-
-Subject: Transportation Engineering , Time: 03 hrs (10 tolpm) | y,
-Date:19/04/ 2023 No. of Pages: 02
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal inarks. ;
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-.
-
-Ql
-Answer briefly: [20]
-CO-1; a. Explain different types of gradients in highway alignment.
-SO-7 ;
-BL-1
-CO-1; b. Compare flexible and rigid pavement based on various parameters.
-SO-7;
-BL-1
-CO-2 ; c. Explain negative guperelevation and cant deficiency.
-SO-7 ;
-BL-2
-CO-1; d. Mention the advantages and disadvantages of air transport.
-SO-7;
-BL-2
-A Explain total reaction time of driver and the factors on which it depends. 10
-2 Explain PIEV theory and the importance along with sketch. [20]
-Sol, B Write a brief note on following (along with sketches): “f
-BL-2 1. Kerbs {10
-
-2. Camber
---- page 2 ---
-A The speeds of overtaking and overtaken vehicles are 70 and 5S kmph
-respectively. If the acceleration of the overtaking vehicle is 2.5 kmph per
-Q3 second, calculate the safe passing sight distance for the following
-
-CO-2: conditions. (1) one way (2) two way [12]
-50-1 id what should be the length of overtaking zone? Show the position of signs
-BL2 by means of a sketch.
-B With neat sketches show some important types of informatory traffic signs [08]
-
-and mention the function of each.
-Q4 A What are the possible causes of creep in rail? What are the effects of [10]
-CO-1; creep? Explain various preventive and remedial measures.
-an B Calculate the cant deficiency and permissible speed for a 5 degree curve [10]
-
-on a BG track.
-Qs A Explain the necessity of sleepers in railway track. Discuss different types [10]
-CO-1: of sleepers used in Indian Railway. Which is the best and why?
-SO-7; B Draw a neat diagram of simple right hand and left hand turnout and show [10]
-BL-2 :
-
-its component parts.
-Q6 A Draw and explain components of an airplane. [08]
-CO-3; B
-SO-7; How will you select the site for an airport? Give details. [12]
-BL-4
-
-A What is the function of hanger? Sketch different types of hangers. [08]
-
-Q7 B Calculate the length of runway from the following data.
-
-Airport elevation: RL 120
-CO-3; Airport reference temperature: 28 degree Celsius
-SO-1; Basic runway length: 800m [12]
-BL-3 Highest point along the length: RL 98.2
-
-lowest point along the length: RL 95.2
-
-FT
-
-\
-````
-
-## 2022-23 · Re-Exam · Sem 8 · paper 262d0cdad6ca
+## 2023-24 · Re-Exam · Sem 8 · paper 262d0cdad6ca
 
 - Departments: Civil
 - Programmes: B.TECH INTEGRATED / CIVIL
@@ -316,6 +210,112 @@ BL-4 months are 44.8° C and 26.2° C respectively. The maximum elevation | [10]
 
 difference along the proposed profile of runway is 6.3 m. If the basic length
 of runway is 1260 m, determine the actual length of runway to be provided.
+````
+
+## 2022-23 · Final-Exam · Sem 8 · paper 66f5e2e3127e
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_08/TRANSPORTATION ENGINEERING II/Transportation Engineering Batch 2022-23 Final0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 19/04/ 2023
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+[-
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023 ‘
+
+Program: BTech / B Tech Integrated
+
+Stream: Civil Engineering \
+
+Subject: Transportation Engineering , Time: 03 hrs (10 tolpm) | y,
+Date:19/04/ 2023 No. of Pages: 02
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal inarks. ;
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+.
+
+Ql
+Answer briefly: [20]
+CO-1; a. Explain different types of gradients in highway alignment.
+SO-7 ;
+BL-1
+CO-1; b. Compare flexible and rigid pavement based on various parameters.
+SO-7;
+BL-1
+CO-2 ; c. Explain negative guperelevation and cant deficiency.
+SO-7 ;
+BL-2
+CO-1; d. Mention the advantages and disadvantages of air transport.
+SO-7;
+BL-2
+A Explain total reaction time of driver and the factors on which it depends. 10
+2 Explain PIEV theory and the importance along with sketch. [20]
+Sol, B Write a brief note on following (along with sketches): “f
+BL-2 1. Kerbs {10
+
+2. Camber
+--- page 2 ---
+A The speeds of overtaking and overtaken vehicles are 70 and 5S kmph
+respectively. If the acceleration of the overtaking vehicle is 2.5 kmph per
+Q3 second, calculate the safe passing sight distance for the following
+
+CO-2: conditions. (1) one way (2) two way [12]
+50-1 id what should be the length of overtaking zone? Show the position of signs
+BL2 by means of a sketch.
+B With neat sketches show some important types of informatory traffic signs [08]
+
+and mention the function of each.
+Q4 A What are the possible causes of creep in rail? What are the effects of [10]
+CO-1; creep? Explain various preventive and remedial measures.
+an B Calculate the cant deficiency and permissible speed for a 5 degree curve [10]
+
+on a BG track.
+Qs A Explain the necessity of sleepers in railway track. Discuss different types [10]
+CO-1: of sleepers used in Indian Railway. Which is the best and why?
+SO-7; B Draw a neat diagram of simple right hand and left hand turnout and show [10]
+BL-2 :
+
+its component parts.
+Q6 A Draw and explain components of an airplane. [08]
+CO-3; B
+SO-7; How will you select the site for an airport? Give details. [12]
+BL-4
+
+A What is the function of hanger? Sketch different types of hangers. [08]
+
+Q7 B Calculate the length of runway from the following data.
+
+Airport elevation: RL 120
+CO-3; Airport reference temperature: 28 degree Celsius
+SO-1; Basic runway length: 800m [12]
+BL-3 Highest point along the length: RL 98.2
+
+lowest point along the length: RL 95.2
+
+FT
+
+\
 ````
 
 ## 2022-23 · Re-Exam · Sem 8 · paper 81204f4485be

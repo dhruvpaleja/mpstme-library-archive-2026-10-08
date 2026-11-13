@@ -371,6 +371,7 @@ Analyse   development?
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Indian Financial system/Indian Final System, Re-exam 2024-25.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 2 / 2./2025
 - Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -418,7 +419,6 @@ Q2 known for its conservative banking practices. How will you introduce 110]
 co- | digital banking to transform the operations of commercial banks? What
 BL-
 change will the digital banking bring?
-Ap p by g g g g
 
 Q3 How do macroeconomic indicators (like GDP growth, inflation, and interest 10]
 co- | rates) influence the performance of the secondary market?

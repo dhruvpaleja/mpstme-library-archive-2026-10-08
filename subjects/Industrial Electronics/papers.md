@@ -458,6 +458,94 @@ Q.7(a) Enlist few applications of IC 741. [07]
 (b) Explain mono-stable multi-vibrator using IC 555 with a neat sketch. [07]
 ````
 
+## 2018-19 · Re-Exam · paper 37fe6465bc40
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS BATCH 16-17 RE EXAM_37fe6465bc.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 November 2018
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+SVKM’s NMIMS
+
+Programme: B. Tech (MECHATRONICS) , Year: Il | Semester: V «
+
+Academic Year: 2018-2019 .
+
+Subject: Industrial Electronics /
+Marks: 60
+
+Date: 20 November 2018 < Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs) -
+No. of Pages: 2
+
+Re-examination (2016-17) ©
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer, Book, which is provided for their use.
+
+1) Question No.ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any Four: [12]
+(a) What is commutation? Draw Class B commutation circuit.
+
+(b) Compare inverter and rectifier.
+
+(c) What do you mean by driver circuit and protection circuit?
+
+(d) Explain the voltage rating of SCR. :
+
+(e) Define chopper. List applications of chopper.
+
+Q.2(a) Discuss the IGBT on following points — [06]
+i) Structure ii) V-I Characteristics iii) Operation
+(b) List turn on methods of SCR. Discuss triggering of SCR using UJT. [06]
+aire
+Q.3(a) Describe the GTO on following points - [06]
+i) Structure and symbol ii) Draw Two Transistor Model iii) Operation
+(b) Discuss the operation of 3 phase half wave controlled converter with resistive [06]
+load. Draw the associated waveform
+*
+
+Page 1 of 2
+--- page 2 ---
+O.4 (a) Elaborate the operations of Single phase full wave controlled rectifier for [06]
+inductive load with circuit diagram and waveforms.
+
+(b) Explain working of Step-up/down chopper with circuit diagram. Derive [06]
+expression for output voltage.
+
+Q.5(a) Describe working of Jones Chopper with the help of circuit diagram. Draw [06]
+associated waveforms.
+
+(b) Discuss the operation of 3 phase bridge inverter with resistive load. Sketch the [06]
+. voltage waveform for 180° conduction.
+
+Q.6 (a) With circuit diagram and waveforms, Explain the operation of single phase [06]
+series inverter.
+(b) Discuss the working of single source emergency light system. ~ [06]
+Q.7 Write short note on : [12]
+(a) Isolation circuit 3
+
+(b) Automatic battery charger
+
+FAR GR a kok ok ek
+
+Page 2 of 2
+````
+
 ## 2018-19 · Re-Exam · paper 3962a2f9f240
 
 - Departments: Mechatronics
@@ -542,6 +630,77 @@ automatic battery charger circuit.
 (b) UST triggering circuit for SCR
 
 *b
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper 7997e03db20c
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS AND APPLICATIONS RE EXAM 16-17.pdf`
+- Printed on paper: exam date: 21 November 2018
+- Text: ocr (1 page), mean OCR confidence 94.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) “ Year: IV
+
+Academic Year: 2018-2019
+
+Subject: Industrial Electronics & Applications ©
+
+Date: 21 November 2018 Time: 2. OXhn.to 5.00 pm
+
+No. of Pages:
+
+Re-examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 a) Explain and draw SCR, DIAC and TRIAC V-I characteristics. (06)
+b) Drive expression for RMS output voltage, Instantaneous output voltage, and voltage and current
+
+ratings of single phase half bridge VSI with resistive load. (06)
+
+Q.2 a) Explain class A commutation of thyristor with neat diagram and waveform. (06)
+
+b) A single-phase full converter feeds power to RLE load with R = 6 Q, L = 6 mH, and E= 60 V. The
+AC source voltage is 230 V, 50 Hz. For continuous conduction, find the average value of load current
+for a firing angle delay of 50°. (06)
+
+Q.3 a) Explain three-phase half-wave controlled converter with R load with suitable waveform,
+assume a < 30°. (06)
+b) A setp-down de chopper has a resistive load of R = 15 Q and Ede = 200 V. When the chopper
+remains ON, its voltage drop is 2.5 V. The chopper frequency is 2 KHz. If the duty cycle is 50%
+determine (a) Average output voltage (b) RMS output voltage (c) Chopper efficiency (d) Effective
+
+input resistance of chopper. (06)
+Q.4 a) How UIT oscillator used as SCR gate trigger source. (06)
+b) Explain and draw torque-speed caracteristics of 3 phase induction motor. (06)
+
+Q.5 a) Explain and draw three phase 180 degree mode VSI for R load in detail. Assume suitable firing angle. (12)
+
+siiael
+Q.6 a) Explain single-phase half-wave converter drive. ; (06)
+ses: b) Draw and explain step down chopper circuit with suitable diagram. (06)
+Q.7 a) Explain line-interactive UPS system. (06)
+b) Draw and explain speed control of induction motor using stator voltage control. (06)
+ala
 ````
 
 ## 2017-18 · Final-Exam · Sem 4 · paper 49fbff577cce
@@ -717,6 +876,7 @@ fo
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL_ELECTRONICS_B TECH MECHANICAL BATCH_16-17_17-18_RE_EXAM_.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 02 July 2018
 - Text: ocr (2 pages), mean OCR confidence 89.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -816,7 +976,6 @@ Application of the IC555 as a monostable multivibrator.
 
 Draw and explain functional block diagram of 8085 microprocessor.
 
-2 oe 2s 2 ae oo ok of oe oe ae ok fe a ok oo
 
 —_—
 
@@ -844,6 +1003,7 @@ fo.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS BATCH 16-17 RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 31 May 2018
 - Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS .
@@ -921,7 +1081,6 @@ Q.7 Write Short Hote on [12]
 (ii) Fan speed control
 (iii) | Voltage regulator
 
-SOR CR CC CR Eo 2 Co a ok AC Co i ACC ko
 
 Page 2 of 2
 ````
@@ -1015,6 +1174,139 @@ Q.7(b) Design the switching and control of Emergency light with a brief explanat
 ” x
 
 (*h)
+````
+
+## 2017-18 · Re-Exam · Sem 7 · paper 4df4f36716a7
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS AND APPLICAITONS (EXTC), BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 93.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: IV Semester: VII
+
+Batch: 2016-17
+Academic Year: 2017-2018
+
+Subject: Industrial Electronics and Applications
+
+Date: 30 November 2017
+
+Re-Examination
+
+* Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 (a) Give appropriate comparison between Power MOSFET’s and BJT’s. (03)
+(b) Obtain the expressions for Average and RMS output voltage for a single phase half (03)
+wave uncontrolled rectifier operating R load with neat circuit diagrams and waveforms.
+(c) Why is dead band required in inverter circuits? Explain with appropriate waveforms and (03)
+justifications.
+(d) Explain the concept of Switched Mode Power Supply with appropriate circuit diagram. (03)
+
+Q.2 (a) List various methods to turn — on a SCR. Explain any two methods. (06)
+(b) Explain Triac — Diac with help of any one application. (06)
+
+Q.3 (a) Fora single phase one — pulse controlled controlled AC/DC converter system, sketch (06)
+waveforms for load voltage and load current for (i) RL load and (ii) RL load with
+freewheeling diode across RL. By comparing these waveforms, discuss the advantage of
+
+using freewheeling diode.
+
+(b) A single phase full wave AC/DC converter is operating resistive load. The maximum (06)
+input voltage to the converter is 220 V, 50 Hz. The firing angle is a = 75°. The load
+resistance connected to the converter is 100 Q. For this converter, obtain (i) Average
+Output Votlage (ii) RMS Output Voltage (iii) Average Load Current (iv) RMS Current.
+Draw waveforms for the said converter.
+
+Q.4 (a) Explain operation of a 3 - @ inverter operating in 180° mode of conduction with (06)
+appropriate waveforms and modes of conduction.
+
+Page 1 of 2
+--- page 2 ---
+Q.5
+
+Q.6
+
+Q7
+
+(b)
+
+(a)
+
+(b)
+
+(a)
+(b)
+
+(a)
+(b)
+
+(c)
+
+What do you understand by Total Harmonic Distortion (THD)? A square wave PWM
+method is used to control the inverter. Using Fourier Equations, obtain the THD for the
+inverter output voltage.
+
+Explain the operation of a Step — Up DC/DC converter with neat circuit diagram. A Step
+— Up chopper has input voltage of 220 V and output voltage of 660 V. If the non —
+conducting time of thyristor chopper is 100 1s, compute the pulse width of output
+voltage. In case pulse width is halved for constant frequency operation, find the new
+output voltage.
+
+Draw and explain the complete system diagram for integrating DC solar panels with a
+domestic load. How will the system be realized if operated in closed loop?
+
+What are the various modes of operation for realizing single — phase dual converter DC
+drive?
+
+A separately excited de motor, operating from a single — phase half controlled bridge at
+a speed of 1400 rpm, has an input voltage of 330 sin 314t and back emf 80 V. The SCRs
+are fired symmetrically at a = 30° in every half cycle and the armature has a resistance
+of 4 Q. Calculate the average armature current and the motor torque.
+
+With appropriate circuit diagram, discuss the operation of Full — bridge SMPS converter.
+A domestic load setup is frequently prone to load shedding. Obtain necessary solution to
+this condition so as to obtain constant power to the loads in the event of load shedding.
+Draw neat circuit diagram for realizing HVDC system. Explain why SCR is the
+preferred switching device in HVDC systems.
+
+
+Page 2 of 2
+
+(06)
+
+(06)
+
+(06)
+
+(06)
+
+(06)
+
+(04)
+(05)
+
+(03)
 ````
 
 ## 2017-18 · Re-Exam · Sem 7 · paper e2542619078f
@@ -1253,6 +1545,7 @@ b) Write short notes on automatic battery charger. (6)
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS AND APPLICATIONS B TECH (EXTC), 2016-17 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 28 November 2016
 - Text: ocr (2 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1362,7 +1655,6 @@ Draw equivalent circuit and associated waveforms for continuous mode Fly back co
 
 List advantages, disadvantages and application of Induction Heating.
 
-ab oR RR RR A RR EE EE EE
 
 Page 2 of 2
 
@@ -1378,6 +1670,71 @@ Page 2 of 2
 [06]
 
 [12]
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 5dcd32da97ad
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3
+- Text: ocr (1 page), mean OCR confidence 87.7
+
+````text
+SVKM’s NMIMS
+
+r MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (MECHANICAL) Year: II Semester: IV
+Batch: 2014-2015/2015- 2016 - a,
+Academic Year: 2016-2017 ij “ae sTtM@n
+Subject: Industrial Electronics ~ re LIRRAB y ii
+
+Marks: 60: ay
+Date: 11May 2017. - Time: 10.00 am to 1.00 pm CT EF
+
+Durations: 3 (hrs)
+No. of Pages:
+Re-Examination
+
+Instructious: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+NB:
+
+1. Question no. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. Al! questions carry equal marks.
+
+5: Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets on the right hand side indicate full marks. .
+
+Q1. Attempt any four questions:-
+
+A_ explain voltage ratings of SCR in detail: 3
+B_ What are inverter and chopper? Explain it in detail. 3
+C_ Explain inverting amplifier using op amp in detail. 3
+D_ Explain all the addressing modes of 8085 microprocessor. 3
+E Explain Insulated Gate Bipolar Transistors (IGBT) in detail. 3
+Q2   A_ What is Operational Amplifier? Explain Integrator and differentiator using op amp in detail with circuit
+diagram.
+B_ Explain the operation IC 555 with help of pin diagram and block diagram. 6
+Q3 A Explain monostable multivibrator using IC 555 in detail with circuit diagram: 6
+B_ Explain 8085 microprocessor in detail with block diagram: 6
+Q4 A Explain dynamic turn on switching characteristics of SCR in detail. 6
+B_ What is TRIAC? Explain it with the help of practical application and circuit diagram: 6
+Q5 A Explain Jones chopper in detail with circuit diagram and waveform. 6
+S| B_ Explain three phase half wave controlled rectifier with resistive load in detail. 6
+Q6 A _ Explain single phase full bridge inverter in detail with circuit diagram, waveform and circuit analysis’. 6
+B_ Explain three phase inverter with 180 degree conduction mode with resistive load in detail. 6
+aan Q7 A _ Explain single phase full wave controlled rectifier with inductive load in detail: 6
+B Explain UJT as an SCR Trigger in detail. 6
+
+Wy
 ````
 
 ## 2016-17 · Re-Exam · paper bc4fc5668972
@@ -1455,296 +1812,65 @@ harmonic summation method (iv) output RMS power (v) output fundamental power (vi
 rating. [06]
 ````
 
-## 2016-17 · Re-Exam · paper 37fe6465bc40
+## 2015-16 · Exam not stated · Sem 4 · paper 1be3fe710a90
 
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS BATCH 16-17 RE EXAM_37fe6465bc.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 November 2018
-- Text: ocr (2 pages), mean OCR confidence 90.7
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS B TECH (MECHANICAL), BATCH 15-160001.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
+- Text: ocr (1 page), mean OCR confidence 94.7
 
 ````text
 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE)
 
-Programme: B. Tech (MECHATRONICS) , Year: Il | Semester: V «
+Programme: B. Tech (MECHANICAL) Year: II Semester: IV
 
-Academic Year: 2018-2019 .
+Academic Year: 2015-2016
 
-Subject: Industrial Electronics /
+Subject : Industrial Electronics
 Marks: 60
 
-Date: 20 November 2018 < Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs) -
-No. of Pages: 2
+Date : 12/05/2016 Time : 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+Final-Examination
 
-Re-examination (2016-17) ©
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer, Book, which is provided for their use.
+NB:
 
-1) Question No.ONE is compulsory.
+1) Question No. one is compulsory and solve any two.
 
-2) Out of remaining questions, attempt any FOUR questions.
+2) Out of remaining questions, attempt any four questions.
 
-3) In all FIVE questions to be attempted.
+3) In all five questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
 
-Q.1 Attempt any Four: [12]
-(a) What is commutation? Draw Class B commutation circuit.
-
-(b) Compare inverter and rectifier.
-
-(c) What do you mean by driver circuit and protection circuit?
-
-(d) Explain the voltage rating of SCR. :
-
-(e) Define chopper. List applications of chopper.
-
-Q.2(a) Discuss the IGBT on following points — [06]
-i) Structure ii) V-I Characteristics iii) Operation
-(b) List turn on methods of SCR. Discuss triggering of SCR using UJT. [06]
-aire
-Q.3(a) Describe the GTO on following points - [06]
-i) Structure and symbol ii) Draw Two Transistor Model iii) Operation
-(b) Discuss the operation of 3 phase half wave controlled converter with resistive [06]
-load. Draw the associated waveform
-*
-
-Page 1 of 2
---- page 2 ---
-O.4 (a) Elaborate the operations of Single phase full wave controlled rectifier for [06]
-inductive load with circuit diagram and waveforms.
-
-(b) Explain working of Step-up/down chopper with circuit diagram. Derive [06]
-expression for output voltage.
-
-Q.5(a) Describe working of Jones Chopper with the help of circuit diagram. Draw [06]
-associated waveforms.
-
-(b) Discuss the operation of 3 phase bridge inverter with resistive load. Sketch the [06]
-. voltage waveform for 180° conduction.
-
-Q.6 (a) With circuit diagram and waveforms, Explain the operation of single phase [06]
-series inverter.
-(b) Discuss the working of single source emergency light system. ~ [06]
-Q.7 Write short note on : [12]
-(a) Isolation circuit 3
-
-(b) Automatic battery charger
-
-FAR GR a kok ok ek
-
-Page 2 of 2
-````
-
-## 2016-17 · Re-Exam · Sem 7 · paper 4df4f36716a7
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS AND APPLICAITONS (EXTC), BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: IV Semester: VII
-
-Batch: 2016-17
-Academic Year: 2017-2018
-
-Subject: Industrial Electronics and Applications
-
-Date: 30 November 2017
-
-Re-Examination
-
-* Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-
-of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 (a) Give appropriate comparison between Power MOSFET’s and BJT’s. (03)
-(b) Obtain the expressions for Average and RMS output voltage for a single phase half (03)
-wave uncontrolled rectifier operating R load with neat circuit diagrams and waveforms.
-(c) Why is dead band required in inverter circuits? Explain with appropriate waveforms and (03)
-justifications.
-(d) Explain the concept of Switched Mode Power Supply with appropriate circuit diagram. (03)
-
-Q.2 (a) List various methods to turn — on a SCR. Explain any two methods. (06)
-(b) Explain Triac — Diac with help of any one application. (06)
-
-Q.3 (a) Fora single phase one — pulse controlled controlled AC/DC converter system, sketch (06)
-waveforms for load voltage and load current for (i) RL load and (ii) RL load with
-freewheeling diode across RL. By comparing these waveforms, discuss the advantage of
-
-using freewheeling diode.
-
-(b) A single phase full wave AC/DC converter is operating resistive load. The maximum (06)
-input voltage to the converter is 220 V, 50 Hz. The firing angle is a = 75°. The load
-resistance connected to the converter is 100 Q. For this converter, obtain (i) Average
-Output Votlage (ii) RMS Output Voltage (iii) Average Load Current (iv) RMS Current.
-Draw waveforms for the said converter.
-
-Q.4 (a) Explain operation of a 3 - @ inverter operating in 180° mode of conduction with (06)
-appropriate waveforms and modes of conduction.
-
-Page 1 of 2
---- page 2 ---
-Q.5
-
-Q.6
-
-Q7
-
-(b)
-
-(a)
-
-(b)
-
-(a)
-(b)
-
-(a)
-(b)
-
-(c)
-
-What do you understand by Total Harmonic Distortion (THD)? A square wave PWM
-method is used to control the inverter. Using Fourier Equations, obtain the THD for the
-inverter output voltage.
-
-Explain the operation of a Step — Up DC/DC converter with neat circuit diagram. A Step
-— Up chopper has input voltage of 220 V and output voltage of 660 V. If the non —
-conducting time of thyristor chopper is 100 1s, compute the pulse width of output
-voltage. In case pulse width is halved for constant frequency operation, find the new
-output voltage.
-
-Draw and explain the complete system diagram for integrating DC solar panels with a
-domestic load. How will the system be realized if operated in closed loop?
-
-What are the various modes of operation for realizing single — phase dual converter DC
-drive?
-
-A separately excited de motor, operating from a single — phase half controlled bridge at
-a speed of 1400 rpm, has an input voltage of 330 sin 314t and back emf 80 V. The SCRs
-are fired symmetrically at a = 30° in every half cycle and the armature has a resistance
-of 4 Q. Calculate the average armature current and the motor torque.
-
-With appropriate circuit diagram, discuss the operation of Full — bridge SMPS converter.
-A domestic load setup is frequently prone to load shedding. Obtain necessary solution to
-this condition so as to obtain constant power to the loads in the event of load shedding.
-Draw neat circuit diagram for realizing HVDC system. Explain why SCR is the
-preferred switching device in HVDC systems.
-
-FES GRAIG IG IG ACI ICI Er
-
-Page 2 of 2
-
-(06)
-
-(06)
-
-(06)
-
-(06)
-
-(06)
-
-(04)
-(05)
-
-(03)
-````
-
-## 2016-17 · Re-Exam · Sem 7 · paper 7997e03db20c
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS AND APPLICATIONS RE EXAM 16-17.pdf`
-- Printed on paper: exam date: 21 November 2018
-- Text: ocr (1 page), mean OCR confidence 94.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) “ Year: IV
-
-Academic Year: 2018-2019
-
-Subject: Industrial Electronics & Applications ©
-
-Date: 21 November 2018 Time: 2. OXhn.to 5.00 pm
-
-No. of Pages:
-
-Re-examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 a) Explain and draw SCR, DIAC and TRIAC V-I characteristics. (06)
-b) Drive expression for RMS output voltage, Instantaneous output voltage, and voltage and current
-
-ratings of single phase half bridge VSI with resistive load. (06)
-
-Q.2 a) Explain class A commutation of thyristor with neat diagram and waveform. (06)
-
-b) A single-phase full converter feeds power to RLE load with R = 6 Q, L = 6 mH, and E= 60 V. The
-AC source voltage is 230 V, 50 Hz. For continuous conduction, find the average value of load current
-for a firing angle delay of 50°. (06)
-
-Q.3 a) Explain three-phase half-wave controlled converter with R load with suitable waveform,
-assume a < 30°. (06)
-b) A setp-down de chopper has a resistive load of R = 15 Q and Ede = 200 V. When the chopper
-remains ON, its voltage drop is 2.5 V. The chopper frequency is 2 KHz. If the duty cycle is 50%
-determine (a) Average output voltage (b) RMS output voltage (c) Chopper efficiency (d) Effective
-
-input resistance of chopper. (06)
-Q.4 a) How UIT oscillator used as SCR gate trigger source. (06)
-b) Explain and draw torque-speed caracteristics of 3 phase induction motor. (06)
-
-Q.5 a) Explain and draw three phase 180 degree mode VSI for R load in detail. Assume suitable firing angle. (12)
-
-siiael
-Q.6 a) Explain single-phase half-wave converter drive. ; (06)
-ses: b) Draw and explain step down chopper circuit with suitable diagram. (06)
-Q.7 a) Explain line-interactive UPS system. (06)
-b) Draw and explain speed control of induction motor using stator voltage control. (06)
-ala
+Q.1) (a) Explain two transistor analogy with suitable diagram and equation. [06]
+(b) Explain forced commutation circuit of SCR. [06]
+(c) Explain flag register in 8085. [06]
+Q.2) (a) Explain V-I characteristics of DIAC and TRIAC. Compare them. [06]
+(b) Explain UST structure. How it can be used as an oscillator. [06]
+
+Q.3) (a) Derive the expression for average load voltage, average load current and RMS voltage for
+Single phase half controlled rectifier with ‘R-L’ load. [06]
+(b) Explain astable multivibrator with suitable diagram using IC555 [06]
+Q.4) (a) Explain single phase full bridge resistive load inverter. [06]
+(b) Explain IC 741 as inverting amplifier with suitable equation. [06]
+Q.5) (a) Explain the truth table and logic symbols for universal gates. [06]
+(b) Explain SCR structure with its V-I characteristics in details [06]
+Q.6) (a) Explain IC 741 as summing amplifier _ [06]
+(b) Build the logic diagram for expression X+YZ [06]
+Q.7) (a) Explain the working of step down chopper. [06]
+(b) Explain architecture of 8085. [06]
+
+e x
 ````
 
 ## 2015-16 · Final-Exam · paper 593b61b3e46d
@@ -1979,6 +2105,96 @@ determine voltage and current necessary at 40 MHz frequency.
 [12]
 ````
 
+## 2015-16 · Re-Exam · Sem 4 · paper 28f94aa08f17
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS B TECH (MECHANICAL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 12/05/2016
+- Text: ocr (2 pages), mean OCR confidence 79.1
+
+````text
+SVEM’s NMIMS
+MUBKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+ume: B.Tech (Mechanical) Year: II Semester: IV
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Industrial Electronics Marks: 60
+Time: 10.00 a
+Date: 12/05/2016 Durations: 3 h
+
+Re-Examination
+
+Instructions:-Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
+
+NB: -
+
+1. Question No. ONE is compulsory.
+
+2. Out of remaining attempt any FOUR questions.
+is 3. Inall FIVE questions to be attempted.
+
+4. All Questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on right hand side indicate full marks.
+7, Assume suitable data if necessary.
+
+Qi. Attempt any four questions Liz)
+A. Explain construction and characteristics of GTO. [o3]
+B. Whatis the principle of operation of step down chopper‘ C23]
+
+C. Define the following terms related to SCR characteristics i. Holding Current Cos
+~~ 4 Latehing Current iii, Forward Blocking Region iv. Reverse BlockingRegion = ti(“‘i‘=~*~™*S
+D. Explain the dynamic turn on switching characteristics in a SCR. Tp3] |
+E. Briefly explain the pin description of IC 741 Op-amp Co),
+
+Q2. A. With the help of neat circuit diagram and associated wavef
+operation of monostable multivibrator circuit using IC. 535 timer
+
+explain the Cos):
+
+B. Draw the block diagram of 8085 microprocessor and explain fu Log]:
+each block
+Q3. A. Enumerate and explain different methods of turning on of SCR. Los]
+B. Explain the operation of 3 phase, half wave controlled rectifier with fee]
+resistive load. Sketch the associated waveforms.
+sil .
+Q4. A. Explain operation of three phase bridge inverter with resistive load. Sketch the [06]
+a the waveforms of a = 120° conduction.
+
+B. With the help of circuit diagram and output waveforms, explain working of Jones [06]
+Chopper.
+
+Yo
+--- page 2 ---
+yeQS-AsDygaw and explain circuit diagram for the UJT relaxation oscillator for triggering [es]
++ 8 OF SCR and explain the associated voltage waveforms.
+~ = %,.
+
+Ae
+fs SS
+x *   B.Explain With proper waveforms Single phase bridge invertor circuit with (06)
+‘ ok 4 resistive boad.
+t+ ra
+Dee *
+‘ OA. State and’ explain Universal Gates los]
+B. Explain with proper waveforms Single phase fully controlled bridge convertor circuit
+wythinductive load - (064
+Q7. Write a short note (Any 3) hz)
+A. |GBT
+B. DIAC
+
+C. Ratings of SCR
+D. Characteristics of Ideal Op-Amp.
+
+9
+````
+
 ## 2015-16 · Re-Exam · Sem 4 · paper 86a00ba4d7fa
 
 - Departments: Mechanical
@@ -2043,71 +2259,6 @@ Q.7) (a) Explain how UJT can work as relaxation oscillator. [06]
 e~ A
 
 1
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 5dcd32da97ad
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3
-- Text: ocr (1 page), mean OCR confidence 87.7
-
-````text
-SVKM’s NMIMS
-
-r MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (MECHANICAL) Year: II Semester: IV
-Batch: 2014-2015/2015- 2016 - a,
-Academic Year: 2016-2017 ij “ae sTtM@n
-Subject: Industrial Electronics ~ re LIRRAB y ii
-
-Marks: 60: ay
-Date: 11May 2017. - Time: 10.00 am to 1.00 pm CT EF
-
-Durations: 3 (hrs)
-No. of Pages:
-Re-Examination
-
-Instructious: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-NB:
-
-1. Question no. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. Al! questions carry equal marks.
-
-5: Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets on the right hand side indicate full marks. .
-
-Q1. Attempt any four questions:-
-
-A_ explain voltage ratings of SCR in detail: 3
-B_ What are inverter and chopper? Explain it in detail. 3
-C_ Explain inverting amplifier using op amp in detail. 3
-D_ Explain all the addressing modes of 8085 microprocessor. 3
-E Explain Insulated Gate Bipolar Transistors (IGBT) in detail. 3
-Q2   A_ What is Operational Amplifier? Explain Integrator and differentiator using op amp in detail with circuit
-diagram.
-B_ Explain the operation IC 555 with help of pin diagram and block diagram. 6
-Q3 A Explain monostable multivibrator using IC 555 in detail with circuit diagram: 6
-B_ Explain 8085 microprocessor in detail with block diagram: 6
-Q4 A Explain dynamic turn on switching characteristics of SCR in detail. 6
-B_ What is TRIAC? Explain it with the help of practical application and circuit diagram: 6
-Q5 A Explain Jones chopper in detail with circuit diagram and waveform. 6
-S| B_ Explain three phase half wave controlled rectifier with resistive load in detail. 6
-Q6 A _ Explain single phase full bridge inverter in detail with circuit diagram, waveform and circuit analysis’. 6
-B_ Explain three phase inverter with 180 degree conduction mode with resistive load in detail. 6
-aan Q7 A _ Explain single phase full wave controlled rectifier with inductive load in detail: 6
-B Explain UJT as an SCR Trigger in detail. 6
-
-Wy
 ````
 
 ## 2015-16 · Re-Exam · paper eb960eefa241
@@ -2265,6 +2416,178 @@ Jones Chopper.
 fe
 ````
 
+## 2014-15 · Final-Exam · Sem 4 · paper 83c30907de9f
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS B TECH (MECH), FINAL EXAM00010001.pdf`
+- Printed on paper: exam date: 13/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+5
+i
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: II Semester: IV
+
+Academic Year: 2014-2015
+
+Subject: Industrial Electronics
+
+Date: 13/05/2015 pm
+
+4s” yiiveRs *
+. . : . : 7 Seer areill
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1(one) is compulsory.
+
+2) Out of remaining questions, attempt any 4 (four) questions.
+3) In all 5 (five) questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1 : Solve any four [12]
+a) Define Delay Time, Rise Time, Spread Time and Turn on Time for SCR turn on.
+b) What are the various voltage ratings of SCR.
+c) Comparison between GTO and IGBT.
+d) Explain construction and characteristics of DIAC.
+
+e) Define bit, byte, word, instruction and program.
+
+Q.2 a) Explain principle of operation of SCR with anode cathode characteristics. [06]
+
+b) Explain turn off mechanism with associated waveforms for SCR. [06]
+
+Q.3 a) Draw and explain circuit diagram for the UJT relaxation oscillator for triggering of [06]
+SCR and explain the associated voltage waveforms.
+
+b) Explain Morgan’s chopper with the help of circuit diagram. [06]
+Q.4 a) Explain first quadrant or CLASS A chopper with RL load. [06]
+b) Explain the operation of 3 phase half wave controlled converter with inductive load [06]
+
+4/: om
+--- page 2 ---
+Q.5
+
+Q.6
+
+~Q7
+
+‘ 6
+
+a)
+b)
+
+a)
+
+b)
+
+‘Explain the operation of 3 phase fully controlled bridge rectifier with resistive load.
+
+Explain the operation of 3 phase bridge inverter with resistive load. Sketch the voltage
+waveform for 180° conduction.
+
+Explain IC741 Op amp as Inverting Amplifier.
+
+Application of the IC555 as an astable multivibrator.
+
+Draw and explain functional block diagram of 8085 microprocessor.
+
+Explain microprocessor based controlled temperature system (MCTs)
+
+[06]
+[06]
+
+[06]
+[06]
+
+[06]
+
+[06]
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper aad07450edf8
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 02/07/2015
+- Text: ocr (2 pages), mean OCR confidence 89.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: II Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Industrial Electronics
+Marks:
+Date: 02/07/2015 Time: j
+Durations:
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+NB:
+~ 1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1) Attempt any four (20]
+
+a) Explain different triggering modes of TRIAC.
+b) Draw electrical equivalent of And and OR gate
+c) Define following terms related to SCR characteristics
+
+1) Holding current 2) Latching current
+
+3) Forward Blocking Region 4) Reverse Blocking Region
+d) Explain “turn off’ process of SCR .
+e) Important specification of OP AMP 741C.
+
+Q2} a) Expiain switching characteristics and give imaportant ratings of power diode. {10}
+b) Draw appropriate waveform and explain switching characteristics of GTO. [10]
+Q3) a) Explain working of UJT with equivalent circuit and its typical V-I characteristics (10]
+b) Explain Single phase half wave controlled rectifier for resistive load. [10]
+
+Q4) a) Explain Single phase full bridge inverters for inductive load using circuit diagram and
+
+waveforms. {10]
+b) Explain working of step up and step down chopper with the help of circuit diagram. {10]
+
+Q5) a) Explain Single phase full wave controlled rectifier with inductive load using circuit diagram
+and waveforms. [10]
+
+4/2.
+--- page 2 ---
+b) Give important features of 8085 microprocessor. (10]
+
+Q6) a) Explain different control strategies for choppers. [10]
+b) State and explain universal gates. [10]
+Q7) a) What is Timer 1C555? Draw its internal structure. {10]
+b) State and explain various Laws of Boolean Algebra {10]
+
+=~ /2—
+````
+
 ## 2014-15 · Re-Exam · Sem 4 · paper 9e4d9f363352
 
 - Departments: Mechanical
@@ -2368,94 +2691,110 @@ d) Explain different “turn off’ methods for a thyristor.
 2/2
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper 28f94aa08f17
+## 2014-15 · Re-Exam · Sem 4 · paper c74efdcec512
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS B TECH (MECHANICAL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 12/05/2016
-- Text: ocr (2 pages), mean OCR confidence 79.1
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS B TECH (MECH), RE EXAM0001.pdf`
+- Printed on paper: exam date: 13/05/2015
+- Text: ocr (2 pages), mean OCR confidence 89.9
 
 ````text
-SVEM’s NMIMS
-MUBKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-ume: B.Tech (Mechanical) Year: II Semester: IV
-Academic Year: 2015-16
+-rogramme: B. Tech (MECH) Year: Il Semester: IV
+h: 2013-14
+Academic Year: 2014-2015
 
-Batch: 2014-15
+Subject: Industrial Electronics
 
-Subject: Industrial Electronics Marks: 60
-Time: 10.00 a
-Date: 12/05/2016 Durations: 3 h
+Marks f/ * /
+Date: 13/05/2015 Time: i! a,
+
+Darsiaes
+
+\\ 4
 
 Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question all
+paper and on the cover of the answer books, which is Provided for their use.
 
-Instructions:-Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
+NB:
 
-NB: -
+1. Question No. 1 is compulsory
 
-1. Question No. ONE is compulsory.
+2. Out of remaining questions, attempt any 4 questions
 
-2. Out of remaining attempt any FOUR questions.
-is 3. Inall FIVE questions to be attempted.
+3. In all 5 questions to be attempted.
 
-4. All Questions carry equal marks.
+4. Answer to each new question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
 
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on right hand side indicate full marks.
-7, Assume suitable data if necessary.
+Que 1: Attempt any FOUR from the followings [04*05=20]
 
-Qi. Attempt any four questions Liz)
-A. Explain construction and characteristics of GTO. [o3]
-B. Whatis the principle of operation of step down chopper‘ C23]
+1. Draw and explain two transistor analogy of SCR?
 
-C. Define the following terms related to SCR characteristics i. Holding Current Cos
-~~ 4 Latehing Current iii, Forward Blocking Region iv. Reverse BlockingRegion = ti(“‘i‘=~*~™*S
-D. Explain the dynamic turn on switching characteristics in a SCR. Tp3] |
-E. Briefly explain the pin description of IC 741 Op-amp Co),
+2. Draw and explain DIAC?
 
-Q2. A. With the help of neat circuit diagram and associated wavef
-operation of monostable multivibrator circuit using IC. 535 timer
+3. Drawa labeled block diagram of micro processor 8085?
+4. Enlist the rules of Boolean algebra?
 
-explain the Cos):
+5. Draw and explain Monostable multivibrator using IC 555?
+6. Give important features of 8085 microprocessor
 
-B. Draw the block diagram of 8085 microprocessor and explain fu Log]:
-each block
-Q3. A. Enumerate and explain different methods of turning on of SCR. Los]
-B. Explain the operation of 3 phase, half wave controlled rectifier with fee]
-resistive load. Sketch the associated waveforms.
-sil .
-Q4. A. Explain operation of three phase bridge inverter with resistive load. Sketch the [06]
-a the waveforms of a = 120° conduction.
+Que2: Attempt the followings (02*10=20]
 
-B. With the help of circuit diagram and output waveforms, explain working of Jones [06]
-Chopper.
+1. Draw and explain any one triggering method for SCR?
+2. Draw and explain Step Up chopper?
 
-Yo
+Que3: Attempt the followings : [02*10=20]
+
+1. Draw and explain Single phase full controlled rectifier?
+2. Draw and explain single phase Series Inverter?
+
+Que4: Attempt the followings [02*10=20]
+
+1. What do you mean by commutation of SCR ? Explain any one forced
+commutation method for SCR.
+
+2. State and explain operation of PWM inverter?
+QueS: Attempt the followings (02*10=20]
+
+(a) Explain operation of op-amp as inverting amplifier and derive expression
+for its voltage gain.
+
+(b) With the help of neat circuit diagram and associated waveforms, Explain
+the operation of Astable multivibrator circuit using 555 timer.
+
+o-
 --- page 2 ---
-yeQS-AsDygaw and explain circuit diagram for the UJT relaxation oscillator for triggering [es]
-+ 8 OF SCR and explain the associated voltage waveforms.
-~ = %,.
+Que6: Attempt the followings
 
-Ae
-fs SS
-x *   B.Explain With proper waveforms Single phase bridge invertor circuit with (06)
-‘ ok 4 resistive boad.
-t+ ra
-Dee *
-‘ OA. State and’ explain Universal Gates los]
-B. Explain with proper waveforms Single phase fully controlled bridge convertor circuit
-wythinductive load - (064
-Q7. Write a short note (Any 3) hz)
-A. |GBT
-B. DIAC
+1. Draw and explain single phase half controlled converter?
+2. Explain the operation of TRIAC?
 
-C. Ratings of SCR
-D. Characteristics of Ideal Op-Amp.
+Que7: Write a short note on followings [any FOUR]
 
-9
+1. Power diode
+
+2. Class F commutation circuit
+
+3. Step down chopper
+
+4. Three phase full bridge converter
+
+5. Universal gate
+
+6. Jones Chopper [Circuit diagram and explanation only]
+
+x—
+
+2
+
+[02*10=20]
+
+[04*05=20]
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper 77ac2487aefd
@@ -2774,77 +3113,6 @@ a *K
 iy
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper aad07450edf8
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 02/07/2015
-- Text: ocr (2 pages), mean OCR confidence 89.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: II Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Industrial Electronics
-Marks:
-Date: 02/07/2015 Time: j
-Durations:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-NB:
-~ 1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q1) Attempt any four (20]
-
-a) Explain different triggering modes of TRIAC.
-b) Draw electrical equivalent of And and OR gate
-c) Define following terms related to SCR characteristics
-
-1) Holding current 2) Latching current
-
-3) Forward Blocking Region 4) Reverse Blocking Region
-d) Explain “turn off’ process of SCR .
-e) Important specification of OP AMP 741C.
-
-Q2} a) Expiain switching characteristics and give imaportant ratings of power diode. {10}
-b) Draw appropriate waveform and explain switching characteristics of GTO. [10]
-Q3) a) Explain working of UJT with equivalent circuit and its typical V-I characteristics (10]
-b) Explain Single phase half wave controlled rectifier for resistive load. [10]
-
-Q4) a) Explain Single phase full bridge inverters for inductive load using circuit diagram and
-
-waveforms. {10]
-b) Explain working of step up and step down chopper with the help of circuit diagram. {10]
-
-Q5) a) Explain Single phase full wave controlled rectifier with inductive load using circuit diagram
-and waveforms. [10]
-
-4/2.
---- page 2 ---
-b) Give important features of 8085 microprocessor. (10]
-
-Q6) a) Explain different control strategies for choppers. [10]
-b) State and explain universal gates. [10]
-Q7) a) What is Timer 1C555? Draw its internal structure. {10]
-b) State and explain various Laws of Boolean Algebra {10]
-
-=~ /2—
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper f385813597bf
 
 - Departments: Mechanical
@@ -3124,272 +3392,4 @@ f— f
 {10]
 
 [20]
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 1be3fe710a90
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS B TECH (MECHANICAL), BATCH 15-160001.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
-- Text: ocr (1 page), mean OCR confidence 94.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE)
-
-Programme: B. Tech (MECHANICAL) Year: II Semester: IV
-
-Academic Year: 2015-2016
-
-Subject : Industrial Electronics
-Marks: 60
-
-Date : 12/05/2016 Time : 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. one is compulsory and solve any two.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1) (a) Explain two transistor analogy with suitable diagram and equation. [06]
-(b) Explain forced commutation circuit of SCR. [06]
-(c) Explain flag register in 8085. [06]
-Q.2) (a) Explain V-I characteristics of DIAC and TRIAC. Compare them. [06]
-(b) Explain UST structure. How it can be used as an oscillator. [06]
-
-Q.3) (a) Derive the expression for average load voltage, average load current and RMS voltage for
-Single phase half controlled rectifier with ‘R-L’ load. [06]
-(b) Explain astable multivibrator with suitable diagram using IC555 [06]
-Q.4) (a) Explain single phase full bridge resistive load inverter. [06]
-(b) Explain IC 741 as inverting amplifier with suitable equation. [06]
-Q.5) (a) Explain the truth table and logic symbols for universal gates. [06]
-(b) Explain SCR structure with its V-I characteristics in details [06]
-Q.6) (a) Explain IC 741 as summing amplifier _ [06]
-(b) Build the logic diagram for expression X+YZ [06]
-Q.7) (a) Explain the working of step down chopper. [06]
-(b) Explain architecture of 8085. [06]
-
-e x
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper 83c30907de9f
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS B TECH (MECH), FINAL EXAM00010001.pdf`
-- Printed on paper: exam date: 13/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-5
-i
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: II Semester: IV
-
-Academic Year: 2014-2015
-
-Subject: Industrial Electronics
-
-Date: 13/05/2015 pm
-
-4s” yiiveRs *
-. . : . : 7 Seer areill
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1(one) is compulsory.
-
-2) Out of remaining questions, attempt any 4 (four) questions.
-3) In all 5 (five) questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1 : Solve any four [12]
-a) Define Delay Time, Rise Time, Spread Time and Turn on Time for SCR turn on.
-b) What are the various voltage ratings of SCR.
-c) Comparison between GTO and IGBT.
-d) Explain construction and characteristics of DIAC.
-
-e) Define bit, byte, word, instruction and program.
-
-Q.2 a) Explain principle of operation of SCR with anode cathode characteristics. [06]
-
-b) Explain turn off mechanism with associated waveforms for SCR. [06]
-
-Q.3 a) Draw and explain circuit diagram for the UJT relaxation oscillator for triggering of [06]
-SCR and explain the associated voltage waveforms.
-
-b) Explain Morgan’s chopper with the help of circuit diagram. [06]
-Q.4 a) Explain first quadrant or CLASS A chopper with RL load. [06]
-b) Explain the operation of 3 phase half wave controlled converter with inductive load [06]
-
-4/: om
---- page 2 ---
-Q.5
-
-Q.6
-
-~Q7
-
-‘ 6
-
-a)
-b)
-
-a)
-
-b)
-
-‘Explain the operation of 3 phase fully controlled bridge rectifier with resistive load.
-
-Explain the operation of 3 phase bridge inverter with resistive load. Sketch the voltage
-waveform for 180° conduction.
-
-Explain IC741 Op amp as Inverting Amplifier.
-
-Application of the IC555 as an astable multivibrator.
-
-Draw and explain functional block diagram of 8085 microprocessor.
-
-Explain microprocessor based controlled temperature system (MCTs)
-
-[06]
-[06]
-
-[06]
-[06]
-
-[06]
-
-[06]
-````
-
-## Year not stated · Re-Exam · Sem 4 · paper c74efdcec512
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/INDUSTRIAL ELECTRONICS/INDUSTRIAL ELECTRONICS B TECH (MECH), RE EXAM0001.pdf`
-- Printed on paper: exam date: 13/05/2015
-- Text: ocr (2 pages), mean OCR confidence 89.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
--rogramme: B. Tech (MECH) Year: Il Semester: IV
-h: 2013-14
-Academic Year: 2014-2015
-
-Subject: Industrial Electronics
-
-Marks f/ * /
-Date: 13/05/2015 Time: i! a,
-
-Darsiaes
-
-\\ 4
-
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question all
-paper and on the cover of the answer books, which is Provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory
-
-2. Out of remaining questions, attempt any 4 questions
-
-3. In all 5 questions to be attempted.
-
-4. Answer to each new question to be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
-
-Que 1: Attempt any FOUR from the followings [04*05=20]
-
-1. Draw and explain two transistor analogy of SCR?
-
-2. Draw and explain DIAC?
-
-3. Drawa labeled block diagram of micro processor 8085?
-4. Enlist the rules of Boolean algebra?
-
-5. Draw and explain Monostable multivibrator using IC 555?
-6. Give important features of 8085 microprocessor
-
-Que2: Attempt the followings (02*10=20]
-
-1. Draw and explain any one triggering method for SCR?
-2. Draw and explain Step Up chopper?
-
-Que3: Attempt the followings : [02*10=20]
-
-1. Draw and explain Single phase full controlled rectifier?
-2. Draw and explain single phase Series Inverter?
-
-Que4: Attempt the followings [02*10=20]
-
-1. What do you mean by commutation of SCR ? Explain any one forced
-commutation method for SCR.
-
-2. State and explain operation of PWM inverter?
-QueS: Attempt the followings (02*10=20]
-
-(a) Explain operation of op-amp as inverting amplifier and derive expression
-for its voltage gain.
-
-(b) With the help of neat circuit diagram and associated waveforms, Explain
-the operation of Astable multivibrator circuit using 555 timer.
-
-o-
---- page 2 ---
-Que6: Attempt the followings
-
-1. Draw and explain single phase half controlled converter?
-2. Explain the operation of TRIAC?
-
-Que7: Write a short note on followings [any FOUR]
-
-1. Power diode
-
-2. Class F commutation circuit
-
-3. Step down chopper
-
-4. Three phase full bridge converter
-
-5. Universal gate
-
-6. Jones Chopper [Circuit diagram and explanation only]
-
-x—
-
-2
-
-[02*10=20]
-
-[04*05=20]
 ````

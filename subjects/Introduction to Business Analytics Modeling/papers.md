@@ -220,103 +220,7 @@ CO-2; SO-6;
 BL-2 B. | Explain any 5 Number based functions with syntax and example. [10]
 ````
 
-## 2021-22 · Re-Exam · Sem 4 · paper 65176f31dd22
-
-- Departments: Data Science
-- Programmes: B TECH / CSE DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/INTRODUCTION TO BUSINESS ANALYTICS MODELING/Introduction to Business Analytics Modeling, Sem-IV, Re-Exam, Year 2021-22.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 June 2022
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-‘ SVKM’s NMIMS f=
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
-
-Academic Year: 2021-22
-
-Programme: B. Tech CSE Data Science Year: II Semester: IV
-Subject: Introduction to Business Analytics Modeling
-
-Marks: 100
-Date: 07 June 2022 - Time: 10.00 am to 1.00 pm
-
-Durations: 3 (Hrs)
-No. of Pages: _O2-
-Re-Examination (2021-22)
-
-‘ Bo ee oe
-i Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Md cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql Answer briefly:
-Co- 1 a. Explain any 4 applications of DSS. [5M]
-SO- 1
-BL-1
-CO-2 b. Design a Dashboard to study death rate of Covid19 after vaccination [5M]
-SO- 6 :
-BL-5
-CO-3 c. Write a sub procedure in VBA to calculate & print area of circle by accepting its radius [5M]
-SO-7 7
-BL-6
-CO- 4 d. Compare effective vs non effective GUI Design with example [5M]
-SO-6
-BL-2
-Q2
-
-ated
-= CO-2 a. Explain the DSS development process with help of one example of DSS. (Explain each [10M]
-
-se: SO-6 step and how to do that step for given example)
-
-BL-2 :
-
-C03 b. Design on GUI and VBA code for generating result of 1+5+9+13+ ... +257 [10M]
-SO-6
-
-BL- 5
---- page 2 ---
-Q3
-
-CO-3 a. Explain the all types of Loops in VBA with coding examples. [10M]
-SO-6
-BL-2
-CO-2 b. Design and code in VBA for pizza shop counter with proper DSS system. [10M]
-SO-7
-BL-6
-Q4
-$ CO-2 a. Explain any 5 character based functions and 5 Number based functions with syntax and [10M]
-i SO-1 example.
-® BL-2
-CO-2 b. A worksheet contains Name and Basic salary of 5 employees from cells A2 to B6. The first [10M]
-S0-6 row contains the headings. Calculate DA, HRA, PF and NS. DA is 50% of basic salary.
-HRA is 15% of basic salary. PF is 8.33% of basic salary. Also find Minimum, Maximum,
-BL-6 Average of all the numeric columns. Also find the number of records. Use MAX(), MINO,
-AVERAGEQ), COUNT( functions.
-Q5
-Soe a. Explain any 5 GUI designing principles with one example for each [10M]
-BL-5
-CO-3 b. Write a VBA code to implement Solver command using GUI [10M]
-SO-7
-BL-2
-Q6
-CO-3 a. Design a simple GUI based calculator design and writea VBA code forsame   _7 [10M]
-SO-2 (Functions to implement are addition, subtraction and multiplication)
-BL-5
-CO-2 b. Explain concept of Pivot table, write various steps to create it, Give one Example with [10M]
-SO-6 sample data
-BL-5
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 8c8f7a9095d1
+## 2021-22 · Exam not stated · Sem 4 · paper 8c8f7a9095d1
 
 - Departments: Data Science
 - Programmes: B TECH / CSE DATA SCIENCE
@@ -436,4 +340,100 @@ SO-6
 BL-2
 
 2 |2.
+````
+
+## 2021-22 · Re-Exam · Sem 4 · paper 65176f31dd22
+
+- Departments: Data Science
+- Programmes: B TECH / CSE DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/INTRODUCTION TO BUSINESS ANALYTICS MODELING/Introduction to Business Analytics Modeling, Sem-IV, Re-Exam, Year 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 June 2022
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+‘ SVKM’s NMIMS f=
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
+
+Academic Year: 2021-22
+
+Programme: B. Tech CSE Data Science Year: II Semester: IV
+Subject: Introduction to Business Analytics Modeling
+
+Marks: 100
+Date: 07 June 2022 - Time: 10.00 am to 1.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: _O2-
+Re-Examination (2021-22)
+
+‘ Bo ee oe
+i Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Md cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql Answer briefly:
+Co- 1 a. Explain any 4 applications of DSS. [5M]
+SO- 1
+BL-1
+CO-2 b. Design a Dashboard to study death rate of Covid19 after vaccination [5M]
+SO- 6 :
+BL-5
+CO-3 c. Write a sub procedure in VBA to calculate & print area of circle by accepting its radius [5M]
+SO-7 7
+BL-6
+CO- 4 d. Compare effective vs non effective GUI Design with example [5M]
+SO-6
+BL-2
+Q2
+
+ated
+= CO-2 a. Explain the DSS development process with help of one example of DSS. (Explain each [10M]
+
+se: SO-6 step and how to do that step for given example)
+
+BL-2 :
+
+C03 b. Design on GUI and VBA code for generating result of 1+5+9+13+ ... +257 [10M]
+SO-6
+
+BL- 5
+--- page 2 ---
+Q3
+
+CO-3 a. Explain the all types of Loops in VBA with coding examples. [10M]
+SO-6
+BL-2
+CO-2 b. Design and code in VBA for pizza shop counter with proper DSS system. [10M]
+SO-7
+BL-6
+Q4
+$ CO-2 a. Explain any 5 character based functions and 5 Number based functions with syntax and [10M]
+i SO-1 example.
+® BL-2
+CO-2 b. A worksheet contains Name and Basic salary of 5 employees from cells A2 to B6. The first [10M]
+S0-6 row contains the headings. Calculate DA, HRA, PF and NS. DA is 50% of basic salary.
+HRA is 15% of basic salary. PF is 8.33% of basic salary. Also find Minimum, Maximum,
+BL-6 Average of all the numeric columns. Also find the number of records. Use MAX(), MINO,
+AVERAGEQ), COUNT( functions.
+Q5
+Soe a. Explain any 5 GUI designing principles with one example for each [10M]
+BL-5
+CO-3 b. Write a VBA code to implement Solver command using GUI [10M]
+SO-7
+BL-2
+Q6
+CO-3 a. Design a simple GUI based calculator design and writea VBA code forsame   _7 [10M]
+SO-2 (Functions to implement are addition, subtraction and multiplication)
+BL-5
+CO-2 b. Explain concept of Pivot table, write various steps to create it, Give one Example with [10M]
+SO-6 sample data
+BL-5
 ````

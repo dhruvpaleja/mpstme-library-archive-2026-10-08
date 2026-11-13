@@ -294,6 +294,162 @@ in selecting among two firms A and B. What criterion you will suggest. (10 Marks
 2/2.
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper cbb7d7bec7ed
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Management of Technology acquisition & transfer/scan0004(16).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 02/01/2013
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+SVKMIS
+
+Can 5
+SVKM’s NMIMS mH mine Universi
+ur
+Mukesh Patel School Of Technology Management & Engine ing l ‘
+as
+
+Programme: MBA (Tech) -ALL STREAMS Year: V_ Trimester: XIV
+Academic Year : 2012-2013
+
+Subject: MANAGEMENT OF TECHNOLOGY Marks: 50
+ACQUISITION & TRANSFER Time: 11.00 a.m To 1.00 p.m
+Date: 02/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+Note: 1. ANSWER TO QUESTIONS SHOULD INCLUDE THE THEORY PORTION,
+FOLLOWED BY EXAMPLES FROM THE CASES COVERED IN THE CLASS, WHEREVER
+APPLICABLE, AND RECENT EXAMPLES FROM INDUSTRY.
+
+2. WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER.
+START AN ANSWER ON A FRESH PAGE.
+
+3. ALL QUESTIONS CARRY EQUAL MARKS.
+
+4. QUESTION NUMBER ONE IS CUMPOLSORY. ANSWER ANY FOUR
+QUESTIONS OUT OF THE BALANCE.
+
+1) .Select the appropriate alternative out of the choices. There are five sub-questions, all are
+to be attempted. Each question carries two marks. (10)
+
+(a) Technology acquisition primarily depends on
+(i) Strategy of the company (ii) Product of the Company (iii) Cost (iv) All
+(b) When is in-house R&D preferred to outsourcing?
+
+¢ } (i) There is no other expertise outside (ii) It is core competence of the company
+(iii) The development is integrated with Research (iv) All
+
+Vp
+--- page 2 ---
+(c) Technology is about
+(i) How to do things (ii) How things are done (iii) How to get things done (iv) None
+
+(d) Science is about
+
+(i) How to do things (ii) How things are done (iii) How to get things done (iv) None
+(e) Innovation is about
+
+(i) How to do things (ii) How things are done (iii) How to get things done
+
+(iv) Doing entrepreneurship
+
+2) What is a decision— support system? How does a DSS differ from a traditional system?
+(10)
+
+3) How can IT be used to help design an organization? Does technology have an impact
+beyond the organization, for example- on stock holders or customers? What kinds of
+
+effects occur and what problems are created for these groups. (10)
+4) Explain:
+
+(i) Technology pricing
+
+(ii) Technology licensing (10)
+
+5) What are the main points to look out for while entering into a technology or product
+licensing agreement with a company if you are the licensor? Discuss the risks involved and
+the mitigation strategy? (10)
+
+6) What are the factors affecting the technology acquisition decision in a firm? Explain with
+David Ford's Matrix. (10)
+
+a}
+
+5 /
+````
+
+## 2011-12 · Exam not stated · Trim 14 · paper 77706e89f5f7
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Management of Technology acquisition & transfer/MANAGEMENT OF TECHNOLOGY ACQUISITIONS AND TRANSFER BATCH0001(1).pdf`
+- Text: ocr (1 page), mean OCR confidence 92.3
+
+````text
+Programme:
+
+Batch:
+Subject:
+
+Date:
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+MBA Tech - ALL STREAMS Year: V Trimester: XIV
+
+Academic Year : 2011-2012
+2011-12
+Management of Technology Acquisitions
+& Transfer
+14/06/2012
+Re - Examination
+
+ANSWER ANY FIVE QUESTIONS. ALL QUESTIONS CARRY EQUAL MARKS
+WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER. START AN
+QUESTION ON A FRESH PAGE
+
+ANSWER TO QUESTIONS SHOULD INCLUDE THE THEORY PORTION, FOLLOWED BY EXAMPLES
+FROM THE CASES COVERED IN THE CLASS, WHEREVER APPLICABLE, AND RECENT EXAMPLES
+FROM INDUSTRY
+
+1) What is a learning organization? What are the mechanisms of learning in a firm?
+2) What are the various technology Acquisition mechanisms in the modern world? Give details of
+any two with examples.
+3) Name the three principals that the form the basis of Cisco’s acquisition strategy. Explain how
+does Cisco manage the “Retention” of acquired employees. What do you understand by the
+“Buddy” concept of Cisco’s acquisition implementation methodology?
+4) What are the factors affecting the technology acquisition decision in a firm? Explain with David
+Ford’s Matrix.
+| 5) What are the main points to look out for while entering into a technology or product licensing
+agreement with a company if you are the licensor? Discuss the risks involved and the mitigation
+strategy?
+6) What are the motives for transfer and sale of Intellectual property ?
+7) What are the various well known technology transfer models? Explain the Bar-Zakay model in
+detail. Cite examples.
+j
+q)
+
+\
+
+Ay |
+
+v
+
+(19)
+a)
+
+Cie)
+C19)
+a)
+
+(18)
+1d)
+````
+
 ## 2010-11 · Exam not stated · Trim 14 · paper eb42eed15874
 
 - Departments: Common (all branches)
@@ -350,6 +506,7 @@ iii. Joint venture (10)
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Management of Technology acquisition & transfer/2009-2010(146).pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (3 pages), mean OCR confidence 83.4
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 AND*” “WA.
@@ -358,7 +515,6 @@ AND*” “WA.
 \3 LEIBRARY wr
 SVKMs NMIMS =
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Bhaktivedanta Swami Mare . Vile Parle (W), Mumbai 400 056
 
 MGA as Etu) N year
 i al Examination (2909 to)
@@ -404,7 +560,6 @@ a FO
 --- page 2 ---
 SVKMs NMIMS t)s8@esie=
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Bhaktivedanta Swami Marg , Vile Parle (W), Mumbai 400 056
 
 Page 2 ofS
 
@@ -439,7 +594,6 @@ ah
 
 SVKMs NMIMS Unfversize
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Bhaktivedanta Swami Marg , Vile Parle (W), Mumbai 400 056
 
 Page 3 ig S
 | 6a Tne tectinoliogy audit
@@ -606,160 +760,4 @@ Q. 7. To what extent in India the current legal frame work and taxation system h
 given impetus to M & A. Discuss. (10)
 
 at
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 77706e89f5f7
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Management of Technology acquisition & transfer/MANAGEMENT OF TECHNOLOGY ACQUISITIONS AND TRANSFER BATCH0001(1).pdf`
-- Text: ocr (1 page), mean OCR confidence 92.3
-
-````text
-Programme:
-
-Batch:
-Subject:
-
-Date:
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-MBA Tech - ALL STREAMS Year: V Trimester: XIV
-
-Academic Year : 2011-2012
-2011-12
-Management of Technology Acquisitions
-& Transfer
-14/06/2012
-Re - Examination
-
-ANSWER ANY FIVE QUESTIONS. ALL QUESTIONS CARRY EQUAL MARKS
-WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER. START AN
-QUESTION ON A FRESH PAGE
-
-ANSWER TO QUESTIONS SHOULD INCLUDE THE THEORY PORTION, FOLLOWED BY EXAMPLES
-FROM THE CASES COVERED IN THE CLASS, WHEREVER APPLICABLE, AND RECENT EXAMPLES
-FROM INDUSTRY
-
-1) What is a learning organization? What are the mechanisms of learning in a firm?
-2) What are the various technology Acquisition mechanisms in the modern world? Give details of
-any two with examples.
-3) Name the three principals that the form the basis of Cisco’s acquisition strategy. Explain how
-does Cisco manage the “Retention” of acquired employees. What do you understand by the
-“Buddy” concept of Cisco’s acquisition implementation methodology?
-4) What are the factors affecting the technology acquisition decision in a firm? Explain with David
-Ford’s Matrix.
-| 5) What are the main points to look out for while entering into a technology or product licensing
-agreement with a company if you are the licensor? Discuss the risks involved and the mitigation
-strategy?
-6) What are the motives for transfer and sale of Intellectual property ?
-7) What are the various well known technology transfer models? Explain the Bar-Zakay model in
-detail. Cite examples.
-j
-q)
-
-\
-
-Ay |
-
-v
-
-(19)
-a)
-
-Cie)
-C19)
-a)
-
-(18)
-1d)
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper cbb7d7bec7ed
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Management of Technology acquisition & transfer/scan0004(16).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 02/01/2013
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-SVKMIS
-
-Can 5
-SVKM’s NMIMS mH mine Universi
-ur
-Mukesh Patel School Of Technology Management & Engine ing l ‘
-as
-
-Programme: MBA (Tech) -ALL STREAMS Year: V_ Trimester: XIV
-Academic Year : 2012-2013
-
-Subject: MANAGEMENT OF TECHNOLOGY Marks: 50
-ACQUISITION & TRANSFER Time: 11.00 a.m To 1.00 p.m
-Date: 02/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-Note: 1. ANSWER TO QUESTIONS SHOULD INCLUDE THE THEORY PORTION,
-FOLLOWED BY EXAMPLES FROM THE CASES COVERED IN THE CLASS, WHEREVER
-APPLICABLE, AND RECENT EXAMPLES FROM INDUSTRY.
-
-2. WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER.
-START AN ANSWER ON A FRESH PAGE.
-
-3. ALL QUESTIONS CARRY EQUAL MARKS.
-
-4. QUESTION NUMBER ONE IS CUMPOLSORY. ANSWER ANY FOUR
-QUESTIONS OUT OF THE BALANCE.
-
-1) .Select the appropriate alternative out of the choices. There are five sub-questions, all are
-to be attempted. Each question carries two marks. (10)
-
-(a) Technology acquisition primarily depends on
-(i) Strategy of the company (ii) Product of the Company (iii) Cost (iv) All
-(b) When is in-house R&D preferred to outsourcing?
-
-¢ } (i) There is no other expertise outside (ii) It is core competence of the company
-(iii) The development is integrated with Research (iv) All
-
-Vp
---- page 2 ---
-(c) Technology is about
-(i) How to do things (ii) How things are done (iii) How to get things done (iv) None
-
-(d) Science is about
-
-(i) How to do things (ii) How things are done (iii) How to get things done (iv) None
-(e) Innovation is about
-
-(i) How to do things (ii) How things are done (iii) How to get things done
-
-(iv) Doing entrepreneurship
-
-2) What is a decision— support system? How does a DSS differ from a traditional system?
-(10)
-
-3) How can IT be used to help design an organization? Does technology have an impact
-beyond the organization, for example- on stock holders or customers? What kinds of
-
-effects occur and what problems are created for these groups. (10)
-4) Explain:
-
-(i) Technology pricing
-
-(ii) Technology licensing (10)
-
-5) What are the main points to look out for while entering into a technology or product
-licensing agreement with a company if you are the licensor? Discuss the risks involved and
-the mitigation strategy? (10)
-
-6) What are the factors affecting the technology acquisition decision in a firm? Explain with
-David Ford's Matrix. (10)
-
-a}
-
-5 /
 ````

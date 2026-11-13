@@ -60,6 +60,7 @@ traditional players
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/GLOBAL TRENDS IN INFRASTRUCTURE MANAGEMENT/Global Trends in Infrastructure Mgmt,SemX,Final,2021-22.pdf`
 - Printed on paper: max marks: 70; duration hours: 2; exam date: 07 May 2022
 - Text: ocr (2 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS fe PSTM
@@ -159,7 +160,6 @@ pressuring public sector servants to launch PPPs including the USA. Elaborate on
 the role of public sector in promoting PPP projects
 Q6 a Elaborate on various methods of Raising Capital from International markets [5]
 C02-: So-: | b- What all information is evaluated by the financial institutions while appraising the | [4]
-BL- c A i ue ; [5]
 Elaborate on the efforts of the government to attract private investments in the
 Analyze infrastructure sector? . [14]
 

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSBS_7036/Theoretical Computer Science/ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: mixed (10 pages), mean OCR confidence 41.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -249,6 +250,7 @@ RR KR RK ARK KK 10 KAKA KKK
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSBS_7036/Theoretical Computer Science/ANS_Theoretical Computer Science(702CO0C058)_2025-2026_fb62bf1321.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: mixed (10 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2000,6 +2002,7 @@ Justification : 1 Mark
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CSBS_7036/Theoretical Computer Science/ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 52.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

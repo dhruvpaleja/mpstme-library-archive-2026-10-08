@@ -2227,6 +2227,56 @@ ik *
 Y
 ````
 
+## 2012-13 · Exam not stated · Trim 7 · paper 7376462faffe
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/TRIM VII/MANAGEMENT INFORMATION SYSTEM/scan0018(6).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 93/10/2012
+- Text: ocr (1 page), mean OCR confidence 89.9
+
+````text
+: SVKM’s NMIMS
+
+St Mukesh Patel School Of Technology M anagement 6 Engineering’ (
+Programme: MCA Year: III Trimester: VII
+
+Academic Year : 2012-2013
+
+Subject: ~ MANAGEMENT INFORMATION SYSTEM Marks: 100 ae
+Time: 2.00pm To 5.00pm
+Date: 93/10/2012 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+Instructions
+~ Attempt any 5 questions
+
+1) Need for information system, components and resources of information system. Give an ex for the
+same.
+
+2)Write a short note on Infrastructure management of information system.
+
+3) What is CRM? Mention the 3 phases of CRM. And explain one real time example.
+4) Different computers crime A) hacking B) Cyber theft C) Software Piracy. Explain with examples.
+
+5) Provide an example for managing any Business information system in terms of planning,
+technology, business strategy, applications, platforms, data access issues and development
+
+6) Need for Global Management of Information Technology
+
+i]
+7) Design an information system for Air Travel booking which should be scalable to be used globally,
+what aspects should be considered with respects to apt CRM
+
+ee y com
+
+I
+````
+
 ## 2011-12 · Exam not stated · Trim 11 · paper 7517c7307d2e
 
 - Departments: Information Technology
@@ -2413,6 +2463,108 @@ and resources of managers? [20]
 
 6. Most businesses should engage in electronic commerce on the Internet. Do you agree or
 disagree with this statement? Explain your position. [20]
+````
+
+## 2010-11 · Exam not stated · Trim 7 · paper 440b514baa63
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/TRIM VII/MANAGEMENT INFORMATION SYSTEM/management information system.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/09/2010
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+te
+SVKM’s NMIMS
+
+Miukesh Patel School Of Technology Management & Engit
+Programme:| MCA Year: III Trimester: VII
+Academic Year : 2010-2011
+
+)
+
+Batch: 2010-2011
+J Subject: MANAGEMENT INFORMATION Marks: 100
+SYSTEM Time: 2.00pm To 5.00pm
+Date: 25/09/2010 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions : candidate should read carefully all instructions printed on question paper and on
+cover of answer book which is provided for their use.
+N.B
+
+1. QI is compulsory.
+
+2. Solve any four of the remaining 05 questions.
+
+3. In all FIVE (juestions to be attempted.
+
+4. Answers to (ach question to be started on new page.
+5. Figure to riglat indicate full marks
+
+Q1) Case stud|y [20]
+Isaac Asimov’ fiction mystery “The naked Sun “takes place on a planet served by robots. In
+
+order to protec| the humans on planet. The robots are programmed with laws of robotics, the first
+
+two laws are:
+
+1) A robo} must not injure a human being or, through inaction, allow a human to come‘to
+
+harm.
+
+2) A robo} must obey the orders given to a human except where such orders conflict with
+
+the first] law.
+
+In one episode] a robot serves a glass of water to a man. The man is poisoned. The robot short
+
+circuits becaus:; it brought harm to human, although it did not know the water was poisoned.
+Questions:
+
+a) Using this illustration describe the problems of the decision making process the robot
+
+made.
+
+Cp McA
+--- page 2 ---
+b) Why wasn't the robot programmed to recognize that giving a normally non injurious
+substance cr object to a human that turns of to do injury does not violate the first law (or
+does it ?). explain
+
+c) What would be the implications of decision rule that required human decisions when no
+
+decision rule is applied?
+
+Q2) Write short notes on (any 03 ) [20]
+a) CRM.
+b) ERP
+c) Decision support systems
+
+d) Procurement management systems.
+
+Q3) A) How is inirastructure managed as per MIS needs [10]
+
+B) A person who understands all about hardware, software and programming may not be
+
+suited to design a computer based management information system. Explain [10]
+
+Q4) A) What is meant by e- commerce. Which are essential e-commerce processes [10]
+B) What is SCM . Explain in detail with example [10]
+
+QS) Explain any two information systems [20]
+
+a) Hotel management industry
+b) Airline industry
+c) Insurance industry
+Q6) Write short notes on (Any two) [20]
+a) Computer crime.
+b) Security management of information technology.
+
+c) Management of global IT
+
+(oN MCA
 ````
 
 ## 2009-10 · Exam not stated · Trim 7 · paper 5a7ed28e85fe
@@ -2738,156 +2890,4 @@ XXXXKXXKXXKXKXKXKKKK
 [20 Marks]
 
 {20 Marks]
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper 440b514baa63
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/TRIM VII/MANAGEMENT INFORMATION SYSTEM/management information system.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/09/2010
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-te
-SVKM’s NMIMS
-
-Miukesh Patel School Of Technology Management & Engit
-Programme:| MCA Year: III Trimester: VII
-Academic Year : 2010-2011
-
-)
-
-Batch: 2010-2011
-J Subject: MANAGEMENT INFORMATION Marks: 100
-SYSTEM Time: 2.00pm To 5.00pm
-Date: 25/09/2010 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions : candidate should read carefully all instructions printed on question paper and on
-cover of answer book which is provided for their use.
-N.B
-
-1. QI is compulsory.
-
-2. Solve any four of the remaining 05 questions.
-
-3. In all FIVE (juestions to be attempted.
-
-4. Answers to (ach question to be started on new page.
-5. Figure to riglat indicate full marks
-
-Q1) Case stud|y [20]
-Isaac Asimov’ fiction mystery “The naked Sun “takes place on a planet served by robots. In
-
-order to protec| the humans on planet. The robots are programmed with laws of robotics, the first
-
-two laws are:
-
-1) A robo} must not injure a human being or, through inaction, allow a human to come‘to
-
-harm.
-
-2) A robo} must obey the orders given to a human except where such orders conflict with
-
-the first] law.
-
-In one episode] a robot serves a glass of water to a man. The man is poisoned. The robot short
-
-circuits becaus:; it brought harm to human, although it did not know the water was poisoned.
-Questions:
-
-a) Using this illustration describe the problems of the decision making process the robot
-
-made.
-
-Cp McA
---- page 2 ---
-b) Why wasn't the robot programmed to recognize that giving a normally non injurious
-substance cr object to a human that turns of to do injury does not violate the first law (or
-does it ?). explain
-
-c) What would be the implications of decision rule that required human decisions when no
-
-decision rule is applied?
-
-Q2) Write short notes on (any 03 ) [20]
-a) CRM.
-b) ERP
-c) Decision support systems
-
-d) Procurement management systems.
-
-Q3) A) How is inirastructure managed as per MIS needs [10]
-
-B) A person who understands all about hardware, software and programming may not be
-
-suited to design a computer based management information system. Explain [10]
-
-Q4) A) What is meant by e- commerce. Which are essential e-commerce processes [10]
-B) What is SCM . Explain in detail with example [10]
-
-QS) Explain any two information systems [20]
-
-a) Hotel management industry
-b) Airline industry
-c) Insurance industry
-Q6) Write short notes on (Any two) [20]
-a) Computer crime.
-b) Security management of information technology.
-
-c) Management of global IT
-
-(oN MCA
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper 7376462faffe
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/TRIM VII/MANAGEMENT INFORMATION SYSTEM/scan0018(6).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 93/10/2012
-- Text: ocr (1 page), mean OCR confidence 89.9
-
-````text
-: SVKM’s NMIMS
-
-St Mukesh Patel School Of Technology M anagement 6 Engineering’ (
-Programme: MCA Year: III Trimester: VII
-
-Academic Year : 2012-2013
-
-Subject: ~ MANAGEMENT INFORMATION SYSTEM Marks: 100 ae
-Time: 2.00pm To 5.00pm
-Date: 93/10/2012 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-Instructions
-~ Attempt any 5 questions
-
-1) Need for information system, components and resources of information system. Give an ex for the
-same.
-
-2)Write a short note on Infrastructure management of information system.
-
-3) What is CRM? Mention the 3 phases of CRM. And explain one real time example.
-4) Different computers crime A) hacking B) Cyber theft C) Software Piracy. Explain with examples.
-
-5) Provide an example for managing any Business information system in terms of planning,
-technology, business strategy, applications, platforms, data access issues and development
-
-6) Need for Global Management of Information Technology
-
-i]
-7) Design an information system for Air Travel booking which should be scalable to be used globally,
-what aspects should be considered with respects to apt CRM
-
-ee y com
-
-I
 ````

@@ -278,7 +278,7 @@ Pad
 GK Qk ak a
 ````
 
-## 2022 · Final-Exam · Sem 7 · paper 8e1c8a0b40d5
+## 2022-23 · Final-Exam · Sem 7 · paper 8e1c8a0b40d5
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
@@ -401,6 +401,7 @@ we
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/HYDRAULIC AND PNEUMATIC SYSTEMS/HYDRAULIC AND PNEUMATIC SYSTEMS 18-19 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 13 April 2019
 - Text: ocr (2 pages), mean OCR confidence 86.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS ‘i
@@ -482,7 +483,6 @@ Q.7 a) Explain in brief with the help of neat lahelled diagram the components of
 unit. (9M)
 Q.7 b) Draw the pneumatic sequencing circuit of a two cylinder circuit for the sequence A+B+B-A- (5M)
 
-fe ER SE oR AE ACA ACR A ER oa ACR EAC AE CREAR EE 2 ae ae AR BOE Ro 2 oe oe oe eh 2
 ````
 
 ## 2018-19 · Re-Exam · paper af192205a116
@@ -724,6 +724,7 @@ Single solenoid operated Direction Control valve. (6M)
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/HYDRAULIC AND PNEUMATIC SYSTEMS/HYDRAULIC AND PNEUMATIC SYSTEM 16-17 FINAL EXAM.pdf`
 - Printed on paper: exam date: 05 May 2017
 - Text: ocr (1 page), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -791,7 +792,6 @@ Also draw the set-up diagram to illustrate the application. (12M)
 Q.7 .Draw atleast 6 electrical circuits to illustrate to illustrate the logic operations for two push
 
 buttons used to activate a Single solenoid Hydraulic valve. (12M)
-FASC OG SGG GIG GG I GIGIOI A ICICI CICI OR Se. FI IC 2. 21 21 a 2k ok oR a 2A 2 oC ACF 2421 2 a ff 2 ok oe ake a ACA oR a oe a ao ok oe kok
 
 ih
 ````
@@ -803,6 +803,7 @@ ih
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/HYDRAULIC AND PNEUMATIC SYSTEMS/HYDRAULIC AND PNEUMATIC SYSTEMS B TECH (MECHATRONICS), 2015-16 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 05/05/2016
 - Text: ocr (1 page), mean OCR confidence 90.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -858,7 +859,6 @@ actuators. (7M)
 
 Q.7 Explain the circuits for any two Machine Tools. (12M)
 
-FEA IG IGA SS ICIOIC CISC SCC OCS SIGS ISERIES ISIS GI I I ICI I Ik Ik ak a kk ak
 
 V
 ````

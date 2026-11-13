@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/VALUE ENGINEERING/2009-2010(119).pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (2 pages), mean OCR confidence 90.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ww
@@ -25,7 +26,6 @@ Trimester VIII, Year2009-2010 \% ~
 SUBJECT: Value Engineering (VE) Date-January,
 
 ope Marks: 100
-Finol Drodanivadian Time: 100 oatol
 Instructions: Candidates should read carefully the instructions printed on the question paper
 and on the cover of the Answer Book, which is provided for their use.
 
@@ -171,6 +171,7 @@ Uv
 - Programmes: MBA TECH / I T
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/VALUE ENGINEERING/2007-2008(108).pdf`
 - Text: ocr (2 pages), mean OCR confidence 83.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Le
@@ -201,7 +202,6 @@ uit ave the basic design considerations while designing a new product? - (5)
 
 d) State reasons for poor value. ------n0ne-nenesnnennnrene nee (5)
 b) What is the importance of Team in Value Engineering? What are the characteristics of
-agsood VE Team? eens etmin
 
 Q.3 a) What is Function Analvsis Svstem Technique diagram in functional analvsis used for
 draw the diagram for a product of vour choice & with customer needs in mind, -------- (
@@ -242,6 +242,7 @@ f) Importance of Aesthetics in Product Design.
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/VALUE ENGINEERING/2006-2007(78).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 91.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Mumbai - 56.
@@ -253,7 +254,6 @@ NARSEE MONJEE INSTITUTE OF MANAGEMENT & Hit
 SUBJECT: VALUE ENGINEERING (VE)
 
 COURSE: MBA-TECH-Trim-VIII (MANUFACTURING) MAX. MARKS: 100
-Dak - 2Q\Ilz)loE THme- 3-w ho 6: Wp,
 ACADEMIC YEAR: 3%” YEAR (06-07) DURATION: 3 HRS
 
 NOTE: 1. QUESTION NO. 1 IS COMPULSORY.

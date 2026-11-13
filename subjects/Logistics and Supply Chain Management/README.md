@@ -16,16 +16,9 @@ Also filed as: `LOGISTIC & SUPPLY CHAIN MANAGEMENT`, `Logitstics and supply chai
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Logistics and Supplychain Management(703TO0C004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Logistics and Supplychain Management(703TO0C004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Logistics and Supplychain Management(703TO0C004)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBA TECH / I T | Logistics and Supply chain Management, Sem-VIII, Batch 2025-26, Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
@@ -33,12 +26,19 @@ Also filed as: `LOGISTIC & SUPPLY CHAIN MANAGEMENT`, `Logitstics and supply chai
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 7 | B TECH, MBA TECH | Logistic & Supply Chain Management,Final, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf [1] |
 | 2022-23 | Re-Exam | Question paper | Sem 7 | B TECH, MBA TECH | Logistics and supply chain mgmt, All Streams, 4th Year, Sem-VII, Year 2022-23, Re-Exam.pdf [2] |
 | 2010-11 | — | Question paper | Trim 12 | MBA TECH / I T, MBA TECH / MANUFACTURING | SUPPLY CHAIN MANAGEMENT BATCH 2010-2011(2).pdf |

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AIDS_7056/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -540,6 +541,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AI_7012/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1071,6 +1073,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Computer_7002/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1602,6 +1605,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CyberSecurity_7010/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2133,6 +2137,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_DS_7009/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2664,6 +2669,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_IT_7001/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3195,6 +3201,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_AI_7051/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3726,6 +3733,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_Computer_7047/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4257,6 +4265,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_DS_7052/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4788,6 +4797,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_IT_7041/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5319,6 +5329,8 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_Computer_7032/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 32.9
+- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5346,7 +5358,6 @@ Synobic — T sek-
 
 -_ =
 es ee Oe ree
-amen f= \eabice dsc Os Teele 2Seere ee
 
 —
 
@@ -5354,7 +5365,6 @@ ipmek “ Ws Konow. Fox The
 
 ‘Sine
 
-stop Ke Co he Proced wen Souk Obi Fete d
 
 tee Ponouny ubemw oven “he WYaryot ~
 TA wet” ao Wis EaAunve -
@@ -5380,8 +5390,6 @@ Qq™ phy Fud Pa her + 412- oR: Vrfe
 et Soma o Tecimols Com Charge >! Full
 
 [eS DEE UN
-P H ; ig a ca :
-| peti betel Robust 12s ac cle
 
 ~ _
 
@@ -5390,7 +5398,6 @@ a) (>) Qh
 ee a, 26 Tie
 
 wkee — Rocke
-peattslte sot is lien. Picie ts aleo berg:
 
 Eis wiee
 
@@ -5413,37 +5420,30 @@ ie
 - Qa ph: oSs=
 Qu © Rise Tanepernerct Consist ihe
 A i in Foxmiaxd , Puls
-ih Pe ad ophows cdyve “the thed garg
 
 ___ | itn cents 4
 
-Cy) x porter. Awes hebgirg Throng “Prenat
 
 we, 3
 
 BS) SwojfP ¢ Wa butt Dre Gy rr ae ue
 
-atanpoctes tyoisgly stuihP “emmtatktons
 
 . 6
 
 @ po = gra 2 Sheurlate rn -
 
-i Sa Usneienl Prico Dis ieniery
 Casino ok Fulixce.
 
 QalB
 ees
 
-Rosey Hotax- Lorg Fulvre-
 ee ee ee
 ——SP1 S00 Mi ra eae 3 t Guas & um
 
 ph aati it te ha ph 2c ten Hise din SD
 
-Saxye$ Habs Short “Fudue
 
-a" Gl aN abl 5g EL ae 2
 __SPlep gc 4 ra
 
 i eee 459 po = me sind dan)
@@ -5466,20 +5466,15 @@ SET eee
 & Bi c/DfEElm/E* | Dia :
 lac | |—to/o | o}4 | \u}] O[-s j-s -|4
 (eC }o |aofte [OPEL] © Jes] ns “
-LOD A Wht [De Ay BS —o} 4 ef
 (cc | oO] [-t0 | O fel ty [fe fc] «ls
 iGo. | Of   jote]O fr ily ©} via] wins
 (be | Of! tof Oo falty fo [ev [yt Th
 \Fo |o L-lo/—te] © FH /ty|f} oe] & | =h
 acl s [-to] ~S | Ova yg hy oO is} +14
-feo fie} » | © lola! mi ota i"| [+9
-fec[is] »j s fsitja ly etn ts] [ety
 lap |22) Ae |e 4-6 Oo} -s =|
-fac lacl | US [relict] es [osiol | Lah
 
 Doo | 30}—12/) do fol 1 lo |-o S
 
-Qet as = to] Pay ac 1-36) is -S \o
 
 |
 
@@ -5499,6 +5494,8 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_DS_7038/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 32.9
+- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5526,7 +5523,6 @@ Synobic — T sek-
 
 -_ =
 es ee Oe ree
-amen f= \eabice dsc Os Teele 2Seere ee
 
 —
 
@@ -5534,7 +5530,6 @@ ipmek “ Ws Konow. Fox The
 
 ‘Sine
 
-stop Ke Co he Proced wen Souk Obi Fete d
 
 tee Ponouny ubemw oven “he WYaryot ~
 TA wet” ao Wis EaAunve -
@@ -5560,8 +5555,6 @@ Qq™ phy Fud Pa her + 412- oR: Vrfe
 et Soma o Tecimols Com Charge >! Full
 
 [eS DEE UN
-P H ; ig a ca :
-| peti betel Robust 12s ac cle
 
 ~ _
 
@@ -5570,7 +5563,6 @@ a) (>) Qh
 ee a, 26 Tie
 
 wkee — Rocke
-peattslte sot is lien. Picie ts aleo berg:
 
 Eis wiee
 
@@ -5593,37 +5585,30 @@ ie
 - Qa ph: oSs=
 Qu © Rise Tanepernerct Consist ihe
 A i in Foxmiaxd , Puls
-ih Pe ad ophows cdyve “the thed garg
 
 ___ | itn cents 4
 
-Cy) x porter. Awes hebgirg Throng “Prenat
 
 we, 3
 
 BS) SwojfP ¢ Wa butt Dre Gy rr ae ue
 
-atanpoctes tyoisgly stuihP “emmtatktons
 
 . 6
 
 @ po = gra 2 Sheurlate rn -
 
-i Sa Usneienl Prico Dis ieniery
 Casino ok Fulixce.
 
 QalB
 ees
 
-Rosey Hotax- Lorg Fulvre-
 ee ee ee
 ——SP1 S00 Mi ra eae 3 t Guas & um
 
 ph aati it te ha ph 2c ten Hise din SD
 
-Saxye$ Habs Short “Fudue
 
-a" Gl aN abl 5g EL ae 2
 __SPlep gc 4 ra
 
 i eee 459 po = me sind dan)
@@ -5646,20 +5631,15 @@ SET eee
 & Bi c/DfEElm/E* | Dia :
 lac | |—to/o | o}4 | \u}] O[-s j-s -|4
 (eC }o |aofte [OPEL] © Jes] ns “
-LOD A Wht [De Ay BS —o} 4 ef
 (cc | oO] [-t0 | O fel ty [fe fc] «ls
 iGo. | Of   jote]O fr ily ©} via] wins
 (be | Of! tof Oo falty fo [ev [yt Th
 \Fo |o L-lo/—te] © FH /ty|f} oe] & | =h
 acl s [-to] ~S | Ova yg hy oO is} +14
-feo fie} » | © lola! mi ota i"| [+9
-fec[is] »j s fsitja ly etn ts] [ety
 lap |22) Ae |e 4-6 Oo} -s =|
-fac lacl | US [relict] es [osiol | Lah
 
 Doo | 30}—12/) do fol 1 lo |-o S
 
-Qet as = to] Pay ac 1-36) is -S \o
 
 |
 
@@ -5679,6 +5659,8 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_IT_7037/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 32.9
+- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5706,7 +5688,6 @@ Synobic — T sek-
 
 -_ =
 es ee Oe ree
-amen f= \eabice dsc Os Teele 2Seere ee
 
 —
 
@@ -5714,7 +5695,6 @@ ipmek “ Ws Konow. Fox The
 
 ‘Sine
 
-stop Ke Co he Proced wen Souk Obi Fete d
 
 tee Ponouny ubemw oven “he WYaryot ~
 TA wet” ao Wis EaAunve -
@@ -5740,8 +5720,6 @@ Qq™ phy Fud Pa her + 412- oR: Vrfe
 et Soma o Tecimols Com Charge >! Full
 
 [eS DEE UN
-P H ; ig a ca :
-| peti betel Robust 12s ac cle
 
 ~ _
 
@@ -5750,7 +5728,6 @@ a) (>) Qh
 ee a, 26 Tie
 
 wkee — Rocke
-peattslte sot is lien. Picie ts aleo berg:
 
 Eis wiee
 
@@ -5773,37 +5750,30 @@ ie
 - Qa ph: oSs=
 Qu © Rise Tanepernerct Consist ihe
 A i in Foxmiaxd , Puls
-ih Pe ad ophows cdyve “the thed garg
 
 ___ | itn cents 4
 
-Cy) x porter. Awes hebgirg Throng “Prenat
 
 we, 3
 
 BS) SwojfP ¢ Wa butt Dre Gy rr ae ue
 
-atanpoctes tyoisgly stuihP “emmtatktons
 
 . 6
 
 @ po = gra 2 Sheurlate rn -
 
-i Sa Usneienl Prico Dis ieniery
 Casino ok Fulixce.
 
 QalB
 ees
 
-Rosey Hotax- Lorg Fulvre-
 ee ee ee
 ——SP1 S00 Mi ra eae 3 t Guas & um
 
 ph aati it te ha ph 2c ten Hise din SD
 
-Saxye$ Habs Short “Fudue
 
-a" Gl aN abl 5g EL ae 2
 __SPlep gc 4 ra
 
 i eee 459 po = me sind dan)
@@ -5826,20 +5796,15 @@ SET eee
 & Bi c/DfEElm/E* | Dia :
 lac | |—to/o | o}4 | \u}] O[-s j-s -|4
 (eC }o |aofte [OPEL] © Jes] ns “
-LOD A Wht [De Ay BS —o} 4 ef
 (cc | oO] [-t0 | O fel ty [fe fc] «ls
 iGo. | Of   jote]O fr ily ©} via] wins
 (be | Of! tof Oo falty fo [ev [yt Th
 \Fo |o L-lo/—te] © FH /ty|f} oe] & | =h
 acl s [-to] ~S | Ova yg hy oO is} +14
-feo fie} » | © lola! mi ota i"| [+9
-fec[is] »j s fsitja ly etn ts] [ety
 lap |22) Ae |e 4-6 Oo} -s =|
-fac lacl | US [relict] es [osiol | Lah
 
 Doo | 30}—12/) do fol 1 lo |-o S
 
-Qet as = to] Pay ac 1-36) is -S \o
 
 |
 
@@ -5859,6 +5824,8 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_Mechanical_7031/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 32.9
+- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5886,7 +5853,6 @@ Synobic — T sek-
 
 -_ =
 es ee Oe ree
-amen f= \eabice dsc Os Teele 2Seere ee
 
 —
 
@@ -5894,7 +5860,6 @@ ipmek “ Ws Konow. Fox The
 
 ‘Sine
 
-stop Ke Co he Proced wen Souk Obi Fete d
 
 tee Ponouny ubemw oven “he WYaryot ~
 TA wet” ao Wis EaAunve -
@@ -5920,8 +5885,6 @@ Qq™ phy Fud Pa her + 412- oR: Vrfe
 et Soma o Tecimols Com Charge >! Full
 
 [eS DEE UN
-P H ; ig a ca :
-| peti betel Robust 12s ac cle
 
 ~ _
 
@@ -5930,7 +5893,6 @@ a) (>) Qh
 ee a, 26 Tie
 
 wkee — Rocke
-peattslte sot is lien. Picie ts aleo berg:
 
 Eis wiee
 
@@ -5953,37 +5915,30 @@ ie
 - Qa ph: oSs=
 Qu © Rise Tanepernerct Consist ihe
 A i in Foxmiaxd , Puls
-ih Pe ad ophows cdyve “the thed garg
 
 ___ | itn cents 4
 
-Cy) x porter. Awes hebgirg Throng “Prenat
 
 we, 3
 
 BS) SwojfP ¢ Wa butt Dre Gy rr ae ue
 
-atanpoctes tyoisgly stuihP “emmtatktons
 
 . 6
 
 @ po = gra 2 Sheurlate rn -
 
-i Sa Usneienl Prico Dis ieniery
 Casino ok Fulixce.
 
 QalB
 ees
 
-Rosey Hotax- Lorg Fulvre-
 ee ee ee
 ——SP1 S00 Mi ra eae 3 t Guas & um
 
 ph aati it te ha ph 2c ten Hise din SD
 
-Saxye$ Habs Short “Fudue
 
-a" Gl aN abl 5g EL ae 2
 __SPlep gc 4 ra
 
 i eee 459 po = me sind dan)
@@ -6006,20 +5961,15 @@ SET eee
 & Bi c/DfEElm/E* | Dia :
 lac | |—to/o | o}4 | \u}] O[-s j-s -|4
 (eC }o |aofte [OPEL] © Jes] ns “
-LOD A Wht [De Ay BS —o} 4 ef
 (cc | oO] [-t0 | O fel ty [fe fc] «ls
 iGo. | Of   jote]O fr ily ©} via] wins
 (be | Of! tof Oo falty fo [ev [yt Th
 \Fo |o L-lo/—te] © FH /ty|f} oe] & | =h
 acl s [-to] ~S | Ova yg hy oO is} +14
-feo fie} » | © lola! mi ota i"| [+9
-fec[is] »j s fsitja ly etn ts] [ety
 lap |22) Ae |e 4-6 Oo} -s =|
-fac lacl | US [relict] es [osiol | Lah
 
 Doo | 30}—12/) do fol 1 lo |-o S
 
-Qet as = to] Pay ac 1-36) is -S \o
 
 |
 
@@ -6039,6 +5989,7 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Computer_7032/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6570,6 +6521,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_DS_7038/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7101,6 +7053,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Mechanical_7031/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7632,6 +7585,8 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_DS_7009/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 39.1
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7659,19 +7614,16 @@ Instructions:
 6. Respective neat diagrams and illustrations are necessary
 ********** 1 **********
 --- page 2 ---
-| Synebhe MPSTAM CEE Sunapee GB
 | BTech|Maa “eck ALL. Streams. |
 Seweker V¥ (O-EF)
 & Syrnek Re:
 
-Rant od SRS erxvels ver.
 
 Qa@® jeaa|
 
 At 20S|= \_owvse —looo-
 
 oe =~ Prokk 4500- he
-bee ve a hes tae? — Preriurm quts es
 i Salo ASS
 Qu PSS: ee aD Zero
 ~ \Q. — Perm Lesk =—SoO|=
@@ -7756,7 +7708,6 @@ a Foy (,{.cc000 —> Corners (ol. Baer
 
 One Ya |
 ae Goss See" As a 8) |
-— Few &\. asso Orne Yeo Pwd 3.
 
 O QT:
 + \o ,oe0 Frot Les a, 46, S4, see
@@ -7777,6 +7728,8 @@ HRRRRRRRRRE [RRR R EE
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_IT_7001/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 39.1
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7800,19 +7753,16 @@ Instructions:
 6. Respective neat diagrams and illustrations are necessary
 ********** 1 **********
 --- page 2 ---
-| Synebhe MPSTAM CEE Sunapee GB
 | BTech|Maa “eck ALL. Streams. |
 Seweker V¥ (O-EF)
 & Syrnek Re:
 
-Rant od SRS erxvels ver.
 
 Qa@® jeaa|
 
 At 20S|= \_owvse —looo-
 
 oe =~ Prokk 4500- he
-bee ve a hes tae? — Preriurm quts es
 i Salo ASS
 Qu PSS: ee aD Zero
 ~ \Q. — Perm Lesk =—SoO|=
@@ -7897,7 +7847,6 @@ a Foy (,{.cc000 —> Corners (ol. Baer
 
 One Ya |
 ae Goss See" As a 8) |
-— Few &\. asso Orne Yeo Pwd 3.
 
 O QT:
 + \o ,oe0 Frot Les a, 46, S4, see
@@ -9664,6 +9613,8 @@ exercised
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/Integrated_Computer_7032/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 39.1
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -9691,19 +9642,16 @@ Instructions:
 6. Respective neat diagrams and illustrations are necessary
 ********** 1 **********
 --- page 2 ---
-| Synebhe MPSTAM CEE Sunapee GB
 | BTech|Maa “eck ALL. Streams. |
 Seweker V¥ (O-EF)
 & Syrnek Re:
 
-Rant od SRS erxvels ver.
 
 Qa@® jeaa|
 
 At 20S|= \_owvse —looo-
 
 oe =~ Prokk 4500- he
-bee ve a hes tae? — Preriurm quts es
 i Salo ASS
 Qu PSS: ee aD Zero
 ~ \Q. — Perm Lesk =—SoO|=
@@ -9788,7 +9736,6 @@ a Foy (,{.cc000 —> Corners (ol. Baer
 
 One Ya |
 ae Goss See" As a 8) |
-— Few &\. asso Orne Yeo Pwd 3.
 
 O QT:
 + \o ,oe0 Frot Les a, 46, S4, see
@@ -9809,6 +9756,8 @@ HRRRRRRRRRE [RRR R EE
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/Integrated_DS_7038/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 39.1
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -9836,19 +9785,16 @@ Instructions:
 6. Respective neat diagrams and illustrations are necessary
 ********** 1 **********
 --- page 2 ---
-| Synebhe MPSTAM CEE Sunapee GB
 | BTech|Maa “eck ALL. Streams. |
 Seweker V¥ (O-EF)
 & Syrnek Re:
 
-Rant od SRS erxvels ver.
 
 Qa@® jeaa|
 
 At 20S|= \_owvse —looo-
 
 oe =~ Prokk 4500- he
-bee ve a hes tae? — Preriurm quts es
 i Salo ASS
 Qu PSS: ee aD Zero
 ~ \Q. — Perm Lesk =—SoO|=
@@ -9933,7 +9879,6 @@ a Foy (,{.cc000 —> Corners (ol. Baer
 
 One Ya |
 ae Goss See" As a 8) |
-— Few &\. asso Orne Yeo Pwd 3.
 
 O QT:
 + \o ,oe0 Frot Les a, 46, S4, see

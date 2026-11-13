@@ -14,9 +14,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_DevOps(702DB0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_DevOps(702DB0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MCA | DevOps 2025-26 Final.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_DevOps(702DB0E015)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / DATA SCIENCE, MBA TECH / Artificial Intelligence | DevOps, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | MCA | DevOps Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / DATA SCIENCE, MBA TECH / Artificial Intelligence | DevOps, Sem-VII, Batch 2024-25 Re Exam.pdf |

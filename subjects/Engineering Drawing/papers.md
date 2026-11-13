@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/DIPLOMA/1ST YEAR/Sem_01/ENGINEERING DRAWING/Engineering Drawing Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (2 pages), mean OCR confidence 82.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 EOF RS
@@ -39,7 +40,6 @@ Date:_23 / 12/2024 No. of Pages: 02
 
 Marks: 50
 
-FZLNAR BKAMINATLON CRORY-RORS)
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
@@ -98,6 +98,66 @@ SO- 1;
 BL-1 dimensions are needed.
 
 KKKKKAKKEKK
+
+Page 2 of 2
+````
+
+## 2024-25 · Re-Exam · Sem 1 · paper 75943ed52553
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMON FOR ALL BRANCH/ENGINEERING DRAWING/Engineering Drawing Batch 2023-24 Re Exam_75943ed525.pdf`
+- Printed on paper: max marks: 50; exam date: 2/12/24
+- Text: ocr (2 pages), mean OCR confidence 87.8
+
+````text
+— : SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE i & =
+ENGINEERING, Mumbai of
+Academic Year: 2024-25
+Subject: Engineering Drawing Year:1 Se i
+Date: 2/12/24 BS a . _ Time:10 a.m. to®
+Marks: 50 No. of Pages: 02 /
+
+Paogsam: B.Tech Cin tg)
+Stteam: ALL Stéeams.
+: Re-Exam (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper.
+
+1) Figures in brackets on the right-hand side indicate full marks.
+2) Assume Suitable data where necessary.
+
+3) Solve all the questions in First Angel Proj ection Method only.
+
+oa
+
+Q1 Draw the FV, TV and RHSV for the given object. Give ; [20]
+at least 10 dimensions.
+
+Page 1 of 2
+--- page 2 ---
+[30]
+
+Q-2 _| Solve any three questions:
+
+a) A line AB 80 mm long has one of its end point 10 mm above HP and [10]
+20 mm in front of VP. It is inclined to HP at 45°. Draw its
+projection. x
+
+b) A regular hexagon of 50 mm side has one of its base is resting on HP. Its [10]
+
+surface is inclined at 45°to the HP. Draw its Projection.
+
+c) Figure below shows two views of an object. Drawlsometric view [10]
+taking O as origin. Use natural scale.
+
+[10]
+
+d) Draw the Hexagonal bolt and nut and take thediameter 50 mm.
+
+Show minimum 6 dimensions.
 
 Page 2 of 2
 ````
@@ -188,6 +248,80 @@ BL-1
 FR FOR FOR IE
 
 Page 2 of 2
+````
+
+## 2023-24 · Re-Exam · Sem 1 · paper 76729f374167
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMON FOR ALL BRANCH/ENGINEERING DRAWING/Engineering Drawing Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 88.3
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT ro
+Academic Year: 2023-2024 -
+Program/s: BTI Year: I Semester: I
+Stream/s ; All branches
+Subject: Engineering Drawing. Time: 2 hrs (jo:0oamtoi2noon
+Date:__7_/ 12 / 2023 No. of Pages: 02
+
+Marks: 50
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question no. 1 is compulsory.
+
+2) In question no. 2, solve any 3 questions.
+
+3) Figures in brackets on the right hand side indicate full marks.
+4) Assume Suitable data if necessary.
+
+Draw the FV, TV and LHSV for the given object. Give at least 10
+
+dimensions.
+
+5 - 5
+
+Ql
+
+CO-1; SO-1;BL-% [28]
+
+Page 1|2
+--- page 2 ---
+Q2 Solve any three questions: [30]
+
+a | A line EF 60 mm long is parallel to VP and inclined 30° to HP. The end E is
+
+5. 50-1:BL- 0]
+ds SEBS 10 mm above HP and 20 mm in front of V.P. Draw the projections of the line. l
+
+b | A pentagonal plane of 35 mm side is resting on one of its corner in the HP.
+
+are [10]
+€O-2;SO-4;BL-Z | | its surface is inclined at 50° to the HP. Draw its Projection.
+
+c | Figure below shows two views of an object. Draw Isometric view taking O
+
+as origin.
+20
+1.42...)
+3
+CO- 1;S0-1;BL-% g | #0)
+9
+
+3 ‘
+)
+d | Draw the Hexagonal bolt and nut and take the diameter 40 mm. Minimum 4
+CO-1; SO-1;BL-5 {¥0]
+
+dimensions are needed.
+
+Page 2|2
 ````
 
 ## 2023-24 · Re-Exam · Sem 1 · paper a59f7c732a70
@@ -290,140 +424,6 @@ a 60 —»| -—_*—~
 EAL LAA. SN,
 
 Page 2 of 2
-````
-
-## 2023-24 · Re-Exam · Sem 1 · paper 75943ed52553
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMON FOR ALL BRANCH/ENGINEERING DRAWING/Engineering Drawing Batch 2023-24 Re Exam_75943ed525.pdf`
-- Printed on paper: max marks: 50; exam date: 2/12/24
-- Text: ocr (2 pages), mean OCR confidence 87.8
-
-````text
-— : SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE i & =
-ENGINEERING, Mumbai of
-Academic Year: 2024-25
-Subject: Engineering Drawing Year:1 Se i
-Date: 2/12/24 BS a . _ Time:10 a.m. to®
-Marks: 50 No. of Pages: 02 /
-
-Paogsam: B.Tech Cin tg)
-Stteam: ALL Stéeams.
-: Re-Exam (Batch 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper.
-
-1) Figures in brackets on the right-hand side indicate full marks.
-2) Assume Suitable data where necessary.
-
-3) Solve all the questions in First Angel Proj ection Method only.
-
-oa
-
-Q1 Draw the FV, TV and RHSV for the given object. Give ; [20]
-at least 10 dimensions.
-
-Page 1 of 2
---- page 2 ---
-[30]
-
-Q-2 _| Solve any three questions:
-
-a) A line AB 80 mm long has one of its end point 10 mm above HP and [10]
-20 mm in front of VP. It is inclined to HP at 45°. Draw its
-projection. x
-
-b) A regular hexagon of 50 mm side has one of its base is resting on HP. Its [10]
-
-surface is inclined at 45°to the HP. Draw its Projection.
-
-c) Figure below shows two views of an object. Drawlsometric view [10]
-taking O as origin. Use natural scale.
-
-[10]
-
-d) Draw the Hexagonal bolt and nut and take thediameter 50 mm.
-
-Show minimum 6 dimensions.
-
-Page 2 of 2
-````
-
-## 2022-23 · Re-Exam · Sem 1 · paper 76729f374167
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMON FOR ALL BRANCH/ENGINEERING DRAWING/Engineering Drawing Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 88.3
-
-````text
-SVKM’S NMIMS
-
-SCHOOL OF TECHNOLOGY MANAGEMENT ro
-Academic Year: 2023-2024 -
-Program/s: BTI Year: I Semester: I
-Stream/s ; All branches
-Subject: Engineering Drawing. Time: 2 hrs (jo:0oamtoi2noon
-Date:__7_/ 12 / 2023 No. of Pages: 02
-
-Marks: 50
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question no. 1 is compulsory.
-
-2) In question no. 2, solve any 3 questions.
-
-3) Figures in brackets on the right hand side indicate full marks.
-4) Assume Suitable data if necessary.
-
-Draw the FV, TV and LHSV for the given object. Give at least 10
-
-dimensions.
-
-5 - 5
-
-Ql
-
-CO-1; SO-1;BL-% [28]
-
-Page 1|2
---- page 2 ---
-Q2 Solve any three questions: [30]
-
-a | A line EF 60 mm long is parallel to VP and inclined 30° to HP. The end E is
-
-5. 50-1:BL- 0]
-ds SEBS 10 mm above HP and 20 mm in front of V.P. Draw the projections of the line. l
-
-b | A pentagonal plane of 35 mm side is resting on one of its corner in the HP.
-
-are [10]
-€O-2;SO-4;BL-Z | | its surface is inclined at 50° to the HP. Draw its Projection.
-
-c | Figure below shows two views of an object. Draw Isometric view taking O
-
-as origin.
-20
-1.42...)
-3
-CO- 1;S0-1;BL-% g | #0)
-9
-
-3 ‘
-)
-d | Draw the Hexagonal bolt and nut and take the diameter 40 mm. Minimum 4
-CO-1; SO-1;BL-5 {¥0]
-
-dimensions are needed.
-
-Page 2|2
 ````
 
 ## 2018-19 · Exam not stated · Sem 1 · paper 836514ce15cd
@@ -558,9 +558,9 @@ Draw Orthographic projections for any ONE from following
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMON FOR ALL BRANCH/ENGINEERING DRAWING/Engineering Drawing I 2018-2019_1be85fdeea.pdf`
 - Printed on paper: exam date: 01/11/18
 - Text: ocr (2 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-Li be XG P| Co PY .
 
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
@@ -656,6 +656,7 @@ Draw Orthographic projections for any ONE from following.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/COMMON FOR ALL BRANCH/ENGINEERING DRAWING/Engineering Drawing I 2018-2019 Final.pdf`
 - Printed on paper: max marks: 100; exam date: 02/19 / 2018
 - Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ot | | | 7 ony
@@ -698,7 +699,6 @@ a   Acircle of diameter 35 mm rolls along a straight line without slipping. Draw
 traced by a point on the circumference for one complete revolution of circle. Name the
 curve.
 b_ The line ‘AB’ 80 mm long is inclined at 30° to HP and 60° to VP. Its end ‘A’ is 10 10
-lial: QDOVE ALD Gude Jum in fre of VP. usw ife prOpecuc.is ofa line “Aas. cHeekS
 the line ‘AB’ is in 1st quadrant.
 Q.2 Solve any ONE (20)
 I A regular pentagon of 25 mm side, having one of its sidee in the HP and surface 20
@@ -991,6 +991,7 @@ a
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/ENGINEERING DRAWING/2008-2009 re exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 4
 - Text: ocr (3 pages), mean OCR confidence 82.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS UNIVERSITY
@@ -1057,7 +1058,6 @@ Q.6 Draw i) Sec. Front View along the Cutting Plane AA, ii) Top View &
 iii) LHSV iv) Mark 10 Important Dimensions [6+6+6 +2] ZoMarvke
 ; $0
 
-ak 2 2 a ae eR RR EK ATT THE BES Te tt a 2 ea ae
 
 ee
 *
@@ -1241,6 +1241,7 @@ ay Re,
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/ENGINEERING DRAWING/2007-2008 re exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 4; exam date: 16. 06-08
 - Text: ocr (3 pages), mean OCR confidence 71.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \ SVKM’S NMIMS UNIVERSITY s
@@ -1332,7 +1333,6 @@ Re, v 1 ee aur
 & my ify i oe
 al a a” eee ee " an fe pee 1: $i
 mo Prey th
-Al Xx fy i t- {5
 eo 1 ee
 y 1
 = | 42 .
@@ -1345,9 +1345,10 @@ y 1
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/ENGINEERING DRWAING/2006-2007(3).pdf`
 - Printed on paper: duration hours: 4
 - Text: ocr (3 pages), mean OCR confidence 54.6
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
-30 raltheeean Cee | ae a ABO (yf JTC aye ees TNC A
 
 ““S_ NARSEE MONJEE INSTITUTE OF MANAGEMENT AND HIGHER STUDIES
 
@@ -1355,7 +1356,6 @@ y 1
 subject: engg. Drawing course:MBA tech. < we
 I : be 3
 Asam year: 2006-07 duration:4hrs SS
-Bb ett — Zolq Joe ' Don
 +.B. .(1) Use only el) sheets for eee, ina oy Bat ia 2s | 0-1 aw 0 de oe
 (2 ) Neatness. accuracy and draughtsmanship will be considered while assessing. :
 
@@ -1389,7 +1389,6 @@ Q.3.(A) Draw F.V.S.V. & T.V.
 a (Ie
 
 aera by : ‘ q Shi, Zs anno a4 “4
-Soe re | A Cpelnatied LP Ree si, ie padlenntce saad pega es
 
 an D Sgt hc ae VON eRe De oeaey “ ars 4 >
 --- page 2 ---
@@ -1412,10 +1411,8 @@ Q.4.(A) DRAW isometric view
 Note _—
 OTE 44 Ce Ce RAT Bute ae
 Q.2 Cae Ke GitE EPR ER so au STUDS LT
-May essuine ny E' THES DeaTION
 |c
 
-fe teaslihegiaichsSinas cds Sa aa 2 ll lh
 
 per ey enitlcdtni eats Srsscsenbiinebina
 --- page 3 ---
@@ -1448,9 +1445,7 @@ sty 9 :
 
 eee Bk C6).
 
-Aes Dyn SNS no ane Are Nees Gire Ss, ce sTtyDe a ape
 
-ti ant HAME MASSE —<GUUTABEY |
 ````
 
 ## 2006-07 · Re-Exam · Trim 1 · paper 735530847571
@@ -1567,12 +1562,12 @@ Draw Following free hand sketches with atleast two views for each
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/ENGINEERING DRWAING/2006-2007 re exam(1).pdf`
 - Text: ocr (3 pages), mean OCR confidence 81.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Pri
 GHER ST UDIES
 
-‘NARSEE MONJEE INSTITUTE OF Mi ANAGE
 -— UNIVE
 
 gq aS Gia
@@ -1581,7 +1576,6 @@ mBATeh LY Tamipe-exd
 subject: enge- Drawing 3 ,
 pate —|4 blot pal er 3a i Y [ ( ity)
 Academic year: 2006-07 max marks nN aS Mauri :4hrs_ ||" SE:
-le » a E-% vA. q
 Ket 2B geo rot rap yé
 
 SOY We Ay

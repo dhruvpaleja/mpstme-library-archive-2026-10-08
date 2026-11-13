@@ -1,6 +1,6 @@
 # Python for Data Analysis: question papers in full
 
-7 unique papers · 2022-23 to 2024-25 · Common (all branches), Data Science
+6 unique papers · 2023-24 to 2024-25 · Common (all branches), Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -235,6 +235,81 @@ iv) Find and display the top 3 product categories with the highest profit
 using a bar chart.
 --- page 6 ---
 
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper 37e362d50b3f
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PYTHON FOR DATA ANALYSIS/Python for Data Analysis, Batch 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 /05 /202
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN GINEERING
+Academic Year: 2024-2025
+
+Program: BTech/MBATech Stream ; DS / CSE-DS (7057) /CSE-DS Year: | Semester: 2
+Subject: Python for Data Analysis Time: 3 hrs (2:00pm to: oopry)
+Date: 03 /05 /202S .
+
+No. of Pages: 2
+Marks: 100
+
+Re-Examination (Batch 2023-2024)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) In all__5_ questions to be attempted:
+
+4) All questions carry equal marks. ;
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi (a) Explain the difference between if, elif, and else statements in Python with suitable
+examples.
+(b) What is the significance of exception handling in Python? Explain with an example. 20
+marks
+c)What are lists in Python? How do they differ from tuples? Provide an example for each.
+(d) Write a Python program to check if two strings are anagrams.
+Q2 (a) Differentiate between while and for loops with examples.
+(b) Write a Python program to generate the Fibonacci series up to n terms using loops.
+20
+marks
+Q3 (a) Explain how to read and write CSV files using Pandas with examples.
+(b) Write a Python program to filter rows in a Pandas DataFrame based ona condition.
+20
+
+marks
+--- page 2 ---
+a4
+
+(a) What are subplots in Matplotlib? Explain with an example.
+
+(b) Write a Python program to create a scatter plot using Matplotlib. 20
+marks
+Q5 (a) Explain the difference between find(), index(), and count() string functions with examples.
+(b) Write a Python program to remove all duplicate characters from a given string.
+20
+marks
+Q6 (a) Explain the difference between append(), extend(), and insert() methods in lists with
+examples.
+(b) Write a Python program to find the second largest number in a list. 20
+marks
+Q7 (a) Explain how to iterate over dictionary keys and values using loops with examples.
+(b) Write a Python program to count the frequency of each word in a given text using dictionaries.
+20
+
+marks
 ````
 
 ## 2023-24 · Final-Exam · Sem 2 · paper c951b76e1cdf
@@ -481,81 +556,6 @@ Write down the code to slicing the df array to display below array
 [5 6]
 ````
 
-## 2023-24 · Re-Exam · Sem 2 · paper 37e362d50b3f
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PYTHON FOR DATA ANALYSIS/Python for Data Analysis, Batch 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 /05 /202
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN GINEERING
-Academic Year: 2024-2025
-
-Program: BTech/MBATech Stream ; DS / CSE-DS (7057) /CSE-DS Year: | Semester: 2
-Subject: Python for Data Analysis Time: 3 hrs (2:00pm to: oopry)
-Date: 03 /05 /202S .
-
-No. of Pages: 2
-Marks: 100
-
-Re-Examination (Batch 2023-2024)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) In all__5_ questions to be attempted:
-
-4) All questions carry equal marks. ;
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi (a) Explain the difference between if, elif, and else statements in Python with suitable
-examples.
-(b) What is the significance of exception handling in Python? Explain with an example. 20
-marks
-c)What are lists in Python? How do they differ from tuples? Provide an example for each.
-(d) Write a Python program to check if two strings are anagrams.
-Q2 (a) Differentiate between while and for loops with examples.
-(b) Write a Python program to generate the Fibonacci series up to n terms using loops.
-20
-marks
-Q3 (a) Explain how to read and write CSV files using Pandas with examples.
-(b) Write a Python program to filter rows in a Pandas DataFrame based ona condition.
-20
-
-marks
---- page 2 ---
-a4
-
-(a) What are subplots in Matplotlib? Explain with an example.
-
-(b) Write a Python program to create a scatter plot using Matplotlib. 20
-marks
-Q5 (a) Explain the difference between find(), index(), and count() string functions with examples.
-(b) Write a Python program to remove all duplicate characters from a given string.
-20
-marks
-Q6 (a) Explain the difference between append(), extend(), and insert() methods in lists with
-examples.
-(b) Write a Python program to find the second largest number in a list. 20
-marks
-Q7 (a) Explain how to iterate over dictionary keys and values using loops with examples.
-(b) Write a Python program to count the frequency of each word in a given text using dictionaries.
-20
-
-marks
-````
-
 ## 2023-24 · Re-Exam · Sem 2 · paper 294495261fb0
 
 - Departments: Common (all branches)
@@ -799,204 +799,4 @@ Generate two random variable X and Y then plot the histogram of botii [10]
 Y ae’
 
 through matplotlib library
-````
-
-## 2022-23 · Re-Exam · Sem 2 · paper d0acc6d34c1e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/PYTHON FOR DATA ANALYSIS/Python Programming, Re-exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 85.0
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG E
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2023- 2024 ;
-
-Program/s: B. Tech /MBA Tech ; : Year:I/II/III Semester: II/TV/VI
-
-Stream/s : B. Tech(AI/CE/IT/EXTC/MXTC/CSE(Cyber)/AIML/AIDS/CSBS/CS and MBA Tech(AI/CE/IT/EXTC)
-
-Subject: Python Programming . . , : ; Time: 03 hrs (A:sopmto 5200 Pw)
-Date:_3 / 7 /2024 _ , , No. of Pages:04
-Marks: 100 .
-
-|
-[Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and strictly
-«>», adhere to the instructions given by the invigilators.
-
-1) Question No. 1 is-compulsory.
-
-2) Out of remaining questions, attempt any 4 questions,
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Figures in brackets on the right-hand side indicate full marks.
-6) Assume Suitable data if necessary. :
-
-1
-
-CO-1,3 A | Accept five numbers from the user using individual statements. Print the sum, average
-
-La of the numbers. . [05]
-
-CO-1,3 B | Write a Python program that takes a string as input.and check whether it is uppercase [05]
-
-SO-2 BL-1 or lowercase using if-else.
-
-CO-1,3 C | Define a function to calculate volume of a box. Your function should have length,
-
-~ SO-2 width & height of a box as input parameters. [05]
-(>) | BL-2 °
-CO-3 SO-2 | D |} Match the set of all valid e-mail addresses using regular expression. Consider the
-BL-4 format of email address as [05]
-Username@domain_name .com
-
-Q2
-
-CO-1,3 A | Develop a menu-driven program to perform following operations on two numbers by
-
-SO-2 reading choice as follows
-
-Bie 1. Addition of two number 10
-2. Exponentiation (X*) ae
-3. Exchange values using comma operator
-4. Perform bitwise AND operation
-
-CO-1,3 B | Initialize a list (Ist = [4,15,6,28,9,10,11]), and perform the following operations on
-
-SO-2 the list.
-
-BL-2 [10]
-
-a. insert 18 at position 5
-b. sort the list in ascending order
-
-Page 1/4
---- page 2 ---
-c. print the number ofelementsinthelist © . a moe
-d. delete the last element 7 °
-e._ display list
-
-output
-
-My vehicle reg. no is MH03 4567
-
-Q3 .
-CO-1,3 A | Create Student class with details like rollno, name, marks for 5 subjects each out of
-Boa 100. Create parameterized constructor to assign initial values and define one function 10
-Lo, to calculate percentage and another. function to display details (rollno, name, marks [10]
-: -| and percentage). Implement program to process.and print details of five students.
-co-4 B | Implement python program to perform following SQL operations using Python
-SO-2 - | program & sqlite.
-| BL3
-i. Create table ticket _booking with following details
-Ticket : TiO. Passenget_ name } Ticket_1 fare
-ii. Insert following records to the table_ticket booking 2
-| Ticket_no | Passenger_name | Ticket_fare [10]
-1 Rohit 860
-2 Virat 800
-3 Ravindra 900
-iii. ‘ _ Delete any one record by reading ticket_no
-iv. Retrieve all records and display same:
-04 :
-CO-2 SO-2 | A | Implement a program to write all the odd numbers between P and Q in a file, where [10]
-BL-3 Q>P. Read and display the contents of the file.
-CO- 3 B | Write a program that has a parent class-vehicle, child classes- bike, car; each would
-ES have a method whomi() that displays some attributes. The registration number is stored
-caer in the vehicle class-and the brand is stored in the child class. Use parent class method
-to print the registration number.
-Input (to create object) :-
-vl=vehicle("MH03 4567")
-vl.whomi(). 2
-ove prane . [10]
-‘| bl=bike("MH05 8967","Suzuki")
-bl.whomi()
-cl=car("MH78 2345","Honda") |
-_| cl.whomi() : i ~
-
-Page 2/4
-
-.
---- page 3 ---
-Iam a bike from Suzuki
-My vehicle reg.'no is MH05 8967
-
-Iam a car from Honda
-My vehicle reg. no is MH78 2345
-
-Q5
-CO-1,3 A | Write a program to accept details of n programs run by an institute. Accept program-
-SO-2 code, name of program, department, duration of the program. Store it in a dictionary.
-BL (key=program-code, Values= list[name,dept,duration]). Display the dictionary. Ask
-the user for department(d) and duration(t), and list all the programs run by the
-department with duration=t.
-Input to be taken from User:
--N . .
-- Details of N progsamalpogrim codes i name of poset, es duration of
-program) ; ; ;
-- Enter Department(d) [10]
-- Enter Duration(t)
-Output Expected: (Assuming d= “Computer”, t=4)
-{101: ["BTech(CE)",“Computer”,4], 102: [“MBATech(CE)”,“Computer”,5], 103:
-[“BTI”,“Computer”,6],104:["BTech(CS)","Computer",4],105:["BTech(AD",“AT”,4]}
-Programs with Department as "Computer" and Duration as 4:
-101 ["BTech(CE)","Computer",4] :
-104 ["BTech(CS)","Computer",4]
-CO-1,3 B | Write a function that accepts two integer numbers as arguments and returns addition,
-— subtraction, multiplication and division. [10]
-Q6
-CO1,3 A | Write a program to create [1,2,3,4,5] array using numpy; find out the total number of [05]
-| S7 BBL-3 elements which are greater than the average of all the elements in the array.
-CO1,3 B | Use lambda and reduce() to print the product of these numbers
-op my_numbers = [4, 6, 9, 23, 5] [05]
-CO-2 C | Create a file called Story.txt and write the following line in file:
-aS “This is my Engineering Program. I have passed in all my first-year subjects”
-Write a function countmy() in python io read the text file “Story.txt” and count the [10]
-number of times “my” or “My” occurs in the file.
-Expected output:-
-The function should display the output as: “my occurs 2 times”.
-Q7 ,
-CO-1,3 A | Consider the information of student as given below and perform following
-of operations: [10]
-
-Page 3/4
---- page 4 ---
-"1, Create DataFrame Student to store following student informatidn.as
-
-(Roll,Name,Skills,Score)
-"_{Roll Name __|Skills _ [Score
-a 1jMike [HTML |"92" _
-2}Smith | Ajax "gg" _
-3|Kristina [Java "67"
-
-4jJames   |Python |"88"
-
-2. Create new data frame Student_row by slicing data of first two rows &
-display Student_row.
-
-3. Change the data type of Score to float.
-
-4. Display the record of student by reading rollno from keyboard
-
-5. View summary of dataframe.
-
-CO-1,3 B | Write a user-defined function calculate_avg which would accept multiple numbers as |
-SO-2 arguments and return the count and the average of only positive non-zero numbers.
-BL3 Print the returned count and average in the main script.
-[10]
-Sample function call
-calculate_avg(10,-2,9,0,-4, ...)
-x x
-am
-
-Page 4/4
 ````

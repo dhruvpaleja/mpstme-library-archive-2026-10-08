@@ -1,8 +1,265 @@
 # Introduction to Blockchain: question papers in full
 
-6 unique papers · 2022-23 to 2022-23 · Common (all branches), Mechatronics
+6 unique papers · 2022-23 to 2024-25 · Common (all branches), Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2024-25 · Re-Exam · Sem 5 · paper 8670eccefcb3
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/INTRODUCTION TO BLACKCHAIN/Introduction to Blackchain, Sem-V, Re Exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 87.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B. Tech Stream: MXTC w Year: III Semester: V
+Subject: Introduction to Blockchain Time: 3 hrs (2:00 to 5:00)
+Date:__ 03/12/2024. No. of Pages: 2°™ = P™
+Marks: 100
+
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory. w
+
+2) Out of remaining questions, attempt any __4 _questigns.
+3)Inall___5_ questions to be attempted.   ~
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql ;
+Answer briefly: [20]
+CO-1 ; a. Define Blockchain. Explain the difference between centralized and
+ee distributed system. :
+CO-1 ; b.
+SO-1,2; Explain P2P system and its properties.
+BL-2
+CO-2 ; G Explain the use of Practical Byzantine Fault Tolerance (PBFT) in
+S0-1,2; ;
+BL-3 Blockchain.
+CO-3 ; d. . .
+SO-1,2; Explain the use of smart contracts in Ethereum.
+BL-3
+Q2 a. : .
+ena Explain following properties of Blockchain: Decentralized, Transparent, [10]
+SO-1.2; Immutable and secure
+BL-2
+ss b Explain the use of Hash Pointers, Hash chain and Merkel tree in r10}
+BL-2 , Blockchain.
+--- page 2 ---
+e
+
+CO-1;
+SO-1,2;
+BL-3
+
+Explain how file sharing and data distribution is done in P2P network for
+
+blockchain.
+
+rs
+
+[10]
+
+CO-2;
+SO-1,2;
+BL-3
+
+Explain working of Bitcoin and the mining process.
+
+[10]
+
+Q4
+CO-2;
+SO-1,2;
+BL-2
+
+What is Consensus in Blockchain. Explain Proof of Stake (PoS) in detail.
+
+[10]
+
+CO-3;
+SO-1,2;
+BL-2
+
+Explain the process of developing and executing smart contracts in
+
+Ethereum. ra
+
+[10]
+
+Q5
+COL-;
+SO-1,2;
+BL-3
+
+ey
+
+Explain following attributes of block in blockchain: Previous hash, hash,
+nonce, merkle root, and transactions.
+
+[10]
+
+CO-3;
+SO-1,2;
+BL-4
+
+Compare and contrast Bitcoin and Ethereum.
+
+x
+
+[10]
+
+Q6
+CO-4;
+SO-1,2;
+BL-3
+
+Explain following applications of Blockchain: IoT and smart cities,
+
+Business and Industry
+
+[10]
+
+CO-2;
+SO-1,2;
+BL-3
+
+Explain Bitcoin and the mining process in Bitcoin.
+
+[10]
+
+Q7
+CO-4;
+SO-1,2;
+BL-3
+
+Explain how privacy and security is achieved in blockchain.
+
+[10]
+
+CO-2;
+SO-1,2;
+BL-4
+
+Compare and contrast Proof of Work (PoW) and Proof of Stake (PoS)
+
+[10]
+````
+
+## 2024-25 · Re-Exam · Sem 5 · paper 7f28a32837e8
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/INTRODUCTION TO BLACKCHAIN/Introduction to Blockchain, Sem-V, Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
+- Text: ocr (2 pages), mean OCR confidence 87.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B. Tech Stream: MXTC Year: III Semester: V
+Subject: Introduction to Blockchain Time: 3 hrs (2:00 to 5:00) pm
+Date: 24 Feb 2025 No. of Pages: 2
+
+Marks: 100
+
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql :
+Answer briefly: [20]
+CO- 1; a. Define Blockchain. Explain the difference between Blockchain and
+SO-1,2 ; ee
+BL-4 distributed ledger.
+CO- 1; lex ,
+SO-1,2; Compare and contrast Centralized, Decentralized and Distributed Systems
+BL-4
+CO-3 ; Gs :
+SO-1,2; Explain the purpose of smart contract.
+BL-3
+CO-2 ; d. t 3
+SO-1,2; Explain the use of Cryptographic Hash Functions in Blockchain
+BL-3
+Q2 a. A 5
+a Explain different types of Blockchain with example: Public, private, and [10]
+SO-1,2; consortium based blockchain.
+BL-3
+Se b. Explain Digital Signatures and Public-private Keys and its use in [10]
+BL-3 é Blockchain.
+--- page 2 ---
+Q3 a.
+
+CO-2; Explain P2P communication architecture. [10]
+SO-1,2;
+
+BL-2
+
+CO-2; b.
+SO-1,2; Explain working of Bitcoin and use of Bitcoin scripts. [10]
+
+BL-3
+
+Scat What is Consensus in Blockchain. Explain Proof of Work (PoW) in detail. [10]
+BL2
+
+ee b. Explain the smart contracts and process of developing and executing smart t10]
+BL-2 : contracts in Ethereum.
+
+Q5 a.
+
+CO-1: Draw and explain block structure with example.
+
+SO-1,2; ee
+BL-3
+
+ce b. Explain decentralized Identity management, Transactions, incentivizing and f10]
+BL-3 : mining in Bitcoin.
+
+Q6 a.
+
+nie Explain any two applications of Blockchain. [10]
+BL-3
+
+CO-2; b.
+SO-1.2; Differentiate between Bitcoin and Ethereum. [10]
+BL-4
+
+mee Differentiate between Proof of Work (PoW) and Proof of Stake (PoS) [10]
+BL
+
+eae Explain how privacy and security is achieved in blockchain. [10]
+BL-3
+````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper 102c17a47296
 
@@ -421,263 +678,6 @@ Discuss the history of Blockchain.
 @s
 
 Hes
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 8670eccefcb3
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/INTRODUCTION TO BLACKCHAIN/Introduction to Blackchain, Sem-V, Re Exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 87.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: B. Tech Stream: MXTC w Year: III Semester: V
-Subject: Introduction to Blockchain Time: 3 hrs (2:00 to 5:00)
-Date:__ 03/12/2024. No. of Pages: 2°™ = P™
-Marks: 100
-
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory. w
-
-2) Out of remaining questions, attempt any __4 _questigns.
-3)Inall___5_ questions to be attempted.   ~
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql ;
-Answer briefly: [20]
-CO-1 ; a. Define Blockchain. Explain the difference between centralized and
-ee distributed system. :
-CO-1 ; b.
-SO-1,2; Explain P2P system and its properties.
-BL-2
-CO-2 ; G Explain the use of Practical Byzantine Fault Tolerance (PBFT) in
-S0-1,2; ;
-BL-3 Blockchain.
-CO-3 ; d. . .
-SO-1,2; Explain the use of smart contracts in Ethereum.
-BL-3
-Q2 a. : .
-ena Explain following properties of Blockchain: Decentralized, Transparent, [10]
-SO-1.2; Immutable and secure
-BL-2
-ss b Explain the use of Hash Pointers, Hash chain and Merkel tree in r10}
-BL-2 , Blockchain.
---- page 2 ---
-e
-
-CO-1;
-SO-1,2;
-BL-3
-
-Explain how file sharing and data distribution is done in P2P network for
-
-blockchain.
-
-rs
-
-[10]
-
-CO-2;
-SO-1,2;
-BL-3
-
-Explain working of Bitcoin and the mining process.
-
-[10]
-
-Q4
-CO-2;
-SO-1,2;
-BL-2
-
-What is Consensus in Blockchain. Explain Proof of Stake (PoS) in detail.
-
-[10]
-
-CO-3;
-SO-1,2;
-BL-2
-
-Explain the process of developing and executing smart contracts in
-
-Ethereum. ra
-
-[10]
-
-Q5
-COL-;
-SO-1,2;
-BL-3
-
-ey
-
-Explain following attributes of block in blockchain: Previous hash, hash,
-nonce, merkle root, and transactions.
-
-[10]
-
-CO-3;
-SO-1,2;
-BL-4
-
-Compare and contrast Bitcoin and Ethereum.
-
-x
-
-[10]
-
-Q6
-CO-4;
-SO-1,2;
-BL-3
-
-Explain following applications of Blockchain: IoT and smart cities,
-
-Business and Industry
-
-[10]
-
-CO-2;
-SO-1,2;
-BL-3
-
-Explain Bitcoin and the mining process in Bitcoin.
-
-[10]
-
-Q7
-CO-4;
-SO-1,2;
-BL-3
-
-Explain how privacy and security is achieved in blockchain.
-
-[10]
-
-CO-2;
-SO-1,2;
-BL-4
-
-Compare and contrast Proof of Work (PoW) and Proof of Stake (PoS)
-
-[10]
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 7f28a32837e8
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/INTRODUCTION TO BLACKCHAIN/Introduction to Blockchain, Sem-V, Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
-- Text: ocr (2 pages), mean OCR confidence 87.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: B. Tech Stream: MXTC Year: III Semester: V
-Subject: Introduction to Blockchain Time: 3 hrs (2:00 to 5:00) pm
-Date: 24 Feb 2025 No. of Pages: 2
-
-Marks: 100
-
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql :
-Answer briefly: [20]
-CO- 1; a. Define Blockchain. Explain the difference between Blockchain and
-SO-1,2 ; ee
-BL-4 distributed ledger.
-CO- 1; lex ,
-SO-1,2; Compare and contrast Centralized, Decentralized and Distributed Systems
-BL-4
-CO-3 ; Gs :
-SO-1,2; Explain the purpose of smart contract.
-BL-3
-CO-2 ; d. t 3
-SO-1,2; Explain the use of Cryptographic Hash Functions in Blockchain
-BL-3
-Q2 a. A 5
-a Explain different types of Blockchain with example: Public, private, and [10]
-SO-1,2; consortium based blockchain.
-BL-3
-Se b. Explain Digital Signatures and Public-private Keys and its use in [10]
-BL-3 é Blockchain.
---- page 2 ---
-Q3 a.
-
-CO-2; Explain P2P communication architecture. [10]
-SO-1,2;
-
-BL-2
-
-CO-2; b.
-SO-1,2; Explain working of Bitcoin and use of Bitcoin scripts. [10]
-
-BL-3
-
-Scat What is Consensus in Blockchain. Explain Proof of Work (PoW) in detail. [10]
-BL2
-
-ee b. Explain the smart contracts and process of developing and executing smart t10]
-BL-2 : contracts in Ethereum.
-
-Q5 a.
-
-CO-1: Draw and explain block structure with example.
-
-SO-1,2; ee
-BL-3
-
-ce b. Explain decentralized Identity management, Transactions, incentivizing and f10]
-BL-3 : mining in Bitcoin.
-
-Q6 a.
-
-nie Explain any two applications of Blockchain. [10]
-BL-3
-
-CO-2; b.
-SO-1.2; Differentiate between Bitcoin and Ethereum. [10]
-BL-4
-
-mee Differentiate between Proof of Work (PoW) and Proof of Stake (PoS) [10]
-BL
-
-eae Explain how privacy and security is achieved in blockchain. [10]
-BL-3
 ````
 
 ## 2022-23 · Re-Exam · Sem 7 · paper 3af7e9c3955d

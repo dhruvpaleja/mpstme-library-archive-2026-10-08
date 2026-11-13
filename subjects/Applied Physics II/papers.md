@@ -1391,507 +1391,7 @@ BL- 2   resistance?
 ********** 2 **********
 ````
 
-## 2012-13 · Exam not stated · Trim 2 · paper 82bf98ac74d0
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II 2012-13.pdf`
-- Printed on paper: exam date: 07/02/2013
-- Text: text (2 pages)
-
-````text
-~   -   SVKM's NMIMS
-Mukesh Pate1 School Of Technology
->ogramme:   MBA (Tech) -ALL STREAMS   Year:   I
-Academic Year : 20 12-2013
-(I   Subject:   APPLIED PHYSICS - II   Marks:
-(APPLIED SCIENCE -11 )   Time :
-Date:   07/02/2013
-Final - Examination
-Note: (i) Question No. 1 is compulsory.
-(ii) Answer any four questions out of the remaining six questions.
-(iii) In all five questions are to be answered.
-(iv) All questions carry equal marks.
-(v) Answer to each new question should start on a fresh page.
-(vi) Figures in bracket indicate full marks.
-(vii) Assume suitable data if necessary.
-1 Answer any five:   [02 x 051
-a. What changes will you observe in the Newton's ring fringe pattern if monochromatic
-.. .. c' light is replaced by white light?
-! .-: 5 6 b.)\ Calculate the thickness of a quartz crystal used to produce ultrasonic waves of 1 MHz.
-,d c. Define acceptance angle for an optical fibre and show how it is related with numerical
-aperture.
-l.3   / p*   d. Why is population inversion necessary to achieve lasing?
-,   e. What are the changes that are caused in the diffraction pattern if the number of slits are
-;I - ' ln T'! I? \I made large?
-The & line from the anode of an x-ray tube is reflected in the first order at an angle of 6 O
-by a crystal of NaCl mounted on X-ray spectrometer. Calculate the wavelength of K,
-line if interplaner distance of crystal is 2.818 A.
-g. Write down the maxima and minima condition due to interference of transmitted light in
-thin films of uniform thickness.
-1   2   (a) Explain Bragg's spectrometer and its use in the analysis of crystal structures.
-161
-(b) The spacing between the principal planes in a crystal of NaCl is 2.82 A". It is found
-first order Bragg's reflection occurs at 10'. What is the wavelength of X-ray? At what
-angle the second order reflection occurs? What is the highest order of reflection seen?
-[41
-~   3   (a) Draw the schematic diagram for the energy levels and explain the production of
-I   (b) Explain optical resonator and its role in a laser.
-4   (a) Describe in brief the concept of total internal reflection. Also explain the construction
-of an optical fibre and propagation of light through the fibre with neat labelled diagrams.
-[61
-(b) Calculate the numerical aperture, acceptance angle and the critical angle of a fibre
-whose refractive indices of the core and cladding are 1.50 and 1.45 respectively.   [4]
---- page 2 ---
-Q.2) a) A coal sample has the following composition- C= 70%, H=10%, 0= 5%, N= 1%, S= 10% and
-remaining ash. Calculate the amount of 10% excess air required for complete combustion of 2 kg of this
-coal. Also determine the amount of dry flue gases.   (05 marks)
-b) How sacrificial anodic protection technique helps in corrosion protection for big metallic structures?
-Explain it using proper diagram.   (05 marks)
-c) Write the cell reactions with the data given as follows - Given SRP for cdt'/Cd = - 0.4 V Cu"/Cu =
-0.34V. Also [cu2'] = 0.5 M and [cd2'] = 0.010 M. Will the reaction occur spontaneously at 25' C?
-(05 marks)
-Q.3) Write notes on (any three)   (05 marks each)
-a) Microbial corrosion
-b) Synthesis and applications of Biodiesel
-c) Proximate analysis of coal
-d) Recycling of e waste
-Q.4) a) Define wet corrosion. Explain with an example and its mechanism? Discuss differential aeration
-corrosion and galvanic corrosion mechanism.   (05 marks)
-b) Discuss working of Bomb calorimeter using a neat diagram. 0.72 g of a fuel containing 80% of Carbon
-& 10% of hydrogen, when burnt in a bomb calorimeter, increased the temperature of water from 27.3'~
-to 29.1'~. If the calorimeter contains 250 g of water & its water equivalent is 150 g, calculate the HCV &
-LCV of the fuel.   (05 marks)
-c) Discuss complete process of processing hazardous e-waste.   (05 marks)
-````
-
-## 2012-13 · Re-Exam · Trim 2 · paper 37d026cedc09
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 18 /12/2013
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-ye
-
-SVKM’s NMIMS   asemtany
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT @E
-
-Programme:MBA Tech (ALL) Year: I J tr mester: II
-Academic Year: 2013-14
-Subject : Applied Science — II (Applied Physics — II )
-
-Date :18 /12/2013 Time : ‘10. 00 am to 1.00 pm
-Durations:3 (hrs)
-Re-Examination
-
-Instructions:
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-4) Answers to each new question to be started on a fresh page.
-5) Figures in bracket on the right hand side indicate full marks.
-
-1. Answer any ‘FIVE’ of the following :
-(a) How interference can be utilized to make a nonreflecting glass?
-(b) Why fringes in Newton’s ring setup are circular and get closer, when moved away from
-central spot? ;
-(c) How ultrasonic waves are used in non destructive testing?
-(d) Give a brief comparison of single slit and double slit diffractions.
-
-(e) Describe advantages of optical fiber over conducting wire.
-(f) State and Explain Mosley’s law.
-(g) Why lasing can not be obtained using only two energy levels?
-
-[ 02 x 05 = 10]
-2. (a) Explain the theory of interference fringes and show that fringe width is same for both the
-dark and bright fringes. [05]
-
-(b) Discuss the Fraunhofers’ diffraction from a single slit. Give the conditions for maxima and
-
-minima. Also give the expression for intensity at a point on the screen, giving the intensity
-distribution curve. [04]
-
-3. (a) What are modes in a fiber? Give a classification of fibers, describing the mechanism of light
-propagation in each of them. [06]
-(b) Find the necessary core radius for single mode operation at 850 nm in step index fiber with
-refractive indices of core and cladding 1.48 and 1.47, respectively. Aso determine the numerical
-aperture and maximum acceptance angle of this fiber. [04]
-
-4. (a) Describe Coolidge tube method for X-ray production with a neat diagram. | How _ intensity
-
-and penetration power of X-rays can be controlled? [07]
-(b) Determine the wavelength of X-ray beam incident at 12° for the first order reflection from
-a calcite crystal, if the interatomic spacing for the crystal is 3.035 A° [03]
-
-Jo
---- page 2 ---
-5. (a) Explain the construction and working of a carbon-dioxide laser with energy level diagram.
-What are the roles of Helium and Nitrogen gases? [06]
-
-(b) What is holography? Compare a hologram with ordinary photograph. [04]
-
-6. (a) Describe the working of a piezoelectric oscillator circuit for generation of ultrasonic waves.
-[04]
-(b) What are important properties of ultrasonic waves?
-
-(c) A pulse of ultrasonic waves of frequency 0.07 MHz sends down towards the seabed which
-
-returns after 0.65 s. The velocity of sound in sea water is 1700 m/s. Calculate the depth of
-sea and the wavelength of the pulse.
-
-[03]
-
-[03]
-7. (a) Describe some important applications of Lasers. [05]
-(b) Write a short note on fiber optic communication giving its block diagram. [05]
-
-as
-
-2)O
-````
-
-## 2012-13 · Re-Exam · Trim 2 · paper 49f046fd585e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II MBA TECH 2012-13 RE EXAM.pdf`
-- Printed on paper: max marks: 50; duration hours: 3; exam date: 21/06/2013
-- Text: text (1 page)
-
-````text
-sVKM'S 'iamMs
-Mnkesh Patel School of Technolow Manartement 8a
-MBA TECH - (ACLSTREAMS)   ye&:   I   Trimester:   II
-Batch;   .-zoiz-2013   Academic . . Year :2012-2013 . ..   .   .. .   . ~   .
-.   .   .
-Subject:   Applied Physics II   Marks:   50
-(Applied Science - II)   Time:   10.00 am To 1.00 pm
-Date:   21/06/2013   Duration:   3hrs.
-Re - Examination
-1nstructions:'~indidks should read carefully the instructions printed on the,
-question paper and on - - the cover of the answer book, which is providd for their use
-Note:   . .   <   .   .   . .   ~
-1. Question No. I is compulsory.   . -
-2. Out of remaining sin questions, attempt any four questions.~   ~   ~   -.
-3. In all five questions to be attempted.:
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figure inbrackets indicate fall marks.   .   .   ,
-la. Explain isthe resolving power of grating.   [21
-b. Define acceptance angle and Numerical Ap-e   of the optical'fiber. .   ,   [21   .   .
-c. Explain continuous X-ray spectrum.   t21
-d. Give any two appiications offasers.   . [2j
-e. Explain cavitation effect in ultrasonics. ~ ~ - :   ~~   .   .   .   .   .   . 121,.   .
-.
-2a. Explain the theory behind formation of Newton's rings.   [71
-b. ~ewtpn'biingsare formed with reflected light of wavelength 5893ii, with a liquid
-betweenthe plane and the curved surface. The diameter of the 7m brightring is   ~ -   .''. ''   '
-0.32 cm and the radius of curvature at.the curved surface is 110 cm Calculate the
-refractive index of the liquid.   131
-3. Draw the phjjsical structure of optical fiber. Describe the types of optical fibers.   [lo]
-4a. Explain Mosley's law and its significance.   [41
-b. If the potential difference applied across an X- ray tube is 12 kV and the current
-through it is 2.1 mA, calculate (i) the number of electrons spiking the target per   -
-second (ii) the speed with which they strike it (iii) the shortest wavelen   enutted.
-(Given:e=1.6~10~~~~,m=9.lxl0~~~k~,c=3~lO~m/gh=6.625~l0~~.) 161
-5. Explain the construction, energy level diagram & workintof cqbon dioxide laser. [lo]
-6. Explain the production of ultrasonic waves by piezoelectric oscillator. Show the merits
-and the demerits.   [lo]
-7a.Two straieht and narrow varallel slits 0.8 rnm avart are illuminated by a
-monochr&atic light of ofvelength 5893A. caiculate the width of tde fringes
-obtained on a screen kevt at a distadce of 58 cm tiom the slil.   121 - -
-b. Calculate the N.A. and acceptance angle of the fiber having core refractive index
-(n,) = 1.57, and the cladding refractive index (nz)=I .47.   [31
-c. In comparing the wavelengths of two monochromatic x-ray lines, it is found that line
-A   a first order Bragg reflection maximum at a glancing angle of 40". Line B of
-known wavelength of 0.97A gives a third order reflection maximum at a glancing
-angle of 55" with the same face of the crystal. Find the wavelength of the line A.   [3]
-d. Certain piezoelectric crystal of thickness 4.5 mm produces ultrasonic waves of
-firequency 410 kHz. Calculate the thickness of this crystal to produce.ultrasonic waves
-of frequency 800 kHz.   121
--x-
-````
-
-## 2012-13 · Re-Exam · Trim 2 · paper fbf1fd74e607
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED SCIENCE II ( PHYSICS ) BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 25/06/2014
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year: Lys Suet Rule,
-ws
-Academic Year: 2013-14 Batch : 2012 cy MPSTMB ) a
-(eC pipraRY Je
-. NL iy
-7 3 : : 2 we ®
-Subject : Applied Science — II (Applied Physics — Il ) —s ove awe A
-Date : 25/06/2014 , Time : 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-
-Re - Examination
-
-Instructions: Candidates should carefully read the instructions printed on the question paper ;
-and on the cover of the Answer Book.
-
-Note: (i) Question No. one is compulsory.
-
-(ii) Answer any four questions out of the remaining six questions.
-(iii) In total five questions are to be attempted.
-
-(iv) All questions carry equal marks.
-
-(v) Answer to each new question should start on a fresh page.
-(vi) Figures in bracket indicate full marks.
-
-(vii) Assume suitable data if necessary.
-
-Q. 1 Attempt any five [5x2]
-
-(a) What are the similarities and dissimilarities between Newton’s ring and wedge shaped
-films?
-(b) Define total internal reflection.
-
-(c) Why do gas-lasers emit light that is more monochromatic than solid-state lasers?
-(d) Explain cavitation effect.
-(e) Sate Moseley’s law.
-(f) What is grating element?
-(g) What are the differences between LASER and ordinary light?
-
-Q. 2
-
-(a) Explain the formation of colour on a thin film in sunlight. Use proper mathematical
-expression. Also explain why colours change with angle of vision and why colours present in
-the reflected light are absent in the transmitted light? [5]
-
-(b) The diameter of a certain ring in Newton’s ring pattern is 0.475 cm. A liquid of
-refractive index 1.36 is introduced between the glass plate and the lens with the same setup.
-
-Determine the diameter of the same ring. [5]
-
-SSL
---- page 2 ---
-Qs3
-
-(a) Explain continuous and characteristic x-rays. [6]
-(b) Calculate the smallest glancing angle for K, line from Cu at 1.549 A to be reflected from
-the crystal having the spacing of 4.255 A. [4]
-Q.4
-
-(a) Explain with neat diagrams the construction and working of He-Ne Laser. [7]
-(b) Mention at least three different types of pumping methods. [3]
-Q.5
-
-(a) What is the acceptance angle? Derive the expression for numerical aperture for step index
-fibre. [6]
-(b) Differentiate between step index and graded index fibre. [4]
-Q. 6
-
-(a) Explain the construction and working of a magnetostriction oscillator with proper
-diagram. [6]
-
-(b) The ultrasonic flaw detector is used with defective and non-defective steel bar of thickness
-40 cms. If pulse arrival times are 30 us and 80 ps, locate the distance at which the defect has
-occurred? [4]
-
-Q.7
-
-(a) Show how to calculate the wavelength of a spectral line using diffraction grating.
-
-[5] |
-
-(b) Explain the construction and reconstruction of hologram. [5]
-````
-
-## 2011-12 · Exam not stated · Trim 2 · paper 9e3c17742d59
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II 2011-12.pdf`
-- Printed on paper: exam date: 03/02/2012
-- Text: ocr (2 pages), mean OCR confidence 91.6
-
-````text
-— =, SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MBA (Tech)- ALL STREAMS Year: I Trimester: II
-Academic Year : 2011-2012
-
-Subject: APPLIED PHYSICS - II Marks:
-(APPLIED SCIENCE -I]) Time:
-
-Date: 03/02/2012 Duratida4(
-Final - Examination
-
-paper and on the cover of the Answer Book, which is provided for their use.
-Note: (i) Question No. one is compulsory.
-(ii) Answer any four questions out of the remaining six questions.
-(iii) In all five questions to be attempted.
-(iv) All questions carry equal marks.
-(v) Answer to each new question is to be started on a fresh page.
-(vi) Figures in bracket indicate full marks.
-(vii) Assume suitable data if necessary.
-1 Answer any five: [02 x 05]
-(a) State the conditions of sustained interference of light.
-(b) State the differences between Fraunhoffer and Fresnel diffraction.
-(c) Define numerical aperture of an optical fibre.
-(d) State Moseley’s law.
-(2) In what respects does LASER differ from an ordinary source of light?
-(8) What is ultrasonic wave?
-(g) What are the differences between an ordinary photograph and a holograph?
-
-2. (i) Show that the wedge angle 6 satisfies
-
-} 0 = M2up
-
-in case of a wedge shaped thin film observed with the reflected light, where B is the
-
-fringe width and 1 is the refractive index. Light is incident normally on the wedge shaped
-
-thin film. [ 05]
-(ii) Newton’s rings are formed by light reflected normally from a convex lens of radius
-
-of curvature 90 cm and a glass plate with a liquid in between them. The diameter of n™
-
-dark ring is 2.25 mm and that of (n+9)"" dark ring is 4.5 mm. Calculate the refractive
-
-index of liquid. Given 4 = 6000 A°. [ 05]
-
-!3. (i) Explain continuous and characteristic X-rays of an element? [06]
-\ 7] ) (ii) The wavelength of Mo Kg radiation is 0.8083 x 107'° m. The glancing angle for the
-third order reflection from anes of NaC] is . Calculate the lattice constant.
-
-¢ hird order reflection fi 100) pl f NaCl is 22°10. Calculate the latti
-
-[04]
-4. (i) Explain the construction and working of He-Ne laser. [07]
-(ii) Why do we need optical resonator for lasing action? [03]
-
-5. (i) Draw a block diagram for optical communication through fibre optic cable. What
-are the advantages of optical communication? [06]
-(ii) Light traveling in air strikes a glass plate at a glancing angle 33°. While striking the
-glass plate, a part of the beam is reflected and another part is refracted. If the reflected
-and refracted beams make an angle 90° with each other, then: (a) what is the refractive
-index of glass, and (b) what is the critical angle? [04]
-
-Vo_
---- page 2 ---
-ii
-
-6. (i) Explain the inverse piezoelectric effect and magnetostriction effect. Discuss the
-advantages and disadvantages of piezoelectric and magnetostriction methods in
-production of ultrasonic waves. {06}
-
-(it) A metal bar is tested using an ultrasonic flaw detector. The pulse arrival times were
-found to be 30 jis and 80 ks. If the bar is of 46 cm. thick, find out the location of the
-
-defect. {04}
-7. (1) Discuss the phenomenon of Fraunhofer diffraction at a single slit. [05]
-{ii)Why is a four-level pumping scheme more efficient than a three level pumping
-scheme? [03]
-(iii) Explain the statement: “Crystals act as three dimensional reflection grating for X-
-rays”. [02]
-i
-j
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper 13426bedcdcd
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II BATCH 2010-2011 RE EXAM 2011-12.pdf`
-- Printed on paper: exam date: 03/02/2012
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineerj
-
-, Programme: MBA.Tech - ALL STREAMS Year: I Trimester:
-| Academic Year : 2011-2012
-
-* Batch: 2010-2011
-
-SVKM'S
-Subject: APPLIED PHYSICS-II Marks: wre — 3
-(APPLIED SCIENCE-II) Time: sRRavlO 1.09 jpm
-Date: 03/02/2012 Duration
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the qu
-paper and on the cover of the answer book, which is provided for their use.
-
-Note:
-1. Question No. 1 is compulsory.
-2. Out of remaining six questions, attempt any four questions.
-3. In all five questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicates full marks.
-
-Q.1. a) What is the numerical aperture of an optical fiber? (2M)
-b) What is pumping in LASER? (2M)
-c) Find the echo time of ultrasonic pulse, which travelling with velocity
-7x 10° m/sec in steel whose thickness is 2 cm. (2M)
-d) Give any four properties of x-rays. (2M)
-e) What are the applications of Newton’s rings. (2M)
-} Q.2.a) Explain Fraunhofer diffraction of N slits (diffraction grating). (6M)
-b) Explain Dispersive power and Resolving power of grating. (4M)
-Q.3. a) Define and derive Bragg’s law for X-ray diffraction. (5M)
-
-b) Describe Bragg’s X-ray spectrometer to study the crystal structure. (5M)
-Q.4.a) Explain the production of ultrasonic waves by piezoelectric oscillator.
-
-(7M)
-
-b) Write a note on SONAR using ultrasonic waves. (3M)
-
-5. Explain construction, energy level diagram and working of He-Ne LASER.
-
-(10M)
-Q.6. a) Explain step index single mode fiber and graded index fibers. (EMD
-b) Give any four applications of optical fibers. (4M)
-
-”
---- page 2 ---
-Q.7. a) Newton’s rings are formed with reflected light of wavelength 5893 A°,
-with a liquid between the plane and the curved surface. The diameter of the
-5" bright ring is 0.26 cm and the radius of curvature of the curved surface
-is 100 cm. Calculate the refractive index of the liquid. (3M)
-
-b) In comparing the wavelengths of two monochromatic x-ray lines, it is
-found that line A gives a first order Bragg reflection maximum at a
-giancing angie of 29°. Line B of known waveiength of 0.98 A° gives a third
-order reflection maximum at a glancing angle of 56 A° with the same face
-of the crystal. Find the wavelength of the line A. (3M)
-
-c) An optical fiber has a numerical aperture (NA) of 0.46 and a cladding
-refractive index of 1.56. Determine the acceptance angle for the fiber in
-water which has a refractive index of 1.33. (2M)
-
-d) Certain piezoelectric crystal of thickness 4 mm produces ultrasonic waves
-of frequency 400 kHz. Calculate the thickness of this crystal to produce
-ulirasonic waves of frequency 700 kHz. (2M)
-
-ee
-
-4
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper 91368e8ce3e2
+## 2013-14 · Re-Exam · Trim 2 · paper 91368e8ce3e2
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1992,6 +1492,583 @@ Moseley’s law. Rydberg constant for Hydrogen = 10967800 m'|,
 Screening constant = 1, Atomic number of copper = 29.
 
 2|2
+````
+
+## 2013-14 · Re-Exam · Trim 2 · paper 37d026cedc09
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 18 /12/2013
+- Text: ocr (2 pages), mean OCR confidence 93.4
+
+````text
+ye
+
+SVKM’s NMIMS   asemtany
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT @E
+
+Programme:MBA Tech (ALL) Year: I J tr mester: II
+Academic Year: 2013-14
+Subject : Applied Science — II (Applied Physics — II )
+
+Date :18 /12/2013 Time : ‘10. 00 am to 1.00 pm
+Durations:3 (hrs)
+Re-Examination
+
+Instructions:
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+4) Answers to each new question to be started on a fresh page.
+5) Figures in bracket on the right hand side indicate full marks.
+
+1. Answer any ‘FIVE’ of the following :
+(a) How interference can be utilized to make a nonreflecting glass?
+(b) Why fringes in Newton’s ring setup are circular and get closer, when moved away from
+central spot? ;
+(c) How ultrasonic waves are used in non destructive testing?
+(d) Give a brief comparison of single slit and double slit diffractions.
+
+(e) Describe advantages of optical fiber over conducting wire.
+(f) State and Explain Mosley’s law.
+(g) Why lasing can not be obtained using only two energy levels?
+
+[ 02 x 05 = 10]
+2. (a) Explain the theory of interference fringes and show that fringe width is same for both the
+dark and bright fringes. [05]
+
+(b) Discuss the Fraunhofers’ diffraction from a single slit. Give the conditions for maxima and
+
+minima. Also give the expression for intensity at a point on the screen, giving the intensity
+distribution curve. [04]
+
+3. (a) What are modes in a fiber? Give a classification of fibers, describing the mechanism of light
+propagation in each of them. [06]
+(b) Find the necessary core radius for single mode operation at 850 nm in step index fiber with
+refractive indices of core and cladding 1.48 and 1.47, respectively. Aso determine the numerical
+aperture and maximum acceptance angle of this fiber. [04]
+
+4. (a) Describe Coolidge tube method for X-ray production with a neat diagram. | How _ intensity
+
+and penetration power of X-rays can be controlled? [07]
+(b) Determine the wavelength of X-ray beam incident at 12° for the first order reflection from
+a calcite crystal, if the interatomic spacing for the crystal is 3.035 A° [03]
+
+Jo
+--- page 2 ---
+5. (a) Explain the construction and working of a carbon-dioxide laser with energy level diagram.
+What are the roles of Helium and Nitrogen gases? [06]
+
+(b) What is holography? Compare a hologram with ordinary photograph. [04]
+
+6. (a) Describe the working of a piezoelectric oscillator circuit for generation of ultrasonic waves.
+[04]
+(b) What are important properties of ultrasonic waves?
+
+(c) A pulse of ultrasonic waves of frequency 0.07 MHz sends down towards the seabed which
+
+returns after 0.65 s. The velocity of sound in sea water is 1700 m/s. Calculate the depth of
+sea and the wavelength of the pulse.
+
+[03]
+
+[03]
+7. (a) Describe some important applications of Lasers. [05]
+(b) Write a short note on fiber optic communication giving its block diagram. [05]
+
+as
+
+2)O
+````
+
+## 2013-14 · Re-Exam · Trim 2 · paper fbf1fd74e607
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED SCIENCE II ( PHYSICS ) BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 25/06/2014
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: Lys Suet Rule,
+ws
+Academic Year: 2013-14 Batch : 2012 cy MPSTMB ) a
+(eC pipraRY Je
+. NL iy
+7 3 : : 2 we ®
+Subject : Applied Science — II (Applied Physics — Il ) —s ove awe A
+Date : 25/06/2014 , Time : 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+
+Re - Examination
+
+Instructions: Candidates should carefully read the instructions printed on the question paper ;
+and on the cover of the Answer Book.
+
+Note: (i) Question No. one is compulsory.
+
+(ii) Answer any four questions out of the remaining six questions.
+(iii) In total five questions are to be attempted.
+
+(iv) All questions carry equal marks.
+
+(v) Answer to each new question should start on a fresh page.
+(vi) Figures in bracket indicate full marks.
+
+(vii) Assume suitable data if necessary.
+
+Q. 1 Attempt any five [5x2]
+
+(a) What are the similarities and dissimilarities between Newton’s ring and wedge shaped
+films?
+(b) Define total internal reflection.
+
+(c) Why do gas-lasers emit light that is more monochromatic than solid-state lasers?
+(d) Explain cavitation effect.
+(e) Sate Moseley’s law.
+(f) What is grating element?
+(g) What are the differences between LASER and ordinary light?
+
+Q. 2
+
+(a) Explain the formation of colour on a thin film in sunlight. Use proper mathematical
+expression. Also explain why colours change with angle of vision and why colours present in
+the reflected light are absent in the transmitted light? [5]
+
+(b) The diameter of a certain ring in Newton’s ring pattern is 0.475 cm. A liquid of
+refractive index 1.36 is introduced between the glass plate and the lens with the same setup.
+
+Determine the diameter of the same ring. [5]
+
+SSL
+--- page 2 ---
+Qs3
+
+(a) Explain continuous and characteristic x-rays. [6]
+(b) Calculate the smallest glancing angle for K, line from Cu at 1.549 A to be reflected from
+the crystal having the spacing of 4.255 A. [4]
+Q.4
+
+(a) Explain with neat diagrams the construction and working of He-Ne Laser. [7]
+(b) Mention at least three different types of pumping methods. [3]
+Q.5
+
+(a) What is the acceptance angle? Derive the expression for numerical aperture for step index
+fibre. [6]
+(b) Differentiate between step index and graded index fibre. [4]
+Q. 6
+
+(a) Explain the construction and working of a magnetostriction oscillator with proper
+diagram. [6]
+
+(b) The ultrasonic flaw detector is used with defective and non-defective steel bar of thickness
+40 cms. If pulse arrival times are 30 us and 80 ps, locate the distance at which the defect has
+occurred? [4]
+
+Q.7
+
+(a) Show how to calculate the wavelength of a spectral line using diffraction grating.
+
+[5] |
+
+(b) Explain the construction and reconstruction of hologram. [5]
+````
+
+## 2012-13 · Exam not stated · Trim 2 · paper 82bf98ac74d0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II 2012-13.pdf`
+- Printed on paper: exam date: 07/02/2013
+- Text: text (2 pages)
+
+````text
+~   -   SVKM's NMIMS
+Mukesh Pate1 School Of Technology
+>ogramme:   MBA (Tech) -ALL STREAMS   Year:   I
+Academic Year : 20 12-2013
+(I   Subject:   APPLIED PHYSICS - II   Marks:
+(APPLIED SCIENCE -11 )   Time :
+Date:   07/02/2013
+Final - Examination
+Note: (i) Question No. 1 is compulsory.
+(ii) Answer any four questions out of the remaining six questions.
+(iii) In all five questions are to be answered.
+(iv) All questions carry equal marks.
+(v) Answer to each new question should start on a fresh page.
+(vi) Figures in bracket indicate full marks.
+(vii) Assume suitable data if necessary.
+1 Answer any five:   [02 x 051
+a. What changes will you observe in the Newton's ring fringe pattern if monochromatic
+.. .. c' light is replaced by white light?
+! .-: 5 6 b.)\ Calculate the thickness of a quartz crystal used to produce ultrasonic waves of 1 MHz.
+,d c. Define acceptance angle for an optical fibre and show how it is related with numerical
+aperture.
+l.3   / p*   d. Why is population inversion necessary to achieve lasing?
+,   e. What are the changes that are caused in the diffraction pattern if the number of slits are
+;I - ' ln T'! I? \I made large?
+The & line from the anode of an x-ray tube is reflected in the first order at an angle of 6 O
+by a crystal of NaCl mounted on X-ray spectrometer. Calculate the wavelength of K,
+line if interplaner distance of crystal is 2.818 A.
+g. Write down the maxima and minima condition due to interference of transmitted light in
+thin films of uniform thickness.
+1   2   (a) Explain Bragg's spectrometer and its use in the analysis of crystal structures.
+161
+(b) The spacing between the principal planes in a crystal of NaCl is 2.82 A". It is found
+first order Bragg's reflection occurs at 10'. What is the wavelength of X-ray? At what
+angle the second order reflection occurs? What is the highest order of reflection seen?
+[41
+~   3   (a) Draw the schematic diagram for the energy levels and explain the production of
+I   (b) Explain optical resonator and its role in a laser.
+4   (a) Describe in brief the concept of total internal reflection. Also explain the construction
+of an optical fibre and propagation of light through the fibre with neat labelled diagrams.
+[61
+(b) Calculate the numerical aperture, acceptance angle and the critical angle of a fibre
+whose refractive indices of the core and cladding are 1.50 and 1.45 respectively.   [4]
+--- page 2 ---
+Q.2) a) A coal sample has the following composition- C= 70%, H=10%, 0= 5%, N= 1%, S= 10% and
+remaining ash. Calculate the amount of 10% excess air required for complete combustion of 2 kg of this
+coal. Also determine the amount of dry flue gases.   (05 marks)
+b) How sacrificial anodic protection technique helps in corrosion protection for big metallic structures?
+Explain it using proper diagram.   (05 marks)
+c) Write the cell reactions with the data given as follows - Given SRP for cdt'/Cd = - 0.4 V Cu"/Cu =
+0.34V. Also [cu2'] = 0.5 M and [cd2'] = 0.010 M. Will the reaction occur spontaneously at 25' C?
+(05 marks)
+Q.3) Write notes on (any three)   (05 marks each)
+a) Microbial corrosion
+b) Synthesis and applications of Biodiesel
+c) Proximate analysis of coal
+d) Recycling of e waste
+Q.4) a) Define wet corrosion. Explain with an example and its mechanism? Discuss differential aeration
+corrosion and galvanic corrosion mechanism.   (05 marks)
+b) Discuss working of Bomb calorimeter using a neat diagram. 0.72 g of a fuel containing 80% of Carbon
+& 10% of hydrogen, when burnt in a bomb calorimeter, increased the temperature of water from 27.3'~
+to 29.1'~. If the calorimeter contains 250 g of water & its water equivalent is 150 g, calculate the HCV &
+LCV of the fuel.   (05 marks)
+c) Discuss complete process of processing hazardous e-waste.   (05 marks)
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 49f046fd585e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II MBA TECH 2012-13 RE EXAM.pdf`
+- Printed on paper: max marks: 50; duration hours: 3; exam date: 21/06/2013
+- Text: text (1 page)
+
+````text
+sVKM'S 'iamMs
+Mnkesh Patel School of Technolow Manartement 8a
+MBA TECH - (ACLSTREAMS)   ye&:   I   Trimester:   II
+Batch;   .-zoiz-2013   Academic . . Year :2012-2013 . ..   .   .. .   . ~   .
+.   .   .
+Subject:   Applied Physics II   Marks:   50
+(Applied Science - II)   Time:   10.00 am To 1.00 pm
+Date:   21/06/2013   Duration:   3hrs.
+Re - Examination
+1nstructions:'~indidks should read carefully the instructions printed on the,
+question paper and on - - the cover of the answer book, which is providd for their use
+Note:   . .   <   .   .   . .   ~
+1. Question No. I is compulsory.   . -
+2. Out of remaining sin questions, attempt any four questions.~   ~   ~   -.
+3. In all five questions to be attempted.:
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figure inbrackets indicate fall marks.   .   .   ,
+la. Explain isthe resolving power of grating.   [21
+b. Define acceptance angle and Numerical Ap-e   of the optical'fiber. .   ,   [21   .   .
+c. Explain continuous X-ray spectrum.   t21
+d. Give any two appiications offasers.   . [2j
+e. Explain cavitation effect in ultrasonics. ~ ~ - :   ~~   .   .   .   .   .   . 121,.   .
+.
+2a. Explain the theory behind formation of Newton's rings.   [71
+b. ~ewtpn'biingsare formed with reflected light of wavelength 5893ii, with a liquid
+betweenthe plane and the curved surface. The diameter of the 7m brightring is   ~ -   .''. ''   '
+0.32 cm and the radius of curvature at.the curved surface is 110 cm Calculate the
+refractive index of the liquid.   131
+3. Draw the phjjsical structure of optical fiber. Describe the types of optical fibers.   [lo]
+4a. Explain Mosley's law and its significance.   [41
+b. If the potential difference applied across an X- ray tube is 12 kV and the current
+through it is 2.1 mA, calculate (i) the number of electrons spiking the target per   -
+second (ii) the speed with which they strike it (iii) the shortest wavelen   enutted.
+(Given:e=1.6~10~~~~,m=9.lxl0~~~k~,c=3~lO~m/gh=6.625~l0~~.) 161
+5. Explain the construction, energy level diagram & workintof cqbon dioxide laser. [lo]
+6. Explain the production of ultrasonic waves by piezoelectric oscillator. Show the merits
+and the demerits.   [lo]
+7a.Two straieht and narrow varallel slits 0.8 rnm avart are illuminated by a
+monochr&atic light of ofvelength 5893A. caiculate the width of tde fringes
+obtained on a screen kevt at a distadce of 58 cm tiom the slil.   121 - -
+b. Calculate the N.A. and acceptance angle of the fiber having core refractive index
+(n,) = 1.57, and the cladding refractive index (nz)=I .47.   [31
+c. In comparing the wavelengths of two monochromatic x-ray lines, it is found that line
+A   a first order Bragg reflection maximum at a glancing angle of 40". Line B of
+known wavelength of 0.97A gives a third order reflection maximum at a glancing
+angle of 55" with the same face of the crystal. Find the wavelength of the line A.   [3]
+d. Certain piezoelectric crystal of thickness 4.5 mm produces ultrasonic waves of
+firequency 410 kHz. Calculate the thickness of this crystal to produce.ultrasonic waves
+of frequency 800 kHz.   121
+-x-
+````
+
+## 2011-12 · Exam not stated · Trim 2 · paper 9e3c17742d59
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II 2011-12.pdf`
+- Printed on paper: exam date: 03/02/2012
+- Text: ocr (2 pages), mean OCR confidence 91.6
+
+````text
+— =, SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA (Tech)- ALL STREAMS Year: I Trimester: II
+Academic Year : 2011-2012
+
+Subject: APPLIED PHYSICS - II Marks:
+(APPLIED SCIENCE -I]) Time:
+
+Date: 03/02/2012 Duratida4(
+Final - Examination
+
+paper and on the cover of the Answer Book, which is provided for their use.
+Note: (i) Question No. one is compulsory.
+(ii) Answer any four questions out of the remaining six questions.
+(iii) In all five questions to be attempted.
+(iv) All questions carry equal marks.
+(v) Answer to each new question is to be started on a fresh page.
+(vi) Figures in bracket indicate full marks.
+(vii) Assume suitable data if necessary.
+1 Answer any five: [02 x 05]
+(a) State the conditions of sustained interference of light.
+(b) State the differences between Fraunhoffer and Fresnel diffraction.
+(c) Define numerical aperture of an optical fibre.
+(d) State Moseley’s law.
+(2) In what respects does LASER differ from an ordinary source of light?
+(8) What is ultrasonic wave?
+(g) What are the differences between an ordinary photograph and a holograph?
+
+2. (i) Show that the wedge angle 6 satisfies
+
+} 0 = M2up
+
+in case of a wedge shaped thin film observed with the reflected light, where B is the
+
+fringe width and 1 is the refractive index. Light is incident normally on the wedge shaped
+
+thin film. [ 05]
+(ii) Newton’s rings are formed by light reflected normally from a convex lens of radius
+
+of curvature 90 cm and a glass plate with a liquid in between them. The diameter of n™
+
+dark ring is 2.25 mm and that of (n+9)"" dark ring is 4.5 mm. Calculate the refractive
+
+index of liquid. Given 4 = 6000 A°. [ 05]
+
+!3. (i) Explain continuous and characteristic X-rays of an element? [06]
+\ 7] ) (ii) The wavelength of Mo Kg radiation is 0.8083 x 107'° m. The glancing angle for the
+third order reflection from anes of NaC] is . Calculate the lattice constant.
+
+¢ hird order reflection fi 100) pl f NaCl is 22°10. Calculate the latti
+
+[04]
+4. (i) Explain the construction and working of He-Ne laser. [07]
+(ii) Why do we need optical resonator for lasing action? [03]
+
+5. (i) Draw a block diagram for optical communication through fibre optic cable. What
+are the advantages of optical communication? [06]
+(ii) Light traveling in air strikes a glass plate at a glancing angle 33°. While striking the
+glass plate, a part of the beam is reflected and another part is refracted. If the reflected
+and refracted beams make an angle 90° with each other, then: (a) what is the refractive
+index of glass, and (b) what is the critical angle? [04]
+
+Vo_
+--- page 2 ---
+ii
+
+6. (i) Explain the inverse piezoelectric effect and magnetostriction effect. Discuss the
+advantages and disadvantages of piezoelectric and magnetostriction methods in
+production of ultrasonic waves. {06}
+
+(it) A metal bar is tested using an ultrasonic flaw detector. The pulse arrival times were
+found to be 30 jis and 80 ks. If the bar is of 46 cm. thick, find out the location of the
+
+defect. {04}
+7. (1) Discuss the phenomenon of Fraunhofer diffraction at a single slit. [05]
+{ii)Why is a four-level pumping scheme more efficient than a three level pumping
+scheme? [03]
+(iii) Explain the statement: “Crystals act as three dimensional reflection grating for X-
+rays”. [02]
+i
+j
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper 24fde775d073
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II BATCH 2010-11 RE EXAM0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 22/06/2012
+- Text: ocr (1 page), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA Tech CALL STREAMS) Year: 1 Trimester: II
+Academic Year : 2011-2012
+
+/ Batch: 2010-2011
+
+Zag astitore OF py,
+“ Subject: Applied Physics - II : Marks: F) ‘a * Ma,
+APPLIED ScIENCE) Time: 46.00'dint To 1,00 pr
+Date: 22/06/2012 Duration: \\: 3 hrs.
+
+Re - Examination
+
+Instructions : Candidate should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+(i) Questions No. 1 is compulsory.
+(ii) Attempt any four questions out of the remaining questions.
+(iii) All together five questions are to be attempted.
+(iv) All questions carry equal marks.
+(v) Answer to each new questions to be started on a fresh page.
+(vi)Figures in brackets on the right hand side indicate full marks.
+(vii)Assume suitable data if necessary.
+
+1 @) Why do we observe central spot as dark spot when viewed in reflected light in Newton’s [10]
+ring experiment?
+(ii) Define dispersive power of a grating.
+(iii) Explain the origin of characteristic of X-rays.
+(iv) What are the essential features of laser light?
+(v) Define Magnetostriction effect.
+(vi) What is population inversion?
+(vii) What are the advantages of optical fiber communications?
+
+2 (i) Explain the formation of Newton’s rings and show that the radii of dark rings are [6]
+proportional to the underroot of natural numbers.
+) (ii) A parallel beam of the light of wavelength 5890A is incident on a thin glass plate (u=1.5) [4]
+
+such that angle of refraction into the plate is 60°. Calculate the smallest thickness of the
+glass plate which will appear dark in reflected light.
+
+3 (i) Describe the working of Bragg’s X-ray spectrometer. [6]
+(ii) Monochromatic beam of X-rays are incident on a crystal. If first order reflection is [4]
+observed at an angle 3.4°, at what angle would second order reflection be expected?
+
+4a) Explain the construction and working of aHe-Ne laser. [7]
+
+\ (ii) Explain stimulated emission. [3]
+ii
+
+5 (i) A glass clad fiber is made with core glass of refractive index 1.5 and the cladding is doped [6]
+
+to give a fractional index difference of 0.0005. Find (i) the cladding index (nz) (ii) the
+critical internal angle (@,) (iii) the external critical acceptance angle (00) (iv) the numerical
+
+aperature.
+(ii) Explain the difference between a step-index fiber and graded index fiber. [4]
+6 (i) Describe the construction and working of a piezoelectric oscillator. [6]
+(ii) Calculate the fundamental frequency of quartz crystal 1 mm thick and density 2650Kg/m? [4] >
+Young’s modulus Y = 8X10!°N/m?.
+7 (i) What is the significance of Moseley’s law? [3]
+(ii) What are the differences between interference and diffraction? [3]
+(iii) What are the important applications of ultrasonic waves? [4]
+
+A/4_
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper 13426bedcdcd
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II BATCH 2010-2011 RE EXAM 2011-12.pdf`
+- Printed on paper: exam date: 03/02/2012
+- Text: ocr (2 pages), mean OCR confidence 93.6
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineerj
+
+, Programme: MBA.Tech - ALL STREAMS Year: I Trimester:
+| Academic Year : 2011-2012
+
+* Batch: 2010-2011
+
+SVKM'S
+Subject: APPLIED PHYSICS-II Marks: wre — 3
+(APPLIED SCIENCE-II) Time: sRRavlO 1.09 jpm
+Date: 03/02/2012 Duration
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the qu
+paper and on the cover of the answer book, which is provided for their use.
+
+Note:
+1. Question No. 1 is compulsory.
+2. Out of remaining six questions, attempt any four questions.
+3. In all five questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicates full marks.
+
+Q.1. a) What is the numerical aperture of an optical fiber? (2M)
+b) What is pumping in LASER? (2M)
+c) Find the echo time of ultrasonic pulse, which travelling with velocity
+7x 10° m/sec in steel whose thickness is 2 cm. (2M)
+d) Give any four properties of x-rays. (2M)
+e) What are the applications of Newton’s rings. (2M)
+} Q.2.a) Explain Fraunhofer diffraction of N slits (diffraction grating). (6M)
+b) Explain Dispersive power and Resolving power of grating. (4M)
+Q.3. a) Define and derive Bragg’s law for X-ray diffraction. (5M)
+
+b) Describe Bragg’s X-ray spectrometer to study the crystal structure. (5M)
+Q.4.a) Explain the production of ultrasonic waves by piezoelectric oscillator.
+
+(7M)
+
+b) Write a note on SONAR using ultrasonic waves. (3M)
+
+5. Explain construction, energy level diagram and working of He-Ne LASER.
+
+(10M)
+Q.6. a) Explain step index single mode fiber and graded index fibers. (EMD
+b) Give any four applications of optical fibers. (4M)
+
+”
+--- page 2 ---
+Q.7. a) Newton’s rings are formed with reflected light of wavelength 5893 A°,
+with a liquid between the plane and the curved surface. The diameter of the
+5" bright ring is 0.26 cm and the radius of curvature of the curved surface
+is 100 cm. Calculate the refractive index of the liquid. (3M)
+
+b) In comparing the wavelengths of two monochromatic x-ray lines, it is
+found that line A gives a first order Bragg reflection maximum at a
+giancing angie of 29°. Line B of known waveiength of 0.98 A° gives a third
+order reflection maximum at a glancing angle of 56 A° with the same face
+of the crystal. Find the wavelength of the line A. (3M)
+
+c) An optical fiber has a numerical aperture (NA) of 0.46 and a cladding
+refractive index of 1.56. Determine the acceptance angle for the fiber in
+water which has a refractive index of 1.33. (2M)
+
+d) Certain piezoelectric crystal of thickness 4 mm produces ultrasonic waves
+of frequency 400 kHz. Calculate the thickness of this crystal to produce
+ulirasonic waves of frequency 700 kHz. (2M)
+
+ee
+
+4
 ````
 
 ## 2011-12 · Re-Exam · Trim 2 · paper dcadef145999
@@ -2317,83 +2394,6 @@ c) Calculate the energy in electron volts of a photon of wavelength 5800 A°. (0
 Given: h=6.63x10-34 Js. c=3x10° m/s.
 
 al nwa
-````
-
-## 2010-11 · Re-Exam · Trim 2 · paper 24fde775d073
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED PHYSICS II/APPLIED PHYSICS II BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 22/06/2012
-- Text: ocr (1 page), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA Tech CALL STREAMS) Year: 1 Trimester: II
-Academic Year : 2011-2012
-
-/ Batch: 2010-2011
-
-Zag astitore OF py,
-“ Subject: Applied Physics - II : Marks: F) ‘a * Ma,
-APPLIED ScIENCE) Time: 46.00'dint To 1,00 pr
-Date: 22/06/2012 Duration: \\: 3 hrs.
-
-Re - Examination
-
-Instructions : Candidate should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-(i) Questions No. 1 is compulsory.
-(ii) Attempt any four questions out of the remaining questions.
-(iii) All together five questions are to be attempted.
-(iv) All questions carry equal marks.
-(v) Answer to each new questions to be started on a fresh page.
-(vi)Figures in brackets on the right hand side indicate full marks.
-(vii)Assume suitable data if necessary.
-
-1 @) Why do we observe central spot as dark spot when viewed in reflected light in Newton’s [10]
-ring experiment?
-(ii) Define dispersive power of a grating.
-(iii) Explain the origin of characteristic of X-rays.
-(iv) What are the essential features of laser light?
-(v) Define Magnetostriction effect.
-(vi) What is population inversion?
-(vii) What are the advantages of optical fiber communications?
-
-2 (i) Explain the formation of Newton’s rings and show that the radii of dark rings are [6]
-proportional to the underroot of natural numbers.
-) (ii) A parallel beam of the light of wavelength 5890A is incident on a thin glass plate (u=1.5) [4]
-
-such that angle of refraction into the plate is 60°. Calculate the smallest thickness of the
-glass plate which will appear dark in reflected light.
-
-3 (i) Describe the working of Bragg’s X-ray spectrometer. [6]
-(ii) Monochromatic beam of X-rays are incident on a crystal. If first order reflection is [4]
-observed at an angle 3.4°, at what angle would second order reflection be expected?
-
-4a) Explain the construction and working of aHe-Ne laser. [7]
-
-\ (ii) Explain stimulated emission. [3]
-ii
-
-5 (i) A glass clad fiber is made with core glass of refractive index 1.5 and the cladding is doped [6]
-
-to give a fractional index difference of 0.0005. Find (i) the cladding index (nz) (ii) the
-critical internal angle (@,) (iii) the external critical acceptance angle (00) (iv) the numerical
-
-aperature.
-(ii) Explain the difference between a step-index fiber and graded index fiber. [4]
-6 (i) Describe the construction and working of a piezoelectric oscillator. [6]
-(ii) Calculate the fundamental frequency of quartz crystal 1 mm thick and density 2650Kg/m? [4] >
-Young’s modulus Y = 8X10!°N/m?.
-7 (i) What is the significance of Moseley’s law? [3]
-(ii) What are the differences between interference and diffraction? [3]
-(iii) What are the important applications of ultrasonic waves? [4]
-
-A/4_
 ````
 
 ## 2009-10 · Exam not stated · Trim 2 · paper 9769c499b15d

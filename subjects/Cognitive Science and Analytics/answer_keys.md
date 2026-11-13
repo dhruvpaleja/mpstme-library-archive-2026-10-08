@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSBS_7036/Cognitive Science & Analytics/ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (31 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -354,7 +355,6 @@ e Low (L)
 e Medium (M)
 e High (H)
 
-NL NM NS = NS ZPB PM PL
 i A —
 
 2 i) 2 0,2 o os
@@ -1290,6 +1290,7 @@ Benefits:
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CSBS_7036/Cognitive Science & Analytics/ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (31 pages), mean OCR confidence 68.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1656,7 +1657,6 @@ lagen Layer i
 
 Input L e > TY on fo |
 nput Layer Xe : \ XX, | \ Xu.)
-p Yy a = ) \ 7 ) o, NG 1)
 Output layer
 
 | [ }an{ uw, { \n.

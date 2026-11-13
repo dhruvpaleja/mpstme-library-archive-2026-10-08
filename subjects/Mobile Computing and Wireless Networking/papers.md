@@ -246,6 +246,146 @@ networks. How can WLANs support roaming. You should have to think of the
 capabilities of layer 2 of the protocol stack.
 ````
 
+## 2011-12 · Exam not stated · Trim 2 · ZIP of papers · paper 36759e8f8bd6 · MOBILE COMPUTING AND WIRELESS NETWORKING 2011-12.pdf
+
+- Departments: Information Technology
+- Programmes: M TECH / I T
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM II/MOBAIL COMPUTING AND NETWORKING/M Tech I T TRIM II Mobile Computing & wireless Networking MOBILE COMPUTING AND WI_1f362d1d.zip`
+- Printed on paper: exam date: 04/02/2012
+- Text: ocr (2 pages), mean OCR confidence 94.1
+
+````text
+SVKM’s NMIMS
+
+——Mukesh Patel School Of Technology Management & Eng
+Programme: M. Tech-I.T. / COMPUTER Year: I Trimester;
+
+Academic Year : 2011-2012
+
+Subject: MOBILE COMPUTING & Marks:
+WIRELESS NETWORKING Time: \
+Date: 04/02/2012 Duration:’\
+
+Final - Examination
+
+© All questions carry maximum marks as indicated on the right
+
+e Bulleted and to-the-point answers are required
+
+e Draw diagrams, if required, as an aid for explanation
+
+e Q.1. and Q.2. are compulsory. Answer ANY FIVE of the remaining SIX questions
+® Make suitable assumptions, wherever required, and state them
+
+1. Answer True dr False 15
+
+a) Snoop approach in TCP can be used even if the intermediate node does not
+have security keys
+
+b) For handling routing to end mobile nodes Domain Name Service is fast and
+efficient enough
+
+c) TCP congestion window should be kept constant if the packet loss is due to
+bit errors
+
+d) Split connection approach of TCP requires state maintenance, for each
+connection, at the intermediate node where the connection is split
+
+e) Reactive routing protocol has low overheads since routes are determined on
+demand
+
+f) 802.11 time synchronization beacons, in distributed coordination function
+
+} (DCF), cannot collide as they are not regular data packets
+
+g) Frequency allocation is done in FDMA so as to decrease the spectrum
+utilization
+
+h) Propagation delay affects the slot boundaries in TDMA
+
+i) in a decentralized MAC, on collision, exponential backoff mechanism is used
+to quickly reduce the possibility of collision on next transmission
+
+j) Routing in mobile adhoc networks is a challenge since the mobile nodes
+
+} usually have limited battery life
+, 2. Answer in maximum two sentences 15
+
+a) @! Assume in a polling based centralized MAC, a misbehaving node keeps on
+broadcasting a short packet at a fixed frequency, to cause collisions,
+regardless whether polled or not. How can this problem be avoided? (Note:
+you are unable to locate and physically remove the device)
+
+b) RTS/CTS mechanism cannot effectively handle exposed terminal problem.
+
+Explain.
+
+c) In a decentralized MAC, suggest how a node could determine the probability
+value the nodes should use for transmitting a packet, when the medium is
+detected free
+
+d) in a cellular mobile system, larger cells are better when number of users is
+
+Page 1 of 2
+--- page 2 ---
+e)
+3.
+
+less. Explain.
+Dynamic Source Routing is not efficient. Explain
+
+Write short notes on any two: 14(7
+1. Backoff mechanism in 802.11 MAC each)
+2. Tunneling in Mobile-IP
+
+3. RTS/CTS mechanism for collision avoidance
+
+4. Problems with Snoop approach for TCP over wireless
+
+a) Discuss the typical problems of wireless medium which impact the MAC 4
+design for wireless networks
+
+c) For a wireless MAC carrier sense (sensing the medium for a signal 3
+pattern) is essential. Explain in brief the reasons for this.
+
+d) Carrier sense and after that the decision to transmit a packet bya nodeis 7
+taken based on certain parameters. Discuss these parameters and how
+they can be tuned to improve the carrier mechanism.
+
+a) In an IP network, suppose an end node (destination) is mobile. What are 3
+the routing problems caused due to this?
+
+b) For the above scenario, to handle the end node mobility, suppose 4
+routing tables are updated on the intermediate routers to enable routing
+to the mobile node. What is your opinion about this mechanism?
+
+c) For the scenario in (a), suppose Mobile-iP is used. What are the problems 7
+in Mobite-IP?
+
+a) What are the short comings of TCP in wireless networks, due to which 6
+the throughput of TCP is low?
+
+b) Discuss any enhancement to TCP to overcome the above short comings, 8
+in a wireless network. Discuss this for a wireless network scenario of your
+choice.
+
+a) What do you understand by power saving for mobile nodes? How can 4
+the medium access mechanism be improved for ensuring power saving?
+
+b) Discuss the power management mechanism for any suitable wireless 10
+MAC protocol
+
+Explain the typical characteristics of a ‘wireless network that impact the 14
+
+behavior of protocols in a mobile device. Explain using examples how the
+
+various layers of the protocol stack are impacted. You should only discuss
+
+the problems, the solutions need not be discussed
+
+Page 2 of 2
+````
+
 ## 2011-12 · Final-Exam · Trim 2 · paper 300c066c32f1
 
 - Departments: Computer Engineering
@@ -811,144 +951,4 @@ service? [10]
 
 (c) Operating Systems for Wireless Applications
 (d) Design issues of Mobile TCP
-````
-
-## Year not stated · Exam not stated · Trim 2 · ZIP of papers · paper 36759e8f8bd6 · MOBILE COMPUTING AND WIRELESS NETWORKING 2011-12.pdf
-
-- Departments: Information Technology
-- Programmes: M TECH / I T
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM II/MOBAIL COMPUTING AND NETWORKING/M Tech I T TRIM II Mobile Computing & wireless Networking MOBILE COMPUTING AND WI_1f362d1d.zip`
-- Printed on paper: exam date: 04/02/2012
-- Text: ocr (2 pages), mean OCR confidence 94.1
-
-````text
-SVKM’s NMIMS
-
-——Mukesh Patel School Of Technology Management & Eng
-Programme: M. Tech-I.T. / COMPUTER Year: I Trimester;
-
-Academic Year : 2011-2012
-
-Subject: MOBILE COMPUTING & Marks:
-WIRELESS NETWORKING Time: \
-Date: 04/02/2012 Duration:’\
-
-Final - Examination
-
-© All questions carry maximum marks as indicated on the right
-
-e Bulleted and to-the-point answers are required
-
-e Draw diagrams, if required, as an aid for explanation
-
-e Q.1. and Q.2. are compulsory. Answer ANY FIVE of the remaining SIX questions
-® Make suitable assumptions, wherever required, and state them
-
-1. Answer True dr False 15
-
-a) Snoop approach in TCP can be used even if the intermediate node does not
-have security keys
-
-b) For handling routing to end mobile nodes Domain Name Service is fast and
-efficient enough
-
-c) TCP congestion window should be kept constant if the packet loss is due to
-bit errors
-
-d) Split connection approach of TCP requires state maintenance, for each
-connection, at the intermediate node where the connection is split
-
-e) Reactive routing protocol has low overheads since routes are determined on
-demand
-
-f) 802.11 time synchronization beacons, in distributed coordination function
-
-} (DCF), cannot collide as they are not regular data packets
-
-g) Frequency allocation is done in FDMA so as to decrease the spectrum
-utilization
-
-h) Propagation delay affects the slot boundaries in TDMA
-
-i) in a decentralized MAC, on collision, exponential backoff mechanism is used
-to quickly reduce the possibility of collision on next transmission
-
-j) Routing in mobile adhoc networks is a challenge since the mobile nodes
-
-} usually have limited battery life
-, 2. Answer in maximum two sentences 15
-
-a) @! Assume in a polling based centralized MAC, a misbehaving node keeps on
-broadcasting a short packet at a fixed frequency, to cause collisions,
-regardless whether polled or not. How can this problem be avoided? (Note:
-you are unable to locate and physically remove the device)
-
-b) RTS/CTS mechanism cannot effectively handle exposed terminal problem.
-
-Explain.
-
-c) In a decentralized MAC, suggest how a node could determine the probability
-value the nodes should use for transmitting a packet, when the medium is
-detected free
-
-d) in a cellular mobile system, larger cells are better when number of users is
-
-Page 1 of 2
---- page 2 ---
-e)
-3.
-
-less. Explain.
-Dynamic Source Routing is not efficient. Explain
-
-Write short notes on any two: 14(7
-1. Backoff mechanism in 802.11 MAC each)
-2. Tunneling in Mobile-IP
-
-3. RTS/CTS mechanism for collision avoidance
-
-4. Problems with Snoop approach for TCP over wireless
-
-a) Discuss the typical problems of wireless medium which impact the MAC 4
-design for wireless networks
-
-c) For a wireless MAC carrier sense (sensing the medium for a signal 3
-pattern) is essential. Explain in brief the reasons for this.
-
-d) Carrier sense and after that the decision to transmit a packet bya nodeis 7
-taken based on certain parameters. Discuss these parameters and how
-they can be tuned to improve the carrier mechanism.
-
-a) In an IP network, suppose an end node (destination) is mobile. What are 3
-the routing problems caused due to this?
-
-b) For the above scenario, to handle the end node mobility, suppose 4
-routing tables are updated on the intermediate routers to enable routing
-to the mobile node. What is your opinion about this mechanism?
-
-c) For the scenario in (a), suppose Mobile-iP is used. What are the problems 7
-in Mobite-IP?
-
-a) What are the short comings of TCP in wireless networks, due to which 6
-the throughput of TCP is low?
-
-b) Discuss any enhancement to TCP to overcome the above short comings, 8
-in a wireless network. Discuss this for a wireless network scenario of your
-choice.
-
-a) What do you understand by power saving for mobile nodes? How can 4
-the medium access mechanism be improved for ensuring power saving?
-
-b) Discuss the power management mechanism for any suitable wireless 10
-MAC protocol
-
-Explain the typical characteristics of a ‘wireless network that impact the 14
-
-behavior of protocols in a mobile device. Explain using examples how the
-
-various layers of the protocol stack are impacted. You should only discuss
-
-the problems, the solutions need not be discussed
-
-Page 2 of 2
 ````

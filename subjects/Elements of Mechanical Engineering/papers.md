@@ -1,6 +1,6 @@
 # Elements of Mechanical Engineering: question papers in full
 
-9 unique papers · 2022 to 2025-26 · Mechanical
+9 unique papers · 2022-23 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -242,6 +242,121 @@ d) Simple gear train
 FIC 2 a kk
 ````
 
+## 2024-25 · Re-Exam · Sem 3 · paper d5e5b330ae81
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/Elements of Mechanical Engineering/Elements of Mechanical Engineering Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 22/9/95
+- Text: ocr (2 pages), mean OCR confidence 93.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program: B.Tech Integrated Year: II Semester: TI
+Stream: Mechanical Engineering
+
+Subject: Elements of Mechanical Engineering Time: 3 hrs Go:cyam 4p 4:00pm)
+Date: 22/9/95 No. of Pages:02
+
+Marks:100
+
+Re-Examination 2022-23
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [5 x 4= 20]
+
+CO-1; SO-7; a. What is the role of significant digits in engineering calculations? Why is it
+
+BL-Understand important to maintain dimensional consistency during problem-solving?
+
+CO-2;SO-4; | b. Compare the working principles of four-stroke spark ignition (SI) and
+
+BL-Understand compression ignition (CI) engines.
+
+CO-2; SO- 3; | c. What is the difference between laminar and turbulent flow? Provide
+BL-Remember examples of where each type of flow occurs.
+
+CO-2; SO-3; | d. Briefly explain the principle of energy conservation and its significance in
+BL-Remember thermal and energy systems.
+
+Q2 A Describe the key skills required for technical problem-solving in | [10]
+CO-1; SO-5; mechanical engineering. How do estimation techniques and effective
+BL-Apply
+
+communication skills play a role in addressing engineering challenges?
+
+B Describe the layout and components of a typical mechanical engine. What | [10]
+are the functions of the major components such as the crankshaft, piston, -
+
+and cylinder head?
+--- page 2 ---
+Q3 A Describe the working principle of a heat engine. How does it convert | [10]
+CO-2; SO-7; thermal energy into mechanical work, and what factors influence its
+BL-Apply efficiency? Provide examples of heat engines used in modern systems.
+
+B Explain the concept of rotational motion and its relationship with torque | [10]
+
+and power in mechanical systems. How do these quantities influence the
+
+performance of machines, and what are the key factors to consider in their
+
+calculation?
+Q4 A Compare simple and compound gear trains. How do they differ in terms of | [10]
+CO-2; SO-7; design, speed, torque transmission, and application? Provide examples of
+BL-Apply where each type is used in engineering systems.
+B Explain the process of electrical power generation in a thermal power [10]
+plant. Discuss the stages of energy conversion from heat to electricity and
+the role of efficiency in this process.
+Q5 A Discuss the relationship between pressure and fluid flow. How does | [10]
+
+CO-3; SO-1; Archimedes principle explain the variation of pressure in a fluid?
+
+BL-Analyze | B Explain the forces of drag and lift in fluid dynamics. How do these forces | [10]
+affect the design of objects like cars and airplanes? Provide examples of
+applications where minimizing drag or maximizing lift is critical.
+
+Q6 A Compare the characteristics and applications of one dimensional, two | [10]
+
+CO-2; SO-5; dimensional and three dimensional flows in fluid systems. How do
+
+BL- Evaluate engineers design systems to either encourage or prevent turbulence, and
+why is this important?
+
+B Discuss the role of communication skills in a mechanical engineering | [10]
+project from design to implementation. How do verbal, written, and
+technical communication methods contribute to the success of the project?
+
+Q7 A Describe the working principle of a Solar thermal power plant. Explain the | [10]
+
+CO-3; SO-1; process of energy conversion.
+
+B Write short notes on Torque and Power in gear sets and Engineering | [10]
+
+BL-Evaluate
+materials.
+
+````
+
 ## 2024-25 · Re-Exam · Sem 3 · paper 6f4b1996d4d3
 
 - Departments: Mechanical
@@ -372,6 +487,7 @@ FIO 2 aa ak kk
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/Elements of Mechanical Engineering/Elements of Mechanical Engineering Batch 2023-24 Final Batch 22-23 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/ 2023
 - Text: ocr (2 pages), mean OCR confidence 91.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -471,10 +587,9 @@ doubled, estimate the useful mechanical work.
 
 B Summarize the various gear terminologies with a sketch. [10]
 
-FESO N of Papert tthe eH HEHE
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper 5d90a9e370d6
+## 2022-23 · Final-Exam · Sem 3 · paper 5d90a9e370d6
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
@@ -597,121 +712,6 @@ CO-1; SO-2; BL-4 with sketches.
 FE KR End of Paper*****
 
 ¥f3
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper d5e5b330ae81
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/Elements of Mechanical Engineering/Elements of Mechanical Engineering Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 22/9/95
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-
-Program: B.Tech Integrated Year: II Semester: TI
-Stream: Mechanical Engineering
-
-Subject: Elements of Mechanical Engineering Time: 3 hrs Go:cyam 4p 4:00pm)
-Date: 22/9/95 No. of Pages:02
-
-Marks:100
-
-Re-Examination 2022-23
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [5 x 4= 20]
-
-CO-1; SO-7; a. What is the role of significant digits in engineering calculations? Why is it
-
-BL-Understand important to maintain dimensional consistency during problem-solving?
-
-CO-2;SO-4; | b. Compare the working principles of four-stroke spark ignition (SI) and
-
-BL-Understand compression ignition (CI) engines.
-
-CO-2; SO- 3; | c. What is the difference between laminar and turbulent flow? Provide
-BL-Remember examples of where each type of flow occurs.
-
-CO-2; SO-3; | d. Briefly explain the principle of energy conservation and its significance in
-BL-Remember thermal and energy systems.
-
-Q2 A Describe the key skills required for technical problem-solving in | [10]
-CO-1; SO-5; mechanical engineering. How do estimation techniques and effective
-BL-Apply
-
-communication skills play a role in addressing engineering challenges?
-
-B Describe the layout and components of a typical mechanical engine. What | [10]
-are the functions of the major components such as the crankshaft, piston, -
-
-and cylinder head?
---- page 2 ---
-Q3 A Describe the working principle of a heat engine. How does it convert | [10]
-CO-2; SO-7; thermal energy into mechanical work, and what factors influence its
-BL-Apply efficiency? Provide examples of heat engines used in modern systems.
-
-B Explain the concept of rotational motion and its relationship with torque | [10]
-
-and power in mechanical systems. How do these quantities influence the
-
-performance of machines, and what are the key factors to consider in their
-
-calculation?
-Q4 A Compare simple and compound gear trains. How do they differ in terms of | [10]
-CO-2; SO-7; design, speed, torque transmission, and application? Provide examples of
-BL-Apply where each type is used in engineering systems.
-B Explain the process of electrical power generation in a thermal power [10]
-plant. Discuss the stages of energy conversion from heat to electricity and
-the role of efficiency in this process.
-Q5 A Discuss the relationship between pressure and fluid flow. How does | [10]
-
-CO-3; SO-1; Archimedes principle explain the variation of pressure in a fluid?
-
-BL-Analyze | B Explain the forces of drag and lift in fluid dynamics. How do these forces | [10]
-affect the design of objects like cars and airplanes? Provide examples of
-applications where minimizing drag or maximizing lift is critical.
-
-Q6 A Compare the characteristics and applications of one dimensional, two | [10]
-
-CO-2; SO-5; dimensional and three dimensional flows in fluid systems. How do
-
-BL- Evaluate engineers design systems to either encourage or prevent turbulence, and
-why is this important?
-
-B Discuss the role of communication skills in a mechanical engineering | [10]
-project from design to implementation. How do verbal, written, and
-technical communication methods contribute to the success of the project?
-
-Q7 A Describe the working principle of a Solar thermal power plant. Explain the | [10]
-
-CO-3; SO-1; process of energy conversion.
-
-B Write short notes on Torque and Power in gear sets and Engineering | [10]
-
-BL-Evaluate
-materials.
-
-RIO RAK ERE Of Papenetee ts re
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper 9a3978b2be9e

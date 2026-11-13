@@ -261,6 +261,7 @@ Page 3 of 3
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/COMPUTER FUNDAMENTAL/2008-2009 re exam I.pdf`
 - Text: ocr (3 pages), mean OCR confidence 83.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 = %
@@ -360,7 +361,6 @@ for(i=0;i<4;i++) void main( ) for(i=0;i<1;i++);
 
 printf(“%d “,(*p)++4); { int n=6; for(j=0;j<=i;j++)
 
-printf(“Yod “,funct(n)); } printf(“Yod\n”,* (*(ati)+j));
 
 PTO
 
@@ -520,11 +520,11 @@ om ~
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/COMPUTER FUNDAMENTAL/2007-2008(15).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM's_ @
 Z NMIMS University
-Buf] Gate SpetorthSsdtea 12m Jorury, 2009 ofthe Goverment of hse
 
 Mukesh Patel School of Technology Management and Engineering
 TIME :2-60-5° oat
@@ -675,6 +675,7 @@ M4
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/COMPUTER FUNDAMENTAL/2006-2007(2).pdf`
 - Text: ocr (3 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 eee Y aad . ) “4 .
@@ -759,7 +760,6 @@ i) inti,x; ii) int funct(int n) iii) int a[3][2]={0,-2,4,-1,-2,1};
 for(i=1,x=4;i<10;i=i*2) { if(n>0) return(n*funct(n-2)); } . int Lj;
 while(x>=0) void main( ) for(i=0;i<2;i++)
 print(“%d ‘i+-x--); { int n=3; for(j=0;j<=ij+4)
-. printi(“Yod “,funct(n)); } printf{“%d\n”,*(*(ati)+)); |
 
 Q.3 A) Explain flowchart with four symbols used. Draw a flowchart to find largest of three nos. (5+3 Marks)
 
@@ -833,12 +833,12 @@ i) (1111010.0001 )2=(? )io ii) (72A.1A)is=(? 2
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/COMPUTER FUNDAMENTAL/computer fundamentals 2005(1).pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 86.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 =...
 c LO XV
 
-NARSEE MONJEE INSTITUTE OEN
 (DEEMED AESeER
 « MBA-TECH (TRIMEST )
 SUBJECT:- COMPUTER TFUNDAME
@@ -1006,6 +1006,7 @@ average is less than 35,
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/COMPUTER FUNDAMENTAL/2004-2005 I(3).pdf`
 - Text: ocr (3 pages), mean OCR confidence 77.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 06
@@ -1151,7 +1152,6 @@ b) What are multi-dimensiogs arr:
 ev and prints the sum 9: digits. (6)
 °
 
-iey simuplify prograiaming with (4)
 
 ws? Explain their syntax and (4)
 

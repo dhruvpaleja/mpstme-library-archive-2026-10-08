@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AI_7012/Evolutionary Computing/ANS_Evolutionary Computing(702AI0E010)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (25 pages), mean OCR confidence 78.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -126,10 +127,8 @@ i co vw!
 ] » bus \w 4 =
 GH) eae ie (a =
 Apww
-uy ibaa vp rie Hh Pe HOE pinot 9
 C 2 9b) A= ta Be O\= 0°6 O2=903
 a ghut = (%» Soe * (4)-\) 4 ;
-ne wiry + (ye 2) (% =m, ) 4+ GM (hu
 : 2 ogo XO4F 2% g6 [2-2] + 2034 -2]
 Shr
 
@@ -629,6 +628,7 @@ FI ICR AC KH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_AI_7051/Evolutionary Computing/ANS_Evolutionary Computing(702AI0E010)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (25 pages), mean OCR confidence 78.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -746,10 +746,8 @@ i co vw!
 ] » bus \w 4 =
 GH) eae ie (a =
 Apww
-uy ibaa vp rie Hh Pe HOE pinot 9
 C 2 9b) A= ta Be O\= 0°6 O2=903
 a ghut = (%» Soe * (4)-\) 4 ;
-ne wiry + (ye 2) (% =m, ) 4+ GM (hu
 : 2 ogo XO4F 2% g6 [2-2] + 2034 -2]
 Shr
 
@@ -1249,6 +1247,7 @@ FI ICR AC KH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_AI_7012/Evolutionary Computing/ANS_Evolutionary Computing(702AI0E010)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (22 pages), mean OCR confidence 67.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1487,7 +1486,6 @@ oe) ath n dv > + veyev
 
 paves
 
-(iW Trin vtvhor a Inlividnk 2 4 Nuty vor ©.
 
 = Wy,
 Trin yor
@@ -1710,7 +1708,6 @@ contribution of the previous velocity — basically controlling how much
 memory of the previous flight direction will influence the new velocity
 
 a For the gbest PSO, the velocity equation changes from equation (16.2) to
-vj (t +1) = weig(t) + erriz ()[yig (t) — vig(t)] + e272; (t)[9; (6) — 2ij(d)] (16.22)
 
 A similar change is made for the best PSO
 

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/STATISTICAL METHODS AND ANALYSIS/Statistical Mathods and Analysis, Sem-V, 2022-23, Final Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 22 November 2022
 - Text: ocr (8 pages), mean OCR confidence 69.1
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -153,22 +154,17 @@ DFE a =0.10
 2|_ 85263 @ 9.i6ia| 9.2434) 9.2926] 9.3255] 33916) 8.4083) 94247] 5.6613| 9.496] 9.4579| 9.4662; 9.4746] 9.6825] 9.4912
 3) 55383] bb2a 4.3908] 5.5426] S.30N2] b.2bes 24 9.2304) S2abb) 5.2003] b.1b4b| b.L/bi]_o.16ul fa) Sates] 5.1337
 4) 45448] 4.2246! 41909| 4.1073] 4.0506) 4.0098] 3.979] 3.9549| 3.9357__3.9199] 2.8955| 3.8704) 3,8643| 3.931] 3.8174) 2.7753|_ 3.7607
-s\ eosne| a.7797/ 36195| 3.5702) 245a| 3.cne5| a3679| aaa] aatea 22974 BA7a1 3.1778| 3.105
 33) _3.2888| 3.1808] 3.1075] 3.0546] 2.9369|_ 2.904 “28 2.9423|_2.7222|
 3.0741] 2.9605] 2.8833] 2.8274) 2.7025} 2.5555) 2.5351) 25142) 2.4928] 2.4708!
 T p.aaaa] 2.R084| 2.7265) 2.0HRR) 2.6241] 2.5806] 2.5612 2.588] 2.502 2.283| A614) 28293] 2.2182] 2.2926)
 24129] _2.6937| 251C€| 25909] 2.5053] 2.9694] 2.0903 2.4163)_.2.9789| 23296 25083) 2.2768) 22547| 2.232, 220a5| 2.1843] 2.1592)
-FY sri) Leusal Zszie| zeovo| Zaid) 23//2| 29473 23x20] 22weI| Zeasy)| 22004) 21H Zisos| 22917, 21072) 2uBi8] 2.0554)
 “3555 26602] 2.53021 24512] 2.3001) 2a4te| 2.30¢| 2.2795 22482| 22087] 24671] 21251] _2.1| 20762 2.05161 20261] 1.9997] 1.9721]
 to 3a7ae| 2pos8” 2.6055] 24np3| 2394) 2.233] 22828| 22006[ 2.235 2.1a7al 22476| 21089] 2.0597] 2006 2.0115| tant; 19597| 1.9323] 1.9036
-igi sisea] Zaz 2seus) _2433/| 2a4er| _2.283|_ 2.2341] Ziv] 2abs8 2.1376] Z0Bbb| 2.0532] 2007 Tsezs| 195v6] Lasts, 1gc4s] Leroy] Lare2!
 1 2.5222) 2.5947| 23009] 2.2¢26| 2.1931] 2.1939] 2.222 2.0954) _2,0537| 2.0095] 1.9625] 1.9377) 1.9119) 18852. 1.8572] 1.828) 1.7973
-Sanaa] 3 -3634[ 927a| 22081] 2.1887] 7.1185] 2oRs7 .ca9a] 7.17%] 1.9777] 1.9748] 1.899] 1.4778! R454 1AIGA| C7RGT| 1.7551
 zaeia) 2.3327] 22438] 2.1783] 2.088) 2.0553 2.0282| 7.5385| 18208, 17B26| 4.7508) 17182
 9.4374] 2gu7e| 22163|_ 2.1524] 7 2.0613] 20284 Z.0c09 “1.809| 1.7895: 17506] 17193] 1.6856
 2416 2.2858| 2.1958] 2.1296 2.0379) 2.0087. 1.977! z 4.7827 1.7537, 1.7232| 1.691] 1.6567
 2397) 2.2663] 2.176| 2.1096 smi) 1838 19557] 29247| 12647] _a.81¢e2| 17873] 2.7592 17298, 1eaaa| +6659) 1.6208)
-Faaui| zisee| Zasez| zveis| Zoass| ivves| Loeas ivses| Leo2d| 1aaay] /v5B] Libby 1 /se2 1/0ss. Loved] ©6433] 12074]
 2.3649| 2.2333] 2.1423] 2.0751 _ 2.0233] 1.9819 1.9197| 1.875] 18272| 1.7756] 1.7481) 1.7193 1.685 1.6228} 1.5862,
 3.3517) 7.7293] 2.1274] 7.0605 4.9668 j 4.7071) 1.e7t¢ 1.6007
 __zaae?) 2.2065]. 202 19931/, a] Lb554, £5873|
@@ -178,11 +174,8 @@ PatT| 2.4882 2.071 1.9 1.6777 #557] 1.5176
 22987] 2ibss| 2073] 2.uueD) “Lbgs2 1.5333] 14906]
 2.2900) 2.4574) 20695) 3.5959, 1.55925! 2.5198] 1.4784
 2.2a91| 7.1454) 2.0566) 4.9878) 2 i T5875: $509) 1Aa6y
-arei| zatd2| 20193] 2980s| Lees] lesa] 119 Lelss| t7ve7|_17223| 2oe73| Lbi77| 16068) 127 £4589] 1A564]
 2.2261| 2,092] 19968] 1.9269] 1.9725] 18289] 1.7929 1.7627) 1.7146] 16624] 2.0052) 15741) 1.5411) 2,4248{ 1.3769)
-Si77al 7.naa| 194a7| saves] 1aiaa| 1774R| f7ag 4.707| t.ns7é| 1.6094] °4.54a5| 1.5107) 1.4785 tae76| 1.7918
 £ppa3| 12959| 4.8238] 17573] 1.722{ 1e524 1.4094 12646] 11926!
-roaao] “Laaya} a7veal 12167] 16ruz| 10815 rsyer] & 2951 11686]
 --- page 5 ---
 chi Square
 
@@ -556,7 +549,6 @@ L.373
 153.174
 --- page 6 ---
 t Table
-cum. prob tso tas t so tas t 99 tas tors tao t 995 t 299 t 9995
 one-tail 0.50 0.25 0.20 0.15 0.10 0.05 0.025 0.01 0.005 0.001 0.0005|
 two-tails 1.00 0.50 0.40 0.30 0.20 0.10 0.05 0.02 0.01 0.002 0.001
 df
@@ -1550,6 +1542,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/PhD/STATISTICAL METHODS OF ANALYSIS/STATISTICAL METHODS OF ANALYSIS 2018-19 RE EXAM.pdf`
 - Printed on paper: max marks: 100; exam date: 20 April, 2019
 - Text: ocr (2 pages), mean OCR confidence 93.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1674,7 +1667,6 @@ after using each of the lubricants, are given below:
 
 Weight loss (in milligram)
 
-iutnicant PartA | PartB | PartC | PartD | PartE
 Type 'A' 6 14 10 8 12
 Type 'B’ 9 14 B 9 15
 Type 'C' 7 16 14 10 19
@@ -2493,6 +2485,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/PhD/STATISTICAL METHODS OF ANALYSIS/STATISTICAL METHODS OF ANALYSIS 2013-14.pdf`
 - Printed on paper: max marks: 100; exam date: 04 January 2014
 - Text: ocr (4 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2542,7 +2535,6 @@ variance of 1.6, how many number of days would you expect ‘not more than 1 rej
 
 the year of 313 working days? “\ aan awa qrok pred _ od dat) &
 ote” = . 2\o ; —_\ ao: ao &
-my PUEN2 Piczo rh LED = aaae = sovelsaes
 ~~ \i4F- 62
 
 oy

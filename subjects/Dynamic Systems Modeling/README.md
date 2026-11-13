@@ -16,11 +16,11 @@ Also filed as: `DYNAMIC SYSTEM MODELLING`, `DYNAMIC SYSTEMS MODELLING`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Dynamic Systems Modeling(702MH0C025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Mechatronics 7004 | QP_Dynamic Systems Modeling(702MH0C025)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Dynamic Systems Modeling(702MH0C025)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Dynamic Systems Modeling(702MH0C025)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / MECHATRONICS | B Tech, Dynamic Systems Modeling, Sem-IV, Batch 2023-24, 2024-25 & 2025-2026, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech Mechatronics 7004 | QP_Dynamic Systems Modeling(702MH0C025)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Dynamic Systems Modeling(702MH0C025)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHATRONICS | Dynamic Systems Modelling, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / MECHATRONICS | Dynamics Systems Modeling, Batch 2022-23 & 2023-24 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Dynamic Systems Modelling, Sem-V, Batch 2023-24, Re Exam.pdf |

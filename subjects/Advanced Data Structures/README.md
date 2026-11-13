@@ -17,10 +17,10 @@ Also filed as: `ADVANCED DATA STRUCTURE`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / I T, B.TECH INTEGRATED / IT | B Tech, Advanced Data Structures, Sem-V, Year 2025-26 Final Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech IT 7001, Integrated IT 7037 | ANS_Advanced Data Structures(702IT0E009)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / I T, MBA TECH / I T | Advanced Data Structures, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5, Sem 9 | BTech IT 7001, Integrated IT 7037 | QP_Advanced Data Structures(702IT0E009)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | MBA TECH / I T | Advanced Data Structures , Final exam 2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech IT 7001, Integrated IT 7037 | ANS_Advanced Data Structures(702IT0E009)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / I T | Advanced Data Structures, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / I T | Advanced Data Structures, Sem-V, A Y 2023-24, Final Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | MBA TECH / I T | Advanced Data Structures ,Final 2023-24.pdf |

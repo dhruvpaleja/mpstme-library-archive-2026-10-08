@@ -16,13 +16,13 @@ Also filed as: `MECHANICAL MEASUREMENT AND METROLOGY`, `Mechanical Measurement a
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7, Sem 11 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Mechanical Measurements and Metrology(702ME0C023)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7, Sem 11 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Mechanical Measurements and Metrology 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7, Sem 11 | BTech Mechanical 7003, Integrated Mechanical 7031 | QP_Mechanical Measurements and Metrology(702ME0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Mechanical 7003 | ANS_Mechanical Measurements and Metrology(702ME0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 11 | Integrated Mechanical 7031 | ANS_Mechanical Measurements and Metrology(702ME0C023)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7, Sem 11 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Mechanical Measurements and Metrology(702ME0C023)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech Mechanical 7003 | QP_Mechanical Measurements and Metrology(702ME0C023)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 11 | Integrated Mechanical 7031 | QP_Mechanical Measurements and Metrology(702ME0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Mechanical 7003 | ANS_Mechanical Measurements and Metrology(702ME0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 11 | Integrated Mechanical 7031 | ANS_Mechanical Measurements and Metrology(702ME0C023)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 8 | MBA TECH / MECHANICAL | Mechanical Measurements and Metrology , Final 2024-25,Re-exam 2023-24.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / MECHANICAL | Mechanical Measurements and Metrology, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / MECHANICAL | Mechanical Measurements and Metrology, Sem-VII, 2024-25, Re Exam.pdf |

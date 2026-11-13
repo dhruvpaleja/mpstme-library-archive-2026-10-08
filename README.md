@@ -8,7 +8,7 @@ The portal listed **30,804 unique file IDs**: **30,152 accounted for**, **652 un
 
 ## PYQs by subject
 
-All 25,064 question-paper files are sorted into **1,126 subjects** in [`subjects/`](subjects/README.md): one folder per subject, each with a README listing every paper by year, exam, semester and programme. Spelling variants of the same subject are merged (for example `APPLIED MATHEMATICES II` and `Applied Mathematics II`), and papers the portal filed in the wrong folder are moved to the subject named in the file.
+All 25,064 question-paper files are sorted into **1,123 subjects** in [`subjects/`](subjects/README.md): one folder per subject, each with a README listing every paper by year, exam, semester and programme. Spelling variants of the same subject are merged (for example `APPLIED MATHEMATICES II` and `Applied Mathematics II`), and papers the portal filed in the wrong folder are moved to the subject named in the file.
 
 Download one or more subjects, already sorted into `PYQs_By_Subject/<Subject>/<Academic year>/`:
 
@@ -19,7 +19,7 @@ python organize_by_subject.py list --search "operating"
 python organize_by_subject.py restore --destination D:/Study --subject "Operating Systems"
 ```
 
-If you have already restored the full library, `python organize_by_subject.py link --library D:/MPSTME_Library_Restored` builds the whole subject tree with hard links (no extra space on NTFS). Identical copies of a paper are placed once. To correct a subject, edit `subject_aliases.json` and run `python organize_by_subject.py catalog`.
+If you have already restored the full library, `python organize_by_subject.py link --library D:/MPSTME_Library_Restored` builds the whole subject tree with hard links (no extra space on NTFS). Identical copies of a paper are placed once. To correct a subject, edit `subject_aliases.json` and run `python organize_by_subject.py catalog`. `subject_overrides.json` lists 59 papers the portal filed under the wrong subject; each was confirmed by reading the subject printed on the paper.
 
 ## Question text for reading and AI analysis
 

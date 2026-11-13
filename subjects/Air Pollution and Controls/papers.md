@@ -1,16 +1,17 @@
 # Air Pollution and Controls: question papers in full
 
-1 unique papers · years not stated · Chemical
+1 unique papers · 2022-23 to 2022-23 · Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## Year not stated · Exam not stated · Sem 8 · paper e25d7f4b12d5
+## 2022-23 · Exam not stated · Sem 8 · paper e25d7f4b12d5
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/VIII SEMESTER/AIR POLLUTION AND CONTROLS/Air Pollution and Controls.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 83.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -133,7 +134,6 @@ BL-3,2; : : :
 
 (b) Discuss how do indoor air pollutants affect the health? [05]
 --- page 4 ---
-enal® : SUNT ROL, atury BONTTORIIG 661
 
 Cc
 A— Extremely unstable
@@ -158,7 +158,6 @@ cS ibe strong | moderate — weak overcast
 <2 ee AaB B ee eee
 2 A—B Be c E FE.
 4 BR 4 peg € 3) E
-: c =D D D ne
 2s c D bd D D_
 Category 4—extremely unstable
 B—moderately unstable

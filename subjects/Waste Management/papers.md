@@ -1497,6 +1497,178 @@ for each method.
 22d.
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper ca2544ef7a42
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/WASTE MANAGEMENT/Waste Management.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’S NMIMS
+tt BRA
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023 Re
+
+a : :
+Peogeamns: efit | Mb ATiCh Year: II] Semester: vl
+Stream/s; Alf
+
+Subject: Waste Management Time: 3 hrs (2400 pmto 5:00pm)
+Date:_05 /05 / 2023 No. of Pages: 2
+
+Marks: 100 marks
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+CcO BL SO
+
+Q1 A Discuss in brief role of any two physical characteristics in 1 2 4,7 [5/20]
+selection of storage of Waste with relevant examples of waste.
+
+Ql B Explain in detail the hydro-claving of Bio-Medical Waste 2 3 47 [5/20]
+Along with its advantages and disadvantages
+
+Q1 C_ Distinguish between Recycle and Recovery of industrial waste 3 4 4,7 [5/20]
+in reference to its description, suitability, advantages, relevant
+examples
+
+Q1 D_ Demonstrate with flow sheet the segregation of solid waste on 1 3 4,7 [5/20]
+the basis of its characteristics.
+
+Q2 A Differentiate between Vermi-composting and windrow 2 4 4,7 [10/20]
+composting methods of treatment applied to biodegradable
+waste in reference to description, suitability, Process,
+advantages and disadvantages.
+
+Q2 B Recommend the management strategy for any four typesof 3 5 4,7 [10/20]
+non-biodegradable waste produced in manufacturing of fruit
+juice industry
+
+Q3 A Express the role of Local authorities in metropolitan areas in 1 3 47 = [10/20]
+Solid Waste Management citing at least four relevant examples
+
+1] 2
+--- page 2 ---
+Q3
+
+Q4
+
+Q4
+
+Q5
+
+Q5
+
+Q6
+
+Q6
+
+Q7
+
+Q7
+
+Demonstrate in brief the process of segregation of domestic
+waste at the point of generation. Also State any four key
+
+benefits of the same.
+
+Elaborate any 10 points that needs to be considered while
+selecting the location of a Secured Landfill Site. Also explain
+the same in brief
+
+Classify various types of Bio-Medical Waste as per detailed as
+CPCB. Also explain the same in brief citing relevant examples
+
+Suggest the suitable method for most suitable for treatment
+before disposal for highly acidic waste. Elaborate the same in
+detail in reference to its process, merits and problems or
+limitations.
+
+A sugar manufacturing industry is planning to design a solid
+waste management plan by which they can generate revenue.
+Elaborate the avenues that are available for then by
+recommending suitable management strategies for waste
+generated.
+
+Elaborate in detail Quantification of Solid waste as per
+CPHEEO Manual 2000 and 2016
+
+Recommend the typical Waste Treatment strategy that shall be
+suitable in case of Municipal Solid waste having carbon to
+nitrogen ratio lower. Justify and discuss in detail the process,
+advantages and disadvantages of the treatment method
+
+Discuss in detail how inventory management and modification
+of equipment’s and machines can result in reduction of
+Industrial solid waste citing any four suitable examples.
+Develop a typical Solid Waste Management Plan for a
+shopping mall and discuss in detail the same citing relevant
+examples.
+
+co BL
+2 5
+3. #4
+1 5
+2 3
+3.05
+
+sO
+4,7
+
+4,7
+
+4,7
+
+4,7
+
+4,7
+
+4,7
+
+4,7
+
+4,7
+
+4,7
+
+[10/20]
+
+[10/20]
+
+[10/20]
+
+[10/20]
+
+[10/20]
+
+[10/20]
+
+[10/20]
+
+[10/20]
+
+[10/20]
+
+2|2
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 3940e3c284b0
 
 - Departments: Common (all branches)
@@ -1793,176 +1965,4 @@ SO
 [10/20]
 
 212
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper ca2544ef7a42
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/WASTE MANAGEMENT/Waste Management.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’S NMIMS
-tt BRA
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023 Re
-
-a : :
-Peogeamns: efit | Mb ATiCh Year: II] Semester: vl
-Stream/s; Alf
-
-Subject: Waste Management Time: 3 hrs (2400 pmto 5:00pm)
-Date:_05 /05 / 2023 No. of Pages: 2
-
-Marks: 100 marks
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-CcO BL SO
-
-Q1 A Discuss in brief role of any two physical characteristics in 1 2 4,7 [5/20]
-selection of storage of Waste with relevant examples of waste.
-
-Ql B Explain in detail the hydro-claving of Bio-Medical Waste 2 3 47 [5/20]
-Along with its advantages and disadvantages
-
-Q1 C_ Distinguish between Recycle and Recovery of industrial waste 3 4 4,7 [5/20]
-in reference to its description, suitability, advantages, relevant
-examples
-
-Q1 D_ Demonstrate with flow sheet the segregation of solid waste on 1 3 4,7 [5/20]
-the basis of its characteristics.
-
-Q2 A Differentiate between Vermi-composting and windrow 2 4 4,7 [10/20]
-composting methods of treatment applied to biodegradable
-waste in reference to description, suitability, Process,
-advantages and disadvantages.
-
-Q2 B Recommend the management strategy for any four typesof 3 5 4,7 [10/20]
-non-biodegradable waste produced in manufacturing of fruit
-juice industry
-
-Q3 A Express the role of Local authorities in metropolitan areas in 1 3 47 = [10/20]
-Solid Waste Management citing at least four relevant examples
-
-1] 2
---- page 2 ---
-Q3
-
-Q4
-
-Q4
-
-Q5
-
-Q5
-
-Q6
-
-Q6
-
-Q7
-
-Q7
-
-Demonstrate in brief the process of segregation of domestic
-waste at the point of generation. Also State any four key
-
-benefits of the same.
-
-Elaborate any 10 points that needs to be considered while
-selecting the location of a Secured Landfill Site. Also explain
-the same in brief
-
-Classify various types of Bio-Medical Waste as per detailed as
-CPCB. Also explain the same in brief citing relevant examples
-
-Suggest the suitable method for most suitable for treatment
-before disposal for highly acidic waste. Elaborate the same in
-detail in reference to its process, merits and problems or
-limitations.
-
-A sugar manufacturing industry is planning to design a solid
-waste management plan by which they can generate revenue.
-Elaborate the avenues that are available for then by
-recommending suitable management strategies for waste
-generated.
-
-Elaborate in detail Quantification of Solid waste as per
-CPHEEO Manual 2000 and 2016
-
-Recommend the typical Waste Treatment strategy that shall be
-suitable in case of Municipal Solid waste having carbon to
-nitrogen ratio lower. Justify and discuss in detail the process,
-advantages and disadvantages of the treatment method
-
-Discuss in detail how inventory management and modification
-of equipment’s and machines can result in reduction of
-Industrial solid waste citing any four suitable examples.
-Develop a typical Solid Waste Management Plan for a
-shopping mall and discuss in detail the same citing relevant
-examples.
-
-co BL
-2 5
-3. #4
-1 5
-2 3
-3.05
-
-sO
-4,7
-
-4,7
-
-4,7
-
-4,7
-
-4,7
-
-4,7
-
-4,7
-
-4,7
-
-4,7
-
-[10/20]
-
-[10/20]
-
-[10/20]
-
-[10/20]
-
-[10/20]
-
-[10/20]
-
-[10/20]
-
-[10/20]
-
-[10/20]
-
-2|2
 ````

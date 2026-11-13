@@ -1,121 +1,10 @@
 # Artificial Intelligence and Robotics: question papers in full
 
-2 unique papers · 2021-22 to 2021-22 · Information Technology
+2 unique papers · 2021-22 to 2023-24 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2021-22 · Re-Exam · Sem 6 · paper 50ec877f3d95
-
-- Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/ARTIFICIAL INTELLIGENCE AND ROBOTICS/Artificial Intelligence and Robotics, Re-exam 2021-2022.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2022
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-4
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2021-22
-
-Programme: B. Tech / MBA Tech (IT) Year: III Semester: VI
-Subject: Artificial Intelligence and Robotics
-
-. Marks: 100 _.
-Date: 09 June 2022 “ Time: 2.00 pm to 5.00 pm
-
-Durations: 3 (Hrs)
-_ No. of Pages: _Z
-Re-Examination (2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary. Pr
-Ql Answer briefly: [20]
-So 7 a State and briefly elaborate PEAS parameters for AI Agent as “ Story telling toy for 5
-BL-3 Kids (4-6 years old)”
-CO-2 ; b. What is you understanding about Search Space? How can we implement data
-SO-2 ; structure as a search space in algorithms to apply searching process? R
-BL-3
-c.
-SoD 2 Define Homogeneous transformation matrices. Write basic homogeneous rotation 5
-BL-3. (rotation around x, y, z axis) matrices?
-CO-4 ; d.
-SO-2 ; What are Social issues and safety concerns with respect to Robotics? §
-BL-2
-an So- . What is difference between internal and external sensors of robotic systems; explain
-> : in details for 2 sensors in each sensor category(internal/external) with respect to | [10]
-BL-3 application in brief ?
-CO-2; SO- | b. i gt : .
->: Explain difference between Informed and Uninformed search; elaborate on one [10]
-BL-3 each informed and uninformed algorithm that you studied with suitable example?
-3 a. i) Given a homogeneous point (10, 25, 30). Apply rotation 60 degree towards Y
-a 2: SO0- and Z axis and find out the new coordinate points? [Seach]
-2. BL. 2 ii) State and explain “Work Envelope” concept with suitable diagram in
-eal Robotics? How it is important from application point of view?
-CO-3; SO- | b. Explain and compare “Utility Based AI Agent” vs “Learning Based AI agent” [10]
-2; BL-3 with suitable examples?
-
-\/2-
---- page 2 ---
-OS: so- a. What is proximity sensor? Explain any two working principle used in proximity
-2. , sensors. How far can a proximity sensor work in respective type? State how these [10]
-BL-2 sensors uses in context of robotics.
-b Explain the A* search algorithms and apply the A* Algorithm on the following
-
-figure. Explicitly write down the queue at each stage, draw search tree and give
-
-optimal final route (S to G) solution.
-CO-2; SO-
-2; [10]
-BL-2
-
-|
-a i) For single linkage Robotic Arm of below figure; draw a figure in terms of
-
-various Kinematic parameters like frames at various joints and links, displacement
-
-and movements.
-Q5
-nia SO- [Seach]
-BL-3
-
-ii) State and explain types of Kinematics used in Robotics?
-C0-2: SO- b i) What are Denavit-Hartenberg (D-H) parameters and how it is useful ?
-2: > ii) How will you define various Path costs in case of AI based searching agent Peach]
-BL-3 with optimal path for Travelling from Mumbai to Delhi with various modes
-
-of travel available? .
-
-Q6 a i) Explain your understanding about Task Environment in AI agent, give any
-CO-2; SO- two types of task environment with suitable example? [Seach]
-2; ii) Explain basic blocks of Robotic systems?
-BL-3 .
-CO-2; SO- | b i) Explain AND-OR Graphs, AO* algorithm with suitable examples?
-a ii) State and explain general contains of each Node in Search tree data structure? | [Seach]
-BL-3
-
-2/2
-````
-
-## 2021-22 · Re-Exam · Sem 6 · paper e7ab6762e14a
+## 2023-24 · Re-Exam · Sem 6 · paper e7ab6762e14a
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
@@ -232,4 +121,115 @@ BL-2
 CO-3; SO-; Discuss the role of sensors and vision systems in robotics. Explain the types | [10]
 
 BL-3 of sensors commonly used in robotic applications and their functions
+````
+
+## 2021-22 · Re-Exam · Sem 6 · paper 50ec877f3d95
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/ARTIFICIAL INTELLIGENCE AND ROBOTICS/Artificial Intelligence and Robotics, Re-exam 2021-2022.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2022
+- Text: ocr (2 pages), mean OCR confidence 90.6
+
+````text
+4
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2021-22
+
+Programme: B. Tech / MBA Tech (IT) Year: III Semester: VI
+Subject: Artificial Intelligence and Robotics
+
+. Marks: 100 _.
+Date: 09 June 2022 “ Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (Hrs)
+_ No. of Pages: _Z
+Re-Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. Pr
+Ql Answer briefly: [20]
+So 7 a State and briefly elaborate PEAS parameters for AI Agent as “ Story telling toy for 5
+BL-3 Kids (4-6 years old)”
+CO-2 ; b. What is you understanding about Search Space? How can we implement data
+SO-2 ; structure as a search space in algorithms to apply searching process? R
+BL-3
+c.
+SoD 2 Define Homogeneous transformation matrices. Write basic homogeneous rotation 5
+BL-3. (rotation around x, y, z axis) matrices?
+CO-4 ; d.
+SO-2 ; What are Social issues and safety concerns with respect to Robotics? §
+BL-2
+an So- . What is difference between internal and external sensors of robotic systems; explain
+> : in details for 2 sensors in each sensor category(internal/external) with respect to | [10]
+BL-3 application in brief ?
+CO-2; SO- | b. i gt : .
+>: Explain difference between Informed and Uninformed search; elaborate on one [10]
+BL-3 each informed and uninformed algorithm that you studied with suitable example?
+3 a. i) Given a homogeneous point (10, 25, 30). Apply rotation 60 degree towards Y
+a 2: SO0- and Z axis and find out the new coordinate points? [Seach]
+2. BL. 2 ii) State and explain “Work Envelope” concept with suitable diagram in
+eal Robotics? How it is important from application point of view?
+CO-3; SO- | b. Explain and compare “Utility Based AI Agent” vs “Learning Based AI agent” [10]
+2; BL-3 with suitable examples?
+
+\/2-
+--- page 2 ---
+OS: so- a. What is proximity sensor? Explain any two working principle used in proximity
+2. , sensors. How far can a proximity sensor work in respective type? State how these [10]
+BL-2 sensors uses in context of robotics.
+b Explain the A* search algorithms and apply the A* Algorithm on the following
+
+figure. Explicitly write down the queue at each stage, draw search tree and give
+
+optimal final route (S to G) solution.
+CO-2; SO-
+2; [10]
+BL-2
+
+|
+a i) For single linkage Robotic Arm of below figure; draw a figure in terms of
+
+various Kinematic parameters like frames at various joints and links, displacement
+
+and movements.
+Q5
+nia SO- [Seach]
+BL-3
+
+ii) State and explain types of Kinematics used in Robotics?
+C0-2: SO- b i) What are Denavit-Hartenberg (D-H) parameters and how it is useful ?
+2: > ii) How will you define various Path costs in case of AI based searching agent Peach]
+BL-3 with optimal path for Travelling from Mumbai to Delhi with various modes
+
+of travel available? .
+
+Q6 a i) Explain your understanding about Task Environment in AI agent, give any
+CO-2; SO- two types of task environment with suitable example? [Seach]
+2; ii) Explain basic blocks of Robotic systems?
+BL-3 .
+CO-2; SO- | b i) Explain AND-OR Graphs, AO* algorithm with suitable examples?
+a ii) State and explain general contains of each Node in Search tree data structure? | [Seach]
+BL-3
+
+2/2
 ````

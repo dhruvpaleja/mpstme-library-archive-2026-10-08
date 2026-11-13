@@ -244,6 +244,139 @@ Page 2 of 2
 — ¢
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper dfca7121be8c
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING I/Environmental Engineeriing -I Re-exam 17-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 22 Jan 2019
+- Text: ocr (2 pages), mean OCR confidence 93.6
+
+````text
+a
+
+rs SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (Civil) Year: Til Semester : V ‘
+Academic Year: 2018-19 \
+
+Subject: Environmental Engineering-I Marks: 70
+
+Time: 2.00 pm to 5.00 pm
+
+' Date: 22 Jan 2019
+maty Durations: 3 (hrs)
+
+No. of Pages: O2_
+Re-examination (2017-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary and clearly mention the same.
+
+Q.1 | A | List the factors affecting per capita demand of water. 2
+
+B | What are intake structures? Explain in brief at least four factors to be considered while choosing | 3
+a location for intakes. :
+
+C | Draw a typical flowsheet for conventional water treatment plant and explain in brief about each | 3
+stage of treatment.
+
+D | Explain in brief various methods for desalination of water. 3
+E | Define hazardous waste. Explain the classification in brief. 3
+Q.2 | A | Explain in detail the components of water supply system. 8
+B | Considering the following data given below. 6
+Year 1931 1941 1951 1961 1971 1981 1991
+
+Population | 12000 16500 26800 41500 57500 68000 74100
+Determine the population in:2011 by geometric increase and incremental increase method.
+
+Q.3 | A | Water has to be supplied to a town with a population of 90,000 at the rate of 140 litres per | 7
+capita per day from a river, 1.6 km away. The difference in elevation between the lowest water
+level in the sump and service reservoir is 35 m. Determine the size of the main and the
+horsepower of the pump’ required. Assume maximum demand to be 1.8 times the average
+demand. Assume that the pumps are working for 12 hours a day. Assume the flow velocity
+through pressure pipe to be 1.5 m/s. Assume Cu = 120. Assume 70% pump efficiency. Assume
+1 HP= 0.735 W. Use Hazen-William’s formula.
+
+Page 1 of 2
+--- page 2 ---
+Design a bell mouth canal intake for a city of 80,000 persons, drawing water from a canal which
+runs only for 11 hours a day with a depth of 1.7 m, also calculate the head loss (using Hazen-
+William formula) in the intake conduit, .if the treatment works are 0.3 km away. Average
+consumption per person is 145 Iped. Assume the velocity through the screens and bell mouth to
+be less than 15 cm/sec and 30 cm/sec, respectively. Assume minimum water level to be 0.3 m
+below the full supply level (FSL). Assume bottom of screen to be 0.15 m above the canal bed.
+Assume 20 mm © bars for screen. Assume the clear opening widths between the vertical bars to
+be 30 mm each. Assume the maximum flow velocity in the conduit to be 1.6 m/s. Assume that
+the cast iron pipe, having Cu value as 130, is running full.
+
+Q4
+
+“Tn a continuous flow settling tank 3.5 m deep and 50 m long, what flow velocity of water would
+
+you recommend for effective removal of 0.035 mm particles at 25°C. The sp. gravity of
+particles is 2.65, and kinematic viscosity v for water may be taken as 0.01 cm?/sec, also, check
+
+against scour of deposited particles. [Take B= 0.04, f= 0.03]
+
+List different types of chlorination. Write a short note on super chlorination and dechlorination.
+
+State some objectives of water treatment.
+
+Q5
+
+Write a detailed note on coagulation mechanism in the water treatment process and list some
+examples of common coagulants,
+
+A filter unit is 4.5 m x 9.0 m. After filtering 10,000 m? per day in 24 hour period, the filter is
+back washed at a rate of 10 lit/m?/s for 15 min. Compute the average filtration rate, quantity,
+and percentage of treated water used in washing, and the rate of wash water flow in each trough.
+
+Assume 4 troughs.
+
+Explain briefly the treatments used for deflouridation of water.
+
+Q.6
+
+Write a detailed note on the physical, chemical and biological characteristics of water.
+
+What is softening of water? Explain lime soda process for softening of water and also mention
+
+the suitable chemical reactions. OR
+Write a detailed note on the chlorination curve and explain the concept of breakpoint
+
+chlorination with suitable diagram.
+
+Q.7
+
+Explain in brief the various methods of disposal of biomedical waste.
+
+What is solid waste management? Explain in brief (with a flow sheet) the various functional
+elements of a solid waste management system.
+
+Enlist different types of environmental pollution. Discuss any two with its causes and effects.
+
+ad
+|
+
+Page 2 of 2
+````
+
 ## 2017-18 · Final-Exam · Sem 5 · paper 36f1d8a5e8cb
 
 - Departments: Civil
@@ -313,6 +446,238 @@ b. Discuss various steps for management of solid waste and draw its flow chart. 
 Page 2 of 2
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 0756eb266111
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I (CIVIL), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 27 November 2017
+- Text: ocr (2 pages), mean OCR confidence 92.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: V
+
+Batch: 2015-16
+2 Academic Year: 2017-2018
+
+ne
+
+Subject: Environmental Engineering-I
+
+gi\i GT OF .
+Marks: 60 gen NS y
+
+Date: 27 November 2017 Time: 2.00 pm fo 5.00 pm, ay A
+Durations: 3i(frs) ‘STME Ve
+
+No. of Pages; QP RABE Y
+
+Js
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1. Answer the following questions: (12)
+
+(a) Compute fire demand for a city having population of 2,00,000 using various
+formulae. (03)
+
+(b) Distinguish between gravity conduits and pressure conduits. (03)
+
+(c) Find the settling velocity of a discrete particles in water under conditions when
+Reynolds’s number is less than 0.5. The diameter and specific gravity of the particles
+
+is 5*103cm and 2.65, respectively. Kinematic viscosity 1.01*107 cm/sec. (03)
+
+(d) Write short notes on thermal pollution. (03)
+Q2. Answer the following questions: (12)
+(a) Deliberate on the physical, chemical and biological properties of water. (06)
+
+(b) Design a bell mouth canal intake for a city of 1,00000 persons, drawing water from a canal
+which runs only for 12 hrs a day with a depth of 1.5 m. Iso calculate the head loss in the
+
+intake conduit if the treatment works are 4 km away. Assume the suitable data. Draw a neat
+| sketch. (06)
+5 Q3. Answer the following questions: (12)
+
+(a) Design completely a rapid sand filter for a town having a total filtered water
+requirement of 5 million litres. of water per day. Assume suitable data. (06)
+
+1/2
+--- page 2 ---
+(b) Design a coagulation sedimentation tank to treat 20 million Its of water per day.
+Assume suitable data where necessary.» (06)
+
+Q4. Answer the following questions: (12)
+
+(a) Water has to be supplied to a town with 1 lakh population at the rate of 150 liters per
+capita per day from a river, 1.8 Km away. The difference in elevation between the
+lowest water level in the sump and service reservoir is 36 m. Determine the size of the
+main and the horse power of the pump required. Assume suitable data wherever
+
+necessary. (06)
+(b) Distinguish between slow sand and rapid sand filters with reference to (06)
+(i) Rate of filtration (ii) Filter media of sand (ii) Period of cleaning (iv) Loss of head
+
+Q5. Answer the following questions: (12)
+(a) Write short notes on : (06)
+
+(i) Reverse osmosis (ii) Types of chlorination (iii) Desalination.
+
+(b) Write in detail any two methods of removing the permanent hardness of water. (06)
+
+Q6. Answer the following questions: (12)
+(a) What is solid waste management? State the composition and characteristics of the municipal
+
+Solid waste. (06)
+(b) Chlorine usage in the treatment of 20,000 cubic meter per day is 8 Kg/day. The residual after 10
+min. contact is 0.20 mg/l. Calculate the dosage in milligrams per litre and chlorine demand of
+water. (03)
+(c) Define and classify biomedical wastes and explain any two methods in short by which they can be
+treated and disposed off. (03)
+Q7. Answer the following questions: (12)
+(a) Write short notes on composting.
+(4 Explain in detail logistic curve method for forecasting population
+
+(8) Explain effects and mitigation measures for noise pollution.
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 23fb74f5b6c6
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I (CIVIL), BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 27 November 2017
+- Text: ocr (2 pages), mean OCR confidence 94.2
+
+````text
+SVKM’s NMIMS
+] MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Jd Programme: B. Tech (CIVIL) Year: III Semester: V
+
+Batch: 2016-17
+“ Academic Year: 2017-2018
+
+Subject: Environmental Engineering-I
+
+Date: 27 November 2017
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Answer any five questions of the seven questions.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1) Answer the following questions: (12)
+
+(a) Explain the terms Design period, BOD, Average daily demand, per capita (04)
+demand.
+
+(b) Enumerate the forecasting methods and explain any two. Forecast population (08)
+
+for 2050 using Geometric Mean Methods calculate capacity of water treatment
+lant with respect to maximum forecasted population.
+
+Census Population
+1960-70 2,03,600
+1970-80 3,10,000
+1980-1990 3,50,000
+1990-2000 4,00,000
+2000-2010 4,50,000
+Q2) Answer the following questions (12)
+(a) Explain Factors (any 8) affecting water demand of city. (04)
+
+(b) Enumerate various types of intake structures. Explain any two of them in short (08)
+Design a bell mouth canal intake for a population of 1,00,000 drawing water
+ee from can with runs for 10 hrs a day with depth of 1.25 m. Average water
+consumption is 180 I/c/d. Velocity trough screen and bell mouth to be less than
+15cem/sec and 30cm/sec. (Find Q, area of coarse screen, dia of bell mouth entry
+and dia of intake conduit).
+--- page 2 ---
+Q3) Answer the following questions (12)
+(a) Explain types of pumps used in water treatment. Discuss in detail any two of (04)
+them.
+(b) Explain limitation of conventional surface water treatment. Explain the units of (04)
+water treatment with their functions.
+(c) Design a circular plain sedimentation tank for a population of 2500 with per (04)
+capita demand as 150 Iped, Assume detention time, and give necessary checks.
+
+Q4) Design the following unit and calculate amount of lime and soda ash required (12)
+for softening in a water treatment plant treating water for a population of 50,000
+with the water supply rate as 150 lpcd. Assume suitable data and mention it
+
+clearly.
+
+(a) Rapid sand filter and it’s underdrainage system (07)
+(b) Assume soda ash and lime purity 90%. (05)
+
+CaCO3= 90 mg/L
+
+MgSO.= 100 mg/L
+
+Mg Clo= 50 mg/L
+Q5) Answer the following (12)
+A Design the water depth for a mixing basin having around the end baffles in (06)
+
+order to treat SOMId of water. The tank may be divided into two similar
+
+compartments by providing longitudinal partition wall, and each half may have
+
+a clear width of 8m. Assume the detention period of 30mins and the velocity of
+
+flow through the basin as 0.3m/sec. The clear distance between the baffles may
+
+be kept as equal to min. permissible as 0.45m. Mention the number of channels
+
+in the tank and also the overall length of the tank, .nd also draw a neat sketch
+B_ Explain the following with the short note:
+
+a Reverse osmosis (03)
+
+ii. Color and odor removal (03)
+
+Q6) Explain cause, effect and prevention of : (12)
+
+i. Air pollution (04)
+
+ii. Noise Pollution (04)
+iii. Thermal Pollution (04)
+Q7) Answer the following questions (12)
+
+Le Explain ideal settling tank. (04)
+ii. Define: SOR; Backwashing; G and GT values; WLR. (04)
+iii. Explain the procedure for finding optimum dose of coagulant. (04)
+
+2 of 2
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper 1837be0a31f6
 
 - Departments: Civil
@@ -320,6 +685,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I BATCH 17-18 RE EXAM 2017-18.pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 91.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -330,7 +696,6 @@ Programme: B. Tech (Civil) C Year: Ill Semester: V «
 ] Batch: 2017-18 _
 | i Academic Year: 2017-2018 P
 
-ject: i tal Engineering-I « HOS / » ©
 Subject: Environmental Eng g arks: 70 (4) : ye
 
 . / Time: 10.00 amito 1.00 pm‘, y Daj /
@@ -698,121 +1063,100 @@ Ill. Different impurities in water (4)
 IV. Removal of colour, odour and taste from water (4)
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 23fb74f5b6c6
+## 2016-17 · Re-Exam · Sem 5 · paper c1e641dce768
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I (CIVIL), BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 27 November 2017
-- Text: ocr (2 pages), mean OCR confidence 94.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I B TECH (CIVIL), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 29 November 2016
+- Text: ocr (2 pages), mean OCR confidence 88.1
 
 ````text
-SVKM’s NMIMS
-] MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Jd Programme: B. Tech (CIVIL) Year: III Semester: V
+Programme : B. Tech (CIVIL) Year : Il Semester: V
 
-Batch: 2016-17
-“ Academic Year: 2017-2018
+Batch : 2014-2015/ 2015-2016
 
-Subject: Environmental Engineering-I
-
-Date: 27 November 2017
-
-Re-Examination
-
+; Academic Year : 2016-2017 a |
+| Subject : Environmental Engineering - I Marks : MPSYMmEn }- :
+Time : aS T@ROO py FA
+Date : 29 November 2016 ; Duration % F
+A a! “3
+Re-Examination ae oda
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
-
 NB:
-
 1) Answer any five questions of the seven questions.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1) Answer the following questions: (12)
-
-(a) Explain the terms Design period, BOD, Average daily demand, per capita (04)
-demand.
-
-(b) Enumerate the forecasting methods and explain any two. Forecast population (08)
-
-for 2050 using Geometric Mean Methods calculate capacity of water treatment
-lant with respect to maximum forecasted population.
-
-Census Population
-1960-70 2,03,600
-1970-80 3,10,000
-1980-1990 3,50,000
-1990-2000 4,00,000
-2000-2010 4,50,000
+2) All questions carry equal marks.
+3) Answer to each new question to be started on a fresh page.
+4) Figures in brackets on the right hand side indicate full marks.
+5) Assume suitable data if not given and mention it clearly.
+Ql) Answer the following questions: (12)
+Explain with a figure components of water supply scheme and (06)
+deliberate on the need of the same. .
+B Enumerate the forecasting methods. Explain any four in detail. (06)
 Q2) Answer the following questions (12)
-(a) Explain Factors (any 8) affecting water demand of city. (04)
-
-(b) Enumerate various types of intake structures. Explain any two of them in short (08)
-Design a bell mouth canal intake for a population of 1,00,000 drawing water
-ee from can with runs for 10 hrs a day with depth of 1.25 m. Average water
-consumption is 180 I/c/d. Velocity trough screen and bell mouth to be less than
-15cem/sec and 30cm/sec. (Find Q, area of coarse screen, dia of bell mouth entry
-and dia of intake conduit).
---- page 2 ---
+A Design of Mechanical rapid mix ‘unit (Flash Mixer) for a design flow —_ (06)
+of 300 m3/hr at 200C. Consider the following design parameters: (a)
+detention time of 30 sec, (b) velocity gradient of 600 sec-1, (c)
+Rotational speed of impeller 125 rpm, (d) ‘Ratio of tank height to tank
+diameter is 1.5:1 and (e) Ratio of impeller diameter to tank diameter
+0.4:1. Also calculate the per day cost of operation at rate of Rs.25 for 1
+KW-hr.
+B Enumerate various types of intake structures. Explain any two of (06)
+them in short.
 Q3) Answer the following questions (12)
-(a) Explain types of pumps used in water treatment. Discuss in detail any two of (04)
-them.
-(b) Explain limitation of conventional surface water treatment. Explain the units of (04)
-water treatment with their functions.
-(c) Design a circular plain sedimentation tank for a population of 2500 with per (04)
-capita demand as 150 Iped, Assume detention time, and give necessary checks.
+A. Discuss how to select a suitable pump. Explain any two types of (04)
+pumps used in water supply system.
+B_ Explain the functions of units with a flowsheet units in surface water (06)
+a treatment system. Describe the pathogen and turbidity removal in
+each unit. Discuss how backwash water could be used or could be
+aad utilized again in the treatment flowsheet.
+C Explain the fundamental principle of removal of solids in settling (02)
+basins.
 
-Q4) Design the following unit and calculate amount of lime and soda ash required (12)
-for softening in a water treatment plant treating water for a population of 50,000
-with the water supply rate as 150 lpcd. Assume suitable data and mention it
+1of2
+--- page 2 ---
+Q4) Design the following units in a water treatment plant treating water (12)
+for a population of 1, 00,000 with the water supply rate as 135 Ipcd.
 
-clearly.
+(a) Sedimentation tank (circular) with all the checks. (05)
 
-(a) Rapid sand filter and it’s underdrainage system (07)
-(b) Assume soda ash and lime purity 90%. (05)
+(b) Rapid sand filter and it’s underdrainage system., . (07)
 
-CaCO3= 90 mg/L
+Q5) Explain the following with the short note: : (12)
 
-MgSO.= 100 mg/L
+A Differentiate between rapid sand and slow sand filter . (03)
 
-Mg Clo= 50 mg/L
-Q5) Answer the following (12)
-A Design the water depth for a mixing basin having around the end baffles in (06)
+B_ Chlorination (03)
 
-order to treat SOMId of water. The tank may be divided into two similar
+C_ Reverse osmosis (03)
 
-compartments by providing longitudinal partition wall, and each half may have
+D_ Color and odor removal 7 , (03)
 
-a clear width of 8m. Assume the detention period of 30mins and the velocity of
+Q6) Answer the following Question: (12)
 
-flow through the basin as 0.3m/sec. The clear distance between the baffles may
+A Treatment Methodology for Bio-Degradable and Combustible Solid (04)
+Waste.
 
-be kept as equal to min. permissible as 0.45m. Mention the number of channels
+B_ Explain cause, effect and prevention of Soil pollution. ' : (04)
 
-in the tank and also the overall length of the tank, .nd also draw a neat sketch
-B_ Explain the following with the short note:
+C_ Explain in detail with sketch disposal Methodology for Hazardous (04)
+Waste.
 
-a Reverse osmosis (03)
-
-ii. Color and odor removal (03)
-
-Q6) Explain cause, effect and prevention of : (12)
-
-i. Air pollution (04)
-
-ii. Noise Pollution (04)
-iii. Thermal Pollution (04)
 Q7) Answer the following questions (12)
 
-Le Explain ideal settling tank. (04)
-ii. Define: SOR; Backwashing; G and GT values; WLR. (04)
-iii. Explain the procedure for finding optimum dose of coagulant. (04)
+_A_ The average Increase in the population of a town per decade overa ~~ (04)
+
+period of 6 decades was 5100 and the average percentage increase
+was 11%. If the population at the end of 6th decade is 7,70,000
+estimate the two decades later by (1) arithmetic increase method, (2)
+geometric increase method.
+B_ Define: SOR; Backwashing; G and GT values; WLR. (04)
+C Explain MPN test conducted in laboratory to find the microbial (04)
+activity in drinking water sample.
 
 2 of 2
 ````
@@ -1162,213 +1506,262 @@ of aeration?
 (e) Enlist and explain various sources of air and noise pollution.
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 0756eb266111
+## 2015-16 · Re-Exam · Sem 5 · paper 9c2362fe2814
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I (CIVIL), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 27 November 2017
-- Text: ocr (2 pages), mean OCR confidence 92.7
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 30/11/2015
+- Text: ocr (2 pages), mean OCR confidence 90.1
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (CIVIL) Year: III Semester: V
+Programme: B. Tech (Civil) Year: III Semester: V
+Batch: 2014-2015
+Academic Year: 2015-2016
 
-Batch: 2015-16
-2 Academic Year: 2017-2018
-
-ne
-
-Subject: Environmental Engineering-I
-
-gi\i GT OF .
-Marks: 60 gen NS y
-
-Date: 27 November 2017 Time: 2.00 pm fo 5.00 pm, ay A
-Durations: 3i(frs) ‘STME Ve
-
-No. of Pages; QP RABE Y
-
-Js
+; . ot et jee “ts
+Subject: Environmental Engineering-I 4 / mPSTME Yo
+Marks: 601 el yyy yds
+BRARY
+Date: 30/11/2015 Time: 2.08\ fii fo 5.00 pm age,
+Duration: 3 (h iS,
+a Oe
+al
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-1) Question No. _1____ is compulsory.
+NB:
 
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5_ questions to be attempted.
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
 
-Q1. Answer the following questions: (12)
+QL. A Fillin the Blanks: ( Any Six) ()
+1 and are the air pollutants released in air from industries.
+z and are the collection systems used in solid waste management.
 
-(a) Compute fire demand for a city having population of 2,00,000 using various
-formulae. (03)
+3. The per capita per day demand of water is an average value over a period of
 
-(b) Distinguish between gravity conduits and pressure conduits. (03)
+4 The total water consumption including domestic, commercial and industrial and public use
+for an Indian town with full flushing system as per IS code is taken as
 
-(c) Find the settling velocity of a discrete particles in water under conditions when
-Reynolds’s number is less than 0.5. The diameter and specific gravity of the particles
+5 Most commonly used coagulant for surface water is
 
-is 5*103cm and 2.65, respectively. Kinematic viscosity 1.01*107 cm/sec. (03)
+6 is one of the thermal methods for-processing of solid waste.
+7 for a sedimentation tank passing discharge of Q and having length L,
+width B and height H is given by Q/BL.
+8 can remove 95-99% pathogens in water treatment process flow sheet.
+9 is the global effect caused majorly by excess of methane and carbon di oxide.
+10 Soil pollution can be remediated by __ and :
+Ql. B Answer in short any fous . (6)
 
-(d) Write short notes on thermal pollution. (03)
-Q2. Answer the following questions: (12)
-(a) Deliberate on the physical, chemical and biological properties of water. (06)
+a) Define (i) pyrolysis (ii) composting
 
-(b) Design a bell mouth canal intake for a city of 1,00000 persons, drawing water from a canal
-which runs only for 12 hrs a day with a depth of 1.5 m. Iso calculate the head loss in the
+b) Write the selection criteria for pumps.
 
-intake conduit if the treatment works are 4 km away. Assume the suitable data. Draw a neat
-| sketch. (06)
-5 Q3. Answer the following questions: (12)
+c) Explain the classification of hazardous wastes.
 
-(a) Design completely a rapid sand filter for a town having a total filtered water
-requirement of 5 million litres. of water per day. Assume suitable data. (06)
+ad) Name the collection services for solid waste management.
+e) Classify biomedical waste
 
-1/2
---- page 2 ---
-(b) Design a coagulation sedimentation tank to treat 20 million Its of water per day.
-Assume suitable data where necessary.» (06)
-
-Q4. Answer the following questions: (12)
-
-(a) Water has to be supplied to a town with 1 lakh population at the rate of 150 liters per
-capita per day from a river, 1.8 Km away. The difference in elevation between the
-lowest water level in the sump and service reservoir is 36 m. Determine the size of the
-main and the horse power of the pump required. Assume suitable data wherever
-
-necessary. (06)
-(b) Distinguish between slow sand and rapid sand filters with reference to (06)
-(i) Rate of filtration (ii) Filter media of sand (ii) Period of cleaning (iv) Loss of head
-
-Q5. Answer the following questions: (12)
-(a) Write short notes on : (06)
-
-(i) Reverse osmosis (ii) Types of chlorination (iii) Desalination.
-
-(b) Write in detail any two methods of removing the permanent hardness of water. (06)
-
-Q6. Answer the following questions: (12)
-(a) What is solid waste management? State the composition and characteristics of the municipal
-
-Solid waste. (06)
-(b) Chlorine usage in the treatment of 20,000 cubic meter per day is 8 Kg/day. The residual after 10
-min. contact is 0.20 mg/l. Calculate the dosage in milligrams per litre and chlorine demand of
-water. (03)
-(c) Define and classify biomedical wastes and explain any two methods in short by which they can be
-treated and disposed off. (03)
-Q7. Answer the following questions: (12)
-(a) Write short notes on composting.
-(4 Explain in detail logistic curve method for forecasting population
-
-(8) Explain effects and mitigation measures for noise pollution.
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper c1e641dce768
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I B TECH (CIVIL), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 29 November 2016
-- Text: ocr (2 pages), mean OCR confidence 88.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (CIVIL) Year : Il Semester: V
-
-Batch : 2014-2015/ 2015-2016
-
-; Academic Year : 2016-2017 a |
-| Subject : Environmental Engineering - I Marks : MPSYMmEn }- :
-Time : aS T@ROO py FA
-Date : 29 November 2016 ; Duration % F
-A a! “3
-Re-Examination ae oda
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-1) Answer any five questions of the seven questions.
-2) All questions carry equal marks.
-3) Answer to each new question to be started on a fresh page.
-4) Figures in brackets on the right hand side indicate full marks.
-5) Assume suitable data if not given and mention it clearly.
-Ql) Answer the following questions: (12)
-Explain with a figure components of water supply scheme and (06)
-deliberate on the need of the same. .
-B Enumerate the forecasting methods. Explain any four in detail. (06)
-Q2) Answer the following questions (12)
-A Design of Mechanical rapid mix ‘unit (Flash Mixer) for a design flow —_ (06)
-of 300 m3/hr at 200C. Consider the following design parameters: (a)
-detention time of 30 sec, (b) velocity gradient of 600 sec-1, (c)
-Rotational speed of impeller 125 rpm, (d) ‘Ratio of tank height to tank
-diameter is 1.5:1 and (e) Ratio of impeller diameter to tank diameter
-0.4:1. Also calculate the per day cost of operation at rate of Rs.25 for 1
-KW-hr.
-B Enumerate various types of intake structures. Explain any two of (06)
-them in short.
-Q3) Answer the following questions (12)
-A. Discuss how to select a suitable pump. Explain any two types of (04)
-pumps used in water supply system.
-B_ Explain the functions of units with a flowsheet units in surface water (06)
-a treatment system. Describe the pathogen and turbidity removal in
-each unit. Discuss how backwash water could be used or could be
-aad utilized again in the treatment flowsheet.
-C Explain the fundamental principle of removal of solids in settling (02)
-basins.
+f) What are the functional units of integrated solid waste management.
 
 1of2
 --- page 2 ---
-Q4) Design the following units in a water treatment plant treating water (12)
-for a population of 1, 00,000 with the water supply rate as 135 Ipcd.
+Q2.
 
-(a) Sedimentation tank (circular) with all the checks. (05)
+Q2.
 
-(b) Rapid sand filter and it’s underdrainage system., . (07)
+Q3.
 
-Q5) Explain the following with the short note: : (12)
+Q3.
+Q4.
 
-A Differentiate between rapid sand and slow sand filter . (03)
+Q4.
 
-B_ Chlorination (03)
+Q5.
 
-C_ Reverse osmosis (03)
+Q5.
 
-D_ Color and odor removal 7 , (03)
+Q6. .
 
-Q6) Answer the following Question: (12)
+Q6.
+Q7.
 
-A Treatment Methodology for Bio-Degradable and Combustible Solid (04)
-Waste.
+.Q7.
 
-B_ Explain cause, effect and prevention of Soil pollution. ' : (04)
+What is the major objective of any water supply scheme? Draw the flow sheet of (6)
+conventional surface water treatment plant in detail. Explain in detail the function of
+each unit with degrees of removal of turbidity.
 
-C_ Explain in detail with sketch disposal Methodology for Hazardous (04)
-Waste.
+Write a note on characteristics (physical, chemical and biological) affecting the quality (6)
+of water.
 
-Q7) Answer the following questions (12)
+Forecast the population for 2060 using incremental increase and geometric increase
+method using data depicted in following table (@)
+Census Population
+1960-70 3,03,600
+1970-80 3,20,000
+1980-90 3,50,000
+1990-2000 4,10,000
+| 2000-2010 4,60,000
 
-_A_ The average Increase in the population of a town per decade overa ~~ (04)
+Discuss in detail Factors affecting Water Demand and the Variation in Water Demand (6)
 
-period of 6 decades was 5100 and the average percentage increase
-was 11%. If the population at the end of 6th decade is 7,70,000
-estimate the two decades later by (1) arithmetic increase method, (2)
-geometric increase method.
-B_ Define: SOR; Backwashing; G and GT values; WLR. (04)
-C Explain MPN test conducted in laboratory to find the microbial (04)
-activity in drinking water sample.
+Design a paddle flocculator for 20 MLD plant with following details: (6)
+Detention time= 20 min, Average G= 50s™
+
+Speed of paddles = 5 rpm, K=0.25
+
+u. =1.0087X10°
+
+p=998 kg/m? at 20°C
+
+Ratio of L:B= 2.5
+
+Two settling basins are 25 m in diameter with 2.2 m water depth. Single effluent weirs (6)
+
+are located on periphery of the tanks, for a flow of 25,000m’/d calculate: (i) surface
+area (ii) Overflow rate (iii) Detention time (iv) Weir loading rate.
+Discuss in detail any TWO (6)
+
+(}) Removal of Iron and manganese (ff) Removal of color and odor (iif)Water
+softening
+
+Explain the basic graph of chlorination with definitions and concept of breakpoint (6)
+chlorination, residual chlorine, dose of chlorine and free chlorine.
+
+Answer the questions (any two) (8)
+a) What is Soil Pollution? What are the different causes of Soil Pollution?
+b) What is Marine Pollution? What are the effects of Marine Pollution on
+environment?
+c) What is Noise Pollution? How can we prevent the noise pollution?
+
+Discuss in detail any two (i) Secured landfills (ii) Transfer stations (iii) Incineration (€)
+
+Explain the concept of ideal settling tank and derive the equation for surface loading - (G}
+rate.
+Design a rapid sand filter with under drainage system for 7 MLD of water per day. (6)
+
+Assume suitable data.
+
+2 of 2
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper a9303639f0c7
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+\ SVKM’s NMIMS PTT TaN 10TH B Ne
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN:
+
+Programme: B.Tech (Civil) Year: III Semester: V US LA. 4 . im)
+Academic Year: 2015-16 Oy 46,
+meaty re
+Batch: 2014-15 / 2015-16 Marks:60
+Subject: Environmental Engineering-I Time: 2.00 pm - 5.00 pm
+Date: 10 June 2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. :
+NB:
+
+1. QI is compulsory and Answer any four questions of the six questions.
+
+2. All questions carry equal marks.
+
+3. Answer to each new question to be started on a fresh page.
+
+4. Figures in brackets on the right hand side indicate full marks.
+
+5. Assume Suitable data if not given and mention it clearly
+
+Ql Answer any four of the following
+A Discuss in brief any three Physical Characteristics of water, (3)
+B Illustrate the design of Pumps and economical diameters of Pumps. (3)
+
+C A two rectangular settling tanks without mechanical equipmentisto (3)
+treat 2 Mid per day of water. The sedimentation period is 4 hour, the
+velocity of flow is 8cm/minute and depth of the water and sediment is
+4.2m. If an allowance of 1.2m of sediment is made, what should be
+consider WTP operating for 8hours a day(a) Length of the basin, (b)
+
+y the width of the basin
+D Illustrate the various factors affecting (any 6) per capita water (3)
+demand.
+E_ Discuss in brief definition, causes, effects and control measures for (3)
+
+noise pollution.
+
+Q2 A_ Design a circular river intake with respect to (1) number and size of (12)
+the openings in the intake well, (2) the size and shape and height of
+the intake well and (3) the gravity pipe for raw water connecting the
+intake well and jack well. The data supplied is RL of river bed = 100m,
+= RL of lowest water level = 104m, RL of normal water level = 117m, RL
+ee of highest flood level = 125m, Population Served = 75000, Average
+Water Demand = 250Ipcd, Velocity through screens is 0.2m/sec,
+height of screens = 1.5m, providing 20mm bars are clear spacing of
+5cm, velocity through gravity conduit = 1.2m/sec, velocity through
+bell mouth is 0.45m/sec.
+--- page 2 ---
+Q3 A Estimate the hydraulic gradient in 2m diameter smooth concrete pipe _ (6)
+carrying a discharge of 3.2 cumec at 30°C temperature by using (a)
+Darcy-Weisbach Formula, (b)Manning’s Formula, (c) Hazen-William’s
+Formula and (d)Modified Hazen-William’s Formula. Kinematic
+Viscosity of water at 30°C is 0.804x10-
+
+B_ Discuss in detail various any six types Pipe Appurtenances. (6)
+
+Q4 <A Draw the flow-sheet of water treatment plant for dam as a source of (6)
+water supply with justification and discuss in brief the function and
+necessity of each treatment process
+B Two primary settling basins are 25m in diameter with a 2.0m side (6)
+water depth. Single effluent weirs are located on the peripheries of the
+tank. for a water flow of 26,000m3/ day, calculate: .
+(1) Surface area and volume, (2) Overflow rate in m3/m?.day (3)
+detention time in hours and (4) weir loading in m3/m*day. *
+
+Q5 A Distinguish between Slow Sand and Rapid Sand Filters (6)
+
+B_ Explain the following Disinfection Methods: (a) Treatment by Ozone, _(6)
+
+(b) Treatment by UV Rays and (c) Treatment with Potassium
+Permanganate. .
+
+Q6 A Design the approximate dimensions of a set of rapid gravity filters for (6)
+treating water required for a population of 50000, the rate of supply
+being 200lpcd. With the WTP operating for 24 hours and peak factor
+of 2. The filters are rated to work 5000 I/hr/sq.m. Assume, L:B = 2.
+Also design the underdrainage system assume suitable data.
+
+B Explain detail the following advanced water treatment process: (a) (6)
+Colour and Odour Removal (b) Iron and Manganese Removal
+
+Q7 A Explain in detail Reuse and Recycle of Industrial Solid Waste with (6)
+relevant examples.
+
+B Explain in brief various Categories of Hazardous waste as per RCRA. (6)
 
 2 of 2
 ````
@@ -1380,6 +1773,7 @@ activity in drinking water sample.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING-I B TECH (CIVIL), 3RD YEAR 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; exam date: 02/12/2014
 - Text: ocr (2 pages), mean OCR confidence 90.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1409,7 +1803,6 @@ Question No. | is compulsory.
 5.. Answer to each new question to be started on a fresh page.
 6. Figures in brackets on the right hand side indicate full marks.
 
-a - mma Ree eee rere eee eccee eee rrc reece
 
 Q.1) Solve Any Four 20
 a) Explain the need of a properly planned water supply scheme for a community 05
@@ -1790,266 +2183,6 @@ x
 6
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 9c2362fe2814
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 30/11/2015
-- Text: ocr (2 pages), mean OCR confidence 90.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: III Semester: V
-Batch: 2014-2015
-Academic Year: 2015-2016
-
-; . ot et jee “ts
-Subject: Environmental Engineering-I 4 / mPSTME Yo
-Marks: 601 el yyy yds
-BRARY
-Date: 30/11/2015 Time: 2.08\ fii fo 5.00 pm age,
-Duration: 3 (h iS,
-a Oe
-al
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-QL. A Fillin the Blanks: ( Any Six) ()
-1 and are the air pollutants released in air from industries.
-z and are the collection systems used in solid waste management.
-
-3. The per capita per day demand of water is an average value over a period of
-
-4 The total water consumption including domestic, commercial and industrial and public use
-for an Indian town with full flushing system as per IS code is taken as
-
-5 Most commonly used coagulant for surface water is
-
-6 is one of the thermal methods for-processing of solid waste.
-7 for a sedimentation tank passing discharge of Q and having length L,
-width B and height H is given by Q/BL.
-8 can remove 95-99% pathogens in water treatment process flow sheet.
-9 is the global effect caused majorly by excess of methane and carbon di oxide.
-10 Soil pollution can be remediated by __ and :
-Ql. B Answer in short any fous . (6)
-
-a) Define (i) pyrolysis (ii) composting
-
-b) Write the selection criteria for pumps.
-
-c) Explain the classification of hazardous wastes.
-
-ad) Name the collection services for solid waste management.
-e) Classify biomedical waste
-
-f) What are the functional units of integrated solid waste management.
-
-1of2
---- page 2 ---
-Q2.
-
-Q2.
-
-Q3.
-
-Q3.
-Q4.
-
-Q4.
-
-Q5.
-
-Q5.
-
-Q6. .
-
-Q6.
-Q7.
-
-.Q7.
-
-What is the major objective of any water supply scheme? Draw the flow sheet of (6)
-conventional surface water treatment plant in detail. Explain in detail the function of
-each unit with degrees of removal of turbidity.
-
-Write a note on characteristics (physical, chemical and biological) affecting the quality (6)
-of water.
-
-Forecast the population for 2060 using incremental increase and geometric increase
-method using data depicted in following table (@)
-Census Population
-1960-70 3,03,600
-1970-80 3,20,000
-1980-90 3,50,000
-1990-2000 4,10,000
-| 2000-2010 4,60,000
-
-Discuss in detail Factors affecting Water Demand and the Variation in Water Demand (6)
-
-Design a paddle flocculator for 20 MLD plant with following details: (6)
-Detention time= 20 min, Average G= 50s™
-
-Speed of paddles = 5 rpm, K=0.25
-
-u. =1.0087X10°
-
-p=998 kg/m? at 20°C
-
-Ratio of L:B= 2.5
-
-Two settling basins are 25 m in diameter with 2.2 m water depth. Single effluent weirs (6)
-
-are located on periphery of the tanks, for a flow of 25,000m’/d calculate: (i) surface
-area (ii) Overflow rate (iii) Detention time (iv) Weir loading rate.
-Discuss in detail any TWO (6)
-
-(}) Removal of Iron and manganese (ff) Removal of color and odor (iif)Water
-softening
-
-Explain the basic graph of chlorination with definitions and concept of breakpoint (6)
-chlorination, residual chlorine, dose of chlorine and free chlorine.
-
-Answer the questions (any two) (8)
-a) What is Soil Pollution? What are the different causes of Soil Pollution?
-b) What is Marine Pollution? What are the effects of Marine Pollution on
-environment?
-c) What is Noise Pollution? How can we prevent the noise pollution?
-
-Discuss in detail any two (i) Secured landfills (ii) Transfer stations (iii) Incineration (€)
-
-Explain the concept of ideal settling tank and derive the equation for surface loading - (G}
-rate.
-Design a rapid sand filter with under drainage system for 7 MLD of water per day. (6)
-
-Assume suitable data.
-
-2 of 2
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper a9303639f0c7
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING-I/ENVIRONMENTAL ENGINEERING I BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-\ SVKM’s NMIMS PTT TaN 10TH B Ne
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN:
-
-Programme: B.Tech (Civil) Year: III Semester: V US LA. 4 . im)
-Academic Year: 2015-16 Oy 46,
-meaty re
-Batch: 2014-15 / 2015-16 Marks:60
-Subject: Environmental Engineering-I Time: 2.00 pm - 5.00 pm
-Date: 10 June 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. :
-NB:
-
-1. QI is compulsory and Answer any four questions of the six questions.
-
-2. All questions carry equal marks.
-
-3. Answer to each new question to be started on a fresh page.
-
-4. Figures in brackets on the right hand side indicate full marks.
-
-5. Assume Suitable data if not given and mention it clearly
-
-Ql Answer any four of the following
-A Discuss in brief any three Physical Characteristics of water, (3)
-B Illustrate the design of Pumps and economical diameters of Pumps. (3)
-
-C A two rectangular settling tanks without mechanical equipmentisto (3)
-treat 2 Mid per day of water. The sedimentation period is 4 hour, the
-velocity of flow is 8cm/minute and depth of the water and sediment is
-4.2m. If an allowance of 1.2m of sediment is made, what should be
-consider WTP operating for 8hours a day(a) Length of the basin, (b)
-
-y the width of the basin
-D Illustrate the various factors affecting (any 6) per capita water (3)
-demand.
-E_ Discuss in brief definition, causes, effects and control measures for (3)
-
-noise pollution.
-
-Q2 A_ Design a circular river intake with respect to (1) number and size of (12)
-the openings in the intake well, (2) the size and shape and height of
-the intake well and (3) the gravity pipe for raw water connecting the
-intake well and jack well. The data supplied is RL of river bed = 100m,
-= RL of lowest water level = 104m, RL of normal water level = 117m, RL
-ee of highest flood level = 125m, Population Served = 75000, Average
-Water Demand = 250Ipcd, Velocity through screens is 0.2m/sec,
-height of screens = 1.5m, providing 20mm bars are clear spacing of
-5cm, velocity through gravity conduit = 1.2m/sec, velocity through
-bell mouth is 0.45m/sec.
---- page 2 ---
-Q3 A Estimate the hydraulic gradient in 2m diameter smooth concrete pipe _ (6)
-carrying a discharge of 3.2 cumec at 30°C temperature by using (a)
-Darcy-Weisbach Formula, (b)Manning’s Formula, (c) Hazen-William’s
-Formula and (d)Modified Hazen-William’s Formula. Kinematic
-Viscosity of water at 30°C is 0.804x10-
-
-B_ Discuss in detail various any six types Pipe Appurtenances. (6)
-
-Q4 <A Draw the flow-sheet of water treatment plant for dam as a source of (6)
-water supply with justification and discuss in brief the function and
-necessity of each treatment process
-B Two primary settling basins are 25m in diameter with a 2.0m side (6)
-water depth. Single effluent weirs are located on the peripheries of the
-tank. for a water flow of 26,000m3/ day, calculate: .
-(1) Surface area and volume, (2) Overflow rate in m3/m?.day (3)
-detention time in hours and (4) weir loading in m3/m*day. *
-
-Q5 A Distinguish between Slow Sand and Rapid Sand Filters (6)
-
-B_ Explain the following Disinfection Methods: (a) Treatment by Ozone, _(6)
-
-(b) Treatment by UV Rays and (c) Treatment with Potassium
-Permanganate. .
-
-Q6 A Design the approximate dimensions of a set of rapid gravity filters for (6)
-treating water required for a population of 50000, the rate of supply
-being 200lpcd. With the WTP operating for 24 hours and peak factor
-of 2. The filters are rated to work 5000 I/hr/sq.m. Assume, L:B = 2.
-Also design the underdrainage system assume suitable data.
-
-B Explain detail the following advanced water treatment process: (a) (6)
-Colour and Odour Removal (b) Iron and Manganese Removal
-
-Q7 A Explain in detail Reuse and Recycle of Industrial Solid Waste with (6)
-relevant examples.
-
-B Explain in brief various Categories of Hazardous waste as per RCRA. (6)
-
-2 of 2
-````
-
 ## 2014-15 · Re-Exam · Sem 5 · paper 6668e306eb3e
 
 - Departments: Civil
@@ -2259,137 +2392,4 @@ c) Write short notes on the following : 5
 
 (i) Acid Rain
 (ii) Preventive measures on Environmental pollution
-````
-
-## Year not stated · Re-Exam · Sem 5 · paper dfca7121be8c
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/ENVIRONMENTAL ENGINEERING I/Environmental Engineeriing -I Re-exam 17-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 22 Jan 2019
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-a
-
-rs SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (Civil) Year: Til Semester : V ‘
-Academic Year: 2018-19 \
-
-Subject: Environmental Engineering-I Marks: 70
-
-Time: 2.00 pm to 5.00 pm
-
-' Date: 22 Jan 2019
-maty Durations: 3 (hrs)
-
-No. of Pages: O2_
-Re-examination (2017-18/ 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary and clearly mention the same.
-
-Q.1 | A | List the factors affecting per capita demand of water. 2
-
-B | What are intake structures? Explain in brief at least four factors to be considered while choosing | 3
-a location for intakes. :
-
-C | Draw a typical flowsheet for conventional water treatment plant and explain in brief about each | 3
-stage of treatment.
-
-D | Explain in brief various methods for desalination of water. 3
-E | Define hazardous waste. Explain the classification in brief. 3
-Q.2 | A | Explain in detail the components of water supply system. 8
-B | Considering the following data given below. 6
-Year 1931 1941 1951 1961 1971 1981 1991
-
-Population | 12000 16500 26800 41500 57500 68000 74100
-Determine the population in:2011 by geometric increase and incremental increase method.
-
-Q.3 | A | Water has to be supplied to a town with a population of 90,000 at the rate of 140 litres per | 7
-capita per day from a river, 1.6 km away. The difference in elevation between the lowest water
-level in the sump and service reservoir is 35 m. Determine the size of the main and the
-horsepower of the pump’ required. Assume maximum demand to be 1.8 times the average
-demand. Assume that the pumps are working for 12 hours a day. Assume the flow velocity
-through pressure pipe to be 1.5 m/s. Assume Cu = 120. Assume 70% pump efficiency. Assume
-1 HP= 0.735 W. Use Hazen-William’s formula.
-
-Page 1 of 2
---- page 2 ---
-Design a bell mouth canal intake for a city of 80,000 persons, drawing water from a canal which
-runs only for 11 hours a day with a depth of 1.7 m, also calculate the head loss (using Hazen-
-William formula) in the intake conduit, .if the treatment works are 0.3 km away. Average
-consumption per person is 145 Iped. Assume the velocity through the screens and bell mouth to
-be less than 15 cm/sec and 30 cm/sec, respectively. Assume minimum water level to be 0.3 m
-below the full supply level (FSL). Assume bottom of screen to be 0.15 m above the canal bed.
-Assume 20 mm © bars for screen. Assume the clear opening widths between the vertical bars to
-be 30 mm each. Assume the maximum flow velocity in the conduit to be 1.6 m/s. Assume that
-the cast iron pipe, having Cu value as 130, is running full.
-
-Q4
-
-“Tn a continuous flow settling tank 3.5 m deep and 50 m long, what flow velocity of water would
-
-you recommend for effective removal of 0.035 mm particles at 25°C. The sp. gravity of
-particles is 2.65, and kinematic viscosity v for water may be taken as 0.01 cm?/sec, also, check
-
-against scour of deposited particles. [Take B= 0.04, f= 0.03]
-
-List different types of chlorination. Write a short note on super chlorination and dechlorination.
-
-State some objectives of water treatment.
-
-Q5
-
-Write a detailed note on coagulation mechanism in the water treatment process and list some
-examples of common coagulants,
-
-A filter unit is 4.5 m x 9.0 m. After filtering 10,000 m? per day in 24 hour period, the filter is
-back washed at a rate of 10 lit/m?/s for 15 min. Compute the average filtration rate, quantity,
-and percentage of treated water used in washing, and the rate of wash water flow in each trough.
-
-Assume 4 troughs.
-
-Explain briefly the treatments used for deflouridation of water.
-
-Q.6
-
-Write a detailed note on the physical, chemical and biological characteristics of water.
-
-What is softening of water? Explain lime soda process for softening of water and also mention
-
-the suitable chemical reactions. OR
-Write a detailed note on the chlorination curve and explain the concept of breakpoint
-
-chlorination with suitable diagram.
-
-Q.7
-
-Explain in brief the various methods of disposal of biomedical waste.
-
-What is solid waste management? Explain in brief (with a flow sheet) the various functional
-elements of a solid waste management system.
-
-Enlist different types of environmental pollution. Discuss any two with its causes and effects.
-
-ad
-|
-
-Page 2 of 2
 ````

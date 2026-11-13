@@ -1,85 +1,10 @@
 # Geotech I: question papers in full
 
-5 unique papers · 2011-12 to 2012-13 · Civil
+5 unique papers · 2011-12 to 2013-14 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Final-Exam · Trim 5 · paper b8b422afed80
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM V/GEOTECH I/GEOTECH I 2012-2013 FINAL Scan 002.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/02/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Programme: MBA (Tech) -CIVIL
-Academic Year : 20 12-20 13
-n   Subject:   GEOTECH l   Marks:   100
-Time:   2.00 p.m To 5.00 p.m
-Date:   09/02/2013   Duration:   3   hrs.
-Final - Examination
-INSTRUCTIONS: The candidates should read carefully the instructions piinted on the
-question paper and on the cover of the Answer Book, which is provided for their use
-NB: 1) Question No. ONE is compulsory
-2) Out of the remaining questions, attempt any FOUR questions
-3) In all FIVE questions are to be attempted
-4) Answer to each new question is to be started on a fresh page
-5) Figures in brackets on the right hand side of the question indicate full
-marks
-6) Illustrate your answer with neat sketches wherever necessary
-7) Take Gravitational Acceleration g= 9.81mls%nd Specific Weight of water,
-y,= 9810 ~ l r n unless ~ ,   otheiwise specified
-8) Assume suitable additional data, if not given & mention it clearlv
-Q. No. 1) Answer ANY FOUR of the following: -
-a) Write a note on 'Transported Soils'.
-b) Write a note on 'Particle Size Distribution Curve and its application'
-c) State and explain 'Vane Shear Test'.
-1   d) Write a short note on 'Modified Proctor Test'
-e) Write a short note on 'Coulomb's Earth Pressure Theory'
-Q. No. 2) a) Explain the procedure of 'Plastic Limit Test' with neat sketches.   (10)
-Q. No. 2) b) An undisturbed soil sample had a mass of 170 gm and a volume of 100c.c. The mass
-of soil, after drying was 140 gm. Determine the moisture content, bulk density, dry
-unit weight, void ratio, and degree of saturation. Take G=2.65   (10)
-Q. No. 3) a) Explain with a neat sketch 'Constant Head Permeability Test'.   (10)
-Q. No. 3) b) Calculate the value of coefficient of permeability of a soil sample of 6 cm height and
-50 cm2 cross-sectional area, if a quantity of water of 450 em3 flows down in 12 min
-a   under an effective constant head of 50 cm. On oven drying, the test specimen
-weighed 502 gm. Assuming G = 2.65, calculate the seepage velocity of water during
-the test.   (10)
-page 112
---- page 2 ---
-Q. No. 4) a) ~xplain the Hydrometer Method used for wet mechanical analysis in detail with a
-neat sketch. Also explain the different corrections required.   (10)
-Q. No. 4) b) In an experiment for the determination of the shrinkage limit, the following
-observations were taken: -
-(i) Volume of saturated soil = 9.5 C.C. (ii) Weight of saturated soil = 116 gm
-(iii) Volume of dry soil after shrinkage= 5.5 C.C.
-(iv) Weight of dry soil after shrinkage = 10.7 gm
-Compute the Shrinkage limit and the specific Gravity of Soil Solids   (10)
-Q. No. 5) a) Explain 'Direct Shear Test' with a neat sketch showing its set up & naming all the
-parts.   (10)
-Q. No. 5) b) A cohesive soil yields a maximum dry density of 1.8 g d c c at an OMC of 16%
-during a Standard Proctor Test. If G= 2.65, what is S,? Calculate theoretical Pdmax
-corresponding to S, = 100% and n, corresponding to that theoretical ph,, ?
-(10)
-Q. No. 6) a) Explain the 'Consolidation Test' with the neat sketch.   (10)
-b) Two clay specimens 'A' and 'B' of thickness 2 cm and 3 cm have equilibrium void
-ratios- 0.68 and 0.72 respectively under a pressure of 200 KN/m2. If the equilibrium
-voids ratios reduce to 0.5 and 0.62 respectively, when the pressure was increased to
-400 KN/ m2, find the ratio of the coefficients of permeability of the two specimens.
-The time required by specimen 'A7 to reach 40 per cent degree of consolidation is %
-of that required by specimen 'B' for 40 per cent degree of consolidation.   (1 0)
-Q. No. 7) a) Explain Plate Load Test with reference to following points:-
-(i) Bearing Plate (ii) Test Pit (iii) Gravity Loading and its figure (iv) Load
-increments   (10)
-Q. No. 7) b) Explain the determination of coefficient of consolidation (C,) by Square root of time
-fitting method.   (10)
-page 212
-````
-
-## 2012-13 · Re-Exam · Trim 5 · paper 2ec71c801ee4
+## 2013-14 · Re-Exam · Trim 5 · paper 2ec71c801ee4
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -177,6 +102,81 @@ index (v) Toughness Index
 (e) Assumptions in Terzaghi’s Analysis for Bearing Capacity
 
 38 OK OK OK Ok
+````
+
+## 2012-13 · Final-Exam · Trim 5 · paper b8b422afed80
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM V/GEOTECH I/GEOTECH I 2012-2013 FINAL Scan 002.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/02/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Programme: MBA (Tech) -CIVIL
+Academic Year : 20 12-20 13
+n   Subject:   GEOTECH l   Marks:   100
+Time:   2.00 p.m To 5.00 p.m
+Date:   09/02/2013   Duration:   3   hrs.
+Final - Examination
+INSTRUCTIONS: The candidates should read carefully the instructions piinted on the
+question paper and on the cover of the Answer Book, which is provided for their use
+NB: 1) Question No. ONE is compulsory
+2) Out of the remaining questions, attempt any FOUR questions
+3) In all FIVE questions are to be attempted
+4) Answer to each new question is to be started on a fresh page
+5) Figures in brackets on the right hand side of the question indicate full
+marks
+6) Illustrate your answer with neat sketches wherever necessary
+7) Take Gravitational Acceleration g= 9.81mls%nd Specific Weight of water,
+y,= 9810 ~ l r n unless ~ ,   otheiwise specified
+8) Assume suitable additional data, if not given & mention it clearlv
+Q. No. 1) Answer ANY FOUR of the following: -
+a) Write a note on 'Transported Soils'.
+b) Write a note on 'Particle Size Distribution Curve and its application'
+c) State and explain 'Vane Shear Test'.
+1   d) Write a short note on 'Modified Proctor Test'
+e) Write a short note on 'Coulomb's Earth Pressure Theory'
+Q. No. 2) a) Explain the procedure of 'Plastic Limit Test' with neat sketches.   (10)
+Q. No. 2) b) An undisturbed soil sample had a mass of 170 gm and a volume of 100c.c. The mass
+of soil, after drying was 140 gm. Determine the moisture content, bulk density, dry
+unit weight, void ratio, and degree of saturation. Take G=2.65   (10)
+Q. No. 3) a) Explain with a neat sketch 'Constant Head Permeability Test'.   (10)
+Q. No. 3) b) Calculate the value of coefficient of permeability of a soil sample of 6 cm height and
+50 cm2 cross-sectional area, if a quantity of water of 450 em3 flows down in 12 min
+a   under an effective constant head of 50 cm. On oven drying, the test specimen
+weighed 502 gm. Assuming G = 2.65, calculate the seepage velocity of water during
+the test.   (10)
+page 112
+--- page 2 ---
+Q. No. 4) a) ~xplain the Hydrometer Method used for wet mechanical analysis in detail with a
+neat sketch. Also explain the different corrections required.   (10)
+Q. No. 4) b) In an experiment for the determination of the shrinkage limit, the following
+observations were taken: -
+(i) Volume of saturated soil = 9.5 C.C. (ii) Weight of saturated soil = 116 gm
+(iii) Volume of dry soil after shrinkage= 5.5 C.C.
+(iv) Weight of dry soil after shrinkage = 10.7 gm
+Compute the Shrinkage limit and the specific Gravity of Soil Solids   (10)
+Q. No. 5) a) Explain 'Direct Shear Test' with a neat sketch showing its set up & naming all the
+parts.   (10)
+Q. No. 5) b) A cohesive soil yields a maximum dry density of 1.8 g d c c at an OMC of 16%
+during a Standard Proctor Test. If G= 2.65, what is S,? Calculate theoretical Pdmax
+corresponding to S, = 100% and n, corresponding to that theoretical ph,, ?
+(10)
+Q. No. 6) a) Explain the 'Consolidation Test' with the neat sketch.   (10)
+b) Two clay specimens 'A' and 'B' of thickness 2 cm and 3 cm have equilibrium void
+ratios- 0.68 and 0.72 respectively under a pressure of 200 KN/m2. If the equilibrium
+voids ratios reduce to 0.5 and 0.62 respectively, when the pressure was increased to
+400 KN/ m2, find the ratio of the coefficients of permeability of the two specimens.
+The time required by specimen 'A7 to reach 40 per cent degree of consolidation is %
+of that required by specimen 'B' for 40 per cent degree of consolidation.   (1 0)
+Q. No. 7) a) Explain Plate Load Test with reference to following points:-
+(i) Bearing Plate (ii) Test Pit (iii) Gravity Loading and its figure (iv) Load
+increments   (10)
+Q. No. 7) b) Explain the determination of coefficient of consolidation (C,) by Square root of time
+fitting method.   (10)
+page 212
 ````
 
 ## 2012-13 · Re-Exam · Trim 5 · paper 05ff807ad245

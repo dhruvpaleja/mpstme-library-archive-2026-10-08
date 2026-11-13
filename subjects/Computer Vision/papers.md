@@ -1,8 +1,199 @@
 # Computer Vision: question papers in full
 
-55 unique papers · 2018-19 to 2025-26 · Artificial Intelligence, Data Science, Computer Engineering, AI and Data Science, AI and Machine Learning, Electronics and Telecommunication, Common (all branches), Information Technology
+55 unique papers · 2011-12 to 2025-26 · Artificial Intelligence, Data Science, Computer Engineering, AI and Data Science, AI and Machine Learning, Electronics and Telecommunication, Common (all branches), Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Exam not stated · Sem 7 · paper 25e34ee908f9
+
+- Departments: Artificial Intelligence, Data Science
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE (311)
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ARTIFICIAL INTELLIGENCE/SEM-VII/COMPUTER VISION/B Tech, MBA Tech, (CSE-DS(311),AI), Computer Vision, Sem-VII, Batch 2023-2024 & 2_3d965e05.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 87.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING
+Academic Year: 2025-2026
+
+Program: B. Tech./ MBA Tech Stream: CSE(DS)/AI Year: TV Semester: VII
+
+Subject: Computer Vision Time: 3 _ hrs (\ozonanto 4.00pm)
+Date: _24 / \ /2025 No. of Pages: 4
+
+Marks: 100
+
+_ Re] Examination (23-24/24-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql Answer briefly:
+CO-1; | a | What are the three key limitations of human vision, and how does computer vision | [05]
+SO-1; help to overcome these limitations?
+BL-4
+CO-2; | b | In SIFT algorithm, if the number of octaves is changed from 4 to 6, what effect will it | [05]
+SO-1; have on the length of the feature vector for orientation assignment of key points?
+BL-4
+
+COo- c | Apply the mean-shift algorithm to the following image, using the given parameters: | [05]
+
+3,4; e Color bandwidth = 18, Threshold for convergence: distance between old and
+SO-1; new means = 30
+BL-3 _ —50 55 60 190 200
+
+Image = [ex 4s 202 196 2051
+
+CO-1; | d_ | Briefly explain the concept of invariants, their types, and applications in 3D computer | [05]
+
+SO-1; vision.
+BL-2
+Answer any four from Q2 to Q7
+Q2 a | Elaborate on the typical steps involved in the process of recognition in computer | [10]
+CO-4: vision.
+SO-1;
+BL-2
+
+Page 1 of 4
+--- page 2 ---
+CO-2; [| b_ | Apply the following two Gaussian filters to update the pixels in the highlighted 3x3 [10]
+
+SO-1; region of the given image. Do not update the non-highlighted boundary pixels.
+BL-5 Evaluate and compare the results obtained from both filters.
+12 1 ,fi 1 1
+Gaussian filters, fi=xl2 4 2,fh=a]1 2 1
+lr 24 Mir 44
+Image:
+1} 1 1 1] 1
+1);,5]5 15] 1
+1 5 5 5 1
+1 5 5 5 1
+1 1 1 1 1
+Q3 a | Perform the Harris Corner Detection on the following 5x5 grayscale image using the | [10]
+CO-2: filter below to determine whether a corner is present at the center pixel.
+SO-1; Given parameters: Harris constant k = 0.06, Threshold for corner response R > 20000
+BL-3 Vertical filter: Horizontal filter:
+1 0 -1 1 1 1
+1 0 -l 0 0 0
+1 0 -1 -l -1 -1
+
+0 0 12 0 0
+
+0 0 12 0 0
+
+o | o | 2] 0 4] 0
+o | o | 12 | 0 | Oo
+
+0 0 12 0 0
+
+CO-3;| b | Perform K-means clustering with K = 2 on the following 3x3 grayscale image. [10]
+
+SO-1; Use absolute distance on intensity values (1-D) and start with initial centroids C1=20
+
+BL-3 and C2=200. Perform iterations until convergence, showing the assignment step and
+centroid updates. Finally give the final cluster centers and the clustered image with
+
+labels for each pixel.
+
+Page 2 of 4
+--- page 3 ---
+Image:
+18 22 20
+
+200 | 210 | 205
+
+19 21 18
+Q4 a_ | Apply the Speeded-Up Robust Features (SURF) method to perform keypoint [10]
+Son. detection by constructing a Hessian matrix for the highlighted region of the image.
+BL-3 (Given: The constant, W = 0.9, and the threshold = 15)
+
+Image =
+
+1 2 2 2 1
+
+1 1 1 1 1
+00 0 0 0 0 0 0 0 0
+01-2 1,0 0 1 1 1 £40
+
+G,=|0 1 -2 1 O}|, G,=j]0 -—2 -2 —2 OF,
+
+01-210 0 1 1 1 £=+0
+00 0 0 0 0 0 0 0 0
+
+0 0 0 0 0
+0 1 0-10
+Gy=|0 0 0 0 0
+0-10 1 0
+0 0 0 0 0
+
+CO-2;| b | Find the mean and standard deviation for the following pixel intensity values Xi(t), X2 | [10]
+SO-1; (t), Xa(t), X(t), Xs(t) in an image observed for K=5 in a Gaussian Mixture Model
+BL-5 (GMM) and interpret the results. ;
+
+Page 3 of 4
+--- page 4 ---
+Xi (t) = [5,6,5]
+X(t) = [251, 252, 254]
+X4(t) = [250,.249, 250)
+X4(t) = [250, 250, 248)
+
+X3(t) = (0, 0, 0]
+
+Q5 a_ | Write a note on essential matrix. Let the point in the first image be x and the | [10]
+CO-1: corresponding point in the second image be x’. Use the following essential matrix E to
+S0-1: determine if the epipolar constraint is perfectly satisfied:
+
+BL-3
+
+0 -1 2 1 2
+e-([1 0 “1 ; =[P ; x'=]1
+—2 #1 0 1 1
+
+co-4; | b | Discuss the crucial blocks including Perception, Analysis, and Response in | [10]
+
+SO-1; surveillance systems.
+BL-2
+
+Q6 a | Compute epipolar line on the right image given the coordinates of point X and the | [10]
+CO-1: fundamental matrix F.
+
+SO-1; 343.5300 —0.00310695 —0.0025646 2.96584
+
+BL-3 y= 221.7005} F=| —0.028094 —0.00771621 56.3813
+
+1 13.1905 —29.2007 —9999.79
+
+CO-4; | b | Brief on various types of image acquisition systems available for vehicle vision | [10]
+SO-1; system.
+
+BL-2
+
+Q7 a | Explain the Correspondence problem in 3-dimensional vision. [10]
+CO-1;
+SO-1;
+
+BL-2
+CO-4; | b | Enlist and explain the major challenges encountered in dry cereal grain quality | [10]
+SO-1; inspection from the perspective of computer vision.
+
+BL-2
+
+Page 4 of 4
+````
 
 ## 2025-26 · Final-Exam · Sem 2 · paper 9fa4ef7b9928
 
@@ -816,6 +1007,7 @@ precision.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AIML_7053/COMPUTER VISION FOR AI/QP_COMPUTER VISION FOR AI(702AI0C029)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: ocr (6 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -956,7 +1148,6 @@ highlighted point is a key point. (For Hessian matrix,
 constant, W = 0.9, and threshold = 10)
 1 1 1 1 1 pO Ok 10) 0) 0
 1 1 1 1 1 Ig 7) bet aL ©
-it ] 2 2 2 (65 a lak alse) ahi a CPS Rae
 1 ] 2 2 2 TE es 7) eri =u
 fen |e | oe |e 0 0 0 00
 image
@@ -1065,7 +1256,6 @@ SO-4; diagrams.
 
 BL-3
 
-RREREKEEER DORR KARAK EEA
 --- page 6 ---
 
 ````
@@ -1716,6 +1906,117 @@ SO-4; diagrams. .
 BL-3
 
 FOCI OR a
+````
+
+## 2025-26 · Re-Exam · Sem 12 · paper b65e6b1fd15a
+
+- Departments: Computer Engineering
+- Programmes: Integrated Computer 7032
+- Source: `02_Question_Papers/2024/Sem_12/Re-Exam/Integrated_Computer_7032/Computer Vision/QP_Computer Vision(702AI0C017)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI & DS)/B. Tech Intg. (CE)
+Year: III / VI/Semester VI/Semester XII(Exam Year: 2025-2026)
+Subject: Computer Vision
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:   [20]
+CO- 4   a   In relation to epipolar geometry, explain epipolar constraint. Show how it
+SO- 1,6   [05]
+BL- 2   useful in matching key points.
+CO- 3   b.   Explain in brief any two advantages and two limitations of the K-Means
+SO- 1,6   [05]
+algorithm.
+BL- 5
+c.   Determine the integral image for the following image.
+CO- 2
+SO- 1,6   [05]
+BL- 4
+CO- 4   d.
+SO- 1,6   Explain two examples of mid-level processing.   [05]
+BL- 3
+a   Given the following gradient magnitude and orientation matrices, compute
+the histogram of oriented gradients using 9 bins (0–180°). Determine the
+HOG feature vector for the 4×4 image.
+Q2
+CO- 1
+SO- 1, 6   [10]
+BL- 5
+Gradient Magnitude   Gradient orientation (Ɵ)
+b   For Harris corner detector,
+Q2   i) Show with example images that Harris corner detector is invariant
+CO- 1   to rotation and variant to scaling   [10]
+SO- 1, 6   ii) Explain the steps involved in constructing Harris matrix and using
+BL- 5   corner response to determine whether the pixel is corner, edge or
+flat region.
+********** 1 **********
+--- page 2 ---
+a
+Q3
+CO- 2   List the steps for extracting Scale-Invariant Feature Transform (SIFT)   [10]
+SO- 1, 6   features from an image, and describe key point localization in detail.
+BL- 5
+Q3   b
+For Speeded-Up Robust Features (SURF), explain the scale space
+CO- 2   generation for feature detection and justify in brief that it is computationally   [10]
+SO- 1, 6
+BL- 1,5   efficient.
+a   Explain the Mean Shift clustering algorithm with reference to the
+Q4   following aspects:
+i) The working procedure of the algorithm and criteria for convergence
+CO- 3   ii) Effect of large and small bandwidth   [10]
+SO- 1, 6
+iii) The advantages and limitations of Mean Shift
+BL- 2
+Support your explanation with a suitable example plots of data points
+Q4   b
+CO- 3   Describe how Gaussian Mixture model is used to generate background   [10]
+SO- 1,6   model.
+BL- 5
+Q5   a
+Show the concept of optical flow. Compare dense and sparse optical flow
+CO- 3   [10]
+SO- 1,6   with suitable example images.
+BL- 4
+Q5   b
+CO- 3   Describe how background frame is generated using temporal average. Also   [10]
+SO- 1,6   show how background subtraction is used generate foreground of the image.
+BL- 5
+Q6   a
+Explain any five challenges of implementing a cereal grain inspection
+CO- 4   [10]
+SO- 1,6   system using computer vision.
+BL- 2
+Q6   b   Show how 2D Cartesian coordinates are converted to 3D homogeneous
+CO- 4   coordinates and vice versa. Convert the point (3,4) from Cartesian to   [10]
+SO- 1,6   homogeneous form. Also, determine the corresponding 2D Cartesian
+BL- 5   coordinates for the homogeneous point (9,12,3).
+a   Explain in brief the following:
+Q7   • World coordinate system
+CO- 4   • Camera coordinate system   [10]
+SO- 1, 6
+BL- 3   • Image coordinate system
+•   Pixel coordinate system
+Q7   b
+Draw a labeled sketch of epipolar geometry and explain it with reference to
+CO- 4   [10]
+SO- 1,6   points, epipolar lines, and the essential and fundamental matrices.
+BL- 3
+********** 2 **********
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · paper 96ca07e11459
@@ -2775,6 +3076,352 @@ example images.
 ********** 4 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 6 · paper 870798f8af40
+
+- Departments: Artificial Intelligence, Computer Engineering, Data Science
+- Programmes: B TECH / ARTIFICAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / DATA SCIENCE, B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/COMPUTER VISION/Computer Vision Batch 2023-24,2024-25 Re Exam.pdf` (+6 identical copies)
+- Printed on paper: max marks: 100; exam date: 06 July 2026
+- Text: ocr (3 pages), mean OCR confidence 78.9
+
+````text
+SVKM’S NMIMS rs
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Academic Year: 2025-26
+Program: B.Tech/ B Tech Intg.(COMP/AI&DS)
+
+Subject: COMPUTER VISION °
+Date : 06 July 2026
+Marks: 100
+Re-Exam (2023-24/2024-25)
+Instructions:
+
+1. This question paper contains 3 pages.
+
+2. Question No. | is compulsory.
+
+3. Out of remaining questions, attempt any 4 questions.
+
+4. In all 5 questions to be attempted.
+
+5. All questions carry equal marks.
+
+6. Answer to each new question to be started on a fresh page.
+
+7. Figures in brackets on the right-hand side indicate full marks.
+
+8. Assume Suitable data if necessary. t
+Ql Answer briefly (20] ‘
+CO- 4 a. ° i
+SO- 1,6 Describe the limitations of human vision using examples. {05S]
+
+BL- 2
+COz3 b. . . : .
+S0- 1.6 For mean shift algorithm, show the effect of large and small bandwidth of [05]
+BL-5 , window (kernel function). Explain it with suitable plots
+CO- 2 c. ar : |
+SO- 1,6 Compare Scale Invariant Feature Transform (SIFT) and Speeded-Up Robust }- [05]
+BL-4 Features (SURF)
+CO- 4 d.
+SO- 1,6 Explain in brief Image Rectification. [05]
+BL- 3
+Q2 a
+CO- | List the steps to determine Histogram of Gradients (HoG) as a feature for
+SO- 1,6 the image. Explain each step in brief. {10]
+BL- 5
+b Given the following image gradients for a 3x3 window centered at a pixel: |
+_ |2 2 2 121i.
+2 2 2 15 1
+29 3 Lil
+Q2
+CO- | Gradient in x direction, Ix Gradient in x direction, ly [10] —
+SO- 1,6 “ i) Construct Harris corner matrix and determine corner response.
+BL-5 Assume constant, k = 0.04 and threshold = 100. =
+ii) Determine whether the given pixel corresponds to a corner, edge,
+or flat region. Also, spectfy the conditions based on the corner =
+response function that are used to classify a pixel into these
+categories.
+oc ee
+CO-2 For the Scale Invariant Feature Transform (SIFT) algorithm, explain the 10]
+so- 1,6 | process of scale-space generation followed by the Difference of Gaussian
+
+RRR RRR RAE | RR RRR KEK
+--- page 2 ---
+(DoG) method. Illustrate it with a neat block diagram and suitable example
+
+BL- 5
+
+images.
+b Given the following grayscale image: *
+
+22 2 2 2 i
+222 2 2
+22 2 2 2
+
+Q3 22 2 2 2
+
+CO-2 22 2 2 2 ,
+
+i) Construct the integral image for the given input. [10]
+SO- 1,6 Pe . . ‘ . .
+BL-1.5 i) Using the integral image, compute the sum of pixels which are bold.
+
+How many additions and subtractions are required for summation.
+ul) Verify your answer using direct summation. How many additions are
+required?
+
+iv) State the advantage of using an integral image for such computations.
+
+a Describe the advantages and limitations of the K-Nearest Neighbor (KNN)
+algorithm. A dataset contains the following labeled points.
+Point (x, y) Class |
+Q4 Pl (1,2) Class 1
+CO-3 B2 (2,1) Class |
+SO- 1,6 P3 (2,4) Class 2 [10]
+BL-2 P4 (3,3) Class 2 .
+PS (6,5) Class 2
+| P6 (7,7) Class |
+
+A new point, P= (3,2) is to be classified using K-Nearest Neighbor (KNN)
+with Euclidean distance. Perform classification for K=1 and K = 3.
+
+os 3 ° Explain the process of background subtraction for motion tracking in a ;
+S0- 1.6 video using frame differencing. Also, illustrate how varying threshold {10]
+BL-5 > values affects the segmentation of foreground objects.
+Q5 a
+CO- 3 Derive optical flow equation for determining velocity vector, [Vx,Vy], £10]
+SO- 1,6 where Vx and Vy are velocities in X and Y direction respectively.
+BL- 4
+Q5 b *
+CO- 3 Explain the basic concept of Gaussian Mixture Modeling (GMM) for the: [10]
+SO- 1,6 generation of background.
+BL- 5 .
+Q6 a
+CO- 4 oo, . . ‘
+Describe in brief the any five challenges of Automated Visual Inspection (10]
+a a (AVI) systems using computer vision.
+Q6 b
+CO- 4 v For 2x2 transformation of image, explain flipping and mirroring 10]
+SO- 1,6 matrices and their effects.
+BL- 5
+Q7 a ’
+CO- 4 Show camera model and clearly showing extrinsic and intrinsic matrix and [10]
+SO- 1,6 world coordinates. Explain the role of extrinsic and intrinsic matrix.
+BL-3 |v
+Q7 b “Explain how epipolar geometry is used for matching key points in stereo | [10]
+CO- 4 | images, and illustrate the concept with suitable example images. Also,
+
+RRR RRR REE K DORR RRR KKK
+--- page 3 ---
+. .
+
+SO- 1,6 describe the epipolar constraint with reference to a point and _ its
+BL- 3 corresponding epipolar line. .
+
+RRR RRR RRR Qk RRR RHE
+````
+
+## 2025-26 · Re-Exam · Sem 7 · paper b3cd0d2b1551
+
+- Departments: Artificial Intelligence, Common (all branches), Data Science
+- Programmes: B TECH, B TECH / CSE DATA SCIENCE (311), MBA TECH / Artificial Intelligence
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSE DATA SCIENCE (311)/SEM-VII/COMPUTER VISION/Computer Vision, Sem-VII, Batch 2023-24 & 2024-25 Re Exam.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 86.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2025-2026 ;
+
+Program: B. Tech./ MBA Tech Stream: CSE(DS)/AI Year: TV Semester: VII
+
+Subject: Computer Vision Time: 3 _ hrs (jozeoamto 4:00pm)
+Date: 24 / ti _/2025 . No. of Pages: 4 -
+
+Marks: 100
+
+__ Re) Examination (23-24/24-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+(Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions. ( y
+
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks. . S
+5) Answer to each new question to be started on a fresh page. S
+
+“%, *
+6) Figures in brackets on the right hand side indicate full marks. EET
+
+7) Assume suitable data if necessary.
+
+Ql Answer briefly:
+CO-1; | a | What are the three key limitations of human vision, and how does computer vision | [05]
+SO-1; help to overcome these limitations?
+BL-4
+CO-2; | b_ | In SIFT algorithm, if the number of octaves is changed from 4 to 6, what effect will it | [05]
+SO-1; have on the length of the feature vector for orientation assignment of key points?
+BL-4
+|_ CO- c | Apply the mean-shift algorithm to the following image, using the given parameters: | [05]
+03.4; e Color bandwidth = 18, Threshold for convergence: distance between old and
+SO-1; ‘
+
+new means = 30
+
+BL-3 image = (5° 55 60 190 200 |
+g 53 45 202 196 205
+
+CO-1; | d_ | Briefly explain the concept of invariants, their types, and applications in 3D computer | [05]
+
+SO-1; vision.
+
+BL-2
+
+Answer any four from Q2 to Q7
+Q2 a_ | Elaborate on the typical steps involved in the process of recognition in computer | [10]
+. CO-4; vision. :
+
+SO-1; 4
+
+BL-2
+
+Page 1 of 4
+--- page 2 ---
+4 x
+
+CO-2; | b | Apply the following two Gaussian filters to update the pixels in the highlighted 3x3 | [10]
+SO-1; region of the given image. Do not update the non-highlighted boundary pixels.
+
+BL-5 Evaluate and compare the results obtained from both filters.
+. 1 2 2 111
+Gaussian filters, fi=wzl2 4 2) fh=—a]1 2 1
+ma 12 1 10 111
+Image:
+1] 1 1 1 1
+1] 5 5 5 | 1
+1 | 5 5 5] 1
+|
+1] 5 5 5 | 1
+1 1 1 1 1 .
+Q3 a_ | Perform the Harris Corner Detection on the following 5x5 grayscale image using the | [10]
+CO-2: filter below to determine whether a corner is present at the center pixel.
+SO-1; Given parameters: Harris constant k = 0.06, Threshold for corner response R > 20000
+BL-3 Vertical filter: Horizontal filter:
+1 0 -1 1 1 1
+1 0 -1 0 0 0
+1 0 -1 -1 -1 -1
+=
+Image:
+
+0 0 12 0 0
+
+0 0 12 0 0
+
+o | of}2]o0] 0
+
+0 0 12 0 0
+
+0 0 12 0 0
+
+t
+
+CO#3; | b | Perform K-means clustering with K = 2 on the following 3x3 grayscale image. | [10]
+
+SO-1; Use absolute distance on intensity values (1-D) and start with initial centroids C)=20
+
+BL-3 and C2=200. Perform iterations until convergence, showing the assignment step and
+centroid updates. Finally give the final cluster centers and the clustered image with
+labels for each pixel.
+
+;
+Page 2 of 4
+--- page 3 ---
+Image: a
+is | 22 | 20
+
+200 | 210 | 205
+
+19 21 18
+Q4 a | Apply the Speeded-Up Robust Features (SURF) method to perform keypoint [10]
+Sou detection by constructing a Hessian matrix for the highlighted region of the image.
+BL-3 (Given: The constant, W = 0.9, and the threshold = 15)
+
+rm
+
+I =
+mace 1 2 2 2 1
+1 1 1 1 1
+00 0 0 0 0 0 0 0 0
+0 1-2 1~°0 0 1 1 1 0
+G,=|0 1 -2 1 O|, G,=j]0 -—2 -2 —2 OF
+0 1-2 1 °0 0 1 1 1 O
+00 0 0 0 0 0 0 0 0
+
+oO 0 1 0-10
+Gy=|0 0 0 0 0
+
+CO-2; |b | Find the mean and standard deviation for the following pixel intensity values Xi(t), X2 | [10]
+SO-1; (t), X3(t), Xa(t), Xs(t) in an image observed for K=5 in a Gaussian Mixture Model
+BL-5 (GMM) and interpret the results.
+
+Page 3 of 4
+--- page 4 ---
+X,(t) = [5, 6,5]
+X(t) = [251, 252, 254)
+. X3(t) = (250, 249, 250)
+X(t) = (250, 250, 248)
+
+X5(t) = (0,0, 0]
+
+Q5 Write a note on essential matrix. Let the point in the first image be x and the [101)
+CO-1: corresponding point in the second image be x’. Use the following essential matrix E to
+SO-1; determine if the epipolar constraint is perfectly satisfied:
+
+BL-3 ,
+o -l1 Z 1 2
+E=]1 0 - 3 (7 ; v=[]
+—2 1 0 1 y
+CO-4; Discuss the crucial blocks including Perception, Analysis, and Response in |} [10]
+SO-1; surveillance systems.
+BL-2
+
+Q6 Compute epipolar line on the right image given the coordinates of point X and the | [10]
+
+CO-1: fundamental matrix F.
+
+Ts _ 321069: _f 95646 9 9658
+
+SO-1; 343.5300 0.00310695 came 2.96584
+
+BL-3 x = |221.7005 = | —0.028094 —0.00771621 56.3813 >)
+1 13.1905 —29.2007 —9999.79
+
+CO-4; Brief on various types of image acquisition systems available for vehicle vision | [10]
+
+SO-1; system.
+
+BL-2
+
+Q7 Explain the Correspondence problem in 3-dimensional vision. [10]
+
+CO-1;
+
+SO-1;
+
+BL-2
+
+CO-43 Enlist and explain the major challenges encountered in dry cereal grain quality | [10]
+SO-1; inspection from the perspective of computer vision.
+
+BL-2
+
+Page 4 of 4
+````
+
 ## 2024-25 · Final + Re-Exam · Sem 6 · paper f4eea022b2a9
 
 - Departments: Computer Engineering
@@ -3677,463 +4324,6 @@ BL- 3
 ********** 2 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 12 · paper b65e6b1fd15a
-
-- Departments: Computer Engineering
-- Programmes: Integrated Computer 7032
-- Source: `02_Question_Papers/2024/Sem_12/Re-Exam/Integrated_Computer_7032/Computer Vision/QP_Computer Vision(702AI0C017)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
-- Text: text (2 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI & DS)/B. Tech Intg. (CE)
-Year: III / VI/Semester VI/Semester XII(Exam Year: 2025-2026)
-Subject: Computer Vision
-Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 2 pages.
-2. Question No. 1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right-hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1   Answer briefly:   [20]
-CO- 4   a   In relation to epipolar geometry, explain epipolar constraint. Show how it
-SO- 1,6   [05]
-BL- 2   useful in matching key points.
-CO- 3   b.   Explain in brief any two advantages and two limitations of the K-Means
-SO- 1,6   [05]
-algorithm.
-BL- 5
-c.   Determine the integral image for the following image.
-CO- 2
-SO- 1,6   [05]
-BL- 4
-CO- 4   d.
-SO- 1,6   Explain two examples of mid-level processing.   [05]
-BL- 3
-a   Given the following gradient magnitude and orientation matrices, compute
-the histogram of oriented gradients using 9 bins (0–180°). Determine the
-HOG feature vector for the 4×4 image.
-Q2
-CO- 1
-SO- 1, 6   [10]
-BL- 5
-Gradient Magnitude   Gradient orientation (Ɵ)
-b   For Harris corner detector,
-Q2   i) Show with example images that Harris corner detector is invariant
-CO- 1   to rotation and variant to scaling   [10]
-SO- 1, 6   ii) Explain the steps involved in constructing Harris matrix and using
-BL- 5   corner response to determine whether the pixel is corner, edge or
-flat region.
-********** 1 **********
---- page 2 ---
-a
-Q3
-CO- 2   List the steps for extracting Scale-Invariant Feature Transform (SIFT)   [10]
-SO- 1, 6   features from an image, and describe key point localization in detail.
-BL- 5
-Q3   b
-For Speeded-Up Robust Features (SURF), explain the scale space
-CO- 2   generation for feature detection and justify in brief that it is computationally   [10]
-SO- 1, 6
-BL- 1,5   efficient.
-a   Explain the Mean Shift clustering algorithm with reference to the
-Q4   following aspects:
-i) The working procedure of the algorithm and criteria for convergence
-CO- 3   ii) Effect of large and small bandwidth   [10]
-SO- 1, 6
-iii) The advantages and limitations of Mean Shift
-BL- 2
-Support your explanation with a suitable example plots of data points
-Q4   b
-CO- 3   Describe how Gaussian Mixture model is used to generate background   [10]
-SO- 1,6   model.
-BL- 5
-Q5   a
-Show the concept of optical flow. Compare dense and sparse optical flow
-CO- 3   [10]
-SO- 1,6   with suitable example images.
-BL- 4
-Q5   b
-CO- 3   Describe how background frame is generated using temporal average. Also   [10]
-SO- 1,6   show how background subtraction is used generate foreground of the image.
-BL- 5
-Q6   a
-Explain any five challenges of implementing a cereal grain inspection
-CO- 4   [10]
-SO- 1,6   system using computer vision.
-BL- 2
-Q6   b   Show how 2D Cartesian coordinates are converted to 3D homogeneous
-CO- 4   coordinates and vice versa. Convert the point (3,4) from Cartesian to   [10]
-SO- 1,6   homogeneous form. Also, determine the corresponding 2D Cartesian
-BL- 5   coordinates for the homogeneous point (9,12,3).
-a   Explain in brief the following:
-Q7   • World coordinate system
-CO- 4   • Camera coordinate system   [10]
-SO- 1, 6
-BL- 3   • Image coordinate system
-•   Pixel coordinate system
-Q7   b
-Draw a labeled sketch of epipolar geometry and explain it with reference to
-CO- 4   [10]
-SO- 1,6   points, epipolar lines, and the essential and fundamental matrices.
-BL- 3
-********** 2 **********
-````
-
-## 2024-25 · Re-Exam · Sem 6 · paper 870798f8af40
-
-- Departments: Artificial Intelligence, Computer Engineering, Data Science
-- Programmes: B TECH / ARTIFICAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / DATA SCIENCE, B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/COMPUTER VISION/Computer Vision Batch 2023-24,2024-25 Re Exam.pdf` (+6 identical copies)
-- Printed on paper: max marks: 100; exam date: 06 July 2026
-- Text: ocr (3 pages), mean OCR confidence 78.9
-
-````text
-SVKM’S NMIMS rs
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Academic Year: 2025-26
-Program: B.Tech/ B Tech Intg.(COMP/AI&DS)
-
-Subject: COMPUTER VISION °
-Date : 06 July 2026
-Marks: 100
-Re-Exam (2023-24/2024-25)
-Instructions:
-
-1. This question paper contains 3 pages.
-
-2. Question No. | is compulsory.
-
-3. Out of remaining questions, attempt any 4 questions.
-
-4. In all 5 questions to be attempted.
-
-5. All questions carry equal marks.
-
-6. Answer to each new question to be started on a fresh page.
-
-7. Figures in brackets on the right-hand side indicate full marks.
-
-8. Assume Suitable data if necessary. t
-Ql Answer briefly (20] ‘
-CO- 4 a. ° i
-SO- 1,6 Describe the limitations of human vision using examples. {05S]
-
-BL- 2
-COz3 b. . . : .
-S0- 1.6 For mean shift algorithm, show the effect of large and small bandwidth of [05]
-BL-5 , window (kernel function). Explain it with suitable plots
-CO- 2 c. ar : |
-SO- 1,6 Compare Scale Invariant Feature Transform (SIFT) and Speeded-Up Robust }- [05]
-BL-4 Features (SURF)
-CO- 4 d.
-SO- 1,6 Explain in brief Image Rectification. [05]
-BL- 3
-Q2 a
-CO- | List the steps to determine Histogram of Gradients (HoG) as a feature for
-SO- 1,6 the image. Explain each step in brief. {10]
-BL- 5
-b Given the following image gradients for a 3x3 window centered at a pixel: |
-_ |2 2 2 121i.
-2 2 2 15 1
-29 3 Lil
-Q2
-CO- | Gradient in x direction, Ix Gradient in x direction, ly [10] —
-SO- 1,6 “ i) Construct Harris corner matrix and determine corner response.
-BL-5 Assume constant, k = 0.04 and threshold = 100. =
-ii) Determine whether the given pixel corresponds to a corner, edge,
-or flat region. Also, spectfy the conditions based on the corner =
-response function that are used to classify a pixel into these
-categories.
-oc ee
-CO-2 For the Scale Invariant Feature Transform (SIFT) algorithm, explain the 10]
-so- 1,6 | process of scale-space generation followed by the Difference of Gaussian
-
-RRR RRR RAE | RR RRR KEK
---- page 2 ---
-(DoG) method. Illustrate it with a neat block diagram and suitable example
-
-BL- 5
-
-images.
-b Given the following grayscale image: *
-
-22 2 2 2 i
-222 2 2
-22 2 2 2
-
-Q3 22 2 2 2
-
-CO-2 22 2 2 2 ,
-
-i) Construct the integral image for the given input. [10]
-SO- 1,6 Pe . . ‘ . .
-BL-1.5 i) Using the integral image, compute the sum of pixels which are bold.
-
-How many additions and subtractions are required for summation.
-ul) Verify your answer using direct summation. How many additions are
-required?
-
-iv) State the advantage of using an integral image for such computations.
-
-a Describe the advantages and limitations of the K-Nearest Neighbor (KNN)
-algorithm. A dataset contains the following labeled points.
-Point (x, y) Class |
-Q4 Pl (1,2) Class 1
-CO-3 B2 (2,1) Class |
-SO- 1,6 P3 (2,4) Class 2 [10]
-BL-2 P4 (3,3) Class 2 .
-PS (6,5) Class 2
-| P6 (7,7) Class |
-
-A new point, P= (3,2) is to be classified using K-Nearest Neighbor (KNN)
-with Euclidean distance. Perform classification for K=1 and K = 3.
-
-os 3 ° Explain the process of background subtraction for motion tracking in a ;
-S0- 1.6 video using frame differencing. Also, illustrate how varying threshold {10]
-BL-5 > values affects the segmentation of foreground objects.
-Q5 a
-CO- 3 Derive optical flow equation for determining velocity vector, [Vx,Vy], £10]
-SO- 1,6 where Vx and Vy are velocities in X and Y direction respectively.
-BL- 4
-Q5 b *
-CO- 3 Explain the basic concept of Gaussian Mixture Modeling (GMM) for the: [10]
-SO- 1,6 generation of background.
-BL- 5 .
-Q6 a
-CO- 4 oo, . . ‘
-Describe in brief the any five challenges of Automated Visual Inspection (10]
-a a (AVI) systems using computer vision.
-Q6 b
-CO- 4 v For 2x2 transformation of image, explain flipping and mirroring 10]
-SO- 1,6 matrices and their effects.
-BL- 5
-Q7 a ’
-CO- 4 Show camera model and clearly showing extrinsic and intrinsic matrix and [10]
-SO- 1,6 world coordinates. Explain the role of extrinsic and intrinsic matrix.
-BL-3 |v
-Q7 b “Explain how epipolar geometry is used for matching key points in stereo | [10]
-CO- 4 | images, and illustrate the concept with suitable example images. Also,
-
-RRR RRR REE K DORR RRR KKK
---- page 3 ---
-. .
-
-SO- 1,6 describe the epipolar constraint with reference to a point and _ its
-BL- 3 corresponding epipolar line. .
-
-RRR RRR RRR Qk RRR RHE
-````
-
-## 2024-25 · Re-Exam · Sem 7 · paper b3cd0d2b1551
-
-- Departments: Artificial Intelligence, Common (all branches), Data Science
-- Programmes: B TECH, B TECH / CSE DATA SCIENCE (311), MBA TECH / Artificial Intelligence
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSE DATA SCIENCE (311)/SEM-VII/COMPUTER VISION/Computer Vision, Sem-VII, Batch 2023-24 & 2024-25 Re Exam.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 86.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2025-2026 ;
-
-Program: B. Tech./ MBA Tech Stream: CSE(DS)/AI Year: TV Semester: VII
-
-Subject: Computer Vision Time: 3 _ hrs (jozeoamto 4:00pm)
-Date: 24 / ti _/2025 . No. of Pages: 4 -
-
-Marks: 100
-
-__ Re) Examination (23-24/24-25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-(Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions. ( y
-
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks. . S
-5) Answer to each new question to be started on a fresh page. S
-
-“%, *
-6) Figures in brackets on the right hand side indicate full marks. EET
-
-7) Assume suitable data if necessary.
-
-Ql Answer briefly:
-CO-1; | a | What are the three key limitations of human vision, and how does computer vision | [05]
-SO-1; help to overcome these limitations?
-BL-4
-CO-2; | b_ | In SIFT algorithm, if the number of octaves is changed from 4 to 6, what effect will it | [05]
-SO-1; have on the length of the feature vector for orientation assignment of key points?
-BL-4
-|_ CO- c | Apply the mean-shift algorithm to the following image, using the given parameters: | [05]
-03.4; e Color bandwidth = 18, Threshold for convergence: distance between old and
-SO-1; ‘
-
-new means = 30
-
-BL-3 image = (5° 55 60 190 200 |
-g 53 45 202 196 205
-
-CO-1; | d_ | Briefly explain the concept of invariants, their types, and applications in 3D computer | [05]
-
-SO-1; vision.
-
-BL-2
-
-Answer any four from Q2 to Q7
-Q2 a_ | Elaborate on the typical steps involved in the process of recognition in computer | [10]
-. CO-4; vision. :
-
-SO-1; 4
-
-BL-2
-
-Page 1 of 4
---- page 2 ---
-4 x
-
-CO-2; | b | Apply the following two Gaussian filters to update the pixels in the highlighted 3x3 | [10]
-SO-1; region of the given image. Do not update the non-highlighted boundary pixels.
-
-BL-5 Evaluate and compare the results obtained from both filters.
-. 1 2 2 111
-Gaussian filters, fi=wzl2 4 2) fh=—a]1 2 1
-ma 12 1 10 111
-Image:
-1] 1 1 1 1
-1] 5 5 5 | 1
-1 | 5 5 5] 1
-|
-1] 5 5 5 | 1
-1 1 1 1 1 .
-Q3 a_ | Perform the Harris Corner Detection on the following 5x5 grayscale image using the | [10]
-CO-2: filter below to determine whether a corner is present at the center pixel.
-SO-1; Given parameters: Harris constant k = 0.06, Threshold for corner response R > 20000
-BL-3 Vertical filter: Horizontal filter:
-1 0 -1 1 1 1
-1 0 -1 0 0 0
-1 0 -1 -1 -1 -1
-=
-Image:
-
-0 0 12 0 0
-
-0 0 12 0 0
-
-o | of}2]o0] 0
-
-0 0 12 0 0
-
-0 0 12 0 0
-
-t
-
-CO#3; | b | Perform K-means clustering with K = 2 on the following 3x3 grayscale image. | [10]
-
-SO-1; Use absolute distance on intensity values (1-D) and start with initial centroids C)=20
-
-BL-3 and C2=200. Perform iterations until convergence, showing the assignment step and
-centroid updates. Finally give the final cluster centers and the clustered image with
-labels for each pixel.
-
-;
-Page 2 of 4
---- page 3 ---
-Image: a
-is | 22 | 20
-
-200 | 210 | 205
-
-19 21 18
-Q4 a | Apply the Speeded-Up Robust Features (SURF) method to perform keypoint [10]
-Sou detection by constructing a Hessian matrix for the highlighted region of the image.
-BL-3 (Given: The constant, W = 0.9, and the threshold = 15)
-
-rm
-
-I =
-mace 1 2 2 2 1
-1 1 1 1 1
-00 0 0 0 0 0 0 0 0
-0 1-2 1~°0 0 1 1 1 0
-G,=|0 1 -2 1 O|, G,=j]0 -—2 -2 —2 OF
-0 1-2 1 °0 0 1 1 1 O
-00 0 0 0 0 0 0 0 0
-
-oO 0 1 0-10
-Gy=|0 0 0 0 0
-
-CO-2; |b | Find the mean and standard deviation for the following pixel intensity values Xi(t), X2 | [10]
-SO-1; (t), X3(t), Xa(t), Xs(t) in an image observed for K=5 in a Gaussian Mixture Model
-BL-5 (GMM) and interpret the results.
-
-Page 3 of 4
---- page 4 ---
-X,(t) = [5, 6,5]
-X(t) = [251, 252, 254)
-. X3(t) = (250, 249, 250)
-X(t) = (250, 250, 248)
-
-X5(t) = (0,0, 0]
-
-Q5 Write a note on essential matrix. Let the point in the first image be x and the [101)
-CO-1: corresponding point in the second image be x’. Use the following essential matrix E to
-SO-1; determine if the epipolar constraint is perfectly satisfied:
-
-BL-3 ,
-o -l1 Z 1 2
-E=]1 0 - 3 (7 ; v=[]
-—2 1 0 1 y
-CO-4; Discuss the crucial blocks including Perception, Analysis, and Response in |} [10]
-SO-1; surveillance systems.
-BL-2
-
-Q6 Compute epipolar line on the right image given the coordinates of point X and the | [10]
-
-CO-1: fundamental matrix F.
-
-Ts _ 321069: _f 95646 9 9658
-
-SO-1; 343.5300 0.00310695 came 2.96584
-
-BL-3 x = |221.7005 = | —0.028094 —0.00771621 56.3813 >)
-1 13.1905 —29.2007 —9999.79
-
-CO-4; Brief on various types of image acquisition systems available for vehicle vision | [10]
-
-SO-1; system.
-
-BL-2
-
-Q7 Explain the Correspondence problem in 3-dimensional vision. [10]
-
-CO-1;
-
-SO-1;
-
-BL-2
-
-CO-43 Enlist and explain the major challenges encountered in dry cereal grain quality | [10]
-SO-1; inspection from the perspective of computer vision.
-
-BL-2
-
-Page 4 of 4
-````
-
 ## 2024-25 · Re-Exam · Sem 7 · paper be9f3bdaa146
 
 - Departments: Data Science, Electronics and Telecommunication
@@ -4364,6 +4554,7 @@ Page 5 of 5
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/COMPUTER VISION/Computer Vision, Sem-VI, Fianal 2023-24.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27/04 /2024
 - Text: ocr (4 pages), mean OCR confidence 82.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _ SVKM’S NMIMS _
@@ -4536,199 +4727,7 @@ Q7 b . . . P ser
 aca Justify the use of image rectification for searching corresponding points. Show the
 
 ; ‘steps of generating rectified images : [10]
-SO-1,6; ps of g g g . .
 BL-2, 6
-````
-
-## 2023-24 · Exam not stated · Sem 7 · paper 25e34ee908f9
-
-- Departments: Artificial Intelligence, Data Science
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE (311)
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ARTIFICIAL INTELLIGENCE/SEM-VII/COMPUTER VISION/B Tech, MBA Tech, (CSE-DS(311),AI), Computer Vision, Sem-VII, Batch 2023-2024 & 2_3d965e05.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 87.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING
-Academic Year: 2025-2026
-
-Program: B. Tech./ MBA Tech Stream: CSE(DS)/AI Year: TV Semester: VII
-
-Subject: Computer Vision Time: 3 _ hrs (\ozonanto 4.00pm)
-Date: _24 / \ /2025 No. of Pages: 4
-
-Marks: 100
-
-_ Re] Examination (23-24/24-25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql Answer briefly:
-CO-1; | a | What are the three key limitations of human vision, and how does computer vision | [05]
-SO-1; help to overcome these limitations?
-BL-4
-CO-2; | b | In SIFT algorithm, if the number of octaves is changed from 4 to 6, what effect will it | [05]
-SO-1; have on the length of the feature vector for orientation assignment of key points?
-BL-4
-
-COo- c | Apply the mean-shift algorithm to the following image, using the given parameters: | [05]
-
-3,4; e Color bandwidth = 18, Threshold for convergence: distance between old and
-SO-1; new means = 30
-BL-3 _ —50 55 60 190 200
-
-Image = [ex 4s 202 196 2051
-
-CO-1; | d_ | Briefly explain the concept of invariants, their types, and applications in 3D computer | [05]
-
-SO-1; vision.
-BL-2
-Answer any four from Q2 to Q7
-Q2 a | Elaborate on the typical steps involved in the process of recognition in computer | [10]
-CO-4: vision.
-SO-1;
-BL-2
-
-Page 1 of 4
---- page 2 ---
-CO-2; [| b_ | Apply the following two Gaussian filters to update the pixels in the highlighted 3x3 [10]
-
-SO-1; region of the given image. Do not update the non-highlighted boundary pixels.
-BL-5 Evaluate and compare the results obtained from both filters.
-12 1 ,fi 1 1
-Gaussian filters, fi=xl2 4 2,fh=a]1 2 1
-lr 24 Mir 44
-Image:
-1} 1 1 1] 1
-1);,5]5 15] 1
-1 5 5 5 1
-1 5 5 5 1
-1 1 1 1 1
-Q3 a | Perform the Harris Corner Detection on the following 5x5 grayscale image using the | [10]
-CO-2: filter below to determine whether a corner is present at the center pixel.
-SO-1; Given parameters: Harris constant k = 0.06, Threshold for corner response R > 20000
-BL-3 Vertical filter: Horizontal filter:
-1 0 -1 1 1 1
-1 0 -l 0 0 0
-1 0 -1 -l -1 -1
-
-0 0 12 0 0
-
-0 0 12 0 0
-
-o | o | 2] 0 4] 0
-o | o | 12 | 0 | Oo
-
-0 0 12 0 0
-
-CO-3;| b | Perform K-means clustering with K = 2 on the following 3x3 grayscale image. [10]
-
-SO-1; Use absolute distance on intensity values (1-D) and start with initial centroids C1=20
-
-BL-3 and C2=200. Perform iterations until convergence, showing the assignment step and
-centroid updates. Finally give the final cluster centers and the clustered image with
-
-labels for each pixel.
-
-Page 2 of 4
---- page 3 ---
-Image:
-18 22 20
-
-200 | 210 | 205
-
-19 21 18
-Q4 a_ | Apply the Speeded-Up Robust Features (SURF) method to perform keypoint [10]
-Son. detection by constructing a Hessian matrix for the highlighted region of the image.
-BL-3 (Given: The constant, W = 0.9, and the threshold = 15)
-
-Image =
-
-1 2 2 2 1
-
-1 1 1 1 1
-00 0 0 0 0 0 0 0 0
-01-2 1,0 0 1 1 1 £40
-
-G,=|0 1 -2 1 O}|, G,=j]0 -—2 -2 —2 OF,
-
-01-210 0 1 1 1 £=+0
-00 0 0 0 0 0 0 0 0
-
-0 0 0 0 0
-0 1 0-10
-Gy=|0 0 0 0 0
-0-10 1 0
-0 0 0 0 0
-
-CO-2;| b | Find the mean and standard deviation for the following pixel intensity values Xi(t), X2 | [10]
-SO-1; (t), Xa(t), X(t), Xs(t) in an image observed for K=5 in a Gaussian Mixture Model
-BL-5 (GMM) and interpret the results. ;
-
-Page 3 of 4
---- page 4 ---
-Xi (t) = [5,6,5]
-X(t) = [251, 252, 254]
-X4(t) = [250,.249, 250)
-X4(t) = [250, 250, 248)
-
-X3(t) = (0, 0, 0]
-
-Q5 a_ | Write a note on essential matrix. Let the point in the first image be x and the | [10]
-CO-1: corresponding point in the second image be x’. Use the following essential matrix E to
-S0-1: determine if the epipolar constraint is perfectly satisfied:
-
-BL-3
-
-0 -1 2 1 2
-e-([1 0 “1 ; =[P ; x'=]1
-—2 #1 0 1 1
-
-co-4; | b | Discuss the crucial blocks including Perception, Analysis, and Response in | [10]
-
-SO-1; surveillance systems.
-BL-2
-
-Q6 a | Compute epipolar line on the right image given the coordinates of point X and the | [10]
-CO-1: fundamental matrix F.
-
-SO-1; 343.5300 —0.00310695 —0.0025646 2.96584
-
-BL-3 y= 221.7005} F=| —0.028094 —0.00771621 56.3813
-
-1 13.1905 —29.2007 —9999.79
-
-CO-4; | b | Brief on various types of image acquisition systems available for vehicle vision | [10]
-SO-1; system.
-
-BL-2
-
-Q7 a | Explain the Correspondence problem in 3-dimensional vision. [10]
-CO-1;
-SO-1;
-
-BL-2
-CO-4; | b | Enlist and explain the major challenges encountered in dry cereal grain quality | [10]
-SO-1; inspection from the perspective of computer vision.
-
-BL-2
-
-Page 4 of 4
 ````
 
 ## 2023-24 · Final-Exam · Sem 7 · paper 6d4cc77993a2
@@ -4989,6 +4988,7 @@ fage2—
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ARTIFICIAL INTELLIGENCE/SEM-VII/COMPUTER VISION/Computer Vision, Sem-VII, Year 2023-24, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 86.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 [PSTME
@@ -5114,7 +5114,6 @@ Cco-2 0;0/0/0/0/0;0);0)}0
 1 }1 J. |-2]-2]-2}1 |1 J 1
 SO-1 0/0 Jo ;2/2]2 1/0 Ifo fo
 BL-6 1] 1 Ji [-2]-2]-2}1 71 J 1
-070 )0/2/2/2)0)0)0 |i yi ti faf2t2ti a fa
 0/0;0;/2;/2/2/o0};o]}o]}i fl fl | -24-2]-2]}2 f1
 Ololol2t2iztiolololli {i fi [-24)-2}2]1 [1 ]1
 0 {0/0 }0 }0 |0 }0 |}0 |0
@@ -5168,6 +5167,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/COMPUTER VISION/Computer Networks, Sem-V, Batch 2022-23, 2023-24, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06/02/2024
 - Text: ocr (7 pages), mean OCR confidence 89.1
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 L
@@ -5296,9 +5296,7 @@ rdt_send() call at the sender (with no messages initially in the channel) , and
 re
 possible later message corruption and subsequent error recovery?
 
-0) rdt_send(data) rdt_rov(revpkt) &&
 sndpkt = make_pkt(0, data, checksum) _( corrupt(rcvpkt) |]
-udt_send(sndpkt) isACK(revpkt,1
 
 Gay ‘dt_rev(revpkt)
 A meen
@@ -5313,13 +5311,10 @@ stop_timer
 5 timeout _
 Shee ee send(sndpkt)
 start_timer
-rdt_rov(revpkt) && er jeeend (Gata)
 ( corrupt(revpkt) || ndpkt = make_pkt(1, data, checksum)
 
-isACK(revpkt,0) ) ‘udt_send(sndpkt)
 start_timer
 
-rdt_rcev(revpkt) && notcorrupt (revpkt )
 && has_seq0(revpkt)
 
 extract (revpkt ,data)
@@ -5337,12 +5332,10 @@ wt.zoimms >a, RDT 3.0 2g
 
 (corrupt (revpkt) | | n
 O fr ir
-_9eql (rcvpkt)) Below: a ka 2 . 2 bay
 see Nes T checksum) receiver
 
 sasgpecciterspys) NE” ‘
 
-rdt_rev(revpkt) && notcorrupt (rcvpkt )
 && has_seql(revpkt)
 
 rdt_rev(revpkt)
@@ -5410,7 +5403,6 @@ a CO-4; SO- at different multiple access wireless nodes at times t = 0.3, 1.7, 1
 1;BL-2 Each transmission requires exactly one time unit.
 --- page 6 ---
 i. 23 4 > 6 ¥
-e eo ® es e@ a
 
 =0.0 1.0 2.0 13.0
 
@@ -5650,6 +5642,99 @@ Write short notes on
 CO-4; .
 5.3 (i) Depth estimation using rectified images in 3D vision [10]
 “a 3 (ii) 8-point algorithm to estimate fundamental matrix ~
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper 8111c8988456
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/COMPUETR VISION/Computer Vision_8111c89884.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 /05 / 23
+- Text: ocr (2 pages), mean OCR confidence 90.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program/s: MBA Tech. Year: III Semester: VI
+
+Stream/s: CE
+
+Subject: Computer Vision Time: 3 hrs. (2.00 pm. To 5.00pm.)
+Date:02 /05 / 23 No. of Pages:2
+
+Marks:100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO-3; SO- | (a) / [
+en What is classification error and how is it calculated? Provide an example. [5]
+CO-2; SO- | (b) .
+
+What is a texel and how are they used? [5]
+1,2;BL-1,2
+CO-2; SO- | (c)
+eae What are the advantages and disadvantages of using HOG as a feature descriptor? | [5]
+CO- 3; SO- | (d) . : = ' ;
+Laer Describe the concept of optical flow and how it is used for motion segmentation. | [5]
+Q2 Answer below questions: [20]
+a (a) What is overfitting in the context of classification? How does it impact | [10]
+4 a (b) classification error and how can it be addressed?
+a, i What is the Scale-Invariant Feature Transform (SIFT) algorithm and how is it used
+
+in object recognition? [10]
+
+Q3 Answer below questions: [20]
+--- page 2 ---
+(a) Explain how the choice of parameters, such as the window size and the | [10]
+
+Soin regularization parameter, can impact the performance of the optical flow algorithm.
+BL23 (b) Explain how machine learning-based methods, such as support vector machines or
+deep learning, can be used for brain tumor detection. [10]
+Q4 Answer below questions: [20]
+C0-2,4; (a) Explain how the choice of parameters, such as the cell size and block size, can | [10]
+$0-1,2; impact the performance of the HOG descriptor.
+BL23 (b) How can deformable object detection be used for applications such as facial
+expression recognition or object tracking? [10]
+Q5 Answer below questions: [20]
+(a) -| Consider the below matrix and calculate magnitude and Orientation for the point
+underlined and bold. [10]
+120 |20 | 89 | 96 | 122
+58 | 160 | 69 | 120 | 110
+cal 145 |78 | 85 | 80 | 70
+BL-2,3 190 | 215 | 56 | 200 | 66
+214 |97 | 45 | 102 | 45
+(b) What is a gray-level co-occurrence matrix? How can they be used for texture [10]
+discrimination?
+Q6 Answer below questions: [20]
+C0-2,3: What are the advantages and disadvantages of using an overlapping versus a non- | [10]
+$0-1,2; (a) overlapping sliding window approach?
+BL-1,2,3
+(b) Explain the concept of feature extraction and how it is used in object recognition. | [10]
+Q7 Answer below questions: [20]
+C0-23; (a) How can texture features be used for tasks such as texture classification and | [10]
+50-1,2; segmentation? Provide an example.
+BL-1,2,3
+
+(b) Describe the steps involved in computing the SURF descriptor for an image patch. | [10]
 ````
 
 ## 2022-23 · Final-Exam · Sem 2 · paper 94fbb9f28f21
@@ -6135,100 +6220,7 @@ is. Use existing code to generate images and outputs. (20 Marks)
 ae
 ````
 
-## Year not stated · Exam not stated · Sem 6 · paper 8111c8988456
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/COMPUETR VISION/Computer Vision_8111c89884.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 /05 / 23
-- Text: ocr (2 pages), mean OCR confidence 90.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program/s: MBA Tech. Year: III Semester: VI
-
-Stream/s: CE
-
-Subject: Computer Vision Time: 3 hrs. (2.00 pm. To 5.00pm.)
-Date:02 /05 / 23 No. of Pages:2
-
-Marks:100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-CO-3; SO- | (a) / [
-en What is classification error and how is it calculated? Provide an example. [5]
-CO-2; SO- | (b) .
-
-What is a texel and how are they used? [5]
-1,2;BL-1,2
-CO-2; SO- | (c)
-eae What are the advantages and disadvantages of using HOG as a feature descriptor? | [5]
-CO- 3; SO- | (d) . : = ' ;
-Laer Describe the concept of optical flow and how it is used for motion segmentation. | [5]
-Q2 Answer below questions: [20]
-a (a) What is overfitting in the context of classification? How does it impact | [10]
-4 a (b) classification error and how can it be addressed?
-a, i What is the Scale-Invariant Feature Transform (SIFT) algorithm and how is it used
-
-in object recognition? [10]
-
-Q3 Answer below questions: [20]
---- page 2 ---
-(a) Explain how the choice of parameters, such as the window size and the | [10]
-
-Soin regularization parameter, can impact the performance of the optical flow algorithm.
-BL23 (b) Explain how machine learning-based methods, such as support vector machines or
-deep learning, can be used for brain tumor detection. [10]
-Q4 Answer below questions: [20]
-C0-2,4; (a) Explain how the choice of parameters, such as the cell size and block size, can | [10]
-$0-1,2; impact the performance of the HOG descriptor.
-BL23 (b) How can deformable object detection be used for applications such as facial
-expression recognition or object tracking? [10]
-Q5 Answer below questions: [20]
-(a) -| Consider the below matrix and calculate magnitude and Orientation for the point
-underlined and bold. [10]
-120 |20 | 89 | 96 | 122
-58 | 160 | 69 | 120 | 110
-cal 145 |78 | 85 | 80 | 70
-BL-2,3 190 | 215 | 56 | 200 | 66
-214 |97 | 45 | 102 | 45
-(b) What is a gray-level co-occurrence matrix? How can they be used for texture [10]
-discrimination?
-Q6 Answer below questions: [20]
-C0-2,3: What are the advantages and disadvantages of using an overlapping versus a non- | [10]
-$0-1,2; (a) overlapping sliding window approach?
-BL-1,2,3
-(b) Explain the concept of feature extraction and how it is used in object recognition. | [10]
-Q7 Answer below questions: [20]
-C0-23; (a) How can texture features be used for tasks such as texture classification and | [10]
-50-1,2; segmentation? Provide an example.
-BL-1,2,3
-
-(b) Describe the steps involved in computing the SURF descriptor for an image patch. | [10]
-````
-
-## Year not stated · Exam not stated · Trim 2 · ZIP of papers · paper 206e14150bbb · COMPUTER VISION.pdf
+## 2011-12 · Exam not stated · Trim 2 · ZIP of papers · paper 206e14150bbb · COMPUTER VISION.pdf
 
 - Departments: Information Technology
 - Programmes: M TECH / I T

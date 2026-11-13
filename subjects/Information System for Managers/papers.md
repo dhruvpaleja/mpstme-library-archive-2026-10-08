@@ -436,6 +436,68 @@ y »
 i
 ````
 
+## 2012-13 · Exam not stated · Trim 8 · paper 6c241c46f249
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INFORMATION SYSTMES AND MENAGERS/INFORMATION SYSTEMS FOR MANAGERSscan0017.pdf` (+1 identical copies)
+- Printed on paper: exam date: 21/01/2013
+- Text: ocr (1 page), mean OCR confidence 93.9
+
+````text
+Y
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Ey
+
+Programme: MBA(Tech) (ALL STREAMS) Year: II Trime rae
+Academic Year :2012-2013 4%
+
+Batch: 2011-2012
+
+Subject: Information Systems for Managers Ma tag ad
+Ti
+
+Date: 21/01/2013 Duy
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+And on the cover of the Answer Book, which is provided for their use.
+
+1. Attempt Any Five questions.
+2. Answer to each new question to be started on fresh page.
+3. All questions carry equal marks (10 marks).
+
+Q.1. Explain the strengths of SCM and why it is necessary for a business unit with suitable examples.
+
+Q.2. Write short note on: (Any One)
+a. Decision Support System
+
+b. Ethics in an Information Society
+c. Business Intelligence
+
+Q.3. What is Marketing Information System? Explain the Information System used at Operational level
+for Marketing deptt.
+
+Q.4. Explain in detail (Any One) the following Information Systems:
+a. Railway reservation system.
+
+} b. Point of sale system.
+c. Account receivable system.
+
+Q.5. Define ERP, enabling technologies, implementation methodologies and importance of Business
+process reengineering in it. Enlist the available software packages in market based upon ERP concept.
+
+Q.6. Why there is a rise in Internet Computer frauds? Give examples of some of the Internet frauds.
+
+¢
+
+Q.7. State and explain Intellectual Property Rights. What are three different regimes that protect
+intellectual property rights?
+````
+
 ## 2012-13 · Final-Exam · Trim 8 · paper 517597a11823
 
 - Departments: Chemical, Information Technology
@@ -1114,66 +1176,4 @@ O6b) Explain the various Operating System Platforms which are present today?
 Does Product Devetopment differ from Application Development? If yes, explain.
 
 | [28 Marks]
-````
-
-## Year not stated · Exam not stated · Trim 8 · paper 6c241c46f249
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INFORMATION SYSTMES AND MENAGERS/INFORMATION SYSTEMS FOR MANAGERSscan0017.pdf` (+1 identical copies)
-- Printed on paper: exam date: 21/01/2013
-- Text: ocr (1 page), mean OCR confidence 93.9
-
-````text
-Y
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Ey
-
-Programme: MBA(Tech) (ALL STREAMS) Year: II Trime rae
-Academic Year :2012-2013 4%
-
-Batch: 2011-2012
-
-Subject: Information Systems for Managers Ma tag ad
-Ti
-
-Date: 21/01/2013 Duy
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-And on the cover of the Answer Book, which is provided for their use.
-
-1. Attempt Any Five questions.
-2. Answer to each new question to be started on fresh page.
-3. All questions carry equal marks (10 marks).
-
-Q.1. Explain the strengths of SCM and why it is necessary for a business unit with suitable examples.
-
-Q.2. Write short note on: (Any One)
-a. Decision Support System
-
-b. Ethics in an Information Society
-c. Business Intelligence
-
-Q.3. What is Marketing Information System? Explain the Information System used at Operational level
-for Marketing deptt.
-
-Q.4. Explain in detail (Any One) the following Information Systems:
-a. Railway reservation system.
-
-} b. Point of sale system.
-c. Account receivable system.
-
-Q.5. Define ERP, enabling technologies, implementation methodologies and importance of Business
-process reengineering in it. Enlist the available software packages in market based upon ERP concept.
-
-Q.6. Why there is a rise in Internet Computer frauds? Give examples of some of the Internet frauds.
-
-¢
-
-Q.7. State and explain Intellectual Property Rights. What are three different regimes that protect
-intellectual property rights?
 ````

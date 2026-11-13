@@ -4,13 +4,6 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2025-26 · Final-Exam · Sem 10 · Dataset · paper 46398d558c4e
-
-- Departments: Computer Engineering
-- Programmes: Integrated Computer 7032
-- Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Computer_7032/Data Analytics/data_set_Data Analytics(702DB0I001)_2025-2026.xlsx`
-- Text: none (spreadsheet data set; no question text)
-
 ## 2025-26 · Final-Exam · Sem 9 · paper b03e7c73650d
 
 - Departments: Computer Engineering, Information Technology, Mechanical
@@ -883,6 +876,13 @@ Significance level
 3.496
 ````
 
+## 2025-26 · Final-Exam · Sem 10 · Dataset · paper 46398d558c4e
+
+- Departments: Computer Engineering
+- Programmes: Integrated Computer 7032
+- Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Computer_7032/Data Analytics/data_set_Data Analytics(702DB0I001)_2025-2026.xlsx`
+- Text: none (spreadsheet data set; no question text)
+
 ## 2024-25 · Final-Exam · Sem 5 · paper 8da063ae9433
 
 - Departments: Common (all branches)
@@ -1040,6 +1040,7 @@ o
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/All Stream/Data Analytics/Data Analytics Batch 2024-25 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; exam date: 25/2/2025
 - Text: ocr (4 pages), mean OCR confidence 86.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1112,7 +1113,6 @@ Q3 - ta Explain the importance of KDD in data analy. he different | [10] |
 co- 1 |
 BL-2
 3 b A dataset is given beiow: 5*2)
-Sas raat Ee Tae eee Fe =]
 Co-2 eee Puce !
 B 80
 7 = ; i oe

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE Data Science (311)/SEM-V/DESIGN FOR C ONSUMERS/Design for Consumers, Sem-V, Year 2025-26, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -83,7 +84,6 @@ Q5. Case Study Evaluation —- Consumer-Centric Design (20 Marks)
 2. Discuss how the company applies the design process and design thinking to its products. (5 Marks)
 
 3. Explain the role of ergonomics and form language in shaping consumer experience. (5 Marks)
-4+ Ex dain one stig A ld howe idleytRredk Cinboreund) ase Prablem/ pain poi.”
 Now We Com Yesol¥e fi Can Ucetch the idea aswell CSmoy ks’) -
 Q6. Product Redesign Exercise (Sketch-Based) (20 Marks)
 1. Choose an everyday product that needs redesigning due to usability or ergonomic issues. (5 Marks)

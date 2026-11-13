@@ -16,10 +16,10 @@ Also filed as: `MECHATRONICS SYSTEM DESIGN`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Mechatronic Systems Design(702MH0C020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Mechatronics 7004 | QP_Mechatronic Systems Design(702MH0C020)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Mechatronic Systems Design(702MH0C020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Mechatronic Systems Design(702MH0C020)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech Mechatronics 7004 | QP_Mechatronic Systems Design(702MH0C020)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Mechatronics 7004 | ANS_Mechatronic Systems Design(702MH0C020)_2025-2026.pdf |
 | 2022-23 | — | Question paper | Sem 6 | MBA TECH / MECHANICAL | Mechatronic Systems Design 2022-23.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 1 | M TECH / INDUSTRIAL AUTOMATION | Mechatronic Systems Design 2016-17 Final.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | MECHATRONICS SYSTEM DESIGN BATCH 16-17 RE EXAM.pdf [1] |

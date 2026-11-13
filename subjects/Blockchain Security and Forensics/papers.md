@@ -126,6 +126,7 @@ Find:
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE CYBER SECURITY/SEM-VI/BLOCK CHAIN SECURITY AND FORENSIC/Blockchain Security and Forensics, Sem-VI, Final Exam 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29/4/2024
 - Text: ocr (3 pages), mean OCR confidence 84.8
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 I
@@ -199,14 +200,10 @@ BL3
 B_ | Identify which of the following bitcoin addresses are valid or invalid. Mention their [10]
 transaction types.
 
-C03 1. 3FqUv7dmyTHpCc37SqASgMsop6a9M6ErsM
-BL3 ; 2. 33KuimJYo6LXTyqsny VRVUK6HQbhYmX6W5
 
 3. 1FmvsQSen2miyfWPpmNgiR 12vyNtwRrPRf
 
-4. 17u75woPzloU2LjmKJhde9ARrpG1 1Uuyg4
 
-5. 4EdEo1D1T2Pu87hsYiTS3qhFrEHnC8JoQt
 Q7 A | Analyze the bitcoin transaction table (Table 1) to identify primary payment and change | [10]
 CO3, address (es). Justify your conclusion.
 BL4
@@ -217,9 +214,7 @@ Page 2 of 3
 --- page 3 ---
 Date and Inp Amount | Out Amount(
 ID: Time ; ut | From (BTC) put | To BTC)
-e583- | 9/13/2017, 1EUtPSyM WrbqvzfxZSbosVexf | 0.010014 ILTShYYmQXNa8jpKGNLIrhp | 0.010345
 7682 | 05:19:56 1 | 288qgJ7HoD 75 1 | JAisXFckEGs 32
-1HFyX911XZqvtboMCWJRgeT | 0.010018 16YCvV3RAaJgqwnW7YoBu9 | 0.117376
 2 | 304F6dqJnRv 08 2_| WUfhNS5e1kP6M 02
 1B35r2pS5u66we2ZrXStpUphN | 0.010026
 3 | JuXBuWdgR 73
@@ -242,6 +237,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE CYBER SECURITY/SEM-VI/BLOCK CHAIN SECURITY AND FORENSIC/Blockchain Security and Forensics, Sem-VI, A Y 2023-24, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29/6/2024
 - Text: ocr (3 pages), mean OCR confidence 70.7
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS Sigs UNIVE
@@ -305,11 +301,8 @@ B | Classify the following address as a bitcoin or ethereum address or invalid. 
 
 their transaction types for bitcoin address(es)
 C03 1. 0xb794f5ea0ba39494ce8396 13 fffba74279579268
-BL3. 2. Oxeclqxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlhg
 
 . 3. 3FqUv7dmyTHpCc37SqASgMsop6a9M6Er8M
-4. 17u75woPzloU2LjmKJhde9ARrpG1 1 Uuyg4
-5. S5EdEo1D1T2Pu87hsYiTS3qhFrEHnC8JoQt
 Q7 A_ | Analyze the bitcoin transaction table (Table 1) to identify primary payment and change | [10]
 CO3, address (es). Justify your conclusion.
 BL4
@@ -410,6 +403,7 @@ Hn 6 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE CYBER SECURITY/SEM-VI/BLOCK CHAIN SECURITY AND FORENSIC/Blockchain Security and Forensics, Sem-VI, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 2/5/2023
 - Text: ocr (3 pages), mean OCR confidence 73.2
+- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -480,13 +474,11 @@ B | Identify which of the following bitcoin addresses are valid and mention thei
 transaction types.
 1. 14JYksKoNzDV98JocdJNP Vg Y9LQ1I2ZRM9s
 
-are 2. 1CWDxqg7PGiQGBrUCsfiT5 Y WC4Hx3uQZNF
 
 3. 3PFtppsuZj8k3aH3NTaae9fPFMmSul R92U
 
 4. |LvnorVKAihwjf90RsnulDtxA7Ws2kTIEZ
 
-5. 2DEzWg9E6i6xbemY PTunzRehb9aSY 9irXf
 fos A Analyze the bitcoin transaction table (Table 1) to identify primary payment and [19]
 BL4 > change address(es). Write explanation about your conclusion.
 CO3, B | Analyze the bitcoin transaction table (Table 1) to identify the addresses that belongs | [10]
@@ -503,27 +495,18 @@ Ke} So Co \o
 a) io} \o ~
 one) lo an lon
 ine) nD an lon
-S a a xt ca a
-re] s S — Ss S S
 a] a7 “4 we on av
 aa aay jay ea) a 1
 al Sal Sa) Sal is) Gal
 ive) wo vey wo a4 Ve)
-ae) ne, ae] ee > ae)
 5 5 5 5 om 5
 g 8 g 8 i2 |g
-S Ke} ‘oO Ke} w~ \o
 a a a fa, ec
 isa) oa ical < jo (aay isa)
 2 2 we nd [oe Tal ir
-oI o o n o cy o
 ss) 3 | ~~ IS 5 tm lz
 je4 oO je4 > 1O zo |O
 — a 2 |2 8 |-..|84 |e a
-o> Os o> 5 |O> S 2 Oo>
-So Bo ne CO |}maEe =n
-a0 “oO 80 ‘oS a) “oO S | Do Ze )
-ed Ex ed ElEex |SF |ex
 Og Og Og QAlOS |p 5 |oge
 a's ae ae DAS |Am IAS
 = & = & = & O |} € lau | &
@@ -538,13 +521,11 @@ g = og N a ~
 N z po) lo
 Q 6 & 2 i A
 = 3 5 S > ca)
-amy a. g N a ae
 = ob 3s 0
 C & |e 2 g e
 ian oy a aS =
 = Zz & g Ss &
 f=] icy To oO ° g
-S Cw le £ [ad & oO st
 | D bd =
 3 » £2 jn 5 S3 > IS ag
 22 Ve 25 Zi3= eZ a2
@@ -552,10 +533,7 @@ S Cw le £ [ad & oO st
 Ex ~< < +t Oo §€ fea]
 oO <e |< gm > |> 5 SO
 Zz, O- OZ a4 Sle & mY
-Hw mn 12% at x |r & D
-es 2 [>a Sa Tt jas QE
 a O> la 62 |85 |€& Fav,
-=x =a jbe =Ril=a |S e S&
 — foal = = N — _
 ~~ YY ~~ ~ <<
 — Oo =“ Oa i) — 0 ot
@@ -563,7 +541,6 @@ a O> la 62 |85 |€& Fav,
 Qa Qs Qua Qe aw
 as as a als ee
 val Tw ug ceges =
-lo) lo) no nO -— oO
 ‘ ' fl ' \
 oom yo} \o oso tf
 a0 Ss 3 at =o as

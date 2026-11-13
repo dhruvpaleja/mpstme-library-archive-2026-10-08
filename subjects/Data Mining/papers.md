@@ -1,8 +1,253 @@
 # Data Mining: question papers in full
 
-10 unique papers · 2010-11 to 2023-24 · Computer Engineering, Information Technology, Computer Applications (MCA)
+10 unique papers · 2010-11 to 2024-25 · Computer Engineering, Information Technology, Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2024-25 · Re-Exam · Sem 9 · paper 4434667928fe
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Data Mining/Data Mining Batch 2023-24 Re Exam_4434667928.pdf`
+- Printed on paper: max marks: 100; exam date: 13 /2 /2025
+- Text: ocr (4 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B Tech Integrated Stream ; Computers Year: V Semester: IX
+
+Subject: Data Mining , Time: “4 __hrs (2200puato KR 00pm)
+Date: 13 /2 /2025 . No. of Pages: 03:
+
+Marks: 100
+
+Re- Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi [20]
+
+Answer the following. Each question carry equal marks.
+
+a. Justify the need of data pre -processing step in data mining
+b. Mention at least two situations when K-means clustering fails. Justify, why
+k means fails in these situations
+Cc. Discuss trends in data mining.
+d. Compare Temporal mining with Web mining.
+Q a. Compare partition based, hierarchical and density based clustering [10]
+approaches with example.
+b. Discuss how proximity measures are computed for nominal and binary | [10]
+attribute. Compute dissimilarity for asymmetric binary attribute in given
+data
+Name | Gender | Fever | Cough | Test-1 | Test-2 | Test-3 | Test-4
+Jack |M Y N iB N N N
+Mary |F nd N 1p N iB N
+
+--- page 2 ---
+Q3 a. Apply Apriori algorithm on following item sets and find the frequent item | [10]
+list with min support = 3. Given Item set:
+
+Transaction ID List of item IDs |
+Tl 11,12,15
+T2 12,14
+T3 12,13
+T4 11,12,14
+TS 11,13
+T6 12,13
+T7 113
+T8 11,12,13,15
+T9 11,12,13
+b. Explain web content mining, web usage mining and web structure mining [10]
+Q4 a. Explain Decision tree classification algorithm and apply it on given dataset [10]
+for classification
+Transaction Income Credit Decision
+1 Very high Excellent Authorize
+2 High Good Authorize
+3 Medium Excellent Authorize
+4 High Good Authorize
+5 Very high Good Authorize
+6 Medium Excellent Authorize
+il High Bad Request ID
+8 Medium Bad Request ID
+9 High Bad Reject
+10 Low Bad Call Police
+b. Explain Density Based Clustering Method (DBSCAN) with example. [10]
+Q5 a. Consider the following distance matrix: [10]
+Pl P2 B3 P4 P5 P6
+Pl 0.00 |0.24 | 0.22 | 0.37 |0.34 | 0.23
+R2 0.00 |0.15 {0.20 |0.14 | 0.25
+B3 0.00 {0.15 [0.28 | 0.11
+P4 0.00 | 0.29 | 0.22
+PS 0.00 | 0.39
+P6 0.00
+Find the Dendrograms using Single link, Complete link Agglomerative
+algorithm.
+[10]
+
+b. Define data mining and explain steps in data mining with example.
+--- page 3 ---
+Q6
+
+Describe Naive Bayes Classifier with an example.
+
+[10]
+
+What is Data Visualization? Describe few visualization methods.
+
+[10]
+
+Q7
+
+Discuss the Knowledge discovery process (KDD) with a neat diagram.
+
+[10]
+
+Illustrate Simple linear and Multiple linear Regression algorithm with some
+
+example.
+
+[10]
+--- page 4 ---
+
+````
+
+## 2024-25 · Re-Exam · Sem 9 · paper f4de1385a474
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Data Mining/Data Mining Batch 2023-24 Re Exam_f4de1385a4.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 81.8
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE T& ENGINEERING ey
+, Fe AS
+Academic Year: 2024-2025 “ as
+
+Program: B Tech Integrated Stream ; Computers Year: V Semé
+
+Subject: Data Mining , Time: JZ _ hrs (Zooprato S00 pas)
+Date:_s_/ 42./ 202% : ; a No. of Pages: 03_
+
+Marks: 100
+
+Re-Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks. a
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql [20]
+
+Answer the following. Each question carry equal marks.
+
+a. | Discuss major issues in Data Mining.
+
+b. Explain central tendency of data and its measuring methods.
+
+c. | Solve following with K-means algorithm where value of K=2. _
+Data: {2,4,10,12,3,20,30,11,25} .
+d. | Construct FP-tree from the given transaction data set.
+
+TID Items bought (ordered) frequent items
+
+
+
+
+
+Where min_support = 3
+
+Q2 a. | What is Data Visualization? Describe at least 4 visualization methods. [10]
+
+b. | Using the below table illustrate Bayesian classification technique. Further [10]
+indicate how we can classify a new transaction, with (Income = Medium
+and Credit = Good)? ‘
+--- page 2 ---
+Transaction Income Credit Decision’ .~
+1 Very High Excellent AUTHORIZE
+2 High Good AUTHORIZE
+3 Medium ' Excellent AUTHORIZE
+4 High ~ Good AUTHORIZE
+§ Very High Good AUTHORIZE
+6 Medium Excellent AUTHORIZE
+7 High Bad. REQUEST ID
+8 Medium Bad REQUEST ID
+9 High Bad ~ REJECT
+10 Low Bad CALL POLICE
+Q3 a. | Explain Apriori Algorithm. Apply association rule to find all frequent item | [10]
+sets from the given table. (Let min-support = 50% and min-confidence= |
+50%) ;
+Transaction ID Items
+100. 1,3,4
+200 2.3.5
+300 1,2,355
+! 400 2,5
+b. | What is Regression? Demonstrate Linear Regression algorithm with some | [10]
+example. :
+Q4 a. | Find Euclidian Distance and Manhattan distance of the following points - [10]
+and compare them. : *
+point _| attribute 1 | attribute 2
+x1 1 2 .
+x2 3 5
+x3 2 0
+x4 4 §
+b. | Describe Web Mining in detail. Discuss its applications. [10]
+Q5 a. : [10]
+Explain DBSCAN and OPTICS methods with suitable example.
+b. | What is decision tree? Demonstrate how classification is done using [10]
+Decision Tree algorithm with suitable example.
+Q6 | a Use Agglomerative algorithm with Single link and Average link technique [10]
+
+to find clusters in given data set. _
+--- page 3 ---
+point | attribute ] | attribute 2
+
+xl 7 7
+x2 7 4
+x3 3 fe
+x4 1 “4
+b. | Explain Temporal Mining in detail and discuss its applications. [10]
+Qi7- a, | Suppose a hospital tested the age and body fat data for 18 randomly selected | [10]
+adults with the following results:
+Age [23 | 23) | 27 °| 27 39 (| 41 47 | 49 50
+Yfat 19.5 | 26.5 17.8 | 17.8 | 31.4 | 25.9 | 27.2 | 27.2 | 31.2
+(a) Calculate the mean, median, and standard deviation of age and’'%
+fat. “ey
+(b) Draw box plot for age and % fat.
+b. | Discuss the Knowledge discovery process (KDD) with a neat diagram. [10]
+````
 
 ## 2023-24 · Final-Exam · Sem 9 · paper dd86cc13aa0e
 
@@ -351,256 +596,7 @@ CO-1 D .
 a4 List different issues in data mining and discuss any 2 in detail 5M
 ````
 
-## 2023-24 · Re-Exam · Sem 9 · paper 4434667928fe
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Data Mining/Data Mining Batch 2023-24 Re Exam_4434667928.pdf`
-- Printed on paper: max marks: 100; exam date: 13 /2 /2025
-- Text: ocr (4 pages), mean OCR confidence 89.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: B Tech Integrated Stream ; Computers Year: V Semester: IX
-
-Subject: Data Mining , Time: “4 __hrs (2200puato KR 00pm)
-Date: 13 /2 /2025 . No. of Pages: 03:
-
-Marks: 100
-
-Re- Examination (Batch 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi [20]
-
-Answer the following. Each question carry equal marks.
-
-a. Justify the need of data pre -processing step in data mining
-b. Mention at least two situations when K-means clustering fails. Justify, why
-k means fails in these situations
-Cc. Discuss trends in data mining.
-d. Compare Temporal mining with Web mining.
-Q a. Compare partition based, hierarchical and density based clustering [10]
-approaches with example.
-b. Discuss how proximity measures are computed for nominal and binary | [10]
-attribute. Compute dissimilarity for asymmetric binary attribute in given
-data
-Name | Gender | Fever | Cough | Test-1 | Test-2 | Test-3 | Test-4
-Jack |M Y N iB N N N
-Mary |F nd N 1p N iB N
-
-Jim |M ¥ P N N N N
---- page 2 ---
-Q3 a. Apply Apriori algorithm on following item sets and find the frequent item | [10]
-list with min support = 3. Given Item set:
-
-Transaction ID List of item IDs |
-Tl 11,12,15
-T2 12,14
-T3 12,13
-T4 11,12,14
-TS 11,13
-T6 12,13
-T7 113
-T8 11,12,13,15
-T9 11,12,13
-b. Explain web content mining, web usage mining and web structure mining [10]
-Q4 a. Explain Decision tree classification algorithm and apply it on given dataset [10]
-for classification
-Transaction Income Credit Decision
-1 Very high Excellent Authorize
-2 High Good Authorize
-3 Medium Excellent Authorize
-4 High Good Authorize
-5 Very high Good Authorize
-6 Medium Excellent Authorize
-il High Bad Request ID
-8 Medium Bad Request ID
-9 High Bad Reject
-10 Low Bad Call Police
-b. Explain Density Based Clustering Method (DBSCAN) with example. [10]
-Q5 a. Consider the following distance matrix: [10]
-Pl P2 B3 P4 P5 P6
-Pl 0.00 |0.24 | 0.22 | 0.37 |0.34 | 0.23
-R2 0.00 |0.15 {0.20 |0.14 | 0.25
-B3 0.00 {0.15 [0.28 | 0.11
-P4 0.00 | 0.29 | 0.22
-PS 0.00 | 0.39
-P6 0.00
-Find the Dendrograms using Single link, Complete link Agglomerative
-algorithm.
-[10]
-
-b. Define data mining and explain steps in data mining with example.
---- page 3 ---
-Q6
-
-Describe Naive Bayes Classifier with an example.
-
-[10]
-
-What is Data Visualization? Describe few visualization methods.
-
-[10]
-
-Q7
-
-Discuss the Knowledge discovery process (KDD) with a neat diagram.
-
-[10]
-
-Illustrate Simple linear and Multiple linear Regression algorithm with some
-
-example.
-
-[10]
---- page 4 ---
-
-````
-
-## 2023-24 · Re-Exam · Sem 9 · paper f4de1385a474
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Data Mining/Data Mining Batch 2023-24 Re Exam_f4de1385a4.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 81.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE T& ENGINEERING ey
-, Fe AS
-Academic Year: 2024-2025 “ as
-
-Program: B Tech Integrated Stream ; Computers Year: V Semé
-
-Subject: Data Mining , Time: JZ _ hrs (Zooprato S00 pas)
-Date:_s_/ 42./ 202% : ; a No. of Pages: 03_
-
-Marks: 100
-
-Re-Examination (Batch 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks. a
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql [20]
-
-Answer the following. Each question carry equal marks.
-
-a. | Discuss major issues in Data Mining.
-
-b. Explain central tendency of data and its measuring methods.
-
-c. | Solve following with K-means algorithm where value of K=2. _
-Data: {2,4,10,12,3,20,30,11,25} .
-d. | Construct FP-tree from the given transaction data set.
-
-TID Items bought (ordered) frequent items
-
-100 {f, a, c, d, g, i, m, p} {f, c, a, m, p}
-
-200 {a, b, c, f, l, m, 3} G5 c, a, b, m}
-
-300 {b, f, h, j, 0, Ww} -   Y; BS
-
-400 {b, c, k, s, Pp} {c, b, p}
-
-500 {a, f, c, e, , p, m, n} {ff c, a, m, Pp}
-Where min_support = 3
-
-Q2 a. | What is Data Visualization? Describe at least 4 visualization methods. [10]
-
-b. | Using the below table illustrate Bayesian classification technique. Further [10]
-indicate how we can classify a new transaction, with (Income = Medium
-and Credit = Good)? ‘
---- page 2 ---
-Transaction Income Credit Decision’ .~
-1 Very High Excellent AUTHORIZE
-2 High Good AUTHORIZE
-3 Medium ' Excellent AUTHORIZE
-4 High ~ Good AUTHORIZE
-§ Very High Good AUTHORIZE
-6 Medium Excellent AUTHORIZE
-7 High Bad. REQUEST ID
-8 Medium Bad REQUEST ID
-9 High Bad ~ REJECT
-10 Low Bad CALL POLICE
-Q3 a. | Explain Apriori Algorithm. Apply association rule to find all frequent item | [10]
-sets from the given table. (Let min-support = 50% and min-confidence= |
-50%) ;
-Transaction ID Items
-100. 1,3,4
-200 2.3.5
-300 1,2,355
-! 400 2,5
-b. | What is Regression? Demonstrate Linear Regression algorithm with some | [10]
-example. :
-Q4 a. | Find Euclidian Distance and Manhattan distance of the following points - [10]
-and compare them. : *
-point _| attribute 1 | attribute 2
-x1 1 2 .
-x2 3 5
-x3 2 0
-x4 4 §
-b. | Describe Web Mining in detail. Discuss its applications. [10]
-Q5 a. : [10]
-Explain DBSCAN and OPTICS methods with suitable example.
-b. | What is decision tree? Demonstrate how classification is done using [10]
-Decision Tree algorithm with suitable example.
-Q6 | a Use Agglomerative algorithm with Single link and Average link technique [10]
-
-to find clusters in given data set. _
---- page 3 ---
-point | attribute ] | attribute 2
-
-xl 7 7
-x2 7 4
-x3 3 fe
-x4 1 “4
-b. | Explain Temporal Mining in detail and discuss its applications. [10]
-Qi7- a, | Suppose a hospital tested the age and body fat data for 18 randomly selected | [10]
-adults with the following results:
-Age [23 | 23) | 27 °| 27 39 (| 41 47 | 49 50
-Yfat 19.5 | 26.5 17.8 | 17.8 | 31.4 | 25.9 | 27.2 | 27.2 | 31.2
-(a) Calculate the mean, median, and standard deviation of age and’'%
-fat. “ey
-(b) Draw box plot for age and % fat.
-b. | Discuss the Knowledge discovery process (KDD) with a neat diagram. [10]
-````
-
-## 2022 · Final-Exam · Sem 9 · paper 3ed39c1e6e89
+## 2022-23 · Final-Exam · Sem 9 · paper 3ed39c1e6e89
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -726,6 +722,7 @@ b. Describe Spatial Mining in detail. Discuss its applications. [10]
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Data Mining/Data Mining Batch 2022-23 Re Exam0001.pdf`
 - Printed on paper: exam date: 31 January 2023
 - Text: ocr (3 pages), mean OCR confidence 92.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -771,7 +768,6 @@ Name | Gender | Fever | Cough | Test-1 | Test-2 |Test-3 | Test-4
 
 Jack |M Y IN P N N N
 Mary |F Y |N P N P N
-Jim |M y |p N N N N
 
 b. Discuss and compare DBSCAN and OPTICS methods with suitable
 example.
@@ -1032,6 +1028,7 @@ fat | 9.5 | 26.5 | 7.8 | 17.8 | 314 | 25.9 | 27.2 27.2: | 31.2 [10 M]
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/II SEMESTER/DATA MINING/Data Mining 2013-14 Final.pdf`
 - Printed on paper: exam date: 06/05/2014
 - Text: ocr (2 pages), mean OCR confidence 92.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1119,7 +1116,6 @@ minimum support of 3.
 
 TID Items
 
-01 f, a, c, g, i, m, p
 02 a, b,c, f, m
 
 03 b, f, h, j

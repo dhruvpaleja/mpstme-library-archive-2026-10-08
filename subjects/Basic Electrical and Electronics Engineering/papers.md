@@ -1,8 +1,412 @@
 # Basic Electrical and Electronics Engineering: question papers in full
 
-134 unique papers · 2021-22 to 2025-26 · Data Science, Common (all branches), Artificial Intelligence, Information Technology, Computer Engineering, Electronics and Telecommunication, AI and Data Science, Computer Science, Cyber Security, Mechanical, Computer Science and Business Systems, AI and Machine Learning, Civil, Mechatronics
+134 unique papers · 2021-22 to 2025-26 · Data Science, Common (all branches), Artificial Intelligence, Information Technology, Computer Engineering, Electronics and Telecommunication, AI and Data Science, Computer Science, Mechanical, Cyber Security, Computer Science and Business Systems, AI and Machine Learning, Civil, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Exam not stated · Sem 1 · paper a2fbef38dfab
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/B Tech (CSE-DS), Basics of Electrical and Electronics Engineering, Sem I, 2023,20_64defea0.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 87.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT.
+Academic Year: 2025-2026
+
+Program/s: B Tech . Year: I Semester: I
+Stream/s; CSE DS (311) a
+Subject: Basics of Electrical and Electronics Engineering Time: 3 hrs. (Qecanwto 9% copu)
+
+Date:_4 / 12 /2025 . No. of Pages: 3
+Marks: 100
+
+Re-Examination (2023-24,2024-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. :
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1 . Answer briefly:
+2 . [20]
+
+CO-1; a. Find an equivalent resistance across terminals A and B.
+SO- 1; . . .
+BL-1
+
+§2
+
+CO- 2; b. Compare Purely Resistive and Purely Capacitive circuit, (4 Points) 4
+SO-1;
+BL-2 :
+
+CO-3; c. Develop an emf equation of the Transformer. 4
+SO-1;
+BL-3
+
+CO-4; d. Explain Half Wave Rectifier. : / 4
+SO-1; .
+BL-2
+
+CO-5; e Build Half Adder circuit. (Truth Table, Equation and Diagram) ; 4
+SO-1;
+BL-3 .
+
+Page 1 of 3
+--- page 2 ---
+Apply Nodal Analysis Method to find the values of currents Il, 12 and 13.
+
+Q2
+CO-1; Vj 10 & Vz 22
+SO-1;
+BL-1,3
+228 ) + + 50V 10
+Ig
+Le
+Sout Solve. A resistor of 20 , inductor of 0.05 H and a capacitor of 50 mF are
+BL3. connected in series. A supply voltage 230 V, 50 Hz is connected across the series 10
+combination. Calculate the following: : a
+(i) impedance, (ii) current drawn by the circuit, (iii) phase difference and power
+factor, and (iv) active and reactive power consumed by the circuit.
+Q3 Explain construction and working of DC motor with suitable diagram.
+CO-3; 10
+SO-1;
+BL-2
+CO-2; Analyze the series resonance circuit and explain in detail with suitable diagrams.
+SO-1; 10
+BL-4
+Q4 The voltage applied to a circuit is e = 100 sin (wt + 30°) and the current flowing
+c0-2: in the circuit is i= 15 sin (w t + 60°). Solve to find the value of impedance,
+S O-l: resistance, reactance, power factor and power. 10.
+BL-3 .
+CO-4; Summarize the working of Full Wave Center Tap Rectifier with a neat sketch of
+SO-1; the circuit and waveforms. : 10
+BL-2 .
+Q5 Construct the circuit diagram of non-Inverting amplifier and explain its working.
+CO-4; 10
+SoO-1;
+BL-3,2
+CO-5; Develop the Full Adder circuit with truth table, Equations, K maps and logic
+SO-1; diagram. 10
+BL-3
+Q6 Define the statement of Thevenin’s Theorem and explain its steps in detail.
+CO-1; 10
+SO-1;
+BL-1,2
+CO-3; Identify the different losses in transformer and explain each in short.
+SO-1; 10
+BL-3
+
+Page 2 of 3
+--- page 3 ---
+a For the given circuit shown, make a.use of Norton’s Theorem to find the Norton °
+equivalent between points A and B.
+
+12 12
+Qi ANA AMA A
+CO-1;
+SO-1
+| BL-3 10V—— S10 Rp =2Q
+B
+“CO-3; b With the help of neat labeled diagram explain construction and working of
+SO-1; . transformer.
+BL-1,2 :
+CO-5; c Solve the following Boolean Expression and draw the logic Tagan using gates
+SO-1; for simplified equation.
+BL-3 (A+B) (A+C)
+
+Page 3 of 3
+--- page 4 ---
+
+````
+
+## 2025-26 · Exam not stated · Sem 1 · paper 58312abd0379
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/QP B Tech, MBA Tech (IT,MECH,CIVIL,COMP,DS,AI&ML,CSE-DS), Basic Electrical and El_bf6d53b3.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 88.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+Program/s: B.Tech./MBA Tech. Year: I Semester: I
+Stream/s : B.Tech. Al, AIML, Civil, CSE DS (7057), MECH/ MBATech.
+AI, COMP, DS, IT
+
+Subject: Basic Electrical and Electronics Engineering Time: 3 hrs (Qso0pmto St 20pm )
+Date:_2. /)2 /2025 No. of Pages: 03
+Marks: 100
+
+Re-Examination { Re-exam year 2022-23, 2023-24, 2024-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+a. | Find equivalent resistance across terminals A and B.
+$a
+AW
+CO-1; SO-1; 40 |49 a 32 49
+BL-1,2 AoW VWA—~VW—o B [4]
+32
+AAW
+22 32
+CO-2; SO-1; | b. | Define and explain the following terms related to an alternating quantity 4
+BL-2,3 (i) Time period (ii) Amplitude (iii) Phase (iv) Phase difference [4]
+CO-3; SO-1; | ¢ | Consider a 50 Hz step down transformer has 400 turns and 2000 V supply.
+BL-1,2 Find the voltage across the secondary winding if it has 20 turns. [4]
+a SO-1; | d. | Demonstrate and explain the circuit diagram of a half-wave rectifier. [4]
+--- page 2 ---
+
+--- page 3 ---
+CO-4; SO-1; | e.
+
+BL-2 Show the two De Morgan’s theorems of Boolean algebra. [4]
+Q2 a.
+State Norton’s theorem. Explain the steps to obtain Norton’s equivalent current [10]
+ie SO-1; and resistance for a given circuit. Also draw Norton’s equivalent circuit.
+Q2 b. | Solve an AC circuit for the value of Impedance, resistance, reactance, power
+factor and power loss if voltage to the circuit is 1502300" V and current is
+CO-2; SO-1; 22-150" A. Operating frequency is 50 Hz. [10]
+BL-3
+Q3 a. | Develop EMF equation of a transformer.
+[10]
+CO-3; SO-1;
+BL-3
+
+b, | Analyse a R-L Circuit for
+
+Q3 (i) impedance
+(ii) = Power
+CO-2; SO-1; (iii) Power factor [10]
+BL-4 (iv) Active Power
+(v) _ Reactive Power.
+Q4 a.
+A series RLC circuit having R = 10 ohm, L=0.01 H and C= 100 uf, find the
+CO-2; SO-1; resonant frequency, quality factor, lower and upper frequencies and [10]
+BL-1 bandwidth.
+Q4 b. | Explain the working of an inverting and non-inverting operational amplifier
+with circuit diagram.
+CO-4; SO-1; [10]
+BL-2
+Q5 a. | Explain the working of PNP and NPN BJT transistor with help of neat
+diagrams.
+CO-4; SO-1; [10]
+BL-2
+Q5 b. | Show the block diagram, truth table and logic diagram of a half subtractor.
+CO-4; SO-1; Also write its Boolean expression. [10]
+BL-2,3
+--- page 4 ---
+
+--- page 5 ---
+a. | Apply Thevenin’s theorem on the given below circuit to find current across
+
+8Q resistor.
+§Q 10 Q
+Q6 WN Wy
+CO-1; SO-1; 7 [10]
+BL 250 V = $5 Q S80
+1 |
+‘|
+75V
+Q6 b.
+Explain the construction of a DC motor with the help of circuit diagram. [10]
+or SO-1; Explain any five parts in detail.
+
+a. | Identify the value of current flowing through the 5Q resistor in the given
+below circuit using Mesh Analysis method.
+
+po
+tT
+Q7
+BV 31 2 S40
+
+CO-1; SO-1; [7]
+BL-3 ANN. AM
+
+22 3Q
+
+| WA
+12V 52
+b. ; A 20-kVA single-phase transformer has 500 turns on the primary winding
+and 50 turns on the secondary winding. The primary is connected to a2
+
+CO-3; $O-1; kV, 50-Hz AC supply.
+
+BL-3 Solve to calculate: [7]
+(a) the secondary induced emf,
+(b) the primary and secondary full-load currents, and
+(c) the maximum flux in the core.
+
+BL-l * | Show how NOR gate works like a universal logic gate. [6]
+--- page 6 ---
+
+````
+
+## 2025-26 · Exam not stated · Sem 2 · paper 08a3b812251a
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRICAL AND ELECTRONICS ENGINEERING/Basic Electrical and Electronics Engineering, Sem-II, Batch 2022-23, 2023-24 &202_c9493498.pdf`
+- Printed on paper: max marks: 100; exam date: 14th July 2026
+- Text: ocr (3 pages), mean OCR confidence 83.0
+
+````text
+teers
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Academic Year: 2025-26
+Program: B Tech/MBA Tech (CIVIL/COMP/MXTC/AI&DS/CS/CSE-CS/DS/EXTC/IT)
+
+Year: I Semester : [J
+Subject: Basic Electrical and Electronics Engineering -
+
+Time: 10.00 am to 1.00 pm (3‘hrs)
+Date : 14th July 2026
+
+No. of Pages: 03
+Marks: 100
+
+Instructions:
+|. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. | is compulsory.
+
+5. Out of remaining questions, attempt any 4 questions.
+
+6. Assume suitable data if necessary.
+
+Ql Answer briefly: [20]
+a. | Find the equivalent resistance between A and B.
+L Loe
+©)C0-1; SO-1; Ap tg
+BL-1,2 or —_ [4]
+{oa .
+WW
+15
+CO-2; SO-1; | b. . .
+BL-2 3 ; Illustrate a labeled diagram of Resonance Curve for a Series R-L-C circuit.
+
+Also write the equation for bandwidth and current at resonance for a Series [4]
+R-L-C circuit.
+
+CO-3; SO-1; | c. :
+
+BL-1,2 Show the derivation of the emf equation for a single phase transformer [4]
+CO-4; SO-1; | d. | Explain any four ideal characteristics of an OP-AMP.
+BL-2 [4]
+CO-5; SO-1; | e.
+BL-2 Summarize the two De Morgan’s theorems of Boolean algebra. {4]
+-
+- a. | Make use of superposition theorem to find the current flowing through the
+20 Q resistor.
+102 602
+Q2 _
+CO-1; SO-1; (10]
+BL-3 z 209 65Vv
+Q2 b. | An R-L-C series circuit with a resistance of 10 Q, inductance of 0.2 H anda
+CO-2; SO-17 capacitance of 40 uF is supplied with a 100 V supply at variable frequency. [10]
+BL-3 : Solve for the following with respect to the series resonant circuit:
+
+— | (i)resonant_ frequency (ii)current, (iii)power, (iv)power factor, (v)quality
+
+FO 7] RR Rar
+--- page 2 ---
+factor.
+
+A single-phase 50 Hz transformer has 80 turns on the primary winding and
+
+ideal transformer and practical transformer.
+
+Q3 280 turns in the secondary winding. The voltage applied across the primary [10]
+CO-3; SO-1, winding is 240 V at 50 Hz. Find (i) maximum flux density in the core, and
+BL-1,2 (11) induced emf in the secondary. The net cross-sectional area of the core is
+200 cm? ;
+Q3 Analyze an AC Series RL Circuit by using circuit diagram, phasor diagram,
+CO-2;'SO-1; Voltage Triangle, Impedance Triangle, Power triangle, Waveform of | [10]
+BL-4 Voltage and current.
+An RLC circuit with the resistance of 10 ohms, inductance of 0.2 H and
+capacitor of 40mF is supplied with a 100 V supply at variable frequency.
+Q4 Solve for the following:
+CO-2; SO-1; (i) Frequency at which resonance takes place
+BL-3 (ii) Current [10]
+(ii) = Power
+(iv) Q-factor
+(v) Half power points
+Q4 Show and explain voltage-current characteristics of the Zener diode with the 0)
+CO-4; SO-1; help of a suitable diagram. Also tell how the Zener diode can be used as a [10] 7
+BL-1 voltage regulator. .
+Q5 Show and explain the working of half wave rectifier with the help of circuit
+CO-4; SO-1; diagram and waveforms. r
+[10]
+BL-1
+Q5 Outline the differences between NAND and NOR gates using their logic |
+CO-5; SO-1; symbols, truth tables, and Boolean expressions. Also explain how NAND [10]
+BL-2 and NOR gates can function as a universal gate, using appropriate logic
+diagrams.
+Find all mesh currents using mesh analysis.
+32
+Q6 [ ow
+CO-1; SO-1; .
+BLI sat ae Sea ee an)
+a
+35 V ~ OV
+I ]
+Q6
+CO-3; SO-1; Identify and explain any five elements of a DC motor by drawing its [10]
+BL-3 constructional diagram.
+Q7 .
+ee SO-1; State and prove the Superposition Theorem. (7]
+P CO-3. SO-1: Show the relationships between voltage and currents on primary side and
+BL-l secondary side ofa single phase of transformer. What is difference between | [7]
+
+FRR DOK ROR RK x
+--- page 3 ---
+~
+
+CO-5; SO-1; | ¢ Solve to simplify the following Boolean expression and implement the
+
+BL-3 simplified output using AND, OR, and NOT gates: - [6] .
+
+F=(A4+B)(A'+B)+BC =e
+
+RE QR KKK KE
+````
 
 ## 2025-26 · Final-Exam · Sem 1 · paper 9c243d12d3f4
 
@@ -837,6 +1241,7 @@ F = ABC + A’ + AB’C
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basice Electrical and Electronics Engineering, Sem-I, Year 2025-26 Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 84.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -962,7 +1367,6 @@ CO-S5; SO-1; .
 BL-3 using basic logic gates.
 ‘ t
 “
-a ok KK RR KE 3 ORR RR
 . A
 ````
 
@@ -3052,6 +3456,7 @@ Page 4 of 4
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic of Electrical and Electronics Engineering, Sem-I, Final Exam 2024-25 & Re E_13df0bc7.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2024
 - Text: ocr (3 pages), mean OCR confidence 86.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -3107,7 +3512,6 @@ CO-1; ‘through 3 Q resistor.
 SO-1;
 BL-3
 
-FOG 7 Hk a ik ok Rk
 --- page 2 ---
 |—_——Wa
 2
@@ -6444,410 +6848,7 @@ BL-6,4
 ********** 3 **********
 ````
 
-## 2023 · Exam not stated · Sem 1 · paper a2fbef38dfab
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/B Tech (CSE-DS), Basics of Electrical and Electronics Engineering, Sem I, 2023,20_64defea0.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 87.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT.
-Academic Year: 2025-2026
-
-Program/s: B Tech . Year: I Semester: I
-Stream/s; CSE DS (311) a
-Subject: Basics of Electrical and Electronics Engineering Time: 3 hrs. (Qecanwto 9% copu)
-
-Date:_4 / 12 /2025 . No. of Pages: 3
-Marks: 100
-
-Re-Examination (2023-24,2024-25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. :
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1 . Answer briefly:
-2 . [20]
-
-CO-1; a. Find an equivalent resistance across terminals A and B.
-SO- 1; . . .
-BL-1
-
-§2
-
-CO- 2; b. Compare Purely Resistive and Purely Capacitive circuit, (4 Points) 4
-SO-1;
-BL-2 :
-
-CO-3; c. Develop an emf equation of the Transformer. 4
-SO-1;
-BL-3
-
-CO-4; d. Explain Half Wave Rectifier. : / 4
-SO-1; .
-BL-2
-
-CO-5; e Build Half Adder circuit. (Truth Table, Equation and Diagram) ; 4
-SO-1;
-BL-3 .
-
-Page 1 of 3
---- page 2 ---
-Apply Nodal Analysis Method to find the values of currents Il, 12 and 13.
-
-Q2
-CO-1; Vj 10 & Vz 22
-SO-1;
-BL-1,3
-228 ) + + 50V 10
-Ig
-Le
-Sout Solve. A resistor of 20 , inductor of 0.05 H and a capacitor of 50 mF are
-BL3. connected in series. A supply voltage 230 V, 50 Hz is connected across the series 10
-combination. Calculate the following: : a
-(i) impedance, (ii) current drawn by the circuit, (iii) phase difference and power
-factor, and (iv) active and reactive power consumed by the circuit.
-Q3 Explain construction and working of DC motor with suitable diagram.
-CO-3; 10
-SO-1;
-BL-2
-CO-2; Analyze the series resonance circuit and explain in detail with suitable diagrams.
-SO-1; 10
-BL-4
-Q4 The voltage applied to a circuit is e = 100 sin (wt + 30°) and the current flowing
-c0-2: in the circuit is i= 15 sin (w t + 60°). Solve to find the value of impedance,
-S O-l: resistance, reactance, power factor and power. 10.
-BL-3 .
-CO-4; Summarize the working of Full Wave Center Tap Rectifier with a neat sketch of
-SO-1; the circuit and waveforms. : 10
-BL-2 .
-Q5 Construct the circuit diagram of non-Inverting amplifier and explain its working.
-CO-4; 10
-SoO-1;
-BL-3,2
-CO-5; Develop the Full Adder circuit with truth table, Equations, K maps and logic
-SO-1; diagram. 10
-BL-3
-Q6 Define the statement of Thevenin’s Theorem and explain its steps in detail.
-CO-1; 10
-SO-1;
-BL-1,2
-CO-3; Identify the different losses in transformer and explain each in short.
-SO-1; 10
-BL-3
-
-Page 2 of 3
---- page 3 ---
-a For the given circuit shown, make a.use of Norton’s Theorem to find the Norton °
-equivalent between points A and B.
-
-12 12
-Qi ANA AMA A
-CO-1;
-SO-1
-| BL-3 10V—— S10 Rp =2Q
-B
-“CO-3; b With the help of neat labeled diagram explain construction and working of
-SO-1; . transformer.
-BL-1,2 :
-CO-5; c Solve the following Boolean Expression and draw the logic Tagan using gates
-SO-1; for simplified equation.
-BL-3 (A+B) (A+C)
-
-Page 3 of 3
---- page 4 ---
-
-````
-
-## 2023-24 · Exam not stated · Sem 2 · paper 08a3b812251a
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRICAL AND ELECTRONICS ENGINEERING/Basic Electrical and Electronics Engineering, Sem-II, Batch 2022-23, 2023-24 &202_c9493498.pdf`
-- Printed on paper: max marks: 100; exam date: 14th July 2026
-- Text: ocr (3 pages), mean OCR confidence 83.0
-
-````text
-teers
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Academic Year: 2025-26
-Program: B Tech/MBA Tech (CIVIL/COMP/MXTC/AI&DS/CS/CSE-CS/DS/EXTC/IT)
-
-Year: I Semester : [J
-Subject: Basic Electrical and Electronics Engineering -
-
-Time: 10.00 am to 1.00 pm (3‘hrs)
-Date : 14th July 2026
-
-No. of Pages: 03
-Marks: 100
-
-Instructions:
-|. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. | is compulsory.
-
-5. Out of remaining questions, attempt any 4 questions.
-
-6. Assume suitable data if necessary.
-
-Ql Answer briefly: [20]
-a. | Find the equivalent resistance between A and B.
-L Loe
-©)C0-1; SO-1; Ap tg
-BL-1,2 or —_ [4]
-{oa .
-WW
-15
-CO-2; SO-1; | b. . .
-BL-2 3 ; Illustrate a labeled diagram of Resonance Curve for a Series R-L-C circuit.
-
-Also write the equation for bandwidth and current at resonance for a Series [4]
-R-L-C circuit.
-
-CO-3; SO-1; | c. :
-
-BL-1,2 Show the derivation of the emf equation for a single phase transformer [4]
-CO-4; SO-1; | d. | Explain any four ideal characteristics of an OP-AMP.
-BL-2 [4]
-CO-5; SO-1; | e.
-BL-2 Summarize the two De Morgan’s theorems of Boolean algebra. {4]
--
-- a. | Make use of superposition theorem to find the current flowing through the
-20 Q resistor.
-102 602
-Q2 _
-CO-1; SO-1; (10]
-BL-3 z 209 65Vv
-Q2 b. | An R-L-C series circuit with a resistance of 10 Q, inductance of 0.2 H anda
-CO-2; SO-17 capacitance of 40 uF is supplied with a 100 V supply at variable frequency. [10]
-BL-3 : Solve for the following with respect to the series resonant circuit:
-
-— | (i)resonant_ frequency (ii)current, (iii)power, (iv)power factor, (v)quality
-
-FO 7] RR Rar
---- page 2 ---
-factor.
-
-A single-phase 50 Hz transformer has 80 turns on the primary winding and
-
-ideal transformer and practical transformer.
-
-Q3 280 turns in the secondary winding. The voltage applied across the primary [10]
-CO-3; SO-1, winding is 240 V at 50 Hz. Find (i) maximum flux density in the core, and
-BL-1,2 (11) induced emf in the secondary. The net cross-sectional area of the core is
-200 cm? ;
-Q3 Analyze an AC Series RL Circuit by using circuit diagram, phasor diagram,
-CO-2;'SO-1; Voltage Triangle, Impedance Triangle, Power triangle, Waveform of | [10]
-BL-4 Voltage and current.
-An RLC circuit with the resistance of 10 ohms, inductance of 0.2 H and
-capacitor of 40mF is supplied with a 100 V supply at variable frequency.
-Q4 Solve for the following:
-CO-2; SO-1; (i) Frequency at which resonance takes place
-BL-3 (ii) Current [10]
-(ii) = Power
-(iv) Q-factor
-(v) Half power points
-Q4 Show and explain voltage-current characteristics of the Zener diode with the 0)
-CO-4; SO-1; help of a suitable diagram. Also tell how the Zener diode can be used as a [10] 7
-BL-1 voltage regulator. .
-Q5 Show and explain the working of half wave rectifier with the help of circuit
-CO-4; SO-1; diagram and waveforms. r
-[10]
-BL-1
-Q5 Outline the differences between NAND and NOR gates using their logic |
-CO-5; SO-1; symbols, truth tables, and Boolean expressions. Also explain how NAND [10]
-BL-2 and NOR gates can function as a universal gate, using appropriate logic
-diagrams.
-Find all mesh currents using mesh analysis.
-32
-Q6 [ ow
-CO-1; SO-1; .
-BLI sat ae Sea ee an)
-a
-35 V ~ OV
-I ]
-Q6
-CO-3; SO-1; Identify and explain any five elements of a DC motor by drawing its [10]
-BL-3 constructional diagram.
-Q7 .
-ee SO-1; State and prove the Superposition Theorem. (7]
-P CO-3. SO-1: Show the relationships between voltage and currents on primary side and
-BL-l secondary side ofa single phase of transformer. What is difference between | [7]
-
-FRR DOK ROR RK x
---- page 3 ---
-~
-
-CO-5; SO-1; | ¢ Solve to simplify the following Boolean expression and implement the
-
-BL-3 simplified output using AND, OR, and NOT gates: - [6] .
-
-F=(A4+B)(A'+B)+BC =e
-
-RE QR KKK KE
-````
-
-## 2023-24 · Re-Exam · Sem 1 · paper dc889eec0304
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic Electrical and Electronics Engineering, Sem-I, Year 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 85.8
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-¥
-
-Program: B. Tech Stream: CSE DS Year: I Semester: I
-Subject: Basics of Electrical & Electronics Engineering Time: 3 hrs (2 PM to 5 PM)
-Date: 05 Febsuaag ROR’. No. of Pages: 3
-
-Marks: 100
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
->» 3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly:
-ae SO-1; fa, Explain the difference between mesh and loop in the DC circuit with a 4]
-suitable example
-CO-2;SO-1; | b, An alternating voltage is represented by v(t) = 200 sin 314.281. (4*1]
-wial Find
-(i) maximum value of voltage
-
-(ii) frequency
-(iii) time period
-
-(iv) instantaneous value of voltage at t= 4 msec.
-CO- 3; SO-1; | ¢, List the different types of losses in transformer. ‘ [4]
-BL-1
-& Pai SO-1; | d. How Full wave rectifier is compensating the challenges of Half wave | [4]
-: rectifier? e
-CO-4;SO-1; | @, Construct a NOR gate using basic logic gates and write truth table. [4]
-
-BL-5
-
-Q a Determine the current in 4 Q resistor in the network shown below by using | [10]
-CO-1; SO-1; superposition theorem.
-BL-5 32 42
-
-NAN ANA
-
-, a 22 To
---- page 2 ---
-é
-
-Q2 b A series resonant circuit has an impedance of 500 Q at resonant frequency. Cut-off | [5*2]
-CO-2; SO-1; frequencies are 10 KHz and 100 Hz. Find: ie
-BL-I (i) Resonant frequency ;
-
-(ii) Bandwidth
-(iii) Value of L
-
-is pes
-Q3 a
-
-; duce an expression for impedance, current, phase
-CO-2; SO-1; angle and active power. Comment if the power factor is leading or lagging. | [5*2]
-BL-5
-Q3 b Illustrate and explain the construction and working of a single phase | [10]
-CO-3; SO-1; Induction Motor with the help of suitable diagram.
-BL-2
-
-A coil having a resistance of 20 oh
-CO-2; SO-1; a 100 V, 50 Hz supply. Find
-
-BL-1 (i) Circuit impedance(Z)
-(ii) circuit current
-
-(iii) phase angle
-
-(iv) power factor
-
-(v) power consumed
-
-Explain what is op-amp. Draw the symbol and Pin diagram of op-amp. | [10]
-Explain inverting and non-inverting op- amp with neat diagram.
-
-a Recall and write short note on the following: [2*5]
-CO-4; SO-1; L. Transistor as an Amplifier
-Bel ii. Photo diode
-Q5 b Explain Half Adder for binary logic with logic diagram, truth table and Boolean | [10]
-CO-4; SO-1; function. Also implement Half Subtractor using basic logic gates. ‘
-
-BL-2
-
-om so: Show the derivation of the EMF equation for single phase transformer.
-
-BL Hence for a 40 KVA, 3300/240 V, 50 Hz, single phase transformer having | [5*2]
-660 turns on the primary. Determine:
-(i) Number of turns on the secondary.
-(ii) Maximum value of flux in the core.
-
-6 b
-
-State Thevenin’s theorem. What are the various steps to be followed for | [0]
-C01 80-1, calculation of load current using thevenin’s theorem? Explain with the help
-ircuit diagram in details.
-
-Q7 Determine the equivalent resistance across points A and B in the circuit (7)
-ae 80-1; shown. Also find total current if a battery of 60 V is applied across points
-
-A and B.
---- page 3 ---
-aQ 12
-
-22
-
-So6SQ 32
-BQ :
-= ASIN
-
-Q7 b Justify the statement that Back EMF maintains the equilibrium in DC motors. (7]
-CO-3; SO-1;
-
-BL-5 .
-
-or c State and proof De Morgan’s first and second theorem. [6]
-CO-4; SO-1;
-````
-
-## 2022-23 · Final + Re-Exam · Sem 1 · paper be635dc446b3
+## 2023-24 · Final + Re-Exam · Sem 1 · paper be635dc446b3
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -6997,6 +6998,843 @@ CO-3; SO-1; working principle.
 BL-I
 qr c Apply Basic gate logic to implement following Boolean expression. Also draw the | [41
 coe SO-1; | Truth Table. .
+````
+
+## 2023-24 · Final + Re-Exam · Sem 1 · paper 429070073a06
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic Electrical & Electronics Engineering, Sem-I, Final Exam ,Re-exam 2021-22,22_a950ba5a.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 85.5
+
+````text
+SVKM’S NMIMS Ba
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING _ :
+Academic Year: 2023-2024 v4
+Program: B. Tech/ MBA Tech (IT,Computer,DS,AI, AIML, Mech, Civil, CSE(DS) Year: I Semestet: I
+Subject: Basic Electrical & Electronics Engineering ae Time: 3 hrs (2 PM to 5 PM)
+Date:_01/ 12/2023 No. of Pages: 3
+
+Marks: 100
+
+Final Examination/Re-Examination (2021-22/2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+| of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+3) Inall___5__ questions to be attempted.
+
+oO 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql Answer briefly:
+a 80-1; | a, Calculate an equivalent resistance between points A and B in the circuit shown 4]
+below
+| A,
+| 102
+| 10.2 50
+! B AWA
+oO 52
+CO-2; SO-1; | b, Define [4*1]
+BL-1
+(i) Time period
+(ii) Frequency
+(iii) = Amplitude
+(iv) Phase
+~ ? 80-1; | ¢, List the different types of losses in transformer. [4]
+Pe SO-1; | d. What is Zener Diode and how does it work as a Voltage Regulator? [4]
+| -
+| me SO-1; | @, Apply NAND Logic to implement OR gate. [4]
+| r
+|
+1
+--- page 2 ---
+i
+
+Q a Use the Thevenin’s theorem to calculate current flowing in 2 Q resistor in the (10)
+
+CO-1; SO-1; Lo.
+BL-3 circuit shown below.
+
+52 7 ¥ 20
+
+AVA, jE MN
+
+40V = S 100 = 10V
+Q2 b Define resonance in a series RLC circuit. [5*2]
+CO-2; SO-1; A series RLC circuit with the resistance of 10 Q, inductance 0.014 H and
+BL-1,3 capacitance is 100 wF supplied with a 250 V supply at variable frequency.
+Calculate:
+(69) Resonance frequency
+
+(ii) Quality factor
+(iii) Bandwidth
+(iv) Lower and upper cut-off frequencies
+
+Q3 a ; Analyze the behavior of a pure capacitive AC circuit on the basis of following
+CO-2; SO-1; point. Draw the suitable circuit diagram also. [5*2]
+BL-4
+
+(i) Alternating Current
+(ii) Waveforms
+
+(iii) | Phasor Diagram
+(iv) Impedance
+
+(v) Power factor
+Q3 b Illustrate and explain the construction and working of a DC Motor with the | [10]
+CO-3; SO-1; help of suitable diagram.
+
+BL-2
+
+Q4 rage (lava) and RMS a sms) (Root ‘Mean S quare) value
+
+CO-2; SO-1; of current in the sinusoidal waveform given below.
+BL-1
+* i
+1
+/V fd 25
+ee at
+Pe Corer
+--- page 3 ---
+i
+
+Q4 b What is a Rectifier? Explain the working of Full wave rectifier with the help.of [10]
+
+CO-4; SO-1; diagram. Also write advantages and disadvantages of Full wave rectifier.
+BL-1
+
+5 a Write Short note on the following: . [10]
+C0-4; SO-1; i. Transducers
+
+aia ii. Photo diode
+
+Qs b Explain Half Subtractor for binary logic with logic diagram, truth table and | [0]
+CO-4; SO-1; Boolean function. Also implement Half Subtractor using basic logic gates.
+
+BL-2,3
+
+Q6 a Show the de:
+
+caso rivation of the EMF equation for single phase transformer.
+BLI Hence find the maximum flux density in the core and voltage inducéd in secondary | [5*2]
+for N; = 350, and N2 =1050, cross sectional area is 55 cm? if primary winding be
+& connected to a 400V, 50 Hz, 1-6 supply.
+Qs b State Superposition theorem. Explain the theorem in detail and step wise with the | [1°
+col: SO-1; help of a circuit diagram.
+
+By mesh analysis find current through 2Q resistor in the circuit.
+
+CO-1; SO-1;
+BL3 12 52
+AAA AAW |
+6a (4) : 20 | 10V
+Qq7 b Draw a neatly labelled diagram of a single phase transformer and explain its | (7
+ee? SO-1, working principle.
+Qq7 c Apply Basic gate logic to implement following Boolean expression. Also draw the | [1
+CO-4; SO-1; Truth Table.
+
+Bhs Y=((A°+B’y +0’)
+````
+
+## 2023-24 · Re-Exam · Sem 1 · paper dc889eec0304
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic Electrical and Electronics Engineering, Sem-I, Year 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 85.8
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+¥
+
+Program: B. Tech Stream: CSE DS Year: I Semester: I
+Subject: Basics of Electrical & Electronics Engineering Time: 3 hrs (2 PM to 5 PM)
+Date: 05 Febsuaag ROR’. No. of Pages: 3
+
+Marks: 100
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+>» 3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly:
+ae SO-1; fa, Explain the difference between mesh and loop in the DC circuit with a 4]
+suitable example
+CO-2;SO-1; | b, An alternating voltage is represented by v(t) = 200 sin 314.281. (4*1]
+wial Find
+(i) maximum value of voltage
+
+(ii) frequency
+(iii) time period
+
+(iv) instantaneous value of voltage at t= 4 msec.
+CO- 3; SO-1; | ¢, List the different types of losses in transformer. ‘ [4]
+BL-1
+& Pai SO-1; | d. How Full wave rectifier is compensating the challenges of Half wave | [4]
+: rectifier? e
+CO-4;SO-1; | @, Construct a NOR gate using basic logic gates and write truth table. [4]
+
+BL-5
+
+Q a Determine the current in 4 Q resistor in the network shown below by using | [10]
+CO-1; SO-1; superposition theorem.
+BL-5 32 42
+
+NAN ANA
+
+, a 22 To
+--- page 2 ---
+é
+
+Q2 b A series resonant circuit has an impedance of 500 Q at resonant frequency. Cut-off | [5*2]
+CO-2; SO-1; frequencies are 10 KHz and 100 Hz. Find: ie
+BL-I (i) Resonant frequency ;
+
+(ii) Bandwidth
+(iii) Value of L
+
+is pes
+Q3 a
+
+; duce an expression for impedance, current, phase
+CO-2; SO-1; angle and active power. Comment if the power factor is leading or lagging. | [5*2]
+BL-5
+Q3 b Illustrate and explain the construction and working of a single phase | [10]
+CO-3; SO-1; Induction Motor with the help of suitable diagram.
+BL-2
+
+A coil having a resistance of 20 oh
+CO-2; SO-1; a 100 V, 50 Hz supply. Find
+
+BL-1 (i) Circuit impedance(Z)
+(ii) circuit current
+
+(iii) phase angle
+
+(iv) power factor
+
+(v) power consumed
+
+Explain what is op-amp. Draw the symbol and Pin diagram of op-amp. | [10]
+Explain inverting and non-inverting op- amp with neat diagram.
+
+a Recall and write short note on the following: [2*5]
+CO-4; SO-1; L. Transistor as an Amplifier
+Bel ii. Photo diode
+Q5 b Explain Half Adder for binary logic with logic diagram, truth table and Boolean | [10]
+CO-4; SO-1; function. Also implement Half Subtractor using basic logic gates. ‘
+
+BL-2
+
+om so: Show the derivation of the EMF equation for single phase transformer.
+
+BL Hence for a 40 KVA, 3300/240 V, 50 Hz, single phase transformer having | [5*2]
+660 turns on the primary. Determine:
+(i) Number of turns on the secondary.
+(ii) Maximum value of flux in the core.
+
+6 b
+
+State Thevenin’s theorem. What are the various steps to be followed for | [0]
+C01 80-1, calculation of load current using thevenin’s theorem? Explain with the help
+ircuit diagram in details.
+
+Q7 Determine the equivalent resistance across points A and B in the circuit (7)
+ae 80-1; shown. Also find total current if a battery of 60 V is applied across points
+
+A and B.
+--- page 3 ---
+aQ 12
+
+22
+
+So6SQ 32
+BQ :
+= ASIN
+
+Q7 b Justify the statement that Back EMF maintains the equilibrium in DC motors. (7]
+CO-3; SO-1;
+
+BL-5 .
+
+or c State and proof De Morgan’s first and second theorem. [6]
+CO-4; SO-1;
+````
+
+## 2023-24 · Re-Exam · Sem 2 · paper c11a96bf21a4
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRICAL AND ELECTRONICS ENGINEERING/Basic Electrical & Electronics Engineering, Batch 2021-22 & 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/ 6 /2024
+- Text: ocr (3 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS LIBRAR}
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN R@¥NGINEE
+
+Nun: Sp)
+Academic Year: 2023-2024 S_UNIVER
+
+Program: B. Tech. Year: I Semester: II
+
+Stream: IT/EXTC/Mechatronics/CSE-Cyber Sec./Data Sc./Comp. Engg./Comp Sc./AIDS
+
+Subject: Basic Electrical & Electronics Engineering Time: 3 hrs (2pm to Spm )
+Date: 24/ 6 /2024 7 No. of Pages:3
+Marks: 100
+
+fla
+
+Re-examination (202 1-22/22-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly:
+vo 1SO- fa. Define the following terms in the context of the DC network: [4]
+BL-1 i. Junction
+
+ii. Branch
+
+iii. Loop
+
+iv. Mesh
+CO-2;SO- | b. With the help of a suitable diagram, explain the concept of leading and |. [4]
+1; : iti
+BL2 lagging AC quantities.
+CO-3;SO- | ¢, What is a transformer? Write the differences between an ideal and practical | [4]
+1b transformer.
+BL-1
+Co-4;SO- | d. What is a Zener diode? How does it work like a voltage regulator? [4]
+1;
+BL-1
+CO-4;SO- |e. Show the truth tables for: [4]
+1, i. Ex-OR gate
+BL-1 ~
+
+ii. AND gate
+
+iii. Half adder
+iv. Half subtract
+
+Q2 a. For the circuit shown, find the value of Thevenin’s equivalent voltage and | [)o
+CO-1; SO- Thevenin’s equivalent resistance between nodes A and B.
+1;
+BL-1
+1
+--- page 2 ---
+200 402
+e
+100V A B
+802 502
+D
+
+Q2 b. A series R-L circuit having a resistance of 20 0 and an inductance of 80 mH [10]
+CO-2; SO- is connected to a 200 V, 50 Hz supply. Solve the following:
+. 7 (i) Inductive reactance
+
+(ii) Impedance
+
+(iii) Current
+
+(iv) | Power factor
+
+(v) Power consumed
+
+Analyze ‘a series ‘R-C with ‘the hel
+waveforms, Voltage triangle and impedance triangle and write the equations
+of Voltage, resultant current and impedance.
+
+p of a diagram. Draw ‘Voltage & current |
+
+b.
+
+Illustrate and explain the Construction and working principle of single-phase
+Induction Motor.
+
+Construct the derivation for resonant frequency of an R-L-C series circuit,
+In a R-L-C series circuit, a resistance of 10 Q, inductance of 0.2 H anda
+capacitance of 40 uF is su
+
+BL-6.1 pplied with a 100 V supply at variable frequency.
+” Find the frequency at which resonance takes place and the half-power
+points.
+Q4 b. Show the pin diagram of an Operational amplifier. Explain the concept of an | [10]
+CO-4; SO-
+
+| Show the circuit diagram of the full wave brid
+
+inverting op-amp configuration.
+
+ge rectifier and explain its
+operation with the necessary waveforms.
+
+Demonstrate NAND and NOR gates as universal gates.
+
+A phase transformer has p imary turns and 1050 secondary turns.
+The net cross-sectional area of the core is 55 cm2. If the primary winding be
+connected to a 400 V, 50 Hz single phase supply, solve:
+
+[10]
+
+[10]
+
+2
+--- page 3 ---
+| BL-3
+
+(i) maximum value of the flux density in the core
+
+Oey
+(ii) voltage induced in the secondary winding. :
+
+Q6
+CO-1; SO-
+1;
+
+Define Superposition theorem. What are the various steps to be followed for | [10]
+
+calculation of load current using Superposition theorem. Explain with the
+help of a circuit diagram in detail.
+
+In the network shown in figure below, find the Norton current Tg. r [7]
+: LOB S0- 50 40 4
+BL-l VW Wo
++ =
+=F 80V 109. R=50
+5} 50 60 B
+WWW
+Q7 b. Discuss the various types of losses in transformers. [7]
+CO-3; SO-
+1;
+BL-6
+Q7 C Apply Boolean Algebra rules to simplify the following expression: [6]
+
+>
+
+BL-3
+````
+
+## 2022-23 · Exam not stated · Sem 1 · paper 2ae719b73d3b
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic Electrical & Electronics Engineering, Common Paper, Sem-II, Batch 2021-22, _3a9f84e6.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 85.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG®
+Academic Year: 2022-2023
+
+Program: B.Tech (IT,EXTC/MXTC,CSE-cyber security,CE,CS/DS/AIDS) Year: I Semeéster: Il
+
+Subject: Basic Electrical & Electronics Engineering Time: 03 hrs (2:00pm ‘ty 5:00 pm)
+Date: 03] 07] 2023 No. of Pages:3
+
+Marks: 100
+
+~_ReJExamination (202!- 29]2020- 28)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. .
+
+1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall__5_ questions to be attempted.
+4) All questions carry equal marks.
+
+_~ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: , | 20]
+~ p SO-1; | a. Define and explain Kirchhoff’s voltage and current law with anexample. | 4
+b. The equation for an alternating current is given by i= 77 sin 314¢. Find
+
+(i) the peak value
+CO-2; SO- 1; (ii) frequency 4*]
+BL-2 (iii) _ time period
+
+(iv) instantaneous value at t= 2 ms
+co3:so-1. |& Explain the following terms related to a transformer
+ae 80-1, (03) Voltage regulation 4
+
+> (ii) _ Efficiency
+ea ee d. Draw the symbol of NAND gate and explain its operation with the help of ‘
+> | BLT” a truth table.
+
+Pe SO-1; | e. Compare PNP and NPN transistors. 4
+Q@ a. The load resistance (R) value in the circuit given below is 5 Q. Find
+ae 80-15 @ Thevenin equivalent voltage between points A and B
+
+(ii) Thevenin equivalent resistance between points A and B [10]
+(iii) | Current flowing through load resistance Rz using Thevenin
+equivalent voltage (Vra) and Thevenin equivalent resistance
+
+(Rin)
+--- page 2 ---
+202 402
+2 L - ]
+100V —— A B
+802 502
+D
+
+Explain the analysis and phasor diagram of series RLC circuit energized by
+a sinusoidal ac voltage showing the relative positions of applied voltage,
+
+CO-2; SO-1;
+BL-2 component voltage and the resultant current for
+@ Xi>Xc [10]
+(ii) Xi<Xc
+Gii) Xi=Xc
+Compute, for a series R-L-C circuit having R= 50 Q, L= 1H and C = 150pF
+@ Resonance Frequency in Hz .
+(ii) Quality factor of the circuit
+@ (ii) Bandwidth in Hz [5*2]
+oe ; SO; (iv) | Lower and upper frequency points of the band width in Hz
+(v) | Maximum value of voltage across capacitor if input voltage is
+v=5 sin(2000t)
+CO-3; SO-1; Describe the construction and working principle of a DC motor.
+BL-2 [10]
+Q4 A coil of resistance 8 Q and inductive reactance of 47.12 Q, is connected
+CO-2; SO-1; in series with a capacitor having capacitive reactance of 31.83 Q, across a
+BL-3 240 V, 50 Hz AC supply. Calculate
+(6) circuit current [5x2]
+(i) circuit phase angle
+Gii) potential difference across the coil
+(iv) _ potential difference across the capacitor
+(v) power dissipated
+Describe in brief any five characteristics of an ideal op-amp. Also state
+ea 80-1; what should be the values of these characteristics for an ideal op-amp. [5x2]
+Q5 ‘ , : oxi ae :
+C4 80-4: Explain the working of full wave rectifier with diagram and waveforms. List | [10]
+BL2 out the advantages and disadvantages of the full wave rectifier.
+Q5 Explain Half Subtractor for binary logic with logic diagram, truth table and 110]
+CO-4; SO-1; ,
+BL-2 Boolean function. Also implement half subtractor using basic logic gates.
+--- page 3 ---
+Q6 a. A 250 KVA, 11000/415 V, 50Hz, single phase transformer has 80 turns on | [10]
+CO-3; SO- the secondary, calculate:
+1: BL3 (i) The rated primary and secondary currents
+
+(ii) The number of primary turns
+
+(iii) The max value of the flux
+
+(iv) Voltage induced per turn
+
+Q6 b. By Norton's theorem, find the current in 20 Q resistor in the network shown .
+CO-1; SO- below.
+als 10 22 oe oy
+
+5 NTA f
+
+BL-2 [1 0)
+
+100Vv 7 102 = 202
+-O7 a. State superposition theorem. What are the various steps to be followed for
+
+CO-1; SO- calculation of load current using superposition theorem? Explain with the 7
+1; help of circuit diagram in details. . [7]
+BL-1
+Q7 b. Explain the working principle of single-phase transformer and derive the
+CO-3; SO- e.m.f. equation for it. [7]
+1; BL-1
+Q7 c.
+
+Realize Boolean function F = A’BC + AB'C + ABC’+ ABC using [6]
+CO-2; SO-
+i: BL3 basic logic gates and write the truth table of the given Boolean function.
+````
+
+## 2022-23 · Exam not stated · Sem 1 · paper 6487340fa0f7
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic Electrical and Eloectronics Engineering, 1st Year, Sem-I, Year 2021-22 & 20_3c641c3f.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 March 2023
+- Text: ocr (3 pages), mean OCR confidence 84.9
+
+````text
+n
+
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: B.Tech (All Streams) / MBA Tech (All Streams) Year: I Semester : I
+a“ AcademicYear: 2022-23 \
+Subject: Basic Electrical and Electronics Engineering Marks: 100
+
+Time: 11.00 am - 2.00 pm
+
+Date : 02 March 2023
+Durations: 3 (Hrs)
+
+Re-Examination (2021-22/2022-23) No. of Pages: 3
+
+Tesiractions: Candidates ‘should read carefully the instructions printed on the question paper -and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any__4 __ questions.
+3)Inall__5_ questions to be attempted.
+4) All questions carry equal marks. :
+
+> 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. .
+
+Qi Answer briefly:
+cO-1;S0-1; | a, Define the following terms {1*4]
+BL-L (i) Node
+(ii) Branch
+(iii) loop
+(iv) Mesh
+C0-2;50-1; | b. The maximum value of a sinusoidal alternating current is 25 A at 50 Hz | (41
+Bla frequency. Write the equation for the instantaneous value of the alternating
+current and determine its value at 14 ms.
+co- = SO-4; | c. List the important characteristics of an ideal transformer. 4]
+BL- ;
+> ae so-t; | d. Write the differences between general purpose diode-and Zener diode. (4)
+oF sot, le. Explain why NAND gate is called a Universal gate. 14)
+BL
+a ‘Determine the current through "8 Q resistor in the network shown by Too
+CO-1; SO-1; Thevenin's theorem.
+BL3 5Q 1092 52
+--- page 2 ---
+Q b A sinusoidal alternating voltage is supplied to a series RL circuit. Explain | 110]
+
+CO-2;S0-1; | the current flow in a series RL circuit and derive an equation of
+
+BL-4 instantaneous current and phase relationship between voltage and current.
+Dro: an Seu circuit and phasor diagram for this circuit.
+
+Q3 , a = RLC series circuit with a resistance ae 10 Q, “inductance oe 0. 2H and a | [5*2]
+CO-2; $O-1; capacitance of 40 pF is supplied with a 100 V supply at a variable frequency.
+BL-2
+
+Find the following w.r.t. series resonant circuit,
+i) Resonant frequency
+(ii) Current at resonance
+Gii) | Power factor
+(iv) Voltage across R L and C.
+(v) _ Quality factor
+
+Q3 b Explain the construction, working and working principle of single-phase | [10]
+0-3; SO-1; induction motor with the help of a suitable diagram.
+
+BL-1
+Oe a A series circuit having pure resistance of 40Q, pure inductance of 50.07mH | [2°51
+CO-2; SO-1; and a capacitor is across a 400V, 50 Hz, A. ec supply. This RLC combination
+
+BL-4 draws a current of 10A. Determine
+
+@ Power factor of the circuit
+Gi) —_ Capacitor value.
+
+Q4 b Explain what is op-amp. Draw the symbol and Pin diagram of op-amp. | [10]
+
+CO-4; SO-1; Explain inverting and non-inverting op- amp with neat diagram.
+BL-2
+
+2s |a_| Explain the construction and working principle of Full wave Rectifier with | 04
+al neat, labelled diagrams and waveforms. List out the advantages,
+
+disadvantages, and applications for the same.
+
+es b Explain Half Adder for binary logic with logic diagram, truth table and | [0
+CO-4; SO-1; Boolean function. Also implement Half Adder using basic logic gates.
+
+BL-2
+
+OS esos: a A 5 KVA, 240/2400 V, 50 Hz single phase transformer has the maximum
+BLS value of flux density as 1.2 teslas. If emf per turn is 8, calculate [10]
+@ Number of primary and secondary turns.
+(ii) Cross sectional area of core.
+(iii) Primary and secondary currents at full load.
+06 b Staté Norton’s theorem. What are the various steps to be followed for | [9
+iy S0-4; calculation of load current using Norton’ ’s theorem. Explain with the help of
+
+circuit Ee in details. —_
+--- page 3 ---
+Q7 a | Solve the following circuit using superposition theorem to obtain the value | 1
+CO-1; SO-1; .
+
+BL-4 of current flowing in 5 O resistance
+
+Q7 b Explain the working principle of single-phase transformer and derive the
+a S0-1; e.m.f. equation for it.
+Q Cc Realize the following Boolean function F = ABC + ABC +/|©
+CO-4; 0-1; A’ BC’ using only AND, OR, and NOT gates, and also write the truth table
+BL-6 : :
+
+i of the given Boolean function.
+
+tr
+````
+
+## 2022-23 · Exam not stated · Sem 1 · paper dc9003e615e7
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic of Electrical and Electronics Engineering, 1st, Year, Sem-I, Year 2021-22, _72b97fcc.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 February 2023
+- Text: ocr (2 pages), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: B.Tech (CSE Data Science) Year: I Semester : I
+ra AcademicYear: 2022-23
+Subject: Basics of Electrical and Electronics Engineering Marks: 100
+‘ Time: 11.00 am - 2.00 pm
+
+Date : 27 February 2023 .
+Durations: 3 (Hrs)
+
+Re-Examination (2021-22/2022-23) No. of Pages: 2 __
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+3) Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+= 5) Answer to each new question ‘to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly:
+
+CO-4; SO-1; | a. | Design a Half— Adder circuit. [5]
+BL-6
+
+CO-4; SO-1; | b. | Explain the working of a non - inverting amplifier circuit. [5]
+BL-2 -
+
+CO-1; SO-1; | c. | Find the currents through all the resistances, and the voltages across 1Q and 15Q. [5]
+BL-1
+
+= 12
+“O
+_ = 102 1582
+
+ND
+CO-3; SO-1; | d. | Identify different types of losses in transformer. [5]
+BL-3
+Q2 a. | With an example, illustrate the concept of Kirchhoff’s Current Law. [10]
+CO-1; SO-1;
+BL-2
+CO-3; SO-1; | b. | Demonstrate the working of a single phase induction motor, with a neat diagram. [10]
+BL-2
+Q3 a. | Examfhe the phenomenon of resonance in electrical circuits using a series combination of R | [10]
+CO-2; SO-1; -L-C.
+BL-4
+
+CO-3; SO-1; | b. | With the help of neat diagram, outline the working of 1 — (single phase) Transformer. [10]
+
+BL-2
+~ah2 .
+--- page 2 ---
+Q4 a. | Utilize integration methods to obtain the expression of average value of a sinusoidal current | [10]
+CO-2; SO-1; signal, i = I, sin wt
+BL-3
+
+CO-3; SO-1; | b. | A single-phase, 10 kVA, 5000V/250V, 50Hz transformer is used to step down the voltage | [10]
+BL-5 ofa distribution system. The low voltage is required to be kept constant at 250V. Determine
+the number of turns in each winding for a maximum core flux of 60mWb, full load secondary
+current, full load impedance to be connected to low voltage side, and maximum flux density
+for a core of cross sectional area 150 cm’.
+
+Q5 a. | Solve the circuit for the node voltages at X and Y, and the current flowing in 12Q resistor. [10]
+CO-1; SO-1;
+BL3 5a x 120 7 5Q
+
+PIN SING AI
+
+<
+
+“OQ sm se Oe
+
+GND
+
+CO-2; SO-1; | b. | A circuit is excited with an AC voltage of v = 168.85 sin(377t — 52°) V. The circuit is | [10]
+
+BL-3 seen to carry an ac current i = 26.39 sin 377t A. Make use of current voltage relation to
+identify the circuit elements, find the total impedance of the circuit, values of the circuit
+elements, power factor, true power, reactive power, apparent power.
+
+Q6 a. | Estimate the current through Ry = 10Q using Thevenin’s theorem in the following circuit. | [10]
+CO-1; SO-1;
+
+BL-5 M 1682 N 20
+
+AAS
+5
+nS Sun €3) 5ov
+25V
+GND
+
+CO-4; SO-1; | b. | Summarize the working of a Full Wave — Centre-tap Rectifier with a neat sketch of the | [10]
+BL-2 circuit, and waveforms.
+
+Q7 a. | Find the RMS, Average, form factor, peak factor, frequency, period, values, and phase angle | [10]
+CO-2; SO-1; at t = 0.328ms for the following AC signal;
+
+BL-1 v = 442.48 sin(3985t) V.
+
+CO-4; SO-1; | b. | Simplify both the boolean expressions using basic boolean laws. [10]
+BL-3 i. P = M'N'O' + M'NO + MN'0'+ MN'O
+
+ii. D= E'F'G + E'FG' + EFG' + EFG
+
+
+maf. .
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper aee0d5e8873d
@@ -7191,6 +8029,7 @@ table of the given Boolean function.
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic Electrical and Electronics Engineering, 1st Year, Sem I, Year 2022-23 Final_c2b63a5d.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 January 2023
 - Text: ocr (3 pages), mean OCR confidence 81.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SN SVKM’s NMIMS
@@ -7297,7 +8136,6 @@ Qa [2*5] _
 CO-2; SO-1; figure.
 BL-4 ao |...
 vt {[\,,
-ra) Tw or amr 4a OS TT (ot)
 Q4 b Write Short note on the following: [10]
 os SO-1; . i. Light Emitting Diode
 
@@ -7624,704 +8462,6 @@ both of them using truth table.
 6
 ````
 
-## 2022-23 · Re-Exam · Sem 2 · paper c11a96bf21a4
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/BASIC ELECTRICAL AND ELECTRONICS ENGINEERING/Basic Electrical & Electronics Engineering, Batch 2021-22 & 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/ 6 /2024
-- Text: ocr (3 pages), mean OCR confidence 87.2
-
-````text
-SVKM’S NMIMS LIBRAR}
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN R@¥NGINEE
-
-Nun: Sp)
-Academic Year: 2023-2024 S_UNIVER
-
-Program: B. Tech. Year: I Semester: II
-
-Stream: IT/EXTC/Mechatronics/CSE-Cyber Sec./Data Sc./Comp. Engg./Comp Sc./AIDS
-
-Subject: Basic Electrical & Electronics Engineering Time: 3 hrs (2pm to Spm )
-Date: 24/ 6 /2024 7 No. of Pages:3
-Marks: 100
-
-fla
-
-Re-examination (202 1-22/22-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly:
-vo 1SO- fa. Define the following terms in the context of the DC network: [4]
-BL-1 i. Junction
-
-ii. Branch
-
-iii. Loop
-
-iv. Mesh
-CO-2;SO- | b. With the help of a suitable diagram, explain the concept of leading and |. [4]
-1; : iti
-BL2 lagging AC quantities.
-CO-3;SO- | ¢, What is a transformer? Write the differences between an ideal and practical | [4]
-1b transformer.
-BL-1
-Co-4;SO- | d. What is a Zener diode? How does it work like a voltage regulator? [4]
-1;
-BL-1
-CO-4;SO- |e. Show the truth tables for: [4]
-1, i. Ex-OR gate
-BL-1 ~
-
-ii. AND gate
-
-iii. Half adder
-iv. Half subtract
-
-Q2 a. For the circuit shown, find the value of Thevenin’s equivalent voltage and | [)o
-CO-1; SO- Thevenin’s equivalent resistance between nodes A and B.
-1;
-BL-1
-1
---- page 2 ---
-200 402
-e
-100V A B
-802 502
-D
-
-Q2 b. A series R-L circuit having a resistance of 20 0 and an inductance of 80 mH [10]
-CO-2; SO- is connected to a 200 V, 50 Hz supply. Solve the following:
-. 7 (i) Inductive reactance
-
-(ii) Impedance
-
-(iii) Current
-
-(iv) | Power factor
-
-(v) Power consumed
-
-Analyze ‘a series ‘R-C with ‘the hel
-waveforms, Voltage triangle and impedance triangle and write the equations
-of Voltage, resultant current and impedance.
-
-p of a diagram. Draw ‘Voltage & current |
-
-b.
-
-Illustrate and explain the Construction and working principle of single-phase
-Induction Motor.
-
-Construct the derivation for resonant frequency of an R-L-C series circuit,
-In a R-L-C series circuit, a resistance of 10 Q, inductance of 0.2 H anda
-capacitance of 40 uF is su
-
-BL-6.1 pplied with a 100 V supply at variable frequency.
-” Find the frequency at which resonance takes place and the half-power
-points.
-Q4 b. Show the pin diagram of an Operational amplifier. Explain the concept of an | [10]
-CO-4; SO-
-
-| Show the circuit diagram of the full wave brid
-
-inverting op-amp configuration.
-
-ge rectifier and explain its
-operation with the necessary waveforms.
-
-Demonstrate NAND and NOR gates as universal gates.
-
-A phase transformer has p imary turns and 1050 secondary turns.
-The net cross-sectional area of the core is 55 cm2. If the primary winding be
-connected to a 400 V, 50 Hz single phase supply, solve:
-
-[10]
-
-[10]
-
-2
---- page 3 ---
-| BL-3
-
-(i) maximum value of the flux density in the core
-
-Oey
-(ii) voltage induced in the secondary winding. :
-
-Q6
-CO-1; SO-
-1;
-
-Define Superposition theorem. What are the various steps to be followed for | [10]
-
-calculation of load current using Superposition theorem. Explain with the
-help of a circuit diagram in detail.
-
-In the network shown in figure below, find the Norton current Tg. r [7]
-: LOB S0- 50 40 4
-BL-l VW Wo
-+ =
-=F 80V 109. R=50
-5} 50 60 B
-WWW
-Q7 b. Discuss the various types of losses in transformers. [7]
-CO-3; SO-
-1;
-BL-6
-Q7 C Apply Boolean Algebra rules to simplify the following expression: [6]
-Os; So- F = AB + AC + ABC(AB + C)
-
->
-
-BL-3
-````
-
-## 2021-22 · Exam not stated · Sem 1 · paper 2ae719b73d3b
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic Electrical & Electronics Engineering, Common Paper, Sem-II, Batch 2021-22, _3a9f84e6.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 85.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG®
-Academic Year: 2022-2023
-
-Program: B.Tech (IT,EXTC/MXTC,CSE-cyber security,CE,CS/DS/AIDS) Year: I Semeéster: Il
-
-Subject: Basic Electrical & Electronics Engineering Time: 03 hrs (2:00pm ‘ty 5:00 pm)
-Date: 03] 07] 2023 No. of Pages:3
-
-Marks: 100
-
-~_ReJExamination (202!- 29]2020- 28)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. .
-
-1) Question No._1___ is compulsory.
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall__5_ questions to be attempted.
-4) All questions carry equal marks.
-
-_~ 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: , | 20]
-~ p SO-1; | a. Define and explain Kirchhoff’s voltage and current law with anexample. | 4
-b. The equation for an alternating current is given by i= 77 sin 314¢. Find
-
-(i) the peak value
-CO-2; SO- 1; (ii) frequency 4*]
-BL-2 (iii) _ time period
-
-(iv) instantaneous value at t= 2 ms
-co3:so-1. |& Explain the following terms related to a transformer
-ae 80-1, (03) Voltage regulation 4
-
-> (ii) _ Efficiency
-ea ee d. Draw the symbol of NAND gate and explain its operation with the help of ‘
-> | BLT” a truth table.
-
-Pe SO-1; | e. Compare PNP and NPN transistors. 4
-Q@ a. The load resistance (R) value in the circuit given below is 5 Q. Find
-ae 80-15 @ Thevenin equivalent voltage between points A and B
-
-(ii) Thevenin equivalent resistance between points A and B [10]
-(iii) | Current flowing through load resistance Rz using Thevenin
-equivalent voltage (Vra) and Thevenin equivalent resistance
-
-(Rin)
---- page 2 ---
-202 402
-2 L - ]
-100V —— A B
-802 502
-D
-
-Explain the analysis and phasor diagram of series RLC circuit energized by
-a sinusoidal ac voltage showing the relative positions of applied voltage,
-
-CO-2; SO-1;
-BL-2 component voltage and the resultant current for
-@ Xi>Xc [10]
-(ii) Xi<Xc
-Gii) Xi=Xc
-Compute, for a series R-L-C circuit having R= 50 Q, L= 1H and C = 150pF
-@ Resonance Frequency in Hz .
-(ii) Quality factor of the circuit
-@ (ii) Bandwidth in Hz [5*2]
-oe ; SO; (iv) | Lower and upper frequency points of the band width in Hz
-(v) | Maximum value of voltage across capacitor if input voltage is
-v=5 sin(2000t)
-CO-3; SO-1; Describe the construction and working principle of a DC motor.
-BL-2 [10]
-Q4 A coil of resistance 8 Q and inductive reactance of 47.12 Q, is connected
-CO-2; SO-1; in series with a capacitor having capacitive reactance of 31.83 Q, across a
-BL-3 240 V, 50 Hz AC supply. Calculate
-(6) circuit current [5x2]
-(i) circuit phase angle
-Gii) potential difference across the coil
-(iv) _ potential difference across the capacitor
-(v) power dissipated
-Describe in brief any five characteristics of an ideal op-amp. Also state
-ea 80-1; what should be the values of these characteristics for an ideal op-amp. [5x2]
-Q5 ‘ , : oxi ae :
-C4 80-4: Explain the working of full wave rectifier with diagram and waveforms. List | [10]
-BL2 out the advantages and disadvantages of the full wave rectifier.
-Q5 Explain Half Subtractor for binary logic with logic diagram, truth table and 110]
-CO-4; SO-1; ,
-BL-2 Boolean function. Also implement half subtractor using basic logic gates.
---- page 3 ---
-Q6 a. A 250 KVA, 11000/415 V, 50Hz, single phase transformer has 80 turns on | [10]
-CO-3; SO- the secondary, calculate:
-1: BL3 (i) The rated primary and secondary currents
-
-(ii) The number of primary turns
-
-(iii) The max value of the flux
-
-(iv) Voltage induced per turn
-
-Q6 b. By Norton's theorem, find the current in 20 Q resistor in the network shown .
-CO-1; SO- below.
-als 10 22 oe oy
-
-5 NTA f
-
-BL-2 [1 0)
-
-100Vv 7 102 = 202
--O7 a. State superposition theorem. What are the various steps to be followed for
-
-CO-1; SO- calculation of load current using superposition theorem? Explain with the 7
-1; help of circuit diagram in details. . [7]
-BL-1
-Q7 b. Explain the working principle of single-phase transformer and derive the
-CO-3; SO- e.m.f. equation for it. [7]
-1; BL-1
-Q7 c.
-
-Realize Boolean function F = A’BC + AB'C + ABC’+ ABC using [6]
-CO-2; SO-
-i: BL3 basic logic gates and write the truth table of the given Boolean function.
-````
-
-## 2021-22 · Exam not stated · Sem 1 · paper 6487340fa0f7
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic Electrical and Eloectronics Engineering, 1st Year, Sem-I, Year 2021-22 & 20_3c641c3f.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 March 2023
-- Text: ocr (3 pages), mean OCR confidence 84.9
-
-````text
-n
-
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program: B.Tech (All Streams) / MBA Tech (All Streams) Year: I Semester : I
-a“ AcademicYear: 2022-23 \
-Subject: Basic Electrical and Electronics Engineering Marks: 100
-
-Time: 11.00 am - 2.00 pm
-
-Date : 02 March 2023
-Durations: 3 (Hrs)
-
-Re-Examination (2021-22/2022-23) No. of Pages: 3
-
-Tesiractions: Candidates ‘should read carefully the instructions printed on the question paper -and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any__4 __ questions.
-3)Inall__5_ questions to be attempted.
-4) All questions carry equal marks. :
-
-> 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. .
-
-Qi Answer briefly:
-cO-1;S0-1; | a, Define the following terms {1*4]
-BL-L (i) Node
-(ii) Branch
-(iii) loop
-(iv) Mesh
-C0-2;50-1; | b. The maximum value of a sinusoidal alternating current is 25 A at 50 Hz | (41
-Bla frequency. Write the equation for the instantaneous value of the alternating
-current and determine its value at 14 ms.
-co- = SO-4; | c. List the important characteristics of an ideal transformer. 4]
-BL- ;
-> ae so-t; | d. Write the differences between general purpose diode-and Zener diode. (4)
-oF sot, le. Explain why NAND gate is called a Universal gate. 14)
-BL
-a ‘Determine the current through "8 Q resistor in the network shown by Too
-CO-1; SO-1; Thevenin's theorem.
-BL3 5Q 1092 52
---- page 2 ---
-Q b A sinusoidal alternating voltage is supplied to a series RL circuit. Explain | 110]
-
-CO-2;S0-1; | the current flow in a series RL circuit and derive an equation of
-
-BL-4 instantaneous current and phase relationship between voltage and current.
-Dro: an Seu circuit and phasor diagram for this circuit.
-
-Q3 , a = RLC series circuit with a resistance ae 10 Q, “inductance oe 0. 2H and a | [5*2]
-CO-2; $O-1; capacitance of 40 pF is supplied with a 100 V supply at a variable frequency.
-BL-2
-
-Find the following w.r.t. series resonant circuit,
-i) Resonant frequency
-(ii) Current at resonance
-Gii) | Power factor
-(iv) Voltage across R L and C.
-(v) _ Quality factor
-
-Q3 b Explain the construction, working and working principle of single-phase | [10]
-0-3; SO-1; induction motor with the help of a suitable diagram.
-
-BL-1
-Oe a A series circuit having pure resistance of 40Q, pure inductance of 50.07mH | [2°51
-CO-2; SO-1; and a capacitor is across a 400V, 50 Hz, A. ec supply. This RLC combination
-
-BL-4 draws a current of 10A. Determine
-
-@ Power factor of the circuit
-Gi) —_ Capacitor value.
-
-Q4 b Explain what is op-amp. Draw the symbol and Pin diagram of op-amp. | [10]
-
-CO-4; SO-1; Explain inverting and non-inverting op- amp with neat diagram.
-BL-2
-
-2s |a_| Explain the construction and working principle of Full wave Rectifier with | 04
-al neat, labelled diagrams and waveforms. List out the advantages,
-
-disadvantages, and applications for the same.
-
-es b Explain Half Adder for binary logic with logic diagram, truth table and | [0
-CO-4; SO-1; Boolean function. Also implement Half Adder using basic logic gates.
-
-BL-2
-
-OS esos: a A 5 KVA, 240/2400 V, 50 Hz single phase transformer has the maximum
-BLS value of flux density as 1.2 teslas. If emf per turn is 8, calculate [10]
-@ Number of primary and secondary turns.
-(ii) Cross sectional area of core.
-(iii) Primary and secondary currents at full load.
-06 b Staté Norton’s theorem. What are the various steps to be followed for | [9
-iy S0-4; calculation of load current using Norton’ ’s theorem. Explain with the help of
-
-circuit Ee in details. —_
---- page 3 ---
-Q7 a | Solve the following circuit using superposition theorem to obtain the value | 1
-CO-1; SO-1; .
-
-BL-4 of current flowing in 5 O resistance
-
-Q7 b Explain the working principle of single-phase transformer and derive the
-a S0-1; e.m.f. equation for it.
-Q Cc Realize the following Boolean function F = ABC + ABC +/|©
-CO-4; 0-1; A’ BC’ using only AND, OR, and NOT gates, and also write the truth table
-BL-6 : :
-
-i of the given Boolean function.
-
-tr
-````
-
-## 2021-22 · Exam not stated · Sem 1 · paper dc9003e615e7
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic of Electrical and Electronics Engineering, 1st, Year, Sem-I, Year 2021-22, _72b97fcc.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 February 2023
-- Text: ocr (2 pages), mean OCR confidence 88.9
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program: B.Tech (CSE Data Science) Year: I Semester : I
-ra AcademicYear: 2022-23
-Subject: Basics of Electrical and Electronics Engineering Marks: 100
-‘ Time: 11.00 am - 2.00 pm
-
-Date : 27 February 2023 .
-Durations: 3 (Hrs)
-
-Re-Examination (2021-22/2022-23) No. of Pages: 2 __
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-2) Out of remaining questions, attempt any 4 _ questions.
-3) Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-= 5) Answer to each new question ‘to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly:
-
-CO-4; SO-1; | a. | Design a Half— Adder circuit. [5]
-BL-6
-
-CO-4; SO-1; | b. | Explain the working of a non - inverting amplifier circuit. [5]
-BL-2 -
-
-CO-1; SO-1; | c. | Find the currents through all the resistances, and the voltages across 1Q and 15Q. [5]
-BL-1
-
-= 12
-“O
-_ = 102 1582
-
-ND
-CO-3; SO-1; | d. | Identify different types of losses in transformer. [5]
-BL-3
-Q2 a. | With an example, illustrate the concept of Kirchhoff’s Current Law. [10]
-CO-1; SO-1;
-BL-2
-CO-3; SO-1; | b. | Demonstrate the working of a single phase induction motor, with a neat diagram. [10]
-BL-2
-Q3 a. | Examfhe the phenomenon of resonance in electrical circuits using a series combination of R | [10]
-CO-2; SO-1; -L-C.
-BL-4
-
-CO-3; SO-1; | b. | With the help of neat diagram, outline the working of 1 — (single phase) Transformer. [10]
-
-BL-2
-~ah2 .
---- page 2 ---
-Q4 a. | Utilize integration methods to obtain the expression of average value of a sinusoidal current | [10]
-CO-2; SO-1; signal, i = I, sin wt
-BL-3
-
-CO-3; SO-1; | b. | A single-phase, 10 kVA, 5000V/250V, 50Hz transformer is used to step down the voltage | [10]
-BL-5 ofa distribution system. The low voltage is required to be kept constant at 250V. Determine
-the number of turns in each winding for a maximum core flux of 60mWb, full load secondary
-current, full load impedance to be connected to low voltage side, and maximum flux density
-for a core of cross sectional area 150 cm’.
-
-Q5 a. | Solve the circuit for the node voltages at X and Y, and the current flowing in 12Q resistor. [10]
-CO-1; SO-1;
-BL3 5a x 120 7 5Q
-
-PIN SING AI
-
-<
-
-“OQ sm se Oe
-
-GND
-
-CO-2; SO-1; | b. | A circuit is excited with an AC voltage of v = 168.85 sin(377t — 52°) V. The circuit is | [10]
-
-BL-3 seen to carry an ac current i = 26.39 sin 377t A. Make use of current voltage relation to
-identify the circuit elements, find the total impedance of the circuit, values of the circuit
-elements, power factor, true power, reactive power, apparent power.
-
-Q6 a. | Estimate the current through Ry = 10Q using Thevenin’s theorem in the following circuit. | [10]
-CO-1; SO-1;
-
-BL-5 M 1682 N 20
-
-AAS
-5
-nS Sun €3) 5ov
-25V
-GND
-
-CO-4; SO-1; | b. | Summarize the working of a Full Wave — Centre-tap Rectifier with a neat sketch of the | [10]
-BL-2 circuit, and waveforms.
-
-Q7 a. | Find the RMS, Average, form factor, peak factor, frequency, period, values, and phase angle | [10]
-CO-2; SO-1; at t = 0.328ms for the following AC signal;
-
-BL-1 v = 442.48 sin(3985t) V.
-
-CO-4; SO-1; | b. | Simplify both the boolean expressions using basic boolean laws. [10]
-BL-3 i. P = M'N'O' + M'NO + MN'0'+ MN'O
-
-ii. D= E'F'G + E'FG' + EFG' + EFG
-
-oo oe og a ai a aoe
-
-maf. .
-````
-
-## 2021-22 · Final + Re-Exam · Sem 1 · paper 429070073a06
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/Basic Electrical & Electronics Engineering, Sem-I, Final Exam ,Re-exam 2021-22,22_a950ba5a.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 85.5
-
-````text
-SVKM’S NMIMS Ba
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING _ :
-Academic Year: 2023-2024 v4
-Program: B. Tech/ MBA Tech (IT,Computer,DS,AI, AIML, Mech, Civil, CSE(DS) Year: I Semestet: I
-Subject: Basic Electrical & Electronics Engineering ae Time: 3 hrs (2 PM to 5 PM)
-Date:_01/ 12/2023 No. of Pages: 3
-
-Marks: 100
-
-Final Examination/Re-Examination (2021-22/2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-| of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-2) Out of remaining questions, attempt any 4 _ questions.
-3) Inall___5__ questions to be attempted.
-
-oO 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql Answer briefly:
-a 80-1; | a, Calculate an equivalent resistance between points A and B in the circuit shown 4]
-below
-| A,
-| 102
-| 10.2 50
-! B AWA
-oO 52
-CO-2; SO-1; | b, Define [4*1]
-BL-1
-(i) Time period
-(ii) Frequency
-(iii) = Amplitude
-(iv) Phase
-~ ? 80-1; | ¢, List the different types of losses in transformer. [4]
-Pe SO-1; | d. What is Zener Diode and how does it work as a Voltage Regulator? [4]
-| -
-| me SO-1; | @, Apply NAND Logic to implement OR gate. [4]
-| r
-|
-1
---- page 2 ---
-i
-
-Q a Use the Thevenin’s theorem to calculate current flowing in 2 Q resistor in the (10)
-
-CO-1; SO-1; Lo.
-BL-3 circuit shown below.
-
-52 7 ¥ 20
-
-AVA, jE MN
-
-40V = S 100 = 10V
-Q2 b Define resonance in a series RLC circuit. [5*2]
-CO-2; SO-1; A series RLC circuit with the resistance of 10 Q, inductance 0.014 H and
-BL-1,3 capacitance is 100 wF supplied with a 250 V supply at variable frequency.
-Calculate:
-(69) Resonance frequency
-
-(ii) Quality factor
-(iii) Bandwidth
-(iv) Lower and upper cut-off frequencies
-
-Q3 a ; Analyze the behavior of a pure capacitive AC circuit on the basis of following
-CO-2; SO-1; point. Draw the suitable circuit diagram also. [5*2]
-BL-4
-
-(i) Alternating Current
-(ii) Waveforms
-
-(iii) | Phasor Diagram
-(iv) Impedance
-
-(v) Power factor
-Q3 b Illustrate and explain the construction and working of a DC Motor with the | [10]
-CO-3; SO-1; help of suitable diagram.
-
-BL-2
-
-Q4 rage (lava) and RMS a sms) (Root ‘Mean S quare) value
-
-CO-2; SO-1; of current in the sinusoidal waveform given below.
-BL-1
-* i
-1
-/V fd 25
-ee at
-Pe Corer
---- page 3 ---
-i
-
-Q4 b What is a Rectifier? Explain the working of Full wave rectifier with the help.of [10]
-
-CO-4; SO-1; diagram. Also write advantages and disadvantages of Full wave rectifier.
-BL-1
-
-5 a Write Short note on the following: . [10]
-C0-4; SO-1; i. Transducers
-
-aia ii. Photo diode
-
-Qs b Explain Half Subtractor for binary logic with logic diagram, truth table and | [0]
-CO-4; SO-1; Boolean function. Also implement Half Subtractor using basic logic gates.
-
-BL-2,3
-
-Q6 a Show the de:
-
-caso rivation of the EMF equation for single phase transformer.
-BLI Hence find the maximum flux density in the core and voltage inducéd in secondary | [5*2]
-for N; = 350, and N2 =1050, cross sectional area is 55 cm? if primary winding be
-& connected to a 400V, 50 Hz, 1-6 supply.
-Qs b State Superposition theorem. Explain the theorem in detail and step wise with the | [1°
-col: SO-1; help of a circuit diagram.
-
-By mesh analysis find current through 2Q resistor in the circuit.
-
-CO-1; SO-1;
-BL3 12 52
-AAA AAW |
-6a (4) : 20 | 10V
-Qq7 b Draw a neatly labelled diagram of a single phase transformer and explain its | (7
-ee? SO-1, working principle.
-Qq7 c Apply Basic gate logic to implement following Boolean expression. Also draw the | [1
-CO-4; SO-1; Truth Table.
-
-Bhs Y=((A°+B’y +0’)
-````
-
 ## 2021-22 · Final-Exam · Sem 2 · paper a3d64f9f7c96
 
 - Departments: Common (all branches)
@@ -8523,144 +8663,4 @@ l he
 20V
 
 2/2
-````
-
-## Year not stated · Exam not stated · Sem 1 · paper 58312abd0379
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL AND ELECTORNICS ENGINEERING/QP B Tech, MBA Tech (IT,MECH,CIVIL,COMP,DS,AI&ML,CSE-DS), Basic Electrical and El_bf6d53b3.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 88.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026
-Program/s: B.Tech./MBA Tech. Year: I Semester: I
-Stream/s : B.Tech. Al, AIML, Civil, CSE DS (7057), MECH/ MBATech.
-AI, COMP, DS, IT
-
-Subject: Basic Electrical and Electronics Engineering Time: 3 hrs (Qso0pmto St 20pm )
-Date:_2. /)2 /2025 No. of Pages: 03
-Marks: 100
-
-Re-Examination { Re-exam year 2022-23, 2023-24, 2024-25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-a. | Find equivalent resistance across terminals A and B.
-$a
-AW
-CO-1; SO-1; 40 |49 a 32 49
-BL-1,2 AoW VWA—~VW—o B [4]
-32
-AAW
-22 32
-CO-2; SO-1; | b. | Define and explain the following terms related to an alternating quantity 4
-BL-2,3 (i) Time period (ii) Amplitude (iii) Phase (iv) Phase difference [4]
-CO-3; SO-1; | ¢ | Consider a 50 Hz step down transformer has 400 turns and 2000 V supply.
-BL-1,2 Find the voltage across the secondary winding if it has 20 turns. [4]
-a SO-1; | d. | Demonstrate and explain the circuit diagram of a half-wave rectifier. [4]
---- page 2 ---
-
---- page 3 ---
-CO-4; SO-1; | e.
-
-BL-2 Show the two De Morgan’s theorems of Boolean algebra. [4]
-Q2 a.
-State Norton’s theorem. Explain the steps to obtain Norton’s equivalent current [10]
-ie SO-1; and resistance for a given circuit. Also draw Norton’s equivalent circuit.
-Q2 b. | Solve an AC circuit for the value of Impedance, resistance, reactance, power
-factor and power loss if voltage to the circuit is 1502300" V and current is
-CO-2; SO-1; 22-150" A. Operating frequency is 50 Hz. [10]
-BL-3
-Q3 a. | Develop EMF equation of a transformer.
-[10]
-CO-3; SO-1;
-BL-3
-
-b, | Analyse a R-L Circuit for
-
-Q3 (i) impedance
-(ii) = Power
-CO-2; SO-1; (iii) Power factor [10]
-BL-4 (iv) Active Power
-(v) _ Reactive Power.
-Q4 a.
-A series RLC circuit having R = 10 ohm, L=0.01 H and C= 100 uf, find the
-CO-2; SO-1; resonant frequency, quality factor, lower and upper frequencies and [10]
-BL-1 bandwidth.
-Q4 b. | Explain the working of an inverting and non-inverting operational amplifier
-with circuit diagram.
-CO-4; SO-1; [10]
-BL-2
-Q5 a. | Explain the working of PNP and NPN BJT transistor with help of neat
-diagrams.
-CO-4; SO-1; [10]
-BL-2
-Q5 b. | Show the block diagram, truth table and logic diagram of a half subtractor.
-CO-4; SO-1; Also write its Boolean expression. [10]
-BL-2,3
---- page 4 ---
-
---- page 5 ---
-a. | Apply Thevenin’s theorem on the given below circuit to find current across
-
-8Q resistor.
-§Q 10 Q
-Q6 WN Wy
-CO-1; SO-1; 7 [10]
-BL 250 V = $5 Q S80
-1 |
-‘|
-75V
-Q6 b.
-Explain the construction of a DC motor with the help of circuit diagram. [10]
-or SO-1; Explain any five parts in detail.
-
-a. | Identify the value of current flowing through the 5Q resistor in the given
-below circuit using Mesh Analysis method.
-
-po
-tT
-Q7
-BV 31 2 S40
-
-CO-1; SO-1; [7]
-BL-3 ANN. AM
-
-22 3Q
-
-| WA
-12V 52
-b. ; A 20-kVA single-phase transformer has 500 turns on the primary winding
-and 50 turns on the secondary winding. The primary is connected to a2
-
-CO-3; $O-1; kV, 50-Hz AC supply.
-
-BL-3 Solve to calculate: [7]
-(a) the secondary induced emf,
-(b) the primary and secondary full-load currents, and
-(c) the maximum flux in the core.
-
-BL-l * | Show how NOR gate works like a universal logic gate. [6]
---- page 6 ---
-
 ````

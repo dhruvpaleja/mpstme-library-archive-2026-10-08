@@ -1301,6 +1301,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/DISTRIBUTED COMPUTING/Distributed Computing, Sem VI, Year 2024-25 Final Exam & 2022-23 & 2023-24 Re Exam_fb6b46b2e7.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (18 pages), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1870,7 +1871,6 @@ Sender Receiver Receiver Receiver Receiver
 Last = 25 Last = 24 Last =23 Last = 24
 :
 Fares n 7 n r
-a RA ack 25 TT ackes | J wissedzal ) acu os
 
 Network
 
@@ -2398,6 +2398,332 @@ BL-02
 Page 2 of 2
 ````
 
+## 2023-24 · Re-Exam · Sem 6 · paper d847273fc499
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/DISTRIBUTED COMPUTING/Distributed Computing ,Re-exam 2022-2023.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 90.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Program/s: B. Tech/MBA Tech Year: 3 Semester: VI
+
+Stream/s : Computer Engineering (cs>
+
+Subject: Distributed Computing ° Time: 03 hrs (2ioepanto S + 00pus)
+Date:_2 / 7 / 2024 No. of Pages: 03
+
+Marks: 100
+
+_ Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+CO-1; | a. What is the need of Transparency in distributed system? Explain different
+SO- 2; f f a distributed 5
+BL-2 orms of transparency in distributed system.
+b. What is limitation of conventional Remote Procedure Call? How
+
+CO- 2; :
+
+SO- 2; Asynchronous RPC will help to overcome the problem of conventional | 5
+BL-4 RPC.
+
+CO-3; Cc. Explain the differences between permission-based solutions and token- 4
+SO- 2; : ig er,
+
+BL- 5 based solutions for mutual exclusion in a distributed system.
+
+co-4; | d. What are the types of redundancy? Elaborate the concept of Triple modular
+
+SO- 2; . . 5
+BL-4 redundancy in detail.
+
+Q2 a. “as ye . ara’
+
+Explain different scalability techniques used in distributed systems? How )
+
+CO-1; 1
+SO-2; scalability is achieved in distributed systems?
+
+BL-4
+--- page 2 ---
+Q2
+
+¥
+
+What are the characteristics of peer-to-peer systems? Explain principal *”
+
+CO-1; 10
+SO-2; working of BitTorrent file downloading system.
+BL- 2
+Q3 ‘ P . ;
+With the help of neat sketch explain architecture and working of Message
+CO-2; 10
+SO-2; Queuing System.
+BL-2
+Q3
+CO-2; Write down the steps in Remote Procedure Call and explain it with
+1
+SO-2; suitable example.
+BL-3
+Justify the need of mutual exclusion in distributed systems. Explain in
+4
+Q brief ANY ONE of the following algorithms for mutual exclusion: 0
+CO-3; 1
+SO-2; 1) Centralized algorithm.
+BE-3 2) Distributed algorithm.
+What is happens before relationship? Design an example to explain the
+04 working of ANY ONE of the following event ordering algorithms:
+cO-3: 1) Lamport's logical clock 0
+SO-2; 2) Vector logical clock
+BL- 7 7 ip af
+4 Also write in brief how Vector clock overcomes the limitations of
+lamport’s logical clock.
+Justify the need of a monitor (coordinator) in distributed systems. Explain
+5
+5 in brief ANY ONE of the following leader election algorithms:
+CO-3; 10
+SO-2; 1) Bully algorithm
+Bis 2) Ring algorithm
+Q5
+O23 How faults differ from failure? Explain types of faults and failures in
+“35 10
+SO-2; detail. ‘
+
+BL-4
+--- page 3 ---
+Ds
+
+A>
+
+Q6
+
+CO-3;
+SO-2;
+BL-2
+
+Elaborate the concept of failure detection in brief.
+
+05
+
+Q6
+
+CO-3;
+
+SO-2;
+BL-2
+
+Explain basic reliable multicasting scheme.
+
+0S
+
+Q6
+
+CO-3;
+SO-2;
+BL-4
+
+What is need of byzantine agreement problem? Elaborate with suitable example.
+
+10
+
+Q7
+
+CO-4;
+SO-2;
+BL-3
+
+Define the terms name, address and identifier. Illustrate name to address binding
+
+with example.
+
+10
+
+Q7
+
+CO-4;
+SO-2;
+BL-3
+
+Enlist the approaches used to locate entities in flat naming. Elaborate any two
+
+approaches with examples.
+
+10
+````
+
+## 2023-24 · Re-Exam · Sem 6 · paper 231418eb2b6f
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/DISTRIBUTED COMPUTING/Distributed Computing, Sem-VI, Fianal & Re Exam 2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 84.4
+
+````text
+“
+
+Comp
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHN! OLOGY MANAGEMENT&
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: B. Tech/MBA Tech Year: 3 Semester: VI
+
+Stream/s : Computer Engineering Sem-VI |e Bcs °
+
+Subject: Distributed Computing Time: 3 hrs (2te0pnto Sseopr~)
+Date:_20 / 4 /2024 ; : No. of Pages: 03
+
+Marks: 100
+
+Final Examination/Re Examinotion (2022-23)
+
+Instructions: Candidates should read carefully the instructions pried on the question paper and on the cover
+of the Answer Book, which is pee? for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. ;
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: [20]
+
+Co- 1; a. . | . o. l
+SO-2; What is overlay network? Explain how it is useful in distributed system. 5]
+BL-2 . ;
+CO- 2; b. What is the difference between Transient and Persistent Communication? (5)
+
+De . 5
+a ri With the help of neat sketch explain working of Berkley Sockets.
+CO-3; c. Differentiate between centralized and distributed coordination algorithms
+SO- 2; [5]
+BL-4 with their advantages and disadvantages. .
+co-4; = |d. : . o .
+SO- 2; Elaborate the concept of failure detection in brief. [5] -
+BL-2
+Q2 a. What is a three-tiered client-server architecture? What is the difference
+CO-1; between a vertical distribution and a horizontal distribution in distributed | 10
+SO-2;
+ary systems?
+
+2 b. Describe centralized and decentralized system architectures. Explain with _
+the help of few applications. .
+--- page 2 ---
+CO-1;
+
+SO-2;
+BL-3
+Q3 a. What is limitation of conventional Remote Procedure Call? é
+co-3; | How Asynchronous RPC will help to overcome the problem of conventional | 10
+BL-4 RPC, ; :
+Q3 b. “altzenaliia ;
+What are the two types of Stream Synchronization? Explain the in
+CO-2; : ,
+SO-2; mechanism of Stream synchronization in detail.
+BL-2° ;
+Q4 a..
+cO-2: With the help of neat sketch explain architecture and working of a
+SO-2; Message Queuing System.
+BL-3 ;
+Q4 b. ;
+60-3: : What is Causality? Explain the working of Vector Clock with suitable ,
+3; : 0
+SO-2; example and compare it with lamport’s logical clock.
+BL-4 ; ;
+Q5- a : :
+co-3: | Explain Token ring mutual exclusion algorithm. Compare it with - -
+SO-2; Centralized and Distributed mutual exclusion algorithms. ;
+BL-4 : : 3 :
+Q5 ~ b. - ;
+coO-3: Explain Bully Algorithm for coordinator election with the help of suitable +2
+SO-2; example. ,
+BL-3
+Q6 a
+co-3: Explain the concept of hierarchical and nonhierarchical feedback control 10
+SO-2;° from scalability in reliable multicasting. :
+
+BL-2 ~
+--- page 3 ---
+06
+
+CO-3;
+SO-2; -
+
+BL-3
+
+What is need of byzantine agreement problem? Elaborate with suitable
+
+example.
+
+10
+
+Q7
+
+CO-4;
+SO-2;
+BL-4
+
+'| Enlist-the approaches used to locate eittities in flat naming. Elaborate any.
+
+two approaches with examples.
+
+Q7
+CO-4;
+
+S02;
+BL-2
+
+Explain attribute-based naming with example.
+
+05
+
+Q7
+
+CO-4;
+SO-2;
+BL-S.
+
+List the different scalability issues in name servers. Provide a solution to
+
+handle scalability issues.
+````
+
 ## 2022-23 · Final-Exam · Sem 6 · paper 86640291f8ec
 
 - Departments: Computer Engineering
@@ -2637,332 +2963,6 @@ co-2 b. , : .
 BL-1 Explain Message Brokers in message-queuing system. [7]
 
 Page 2 of 2
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper d847273fc499
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/DISTRIBUTED COMPUTING/Distributed Computing ,Re-exam 2022-2023.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 90.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Program/s: B. Tech/MBA Tech Year: 3 Semester: VI
-
-Stream/s : Computer Engineering (cs>
-
-Subject: Distributed Computing ° Time: 03 hrs (2ioepanto S + 00pus)
-Date:_2 / 7 / 2024 No. of Pages: 03
-
-Marks: 100
-
-_ Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-CO-1; | a. What is the need of Transparency in distributed system? Explain different
-SO- 2; f f a distributed 5
-BL-2 orms of transparency in distributed system.
-b. What is limitation of conventional Remote Procedure Call? How
-
-CO- 2; :
-
-SO- 2; Asynchronous RPC will help to overcome the problem of conventional | 5
-BL-4 RPC.
-
-CO-3; Cc. Explain the differences between permission-based solutions and token- 4
-SO- 2; : ig er,
-
-BL- 5 based solutions for mutual exclusion in a distributed system.
-
-co-4; | d. What are the types of redundancy? Elaborate the concept of Triple modular
-
-SO- 2; . . 5
-BL-4 redundancy in detail.
-
-Q2 a. “as ye . ara’
-
-Explain different scalability techniques used in distributed systems? How )
-
-CO-1; 1
-SO-2; scalability is achieved in distributed systems?
-
-BL-4
---- page 2 ---
-Q2
-
-¥
-
-What are the characteristics of peer-to-peer systems? Explain principal *”
-
-CO-1; 10
-SO-2; working of BitTorrent file downloading system.
-BL- 2
-Q3 ‘ P . ;
-With the help of neat sketch explain architecture and working of Message
-CO-2; 10
-SO-2; Queuing System.
-BL-2
-Q3
-CO-2; Write down the steps in Remote Procedure Call and explain it with
-1
-SO-2; suitable example.
-BL-3
-Justify the need of mutual exclusion in distributed systems. Explain in
-4
-Q brief ANY ONE of the following algorithms for mutual exclusion: 0
-CO-3; 1
-SO-2; 1) Centralized algorithm.
-BE-3 2) Distributed algorithm.
-What is happens before relationship? Design an example to explain the
-04 working of ANY ONE of the following event ordering algorithms:
-cO-3: 1) Lamport's logical clock 0
-SO-2; 2) Vector logical clock
-BL- 7 7 ip af
-4 Also write in brief how Vector clock overcomes the limitations of
-lamport’s logical clock.
-Justify the need of a monitor (coordinator) in distributed systems. Explain
-5
-5 in brief ANY ONE of the following leader election algorithms:
-CO-3; 10
-SO-2; 1) Bully algorithm
-Bis 2) Ring algorithm
-Q5
-O23 How faults differ from failure? Explain types of faults and failures in
-“35 10
-SO-2; detail. ‘
-
-BL-4
---- page 3 ---
-Ds
-
-A>
-
-Q6
-
-CO-3;
-SO-2;
-BL-2
-
-Elaborate the concept of failure detection in brief.
-
-05
-
-Q6
-
-CO-3;
-
-SO-2;
-BL-2
-
-Explain basic reliable multicasting scheme.
-
-0S
-
-Q6
-
-CO-3;
-SO-2;
-BL-4
-
-What is need of byzantine agreement problem? Elaborate with suitable example.
-
-10
-
-Q7
-
-CO-4;
-SO-2;
-BL-3
-
-Define the terms name, address and identifier. Illustrate name to address binding
-
-with example.
-
-10
-
-Q7
-
-CO-4;
-SO-2;
-BL-3
-
-Enlist the approaches used to locate entities in flat naming. Elaborate any two
-
-approaches with examples.
-
-10
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper 231418eb2b6f
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/DISTRIBUTED COMPUTING/Distributed Computing, Sem-VI, Fianal & Re Exam 2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 84.4
-
-````text
-“
-
-Comp
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHN! OLOGY MANAGEMENT&
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: B. Tech/MBA Tech Year: 3 Semester: VI
-
-Stream/s : Computer Engineering Sem-VI |e Bcs °
-
-Subject: Distributed Computing Time: 3 hrs (2te0pnto Sseopr~)
-Date:_20 / 4 /2024 ; : No. of Pages: 03
-
-Marks: 100
-
-Final Examination/Re Examinotion (2022-23)
-
-Instructions: Candidates should read carefully the instructions pried on the question paper and on the cover
-of the Answer Book, which is pee? for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted. ;
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-Answer briefly: [20]
-
-Co- 1; a. . | . o. l
-SO-2; What is overlay network? Explain how it is useful in distributed system. 5]
-BL-2 . ;
-CO- 2; b. What is the difference between Transient and Persistent Communication? (5)
-
-De . 5
-a ri With the help of neat sketch explain working of Berkley Sockets.
-CO-3; c. Differentiate between centralized and distributed coordination algorithms
-SO- 2; [5]
-BL-4 with their advantages and disadvantages. .
-co-4; = |d. : . o .
-SO- 2; Elaborate the concept of failure detection in brief. [5] -
-BL-2
-Q2 a. What is a three-tiered client-server architecture? What is the difference
-CO-1; between a vertical distribution and a horizontal distribution in distributed | 10
-SO-2;
-ary systems?
-
-2 b. Describe centralized and decentralized system architectures. Explain with _
-the help of few applications. .
---- page 2 ---
-CO-1;
-
-SO-2;
-BL-3
-Q3 a. What is limitation of conventional Remote Procedure Call? é
-co-3; | How Asynchronous RPC will help to overcome the problem of conventional | 10
-BL-4 RPC, ; :
-Q3 b. “altzenaliia ;
-What are the two types of Stream Synchronization? Explain the in
-CO-2; : ,
-SO-2; mechanism of Stream synchronization in detail.
-BL-2° ;
-Q4 a..
-cO-2: With the help of neat sketch explain architecture and working of a
-SO-2; Message Queuing System.
-BL-3 ;
-Q4 b. ;
-60-3: : What is Causality? Explain the working of Vector Clock with suitable ,
-3; : 0
-SO-2; example and compare it with lamport’s logical clock.
-BL-4 ; ;
-Q5- a : :
-co-3: | Explain Token ring mutual exclusion algorithm. Compare it with - -
-SO-2; Centralized and Distributed mutual exclusion algorithms. ;
-BL-4 : : 3 :
-Q5 ~ b. - ;
-coO-3: Explain Bully Algorithm for coordinator election with the help of suitable +2
-SO-2; example. ,
-BL-3
-Q6 a
-co-3: Explain the concept of hierarchical and nonhierarchical feedback control 10
-SO-2;° from scalability in reliable multicasting. :
-
-BL-2 ~
---- page 3 ---
-06
-
-CO-3;
-SO-2; -
-
-BL-3
-
-What is need of byzantine agreement problem? Elaborate with suitable
-
-example.
-
-10
-
-Q7
-
-CO-4;
-SO-2;
-BL-4
-
-'| Enlist-the approaches used to locate eittities in flat naming. Elaborate any.
-
-two approaches with examples.
-
-Q7
-CO-4;
-
-S02;
-BL-2
-
-Explain attribute-based naming with example.
-
-05
-
-Q7
-
-CO-4;
-SO-2;
-BL-S.
-
-List the different scalability issues in name servers. Provide a solution to
-
-handle scalability issues.
 ````
 
 ## 2022-23 · Re-Exam · Sem 6 · paper 63449a49444c
@@ -4069,6 +4069,89 @@ DNS
 A
 ````
 
+## 2018-19 · Re-Exam · Sem 6 · paper 068c6a705f93
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/DISTRIBUTED COMPUTING/Distributed computing....Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 June 2019
+- Text: ocr (2 pages), mean OCR confidence 88.7
+
+````text
+} SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program MBA Tech (IT) ~ Year: III- Semester: VI
+AcademicYear: 2018-2019.
+
+Subject: Distributed Computing - Marks: 70 ~
+Date: 14 June 2019 Time:10.00 am to 1.00 pm ~
+Duration: 3 (hrs)
+No. of Pages:_2
+Re-Examination (2017-18 / 2018-19) °
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4__ questions.
+
+3) Inall___5_ questions to be attempted. .
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. ag
+7) Assume suitable data if necessary.
+
+Que.1: a) What do you mean by centralized and decentralized system? Explain CHORD system [5]
+along with concept of DHT.
+
+b) Enlist and explain different types of transparency models in distributed systems. [5]
+c) Explain the working of Token Ring algorithm for mutual exclusion. [4]
+Que.2: a) Explain in detail different types of architecture styles. [7]
+b) Compare Stateful and Stateless Server Implementation. [5]
+
+c) Explain the meaning of bind( and accept() primitives of Berkeley socket of Message [2]
+oriented communication.
+
+Que.3: a) Explain working of 2-Phase Commit protocol. (7]
+b) What is RPC? Design application program to call remote method to add two numbers [7]
+
+using RMI.
+Que.4: a) Explain client centric consistency models. [7]
+
+b) What is data-centric consistency? Explain in detail sequential consistency and causal [7]
+consistency.
+
+Que.5 a) .- With the help of neat diagram explain iterative naming resolution in DNS and [7]
+compare the advantages and disadvantages of iterative and recursive naming
+
+A
+--- page 2 ---
+resolution.
+b) Explain the working of Ring Election algorithm. [7]
+
+Que.6 a) Explain the Lamports happens before relation along with the conditions. How are [7]
+Lamports logical clocks implemented?
+
+c) What is cryptography? Explain DES algorithm in detail. [7]
+Que.7 Write short note on(any two) [14]
+
+a) SunNFS
+
+b) HTTP protocol
+
+c) « CORBA
+
+d) Local write Protocol
+
+- a
+````
+
 ## 2017-18 · Final-Exam · Sem 5 · paper 6af93778046e
 
 - Departments: Information Technology
@@ -4440,6 +4523,7 @@ d) User level thread vs Kernel level Thread
 - Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/Sem_05/DISTRIBUTED COMPUTING/Distributed Computing 2017-18 Final.pdf`
 - Printed on paper: exam date: 24 November 2017
 - Text: ocr (2 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4511,7 +4595,6 @@ d) Hybrid Architecture of Distributed System.
 L » ay gers &
 QS» krpom Mistailnted Comepelrs]
 
-Hs Apes Lorn Me help of Softee Arn
 
 What are the various forms of message oriented communication? Give suitable example.
 
@@ -4528,6 +4611,100 @@ What are the various forms of message oriented communication? Give suitable exam
 07
 
 14
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 2a6d9f5e2dae
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING (IT), BATCH 14-15, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 November 2017
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (IT) Year: Il Semester: V
+) Batch: 2014-15/ 2016-17
+| Academic Year: 2017-2018
+Subject: Distributed Computing aseee WS
+Marks: 60 © > “
+Date: 29 November 2017 Time: 2.00 pm to 5.00% Ve F
+
+Durations; 3 (hrs). &°9 ; pe }
+
+No. of PagaS SZ. gf.
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+_ cover of the Answer Book, which is provided for their use. .
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q 1. a) Analternative definition for a distributed system is that of a collection of independent computers
+providing the view of being a single system, that is, it is completely hidden from users that there even
+multiple computers. Give an example where this view would come in very handy. (6 Marks)
+
+Q 1.b) Consider a chain of processes Pi, Pa, ..... Pn implementing a multi-tiered client-server
+architecture. Process P; is client of process Pj-1, and P; will return a reply to Pi.1 only after receiving a
+reply from Pi+1. What are the main problems with this organization when taking a look at the request-
+reply performance at process P1? (6 Marks)
+
+Q 2. a) Ina structured overlay network, messages are routed according to the topology of the overlay.
+What is an important disadvantage of this approach? Explain with a scenario and diagram. (6 Marks)
+
+Q 2. b) Give an example of a self-managing system in which the analysis component is completely
+distributed or even hidden. (6 Marks)
+
+Q 3. a) In this problem you are to compare reading a file using a single-threaded file server and a
+multithreaded server. It takes 15 m sec to get a request for work, dispatch it, and do the rest of the
+necessary processing, assuming that the data needed are in a cache in main memory. If a disk operation
+is needed, as is the case one-third of the time, an additional 75 m sec is required, during which time the
+thread sleeps. How many requests/sec can the server handle if it is single threaded? If it is
+multithreaded? (6 Marks)
+
+Q 3. b) Consider a process P that requires access to file F which is locally available on the machine
+where P is currently running. When P moves to another machine, it still requires access to F. If the file-
+to-machine binding is fixed, how could the system wide reference to F be implemented?
+
+Draw the block diagram that depicts the way implementation can be done. (6 Marks)
+
+te
+--- page 2 ---
+Q 4. a) Explain Remote Procedure Call with an example. (6 Marks)
+
+Q 4. b) Assume a client calls an asynchronous RPC to a server, and subsequently waits until the server
+returns a result using another asynchronous RPC. Is this approach the same as letting the client execute a
+normal RPC? What if we replace the asynchronous RPCs with asynchronous RPCs? (6 Marks)
+
+Q 5. a) Explain the functioning of Distributed hash tables with Chord system diagram. (6 Marks)
+
+Q 5. b) Consider the behavior of two machines in a distributed system. Both have clocks that are
+supposed to tick 1000 times per millisecond. One of them actually does, but the other ticks only 990
+times per millisecond. If UTC updates come in once a minute, what is the maximum clock skew that will
+occur? Explain the functionality of this system.
+
+(6 Marks)
+Q 6. a) Explain traditional election algorithms. (6 Marks)
+Q 6. b) Explain replica management in detail with emphasis on server placement. (6 Marks)
+
+Q7.a) Explain Access Control Matrix with emphasis on its capabilities in protecting objects.
+(6 Marks)
+
+Q7.b) Explain total ordered multicasting and vector clocks. (6 Marks)
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper 83347f8e69cf
@@ -4613,87 +4790,77 @@ e
 b) Explain different types of communication in Distributed System.
 ````
 
-## 2017-18 · Re-Exam · Sem 6 · paper 068c6a705f93
+## 2017-18 · Re-Exam · Sem 7 · paper e7ab5aded768
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/DISTRIBUTED COMPUTING/Distributed computing....Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 June 2019
-- Text: ocr (2 pages), mean OCR confidence 88.7
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING (COMPUTER), BATCH 16-17 RE EXAM(1).pdf`
+- Printed on paper: max marks: 60; exam date: 23 November 2017
+- Text: ocr (1 page), mean OCR confidence 86.9
 
 ````text
-} SVKM’S NMIMS
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Programme: B. Tech (COMPUTER) ‘Year: IV Semester: VII
 
-Program MBA Tech (IT) ~ Year: III- Semester: VI
-AcademicYear: 2018-2019.
+Batch: 2016-17
 
-Subject: Distributed Computing - Marks: 70 ~
-Date: 14 June 2019 Time:10.00 am to 1.00 pm ~
-Duration: 3 (hrs)
-No. of Pages:_2
-Re-Examination (2017-18 / 2018-19) °
+: Academic Year: 2017-2018 | og htBTE 2 mag
+perenne .
+Subject: Distributed Computing. of SS
+Marks: 60° “ ’ 3 'T x4 os
+Date: 23 November 2017 Time: 10,00-am-ta 1.Q0ypnp ¢ }
+. Durat s) ‘e }
+No. of : -
+
+9
+
+Re-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. _1____ is compulsory.
+1) Question No. ONE is compulsory.
 
-2) Out of remaining questions, attempt any __4__ questions.
+2) Out of remaining questions, attempt any FOUR questions.
 
-3) Inall___5_ questions to be attempted. .
+3) In all FIVE questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks. ag
-7) Assume suitable data if necessary.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
 
-Que.1: a) What do you mean by centralized and decentralized system? Explain CHORD system [5]
-along with concept of DHT.
+Q1 A) Give the definition of Distributed Systems. State & explain various goals of (06)
+Distributed Systems.
 
-b) Enlist and explain different types of transparency models in distributed systems. [5]
-c) Explain the working of Token Ring algorithm for mutual exclusion. [4]
-Que.2: a) Explain in detail different types of architecture styles. [7]
-b) Compare Stateful and Stateless Server Implementation. [5]
+B) What is decentralized architecture? Explain structured Peer to Peer architecture. (06)
+Q2 A) Explain various Name resolution techniques in detail. (06)
+B) What is network file system? Explain with the help of its architecture. (06)
+Q3 A) Describe in brief the general architecture of a message-Queuing system & Message (06)
+Broker.
+B) Write in detail about client centric consistency models. (06)
+Q.4 A) Explain various architectures of Virtualization. (06)
+B) Discus data storage mechanisms in distributed DBMS. (06)
 
-c) Explain the meaning of bind( and accept() primitives of Berkeley socket of Message [2]
-oriented communication.
+Q.5 A) What is signiticance of logical clock in distributed system? How Lamport’s Clock is (06)
+implemented in distributed system.
 
-Que.3: a) Explain working of 2-Phase Commit protocol. (7]
-b) What is RPC? Design application program to call remote method to add two numbers [7]
+B) Discuss the major design issties in real time distributed system. (06)
+Q.6 A) Describe the two phase commit protocol in DDBMS. Why ack messages required in (06)
+2PC?
 
-using RMI.
-Que.4: a) Explain client centric consistency models. [7]
+B) State the various solutions for FLAT NAMING system and explain the hierarchical (06)
+approach in detail.
 
-b) What is data-centric consistency? Explain in detail sequential consistency and causal [7]
-consistency.
+Q@.7 A) Explain Traditional Mutual Exclusion algorithms. (06)
+B) Write a short note: Reliable group communication in distributed systems. (03)
+C) Explain Quality of Service in stream oriented communication. (03)
 
-Que.5 a) .- With the help of neat diagram explain iterative naming resolution in DNS and [7]
-compare the advantages and disadvantages of iterative and recursive naming
-
-A
---- page 2 ---
-resolution.
-b) Explain the working of Ring Election algorithm. [7]
-
-Que.6 a) Explain the Lamports happens before relation along with the conditions. How are [7]
-Lamports logical clocks implemented?
-
-c) What is cryptography? Explain DES algorithm in detail. [7]
-Que.7 Write short note on(any two) [14]
-
-a) SunNFS
-
-b) HTTP protocol
-
-c) « CORBA
-
-d) Local write Protocol
-
-- a
+4/4
 ````
 
 ## 2017-18 · Re-Exam · Sem 6 · paper b17baebd5577
@@ -5073,100 +5240,6 @@ Sun Network File System,
 12
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 2a6d9f5e2dae
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING (IT), BATCH 14-15, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 November 2017
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (IT) Year: Il Semester: V
-) Batch: 2014-15/ 2016-17
-| Academic Year: 2017-2018
-Subject: Distributed Computing aseee WS
-Marks: 60 © > “
-Date: 29 November 2017 Time: 2.00 pm to 5.00% Ve F
-
-Durations; 3 (hrs). &°9 ; pe }
-
-No. of PagaS SZ. gf.
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-_ cover of the Answer Book, which is provided for their use. .
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q 1. a) Analternative definition for a distributed system is that of a collection of independent computers
-providing the view of being a single system, that is, it is completely hidden from users that there even
-multiple computers. Give an example where this view would come in very handy. (6 Marks)
-
-Q 1.b) Consider a chain of processes Pi, Pa, ..... Pn implementing a multi-tiered client-server
-architecture. Process P; is client of process Pj-1, and P; will return a reply to Pi.1 only after receiving a
-reply from Pi+1. What are the main problems with this organization when taking a look at the request-
-reply performance at process P1? (6 Marks)
-
-Q 2. a) Ina structured overlay network, messages are routed according to the topology of the overlay.
-What is an important disadvantage of this approach? Explain with a scenario and diagram. (6 Marks)
-
-Q 2. b) Give an example of a self-managing system in which the analysis component is completely
-distributed or even hidden. (6 Marks)
-
-Q 3. a) In this problem you are to compare reading a file using a single-threaded file server and a
-multithreaded server. It takes 15 m sec to get a request for work, dispatch it, and do the rest of the
-necessary processing, assuming that the data needed are in a cache in main memory. If a disk operation
-is needed, as is the case one-third of the time, an additional 75 m sec is required, during which time the
-thread sleeps. How many requests/sec can the server handle if it is single threaded? If it is
-multithreaded? (6 Marks)
-
-Q 3. b) Consider a process P that requires access to file F which is locally available on the machine
-where P is currently running. When P moves to another machine, it still requires access to F. If the file-
-to-machine binding is fixed, how could the system wide reference to F be implemented?
-
-Draw the block diagram that depicts the way implementation can be done. (6 Marks)
-
-te
---- page 2 ---
-Q 4. a) Explain Remote Procedure Call with an example. (6 Marks)
-
-Q 4. b) Assume a client calls an asynchronous RPC to a server, and subsequently waits until the server
-returns a result using another asynchronous RPC. Is this approach the same as letting the client execute a
-normal RPC? What if we replace the asynchronous RPCs with asynchronous RPCs? (6 Marks)
-
-Q 5. a) Explain the functioning of Distributed hash tables with Chord system diagram. (6 Marks)
-
-Q 5. b) Consider the behavior of two machines in a distributed system. Both have clocks that are
-supposed to tick 1000 times per millisecond. One of them actually does, but the other ticks only 990
-times per millisecond. If UTC updates come in once a minute, what is the maximum clock skew that will
-occur? Explain the functionality of this system.
-
-(6 Marks)
-Q 6. a) Explain traditional election algorithms. (6 Marks)
-Q 6. b) Explain replica management in detail with emphasis on server placement. (6 Marks)
-
-Q7.a) Explain Access Control Matrix with emphasis on its capabilities in protecting objects.
-(6 Marks)
-
-Q7.b) Explain total ordered multicasting and vector clocks. (6 Marks)
-````
-
 ## 2016-17 · Re-Exam · Sem 5 · paper 3c43505f2777
 
 - Departments: Information Technology
@@ -5261,79 +5334,6 @@ multicasts the operation. Mention two alternative approaches, and compare the th
 (6 Marks)
 
 Q 6. b) Explain Denial of Service in detail. (6 Marks)
-````
-
-## 2016-17 · Re-Exam · Sem 7 · paper e7ab5aded768
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING (COMPUTER), BATCH 16-17 RE EXAM(1).pdf`
-- Printed on paper: max marks: 60; exam date: 23 November 2017
-- Text: ocr (1 page), mean OCR confidence 86.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) ‘Year: IV Semester: VII
-
-Batch: 2016-17
-
-: Academic Year: 2017-2018 | og htBTE 2 mag
-perenne .
-Subject: Distributed Computing. of SS
-Marks: 60° “ ’ 3 'T x4 os
-Date: 23 November 2017 Time: 10,00-am-ta 1.Q0ypnp ¢ }
-. Durat s) ‘e }
-No. of : -
-
-9
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-Q1 A) Give the definition of Distributed Systems. State & explain various goals of (06)
-Distributed Systems.
-
-B) What is decentralized architecture? Explain structured Peer to Peer architecture. (06)
-Q2 A) Explain various Name resolution techniques in detail. (06)
-B) What is network file system? Explain with the help of its architecture. (06)
-Q3 A) Describe in brief the general architecture of a message-Queuing system & Message (06)
-Broker.
-B) Write in detail about client centric consistency models. (06)
-Q.4 A) Explain various architectures of Virtualization. (06)
-B) Discus data storage mechanisms in distributed DBMS. (06)
-
-Q.5 A) What is signiticance of logical clock in distributed system? How Lamport’s Clock is (06)
-implemented in distributed system.
-
-B) Discuss the major design issties in real time distributed system. (06)
-Q.6 A) Describe the two phase commit protocol in DDBMS. Why ack messages required in (06)
-2PC?
-
-B) State the various solutions for FLAT NAMING system and explain the hierarchical (06)
-approach in detail.
-
-Q@.7 A) Explain Traditional Mutual Exclusion algorithms. (06)
-B) Write a short note: Reliable group communication in distributed systems. (03)
-C) Explain Quality of Service in stream oriented communication. (03)
-
-4/4
 ````
 
 ## 2016-17 · Re-Exam · Sem 7 · paper 31fa32e56f0e
@@ -5920,6 +5920,159 @@ ec. Message passing Interface
 7B
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper c2ddf1da7735
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: exam date: 06/05/2016
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: IV Semester: VIII
+i Academic Year: 2015-16
+Batch: 2014-15
+Subject: Distributed Computing
+
+Date: 06/05/2016
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In ali 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Ql. [12]
+
+A) List the different types of distributed systems and explain grid computing system in detail
+B) Describe the working of 3PC recovery protocol in DDBMS.
+
+C) Working of X Window system.
+
+D) Asynchronous RPC
+
+Q2. [12]
+
+A) What is mutual exclusion? Explain in brief distributed algorithm for mutual exclusion.
+B) Write in detail about client-centric consistency models.
+
+Q3. {12}
+A) Describe in brief the general architecture of a Message-Queuing System and
+message brokers.
+
+B) Explain secret key distribution and public key distribution with the help of a diagram.
+
+Q4. [12]
+A) State structured naming in distributed system and describes the implementation of name
+resolution in structured naming in detail.
+ee B) State Hybrid architecture in distributed system. Explain in detail the edge server systems and
+collaborative distributed systems with the help of diagrams.
+
+[>
+--- page 2 ---
+[12]
+
+ye gs A)" State DFS. Explain cache consistency in DFS.
+a B) Explain in brief the various alternatives of Code Migration.
+
+Q6. {12]
+A) Explain Election algorithm in Wireless Environments with the help of an example and neat
+labeled diagrams.
+B) Describe in brief the semantics of file sharing in Distributed File System.
+
+Q7. Write a Short Note (Attempt any 3) [12]
+A) Advantages and disadvantages of DDBMS
+B) Write a note on roles of Interceptors in distributed systems
+C) MARS
+D) Explain the role of client and server stub in RPC.
+
+e ?
+
+e/>
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper bc8075a3d81b
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM_bc8075a3d8.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06/05/2016
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Programme: B.Tech (Computer) Year: IV Semester: VIII
+Academic Year: 2015-16
+
+Batch: 2013-14
+
+Subject: Distributed Computing Marks: 100
+Time: 10.00 am - 1.00 pm
+Date: 06/05/2016 Durations: 3 hrs.
+
+Re-Examination
+
+—~Instructions:-Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
+
+NB: - 1) Question No ONE is compulsory
+2) Out of remaining attempt FOUR questions,
+3) All Questions carry equal marks.
+
+4) Figures in brackets on right hand side indicate full marks
+
+Q1. Attempt All
+A) What is Network file System? Explain with the help of its architecture. (10)
+B) List out various problem associated with scalability. Give the possible solutions (10)
+
+to the problems.
+Q.2. Attempt All
+
+A) Explain the various physical clock synchronization algorithm. (10)
+B) Explain the use of Threads in Distributed systems. (10)
+Q3. Attempt All
+— A) Explain in brief Code Migration. (10)
+Be: B) Explain the concept of Distributed Query Processing (10)
+
+1/2
+--- page 2 ---
+Q4. Attempt All
+
+A) Explain working of DCE (Distributed Computing Environment) RPC. (10)
+B) Explain Various name Resolution techniques in detail (10)
+Q5. Attempt All
+A) Explain Traditional election algorithms & their Need. (10)
+B) Discuss the Real time Scheduling algorithms. (10)
+Q6. Attempt All
+A) Explain Security Management in distributed systems. (10)
+B) Explain various Client Centric Consistency Models (10)
+Q7. Write Short Note (Attempt Any 4) (28)
+A) Java RMI °
+
+B) Fault Tolerance
+C) Kerberos
+D) Grid Computing
+
+E) Distribution & replication in Oracle
+````
+
 ## 2015-16 · Re-Exam · Sem 5 · paper 72bf09928c83
 
 - Departments: Computer Applications (MCA)
@@ -6311,6 +6464,101 @@ D Recursive name resolution
 :
 ````
 
+## 2014-15 · Re-Exam · Sem 5 · paper 8c3f814d4a51
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING B TECH (IT), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: exam date: 04/12/2014
+- Text: ocr (1 page), mean OCR confidence 90.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: Ill Semester: V
+
+Batch: 2013-2014 si
+Academic Year: 2014-2015 ait BF By '
+* 4 SON Va,
+Subject: Distributed Computing oy a Ste,
+Marks: '
+Date: 04/12/2014 Time:
+Durations:
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1 a) Define Distributed System. Explain different goals of distributed system.
+b) Discuss the Centralized and Distributed architectural models of Distributed systems with
+
+suitable examples.
+Q2 a) Explain RPC steps. Discuss how RPC achieves transparency in Distributed Systems.
+
+b) Discuss the role of threads and their implementation in Distributed Systems.
+
+Q3 a) Explain message oriented persistent communication with suitable example.
+b) Write a short note on multicast communication and discuss its use with suitable example.
+
+Q4 a) Explain the difference between Ring and Bully Election algorithms.
+b) Explain the concept of Lamiport’s logical clocks and their importance in distributed systems
+
+Q5 a) Whatis client centric consistency model? Explain different models that can be applied to
+distributed systems.
+b) Explain primary based consistency protocols. Explain with neat diagram principle of
+
+primary back up protocol.
+
+Q6. a) Explain the working of Distributed File System with a neat diagram.
+b) Write a detailed note on general issues in Access control
+
+Q7 Write a detailed note on (any two)
+a) Domain name system
+b) Synchronous Vs. Asynchronous Communication
+
+c) Stream Oriented Communication
+Xa Xx
+
+7
+
+(10)
+(10)
+
+(10)
+
+(10)
+
+(10)
+(10)
+
+(10)
+(10)
+
+(10)
+
+(10)
+
+(10)
+(10)
+
+(20)
+````
+
 ## 2014-15 · Re-Exam · Sem 5 · paper 34501dc1acf3
 
 - Departments: Information Technology
@@ -6402,90 +6650,93 @@ A
 (2
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper c2ddf1da7735
+## 2014-15 · Re-Exam · Sem 8 · paper ad584df03fa5
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: exam date: 06/05/2016
-- Text: ocr (2 pages), mean OCR confidence 91.8
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 91.1
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Computer) Year: IV Semester: VIII
-i Academic Year: 2015-16
-Batch: 2014-15
+Programme: B. Tech (COMP) Year: IV Semester: VIII
+Batch: 2013-14
+
+Academic Year: 2014-2015
+i > My
+Marks: ».%, 100
+Date: 29/06/2015 Time: 42.00 pm to 5.00 pm
+Durations: | ‘3 (hrs)
+
 Subject: Distributed Computing
 
-Date: 06/05/2016
-Re-Examination
+Instructions:-candidates should read carefully the instructions printed on the question —_
+paper and on the cover of the answer book, which is provided for their use.
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+NB: - 1) Question No. ONE is compulsory
+2) Out of remaining attempt FOUR questions,
 
-NB:
+3) All Questions carry equal marks.
 
-1) Question No. 1 is compulsory.
+4) Figures in brackets on right hand side indicate full marks
 
-2) Out of remaining questions, attempt any 4 questions.
+Q1. Attempt All
 
-3) In ali 5 questions to be attempted.
+A) Describe the socket primitives for TCP/IP. (5)
+B) Write a note on Multitiered architectures. . (5)
+C) State and Explain scalability problems in Distributed Systems. (5)
+D) Grid computing system (5)
 
-4) All questions carry equal marks.
+2. Attempt All
+A) Explain vector logical clocks with neat diagram and discuss how it is (10)
+advantageous than lamport algorithm.
+B) Describe the two-phase commit protocol in distributed DBMS. Why are ack (10)
+messages required in 2PC?
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
+Q3. Attempt All
 
-Ql. [12]
+~
+A) Discuss the basic organization of PlanetLab node. (10)
+B) Explain various algorithms for Real-Time scheduling (10)
 
-A) List the different types of distributed systems and explain grid computing system in detail
-B) Describe the working of 3PC recovery protocol in DDBMS.
-
-C) Working of X Window system.
-
-D) Asynchronous RPC
-
-Q2. [12]
-
-A) What is mutual exclusion? Explain in brief distributed algorithm for mutual exclusion.
-B) Write in detail about client-centric consistency models.
-
-Q3. {12}
-A) Describe in brief the general architecture of a Message-Queuing System and
-message brokers.
-
-B) Explain secret key distribution and public key distribution with the help of a diagram.
-
-Q4. [12]
-A) State structured naming in distributed system and describes the implementation of name
-resolution in structured naming in detail.
-ee B) State Hybrid architecture in distributed system. Explain in detail the edge server systems and
-collaborative distributed systems with the help of diagrams.
-
-[>
+fe
 --- page 2 ---
-[12]
+Q4. Attempt All
 
-ye gs A)" State DFS. Explain cache consistency in DFS.
-a B) Explain in brief the various alternatives of Code Migration.
+A) State and explain different primitives of message passing interface.
 
-Q6. {12]
-A) Explain Election algorithm in Wireless Environments with the help of an example and neat
-labeled diagrams.
-B) Describe in brief the semantics of file sharing in Distributed File System.
+B) Explain the concept of linking and mounting in name resolution in detail.
 
-Q7. Write a Short Note (Attempt any 3) [12]
-A) Advantages and disadvantages of DDBMS
-B) Write a note on roles of Interceptors in distributed systems
-C) MARS
-D) Explain the role of client and server stub in RPC.
+Q5. Attempt All
+A) Explain traditional mutual exclusion algorithms.
+B) Describe Monotonic Reads and Monotonic Writes in detail.
+Q6. Attempt All
+A) Explain the basic operation of RPC in detail.
+B) Discuss DFS implementations
+Q7. Write Short Note (Attempt Any 4)
+A) Streams synchronization ‘
+B) Cloud computing
+C)_ The role of virtualization in distributed System
+D) Fault Tolerance
 
-e ?
+E) The Globus security architecture
 
-e/>
+~ abs
+
+2/2
+
+(10)
+(10)
+
+(10)
+(10)
+
+(10)
+(10)
+(20)
 ````
 
 ## 2014-15 · Re-Exam · Sem 8 · paper 3f4cc8aa9060
@@ -6634,6 +6885,194 @@ ie SOA
 D Fault Tolerant services
 ````
 
+## 2014-15 · Re-Exam · Sem 8 · paper e054549e3d35
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/DISTRIBUTED COMPUTING/SISTRIBUTED COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 06/05/2015
+- Text: ocr (2 pages), mean OCR confidence 90.1
+
+````text
+er ¢
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: 1V Semester: VIII
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Distributed Computing
+
+Marks: 100
+Date: 06/05/2015 Time: to 1.00 pm
+
+Duratio EEN
+
+Re-Examination
+e-Examinati Ces)
+
+yee mR
+
+f 4
+oN es $
+
+S: rar une ve
+
+Instructions:-candidates should read carefully the instructions printed on the question
+
+paper and on the cover of the answer book, which is provided for their use.
+NB: - 1) Question No.ONE is compulsory
+
+2) Out of remaining attempt FOUR questions,
+
+3) All Questions carry equal marks.
+
+4) Figures in brackets on right hand side indicate full marks
+
+Q1. Attempt All
+
+A) Message Queuing system (5)
+B) Write a note on Application Layering in Centralized architectures. (5)
+C) State and Explain scalability problems in Distributed Systems. (5)
+D) Cluster computing system (5)
+
+2. Attempt All
+A) Explain vector logical clocks with neat diagram and discuss how it is (10)
+advantageous than lamport algorithm.
+B) Describe the two-phase commit protocol in distributed DBMS. Why are ack (10)
+messages required in 2PC?
+
+Q3. Attempt All
+A) Explain in brief the various models for Code Migration: (10)
+
+B) Explain various algorithms for Real-Time scheduling (10)
+--- page 2 ---
+Q4. Attempt All
+
+A) State and explain different primitives of message passing interface. (10)
+
+B) Explain implementation of a name space in detail. (10)
+QS. Attempt All
+
+A) Explain traditional mutual exclusion algorithms. (10)
+
+B) Describe different client centric consistency models in detail. (10)
+Q6. Attempt All
+
+A) Explain DCE RPC in detail. (10)
+
+B) Discuss DFS implementations (10)
+Q7. Write Short Note (Attempt Any 4) (20)
+
+A) Streams and Quality of service
+
+B) Cloud computing
+
+C) The role of virtualization in distributed System
+D) Fault Tolerance
+
+E) Public-key Cryptosystems: RSA
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper bd814d66cd05
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/DISTRIBUTED COMPUTING/Distributed Computing Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) Year: Il Semester: VI
+Academic Year: 2014-15
+sorte
+
+Batch: 2013-14 as
+
+| - 2/7 ¢PSTME =!
+Subject : Distributed Computing Marks: 100 . 4: [BRARY et
+
+. Time : 2.00pm -"
+
+Date : 30/06/2015 Durations: 3 (hrs) Bors ons sane”
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Ql)a) List any 3 distribution transparencies and for each give an example of a system (5)
+that implements the transparency.
+
+Q1)b) Differentiate between Grid and Cluster Systems.(Give 2 points of differentiation) (5)
+
+Q1)c) List the 4 software architectural styles of Distributed Systems and explain any one. (5)
+
+Q1)d) What are multithreaded clients? Give an example of a multithreaded client in (5)
+Distributed system.
+
+Q2)a) Illustrate with a neat diagram the general organization of a server cluster. Explain (10)
+
+in brief.
+Q2)b) Whatare the different resources that can be migrated? Discuss any 3 different (10)
+
+types of resources and how would they be migrated?
+
+Q3)a) What is RPC? Discuss the various ways in which parameter can be passed in RPC. (10)
+
+Q3)b) When would you use message oriented communication in comparison with other (10)
+methods of communication available for distributed systems? Discuss the general
+architecture of Message-Queuing System.
+
+Q4)a) Why is clock synchronization important in distributed systems? Justify with an (10)
+example. Discuss a clock synchronization algorithm that will be used to
+synchronize clocks with a system having an accurate time.
+
+Q4)b) Discuss any one traditional election algorithm. How are elections in wireless (10)
+environments more challenging than a wired one?
+
+Q5)a) Whatis causal consistency? Explain how it is weaker than sequential consistency. (10)
+Q5)b) Explain the working of quorum-based protocols used to support replicated writes. (10)
+
+Q6)a) With a neat diagram explain the organization of Cluster based Distributed File (10)
+
+Systems.
+4/2.
+--- page 2 ---
+Q6)b) Discuss how RPC happens in Distributed File System.
+
+Q7) Write short notes on: (any four)
+a) Asynchronous RPC
+b) Globus Security Architecture
+c) Triple Modular Redundancy
+d) Vector Clocks
+e) Distributed Pervasive Systems
+
+2/2.
+
+(10)
+
+(20)
+````
+
 ## 2014-15 · Re-Exam · Sem 6 · paper dac8cc0d5fcd
 
 - Departments: Information Technology
@@ -6641,6 +7080,7 @@ D Fault Tolerant services
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/DISTRIBUTED COMPUTING/Distributed Computing Batch (2014-15) Re Exam.pdf`
 - Printed on paper: max marks: 60; exam date: 30/06/2015
 - Text: ocr (2 pages), mean OCR confidence 77.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS ‘
@@ -6654,7 +7094,6 @@ Batch: 2014-15 ia
 
 Subject : Distributed Computing Marks: 60 ¥( ,
 
-‘ . Li 8 R A RY E
 Time : 2.0 <5.00pm ¢)
 Date : 30/06/2015 Durations: 3
 
@@ -7143,101 +7582,6 @@ Q7. Write a short note on following (any four) 20M
 2} 2.
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper 8c3f814d4a51
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING B TECH (IT), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: exam date: 04/12/2014
-- Text: ocr (1 page), mean OCR confidence 90.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: Ill Semester: V
-
-Batch: 2013-2014 si
-Academic Year: 2014-2015 ait BF By '
-* 4 SON Va,
-Subject: Distributed Computing oy a Ste,
-Marks: '
-Date: 04/12/2014 Time:
-Durations:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1 a) Define Distributed System. Explain different goals of distributed system.
-b) Discuss the Centralized and Distributed architectural models of Distributed systems with
-
-suitable examples.
-Q2 a) Explain RPC steps. Discuss how RPC achieves transparency in Distributed Systems.
-
-b) Discuss the role of threads and their implementation in Distributed Systems.
-
-Q3 a) Explain message oriented persistent communication with suitable example.
-b) Write a short note on multicast communication and discuss its use with suitable example.
-
-Q4 a) Explain the difference between Ring and Bully Election algorithms.
-b) Explain the concept of Lamiport’s logical clocks and their importance in distributed systems
-
-Q5 a) Whatis client centric consistency model? Explain different models that can be applied to
-distributed systems.
-b) Explain primary based consistency protocols. Explain with neat diagram principle of
-
-primary back up protocol.
-
-Q6. a) Explain the working of Distributed File System with a neat diagram.
-b) Write a detailed note on general issues in Access control
-
-Q7 Write a detailed note on (any two)
-a) Domain name system
-b) Synchronous Vs. Asynchronous Communication
-
-c) Stream Oriented Communication
-Xa Xx
-
-7
-
-(10)
-(10)
-
-(10)
-
-(10)
-
-(10)
-(10)
-
-(10)
-(10)
-
-(10)
-
-(10)
-
-(10)
-(10)
-
-(20)
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper 74d90e66dc53
 
 - Departments: Information Technology
@@ -7309,95 +7653,6 @@ b) Fault Tolerance
 c) Java RMI.
 
 x
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper ad584df03fa5
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 91.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: IV Semester: VIII
-Batch: 2013-14
-
-Academic Year: 2014-2015
-i > My
-Marks: ».%, 100
-Date: 29/06/2015 Time: 42.00 pm to 5.00 pm
-Durations: | ‘3 (hrs)
-
-Subject: Distributed Computing
-
-Instructions:-candidates should read carefully the instructions printed on the question —_
-paper and on the cover of the answer book, which is provided for their use.
-
-NB: - 1) Question No. ONE is compulsory
-2) Out of remaining attempt FOUR questions,
-
-3) All Questions carry equal marks.
-
-4) Figures in brackets on right hand side indicate full marks
-
-Q1. Attempt All
-
-A) Describe the socket primitives for TCP/IP. (5)
-B) Write a note on Multitiered architectures. . (5)
-C) State and Explain scalability problems in Distributed Systems. (5)
-D) Grid computing system (5)
-
-2. Attempt All
-A) Explain vector logical clocks with neat diagram and discuss how it is (10)
-advantageous than lamport algorithm.
-B) Describe the two-phase commit protocol in distributed DBMS. Why are ack (10)
-messages required in 2PC?
-
-Q3. Attempt All
-
-~
-A) Discuss the basic organization of PlanetLab node. (10)
-B) Explain various algorithms for Real-Time scheduling (10)
-
-fe
---- page 2 ---
-Q4. Attempt All
-
-A) State and explain different primitives of message passing interface.
-
-B) Explain the concept of linking and mounting in name resolution in detail.
-
-Q5. Attempt All
-A) Explain traditional mutual exclusion algorithms.
-B) Describe Monotonic Reads and Monotonic Writes in detail.
-Q6. Attempt All
-A) Explain the basic operation of RPC in detail.
-B) Discuss DFS implementations
-Q7. Write Short Note (Attempt Any 4)
-A) Streams synchronization ‘
-B) Cloud computing
-C)_ The role of virtualization in distributed System
-D) Fault Tolerance
-
-E) The Globus security architecture
-
-~ abs
-
-2/2
-
-(10)
-(10)
-
-(10)
-(10)
-
-(10)
-(10)
-(20)
 ````
 
 ## 2013-14 · Re-Exam · Sem 8 · paper a0256184799e
@@ -7485,162 +7740,65 @@ D) HDFS
 E) Kerberos
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper bc8075a3d81b
+## 2013-14 · Re-Exam · Trim 8 · paper b608463e9a51
 
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM_bc8075a3d8.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 06/05/2016
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Programme: B.Tech (Computer) Year: IV Semester: VIII
-Academic Year: 2015-16
-
-Batch: 2013-14
-
-Subject: Distributed Computing Marks: 100
-Time: 10.00 am - 1.00 pm
-Date: 06/05/2016 Durations: 3 hrs.
-
-Re-Examination
-
-—~Instructions:-Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
-
-NB: - 1) Question No ONE is compulsory
-2) Out of remaining attempt FOUR questions,
-3) All Questions carry equal marks.
-
-4) Figures in brackets on right hand side indicate full marks
-
-Q1. Attempt All
-A) What is Network file System? Explain with the help of its architecture. (10)
-B) List out various problem associated with scalability. Give the possible solutions (10)
-
-to the problems.
-Q.2. Attempt All
-
-A) Explain the various physical clock synchronization algorithm. (10)
-B) Explain the use of Threads in Distributed systems. (10)
-Q3. Attempt All
-— A) Explain in brief Code Migration. (10)
-Be: B) Explain the concept of Distributed Query Processing (10)
-
-1/2
---- page 2 ---
-Q4. Attempt All
-
-A) Explain working of DCE (Distributed Computing Environment) RPC. (10)
-B) Explain Various name Resolution techniques in detail (10)
-Q5. Attempt All
-A) Explain Traditional election algorithms & their Need. (10)
-B) Discuss the Real time Scheduling algorithms. (10)
-Q6. Attempt All
-A) Explain Security Management in distributed systems. (10)
-B) Explain various Client Centric Consistency Models (10)
-Q7. Write Short Note (Attempt Any 4) (28)
-A) Java RMI °
-
-B) Fault Tolerance
-C) Kerberos
-D) Grid Computing
-
-E) Distribution & replication in Oracle
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper e054549e3d35
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/DISTRIBUTED COMPUTING/SISTRIBUTED COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 06/05/2015
-- Text: ocr (2 pages), mean OCR confidence 90.1
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 /12/2013
+- Text: ocr (1 page), mean OCR confidence 90.3
 
 ````text
-er ¢
-
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (COMP) Year: 1V Semester: VIII
-Batch: 2013-14
-Academic Year: 2014-2015
+TANASE
 
-Subject: Distributed Computing
+Programme:MBA Tech (IT) Year: III Trimester:, ioe
 
-Marks: 100
-Date: 06/05/2015 Time: to 1.00 pm
+Academic Year: 2013-14 Batch:2012-13, s
+{
 
-Duratio EEN
+Subject : Distributed Computing
 
+Xs cane
+Marks:100 nian 8
+Date :13 /12/2013 Time : 10.00 am to POO-pmr™
+
+' Durations:3 (hrs)
 Re-Examination
-e-Examinati Ces)
 
-yee mR
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer book, which is provided for their use.
 
-f 4
-oN es $
+N.B: (1) Question 1 is Compulsory
+(2) Out of remaining questions, attempt any four questions.
+(3) In all five questions to be attempted.
+(4) All question carry equal marks.
+(5) Answer to each new question to be started on fresh page
 
-S: rar une ve
+Q 1. Explain [4x5]
+a) Code Migration
 
-Instructions:-candidates should read carefully the instructions printed on the question
+b) Crash and Recovery.
+c) Software Agents
 
-paper and on the cover of the answer book, which is provided for their use.
-NB: - 1) Question No.ONE is compulsory
+d) Threads.
+Q 2.(a) Compare NOS and DOS [10]
+(b) Explain RPC mechanism and its failure semantics. [10]
+Q 3.(a) Explain SOA [10]
+(b) Explain ATM , [10]
+Q 4.(a) How can we have a secure mobile code? Explain organization of java sandbox. [10]
+(b) Explain CORBA and Distributed COM. A [10]
+Q 5.(a) Discuss Clock synchronization mechanism in distributed operating system. [10]
+(b) Explain Group communication with Client Server communication. . [10]
+Q 6.(a)Explain any one Mutual Exclusion algorithm. [10]
+(b) Explain Bully Algorithm with example. [10]
+Q 7.(a) Explain different types of clocks with Lamports Algorithm. [10]
+(b) Explain Distributed File system and grid Computing [10]
 
-2) Out of remaining attempt FOUR questions,
-
-3) All Questions carry equal marks.
-
-4) Figures in brackets on right hand side indicate full marks
-
-Q1. Attempt All
-
-A) Message Queuing system (5)
-B) Write a note on Application Layering in Centralized architectures. (5)
-C) State and Explain scalability problems in Distributed Systems. (5)
-D) Cluster computing system (5)
-
-2. Attempt All
-A) Explain vector logical clocks with neat diagram and discuss how it is (10)
-advantageous than lamport algorithm.
-B) Describe the two-phase commit protocol in distributed DBMS. Why are ack (10)
-messages required in 2PC?
-
-Q3. Attempt All
-A) Explain in brief the various models for Code Migration: (10)
-
-B) Explain various algorithms for Real-Time scheduling (10)
---- page 2 ---
-Q4. Attempt All
-
-A) State and explain different primitives of message passing interface. (10)
-
-B) Explain implementation of a name space in detail. (10)
-QS. Attempt All
-
-A) Explain traditional mutual exclusion algorithms. (10)
-
-B) Describe different client centric consistency models in detail. (10)
-Q6. Attempt All
-
-A) Explain DCE RPC in detail. (10)
-
-B) Discuss DFS implementations (10)
-Q7. Write Short Note (Attempt Any 4) (20)
-
-A) Streams and Quality of service
-
-B) Cloud computing
-
-C) The role of virtualization in distributed System
-D) Fault Tolerance
-
-E) Public-key Cryptosystems: RSA
+K
+4/4.
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper 0aa4daaa2eb5
@@ -7736,103 +7894,6 @@ mutual exclusion. [10 marks]
 ¥
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper bd814d66cd05
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/DISTRIBUTED COMPUTING/Distributed Computing Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (IT) Year: Il Semester: VI
-Academic Year: 2014-15
-sorte
-
-Batch: 2013-14 as
-
-| - 2/7 ¢PSTME =!
-Subject : Distributed Computing Marks: 100 . 4: [BRARY et
-
-. Time : 2.00pm -"
-
-Date : 30/06/2015 Durations: 3 (hrs) Bors ons sane”
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Ql)a) List any 3 distribution transparencies and for each give an example of a system (5)
-that implements the transparency.
-
-Q1)b) Differentiate between Grid and Cluster Systems.(Give 2 points of differentiation) (5)
-
-Q1)c) List the 4 software architectural styles of Distributed Systems and explain any one. (5)
-
-Q1)d) What are multithreaded clients? Give an example of a multithreaded client in (5)
-Distributed system.
-
-Q2)a) Illustrate with a neat diagram the general organization of a server cluster. Explain (10)
-
-in brief.
-Q2)b) Whatare the different resources that can be migrated? Discuss any 3 different (10)
-
-types of resources and how would they be migrated?
-
-Q3)a) What is RPC? Discuss the various ways in which parameter can be passed in RPC. (10)
-
-Q3)b) When would you use message oriented communication in comparison with other (10)
-methods of communication available for distributed systems? Discuss the general
-architecture of Message-Queuing System.
-
-Q4)a) Why is clock synchronization important in distributed systems? Justify with an (10)
-example. Discuss a clock synchronization algorithm that will be used to
-synchronize clocks with a system having an accurate time.
-
-Q4)b) Discuss any one traditional election algorithm. How are elections in wireless (10)
-environments more challenging than a wired one?
-
-Q5)a) Whatis causal consistency? Explain how it is weaker than sequential consistency. (10)
-Q5)b) Explain the working of quorum-based protocols used to support replicated writes. (10)
-
-Q6)a) With a neat diagram explain the organization of Cluster based Distributed File (10)
-
-Systems.
-4/2.
---- page 2 ---
-Q6)b) Discuss how RPC happens in Distributed File System.
-
-Q7) Write short notes on: (any four)
-a) Asynchronous RPC
-b) Globus Security Architecture
-c) Triple Modular Redundancy
-d) Vector Clocks
-e) Distributed Pervasive Systems
-
-2/2.
-
-(10)
-
-(20)
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper 5c0951a6f362
 
 - Departments: Computer Applications (MCA)
@@ -7908,6 +7969,134 @@ Q7 Write a short note on following (any four) 20M
 4) X-—window system
 
 5) Sun NFS gtr
+````
+
+## 2012-13 · Exam not stated · Trim 7 · paper d4e2dcbe1b71
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/TRIM VII/DISTRIBUTED COMPUTING/scan0019(6).pdf`
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+Management & Enginee
+
+Year: II Trimester:
+Academic Year : 2012-2013 “va
+
+DISTRIBUTED COMPUTING Mark
+ET)
+
+° a
+28/09/2012 ica 2.00pm TOKE
+uration: 3
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the answer book, which is provided for their use.
+
+NB: a
+
+1. Question No.1 is compulsory. Out of remaining questions, attempt any 4 .
+2. Inall ,5 questions to be attempted.
+
+3. All questions carry equal marks.
+
+4: Answers to each new question to be started on fresh page.
+
+5. Figure to the right indicate full marks.
+
+Q.1 a) What is Mutual Exclusion ? Discuss various approaches for handling it.
+
+b) Following figure shows three process and seven message. If starting time at process
+P1 is (0,0,0) , compute time vectors for all the processes for all the events.
+
+Pi
+N M3 M4 i M6
+\ \ |
+
+" YEVL_-
+
+P3
+
+Q2. a) Discuss the goals of Distributed Systems.
+
+b) Explain Centralized and Decentralized Distributed System Architectures with neat
+} diagrams.
+
+0} a) What is the role of Virtualization in Distributed Systems? Discuss architectures of
+Virtual Machines.
+
+b) Explain Message-Oriented Transient and Persistent Communications.
+Q4. a) Explain data centric consistency model.
+
+b) Explain Structured Naming in detail.
+
+Pg (1/2)
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+--- page 2 ---
+QS.
+
+Q6.
+
+Q7.
+
+q
+
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+b)
+c)
+
+Explain the features of Globus Security Architecture.
+
+Explain any two approaches for Authentication .
+
+Explain Sun-Network File System with neat diagrams.
+
+Discuss Distributed Object based systems in detail.
+Write note on any two of the following.
+CODA File System
+
+Distributed Information System
+Thread in Distributed System
+
+stnnaveneraeanneaessaancnnpaeegme me
+
+Pg (2/2)
+
+10
+
+10
+
+10
+
+10
+
+20
 ````
 
 ## 2012-13 · Final-Exam · Trim 8 · paper e60a354b450d
@@ -7987,67 +8176,6 @@ e. Group Communication eK
 |
 ````
 
-## 2012-13 · Re-Exam · Trim 8 · paper b608463e9a51
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 /12/2013
-- Text: ocr (1 page), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-TANASE
-
-Programme:MBA Tech (IT) Year: III Trimester:, ioe
-
-Academic Year: 2013-14 Batch:2012-13, s
-{
-
-Subject : Distributed Computing
-
-Xs cane
-Marks:100 nian 8
-Date :13 /12/2013 Time : 10.00 am to POO-pmr™
-
-' Durations:3 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer book, which is provided for their use.
-
-N.B: (1) Question 1 is Compulsory
-(2) Out of remaining questions, attempt any four questions.
-(3) In all five questions to be attempted.
-(4) All question carry equal marks.
-(5) Answer to each new question to be started on fresh page
-
-Q 1. Explain [4x5]
-a) Code Migration
-
-b) Crash and Recovery.
-c) Software Agents
-
-d) Threads.
-Q 2.(a) Compare NOS and DOS [10]
-(b) Explain RPC mechanism and its failure semantics. [10]
-Q 3.(a) Explain SOA [10]
-(b) Explain ATM , [10]
-Q 4.(a) How can we have a secure mobile code? Explain organization of java sandbox. [10]
-(b) Explain CORBA and Distributed COM. A [10]
-Q 5.(a) Discuss Clock synchronization mechanism in distributed operating system. [10]
-(b) Explain Group communication with Client Server communication. . [10]
-Q 6.(a)Explain any one Mutual Exclusion algorithm. [10]
-(b) Explain Bully Algorithm with example. [10]
-Q 7.(a) Explain different types of clocks with Lamports Algorithm. [10]
-(b) Explain Distributed File system and grid Computing [10]
-
-K
-4/4.
-````
-
 ## 2012-13 · Re-Exam · Trim 8 · paper 3b73920b5bf4
 
 - Departments: Information Technology
@@ -8115,6 +8243,7 @@ e) Grid Computing
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/DISTRIBUTED COMPUTING/DISTRIBUTED COMPUTING 2011-2012(1).pdf`
 - Printed on paper: exam date: 27/01/2012
 - Text: ocr (1 page), mean OCR confidence 82.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 pet ne ERTS
@@ -8132,7 +8261,6 @@ t Pe ce Ah me remem Be UP
 ARN pn cnt i nnn nite
 
 "Subject: DISTRIBUTED COMPUTING Marksf/> ( Logsvew's Ve '
-Time: a ( MOuao. anscro Sdipm
 Date: 27/01/2012 Duratifi: (| 3 heSRARY
 Kinai - Examination
 Instructions: Candidates should read carefully the instructions printed on the questioPhpapeiaithoe mie cover of the
@@ -8452,6 +8580,7 @@ vi) Distributed Transaction
 - Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/TRIM VII/DISTRIBUTED COMPUTING/2010-2011(5).pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 23/09/2010
 - Text: ocr (1 page), mean OCR confidence 89.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -8501,7 +8630,6 @@ b) Explain the different models of code migration? (10)
 
 (c) Lamport’s Logical clocks
 
-FEES SREB C ES IEEECCAEEE CA/| the Bes gi eA ICAI A ASIII IIIS A IAEA IIIS
 ````
 
 ## 2010-11 · Re-Exam · Trim 7 · paper 42ed4cfdc74e
@@ -8511,6 +8639,7 @@ FEES SREB C ES IEEECCAEEE CA/| the Bes gi eA ICAI A ASIII IIIS A IAEA IIIS
 - Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/TRIM VII/DISTRIBUTED COMPUTING/Distributed Computing 2010-11 Re-Exam.pdf.pdf`
 - Printed on paper: exam date: 17/06/2011
 - Text: ocr (1 page), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -8558,7 +8687,6 @@ Explain any one scheme foreach __
 
 ~ (c) Overlay networks (f) Digital Signatures
 
-FORO RO I I I a i i a aki ok a oi oie ok ak ok a ok fee aR ae ae oe ok he he eee 2 ee ae ee ee ee a
 
 '
 ````
@@ -8955,132 +9083,4 @@ b) Explain the architecture of the D’ Agents System and the parts comprising t
 state of an agent in a D’ Agents. [10]
 
 i
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper d4e2dcbe1b71
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/TRIM VII/DISTRIBUTED COMPUTING/scan0019(6).pdf`
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-Management & Enginee
-
-Year: II Trimester:
-Academic Year : 2012-2013 “va
-
-DISTRIBUTED COMPUTING Mark
-ET)
-
-° a
-28/09/2012 ica 2.00pm TOKE
-uration: 3
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the answer book, which is provided for their use.
-
-NB: a
-
-1. Question No.1 is compulsory. Out of remaining questions, attempt any 4 .
-2. Inall ,5 questions to be attempted.
-
-3. All questions carry equal marks.
-
-4: Answers to each new question to be started on fresh page.
-
-5. Figure to the right indicate full marks.
-
-Q.1 a) What is Mutual Exclusion ? Discuss various approaches for handling it.
-
-b) Following figure shows three process and seven message. If starting time at process
-P1 is (0,0,0) , compute time vectors for all the processes for all the events.
-
-Pi
-N M3 M4 i M6
-\ \ |
-
-" YEVL_-
-
-P3
-
-Q2. a) Discuss the goals of Distributed Systems.
-
-b) Explain Centralized and Decentralized Distributed System Architectures with neat
-} diagrams.
-
-0} a) What is the role of Virtualization in Distributed Systems? Discuss architectures of
-Virtual Machines.
-
-b) Explain Message-Oriented Transient and Persistent Communications.
-Q4. a) Explain data centric consistency model.
-
-b) Explain Structured Naming in detail.
-
-Pg (1/2)
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
---- page 2 ---
-QS.
-
-Q6.
-
-Q7.
-
-q
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-b)
-c)
-
-Explain the features of Globus Security Architecture.
-
-Explain any two approaches for Authentication .
-
-Explain Sun-Network File System with neat diagrams.
-
-Discuss Distributed Object based systems in detail.
-Write note on any two of the following.
-CODA File System
-
-Distributed Information System
-Thread in Distributed System
-
-stnnaveneraeanneaessaancnnpaeegme me
-
-Pg (2/2)
-
-10
-
-10
-
-10
-
-10
-
-20
 ````

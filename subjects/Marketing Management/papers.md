@@ -4,6 +4,129 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Exam not stated · paper 30173776b83a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MARKETING MANAGEMENT/Marketing Management.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 93.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-26
+
+Program/s: MBA Tech Year: IV Semester: VII
+Stream/s;All streams /MeCH /comr. .
+
+Subject: Marketing ttanagement Time: 3 hrs (10 AM to 1 PM)
+Date:__27/ 11 / 2025 No. of Pages: 03 pages
+Marks: 100.
+
+Re-Examination (2024-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [20]
+CO-1 ; a.
+BL- Explain the 4 P’s of marketing ; (5]
+Understand :
+i ; b. Explain the term ‘Brand’ [5]
+Understand
+c0-1:80 Explain the concept of ‘Line stretching’ with reference to product
+BL. zoe? portfolio. [5]
+Understand
+co-1;so-; | d. Explain the different type of costs with reference to pricing decision of the
+BL- product. : [5]
+Understand , ;
+Monster Energy is launching a new energy drink called “VitalBoost”. The
+market is already crowded with well-established brands like Red Bull,
+Q2 Rockstar Energy, and Bang Energy. VitalBoost offers natural ingredients,
+CO 1 no added sugars, and-a focus on mental clarity rather than just physical [20]
+BL- energy. Explain the four types of segmentation that Monster energy can use
+Understand for segmenting the customers.
+--- page 2 ---
+SmartFit is a new wearable fitness tracker brand aiming to compete with
+established brands like Fitbit and Apple Watch. However, SmartFit faces
+the challenge-of entering a saturated market. To stand out, SmartFit’s team
+is focusing on creating a product that offers unique features that aren’t
+widely available in other fitness trackers. SmartFit’s key differentiators are
+its ability to monitor hydration levels, track mental wellness with mood
+
+Q3 analysis, and its ultra-long battery life—asting up to 10 days on a single
+CO-2; SO-; charge. Additionally, it offers customizable wristbands made from [20]
+BL- Apply sustainable materials and integrates with a fitness app that provides
+
+personalized workout plans based on individual goals and progress. List the
+various factors that can be used the product differentiation and examine the
+factors used by SmartFit has used to be a preferred choice over the
+competition.
+
+‘The Body Shop’ is a premium skincare and beauty brand known for its
+organic ingredients, eco-friendly packaging, and cruelty-free practices. The
+brand’s target market consists of health-conscious consumers who are
+
+Q4 looking for skincare products that are both effective and aligned with their
+C0-2: 80+ values. The Body Shop prides itself on being transparent about ingredient [20]
+BL- Apply sourcing and its sustainability efforts. As “The Body Shop’ looks to expand
+its market share, explain the role that the brand should fulfil for its
+customers.
+
+Emma recently visited “Glow Spa,” a new wellness center offering massage
+therapy, facials, and relaxation treatments. Unlike buying a product, Emma
+noticed that the experience varied depending on the therapist she saw and
+
+Qs the environment that day. She couldn’t take the massage home with her, but
+CO-;2 the feeling of relaxation lasted for days. Emma also observed that the staff [20]
+BL-Apply personalized the treatment to her specific needs, and the ambiance played a
+
+big role in how enjoyable the service was. Using the above example; explain
+how the services are different from physical goods with the help of four
+distinct characteristics of services.
+
+Sony is planning to launch a new smartphone aimed at millennials and Gen
+Z, with a focus on high-quality camera features and affordable pricing. The
+marketing team has set an objective to achieve a 10% market share within
+
+Q6 the first year of launch. To meet this objective, they must develop a
+CO- 3; SO-; comprehensive marketing communication plan. They plan to launch an | [20]
+BL- Create aggressive advertising campaign on television. Apart from TV, recommend
+
+the different modes of communication that can be used as a part of the
+marketing communication mix.
+
+Q7 Samsung India Electronics Private Limited, a dominant consumer
+electronics firm, offers a comprehensive range of LED, QLED, and OLED [20]
+
+CO-2; $O-; Smart Televisions. The company utilizes several large multi-brand retail
+
+2
+--- page 3 ---
+BL- Apply partners in Mumbai, ‘such as Reliance Digital, Vijay Sales, Kohinoor
+Electronics, eZone, and Fonebook. The company faces a persistent problem
+due to aggressive promotional activities resulting in channel conflict.
+Explain the causes or the source of such conflicts.
+--- page 4 ---
+
+````
+
 ## 2025-26 · Final-Exam · Sem 7 · paper 2ae530408ebf
 
 - Departments: Computer Science and Business Systems
@@ -2167,6 +2290,117 @@ Apply
 manage channels?
 ````
 
+## 2023-24 · Re-Exam · paper a1e6ad3ebbef
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MARKETING MANAGEMENT/Marketing Management , Re-exam 2022-23.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+ios
+ON
+
+MPsp ME Koant
+
+LIBRARY
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Program/s: MBA Tech Year: [V_ Semester: VII
+Stream/s ; All streams
+
+Subject: Marketing Management Time: 2 hrs (10 am to_12 noon)
+Date:_14 /o2./2024 No. of Pages: 2
+
+Marks: 50 Marks
+Re-Examination 2022-23 .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks. :
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [10]
+co-1; a. | Explain the term ‘customer value proposition’
+BL- [2.5]
+Understand
+co-1; b. Explain the role of brands for consumers. ‘
+BL- [2.5]
+Understand
+CO-1; Gs : . . .
+BL- Explain the characteristic of ‘Variability’ in services (2.5]
+Understand
+CO-1; d.
+BL- Explain the risks of entering Global/Foreign markets [2.5]
+Understand
+
+2 : . eos : 1
+
+Q Sanjay Mishra is a Mumbai resident looking to buy a new car. Explain the
+CcO-1; personal factors that could affect his purchase decision. [10]
+BL-
+Understand
+Q3 Mondelez India Foods Pvt. Ltd., headquartered in Mumbai is a powerhouse
+CO-2; BL- of iconic brands such as Cadbury, Bournvita, Oreo and 5 Star. Health and [10]
+Apply wellbeing have become a major focus in the food and beverages industry.
+
+1
+--- page 2 ---
+Given this trend, the company is considering launching a healthy candy-with
+the goodness of Ginger, Vitamin C and green tea. Illustrate how the
+company can apply the concepts of strategic and tactical targeting to launch
+the product in the Indian market.
+
+Havells India Limited is a Fast Moving Electrical Goods (FMEG) Company
+with an extremely strong global presence and extensive distribution
+
+Q4 network. The company is planning to launch a new dishwasher in the Indian
+market in Tier 1 and Tier 2 cities in the year 2024. Given the nascent stage
+
+CO-2; SO-; of the industry, examine the various factors that the company can use to [10]
+
+BL-Apply effectively differentiate it from competitive products available in the
+market. .
+
+The newspaper industry has been in steady decline triggered by a loss in
+Qs readership and ad revenue which have been migrating to other media, most
+notably digital. Explain the concept of product life cycle. Further, develop [10]
+
+pant, some strategies for the newspaper companies, which are evidently in the
+decline stage. ;
+Ashok Leyland is an Indian multinational automotive manufacturer, with
+Q6é their headquarters in Chennai. The company is planning to launch a tractor
+for the Indian market. Recommend some pricing methods that the company
+CO-3; SO-; can use to launch the product. Further, suggest the most appropriate pricing ae
+BL-Create method as per your assessment.
+LG Electronics India Pvt. Ltd.,a wholly owned subsidiary of LG
+Electronics (South Korea) was established in January 1997 in India. Mr. Raj
+Q7 Nambiar is the Regional Sales Head of LG electronics (Air conditioning
+division). He is facing a severe problem with respect to channel member’s
+CO-3; SO-; (Dealers) conflict in his region. Describe the causes of. such channel [0]
+BL-Create conflicts. Also, recommend some strategies that he can use to manage the
+conflicts. ;
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper a59edeb06eb6
 
 - Departments: Data Science
@@ -2525,117 +2759,6 @@ BL-4
 obs a Briefly explain some of the different types of intermediaries/Distribution (20)
 
 BL-4 channels.
-````
-
-## 2022-23 · Re-Exam · paper a1e6ad3ebbef
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MARKETING MANAGEMENT/Marketing Management , Re-exam 2022-23.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-ios
-ON
-
-MPsp ME Koant
-
-LIBRARY
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Program/s: MBA Tech Year: [V_ Semester: VII
-Stream/s ; All streams
-
-Subject: Marketing Management Time: 2 hrs (10 am to_12 noon)
-Date:_14 /o2./2024 No. of Pages: 2
-
-Marks: 50 Marks
-Re-Examination 2022-23 .
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks. :
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [10]
-co-1; a. | Explain the term ‘customer value proposition’
-BL- [2.5]
-Understand
-co-1; b. Explain the role of brands for consumers. ‘
-BL- [2.5]
-Understand
-CO-1; Gs : . . .
-BL- Explain the characteristic of ‘Variability’ in services (2.5]
-Understand
-CO-1; d.
-BL- Explain the risks of entering Global/Foreign markets [2.5]
-Understand
-
-2 : . eos : 1
-
-Q Sanjay Mishra is a Mumbai resident looking to buy a new car. Explain the
-CcO-1; personal factors that could affect his purchase decision. [10]
-BL-
-Understand
-Q3 Mondelez India Foods Pvt. Ltd., headquartered in Mumbai is a powerhouse
-CO-2; BL- of iconic brands such as Cadbury, Bournvita, Oreo and 5 Star. Health and [10]
-Apply wellbeing have become a major focus in the food and beverages industry.
-
-1
---- page 2 ---
-Given this trend, the company is considering launching a healthy candy-with
-the goodness of Ginger, Vitamin C and green tea. Illustrate how the
-company can apply the concepts of strategic and tactical targeting to launch
-the product in the Indian market.
-
-Havells India Limited is a Fast Moving Electrical Goods (FMEG) Company
-with an extremely strong global presence and extensive distribution
-
-Q4 network. The company is planning to launch a new dishwasher in the Indian
-market in Tier 1 and Tier 2 cities in the year 2024. Given the nascent stage
-
-CO-2; SO-; of the industry, examine the various factors that the company can use to [10]
-
-BL-Apply effectively differentiate it from competitive products available in the
-market. .
-
-The newspaper industry has been in steady decline triggered by a loss in
-Qs readership and ad revenue which have been migrating to other media, most
-notably digital. Explain the concept of product life cycle. Further, develop [10]
-
-pant, some strategies for the newspaper companies, which are evidently in the
-decline stage. ;
-Ashok Leyland is an Indian multinational automotive manufacturer, with
-Q6é their headquarters in Chennai. The company is planning to launch a tractor
-for the Indian market. Recommend some pricing methods that the company
-CO-3; SO-; can use to launch the product. Further, suggest the most appropriate pricing ae
-BL-Create method as per your assessment.
-LG Electronics India Pvt. Ltd.,a wholly owned subsidiary of LG
-Electronics (South Korea) was established in January 1997 in India. Mr. Raj
-Q7 Nambiar is the Regional Sales Head of LG electronics (Air conditioning
-division). He is facing a severe problem with respect to channel member’s
-CO-3; SO-; (Dealers) conflict in his region. Describe the causes of. such channel [0]
-BL-Create conflicts. Also, recommend some strategies that he can use to manage the
-conflicts. ;
 ````
 
 ## 2022-23 · Re-Exam · paper 6261c5ff9722
@@ -3080,6 +3203,7 @@ use to manage the channel conflicts. (1@-marks)
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM V/Marketing Management/Marketing Management 2018-19 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 15 February 2019
 - Text: ocr (4 pages), mean OCR confidence 90.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS Y —
@@ -3202,9 +3326,7 @@ D) collect information about competitors that will directly influence the firms'
 E) help the firm anticipate what the actions of its competitors will be 4
 --- page 3 ---
 rT gt 1S AN VEMAW C/N BION KO RAM VAN MEUEVEH 0
-C2) Be ft [Pree id (oe aad Xe rresoul, ie Pewee aoatbe © an keh’ ¢
 —1 we. QUID weolret- RY S . .
-ee Mow acy C, Bum “ale A Gu dirnuy & ke ying ke
 QO AA
 
 15 Using the industry approach, competitors are defined as companies that satisfy the same
@@ -3785,6 +3907,92 @@ task, and what decision must be made? (12 Marks)
 3h
 ````
 
+## 2016-17 · Re-Exam · paper 648a5db92f5f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MARKETING MANAGEMENT/Marketing Management Batch 2015-16 Re Exam.pdf`
+- Printed on paper: exam date: 29 November 2016
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : MBA. Tech (All Streams) Year : IV Semester: VII
+Batch : 2015-16
+
+Academic Year : 2016-2017 —
+sare
+Subject : Marketing Management ~ Marks : ——
+Time fam,to 12,09
+
+(er a anu iF
+
+y Cr a,
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+
+Date : 29 November 2016 Duratio:
+
+Re-Examination
+
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Ql. Write Short notes on (any 3 out of 4) (12 marks)
+
+a) Product v/s Production Orientation
+b) Ansoff?s Matrix
+c) Co-branding
+
+d) Criteria for evaluating attractiveness of a segment
+Q2) Compare and Contrast consumer promotion and trade promotion. (12 marks)
+
+Q3) Describe Porters Value Chain network and its utility. (12 marks)
+
+Page 1 of 2
+--- page 2 ---
+-——F
+
+Q4) Write a short note on any two of the following (12 marks)
+
+1. reverse flow channels and its uses
+2. service outputs of channels
+
+3. Terms and responsibilities of channel members
+
+(12 marks)
+
+Q5) Should a brand leader react to a competitors price cut. Support your stand with strategies to
+
+execute your suggestion. (12 marks)
+
+Q6) If you were an insurance sales person, which are the seven steps of selling you would
+
+follow?
+
+(12 marks)
+
+Q7) Compare and contrast PLC strategies for growth and maturity stage. (12 marks)
+
+Page 2 of 2
+````
+
 ## 2015-16 · Final-Exam · paper 4616ff089b1e
 
 - Departments: Common (all branches)
@@ -3872,90 +4080,65 @@ with customers. Describe the SPIN method. ( 12 marks)
 Page 2 of 2
 ````
 
-## 2015-16 · Re-Exam · paper 648a5db92f5f
+## 2015-16 · Re-Exam · paper 4ceb8bedc56f
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MARKETING MANAGEMENT/Marketing Management Batch 2015-16 Re Exam.pdf`
-- Printed on paper: exam date: 29 November 2016
-- Text: ocr (2 pages), mean OCR confidence 92.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MARKETING MANAGEMENT/Marketing Management Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 05/12/2015
+- Text: ocr (1 page), mean OCR confidence 92.3
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : MBA. Tech (All Streams) Year : IV Semester: VII
-Batch : 2015-16
+Programme:MBA Tech (ALL STREAMS) Year: IV Semester: VII
+Academic Year: 2015 - 16
 
-Academic Year : 2016-2017 —
-sare
-Subject : Marketing Management ~ Marks : ——
-Time fam,to 12,09
+Batch:2014-15
 
-(er a anu iF
-
-y Cr a,
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-
-Date : 29 November 2016 Duratio:
+Subject :Marketing Management Marks:60
+, Time :2.00 pm - 4.00 pm
+Date : 05/12/2015 Durations:2 (hrs)
 
 Re-Examination
-
-on the cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for theiruse.
 
 NB:
-
-1) Question No.1 is compulsory.
-
+1) Question No. 1 is compulsory.
 2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
+3) In all five questions to be attempted.
 4) All questions carry equal marks.
-
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-
 7) Assume Suitable data if necessary
+Section A (Compulsory)
 
-Ql. Write Short notes on (any 3 out of 4) (12 marks)
+1. Write a short note on any two6f the following 6 marks each) am
+a) Five modes of entry into foreign markets
+b) Marketing strategies in a decline stage of a product life cycle
 
-a) Product v/s Production Orientation
-b) Ansoff?s Matrix
-c) Co-branding
+Section B (Answer any four)
 
-d) Criteria for evaluating attractiveness of a segment
-Q2) Compare and Contrast consumer promotion and trade promotion. (12 marks)
+2. Using any example of your choice, define the holistic marketing concept with specific
+explanation of the relationship marketing (f2 marks)
+3. Using the strategic planning gap model, explain how a company may increase its turnover over
+during the next 5 years only from its current businesses({2-marks)
+4. Using the example of range of two wheelers automobiles of a company, please explain the
+following concepts ({@marks)
+a Product mix
+b. Product width
+ce. Product length
+d. Product Item
 
-Q3) Describe Porters Value Chain network and its utility. (12 marks)
+5. Explain “Point of Parity” and ‘Point of Difference” associations. Which of these is more relevant
+when a company enters a new product category? Support your answer with reasons. (12 marks)
 
-Page 1 of 2
---- page 2 ---
--——F
+6. Explain segmentation and targeting for fairness cream for men. (\2-marks)
 
-Q4) Write a short note on any two of the following (12 marks)
-
-1. reverse flow channels and its uses
-2. service outputs of channels
-
-3. Terms and responsibilities of channel members
-
-(12 marks)
-
-Q5) Should a brand leader react to a competitors price cut. Support your stand with strategies to
-
-execute your suggestion. (12 marks)
-
-Q6) If you were an insurance sales person, which are the seven steps of selling you would
-
-follow?
-
-(12 marks)
-
-Q7) Compare and contrast PLC strategies for growth and maturity stage. (12 marks)
-
-Page 2 of 2
+7. What is communication mix? List its components and suggest the most appropriate ones to sell a
+refrigerator with logical arguments (12-marks)
 ````
 
 ## 2014-15 · Final-Exam · paper 4cc956d31f07
@@ -4023,65 +4206,77 @@ XX
 4
 ````
 
-## 2014-15 · Re-Exam · paper 4ceb8bedc56f
+## 2014-15 · Re-Exam · paper ec9e3c5d2638
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MARKETING MANAGEMENT/Marketing Management Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 05/12/2015
-- Text: ocr (1 page), mean OCR confidence 92.3
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MARKETING MANAGEMENT/Marketing Management 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 06/12/2014
+- Text: ocr (1 page), mean OCR confidence 94.9
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (ALL STREAMS) Year: IV Semester: VII
-Academic Year: 2015 - 16
+Programme: MBA Tech (ALL STREAMS) Year: IV
 
-Batch:2014-15
+Semester: VII
 
-Subject :Marketing Management Marks:60
-, Time :2.00 pm - 4.00 pm
-Date : 05/12/2015 Durations:2 (hrs)
+Academic Year: 2014-15 Batch: 2013-14
 
-Re-Examination
+Subject : Marketing Management
+
+Marks: 50
+Date : 06/12/2014 Time : 2.00 p
+
+Durations 2 (hr
+
+Re - Examination
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for theiruse.
+cover of the Answer Book, which is provided for their use.
 
 NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all five questions to be attempted.
+
+1) Question No. | of Section A is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions from section B.
+3) In all Squestions to be attempted.
+
 4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
+
 Section A (Compulsory)
 
-1. Write a short note on any two6f the following 6 marks each) am
-a) Five modes of entry into foreign markets
-b) Marketing strategies in a decline stage of a product life cycle
+1. Write short notes on (any two).
+a) Elements of marketing communication mix.
+b) Criteria for choosing brand elements
+
+c) Factors affecting New Product failure
 
 Section B (Answer any four)
 
-2. Using any example of your choice, define the holistic marketing concept with specific
-explanation of the relationship marketing (f2 marks)
-3. Using the strategic planning gap model, explain how a company may increase its turnover over
-during the next 5 years only from its current businesses({2-marks)
-4. Using the example of range of two wheelers automobiles of a company, please explain the
-following concepts ({@marks)
-a Product mix
-b. Product width
-ce. Product length
-d. Product Item
+2. Define Marketing. Explain holistic marketing. Give example of your choice.
 
-5. Explain “Point of Parity” and ‘Point of Difference” associations. Which of these is more relevant
-when a company enters a new product category? Support your answer with reasons. (12 marks)
+3. State the marketing strategies used by marketers during the Maturity stage of the product life
+cycle using an example of your choice.
 
-6. Explain segmentation and targeting for fairness cream for men. (\2-marks)
+4. The fabric detergent product line of Hindustan Unilever has several brands. identify its
+product line strategies and discuss reasons for stretching product line ? .
 
-7. What is communication mix? List its components and suggest the most appropriate ones to sell a
-refrigerator with logical arguments (12-marks)
+5. What is Organizational Buying? How it is different from Consumer buying?
+
+6. (a) What is Niche Marketing? What are the characteristics of niche marketing? (5 marks)
+(b) What is Market Segmentation? What are the criteria considered for effective
+es segmentation? (5 marks)
+
+7. (a) State the conditions under which Licensing is an appropriate global strategy (3 marks)
+(b) Discuss the merits and demerits of licensing as a global entry strategy (7 marks)
+
+X
+1/s
 ````
 
 ## 2014-15 · Re-Exam · paper e8db694d469d
@@ -4229,79 +4424,6 @@ x
 va
 ````
 
-## 2013-14 · Re-Exam · paper ec9e3c5d2638
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MARKETING MANAGEMENT/Marketing Management 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 06/12/2014
-- Text: ocr (1 page), mean OCR confidence 94.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: IV
-
-Semester: VII
-
-Academic Year: 2014-15 Batch: 2013-14
-
-Subject : Marketing Management
-
-Marks: 50
-Date : 06/12/2014 Time : 2.00 p
-
-Durations 2 (hr
-
-Re - Examination
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | of Section A is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions from section B.
-3) In all Squestions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Section A (Compulsory)
-
-1. Write short notes on (any two).
-a) Elements of marketing communication mix.
-b) Criteria for choosing brand elements
-
-c) Factors affecting New Product failure
-
-Section B (Answer any four)
-
-2. Define Marketing. Explain holistic marketing. Give example of your choice.
-
-3. State the marketing strategies used by marketers during the Maturity stage of the product life
-cycle using an example of your choice.
-
-4. The fabric detergent product line of Hindustan Unilever has several brands. identify its
-product line strategies and discuss reasons for stretching product line ? .
-
-5. What is Organizational Buying? How it is different from Consumer buying?
-
-6. (a) What is Niche Marketing? What are the characteristics of niche marketing? (5 marks)
-(b) What is Market Segmentation? What are the criteria considered for effective
-es segmentation? (5 marks)
-
-7. (a) State the conditions under which Licensing is an appropriate global strategy (3 marks)
-(b) Discuss the merits and demerits of licensing as a global entry strategy (7 marks)
-
-X
-1/s
-````
-
 ## 2013-14 · Re-Exam · paper 49dc85c2e15c
 
 - Departments: Common (all branches)
@@ -4369,6 +4491,62 @@ markets?
 0 ee
 
 Vi
+````
+
+## 2012-13 · Exam not stated · Trim 10 · paper 4d09a3b568c0
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/MARKETING MANAGEMENT/scan0023(3).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 05/10/2012
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineerin
+
+->rogramme: MBA (Tech) (All Stream) Year: IV Trimester: X
+Academic Year : 2012-2013
+
+Subject: Marketing Management Marks: 50
+Time: 2.00 p.m
+Date: 05/10/2012 Duration: 2 hrs.
+
+Final - Examination
+
+—_
+
+Instruction:
+Please read the questions carefully. Attempt any 5 questions.
+All questions carry equal marks.
+
+Answer the each question on a fresh page.
+
+1. Discuss the internal Marketing Environment factors affecting the FDI
+in retailing.
+
+2. Critically analyse the importance of marketing department
+relationships with other functional departments in the organizations.
+}
+
+3. Discuss the factors affecting the consumer buying behavior in
+hhking a choice between private labels and other brands in FMCG
+products available in big retail outlets,
+
+4. What are the key strategic areas should be considered by retailers
+
+like Reliance Fresh, Big Bazaar, D-Mart, Star Bazaar when they
+decide to go for online selling of the products.
+
+Yo
+--- page 2 ---
+5. Choose a company of your choice and do the competitive analysis for
+developing the competitive strategies.
+
+6. Discuss the new product development process for a Samsung’s New
+Washing Machine .You may write some dialogues which you think
+that may go for discussion with other members of new product
+development team.
 ````
 
 ## 2012-13 · Re-Exam · Trim 10 · paper 1159a6250696
@@ -4626,6 +4804,7 @@ h
 - Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/MARKETING MANAGEMENT/2009-2010(169).pdf` (+2 identical copies)
 - Text: ocr (1 page), mean OCR confidence 79.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 af SVKM"S \«
@@ -4639,7 +4818,6 @@ End-Semester Examination
 
 Mukesh Patel School of Technology and Management
 ”" D* ‘ TF /
-Dal: 09-10-09 Sve: Maateh W\auage Ny ea
 
 * “Y Sy manne 7
 All Questions are Compulsory ~
@@ -4901,185 +5079,6 @@ Questions:
 4. Comment on the company’s decision to launch the bar variant of its highly popular Pril
 liquid dish cleaner? 12
 x XY
-````
-
-## Year not stated · Exam not stated · Trim 10 · paper 4d09a3b568c0
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/MARKETING MANAGEMENT/scan0023(3).pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 05/10/2012
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineerin
-
-->rogramme: MBA (Tech) (All Stream) Year: IV Trimester: X
-Academic Year : 2012-2013
-
-Subject: Marketing Management Marks: 50
-Time: 2.00 p.m
-Date: 05/10/2012 Duration: 2 hrs.
-
-Final - Examination
-
-—_
-
-Instruction:
-Please read the questions carefully. Attempt any 5 questions.
-All questions carry equal marks.
-
-Answer the each question on a fresh page.
-
-1. Discuss the internal Marketing Environment factors affecting the FDI
-in retailing.
-
-2. Critically analyse the importance of marketing department
-relationships with other functional departments in the organizations.
-}
-
-3. Discuss the factors affecting the consumer buying behavior in
-hhking a choice between private labels and other brands in FMCG
-products available in big retail outlets,
-
-4. What are the key strategic areas should be considered by retailers
-
-like Reliance Fresh, Big Bazaar, D-Mart, Star Bazaar when they
-decide to go for online selling of the products.
-
-Yo
---- page 2 ---
-5. Choose a company of your choice and do the competitive analysis for
-developing the competitive strategies.
-
-6. Discuss the new product development process for a Samsung’s New
-Washing Machine .You may write some dialogues which you think
-that may go for discussion with other members of new product
-development team.
-````
-
-## Year not stated · Exam not stated · paper 30173776b83a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MARKETING MANAGEMENT/Marketing Management.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 93.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-26
-
-Program/s: MBA Tech Year: IV Semester: VII
-Stream/s;All streams /MeCH /comr. .
-
-Subject: Marketing ttanagement Time: 3 hrs (10 AM to 1 PM)
-Date:__27/ 11 / 2025 No. of Pages: 03 pages
-Marks: 100.
-
-Re-Examination (2024-25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [20]
-CO-1 ; a.
-BL- Explain the 4 P’s of marketing ; (5]
-Understand :
-i ; b. Explain the term ‘Brand’ [5]
-Understand
-c0-1:80 Explain the concept of ‘Line stretching’ with reference to product
-BL. zoe? portfolio. [5]
-Understand
-co-1;so-; | d. Explain the different type of costs with reference to pricing decision of the
-BL- product. : [5]
-Understand , ;
-Monster Energy is launching a new energy drink called “VitalBoost”. The
-market is already crowded with well-established brands like Red Bull,
-Q2 Rockstar Energy, and Bang Energy. VitalBoost offers natural ingredients,
-CO 1 no added sugars, and-a focus on mental clarity rather than just physical [20]
-BL- energy. Explain the four types of segmentation that Monster energy can use
-Understand for segmenting the customers.
---- page 2 ---
-SmartFit is a new wearable fitness tracker brand aiming to compete with
-established brands like Fitbit and Apple Watch. However, SmartFit faces
-the challenge-of entering a saturated market. To stand out, SmartFit’s team
-is focusing on creating a product that offers unique features that aren’t
-widely available in other fitness trackers. SmartFit’s key differentiators are
-its ability to monitor hydration levels, track mental wellness with mood
-
-Q3 analysis, and its ultra-long battery life—asting up to 10 days on a single
-CO-2; SO-; charge. Additionally, it offers customizable wristbands made from [20]
-BL- Apply sustainable materials and integrates with a fitness app that provides
-
-personalized workout plans based on individual goals and progress. List the
-various factors that can be used the product differentiation and examine the
-factors used by SmartFit has used to be a preferred choice over the
-competition.
-
-‘The Body Shop’ is a premium skincare and beauty brand known for its
-organic ingredients, eco-friendly packaging, and cruelty-free practices. The
-brand’s target market consists of health-conscious consumers who are
-
-Q4 looking for skincare products that are both effective and aligned with their
-C0-2: 80+ values. The Body Shop prides itself on being transparent about ingredient [20]
-BL- Apply sourcing and its sustainability efforts. As “The Body Shop’ looks to expand
-its market share, explain the role that the brand should fulfil for its
-customers.
-
-Emma recently visited “Glow Spa,” a new wellness center offering massage
-therapy, facials, and relaxation treatments. Unlike buying a product, Emma
-noticed that the experience varied depending on the therapist she saw and
-
-Qs the environment that day. She couldn’t take the massage home with her, but
-CO-;2 the feeling of relaxation lasted for days. Emma also observed that the staff [20]
-BL-Apply personalized the treatment to her specific needs, and the ambiance played a
-
-big role in how enjoyable the service was. Using the above example; explain
-how the services are different from physical goods with the help of four
-distinct characteristics of services.
-
-Sony is planning to launch a new smartphone aimed at millennials and Gen
-Z, with a focus on high-quality camera features and affordable pricing. The
-marketing team has set an objective to achieve a 10% market share within
-
-Q6 the first year of launch. To meet this objective, they must develop a
-CO- 3; SO-; comprehensive marketing communication plan. They plan to launch an | [20]
-BL- Create aggressive advertising campaign on television. Apart from TV, recommend
-
-the different modes of communication that can be used as a part of the
-marketing communication mix.
-
-Q7 Samsung India Electronics Private Limited, a dominant consumer
-electronics firm, offers a comprehensive range of LED, QLED, and OLED [20]
-
-CO-2; $O-; Smart Televisions. The company utilizes several large multi-brand retail
-
-2
---- page 3 ---
-BL- Apply partners in Mumbai, ‘such as Reliance Digital, Vijay Sales, Kohinoor
-Electronics, eZone, and Fonebook. The company faces a persistent problem
-due to aggressive promotional activities resulting in channel conflict.
-Explain the causes or the source of such conflicts.
---- page 4 ---
-
 ````
 
 ## Year not stated · Exam not stated · paper 7d395c9d5ccf

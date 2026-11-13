@@ -1057,6 +1057,7 @@ Q. 7. Write Short Hotes on any two (06x02)
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/UNIX PROGRAMMING/Unix Programming 2016-17 Final.pdf`
 - Printed on paper: exam date: 17 May 2017
 - Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1145,7 +1146,6 @@ b. Explain the following: :
 i. Canonical mode of Terminal
 ii. Non Canonical Mode of Terminal.
 
-Pree rereCeCTOCLOLOCeteeeet ett “tC Ee Lillie
 
 a
 
@@ -1315,6 +1315,92 @@ d. Write a shell Script to create a simple menu and take action accordingly for 
 menu item. 3
 
 2/2,
+````
+
+## 2014-15 · Final-Exam · Sem 6 · paper caf5837dc494
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/UNIX PROGRAMMING/UNIX PROGRAMMING B TECH (COMP), FINAL EXAM.pdf`
+- Printed on paper: exam date: 14/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+{
+i
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: III Semester: VI
+
+Academic Year: 2014-2015 VA
+Af ea
+
+Subject: Unix Programming Y &;
+Marks: / #60" °STMB
+Date: 14/05/2015 Time: \ 306.06 Art ®¥.
+Duration ‘hrs) Pan
+Final-Examination : <a
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of Answer Book, which is provided for the use.
+
+NB:
+i. Question No. | is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4, All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+a. Write a Shell Script to display the digits which are in odd position in a given 5 digit 3
+
+number.
+b. Write a shell script to generate the following series 1,3,2,4,3,5,4,6,5
+c. Write a shell script to display directories and files of the current working directory. 3
+_d. Write a shell script to accept a number from the user and print the sum of the first ‘n’? 3
+Fibonacci number.
+
+Q2. -
+a. Explain in detail the Unix Architecture with neat diagram. 6
+b. Explain the following General Purpose Utility commands. 6
+i, cal
+il. be
+ili. passwd
+iv. who
+v. date
+Vi. sty
+3.
+a. Explain in detail Canonical mode and Non Canonical Mode of Terminal. 6
+b. What is thread? Explain Creation, Termination and Synchronization of thread. 6
+
+/
+4/2
+--- page 2 ---
+Q7.
+
+a.
+b.
+
+Explain XSI IPC in detail.
+Explain different types of Ownership and Permission possessed by Unix Files.
+
+Explain Daemon Processes characteristics and coding rule.
+Explain process in detail with its attributes. What are Parent and Child Process?
+
+Compare between any two version or flavors of Linux.
+What are the various trends in Operating System Design.
+
+What are the different types of files available in Unix? Explain Unix File System.
+
+Explain the following
+i. Baud rate function
+ii. Line control function
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 406bec213546
@@ -1584,90 +1670,4 @@ Write a shell script to display directories and files of the current working dir
 
 05
 05
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper caf5837dc494
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/UNIX PROGRAMMING/UNIX PROGRAMMING B TECH (COMP), FINAL EXAM.pdf`
-- Printed on paper: exam date: 14/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-{
-i
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: III Semester: VI
-
-Academic Year: 2014-2015 VA
-Af ea
-
-Subject: Unix Programming Y &;
-Marks: / #60" °STMB
-Date: 14/05/2015 Time: \ 306.06 Art ®¥.
-Duration ‘hrs) Pan
-Final-Examination : <a
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of Answer Book, which is provided for the use.
-
-NB:
-i. Question No. | is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4, All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-a. Write a Shell Script to display the digits which are in odd position in a given 5 digit 3
-
-number.
-b. Write a shell script to generate the following series 1,3,2,4,3,5,4,6,5
-c. Write a shell script to display directories and files of the current working directory. 3
-_d. Write a shell script to accept a number from the user and print the sum of the first ‘n’? 3
-Fibonacci number.
-
-Q2. -
-a. Explain in detail the Unix Architecture with neat diagram. 6
-b. Explain the following General Purpose Utility commands. 6
-i, cal
-il. be
-ili. passwd
-iv. who
-v. date
-Vi. sty
-3.
-a. Explain in detail Canonical mode and Non Canonical Mode of Terminal. 6
-b. What is thread? Explain Creation, Termination and Synchronization of thread. 6
-
-/
-4/2
---- page 2 ---
-Q7.
-
-a.
-b.
-
-Explain XSI IPC in detail.
-Explain different types of Ownership and Permission possessed by Unix Files.
-
-Explain Daemon Processes characteristics and coding rule.
-Explain process in detail with its attributes. What are Parent and Child Process?
-
-Compare between any two version or flavors of Linux.
-What are the various trends in Operating System Design.
-
-What are the different types of files available in Unix? Explain Unix File System.
-
-Explain the following
-i. Baud rate function
-ii. Line control function
 ````

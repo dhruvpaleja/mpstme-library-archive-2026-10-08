@@ -14,12 +14,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_Advanced Data Analysis and Programming(703DB0C055)_2025-2026.docx |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_Advanced Data Analysis and Programming(703DB0C055)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | M TECH / ARTIFICIAL INTELLIGENT | Advanced Data Analysis and Programming 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | QP_Advanced Data Analysis and Programming(703DB0C055)_2025-2026.docx |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | QP_Advanced Data Analysis and Programming(703DB0C055)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | QP_Advanced Data Analysis and Programming(703DB0C055)_2025-2026_619eee964a.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_Advanced Data Analysis and Programming(703DB0C055)_2025-2026.docx |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_Advanced Data Analysis and Programming(703DB0C055)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | M TECH / ARTIFICIAL INTELLIGENT | Advanced Data Analysis and Programming Batch 2024-25 Final.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

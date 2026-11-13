@@ -665,6 +665,122 @@ unassignable addresses)
 Page 3 of 3
 ````
 
+## 2016-17 · Final-Exam · Sem 8 · paper 4de8d9844440
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/VIII SEMESTER/ADVANCED COMPUTER NETWORKS/Advanced Computer Networks 2013-14 Final_4de8d98444.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 April 2017
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+—
+
+iGO OF gy
+: om oN ll
+ou “AN
+if o Sth
+eC Hise ARY fo
+SVKM’s NMIMS ome
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) , Year: IV . Semester: VIII -
+
+Academic Year: 2016-17 7
+
+Subject: Advanced Computer Networks -
+
+Marks: 60
+Time: 2.00 pm - 5.00 pm
+
+Date: 13 April 2017. Durations: 3 Hrs
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. :
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1) Solve any three — . 12
+a) What is Classful addressing and subnet mask in it? 4
+b) Explain Flow control mechanism in TCP. 4
+c) Differentiate between Distance Vector and Link State Routing. 4
+d) Explain UDP header format. ; 4
+
+Q.2)
+
+a) An organization is granted a block of addresses with the beginning address 14.24.74.0/24. The 6
+
+organization needs to have 3 subblocks of addresses to use in its three subnets as shown below:
+i) One subblock of 120 addresses.
+
+ii) One subblock of 60 addresses.
+
+iii)One subblock of 10 addresses.
+
+What are the:- .
+
+a) Total number of address in each subnet.
+
+b) First and last address in each subnet.
+
+c) Number of address left for future use.
+
+b) Compare TCP/IP and OSI model. 6
+
+1|Qage
+--- page 2 ---
+Q3)
+a)
+
+b)
+
+Q.4)
+a)
+b)
+
+Q5)
+a)
+b)
+
+Q.6)
+b)
+c)
+
+Q7)
+a)
+b)
+
+Explain in steps the Packet Delivering and Forwarding technique/module with diagram. 6
+Compare RIP and OSPF in detail along with their packet formats. 6
+Draw and explain the ARP and RARP packet format. List four cases of ARP message generation. 6
+What is network address translation? Explain its working with suitable diagrams. 6
+For ICMPy4 analyze the usefulness of all query messages with their packet formats. 6
+Draw and explain the DHCP and its packet format. . 6
+Write short notes on : 12
+Round Robin Scheduling 4
+Leaky Bucket 4
+
+A packet has arrived in which the offset value is 100. Value of Header Length is 5 and the value of 4
+total length field is 100. What is the number of the First byte and the Last byte?
+
+State the applications of Peer to Peer Networks and Explain Overlay Networks in detail. 6
+Compare live audio visual streaming and stored audio visual streaming. 6
+
+— 2|Rage
+````
+
 ## 2015-16 · Final-Exam · Sem 6 · paper 35e2261caeab
 
 - Departments: Information Technology
@@ -800,6 +916,153 @@ b. Write a short note on traffic engineering,
 
 {6]
 
+[6]
+````
+
+## 2015-16 · Re-Exam · Sem 6 · paper 615f85250327
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/ADVANCED COMPUTER NETWORKS/ADVANCED COMPUTER NETWORKS B TECH (IT), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
+- Text: ocr (2 pages), mean OCR confidence 93.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (IT) Year: III Semester: VI
+Academic Year: 2015-16
+
+Batch:2014-15
+
+Subject: Advanced Computer Networks Marks: 60
+Time: 2.00 pm - 5.
+Date: 10/05/2016 Durations: 3 hrs.
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. _Q1__ is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) in all_5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.1. Answer in 1-3 lines each — all questions carry equal marks [12]
+
+a. Classless addressing reduces the address space wastage as compared
+to classfull addressing. Why?
+b. What is the purpose of time to live field in IPv4?
+
+c. What is the purpose of source quench message in ICMP?
+d. What is the purpose of retransmission time out in TCP?
+e. When is a proxy required in ARP?
+
+f. What is the purpose of default entry in a routing table?
+
+g. What is a virtual link in OSPF?
+
+h. What is the purpose of RSVP?
+
+i. Virtual private network is secure. Explain how.
+
+j. UDP uses IP pseudoheader in its checksum to check for errors in the
+IP header. Explain.
+
+k. What is the purpose of SIP?
+
+1. What is the purpose of extension headers in IPv6?
+
+Yo
+--- page 2 ---
+Q.3.
+
+Q.4.
+
+Q5.
+
+Q.6.
+
+Q.7.
+
+%,
+*
+
+&
+
+a
+
+An Organization is granted the block 17.16.130.128/25. The Administrator wants
+to create 8 subnets. Show your computation for each of the answers below:
+
+a. Find the subnet mask in dotted decimal and the prefix.
+b. Find the number of addresses in each subnet.
+c. Find the first and the last address in the first subnet
+
+d. Find the first and the last address in the last subnet(subnet 8).
+
+a. Host specific packet forwarding has specific entries for hosts in the
+routing table: Network specific packet forwarding has entries for
+network addresses in the routing table. Discuss in brief with
+examples for each. Explain which is method is better with
+justification. ©
+
+b. Compare OSPF and RIP in brief with respect to packet types;
+algorithm used, timers, division into areas, limitations, etc.
+
+a. Compare TCP and UDP in brief.
+
+b. What is the purpose of Dynamic Host Configuration Protocol?
+Explain the sequence of message exchanges between client and
+server(s).
+
+Describe on any two of the following multimedia protocols RTP,
+RTCP, SIP, H.323
+
+a. What are the key parameters which characterize the QoS for a flow
+of data? Discuss in brief what the parameters are and why they are
+important.
+
+b. Describe any one mechanism from within scheduling or traffic
+shaping to improve QoS for a flow of data‘
+
+a. Describe MPLS operation and packet format
+
+b. Describe VPN operation in brief using a diagram.
+
+2/2.
+
+3]
+3]
+[3]
+[3]
+
+[6]
+
+[6]
+
+[6]
+
+[6]
+
+[12]
+
+[6]
+
+[6]
+
+[6]
 [6]
 ````
 
@@ -1004,153 +1267,6 @@ n TCP. Explain sliding window protocol with [6]
 B. Discuss how flow control takes place i
 
 suitable diagrams.
-````
-
-## 2014-15 · Re-Exam · Sem 6 · paper 615f85250327
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/ADVANCED COMPUTER NETWORKS/ADVANCED COMPUTER NETWORKS B TECH (IT), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (IT) Year: III Semester: VI
-Academic Year: 2015-16
-
-Batch:2014-15
-
-Subject: Advanced Computer Networks Marks: 60
-Time: 2.00 pm - 5.
-Date: 10/05/2016 Durations: 3 hrs.
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. _Q1__ is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) in all_5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.1. Answer in 1-3 lines each — all questions carry equal marks [12]
-
-a. Classless addressing reduces the address space wastage as compared
-to classfull addressing. Why?
-b. What is the purpose of time to live field in IPv4?
-
-c. What is the purpose of source quench message in ICMP?
-d. What is the purpose of retransmission time out in TCP?
-e. When is a proxy required in ARP?
-
-f. What is the purpose of default entry in a routing table?
-
-g. What is a virtual link in OSPF?
-
-h. What is the purpose of RSVP?
-
-i. Virtual private network is secure. Explain how.
-
-j. UDP uses IP pseudoheader in its checksum to check for errors in the
-IP header. Explain.
-
-k. What is the purpose of SIP?
-
-1. What is the purpose of extension headers in IPv6?
-
-Yo
---- page 2 ---
-Q.3.
-
-Q.4.
-
-Q5.
-
-Q.6.
-
-Q.7.
-
-%,
-*
-
-&
-
-a
-
-An Organization is granted the block 17.16.130.128/25. The Administrator wants
-to create 8 subnets. Show your computation for each of the answers below:
-
-a. Find the subnet mask in dotted decimal and the prefix.
-b. Find the number of addresses in each subnet.
-c. Find the first and the last address in the first subnet
-
-d. Find the first and the last address in the last subnet(subnet 8).
-
-a. Host specific packet forwarding has specific entries for hosts in the
-routing table: Network specific packet forwarding has entries for
-network addresses in the routing table. Discuss in brief with
-examples for each. Explain which is method is better with
-justification. ©
-
-b. Compare OSPF and RIP in brief with respect to packet types;
-algorithm used, timers, division into areas, limitations, etc.
-
-a. Compare TCP and UDP in brief.
-
-b. What is the purpose of Dynamic Host Configuration Protocol?
-Explain the sequence of message exchanges between client and
-server(s).
-
-Describe on any two of the following multimedia protocols RTP,
-RTCP, SIP, H.323
-
-a. What are the key parameters which characterize the QoS for a flow
-of data? Discuss in brief what the parameters are and why they are
-important.
-
-b. Describe any one mechanism from within scheduling or traffic
-shaping to improve QoS for a flow of data‘
-
-a. Describe MPLS operation and packet format
-
-b. Describe VPN operation in brief using a diagram.
-
-2/2.
-
-3]
-3]
-[3]
-[3]
-
-[6]
-
-[6]
-
-[6]
-
-[6]
-
-[12]
-
-[6]
-
-[6]
-
-[6]
-[6]
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper 2ec846801d88
@@ -1580,122 +1696,6 @@ D. Intra and Inter-domain routing
 E. Describe MPLS and its operation
 
 Page 2 of 2
-````
-
-## 2013-14 · Final-Exam · Sem 8 · paper 4de8d9844440
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/VIII SEMESTER/ADVANCED COMPUTER NETWORKS/Advanced Computer Networks 2013-14 Final_4de8d98444.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 April 2017
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-—
-
-iGO OF gy
-: om oN ll
-ou “AN
-if o Sth
-eC Hise ARY fo
-SVKM’s NMIMS ome
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (IT) , Year: IV . Semester: VIII -
-
-Academic Year: 2016-17 7
-
-Subject: Advanced Computer Networks -
-
-Marks: 60
-Time: 2.00 pm - 5.00 pm
-
-Date: 13 April 2017. Durations: 3 Hrs
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted. :
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1) Solve any three — . 12
-a) What is Classful addressing and subnet mask in it? 4
-b) Explain Flow control mechanism in TCP. 4
-c) Differentiate between Distance Vector and Link State Routing. 4
-d) Explain UDP header format. ; 4
-
-Q.2)
-
-a) An organization is granted a block of addresses with the beginning address 14.24.74.0/24. The 6
-
-organization needs to have 3 subblocks of addresses to use in its three subnets as shown below:
-i) One subblock of 120 addresses.
-
-ii) One subblock of 60 addresses.
-
-iii)One subblock of 10 addresses.
-
-What are the:- .
-
-a) Total number of address in each subnet.
-
-b) First and last address in each subnet.
-
-c) Number of address left for future use.
-
-b) Compare TCP/IP and OSI model. 6
-
-1|Qage
---- page 2 ---
-Q3)
-a)
-
-b)
-
-Q.4)
-a)
-b)
-
-Q5)
-a)
-b)
-
-Q.6)
-b)
-c)
-
-Q7)
-a)
-b)
-
-Explain in steps the Packet Delivering and Forwarding technique/module with diagram. 6
-Compare RIP and OSPF in detail along with their packet formats. 6
-Draw and explain the ARP and RARP packet format. List four cases of ARP message generation. 6
-What is network address translation? Explain its working with suitable diagrams. 6
-For ICMPy4 analyze the usefulness of all query messages with their packet formats. 6
-Draw and explain the DHCP and its packet format. . 6
-Write short notes on : 12
-Round Robin Scheduling 4
-Leaky Bucket 4
-
-A packet has arrived in which the offset value is 100. Value of Header Length is 5 and the value of 4
-total length field is 100. What is the number of the First byte and the Last byte?
-
-State the applications of Peer to Peer Networks and Explain Overlay Networks in detail. 6
-Compare live audio visual streaming and stored audio visual streaming. 6
-
-— 2|Rage
 ````
 
 ## 2013-14 · Final-Exam · Sem 8 · paper c006de657a42

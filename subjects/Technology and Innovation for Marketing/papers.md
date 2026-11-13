@@ -558,6 +558,7 @@ Success
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/TECHNOLOGY & INNOVATION FOR MARKETING/Technology and Innovation for Marketing, Sem-VI, Final Exam 2024-25.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -623,7 +624,6 @@ SO-1; mobile handset company of your choice.
 BL-5
 Qs You are in the Project team of BYD and have developed a 5 minute, fast
 charging solution for EV’s. Assess the options available to you to protect
-C02: g P you to p po -
 SO-1; your Intellectual Property in this context along with details of the ;
 (eho | protection, Requirements and Length of each option.
 Q6 Epson is relooking its Channel Structure to sell its range of Printers. List j
@@ -835,6 +835,77 @@ CO-2and Illustrate and describe what is a technology map? How is it beneficial t
 BL-6
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 91051586bdd6
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/TECHNOLOGY & INNOVATION FOR MARKETING/Technology and Innovation for Marketing.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2022-2023 i
+Program/s: BTech / MBA Tech Year: III Semester: VI
+
+Stream/s ; All Streams
+
+Subject: Technology and Innovation for Marketing Time: 3 hrs (2 pm to 5 pm)
+Date:_05 / 05 / 2023 No. of Pages: 2
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+~~. 2) Out of remaining questions, attempt any __4 _ questions.
+3) Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1
+Q Answer briefly: [20]
+CO-1;BL-2 | 2 core competencies (5)
+CO-1; BL-2 | b. culture of innovativeness (5)
+CO-1 ; BL-2 Cc. The Innovator’s Dilemma (5)
+CO-1 ; BL-2 d. Expeditionary Marketing (5)
+a. What are skunk works? What are the arguments in favor of and against
+Q2 their role in innovation? (10) 120]
+> | CO-2; BL-3 b. What is a learning orientation and what are its benefits? (10)
+- a. What is the relationship between risk tolerance and a company’s culture
+ala of innovativeness? (10) [20]
+CO-; 2 BL- ee 5 oc Py Data: 5
+b. What are core rigidities? How do they inhibit innovativeness? (10)
+a. Provide an overview of company that you studied for the case study and
+Q4 assess how innovation has lead to higher performance and growth. (10)
+CO-2; BL-3 b. Provide an overview of the strategic marketing planning process in high- [20]
+tech firms with the help of a figure /diagram. (10)
+a. What are the Types of Protection for Intellectual Property . (10)
+Qs b. What is expeditionary marketing and what are its advantages? How
+CO-2; BL-4 does expeditionary marketing differ from a more traditional approach of | [20]
+
+bringing new products to market successfully? (10)
+--- page 2 ---
+a. Why are resources and competencies especially important for high-tech
+companies? (10)
+
+Q6
+CO-;3 BL-4 b. What is a dominant design? Why is it so important in high-tech markets? (20)
+(10)
+a. What are the tests/requirements for competitive advantage? (10)
+Q7
+[20]
+CO-3; BL-4 b. What are the key questions that a company’s strategy should answer?
+
+What is the strategy sweet spot? (10)
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 0938ff0b7d3e
 
 - Departments: Common (all branches)
@@ -938,75 +1009,4 @@ advantage for the company . (10)
 x
 
 Pr
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 91051586bdd6
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/TECHNOLOGY & INNOVATION FOR MARKETING/Technology and Innovation for Marketing.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-Academic Year: 2022-2023 i
-Program/s: BTech / MBA Tech Year: III Semester: VI
-
-Stream/s ; All Streams
-
-Subject: Technology and Innovation for Marketing Time: 3 hrs (2 pm to 5 pm)
-Date:_05 / 05 / 2023 No. of Pages: 2
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-~~. 2) Out of remaining questions, attempt any __4 _ questions.
-3) Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1
-Q Answer briefly: [20]
-CO-1;BL-2 | 2 core competencies (5)
-CO-1; BL-2 | b. culture of innovativeness (5)
-CO-1 ; BL-2 Cc. The Innovator’s Dilemma (5)
-CO-1 ; BL-2 d. Expeditionary Marketing (5)
-a. What are skunk works? What are the arguments in favor of and against
-Q2 their role in innovation? (10) 120]
-> | CO-2; BL-3 b. What is a learning orientation and what are its benefits? (10)
-- a. What is the relationship between risk tolerance and a company’s culture
-ala of innovativeness? (10) [20]
-CO-; 2 BL- ee 5 oc Py Data: 5
-b. What are core rigidities? How do they inhibit innovativeness? (10)
-a. Provide an overview of company that you studied for the case study and
-Q4 assess how innovation has lead to higher performance and growth. (10)
-CO-2; BL-3 b. Provide an overview of the strategic marketing planning process in high- [20]
-tech firms with the help of a figure /diagram. (10)
-a. What are the Types of Protection for Intellectual Property . (10)
-Qs b. What is expeditionary marketing and what are its advantages? How
-CO-2; BL-4 does expeditionary marketing differ from a more traditional approach of | [20]
-
-bringing new products to market successfully? (10)
---- page 2 ---
-a. Why are resources and competencies especially important for high-tech
-companies? (10)
-
-Q6
-CO-;3 BL-4 b. What is a dominant design? Why is it so important in high-tech markets? (20)
-(10)
-a. What are the tests/requirements for competitive advantage? (10)
-Q7
-[20]
-CO-3; BL-4 b. What are the key questions that a company’s strategy should answer?
-
-What is the strategy sweet spot? (10)
 ````

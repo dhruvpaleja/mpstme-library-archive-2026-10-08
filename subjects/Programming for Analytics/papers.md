@@ -1,6 +1,6 @@
 # Programming for Analytics: question papers in full
 
-10 unique papers · 2022-23 to 2025-26 · Data Science, Information Technology
+10 unique papers · 2023-24 to 2025-26 · Data Science, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -470,6 +470,7 @@ dataset.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PROGRAMMING FOR ANALYTICS/Programming for Analytics, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 80.4
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -661,14 +662,11 @@ variables used for creating new columns StormDetails1,
 StormDetails2, StormDetails3 and use appropriate functions to create
 these new columns.
 Qs Storm Description
-CO-4; a. Obs — StormDetails1 StormDetails2 StormDetails2 [15]
 SO-1; 10 FRANCES 2017indian FRANCES-2017indian FRANCES-2017-Indian
-BL-3 11 GREG 201Tindian GREG-2017indian GREG-2017-indian
 
 12. DONNA 2017Pacific DONNA-2017Pacific DONNA-2017-Pacific
 13 ELLA2017Pacific ELLA-2017Pacific ELLA-2017-Pacific
 14 ADRIAN 2017Pacific ADRIAN-2017 Pacific ADRIAN-2017-Pacific
-16 MORA 2017iIndian MORA-2017indian MORA-2017-Indian
 
 end of report
 
@@ -929,13 +927,14 @@ Data:
 @
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 834498090df5
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 834498090df5
 
 - Departments: Information Technology
 - Programmes: B TECH / I T, MBA TECH / I T
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PROGRAMMING FOR ANALYTICS/Programming for Analytics, Final & Re Exam 2022-23.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 77.2
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / a
@@ -1090,13 +1089,8 @@ Remember, [Oe [ Employes 10 | Name
 Apply, i 120116 | Ratston, Austen t Hunua Road Papakura, 12,Syoney, | Service Assistant i |
 Analyze, iz "120117 [ Mecteary. Bit | Palmiston Cresent, ne. [Cepinet Maker tt 50 |
 Create Mt] HEHE Hettnon. wah | Ware See Syoneat06AU | Cnt ear 40439 |
-120119 | Eveman, Lal - | Haupape Streat,1021,Sydney.1210.AU | Electrician uv | $1.51275 i Ss
 120120 Peins, Krishna | George Street-40,Syoney.20120U i Electrician i (9138228 i
-: 120121 | Enish. Irenie | Mundi Piace.2.Sydney,1232,AU - { Sales Rep. $1,330.00 | $27.030.0
 120122 | Ngan, Chale i Prospect Hal Road, 1. Meisourne,3001,AU | Sales Rep. ti | $1,373.75 | $28,548. ie |
-2B __.120128 | Hestone. Karte Overanas Srms4.Syeney2008 AU | Sate Rep. $0880 | SerA00
-2 120124 | Daymond. Lucian | Jalus Avenue 1.Sycney.22 AU | SalesRep.t E ; |
-25 420125 | Hotnaistar, Fong | Druitt Street.17.Sycney.2122,AU | Sales Rep. ve _ { $22,040.00 jsnnoz.00 i a _833.642.00 i
 Q5 a | Write a code to create a data set work.customer_details using cust_1 and
 CO-1, CO-2, cust_2. [20]
 SO-1, SO-6;
@@ -1108,7 +1102,6 @@ BL-
 Remember, FirstName | LastName | Birthdate =
 Apply, Ata: Gibbs 19FEB1063 |
 Analyze, ||
-Create anes ews _2aserr026 | |
 Hooks | O1AUG1968 |
 Celi | 14SEP1048
 Collier (| O7JUL1092
@@ -1145,7 +1138,6 @@ Total_Retail_ Prick | OrderTotal |
 
 "| Kids Sweat Round Neck.Large Logo $80.40"
 
-Fleece Cuff Pant KigS $1430
 
 Children's Mitten
 
@@ -1159,7 +1151,7 @@ Osprey Girl's Tights
 | Logo Coord.Children's Sweatshirt
 ````
 
-## 2022-23 · Re-Exam · Sem 4 · paper e3969c87bf6d
+## 2023-24 · Re-Exam · Sem 4 · paper e3969c87bf6d
 
 - Departments: Information Technology
 - Programmes: B TECH / I T, MBA TECH / I T

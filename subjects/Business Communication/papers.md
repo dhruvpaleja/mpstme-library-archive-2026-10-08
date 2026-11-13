@@ -1,6 +1,6 @@
 # Business Communication: question papers in full
 
-34 unique papers · 2007-08 to 2018-19 · Information Technology, Chemical, Common (all branches), Civil, Manufacturing, Mechanical, Computer Engineering, Electronics and Telecommunication
+32 unique papers · 2007-08 to 2018-19 · Information Technology, Chemical, Common (all branches), Civil, Manufacturing, Mechanical, Computer Engineering, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -171,106 +171,6 @@ Q.6 (a) What are the several stages involved in creating the outline of a presen
 Q.7 (a) What are the seven pre -employment testing and background checks? (7)
 
 (b) Discuss 7 questions that you would prepare before any interview? (7)
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 8e85302234c4
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/BUSINESS COMMUNICATION/Business_Economics_2017-18 Re-exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 07 July 2018
-- Text: ocr (2 pages), mean OCR confidence 85.2
-
-````text
-MPSTME
-
-LIBRARY
-
-M SVKM’s NMIMS
-UKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: II Semester: IV
-
-Batch: 2017-18
-“ Academic Year: 2017-2018
-
-Subject: Business Economics
-
-Marks: 70
-Time: 2.00 pm to 4.00 pm.
-Durations: 2 (hrs) -
-
-No. of Pages: _ 27
-
-Date: 07 July 2018 —°
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1) Explain any 7 of the following concepts: (2x7=14)
-
-a) Production Possibility Curve.
-
-b) Oligopoly Market
-
-c) Cross Elasticity of Demand
-
-d) Marginal Productivity of Labour
-e) Fixed Cost
-
-f) GDP
-
-g) Bank Rate
-
-h) Fiscal Deficit
-
-i) Depreciation of a currency
-
-j) Demand Curve
-
-Q2) Define a perfectly competitive market. Explain its features in detail. (14)
-
-Q3) Explain the following statements using demand and supply diagrams.
-
-Yo
---- page 2 ---
-(7x2=14)
-
-a) “When a cold wave hits Florida, the price of orange juice rises in supermarkets
-throughout the USA.”
-
-b) “When the weather turns warm in Shimla, during summers, the price of hotel rooms
-in Nainital falls.”
-
-Q4) What is Price elasticity of demand? Explain the five degrees of Price elasticity of
-demand in detail. (14)
-
-Q5) Explain in detail, the flexible and fixed exchange rate system. ~ (14)
-
-Q6) With the help of a suitable diagram, explain cost — push inflation. What are the factors
-that can cause cost push inflation in an economy? (14)
-
-Q7) With the help of a suitable diagram, explain the circular flow of income in an open
-economy. What are the leakages and injections in this model? (14)
-
-fe 2K 2K 2K 2K 3K a 2 Kk 9K R28 228 2A 2A 2A 2g oe Sg ee ek ek ee off oe 2 2 Re ee fe ke oe oko 2h 2h 2h 2 fe 3 2 2 2 2 2 2 2 2s 2 2 2
-
-ay
 ````
 
 ## 2016-17 · Final-Exam · Sem 3 · paper b0ec6b99c83b
@@ -688,6 +588,239 @@ D) Critical listening
 ot)
 ````
 
+## 2014-15 · Re-Exam · Sem 3 · paper 9295eb5e08bd
+
+- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/BUSINESS COMMUNICATION/BUSINESS COMMUNICATION BATCH 2013-14 RE EXAM_9295eb5e08.pdf` (+4 identical copies)
+- Printed on paper: max marks: 50; exam date: 06/12/2014
+- Text: ocr (2 pages), mean OCR confidence 92.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) - Year: Il Semester: III
+
+/ Academic Year: 2014-15 Batch :2013-14
+
+7. gX@ANtE OF By,
+
+j i icati {/
+Subject : Business Communication ~
+— Marks: 50 f ~
+Date : 06/12/2014 Time : 2.00
+Durations
+
+Re - Examination
+
+Instructions to Candidates:
+
+Candidates should read carefully the instructions printed on the Question paper and on the cover of
+the Answer Book, which is provided for their use. (Use only if applicable as the case may be)
+
+1. Answers to all Questions are compulsory.
+
+2. All questions carry equal marks.
+
+3. Answer to each new question to be started on a fresh answer page.
+
+4. Figures in brackets on the right hand side of the questions indicate full marks.
+5. Write legibly, coherently in full sentences.
+
+1) Read the caselet and write the reasons for the communication breakdown and
+define the identified barriers (10)
+Sarah Magmeth is one of 15 workers in the HR Department. She has strong leadership
+qualities, and all her co-workers look up to her. She dominates conversations with them
+and expresses strong viewpoints on most matters. Although she is a good worker, but
+she has a dominating personality. You have directed your subordinates to change a
+certain work procedure. The change is one that has proven superior wherever it has
+been tried. Soon after giving the directive, you noticed the workers talking in a group with
+Miss Magmeth the obvious leader. In a few minutes she appeared in your office. “We
+have thought it over,” she said. “Your production change won’t work.
+
+2) Read the paragraph and then answer the questions:- (10=4+2+2+2)
+
+The building, completed in 1885, was erected by the enigmatic Frederick Hervey, Earl of
+the folly, which became known as the Mussenden Temple, as a library. Standing
+dangerously on the edge of a sheer drop into the North Sea, the temple dominates the
+
+— coastline to the West. The structure’s classic simplicity with its dome and Corinthian
+columns, is in stark contrast to the haunting Celtic landscape
+
+a) There are four sentences in the text. Which of the sentences above provide
+which information enlisted below?
+I. | The function of the building
+
+1/2
+
+|
+--- page 2 ---
+UI.
+Wl.
+\V.
+
+UL.
+il.
+VV.
+
+I.
+Il.
+IV.
+
+3)
+
+4)
+
+5)
+
+The physical structure of the library
+The location of the building
+The history of the building
+
+b) Complete the sentence.
+The author wrote the paragraph... .
+To describe the Mussenden Temple
+To describe the Celtic landscape
+To express his opinion of the madness of Fredrick Hervey
+To describe the function of the library
+
+c) Which is the most appropriate title for the paragraph?
+The enigmatic Frederick Harvey.
+The mystery of the Celtic landscape
+The Mussenden Temple
+The classicism of Frederick Harvey’s folly
+
+d) There is a division in the text. At the end of which sentence you find the shift in
+the tone of the text?
+
+In the context of cross cultural barriers elaborate on any two following? (5X2=10)
+1. National character/ basic personality
+2. Values and norms of behavior
+3. Social relationships
+
+Write notes on the following: (5x2=10)
+1. Upward communication
+_2. Downward communication
+
+Are these statements true or false:- (5x2=10)
+1. Silence is always embarrassing in a communication situation
+
+2. Body language is usually unconscious and involuntary
+
+3. Careful cultivation of one body language can enhance once oral communications
+4. Itis not possible to control non verbal communications
+
+5. Non verbal communication can be partly controlled
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 72025c708306
+
+- Departments: Chemical, Civil, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/BUSINESS COMMUNICATION/BUSINESS COMMUNICATION BATCH 2013-2014 RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: exam date: 15/06/2015
+- Text: ocr (2 pages), mean OCR confidence 93.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme MEA Tech (ALL STREAMS) Year:II Semester:III
+Academic Year: 2014-15
+
+Batch: 2013-14
+
+Subject : Business Communication
+
+Date : 15/06/2015
+Re-Examination
+
+Instructions to Candidates:
+
+Candidates should read carefully the instructions printed on the Question paper and on the cover of the Answer
+Book, which is provided for their use. (Use only if applicable as the case may be)
+
+4, Answer any five questions.
+
+2: All questions carry equal marks.
+
+3. Answer to each new question to be started on a fresh answer page.
+
+4. Figures in brackets on the right hand side of the questions indicate full marks.
+5: Write legibly, coherently in full sentences.
+
+1) Read the caselet and write the reasons for the communication breakdown and define the identified barriers.
+
+(10 marks)
+Sarah Magmeth is one of 15 workers in the HR Department. She has strong leadership qualities, and all her
+co-workers look up to her. She dominates conversations with them and expresses strong viewpoints on
+most matters. Although she is a good worker, she has a dominating personality. You have directed your
+subordinates to change a certain work procedure. The change is one that has proven superior wherever it
+has been tried. Soon after giving the directive, you noticed the workers talking in a group with Miss Magmeth
+the obvious leader. In a few minutes she appeared in your office. “We have thought it over,” she said. “Your
+production change won't work.
+
+2) Read the paragraph and then answer the questions:- (10=4+2+2+2)
+
+The building, completed in 1885, was erected by the enigmatic Frederick Hervey, Earl of Bristol of Derry, in
+honour of Mrs Mussenden, the Earl’s cousin. The Earl Bishop used the folly, which became known as the
+Mussenden Temple, as a library. Standing dangerously on the edge of a sheer drop into the North Sea, the
+temple dominates the coastline to the West. The structure’s classic simplicity with its dome and Corinthian
+columns, is in stark contrast to the haunting Celtic landscape.
+
+a) There are four sentences in the text. Which of the sentences above provide which information
+enlisted below?
+I. The function of the building
+I. The physical structure of the library
+lil. The location of the building
+IV. The history of the building
+
+b) Complete the sentence.
+The author wrote the paragraph...
+I. To describe the Mussenden Temple
+Il. To describe the Celtic landscape
+Ml. To express his opinion of the madness of Fredrick Hervey
+
+A
+--- page 2 ---
+IV. To describe the function of the library
+
+c) Which is the most appropriate title for the paragraph?
+I. The enigmatic Frederick Harvey.
+I. The mystery of the Celtic landscape
+I. The Mussenden Temple
+IV. The classicism of Frederick Harvey's folly
+
+d) There is a division in the text. At the end of which sentence you find the shift in the tone of the text?
+
+3) What do you understand by cultural diversity? What are the steps you can adopt to improve communication in a
+culturally diversified environment? (10)
+
+4) Write notes on the following:- (5x2=10)
+1. Upward communication
+2. Downward communication
+5) Are these statements true or false:- (5x2=10)
+1. Silence is always embarrassing in a communication situation
+2. Body language is usually unconscious and involuntary
+3. Careful cultivation of one body language can enhance once oral communications
+
+4. It is not possible to control non verbal communications
+5. Non verbal communication can be partly controlled
+
+6) What do you understand by the following terms? Attempt any two. (5x2=10)
+1. Appreciative Listening
+2. Empathetic listening
+3. Comprehensive listening
+4. Critical listening
+
+7. What should you keep in mind while preparing for a presentation? (10 marks)
+
+———
+x<
+````
+
 ## 2013-14 · Final-Exam · Sem 3 · paper a6f468f317f9
 
 - Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
@@ -874,237 +1007,127 @@ e) How does WalMart help the community?
 22
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 9295eb5e08bd
+## 2012-13 · Exam not stated · Trim 4 · paper 0249c44ed0b7
 
-- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/BUSINESS COMMUNICATION/BUSINESS COMMUNICATION BATCH 2013-14 RE EXAM_9295eb5e08.pdf` (+4 identical copies)
-- Printed on paper: max marks: 50; exam date: 06/12/2014
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-SVKM’s NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) - Year: Il Semester: III
-
-/ Academic Year: 2014-15 Batch :2013-14
-
-7. gX@ANtE OF By,
-
-j i icati {/
-Subject : Business Communication ~
-— Marks: 50 f ~
-Date : 06/12/2014 Time : 2.00
-Durations
-
-Re - Examination
-
-Instructions to Candidates:
-
-Candidates should read carefully the instructions printed on the Question paper and on the cover of
-the Answer Book, which is provided for their use. (Use only if applicable as the case may be)
-
-1. Answers to all Questions are compulsory.
-
-2. All questions carry equal marks.
-
-3. Answer to each new question to be started on a fresh answer page.
-
-4. Figures in brackets on the right hand side of the questions indicate full marks.
-5. Write legibly, coherently in full sentences.
-
-1) Read the caselet and write the reasons for the communication breakdown and
-define the identified barriers (10)
-Sarah Magmeth is one of 15 workers in the HR Department. She has strong leadership
-qualities, and all her co-workers look up to her. She dominates conversations with them
-and expresses strong viewpoints on most matters. Although she is a good worker, but
-she has a dominating personality. You have directed your subordinates to change a
-certain work procedure. The change is one that has proven superior wherever it has
-been tried. Soon after giving the directive, you noticed the workers talking in a group with
-Miss Magmeth the obvious leader. In a few minutes she appeared in your office. “We
-have thought it over,” she said. “Your production change won’t work.
-
-2) Read the paragraph and then answer the questions:- (10=4+2+2+2)
-
-The building, completed in 1885, was erected by the enigmatic Frederick Hervey, Earl of
-Bristol of Derry, in honour of Mrs Mussenden, the Earl’s cousin. The Earl Bishop used
-the folly, which became known as the Mussenden Temple, as a library. Standing
-dangerously on the edge of a sheer drop into the North Sea, the temple dominates the
-
-— coastline to the West. The structure’s classic simplicity with its dome and Corinthian
-columns, is in stark contrast to the haunting Celtic landscape
-
-a) There are four sentences in the text. Which of the sentences above provide
-which information enlisted below?
-I. | The function of the building
-
-1/2
-
-|
---- page 2 ---
-UI.
-Wl.
-\V.
-
-UL.
-il.
-VV.
-
-I.
-Il.
-IV.
-
-3)
-
-4)
-
-5)
-
-The physical structure of the library
-The location of the building
-The history of the building
-
-b) Complete the sentence.
-The author wrote the paragraph... .
-To describe the Mussenden Temple
-To describe the Celtic landscape
-To express his opinion of the madness of Fredrick Hervey
-To describe the function of the library
-
-c) Which is the most appropriate title for the paragraph?
-The enigmatic Frederick Harvey.
-The mystery of the Celtic landscape
-The Mussenden Temple
-The classicism of Frederick Harvey’s folly
-
-d) There is a division in the text. At the end of which sentence you find the shift in
-the tone of the text?
-
-In the context of cross cultural barriers elaborate on any two following? (5X2=10)
-1. National character/ basic personality
-2. Values and norms of behavior
-3. Social relationships
-
-Write notes on the following: (5x2=10)
-1. Upward communication
-_2. Downward communication
-
-Are these statements true or false:- (5x2=10)
-1. Silence is always embarrassing in a communication situation
-
-2. Body language is usually unconscious and involuntary
-
-3. Careful cultivation of one body language can enhance once oral communications
-4. Itis not possible to control non verbal communications
-
-5. Non verbal communication can be partly controlled
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 72025c708306
-
-- Departments: Chemical, Civil, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/BUSINESS COMMUNICATION/BUSINESS COMMUNICATION BATCH 2013-2014 RE EXAM.pdf` (+2 identical copies)
-- Printed on paper: exam date: 15/06/2015
-- Text: ocr (2 pages), mean OCR confidence 93.6
+- Departments: Chemical, Civil, Computer Engineering, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/BUSINESS COMMUNICATION/scan0007(10).pdf` (+4 identical copies)
+- Printed on paper: max marks: 50; exam date: 31/10/2012
+- Text: ocr (2 pages), mean OCR confidence 93.5
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme MEA Tech (ALL STREAMS) Year:II Semester:III
-Academic Year: 2014-15
+Mukesh Patel School Of Technology Management & Engineeri
 
-Batch: 2013-14
+Programme: MBA(Tech)-All Streams Year: II Trimester: IV
+Academic Year : 2012-2013
 
-Subject : Business Communication
+fee wil
+Subject: BUSINESS COMMNICATION-I Marks: 50 ie /
+Time: 2.00pm $cc
+Date: 31/10/2012 Duration: 2 ne: .
+Final - Examination , hag A
+>=
 
-Date : 15/06/2015
-Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use. (Use only if applicable as the case may be)
 
-Instructions to Candidates:
+NB:
 
-Candidates should read carefully the instructions printed on the Question paper and on the cover of the Answer
-Book, which is provided for their use. (Use only if applicable as the case may be)
+1. Question No. 4 is compulsory.
 
-4, Answer any five questions.
+2. Out of remaining questions, attempt any 8 questions.
 
-2: All questions carry equal marks.
+3. Inall 9 questions to be attempted.
 
-3. Answer to each new question to be started on a fresh answer page.
+4. All questions carry equal marks. Only question No 4 carries 10 marks.
+5. Answer to each new question to be started on a fresh page.
 
-4. Figures in brackets on the right hand side of the questions indicate full marks.
-5: Write legibly, coherently in full sentences.
+6. Figures in brackets on the right hand side indicate full marks.
 
-1) Read the caselet and write the reasons for the communication breakdown and define the identified barriers.
+QI. Read the following paragraph and answer the given questions.
+ORACLE OCTOPUS PAUL NO MORE (5 marks)
 
-(10 marks)
-Sarah Magmeth is one of 15 workers in the HR Department. She has strong leadership qualities, and all her
-co-workers look up to her. She dominates conversations with them and expresses strong viewpoints on
-most matters. Although she is a good worker, she has a dominating personality. You have directed your
-subordinates to change a certain work procedure. The change is one that has proven superior wherever it
-has been tried. Soon after giving the directive, you noticed the workers talking in a group with Miss Magmeth
-the obvious leader. In a few minutes she appeared in your office. “We have thought it over,” she said. “Your
-production change won't work.
+Berlin Oct, 26:
 
-2) Read the paragraph and then answer the questions:- (10=4+2+2+2)
+“Paul the octopus, who shot to fame during this year's football World Cup in South Africa for his
+— record in predicting game outcomes, has died,” his aquarium in Germany, said on
 
-The building, completed in 1885, was erected by the enigmatic Frederick Hervey, Earl of Bristol of Derry, in
-honour of Mrs Mussenden, the Earl’s cousin. The Earl Bishop used the folly, which became known as the
-Mussenden Temple, as a library. Standing dangerously on the edge of a sheer drop into the North Sea, the
-temple dominates the coastline to the West. The structure’s classic simplicity with its dome and Corinthian
-columns, is in stark contrast to the haunting Celtic landscape.
+Tuesday, “Management and staff at the Oberhausen Sea Life Center were devastated to discover
+that Octopus Paul who achieved global renown during the recent World Cup, had passed away
+overnight,” said in a somber statement.
 
-a) There are four sentences in the text. Which of the sentences above provide which information
-enlisted below?
-I. The function of the building
-I. The physical structure of the library
-lil. The location of the building
-IV. The history of the building
+“Paul amazed the world by correctly predicting the winners of all Germany's World Cup clashes
+,and then of the final”, said Sea Life manager Stefan Porwoll. His success made him almost a
+bigger story than the World Cup itself... We had all naturally grown very fond of him and he will be
+sorely missed”, said Porwoll. Paul's body is now in cold storage while the aquarium decides “how
+best to mark his passing.”
 
-b) Complete the sentence.
-The author wrote the paragraph...
-I. To describe the Mussenden Temple
-Il. To describe the Celtic landscape
-Ml. To express his opinion of the madness of Fredrick Hervey
+However, /Paul's fans need not despair. The aquarium has already been grooming a successor,
 
-A
+to be naméd Paul like his mentor. “ We may decide to give Paul his own small burial plot within our
+grounds gnil erect a modest permanent shrine,” said Porwoll.
+
+Questions:
+
+1. Who is called Paul? Is he alive now?
+2. When did Paul achieve global renown?
+3. What was Paul famous for?
+
+4. Where was his aquarium?
+
+5. Name the successor of Paul
 --- page 2 ---
-IV. To describe the function of the library
+Q2. Read the following case study and point out the barriers to communication in this case study and
+suggest possible solutions. (Marks 5)
 
-c) Which is the most appropriate title for the paragraph?
-I. The enigmatic Frederick Harvey.
-I. The mystery of the Celtic landscape
-I. The Mussenden Temple
-IV. The classicism of Frederick Harvey's folly
+A person does not always display the communication skills you would expect from someone in her high-
+level position. She/he may consciously or subconsciously erect barriers. Here is an example. A staff member
+in a healthcare facility is concerned about the well-being of a resident. He has noticed fairly small but
+disquieting changes in the resident's behavior. He knocks on the manager's door. Impatiently, the manager
+beckons him to enter, and she barely looks up from her paperwork. The worker begins to talk. The manager
+gives no feedback and looks impatient. "Yes, but what is it, specifically?" she cuts in. Then, she answers the
+phone. "It doesn't matter," the worker mutters and backs out of the room.
 
-d) There is a division in the text. At the end of which sentence you find the shift in the tone of the text?
+Q3 . Write a Precis for the following passage and also give an appropriate title. (Marks 5)
 
-3) What do you understand by cultural diversity? What are the steps you can adopt to improve communication in a
-culturally diversified environment? (10)
+It is easy to say, ‘Enlarge your vocabulary; first, that you may enter upon the privileges of a cultivated
+woman; and secondly, that you may be able to tell the truth easily and accurately.’ But it is another and more
+difficult matter to prescribe the means by which this is to be done. Every girl must, to a large degree, work
+out her own method. The reading of the best books and conversation with cultivated folk are both helps to
+the free use of words. The dictionary is the best friend for your task. Never allow a strange word to pass
+unchallenged. Usually, it is wise to look it up at the moment. If that is impossible, it must be written firmly
+on the memory and traced at the first opportunity. It is good to encourage in yourself the habit of dawdling a
+little over the dictionary. It is the only place where dawdling reaps a harvest. To learn two new words a day—
+thoroughly to learn them so that their use will not have a foreign accent-is to insure a large vocabulary
+before you reach middle age. (189 words)
 
-4) Write notes on the following:- (5x2=10)
-1. Upward communication
-2. Downward communication
-5) Are these statements true or false:- (5x2=10)
-1. Silence is always embarrassing in a communication situation
-2. Body language is usually unconscious and involuntary
-3. Careful cultivation of one body language can enhance once oral communications
+Q4. R&R Associates of 128 Stadium Road, DL. , Bangalore have not paid you Rs.14, 800/- for Steel
+furniture supplied to them in March 20. Write a letter of complaint about Non-payment of Dues, You are the
+Saled Manager of Standard Furniture & Co Ltd. 8, Nauru Square, Chennai.
 
-4. It is not possible to control non verbal communications
-5. Non verbal communication can be partly controlled
+Marks 10
 
-6) What do you understand by the following terms? Attempt any two. (5x2=10)
-1. Appreciative Listening
-2. Empathetic listening
-3. Comprehensive listening
-4. Critical listening
+QS. Why has communication skills become an essential requirement fora successful career? Discuss with
+examples. (Marks 5)
 
-7. What should you keep in mind while preparing for a presentation? (10 marks)
+Q6.What is impact of ‘body language’ and ‘voice quality’ of a person in oral presentation? Explain in
 
-———
-x<
+detail. . (Marks 5),
+v!
+
+Q7. Write down the two cultural variables which help to improve the communication? ( Marks 5)
+
+Q8. Write down the Do’s and Don’ts of public speaking. ( Marks 5)
+
+Q 9. Discuss how to handle anxiety/stage fear experienced before addressing an audience . ( Marks 5)
+
+Q10. What is the Difference between listening and hearing ? What are the advantages of
+active listening. ( Marks 5)
+
+SL
+Lp
 ````
 
 ## 2012-13 · Final-Exam · Trim 11 · paper 31c515bf6fe1
@@ -1320,6 +1343,7 @@ implementing the proposal. Prepare your report wi! recommendations.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/BUSINESS COMMUNICATION/BUSINESS COMMUNICATION 2011-12.pdf` (+2 identical copies)
 - Printed on paper: duration hours: 2; exam date: 5/11/2011
 - Text: ocr (1 page), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS Y wv
@@ -1371,7 +1395,6 @@ b) You have an agency of well-known international group of magazines. Write a Sa
 Letter to be sent to educational institutes.
 (Use complete block format) (05).
 
-Dheen panne a *& ene eee x
 ````
 
 ## 2011-12 · Re-Exam · Trim 4 · paper ec08a09e6c24
@@ -2578,310 +2601,4 @@ reputation of the institute in question, and not if it delivers education the ol
 i gags et
 
 __
-````
-
-## 2007-08 · Re-Exam · Trim 4 · paper 0b828c25cbab
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/BUSINESS COMMUNICATION/2007-2008 re exam(9) (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 77.6
-
-````text
-SVKM’S NMIMS UNIVERSITY ¢
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY eee xc Tinta ERING
-MBA Tech II Year L-OxA wx ;
-
-Trimester IV, 2007-08 te
-
-> Vin p
-{S27 0, 0a; "Ye,
-
-Subject: Communication Techniques : a \oeres
-Date: {6-06-08 ; i ; Marks: 100
-~ Time: 3 hrs
-
-2-60-56 pro
-Instructions: Candidates should read carefully the instructions printed on the question paper ani
-‘on the-cover of the Answer Book, which is provided for their use.
-
-NB:
-Answer all 6 questions
-Answer to each question to be started on a fresh page.
-’ (Questions 1 to 4 carry 16 marks each and questions 5 and 6 carry 18 marks each.
-
-}.(a) Explain what is meant by body language. How does the speaker’s body language
-> affect a presentation? Discuss with reference to class presentations.
-
-Or ‘ ‘ :
-1. (b)” How do barriers to communication arise? What efforts.are needed to overcome barriers?
-
-2.(a). What is meant by corporate etiquette? What aspects of your behaviour would you modify
-in order to ensure that you conduct yourself appropriately in the position of a manager?
-Or
-2. (b) Explain the communication process with the help of a diagram. How does the factor of
-environment affect the process?
-
-3. (a) You are appearing for an interview for an executive post in the customer service
-’ department of a company. Answer these questions which are asked at the interview.
-(i) How did you choose your field of specialisation?
-(ii) What did you learn in your summer placement that might be useful in this position?
-(iii) | Why should we select you in preference to an engineer who is also MBA?
-(iv) | What do you consider as the disadvantages of this job?
-(v) Why do you want to work in this company?
-(vi) | What questions would you like to ask about this job?
-Or .
-3.(b) What skills are needed for effective participation in a group discussion? What specific
-skills do you have that would make you an effective participant?
-
-4, Draft any one of the following with full layout in any style of your choice.
-(a) An important regular guest of your hotel has taken his annual conference to another hotel
-this year. Enquiries with your staff reveal that one of your new employees had been rude
-io. to himeonhis last visit to-your hotel. As Guest Relations Manager of the hotel, write to
-the customer, trying to win back his goodwill.
-(b) Prepare ‘your'bio data and covering letter in response to this ad: “We are a 100% export
-unit manufacturing Switch Mode Power Supplies for customers like CISCO, HP etc. We
-
-1
-
-PTO
---- page 2 ---
-os Histy Corporationls. position!:on~key corporate: responsibility ‘issues, based upon the existing (>> o fs
-
-———— a
-
-need Production Planning Engineers, Graduates in Electtonics, with experience as
-planning engineer in high volume electronics manufacturing company. Able to
-coordinate between material purchase, production and customer for smooth production
-and on time deliveries.”
-
-(c) A credit customer who was regular in making payments for three years has been
-deldying payments for the last one year, owing to difficulties in business. Write to him
-tactfully pointing out that in such circumstances, he should stop~buying on credit for
-some time. :
-
-5. (a) Udai Garments Co Pvt Ltd have been trying to enter the European market but have
-‘not succeeded in spite of efforts for one year. The Board of Directors have sent a team
-of three marketing executives and.a trainee manager to survey the market to find out the
-causes of their failure and to recommend a marketing plan. Draft the team’s report.
-Or
-5. (b) During your summer placement, you have been given a project to find out why the
-»*. ‘company’s (any business of your choice) branch in Nasik (or any city with which you are
-familiar) has been ‘incurring ‘losses for the last one year while other branches, are doing ... ‘
-good business. Draft your report. eS
-
-6. Make a précis of the following reducing it to about one-third of its length,
-
-Corporate citizenship, corporate ethics. and corporate responsibility have become
-increasingly important issues for shareholder groups, the media, and, even consumers in the
-past: few years. These phrases are often used interchangeably. and: refer to the relative
-importance a company places’on such issues as environmental responsibility, employee
-relations, community affairs, equal opportunity employment and, in some cases, human
-rights. #
-These issues present opportunities to enhance a corporate reputation as well as potential
-challenges to the value.of an organization's corporate reputation. Company responses to
-issues of corporate responsibility are under increasing scrutiny by.a variety of stakeholders, 4
-including communities, employees and shareholders. Often, a company's initial response to a
-corporate responsibility issue is to seek to solve a problem internally and quietly, avoiding
-communication with interested stakeholders. They are often unwilling to take a leadership
-‘position and focus only onthe potential negatives, rather than the benefits of leadership in iodi
-‘this arena. Eventually, many companies are forced to communicate openly on corporate S¥
-responsibility issues and find, to their surprise, that their communications are welcomed and <a
-respected. Indeed, in some cases, challenges. te a‘ company's corporate responsibility
-“vypractices are simply'a request for information about existing standards and practices.
-For corporations to effectively manage their reputations concerning corporate responsibility,
-they must adopt both responsive and proactive communications. Equally important; they
-must prepare to react nimbly in the face of crisis and escalating corporate citizenship
-examination by the media and other groups.
-In establishing the .components of .a corporate responsibility program, it is
-recommended that corporations take two initial steps. First, in order to identify potential
-. challenges; corporations. can convene an. interdisciplinary. internal team to assess:.the
-company's“existing policies and potential exposures: in the critical corporate responsibility
-issues. Second, on.a-proactive level, the interdisciplinary: team should determine the wid OP
-
-corporate values, a survey of key stakeholder groups, and/or management input. (320 words) us
-
-ni
-
-et ES Eee é saiteg See een od
---- page 3 ---
-iggibe
-
-Applied Mathematics V
-«Computer and IT.)
-
-Area Under Standard Nevmel Cc
-
-aa
-
-The table gives the area, rundet. the) |}
-
-standard normal curve fromz =0 to'Z = 2; ,
-which is the probability that z will lie between
-
-z=0andz=2Z,.
-
-03 1.04 |.05 |.06 |.07 |.08 - |.09
-
-z 00 |.01   |.02
-0.0 _|.0000 |.0040 |.0080 |.0120 |.0160 }.0199 |.0239 }.0279 0319 }.0359
-0.1. |.0398 1.0438 |.0478 |.0517 |.0557 |.0596 }.0636 |.0675 |.0714 0753
-0.2 |.0793 |.8832 |.0871 |.0910 |.0948 |.0987 |.1026. 1064 |.1103 1.1141
-03° ~ |.1179"}.1217 1.1255 |.1293 |.1931 |.1368 |.1406 ].1443 }.1480 51517
-04 — |,1554°]1591- |.1628 |.1664 }.1700 1736 |.1772. |.1808 |:1844 |.1879
-0.5 . },1915. 1.1950 “198s 2019 |.2054 |.2088 |.2123 |.2157|.2190}.2224
-0.6. sx:1:9357' |.2291, |.2324-|.2357 |.2389, 1-242 JAS |.2486 |.2517 |.2549
-0.7 + 112580; |.2611 2642 |,2673 2703 |.2734 |.3764-|.2794 2823 | 2852
-08.” 2881" |.2910. (2939 2967 }.2995 |.3023_}.3051 }.3078 3106 |.3133
-09 | 3159 3186" 3212 |.3238, |.3264 |.3289 |.3345 |.3340)3365 3389” 6°
-10° 13413 3438 1.3461 |.3485 [3508 |.3531 |.3554~{.3577 |.3599. 362L". *
-1.1 * [3643 |.3665 |.3686 |.3708 |.3729 |.3749° ‘6770 |.3790|.3810}.3830 ”
-1.2 {3849 |.3869 |.3888 |.3907 |.3925 |.3944 |.3962 ° 3980 |.3997).4015:,’
-1.3 |.4032 |.4049 }.4066 |.4082 |.4099 [4115 }.4131 ‘4147 |.4162 #77,
-14 |.4192: |.4207 |.4222 |.4236 |.4251 |.4265 |.4279 }.4292) £4306 | 4319
-1.5 |.4332 |.4345 |.4357 |.4370. |.4382 |.4394 |.4406 1.4418 4429 1:4441
-16. |.4452 |.4463 |.4474 |.4484 |.4495 |.4505 ].44]5 |.4525 4535.|.4545°
-17 1.4584. 1.4564 |.4573 |.4582 |.4591 |.4599 [4608 ].4616 |.4625 ).4633"
-18   |..4641 |.4649 |.4656 |.4664 |.4671 |.4678 |.4686 |.4693 |.4699 4106
-19   |.4713 |.4719 |.4726 |.4732 |.4738 |.4744 |.4750 |.4756 4761 |.4767
-2.0, |.4772 |.4778 |.4783 |.4788 |.4793 4798 |.4803 |.4808 |.4812|.4817
-21 |4891 |.4826 |.4830 |.4834 |.4838 |.4842 |.4846 |.4850 |.4854 |.4857
-2.2. |.4861 |.4864-|.4868 |.4871 |.4875°}.4878, |.4841 4884 |.4887 |.4890
-|.4893 |.4896 |.4898 |.4901 |.4904 |.4906 4909 |.4911 |.4913 |,4916°
-"4918-|.4920 |.4922 |.4925 |.4927 |.4929 |.4931 |.4932 }.4934 |.4936
-4938 1.4940 |.4941 |.4943 |.4945 |.4946 |.4948 |.4949 | 4951 |.4952
-"4953 1.4955 |.4956 |.4957 |.4959 |.4550 |.4961 |.4962 |.4963 |.4964
-4965 1.4966 1.4967 |.4968 |.4969 |.4970 |.4971 |.4972|.4973 4974
-‘A974 |.4975 |.4976 |.4977 |.4977 |.4978 |.4979 |.4979 4980 |.4981
-"4981 |.4982 |.4982 |.4983 |.4984 |.4984 |.4985. |.4985 |.4986}.4986
-4987 |.4987 |.4987 |.4988 }.4988 |.4989 |.4989 4989 }.4990 |.4990
-
-wd
-
-“yf
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 0249c44ed0b7
-
-- Departments: Chemical, Civil, Computer Engineering, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/BUSINESS COMMUNICATION/scan0007(10).pdf` (+4 identical copies)
-- Printed on paper: max marks: 50; exam date: 31/10/2012
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineeri
-
-Programme: MBA(Tech)-All Streams Year: II Trimester: IV
-Academic Year : 2012-2013
-
-fee wil
-Subject: BUSINESS COMMNICATION-I Marks: 50 ie /
-Time: 2.00pm $cc
-Date: 31/10/2012 Duration: 2 ne: .
-Final - Examination , hag A
->=
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use. (Use only if applicable as the case may be)
-
-NB:
-
-1. Question No. 4 is compulsory.
-
-2. Out of remaining questions, attempt any 8 questions.
-
-3. Inall 9 questions to be attempted.
-
-4. All questions carry equal marks. Only question No 4 carries 10 marks.
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-QI. Read the following paragraph and answer the given questions.
-ORACLE OCTOPUS PAUL NO MORE (5 marks)
-
-Berlin Oct, 26:
-
-“Paul the octopus, who shot to fame during this year's football World Cup in South Africa for his
-— record in predicting game outcomes, has died,” his aquarium in Germany, said on
-
-Tuesday, “Management and staff at the Oberhausen Sea Life Center were devastated to discover
-that Octopus Paul who achieved global renown during the recent World Cup, had passed away
-overnight,” said in a somber statement.
-
-“Paul amazed the world by correctly predicting the winners of all Germany's World Cup clashes
-,and then of the final”, said Sea Life manager Stefan Porwoll. His success made him almost a
-bigger story than the World Cup itself... We had all naturally grown very fond of him and he will be
-sorely missed”, said Porwoll. Paul's body is now in cold storage while the aquarium decides “how
-best to mark his passing.”
-
-However, /Paul's fans need not despair. The aquarium has already been grooming a successor,
-
-to be naméd Paul like his mentor. “ We may decide to give Paul his own small burial plot within our
-grounds gnil erect a modest permanent shrine,” said Porwoll.
-
-Questions:
-
-1. Who is called Paul? Is he alive now?
-2. When did Paul achieve global renown?
-3. What was Paul famous for?
-
-4. Where was his aquarium?
-
-5. Name the successor of Paul
---- page 2 ---
-Q2. Read the following case study and point out the barriers to communication in this case study and
-suggest possible solutions. (Marks 5)
-
-A person does not always display the communication skills you would expect from someone in her high-
-level position. She/he may consciously or subconsciously erect barriers. Here is an example. A staff member
-in a healthcare facility is concerned about the well-being of a resident. He has noticed fairly small but
-disquieting changes in the resident's behavior. He knocks on the manager's door. Impatiently, the manager
-beckons him to enter, and she barely looks up from her paperwork. The worker begins to talk. The manager
-gives no feedback and looks impatient. "Yes, but what is it, specifically?" she cuts in. Then, she answers the
-phone. "It doesn't matter," the worker mutters and backs out of the room.
-
-Q3 . Write a Precis for the following passage and also give an appropriate title. (Marks 5)
-
-It is easy to say, ‘Enlarge your vocabulary; first, that you may enter upon the privileges of a cultivated
-woman; and secondly, that you may be able to tell the truth easily and accurately.’ But it is another and more
-difficult matter to prescribe the means by which this is to be done. Every girl must, to a large degree, work
-out her own method. The reading of the best books and conversation with cultivated folk are both helps to
-the free use of words. The dictionary is the best friend for your task. Never allow a strange word to pass
-unchallenged. Usually, it is wise to look it up at the moment. If that is impossible, it must be written firmly
-on the memory and traced at the first opportunity. It is good to encourage in yourself the habit of dawdling a
-little over the dictionary. It is the only place where dawdling reaps a harvest. To learn two new words a day—
-thoroughly to learn them so that their use will not have a foreign accent-is to insure a large vocabulary
-before you reach middle age. (189 words)
-
-Q4. R&R Associates of 128 Stadium Road, DL. , Bangalore have not paid you Rs.14, 800/- for Steel
-furniture supplied to them in March 20. Write a letter of complaint about Non-payment of Dues, You are the
-Saled Manager of Standard Furniture & Co Ltd. 8, Nauru Square, Chennai.
-
-Marks 10
-
-QS. Why has communication skills become an essential requirement fora successful career? Discuss with
-examples. (Marks 5)
-
-Q6.What is impact of ‘body language’ and ‘voice quality’ of a person in oral presentation? Explain in
-
-detail. . (Marks 5),
-v!
-
-Q7. Write down the two cultural variables which help to improve the communication? ( Marks 5)
-
-Q8. Write down the Do’s and Don’ts of public speaking. ( Marks 5)
-
-Q 9. Discuss how to handle anxiety/stage fear experienced before addressing an audience . ( Marks 5)
-
-Q10. What is the Difference between listening and hearing ? What are the advantages of
-active listening. ( Marks 5)
-
-SL
-Lp
 ````

@@ -16,9 +16,9 @@ Also filed as: `MANAGEMENT INFORAMTION SYSTEMS`, `MANAGEMENT INFORMATION SYSTEMS
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated IT 7037 | ANS_Management Information Systems(702IT0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / I T, B.TECH INTEGRATED / IT, MBA TECH / I T | Management Information System 2025-26 Final0001.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | Integrated IT 7037 | QP_Management Information Systems(702IT0E008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated IT 7037 | ANS_Management Information Systems(702IT0E008)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / I T, MBA TECH / I T | Management Information Systems, Sem-V, Final Exam 2024-25.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / I T | Management Information Systems, Sem-V, A Y 2023-24, Final Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | MBA TECH / I T | Management Information system,Final 23-24.pdf |

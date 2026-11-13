@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/NUMERICAL MODELING OF CROUNDWATER FLOW _b4a72ee3/NUMERICAL_MODELING_OF_GROUNDWATER_FLOW_AND_TRANSPORT_B TECH (CIVIL), 2018-19_FINAL_EXAM_.pdf`
 - Printed on paper: max marks: 70
 - Text: ocr (3 pages), mean OCR confidence 87.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -102,10 +103,8 @@ Ty=7 m2/d Ty=12m7/d
 
 Qu.5a: The governing equation for two dimensional groundwater transport is given by
 
-ee Fe ac dc _ ac
 
 D -V. vy ES
-“ax? ay? * Ox” By Ot
 
 Give Galerkin’s Finite Element formulation for the above equation considering triangular
 linear element. Also explain the B.C.s for the same.
@@ -287,6 +286,7 @@ e) Explain how mesh free methods are different from grid based or element based 
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/NUMERICAL MODELING OF CROUNDWATER FLOW _b4a72ee3/NUMERICAL MODELING OF GROUDWATER FLOW AND TRANSPORT 1B TECH (CIVIL), 2016-17 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 09 May 2017
 - Text: ocr (3 pages), mean OCR confidence 86.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -330,7 +330,6 @@ aniosotropic confined aquifer is given by
 
 2fp dt), Of dh] gah
 
-Ox ~ Ox a ” dy ot
 
 Give Galerkin’s Finite Element Formulation for the above equation considering triangular
 linear element. Also explain the boundary conditions for the same.
@@ -409,6 +408,7 @@ d) What is the general procedure for numerical modeling?
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/NUMERICAL MODELING OF CROUNDWATER FLOW _b4a72ee3/NUMERICAL MODELING OF GROUNDWATER FLOW AND TRANSPORT B TECH (CIVIL), 2015-16 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 11/05/2016
 - Text: ocr (2 pages), mean OCR confidence 85.7
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -477,7 +477,6 @@ I
 e % ‘. T
 > ; Lit ff . Q=0.0005m/d
 gg paw 112.5m | | | | | 100m
-we ae A B Cc D Eo. denne
 . ae Ax = 1250 m between any two nodes
 T = 500m2/d
 Skm
@@ -488,17 +487,14 @@ heterogeneous aniosotropic aquifer is given by
 ac ae Oc Oc Oc
 py Dp re VY,
 
-” Ox oy Ox Oy at
 Give Galerkin’s Finite Element Formulation for the above equation considering triangular
 linear element. Also explain the B.C.s for the same.
 
 Qu.6: For the transport modeling of equation
 
-oi ao dc ac c'w_ a ; . .
 
 ce +D, ce -v, ae vy oer et by FEM, if the elemental equation for Figure
 
-Ox oy Ox Oy nb Ot
 
 D
 

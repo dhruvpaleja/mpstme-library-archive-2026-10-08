@@ -1,111 +1,10 @@
 # Analog and Digital Communication: question papers in full
 
-27 unique papers · 2013-14 to 2021-22 · Computer Engineering, Electronics and Telecommunication
+27 unique papers · 2013-14 to 2023-24 · Computer Engineering, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2021-22 · Final-Exam · Sem 6 · paper 8b7bc1550446
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_06/ANALOG AND DIGITAL COMMUNICATION/Analog and Digital Communication 2021-22 Final.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS {i
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEEE :
-
-Academic Year: 2021-22
-
-Programme: B.Tech Integrated (EXTC) Year: III Semester: VI
-Subject: Analog and Digital Communication
-Marks: 100
-Date: 16 April 2022 Time: 10.00 am - 01.00 pm
-
-Durations: 3 (Hrs)
-No. of Pages: 2
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-CO-1;SO-1;BL-1_ | a, | What is line coding? Draw the following line coding waveforms for given data 10101111 [05]
-i) Bipolar NRZ-AMI
-ii) Unipolar RZ
-
-CO-1;S0-1;BL-2_ | b. | Distinguish between AM and FM system. [05]
-CO-1; SO-1; BL-2,3 | ¢. | Explain PPM modulator with block diagram and waveforms [05]
-CO-3;SO-1; BL-2,3 | d. | What is entropy? State the properties of entropy. [05]
-Q2 a. | A modulating signal 3sin (2II x 10° t) issued to amplitude modulate a carrier signal 10sin (211 | [10]
-CO-1; SO-1,6; BL-5 x 30 x 105t). Find
-
-(i) Modulation index & percentage modulation
-
-(ii) Write the equation of modulated wave
-
-(iti) Frequency of sidebands and their amplitude
-
-(iv) Draw the frequency spectrum of Modulated Signal
-
-(v) Bandwidth of signal.
-Q2 b. | Describe Adaptive Delta modulation and state its drawbacks [10]
-CO-1; SO-1; BL-3
-Q3 a. | Why MSK is called shaped QPSK? Discuss it giving relevant expression and waveform. [10]
-CO-1; SO-6; BL-2 ‘
-Q3 b. | The generator polynomial of a (7,4) cyclic code is G(p) = p? + p* + 1. Find code vectors for | [10]
-CO-3; 0-6, BL-5 the code polynomial in Nonsystematic form for the message vector 1011
-
-1|2
---- page 2 ---
-Q4 a. | What is Multiplexing in signal transmission. Explain Frequency Division multiplexing with [10]
-CO-1; SO-1; BL-2 suitable block diagram.
-Q4 b. | The parity check matrix of a particular (7,3) linear block code is given by [10]
-
-CO-3; SO-1,6; BL-5
-
-0111000
-= {1010100
-1100010
-1110001
-
-i. Find the generator matrix (G).
-ii. Determine the code word for the message vector 011.
-iii. Check whether received code word 1101110 is correct or not? Justify. If there is an
-error, then correct it and write corrected code word.
-
-Q5 a. | Draw the PAM, PWM and PPM signals with modulating and carrier signal. Explain [10]
-CO-1; SO-1, BL-2 generation of PAM signal.
-Q5 b. | Derive mathematical expression for frequency modulated wave. [10]
-
-CO-1; SO-1; BL-3
-
-Q6 a. | Explain the difference between slow frequency hopping and fast frequency hopping with | [10]
-CO-4; SO-1; BL-2 suitable diagram.
-Q6 b. | Derive and discuss Matched filtering at the receiver. [10]
-
-CO-2; SO-2; BL-3
-
-2|2
-````
-
-## 2021-22 · Re-Exam · Sem 6 · paper 17a380da9a4f
+## 2023-24 · Re-Exam · Sem 6 · paper 17a380da9a4f
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
@@ -198,7 +97,7 @@ CO-1; SO-1; BL-2
 ~
 ````
 
-## 2021-22 · Re-Exam · Sem 6 · paper 3a7b68781f60
+## 2022-23 · Re-Exam · Sem 6 · paper 3a7b68781f60
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
@@ -296,7 +195,7 @@ CO-1; SO-1; BL-2 pre-emphasis and describe it.
 212
 ````
 
-## 2021-22 · Re-Exam · Sem 6 · paper 528b7caea1cb
+## 2022-23 · Re-Exam · Sem 6 · paper 528b7caea1cb
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
@@ -437,6 +336,107 @@ system using Carson’s rule.
 212
 
 oN
+````
+
+## 2021-22 · Final-Exam · Sem 6 · paper 8b7bc1550446
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_06/ANALOG AND DIGITAL COMMUNICATION/Analog and Digital Communication 2021-22 Final.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS {i
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEEE :
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (EXTC) Year: III Semester: VI
+Subject: Analog and Digital Communication
+Marks: 100
+Date: 16 April 2022 Time: 10.00 am - 01.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: 2
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO-1;SO-1;BL-1_ | a, | What is line coding? Draw the following line coding waveforms for given data 10101111 [05]
+i) Bipolar NRZ-AMI
+ii) Unipolar RZ
+
+CO-1;S0-1;BL-2_ | b. | Distinguish between AM and FM system. [05]
+CO-1; SO-1; BL-2,3 | ¢. | Explain PPM modulator with block diagram and waveforms [05]
+CO-3;SO-1; BL-2,3 | d. | What is entropy? State the properties of entropy. [05]
+Q2 a. | A modulating signal 3sin (2II x 10° t) issued to amplitude modulate a carrier signal 10sin (211 | [10]
+CO-1; SO-1,6; BL-5 x 30 x 105t). Find
+
+(i) Modulation index & percentage modulation
+
+(ii) Write the equation of modulated wave
+
+(iti) Frequency of sidebands and their amplitude
+
+(iv) Draw the frequency spectrum of Modulated Signal
+
+(v) Bandwidth of signal.
+Q2 b. | Describe Adaptive Delta modulation and state its drawbacks [10]
+CO-1; SO-1; BL-3
+Q3 a. | Why MSK is called shaped QPSK? Discuss it giving relevant expression and waveform. [10]
+CO-1; SO-6; BL-2 ‘
+Q3 b. | The generator polynomial of a (7,4) cyclic code is G(p) = p? + p* + 1. Find code vectors for | [10]
+CO-3; 0-6, BL-5 the code polynomial in Nonsystematic form for the message vector 1011
+
+1|2
+--- page 2 ---
+Q4 a. | What is Multiplexing in signal transmission. Explain Frequency Division multiplexing with [10]
+CO-1; SO-1; BL-2 suitable block diagram.
+Q4 b. | The parity check matrix of a particular (7,3) linear block code is given by [10]
+
+CO-3; SO-1,6; BL-5
+
+0111000
+= {1010100
+1100010
+1110001
+
+i. Find the generator matrix (G).
+ii. Determine the code word for the message vector 011.
+iii. Check whether received code word 1101110 is correct or not? Justify. If there is an
+error, then correct it and write corrected code word.
+
+Q5 a. | Draw the PAM, PWM and PPM signals with modulating and carrier signal. Explain [10]
+CO-1; SO-1, BL-2 generation of PAM signal.
+Q5 b. | Derive mathematical expression for frequency modulated wave. [10]
+
+CO-1; SO-1; BL-3
+
+Q6 a. | Explain the difference between slow frequency hopping and fast frequency hopping with | [10]
+CO-4; SO-1; BL-2 suitable diagram.
+Q6 b. | Derive and discuss Matched filtering at the receiver. [10]
+
+CO-2; SO-2; BL-3
+
+2|2
 ````
 
 ## 2018-19 · Final + Re-Exam · Sem 4 · paper f3d49356e5c5
@@ -582,6 +582,123 @@ Line Coding Techniques
 [5]
 [5]
 [4]
+````
+
+## 2018-19 · Re-Exam · Sem 4 · paper cec54bc1f511
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGIGITAL COMMUNICATION B TECH (COMPUTER), BATCH 2016-17-18-19_RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 15 June 2019
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE! :
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech /MBA Tech (Computer) ~ Year: J[ ~ Semester: IV
+Academic Year: 2018-2019 ~
+
+Subject: Analog & Digital] Communications . Marks: 70 -
+
+Date: 15 June 2019 Time:2.00 pm to 5.00 pm -
+Duration: 3 (Hirs) |
+. No. of Pages:_ 2
+Re- Examination (2016-17 / 2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted. =
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Q.1 Answer the following
+A Compare & Contrast Amplitude Modulation and Frequency Modulation. (04)
+B Define Amplitude Modulation. Derive the expression for AM modulated wave. (04)
+C Principle of Amplitude Shift Keying. (03)
+D Linear Block Code. (03)
+Q.2 A What is the principle of Super Heterodyning? Explain Super heterodyne AM receiver (07)
+with block diagram.
+B Explain generation & detection of Pulse Amplitude Modulated signal. (07)
+3 A Explain PAM-TDM along with transmitter and receiver. (07)
+B For a (6, 3) linear block code, the coefficient matrix [p] is as follows (07)
+011
+[p]= 1 0 1
+1 10
+
+The received code words at the receiver are:
+()001110 (111011
+
+Check whether they are correct or contain errors.
+
+Page 1 of 2
+--- page 2 ---
+Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+A
+
+A certain transmitter radiates 11 kW with the carrier unmodulated and 12.5 kW when
+the carrier is sinusoidally modulated. Calculate the modulation index, percent of
+modulation. If another sine wave, corresponding to 40 percent modulation, is
+transmitted simultaneously, determine the total radiated power.
+
+Explain Differential Phase Shift Keying system with the help of Transmitter and
+Receiver. ;
+
+An EM wave given by the equation x(t) = 4sin (1.57 * 10°2t + 5 sin 2513t). Find
+the carrier and modulating frequencies, the modulation index, and the maximum
+deviation. What power will this FM wave dissipate in a 10 Q resistor?
+
+Explain PCM transmitter and receiver in detail.
+
+Explain In-Direct method of FM generation with the help of block diagram.
+
+Explain Binary Frequency Shift Keying system with the help of Transmitter and
+
+Receiver.
+
+=
+
+Write a short note on
+Comparisons of Ideal Sampling and Natural Sampling.
+
+Quantization. aan
+Vestigial Sideband Transmission
+
+Multiplexing
+
+Page 2 of 2
+
+(07)
+
+(07)
+
+(07)
+
+(07)
+(07)
+(07)
+
+(04)
+(04)
+(03)
+(03)
 ````
 
 ## 2017-18 · Exam not stated · Sem 4 · paper 22f087916cfc
@@ -883,6 +1000,97 @@ b. Find the parity check matrix.
 06
 
 06
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper 3a7560166cbf
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG_AND_DIGITAL_COMMUNICATIONS_BATCH_14-15_15-16_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 04 July 2018
+- Text: ocr (2 pages), mean OCR confidence 90.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
+
+Programme: B. Tech (Computer) Year: II Semester: IV
+
+Batch: 2014-15/ 2015-16
+Academic Year: 2017-2018
+
+Subject: Analog & Digital Communications
+“ ; Marks:60 —
+
+Date: 04 July 2018 _- Time: 10.00 am to 1.00 pm
+
+Durations: 3 (Hrs) ~
+
+No. of Pages: _o92— ~
+Re-Examination :
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a ‘fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Answer from the following: :
+
+a) Compare AM, FM and PM. [4]
+b) Draw and explain the working of varactor modulator. (4]
+c) A FM is represented by the following equation [4]
+
+V = 10 Cos[8 x 10°t + 4 sin5000t]
+Find i. carrier and modulating frequencies
+ii. Modulation index and maximum deviation
+iii. the power dissipated by this FM wave in 5 Q resistor
+
+Q.2
+a) What is multiplexing in communication systems? Explain TDM in detail. [6]
+b) What are the properties of a receiver? With the help of a block diagram, explain Tune Radio [6]
+
+Frequency Receiver in detail.
+
+Q.3
+a) Draw and explain FM receiver in detail. [6]
+Sasa b) Explain the generation and detection of PWM signal with block diagram. [6]
+
+: Q.4
+om a) Draw and explain transmitter and receiver block diagram of DPSK in detail. [6]
+b) With the help of block diagram explain Armstrong Method for FM Transmission. [6]
+
+e
+--- page 2 ---
+=m
+
+ce
+
+a) Explain Differential Pulse Code Modulation in detail. [6]
+b) State the sampling theorem and explain the different techniques of sampling. [6]
+Q6
+
+a) Explain Quantization with an example. [6]
+b) A modulating signal m(t)=10cos(2xx10%3t)m(t) is amplitude modulated with a carrier [6]
+
+signal c(t)=50cos(27*10St)c(t). Find the modulation index, the carrier power, and the power
+required for transmitting AM wave.
+
+Q.7 Write short notes on any two from the following:
+
+a)’ Explain need for modulation and list different types of modulation techniques [6]
+b) Compare ASK,FSK,PSK [6]
+d) Convolutional code [6]
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper c20c780eb9f4
@@ -1209,121 +1417,274 @@ iv. Quantization process and quantization error
 
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper cec54bc1f511
+## 2016-17 · Re-Exam · Sem 4 · paper c51ed3b14a84
 
 - Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGIGITAL COMMUNICATION B TECH (COMPUTER), BATCH 2016-17-18-19_RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 15 June 2019
-- Text: ocr (2 pages), mean OCR confidence 91.2
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICATION BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 16 May 2017
+- Text: ocr (2 pages), mean OCR confidence 90.2
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE! :
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech /MBA Tech (Computer) ~ Year: J[ ~ Semester: IV
-Academic Year: 2018-2019 ~
+t
 
-Subject: Analog & Digital] Communications . Marks: 70 -
+SVEM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Date: 15 June 2019 Time:2.00 pm to 5.00 pm -
-Duration: 3 (Hirs) |
-. No. of Pages:_ 2
-Re- Examination (2016-17 / 2017-18/2018-19)
+Programme: B. Tech (COMPUTER) > Year: I - Semester: IV
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Casal .
 
-1) Question No. ONE is compulsory.
+Bi rteeany
+as Gao i
 
-2) Out of remaining questions, attempt any FOUR questions.
+. Batch: 2014-2015/2015 - 2016 —
 
-3) In all FIVE questions to be attempted. =
+Academic Year: 2016-2017
+
+Subject: Analog & Digital Communications
+. 7
+
+Marks: 60
+
+Time: 10.00 am to 1.00 pm ;¢
+Durations: 3 (hrs)
+No. of Pages: _2~—
+
+Date: 16 May 2017. <=
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
 
-7) Assume suitable data if necessary.
+Q1. Answer any four of the following. [12]
 
-Q.1 Answer the following
-A Compare & Contrast Amplitude Modulation and Frequency Modulation. (04)
-B Define Amplitude Modulation. Derive the expression for AM modulated wave. (04)
-C Principle of Amplitude Shift Keying. (03)
-D Linear Block Code. (03)
-Q.2 A What is the principle of Super Heterodyning? Explain Super heterodyne AM receiver (07)
-with block diagram.
-B Explain generation & detection of Pulse Amplitude Modulated signal. (07)
-3 A Explain PAM-TDM along with transmitter and receiver. (07)
-B For a (6, 3) linear block code, the coefficient matrix [p] is as follows (07)
-011
-[p]= 1 0 1
-1 10
+a) Compare TDM & FDM.
 
-The received code words at the receiver are:
-()001110 (111011
+b) Compare source coding and channel coding.
 
-Check whether they are correct or contain errors.
+c) Explain FSK.
 
-Page 1 of 2
+d) How companding reduces quantization error?
+
+e) What is independent side band system? State its application.
+
+f) Calculate percentage power saving in case of SSB-SC over SSB-FC & DSBFC AM techniques.
+
+Q2. a) Explain Armstrong method for FM generation. [05]
+b) Explain need for modulation in communication. [02]
+c) The co-efficient matrix of a linear block is given as [05]
+0 1 1
+= 1 0 1
+1 1 0
+i. Find all code words. [02]
+ii. | Determine error detecting capacity. [01]
+iii. | Determine error correcting capacity [01]
+
+iv. Check whether following received code words are correct or contain errors
+
+Page 1,
+g ys
 --- page 2 ---
-Q.4
+[01]
 
-Q.5
+@ 001110 @ 111011
 
-Q.6
+Q3. a) Explain frequency division multiplexing system and state its advantages & disadvantages. [04]
 
-Q.7
+b) Compare PAM,PWM,PPM. [04]
 
-A
+c) In a broadcast - superheterodyne receiver having no RF amplifier, the loaded Q of the antenna
+coupling circuit (at the input to the mixer) is 100. If the intermediate frequency is 455 kHz ,
 
-A certain transmitter radiates 11 kW with the carrier unmodulated and 12.5 kW when
-the carrier is sinusoidally modulated. Calculate the modulation index, percent of
-modulation. If another sine wave, corresponding to 40 percent modulation, is
-transmitted simultaneously, determine the total radiated power.
+calculate (a) the image frequency and its rejection ration at 1000 kHz and )b) the image
+frequency and its rejection ration at 25 MHz. [04]
+Q4. a) What are the limitations of tuned radio frequency receiver? Explain super heterodyne radio
+receiver with block diagram and draw the wave form at the output of each block. [6]
+b) Explain MSK [6]
+Q5.Answer the following. ° [12]
+a) Explain the generation of PPM signals with the help neat diagram. |
+b) Explain with the help of block diagram QFSK transmitter & receiver. [6]
+{12]
 
-Explain Differential Phase Shift Keying system with the help of Transmitter and
-Receiver. ;
+Q6.Answer the following.
 
-An EM wave given by the equation x(t) = 4sin (1.57 * 10°2t + 5 sin 2513t). Find
-the carrier and modulating frequencies, the modulation index, and the maximum
-deviation. What power will this FM wave dissipate in a 10 Q resistor?
+a) A sinusoidal carrier voltage of frequency 1MHz and amplitude 100 V is modulated by a
+sinusoidal voltage of frequency 5KHz producing 50% Modulation. Calculate the frequency and
 
-Explain PCM transmitter and receiver in detail.
+amplitude of USB and LSB.
+[04]
 
-Explain In-Direct method of FM generation with the help of block diagram.
+b) State & explain sampling theorem. Explain different techniques of sampling. [04]
+c) Write the disadvantages of DPSK & explain transmitter and receiver of DEPSK. [04]
+Q7.Write Short Hotes on any four of the following. [12]
+a) Comparison of ASK,FSK,PSK
+b) Image frequency & its rejection.
+c) VSB transmission
 
-Explain Binary Frequency Shift Keying system with the help of Transmitter and
+d) Intersymbol interference.
+e) Types of digital modulation detection techniques
 
-Receiver.
+Page 2 2
+````
 
-=
+## 2016-17 · Re-Exam · Sem 4 · paper 5f37e8bef510
 
-Write a short note on
-Comparisons of Ideal Sampling and Natural Sampling.
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICATION BATCH 14-15,15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60
+- Text: ocr (3 pages), mean OCR confidence 79.2
 
-Quantization. aan
-Vestigial Sideband Transmission
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Multiplexing
+Programme: B. Tech (COMPUTER) Year: II Semester: IV oo
+ia
 
-Page 2 of 2
+Batch: 2014-2015 / 2015-2016 ~~
 
-(07)
+: ; Academic Year: 2016-2017
+4 Subject: Analog & Digital Communications »”
 
-(07)
+Marks: 60
+Date: 13 July2017 Time: 10.00,
+Durations: 3 ( 8
+No. of Pages; | ;
+Re-Examination a
+———
+Instructions: Candidates should read carefully the instructions printed on the qt paper
 
-(07)
+and on the cover of the Answer Book, which is provided for their use.
 
-(07)
-(07)
-(07)
+1) Question No. 1 is compulsory.
 
-(04)
-(04)
-(03)
-(03)
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted:
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. |
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. .
+
+Q1) Attempt any 4 | {12M]
+
+a. Sampling and its types
+
+b. Quantization and Quantization error
+
+c. What is multiplexing and explain TDM in detail
+
+d. Difference between wide band FM and narrow band FM
+e. VSB transmission
+
+Q2) Answer the following :
+
+a. State the receiver properties and explain the block .diagram of super heterodyne [06]
+in detail.
+— b. Explain Differential Pulse Code modulation and its advantages over PCM. [06]
+. Q3) Answer the following :
+
+a. Define direct FM principle and explain Automatic Frequency Control FM transmitter. [06]
+
+b. The co-efficient matrix of a linear block is given as
+
+a [06] - =
+
+/5
+--- page 2 ---
+P= 1 0 1
+
+1 1 0
+i. Find all code words. [02]
+ii. Determine error detecting capacity. [01]
+iii. | Determine error correcting capacity- [01]
+
+iv. | Check whether following received code words are correct or contain errors [02]
+® 001110 @ 111011
+
+Q4) Answer the following ?
+
+a. Explain QPSK in detail and Draw its spectrum. [06]
+b. An AM transmitter operating at carrier frequency of IMHZ and modulating frequency of SKHZ
+
+is modulated at 60% depth and delivers a carrier power of 6KW into 1000hms resistor.
+Find total power, peak voltage and RMS voltage. [03]
+c. Distinguish between AM and FM. [03]
+
+Q5) Answer the following «
+
+a. Explain QASK in detail . [06]
+b. Consider an FM signal with : Af = 30 kHz, fm = 20 kHz, Ac = 15 V, Compute and [06]
+draw the spectrum for FM signal.
+i) Calculate modulation index.
+ii) Amplitude of sidebands -
+iii) Approximate minimum B.W using Carson’s rule.
+iv) Plot output spectrum with all values.
+
+Q6) Answer the following «
+
+a. Derive the expression for modulation index of AM in time domain and explain 3 types of
+
+modulation index. [4M]
+b. Explain generation and detection of PWM. [4M]
+c. Explain Types of detection in Digital Communication. [4M]
+pa Q7) Answer any 4 [12M]
+a. PPM
+
+b. What is Sampling and Explain various Conditions.
+c. Difference between M-Ary ASK and M-Ary FSK.
+d. Intersymbol interference.
+
+e. Diode detector
+
+. 2/3
+--- page 3 ---
+@] Modulation Carrier
+rex dy
+
+0.9 2,00
+0.25 0.98
+0.94
+
+O.77
+
+51
+
+9.22
+
+-0.05
+
+~0.26
+
+~O.40
+
+0.18
+
+0.15
+
+0.30
+
+3
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper b955b5b6156e
@@ -1804,6 +2165,109 @@ Page 2
 /2.
 ````
 
+## 2015-16 · Re-Exam · Sem 4 · paper bfa790f82100
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICAITONS BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 July 2016
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAG: ING
+
+Programme: B.Tech (Computer) Year: II
+
+Academic Year: 2015-16
+
+Batch: 2013-14
+
+bject: Analog & Digital Communications, Marks: 100
+Subsets Anes ° Time: 10.00 am - 1.00 pm
+Date: 07 July 2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+1) Question No.1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+a 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1) Attempt any 4 [20M]
+
+a. Inter symbol Interference
+
+b. Quantization and Quantization error
+
+c. Distinguish between FDM & TDM
+
+d. Define Modulation and Explain need for Modulation
+e. VSB transmission
+
+f. Disadvantages of SSB
+
+Q2) Answer the following
+
+a. State the receiver properties and Explain the Block Diagram of super heterodyne [10]
+in detail.
+b. Explain Differential Pulse Code modulation and its advantages over PCM. {10]
+
+Q3) Answer the following
+
+a. Define direct FM principle and explain FM transmitter with neat bl ock diagram. [10]
+
+b. The co-efficient matrix of a linear block is given as : [10]
+--- page 2 ---
+i. Find all code words. [04]
+ii. | Determine error detecting capacity. [02]
+iii. | Determine error correcting capacity [02]
+iv. Check whether following received code words are correct or contain errors [02]
+
+© 001110 © 111011
+
+Q4) Answer the following
+
+a. Explain QASK in detail and Draw its spectrum. [10]
+b. An FM wave is defined below. S(t) = 12 sin(6x108 m t + 5 sin1250 mt) Find the carrier and
+
+modulating frequencies, the modulating index, and the maximum deviation of the FM wave.
+Aiso find the bandwidth of the FM wave. What power will the FM wave dissipate in a 40
+
+‘ohm resistor? And Draw the spectrum
+C10]
+
+Q5) Answer the following
+
+a. Explain MSK in detail . o {10]
+b. Explain FM receiver in detail
+Cio]
+
+Q6) Answer the following
+
+a. Derive the expression for modulation index of AM in time domain and explain 3 types of
+
+modulation index. [7]
+
+b. Explain generation and detection of PPM. [7]
+
+c. Explain Types of detection in Digital Communication. [6]
+
+Q7) Answer any 4 [20]
+a. PWM
+
+b. What is Sampling and explain various Conditions.
+c. Difference between M-Ary ASK and M-Ary FSK.
+d. Envelope detector.
+
+e. AM types -
+````
+
 ## 2015-16 · Re-Exam · Sem 4 · paper c3eaa0c2e8d4
 
 - Departments: Computer Engineering
@@ -1811,6 +2275,7 @@ Page 2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICAITONS BATCH 2014-15, 15-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 07 July 2016
 - Text: ocr (2 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS .
@@ -1851,7 +2316,6 @@ NB:
 Q.1. Attempt All
 
 A) Derive the following expression for modulation index from AM envelope, 3
-m=(Emax _ Emin)/( Emax + Emin)
 B) Explain elements of communication system, 3
 
 C) Acertain transmitter radiates 9 kW with the carrier unmodulated and 10.125 kW 6
@@ -1908,43 +2372,31 @@ D) Write a note on Quantization.
 12
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper c51ed3b14a84
+## 2015-16 · Re-Exam · Sem 4 · paper e3135893fd6a
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICATION BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 16 May 2017
-- Text: ocr (2 pages), mean OCR confidence 90.2
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICATION B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 16/05/2016
+- Text: ocr (2 pages), mean OCR confidence 89.4
 
 ````text
-t
-
 SVEM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (COMPUTER) > Year: I - Semester: IV
+Programme: B.Tech (Computer) Year: II Semester: IV
 
-Casal .
+‘ Academic Year: 2015-16 ; —~
+i a :
+Subject: Analog & Digital Communications Marks: 60 (*-
 
-Bi rteeany
-as Gao i
+Batch: 2014-15 ane
+RY 13
+Time: 10.00 4W®+:00 pm ZG
 
-. Batch: 2014-2015/2015 - 2016 —
-
-Academic Year: 2016-2017
-
-Subject: Analog & Digital Communications
-. 7
-
-Marks: 60
-
-Time: 10.00 am to 1.00 pm ;¢
-Durations: 3 (hrs)
-No. of Pages: _2~—
-
-Date: 16 May 2017. <=
-
-Re-Examination
+p
+Date: 16/05/2016 Durations: 3 RQ ay anee™
+Re-Examination 2g
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
@@ -1978,295 +2430,59 @@ e) What is independent side band system? State its application.
 f) Calculate percentage power saving in case of SSB-SC over SSB-FC & DSBFC AM techniques.
 
 Q2. a) Explain Armstrong method for FM generation. [05]
-b) Explain need for modulation in communication. [02]
-c) The co-efficient matrix of a linear block is given as [05]
+b) Explain need for modulation in communication. {02]
+c) The co-efficient matrix ofa linear block is given as [05]
+
 0 1 1
+
 = 1 0 1
+
 1 1 0
-i. Find all code words. [02]
+
+ae
+
+pac i. Find all code words. : [02]
 ii. | Determine error detecting capacity. [01]
-iii. | Determine error correcting capacity [01]
+iii | Determine error correcting capacity [01]
 
-iv. Check whether following received code words are correct or contain errors
-
-Page 1,
-g ys
+iv. | Check whether following received code words are correct or contain errors
 --- page 2 ---
-[01]
-
-@ 001110 @ 111011
+"Yrs @ 001110 @ 111011 [01]
 
 Q3. a) Explain frequency division multiplexing system and state its advantages & disadvantages. [04]
 
-b) Compare PAM,PWM,PPM. [04]
+i
 
-c) In a broadcast - superheterodyne receiver having no RF amplifier, the loaded Q of the antenna
+b) Compare PAM,PWM,PPM . [04]
+
+. c¥ Ina broadcast superheterodyne receiver having no RF amplifier, the loaded Q of the antenna
 coupling circuit (at the input to the mixer) is 100. If the intermediate frequency is 455 kHz ,
 
 calculate (a) the image frequency and its rejection ration at 1000 kHz and )b) the image
+
 frequency and its rejection ration at 25 MHz. [04]
 Q4. a) What are the limitations of tuned radio frequency receiver? Explain super heterodyne radio
 receiver with block diagram and draw the wave form at the output of each block. [6]
-b) Explain MSK [6]
-Q5.Answer the following. ° [12]
-a) Explain the generation of PPM signals with the help neat diagram. |
-b) Explain with the help of block diagram QFSK transmitter & receiver. [6]
-{12]
-
-Q6.Answer the following.
-
+b) Explain MSK . . [6]
+Q5.Answer the following. [12]
+ae
+~ a) Explain the generation of PPM signals with the help neat diagram. [6]
+b) Explain with the help of block diagram BFSK transmitter & receiver. [6]
+Q6.Answer the following. [12]
 a) A sinusoidal carrier voltage of frequency 1MHz and amplitude 100 V is modulated by a
 sinusoidal voltage of frequency 5KHz producing 50% Modulation. Calculate the frequency and
-
 amplitude of USB and LSB.
 [04]
-
 b) State & explain sampling theorem. Explain different techniques of sampling. [04]
 c) Write the disadvantages of DPSK & explain transmitter and receiver of DEPSK. [04]
-Q7.Write Short Hotes on any four of the following. [12]
+Q7. Write Short notes on any four of the following. [12]
 a) Comparison of ASK,FSK,PSK
 b) Image frequency & its rejection.
 c) VSB transmission
-
 d) Intersymbol interference.
-e) Types of digital modulation detection techniques
-
-Page 2 2
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 5f37e8bef510
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICATION BATCH 14-15,15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60
-- Text: ocr (3 pages), mean OCR confidence 79.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) Year: II Semester: IV oo
-ia
-
-Batch: 2014-2015 / 2015-2016 ~~
-
-: ; Academic Year: 2016-2017
-4 Subject: Analog & Digital Communications »”
-
-Marks: 60
-Date: 13 July2017 Time: 10.00,
-Durations: 3 ( 8
-No. of Pages; | ;
-Re-Examination a
-———
-Instructions: Candidates should read carefully the instructions printed on the qt paper
-
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted:
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page. |
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. .
-
-Q1) Attempt any 4 | {12M]
-
-a. Sampling and its types
-
-b. Quantization and Quantization error
-
-c. What is multiplexing and explain TDM in detail
-
-d. Difference between wide band FM and narrow band FM
-e. VSB transmission
-
-Q2) Answer the following :
-
-a. State the receiver properties and explain the block .diagram of super heterodyne [06]
-in detail.
-— b. Explain Differential Pulse Code modulation and its advantages over PCM. [06]
-. Q3) Answer the following :
-
-a. Define direct FM principle and explain Automatic Frequency Control FM transmitter. [06]
-
-b. The co-efficient matrix of a linear block is given as
-
-a [06] - =
-
-/5
---- page 2 ---
-P= 1 0 1
-
-1 1 0
-i. Find all code words. [02]
-ii. Determine error detecting capacity. [01]
-iii. | Determine error correcting capacity- [01]
-
-iv. | Check whether following received code words are correct or contain errors [02]
-® 001110 @ 111011
-
-Q4) Answer the following ?
-
-a. Explain QPSK in detail and Draw its spectrum. [06]
-b. An AM transmitter operating at carrier frequency of IMHZ and modulating frequency of SKHZ
-
-is modulated at 60% depth and delivers a carrier power of 6KW into 1000hms resistor.
-Find total power, peak voltage and RMS voltage. [03]
-c. Distinguish between AM and FM. [03]
-
-Q5) Answer the following «
-
-a. Explain QASK in detail . [06]
-b. Consider an FM signal with : Af = 30 kHz, fm = 20 kHz, Ac = 15 V, Compute and [06]
-draw the spectrum for FM signal.
-i) Calculate modulation index.
-ii) Amplitude of sidebands -
-iii) Approximate minimum B.W using Carson’s rule.
-iv) Plot output spectrum with all values.
-
-Q6) Answer the following «
-
-a. Derive the expression for modulation index of AM in time domain and explain 3 types of
-
-modulation index. [4M]
-b. Explain generation and detection of PWM. [4M]
-c. Explain Types of detection in Digital Communication. [4M]
-pa Q7) Answer any 4 [12M]
-a. PPM
-
-b. What is Sampling and Explain various Conditions.
-c. Difference between M-Ary ASK and M-Ary FSK.
-d. Intersymbol interference.
-
-e. Diode detector
-
-. 2/3
---- page 3 ---
-@] Modulation Carrier
-rex dy
-
-0.9 2,00
-0.25 0.98
-0.94
-
-O.77
-
-51
-
-9.22
-
--0.05
-
-~0.26
-
-~O.40
-
-0.18
-
-0.15
-
-0.30
-
-3
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 3a7560166cbf
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG_AND_DIGITAL_COMMUNICATIONS_BATCH_14-15_15-16_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 04 July 2018
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
-
-Programme: B. Tech (Computer) Year: II Semester: IV
-
-Batch: 2014-15/ 2015-16
-Academic Year: 2017-2018
-
-Subject: Analog & Digital Communications
-“ ; Marks:60 —
-
-Date: 04 July 2018 _- Time: 10.00 am to 1.00 pm
-
-Durations: 3 (Hrs) ~
-
-No. of Pages: _o92— ~
-Re-Examination :
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a ‘fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Answer from the following: :
-
-a) Compare AM, FM and PM. [4]
-b) Draw and explain the working of varactor modulator. (4]
-c) A FM is represented by the following equation [4]
-
-V = 10 Cos[8 x 10°t + 4 sin5000t]
-Find i. carrier and modulating frequencies
-ii. Modulation index and maximum deviation
-iii. the power dissipated by this FM wave in 5 Q resistor
-
-Q.2
-a) What is multiplexing in communication systems? Explain TDM in detail. [6]
-b) What are the properties of a receiver? With the help of a block diagram, explain Tune Radio [6]
-
-Frequency Receiver in detail.
-
-Q.3
-a) Draw and explain FM receiver in detail. [6]
-Sasa b) Explain the generation and detection of PWM signal with block diagram. [6]
-
-: Q.4
-om a) Draw and explain transmitter and receiver block diagram of DPSK in detail. [6]
-b) With the help of block diagram explain Armstrong Method for FM Transmission. [6]
-
-e
---- page 2 ---
-=m
-
-ce
-
-a) Explain Differential Pulse Code Modulation in detail. [6]
-b) State the sampling theorem and explain the different techniques of sampling. [6]
-Q6
-
-a) Explain Quantization with an example. [6]
-b) A modulating signal m(t)=10cos(2xx10%3t)m(t) is amplitude modulated with a carrier [6]
-
-signal c(t)=50cos(27*10St)c(t). Find the modulation index, the carrier power, and the power
-required for transmitting AM wave.
-
-Q.7 Write short notes on any two from the following:
-
-a)’ Explain need for modulation and list different types of modulation techniques [6]
-b) Compare ASK,FSK,PSK [6]
-d) Convolutional code [6]
+e) Linear block codes.
+*
+aes Xx
 ````
 
 ## 2014-15 · Final-Exam · Sem 4 · paper 9267fd1806e6
@@ -2484,117 +2700,113 @@ Gre
 a
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper e3135893fd6a
+## 2014-15 · Re-Exam · Sem 4 · paper 69c8287e4a49
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICATION B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 16/05/2016
-- Text: ocr (2 pages), mean OCR confidence 89.4
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICATION B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 18/05/2015
+- Text: ocr (2 pages), mean OCR confidence 94.2
 
 ````text
-SVEM’s NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Computer) Year: II Semester: IV
+Programme: B. Tech (COMP) Year: II
+Batch: 2013-14
 
-‘ Academic Year: 2015-16 ; —~
-i a :
-Subject: Analog & Digital Communications Marks: 60 (*-
+Semester: IV
 
-Batch: 2014-15 ane
-RY 13
-Time: 10.00 4W®+:00 pm ZG
+Academic Year: 2014-2015
+Subject: Analog & Digital Communication
 
-p
-Date: 16/05/2016 Durations: 3 RQ ay anee™
-Re-Examination 2g
+Date: 18/05/2015
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No.1 is compulsory.
+1. Question No.1 is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2. Out of remaining questions ,attempt any four questions.
 
-3) In all 5 questions to be attempted.
+3 In all five questions to be attempted.
 
-4) All questions carry equal marks.
+4. All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5. Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
+6. Figures in brackets on the right hand side indicate full marks.
 
-Q1. Answer any four of the following. [12]
+Q1 a) Compare FM, AM & PM (6)
+b) Compare DSBFC, DSBSC, SSB,ISB and VSB. (5)
+c) MSK is called ‘Shaped QPSK’. Justify with relevant expression or waveforms. (5)
+d) Compare PAM, PWM and PPM. (5)
+Q2 a) Consider a systematic block code whose parity check equations are (10)
 
-a) Compare TDM & FDM.
+Pl=m1+m2+m4, P2=m1+m3+m4, P3=m1+m2+m3 , P4=m2+m3+m4
+Where mi are message bits and Pi are check bits.
 
-b) Compare source coding and channel coding.
+1) Find generator matrix and parity check matrix for this code.
+2) Find how many errors the code can detect and correct?
 
-c) Explain FSK.
+3) Is the vector 10101010 a code word?
 
-d) How companding reduces quantization error?
+4) Is the vector 01011100 a code word?
 
-e) What is independent side band system? State its application.
+b) Generator vectors for a rate 1/3 convolutional encoder are (10)
+iiaieaaal
 
-f) Calculate percentage power saving in case of SSB-SC over SSB-FC & DSBFC AM techniques.
+gl =(100) , g2=(101) , g3=(111)
+4 1) Draw the encoder diagram.
 
-Q2. a) Explain Armstrong method for FM generation. [05]
-b) Explain need for modulation in communication. {02]
-c) The co-efficient matrix ofa linear block is given as [05]
-
-0 1 1
-
-= 1 0 1
-
-1 1 0
-
-ae
-
-pac i. Find all code words. : [02]
-ii. | Determine error detecting capacity. [01]
-iii | Determine error correcting capacity [01]
-
-iv. | Check whether following received code words are correct or contain errors
+2) Draw trellis diagram.
 --- page 2 ---
-"Yrs @ 001110 @ 111011 [01]
+3) Using trellis find code vector if message vector is (101100).
+4) Using trellis , find message vector if third bit of code vector in part (3) is in error.
 
-Q3. a) Explain frequency division multiplexing system and state its advantages & disadvantages. [04]
+Q3 a) Explain in detail 16-QAM transmitter and receiver system . Also draw signal constellation
 
-i
+diagram for 16.QAM in detail. (10)
+b) Draw and explain transmitter and receiver of 16 ary PSK. Derive expression for bandwidth
+and distance for it. (10)
+Q4 a) Explain Foster-Seeley Detector in detail. (10)
 
-b) Compare PAM,PWM,PPM . [04]
+b) For AM DSBFC transmitter with an unmodulated carrier Power, Pc = 100 W is
+modulated simultaneously with 3 other modulating signals with coefficient index of
+m1 = 0.2, m2 = 0.4, m3 = 0.5, determine the following :-
+a. Total Modulation Index or Coefficient
+b. Upper and Lower sideband power
+c. Total transmitted power
+d. Draw the output frequency spectrum. (10)
 
-. c¥ Ina broadcast superheterodyne receiver having no RF amplifier, the loaded Q of the antenna
-coupling circuit (at the input to the mixer) is 100. If the intermediate frequency is 455 kHz ,
+QS a) Draw a neat diagram of super-heterodyne receiver and explain the function of each block
+in detail. (10)
 
-calculate (a) the image frequency and its rejection ration at 1000 kHz and )b) the image
+b) Ifa FM wave is represented by the equation: V= 10 sin (8x 10°t + 4sin1000t).
+Calculate:
+a) Carrier Frequency
+b) Modulating Frequency
+c) Modulation Index
+d) Maximum deviation
 
-frequency and its rejection ration at 25 MHz. [04]
-Q4. a) What are the limitations of tuned radio frequency receiver? Explain super heterodyne radio
-receiver with block diagram and draw the wave form at the output of each block. [6]
-b) Explain MSK . . [6]
-Q5.Answer the following. [12]
-ae
-~ a) Explain the generation of PPM signals with the help neat diagram. [6]
-b) Explain with the help of block diagram BFSK transmitter & receiver. [6]
-Q6.Answer the following. [12]
-a) A sinusoidal carrier voltage of frequency 1MHz and amplitude 100 V is modulated by a
-sinusoidal voltage of frequency 5KHz producing 50% Modulation. Calculate the frequency and
-amplitude of USB and LSB.
-[04]
-b) State & explain sampling theorem. Explain different techniques of sampling. [04]
-c) Write the disadvantages of DPSK & explain transmitter and receiver of DEPSK. [04]
-Q7. Write Short notes on any four of the following. [12]
-a) Comparison of ASK,FSK,PSK
-b) Image frequency & its rejection.
-c) VSB transmission
-d) Intersymbol interference.
-e) Linear block codes.
-*
-aes Xx
+e) Bandwidth (10)
+Q6 a) Explain FM noise triangle. Explain Pre-emphasis and de-emphasis. (10)
+b) Derive equation for AM wave. Derive equation for total transmitted power , for AM wave
+and draw frequency spectrum for DSBFC . (10)
+Q7. Write shori note on(any four) (20)
+
+1) Sampling theorem for low pass band limited signal
+2) ISI
+
+3) Systematic and non- systematic codes
+
+4) Compare TDM & FDM
+
+5) PCM
 ````
 
 ## 2013-14 · Final-Exam · Sem 4 · paper 8f8280c54dcb
@@ -2712,218 +2924,6 @@ f) Comparison of AM & FM.
 2 2 2 oR Eo ee A
 
 2] 2.
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper bfa790f82100
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICAITONS BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 July 2016
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAG: ING
-
-Programme: B.Tech (Computer) Year: II
-
-Academic Year: 2015-16
-
-Batch: 2013-14
-
-bject: Analog & Digital Communications, Marks: 100
-Subsets Anes ° Time: 10.00 am - 1.00 pm
-Date: 07 July 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-1) Question No.1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-a 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1) Attempt any 4 [20M]
-
-a. Inter symbol Interference
-
-b. Quantization and Quantization error
-
-c. Distinguish between FDM & TDM
-
-d. Define Modulation and Explain need for Modulation
-e. VSB transmission
-
-f. Disadvantages of SSB
-
-Q2) Answer the following
-
-a. State the receiver properties and Explain the Block Diagram of super heterodyne [10]
-in detail.
-b. Explain Differential Pulse Code modulation and its advantages over PCM. {10]
-
-Q3) Answer the following
-
-a. Define direct FM principle and explain FM transmitter with neat bl ock diagram. [10]
-
-b. The co-efficient matrix of a linear block is given as : [10]
---- page 2 ---
-i. Find all code words. [04]
-ii. | Determine error detecting capacity. [02]
-iii. | Determine error correcting capacity [02]
-iv. Check whether following received code words are correct or contain errors [02]
-
-© 001110 © 111011
-
-Q4) Answer the following
-
-a. Explain QASK in detail and Draw its spectrum. [10]
-b. An FM wave is defined below. S(t) = 12 sin(6x108 m t + 5 sin1250 mt) Find the carrier and
-
-modulating frequencies, the modulating index, and the maximum deviation of the FM wave.
-Aiso find the bandwidth of the FM wave. What power will the FM wave dissipate in a 40
-
-‘ohm resistor? And Draw the spectrum
-C10]
-
-Q5) Answer the following
-
-a. Explain MSK in detail . o {10]
-b. Explain FM receiver in detail
-Cio]
-
-Q6) Answer the following
-
-a. Derive the expression for modulation index of AM in time domain and explain 3 types of
-
-modulation index. [7]
-
-b. Explain generation and detection of PPM. [7]
-
-c. Explain Types of detection in Digital Communication. [6]
-
-Q7) Answer any 4 [20]
-a. PWM
-
-b. What is Sampling and explain various Conditions.
-c. Difference between M-Ary ASK and M-Ary FSK.
-d. Envelope detector.
-
-e. AM types -
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 69c8287e4a49
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ANALOG AND DIGITAL COMMUNICATION/ANALOG AND DIGITAL COMMUNICATION B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 18/05/2015
-- Text: ocr (2 pages), mean OCR confidence 94.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: II
-Batch: 2013-14
-
-Semester: IV
-
-Academic Year: 2014-2015
-Subject: Analog & Digital Communication
-
-Date: 18/05/2015
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions ,attempt any four questions.
-
-3 In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q1 a) Compare FM, AM & PM (6)
-b) Compare DSBFC, DSBSC, SSB,ISB and VSB. (5)
-c) MSK is called ‘Shaped QPSK’. Justify with relevant expression or waveforms. (5)
-d) Compare PAM, PWM and PPM. (5)
-Q2 a) Consider a systematic block code whose parity check equations are (10)
-
-Pl=m1+m2+m4, P2=m1+m3+m4, P3=m1+m2+m3 , P4=m2+m3+m4
-Where mi are message bits and Pi are check bits.
-
-1) Find generator matrix and parity check matrix for this code.
-2) Find how many errors the code can detect and correct?
-
-3) Is the vector 10101010 a code word?
-
-4) Is the vector 01011100 a code word?
-
-b) Generator vectors for a rate 1/3 convolutional encoder are (10)
-iiaieaaal
-
-gl =(100) , g2=(101) , g3=(111)
-4 1) Draw the encoder diagram.
-
-2) Draw trellis diagram.
---- page 2 ---
-3) Using trellis find code vector if message vector is (101100).
-4) Using trellis , find message vector if third bit of code vector in part (3) is in error.
-
-Q3 a) Explain in detail 16-QAM transmitter and receiver system . Also draw signal constellation
-
-diagram for 16.QAM in detail. (10)
-b) Draw and explain transmitter and receiver of 16 ary PSK. Derive expression for bandwidth
-and distance for it. (10)
-Q4 a) Explain Foster-Seeley Detector in detail. (10)
-
-b) For AM DSBFC transmitter with an unmodulated carrier Power, Pc = 100 W is
-modulated simultaneously with 3 other modulating signals with coefficient index of
-m1 = 0.2, m2 = 0.4, m3 = 0.5, determine the following :-
-a. Total Modulation Index or Coefficient
-b. Upper and Lower sideband power
-c. Total transmitted power
-d. Draw the output frequency spectrum. (10)
-
-QS a) Draw a neat diagram of super-heterodyne receiver and explain the function of each block
-in detail. (10)
-
-b) Ifa FM wave is represented by the equation: V= 10 sin (8x 10°t + 4sin1000t).
-Calculate:
-a) Carrier Frequency
-b) Modulating Frequency
-c) Modulation Index
-d) Maximum deviation
-
-e) Bandwidth (10)
-Q6 a) Explain FM noise triangle. Explain Pre-emphasis and de-emphasis. (10)
-b) Derive equation for AM wave. Derive equation for total transmitted power , for AM wave
-and draw frequency spectrum for DSBFC . (10)
-Q7. Write shori note on(any four) (20)
-
-1) Sampling theorem for low pass band limited signal
-2) ISI
-
-3) Systematic and non- systematic codes
-
-4) Compare TDM & FDM
-
-5) PCM
 ````
 
 ## 2013-14 · Re-Exam · Sem 4 · paper c892b30f6bc4

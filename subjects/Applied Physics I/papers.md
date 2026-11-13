@@ -986,6 +986,7 @@ g- gravitational acceleration.
 - Source: `02_Question_Papers/Legacy/DIPLOMA/1ST YEAR/Sem_01/APPLIED PHYSICS - i/Applied Physics I Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 Dec 2024
 - Text: ocr (2 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1089,7 +1090,6 @@ BL-2 3 “| dimensions 40 cm and 30 cm, and thickness 3 mm. If its tWo faces are
 ; 40°C and 25°C, K for silver = 0.1 kcal/m °Cs.
 
 CO-1 State the order of magnitude and number of significant figures: [4M]
-BL- 1,2 c. | 0.002565 kg and b) 2056 kg.
 Q7 [2001__
 co a. | Describe the various forms of energy in details. State and explain the principle of
 BL- 1,2 conservation of energy. pial
@@ -1241,6 +1241,7 @@ FSR 2 RRR
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Applied Physics-I/QP_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1346,6 +1347,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Applied Physics-I/QP_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1451,6 +1453,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Applied Physics-I/QP_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1662,7 +1665,7 @@ percentage error.
 FOI KK
 ````
 
-## 2012-13 · Re-Exam · Trim 1 · paper b1a098ba6878
+## 2013-14 · Re-Exam · Trim 1 · paper b1a098ba6878
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1762,63 +1765,7 @@ K
 2) 2.
 ````
 
-## 2012-13 · Re-Exam · Trim 1 · paper 00b5c1c9ac5f
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/APPLIED PHYSICS-I MBA TECH 2012-13 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 13/6/2013
-- Text: text (1 page)
-
-````text
-I   SVKM's NMIMS   --
-Progynme: .-
-Batch:   2012-2013
-Subject:   Applied Physics - I
-(Applied Science - I)
-Date:   13/6/2013   Duration: 3 hrs.
-Re - Examination
-Instructions:
-1) Question No. 1is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted
-4) Answers to each new question to be started on a fresh page.
-5) Figures in bracket on the right hand side indicate fbll marks.
-Q.1
-a) Define unit cell and coordination number.
-b) Give any four applications of superconductors.
-c) What is the meaning conduction band and valence band.
-d) State Heisenberg's uncertainty principle.
-e) Explain any two applications of the CRO.
-Q.2 Define and derive the following terms for BCC crystal lattice
-i) atomic radius, ii) coordination number, iii) APF, iv) Void space, v) Density.
-4.3   ,
-a) Draw a neat energy band diagram of p-type semiconductor. Label the various energy level.
-Derive the expression for Fermi level of p-type semiconductor.   (06)
-b) What do you understand by extrinsic semiconduct~r?   (04)
-4.4
-a) Explain the types of superconductors.
-I   b) Explain the Meissner effect.
-Q.5
-a) Explain the Davison and Genner experiment.   (08)
-b) Explain the Compton effect in brief.   (02)
-a
-Q-6
-Derive an expression for elm of an electron using crossed electric and magnetic fields in a
-cathode ray tube.   (10)
-4.7
-i) The transition temperature for lead is 7.26 K. The maximum critical field for the material is
-8x10' A/m.Lead has to be used as a superconductor subjected to a magnetic field of 4x10~ A/m.
-What precaution will have to be taken?   (03)
-ii) An electron beam passes through magnetic field of 2x1 0" wb/m2 and electric field of 3.4~10~ Vlm
-both actingsimultaneously at the same point. The path of electrons remain unchanged. Calculate
-the electron speed. If the electric field is switched ofF, what will be the radius of circular path?
-(Given e=1.6~10-'~ C, m,=9.1xl0~" Kg)   (04)
-iii) An electron has a speed of 600 mls wirh an accuracy of 0.005%. Calculate the certainty with
-which we can locate the position of the electron.   (03)
-````
-
-## 2012-13 · Re-Exam · Trim 1 · paper 6d0f736c8aab
+## 2013-14 · Re-Exam · Trim 1 · paper 6d0f736c8aab
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1931,7 +1878,7 @@ Determine the critical temperature when the isotope mass change to
 [5]
 ````
 
-## 2012-13 · Re-Exam · Trim 1 · paper 7b949929bb3e
+## 2013-14 · Re-Exam · Trim 1 · paper 7b949929bb3e
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -2007,6 +1954,468 @@ c. Sketch the miller planes (121), (223) and directions [121], [223] (2M)
 ae K
 
 L.
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper 6ce748d43e96
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/scan0001(21).pdf`
+- Printed on paper: max marks: 50; duration hours: 3; exam date: 30/10/2012
+- Text: ocr (1 page), mean OCR confidence 87.5
+
+````text
+SCHgs
+<
+
+“N
+
+yet
+rs
+ee N
+
+> SVKM'S
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineer Vr ‘ioe de}
+Programme: B.TECH -ALL STREAM Year: I Trimester: at WBRARY DE
+Academic Year : 2012-2013 SS 2,
+Batch: 2010-11 ne UIAY
+Subject: APPLIED PHYSICS — 1 (APPLIED Science-1) Marks: 50 — anaes
+Time: 2.00 pm To 5.00 pm
+
+Date: 30/10/2012 Duration: 3 hrs.
+: Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the answer book, which is provided for their use.
+Note:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining six questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicate full marks.
+
+la. Define Miller indices. (2M)
+b. Explain p-type semiconductors. (2M)
+c. Write a note on measurement of AC voltage using CRO. (2M)
+d. Explain de Broglie waves. (2M)
+e. Give any four applications of superconductors. (2M)
+2. Derive atomic packing factor in SC and BCC structure. (10 M)
+3. Explain the classification of solids on the basis of band theory. (10 M)
+} 4a. Explain the theory of Cathode Ray Oscilloscope (CRO). (5M)
+b. Write a note on electrostatic focusing system. (5M)
+5a. Explain Davisson and Germer experiment. (5M)
+b. Write a note on photoelectric effect. (5M)
+6a. Explain Meissner effect (diamagnetic property) in detail. (4M)
+b. Give any three properties of superconductors. (6 M)
+j
+\ ‘Ja. Silver has FCC structure. Its atomic radius is 1.41 A°. Find the lattice constant.
+v ) Also find the spacing between (232) planes. (3M)
+b. The resistivity of Si is 6.3 x10‘ ohm-m at 297 K. Calculate the intrinsic carrier
+concentration. Given: p= 0.19 m’/ V.s and p= 0.05 m’/V.s. (2M)
+
+c. Determine the magnetic field required to bend a beam consisting of electrons
+of speed 3.5 x 10’ m/s in a circle of radius 7.5 cm.
+Given: m= 9.1 x 10°! kg and e= 1.6 x 10°C. (2M)
+d. Calculate the de Broglie wavelength of 1.95 KeV electron.
+‘ke and h=6.63x 10™ J.s (3M)
+
+—%
+Vy
+
+Given: m = 9.1 x 10
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper 016acd69cb11
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/scan0002(18).pdf`
+- Printed on paper: max marks: 50; duration hours: 3; exam date: 30/10/2012
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+—o
+
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: B.TECH -ALL STREAM Year: I Trimester: I
+: Academic Year : 2012-2013
+
+Batch: 2010-11
+
+Subject: APPLIED CHEMISTRY - I (arpiien Scjenét) Marks: 50
+Time: 2.00 pm
+
+Date: 30/10/2012 Duration: 3 hrs.
+
+Re - Examination
+
+e Please read instructions carefully.
+
+e Question No. 1 is compulsory.
+
+e Attempt any four questions from the remaining five.
+
+e All questions carry equal marks; that is 10marks each.
+
+e Answer to each new question to be written on a fresh page.
+
+1 a) Write reactions with reactant name for synthesis of nylon66. 2 marks
+b) Discuss structure of graphite. each
+c) What is meant by radioactive conditioning of hard water?
+d) Distinguish between scale and sludge.
+e) Give two applications of smectic liquid crystals.
+2 a) Discuss ion exchange process of hard water purification with schematic diagram. 5 marks
+b) An exhausted zeolite softener was regenerated by passing 70 litres of NaCl eae
+solution. If 20,000 liters of water is purified by zeolite softener and hardness of
+j water was 200 ppm what was the strength of NaCl solution.
+3 a) Calculate the amount of lime (85% pure) and soda (90% pure) required for 5 marks
+softening of 50,000 litres of hard water sample containing CaSO, = 27.2 mgs/It, each
+MgCl = 47.5 mg/Its, KCI = 2.3 mgs/It, FeCl; = 13.35. mgs/It and H»SO, =1.825
+mgs/lIt.
+| b) What are conducting polymers? Discuss various types of conducting polymers
+‘ ¥ ) with example?
+4 a) 0.5g of CaCl, was dissolved in dil HCI and diluted to 500 ml. 50 ml of this 5 marks
+
+solution consumed 20 ml of EDTA. 50 ml of water sample consumed 30 ml of
+
+the same EDTA solution using EBT. After boiling 50 ml of same water sample
+
+Yh.
+--- page 2 ---
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+required 10 ml of EDTA. Calculate the each type of hardness in ppm .
+What is hard water? What salts are responsible for hardness? Why soap does not
+
+give lather with soap?
+
+Give preparation, properties and uses of pheno! formaldehyde resin and silicone
+rubber.
+
+Discuss the general chemical structural features of liquid crystals.
+
+What are the drawbacks of natural rubber? Explain the role of sulphur in
+removing these drawbacks. :
+
+Why properties of material changes drastically at nano scale level? How nano
+technology is useful in drug delivery, material science and drinking water
+
+purification?
+
+5 marks
+each
+
+5 marks
+each
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper 1640f0a54014
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/scan0004(13).pdf`
+- Printed on paper: duration hours: 3; exam date: 30/10/2012
+- Text: ocr (1 page), mean OCR confidence 85.7
+
+````text
+SVKM’s NMIMS
+' Mukesh Patel School of Technology Management & Engineering
+Programme: B.TECH -ALL STREAM Year: I Trimester: I
+Academic Year : 2012-2013
+
+el Sc
+ge x 00,
+“Noe
+
+Batch: 2011-12 _ 3 SVKM’S *
+Subject: APPLIED PHYSICS - I Marks: ile) ee ar
+
+(APPLIED SCTEN(E-L) Time: 2.00 pm J{00 PEsrary 6. dz
+Date: 30/10/2012 Duration: 3 hrs. I=
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question pape
+on the cover of the answer book, which is provided for their use.
+NB: .
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each question to be started on a fresh paper.
+6. Figures on the right hand side indicate full marks.
+7. Assume suitable data if necessary.
+
+Q1. Attempt any five questions:-
+
+A Define Atomic Packing Factor (APF). 02
+
+B What is Point imperfection in crystals? 02
+
+C Show the position of Fermi level in p -type and n-type semiconductors at room 02
+temperature.
+
+D __ State Heisenberg uncertainty principle. 02
+
+E How to measure AC voltage using CRO? 02
+
+F What is Superconductivity? 02
+
+G What is critical magnetic field in superconductors? 02
+
+Q2 A __ Explain the classification of metals, semiconductors and insulators from the band 06
+
+theory.
+i B Explain the formation of p-n junction. 04
+Q3 A _ Derive the number of atoms per unit cell, co-ordination number, atomic radius and 10
+
+atomic packing fraction in simple cubic structure.
+
+Q4 A _ Explain the construction of Cathode Ray Tube. 06
+B Write in short any two applications of CRO. 04
+Q5 A _ Explain type-I and type-II superconductor. 05
+B ; Write a note on BCS theory. 05
+Q6 Ay ) Describe Davison and Germer Experiment for wave nature of electrons. 06
+B*   Anelectron beam passes through a magnetic field of 2.1 x 10° wb/m? and an electric 04
+
+field of 5 x 104 v/m simultaneously. If the paths of electrons remain undeviated,
+determine the speed of electron.
+
+Q7 A The resistivity of Ge is 6.7 x 10* Ohm-m at 305 K. Calculate the intrinsic carrier 04
+concentration 11, = 0.16 m’/ Vs and Lp = 0.068 m7/ Vs.
+
+B Derive the critical radius ratio for ligancy 6. 04
+
+C Sketch Miller planes (123) and (221). : 02
+
+- a
+
+|
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper da765ada7dc0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/scan0016(8).pdf`
+- Printed on paper: duration hours: 3; exam date: 30/10/2012
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+SVKM’s NMIMS ool’
+Mukesh Patel School of Technology Management & Engineering
+
+Progranime: MBA (TECH) -ALL STREAM Year: I Trimester: I
+
+Academic Year : 2012-2013
+
+&,
+
+Batch: 2011-12 _ 3 see \*
+Subject: APPLIED PHYSICS - I Marks: BO Mumba ee” Ye
+
+CAPPLIED ScTENCE-D) Time: 10.00 =
+Date: 30/10/2012 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the ques
+the cover of the Answer Book, which is provided for their use.
+Note: (i) Question No. one is compulsory.
+
+(ii) Answer any four questions out of the remaining six questions.
+
+(iii) In all five questions to be attempted.
+
+(iv) All questions carry equal marks.
+
+(v) Answer to each new question to be started on a fresh page.
+
+(vi) Figures in bracket indicate full marks.
+
+(vii) Assume suitable data if necessary.
+
+1 Answer any five [02 x 05]
+(a) What is the importance of critical radius ratio?
+(b) Name the different types of point defects.
+(c) What is the function of trigger circuit in a cathode ray oscilloscope?
+(d) Define Fermi Level.
+(e) State two applications of superconductors.
+(f) Define phase velocity and group velocity.
+(g) What is photo electric effect?
+
+2 (a) For body centered cubic lattice, find the number of nearest neighbors, the nearest neighbor
+distance and calculate the packing factor. [5]
+
+(b) Sodium crystallizes in a cubic lattice. The edge of the unit cell is 4.3 A°. The density of Na is 963
+Kg/m? & its atomic weight is 23. How many atoms are obtained in one unit cell? Which type of unit
+
+r cell is formed? (Given: Avogadro number = 6.023 x 107 / gm. mol) : [5]
+}
+
+3 (a) Explain the classification of metals, semiconductors and insulators based on the band theory. [6]
+
+(b) Explain the variation of Fermi level with temperature for a p-type semiconductor. [4]
+
+4 (a) Explain the principle of electrostatic focusing. [5]
+
+(b) An electron passes through a magnetic field of 2 x 10° wb/m? and an electric field of 3.4 x 10*
+V/m acting simultaneously over a same region. The electric field, magnetic field and the velocity of
+electron are mutually perpendicular to each other. If the path of electron remains undeviated, calculate
+oe speed of electron. What will be the radius of electron path if the electric field is switched off? [5]
+
+Cqiven Me = 41x wr3l leg , Yahexion lic)
+? fp Explain the uncertainty principle in detail and state some of its consequences. [5]
+
+b) Wavelength of characteristic X-rays from a copper: target. is 1.55 A°. Through what potential
+difference must an electron be accelerated to have the same de Broglie wavelength? Given Mme = 9.1 x
+107) kg, q=1.6x 10°C. [5]
+
+6 Explain the concept of superconductivity. Explain following terms associated with superconductivity:
+
+(i) critical temperature, (ii) critical magnetic field, (iii) Type I superconductor, and (iv) Type II
+superconductor. [10]
+
+Yo
+--- page 2 ---
+7 (a) What are the Miller indices? How planes having different intercepts can have similar miller
+
+indices. Explain with suitable examples. . [5] |
+(b) A charged drop is just floating in a uniform electric field of 300 V/cm. Find the charge on it |
+
+assuming it’s mass to be 9.77 x 10” gm. [3]
+(c) State de-Broglie concept of matter waves. ; [2]
+
+vw!
+````
+
+## 2012-13 · Re-Exam · Trim 1 · paper 0c8dc79e954d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/APPLIED PHYSICS-I MBA TECH 2011-2012 RE EXAM.pdf`
+- Printed on paper: max marks: 50; duration hours: 3; exam date: 13/6/2013
+- Text: text (1 page)
+
+````text
+1.-
+--,-   SVKM's NMIMS
+Programme:
+-   Academic Year :2012-2013
+Batch:   201 1-2012
+Subject:   Applied Physics - I   Marks:   50   u
+(Applied Science - I)   Time:   10.00 am To 1.00 pm
+Date:   13/6/2013   Duration: 3 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the answer book, which is provided for their use.
+1. Questi~r~n No. 1 is compulsory.
+2. Out of remaining six questions, attempt any four questions.
+3. In all five questions to be attempted.
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicate full marks.
+Qla. Define Miller indices.
+b. Defme doping in semiconductors.
+c. Measurement of AC voltage using CRO.
+d. State Photoelectric effect.
+e. Give any four applications of superconductors.
+Q2a. Calculate the number atoms per unit cell, atomic radius and atomic packing
+factor in SC structure.   (7)
+b. Calculate Critical radius ratio for ligancy 8.   (3)
+Q3a. Describe the formation of p n junction and the effect of forward biasing.   (7)
+b. The resistivity of Si is 6 x104 ohm-m at 297 K. Calculate the intrinsic
+carrier concentration. Given: b=0.19 m2I V.s and ph= 0.05 m2/ V.S.   (3)
+I
+Q4a. Explain the motion of electron in parallel electric field.
+b. Determine the magnetic field required to bend a beam consisting of
+electrons of speed 3.3 x 10' m/s in a circle of radius 7.5 cm.
+Given: m = 9.1 x 10"'kg and e = 1.6 x 10-l9C.   4p
+Q5a. Describe Davisson and Germer experiment.
+b. Calculate the de Bro lie wavelength of 1.95 KeV electron.
+Given: m = 9.1 x 10-$1 kg and h = 6.63 x   J.s
+Q6a. Explain Meissner effect (diamagnetic property) of superconductors.   (2)
+b. Explain BCS theory of superconductors.   (5)
+c. Calculate the critical current (Ic) for 0.16 cm diameter wire of lead (Pb) at 4.2 K.
+Tc (Pb) = 7.16 K and Ho (Pb) = 6 x lo4 Alm.   (3)
+Q7a. Explain point and line defects in crystals.   (4)
+b. Define Heisenberg uncertainty principle.   (2)
+c. Explain intrinsic (pure) semiconductor and its Fermi level position.   (4)
+````
+
+## 2012-13 · Re-Exam · Trim 1 · paper 00b5c1c9ac5f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/APPLIED PHYSICS-I MBA TECH 2012-13 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 13/6/2013
+- Text: text (1 page)
+
+````text
+I   SVKM's NMIMS   --
+Progynme: .-
+Batch:   2012-2013
+Subject:   Applied Physics - I
+(Applied Science - I)
+Date:   13/6/2013   Duration: 3 hrs.
+Re - Examination
+Instructions:
+1) Question No. 1is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted
+4) Answers to each new question to be started on a fresh page.
+5) Figures in bracket on the right hand side indicate fbll marks.
+Q.1
+a) Define unit cell and coordination number.
+b) Give any four applications of superconductors.
+c) What is the meaning conduction band and valence band.
+d) State Heisenberg's uncertainty principle.
+e) Explain any two applications of the CRO.
+Q.2 Define and derive the following terms for BCC crystal lattice
+i) atomic radius, ii) coordination number, iii) APF, iv) Void space, v) Density.
+4.3   ,
+a) Draw a neat energy band diagram of p-type semiconductor. Label the various energy level.
+Derive the expression for Fermi level of p-type semiconductor.   (06)
+b) What do you understand by extrinsic semiconduct~r?   (04)
+4.4
+a) Explain the types of superconductors.
+I   b) Explain the Meissner effect.
+Q.5
+a) Explain the Davison and Genner experiment.   (08)
+b) Explain the Compton effect in brief.   (02)
+a
+Q-6
+Derive an expression for elm of an electron using crossed electric and magnetic fields in a
+cathode ray tube.   (10)
+4.7
+i) The transition temperature for lead is 7.26 K. The maximum critical field for the material is
+8x10' A/m.Lead has to be used as a superconductor subjected to a magnetic field of 4x10~ A/m.
+What precaution will have to be taken?   (03)
+ii) An electron beam passes through magnetic field of 2x1 0" wb/m2 and electric field of 3.4~10~ Vlm
+both actingsimultaneously at the same point. The path of electrons remain unchanged. Calculate
+the electron speed. If the electric field is switched ofF, what will be the radius of circular path?
+(Given e=1.6~10-'~ C, m,=9.1xl0~" Kg)   (04)
+iii) An electron has a speed of 600 mls wirh an accuracy of 0.005%. Calculate the certainty with
+which we can locate the position of the electron.   (03)
 ````
 
 ## 2011-12 · Exam not stated · Trim 1 · paper b64c0981799b
@@ -2223,6 +2632,72 @@ velocity. (03)
 i
 ````
 
+## 2011-12 · Re-Exam · Trim 1 · paper c825f1da60bb
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/APPLIED PHYSICS I BATCH 2009-10-10-11 RE EXAM0001.pdf`
+- Printed on paper: exam date: 14/06/2012
+- Text: ocr (1 page), mean OCR confidence 90.7
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: I
+2004- \0{ 2ele-1) Academic Year : 2011-2012
+Batch: 2011-201 :
+
+Subject: Applied Physics - I Marks:
+Time:
+
+Date: 14/06/2012 Duration} ;
+Re - Examination \\
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining six questions, attempt any four questions.
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicate full marks.
+
+la. Define Critical radius ratio in ionic crystal. (2M)
+b. What are n-type semiconductors ? (2M)
+c. Give any two uses of CRO. (2M)
+d. What are de Broglie waves ? (2M)
+e. Define critical or transition temperature in superconductors. (2M)
+
+2. What are the number atoms per unit cell, co-ordination number,
+
+atomic radius and atomic packing factor in FCC structure ? (10 M)
+3a. Explain the formation of energy bands in solids. (5 M)
+b. Explain classification of solids into conductors and semiconductors on the
+basis of band theory. (5 M)
+4. Explain the motion of electron in perpendicular electric field. (10 M)
+5a. Write a note on photoelectric effect. (5 M)
+b. Explain Heisenberg’s uncertainty principle with an.experimental illustration. (5 M)
+}
+‘ 6d. Explain Type II superconductors. (5M)
+qe} Write a note on BCS theory. (5M)
+
+7a. For a particle with charge 2.3 x 10° C is injected into a transverse magnetic
+field of 2.2 Wb/m? with velocity 5.6 x 10° m/s. Calculate the force onthe
+particle. . (2M)
+b. Determine the magnetic field required to bend a beam consisting of electrons
+of speed 3.2 x 10’ m/s in a circle of radius 7.3 cm.
+Given: m= 9.1 x 10°! kg and e= 1.6 x 10°C. (3M)
+c. An electron is moving with a velocity 2.4 x 10° m/s and uncertainty in
+its measurements is 5 %. Find the uncertainty in the position of electron.
+
+Given: m=9.1x 10%'kg and h=6.63x 10™ J.s. (2M)
+d. Calculate the critical current (Ic) for 0.2 cm diameter wire of lead (Pb) at 4.2 K.
+Tc (Pb) = 7.16 K and Ho (Pb) =6 x 10* A/m. (3M)
+
+fh
+````
+
 ## 2011-12 · Re-Exam · Trim 1 · paper bcedde29e304
 
 - Departments: Common (all branches)
@@ -2404,57 +2879,319 @@ of 0.0 16 m. Calculate the deflection produced in the electron path due to the
 transverse electric field.
 ````
 
-## 2011-12 · Re-Exam · Trim 1 · paper 0c8dc79e954d
+## 2011-12 · Re-Exam · Trim 1 · paper e7ce379c1bda
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/applied physics 2009-2010 re exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 3/11/2011
+- Text: ocr (1 page), mean OCR confidence 91.1
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: B.TECH - ALL STREAMS Year: I Trimester: I
+
+Academic Year : 2011-2012
+
+Batch: 2009-10
+Subject: APPLIED PHYSICS - I Marks: - SO
+
+Time: 2.00 pm To 5.00 pm
+Date: 3/11/2011 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+N.B:
+
+(1) Question no 1 is compulsory
+
+(2) Out of remaining six questions, attempt any four questions.
+
+(3) In all five questions to be attempted.
+
+(4) All questions carry equal marks
+
+(5) Answer toe each new question to be started on a fresh page.
+
+(6) Figure in brackets indicates full marks.
+
+1. i) Define magnetic Flux Density. [2 M]
+
+ii) What is point imperfection in crystals? [2 M]
+
+iii) What do you understand by space lattice? (2 MJ]
+
+iv) What is photoelectric effect? (2 M]
+
+v) Define Fermi energy level in semiconductor. [2 M]
+
+2. Explain the variation of Fermi level in (a) p type (b) n type semiconductors
+
+with temperature. (10M.
+3. i) Explain the construction and working of CRO. [6h]
+ii) Explain the motion of electron in crossed fields. [4 M,
+
+4. Derive the number of atoms per unit cell, co-ordination number, atomic radius
+
+and atomic packing factor for FCC lattice structure. [10 M]
+5. 1) Explain Heisenberg’s uncertainty principle in detail. [4 M]
+ii) Explain the Davission and Germer experiment for wave nature of electron. [6 M]
+6. 1) Define and explain Meissner effect in superconductors. [4 M]
+ii) What is the significance of critical temperature, critical magnetic field,
+} and critical current density for superconductors? [6 M]
+7d ) 7. i) Calculate the De Broglie wavelength of 1 keV electron. (3 M]
+
+Given: h = 6.63 x 10°" J.s andm=9.1 x 10°! kg.
+ii) The critical temperature of a given superconducting sample is 1.19K with
+mass 26.91. Determine the critical temperature when the isotop mass
+changes to 32.13. (2 M]
+iii) Calculate the impact velocities of an electron accelerated through 100 V and a
+proton accelerated through 1000 V (e=1.6x 10° C, m,. = 9.1 x 107! kg,
+mp = 1.67 x 10?’ kg) [5 M]
+
+Xx
+
+/)
+````
+
+## 2011-12 · Re-Exam · Trim 1 · paper 81b289e6f3d2
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/APPLIED PHYSICS-I MBA TECH 2011-2012 RE EXAM.pdf`
-- Printed on paper: max marks: 50; duration hours: 3; exam date: 13/6/2013
-- Text: text (1 page)
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/APPLIED PHYSICS I BATCH 2010-11 RE EXAM0001.pdf`
+- Printed on paper: exam date: 14/06/2012
+- Text: ocr (1 page), mean OCR confidence 94.0
 
 ````text
-1.-
---,-   SVKM's NMIMS
-Programme:
--   Academic Year :2012-2013
-Batch:   201 1-2012
-Subject:   Applied Physics - I   Marks:   50   u
-(Applied Science - I)   Time:   10.00 am To 1.00 pm
-Date:   13/6/2013   Duration: 3 hrs.
+SVKM’s NMIMS
+
+: Mukesh Patel School of Technology Management & Engineering
+Programme: MBA-Tech Year: I Trimester: I
+
+Academic Year : 2011-2012
+
+Batch: 2010-2011 |
+Subject: Applied Physics - I Marks:
+Time:
+Date: 14/06/2012 Duration wi aoe
+
 Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+cover of the Answer Book which is provided for their use.
+Note: (i) Question No. one is compulsory.
+(ii) Answer any four questions out of the remaining six questions.
+(iii) In all five questions are to be attempted.
+(iv) All questions carry equal marks.
+(v) Answer to each new question is to be started on a fresh page.
+(vi) Figures in bracket indicate full marks.
+(vii) Assume suitable data if it is necessary.
+
+1 Answer any five: [02 x 05]
+(a) Define a unit cell.
+(b) Define point defect.
+(c) Define energy gap.
+(d) Define Fermi Level.
+(e) Define critical temperature for a superconductor.
+(f) Define group velocity.
+(g) What is photo-electric effect?
+
+2 (a) What are Miller indices? Explain the steps to-obtain Miller indices of any crystal plane. 15
+(b) Copper has FCC structure and the atomic radius is 1.278 A. Calculate its density.
+{Given: atomic weight = 63.54; Avogadro number = 6.023 x 1073 / gm. mol) [5]
+3 (a) Explain the classification of metals, semiconductors and insulators from the band theory. [6]
+(b) Explain the formation of depletion layer in a p-n junction. [4]
+4 (a) Give an outline of the construction of a cathode ray tube. [6]
+(b) Obtain expressions for the radius and pitch of a helical path traversed by a charged particle when
+it enters a uniform magnetic field at an acute angle @ with the direction of the field. [4]
+5 (a) Describe Davison and Germer experiment. [5]
+(b) culate the percentage uncertainty in the determination of momentum of a particle having
+energy 10 keV if it is located within 1A. Given m = 1.82 x 10° 8 ko, [5]
+6 (a) How do Type I and Type II superconductors differ from each other? ; [6]
+(b) State and explain Meissner effect. {4]
+7 (a)) Determine the critical radius ratio for ligancy 6. [5]
+
+(b) An electron beam is accelerated through a potential difference of 150 V. Then it is made to pass
+through a uniform electric field established perpendicular to its path by a set of rectangular plates of
+length 10 cm. The distance between the plates is 1 cm. and P.D. is 20 V. determine the angle of
+deflection of the electron beam. [5]
+````
+
+## 2010-11 · Exam not stated · Trim 1 · paper ef0895b41513
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/APPLIED PHYSICS I BACTH 2008-2009.pdf`
+- Printed on paper: duration hours: 3; exam date: 16/06/2011
+- Text: ocr (1 page), mean OCR confidence 92.9
+
+````text
+IN SVKM’s NMIMS
+; Mukesh Patel School of Technology Management & En:
+Programme: B.Tech (ALL STREAMS) Year: I Trimester:
+Academic Year : 2010-2011
+
+Batch: 2008-2009
+Subject: Applied Physics - I Marks:
+Time:
+Date: 16/06/2011 Duration: 3 hrsv,
+Re - Examination SS
+Instructions: Candidates should read carefully the instructions printed on the question paper
+cover of the Answer Book, which is provided for their use.
+N.B:
+(1) Question no | is compulsory
+(2) Out of remaining six questions, attempt any four questions.
+(3) In all five questions to be attempted.
+(4) All questions carry equal marks
+(5) Answer to each new question to be started on a fresh page.
+(6) Figure in brackets indicates full marks.
+
+10.00 am To 1.00 pm
+
+and on the
+
+Que 1. Attempt any five of the following
+i) What are grain boundaries in crystals?
+ii) How frequency of a signal is measured on CRO?
+iii) What is the law of intermediate metals?
+iv) Deduce Heisenberg’s uncertainty principle for energy and time.
+v) Explain the concept of hole current.
+vi) What do you understand by space lattice?
+vii) What is Thomson effect?
+
+Que 2. Derive the number of atoms per unit cell, co-ordination number, atomic radius and
+atomic packing factor for FCC lattice structure.
+
+Que 5, i) Write a short note on thermopile.
+ii) Explain Seeback effect and Peltier effect in detail.
+
+Que 4. i) Obtain an expression for the motion of a charged particle parallel to electrical field.
+ii) What is the basic principle of electrostatic focusing? ;
+
+Que 5. Define Fermi level in semiconductor. Explain with diagrams the positions of Fermi
+levels in intrinsic semiconductor and extrinsic semiconductor.
+
+Que 6. What is photoelectric effect? Explain the effect of potential difference between
+two electrodes, intensity of incident radiation, frequency of incident radiation and
+the photometal used on emission of electrons
+
+Que 7. i) Calculate the impact velocities of an electron accelerated through 100 volts
+and a proton accelerated through 1000 V. (e = 1.6 x 107° C, m.=9.1 x 107! kg,
+Mp = 1.67 x 10” kg)
+ii) Silver has FCC monoatomic structure. Its atomic radius is known to be 1.441 A.
+Find the spacing of (220) and (200) planes.
+iii) Find the energy of neutron in units of electron volts whose De Broglie wavelength
+is 1A. (1m, = 1.674 x 107’ kg, h= 6.62 x 10 JS).
+
+#/
+
+[2]
+[2]
+[2]
+[2]
+[2]
+[2]
+[2]
+[10]
+
+[4]
+[6]
+
+{6]
+[4]
+
+[10]
+
+[10]
+
+[4]
+
+[4]
+[2]
+````
+
+## 2010-11 · Exam not stated · Trim 1 · paper 0712dd57991a
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/APPLIED PHYSICS I BATCH 2009-2010.pdf`
+- Printed on paper: max marks: 50; duration hours: 3; exam date: 16/06/2011
+- Text: ocr (1 page), mean OCR confidence 92.1
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering \
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: ( |
+jj
+
+Academic Year : 2010-2011
+
+px]
+\
+
+Batch: 2009-2010 rs
+Subject: Applied Physics - I Marks: 50. /
+
+Time: 10.00-am To 1.00 pm
+Date: 16/06/2011 Duration: 3 hrs.
+
+Re - Examination
+
 Instructions: Candidates should read carefully the instructions printed on the
 question paper and on the cover of the answer book, which is provided for their use.
-1. Questi~r~n No. 1 is compulsory.
+Note:
+
+1. Question No. 1 is compulsory.
+
 2. Out of remaining six questions, attempt any four questions.
+
 3. In all five questions to be attempted.
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicate full marks.
-Qla. Define Miller indices.
-b. Defme doping in semiconductors.
-c. Measurement of AC voltage using CRO.
-d. State Photoelectric effect.
-e. Give any four applications of superconductors.
-Q2a. Calculate the number atoms per unit cell, atomic radius and atomic packing
-factor in SC structure.   (7)
-b. Calculate Critical radius ratio for ligancy 8.   (3)
-Q3a. Describe the formation of p n junction and the effect of forward biasing.   (7)
-b. The resistivity of Si is 6 x104 ohm-m at 297 K. Calculate the intrinsic
-carrier concentration. Given: b=0.19 m2I V.s and ph= 0.05 m2/ V.S.   (3)
-I
-Q4a. Explain the motion of electron in parallel electric field.
-b. Determine the magnetic field required to bend a beam consisting of
-electrons of speed 3.3 x 10' m/s in a circle of radius 7.5 cm.
-Given: m = 9.1 x 10"'kg and e = 1.6 x 10-l9C.   4p
-Q5a. Describe Davisson and Germer experiment.
-b. Calculate the de Bro lie wavelength of 1.95 KeV electron.
-Given: m = 9.1 x 10-$1 kg and h = 6.63 x   J.s
-Q6a. Explain Meissner effect (diamagnetic property) of superconductors.   (2)
-b. Explain BCS theory of superconductors.   (5)
-c. Calculate the critical current (Ic) for 0.16 cm diameter wire of lead (Pb) at 4.2 K.
-Tc (Pb) = 7.16 K and Ho (Pb) = 6 x lo4 Alm.   (3)
-Q7a. Explain point and line defects in crystals.   (4)
-b. Define Heisenberg uncertainty principle.   (2)
-c. Explain intrinsic (pure) semiconductor and its Fermi level position.   (4)
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicate full marks.
+
+1 a. Define unit cell. (2M)
+b. Define Fermi energy in semiconductors. (2M)
+c. Give any two uses of CRO. (2M)
+d. What are de Broglie waves ? (2M)
+e. What is Meissner effect in superconductors ? (2M)
+
+2a. What are the number atoms per unit cell and co-ordination number
+
+in BCC structure ? (GM)
+b. Derive the critical radius ratio for ligancy 8. (3 M)
+c. Write a note on line imperfections in crystals. (4M)
+
+3a. Explain the variation of Fermi level with temperature and doping
+
+concentration in p-type semiconductors. (5M)
+b. Explain the effect of forward and reverse bias of p-n junction. (5 M)
+4a. Explain magneto static deflection. (5 M)
+b. Write a note on electrostatic focusing system. (5 M)
+5a. Give an experimental illustration of Heisenberg’s uncertainty principle. (4M)
+b. What is phase velocity and group velocity of de Broglie waves ? (6M)
+6. Explain Type I and Type II superconductors. (10 M)
+Ta. Sketch the Miller plane (124) and Miller direction [232] in SC unit cell. (2M)
+b. The resistivity of Si is 6.5 x10* ohm-m at 308 K. Calculate the intrinsic carrier
+concentration. ,= 0.15 m?/V.s and Hp = 0.044 m’/V.s (3 M)
+c. Calculate the critical current (Ic) for 0.18 cm diameter wire of lead (Pb) at 4.2 K.
+Tc (Pb) = 7.18 K and Ho (Pb) = 6.2 x 10° A/m. (3M)
+
+d. An electron beam passes through a magnetic field of 2 x 10° wb/m?
+and an electric field of 2.5 x 10* V/m acting simultaneously over the
+same region. If the path of the electrons remains un-deviated, calculate
+the velocity of the electrons. (2M)
+
+/
 ````
 
 ## 2010-11 · Exam not stated · Trim 1 · paper 9136310fc5b6
@@ -2721,363 +3458,7 @@ of concentration 2 X 10 '7 atoms/cm?
 @)
 ````
 
-## 2010-11 · Re-Exam · Trim 1 · paper 81b289e6f3d2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/APPLIED PHYSICS I BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: exam date: 14/06/2012
-- Text: ocr (1 page), mean OCR confidence 94.0
-
-````text
-SVKM’s NMIMS
-
-: Mukesh Patel School of Technology Management & Engineering
-Programme: MBA-Tech Year: I Trimester: I
-
-Academic Year : 2011-2012
-
-Batch: 2010-2011 |
-Subject: Applied Physics - I Marks:
-Time:
-Date: 14/06/2012 Duration wi aoe
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-cover of the Answer Book which is provided for their use.
-Note: (i) Question No. one is compulsory.
-(ii) Answer any four questions out of the remaining six questions.
-(iii) In all five questions are to be attempted.
-(iv) All questions carry equal marks.
-(v) Answer to each new question is to be started on a fresh page.
-(vi) Figures in bracket indicate full marks.
-(vii) Assume suitable data if it is necessary.
-
-1 Answer any five: [02 x 05]
-(a) Define a unit cell.
-(b) Define point defect.
-(c) Define energy gap.
-(d) Define Fermi Level.
-(e) Define critical temperature for a superconductor.
-(f) Define group velocity.
-(g) What is photo-electric effect?
-
-2 (a) What are Miller indices? Explain the steps to-obtain Miller indices of any crystal plane. 15
-(b) Copper has FCC structure and the atomic radius is 1.278 A. Calculate its density.
-{Given: atomic weight = 63.54; Avogadro number = 6.023 x 1073 / gm. mol) [5]
-3 (a) Explain the classification of metals, semiconductors and insulators from the band theory. [6]
-(b) Explain the formation of depletion layer in a p-n junction. [4]
-4 (a) Give an outline of the construction of a cathode ray tube. [6]
-(b) Obtain expressions for the radius and pitch of a helical path traversed by a charged particle when
-it enters a uniform magnetic field at an acute angle @ with the direction of the field. [4]
-5 (a) Describe Davison and Germer experiment. [5]
-(b) culate the percentage uncertainty in the determination of momentum of a particle having
-energy 10 keV if it is located within 1A. Given m = 1.82 x 10° 8 ko, [5]
-6 (a) How do Type I and Type II superconductors differ from each other? ; [6]
-(b) State and explain Meissner effect. {4]
-7 (a)) Determine the critical radius ratio for ligancy 6. [5]
-
-(b) An electron beam is accelerated through a potential difference of 150 V. Then it is made to pass
-through a uniform electric field established perpendicular to its path by a set of rectangular plates of
-length 10 cm. The distance between the plates is 1 cm. and P.D. is 20 V. determine the angle of
-deflection of the electron beam. [5]
-````
-
-## 2009-10 · Exam not stated · Trim 1 · paper 0712dd57991a
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/APPLIED PHYSICS I BATCH 2009-2010.pdf`
-- Printed on paper: max marks: 50; duration hours: 3; exam date: 16/06/2011
-- Text: ocr (1 page), mean OCR confidence 92.1
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering \
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: ( |
-jj
-
-Academic Year : 2010-2011
-
-px]
-\
-
-Batch: 2009-2010 rs
-Subject: Applied Physics - I Marks: 50. /
-
-Time: 10.00-am To 1.00 pm
-Date: 16/06/2011 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the answer book, which is provided for their use.
-Note:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining six questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicate full marks.
-
-1 a. Define unit cell. (2M)
-b. Define Fermi energy in semiconductors. (2M)
-c. Give any two uses of CRO. (2M)
-d. What are de Broglie waves ? (2M)
-e. What is Meissner effect in superconductors ? (2M)
-
-2a. What are the number atoms per unit cell and co-ordination number
-
-in BCC structure ? (GM)
-b. Derive the critical radius ratio for ligancy 8. (3 M)
-c. Write a note on line imperfections in crystals. (4M)
-
-3a. Explain the variation of Fermi level with temperature and doping
-
-concentration in p-type semiconductors. (5M)
-b. Explain the effect of forward and reverse bias of p-n junction. (5 M)
-4a. Explain magneto static deflection. (5 M)
-b. Write a note on electrostatic focusing system. (5 M)
-5a. Give an experimental illustration of Heisenberg’s uncertainty principle. (4M)
-b. What is phase velocity and group velocity of de Broglie waves ? (6M)
-6. Explain Type I and Type II superconductors. (10 M)
-Ta. Sketch the Miller plane (124) and Miller direction [232] in SC unit cell. (2M)
-b. The resistivity of Si is 6.5 x10* ohm-m at 308 K. Calculate the intrinsic carrier
-concentration. ,= 0.15 m?/V.s and Hp = 0.044 m’/V.s (3 M)
-c. Calculate the critical current (Ic) for 0.18 cm diameter wire of lead (Pb) at 4.2 K.
-Tc (Pb) = 7.18 K and Ho (Pb) = 6.2 x 10° A/m. (3M)
-
-d. An electron beam passes through a magnetic field of 2 x 10° wb/m?
-and an electric field of 2.5 x 10* V/m acting simultaneously over the
-same region. If the path of the electrons remains un-deviated, calculate
-the velocity of the electrons. (2M)
-
-/
-````
-
-## 2009-10 · Exam not stated · Trim 1 · paper f6d1644de003
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/2009-2010(33).pdf`
-- Printed on paper: max marks: 50
-- Text: ocr (1 page), mean OCR confidence 92.1
-
-````text
-Mumbai -
-SVKM’s Narsee Monjee Institute of Management Studi LIBRARY
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-M.B.A. (Tech.) - I Year
-Trimester —I (2009 - 10)
-Subject : APPLIED PHYSICS I Max. Marks: 50
-Date: | Q-It-OF Time : 1% hrs.
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the answer book, which is provided for their use.
-Note:
-1. Question No. 1 is compulsory.
-2. Out of remaining six questions, attempt any four questions.
-3. In all five questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicate full marks.
-
-1 a. Define ligancy in ionic crystal. (2M)
-b. What is doping in semiconductors ? (2M)
-c. Define electric field intensity (E). (2M)
-d. What is photoelectric effect ? (2M)
-e. Define critical or transition temperature in superconductors. (2M)
-
-2a. What is the atomic radius and atomic packing factor in BCC structure ? (6M)
-
-b. Write a note on point imperfections in crystals. (4M)
-
-3a. Explain the formation of energy bands in solids. (5 M)
-b. Explain classification of solids into conductors and semiconductors on the
-
-basis of band theory. (5S M)
-
-4a, Explain the motion of electron in parallel electric field. (6M)
-
-b. Explain the measurement of phase difference using CRO. (4M)
-
-5. Describe Davission and Germer experiment to prove the wave nature of
-electrons. (10 M)
-
-6a. Give any six applications of superconductors. (3M)
-
-b. Explain critical magnetic field in superconductors. (3M)
-c. Explain the diamagnetic property of superconductors. (4M)
-7a. Sketch the Miller plane (121) and Miller direction [212] in SC unit cell. (2M)
-b. The resistivity of Si is 5 x10* ohm-m at 305 K. Calculate the intrinsic carrier
-concentration. pin= 0.12 m?/ V.s and pp= 0.047 m?/ V.s (3M)
-
-c. A charged particle accelerated by a potential difference of 198 volts has a
-de Broglie wavelength 0.018 A° . Find the mass of the particle.
-
-h= 6.63 x 10 J.s and e= 1.6 x10" cou. (3M)
-d, Calculate the impact velocity of an electron accelerated through 150 volts.
-m=9.1x10%!kg ande=1.6 x10" cou. (2M)
-
-x a
-
-=
-````
-
-## 2009-10 · Re-Exam · Trim 1 · paper c825f1da60bb
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/APPLIED PHYSICS I BATCH 2009-10-10-11 RE EXAM0001.pdf`
-- Printed on paper: exam date: 14/06/2012
-- Text: ocr (1 page), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: I
-2004- \0{ 2ele-1) Academic Year : 2011-2012
-Batch: 2011-201 :
-
-Subject: Applied Physics - I Marks:
-Time:
-
-Date: 14/06/2012 Duration} ;
-Re - Examination \\
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining six questions, attempt any four questions.
-3. In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicate full marks.
-
-la. Define Critical radius ratio in ionic crystal. (2M)
-b. What are n-type semiconductors ? (2M)
-c. Give any two uses of CRO. (2M)
-d. What are de Broglie waves ? (2M)
-e. Define critical or transition temperature in superconductors. (2M)
-
-2. What are the number atoms per unit cell, co-ordination number,
-
-atomic radius and atomic packing factor in FCC structure ? (10 M)
-3a. Explain the formation of energy bands in solids. (5 M)
-b. Explain classification of solids into conductors and semiconductors on the
-basis of band theory. (5 M)
-4. Explain the motion of electron in perpendicular electric field. (10 M)
-5a. Write a note on photoelectric effect. (5 M)
-b. Explain Heisenberg’s uncertainty principle with an.experimental illustration. (5 M)
-}
-‘ 6d. Explain Type II superconductors. (5M)
-qe} Write a note on BCS theory. (5M)
-
-7a. For a particle with charge 2.3 x 10° C is injected into a transverse magnetic
-field of 2.2 Wb/m? with velocity 5.6 x 10° m/s. Calculate the force onthe
-particle. . (2M)
-b. Determine the magnetic field required to bend a beam consisting of electrons
-of speed 3.2 x 10’ m/s in a circle of radius 7.3 cm.
-Given: m= 9.1 x 10°! kg and e= 1.6 x 10°C. (3M)
-c. An electron is moving with a velocity 2.4 x 10° m/s and uncertainty in
-its measurements is 5 %. Find the uncertainty in the position of electron.
-
-Given: m=9.1x 10%'kg and h=6.63x 10™ J.s. (2M)
-d. Calculate the critical current (Ic) for 0.2 cm diameter wire of lead (Pb) at 4.2 K.
-Tc (Pb) = 7.16 K and Ho (Pb) =6 x 10* A/m. (3M)
-
-fh
-````
-
-## 2009-10 · Re-Exam · Trim 1 · paper e7ce379c1bda
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/applied physics 2009-2010 re exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 3/11/2011
-- Text: ocr (1 page), mean OCR confidence 91.1
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: B.TECH - ALL STREAMS Year: I Trimester: I
-
-Academic Year : 2011-2012
-
-Batch: 2009-10
-Subject: APPLIED PHYSICS - I Marks: - SO
-
-Time: 2.00 pm To 5.00 pm
-Date: 3/11/2011 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-N.B:
-
-(1) Question no 1 is compulsory
-
-(2) Out of remaining six questions, attempt any four questions.
-
-(3) In all five questions to be attempted.
-
-(4) All questions carry equal marks
-
-(5) Answer toe each new question to be started on a fresh page.
-
-(6) Figure in brackets indicates full marks.
-
-1. i) Define magnetic Flux Density. [2 M]
-
-ii) What is point imperfection in crystals? [2 M]
-
-iii) What do you understand by space lattice? (2 MJ]
-
-iv) What is photoelectric effect? (2 M]
-
-v) Define Fermi energy level in semiconductor. [2 M]
-
-2. Explain the variation of Fermi level in (a) p type (b) n type semiconductors
-
-with temperature. (10M.
-3. i) Explain the construction and working of CRO. [6h]
-ii) Explain the motion of electron in crossed fields. [4 M,
-
-4. Derive the number of atoms per unit cell, co-ordination number, atomic radius
-
-and atomic packing factor for FCC lattice structure. [10 M]
-5. 1) Explain Heisenberg’s uncertainty principle in detail. [4 M]
-ii) Explain the Davission and Germer experiment for wave nature of electron. [6 M]
-6. 1) Define and explain Meissner effect in superconductors. [4 M]
-ii) What is the significance of critical temperature, critical magnetic field,
-} and critical current density for superconductors? [6 M]
-7d ) 7. i) Calculate the De Broglie wavelength of 1 keV electron. (3 M]
-
-Given: h = 6.63 x 10°" J.s andm=9.1 x 10°! kg.
-ii) The critical temperature of a given superconducting sample is 1.19K with
-mass 26.91. Determine the critical temperature when the isotop mass
-changes to 32.13. (2 M]
-iii) Calculate the impact velocities of an electron accelerated through 100 V and a
-proton accelerated through 1000 V (e=1.6x 10° C, m,. = 9.1 x 107! kg,
-mp = 1.67 x 10?’ kg) [5 M]
-
-Xx
-
-/)
-````
-
-## 2009-10 · Re-Exam · Trim 1 · paper 2973ecd515c7
+## 2010-11 · Re-Exam · Trim 1 · paper 2973ecd515c7
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -3149,97 +3530,72 @@ Whiat is its final velocity if the initial velocity of electron is zero. (2M)
 oa |
 ````
 
-## 2008-09 · Exam not stated · Trim 1 · paper ef0895b41513
+## 2009-10 · Exam not stated · Trim 1 · paper f6d1644de003
 
 - Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/APPLIED PHYSICS I BACTH 2008-2009.pdf`
-- Printed on paper: duration hours: 3; exam date: 16/06/2011
-- Text: ocr (1 page), mean OCR confidence 92.9
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/2009-2010(33).pdf`
+- Printed on paper: max marks: 50
+- Text: ocr (1 page), mean OCR confidence 92.1
 
 ````text
-IN SVKM’s NMIMS
-; Mukesh Patel School of Technology Management & En:
-Programme: B.Tech (ALL STREAMS) Year: I Trimester:
-Academic Year : 2010-2011
+Mumbai -
+SVKM’s Narsee Monjee Institute of Management Studi LIBRARY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+M.B.A. (Tech.) - I Year
+Trimester —I (2009 - 10)
+Subject : APPLIED PHYSICS I Max. Marks: 50
+Date: | Q-It-OF Time : 1% hrs.
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the answer book, which is provided for their use.
+Note:
+1. Question No. 1 is compulsory.
+2. Out of remaining six questions, attempt any four questions.
+3. In all five questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicate full marks.
 
-Batch: 2008-2009
-Subject: Applied Physics - I Marks:
-Time:
-Date: 16/06/2011 Duration: 3 hrsv,
-Re - Examination SS
-Instructions: Candidates should read carefully the instructions printed on the question paper
-cover of the Answer Book, which is provided for their use.
-N.B:
-(1) Question no | is compulsory
-(2) Out of remaining six questions, attempt any four questions.
-(3) In all five questions to be attempted.
-(4) All questions carry equal marks
-(5) Answer to each new question to be started on a fresh page.
-(6) Figure in brackets indicates full marks.
+1 a. Define ligancy in ionic crystal. (2M)
+b. What is doping in semiconductors ? (2M)
+c. Define electric field intensity (E). (2M)
+d. What is photoelectric effect ? (2M)
+e. Define critical or transition temperature in superconductors. (2M)
 
-10.00 am To 1.00 pm
+2a. What is the atomic radius and atomic packing factor in BCC structure ? (6M)
 
-and on the
+b. Write a note on point imperfections in crystals. (4M)
 
-Que 1. Attempt any five of the following
-i) What are grain boundaries in crystals?
-ii) How frequency of a signal is measured on CRO?
-iii) What is the law of intermediate metals?
-iv) Deduce Heisenberg’s uncertainty principle for energy and time.
-v) Explain the concept of hole current.
-vi) What do you understand by space lattice?
-vii) What is Thomson effect?
+3a. Explain the formation of energy bands in solids. (5 M)
+b. Explain classification of solids into conductors and semiconductors on the
 
-Que 2. Derive the number of atoms per unit cell, co-ordination number, atomic radius and
-atomic packing factor for FCC lattice structure.
+basis of band theory. (5S M)
 
-Que 5, i) Write a short note on thermopile.
-ii) Explain Seeback effect and Peltier effect in detail.
+4a, Explain the motion of electron in parallel electric field. (6M)
 
-Que 4. i) Obtain an expression for the motion of a charged particle parallel to electrical field.
-ii) What is the basic principle of electrostatic focusing? ;
+b. Explain the measurement of phase difference using CRO. (4M)
 
-Que 5. Define Fermi level in semiconductor. Explain with diagrams the positions of Fermi
-levels in intrinsic semiconductor and extrinsic semiconductor.
+5. Describe Davission and Germer experiment to prove the wave nature of
+electrons. (10 M)
 
-Que 6. What is photoelectric effect? Explain the effect of potential difference between
-two electrodes, intensity of incident radiation, frequency of incident radiation and
-the photometal used on emission of electrons
+6a. Give any six applications of superconductors. (3M)
 
-Que 7. i) Calculate the impact velocities of an electron accelerated through 100 volts
-and a proton accelerated through 1000 V. (e = 1.6 x 107° C, m.=9.1 x 107! kg,
-Mp = 1.67 x 10” kg)
-ii) Silver has FCC monoatomic structure. Its atomic radius is known to be 1.441 A.
-Find the spacing of (220) and (200) planes.
-iii) Find the energy of neutron in units of electron volts whose De Broglie wavelength
-is 1A. (1m, = 1.674 x 107’ kg, h= 6.62 x 10 JS).
+b. Explain critical magnetic field in superconductors. (3M)
+c. Explain the diamagnetic property of superconductors. (4M)
+7a. Sketch the Miller plane (121) and Miller direction [212] in SC unit cell. (2M)
+b. The resistivity of Si is 5 x10* ohm-m at 305 K. Calculate the intrinsic carrier
+concentration. pin= 0.12 m?/ V.s and pp= 0.047 m?/ V.s (3M)
 
-#/
+c. A charged particle accelerated by a potential difference of 198 volts has a
+de Broglie wavelength 0.018 A° . Find the mass of the particle.
 
-[2]
-[2]
-[2]
-[2]
-[2]
-[2]
-[2]
-[10]
+h= 6.63 x 10 J.s and e= 1.6 x10" cou. (3M)
+d, Calculate the impact velocity of an electron accelerated through 150 volts.
+m=9.1x10%!kg ande=1.6 x10" cou. (2M)
 
-[4]
-[6]
+x a
 
-{6]
-[4]
-
-[10]
-
-[10]
-
-[4]
-
-[4]
-[2]
+=
 ````
 
 ## 2008-09 · Exam not stated · Trim 1 · paper dbd055f373f1
@@ -3624,10 +3980,10 @@ ALL THE BEST
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/2005-2006(2).pdf`
 - Printed on paper: duration hours: 1.5
 - Text: ocr (1 page), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Shri Vile.Parle Kelavani Manadal’s
-NARSEE MONJEE INSTITUTE OF MANAGEMEN
 (Deemed University)
 Course: M. B. A. (Tech) Year: First Trimes &
 Subject: Applied Physics Duration: 1.5 hours Total Marks;
@@ -3838,357 +4194,4 @@ Que. 7. a) Describe in brief Davison and Germer experiment. : ; — [7]
 b) Show (100), (110) and (101) planes ina cubic lattice. : : [3]
 
 xf
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 6ce748d43e96
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/scan0001(21).pdf`
-- Printed on paper: max marks: 50; duration hours: 3; exam date: 30/10/2012
-- Text: ocr (1 page), mean OCR confidence 87.5
-
-````text
-SCHgs
-<
-
-“N
-
-yet
-rs
-ee N
-
-> SVKM'S
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineer Vr ‘ioe de}
-Programme: B.TECH -ALL STREAM Year: I Trimester: at WBRARY DE
-Academic Year : 2012-2013 SS 2,
-Batch: 2010-11 ne UIAY
-Subject: APPLIED PHYSICS — 1 (APPLIED Science-1) Marks: 50 — anaes
-Time: 2.00 pm To 5.00 pm
-
-Date: 30/10/2012 Duration: 3 hrs.
-: Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the answer book, which is provided for their use.
-Note:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining six questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicate full marks.
-
-la. Define Miller indices. (2M)
-b. Explain p-type semiconductors. (2M)
-c. Write a note on measurement of AC voltage using CRO. (2M)
-d. Explain de Broglie waves. (2M)
-e. Give any four applications of superconductors. (2M)
-2. Derive atomic packing factor in SC and BCC structure. (10 M)
-3. Explain the classification of solids on the basis of band theory. (10 M)
-} 4a. Explain the theory of Cathode Ray Oscilloscope (CRO). (5M)
-b. Write a note on electrostatic focusing system. (5M)
-5a. Explain Davisson and Germer experiment. (5M)
-b. Write a note on photoelectric effect. (5M)
-6a. Explain Meissner effect (diamagnetic property) in detail. (4M)
-b. Give any three properties of superconductors. (6 M)
-j
-\ ‘Ja. Silver has FCC structure. Its atomic radius is 1.41 A°. Find the lattice constant.
-v ) Also find the spacing between (232) planes. (3M)
-b. The resistivity of Si is 6.3 x10‘ ohm-m at 297 K. Calculate the intrinsic carrier
-concentration. Given: p= 0.19 m’/ V.s and p= 0.05 m’/V.s. (2M)
-
-c. Determine the magnetic field required to bend a beam consisting of electrons
-of speed 3.5 x 10’ m/s in a circle of radius 7.5 cm.
-Given: m= 9.1 x 10°! kg and e= 1.6 x 10°C. (2M)
-d. Calculate the de Broglie wavelength of 1.95 KeV electron.
-‘ke and h=6.63x 10™ J.s (3M)
-
-—%
-Vy
-
-Given: m = 9.1 x 10
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 016acd69cb11
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/scan0002(18).pdf`
-- Printed on paper: max marks: 50; duration hours: 3; exam date: 30/10/2012
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-—o
-
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: B.TECH -ALL STREAM Year: I Trimester: I
-: Academic Year : 2012-2013
-
-Batch: 2010-11
-
-Subject: APPLIED CHEMISTRY - I (arpiien Scjenét) Marks: 50
-Time: 2.00 pm
-
-Date: 30/10/2012 Duration: 3 hrs.
-
-Re - Examination
-
-e Please read instructions carefully.
-
-e Question No. 1 is compulsory.
-
-e Attempt any four questions from the remaining five.
-
-e All questions carry equal marks; that is 10marks each.
-
-e Answer to each new question to be written on a fresh page.
-
-1 a) Write reactions with reactant name for synthesis of nylon66. 2 marks
-b) Discuss structure of graphite. each
-c) What is meant by radioactive conditioning of hard water?
-d) Distinguish between scale and sludge.
-e) Give two applications of smectic liquid crystals.
-2 a) Discuss ion exchange process of hard water purification with schematic diagram. 5 marks
-b) An exhausted zeolite softener was regenerated by passing 70 litres of NaCl eae
-solution. If 20,000 liters of water is purified by zeolite softener and hardness of
-j water was 200 ppm what was the strength of NaCl solution.
-3 a) Calculate the amount of lime (85% pure) and soda (90% pure) required for 5 marks
-softening of 50,000 litres of hard water sample containing CaSO, = 27.2 mgs/It, each
-MgCl = 47.5 mg/Its, KCI = 2.3 mgs/It, FeCl; = 13.35. mgs/It and H»SO, =1.825
-mgs/lIt.
-| b) What are conducting polymers? Discuss various types of conducting polymers
-‘ ¥ ) with example?
-4 a) 0.5g of CaCl, was dissolved in dil HCI and diluted to 500 ml. 50 ml of this 5 marks
-
-solution consumed 20 ml of EDTA. 50 ml of water sample consumed 30 ml of
-
-the same EDTA solution using EBT. After boiling 50 ml of same water sample
-
-Yh.
---- page 2 ---
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-required 10 ml of EDTA. Calculate the each type of hardness in ppm .
-What is hard water? What salts are responsible for hardness? Why soap does not
-
-give lather with soap?
-
-Give preparation, properties and uses of pheno! formaldehyde resin and silicone
-rubber.
-
-Discuss the general chemical structural features of liquid crystals.
-
-What are the drawbacks of natural rubber? Explain the role of sulphur in
-removing these drawbacks. :
-
-Why properties of material changes drastically at nano scale level? How nano
-technology is useful in drug delivery, material science and drinking water
-
-purification?
-
-5 marks
-each
-
-5 marks
-each
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 1640f0a54014
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/APPLIED PHYSICS I/scan0004(13).pdf`
-- Printed on paper: duration hours: 3; exam date: 30/10/2012
-- Text: ocr (1 page), mean OCR confidence 85.7
-
-````text
-SVKM’s NMIMS
-' Mukesh Patel School of Technology Management & Engineering
-Programme: B.TECH -ALL STREAM Year: I Trimester: I
-Academic Year : 2012-2013
-
-el Sc
-ge x 00,
-“Noe
-
-Batch: 2011-12 _ 3 SVKM’S *
-Subject: APPLIED PHYSICS - I Marks: ile) ee ar
-
-(APPLIED SCTEN(E-L) Time: 2.00 pm J{00 PEsrary 6. dz
-Date: 30/10/2012 Duration: 3 hrs. I=
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question pape
-on the cover of the answer book, which is provided for their use.
-NB: .
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each question to be started on a fresh paper.
-6. Figures on the right hand side indicate full marks.
-7. Assume suitable data if necessary.
-
-Q1. Attempt any five questions:-
-
-A Define Atomic Packing Factor (APF). 02
-
-B What is Point imperfection in crystals? 02
-
-C Show the position of Fermi level in p -type and n-type semiconductors at room 02
-temperature.
-
-D __ State Heisenberg uncertainty principle. 02
-
-E How to measure AC voltage using CRO? 02
-
-F What is Superconductivity? 02
-
-G What is critical magnetic field in superconductors? 02
-
-Q2 A __ Explain the classification of metals, semiconductors and insulators from the band 06
-
-theory.
-i B Explain the formation of p-n junction. 04
-Q3 A _ Derive the number of atoms per unit cell, co-ordination number, atomic radius and 10
-
-atomic packing fraction in simple cubic structure.
-
-Q4 A _ Explain the construction of Cathode Ray Tube. 06
-B Write in short any two applications of CRO. 04
-Q5 A _ Explain type-I and type-II superconductor. 05
-B ; Write a note on BCS theory. 05
-Q6 Ay ) Describe Davison and Germer Experiment for wave nature of electrons. 06
-B*   Anelectron beam passes through a magnetic field of 2.1 x 10° wb/m? and an electric 04
-
-field of 5 x 104 v/m simultaneously. If the paths of electrons remain undeviated,
-determine the speed of electron.
-
-Q7 A The resistivity of Ge is 6.7 x 10* Ohm-m at 305 K. Calculate the intrinsic carrier 04
-concentration 11, = 0.16 m’/ Vs and Lp = 0.068 m7/ Vs.
-
-B Derive the critical radius ratio for ligancy 6. 04
-
-C Sketch Miller planes (123) and (221). : 02
-
-- a
-
-|
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper da765ada7dc0
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/scan0016(8).pdf`
-- Printed on paper: duration hours: 3; exam date: 30/10/2012
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS ool’
-Mukesh Patel School of Technology Management & Engineering
-
-Progranime: MBA (TECH) -ALL STREAM Year: I Trimester: I
-
-Academic Year : 2012-2013
-
-&,
-
-Batch: 2011-12 _ 3 see \*
-Subject: APPLIED PHYSICS - I Marks: BO Mumba ee” Ye
-
-CAPPLIED ScTENCE-D) Time: 10.00 =
-Date: 30/10/2012 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the ques
-the cover of the Answer Book, which is provided for their use.
-Note: (i) Question No. one is compulsory.
-
-(ii) Answer any four questions out of the remaining six questions.
-
-(iii) In all five questions to be attempted.
-
-(iv) All questions carry equal marks.
-
-(v) Answer to each new question to be started on a fresh page.
-
-(vi) Figures in bracket indicate full marks.
-
-(vii) Assume suitable data if necessary.
-
-1 Answer any five [02 x 05]
-(a) What is the importance of critical radius ratio?
-(b) Name the different types of point defects.
-(c) What is the function of trigger circuit in a cathode ray oscilloscope?
-(d) Define Fermi Level.
-(e) State two applications of superconductors.
-(f) Define phase velocity and group velocity.
-(g) What is photo electric effect?
-
-2 (a) For body centered cubic lattice, find the number of nearest neighbors, the nearest neighbor
-distance and calculate the packing factor. [5]
-
-(b) Sodium crystallizes in a cubic lattice. The edge of the unit cell is 4.3 A°. The density of Na is 963
-Kg/m? & its atomic weight is 23. How many atoms are obtained in one unit cell? Which type of unit
-
-r cell is formed? (Given: Avogadro number = 6.023 x 107 / gm. mol) : [5]
-}
-
-3 (a) Explain the classification of metals, semiconductors and insulators based on the band theory. [6]
-
-(b) Explain the variation of Fermi level with temperature for a p-type semiconductor. [4]
-
-4 (a) Explain the principle of electrostatic focusing. [5]
-
-(b) An electron passes through a magnetic field of 2 x 10° wb/m? and an electric field of 3.4 x 10*
-V/m acting simultaneously over a same region. The electric field, magnetic field and the velocity of
-electron are mutually perpendicular to each other. If the path of electron remains undeviated, calculate
-oe speed of electron. What will be the radius of electron path if the electric field is switched off? [5]
-
-Cqiven Me = 41x wr3l leg , Yahexion lic)
-? fp Explain the uncertainty principle in detail and state some of its consequences. [5]
-
-b) Wavelength of characteristic X-rays from a copper: target. is 1.55 A°. Through what potential
-difference must an electron be accelerated to have the same de Broglie wavelength? Given Mme = 9.1 x
-107) kg, q=1.6x 10°C. [5]
-
-6 Explain the concept of superconductivity. Explain following terms associated with superconductivity:
-
-(i) critical temperature, (ii) critical magnetic field, (iii) Type I superconductor, and (iv) Type II
-superconductor. [10]
-
-Yo
---- page 2 ---
-7 (a) What are the Miller indices? How planes having different intercepts can have similar miller
-
-indices. Explain with suitable examples. . [5] |
-(b) A charged drop is just floating in a uniform electric field of 300 V/cm. Find the charge on it |
-
-assuming it’s mass to be 9.77 x 10” gm. [3]
-(c) State de-Broglie concept of matter waves. ; [2]
-
-vw!
 ````

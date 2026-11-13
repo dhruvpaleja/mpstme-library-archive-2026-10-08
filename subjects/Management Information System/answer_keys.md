@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_IT_7037/Management Information Systems/ANS_Management Information Systems(702IT0E008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (11 pages), mean OCR confidence 34.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

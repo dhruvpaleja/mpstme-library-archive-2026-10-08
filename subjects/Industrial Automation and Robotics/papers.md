@@ -1,6 +1,6 @@
 # Industrial Automation and Robotics: question papers in full
 
-7 unique papers · 2022 to 2025-26 · Mechanical
+7 unique papers · 2022-23 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -456,7 +456,7 @@ CO-1; SO- | c) Explain the significance of transfer function with example. (4]
 2 OFD
 ````
 
-## 2022 · Final-Exam · Sem 5 · paper 1b49222cd0c2
+## 2022-23 · Final-Exam · Sem 5 · paper 1b49222cd0c2
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL

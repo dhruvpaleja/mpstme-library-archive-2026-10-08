@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CSE_DS_7011/Introduction to Business Statistics, An_65fb5a09/ANS_Introduction to Business Statistics, Analytics & Modeling-I(702BS0C018)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 May 2025
 - Text: mixed (11 pages), mean OCR confidence 39.2
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -59,7 +61,6 @@ it Ayes tx 2 Vit of ajection
 
 ' < H
 : Reject Ky a Accept |
-Hrnce VAtrance Les (uercaseal —f)
 
 Gi ie
 ? (D 93 loo yf Ugirls) c Neg es. = SI¢o. -6:2 97
@@ -111,7 +112,6 @@ A=9% AF-1) Laz -|-79¢ —@)
 b= RA. 547 —@D
 SA > 413 yi
 141 > lb. : 7
-HEED Wal ie Te qian of feVecbtor
 it Reject He .d ACCept H,:
 4 The delivers is Sactey ty is city:
 
@@ -131,7 +131,6 @@ y, koe a eS = os P2*2e = 0°67
 ve 2
 ,
 '
-p= Pet Se a a |-pe 0:27
 Wi, 4AVNw ‘ vy P
 
 We R= Pe |
@@ -146,7 +145,6 @@ sintee 2 value les is Begiom of seection
 
 r Reject Ne 4 Accept fh,
 
-- Bheve is detwease tn cenguan prion of tea .
 
 a; | 10) \ elm) | x maa
 
@@ -190,7 +188,6 @@ op tog JAR
 
 FRR RRR ORC RK
 --- page 7 ---
-9a) O ye bs +h, Xx
 
 a ayo
 S Su, = De Bp
@@ -341,6 +338,8 @@ DR ROR RK 11 FRR HR RK
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSE_DS_7011/Introduction to Business Statistics, An_65fb5a09/ANS_Introduction to Business Statistics, Analytics & Modeling-I(702BS0C018)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Jul 2025
 - Text: mixed (11 pages), mean OCR confidence 39.1
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -442,10 +441,8 @@ a= 5% Adf-q Leja
 
 Sea is "
 1 > 1b.)
-ce The ies fe +egjon of sefection’
 
 ve Reject RK, x hece pt H,
-oe She we tats hag cede cg
 
 FIC 7) IC HOH
 --- page 5 ---
@@ -491,7 +488,6 @@ Leos
 6 6) 1.2, ale be 18,4
 7 |0,1,2,3,456 —@
 
-Theye aw 10 Student petwees Sokg
 » b= > $9 20-5184
 15
 (0 NEA AP Sage 5
@@ -560,10 +556,8 @@ de PEROT ae
 Wet Wee 2
 
 Ith < (bel
-eS Wes ip Fegiow of accept ante 5
 ad ike i Hy :
 
-- We Camnst   conclucle Shed Avus Ais
 wove effective thea. dw
 _@®
 
@@ -626,7 +620,6 @@ QDC)
 Gems Yeo Grud, R= 156
 
 = Ho Ki = AM =A, |
-Hy: Mh, # Me FH, ay
 
 ac SY.
 Fa = 3°$952. —D
@@ -640,7 +633,6 @@ Tre\ 253-4 1Y
 Hee E> Fa
 ran Tt (yes la Vegan. of BejZotion
 s Reject Ho:
-“ Thexe is sighifteaut Bef Fewace
 
 1 Mean
 

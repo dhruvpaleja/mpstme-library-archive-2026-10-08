@@ -2496,6 +2496,106 @@ CO-3; SO- (i) Background this Case Study
 Page 2 of 2
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper c89e3dfaecaa
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ADVERTISING & PUBLIC RELATIONS SYLLABUS/Advertising & Public Relations Syllabus.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 94.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program/s: MBA tech / B tech Year: III Semester: VI
+
+Stream/s : All streams
+
+Subject: Advertising & Public Relations Syllabus Time: 3 hrs (2.00 pm to 5.00 pm )
+Date:_05 / 05 / 2023 No. of Pages: 2
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+a Answer briefly: [20]
+
+CO-1 ;
+SO-3; a. Explain the various types of Brands.
+BL-2
+
+CO-1 ;
+SO-3; b. Explain the definition of promotion and distinguish it from advertising.
+BL-2
+
+CO-1;
+~| SO-3; c. Explain the definition of communication and illustrate its importance.
+BL-2
+
+CO-3;
+SO-7; d. Explain the Importance of Public Relations.
+BL-2
+
+Q2
+
+CO-1; Explain the concept of ‘Outdoor Advertising’ and discuss the emerging [20]
+SO-3; technologies in outdoor advertising.
+
+BL-4
+
+Q3
+CO-3; Discuss the various steps of PR process.
+[20]
+SO-4;
+BL-5
+
+Q4 Classify the advertisements based on area coverage giving appropriate [20]
+CO-2; Examples of products for each type of advertisement.
+--- page 2 ---
+S0-4;
+BL-4
+
+Q5
+
+CO-1;
+SO-4;
+BL-4
+
+Explain the two models DRIP and AIDA. [20]
+
+Q6
+
+CO-3;
+SO-4;
+BL-5
+
+Discuss the importance of planning social and commercial PR campaigns. [20]
+
+Discuss the case study of Nike Ad for the 2012 Olympics’ by explaining the
+Q7 following:
+CO-2; 1) Discussion on the case study completely explaining it. [20]
+SO-4; 2) Justification of all the important principles which helped to increase the
+BL-6 sales and reputation of the brand, with the comments on the case study.
+````
+
 ## 2022-23 · Exam not stated · Sem 6 · paper e99db06ae162
 
 - Departments: Common (all branches)
@@ -2798,104 +2898,4 @@ are Q.7) - 1) Discuss the Case Study completely, and . [20]
 reputation of the brand, with your comments on the case study
 
 Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper c89e3dfaecaa
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ADVERTISING & PUBLIC RELATIONS SYLLABUS/Advertising & Public Relations Syllabus.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 94.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program/s: MBA tech / B tech Year: III Semester: VI
-
-Stream/s : All streams
-
-Subject: Advertising & Public Relations Syllabus Time: 3 hrs (2.00 pm to 5.00 pm )
-Date:_05 / 05 / 2023 No. of Pages: 2
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-a Answer briefly: [20]
-
-CO-1 ;
-SO-3; a. Explain the various types of Brands.
-BL-2
-
-CO-1 ;
-SO-3; b. Explain the definition of promotion and distinguish it from advertising.
-BL-2
-
-CO-1;
-~| SO-3; c. Explain the definition of communication and illustrate its importance.
-BL-2
-
-CO-3;
-SO-7; d. Explain the Importance of Public Relations.
-BL-2
-
-Q2
-
-CO-1; Explain the concept of ‘Outdoor Advertising’ and discuss the emerging [20]
-SO-3; technologies in outdoor advertising.
-
-BL-4
-
-Q3
-CO-3; Discuss the various steps of PR process.
-[20]
-SO-4;
-BL-5
-
-Q4 Classify the advertisements based on area coverage giving appropriate [20]
-CO-2; Examples of products for each type of advertisement.
---- page 2 ---
-S0-4;
-BL-4
-
-Q5
-
-CO-1;
-SO-4;
-BL-4
-
-Explain the two models DRIP and AIDA. [20]
-
-Q6
-
-CO-3;
-SO-4;
-BL-5
-
-Discuss the importance of planning social and commercial PR campaigns. [20]
-
-Discuss the case study of Nike Ad for the 2012 Olympics’ by explaining the
-Q7 following:
-CO-2; 1) Discussion on the case study completely explaining it. [20]
-SO-4; 2) Justification of all the important principles which helped to increase the
-BL-6 sales and reputation of the brand, with the comments on the case study.
 ````

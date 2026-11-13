@@ -584,6 +584,7 @@ b) Describe the Silhouette technique to find the value of k ink — means cluste
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM II/ADVANCED STATISTICAL LEARNING/Advanced Statistical Learning 2018-19.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME ~
@@ -680,7 +681,6 @@ Q6.A) Do a single linkage clustering method based on Euclidian distance. (10 Mar
 
 2 )3
 --- page 3 ---
-A B Cc D E F G
 
 A 0.0
 
@@ -891,6 +891,7 @@ for the time series variable Y. (10 Marks)
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM II/ADVANCED STATISTICAL LEARNING/Advanced Statistical Learning Batch 2018-19 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 June 2019
 - Text: ocr (3 pages), mean OCR confidence 90.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 * SVKM’S NMIMS
@@ -951,7 +952,6 @@ Q4. A) What do you mean by autocorrelation and partial autocorrelation? How are 
 
 from each other? (10 Marks)
 B) Do a single linkage clustering method based on Euclidian distance. (10 Marks)
-A B Cc D E F G
 
 A 0.0
 
@@ -1031,6 +1031,7 @@ fz
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/ADVANCED STATISTICAL LEARNING/Advanced Statistical Learning 2017-18 Final.pdf`
 - Printed on paper: duration hours: 3; exam date: 12 May 2018
 - Text: ocr (4 pages), mean OCR confidence 88.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1177,7 +1178,6 @@ Anxiety; Agoraphobia; Arachnophobia; Adventure; Extraversion; and Sociability (w
 range of 0 to 100). Whether the correlations among the six variables can be accounted for in terms
 of comparatively few latent variables or factors?
 
-Part Anx Agora Arach Adven Extra Socia
 
 1 71 68 80 44 54 | 52
 

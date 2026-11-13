@@ -211,6 +211,7 @@ All dimensions are in mm.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/THEORY OF STRUCTURES/B Tech, Theory of Structures, Sem-IV, Batch 2022-23, 2023-24, 2024-25 & 2025-26, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 July 2026
 - Text: ocr (3 pages), mean OCR confidence 79.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -307,7 +308,6 @@ method. The cross-sectional areas of each members are 600 mm?
 10 kN YE
 ° 4m
 A Ly
-= 5m B Sm C Sm a
 
 FOO 2 OK Kr
 
@@ -786,156 +786,7 @@ BL-4
 4)4
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 450a5ba37fca
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/THEORY OF STRUCTURES/Theory of Structures, Sem-IV, Year 2022-23 Final & Re Exam.pdf` (+1 identical copies)
-- Text: ocr (3 pages), mean OCR confidence 80.7
-
-````text
-a
-
-SVKM’S NMIMS
-
-Program/s: BTech/BTech integrated
-Stream : Civil Engineering
-Subject: Theory of Structures
-
-Date:_O3_/May/ 2023
-Marks: {OO
-
-Final Examination /Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1
-
-Soi; (a) Explain Betti’s Theorem
-
-BL-l [5]
-
-So, (b) Explain influence line diagram and its uses with example. [5]
-BL-2
-
-con ' (©) Write assumptions in Euler’s theory for long columns 14]
-BL-1
-
-Soa! (d) Determine static indeterminacy external(Dse), internal(Dsi) and total (Ds) and kinematics
-BL2 indeterminacy (Dk) (assume inextensible members) for the following structures:
-
-7
-@ (ii)
-
-[6]
-
-1/3
---- page 2 ---
-Q.2
-
-(a) Analyze the beam using Moment
-
-©0-2; Distribution Method . Take El as 10 kN, 10kN/m 20KN
-ee constant. Draw bending moment 1 t I
-diagram. A y an Yaa "Tp r10]
-ra . 4 : ee
-| a i ott as mm?
-“2m | 5m im 2m
-Sout (b) A 1.5 m long cast-iron hollow circular column of outer diameter 20 mm and thickness 2
-BL-4 mm with both ends firmly fixed. Calculate
-(a) slenderness ratio [10]
-(b) safe axial load using Euler’s formula
-Take factor of safety FOS = 4, Young’s modulus of elasticity E= 200GPa.
-Q.3 (a) Analyze the frame using Slope 20 kN/m
-co2: Deflection Method. Draw bending .
-S01, moment diagram. A B
-21
-4 10
-1 [10]
-«_— im _y
-' c
-Soi, (b) Compute the horizontal deflection at D 20 kNim 50 KN
-BL4 using unit load method. Take EI =
--] 2 P
-12000 kN-m 3 c T
-Tr
-[10]
-3m D
-ine
-VIITTT
--——4m—+4
-Q.4 (a) Support B settles down by 0.2 mm.
-ae Take E = 200 GPa and 1= 400x106 20 kN/m
-ra mm* Analyze the beam using A c [10]
-Three Moment Theorem. AN Bs
-L 3m 3m _
-
-2/3
-
->>
---- page 3 ---
-on
-
-Soi, (6) Compute vertical deflection at A using 50 kN 5 KN ém
-BL-4 Castigliano’s Method. . Take El = f=
-80000 kKNm? { LODO [10]
-Ny arse)
-rr eT f
-Q.5 (a) Compute the flexibility coefficients for 1 2
-coz: the following structures using redundants t |
-SO-1;
-$0-1; as shown A 4 : c [10]
-i p
-2m 2m
-so, (b) Analyze the structure below using tiie 40 kN
-BL-4 flexibility matrix developed in Q.5 (a) _
-using method of consistent deformation. 4 i c P
-1
-A aS LS [eo
-— ee
-q 2m | 2m |
-Q.6 (a) Compute the stiffness coefficients for the a. 2
-con following structure a an an r
-SO-1; AV 3 iA D [i 0]
-Cc
-BL-4 4 B 9) QO. )
-hr 2m a 2m <a Im >
-soi, (b) Analyze the following beam using 20 kN
-BL4 stiffness matrix developed in Q.6 (a) and 10 kN/m
-draw bending moment diagram. A D [10]
-q 2m | im 1m 2m
-Q.7 (a) A series of concentrated loads as shown moves over a Z-e2g-e 8
-cO-1: simply supported girder of span 18 m from left to right $$ = = 8
-aa i. Calcuiate the location and value of absolute “wos
-maximum shear force in the girder | | | [10]
-ii. Calculate the location and value of absolute ¥
-maximum bending moment in the girder 2m 2m 2m
-soi, (b) Calculate the collapse load for the 1s uN
-BL-4 following beams of rectangular cross | _
-section 30 mm x 60 mm_ using a 4 Y [10]
-_ Statical method. Take yield stress fy 1 ¢ 5 y
-= 250 MPa : |
-
-2m 3m
-
-3/3
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper 9f6fd9849924
+## 2023-24 · Re-Exam · Sem 4 · paper 9f6fd9849924
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL, B.TECH INTEGRATED / CIVIL
@@ -1098,6 +949,155 @@ EL? All dimensions are in mm. — = }
 414
 ````
 
+## 2022-23 · Final + Re-Exam · Sem 4 · paper 450a5ba37fca
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/THEORY OF STRUCTURES/Theory of Structures, Sem-IV, Year 2022-23 Final & Re Exam.pdf` (+1 identical copies)
+- Text: ocr (3 pages), mean OCR confidence 80.7
+
+````text
+a
+
+SVKM’S NMIMS
+
+Program/s: BTech/BTech integrated
+Stream : Civil Engineering
+Subject: Theory of Structures
+
+Date:_O3_/May/ 2023
+Marks: {OO
+
+Final Examination /Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1
+
+Soi; (a) Explain Betti’s Theorem
+
+BL-l [5]
+
+So, (b) Explain influence line diagram and its uses with example. [5]
+BL-2
+
+con ' (©) Write assumptions in Euler’s theory for long columns 14]
+BL-1
+
+Soa! (d) Determine static indeterminacy external(Dse), internal(Dsi) and total (Ds) and kinematics
+BL2 indeterminacy (Dk) (assume inextensible members) for the following structures:
+
+7
+@ (ii)
+
+[6]
+
+1/3
+--- page 2 ---
+Q.2
+
+(a) Analyze the beam using Moment
+
+©0-2; Distribution Method . Take El as 10 kN, 10kN/m 20KN
+ee constant. Draw bending moment 1 t I
+diagram. A y an Yaa "Tp r10]
+ra . 4 : ee
+| a i ott as mm?
+“2m | 5m im 2m
+Sout (b) A 1.5 m long cast-iron hollow circular column of outer diameter 20 mm and thickness 2
+BL-4 mm with both ends firmly fixed. Calculate
+(a) slenderness ratio [10]
+(b) safe axial load using Euler’s formula
+Take factor of safety FOS = 4, Young’s modulus of elasticity E= 200GPa.
+Q.3 (a) Analyze the frame using Slope 20 kN/m
+co2: Deflection Method. Draw bending .
+S01, moment diagram. A B
+21
+4 10
+1 [10]
+«_— im _y
+' c
+Soi, (b) Compute the horizontal deflection at D 20 kNim 50 KN
+BL4 using unit load method. Take EI =
+-] 2 P
+12000 kN-m 3 c T
+Tr
+[10]
+3m D
+ine
+VIITTT
+-——4m—+4
+Q.4 (a) Support B settles down by 0.2 mm.
+ae Take E = 200 GPa and 1= 400x106 20 kN/m
+ra mm* Analyze the beam using A c [10]
+Three Moment Theorem. AN Bs
+L 3m 3m _
+
+2/3
+
+>>
+--- page 3 ---
+on
+
+Soi, (6) Compute vertical deflection at A using 50 kN 5 KN ém
+BL-4 Castigliano’s Method. . Take El = f=
+80000 kKNm? { LODO [10]
+Ny arse)
+rr eT f
+Q.5 (a) Compute the flexibility coefficients for 1 2
+coz: the following structures using redundants t |
+SO-1;
+$0-1; as shown A 4 : c [10]
+i p
+2m 2m
+so, (b) Analyze the structure below using tiie 40 kN
+BL-4 flexibility matrix developed in Q.5 (a) _
+using method of consistent deformation. 4 i c P
+1
+A aS LS [eo
+— ee
+q 2m | 2m |
+Q.6 (a) Compute the stiffness coefficients for the a. 2
+con following structure a an an r
+SO-1; AV 3 iA D [i 0]
+Cc
+BL-4 4 B 9) QO. )
+hr 2m a 2m <a Im >
+soi, (b) Analyze the following beam using 20 kN
+BL4 stiffness matrix developed in Q.6 (a) and 10 kN/m
+draw bending moment diagram. A D [10]
+q 2m | im 1m 2m
+Q.7 (a) A series of concentrated loads as shown moves over a Z-e2g-e 8
+cO-1: simply supported girder of span 18 m from left to right $$ = = 8
+aa i. Calcuiate the location and value of absolute “wos
+maximum shear force in the girder | | | [10]
+ii. Calculate the location and value of absolute ¥
+maximum bending moment in the girder 2m 2m 2m
+soi, (b) Calculate the collapse load for the 1s uN
+BL-4 following beams of rectangular cross | _
+section 30 mm x 60 mm_ using a 4 Y [10]
+_ Statical method. Take yield stress fy 1 ¢ 5 y
+= 250 MPa : |
+
+2m 3m
+
+3/3
+````
+
 ## 2022-23 · Re-Exam · Sem 4 · paper bc899d0c9db5
 
 - Departments: Civil
@@ -1105,6 +1105,7 @@ EL? All dimensions are in mm. — = }
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/THEORY OF STRUCTURES/Theory of Structures, Sem-IV, Batch 2021-22,2022-23 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 80.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS i
@@ -1117,7 +1118,6 @@ Subject: Theory of Structures
 Date:_03 / 07 / 2023
 Marks: 100
 
-a i i a - ; xy ‘
 Re-Examination (2021- 22]2022- 23). er
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the@over
 
@@ -1456,6 +1456,7 @@ Page - 4 of 4
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/THEORY OF STRUCTURES/Theory of Structures, 3rd Year, Sem-V, Year 2022-23, Re-Exam 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 January 2023
 - Text: ocr (4 pages), mean OCR confidence 79.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1577,7 +1578,6 @@ developed in the girder. [CO — 1; SO-1; BL—4]
 { Jt, 4
 
 Mm
-We AM a AWN + A. Vy
 
 Q5a. Using flexibility coefficient method, analyse the beam as shown and draw [10]
 SFD and BMD. [CO - 4 SO -1; BL — 4]
@@ -1923,6 +1923,427 @@ BL-4 poe Jo KN/ a.
 3/3
 ````
 
+## 2015-16 · Re-Exam · Sem 5 · paper 73914e414793
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/THEORY OF STRUCTURES/THEORY OF STRUCTURES B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 80.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil) Year: III Semester: V
+Batch: 2013-2014
+Academic Year: 2015-2016 npn
+: Lg Bea
+Subject: Theory of Structures is? —_ Ne,
+
+f...
+
+: G MPSTMB }3 °
+Date: 02/12/2015 Time   :2.0 Bit. DQprR ¥ a
+Duration: 3 (hr a. :
+
+e
+* ym, Jk
+er aE
+
+cena ai
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.1.a Derive the equation of Euler’s buckling load ‘P.,’for a long column having length ‘L’,
+fixed at both Ends. [10]
+Q.1.b State and explain Maxwell’s Reciprocal theorem. [04]
+Q.l.c State Castigliano’s theorem. Explain the procedure of determination of deflection of
+structure using Castigliano’s theorem.
+Q.2 For the rigid jointed frame shown in figure 1, draw Axial force diagram, Shear force
+diagram and bending moment diagram. Note that joint B is internal hinge. [20]
+Q.3.a For the beam loaded as shown in figure 2, determine the slope and deflection of joint C.
+Use moment area theorem.
+Q.3.b For the beam loaded as shown in figure 3, determine the slope and deflection of joint C.
+Use conjugate beam method.
+Q.4.a A three hinged unsymmetrical parabolic arch has a span of 60 m and the vertical distance
+of left support and crown measured from right support is 3 m and 9 m respectively. The
+arch is loaded by two point loads of 300 kN each positioned at a distance of 20 m and 40
+m from the support. Determine the reactions developed and radial shear and normal thrust
+at a distance of 30 m from support. Also draw BMD. [15]
+Q.4.b6 Show that the radial shear and bending moment at any section of a symmetrical parabolic
+arch loaded by a uniformly distributed load throughout the span is zero. [eS]
+Q.5.a For the beam shown in. figure 4, draw ILD for reaction at A, B, and D. Note that joint C is
+
+[06]
+
+[10]
+
+[10]
+
+[10]
+
+internal hinge.
+Q.5.6 A simply supported girder of span 50 m. is subjected to a series of concentrated loads as
+shown in figure 5. Determine absolute maximum and shear force developed anywhere in
+
+the beam. [10]
+
+Q.6.a_ For the frame as shown in figure 6, determine the horizontal displacement of roller support
+
+D. use Unit load method. [10]
+Q.6.b For the truss as shown in figure 7, determine the strain energy stored. [10]
+
+tb
+--- page 2 ---
+Q.7 A symmetrical cable of span 100 m and ceniral dip of 10 m is supported a three hinged
+stiffening girder at its center and at ends. The girder is subjected to a live load in the form
+of udl of intensity 10 KN/m over left half portion. The dead load of the girder is 10 kKN/m.
+Determine the minimum and maximum tension developed in the cable. Also determine the
+forces developed in the pier of height 20 m if the cable is back anchored at 30 degrees with
+horizontal. Note that cable is passing over a smooth pulley over the piers. Draw SFD and
+
+BMD for the girder. [20]
+Snb Wage
+— 20KN] YO
+. a
+7 B EE
+AM
+| 4A B
+Hy 7
+| sy) L2M
+r 1
+
+Fraure 1
+9 “Figure 3
+
+A B c _D 50KN SOKN FOKN 40KN
+eo il
+a — | —
+i? AN). 4M +» 3) _y % 4 %
+om wal ; ) ; . am "
+Figure 4 A Om 3m! 2
+Fraure-S
+cok 80 KN rg
+ROR ARRON
+lB C 7\
+DY)
+Saki
+v4
++ 2n9
+
+ra)
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper e39abd034a75
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/THEORY OF STRUCTURES/THEORY OF STRUCTURES B TECH (CIVIL), BATCH 2013-14 RE EXAM_e39abd034a.pdf`
+- Printed on paper: exam date: 02/12/2014
+- Text: ocr (4 pages), mean OCR confidence 86.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: V
+
+Batch: 2013-2014 ‘aantare ar
+\ tae
+
+Academic Year: 2014-2015 iy
+
+Subject: Theory of Structures
+Marks:
+Date: 02/12/2014 Time:
+Durations:
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB: 1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+1. Attempt any four of the following:
+
+(5)
+a) Prove that the shear force (Radial Shear) at any section of a symmetrical three hinged
+parabolic arch subjected to u.d.l. over entire span is zero.
+b) Explain the two types of cable supports and the forces transmitted by them on the pier. (5)
+c) Define strain energy. Write down the equations for the strain energy produced due to- (5)
+
+i) Axial loading
+ii) Bending
+iii) Shear
+iv) Torsion.
+d) Using influence lines find out the shear force (S.F.) at section for the loaded girder as shown _—(5)
+in Figure].
+
+fp a + SecHon
+
+AOKN
+BO KN [mm |
+
+fe 4m bom ob IM, x
+
+7 A ah
+
+Figure 1
+
+e) What is meant by conjugate beam? State the mohr’s theorem I and II as applied to the (5)
+conjugate beam. Also state in brief the relationship between the real beam and conjugate
+beam in the tabular manner.
+
+Vy
+--- page 2 ---
+f) What are the assumptions made in the Euler’s theory? What is meant by the Equivalent (5)
+length, i.e., effective length of column? Give the relationship between the effective length
+and actual length of the column for various end conditions.
+
+2. a) A cantilever beam AB of length 6 m. Carries point loads of 30 KN & 50 KN acting at central (10)
+point C & free end B respectively. Moment of inertia of portion AC is 2] and that of BC is I,
+find slope and vertical deflection at free end by conjugate beam method.
+
+b) A simply supported beam AB of length 6 m, having points C & D at3 m & 4 mrespectively (10)
+from left support A. Beam is subjected to UDL of 20 kKN/m over span AC and 60 KN vertical
+force acting at point D. Using moment area method find the vertical deflection at D and slope
+at B. take E=2x 10° MPa& I=3 x 10° mm‘.
+
+3. a) A symmetrical semicircular three hinged arch of span 20 m. Carries a UDL of 60 KN/m on (12)
+the left half of the span. Determine,
+i) The horizontal thrust at the supports.
+ii) Maximum bending moment in the portions AC and BC if C is Crown Point, also draw
+BMD.
+iii) Normal thrust, radial SF & BM at 4 m from left support.
+
+b) A cable is supported between two points 30 m horizontally apart. The left support is 3 m (8)
+above the right support. The cable carries a load of 2 kN/m on the horizontal span. The
+lowest point of the cable is 6 m below the left support. Find the maximum and minimum
+tension in the cable.
+
+4. a) A series of concentrated load as shown in Figure 2. Moves over girder of span 40 m from left (8)
+to right. Find the location and magnitude of absolute maximum bending moment anywhere in
+the beam :
+29KN Bolcn 6OKN SO KN 4OKN
+
+an | SON | am | A-PY |
+
+|
+
+b) For pin jointed frame shown in figure 3. Construct the influence line diagram for the forces in (12)
+the member (i) CF (ii) FD (iii) DE (iv) AF.
+Hence compute the max force developed in the above referred member if a concentrated load
+of 100 KN transverse along bottom chord.
+
+Figure 2
+
+8 S D i
+i 3m
+!
+A ; < E |
+aaa -—— 4m # 4m sal
+Figure 3
+aa 5. a) Analyse the rigid jointed frame shown in Figure 4. Draw free body diagram of each member (14)
+
+and construct AFD, SFD and BMD for the same. The loads acting at centre of members.
+
+2 4
+--- page 3 ---
++
+oo
+=m
+B “Ke
+2m
+ISN ——+4 an
+
+2m
+
+A i" a4 J
+
+bm
+Figure 4
+
+b) For pin jointed frame shown in Figure 5. calculate the vertical deflection at point load. take (6)
+AE constant for all the members.
+
+f a
+am
+
+i
+
+a lOKN
+a
+
+77
+
+Figure 5
+
+6. a) -Using unit load method or Castigliano’s second theorem, for the rigid jointed frame shown in (16)
+Figure 6. Calculate slope at A and horizontal displacement of roller support D. 5 KN vertical
+load is acting at centre of member BC. take E = 200Gpa & I= 4 x 10° mm‘.
+
+3/4
+--- page 4 ---
+sien
+
+Sen) my
+arm
+L |* . D
+
+7
+iy
+& ar a, ae Ban —-*
+Figure 6
+
+b) Calculate strain energy stored in beam as shown in Figure 7. (4)
+ZoOICN
+
+mM “yen
+
+er Cw   2er i B
+Ho 6M HO EM Oy
+
+Figure 7
+
+7. a) The cables of suspension bridge have span of 60 m and central dip of 7.5 m. Each cable is (12)
+stiffened by a girder hinged at the ends and also at the middle so as to retain a parabolic
+shape of the cables. The girder is subjected to a dead load of 10 kN/m and live load of 20
+kN/m 15 m. long. Find the max tension in the cable when the leading edge of the live load
+(udl) is just centre of the girder. Also draw S.F. and B.M. diagram for the girder.
+
+b) A column of hollow section with 200 mm external diameter and 100 mm internal diameter is (8)
+of length 6 m. the column is fixed at both the end. The column carries a load of 250 kN at an
+eccentricity of 30 mm. find the stresses produced at extreme fibres of the column section.
+
+Take E = 0.9 x 10° MPa.
+
+fy
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper aee84c63137d
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/THEORY OF STRUCTURES/THEORY OF STRUCTURES B TECH CIVIL), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/06/2015
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: V
+Batch: 2013-14
+Academic Year: 2014-2015 , we
+; 4 Zea aR,
+Subject: Theory of Structures j 27, 7 Nt,
+Marks: 100 { &( MPSTME y= *
+Date: 09/06/2015 Time: 10. 09 BR to. 1.00 pri ¥ pe ;
+Durations: 3 (hrs ia Ae oe) 16
+“on thes nt ee
+Re-Examination —.
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. i is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+
+Ht ars nts
+
+Vie atl bh
+Shows we Be atiemptcd,.
+
+3 inal
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on 2 fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary and state it clearly
+
+Q.la Derive the formula for the Euler’s buckling load on the columns hinged at both ends. Explain
+the concept of effective length of columns. (12)
+b What is conjugate beam? Explain how and why supports are to be modified when using (08)
+conjugate beam.
+Q.2 . For the frame loaded as shown in figure 1, draw axial force diagram, shear force diagram and
+
+bending moment diagram. Note that F is an internal hinge and is a mid-point of BC . (20)
+Q.3.a For the beam as shown in figure 2, Draw ILD for reaction at A and D, bending moment at C.
+Note that B is an internal hinge. (10)
+
+b_ A simply supported girder of span 50 m is subjected to a rolling udl of length 12 m moving from
+left to right. Determine the absolute bending moment developed in the beam. Also determine the
+maximum bending moment and shear force developed at a point 18 m from left support. (10)
+Q.4a A symmetrical cable of span 110 m and central dip of 12:m is supported a three hinged
+stiffening girder hinged at its center and at the ends. The girder is subjected to a live Joad in the
+form of a uniiormly distributed load of intensity 15 kN/m over the left half portion. The dead
+load of the girder is 10 kN/m. Determine the maximum and minimum tension developed in the
+cable. Also determine the forces. developed in the pier of height 25 m if the cable is supported
+over a frictionless pulley support with back anchoring at 30° with horizontal. (10)
+b For the three hinged semicircular arch of span 30m subjected to a udl of intensity 20 kKN/m over
+left half span determine support reactions and maximum positive and negative bending moment
+
+developed in the arch section. Also draw bending. moment diagram. (10)
+Q.5a_ For the frame loaded as shown in figure 3, determine the horizontal deflection of point C if EI =
+10000 kN-m?. Use unit load method. (10)
+
+b_ Determine the Euler’s buckling load and Rankine’s load for the column cross section which is a
+rectangular section of size 300 X 600 mm with a two central holes of 250 mm diameter at a
+--- page 2 ---
+distance of 150 mm from the axis bisecting 600 mm side. The length of the column is 12 m and (10)
+the column is fixed at one end and hinged at the other end. Assume E = 200 GPa and crushing
+
+strength of the material as 150 MPa.
+Q.6a Determine the slope and deflection at mid-point of the beam when loaded as shown in figure 4.
+
+(10)
+
+Use Moment area method.
+6 aabove. Use Conjugate beam method. — (10)
+
+b Determine the maximum deflection for the beam in Q.
+Q.7a For the frame loaded as shown in figure 5, determine the horizontal deflection of point C. Use
+
+(10)
+
+Castigliano’s theorem
+b Determine the vertical deflection of point B in the truss loaded as shown in fig
+
+that the cross sectional area of all the members as same.
+
+ure 6. Assume
+
+(16)
+
+io KNIN)
+````
+
 ## 2013-14 · Final-Exam · Sem 5 · paper bdccbe0f45ff
 
 - Departments: Civil
@@ -2149,6 +2570,7 @@ method.
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/THEORY OF STRUCTURES/THEORY OF STRUCTURES 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2013
 - Text: ocr (4 pages), mean OCR confidence 84.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —- SVKM’s NMIMS
@@ -2198,7 +2620,6 @@ ACkN
 fraokn fe :
 ROmmommnmnahnanca.
 Ab I
-Aa \m—# am | Im 2m a
 Figure 1
 
 e) What is meant by conjugate beam? State the mohr’s theorem I and II as applied to the (5)
@@ -2315,7 +2736,6 @@ Figure 6
 b) Calculate strain energy stored in beam as shown in Figure 7. (4)
 2OKN
 TORN. ay
-ia) T 26D Cl EL il B
 OS™ AC sm —+#
 Figure 7
 
@@ -2444,425 +2864,4 @@ working stress being one-fourth the stress at the crippling load. Rankine’s
 constant for the mild steel are a=1/7500 and fe = 320 MN/m?.
 
 A
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 73914e414793
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/THEORY OF STRUCTURES/THEORY OF STRUCTURES B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 80.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: III Semester: V
-Batch: 2013-2014
-Academic Year: 2015-2016 npn
-: Lg Bea
-Subject: Theory of Structures is? —_ Ne,
-
-f...
-
-: G MPSTMB }3 °
-Date: 02/12/2015 Time   :2.0 Bit. DQprR ¥ a
-Duration: 3 (hr a. :
-
-e
-* ym, Jk
-er aE
-
-cena ai
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.1.a Derive the equation of Euler’s buckling load ‘P.,’for a long column having length ‘L’,
-fixed at both Ends. [10]
-Q.1.b State and explain Maxwell’s Reciprocal theorem. [04]
-Q.l.c State Castigliano’s theorem. Explain the procedure of determination of deflection of
-structure using Castigliano’s theorem.
-Q.2 For the rigid jointed frame shown in figure 1, draw Axial force diagram, Shear force
-diagram and bending moment diagram. Note that joint B is internal hinge. [20]
-Q.3.a For the beam loaded as shown in figure 2, determine the slope and deflection of joint C.
-Use moment area theorem.
-Q.3.b For the beam loaded as shown in figure 3, determine the slope and deflection of joint C.
-Use conjugate beam method.
-Q.4.a A three hinged unsymmetrical parabolic arch has a span of 60 m and the vertical distance
-of left support and crown measured from right support is 3 m and 9 m respectively. The
-arch is loaded by two point loads of 300 kN each positioned at a distance of 20 m and 40
-m from the support. Determine the reactions developed and radial shear and normal thrust
-at a distance of 30 m from support. Also draw BMD. [15]
-Q.4.b6 Show that the radial shear and bending moment at any section of a symmetrical parabolic
-arch loaded by a uniformly distributed load throughout the span is zero. [eS]
-Q.5.a For the beam shown in. figure 4, draw ILD for reaction at A, B, and D. Note that joint C is
-
-[06]
-
-[10]
-
-[10]
-
-[10]
-
-internal hinge.
-Q.5.6 A simply supported girder of span 50 m. is subjected to a series of concentrated loads as
-shown in figure 5. Determine absolute maximum and shear force developed anywhere in
-
-the beam. [10]
-
-Q.6.a_ For the frame as shown in figure 6, determine the horizontal displacement of roller support
-
-D. use Unit load method. [10]
-Q.6.b For the truss as shown in figure 7, determine the strain energy stored. [10]
-
-tb
---- page 2 ---
-Q.7 A symmetrical cable of span 100 m and ceniral dip of 10 m is supported a three hinged
-stiffening girder at its center and at ends. The girder is subjected to a live load in the form
-of udl of intensity 10 KN/m over left half portion. The dead load of the girder is 10 kKN/m.
-Determine the minimum and maximum tension developed in the cable. Also determine the
-forces developed in the pier of height 20 m if the cable is back anchored at 30 degrees with
-horizontal. Note that cable is passing over a smooth pulley over the piers. Draw SFD and
-
-BMD for the girder. [20]
-Snb Wage
-— 20KN] YO
-. a
-7 B EE
-AM
-| 4A B
-Hy 7
-| sy) L2M
-r 1
-
-Fraure 1
-9 “Figure 3
-
-A B c _D 50KN SOKN FOKN 40KN
-eo il
-a — | —
-i? AN). 4M +» 3) _y % 4 %
-om wal ; ) ; . am "
-Figure 4 A Om 3m! 2
-Fraure-S
-cok 80 KN rg
-ROR ARRON
-lB C 7\
-DY)
-Saki
-v4
-+ 2n9
-
-ra)
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper e39abd034a75
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/THEORY OF STRUCTURES/THEORY OF STRUCTURES B TECH (CIVIL), BATCH 2013-14 RE EXAM_e39abd034a.pdf`
-- Printed on paper: exam date: 02/12/2014
-- Text: ocr (4 pages), mean OCR confidence 86.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: V
-
-Batch: 2013-2014 ‘aantare ar
-\ tae
-
-Academic Year: 2014-2015 iy
-
-Subject: Theory of Structures
-Marks:
-Date: 02/12/2014 Time:
-Durations:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB: 1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-1. Attempt any four of the following:
-
-(5)
-a) Prove that the shear force (Radial Shear) at any section of a symmetrical three hinged
-parabolic arch subjected to u.d.l. over entire span is zero.
-b) Explain the two types of cable supports and the forces transmitted by them on the pier. (5)
-c) Define strain energy. Write down the equations for the strain energy produced due to- (5)
-
-i) Axial loading
-ii) Bending
-iii) Shear
-iv) Torsion.
-d) Using influence lines find out the shear force (S.F.) at section for the loaded girder as shown _—(5)
-in Figure].
-
-fp a + SecHon
-
-AOKN
-BO KN [mm |
-
-fe 4m bom ob IM, x
-
-7 A ah
-
-Figure 1
-
-e) What is meant by conjugate beam? State the mohr’s theorem I and II as applied to the (5)
-conjugate beam. Also state in brief the relationship between the real beam and conjugate
-beam in the tabular manner.
-
-Vy
---- page 2 ---
-f) What are the assumptions made in the Euler’s theory? What is meant by the Equivalent (5)
-length, i.e., effective length of column? Give the relationship between the effective length
-and actual length of the column for various end conditions.
-
-2. a) A cantilever beam AB of length 6 m. Carries point loads of 30 KN & 50 KN acting at central (10)
-point C & free end B respectively. Moment of inertia of portion AC is 2] and that of BC is I,
-find slope and vertical deflection at free end by conjugate beam method.
-
-b) A simply supported beam AB of length 6 m, having points C & D at3 m & 4 mrespectively (10)
-from left support A. Beam is subjected to UDL of 20 kKN/m over span AC and 60 KN vertical
-force acting at point D. Using moment area method find the vertical deflection at D and slope
-at B. take E=2x 10° MPa& I=3 x 10° mm‘.
-
-3. a) A symmetrical semicircular three hinged arch of span 20 m. Carries a UDL of 60 KN/m on (12)
-the left half of the span. Determine,
-i) The horizontal thrust at the supports.
-ii) Maximum bending moment in the portions AC and BC if C is Crown Point, also draw
-BMD.
-iii) Normal thrust, radial SF & BM at 4 m from left support.
-
-b) A cable is supported between two points 30 m horizontally apart. The left support is 3 m (8)
-above the right support. The cable carries a load of 2 kN/m on the horizontal span. The
-lowest point of the cable is 6 m below the left support. Find the maximum and minimum
-tension in the cable.
-
-4. a) A series of concentrated load as shown in Figure 2. Moves over girder of span 40 m from left (8)
-to right. Find the location and magnitude of absolute maximum bending moment anywhere in
-the beam :
-29KN Bolcn 6OKN SO KN 4OKN
-
-an | SON | am | A-PY |
-
-|
-
-b) For pin jointed frame shown in figure 3. Construct the influence line diagram for the forces in (12)
-the member (i) CF (ii) FD (iii) DE (iv) AF.
-Hence compute the max force developed in the above referred member if a concentrated load
-of 100 KN transverse along bottom chord.
-
-Figure 2
-
-8 S D i
-i 3m
-!
-A ; < E |
-aaa -—— 4m # 4m sal
-Figure 3
-aa 5. a) Analyse the rigid jointed frame shown in Figure 4. Draw free body diagram of each member (14)
-
-and construct AFD, SFD and BMD for the same. The loads acting at centre of members.
-
-2 4
---- page 3 ---
-+
-oo
-=m
-B “Ke
-2m
-ISN ——+4 an
-
-2m
-
-A i" a4 J
-
-bm
-Figure 4
-
-b) For pin jointed frame shown in Figure 5. calculate the vertical deflection at point load. take (6)
-AE constant for all the members.
-
-f a
-am
-
-i
-
-a lOKN
-a
-
-77
-
-Figure 5
-
-6. a) -Using unit load method or Castigliano’s second theorem, for the rigid jointed frame shown in (16)
-Figure 6. Calculate slope at A and horizontal displacement of roller support D. 5 KN vertical
-load is acting at centre of member BC. take E = 200Gpa & I= 4 x 10° mm‘.
-
-3/4
---- page 4 ---
-sien
-
-Sen) my
-arm
-L |* . D
-
-7
-iy
-& ar a, ae Ban —-*
-Figure 6
-
-b) Calculate strain energy stored in beam as shown in Figure 7. (4)
-ZoOICN
-
-mM “yen
-
-er Cw   2er i B
-Ho 6M HO EM Oy
-
-Figure 7
-
-7. a) The cables of suspension bridge have span of 60 m and central dip of 7.5 m. Each cable is (12)
-stiffened by a girder hinged at the ends and also at the middle so as to retain a parabolic
-shape of the cables. The girder is subjected to a dead load of 10 kN/m and live load of 20
-kN/m 15 m. long. Find the max tension in the cable when the leading edge of the live load
-(udl) is just centre of the girder. Also draw S.F. and B.M. diagram for the girder.
-
-b) A column of hollow section with 200 mm external diameter and 100 mm internal diameter is (8)
-of length 6 m. the column is fixed at both the end. The column carries a load of 250 kN at an
-eccentricity of 30 mm. find the stresses produced at extreme fibres of the column section.
-
-Take E = 0.9 x 10° MPa.
-
-fy
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper aee84c63137d
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/THEORY OF STRUCTURES/THEORY OF STRUCTURES B TECH CIVIL), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/06/2015
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: V
-Batch: 2013-14
-Academic Year: 2014-2015 , we
-; 4 Zea aR,
-Subject: Theory of Structures j 27, 7 Nt,
-Marks: 100 { &( MPSTME y= *
-Date: 09/06/2015 Time: 10. 09 BR to. 1.00 pri ¥ pe ;
-Durations: 3 (hrs ia Ae oe) 16
-“on thes nt ee
-Re-Examination —.
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. i is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-
-Ht ars nts
-
-Vie atl bh
-Shows we Be atiemptcd,.
-
-3 inal
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on 2 fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary and state it clearly
-
-Q.la Derive the formula for the Euler’s buckling load on the columns hinged at both ends. Explain
-the concept of effective length of columns. (12)
-b What is conjugate beam? Explain how and why supports are to be modified when using (08)
-conjugate beam.
-Q.2 . For the frame loaded as shown in figure 1, draw axial force diagram, shear force diagram and
-
-bending moment diagram. Note that F is an internal hinge and is a mid-point of BC . (20)
-Q.3.a For the beam as shown in figure 2, Draw ILD for reaction at A and D, bending moment at C.
-Note that B is an internal hinge. (10)
-
-b_ A simply supported girder of span 50 m is subjected to a rolling udl of length 12 m moving from
-left to right. Determine the absolute bending moment developed in the beam. Also determine the
-maximum bending moment and shear force developed at a point 18 m from left support. (10)
-Q.4a A symmetrical cable of span 110 m and central dip of 12:m is supported a three hinged
-stiffening girder hinged at its center and at the ends. The girder is subjected to a live Joad in the
-form of a uniiormly distributed load of intensity 15 kN/m over the left half portion. The dead
-load of the girder is 10 kN/m. Determine the maximum and minimum tension developed in the
-cable. Also determine the forces. developed in the pier of height 25 m if the cable is supported
-over a frictionless pulley support with back anchoring at 30° with horizontal. (10)
-b For the three hinged semicircular arch of span 30m subjected to a udl of intensity 20 kKN/m over
-left half span determine support reactions and maximum positive and negative bending moment
-
-developed in the arch section. Also draw bending. moment diagram. (10)
-Q.5a_ For the frame loaded as shown in figure 3, determine the horizontal deflection of point C if EI =
-10000 kN-m?. Use unit load method. (10)
-
-b_ Determine the Euler’s buckling load and Rankine’s load for the column cross section which is a
-rectangular section of size 300 X 600 mm with a two central holes of 250 mm diameter at a
---- page 2 ---
-distance of 150 mm from the axis bisecting 600 mm side. The length of the column is 12 m and (10)
-the column is fixed at one end and hinged at the other end. Assume E = 200 GPa and crushing
-
-strength of the material as 150 MPa.
-Q.6a Determine the slope and deflection at mid-point of the beam when loaded as shown in figure 4.
-
-(10)
-
-Use Moment area method.
-6 aabove. Use Conjugate beam method. — (10)
-
-b Determine the maximum deflection for the beam in Q.
-Q.7a For the frame loaded as shown in figure 5, determine the horizontal deflection of point C. Use
-
-(10)
-
-Castigliano’s theorem
-b Determine the vertical deflection of point B in the truss loaded as shown in fig
-
-that the cross sectional area of all the members as same.
-
-ure 6. Assume
-
-(16)
-
-io KNIN)
 ````

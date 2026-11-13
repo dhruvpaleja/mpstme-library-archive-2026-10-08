@@ -737,6 +737,266 @@ Discuss in brief giving relative merits and demerits of each process. 10
 VW)
 ````
 
+## 2012-13 · Exam not stated · Trim 7 · paper f376f4303380
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/CHEMICAL PROCESS II/scan0009.pdf`
+- Printed on paper: exam date: 27/09/2012
+- Text: ocr (2 pages), mean OCR confidence 89.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA-(Tech) - Chemical Year: Ill Trimester: VII
+Academic Year : 2012-2013
+
+Subject: CHEMICAL PROCESS-II Marks:
+Time:
+Date: 27/09/2012 Duration:
+
+Final - Examination
+
+NOTE:
+1. Question number | is compulsory.
+2. Attempt any four questions from the remaining questions.
+3. Figures in bracket indicate full marks.
+
+4. All the process description should include raw materials used, catalyst used,
+
+process conditions, process description and process flow diagram.
+
+Q1 A _ Answer the questions briefly (Any 5)
+
+1 Give Pros & cons of different types of fixed bed reactors used for
+methanol Manufacturing
+
+2 Why is calcium hydrophosphate and lime added in sugar
+manufacturing?
+
+3. Rationale of selecting operating temperature & pressure in
+manufacturing acetic acid from methanol
+
+4 List advantage of solvent extraction process over mechanical process
+in oil manufacturing.
+
+5 Compare indirect hydration process v/s direct hydration process for
+Isopropyl Alcohol manafacturing?
+
+6 Why is Methanol condensed at high pressure?
+
+B   Fillin the blanks.
+
+1) is the solvent used for BTX extraction.
+} 2) Process conditions for commercial methanol preparation is
+
+a) Low pressure & high Temp b) Low Temp & high Press c) Low
+
+Temp & Low Press d) HighPress-&Low-Femp
+3) Hydrogenation of oil is used to add
+
+a) Single bonds b) double bonds c) triple bonds *d) none of these.
+
+4) is the starting material for caprolactum.
+
+5) is the catalyst used in dehydrogenation reaction
+
+} of Ethyl benzene. ;
+\ , : a) Iron oxide — potassium oxide b) Aluminium chloride
+¢ ) c) Ethyl benzene d) none of these.
+
+6) Glacial Acetic Acid contains : % water.
+a)0% b) 1% c)5% d) 10%
+
+7) Acetylene convertor operates at temperature.
+
+a) 78 C b)100C c)250C d)300C.
+
+8) Solid phosphoric acid is used as catalyst in Cumene manufacturing
+from propylene and benzene.
+a) True b) False.
+
+9) Zigler process is operated at following pressure to get polyethylene
+
+a) 1000 atm b) 100 atm c) 10 atm d) 1 atm
+
+(10)
+
+(10)
+--- page 2 ---
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+q
+
+10) Marketable byproduct from soap Industry is
+a) Oil b) vegetable ghee c) glycerin d) Fatty Acid.
+
+A Explain sugar manufacturing from sugar cane. (No PFD)
+B Draw the process flow diagram of Butylene manufacturing.
+
+A Draw the PFD for manufacturing of Methanol.
+B Describe the production of IPA using direct method with appropriate
+PFD.
+
+A Describe the manufacturing of Cumene by alkylation. (No PFD)
+B Draw Process flow diagram of Ethylene Oxide by oxidation of
+ethylene with air.
+
+A Describe Ethyl Alcohol manufacturing using molasses as raw
+materials (with PFD).
+
+B Describe the manufacturing of paper. (No PFD)
+
+A Describe in detail on flow diagram how Benzene, Toluene and
+Xylenes are obtained. (only PFD)
+
+B Describe the process for manufacturing of polyethylene. (with PFD)
+
+A Describe the industrial manufacturing of Caprolactum. (only PFD)
+B__ Describe how saop is manufactured? (with PFD)
+
+a PK
+
+}
+
+(10)
+(10)
+
+(10)
+(10)
+
+(10)
+(10)
+(10)
+(10)
+(10)
+(10)
+
+(10)
+(10)
+````
+
+## 2012-13 · Exam not stated · Trim 7 · paper b1b0a3ed75ca
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/CHEMICAL PROCESS II/scan0010(9).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (1 page), mean OCR confidence 89.1
+
+````text
+Programme :
+
+Batch:
+Subject :
+
+Date:
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Mana
+
+gement & Engineering
+
+MBA (TECH)-Chemical Year: III Trimester: VII
+Academic Year : 2012-2013
+2010-2011
+Chemical Process -II Marks: 100
+Time : 10.00 am To 1.00
+a pm
+27/09/2012 Duration: 3 hrs.
+Re-Examination
+1. Question number | is compulsory.
+2. Attempt any four questions from the remaining questions.
+3. Figures in bracket indicate full marks. ;
+4. All the process description should include raw materials used, catalyst used,
+process conditions, process description and process flow diagram.
+Ql Describe in detail how Ethylene, Propylene, Butylenes are obtained (20)
+from Naphtha as raw material.
+Q2 A __ Describe the detailed procedure for manufacturing of Cumene (10)
+B Describe Hydrogenation of vegetable oil with all the details ~ (10)
+Q3 A What do you understand by Anionic and Cationic fatty acid radicals? (10)
+Give importance of each. Differentiate between soaps and Detergents.
+B Describe the manufacturing of Toluene in detail. (10)
+Q4 A Describe Vinyl Chloride manufacturing in detail using ethylenedi (10)
+chloride and acetylene method together.
+B__ Describe sugar manufacturing in detail (10)
+Q5 A __ Describe the manufacturing of phenol in detail (any method) (10)
+B _Howis Chlorobenzene manufactured? (10)
+Q6 A __ Describe paper manufacturing in detail (10)
+
+Q7
+ra
+
+B__ Write short note on Pyrolysis and alkylation in relation with petroleum (10)
+
+Industry.
+
+A _ Describe the production of Denatured Ethyl Alcohol in detail (10)
+
+B Explain the manufacturing of Caprolactum.
+
+wf
+
+(10)
+````
+
+## 2012-13 · Re-Exam · Trim 7 · paper 2b8b02f5f45f
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/CHEMICAL PROCESS II/CHEMICAL PROCESS II VII (CHEMICAL) MBA TECH 2010-2011 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: text (1 page)
+
+````text
+I   q;:.   .L;'.
+j I   . ,.I,g .-   y
+!   SVKM's NMIMS
+.'.$'   Mukesh Patel School of Technolow Management L Endue
+Programme: MBA Tech -CHEMICAL. .   Year: ID -   Trimester: VII ;
+- Academic Year :2012-2013
+Batch:   2010-2011.
+Subject:   Chemical Pracess I1 .   Marks:   100
+Time:   10.00 am To 1.00 pm   a
+Date:   Duration: 3 hrs.
+Re - Examination
+NOTE:
+1. Question number 1is compulsoxy.
+2. Attempt any four questions from the remaining questions.
+3. Figures in bracket indicate full mxks.
+Q 1 A   Explain the manufacturing process of Butylene from Naptha as raw (15)
+material with neat PFD.
+Q 1 B   Write short note on Cracking in petroleum industries.   (5)
+Q 2 A   Describe the manufacturing of Styrene in detail with neat PFD   (15)
+Q 2 B   Give reactions for vinyl chloride manufacturing and explain why (5)
+combined method is used in vinyl chloride manufacturing
+Draw the PFD for manufacture of Paper from pulp.
+Explain hydrogenation of oil with neat PFD
+Explain sugar manufacturing from sugar cane. (No PFD)   (10)
+Describe Ethyl Alcohol manufacturing using molasses as raw (10)
+materials (with PFD).
+Describe the manufacturing of phenol in detail (any method)
+How is Chlorobenzene manufactured?
+Draw the PFD to illustrate manufacturing of BTX with xylenes (10)
+separation.
+Describe the manufacturing of Toluene in dqail. (No PFD)   (10)
+Q 7 A   Describe the soap manufacturing in detail. (with PFD)   (12)
+Q 7 B   Distinguish between paints and varnishes   (8)
+````
+
 ## 2012-13 · Re-Exam · Trim 7 · paper 2acffe73f8cf
 
 - Departments: Chemical
@@ -812,6 +1072,7 @@ Draw PFD f ~ starch r   manufacturing   - (7)
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/CHEMICAL PROCESS II/CHEMICAL PROCESS II 2011-2012.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03/10/2011
 - Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 >
@@ -841,7 +1102,6 @@ Q1 A __ Fillin the blanks. (5)
 1) The product obtained as crystals from crystallization in BTX
 separation is :
 
-a) 0— Xylene b) P- Xylene c) M~— Xylene d) Toluene
 2) Process conditions used for commercial methanol preparation are
 
 a) Low pressure & high Temp b) Low Temp & high Press c) Low
@@ -930,146 +1190,14 @@ a
 2h
 ````
 
-## 2010-11 · Exam not stated · Trim 7 · paper 6c23974f011d
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/CHEMICAL PROCESS II/CHEMICAL PROCESS II BACTH 2010-2011.pdf`
-- Printed on paper: duration hours: 3; exam date: 13/06/2011
-- Text: ocr (2 pages), mean OCR confidence 92.1
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineeri
-Programme: MBA Tech -CHEMICAL Year: II Trimester? VII
-Academic Year : 2010-2011 /
-/
-
-Batch: 2010-2011 / m
-Subject: Chemical Process II a ‘100
-Time:\ 10.00.am To }). 60
-Date: 13/06/2011 Duration: 3 hrs. 3)
-Re - Examination AN re ~, /
-NN ww
-1. Question number 1 is compulsory. —
-
-2. Attempt any four questions from the remaining questions.
-
-3. Figures in bracket indicate full marks.
-
-4. All the process description should include raw materials used, catalyst used,
-process conditions, process description and process flow diagram.
-
-Qi A _ Answer the questions briefly (Any 5) (10)
-
-1 Why is Nitrogen column used in Acetic Acid manufacturing?
-
-2 Write the reasons why is Sulfuric Acid used in Nitrobenzene process?
-
-3. Why is vacuum distillation column used in Styrene manufacturing?
-
-4 List advantage of solvent extraction process over mechanical process
-in oil manufacturing.
-
-5 Why is calcium hydrophosphate and lime added in sugar
-manufacturing?
-
-6 What are the process conditions in digester in pulp manufacturing?
-
-B Fill in the blanks. (10)
-1) Hydrogenation of oil is used to remove
-a) Single bonds b) double bonds c) triple bonds d) cazbon atoms.
-2) Glacial Acetic Acid contains % water.
-a)0% b) 1% c)5% d) 10%
-3) Major objective of food processing is
-a) Food preservation b) process food c) grain processing d) nutrition.
-
-4) is the starting material for caprolactum.
-a) acetic acid b) benzene c) propylene d) Benzoic Acid.
-
-5) is the catalyst used in dehydrogenation reaction
-of Ethyl benzene.
-
-a) Iron oxide — potassium oxide b) Aluminium chloride
-c) Ethyl benzene d) none of these.
-
-6)   Diluent or thinner is not used in
-a) Oil based paints b) varnishes c) water based paints d Liquors
-
-7)   O-DCB is used for
-a) Rubber Processing b) Pharmaceuticals c) Deodrant soaps
-d) Polyphenylene resins.
-
-8) The catalyst used in phenol manufacturing by toluene — benzoic
-process is
-a) Cupric Benzoate b) Cobalt c) Cupric chloride d) Aq. H2SO,.
-
-9) Zigler process is operated at following pressure to get polyethylene
-
-a) 1000 atm b) 100 atm c) 10 atm d) 1 atm
-10) Marketable byproduct from soap Industry is
-a) Oil b) vegetable ghee c) glycerin d) Fatty Acid.
-
-Mo
---- page 2 ---
-Q2
-
-Q3
-
-Q4
-
-Q5
-
-Q6
-Q7
-
-Explain sugar manufacturing from sugar cane
-Draw the process flow diagram of Propylene manufacturing.
-
-Describe the manufacturing of styrene in detail.
-Draw the Process flow diagram of soap manufacturing in details
-
-Describe the manufacturing of Nitrobenzene.
-How is Acetic Acid manufactured?
-
-Describe Ethyl Alcohol manufacturing using molasses as raw
-materials.
-
-Describe the manufacturing of paper.
-
-Describe in detail how Benzene, Toluene and Xylenes are obtained.
-Describe the detailed procedure for manufacturing of Phenol using
-
-Toluene as raw material. (only PFD)
-Describe in detail manufacturing of Chlorobenzene
-
-(a
-
-(10)
-(10)
-
-(10)
-(10)
-
-(10)
-(10)
-
-(10)
-(10)
-(20)
-(10)
-
-(10)
-````
-
-## 2010-11 · Exam not stated · Trim 7 · paper d405ad66b9c2
+## 2011-12 · Exam not stated · Trim 7 · paper d405ad66b9c2
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/CHEMICAL PROCESS II/CHEMICAL PROCESS II BATCH 2010-2011.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03/10/2011
 - Text: ocr (2 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1097,7 +1225,6 @@ Q1. A Fillin the blanks. (10)
 
 1) The product obtained as crystals from crystallization in BTX
 separation is
-a)0-—Xylene b) P— Xylene c) M- Xylene d) Toluene
 
 2) Cyclohexane carboxylic Acid when dehydrated yields :
 a) Ketone b) Oxime c) Nitrosyl sulfuric Acid d) Benzoic Acid
@@ -1234,6 +1361,139 @@ x’
 (20)
 ````
 
+## 2010-11 · Exam not stated · Trim 7 · paper 6c23974f011d
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/CHEMICAL PROCESS II/CHEMICAL PROCESS II BACTH 2010-2011.pdf`
+- Printed on paper: duration hours: 3; exam date: 13/06/2011
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineeri
+Programme: MBA Tech -CHEMICAL Year: II Trimester? VII
+Academic Year : 2010-2011 /
+/
+
+Batch: 2010-2011 / m
+Subject: Chemical Process II a ‘100
+Time:\ 10.00.am To }). 60
+Date: 13/06/2011 Duration: 3 hrs. 3)
+Re - Examination AN re ~, /
+NN ww
+1. Question number 1 is compulsory. —
+
+2. Attempt any four questions from the remaining questions.
+
+3. Figures in bracket indicate full marks.
+
+4. All the process description should include raw materials used, catalyst used,
+process conditions, process description and process flow diagram.
+
+Qi A _ Answer the questions briefly (Any 5) (10)
+
+1 Why is Nitrogen column used in Acetic Acid manufacturing?
+
+2 Write the reasons why is Sulfuric Acid used in Nitrobenzene process?
+
+3. Why is vacuum distillation column used in Styrene manufacturing?
+
+4 List advantage of solvent extraction process over mechanical process
+in oil manufacturing.
+
+5 Why is calcium hydrophosphate and lime added in sugar
+manufacturing?
+
+6 What are the process conditions in digester in pulp manufacturing?
+
+B Fill in the blanks. (10)
+1) Hydrogenation of oil is used to remove
+a) Single bonds b) double bonds c) triple bonds d) cazbon atoms.
+2) Glacial Acetic Acid contains % water.
+a)0% b) 1% c)5% d) 10%
+3) Major objective of food processing is
+a) Food preservation b) process food c) grain processing d) nutrition.
+
+4) is the starting material for caprolactum.
+a) acetic acid b) benzene c) propylene d) Benzoic Acid.
+
+5) is the catalyst used in dehydrogenation reaction
+of Ethyl benzene.
+
+a) Iron oxide — potassium oxide b) Aluminium chloride
+c) Ethyl benzene d) none of these.
+
+6)   Diluent or thinner is not used in
+a) Oil based paints b) varnishes c) water based paints d Liquors
+
+7)   O-DCB is used for
+a) Rubber Processing b) Pharmaceuticals c) Deodrant soaps
+d) Polyphenylene resins.
+
+8) The catalyst used in phenol manufacturing by toluene — benzoic
+process is
+a) Cupric Benzoate b) Cobalt c) Cupric chloride d) Aq. H2SO,.
+
+9) Zigler process is operated at following pressure to get polyethylene
+
+a) 1000 atm b) 100 atm c) 10 atm d) 1 atm
+10) Marketable byproduct from soap Industry is
+a) Oil b) vegetable ghee c) glycerin d) Fatty Acid.
+
+Mo
+--- page 2 ---
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+Q7
+
+Explain sugar manufacturing from sugar cane
+Draw the process flow diagram of Propylene manufacturing.
+
+Describe the manufacturing of styrene in detail.
+Draw the Process flow diagram of soap manufacturing in details
+
+Describe the manufacturing of Nitrobenzene.
+How is Acetic Acid manufactured?
+
+Describe Ethyl Alcohol manufacturing using molasses as raw
+materials.
+
+Describe the manufacturing of paper.
+
+Describe in detail how Benzene, Toluene and Xylenes are obtained.
+Describe the detailed procedure for manufacturing of Phenol using
+
+Toluene as raw material. (only PFD)
+Describe in detail manufacturing of Chlorobenzene
+
+(a
+
+(10)
+(10)
+
+(10)
+(10)
+
+(10)
+(10)
+
+(10)
+(10)
+(20)
+(10)
+
+(10)
+````
+
 ## 2010-11 · Exam not stated · Trim 7 · paper 47a00157054c
 
 - Departments: Chemical
@@ -1318,50 +1578,6 @@ Q-7) Writh short note on any four:-
 
 5} Agrochemicals.
 € Oil extraction .
-````
-
-## 2010-11 · Re-Exam · Trim 7 · paper 2b8b02f5f45f
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/CHEMICAL PROCESS II/CHEMICAL PROCESS II VII (CHEMICAL) MBA TECH 2010-2011 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: text (1 page)
-
-````text
-I   q;:.   .L;'.
-j I   . ,.I,g .-   y
-!   SVKM's NMIMS
-.'.$'   Mukesh Patel School of Technolow Management L Endue
-Programme: MBA Tech -CHEMICAL. .   Year: ID -   Trimester: VII ;
-- Academic Year :2012-2013
-Batch:   2010-2011.
-Subject:   Chemical Pracess I1 .   Marks:   100
-Time:   10.00 am To 1.00 pm   a
-Date:   Duration: 3 hrs.
-Re - Examination
-NOTE:
-1. Question number 1is compulsoxy.
-2. Attempt any four questions from the remaining questions.
-3. Figures in bracket indicate full mxks.
-Q 1 A   Explain the manufacturing process of Butylene from Naptha as raw (15)
-material with neat PFD.
-Q 1 B   Write short note on Cracking in petroleum industries.   (5)
-Q 2 A   Describe the manufacturing of Styrene in detail with neat PFD   (15)
-Q 2 B   Give reactions for vinyl chloride manufacturing and explain why (5)
-combined method is used in vinyl chloride manufacturing
-Draw the PFD for manufacture of Paper from pulp.
-Explain hydrogenation of oil with neat PFD
-Explain sugar manufacturing from sugar cane. (No PFD)   (10)
-Describe Ethyl Alcohol manufacturing using molasses as raw (10)
-materials (with PFD).
-Describe the manufacturing of phenol in detail (any method)
-How is Chlorobenzene manufactured?
-Draw the PFD to illustrate manufacturing of BTX with xylenes (10)
-separation.
-Describe the manufacturing of Toluene in dqail. (No PFD)   (10)
-Q 7 A   Describe the soap manufacturing in detail. (with PFD)   (12)
-Q 7 B   Distinguish between paints and varnishes   (8)
 ````
 
 ## 2009-10 · Exam not stated · Trim 7 · paper c0e98e09d244
@@ -1654,221 +1870,4 @@ ME cw
 (15)
 
 (5)
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper f376f4303380
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/CHEMICAL PROCESS II/scan0009.pdf`
-- Printed on paper: exam date: 27/09/2012
-- Text: ocr (2 pages), mean OCR confidence 89.7
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MBA-(Tech) - Chemical Year: Ill Trimester: VII
-Academic Year : 2012-2013
-
-Subject: CHEMICAL PROCESS-II Marks:
-Time:
-Date: 27/09/2012 Duration:
-
-Final - Examination
-
-NOTE:
-1. Question number | is compulsory.
-2. Attempt any four questions from the remaining questions.
-3. Figures in bracket indicate full marks.
-
-4. All the process description should include raw materials used, catalyst used,
-
-process conditions, process description and process flow diagram.
-
-Q1 A _ Answer the questions briefly (Any 5)
-
-1 Give Pros & cons of different types of fixed bed reactors used for
-methanol Manufacturing
-
-2 Why is calcium hydrophosphate and lime added in sugar
-manufacturing?
-
-3. Rationale of selecting operating temperature & pressure in
-manufacturing acetic acid from methanol
-
-4 List advantage of solvent extraction process over mechanical process
-in oil manufacturing.
-
-5 Compare indirect hydration process v/s direct hydration process for
-Isopropyl Alcohol manafacturing?
-
-6 Why is Methanol condensed at high pressure?
-
-B   Fillin the blanks.
-
-1) is the solvent used for BTX extraction.
-i a) Benzene b) Toluene c) Diethyl glycol d) Monoethanol amine
-} 2) Process conditions for commercial methanol preparation is
-
-a) Low pressure & high Temp b) Low Temp & high Press c) Low
-
-Temp & Low Press d) HighPress-&Low-Femp
-3) Hydrogenation of oil is used to add
-
-a) Single bonds b) double bonds c) triple bonds *d) none of these.
-
-4) is the starting material for caprolactum.
-a) Cyclohexanone b) benzene c) Cyclohexane d) Cyclohexanol
-
-5) is the catalyst used in dehydrogenation reaction
-
-} of Ethyl benzene. ;
-\ , : a) Iron oxide — potassium oxide b) Aluminium chloride
-¢ ) c) Ethyl benzene d) none of these.
-
-6) Glacial Acetic Acid contains : % water.
-a)0% b) 1% c)5% d) 10%
-
-7) Acetylene convertor operates at temperature.
-
-a) 78 C b)100C c)250C d)300C.
-
-8) Solid phosphoric acid is used as catalyst in Cumene manufacturing
-from propylene and benzene.
-a) True b) False.
-
-9) Zigler process is operated at following pressure to get polyethylene
-
-a) 1000 atm b) 100 atm c) 10 atm d) 1 atm
-
-(10)
-
-(10)
---- page 2 ---
-Q2
-
-Q3
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-q
-
-10) Marketable byproduct from soap Industry is
-a) Oil b) vegetable ghee c) glycerin d) Fatty Acid.
-
-A Explain sugar manufacturing from sugar cane. (No PFD)
-B Draw the process flow diagram of Butylene manufacturing.
-
-A Draw the PFD for manufacturing of Methanol.
-B Describe the production of IPA using direct method with appropriate
-PFD.
-
-A Describe the manufacturing of Cumene by alkylation. (No PFD)
-B Draw Process flow diagram of Ethylene Oxide by oxidation of
-ethylene with air.
-
-A Describe Ethyl Alcohol manufacturing using molasses as raw
-materials (with PFD).
-
-B Describe the manufacturing of paper. (No PFD)
-
-A Describe in detail on flow diagram how Benzene, Toluene and
-Xylenes are obtained. (only PFD)
-
-B Describe the process for manufacturing of polyethylene. (with PFD)
-
-A Describe the industrial manufacturing of Caprolactum. (only PFD)
-B__ Describe how saop is manufactured? (with PFD)
-
-a PK
-
-}
-
-(10)
-(10)
-
-(10)
-(10)
-
-(10)
-(10)
-(10)
-(10)
-(10)
-(10)
-
-(10)
-(10)
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper b1b0a3ed75ca
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/CHEMICAL PROCESS II/scan0010(9).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (1 page), mean OCR confidence 89.1
-
-````text
-Programme :
-
-Batch:
-Subject :
-
-Date:
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Mana
-
-gement & Engineering
-
-MBA (TECH)-Chemical Year: III Trimester: VII
-Academic Year : 2012-2013
-2010-2011
-Chemical Process -II Marks: 100
-Time : 10.00 am To 1.00
-a pm
-27/09/2012 Duration: 3 hrs.
-Re-Examination
-1. Question number | is compulsory.
-2. Attempt any four questions from the remaining questions.
-3. Figures in bracket indicate full marks. ;
-4. All the process description should include raw materials used, catalyst used,
-process conditions, process description and process flow diagram.
-Ql Describe in detail how Ethylene, Propylene, Butylenes are obtained (20)
-from Naphtha as raw material.
-Q2 A __ Describe the detailed procedure for manufacturing of Cumene (10)
-B Describe Hydrogenation of vegetable oil with all the details ~ (10)
-Q3 A What do you understand by Anionic and Cationic fatty acid radicals? (10)
-Give importance of each. Differentiate between soaps and Detergents.
-B Describe the manufacturing of Toluene in detail. (10)
-Q4 A Describe Vinyl Chloride manufacturing in detail using ethylenedi (10)
-chloride and acetylene method together.
-B__ Describe sugar manufacturing in detail (10)
-Q5 A __ Describe the manufacturing of phenol in detail (any method) (10)
-B _Howis Chlorobenzene manufactured? (10)
-Q6 A __ Describe paper manufacturing in detail (10)
-
-Q7
-ra
-
-B__ Write short note on Pyrolysis and alkylation in relation with petroleum (10)
-
-Industry.
-
-A _ Describe the production of Denatured Ethyl Alcohol in detail (10)
-
-B Explain the manufacturing of Caprolactum.
-
-wf
-
-(10)
 ````

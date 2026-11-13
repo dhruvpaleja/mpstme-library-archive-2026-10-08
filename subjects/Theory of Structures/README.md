@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Theory of Structures(702CI0C036)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Civil 7005 | QP_Theory of Structures(702CI0C036)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Theory of Structures(702CI0C036)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Theory of Structures(702CI0C036)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | B Tech, Theory of Structures, Sem-IV, Batch 2022-23, 2023-24, 2024-25 & 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech Civil 7005 | QP_Theory of Structures(702CI0C036)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Theory of Structures(702CI0C036)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | Theory of Structures, Sem IV, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / CIVIL, B.TECH INTEGRATED / CIVIL | Theory of Structures Batch 2023-24 Final Batch 2021-22,22-23 Re Exam.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / CIVIL, B.TECH INTEGRATED / CIVIL | Theory of Structures, Sem-IV, Year 2022-23 Final & Re Exam.pdf |

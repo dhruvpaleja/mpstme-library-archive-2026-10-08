@@ -1370,6 +1370,511 @@ they help optimize the manufacturing process?
 ********** 3 **********
 ````
 
+## 2023-24 · Exam not stated · Sem 10 · paper a34d113cfd76
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/ANALYTICS IN OPERATIONS AND SUPPLY CHAI_cbe98b44/Analytics in Operations and Supply Chain Management.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (3 pages), mean OCR confidence 88.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& E
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: _ MBA Tech Year: V_ Semester:   X _
+Stream/s;___ All Streams .
+
+Subject: _ Analytics in Operations and Supply Chain Management Time: 2 hrs(__2 to 4pm_)
+Date:_3 /5 / 2024 No. of Pages: 3
+
+Marks: 50
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+mD
+1) Question No. _1 is compulsory.
+2) Out of remaining questions, attempt any __ 4 questions.
+3) In all 5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql
+Answer briefly: [10]
+CO-; SO-; | a. What is Descriptive Analytics? Explain it with two examples. 2.5:
+BL-
+b. The Dynaco Manufacturing Company is going to build a new plant (o manufacture ring bear-
+ings (used in automobiles and trucks). The site selection team is evaluating three sites, and
+they have scored the important factors for each as follows. They want to use these ratings to
+f™ compare the locations.
+Scores (0 to 100)
+CO- ; SO-; Location Factor Weight Site 1 Site 2 Site 3 25
+BL- Labor pool and climate 0.30 80 65 90
+Proximity to suppliers 0.20 100 91 75
+Wage rates O15 60 95 72
+Community environment OS 75 80 80
+Proximity to customers 0.10 65 90 95
+Shipping modes ~ 0.05 85 92 65
+Air service 0.05 50 65 90
+6. The Basic Block Company needs to produce 4000 boxes of blocks per 40-hour
+week to meet upcoming holiday demand. The process of making blocks can be
+CO- ; SO-; broken down into six work ele ments. The precedence and time requirements 2.5
+BL- for each element are as follows. Draw and label a precedence diagram for the
+
+pro duction process. Set up a balanced assembly line and calculate the efficiency
+of the line.
+--- page 2 ---
+WORK PERFORMANCE a
+
+ELEMENT PRECEDENCE TIME (MIN)
+A _ 0.10
+B A 0.40
+Cc A 0.50
+D — a 0.20
+E ¢. D 0.60
+F B,E 0.40
+CO-; SO-; | d. Differentiate between Interval Data and Ratio Data. 2.5
+BL-
+Q2 .
+What is Regression Analysis? Explain the classification of Regression Models with [10]
+CO-; SO-; all formulae used including correlation and coefficient of determination.
+BL- .
+A store has one counter. The probability of inter-arrival time and service time of customers are given in >,
+the following table.
+Inter- .
+arrival 7 soe oy
+i Probability time Probability
+time (min)
+(min) "
+1 0.2 3 0.2
+2 0.3 5 0.5
+3 0.3 7 0.3
+4 |. 0.1
+Q3 5 0.1
+Random numbers used for prediction of inter-arrival time and service time are as per the table given [10]
+CO-; SO-; below:
+BL- Customer/ 1 | 2/3 | 4/5 | 6 {7 1/8] 9 [10] 11/12
+R.n. for :
+Arrival 61] 55] 1 | 33 | 19 | 25 | 79 | 93 | 18 | 49 | 92
+R.n. for
+service | 28| 1 | 61 | 85 | 67 | 53 | 62 | 79 | 66 | 63 | 33 | 77
+It is assumed that first customer comes at 0 time. Random numbers used are from the set of 100
+random numbers from 00 to 99. Simulation is to be carried out to find the performance measures of a
+queueing system.
+HiTek Computer Services repairs and services personal computers at its store, J
+and it makes local service calls. It primarily uses part-time State University >
+students as technicians. The company has had steady growth since it started. It
+purchases generic computer parts in volume at a discount from a variety of
+Q4
+sources whenever they see a good deal. Thus, they need a good forecast of
+CO-; SO-; demand for repairs so that they will know how many computer component [10]
+BL- parts to purchase and stock, and how many technicians to hire. The company
+
+has accumulated the demand data shown in the accompanying table for repair
+and service calls for the past 12 months, from which it wants to consider
+
+exponential smoothing forecasts using smoothing constants (Alpha) equal to
+0.30 and 0.50.
+--- page 3 ---
+Demand for Repair and Service Calls et
+
+Period Month Demand Period Month Demand
+
+| January 37 7 July 43
+2 February 40 8 August 47
+3 March 41. 9 September 56
+4 April 37 10 October 52
+5 May 45 I November 55
+6 June 50 12 December 54
+
+Qs .
+What is Industry 4.0? Explain all the four stages of Industrial Revolution with
+CO-; SO-; examples. Illustrate the technologies used in Industry 4.0. What are the {10]
+BL- Manufacturing 4.0 solutions in action?
+The Burger Doodle restaurant chain purchases ingredients from four different
+food suppliers. The company wants to construct a new central distribution
+center to process and package the ingredients before shipping them to their
+various restaurants. The suppliers transport ingredi ent items in 40-foot truck
+trailers,each with a capacity of 38,000 Ibs. The locations of the four
+suppliers,A,B,C,and D,and the annual number of trailer loads that will be
+transported to the distribution center are shown in the following figure:
+YS
+Qe 700
+600
+CO-; SO-; | [10]
+500 F
+BL- Pa
+= 400
+= ;
+300 f z
+200 F
+100
+0 ; .
+00 200 300 400 500 600700 x
+Miles
+Using the center-of-gravity method, determine a possible location for the
+distribution center.
+For a particular shop, the daily demand of an item with associated probabilities is given below:
+Daily demand | 0 10 20 30 40 50
+Q7 Probability 0.01 [0.20 [0.15 [0.50 |0.12 | 0.02
+CO-: SO-: If random number stream (X1, X2 ....- X10) is generated using linear congruential generator (Xi = a*Xi-1 {10]
+, , + c)mod m with Xo = 27, a = 17, c= 4, and m = 100,
+BL-
+
+a. Average daily demand for first four days will be..?
+b. Average daily demand for first ten days will be..?
+c. Demand on Sth day is expected to be..?
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper b167239c96b9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/ANALYTICS IN OPERATIONS AND SUPPLY CHAI_cbe98b44/Analytics in Operation and Supply Chain Management.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (3 pages), mean OCR confidence 84.0
+
+````text
+SVKM’‘S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech Stream: All Streams Year: V Semester: X
+Subject: Analytics in Operation and Supply Chain Management Time: 2 hrs (10 cam= nada
+Date: 27/04])2023 No. of Pages: 3
+
+Marks: 50
+
+Final Examination
+
+_~ _ Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+
+the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Assume suitable data, if necessary.
+
+1 10 marks
+CO1 a. With the help of appropriate examples, explain the difference between predictive 04 marks
+BL3 analytics & prescriptive analytics?
+
+CO2 ~ b._ Explain the concept of flexible manufacturing systems. 04 marks
+BL 2
+
+CO3   c._ Ina factory, eight departments, D1, D2, D3, D4, DS, D6, D7, D8, have to be configured 02 marks
+BL 4 at eight different locations, L1, L2, L3, L4, L5, L6, L7, L8. How many potential layouts
+are possible such that department D4 must be located at location L2?
+
+2. 10 marks
+CO3 a. Ane-commerce firm is planning to set up a new regional fulfilment center to cater 04 marks
+BL 3 to the demand from five cities in the region. The location coordinates of the five cities,
+along with their respective monthly demands are shown below. Suggest the most
+appropriate location for the regional fulfilment center.
+
+City Location Coordinates (x, y) Monthly Demand
+a1 (20, 13) 34000
+C2 (12, 27) 55000
+C3 (7, 15) 48000
+C4 (24, 4) 54000
+cS (16, 22) 26000
+
+Page 1 of 3
+--- page 2 ---
+CO2   b. Acompany is evaluating two choices of processes for manufacturing a product. The 06 marks
+BLS fixed costs & variable costs for two processes are as mentioned below. Determine the
+break-even volume for each process. If the volume of production is 20000 units per
+month, which process should be chosen? If all the production can be sold at 625
+unit per, what is the minimum volume required with each process for the company
+to turn profitable?
+
+Process Alpha Process Beta
+Fixed Cost (3) 15,00,000 25,00,000
+Variable Cost (%/unit) 550 500
+3, For the machine-part incidence matrix below, design the cellular layout using ROC method. —_ 10 marks
+CO 2 Part
+BL6 Machine 1 2/3) 4 15
+A 0 1 0 1 0
+B 0 1 1 0} 0
+(a 0] 0 1 0 | 0
+D 1 0} 0 1 1
+E 1 0 [0 1 1
+4, 10 marks
+CO3 a. Acompany sells two products P1 & P2 making a profit of 40 per unit of P1 and %30 05 marks
+BL 6 per unit of P2. The products are produced by a common production process and are
+
+sold in two different markets. The production process has a capacity of 30000 man-
+hours. It takes 3 hours to produce a unit of P1 and 1 hour to produce a unit of P2. A
+market survey by the company’s marketing team has found that the maximum units
+that can be sold of P1 & P2 are 8000 units & 12000 units, respectively. Formulate this
+as a linear programming problem to maximize the profit.
+
+CO4_ b._ Elaborate on the key technologies driving Industry 4.0. 05 marks
+BL1
+
+5. 10 marks
+CO3 a. Weekly demand for printers at an electronics store is normally distributed, with a 06 marks
+BL 3 mean of 250 and a standard deviation of 150. The store manager continuously
+
+monitors inventory and currently orders 1,000 printers each time the inventory
+drops to 600 printers. The printer manufacturer currently takes two weeks to fill
+an order. How much safety inventory does the store carry? What service level
+does the electronics store achieve as a result of this policy?
+
+cCO4   b. Explain the major components digital supply chain management. 04 marks
+BL 2
+
+6. A salesman wants to visit cities 1, 2, 3 & 4 without visiting any city twice before 10 marks
+CO 2 completing the tour of all cities. The salesman intends to return to the home city from
+
+Page 2 of 3
+--- page 3 ---
+a
+
+BL 3
+
+CO 2
+BL 6
+
+he starts. The normalized cost of going from one to city to another in rupees is given
+in the following table. Find the least cost route for the salesman using the branch &
+bound algorithm.
+
+To City
+1 2 3 4
+1 - 19 12 23
+From 2 19 = 14 11
+City 3 12 14 : 7
+4 23 11 7 -
+
+A coffee house in a busy market of a city operates counter service. The inter-arrival 10 marks
+times of customers and the service time at the counters are distributes as follows.
+
+Inter-arrival Time (min) _| Probability Service Time (min) | Probability
+0.0 0.05 1 0.05
+
+0.5 0.35 2 0.25
+
+1.0 0.25 3 0.35
+
+15 0.15 4 0.20
+
+2.0 0.10 5 0.15
+
+2.5 0.07
+
+3.0 0.03
+
+Simulate the operation of the coffee house counter for 10 customers, and determine
+the average waiting time of the customer, the average idle time of the counter.
+Random numbers for customer arrivals: 16, 87, 49, 22, 36
+
+Random numbers for service times: 44, 61, 3, 63, 61
+
+STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z scare.
+Zz 00 01 02 03 OS 05 06 07 08
+
+0.0 | 50000 50399 .SO798 = SLI97—S1S9S 5199S 52392 53188
+0.1 | 53983 54380 © .S4776.—SS172, 55567 = 58962-56356 STZ
+0.2 | 57926 5831758706 «= $9095 59483-59871 60257 61026
+0.3 | 61791 62172 62552-62930 6330763683. 63058 64803
+
+ne 87364 67724
+
+0.5 | .69156
+
+0 _.67003
+70840
+
+0.6 | .7257S 73237 73891
+
+0.7 | 75804 76424 77035 78230
+
+0.8 | 78834 79389 79955 $1087
+9. 2 $2639. 82893__
+
+SS083NE3TS
+87286 0 87493
+89251 S9S35
+9082490988 SAY
+
+10
+La
+1.2 JBkSY2 R8686
+13 90320 90390
+da | 9192s 92078 9236492079269
+15] 93319 934K 93699 9382293943
+16] .95520 94630 -.9473K— ASS 94NSU—_.95083
+17] 98583 95637 -.9S72HS8IX—.9S907 9599S
+18] 96807 9638S 96862-96638 NGTI2- 96785
+19 | 97128 97193 9728797320 97381
+2.0 | 97725 97778 97831 9788297932
+21 | 9821s 98257 98300-98341 98382
+2.2 98610 I8645 98679 P8713 S875
+23 98928 98956 SY89RZ 39010 99036
+
+“94408
+
+98382 SSSA9
+SO256 96327
+96998 97062
+97670
+98169
+
+O91R4
+
+Page 3 of 3
+````
+
+## 2021-22 · Exam not stated · Sem 10 · paper dfd1e27cfd38
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/ANALYTICS IN OPERATIONS AND SUPPLY CHAI_cbe98b44/Analytics in Operations and Supply Chain Mgmt,SemX.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 05 May 2022
+- Text: ocr (3 pages), mean OCR confidence 90.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
+
+Academic Year: 2021-22
+
+Programme: MBA Tech (All Stream) Year: V Semester: X
+
+Subject: Analytics in Operations and Supply Chain Management
+Marks: 70
+
+Date: 05 May 2022.” Time: 2.30 pm to 4.30 pm
+Durations: 2 (Hrs)
+No. of Pages: 0%
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly: [14]
+a. “Why has the product quality deteriorated over a period of time?’ — Under which [2]
+CO-1; BL- "scope of data analytics (whether descriptive, diagnostics, predictive or
+3 prescriptive)" is this specific case of ‘deterioration of product quality’
+characterized? Give relevant justification for the same.
+b. A firm manufactures two products, Y and Z. Each unit of Y costs $10 and sells for [2]
+ie BL- $40. Each unit of Z costs $5 and sells for $25. If the firm's goal were to maximize
+sales revenue, determine the appropriate objective function.
+CO-1; BL- c. Summarily (very concisely) state the significance of any two of the techniques for 2]
+2 identifying the part families in cellular manufacturing system.
+CO-1; BL- d. The on-hand inventory is only 10 units, and the reorder point (R) is 100. There are [2]
+3 no backorders and one open order for 200 units. Should a new order be placed?
+CO-3; BL- e. How will you compute the profit while performing the simulation of inventory [2]
+2 systems? Just write the formulation for the same.
+CO-1; BL- a Enlist any four service decision factors while designing for service system (2]
+1 operations.
+
+1/3
+--- page 2 ---
+g. Which analytics techniques are employed to automate the detection for smart [2]
+
+CO-4; BL-
+3 manufacturing systems? Just enumerate these techniques.
+a. Four key marketing decision variables are price (P), advertising (A), transportation
+2
+. esis (T), and product quality (Q). Consumer demand (D) is influenced by these
+4 ; . : variables. The simplest model for describing demand in terms of these variables is:
+D=k-pP+aA+tT + qQ, where k, p, a, t, and q are positive constants 18]
+a) How does a change in each variable affect demand?
+b) How do the variables influence each other?
+c) What limitations might this model have? Can you think of how this model might
+be made more realistic? .
+CO-1; BL- | b- Explain the framework for supply chain network design? Which factors do (61
+2 influence the supply chain network design decisions?
+a. Using the Clark & Wright saving heuristics, develop a route plan for the following
+3 F
+Q network of nodes. Calculate the total distance of the planned route in km. Note
+CO-3; BL- . .
+3 that node 1 represent the depot. Distance (in KMs) between the nodes are shown
+in the diagram below.
+5 fa}
+aN 3 [10]
+a NN
+ane —_
+a 10 te .., {2 4
+NU >
+7
+om J 7 a s
+i.
+i 3 4
+NL?
+CO-3; BL- | b. Discuss citing with an example that when simulation is NOT an appropriate 14]
+13 method to use. Provide any four rules w.r.t. simulation is such situations.
+Q4 a. A clothing chain is considering two different locations for a new retail outlet. The
+CO-2; BL- |: : organization has identified the four factors listed in the following table as the basis
+4 for evaluation, and has assigned weights as shown on the right side of this table.
+The manager has rated each location on each factor, on a 100-point basis (higher
+scores are better), as shown in the right-hand table. [10]
+Factor Factor Description Weight Barclay | Chester
+1 Average community income 40 75 70
+2 Community growth potential 25 60 80
+3 Availability of public transportation 15 45 90
+4 Labor cost 20 80 65
+--- page 3 ---
+Giving the solution to this location model-based problem, answer these queries:
+
+i) Calculate the composite score for each alternative location.
+
+ii) Which site should be chosen?
+
+iii) Are you concerned about the sensitivity and subjectivity of this solution? Give
+
+the justifications for the same.
+
+Discuss about the basic procedural steps in rank-order cluster (ROC) algorithm
+
+CO-4; BL- ur
+2 employed for the identification of part families. p “AN
+Q5 Given the following information, determine the amount to order.
+CO-2; BL- Demand = 30 units per day; Desired Service Level = 99%; Standard Deviation of
+2 Demand = 3 units per day; Stock on Hand at Reorder Time = 71 units; Lead Time [7]
+from Vendor = 2 days; Order Interval = 7 days :
+(z = 2.33 for 99% service level)
+CO-4; BL- What are the core elements of digital supply chain management? Explain any five 7
+2 of these elements very briefly.
+Write short notes on any two:
+Q6 a. Basic Structure of OPTIZ Parts Classification and Coding System m4
+: * BL- b. Cyber-physical Systems (CPS) in Industry 4.0 U7 x2]
+
+c. SERVQUAL Model for Service Operations Design
+````
+
 ## 2018-19 · Final-Exam · Sem 10 · paper 8f8d16c6bce2
 
 - Departments: Common (all branches)
@@ -1684,509 +2189,4 @@ Your answer should have clarity about dependent variable, independent variables 
 (---X---)
 
 Ay
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper b167239c96b9
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/ANALYTICS IN OPERATIONS AND SUPPLY CHAI_cbe98b44/Analytics in Operation and Supply Chain Management.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (3 pages), mean OCR confidence 84.0
-
-````text
-SVKM’‘S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech Stream: All Streams Year: V Semester: X
-Subject: Analytics in Operation and Supply Chain Management Time: 2 hrs (10 cam= nada
-Date: 27/04])2023 No. of Pages: 3
-
-Marks: 50
-
-Final Examination
-
-_~ _ Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-
-the Answer Book, which is provided for their use.
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Assume suitable data, if necessary.
-
-1 10 marks
-CO1 a. With the help of appropriate examples, explain the difference between predictive 04 marks
-BL3 analytics & prescriptive analytics?
-
-CO2 ~ b._ Explain the concept of flexible manufacturing systems. 04 marks
-BL 2
-
-CO3   c._ Ina factory, eight departments, D1, D2, D3, D4, DS, D6, D7, D8, have to be configured 02 marks
-BL 4 at eight different locations, L1, L2, L3, L4, L5, L6, L7, L8. How many potential layouts
-are possible such that department D4 must be located at location L2?
-
-2. 10 marks
-CO3 a. Ane-commerce firm is planning to set up a new regional fulfilment center to cater 04 marks
-BL 3 to the demand from five cities in the region. The location coordinates of the five cities,
-along with their respective monthly demands are shown below. Suggest the most
-appropriate location for the regional fulfilment center.
-
-City Location Coordinates (x, y) Monthly Demand
-a1 (20, 13) 34000
-C2 (12, 27) 55000
-C3 (7, 15) 48000
-C4 (24, 4) 54000
-cS (16, 22) 26000
-
-Page 1 of 3
---- page 2 ---
-CO2   b. Acompany is evaluating two choices of processes for manufacturing a product. The 06 marks
-BLS fixed costs & variable costs for two processes are as mentioned below. Determine the
-break-even volume for each process. If the volume of production is 20000 units per
-month, which process should be chosen? If all the production can be sold at 625
-unit per, what is the minimum volume required with each process for the company
-to turn profitable?
-
-Process Alpha Process Beta
-Fixed Cost (3) 15,00,000 25,00,000
-Variable Cost (%/unit) 550 500
-3, For the machine-part incidence matrix below, design the cellular layout using ROC method. —_ 10 marks
-CO 2 Part
-BL6 Machine 1 2/3) 4 15
-A 0 1 0 1 0
-B 0 1 1 0} 0
-(a 0] 0 1 0 | 0
-D 1 0} 0 1 1
-E 1 0 [0 1 1
-4, 10 marks
-CO3 a. Acompany sells two products P1 & P2 making a profit of 40 per unit of P1 and %30 05 marks
-BL 6 per unit of P2. The products are produced by a common production process and are
-
-sold in two different markets. The production process has a capacity of 30000 man-
-hours. It takes 3 hours to produce a unit of P1 and 1 hour to produce a unit of P2. A
-market survey by the company’s marketing team has found that the maximum units
-that can be sold of P1 & P2 are 8000 units & 12000 units, respectively. Formulate this
-as a linear programming problem to maximize the profit.
-
-CO4_ b._ Elaborate on the key technologies driving Industry 4.0. 05 marks
-BL1
-
-5. 10 marks
-CO3 a. Weekly demand for printers at an electronics store is normally distributed, with a 06 marks
-BL 3 mean of 250 and a standard deviation of 150. The store manager continuously
-
-monitors inventory and currently orders 1,000 printers each time the inventory
-drops to 600 printers. The printer manufacturer currently takes two weeks to fill
-an order. How much safety inventory does the store carry? What service level
-does the electronics store achieve as a result of this policy?
-
-cCO4   b. Explain the major components digital supply chain management. 04 marks
-BL 2
-
-6. A salesman wants to visit cities 1, 2, 3 & 4 without visiting any city twice before 10 marks
-CO 2 completing the tour of all cities. The salesman intends to return to the home city from
-
-Page 2 of 3
---- page 3 ---
-a
-
-BL 3
-
-CO 2
-BL 6
-
-he starts. The normalized cost of going from one to city to another in rupees is given
-in the following table. Find the least cost route for the salesman using the branch &
-bound algorithm.
-
-To City
-1 2 3 4
-1 - 19 12 23
-From 2 19 = 14 11
-City 3 12 14 : 7
-4 23 11 7 -
-
-A coffee house in a busy market of a city operates counter service. The inter-arrival 10 marks
-times of customers and the service time at the counters are distributes as follows.
-
-Inter-arrival Time (min) _| Probability Service Time (min) | Probability
-0.0 0.05 1 0.05
-
-0.5 0.35 2 0.25
-
-1.0 0.25 3 0.35
-
-15 0.15 4 0.20
-
-2.0 0.10 5 0.15
-
-2.5 0.07
-
-3.0 0.03
-
-Simulate the operation of the coffee house counter for 10 customers, and determine
-the average waiting time of the customer, the average idle time of the counter.
-Random numbers for customer arrivals: 16, 87, 49, 22, 36
-
-Random numbers for service times: 44, 61, 3, 63, 61
-
-STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z scare.
-Zz 00 01 02 03 OS 05 06 07 08
-
-0.0 | 50000 50399 .SO798 = SLI97—S1S9S 5199S 52392 53188
-0.1 | 53983 54380 © .S4776.—SS172, 55567 = 58962-56356 STZ
-0.2 | 57926 5831758706 «= $9095 59483-59871 60257 61026
-0.3 | 61791 62172 62552-62930 6330763683. 63058 64803
-
-ne 87364 67724
-
-0.5 | .69156
-
-0 _.67003
-70840
-
-0.6 | .7257S 73237 73891
-
-0.7 | 75804 76424 77035 78230
-
-0.8 | 78834 79389 79955 $1087
-9. 2 $2639. 82893__
-
-SS083NE3TS
-87286 0 87493
-89251 S9S35
-9082490988 SAY
-
-10
-La
-1.2 JBkSY2 R8686
-13 90320 90390
-da | 9192s 92078 9236492079269
-15] 93319 934K 93699 9382293943
-16] .95520 94630 -.9473K— ASS 94NSU—_.95083
-17] 98583 95637 -.9S72HS8IX—.9S907 9599S
-18] 96807 9638S 96862-96638 NGTI2- 96785
-19 | 97128 97193 9728797320 97381
-2.0 | 97725 97778 97831 9788297932
-21 | 9821s 98257 98300-98341 98382
-2.2 98610 I8645 98679 P8713 S875
-23 98928 98956 SY89RZ 39010 99036
-
-“94408
-
-98382 SSSA9
-SO256 96327
-96998 97062
-97670
-98169
-
-O91R4
-
-Page 3 of 3
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper a34d113cfd76
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/ANALYTICS IN OPERATIONS AND SUPPLY CHAI_cbe98b44/Analytics in Operations and Supply Chain Management.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (3 pages), mean OCR confidence 88.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& E
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: _ MBA Tech Year: V_ Semester:   X _
-Stream/s;___ All Streams .
-
-Subject: _ Analytics in Operations and Supply Chain Management Time: 2 hrs(__2 to 4pm_)
-Date:_3 /5 / 2024 No. of Pages: 3
-
-Marks: 50
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-mD
-1) Question No. _1 is compulsory.
-2) Out of remaining questions, attempt any __ 4 questions.
-3) In all 5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql
-Answer briefly: [10]
-CO-; SO-; | a. What is Descriptive Analytics? Explain it with two examples. 2.5:
-BL-
-b. The Dynaco Manufacturing Company is going to build a new plant (o manufacture ring bear-
-ings (used in automobiles and trucks). The site selection team is evaluating three sites, and
-they have scored the important factors for each as follows. They want to use these ratings to
-f™ compare the locations.
-Scores (0 to 100)
-CO- ; SO-; Location Factor Weight Site 1 Site 2 Site 3 25
-BL- Labor pool and climate 0.30 80 65 90
-Proximity to suppliers 0.20 100 91 75
-Wage rates O15 60 95 72
-Community environment OS 75 80 80
-Proximity to customers 0.10 65 90 95
-Shipping modes ~ 0.05 85 92 65
-Air service 0.05 50 65 90
-6. The Basic Block Company needs to produce 4000 boxes of blocks per 40-hour
-week to meet upcoming holiday demand. The process of making blocks can be
-CO- ; SO-; broken down into six work ele ments. The precedence and time requirements 2.5
-BL- for each element are as follows. Draw and label a precedence diagram for the
-
-pro duction process. Set up a balanced assembly line and calculate the efficiency
-of the line.
---- page 2 ---
-WORK PERFORMANCE a
-
-ELEMENT PRECEDENCE TIME (MIN)
-A _ 0.10
-B A 0.40
-Cc A 0.50
-D — a 0.20
-E ¢. D 0.60
-F B,E 0.40
-CO-; SO-; | d. Differentiate between Interval Data and Ratio Data. 2.5
-BL-
-Q2 .
-What is Regression Analysis? Explain the classification of Regression Models with [10]
-CO-; SO-; all formulae used including correlation and coefficient of determination.
-BL- .
-A store has one counter. The probability of inter-arrival time and service time of customers are given in >,
-the following table.
-Inter- .
-arrival 7 soe oy
-i Probability time Probability
-time (min)
-(min) "
-1 0.2 3 0.2
-2 0.3 5 0.5
-3 0.3 7 0.3
-4 |. 0.1
-Q3 5 0.1
-Random numbers used for prediction of inter-arrival time and service time are as per the table given [10]
-CO-; SO-; below:
-BL- Customer/ 1 | 2/3 | 4/5 | 6 {7 1/8] 9 [10] 11/12
-R.n. for :
-Arrival 61] 55] 1 | 33 | 19 | 25 | 79 | 93 | 18 | 49 | 92
-R.n. for
-service | 28| 1 | 61 | 85 | 67 | 53 | 62 | 79 | 66 | 63 | 33 | 77
-It is assumed that first customer comes at 0 time. Random numbers used are from the set of 100
-random numbers from 00 to 99. Simulation is to be carried out to find the performance measures of a
-queueing system.
-HiTek Computer Services repairs and services personal computers at its store, J
-and it makes local service calls. It primarily uses part-time State University >
-students as technicians. The company has had steady growth since it started. It
-purchases generic computer parts in volume at a discount from a variety of
-Q4
-sources whenever they see a good deal. Thus, they need a good forecast of
-CO-; SO-; demand for repairs so that they will know how many computer component [10]
-BL- parts to purchase and stock, and how many technicians to hire. The company
-
-has accumulated the demand data shown in the accompanying table for repair
-and service calls for the past 12 months, from which it wants to consider
-
-exponential smoothing forecasts using smoothing constants (Alpha) equal to
-0.30 and 0.50.
---- page 3 ---
-Demand for Repair and Service Calls et
-
-Period Month Demand Period Month Demand
-
-| January 37 7 July 43
-2 February 40 8 August 47
-3 March 41. 9 September 56
-4 April 37 10 October 52
-5 May 45 I November 55
-6 June 50 12 December 54
-
-Qs .
-What is Industry 4.0? Explain all the four stages of Industrial Revolution with
-CO-; SO-; examples. Illustrate the technologies used in Industry 4.0. What are the {10]
-BL- Manufacturing 4.0 solutions in action?
-The Burger Doodle restaurant chain purchases ingredients from four different
-food suppliers. The company wants to construct a new central distribution
-center to process and package the ingredients before shipping them to their
-various restaurants. The suppliers transport ingredi ent items in 40-foot truck
-trailers,each with a capacity of 38,000 Ibs. The locations of the four
-suppliers,A,B,C,and D,and the annual number of trailer loads that will be
-transported to the distribution center are shown in the following figure:
-YS
-Qe 700
-600
-CO-; SO-; | [10]
-500 F
-BL- Pa
-= 400
-= ;
-300 f z
-200 F
-100
-0 ; .
-00 200 300 400 500 600700 x
-Miles
-Using the center-of-gravity method, determine a possible location for the
-distribution center.
-For a particular shop, the daily demand of an item with associated probabilities is given below:
-Daily demand | 0 10 20 30 40 50
-Q7 Probability 0.01 [0.20 [0.15 [0.50 |0.12 | 0.02
-CO-: SO-: If random number stream (X1, X2 ....- X10) is generated using linear congruential generator (Xi = a*Xi-1 {10]
-, , + c)mod m with Xo = 27, a = 17, c= 4, and m = 100,
-BL-
-
-a. Average daily demand for first four days will be..?
-b. Average daily demand for first ten days will be..?
-c. Demand on Sth day is expected to be..?
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper dfd1e27cfd38
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/ANALYTICS IN OPERATIONS AND SUPPLY CHAI_cbe98b44/Analytics in Operations and Supply Chain Mgmt,SemX.pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 05 May 2022
-- Text: ocr (3 pages), mean OCR confidence 90.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
-
-Academic Year: 2021-22
-
-Programme: MBA Tech (All Stream) Year: V Semester: X
-
-Subject: Analytics in Operations and Supply Chain Management
-Marks: 70
-
-Date: 05 May 2022.” Time: 2.30 pm to 4.30 pm
-Durations: 2 (Hrs)
-No. of Pages: 0%
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly: [14]
-a. “Why has the product quality deteriorated over a period of time?’ — Under which [2]
-CO-1; BL- "scope of data analytics (whether descriptive, diagnostics, predictive or
-3 prescriptive)" is this specific case of ‘deterioration of product quality’
-characterized? Give relevant justification for the same.
-b. A firm manufactures two products, Y and Z. Each unit of Y costs $10 and sells for [2]
-ie BL- $40. Each unit of Z costs $5 and sells for $25. If the firm's goal were to maximize
-sales revenue, determine the appropriate objective function.
-CO-1; BL- c. Summarily (very concisely) state the significance of any two of the techniques for 2]
-2 identifying the part families in cellular manufacturing system.
-CO-1; BL- d. The on-hand inventory is only 10 units, and the reorder point (R) is 100. There are [2]
-3 no backorders and one open order for 200 units. Should a new order be placed?
-CO-3; BL- e. How will you compute the profit while performing the simulation of inventory [2]
-2 systems? Just write the formulation for the same.
-CO-1; BL- a Enlist any four service decision factors while designing for service system (2]
-1 operations.
-
-1/3
---- page 2 ---
-g. Which analytics techniques are employed to automate the detection for smart [2]
-
-CO-4; BL-
-3 manufacturing systems? Just enumerate these techniques.
-a. Four key marketing decision variables are price (P), advertising (A), transportation
-2
-. esis (T), and product quality (Q). Consumer demand (D) is influenced by these
-4 ; . : variables. The simplest model for describing demand in terms of these variables is:
-D=k-pP+aA+tT + qQ, where k, p, a, t, and q are positive constants 18]
-a) How does a change in each variable affect demand?
-b) How do the variables influence each other?
-c) What limitations might this model have? Can you think of how this model might
-be made more realistic? .
-CO-1; BL- | b- Explain the framework for supply chain network design? Which factors do (61
-2 influence the supply chain network design decisions?
-a. Using the Clark & Wright saving heuristics, develop a route plan for the following
-3 F
-Q network of nodes. Calculate the total distance of the planned route in km. Note
-CO-3; BL- . .
-3 that node 1 represent the depot. Distance (in KMs) between the nodes are shown
-in the diagram below.
-5 fa}
-aN 3 [10]
-a NN
-ane —_
-a 10 te .., {2 4
-NU >
-7
-om J 7 a s
-i.
-i 3 4
-NL?
-CO-3; BL- | b. Discuss citing with an example that when simulation is NOT an appropriate 14]
-13 method to use. Provide any four rules w.r.t. simulation is such situations.
-Q4 a. A clothing chain is considering two different locations for a new retail outlet. The
-CO-2; BL- |: : organization has identified the four factors listed in the following table as the basis
-4 for evaluation, and has assigned weights as shown on the right side of this table.
-The manager has rated each location on each factor, on a 100-point basis (higher
-scores are better), as shown in the right-hand table. [10]
-Factor Factor Description Weight Barclay | Chester
-1 Average community income 40 75 70
-2 Community growth potential 25 60 80
-3 Availability of public transportation 15 45 90
-4 Labor cost 20 80 65
---- page 3 ---
-Giving the solution to this location model-based problem, answer these queries:
-
-i) Calculate the composite score for each alternative location.
-
-ii) Which site should be chosen?
-
-iii) Are you concerned about the sensitivity and subjectivity of this solution? Give
-
-the justifications for the same.
-
-Discuss about the basic procedural steps in rank-order cluster (ROC) algorithm
-
-CO-4; BL- ur
-2 employed for the identification of part families. p “AN
-Q5 Given the following information, determine the amount to order.
-CO-2; BL- Demand = 30 units per day; Desired Service Level = 99%; Standard Deviation of
-2 Demand = 3 units per day; Stock on Hand at Reorder Time = 71 units; Lead Time [7]
-from Vendor = 2 days; Order Interval = 7 days :
-(z = 2.33 for 99% service level)
-CO-4; BL- What are the core elements of digital supply chain management? Explain any five 7
-2 of these elements very briefly.
-Write short notes on any two:
-Q6 a. Basic Structure of OPTIZ Parts Classification and Coding System m4
-: * BL- b. Cyber-physical Systems (CPS) in Industry 4.0 U7 x2]
-
-c. SERVQUAL Model for Service Operations Design
 ````

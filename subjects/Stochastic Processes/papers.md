@@ -136,6 +136,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/STOCHASTIC PROCESSES/Stochastic Processes, Sem-V, Year 2025-26 Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 85.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . SVKMs NMIMS
@@ -195,7 +196,6 @@ Col . . . .
 SOI Explain the concepts of sample space and random variable with suitable examples. 6
 BL-2
 
-FOC IG 7 AO CI I a kk
 --- page 2 ---
 x and y are random variable taking values 1, -1, 1 and having joint probability
 distribution given in table find the mean of x and y and cross covariance

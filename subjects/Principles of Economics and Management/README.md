@@ -16,22 +16,6 @@ Also filed as: `Principle of economic and management`, `Principle of economics &
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | B TECH / CIVIL, B TECH / COMPUTER, B TECH / MECHANICAL, B.TECH INTEGRATED, MBA TECH / COMPUTER | Principles of Economics and Managment 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
@@ -50,22 +34,22 @@ Also filed as: `Principle of economic and management`, `Principle of economics &
 | 2025-26 | Final-Exam | Question paper | Sem 6 | Integrated IT 7037 | QP_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | Integrated Mechanical 7031 | QP_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech Computer 7047 | QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Final-Exam, Re-Exam | Answer key | Sem 3, Sem 7 | BTech Computer 7002, Integrated Computer 7032 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Computer 7032 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2, Sem 4, Sem 6 | B TECH, B TECH / ARTIFICAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / CSE CYBER SECURITY, B TECH / CSE DATA SCIENCE, B TECH / CSE Data Science (311), B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED / IT, MBA TECH | Principles of Economics and Management Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
@@ -83,17 +67,23 @@ Also filed as: `Principle of economic and management`, `Principle of economics &
 | 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated IT 7037 | QP_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | Integrated Mechanical 7031 | QP_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech Computer 7047 | QP_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Final-Exam, Re-Exam | Answer key | Sem 3, Sem 7 | BTech Computer 7002, Integrated Computer 7032 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Computer 7032 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | Management Accounting for Engineers, Sem II, Final Exam & Re Exam 2024-25.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025_1b54f2c501.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3, Sem 7 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / MECHANICAL, B.TECH INTEGRATED, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / MECHANICAL | Principles of Econimics and Management Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper |  | B.TECH INTEGRATED, B.TECH INTEGRATED / IT | Principles of Economics and Management Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
@@ -106,6 +96,16 @@ Also filed as: `Principle of economic and management`, `Principle of economics &
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech Mechatronics 7004 | QP_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025_1b54f2c501.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Principles of Economics and Management(702TG0C015)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CIVIL, B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / MECHANICAL | Principles of Economics and Management, Sem-III, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | — | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS | Principles of Economics and Management, Sem II, Batch 2021-2022-2023 & 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3, Sem 7 | B.TECH INTEGRATED, MBA TECH / I T | Principles of Economics and Management Batch 2022-23,2023-24.pdf |

@@ -4,64 +4,73 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2017-18 · Exam not stated · Sem 6 · paper 83d3ed5313f6
+## 2017-18 · Exam not stated · Sem 6 · paper 7cf7550954d0
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Quality Management System and practices/Quality management system and parctices 2017-18.pdf`
-- Printed on paper: max marks: 35; duration hours: 1; exam date: 17 May 2018
-- Text: ocr (1 page), mean OCR confidence 90.9
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Quality Management System and practices/Quality Mgmt syst & practices 2015-16 (All streams).pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 17 May 2018
+- Text: ocr (1 page), mean OCR confidence 92.3
 
 ````text
-“ne SVKM’s NMIMS
-‘ . MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-_ Programme:MBA Tech (All Streams) Year: III Semester: VI
+Programme:MBA Tech (All Streams) Year: III Semester: VI
 Academic Year: 2017-2018
 
 Subject:Quality Management System and Practices
-- Marks:35 -
--   Date:17 May 2018- Time: 10.00 am to 11.00 am ~
-, Durations: 1 (hrs)
+Marks:60
+Date:17 May 2018 Time: 10.00 am to 12 noon
+Durations: 2 (hrs)
+No. of Pages : 4.
+Re-examination (2015-16)
 
-No. of Pages : 4
-Final Examination
+Instructions: Candidates should read carefully the instructions printed on the question Paper and
+on, the cover of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
 
-sN
+2) Out of remaining questions, attempt any 4 questions.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
+3) In all 5 questions to be attempted.
 
-the cover of the Answer Book, which is provided for their use.
-¢
+4) All questions carry equal marks.
 
-- 1) Question No.1 is compulsory.
+5) Answer to each new question to be started on a fresh page.
+6) Assume suitable data if necessary.
 
-2) Out of remaining questions, attempt any 2 questions.
+Q- 1 What is Service Quality? Explain various dimensions of evaluating service Quality.
+Q- 2 What is TQM? Explain principles of TQM..-
+Q-3 Explain following tools out of seven quality tools in details.
 
-3) In all 3 questions to be attempted. ;
+(i) Pareto Charts
 
-4) Answer to each new question to be started‘on a fresh page.
+(ii) Fishbone Diagram
 
-5) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+Q -4 Write detailed note on Six Sigma. Explain steps of implementing the Six Sigma in any
+organisation.
 
-|. Discuss and map the service quality determinants for any service industry of your
-cheice on KANO model. (15 marks)
+Q- 5 For Single Sampling Plan N = 2000, n=100, C=1, It is given that AQL = 0.02 and LTPD
+=0.08.
 
-2. Explain the DMAIC process in Six Sigma methodology with suitable examples.
-‘ (10 marks)
+(i) Determine Producer's Risk & Consumer's Risk
+(ii) Also if p’ = AQL + LTPD , Determine OC, AOQ and ATI values
+2
 
-3. Briefly discuss on the eight pillars of TQM. How TQM implementation can be
-beneficial for an organization. Explain with suitable examples. (10 marks)
+(Value of e? = 0.1353, e = 0.0067, e* =0.0003)
+Q-6 Explain Following formula of Taguchi Loss function
+L (y) = k (y-m)?
+Q-7 Write Notes on:
 
-4. Explain the use of various types of control charts in statistical process control. Why
-do we use a normal distribution to account for most of the variations in quality
-control? (10 marks)
+1. Cost of Quality
+2. Sequential Incident Techniques & critical Incident Techniques
 
-4/h
+HEEEEERREKEEAREEK
+
+4/4.
 ````
 
-## 2016-17 · Exam not stated · Sem 6 · paper b6395472c780
+## 2017-18 · Exam not stated · Sem 6 · paper b6395472c780
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -127,70 +136,127 @@ oo
 "1
 ````
 
-## 2015-16 · Exam not stated · Sem 6 · paper 7cf7550954d0
+## 2017-18 · Exam not stated · Sem 6 · paper 83d3ed5313f6
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Quality Management System and practices/Quality Mgmt syst & practices 2015-16 (All streams).pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 17 May 2018
-- Text: ocr (1 page), mean OCR confidence 92.3
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Quality Management System and practices/Quality management system and parctices 2017-18.pdf`
+- Printed on paper: max marks: 35; duration hours: 1; exam date: 17 May 2018
+- Text: ocr (1 page), mean OCR confidence 90.9
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+“ne SVKM’s NMIMS
+‘ . MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (All Streams) Year: III Semester: VI
+_ Programme:MBA Tech (All Streams) Year: III Semester: VI
 Academic Year: 2017-2018
 
 Subject:Quality Management System and Practices
-Marks:60
-Date:17 May 2018 Time: 10.00 am to 12 noon
+- Marks:35 -
+-   Date:17 May 2018- Time: 10.00 am to 11.00 am ~
+, Durations: 1 (hrs)
+
+No. of Pages : 4
+Final Examination
+
+sN
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+
+the cover of the Answer Book, which is provided for their use.
+¢
+
+- 1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 2 questions.
+
+3) In all 3 questions to be attempted. ;
+
+4) Answer to each new question to be started‘on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+|. Discuss and map the service quality determinants for any service industry of your
+cheice on KANO model. (15 marks)
+
+2. Explain the DMAIC process in Six Sigma methodology with suitable examples.
+‘ (10 marks)
+
+3. Briefly discuss on the eight pillars of TQM. How TQM implementation can be
+beneficial for an organization. Explain with suitable examples. (10 marks)
+
+4. Explain the use of various types of control charts in statistical process control. Why
+do we use a normal distribution to account for most of the variations in quality
+control? (10 marks)
+
+4/h
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper 176a5287de7e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Quality Management System and practices/QUALITY MANAGEMENT SYSTEM AND PRACTICES BATCH 2015-2016 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 16 May 2017
+- Text: ocr (1 page), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS_.
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+no -Programme: MBA Tech (All-Streams) ~:)--y eaexctee ceute ~ Year: Il oe oot rete 9
+et ee
+
+Batch: 2015-2016 ~ . #7 N&S.
+Academic Year: 2016-2017 gat.
+
+Subject: Quality Management System and Practices -
+
+Marks: 60
+Date: 16 May 2017 ~ Time: 2.00 pm to Foo pm -
+
 Durations: 2 (hrs)
-No. of Pages : 4.
-Re-examination (2015-16)
 
-Instructions: Candidates should read carefully the instructions printed on the question Paper and
-on, the cover of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
+No. of Pages: _}
 
-2) Out of remaining questions, attempt any 4 questions.
+Re-Examination
 
-3) In all 5 questions to be attempted.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-6) Assume suitable data if necessary.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
-Q- 1 What is Service Quality? Explain various dimensions of evaluating service Quality.
-Q- 2 What is TQM? Explain principles of TQM..-
-Q-3 Explain following tools out of seven quality tools in details.
+1) Explain elements of cost of quality and give their examples (in tabular format) for Management
+Institution based on “Features”, “Customer Service” and “Appearance” as quality dimensions.
 
-(i) Pareto Charts
+2) Explain utility of Ishikawa Diagram (with one example) and Control Chart (two examples) for
+improving quality in Management Institution.
 
-(ii) Fishbone Diagram
+3) Prepare story line for case study showcasing implementation of Six Sigma in Management
+Institution.
 
-Q -4 Write detailed note on Six Sigma. Explain steps of implementing the Six Sigma in any
-organisation.
+4) Design an experiment for three parameters with each having two levels (such as: Good/Bad,
+High/Low, Present/Absent, Maie/Female etc). Use orthogonal array and explain how results will be
+analyzed to adjust the process.
 
-Q- 5 For Single Sampling Plan N = 2000, n=100, C=1, It is given that AQL = 0.02 and LTPD
-=0.08.
+5) What is Capability Maturity Model (CMM)? What are CMM Levels?
 
-(i) Determine Producer's Risk & Consumer's Risk
-(ii) Also if p’ = AQL + LTPD , Determine OC, AOQ and ATI values
-2
+6) What is Malcom Baldrige National Award? What are the criteria based on which the award is given?
 
-(Value of e? = 0.1353, e = 0.0067, e* =0.0003)
-Q-6 Explain Following formula of Taguchi Loss function
-L (y) = k (y-m)?
-Q-7 Write Notes on:
-
-1. Cost of Quality
-2. Sequential Incident Techniques & critical Incident Techniques
-
-HEEEEERREKEEAREEK
-
-4/4.
+My)
 ````
 
 ## 2015-16 · Final-Exam · Sem 6 · paper 891451f48615
@@ -318,72 +384,6 @@ distribution to account for most of the variations in quality control? (12 marks
 Q.7. Explain the DMAIC process in Six Sigma methodology with suitable examples. (12 marks)
 
 ifs
-````
-
-## 2015-16 · Re-Exam · Sem 6 · paper 176a5287de7e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Quality Management System and practices/QUALITY MANAGEMENT SYSTEM AND PRACTICES BATCH 2015-2016 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 16 May 2017
-- Text: ocr (1 page), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS_.
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-no -Programme: MBA Tech (All-Streams) ~:)--y eaexctee ceute ~ Year: Il oe oot rete 9
-et ee
-
-Batch: 2015-2016 ~ . #7 N&S.
-Academic Year: 2016-2017 gat.
-
-Subject: Quality Management System and Practices -
-
-Marks: 60
-Date: 16 May 2017 ~ Time: 2.00 pm to Foo pm -
-
-Durations: 2 (hrs)
-
-No. of Pages: _}
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1) Explain elements of cost of quality and give their examples (in tabular format) for Management
-Institution based on “Features”, “Customer Service” and “Appearance” as quality dimensions.
-
-2) Explain utility of Ishikawa Diagram (with one example) and Control Chart (two examples) for
-improving quality in Management Institution.
-
-3) Prepare story line for case study showcasing implementation of Six Sigma in Management
-Institution.
-
-4) Design an experiment for three parameters with each having two levels (such as: Good/Bad,
-High/Low, Present/Absent, Maie/Female etc). Use orthogonal array and explain how results will be
-analyzed to adjust the process.
-
-5) What is Capability Maturity Model (CMM)? What are CMM Levels?
-
-6) What is Malcom Baldrige National Award? What are the criteria based on which the award is given?
-
-My)
 ````
 
 ## 2015-16 · Re-Exam · Sem 6 · paper 0dc88880130d
@@ -515,6 +515,121 @@ Q7 Discuss different levels of hierarchy in 6 sigma organisation with expertise 
 Marks)
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper a58b995e73fb
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/QUALITY MANAGEMENT SYSTEM AND PRACTICES/Quality Management System and Practices Batch 2014-15 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 18/04/2016
+- Text: ocr (1 page), mean OCR confidence 95.1
+
+````text
+SVKM’s NMIMS
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+Academic Year: 2015-16 ,
+Batch: 2014-15
+Subject: Quality Management System and Practices Marks: 60
+Time: 2.00 pm - 4.00 pm
+Date: 18/04/2016 Durations: 2 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+QI. As a Team Member and student of MBA (Tech) carry out FMEA for Day Zero of Placements Season
+2015-16.
+
+Q.2. Explain the use various types of control charts in statistical process control. Why do we use a normal
+distribution to account for most of the variations in quality control?
+
+Q.3. Explain Taguchi’s loss function with diagram and equation.
+Q.4. Compare the two methodologies of six sigma implementation process: DMAIC and DMADV.
+Q.5. Discuss in brief the concept of Lean Management.
+
+Q.6. Define Process Capability and explain its significance. Also explain method of computing Cp, Cpu, Cpl and Cpk.
+
+Q.7 Select a service industry of your choice and explain how you will implement TQP there in.
+
+4/4
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper b0a317907e3c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/QUALITY MANAGEMENT SYSTEM AND PRACTICES/Quality Management Systems & Practices Batch 2014-15 Re-exam.pdf`
+- Printed on paper: exam date: 05 July 2016
+- Text: ocr (1 page), mean OCR confidence 94.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+Academic Year: 2015-16
+Batch: 2014-15
+
+Subject: Quality Management System and Practices
+
+Date: 05 July 2016
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1. Explain in detail the Six Sigma methodology using DMAIC and DMADV citing suitable examples.
+
+(12 marks)
+Q.2. Explain the various determinants of service quality for any industry type. Also map these determinants
+on KANO model. (Service Industry Options:i) Retail ii) Telecom Service iii) Airline.) (12 marks)
+
+Q.3. Briefly discuss any 5 requirements and 5 benefits of implementation of ISO 14000 in an
+Origination. (12 marks)
+
+C Q.4. Write a note on 8 pillars of Total Quality Management. (12 marks)
+Q.5 Explain the relevance of control charts in Statistical process control, citing few examples. (12 marks)
+
+Q.6. Your College is organizing a one day Techno-innovation work shop. As a Team Member and student
+
+— of MBA (Tech) carry out an FMEA for this workshop. (12 marks)
+ge Q7. Explain the application of QFD in addressing the voice of customers by giving suitable examples.
+(12 marks)
+y ¥
+
+VI
+````
+
 ## 2014-15 · Final-Exam · Sem 8 · paper f131d0cbb09f
 
 - Departments: Common (all branches)
@@ -572,58 +687,60 @@ Q.6. Discuss in brief the concept of Lean Management.
 Q.7 Elaborate steps to construct QFD House.
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper a58b995e73fb
+## 2014-15 · Re-Exam · Sem 8 · paper d3998db79889
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/QUALITY MANAGEMENT SYSTEM AND PRACTICES/Quality Management System and Practices Batch 2014-15 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 18/04/2016
-- Text: ocr (1 page), mean OCR confidence 95.1
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/QUALITY MANAGEMENT SYSTEM AND PRACTICES/Quality Management System and Practices Batch 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 50; exam date: 18/04/2015
+- Text: ocr (1 page), mean OCR confidence 91.3
 
 ````text
 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
 Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-Academic Year: 2015-16 ,
-Batch: 2014-15
-Subject: Quality Management System and Practices Marks: 60
-Time: 2.00 pm - 4.00 pm
-Date: 18/04/2016 Durations: 2 (hrs)
 
-Re-Examination
+Academic Year: 2014-15
+Batch: 2013-14
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
+spaTiteTE Ov
+Subject: Quality Management System and Practices ar N
+Marks:50 {@/ wPpstME \o
+Date: 18/04/2015 Time: 2.00 pj dae RY Js
+Re-Examinati Durations: 2 ~~ fh
+: nati j
+Re-Examination vag anne .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 NB:
+1. Q.No.1 is compulsory.
+2. Attempt any 4 questions from Q.No.2 to Q.No.6
 
-1) Question No. 01 is compulsory.
+3. In all 5 questions to be attempted.
 
-2) Out of remaining questions, attempt any 4questions.
+Q.1. Construct a House of Quality for any one of the following options. i) Cell Phone ii) e-commerce website
+iii) Hospital iv) Car. (10)
 
-3) In all 5 questions to be attempted.
+Q.2. You are in a Student-Placement Committee of your college working with Placement Staff for placement
+of students to different companies for internship. Monday Morning Head of Placements calls you and
+informs that 5 different companies are coming on Friday for interviewing and selecting students for
+internship in their respective areas. The whole placement dept and committee is now worried how they
+would manage 5 companies at Campus on one single day ? Suddenly one of the Faculty members
+suggests that you can conduct FMEA analysis for the same which will help committee to reduce anticipated
 
-4) All questions carry equal marks.
+failures/ risks substantially. You are required to conduct FMEA for Friday Placement session. (10)
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
+Q.3. Write a note on Control Charts and their applications in Quality Management. (10)
 
-QI. As a Team Member and student of MBA (Tech) carry out FMEA for Day Zero of Placements Season
-2015-16.
+Q.4. Explain the concept of TQM (10)
 
-Q.2. Explain the use various types of control charts in statistical process control. Why do we use a normal
-distribution to account for most of the variations in quality control?
+Q.5. Explain Juran’s Trilogy with reference to an industry selected as per your choice. (10)
 
-Q.3. Explain Taguchi’s loss function with diagram and equation.
-Q.4. Compare the two methodologies of six sigma implementation process: DMAIC and DMADV.
-Q.5. Discuss in brief the concept of Lean Management.
-
-Q.6. Define Process Capability and explain its significance. Also explain method of computing Cp, Cpu, Cpl and Cpk.
-
-Q.7 Select a service industry of your choice and explain how you will implement TQP there in.
-
-4/4
+Q.6. Why Companies adopt |ISO9001 ? Discuss. (10)
+X
 ````
 
 ## 2014-15 · Re-Exam · Sem 8 · paper a2c3f8405843
@@ -688,67 +805,6 @@ Q.7 Quality at source is very important for any organization. How? Explain how t
 4/4
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper b0a317907e3c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/QUALITY MANAGEMENT SYSTEM AND PRACTICES/Quality Management Systems & Practices Batch 2014-15 Re-exam.pdf`
-- Printed on paper: exam date: 05 July 2016
-- Text: ocr (1 page), mean OCR confidence 94.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-Academic Year: 2015-16
-Batch: 2014-15
-
-Subject: Quality Management System and Practices
-
-Date: 05 July 2016
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q1. Explain in detail the Six Sigma methodology using DMAIC and DMADV citing suitable examples.
-
-(12 marks)
-Q.2. Explain the various determinants of service quality for any industry type. Also map these determinants
-on KANO model. (Service Industry Options:i) Retail ii) Telecom Service iii) Airline.) (12 marks)
-
-Q.3. Briefly discuss any 5 requirements and 5 benefits of implementation of ISO 14000 in an
-Origination. (12 marks)
-
-C Q.4. Write a note on 8 pillars of Total Quality Management. (12 marks)
-Q.5 Explain the relevance of control charts in Statistical process control, citing few examples. (12 marks)
-
-Q.6. Your College is organizing a one day Techno-innovation work shop. As a Team Member and student
-
-— of MBA (Tech) carry out an FMEA for this workshop. (12 marks)
-ge Q7. Explain the application of QFD in addressing the voice of customers by giving suitable examples.
-(12 marks)
-y ¥
-
-VI
-````
-
 ## 2013-14 · Re-Exam · Sem 8 · paper bb2cc73d2123
 
 - Departments: Common (all branches)
@@ -797,62 +853,6 @@ Model. (10)
 Q.6. Explain any four QC Tools with their significance. (10)
 
 Vi
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper d3998db79889
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/QUALITY MANAGEMENT SYSTEM AND PRACTICES/Quality Management System and Practices Batch 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 50; exam date: 18/04/2015
-- Text: ocr (1 page), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-
-Academic Year: 2014-15
-Batch: 2013-14
-
-spaTiteTE Ov
-Subject: Quality Management System and Practices ar N
-Marks:50 {@/ wPpstME \o
-Date: 18/04/2015 Time: 2.00 pj dae RY Js
-Re-Examinati Durations: 2 ~~ fh
-: nati j
-Re-Examination vag anne .
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Q.No.1 is compulsory.
-2. Attempt any 4 questions from Q.No.2 to Q.No.6
-
-3. In all 5 questions to be attempted.
-
-Q.1. Construct a House of Quality for any one of the following options. i) Cell Phone ii) e-commerce website
-iii) Hospital iv) Car. (10)
-
-Q.2. You are in a Student-Placement Committee of your college working with Placement Staff for placement
-of students to different companies for internship. Monday Morning Head of Placements calls you and
-informs that 5 different companies are coming on Friday for interviewing and selecting students for
-internship in their respective areas. The whole placement dept and committee is now worried how they
-would manage 5 companies at Campus on one single day ? Suddenly one of the Faculty members
-suggests that you can conduct FMEA analysis for the same which will help committee to reduce anticipated
-
-failures/ risks substantially. You are required to conduct FMEA for Friday Placement session. (10)
-
-Q.3. Write a note on Control Charts and their applications in Quality Management. (10)
-
-Q.4. Explain the concept of TQM (10)
-
-Q.5. Explain Juran’s Trilogy with reference to an industry selected as per your choice. (10)
-
-Q.6. Why Companies adopt |ISO9001 ? Discuss. (10)
-X
 ````
 
 ## 2012-13 · Final-Exam · Trim 11 · paper f147c5ae3cab

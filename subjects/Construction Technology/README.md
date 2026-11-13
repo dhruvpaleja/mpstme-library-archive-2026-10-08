@@ -16,16 +16,16 @@ Also filed as: `CONSTRUTION TECHNOLOGY`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Construction Technology(702CI0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | BTech Civil 7005 | QP_Construction Technology(702CI0C027)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Construction Technology(702CI0C027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Construction Technology(702CI0C027)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | BTech Civil 7005 | QP_Construction Technology(702CI0C027)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Construction Technology(702CI0C027)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Construction Technology(702CI0C015)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Construction Technology(702CI0C027)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech Civil 7005 | QP_Construction Technology(702CI0C027)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | BTech Civil 7005 | QP_Construction Technology(702CI0C015)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Construction Technology(702CI0C027)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Construction Technology(702CI0C027)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Construction Technology(702CI0C015)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech Civil 7005 | QP_Construction Technology(702CI0C027)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Construction Technology(702CI0C027)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | Construction Technology Batch 2023-24 Final Batch 2021-22 Re Exam.pdf |
 | 2023-24 | Final + Re-Exam, Final-Exam | Question paper | Sem 2 | B TECH | Construction Technology, Sem-II, Final Exam 2023-24.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2, Sem 6 | B TECH, B.TECH INTEGRATED / CIVIL | Construction Technology, Sem-II, Batch 2022-23 Final & Re Exam.pdf |

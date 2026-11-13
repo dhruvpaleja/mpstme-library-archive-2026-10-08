@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Mechanical_7003/Alternative Fuels/QP_Alternative Fuels(702ME0E003)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (2 pages), mean OCR confidence 32.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -66,6 +67,7 @@ FIC 2 I HH ar
 - Source: `02_Question_Papers/2025/Sem_11/Final-Exam/Integrated_Mechanical_7031/Alternative Fuels/QP_Alternative Fuels(702ME0E003)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (2 pages), mean OCR confidence 32.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

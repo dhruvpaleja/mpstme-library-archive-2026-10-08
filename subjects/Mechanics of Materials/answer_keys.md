@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Mechatronics_7004/Mechanics of Materials/ANS_Mechanics of Materials(702MH0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (12 pages), mean OCR confidence 71.4
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -128,7 +129,6 @@ of the specimen material.
 
 1 mark for each definition, 3 marks diagram, 2 marks reasoning
 
-‘purrererwenaie Sess Hower i Figs #47 (gy
 
 (i) Reactions : Taking moments about A,
 
@@ -194,7 +194,6 @@ Mz el . 40000 x L?
 Now using equation (7.6), we get
 
 M = Onna Z
-or 5000 x 1000 x L? = 120 x 28 x 10°
 - 120 x 28 x 10°
 or P= ———__—_ 50x1000° 7 24% 28
 
@@ -339,7 +338,6 @@ ray
 
 FIC QF EH 1
 --- page 9 ---
-ry sec wedulus Jer hollew sect" fs
 Sx? yy? A (deal) +
 ny LO }
 Zxx? 744 ? a's Nx h

@@ -1011,6 +1011,7 @@ X-------------------------------------------------------------------------------
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMPUTATIONAL THINKING FOR PROBLEM SOLVING/Compututional Thinking for Problem Solving, Sem-I, Final Exam 2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2025
 - Text: ocr (3 pages), mean OCR confidence 88.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1062,7 +1063,6 @@ BL-3 sequivalent. Display both the Celsius and Fahrenheit temperatures in main( 
 CO-4 code, Name, Quantity, and Price per unit. Read and display the details of one | [5]
 BL-3 product.
 
-FRAO IO a a a kk a a
 .
 --- page 2 ---
 Section B
@@ -1127,7 +1127,6 @@ b Develop a program to display the following pattern using a nested loop.
 1 0 [10]
 co 1010
 BL-3 101041
-X-------- aa cc ce cc a x
 
 FIO dk aca ac deca
 ````

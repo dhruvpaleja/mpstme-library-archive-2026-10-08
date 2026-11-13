@@ -4,6 +4,105 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2018-19 · Exam not stated · Sem 3 · paper d39a4e4a2a91
+
+- Departments: Electrical
+- Programmes: B TECH / ELECTRICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICATION BATCH 16-17, 17-18.pdf`
+- Printed on paper: duration hours: 3; exam date: 17 November 2018
+- Text: ocr (2 pages), mean OCR confidence 93.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+7 Programme: B.Tech ( ELECTRICAL) Year: II Semester: III
+Academic Year: 2018-2019
+
+Subject: Analog Integrated Circuits and Application
+
+Date: 17 November 2018 Time: 2.00 pm &
+Durations: 3 (hrs)
+No. of Pages :
+
+Re-examination (2016-17/2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4__ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+1. Attempt any four of the following:- : [14]
+(a) List characteristics of an ideal Op-amp.
+
+(b) Define input bias current and input offset voltage.
+
+(c) What is a sample & hold circuit? Why is it needed?
+
+(d) What do you mean by buffer? Where it is used? Explain.
+
+(e) Why are active filters preferred? List the commonly used filters.
+
+(f) Draw Zero crossing detector circuit with input and output waveform.
+
+2 (a). Draw and explain operation of Precision full wave rectifier circuit. [07]
+(b). Draw and explain operation of op-amp as Integrator with input and [07]
+output waveform.
+scl
+3. (a). Draw the circuit diagram of RC phase shift oscillator using op-amp [07]
+nes and derive for its frequency and minimum gain requirement for oscillations.
+(b) Design a second-order low —pass filter at a high cutoff frequency of 1 KHz. [07]
+®
+
+pae Ye
+--- page 2 ---
+4 (a). Explain operation of peak detector circuit with proper waveforms.
+(b) List important specifications of LM 380 power audio amplifier and also
+explain application for the same.
+5. (a) Derive closed loop parameters for inverting amplifier.
+(b) Draw and explain operation of voltage to current converter with floating
+load and with grounded load.
+6 (a) Draw the circuit diagram of logarithmic amplifier and
+obtain expression for output voltage.
+(b) Draw and explain monostable multivibrator circuit using 555 timer. Design a
+
+monostable multivibrator using 555 timer to produce a pulse width of 10 ms.
+
+7. (a) Design, 15V, 50 ma power supply using 723 device for Vin = 20V.
+Specifications of IC 723: Vsense= 0.65V, IQ= 3 ma, VR = 7.5 V and ID = 1 ma
+
+(b) List the basic building blocks of a PLL. Define free running, capture range,
+
+and lock range
+
+[07]
+[07]
+
+[07]
+[07]
+
+[07]
+
+[07]
+
+[07]
+
+[07]
+
+Pye An
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 4 · paper 35f96f632185
 
 - Departments: Electronics and Telecommunication
@@ -179,103 +278,100 @@ iv. 1 and 2"4 order Low pass filter
 2}r
 ````
 
-## 2017-18 · Exam not stated · Sem 3 · paper d39a4e4a2a91
+## 2018-19 · Re-Exam · Sem 4 · paper c43c84398a41
 
-- Departments: Electrical
-- Programmes: B TECH / ELECTRICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICATION BATCH 16-17, 17-18.pdf`
-- Printed on paper: duration hours: 3; exam date: 17 November 2018
-- Text: ocr (2 pages), mean OCR confidence 93.1
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ANALOG INTEGRATED CIRCUITS & APPLICATIONS/ANALOG INTEGRATED CIRCUIT AND APPLICATION B TECH (EXTC), BATCH_2016-17-18-19_RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 18 June 2019
+- Text: ocr (2 pages), mean OCR confidence 91.5
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-7 Programme: B.Tech ( ELECTRICAL) Year: II Semester: III
+SVKM’S NMIMS [
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN GINEERING
+Programme: B. Tech/ MBA Tech (EXTC) Year: 11 Semester: IV
 Academic Year: 2018-2019
 
-Subject: Analog Integrated Circuits and Application
+Subject: Analog Integrated Circuits and Applications . Marks: 70
+Date : 18 June 2019 ; Time: 2.00 pm to 5.00 pm -
 
-Date: 17 November 2018 Time: 2.00 pm &
-Durations: 3 (hrs)
-No. of Pages :
+Duration: ..3 sod
 
-Re-examination (2016-17/2017-18)
+No. of Pages:
+
+Re- Examination (2016- 17/2017- 18/2018- 19),
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. _1___ is compulsory.
+1) Question No. | is compulsory.
 
-2) Out of remaining questions, attempt any__4__ questions.
+2) Out of remaining questions, attempt any 4 questions.
 
-3) In all___5_ questions to be attempted.
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5) Answer to each new question to be started on a fies page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -suitable data if necessary.
+7) Assume suitable data, if required. :
 
-1. Attempt any four of the following:- : [14]
-(a) List characteristics of an ideal Op-amp.
+Q.1__| Attempt all the questions from the following:
 
-(b) Define input bias current and input offset voltage.
+A) Draw and explain voltage transfer characteristics (VTC) of practical op-amp. (03)
+B) Derive the gain formula for non-inverting amplifier. (03)
+C) | Design the following equation using minimum number of op-amp. Assume Rr=5 KQ, (04)
+Cr=luf.
+Vo= 10Vi + 5V2+ 20 J V3 dt
+D) Explain different types of filters with the help of frequency response. (04)
+Q.2
+A) Explain CMRR, input offset voltage and input offset current. (06)
+B) Calculate operating point, differential mode gain (Adm), common mode gain (Acm), (08)
 
-(c) What is a sample & hold circuit? Why is it needed?
+CMRR, input resistance (Ri), output resistance (Ro) for the following differential amplifier
+circuit. (given hie = 1.47 KQ, hfe =100, Vaz = 0.7 V)
 
-(d) What do you mean by buffer? Where it is used? Explain.
-
-(e) Why are active filters preferred? List the commonly used filters.
-
-(f) Draw Zero crossing detector circuit with input and output waveform.
-
-2 (a). Draw and explain operation of Precision full wave rectifier circuit. [07]
-(b). Draw and explain operation of op-amp as Integrator with input and [07]
-output waveform.
-scl
-3. (a). Draw the circuit diagram of RC phase shift oscillator using op-amp [07]
-nes and derive for its frequency and minimum gain requirement for oscillations.
-(b) Design a second-order low —pass filter at a high cutoff frequency of 1 KHz. [07]
-®
-
-pae Ye
+ve
 --- page 2 ---
-4 (a). Explain operation of peak detector circuit with proper waveforms.
-(b) List important specifications of LM 380 power audio amplifier and also
-explain application for the same.
-5. (a) Derive closed loop parameters for inverting amplifier.
-(b) Draw and explain operation of voltage to current converter with floating
-load and with grounded load.
-6 (a) Draw the circuit diagram of logarithmic amplifier and
-obtain expression for output voltage.
-(b) Draw and explain monostable multivibrator circuit using 555 timer. Design a
+Q3
 
-monostable multivibrator using 555 timer to produce a pulse width of 10 ms.
+A) Explain Differentiator using op-amp. What are the drawbacks of an ideal Differentiator and | (05)
+how to overcome that? .
 
-7. (a) Design, 15V, 50 ma power supply using 723 device for Vin = 20V.
-Specifications of IC 723: Vsense= 0.65V, IQ= 3 ma, VR = 7.5 V and ID = 1 ma
+B) Design a practical integrator circuit with a de gain of 20, to integrate a square wave of 50 (05)
+KHz. Assume R1 = 10 KQ. 7 a
 
-(b) List the basic building blocks of a PLL. Define free running, capture range,
+C) Explain Antilog amplifier circuit using op-amp. (04)
 
-and lock range
+Q4
 
-[07]
-[07]
+A) Draw and explain working of full wave precision rectifier circuit using op-amp. (08)
 
-[07]
-[07]
+B) Explain working of RC phase shifter oscillator using op-amp. (06)
 
-[07]
+Q.5
 
-[07]
+A) Design a 555 timer as an astable multivibrator with an output signal frequency of 500 Hz (07)
+and 70 % duty’cycle. .
 
-[07]
+B) Design a band pass filter with fi= 100 Hz and f, = 1KHz and a pass band gain of 4, also (07)
+calculate the quality factor.
 
-[07]
+Q.6
 
-Pye An
+A) Write specifications of linear voltage regulator IC 723, also draw the IC pin diagram. (07)
+
+B) Explain adjustable Voltage Regulator. Design an adjustable voltage regulator to satisfy the | (07)
+following requirements, output voltage Vo = 5 to 15 V and output current lo=1.0 uA.
+
+Q.7 | Write short note on (Attempt any two)
+
+A) Applications of LM380. (07)
+
+B) Wide band reject filter using op-amp. (07)
+
+C) Phase locked loop (PLL). (07)
 ````
 
 ## 2017-18 · Final + Re-Exam · Sem 4 · paper 4376651d6a36
@@ -377,6 +473,79 @@ ra |
 14
 
 By
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper fab63c063de1
+
+- Departments: Electrical
+- Programmes: B TECH / ELECTRICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICAITON (ELECTRICAL), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (ELECTRICAL) Year: I Semester: III
+P
+Academic Year: 2017-2018
+Subject: Analog Integrated Circuits and Applications on aneme ~~
+“ Marks: 70 ~ (getETE aR
+Date: 30 November 2017 Time: 10.00 am t pm oN
+“ Durations: 3 (hrgy (- .. sy ys yp
+No. of Pages: $c ae
+Final-Examination y > ~e
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Ql Attempt all [14]
+
+a) Justify how Op-amp can’t be used in open loop configuration. [03]
+
+b) Define the terms: PSRR, Slew Rate [03]
+
+c) What is ideal differentiator? How difficulties of Basic differentiator can overcome? [04]
+
+d) Draw the functional block diagram of IC 723. [04]
+
+Q2 a) Give complete analysis of noninverting amplifier Op-amp circuit. Design it for voltage [07]
+
+gain 11.
+b) Explain Op amp as voltage to current converter. [07]
+ae Q3 a) Explain inverting Schmitt trigger with circuit diagram and waveforms. [07]
+
+b) What is difference between normal rectifier and precision rectifier? Explain half wave [07]
+pe precision rectifier.
+--- page 2 ---
+Q4 a) Design Wein bridge Oscillator for the frequency of 2 KHZ. [07]
+
+b) Explain IC 555 timer as Monostable Multivibrator. [07]
+Q5 _ a) Explain the term filter. Describe the classification of filters... . [07]
+b) Design 2" order KRC high pass filter for cut off frequency fo=1 kHz with quality [07]
+
+factor (Q) of 5.
+Q6 a) Explain classification and advantages of IC voltage regulators [07]
+b) Explain audio power amplifier. [07]
+
+Q7 Write short note on
+a) Instrumentation amplifier [07]
+b) Phase locked loop [07]
 ````
 
 ## 2017-18 · Final-Exam · Sem 4 · paper 0815e090888d
@@ -594,6 +763,84 @@ a) LM 380 functional block diagram   [07]
 b) Voltage control oscillator using lC 566   [07]
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper 5517960cd9c9
+
+- Departments: Electrical
+- Programmes: B TECH / ELECTRICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/ANALOG INTEGRATED CIRCUITS & APPL (BATCH 16-17) RE-EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS NG
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERI
+Programme: B.Tech (ELECTRICAL) ~ Year: Il « Semester: III
+
+Batch: 016-17 + Academic Year: 2017-2018
+
+Subject: Analog Integrated Circuits and Application ” Marks: 70 ow
+Time: 10.00 ant'td 1. Ties '
+Date: 30 November 2017 Durations: 3 (his) ye
+
+Re-Examination
+
+rood,
+uate ae
+Instructions: Candidates should read carefully the instructions printed on the question paper an d on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi. (14 Marks)
+A) Define: Input bias current, Input offset current, Input offset voltage and input
+offset voltage.
+B) Design a Wein bridge oscillator generating a frequency of 965Hz.
+C) Design a second order low-pass pass filter at a high cutoff frequency of 1KHz.
+D) List the features of LM 380.
+
+Q.2
+A) Draw a neat circuit of an Instrumentation amplifier using Op-amps. Derive its output (07 Marks)
+voltage equation.
+B) Derive expressions of differential voltage gain, input impedance, and output impedance (07Marks)
+for dual input balanced out differential amplifier.
+Q.3
+A) Draw the circuit of a voltage to current converter for grounded load and hence derive its (07 Marks)
+output equation.
+B) Derive for Op- amp as Summing, Scaling, and Averaging amplifiers. (07 Marks)
+
+\Jo
+--- page 2 ---
+Q4
+A) With the help of circuit diagram and waveforms explain the working of Precision full wave rectifier.
+
+07 Marks:
+B) Draw the circuit for inverting Schmitt trigger and explain its working with waveforms. ior Nov
+as
+A) Draw and explain monostable multivibrator circuit using 555 timer. Design a monostable (07 Marks)
+multivibrator using 555 timer to produce a pulse width of 10 ms.
+B) Explain the key parameters of PLL with the help of block diagram. (07 Marks)
+Q.6
+A) Explain and derive for voltage gain in case of Inverting and noninverting amplifier. (07 Marks)
+B) Draw and explain operation of LM317 as adjustable positive voltage regulator. (07 Marks)
+Q.7 Write short notes on (14Marks)
+
+A) Voltage regulator IC 723
+B) Peak detector
+
+a}2
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper 86aac40e7b1b
 
 - Departments: Electrical
@@ -662,6 +909,101 @@ b_ Explain the functional block diagram of IC 723 07
 Q7 Write a short note 14
 i) All pass filter
 ii) LM 380
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper 6c3a32fd2894
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ANALOG INTEGRATED CIRCUITS & APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS BATCH 14-15-16 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 12 May 2018
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (EXTC) Year: II Semester: IV
+
+Academic Year: 2017-2018
+RW PR
+Subject:Analog Integrated Circuits and Applications J§
+
+Marks:60 is cele *
+Date:12 May 2018 Time: 2.00 pm to 5.00 See ae
+
+Durations: 3 (hrs)
+
+No. of Pages : OZ
+
+Re-examination (2014-15 / 2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. ;
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary,
+
+Question 1. (Attempt any 4) : 12=4X3
+a. Define an Operational amplifier.
+b. Describe LM 78XX ICs, and their utility.
+c. Draw circuit for a peak detector using OpAmp and explain its working.
+d.e Draw circuit for bi-stable circuit using IC555 and describe its working in short.
+e. What are wide-band pass filters? Explain with help of suitable implementation.
+
+Question 2.
+a. Describe features of an ideal operational amplifier and compare them with those of a practical
+
+OpAamp such as ua741. 06
+b. Design an OpAmp based circuit for realization of the following expression.
+
+Y(t) = 2.5Xi(t) - 1.5X2(t) 86
+
+Question 3.
+
+a. Draw a neat sketch of a basic integrator using an OpAmp and derive its output equation. Discuss its
+
+aaeeeiaal
+performance for low frequency inputs, and suggest improvement. 06
+al b. Draw aneat schematic for current to voltage converter and derive expression for its output. 06
+1 of 2
+--- page 2 ---
+Question 4.
+a. Draw a neat sketch for a sample and hold circuit using OpAmp, and explain its working. 06
+b. Design a Schmitt’s trigger for an Upper Threshold Point voltage +4v, and a Lower Threshold Point
+
+voltage -4V. Assume a Vcc = -Vez =15 V, and Vsat= -Vsat = 13.5 V. Use standard components. 06
+
+Question 5.
+a. Draw a neat schematic for internal functional block diagram of IC 555. Configure this as a One-shot
+(mono-stable) describe its functioning. 06
+b. Design an astable multi-vibrator for an output frequency of 1 KHZ with duty cycle of 60%.
+Use IC 555. 06
+Question 6.
+a. Draw a neat schematic for a Sallen-Key II order low-pass filter, using OpAmp. Derive an expression
+for its transfer function and define ‘Q’, and ‘wo’ for the same. Describe limitations of this type of
+Filters. : 06
+b. Design a low pass I order Sallen-key filter for ‘fo’ of 10 khz, and a ‘Q’ of 1.5. 06
+Question 7. Write short notes(any3) 3X%4=12
+a. IC 723
+
+b. Precision Rectifiers
+oe * :
+c. Instrumentation amplifier
+
+d. Voltage follower
+
+2 of 2
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper d752e1d4f65c
@@ -928,6 +1270,117 @@ b Explain the functional block diagram of IC 723 ‘i
 Q7 Write a short note 14
 i) VCO
 ii) LM 380
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper 34c849abe785
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/Analog_Integrated_circuits_and_App__2016-17_2017 Re-exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 03 July 2018
+- Text: ocr (2 pages), mean OCR confidence 90.1
+
+````text
+SAITUTE Qe
+
+yA. N
+ENGINEERING »
+‘2 MPST
+
+a LIEP
+en
+SO
+
+i ie eae
+5 UNIVERSIOS
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEND
+
+Programme: MBA Tech (EXTC) Year: II Semester:
+
+Batch: 2016-17/2017-18
+. Academic Year: 2017-2018
+
+Subject: Analog Integrated Circuits and Applications
+. Marks: 70
+Date: 03 July 2018 Time: 2.00 pm to 5.00 pm
+~ Durations: 3 (hrs)
+
+No. of Pages: _o2z—
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, whichis provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data, if required.
+
+Q.1 | Attempt all the questions from the following:
+
+A) Explain current mirror circuit in differential amplifier. (03)
+B) Explain voltage follower using op-amp. (03)
+C) Design the following equation using minimum number of op-amp. Assume Rr =10 KQ (04)
+
+Vo = 5V; + 10Vz~ 20 d/dt (V3),
+
+D) Explain All pass filter. (04)
+Q.2
+A) Explain dc characteristics of op-amp. (04)
+B) Draw and explain practical voltage transfer characteristic of an op-amp. (04)
+C) Draw the internal block diagram of an op-amp and briefly explain each block. (06)
+Q.3
+
+A) Explain Integrator using op-amp. What are the drawbacks of an ideal integrator and how to | (05)
+overcome that?
+
+Oe
+--- page 2 ---
+B) Design a practical differentiator circuit that will differentiate an input signal with the fmax (05)
+=150 Hz. Assume Cl = 1 uF.
+
+C) Explain log amplifier circuit using op-amp. (04)
+
+Q4
+
+A) Explain inverting Schmitt trigger with circuit diagram and waveforms. What are the (08)
+advantages of Schmitt trigger over basic comparator circuit.
+
+B) Explain working of Wien bridge oscillator using op-amp. (06)
+
+Q:5
+
+A) Design a 555 timer as an astable multivibrator with an output signal frequency of 800 Hz (07)
+and 60 % duty cycle.
+
+B) Design a second order low pass filter for a cutoff frequency of 1KHz and pass band gain of | (07)
+1.587.
+
+Q.6 ;
+
+A) __| Explain three terminal adjustable voltage regulator in detail with diagrams. (07)
+
+B) Explain Fixed Voltage Regulator. Using the 7812 voltage regulator, design a current source | (07)
+that will deliver a 0.5 A current to 25 Q, 10 W load.
+
+Q.7 | Write short note on (Attempt any two)
+
+A) LM380 and its applications. (07)
+
+B) Wide band pass filter using op-amp. (07)
+
+C) Free running oscillator using op-amp. (07)
+
+2p
 ````
 
 ## 2016-17 · Exam not stated · Sem 4 · paper 919b8bd099c1
@@ -1211,6 +1664,7 @@ LM-380 monolithic power Amplifier
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/ANALOF INTEGRATED CIRCUITS AND APPLICATIONS 2016-2017 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 15 May 2017
 - Text: ocr (2 pages), mean OCR confidence 83.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1218,7 +1672,6 @@ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EI
 
 oa ae
 Pr MBA Tech (EXTC) Ye I Ss te J . ~~) - :
-ogramme: ecl ear: emester: Se ee ‘"
 angs BOY \
 
 Academic Year: 2016-2017 XS
@@ -1285,31 +1738,41 @@ c. Narrow band pass filter
 2f._
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 5517960cd9c9
+## 2016-17 · Re-Exam · Sem 4 · paper 8290a83a6cb0
 
-- Departments: Electrical
-- Programmes: B TECH / ELECTRICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/ANALOG INTEGRATED CIRCUITS & APPL (BATCH 16-17) RE-EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 91.8
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ANALOG INTEGRATED CIRCUITS & APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS BATCH 14-15,15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 May 2017
+- Text: ocr (2 pages), mean OCR confidence 91.0
 
 ````text
-SVKM’s NMIMS NG
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERI
-Programme: B.Tech (ELECTRICAL) ~ Year: Il « Semester: III
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Batch: 016-17 + Academic Year: 2017-2018
+A oes
+Batch: 2014-2015/2015 - 2016 ~ / (el anita
 
-Subject: Analog Integrated Circuits and Application ” Marks: 70 ow
-Time: 10.00 ant'td 1. Ties '
-Date: 30 November 2017 Durations: 3 (his) ye
+Academic Year: 2016-2017
 
-Re-Examination
+Programme: B. Tech (EXTC) Year: Semester: IV
 
-rood,
-uate ae
-Instructions: Candidates should read carefully the instructions printed on the question paper an d on the cover
-of the Answer Book, which is provided for their use.
+MesTae Yo!
+
+Marks: 60 + é
+Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: _2~—
+Re-Examination-.- , . a
+
+VY Subject: Analog Integrated Circuits and Applications aw —_ yy
+
+Date: 13 May 2017 ¢
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
 
 1) Question No. 01 is compulsory.
 
@@ -1320,143 +1783,44 @@ of the Answer Book, which is provided for their use.
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+7) Assume Suitable data if necessary,
 
-Qi. (14 Marks)
-A) Define: Input bias current, Input offset current, Input offset voltage and input
+Q.1. (12 Marks)
+A) Define: Input bias current, Input offset current, Input offset voltage and output
 offset voltage.
-B) Design a Wein bridge oscillator generating a frequency of 965Hz.
-C) Design a second order low-pass pass filter at a high cutoff frequency of 1KHz.
+B) Design a Wein bridge oscillator generating a frequency of 2KHz. Assume C=0.01pF.
+C) Design a second order band pass filter with f, = 2KHz and BW=400Hz.
 D) List the features of LM 380.
 
 Q.2
-A) Draw a neat circuit of an Instrumentation amplifier using Op-amps. Derive its output (07 Marks)
-voltage equation.
-B) Derive expressions of differential voltage gain, input impedance, and output impedance (07Marks)
-for dual input balanced out differential amplifier.
+A) Draw a neat circuit of an Instrumentation amplifier using 2 Op-amps. Derive its output voltage
+equation. (6 Marks)
+B) For BJT differential amplifier circuit.
+Determine i) R; such that I,= 150 yA, B=100, (ii) Find Ad, Ac and CMRR. (6 Marks)
+--- page 2 ---
 Q.3
-A) Draw the circuit of a voltage to current converter for grounded load and hence derive its (07 Marks)
-output equation.
-B) Derive for Op- amp as Summing, Scaling, and Averaging amplifiers. (07 Marks)
+A) Draw the circuit of voltage to current converter for grounded load and hence derive its output
 
-\Jo
---- page 2 ---
+equation. (6 Marks)
+B) Design an Op-amp circuit that simulates the result as Vo = 2V, + 5V2. (6 Marks)
 Q4
-A) With the help of circuit diagram and waveforms explain the working of Precision full wave rectifier.
-
-07 Marks:
-B) Draw the circuit for inverting Schmitt trigger and explain its working with waveforms. ior Nov
-as
-A) Draw and explain monostable multivibrator circuit using 555 timer. Design a monostable (07 Marks)
-multivibrator using 555 timer to produce a pulse width of 10 ms.
-B) Explain the key parameters of PLL with the help of block diagram. (07 Marks)
+A) With the help of circuit diagram and waveforms explain the working of Precision full wave
+rectifier. .
+(6 Marks)
+B) Draw the circuit for inverting Schmitt trigger and explain its working with waveforms. (6 Marks)
+Qs
+A) Design an Astable mutivibrator using IC 555 to generate output of frequency 1KHz and duty
+cycle of 75%. (6 Marks)
+B) Explain the key parameters of PLL with the help of waveforms and block diagram. (6 Marks)
 Q.6
-A) Explain and derive for voltage gain in case of Inverting and noninverting amplifier. (07 Marks)
-B) Draw and explain operation of LM317 as adjustable positive voltage regulator. (07 Marks)
-Q.7 Write short notes on (14Marks)
+A) Explain the second order low pass filter and hence derive its transfer function. (6 Marks)
+B) List the difference between linear and switching regulator. (6 Marks)
 
-A) Voltage regulator IC 723
-B) Peak detector
-
-a}2
-````
-
-## 2016-17 · Re-Exam · Sem 4 · paper c43c84398a41
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ANALOG INTEGRATED CIRCUITS & APPLICATIONS/ANALOG INTEGRATED CIRCUIT AND APPLICATION B TECH (EXTC), BATCH_2016-17-18-19_RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 18 June 2019
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-SVKM’S NMIMS [
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN GINEERING
-Programme: B. Tech/ MBA Tech (EXTC) Year: 11 Semester: IV
-Academic Year: 2018-2019
-
-Subject: Analog Integrated Circuits and Applications . Marks: 70
-Date : 18 June 2019 ; Time: 2.00 pm to 5.00 pm -
-
-Duration: ..3 sod
-
-No. of Pages:
-
-Re- Examination (2016- 17/2017- 18/2018- 19),
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fies page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data, if required. :
-
-Q.1__| Attempt all the questions from the following:
-
-A) Draw and explain voltage transfer characteristics (VTC) of practical op-amp. (03)
-B) Derive the gain formula for non-inverting amplifier. (03)
-C) | Design the following equation using minimum number of op-amp. Assume Rr=5 KQ, (04)
-Cr=luf.
-Vo= 10Vi + 5V2+ 20 J V3 dt
-D) Explain different types of filters with the help of frequency response. (04)
-Q.2
-A) Explain CMRR, input offset voltage and input offset current. (06)
-B) Calculate operating point, differential mode gain (Adm), common mode gain (Acm), (08)
-
-CMRR, input resistance (Ri), output resistance (Ro) for the following differential amplifier
-circuit. (given hie = 1.47 KQ, hfe =100, Vaz = 0.7 V)
-
-ve
---- page 2 ---
-Q3
-
-A) Explain Differentiator using op-amp. What are the drawbacks of an ideal Differentiator and | (05)
-how to overcome that? .
-
-B) Design a practical integrator circuit with a de gain of 20, to integrate a square wave of 50 (05)
-KHz. Assume R1 = 10 KQ. 7 a
-
-C) Explain Antilog amplifier circuit using op-amp. (04)
-
-Q4
-
-A) Draw and explain working of full wave precision rectifier circuit using op-amp. (08)
-
-B) Explain working of RC phase shifter oscillator using op-amp. (06)
-
-Q.5
-
-A) Design a 555 timer as an astable multivibrator with an output signal frequency of 500 Hz (07)
-and 70 % duty’cycle. .
-
-B) Design a band pass filter with fi= 100 Hz and f, = 1KHz and a pass band gain of 4, also (07)
-calculate the quality factor.
-
-Q.6
-
-A) Write specifications of linear voltage regulator IC 723, also draw the IC pin diagram. (07)
-
-B) Explain adjustable Voltage Regulator. Design an adjustable voltage regulator to satisfy the | (07)
-following requirements, output voltage Vo = 5 to 15 V and output current lo=1.0 uA.
-
-Q.7 | Write short note on (Attempt any two)
-
-A) Applications of LM380. (07)
-
-B) Wide band reject filter using op-amp. (07)
-
-C) Phase locked loop (PLL). (07)
+Q.7 Write short notes on (12Marks)
+A) Voltage regulator IC 723 .
+B) LM 380 Power amplifier
+C) VCO 566
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper f566cd439436
@@ -1610,117 +1974,6 @@ Q.7_| Write Short Note (Any TWO)
 A) Monolithic Power amplifier LM380 (07)
 B) Fixed Voltage Regulator (07)
 C) Wide Band pass filter (07)
-````
-
-## 2016-17 · Re-Exam · Sem 4 · paper 34c849abe785
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/Analog_Integrated_circuits_and_App__2016-17_2017 Re-exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 03 July 2018
-- Text: ocr (2 pages), mean OCR confidence 90.1
-
-````text
-SAITUTE Qe
-
-yA. N
-ENGINEERING »
-‘2 MPST
-
-a LIEP
-en
-SO
-
-i ie eae
-5 UNIVERSIOS
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEND
-
-Programme: MBA Tech (EXTC) Year: II Semester:
-
-Batch: 2016-17/2017-18
-. Academic Year: 2017-2018
-
-Subject: Analog Integrated Circuits and Applications
-. Marks: 70
-Date: 03 July 2018 Time: 2.00 pm to 5.00 pm
-~ Durations: 3 (hrs)
-
-No. of Pages: _o2z—
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, whichis provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data, if required.
-
-Q.1 | Attempt all the questions from the following:
-
-A) Explain current mirror circuit in differential amplifier. (03)
-B) Explain voltage follower using op-amp. (03)
-C) Design the following equation using minimum number of op-amp. Assume Rr =10 KQ (04)
-
-Vo = 5V; + 10Vz~ 20 d/dt (V3),
-
-D) Explain All pass filter. (04)
-Q.2
-A) Explain dc characteristics of op-amp. (04)
-B) Draw and explain practical voltage transfer characteristic of an op-amp. (04)
-C) Draw the internal block diagram of an op-amp and briefly explain each block. (06)
-Q.3
-
-A) Explain Integrator using op-amp. What are the drawbacks of an ideal integrator and how to | (05)
-overcome that?
-
-Oe
---- page 2 ---
-B) Design a practical differentiator circuit that will differentiate an input signal with the fmax (05)
-=150 Hz. Assume Cl = 1 uF.
-
-C) Explain log amplifier circuit using op-amp. (04)
-
-Q4
-
-A) Explain inverting Schmitt trigger with circuit diagram and waveforms. What are the (08)
-advantages of Schmitt trigger over basic comparator circuit.
-
-B) Explain working of Wien bridge oscillator using op-amp. (06)
-
-Q:5
-
-A) Design a 555 timer as an astable multivibrator with an output signal frequency of 800 Hz (07)
-and 60 % duty cycle.
-
-B) Design a second order low pass filter for a cutoff frequency of 1KHz and pass band gain of | (07)
-1.587.
-
-Q.6 ;
-
-A) __| Explain three terminal adjustable voltage regulator in detail with diagrams. (07)
-
-B) Explain Fixed Voltage Regulator. Using the 7812 voltage regulator, design a current source | (07)
-that will deliver a 0.5 A current to 25 Q, 10 W load.
-
-Q.7 | Write short note on (Attempt any two)
-
-A) LM380 and its applications. (07)
-
-B) Wide band pass filter using op-amp. (07)
-
-C) Free running oscillator using op-amp. (07)
-
-2p
 ````
 
 ## 2015-16 · Final-Exam · Sem 4 · paper 7e9f4153cfa6
@@ -1954,91 +2207,6 @@ Q7. Write short notes on any two (12M)
 2/9
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 8290a83a6cb0
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ANALOG INTEGRATED CIRCUITS & APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS BATCH 14-15,15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 May 2017
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-A oes
-Batch: 2014-2015/2015 - 2016 ~ / (el anita
-
-Academic Year: 2016-2017
-
-Programme: B. Tech (EXTC) Year: Semester: IV
-
-MesTae Yo!
-
-Marks: 60 + é
-Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages: _2~—
-Re-Examination-.- , . a
-
-VY Subject: Analog Integrated Circuits and Applications aw —_ yy
-
-Date: 13 May 2017 ¢
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-Q.1. (12 Marks)
-A) Define: Input bias current, Input offset current, Input offset voltage and output
-offset voltage.
-B) Design a Wein bridge oscillator generating a frequency of 2KHz. Assume C=0.01pF.
-C) Design a second order band pass filter with f, = 2KHz and BW=400Hz.
-D) List the features of LM 380.
-
-Q.2
-A) Draw a neat circuit of an Instrumentation amplifier using 2 Op-amps. Derive its output voltage
-equation. (6 Marks)
-B) For BJT differential amplifier circuit.
-Determine i) R; such that I,= 150 yA, B=100, (ii) Find Ad, Ac and CMRR. (6 Marks)
---- page 2 ---
-Q.3
-A) Draw the circuit of voltage to current converter for grounded load and hence derive its output
-
-equation. (6 Marks)
-B) Design an Op-amp circuit that simulates the result as Vo = 2V, + 5V2. (6 Marks)
-Q4
-A) With the help of circuit diagram and waveforms explain the working of Precision full wave
-rectifier. .
-(6 Marks)
-B) Draw the circuit for inverting Schmitt trigger and explain its working with waveforms. (6 Marks)
-Qs
-A) Design an Astable mutivibrator using IC 555 to generate output of frequency 1KHz and duty
-cycle of 75%. (6 Marks)
-B) Explain the key parameters of PLL with the help of waveforms and block diagram. (6 Marks)
-Q.6
-A) Explain the second order low pass filter and hence derive its transfer function. (6 Marks)
-B) List the difference between linear and switching regulator. (6 Marks)
-
-Q.7 Write short notes on (12Marks)
-A) Voltage regulator IC 723 .
-B) LM 380 Power amplifier
-C) VCO 566
-````
-
 ## 2015-16 · Re-Exam · Sem 4 · paper 0ca13e6f523e
 
 - Departments: Electronics and Telecommunication
@@ -2232,6 +2400,118 @@ d. Instrumentation Amplifier
 2/2.
 ````
 
+## 2014-15 · Exam not stated · Trim 5 · paper a071ae1ec192
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ANALOG INTEGRATED CIRCUITS AND APPLICATION/ANALOG INTEGRATED CIRCUITS & APPLICATIONS BATCH 2012-130001(1).pdf`
+- Printed on paper: max marks: 100; exam date: 13/12/2014
+- Text: ocr (2 pages), mean OCR confidence 91.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (EXTC) Year: I Trimester: V
+Academic Year: 2014-15 ed
+SN Ra
+Batch:2012-13 —— “Kt
+is = 16 e,
+. Y MB
+Subject : Analog Integrated Circuits & Applications Marks:100 | . oe a RY ¥ :
+Time : 2.00pr Cees 4
+Date :13/12/2014 Durations:3 (RC +g A
+Re-Examination “Minas zane 4
+wee
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the answer
+book, which is provided for their use.
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Assume relevant data whenever required.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+Ql) Attempt any four. 20
+a) Draw the equivalent circuit diagram for Op-amp
+b) What is the concept of virtual ground and virtuai short in Op-amp
+c) Draw and explain zero crossing detectors.
+d) What information contained in typical Op-amp data sheet.
+e) Why negative feedback is desirable in amplifier application
+Q2) a) Draw the circuit diagram of temperature compensated Anti log amplifier 10
+
+and obtain expression for output voltage.
+b) Draw and explain First order low pass Butterworth filter. Explain its 10
+
+operation with frequency response? Design HPF at cutoff frequency 1
+KHz with a passband gain of 5
+
+Q3) a) Draw circuit diagram of Schmitt trigger using op amp and explain its 10
+operation with input and output waveforms
+
+b) How to generate triangular wave using Op-amp 10
+--- page 2 ---
+Q4)
+
+Q5)
+
+Q6)
+
+Q7)
+
+a)
+
+b)
+
+a)
+
+a)
+
+b)
+
+a)
+b)
+c)
+
+Design astable multivibartor circuit for following specifications using 555
+timer. Duty cycle = 50 %, fo = 6 KHz
+
+Realize the circuit using Op-amp to produce the output voltage Vo given
+by Vo=(Vsit15Vs3)-(Vs2+18Vsa)
+
+Explain IC 8038 as waveform generator
+List application of PLL. Explain any one in deail.
+
+Draw Astble multivibartor circuit using IC 555 and explain its operation.
+Also obtain expression for the period of the output pulse.
+
+Draw and describe RC phase Oscillator using Op-amp and design RC
+phase Oscillator using Op-amp for the frequency 8k HZ.
+
+Write short notes (any two)
+IC Voltage Regulator
+Analog to digital converters
+Precision rectifiers
+
+10
+
+10
+
+10
+10
+10
+
+10
+
+20
+````
+
 ## 2014-15 · Final-Exam · Sem 4 · paper 83369e985072
 
 - Departments: Electronics and Telecommunication
@@ -2317,6 +2597,7 @@ c) Peak Detector.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS 2014-15 Final exam.pdf`
 - Printed on paper: max marks: 60; exam date: 15/05/2015
 - Text: ocr (2 pages), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2358,7 +2639,6 @@ a Explain de characteristics of an op-amp. 3
 b Using single op-amp to generate the expression, 3
 
 t
-Vout= - So (Vina + 2Ving + 5Ving) at
 
 Assume feedback capacitor as 10 uF
 
@@ -2430,6 +2710,133 @@ is
 
 (6)
 (2)
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 7debb2ef692e
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ANALOG INTEGRATED CIRCUITS & APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICAITONS B TECH (EXTC) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 15/05/2015
+- Text: ocr (4 pages), mean OCR confidence 86.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: II _~wdeebgester: IV
+Batch: 2013-14 caiten2 oF Bap
+Academic Year: 2014-2015 OS nse SOO
+¢ 7 7 ™~,
+Subject: Analog Integrated Circuits and Applications f ¢ fou PSsTme VS
+Marks: 1.0, BRARY
+Date: 15/05/2015 Time: 8,00 pm to 5.
+Durations: arse <4
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their
+use.
+
+1. Question Nol. is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q1. Attempt any 4 out of the following:
+
+a) Explain any 5 specifications of OPAMP with their practical values. (5)
+
+b) Derive the expressions of gain for Inverting and Non-inverting amplifiers
+using OPAMP respectively. (5)
+
+c) Explain Inverting Precision Half wave rectifiers. What are the advantages
+of Precision rectifiers over conventionai rectifiers? (5)
+
+HH
+--- page 2 ---
+d) Design a circuit using OPAMPs that generates triangular wave at the output
+when the input signal applied is a sine wave. (5)
+
+e) Enlist the different types of filters and give the advantages of Active filters
+
+over Passive filters. (5)
+f) Write a short note on “Adjustable Voltage Regulators”. (5)
+Q2.
+a) Derive the expression of gain of a 3-Opamp based Instrumentation
+Amplifier and design the same for a gain from 10-100. (10)
+
+b) Design a practical integrator circuit that can process an input sinusoidal
+signal faithfully up to a frequency of 4 kHz having a gain of 12. Assume the
+
+value of the resistor R1 to be 1 kQ. (10)
+Q3.
+a) Draw and explain functional diagram for Monostable Multivibrator using IC
+555. Also, derive the expression for ON time. (10)
+
+b) Design an OPAMP based Schmitt Trigger circuit with LTP = 2V, UTP = 4V
+and saturation voltage (Vsat) = output voltage (Vo) = 10 V. (10)
+
+Q4.
+
+a) Enlist the disadvantages of Basic Log amplifier. Also, explain the
+functioning of Temperature Compensated Log Amplifier and prove how the
+
+output of such a circuit is independent of temperature variations. (10)
+canal
+b) Design an Astable Multivibrator using IC 555 to generate output of
+Bae: frequency 1 kHz and duty cycle of 75 %. Assume the value of the capacitor
+
+to be 0.1 micro Farads. (10)
+--- page 3 ---
+QS.
+
+a) Design a second order Band Pass Filter with output frequency of | kHz and
+Bandwidth of 200 Hz. What is the resonant gain of the circuit? (10)
+
+b) Derive the expression of frequency of oscillations for an R-C Phase shift
+oscillator using Opamp & design the values of components required to make
+it oscillate at 10 kHz. (10)
+
+Q6. Write short notes on the following (any 4) (20)
+
+a) Differential Amplifier configurations.
+
+b) Opamp as an Inverting adder.
+
+c) Schmitt triggers.
+
+d) Power audio amplifiers.
+
+e) Design of Low voltage regulator using IC 723.
+f) V-I convertors.
+
+Q7.
+
+a) Explain the KRC filter principle & explain the design procedure of Low
+Pass KRC filter. (7)
+
+b) Design an OPAMP based circuit that simulates the given relation as
+under. Assume the value of feedback resistor to be 10 kQ. (6)
+
+Vout = 2Vi + 3V2 — 7V3
+
+c) Calculate the output voltage of the following circuit when the input to the
+circuit is given by cos(100t). (7)
+
+&
+--- page 4 ---
+x
+
+iy
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 2d7a60a8d24a
@@ -2520,6 +2927,224 @@ Specifications of IC 723: Vsense= 0.65V, la= 3 ma, VR = 7.5Vandlpb=1ma
 (b) List the basic building blocks of a PLL. Define free running, capture range, [06]
 
 and lock range
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 8098e5f9d28f
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS BATCH 2013-14 Re-exam_8098e5f9d2.pdf`
+- Printed on paper: exam date: 15/05/2015
+- Text: ocr (2 pages), mean OCR confidence 77.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: Semester: IV
+Batch: 2013-14 ‘
+Academic Year: 2014-2015
+ject: Analog Integrated Circuits and Applications j i
+Subject nalog & Marks: z E fo e A \
+Date: 15/05/2015 Time: aeons am fo 1 ry
+
+Durations?
+Re-Examination
+
+estion paper
+
+- Candidates shi
+
+a the cover of Answer
+
+No. ONE isc
+2. Out ofremaining questions, mpi any FOUR questions.
+3. Inali FIVE questions to be attempted
+
+4, All questions carry equal marks.
+
+5. Answer ito each new questions to be started
+6. Figures in brackets on the right hand side indica
+
+1, Attempt any fourof the following: ; 20]
+(a) What is slew rate? Discuss how we will fin
+(b) What is output off set voliage? Explain differer
+(c) Explain narrow band reject filter and its applicstion.
+
+(d) Write a note on bridge amplifier using op-amp
+
+(ec) Design the following equation minimum number of op amp .
+
+Vo=2V143V2-10 d/dt(V3) +7V4
+
+2. Derive expression for Q-point values, Ag, AcmsCMRR, Ri,and Ro for following [20]
+differential amplifier. Also calculate above parameter for the same.
+
+paves
+{ A\QW" D =
+‘ Bil VHD
+- Le fe 2 957
+Ve Li Dje Su J ;
+7 eo Ds BE Top
+5 GL a
+wa al PO?
+4 pus
+=— Ele dh.
+qT
+ad
+Veer yoy
+3 (a). Design a wide band reject filter for Fy=100Hz, Fp=2K Hz and passband [10]
+gain equal to 4.
+(b) Explain bistable mult r with waveforms using IC555 [10]
+
+fx
+--- page 2 ---
+4
+
+5. (a) Write 2 sor
+
+7
+
+di
+
+(@). How Instramen
+Derive output:
+
+jon amplifie
+
+is acivantageous than differential amplifier?
+.
+
+sSt
+
+() Explain w
+frequency.
+
+(>) Explain current mirror circuit in differential amplifier
+
+(c) Draw and explain integrator using op-arnp
+
+. Write a short nots on-
+
+a. All pass filter
+
+b. RC phase shift oscillator
+
+c. Voltage controlled oscillator
+d. Switching regulator
+
+{10}
+
+floy
+
+10]
+
+(10)
+
+[39]
+
+{05}
+[05]
+
+i20]
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper d20887cc4172
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/Analog Integrated Circuits and Applications Batch 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 10; exam date: 03/07/2015
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+‘
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: II Semester: IV
+
+Academic Year: 2014-15
+Batch: 2013-14
+
+Subject : Analog Integrated Circuits and Applications Marks: 10 i
+
+Time : 10.
+Durations:
+
+‘a Lf 5 ,
+
+Bhto 1.00pm ©
+
+Sy
+Mie
+
+Date : 03/07/2015
+
+“3
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary *
+
+Ql Attempt any 4 20
+A Explain gain of Differential Amplifier with one amplifier is Ap = -= 5
+t
+B Explain inverting Zero Crossing detector. 5
+Write specification of voltage regulator IC 723. 5
+D Explain all pass filter and its application 5
+E What is slew rate? Discuss how we will find slew rate practically. 5
+Q2 20
+A Draw and explain operation of Precision half wave and full wave rectifier. 10
+B Design Astable multivibrator circuit for following specifications using 555 timer. 10
+
+Duty Cycle = 60% F, = 1 kHz Value of capacitor 0.1uF.
+
+Q3
+
+A Write a short note on monolithic power amplifier LM380. And explain application as 10
+Audio power amplifier.
+
+B Draw and explain operation of triangular wave generator with input and output | 10
+waveform.
+
+Q4
+
+A Explain current mirror circuit in differential amplifier 3
+
+B Draw and explain differentiator using op-amp 5
+
+Cc Explain Log and Antilog amplifier using op-amp. And its application 10
+
+4/2
+--- page 2 ---
+Q5 20
+A Explain IC 555 as a Monostable multivibrator. Derive formula. 10
+B Functional block diagram of Phase Locked loop IC 565 10
+Q6 20
+A Explain the circuit of RC phase shift oscillator. Why A, = 29? 10
+B Draw the circuit of Schmitt Trigger and explain its working. Explain advantages over 10
+Comparator.
+O7 20
+A Describe block diagram of Opamp and explain properties of opamp. 10
+B Draw circuit of Instrumentation amplifier using 3 opamp and explain working. Give 10
+
+expression
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 9e77979efcd3
@@ -2720,6 +3345,247 @@ C) Advantages of Active filter. 06 Marks
 2)o
 ````
 
+## 2013-14 · Exam not stated · Trim 5 · paper 46aecf088548
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ANALOG INTEGRATED CIRCUITS AND APPLICATION/ANALOG INTEGRATED CIRCUITS & APPLICATIONS BATCH 2012-130001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 /12/2013
+- Text: ocr (2 pages), mean OCR confidence 93.4
+
+````text
+SVKM’s NMIMS “s
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+*
+
+) }
+
+Programme:MBA Tech (Extc) Year: II
+
+Academic Year: 2013-14
+
+Subject : Analog Integrated Circuits & Applications
+
+Marks: 100
+Time : 2.00pm - 5.00pm
+Durations:3 (hrs)
+
+Date :16 /12/2013
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on.the question paper and on the cover of the answer
+
+book, which is provided for their use.
+NB:
+1. Question No.1 is compulsory.
+2. ° Out of remaining questions, attempt any 4 questions.
+3. Assume relevant data whenever required.
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q)1) Attempt any four. 20
+
+a) Explain the concept of virtual ground and virtual short in Op-amp
+
+b) Compare active and passive filters
+
+c) Draw with waveforms sample and hold circuit
+
+d) What is comparator? what are its types
+
+e) Explain Block diagram of PLL
+Q2) a) Draw the circuit diagram of temperature compensated Antilog amplifier 10
+
+and obtain expression for output voltage.
+
+b) Explain absolute value circuit in detail 10
+
+Q3) a) Draw circuit diagram of Schmitt trigger using op amp and explain its 10
+operation with input and output waveforms
+10
+
+b) Draw and explain First order high pass Butterworth filter. Explain its
+operation with frequency response? Design HPF at cutoff frequency 1
+
+Khz with a passband gain of 5
+--- page 2 ---
+Q4)
+
+Q5)
+
+Q6)
+
+Q7)
+
+a)
+
+b)
+
+a)
+
+a)
+
+b)
+
+Design astable multivibrator circuit for following specifications using 555
+timer. Duty cycle = 40 %, fo = 3 KHz
+
+Explain operation of Op-amp as summing, scaling and averaging
+amplifier also derive expression for the output voltage in each case
+
+Explain IC 8038 as waveform generator
+List application of PLL. Explain any one in detail.
+
+Draw Monostable multivibrator circuit using IC 555 and explain its
+operation. Also obtain expression for the period of the output pulse.
+Draw and describe RC phase Oscillator using Op-amp and design RC
+
+phase Oscillator using Op-amp for the frequency 6k HZ.
+
+Write short notes
+
+IC 723
+
+Analog to digital converters
+Astable multivibrator using Op amp
+Band pass filter
+
+a ae
+
+10
+
+10
+
+10
+10
+
+10
+
+10
+
+20
+````
+
+## 2013-14 · Exam not stated · Trim 5 · paper 12e9c26dc712
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ANALOG INTEGRATED CIRCUITS AND APPLICATION/ANALOG INTERGATED CIRUITS AND APPLICATION BATCH 2012-130001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2014
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+
+ester: a Y Tt
+
+Programme:MBA Tech (EXTC) Year:ll
+at MP ST TMRE ve
+Academic Year: 2013-14 Batch : 2012-13 Une BRARY Sy
+>. _ ole, /,
+
+ns ven"
+
+Subject 7 Analog Integrated Circuits & Applications
+Marks: 100
+
+Date : 20/06/2014 Time : 2.00pm - 5.00pm
+Durations: 3 (hrs)
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the answer
+book, which is provided for their use.
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Assume relevant data whenever required.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+Ql) Attempt any four. 20
+a) What is virtual ground and virtual short in Op-amp
+b) Compare active and passive filters
+c) Draw with waveforms sample and hold circuit
+d) What is zero crossing detector
+e) What are the linear and nonlinear applications of Op-amp
+Q2) a) Draw the circuit diagram of temperature compensated log amplifier and 10
+
+obtain expression for output voltage.
+
+b) How to generate triangular wave using Op-amp 10
+
+Q3) a) , Draw circuit diagram of Schmitt trigger using op amp and explain its 10
+operation with input and output waveforms
+
+b) Draw and explain First order high pass Butterworth filter. Explain its 10
+operation with frequency response? Design HPF at cutoff frequency 1
+Khz with a passband gain of 5
+--- page 2 ---
+Q4) a)
+
+b)
+
+Q5) a)
+
+Q6) a)
+
+b)
+
+Q7)
+a)
+b)
+)
+d)
+
+Design astable multivibrator circuit for following specifications using 555
+timer. Duty cycle = 50 %, fo = 3 KHz
+
+Explain operation of Op-amp as summing, scaling and averaging
+amplifier also derive expression for the output voltage in each case
+
+Explain IC 8038 as waveform generator
+List application of PLL. Explain any one in detail.
+
+Draw Monostable multivibrator circuit using IC 555 and explain its
+operation. Also obtain expression for the period of the output pulse.
+Draw and describe RC phase Oscillator using Op-amp and design RC
+
+phase Oscillator using Op-amp for the frequency 6k HZ.
+
+Write short notes
+
+IC 723
+
+Analog to digital converters
+Astable multivibrator using Op amp
+Precision rectifier
+
+x x
+
+10
+
+10
+
+10
+10
+
+10
+
+10
+
+20
+````
+
 ## 2013-14 · Final-Exam · Sem 4 · paper 16dc2a38c80b
 
 - Departments: Electronics and Telecommunication
@@ -2810,133 +3676,6 @@ ii. Voltage controlled Oscillators
 b. Draw the circuit for full wave rectifier and explain its working. 10
 
 x
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 7debb2ef692e
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ANALOG INTEGRATED CIRCUITS & APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICAITONS B TECH (EXTC) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 15/05/2015
-- Text: ocr (4 pages), mean OCR confidence 86.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: II _~wdeebgester: IV
-Batch: 2013-14 caiten2 oF Bap
-Academic Year: 2014-2015 OS nse SOO
-¢ 7 7 ™~,
-Subject: Analog Integrated Circuits and Applications f ¢ fou PSsTme VS
-Marks: 1.0, BRARY
-Date: 15/05/2015 Time: 8,00 pm to 5.
-Durations: arse <4
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their
-use.
-
-1. Question Nol. is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q1. Attempt any 4 out of the following:
-
-a) Explain any 5 specifications of OPAMP with their practical values. (5)
-
-b) Derive the expressions of gain for Inverting and Non-inverting amplifiers
-using OPAMP respectively. (5)
-
-c) Explain Inverting Precision Half wave rectifiers. What are the advantages
-of Precision rectifiers over conventionai rectifiers? (5)
-
-HH
---- page 2 ---
-d) Design a circuit using OPAMPs that generates triangular wave at the output
-when the input signal applied is a sine wave. (5)
-
-e) Enlist the different types of filters and give the advantages of Active filters
-
-over Passive filters. (5)
-f) Write a short note on “Adjustable Voltage Regulators”. (5)
-Q2.
-a) Derive the expression of gain of a 3-Opamp based Instrumentation
-Amplifier and design the same for a gain from 10-100. (10)
-
-b) Design a practical integrator circuit that can process an input sinusoidal
-signal faithfully up to a frequency of 4 kHz having a gain of 12. Assume the
-
-value of the resistor R1 to be 1 kQ. (10)
-Q3.
-a) Draw and explain functional diagram for Monostable Multivibrator using IC
-555. Also, derive the expression for ON time. (10)
-
-b) Design an OPAMP based Schmitt Trigger circuit with LTP = 2V, UTP = 4V
-and saturation voltage (Vsat) = output voltage (Vo) = 10 V. (10)
-
-Q4.
-
-a) Enlist the disadvantages of Basic Log amplifier. Also, explain the
-functioning of Temperature Compensated Log Amplifier and prove how the
-
-output of such a circuit is independent of temperature variations. (10)
-canal
-b) Design an Astable Multivibrator using IC 555 to generate output of
-Bae: frequency 1 kHz and duty cycle of 75 %. Assume the value of the capacitor
-
-to be 0.1 micro Farads. (10)
---- page 3 ---
-QS.
-
-a) Design a second order Band Pass Filter with output frequency of | kHz and
-Bandwidth of 200 Hz. What is the resonant gain of the circuit? (10)
-
-b) Derive the expression of frequency of oscillations for an R-C Phase shift
-oscillator using Opamp & design the values of components required to make
-it oscillate at 10 kHz. (10)
-
-Q6. Write short notes on the following (any 4) (20)
-
-a) Differential Amplifier configurations.
-
-b) Opamp as an Inverting adder.
-
-c) Schmitt triggers.
-
-d) Power audio amplifiers.
-
-e) Design of Low voltage regulator using IC 723.
-f) V-I convertors.
-
-Q7.
-
-a) Explain the KRC filter principle & explain the design procedure of Low
-Pass KRC filter. (7)
-
-b) Design an OPAMP based circuit that simulates the given relation as
-under. Assume the value of feedback resistor to be 10 kQ. (6)
-
-Vout = 2Vi + 3V2 — 7V3
-
-c) Calculate the output voltage of the following circuit when the input to the
-circuit is given by cos(100t). (7)
-
-&
---- page 4 ---
-x
-
-iy
 ````
 
 ## 2013-14 · Re-Exam · Sem 4 · paper a060148e930f
@@ -3118,577 +3857,6 @@ multivibrator.
 9/2
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 8098e5f9d28f
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS BATCH 2013-14 Re-exam_8098e5f9d2.pdf`
-- Printed on paper: exam date: 15/05/2015
-- Text: ocr (2 pages), mean OCR confidence 77.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: Semester: IV
-Batch: 2013-14 ‘
-Academic Year: 2014-2015
-ject: Analog Integrated Circuits and Applications j i
-Subject nalog & Marks: z E fo e A \
-Date: 15/05/2015 Time: aeons am fo 1 ry
-
-Durations?
-Re-Examination
-
-estion paper
-
-- Candidates shi
-
-a the cover of Answer
-
-No. ONE isc
-2. Out ofremaining questions, mpi any FOUR questions.
-3. Inali FIVE questions to be attempted
-
-4, All questions carry equal marks.
-
-5. Answer ito each new questions to be started
-6. Figures in brackets on the right hand side indica
-
-1, Attempt any fourof the following: ; 20]
-(a) What is slew rate? Discuss how we will fin
-(b) What is output off set voliage? Explain differer
-(c) Explain narrow band reject filter and its applicstion.
-
-(d) Write a note on bridge amplifier using op-amp
-
-(ec) Design the following equation minimum number of op amp .
-
-Vo=2V143V2-10 d/dt(V3) +7V4
-
-2. Derive expression for Q-point values, Ag, AcmsCMRR, Ri,and Ro for following [20]
-differential amplifier. Also calculate above parameter for the same.
-
-paves
-{ A\QW" D =
-‘ Bil VHD
-- Le fe 2 957
-Ve Li Dje Su J ;
-7 eo Ds BE Top
-5 GL a
-wa al PO?
-4 pus
-=— Ele dh.
-qT
-ad
-Veer yoy
-3 (a). Design a wide band reject filter for Fy=100Hz, Fp=2K Hz and passband [10]
-gain equal to 4.
-(b) Explain bistable mult r with waveforms using IC555 [10]
-
-fx
---- page 2 ---
-4
-
-5. (a) Write 2 sor
-
-7
-
-di
-
-(@). How Instramen
-Derive output:
-
-jon amplifie
-
-is acivantageous than differential amplifier?
-.
-
-sSt
-
-() Explain w
-frequency.
-
-(>) Explain current mirror circuit in differential amplifier
-
-(c) Draw and explain integrator using op-arnp
-
-. Write a short nots on-
-
-a. All pass filter
-
-b. RC phase shift oscillator
-
-c. Voltage controlled oscillator
-d. Switching regulator
-
-{10}
-
-floy
-
-10]
-
-(10)
-
-[39]
-
-{05}
-[05]
-
-i20]
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper d20887cc4172
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/Analog Integrated Circuits and Applications Batch 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 10; exam date: 03/07/2015
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-‘
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II Semester: IV
-
-Academic Year: 2014-15
-Batch: 2013-14
-
-Subject : Analog Integrated Circuits and Applications Marks: 10 i
-
-Time : 10.
-Durations:
-
-‘a Lf 5 ,
-
-Bhto 1.00pm ©
-
-Sy
-Mie
-
-Date : 03/07/2015
-
-“3
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary *
-
-Ql Attempt any 4 20
-A Explain gain of Differential Amplifier with one amplifier is Ap = -= 5
-t
-B Explain inverting Zero Crossing detector. 5
-Write specification of voltage regulator IC 723. 5
-D Explain all pass filter and its application 5
-E What is slew rate? Discuss how we will find slew rate practically. 5
-Q2 20
-A Draw and explain operation of Precision half wave and full wave rectifier. 10
-B Design Astable multivibrator circuit for following specifications using 555 timer. 10
-
-Duty Cycle = 60% F, = 1 kHz Value of capacitor 0.1uF.
-
-Q3
-
-A Write a short note on monolithic power amplifier LM380. And explain application as 10
-Audio power amplifier.
-
-B Draw and explain operation of triangular wave generator with input and output | 10
-waveform.
-
-Q4
-
-A Explain current mirror circuit in differential amplifier 3
-
-B Draw and explain differentiator using op-amp 5
-
-Cc Explain Log and Antilog amplifier using op-amp. And its application 10
-
-4/2
---- page 2 ---
-Q5 20
-A Explain IC 555 as a Monostable multivibrator. Derive formula. 10
-B Functional block diagram of Phase Locked loop IC 565 10
-Q6 20
-A Explain the circuit of RC phase shift oscillator. Why A, = 29? 10
-B Draw the circuit of Schmitt Trigger and explain its working. Explain advantages over 10
-Comparator.
-O7 20
-A Describe block diagram of Opamp and explain properties of opamp. 10
-B Draw circuit of Instrumentation amplifier using 3 opamp and explain working. Give 10
-
-expression
-````
-
-## 2012-13 · Exam not stated · Trim 5 · paper a071ae1ec192
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ANALOG INTEGRATED CIRCUITS AND APPLICATION/ANALOG INTEGRATED CIRCUITS & APPLICATIONS BATCH 2012-130001(1).pdf`
-- Printed on paper: max marks: 100; exam date: 13/12/2014
-- Text: ocr (2 pages), mean OCR confidence 91.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (EXTC) Year: I Trimester: V
-Academic Year: 2014-15 ed
-SN Ra
-Batch:2012-13 —— “Kt
-is = 16 e,
-. Y MB
-Subject : Analog Integrated Circuits & Applications Marks:100 | . oe a RY ¥ :
-Time : 2.00pr Cees 4
-Date :13/12/2014 Durations:3 (RC +g A
-Re-Examination “Minas zane 4
-wee
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the answer
-book, which is provided for their use.
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Assume relevant data whenever required.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-Ql) Attempt any four. 20
-a) Draw the equivalent circuit diagram for Op-amp
-b) What is the concept of virtual ground and virtuai short in Op-amp
-c) Draw and explain zero crossing detectors.
-d) What information contained in typical Op-amp data sheet.
-e) Why negative feedback is desirable in amplifier application
-Q2) a) Draw the circuit diagram of temperature compensated Anti log amplifier 10
-
-and obtain expression for output voltage.
-b) Draw and explain First order low pass Butterworth filter. Explain its 10
-
-operation with frequency response? Design HPF at cutoff frequency 1
-KHz with a passband gain of 5
-
-Q3) a) Draw circuit diagram of Schmitt trigger using op amp and explain its 10
-operation with input and output waveforms
-
-b) How to generate triangular wave using Op-amp 10
---- page 2 ---
-Q4)
-
-Q5)
-
-Q6)
-
-Q7)
-
-a)
-
-b)
-
-a)
-
-a)
-
-b)
-
-a)
-b)
-c)
-
-Design astable multivibartor circuit for following specifications using 555
-timer. Duty cycle = 50 %, fo = 6 KHz
-
-Realize the circuit using Op-amp to produce the output voltage Vo given
-by Vo=(Vsit15Vs3)-(Vs2+18Vsa)
-
-Explain IC 8038 as waveform generator
-List application of PLL. Explain any one in deail.
-
-Draw Astble multivibartor circuit using IC 555 and explain its operation.
-Also obtain expression for the period of the output pulse.
-
-Draw and describe RC phase Oscillator using Op-amp and design RC
-phase Oscillator using Op-amp for the frequency 8k HZ.
-
-Write short notes (any two)
-IC Voltage Regulator
-Analog to digital converters
-Precision rectifiers
-
-10
-
-10
-
-10
-10
-10
-
-10
-
-20
-````
-
-## 2012-13 · Exam not stated · Trim 5 · paper 46aecf088548
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ANALOG INTEGRATED CIRCUITS AND APPLICATION/ANALOG INTEGRATED CIRCUITS & APPLICATIONS BATCH 2012-130001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 /12/2013
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-SVKM’s NMIMS “s
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-*
-
-) }
-
-Programme:MBA Tech (Extc) Year: II
-
-Academic Year: 2013-14
-
-Subject : Analog Integrated Circuits & Applications
-
-Marks: 100
-Time : 2.00pm - 5.00pm
-Durations:3 (hrs)
-
-Date :16 /12/2013
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on.the question paper and on the cover of the answer
-
-book, which is provided for their use.
-NB:
-1. Question No.1 is compulsory.
-2. ° Out of remaining questions, attempt any 4 questions.
-3. Assume relevant data whenever required.
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-Q)1) Attempt any four. 20
-
-a) Explain the concept of virtual ground and virtual short in Op-amp
-
-b) Compare active and passive filters
-
-c) Draw with waveforms sample and hold circuit
-
-d) What is comparator? what are its types
-
-e) Explain Block diagram of PLL
-Q2) a) Draw the circuit diagram of temperature compensated Antilog amplifier 10
-
-and obtain expression for output voltage.
-
-b) Explain absolute value circuit in detail 10
-
-Q3) a) Draw circuit diagram of Schmitt trigger using op amp and explain its 10
-operation with input and output waveforms
-10
-
-b) Draw and explain First order high pass Butterworth filter. Explain its
-operation with frequency response? Design HPF at cutoff frequency 1
-
-Khz with a passband gain of 5
---- page 2 ---
-Q4)
-
-Q5)
-
-Q6)
-
-Q7)
-
-a)
-
-b)
-
-a)
-
-a)
-
-b)
-
-Design astable multivibrator circuit for following specifications using 555
-timer. Duty cycle = 40 %, fo = 3 KHz
-
-Explain operation of Op-amp as summing, scaling and averaging
-amplifier also derive expression for the output voltage in each case
-
-Explain IC 8038 as waveform generator
-List application of PLL. Explain any one in detail.
-
-Draw Monostable multivibrator circuit using IC 555 and explain its
-operation. Also obtain expression for the period of the output pulse.
-Draw and describe RC phase Oscillator using Op-amp and design RC
-
-phase Oscillator using Op-amp for the frequency 6k HZ.
-
-Write short notes
-
-IC 723
-
-Analog to digital converters
-Astable multivibrator using Op amp
-Band pass filter
-
-a ae
-
-10
-
-10
-
-10
-10
-
-10
-
-10
-
-20
-````
-
-## 2012-13 · Exam not stated · Trim 5 · paper 12e9c26dc712
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ANALOG INTEGRATED CIRCUITS AND APPLICATION/ANALOG INTERGATED CIRUITS AND APPLICATION BATCH 2012-130001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2014
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-
-ester: a Y Tt
-
-Programme:MBA Tech (EXTC) Year:ll
-at MP ST TMRE ve
-Academic Year: 2013-14 Batch : 2012-13 Une BRARY Sy
->. _ ole, /,
-
-ns ven"
-
-Subject 7 Analog Integrated Circuits & Applications
-Marks: 100
-
-Date : 20/06/2014 Time : 2.00pm - 5.00pm
-Durations: 3 (hrs)
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the answer
-book, which is provided for their use.
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Assume relevant data whenever required.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-Ql) Attempt any four. 20
-a) What is virtual ground and virtual short in Op-amp
-b) Compare active and passive filters
-c) Draw with waveforms sample and hold circuit
-d) What is zero crossing detector
-e) What are the linear and nonlinear applications of Op-amp
-Q2) a) Draw the circuit diagram of temperature compensated log amplifier and 10
-
-obtain expression for output voltage.
-
-b) How to generate triangular wave using Op-amp 10
-
-Q3) a) , Draw circuit diagram of Schmitt trigger using op amp and explain its 10
-operation with input and output waveforms
-
-b) Draw and explain First order high pass Butterworth filter. Explain its 10
-operation with frequency response? Design HPF at cutoff frequency 1
-Khz with a passband gain of 5
---- page 2 ---
-Q4) a)
-
-b)
-
-Q5) a)
-
-Q6) a)
-
-b)
-
-Q7)
-a)
-b)
-)
-d)
-
-Design astable multivibrator circuit for following specifications using 555
-timer. Duty cycle = 50 %, fo = 3 KHz
-
-Explain operation of Op-amp as summing, scaling and averaging
-amplifier also derive expression for the output voltage in each case
-
-Explain IC 8038 as waveform generator
-List application of PLL. Explain any one in detail.
-
-Draw Monostable multivibrator circuit using IC 555 and explain its
-operation. Also obtain expression for the period of the output pulse.
-Draw and describe RC phase Oscillator using Op-amp and design RC
-
-phase Oscillator using Op-amp for the frequency 6k HZ.
-
-Write short notes
-
-IC 723
-
-Analog to digital converters
-Astable multivibrator using Op amp
-Precision rectifier
-
-x x
-
-10
-
-10
-
-10
-10
-
-10
-
-10
-
-20
-````
-
 ## 2012-13 · Final-Exam · Trim 5 · paper e654de57b1bc
 
 - Departments: Electronics and Telecommunication
@@ -3748,6 +3916,69 @@ b. Precision clipper and clamper.
 c. Trans-conductance amplifier.
 d. IC 78XX, and IC79XX.
 e. ~witchin~'inode regulators.   -
+````
+
+## 2012-13 · Re-Exam · Trim 5 · paper 4146def0fbbe
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ANALOG INTEGRATED CIRCUITS AND APPLICATION/ANALOG INTEGRATED CIRCUITS & APPLICATION BATCH 2010-11,2011-12 RE EXAM.pdf`
+- Printed on paper: exam date: 11/02/2013
+- Text: text (2 pages)
+
+````text
+I   SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management & Engineering
+Programme: MBA(Tech) - (EXTC)   Year:   I1 Trimester:
+Academic Year : 2012-2013
+Batch:   2010-11,2011-12
+Subject:   Analog Integrated Circuits &
+Applications
+Time:
+Date:   11/02/2013   Duration:
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+NB :
+1. Question No. 1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate h1.1 marks.
+Ql . Attempt Airy f a r cf the fcllowing :-
+A State the ideal op-amp characteristics?   05
+B Draw & Explain half wave precision rectifier?   05
+C Explain Positive series & Shunt clipper ?   05
+D Draw the circuit of log amplifier & explain?   05
+E Explain the working of inverting comparator with neat diagram?   0 5
+10
+Q2 A Explain with neat diagram V to I converter with grounded & floating load?
+B Draw the circuit of inverting Schmitt trigger & Explain it along with waveforms.   10
+10
+Q3 A Draw the functional diagram of IC 555 & explain the Operation of Trigger, Threshold
+I   & output pins also Draw the pin diagram.
+B Draw the hnctional diagram of monostable multivibrator using IC 555. Explain its   10
+operation with the help of waveforms. Derive the expression for on time of output
+response.
+10
+Q4 A Draw & Explain first order low pass filter & Discuss the various cases of high cut off
+.frequencies.
+B Design a wide band reject filter   llcHz with gain =2   10
+(I   10
+Q5 A Design a square wave generator using Op-Amp to produce a perfect square wave of
+50% duty cycle with an o/p frequency of 1 kHz. Assume the feedback factor tobe
+0.05.   p
+B Explain the working of RC phase shift Oscillator & Derive the expression for its   10
+frequency of oscillation.
+--- page 2 ---
+10
+Q6 A Draw & Explain functional block diagram of voltage regulator also draw the pin
+diagram of IC 78XX.
+10
+B Design an astable multivibrator with Fo = 12 KHz, Duty cycle = 70 %. How will you
+modify the circuit for duty cycle of 50%.
+Q7 A Draw the functional block diagram of IC-8038 & Explain its working   10
+B Explain the working of voltage controlled Oscillator IC-566 with neat diagram..   10
 ````
 
 ## 2012-13 · Re-Exam · Trim 5 · paper 90a2645b3f30
@@ -4033,67 +4264,119 @@ f) le Amplifier.
 2Q-
 ````
 
-## 2011-12 · Re-Exam · Trim 5 · paper 4146def0fbbe
+## 2011-12 · Exam not stated · Trim 5 · paper 90deed448408
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ANALOG INTEGRATED CIRCUITS AND APPLICATION/ANALOG INTEGRATED CIRCUITS & APPLICATION BATCH 2010-11,2011-12 RE EXAM.pdf`
-- Printed on paper: exam date: 11/02/2013
-- Text: text (2 pages)
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ANALOG INTEGRATED CIRCUITS AND APPLICATION/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS batch 2010-2011.pdf`
+- Printed on paper: exam date: 06/02/2012
+- Text: ocr (2 pages), mean OCR confidence 88.2
 
 ````text
-I   SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management & Engineering
-Programme: MBA(Tech) - (EXTC)   Year:   I1 Trimester:
-Academic Year : 2012-2013
-Batch:   2010-11,2011-12
-Subject:   Analog Integrated Circuits &
-Applications
-Time:
-Date:   11/02/2013   Duration:
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+, Programme: MBA.Tech- TELECOM Year: II Trimestey
+| Academic Year : 2011-2012
+Batch: 2010-2011
+
+Subject: ANALOG INTEGRATED CIRCUITS Mgq
+
+& APPLICATIONS Tifne:! D pm
+Date: 06/02/2012 D
 Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
-NB :
-1. Question No. 1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate h1.1 marks.
-Ql . Attempt Airy f a r cf the fcllowing :-
-A State the ideal op-amp characteristics?   05
-B Draw & Explain half wave precision rectifier?   05
-C Explain Positive series & Shunt clipper ?   05
-D Draw the circuit of log amplifier & explain?   05
-E Explain the working of inverting comparator with neat diagram?   0 5
-10
-Q2 A Explain with neat diagram V to I converter with grounded & floating load?
-B Draw the circuit of inverting Schmitt trigger & Explain it along with waveforms.   10
-10
-Q3 A Draw the functional diagram of IC 555 & explain the Operation of Trigger, Threshold
-I   & output pins also Draw the pin diagram.
-B Draw the hnctional diagram of monostable multivibrator using IC 555. Explain its   10
-operation with the help of waveforms. Derive the expression for on time of output
-response.
-10
-Q4 A Draw & Explain first order low pass filter & Discuss the various cases of high cut off
-.frequencies.
-B Design a wide band reject filter   llcHz with gain =2   10
-(I   10
-Q5 A Design a square wave generator using Op-Amp to produce a perfect square wave of
-50% duty cycle with an o/p frequency of 1 kHz. Assume the feedback factor tobe
-0.05.   p
-B Explain the working of RC phase shift Oscillator & Derive the expression for its   10
-frequency of oscillation.
+Instructions: Candidates should read carefully the instructions prints per and
+
+on the cover of the Answer book, which is provided for their use.
+NB:
+
+1. Question no. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets carry equal marks.
+
+Q1: Find output waveform or transfer function of the following circuits and also give name of
+the following circuits: Ro
+
+R\ Cj —
+Ve —V¥V 4 Vo. _?
+Vo Ve -
+
+(5)
+
+(5)
+
+5)
+
+en |
+Le, 555 4 Output Pr (5)
+6
+
+LAL Zz
+ov. aT
+
+Vo
 --- page 2 ---
-10
-Q6 A Draw & Explain functional block diagram of voltage regulator also draw the pin
-diagram of IC 78XX.
-10
-B Design an astable multivibrator with Fo = 12 KHz, Duty cycle = 70 %. How will you
-modify the circuit for duty cycle of 50%.
-Q7 A Draw the functional block diagram of IC-8038 & Explain its working   10
-B Explain the working of voltage controlled Oscillator IC-566 with neat diagram..   10
+Q2: Attempt all the following parts:
+a) Find Input impedance and gain of the following circuit:
+
+V a Ra
+t ~ W ==
+\ Vo
+Ie
+(10)
+b) Design Colpitt’s oscillator of oscillation frequency of 50kHz. Why Clapp’s oscillator is better
+than Colpitt’s oscillator. (10)
+
+Q3: Attempt all the following parts:
+
+a) Explain in detail , How effect of temperature on output can be compensated in Logarithmic
+
+amplifier? (10)
+
+b) Derive an expression for Oscillation frequency of OPAMP based Astable multivibrator.
+(10)
+
+Q4: Attempt all the following parts:
+
+a) Explain How IC 555 can work as Monostable Multivibrator? Draw Input and output
+
+waveforms also. (10)
+b) Design IC 555 Based Square wave generator for Oscillation frequency of 10Khz. How this
+circuit can be modified for variable duty cycle. (10)
+
+Q5: Attempt all the following parts:
+a)Define Capture range and lock range for PLL.
+Design circuit using PLL IC for the following specifications:
+
+fo= 25kH2 f= BoH2 Vee = —Vee= SV any
+
+b) For R-2R Ladder DAC, Prove that the output voltage=(5Vr/8) for three bit digital input 101.
+Draw necessary equivalent circuits, Vr is the reference voltage applied.
+
+(10)
+Q6: Attempt all the following parts:
+a)Design FSK Generator using XR2206 for following specification:
+For Input 1 Output frequency 1200Hz
+For Input 0 Output frequency 500Hz
+Name any other application of XR2206 IC also. C\9)
+b)Explain functional block diagram of Regulator IC 317 in details. Name its applications also.
+| (10)
+f /Q7: Write short notes on the following (Any Four) : C20)
+a) Precision Clipper b) All pass filter
+c) Balanced modulator IC d) Sample and hold circuit
+e) Schmitt trigger f) VCO IC 566
+
+1 nen
+
+TT
 ````
 
 ## 2010-11 · Exam not stated · Trim 5 · paper 38634f2be2b6
@@ -4211,287 +4494,4 @@ L/7e
 10
 
 20
-````
-
-## 2010-11 · Exam not stated · Trim 5 · paper 90deed448408
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/ANALOG INTEGRATED CIRCUITS AND APPLICATION/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS batch 2010-2011.pdf`
-- Printed on paper: exam date: 06/02/2012
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-, Programme: MBA.Tech- TELECOM Year: II Trimestey
-| Academic Year : 2011-2012
-Batch: 2010-2011
-
-Subject: ANALOG INTEGRATED CIRCUITS Mgq
-
-& APPLICATIONS Tifne:! D pm
-Date: 06/02/2012 D
-Re - Examination
-Instructions: Candidates should read carefully the instructions prints per and
-
-on the cover of the Answer book, which is provided for their use.
-NB:
-
-1. Question no. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets carry equal marks.
-
-Q1: Find output waveform or transfer function of the following circuits and also give name of
-the following circuits: Ro
-
-R\ Cj —
-Ve —V¥V 4 Vo. _?
-Vo Ve -
-
-(5)
-
-(5)
-
-5)
-
-en |
-Le, 555 4 Output Pr (5)
-6
-
-LAL Zz
-ov. aT
-
-Vo
---- page 2 ---
-Q2: Attempt all the following parts:
-a) Find Input impedance and gain of the following circuit:
-
-V a Ra
-t ~ W ==
-\ Vo
-Ie
-(10)
-b) Design Colpitt’s oscillator of oscillation frequency of 50kHz. Why Clapp’s oscillator is better
-than Colpitt’s oscillator. (10)
-
-Q3: Attempt all the following parts:
-
-a) Explain in detail , How effect of temperature on output can be compensated in Logarithmic
-
-amplifier? (10)
-
-b) Derive an expression for Oscillation frequency of OPAMP based Astable multivibrator.
-(10)
-
-Q4: Attempt all the following parts:
-
-a) Explain How IC 555 can work as Monostable Multivibrator? Draw Input and output
-
-waveforms also. (10)
-b) Design IC 555 Based Square wave generator for Oscillation frequency of 10Khz. How this
-circuit can be modified for variable duty cycle. (10)
-
-Q5: Attempt all the following parts:
-a)Define Capture range and lock range for PLL.
-Design circuit using PLL IC for the following specifications:
-
-fo= 25kH2 f= BoH2 Vee = —Vee= SV any
-
-b) For R-2R Ladder DAC, Prove that the output voltage=(5Vr/8) for three bit digital input 101.
-Draw necessary equivalent circuits, Vr is the reference voltage applied.
-
-(10)
-Q6: Attempt all the following parts:
-a)Design FSK Generator using XR2206 for following specification:
-For Input 1 Output frequency 1200Hz
-For Input 0 Output frequency 500Hz
-Name any other application of XR2206 IC also. C\9)
-b)Explain functional block diagram of Regulator IC 317 in details. Name its applications also.
-| (10)
-f /Q7: Write short notes on the following (Any Four) : C20)
-a) Precision Clipper b) All pass filter
-c) Balanced modulator IC d) Sample and hold circuit
-e) Schmitt trigger f) VCO IC 566
-
-1 nen
-
-TT
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper fab63c063de1
-
-- Departments: Electrical
-- Programmes: B TECH / ELECTRICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICAITON (ELECTRICAL), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (ELECTRICAL) Year: I Semester: III
-P
-Academic Year: 2017-2018
-Subject: Analog Integrated Circuits and Applications on aneme ~~
-“ Marks: 70 ~ (getETE aR
-Date: 30 November 2017 Time: 10.00 am t pm oN
-“ Durations: 3 (hrgy (- .. sy ys yp
-No. of Pages: $c ae
-Final-Examination y > ~e
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Ql Attempt all [14]
-
-a) Justify how Op-amp can’t be used in open loop configuration. [03]
-
-b) Define the terms: PSRR, Slew Rate [03]
-
-c) What is ideal differentiator? How difficulties of Basic differentiator can overcome? [04]
-
-d) Draw the functional block diagram of IC 723. [04]
-
-Q2 a) Give complete analysis of noninverting amplifier Op-amp circuit. Design it for voltage [07]
-
-gain 11.
-b) Explain Op amp as voltage to current converter. [07]
-ae Q3 a) Explain inverting Schmitt trigger with circuit diagram and waveforms. [07]
-
-b) What is difference between normal rectifier and precision rectifier? Explain half wave [07]
-pe precision rectifier.
---- page 2 ---
-Q4 a) Design Wein bridge Oscillator for the frequency of 2 KHZ. [07]
-
-b) Explain IC 555 timer as Monostable Multivibrator. [07]
-Q5 _ a) Explain the term filter. Describe the classification of filters... . [07]
-b) Design 2" order KRC high pass filter for cut off frequency fo=1 kHz with quality [07]
-
-factor (Q) of 5.
-Q6 a) Explain classification and advantages of IC voltage regulators [07]
-b) Explain audio power amplifier. [07]
-
-Q7 Write short note on
-a) Instrumentation amplifier [07]
-b) Phase locked loop [07]
-````
-
-## Year not stated · Re-Exam · Sem 4 · paper 6c3a32fd2894
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ANALOG INTEGRATED CIRCUITS & APPLICATIONS/ANALOG INTEGRATED CIRCUITS AND APPLICATIONS BATCH 14-15-16 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 12 May 2018
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (EXTC) Year: II Semester: IV
-
-Academic Year: 2017-2018
-RW PR
-Subject:Analog Integrated Circuits and Applications J§
-
-Marks:60 is cele *
-Date:12 May 2018 Time: 2.00 pm to 5.00 See ae
-
-Durations: 3 (hrs)
-
-No. of Pages : OZ
-
-Re-examination (2014-15 / 2015-16)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted. ;
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary,
-
-Question 1. (Attempt any 4) : 12=4X3
-a. Define an Operational amplifier.
-b. Describe LM 78XX ICs, and their utility.
-c. Draw circuit for a peak detector using OpAmp and explain its working.
-d.e Draw circuit for bi-stable circuit using IC555 and describe its working in short.
-e. What are wide-band pass filters? Explain with help of suitable implementation.
-
-Question 2.
-a. Describe features of an ideal operational amplifier and compare them with those of a practical
-
-OpAamp such as ua741. 06
-b. Design an OpAmp based circuit for realization of the following expression.
-
-Y(t) = 2.5Xi(t) - 1.5X2(t) 86
-
-Question 3.
-
-a. Draw a neat sketch of a basic integrator using an OpAmp and derive its output equation. Discuss its
-
-aaeeeiaal
-performance for low frequency inputs, and suggest improvement. 06
-al b. Draw aneat schematic for current to voltage converter and derive expression for its output. 06
-1 of 2
---- page 2 ---
-Question 4.
-a. Draw a neat sketch for a sample and hold circuit using OpAmp, and explain its working. 06
-b. Design a Schmitt’s trigger for an Upper Threshold Point voltage +4v, and a Lower Threshold Point
-
-voltage -4V. Assume a Vcc = -Vez =15 V, and Vsat= -Vsat = 13.5 V. Use standard components. 06
-
-Question 5.
-a. Draw a neat schematic for internal functional block diagram of IC 555. Configure this as a One-shot
-(mono-stable) describe its functioning. 06
-b. Design an astable multi-vibrator for an output frequency of 1 KHZ with duty cycle of 60%.
-Use IC 555. 06
-Question 6.
-a. Draw a neat schematic for a Sallen-Key II order low-pass filter, using OpAmp. Derive an expression
-for its transfer function and define ‘Q’, and ‘wo’ for the same. Describe limitations of this type of
-Filters. : 06
-b. Design a low pass I order Sallen-key filter for ‘fo’ of 10 khz, and a ‘Q’ of 1.5. 06
-Question 7. Write short notes(any3) 3X%4=12
-a. IC 723
-
-b. Precision Rectifiers
-oe * :
-c. Instrumentation amplifier
-
-d. Voltage follower
-
-2 of 2
 ````

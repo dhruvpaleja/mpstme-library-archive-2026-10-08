@@ -16,11 +16,11 @@ Also filed as: `FOUNDATIOINS OF ENTREPRENEURSHIP`, `FOUNDATION OF ENTREPRENEURSH
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Foundations of Entrepreneurship(702TS0C002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | B TECH / CSEDS-311 | Foundations of Entrepreneurship, Sem-III, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech CSE DS 7011 | QP_Foundations of Entrepreneurship(702TS0C002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Foundations of Entrepreneurship(702TS0C002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Foundations of Entrepreneurship(702TS0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CSE DS 7011 | QP_Foundations of Entrepreneurship(702TS0C002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Foundations of Entrepreneurship(702TS0C002)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | B TECH / CSEDS-311 | Fundamentals of Entrepreneurship, Sem-III, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE | Foundations of Entrepreneurship, Sem-III, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE | Fundamentals of Entrepeneurship, Sem-III, Final Exam A Y 2023-24.pdf |

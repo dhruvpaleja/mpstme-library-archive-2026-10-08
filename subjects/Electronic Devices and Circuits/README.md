@@ -1,6 +1,6 @@
 # Electronic Devices and Circuits
 
-**25** unique papers (28 copies across programmes) · 2014-15 to 2024-25 · 2 programmes · Sem 3
+**24** unique papers (27 copies across programmes) · 2014-15 to 2024-25 · 2 programmes · Sem 3
 
 Download only this subject, sorted by academic year:
 
@@ -22,7 +22,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2022-23 | — | Question paper | Sem 3 | B TECH / EXTC | Electronic Devices and Circuits, 2nd Year, Sem-III, Year 2022-23.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | Electronic Devices and Circuits, 2nd Year, Sem-III, Year 2021-22 & 2022-23, Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | Electronic Devices and Circuits, Sem-III, Year 2022-23, Special Re Exam.pdf |
-| 2022-23 | Re-Exam | Question paper | Sem 3 | B TECH / MECHATRONICS | Electronic Systems, Sem-III, Batch 2022-23, Re Exam.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 3 | B TECH / MECHATRONICS | ELECTRONIC DEVICES AND CIRCUITS FINAL EXAM 2018-19.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 3 | B TECH / MECHATRONICS | ELECTRONIC DEVICES AND CIRCUITS BATCH 16-17 17-18 18-19 RE EXAM.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 3 | B TECH / MECHATRONICS | ELECTRONIC DEVICES AND CIRCUITS BATCH 2018-19 RE EXAM.pdf |

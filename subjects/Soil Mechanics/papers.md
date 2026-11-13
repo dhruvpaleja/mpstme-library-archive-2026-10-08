@@ -277,168 +277,7 @@ cos determination of coefficient of consolidation.
 FIC 7) IC HOH
 ````
 
-## 2024-25 · Final + Re-Exam · Sem 4 · paper 39a4dd2931c9
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SOIL MECHANICS/Soil Mechanics Sem IV, Year 2024-25 Final Exam & 2022-23 and 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/05/2025
-- Text: ocr (4 pages), mean OCR confidence 83.3
-
-````text
-SVKM’S NMIMS ~
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-; Academic Year: 2024-2025
-Program: B Tech — , ; Year: I Semester: IV
-
-Stream: Civil Engineering .
-
-Subject: Soil Mechanics ; ; Time: 03 hrs. (10:00a.m.to 01 p.m.)
-Date:02/05/2025 ‘No. of Pages: 3
-
-Marks: 100 ,
-
-Final Examination/Re-Examination (Re-exam year 2022-23, 2023-24)
-C202 4-25
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-- 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: , [20]
-
-CO- 1; a, Explain the concept of ‘Glacial and Colluvial Deposits of Soil’ and discuss its
-
-— different types with examples for each.
-
-CO- 3; b. Discuss the applications of ‘Effective Stress.’
-
-SO- 7; .
-
-BL- 5
-
-CO- 4; c. Discuss the effect of compaction on soil properties.
-
-SO- 4; : ‘
-
-BL-5
-
-COo- 1; d. Explain the objectives of soil exploration.
-
-SO- 4; :
-
-BL-2 :
-
-Q2 a. Derive the following functional relationships: [10]
-cecak OP=re-A-m.r% (ii) Yy = Geet
-
-BL- 4 ; ;
-Q2 b. Explain hydrometer method of sedimentation analysis with a neat sketch of [10]
-CO-1; apparatus.
-SO-4; |
-
-BL-2
-
-Page 1 of 3
---- page 2 ---
-Q3 a Following are the results of sieve analysis obtained by sieving 500 g of soil sample. | [10]
-
-CO-2;. Draw the particle size distribution curve and determine the type of soil using IS
-: os soil classification system. Use the ‘A’ — line chart in Figure 1, if required. It was
-observed that, for the given soil L.L. = 66 % and’P.L. = 25 %
-A Mass
-S.N. ee Retained
-ize
-_
-1 100 0
-2) 75 0
-3 20 0
-4 10 0
-5 4.75 0
-6 2 0
-7 1 0
-8 0.6 8
-9 0.425 | 25
-10 0.3 | 76
-11 0.212 54
-12 0.15 86
-13 0.075 ZS
-1S : 1498 - 1970
-60
-so
-ra CH LAS 7Xa-Line
-240 weso GY
-. “>
-= a0 35 an
-WwW, =
-ES aS: Bs
-4 20 L7 -
-a MH of OH
-19 veal Et ri
-2 CID SCLEABOML [MT or 0
-0 ML orotl | E
-0 ww 20 30 40 50 & 76 80 30 We
-LIQUID LIMIT, wy
-Fic. 1 Plasticity CHART
-Q3 1b. A layered soil system consisting of clay layer 3m thick underlain-by sand layer [10]
-CO-3; : 2m thick is acted upon by a uniformly distributed surcharge load 15 kN/m?. The
-SO-1; groundwater table is at 2m depth below G.L. and there is a capillary zone of lm
-
-BL-4 height above the groundwater table.. Analyze Total, Neutral and Effective stresses
-
-Page 2 of 3
---- page 3 ---
-i : and draw the pressure distribution diagrams for these stresses. Take for clay yp =
-
-18 kN/m? and for sahd ysa= 20 KN/m?,
-
-Q4 mae. A soil specimen has water content of 10 % and a wet unit weight of 20 kN/ m*. If [10]
-CO-1; the specific gravity of soil solids is 2.7, determine the dry unit weight, void ratio,
-SO-1; j . . ’
-ee porosity, and degree of saturation, and degree of saturation. Take ‘Yw = 10 KN/m?.
-Q4 b. Discuss the procedure of Shrinkage Limit Test and explain how you obtain the [10]
-CO-1; liquid limit from the graph, Name the types of tools used for the tests.
-SO- 4;
-“BL-5 ;
-Q5 a. Explain the application of ‘Textural Classification of Soil.’ Also, explain how to [10]
-CO-2; read the chart with a typical example.
-SO-7; . : :
-BL-2 ; .
-Q5 b. Discuss the procedure of ‘Direct Shear. Test’ with a sketch of Test Set-Up naming [10]
-CO-4; allthe components. ;
-SO-4;
-BL-5
-Q6 a. Explain the definitions of the following by writing the expressions and explaining [10]
-CO-1; the meanings of the.symbols used in expressions:
-ie (1) Water Content, (i) Blk Unit Weight, (ii) Specific Gravity, (iv) Density of
-: Soil Solids, (v) Air Content ;
-Q6 , b. Two clay specimens ‘A’ and ‘B’ of thickness 2 cm and 3 cm have equilibrium ‘| [10]
-CO-4; void ratios 0.68 and 0.72 respectively, when the pressure was increased to 400
-poe KN/ m’. Estimate the ratio of coefficient of permeability of the two specimens. _
-The time required by specimen ‘A’ to reach 40 % degree of consolidation is one
-fourth of that required by specimen ‘B’ for the same degree of consolidation.
-Q7 a. Discuss the procedure of ‘Tri-axial Test” with a sketch of Test Set-Up naming all [10]
-CO-4; the components.
-SO-4; .
-BL-5 ;
-Q7 (|b Explain the procedure of ‘Laboratory Consolidation Test’ by drawing a sketch of |. [10]
-CO-4; test set-up showing all the components.
-SO-1; '
-BL-2
-
-Page 3 of 3
---- page 4 ---
-
-````
-
-## 2024-25 · Re-Exam · Sem 4 · paper fd9d658f24fc
+## 2025-26 · Re-Exam · Sem 4 · paper fd9d658f24fc
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
@@ -634,6 +473,167 @@ BL-2
 FERRER RK OR RAK KR REE
 ````
 
+## 2024-25 · Final + Re-Exam · Sem 4 · paper 39a4dd2931c9
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SOIL MECHANICS/Soil Mechanics Sem IV, Year 2024-25 Final Exam & 2022-23 and 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/05/2025
+- Text: ocr (4 pages), mean OCR confidence 83.3
+
+````text
+SVKM’S NMIMS ~
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+; Academic Year: 2024-2025
+Program: B Tech — , ; Year: I Semester: IV
+
+Stream: Civil Engineering .
+
+Subject: Soil Mechanics ; ; Time: 03 hrs. (10:00a.m.to 01 p.m.)
+Date:02/05/2025 ‘No. of Pages: 3
+
+Marks: 100 ,
+
+Final Examination/Re-Examination (Re-exam year 2022-23, 2023-24)
+C202 4-25
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+- 6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: , [20]
+
+CO- 1; a, Explain the concept of ‘Glacial and Colluvial Deposits of Soil’ and discuss its
+
+— different types with examples for each.
+
+CO- 3; b. Discuss the applications of ‘Effective Stress.’
+
+SO- 7; .
+
+BL- 5
+
+CO- 4; c. Discuss the effect of compaction on soil properties.
+
+SO- 4; : ‘
+
+BL-5
+
+COo- 1; d. Explain the objectives of soil exploration.
+
+SO- 4; :
+
+BL-2 :
+
+Q2 a. Derive the following functional relationships: [10]
+cecak OP=re-A-m.r% (ii) Yy = Geet
+
+BL- 4 ; ;
+Q2 b. Explain hydrometer method of sedimentation analysis with a neat sketch of [10]
+CO-1; apparatus.
+SO-4; |
+
+BL-2
+
+Page 1 of 3
+--- page 2 ---
+Q3 a Following are the results of sieve analysis obtained by sieving 500 g of soil sample. | [10]
+
+CO-2;. Draw the particle size distribution curve and determine the type of soil using IS
+: os soil classification system. Use the ‘A’ — line chart in Figure 1, if required. It was
+observed that, for the given soil L.L. = 66 % and’P.L. = 25 %
+A Mass
+S.N. ee Retained
+ize
+_
+1 100 0
+2) 75 0
+3 20 0
+4 10 0
+5 4.75 0
+6 2 0
+7 1 0
+8 0.6 8
+9 0.425 | 25
+10 0.3 | 76
+11 0.212 54
+12 0.15 86
+13 0.075 ZS
+1S : 1498 - 1970
+60
+so
+ra CH LAS 7Xa-Line
+240 weso GY
+. “>
+= a0 35 an
+WwW, =
+ES aS: Bs
+4 20 L7 -
+a MH of OH
+19 veal Et ri
+2 CID SCLEABOML [MT or 0
+0 ML orotl | E
+0 ww 20 30 40 50 & 76 80 30 We
+LIQUID LIMIT, wy
+Fic. 1 Plasticity CHART
+Q3 1b. A layered soil system consisting of clay layer 3m thick underlain-by sand layer [10]
+CO-3; : 2m thick is acted upon by a uniformly distributed surcharge load 15 kN/m?. The
+SO-1; groundwater table is at 2m depth below G.L. and there is a capillary zone of lm
+
+BL-4 height above the groundwater table.. Analyze Total, Neutral and Effective stresses
+
+Page 2 of 3
+--- page 3 ---
+i : and draw the pressure distribution diagrams for these stresses. Take for clay yp =
+
+18 kN/m? and for sahd ysa= 20 KN/m?,
+
+Q4 mae. A soil specimen has water content of 10 % and a wet unit weight of 20 kN/ m*. If [10]
+CO-1; the specific gravity of soil solids is 2.7, determine the dry unit weight, void ratio,
+SO-1; j . . ’
+ee porosity, and degree of saturation, and degree of saturation. Take ‘Yw = 10 KN/m?.
+Q4 b. Discuss the procedure of Shrinkage Limit Test and explain how you obtain the [10]
+CO-1; liquid limit from the graph, Name the types of tools used for the tests.
+SO- 4;
+“BL-5 ;
+Q5 a. Explain the application of ‘Textural Classification of Soil.’ Also, explain how to [10]
+CO-2; read the chart with a typical example.
+SO-7; . : :
+BL-2 ; .
+Q5 b. Discuss the procedure of ‘Direct Shear. Test’ with a sketch of Test Set-Up naming [10]
+CO-4; allthe components. ;
+SO-4;
+BL-5
+Q6 a. Explain the definitions of the following by writing the expressions and explaining [10]
+CO-1; the meanings of the.symbols used in expressions:
+ie (1) Water Content, (i) Blk Unit Weight, (ii) Specific Gravity, (iv) Density of
+: Soil Solids, (v) Air Content ;
+Q6 , b. Two clay specimens ‘A’ and ‘B’ of thickness 2 cm and 3 cm have equilibrium ‘| [10]
+CO-4; void ratios 0.68 and 0.72 respectively, when the pressure was increased to 400
+poe KN/ m’. Estimate the ratio of coefficient of permeability of the two specimens. _
+The time required by specimen ‘A’ to reach 40 % degree of consolidation is one
+fourth of that required by specimen ‘B’ for the same degree of consolidation.
+Q7 a. Discuss the procedure of ‘Tri-axial Test” with a sketch of Test Set-Up naming all [10]
+CO-4; the components.
+SO-4; .
+BL-5 ;
+Q7 (|b Explain the procedure of ‘Laboratory Consolidation Test’ by drawing a sketch of |. [10]
+CO-4; test set-up showing all the components.
+SO-1; '
+BL-2
+
+Page 3 of 3
+--- page 4 ---
+
+````
+
 ## 2023-24 · Final + Re-Exam · Sem 4 · paper 6f7fb43a2eda
 
 - Departments: Civil
@@ -641,6 +641,7 @@ FERRER RK OR RAK KR REE
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SOIL MECHANICS/Soil Mechanics Batch 2023-24 Final Batch 2021-22,2022-23 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02/05/2024
 - Text: ocr (3 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS j
@@ -726,7 +727,6 @@ z 40 ™=50 ay
 5 30 ae tye
 < a F
 —_
-a : cL MH of OH
 iv A
 2 PID BSCLAGOML | MI or 0
 0 ML or Ol|
@@ -786,6 +786,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SOIL MECHANICS/Soil Mechanics Batch 2021-22,2022-23,2023-24 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 83.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -871,7 +872,6 @@ ra
 re cI .
 20
 zt i
-a i cL]. yeaa MH or OH
 16 : .
 Z Gee Saks BOM. MI or 0
 0 ML or OL

@@ -14,43 +14,43 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech AI 7051 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech DS 7052 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Risk Management(703TF0E010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech AI 7051 | ANS_Financial Risk Management(703TF0E010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Risk Management(703TF0E010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_Financial Risk Management(703TF0E010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Financial Risk Management(703TF0E010)_2025-2026.pdf |
 | 2025-26 | Final-Exam, Re-Exam | Dataset | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | data_set_Financial Risk Management(703TF0E010)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech AI 7051 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech DS 7052 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Risk Management(703TF0E010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_Financial Risk Management(703TF0E010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | MBA TECH | Financial Risk Management, Sem-X, Batch 2023-24, 2024-25 & 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | MBATech DS 7052 | QP_Financial Risk Management(703TF0E010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Risk Management(703TF0E010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_Financial Risk Management(703TF0E010)_2025-2026.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Final-Exam, Re-Exam | Dataset | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045, MBATech (ELECTRONICS & TELECOMMUNICATIO, MBATech (MECHANICAL ENGINEERING) - 7046, MBATech Computer 7047, MBATech IT 7041 | data_set_Financial Risk Management(703TF0E010)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Financial Risk Management(703TF0E010)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Financial Risk Management(703TF0E010)_2024-2025.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 10 | MBA TECH | Financial Risk Management , Re-exam 2022-23,2023-24.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 10 | MBA TECH | Fianancial Risk Management , Sem X,2021-22,Final.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 10 | MBA TECH | Financial Risk Management, Re-exam 2021-2022.pdf |

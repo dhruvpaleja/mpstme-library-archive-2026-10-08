@@ -14,12 +14,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | ANS_Programming for Analytics(703DB0C048)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Programming for Analytics 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | QP_Programming for Analytics(703DB0C048)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | ANS_Programming for Analytics(703DB0C048)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | ANS_Programming for Analytics(703DB0C048)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / I T, B TECH / IT, MBA TECH / I T | Programming for Analytics Batch 2022-23,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | QP_Programming for Analytics(703DB0C048)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | ANS_Programming for Analytics(703DB0C048)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / I T | Programming for Analytics, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2024-25 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Programming for Analytics Batch 2024-25 Final.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / I T, MBA TECH / I T | Programming for Analytics, Final & Re Exam 2022-23.pdf |

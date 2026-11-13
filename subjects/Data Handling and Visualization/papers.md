@@ -979,6 +979,126 @@ BL-3 ‘Top Names by Gender’ with a bold font of size 36 in red color to the
 dashboard.
 ````
 
+## 2022-23 · Exam not stated · Sem 4 · paper d866d3746a8d
+
+- Departments: Data Science
+- Programmes: MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/DATA SCIENCE/Semester 4/Data Handling and Visualization/Data handling and Visualization_d866d3746a.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 90.1
+
+````text
+IR RADY
+LIBRARY
+
+SVKM’S NMIMS "
+
+Ne
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING *
+Academic Year: 2022-2023 =
+
+Program: MBA.Tech Year: [IP4 Semester: IV
+Stream: Data Science
+
+Subject: Data Handling and Visualization Time: 03 hrs. (Jozegam to 1800 paw)
+Date:_ 19 / 04 / 23 No. of Pages: 03
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1_is compulsory.
+@ 2) Out of remaining questions, attempt any _4 questions.
+3) In all 5 questions to be attempted. .
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Perform and answer the following question: (20)
+CO-1;S0-1, | @ What do you understand by Data literacy Skills and how it is benefitted for any [5M]
+BL-2 business?
+b. Read and interpret the following MAP and Identify the second highest sale area.
+(Image is also shared in Dataset1 folder as QIBMAP)
+Sales by City _
+
+CO-2; SO-2;
+BL-2
+--- page 2 ---
+c. Dataset: Products.xlsx
+
+es 8053, Use products dataset and design the bar chart for analyzing Product category Vs. | 5M]
+Sales visual with and without having Null values using filters.
+d. Dataset: financials.xlsx
+— Using financials dataset write a DAX measure which shows the average sales | 5M]
+where segment is government.
+Dataset: Smartphones
+Perform the following Operations using the “Smartphones” dataset: (4M each)
+a. Create a separate column using Power query which contains brand name
+b. Remove the anomalies from Price column
+Q2
+Co-1.2: S06 c. Remove the Null values from Sports data set [20M]
+BL-3 d. Perform the split functionality on Sim Attribute
+e. Show the Visualization Page using appropriate charts, create a card which
+displays the average sales of the particular operating system and also apply
+slicer on Operating system.
+Dataset: Sample_superstore Folder
+For the sample_superstore dataset, create a sample dash board which shows the
+following Operations/visuals: (4M each)
+a. Create relationship amongst tables to design the Schema.
+Q3 b. Create separate slicer for Country, Year and Month name.
+C0-3: $03 c. Dashboard also contains three cards for Total revenue, gross profit and [20M]
+BL6 number of units respectively.
+d. Select the appropriate chart to show visual which will analyze product
+name versus Revenue generated.
+e. Create a chart to visualize quarter versus Total revenue.
+A Create a date dimension table using DAX (“Date” column Should start from
+Q4.A 01/01/2019 and end with 31/12/2023) and contains the following columns
+SOS respectively:
+BL4 e Year, Month, Day and Quarter [10M]
+e Create a separate column for the following operation:
+Shipment_date = Date (assume this as order date) +3 days.
+B Dataset: Merge _Columns.xIsx
+Q4.B Person table contains first and last name, department table contains department and
+0-12: $0-6; position of each employee. Find Department & Position for each employee present | [joy
+Bil in “Person” Table using merge query on Department Table on “Merge
+_Columns.xlsx” dataset.
+Dataset: Drill Through.xls
+Q5 Use the “Drill Through” dataset for performing the Drill Up, Drill Down and Drill
+CO-2; $O-3; Through Operations. Create a stacked column chart for “Store” vs “Price” and | [20M]
+a create the hierarchy for “Products” under store. Also create a store wise Drill
+Through report. For drill through, analyze using your own assumption
+Dataset: Financials.xlsx
+Design a star schema from a raw data table. You need to split raw data table into
+ee three tables [20M]
+CO-2,3; SOS- :
+
+BL-6 ; 1. Financials (Fact Table)
+2. Products (Dimension Table)
+
+©
+--- page 3 ---
+3. Country (Dimension Table)
+Now, design the star schema for these three tables clearly identifying the fact table
+and dimension tables and their primary keys & foreign keys.
+Create a visualization chart for performing analysis of your choice
+
+Q7A A
+
+Coats0%: What are the different types of color palettes? Also explain the basic rules of [om]
+BL-1. , selecting colors for Data visualization.
+
+Q7a B Dataset: Timeline
+
+CO-2; SO-3; Create a Time series visualization of your own choice for the given dataset and | [0M]
+BL-3
+
+discuss your interpretations.
+````
+
 ## 2022-23 · Final-Exam · Sem 4 · paper 676baa8bfb7e
 
 - Departments: Data Science
@@ -1190,124 +1310,4 @@ You have been given three tables which constitute a full relational database (se
 Tables in the excel sheet). Using this table address the questions
 
 Page 5o0f5
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper d866d3746a8d
-
-- Departments: Data Science
-- Programmes: MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/DATA SCIENCE/Semester 4/Data Handling and Visualization/Data handling and Visualization_d866d3746a.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 90.1
-
-````text
-IR RADY
-LIBRARY
-
-SVKM’S NMIMS "
-
-Ne
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING *
-Academic Year: 2022-2023 =
-
-Program: MBA.Tech Year: [IP4 Semester: IV
-Stream: Data Science
-
-Subject: Data Handling and Visualization Time: 03 hrs. (Jozegam to 1800 paw)
-Date:_ 19 / 04 / 23 No. of Pages: 03
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1_is compulsory.
-@ 2) Out of remaining questions, attempt any _4 questions.
-3) In all 5 questions to be attempted. .
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Perform and answer the following question: (20)
-CO-1;S0-1, | @ What do you understand by Data literacy Skills and how it is benefitted for any [5M]
-BL-2 business?
-b. Read and interpret the following MAP and Identify the second highest sale area.
-(Image is also shared in Dataset1 folder as QIBMAP)
-Sales by City _
-
-CO-2; SO-2;
-BL-2
---- page 2 ---
-c. Dataset: Products.xlsx
-
-es 8053, Use products dataset and design the bar chart for analyzing Product category Vs. | 5M]
-Sales visual with and without having Null values using filters.
-d. Dataset: financials.xlsx
-— Using financials dataset write a DAX measure which shows the average sales | 5M]
-where segment is government.
-Dataset: Smartphones
-Perform the following Operations using the “Smartphones” dataset: (4M each)
-a. Create a separate column using Power query which contains brand name
-b. Remove the anomalies from Price column
-Q2
-Co-1.2: S06 c. Remove the Null values from Sports data set [20M]
-BL-3 d. Perform the split functionality on Sim Attribute
-e. Show the Visualization Page using appropriate charts, create a card which
-displays the average sales of the particular operating system and also apply
-slicer on Operating system.
-Dataset: Sample_superstore Folder
-For the sample_superstore dataset, create a sample dash board which shows the
-following Operations/visuals: (4M each)
-a. Create relationship amongst tables to design the Schema.
-Q3 b. Create separate slicer for Country, Year and Month name.
-C0-3: $03 c. Dashboard also contains three cards for Total revenue, gross profit and [20M]
-BL6 number of units respectively.
-d. Select the appropriate chart to show visual which will analyze product
-name versus Revenue generated.
-e. Create a chart to visualize quarter versus Total revenue.
-A Create a date dimension table using DAX (“Date” column Should start from
-Q4.A 01/01/2019 and end with 31/12/2023) and contains the following columns
-SOS respectively:
-BL4 e Year, Month, Day and Quarter [10M]
-e Create a separate column for the following operation:
-Shipment_date = Date (assume this as order date) +3 days.
-B Dataset: Merge _Columns.xIsx
-Q4.B Person table contains first and last name, department table contains department and
-0-12: $0-6; position of each employee. Find Department & Position for each employee present | [joy
-Bil in “Person” Table using merge query on Department Table on “Merge
-_Columns.xlsx” dataset.
-Dataset: Drill Through.xls
-Q5 Use the “Drill Through” dataset for performing the Drill Up, Drill Down and Drill
-CO-2; $O-3; Through Operations. Create a stacked column chart for “Store” vs “Price” and | [20M]
-a create the hierarchy for “Products” under store. Also create a store wise Drill
-Through report. For drill through, analyze using your own assumption
-Dataset: Financials.xlsx
-Design a star schema from a raw data table. You need to split raw data table into
-ee three tables [20M]
-CO-2,3; SOS- :
-
-BL-6 ; 1. Financials (Fact Table)
-2. Products (Dimension Table)
-
-©
---- page 3 ---
-3. Country (Dimension Table)
-Now, design the star schema for these three tables clearly identifying the fact table
-and dimension tables and their primary keys & foreign keys.
-Create a visualization chart for performing analysis of your choice
-
-Q7A A
-
-Coats0%: What are the different types of color palettes? Also explain the basic rules of [om]
-BL-1. , selecting colors for Data visualization.
-
-Q7a B Dataset: Timeline
-
-CO-2; SO-3; Create a Time series visualization of your own choice for the given dataset and | [0M]
-BL-3
-
-discuss your interpretations.
 ````

@@ -747,6 +747,139 @@ CO-2; b Explain Collection Framework with a neat diagram. Explain any five [10]
 BL-2 "| methods of TreeSet Collection in detail.
 ````
 
+## 2023-24 · Re-Exam · Sem 6 · paper 6853ab7ceed5
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_06/JAVA PROGRAMMING/Java Programming Batch 2022-23 Re Exam0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 22 /04 / 2024
+- Text: ocr (3 pages), mean OCR confidence 66.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2023-2024 ,
+
+Program: B.Tech Integrated Year: III Semester: VI
+
+Stream: Computer Engineering
+
+Subject: Java Programming Time: 3 hrs (00pm to 5:00 pm).
+
+Date: 22 /04 / 2024 - No. of Pages:
+Marks: 100
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. ;
+
+8) Write output for all programming questions.
+
+Ql Answer briefly: [20]
+
+CO-1;
+SO-1,5,6,7; | a. | Explain JDK and JVM in detail [5]
+BL-2
+
+CO-2 ;
+SO-1,5,6,7; | b. | Discuss what are Interfaces with an example code. [5]
+BL-2,4
+
+Develop a Java Program to perform following String operations. Take two
+string inputs from the user. Eg: string 1: Java Programming !!! and String
+
+(iP 2: Java. Perform the following string operations on it.
+CO-3: 1. Find the length of string 1 and string 2. : ; ;
+SO-1 5 67: Ic. 2. Determine if string 2 occurs in string 1. If string 2 occurs in string 1, then [5]
+BL-6 eee extract string 2 from string 1.
+3. replace string 2 by “HTML” in string 1.
+4. compare string | and string 2 using the method that returns integer value
+after comparing.
+5. Convert string] to UpperCase and string 2 to Lowercase
+CO-4 ;
+SO-1,5,6,7; | d. | Differentiate between Hashset, Linked Hashset and Treeset [5]
+BL-2,6
+Coe: Explain Method overloading. Write a Java Program to demonstrate
+
+a. | Method Overloading by overloading the method for calculating square and [10]
+
+BOAT 7S: cube of a user entered number.
+
+BL-6
+--- page 2 ---
+i
+
+CO-3; Write a program to calculate the total number of vowels, consonants, digits
+SO-1,5,6,7; |b. | and blank spaces in the String. The string should be taken input from the | [10]
+BL-6 user.
+
+Q3
+CO-3; a Explain how to create user defined exceptions in java with the help of a [10]
+SO-1,5,6,7; “| program. -
+BL-2
+Develop a Java Program to create a class employee with employee id and
+employee name as data members. Derive a class manager from employee
+CO-1: class. Manager will have designation and number of projects assigned as
+SO-1 5 6.7: |b data members. Derive a class intern from employee class with data members [10]
+BL-6 ~_ * | number of days worked. The intern earns 1000 Rs per day. Write a method
+to calcuiate salary of intern. Write a main method to create objects and to
+display appropriate details of manager and intern. Use appropriate
+constructors.
+ea 3. 1. Implement a Java Program to accept a float number from command line
+SO-1 5 6 7. | and display the integer part using type casting operator. [10]
+BL-2, 6 ~~ 2. Explain Checked and Unchecked Exceptions in detail.
+CO-4;
+SO-1,5,6,7; | b. | Elaborate on Java FX Architecture in detail. [10]
+BL-2
+Q5
+CO-1; a Explain what will happen when a data member, class and method is [10]
+SO-1,5,6,7; | "| declared as final. Support your answer with appropriate java codes.
+BL-2,6
+CO-4;
+SO-1,5,6,7; | b. | Discuss Generic Methods and Generic Classes with an example. [10]
+BL-2
+Q6 ys A ; : 43
+CO-2: Write Java Codes to create a package and import it in another program.
+SO-1 5 67. |* Call the method in the package from the program in which it is imported. [10]
+BL-6 oe Also specify the steps to get the output.
+CO-4;
+SO-1,5,6,7; | b. | Explain Java FX Events and Phases of Event handling in Java FX. [10]
+BL-2
+Q7
+CO-4; Explain Vector Class in detail with its methods. Illustrate the same with a 10
+SO-1,5,6,7; |“ | Java Code. [10]
+BL-2
+1. Write a program to perform division of two numbers accepted from the
+CO-71: user to demonstrate ArithmeticException and NumberFormatException
+SO-1 5 6 7 |b. using try-catch-finally block. ; ; [10]
+BL-2.6 ~~ 2. Write a program to display the following pattern using for loop.
+
+(P.T.O for the pattern)
+--- page 3 ---
+Pa
+aR
+RK
+KKK KOK
+ck RRO
+RK
+*
+````
+
 ## 2023-24 · Re-Exam · Sem 1 · paper 72ef8aec5922
 
 - Departments: Computer Applications (MCA)
@@ -1172,139 +1305,6 @@ ae 6. Demonstrate use of bounded types with an example. . [10]
 m2 /2
 ````
 
-## 2022-23 · Re-Exam · Sem 6 · paper 6853ab7ceed5
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_06/JAVA PROGRAMMING/Java Programming Batch 2022-23 Re Exam0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 22 /04 / 2024
-- Text: ocr (3 pages), mean OCR confidence 66.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2023-2024 ,
-
-Program: B.Tech Integrated Year: III Semester: VI
-
-Stream: Computer Engineering
-
-Subject: Java Programming Time: 3 hrs (00pm to 5:00 pm).
-
-Date: 22 /04 / 2024 - No. of Pages:
-Marks: 100
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary. ;
-
-8) Write output for all programming questions.
-
-Ql Answer briefly: [20]
-
-CO-1;
-SO-1,5,6,7; | a. | Explain JDK and JVM in detail [5]
-BL-2
-
-CO-2 ;
-SO-1,5,6,7; | b. | Discuss what are Interfaces with an example code. [5]
-BL-2,4
-
-Develop a Java Program to perform following String operations. Take two
-string inputs from the user. Eg: string 1: Java Programming !!! and String
-
-(iP 2: Java. Perform the following string operations on it.
-CO-3: 1. Find the length of string 1 and string 2. : ; ;
-SO-1 5 67: Ic. 2. Determine if string 2 occurs in string 1. If string 2 occurs in string 1, then [5]
-BL-6 eee extract string 2 from string 1.
-3. replace string 2 by “HTML” in string 1.
-4. compare string | and string 2 using the method that returns integer value
-after comparing.
-5. Convert string] to UpperCase and string 2 to Lowercase
-CO-4 ;
-SO-1,5,6,7; | d. | Differentiate between Hashset, Linked Hashset and Treeset [5]
-BL-2,6
-Coe: Explain Method overloading. Write a Java Program to demonstrate
-
-a. | Method Overloading by overloading the method for calculating square and [10]
-
-BOAT 7S: cube of a user entered number.
-
-BL-6
---- page 2 ---
-i
-
-CO-3; Write a program to calculate the total number of vowels, consonants, digits
-SO-1,5,6,7; |b. | and blank spaces in the String. The string should be taken input from the | [10]
-BL-6 user.
-
-Q3
-CO-3; a Explain how to create user defined exceptions in java with the help of a [10]
-SO-1,5,6,7; “| program. -
-BL-2
-Develop a Java Program to create a class employee with employee id and
-employee name as data members. Derive a class manager from employee
-CO-1: class. Manager will have designation and number of projects assigned as
-SO-1 5 6.7: |b data members. Derive a class intern from employee class with data members [10]
-BL-6 ~_ * | number of days worked. The intern earns 1000 Rs per day. Write a method
-to calcuiate salary of intern. Write a main method to create objects and to
-display appropriate details of manager and intern. Use appropriate
-constructors.
-ea 3. 1. Implement a Java Program to accept a float number from command line
-SO-1 5 6 7. | and display the integer part using type casting operator. [10]
-BL-2, 6 ~~ 2. Explain Checked and Unchecked Exceptions in detail.
-CO-4;
-SO-1,5,6,7; | b. | Elaborate on Java FX Architecture in detail. [10]
-BL-2
-Q5
-CO-1; a Explain what will happen when a data member, class and method is [10]
-SO-1,5,6,7; | "| declared as final. Support your answer with appropriate java codes.
-BL-2,6
-CO-4;
-SO-1,5,6,7; | b. | Discuss Generic Methods and Generic Classes with an example. [10]
-BL-2
-Q6 ys A ; : 43
-CO-2: Write Java Codes to create a package and import it in another program.
-SO-1 5 67. |* Call the method in the package from the program in which it is imported. [10]
-BL-6 oe Also specify the steps to get the output.
-CO-4;
-SO-1,5,6,7; | b. | Explain Java FX Events and Phases of Event handling in Java FX. [10]
-BL-2
-Q7
-CO-4; Explain Vector Class in detail with its methods. Illustrate the same with a 10
-SO-1,5,6,7; |“ | Java Code. [10]
-BL-2
-1. Write a program to perform division of two numbers accepted from the
-CO-71: user to demonstrate ArithmeticException and NumberFormatException
-SO-1 5 6 7 |b. using try-catch-finally block. ; ; [10]
-BL-2.6 ~~ 2. Write a program to display the following pattern using for loop.
-
-(P.T.O for the pattern)
---- page 3 ---
-Pa
-aR
-RK
-KKK KOK
-ck RRO
-RK
-*
-````
-
 ## 2022-23 · Re-Exam · Sem 6 · paper 66a87fd4e1c4
 
 - Departments: Computer Engineering
@@ -1537,6 +1537,107 @@ Q7 a.
 CO- 3 Explain the steps for querying the database using JDBC. [10]
 BL- 2 : ;
 ae . Demonstrate use of Iterator interface using an example. [10]
+````
+
+## 2022-23 · Re-Exam · Sem 2 · paper 750281d4fbe6
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/JAVA PROGRAMMING/Java Programming Batch 2021-22 Re Exam0001_750281d4fb.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023 Yes :
+Program: MCA Year! I Seméster: IL.
+\ a }
+
+Subject: Java Programming Tims NN 3 hrs (fo: ooamto-d: 00 pry)
+Date:_O4 /05/2023 . No. of Rages: OZ
+
+Marks: 100 =
+Re-Examination (Batch 2021-2022)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+a Answer briefly:
+CO-1 BL-2. | 4 Explain concept of command line arguments with an example. [5]
+b. Implement a class factorial with an integer data member for which factorial
+CO- LBL-3 is to be calculated. The method inside class must calculate the factorial and [5]
+display it. Write a main method to create an object of factorial class and to
+display appropriate information.
+_—~ |CO-1BL2 | ¢- Explain the concept of class and objects with an example. [5]
+co-2 BL-2 | & Discuss the difference between String and StringBuffer class with an [5]
+example.
+m 2 Demonstrate how to create custom exception using an example. [10]
+CO-2 BL-3
+b. Design a class sphere with double x, double y and double z as coordinates
+
+and radius of the sphere. Add suitable parameterized constructor. The
+primary responsibilities of this class are finding the surface area and the
+
+CO- 1 BL- 6 volume using the formulae 4*pi*radius*radius and | [10]
+(4/3)*pi*radius*radius*radius respectively. Design another class
+heavysphere that extends sphere. The additional attribute of this
+heavysphere class is mass. This class also has additional responsibility of
+
+Ol
+--- page 2 ---
+computing density using the formulae: density = mass/volume. Write a main
+function to display the complete information.
+
+Q3 a. Explain importance of packages in java. Demonstrate an example for the [10]
+CO-1 BL-2 implementation of an interface.
+
+b. Implement a class division, that performs division of two numbers entered
+00:2 BL-3 by the user. The class must handle “Divide by Zero” exception. Write [10]
+
+appropriate methods to take input and display the data. Write a main
+function to create an object and call appropriate functions.
+
+Q4 a. State two basic use of super keyword in inheritance in java. Explain each [10]
+CO- 1 BL-2 with suitable example.
+b. Implement a Java program to create class Product with data members
+Product_no, Product_name and price. Write methods to take details of
+CO- 1 BL-3 products from the user and count number of products having price greater [10]
+
+than 100rs. Write a main function to create an array of objects that allows to
+store details of 10 products.
+
+5 a.
+What is finally block? How it is used? Explain with an example code. [10]
+
+- 2 BL-2 ‘
+CO-1 BL-2 | b. Explain concept of constructor overloading in Java with an example. [10]
+Q6 a. Explain JavaFX architecture and different types of events. [10]
+CO-3 BL-2
+
+b. Implement a class String Operations, that performs string reverse and
+CO- 2 BL- 3 concatenation of string\s entered by the user. Write a main function to create | [10]
+an object and call appropriate functions as per the user’s choice.
+
+Q7 ° Explain the steps for querying the database using JDBC. [10]
+CO- 4 BL-2
+CO-4BL-2 | b. Explain spring framework in detail. [10]
+
+OL
 ````
 
 ## 2021-22 · Final-Exam · Sem 2 · paper 04cac282b032
@@ -1868,105 +1969,4 @@ Department ;
 CO-4; b Explain Spring Framework Architecture
 
 BL-4
-````
-
-## 2021-22 · Re-Exam · Sem 2 · paper 750281d4fbe6
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/JAVA PROGRAMMING/Java Programming Batch 2021-22 Re Exam0001_750281d4fb.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023 Yes :
-Program: MCA Year! I Seméster: IL.
-\ a }
-
-Subject: Java Programming Tims NN 3 hrs (fo: ooamto-d: 00 pry)
-Date:_O4 /05/2023 . No. of Rages: OZ
-
-Marks: 100 =
-Re-Examination (Batch 2021-2022)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-a Answer briefly:
-CO-1 BL-2. | 4 Explain concept of command line arguments with an example. [5]
-b. Implement a class factorial with an integer data member for which factorial
-CO- LBL-3 is to be calculated. The method inside class must calculate the factorial and [5]
-display it. Write a main method to create an object of factorial class and to
-display appropriate information.
-_—~ |CO-1BL2 | ¢- Explain the concept of class and objects with an example. [5]
-co-2 BL-2 | & Discuss the difference between String and StringBuffer class with an [5]
-example.
-m 2 Demonstrate how to create custom exception using an example. [10]
-CO-2 BL-3
-b. Design a class sphere with double x, double y and double z as coordinates
-
-and radius of the sphere. Add suitable parameterized constructor. The
-primary responsibilities of this class are finding the surface area and the
-
-CO- 1 BL- 6 volume using the formulae 4*pi*radius*radius and | [10]
-(4/3)*pi*radius*radius*radius respectively. Design another class
-heavysphere that extends sphere. The additional attribute of this
-heavysphere class is mass. This class also has additional responsibility of
-
-Ol
---- page 2 ---
-computing density using the formulae: density = mass/volume. Write a main
-function to display the complete information.
-
-Q3 a. Explain importance of packages in java. Demonstrate an example for the [10]
-CO-1 BL-2 implementation of an interface.
-
-b. Implement a class division, that performs division of two numbers entered
-00:2 BL-3 by the user. The class must handle “Divide by Zero” exception. Write [10]
-
-appropriate methods to take input and display the data. Write a main
-function to create an object and call appropriate functions.
-
-Q4 a. State two basic use of super keyword in inheritance in java. Explain each [10]
-CO- 1 BL-2 with suitable example.
-b. Implement a Java program to create class Product with data members
-Product_no, Product_name and price. Write methods to take details of
-CO- 1 BL-3 products from the user and count number of products having price greater [10]
-
-than 100rs. Write a main function to create an array of objects that allows to
-store details of 10 products.
-
-5 a.
-What is finally block? How it is used? Explain with an example code. [10]
-
-- 2 BL-2 ‘
-CO-1 BL-2 | b. Explain concept of constructor overloading in Java with an example. [10]
-Q6 a. Explain JavaFX architecture and different types of events. [10]
-CO-3 BL-2
-
-b. Implement a class String Operations, that performs string reverse and
-CO- 2 BL- 3 concatenation of string\s entered by the user. Write a main function to create | [10]
-an object and call appropriate functions as per the user’s choice.
-
-Q7 ° Explain the steps for querying the database using JDBC. [10]
-CO- 4 BL-2
-CO-4BL-2 | b. Explain spring framework in detail. [10]
-
-OL
 ````

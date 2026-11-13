@@ -489,140 +489,7 @@ Ate kN/m’, angle of internal friction = 18°, unit weight of soil = 20.5 kN/m?
 BL-5 Using Rankine’s theory, (i) Draw active pressure distribution diagram; (ii)
 ````
 
-## 2022-23 · Final-Exam · Sem 5 · paper aa69ad046870
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/FOUNDATION ENGINEERING/Foundation Engineering, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 17 November 2022
-- Text: ocr (3 pages), mean OCR confidence 85.6
-
-````text
-j " SVKM’s NMIMS 7
-ri PATEL 1, SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-SOHO OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2022-23
-
-/ Programme: B. Tech (Civil) , . Year: Tl .Semester: V
-Subject: Foundation Engineering - af :
-Marks: 100
-
-Date: 17 November 2022 . : ; a Time: 10.00 am - 1.00 pm,
-é ; Durations: 3 (Hrs)
-
-. No. of Pages: OD
-
-Final Examination ;
-
-_ Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question'‘No. _1____ is compulsory.
-
-: o> 2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all__5_ questions to be attempted.
-. 4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-Qi Answer briefly: [20]
-Co-1; a. | Describe earth pressure at rest, active earth pressure and passive earth pressure |- [5]
-Lm, with-neat sketch. ; :
-CO-2; b. | Distinguished between local shear failure and punching shear failure with neat | [5]
-SO-4; :
-BL-4 : sketch.
-CO-3; CG ae . . [5]
-SO- 7; Described in brief the classification of piles based on its function.
-BL-2 :
-CO-2,3; d. . . ; ; [5]
-
-> |so- 4; Explain in detail the need of ground improvement. :
-
-BL-3
-— j? la square footing is resting on a stiff saturated clay with cohesion = 125 kNin?.
-SO-2; The depth of foundation is 2 m. Determine the size of the square footing if the [10]
-BL-5 ; :
-
-column load is 600 KN. Assume factor of safety as 2.5. The bulk unit weight
-
-of soil is 20 kN/m?. Use Terzaghi bearing capacity equation for square footing.
-
-Q2 b. | Apile is driven with a single acting steam hammer of weight 15 kN with a free | [06]
-Son fall of 900 mm. The final set, the average of the last three blows, is 27.5 mm.
-BL-4 Determine the safe load using the Engineer’s New Formula.
-
-if
---- page 2 ---
-[04]
-
-eee “ Classify the pile based on loading condition.
-BL-3
-Q.3 a. | Determine the ultimate bearing capacity of a footing resting on a uniform sand [10]
-Sol, having cohesion = 0, porosity n = 40 % and specific gravity G =2.6. For 0 =
-BL-5 30°, take Ne = 30.4; Nq = 18.4; Ny = 18.08. Depth of the foundation is 1.5 m.
-The size of the footing is 2 mx 3 m, G.W.T at 1.5 m below G.L. Use IS code
-recommendation considering General Shear Failure. Ignore the depth factor.
-Take yw = 9.81 KN/m’.
-Q3 b. | A vertical wall with a smooth face is 10 m high and retains soil with an inclined [10]
-etn : backfill of 9°. If the angle of internal friction of soil is 27°, calculate active and
-BL-4 passive resultant thrust by plotting lateral earth pressure diagram.
-Take: y = 18.5 KN/m’.
-an 4 | Define the terms: (a) Ultimate bearing capacity (b) Net ultimate bearing ie
-‘| SO-7; capacity (c) Net safe bearing capacity (d) Gross allowable bearing capacity.
-or b. . . : eg, | 10]
-CO-3; Estimate an allowable-capacity of the bored pile in cohesive layered soil with
-a diameter of the pile is 0.45 m and length of the pile is 18 m. The properties of
-the soil layer are as below:
-Layer 1: Li =8 m, a1 = 1.0, Ci =35 kN/m?
-Layer 2: L2 = 6 m, a2 = 0.70, Co = 85 KN/m?
-Layer 3 : Ls=4-m,.as= 0.55, C3 = 125 kN/m?
-Q5 A wall of 5.4 m high, retain sand with horizontal backfill. In the loose state the sand | [20]
-at : has void ratio of 0.68 and angie of internal friction, ® = 27°, while in the dense State,
-BL-5 the corresponding values of void ratio and angle of internal frictions ®, are 0.36 and
-
-45° respectively. Estimate the ratio of active and passive earth pressure in the two
-
-cases, assuming specific gravity, G = 2.64. Take yw = 10 KN/m?.
-
-°b
---- page 3 ---
-Vom
-
-Estimate net bearing capacity of a sand deposit having ® = 35°, using a FoS
-
-Q6 [10]
-CO-2; we : . 2 . _
-SO-4: of 2.50. The footing is to rest on a soil having C = 8 kN/m*. Consider ya =
-BL-4 16.3 KN/m? and ysat = 18.8 KN/m?. Depth of the foundation Dr = 1.20 m and
-water table at 4.50 m below GL and not likely to rise. Consider ‘General shear
-failure for 1.50 m wide strip footing. IS recommendations.
-Take: Nc = 46.12, Nq = 33.3, Ny = 48.03.
-Q6 r ; ; Le . : [10]
-CO-3: Driven concrete pile of length L = 10 m and Dia = 50 cm is embedded into
-SO-1; loose sand (soil on side’ & soil at base - assume same properties) with = 30°;
-His y = 1.75 gmice, Ysat = 1.85 gmice, yw = 9.81 kN/m3. GWT is at 30 m from the
-GL. Calculate the safe load carrying capacity of the pile. Take Nq = 15.
-Q7 . [10]
-CO-3; Explain in detail factors affecting the selection of ground improvement
-SO-4; technique.
-BL-4
-Q7 Using Coulomb’s wedge theory, | [10]
-CO-1; : .
-SO-1: determine the total passive thrust on
-BL-4 the wall as shown in figure. Also,
-
-Draw the earth pressure distribution
-diagram with point of application of
-the resultant thrust.
-Take y = 20 kN/m? and ® = 30°
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 779a69086c3b
+## 2023-24 · Re-Exam · Sem 5 · paper 779a69086c3b
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL, B.TECH INTEGRATED / CIVIL
@@ -762,6 +629,139 @@ BL-5 resultant thrust by plotting lateral earth pressure diagram using both Usin
 ‘
 Rankine’s and Coulomb’s theory (Take: angle of wall = 90°, angle of rupture surface
 = 60° and angle of wall friction = 23° ). Take: y = 18.1 kN/m’*.
+````
+
+## 2022-23 · Final-Exam · Sem 5 · paper aa69ad046870
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/FOUNDATION ENGINEERING/Foundation Engineering, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17 November 2022
+- Text: ocr (3 pages), mean OCR confidence 85.6
+
+````text
+j " SVKM’s NMIMS 7
+ri PATEL 1, SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SOHO OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23
+
+/ Programme: B. Tech (Civil) , . Year: Tl .Semester: V
+Subject: Foundation Engineering - af :
+Marks: 100
+
+Date: 17 November 2022 . : ; a Time: 10.00 am - 1.00 pm,
+é ; Durations: 3 (Hrs)
+
+. No. of Pages: OD
+
+Final Examination ;
+
+_ Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question'‘No. _1____ is compulsory.
+
+: o> 2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all__5_ questions to be attempted.
+. 4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+Qi Answer briefly: [20]
+Co-1; a. | Describe earth pressure at rest, active earth pressure and passive earth pressure |- [5]
+Lm, with-neat sketch. ; :
+CO-2; b. | Distinguished between local shear failure and punching shear failure with neat | [5]
+SO-4; :
+BL-4 : sketch.
+CO-3; CG ae . . [5]
+SO- 7; Described in brief the classification of piles based on its function.
+BL-2 :
+CO-2,3; d. . . ; ; [5]
+
+> |so- 4; Explain in detail the need of ground improvement. :
+
+BL-3
+— j? la square footing is resting on a stiff saturated clay with cohesion = 125 kNin?.
+SO-2; The depth of foundation is 2 m. Determine the size of the square footing if the [10]
+BL-5 ; :
+
+column load is 600 KN. Assume factor of safety as 2.5. The bulk unit weight
+
+of soil is 20 kN/m?. Use Terzaghi bearing capacity equation for square footing.
+
+Q2 b. | Apile is driven with a single acting steam hammer of weight 15 kN with a free | [06]
+Son fall of 900 mm. The final set, the average of the last three blows, is 27.5 mm.
+BL-4 Determine the safe load using the Engineer’s New Formula.
+
+if
+--- page 2 ---
+[04]
+
+eee “ Classify the pile based on loading condition.
+BL-3
+Q.3 a. | Determine the ultimate bearing capacity of a footing resting on a uniform sand [10]
+Sol, having cohesion = 0, porosity n = 40 % and specific gravity G =2.6. For 0 =
+BL-5 30°, take Ne = 30.4; Nq = 18.4; Ny = 18.08. Depth of the foundation is 1.5 m.
+The size of the footing is 2 mx 3 m, G.W.T at 1.5 m below G.L. Use IS code
+recommendation considering General Shear Failure. Ignore the depth factor.
+Take yw = 9.81 KN/m’.
+Q3 b. | A vertical wall with a smooth face is 10 m high and retains soil with an inclined [10]
+etn : backfill of 9°. If the angle of internal friction of soil is 27°, calculate active and
+BL-4 passive resultant thrust by plotting lateral earth pressure diagram.
+Take: y = 18.5 KN/m’.
+an 4 | Define the terms: (a) Ultimate bearing capacity (b) Net ultimate bearing ie
+‘| SO-7; capacity (c) Net safe bearing capacity (d) Gross allowable bearing capacity.
+or b. . . : eg, | 10]
+CO-3; Estimate an allowable-capacity of the bored pile in cohesive layered soil with
+a diameter of the pile is 0.45 m and length of the pile is 18 m. The properties of
+the soil layer are as below:
+Layer 1: Li =8 m, a1 = 1.0, Ci =35 kN/m?
+Layer 2: L2 = 6 m, a2 = 0.70, Co = 85 KN/m?
+Layer 3 : Ls=4-m,.as= 0.55, C3 = 125 kN/m?
+Q5 A wall of 5.4 m high, retain sand with horizontal backfill. In the loose state the sand | [20]
+at : has void ratio of 0.68 and angie of internal friction, ® = 27°, while in the dense State,
+BL-5 the corresponding values of void ratio and angle of internal frictions ®, are 0.36 and
+
+45° respectively. Estimate the ratio of active and passive earth pressure in the two
+
+cases, assuming specific gravity, G = 2.64. Take yw = 10 KN/m?.
+
+°b
+--- page 3 ---
+Vom
+
+Estimate net bearing capacity of a sand deposit having ® = 35°, using a FoS
+
+Q6 [10]
+CO-2; we : . 2 . _
+SO-4: of 2.50. The footing is to rest on a soil having C = 8 kN/m*. Consider ya =
+BL-4 16.3 KN/m? and ysat = 18.8 KN/m?. Depth of the foundation Dr = 1.20 m and
+water table at 4.50 m below GL and not likely to rise. Consider ‘General shear
+failure for 1.50 m wide strip footing. IS recommendations.
+Take: Nc = 46.12, Nq = 33.3, Ny = 48.03.
+Q6 r ; ; Le . : [10]
+CO-3: Driven concrete pile of length L = 10 m and Dia = 50 cm is embedded into
+SO-1; loose sand (soil on side’ & soil at base - assume same properties) with = 30°;
+His y = 1.75 gmice, Ysat = 1.85 gmice, yw = 9.81 kN/m3. GWT is at 30 m from the
+GL. Calculate the safe load carrying capacity of the pile. Take Nq = 15.
+Q7 . [10]
+CO-3; Explain in detail factors affecting the selection of ground improvement
+SO-4; technique.
+BL-4
+Q7 Using Coulomb’s wedge theory, | [10]
+CO-1; : .
+SO-1: determine the total passive thrust on
+BL-4 the wall as shown in figure. Also,
+
+Draw the earth pressure distribution
+diagram with point of application of
+the resultant thrust.
+Take y = 20 kN/m? and ® = 30°
 ````
 
 ## 2022-23 · Re-Exam · Sem 5 · paper 922be9ee0004

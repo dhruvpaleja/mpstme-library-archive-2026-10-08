@@ -16,17 +16,17 @@ Also filed as: `Stochastic Process & Application`, `STOCHASTIC PROCESS & APPLICA
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech DS 7009 | ANS_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Stochastic processes and Applications(702BS0C033)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech DS 7052 | ANS_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech DS 7009 | QP_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated DS 7038 | QP_Stochastic processes and Applications(702BS0C033)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech DS 7052 | QP_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech DS 7009 | ANS_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Stochastic processes and Applications(702BS0C033)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech DS 7009 | ANS_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Stochastic processes and Applications(702BS0C033)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech DS 7052 | ANS_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / DATA SCIENCE, B.TECH INTEGRATED / DATA SCIENCE, MBA TECH / DATA SCIENCE | Stochastic processes and Applications Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech DS 7009 | QP_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated DS 7038 | QP_Stochastic processes and Applications(702BS0C033)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech DS 7009 | ANS_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Stochastic processes and Applications(702BS0C033)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Stochastic Processes and Applications, Sem IV, Final Exam 2024-25 & Re Exam 2022-_c2c39b26.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4, Sem 8 | B.TECH INTEGRATED / DATA SCIENCE | Stochastic Process & Application Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 4 | B TECH / DATA SCIENCE | Stochastic Processes and Applications, Sem-IV, Final Exam 2023-24.pdf |

@@ -1,8 +1,153 @@
 # Linear Algebra: question papers in full
 
-10 unique papers · 2021-22 to 2024-25 · Common (all branches), Computer Science and Business Systems
+10 unique papers · 2021-22 to 2025-26 · Common (all branches), Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 2 · paper e860bc87a2ac
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/LINEAR ALGEBRA/B Tech, Linear Algebra, Sem-II, Batch 2022-23, 2023-24 & 2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 80.9
+
+````text
+Sa
+
+SVKM’S NMIMS
+
+Academic Year : 2025-2026
+
+Program: B. Tech Stream : Computer Science & Business Systems Year: 1 Semester: II
+Subject: Linear Algebra Time: 3 hrs (Joz00nt0 1% dpe)
+Date: £/ 7 /2026. No. of Pages: 03
+
+Marks: 100
+
+Re-Examination (2022-23, 2023-24J2024 - 25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Answer briefly:
+(a) -1 -2 3
+CO-3; SO-1; . a
+Find the cofactor and adjoint matrices of A= |-2 1 1 [4]
+BL-2
+4 -5 2
+(b) 123 -1 {4]
+CO-2; SO-1; ul .
+O2;80-1; Find rank of the matrix A = 2 ? using echelon form method.
+BL-1 101 :
+011-1
+CO-1; SO-1; | (©) | Let 7 :1R? -> R? be a linear map such that 7(1,1)=(1,2), T(2,1)=G,1). i4]
+BL-2 Compute 7 (1,2).
+co-3; so-1; | @) | Show that the function T:R'>R? defined as | [4]
+BL-3 T(x, y,Zz) = (x +3y-2z, x +y-z) is a linear transformation.
+co-1; 0-1) | © f2 Ps a
+coe Find the values of a,b, cif A==}-2 1   2]|is orthogonal matrix.
+BL-4 1 22
+
+Page |1
+--- page 2 ---
+Q.2
+
+(a) | Show that the matrix A is diagonalizable matrix. Also find its. diagonal form
+
+CO-4; SO-1; 1-6 -4 6
+BL-3 and transforming matrix, if A=|0 4 2 (6)
+0-6 -3
+CO-3; SO-2; | (b) iy —B+i8
+= Express the relation in a, 8,y,8 for which A= Ione 7 al is unitary. [6]
+(c) | Determine whether V = R° is a vector space over real numbers, under vector
+casos. addition and scalar multiplication defined as (x, y)+(x', y')=(xt+x',y+y') | [8]
+BL-5
+and a(x, y) = (ax, ay).
+Q.3
+CO-2; SO-5; . 3 :
+bla (@) Determine whether B= {(1,2,3),(1,2,0),(1,0, 0)} is a basis of vector space R° | [6]
+(b) |Let 7:R? Rand S: R>—»'R? be linear transformations defined as =)
+CO-3; SO-2; T(x,y)=(2x,5x-y,3y) and   S(x,y,z)=(2x-z,3x-y+2z). Define (6
+BL-3 composition functions SoT and ToS, if exists. Also find their matrices with
+
+respect to standard bases.
+
+CO-4; $0-5; | (c) | Solve the following system of equations using LU-decomposition method
+[8]
+
+BL-5 x+2y-z=l,x+y+2z=9, 2x+y-z=2
+Q.4
+(a) -
+CO-2; SO-5; Show that the set {(0,1,0), (=. 02}, (2 0) is orthonormal set of vectors
+[6]
+BL-4
+
+with respect to the Euclidean inner product.
+
+CO-4: SO-5; (b) | Show that the set W= {(x, y)—eR?/x = 3y} is subspace of R* under usual
+. a (6). a
+
+Bed addition and multiplication.
+(c) | The sum of three numbers is 6. If we multiply the third number by 2 and add the
+_ ai first number to the result we get 7. By adding second and third numbers to three | [8]
+/ times the first number we get 12. Use Crammer’s rule to find the numbers.
+Q.5
+
+CO-4; SO-2; | (a) | Using rank method, solve the following system of equations (61
+BL-5 x-2y+z-w=2, x+2y+2w=l, 4y-2+3w=-l
+
+Page | 2
+--- page 3 ---
+(b)
+
+Verify the Cauchy—Schwartz inequality for vectors
+
+CO-4; SO-2; F : ‘ ;
+Le u=(-4, 2, 1) and v=(8,-4,-2) using Euclidean inner producf, also find angle | [6]
+between them. ;
+CO-3; SO-1; (©) 4 6 6
+BL-4 If d4=| 1 3. 2), find eigen values & eigen vectors of 47 +3A-SI. [8]
+-1 -5 2
+Q.6
+CO-4; $O-1: (a) | Using Cayley-Hamilton theorem, express 4°—44°+84*-12 4°+14 A? asa
+1 2 [6]
+BL-5 linear polynomial in A, where A -| 13 .
+CO-3; SO-1; ©) =al=y =e
+BL-I Show that the matrix A=] | 0 — 1 | isits own adjoint. [6]
+4 4 3
+“) | CO-2; SO-5; ©) _”
+BL-4 Find QR decomposition of the matrix A=|1 1 0]. [8]
+1 1
+Q.7
+CO-3; SO-2; | (a) | Using rank method, test the system for consistency and solve if consistent [6]
+BL-2 x—y+3w=0, x+2y+z+w=0, 2x+y+z+4w=0.-
+(6) | Consider R* with Euclidean inner product. Use Gram — Schmidt process to | [6]
+CO-4; SO-5; : : :
+3 transform the following basis to orthonormal basis of R*
+L-5
+u,= (1,11), u,= (3, 7, -2) andu, = (0, 4, 1)
+8
+co-4; so-s; | © . 11 . [8]
+— Find a singular value decomposition of A=|1 0}.
+Co 0 1
+: i
+Pa
+° Page | 3
+````
 
 ## 2024-25 · Final-Exam · Sem 2 · paper 7ee365ee863c
 
@@ -11,6 +156,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CSBS_7036/Linear Algebra/QP_Linear Algebra(702BS0C072)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (4 pages), mean OCR confidence 53.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -311,151 +457,6 @@ Hence solve the following system of equations:
 ********** 3 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · paper e860bc87a2ac
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/LINEAR ALGEBRA/B Tech, Linear Algebra, Sem-II, Batch 2022-23, 2023-24 & 2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 80.9
-
-````text
-Sa
-
-SVKM’S NMIMS
-
-Academic Year : 2025-2026
-
-Program: B. Tech Stream : Computer Science & Business Systems Year: 1 Semester: II
-Subject: Linear Algebra Time: 3 hrs (Joz00nt0 1% dpe)
-Date: £/ 7 /2026. No. of Pages: 03
-
-Marks: 100
-
-Re-Examination (2022-23, 2023-24J2024 - 25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Answer briefly:
-(a) -1 -2 3
-CO-3; SO-1; . a
-Find the cofactor and adjoint matrices of A= |-2 1 1 [4]
-BL-2
-4 -5 2
-(b) 123 -1 {4]
-CO-2; SO-1; ul .
-O2;80-1; Find rank of the matrix A = 2 ? using echelon form method.
-BL-1 101 :
-011-1
-CO-1; SO-1; | (©) | Let 7 :1R? -> R? be a linear map such that 7(1,1)=(1,2), T(2,1)=G,1). i4]
-BL-2 Compute 7 (1,2).
-co-3; so-1; | @) | Show that the function T:R'>R? defined as | [4]
-BL-3 T(x, y,Zz) = (x +3y-2z, x +y-z) is a linear transformation.
-co-1; 0-1) | © f2 Ps a
-coe Find the values of a,b, cif A==}-2 1   2]|is orthogonal matrix.
-BL-4 1 22
-
-Page |1
---- page 2 ---
-Q.2
-
-(a) | Show that the matrix A is diagonalizable matrix. Also find its. diagonal form
-
-CO-4; SO-1; 1-6 -4 6
-BL-3 and transforming matrix, if A=|0 4 2 (6)
-0-6 -3
-CO-3; SO-2; | (b) iy —B+i8
-= Express the relation in a, 8,y,8 for which A= Ione 7 al is unitary. [6]
-(c) | Determine whether V = R° is a vector space over real numbers, under vector
-casos. addition and scalar multiplication defined as (x, y)+(x', y')=(xt+x',y+y') | [8]
-BL-5
-and a(x, y) = (ax, ay).
-Q.3
-CO-2; SO-5; . 3 :
-bla (@) Determine whether B= {(1,2,3),(1,2,0),(1,0, 0)} is a basis of vector space R° | [6]
-(b) |Let 7:R? Rand S: R>—»'R? be linear transformations defined as =)
-CO-3; SO-2; T(x,y)=(2x,5x-y,3y) and   S(x,y,z)=(2x-z,3x-y+2z). Define (6
-BL-3 composition functions SoT and ToS, if exists. Also find their matrices with
-
-respect to standard bases.
-
-CO-4; $0-5; | (c) | Solve the following system of equations using LU-decomposition method
-[8]
-
-BL-5 x+2y-z=l,x+y+2z=9, 2x+y-z=2
-Q.4
-(a) -
-CO-2; SO-5; Show that the set {(0,1,0), (=. 02}, (2 0) is orthonormal set of vectors
-[6]
-BL-4
-
-with respect to the Euclidean inner product.
-
-CO-4: SO-5; (b) | Show that the set W= {(x, y)—eR?/x = 3y} is subspace of R* under usual
-. a (6). a
-
-Bed addition and multiplication.
-(c) | The sum of three numbers is 6. If we multiply the third number by 2 and add the
-_ ai first number to the result we get 7. By adding second and third numbers to three | [8]
-/ times the first number we get 12. Use Crammer’s rule to find the numbers.
-Q.5
-
-CO-4; SO-2; | (a) | Using rank method, solve the following system of equations (61
-BL-5 x-2y+z-w=2, x+2y+2w=l, 4y-2+3w=-l
-
-Page | 2
---- page 3 ---
-(b)
-
-Verify the Cauchy—Schwartz inequality for vectors
-
-CO-4; SO-2; F : ‘ ;
-Le u=(-4, 2, 1) and v=(8,-4,-2) using Euclidean inner producf, also find angle | [6]
-between them. ;
-CO-3; SO-1; (©) 4 6 6
-BL-4 If d4=| 1 3. 2), find eigen values & eigen vectors of 47 +3A-SI. [8]
--1 -5 2
-Q.6
-CO-4; $O-1: (a) | Using Cayley-Hamilton theorem, express 4°—44°+84*-12 4°+14 A? asa
-1 2 [6]
-BL-5 linear polynomial in A, where A -| 13 .
-CO-3; SO-1; ©) =al=y =e
-BL-I Show that the matrix A=] | 0 — 1 | isits own adjoint. [6]
-4 4 3
-“) | CO-2; SO-5; ©) _”
-BL-4 Find QR decomposition of the matrix A=|1 1 0]. [8]
-1 1
-Q.7
-CO-3; SO-2; | (a) | Using rank method, test the system for consistency and solve if consistent [6]
-BL-2 x—y+3w=0, x+2y+z+w=0, 2x+y+z+4w=0.-
-(6) | Consider R* with Euclidean inner product. Use Gram — Schmidt process to | [6]
-CO-4; SO-5; : : :
-3 transform the following basis to orthonormal basis of R*
-L-5
-u,= (1,11), u,= (3, 7, -2) andu, = (0, 4, 1)
-8
-co-4; so-s; | © . 11 . [8]
-— Find a singular value decomposition of A=|1 0}.
-Co 0 1
-: i
-Pa
-° Page | 3
-````
-
 ## 2023-24 · Re-Exam · Sem 2 · paper c021da44c46b
 
 - Departments: Common (all branches)
@@ -463,6 +464,7 @@ Pa
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/LINEAR ALGEBRA/Linear Algebra, Batch 2021-22 , 2022-23 & 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26/ 06/2024
 - Text: ocr (3 pages), mean OCR confidence 80.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _
@@ -594,7 +596,6 @@ CO-3; SO-2; | (a) | Using rank method, test the system for consistency and solve
 BL-2 x+y+z=6, x+2y+3z=14, 2x+4y4+7z =30.
 CO-4; 80-5; | (b) | Construct an orthonormal basis of R° by applying Gram - Schmidt process to | [6]
 BL-5 S = { (3, 0, 4), (-1, 0, 7), (2, 9, 1D}.
-CO-4;SO-5; | (c) ehud eesti eet ary 110 [8]
 BLS ind a singular value decomposition of A= ooit
 
 Page | 3/3

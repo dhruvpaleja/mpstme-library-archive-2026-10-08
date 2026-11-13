@@ -14,14 +14,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Formal Language and Automata Theory(702CO0C043)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Formal Language and Automata Theory(702CO0C043)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Formal Language and Automata Theory(702CO0C043)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / CSE Data Science (311) | B Tech, Formal Language and Automata Theory, Sem-VI, Batch 2024-25 & 2025-26 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Formal Language and Automata Theory(702CO0C043)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Formal Language and Automata Theory(702CO0C043)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Formal Language and Automata Theory(702CO0C043)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Formal Language and Automata Theory(702CO0C043)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CSBS | Formal Language and Automata Theory, 2nd Year, Sem-III, 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Formal Language and Automata Theory(702CO0C043)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Formal Language and Automata Theory(702CO0C043)_2024-2025.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 3 | B TECH / CSBS | Formal Language and Automata Theory, 2nd Year, Sem-III, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 3 | B TECH / CSBS | Formal Language and Automata Theory, 2nd Year, Sem-III, Year 2021-22 & 2022-23, Re Exam.pdf |
 

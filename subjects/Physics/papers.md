@@ -1888,6 +1888,262 @@ BL-3
 ********** 2 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 1 · paper 0f4c36bb3776
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/PHYSICS/B Tech, (IT, MXTC, DS, CSE-CS, AI), Physics, Sem-I Batch 2022-2023 & 2023-24 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 87.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+Program/s: BTech/MBA Tech Year: [ Semester: I
+
+Stream/s ; All streams
+
+Subject: Physics Time: 3 hrs ( R0opmto 5! E22)
+
+Date:_27 /W_/ 2025 . No. of Pages: 3
+Marks: 100
+Re-Examination (Re-exam - 2022-23, 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4__ questions.
+
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Values of Constants: ;
+
+Planck’s constant h = 6.625 x 10°4 J-s, Speed of light, c = 3 x 10° m/s, electronic mass, me = 9.1 x 103! kg,
+
+electronic charge, e = 1.6 x 10°'? C, Boltzmann’s constant, ks = 1.38 x 103 J/K
+
+; Qt ,;
+Answer briefly: [20]
+ms ; > a Define conduction band and valance band. 4
+a 7 P b. Differentiate between interference and diffraction. 4
+c. .
+. Find out the numerical aperture and acceptance angle of an optical fiber.
+
+CO-1, 3; : 7 os
+
+BL-3 [Given, n]-=1.55, n2 = 1.50]
+
+CO- 1; d, State and explain the Coulomb’s law. 4
+| BL-1,2 _ ;
+
+CO-1: e What is the top-down and bottom-up approach for synthesizing
+BL-I, 2 nanomaterials? :
+--- page 2 ---
+Q2 a Draw and explain the intensity distribution curve for single-slit, double-
+
+CO-2, 3; slit, and multiple-slit diffraction, along with their intensity distribution 10
+BL-3 equations, including the meaning of each term. .
+CO-1; b In Newton’s ring experiment prove that in reflected light the diameter of
+BL-3 the dark ring is proportional to the square root of its order number.
+
+c A Si sample, with intrinsic carrier concentration of 9.8 x 10!> /m? at 300 K,
+CO-2, 3; is made n type material. If the density of donor atoms is 10?! /m}, 4
+
+BL-3,4
+I determine the electron and hole densities.
+
+Q3 a Prove that for an intrinsic semiconductor, at low temperature, Fermi level 0
+eae! 4 lies at the half of the energy band gap.
+CO-1; b . . . : : :
+BL-3 Differentiate solids according to energy band structure. 6
+c A ruby laser has its metastable state at 1.79 eV from which the stimulated
+CO-2, 3; emission produces laser light. Calculate the wave length of the light. If2
+BL- 3,4 mole of Cr+3 ions are involved in population inversion process in a.pulse,
+calculate the pulse energy in eV.
+Q4 a
+CO-2; Describe construction and working of He-Ne laser with suitable diagram. | 10
+BL-1, 2
+ous b Compare type I and type II superconductors. 6
+c The resistivity of a doped Si sample is 8.9 x 10° Q-m. The Hall coefficient
+ae e of the sample is found to be 3.06 x 10 m°/C. Assuming a single carrier 4
+conduction, find the concentration and mobility of charge carriers.
+Q5 a
+
+State Maxwell’s equations in integral and differential form. What is the
+
+CO-1; significance of each equation? =
+BL-3,4 8 quahions
+--- page 3 ---
+CO-1; Explain the origin of nuclear force. State the characteristics of nuclear
+BL-I, 2 force.
+Two-point charges of 0.7mC and 4.9uC are situated in free space at (2,3,6)
+ey 3 and (0,0,0). Assume distances are in meter; calculate the force acting-on 4
+the 0.7mC charge.
+Q6 Obtain expressions for critical angle, acceptance angle and numerical 7"
+a 2 aperture in terms of its core and cladding refractive indices.
+A light of 500 nm wavelength is incident normally on a single slit. The first
+CO-2. 3: minimum of Fraunhofer diffraction pattern is observed to lie at a distance
+BL34 of 5 x 10) m from the central maximum on a screen placed at a distance | 6
+7 of 2 m away from the slit. What is the width of the slit?
+| CO-1; Why Plasma is defined i-neutral gas?
+BL-1,2 y Plasma is defined as a quasi-neutral gas? 4
+Q7 With the help of suitable graph, explain the variation of binding energy per 7
+let 2 nucleon (BE/A) with increasing. mass number (A).
+Explain the isotope effect. The critical temperature Tc for Hg with isotopic
+a K mass 199.5 is 4.185 K, What will be its critical temperature when its 6
+isotopic mass is increased to 203.4?
+aa 3 Calculate the diameter of Fe**. Given: RO = 1.2 fm. 4
+--- page 4 ---
+
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper c469343ee760
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PHYSICS/B Tech, Physics, Sem-II, Batch 2022-23, 2023-24, 2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 July 2026
+- Text: ocr (2 pages), mean OCR confidence 88.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Academic Year: 2025-26
+Program: B TECH (MECH/CIVIL/CSE-DS(7057))
+
+wore
+
+Year: I Semester : []
+Subject: Physics ; °
+
+Time: 10.00 am to 1.00 pm (3 hrs) ES,
+Date : 01 July 2026 : UNIVERSE
+No. of Pages: O2
+Marks: 100
+Re-Exam (2022-23/2023-24/2024-25)
+Instructions: oe OO
+
+1. This question paper contains 2 pages.
+
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+
+4. Question No. | is compulsory.
+
+5. Out of the remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+
+7. Assume Suitable data if necessary.
+
+Q1 Answer briefly: [20]
+a. | Show with self-explanatory diagram, the variation in fermi energy level with
+COo-1 temperature and doping concentration in case of n type and p type semiconductor. | [4]
+[ Only labeled diagram, no text]
+b. | List any four differences between interference and diffraction. {one difference must
+CO-2 : ; (4]
+be the intensity spectrum curve] .
+Co-3 c. | The band gap of GaAs is 1.45eV. What is the wavelength of LASER beam
+emitted by the GaAs diode LASER? (4)
+CO-4 d. | State Faraday’s law with its mathematical form. 7 {4]
+CO-5 e. | Describe any two real-life applications of plasma. [4]
+Q2 20
+coi a. Discuss band theory in details with appropriate diagram. Classify the solids based on [10]
+band theory and list any 4 differences between them.
+b. | State how the conductivity of intrinsic semiconductor affects with temperature?
+col Find the concentration of holes and electrons in N type Si at 300k, if the conductivity | [6]
+
+is 300 mhos. Given that ni= 1.5 x 10!° /em? pt, =1300 cm2/VS.
+c. Inan optical fiber, the refractive index of the core is 1.5 and that of the cladding is
+
+CO 3 1.35. Determine the Numerical aperture, acceptance angle, critical angle, and angle [4]
+of acceptance cone.
+Q3 20
+a. | Write short note on- (a) Spontaneous emission, (b) metastable state(c) V number
+“| CO-3 (d)Numerical aperture (e) graded index fiber. [Explain with appropriate [10]
+diagram]
+
+b. } A plane diffraction grating has 5000 lines per cm and is used to observe light of
+wavelength 6000 A in the first order.
+
+CO-2 (a) Calculate the angular dispersive power of the grating. [6]
+(b) If the total number of illuminated’lines on the grating is 10,000, determine the
+resolving power of the grating.
+
+(c) Find the minimum wavelength difference that can be resolved at this wavelength.
+
+f
+CO-4 © | What is meant by flux of an electric field? [4]
+
+FOR 7 RA KE
+--- page 2 ---
+shee
+
+[ A uniform electric field with a magnitude of E = 400 N/C is incident on a plane surface
+of area S = 10 m? and makes an angle of @ = 30° with it. Find the electric flux through
+
+this surface? . ° .
+as [20]
+a. | Explain the formation of Newton’s ring in ‘case of interference. In case of reflected
+CO-2 system of Newton’s ring, prove that the diameter of dark ring is directly proportional | [10]
+to the square root of order of the ring. .
+CO-5 b. | Calculate the penetration depth in mercury at 0K and 4.1K, if the critical temperature 16]
+of mercury is 5.2K and the penetration depth is 67 nm. at 3.1 K.
+CO-1 c. | Find the probability of occupancy of a state of energy (a) 0.05 eV above the Fermi 4]
+energy (b) 0.05 eV below the Fermi energy. Assume a temperature of 300 K.
+Q5 [20]
+a. | Explain the construction and working of He-Ne laser with schematic and energy
+CO-3 ; [10]
+level diagrams.
+cO-5 b. | Explain (a) the diamagnetism and (b) the critical magnetic effect in
+a os [6] ua
+superconductivity.
+c. | Determine the Hall potential difference across a copper strip (2 cm wide and 1 mm
+CO-1 thick) placed in a magnetic field (B = 1.5 Wb/m?) perpendicular to the strip. Given a [4]
+current of 200 A and an electron density of N = 8.4 x 1078 electrons/m?, what Hall
+potential would develop?
+Q6 : [20]
+CO-4 a. | State and derive Maxwell’s first equation in its integral and differential form. [10]
+b. | Three-point charges q1=5 wC, q2=<3 uC, and q3=2 uC are placed along a straight line.
+CO-4 The distance between ql and q2 is 0.2 cm, and between q2 and q3 is 0.3 cm. Calculate [6]
+the net electrostatic force acting on the middle charge. Also state the nature (direction) of
+the force. (Permittivity of free space =8.854«107!? C?/(N-m)
+co-5 © | Define nuclear radius. If the approximate radius of a single nucleon (nuclear radius [4]
+constant) ro is 1.2 fm, calculate the nuclear radius of 56 Fe.
+Q7 [20]
+CO-5 a. | Define superconductors and superconductivity. Discuss type 1 and type 2
+
+: . : : : 10
+superconductors in details with appropriate diagram. [10]
+
+b. | Define wedge shaped film with appropriate diagram. State the condition of maxima G.]
+
+and minima in case of wedge-shaped thin film.
+
+CO-2 ; ; _ a [6]
+In a thin film interference setup, a soap film of refractive index 1.33 is illuminated by
+light of, wavelength 5500 A. If the film appears dark in reflected light at normal
+incidence, determine the minimum thickness of the film.
+
+1c0-5 c. | Discuss the bottom-up approach used in synthesizing nanomaterials with appropriate
+: ‘ [4]
+labelled diagram
+
+FOO 2 REE
+````
+
 ## 2025-26 · Re-Exam · Sem 2 · paper c20065115d09
 
 - Departments: Common (all branches)
@@ -2038,6 +2294,125 @@ OK. .
 FOCI 2 AR Ak i a
 
 =‘
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 6ada867bcded
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/PHYSICS/Physics, Sem-I, Re-exam 2022-23,2023-24.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 87.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+SCHOOL OF TECHNOLOGY MANAGEMENT *
+Academic Year: 2025-2026 ;
+Program/s: BTech/MBA Tech Year: I Semester: I
+
+Stream/s ; All streams
+
+Subject: Physics Time: 3 hrs ( 2:00pmto area pane)
+
+Date:_27 /\W_/ 2025 . No. of Pages: 3
+Marks: 100
+Re-Examination (Re-exam - 2022-23, 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+y> of the Answer Book, which is provided for their use.
+
+1) Question No._1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) Inall___5_ questions to be attempted. .
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Values of Constants: .
+
+Planck’s constant h = 6.625 x 10°4 J-s, Speed of light, c = 3 x 108 m/s, eléctronic mass, me = 9.1 x 107! kg,
+
+electronic charge, e = 1.6 x 10°! C, Boltzmann’s constant, kp = 1.38 x 10° J/K
+
+Ql ; :
+
+Answer briefly: [20]
+CO-1; a. Define conduction band and valance band. 4
+
+aa BL-1, 2 : :
+oC : 5 b. Differentiate between interference and diffraction. 4
+Gs :
+CO-1. 3: Find out the numerical aperture and acceptance angle of an optical fiber.
+BL-3 > [Given, n1-=1.55, n2 = 1.50]
+Co- I; d. State.and explain the Coulomb’s law. ~
+BL-1,2__ . .
+CO-1: e What is the top-down and bottom-up approach for synthesizing
+BL-1, 2 nanomaterials? :
+1
+--- page 2 ---
+-
+
+_—
+
+1
+
+Q2 Draw and explain the intensity distribution curve for single-slit, double-
+CO-2, 3; slit, and multiple-slit diffraction, along with their intensity distribution 10
+BL-3 equations, including the meaning of each term. ;
+CO- 1; In Newton’s ring experiment prove that in reflected light the diameter of
+BL-3 the dark ring is proportional to the square root of its order number.
+A Si sample, with intrinsic carrier concentration of 9.8 x 10'5 /m? at 300 K,
+: ri is made n type material. If the density of donor atoms is 107! /m3, 4
+| determine the electron and hole densities.
+Q3 Prove that for an intrinsic semiconductor, at low temperature, Fermi level
+pr 4 lies at the half of the energy band gap. 0
+oes Differentiate solids according to energy band structure. 6
+A ruby laser has its metastable state at 1.79 eV from which the stimulated
+CO-2, 3; emission produces laser light. Calculate the wave length of the light. If 2
+BL- 3,4 — mole of Cr+3 ions are involved in population inversion process in a.pulse,
+calculate the pulse energy in eV.
+Q4
+CO-2; Describe construction and working of He-Ne laser with suitable diagram. 10
+BL-1,2
+ae Compare type I and type II superconductors. 6
+“| The resistivity of a doped Si sample is 8.9 x 103 Q-m. The Hall coefficient
+Bie 3; of the sample is found to be 3.06 x 10% m?/C. Assuming a single carrier 4
+conduction, find the concentration and mobility of charge carriers.
+5 State Maxwell’s equations in integral and differential form. What is the
+pan 4 significance of each equatioA? 0
+--- page 3 ---
+,
+
+CO-1; Explain the origin of nuclear force. State the characteristics of nuclear
+BL-1,2 force.
+Two-point charges of 0.7mC and 4.9uC are situated in free space at (2,3,6)
+ae 3 and (0,0,0). Assume distances are in meter; calculate the force acting-on _|4
+the 0.7mC charge.
+Q6 — : we .
+Obtain expressions for critical angle, acceptance angle and numerical 10
+ok 2 aperture in terms of its core and cladding refractive indices.
+co ;
+A light of 500 nm wavelength is incident normally on a single slit. The first
+CO-2,3: minimum of Fraunhofer diffraction pattern is observed to lie at a distance
+BL3.4 of 5 x 10“) m from the central, maximum on a screen placed at a distance . | 6
+> of 2 m away from the slit. What is the width of the slit?
+CO-1; ; . _ 5
+BL-1,2 Why Plasma is defined as a quasi-neutral gas? 4
+Q7 . 2 : igs _ :
+With the help of suitable graph, explain the variation of binding energy per i
+; Fay 2 nucleon (BE/A) with increasing: mass number (A).
+Explain the isotope effect. The critical temperature Tc for Hg with isotopic
+~ pa - mass 199.5 is 4.185 K. What’will be its critical temperature when its 6
+isotopic mass is increased to 203.4?
+si ri Calculate the diameter of Fe°®. Given: RO = 1.2 fm. 4
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 1 · paper e92f29e6b1ab
@@ -5467,141 +5842,6 @@ A long straight wire carries a current | = 5 A. Find the magnetic field at a dis
 = 0.2 m from the wire.
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · paper c469343ee760
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PHYSICS/B Tech, Physics, Sem-II, Batch 2022-23, 2023-24, 2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 July 2026
-- Text: ocr (2 pages), mean OCR confidence 88.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Academic Year: 2025-26
-Program: B TECH (MECH/CIVIL/CSE-DS(7057))
-
-wore
-
-Year: I Semester : []
-Subject: Physics ; °
-
-Time: 10.00 am to 1.00 pm (3 hrs) ES,
-Date : 01 July 2026 : UNIVERSE
-No. of Pages: O2
-Marks: 100
-Re-Exam (2022-23/2023-24/2024-25)
-Instructions: oe OO
-
-1. This question paper contains 2 pages.
-
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-
-4. Question No. | is compulsory.
-
-5. Out of the remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-
-7. Assume Suitable data if necessary.
-
-Q1 Answer briefly: [20]
-a. | Show with self-explanatory diagram, the variation in fermi energy level with
-COo-1 temperature and doping concentration in case of n type and p type semiconductor. | [4]
-[ Only labeled diagram, no text]
-b. | List any four differences between interference and diffraction. {one difference must
-CO-2 : ; (4]
-be the intensity spectrum curve] .
-Co-3 c. | The band gap of GaAs is 1.45eV. What is the wavelength of LASER beam
-emitted by the GaAs diode LASER? (4)
-CO-4 d. | State Faraday’s law with its mathematical form. 7 {4]
-CO-5 e. | Describe any two real-life applications of plasma. [4]
-Q2 20
-coi a. Discuss band theory in details with appropriate diagram. Classify the solids based on [10]
-band theory and list any 4 differences between them.
-b. | State how the conductivity of intrinsic semiconductor affects with temperature?
-col Find the concentration of holes and electrons in N type Si at 300k, if the conductivity | [6]
-
-is 300 mhos. Given that ni= 1.5 x 10!° /em? pt, =1300 cm2/VS.
-c. Inan optical fiber, the refractive index of the core is 1.5 and that of the cladding is
-
-CO 3 1.35. Determine the Numerical aperture, acceptance angle, critical angle, and angle [4]
-of acceptance cone.
-Q3 20
-a. | Write short note on- (a) Spontaneous emission, (b) metastable state(c) V number
-“| CO-3 (d)Numerical aperture (e) graded index fiber. [Explain with appropriate [10]
-diagram]
-
-b. } A plane diffraction grating has 5000 lines per cm and is used to observe light of
-wavelength 6000 A in the first order.
-
-CO-2 (a) Calculate the angular dispersive power of the grating. [6]
-(b) If the total number of illuminated’lines on the grating is 10,000, determine the
-resolving power of the grating.
-
-(c) Find the minimum wavelength difference that can be resolved at this wavelength.
-
-f
-CO-4 © | What is meant by flux of an electric field? [4]
-
-FOR 7 RA KE
---- page 2 ---
-shee
-
-[ A uniform electric field with a magnitude of E = 400 N/C is incident on a plane surface
-of area S = 10 m? and makes an angle of @ = 30° with it. Find the electric flux through
-
-this surface? . ° .
-as [20]
-a. | Explain the formation of Newton’s ring in ‘case of interference. In case of reflected
-CO-2 system of Newton’s ring, prove that the diameter of dark ring is directly proportional | [10]
-to the square root of order of the ring. .
-CO-5 b. | Calculate the penetration depth in mercury at 0K and 4.1K, if the critical temperature 16]
-of mercury is 5.2K and the penetration depth is 67 nm. at 3.1 K.
-CO-1 c. | Find the probability of occupancy of a state of energy (a) 0.05 eV above the Fermi 4]
-energy (b) 0.05 eV below the Fermi energy. Assume a temperature of 300 K.
-Q5 [20]
-a. | Explain the construction and working of He-Ne laser with schematic and energy
-CO-3 ; [10]
-level diagrams.
-cO-5 b. | Explain (a) the diamagnetism and (b) the critical magnetic effect in
-a os [6] ua
-superconductivity.
-c. | Determine the Hall potential difference across a copper strip (2 cm wide and 1 mm
-CO-1 thick) placed in a magnetic field (B = 1.5 Wb/m?) perpendicular to the strip. Given a [4]
-current of 200 A and an electron density of N = 8.4 x 1078 electrons/m?, what Hall
-potential would develop?
-Q6 : [20]
-CO-4 a. | State and derive Maxwell’s first equation in its integral and differential form. [10]
-b. | Three-point charges q1=5 wC, q2=<3 uC, and q3=2 uC are placed along a straight line.
-CO-4 The distance between ql and q2 is 0.2 cm, and between q2 and q3 is 0.3 cm. Calculate [6]
-the net electrostatic force acting on the middle charge. Also state the nature (direction) of
-the force. (Permittivity of free space =8.854«107!? C?/(N-m)
-co-5 © | Define nuclear radius. If the approximate radius of a single nucleon (nuclear radius [4]
-constant) ro is 1.2 fm, calculate the nuclear radius of 56 Fe.
-Q7 [20]
-CO-5 a. | Define superconductors and superconductivity. Discuss type 1 and type 2
-
-: . : : : 10
-superconductors in details with appropriate diagram. [10]
-
-b. | Define wedge shaped film with appropriate diagram. State the condition of maxima G.]
-
-and minima in case of wedge-shaped thin film.
-
-CO-2 ; ; _ a [6]
-In a thin film interference setup, a soap film of refractive index 1.33 is illuminated by
-light of, wavelength 5500 A. If the film appears dark in reflected light at normal
-incidence, determine the minimum thickness of the film.
-
-1c0-5 c. | Discuss the bottom-up approach used in synthesizing nanomaterials with appropriate
-: ‘ [4]
-labelled diagram
-
-FOO 2 REE
-````
-
 ## 2023-24 · Final + Re-Exam · Sem 1 · paper d0b55239fd2f
 
 - Departments: Common (all branches)
@@ -5805,127 +6045,6 @@ Explain the photoionization process of producing plasma.
 [6]
 
 (4)
-````
-
-## 2023-24 · Re-Exam · Sem 1 · paper 0f4c36bb3776
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/PHYSICS/B Tech, (IT, MXTC, DS, CSE-CS, AI), Physics, Sem-I Batch 2022-2023 & 2023-24 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 87.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026
-Program/s: BTech/MBA Tech Year: [ Semester: I
-
-Stream/s ; All streams
-
-Subject: Physics Time: 3 hrs ( R0opmto 5! E22)
-
-Date:_27 /W_/ 2025 . No. of Pages: 3
-Marks: 100
-Re-Examination (Re-exam - 2022-23, 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4__ questions.
-
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Values of Constants: ;
-
-Planck’s constant h = 6.625 x 10°4 J-s, Speed of light, c = 3 x 10° m/s, electronic mass, me = 9.1 x 103! kg,
-
-electronic charge, e = 1.6 x 10°'? C, Boltzmann’s constant, ks = 1.38 x 103 J/K
-
-; Qt ,;
-Answer briefly: [20]
-ms ; > a Define conduction band and valance band. 4
-a 7 P b. Differentiate between interference and diffraction. 4
-c. .
-. Find out the numerical aperture and acceptance angle of an optical fiber.
-
-CO-1, 3; : 7 os
-
-BL-3 [Given, n]-=1.55, n2 = 1.50]
-
-CO- 1; d, State and explain the Coulomb’s law. 4
-| BL-1,2 _ ;
-
-CO-1: e What is the top-down and bottom-up approach for synthesizing
-BL-I, 2 nanomaterials? :
---- page 2 ---
-Q2 a Draw and explain the intensity distribution curve for single-slit, double-
-
-CO-2, 3; slit, and multiple-slit diffraction, along with their intensity distribution 10
-BL-3 equations, including the meaning of each term. .
-CO-1; b In Newton’s ring experiment prove that in reflected light the diameter of
-BL-3 the dark ring is proportional to the square root of its order number.
-
-c A Si sample, with intrinsic carrier concentration of 9.8 x 10!> /m? at 300 K,
-CO-2, 3; is made n type material. If the density of donor atoms is 10?! /m}, 4
-
-BL-3,4
-I determine the electron and hole densities.
-
-Q3 a Prove that for an intrinsic semiconductor, at low temperature, Fermi level 0
-eae! 4 lies at the half of the energy band gap.
-CO-1; b . . . : : :
-BL-3 Differentiate solids according to energy band structure. 6
-c A ruby laser has its metastable state at 1.79 eV from which the stimulated
-CO-2, 3; emission produces laser light. Calculate the wave length of the light. If2
-BL- 3,4 mole of Cr+3 ions are involved in population inversion process in a.pulse,
-calculate the pulse energy in eV.
-Q4 a
-CO-2; Describe construction and working of He-Ne laser with suitable diagram. | 10
-BL-1, 2
-ous b Compare type I and type II superconductors. 6
-c The resistivity of a doped Si sample is 8.9 x 10° Q-m. The Hall coefficient
-ae e of the sample is found to be 3.06 x 10 m°/C. Assuming a single carrier 4
-conduction, find the concentration and mobility of charge carriers.
-Q5 a
-
-State Maxwell’s equations in integral and differential form. What is the
-
-CO-1; significance of each equation? =
-BL-3,4 8 quahions
---- page 3 ---
-CO-1; Explain the origin of nuclear force. State the characteristics of nuclear
-BL-I, 2 force.
-Two-point charges of 0.7mC and 4.9uC are situated in free space at (2,3,6)
-ey 3 and (0,0,0). Assume distances are in meter; calculate the force acting-on 4
-the 0.7mC charge.
-Q6 Obtain expressions for critical angle, acceptance angle and numerical 7"
-a 2 aperture in terms of its core and cladding refractive indices.
-A light of 500 nm wavelength is incident normally on a single slit. The first
-CO-2. 3: minimum of Fraunhofer diffraction pattern is observed to lie at a distance
-BL34 of 5 x 10) m from the central maximum on a screen placed at a distance | 6
-7 of 2 m away from the slit. What is the width of the slit?
-| CO-1; Why Plasma is defined i-neutral gas?
-BL-1,2 y Plasma is defined as a quasi-neutral gas? 4
-Q7 With the help of suitable graph, explain the variation of binding energy per 7
-let 2 nucleon (BE/A) with increasing. mass number (A).
-Explain the isotope effect. The critical temperature Tc for Hg with isotopic
-a K mass 199.5 is 4.185 K, What will be its critical temperature when its 6
-isotopic mass is increased to 203.4?
-aa 3 Calculate the diameter of Fe**. Given: RO = 1.2 fm. 4
---- page 4 ---
-
 ````
 
 ## 2023-24 · Re-Exam · Sem 1 · paper 01fcc752120b
@@ -6203,125 +6322,6 @@ index is 1.33 which wavelength is reflected strongly in the visible region?
 CO-1,2; c.
 
 BL-1.2 List the processes of producing plasma and discuss any one in details. [4]
-````
-
-## 2023-24 · Re-Exam · Sem 1 · paper 6ada867bcded
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/PHYSICS/Physics, Sem-I, Re-exam 2022-23,2023-24.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 87.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-SCHOOL OF TECHNOLOGY MANAGEMENT *
-Academic Year: 2025-2026 ;
-Program/s: BTech/MBA Tech Year: I Semester: I
-
-Stream/s ; All streams
-
-Subject: Physics Time: 3 hrs ( 2:00pmto area pane)
-
-Date:_27 /\W_/ 2025 . No. of Pages: 3
-Marks: 100
-Re-Examination (Re-exam - 2022-23, 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-y> of the Answer Book, which is provided for their use.
-
-1) Question No._1____ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) Inall___5_ questions to be attempted. .
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Values of Constants: .
-
-Planck’s constant h = 6.625 x 10°4 J-s, Speed of light, c = 3 x 108 m/s, eléctronic mass, me = 9.1 x 107! kg,
-
-electronic charge, e = 1.6 x 10°! C, Boltzmann’s constant, kp = 1.38 x 10° J/K
-
-Ql ; :
-
-Answer briefly: [20]
-CO-1; a. Define conduction band and valance band. 4
-
-aa BL-1, 2 : :
-oC : 5 b. Differentiate between interference and diffraction. 4
-Gs :
-CO-1. 3: Find out the numerical aperture and acceptance angle of an optical fiber.
-BL-3 > [Given, n1-=1.55, n2 = 1.50]
-Co- I; d. State.and explain the Coulomb’s law. ~
-BL-1,2__ . .
-CO-1: e What is the top-down and bottom-up approach for synthesizing
-BL-1, 2 nanomaterials? :
-1
---- page 2 ---
--
-
-_—
-
-1
-
-Q2 Draw and explain the intensity distribution curve for single-slit, double-
-CO-2, 3; slit, and multiple-slit diffraction, along with their intensity distribution 10
-BL-3 equations, including the meaning of each term. ;
-CO- 1; In Newton’s ring experiment prove that in reflected light the diameter of
-BL-3 the dark ring is proportional to the square root of its order number.
-A Si sample, with intrinsic carrier concentration of 9.8 x 10'5 /m? at 300 K,
-: ri is made n type material. If the density of donor atoms is 107! /m3, 4
-| determine the electron and hole densities.
-Q3 Prove that for an intrinsic semiconductor, at low temperature, Fermi level
-pr 4 lies at the half of the energy band gap. 0
-oes Differentiate solids according to energy band structure. 6
-A ruby laser has its metastable state at 1.79 eV from which the stimulated
-CO-2, 3; emission produces laser light. Calculate the wave length of the light. If 2
-BL- 3,4 — mole of Cr+3 ions are involved in population inversion process in a.pulse,
-calculate the pulse energy in eV.
-Q4
-CO-2; Describe construction and working of He-Ne laser with suitable diagram. 10
-BL-1,2
-ae Compare type I and type II superconductors. 6
-“| The resistivity of a doped Si sample is 8.9 x 103 Q-m. The Hall coefficient
-Bie 3; of the sample is found to be 3.06 x 10% m?/C. Assuming a single carrier 4
-conduction, find the concentration and mobility of charge carriers.
-5 State Maxwell’s equations in integral and differential form. What is the
-pan 4 significance of each equatioA? 0
---- page 3 ---
-,
-
-CO-1; Explain the origin of nuclear force. State the characteristics of nuclear
-BL-1,2 force.
-Two-point charges of 0.7mC and 4.9uC are situated in free space at (2,3,6)
-ae 3 and (0,0,0). Assume distances are in meter; calculate the force acting-on _|4
-the 0.7mC charge.
-Q6 — : we .
-Obtain expressions for critical angle, acceptance angle and numerical 10
-ok 2 aperture in terms of its core and cladding refractive indices.
-co ;
-A light of 500 nm wavelength is incident normally on a single slit. The first
-CO-2,3: minimum of Fraunhofer diffraction pattern is observed to lie at a distance
-BL3.4 of 5 x 10“) m from the central, maximum on a screen placed at a distance . | 6
-> of 2 m away from the slit. What is the width of the slit?
-CO-1; ; . _ 5
-BL-1,2 Why Plasma is defined as a quasi-neutral gas? 4
-Q7 . 2 : igs _ :
-With the help of suitable graph, explain the variation of binding energy per i
-; Fay 2 nucleon (BE/A) with increasing: mass number (A).
-Explain the isotope effect. The critical temperature Tc for Hg with isotopic
-~ pa - mass 199.5 is 4.185 K. What’will be its critical temperature when its 6
-isotopic mass is increased to 203.4?
-si ri Calculate the diameter of Fe°®. Given: RO = 1.2 fm. 4
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 1 · paper dd8cd1c56a29
@@ -6759,6 +6759,7 @@ BL-=5
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PHYSICS/Physics, Common Paper, Sem-II, Year 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 87.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -6836,7 +6837,6 @@ BL-3, 4 Charge A = -10 uC, charge B = +10 pC and charge C = -245u1€.
 Calculate the net electrostatic force on particle B due to the other two
 charges.
 
-ee ie eee ee + se a ee =i
 oO 6cm @ 4am &
 
 Q6

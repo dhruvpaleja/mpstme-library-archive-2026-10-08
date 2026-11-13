@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/6th YEAR/COMPUTER/Sem_12/MOBILE COMPUTING/Mobile Computing Batch 2024-25 Final Batch 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 May 2025
 - Text: ocr (2 pages), mean OCR confidence 88.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS $
@@ -75,7 +76,6 @@ communication networks are unavailable, and a Zone Routing Protocol | [10]
 Analyze the advantages of ZRP in maintaining communication in an
 emergency response network.
 
-2 ok ok ok oR RRR ae ek
 --- page 2 ---
 b. | Briefly explain how the Android OS architecture differentiate its key
 
@@ -117,7 +117,6 @@ CO-2; SO- _ : : ‘ ; .
 synchronization: in Slotted ALOHA affects network efficiency
 compared to the original ALOHA protocol.
 
-SRR RR RA Da a ke
 ````
 
 ## 2024-25 · Final-Exam · Sem 12 · paper 6b8a901edf1a
@@ -346,6 +345,129 @@ CO-2; SO-   possibility of collision in MACA scheme. Briefly explain any one
 1; BL-3
 drawback of MACA.
 ********** 2 **********
+````
+
+## 2023-24 · Exam not stated · Sem 8 · paper dc88768354e7
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/MOBILE COMPUTING/Mobile Computing.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS& E
+Academic Year: 2023-2024
+
+Program: MBA Tech Year: [V_ Semester: VIII
+Stream; EXTC
+
+Subject: Mobile Computing . Time: O32 hrs (2-00 proto 5:00 pry)
+Date:_27_ / 04 / 2024 No. of Pages: 02
+Marks: 100
+
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. .
+
+Ql Answer the following: [20]
+
+CO-1; SO- 1; a. | What are the applications of mobile computing. [5]
+
+BL-1
+
+CO- 2; SO- 1; | b. | What are the bearer services offered in WAP stack protocol and why? [5]
+
+BL-1
+
+CO- 3; SO- 1; | c. | Explain the term- Home Agent, Foreign Agent, Co-located address. [5]
+
+BL-2
+
+CO-4; SO-2; d. | What is MANET? Why routing protocols are designed? [5]
+(j= BL-1
+
+Q2 a. | Explain the process of data delivery in Mobile IP from correspondent node and [10]
+
+CO- 3; SO-1; Mobile node with relevant diagram.
+
+BL-2
+
+Q2 b. | Discuss the operation of Indirect TCP and Snooping TCP. Whether it is same or [10]
+
+CO- 3; SO-1; different?
+
+BL-6
+
+Q3 a. | Explain the working of CDMA mechanism and show how it will differ from [10]
+
+CO- 3; SO-1; FDMA and TDMA.
+
+BL-2
+
+Q3 b. | What approach is used in alternative metrics. Draw and explain the working of [10]
+
+CO- 4; SO-1; interference-based routing protocol.
+
+BL-1,2
+--- page 2 ---
+Q4 a. | Why congestion control is required in mobile TCP. Explain the slow start and fast [10]
+
+CO- 3; SO- 1; retransmission mechanism adopted traditional TCP.
+
+BL- 1,2
+Q4 b. | List the features of WAP. Draw and explain the complete WAP protocol stack. [10]
+CO- 2; SO- 1;
+
+BL- 1,2
+Q5 a. | How to solve the problem of Hidden and exposed terminal, and near far effect in | [10]
+CO- 3; SO-1; wireless MAC. Explain with the help of relevant diagram. List its advantages.
+
+BL- 1,2,
+
+Q5 b. | Explain the process of agent discovery and registration. Justify your answer: Can_ | [10]
+CO- 3; SO-1; the working principle is same or different?
+
+BL-2,5
+
+Q6 a. | (i) Explain the types of security is adopted adhoc network and its need. [5]
+CO- 4; SO-1; (ii) Explain the objective and working principle of DSR routing protocol. [5]
+BL-2 .
+
+Q6 b. | Explain the WAP programing model. How it is different from the classical [10]
+CO- 2; SO-1; approach. :
+
+BL2
+
+Q7 a. | Draw mobile computing architecture. [5]
+CO- 1; SO-1;
+
+BL-2
+
+Q7 b. | Explain in detail the MACA mechanism, its purpose and working principle. Also, | [5]
+CO-3; SO-1; draw the relevant diagram of the process.
+
+BL-2
+
+Q7 c. | Explain the process time out freezing TCP and recommendation of TCP for new _| [10]
+CO-3: $O-1: developed technologies. .
+
+BL-2
 ````
 
 ## 2023-24 · Final-Exam · Sem 10 · paper c95ea1d25f1c
@@ -740,6 +862,111 @@ C0-4, 80-6; | q,
 Bra | Differentiate between routing in wired networks and wireless networks. [05]
 
 Page 3 of 3
+````
+
+## 2023-24 · Re-Exam · Sem 8 · paper db84b7431cf1
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/MOBILE COMPUTING/Mobile Computing Re-exam 2022-2023.pdf`
+- Printed on paper: max marks: 100; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024
+
+¥
+
+Program: MBA Tech Year: IV. Seméster: VIII
+
+Stream; EXTC
+
+Subject: Mobile Computing Time: _ 02 hrs (2:00Pmto S200}
+Date:_29/ 6 / 2024 No. of Pages: 02
+Marks: 100
+
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided fer their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any _4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer the following: [20]
+CO-1;SO-1; | a. | What are the features of mobile computing devices. Show with relevant example. | [5]
+BL-1
+
+CO- 2; SO- 1; | b. | Why WAP model is designed. What is specialty of it? [5]
+BL-1
+
+CO- 3; SO- 1; | c. | Define the term tunneling and reverse tunneling. [5]
+BL-2
+
+CO-4; SO-2; d. | What are the features of MANET and its advantages? [5]
+BL-1
+
+Qz a. | Explain the optimization process with relevant diagram. Why it is required? [10]
+CO- 3; SO-1;
+
+BL-2
+
+Q2 b. | Discuss the operation of Mobile TCP and Transaction oriented TCP. Give [10]
+CO- 3; SO-1; respective advantage and disadvantage of each.
+
+BL-6
+
+Q3 a. | Explain persistent mechanism of CSMA mechanism. Draw the diagram of Spread | [10]
+CO- 3; SO-1; Aloha multiple access mechanism.
+
+BL- 2
+
+Q3 b. | Compare the types of MANET routing protocols on various factors. Explain their | [10]
+CO- 4; SO-1; process of working.
+
+BL-2
+--- page 2 ---
+Q4 a. | How to overcome congestion in TCP. Explain any two processes of it. [10]
+
+CO- 3; SO- 1; vi
+BL- 1,2 .
+Q4 b. | How to communicate from fixed network to wireless network using WAP model. | [10]
+CO- 2; SO- 1; What is the significance of WAP 2.0.
+BL- 1
+Q5 a. | Why MACA mechanism is proposed. Explain its process in detail with simple [10]
+CO- 3; SO-1; structure and with state transition structure.
+BL- 1,2,
+Q5 b. | What is agent discovery and agent solicitation. Draw the process of data delivery | [10]
+CO- 3; SO-1; from CN to MN (in foreign network).
+‘| BL-2,5
+Q6 a. | Explain the types of attacks in network. How to resolve the attacks. [10]
+CO- 4; SO-1;
+BL-2
+Q6 b. | Demonstrate the WAP protocol stack and give working details of each layer. [10]
+CO- 2; SO-1;
+BL-2
+Q7 a. | Define pervasive and ubiquitous computing. Give application of mobile [5]
+CO- 1; SO-1; computing.
+BL-1
+Q7 b. | Explain polling and ISMA technique. [5]
+CO-3; SO-1;
+BL-2
+Q7 c. | How does snooping TCP is differ from Indirect TCP. Draw their relevant [10]
+CO-3: SO-1: diagram while describing the process of each.
+BL-1,2
+2
 ````
 
 ## 2022-23 · Final-Exam · Sem 7 · paper 72c31031fbee
@@ -1212,111 +1439,6 @@ Q7 c. Assess the traditional TCP on following points [8]
 CO-3; i. slow start
 SO-6; ii. congestion avoidance
 BL-5 iii. fast retransmit/fast recovery
-2
-````
-
-## 2022-23 · Re-Exam · Sem 8 · paper db84b7431cf1
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/MOBILE COMPUTING/Mobile Computing Re-exam 2022-2023.pdf`
-- Printed on paper: max marks: 100; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2023-2024
-
-¥
-
-Program: MBA Tech Year: IV. Seméster: VIII
-
-Stream; EXTC
-
-Subject: Mobile Computing Time: _ 02 hrs (2:00Pmto S200}
-Date:_29/ 6 / 2024 No. of Pages: 02
-Marks: 100
-
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided fer their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any _4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer the following: [20]
-CO-1;SO-1; | a. | What are the features of mobile computing devices. Show with relevant example. | [5]
-BL-1
-
-CO- 2; SO- 1; | b. | Why WAP model is designed. What is specialty of it? [5]
-BL-1
-
-CO- 3; SO- 1; | c. | Define the term tunneling and reverse tunneling. [5]
-BL-2
-
-CO-4; SO-2; d. | What are the features of MANET and its advantages? [5]
-BL-1
-
-Qz a. | Explain the optimization process with relevant diagram. Why it is required? [10]
-CO- 3; SO-1;
-
-BL-2
-
-Q2 b. | Discuss the operation of Mobile TCP and Transaction oriented TCP. Give [10]
-CO- 3; SO-1; respective advantage and disadvantage of each.
-
-BL-6
-
-Q3 a. | Explain persistent mechanism of CSMA mechanism. Draw the diagram of Spread | [10]
-CO- 3; SO-1; Aloha multiple access mechanism.
-
-BL- 2
-
-Q3 b. | Compare the types of MANET routing protocols on various factors. Explain their | [10]
-CO- 4; SO-1; process of working.
-
-BL-2
---- page 2 ---
-Q4 a. | How to overcome congestion in TCP. Explain any two processes of it. [10]
-
-CO- 3; SO- 1; vi
-BL- 1,2 .
-Q4 b. | How to communicate from fixed network to wireless network using WAP model. | [10]
-CO- 2; SO- 1; What is the significance of WAP 2.0.
-BL- 1
-Q5 a. | Why MACA mechanism is proposed. Explain its process in detail with simple [10]
-CO- 3; SO-1; structure and with state transition structure.
-BL- 1,2,
-Q5 b. | What is agent discovery and agent solicitation. Draw the process of data delivery | [10]
-CO- 3; SO-1; from CN to MN (in foreign network).
-‘| BL-2,5
-Q6 a. | Explain the types of attacks in network. How to resolve the attacks. [10]
-CO- 4; SO-1;
-BL-2
-Q6 b. | Demonstrate the WAP protocol stack and give working details of each layer. [10]
-CO- 2; SO-1;
-BL-2
-Q7 a. | Define pervasive and ubiquitous computing. Give application of mobile [5]
-CO- 1; SO-1; computing.
-BL-1
-Q7 b. | Explain polling and ISMA technique. [5]
-CO-3; SO-1;
-BL-2
-Q7 c. | How does snooping TCP is differ from Indirect TCP. Draw their relevant [10]
-CO-3: SO-1: diagram while describing the process of each.
-BL-1,2
 2
 ````
 
@@ -2523,6 +2645,66 @@ _ c. HSCSD
 d. Mobility Support in IPV4
 ````
 
+## 2017-18 · Re-Exam · Sem 7 · paper 540fed52ca65
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/VII SEMESTER/MOBILE COMPUTING/Mobile computing 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 23 November 2017
+- Text: text (2 pages)
+
+````text
+•
+\.~
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA Tech (IT)   Year: IV   Semester: VII
+Batch: 2016-17
+Academic Year: 2017-2018
+Subject: Mobile Computing
+Marks: 60 ---
+Date: 23 November 2017 /'   Time: 2.00 pm - 5.00 pm
+Durations: 3 Hrs
+No. of Pages: --02
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining six questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data if necessary.
+------------------------------~--------------------------------------------------------------------------------------------
+Q.1 a) What is Process Migration? How this process migratiorr does takes place in a mobile
+computing environment.   Explain with an example.   [6]
+b) Draw and explain the different layers ofWAP protocol stack.   [6]
+Q.2 a) What are Aglets? Explain Aglet Life Cycle model with a neat diagram.   [6]
+b) What is XHTML and XHTML-MP? Explain the core difference between them.   [6]
+Q.3 a) What are the different applications and characteristics   of Mobile agents with an example. [6]   -
+b) What are the design issue related to Mobile Databases? Which issue plays a vital role for
+improving the efficiency of mobile data bases.   [6]
+Q.4 a) What is Palm Operating system and Symbian operating system. Explain in detail.   [6]
+b) What are mobile agents? Explain the requirement   of mobile agents.   [6]
+~ / !
+-Yz.--
+--- page 2 ---
+•
+. --..
+Q.5 a) What is CODA file system? Explain it in detail. [6]
+b) Compare Windows mobile operating system and Android Operating System using there
+salient features.   [6]
+Q.6 a) What are the different types of Mobile Agents Platform?   [6]
+b) Compare WAP2.0 with WAPl.O on basis of operations used in WAP gateway.   [6]
+Q.7 Write a short note on following(any 3):-   [12]
+,a)   Applications of Mobile Computing.
+b) Steps of process Migration.
+c) Windows CE.
+d) iOS Operating System.
+e) Personal Digital Assistant.
+-
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper a07e6ee7e5db
 
 - Departments: Computer Applications (MCA)
@@ -2899,66 +3081,6 @@ it 7 --X -X-- -
 \
 ````
 
-## 2016-17 · Re-Exam · Sem 7 · paper 540fed52ca65
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/VII SEMESTER/MOBILE COMPUTING/Mobile computing 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 23 November 2017
-- Text: text (2 pages)
-
-````text
-•
-\.~
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA Tech (IT)   Year: IV   Semester: VII
-Batch: 2016-17
-Academic Year: 2017-2018
-Subject: Mobile Computing
-Marks: 60 ---
-Date: 23 November 2017 /'   Time: 2.00 pm - 5.00 pm
-Durations: 3 Hrs
-No. of Pages: --02
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining six questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data if necessary.
-------------------------------~--------------------------------------------------------------------------------------------
-Q.1 a) What is Process Migration? How this process migratiorr does takes place in a mobile
-computing environment.   Explain with an example.   [6]
-b) Draw and explain the different layers ofWAP protocol stack.   [6]
-Q.2 a) What are Aglets? Explain Aglet Life Cycle model with a neat diagram.   [6]
-b) What is XHTML and XHTML-MP? Explain the core difference between them.   [6]
-Q.3 a) What are the different applications and characteristics   of Mobile agents with an example. [6]   -
-b) What are the design issue related to Mobile Databases? Which issue plays a vital role for
-improving the efficiency of mobile data bases.   [6]
-Q.4 a) What is Palm Operating system and Symbian operating system. Explain in detail.   [6]
-b) What are mobile agents? Explain the requirement   of mobile agents.   [6]
-~ / !
--Yz.--
---- page 2 ---
-•
-. --..
-Q.5 a) What is CODA file system? Explain it in detail. [6]
-b) Compare Windows mobile operating system and Android Operating System using there
-salient features.   [6]
-Q.6 a) What are the different types of Mobile Agents Platform?   [6]
-b) Compare WAP2.0 with WAPl.O on basis of operations used in WAP gateway.   [6]
-Q.7 Write a short note on following(any 3):-   [12]
-,a)   Applications of Mobile Computing.
-b) Steps of process Migration.
-c) Windows CE.
-d) iOS Operating System.
-e) Personal Digital Assistant.
--
-````
-
 ## 2015-16 · Final-Exam · Sem 8 · paper 52cf9731c146
 
 - Departments: Computer Engineering
@@ -3183,6 +3305,69 @@ X x
 2,
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper b68a777fddc2
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MOBILE COMPUTING/MOBILE COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM_b68a777fdd.pdf`
+- Printed on paper: max marks: 100; exam date: 11/05/2016
+- Text: ocr (1 page), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: IV Semester: VIII
+
+Academic Year: 2015-16
+
+Batch:2013-14
+
+Subject: Mobile Computing Marks: 100
+Time: 10.00
+
+Date: 11/05/2016 Durations: 3 h'
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the answer book, which is provided for their use.
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+iis 4. All questions carry equal marks.
+5. Answer to each question to be started on a fresh paper.
+6. Figures in brackets on the right hand side indicate full marks.
+
+1. (a) Define Mobile Computing? Explain the characteristics of Mobile computing. (10)
+(b) When does the exposed terminal problem arise? Explain your answer using a (10)
+suitable example.
+
+2. (a) What is Mobile Agent? Explain Mobile Agent Platform. (10)
+(b) | What do you mean by Agent Solicitation? Explain Agent advertisement procedure (10)
+of Mobile IP?
+
+3. (a) What is Venus and Vice processes? How communication is performed in CODA (10)
+
+file system?
+(b) Describe the working of ZRP with the help of suitable example. (10)
+4. (a) Explain WAP Protocol stack in detail. (10)
+i (b) | What is Route Optimization in Mobile IPV6? Explain the properties of Mobile (10)
+IPV6.
+5s (a) | What is TDMA? Give the advantages and disadvantages of TDMA. (10)
+(b) Explain the concept of TCP over 2.5/3G wireless network. (10)
+6. (a) Expiain Hierarchical State Routing protocol. (19)
+(b) Discuss the architecture of the Android OS. (10)
+a 7. Write short notes on: (any two) (20)
+(i) | Naming and File Identifier in CODA file system
+7 (ii) | Symbian Operating System
+2a (iii) Working of AODV protocol
+
+8 +
+
+Page 1/1
+````
+
 ## 2015-16 · Re-Exam · Sem 3 · paper 2af8fd78ecf5
 
 - Departments: Computer Applications (MCA)
@@ -3382,6 +3567,170 @@ iv. Alternatives to process migration
 v. Palm OS
 vi. iOS
 ¥_— >
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper 3655a846920a
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MOBILE COMPUTING/MOBILE COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS i.
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: IV Semester: VIII
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Mobile Computing
+Marks: 100 !
+Date: 11/05/2015 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining 6 questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+1.
+a. What is the need for Mobile computing? List & explain its different applications.
+[10]
+b. Draw & explain 3-tier architecture of mobile computing. [10]
+2.
+a. How is mobile IP implemented in IPv4? Discuss Agent discovery & registration
+in this case. [10]
+b. Define mobile agent. What are Aglets? Explain Aglet life cycle model with
+diagram. [10]
+3.
+a. Discuss problem of hidden & exposed terminals and near and far terminals? And
+how it can be resolved for wireless networks. Suggest some protocol. [10]
+b. Explain Packet reservation multiple access protocol with example. [10]
+4.
+a. What is encapsulation? Explain IP-in-IP encapsulation in detail. [10]
+b. Explain Dynamic Host Configuration Protocol mechanism for Client-Server
+Model with diagram. [10]
+as
+
+a. What is process migration? List steps in process migration with neat diagram.
+--- page 2 ---
+[10]
+Explain WAP architecture. [10]
+
+Compare mobile -TCP & Indirect -TCP for wireless communication, with their
+
+Advantages & Disadvantages. [10]
+What is CODA file system? Explain stages involved in CODA file system for
+
+disconnected operation and server replication. : [10]
+Explain various design issues of mobile databases. [10]
+
+. Explain routing issues in MANET. Compare & contrast DSR & AODV. [10]
+
+x
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper d8f2c1a21c27
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MOBILE COMPUTING/MOBILE COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM_d8f2c1a21c.pdf`
+- Printed on paper: exam date: 01/07/2015
+- Text: ocr (2 pages), mean OCR confidence 89.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: IV Semester: VIII
+
+Batch: 2013-14
+Academic Year: 2014-2015.
+os ee
+
+Subject: Mobile Computing ‘ oT Ss
+Marks: 6%
+Date: 01/07/2015 Z Time: pig 0 pm to 5.00 pm
+‘ Durations; [Se(rrs)
+
+a ~~" fae h
+
+‘ Gas fs
+
+Re-Examination ue
+es Wg << a
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining 6 questions, attempt any % questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+a. Draw & explain 3-tier architecture of mobile computing. {10]
+b. What is the need for Mobile computing? What are its requirements? List &
+explain its different applications. [10]
+2s
+a. Define SDMA, TDMA, and FDMA & CDMA and Compare all of these
+mechanisms. [10]
+b. What is process migration? List steps in process migration with neat diagram.
+[10]
+3.
+
+a. Explain Dynamic Host Configuration Protocol mechanism for Client-Server
+
+Model with diagram. [10]
+b. What is Encapsulation and Decapsulation? List & explain different types of
+
+(10)
+4/2.
+
+Encapsulation.
+--- page 2 ---
+Define mobile agent. What are Agiers? Explain Aglet life cycle model with
+
+diagram. [10]
+. Discuss problem of hidden & exposed terminals and near and far terminals? And
+how it can be resolved for wireless networks. Suggest some protocol. [10]
+
+List & explain Design Issues of Mobile databases. ? Explain stages involved in it
+
+gmt Ve
+
+for disconnected operation & server replication. [10]
+Explain I-TCP with its advantages & Disadvantages. [10]
+
+. Explain Transaction oriented TCE with its advantages & disadvantages. [10]
+. Explain routing in DSDV with its advantages & Disadvantages. [10]
+
+Differentiate between Android OS & Symbian OS. [10]
+Explain WAP programming Model. [10]
 ````
 
 ## 2014-15 · Re-Exam · Sem 7 · paper 2f1ab2015ce8
@@ -3736,83 +4085,6 @@ X X:
 ‘ft
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper 3655a846920a
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MOBILE COMPUTING/MOBILE COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS i.
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: IV Semester: VIII
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Mobile Computing
-Marks: 100 !
-Date: 11/05/2015 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining 6 questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-1.
-a. What is the need for Mobile computing? List & explain its different applications.
-[10]
-b. Draw & explain 3-tier architecture of mobile computing. [10]
-2.
-a. How is mobile IP implemented in IPv4? Discuss Agent discovery & registration
-in this case. [10]
-b. Define mobile agent. What are Aglets? Explain Aglet life cycle model with
-diagram. [10]
-3.
-a. Discuss problem of hidden & exposed terminals and near and far terminals? And
-how it can be resolved for wireless networks. Suggest some protocol. [10]
-b. Explain Packet reservation multiple access protocol with example. [10]
-4.
-a. What is encapsulation? Explain IP-in-IP encapsulation in detail. [10]
-b. Explain Dynamic Host Configuration Protocol mechanism for Client-Server
-Model with diagram. [10]
-as
-
-a. What is process migration? List steps in process migration with neat diagram.
---- page 2 ---
-[10]
-Explain WAP architecture. [10]
-
-Compare mobile -TCP & Indirect -TCP for wireless communication, with their
-
-Advantages & Disadvantages. [10]
-What is CODA file system? Explain stages involved in CODA file system for
-
-disconnected operation and server replication. : [10]
-Explain various design issues of mobile databases. [10]
-
-. Explain routing issues in MANET. Compare & contrast DSR & AODV. [10]
-
-x
-````
-
 ## 2013-14 · Re-Exam · Sem 8 · paper 0d00ccaf2c45
 
 - Departments: Computer Engineering
@@ -3892,154 +4164,71 @@ A
 20
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper b68a777fddc2
+## 2013-14 · Re-Exam · Trim 8 · paper ff37d7929a64
 
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MOBILE COMPUTING/MOBILE COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM_b68a777fdd.pdf`
-- Printed on paper: max marks: 100; exam date: 11/05/2016
-- Text: ocr (1 page), mean OCR confidence 90.8
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/MOBILE COMPUTING/MOBILE COMPUTING BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/12/2013
+- Text: ocr (1 page), mean OCR confidence 87.5
 
 ````text
-SVKM’s NMIMS
+pecs DTETIN,
+
+Atta,
+
+SVKM’s NMIMS Ao SEE
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+aS \ a }
+Programme:MBA Tech (IT/Computer) Year: WM { Trimester: Vil
+Academic Year: 2013-14 Batch2 012-13 VA
 
-Programme: B.Tech (Computer) Year: IV Semester: VIII
+Subject : Mobile Computing
+Marks:100
 
-Academic Year: 2015-16
+Time : 10.00 am to 1.00 pm
+Durations:3 (hrs)
 
-Batch:2013-14
-
-Subject: Mobile Computing Marks: 100
-Time: 10.00
-
-Date: 11/05/2016 Durations: 3 h'
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the answer book, which is provided for their use.
+Date :12/12/2013
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+
+cover of the Answer Book, which is provided for their use.
+
 NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
+
+1. Question No. 1 is compulsory
+
+2. Out of remaining questions, attempt any 4 questions.
+
 3. Inall 5 questions to be attempted.
-iis 4. All questions carry equal marks.
-5. Answer to each question to be started on a fresh paper.
-6. Figures in brackets on the right hand side indicate full marks.
 
-1. (a) Define Mobile Computing? Explain the characteristics of Mobile computing. (10)
-(b) When does the exposed terminal problem arise? Explain your answer using a (10)
-suitable example.
+4. All questions carry equal marks.
 
-2. (a) What is Mobile Agent? Explain Mobile Agent Platform. (10)
-(b) | What do you mean by Agent Solicitation? Explain Agent advertisement procedure (10)
-of Mobile IP?
+5. Answer to each new question to be started on a fresh page.
 
-3. (a) What is Venus and Vice processes? How communication is performed in CODA (10)
+6. Figures in brackets on the right hand side indicates full marks
 
-file system?
-(b) Describe the working of ZRP with the help of suitable example. (10)
-4. (a) Explain WAP Protocol stack in detail. (10)
-i (b) | What is Route Optimization in Mobile IPV6? Explain the properties of Mobile (10)
-IPV6.
-5s (a) | What is TDMA? Give the advantages and disadvantages of TDMA. (10)
-(b) Explain the concept of TCP over 2.5/3G wireless network. (10)
-6. (a) Expiain Hierarchical State Routing protocol. (19)
-(b) Discuss the architecture of the Android OS. (10)
-a 7. Write short notes on: (any two) (20)
-(i) | Naming and File Identifier in CODA file system
-7 (ii) | Symbian Operating System
-2a (iii) Working of AODV protocol
+Ql a) Explain Characteristics of Mobile Agents in detail. 10M
+b) Explain Applications of Mobile Computing in detail. 10M
+Q.2 a) Explain steps of process migration with example. 10M
+: b) Explain Snooping TCP in detail. 10M
+Q.3 a) _ Explain Indirect TCP in detail. 10M
+b) Explain Agent Discovery in Mobile IP. 10M
+Q.4 a) Explain Architecture of Wireless Application Protocol in detail. 10M
+b) Explain problems in Mobile Databases. 10M
+Q.5 a) Explain Dynamic Source Routing with the help of Example. 10M
+b) Explain Hierarchical State Routing protocol in detail. 10M
+Q.6 a) _ Explain Architecture of Android OS in detail. 10M
+10M
 
-8 +
+b) — Explain Architecture of Symbian OS in detail.
 
-Page 1/1
-````
+—_—_*
 
-## 2013-14 · Re-Exam · Sem 8 · paper d8f2c1a21c27
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MOBILE COMPUTING/MOBILE COMPUTING B TECH (COMPUTER), BATCH 2013-14 RE EXAM_d8f2c1a21c.pdf`
-- Printed on paper: exam date: 01/07/2015
-- Text: ocr (2 pages), mean OCR confidence 89.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: IV Semester: VIII
-
-Batch: 2013-14
-Academic Year: 2014-2015.
-os ee
-
-Subject: Mobile Computing ‘ oT Ss
-Marks: 6%
-Date: 01/07/2015 Z Time: pig 0 pm to 5.00 pm
-‘ Durations; [Se(rrs)
-
-a ~~" fae h
-
-‘ Gas fs
-
-Re-Examination ue
-es Wg << a
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining 6 questions, attempt any % questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-a. Draw & explain 3-tier architecture of mobile computing. {10]
-b. What is the need for Mobile computing? What are its requirements? List &
-explain its different applications. [10]
-2s
-a. Define SDMA, TDMA, and FDMA & CDMA and Compare all of these
-mechanisms. [10]
-b. What is process migration? List steps in process migration with neat diagram.
-[10]
-3.
-
-a. Explain Dynamic Host Configuration Protocol mechanism for Client-Server
-
-Model with diagram. [10]
-b. What is Encapsulation and Decapsulation? List & explain different types of
-
-(10)
-4/2.
-
-Encapsulation.
---- page 2 ---
-Define mobile agent. What are Agiers? Explain Aglet life cycle model with
-
-diagram. [10]
-. Discuss problem of hidden & exposed terminals and near and far terminals? And
-how it can be resolved for wireless networks. Suggest some protocol. [10]
-
-List & explain Design Issues of Mobile databases. ? Explain stages involved in it
-
-gmt Ve
-
-for disconnected operation & server replication. [10]
-Explain I-TCP with its advantages & Disadvantages. [10]
-
-. Explain Transaction oriented TCE with its advantages & disadvantages. [10]
-. Explain routing in DSDV with its advantages & Disadvantages. [10]
-
-Differentiate between Android OS & Symbian OS. [10]
-Explain WAP programming Model. [10]
+Page Ala
 ````
 
 ## 2013-14 · Re-Exam · Sem 3 · paper afcaa29c2bf6
@@ -4151,73 +4340,6 @@ vy) XHTML- MP vi) Power Aware Routing Protocol
 YM
 ````
 
-## 2012-13 · Re-Exam · Trim 8 · paper ff37d7929a64
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/MOBILE COMPUTING/MOBILE COMPUTING BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/12/2013
-- Text: ocr (1 page), mean OCR confidence 87.5
-
-````text
-pecs DTETIN,
-
-Atta,
-
-SVKM’s NMIMS Ao SEE
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-aS \ a }
-Programme:MBA Tech (IT/Computer) Year: WM { Trimester: Vil
-Academic Year: 2013-14 Batch2 012-13 VA
-
-Subject : Mobile Computing
-Marks:100
-
-Time : 10.00 am to 1.00 pm
-Durations:3 (hrs)
-
-Re-Examination
-
-Date :12/12/2013
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicates full marks
-
-Ql a) Explain Characteristics of Mobile Agents in detail. 10M
-b) Explain Applications of Mobile Computing in detail. 10M
-Q.2 a) Explain steps of process migration with example. 10M
-: b) Explain Snooping TCP in detail. 10M
-Q.3 a) _ Explain Indirect TCP in detail. 10M
-b) Explain Agent Discovery in Mobile IP. 10M
-Q.4 a) Explain Architecture of Wireless Application Protocol in detail. 10M
-b) Explain problems in Mobile Databases. 10M
-Q.5 a) Explain Dynamic Source Routing with the help of Example. 10M
-b) Explain Hierarchical State Routing protocol in detail. 10M
-Q.6 a) _ Explain Architecture of Android OS in detail. 10M
-10M
-
-b) — Explain Architecture of Symbian OS in detail.
-
-—_—_*
-
-Page Ala
-````
-
 ## 2012-13 · Re-Exam · Trim 8 · paper ba13da75665e
 
 - Departments: Information Technology
@@ -4317,129 +4439,6 @@ Pa Describe the applications of process migration. [20]
 
 ye
 A} 4
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper dc88768354e7
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/MOBILE COMPUTING/Mobile Computing.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS& E
-Academic Year: 2023-2024
-
-Program: MBA Tech Year: [V_ Semester: VIII
-Stream; EXTC
-
-Subject: Mobile Computing . Time: O32 hrs (2-00 proto 5:00 pry)
-Date:_27_ / 04 / 2024 No. of Pages: 02
-Marks: 100
-
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. .
-
-Ql Answer the following: [20]
-
-CO-1; SO- 1; a. | What are the applications of mobile computing. [5]
-
-BL-1
-
-CO- 2; SO- 1; | b. | What are the bearer services offered in WAP stack protocol and why? [5]
-
-BL-1
-
-CO- 3; SO- 1; | c. | Explain the term- Home Agent, Foreign Agent, Co-located address. [5]
-
-BL-2
-
-CO-4; SO-2; d. | What is MANET? Why routing protocols are designed? [5]
-(j= BL-1
-
-Q2 a. | Explain the process of data delivery in Mobile IP from correspondent node and [10]
-
-CO- 3; SO-1; Mobile node with relevant diagram.
-
-BL-2
-
-Q2 b. | Discuss the operation of Indirect TCP and Snooping TCP. Whether it is same or [10]
-
-CO- 3; SO-1; different?
-
-BL-6
-
-Q3 a. | Explain the working of CDMA mechanism and show how it will differ from [10]
-
-CO- 3; SO-1; FDMA and TDMA.
-
-BL-2
-
-Q3 b. | What approach is used in alternative metrics. Draw and explain the working of [10]
-
-CO- 4; SO-1; interference-based routing protocol.
-
-BL-1,2
---- page 2 ---
-Q4 a. | Why congestion control is required in mobile TCP. Explain the slow start and fast [10]
-
-CO- 3; SO- 1; retransmission mechanism adopted traditional TCP.
-
-BL- 1,2
-Q4 b. | List the features of WAP. Draw and explain the complete WAP protocol stack. [10]
-CO- 2; SO- 1;
-
-BL- 1,2
-Q5 a. | How to solve the problem of Hidden and exposed terminal, and near far effect in | [10]
-CO- 3; SO-1; wireless MAC. Explain with the help of relevant diagram. List its advantages.
-
-BL- 1,2,
-
-Q5 b. | Explain the process of agent discovery and registration. Justify your answer: Can_ | [10]
-CO- 3; SO-1; the working principle is same or different?
-
-BL-2,5
-
-Q6 a. | (i) Explain the types of security is adopted adhoc network and its need. [5]
-CO- 4; SO-1; (ii) Explain the objective and working principle of DSR routing protocol. [5]
-BL-2 .
-
-Q6 b. | Explain the WAP programing model. How it is different from the classical [10]
-CO- 2; SO-1; approach. :
-
-BL2
-
-Q7 a. | Draw mobile computing architecture. [5]
-CO- 1; SO-1;
-
-BL-2
-
-Q7 b. | Explain in detail the MACA mechanism, its purpose and working principle. Also, | [5]
-CO-3; SO-1; draw the relevant diagram of the process.
-
-BL-2
-
-Q7 c. | Explain the process time out freezing TCP and recommendation of TCP for new _| [10]
-CO-3: $O-1: developed technologies. .
-
-BL-2
 ````
 
 ## Year not stated · Re-Exam · Sem 8 · paper 9f6b69fe1030

@@ -1,8 +1,103 @@
 # Multimedia and Virtual Reality: question papers in full
 
-3 unique papers · 2021 to 2021-22 · Computer Engineering
+3 unique papers · 2021-22 to 2022-23 · Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2022-23 · Re-Exam · Sem 4 · paper cbfdf20e4090
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/MULTIMEDIA AND VIRTUAL REALITY/Multimedia and Virtual Reality Batch 2021-23 Re Exam.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 88.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN'
+Academic Year: 2022-2023
+
+Program: __B Tech Integrated Stream ;Computer
+
+Subject: Multimedia and Virtual Reality
+
+Date:_27 /04 / 2023 :
+
+Marks: 100 Re - Exarmi ration 2024~22.
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly:
+
+CO-CO1 ; a.
+
+SO-7; Explain different multimedia applications. [5]
+BL-
+Sone ; b. Give advantages of Camera and draw the diagram of digital single [5]
+, lens reflex camera.
+
+BL-
+
+és Son” 3 ¢- | Discuss -What is animation? What are its principles? [5]
+BL-
+ens 3 d. | What are different uses of animation? [5]
+BL-
+Q2 a | Explain all the major components of electronic pen with a diagram. [10]
+CO-CO2; b Explain Difference between RIFF and TIFF
+
+p
+
+SO3-; [10]
+BL-
+Q3 a | Explain Rich Text Format (RTF ) properly [10]
+--- page 2 ---
+COo-CO2, b
+
+CO3; SO-; what are different characteristics of a printer? Explain handheld scanners. [10]
+BL-
+Q4 a_ | What is multimedia? What are the properties of multimedia system ? [10]
+CoO-CO1,;
+SO-7; b . . . . .
+BL- Draw and explain Multimedia workstation Architecture. [10]
+Q5 a What are 3Is of Virtual Reality? Explain each one properly. [10]
+CO-CO3; b
+SO-7; Explain five Classic components of Virtual Reality. [10]
+BL-
+Q6
+
+a_ | What are the different elements of multimedia? Explain any two in proper
+CO-CO2, manner. [10]
+SO-3;
+BL-
+
+b_ | What are different Input / output devices for Virtual Reality? [10]
+Q7 Answer any two out of three questions below:
+CO-CO2, a
+SO-3; What are different applications of Virtual Reality? Explain any two of these. [10]
+BL-
+CO-CO3, b What are the characteristics of scanner?
+SO-3; Discuss the details of flatbed scanner with a diagram [10]
+BL-
+CO-CO3, c Explain following 2 principles of animation:
+SO-3; 1 Squash and Stretch [10]
+BL- 2. Staging
+````
 
 ## 2021-22 · Final-Exam · Sem 4 · paper 85b3028f78ed
 
@@ -198,99 +293,4 @@ d_ | Difference between 2D and 3 D Animation. [5]
 
 }
 2
-````
-
-## 2021 · Re-Exam · Sem 4 · paper cbfdf20e4090
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/MULTIMEDIA AND VIRTUAL REALITY/Multimedia and Virtual Reality Batch 2021-23 Re Exam.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 88.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN'
-Academic Year: 2022-2023
-
-Program: __B Tech Integrated Stream ;Computer
-
-Subject: Multimedia and Virtual Reality
-
-Date:_27 /04 / 2023 :
-
-Marks: 100 Re - Exarmi ration 2024~22.
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly:
-
-CO-CO1 ; a.
-
-SO-7; Explain different multimedia applications. [5]
-BL-
-Sone ; b. Give advantages of Camera and draw the diagram of digital single [5]
-, lens reflex camera.
-
-BL-
-
-és Son” 3 ¢- | Discuss -What is animation? What are its principles? [5]
-BL-
-ens 3 d. | What are different uses of animation? [5]
-BL-
-Q2 a | Explain all the major components of electronic pen with a diagram. [10]
-CO-CO2; b Explain Difference between RIFF and TIFF
-
-p
-
-SO3-; [10]
-BL-
-Q3 a | Explain Rich Text Format (RTF ) properly [10]
---- page 2 ---
-COo-CO2, b
-
-CO3; SO-; what are different characteristics of a printer? Explain handheld scanners. [10]
-BL-
-Q4 a_ | What is multimedia? What are the properties of multimedia system ? [10]
-CoO-CO1,;
-SO-7; b . . . . .
-BL- Draw and explain Multimedia workstation Architecture. [10]
-Q5 a What are 3Is of Virtual Reality? Explain each one properly. [10]
-CO-CO3; b
-SO-7; Explain five Classic components of Virtual Reality. [10]
-BL-
-Q6
-
-a_ | What are the different elements of multimedia? Explain any two in proper
-CO-CO2, manner. [10]
-SO-3;
-BL-
-
-b_ | What are different Input / output devices for Virtual Reality? [10]
-Q7 Answer any two out of three questions below:
-CO-CO2, a
-SO-3; What are different applications of Virtual Reality? Explain any two of these. [10]
-BL-
-CO-CO3, b What are the characteristics of scanner?
-SO-3; Discuss the details of flatbed scanner with a diagram [10]
-BL-
-CO-CO3, c Explain following 2 principles of animation:
-SO-3; 1 Squash and Stretch [10]
-BL- 2. Staging
 ````

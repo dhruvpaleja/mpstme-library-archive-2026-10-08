@@ -14,18 +14,18 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AI 7012, BTech AIML 7053, MBATech AI 7051 | ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AIDS 7056 | QP_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AIML 7053 | QP_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / DATA SCIENCE, BTech AI 7012, BTech AIML 7053, MBA TECH / Artificial Intelligence, MBATech AI 7051 | QP_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper |  | MBA TECH / Artificial Intelligence | Reinforcement Learning, 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AI 7012, BTech AIML 7053, MBATech AI 7051 | ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper |  | MBA TECH / Data Science | Reinforcement Learning, Sem-VIII, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Reinforcement Learning(702DB0E014)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / DATA SCIENCE | Reinforcement Learning, Sem VI, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / DATA SCIENCE, MBA TECH / Artificial Intelligence | Reinforcement Learning, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / COMPUTER | Reinforcement Learning Batch 2024-25 Final.pdf |

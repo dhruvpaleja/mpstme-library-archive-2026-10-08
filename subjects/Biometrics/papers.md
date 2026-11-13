@@ -1701,6 +1701,183 @@ systems,
 Page 3 of 3
 ````
 
+## 2023-24 · Re-Exam · Sem 6 · paper 600604d261b7
+
+- Departments: Artificial Intelligence, Computer Engineering
+- Programmes: B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/BIOMETRICS/Biometrics, Sem-VI, Fianal & Re Exam 2022-23.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 / 04/2024
+- Text: ocr (4 pages), mean OCR confidence 93.1
+
+````text
+Comp )
+SVKM'S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN it
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERI
+Academic Year: 2023-2024
+Program: MBA Tech/ B. Tech Year: 3% Semester: 6m
+
+Stream: Computer Engineering/ Artificial Intelligence | Computer
+
+Subject: Biometrics Time: 3 hrs (2:00prn to 5:00pm )
+
+Date: 24 / 04/2024 Ke ; No. of Pages: 04
+Marks: 100
+Final Examination / Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. .
+
+1) Question No. 1 is compulsory.
+
+2) Out of the remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of a scientific calculator is allowed in the examination.
+
+a.
+
+Ql Answer briefly: [20]
+CO-1,3; a. | Consider the person's fingerprint in Fig. 1 and [5]
+SO-1,3; answer the following questions.
+
+BL-2 1. Provide the type of fingerprint pattern.
+2. Identify the singularity points highlighted
+
+using rectangles. What is the level of features
+
+> thus highlighted?
+3. Discuss the information available in these
+features.
+CO-2,3; b. | Write the strengths and weaknesses of the retina recognition technique. [5]
+SO-2,3;
+BL-1
+CO-3,4; c. | Define multimodal systems and explain their advantages over unimodal | [5]
+SO-3,4; systems.
+BL-1
+
+Page 1 of 4
+--- page 2 ---
+CO-2; SO- d. | What do you mean by verification in a biometric recognition system? | [5]
+2; BL-2 Formulate null and alternate hypothesis testing for verifying iris templates
+
+based on the matching score between reference and query samples:*
+
+Q2 | a. | The instructor wishes to develop an application for marking student's | [10]
+CO-1;SO- ~ attendance using biometric features. Explain the general biometric
+
+1; BL-1 attributes that you desire in the system. fe]
+
+Q2| b. | The district cooperative bank wishes to provide a locker facility to the | [10]
+CO-2;,SO- customers. The customers can operate the locker by giving voice commands
+2; BL-3 and a fingerprint sample. The probability of correctly validating a genuine
+query on a particular day by the biometric recognition algorithm employed
+in the banking system is shown in the following Table 1. Plot the Receiver
+
+Operating ‘Characteristics (ROC) curve using the given data to check the
+
+algorithm performance.
+Table 1
+Customer ID Type of the Query Probability of
+Correct Prediction
+1 Genuine 0.73
+2 Imposter . 0.95
+3 Imposter 0.37
+‘4 Genuine 0.97
+5 Genuine 0.71
+6 Imposter 0.41
+7 Genuine 0.65
+8 Imposter ; 0.29
+9 Imposter 0.12
+10 Genuine 0.84
+Q3 | a. | Explain the process of fingerprint recognition using minutiae points. [10]
+CO-1,3;
+SO-1,3;
+BL-2
+
+Q3 | b. | A research institute is investigating the feasibility of using gait recognition | [10]
+
+for human identification in video surveillance. Discuss the pros and cons of
+
+Page 2 of 4
+--- page 3 ---
+CO-2,3; gait recognition compared to traditional biometric methods. How can the
+
+SO-2,3; system overcome its limitations?
+BL-2 z
+
+Q4 | a. | Why is performance testing necessary forthe biometric recognition system? | [10]
+CO-3,4; Illustrate the testing process with a block diagram and discuss each step
+SO-3,4; briefly. :
+BL-1
+
+Q4| b. | Discuss systematic errors and sampling errors that affect the statistical | [10]
+CO-2; SO- performance of the biometric systems.
+2; BL-2
+
+Q5 | a. | Analyze and describe the challenges associated with face recognition. [10]
+CO-2,3;
+SO-2,3;
+BL-2
+
+Q5 | b. | Compare and contrast feature, level fusion, score level fusion, and decision | [10]
+CO-3,4; level fusion in multimodal biometric systems. Highlight the pros and cons
+SO-3,4; of each technique.
+BL-2
+
+Q6 | a. | Explain Daugman's algorithm for recognizing the iris of a person. [10]
+CO-2,3;
+SO-2,3;
+BL-1
+
+Q6| b. | The district cooperative bank wishes to identify imposter customers while | [10]
+CO-2; SO- operating the locker system, as explained in Q.2 (b). Thus, the biometric
+2; BL-3 system is tested by presenting 1000 probe samples by registered customers.
+
+The number of genuine matches out of 1000 probe samples is noted for each
+of the top 10 rank metrics. The resulting genuine rank histogram is given in
+Table 2. Plot the Cumulative match Characteristics (CMC) curve for the
+
+biometric system.
+
+Page 3 of 4
+--- page 4 ---
+Table 2 :
+Rank of the Rank Count of j
+
+Genuine Match | Genuine Matches ¥
+Rl 489 7
+R2 178
+R3 ~ 134
+R4 42
+RS 9
+R6 16
+R7 3
+R8 4
+R9 19
+R10 5
+Q7 Suggest a technique to identify a suspect using biometric traits in | [10]
+CO- surveillance video. Draw a block diagram of the proposed method and
+1,3;SO-1,3; explain each block briefly. Discuss probable challenges in the proposed
+BL-3 system.
+Q7 Classify the types of biometric data and briefly explain them. [5]
+CO-1;SO-
+1; BL-1
+Q7 Using an appropriate graph, explain the score histogram in the biometric | [5]
+CO-2; SO- system verification problem. Illustrate how decision errors are determined
+2; BL-2 using score histograms.
+
+Page 4 of 4
+````
+
 ## 2022-23 · Final-Exam · Sem 6 · paper d91ffab33443
 
 - Departments: Artificial Intelligence, Computer Engineering
@@ -1708,6 +1885,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/BIOMETRICS/Biometrics, Sem-VI, Year 2022-23, Final Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1884,7 +2062,6 @@ e > [+> score
 r 9 OF ae? 4
 4 & a ad
 E] - % af SbF
-or a Ba g g S tal s
 ba
 @ do “og
 ? Alignment Pairing Scoring
@@ -1920,183 +2097,6 @@ e7 [5]
 
 CO-2; $O-1; | d) Discuss Daugman’s rubber sheet model for IRIS normalization.
 BL-6
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper 600604d261b7
-
-- Departments: Artificial Intelligence, Computer Engineering
-- Programmes: B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/BIOMETRICS/Biometrics, Sem-VI, Fianal & Re Exam 2022-23.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 / 04/2024
-- Text: ocr (4 pages), mean OCR confidence 93.1
-
-````text
-Comp )
-SVKM'S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN it
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERI
-Academic Year: 2023-2024
-Program: MBA Tech/ B. Tech Year: 3% Semester: 6m
-
-Stream: Computer Engineering/ Artificial Intelligence | Computer
-
-Subject: Biometrics Time: 3 hrs (2:00prn to 5:00pm )
-
-Date: 24 / 04/2024 Ke ; No. of Pages: 04
-Marks: 100
-Final Examination / Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. .
-
-1) Question No. 1 is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of a scientific calculator is allowed in the examination.
-
-a.
-
-Ql Answer briefly: [20]
-CO-1,3; a. | Consider the person's fingerprint in Fig. 1 and [5]
-SO-1,3; answer the following questions.
-
-BL-2 1. Provide the type of fingerprint pattern.
-2. Identify the singularity points highlighted
-
-using rectangles. What is the level of features
-
-> thus highlighted?
-3. Discuss the information available in these
-features.
-CO-2,3; b. | Write the strengths and weaknesses of the retina recognition technique. [5]
-SO-2,3;
-BL-1
-CO-3,4; c. | Define multimodal systems and explain their advantages over unimodal | [5]
-SO-3,4; systems.
-BL-1
-
-Page 1 of 4
---- page 2 ---
-CO-2; SO- d. | What do you mean by verification in a biometric recognition system? | [5]
-2; BL-2 Formulate null and alternate hypothesis testing for verifying iris templates
-
-based on the matching score between reference and query samples:*
-
-Q2 | a. | The instructor wishes to develop an application for marking student's | [10]
-CO-1;SO- ~ attendance using biometric features. Explain the general biometric
-
-1; BL-1 attributes that you desire in the system. fe]
-
-Q2| b. | The district cooperative bank wishes to provide a locker facility to the | [10]
-CO-2;,SO- customers. The customers can operate the locker by giving voice commands
-2; BL-3 and a fingerprint sample. The probability of correctly validating a genuine
-query on a particular day by the biometric recognition algorithm employed
-in the banking system is shown in the following Table 1. Plot the Receiver
-
-Operating ‘Characteristics (ROC) curve using the given data to check the
-
-algorithm performance.
-Table 1
-Customer ID Type of the Query Probability of
-Correct Prediction
-1 Genuine 0.73
-2 Imposter . 0.95
-3 Imposter 0.37
-‘4 Genuine 0.97
-5 Genuine 0.71
-6 Imposter 0.41
-7 Genuine 0.65
-8 Imposter ; 0.29
-9 Imposter 0.12
-10 Genuine 0.84
-Q3 | a. | Explain the process of fingerprint recognition using minutiae points. [10]
-CO-1,3;
-SO-1,3;
-BL-2
-
-Q3 | b. | A research institute is investigating the feasibility of using gait recognition | [10]
-
-for human identification in video surveillance. Discuss the pros and cons of
-
-Page 2 of 4
---- page 3 ---
-CO-2,3; gait recognition compared to traditional biometric methods. How can the
-
-SO-2,3; system overcome its limitations?
-BL-2 z
-
-Q4 | a. | Why is performance testing necessary forthe biometric recognition system? | [10]
-CO-3,4; Illustrate the testing process with a block diagram and discuss each step
-SO-3,4; briefly. :
-BL-1
-
-Q4| b. | Discuss systematic errors and sampling errors that affect the statistical | [10]
-CO-2; SO- performance of the biometric systems.
-2; BL-2
-
-Q5 | a. | Analyze and describe the challenges associated with face recognition. [10]
-CO-2,3;
-SO-2,3;
-BL-2
-
-Q5 | b. | Compare and contrast feature, level fusion, score level fusion, and decision | [10]
-CO-3,4; level fusion in multimodal biometric systems. Highlight the pros and cons
-SO-3,4; of each technique.
-BL-2
-
-Q6 | a. | Explain Daugman's algorithm for recognizing the iris of a person. [10]
-CO-2,3;
-SO-2,3;
-BL-1
-
-Q6| b. | The district cooperative bank wishes to identify imposter customers while | [10]
-CO-2; SO- operating the locker system, as explained in Q.2 (b). Thus, the biometric
-2; BL-3 system is tested by presenting 1000 probe samples by registered customers.
-
-The number of genuine matches out of 1000 probe samples is noted for each
-of the top 10 rank metrics. The resulting genuine rank histogram is given in
-Table 2. Plot the Cumulative match Characteristics (CMC) curve for the
-
-biometric system.
-
-Page 3 of 4
---- page 4 ---
-Table 2 :
-Rank of the Rank Count of j
-
-Genuine Match | Genuine Matches ¥
-Rl 489 7
-R2 178
-R3 ~ 134
-R4 42
-RS 9
-R6 16
-R7 3
-R8 4
-R9 19
-R10 5
-Q7 Suggest a technique to identify a suspect using biometric traits in | [10]
-CO- surveillance video. Draw a block diagram of the proposed method and
-1,3;SO-1,3; explain each block briefly. Discuss probable challenges in the proposed
-BL-3 system.
-Q7 Classify the types of biometric data and briefly explain them. [5]
-CO-1;SO-
-1; BL-1
-Q7 Using an appropriate graph, explain the score histogram in the biometric | [5]
-CO-2; SO- system verification problem. Illustrate how decision errors are determined
-2; BL-2 using score histograms.
-
-Page 4 of 4
 ````
 
 ## 2022-23 · Re-Exam · Sem 6 · paper a2101d0a50a9
@@ -2879,6 +2879,7 @@ d. KFCG and LBG
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/II SEMESTER/BIOMETRICS/Biometrics 2013-14 Final.pdf`
 - Printed on paper: exam date: 08/05/2014
 - Text: ocr (2 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS .
@@ -2958,7 +2959,6 @@ Q7. a. Explain palm print recognition system w.r.t. Designing the rich database,
 similarity measure
 
 b. Explain how wavelet transforms can be used for feature extraction ?
-1 Rg a a oo og 2 oo a eo oR
 ````
 
 ## 2013-14 · Re-Exam · Sem 2 · paper d4cdad6b67d7
@@ -3057,6 +3057,7 @@ Use of wavelets in Biometrics
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM III/BIOMETRICAS/BIOMETRICS 2011-120001.pdf`
 - Printed on paper: exam date: 09/05/2012
 - Text: ocr (2 pages), mean OCR confidence 80.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 '\
@@ -3128,7 +3129,6 @@ cluster into two and give two clusters along with their centriods.
 Q7) What is Multimodal Biometrics, Explain any one Multimodal biometric method also
 give the advantages and disadvantages of the Multimodal biometric identification.
 
-OR a aR ee 2 2 a eR Oe RR OR RR RR RR RR ee ye sag ee 2 2 eg 2 2 og 2g 2 oe oe 2 oe 2 2K 2K oo oR Ro
 ````
 
 ## 2010-11 · Exam not stated · Trim 3 · ZIP of papers · paper 5a80dbc3531f · BIOMETRICS.pdf

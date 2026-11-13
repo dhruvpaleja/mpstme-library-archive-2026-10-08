@@ -1,16 +1,17 @@
 # Analysis of Transportation System: question papers in full
 
-6 unique papers · 2015-16 to 2022 · Civil
+7 unique papers · 2015-16 to 2022-23 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2022 · Final-Exam · Sem 9 · paper 93cd432cddc0
+## 2022-23 · Final-Exam · Sem 9 · paper 93cd432cddc0
 
 - Departments: Civil
 - Programmes: B.TECH INTEGRATED / CIVIL
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/CIVIL/SEM IX/Analysis of Transportation System/Analysis of Transportation System Batch 2022 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 21 November 2022
 - Text: ocr (3 pages), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -93,7 +94,6 @@ BL-2 , with suitable examples.
 CO-2 ; b. | Three zones A, B and C are connected by two lane roads as shown in figure with
 SO- 1; travel time by bus and car shown in bracket. The probability (Pc)of choosing the
 BL-4 car mode is found to be given by: ;
-2 = aay; where u(x) = 0.86 — 0.08(ttcar — ttyus)
 Q3 The total trip interchange between zones are as per table. Determine two-way
 volume in car per day on the road “AC” if the average car occupancy is 2.5.
 From | To | Persons-trips per 12
@@ -137,6 +137,121 @@ BL-3
 CO-3 ;
 SO-7; Explain activity based modelling via flow chart. 10
 BL-2
+````
+
+## 2018-19 · Final-Exam · Sem 7 · paper 319d3b83de68
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/ADVANCED STRUCTURAL ANALYSIS/ANALYSIS_OF_TRANSPORTATIO_SYSTEM_B TECH (CIVIL), 2018-19_FINAL_EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 November 2018
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT, &
+
+Programme: B. Tech (CIVIL) « Year: IV Semester: VII «
+* Academic Year: 2018-2019 «
+
+Subject: Analysis of Transportation System < "Marks: 70
+
+Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+
+Date: 19 November 2018 +
+No. of Pages: _ -z a
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___is compulsory.
+
+2) Out of remaining.questions, attempt any __4 _ questions.
+3)Inall 5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .suitable data if necessary.
+
+Q.1 Attempt any four questions ‘ 4x3.5
+a What are the economic impacts of Transportation?
+b Define PHPDT and write down the approximate values for various mode of
+public transport.
+c Enlist models for uninterrupted flow.
+d What do you understand by home interview fethaique?
+e What do you understand by urban transportation system? Enlist the various
+modes of urban transport available in Mumbai.
+
+Q.2 a Write a short on ITS. 5
+b_ Base year trip matrix for a study are consisting of three zones is given below. 9
+The productions from the zone 1, 2 and 3 for the horizon year is expected to
+grow to 88, 102 and 99 respectively. The attractions from these zones are
+expected to increase to 85, 110, 98 respectively. Compute the trip matrix for the
+horizon year using doubly constrained growth factor model using Furness
+method. ( up to 4 Iterations)
+
+V2.
+--- page 2 ---
+y1 [2 [3 Oi
+
+1 20 30 28 78
+2 _| 36 32 24 92
+3 22 34 36 92
+d. | 78 [ 96 [ 88 262
+Q.3. a Explain Wardrop’s Principle of Traffic Assignments. 7
+
+b Four Different jobs are to be assigned to four different operators such that the 7
+total processing time is minimized.
+
+Jobs
+1 2 3 +
+1 15 13 14 17
+Facilities 2 11 12 15 13
+3 13 12 10 11
+4 15 17 14 16
+Q.4 a Describe Travel Demand Modelling: 7
+
+b The trip production from zones 1,2 and 3 are 110, 122 and 114 respectively and 7
+the trip attractions to these zones are 120, 108 and 118 respectively. The cost
+matrix is given below. The function f(cij) = 1/ci
+
+10 1.2 18 a
+[12 10 15 ]
+18 15 1.0
+
+Compute the trip matrix using doubly constrained gravity model. Provide one
+complete iteration. ‘
+
+Q.5 a Define trip generation, trip production and trip attraction and discuss the trip 7
+generation models in detail.
+b Calculate trips made by three modes and fare required to travel by each mode 7
+
+for trip characteristics given below.
+Trip characteristics
+
+tiY tee ti! Fi Oij
+Coefficient | 0.05 0.03 0.04 0.11 0.1
+Car 30 - = 20 4
+Bus 20 6 3 7 -
+train 15 12 1 5 :
+Take number of trips from i to j 6000.
+= Q.6 a Define redundant constraint, unique solution, unbound solution and degenerate 7
+solution.
+2 b Convert the given system of equation in conical form 7
+| 4X1+3X2+X3=13
+3X1 +0X2+7X3=24
+X1+2X2t3X3=14
+Q.7 a Discuss briefly about the Transportation environment Ensemble with problem 7
+solving Morphology.
+a b What are the objectives and characteristics of Transportation Planning? 7
+
+| 2fe
 ````
 
 ## 2018-19 · Final-Exam · Sem 7 · paper c93bbeff4654

@@ -1,8 +1,149 @@
 # Management Control System: question papers in full
 
-4 unique papers · 2008-09 to 2011-12 · Common (all branches)
+4 unique papers · 2008-09 to 2012-13 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2012-13 · Exam not stated · Trim 15 · paper e0f37b25feb2
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/management control system/Scan 004.pdf`
+- Printed on paper: duration hours: 2; exam date: 19/4/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management
+Programm e: M B A (Tech) -ALL STREAMS Year: V Trimester:
+Academic Year : 2012-2013
+I
+Subject:   MANAGEMENT CONTROL SYSTEM   Marks:
+Time :
+Date:   19/4/2013   Duration:   2   hrs.
+Final - Examination
+Answernl( t <qe(9 questions
+1. What is a responsibility Centre? List and explain different types of responsibilities Centers in
+organizations.
+2. Explain the concept of Return on Investment? What are its advantages? Experts regard EVA
+as a concept is superior in certain cases. Explain the phenomenon with examples.
+3. What is Balanced Score Card? What is the process of implementation and difficulties in
+implementation?
+4.   Div. of Aparna Company manufactures Product A, which is sold to another division Div B as
+a component of its product B which is then sold to Div C who sells it to outside source.
+lntra company transactions rule standard cost plus 10% return on FA and inventory to be
+paid by buying division.
+Standard Costs per unit   Prod A.   Prod. B   Prod. C
+Purchase of material Rs.   40   60   20
+Direct Labour   2 0   2 0   40
+Variable Overhead   2 0   20   4 0
+Fixed OH   per unit   60   80   20
+Avg. Inventory   14 lacs   3 lacs   6 lacs
+Net fixed assets   6 lacs   9 lacs   3.2 lacs
+Std, Production   units   2 lacs   2 lacs   2 lacs
+Determine from above data, transfer prices for Prods. A, B, and standard costs of Prod. C
+Prod. C could become uncompetitive since upstream margins are added. Comment.
+5. XYZ Ltd. Has two divisions A & B. ROI for both divisions is 15%. Details given below:
+Particulars   Div. A   Div. B
+Div. Sales   40 lacs   96 lacs
+Div. Investment   20 lacs   32 lacs
+Profit   3 lacs   4.8 lacs
+4
+Analyse and comment on divisional performance of each with respect to Operational
+Excellence and Marketing effectiveness.
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper 0281bc0740e3
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/management control system/MANAGEMENT CONTROL SYSTEM 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30/03/2012
+- Text: ocr (2 pages), mean OCR confidence 94.3
+
+````text
+\
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
+Academic Year : 2011-2012
+
+Subject: MANAGEMENT CONTROL SYATEM Marks: 50 —=
+Time: 2.00 pm To 4.00 pm
+Date: 30/03/2012 Duration: 2 hrs.
+
+Final - Examination
+
+Section A ( Answer any Four ) Each question carries 5 marks
+
+Li Differentiate between Flexible and Fixed Budgets with the help of examples.
+
+2. Write a note on variance analysis and its reporting in organization
+
+3, Discuss the impact of performance analysis on management compensation
+
+4. What is balanced scorecard and how do you use it in Service organizations
+
+3. Explain how a control is different in service organization with the help of suitable
+examples
+
+6. How does corporate level strategies differ from Business Unit level strategies?
+
+Section B (Answer all) Each questions carries 15 marks
+
+1. Vimal Enterprises’ P&L Account for the year 2009-10 is given below:
+
+Rs. In lacs
+, Sales 500
+} Variable cost 350
+Contribution 150
+Fixed cost 40
+Depreciation 30
+PBIT 80
+Interest 15
+PBT 65
+T@40% 26
+PAT 39
+_ qeomeany’s Balance Sheet is given below: .
+quity 300 Fixed Asset 300
+15% Debt 100 Net working Capital 100
+
+Calculate a) ROE and ROCE
+
+Vimal would like to expand its operation, it would purchase Fixed Asset worth Rs 100
+lacs and invest in WC of 100lacs. Fixed assets are financed by equity and WC is by Debt.
+The sales will increase by 40% Variable costs to SP ration will reduce by 5%. FC other
+than depreciation will increase by 5%, Depreciation is on Straight Line method.
+
+Vo
+--- page 2 ---
+Calculate ROE and ROCE post expansion and also calculate Total Asset Turnover.
+
+2. A TV dealership is organized into 4 profit centres. Colour TV (CTV), B&W TV BTV,
+Spare parts(SP) and Servicing (SC)each headed by a manager. BTV in addition to TV
+sales also sells old TVs exchanged by customers while purchasing new TVs. In one
+particular instance, a new TV was sold for Rs 14,150 (financed by cash Rs 2000, bank
+loan Rs, 7350 and Rs 4800 — exchange price for old TV agreed by CTV manager. Cost of
+new TV was Rs. 11420. Shivangi, Manager of BTV examined the old TV (valued at Rs.
+3500 by TV Trade magazines and felt that she could get Rs. 5000 for that TV after
+repairing cabinet, settling an servicing for which she would use the services of (SP) and
+(SC). Prices chargeable to BTW by SP and SC are at market prices Rs 235 for parts and
+Rs 470 for Services. Market prices are arrived at after marking up cost by 3-5 times (SC)
+and 1-4 times (SP). BTV pays a service commission of Rs. 250 per TV sold. Overheaf
+fixed allocation per sale are CTV — Rs 835 BTV Rs. 665, SP Rs. 32 and SC Rs. 114.
+
+a. Treating each as an independent Profit Centre,, arrive at the Sales Revenue, total
+costs and profit of each profit centre.
+
+b. Can each of these profit centres survive if they were independently entities.
+
+c. Also calculate Gross Profit and New Profit of each.
+
+K—
+
+2 fp
+````
 
 ## 2011-12 · Re-Exam · Trim 15 · paper 9575a9f6f5c0
 
@@ -281,145 +422,4 @@ Analyse.
 ETO
 
 ea
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 0281bc0740e3
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/management control system/MANAGEMENT CONTROL SYSTEM 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 30/03/2012
-- Text: ocr (2 pages), mean OCR confidence 94.3
-
-````text
-\
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
-Academic Year : 2011-2012
-
-Subject: MANAGEMENT CONTROL SYATEM Marks: 50 —=
-Time: 2.00 pm To 4.00 pm
-Date: 30/03/2012 Duration: 2 hrs.
-
-Final - Examination
-
-Section A ( Answer any Four ) Each question carries 5 marks
-
-Li Differentiate between Flexible and Fixed Budgets with the help of examples.
-
-2. Write a note on variance analysis and its reporting in organization
-
-3, Discuss the impact of performance analysis on management compensation
-
-4. What is balanced scorecard and how do you use it in Service organizations
-
-3. Explain how a control is different in service organization with the help of suitable
-examples
-
-6. How does corporate level strategies differ from Business Unit level strategies?
-
-Section B (Answer all) Each questions carries 15 marks
-
-1. Vimal Enterprises’ P&L Account for the year 2009-10 is given below:
-
-Rs. In lacs
-, Sales 500
-} Variable cost 350
-Contribution 150
-Fixed cost 40
-Depreciation 30
-PBIT 80
-Interest 15
-PBT 65
-T@40% 26
-PAT 39
-_ qeomeany’s Balance Sheet is given below: .
-quity 300 Fixed Asset 300
-15% Debt 100 Net working Capital 100
-
-Calculate a) ROE and ROCE
-
-Vimal would like to expand its operation, it would purchase Fixed Asset worth Rs 100
-lacs and invest in WC of 100lacs. Fixed assets are financed by equity and WC is by Debt.
-The sales will increase by 40% Variable costs to SP ration will reduce by 5%. FC other
-than depreciation will increase by 5%, Depreciation is on Straight Line method.
-
-Vo
---- page 2 ---
-Calculate ROE and ROCE post expansion and also calculate Total Asset Turnover.
-
-2. A TV dealership is organized into 4 profit centres. Colour TV (CTV), B&W TV BTV,
-Spare parts(SP) and Servicing (SC)each headed by a manager. BTV in addition to TV
-sales also sells old TVs exchanged by customers while purchasing new TVs. In one
-particular instance, a new TV was sold for Rs 14,150 (financed by cash Rs 2000, bank
-loan Rs, 7350 and Rs 4800 — exchange price for old TV agreed by CTV manager. Cost of
-new TV was Rs. 11420. Shivangi, Manager of BTV examined the old TV (valued at Rs.
-3500 by TV Trade magazines and felt that she could get Rs. 5000 for that TV after
-repairing cabinet, settling an servicing for which she would use the services of (SP) and
-(SC). Prices chargeable to BTW by SP and SC are at market prices Rs 235 for parts and
-Rs 470 for Services. Market prices are arrived at after marking up cost by 3-5 times (SC)
-and 1-4 times (SP). BTV pays a service commission of Rs. 250 per TV sold. Overheaf
-fixed allocation per sale are CTV — Rs 835 BTV Rs. 665, SP Rs. 32 and SC Rs. 114.
-
-a. Treating each as an independent Profit Centre,, arrive at the Sales Revenue, total
-costs and profit of each profit centre.
-
-b. Can each of these profit centres survive if they were independently entities.
-
-c. Also calculate Gross Profit and New Profit of each.
-
-K—
-
-2 fp
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper e0f37b25feb2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/management control system/Scan 004.pdf`
-- Printed on paper: duration hours: 2; exam date: 19/4/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management
-Programm e: M B A (Tech) -ALL STREAMS Year: V Trimester:
-Academic Year : 2012-2013
-I
-Subject:   MANAGEMENT CONTROL SYSTEM   Marks:
-Time :
-Date:   19/4/2013   Duration:   2   hrs.
-Final - Examination
-Answernl( t <qe(9 questions
-1. What is a responsibility Centre? List and explain different types of responsibilities Centers in
-organizations.
-2. Explain the concept of Return on Investment? What are its advantages? Experts regard EVA
-as a concept is superior in certain cases. Explain the phenomenon with examples.
-3. What is Balanced Score Card? What is the process of implementation and difficulties in
-implementation?
-4.   Div. of Aparna Company manufactures Product A, which is sold to another division Div B as
-a component of its product B which is then sold to Div C who sells it to outside source.
-lntra company transactions rule standard cost plus 10% return on FA and inventory to be
-paid by buying division.
-Standard Costs per unit   Prod A.   Prod. B   Prod. C
-Purchase of material Rs.   40   60   20
-Direct Labour   2 0   2 0   40
-Variable Overhead   2 0   20   4 0
-Fixed OH   per unit   60   80   20
-Avg. Inventory   14 lacs   3 lacs   6 lacs
-Net fixed assets   6 lacs   9 lacs   3.2 lacs
-Std, Production   units   2 lacs   2 lacs   2 lacs
-Determine from above data, transfer prices for Prods. A, B, and standard costs of Prod. C
-Prod. C could become uncompetitive since upstream margins are added. Comment.
-5. XYZ Ltd. Has two divisions A & B. ROI for both divisions is 15%. Details given below:
-Particulars   Div. A   Div. B
-Div. Sales   40 lacs   96 lacs
-Div. Investment   20 lacs   32 lacs
-Profit   3 lacs   4.8 lacs
-4
-Analyse and comment on divisional performance of each with respect to Operational
-Excellence and Marketing effectiveness.
 ````

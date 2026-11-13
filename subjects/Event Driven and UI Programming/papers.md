@@ -185,6 +185,7 @@ FOR GO Rk
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_06/Event Driven and UI Programming/Event Driven & UI Programming Batch 2024-25 Final Batch 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2025
 - Text: ocr (2 pages), mean OCR confidence 91.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -250,7 +251,6 @@ ProductID ProductName Category Price StockQuantity
 4 Monitor Electronics 300 30
 i 5 Coffee Maker Appliances 150 15
 
-FIA ea 7 dk kk a te aa a
 --- page 2 ---
 CO-5,SO- Write appropriate queries for following:
 3,BL-3,4 1. SQL query to retrieve the ProductName and Price of all products from the

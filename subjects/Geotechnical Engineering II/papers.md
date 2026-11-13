@@ -574,6 +574,562 @@ Berezantsev’s Nq Values
 Page 4 of 4
 ````
 
+## 2018-19 · Re-Exam · Sem 6 · paper 2202d26f49ff
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/GEOTECHNICAL ENGINERRING II BATCH 15-16 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 20 April 2019
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B. Tech (CIVIL) ~ Year: IIT Semester: VI ~
+j AcademicYear: 2018-2019
+
+Subject: Geotechnical Engineering-II «
+
+Date: 20 April 2019 «
+
+a
+
+Re-Examination (2015-16 / 2016-17)
+
+instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1 is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1) Answer ANY THREE: - (12)
+
+a) Explain the types of failure of slope with neat sketches.
+
+b) Explain active, passive and at rest pressure in detail with examples.
+
+c) Explain General, Local and Punching Shear Failure stating their characteristics and
+type of soils in which they occur. Support your answer with figures.
+
+d) Explain the classification of piles based on function with sketches.
+
+e) Explain the classification of conduits.
+
+Q.2) a) Explain Swedish Circle Method to determine the stability of slopes. (06)
+
+b) What will be the factor of safety with respect to i) average shearing strength ii) cohesion
+and iii) internal friction of a soil for which the shear strength parameters obtained from
+the laboratory tests are c’ = 34 kN/ m? and 4’ = 20°; the expected parameters of
+mobilized shearing resistance are c’m = 22 kN/ m2? and and ’m = 15° and the average
+effective normal pressure on the failure plane is 150 kN/ m’. For the same value of
+mobilized shearing resistance determine the iv) Factor of Safety with respect to height,
+v) Factor of Safety with respect to friction when that, with respect to cohesion is unity,
+
+al and vi) Factor of Safety with respect to strength. (06)
+
+Q.3) a) Compute the intensities of active and passive earth pressure at depth of 8 metres in dry
+cohesionless sand with an angle of internal friction of 30° and unit weight of 18.5
+kN/m?. What will be the intensities of active and passive earth pressure if the water
+level rises to the ground level? (06)
+
+Page 1 of 2
+--- page 2 ---
+b) Explain Coulomb’s Wedge Theory. (06)
+Q.4) a) Discuss the factors affecting bearing capacity of soil. (06)
+b) A strip footing 1 m wide is placed at a depth of 0.8 m from ground surface. Shear
+strength parameters of the soil are c= 30 KN/ m? and $= 20°. Determine the safe
+
+bearing capacity for a factor of safety of 3 against shear failure. The water table is at
+
+the base of footing. Take y= 18 KN/ m3, N'c= 11.8, N'q= 3.9 and N'y = 1.7. Consider
+
+local shear failure and use Terzaghi's Theory. Water table is at great depth. (06)
+
+Q.5) a) A footing 2 m x 2 m rests on a soft clay soil with its base at a depth of 1.5 m from
+ground surface. The clay stratum is 3.5 m thick and is underlain by a firm sand stratum.
+The clay soil has L.L. = 30%, Gs = 2.7, Wsat = 40%, c= 0.5 kg/ cm? ($ = 0). It is known
+that a clay stratum is normally consolidated. Compute the settlement that, would result
+if, the load intensity equal to safe bearing capacity of soil was allowed to act on the
+footing. Natural water table is at the ground surface. For the given conditions bearing
+capacity factor N. is obtained as 6.9. Take Factor of Safety as 3. Assume the slope of
+load spread equal to 2(vertical): 1(Horizontal) and = yw=It/ m’. (06)
+
+b) A precast concrete pile of weight 4200 kg is driven by drop hammer with a stroke of
+1 m has an efficiency of hammer (nh) equal to 0.8. The weight of the hammer is 3200
+kg. The average set per blow is 1.8 cm. The total temporary elastic compression (C) for
+Hiley's formula is 1.96 cm. Assuming the coefficient of restitution as 0.2, determine the
+allowable load on the pile using:-
+
+(a) Engineering News Formula and (b) Hiley's formula with a factor of safety of 2.5.
+(06)
+
+Q.6) Aconcrete Pile of 45 cm diameter is driven to a depth of 16 m through a layered system
+of sandy soil (c = 0). The following data are available: -
+Top Layer 1: Thickness= 8 m, $ = 30°, e = 0.6, ya = 16.5 kN/ mn?
+Layer 2: Thickness= 6 m, = 35°, e = 0.65, ya = 15.5 KN/ m?
+Layer 3: Extends to a great depth, e = 0.65, > = 38° y = 16 KN/ m>
+Take 5 = 0.75 6, Take Ks = 0.5Kp Water table is at ground level, Ng =95 and factor of
+safety=2.5 Calculate the Net Capacity after considering the negative skin friction. (12)
+
+Q.7) a) The bracing system is provided in trench in stiff fissured clay soil having y = 19kN/m3
+and c = 40 KN/ m’. The centre to centre spacing of the struts along the length of cut
+(in plan) is 2.5 m. Determine the loads in the three struts. The depth of trench is 6 m
+
+and struts are provided at 1 m, 3 m and 5 m from the ground level. (06)
+
+b) Explain the different functions of Geosynthetic. (03)
+
+c) Describe the construction of imperfect ditch conduit. (03)
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 6 · paper 8fadeb79eefe
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/Geotechnical engg-II ....Re-exam 2017-18-19.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 June 2019
+- Text: ocr (4 pages), mean OCR confidence 74.2
+
+````text
+y
+
+4
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA. Tech / B.Tech (CIVIL) Year: II] Semester: VI
+Academic Year: 2018-19
+Subject: Geotechnical Engineering-I Marks: 70
+Date : 17 June 2019 . Time: 10.00 am to 1.00 pm -
+
+Duration: 3 (Hrs)
+; L No. of Pages: 4
+Re- Examination (2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use, umm ee
+
+1) Question No. _1 is compulsory.
+
+2) Out of remaining questions, attempt any _4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .suitable data if necessary.
+
+eS
+
+Q.1) Answer ANY TWO of the following: - ; (14)
+1) a) A dry finite slope of angle B = 23°, is made up of soil having c’= 12 kN/m?;
+9°=249; y = 18 kN/m?. Fs required is 1.5. What will be the values of (i) @’m (ii)
+Stability Number Ns and (iii) Safe height of the slope. Use Taylor’s Stability
+Chart given in Figure 1.
+b) List the assumptions in Coulomb’s theory of lateral earth pressure. (03)
+Il) a) Discuss ‘Negative Skin Friction’ stating the formulae used for its estimation in (04)
+cohesive and cohesionless soils.
+b) A square footing of size 5m’x 5m and depth 3m, in a soil with y = 17 kN/m3, has
+quit= 4000 kKN/m?. Determine gross and net allowable bearing capacity. (03)
+Il) a) Explain the classification of conduits. (04)
+b) Explain the following functions of geotextiles: - filtration, protection and reinforcement. (03)
+
+(04)
+
+Q.2) a) The properties of the soil in an infinite cohesive slope are c’= 32 kN/m’, 9’ = 26°, G
+= 2.65 and e = 0.65. The slope has an angle of 25° and height 8m and is subjected to (07)
+steady seepage throughout its height. Find Fs, cm, 9’m. Take yw= 10 kN/m?.
+
+Q.2) b) Draw the Mohr’s Circle and derive an expression for active lateral earth pressure 07)
+coefficient K for a retaining wall supporting a cohesionless sloping backfill.
+
+Page 1 of 4
+--- page 2 ---
+Q.3) a) A retaining wall is supporting some dry backfill. The wall is 8m high, the backfill is
+horizontal and has @’=20°, y = 16 kN/m?. There is a surcharge of 12 kN/m?. Using
+Rankine’s theory,
+
+(i) For c’ = 0, draw active pressure distribution diagram
+(ii) For c’ = 10 kN/m?, draw active pressure distribution diagram and mark the
+critical depth.
+
+Q.3) b) A square footing rests with its bottom at a depth of 2.5m from ground surface. The
+width is 4m. The soil above and below the foundation have c’ = 10 kN/m?; 0’ = 38°;
+yt = 17.0; Ysat = 19.0 kKN/m3. Ground water table is at 1.5 m below base of footing.
+Assume local shear failure. If a load Q of 4500 KN is to be applied to the foundation,
+
+‘ what is the factor of safety available with respect to load? Use Terzaghi’s theory and
+Water table correction (reduction) factor method. Refer Table 1.
+
+(07)
+
+(07)
+
+Q.4) a) A square shallow foundation has 3m side, 2.4 m depth. It is resting on soil having c’
+= 15 kN/m’, 9’ = 34° and y: = 16.4 kN/m3. Calculate the net allowable bearing
+capacity for general shear failure considering depth effect alone. Use Vesic’s method. (07)
+Use Table 2 for bearing capacity factors. Take de = 1+ 0.2 \No (Di/B); dq = dy = 1+
+0.1 VN (DB);
+
+Q.4) b) A Plate Load Test on a soil is conducted using a plate of 0.25 m x 0.25 m size at a
+depth of 3.0 m. The safe bearing pressure and the corresponding settlement from the
+test are 92 kN/m? and 7 mm, respectively. Determine the settlement which a footing
+of size 3 m x 3 m, placed at same depth in the same soil, will undergo.
+
+(07)
+
+Q.5) a) A group of 9 piles in a row was driven into a soft clay extending from ground level to
+a great depth. The diameter and the length of piles were 30 cm and 10 m,
+respectively. The Unconfined Compressive Strength of the clay is 70 kPa. Ifthe piles (07)
+were placed at 90 cm centre to centre, compute the allowable load on the group on the
+basis of a shear failure criterion for a Factor of Safety of 2.5. Assume a = |
+
+Q.5) b) Aconcrete pile of 45 cm diameter is driven through a system of layered cohesive soil.
+The length of the pile is 16 m. The following data are available.
+
+Top layer 1: Soft clay, thickness = 8 m, G = 30 KN/ m?, a=0.9
+
+layer 2: Medium stiff clay, thickness = 6 m, Gj = 50 kN/ m?, o = 0.75 (07)
+layer 3: stiff clay, extends to a great depth, G = 105 kN/ m?, a = 0.50
+Calculate Qu, and Qa with a Factor of Safety of 2.5.
+
+Q.6) Evaluate the forces and loads in the struts for the bracing system shown in Figure2.
+Assume hinges at levels A, B, and C. Take y = 18 kN/m3, c = 30 kN/m? and (14)
+horizontal spacing between the struts as 2.0 m. The soil is soft to medium clay. Use
+Equivalent Beam Method.
+
+Q.7) a) Differentiate between the Projection and Ditch conditions of an underground conduit (02)
+
+with neat sketches.
+Q.7) _b)_ Describe the construction procedure of ‘Imperfect Ditch Conduit’ with a neat sketch. (05)
+Q.7) cc) _ Illustrate the different types of Geo-synthetics with their applications. (07)
+
+Page 2 of 4
+--- page 3 ---
+Zone B |
+
+Case 1 Critical circle through ioe ’
+(full fines)
+Case 2 Critical circle below toc
+{dotted fine) : :
+Case 3 Strong stratum at D = 7 ‘
+
+idasbed line} E
+Zone 8 =f-— Zone A Loree oe
+a :
+
+ues Case 3
+
+ie , : Iz :
+= 030 Cael f Be, =
+
+2 Case 2 Awa
+7
+
+a ae ee Ja 7 VA
+
+Y Va Ba y.
+3
+:
+0.10 Ay cL PA a
+ee 2 ae
+ba Zone A
+Es ew
+oos}— pL pile pie
+
+"0-10" 20 304050607080 80" .
+Slope 8 :
+Figure 1 Taylor’s stability numbers for circles
+
+passing through the toe and below or above the toe
+(after Taylor, 1937)
+
+Table 1 Terzaghi’s Bearing Capacity Factors (IS: 6403-1981)
+
+o (degrees) Ne Ng Ny
+
+0 5.14 1 0
+
+5 6.49 1.57 0.45
+10 8.35 2.47 1.22
+15 10.98 3.94 2.65
+20 14.83 6.4 §.39
+25 20.72 10.66 10.88
+30 30.14 18.4 22.4
+35 46.12 33.3 48.03
+40 75.31 64.2 109.41
+
+Page 3 of 4
+--- page 4 ---
+Note: ®, and Nae
+
+G. L.
+
+WT Ys Kia o A.
+2.5m
+
+(2) B
+8m a
+
+20 " G3) c
+
+) 15a 1 D
+
+TI / ff / /// 4 ff
+
+Figure 2 for Q. (6)
+
+Page 4 of 4
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper 99a287fddcfc
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_07/GEOTECHNICAL ENGINEERING II/Geotechnical Engineering II Batch 2017-18 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 November 2018
+- Text: ocr (4 pages), mean OCR confidence 82.9
+
+````text
+#
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGIN
+Program B.Tech Integrated (CIVIL) ~ Year: IV Se
+Academic Year: 2018-2019
+Subject: Geotechnical Engineering -II _- Marks: 60 S44
+Date: 15 November 2018 __ Time:10.00 am to 1.00 pm _
+Duration: 3 (hrs) LV
+No. of Pages:
+
+Re-examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is.provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+
+6) Assume Suitable data if necessary and state it clearly. Use Tables and Charts provided, where necessary.
+
+Q.1 Answer questions worth 12 marks
+
+a) | See Fig. 1. Determine the depth of water table below ground surface if Reduction | (3)
+factor Rwi for bearing capacity is 0.8175. Hence determine Rw2.
+
++ oe,
+JW GWT
+
+4m
+
+1 STRIP FOOTING
+
+t le 4m —s
+
+4m
+
+t
+
+FIG. 1
+b) | For a finite slope, c’= 11 kN/m?; 9’= 18°; y = 18 KN/m3. Fs required is 1.5.| (3)
+Determine the safe height of slope if angle of slope B = 25°. Take N; = 0.052.
+
+c) | List the assumptions made, with reasons, in Slices method of slope stability (3)
+analysis to make it statically determinate.
+d) | How are conduits classified based on installation? (3)
+
+e) | How are piles classified based on installation? Bring out clearly the differences | (3)
+by highlighting the significant points of each method.
+
+Page 1 of 4
+--- page 2 ---
+Q.2 |a) | A 20 m deep excavation is made in a soil at a slope of 25°. Given that c’ = 30 | (6)
+kN/m?; @’ = 15°; y = 18 KN/m?. Determine Factor of Safety wrt Strength (Fs) by
+trial and error using the given Taylor’s Stability Chart.
+b) | Calculate the Net allowable load (Qna) for a foundation for general shear | (6)
+condition given following data - Use Terzaghi’s Bearing capacity theory:
+Dia. | Dr c ® e G DEPTH OF
+(m) | (m) | (KN/m’) | (deg.) WATER TABLE
+FROM
+SURFACE (m)
+3 3 20 32 0.65 | 2.65 4
+Q.3 | a) | See Fig. 2. A concrete pile, 45 cm in dia., is driven to a depth of 16 m in a two - | (12)
+layered sandy medium. Properties of the layers are indicated in the figure. The
+water table is at ground level. Take Ks= 0.5 x Kp, Determine Qu using conventional
+method for shaft friction and Berezantsev’s method for base resistance. Take yw = 10
+kN/m?>.[ For @ = 32°, L = 16 mand d= 45 cm, Berezantsev’s Bearing capacity factor
+Nq= 25].
+PILE: d=45cm
+7 wi—zxx¥ aw at
+SAND
+e =0.6 ;G, = 2.64
+10m c=0; 9 = 30% §=0.75 0
+L=16m
+Vv
+A
+SAND
+om e=0.4; Gs = 2.65
+c=0; @ = 32°;6 =0,75@
+v
+FIG. 2
+Q.4 | a) |A retaining wall is supporting a cohesive backfill. The wall is 6m high, the | (6)
+
+backfill has c’= 20 kN/m?, ¢’=20°, y = 16 kN/m?. The backfill is horizontal. Soil
+is dry. Using Rankine’s theory,
+
+(i) draw active pressure distribution diagram.
+
+(ii) what is the depth of the tensile pressure zone?
+
+(iii) neglecting tensile zone, calculate Total active thrust on the wall.
+
+Page 2 of 4
+--- page 3 ---
+b)
+
+A square shallow foundation has 3m side, 2.4 m depth. It is resting on soil having
+c= 15 kN/m?, o = 34° and yr = 16.4 KN/m?. Calculate the Net allowable load for
+general shear failure considering depth effect alone. Use Meyerhof’s method.
+Take de = 1+ 0.2 VNo (DB); dq = dy = 1+ 0.1 VNo (Di/B); Ne = 42.14; Ng = 29.4;
+Ny =31.1.
+
+(6)
+
+Q.5
+
+a)
+
+A pile group consists of 9 piles arranged in 3 x 3 form. The piles are 15m long
+and 25cm in diameter, spaced 90cm apart. The soil consists of clay having qu=
+75 kPa. Compute the allowable load on the pile group for Block failure and
+Individual pile failure. Take FS = 2.5, Nc = 9 and Adhesion factor a = 1.
+
+(6)
+
+b)
+
+‘| A Plate Load Test on a soil is conducted using a plate of 0.3 m x 0.3 m size at a
+
+depth of 2.5 m. The safe bearing pressure and the corresponding settlement from
+the test are 92 kN/m? and 7 mm, respectively. Determine the settlement which a
+footing of size 3 m x 3 m, placed at same depth in the same soil, will undergo.
+
+(6)
+
+Q.6
+
+a)
+
+A ditch conduit is laid with its top at a depth of 5.0 m below G.L. and backfilled
+with soil compacted to 18 KN/m?. The vertical load on the conduit cannot exceed
+70 kN. If K = 0.33, 1 = 0.5 and Ca = 2.8, find the diameter of the conduit and the
+load reduction due to arching effect.
+
+(6)
+
+b)
+
+Draw a neat sketch of a typical Reinforced earth wall and mention all its
+components and their roles.
+
+(6)
+
+Q.7
+
+An excavation of 5 m depth is made in a stiff clay deposit. The soil properties are
+c = 22 kN/m?; o = 0°; y = 16 kN/m*. Horizontal struts are provided at depths of
+1.25, 2.5 and 3.75 m from the top. Draw the earth pressure envelope according to
+IS code method. Estimate the force per metre run of excavation in each strut and
+the reaction to be offered by the soil, if any.
+
+(12)
+
+Bearing Capacity Factors (IS: 6403-1981)
+
+(degrees) Ne Nq Ny
+
+0 5.14 1 0
+
+5 ¢ 6.49 1.57 0.45
+10 8.35 2.47 1.22
+15 10.98 3.94 2.65
+20 14.83 6.4 5.39
+25 20.72 10.66 10.88
+30 30.14 18.4 22.4
+35 46.12 33.3 48.03
+40 75.31 64.2 109.41
+
+Page 3 of 4
+--- page 4 ---
+za |
+Case 1 Critical circle through toe 1
+<full tines)
+Case 2 Critical circle below toc |
+{domed fine)
+Case 3. Strong stratum at D= HW 1
+(dashed fine)
+
+{ZR,
+| s
+a 10
+~ G IZ,
+j at
+5 a iL 20
+2 a f 25°
+= 0s a
+a “ Ba 7 4
+eee
+0.10 7)
+Zone A
+bos * coitleal circle
+r - 7 hrough toe
+tA SF eas
+er
+
+Slope B
+Figure 10.16 Taylor‘’s stability numbers for circles
+
+passing through the tee and below or above the toe
+(after Taylor, 1937)
+
+Taylor’s Stability Chart
+
+i id= 70
+
+| H |
+
+i _ |
+LT
+
+N wB % a) 40 4§
+
+Angle of unternal fnctian ¢
+
+Berezantsev’s Nq Values
+
+Page 4 of 4
+````
+
 ## 2018-19 · Re-Exam · Sem 7 · paper 842696f043e7
 
 - Departments: Civil
@@ -581,6 +1137,7 @@ Page 4 of 4
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_07/GEOTECHNICAL ENGINEERING II/Geotechnical Engineering II Batch 2018-19 Re Exam.tif`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 17 January 2019
 - Text: ocr (5 pages), mean OCR confidence 84.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 & \,
@@ -792,7 +1349,6 @@ Bearing Capacity Factors (IS: 6403-1981)
 
 voosw |
 
-Soa Sane Sane’ SURO ee Ss a eee oe
 
 \
 
@@ -800,7 +1356,6 @@ a oe coe oe
 
 a ehh en a oo
 
-een aw ne i rn 4 H
 QO 20 WW 50 GO 7G BD 9"
 Slope é 43 G Bh 109 120 140 tee 14) 2s
 
@@ -1428,6 +1983,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/GEOTECHNICAL ENGINEERING II BATCH 15-16 16-17 RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 04 May 2018
 - Text: ocr (3 pages), mean OCR confidence 82.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1547,7 +2103,6 @@ Page 2 of 3
 Table 12.3 Shape, depth and load inclination factors of Meyerhof, Hansen and
 
 Vesic
-Factors Meyerhof Hansen Vesic
 N
 5 1+02n, 2 dbo 2
 ¢ °L N, L
@@ -1583,443 +2138,6 @@ m+
 y i,=0 for ¢=0 Q, + Arc, cot Q,+A,c, corp
 
 Page 3 of 3
-````
-
-## 2017-18 · Re-Exam · Sem 6 · paper 8fadeb79eefe
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/Geotechnical engg-II ....Re-exam 2017-18-19.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 June 2019
-- Text: ocr (4 pages), mean OCR confidence 74.2
-
-````text
-y
-
-4
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA. Tech / B.Tech (CIVIL) Year: II] Semester: VI
-Academic Year: 2018-19
-Subject: Geotechnical Engineering-I Marks: 70
-Date : 17 June 2019 . Time: 10.00 am to 1.00 pm -
-
-Duration: 3 (Hrs)
-; L No. of Pages: 4
-Re- Examination (2017-18/2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use, umm ee
-
-1) Question No. _1 is compulsory.
-
-2) Out of remaining questions, attempt any _4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume .suitable data if necessary.
-
-eS
-
-Q.1) Answer ANY TWO of the following: - ; (14)
-1) a) A dry finite slope of angle B = 23°, is made up of soil having c’= 12 kN/m?;
-9°=249; y = 18 kN/m?. Fs required is 1.5. What will be the values of (i) @’m (ii)
-Stability Number Ns and (iii) Safe height of the slope. Use Taylor’s Stability
-Chart given in Figure 1.
-b) List the assumptions in Coulomb’s theory of lateral earth pressure. (03)
-Il) a) Discuss ‘Negative Skin Friction’ stating the formulae used for its estimation in (04)
-cohesive and cohesionless soils.
-b) A square footing of size 5m’x 5m and depth 3m, in a soil with y = 17 kN/m3, has
-quit= 4000 kKN/m?. Determine gross and net allowable bearing capacity. (03)
-Il) a) Explain the classification of conduits. (04)
-b) Explain the following functions of geotextiles: - filtration, protection and reinforcement. (03)
-
-(04)
-
-Q.2) a) The properties of the soil in an infinite cohesive slope are c’= 32 kN/m’, 9’ = 26°, G
-= 2.65 and e = 0.65. The slope has an angle of 25° and height 8m and is subjected to (07)
-steady seepage throughout its height. Find Fs, cm, 9’m. Take yw= 10 kN/m?.
-
-Q.2) b) Draw the Mohr’s Circle and derive an expression for active lateral earth pressure 07)
-coefficient K for a retaining wall supporting a cohesionless sloping backfill.
-
-Page 1 of 4
---- page 2 ---
-Q.3) a) A retaining wall is supporting some dry backfill. The wall is 8m high, the backfill is
-horizontal and has @’=20°, y = 16 kN/m?. There is a surcharge of 12 kN/m?. Using
-Rankine’s theory,
-
-(i) For c’ = 0, draw active pressure distribution diagram
-(ii) For c’ = 10 kN/m?, draw active pressure distribution diagram and mark the
-critical depth.
-
-Q.3) b) A square footing rests with its bottom at a depth of 2.5m from ground surface. The
-width is 4m. The soil above and below the foundation have c’ = 10 kN/m?; 0’ = 38°;
-yt = 17.0; Ysat = 19.0 kKN/m3. Ground water table is at 1.5 m below base of footing.
-Assume local shear failure. If a load Q of 4500 KN is to be applied to the foundation,
-
-‘ what is the factor of safety available with respect to load? Use Terzaghi’s theory and
-Water table correction (reduction) factor method. Refer Table 1.
-
-(07)
-
-(07)
-
-Q.4) a) A square shallow foundation has 3m side, 2.4 m depth. It is resting on soil having c’
-= 15 kN/m’, 9’ = 34° and y: = 16.4 kN/m3. Calculate the net allowable bearing
-capacity for general shear failure considering depth effect alone. Use Vesic’s method. (07)
-Use Table 2 for bearing capacity factors. Take de = 1+ 0.2 \No (Di/B); dq = dy = 1+
-0.1 VN (DB);
-
-Q.4) b) A Plate Load Test on a soil is conducted using a plate of 0.25 m x 0.25 m size at a
-depth of 3.0 m. The safe bearing pressure and the corresponding settlement from the
-test are 92 kN/m? and 7 mm, respectively. Determine the settlement which a footing
-of size 3 m x 3 m, placed at same depth in the same soil, will undergo.
-
-(07)
-
-Q.5) a) A group of 9 piles in a row was driven into a soft clay extending from ground level to
-a great depth. The diameter and the length of piles were 30 cm and 10 m,
-respectively. The Unconfined Compressive Strength of the clay is 70 kPa. Ifthe piles (07)
-were placed at 90 cm centre to centre, compute the allowable load on the group on the
-basis of a shear failure criterion for a Factor of Safety of 2.5. Assume a = |
-
-Q.5) b) Aconcrete pile of 45 cm diameter is driven through a system of layered cohesive soil.
-The length of the pile is 16 m. The following data are available.
-
-Top layer 1: Soft clay, thickness = 8 m, G = 30 KN/ m?, a=0.9
-
-layer 2: Medium stiff clay, thickness = 6 m, Gj = 50 kN/ m?, o = 0.75 (07)
-layer 3: stiff clay, extends to a great depth, G = 105 kN/ m?, a = 0.50
-Calculate Qu, and Qa with a Factor of Safety of 2.5.
-
-Q.6) Evaluate the forces and loads in the struts for the bracing system shown in Figure2.
-Assume hinges at levels A, B, and C. Take y = 18 kN/m3, c = 30 kN/m? and (14)
-horizontal spacing between the struts as 2.0 m. The soil is soft to medium clay. Use
-Equivalent Beam Method.
-
-Q.7) a) Differentiate between the Projection and Ditch conditions of an underground conduit (02)
-
-with neat sketches.
-Q.7) _b)_ Describe the construction procedure of ‘Imperfect Ditch Conduit’ with a neat sketch. (05)
-Q.7) cc) _ Illustrate the different types of Geo-synthetics with their applications. (07)
-
-Page 2 of 4
---- page 3 ---
-Zone B |
-
-Case 1 Critical circle through ioe ’
-(full fines)
-Case 2 Critical circle below toc
-{dotted fine) : :
-Case 3 Strong stratum at D = 7 ‘
-
-idasbed line} E
-Zone 8 =f-— Zone A Loree oe
-a :
-
-ues Case 3
-
-ie , : Iz :
-= 030 Cael f Be, =
-
-2 Case 2 Awa
-7
-
-a ae ee Ja 7 VA
-
-Y Va Ba y.
-3
-:
-0.10 Ay cL PA a
-ee 2 ae
-ba Zone A
-Es ew
-oos}— pL pile pie
-
-"0-10" 20 304050607080 80" .
-Slope 8 :
-Figure 1 Taylor’s stability numbers for circles
-
-passing through the toe and below or above the toe
-(after Taylor, 1937)
-
-Table 1 Terzaghi’s Bearing Capacity Factors (IS: 6403-1981)
-
-o (degrees) Ne Ng Ny
-
-0 5.14 1 0
-
-5 6.49 1.57 0.45
-10 8.35 2.47 1.22
-15 10.98 3.94 2.65
-20 14.83 6.4 §.39
-25 20.72 10.66 10.88
-30 30.14 18.4 22.4
-35 46.12 33.3 48.03
-40 75.31 64.2 109.41
-
-Page 3 of 4
---- page 4 ---
-Note: ®, and Nae
-
-G. L.
-
-WT Ys Kia o A.
-2.5m
-
-(2) B
-8m a
-
-20 " G3) c
-
-) 15a 1 D
-
-TI / ff / /// 4 ff
-
-Figure 2 for Q. (6)
-
-Page 4 of 4
-````
-
-## 2017-18 · Re-Exam · Sem 7 · paper 99a287fddcfc
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_07/GEOTECHNICAL ENGINEERING II/Geotechnical Engineering II Batch 2017-18 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 November 2018
-- Text: ocr (4 pages), mean OCR confidence 82.9
-
-````text
-#
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGIN
-Program B.Tech Integrated (CIVIL) ~ Year: IV Se
-Academic Year: 2018-2019
-Subject: Geotechnical Engineering -II _- Marks: 60 S44
-Date: 15 November 2018 __ Time:10.00 am to 1.00 pm _
-Duration: 3 (hrs) LV
-No. of Pages:
-
-Re-examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is.provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-
-5) Figures in brackets on the right hand side indicate full marks.
-
-6) Assume Suitable data if necessary and state it clearly. Use Tables and Charts provided, where necessary.
-
-Q.1 Answer questions worth 12 marks
-
-a) | See Fig. 1. Determine the depth of water table below ground surface if Reduction | (3)
-factor Rwi for bearing capacity is 0.8175. Hence determine Rw2.
-
-+ oe,
-JW GWT
-
-4m
-
-1 STRIP FOOTING
-
-t le 4m —s
-
-4m
-
-t
-
-FIG. 1
-b) | For a finite slope, c’= 11 kN/m?; 9’= 18°; y = 18 KN/m3. Fs required is 1.5.| (3)
-Determine the safe height of slope if angle of slope B = 25°. Take N; = 0.052.
-
-c) | List the assumptions made, with reasons, in Slices method of slope stability (3)
-analysis to make it statically determinate.
-d) | How are conduits classified based on installation? (3)
-
-e) | How are piles classified based on installation? Bring out clearly the differences | (3)
-by highlighting the significant points of each method.
-
-Page 1 of 4
---- page 2 ---
-Q.2 |a) | A 20 m deep excavation is made in a soil at a slope of 25°. Given that c’ = 30 | (6)
-kN/m?; @’ = 15°; y = 18 KN/m?. Determine Factor of Safety wrt Strength (Fs) by
-trial and error using the given Taylor’s Stability Chart.
-b) | Calculate the Net allowable load (Qna) for a foundation for general shear | (6)
-condition given following data - Use Terzaghi’s Bearing capacity theory:
-Dia. | Dr c ® e G DEPTH OF
-(m) | (m) | (KN/m’) | (deg.) WATER TABLE
-FROM
-SURFACE (m)
-3 3 20 32 0.65 | 2.65 4
-Q.3 | a) | See Fig. 2. A concrete pile, 45 cm in dia., is driven to a depth of 16 m in a two - | (12)
-layered sandy medium. Properties of the layers are indicated in the figure. The
-water table is at ground level. Take Ks= 0.5 x Kp, Determine Qu using conventional
-method for shaft friction and Berezantsev’s method for base resistance. Take yw = 10
-kN/m?>.[ For @ = 32°, L = 16 mand d= 45 cm, Berezantsev’s Bearing capacity factor
-Nq= 25].
-PILE: d=45cm
-7 wi—zxx¥ aw at
-SAND
-e =0.6 ;G, = 2.64
-10m c=0; 9 = 30% §=0.75 0
-L=16m
-Vv
-A
-SAND
-om e=0.4; Gs = 2.65
-c=0; @ = 32°;6 =0,75@
-v
-FIG. 2
-Q.4 | a) |A retaining wall is supporting a cohesive backfill. The wall is 6m high, the | (6)
-
-backfill has c’= 20 kN/m?, ¢’=20°, y = 16 kN/m?. The backfill is horizontal. Soil
-is dry. Using Rankine’s theory,
-
-(i) draw active pressure distribution diagram.
-
-(ii) what is the depth of the tensile pressure zone?
-
-(iii) neglecting tensile zone, calculate Total active thrust on the wall.
-
-Page 2 of 4
---- page 3 ---
-b)
-
-A square shallow foundation has 3m side, 2.4 m depth. It is resting on soil having
-c= 15 kN/m?, o = 34° and yr = 16.4 KN/m?. Calculate the Net allowable load for
-general shear failure considering depth effect alone. Use Meyerhof’s method.
-Take de = 1+ 0.2 VNo (DB); dq = dy = 1+ 0.1 VNo (Di/B); Ne = 42.14; Ng = 29.4;
-Ny =31.1.
-
-(6)
-
-Q.5
-
-a)
-
-A pile group consists of 9 piles arranged in 3 x 3 form. The piles are 15m long
-and 25cm in diameter, spaced 90cm apart. The soil consists of clay having qu=
-75 kPa. Compute the allowable load on the pile group for Block failure and
-Individual pile failure. Take FS = 2.5, Nc = 9 and Adhesion factor a = 1.
-
-(6)
-
-b)
-
-‘| A Plate Load Test on a soil is conducted using a plate of 0.3 m x 0.3 m size at a
-
-depth of 2.5 m. The safe bearing pressure and the corresponding settlement from
-the test are 92 kN/m? and 7 mm, respectively. Determine the settlement which a
-footing of size 3 m x 3 m, placed at same depth in the same soil, will undergo.
-
-(6)
-
-Q.6
-
-a)
-
-A ditch conduit is laid with its top at a depth of 5.0 m below G.L. and backfilled
-with soil compacted to 18 KN/m?. The vertical load on the conduit cannot exceed
-70 kN. If K = 0.33, 1 = 0.5 and Ca = 2.8, find the diameter of the conduit and the
-load reduction due to arching effect.
-
-(6)
-
-b)
-
-Draw a neat sketch of a typical Reinforced earth wall and mention all its
-components and their roles.
-
-(6)
-
-Q.7
-
-An excavation of 5 m depth is made in a stiff clay deposit. The soil properties are
-c = 22 kN/m?; o = 0°; y = 16 kN/m*. Horizontal struts are provided at depths of
-1.25, 2.5 and 3.75 m from the top. Draw the earth pressure envelope according to
-IS code method. Estimate the force per metre run of excavation in each strut and
-the reaction to be offered by the soil, if any.
-
-(12)
-
-Bearing Capacity Factors (IS: 6403-1981)
-
-(degrees) Ne Nq Ny
-
-0 5.14 1 0
-
-5 ¢ 6.49 1.57 0.45
-10 8.35 2.47 1.22
-15 10.98 3.94 2.65
-20 14.83 6.4 5.39
-25 20.72 10.66 10.88
-30 30.14 18.4 22.4
-35 46.12 33.3 48.03
-40 75.31 64.2 109.41
-
-Page 3 of 4
---- page 4 ---
-za |
-Case 1 Critical circle through toe 1
-<full tines)
-Case 2 Critical circle below toc |
-{domed fine)
-Case 3. Strong stratum at D= HW 1
-(dashed fine)
-
-{ZR,
-| s
-a 10
-~ G IZ,
-j at
-5 a iL 20
-2 a f 25°
-= 0s a
-a “ Ba 7 4
-eee
-0.10 7)
-Zone A
-bos * coitleal circle
-r - 7 hrough toe
-tA SF eas
-er
-
-Slope B
-Figure 10.16 Taylor‘’s stability numbers for circles
-
-passing through the tee and below or above the toe
-(after Taylor, 1937)
-
-Taylor’s Stability Chart
-
-i id= 70
-
-| H |
-
-i _ |
-LT
-
-N wB % a) 40 4§
-
-Angle of unternal fnctian ¢
-
-Berezantsev’s Nq Values
-
-Page 4 of 4
 ````
 
 ## 2017-18 · Re-Exam · Sem 7 · paper c5ca8ff0246e
@@ -2363,6 +2481,167 @@ Settlement, mm. 1.90 2.85 6.20 9.10 12.40 15.8 19.00 17.00 15.00 10
 2/4
 ````
 
+## 2016-17 · Re-Exam · Sem 6 · paper 402e266ebe0d
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/GEOTECHNICAL ENGINEERING II BATCH 15-16 RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
+- Text: ocr (3 pages), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN!
+
+Programme: B. Tech (CIVIL) Year: III é Semester: VI
+
+Academic Year: 2016-2017
+
+Subject: Geotechnical Engineering-II
+Marks: 60
+Date: 05 May 2017 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages:
+Final Examinations (Batch 2016-2017)/
+Re-Examination (Batch 2015-2016)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVEquestions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1) AttemptANY THREE questions:- (12) *
+
+a) Explain the types of failure of slope with neat sketches.
+
+b) Explain the principle of interaction between soil and reinforcing elements in
+Reinforced Earth Wall with a neat sketch. Also explain the components of Reinforced
+Earth Wall.
+
+c) Explain General, Local and Punching Shear Failure stating their characteristics and
+type of soils in which they occur. Support your answer with figures.
+
+d) Explain the classification of piles based on function with sketches.
+
+e) Explain the classification of conduits.
+
+Q.2) a) Explain Friction Circle to determine the stability of slopes. (06)
+
+b) What will be the factor of safetywith respect to i) average shearing strength ii)
+cohesion and iii) internal friction of a soil for which the shear strength parameters
+obtained from the laboratory tests are c’ = 34 KN/ m? and ° = 20°: the expected
+parameters of mobilized shearing resistance are c’m = 22 KN/ m? and and ’m = 15°
+and the average effective normal pressure on the failure plane is 150 KN/ m’. For the
+same value of mobilized shearing resistance determine the iv) Factor of Safety with
+respect to height, v) Factor of Safety with respect to friction when that, with respect to
+cohesion is unity, and vi) Factor of Safety with respect to strength. (06)
+
+Page 1 of 3
+--- page 2 ---
+Q.3) a) Derive an expression for passive earth pressure on an element at a depth ‘Z’ given by
+
+| 2 é .
+Pa=Kayz where, Ka=CosB Cos fj Cox f- Cost¢ (6) 6)
+CosB +{Cos? B — Cos’
+
+b) A 6 m high retaining wall with a vertical face supports cohesionless soil with the
+following properties:- G; = 2.69, > = 35° and porosity n = 40.5%.
+The top surface of backfill is horizontal and flush with the top of wall. Determine the
+total active thrust and its position of action. Also draw the pressure distribution. The
+Ground Water Table exists at 2.5 m below the top surface of backfill. Take
+yw=9.81KN/ m?. (06)
+
+Q.4) a) Sketch typical Load — Settlement Curves obtained from Plate Load test for the
+following types of soils:-
+(i) Loose to medium cohesionless soil (ii) cohesive soil (iii) partially cohesive soil,
+and (iv) dense cohesionless soil.
+Explain how to obtain ultimate bearing capacity in each of the above case.
+Also state the limitations of Piate Load Test. (06)
+
+b) Design a strip footing to carry a load of 750 KN/ m at a depth of 1.6 m in a c-o sa]
+having a unit weight of 18 kN/ m? and shear strength parameters as c = 20 kN/ m
+and $ = 25°. Determine the width of the footing, using a factor of safety of 3 against
+shear failure. Take the bearing capacity factors. for general shear failure as N, = 25.1,
+Ng = 12.7 and N, = 9.7. Use terzaghi’s theory. T water table is at a great depth. If the
+water able rises to ground level, then find out the width of the footing. (06)
+
+Q.5) a) A footing 2 m x 2 m rests on a soft clay soil with its base at a depth of 1.5 m from
+ground surface. The clay stratum is 3.5 m thick and is underlain by a firm sad
+stratum. The clay soil has L.L. = 30%, Gs = 2.7, Wsar = 40%, c= 055 kg/ cm?
+(= 0). It is known that a clay stratum is normally consolidated. Compute the
+settlement that, would result if, the load intensity equal to safe bearing capacity of
+soil was allowed to act on the footing. Natural water table is at the ground surface.
+For the given conditions bearing capacity factor N, is obtained as 6.9. Take Factor of
+Safety as 3. Assume the slope of load spread equal to 2(vertical): 1(Horizontal) and
+Yw=lt/ m> (06)
+
+b) A group of 3x3 friction piles of 30 cm diameter is subjected to a net load of 2000 kN
+as shown in Figure 1 (page3). Estimate the Consolidation settlement. Take yy=10
+
+kN/ m’.
+(06)
+
+Q.6) A concrete pile of 45 cm diameter is driven to a depth of 16 m through a layered
+system of sandy soil (c = 0). The following data are available:-
+
+Top Layer 1: Thickness = 8 m, ya = 16.5 KN/ m?, ¢ = 0.60 and = 30°
+Layer 2: Thickness = 6 m, yq= 15.5 KN/ m’ 7c= 0. 65 and $= 35°
+
+— Layer 3: Thickness = 2 m, ya= 16 KN/ m’, e = 0.65 and ) = 38°
+Takey,=9.81KN/ m?. Assume value of ‘8’ in all layers of sand equal to 0.75xo. The
+pee value of K, for each layer is 0.5 Ky. The water table is at the ground level. Calculate
+the value of ultimate and safe load on pile with a Factor of Safety of 2.5. Take
+Ng=95. (12)
+Page 2 of 3
+--- page 3 ---
+aac
+
+Q.7) a) The bracing system is provided in trench in stiff fissured clay soil having y =
+19kN/m? and c = 40 kN/ m’. The centre to centre spacing of the struts along the
+length of cut (in plan) is 2.5 m. Determine the loads in the three struts. The depth of
+trench is 6 m and struts are provided at | m, 3 m and 5 m from the ground level.(06)
+
+b) Explain in short the different forms of Geosynthetic. (03)
+c) Describe the construction of imperfect ditch conduit. (03)
+2000 KN
+v
+G L
+AS 4 Ee 4
+
+= “g 3
+GWT Y | om y=16 kN/ m
+
+~
+= 2m Yyap= 19 KN/ m3
+
+12m
+
+10m
+
+[oon 2D ___y C= 0.25
+
+€) = 0.75
+
+10m
+
+Yeat = 21 KN/ m3
+C= 0.20
+
+Cy = 0.65
+
+Figure 1 [Q.5 b
+
+frye 3/3
+````
+
 ## 2016-17 · Re-Exam · Sem 6 · paper ceb5a92d9347
 
 - Departments: Civil
@@ -2499,125 +2778,6 @@ b. Explain mechanism of reinforced soil and explain. the functions. of geosynthe
 material.
 
 A/a
-````
-
-## 2016-17 · Re-Exam · Sem 6 · paper 2202d26f49ff
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/GEOTECHNICAL ENGINERRING II BATCH 15-16 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 20 April 2019
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program B. Tech (CIVIL) ~ Year: IIT Semester: VI ~
-j AcademicYear: 2018-2019
-
-Subject: Geotechnical Engineering-II «
-
-Date: 20 April 2019 «
-
-a
-
-Re-Examination (2015-16 / 2016-17)
-
-instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1 is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1) Answer ANY THREE: - (12)
-
-a) Explain the types of failure of slope with neat sketches.
-
-b) Explain active, passive and at rest pressure in detail with examples.
-
-c) Explain General, Local and Punching Shear Failure stating their characteristics and
-type of soils in which they occur. Support your answer with figures.
-
-d) Explain the classification of piles based on function with sketches.
-
-e) Explain the classification of conduits.
-
-Q.2) a) Explain Swedish Circle Method to determine the stability of slopes. (06)
-
-b) What will be the factor of safety with respect to i) average shearing strength ii) cohesion
-and iii) internal friction of a soil for which the shear strength parameters obtained from
-the laboratory tests are c’ = 34 kN/ m? and 4’ = 20°; the expected parameters of
-mobilized shearing resistance are c’m = 22 kN/ m2? and and ’m = 15° and the average
-effective normal pressure on the failure plane is 150 kN/ m’. For the same value of
-mobilized shearing resistance determine the iv) Factor of Safety with respect to height,
-v) Factor of Safety with respect to friction when that, with respect to cohesion is unity,
-
-al and vi) Factor of Safety with respect to strength. (06)
-
-Q.3) a) Compute the intensities of active and passive earth pressure at depth of 8 metres in dry
-cohesionless sand with an angle of internal friction of 30° and unit weight of 18.5
-kN/m?. What will be the intensities of active and passive earth pressure if the water
-level rises to the ground level? (06)
-
-Page 1 of 2
---- page 2 ---
-b) Explain Coulomb’s Wedge Theory. (06)
-Q.4) a) Discuss the factors affecting bearing capacity of soil. (06)
-b) A strip footing 1 m wide is placed at a depth of 0.8 m from ground surface. Shear
-strength parameters of the soil are c= 30 KN/ m? and $= 20°. Determine the safe
-
-bearing capacity for a factor of safety of 3 against shear failure. The water table is at
-
-the base of footing. Take y= 18 KN/ m3, N'c= 11.8, N'q= 3.9 and N'y = 1.7. Consider
-
-local shear failure and use Terzaghi's Theory. Water table is at great depth. (06)
-
-Q.5) a) A footing 2 m x 2 m rests on a soft clay soil with its base at a depth of 1.5 m from
-ground surface. The clay stratum is 3.5 m thick and is underlain by a firm sand stratum.
-The clay soil has L.L. = 30%, Gs = 2.7, Wsat = 40%, c= 0.5 kg/ cm? ($ = 0). It is known
-that a clay stratum is normally consolidated. Compute the settlement that, would result
-if, the load intensity equal to safe bearing capacity of soil was allowed to act on the
-footing. Natural water table is at the ground surface. For the given conditions bearing
-capacity factor N. is obtained as 6.9. Take Factor of Safety as 3. Assume the slope of
-load spread equal to 2(vertical): 1(Horizontal) and = yw=It/ m’. (06)
-
-b) A precast concrete pile of weight 4200 kg is driven by drop hammer with a stroke of
-1 m has an efficiency of hammer (nh) equal to 0.8. The weight of the hammer is 3200
-kg. The average set per blow is 1.8 cm. The total temporary elastic compression (C) for
-Hiley's formula is 1.96 cm. Assuming the coefficient of restitution as 0.2, determine the
-allowable load on the pile using:-
-
-(a) Engineering News Formula and (b) Hiley's formula with a factor of safety of 2.5.
-(06)
-
-Q.6) Aconcrete Pile of 45 cm diameter is driven to a depth of 16 m through a layered system
-of sandy soil (c = 0). The following data are available: -
-Top Layer 1: Thickness= 8 m, $ = 30°, e = 0.6, ya = 16.5 kN/ mn?
-Layer 2: Thickness= 6 m, = 35°, e = 0.65, ya = 15.5 KN/ m?
-Layer 3: Extends to a great depth, e = 0.65, > = 38° y = 16 KN/ m>
-Take 5 = 0.75 6, Take Ks = 0.5Kp Water table is at ground level, Ng =95 and factor of
-safety=2.5 Calculate the Net Capacity after considering the negative skin friction. (12)
-
-Q.7) a) The bracing system is provided in trench in stiff fissured clay soil having y = 19kN/m3
-and c = 40 KN/ m’. The centre to centre spacing of the struts along the length of cut
-(in plan) is 2.5 m. Determine the loads in the three struts. The depth of trench is 6 m
-
-and struts are provided at 1 m, 3 m and 5 m from the ground level. (06)
-
-b) Explain the different functions of Geosynthetic. (03)
-
-c) Describe the construction of imperfect ditch conduit. (03)
-Page 2 of 2
 ````
 
 ## 2016-17 · Re-Exam · Sem 6 · paper 71234c664b52
@@ -3055,167 +3215,6 @@ GWL at 3.50 m.
 16.00 / 14,27,28,29 / SM
 ````
 
-## 2015-16 · Re-Exam · Sem 6 · paper 402e266ebe0d
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/GEOTECHNICAL ENGINEERING II BATCH 15-16 RE EXAM.pdf` (+2 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
-- Text: ocr (3 pages), mean OCR confidence 87.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN!
-
-Programme: B. Tech (CIVIL) Year: III é Semester: VI
-
-Academic Year: 2016-2017
-
-Subject: Geotechnical Engineering-II
-Marks: 60
-Date: 05 May 2017 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-No. of Pages:
-Final Examinations (Batch 2016-2017)/
-Re-Examination (Batch 2015-2016)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVEquestions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1) AttemptANY THREE questions:- (12) *
-
-a) Explain the types of failure of slope with neat sketches.
-
-b) Explain the principle of interaction between soil and reinforcing elements in
-Reinforced Earth Wall with a neat sketch. Also explain the components of Reinforced
-Earth Wall.
-
-c) Explain General, Local and Punching Shear Failure stating their characteristics and
-type of soils in which they occur. Support your answer with figures.
-
-d) Explain the classification of piles based on function with sketches.
-
-e) Explain the classification of conduits.
-
-Q.2) a) Explain Friction Circle to determine the stability of slopes. (06)
-
-b) What will be the factor of safetywith respect to i) average shearing strength ii)
-cohesion and iii) internal friction of a soil for which the shear strength parameters
-obtained from the laboratory tests are c’ = 34 KN/ m? and ° = 20°: the expected
-parameters of mobilized shearing resistance are c’m = 22 KN/ m? and and ’m = 15°
-and the average effective normal pressure on the failure plane is 150 KN/ m’. For the
-same value of mobilized shearing resistance determine the iv) Factor of Safety with
-respect to height, v) Factor of Safety with respect to friction when that, with respect to
-cohesion is unity, and vi) Factor of Safety with respect to strength. (06)
-
-Page 1 of 3
---- page 2 ---
-Q.3) a) Derive an expression for passive earth pressure on an element at a depth ‘Z’ given by
-
-| 2 é .
-Pa=Kayz where, Ka=CosB Cos fj Cox f- Cost¢ (6) 6)
-CosB +{Cos? B — Cos’
-
-b) A 6 m high retaining wall with a vertical face supports cohesionless soil with the
-following properties:- G; = 2.69, > = 35° and porosity n = 40.5%.
-The top surface of backfill is horizontal and flush with the top of wall. Determine the
-total active thrust and its position of action. Also draw the pressure distribution. The
-Ground Water Table exists at 2.5 m below the top surface of backfill. Take
-yw=9.81KN/ m?. (06)
-
-Q.4) a) Sketch typical Load — Settlement Curves obtained from Plate Load test for the
-following types of soils:-
-(i) Loose to medium cohesionless soil (ii) cohesive soil (iii) partially cohesive soil,
-and (iv) dense cohesionless soil.
-Explain how to obtain ultimate bearing capacity in each of the above case.
-Also state the limitations of Piate Load Test. (06)
-
-b) Design a strip footing to carry a load of 750 KN/ m at a depth of 1.6 m in a c-o sa]
-having a unit weight of 18 kN/ m? and shear strength parameters as c = 20 kN/ m
-and $ = 25°. Determine the width of the footing, using a factor of safety of 3 against
-shear failure. Take the bearing capacity factors. for general shear failure as N, = 25.1,
-Ng = 12.7 and N, = 9.7. Use terzaghi’s theory. T water table is at a great depth. If the
-water able rises to ground level, then find out the width of the footing. (06)
-
-Q.5) a) A footing 2 m x 2 m rests on a soft clay soil with its base at a depth of 1.5 m from
-ground surface. The clay stratum is 3.5 m thick and is underlain by a firm sad
-stratum. The clay soil has L.L. = 30%, Gs = 2.7, Wsar = 40%, c= 055 kg/ cm?
-(= 0). It is known that a clay stratum is normally consolidated. Compute the
-settlement that, would result if, the load intensity equal to safe bearing capacity of
-soil was allowed to act on the footing. Natural water table is at the ground surface.
-For the given conditions bearing capacity factor N, is obtained as 6.9. Take Factor of
-Safety as 3. Assume the slope of load spread equal to 2(vertical): 1(Horizontal) and
-Yw=lt/ m> (06)
-
-b) A group of 3x3 friction piles of 30 cm diameter is subjected to a net load of 2000 kN
-as shown in Figure 1 (page3). Estimate the Consolidation settlement. Take yy=10
-
-kN/ m’.
-(06)
-
-Q.6) A concrete pile of 45 cm diameter is driven to a depth of 16 m through a layered
-system of sandy soil (c = 0). The following data are available:-
-
-Top Layer 1: Thickness = 8 m, ya = 16.5 KN/ m?, ¢ = 0.60 and = 30°
-Layer 2: Thickness = 6 m, yq= 15.5 KN/ m’ 7c= 0. 65 and $= 35°
-
-— Layer 3: Thickness = 2 m, ya= 16 KN/ m’, e = 0.65 and ) = 38°
-Takey,=9.81KN/ m?. Assume value of ‘8’ in all layers of sand equal to 0.75xo. The
-pee value of K, for each layer is 0.5 Ky. The water table is at the ground level. Calculate
-the value of ultimate and safe load on pile with a Factor of Safety of 2.5. Take
-Ng=95. (12)
-Page 2 of 3
---- page 3 ---
-aac
-
-Q.7) a) The bracing system is provided in trench in stiff fissured clay soil having y =
-19kN/m? and c = 40 kN/ m’. The centre to centre spacing of the struts along the
-length of cut (in plan) is 2.5 m. Determine the loads in the three struts. The depth of
-trench is 6 m and struts are provided at | m, 3 m and 5 m from the ground level.(06)
-
-b) Explain in short the different forms of Geosynthetic. (03)
-c) Describe the construction of imperfect ditch conduit. (03)
-2000 KN
-v
-G L
-AS 4 Ee 4
-
-= “g 3
-GWT Y | om y=16 kN/ m
-
-~
-= 2m Yyap= 19 KN/ m3
-
-12m
-
-10m
-Lo Lo Lt ww Ysat 20 kN/ m?
-
-[oon 2D ___y C= 0.25
-
-€) = 0.75
-
-10m
-
-Yeat = 21 KN/ m3
-C= 0.20
-
-Cy = 0.65
-
-Figure 1 [Q.5 b
-
-frye 3/3
-````
-
 ## 2015-16 · Re-Exam · Sem 6 · paper f3d4308734d5
 
 - Departments: Civil
@@ -3530,6 +3529,285 @@ c) State the limitations of dynamic methods of estimation of pile loads. (3)
 Page 3 of 3
 ````
 
+## 2015-16 · Re-Exam · Sem 6 · paper 405dbb762bf2
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Geotechnical Engineering II/Geotechnical Engineering II Batch 2014-15 Re Exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 05/05/2016
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+SVKM’s NMIMS
+
+ey MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (Civil) Year: III Semester: VI
+: T:
+
+Academic Year: 2015-16
+
+Batch: 2014-15 eee =
+on so
+
+Subject: Geotechnical Engineering - II
+
+7 Marts: 60
+Date: 05/05/2016 Ben 10.09 gin ton i j
+Durations: 3 (hrs), An
+Re-Examination ee
+lig ma se
+
+* Meads
+
+Note-
+1. Question No.:1 is compulsory.
+
+2. Answer any four out of remaining six main questions.
+
+3. Assumptions made should be clearly stated.
+
+4. Answers to all sub questions should be grouped together.
+5. Answer to each new question to be started on a fresh page.
+6. Figure in the brackets on the right hand indicate full marks.
+7. Illustrate answers with neat sketches wherever required.
+
+Q. 1) Answer any four -
+a) Explain the movements of wall on earth pressure. What is the significance of
+
+‘at rest condition’? (03)
+b) Write a brief note on combined footings and principles of proportioning them. (03)
+c) With the help of neat sketches explain functions of geotextiles w.r.t. filtration
+
+and separation. (03)
+d) Describe the construction of imperfect ditch conduit. (03)
+e) What is stability factor? State the uses of stability chart. (03)
+
+Q.2-a) Explain the procedure of calculating passive earth pressure using Coulomb’s
+graphical method. ~ (06)
+b) A retaining wall with a smooth vertical backface has to retain a backfill of ¢-6 soil
+up to 5-0 m above GL. The surface of the backfill is horizontal and it has the
+followingproperties:
+y=18tm, c=1-5tm, =12°
+i) Plot the distribution of active earth pressure on the wall.
+ii) Determine the intensity of fictitious uniform surcharge, which, if placed over
+the backfill, can prevent the formation of tension cracks.
+iii) Compute the active thrust after placing the surcharge. (06)
+
+Q.3-a) Write detailed notes on the following:
+i) Dynamic formulae and their limitations, w. r. t. piles.
+ii) Estimate consolidation settlement of group of piles driven in clay deposit. (06)
+b) In a two-layered cohesive soil, bored piles of 400 mm diameter are installed. The
+Top layer has a thickness of 5-0 m. and the bottom one is of considerable depth.
+The shear strength of top layer is 45 KN/m/ and that of the bottom is 100 kN/m’.
+Determine the length of the bored pile required to carry a load of 380 KN, allowing
+a FOS of 2:0. (take adhesion factor = 0-50). (06)
+--- page 2 ---
+Q.4-a) A square foundation is to be designed for a gross allowable total load of 300 kN.
+Determine the width of the foundation using a factor of safety of 3-0 and Vesic’s
+recommendations. The soil properties are: ,
+
+y=19-:0kN/m’, c=5:0kN/m’, = 33°
+The foundations are placed at a depth of 1-20 m below the GL. The water table is
+at 4-0 m below GL. Consider general shear failure (neglect depth factors). (06)
+b) With the help of neat sketches explain the ditch condition and projection condition. —_ (06)
+
+Q.5-a) What is apparent pressure diagram? Explain the procedure to construct apparent
+pressure diagram.
+Draw average apparent pressure diagrams for sand and soft clay. (06)
+b) An embankment is to be made of soil having effective shear parameters as
+c=27kN/m’, = 19°. The mobilized cohesion and friction are- om = 19 kN/m?,
+$m = 14°. Calculate the factors of safety with respect to cohesion and friction.
+If the average value of normal effective stress on the failure surface is 125 kN/m?
+what is the true factor of safety? (06)
+
+Q.6-a) A plate load test using a 30 cm x 30 cm plate gave the following load — settlement:
+Load (kg/cm?) 0:25 0:50 1:00 2:00 3:00 4-00 5.00
+Settlement(mm) 0:45 0-85 1:80 3:45 5-00 8.75 14-50
+
+i) Plot the load vs. settlement curve and determine the ultimate bearing capacity
+
+of the plate.
+ii) Determine the ultimate load which a footing of 1.50 m x 1.50 m placed at
+
+1.20 m below GL in the same soil, will carry if the allowable settlement is
+
+20-0 mm. (use IS code recommendations). (06)
+b) With the help of.neat sketches explain modes of failure of shallow foundations.
+Also write detailed note on depth of shallow foundations. (06)
+
+Q.7-a) Classify the various types of conduits. Explain with the help of neat sketches.
+Derive an expression for the load on a ditch conduit. (06)
+b) The column of a footing is founded at a depth of 1-5 m below GL and is supported
+by a number of piles each having length of 10 m. The subsoil consists of three
+layers, the properties of which are given below.
+Layer — I: C=25 tim, y=1-70t/m3, o= 0°, H=65m
+Layer-II: C=5-0t/m’, y=1-81 tm’, >= 0°, H=30m
+Layer-UI: C=0-0t/m’, y=1-84 tm’, o= 32°, H=15-0m
+Determine the safe load on each pile if the diameter of the piles is 500 mm
+and required factor of safety be 2-50. Assume a = 0-72. (06)
+
+» ———
+
+oe].
+````
+
+## 2014-15 · Final-Exam · Sem 6 · paper 38d099e34196
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/GEOTECHNICAL ENGINEERING II B TECH (CIVIL), FINAL EXAM.pdf`
+- Printed on paper: exam date: 05/05/2015
+- Text: ocr (4 pages), mean OCR confidence 64.4
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: ITN —
+Academic Year: 2014-2015 A OIE AN
+Subject: Geotechnical Engineering-II - 4
+Marks: \ gq‘? ** Ys,
+Date: 05/05/2015 Time : wos arson
+Durations: Syne uve"
+
+Note:- 1. Attempt any 5 questions
+2. Each question carries 12 marks
+3. Books and notes can be used in this examination.
+4.Laptops, Mobiles and ipads are not permitted
+5. Basis of arriving at the value for each parameter must be stated
+
+Que.1 Estimate the capacity of a footing 2.00 m. x 3.00 m. placed at a Reduced
+Level (RL) of 97.00 m. where the general ground level may be assumed as 100.00
+m. Assume a Suitable design profile based on the soil profile shown in Figure 1.
+Estimation should be carried using Vesic’s approach.
+
+Que.2. Estimate the safe capacity of a driven precast pile. Diameter of the pile
+may be assumed as 0.60 m. The piie is terminated ata depth of 10.00 m. Suitable
+design profile based on soil profile shown in figure 2 may be assumed. What
+would be the safe capacity of a 3x3 group with a centre to centre spacing of 2.5
+d. RL of top of pile may assumed as 100.00 m.
+
+Que.3. Using the Culman’s mehtod estimate the active pressure for he retaining
+wall shown in figure 3. (graphical solution is expected)
+
+aan Surcharge angle 30 degrees
+\
+Wall re re
+
+10 degrees Height of wall 10.00 m. phi= 30 degrees
+& = 20 degrees , density of soil — 18 kN/m.?
+
+Fig A. Relining wal,
+
+4/2.
+--- page 2 ---
+Que.4. . Struts are inserted at depths of 2.0, 6.0, 10.00 and 15.00 m. in an
+excavation carried out to a depth of 18.00 m. The c/c spacing along the length
+of the excavation is 3.50 m. The strut loads are measured and found to be 40,
+55, 75 and 70 kN. respectively as measured from top. Draw the apparent earth
+pressure diagram. Why is it called an apparent earth pressure diagram?
+
+Que.5. A conduit is laid with its top above ground level. An embankment is
+constructed above the conduit. The pipe is rigid compared to the adjoining soil.
+The settlement ratio may be assumed as 0.25. The width of the conduit is 0.80
+m. and it is placed with its top 0.80 m. above ground level. The height of the
+embankment is 4.00 m. above the top of the pipe. Assume density of the fill as
+19 kN/m.?
+
+a. What is the load on the conduit ? .
+
+b. Is ita complete or an incomplete condition?
+
+c. If it is an incomplete condition what is the height of the plane of equal
+settlement above the top of the conduit?
+
+d. What is the load on the conduit if itis laid with its top coinciding with the
+g. round level?
+
+Que. 6. An infinite slope is constructed ina cohesionless soil. The slope angle is
+23 degrees while the angle of internal friction is 28 degrees. Determine the FS
+against a slope failure under conditions mentioned below. What is the mode of
+
+failure?
+
+1. Dry slope
+
+2. Saturated slope
+
+3. Water running down the slope
+
+4. Also determine the FS if the slope has a depth of 6.00 m. and the soil also
+possess cohesion of 10 kN/m.’ in addition to the angle of internal friction
+
+of 23 degrees.
+
+Use bulk density of 18 kN/m.? saturated density 20 kN./m.°
+--- page 3 ---
+Bus 8 H3
+€20,F0 > - oo C132, go)
+
+“a
+a BH
+BH a Bet uy
+7: C9, 20m) (19e@ , ro) :
+
+8 4 Loen tyes P lawn,
+
+Plet Size iSohis)| m-
+
+Scale Leamnr1o wm.
+
+spt “|
+
+\ y | - \
+Llib o [he 1?
+--- page 4 ---
+au = 120
+
+i
+
+| a
+
+| . ©
+
+| Ht BHR i
+{
+
+4 (3222) Clipe, 20)
+
+8 [20 ™
+
+Bu loca Elam Plaw
+
+But -
+
+RL Lod Pa Ui
+or PT ia
+S| set
+= |. | 7 Set cH ~~ 3
+Love OL
+ab | REMG etae ESL]
+ub eet, aon ant To set rf. a r3 “y
+Pa LL TON LL7O an a
+GF —S hme és] 5 nim To | gt BME 70"/
+| a Ie pluo'/f | | Po Yer;
+pL n%) ! Y Or;.
+$ro3 oT _ ~ 1?
+ey
+a o 1 - 3
+ee ee ee eee ~ 4
+ao 1S — ze. 5a ~ is
+bak , wihc 40 3 Pe PEM ael, Lime &
+ers t : — 20 ~ a ,
+Tw eu : 7 bo il
+{6 } = 257 Pt OST j, eS
+ie th wae SO \ 4
+=e ae valt — 30
+wok 4 C —_?
+````
+
 ## 2014-15 · Final-Exam · Sem 6 · paper 0d6c2f0747e7
 
 - Departments: Civil
@@ -3657,6 +3935,7 @@ d) Explain how ultimate bearing capacity is calculated in case of local shear fa
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/GEOTECHNICAL ENGINEERING II B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
 - Printed on paper: exam date: 29/06/2015
 - Text: ocr (5 pages), mean OCR confidence 60.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3794,9 +4073,7 @@ Son LL Jo |. a L = | On
 er on . 47
 | 1 en - a
 lor ieee cool
-i a . -ie “f “he 1ST .
 aad <'F LL sof = tt Bore | yo LL sos
-rub 5 ag NIC 40 mde MMCALT. ato NMS AS!
 CH om PL asm; | PLUSH mL AG}
 (6 = -35 athe po eS
 Sie _ 30 Lise
@@ -3969,129 +4246,6 @@ end bearing and assume adhesion factor of 0:80
 06
 
 06
-````
-
-## 2014-15 · Re-Exam · Sem 6 · paper 405dbb762bf2
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Geotechnical Engineering II/Geotechnical Engineering II Batch 2014-15 Re Exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 05/05/2016
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS
-
-ey MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech (Civil) Year: III Semester: VI
-: T:
-
-Academic Year: 2015-16
-
-Batch: 2014-15 eee =
-on so
-
-Subject: Geotechnical Engineering - II
-
-7 Marts: 60
-Date: 05/05/2016 Ben 10.09 gin ton i j
-Durations: 3 (hrs), An
-Re-Examination ee
-lig ma se
-
-* Meads
-
-Note-
-1. Question No.:1 is compulsory.
-
-2. Answer any four out of remaining six main questions.
-
-3. Assumptions made should be clearly stated.
-
-4. Answers to all sub questions should be grouped together.
-5. Answer to each new question to be started on a fresh page.
-6. Figure in the brackets on the right hand indicate full marks.
-7. Illustrate answers with neat sketches wherever required.
-
-Q. 1) Answer any four -
-a) Explain the movements of wall on earth pressure. What is the significance of
-
-‘at rest condition’? (03)
-b) Write a brief note on combined footings and principles of proportioning them. (03)
-c) With the help of neat sketches explain functions of geotextiles w.r.t. filtration
-
-and separation. (03)
-d) Describe the construction of imperfect ditch conduit. (03)
-e) What is stability factor? State the uses of stability chart. (03)
-
-Q.2-a) Explain the procedure of calculating passive earth pressure using Coulomb’s
-graphical method. ~ (06)
-b) A retaining wall with a smooth vertical backface has to retain a backfill of ¢-6 soil
-up to 5-0 m above GL. The surface of the backfill is horizontal and it has the
-followingproperties:
-y=18tm, c=1-5tm, =12°
-i) Plot the distribution of active earth pressure on the wall.
-ii) Determine the intensity of fictitious uniform surcharge, which, if placed over
-the backfill, can prevent the formation of tension cracks.
-iii) Compute the active thrust after placing the surcharge. (06)
-
-Q.3-a) Write detailed notes on the following:
-i) Dynamic formulae and their limitations, w. r. t. piles.
-ii) Estimate consolidation settlement of group of piles driven in clay deposit. (06)
-b) In a two-layered cohesive soil, bored piles of 400 mm diameter are installed. The
-Top layer has a thickness of 5-0 m. and the bottom one is of considerable depth.
-The shear strength of top layer is 45 KN/m/ and that of the bottom is 100 kN/m’.
-Determine the length of the bored pile required to carry a load of 380 KN, allowing
-a FOS of 2:0. (take adhesion factor = 0-50). (06)
---- page 2 ---
-Q.4-a) A square foundation is to be designed for a gross allowable total load of 300 kN.
-Determine the width of the foundation using a factor of safety of 3-0 and Vesic’s
-recommendations. The soil properties are: ,
-
-y=19-:0kN/m’, c=5:0kN/m’, = 33°
-The foundations are placed at a depth of 1-20 m below the GL. The water table is
-at 4-0 m below GL. Consider general shear failure (neglect depth factors). (06)
-b) With the help of neat sketches explain the ditch condition and projection condition. —_ (06)
-
-Q.5-a) What is apparent pressure diagram? Explain the procedure to construct apparent
-pressure diagram.
-Draw average apparent pressure diagrams for sand and soft clay. (06)
-b) An embankment is to be made of soil having effective shear parameters as
-c=27kN/m’, = 19°. The mobilized cohesion and friction are- om = 19 kN/m?,
-$m = 14°. Calculate the factors of safety with respect to cohesion and friction.
-If the average value of normal effective stress on the failure surface is 125 kN/m?
-what is the true factor of safety? (06)
-
-Q.6-a) A plate load test using a 30 cm x 30 cm plate gave the following load — settlement:
-Load (kg/cm?) 0:25 0:50 1:00 2:00 3:00 4-00 5.00
-Settlement(mm) 0:45 0-85 1:80 3:45 5-00 8.75 14-50
-
-i) Plot the load vs. settlement curve and determine the ultimate bearing capacity
-
-of the plate.
-ii) Determine the ultimate load which a footing of 1.50 m x 1.50 m placed at
-
-1.20 m below GL in the same soil, will carry if the allowable settlement is
-
-20-0 mm. (use IS code recommendations). (06)
-b) With the help of.neat sketches explain modes of failure of shallow foundations.
-Also write detailed note on depth of shallow foundations. (06)
-
-Q.7-a) Classify the various types of conduits. Explain with the help of neat sketches.
-Derive an expression for the load on a ditch conduit. (06)
-b) The column of a footing is founded at a depth of 1-5 m below GL and is supported
-by a number of piles each having length of 10 m. The subsoil consists of three
-layers, the properties of which are given below.
-Layer — I: C=25 tim, y=1-70t/m3, o= 0°, H=65m
-Layer-II: C=5-0t/m’, y=1-81 tm’, >= 0°, H=30m
-Layer-UI: C=0-0t/m’, y=1-84 tm’, o= 32°, H=15-0m
-Determine the safe load on each pile if the diameter of the piles is 500 mm
-and required factor of safety be 2-50. Assume a = 0-72. (06)
-
-» ———
-
-oe].
 ````
 
 ## 2013-14 · Final-Exam · Sem 6 · paper 859b51cddedf
@@ -4594,162 +4748,4 @@ and required factor of safety be 2-50. Assume o = 0-72.
 HK
 
 (10)
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper 38d099e34196
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/GEOTECHNICAL ENGINEERING II B TECH (CIVIL), FINAL EXAM.pdf`
-- Printed on paper: exam date: 05/05/2015
-- Text: ocr (4 pages), mean OCR confidence 64.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: ITN —
-Academic Year: 2014-2015 A OIE AN
-Subject: Geotechnical Engineering-II - 4
-Marks: \ gq‘? ** Ys,
-Date: 05/05/2015 Time : wos arson
-Durations: Syne uve"
-
-Note:- 1. Attempt any 5 questions
-2. Each question carries 12 marks
-3. Books and notes can be used in this examination.
-4.Laptops, Mobiles and ipads are not permitted
-5. Basis of arriving at the value for each parameter must be stated
-
-Que.1 Estimate the capacity of a footing 2.00 m. x 3.00 m. placed at a Reduced
-Level (RL) of 97.00 m. where the general ground level may be assumed as 100.00
-m. Assume a Suitable design profile based on the soil profile shown in Figure 1.
-Estimation should be carried using Vesic’s approach.
-
-Que.2. Estimate the safe capacity of a driven precast pile. Diameter of the pile
-may be assumed as 0.60 m. The piie is terminated ata depth of 10.00 m. Suitable
-design profile based on soil profile shown in figure 2 may be assumed. What
-would be the safe capacity of a 3x3 group with a centre to centre spacing of 2.5
-d. RL of top of pile may assumed as 100.00 m.
-
-Que.3. Using the Culman’s mehtod estimate the active pressure for he retaining
-wall shown in figure 3. (graphical solution is expected)
-
-aan Surcharge angle 30 degrees
-\
-Wall re re
-
-10 degrees Height of wall 10.00 m. phi= 30 degrees
-& = 20 degrees , density of soil — 18 kN/m.?
-
-Fig A. Relining wal,
-
-4/2.
---- page 2 ---
-Que.4. . Struts are inserted at depths of 2.0, 6.0, 10.00 and 15.00 m. in an
-excavation carried out to a depth of 18.00 m. The c/c spacing along the length
-of the excavation is 3.50 m. The strut loads are measured and found to be 40,
-55, 75 and 70 kN. respectively as measured from top. Draw the apparent earth
-pressure diagram. Why is it called an apparent earth pressure diagram?
-
-Que.5. A conduit is laid with its top above ground level. An embankment is
-constructed above the conduit. The pipe is rigid compared to the adjoining soil.
-The settlement ratio may be assumed as 0.25. The width of the conduit is 0.80
-m. and it is placed with its top 0.80 m. above ground level. The height of the
-embankment is 4.00 m. above the top of the pipe. Assume density of the fill as
-19 kN/m.?
-
-a. What is the load on the conduit ? .
-
-b. Is ita complete or an incomplete condition?
-
-c. If it is an incomplete condition what is the height of the plane of equal
-settlement above the top of the conduit?
-
-d. What is the load on the conduit if itis laid with its top coinciding with the
-g. round level?
-
-Que. 6. An infinite slope is constructed ina cohesionless soil. The slope angle is
-23 degrees while the angle of internal friction is 28 degrees. Determine the FS
-against a slope failure under conditions mentioned below. What is the mode of
-
-failure?
-
-1. Dry slope
-
-2. Saturated slope
-
-3. Water running down the slope
-
-4. Also determine the FS if the slope has a depth of 6.00 m. and the soil also
-possess cohesion of 10 kN/m.’ in addition to the angle of internal friction
-
-of 23 degrees.
-
-Use bulk density of 18 kN/m.? saturated density 20 kN./m.°
---- page 3 ---
-Bus 8 H3
-€20,F0 > - oo C132, go)
-
-“a
-a BH
-BH a Bet uy
-7: C9, 20m) (19e@ , ro) :
-
-8 4 Loen tyes P lawn,
-
-Plet Size iSohis)| m-
-
-Scale Leamnr1o wm.
-
-pebrr QLISD RLAT — . RL tov
-spt “|
-
-\ y | - \
-Llib o [he 1?
---- page 4 ---
-au = 120
-
-i
-
-| a
-
-| . ©
-
-| Ht BHR i
-{
-
-4 (3222) Clipe, 20)
-
-8 [20 ™
-
-Bu loca Elam Plaw
-
-But -
-
-RL Lod Pa Ui
-or PT ia
-S| set
-= |. | 7 Set cH ~~ 3
-Love OL
-ab | REMG etae ESL]
-ub eet, aon ant To set rf. a r3 “y
-Pa LL TON LL7O an a
-GF —S hme és] 5 nim To | gt BME 70"/
-| a Ie pluo'/f | | Po Yer;
-pL n%) ! Y Or;.
-$ro3 oT _ ~ 1?
-ey
-a o 1 - 3
-ee ee ee eee ~ 4
-ao 1S — ze. 5a ~ is
-ae LL SOx LL ve ie a sos.
-bak , wihc 40 3 Pe PEM ael, Lime &
-ers t : — 20 ~ a ,
-CH te PL BST i pPLYS!, a .
-Tw eu : 7 bo il
-{6 } = 257 Pt OST j, eS
-ie th wae SO \ 4
-=e ae valt — 30
-wok 4 C —_?
 ````

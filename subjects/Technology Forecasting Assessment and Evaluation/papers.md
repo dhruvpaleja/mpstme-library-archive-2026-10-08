@@ -145,6 +145,147 @@ a la
 Yi
 ````
 
+## 2012-13 · Exam not stated · Trim 15 · paper 4700812215b8
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/techology forcasting assesment & evaluation/Scan 0016.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 15/4/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technolorn Management (S E   I*
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV   .   L 1 2   * : 1   ) -4
+Academic Year : 2012-2013
+I
+Subject:   TECHNOLOGY FORECASTING   Marks:   50
+ASSESSMENT & EVALUATION   Time:   10.30am To 12.30pm
+Date:   15/4/2013   Duration:   2   hrs.
+Final - Examination
+Note: 1. All questions carry equal marks
+2. Attempt any five questions
+1. What is Delphi Technique? What are its key features and characteristics? What are its
+advantages and disadvantages? Also, explain the various types of Delphi techniques. (10)
+2. What is "Forecasting by Analogy"? Give suitable examples. What are various types of
+analogies? What is the procedure for forecasting with Structured Analogies ?
+3. What are the various modes of selecting analogous technologies and problems associated
+with it ? What is Technological change and what are the factors that affect Technological
+change ? (10)
+4. What is Environmental Monitoring? Explain the various stages in Environmental
+1   Monitoring with suitable examples. (10)
+5. How is Technology Forecasting useful in taking Business Decisions ? (10)
+6. What are the various steps involved in effective Technology Forecasting? Give suitable
+examples. (10)
+7. What is Technology Intelligence Process ? What are its various types ? Explain with
+suitable examples. (10)
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper def57ab192c3
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/techology forcasting assesment & evaluation/TECHNOLOGY FORECASTING ASSESMENT AND EALUATION 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 2/4/2012
+- Text: ocr (1 page), mean OCR confidence 91.7
+
+````text
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV >
+
+Academic Year : 2011-2012 eign
+
+|
+
+Subject: TECHNOLOGY FORECASTING Marks: 50 —_
+ASSESMENT & EVALUATION Time: 10.30 am To i
+
+Date: 2/4/2012 Duration: 2 hrs. ~
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+Final - Examination
+
+Answer any five Questions. Answer in brief and to the point.
+All Questions have equal marks.
+
+NB : Cell Phones , Calculators and any kind of electronic Gadjet is not allowed in Class
+
+|. Explain, with example , the steps of Delphi Technique and when it can be used in
+Technology Forecasting.
+
+Y
+
+in IT or Manufacturing Domain and explain.
+
+3. What is Technology Forecasting? Explain the importance of Technology
+forecasting citing examples of any domain or technology in brief with some facts
+over the last 20 years, What are steps for effective Technology forecasting?
+
+4, Explain any 3 methods of Technology Forecasting with industry examples.
+
+5. “Technology Forecasting” is a strong aid to corporate Decision Making by any
+organization. Explain this statement with specific examples from any industry.
+
+6. | Explain why Technology forecasting is useful for R & D Planning at different steps
+wy .Use any Technology or industry to explain.
+
+Ko
+
+y
+
+2. Explain some Technology Assessment Methods that can be used ? Take an example
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper 95eec703669b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/techology forcasting assesment & evaluation/TECHNOLOGY FORECASTING ASSESSMENT AND EVALUTION BATCH 200001.pdf`
+- Printed on paper: duration hours: 2; exam date: 20/06/2012
+- Text: ocr (1 page), mean OCR confidence 87.0
+
+````text
+— SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA Tech - ALL STREAMS Year: V Trimester: XV
+ea. eis : Academic Year : 2011-2012 fom OF Hy ~
+Subject: Technology Forecasting, Assessment & Marks: i$ ff / 5o gp y2
+Evalution Time: (10.00. am To. 12.00 neon
+Date: 20/06/2012 Duration: ‘2 hrs. JS {
+Re - Examination Qi ear ate
+A, ae:
+
+Answer any five Questions. Answer in brief and to the point.
+
+NB : Cell Phones , Calculators and any kind of electronic Gadjet is not allowed in Class
+
+1. What is Technology Forecasting? Explain the importance of Technology
+forecasting citing examples of any domain or technology in brief. What are steps for
+effective Technology forecasting?
+
+2. Explain any 3 methods of Technology Forecasting with industry examples.
+
+3. “Technology Forecasting” is a strong aid to corporate Decision Making by any
+organization. Explain this statement with specific examples from any industry.
+
+4. Explain why Technology forecasting is useful for R & D Planning at different steps
+.Use any Technology or industry to explain.
+
+Is, Explain steps of Delphi Technique and when it can be used in Technology
+Forecasting.
+
+6. Explain some Technology Assessment Methods that.can be used ? Take an example
+in IT or Manufacturing Domain and explain..
+
+|
+
+a
+
+V/,
+````
+
 ## 2010-11 · Exam not stated · Trim 15 · paper 6aa1e5ecd6f5
 
 - Departments: Common (all branches)
@@ -368,145 +509,4 @@ Technical and Managerial strategy for in-house R&D or cross licencing? [10 Marks
 " ea
 
 xX
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 4700812215b8
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/techology forcasting assesment & evaluation/Scan 0016.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 15/4/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technolorn Management (S E   I*
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV   .   L 1 2   * : 1   ) -4
-Academic Year : 2012-2013
-I
-Subject:   TECHNOLOGY FORECASTING   Marks:   50
-ASSESSMENT & EVALUATION   Time:   10.30am To 12.30pm
-Date:   15/4/2013   Duration:   2   hrs.
-Final - Examination
-Note: 1. All questions carry equal marks
-2. Attempt any five questions
-1. What is Delphi Technique? What are its key features and characteristics? What are its
-advantages and disadvantages? Also, explain the various types of Delphi techniques. (10)
-2. What is "Forecasting by Analogy"? Give suitable examples. What are various types of
-analogies? What is the procedure for forecasting with Structured Analogies ?
-3. What are the various modes of selecting analogous technologies and problems associated
-with it ? What is Technological change and what are the factors that affect Technological
-change ? (10)
-4. What is Environmental Monitoring? Explain the various stages in Environmental
-1   Monitoring with suitable examples. (10)
-5. How is Technology Forecasting useful in taking Business Decisions ? (10)
-6. What are the various steps involved in effective Technology Forecasting? Give suitable
-examples. (10)
-7. What is Technology Intelligence Process ? What are its various types ? Explain with
-suitable examples. (10)
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper def57ab192c3
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/techology forcasting assesment & evaluation/TECHNOLOGY FORECASTING ASSESMENT AND EALUATION 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 2/4/2012
-- Text: ocr (1 page), mean OCR confidence 91.7
-
-````text
-Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV >
-
-Academic Year : 2011-2012 eign
-
-|
-
-Subject: TECHNOLOGY FORECASTING Marks: 50 —_
-ASSESMENT & EVALUATION Time: 10.30 am To i
-
-Date: 2/4/2012 Duration: 2 hrs. ~
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-Final - Examination
-
-Answer any five Questions. Answer in brief and to the point.
-All Questions have equal marks.
-
-NB : Cell Phones , Calculators and any kind of electronic Gadjet is not allowed in Class
-
-|. Explain, with example , the steps of Delphi Technique and when it can be used in
-Technology Forecasting.
-
-Y
-
-in IT or Manufacturing Domain and explain.
-
-3. What is Technology Forecasting? Explain the importance of Technology
-forecasting citing examples of any domain or technology in brief with some facts
-over the last 20 years, What are steps for effective Technology forecasting?
-
-4, Explain any 3 methods of Technology Forecasting with industry examples.
-
-5. “Technology Forecasting” is a strong aid to corporate Decision Making by any
-organization. Explain this statement with specific examples from any industry.
-
-6. | Explain why Technology forecasting is useful for R & D Planning at different steps
-wy .Use any Technology or industry to explain.
-
-Ko
-
-y
-
-2. Explain some Technology Assessment Methods that can be used ? Take an example
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 95eec703669b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/techology forcasting assesment & evaluation/TECHNOLOGY FORECASTING ASSESSMENT AND EVALUTION BATCH 200001.pdf`
-- Printed on paper: duration hours: 2; exam date: 20/06/2012
-- Text: ocr (1 page), mean OCR confidence 87.0
-
-````text
-— SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA Tech - ALL STREAMS Year: V Trimester: XV
-ea. eis : Academic Year : 2011-2012 fom OF Hy ~
-Subject: Technology Forecasting, Assessment & Marks: i$ ff / 5o gp y2
-Evalution Time: (10.00. am To. 12.00 neon
-Date: 20/06/2012 Duration: ‘2 hrs. JS {
-Re - Examination Qi ear ate
-A, ae:
-
-Answer any five Questions. Answer in brief and to the point.
-
-NB : Cell Phones , Calculators and any kind of electronic Gadjet is not allowed in Class
-
-1. What is Technology Forecasting? Explain the importance of Technology
-forecasting citing examples of any domain or technology in brief. What are steps for
-effective Technology forecasting?
-
-2. Explain any 3 methods of Technology Forecasting with industry examples.
-
-3. “Technology Forecasting” is a strong aid to corporate Decision Making by any
-organization. Explain this statement with specific examples from any industry.
-
-4. Explain why Technology forecasting is useful for R & D Planning at different steps
-.Use any Technology or industry to explain.
-
-Is, Explain steps of Delphi Technique and when it can be used in Technology
-Forecasting.
-
-6. Explain some Technology Assessment Methods that.can be used ? Take an example
-in IT or Manufacturing Domain and explain..
-
-|
-
-a
-
-V/,
 ````

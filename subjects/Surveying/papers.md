@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Civil_7005/Surveying/QP_Surveying(702CI0C030)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2025
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -871,7 +872,7 @@ of 20 m.
 3)
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper f50fe0ed222c
+## 2022-23 · Final-Exam · Sem 3 · paper f50fe0ed222c
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL, B.TECH INTEGRATED / CIVIL
@@ -1394,6 +1395,75 @@ aipeee
 2
 ````
 
+## 2012-13 · Final-Exam · Trim 6 · paper 5cfeb6574222
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM VI/SURVEYING/Surveying Final 18.pdf`
+- Printed on paper: exam date: 9/5/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technolorn Management 8s Engineering
+Programme: MBA (TECH)-Civil   Year:   I1   Trimester: VI
+Academic Year : 2012-2013
+I
+Subject:   Surveying
+Date:   9/5/2013
+Final - Examination
+Instructions : Candidates should carefully the instructions
+the cover of Answer Book, which is provided for their use.
+1. All qu~stiolls carry equal marks
+2. Question no 1 is compulsory
+3. Attempt any 4 questions from question no 2 to 7
+4. Answer to each question to be started on a fresh page
+5. Figures to the right indicates full marks
+Q. No. 1   Answer ANY FOUR of the following   2 0
+a)   Write stepwise procedure for opening and closing of chain
+b)   Explain consecutive coordinated and independent coordinates with
+neat sketch
+Explain declination and dip or magnetic needle with neat sketch
+Describe back sighting method of orientation with respect to plane
+table surveying.
+State the different types of obstacles in chaining and esplain how to
+overcome when vision is free and chaining is obstructed
+Following consecutives readings were taken on a continuously   10
+sloping ground. Rule out the page of level book and apply suitable
+checks. Use height of instruments method.
+Explain Traversing method of plane table surveying with neat sketch   10
+The follo\j-ing arc the lengths and bearings of the sides of a closed   10
+traverse ABCD. calculate the length and bearing of line DA
+Length   Bearing
+76.80   140- 12-30
+--- page 2 ---
+State the different uses of theodolite and explain any two in detail
+Define contour interval and horizontal equivalent and explain
+characteristics of contour with neat sketch
+Write stepwise procedure for measurement of Horizontal Angle by
+the method of Repetition giving sample observatio~~ table
+The distance measured with the help of a 301n chain was found to
+5000m. After cllaining a distance of 1800m. the chain was found to
+be 5cm too long. The chain was 10c111 too long at the end of the days
+work Calculate the true distance if the chain was correct before start
+of the work.
+The FB of a side of traverse which is a perfect pentagon was 1-ound to
+be 30-30-00. Find out the FB and BB of all other sides. Apply
+suitable checks
+The bearings of the sides of the traverse ABCDE are as follo\vs.
+Calculate the interior angles of the Traverse and apply suitable
+checks
+Side   Fore Bearing
+'4 B   107-15-30
+Explain Resection method of plane table surveying with neat sketch
+An irrigation distributary is to be provided from chainage 0 to 1000,
+having bottom width as 2m, side slopes 1: 1 and longitudinal slope 1
+in 1000 downward. The ground has a longitudinal slope of 1 in 500
+downward. If the GL at chainage at 0 is 400 and canal bed level is
+398.00, calculate the earthwork for the distributary.
+State and explain the temporary adjustments of theodolite in detail.
+````
+
 ## 2011-12 · Exam not stated · Trim 6 · paper 1fbbf1a00b4c
 
 - Departments: Civil
@@ -1644,73 +1714,4 @@ Write stepwise procedure for opening, closing and testing of chain
 10
 
 10
-````
-
-## Year not stated · Final-Exam · Trim 6 · paper 5cfeb6574222
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM VI/SURVEYING/Surveying Final 18.pdf`
-- Printed on paper: exam date: 9/5/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technolorn Management 8s Engineering
-Programme: MBA (TECH)-Civil   Year:   I1   Trimester: VI
-Academic Year : 2012-2013
-I
-Subject:   Surveying
-Date:   9/5/2013
-Final - Examination
-Instructions : Candidates should carefully the instructions
-the cover of Answer Book, which is provided for their use.
-1. All qu~stiolls carry equal marks
-2. Question no 1 is compulsory
-3. Attempt any 4 questions from question no 2 to 7
-4. Answer to each question to be started on a fresh page
-5. Figures to the right indicates full marks
-Q. No. 1   Answer ANY FOUR of the following   2 0
-a)   Write stepwise procedure for opening and closing of chain
-b)   Explain consecutive coordinated and independent coordinates with
-neat sketch
-Explain declination and dip or magnetic needle with neat sketch
-Describe back sighting method of orientation with respect to plane
-table surveying.
-State the different types of obstacles in chaining and esplain how to
-overcome when vision is free and chaining is obstructed
-Following consecutives readings were taken on a continuously   10
-sloping ground. Rule out the page of level book and apply suitable
-checks. Use height of instruments method.
-Explain Traversing method of plane table surveying with neat sketch   10
-The follo\j-ing arc the lengths and bearings of the sides of a closed   10
-traverse ABCD. calculate the length and bearing of line DA
-Length   Bearing
-76.80   140- 12-30
---- page 2 ---
-State the different uses of theodolite and explain any two in detail
-Define contour interval and horizontal equivalent and explain
-characteristics of contour with neat sketch
-Write stepwise procedure for measurement of Horizontal Angle by
-the method of Repetition giving sample observatio~~ table
-The distance measured with the help of a 301n chain was found to
-5000m. After cllaining a distance of 1800m. the chain was found to
-be 5cm too long. The chain was 10c111 too long at the end of the days
-work Calculate the true distance if the chain was correct before start
-of the work.
-The FB of a side of traverse which is a perfect pentagon was 1-ound to
-be 30-30-00. Find out the FB and BB of all other sides. Apply
-suitable checks
-The bearings of the sides of the traverse ABCDE are as follo\vs.
-Calculate the interior angles of the Traverse and apply suitable
-checks
-Side   Fore Bearing
-'4 B   107-15-30
-Explain Resection method of plane table surveying with neat sketch
-An irrigation distributary is to be provided from chainage 0 to 1000,
-having bottom width as 2m, side slopes 1: 1 and longitudinal slope 1
-in 1000 downward. The ground has a longitudinal slope of 1 in 500
-downward. If the GL at chainage at 0 is 400 and canal bed level is
-398.00, calculate the earthwork for the distributary.
-State and explain the temporary adjustments of theodolite in detail.
 ````

@@ -1,6 +1,6 @@
 # Building Utilities and Services: question papers in full
 
-35 unique papers · 2013-14 to 2025-26 · Civil
+35 unique papers · 2012-13 to 2025-26 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -167,6 +167,105 @@ L2 labelled cross section.
 rs b_ | Describe ‘Ring System’ of electrical wiring with a neat sketch. (10)
 
 FIC IGE 2 dG kok a kk
+````
+
+## 2023-24 · Re-Exam · Sem 5 · paper 01913582cd0d
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/BUILDING UTILITIES AND SERVICES/Building Utilities and Services Batch 2022-23 Re Exam.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+Program: BTech / BTech Intg. Stream : Civil
+
+Subject: Building Utilities and Services
+
+Date:_14 [02/2024
+Marks: 100
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate tall marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+me S02; | a. | State the requirements of staircase and lobbies for fire safety. [05]
+CO-1 ; SO-7: b. | Explain Intercepting trap stating its location and function. [05]
+BL2
+
+c. | List various systems of artificial ventilation. Explain any one system with
+CO-2 ; SO-7 ; 3
+a suitable example. [05]
+
+co-1:so-7, |d. | Describe ‘Ring System’ of electrical wiring with a neat sketch.
+
+BL2 ‘ [05]
+Q2 a List various portable fire fighting installations and give brief explanation to [10]
+CO-1; SO-7; ¥ a . Tr
+
+BL3 any-two of them stating its suitability. ‘
+
+Q2 b Give comparison between One Pipe drainage system and Two pipe Drainage
+
+CO-1; 80-7; system. [10]
+BL-3
+
+Q3 a List the various types of pipes used in water supply and drainage system.
+
+CO-1; SO-7; Explain the merits and demerits of pipes (any two pipe type) used for building | [10]
+BL-2 water supply.
+
+Q3 b | Explain the essential constructional features of escalator with neat sketch.
+
+CO-2; SO-7; [ 1 0]
+BL2
+
+Yq
+--- page 2 ---
+Q4 a | Enlist the requirements of an ideal trap .
+
+[10]
+0-2; SO-7;
+BL-3
+Q4 b | Differentiate between Escalators’ and Elevators’ with respect to its [10]
+Ps C02; installations, usage and travel time in commercial and residential high rise
+BL-I buildings. :
+Q5 a Explain briefly ‘Indirect Expansion System’ with a neat flow diagram. [10]
+CO-1; $O-7;
+BL2
+Qs b Explain the concept of Colour Temperature. [10]
+CO-2; $O-7; Explain ‘Warm colour’ and Cool colour synthesis’ and ‘Additive colour and
+a Subtractive colour’ giving suitable example.
+Q6 a List various valves used in water supply system. Explain the function of
+aay SO", valves. Explain the usage of non return valve. [10]
+Q6 b | Explain ‘Lighting Load sub circuit’ and ‘Power Load sub circuit’ with neat [10]
+CO-2; 80-7; scketch.
+BL-2
+Q7 a List the different types of sprinkler systems used for fire fighting. Explain | [10]
+CO-1; $O-7; briefly the working principles of sprinkler firefighting installations (Any two).
+BL2
+Q7 b | Explain ‘Relative Humidity’, ‘Dry Bulb Temperature’, ‘Wet Bulb [10]
+CO-1; SO-7; Temperature’, ‘Sensible heat’ and ‘Latent heat’. ‘
+BL-2
+
+An
 ````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper c4fa1b407292
@@ -470,105 +569,6 @@ Q7 ae Explain indirect expansion system. {10}
 CO-3; 50-4; + .
 
 BL-4 >. | What are the key provisions of the 1958 Bombay Lift Act. {10}
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 01913582cd0d
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/BUILDING UTILITIES AND SERVICES/Building Utilities and Services Batch 2022-23 Re Exam.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Program: BTech / BTech Intg. Stream : Civil
-
-Subject: Building Utilities and Services
-
-Date:_14 [02/2024
-Marks: 100
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate tall marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-me S02; | a. | State the requirements of staircase and lobbies for fire safety. [05]
-CO-1 ; SO-7: b. | Explain Intercepting trap stating its location and function. [05]
-BL2
-
-c. | List various systems of artificial ventilation. Explain any one system with
-CO-2 ; SO-7 ; 3
-a suitable example. [05]
-
-co-1:so-7, |d. | Describe ‘Ring System’ of electrical wiring with a neat sketch.
-
-BL2 ‘ [05]
-Q2 a List various portable fire fighting installations and give brief explanation to [10]
-CO-1; SO-7; ¥ a . Tr
-
-BL3 any-two of them stating its suitability. ‘
-
-Q2 b Give comparison between One Pipe drainage system and Two pipe Drainage
-
-CO-1; 80-7; system. [10]
-BL-3
-
-Q3 a List the various types of pipes used in water supply and drainage system.
-
-CO-1; SO-7; Explain the merits and demerits of pipes (any two pipe type) used for building | [10]
-BL-2 water supply.
-
-Q3 b | Explain the essential constructional features of escalator with neat sketch.
-
-CO-2; SO-7; [ 1 0]
-BL2
-
-Yq
---- page 2 ---
-Q4 a | Enlist the requirements of an ideal trap .
-
-[10]
-0-2; SO-7;
-BL-3
-Q4 b | Differentiate between Escalators’ and Elevators’ with respect to its [10]
-Ps C02; installations, usage and travel time in commercial and residential high rise
-BL-I buildings. :
-Q5 a Explain briefly ‘Indirect Expansion System’ with a neat flow diagram. [10]
-CO-1; $O-7;
-BL2
-Qs b Explain the concept of Colour Temperature. [10]
-CO-2; $O-7; Explain ‘Warm colour’ and Cool colour synthesis’ and ‘Additive colour and
-a Subtractive colour’ giving suitable example.
-Q6 a List various valves used in water supply system. Explain the function of
-aay SO", valves. Explain the usage of non return valve. [10]
-Q6 b | Explain ‘Lighting Load sub circuit’ and ‘Power Load sub circuit’ with neat [10]
-CO-2; 80-7; scketch.
-BL-2
-Q7 a List the different types of sprinkler systems used for fire fighting. Explain | [10]
-CO-1; $O-7; briefly the working principles of sprinkler firefighting installations (Any two).
-BL2
-Q7 b | Explain ‘Relative Humidity’, ‘Dry Bulb Temperature’, ‘Wet Bulb [10]
-CO-1; SO-7; Temperature’, ‘Sensible heat’ and ‘Latent heat’. ‘
-BL-2
-
-An
 ````
 
 ## 2022-23 · Re-Exam · Sem 5 · paper 5892fc5e80f3
@@ -1888,6 +1888,148 @@ used for different purposes.
 F/y.
 ````
 
+## 2016-17 · Re-Exam · Sem 5 · paper a4e2d2a4d51c
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/BUILDING UTILITIES AND SERVICES/BUILDING UTILITIES AND SERVICES B TECH (CIVIL), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 03 December 2016
+- Text: ocr (1 page), mean OCR confidence 92.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (CIVIL) Year : Ill Semester: V
+Batch : 2015-2016
+Academic Year : 2016-2017 ee |
+| TF
+| Subject : Building Utilities and Services Marks : 60 “J NONE
+Time: 2.00 pm to 5.00 pm
+Date : 03 December 2016 Duration: 3. ngs) i
+
+Ls
+
+Re-Examination
+
+INSTRUCTIONS: The candidates should read carefully the instructions printed on the
+
+question paper and on the cover of the Answer Book, which is provided for their use
+NB: 1) Question No. ONE is compulsory. . ;
+
+2) Out of the remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions are to be attempted.
+
+4) Answer to each new question is to be started on a fresh page.
+
+5) Figures in brackets on the right hand side of the question indicate full marks.
+6) Illustrate your answer with neat sketches wherever necessary.
+
+7) Assume suitable additional data, if not given & mention it clearly.
+
+_ Q.No. 1) Answer ANY THREE of the following: - (12)
+a) Illustrate the staircase and exit requirements from fire safety point of view.
+
+b) Describe ‘Earthing and Bonding’.
+c) Explain factors affecting visual Task.
+d) Explain ‘Air Changes per Hour’ and state its values for different rooms.
+
+e) Explain ‘Butterfly Valve’ with a neat sketch.
+
+Q. No. 2) a) Explain in detail ‘Fire Hose System’ with a neat sketch. (06)
+Q. No. 2) b) Describe the Dry Chemical Powder fire extinguisher with a neat sketch. (06)
+Q: No. 3) a) Describe ‘Ring System’ of electrical wiring with a neat sketch. (06)
+b) Explain ‘Three Phase Electrical Supply System’ with a phase diagram. (06)
+
+Q. No. 4) a) Explain the laws of illumination with figures. (06)
+Q. No. 4) b) Explain ‘Types of Lighting Systems’. (06)
+Q. No. 5) a) Explain ‘Dry Bulb’, ‘Wet Bulb’ and ‘Effective’ temperature. (06)
+Q. No. 5) b) Explain ‘Particulate Air Filtration’ with filtration mechanism by proper sketches. (06)
+Q. No. 6) a) Explain ‘Up Peak Traffic Condition’ for lifts. (06)
+4 Q. No. 6) b) Describe the essential features of escalators with a neat sketch. (06)
+Q. No. 7) a) Explain ‘Suction Water Tank’ for domestic water supply with a neat sketch. (06)
+Q. No. 7) b) Explain ‘Stainless Steel Pipes’ with their advantages and disadvantages. (06)
+
+OBR RR
+Page 1 of 1
+
+—
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper ded685b54c4a
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/BUILDING UTILITIES AND SERVICES/BUILDING UTILITIES AND SERVICES BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: V
+Batch: 2016-17 10 mae,
+fy s
+Academic Year: 2016-2017 sens co
+Subject: Building Utilities and Services #7 TMB
+Marks: 60 aC ae AW Ofe ;
+Date: i ey
+ate: 31 May 2017 Time: 10.00 ai \L,00 PM, , Ae / i
+Durations: 3 (hrs) * * hin a ott 4
+
+No. of Pages: ___2>
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. :
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.no.1) Answer the following: (any THREE) . Marks
+a) Explain the method of estimation of ‘lift Handling Capacity’ and ‘Waiting time’. 04
+b) Draw the phase diagram describing the alternating current. 04
+c) With a neat diagram illustrate the use of ‘Gully trap’ for drainage of buildings. 04
+d) Define: (1) Fire load and (2) Fire resistance. 04
+e) State the purpose of Ventilation System. ; 04
+Q.no.2)
+a) With the help of neat and clean figures explain the laws of illumination. 06
+b) Describe the ‘Additive Colour Synthesis’. 06
+Q.no.3)
+a1 a) Describe the process of window air conditioning system. 06
+si: b) Enlist different types of lighting systems and state the applicability of each system. 06
+Q.no.4)
+a) Explain the ‘Bombay Lift Rules of 1958’. 06
+b) Describe the construction aspects of lift. 06
+--- page 2 ---
+Q.no.5)
+
+a) Explain with neat sketch the working of pillar hydrant. 06
+b) With a neat sketches explain different types of sprinkler based on water distribution 06
+system.
+Q.no.6)
+a) State the general rules for natural ventilation. 06
+b) With a neat and clean flow diagram explain the functioning of Indirect expansion 06
+system.
+Q.no.7)
+a) List the advantages and disadvantages of copper pipes and stainless steel pipes. 06
+
+b) Explain the working of a Septic ank with the help of a neat and labelled cross section. 06
+
+afr
+````
+
 ## 2015-16 · Final-Exam · Sem 5 · paper 0ad4db802a83
 
 - Departments: Civil
@@ -2023,148 +2165,6 @@ ae KK KR
 Page 1of 1
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper a4e2d2a4d51c
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/BUILDING UTILITIES AND SERVICES/BUILDING UTILITIES AND SERVICES B TECH (CIVIL), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 03 December 2016
-- Text: ocr (1 page), mean OCR confidence 92.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (CIVIL) Year : Ill Semester: V
-Batch : 2015-2016
-Academic Year : 2016-2017 ee |
-| TF
-| Subject : Building Utilities and Services Marks : 60 “J NONE
-Time: 2.00 pm to 5.00 pm
-Date : 03 December 2016 Duration: 3. ngs) i
-
-Ls
-
-Re-Examination
-
-INSTRUCTIONS: The candidates should read carefully the instructions printed on the
-
-question paper and on the cover of the Answer Book, which is provided for their use
-NB: 1) Question No. ONE is compulsory. . ;
-
-2) Out of the remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions are to be attempted.
-
-4) Answer to each new question is to be started on a fresh page.
-
-5) Figures in brackets on the right hand side of the question indicate full marks.
-6) Illustrate your answer with neat sketches wherever necessary.
-
-7) Assume suitable additional data, if not given & mention it clearly.
-
-_ Q.No. 1) Answer ANY THREE of the following: - (12)
-a) Illustrate the staircase and exit requirements from fire safety point of view.
-
-b) Describe ‘Earthing and Bonding’.
-c) Explain factors affecting visual Task.
-d) Explain ‘Air Changes per Hour’ and state its values for different rooms.
-
-e) Explain ‘Butterfly Valve’ with a neat sketch.
-
-Q. No. 2) a) Explain in detail ‘Fire Hose System’ with a neat sketch. (06)
-Q. No. 2) b) Describe the Dry Chemical Powder fire extinguisher with a neat sketch. (06)
-Q: No. 3) a) Describe ‘Ring System’ of electrical wiring with a neat sketch. (06)
-b) Explain ‘Three Phase Electrical Supply System’ with a phase diagram. (06)
-
-Q. No. 4) a) Explain the laws of illumination with figures. (06)
-Q. No. 4) b) Explain ‘Types of Lighting Systems’. (06)
-Q. No. 5) a) Explain ‘Dry Bulb’, ‘Wet Bulb’ and ‘Effective’ temperature. (06)
-Q. No. 5) b) Explain ‘Particulate Air Filtration’ with filtration mechanism by proper sketches. (06)
-Q. No. 6) a) Explain ‘Up Peak Traffic Condition’ for lifts. (06)
-4 Q. No. 6) b) Describe the essential features of escalators with a neat sketch. (06)
-Q. No. 7) a) Explain ‘Suction Water Tank’ for domestic water supply with a neat sketch. (06)
-Q. No. 7) b) Explain ‘Stainless Steel Pipes’ with their advantages and disadvantages. (06)
-
-OBR RR
-Page 1 of 1
-
-—
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper ded685b54c4a
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/BUILDING UTILITIES AND SERVICES/BUILDING UTILITIES AND SERVICES BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: V
-Batch: 2016-17 10 mae,
-fy s
-Academic Year: 2016-2017 sens co
-Subject: Building Utilities and Services #7 TMB
-Marks: 60 aC ae AW Ofe ;
-Date: i ey
-ate: 31 May 2017 Time: 10.00 ai \L,00 PM, , Ae / i
-Durations: 3 (hrs) * * hin a ott 4
-
-No. of Pages: ___2>
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. :
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.no.1) Answer the following: (any THREE) . Marks
-a) Explain the method of estimation of ‘lift Handling Capacity’ and ‘Waiting time’. 04
-b) Draw the phase diagram describing the alternating current. 04
-c) With a neat diagram illustrate the use of ‘Gully trap’ for drainage of buildings. 04
-d) Define: (1) Fire load and (2) Fire resistance. 04
-e) State the purpose of Ventilation System. ; 04
-Q.no.2)
-a) With the help of neat and clean figures explain the laws of illumination. 06
-b) Describe the ‘Additive Colour Synthesis’. 06
-Q.no.3)
-a1 a) Describe the process of window air conditioning system. 06
-si: b) Enlist different types of lighting systems and state the applicability of each system. 06
-Q.no.4)
-a) Explain the ‘Bombay Lift Rules of 1958’. 06
-b) Describe the construction aspects of lift. 06
---- page 2 ---
-Q.no.5)
-
-a) Explain with neat sketch the working of pillar hydrant. 06
-b) With a neat sketches explain different types of sprinkler based on water distribution 06
-system.
-Q.no.6)
-a) State the general rules for natural ventilation. 06
-b) With a neat and clean flow diagram explain the functioning of Indirect expansion 06
-system.
-Q.no.7)
-a) List the advantages and disadvantages of copper pipes and stainless steel pipes. 06
-
-b) Explain the working of a Septic ank with the help of a neat and labelled cross section. 06
-
-afr
-````
-
 ## 2015-16 · Re-Exam · Sem 5 · paper b1d9fe27c24d
 
 - Departments: Civil
@@ -2245,6 +2245,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/BUILDING UTILITIES AND SERVICES/BUILDING UTILITIES AND SERVICES B TECH (CIVIL), 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; exam date: 05/12/2014
 - Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2258,7 +2259,6 @@ Marks: 100 fal «pstTME \
 Date : 05/12/2014 Time : 2.00 pm 0150 Ply RA RY ds
 Durations: 3 mes J IS
 inal- ination ™ a *
-Final-Examinatio \ eg Anne canta
 
 —
 
@@ -2384,6 +2384,143 @@ Q. No. 7) b) Describe ‘Stainless Steel Pipes’ with their advantages and disa
 ——
 
 Page Lof1
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper f74d2352a32e
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/BUILDING UTILITIES AND SERVICES/BUILDING UTILITIES AND SERVICES B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 14/05/2015
+- Text: ocr (2 pages), mean OCR confidence 94.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: VI
+Batch: 2013-14
+: Academic Year: 2014-2015
+Subject: Building Utilities and Services
+Marks:
+Date: 14/05/2015 Time:
+Durations
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. | is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. In all 5 questions to attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Attempt any FOUR 20
+a) Discribe Essentials of Escalators? 05
+b) Enlist the Layout of water distribution system? Explain any ONE? 05
+c) What is single and three phase system in electrical system? 05
+d) Enlist Causes of fire in buildings? 05
+e) What are the materials of Damp proofing? 05
+f) Illustrate Gas phase sorbent filters ? 05
+Q.2) Solve 20
+a) What are application of lift and escalators to commertial,residential and institutional 10
+buildings?
+b) What are the Essentials of lifts? 10
+Q.3) Solve 20
+a) Classify traps? Explain any TWO in brief? 10
+b) Explain ONE pipe and Two pipe system in plumbing? 10
+--- page 2 ---
+20
+
+Q.4) Solve
+
+a) What are the protective devices in electrical installation? 10
+b) Explain Earthing system? 10
+Q.5) Solve 20
+a) Classify lighting? Explain Artifitial lighting system? 10
+
+--b) Explain minimum illumination required for physically handicapped and elderly 10
+in building types?
+
+Q.6) Solve 20
+a) Explain Dry and Wet risers in fire safety? 10
+b) What is natural and artifitial ventilation system describe in brief? 10
+Q.7) Solve (20)
+a) What are the materials used in Green buildings? 10
+10
+
+b) What are the methods of Damp proofing in buildings?
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper a6436a37783c
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/BUILDING UTILITIES AND SERVICES/BUILDING UTILITIES AND SERVICES B TECH (CIVIL), BATCH 2013-14 RE EXAM_a6436a3778.pdf`
+- Printed on paper: exam date: 04/07/2015
+- Text: ocr (1 page), mean OCR confidence 94.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: VI
+Batch: 2014-14
+Academic Year: 2014-2015
+Subject: Building Utilities and Services >
+Marks: 1400 a
+Date: 04/07/2015 Time: ; 10.00 am to 1.00 pm
+
+Durations: \ 3, (hrs)
+
+Re-Examination re
+
+INSTRUCTIONS: The candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use
+NB: 1) Question No. ONE is conipulsory
+
+2) Out of the remaining questions, attempt any FOUR questions
+
+3) In all FIVE questions are to be attempted
+
+4) Answer to each new question is to be started on a fresh page
+
+5) Figures in brackets on the right hand side of the question indicate full marks
+
+6) Illustrate your answer with neat sketches wherever necessary
+
+7) Assume suitable additional data, if not given & mention it clearly
+
+Q. No. 1) Answer ANY FOUR of the following: - (20)
+a) Illustrate ‘One-Way Traffic’.
+
+b) Describe ‘Bib Cock’ with a neat sketch.
+c) Explain ‘Protective and Functional Earthing’.
+d) Explain ‘Additive Colour Synthesis’
+
+e) Explain ‘Ventilation’ and state its necessity.
+f) What is the necessity of ‘Green Buildings’?
+
+Q. No. 2) a) Explain in detail the provisions of Bombay Lift Rules, 1958. (10)
+Q. No. 2) b) Describe the components of escalators with a neat sketch. (10)
+Q. No. 3) a) Draw the sketch and explain the connection of water meter. (10)
+b) Explain the copper pipes with their advantages and disadvantages. (10)
+Q. No. 4) a) Draw the sketch of ‘Under Ground Suction Water Tank’ with pump room and describe
+the construction features of. (10)
+Q. No. 4) b) Explain Single Phase Electrical Supply System with a phase diagram. (10)
+Q. No. 5) a) Explain the laws of illumination with figures. (10)
+Q. No. 5) b) Explain ‘Types of Lighting Systems’. (10)
+Q. No. 6) a) Explain the lighting scheme for schools. (10)
+Q. No. 6) b) Explain the working of ‘Window Air Conditioner’ with a neat sketch showing its
+components. (10)
+Q. No. 7) a) Explain the characteristics of sound. (10)
+Q. No. 7) b) Describe Water Proofing in detail. (10)
+
+1/1
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper ca607cfdcc56
@@ -2619,143 +2756,6 @@ e) Draw a neat sketch of house drainage plan?
 212
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper f74d2352a32e
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/BUILDING UTILITIES AND SERVICES/BUILDING UTILITIES AND SERVICES B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 14/05/2015
-- Text: ocr (2 pages), mean OCR confidence 94.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: VI
-Batch: 2013-14
-: Academic Year: 2014-2015
-Subject: Building Utilities and Services
-Marks:
-Date: 14/05/2015 Time:
-Durations
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. | is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. In all 5 questions to attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) Attempt any FOUR 20
-a) Discribe Essentials of Escalators? 05
-b) Enlist the Layout of water distribution system? Explain any ONE? 05
-c) What is single and three phase system in electrical system? 05
-d) Enlist Causes of fire in buildings? 05
-e) What are the materials of Damp proofing? 05
-f) Illustrate Gas phase sorbent filters ? 05
-Q.2) Solve 20
-a) What are application of lift and escalators to commertial,residential and institutional 10
-buildings?
-b) What are the Essentials of lifts? 10
-Q.3) Solve 20
-a) Classify traps? Explain any TWO in brief? 10
-b) Explain ONE pipe and Two pipe system in plumbing? 10
---- page 2 ---
-20
-
-Q.4) Solve
-
-a) What are the protective devices in electrical installation? 10
-b) Explain Earthing system? 10
-Q.5) Solve 20
-a) Classify lighting? Explain Artifitial lighting system? 10
-
---b) Explain minimum illumination required for physically handicapped and elderly 10
-in building types?
-
-Q.6) Solve 20
-a) Explain Dry and Wet risers in fire safety? 10
-b) What is natural and artifitial ventilation system describe in brief? 10
-Q.7) Solve (20)
-a) What are the materials used in Green buildings? 10
-10
-
-b) What are the methods of Damp proofing in buildings?
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper a6436a37783c
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/BUILDING UTILITIES AND SERVICES/BUILDING UTILITIES AND SERVICES B TECH (CIVIL), BATCH 2013-14 RE EXAM_a6436a3778.pdf`
-- Printed on paper: exam date: 04/07/2015
-- Text: ocr (1 page), mean OCR confidence 94.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: VI
-Batch: 2014-14
-Academic Year: 2014-2015
-Subject: Building Utilities and Services >
-Marks: 1400 a
-Date: 04/07/2015 Time: ; 10.00 am to 1.00 pm
-
-Durations: \ 3, (hrs)
-
-Re-Examination re
-
-INSTRUCTIONS: The candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use
-NB: 1) Question No. ONE is conipulsory
-
-2) Out of the remaining questions, attempt any FOUR questions
-
-3) In all FIVE questions are to be attempted
-
-4) Answer to each new question is to be started on a fresh page
-
-5) Figures in brackets on the right hand side of the question indicate full marks
-
-6) Illustrate your answer with neat sketches wherever necessary
-
-7) Assume suitable additional data, if not given & mention it clearly
-
-Q. No. 1) Answer ANY FOUR of the following: - (20)
-a) Illustrate ‘One-Way Traffic’.
-
-b) Describe ‘Bib Cock’ with a neat sketch.
-c) Explain ‘Protective and Functional Earthing’.
-d) Explain ‘Additive Colour Synthesis’
-
-e) Explain ‘Ventilation’ and state its necessity.
-f) What is the necessity of ‘Green Buildings’?
-
-Q. No. 2) a) Explain in detail the provisions of Bombay Lift Rules, 1958. (10)
-Q. No. 2) b) Describe the components of escalators with a neat sketch. (10)
-Q. No. 3) a) Draw the sketch and explain the connection of water meter. (10)
-b) Explain the copper pipes with their advantages and disadvantages. (10)
-Q. No. 4) a) Draw the sketch of ‘Under Ground Suction Water Tank’ with pump room and describe
-the construction features of. (10)
-Q. No. 4) b) Explain Single Phase Electrical Supply System with a phase diagram. (10)
-Q. No. 5) a) Explain the laws of illumination with figures. (10)
-Q. No. 5) b) Explain ‘Types of Lighting Systems’. (10)
-Q. No. 6) a) Explain the lighting scheme for schools. (10)
-Q. No. 6) b) Explain the working of ‘Window Air Conditioner’ with a neat sketch showing its
-components. (10)
-Q. No. 7) a) Explain the characteristics of sound. (10)
-Q. No. 7) b) Describe Water Proofing in detail. (10)
-
-1/1
-````
-
 ## 2013-14 · Re-Exam · Sem 6 · paper 115fcca092a8
 
 - Departments: Civil
@@ -2833,7 +2833,7 @@ Q. No. 7) b) Describe Membrane Damp Proofing in detail. (10)
 Page 2 of 2
 ````
 
-## Year not stated · Exam not stated · Trim 7 · paper abc87053d8f8
+## 2012-13 · Exam not stated · Trim 7 · paper abc87053d8f8
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL

@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/DIGITAL TECHNIQUES/ANS_DIGITAL TECHNIQUES(701EX0C005)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (20 pages), mean OCR confidence 52.0
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -72,12 +74,9 @@ Shad _8vy| F<} Del Ga | Binasg
 
 f 5 Cees :
 z r3-1o1ofo oe |
-‘a o {2 {oO A Sea. i
-res jee Peo ithiel &
 4 L@ \ hy a 7
 “Ss [refberdos tt | os
 ha ly 1 ca ie.
-Ar OM a ek Re co A
 
 V3 i fo [ote a
 
@@ -188,24 +187,18 @@ BL-3
 --- page 10 ---
 sor} Pea, a 2 ppie __Mod~ to C Decade) Counte<
 
-whi GU perieins and Atsth babe” Gowll
 
-a4 eT eux nS (a 1 shakes erty “Aa guized, |
 
 t oven cerates Lastma fy ms
 
 _ Decimal count “ofre A. “shud be oO.
 
-ee cl — CIF G@ae 22qGuUsod. Diam fable |
-ds ie sa i ae eee zl
-‘corey [ple [Bly deur table fers |”
 -@.- fo fo-f[olo:f: . -NaAwo © |
 
 i: fa io “los tes
 
 i 4 Se eer es
 “o__jo !o fol 159 .
-Congahlatonsl Tia pda Vou nang a lami udf goose a! ctr iC Ps i Ti 18 5
 
 TS a ee =e Sie Siecail bai TF EE
 
@@ -431,6 +424,7 @@ FICCI ICR 9.0) RARE
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/DIGITAL TECHNIQUES/ANS_DIGITAL TECHNIQUES(701EX0C005)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (15 pages), mean OCR confidence 53.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -675,6 +669,7 @@ FRR IC 7 DA HOH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/DIGITAL TECHNIQUES/ANS_DIGITAL TECHNIQUES(701EX0C005)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (15 pages), mean OCR confidence 53.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -919,6 +914,7 @@ FRR IC 7 DA HOH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/DIGITAL TECHNIQUES/ANS_DIGITAL TECHNIQUES(701EX0C005)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (15 pages), mean OCR confidence 53.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

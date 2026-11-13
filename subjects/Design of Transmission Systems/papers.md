@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechanical_7003/Design of Transmission Systems/QP_Design of Transmission Systems(702ME0E017)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (14 pages), mean OCR confidence 33.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -226,6 +227,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechanical_7003/Design of Transmission Systems/QP_Design of Transmission Systems(702ME0E017)_2025-2026_471ab14551.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (14 pages), mean OCR confidence 33.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -441,6 +443,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/DESIGN OF TRANSMISSION SYSTEMS/Design of Transmission Systems 2025-26 Final.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (13 pages), mean OCR confidence 80.8
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS MPSTME
@@ -736,7 +739,6 @@ g
 g= z+2'
 g ‘Ap
 
-Se RR a aa aR oa ak ok
 
 Ce Seer Se See
 --- page 6 ---
@@ -946,7 +948,6 @@ Values of the Lewis form factor Y for 20° full-depth involute system
 FRR QF
 .
 --- page 10 ---
-Zz Y z y Zz Y
 1S 0.289 «27'Ss«0.348.—S—O*SSSC« ATS
 16 0295 «28 = 0352 Oti«i 4D
 17 0302 29 «0355 = 65—Ss«.4085
@@ -996,7 +997,6 @@ Multi-cylinder internal combustion engine
 
 Examples of Driven machines with different working characteristics
 
-RRA KAR RARK 7 RRR RRR KEKE
 --- page 11 ---
 Characteristic of operation Driven machines
 
@@ -1059,7 +1059,6 @@ k= 0.107 (for 14.5° full depth teeth) are given in Table 17.7.
 k=0.111 (for 20° full depth teeth)
 
 Values of deformation factor C (N/mm?)
-RRR RR KKK 11 KK KKK KKK
 --- page 12 ---
 Materials 14,5° full depth teeth | 20° full depth teeth 20° stub teeth Y
 
@@ -1176,6 +1175,7 @@ FRR 7 3 FRR RE
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/DESIGN OF TRANSMISSION SYSTEMS/Design of Transmission Systems, Sem-VII, Final Exam 2024-25.pdf` (+1 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (36 pages), mean OCR confidence 69.0
+- 42 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 | —
@@ -1577,7 +1577,6 @@ Ph
 /| L va
 ¥ scql yi Z
 
-B 200 VA Fd y {(D Ut (2)
 V
 
 100
@@ -1595,7 +1594,6 @@ Then preferred dia
 Table 13.13 Preferred pitch diameters of pulleys (mm)
 
 Belt section
-Z A B C D E,
 50 75 125 200 355 500°
 53 80 132 212 375 530
 56 85 140 224 400 560
@@ -1648,7 +1646,6 @@ Table 13.14 Nominal pitch lengths for standard sizes of V-belts :
 
 Pitch lengths of belts L, (mm)
 
-z A: B” 3 Se D ‘a8
 405 630° 930. «s«*1560. = =—-2740 466
 475 700° 1000-1760 ~—S «3130
 530-790 1100 1950 3330
@@ -1807,11 +1804,8 @@ j. Power Rating for smaller pulley Pitch dia
 SPSSSISHSSSSSSSSsSsSSSsSaRgag gags
 N S ooojoceceocc cco oo scoeco oo se 9o SS
 
-ae jsigeeale8S SRS SSSsNR24eoe2gnuagaees
-a6 “Isc ccloccosccocoscoeoscodc sss cocoacoscssccosccooscsc o
 iJ
 
-a Hing: eie- 2 bal Cena rn or woe <4
 
 as B/S Sx seso¢g BSSsesesgeaqguzesoes
 
@@ -1819,15 +1813,12 @@ R2 [fisssdissssssdsaa SSS3SS5S5SS95 355
 &
 
 gh |B/SSssgesesssesseeesgeseagsseaeesess
-a> Kis aosic coc cscsecsosososcee see sss ts sss sess cs
 & me mm
 
 eS (RISSSssessessesesgesegsgesssesssssss
-a7 Kis So olocoo coco gd soso dg se sos scoscodsodsodsssoos Ss
 i}
 
 Be ee
-a “isso csico cose ssc scsscosscocsgsocd eooocoocosc 2
 en
 
 as jalggesigseesssesseseseesgggegass
@@ -1845,11 +1836,9 @@ s8 s/ggesigesesssssssesseseseseseegs
 — J -_ .
 ag lssqalagggeeanaeeegeagygnggsss a
 
-SE RSSS SHR ggessaseagegaesgneyse gags
 SE SHSSRSGRSSSSArgze gases Rgnrggeey
 
 . ae) tS an eon -—Mamn = ~
-a panies eas none erent
 
 ed (i ——— — —   d a ad
 Bas) [slg ggie88888282888299828288888 8
@@ -1872,16 +1861,11 @@ m 3 SeHtilocsc ess se ieee fesse add cian nid A
 
 no
 
-2] “ jek JSISSSSSHARLASSRR SRR SSSA AAARSE LSS
-2 RE i#lociclocoscscsoscscdcse coe go ttle ple Ss ae? hes ie
 --- page 17 ---
 gs Rin Tee Sroagessd 222g an BRR
-SURES TIIZSILSS TSS SHgggasgggs
 
 Ss
 
-oo o om we m mh oO ~ 4
-SS IRISH SRARARHRALC SEIS IS Ssssgan ap
 as “is coocscscoosccosses sc désesssscosacad
 
 ~~ & ~ aon AO oor a — A or
@@ -1890,7 +1874,6 @@ ee :
 
 ba owen omnrneonrnnnunaonnuna
 FE IS/SRESRRRSSTSARRARARS
-ms SINAN A A mm mm mm mm
 
 ei Rlesagesngagsgaagaagas:
 
@@ -1919,7 +1902,6 @@ ES
 
 £ 1s
 — = co) Fad oo ah Aad a in
-B ies BIS ARRISSSSNAAESAAARARRAGER SARE
 
 = |=
 & &
@@ -1939,9 +1921,7 @@ gs ]8 - -
 = Ss
 
 gs osageigsssggggsggseegsesggggs
-E am IMIS Go Slo SOO SC OO oS eoscocosocooso oo os
 5 ss jslgegsesiegsgegseesgsssesgsseeseees
-# = sees slags cose es sesconocosescsossosaocooscs
 <
 = yw | ange PeanSQeneseygnseegegave
 2 RE TSS ISSIR SHS STIS S SIs 28 88
@@ -1961,13 +1941,10 @@ g| 8 eeesleSQAgTQRRASARSRRRRTRIAS
 =
 a & _
 F jes |AISGSRIGRSASRSTSaIARe aT aLeeRges
-& SE [Xai dam ulocg nett ddntininn inte tte Fa
 al} SE NS STTSSSATSSSHSSRAATSSSS SITS
 ri
 2 me |SPSSRRSSSARKALESSAHAS SASS ESS
-r] QE [Ried a dle so oe en ett nti nN Nn nM
 fa)
-_] RE ISSRSSUSSHSL SSIS HSK SSIs ag gras
 : ys ° 2°
 “ His] idesggleaaeasesageageeeeeeeea2
 i
@@ -2041,14 +2018,11 @@ ye
 : Spal -~ Dw
 SPSRIS ARS SAERPRSERE
 
-NUK S SCS Hilo coaoscossc sags dc
 
 SoSRR RASS RRASARSER
-SD [SR TSIM] So oO alo Cao ose oo ec Ss
 
 7 bo ied a lag =~ = Tm CH A aD
 § 18 SIS SSISTARS RT ERSS
-3 a“ sI¥lso coc csiccocoeosco co soso ec
 
 2 s“AIX[o o Slo So GoGo oS SS
 
@@ -2063,13 +2037,11 @@ eo ojo cococeoeoe oc cs
 ST S[Sic S S/S GOSS SO SGC SS
 
 ~ 1S e8siS SSjesagsesygage
-~TsIS|o Soils oO SO SOO SOMOS
 
 2
 
 S ;
 2] lgeslaigssigsssseeuse
-N S"“AI1"iS Sos slo oS SOSGSOo SoS Ss
 N
 
 Bay ra Aa m 0 enee
@@ -2126,19 +2098,15 @@ SESS SRaSggegegregrpe sae s
 
 & *
 =
-Pl FE IA ehlRl KA BISSRRgRCeERRASESRLS SB
-3 3 ce Oe eed SS <r <r ed
 =
 A} 8
 3 r IMeRINSSSlaVCsesRgesesResQARragagaa
 q Qos VslsA ni mio cS SHAR BRR HMA NNN
 —
 z QeRsssEeRgegsggagyxesaesegseR
-Ss BS ISIS Sais Ga ae gfe 2252 ag aaq
 =
 8 g
 +]
-3 FE I2@eSie/B se Sir Ag Regkasagea gs saa
 8 RB ISTSS A ANS oO SG SS SOA AH AW
 SY &£
 ‘5 §
@@ -2146,15 +2114,11 @@ x Seiten!
 g S ISesViFS SHS aaGQsReggseggeRxs
 Ps § STATES RE KIS SC SO COO SO COO OR RA BRR AR
 2 rs]
-S| § [8eSRBS SSSA Ree RSSR SARS S
-3 iS sm T™SIN] SO SKIS COSCO OC COO OBO KO BOO Oe
 3
 x ~ ~
-=) 8 SeSRP/ ACH BISSSINOARRRRASCE SHAR
 3 ma “SIN%1SO SCS SiS COGS oO SC SO SCO oO Oo oO SG oS SG
 = ,
 § Seds/8ssiesgsssessesasssaeggeges
-g ~™SNIRLO GO SIO CSO OSG SO CO SSG oO SOSGO OOo SG
 so = pn Z
 x SE [s/o jSSSERGCEUS
 a Fs }8 FSESARSaRR RE
@@ -2172,18 +2136,14 @@ OT gp (Pi Pika jes et aa aang
 A)
 80 ry , om -
 5 SEIS ES ses eaesegggsag
-EE, SS" |Sien |S e848 an ed 88
 _ » f
 s| £
-3 Sigs jal@S jes ateRgeRgggag sy
-Qe; & JF Kage esos eeana Regn
 a} 3 188 BIR S ig as ag Aggees gsa
 ha) 5 ES SSE TRSERASUOAARRa daa
 eo =
 a| & lee gl82slesqgesegzeggsase
 s "NE XE Sadie ca cseeneasgggdsaagsg
 SE RIS SAasehHsSaeceeggaes
-7” RPS ACG me oe Qa s Soe Veg a aa &
 yd
 Peas Wseselsssssessessseesss8
 RSs SiS =~ aa wo BR Oa =a Am a
@@ -2213,7 +2173,6 @@ d’=mz
 Centre to Centre distance:
 
 1 i}
-a= 5 (d, + dy) => (mz, +mz,)
 
 mz, +Z,)
 2
@@ -2289,7 +2248,6 @@ _ between pinion and gear.
 Table 17.3 Values of the Lewis form factor Y for 20°
 full-depth involute system
 
-Zz Y Zz Y Zz Y
 15 0.289 «27/0348 55.415
 16 0.295 28 0352 60 0.421
 17 0.302 29 0.355 650.4285

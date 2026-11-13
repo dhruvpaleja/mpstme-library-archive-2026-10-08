@@ -104,6 +104,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE Data Science (311)/SEM-VI/FORMAL LANGUAGE AND AUTOMATA THEORY/B Tech, Formal Language and Automata Theory, Sem-VI, Batch 2024-25 & 2025-26 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 81.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -209,7 +210,6 @@ aA. A 0,1 ~ ~
 oe)
 i Fe
 i % oN a
-UV Q G, re { d \- “o
 6. Discuss Classification of Grammar. 10
 CO-3,
 BL-2
@@ -326,6 +326,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/BTech_CSE_DS_7011/Formal Language and Automata Theory/QP_Formal Language and Automata Theory(702CO0C043)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

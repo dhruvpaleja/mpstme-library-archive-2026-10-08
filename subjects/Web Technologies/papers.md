@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Web Technologies/Web Technologies 2024-25 Final Batch 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (3 pages), mean OCR confidence 84.7
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -73,7 +74,6 @@ iMiriam's Website
 
 About Me
 
-at LACLAL My students ere excefier: sxxd awesomel
 
 . Picture of a Dog
 
@@ -129,16 +129,10 @@ CO-1; [10]
 SO-1,2,7 ;
 BL-2,3,6
 Buger Pizza Sanwich
-Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dotor sit amet consectetur
-adipisicing elit. Magnam distinctio adipisicing elit. Magnam dislinctio » adipisicing elt. Magnam distinctio
-voluptas cupiditate repeltat? Minima, nisi voluptas cupiditate repellat? Minima ssi voluptas cupiditale repeliat? Minima, nisi
 vel repudiandae quibusdam quia sit vol repudiandae quibusdam quia sit vel repudiandae quibusdam quia sit
-enim excepturi Fugiat hic enim Fugiat hie enim excepturil Fugiat doloremnque hic
-ula unde? A, molestiae corporis! ullam unde? A, molestiae eorpori3t ullam unde? A, molestiae corporis!
 (ck More cack tort lek More
 
 sf
-FES OGG I OGIO ICICI I RIO I IO II IIa I I i II GI i tok ar
 
 O
 ````

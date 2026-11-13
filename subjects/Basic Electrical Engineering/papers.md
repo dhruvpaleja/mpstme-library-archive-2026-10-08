@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basice Electrical and Electronics Engineering, 2025-26 Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 84.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -136,7 +137,6 @@ CO-S5; SO-1; .
 BL-3 using basic logic gates.
 ‘ t
 “
-a ok KK RR KE 3 ORR RR
 . A
 ````
 
@@ -307,7 +307,7 @@ Z oP Ore tates)
 Page 4 of 4
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 2 · paper 429070073a06
+## 2023-24 · Final + Re-Exam · Sem 2 · paper 429070073a06
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
@@ -448,160 +448,7 @@ CO-4; SO-1; Truth Table.
 Bhs Y=((A°+B’y +0’)
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 1 · paper 28d011df911e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic electrical & electronic engg,Final 22-23,Re-exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 January 2023
-- Text: ocr (3 pages), mean OCR confidence 81.8
-
-````text
-SN SVKM’s NMIMS
-£2) SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2022-23
-
-Programme: B.Tech (All Streams) / MBA Tech (All Streams) Year: I Semester: I
-Subject: Basic Electrical and Electronics Engineering
-
-Marks: 100
-Date: 09 January 2023," Time: 11.00 am - 2.00 pm |
-
-Durations: 3 (Hrs)
-No. of Pages: 3
-Final Examination (2022-23)/Re-Examination (2021-22) .
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-> 3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly:
-CO-1;S0-1; | a. Identify the Theorem applicable to below diagram and write the statement | [4]
-Bet of it.
-R, A R, J : 7
-Wm | WV
-jautt
-at tt —_—— | Rt
-TM 3 7 v2 [> on |
-|
-—- R iy | |
-|
-° L.-T __t
-B
-€O-2;S0-1; | b. What is resonance in a RLC series circuit? Derive the expression for | [41
-Bla resonant frequency in a RLC series circuit.
-c0-3;50-1; | ¢, Explain the working principle of a transformer. {4]
-BL-2
-Co-4;SO-1; | d. What is Zener Diode and how it works as a Voltage Regulator? (4)
-BL-1
-ae S04; |e, State De Morgan’s theorems. 4]
-L-:
-
-Tees
-
-Qz “Ta Apply Nodal At alysis to determine the currents 1, ,1, &Iz inthe circuit | Ul
-CO-1; SO-1;
-BL-3
-
-fs
---- page 2 ---
-A B 05a CG GE
-
-in ly
-
-12 1
-1Q 282
-=15v 20V=
-TL T
-o
-Q b A sinusoidal alternating voltage is supplied to a series RC circuit. Explain | [101
-CO-2; SO-1; the current flow in a series RC circuit and derive an equation of
-eL4 instantaneous current and phase relationship between voltage and current.
-Draw an appropriate circuit and phasor diagram for this circuit.
-
-Q3 a The voltage and current in this circuit are given by, V = 150230°V, [ = | 5°
-CO-2; SO-1; 22 — 15° A, respectively. Frequency of operation is 50 Hz. Determine:
-Bie (i) impedance
-
-(ii) resistance
-
-(iii) reactance
-
-(iv) power factor
-
-(v) power consumed in the circuit
-
-—e
-ANNAN CET —
-}+—¥_e—a}— ¥%,—o}
-+
-Ww
-
-Q3 b Explain with a neat diagram the construction of DC motor. Also explain its | [1
-CO-3; SO-1; working principle.
-BL-1
-
-Qa [2*5] _
-
-CO-2; SO-1; figure.
-BL-4 ao |...
-vt {[\,,
-ra) Tw or amr 4a OS TT (ot)
-Q4 b Write Short note on the following: [10]
-os SO-1; . i. Light Emitting Diode
-
-ii. Transducer
-
-ETT
-
-2/3
---- page 3 ---
-a5 a What is Rectifier? Explain working of Half wave rectifier with the help of |
-
-a sol diagram. Also write advantages and disadvantages of Half wave rectifier.
-Qs b Why are NAND and NOR gates called as universal gates? Explain with an | 1°
-CO-4; SO-1; example.
-BL-2
-O11 30 KVA, 3300/240 V, 50 Hz, single phase transformer has 440 turns on |
-CO-3; SO-1; , .
-BLS the Primary. Determine: [10]
-(i) The number of turns on the secondary.
-(ii) | The maximum value of flux in the core.
-(iii) | The approximate value of primary and secondary full load
-currents.
-Q6 b State Superposition theorem. What are the various steps to be followed for |
-CO-4; SO-1, calculation of load current using Superposition theorem. Explain with the
-a“ help of circuit diagram in detail.
-Qq a Use Norton’s theorem to find the current in 12 Q Resistance in the {a
-CO-1; SO-1; i
-wa following figure.
-102 15Q
-100V =~ 102 ma
-Q7 b What do you understand by efficiency of transformer? Derive the condition | 71
-en SO-4; for maximum efficiency of a transformer.
-Q c Realize the Boolean function F = AB + BC(B+C) in the form of a {6}
-CO-4; SO-1; logic gates diagram using only AND, OR, and NOT gates and also write the
-> a symbol and truth table of the XOR gate.
-
-3/3
-````
-
-## 2022-23 · Re-Exam · Sem 1 · paper c012f0d17968
+## 2023-24 · Re-Exam · Sem 1 · paper c012f0d17968
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
@@ -752,6 +599,302 @@ Q c Apply Basic gate logic to implement following Boolean expression. Also | [4
 F =ABC +ABC +ABC ‘
 
 |
+````
+
+## 2022-23 · Exam not stated · Sem 1 · paper bf92f0023ac9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic Electrical & electronic engg.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 86.6
+
+````text
+| . SVKM’S NMIMS
+| MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& en C
+Academic Year: 2022-2023
+
+|
+Program 8 Tech/MBA Fech(AUL FP A2 NE) coe, (Ds) -10S9
+
+Subject: Basic Electrical & Dioner Engineering Time: 4 _hrs(ltam to 2 pr)
+
+| Date: 15 June 2ORB . No. of Pages:3
+
+Marks: 100
+
+Year: I Semester: _\_
+
+Special Re-Examination |
+
+| Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+| of the Answer Book, which is provided for their use.
+
+| 1) Question No._1___ is compulsory.
+| 2) Out of remaining questions, attempt any _4_ questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+
+i ¢ 6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql Answer briefly:
+oO i so-l, | a. List the steps to solve an electrical circuit using Nodal Analysis [4]
+b. The equation for an alternating current is given by i= 14.14 sin 377t. Find
+@ RMS value of current
+CO-2; SO- 1; Gi) frequency [4*1]
+Ble (iii) instantaneous value of current when t= 3 ms
+(iv) Time period
+set SO jc. List the important characteristics of an ideal transformer. [4]
+or so-l; | d. Write the differences between inverting and non-inverting Amplifier. [4]
+~ en e. Draw an OR and AND gate symbol with two binary inputs and one binary (4
+Bie output with their truth tables and Boolean expression.
+
+Qz a Determine the current through 5Q resistor in the network shown by
+CO-1; SO-1; Thevenin's theorem.
+| BLS 6Q 2Q
+i pS —WW
+| [10]
+: 10V = 12 : 30 Z 52
+
+_t}
+|
+20V
+--- page 2 ---
+@
+
+Explain the AC analysis of RC series circuit by using Phasor Diagram,
+
+CO-2; SO-1; Voltage Triangle, Power Triangle and waveforms and equations of voltage [10]
+BL-2 and current.
+Q3 Explain the principle of Resonance in Series RLC circuit with the help of
+CO-2; SO-1; suitable circuit diagram and resonance curve.
+BL-3 Also derive the equation for resonant frequency(fo) [10]
+@ Discuss the construction and operating principle of a single-phase
+CO-2; SO-1; induction motor with the help of a neatly labelled diagram. {10]
+BL3
+Q4 When a sinusoidal voltage of 120 V is applied to a series RL circuit,it is
+CO-2; SO-1; found that there occurs a power dissipation of 1200 Watts and the current
+BL-3 flowing in the circuit is given by i(t) = 28.3 sin (314t — @).Determine
+(i) Trams .
+(ii) ~~ Impedance 2)
+(iii) | Power factor of the circuit
+(iv) Value of resistance
+(v) Value of Reactance
+Q4 Explain the concept of photodiode and light emitting diode with their
+CO-4; $0-4; features. [5*2]
+BL-2
+Qs Explain the construction and working principle of Full wave Rectifier
+ee S0-1; with neat, labelled diagrams and waveforms. {10)
+0s Realize the following Boolean function
+c0-4:50-1: F = ABC + ABC’ + A’BC' using only AND, OR, and NOT gates, [10]
+Bs and also write the truth table of the given Boolean function.
+Q6 A 80 KVA, 3200/400 V, 50Hz, single phase transformer has 111 turns on
+CO-3; SO-1; the secondary side and the maximum flux density is 1.2 Tesla. calculate: . a
+BL-3 (i) The number of primary turns 2
+i" (ii) The rated primary and secondary currents
+(iii) Cross sectional area of core
+(iv) The max value of the flux
+(v) Voltage induced per turn
+Q6 With the help of mesh current method, find the magnitude and direction of
+c0-1;50-1; the current flowing through the 1Q and 3 Q resistor in the network. [5*2]
+
+BL-4
+--- page 3 ---
+=
+
+22 250
+
+i NN —ANW
+a
+12 = |
+
+230 =
+
+£ = 250.
+
+12.5V T : |
+
+Q7
+
+CO-1; SO-1;
+BL-1
+
+State superposition theorem. What are the various steps to be followed for
+calculation of load current using superposition theorem. Explain with the
+help of circuit diagram in details.
+
+7
+
+Q7
+0-3; SO-1; BL-
+1
+
+Explain different types of losses in a transformer.
+
+Q7
+
+CO-2; SO-1;
+BL-3
+
+Write statements of De-Morgan’s first and second theorem. Also prove
+both of them using truth table.
+
+6
+````
+
+## 2022-23 · Final + Re-Exam · Sem 1 · paper 28d011df911e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic electrical & electronic engg,Final 22-23,Re-exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 January 2023
+- Text: ocr (3 pages), mean OCR confidence 81.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SN SVKM’s NMIMS
+£2) SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23
+
+Programme: B.Tech (All Streams) / MBA Tech (All Streams) Year: I Semester: I
+Subject: Basic Electrical and Electronics Engineering
+
+Marks: 100
+Date: 09 January 2023," Time: 11.00 am - 2.00 pm |
+
+Durations: 3 (Hrs)
+No. of Pages: 3
+Final Examination (2022-23)/Re-Examination (2021-22) .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+> 3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly:
+CO-1;S0-1; | a. Identify the Theorem applicable to below diagram and write the statement | [4]
+Bet of it.
+R, A R, J : 7
+Wm | WV
+jautt
+at tt —_—— | Rt
+TM 3 7 v2 [> on |
+|
+—- R iy | |
+|
+° L.-T __t
+B
+€O-2;S0-1; | b. What is resonance in a RLC series circuit? Derive the expression for | [41
+Bla resonant frequency in a RLC series circuit.
+c0-3;50-1; | ¢, Explain the working principle of a transformer. {4]
+BL-2
+Co-4;SO-1; | d. What is Zener Diode and how it works as a Voltage Regulator? (4)
+BL-1
+ae S04; |e, State De Morgan’s theorems. 4]
+L-:
+
+Tees
+
+Qz “Ta Apply Nodal At alysis to determine the currents 1, ,1, &Iz inthe circuit | Ul
+CO-1; SO-1;
+BL-3
+
+fs
+--- page 2 ---
+A B 05a CG GE
+
+in ly
+
+12 1
+1Q 282
+=15v 20V=
+TL T
+o
+Q b A sinusoidal alternating voltage is supplied to a series RC circuit. Explain | [101
+CO-2; SO-1; the current flow in a series RC circuit and derive an equation of
+eL4 instantaneous current and phase relationship between voltage and current.
+Draw an appropriate circuit and phasor diagram for this circuit.
+
+Q3 a The voltage and current in this circuit are given by, V = 150230°V, [ = | 5°
+CO-2; SO-1; 22 — 15° A, respectively. Frequency of operation is 50 Hz. Determine:
+Bie (i) impedance
+
+(ii) resistance
+
+(iii) reactance
+
+(iv) power factor
+
+(v) power consumed in the circuit
+
+—e
+ANNAN CET —
+}+—¥_e—a}— ¥%,—o}
++
+Ww
+
+Q3 b Explain with a neat diagram the construction of DC motor. Also explain its | [1
+CO-3; SO-1; working principle.
+BL-1
+
+Qa [2*5] _
+
+CO-2; SO-1; figure.
+BL-4 ao |...
+vt {[\,,
+Q4 b Write Short note on the following: [10]
+os SO-1; . i. Light Emitting Diode
+
+ii. Transducer
+
+ETT
+
+2/3
+--- page 3 ---
+a5 a What is Rectifier? Explain working of Half wave rectifier with the help of |
+
+a sol diagram. Also write advantages and disadvantages of Half wave rectifier.
+Qs b Why are NAND and NOR gates called as universal gates? Explain with an | 1°
+CO-4; SO-1; example.
+BL-2
+O11 30 KVA, 3300/240 V, 50 Hz, single phase transformer has 440 turns on |
+CO-3; SO-1; , .
+BLS the Primary. Determine: [10]
+(i) The number of turns on the secondary.
+(ii) | The maximum value of flux in the core.
+(iii) | The approximate value of primary and secondary full load
+currents.
+Q6 b State Superposition theorem. What are the various steps to be followed for |
+CO-4; SO-1, calculation of load current using Superposition theorem. Explain with the
+a“ help of circuit diagram in detail.
+Qq a Use Norton’s theorem to find the current in 12 Q Resistance in the {a
+CO-1; SO-1; i
+wa following figure.
+102 15Q
+100V =~ 102 ma
+Q7 b What do you understand by efficiency of transformer? Derive the condition | 71
+en SO-4; for maximum efficiency of a transformer.
+Q c Realize the Boolean function F = AB + BC(B+C) in the form of a {6}
+CO-4; SO-1; logic gates diagram using only AND, OR, and NOT gates and also write the
+> a symbol and truth table of the XOR gate.
+
+3/3
 ````
 
 ## 2022-23 · Re-Exam · Sem 1 · paper 6487340fa0f7
@@ -990,6 +1133,89 @@ appearing across the capacitor, and e)Determine the value of capacitance.
 
 7b What is the purpose of using a circuit breaker in an electrical installation? Explain the 10
 different circuit breakers (MCB, ELCB, MCCB).
+````
+
+## 2019-20 · Re-Exam · Sem 1 · paper 3f0619439fb0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic electrical engg,Re-exam 2017-18.pdf`
+- Printed on paper: exam date: 08 November 2019
+- Text: ocr (3 pages), mean OCR confidence 92.0
+
+````text
+4
+
+: SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA Tech (All Streams) ~ Year: I Semester: I
+
+Academic Year: 2019-20 -
+Subject: Basic Electrical Engineering
+
+Date: 08 November 2019 _ Time: 10.9Qr4
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1) Attempt any All.
+
+A) Differentiate between ideal and practical transformer 4M
+
+B) Derive the equation for Delta to Star Conversion. 4M
+
+C) Find the value of current flowing through 5Q resistor using Mesh 3M
+Analysis.
+
+oy
+
+D) Define average value, rms value, form factor and crest factor 3M
+Q.2) a) | Using Superposition Theorem find the current in 4Q resistor in the 7™
+network below
+--- page 2 ---
+b) | Find form factor & peak factor for given waveform. 7™
+
+Q.3) a) | For the circuit shown find the value of resistance RL for maximum ™
+power &calculate maximum power
+
+enit shOWwe
+
+b) | Discuss working principle of transformer and derive emf equation of 7™
+transformer
+
+Q.4) a) | When a voltage of 100 V is applied to a coil A, the current taken is 8A & | 7M
+the power is 120W when applied to a coil B, the current is 10A & the
+power is 5|00W. What current & power will be taken when 100V is
+applied to the two coils connected in series?
+
+b) | Find the current in 1Q resistor in the network by Norton’s Theorem. 7™.
+--- page 3 ---
+Q.5 a) | Discuss single phase induction motor. What is Double Field Revolving ™
+Theory?
+b) | Explain various losses in a transformer 7™.
+Q.6 a) | Discuss series resonance circuit in detail. ™
+b) | A series resonant circuit has impedance of 500Q at resonant frequency. 7™,
+Cut off frequencies are 10kHz and 100khz.Determine 1) Resonant
+frequency 2) Value of R, L,C 3) Quality factor at resonance.
+Q.7 Write a short note on any two of the following
+a) Three Phase Induction Motor ™
+b) Nodal Analysis (with example) 7™.
+c) . Series RC Circuit 7™
 ````
 
 ## 2018-19 · Final-Exam · Sem 1 · paper 3afeb5c56974
@@ -1260,6 +1486,390 @@ What is the purpose of using a circuit breaker in an electrical installation? Ex
 different circuit breakers (MCB, ELCB, MCCB)
 ````
 
+## 2018-19 · Re-Exam · Sem 1 · paper c52fc9844312
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 November 2018
+- Text: ocr (2 pages), mean OCR confidence 87.2
+
+````text
+©
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Semester: I
+
+« “ a
+Academic Year: 2018-2019
+
+Subject: Basic Electrical Engineering
+” Marks: 70
+
+Date: 19 November 2018 Time: 10.00 :
+; < Durations: 3 (hrs)Ssx!
+No. of Pages :_O 2
+
+Re-examination (2015-16 / 2016-17) a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1-Attempt any four of the following. [14]
+
+A) Find the Power delivered by 50 V source in the circuit..
+
+Sa 4 Ba
+oy \e A 24% \ov
+
+B)Find the average value & RMS values of the waveform shown in the following figure.
+
+Ne
+Vie
+a
+ol vw ar an °
+
+a C) Compare Electric & Magnetic.Circuit.
+
+D) Derive the EMF equation of single phase Transformer.
+
+E) Define Form factor and Crest factor.
+
+id
+--- page 2 ---
+2-A) Explain the behavior of Series R-C Circuit with AC signal. Draw the phasor
+
+Diagram and derive the expression for impedance. [7]
+B) For the circuit shown, find the value of Resistance Ri for maximum power and calculate
+Maximum power. [7
+wee ra ‘.
+7°
+QN T
+Q.3-A) for the circuit ' Showa, Find the current through 5Q resistor. Use Mesh method. [7]
+Nv
++ fo ci
+_L | rag S$ Wa.
+SV Taw | A
+2 Br
+\2V oo
+{t AM
+B) Explain the concept of Self-inductance and Mutual Inductance with diagram. [7]
+
+Q.4-A) A Series RLC circuit consist of R=10Q,L=0.01 H,C=100pF. Calculate the resonant
+Frequency, quality factor of the circuit, bandwidth and lower and upper frequency of the
+
+Bandwidth. [7]
+B) Convert the Delta Network shown below in to it’s equivalent Star network. {7]
+'
+ee we
+RA
+Om AMA se
+
+Q.5-A) Three coils having a resistance of 80. and inductance on 0.02 H are connected in delta
+to a three phase, 400 V, 50 Hz supply. Calculate the line current and Power absorbed.
+
+. [7]
+
+B) Explain Transformation ratio and rating of Transformer. [7]
+
+Q.6-A) An 80 KVA,3200/400 V,50 hz single phase transformer has 111 turns on the secondary
+Winding. Calculate number of turns on primary winding, secondary current and cross
+
+Sectional area of the core if the maximum flux density is 1.2 Tesla. [7]
+
+B) With the help of diagram explain the characteristics of D.C.series Motor . [7]
+Q.7-) Explain following
+
+A) Construction and working of Transformer. [7]
+
+B) Composite magnetic circuit and fringing. [7]
+
+2]r
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper 57a95e7e41c0
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 November 2018
+- Text: ocr (3 pages), mean OCR confidence 87.4
+
+````text
+. » *F
+
+oy
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Semester: I
+
+-
+
+Academic Year: 2018-2019
+Subject: Basic Electrical Engineering
+
+Marks: 70
+Date: 19 November 2018 Time: 10.00 a:
+“ Durations: 3 (hr:
+
+No. of Pages :.
+Re-examination (2017-18) -
+
+> —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attemptany 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. .
+
+0.1
+@ In the circuit shown below find current through 1Q resistor using Superposition theorem. 4 g Mm)
+oN IA
+(+)
+2Q0 |
+ee ea
+7 P30]
+= E (ABA
+| i |
+|
+|
+Ol ;
+= b. A 50 Hz alternating voltage of 150 V is applied independently to (i) resistance of 10 Q (i) inductance
+of 0.2 H and (iii) capacitance of 50uF. Find the expression for the instantaneous current in each case.
+sh (6 Marks)
+
+Page Lof3
+--- page 2 ---
+0.2
+
+0.2
+
+b. A R-L-C series circuit has a current which lags the applied voltage by 45°
+inductance has maximum value equal to twice the maximum value of volt
+
+a. A coil of resistance 3Q and inductance of
+When such a series circuit is connected acr
+combined impedance is (3.8+j6.4) Q.
+capacitor.
+
+Voltage across the inductance is 300 sin (
+capacitance.
+
+\
+
+0.22H is connected in series with an imperfect capacitor.
+oss 200V, 50Hz ac supply. It has been observed that their
+
+alculate the resistance and capacitance of the imperfect
+
+(7 Marks)
+
+. The voltage across the
+
+age across the capacitor.
+1000t) and R = 20. Find the value of inductance and
+
+(7 Marks)
+0.3
+a Explain with neat sketch star and delta connection in three phase AC circuits. (8 Marks)
+0.3
+b. Explain one watt meter method of power measurement in three phase AC circuit. (6 Marks)
+04
+a. Explain the Construction and working for Single Phase Transformer with its Applications.
+(8 Marks)
+0.4
+b. Explain about OC & SC test on Transformer. (6 Marks)
+0.5
+a. Explain the Construction and working for DC Motor. (8 Marks)
+0.5
+6. Explain the Construction and Working principle of Single Phase Induction Motor.. (6 Marks)
+
+lage
+Page
+
+2 of 3
+--- page 3 ---
+a)
+
+a. Derive the EMF equation of single phase transformer.
+
+(8 Marks)
+0.6
+
+b. Prepare a comparative statement between Series and Parallel RLC Circuits.
+
+(6 Marks)
+0.7
+
+a. Explain the Construction and Working principle of Three Phase Induction Motor and its advantages.
+(8 Marks)
+
+0.7
+
+b. By source transformation, find current in 4Q resistor in circuit given below.
+
+6V
+iv
+rr.
+“o S20 “o 340
+
+°(6 Marks)
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper a6562411809d
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2017-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 January 2019
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+
+Program: B. Tech (All Streams) Year: I
+“ Academic Year: 2018-2019 ~
+Subject: Basic Electrical Engineering Marks: 70
+“
+
+Semester :] ~
+
+a
+
+Time: 2.
+Date: 15 January 2019 : tme: 2.00 pm to 5.00 mA
+
+Durations:3 (hrs)
+
+No. of Pages:_ O2
+Re-examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining six questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -Suitable data if necessary.
+
+Q.1 Attempt any TWO from the followings
+a. Find the equivalent resistance between A and B in the network of Fig 1.
+
+w ;
+a S3n ane 8 17]
+Sv
+t 5a AWA A?
+3
+Fig 1
+b. Derive the relation between ,
+a) R.M.S value and maximum value b) Average value and maximum value [7]
+for a purely siriusoidal alternating quantity.
+c. Draw equivalent circuit of a transformer and explain each of its elements. [7]
+d. Explain in detail the construction of a de motor. (7]
+Q.2
+a. Find the current through the 10Q resistor of the network shown in Fig 2 using mesh
+analysis.
+-— AAW
+
+pike 12 102 C)4a 2150 7]
+2V T
+
+Fig 2
+
+Page 1 of 2
+--- page 2 ---
+b. Find the current through the 3Q resistor using Thevenin’s theorem.
+
+6a (H) ee — $20 | 7
+I
+
+42V
+
+Q.3
+
+a. Find the voltage at nodes | and 2 for the network shown in Fig 3 using node analysis.
+12 Vy 22 Vo
+
+AWW AW
+©) ®
+1A S20 192 Q)2a 7]
+=
+Fig 3
+
+b. Explain AC analysis of series RL circuit. Draw its phasor diagram, voltage triangle,
+impedance triangle.
+Q.4
+
+a. Derive the relationship between a line current and phase current and a line voltage and
+phase voltage related to a star connected load. Also draw its phasor diagram.
+
+b. A series RLC circuit has the following parameters values: R=10Q, L=0.01H, C=100pF.
+Compute the resonant frequency, bandwidth, lower and upper frequencies of the [7]
+bandwidth. .
+
+[7]
+
+[7]
+
+Q5
+a. A 500 KVA transformer has an iron loss of S5O00W and full load copper loss of
+
+600W.Calculate the efficiency at pin full load and 0.8 power factor, @lso calculate 7]
+maximum efficiency at that power factor.
+
+b. Describe O.C and S.C test on a single phase transformer and explain the significance of
+
+these tests. [7]
+Q.6 ‘
+a. Sketch and Explain the torque-armature current, speed-armature current, speed-torque
+characteristics of D.C series Motor. [7]
+b. Explain the construction of a Single phase Induction motor. [7]
+Q.7.
+a. With the help of connection diagram and phasor diagram €xplain two wattmeter method
+tid for balanced star connected load( assuming load p.f.be lagging) [7]
+b. Compare R ,L and C Circuits w.r.to the following parameters,
+yea a) Voltage —_b) current c) Waveforms d)Phasordiagram   e) Phase difference [7]
+f) Power g) Power factor
+
+Page 2 of 2
+````
+
 ## 2018-19 · Re-Exam · Sem 1 · paper 413625da0c25
 
 - Departments: Common (all branches)
@@ -1412,566 +2022,7 @@ c) What is rotating magnetic fields? Explain in details. [5]
 *h
 ````
 
-## 2017-18 · Exam not stated · Sem 1 · paper 6890b87b48da
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/BASIC_ELECTRICAL_ENGINEERING_2017-2018_.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 27 November 2017
-- Text: text (2 pages)
-
-````text
-•
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBATech ( All Streams)   Year: I   Semester: I   /
-J   Academic Year: 2017-2018
-Subject: Basic Electrical Engineering.
-Marks: 70
-Date: 27 November 2017   Time: 2.00 pm - .:;:O~p~ .~
-Durations: 3 Hrs   .•.",
-No. of Pages:   lO-2..
-Final-Examination   ------='-+.:T
-Instructions: Candidates should read carefully the instructions printed on the question   aper and
-on th'e cover of the Answer Book, which is provided for their use.   ~
-1) Question No. 1 is compulsory .
-. 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume .suitable data if necessary.
-Q.l   (14)
-(a)   Convert voltage source to equivalent current source, with suitable values and   (3)
-diagram.
-(b)   Draw the phasor diagram and explain the behavior of pure capacitor in an AC   (3)
-circuit
-(c)   Compare R-L-C series and parallel resonance circuit.   (4)
-(d)   Derive the emfequation   of transformer.   (4)
-Q.2   (a)   Calculate the effective resistance between terminals A and B as shown in figure   (7)
-i~/ "-~;
-lO;l~J8J'-,~C-JI-
-ct-~~~~~~E /   6J!..   i   SJ'>.   '"
-(b)   Using Thevenin's theorem, find the current in 10 n resistor in the network shown   (7)
-in Figure
-Page 1 orz,
---- page 2 ---
-•
-Q.3   (a)   Find the resistance between terminals A.and E, using star to delta conversion and   (7)
-the current supplied by the battery.
-(b)   Differentiate between leading and lagging AC quantity with the help of waveform   (3)
-and equations.
-(c)   Find the average value of the waveform shown in figure.   (4)
-V = Vm sin8   for   0 < 8 < 1t   and v = 0 for 1t < 8 < 2 1t
-v
-o   2n   3rr
-QA   (a) A series resonant circuit has an impedance of 400 n at resonance frequency. Cut-   (7)
-off frequencies are 10kHz and 100 Hz. Determine
-i)   Resonant frequency.
-ii)   value of R, L, C.
-iii)   Quality factor at resonant frequency.
-(b)   Prove that a three phase balanced load draws three times as much power when   (7)
-connected in delta as it would draw when connected in star.
-Q.5   (a)   Three phase star connected load when supplied from a 400 Volt, 50 Hz source   (6)
-takes a line current of 10 Amps at 66.86° with respect to its line voltage. Calculate:
-a) Impedance parameters.
-b) Power factor.
-c) Active power consumed.
-d) Draw the phasor diagram.
-(b)   Draw equivalent phasor diagram for a 3 - <I>star connected system. Also, derive   (4)
-the relationships between the line and the phase quantities.
-(c) A single phase, 50-Hz transformer has 80 turns on the primary winding and 400   (4)
-turns on the secondary winding. The net cross-sectional   area of the core is 200 crrr'.
-If the primary winding is connected to 240-V, 50-Hz supply, determine (a) the emf
-induced in the secondary winding, and (b) the maximum flux density in the core.
-Q.6   (a) Draw and explain the equivalent phasor diagram of the transformer considering   (7)
-winding impedance parameters operating an Inductive Load.
-(b)   Explain in detail the construction and working principle of DC Motor.   (7)
-Q.7   Write Short Notes on
-(a)   Superposition Theorem with suitable example.   (3)
-(b)   Graphical Representation   of Series Resonance considering   all parameters.   (4)
-(c)   Parameter estimation of Impedance and Power for a series RL circuit.   (4)
-~~   20.(2-   (d)   Working principle of AC motor.   v   'f.   (3)
-/'
-````
-
-## 2017-18 · Final-Exam · Sem 1 · paper 55326670c1c5
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING (ALL STREAMS), FINAL EXAM 2017-2018.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 27 November 2017
-- Text: ocr (2 pages), mean OCR confidence 84.8
-
-````text
-a SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) : Year: I ~ Semester: I — \
-
-Academic Year: 2017-2018
-
-Subject: Basic Electrical Engineering — “
-Marks: 70 — {\tuT OF Bay,
-Date: 27 November 2017 - Time: 10.00 am t#T.00 pm oN S a
-> ,
-
--
-
-Durations: 3 (hrsi/~ esTHMe Yo
-
-No. of Pages: W :
-CAG a ™ e *
-Final-Examination ~~ dex &
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-; 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 a. Find equivalent resistance between terminal a and b for the given circuit. 05
-A
-°
-r UAV i steal PIN posi
-2 402
-— 6¢
-enn NY ee
-I 3Q
-RE®) = 38a
-< 4
-
-B
-
-b. An alternating current varying sinusoidally with a frequency of 50 Hz has an rms 04
-value of 20A. (a) Write down the equation for the instantaneous value and find its
-value at (b) 0.0025 s after passing through zero and increasing positively (c) At what
-time, measured from zero will the value of the instantaneous current be 14.14A?
-
-c. A voltage v(t) = 10 sinwt is applied to a series R-L-C circuit. At the resonant 05
-frequency the voltage across the capacitor is found to be SO0V. The bandwidth of the
-circuit is 400 rad/sec and the impedance of the circuit at resonance is 100 ohm.
-Determine the resonant frequency, current through the circuit at resonance, value of
-inductor and capacitor.
-
-Page 1 of 2
---- page 2 ---
--
-me
-
-y
-fo
-Q2 a Find current through 5 ohm resistor using mesh analysis. 07
-1Q 22
-Me VV |
-3 : S50
-10Vv ° 4 ;
-Tegee ,
-1 to
-69 $ 5V 4Q
-20V
-b. Find the value of R; for maximum power transfer and calculate the maximum power. 07
-|
-RV ?
-Q3. a. Find the values of R and C’ so that V, = 3V, given that V, and V, are in quadrature. 07
-0.0255 H 62 ¢ R
-COO MAA it AA
-vy, t vy,
-[tremens AL) V, SO Hz a
-b. Explain the analysis and phasor digrams of series R-L-C circuit energized by an 07
-sinusoidal ac voltage showing the relative positions of the applied voltage,
-component voltages and resultant current for (i) X_ < Xc (ii) XL = Xc (iii) XL > Xc
-Q4. a. Draw the circuit diagram of a three phase star connected balanced load and derive the 07
-relation between phase and line quantities (voltage, current and power), _ Iso draw its
-phasor diagram for lagging power factor.
-b. — Three coils each with a resistance of 10 Q and reactance of 10 Q are connected in star 07
-across a three phase, 400 V, 50 Hz supply. Calculate (i) line current and (ii) readings
-on the two wattmeter’s connected to measure power.
-Q5. a A 50kVA, 2300/230V, single phase transformer has primary and secondary winding 07
-resistance of 2Q and 0.02Q respectively. The iron loss is 412W. Calculate the
-efficiency (i) at full load and (ii) at half load. The load pf is 0.8.
-— b. With neat circuit diagram explain the short circuit test of transformer. 07
-gesae Q6. a. With neat diagram explain the construction and working of single phase induction 07
-motor.
-b. Draw neat diagram of DC series and DC shunt motor and list down its current — 07
-
-voltage relation.
-
-Q7. a. State maximum power transfer theorem and derive the condition for the same. 05
-b. Derive the emf equation of transformer, also explain the significance of KVA rating 05
-of the transformer.
-2 ©. Explain the working principle of three phase induction motor. 04
-
-Page Doro
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper 3aaeb4c46815
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 17-18 RE EXAM 2017-18.pdf`
-- Printed on paper: max marks: 70; exam date: 31 May 2018
-- Text: ocr (2 pages), mean OCR confidence 90.1
-
-````text
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
-Programme: B. Tech (All Streams) Year: I Semester: I
-a - a
-
-Batch: 2017-18
-Academic Year: 2017-2018
-
-! Subject: Basic Electrical Engineering
-7 ia Marks: 70
-Date: 31 May 2018 Time: 10.0
-c Durations:
-No. of Pages:
-Re-Examination r
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-_of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1 Solve any two of the following:
-a)State and explain (1) Superposition theorem (2)Norton theorem. — (7)
-
-b)An alternating current | is given by | =141.4 sin 314 t.Find (i) the maximum value(ii) the frequency
-(iii)time period (iv)the instantaneous value when time is 3 msec. : (7)
-
-c) Draw the neat diagram of 3 phase star and delta connection. Explain line and phase quantities for these
-
-connections. : (7)
-d)Explain working principle of transformer. Derive E.M.F equation of a transformer. (7)
-Q2 a)Find equivalent resistance between A and B. (7)
-
-AI] VesisSpeys ave
-
-ia obn,.
---- page 2 ---
-b)Determine current in 1 ohm branch using mesh analysis for the following circuit. (7)
-
-AseS
-Ap] +74
-
-Q3a)What do you mean by resonance? Draw the series RLC circuit and derive the expression of resonance
-
-frequency. . (7)
-b)Calculate the value of RL for it to absorb the maximum power and find the value of maximum power in
-the following circuit. - ; ; (7)
-—+ 40427 4 607 7
-T OR
-20 co 10] : L
-pea 7,
-Q4 a)Explain Two wattmeter method of three phase circuit power measurement. (7)
-
-b)Draw the circuit diagram of R-L series circuit. Sketch and explain its phasor diagram. Define
-acive,reactive and apparent power for this circuit. (7)
-
-Q5aDraw and explain experimental set up to perform short circuit test on single phase transformer.
-Explain why transformer rating is in KVA? (7)
-
-Q5b)The maximum flux density in the core of a 250/3000 volts, 50Hz single phase transformer is 1. 2
-Wb/m? .If the emf per turn is 8 volts, determine (i)primary and secondary turns(ii} area of the core.{7)
-
-Q6a)With the help of neat diagram explain working principle of DC motor. What is significance of back
-
-emf? (7)
-Q6b)Sketch and explain torque and armature current ,speed and armature current and sped torque
-ad characteristics of DC series motor. (7)
-Q7a)Explain construction.and working principle of 3 phase induction motor. (7)
-Q7b)Compare series and parallel resonant circuits. (7)
-
-2 2}2-
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper 57a95e7e41c0
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 November 2018
-- Text: ocr (3 pages), mean OCR confidence 87.4
-
-````text
-. » *F
-
-oy
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Semester: I
-
--
-
-Academic Year: 2018-2019
-Subject: Basic Electrical Engineering
-
-Marks: 70
-Date: 19 November 2018 Time: 10.00 a:
-“ Durations: 3 (hr:
-
-No. of Pages :.
-Re-examination (2017-18) -
-
-> —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attemptany 4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. .
-
-0.1
-@ In the circuit shown below find current through 1Q resistor using Superposition theorem. 4 g Mm)
-oN IA
-(+)
-2Q0 |
-ee ea
-7 P30]
-= E (ABA
-| i |
-|
-|
-Ol ;
-= b. A 50 Hz alternating voltage of 150 V is applied independently to (i) resistance of 10 Q (i) inductance
-of 0.2 H and (iii) capacitance of 50uF. Find the expression for the instantaneous current in each case.
-sh (6 Marks)
-
-Page Lof3
---- page 2 ---
-0.2
-
-0.2
-
-b. A R-L-C series circuit has a current which lags the applied voltage by 45°
-inductance has maximum value equal to twice the maximum value of volt
-
-a. A coil of resistance 3Q and inductance of
-When such a series circuit is connected acr
-combined impedance is (3.8+j6.4) Q.
-capacitor.
-
-Voltage across the inductance is 300 sin (
-capacitance.
-
-\
-
-0.22H is connected in series with an imperfect capacitor.
-oss 200V, 50Hz ac supply. It has been observed that their
-
-alculate the resistance and capacitance of the imperfect
-
-(7 Marks)
-
-. The voltage across the
-
-age across the capacitor.
-1000t) and R = 20. Find the value of inductance and
-
-(7 Marks)
-0.3
-a Explain with neat sketch star and delta connection in three phase AC circuits. (8 Marks)
-0.3
-b. Explain one watt meter method of power measurement in three phase AC circuit. (6 Marks)
-04
-a. Explain the Construction and working for Single Phase Transformer with its Applications.
-(8 Marks)
-0.4
-b. Explain about OC & SC test on Transformer. (6 Marks)
-0.5
-a. Explain the Construction and working for DC Motor. (8 Marks)
-0.5
-6. Explain the Construction and Working principle of Single Phase Induction Motor.. (6 Marks)
-
-lage
-Page
-
-2 of 3
---- page 3 ---
-a)
-
-a. Derive the EMF equation of single phase transformer.
-
-(8 Marks)
-0.6
-
-b. Prepare a comparative statement between Series and Parallel RLC Circuits.
-
-(6 Marks)
-0.7
-
-a. Explain the Construction and Working principle of Three Phase Induction Motor and its advantages.
-(8 Marks)
-
-0.7
-
-b. By source transformation, find current in 4Q resistor in circuit given below.
-
-6V
-iv
-rr.
-“o S20 “o 340
-
-°(6 Marks)
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper a6562411809d
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2017-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 January 2019
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-
-Program: B. Tech (All Streams) Year: I
-“ Academic Year: 2018-2019 ~
-Subject: Basic Electrical Engineering Marks: 70
-“
-
-Semester :] ~
-
-a
-
-Time: 2.
-Date: 15 January 2019 : tme: 2.00 pm to 5.00 mA
-
-Durations:3 (hrs)
-
-No. of Pages:_ O2
-Re-examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining six questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -Suitable data if necessary.
-
-Q.1 Attempt any TWO from the followings
-a. Find the equivalent resistance between A and B in the network of Fig 1.
-
-w ;
-a S3n ane 8 17]
-Sv
-t 5a AWA A?
-3
-Fig 1
-b. Derive the relation between ,
-a) R.M.S value and maximum value b) Average value and maximum value [7]
-for a purely siriusoidal alternating quantity.
-c. Draw equivalent circuit of a transformer and explain each of its elements. [7]
-d. Explain in detail the construction of a de motor. (7]
-Q.2
-a. Find the current through the 10Q resistor of the network shown in Fig 2 using mesh
-analysis.
--— AAW
-
-pike 12 102 C)4a 2150 7]
-2V T
-
-Fig 2
-
-Page 1 of 2
---- page 2 ---
-b. Find the current through the 3Q resistor using Thevenin’s theorem.
-
-6a (H) ee — $20 | 7
-I
-
-42V
-
-Q.3
-
-a. Find the voltage at nodes | and 2 for the network shown in Fig 3 using node analysis.
-12 Vy 22 Vo
-
-AWW AW
-©) ®
-1A S20 192 Q)2a 7]
-=
-Fig 3
-
-b. Explain AC analysis of series RL circuit. Draw its phasor diagram, voltage triangle,
-impedance triangle.
-Q.4
-
-a. Derive the relationship between a line current and phase current and a line voltage and
-phase voltage related to a star connected load. Also draw its phasor diagram.
-
-b. A series RLC circuit has the following parameters values: R=10Q, L=0.01H, C=100pF.
-Compute the resonant frequency, bandwidth, lower and upper frequencies of the [7]
-bandwidth. .
-
-[7]
-
-[7]
-
-Q5
-a. A 500 KVA transformer has an iron loss of S5O00W and full load copper loss of
-
-600W.Calculate the efficiency at pin full load and 0.8 power factor, @lso calculate 7]
-maximum efficiency at that power factor.
-
-b. Describe O.C and S.C test on a single phase transformer and explain the significance of
-
-these tests. [7]
-Q.6 ‘
-a. Sketch and Explain the torque-armature current, speed-armature current, speed-torque
-characteristics of D.C series Motor. [7]
-b. Explain the construction of a Single phase Induction motor. [7]
-Q.7.
-a. With the help of connection diagram and phasor diagram €xplain two wattmeter method
-tid for balanced star connected load( assuming load p.f.be lagging) [7]
-b. Compare R ,L and C Circuits w.r.to the following parameters,
-yea a) Voltage —_b) current c) Waveforms d)Phasordiagram   e) Phase difference [7]
-f) Power g) Power factor
-
-Page 2 of 2
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper 6f847b86f0eb
+## 2018-19 · Re-Exam · Sem 1 · paper 6f847b86f0eb
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -2136,90 +2187,129 @@ Wattmeter method. Find the reading of each wattmeter when the
 c. Explain the types of armature windings used in DC motors. [04]
 ````
 
-## 2017-18 · Re-Exam · Sem 1 · paper 3f0619439fb0
+## 2018-19 · Re-Exam · Sem 1 · paper b31b56f4b24c
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic electrical engg,Re-exam 2017-18.pdf`
-- Printed on paper: exam date: 08 November 2019
-- Text: ocr (3 pages), mean OCR confidence 92.0
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic Electrical Engineering,Re-exam 2015-16,2016-17.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 November 2018
+- Text: ocr (3 pages), mean OCR confidence 88.2
 
 ````text
-4
+F
 
-: SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
+; SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
 
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA Tech (All Streams) ~ Year: I Semester: I
+Programme: MBA Tech (All Streams) Year: I Semester: I
+Academic Year: 2018-2019
 
-Academic Year: 2019-20 -
 Subject: Basic Electrical Engineering
+Marks: 70
+Date: 21 November 2018 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: 3
+Re Exam (2015-16) / (2016-17)
 
-Date: 08 November 2019 _ Time: 10.9Qr4
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+1) Question No. _1_ is compulsory.
 
-1) Question No. 1 is compulsory.
+~2) Out of remaining questions, attempt any 4 questions.
 
-2) Out of remaining questions, attempt any 4 questions.
+3) In all_5_ questions to be attempted.
 
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
+4) All questions carry equal marks. .
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-Q.1) Attempt any All.
+Ql. Attempt the following questions:-
 
-A) Differentiate between ideal and practical transformer 4M
+a) | Determine the equivalent resistance between terminal A and B. [4]
+2kn KO :
+; 3K A
+sonek di dk ane — PPS °
+Tle : =
+3 1Ko = 6KO
+=
+b) | Derive Average value of sinusoidal function f(t) = Vm sin(ot). [3]
+c) | For an alternating quantity define the following, ; [4]
 
-B) Derive the equation for Delta to Star Conversion. 4M
+(1) maximum value,
 
-C) Find the value of current flowing through 5Q resistor using Mesh 3M
-Analysis.
+(2) frequency,
 
-oy
-
-D) Define average value, rms value, form factor and crest factor 3M
-Q.2) a) | Using Superposition Theorem find the current in 4Q resistor in the 7™
-network below
+or
 --- page 2 ---
-b) | Find form factor & peak factor for given waveform. 7™
+(3) time period,
 
-Q.3) a) | For the circuit shown find the value of resistance RL for maximum ™
-power &calculate maximum power
+(4) instantaneous value
 
-enit shOWwe
+d) | Explain faradays law of electromagnetic induction. [3]
 
-b) | Discuss working principle of transformer and derive emf equation of 7™
-transformer
+Q2 | a) | Find the current flowing through 100 Q by using nodal analysis. [7]
 
-Q.4) a) | When a voltage of 100 V is applied to a coil A, the current taken is 8A & | 7M
-the power is 120W when applied to a coil B, the current is 10A & the
-power is 5|00W. What current & power will be taken when 100V is
-applied to the two coils connected in series?
+22 y% wo Y%
 
-b) | Find the current in 1Q resistor in the network by Norton’s Theorem. 7™.
+60V— 1A 502 i
+7 4O¥
+
+b) | For the given circuit, determine the total current from the battery of 20 V, also calculate | [7]
+voltage drop across R1, R2 and R3 and the total resistance.
+
+Ri Re R?
+AM AAN AM
+52 122 130
+{it
+20V
+Q3 | a) | Find the voltage across the 4Q resistor by source transformation method. [7]
+3a 20 19
+
+6V ov: Te)
+
+if 62 S 3A
+|
+
+b) | An alternating current i is given by i =141.4 sin 314t. Find (1) maximum value, (2) | [7]
+frequency, (3) time period, (4) instantaneous value when time is 3 msec, 5) R.M.S. value, 6)
+average value and 7) form factor.
+
+Q4 | a) | Aseries RLC circuit with a resistance of 20 Q, inductance of 0.2 H and a capacitance of 10 | [7]
+
+LF is supplied with a 100 V supply at variable frequency. Find the following w.r.t. series
+resonant circuit.
+
+i. Impedance,
+ii. Power,
+iii. Current,
+iv. Quality Factor at Resonant Frequency,
+v. Power factor
+
+@):
 --- page 3 ---
-Q.5 a) | Discuss single phase induction motor. What is Double Field Revolving ™
-Theory?
-b) | Explain various losses in a transformer 7™.
-Q.6 a) | Discuss series resonance circuit in detail. ™
-b) | A series resonant circuit has impedance of 500Q at resonant frequency. 7™,
-Cut off frequencies are 10kHz and 100khz.Determine 1) Resonant
-frequency 2) Value of R, L,C 3) Quality factor at resonance.
-Q.7 Write a short note on any two of the following
-a) Three Phase Induction Motor ™
-b) Nodal Analysis (with example) 7™.
-c) . Series RC Circuit 7™
+b) | Derive relationship between line voltage and phase voltage, for 3- phase star connected [7]
+supply with balanced inductive load.
+Q5 | a) | Compare and contrast electric and magnetic circuit. [7]
+b) | Derive EMF equation of transformer and transformation ratio. [7]
+Qé | a) | Explain working principle of de motor. [7]
+b) | Define the following, [7]
+i) Flux
+ii) Flux density
+iii) Reluctance
+iv) Permeability
+Q7 Write short note on any two
+a) | Maximum power transfer theorem. [7]
+b) | Self-inductance and mutual inductance. [7]
+c) | Working of a single phase induction motor. [7]
+
+Of:
 ````
 
-## 2017-18 · Re-Exam · Sem 1 · paper 7bc14458fa4f
+## 2018-19 · Re-Exam · Sem 1 · paper 7bc14458fa4f
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -2346,6 +2436,297 @@ A) Explain in detail, Construction and working of three phase Induction Motor. [
 B) Write a note on working principle of DC motor. (7]
 
 Page LoF2
+````
+
+## 2017-18 · Exam not stated · Sem 1 · paper 6890b87b48da
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/BASIC_ELECTRICAL_ENGINEERING_2017-2018_.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 27 November 2017
+- Text: text (2 pages)
+
+````text
+•
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBATech ( All Streams)   Year: I   Semester: I   /
+J   Academic Year: 2017-2018
+Subject: Basic Electrical Engineering.
+Marks: 70
+Date: 27 November 2017   Time: 2.00 pm - .:;:O~p~ .~
+Durations: 3 Hrs   .•.",
+No. of Pages:   lO-2..
+Final-Examination   ------='-+.:T
+Instructions: Candidates should read carefully the instructions printed on the question   aper and
+on th'e cover of the Answer Book, which is provided for their use.   ~
+1) Question No. 1 is compulsory .
+. 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .suitable data if necessary.
+Q.l   (14)
+(a)   Convert voltage source to equivalent current source, with suitable values and   (3)
+diagram.
+(b)   Draw the phasor diagram and explain the behavior of pure capacitor in an AC   (3)
+circuit
+(c)   Compare R-L-C series and parallel resonance circuit.   (4)
+(d)   Derive the emfequation   of transformer.   (4)
+Q.2   (a)   Calculate the effective resistance between terminals A and B as shown in figure   (7)
+i~/ "-~;
+lO;l~J8J'-,~C-JI-
+ct-~~~~~~E /   6J!..   i   SJ'>.   '"
+(b)   Using Thevenin's theorem, find the current in 10 n resistor in the network shown   (7)
+in Figure
+Page 1 orz,
+--- page 2 ---
+•
+Q.3   (a)   Find the resistance between terminals A.and E, using star to delta conversion and   (7)
+the current supplied by the battery.
+(b)   Differentiate between leading and lagging AC quantity with the help of waveform   (3)
+and equations.
+(c)   Find the average value of the waveform shown in figure.   (4)
+V = Vm sin8   for   0 < 8 < 1t   and v = 0 for 1t < 8 < 2 1t
+v
+o   2n   3rr
+QA   (a) A series resonant circuit has an impedance of 400 n at resonance frequency. Cut-   (7)
+off frequencies are 10kHz and 100 Hz. Determine
+i)   Resonant frequency.
+ii)   value of R, L, C.
+iii)   Quality factor at resonant frequency.
+(b)   Prove that a three phase balanced load draws three times as much power when   (7)
+connected in delta as it would draw when connected in star.
+Q.5   (a)   Three phase star connected load when supplied from a 400 Volt, 50 Hz source   (6)
+takes a line current of 10 Amps at 66.86° with respect to its line voltage. Calculate:
+a) Impedance parameters.
+b) Power factor.
+c) Active power consumed.
+d) Draw the phasor diagram.
+(b)   Draw equivalent phasor diagram for a 3 - <I>star connected system. Also, derive   (4)
+the relationships between the line and the phase quantities.
+(c) A single phase, 50-Hz transformer has 80 turns on the primary winding and 400   (4)
+turns on the secondary winding. The net cross-sectional   area of the core is 200 crrr'.
+If the primary winding is connected to 240-V, 50-Hz supply, determine (a) the emf
+induced in the secondary winding, and (b) the maximum flux density in the core.
+Q.6   (a) Draw and explain the equivalent phasor diagram of the transformer considering   (7)
+winding impedance parameters operating an Inductive Load.
+(b)   Explain in detail the construction and working principle of DC Motor.   (7)
+Q.7   Write Short Notes on
+(a)   Superposition Theorem with suitable example.   (3)
+(b)   Graphical Representation   of Series Resonance considering   all parameters.   (4)
+(c)   Parameter estimation of Impedance and Power for a series RL circuit.   (4)
+~~   20.(2-   (d)   Working principle of AC motor.   v   'f.   (3)
+/'
+````
+
+## 2017-18 · Final-Exam · Sem 1 · paper 55326670c1c5
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING (ALL STREAMS), FINAL EXAM 2017-2018.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 27 November 2017
+- Text: ocr (2 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+a SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) : Year: I ~ Semester: I — \
+
+Academic Year: 2017-2018
+
+Subject: Basic Electrical Engineering — “
+Marks: 70 — {\tuT OF Bay,
+Date: 27 November 2017 - Time: 10.00 am t#T.00 pm oN S a
+> ,
+
+-
+
+Durations: 3 (hrsi/~ esTHMe Yo
+
+No. of Pages: W :
+CAG a ™ e *
+Final-Examination ~~ dex &
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+; 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 a. Find equivalent resistance between terminal a and b for the given circuit. 05
+A
+°
+r UAV i steal PIN posi
+2 402
+— 6¢
+enn NY ee
+I 3Q
+RE®) = 38a
+< 4
+
+B
+
+b. An alternating current varying sinusoidally with a frequency of 50 Hz has an rms 04
+value of 20A. (a) Write down the equation for the instantaneous value and find its
+value at (b) 0.0025 s after passing through zero and increasing positively (c) At what
+time, measured from zero will the value of the instantaneous current be 14.14A?
+
+c. A voltage v(t) = 10 sinwt is applied to a series R-L-C circuit. At the resonant 05
+frequency the voltage across the capacitor is found to be SO0V. The bandwidth of the
+circuit is 400 rad/sec and the impedance of the circuit at resonance is 100 ohm.
+Determine the resonant frequency, current through the circuit at resonance, value of
+inductor and capacitor.
+
+Page 1 of 2
+--- page 2 ---
+-
+me
+
+y
+fo
+Q2 a Find current through 5 ohm resistor using mesh analysis. 07
+1Q 22
+Me VV |
+3 : S50
+10Vv ° 4 ;
+Tegee ,
+1 to
+69 $ 5V 4Q
+20V
+b. Find the value of R; for maximum power transfer and calculate the maximum power. 07
+|
+RV ?
+Q3. a. Find the values of R and C’ so that V, = 3V, given that V, and V, are in quadrature. 07
+0.0255 H 62 ¢ R
+COO MAA it AA
+vy, t vy,
+b. Explain the analysis and phasor digrams of series R-L-C circuit energized by an 07
+sinusoidal ac voltage showing the relative positions of the applied voltage,
+component voltages and resultant current for (i) X_ < Xc (ii) XL = Xc (iii) XL > Xc
+Q4. a. Draw the circuit diagram of a three phase star connected balanced load and derive the 07
+relation between phase and line quantities (voltage, current and power), _ Iso draw its
+phasor diagram for lagging power factor.
+b. — Three coils each with a resistance of 10 Q and reactance of 10 Q are connected in star 07
+across a three phase, 400 V, 50 Hz supply. Calculate (i) line current and (ii) readings
+on the two wattmeter’s connected to measure power.
+Q5. a A 50kVA, 2300/230V, single phase transformer has primary and secondary winding 07
+resistance of 2Q and 0.02Q respectively. The iron loss is 412W. Calculate the
+efficiency (i) at full load and (ii) at half load. The load pf is 0.8.
+— b. With neat circuit diagram explain the short circuit test of transformer. 07
+gesae Q6. a. With neat diagram explain the construction and working of single phase induction 07
+motor.
+b. Draw neat diagram of DC series and DC shunt motor and list down its current — 07
+
+voltage relation.
+
+Q7. a. State maximum power transfer theorem and derive the condition for the same. 05
+b. Derive the emf equation of transformer, also explain the significance of KVA rating 05
+of the transformer.
+2 ©. Explain the working principle of three phase induction motor. 04
+
+Page Doro
+````
+
+## 2017-18 · Re-Exam · Sem 1 · paper 3aaeb4c46815
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 17-18 RE EXAM 2017-18.pdf`
+- Printed on paper: max marks: 70; exam date: 31 May 2018
+- Text: ocr (2 pages), mean OCR confidence 90.1
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
+Programme: B. Tech (All Streams) Year: I Semester: I
+a - a
+
+Batch: 2017-18
+Academic Year: 2017-2018
+
+! Subject: Basic Electrical Engineering
+7 ia Marks: 70
+Date: 31 May 2018 Time: 10.0
+c Durations:
+No. of Pages:
+Re-Examination r
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+_of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1 Solve any two of the following:
+a)State and explain (1) Superposition theorem (2)Norton theorem. — (7)
+
+b)An alternating current | is given by | =141.4 sin 314 t.Find (i) the maximum value(ii) the frequency
+(iii)time period (iv)the instantaneous value when time is 3 msec. : (7)
+
+c) Draw the neat diagram of 3 phase star and delta connection. Explain line and phase quantities for these
+
+connections. : (7)
+d)Explain working principle of transformer. Derive E.M.F equation of a transformer. (7)
+Q2 a)Find equivalent resistance between A and B. (7)
+
+AI] VesisSpeys ave
+
+ia obn,.
+--- page 2 ---
+b)Determine current in 1 ohm branch using mesh analysis for the following circuit. (7)
+
+AseS
+Ap] +74
+
+Q3a)What do you mean by resonance? Draw the series RLC circuit and derive the expression of resonance
+
+frequency. . (7)
+b)Calculate the value of RL for it to absorb the maximum power and find the value of maximum power in
+the following circuit. - ; ; (7)
+—+ 40427 4 607 7
+T OR
+20 co 10] : L
+pea 7,
+Q4 a)Explain Two wattmeter method of three phase circuit power measurement. (7)
+
+b)Draw the circuit diagram of R-L series circuit. Sketch and explain its phasor diagram. Define
+acive,reactive and apparent power for this circuit. (7)
+
+Q5aDraw and explain experimental set up to perform short circuit test on single phase transformer.
+Explain why transformer rating is in KVA? (7)
+
+Q5b)The maximum flux density in the core of a 250/3000 volts, 50Hz single phase transformer is 1. 2
+Wb/m? .If the emf per turn is 8 volts, determine (i)primary and secondary turns(ii} area of the core.{7)
+
+Q6a)With the help of neat diagram explain working principle of DC motor. What is significance of back
+
+emf? (7)
+Q6b)Sketch and explain torque and armature current ,speed and armature current and sped torque
+ad characteristics of DC series motor. (7)
+Q7a)Explain construction.and working principle of 3 phase induction motor. (7)
+Q7b)Compare series and parallel resonant circuits. (7)
+
+2 2}2-
 ````
 
 ## 2016-17 · Final-Exam · Sem 1 · paper c399fc451784
@@ -2572,6 +2953,420 @@ B_ Explain construction and working of 3 phase induction motor. [07]
 Page 2 of 2
 ````
 
+## 2016-17 · Re-Exam · Sem 1 · paper bc029e21ec69
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEEIRNG BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 May 2017
+- Text: ocr (3 pages), mean OCR confidence 84.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech. (All Streams) Year: I Semester: I
+
+j Batch: 2014-15
+, Academic Year: 2016-2017
+
+Subject: Basic Electrical Engineering .
+
+Marks: 60 ° @ i
+Date: 29 May 2017 . Time: 10.00 ant% ) eo
+Durations: 3 (hrs) * “am W
+No. of Pages: __2
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory. Attempt all in Question No.1
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1-A) Find the Power Delivered by 50 V Source in the circuit. Use Source Transformation. [3]
+
+B) Calculate the RMS Value of AC Signal. 3]
+C) Compare Electric & Magnetic Circuit. [3]
+
+D) Explain the Principle of Single Phase Transformer. [3]
+--- page 2 ---
+Q.2-A) Explain the behaviour of Series R-L Circuit with AC signal. Draw the phasor diagram
+
+and derive the expression for {mpedance and Active Power. [6]
+B) For the circuit shown, Find the value of Resistance Ri for maxmum power and
+
+calculate the maximum power. [6]
+
+Same 2A
+
+AVA 3}
+
+1 | —
++ BON a RON
+
+a
+| ii
+
+i i
+
+(Ae
+Hl oe 205
+| ain mal
+
+Q.3-A) For the circuit Shown, Find the current supplied by the Battery. Use Mesh method. [6]
+
+3.2.
+ANA
+| :
+A A/
+es ML NY
+ss ~) . ce g Ly
+a NR ON
+=, AM ~
+Tay 7) Qo aes
+a “YY
+“it am wA3 Ne
+VY
+B) Explain the concept of Self Inductance and Mutual Inductance with diagram. [6]
+
+Q.4-A) Define Form Factor and Crest Factor. Find the Frequency, Form factor and Crest
+
+Factor for a voltage V = 200sin314t. [6]
+B) Convert the Delta Network shown below in to it’s equivalent Star Network. [6]
++
+_ oN on
+Se TI
+Lo NAAM 5
+2 Ry
+
+2)3
+--- page 3 ---
+Q.5-A) Derive the Voltage & Current Relations for a Three phase balanced star
+connected load. Also draw the phasor diagram. [6]
+B) A single phase,440/220V,10 KVA,50 Hz transformer has a resistance of 0.2Q and
+reactance of 0.6Q on h.v.side. The corresponding values of l.v.side are 0.04Q and 0.14Q,
+
+calculate the percentage regulation on full load for (i)0.8 lagging PF(ii) 0.8 leading PF
+(iii) Unity PF. [6]
+
+Q.6-A) Why OC & SC Test is performed on Transformer. Draw the Circuit for OC Test and
+write the equations for various OC parameters if meters are connected on primary
+
+ond secondary side. : [6]
+
+B) Find the current ij.i2,and i3 for the circuit below. [6]
+
+Q.7-) With the help of diagram explain following.
+A) Construction and working of 3 phase induction motor. [6]
+B) Composite magnetic circuit and fringing. [6]
+
+eee
+
+3/3
+````
+
+## 2016-17 · Re-Exam · Sem 1 · paper 869e755a172d
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 29 November 2016
+- Text: ocr (2 pages), mean OCR confidence 77.9
+
+````text
+* 4 SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (All Streams) Year: I . Sema;
+Batch : 2014-2015 . Sy
+Academic Year : 2016-2017 A ‘ =“ 2,
+
+wmPSTME Yu :
+LPPBRARW JE:
+
+to 5.00 pp”,
+re
+
+Subject : Basic Electrical Engineering
+Time:
+Date : 29 November 2016 Duration >
+
+= Re-Examination
+_ Tnstructions: Candidate should read carefully the instructions printed on the question —
+
+paper and the cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Q. No.1 is compulsory.
+2) Out of remaining six questions attempt any four.
+3) Inall five questions to be attempted and all question carry equal marks.
+4) Answer to each new question to be started on a fresh page.
+5) Figures in the bracket on the right hand side indicate full marks.
+
+6) Draw figures wheréver necessary:
+
+Q.1) Attempt any THREE from the followings [03*04=12]
+
+I) Reduce the network shown into single source and single resistor between
+terminals A and B.
+
+eA
+ooo
+ia |
+f S20 $20
+mA > 220
+' att) i thay.
+\ [4]
+NY
+~
+303 s
+30> 5
+sO5 Z12
+év— sr sy
+eH
+
+I) Explain how would you convert Delta connected circuit to equivalent star [4]
+connected circuit.
+
+IM) Determine the voltage V which causes the current h to be zero.
+
+Ss j >
+62 4 b -
+20V— = 22 hw Ss [4]
+—~ Loa ;
+
+i 1
+
+—
+. : fe $52 ? > 40
+Bs =¥ i .
+
+IV) Derive the expression for coefficient of coupling . [4]
+
+Page 1 of 2
+--- page 2 ---
+Q.2) 1) Find the voltage Van using Superposition Theorem
+
+A
+a eae . [6]
+Ve
+E
+I) * Find the‘current through 10Q resistor using Thevenin’s Theorem. :
+10 £2
+22 22
+| | ; [6]
+ag WF a =e Si 2
+a iov
+1&2
+Q.3) 1) Obtain Norton’s equivalent network as seen by Ri
+30 48Y 100 Ry
+
+AM,eor - Nye WA
+
+| i i i
+
+l | (6
+
+over 2 602 200 T ov
+
+| _——
+
+I) Draw the phasor diagram for series R-L-C circuit energized by — sinusoidal
+voltage showing the relative position of current , component voltage and (6)
+
+applied voltage for the following cases:
+a) when XL>Xc b) when Xi < Xc
+
+Q.4) 1) Derive the voltage, current and power relations in a balanced Delta connected (7|
+load. Also draw Phasor diagram.
+Il) Find the rms and average value of the waveform shown in fig
+
+[5]
+
+al OF ca
+
+Q.5) 1) Draw a phasor diagram to represent conditions in a single phase transformer [6]
+supplying load at unity Power factor load.
+I) A500 KVA transformer has an iron loss of 500W and full load copper loss of
+
+600W. Calculate the efficiency at 3," full ioad and 0.8 power factor, Also [6]
+
+calculate the maximum efficiency at that power factor.
+
+Q.6) 1) Explain electrical characteristics of D.C series motor with derivation to justify [6]
+; their shape.
+ad . I) Explain the construction of Three Phase induction Motor [6]
+
+Q.7) Attempt any Three from the following:[03*04]
+
+1. Short Circuit Test of Transformer
+
+2. Compare series and parallel magnetic circuits (121
+3. Comparison of series & parallel resonance circuit
+
+4. Phasor diagram of Parallel RLC Circuit
+
+Pe “4° aa >
+````
+
+## 2016-17 · Re-Exam · Sem 1 · paper 5b72fb685e7b
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH 2015-16 RE EXAM.pdf`
+- Printed on paper: exam date: 29 November 2016
+- Text: ocr (3 pages), mean OCR confidence 79.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (All Streams) Year: I Semester : I
+Batch : 2015-2016 yeatit TE oy
+Academic Year : 2016-2017 ae a}
+
+. ; Th
+Subject : Basic Electrical Engineering a 70 am
+
+Date : 29 November 2016 = Rnagsacaa
+
+Re-Examination
+
+Instructions:-Candidates should read:carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
+
+NB: -
+
+i. Question No. ONE is compulsory.
+
+2. Out of remaining attempt any FOUR questions.
+
+3. Inall FIVE questions to be attempted.
+
+4. All Questions carry equal marks.
+
+5. Answer to each new question to be started ona fresh page.
+
+6. Figures in brackets on right hand side indicate full marks.
+
+7. Assume suitable data if necessary.
+
+Q1. Attempt any four questions
+
+A. State maximum power transfer theorem and derive the condition for the same (3.5)
+B. The voltage and current through a circuit element is (3.5)
+v= 100sin(314t+315°) volts
+i= 10sin(314t+45°) amps
+i. Identify the circuit element ii. Find the value of the element
+C. Compare Series and Parallel Resonance Circuits (3.5)
+
+D. The combined inductance of two coils connected in series is 0.6 H or 0.1 H depending
+on the relative directions of the currents in the coils. If one of the coils when isolated has
+a self inductance of 0.2 H, calculate i. Mutual inductance ii. Coupling coefficient (3.5)
+
+E. Derive the emf equation of transformer. (3.5)
+Q2.-A. Find an equivalent resistance between A and B ; (7)
+10.0 202 50
+Ac WAN iv Whe
+sa $ $ 152
+10.2 S g 232
+2 22
+ANN ANN oB
+52 302 *
+
+*/a
+--- page 2 ---
+B. Determine the current in the 5Q resistor for the circuit shown in fi gure,
+
+i)
+
+vy, (28 Vo rs d
+
+= Ay
+
+2 < 252 S20
+: << Bt: Ss 12 a. 2
+
+5 aes Wy
+
+OO
+
+eed ee ee ce |
+
+Q3.A. For the circuit shown, find value of resistanc
+
+e R, for maximum Power and calculate (7)
+maximum power. :
+30
+| A |
+e a
+50 > ~~, <
+‘a GQ) 6A 320 = Ry
+1OV i
+L_ Lian!
+40
+
+=10Vv S
+] . =
+i }
+VAY mv 20 AL 10
+30 KMS, 20 Ory!
+--- page 3 ---
+Q5. Avi. Compare electric and magnetic circuit
+ii. If a coil of 150 turns is linked with
+calculate the inductance of the coil.
+second, calculate the induced electr
+Explain open circuit and short circ
+
+(7)
+a flux of 0.01Wb when carrying current of 10A,
+
+If this current is uniformly reversed in 0.01
+
+omotive force.
+B.
+
+uit test of single phase transformer. . (7)
+
+Q6A. An 80 kVA, 3200/400 V, 50 Hz
+
+: secondary winding. Calculate
+current and iii. Cross section
+teslas.
+
+Single phase transformer has 111 turns on the (7)
+
+i. number of turns on primary winding ii. Secondary
+al area of the core, if the maximum flux density is 1,2
+
+B. i. Justify why induction motor o
+ii. What do you mean by leakag
+electromagnetic induction?
+
+perates at a speed below synchronous speed? (7)
+e flux in magnetic cire:
+
+¢ clreuit? Explain F. araday’s laws of
+
+Q7. Write a short note (Any 2) (14)
+A. DC motor characteristics
+
+B. Behaviour of pure capacitor in an AC circuit
+
+C. Self inductance, mutual inductance and coefficient of magnetic coupling
+````
+
 ## 2016-17 · Re-Exam · Sem 1 · paper f8b664e0d1a5
 
 - Departments: Common (all branches)
@@ -2681,244 +3476,6 @@ Q7 A’ Write a note on classification of DC machines. [07]
 B_ Explain about construction and working of 3 phase induction motor. [07]
 
 Page 2 of 2
-````
-
-## 2016-17 · Re-Exam · Sem 1 · paper c52fc9844312
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 November 2018
-- Text: ocr (2 pages), mean OCR confidence 87.2
-
-````text
-©
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Semester: I
-
-« “ a
-Academic Year: 2018-2019
-
-Subject: Basic Electrical Engineering
-” Marks: 70
-
-Date: 19 November 2018 Time: 10.00 :
-; < Durations: 3 (hrs)Ssx!
-No. of Pages :_O 2
-
-Re-examination (2015-16 / 2016-17) a
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1-Attempt any four of the following. [14]
-
-A) Find the Power delivered by 50 V source in the circuit..
-
-Sa 4 Ba
-oy \e A 24% \ov
-
-B)Find the average value & RMS values of the waveform shown in the following figure.
-
-Ne
-Vie
-a
-ol vw ar an °
-
-a C) Compare Electric & Magnetic.Circuit.
-
-D) Derive the EMF equation of single phase Transformer.
-
-E) Define Form factor and Crest factor.
-
-id
---- page 2 ---
-2-A) Explain the behavior of Series R-C Circuit with AC signal. Draw the phasor
-
-Diagram and derive the expression for impedance. [7]
-B) For the circuit shown, find the value of Resistance Ri for maximum power and calculate
-Maximum power. [7
-wee ra ‘.
-7°
-QN T
-Q.3-A) for the circuit ' Showa, Find the current through 5Q resistor. Use Mesh method. [7]
-Nv
-+ fo ci
-_L | rag S$ Wa.
-SV Taw | A
-2 Br
-\2V oo
-{t AM
-B) Explain the concept of Self-inductance and Mutual Inductance with diagram. [7]
-
-Q.4-A) A Series RLC circuit consist of R=10Q,L=0.01 H,C=100pF. Calculate the resonant
-Frequency, quality factor of the circuit, bandwidth and lower and upper frequency of the
-
-Bandwidth. [7]
-B) Convert the Delta Network shown below in to it’s equivalent Star network. {7]
-'
-ee we
-RA
-Om AMA se
-
-Q.5-A) Three coils having a resistance of 80. and inductance on 0.02 H are connected in delta
-to a three phase, 400 V, 50 Hz supply. Calculate the line current and Power absorbed.
-
-. [7]
-
-B) Explain Transformation ratio and rating of Transformer. [7]
-
-Q.6-A) An 80 KVA,3200/400 V,50 hz single phase transformer has 111 turns on the secondary
-Winding. Calculate number of turns on primary winding, secondary current and cross
-
-Sectional area of the core if the maximum flux density is 1.2 Tesla. [7]
-
-B) With the help of diagram explain the characteristics of D.C.series Motor . [7]
-Q.7-) Explain following
-
-A) Construction and working of Transformer. [7]
-
-B) Composite magnetic circuit and fringing. [7]
-
-2]r
-````
-
-## 2016-17 · Re-Exam · Sem 1 · paper b31b56f4b24c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic Electrical Engineering,Re-exam 2015-16,2016-17.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 November 2018
-- Text: ocr (3 pages), mean OCR confidence 88.2
-
-````text
-F
-
-; SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
-
-Programme: MBA Tech (All Streams) Year: I Semester: I
-Academic Year: 2018-2019
-
-Subject: Basic Electrical Engineering
-Marks: 70
-Date: 21 November 2018 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages: 3
-Re Exam (2015-16) / (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1_ is compulsory.
-
-~2) Out of remaining questions, attempt any 4 questions.
-
-3) In all_5_ questions to be attempted.
-
-4) All questions carry equal marks. .
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql. Attempt the following questions:-
-
-a) | Determine the equivalent resistance between terminal A and B. [4]
-2kn KO :
-; 3K A
-sonek di dk ane — PPS °
-Tle : =
-3 1Ko = 6KO
-=
-b) | Derive Average value of sinusoidal function f(t) = Vm sin(ot). [3]
-c) | For an alternating quantity define the following, ; [4]
-
-(1) maximum value,
-
-(2) frequency,
-
-or
---- page 2 ---
-(3) time period,
-
-(4) instantaneous value
-
-d) | Explain faradays law of electromagnetic induction. [3]
-
-Q2 | a) | Find the current flowing through 100 Q by using nodal analysis. [7]
-
-22 y% wo Y%
-
-60V— 1A 502 i
-7 4O¥
-
-b) | For the given circuit, determine the total current from the battery of 20 V, also calculate | [7]
-voltage drop across R1, R2 and R3 and the total resistance.
-
-Ri Re R?
-AM AAN AM
-52 122 130
-{it
-20V
-Q3 | a) | Find the voltage across the 4Q resistor by source transformation method. [7]
-3a 20 19
-
-6V ov: Te)
-
-if 62 S 3A
-|
-
-b) | An alternating current i is given by i =141.4 sin 314t. Find (1) maximum value, (2) | [7]
-frequency, (3) time period, (4) instantaneous value when time is 3 msec, 5) R.M.S. value, 6)
-average value and 7) form factor.
-
-Q4 | a) | Aseries RLC circuit with a resistance of 20 Q, inductance of 0.2 H and a capacitance of 10 | [7]
-
-LF is supplied with a 100 V supply at variable frequency. Find the following w.r.t. series
-resonant circuit.
-
-i. Impedance,
-ii. Power,
-iii. Current,
-iv. Quality Factor at Resonant Frequency,
-v. Power factor
-
-@):
---- page 3 ---
-b) | Derive relationship between line voltage and phase voltage, for 3- phase star connected [7]
-supply with balanced inductive load.
-Q5 | a) | Compare and contrast electric and magnetic circuit. [7]
-b) | Derive EMF equation of transformer and transformation ratio. [7]
-Qé | a) | Explain working principle of de motor. [7]
-b) | Define the following, [7]
-i) Flux
-ii) Flux density
-iii) Reluctance
-iv) Permeability
-Q7 Write short note on any two
-a) | Maximum power transfer theorem. [7]
-b) | Self-inductance and mutual inductance. [7]
-c) | Working of a single phase induction motor. [7]
-
-Of:
 ````
 
 ## 2015-16 · Final-Exam · Sem 1 · paper 38caddf6ca31
@@ -3149,151 +3706,161 @@ Q.7 b) With neat circuit diagram explain the types of DC motor. [5]
 Q.7 c) Explain the working principle and construction of three phase induction motor [5]
 ````
 
-## 2015-16 · Re-Exam · Sem 1 · paper 5b72fb685e7b
+## 2015-16 · Re-Exam · Sem 1 · paper 29ddf2e51ee1
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH 2015-16 RE EXAM.pdf`
-- Printed on paper: exam date: 29 November 2016
-- Text: ocr (3 pages), mean OCR confidence 79.9
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAM), BATCH 2014-15 Re-exam.pdf`
+- Printed on paper: exam date: 01/12/2015
+- Text: ocr (3 pages), mean OCR confidence 85.8
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS .
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (All Streams) Year: I Semester : I
-Batch : 2015-2016 yeatit TE oy
-Academic Year : 2016-2017 ae a}
+Programme: B. Tech (All Streams) Year: | Semester: I
+Batch: 2014-2015
 
-. ; Th
-Subject : Basic Electrical Engineering a 70 am
+Subject: Basic Electrical Engineering
 
-Date : 29 November 2016 = Rnagsacaa
+Date: 01/12/2015 Time:
+
+Academic Year: 2015-2016
+
+Marks:
+
+Duration:
 
 Re-Examination
 
-Instructions:-Candidates should read:carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
+Q.1
+A)
 
-NB: -
+B)
 
-i. Question No. ONE is compulsory.
+C)
+D)
 
-2. Out of remaining attempt any FOUR questions.
+Q.2-
+A)
 
-3. Inall FIVE questions to be attempted.
+Instructions to Candidate
 
-4. All Questions carry equal marks.
+1} Q. No.1 fs compulsery
 
-5. Answer to each new question to be started ona fresh page.
+2) Out of remaining six questions attempt any four.
 
-6. Figures in brackets on right hand side indicate full marks.
+3) In all five questions to be attempted.
 
-7. Assume suitable data if necessary.
+4) All question carry equal Marks.
 
-Q1. Attempt any four questions
+5) Figures in the bracket on the right hand side indicate full marks.
 
-A. State maximum power transfer theorem and derive the condition for the same (3.5)
-B. The voltage and current through a circuit element is (3.5)
-v= 100sin(314t+315°) volts
-i= 10sin(314t+45°) amps
-i. Identify the circuit element ii. Find the value of the element
-C. Compare Series and Parallel Resonance Circuits (3.5)
+Attempt any four
 
-D. The combined inductance of two coils connected in series is 0.6 H or 0.1 H depending
-on the relative directions of the currents in the coils. If one of the coils when isolated has
-a self inductance of 0.2 H, calculate i. Mutual inductance ii. Coupling coefficient (3.5)
+Derive Condition For Maximum Power Transfer in a resistor from practical [3]
+voltage source.
 
-E. Derive the emf equation of transformer. (3.5)
-Q2.-A. Find an equivalent resistance between A and B ; (7)
-10.0 202 50
-Ac WAN iv Whe
-sa $ $ 152
-10.2 S g 232
-2 22
-ANN ANN oB
-52 302 *
+Define the following terms related to alternating quantities C3) |
 
-*/a
+G) RMS value
+Gi) Average value
+Gii) Form factor
+
+Compare Electric & Magnetic Circuit. [3)
+
+Derive EMF Equation of transformer. (3)
+
+Explain the significance of Back EMF in DC Motor. C3]
+
+Determine current through 5Q resistance using nodal Analysis (é]
+94
+
+4%
+
+202
 --- page 2 ---
-B. Determine the current in the 5Q resistor for the circuit shown in fi gure,
+2 series R-L-C circuit. Also derive [s]
 
-i)
+A) Find an equivalent resistance between A and B. C 6]
+1532 20 5
+Achy ren
 
-vy, (28 Vo rs d
+pags a
 
-= Ay
+45 22
 
-2 < 252 S20
-: << Bt: Ss 12 a. 2
+B) A wooden ring has a circular cross section of 300 sq.mm & a mean diameter of (3]
+ring is 200 mm. it is uniformly wound with 800 turns. (Assume Flux path is
+through ring) Calculate >
+i) The field strength produced in the coil by current of 2 Amp.
+ii) The magnetic flux Density produced by this current
+ili) Current required to produce a flux density of 0.02 wb/m?
 
-5 aes Wy
+AA |
+402
 
-OO
+C) Explain Various losses in Transformer L3]
+Q.4
+A) AIOKVA, 3300/240 V, Single Phase , 50Hz transformer has a core area of L3]
 
-eed ee ee ce |
+300 cm”. The flux density is 1.3 T. calculate i) number of primary turns ii)
+number of secondary turns & iii) Primary full-load Current
 
-Q3.A. For the circuit shown, find value of resistanc
+B) Explain the Behaviour of pure Inductor in AC Circuit. [3]
+C) Three similar coils A, B and C are available. Each coil has a 9Q resistance and a
+12 Q reactance. They are connected in delta to a three phase, 440V, 50Hz Cs)
 
-e R, for maximum Power and calculate (7)
-maximum power. :
-30
-| A |
-e a
-50 > ~~, <
-‘a GQ) 6A 320 = Ry
-1OV i
-L_ Lian!
-40
+supply. Calculate Phase current, line current, total kVA, active power and
+reactive power.
+Q.5
+A) Two impedance Z = 8 + j6 Q and Z,-4 + j4 Q are connected in parallel across Ce] ~
+200V, 50 Hz a.c. Supply. Calculate the i) Branch current I, ii) Branch current I,
+iii) Total Current lp Draw the Phasor Diagram.
 
-=10Vv S
-] . =
-i }
-VAY mv 20 AL 10
-30 KMS, 20 Ory!
+Is
+
+2:
+
+rm
+ceased
+
+oe   v ——_s if
+
+: 200vV.
+
+B) Explain Open-circuit Test & Short-Cireuit Test of transformer. L 6]
+
+(2}3)
 --- page 3 ---
-Q5. Avi. Compare electric and magnetic circuit
-ii. If a coil of 150 turns is linked with
-calculate the inductance of the coil.
-second, calculate the induced electr
-Explain open circuit and short circ
+Q.6- [AJ
 
-(7)
-a flux of 0.01Wb when carrying current of 10A,
+A) Determine the potential difference Vas for the given network.
 
-If this current is uniformly reversed in 0.01
+fos
 
-omotive force.
-B.
+B
+ry Y, 360
 
-uit test of single phase transformer. . (7)
+109 A; + 20V 4Q
+Lana, jJ WW |
+@ 50 5¥ 122 SV
 
-Q6A. An 80 kVA, 3200/400 V, 50 Hz
+B) Two coils A of 12500 turns & B of 16000 turns, lie in parallel plane so that 60% L2]
+of produced in coil A links with coil B. it is found that current of 5A in coil A
 
-: secondary winding. Calculate
-current and iii. Cross section
-teslas.
-
-Single phase transformer has 111 turns on the (7)
-
-i. number of turns on primary winding ii. Secondary
-al area of the core, if the maximum flux density is 1,2
-
-B. i. Justify why induction motor o
-ii. What do you mean by leakag
-electromagnetic induction?
-
-perates at a speed below synchronous speed? (7)
-e flux in magnetic cire:
-
-¢ clreuit? Explain F. araday’s laws of
-
-Q7. Write a short note (Any 2) (14)
-A. DC motor characteristics
-
-B. Behaviour of pure capacitor in an AC circuit
-
-C. Self inductance, mutual inductance and coefficient of magnetic coupling
+@ produce a flux of 0.6 mWb while the same current in coil B produce 0.8 mWb
+Determine i) mutual inductance ii) Coupling Coefficient
+C) Draw Norton’s equivalent circuit across terminal A-B and determine current C 6]
+through 30Q resistance
+150 60.0 A 300
+Wy WN VV
+IOV (1) A 4 Q =v
+& Q.7 Write Short note on (Any two)
+A) — Construction, working principle and Applications of DC motor. [6]
+B) Self Inductance & Mutual Inductance te)
+C) Construction & Working of Single-Phase Transformer. fe)
+/ *
 ````
 
 ## 2015-16 · Re-Exam · Sem 1 · paper 9c62911406c9
@@ -3401,6 +3968,855 @@ c) Explain Faraday’s laws of electromagnetic induction (3)
 d) Explain Self-Inductance and Mutual Inductance along with their Coefficients (3)
 
 z
+````
+
+## 2015-16 · Re-Exam · Sem 1 · paper a191b936a500
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 10 June 2016
+- Text: ocr (3 pages), mean OCR confidence 90.1
+
+````text
+SVKM’s NMIMS aan
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT GARE “
+A deat
+
+Programme: B.Tech (All Streams) Year: I ° Semester; a/ 4 PST mB yt ‘
+
+Academic Year: 2015-16
+
+| Batch: 2013-14 «
+
+1 Subject: Basic Electrical Engineering .
+
+Time: 2.00 -5,
+Date: 10 June 2016 Bes 8-00 pry
+
+Durations: 3 (hrs):
+
+Re-Examination
+
+NB:
+
+1. Question No. ONE is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. In all FIVE questions to be attempted
+
+4. All questions carry equa! marks.
+i 5. Answer to each new questions to be started on a fresh page
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1__| Attempt any Four [20]
+A Find the current in the 4 ohm resistance by source transformation | 05
+
+B State and prove maximum power transfer Theorem. 05
+
+Cc Derive the expression for the average value of a sinusoidal 05
+waveform. :
+
+D Draw the phasor diagram for Three phase balanced star connected | 05
+
+a load. Also state relation between its line and phase current
+E Derive-the expression for back emf of DC Motor. 05
+Q.2 | Attempt the following: [20]
+
+A Calculate the current flowing through 10 ohm resistance by Star- | 10
+
+Delta transformation.
+
+pISov
++)
+--- page 2 ---
+Calculate the Current flowing through 5 ohm resistance by Nodal | 10
+analysis.
+
+Q.3
+
+Attempt the following: [20]
+
+State Thevenin’s Theorem. Aliso find the current flowing through | 10
+the 30 ohm resistance by thevenin’s theorem.
+\Sue fone Zon
+
+ok ne
+
+Find the value of resistance Load resistance ( RL) formaximum | 10
+
+power transfer and calculate the maximum power.
+Jon
+
++d. be bo
+T2N
+
+QA
+
+Attempt the following: [20]
+
+A 50 Hz sinusoidal voltage applied to a single phase circuit has an | 10
+RMS value of 200 V. Its value at t=0 is (V2 x 200) V positive.
+
+The current drawn by the circuit is 5 A (rms) and lags behind the
+voltage by one sixth of the cycle. Write the expression for the
+instantaneous values of voltage and current.
+
+A Choke coil and a resistor are connected in series across a 230 10
+V, 50 Hzac supply. The circuit draws a current of 2 A at 0.866
+lagging pf. The voltage drop across the resistor is 100 V .
+
+Calculate power factor of the choke coil.
+
+Q.5
+
+Attempt the following: [20]
+Pp g
+
+A Symmetrical three phase 400 V system supplies a basic load of | 10
+0.8 lagging power factor and is connected in star. If the line
+current is 34.64 A. Find the i) Impedance ii) resistance and
+
+2/s
+--- page 3 ---
+_
+
+reactance per phase iii) total power and iv) total reactive volt-
+amperes.
+
+B What is leakage flux? Explain magnetic Hysteresis and hysteresis | 10
+loop with proper diagram.
+Q.6__| Attempt the following: [20]
+A Compare core type and Shell type transformer also Derive the 10
+expression for transformation ratio of single phase transformer.
+
+B A 250 KVA, single phase transformer has 98.135% efficiency at | 10
+full load and 0.8 lagging pf. The efficiency at half load and 0.8
+lagging pf is 97.751%. Calculate the Iron loss and full load copper
+loss.
+
+Q.7_| Write a short note on following: [20] 4
+A Functions of various parts of DC Machine. 06
+B Principle of operation Three phase induction Motor. 07
+Cc Concept of rotating magnetic field. 07
+````
+
+## 2015-16 · Re-Exam · Sem 1 · paper 25928c376510
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
+- Text: ocr (3 pages), mean OCR confidence 87.5
+
+````text
+] . SVEM’s NMIMS
+: MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG]
+
+Programme: B.Tech (All Streams) Year: I Semester: ]
+
+Ad “urSTMB »)
+
+ae
+
+*
+sarvers
+
+Academic Year: 2015-16
+
+Batch: 2014-15 Marks: 60 §
+
+Subject: Basic Electrical Engineering , Time: 2.00 pm
+
+Date: 10 June 2016 Durations: 3 (hrs)
+Re-Examination
+
+1. Question no. one is compulsory.
+
+2. Attempt any four questions out of the remaining.
+3. Figures in brackets indicate full marks.
+
+4. Assume suitable data if necessary.
+
+Qt Attempt any three questions {12]
+a) Find the equivalent resistance between A and B using series-parallel reduction.
+. a A fl:
+> Z,
+=
+a
+30) Vv a» PE
+{SSIS \
+47
+b) Define the following terms w.r.t an alternating quantity: rms value, average value,
+form factor, crest factor
+c) State and explain briefly Faraday’s laws of electromagnetic induction.
+im d) Derive the emf equation of a transformer.
+Q.2
+a) Using superposition theorem, find the current through Ri (06]
+
+2FL
+
+_ 4re Se. Aha |
+i OME
+
+Page lof 3
+--- page 2 ---
+b)
+
+Q.3
+
+b)
+
+Q.4
+
+b)
+
+Qs
+
+b)
+
+Using Norton’s theorem, find the current through Ri.
+Sore
+
+5OV | S200 = ;
+= hore = IDLE
+lov
+
+T
+
+A sinusoidal voltage of 120 V rms is applied to a series R-L circuit. The power
+dissipation in the circuit is 1200 W and the current is given by i = 28.3 sin(314t-).
+Find the resistance and inductance values.
+
+A series RLC circuit has the R = 10 Q, L= 0.01 H and C= 100 pF. Calculate at
+resonance: the resonant frequency, power factor, quality factor, bandwidth, and
+half power points.
+
+A balanced delta connected capacitive load of resistance 8 O and reactance 6 Q
+per phase is connected to a 3 @, 230 V, 50 Hz supply. Calculate the impedance,
+line current, phase current, power factor, active power, and reactive power.
+Explain the construction and working of a single phase transformer. Explain turns
+ratio and ratings of a transformer.
+
+A5 KVA, 240 V/2400 V, 50 Hz, single phase transformer has a maximum flux
+density of 1.2 T. if the emf per turn is 8, calculate (i) primary turns (ii) secondary
+turns (iii) cross sectional area of the core (iv) primary current (v) secondary
+current (vi) flux in the core
+
+Find the value of R. for maximum power transfer and find the maximum power
+transferred.
+
+f VN | -
+
+VON |
+Ls 6A
+so 1)
+|
+
+|
+
+L i i
+
+| 20V
+
+7 #
+
+Page 2 of 3
+
+[06]
+
+[06]
+
+[06]
+
+[06]
+
+[06]
+
+(06] ©
+
+[06]
+--- page 3 ---
+Q.6
+
+b)
+
+Q7
+
+b)
+
+A steel ring of 30 cm mean diameter and circular cross section 2 cm in diameter
+has an airgap 1 mm long. It is wound with 600 turns of wire carrying 2.5 A
+current. The iron path takes 40 % of the total mmf. Find the mmf, flux, total
+reluctance and flux density.
+
+Two identical coils A and B, each having 2000 turns, lie in parallel planes such that
+70% of the flux produced in A links with B. A current of 4 A in coil A produces a
+flux of 0.06 mWb in it. If the current in coil A changes from +5A to -5A in 0.01 sec,
+what emf is induced in coil B? Also find the self-inductance of each coil and their
+mutual inductance.
+
+Explain the various types of DC motors along with their applications.
+Explain the working of a 3 phase induction motor with double revolving field
+theory.
+
+Page 3 of 3
+
+[06]
+
+[06]
+
+[06]
+[06]
+````
+
+## 2015-16 · Re-Exam · Trim 1 · paper d75f2b7651c0
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2011-12, 12-13 RE EXA0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 21 June 2016
+- Text: ocr (3 pages), mean OCR confidence 85.9
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technolo;
+
+Programme: _B. Tech (All Streams) Year: I Trimester: I
+
+Academic Year : 2015-2016
+
+Batch: 2011-12/2012-13
+Subject: Basic Electrical Engineering Marks: 100
+
+. Time: 10.00 am - 1.00 pm
+Date: 21 June 2016 Duration: 3 hrs.
+
+Re - Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+Om 3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data, if required.
+
+Q.1.a) Explain with units of Work, Power & Energy giving suitable example each. 5
+
+b) Explain the concept of time constant in R-C circuit. 5
+
+c) Derive the condition for maximum power transfer in a resistor from practical voltage 5
+source,
+
+d) Explain with neat phasor diagram which three phase connection gives higher power if 5
+
+three identical impedance connected in
+a) Star or b) Delta
+
+Q.2a) Find current through 10 O resistance using Thevenin’s Theorem 8
+>
+Ra
+20
+ANN
+Rt
+R2 Q): Ra
+10n CASA $a
+v
+wv
+——
+Be b) Deduce the relationship between phase and line quantities (voltage, current, power) inthe 12
+circuit of three phase star connected system. Also draw Phasor diagram.
+--- page 2 ---
+Q.3a)
+
+b)
+
+Q.4 a)
+
+b)
+
+Q.5a)
+
+Using superposition theorem find current through 100 resistance
+
+R3
+20
+RI
+10
+R2 1 Sat
+wo 4A 50
+
+v
+0V¥
+
+An inductor having a resistance of 25 Q and Qo of 10 at resonant frequency of
+10KHz is fed from 100V supply. Calculate
+
+i. Value of series capacitance required to produce resonance with the coil
+ii. The inductance of the coil
+iii, Qousing L/C ratio.
+iv. Voltage across capacitor
+v. Voltage across coil.
+
+Using Nodal Analysis get current through 10 2 resistance
+
+R3
+22
+J Wy
+RI
+in
+
+$8 @): Ra
+100 «JA 52
+
+10
+
+A load test is conducted on 11K VA, 230/115v, 50Hz Single Phase transformer using lamp
+load. Following are the result that obtained at a particular load condition.
+
+Primary side Secondary side
+Vi oi Wi V2 12
+230V 402A 846W 111.5V TSA
+
+If no load secondary voltage is observed to be 114V, find efficiency and regulation of a
+transformer at a given load condition.
+
+Explain with neat diagram, construction and working of permanent magnet moving coil
+instrument.
+
+%
+
+12
+
+12
+--- page 3 ---
+b) Explain construction and working of D.C Machine.
+c) Define Resistance Temperature coefficient. Derive Equation for RTC.
+
+Q.6a) State four conditions under which series RLC circuit in electric resonance.
+b) Find the R.M.S. value for the given waveform.
+
+v Vv Sinusoidal nature
+0.866 V.}----
+a 1/2 n 0
+
+c) Find Rag for the given circuit
+
+RS RE R?
+
+40 410 200
+MWA Way WA
+so 2% 2%. Zt
+A
+Q VW vA Vv
+Re RS Ri0 |
+8O reel 112
+
+Q.7.a) Explain why single phase induction motor is not self-starting.
+
+b) Explain the significance of back EMF in DC motor.
+
+c) Two coils are connected in series across a 200V, 50Hz AC supply. The power _
+input to the circuit is 2kW and 1.1 Kvar. If the resistance and reactance of the first
+coil are 5 Q and 8 Q respectively, Calculate the resistance and reactance of the
+second coil. Calculate the active power and reactive power for both the coils
+respectively.
+
+’
+
+2
+````
+
+## 2015-16 · Re-Exam · Sem 1 · paper 51945c6ac560
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 30/11/2015
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year:I Semester: I
+Academic Year: 2015 - 16
+Batch:2013-14
+
+Subject :Basic Electrical Engineering
+
+Date : 30/11/2015
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary
+
+1. a. Explain the significance of back emf in a dc motor. [05]
+b. Explain the various types of losses in Transformer [05]
+c. Compare star and delta three phase AC circuits. [05]
+d. Draw and explain Hysteresis loop. [05]
+2 a. Find current through 15 © using nodal anlysis. [10]
+
+OAT To
+O
+
+ony | lot Sion
+
+b. Find the current through 400 resistor using Thevenins theorem. [10]
+50 10SL
+ose = 30
+
+2SV |
+
+i/o
+--- page 2 ---
+7
+
+a.
+
+y
+Explain the ac analysis of a series RL circuit and draw its phasor diagram, impedance
+triangle, voltage triangle, power triangle.
+
+Three similar coils, each of resistance 8O and inductance 0.02 H, are connected in star
+actoss a three-phase 50Hz, 230V supply. Calculate the line current, total power
+absorbed, reactive volt amperes and total volt amperes.
+
+Explaint the construction and working of a single phase transformer
+
+A. 80 kVA, 3200/400 V, 50 Hz, single phase transformer has 111 turns on the
+secondary winding. Calculate (i) number of turns on primary winding (ii) secondary
+full load current and (iii) cross sectional area of the core, if the maximum flux density
+
+is 1.2 tesla.
+Define magnetic circuit and compare electric and magnetic circuit.
+
+A ring has mean diameter of 15 cm, a cross section of 1.7 cm’ and has a radial gap of
+0.5 mm init. It is uniformly wound with 1500 turns of insulated wire and a current of
+1A produces a flux of 0.1 mwb across the gap. Calculate the relative permeability of
+iron on the assumption that there is no magnetic leakage.
+
+Find current through 2Q resistor.
+
+Qf.
+. j2f. DSL
+6A 2 62- q
+T3ev | J ¥
+
+A resistor of 25 Q is connected in series with a choke coil. The series combination
+when connected across a 250V, 50 Hz supply, draws a current of 4A which lags behind
+the voltage by 65°. Calculate (i) resistance and inductance of the coil (ii) total power
+(iii) power consumed by resistance and (iv) power consumed by choke coil.
+
+Write short note on
+Single phase induction motor
+
+State maximum power transfer theorem and derive the same.
+
+He
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+{10}
+
+[10]
+
+[10]
+
+[10]
+````
+
+## 2015-16 · Re-Exam · Sem 1 · paper 504415ad09dc
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic Electrical Engineering Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
+- Text: ocr (3 pages), mean OCR confidence 90.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ee a eS
+ii ao “9
+
+Programme: MBA Tech (All Streams) Year: I Semester: BE @ ENN
+(al i,
+Academic Year: 2015-16 iH at rt “hE
+‘ S i
+Batch: 2014-15 Na ag Ae
+Subject: Basic Electrical Engineering Marks: 60 une
+Time: 10.00 am™= pm
+Date: 10 June 2016 Duration: 3 Hrs
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Books, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining six questions, attempt any four questions.
+3. Inall five questions to be attempted
+
+4. Answer to each new questions to be started on a fresh page.
+
+5. Assume suitable data if necessary with proper justifications. :
+Ql) Attempt ANY FOUR of the following:
+a) State and explain Kirchoff’s Laws. 03
+b) Define Frequency, Time Period & Amplitude w.r.t alternating quantity. 03
+c) Compare Electrical and Magnetic circuit. 03
+d) Explain in brief working of an ideal transformer. 03
+e) With neat diagrams classify different types of DC motors. 03
+
+Q2) a) Analyze the given circuit and evaluate the current flowing through 6Q 06
+resistor using Thevenin’s theorem.
+
+4}- VW
+v4
+
+| Qu ge aad a
+
+b) Evaluate the equivalent resistance Rap, Rap, Rac & Rag of the given circuit. 06
+
+Page 1 of 3
+--- page 2 ---
+Q3) a) Analyze the given circuit and evaluate the current flowing through 6Q 06
+resistor using Superposition theorem.
+
+WAV NNN,
+5Q 6Q.
+$V Vv
+
+2Q
+
+4Q
+10
+
+30 4A dd)
+(t) 2A | 10V
+
+b) Consider a series RL circuit connected across a AC voltage source, derive the 06
+expressions for voltage and current for the circuit also draw phasor diagram
+with expression for phase difference, impedance and power of the circuit.
+
+Q4) a) Find Vayg and Vyms of the given waveform. 06
+
+Vm} -;
+
+0 ba 2x 3x
+
+b) A R-L-C series circuit with resistance of 10Q, inductance of 0.2H and 06
+capacitance of 40uF is supplied with the 100V supply at variable frequency,
+Find:
+i. Resonant Frequency
+ii. Current at resonance
+iii. Power
+iv. Power factor
+v. Voltage across R, L and C
+vi. Quality Factor
+vii. Bandwidth
+
+Q5) a) State and explain Faraday’s laws of electromagnetic induction also explain 06
+self and mutual inductance.
+b) Draw phase diagram for transformer at full load considering the losses. 06
+(Inductive load)
+
+Q6) a) Derive relationship between voltage and current for 3- phase star connected 06
+
+supply with balanced inductive load.
+b) Explain how rotating magnetic field is setup in 3 phase induction motor. 06
+
+Page 2 of 3
+--- page 3 ---
+Q7) Attempt ANY THREE
+a) State Maximum power transfer theorem, also derive the condition for the 04
+
+same.
+b) State and explain all the advantages of three phase supply. 04
+c) Compare Ideal and Practical Transformer. 04
+d) Explain construction and working of a DC Motor. 04
+
+Page 3 of 3
+````
+
+## 2015-16 · Re-Exam · Sem 1 · paper b7004085530c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic Electrical Engineering Batch 2014-15 Re Exam_b700408553.pdf`
+- Printed on paper: exam date: 30/11/2015
+- Text: ocr (3 pages), mean OCR confidence 88.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: I Semester: I
+Academic Year: 2015 - 16
+Batch:2014-15
+
+Subject :Basic Electrical Engineering
+
+Date : 30/11/2015
+
+Re-Examination
+
+Instructions: Candidate should read carefully the instructions provided on the question paper
+and on the cover of the answer book which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. Inall FIVE questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets indicate full marks.
+Q. 1. Attempt any four of the following. (2)
+
+a) For the circuit shown below, find the value of resistance R, when power consumed by
+12Q resistor is 36W.
+
+12 s2
+WAM a
+WWW NANA
+(S$
+WWM
+
+Sé~ Gov
+|'
+b) The equation of an alternating current is i= 62.35 sin 323t A. Determine (i) maximum
+value, (ii) frequency, (iii) rms value, (iv) average value, (v) form factor.
+c) Compare magnetic circuit with electric circuit.
+
+d) Derive the condition for maximum efficiency of 1® Transformer.
+e) Why 1® Induction motor is not self starting?
+
+Q. 2. Attempt the following.
+a) A current of 5 A flows through a non-inductive resistance in series with a choking coil
+supplied at 250 V, 50 Hz. If the voltage across the resistance is 125 V and across the coil
+200 V, calculate (i) Impedance, reactance, and resistance of the coil, (ii) Power absorbed
+
+by the coil, (iii) Power factor of the coil. Also draw the phasor diagram. (6)
+b) State superposition theorem. Determine the current in 1Q resistor in the following
+network using superposition theorem. C6)
+
+1 |3
+--- page 2 ---
+Was
+
+9 sz 2-2
+
+- 4v jw OEn
+
+Q.3. Attempt the following.
+a) Derive the relationship between line voltage and phase voltage, line current and phase
+current for a star connected balanced load across a 3® balanced system. Draw the
+
+complete phasor diagram. {&)
+b) The voltage of 150 V applied between terminals AB, produces a current of 32 A for the
+circuit shown below. Find the value of R and the power factor of the circuit. { 6)
+ree
+a
+R) elt doa
+B
+Q.4. Attempt the following.
+a) Explain with neat diagram the constructional details of DC Motor C6)
+b) By Thevenin’s theorem find the current in the 40 Q resistor in the network shown
+below. C6)
+
+ee | Zoe
+Zon
+
+1h 2
+
+Q.5. Attempt the following.
+
+a) A voltage of v= 10 sin ot is applied to R-L-C circuit. At resonance frequency of the
+circuit, the maximum voltage across the capacitor is found to be 500 V. Moreover the
+bandwidth is known to be 400 rad/sec. and impedance at resonance is 100 Q. Find
+(i) The resonant frequency, (ii) Upper and lower limits of Bandwidth, (iii) Value of L
+and C, C6)
+
+E
+--- page 3 ---
+b) Derive the condition for maximum power transfer in a DC circuit. Calculate the value of
+Rx for it to absorb the maximum power and find out the maximum power in the circuit
+
+given below. C6)
+4o 2 bo i.
+NAAN
+
+= Qo a
+\2o0NV 0 Ry
+
+@.6. Attempt the foilowing.
+a. a) Compare Core type transformer with Shell type transformer (At least 4 points). A 80
+KVA, 3200/400 V, 1®, 50 Hz transformer has 111 turns on the secondary winding.
+Calculate (i) Number of turns on primary winding, (ii) Secondary full load current, (iii)
+
+Cross-Sectional Area of the core, if maximum flux density is 1.2 Tesla. (6)
+b) Open circuit and short circuit test on a 55 KVA 200/400 V, 1, 50 Hz transformer gave
+the following results: (6)
+
+OC Test | 200 V | 1 A_ | 100 W | Carried on LV side
+SC Test | 15 V_ | 10 A | 85 W_| With Primary Short Circuited
+
+(i) Draw the equivalent circuit referred to the primary,
+(ii) Calculate the approximate regulation of a transformer at full load 0.8 pf lagging.
+
+Q.7. Attempt the following.
+
+a) A steel ring of 30 cm mean diameter and circular cross section 2 cm in diameter has an
+air gap 1 mm long. It is wound uniformly with 600 turns of wire carrying 2.5 A current.
+Find (i) Total MMF, (ii) Total Reluctance, (iii) Magnetic Flux. Neglect magnetic leakage.
+The iron path takes 40% of total MMF. C&)
+
+b) A magnetic circuit is arranged as shown in the figure below. The central limb has a cross
+sectional area of 8 cm? and each of the side limbs has a cross sectional area of 5 cm?.
+Calculate the ampere-turns required to produce a magnetic flux of 1 mWb in the central
+limb assuming negligible magnetic leakage. H=500 AT/m at B=1.25 Wb/m? and
+
+H=200 AT/m at B=1 Wb/m? . C6)
+a a ae ron
+i | i
+O'"\ ory
+_ gi | Si
+| + | ¢!
+‘ , I5 crm 0,
+ps | o——+-P, i
+fon te - 2 Le
 ````
 
 ## 2015-16 · Re-Exam · Sem 1 · paper b2bf1131aedc
@@ -3521,6 +4937,444 @@ b. Explain with a relevant diagram the construction of a 3 phase induction motor
 motor self-starting?
 
 q — ¥
+````
+
+## 2014-15 · Exam not stated · Trim 1 · paper 19cdf9721d62
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH0001 (1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 12/12/2014
+- Text: ocr (3 pages), mean OCR confidence 83.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: | Trimester: |
+Batch: 2011-12 : eet.
+Academic Year: 2014-2015 Lg Se tor may,
+Subject: Basic Electrical Engineering ‘a “AS,
+Marks: 8106 PST MBE ye
+Date: 12/12/2014 Time: BUD 00 BA wy. ODapm
+Duration @3-(ars) ey
+sms mo
+Re-Examination s armen
+
+Instructions: Candidates should read carefully the instructions provided on the question
+paper and on the cover of the answer book which is provided fortheir use.
+NB:
+Question no. I is compulsory.
+2. Out of the remaining questions, attempt any FOUR.
+3. In all FIVE questions to be attempted.
+4. Figure in brackets indicate fuli marks.
+
+Q.1. Attempt any four questions [20]
+
+a). | State and explain the following theorems: (i) Maximum Power Transfer
+Theorem (ii) Norton’s Theorem
+
+b) | Derive the equation of current in a purely capacitive circuit in the presence
+of an ac voltage. Draw waveforms of current and voltage.
+
+c). | Calculate the values of rms and average voltage for the waveform given in
+the figure below.
+
+| hy = © 2K :
+d) | Explain the construction and working ofa de motor in brief.
+e) | Derive the expression for energy stored in an inductor.
+Q.2.
+a). | For the circuit given, calculate the current in the 5 ohm resistor using | [10]
+Thevenin’s theorem. SOV
+ion. 7 2 | 50V
+ca S57 $ 2 BSL
+--- page 2 ---
+-
+
+b)
+
+Find the current in the 4 ohm resistor using Superposition theorem for the
+circuit given below.
+r
+
+| e
+
+Mea 32a Osa
+
+[10]
+
+oy
+
+A resistor of 25 ohms is connected in series with a choke coil. The series
+combination is connected across a 250 V, 50 Hz supply. The circuit draws a
+current of 4 A which lags behind the voltage by 65°. Calculate
+
+(i) resistance and inductance of the coil.
+
+(ii) total power
+
+(iii) power consumed by resistance
+
+(iv) power consumed by choke coil
+
+[10]
+
+b)
+
+A pure resistor R, a choke coil and a pure capacitor of 15.91 uF are
+connected in series across a supply of V volts and carries a current of
+0.25A. The voltage across the choke coil is 40 V, the voltage across the
+capacitor is 50 V, and the voltage across the resistor is 20 V. The voltage
+across the combination of R and the choke coil is 45V. Calculate (i) supply
+voltage V (ii) frequency (iii) power loss in the choke coil
+
+[10]
+
+Q4
+
+a)
+
+Three equal impedances, each of 10.260° ohms are connected in star across
+a three phase, 400V, 50Hz supply. Calculate (i) line and phase voltage (ii)
+power factor and active power consumed (iii) If the same three impedances
+are connected in delta to the same supply, calculate the active power
+consumed.
+
+[10]
+
+\
+yu
+
+Explain the construction and principle of working of a single phase
+transformer and derive its emf equation.
+
+[10]
+
+Q.5
+
+a)
+
+Explain the construction and working of a PMMC type instrument and
+derive its torque equation. State its advantages and disadvantages.
+
+[10]
+
+b)
+
+Explain any two methods of speed control of a 3 phase induction motor.
+
+[10]
+
+Q:6
+
+a)
+
+A R-L-C series circuit with a resistance of 10 ohms, inductance of 0.2 H
+and a capacitance of 40uF is supplied with a 100 V supply at variable
+frequency. Find the following at resonance.
+
+[10]
+
+2/3
+--- page 3 ---
+(i) resonant frequency (ii) current (iii) power (iv) power factor (v) voltage
+across R, L and C_ (vi) quality factor
+
+b) | Find the equivalent resistance between A-B_ using _ star-delta | [10]
+transformations.
+vywy—_—_1° _rw
+6 AL
+oR Soe
+: oo
+Fen. aa
+6
+oo itn iorsanbgi a B
+Q.7 Write short notes on the following [20]
+a) Induction type energy meter
+b) | Construction and working of 3 phase induction motor
+
+OK
+````
+
+## 2014-15 · Exam not stated · Trim 1 · paper b1e19fe94fd9
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH0002.pdf`
+- Printed on paper: exam date: 12/12/2014
+- Text: ocr (3 pages), mean OCR confidence 83.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: | Trimester: I
+
+Batch: 2012-13 ae
+Academic Year: 2014-2015 Egg aYe BP Pa
+LY nN ly
+{ tia Ne
+w( MP STM Be
+
+ie OBE dd AB m
+@ <3 (hrs) y/
+he
+
+Instruction: Candidates should read carefully the instructions priated on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+
+6) Assume suitable data, if required.
+
+Subject: Basic Electrical Engineering
+Marks:
+Date: 12/12/2014 Time: |
+Duratio
+
+Re-Examination
+
+01. Attempt any four questions of the following: [20]
+
+(a). State and derive the condition for maximum power transfer theorem.
+
+(b) Show that current through pure capacitor leads applied voltage by 90°.
+
+(c) Derive from the first principles, the e.m.f. equation of transformer.
+
+(d) Compare electric and magnetic circuit by their similarities and dissimilarities.
+(e) Explain ‘resistance’, ‘reactance’, and ‘impedance’.
+
+02. (a) A current of 5A flows a non-inductive resistance in series with a coil when {10]
+supplied at 250 V, 50 Hz. If the voltage across the resistance is 125 V and
+across the coil is 200 V. Calculate :
+(i) Impedance, reactance and resistance of the coil. (ii) Power absorbed
+~ by the coil. (iii) Total power (iv) Draw the voltage vector diagram.
+
+(b) A resistance of 100 Q, an inductance of 0.2 H and capacitor of 150uF are [10]
+connected in series across 230 V, 50 Hz a.c. supply. Calculate the current drawn
+by circuit, power factor of the circuit, its nature, power consumed by the circuit.
+Draw the phasor diagram
+03.(a) Deduce the relationship between phase and line quantities (voltage, current and [10]
+power) in the circuit of a three phase delta connected system. Also draw neat diagram.
+Each of delta connected load consist of a 50Q resistor in series with a 50 uF capacitor.
+The supply is 440 V, 3 phase, 50 Hz. Determine (i) phase current (11) Line current
+
+(c) power (d) Draw phasor diagram showing the voltage and currents.
+
+I/3
+--- page 2 ---
+(b) Using mesh current method, find the current through 2Q resistance. [10]
+
+6
+kWh
+eV)
+—_|— \O QL
+
+Ov >= {SL 3m
+l
+Z0V
+
+04(a)Find current through 2Q and 3Q resistances using nodal analysis in following circuit [10]
+5BVL
+
+‘A AN
+Ww
+
+3
+NS 3 jon 25m Grn —> \aVv
+
+OV
+(b) Derive the equation for star-delta transformations. [10]
+05(a)Find current in 10Q resistor by using Thevenin’s theorem. [10]
+jo SE 30 OL
+WW —- WW
+
+lo © ~ Z 200 =p too v
+
+2/3
+--- page 3 ---
+(b) Find current in 1Q resistor by using superposition theorem. [10]
+
+“We +
+
+4a oe
+T 5OV =" 40\
+joa
+= {oUE
+= 2, E
+06.(a)40 KVA, 3300/240 V, 50 Hz, | phase transformer has 660 turns on the primary. [10]
+
+Determine: (i) The number of turns on the secondary (ii) The maximum value
+of flux in the core (iii) The approximate value of primary and secondary full
+load currents.
+
+Internal drops in the windings are to be ignored.
+
+(b) Draw and explain phasor diagram of a transformer for unity power factor or [10]
+resistive load.
+
+07 (a) Explain with neat diagram how you can obtain B.H. curve and hysteresis loop [10]
+of ring specimens.
+
+(b) The combined inductance of two coils connected in series is 0.6 H or 0.1 H [10]
+depending on the relative directions of the currents in the coils. If one of the
+coils when isolated has a self-inductance of 0.2 H, calculate (i) mutual inductance
+and (b) coupling coefficient.
+````
+
+## 2014-15 · Exam not stated · Trim 1 · paper b5e92d33fbad
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH0003.pdf`
+- Printed on paper: duration hours: 3; exam date: 49/06/2015
+- Text: ocr (3 pages), mean OCR confidence 87.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Trimester: I
+Batch: 2011-12
+Academic Year: 2014-2015
+Subject: Basic Electrical Engineering
+Marks: » .100
+Date: 49/06/2015 Time: ‘19.00 am to 1.00 pm
+lo--1fs Durations: . 3 (hrs)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining question, attempt any FOUR.
+
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1] Attempt any four. [20]
+
+a.) find the power delivered by the 50V source in the circuit.
+
+am 2k 4 oe
+|
+jov
+Sov T oA
+
+b.) Find equivalent resistance between A and B
+
+AA
+IOs
+° WW WA, AANA —oe@
+A los lod 1Os2
+MA
+lo
+c.) Derive emf equation of the transformer.
+d.) State and explain maximum power theorem.
+e.) Find the voltage of the point A w.r.t B SA
+5s.
+———_AMM@A———1——2 A —G)—
++ =
+jov oe 3 om s 3.2 4Se
+- Sv +
+--- page 2 ---
+Q2.a) Find current through 4Q resistor using superposition theorem.
+
+r c
+év
+
+SA (*) Zon 4.0.
+
+2A
+
+Q2.b) State Norton’s theorem and find current through 10Q resistor using the same.
+6SL 20
+AW
+
+|
+7 in g 3 IO.
+
+"T 20V
+Q3.a) Derive the expression for Delta to Star and Star to Delta.
+Q3.b) Explain. the behavior of pure inductor in an AC circuit.
+
+lov
+
+;
+
+Q4.a) Deduce the relationship between phase and line quantities (voltage, current, power)
+in the circuit of a three phase star connect system. Also draw phasor diagram.
+Q4.b) A 5 KVA distribution transformer has a full load efficiency of 95% at which
+Cu loss is equal to iron loss. The transformer is loaded in 24 hours as follows:
+
+i. No load
+
+ii. Y full load for 7 hours
+iii. Y full load for 5 hours
+iv. Full load for 2 hours
+
+Calculate all day efficiency of the transformer. Assume load Pf of unity.
+
+Q5.a) Draw and explain the phasor diagram for leading power factor of a 1@ transformer.
+
+Q5.b) For the circuit shown, find Ri for maximum power and calculate maximum power.
+
+3.
+HA
+
+52 s
+S202
+
+mi
+
+4
+
+[10]
+
+[10]
+
+{10}
+[10]
+
+{10]
+
+[oJ
+
+[10]
+[10]
+--- page 3 ---
+Q6.a) Derive the expression for energy stored for inductance and capacitance in case of
+
+transients.
+Q6.b) Explain the construction and working of three phase induction motor.
+
+Q7.a) With a neat diagram explain energy meter
+Q7.b) Distinguish between ammeter and voltmeter.
+
+[10]
+
+[10]
+
+[10]
+[10]
 ````
 
 ## 2014-15 · Final-Exam · Sem 1 · paper 0181d6e46ad5
@@ -3792,428 +5646,124 @@ YQ
 20M
 ````
 
-## 2014-15 · Re-Exam · Sem 1 · paper bc029e21ec69
+## 2014-15 · Re-Exam · Sem 1 · paper 7e4b2b2d5159
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEEIRNG BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 May 2017
-- Text: ocr (3 pages), mean OCR confidence 84.9
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 10/06/2015
+- Text: ocr (2 pages), mean OCR confidence 90.7
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech. (All Streams) Year: I Semester: I
+Programme: B. Tech (All Streams) : Year: I Semester: I
+Batch: 2013-14
 
-j Batch: 2014-15
-, Academic Year: 2016-2017
+Academic Year: 2014-2015
 
-Subject: Basic Electrical Engineering .
+oe itSTE 8 Nag
+Subject: Basic Electrical Engineering SN
+Marks:
+Date: 10/06/2015 Time:
+Durations:
 
-Marks: 60 ° @ i
-Date: 29 May 2017 . Time: 10.00 ant% ) eo
-Durations: 3 (hrs) * “am W
-No. of Pages: __2
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-1) Question No. lis compulsory. Attempt all in Question No.1
+NB:
 
-2) Out of remaining questions, attempt any 4questions.
+1) Question No. 01 is compulsory.
 
-3) In all 5 questions to be attempted.
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+* 7) Assume Suitable data ifnecessary ,
 
-Q.1-A) Find the Power Delivered by 50 V Source in the circuit. Use Source Transformation. [3]
-
-B) Calculate the RMS Value of AC Signal. 3]
-C) Compare Electric & Magnetic Circuit. [3]
-
-D) Explain the Principle of Single Phase Transformer. [3]
+1. a. Compare series and parallel resonance circuit [05]
+b. Derive the emf equation for a single phase transformer [05]
+ccm Compare electric and magnetic circuits. [05]
+d. Explain why single phase induction motor is not self starting [05]
+2 a. Find the current through 5Q resistor using nodal analysis {10]
+3IL ees
+AWN
+DSL
+| 2oV |
+b. Find the current through 2Q resistor connected between terminals A and B using {10]
+Thevenins theorem.
+22 1 3
+A ¥
+; Vv
+; (2 SL 2SL “t
+2V
+6
 --- page 2 ---
-Q.2-A) Explain the behaviour of Series R-L Circuit with AC signal. Draw the phasor diagram
+7
 
-and derive the expression for {mpedance and Active Power. [6]
-B) For the circuit shown, Find the value of Resistance Ri for maxmum power and
+a.
 
-calculate the maximum power. [6]
+Explain the ac analysis of a series RC circuit and draw its phasor diagram,
+impedance triangle, voltage triangle, power triangle.
 
-Same 2A
+A balanced three phase load connected in delta, draws a power of 10kW at 440 V
+at a power factor of 0.6 lead. Find the values of circuit elements and reactive volt-
+amperes drawn.
 
-AVA 3}
+Draw and explain the phasor diagram of a transformer, loaded with lagging power
+factor load.
 
-1 | —
-+ BON a RON
+A 25kVA transformer has 500 turns on the primary winding and 50 turns on the
+secondary winding. The primary winding is connected to 3000V, 50 Hz supply. Find
+the full-load primary and secondary currents, the secondary emf and the
+maximum flux in the core. Neglect leakage drop and no-load primary current.
 
-a
-| ii
+Derive an expression for the ampere-turns required for a composite series
+magnetic circuit.
 
-i i
+The flux produced in the air gap between two electromagentic poles is 5x10 wb.
+If the cross sectional area of the air gap is 0.2 m” find (a) flux density (b) magnetic
+field intensity (c) reluctance (d) permeance and (e) mmf dropped in the air gap
+given the length of the air gap to be 1.2 cm.
 
-(Ae
-Hl oe 205
-| ain mal
+Find the current through 5Q resistor.
 
-Q.3-A) For the circuit Shown, Find the current supplied by the Battery. Use Mesh method. [6]
+A choke coil and a resistor are connected in series across a 230V, 50 Hz ac supply.
+The circuit draws a current of 2A at 0.866 lagging power factor. The voltage drop
+across the resistor is 100V. Calculate (i) resistance and inductance of the coil, (ii)
+power factor of the choke coil.
 
-3.2.
-ANA
-| :
-A A/
-es ML NY
-ss ~) . ce g Ly
-a NR ON
-=, AM ~
-Tay 7) Qo aes
-a “YY
-“it am wA3 Ne
-VY
-B) Explain the concept of Self Inductance and Mutual Inductance with diagram. [6]
+Explain the construction and working principle of DC motor
 
-Q.4-A) Define Form Factor and Crest Factor. Find the Frequency, Form factor and Crest
+Explain star to delta and delta to star transformation in a DC circuit.
 
-Factor for a voltage V = 200sin314t. [6]
-B) Convert the Delta Network shown below in to it’s equivalent Star Network. [6]
-+
-_ oN on
-Se TI
-Lo NAAM 5
-2 Ry
+[10]
 
-2)3
---- page 3 ---
-Q.5-A) Derive the Voltage & Current Relations for a Three phase balanced star
-connected load. Also draw the phasor diagram. [6]
-B) A single phase,440/220V,10 KVA,50 Hz transformer has a resistance of 0.2Q and
-reactance of 0.6Q on h.v.side. The corresponding values of l.v.side are 0.04Q and 0.14Q,
+[10]
 
-calculate the percentage regulation on full load for (i)0.8 lagging PF(ii) 0.8 leading PF
-(iii) Unity PF. [6]
+{10}
 
-Q.6-A) Why OC & SC Test is performed on Transformer. Draw the Circuit for OC Test and
-write the equations for various OC parameters if meters are connected on primary
+[10]
 
-ond secondary side. : [6]
+{10}
 
-B) Find the current ij.i2,and i3 for the circuit below. [6]
+[10]
 
-Q.7-) With the help of diagram explain following.
-A) Construction and working of 3 phase induction motor. [6]
-B) Composite magnetic circuit and fringing. [6]
+[10]
 
-eee
+[10]
 
-3/3
-````
+[10]
 
-## 2014-15 · Re-Exam · Sem 1 · paper 29ddf2e51ee1
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAM), BATCH 2014-15 Re-exam.pdf`
-- Printed on paper: exam date: 01/12/2015
-- Text: ocr (3 pages), mean OCR confidence 85.8
-
-````text
-SVKM’s NMIMS .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: | Semester: I
-Batch: 2014-2015
-
-Subject: Basic Electrical Engineering
-
-Date: 01/12/2015 Time:
-
-Academic Year: 2015-2016
-
-Marks:
-
-Duration:
-
-Re-Examination
-
-Q.1
-A)
-
-B)
-
-C)
-D)
-
-Q.2-
-A)
-
-Instructions to Candidate
-
-1} Q. No.1 fs compulsery
-
-2) Out of remaining six questions attempt any four.
-
-3) In all five questions to be attempted.
-
-4) All question carry equal Marks.
-
-5) Figures in the bracket on the right hand side indicate full marks.
-
-Attempt any four
-
-Derive Condition For Maximum Power Transfer in a resistor from practical [3]
-voltage source.
-
-Define the following terms related to alternating quantities C3) |
-
-G) RMS value
-Gi) Average value
-Gii) Form factor
-
-Compare Electric & Magnetic Circuit. [3)
-
-Derive EMF Equation of transformer. (3)
-
-Explain the significance of Back EMF in DC Motor. C3]
-
-Determine current through 5Q resistance using nodal Analysis (é]
-94
-
-4%
-
-202
---- page 2 ---
-2 series R-L-C circuit. Also derive [s]
-
-A) Find an equivalent resistance between A and B. C 6]
-1532 20 5
-Achy ren
-
-pags a
-
-45 22
-
-B) A wooden ring has a circular cross section of 300 sq.mm & a mean diameter of (3]
-ring is 200 mm. it is uniformly wound with 800 turns. (Assume Flux path is
-through ring) Calculate >
-i) The field strength produced in the coil by current of 2 Amp.
-ii) The magnetic flux Density produced by this current
-ili) Current required to produce a flux density of 0.02 wb/m?
-
-AA |
-402
-
-C) Explain Various losses in Transformer L3]
-Q.4
-A) AIOKVA, 3300/240 V, Single Phase , 50Hz transformer has a core area of L3]
-
-300 cm”. The flux density is 1.3 T. calculate i) number of primary turns ii)
-number of secondary turns & iii) Primary full-load Current
-
-B) Explain the Behaviour of pure Inductor in AC Circuit. [3]
-C) Three similar coils A, B and C are available. Each coil has a 9Q resistance and a
-12 Q reactance. They are connected in delta to a three phase, 440V, 50Hz Cs)
-
-supply. Calculate Phase current, line current, total kVA, active power and
-reactive power.
-Q.5
-A) Two impedance Z = 8 + j6 Q and Z,-4 + j4 Q are connected in parallel across Ce] ~
-200V, 50 Hz a.c. Supply. Calculate the i) Branch current I, ii) Branch current I,
-iii) Total Current lp Draw the Phasor Diagram.
-
-Is
-
-2:
-
-rm
-ceased
-
-oe   v ——_s if
-
-: 200vV.
-
-B) Explain Open-circuit Test & Short-Cireuit Test of transformer. L 6]
-
-(2}3)
---- page 3 ---
-Q.6- [AJ
-
-A) Determine the potential difference Vas for the given network.
-
-fos
-
-B
-ry Y, 360
-
-109 A; + 20V 4Q
-Lana, jJ WW |
-@ 50 5¥ 122 SV
-
-B) Two coils A of 12500 turns & B of 16000 turns, lie in parallel plane so that 60% L2]
-of produced in coil A links with coil B. it is found that current of 5A in coil A
-
-@ produce a flux of 0.6 mWb while the same current in coil B produce 0.8 mWb
-Determine i) mutual inductance ii) Coupling Coefficient
-C) Draw Norton’s equivalent circuit across terminal A-B and determine current C 6]
-through 30Q resistance
-150 60.0 A 300
-Wy WN VV
-IOV (1) A 4 Q =v
-& Q.7 Write Short note on (Any two)
-A) — Construction, working principle and Applications of DC motor. [6]
-B) Self Inductance & Mutual Inductance te)
-C) Construction & Working of Single-Phase Transformer. fe)
-/ *
-````
-
-## 2014-15 · Re-Exam · Sem 1 · paper 869e755a172d
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 29 November 2016
-- Text: ocr (2 pages), mean OCR confidence 77.9
-
-````text
-* 4 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (All Streams) Year: I . Sema;
-Batch : 2014-2015 . Sy
-Academic Year : 2016-2017 A ‘ =“ 2,
-
-wmPSTME Yu :
-LPPBRARW JE:
-
-to 5.00 pp”,
-re
-
-Subject : Basic Electrical Engineering
-Time:
-Date : 29 November 2016 Duration >
-
-= Re-Examination
-_ Tnstructions: Candidate should read carefully the instructions printed on the question —
-
-paper and the cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Q. No.1 is compulsory.
-2) Out of remaining six questions attempt any four.
-3) Inall five questions to be attempted and all question carry equal marks.
-4) Answer to each new question to be started on a fresh page.
-5) Figures in the bracket on the right hand side indicate full marks.
-
-6) Draw figures wheréver necessary:
-
-Q.1) Attempt any THREE from the followings [03*04=12]
-
-I) Reduce the network shown into single source and single resistor between
-terminals A and B.
-
-eA
-ooo
-ia |
-f S20 $20
-mA > 220
-' att) i thay.
-\ [4]
-NY
-~
-303 s
-30> 5
-sO5 Z12
-év— sr sy
-eH
-
-I) Explain how would you convert Delta connected circuit to equivalent star [4]
-connected circuit.
-
-IM) Determine the voltage V which causes the current h to be zero.
-
-Ss j >
-62 4 b -
-20V— = 22 hw Ss [4]
-—~ Loa ;
-
-i 1
-
-—
-. : fe $52 ? > 40
-Bs =¥ i .
-
-IV) Derive the expression for coefficient of coupling . [4]
-
-Page 1 of 2
---- page 2 ---
-Q.2) 1) Find the voltage Van using Superposition Theorem
-
-A
-a eae . [6]
-Ve
-E
-I) * Find the‘current through 10Q resistor using Thevenin’s Theorem. :
-10 £2
-22 22
-| | ; [6]
-ag WF a =e Si 2
-a iov
-1&2
-Q.3) 1) Obtain Norton’s equivalent network as seen by Ri
-30 48Y 100 Ry
-
-AM,eor - Nye WA
-
-| i i i
-
-l | (6
-
-over 2 602 200 T ov
-
-| _——
-
-I) Draw the phasor diagram for series R-L-C circuit energized by — sinusoidal
-voltage showing the relative position of current , component voltage and (6)
-
-applied voltage for the following cases:
-a) when XL>Xc b) when Xi < Xc
-
-Q.4) 1) Derive the voltage, current and power relations in a balanced Delta connected (7|
-load. Also draw Phasor diagram.
-Il) Find the rms and average value of the waveform shown in fig
-
-[5]
-
-al OF ca
-
-Q.5) 1) Draw a phasor diagram to represent conditions in a single phase transformer [6]
-supplying load at unity Power factor load.
-I) A500 KVA transformer has an iron loss of 500W and full load copper loss of
-
-600W. Calculate the efficiency at 3," full ioad and 0.8 power factor, Also [6]
-
-calculate the maximum efficiency at that power factor.
-
-Q.6) 1) Explain electrical characteristics of D.C series motor with derivation to justify [6]
-; their shape.
-ad . I) Explain the construction of Three Phase induction Motor [6]
-
-Q.7) Attempt any Three from the following:[03*04]
-
-1. Short Circuit Test of Transformer
-
-2. Compare series and parallel magnetic circuits (121
-3. Comparison of series & parallel resonance circuit
-
-4. Phasor diagram of Parallel RLC Circuit
-
-Pe “4° aa >
+[10]
 ````
 
 ## 2014-15 · Re-Exam · Sem 1 · paper 998366fae347
@@ -4320,434 +5870,280 @@ G6)
 Ly Sa
 ````
 
-## 2014-15 · Re-Exam · Sem 1 · paper 25928c376510
+## 2014-15 · Re-Exam · Sem 1 · paper 767702e7f91e
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
-- Text: ocr (3 pages), mean OCR confidence 87.5
-
-````text
-] . SVEM’s NMIMS
-: MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG]
-
-Programme: B.Tech (All Streams) Year: I Semester: ]
-
-Ad “urSTMB »)
-
-ae
-
-*
-sarvers
-
-Academic Year: 2015-16
-
-Batch: 2014-15 Marks: 60 §
-
-Subject: Basic Electrical Engineering , Time: 2.00 pm
-
-Date: 10 June 2016 Durations: 3 (hrs)
-Re-Examination
-
-1. Question no. one is compulsory.
-
-2. Attempt any four questions out of the remaining.
-3. Figures in brackets indicate full marks.
-
-4. Assume suitable data if necessary.
-
-Qt Attempt any three questions {12]
-a) Find the equivalent resistance between A and B using series-parallel reduction.
-. a A fl:
-> Z,
-=
-a
-30) Vv a» PE
-{SSIS \
-47
-b) Define the following terms w.r.t an alternating quantity: rms value, average value,
-form factor, crest factor
-c) State and explain briefly Faraday’s laws of electromagnetic induction.
-im d) Derive the emf equation of a transformer.
-Q.2
-a) Using superposition theorem, find the current through Ri (06]
-
-2FL
-
-_ 4re Se. Aha |
-i OME
-
-Page lof 3
---- page 2 ---
-b)
-
-Q.3
-
-b)
-
-Q.4
-
-b)
-
-Qs
-
-b)
-
-Using Norton’s theorem, find the current through Ri.
-Sore
-
-5OV | S200 = ;
-= hore = IDLE
-lov
-
-T
-
-A sinusoidal voltage of 120 V rms is applied to a series R-L circuit. The power
-dissipation in the circuit is 1200 W and the current is given by i = 28.3 sin(314t-).
-Find the resistance and inductance values.
-
-A series RLC circuit has the R = 10 Q, L= 0.01 H and C= 100 pF. Calculate at
-resonance: the resonant frequency, power factor, quality factor, bandwidth, and
-half power points.
-
-A balanced delta connected capacitive load of resistance 8 O and reactance 6 Q
-per phase is connected to a 3 @, 230 V, 50 Hz supply. Calculate the impedance,
-line current, phase current, power factor, active power, and reactive power.
-Explain the construction and working of a single phase transformer. Explain turns
-ratio and ratings of a transformer.
-
-A5 KVA, 240 V/2400 V, 50 Hz, single phase transformer has a maximum flux
-density of 1.2 T. if the emf per turn is 8, calculate (i) primary turns (ii) secondary
-turns (iii) cross sectional area of the core (iv) primary current (v) secondary
-current (vi) flux in the core
-
-Find the value of R. for maximum power transfer and find the maximum power
-transferred.
-
-f VN | -
-
-VON |
-Ls 6A
-so 1)
-|
-
-|
-
-L i i
-
-| 20V
-
-7 #
-
-Page 2 of 3
-
-[06]
-
-[06]
-
-[06]
-
-[06]
-
-[06]
-
-(06] ©
-
-[06]
---- page 3 ---
-Q.6
-
-b)
-
-Q7
-
-b)
-
-A steel ring of 30 cm mean diameter and circular cross section 2 cm in diameter
-has an airgap 1 mm long. It is wound with 600 turns of wire carrying 2.5 A
-current. The iron path takes 40 % of the total mmf. Find the mmf, flux, total
-reluctance and flux density.
-
-Two identical coils A and B, each having 2000 turns, lie in parallel planes such that
-70% of the flux produced in A links with B. A current of 4 A in coil A produces a
-flux of 0.06 mWb in it. If the current in coil A changes from +5A to -5A in 0.01 sec,
-what emf is induced in coil B? Also find the self-inductance of each coil and their
-mutual inductance.
-
-Explain the various types of DC motors along with their applications.
-Explain the working of a 3 phase induction motor with double revolving field
-theory.
-
-Page 3 of 3
-
-[06]
-
-[06]
-
-[06]
-[06]
-````
-
-## 2014-15 · Re-Exam · Sem 1 · paper 504415ad09dc
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic Electrical Engineering Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
-- Text: ocr (3 pages), mean OCR confidence 90.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ee a eS
-ii ao “9
-
-Programme: MBA Tech (All Streams) Year: I Semester: BE @ ENN
-(al i,
-Academic Year: 2015-16 iH at rt “hE
-‘ S i
-Batch: 2014-15 Na ag Ae
-Subject: Basic Electrical Engineering Marks: 60 une
-Time: 10.00 am™= pm
-Date: 10 June 2016 Duration: 3 Hrs
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Books, which is provided for their use.
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining six questions, attempt any four questions.
-3. Inall five questions to be attempted
-
-4. Answer to each new questions to be started on a fresh page.
-
-5. Assume suitable data if necessary with proper justifications. :
-Ql) Attempt ANY FOUR of the following:
-a) State and explain Kirchoff’s Laws. 03
-b) Define Frequency, Time Period & Amplitude w.r.t alternating quantity. 03
-c) Compare Electrical and Magnetic circuit. 03
-d) Explain in brief working of an ideal transformer. 03
-e) With neat diagrams classify different types of DC motors. 03
-
-Q2) a) Analyze the given circuit and evaluate the current flowing through 6Q 06
-resistor using Thevenin’s theorem.
-
-4}- VW
-v4
-
-| Qu ge aad a
-
-b) Evaluate the equivalent resistance Rap, Rap, Rac & Rag of the given circuit. 06
-
-Page 1 of 3
---- page 2 ---
-Q3) a) Analyze the given circuit and evaluate the current flowing through 6Q 06
-resistor using Superposition theorem.
-
-WAV NNN,
-5Q 6Q.
-$V Vv
-
-2Q
-
-4Q
-10
-
-30 4A dd)
-(t) 2A | 10V
-
-b) Consider a series RL circuit connected across a AC voltage source, derive the 06
-expressions for voltage and current for the circuit also draw phasor diagram
-with expression for phase difference, impedance and power of the circuit.
-
-Q4) a) Find Vayg and Vyms of the given waveform. 06
-
-Vm} -;
-
-0 ba 2x 3x
-
-b) A R-L-C series circuit with resistance of 10Q, inductance of 0.2H and 06
-capacitance of 40uF is supplied with the 100V supply at variable frequency,
-Find:
-i. Resonant Frequency
-ii. Current at resonance
-iii. Power
-iv. Power factor
-v. Voltage across R, L and C
-vi. Quality Factor
-vii. Bandwidth
-
-Q5) a) State and explain Faraday’s laws of electromagnetic induction also explain 06
-self and mutual inductance.
-b) Draw phase diagram for transformer at full load considering the losses. 06
-(Inductive load)
-
-Q6) a) Derive relationship between voltage and current for 3- phase star connected 06
-
-supply with balanced inductive load.
-b) Explain how rotating magnetic field is setup in 3 phase induction motor. 06
-
-Page 2 of 3
---- page 3 ---
-Q7) Attempt ANY THREE
-a) State Maximum power transfer theorem, also derive the condition for the 04
-
-same.
-b) State and explain all the advantages of three phase supply. 04
-c) Compare Ideal and Practical Transformer. 04
-d) Explain construction and working of a DC Motor. 04
-
-Page 3 of 3
-````
-
-## 2014-15 · Re-Exam · Sem 1 · paper b7004085530c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic Electrical Engineering Batch 2014-15 Re Exam_b700408553.pdf`
-- Printed on paper: exam date: 30/11/2015
-- Text: ocr (3 pages), mean OCR confidence 88.7
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC_ELECTRICAL_ENGINEERING_B_TECH_(ALL_STREAM)_RE_EXAM_BATCH 2013-14.pdf`
+- Printed on paper: duration hours: 3; exam date: 02/12/2014
+- Text: ocr (3 pages), mean OCR confidence 85.9
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (ALL STREAMS) Year: I Semester: I
-Academic Year: 2015 - 16
-Batch:2014-15
+Programme: B. Tech (All Streams) Year: | Semester: I
+Batch: 2013-2014
 
-Subject :Basic Electrical Engineering
+Academic Year: 2014-2015
 
-Date : 30/11/2015
+4 BF
+Subject: Basic Electrical Engineering Zoom NAS
+Marks: #7 8y100 \%
+Date: 02/12/2014 Time: 2.00 pm to'590
+Durations: 3 (hrs) + * ry
+ul 7 4 ‘
+Re-Examination iN a Mas NE
 
-Re-Examination
-
-Instructions: Candidate should read carefully the instructions provided on the question paper
-and on the cover of the answer book which is provided for their use.
-
+Instruction: Candidate should read carefully the instruction printed on the question paper an
+cover of the answer book, which is provided for their use.
 NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. Inall FIVE questions to be attempted.
-4. All questions carry equal marks.
+
+1. Question 1 is compulsory.
+
+2. Out of remaining questions attempt any FOUR questions.
+
+3.__Inall FIVE questions to be attempted.
+
+4. All questions carry equal mark.
+
 5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets indicate full marks.
-Q. 1. Attempt any four of the following. (2)
 
-a) For the circuit shown below, find the value of resistance R, when power consumed by
-12Q resistor is 36W.
+6. Figure in brackets indicates the marks for each question
 
-12 s2
-WAM a
-WWW NANA
-(S$
-WWM
+Qi | Attempt any Four of the following: [20]
 
-Sé~ Gov
-|'
-b) The equation of an alternating current is i= 62.35 sin 323t A. Determine (i) maximum
-value, (ii) frequency, (iii) rms value, (iv) average value, (v) form factor.
-c) Compare magnetic circuit with electric circuit.
+A_ | Explain how would you convert delta connected circuit to Equivalent star connected circuit | [5]
+with equal respective resistances.
 
-d) Derive the condition for maximum efficiency of 1® Transformer.
-e) Why 1® Induction motor is not self starting?
+B | State & Explain (i) Nortons Theorem (ii) Superposition Theorem [5]
+€ Explain parallel resonance and derive the expression of resonance frequency. [5]
+D__| Explain principle of operation of (i) Transformer (ii) three phase Induction Motor [5]
+E Find the equivalent resistance between A & B [5]
 
-Q. 2. Attempt the following.
-a) A current of 5 A flows through a non-inductive resistance in series with a choking coil
-supplied at 250 V, 50 Hz. If the voltage across the resistance is 125 V and across the coil
-200 V, calculate (i) Impedance, reactance, and resistance of the coil, (ii) Power absorbed
+Q2
 
-by the coil, (iii) Power factor of the coil. Also draw the phasor diagram. (6)
-b) State superposition theorem. Determine the current in 1Q resistor in the following
-network using superposition theorem. C6)
+[20]
+A
 
-1 |3
+[10]
 --- page 2 ---
-Was
+B Find the current through 2 ohm resistance using Superposition Theorem & Verify the result [10]
+using Thevenins Theorem.
 
-9 sz 2-2
+40V S 100 Vv
+T i T
+i
+| |
+Q3 [20]
+A Find Average value & RMS value of the following waveform. [10]
 
-- 4v jw OEn
+Vv
 
-Q.3. Attempt the following.
-a) Derive the relationship between line voltage and phase voltage, line current and phase
-current for a star connected balanced load across a 3® balanced system. Draw the
+Ver] NS ~ mw =
+L o' 2
+ol uM ‘ ——> ©
+B | Draw a Phasor diagram for the circuit shown below. Find the value of a) Current b) Voltage [10]
+Vi c) Voltage V2 and d) Power Factor
 
-complete phasor diagram. {&)
-b) The voltage of 150 V applied between terminals AB, produces a current of 32 A for the
-circuit shown below. Find the value of R and the power factor of the circuit. { 6)
-ree
-a
-R) elt doa
-B
-Q.4. Attempt the following.
-a) Explain with neat diagram the constructional details of DC Motor C6)
-b) By Thevenin’s theorem find the current in the 40 Q resistor in the network shown
-below. C6)
+10Q 0.05 H 209 O1H 50 uF
+WN 08 HT
+V ! Vo
 
-ee | Zoe
-Zon
+200 V, 50 Hz
 
-1h 2
+Q4 [20]
+A | Avoltage of 20025°v is applied toa circuit composed of two parallel branches. If the [10]
+branch currents are 10/40°A & 20/30 A. Determine KVA, KVAR, KW in each branch.
+Calculate power factor of combined load.
 
-Q.5. Attempt the following.
+ici
+B_ | Three equal impedances, each of 8+ j10 ohms, are connected in star, This is further [10]
+connected to a 440V, 50 Hz, Three phase supply, Calculate phase voltage, phase angle,
+Bas phase current, Line current, active power, Reactive Power.
+as [20]
+A_ | Explain open circuit & short circuit Test of single phase Transformer. [10]
 
-a) A voltage of v= 10 sin ot is applied to R-L-C circuit. At resonance frequency of the
-circuit, the maximum voltage across the capacitor is found to be 500 V. Moreover the
-bandwidth is known to be 400 rad/sec. and impedance at resonance is 100 Q. Find
-(i) The resonant frequency, (ii) Upper and lower limits of Bandwidth, (iii) Value of L
-and C, C6)
-
-E
+Q/g
 --- page 3 ---
-b) Derive the condition for maximum power transfer in a DC circuit. Calculate the value of
-Rx for it to absorb the maximum power and find out the maximum power in the circuit
+B_ | A10 KVA, 3300 V/240V single phase, 50 Hz Transformer has core area of 300 Sq.cm. Flux [10]
+Density is 1.3 T. calculate (i) No. of primary turns (ii) No. of secondary turns (iii) Primary full
+load current.
 
-given below. C6)
-4o 2 bo i.
-NAAN
+Q6 [20]
+A Draw & explain Phasor diagrams of Transformer on no load & on inductive load. [10]
+B How would you control speed of DC compound motor (i) Below normal speed (ii) Above [10]
 
-= Qo a
-\2o0NV 0 Ry
+normal speed.
 
-@.6. Attempt the foilowing.
-a. a) Compare Core type transformer with Shell type transformer (At least 4 points). A 80
-KVA, 3200/400 V, 1®, 50 Hz transformer has 111 turns on the secondary winding.
-Calculate (i) Number of turns on primary winding, (ii) Secondary full load current, (iii)
+Q7 | Attempt the following: [20]
+(i) Draw & Explain phasor diagram for series RLC circuit os}
+(a) for Xi >%e_(b) for Ke > Ky
+(ii) Compare Electric circuit & Magnetic circuit. [o6 j
+(iii) Justify why Induction Motor operates at a speed below synchronous speed? 06
 
-Cross-Sectional Area of the core, if maximum flux density is 1.2 Tesla. (6)
-b) Open circuit and short circuit test on a 55 KVA 200/400 V, 1, 50 Hz transformer gave
-the following results: (6)
+3/3
+````
 
-OC Test | 200 V | 1 A_ | 100 W | Carried on LV side
-SC Test | 15 V_ | 10 A | 85 W_| With Primary Short Circuited
+## 2014-15 · Re-Exam · Sem 1 · paper 3d7daa52147b
 
-(i) Draw the equivalent circuit referred to the primary,
-(ii) Calculate the approximate regulation of a transformer at full load 0.8 pf lagging.
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 10/06/2015
+- Text: ocr (3 pages), mean OCR confidence 88.7
 
-Q.7. Attempt the following.
+````text
+SVKM’s NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-a) A steel ring of 30 cm mean diameter and circular cross section 2 cm in diameter has an
-air gap 1 mm long. It is wound uniformly with 600 turns of wire carrying 2.5 A current.
-Find (i) Total MMF, (ii) Total Reluctance, (iii) Magnetic Flux. Neglect magnetic leakage.
-The iron path takes 40% of total MMF. C&)
+Programme: MBA Tech (ALL STREAMS) Year: Semester: I
+Academic Year: 2014-15
 
-b) A magnetic circuit is arranged as shown in the figure below. The central limb has a cross
-sectional area of 8 cm? and each of the side limbs has a cross sectional area of 5 cm?.
-Calculate the ampere-turns required to produce a magnetic flux of 1 mWb in the central
-limb assuming negligible magnetic leakage. H=500 AT/m at B=1.25 Wb/m? and
+Batch:2013-14
 
-H=200 AT/m at B=1 Wb/m? . C6)
-a a ae ron
-i | i
-O'"\ ory
-_ gi | Si
-| + | ¢!
-‘ , I5 crm 0,
-ps | o——+-P, i
-fon te - 2 Le
+Sage f as pay ay
+ject :Basic Electrical Engineerin 4 Marks:100°
+Subject :Basic Electric: gin: £ \ Biine : 10.00 4m to.4.00 pm
+Yarations:3 (hrs). .
+Re-Examination ~>( a
+
+Date : 10/06/2015
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB: 1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+*
+
+Ql) Attempt any four
+a) State and explain Kirchhoff’s voltage and current law. 05 marks
+b) List advantages of 3-phase system over 1-phase system 05 marks
+
+c) Define magnetic flux, magnetic flux density, permeability and 05 marks
+susceptibility.
+
+d) Compare ideal and practical transformer. 05 marks
+e) With neat figures classify different types of DC motors and give their 05 marks
+applications.
+Q2)
+a) Find the current through 10Q resistance using source transformation. 10 marks
+iQ IQ ASQ 52
+i ro 7
+| | |
+y 5 i]
+| | |
+— {oof
+
+b) RLC series circuit with resistance of 10 Q, inductance of 0.2H and 05 marks
+capacitance of 40F is supplied with the 100V supply at variable
+frequency. Find resonant frequency, current at resonance, power, power
+
+factor, voltage across resistor, inductor and capacitor, quality factor and
+bandwidth.
+
+c) Compare series and parallel resonance circuit. 05 marks
+
+Page I of 3
+--- page 2 ---
+Q3)
+a)
+b)
+
+Q4)
+a)
+
+b)
+
+c)
+
+Q5)
+
+a)
+
+b)
+
+Q6)
+
+b)
+
+¢)
+
+Explain the construction and working principle of a transformer and derive 10 marks
+the emf equation of the same.
+Explain the construction and working principle of a DC motor and derive 10 marks
+the emf equation of the same.
+
+Determine the current in 5ohm resistor using nortons theorem. 10 marks
+yy fe AOS YY yarat
+3 62 \
+2A
+GA(t sul z xem
+q
+}ON oe | Qs
+S li
+
+Give the differences between a core type and shell type transformers. How 05 marks
+the iron losses are minimized.
+
+An 80kVA, 3200/400 V, single phase, 50 Hz, transformer has 111 turns on OQ5marks
+the secondary winding. Calculate
+
+i) Number of turns on primary winding
+
+ii) Secondary full-load current
+
+iii) Cross-sectional area of the core, if the maximum flux density is
+1.2 tesla.
+
+Determine Thevenin’s equivalent across the terminals AB for the circuit 10 marks
+shown in figure below. B rated
+
+—o ae NS
+yov a .
+
+Draw the phasor diagram of a single phase transformer with load having a 10 marks
+leading power factor and explain.
+
+Evaluate Vavg and Vrms of the following diagram. 05 marks
+
+Draw the phasor diagram for star connected 3 phase supply with 05 marks
+capacitive load. :
+
+Explain the construction and working of a 3 phase induction motor and 10 marks
+explain how rotating magnetic field is set up.
+
+Page 2 of 3
+--- page 3 ---
+Q7)
+a)
+
+b)
+c)
+
+State faraday’s law of electromagnetic induction and explain in brief self 07 marks
+
+and mutual inductance.
+
+State and derive the condition for maximum power transfer. 07 marks
+AC voltage of (50+j20) V is applied to the RL Circuit the current is (2-j3) 06 marks
+A. Evaluate impedance, power consumed, and phase of the circuit and
+
+power factor.
+
+Page 3 of 3
 ````
 
 ## 2013-14 · Final-Exam · Sem 1 · paper 9e3c78f584b4
@@ -5006,126 +6402,6 @@ Q7:- Write short notes. (Any three) [20]
 (iv) AC through series RC circuit.
 ````
 
-## 2013-14 · Re-Exam · Sem 1 · paper 7e4b2b2d5159
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 10/06/2015
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) : Year: I Semester: I
-Batch: 2013-14
-
-Academic Year: 2014-2015
-
-oe itSTE 8 Nag
-Subject: Basic Electrical Engineering SN
-Marks:
-Date: 10/06/2015 Time:
-Durations:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-* 7) Assume Suitable data ifnecessary ,
-
-1. a. Compare series and parallel resonance circuit [05]
-b. Derive the emf equation for a single phase transformer [05]
-ccm Compare electric and magnetic circuits. [05]
-d. Explain why single phase induction motor is not self starting [05]
-2 a. Find the current through 5Q resistor using nodal analysis {10]
-3IL ees
-AWN
-DSL
-| 2oV |
-b. Find the current through 2Q resistor connected between terminals A and B using {10]
-Thevenins theorem.
-22 1 3
-A ¥
-; Vv
-; (2 SL 2SL “t
-2V
-6
---- page 2 ---
-7
-
-a.
-
-Explain the ac analysis of a series RC circuit and draw its phasor diagram,
-impedance triangle, voltage triangle, power triangle.
-
-A balanced three phase load connected in delta, draws a power of 10kW at 440 V
-at a power factor of 0.6 lead. Find the values of circuit elements and reactive volt-
-amperes drawn.
-
-Draw and explain the phasor diagram of a transformer, loaded with lagging power
-factor load.
-
-A 25kVA transformer has 500 turns on the primary winding and 50 turns on the
-secondary winding. The primary winding is connected to 3000V, 50 Hz supply. Find
-the full-load primary and secondary currents, the secondary emf and the
-maximum flux in the core. Neglect leakage drop and no-load primary current.
-
-Derive an expression for the ampere-turns required for a composite series
-magnetic circuit.
-
-The flux produced in the air gap between two electromagentic poles is 5x10 wb.
-If the cross sectional area of the air gap is 0.2 m” find (a) flux density (b) magnetic
-field intensity (c) reluctance (d) permeance and (e) mmf dropped in the air gap
-given the length of the air gap to be 1.2 cm.
-
-Find the current through 5Q resistor.
-
-A choke coil and a resistor are connected in series across a 230V, 50 Hz ac supply.
-The circuit draws a current of 2A at 0.866 lagging power factor. The voltage drop
-across the resistor is 100V. Calculate (i) resistance and inductance of the coil, (ii)
-power factor of the choke coil.
-
-Explain the construction and working principle of DC motor
-
-Explain star to delta and delta to star transformation in a DC circuit.
-
-[10]
-
-[10]
-
-{10}
-
-[10]
-
-{10}
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-````
-
 ## 2013-14 · Re-Exam · Sem 1 · paper 2a6db90c77f5
 
 - Departments: Common (all branches)
@@ -5275,254 +6551,6 @@ Xo x
 3[3
 ````
 
-## 2013-14 · Re-Exam · Sem 1 · paper a191b936a500
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 10 June 2016
-- Text: ocr (3 pages), mean OCR confidence 90.1
-
-````text
-SVKM’s NMIMS aan
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT GARE “
-A deat
-
-Programme: B.Tech (All Streams) Year: I ° Semester; a/ 4 PST mB yt ‘
-
-Academic Year: 2015-16
-
-| Batch: 2013-14 «
-
-1 Subject: Basic Electrical Engineering .
-
-Time: 2.00 -5,
-Date: 10 June 2016 Bes 8-00 pry
-
-Durations: 3 (hrs):
-
-Re-Examination
-
-NB:
-
-1. Question No. ONE is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. In all FIVE questions to be attempted
-
-4. All questions carry equa! marks.
-i 5. Answer to each new questions to be started on a fresh page
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1__| Attempt any Four [20]
-A Find the current in the 4 ohm resistance by source transformation | 05
-
-B State and prove maximum power transfer Theorem. 05
-
-Cc Derive the expression for the average value of a sinusoidal 05
-waveform. :
-
-D Draw the phasor diagram for Three phase balanced star connected | 05
-
-a load. Also state relation between its line and phase current
-E Derive-the expression for back emf of DC Motor. 05
-Q.2 | Attempt the following: [20]
-
-A Calculate the current flowing through 10 ohm resistance by Star- | 10
-
-Delta transformation.
-
-pISov
-+)
---- page 2 ---
-Calculate the Current flowing through 5 ohm resistance by Nodal | 10
-analysis.
-
-Q.3
-
-Attempt the following: [20]
-
-State Thevenin’s Theorem. Aliso find the current flowing through | 10
-the 30 ohm resistance by thevenin’s theorem.
-\Sue fone Zon
-
-ok ne
-
-Find the value of resistance Load resistance ( RL) formaximum | 10
-
-power transfer and calculate the maximum power.
-Jon
-
-+d. be bo
-T2N
-
-QA
-
-Attempt the following: [20]
-
-A 50 Hz sinusoidal voltage applied to a single phase circuit has an | 10
-RMS value of 200 V. Its value at t=0 is (V2 x 200) V positive.
-
-The current drawn by the circuit is 5 A (rms) and lags behind the
-voltage by one sixth of the cycle. Write the expression for the
-instantaneous values of voltage and current.
-
-A Choke coil and a resistor are connected in series across a 230 10
-V, 50 Hzac supply. The circuit draws a current of 2 A at 0.866
-lagging pf. The voltage drop across the resistor is 100 V .
-
-Calculate power factor of the choke coil.
-
-Q.5
-
-Attempt the following: [20]
-Pp g
-
-A Symmetrical three phase 400 V system supplies a basic load of | 10
-0.8 lagging power factor and is connected in star. If the line
-current is 34.64 A. Find the i) Impedance ii) resistance and
-
-2/s
---- page 3 ---
-_
-
-reactance per phase iii) total power and iv) total reactive volt-
-amperes.
-
-B What is leakage flux? Explain magnetic Hysteresis and hysteresis | 10
-loop with proper diagram.
-Q.6__| Attempt the following: [20]
-A Compare core type and Shell type transformer also Derive the 10
-expression for transformation ratio of single phase transformer.
-
-B A 250 KVA, single phase transformer has 98.135% efficiency at | 10
-full load and 0.8 lagging pf. The efficiency at half load and 0.8
-lagging pf is 97.751%. Calculate the Iron loss and full load copper
-loss.
-
-Q.7_| Write a short note on following: [20] 4
-A Functions of various parts of DC Machine. 06
-B Principle of operation Three phase induction Motor. 07
-Cc Concept of rotating magnetic field. 07
-````
-
-## 2013-14 · Re-Exam · Sem 1 · paper 767702e7f91e
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BASICS ELECTRICAL ENGINEERING/BASIC_ELECTRICAL_ENGINEERING_B_TECH_(ALL_STREAM)_RE_EXAM_BATCH 2013-14.pdf`
-- Printed on paper: duration hours: 3; exam date: 02/12/2014
-- Text: ocr (3 pages), mean OCR confidence 85.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: | Semester: I
-Batch: 2013-2014
-
-Academic Year: 2014-2015
-
-4 BF
-Subject: Basic Electrical Engineering Zoom NAS
-Marks: #7 8y100 \%
-Date: 02/12/2014 Time: 2.00 pm to'590
-Durations: 3 (hrs) + * ry
-ul 7 4 ‘
-Re-Examination iN a Mas NE
-
-Instruction: Candidate should read carefully the instruction printed on the question paper an
-cover of the answer book, which is provided for their use.
-NB:
-
-1. Question 1 is compulsory.
-
-2. Out of remaining questions attempt any FOUR questions.
-
-3.__Inall FIVE questions to be attempted.
-
-4. All questions carry equal mark.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicates the marks for each question
-
-Qi | Attempt any Four of the following: [20]
-
-A_ | Explain how would you convert delta connected circuit to Equivalent star connected circuit | [5]
-with equal respective resistances.
-
-B | State & Explain (i) Nortons Theorem (ii) Superposition Theorem [5]
-€ Explain parallel resonance and derive the expression of resonance frequency. [5]
-D__| Explain principle of operation of (i) Transformer (ii) three phase Induction Motor [5]
-E Find the equivalent resistance between A & B [5]
-
-Q2
-
-[20]
-A
-
-[10]
---- page 2 ---
-B Find the current through 2 ohm resistance using Superposition Theorem & Verify the result [10]
-using Thevenins Theorem.
-
-40V S 100 Vv
-T i T
-i
-| |
-Q3 [20]
-A Find Average value & RMS value of the following waveform. [10]
-
-Vv
-
-Ver] NS ~ mw =
-L o' 2
-ol uM ‘ ——> ©
-B | Draw a Phasor diagram for the circuit shown below. Find the value of a) Current b) Voltage [10]
-Vi c) Voltage V2 and d) Power Factor
-
-10Q 0.05 H 209 O1H 50 uF
-WN 08 HT
-V ! Vo
-
-200 V, 50 Hz
-
-Q4 [20]
-A | Avoltage of 20025°v is applied toa circuit composed of two parallel branches. If the [10]
-branch currents are 10/40°A & 20/30 A. Determine KVA, KVAR, KW in each branch.
-Calculate power factor of combined load.
-
-ici
-B_ | Three equal impedances, each of 8+ j10 ohms, are connected in star, This is further [10]
-connected to a 440V, 50 Hz, Three phase supply, Calculate phase voltage, phase angle,
-Bas phase current, Line current, active power, Reactive Power.
-as [20]
-A_ | Explain open circuit & short circuit Test of single phase Transformer. [10]
-
-Q/g
---- page 3 ---
-B_ | A10 KVA, 3300 V/240V single phase, 50 Hz Transformer has core area of 300 Sq.cm. Flux [10]
-Density is 1.3 T. calculate (i) No. of primary turns (ii) No. of secondary turns (iii) Primary full
-load current.
-
-Q6 [20]
-A Draw & explain Phasor diagrams of Transformer on no load & on inductive load. [10]
-B How would you control speed of DC compound motor (i) Below normal speed (ii) Above [10]
-
-normal speed.
-
-Q7 | Attempt the following: [20]
-(i) Draw & Explain phasor diagram for series RLC circuit os}
-(a) for Xi >%e_(b) for Ke > Ky
-(ii) Compare Electric circuit & Magnetic circuit. [o6 j
-(iii) Justify why Induction Motor operates at a speed below synchronous speed? 06
-
-3/3
-````
-
 ## 2013-14 · Re-Exam · Sem 1 · paper 15bc7b3e8b36
 
 - Departments: Common (all branches)
@@ -5636,519 +6664,7 @@ Ms K
 AX) 2
 ````
 
-## 2013-14 · Re-Exam · Sem 1 · paper 3d7daa52147b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 10/06/2015
-- Text: ocr (3 pages), mean OCR confidence 88.7
-
-````text
-SVKM’s NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: Semester: I
-Academic Year: 2014-15
-
-Batch:2013-14
-
-Sage f as pay ay
-ject :Basic Electrical Engineerin 4 Marks:100°
-Subject :Basic Electric: gin: £ \ Biine : 10.00 4m to.4.00 pm
-Yarations:3 (hrs). .
-Re-Examination ~>( a
-
-Date : 10/06/2015
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB: 1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-*
-
-Ql) Attempt any four
-a) State and explain Kirchhoff’s voltage and current law. 05 marks
-b) List advantages of 3-phase system over 1-phase system 05 marks
-
-c) Define magnetic flux, magnetic flux density, permeability and 05 marks
-susceptibility.
-
-d) Compare ideal and practical transformer. 05 marks
-e) With neat figures classify different types of DC motors and give their 05 marks
-applications.
-Q2)
-a) Find the current through 10Q resistance using source transformation. 10 marks
-iQ IQ ASQ 52
-i ro 7
-| | |
-y 5 i]
-| | |
-— {oof
-
-b) RLC series circuit with resistance of 10 Q, inductance of 0.2H and 05 marks
-capacitance of 40F is supplied with the 100V supply at variable
-frequency. Find resonant frequency, current at resonance, power, power
-
-factor, voltage across resistor, inductor and capacitor, quality factor and
-bandwidth.
-
-c) Compare series and parallel resonance circuit. 05 marks
-
-Page I of 3
---- page 2 ---
-Q3)
-a)
-b)
-
-Q4)
-a)
-
-b)
-
-c)
-
-Q5)
-
-a)
-
-b)
-
-Q6)
-
-b)
-
-¢)
-
-Explain the construction and working principle of a transformer and derive 10 marks
-the emf equation of the same.
-Explain the construction and working principle of a DC motor and derive 10 marks
-the emf equation of the same.
-
-Determine the current in 5ohm resistor using nortons theorem. 10 marks
-yy fe AOS YY yarat
-3 62 \
-2A
-GA(t sul z xem
-q
-}ON oe | Qs
-S li
-
-Give the differences between a core type and shell type transformers. How 05 marks
-the iron losses are minimized.
-
-An 80kVA, 3200/400 V, single phase, 50 Hz, transformer has 111 turns on OQ5marks
-the secondary winding. Calculate
-
-i) Number of turns on primary winding
-
-ii) Secondary full-load current
-
-iii) Cross-sectional area of the core, if the maximum flux density is
-1.2 tesla.
-
-Determine Thevenin’s equivalent across the terminals AB for the circuit 10 marks
-shown in figure below. B rated
-
-—o ae NS
-yov a .
-
-Draw the phasor diagram of a single phase transformer with load having a 10 marks
-leading power factor and explain.
-
-Evaluate Vavg and Vrms of the following diagram. 05 marks
-
-Draw the phasor diagram for star connected 3 phase supply with 05 marks
-capacitive load. :
-
-Explain the construction and working of a 3 phase induction motor and 10 marks
-explain how rotating magnetic field is set up.
-
-Page 2 of 3
---- page 3 ---
-Q7)
-a)
-
-b)
-c)
-
-State faraday’s law of electromagnetic induction and explain in brief self 07 marks
-
-and mutual inductance.
-
-State and derive the condition for maximum power transfer. 07 marks
-AC voltage of (50+j20) V is applied to the RL Circuit the current is (2-j3) 06 marks
-A. Evaluate impedance, power consumed, and phase of the circuit and
-
-power factor.
-
-Page 3 of 3
-````
-
-## 2013-14 · Re-Exam · Sem 1 · paper 51945c6ac560
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING Batch 2013-14 Re Exam.pdf`
-- Printed on paper: exam date: 30/11/2015
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year:I Semester: I
-Academic Year: 2015 - 16
-Batch:2013-14
-
-Subject :Basic Electrical Engineering
-
-Date : 30/11/2015
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary
-
-1. a. Explain the significance of back emf in a dc motor. [05]
-b. Explain the various types of losses in Transformer [05]
-c. Compare star and delta three phase AC circuits. [05]
-d. Draw and explain Hysteresis loop. [05]
-2 a. Find current through 15 © using nodal anlysis. [10]
-
-OAT To
-O
-
-ony | lot Sion
-
-b. Find the current through 400 resistor using Thevenins theorem. [10]
-50 10SL
-ose = 30
-
-2SV |
-
-i/o
---- page 2 ---
-7
-
-a.
-
-y
-Explain the ac analysis of a series RL circuit and draw its phasor diagram, impedance
-triangle, voltage triangle, power triangle.
-
-Three similar coils, each of resistance 8O and inductance 0.02 H, are connected in star
-actoss a three-phase 50Hz, 230V supply. Calculate the line current, total power
-absorbed, reactive volt amperes and total volt amperes.
-
-Explaint the construction and working of a single phase transformer
-
-A. 80 kVA, 3200/400 V, 50 Hz, single phase transformer has 111 turns on the
-secondary winding. Calculate (i) number of turns on primary winding (ii) secondary
-full load current and (iii) cross sectional area of the core, if the maximum flux density
-
-is 1.2 tesla.
-Define magnetic circuit and compare electric and magnetic circuit.
-
-A ring has mean diameter of 15 cm, a cross section of 1.7 cm’ and has a radial gap of
-0.5 mm init. It is uniformly wound with 1500 turns of insulated wire and a current of
-1A produces a flux of 0.1 mwb across the gap. Calculate the relative permeability of
-iron on the assumption that there is no magnetic leakage.
-
-Find current through 2Q resistor.
-
-Qf.
-. j2f. DSL
-6A 2 62- q
-T3ev | J ¥
-
-A resistor of 25 Q is connected in series with a choke coil. The series combination
-when connected across a 250V, 50 Hz supply, draws a current of 4A which lags behind
-the voltage by 65°. Calculate (i) resistance and inductance of the coil (ii) total power
-(iii) power consumed by resistance and (iv) power consumed by choke coil.
-
-Write short note on
-Single phase induction motor
-
-State maximum power transfer theorem and derive the same.
-
-He
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-
-{10}
-
-[10]
-
-[10]
-
-[10]
-````
-
-## 2012-13 · Re-Exam · Trim 1 · paper d75f2b7651c0
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2011-12, 12-13 RE EXA0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 21 June 2016
-- Text: ocr (3 pages), mean OCR confidence 85.9
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technolo;
-
-Programme: _B. Tech (All Streams) Year: I Trimester: I
-
-Academic Year : 2015-2016
-
-Batch: 2011-12/2012-13
-Subject: Basic Electrical Engineering Marks: 100
-
-. Time: 10.00 am - 1.00 pm
-Date: 21 June 2016 Duration: 3 hrs.
-
-Re - Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-Om 3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data, if required.
-
-Q.1.a) Explain with units of Work, Power & Energy giving suitable example each. 5
-
-b) Explain the concept of time constant in R-C circuit. 5
-
-c) Derive the condition for maximum power transfer in a resistor from practical voltage 5
-source,
-
-d) Explain with neat phasor diagram which three phase connection gives higher power if 5
-
-three identical impedance connected in
-a) Star or b) Delta
-
-Q.2a) Find current through 10 O resistance using Thevenin’s Theorem 8
->
-Ra
-20
-ANN
-Rt
-R2 Q): Ra
-10n CASA $a
-v
-wv
-——
-Be b) Deduce the relationship between phase and line quantities (voltage, current, power) inthe 12
-circuit of three phase star connected system. Also draw Phasor diagram.
---- page 2 ---
-Q.3a)
-
-b)
-
-Q.4 a)
-
-b)
-
-Q.5a)
-
-Using superposition theorem find current through 100 resistance
-
-R3
-20
-RI
-10
-R2 1 Sat
-wo 4A 50
-
-v
-0V¥
-
-An inductor having a resistance of 25 Q and Qo of 10 at resonant frequency of
-10KHz is fed from 100V supply. Calculate
-
-i. Value of series capacitance required to produce resonance with the coil
-ii. The inductance of the coil
-iii, Qousing L/C ratio.
-iv. Voltage across capacitor
-v. Voltage across coil.
-
-Using Nodal Analysis get current through 10 2 resistance
-
-R3
-22
-J Wy
-RI
-in
-
-$8 @): Ra
-100 «JA 52
-
-10
-
-A load test is conducted on 11K VA, 230/115v, 50Hz Single Phase transformer using lamp
-load. Following are the result that obtained at a particular load condition.
-
-Primary side Secondary side
-Vi oi Wi V2 12
-230V 402A 846W 111.5V TSA
-
-If no load secondary voltage is observed to be 114V, find efficiency and regulation of a
-transformer at a given load condition.
-
-Explain with neat diagram, construction and working of permanent magnet moving coil
-instrument.
-
-%
-
-12
-
-12
---- page 3 ---
-b) Explain construction and working of D.C Machine.
-c) Define Resistance Temperature coefficient. Derive Equation for RTC.
-
-Q.6a) State four conditions under which series RLC circuit in electric resonance.
-b) Find the R.M.S. value for the given waveform.
-
-v Vv Sinusoidal nature
-0.866 V.}----
-a 1/2 n 0
-
-c) Find Rag for the given circuit
-
-RS RE R?
-
-40 410 200
-MWA Way WA
-so 2% 2%. Zt
-A
-Q VW vA Vv
-Re RS Ri0 |
-8O reel 112
-
-Q.7.a) Explain why single phase induction motor is not self-starting.
-
-b) Explain the significance of back EMF in DC motor.
-
-c) Two coils are connected in series across a 200V, 50Hz AC supply. The power _
-input to the circuit is 2kW and 1.1 Kvar. If the resistance and reactance of the first
-coil are 5 Q and 8 Q respectively, Calculate the resistance and reactance of the
-second coil. Calculate the active power and reactive power for both the coils
-respectively.
-
-’
-
-2
-````
-
-## 2012-13 · Re-Exam · Trim 1 · paper 68c0dda90515
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/Basic Electrical Engineering Batch 2012-13 Re Exam (1).pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3; exam date: 12/6/2013
-- Text: text (3 pages)
-
-````text
-.   .   ] -;&:, :': !.'d-,m-7
-. ,*I.>. ....   . -.   .   . . . - .- -.-- .   7
-'?   ' ',   - .;! # ~ i . ' , . ~ ~ . ~ ' ~ ~ + . - , ,
-hogramme:
-Academic Year :2012-2013
-B a t h   2012-2013
-Subject:   Basic Electrical Engineering
-Date:   12/6/2013   Duration: 3 hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-NB:   . . -- - . - . . . ,   .
-1.   Questiofi no. 1is compulsory.   ,,   . . . .- -. =   -   ~
-2.   Out of remaining questions,attempt any 4 questions.   .   . .   . . ...
-3.   In all 5 questions to be attempted.
-4.   All questions carry equal marks.   .   1
-5.   . Answer to each new question to be started on a fresh page.
-6.   Figure in brackets on the right hand side carry equal marks.
-I   I through inductor, find current at t =0.3 sec.   ;i + i   I   1
-I
-~ ---
-B   Calculate the effective resistance between points A & B.   10
-3 8
---- page 2 ---
-Q3 A   Find power delivered by 50 volts supply.   I :\
-110
-B   Define form factor & crest factor? Draw the vector diagrams & impedance triangle for 10
-R-L, R-C & RLC series circuits.
-44 A   A 20 Ohm resistor is connected in serieswith an inductor, a capacitor and anammeter 10
-across 25 volts variable frequency supply. When frequency is 400 Hz, the current is at
-its maximum value of 0.5 A and potential difference across capacitor is 150volts.
-Find capacitance of capacitor and resistance, inductance of Inductor.
-B   For the given circuit fmd the value of load resistance for maximum power transfer and 10
-calculate maximum power.
-L
-Q5 I / A   I Find current through24 a husi:~g Theveds The~rern.   I 10
---- page 3 ---
-B   , Staterelations between line &phase voltage, cmnt &threephasepowerin star   10
-conuectedsystem? Three inductivecoils each withthe resistance of 15ohm &an
-inductance of 0.03 H are:eonnestedin star &then in Debto athreephase, 400 V, 50
-Mz Supply. Calculatefor each oftheabove case (i) phase ~wnont& Sine w e n t (i
-I   phase voltage $limevoltage (i) Total power absarbed.
-46 A D e b magnetic field stten@, leakageflux &Explainhysteresisloop wifh practical 10
-I   I cirouit diagram.   1
--, .   I B   1 A st& ringof 25 cmmean diameter & of chular section3 cm in diameterb anair. 1 10
-gap of 1:5mm length.It is wound uniformly with 700 turnof wire carryingacurrent
-of 2 amp. Calculate (i)mmf(5) airgap flux density (i)magnetic flux ($led
-1   magneticleakageLassume that iron pa& E&es about 35% of totalmagrmetornotive   1
-I   force)
-47 A   DaFive expressionfor EMF equationof singlephasetmmfomer? Compare wretype   10
-1   Bt shdtypefransfontler?
-B   Calculatetheefficiency of transformer at MI load Lhalfload at i)unity pf (ii) 0.71   10   -
-pf lagging for 80 kVG, 110lX?50V, 50-   sin& &we tmdormer whoselossesetre   * .
-asfoll~ws:iron losses =800 W 62 Total capper losseswith 160A in low ~oltage
-````
-
-## 2012-13 · Re-Exam · Trim 1 · paper 537030d937d2
+## 2013-14 · Re-Exam · Trim 1 · paper 537030d937d2
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -6295,7 +6811,7 @@ Explain the construction and working of a PMMC type voltmeter
 10
 ````
 
-## 2012-13 · Re-Exam · Trim 1 · paper f0988ad877b5
+## 2013-14 · Re-Exam · Trim 1 · paper f0988ad877b5
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -6420,6 +6936,651 @@ Page 2 of 3
 3) Discuss series Resonance Circuit
 
 Page 3 of 3
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper 3c34ae2dfe56
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/scan0003(8).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
+- Text: ocr (3 pages), mean OCR confidence 89.6
+
+````text
+~ SVKM’s NMIMS
+‘ Mukesh Patel School Of Technology Management & Engineering
+Program B.Tech- All streams Year: I Trimester: I
+Academic Year : 2012-2013
+
+Subject: Basic Electrical Engineering Marks: 100
+Time: 2.00 pm To 5.00 pm
+Date: 29/10/2012 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions provided on the question
+paper and on the cover of the answer book which is provided for their use.
+NB:
+
+1. Question no. 1 is compulsory.
+
+2. Out of the remaining questions, attempt any FOUR.
+
+3. Inall FIVE questions to be attempted.
+
+4. Figure in brackets indicate full marks.
+
+Q.1. Attempt any four of the following. [20]
+
+a) State and explain the following theorems: 1) Norton’s theorem
+2) Maximum power transfer theorem
+
+b) It is required to operate a geyser of 2KW. At an initial temperature of 20°C, a voltage
+200V is necessary. After some time, a voltage of 225V is necessary to maintain the
+same power. Estimate the temperature attained by the coil. Assume ao = 0.006/°C.
+
+c) Derive the equation for the average and rms values of a half wave rectified
+voltage waveform.
+
+d) Derive the emf equation of a single phase transformer:
+
+e) A capacitor is charged from a dc source through a resistor of 500K. If the voltage
+
+| across the capacitor reaches 75% of its initial value in 0.5 sec, find the capacitance.
+
+Q.2.
+
+a) In the figure given below, replace the network to the left of the terminals [10]
+a-b by its Thevenin’s equivalent circuit and hence find current I.
+
+6 iL. 2 a
+AN > - ba
+j }
+get - yr
+-| if. & ; = => lo
+
+20V
+
+os _
+--- page 2 ---
+b) Find the equivalent resistance between terminals A-B of the network shown
+using star-delta transformation. |
+
+tA | Wh
+Bye 2
+
+A
+
+WW
+$fU 6 2
+
+Tadks 4
+
+= 4
+Q3: %
+
+a) Find the current in the 4Q resistance using Superposition theorem for the
+figure shown below.
+
+5k G)
+
+}
+b) An ac circuit consists of a pure resistance and an inductive coil connected
+in series. The power dissipated in the pure resistance and in the coil are 1000W
+and 200W respectively. The voltage drops across the resistance and the coil are
+200V and 300V respectively. For this circuit, draw a neat ai ae indicating
+all the relevant parameters, and calculate
+1) value of the pure resistance 2) current through the circuit
+3) resistance of the coil 4) reactance of the coil
+} 5) impedance of the coil 6) total impedance of the circuit
+* 7) supply voltage
+
+oat
+
+_a) A series RLC circuit with a resistance of 10 Q, inductance of 0.2 H and a
+capacitance of 40 uF is supplied with a 100V ac supply. Find the following with
+respect to the series resonant circuit:
+
+1) the frequency at resonance 2) current 3) power
+
+[10] |
+
+nn
+
+[10]
+
+[10]
+
+4) power factor 5) voltage across R, L&C 6) quality factor of the circuit
+
+b) Derive the relation between line and phase quantities for a 3 phase balanced
+star connected load. Draw the complete phasor diagram for a lagging power
+factor load.
+
+—23 —
+
+[10]
+--- page 3 ---
+@5.
+a) A load test is conducted on a 2 KVA, 220 V/110 V, 50 Hz single phase [10]
+
+transformer using resistive load. Following are the results obtained at a particular
+load condition: $
+
+Primary side Secondary side
+Vi i, W, V2 lL W2
+220 V 4.5A 866W 102V 8A -
+
+If the no-load secondary voltage is 108V, calculate the efficiency and regulation of the
+transformer at the given load condition.
+
+b) Derive the expression for the energy stored in an inductor. [10]
+Q.6.
+a) An iron ring has a cross-section of 3 cm’ and a mean diameter of 25 cm. [10]
+
+An air-gap of 0.4mm has been cut across the section of the ring. The ring is wound
+with a coil of 200 turns through which a current of 2A is passed. If the total
+magnetic flux is 0.24 mWb, find the relative permeability of iron.
+
+b) State and explain Steinmetz Law. Calculate the energy lost per second by [10]
+hysteresis in an iron armature weighing 50.86 kg , the frequency being 50Hz,
+flux density being 0.3 Wb/m’, the hysteresis coefficient being 376.8 J/m? and
+the density of the armature iron being 7.75.
+
+Q.7. Write short notes on the following: [20]
+
+a) Resonance in parallel ac circuits
+b) Open Circuit and Short Circuit tests of a transformer
+
+Siz.
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper b2e63bd3b189
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/scan0009(9).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
+- Text: ocr (2 pages), mean OCR confidence 84.5
+
+````text
+(alex
+
+SVKM’s NMIMS nrek SCHoS
+Mukesh Patel School of Technology Management & Engineerin: SS ee ge a
+& a
+
+Programme: B.TECH -ALL STREAM Year: I Trimester: I
+
+Academic Year : 2012-2013 NMIMS University \*
+Batch: 2011-12 Mumba 50, Ja |
+Subject: BASIC ELECTRICAL ENGINEERING Marks: 100 at “ye y
+~S
+. Time: 2.00 pm F500 m se
+. a Y pr v7, %
+Date: 29/10/2012 Duration: 3 hrs. < manngewe
+
+Re - Examination
+
+Instructions : Candidates should read carefully the instructions printed on the question
+‘ paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. | is compulsory.
+
+2. Out of the remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted. -
+
+4.. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicate full marks.
+
+Ql. (a) What is the difference between electric motor and electric generator? . [5]
+
+- Ql. (b) Calculate the energy stored in an inductor of inductance 50 mH when {5]
+acurrent of 2 A is passed through it.
+
+Ql.(c) _ Ifthe length of a wire of resistance R is uniformly stretched 4 times its [5]
+original value, find the new value of resistance.
+Qi.(d) In an RLC series circuit, the voltage across the resistor, inductor and (5]
+
+capacitor are 10V, 15V and 12V respectively. What is the value of the °
+supply voltage?
+
+Q2. (a) State all possible source of errors that are involve in watt-hour metet [6]
+. and show how these are minimized in practice.
+
+Q2.(b) The voltage applied to a circuit is v = 100 sin (@t+30°) and the current [6]
+flowing in the circuit is i =15 sin’ (wt+60°). Determine impedance,
+resistance, reactance, pf and power.
+
+Q2.(c) Derive the phase relationship between voltage and current for a RC [8]
+series circuit. Draw the impedance and power triangle and derive the
+
+“J expression for active, reactive and apparent power.
+
+Q3.(a) Find the average and rms value of the waveform given in Fig. § [6]
+
+2
+--- page 2 ---
+Q3. (b)
+
+Q3. (¢)
+
+Q4. (a)
+
+Q4. (0)
+
+aaa
+
+Q4. (c)
+
+QS. (a)
+QS. (b)
+Q5. (©)
+Q6. (a)
+
+Q6. (b)
+Q6. (c)
+
+The shunt winding of the motor has a resistance of 80 Q at 15°C. Find
+its resistance at 50°C. Resistance temperature coefficient of copper is
+~ 0.004/°C at 0°C.
+
+A 60 Hz sinusoidal current has an instantaneous value of 7.07A at t=0
+and rms value of 10/24. Assuming current wave to enter positive
+half at t=0, determine. (i) expression for instantaneous current (ii)
+magnitude of current at t=0.0125 sec (iii) magnitude of current at
+t=0.025 sec after t=0.
+
+For the circuit shown in Fig. 2, find the current flowing through 10 Q
+resistor using Norton’s theorem.
+
+QR 2 [av
+oye
+
+Ni
+20V So. 10-2
+
+52 . Rips? =
+
+For the circuit shown in Fig.4, find the value of R, for maximum
+power and calculate maximum power.
+
+LL 12
+
+RL
+
+22
+ES Ay 8
+
+For the circuit shown in Fig. 4, determine, a 00SH. 202 OH
+(i) Circuit current
+
+ZA
+
+50
+
+[6]
+
+[8]
+
+[6]
+
+[6]
+
+pF
+[8]
+
+(ii) Voltage drops, V1 and V2 | <“vV - <— yw,”
+nN
+
+()
+
+* : 200V,, SOH
+Derive the emf equation for single phase transformer. Explain the
+different types of losses that occur in a single phase transformer.
+
+Discuss voltage and current relationships for different types of
+generators. Also discuss its applications. ;
+
+A 300: kVA, single phase transformer has a percentage resistance of
+1.5% and maximum efficiency occurs at a load of 173.2 kVA. Find
+the efficiency at full load anf 0.8 lagging pf. ;
+
+_Sketch the circuit of an electro-mechanical ammeter, and briefly
+explain its operation. Comment on the resistance of an ammeter.
+
+Explain ways to make a single phase induction motor self starting.
+
+Derive the relation for quality factor of a series RLC circuit. Also
+discuss the behaviour of R, L and C with change in frequency on the
+
+nature of the circuit and pf.
+vf
+2
+
+[6]
+[6]
+[8]
+[6]
+[6]
+[8]
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper 071913a04463
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/BASIC ELECTRICAL ENGINEERING/scan0015(6).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 86.8
+
+````text
+SVKM’s NMIMS OoOLS”
+Mukesh Patel School of Technology Management & Engineering ;
+Programme: MBA (TECH) -ALL STREAM Year: I Trimester: I
+
+Academic Year : 2012-2013
+
+2.
+
+Batch: 2011-12 re aN
+
+Subject: BASIC ELECTRICAL ENGINEERING Marks: 100 = fadiies Lrrodewia i
+: ~ Time: 10.00 Mumbai - 56,
+
+ad 29/10/2012 Duration: 3 hrs. tooo MBRARY
+
+- Re - Examination
+
+bs) aN
+
+'Y
+
+<“y &
+Sinus
+
+N.B: 1. Question No.1 is compulsory
+2. Out of remaining questions, attempt any 4 questions
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume suitable data whenever required but justify the same.
+
+1. Attempt any five of the following: - [20]
+
+(a) Define cycle, time period and phase.
+(b) The resistance of a coil of wire increases from 800 at-10° C to 96.6Q at 60° C
+Find the temperature coefficient of the material. :
+
+(c) State and explain Norton’s theorem, Explain analogy of Thevenins and
+Nortons Theorm
+
+(d) Explain different torque available in indicating types: of instruments
+
+(e) Find equivalent resistance between A and B.
+
+VV
+A {72
+a a
+Qo ),, fs 6D
+Vv AWMMA——]
+252 1
+S31 Yr
+
+——————_—_ wn
+
+p>
+
+2. (a) For the circuit shown find R, such that the maximum power delivered to Rr,
+j also calculate the power delivered to Ry, and power dissipated in 1KO resistance. [10]
+
+v ) 4K 3mA
+
+, z
+eT 1K RL
+
+ae |
+--- page 2 ---
+(b)Find Vab using nodal analysis ; [10]
+et Be | Bie
+
+AWA +. 2A 4
+Ok -
+4+
+4+
+
+\vou. — vin an =
+
+Sou
+
+3. (a) Apply Superposition theorem to compute current in the 4 Q resistor of fig. [10]
+given below.(All the resistors are in ohms)
+
+(b) Deduce the relationship between phase and line quantities (voltage, current, [10]
+Power) in the circuit of a three phase star connected system. Also draw
+Phasor diagram.
+
+4.(a) A 400K VA transformer has primary winding resistance of 0.5Q and secondary
+winding resistance of 0.001Q. The iron losses is 2.5kw.Primgary and secondary
+voltage are 5kV and 230V Resp. If the power factor of the load is 0.85
+determine the efficiency of Transformer a) On full Load. b) On half load [10]
+
+\b) ‘A switch in following circuit open for long time, at t=Oit is closed i) Calculate
+Vcat 2msec after switch is closed. ii)If the switch is now kept closed for long
+time find Vc 2msec after it is suddenly open. [10]
+--- page 3 ---
+5. (a) Explain with neat diagram construction and working of permanent magnet [10] |
+moving coil instrument. What are the advantages of these instruments?
+
+(b) Explain construction & working of D.C. machine. [10]
+
+6.(a ) Explain R-L & R-C series circuit with its vector diagram & waveforms. [10]
+
+(b) A choke coil of 10 ohm resistance and 0.1 Henry inductance is connected in series
+with capacitor of 200 microfarads capacitance. Calculate the current, the coil voltage and
+the capacitor voltage. The supply voltage is 230 V at 50 Hz. At what frequency the circuit
+resonate? Calculate the voltage at resonant frequency across the coil and capacitance. For
+this assume supply voltage is 230V of variable frequency. [10]
+
+7. Write short notes on(Any twe): - [20]
+
+(a) concept of rotating magnetic field.
+(b) Star- Delta transformations
+(c) Back Emf.
+
+a ns © ed
+
+a
+
+fs
+````
+
+## 2012-13 · Re-Exam · Trim 1 · paper 68c0dda90515
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/Basic Electrical Engineering Batch 2012-13 Re Exam (1).pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 12/6/2013
+- Text: text (3 pages)
+
+````text
+.   .   ] -;&:, :': !.'d-,m-7
+. ,*I.>. ....   . -.   .   . . . - .- -.-- .   7
+'?   ' ',   - .;! # ~ i . ' , . ~ ~ . ~ ' ~ ~ + . - , ,
+hogramme:
+Academic Year :2012-2013
+B a t h   2012-2013
+Subject:   Basic Electrical Engineering
+Date:   12/6/2013   Duration: 3 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+NB:   . . -- - . - . . . ,   .
+1.   Questiofi no. 1is compulsory.   ,,   . . . .- -. =   -   ~
+2.   Out of remaining questions,attempt any 4 questions.   .   . .   . . ...
+3.   In all 5 questions to be attempted.
+4.   All questions carry equal marks.   .   1
+5.   . Answer to each new question to be started on a fresh page.
+6.   Figure in brackets on the right hand side carry equal marks.
+I   I through inductor, find current at t =0.3 sec.   ;i + i   I   1
+I
+~ ---
+B   Calculate the effective resistance between points A & B.   10
+3 8
+--- page 2 ---
+Q3 A   Find power delivered by 50 volts supply.   I :\
+110
+B   Define form factor & crest factor? Draw the vector diagrams & impedance triangle for 10
+R-L, R-C & RLC series circuits.
+44 A   A 20 Ohm resistor is connected in serieswith an inductor, a capacitor and anammeter 10
+across 25 volts variable frequency supply. When frequency is 400 Hz, the current is at
+its maximum value of 0.5 A and potential difference across capacitor is 150volts.
+Find capacitance of capacitor and resistance, inductance of Inductor.
+B   For the given circuit fmd the value of load resistance for maximum power transfer and 10
+calculate maximum power.
+L
+Q5 I / A   I Find current through24 a husi:~g Theveds The~rern.   I 10
+--- page 3 ---
+B   , Staterelations between line &phase voltage, cmnt &threephasepowerin star   10
+conuectedsystem? Three inductivecoils each withthe resistance of 15ohm &an
+inductance of 0.03 H are:eonnestedin star &then in Debto athreephase, 400 V, 50
+Mz Supply. Calculatefor each oftheabove case (i) phase ~wnont& Sine w e n t (i
+I   phase voltage $limevoltage (i) Total power absarbed.
+46 A D e b magnetic field stten@, leakageflux &Explainhysteresisloop wifh practical 10
+I   I cirouit diagram.   1
+-, .   I B   1 A st& ringof 25 cmmean diameter & of chular section3 cm in diameterb anair. 1 10
+gap of 1:5mm length.It is wound uniformly with 700 turnof wire carryingacurrent
+of 2 amp. Calculate (i)mmf(5) airgap flux density (i)magnetic flux ($led
+1   magneticleakageLassume that iron pa& E&es about 35% of totalmagrmetornotive   1
+I   force)
+47 A   DaFive expressionfor EMF equationof singlephasetmmfomer? Compare wretype   10
+1   Bt shdtypefransfontler?
+B   Calculatetheefficiency of transformer at MI load Lhalfload at i)unity pf (ii) 0.71   10   -
+pf lagging for 80 kVG, 110lX?50V, 50-   sin& &we tmdormer whoselossesetre   * .
+asfoll~ws:iron losses =800 W 62 Total capper losseswith 160A in low ~oltage
+````
+
+## 2012-13 · Re-Exam · Trim 1 · paper 0bdab0c033b6
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING I MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/6/2013
+- Text: ocr (3 pages), mean OCR confidence 87.1
+
+````text
+N\ SVKM’s NMIMS
+Mukesh Patel School of Technolo:
+
+Programme:* MBA-Tech-(ALL STREAMS) Year: | Trimester:
+Academic Year : 2012-2013
+
+S
+Batch: 2011-2012 Nii acne hae,
+AS i agit
+Subject: Basic Electrical Engineering Marks: 100 URE A
+Time: 10.00 am To 1.00 pm
+Date: 12/6/2013 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures to the right indicate full marks.
+
+Q1.Attempt any four questions.
+(a) Differentiate Active & Passive elements, voltage & current sources. (5)
+(b) Why does transformer have an iron core? (5)
+(c) The equation for a voltage wave is v=0.02sin (4000t+ 30.8 ind the frequency,
+instantaneous voltage when t=320 1 sec. What is the time represented by 3(Pohase
+
+difference? (5)
+(d) Explain RMS value. Prove that the rms value of half rectified sine wave is half of its peak
+value. (5)
+(e) State various types of applications of DC motor. (5)
+
+} 2. (a) The impedance ofa circuit is placed across a 120V, 50 Hz source is (10 +j20).Find
+current and the power. (10)
+(b) Discuss variation of following quantities with frequency for a series circuit above and
+below the resonance conditions? (i) Circuit impedance (ii) phase angle (iii) current (iv) X,(v) Xe
+(vi) X,-Xe (10)
+
+Q3. (a) Obtain Norton’s equivalent network as seen by R,. (10)
+
+QoL AV \owe-
+
+RL
+NV
+at 60 ar
+
+/3
+--- page 2 ---
+(b)Analyze the circuit by mesh method. And from result, find the current in 5 Q resistance. (10”
+
+6 GQ—
+
+ha [ov
+
+j2ve
+
+Q4. (a) For the circuit shown, find the value of the resistance Ry for maximum power and
+calculate the maximum power. (10)
+
+lore
+ot 4 ip of 6h
+(b) Find the average value and the RMS vaiue of current wave.
+
+praia : i
+20 e at 60 ¢ (me
+ie) a0 3 a (ma)
+
+(10)
+
+Q5. (a) In the circuit of fig. the switch S has been in position | for a very long time.It is thrown
+to position ‘2’ at t=0.
+(i) Find i(t) for t > 0.
+di
+
+(ii) Find VL), Vi(0"), and (0+) (10)
+--- page 3 ---
+(b) Explain the working principle of transformer. What is the significance of rating of
+transformer? Derive the EMF equation of transformer. (10)
+
+Q6. (a) Derive voltage, current and power relations in a balanced star connected & balanced
+delta connected load. (10)
+
+(b) A 415-V,50-Hz,3 phase voltage is applied to the three star-connected identical
+impedences.Each impedance consists of a resistance of 15 Q,a capacitive of 177uF and an
+inductance of 0.1H in series. Find the (i) phase current (ii) line current iii) power factor iv) active
+power v)reactive power and vi) total VA.Draw a neat phasor diagram. If the same impedances
+are connected in delta, find the line current and the power consumed.
+
+(10)
+
+Q 7.(a) Derive an expression for resonant frequency and quality factor for a parallel resonant
+circuit. Also discuss the resonance curve. (10)
+(b) Write short notes on (10)
+
+GQ) Werking of Single phase induction motor & concept of back EMF
+(i) Type of losses in transformer
+(iii) Construction of DC machine
+
+¥
+
+3/3
 ````
 
 ## 2012-13 · Re-Exam · Trim 1 · paper daca42e952e2
@@ -6669,6 +7830,460 @@ Q6.(a) Write short notes on- {20|
 (iii) Double field revolving theory
 
 a!
+````
+
+## 2011-12 · Re-Exam · Trim 1 · paper 6dbc2241ee04
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2009-10 RE EXAM0001 (1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 13/06/2012
+- Text: ocr (2 pages), mean OCR confidence 86.8
+
+````text
+SVKM’s NMIMS
+
+Programme: B.Tech (ALL STREAMS) Year: “I Trimester:
+Academic Year : 2011-2012
+
+Batch: 2009-2010
+
+Subject: Basic Electrical Engineering Marks:
+Time:
+
+Date: 13/06/2012 Duration:
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. | is compulsory.
+
+2. Out of remaining question, attempt any FOUR.
+
+3. Inall FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+, Q.1] Attempt any four. [20]
+
+a.) Derive the expression for voltage regulation of a single phase transformer.
+b.) Derive the emf equation for the transformer.
+c.) Explain Double field recovering theory
+d.) State and explain maximum power theorem.
+e.) Define the units work, power and energy.
+
+Q2.a) Explain the behavior of pure resistor in an AC circuit. [10]
+Q2.b) Explain the classification, construction and working of DC machine. [10]
+\ Q3,a), Compare series and parallel resonant circuit and derive the expression for Delta to Star and
+Stat Delta. [10]
+Q3.b) State Thevenin’s theorem and find the current through 10Q resistor using the same. [10]
+‘ 10 :
+
+WA
+20 2. £2).
+NI VA
+<i Sit
+l5Vv ; s isv
+= lov
+ISL
+Lv//\r—
+--- page 2 ---
+Q4.a) Deduce the relationship between phase and line quantities (voltage, current, power) [10]
+in the circuit of a three phase star connect system. Also draw phasor diagram.
+Q4.b) Find the current in 2 ohm resistor by using superposition theorem. [10]
+Also find voltage across current sources.
+
+A
+
+1 =
+
++
+
+BV -T
+
+ra
+
+BOLE
+s 20.
+
+B
+QS.a) for the circuit shown, find Ri for maximum power and calculate maximum power. [10]
+
+62 AR
+=a 25.
+av | wy
+3S
+s 40
+QS.b) Find equivalent resistance between A and B A [10]
+qe
+“ —A/\M c
+
+ish
+Q6.a) Draw and explain the construction and working of PMMC and EMD instruments. [10]
+Q6.b) Draw and explain the phasor diagram for lagging power factor of a 1@ transformer. [10]
+
+Q7.a) A 400KVA transformer has primary winding resistance of .Sohm and secondary winding
+resistance of .001Q. The iron losses is 2.5kw primary and secondary voltage are 5kV and 230V
+resp. if the power factor of the load is 0.85. Determine the efficiency of transformer
+
+a) On load
+b) On Wal load [10]
+Q7.b) Determine the current in the circuit also find the power consumed as weil as pf. —_. [10]
+— 6 0-01H vw 0.02H
+MAA SES
+Q00.4F
+2d
+©
+
+2fy
+
+~-—--
+````
+
+## 2011-12 · Re-Exam · Trim 1 · paper 0c3ec0feb469
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2010-11 RE EXAM0001 (1).pdf` (+1 identical copies)
+- Text: ocr (3 pages), mean OCR confidence 84.5
+
+````text
+XK —_
+Programme:
+
+| Batch:
+* Subject:
+
+Date:
+
+NB:
+
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+B.Tech (ALL STREAMS) Year] Trimester: |
+
+Academic Year : 2011-2012
+
+2010-2011
+
+Basic Electrical Engineering Marks:
+Time:
+
+13/06/2012 Duration/ ~
+
+Re - Examination
+
+3. Inall five questions to be attempted.
+4. Answer to each question must be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+
+“QI Attempt any five
+
+(a)
+(b)
+(©)
+
+Co)
+
+()
+ey)
+
+Q2 (a)
+(b)
+
+(cy
+
+Q3 (a)
+
+(b)
+Q4 (a)
+
+Derive the condition for maximum power transfer for a resistive circuit.
+
+Explain the significance of back emf.
+Find the average value and RMS value of the waveform shown
+vi
+2+-— — _
+4 basins ae
+— NI
+a gto 12 t
+
+Three equal resistances of 40Q each are connected in parallel across 150V dc
+supply. What is the current through each of them
+
+(i) Ifone resistance is burnout
+
+(ii) If one resistance is shorted
+Show that the power consumed by a pure capacitor is zero.
+A 220V de shunt machine has an armature resistance of 0.5Q. If full load armature
+current is 20A, find the induced emf when the machine acts as (i) generator and
+(ii) motor
+
+Draw the phasor diagram of single phase transformer with,lagging power factor.
+} A coil has 25Q resistance at 40°C and 45Q resistance at 100°C. Find its resistance
+‘ and temperature coefficient of resistance at 0°C. .
+| The efficiency of 400 kVA, 50Hz, 1¢ transformer is 98.77% delivering full load at
+0.8 p.f. and 99.13% at half load at unity p.f. Determine maximum efficiency at 0.8
+
+pf.
+
+A de voltage of 100V is suddenly applied to a circuit consisting of 100Q resistor, a
+0.01H inductor and a 100pF capacitor in series. The capacitor is initially uncharged.
+Obtain the equation which shows how the capacitor voltage varies with time.
+
+Write a detailed note on Moving Iron instruments.
+
+Find the current through 2Q resistor using KVL/KCL. Verify the answer using
+~if--
+
+[4]
+[4]
+[4]
+
+[4]
+
+[4]
+
+[6]
+[6]
+
+[8]
+
+[10]
+
+[10]
+
+[10]
+--- page 2 ---
+AN
+Thevinin’s theorem.
+30, | 5V
+| I
+.3V 20
+I NAN
+2Vv 6V
+an T 4
+2a O 3 192
+a ae
+(b) Find the equivalent resistance between A-B. [10]
+40
+20 30 19
+A 20 oo B
+20 30 20
+62
+Q5 (a) Find the current through 3Q resistor using Sepetpostion theorem. [10]
+open Ape siege :
+Je) [
+a P15a
+i
+AA ANA
+; m | $2
+208 ¢ » SA 230
+av
+
+jl |
+} (b) Determine the voltage V which will make the current I; to be zero by using Mesh [10]
+analysis.
+62
+wal AA pon “T re 4
+
+$20 S 330
+
+20V 5Q 2,
+3 40
+}
+
+‘ TY
+
+\
+
+Q6 (a4 Kor the circuit shown in figure, determine what voltage having frequency 50Hz [10]
+must be applied across A- B in order that the current of 10A flows through the
+
+capacitor.
+20 0.0191H
+AE
+| 80 (0.0318H
+A fer a ee B
+| _
+398 YF
+
+(b) An imperfect coil is connected in series with a fixed resistor. A 240V, 50Hz supply [10]
+
+-2-
+--- page 3 ---
+is connected across the combination. If the voltage drop across the coil is 140V and
+across resistor is 160V and the current in the circuit is 2.5A. Calculate the resistance
+
+vA and inductance of the coil. Also find the power drawn by the coil and total power
+
+input. Draw the phasor diagram.
+
+Q7 (a) Define and derive the expression for quality factor of a RLC series circuit. [4]
+
+(b) A coil of 20Q resistance has inductance of 0.2H, is connected in parallel with a [6]
+condensor of 100uF. Calculate the frequency at which the circuit will behave like a
+non-inductive resistance of RQ. Also find value of R.
+
+(c) Three similar choke coils are connected in star to a 3¢ supply. If the line current is [10]
+15A, total power consumed is 11kW and volt ampere input is 15kVA, find line and
+phase voltages and reactance and resistance of each coil.
+If these coils are now connected in delta, calculate phase and line currents, active
+and reactive power.
+
+a=
+````
+
+## 2011-12 · Re-Exam · Trim 1 · paper 7efddfa667bb
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2010-2011 RE EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 2/11/2011
+- Text: ocr (3 pages), mean OCR confidence 90.8
+
+````text
+Ono
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technolo:
+Programme: B.TECH - ALL STREAMS Year: I Trimester: I
+Academic Year : 2011-2012
+
+Batch: 2010-11
+Subject: BASIC ELECTRICAL Marks: 100
+ENGINEERING Time: 2.00 p
+
+Date: 2/11/2011 Duration: 3 hrs.
+, Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book.
+
+Note: 1. Question | is compulsory
+2. Out of the remaining questions, attempt any four
+3. In all five questions to be attempted
+4, All questions carry equal marks
+5. Answer to each new question should be started on fresh page
+6. Figure in bracket indicates marks
+Ql. Attempt any Five. (20 marks)
+
+Q1 (A) Explain with units of Work, Power & Energy giving suitable example each.
+
+Ql! (B) Estimate resultant RMS voltage of the following voltages added together-
+E1=14.14sin (@ t- 2/6)
+E2=141.4cos (x/6- @ t)
+E3=282.8sin (2 1/3- @ t)
+
+QI (C) Derive the condition for maximum power transfer in a resistor from practical
+voltage source.
+
+QI (D) Explain with neat phasor diagram which three phase connection gives higher
+power if three identical impedance connected in
+a) Star or b ) Delta
+
+Q1 (E) Derive the relations for parallel circuit resonance having one impedance
+Z,=R+ j X_ and other impedance Z)= -j X, connected in circuit across constant
+
+} voltage a.c. supply. Calculate the impedance of the above circuit at resonance.
+
+‘ q? (F) Is it possible to get series R-L-C circuit potential difference across L & C
+greater than circuit supply voltage operating at variable frequency?
+
+‘ Q1 (G) Explain the concept of time constant in R-C circuit.
+
+Page 1 of 3
+--- page 2 ---
+Q2. (A) Find the current in 4Q resistance by applying superposition theorem.
+All resistances are in Ohms. (6 marks)
+
+24
+
+Q2. (B) For the network shown below, find the value of Ry, for maximum power transfer.
+What is the value of maximum power. (8 marks)
+
++9 2A 4 an
+4v 7 mn
+
+Q2. (C) For the circuit shown below, calculate current in 1Q resistance by using Norton’s
+
+theorem. All the resistances are in Ohms. (6 marks)
+4n. 2A
+po AD, LN
+ee
+4 20. Tan
+av
+l in = AV
+
+a
+Q3. (A) Explain transients in de circuit consisting of R-C components. (Smarks)
+Q3. (B) Find an expression for the value of current at any instant after a sinusoidal
+voltage of 600V(rms) at 50Hz is applied to a series circuit of resistance 10Q &
+inductance 0.1H,assuming the voltage is zero at the instant of switching .Also find the
+
+transient current at t=0.02.
+(Smarks)
+
+Page 2 of 3
+--- page 3 ---
+Q3. (C) Derive the expression for the rise of current & decay of current in series of
+R-L circuit excited by DC voltage source. (10marks)
+
+Q4. (A) Derive the expression for extension of range of voltmeter with basic range
+0-1 volt and coil resistance is 100Q. (6marks)
+
+Q4. (B) Describe in brief the construction and working of electrodynamic ammeter
+instrument. (6marks)
+
+Q4. (C) Describe in brief construction and working principle of PMMC instrument.
+(8marks)
+
+Q.5 (A) Derive an emf equation for a single phase transformer and explain voltage
+and current relation of an ideal transformer. (10marks)
+
+QS5(B) Explain various losses in transformer. (Smarks)
+
+Q5.(C) A single phase 50 Hz transformer has 80 turns on the primary winding and
+280 in the secondary winding, the voltage applied across the primary winding is 240
+V at 50 Hz Calculate (i) maximum flux density in the core (ii) Induced emf in the
+secondary. The net crossectional area of the core is 200cm”.
+
+‘Smarks)
+Q.6(A) Explain construction and working of DC generator. (8marks)
+Q6.(B)Explain the significance of back EMF in DC motor. (6marks)
+Q6.(C) Explain why single phase induction motor is not self starting.
+
+(6marks)
+
+Q.7 (A) A resistor and capacitor are connected in series with a variable inductor.
+When a supply of 500v ,50 Hz is given to the circuit, maximum current of
+2A is observed. Voltage across capacitor is 500V.
+
+Calculate R,L and C in the circuit. (6marks)
+
+Q7.(B) Compare between star and delta connection. (6marks)
+
+Q7.(C) Two impedances are Z1 = (12+6j) and Z2 = (10-2j) connected in parallel
+A supply voltage of 200 L 53.13 is applied. Determine KVA, KVAR and
+KW and power factor of whole circuit.
+(8marks)
+
+Z x sf
+va 7\ ran
+
+Page 3 of 3
 ````
 
 ## 2011-12 · Re-Exam · Trim 1 · paper c3182d8fd7c7
@@ -6984,6 +8599,80 @@ j >.
 23
 ````
 
+## 2011-12 · Re-Exam · Trim 1 · paper 98ed10d99064
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2010-11 RE EXAM0001(1).pdf`
+- Printed on paper: exam date: 13/06/2012
+- Text: ocr (1 page), mean OCR confidence 85.2
+
+````text
+\. SVKM’s NMIMS
+~ Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA-Tech Year: I Trimester: I
+Academic Year : 2011-2012
+
+Batch: 2010-11
+Subject: Basic Electrical Engineering Marks:
+Time m.
+| Date: 13/06/2012 Duratio:
+
+Re - Examination
+
+tobe
+
+Instructions: Candidates should read carefully the instructions print Mon the questiog *,
+paper and on the cover of the Answer Book, which is provided for their U %y ny 4
+
+~ a
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. Inall five questions to be attempted.
+4. Answer to each question must be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q1 Attempt any five
+
+(a) Derive the relationship to express three delta connected resistances into equivalent [4]
+star.
+(b) Derive e.m.f. equation for a single phase transformer. [4]
+(c) Find the average value, RMS value, peak factor, and form factor for the waveform [4]
+shown
+x(t)
+2
+
+ss ie Ge Baa t
+
+(d) Explain in brief speed control of DC motors. (4]
+(€) Prove that a balanced load when connected in star for a 3¢. supply, draws 1/3 ofthe [4]
+
+power drawn by the same load when connected in delta.
+(f) Show that the power consumed by a pure inductor is zero! [4]
+}
+
+Q2 (a). Two coils A and B have resistances 60Q and 30Q respectively at 20°C. The [6]
+@ | resistance temperature coefficients for the two coils at 20°C are 0.001/°C and
+0.004/°C. Find the resistance of the series, combination at 50°C and effective
+resistance temperature coefficient of series combination at 20°C.
+
+(b) Find Rug [6]
+40
+
+A® T AA [ | |
+
+$ S = S
+6a 30% soe 3 ar
+i i
+mon | |
+AQ 6a Ss 00
+| aREE § Gees ee cs ere
+62
+````
+
 ## 2011-12 · Re-Exam · Trim 1 · paper 82e5b4fd4a9e
 
 - Departments: Common (all branches)
@@ -7137,32 +8826,32 @@ iv)Star delta transformation in AC
 20
 ````
 
-## 2011-12 · Re-Exam · Trim 1 · paper 0bdab0c033b6
+## 2010-11 · Exam not stated · Trim 1 · paper e1cc147898f3
 
 - Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING I MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/6/2013
-- Text: ocr (3 pages), mean OCR confidence 87.1
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2009-2010.pdf`
+- Printed on paper: exam date: 15/06/2011
+- Text: ocr (2 pages), mean OCR confidence 91.0
 
 ````text
-N\ SVKM’s NMIMS
-Mukesh Patel School of Technolo:
+5 SVKM’s NMIMS
+Mukesh Patel School of Technolo;
 
-Programme:* MBA-Tech-(ALL STREAMS) Year: | Trimester:
-Academic Year : 2012-2013
+Programme: B.Tech (ALL STREAMS) Year: I Trimester:
+Academic Year : 2010-2011
 
-S
-Batch: 2011-2012 Nii acne hae,
-AS i agit
-Subject: Basic Electrical Engineering Marks: 100 URE A
-Time: 10.00 am To 1.00 pm
-Date: 12/6/2013 Duration: 3 hrs.
+Batch: 2009-2010
+
+Subject: Basic Electrical Engineering Marks:
+Time:
+
+Date: 15/06/2011 Duration:
 
 Re - Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
 
 NB:
 1. Question No.1 is compulsory.
@@ -7171,86 +8860,107 @@ NB:
 4. Answer to each question to be started on a fresh paper.
 5. Figures to the right indicate full marks.
 
-Q1.Attempt any four questions.
-(a) Differentiate Active & Passive elements, voltage & current sources. (5)
-(b) Why does transformer have an iron core? (5)
-(c) The equation for a voltage wave is v=0.02sin (4000t+ 30.8 ind the frequency,
-instantaneous voltage when t=320 1 sec. What is the time represented by 3(Pohase
+QA Answer (any 4) 20
 
-difference? (5)
-(d) Explain RMS value. Prove that the rms value of half rectified sine wave is half of its peak
-value. (5)
-(e) State various types of applications of DC motor. (5)
+1) State and explain Norton’s theorem.
 
-} 2. (a) The impedance ofa circuit is placed across a 120V, 50 Hz source is (10 +j20).Find
-current and the power. (10)
-(b) Discuss variation of following quantities with frequency for a series circuit above and
-below the resonance conditions? (i) Circuit impedance (ii) phase angle (iii) current (iv) X,(v) Xe
-(vi) X,-Xe (10)
+2) If an AC current is given with an expression,60.54 sin(310t)Amps.
+Then find frequency, form factor, RMS and average current.
 
-Q3. (a) Obtain Norton’s equivalent network as seen by R,. (10)
+3) Define the unit of work, power and energy and power factor.
 
-QoL AV \owe-
+4) Explain the resonance condition in a tuned circuit.
 
-RL
-NV
-at 60 ar
+5) In the given figure, find current in all the branches.
 
-/3
+‘ Q.2a) Transformer of 25KVA is used with no. of turns in the primary 8
+as 500 and that of secondary as 50. An a.c. supply of 3K V,50Hz
+is connected, find out,
+1) Full load primary and secondary current,
+2) Secondary emf,
+3) Max core flux, neglect no load primary current.
+
+b) A solenoid of 80nH,20ohms is connected to 15v battery. Find the 8
+time required to reach a 1/4" of the steady state current.
+c) Write a note on transformer losses. : 4
+0.4% a) Derive an equation of a DC machine. Draw the diagrams that are 108
+
+required to support your derivation
+
+b) Discuss the construction and working of any voltmeter. 10
+
+fy
 --- page 2 ---
-(b)Analyze the circuit by mesh method. And from result, find the current in 5 Q resistance. (10”
+Q4A
 
-6 GQ—
+Ni
+Cc
 
-ha [ov
+Qs
 
-j2ve
+Q.6A
 
-Q4. (a) For the circuit shown, find the value of the resistance Ry for maximum power and
-calculate the maximum power. (10)
+B
+Cc
 
-lore
-ot 4 ip of 6h
-(b) Find the average value and the RMS vaiue of current wave.
+QA
 
-praia : i
-20 e at 60 ¢ (me
-ie) a0 3 a (ma)
+c
+QA
 
-(10)
+is
 
-Q5. (a) In the circuit of fig. the switch S has been in position | for a very long time.It is thrown
-to position ‘2’ at t=0.
-(i) Find i(t) for t > 0.
-di
+Theveninise the circuit across AB. 4 cay
+2 a
+ay, 6
 
-(ii) Find VL), Vi(0"), and (0+) (10)
---- page 3 ---
-(b) Explain the working principle of transformer. What is the significance of rating of
-transformer? Derive the EMF equation of transformer. (10)
+Determine the current delivered by supply V1.
 
-Q6. (a) Derive voltage, current and power relations in a balanced star connected & balanced
-delta connected load. (10)
+‘ M+ Wy
+——= 6 tL
 
-(b) A 415-V,50-Hz,3 phase voltage is applied to the three star-connected identical
-impedences.Each impedance consists of a resistance of 15 Q,a capacitive of 177uF and an
-inductance of 0.1H in series. Find the (i) phase current (ii) line current iii) power factor iv) active
-power v)reactive power and vi) total VA.Draw a neat phasor diagram. If the same impedances
-are connected in delta, find the line current and the power consumed.
+16V T pe
 
-(10)
+How do you increase the range on an ammeter?
 
-Q 7.(a) Derive an expression for resonant frequency and quality factor for a parallel resonant
-circuit. Also discuss the resonance curve. (10)
-(b) Write short notes on (10)
+8
 
-GQ) Werking of Single phase induction motor & concept of back EMF
-(i) Type of losses in transformer
-(iii) Construction of DC machine
+Explain single phase energy meter. 10
 
-¥
+Derive expression for resistive temperature coefficient and find 10
 
-3/3
+temp. coeff. At 0°C and 60°C if specimen copper wire has temp.
+coeff. As 1/250.4 per °C at 20°C.
+
+If two impedances are connected in series with the value as 2045 8
+4ié and 30/50 are connected and supply current of 10A flows in
+the circuit, if the supply voltage is not changed and same
+impedances are connected in parallel, then find the resulting
+current.
+
+Why is a single phase induction motor not self starting? 4
+Draw an phasor diagram of single phase transformer with an 8
+inductive and resistive load.
+
+An AC supply has maximum current of 12A at 50 Hz frequency.
+Write equation for it’s instantaneous value. And at what time
+current reaches a value of 10A for the first time?
+
+Derive equations of line and phase voltages and currents for star
+and delta connection.
+
+Discuss behavior of a pure and lossy capacitor in an AC circuit.
+Classify measuring instruments. Discuss various forces and
+torques required for measuring.
+
+How rotating field is produced by 3-ph. Induction motor.
+
+Define and explain efficiency and regulation of transformer by
+direct loading.
+
+th
+
+8
 ````
 
 ## 2010-11 · Exam not stated · Trim 1 · paper 6edb2b84699d
@@ -7854,416 +9564,147 @@ We — ie
 prem to 18 a,
 ````
 
-## 2010-11 · Re-Exam · Trim 1 · paper 0c3ec0feb469
+## 2010-11 · Re-Exam · Trim 1 · paper 82177fde5290
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2010-11 RE EXAM0001 (1).pdf` (+1 identical copies)
-- Text: ocr (3 pages), mean OCR confidence 84.5
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/basic electrical engineering 2009-2010 re exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 83.5
 
 ````text
-XK —_
-Programme:
+—
 
-| Batch:
-* Subject:
+Programme: 8B. Tech (ALL STREAMS) Wearss cl jf itimester:)o:1
+
+Batch:
+Subject:
 
 Date:
 
-NB:
+> ~~
+se: FON oy
 
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
+SVKM'S
+SVKM’s NMIMS 3 wmivs unvers
+Baile
+Mukesh Patel School Of Technology Management & Engineering' ye BRARY
 
-SVKM’s NMIMS
+Academic Year : 2010-2011
 
-Mukesh Patel School of Technology Management & Engineering
-B.Tech (ALL STREAMS) Year] Trimester: |
+«ee SCHOO”
 
-Academic Year : 2011-2012
+x
 
-2010-2011
+2009-2010 Manace¥™
+BASIC ELECTRICAL Marks: 100 ~
+ENGINEERING Time: 2.00pm To 5.00pm
 
-Basic Electrical Engineering Marks:
-Time:
-
-13/06/2012 Duration/ ~
+29/10/2010 Duration: 3 hrs.
 
 Re - Examination
 
-3. Inall five questions to be attempted.
-4. Answer to each question must be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
-
-“QI Attempt any five
-
-(a)
-(b)
-(©)
-
-Co)
-
-()
-ey)
-
-Q2 (a)
-(b)
-
-(cy
-
-Q3 (a)
-
-(b)
-Q4 (a)
-
-Derive the condition for maximum power transfer for a resistive circuit.
-
-Explain the significance of back emf.
-Find the average value and RMS value of the waveform shown
-vi
-2+-— — _
-4 basins ae
-— NI
-a gto 12 t
-
-Three equal resistances of 40Q each are connected in parallel across 150V dc
-supply. What is the current through each of them
-
-(i) Ifone resistance is burnout
-
-(ii) If one resistance is shorted
-Show that the power consumed by a pure capacitor is zero.
-A 220V de shunt machine has an armature resistance of 0.5Q. If full load armature
-current is 20A, find the induced emf when the machine acts as (i) generator and
-(ii) motor
-
-Draw the phasor diagram of single phase transformer with,lagging power factor.
-} A coil has 25Q resistance at 40°C and 45Q resistance at 100°C. Find its resistance
-‘ and temperature coefficient of resistance at 0°C. .
-| The efficiency of 400 kVA, 50Hz, 1¢ transformer is 98.77% delivering full load at
-0.8 p.f. and 99.13% at half load at unity p.f. Determine maximum efficiency at 0.8
-
-pf.
-
-A de voltage of 100V is suddenly applied to a circuit consisting of 100Q resistor, a
-0.01H inductor and a 100pF capacitor in series. The capacitor is initially uncharged.
-Obtain the equation which shows how the capacitor voltage varies with time.
-
-Write a detailed note on Moving Iron instruments.
-
-Find the current through 2Q resistor using KVL/KCL. Verify the answer using
-~if--
-
-[4]
-[4]
-[4]
-
-[4]
-
-[4]
-
-[6]
-[6]
-
-[8]
-
-[10]
-
-[10]
-
-[10]
---- page 2 ---
-AN
-Thevinin’s theorem.
-30, | 5V
-| I
-.3V 20
-I NAN
-2Vv 6V
-an T 4
-2a O 3 192
-a ae
-(b) Find the equivalent resistance between A-B. [10]
-40
-20 30 19
-A 20 oo B
-20 30 20
-62
-Q5 (a) Find the current through 3Q resistor using Sepetpostion theorem. [10]
-open Ape siege :
-Je) [
-a P15a
-i
-AA ANA
-; m | $2
-208 ¢ » SA 230
-av
-
-jl |
-} (b) Determine the voltage V which will make the current I; to be zero by using Mesh [10]
-analysis.
-62
-wal AA pon “T re 4
-
-$20 S 330
-
-20V 5Q 2,
-3 40
-}
-
-‘ TY
-
-\
-
-Q6 (a4 Kor the circuit shown in figure, determine what voltage having frequency 50Hz [10]
-must be applied across A- B in order that the current of 10A flows through the
-
-capacitor.
-20 0.0191H
-AE
-| 80 (0.0318H
-A fer a ee B
-| _
-398 YF
-
-(b) An imperfect coil is connected in series with a fixed resistor. A 240V, 50Hz supply [10]
-
--2-
---- page 3 ---
-is connected across the combination. If the voltage drop across the coil is 140V and
-across resistor is 160V and the current in the circuit is 2.5A. Calculate the resistance
-
-vA and inductance of the coil. Also find the power drawn by the coil and total power
-
-input. Draw the phasor diagram.
-
-Q7 (a) Define and derive the expression for quality factor of a RLC series circuit. [4]
-
-(b) A coil of 20Q resistance has inductance of 0.2H, is connected in parallel with a [6]
-condensor of 100uF. Calculate the frequency at which the circuit will behave like a
-non-inductive resistance of RQ. Also find value of R.
-
-(c) Three similar choke coils are connected in star to a 3¢ supply. If the line current is [10]
-15A, total power consumed is 11kW and volt ampere input is 15kVA, find line and
-phase voltages and reactance and resistance of each coil.
-If these coils are now connected in delta, calculate phase and line currents, active
-and reactive power.
-
-a=
-````
-
-## 2010-11 · Re-Exam · Trim 1 · paper 7efddfa667bb
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2010-2011 RE EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 2/11/2011
-- Text: ocr (3 pages), mean OCR confidence 90.8
-
-````text
-Ono
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technolo:
-Programme: B.TECH - ALL STREAMS Year: I Trimester: I
-Academic Year : 2011-2012
-
-Batch: 2010-11
-Subject: BASIC ELECTRICAL Marks: 100
-ENGINEERING Time: 2.00 p
-
-Date: 2/11/2011 Duration: 3 hrs.
-, Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book.
-
-Note: 1. Question | is compulsory
-2. Out of the remaining questions, attempt any four
-3. In all five questions to be attempted
-4, All questions carry equal marks
-5. Answer to each new question should be started on fresh page
-6. Figure in bracket indicates marks
-Ql. Attempt any Five. (20 marks)
-
-Q1 (A) Explain with units of Work, Power & Energy giving suitable example each.
-
-Ql! (B) Estimate resultant RMS voltage of the following voltages added together-
-E1=14.14sin (@ t- 2/6)
-E2=141.4cos (x/6- @ t)
-E3=282.8sin (2 1/3- @ t)
-
-QI (C) Derive the condition for maximum power transfer in a resistor from practical
-voltage source.
-
-QI (D) Explain with neat phasor diagram which three phase connection gives higher
-power if three identical impedance connected in
-a) Star or b ) Delta
-
-Q1 (E) Derive the relations for parallel circuit resonance having one impedance
-Z,=R+ j X_ and other impedance Z)= -j X, connected in circuit across constant
-
-} voltage a.c. supply. Calculate the impedance of the above circuit at resonance.
-
-‘ q? (F) Is it possible to get series R-L-C circuit potential difference across L & C
-greater than circuit supply voltage operating at variable frequency?
-
-‘ Q1 (G) Explain the concept of time constant in R-C circuit.
-
-Page 1 of 3
---- page 2 ---
-Q2. (A) Find the current in 4Q resistance by applying superposition theorem.
-All resistances are in Ohms. (6 marks)
-
-24
-
-Q2. (B) For the network shown below, find the value of Ry, for maximum power transfer.
-What is the value of maximum power. (8 marks)
-
-+9 2A 4 an
-4v 7 mn
-
-Q2. (C) For the circuit shown below, calculate current in 1Q resistance by using Norton’s
-
-theorem. All the resistances are in Ohms. (6 marks)
-4n. 2A
-po AD, LN
-ee
-4 20. Tan
-av
-l in = AV
-
-a
-Q3. (A) Explain transients in de circuit consisting of R-C components. (Smarks)
-Q3. (B) Find an expression for the value of current at any instant after a sinusoidal
-voltage of 600V(rms) at 50Hz is applied to a series circuit of resistance 10Q &
-inductance 0.1H,assuming the voltage is zero at the instant of switching .Also find the
-
-transient current at t=0.02.
-(Smarks)
-
-Page 2 of 3
---- page 3 ---
-Q3. (C) Derive the expression for the rise of current & decay of current in series of
-R-L circuit excited by DC voltage source. (10marks)
-
-Q4. (A) Derive the expression for extension of range of voltmeter with basic range
-0-1 volt and coil resistance is 100Q. (6marks)
-
-Q4. (B) Describe in brief the construction and working of electrodynamic ammeter
-instrument. (6marks)
-
-Q4. (C) Describe in brief construction and working principle of PMMC instrument.
-(8marks)
-
-Q.5 (A) Derive an emf equation for a single phase transformer and explain voltage
-and current relation of an ideal transformer. (10marks)
-
-QS5(B) Explain various losses in transformer. (Smarks)
-
-Q5.(C) A single phase 50 Hz transformer has 80 turns on the primary winding and
-280 in the secondary winding, the voltage applied across the primary winding is 240
-V at 50 Hz Calculate (i) maximum flux density in the core (ii) Induced emf in the
-secondary. The net crossectional area of the core is 200cm”.
-
-‘Smarks)
-Q.6(A) Explain construction and working of DC generator. (8marks)
-Q6.(B)Explain the significance of back EMF in DC motor. (6marks)
-Q6.(C) Explain why single phase induction motor is not self starting.
-
-(6marks)
-
-Q.7 (A) A resistor and capacitor are connected in series with a variable inductor.
-When a supply of 500v ,50 Hz is given to the circuit, maximum current of
-2A is observed. Voltage across capacitor is 500V.
-
-Calculate R,L and C in the circuit. (6marks)
-
-Q7.(B) Compare between star and delta connection. (6marks)
-
-Q7.(C) Two impedances are Z1 = (12+6j) and Z2 = (10-2j) connected in parallel
-A supply voltage of 200 L 53.13 is applied. Determine KVA, KVAR and
-KW and power factor of whole circuit.
-(8marks)
-
-Z x sf
-va 7\ ran
-
-Page 3 of 3
-````
-
-## 2010-11 · Re-Exam · Trim 1 · paper 98ed10d99064
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2010-11 RE EXAM0001(1).pdf`
-- Printed on paper: exam date: 13/06/2012
-- Text: ocr (1 page), mean OCR confidence 85.2
-
-````text
-\. SVKM’s NMIMS
-~ Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA-Tech Year: I Trimester: I
-Academic Year : 2011-2012
-
-Batch: 2010-11
-Subject: Basic Electrical Engineering Marks:
-Time m.
-| Date: 13/06/2012 Duratio:
-
-Re - Examination
-
-tobe
-
-Instructions: Candidates should read carefully the instructions print Mon the questiog *,
-paper and on the cover of the Answer Book, which is provided for their U %y ny 4
-
-~ a
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
 
 NB:
 1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
+2. Out of the remaining questions, attempt any four questions.
 3. Inall five questions to be attempted.
-4. Answer to each question must be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
+4. All question carries equal marks.
+5. Answer to each question to be started on a fresh page.
 
-Q1 Attempt any five
+6. Figures in the brackets on the right hand side indicates full marks.
 
-(a) Derive the relationship to express three delta connected resistances into equivalent [4]
-star.
-(b) Derive e.m.f. equation for a single phase transformer. [4]
-(c) Find the average value, RMS value, peak factor, and form factor for the waveform [4]
-shown
-x(t)
-2
+Q.1.] Answer any five. (20 marks)
+a.) An alternating voltage given by V = 141.4 Sin (377 t), find
 
-ss ie Ge Baa t
+Frequency, Maximum voltage, time period , instantaneous value of voltage
 
-(d) Explain in brief speed control of DC motors. (4]
-(€) Prove that a balanced load when connected in star for a 3¢. supply, draws 1/3 ofthe [4]
+when t=5 ms.
+b.) Defirie Average value, crest (Peak) factor, Form factor, RMS value.
 
-power drawn by the same load when connected in delta.
-(f) Show that the power consumed by a pure inductor is zero! [4]
-}
+c.) Find equivalent Resistance for the given network.
 
-Q2 (a). Two coils A and B have resistances 60Q and 30Q respectively at 20°C. The [6]
-@ | resistance temperature coefficients for the two coils at 20°C are 0.001/°C and
-0.004/°C. Find the resistance of the series, combination at 50°C and effective
-resistance temperature coefficient of series combination at 20°C.
+WMV iN
+lov Jone
+o- : AANA AWW, AVI, 9 B
+A Qo AoM Zor
+WW Wn
 
-(b) Find Rug [6]
-40
+[OEE e se oro=
 
-A® T AA [ | |
+'/5
+--- page 2 ---
+d.) State & explain Kirchhoffs laws.
+e.) State & explain superposition theorem with simple example .
+f.)Classification of DC machies.
 
-$ S = S
-6a 30% soe 3 ar
-i i
-mon | |
-AQ 6a Ss 00
-| aREE § Gees ee cs ere
-62
+g.) Define work, power, Energy with units.
+
+Q.2.a)Find current through 10 Q resistor using Thevenins theorem. (10)
+6 L gy Jo Gan
+50N 3 a Sa. rT 20V
+Q.2.b)Find current idee 6 O resistor using superposition principle. (10)
+It Jov 20
+op (ones
+Ah ( ) 5 3A Gane
+Q.3.a)Derive an expression for charging voltage of series RC circuit with DC (6)
+source & define time constant.
+Q.3.b) Find | using nodal analysis. 10% poms (6)
+—_—
+5 ae,
+pisos 2p 5ov
+
+T 25 nai
+
+yoo? =023H 204% 05H SoMF
+
+Q.3.c) Find |, Vi, V2
+
+—Oassy Ears
+
+Q.4.a) A series RLC circuit is connected to a 200 V AC supply. The current drawn
+
+2 [2
+
+(8)
+
+(6)
+--- page 3 ---
+2, [3
+
+by the circuit at resonance is 20 A. The voltage drop across the capacitor
+is 5000 V at series resonance. Calculate resistance and inductance if
+capacitance is 4 pF. Also calculate the resonant frequency.
+Q.4.b) The resistance of a coil of wire increases from 80 Q at 10°C to 96.6 Q at 60°C. (6)
+Find the temperature coefficient of the material at 60°C.
+
+Q.4.c)Draw the phasor diagram of single phase transformer for a lagging power factor. (8)
+
+Q.5.a) Write short note on PMMC instruments. (6)
+Q.5.b) Explain construction & working of transformer. (6)
+Q.5.c) Explain EDM as ammeter, voltmeter and wattmeter. (8)
+Q.6.a) Define slip & explain working of single phase induction motor. (6)
+Q.6.b) Derive the expression for delta to star & star to delta conversion of the (6)
+
+Resistive network.
+Q.6.c) A 5 KVA distribution transformer has a full load efficiency of 95% at ehich (8)
+Copper loss is equal to Iron loss. The transformer is loaded in 24 hours as follows:
+- No load for 10 Hrs
+- % full load for 7 Hrs
+- % full load for 5 Hrs
+- Full load for 2 Hrs. Assume load p.f. of unity
+Q.7. a) Derive relation between line and phase values of the voltages and currents (6)
+
+In star connection & delta connection.
+
+Q.7. b) Behaviour of a pure capacitor in an AC circuit. (6)
+Q.7.c) Find average value of the following signal. (8)
+v A
+
+S) = Ut
+x c
 ````
 
 ## 2009-10 · Exam not stated · Trim 1 · paper bf0990c67154
@@ -8273,6 +9714,7 @@ AQ 6a Ss 00
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/2009-2010.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 85.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 S
@@ -8286,7 +9728,6 @@ PROGRAMME: B-Tech, | Year
 
 TRIMESTER: I, ACADEMIC YEAR: 2009-2010
 x . : by = . Date: |3 -
-Subjeck ‘Basic Electhcok Brginenting
 Marks: 100
 Time: 3 hrs
 3-00 — GOV
@@ -8536,143 +9977,6 @@ by the coil. . [10]
 3/2
 ````
 
-## 2009-10 · Exam not stated · Trim 1 · paper e1cc147898f3
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2009-2010.pdf`
-- Printed on paper: exam date: 15/06/2011
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-5 SVKM’s NMIMS
-Mukesh Patel School of Technolo;
-
-Programme: B.Tech (ALL STREAMS) Year: I Trimester:
-Academic Year : 2010-2011
-
-Batch: 2009-2010
-
-Subject: Basic Electrical Engineering Marks:
-Time:
-
-Date: 15/06/2011 Duration:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures to the right indicate full marks.
-
-QA Answer (any 4) 20
-
-1) State and explain Norton’s theorem.
-
-2) If an AC current is given with an expression,60.54 sin(310t)Amps.
-Then find frequency, form factor, RMS and average current.
-
-3) Define the unit of work, power and energy and power factor.
-
-4) Explain the resonance condition in a tuned circuit.
-
-5) In the given figure, find current in all the branches.
-
-‘ Q.2a) Transformer of 25KVA is used with no. of turns in the primary 8
-as 500 and that of secondary as 50. An a.c. supply of 3K V,50Hz
-is connected, find out,
-1) Full load primary and secondary current,
-2) Secondary emf,
-3) Max core flux, neglect no load primary current.
-
-b) A solenoid of 80nH,20ohms is connected to 15v battery. Find the 8
-time required to reach a 1/4" of the steady state current.
-c) Write a note on transformer losses. : 4
-0.4% a) Derive an equation of a DC machine. Draw the diagrams that are 108
-
-required to support your derivation
-
-b) Discuss the construction and working of any voltmeter. 10
-
-fy
---- page 2 ---
-Q4A
-
-Ni
-Cc
-
-Qs
-
-Q.6A
-
-B
-Cc
-
-QA
-
-c
-QA
-
-is
-
-Theveninise the circuit across AB. 4 cay
-2 a
-ay, 6
-
-Determine the current delivered by supply V1.
-
-‘ M+ Wy
-——= 6 tL
-
-16V T pe
-
-How do you increase the range on an ammeter?
-
-8
-
-Explain single phase energy meter. 10
-
-Derive expression for resistive temperature coefficient and find 10
-
-temp. coeff. At 0°C and 60°C if specimen copper wire has temp.
-coeff. As 1/250.4 per °C at 20°C.
-
-If two impedances are connected in series with the value as 2045 8
-4ié and 30/50 are connected and supply current of 10A flows in
-the circuit, if the supply voltage is not changed and same
-impedances are connected in parallel, then find the resulting
-current.
-
-Why is a single phase induction motor not self starting? 4
-Draw an phasor diagram of single phase transformer with an 8
-inductive and resistive load.
-
-An AC supply has maximum current of 12A at 50 Hz frequency.
-Write equation for it’s instantaneous value. And at what time
-current reaches a value of 10A for the first time?
-
-Derive equations of line and phase voltages and currents for star
-and delta connection.
-
-Discuss behavior of a pure and lossy capacitor in an AC circuit.
-Classify measuring instruments. Discuss various forces and
-torques required for measuring.
-
-How rotating field is produced by 3-ph. Induction motor.
-
-Define and explain efficiency and regulation of transformer by
-direct loading.
-
-th
-
-8
-````
-
 ## 2009-10 · Exam not stated · Trim 1 · paper 49ba77d939a0
 
 - Departments: Common (all branches)
@@ -8869,6 +10173,7 @@ x co
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/2009-2010 re exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 85.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -8885,7 +10190,6 @@ TRIMESTER: |, ACADEMIC YEAR: 2009-2010 \ 3 5
 
 “= toh Tn S
 CRe E,zam”) g04~t0 \ Vp] [ac
-Soe'—@ASTG ELECTRICAL JANAGEN™
 ENGINEERING Marks: 100
 
 Time: 3 hrs
@@ -8998,265 +10302,6 @@ c) Advantages of three phase system.
 d) State & prove the maximum power transfer theorem.
 
 = x x
-````
-
-## 2009-10 · Re-Exam · Trim 1 · paper 6dbc2241ee04
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING BATCH 2009-10 RE EXAM0001 (1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 13/06/2012
-- Text: ocr (2 pages), mean OCR confidence 86.8
-
-````text
-SVKM’s NMIMS
-
-Programme: B.Tech (ALL STREAMS) Year: “I Trimester:
-Academic Year : 2011-2012
-
-Batch: 2009-2010
-
-Subject: Basic Electrical Engineering Marks:
-Time:
-
-Date: 13/06/2012 Duration:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. | is compulsory.
-
-2. Out of remaining question, attempt any FOUR.
-
-3. Inall FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-, Q.1] Attempt any four. [20]
-
-a.) Derive the expression for voltage regulation of a single phase transformer.
-b.) Derive the emf equation for the transformer.
-c.) Explain Double field recovering theory
-d.) State and explain maximum power theorem.
-e.) Define the units work, power and energy.
-
-Q2.a) Explain the behavior of pure resistor in an AC circuit. [10]
-Q2.b) Explain the classification, construction and working of DC machine. [10]
-\ Q3,a), Compare series and parallel resonant circuit and derive the expression for Delta to Star and
-Stat Delta. [10]
-Q3.b) State Thevenin’s theorem and find the current through 10Q resistor using the same. [10]
-‘ 10 :
-
-WA
-20 2. £2).
-NI VA
-<i Sit
-l5Vv ; s isv
-= lov
-ISL
-Lv//\r—
---- page 2 ---
-Q4.a) Deduce the relationship between phase and line quantities (voltage, current, power) [10]
-in the circuit of a three phase star connect system. Also draw phasor diagram.
-Q4.b) Find the current in 2 ohm resistor by using superposition theorem. [10]
-Also find voltage across current sources.
-
-A
-
-1 =
-
-+
-
-BV -T
-
-ra
-
-BOLE
-s 20.
-
-B
-QS.a) for the circuit shown, find Ri for maximum power and calculate maximum power. [10]
-
-62 AR
-=a 25.
-av | wy
-3S
-s 40
-QS.b) Find equivalent resistance between A and B A [10]
-qe
-“ —A/\M c
-
-ish
-Q6.a) Draw and explain the construction and working of PMMC and EMD instruments. [10]
-Q6.b) Draw and explain the phasor diagram for lagging power factor of a 1@ transformer. [10]
-
-Q7.a) A 400KVA transformer has primary winding resistance of .Sohm and secondary winding
-resistance of .001Q. The iron losses is 2.5kw primary and secondary voltage are 5kV and 230V
-resp. if the power factor of the load is 0.85. Determine the efficiency of transformer
-
-a) On load
-b) On Wal load [10]
-Q7.b) Determine the current in the circuit also find the power consumed as weil as pf. —_. [10]
-— 6 0-01H vw 0.02H
-MAA SES
-Q00.4F
-2d
-©
-
-2fy
-
-~-—--
-````
-
-## 2009-10 · Re-Exam · Trim 1 · paper 82177fde5290
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/basic electrical engineering 2009-2010 re exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 83.5
-
-````text
-—
-
-Programme: 8B. Tech (ALL STREAMS) Wearss cl jf itimester:)o:1
-
-Batch:
-Subject:
-
-Date:
-
-> ~~
-se: FON oy
-
-SVKM'S
-SVKM’s NMIMS 3 wmivs unvers
-Baile
-Mukesh Patel School Of Technology Management & Engineering' ye BRARY
-
-Academic Year : 2010-2011
-
-«ee SCHOO”
-
-x
-
-2009-2010 Manace¥™
-BASIC ELECTRICAL Marks: 100 ~
-ENGINEERING Time: 2.00pm To 5.00pm
-
-29/10/2010 Duration: 3 hrs.
-
-Re - Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory.
-2. Out of the remaining questions, attempt any four questions.
-3. Inall five questions to be attempted.
-4. All question carries equal marks.
-5. Answer to each question to be started on a fresh page.
-
-6. Figures in the brackets on the right hand side indicates full marks.
-
-Q.1.] Answer any five. (20 marks)
-a.) An alternating voltage given by V = 141.4 Sin (377 t), find
-
-Frequency, Maximum voltage, time period , instantaneous value of voltage
-
-when t=5 ms.
-b.) Defirie Average value, crest (Peak) factor, Form factor, RMS value.
-
-c.) Find equivalent Resistance for the given network.
-
-WMV iN
-lov Jone
-o- : AANA AWW, AVI, 9 B
-A Qo AoM Zor
-WW Wn
-
-[OEE e se oro=
-
-'/5
---- page 2 ---
-d.) State & explain Kirchhoffs laws.
-e.) State & explain superposition theorem with simple example .
-f.)Classification of DC machies.
-
-g.) Define work, power, Energy with units.
-
-Q.2.a)Find current through 10 Q resistor using Thevenins theorem. (10)
-6 L gy Jo Gan
-50N 3 a Sa. rT 20V
-Q.2.b)Find current idee 6 O resistor using superposition principle. (10)
-It Jov 20
-op (ones
-Ah ( ) 5 3A Gane
-Q.3.a)Derive an expression for charging voltage of series RC circuit with DC (6)
-source & define time constant.
-Q.3.b) Find | using nodal analysis. 10% poms (6)
-—_—
-5 ae,
-pisos 2p 5ov
-
-T 25 nai
-
-yoo? =023H 204% 05H SoMF
-
-Q.3.c) Find |, Vi, V2
-
-—Oassy Ears
-
-Q.4.a) A series RLC circuit is connected to a 200 V AC supply. The current drawn
-
-2 [2
-
-(8)
-
-(6)
---- page 3 ---
-2, [3
-
-by the circuit at resonance is 20 A. The voltage drop across the capacitor
-is 5000 V at series resonance. Calculate resistance and inductance if
-capacitance is 4 pF. Also calculate the resonant frequency.
-Q.4.b) The resistance of a coil of wire increases from 80 Q at 10°C to 96.6 Q at 60°C. (6)
-Find the temperature coefficient of the material at 60°C.
-
-Q.4.c)Draw the phasor diagram of single phase transformer for a lagging power factor. (8)
-
-Q.5.a) Write short note on PMMC instruments. (6)
-Q.5.b) Explain construction & working of transformer. (6)
-Q.5.c) Explain EDM as ammeter, voltmeter and wattmeter. (8)
-Q.6.a) Define slip & explain working of single phase induction motor. (6)
-Q.6.b) Derive the expression for delta to star & star to delta conversion of the (6)
-
-Resistive network.
-Q.6.c) A 5 KVA distribution transformer has a full load efficiency of 95% at ehich (8)
-Copper loss is equal to Iron loss. The transformer is loaded in 24 hours as follows:
-- No load for 10 Hrs
-- % full load for 7 Hrs
-- % full load for 5 Hrs
-- Full load for 2 Hrs. Assume load p.f. of unity
-Q.7. a) Derive relation between line and phase values of the voltages and currents (6)
-
-In star connection & delta connection.
-
-Q.7. b) Behaviour of a pure capacitor in an AC circuit. (6)
-Q.7.c) Find average value of the following signal. (8)
-v A
-
-S) = Ut
-x c
 ````
 
 ## 2008-09 · Exam not stated · Trim 1 · paper e292d76774b2
@@ -10060,6 +11105,7 @@ apis
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/BASIC ELECTRICAL ENGINEERING/2007-2008(14).pdf`
 - Printed on paper: exam date: 31-10-2007
 - Text: ocr (3 pages), mean OCR confidence 83.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “~~ SVKM’S NMIMS UNIVERSITY
@@ -10097,7 +11143,6 @@ b) Explain what is back emf in DC motor?
 
 c) Find Ras.
 eM ea A \ : g
-A jo JO. ]0 cq 10.2. 19 OQ
 
 d) Compare series and parallel resonance circuit.
 
@@ -10744,6 +11789,7 @@ Page No 5/5
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/BASIC ELECTRICAL ENGINEERING/2006-2007(1).pdf`
 - Text: ocr (4 pages), mean OCR confidence 76.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 (DEEMED UNIVERSITY)
@@ -10752,7 +11798,6 @@ SUBJECT: Basics of Electrical Engineering
 COURSE: MBA-TECH (1 YEAR TRIM I)
 ACADEMIC YEAR: 2006-2007
 
-Dok — 2EFE|qloe , Thuan - theta €0 20
 
 Instructions:
 1. Question number 1 is compulsory. 2. Out of the remaining, attempt any four.
@@ -10786,7 +11831,6 @@ _.|.../.....), Such case. Draw the curve of power verses load resistance. | __
 Q2 _ Derive an equation for the discharging of the current i inn series | 3
 ' RL circuit which is initially charged by a constant DC voltage of | |
 | Vvolts. 7 ey
-' b; Acoil a4 a sealtinnetehen of 2. 4H andl resistanée of 12 em rns |
 
 _ is suddenly switched across a 120V DC supply of negligible j
 internal resistance. Determine the time constant of the coil, the | i
@@ -10862,7 +11906,6 @@ Al
 
 What is meant by resonance. Compare se series s and paralle
 
-Es Os Ae HY er pith
 iv tAGE
 
 Derive expression for: transient voltage ac across ; capacitor when |
@@ -10874,7 +11917,6 @@ _Voltage V.
 | phase voltages, line and phase currents and power in a delta
 ; connected load. Draw a phasor diagram.
 
-a SS Seen Lier O82 | (eee eee
 
 4
 
@@ -10982,6 +12024,7 @@ beet 30 40 |
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/BASIC ELECTRICAL ENGINEERING/2004-2005 I(2).pdf`
 - Printed on paper: max marks: 20; exam date: 01/10/04
 - Text: ocr (1 page), mean OCR confidence 55.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 M.BA(Tech.) YR. TRM-—I (2004-2005
@@ -11024,6 +12067,7 @@ Fo a Ase
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/BASIC ELECTRICAL ENGINEERING/2004-2005(3).pdf`
 - Printed on paper: max marks: 100; exam date: 1/11/04
 - Text: ocr (4 pages), mean OCR confidence 78.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 DATE: 1/11/04 MARKS : 100
@@ -11085,7 +12129,6 @@ A 10 2 202 52
 
 52 302
 
-ty oY av LSA SY\ PY
 B
 
 bh) Using superposition theerem fiz
@@ -11173,1050 +12216,4 @@ at p.f = 0.25
 Calculate Efficiency and Regulation: of the Transformer for an output of
 a F.L. secondary current (lagging) at p.f. 0.6. (10)
 
-tet te dete tet tetets te
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 19cdf9721d62
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH0001 (1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 12/12/2014
-- Text: ocr (3 pages), mean OCR confidence 83.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: | Trimester: |
-Batch: 2011-12 : eet.
-Academic Year: 2014-2015 Lg Se tor may,
-Subject: Basic Electrical Engineering ‘a “AS,
-Marks: 8106 PST MBE ye
-Date: 12/12/2014 Time: BUD 00 BA wy. ODapm
-Duration @3-(ars) ey
-sms mo
-Re-Examination s armen
-
-Instructions: Candidates should read carefully the instructions provided on the question
-paper and on the cover of the answer book which is provided fortheir use.
-NB:
-Question no. I is compulsory.
-2. Out of the remaining questions, attempt any FOUR.
-3. In all FIVE questions to be attempted.
-4. Figure in brackets indicate fuli marks.
-
-Q.1. Attempt any four questions [20]
-
-a). | State and explain the following theorems: (i) Maximum Power Transfer
-Theorem (ii) Norton’s Theorem
-
-b) | Derive the equation of current in a purely capacitive circuit in the presence
-of an ac voltage. Draw waveforms of current and voltage.
-
-c). | Calculate the values of rms and average voltage for the waveform given in
-the figure below.
-
-| hy = © 2K :
-d) | Explain the construction and working ofa de motor in brief.
-e) | Derive the expression for energy stored in an inductor.
-Q.2.
-a). | For the circuit given, calculate the current in the 5 ohm resistor using | [10]
-Thevenin’s theorem. SOV
-ion. 7 2 | 50V
-ca S57 $ 2 BSL
---- page 2 ---
--
-
-b)
-
-Find the current in the 4 ohm resistor using Superposition theorem for the
-circuit given below.
-r
-
-| e
-
-Mea 32a Osa
-
-[10]
-
-oy
-
-A resistor of 25 ohms is connected in series with a choke coil. The series
-combination is connected across a 250 V, 50 Hz supply. The circuit draws a
-current of 4 A which lags behind the voltage by 65°. Calculate
-
-(i) resistance and inductance of the coil.
-
-(ii) total power
-
-(iii) power consumed by resistance
-
-(iv) power consumed by choke coil
-
-[10]
-
-b)
-
-A pure resistor R, a choke coil and a pure capacitor of 15.91 uF are
-connected in series across a supply of V volts and carries a current of
-0.25A. The voltage across the choke coil is 40 V, the voltage across the
-capacitor is 50 V, and the voltage across the resistor is 20 V. The voltage
-across the combination of R and the choke coil is 45V. Calculate (i) supply
-voltage V (ii) frequency (iii) power loss in the choke coil
-
-[10]
-
-Q4
-
-a)
-
-Three equal impedances, each of 10.260° ohms are connected in star across
-a three phase, 400V, 50Hz supply. Calculate (i) line and phase voltage (ii)
-power factor and active power consumed (iii) If the same three impedances
-are connected in delta to the same supply, calculate the active power
-consumed.
-
-[10]
-
-\
-yu
-
-Explain the construction and principle of working of a single phase
-transformer and derive its emf equation.
-
-[10]
-
-Q.5
-
-a)
-
-Explain the construction and working of a PMMC type instrument and
-derive its torque equation. State its advantages and disadvantages.
-
-[10]
-
-b)
-
-Explain any two methods of speed control of a 3 phase induction motor.
-
-[10]
-
-Q:6
-
-a)
-
-A R-L-C series circuit with a resistance of 10 ohms, inductance of 0.2 H
-and a capacitance of 40uF is supplied with a 100 V supply at variable
-frequency. Find the following at resonance.
-
-[10]
-
-2/3
---- page 3 ---
-(i) resonant frequency (ii) current (iii) power (iv) power factor (v) voltage
-across R, L and C_ (vi) quality factor
-
-b) | Find the equivalent resistance between A-B_ using _ star-delta | [10]
-transformations.
-vywy—_—_1° _rw
-6 AL
-oR Soe
-: oo
-Fen. aa
-6
-oo itn iorsanbgi a B
-Q.7 Write short notes on the following [20]
-a) Induction type energy meter
-b) | Construction and working of 3 phase induction motor
-
-OK
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper b1e19fe94fd9
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH0002.pdf`
-- Printed on paper: exam date: 12/12/2014
-- Text: ocr (3 pages), mean OCR confidence 83.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: | Trimester: I
-
-Batch: 2012-13 ae
-Academic Year: 2014-2015 Egg aYe BP Pa
-LY nN ly
-{ tia Ne
-w( MP STM Be
-
-ie OBE dd AB m
-@ <3 (hrs) y/
-he
-
-Instruction: Candidates should read carefully the instructions priated on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-
-5) Figures in brackets on the right hand side indicate full marks.
-
-6) Assume suitable data, if required.
-
-Subject: Basic Electrical Engineering
-Marks:
-Date: 12/12/2014 Time: |
-Duratio
-
-Re-Examination
-
-01. Attempt any four questions of the following: [20]
-
-(a). State and derive the condition for maximum power transfer theorem.
-
-(b) Show that current through pure capacitor leads applied voltage by 90°.
-
-(c) Derive from the first principles, the e.m.f. equation of transformer.
-
-(d) Compare electric and magnetic circuit by their similarities and dissimilarities.
-(e) Explain ‘resistance’, ‘reactance’, and ‘impedance’.
-
-02. (a) A current of 5A flows a non-inductive resistance in series with a coil when {10]
-supplied at 250 V, 50 Hz. If the voltage across the resistance is 125 V and
-across the coil is 200 V. Calculate :
-(i) Impedance, reactance and resistance of the coil. (ii) Power absorbed
-~ by the coil. (iii) Total power (iv) Draw the voltage vector diagram.
-
-(b) A resistance of 100 Q, an inductance of 0.2 H and capacitor of 150uF are [10]
-connected in series across 230 V, 50 Hz a.c. supply. Calculate the current drawn
-by circuit, power factor of the circuit, its nature, power consumed by the circuit.
-Draw the phasor diagram
-03.(a) Deduce the relationship between phase and line quantities (voltage, current and [10]
-power) in the circuit of a three phase delta connected system. Also draw neat diagram.
-Each of delta connected load consist of a 50Q resistor in series with a 50 uF capacitor.
-The supply is 440 V, 3 phase, 50 Hz. Determine (i) phase current (11) Line current
-
-(c) power (d) Draw phasor diagram showing the voltage and currents.
-
-I/3
---- page 2 ---
-(b) Using mesh current method, find the current through 2Q resistance. [10]
-
-6
-kWh
-eV)
-—_|— \O QL
-
-Ov >= {SL 3m
-l
-Z0V
-
-04(a)Find current through 2Q and 3Q resistances using nodal analysis in following circuit [10]
-5BVL
-
-‘A AN
-Ww
-
-3
-NS 3 jon 25m Grn —> \aVv
-
-OV
-(b) Derive the equation for star-delta transformations. [10]
-05(a)Find current in 10Q resistor by using Thevenin’s theorem. [10]
-jo SE 30 OL
-WW —- WW
-
-lo © ~ Z 200 =p too v
-
-2/3
---- page 3 ---
-(b) Find current in 1Q resistor by using superposition theorem. [10]
-
-“We +
-
-4a oe
-T 5OV =" 40\
-joa
-= {oUE
-= 2, E
-06.(a)40 KVA, 3300/240 V, 50 Hz, | phase transformer has 660 turns on the primary. [10]
-
-Determine: (i) The number of turns on the secondary (ii) The maximum value
-of flux in the core (iii) The approximate value of primary and secondary full
-load currents.
-
-Internal drops in the windings are to be ignored.
-
-(b) Draw and explain phasor diagram of a transformer for unity power factor or [10]
-resistive load.
-
-07 (a) Explain with neat diagram how you can obtain B.H. curve and hysteresis loop [10]
-of ring specimens.
-
-(b) The combined inductance of two coils connected in series is 0.6 H or 0.1 H [10]
-depending on the relative directions of the currents in the coils. If one of the
-coils when isolated has a self-inductance of 0.2 H, calculate (i) mutual inductance
-and (b) coupling coefficient.
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper b5e92d33fbad
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/BASIC ELECTRICAL ENGINEERING B TECH (ALL STREAMS), BATCH0003.pdf`
-- Printed on paper: duration hours: 3; exam date: 49/06/2015
-- Text: ocr (3 pages), mean OCR confidence 87.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Trimester: I
-Batch: 2011-12
-Academic Year: 2014-2015
-Subject: Basic Electrical Engineering
-Marks: » .100
-Date: 49/06/2015 Time: ‘19.00 am to 1.00 pm
-lo--1fs Durations: . 3 (hrs)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining question, attempt any FOUR.
-
-3. In all FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1] Attempt any four. [20]
-
-a.) find the power delivered by the 50V source in the circuit.
-
-am 2k 4 oe
-|
-jov
-Sov T oA
-
-b.) Find equivalent resistance between A and B
-
-AA
-IOs
-° WW WA, AANA —oe@
-A los lod 1Os2
-MA
-lo
-c.) Derive emf equation of the transformer.
-d.) State and explain maximum power theorem.
-e.) Find the voltage of the point A w.r.t B SA
-5s.
-———_AMM@A———1——2 A —G)—
-+ =
-jov oe 3 om s 3.2 4Se
-- Sv +
---- page 2 ---
-Q2.a) Find current through 4Q resistor using superposition theorem.
-
-r c
-év
-
-SA (*) Zon 4.0.
-
-2A
-
-Q2.b) State Norton’s theorem and find current through 10Q resistor using the same.
-6SL 20
-AW
-
-|
-7 in g 3 IO.
-
-"T 20V
-Q3.a) Derive the expression for Delta to Star and Star to Delta.
-Q3.b) Explain. the behavior of pure inductor in an AC circuit.
-
-lov
-
-;
-
-Q4.a) Deduce the relationship between phase and line quantities (voltage, current, power)
-in the circuit of a three phase star connect system. Also draw phasor diagram.
-Q4.b) A 5 KVA distribution transformer has a full load efficiency of 95% at which
-Cu loss is equal to iron loss. The transformer is loaded in 24 hours as follows:
-
-i. No load
-
-ii. Y full load for 7 hours
-iii. Y full load for 5 hours
-iv. Full load for 2 hours
-
-Calculate all day efficiency of the transformer. Assume load Pf of unity.
-
-Q5.a) Draw and explain the phasor diagram for leading power factor of a 1@ transformer.
-
-Q5.b) For the circuit shown, find Ri for maximum power and calculate maximum power.
-
-3.
-HA
-
-52 s
-S202
-
-mi
-
-4
-
-[10]
-
-[10]
-
-{10}
-[10]
-
-{10]
-
-[oJ
-
-[10]
-[10]
---- page 3 ---
-Q6.a) Derive the expression for energy stored for inductance and capacitance in case of
-
-transients.
-Q6.b) Explain the construction and working of three phase induction motor.
-
-Q7.a) With a neat diagram explain energy meter
-Q7.b) Distinguish between ammeter and voltmeter.
-
-[10]
-
-[10]
-
-[10]
-[10]
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 3c34ae2dfe56
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/scan0003(8).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
-- Text: ocr (3 pages), mean OCR confidence 89.6
-
-````text
-~ SVKM’s NMIMS
-‘ Mukesh Patel School Of Technology Management & Engineering
-Program B.Tech- All streams Year: I Trimester: I
-Academic Year : 2012-2013
-
-Subject: Basic Electrical Engineering Marks: 100
-Time: 2.00 pm To 5.00 pm
-Date: 29/10/2012 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions provided on the question
-paper and on the cover of the answer book which is provided for their use.
-NB:
-
-1. Question no. 1 is compulsory.
-
-2. Out of the remaining questions, attempt any FOUR.
-
-3. Inall FIVE questions to be attempted.
-
-4. Figure in brackets indicate full marks.
-
-Q.1. Attempt any four of the following. [20]
-
-a) State and explain the following theorems: 1) Norton’s theorem
-2) Maximum power transfer theorem
-
-b) It is required to operate a geyser of 2KW. At an initial temperature of 20°C, a voltage
-200V is necessary. After some time, a voltage of 225V is necessary to maintain the
-same power. Estimate the temperature attained by the coil. Assume ao = 0.006/°C.
-
-c) Derive the equation for the average and rms values of a half wave rectified
-voltage waveform.
-
-d) Derive the emf equation of a single phase transformer:
-
-e) A capacitor is charged from a dc source through a resistor of 500K. If the voltage
-
-| across the capacitor reaches 75% of its initial value in 0.5 sec, find the capacitance.
-
-Q.2.
-
-a) In the figure given below, replace the network to the left of the terminals [10]
-a-b by its Thevenin’s equivalent circuit and hence find current I.
-
-6 iL. 2 a
-AN > - ba
-j }
-get - yr
--| if. & ; = => lo
-
-20V
-
-os _
---- page 2 ---
-b) Find the equivalent resistance between terminals A-B of the network shown
-using star-delta transformation. |
-
-tA | Wh
-Bye 2
-
-A
-
-WW
-$fU 6 2
-
-Tadks 4
-
-= 4
-Q3: %
-
-a) Find the current in the 4Q resistance using Superposition theorem for the
-figure shown below.
-
-5k G)
-
-}
-b) An ac circuit consists of a pure resistance and an inductive coil connected
-in series. The power dissipated in the pure resistance and in the coil are 1000W
-and 200W respectively. The voltage drops across the resistance and the coil are
-200V and 300V respectively. For this circuit, draw a neat ai ae indicating
-all the relevant parameters, and calculate
-1) value of the pure resistance 2) current through the circuit
-3) resistance of the coil 4) reactance of the coil
-} 5) impedance of the coil 6) total impedance of the circuit
-* 7) supply voltage
-
-oat
-
-_a) A series RLC circuit with a resistance of 10 Q, inductance of 0.2 H and a
-capacitance of 40 uF is supplied with a 100V ac supply. Find the following with
-respect to the series resonant circuit:
-
-1) the frequency at resonance 2) current 3) power
-
-[10] |
-
-nn
-
-[10]
-
-[10]
-
-4) power factor 5) voltage across R, L&C 6) quality factor of the circuit
-
-b) Derive the relation between line and phase quantities for a 3 phase balanced
-star connected load. Draw the complete phasor diagram for a lagging power
-factor load.
-
-—23 —
-
-[10]
---- page 3 ---
-@5.
-a) A load test is conducted on a 2 KVA, 220 V/110 V, 50 Hz single phase [10]
-
-transformer using resistive load. Following are the results obtained at a particular
-load condition: $
-
-Primary side Secondary side
-Vi i, W, V2 lL W2
-220 V 4.5A 866W 102V 8A -
-
-If the no-load secondary voltage is 108V, calculate the efficiency and regulation of the
-transformer at the given load condition.
-
-b) Derive the expression for the energy stored in an inductor. [10]
-Q.6.
-a) An iron ring has a cross-section of 3 cm’ and a mean diameter of 25 cm. [10]
-
-An air-gap of 0.4mm has been cut across the section of the ring. The ring is wound
-with a coil of 200 turns through which a current of 2A is passed. If the total
-magnetic flux is 0.24 mWb, find the relative permeability of iron.
-
-b) State and explain Steinmetz Law. Calculate the energy lost per second by [10]
-hysteresis in an iron armature weighing 50.86 kg , the frequency being 50Hz,
-flux density being 0.3 Wb/m’, the hysteresis coefficient being 376.8 J/m? and
-the density of the armature iron being 7.75.
-
-Q.7. Write short notes on the following: [20]
-
-a) Resonance in parallel ac circuits
-b) Open Circuit and Short Circuit tests of a transformer
-
-Siz.
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper b2e63bd3b189
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 1ST/BASIC ELECTRICAL ENGINEERING/scan0009(9).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
-- Text: ocr (2 pages), mean OCR confidence 84.5
-
-````text
-(alex
-
-SVKM’s NMIMS nrek SCHoS
-Mukesh Patel School of Technology Management & Engineerin: SS ee ge a
-& a
-
-Programme: B.TECH -ALL STREAM Year: I Trimester: I
-
-Academic Year : 2012-2013 NMIMS University \*
-Batch: 2011-12 Mumba 50, Ja |
-Subject: BASIC ELECTRICAL ENGINEERING Marks: 100 at “ye y
-~S
-. Time: 2.00 pm F500 m se
-. a Y pr v7, %
-Date: 29/10/2012 Duration: 3 hrs. < manngewe
-
-Re - Examination
-
-Instructions : Candidates should read carefully the instructions printed on the question
-‘ paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. | is compulsory.
-
-2. Out of the remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted. -
-
-4.. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicate full marks.
-
-Ql. (a) What is the difference between electric motor and electric generator? . [5]
-
-- Ql. (b) Calculate the energy stored in an inductor of inductance 50 mH when {5]
-acurrent of 2 A is passed through it.
-
-Ql.(c) _ Ifthe length of a wire of resistance R is uniformly stretched 4 times its [5]
-original value, find the new value of resistance.
-Qi.(d) In an RLC series circuit, the voltage across the resistor, inductor and (5]
-
-capacitor are 10V, 15V and 12V respectively. What is the value of the °
-supply voltage?
-
-Q2. (a) State all possible source of errors that are involve in watt-hour metet [6]
-. and show how these are minimized in practice.
-
-Q2.(b) The voltage applied to a circuit is v = 100 sin (@t+30°) and the current [6]
-flowing in the circuit is i =15 sin’ (wt+60°). Determine impedance,
-resistance, reactance, pf and power.
-
-Q2.(c) Derive the phase relationship between voltage and current for a RC [8]
-series circuit. Draw the impedance and power triangle and derive the
-
-“J expression for active, reactive and apparent power.
-
-Q3.(a) Find the average and rms value of the waveform given in Fig. § [6]
-
-2
---- page 2 ---
-Q3. (b)
-
-Q3. (¢)
-
-Q4. (a)
-
-Q4. (0)
-
-aaa
-
-Q4. (c)
-
-QS. (a)
-QS. (b)
-Q5. (©)
-Q6. (a)
-
-Q6. (b)
-Q6. (c)
-
-The shunt winding of the motor has a resistance of 80 Q at 15°C. Find
-its resistance at 50°C. Resistance temperature coefficient of copper is
-~ 0.004/°C at 0°C.
-
-A 60 Hz sinusoidal current has an instantaneous value of 7.07A at t=0
-and rms value of 10/24. Assuming current wave to enter positive
-half at t=0, determine. (i) expression for instantaneous current (ii)
-magnitude of current at t=0.0125 sec (iii) magnitude of current at
-t=0.025 sec after t=0.
-
-For the circuit shown in Fig. 2, find the current flowing through 10 Q
-resistor using Norton’s theorem.
-
-QR 2 [av
-oye
-
-Ni
-20V So. 10-2
-
-52 . Rips? =
-
-For the circuit shown in Fig.4, find the value of R, for maximum
-power and calculate maximum power.
-
-LL 12
-
-RL
-
-22
-ES Ay 8
-
-For the circuit shown in Fig. 4, determine, a 00SH. 202 OH
-(i) Circuit current
-
-ZA
-
-50
-
-[6]
-
-[8]
-
-[6]
-
-[6]
-
-pF
-[8]
-
-(ii) Voltage drops, V1 and V2 | <“vV - <— yw,”
-nN
-
-()
-
-* : 200V,, SOH
-Derive the emf equation for single phase transformer. Explain the
-different types of losses that occur in a single phase transformer.
-
-Discuss voltage and current relationships for different types of
-generators. Also discuss its applications. ;
-
-A 300: kVA, single phase transformer has a percentage resistance of
-1.5% and maximum efficiency occurs at a load of 173.2 kVA. Find
-the efficiency at full load anf 0.8 lagging pf. ;
-
-_Sketch the circuit of an electro-mechanical ammeter, and briefly
-explain its operation. Comment on the resistance of an ammeter.
-
-Explain ways to make a single phase induction motor self starting.
-
-Derive the relation for quality factor of a series RLC circuit. Also
-discuss the behaviour of R, L and C with change in frequency on the
-
-nature of the circuit and pf.
-vf
-2
-
-[6]
-[6]
-[8]
-[6]
-[6]
-[8]
-````
-
-## Year not stated · Exam not stated · Sem 1 · paper bf92f0023ac9
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/BASIC ELECTRICAL ENGINEERING/Basic Electrical & electronic engg.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 86.6
-
-````text
-| . SVKM’S NMIMS
-| MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& en C
-Academic Year: 2022-2023
-
-|
-Program 8 Tech/MBA Fech(AUL FP A2 NE) coe, (Ds) -10S9
-
-Subject: Basic Electrical & Dioner Engineering Time: 4 _hrs(ltam to 2 pr)
-
-| Date: 15 June 2ORB . No. of Pages:3
-
-Marks: 100
-
-Year: I Semester: _\_
-
-Special Re-Examination |
-
-| Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-
-| of the Answer Book, which is provided for their use.
-
-| 1) Question No._1___ is compulsory.
-| 2) Out of remaining questions, attempt any _4_ questions.
-3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-
-i ¢ 6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql Answer briefly:
-oO i so-l, | a. List the steps to solve an electrical circuit using Nodal Analysis [4]
-b. The equation for an alternating current is given by i= 14.14 sin 377t. Find
-@ RMS value of current
-CO-2; SO- 1; Gi) frequency [4*1]
-Ble (iii) instantaneous value of current when t= 3 ms
-(iv) Time period
-set SO jc. List the important characteristics of an ideal transformer. [4]
-or so-l; | d. Write the differences between inverting and non-inverting Amplifier. [4]
-~ en e. Draw an OR and AND gate symbol with two binary inputs and one binary (4
-Bie output with their truth tables and Boolean expression.
-
-Qz a Determine the current through 5Q resistor in the network shown by
-CO-1; SO-1; Thevenin's theorem.
-| BLS 6Q 2Q
-i pS —WW
-| [10]
-: 10V = 12 : 30 Z 52
-
-_t}
-|
-20V
---- page 2 ---
-@
-
-Explain the AC analysis of RC series circuit by using Phasor Diagram,
-
-CO-2; SO-1; Voltage Triangle, Power Triangle and waveforms and equations of voltage [10]
-BL-2 and current.
-Q3 Explain the principle of Resonance in Series RLC circuit with the help of
-CO-2; SO-1; suitable circuit diagram and resonance curve.
-BL-3 Also derive the equation for resonant frequency(fo) [10]
-@ Discuss the construction and operating principle of a single-phase
-CO-2; SO-1; induction motor with the help of a neatly labelled diagram. {10]
-BL3
-Q4 When a sinusoidal voltage of 120 V is applied to a series RL circuit,it is
-CO-2; SO-1; found that there occurs a power dissipation of 1200 Watts and the current
-BL-3 flowing in the circuit is given by i(t) = 28.3 sin (314t — @).Determine
-(i) Trams .
-(ii) ~~ Impedance 2)
-(iii) | Power factor of the circuit
-(iv) Value of resistance
-(v) Value of Reactance
-Q4 Explain the concept of photodiode and light emitting diode with their
-CO-4; $0-4; features. [5*2]
-BL-2
-Qs Explain the construction and working principle of Full wave Rectifier
-ee S0-1; with neat, labelled diagrams and waveforms. {10)
-0s Realize the following Boolean function
-c0-4:50-1: F = ABC + ABC’ + A’BC' using only AND, OR, and NOT gates, [10]
-Bs and also write the truth table of the given Boolean function.
-Q6 A 80 KVA, 3200/400 V, 50Hz, single phase transformer has 111 turns on
-CO-3; SO-1; the secondary side and the maximum flux density is 1.2 Tesla. calculate: . a
-BL-3 (i) The number of primary turns 2
-i" (ii) The rated primary and secondary currents
-(iii) Cross sectional area of core
-(iv) The max value of the flux
-(v) Voltage induced per turn
-Q6 With the help of mesh current method, find the magnitude and direction of
-c0-1;50-1; the current flowing through the 1Q and 3 Q resistor in the network. [5*2]
-
-BL-4
---- page 3 ---
-=
-
-22 250
-
-i NN —ANW
-a
-12 = |
-
-230 =
-
-£ = 250.
-
-12.5V T : |
-
-Q7
-
-CO-1; SO-1;
-BL-1
-
-State superposition theorem. What are the various steps to be followed for
-calculation of load current using superposition theorem. Explain with the
-help of circuit diagram in details.
-
-7
-
-Q7
-0-3; SO-1; BL-
-1
-
-Explain different types of losses in a transformer.
-
-Q7
-
-CO-2; SO-1;
-BL-3
-
-Write statements of De-Morgan’s first and second theorem. Also prove
-both of them using truth table.
-
-6
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 071913a04463
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/BASIC ELECTRICAL ENGINEERING/scan0015(6).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 86.8
-
-````text
-SVKM’s NMIMS OoOLS”
-Mukesh Patel School of Technology Management & Engineering ;
-Programme: MBA (TECH) -ALL STREAM Year: I Trimester: I
-
-Academic Year : 2012-2013
-
-2.
-
-Batch: 2011-12 re aN
-
-Subject: BASIC ELECTRICAL ENGINEERING Marks: 100 = fadiies Lrrodewia i
-: ~ Time: 10.00 Mumbai - 56,
-
-ad 29/10/2012 Duration: 3 hrs. tooo MBRARY
-
-- Re - Examination
-
-bs) aN
-
-'Y
-
-<“y &
-Sinus
-
-N.B: 1. Question No.1 is compulsory
-2. Out of remaining questions, attempt any 4 questions
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume suitable data whenever required but justify the same.
-
-1. Attempt any five of the following: - [20]
-
-(a) Define cycle, time period and phase.
-(b) The resistance of a coil of wire increases from 800 at-10° C to 96.6Q at 60° C
-Find the temperature coefficient of the material. :
-
-(c) State and explain Norton’s theorem, Explain analogy of Thevenins and
-Nortons Theorm
-
-(d) Explain different torque available in indicating types: of instruments
-
-(e) Find equivalent resistance between A and B.
-
-VV
-A {72
-a a
-Qo ),, fs 6D
-Vv AWMMA——]
-252 1
-S31 Yr
-
-——————_—_ wn
-
-p>
-
-2. (a) For the circuit shown find R, such that the maximum power delivered to Rr,
-j also calculate the power delivered to Ry, and power dissipated in 1KO resistance. [10]
-
-v ) 4K 3mA
-
-, z
-eT 1K RL
-
-ae |
---- page 2 ---
-(b)Find Vab using nodal analysis ; [10]
-et Be | Bie
-
-AWA +. 2A 4
-Ok -
-4+
-4+
-
-\vou. — vin an =
-
-Sou
-
-3. (a) Apply Superposition theorem to compute current in the 4 Q resistor of fig. [10]
-given below.(All the resistors are in ohms)
-
-(b) Deduce the relationship between phase and line quantities (voltage, current, [10]
-Power) in the circuit of a three phase star connected system. Also draw
-Phasor diagram.
-
-4.(a) A 400K VA transformer has primary winding resistance of 0.5Q and secondary
-winding resistance of 0.001Q. The iron losses is 2.5kw.Primgary and secondary
-voltage are 5kV and 230V Resp. If the power factor of the load is 0.85
-determine the efficiency of Transformer a) On full Load. b) On half load [10]
-
-\b) ‘A switch in following circuit open for long time, at t=Oit is closed i) Calculate
-Vcat 2msec after switch is closed. ii)If the switch is now kept closed for long
-time find Vc 2msec after it is suddenly open. [10]
---- page 3 ---
-5. (a) Explain with neat diagram construction and working of permanent magnet [10] |
-moving coil instrument. What are the advantages of these instruments?
-
-(b) Explain construction & working of D.C. machine. [10]
-
-6.(a ) Explain R-L & R-C series circuit with its vector diagram & waveforms. [10]
-
-(b) A choke coil of 10 ohm resistance and 0.1 Henry inductance is connected in series
-with capacitor of 200 microfarads capacitance. Calculate the current, the coil voltage and
-the capacitor voltage. The supply voltage is 230 V at 50 Hz. At what frequency the circuit
-resonate? Calculate the voltage at resonant frequency across the coil and capacitance. For
-this assume supply voltage is 230V of variable frequency. [10]
-
-7. Write short notes on(Any twe): - [20]
-
-(a) concept of rotating magnetic field.
-(b) Star- Delta transformations
-(c) Back Emf.
-
-a ns © ed
-
-a
-
-fs
 ````

@@ -227,6 +227,93 @@ Slow and Fast Frequency Hopping Spread Spectrum
 2|2
 ````
 
+## 2018-19 · Re-Exam · Sem 6 · paper 5bc2ae2b1cfa
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/DIGITAL COMMUNICATION/Digital communication...Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA. Tech / B.Tech (EXTC) Year: III “ Semester: VI
+Academic Year: 2018-19
+Subject: Digital Communication , Marks: 70
+Date: 17June2019 —* Time: 10.00 am to 1.00 pm
+
+Duration: 3 (Hrs)
+No. of Pages: 2
+
+Re- Examination (2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks. ;
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1. A Write a short note on ‘Eye Pattern’. ; 04
+B_ Define Linear Block Code (LBC), Hamming Weight of a codeword and Code Rate in block 04
+coding.
+C Compare Binary Phase Shift Keying (BPSK) and Quadrature Phase Shift Keying (QPSK) 02
+techniques (mention at least 4 points).
+D What is ‘Prefix Code’? Do the codewords (01, 010, 111) constitute a prefix code? 02
+E State ‘Sampling Theorem’ and mention the types of sampling. 02
+
+Q2 A GivenaDMS producing five messages with probabilities P(m1) = 0.1, P(m2) = 0.1, P(m3) 07
+= 0.3, P(m4) = 0.35, P(m5) = 0.15 respectively, design a Huffman code for this DMS and
+also find its efficiency.
+
+B Explain Pulse Code Modulation and Demodulation. 07
+Q3 A Write a note on Equalizer. 05
+B_ Derive the power spectra of following discrete PAM signals; 09
+i) NRZ Unipolar, ii) NRZ Polar, iii) NRZ Bipolar
+Q4 A Explain Non — Coherent Binary Frequency Shift Keying (BFSK) technique in detail 07
+
+including its modulation, demodulation, and bandwidth.
+B_ Write a note on (only) modulation part of Minimum Shift Keying (MSK) technique, show 07
+its signal space representation and calculate bandwidth.
+
+Q5 A Explain about Differential Phase Shift Keying (DPSK) modulation and demodulation. 07
+Page 1 of 2
+--- page 2 ---
+B Diagrammatically show the stages involved in the detection of digital signals and also 07
+elaborate on functioning of these stages.
+
+Q6 A _ Ifthe parity matrix for a (7, 4) linear block code is, 07
+110
+F . 041i
+Parit t P):
+arity matrix (P) 111
+1 01
+
+then find the generator matrix, Parity check matrix and encoded codeword for the
+message vectors: m1=0000, m2=1101, m3=0010, m4=1111. Also find the
+- minimum Hamming distance for the code obtained from these message vectors.
+B Suggest a suitable generator polynomial to obtain the Cyclic code of size (7,4) and also 07
+elaborate on the operation of systematic cyclic encoder (implemented by using shift
+registers) for the message vector m=[1011].
+
+Q7 A. Design a (2,1) convolutional encoder of constraint length K = 3 with generator g: = 100, 07
+g2 = 001 and represent its encoded sequence on trellis diagram, tree diagram if the
+message m=110110. Also draw the state diagram.
+B_ Debrief on Pseudo Noise Sequences and its properties. 07
+
+Page 2 of 2
+````
+
 ## 2018-19 · Re-Exam · Sem 6 · paper f4dd922bbc78
 
 - Departments: Electronics and Telecommunication
@@ -732,6 +819,99 @@ correction capability,
 Zo
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 895cfa9413e0
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION (EXTC), BATCH 14-15, 15-16, 16-17 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; exam date: 01 December 2017
+- Text: ocr (2 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+] Programme: B. Tech (EXTC) Year: III Semester: V
+
+Batch: 2014-15/ 2015-16/ 2016-17
+Academic Year: 2017-2018
+
+Subject: Digital Communication
+
+Marks: 60 .
+
+Date: 01 December 2017 Time: 2. Oa to 5. 00 oN
+Durations: 6 ( (firs) 3 3 oe :
+
+Re-Examination Ls
+
+%
+: ay — —-
+“© See ave!
+
+~~
+
+1. Question No. ONE is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new questions to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 Attempt any Four 12
+a. Discuss Orthogonal BFSK in brief.
+b. Give advantages of MSK over QPSK.
+
+c. What is minimum distance? Give relation between minimum distance and error
+detecting and correcting capability.
+
+d. Discuss Source Coding Theorem.
+e. Discuss Intersymbol interference. How it can be removed?
+
+f. Given the data stream 1110010100, sketch the transmitted sequence of pulses for
+following : (ANY THREE)
+Bi-phase S, Bipolar RZ; RZ-AMI, Manchester Code and NRZ-S.
+
+Q.2 a. Describe the principle of Pulse code modulation using block schematic. Give its 06
+advantages and drawbacks.
+
+— b. Define syndrome. What is use of syndromes? Explain syndrome decoding with 06
+suitable block diagram.
+
+Q.3 a. For (7,4) cyclic code, generator polynomial g(x) = 1 +x?+x3 Find code word using 06
+systematic and non-systematic form for m=1011.
+
+b. Draw and explain block diagram of QPSK transmitter and receiver. 06
+
+Page 1 of 2
+--- page 2 ---
+Q.4 a. Explain in detail basic block diagram of digital communication system. Write is 06
+advantages and disadvantages over analog communication.
+b. A system has an alphabet of eight letters Xi where i=1,2....000.. 5 with 06
+probability 0.4, 0.2, 0.2, 0.1, 0.1. Use Huffman coding to determine binary code for
+the source output. Also find average no. of binary digits per source letter, Entropy,
+Efficiency.
+.Q.5 a, Discuss transmitter, receiver of BPSK with suitable block diagram. 06
+b. Explain Delta Modulation in detail with suitable block diagram. What are its 06
+drawbacks? How can they overcome?
+Q.6 a. A convolution encoder has a single shift register with two stages, three mod-2 adder 06
+and an output multiplexer, generator sequence of an encoder gi; =111 go =101.
+Draw encoder diagram. Determine code word for 11011011.Draw code tree.
+b. Explain equalizer circuit. Give classification of equalizers and their need. 06
+Q.7 Write short notes on(any three) 12
+a Eye Diagram
+b Frequency Hop Spread spectrum and its types
+ec Prefix Coding
+d= Matched Filter
+
+Page 2 of 2
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper 1ecd6bed368c
 
 - Departments: Electronics and Telecommunication
@@ -867,93 +1047,6 @@ Slow Frequency hopping spread spectrum
 Page 3 of 3
 ````
 
-## 2017-18 · Re-Exam · Sem 6 · paper 5bc2ae2b1cfa
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/DIGITAL COMMUNICATION/Digital communication...Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA. Tech / B.Tech (EXTC) Year: III “ Semester: VI
-Academic Year: 2018-19
-Subject: Digital Communication , Marks: 70
-Date: 17June2019 —* Time: 10.00 am to 1.00 pm
-
-Duration: 3 (Hrs)
-No. of Pages: 2
-
-Re- Examination (2017-18/2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks. ;
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1. A Write a short note on ‘Eye Pattern’. ; 04
-B_ Define Linear Block Code (LBC), Hamming Weight of a codeword and Code Rate in block 04
-coding.
-C Compare Binary Phase Shift Keying (BPSK) and Quadrature Phase Shift Keying (QPSK) 02
-techniques (mention at least 4 points).
-D What is ‘Prefix Code’? Do the codewords (01, 010, 111) constitute a prefix code? 02
-E State ‘Sampling Theorem’ and mention the types of sampling. 02
-
-Q2 A GivenaDMS producing five messages with probabilities P(m1) = 0.1, P(m2) = 0.1, P(m3) 07
-= 0.3, P(m4) = 0.35, P(m5) = 0.15 respectively, design a Huffman code for this DMS and
-also find its efficiency.
-
-B Explain Pulse Code Modulation and Demodulation. 07
-Q3 A Write a note on Equalizer. 05
-B_ Derive the power spectra of following discrete PAM signals; 09
-i) NRZ Unipolar, ii) NRZ Polar, iii) NRZ Bipolar
-Q4 A Explain Non — Coherent Binary Frequency Shift Keying (BFSK) technique in detail 07
-
-including its modulation, demodulation, and bandwidth.
-B_ Write a note on (only) modulation part of Minimum Shift Keying (MSK) technique, show 07
-its signal space representation and calculate bandwidth.
-
-Q5 A Explain about Differential Phase Shift Keying (DPSK) modulation and demodulation. 07
-Page 1 of 2
---- page 2 ---
-B Diagrammatically show the stages involved in the detection of digital signals and also 07
-elaborate on functioning of these stages.
-
-Q6 A _ Ifthe parity matrix for a (7, 4) linear block code is, 07
-110
-F . 041i
-Parit t P):
-arity matrix (P) 111
-1 01
-
-then find the generator matrix, Parity check matrix and encoded codeword for the
-message vectors: m1=0000, m2=1101, m3=0010, m4=1111. Also find the
-- minimum Hamming distance for the code obtained from these message vectors.
-B Suggest a suitable generator polynomial to obtain the Cyclic code of size (7,4) and also 07
-elaborate on the operation of systematic cyclic encoder (implemented by using shift
-registers) for the message vector m=[1011].
-
-Q7 A. Design a (2,1) convolutional encoder of constraint length K = 3 with generator g: = 100, 07
-g2 = 001 and represent its encoded sequence on trellis diagram, tree diagram if the
-message m=110110. Also draw the state diagram.
-B_ Debrief on Pseudo Noise Sequences and its properties. 07
-
-Page 2 of 2
-````
-
 ## 2016-17 · Final-Exam · Sem 6 · paper c52db282da7f
 
 - Departments: Electronics and Telecommunication
@@ -1073,180 +1166,14 @@ Derive expression for probability of error for BPSK modulation scheme.
 (6)
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 895cfa9413e0
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION (EXTC), BATCH 14-15, 15-16, 16-17 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; exam date: 01 December 2017
-- Text: ocr (2 pages), mean OCR confidence 89.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-] Programme: B. Tech (EXTC) Year: III Semester: V
-
-Batch: 2014-15/ 2015-16/ 2016-17
-Academic Year: 2017-2018
-
-Subject: Digital Communication
-
-Marks: 60 .
-
-Date: 01 December 2017 Time: 2. Oa to 5. 00 oN
-Durations: 6 ( (firs) 3 3 oe :
-
-No. of Paget: L gQha RI i
-Re-Examination Ls
-
-%
-: ay — —-
-“© See ave!
-
-~~
-
-1. Question No. ONE is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. In all FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new questions to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 Attempt any Four 12
-a. Discuss Orthogonal BFSK in brief.
-b. Give advantages of MSK over QPSK.
-
-c. What is minimum distance? Give relation between minimum distance and error
-detecting and correcting capability.
-
-d. Discuss Source Coding Theorem.
-e. Discuss Intersymbol interference. How it can be removed?
-
-f. Given the data stream 1110010100, sketch the transmitted sequence of pulses for
-following : (ANY THREE)
-Bi-phase S, Bipolar RZ; RZ-AMI, Manchester Code and NRZ-S.
-
-Q.2 a. Describe the principle of Pulse code modulation using block schematic. Give its 06
-advantages and drawbacks.
-
-— b. Define syndrome. What is use of syndromes? Explain syndrome decoding with 06
-suitable block diagram.
-
-Q.3 a. For (7,4) cyclic code, generator polynomial g(x) = 1 +x?+x3 Find code word using 06
-systematic and non-systematic form for m=1011.
-
-b. Draw and explain block diagram of QPSK transmitter and receiver. 06
-
-Page 1 of 2
---- page 2 ---
-Q.4 a. Explain in detail basic block diagram of digital communication system. Write is 06
-advantages and disadvantages over analog communication.
-b. A system has an alphabet of eight letters Xi where i=1,2....000.. 5 with 06
-probability 0.4, 0.2, 0.2, 0.1, 0.1. Use Huffman coding to determine binary code for
-the source output. Also find average no. of binary digits per source letter, Entropy,
-Efficiency.
-.Q.5 a, Discuss transmitter, receiver of BPSK with suitable block diagram. 06
-b. Explain Delta Modulation in detail with suitable block diagram. What are its 06
-drawbacks? How can they overcome?
-Q.6 a. A convolution encoder has a single shift register with two stages, three mod-2 adder 06
-and an output multiplexer, generator sequence of an encoder gi; =111 go =101.
-Draw encoder diagram. Determine code word for 11011011.Draw code tree.
-b. Explain equalizer circuit. Give classification of equalizers and their need. 06
-Q.7 Write short notes on(any three) 12
-a Eye Diagram
-b Frequency Hop Spread spectrum and its types
-ec Prefix Coding
-d= Matched Filter
-
-Page 2 of 2
-````
-
-## 2015-16 · Final-Exam · Sem 8 · paper 2f86657fe955
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_08/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (ELECTRONICS), BATCH 2015-16 FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 09/05/2016
-- Text: ocr (1 page), mean OCR confidence 93.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (ELECTRONICS) Year: IV Semester: VIII
-Academic Year: 2015-2016
-
-Subject : Digital Communication
-
-Marks: 60
-
-Date : 09/05/2016 Time : 10.00 am t
-Durations: 3 (hrs)
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Assume Suitable data if necessary
-
-1 Answer any three 12
-a. Define Sampling Theorem. What is Nyquist rate?
-b. Explain prefix coding with one example.
-c. What is ISI?
-d. Compare BPSK with BFSK.
-2 a. With neat block diagram, explain the working of a digital communication 06
-
-system.
-b. Define entropy. Derive an expression for entropy. A source emits 5 symbois
-with probabilities 0.4, 0.19, 0.16, 0.15 and 0.1. Calculate the entropy ofthis 06
-
-source.
-
-3 a. With neat block diagram, explain the working of BFSK receiver. Draw the 06
-
-power spectrum of BFSK.
-b. Why MSK is called as shaped QPSK? Justify with relevant waveforms and 06
-
-a expressions.
-
-4 a. For 8-ary PSK, calculate the Euclidean distance between two symbols and 06
-also find out the required bandwidth
-b. Draw the shift register encoder for a (7,4) cyclic code using the generator 06
-
-polynomial G(D) = D? +D +1.Find out the code word for the message
-{1 1 1 0} using this encoder.
-
-5 a. The generator matrix of a (7,4) linear block code is given by 06
-— 1000111
-0100110
-Pai 0010101
-0001011
-
-For a received code word Y= {0 1 1 0 1 1 0}, find the syndrome vector, error
-vector and the corrected code word.
-
-V2.
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 56f11b0fe8e1
+## 2016-17 · Re-Exam · Sem 5 · paper 56f11b0fe8e1
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B T ECH (EXTC), BATCH 14-15, 15-16 RE EXAM.pdf`
 - Printed on paper: exam date: 03 December 2016
 - Text: ocr (2 pages), mean OCR confidence 85.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1324,16 +1251,16 @@ Q.7(A) What do you mean by slow trequency hopping and fast frequency hopping? Ex
 codeword for the message sequence [1116] in a systematic form. Draw the encoder
 diagram.
 
-2 ee 2 oe oe 2 eo 2 ok oR ok oR ok OK
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 984626a38261
+## 2016-17 · Re-Exam · Sem 5 · paper 984626a38261
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (EXTC), BATCH 14-15, 15-16 RE EXAM.pdf`
 - Printed on paper: exam date: 03 December 2016
 - Text: ocr (2 pages), mean OCR confidence 84.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1410,7 +1337,313 @@ Q.7 (A) What do you mean by slow frequency hopping and fast frequency hopping? E
 
 diagram.
 
-3 2 2 ie 2 ie 2 2 2 a oe oo OK Eo
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper 2f6c7766d788
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 07 July 2017
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: VI
+
+Batch: 2013-14
+
+Academic Year: 2016-2017
+
+i Subject: Digital Communication
+
+Date: 07 July 2017
+
+¢
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. Inall five questions to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicates full marks.
+
+7. Illustrate your answers with neat labelled diagram wherever necessary.
+
+Q.1 Attempt any four questions. (20M)
+
+A. Give significance of Eye diagram in Digital ¢€ommunication.
+
+B_ Define Linear Block Code, Hamming weight of a codeword and Hamming
+distance.
+
+C Compare passband and baseband.
+
+D_ Explain ISI.
+
+E What is relation between Information and Entropy? Write any two properties of
+Entropy.
+
+F Compare coherent and non-coherent detection.
+
+Q.2 A A Discrete Memoryless Source emits four symbols with following probabilities (10M)
+P1=0.4, P2=0.1, P3=0.3, Pa=0.2.
+Design a Huffman code for this source, @lso find the entropy & efficiency.
+B_ Define and draw waveform for ASK, FSK, PSK modulation schemes if given (10M)
+data sequence is 10111001.
+
+Q.3 A Describe QPSK modulation and demodulation technique. (10M)
+B_ Determine the error probability of BPSK & BFSK modulation technique. (10M)
+
+Q4 A. Draw the basic model of digital communication system and explain each block (10M)
+in detail.
+B_ The parity check matrix of a particular (7,4) linear block code is given by, (10M)
+
+wea (H]= 1110100
+1101010
+1011001
+
+a) Find generator matrix.
+
+b) What is minimum distance between code vectors?
+c) How many errors can be detected? How many errors can be corrected?
+
+Yo
+--- page 2 ---
+. d) What is the minimum distance between the code vectors?
+
+Q:5 A. State different types of QAM prove that for the 16 — QAM digital modulation (10M)
+technique the Euclidean distance is given by d=2 (0.4E»)!” also draw signal
+constellation diagram.
+
+B_ For the given coder shown obtain the convolution code for the bit sequence 1 1 (10M)
+01101 1 and decode it by constructing the corresponding code tree.
+
+V
+\
+
+Mo}wmM, MZ
+
+Mors, a ao
+eared No_
+Q.6 A The generator polynomial for (7,4) cyclic Hamming code is given by, (10M)
+G(D)=1+D+D? compute all the systematic code words.
+B_ Write a note on Pseudo noise sequence. Generate a noise sequence if seed point (10M)
+is 1001.
+
+Q.7 Write short notes with diagram on any three of the following: (20M)
+
+A Adaptive Delta Modulation.
+
+B_ Equalization.
+
+C_ Correlation receiver.
+
+D_ DPCM Transmitter and Receiver
+````
+
+## 2015-16 · Final-Exam · Sem 8 · paper 2f86657fe955
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_08/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (ELECTRONICS), BATCH 2015-16 FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 09/05/2016
+- Text: ocr (1 page), mean OCR confidence 93.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (ELECTRONICS) Year: IV Semester: VIII
+Academic Year: 2015-2016
+
+Subject : Digital Communication
+
+Marks: 60
+
+Date : 09/05/2016 Time : 10.00 am t
+Durations: 3 (hrs)
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Assume Suitable data if necessary
+
+1 Answer any three 12
+a. Define Sampling Theorem. What is Nyquist rate?
+b. Explain prefix coding with one example.
+c. What is ISI?
+d. Compare BPSK with BFSK.
+2 a. With neat block diagram, explain the working of a digital communication 06
+
+system.
+b. Define entropy. Derive an expression for entropy. A source emits 5 symbois
+with probabilities 0.4, 0.19, 0.16, 0.15 and 0.1. Calculate the entropy ofthis 06
+
+source.
+
+3 a. With neat block diagram, explain the working of BFSK receiver. Draw the 06
+
+power spectrum of BFSK.
+b. Why MSK is called as shaped QPSK? Justify with relevant waveforms and 06
+
+a expressions.
+
+4 a. For 8-ary PSK, calculate the Euclidean distance between two symbols and 06
+also find out the required bandwidth
+b. Draw the shift register encoder for a (7,4) cyclic code using the generator 06
+
+polynomial G(D) = D? +D +1.Find out the code word for the message
+{1 1 1 0} using this encoder.
+
+5 a. The generator matrix of a (7,4) linear block code is given by 06
+— 1000111
+0100110
+Pai 0010101
+0001011
+
+For a received code word Y= {0 1 1 0 1 1 0}, find the syndrome vector, error
+vector and the corrected code word.
+
+V2.
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 000eedded89c
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 04/12/2015
+- Text: ocr (3 pages), mean OCR confidence 88.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+Batch: 2014-2015
+Academic Year: 2015-2016
+
+Subject: Digital Communication
+
+Marks: 60 ae ot ’
+Date: 04/12/2015 Time: 2.00; pm: 00 '
+ao “ / Duration: 3 ie ih OE y; iB
+
+<< Cr wit
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the
+
+question paper and on the cover of the Answer Book, which is provided for
+their use.
+
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+_- 3) Inall5 questions to be attempted.
+4) All questions carry equal marks.
+nswer to
+
+5) Answer to each new question to be started on a fresh page. ;
+
+6) Figures on the right hand side indicate full marks.
+
+1 a. State and explain source coding theorem 4
+
+~ | b. Enumerate various types of errors in a Delta modulation system 3
+ma c. Differentiate between BPSK and BFSK in terms of power spectra,
+bandwidth and signal constellation. 3
+
+b
+--- page 2 ---
+d. Justify the need Tor equalizer in a digital communication system a
+
+2a. A discrete memoryless source produces messages with probabilities
+0.4,0.19,0.16,0.15 and 0.1. Find entropy and construct a Hufffmann
+
+code and and calculate its efficiency. 6
+2b. Given a systematic block code with parity equations 6
+
+Pl=m1+m2+m4
+
+P2=m1+m3+m4
+
+P3=m1l+m2+m3
+
+P4=m2+m3+m4
+
+Determine i. Generator matrix and parity check matrix
+
+ii.ls received vector 10101010 a valid codeword’ Justity.
+
+iii.Evaluate the error detection and correction capability of the code
+
+3a. Describe with neat block diagram principle of DPSK transmitter and
+: receiver. Given a bit stream d(t) 1011011110 determine the DPSK
+output also determine how data is recovered from DPSK signal. 6
+
+b. Describe with block diagram the principle of PCM transmitter and
+
+receiver. : 6
+
+4a. Describle the principle of MSK generation with relevant waveforms and
+
+expressions. 6
+b. State and explain sampling theorem. x)
+c. Compare QPSK with 16-QAM , 34
+
+5a. Consider (3, 1,2) convolution code with g(!) = (100), g(2) = (111), g(3) =
+(110).Sketch state- diagram, Trellis diagram and Tree diagram.
+
+Determine the codeword for the message 1110 1. 6
+
+fs
+--- page 3 ---
+50. Discuss principle of working of FHSS Technique with the aid of neat
+
+sketch and necessary waveforms. Differentiate between slow and fast
+hopping. . &
+6a.Derive an expression for probability of error of matched filter 6
+b. The generator polynomial of (7, 4) cyclic code is X? + X41,
+
+(i) Sketch an encoder for same.
+
+(ii) Construct the generator Matrix for systematic cyclic code and find
+the codeword for message { 1 1 0 1(LSB) } using the generator
+
+Matrix.
+‘a (iii) Verify the result using division method. 6
+7.Write Short notes on: |Z
+
+1. M-ary FSK system
+2.Viterbi algorithm
+3. prefix coding
+
+4. PN sequences
+
+—— x
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper 5838691ae629
@@ -1519,6 +1752,123 @@ c) Inter symbol interference
 d) Delta Modulation
 
 Page 2 of 2
+````
+
+## 2015-16 · Re-Exam · Sem 7 · paper cc27ea813b6c
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (ELECTRONICS), BATCH 2014-15 RE EXAM_cc27ea813b.pdf`
+- Printed on paper: exam date: 01/12/2015
+- Text: ocr (2 pages), mean OCR confidence 87.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Electronics) Year: IV Si :
+Batch: 2014-2015 omen NE
+
+Academic Year: 2015-2016
+
+NIUTE OP ae,
+NER Ui,
+
+ON ON OM ay
+
+Subject: Digital Communication 4 of oN
+Marks: MPSTME Y%,
+Date: 01/12/2015 Time: bri ¥ Js
+Duration: WA ¥ 4
+
+WO
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data, if required.
+
+Ql Attempt any Four: (+2)
+a) Explain Principle of PSK transmission and reception. (3)
+b) Compare Cyclic’ Codes and Convolution Codes (3)
+c) Explain how a matched filter can maximize SNR for a given transmitted (4)
+symbol.
+d) Draw the AMI and RZ code for the digital data 10110100101 (a)
+e) Give advantages and disadvantages of Digital Communication. (3)
+f) Define and state properties of information and entropy. (A)
+Q.2 a) Explain Nyquist criteria for distortionless baseband binary transmission with (6)
+ideal and practical solution.
+b) Explain Principle and working of QPSK Transmitter and Receiver. (6)
+
+Q.3 a) Discuss principle of working of FHSS Technique with the aid of neat sketch and C6)
+necessary waveforms. Differentiate between slow and fast hopping.
+b) Explain the process of quantization, encoding and decoding in PCM. In what (6)
+
+way DPCM is better than PCM.
+Q.4 a) Explain Delta Modulation with neat block diagram and waveforms. CF)
+b) Explain Power Spectra for formats of discrete PAM. (6)
+
+Q5 a) Given a bit stream d (t) 1011011110 determine the DPSK output b (t).Show (6)
+
+4]
+--- page 2 ---
+Q6
+
+Q7
+
+b)
+
+a)
+
+b)
+
+a)
+b)
+c)
+d)
+€)
+
+that b (t) b (t-Tb)-yields original data.
+
+The polynomial of a(7, 4) cyclic code is given by G(D) = 1+D+D?
+
+Compute all the non-systematic codewords.
+The generator matrix for a (6, 3) block code is given below. Find all the code
+words of this code.
+1 00:0 1 1
+G=|]0 1 0:10 1
+Oo 4i:1 21
+Describe with block diagram the principle of adaptive delta modulation.
+Write short notes on (Any four):
+Equalizer
+Maximum likely hood detector
+Viterbi decoding
+Orthogonal BFSK
+PN sequence generator
+_
+
+afr
+
+(6)
+
+C6)
+
+C6)
+(12)
 ````
 
 ## 2014-15 · Final-Exam · Sem 5 · paper 69a02e5f8b37
@@ -1831,122 +2181,328 @@ B_ Write note on Frequency Hop Spread Spectrum.
 yy .
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 000eedded89c
+## 2014-15 · Re-Exam · Sem 6 · paper e2fa366ffb6c
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 04/12/2015
-- Text: ocr (3 pages), mean OCR confidence 88.0
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 05/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.4
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (EXTC) Year: III Semester: V
-Batch: 2014-2015
-Academic Year: 2015-2016
+Programme: B. Tech (EXTC) Year: Ill Semester: VI
 
-Subject: Digital Communication
+Batch: 2013-14 “ =
+Academic Year: 2014-2015
 
-Marks: 60 ae ot ’
-Date: 04/12/2015 Time: 2.00; pm: 00 '
-ao “ / Duration: 3 ie ih OE y; iB
-
-<< Cr wit
+Subject Digital Communication s
+Marks: , “100
+Date: 05/05/2015 Time: rite 10. ae
+Paral. a e tars)
 
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the
-
-question paper and on the cover of the Answer Book, which is provided for
-their use.
-
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the answer book, which is provided for their use.
 NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-_- 3) Inall5 questions to be attempted.
-4) All questions carry equal marks.
-nswer to
 
-5) Answer to each new question to be started on a fresh page. ;
+1. Question No.1 is compulsory.
 
-6) Figures on the right hand side indicate full marks.
+2. Out of remaining questions, attempt any 4 questions.
 
-1 a. State and explain source coding theorem 4
+3. In all 5 questions to be attempted.
 
-~ | b. Enumerate various types of errors in a Delta modulation system 3
-ma c. Differentiate between BPSK and BFSK in terms of power spectra,
-bandwidth and signal constellation. 3
+4. All questions carry equal marks. (if applicable)
 
-b
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q1] Attempt any Four (20)
+
+a) Fora linear feedback shift register with three stages (m=3)evaluate the maximum length
+PN sequence for feedback taps=[3, 1]Draw the schematic arrangement & verify balance
+& Run Property of PN sequence in generated output
+
+b) What is Prefix Coding? Explain with example.
+
+c) Explain 'Sl. 4 :
+
+d) What is the need of predictor in DPCM
+
+e) Why MSK is calied shaped QPSK?
+
+f) State Information Capacity Theorem & Explain.
+
+Q2]
+a) Derive signal to noise ratio for matched filter : (10)
+b) What is line coding? Give the PCM waveforms of the data: 11110001101 (10)
+1) NRZ-L Il) NRZ-M Il) NRZ-S IV) URZ
+V) RZ-AMI VI) Bi phase-L VII) Bi phase-M VIII) Bi phase-S
+Q3]
+a) Discuss QPSK & Draw QPSK modulated waveforms for 11001110 (10)
+b) Describe delta modulation and its drawback (10)
+
+Page 1
 --- page 2 ---
-d. Justify the need Tor equalizer in a digital communication system a
+Q4]
+a) Discuss DEPSK. Why error occurs in pairs in DEPSK explain with example? (10)
 
-2a. A discrete memoryless source produces messages with probabilities
-0.4,0.19,0.16,0.15 and 0.1. Find entropy and construct a Hufffmann
+b) What is Frequency Hop Spread Spectrum Signals discuss with diagram (10)
 
-code and and calculate its efficiency. 6
-2b. Given a systematic block code with parity equations 6
+Q5]
+a) Write steps for Shannon Fano Algorithm & solve the following using same.
+m1=0.25,m2=0.25,m3=0.125,m4=0.125,m5=0. 125,;m6=0.0625,m7=0.0625 (10)
+b) Generator vectors for rate 1/3 convolution encoder are: g(1)=110,g(2)=101,g(3)=111
+Draw encoder diagram, construct encoder matrix & determine code words if input
 
-Pl=m1+m2+m4
+vectors are (111) Draw the state diagram. (10)
+Q6]
 
-P2=m1+m3+m4
+a) Parity check matrix for the (7,3) code is given below:
 
-P3=m1l+m2+m3
+0111000
+1010100
+H = Construct syndrome table for single bit error patterns. Using syndrome,
+1100010
+1110001
+find error pattern & code word of the following received
 
-P4=m2+m3+m4
+vectors.r1=0011101,r2=1101110,r3=0111011 if information vector is (011)determine its
+corresponding code word (10)
 
-Determine i. Generator matrix and parity check matrix
+b) Why Maximum Likelihood detector is used: Explain the decision making process
 
-ii.ls received vector 10101010 a valid codeword’ Justity.
+Of this detector. Derive the expression for the decision y (10)
 
-iii.Evaluate the error detection and correction capability of the code
+Q7]
 
-3a. Describe with neat block diagram principle of DPSK transmitter and
-: receiver. Given a bit stream d(t) 1011011110 determine the DPSK
-output also determine how data is recovered from DPSK signal. 6
+Write short note on any of the Four a (20)
+a) Viterbi Decoding
 
-b. Describe with block diagram the principle of PCM transmitter and
+b) Equalization
 
-receiver. : 6
+c) Error Probability of any modulation technique
 
-4a. Describle the principle of MSK generation with relevant waveforms and
+d) Gram-Schmidt Orthogonalisation
 
-expressions. 6
-b. State and explain sampling theorem. x)
-c. Compare QPSK with 16-QAM , 34
+e) Adaptive Delta Modulation
 
-5a. Consider (3, 1,2) convolution code with g(!) = (100), g(2) = (111), g(3) =
-(110).Sketch state- diagram, Trellis diagram and Tree diagram.
+x
 
-Determine the codeword for the message 1110 1. 6
+Page 2 of 2
+````
 
-fs
---- page 3 ---
-50. Discuss principle of working of FHSS Technique with the aid of neat
+## 2014-15 · Re-Exam · Sem 6 · paper 35c1306fd081
 
-sketch and necessary waveforms. Differentiate between slow and fast
-hopping. . &
-6a.Derive an expression for probability of error of matched filter 6
-b. The generator polynomial of (7, 4) cyclic code is X? + X41,
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (EXTC), BATCH 2013-14 RE EXAM_35c1306fd0.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 90.7
 
-(i) Sketch an encoder for same.
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-(ii) Construct the generator Matrix for systematic cyclic code and find
-the codeword for message { 1 1 0 1(LSB) } using the generator
+Programme: B. Tech (EXTC) Year: III Semester: VI
+Batch: 2013-14 : —
+Academic Year: 2014-2015 7 RAL, .
+wit naa,
+Subject: Digital Communication wr e , Nee A
+Marks: 100 ks A le
+Date: 29/06/2015 Time: ‘10.00 am to 1.00 pri
+Durations: .3 (hrs) s
+Re-Examination ~~ anal
+NB:
 
-Matrix.
-‘a (iii) Verify the result using division method. 6
-7.Write Short notes on: |Z
+1. Question No. ONE is compulsory.
 
-1. M-ary FSK system
-2.Viterbi algorithm
-3. prefix coding
+2. Out of remaining questions, attempt any FOUR questions.
+3. In all FIVE questions to be attempted
 
-4. PN sequences
+4. All questions carry equal marks.
 
-—— x
+5. Answer to each new questions to be started on a fresh page
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+QI. Differentiate between: (Any 4) (20)
+a. IS] and ICI
+b. Coherent reception and Non coherent Reception
+c. QASK and QPSK
+d. Convolutional codes and Block codes
+e. Adaptive DM and Delta Modulation
+
+Q2.
+A] Enumerate advantages of BPSK over BFSK in terms of detection method, power
+spectra, bandwidth and signal constellation with necessary block diagrams of the two
+systems (10)
+
+B] A discrete memoryless source produces messages with probabilities 0.4, 0.19, 0.16,
+0.15 and 0.1. Find entropy and construct a Shannon-Fano code and calculate its
+
+efficiency (10)
+
+4
+
+J.
+
+A] Describe with neat block diagram principle of DPSK transmitter and receiver .Given a
+bit stream d (t) 001010011010 determine the DPSK output also explain how data is
+recovered from DPSK signal. (10)
+
+4/2
+--- page 2 ---
+Q4.
+
+QS.
+
+Q6.
+
+Q7.
+
+B] The generator polynomial of (7, 4) cyclic code is X3 + X + 1
+(i) Sketch an encoder for same
+
+(ii) Construct the generator Matrix for systematic cyclic code and find the code word
+
+used for message { 1 1 0 1(LSB) } using the generator Matrix.
+
+(iii) Verify the result using division method. (10)
+
+A] MSK is called shaped QPSK. Justify with relevant wave forms and expressions. (10)
+B] State and explain Sampling Theorem. (5)
+C] Enumerate the properties of Entropy (5)
+
+.
+
+A] Consider (3, 1, 2) convolution code with g (1) = (100), g (2) = (11), g GB) =
+(110).Sketch state diagram, Trellis diagram and Tree diagram. Determine the code word
+for the message 1110 1. (10)
+
+B] Discuss principle of working of FH-SS Technique with the aid of neat sketch and
+
+necessary waveforms. Differentiate between fast and slow frequency hopping. (10)
+
+A] Derive an expression for signal to noise ratio of Matched filter. (10)
+
+B] Sketch diagram of digital communication system and describe the functions of each
+
+block. (10)
+
+Write Short notes on: (20)
+
+1. Gram Schmidt Orthogonilzation Procedure
+2. Eye pattern
+
+3. Viterbi algorithm.
+
+4. Line Coding
+````
+
+## 2014-15 · Re-Exam · Sem 7 · paper 537db5b70da5
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (ELECTRONIC) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 01/12/2014
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Electronics) Year: IV Semester: VII
+Batch: 2013-2014
+Academic Year: 2014-2015 ” AtSTE 7 Ray, “ |
+Subject: Digital Communication ; he ee Oe iy,
+Marks: i os” f TMB Ne
+Date: 01/12/2014 Time: 10.6a any icin i
+Durations: 3) ‘a ret :
+Ne ve
+Re-Examination Cr oe
+N.B. (1). Answer to each new question to be started on fresh page
+(2) Assume suitable data if required.
+(3) Solve any Four from Q.2 to Q.7
+(4) Q.1 is compulsory.
+Ql Solve any Five. 20
+a. Explain the need of source coding and channel coding in digital
+communication.
+b. Derive expression for quantization noise.
+c. Why MSK is called shaped QPSK?
+d. State and explain source coding theorem.
+e. Define PSD. Write expression and draw plot of PSD of NRZ signal.
+f. Define Entropy, Information rate, Minimum distance, systematic code.
+Q2 a. Drawand explain block diagram of digital communication system. Write 10
+advantages and disadvantages of Digital communication.
+b. Explain PCM transmitter and receiver with block diagrams. What is 10
+transmission bandwidth?
+Q3 a. Explain M-ary PSK system with its transmitter and receiver. Draw signal 12
+space representation of M-ary PSK. Find distance between two nearest
+possible symbols.
+b. Explain Delta modulation and its drawbacks. 08
+Q4 a. Explain DEPSK modulation. Why errors always occur in pairsin DEPSK 10
+
+system. Justify with suitable example.
+b. A(7, 4) linear block code is generated according to the following generator 10
+matrix.
+
+1000 1 0 1
+G= 0100 21 1 ~21
+0010 21 1 =°0
+00 01 Oo 1 oi
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+Determine Parity check matrix.
+Find all possible code words.
+Find minimum distance and comment on error detecting and correction
+
+capability.
+
+Draw and explain different types of line codes. Write desirable properties
+
+of line codes.
+Find out generator matrix for systematic (7,4) cyclic code if G(P) = pet
+
+ptl.
+
+A system has an alphabet of eight letters Xi where i= 1,2 8 with
+probability , 0.25, 0.25, 0.125, 0.125, 0.125, 0.625, 0.625. Use Huffman
+coding to determine binary code for the source output.. Also find average
+no. of binary digits per source letter, Entropy, redundancy, Efficiency.
+Explain Syndrome decoding in detail.
+
+Write Short Notes on(any Four)
+Eye diagram
+
+Huffman coding
+
+Duo binary encoding
+
+Matched filter
+
+Convolution codes
+
+— SSSR
+
+10
+
+10
+
+12
+
+08
+
+20
 ````
 
 ## 2014-15 · Re-Exam · Sem 7 · paper f1412fbe6960
@@ -2058,121 +2614,227 @@ ee
 12
 ````
 
-## 2014-15 · Re-Exam · Sem 7 · paper cc27ea813b6c
+## 2014-15 · Re-Exam · Trim 6 · paper a79e7f05bf29
 
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (ELECTRONICS), BATCH 2014-15 RE EXAM_cc27ea813b.pdf`
-- Printed on paper: exam date: 01/12/2015
-- Text: ocr (2 pages), mean OCR confidence 87.5
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/Digital Communication/Digital Communication Batch 2012-13 RE Exam0002.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/07/2015
+- Text: ocr (1 page), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Programme: MBA Tech (EXTC) Year:I1
+
+Academic Year: 2014-15 NG Migs
+
+Batch: 2012-13 ——
+
+Subject : Digital Communication Marks: 100
+Time : 02.00 pm to 5.00 pm
+Date : 13/07/2015 Durations:3 (hrs)
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+. cover of the Answer book, which is provided for their use.
+
+NB:
+
+1. Question no. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+Dh Afiswer to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicate full marks.
+
+ae PST
+aceon
+
+gg NOTE 00
+(RENTERS
+af Ue
+
+y )a
+ME /
+
+Ql. Attempt any four questions:-
+
+A | Draw Bi - @ - L and Bipolar RZ line coding waveform for the binary sequence 10110001101
+
+[5]
+
+B | State Shannon’s Source Coding Theorem, Shannon’s Channel Coding Theorem and Shannon’s
+Channel Capacity theorem.
+
+[5]
+
+C | Give the significance of Eye diagram.
+
+[5]
+
+D | Express the correlation realization of Matched filter
+
+E | Define Code rate, Coding efficiency, Hamming distance and Hamming weight of codeword.
+
+[5]
+
+Q2:| A | Write a detailed note on Delta modulation and demodulation. Also explain how ADM overcomes
+the drawbacks of Delta Modulation (DM).
+
+[10]
+
+B | A Discrete Memory less Source emits 5 symbols with probabilities m1 = 0.4, m2 = 0.19, m3 =
+
+0.16, m4 = 0.15 and m5 = 0.1 respectively. Perform Shannon — Fano coding and determine its
+average codeword length; entropy & efficiency.
+
+[10]
+
+Q3 | A | Derive the Power Spectra of Unipolar, Polar and Bipolar NRZ.
+
+[10]
+
+B | Write note on QPSK.
+
+[10]
+
+Q4 | A | Explain Gram — Schmidt procedure.
+
+[10]
+
+B | Derive the expression for Maximum value of Signal to Noise ratio of Matched filter.
+
+[10]
+
+Q5 | A | Explain the modulation and demodulation process in DPSK.
+
+[10]
+
+B | Draw neat diagram of Digital Communication system & explain working of each block in detail.
+
+[10]
+
+Q6 | A | Explain Syndrome decoding with the help of suitable example.
+
+[12] |
+
+B | For the given four bit message vectors suggest suitable generator polynomial and generate (7,4)
+systematic cyclic code mo=[0001],m=[1011]
+
+[08]
+
+Q7 | A | Write note on MIMO
+
+[12]
+
+B | Derive the error probability of BPSK
+
+[08]
+
+1/4
+````
+
+## 2014-15 · Re-Exam · Trim 6 · paper 3ca10e5bdc51
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/Digital Communication/Digital Communication Batch 2012-13 Re Exam0001.pdf`
+- Printed on paper: exam date: 23/03/2015
+- Text: ocr (2 pages), mean OCR confidence 88.1
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Electronics) Year: IV Si :
-Batch: 2014-2015 omen NE
+Programme: MBA Tech (EXTC) Year: II
+Batch: 2012-13
 
-Academic Year: 2015-2016
+Academic Year: 2014-2015 a.
+Subject: Digital Communication :
 
-NIUTE OP ae,
-NER Ui,
+Marks:, i ange
 
-ON ON OM ay
+Ir nestor:
 
-Subject: Digital Communication 4 of oN
-Marks: MPSTME Y%,
-Date: 01/12/2015 Time: bri ¥ Js
-Duration: WA ¥ 4
-
-WO
+Date: 23/03/2015 Time: \i ee 00 re Som
+Duratio ig. A
+‘ aaa oa
 
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the.cover of the answer book, which is provided for their use.
+NB: ,
 
-NB:
+1. Question No.1 is compulsory.
 
-1) Question No. | is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
 
-2) Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions-to be attempted.
 
-3) In all 5 questions to be attempted.
+4. All questions carry equal marks. (if applicable)
 
-4) All questions carry equal marks.
+5. Answer to.each new question to be started on a fresh page.
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data, if required.
+6. Figures in brackets onthe right hand side indicate full marks.
 
-Ql Attempt any Four: (+2)
-a) Explain Principle of PSK transmission and reception. (3)
-b) Compare Cyclic’ Codes and Convolution Codes (3)
-c) Explain how a matched filter can maximize SNR for a given transmitted (4)
-symbol.
-d) Draw the AMI and RZ code for the digital data 10110100101 (a)
-e) Give advantages and disadvantages of Digital Communication. (3)
-f) Define and state properties of information and entropy. (A)
-Q.2 a) Explain Nyquist criteria for distortionless baseband binary transmission with (6)
-ideal and practical solution.
-b) Explain Principle and working of QPSK Transmitter and Receiver. (6)
+Q1] Attempt any Four : (20)
+a) How you will generate code in PCM?
+b) Derive the expression for Entropy
+Cc) What are the causes of ISI? How you will remove that?
+d) Explain the need: of predictor in DPCM
+e) Differentiate between coherent detection. & non coherent detection
+f) Draw the waveforms of ASK,FSK,PSK & DPSK
 
-Q.3 a) Discuss principle of working of FHSS Technique with the aid of neat sketch and C6)
-necessary waveforms. Differentiate between slow and fast hopping.
-b) Explain the process of quantization, encoding and decoding in PCM. In what (6)
+Q2]
+a) Derive signal to noise-ratio for matched filter (10)
+b) What is line coding?’ Give the PCM waveforms of the data: 10110001101 (10)
+1) NRZ-L Il) NRZ-M-All) NRZ-S IV) URZ
+V) RZ-AMI V1) Bi phase-L VI!) Bi phase-M VIII) Bi phase-S |X)polar RZ X)Polar NRZ
+Q3]
+a) Draw waveforms for QPSK and discuss its transmitter & receiver in details (10)
+b) Discuss delta modulation and its drawbacks (10)
 
-way DPCM is better than PCM.
-Q.4 a) Explain Delta Modulation with neat block diagram and waveforms. CF)
-b) Explain Power Spectra for formats of discrete PAM. (6)
-
-Q5 a) Given a bit stream d (t) 1011011110 determine the DPSK output b (t).Show (6)
-
-4]
+Page 1.of 2
 --- page 2 ---
-Q6
+Q4]
+a) Discuss QAM with transmitter ,receiver also find Euclidian distance and BW Draw a
+signal space representation for same (10)
 
-Q7
+b) Draw a block diagram of digital communication system .Explain each block in detail.
 
-b)
+State advantages of digital communication over analog communication. (10)
+Q5]
+a) Solve the following using Shannon Fano & Huffman Coding calculate efficiency if
+m1=1/2,m2=1/8,m3=1/8,m4=1/16,m5=1/16,m6=1/16,m7=1/32,m8=1/32 (10)
 
-a)
+b) Why Maximum Likelihood detector is used. Explain the decision making process
 
-b)
+Of this’ detector. Derive the expression for the decision y
 
-a)
-b)
-c)
-d)
-€)
+(10)
+Q6]
+a) Draw a block diagram of M-ary FSK transmitter & receiver Explain operation of each
+block. What is the BW requirement of M-ary FSK? (10)
+b) Aconvolution encoder'is described by gt=[100],g2=[101],g3=[111]
+Draw encoder diagram. Draw code tree, trellis diagram & state diagram (10)
+Q7]
+Write short note on any of the Four (20)
+a) BCH codes.
+b) OFDM -
 
-that b (t) b (t-Tb)-yields original data.
+c) Error Probability of-any modulation technique
+d) Gram-Schmidt Orthogonalisation
+e) Adaptive Delta Modulation
 
-The polynomial of a(7, 4) cyclic code is given by G(D) = 1+D+D?
-
-Compute all the non-systematic codewords.
-The generator matrix for a (6, 3) block code is given below. Find all the code
-words of this code.
-1 00:0 1 1
-G=|]0 1 0:10 1
-Oo 4i:1 21
-Describe with block diagram the principle of adaptive delta modulation.
-Write short notes on (Any four):
-Equalizer
-Maximum likely hood detector
-Viterbi decoding
-Orthogonal BFSK
-PN sequence generator
-_
-
-afr
-
-(6)
-
-C6)
-
-C6)
-(12)
+Page 2 of 2
 ````
 
 ## 2013-14 · Final-Exam · Sem 6 · paper 76f673eae53e
@@ -2388,344 +3050,6 @@ K
 2)2_
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper e2fa366ffb6c
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 05/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: Ill Semester: VI
-
-Batch: 2013-14 “ =
-Academic Year: 2014-2015
-
-Subject Digital Communication s
-Marks: , “100
-Date: 05/05/2015 Time: rite 10. ae
-Paral. a e tars)
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the answer book, which is provided for their use.
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks. (if applicable)
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q1] Attempt any Four (20)
-
-a) Fora linear feedback shift register with three stages (m=3)evaluate the maximum length
-PN sequence for feedback taps=[3, 1]Draw the schematic arrangement & verify balance
-& Run Property of PN sequence in generated output
-
-b) What is Prefix Coding? Explain with example.
-
-c) Explain 'Sl. 4 :
-
-d) What is the need of predictor in DPCM
-
-e) Why MSK is calied shaped QPSK?
-
-f) State Information Capacity Theorem & Explain.
-
-Q2]
-a) Derive signal to noise ratio for matched filter : (10)
-b) What is line coding? Give the PCM waveforms of the data: 11110001101 (10)
-1) NRZ-L Il) NRZ-M Il) NRZ-S IV) URZ
-V) RZ-AMI VI) Bi phase-L VII) Bi phase-M VIII) Bi phase-S
-Q3]
-a) Discuss QPSK & Draw QPSK modulated waveforms for 11001110 (10)
-b) Describe delta modulation and its drawback (10)
-
-Page 1
---- page 2 ---
-Q4]
-a) Discuss DEPSK. Why error occurs in pairs in DEPSK explain with example? (10)
-
-b) What is Frequency Hop Spread Spectrum Signals discuss with diagram (10)
-
-Q5]
-a) Write steps for Shannon Fano Algorithm & solve the following using same.
-m1=0.25,m2=0.25,m3=0.125,m4=0.125,m5=0. 125,;m6=0.0625,m7=0.0625 (10)
-b) Generator vectors for rate 1/3 convolution encoder are: g(1)=110,g(2)=101,g(3)=111
-Draw encoder diagram, construct encoder matrix & determine code words if input
-
-vectors are (111) Draw the state diagram. (10)
-Q6]
-
-a) Parity check matrix for the (7,3) code is given below:
-
-0111000
-1010100
-H = Construct syndrome table for single bit error patterns. Using syndrome,
-1100010
-1110001
-find error pattern & code word of the following received
-
-vectors.r1=0011101,r2=1101110,r3=0111011 if information vector is (011)determine its
-corresponding code word (10)
-
-b) Why Maximum Likelihood detector is used: Explain the decision making process
-
-Of this detector. Derive the expression for the decision y (10)
-
-Q7]
-
-Write short note on any of the Four a (20)
-a) Viterbi Decoding
-
-b) Equalization
-
-c) Error Probability of any modulation technique
-
-d) Gram-Schmidt Orthogonalisation
-
-e) Adaptive Delta Modulation
-
-x
-
-Page 2 of 2
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 35c1306fd081
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (EXTC), BATCH 2013-14 RE EXAM_35c1306fd0.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: VI
-Batch: 2013-14 : —
-Academic Year: 2014-2015 7 RAL, .
-wit naa,
-Subject: Digital Communication wr e , Nee A
-Marks: 100 ks A le
-Date: 29/06/2015 Time: ‘10.00 am to 1.00 pri
-Durations: .3 (hrs) s
-Re-Examination ~~ anal
-NB:
-
-1. Question No. ONE is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-3. In all FIVE questions to be attempted
-
-4. All questions carry equal marks.
-
-5. Answer to each new questions to be started on a fresh page
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-QI. Differentiate between: (Any 4) (20)
-a. IS] and ICI
-b. Coherent reception and Non coherent Reception
-c. QASK and QPSK
-d. Convolutional codes and Block codes
-e. Adaptive DM and Delta Modulation
-
-Q2.
-A] Enumerate advantages of BPSK over BFSK in terms of detection method, power
-spectra, bandwidth and signal constellation with necessary block diagrams of the two
-systems (10)
-
-B] A discrete memoryless source produces messages with probabilities 0.4, 0.19, 0.16,
-0.15 and 0.1. Find entropy and construct a Shannon-Fano code and calculate its
-
-efficiency (10)
-
-4
-
-J.
-
-A] Describe with neat block diagram principle of DPSK transmitter and receiver .Given a
-bit stream d (t) 001010011010 determine the DPSK output also explain how data is
-recovered from DPSK signal. (10)
-
-4/2
---- page 2 ---
-Q4.
-
-QS.
-
-Q6.
-
-Q7.
-
-B] The generator polynomial of (7, 4) cyclic code is X3 + X + 1
-(i) Sketch an encoder for same
-
-(ii) Construct the generator Matrix for systematic cyclic code and find the code word
-
-used for message { 1 1 0 1(LSB) } using the generator Matrix.
-
-(iii) Verify the result using division method. (10)
-
-A] MSK is called shaped QPSK. Justify with relevant wave forms and expressions. (10)
-B] State and explain Sampling Theorem. (5)
-C] Enumerate the properties of Entropy (5)
-
-.
-
-A] Consider (3, 1, 2) convolution code with g (1) = (100), g (2) = (11), g GB) =
-(110).Sketch state diagram, Trellis diagram and Tree diagram. Determine the code word
-for the message 1110 1. (10)
-
-B] Discuss principle of working of FH-SS Technique with the aid of neat sketch and
-
-necessary waveforms. Differentiate between fast and slow frequency hopping. (10)
-
-A] Derive an expression for signal to noise ratio of Matched filter. (10)
-
-B] Sketch diagram of digital communication system and describe the functions of each
-
-block. (10)
-
-Write Short notes on: (20)
-
-1. Gram Schmidt Orthogonilzation Procedure
-2. Eye pattern
-
-3. Viterbi algorithm.
-
-4. Line Coding
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 2f6c7766d788
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 07 July 2017
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: VI
-
-Batch: 2013-14
-
-Academic Year: 2016-2017
-
-i Subject: Digital Communication
-
-Date: 07 July 2017
-
-¢
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. Inall five questions to be attempted.
-
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicates full marks.
-
-7. Illustrate your answers with neat labelled diagram wherever necessary.
-
-Q.1 Attempt any four questions. (20M)
-
-A. Give significance of Eye diagram in Digital ¢€ommunication.
-
-B_ Define Linear Block Code, Hamming weight of a codeword and Hamming
-distance.
-
-C Compare passband and baseband.
-
-D_ Explain ISI.
-
-E What is relation between Information and Entropy? Write any two properties of
-Entropy.
-
-F Compare coherent and non-coherent detection.
-
-Q.2 A A Discrete Memoryless Source emits four symbols with following probabilities (10M)
-P1=0.4, P2=0.1, P3=0.3, Pa=0.2.
-Design a Huffman code for this source, @lso find the entropy & efficiency.
-B_ Define and draw waveform for ASK, FSK, PSK modulation schemes if given (10M)
-data sequence is 10111001.
-
-Q.3 A Describe QPSK modulation and demodulation technique. (10M)
-B_ Determine the error probability of BPSK & BFSK modulation technique. (10M)
-
-Q4 A. Draw the basic model of digital communication system and explain each block (10M)
-in detail.
-B_ The parity check matrix of a particular (7,4) linear block code is given by, (10M)
-
-wea (H]= 1110100
-1101010
-1011001
-
-a) Find generator matrix.
-
-b) What is minimum distance between code vectors?
-c) How many errors can be detected? How many errors can be corrected?
-
-Yo
---- page 2 ---
-. d) What is the minimum distance between the code vectors?
-
-Q:5 A. State different types of QAM prove that for the 16 — QAM digital modulation (10M)
-technique the Euclidean distance is given by d=2 (0.4E»)!” also draw signal
-constellation diagram.
-
-B_ For the given coder shown obtain the convolution code for the bit sequence 1 1 (10M)
-01101 1 and decode it by constructing the corresponding code tree.
-
-V
-\
-
-Mo}wmM, MZ
-
-Mors, a ao
-eared No_
-Q.6 A The generator polynomial for (7,4) cyclic Hamming code is given by, (10M)
-G(D)=1+D+D? compute all the systematic code words.
-B_ Write a note on Pseudo noise sequence. Generate a noise sequence if seed point (10M)
-is 1001.
-
-Q.7 Write short notes with diagram on any three of the following: (20M)
-
-A Adaptive Delta Modulation.
-
-B_ Equalization.
-
-C_ Correlation receiver.
-
-D_ DPCM Transmitter and Receiver
-````
-
 ## 2013-14 · Re-Exam · Sem 6 · paper 7984163d4a5d
 
 - Departments: Electronics and Telecommunication
@@ -2815,107 +3139,6 @@ Q7Write Short notes on: (20)
 x
 
 x
-````
-
-## 2013-14 · Re-Exam · Sem 7 · paper 537db5b70da5
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/DIGITAL COMMUNICATION/DIGITAL COMMUNICATION B TECH (ELECTRONIC) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 01/12/2014
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Electronics) Year: IV Semester: VII
-Batch: 2013-2014
-Academic Year: 2014-2015 ” AtSTE 7 Ray, “ |
-Subject: Digital Communication ; he ee Oe iy,
-Marks: i os” f TMB Ne
-Date: 01/12/2014 Time: 10.6a any icin i
-Durations: 3) ‘a ret :
-Ne ve
-Re-Examination Cr oe
-N.B. (1). Answer to each new question to be started on fresh page
-(2) Assume suitable data if required.
-(3) Solve any Four from Q.2 to Q.7
-(4) Q.1 is compulsory.
-Ql Solve any Five. 20
-a. Explain the need of source coding and channel coding in digital
-communication.
-b. Derive expression for quantization noise.
-c. Why MSK is called shaped QPSK?
-d. State and explain source coding theorem.
-e. Define PSD. Write expression and draw plot of PSD of NRZ signal.
-f. Define Entropy, Information rate, Minimum distance, systematic code.
-Q2 a. Drawand explain block diagram of digital communication system. Write 10
-advantages and disadvantages of Digital communication.
-b. Explain PCM transmitter and receiver with block diagrams. What is 10
-transmission bandwidth?
-Q3 a. Explain M-ary PSK system with its transmitter and receiver. Draw signal 12
-space representation of M-ary PSK. Find distance between two nearest
-possible symbols.
-b. Explain Delta modulation and its drawbacks. 08
-Q4 a. Explain DEPSK modulation. Why errors always occur in pairsin DEPSK 10
-
-system. Justify with suitable example.
-b. A(7, 4) linear block code is generated according to the following generator 10
-matrix.
-
-1000 1 0 1
-G= 0100 21 1 ~21
-0010 21 1 =°0
-00 01 Oo 1 oi
---- page 2 ---
-Q5
-
-Q6
-
-Q7
-
-Determine Parity check matrix.
-Find all possible code words.
-Find minimum distance and comment on error detecting and correction
-
-capability.
-
-Draw and explain different types of line codes. Write desirable properties
-
-of line codes.
-Find out generator matrix for systematic (7,4) cyclic code if G(P) = pet
-
-ptl.
-
-A system has an alphabet of eight letters Xi where i= 1,2 8 with
-probability , 0.25, 0.25, 0.125, 0.125, 0.125, 0.625, 0.625. Use Huffman
-coding to determine binary code for the source output.. Also find average
-no. of binary digits per source letter, Entropy, redundancy, Efficiency.
-Explain Syndrome decoding in detail.
-
-Write Short Notes on(any Four)
-Eye diagram
-
-Huffman coding
-
-Duo binary encoding
-
-Matched filter
-
-Convolution codes
-
-— SSSR
-
-10
-
-10
-
-12
-
-08
-
-20
 ````
 
 ## 2013-14 · Re-Exam · Sem 7 · paper 1743ce6567a6
@@ -3011,7 +3234,7 @@ SA.
 20
 ````
 
-## 2012-13 · Re-Exam · Trim 6 · paper 6ab2f79affc3
+## 2013-14 · Re-Exam · Trim 6 · paper 6ab2f79affc3
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -3084,7 +3307,7 @@ the message 11101. (15)
 se
 ````
 
-## 2012-13 · Re-Exam · Trim 6 · paper d1d451420a96
+## 2013-14 · Re-Exam · Trim 6 · paper d1d451420a96
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -3160,6 +3383,75 @@ Write short notes on(any two)
 20
 ````
 
+## 2012-13 · Final-Exam · Trim 6 · paper 100e8ddbb96e
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/Digital Communication/Digital Communication Final 13.pdf`
+- Printed on paper: exam date: 7/5/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technology Management & Engineering
+Programme: MBA (TECH)-EXTC   Year:   I1   Trimester: VI
+Academic Year : 2012-2013
+Subject:   Digital Communication   Marks:
+Time:
+Date:   7/5/2013
+Final - Examination
+Instructions: Candidates should read carefully the
+and on the cover of the answer book, which is provided for their use.
+NB:
+1. Question No.1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks. (if applicable)
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+QI]   Attempt any Four   (20)
+a) Define weight of the code, code efficiency, code word, code rate & hamming distance.
+b) Compare QPSK with MSK
+c) Explain EYE DIAGRAM.
+d) What is ISI? How does equalizer help in controlling it?
+e) Explain the need of channel coding in digital communication.
+f) Explain Shannon's theorem & Shannon's. Hartley theorem
+a) Explain in detail why MSK is called shaped 'QPSK? Prove MSK is FSK   (1 0)
+b) Explain any one base band modulation system in detail   (10)
+Q31
+a) Explain M-ARY FSK in detail & draw all the waveforms   (10)
+t
+b) Explain in detail transmitter & receiver sections for QPSK scheme also find the distance
+What is the bandwidth of QPSK   (1 0)
+Q41
+a) Write a short note on CRC with example.
+Page 1 of 2
+--- page 2 ---
+b) Why Max~mum Likelihood detector is used. Explain the decision making process
+Of this detector. Derive the expression for the decision y.   (1 0)
+Q51
+a) A discrete memory less source has an alphabet of seven symbols with probabilities
+For its output as described bellow
+Symbol--------- SO S1 S2 S3   S4 S5   S6
+Probabilities----- 0.25 0.25 0.1 25 0.1 25 0.125 0.0625 0.0625
+Compute Huffman code for this source moving the combined symbol as high as possible
+Find the efficiency.   (1 0)
+b) Explain Viterbi Decoding algorithm in detail   (10)
+Q61
+a) A convolution encoder is described by g1 =[I 00],g2=[101],g3=[11 I ]
+Draw encoder diagram. Draw code tree, trellis diagram & state diagram   (10)
+b) A discrete memory less source has five symbols XI ,x2,x3,x4&x5 with
+Probabilities 0.4, 0.1 9, 0.16, 0.15, 0.1 respectively construct Shannon Fano code &
+Calculate code efficiency   (1 0)
+Q7] Write a short note on any FOUR.
+a) Gram-Schmidt Orthogonalisation
+b) BCH codes
+c) OFDM
+)   d) Probability of error of any modulation
+e) MlMO
+Page 2 of 2
+````
+
 ## 2012-13 · Re-Exam · Trim 6 · paper fb1cc84c8a7c
 
 - Departments: Electronics and Telecommunication
@@ -3216,227 +3508,117 @@ B   Find the error probability of BPSK & BFSK inodulation technique.
 B   Explain eye diagram.
 ````
 
-## 2012-13 · Re-Exam · Trim 6 · paper a79e7f05bf29
+## 2010-11 · Exam not stated · Trim 6 · paper 6c3b6a470af1
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/Digital Communication/Digital Communication Batch 2012-13 RE Exam0002.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/07/2015
-- Text: ocr (1 page), mean OCR confidence 90.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/Digital Communication/DIGITAL COMMUNICATION(1).pdf`
+- Printed on paper: duration hours: 3; exam date: 09/05/2011
+- Text: ocr (2 pages), mean OCR confidence 92.3
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
 
-Programme: MBA Tech (EXTC) Year:I1
+Mukesh Patel School of Technology Management & En
+Programme: MBA (TECH)-Telecom Year: II Trimester:
 
-Academic Year: 2014-15 NG Migs
+Academic Year : 2010-2011
 
-Batch: 2012-13 ——
+Subject: Digital Communication Marks: *
+Time: :
+Date: 09/05/2011 Duration: 3 hrs.
 
-Subject : Digital Communication Marks: 100
-Time : 02.00 pm to 5.00 pm
-Date : 13/07/2015 Durations:3 (hrs)
+Final - Examination
 
-Re-Examination
+N.B. (1). Answer to each new question to be started on fresh page
+(2). Assume suitable data if required.
+(3).Q.1 is compulsory.
+(4). Solve any four from remaining questions.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-. cover of the Answer book, which is provided for their use.
+Q.1 Solve any Five. 20
+A Explain in brief Shannon’s channel capacity and Shannon’s Hartley theorem.
+B_ Discuss Nyquist criteria for zero symbol interference.
+C_ Write properties of Line coding techniques.
+D Define Power spectral density. Draw PSD of BPSK signal.
+E Define coherent detection. Write its advantages and disadvantages.
+F DMS X has four symbols x1,x2,x3,x4 with p(x) =1/2, p(x2) =1/2, p(x3) =1/2, p(xa)
+=1/4.Construct Shannon-Fano code.
+G_ Define Entropy, Weight of code, Minimum distance, Constraint length.
 
-NB:
+Q.2 A Discuss transmitter, receiver, and signal space representation of QPSK. 10
 
-1. Question no. 1 is compulsory.
+B_ Explain Delta modulation and its drawbacks. 10
 
-2. Out of remaining questions, attempt any 4 questions.
+Q.3. A Explain how phase continuity is achieved in MSK with the help of suitable 10
+expressions.
 
-3. In all 5 questions to be attempted.
+B_ Find out the generator matrix for systematic (7,4)cyclic code if G(p)=P?+P+1. 10
 
-4. All questions carry equal marks.
+Q.4 A A(6,3) linear block code is generated according to the following generator matrix. 10
 
-Dh Afiswer to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicate full marks.
+G= 100 101
+010 111
+001 110
 
-ae PST
-aceon
+Determine Parity Check Matrix.
+Find all valid code words.
+Find Minimum distance.
+For a particular codeword transmitted, the received codeword is 101100.Find
+corresponding data word transmitted.
 
-gg NOTE 00
-(RENTERS
-af Ue
+B_ Find transmitter and receiver of PCM system in detail with help of suitable diagram. 10
+What is transmission bandwidth in PCM?
 
-y )a
-ME /
-
-Ql. Attempt any four questions:-
-
-A | Draw Bi - @ - L and Bipolar RZ line coding waveform for the binary sequence 10110001101
-
-[5]
-
-B | State Shannon’s Source Coding Theorem, Shannon’s Channel Coding Theorem and Shannon’s
-Channel Capacity theorem.
-
-[5]
-
-C | Give the significance of Eye diagram.
-
-[5]
-
-D | Express the correlation realization of Matched filter
-
-E | Define Code rate, Coding efficiency, Hamming distance and Hamming weight of codeword.
-
-[5]
-
-Q2:| A | Write a detailed note on Delta modulation and demodulation. Also explain how ADM overcomes
-the drawbacks of Delta Modulation (DM).
-
-[10]
-
-B | A Discrete Memory less Source emits 5 symbols with probabilities m1 = 0.4, m2 = 0.19, m3 =
-
-0.16, m4 = 0.15 and m5 = 0.1 respectively. Perform Shannon — Fano coding and determine its
-average codeword length; entropy & efficiency.
-
-[10]
-
-Q3 | A | Derive the Power Spectra of Unipolar, Polar and Bipolar NRZ.
-
-[10]
-
-B | Write note on QPSK.
-
-[10]
-
-Q4 | A | Explain Gram — Schmidt procedure.
-
-[10]
-
-B | Derive the expression for Maximum value of Signal to Noise ratio of Matched filter.
-
-[10]
-
-Q5 | A | Explain the modulation and demodulation process in DPSK.
-
-[10]
-
-B | Draw neat diagram of Digital Communication system & explain working of each block in detail.
-
-[10]
-
-Q6 | A | Explain Syndrome decoding with the help of suitable example.
-
-[12] |
-
-B | For the given four bit message vectors suggest suitable generator polynomial and generate (7,4)
-systematic cyclic code mo=[0001],m=[1011]
-
-[08]
-
-Q7 | A | Write note on MIMO
-
-[12]
-
-B | Derive the error probability of BPSK
-
-[08]
-
-1/4
-````
-
-## 2012-13 · Re-Exam · Trim 6 · paper 3ca10e5bdc51
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/Digital Communication/Digital Communication Batch 2012-13 Re Exam0001.pdf`
-- Printed on paper: exam date: 23/03/2015
-- Text: ocr (2 pages), mean OCR confidence 88.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II
-Batch: 2012-13
-
-Academic Year: 2014-2015 a.
-Subject: Digital Communication :
-
-Marks:, i ange
-
-Ir nestor:
-
-Date: 23/03/2015 Time: \i ee 00 re Som
-Duratio ig. A
-‘ aaa oa
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the.cover of the answer book, which is provided for their use.
-NB: ,
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions-to be attempted.
-
-4. All questions carry equal marks. (if applicable)
-
-5. Answer to.each new question to be started on a fresh page.
-
-6. Figures in brackets onthe right hand side indicate full marks.
-
-Q1] Attempt any Four : (20)
-a) How you will generate code in PCM?
-b) Derive the expression for Entropy
-Cc) What are the causes of ISI? How you will remove that?
-d) Explain the need: of predictor in DPCM
-e) Differentiate between coherent detection. & non coherent detection
-f) Draw the waveforms of ASK,FSK,PSK & DPSK
-
-Q2]
-a) Derive signal to noise-ratio for matched filter (10)
-b) What is line coding?’ Give the PCM waveforms of the data: 10110001101 (10)
-1) NRZ-L Il) NRZ-M-All) NRZ-S IV) URZ
-V) RZ-AMI V1) Bi phase-L VI!) Bi phase-M VIII) Bi phase-S |X)polar RZ X)Polar NRZ
-Q3]
-a) Draw waveforms for QPSK and discuss its transmitter & receiver in details (10)
-b) Discuss delta modulation and its drawbacks (10)
-
-Page 1.of 2
+Yo.
 --- page 2 ---
-Q4]
-a) Discuss QAM with transmitter ,receiver also find Euclidian distance and BW Draw a
-signal space representation for same (10)
+0.5
 
-b) Draw a block diagram of digital communication system .Explain each block in detail.
+Q.6
 
-State advantages of digital communication over analog communication. (10)
-Q5]
-a) Solve the following using Shannon Fano & Huffman Coding calculate efficiency if
-m1=1/2,m2=1/8,m3=1/8,m4=1/16,m5=1/16,m6=1/16,m7=1/32,m8=1/32 (10)
+Q.7
 
-b) Why Maximum Likelihood detector is used. Explain the decision making process
+A
 
-Of this’ detector. Derive the expression for the decision y
+A
 
-(10)
-Q6]
-a) Draw a block diagram of M-ary FSK transmitter & receiver Explain operation of each
-block. What is the BW requirement of M-ary FSK? (10)
-b) Aconvolution encoder'is described by gt=[100],g2=[101],g3=[111]
-Draw encoder diagram. Draw code tree, trellis diagram & state diagram (10)
-Q7]
-Write short note on any of the Four (20)
-a) BCH codes.
-b) OFDM -
+What is Matched filter? Derive the expression for probability of error of Matched
+filter.
 
-c) Error Probability of-any modulation technique
-d) Gram-Schmidt Orthogonalisation
-e) Adaptive Delta Modulation
+A system has an alphabet of eight letters Xi where i = 1,2,3.......... 6 with
+probability 0.4,0.25,0.15,0.1,0.05,0.05.Use Huffman coding to determine binary
+code for the source output. Also find average no. of binary digits per source letter,
+Entropy, Efficiency, Redundancy.
 
-Page 2 of 2
+A convolution encoder is described by
+
+g1=[100],g2 =[101],g3 =[ 111]
+
+Draw encoder diagram. Draw code tree, code trellis and state diagram.
+Compare
+
+Orthogonal and Non-orthogonal BFSK.
+
+PCM,DPCM,DM and ADM.
+
+Write short Notes on (any Four)
+QAM
+
+Gram-Schmidt Orthogonalisation
+Correlator
+
+OFDM
+
+DEPSK
+
+10
+
+10
+
+10
+
+10
+
+20
 ````
 
 ## 2009-10 · Exam not stated · Trim 6 · paper 1d2565b33264
@@ -4196,186 +4378,4 @@ Q.No.7) Write Short Note (Any 3) (20)
 4) Non-coherent digital modulation technique.
 
 mages
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper 6c3b6a470af1
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/Digital Communication/DIGITAL COMMUNICATION(1).pdf`
-- Printed on paper: duration hours: 3; exam date: 09/05/2011
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & En
-Programme: MBA (TECH)-Telecom Year: II Trimester:
-
-Academic Year : 2010-2011
-
-Subject: Digital Communication Marks: *
-Time: :
-Date: 09/05/2011 Duration: 3 hrs.
-
-Final - Examination
-
-N.B. (1). Answer to each new question to be started on fresh page
-(2). Assume suitable data if required.
-(3).Q.1 is compulsory.
-(4). Solve any four from remaining questions.
-
-Q.1 Solve any Five. 20
-A Explain in brief Shannon’s channel capacity and Shannon’s Hartley theorem.
-B_ Discuss Nyquist criteria for zero symbol interference.
-C_ Write properties of Line coding techniques.
-D Define Power spectral density. Draw PSD of BPSK signal.
-E Define coherent detection. Write its advantages and disadvantages.
-F DMS X has four symbols x1,x2,x3,x4 with p(x) =1/2, p(x2) =1/2, p(x3) =1/2, p(xa)
-=1/4.Construct Shannon-Fano code.
-G_ Define Entropy, Weight of code, Minimum distance, Constraint length.
-
-Q.2 A Discuss transmitter, receiver, and signal space representation of QPSK. 10
-
-B_ Explain Delta modulation and its drawbacks. 10
-
-Q.3. A Explain how phase continuity is achieved in MSK with the help of suitable 10
-expressions.
-
-B_ Find out the generator matrix for systematic (7,4)cyclic code if G(p)=P?+P+1. 10
-
-Q.4 A A(6,3) linear block code is generated according to the following generator matrix. 10
-
-G= 100 101
-010 111
-001 110
-
-Determine Parity Check Matrix.
-Find all valid code words.
-Find Minimum distance.
-For a particular codeword transmitted, the received codeword is 101100.Find
-corresponding data word transmitted.
-
-B_ Find transmitter and receiver of PCM system in detail with help of suitable diagram. 10
-What is transmission bandwidth in PCM?
-
-Yo.
---- page 2 ---
-0.5
-
-Q.6
-
-Q.7
-
-A
-
-A
-
-What is Matched filter? Derive the expression for probability of error of Matched
-filter.
-
-A system has an alphabet of eight letters Xi where i = 1,2,3.......... 6 with
-probability 0.4,0.25,0.15,0.1,0.05,0.05.Use Huffman coding to determine binary
-code for the source output. Also find average no. of binary digits per source letter,
-Entropy, Efficiency, Redundancy.
-
-A convolution encoder is described by
-
-g1=[100],g2 =[101],g3 =[ 111]
-
-Draw encoder diagram. Draw code tree, code trellis and state diagram.
-Compare
-
-Orthogonal and Non-orthogonal BFSK.
-
-PCM,DPCM,DM and ADM.
-
-Write short Notes on (any Four)
-QAM
-
-Gram-Schmidt Orthogonalisation
-Correlator
-
-OFDM
-
-DEPSK
-
-10
-
-10
-
-10
-
-10
-
-20
-````
-
-## Year not stated · Final-Exam · Trim 6 · paper 100e8ddbb96e
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/Digital Communication/Digital Communication Final 13.pdf`
-- Printed on paper: exam date: 7/5/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technology Management & Engineering
-Programme: MBA (TECH)-EXTC   Year:   I1   Trimester: VI
-Academic Year : 2012-2013
-Subject:   Digital Communication   Marks:
-Time:
-Date:   7/5/2013
-Final - Examination
-Instructions: Candidates should read carefully the
-and on the cover of the answer book, which is provided for their use.
-NB:
-1. Question No.1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks. (if applicable)
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-QI]   Attempt any Four   (20)
-a) Define weight of the code, code efficiency, code word, code rate & hamming distance.
-b) Compare QPSK with MSK
-c) Explain EYE DIAGRAM.
-d) What is ISI? How does equalizer help in controlling it?
-e) Explain the need of channel coding in digital communication.
-f) Explain Shannon's theorem & Shannon's. Hartley theorem
-a) Explain in detail why MSK is called shaped 'QPSK? Prove MSK is FSK   (1 0)
-b) Explain any one base band modulation system in detail   (10)
-Q31
-a) Explain M-ARY FSK in detail & draw all the waveforms   (10)
-t
-b) Explain in detail transmitter & receiver sections for QPSK scheme also find the distance
-What is the bandwidth of QPSK   (1 0)
-Q41
-a) Write a short note on CRC with example.
-Page 1 of 2
---- page 2 ---
-b) Why Max~mum Likelihood detector is used. Explain the decision making process
-Of this detector. Derive the expression for the decision y.   (1 0)
-Q51
-a) A discrete memory less source has an alphabet of seven symbols with probabilities
-For its output as described bellow
-Symbol--------- SO S1 S2 S3   S4 S5   S6
-Probabilities----- 0.25 0.25 0.1 25 0.1 25 0.125 0.0625 0.0625
-Compute Huffman code for this source moving the combined symbol as high as possible
-Find the efficiency.   (1 0)
-b) Explain Viterbi Decoding algorithm in detail   (10)
-Q61
-a) A convolution encoder is described by g1 =[I 00],g2=[101],g3=[11 I ]
-Draw encoder diagram. Draw code tree, trellis diagram & state diagram   (10)
-b) A discrete memory less source has five symbols XI ,x2,x3,x4&x5 with
-Probabilities 0.4, 0.1 9, 0.16, 0.15, 0.1 respectively construct Shannon Fano code &
-Calculate code efficiency   (1 0)
-Q7] Write a short note on any FOUR.
-a) Gram-Schmidt Orthogonalisation
-b) BCH codes
-c) OFDM
-)   d) Probability of error of any modulation
-e) MlMO
-Page 2 of 2
 ````

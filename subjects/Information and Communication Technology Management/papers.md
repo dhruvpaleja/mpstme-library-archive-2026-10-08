@@ -1,64 +1,90 @@
 # Information and Communication Technology Management: question papers in full
 
-12 unique papers · 2015-16 to 2017-18 · Common (all branches)
+12 unique papers · 2015-16 to 2019-20 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2017-18 · Final-Exam · Sem 5 · paper bd3c9845a319
+## 2019-20 · Re-Exam · Sem 5 · paper b061da7bf197
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Information and communication Technolog_f01d894c/INFORMATION AND COMMUNICATION TECHNOLOGY MANAGEMENT 2017-18 Final.pdf`
-- Text: text (2 pages)
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Information and communication Technolog_f01d894c/ICTM Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 70; exam date: 07 November 2019
+- Text: ocr (2 pages), mean OCR confidence 92.0
 
 ````text
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBATech ( All Streams)   Year: III   Semester: V
-Academic Year: 2017-2018
+‘
+
+SVKM’s NMIMS SN
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
+4 SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA TECH (All Stream) — Year: III Semester: V
+
+Academic Year: 2019-20
+Subject: Information and Communication Technology Management~
+Marks: 70 «
+Date: 07 November 2019 ~ Time: 10.00 am - 12.00 noon ~
+Durations: 2 (eg)
+No. of Pages:
+
+Re-Examination (2017-18) “
+
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
-I) Question No. 1is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In ailS questions to be attempted.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
 4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume   uitable data if necessary.
-Q I.   Answer any seven questions out often questions given below for 2 marks each. (14)
-I. Write a short note on business value of enterprise systems.
-2. Write a short note on desktop virtualization.
-3. What is Intemet2? What has been its contribution?
-4. Write a short note on Web 3.0.
-5. Write a short note on Green IT.
-6. What is meant by consumerization   of TT?
-7.   Briefly explain three activities oflnformation   Systems.
-8. What is meant by complementary   assets and what are its types? Explain with examples.
-9. What is meant by Intranets? What is meant by extranets?
-10. Write a short note on social business.
-Q 2.   A) Explain with examples six strategic objectives of information systems. (12)
-B) What is time shifting and space shifting in the context of digital firm? (2)
-Q 3.   A) Draw time/space collaboration tool matrix. (8)
-B) Explain any four modules of HRIS. (4)
-C) Mention any four tools for collaboration and teamwork. (2)
-Q 4.   Briefly describe all seven components of IT infrastructure. (14)
-Q 5   A) Briefly explain six key internet services. (6)
+7) Assume suitable data if necessary.
+
+Q1: A. Analyze impact of Information System (IS) on top executive level. [07]
+B. Review the privacy and security issues in modern day clouds. [07]
+
+Q2: A. Summarize the developments in Processing, Storage and Networking technologies
+and its impact on digital firms. [07]
+B. Explain different types of Information System. [07]
+
+Q3: A. Describe following trends in data technologies.
+
+- i. Predictive analytics. ; ; [03]
+ii. NoSQL database. ; [03]
+iii. Search and Knowledge discovery. [02]
+iv. Stream analytics. - [02]
+B. Outline the sensor technologies and its application in inforniation system. [04]
+Q4: A. Illustrate the following features of cloud. [10]
+i. On-demand self-service.
+ii. Ubiquitous network access.
+iil. Location-independent resource pooling.
+lv. Rapid elasticity.
+Vv. Measured service.
+B Explain different guided transmission media. [04]
+
+Page 1 of 2
 --- page 2 ---
-•
-)   B) Which are four defining features of web 2.0? (2)
-..J
-C) Explain three standards for wireless computer networks. (6)
-Q 6   A) What is Hypervisor? Explain Type I Hypervisors and Type II Hypervisors with a diagram. (5)
-B) Describe SaaS, PaaS and IaaS with examples. (6)
-C) Explain three pricing models associated with cloud computing. (3)
-Q 7.   A) Explain four dimensions of knowledge. (4)
-B) Explain three key characteristics of an enterprise system. (3)
-C) Explain PRM and ERP as modules ofCRM. (4)
-DjExplain bullwhip effect with a diagram. (3)
--
+Q5: A. How clouds are classified? Explain different cloud categories. [07]
+
+B. What are the benefits of Knowledge Management System in Business? [07]
+Q6: A. Review the role of wireless technologies in Business. [07]
+b) What are the pros and cons of virtualization? [07]
+
+Q7: Write Note of [2x7]
+
+A. Emergence of Digital Firms.
+B. Enterprise Resource Planning (ERP).
+
+Page 2 of 2
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper 18732258ee7e
+## 2018-19 · Re-Exam · Sem 4 · paper 18732258ee7e
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -162,7 +188,7 @@ Page 2 of 2
 [07]
 ````
 
-## 2017-18 · Re-Exam · Sem 5 · paper 2ed19db7e05a
+## 2018-19 · Re-Exam · Sem 5 · paper 2ed19db7e05a
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -269,84 +295,234 @@ Write a short Note on VoIP.
 (4)
 ````
 
-## 2017-18 · Re-Exam · Sem 5 · paper b061da7bf197
+## 2017-18 · Exam not stated · Sem 4 · paper fe7ae684ce67
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Information and communication Technolog_f01d894c/ICTM Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 70; exam date: 07 November 2019
-- Text: ocr (2 pages), mean OCR confidence 92.0
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Information and communication technolog_84824290/Information_and_communication_Technology_Management_lGkZfs9cXg.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 06 July 2018
+- Text: ocr (2 pages), mean OCR confidence 93.0
 
 ````text
-‘
+a
 
-SVKM’s NMIMS SN
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
-4 SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS
 
-Programme: MBA TECH (All Stream) — Year: III Semester: V
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Academic Year: 2019-20
-Subject: Information and Communication Technology Management~
-Marks: 70 «
-Date: 07 November 2019 ~ Time: 10.00 am - 12.00 noon ~
-Durations: 2 (eg)
-No. of Pages:
+Programme: MBA Tech (All Streams) Year: II Semester: IV
 
-Re-Examination (2017-18) “
+Batch: 2017-18 ;
+Academic Year: 2017-2018
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Subject: Information and Communication Technology Management
 
-1) Question No. 1 is compulsory.
+Marks: 70
+Date: 06 July 2018 _ Time: 2.00 pm to 4.00 pm
+we Durations: 2 (hrs)
 
-2) Out of remaining questions, attempt any 4 _ questions.
+No. of Pages: _ 072 —
+Re-Examination
 
-3) Inall___5_ questions to be attempted.
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5) Answer to each new question to be started ona fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-Q1: A. Analyze impact of Information System (IS) on top executive level. [07]
-B. Review the privacy and security issues in modern day clouds. [07]
+Qi A What are the strategic business objectives of an
 
-Q2: A. Summarize the developments in Processing, Storage and Networking technologies
-and its impact on digital firms. [07]
-B. Explain different types of Information System. [07]
+7
+Information system? Explain each objective in detail.
+B Explain Payroll transaction process with a diagram. 7
+Q2 A Elaborate on different dimensions of an Information system. 7
+B Explain Functional business processes with suitable examples. 7
+Q3 A Explain how Google works for the query given by a user. 7
+B Explain the Information Technology ecosystem with the diagram. 7
+Q4 A Explain competitive forces model for IT infrastructure 7
+with a diagram.
+B Explain Domain name services (DNS) with a diagram. 7
 
-Q3: A. Describe following trends in data technologies.
-
-- i. Predictive analytics. ; ; [03]
-ii. NoSQL database. ; [03]
-iii. Search and Knowledge discovery. [02]
-iv. Stream analytics. - [02]
-B. Outline the sensor technologies and its application in inforniation system. [04]
-Q4: A. Illustrate the following features of cloud. [10]
-i. On-demand self-service.
-ii. Ubiquitous network access.
-iil. Location-independent resource pooling.
-lv. Rapid elasticity.
-Vv. Measured service.
-B Explain different guided transmission media. [04]
-
-Page 1 of 2
+Vo
 --- page 2 ---
-Q5: A. How clouds are classified? Explain different cloud categories. [07]
+Q5
 
-B. What are the benefits of Knowledge Management System in Business? [07]
-Q6: A. Review the role of wireless technologies in Business. [07]
-b) What are the pros and cons of virtualization? [07]
+fel)
 
-Q7: Write Note of [2x7]
+Q7
 
-A. Emergence of Digital Firms.
-B. Enterprise Resource Planning (ERP).
+Draw and explain — Cloud computing architecture.
 
-Page 2 of 2
+What are the characteristics of an Enterprise system?
+Explain Bullwhip effect in supply Chain Management
+Explain Customer Loyalty Management process map in CRM
+Write Short Hotes on : (Any TWO)
+
+Explain the need and Importance of collaboration.
+Characteristics of cloud computing
+
+Time Space Collaboration and social tool matrix
+
+Ze
+
+14
+````
+
+## 2017-18 · Final-Exam · Sem 5 · paper bd3c9845a319
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Information and communication Technolog_f01d894c/INFORMATION AND COMMUNICATION TECHNOLOGY MANAGEMENT 2017-18 Final.pdf`
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBATech ( All Streams)   Year: III   Semester: V
+Academic Year: 2017-2018
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+I) Question No. 1is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In ailS questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume   uitable data if necessary.
+Q I.   Answer any seven questions out often questions given below for 2 marks each. (14)
+I. Write a short note on business value of enterprise systems.
+2. Write a short note on desktop virtualization.
+3. What is Intemet2? What has been its contribution?
+4. Write a short note on Web 3.0.
+5. Write a short note on Green IT.
+6. What is meant by consumerization   of TT?
+7.   Briefly explain three activities oflnformation   Systems.
+8. What is meant by complementary   assets and what are its types? Explain with examples.
+9. What is meant by Intranets? What is meant by extranets?
+10. Write a short note on social business.
+Q 2.   A) Explain with examples six strategic objectives of information systems. (12)
+B) What is time shifting and space shifting in the context of digital firm? (2)
+Q 3.   A) Draw time/space collaboration tool matrix. (8)
+B) Explain any four modules of HRIS. (4)
+C) Mention any four tools for collaboration and teamwork. (2)
+Q 4.   Briefly describe all seven components of IT infrastructure. (14)
+Q 5   A) Briefly explain six key internet services. (6)
+--- page 2 ---
+•
+)   B) Which are four defining features of web 2.0? (2)
+..J
+C) Explain three standards for wireless computer networks. (6)
+Q 6   A) What is Hypervisor? Explain Type I Hypervisors and Type II Hypervisors with a diagram. (5)
+B) Describe SaaS, PaaS and IaaS with examples. (6)
+C) Explain three pricing models associated with cloud computing. (3)
+Q 7.   A) Explain four dimensions of knowledge. (4)
+B) Explain three key characteristics of an enterprise system. (3)
+C) Explain PRM and ERP as modules ofCRM. (4)
+DjExplain bullwhip effect with a diagram. (3)
+-
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 58a3b072cdfe
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Information and communication Technolog_f01d894c/INFORMATION AND COMMUNICATION TECHNOLOGY MANAGEMENT 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+. "
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: III Semester: V
+
+Batch: 2016-17
+
+Academic Year: 2017-2018
+Subject: Information and Communication Technology Management
+Marks:60«1\" May a
+Time: 10.00 am - 12.0
+Durations: 2 Hrs oe
+No!.of Pages: _O2—
+
+Date: O08 December 2017
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _ 1 _ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3) In all_5 _ questions to be attempted.
+4) All questions carry — 12 - equal marks.
+_ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Each sub-question below carries 3 marks, attempt any 4 from the 5 sub-questions below; [12]
+
+a. The information systems of Accenture, a global consulting firm, allow for a highly decentralized
+organization without a traditional headquarters. Based on your reading of Chapter 1, which of the six
+strategic business objectives does Accenture's information systems contribute to?
+
+b. The retail home improvement chain you work for, DIY Discount, has noticed that one of its brands of
+faucets is not selling nearly as well as anticipated. What information systems of the business will you
+use to determine the reason for the poor sales? Discuss what information you will retrieve from which
+system. Which of the information systems will be most important for your analysis? Which of the
+systems will be least important?
+
+¢. Briefly explain why corporations are increasingly interested in using Unix or Linux for their operating
+system.
+
+d. What are the business advantages of using voice over IP (VoIP) technology?
+
+e. You have been hired by Croydon Visiting Nurse Services, whose business processes are all manual,
+paper-based processes. How might a CRM system benefit them?
+--- page 2 ---
+B)
+
+Q.3
+
+Q4
+
+Q5
+
+Q.6
+
+Q.7
+
+Attempt any 4 questions from the remaining 6 questions below;
+
+What are the current trends in computer hardware platforms? [12]
+
+How do the Internet and Internet technology work, and how do they support communication and e-
+business? [12]
+
+What are the principal technologies and standards for wireless networking, communication, and
+Internet access? [12]
+
+- What exactly is an information system? How does it work? What are its management, organization,
+
+and technology components? [12]
+
+Why systems for collaboration and teamwork are so important and what technologies do they use?
+[12]
+
+How are enterprise applications used in platforms for new cross-functional services? [12]
+
+Bip.
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper abcc91a78b4c
@@ -503,99 +679,6 @@ A) Supply chain management *
 B) Knowledge management system
 
 t/t
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 58a3b072cdfe
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Information and communication Technolog_f01d894c/INFORMATION AND COMMUNICATION TECHNOLOGY MANAGEMENT 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-. "
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: III Semester: V
-
-Batch: 2016-17
-
-Academic Year: 2017-2018
-Subject: Information and Communication Technology Management
-Marks:60«1\" May a
-Time: 10.00 am - 12.0
-Durations: 2 Hrs oe
-No!.of Pages: _O2—
-
-Date: O08 December 2017
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _ 1 _ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-3) In all_5 _ questions to be attempted.
-4) All questions carry — 12 - equal marks.
-_ 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Each sub-question below carries 3 marks, attempt any 4 from the 5 sub-questions below; [12]
-
-a. The information systems of Accenture, a global consulting firm, allow for a highly decentralized
-organization without a traditional headquarters. Based on your reading of Chapter 1, which of the six
-strategic business objectives does Accenture's information systems contribute to?
-
-b. The retail home improvement chain you work for, DIY Discount, has noticed that one of its brands of
-faucets is not selling nearly as well as anticipated. What information systems of the business will you
-use to determine the reason for the poor sales? Discuss what information you will retrieve from which
-system. Which of the information systems will be most important for your analysis? Which of the
-systems will be least important?
-
-¢. Briefly explain why corporations are increasingly interested in using Unix or Linux for their operating
-system.
-
-d. What are the business advantages of using voice over IP (VoIP) technology?
-
-e. You have been hired by Croydon Visiting Nurse Services, whose business processes are all manual,
-paper-based processes. How might a CRM system benefit them?
---- page 2 ---
-B)
-
-Q.3
-
-Q4
-
-Q5
-
-Q.6
-
-Q.7
-
-Attempt any 4 questions from the remaining 6 questions below;
-
-What are the current trends in computer hardware platforms? [12]
-
-How do the Internet and Internet technology work, and how do they support communication and e-
-business? [12]
-
-What are the principal technologies and standards for wireless networking, communication, and
-Internet access? [12]
-
-- What exactly is an information system? How does it work? What are its management, organization,
-
-and technology components? [12]
-
-Why systems for collaboration and teamwork are so important and what technologies do they use?
-[12]
-
-How are enterprise applications used in platforms for new cross-functional services? [12]
-
-Bip.
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper 7f22a856ffa6
@@ -901,87 +984,4 @@ B re-the-unictt internet te 06
 
 Epp les Secusity pol icy wil. an Example.
 7 x
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper fe7ae684ce67
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Information and communication technolog_84824290/Information_and_communication_Technology_Management_lGkZfs9cXg.pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 06 July 2018
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-a
-
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: II Semester: IV
-
-Batch: 2017-18 ;
-Academic Year: 2017-2018
-
-Subject: Information and Communication Technology Management
-
-Marks: 70
-Date: 06 July 2018 _ Time: 2.00 pm to 4.00 pm
-we Durations: 2 (hrs)
-
-No. of Pages: _ 072 —
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qi A What are the strategic business objectives of an
-
-7
-Information system? Explain each objective in detail.
-B Explain Payroll transaction process with a diagram. 7
-Q2 A Elaborate on different dimensions of an Information system. 7
-B Explain Functional business processes with suitable examples. 7
-Q3 A Explain how Google works for the query given by a user. 7
-B Explain the Information Technology ecosystem with the diagram. 7
-Q4 A Explain competitive forces model for IT infrastructure 7
-with a diagram.
-B Explain Domain name services (DNS) with a diagram. 7
-
-Vo
---- page 2 ---
-Q5
-
-fel)
-
-Q7
-
-Draw and explain — Cloud computing architecture.
-
-What are the characteristics of an Enterprise system?
-Explain Bullwhip effect in supply Chain Management
-Explain Customer Loyalty Management process map in CRM
-Write Short Hotes on : (Any TWO)
-
-Explain the need and Importance of collaboration.
-Characteristics of cloud computing
-
-Time Space Collaboration and social tool matrix
-
-Ze
-
-14
 ````

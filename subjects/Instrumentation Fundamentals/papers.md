@@ -1,10 +1,10 @@
 # Instrumentation Fundamentals: question papers in full
 
-20 unique papers · 2004-05 to 2012-13 · Common (all branches)
+20 unique papers · 2004-05 to 2013-14 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Re-Exam · Trim 3 · paper b1c761994c48
+## 2013-14 · Re-Exam · Trim 3 · paper b1c761994c48
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -99,7 +99,7 @@ $$ — x Se
 — oo
 ````
 
-## 2012-13 · Re-Exam · Trim 3 · paper 2cbc89e964b0
+## 2013-14 · Re-Exam · Trim 3 · paper 2cbc89e964b0
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -200,6 +200,66 @@ ii) Flow Nozzel
 iii) Metalli8c Diaphragm
 
 iv) Pirani guage
+````
+
+## 2012-13 · Final-Exam · Trim 3 · paper f2d907fbb32c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/INSTRUMENTATION FUNDAMENTALS/Instrumentation Fundamentals Final 10.pdf`
+- Printed on paper: exam date: 09/05/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management & En~neering
+Programme: MBA (Tech) -ALL STREAM   Year:   I   Trimester:   111
+Academic Year : 2012-2013
+I
+I
+i   Subject:   INSTRUMENTATION FUNDAMENTALS   Marks:
+Time:
+Date:   09/05/2013   Duration:
+Final - Examination
+Instructions: Candidates should read carefully the instructions printe
+paper and on the cover of the Answer Book, which is pr
+N.B:
+(1) Question NO. 1 is compulsory
+(2) Out of remaining six questions, attempt any four questions
+(3) In all five questions to be attempted
+(4) Answer to each new question to be started on a fresh page
+(5) Figure in brackets on the right hand side indicates full marks.
+(6) Assume suitable data if necessary.
+Que 1. Attempt any four of the following   Pol
+a) Define the gage factor in Strain Gage.
+b) Enlist the recorder; explain any one type in detail
+c) Explain the logarithmic compression used for signal conditioning in Instrumentation
+system.
+d) What are the criteria's to selecting transducer?
+e) List the different types of bridges, their applications and explain Kelvin double bridge
+Que 2. a) Explain Air-purge method of liquid level measurement.   [lo]
+b) Explain the construction, working principle and operation of Electromagnetic type of
+I   Flow meter   [lo]
+Que 3. a) Draw and explain differentiator circuit using op-amp   [lo]
+b) What are the advantages of instrumentation amplifier? Explain three op-amps   .
+instrumentation amplifier. Derive its output voltage equation.   [lo1
+',
+Que 4. a) Describe an operating principle of dew point instrument used to measure moisture
+and humidity in gases, with neat schematic diagram   [lo]
+b) Enlist different methods for measurement of Torque, explain any one method in detail
+4   [lo1
+Que 5. a) Explain in brief Bellows, Diaphragm, and Burdon Tube as pressure measuring
+devices with reference to the working principle and constructional view   [lo]
+b) Draw & Explain LVDT with its characteristics   [lo]
+Que 6. a) Draw the circuit diagram of integrator using op-amp and explain its use as a signal
+conditioning circuit in instrumentation systems   [lo]
+b) Explain in brief the voltage to current and current to voltage converter   [lo]
+--- page 2 ---
+Que 7.   Write the short note on following
+a) Piezoelectric Effect and Hall Effect
+b) Thermocouple
+c) pH Measurement
+d) Data logger
 ````
 
 ## 2012-13 · Re-Exam · Trim 3 · paper d099c79126e5
@@ -349,6 +409,109 @@ LQ7,A Explain the working of AC bridges 110 |
 Cc Explain Op-amp working in Non-inverting mode. 15
 
 h
+````
+
+## 2011-12 · Exam not stated · Trim 3 · paper ab9d19cc64a0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/INSTRUMENTATION FUNDAMENTALS/scan0006(6).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/09/2012
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+NMIMS
+Mum.)
+* LBRARY
+
+Un versi
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engin
+
+Programme: MBA-Tech (All Streams) Year: I Trimester: III »
+Academic Year : 2011-2012
+
+Batch: 2011-12
+Subject: Instrumentation Fundamentals Marks: 100
+
+Time: 11.00 am To 2.00 pm
+Date: 12/09/2012 Duration: 3 hrs.
+
+Special Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and the cover of the answer book, which is provided for their use.
+
+NB:
+
+1. Question no. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 question.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new questions to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 Explain the following. [20]
+
+(a) Hall Effect.
+
+(b) Humidity Measurement.
+
+(c) C type Bourdon tube.
+
+(d) Need for signal conditioning.
+
+Q2.
+
+(a) Explain different types of strain gauges and derive an expression for gauge factor. [10]
+(b) Explain the construction and working of LVDT. What is residual voltage? [10]
+
+QB. |
+
+’ (a) What are the characteristics of an instrumentation amplifier? Draw the circuit diagram of
+| nstrumentation amplifier with three op-amp and derive an expression for differential
+
+gain. : [10]
+
+(b) Explain R-2R digital to analog converter. [10]
+--- page 2 ---
+Q4.
+
+(a) Explain differentiator and integrator using op-amp with circuit diagram. [10]
+
+~ (b) Explain Thermocouple and RTD. [10]
+Q5.
+
+(a) Explain any two transducers used to measure flow of liquid. [10]
+
+(b) Draw and explain the generalized block diagram of an instrumentation system. [10]
+
+Q6.
+
+(a) With neat circuit diagram explain inverting and non-inverting amplifier using op-amp.
+[10]
+(b) Explain the following characteristics of transducer: [10]
+Speed of response
+Accuracy -.
+Span and range
+Repeatability
+Precision
+
+- Q7. Write notes on: (Any 4) [20]
+
+(a) Photo conductive cells
+
+(b) Level measurement using capacitive transducer
+(c) Synchros
+
+(d) Pirani Gauge
+
+(e) D.C. and A.C. recorders
 ````
 
 ## 2011-12 · Re-Exam · Trim 3 · paper 4b5eaa6f6073
@@ -593,6 +756,7 @@ e. Ph measurement
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/INSTRUMENTATION FUNDAMENTALS/2008-2009(39).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 90.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS UNIVERSITY A= aa x
@@ -620,7 +784,6 @@ NB:
 a. Explain the thermoelectric effect and effect of pressure.
 b. Explain the piezoelectric effect and Hall Effect.
 c. State Bernoulli’s principals.\ € Thets e0Coatioy ex vebpgl 5
-d. Explain of potentiometer levices and (in vies ctdee-maate.
 e. Explain tte trahsdicers for level measurement.
 
 2) a) What are bonded and unbounded type strain gauges, Derive an
@@ -642,7 +805,6 @@ amplifier. (10m)
 
 b) What are the different methods of flow measurement ? describe any two methods in
 
-details Rainer UVERL YG Copsey (0m)
 5) a) Explain ¢he current to voltage and voltage to current rising enadacees (10m)
 
 b) A simple equal arm voltage sensitive bridge is initially in balance RTD is
@@ -1231,6 +1393,7 @@ pressure. (05)
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/INSTRUMENTATION FUNDAMENTALS/2006-2007 re exam(7).pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (1 page), mean OCR confidence 81.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Mumba, ~ EF
@@ -1251,7 +1414,6 @@ All parts of a question should be written together.
 Q1) Answer any four.
 a) Explain the construction and working of LVDT.........5
 b) Explain shaft position encoder. ...............scseseeeeeeee 5
-c) Write a note on Synchro....... cece cesses eeeeeeee seen ens 5
 
 d) Compare analog and digital instrumentation systems...5
 
@@ -1287,9 +1449,9 @@ vi) Capacitive transducers
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/INSTRUMENTATION FUNDAMENTALS/2005-2006(13).pdf`
 - Text: ocr (2 pages), mean OCR confidence 88.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-Novgee Merjee Ingdjfute of ™ Nana.geucut fad
 (Deemed Ynirersi Ay)
 MBA (Tech ) Trimester —III (1" year )
 Instrumentation Fundamentals 100 Marks
@@ -1319,7 +1481,6 @@ a) Digital Voltmeter
 b) Signal Generator
 Q.No.4) a) What is gage factor ? and state its significance (04)
 b) Derive an expression for gage factor and also explain the working of an
-unbo inded strain gage (16)
 Q.No.5) a) Give an arrangement to measure rotational speed (10)
 b) Explain with neat diagram ultrasonic flow meter (10)
 --- page 2 ---
@@ -1408,169 +1569,6 @@ transresistance amplifiers. Explain the working of transresistance amplifier
 implemented with operational amplifier. 10
 2...Explain the two different types of floating load V to | converters. State the
 advantages and disadvantages of each. 10
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper ab9d19cc64a0
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/INSTRUMENTATION FUNDAMENTALS/scan0006(6).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/09/2012
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-NMIMS
-Mum.)
-* LBRARY
-
-Un versi
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engin
-
-Programme: MBA-Tech (All Streams) Year: I Trimester: III »
-Academic Year : 2011-2012
-
-Batch: 2011-12
-Subject: Instrumentation Fundamentals Marks: 100
-
-Time: 11.00 am To 2.00 pm
-Date: 12/09/2012 Duration: 3 hrs.
-
-Special Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and the cover of the answer book, which is provided for their use.
-
-NB:
-
-1. Question no. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 question.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new questions to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 Explain the following. [20]
-
-(a) Hall Effect.
-
-(b) Humidity Measurement.
-
-(c) C type Bourdon tube.
-
-(d) Need for signal conditioning.
-
-Q2.
-
-(a) Explain different types of strain gauges and derive an expression for gauge factor. [10]
-(b) Explain the construction and working of LVDT. What is residual voltage? [10]
-
-QB. |
-
-’ (a) What are the characteristics of an instrumentation amplifier? Draw the circuit diagram of
-| nstrumentation amplifier with three op-amp and derive an expression for differential
-
-gain. : [10]
-
-(b) Explain R-2R digital to analog converter. [10]
---- page 2 ---
-Q4.
-
-(a) Explain differentiator and integrator using op-amp with circuit diagram. [10]
-
-~ (b) Explain Thermocouple and RTD. [10]
-Q5.
-
-(a) Explain any two transducers used to measure flow of liquid. [10]
-
-(b) Draw and explain the generalized block diagram of an instrumentation system. [10]
-
-Q6.
-
-(a) With neat circuit diagram explain inverting and non-inverting amplifier using op-amp.
-[10]
-(b) Explain the following characteristics of transducer: [10]
-Speed of response
-Accuracy -.
-Span and range
-Repeatability
-Precision
-
-- Q7. Write notes on: (Any 4) [20]
-
-(a) Photo conductive cells
-
-(b) Level measurement using capacitive transducer
-(c) Synchros
-
-(d) Pirani Gauge
-
-(e) D.C. and A.C. recorders
-````
-
-## Year not stated · Final-Exam · Trim 3 · paper f2d907fbb32c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/INSTRUMENTATION FUNDAMENTALS/Instrumentation Fundamentals Final 10.pdf`
-- Printed on paper: exam date: 09/05/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management & En~neering
-Programme: MBA (Tech) -ALL STREAM   Year:   I   Trimester:   111
-Academic Year : 2012-2013
-I
-I
-i   Subject:   INSTRUMENTATION FUNDAMENTALS   Marks:
-Time:
-Date:   09/05/2013   Duration:
-Final - Examination
-Instructions: Candidates should read carefully the instructions printe
-paper and on the cover of the Answer Book, which is pr
-N.B:
-(1) Question NO. 1 is compulsory
-(2) Out of remaining six questions, attempt any four questions
-(3) In all five questions to be attempted
-(4) Answer to each new question to be started on a fresh page
-(5) Figure in brackets on the right hand side indicates full marks.
-(6) Assume suitable data if necessary.
-Que 1. Attempt any four of the following   Pol
-a) Define the gage factor in Strain Gage.
-b) Enlist the recorder; explain any one type in detail
-c) Explain the logarithmic compression used for signal conditioning in Instrumentation
-system.
-d) What are the criteria's to selecting transducer?
-e) List the different types of bridges, their applications and explain Kelvin double bridge
-Que 2. a) Explain Air-purge method of liquid level measurement.   [lo]
-b) Explain the construction, working principle and operation of Electromagnetic type of
-I   Flow meter   [lo]
-Que 3. a) Draw and explain differentiator circuit using op-amp   [lo]
-b) What are the advantages of instrumentation amplifier? Explain three op-amps   .
-instrumentation amplifier. Derive its output voltage equation.   [lo1
-',
-Que 4. a) Describe an operating principle of dew point instrument used to measure moisture
-and humidity in gases, with neat schematic diagram   [lo]
-b) Enlist different methods for measurement of Torque, explain any one method in detail
-4   [lo1
-Que 5. a) Explain in brief Bellows, Diaphragm, and Burdon Tube as pressure measuring
-devices with reference to the working principle and constructional view   [lo]
-b) Draw & Explain LVDT with its characteristics   [lo]
-Que 6. a) Draw the circuit diagram of integrator using op-amp and explain its use as a signal
-conditioning circuit in instrumentation systems   [lo]
-b) Explain in brief the voltage to current and current to voltage converter   [lo]
---- page 2 ---
-Que 7.   Write the short note on following
-a) Piezoelectric Effect and Hall Effect
-b) Thermocouple
-c) pH Measurement
-d) Data logger
 ````
 
 ## Year not stated · Re-Exam · Trim 3 · paper 8433c894bc33

@@ -2,6 +2,184 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 9 · Answer key · paper e25dd1588d01
+
+- Departments: Computer Engineering, Information Technology, Mechanical
+- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046, MBATech Computer 7047, MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_09/Final-Exam/MBATech_IT_7041/Operation Planning and Control/ANS_Operation Planning and Control(703TO0E001)_2024-2025_e25dd1588d.pdf` (+3 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 12 Dec 2025
+- Text: mixed (4 pages), mean OCR confidence 80.4
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)/MBA Tech
+(Mech)
+Year: V/Semester IX(Exam Year: 2025-2026)
+Subject: Operation Planning and Control
+Date: 12 Dec 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Question No. _1___ is compulsory.
+3. Out of remaining questions, attempt any __4___ questions
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Describe briefly:   [10]
+a.   Forecasting
+CO 1 ;   The process of analysing and understanding current and past information to 2
+BL2
+understand future patterms through systematic and scientific approach
+b.   Master Production Schedule
+CO 2;   A master production schedule (MPS) is a production plan (anticipated build
+2
+BL2   schedule) for an individual product, a customer order, or a product option and
+common parts. It is a detailed plan that outlines production of finished goods over
+specific time period
+c.   Scheduling
+CO 3 ;   Establishing the timing of the use of   2
+BL2   equipment, facilities and human activities in an
+organization. Answering “when” question for activities
+d.   JIT
+Just In Time is an inventory and production strategy to receive and produce goods
+only when needed to minimize waste
+CO 4 ;   2
+.JIT is a business philosophy that focuses on reducing time and cost and
+BL2
+eliminating poor quality within manufacturing and non-manufacturing processes.
+Sometimes called short-cycle or lean manufacturing.
+e.   Synchronous Manufacturing System
+CO 4 ;   It is a system where entire production process operates in harmony , to achieve 2
+BL2
+business goals, focusing on balancing flow rather than capacity
+Q2   ExplainManufacturing Operation Classifications with examples
+CO 1;   MTO eg Vanity Vans, ETO eg. ICU ambulances, MTS eg cosmetic soaps, ATO   [10]
+BL2   eg. Dell Laptop
+********** 1 **********
+--- page 2 ---
+Explain Classification of Forecasting with examples
+Q3   Economic Forecasting, eg. Inflation rate, GDP etc
+CO 1;   Demand Forecasting eg. Market surveys pre existing data base, etc   [10]
+BL2   Technology forecasting e; future technology upgrades
+Q4
+Enlist the following:   [10]
+CO; BL1
+1.   Steps of Capacity planning
+•   Estimate future capacity requirements
+•   Evaluate existing capacity
+CO2;   •   Identify alternatives
+BL1   • Conduct financial analysis
+•   Assess key qualitative issues
+•   Select one alternative
+• Implement alternative chosen
+• Monitor results
+2.   Objectives of Scheduling
+• Meet customer due dates
+• Minimize job lateness
+• Minimize response time
+• Minimize completion time
+CO3-;
+• Minimize time in the system
+BL1
+• Minimize overtime
+• Maximize machine or labor utilization
+• Minimize idle time
+• Minimize work-in-process inventory
+Q5
+Discuss the following:   [10]
+CO; BL2
+1.   Scope of IOT enabled manufacturing Systems
+CO4;   Enhanced operational efficiency, improved quality and customization, future and
+BL2
+strategic scopes like smart factories, Vertical replicas, Sustainability, safety, etc
+2.   Framework for Production Activity Control
+Involves a cycle of planning, implementing and controlling
+production to execute schedules and plans effectively, key
+CO3;   components:
+BL2   Planning: Order preparation, scheduling, capacity planning, routing
+Implementation: Dispatching, resource allocation
+Control: Monitoring, reporting, corrective action, inventory
+management
+Q6   Evaluate as per sequencing rules (FCFS, SPT, EDD):   [10]
+CO 3;   Average Flow time, Average Tardiness, Average number of jobs at a work
+BL6   station.Also provide a summary and your analysis:
+********** 2 **********
+--- page 3 ---
+Jobs Processing time DD=Due date
+
+A 11 61
+B 29 45
+Cc 31 31
+D 1 33
+F 2 32
+
+Jobs | Proc.time| Flow time DD| Late| Tardy
+
+A 11 11 61 -50 0
+B 29 40 45 -5 0
+Cc 31 71 31 40 40
+D fl 72 33 39 39
+E 2 74 32 42 42
+Total 268 202 66) 121
+Aver. 53.6; 40.4) 13.2) 24.2
+
+Jobs | Proc.time| Flow time DD} Late) Tardy
+
+D 1 1 33] -32 0
+E 2 3 32) -29 0
+A 1 14 61) -47 0
+B 29 43 45 -2 0
+Cc 31 74 31 43 43
+Total 135} 202| -67 43
+Aver. 27.0| 40.4) -13.4 8.6
+
+Jobs | Proc.time| Flow time DD| Late} Tardy
+
+c 31 31 31 0 0
+E Z 33] 32 1 1
+D 1 34] 33 1 1
+B 29 63) 45) 18| 18
+A 1 74] 61] 13] 13
+Total 235] 202) + +33| 33
+Aver. 470| 404) 66| 66
+Average
+Average Average Number of
+Flow Time Tardiness Jobs at the
+Rule (days) (days) Work Center
+FCFS 53.6 24.2 268/74=3.62
+SPT 27 86 135/74=1.82
+EDD 47 66 235/74=3.17
+
+FC QI a iar
+--- page 4 ---
+Evaluate the following Lot size technique for EOQ method
+Period   1   2   3   4   5   6   7   8   9   10
+Net   36   5   45   21   3   4   36
+requirements.
+Planned
+orders
+Assume LT = 0
+Q7   Set up cost = 120 /- ; Unit price = 60/-
+Holding costs, HR = .25 per annum and HP = .0208 per period   [10]
+CO2;
+Annual demand, D = 256
+BL6
+Q = (2DS / CHR)1/2 = 64
+Period   1   2   3   4   5   6   7   8   9   10
+Net   36   5   45   21   3   4   36
+requirements.
+Planned   64   64   64
+orders
+Remnants   28 23 23 42 42 21 18 14 42   42
+********** 4 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 9 · Answer key · paper 33806a3a5a7f
 
 - Departments: Artificial Intelligence
@@ -1717,182 +1895,4 @@ inventory level
 = 3003 yards
 
 Page 8 of 8
-````
-
-## 2024-25 · Final-Exam · Sem 9 · Answer key · paper e25dd1588d01
-
-- Departments: Computer Engineering, Information Technology, Mechanical
-- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046, MBATech Computer 7047, MBATech IT 7041
-- Source: `02_Question_Papers/2024/Sem_09/Final-Exam/MBATech_IT_7041/Operation Planning and Control/ANS_Operation Planning and Control(703TO0E001)_2024-2025_e25dd1588d.pdf` (+3 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 12 Dec 2025
-- Text: mixed (4 pages), mean OCR confidence 80.4
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)/MBA Tech
-(Mech)
-Year: V/Semester IX(Exam Year: 2025-2026)
-Subject: Operation Planning and Control
-Date: 12 Dec 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
-Max. Marks: 50
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 4 pages.
-2. Question No. _1___ is compulsory.
-3. Out of remaining questions, attempt any __4___ questions
-4. In all ___5_ questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1
-Describe briefly:   [10]
-a.   Forecasting
-CO 1 ;   The process of analysing and understanding current and past information to 2
-BL2
-understand future patterms through systematic and scientific approach
-b.   Master Production Schedule
-CO 2;   A master production schedule (MPS) is a production plan (anticipated build
-2
-BL2   schedule) for an individual product, a customer order, or a product option and
-common parts. It is a detailed plan that outlines production of finished goods over
-specific time period
-c.   Scheduling
-CO 3 ;   Establishing the timing of the use of   2
-BL2   equipment, facilities and human activities in an
-organization. Answering “when” question for activities
-d.   JIT
-Just In Time is an inventory and production strategy to receive and produce goods
-only when needed to minimize waste
-CO 4 ;   2
-.JIT is a business philosophy that focuses on reducing time and cost and
-BL2
-eliminating poor quality within manufacturing and non-manufacturing processes.
-Sometimes called short-cycle or lean manufacturing.
-e.   Synchronous Manufacturing System
-CO 4 ;   It is a system where entire production process operates in harmony , to achieve 2
-BL2
-business goals, focusing on balancing flow rather than capacity
-Q2   ExplainManufacturing Operation Classifications with examples
-CO 1;   MTO eg Vanity Vans, ETO eg. ICU ambulances, MTS eg cosmetic soaps, ATO   [10]
-BL2   eg. Dell Laptop
-********** 1 **********
---- page 2 ---
-Explain Classification of Forecasting with examples
-Q3   Economic Forecasting, eg. Inflation rate, GDP etc
-CO 1;   Demand Forecasting eg. Market surveys pre existing data base, etc   [10]
-BL2   Technology forecasting e; future technology upgrades
-Q4
-Enlist the following:   [10]
-CO; BL1
-1.   Steps of Capacity planning
-•   Estimate future capacity requirements
-•   Evaluate existing capacity
-CO2;   •   Identify alternatives
-BL1   • Conduct financial analysis
-•   Assess key qualitative issues
-•   Select one alternative
-• Implement alternative chosen
-• Monitor results
-2.   Objectives of Scheduling
-• Meet customer due dates
-• Minimize job lateness
-• Minimize response time
-• Minimize completion time
-CO3-;
-• Minimize time in the system
-BL1
-• Minimize overtime
-• Maximize machine or labor utilization
-• Minimize idle time
-• Minimize work-in-process inventory
-Q5
-Discuss the following:   [10]
-CO; BL2
-1.   Scope of IOT enabled manufacturing Systems
-CO4;   Enhanced operational efficiency, improved quality and customization, future and
-BL2
-strategic scopes like smart factories, Vertical replicas, Sustainability, safety, etc
-2.   Framework for Production Activity Control
-Involves a cycle of planning, implementing and controlling
-production to execute schedules and plans effectively, key
-CO3;   components:
-BL2   Planning: Order preparation, scheduling, capacity planning, routing
-Implementation: Dispatching, resource allocation
-Control: Monitoring, reporting, corrective action, inventory
-management
-Q6   Evaluate as per sequencing rules (FCFS, SPT, EDD):   [10]
-CO 3;   Average Flow time, Average Tardiness, Average number of jobs at a work
-BL6   station.Also provide a summary and your analysis:
-********** 2 **********
---- page 3 ---
-Jobs Processing time DD=Due date
-
-A 11 61
-B 29 45
-Cc 31 31
-D 1 33
-F 2 32
-
-Jobs | Proc.time| Flow time DD| Late| Tardy
-
-A 11 11 61 -50 0
-B 29 40 45 -5 0
-Cc 31 71 31 40 40
-D fl 72 33 39 39
-E 2 74 32 42 42
-Total 268 202 66) 121
-Aver. 53.6; 40.4) 13.2) 24.2
-
-Jobs | Proc.time| Flow time DD} Late) Tardy
-
-D 1 1 33] -32 0
-E 2 3 32) -29 0
-A 1 14 61) -47 0
-B 29 43 45 -2 0
-Cc 31 74 31 43 43
-Total 135} 202| -67 43
-Aver. 27.0| 40.4) -13.4 8.6
-
-Jobs | Proc.time| Flow time DD| Late} Tardy
-
-c 31 31 31 0 0
-E Z 33] 32 1 1
-D 1 34] 33 1 1
-B 29 63) 45) 18| 18
-A 1 74] 61] 13] 13
-Total 235] 202) + +33| 33
-Aver. 470| 404) 66| 66
-Average
-Average Average Number of
-Flow Time Tardiness Jobs at the
-Rule (days) (days) Work Center
-FCFS 53.6 24.2 268/74=3.62
-SPT 27 86 135/74=1.82
-EDD 47 66 235/74=3.17
-
-FC QI a iar
---- page 4 ---
-Evaluate the following Lot size technique for EOQ method
-Period   1   2   3   4   5   6   7   8   9   10
-Net   36   5   45   21   3   4   36
-requirements.
-Planned
-orders
-Assume LT = 0
-Q7   Set up cost = 120 /- ; Unit price = 60/-
-Holding costs, HR = .25 per annum and HP = .0208 per period   [10]
-CO2;
-Annual demand, D = 256
-BL6
-Q = (2DS / CHR)1/2 = 64
-Period   1   2   3   4   5   6   7   8   9   10
-Net   36   5   45   21   3   4   36
-requirements.
-Planned   64   64   64
-orders
-Remnants   28 23 23 42 42 21 18 14 42   42
-********** 4 **********
 ````

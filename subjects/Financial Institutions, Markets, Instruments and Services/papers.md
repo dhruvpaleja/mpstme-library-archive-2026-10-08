@@ -4,6 +4,105 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Exam not stated · Sem 6 · paper f75fad33a980
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FINANCIAL INSTITUTIONS,MARKETS,INSTRUME_ca256b45/Financial Institutions, Markets, Instruments and Serives, Sem-VI, Batch 2024-25 &_a575c3ca.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 July 2026
+- Text: ocr (2 pages), mean OCR confidence 86.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Academic Year: 2025-26
+Program: B Tech/ MBA Tech (All applicable streams)
+
+Year: II Semester :#V]
+
+Subject: Financial Institutions, Markets, Instruments and Services
+
+Time: 10.00 am to 1.00 pm (3 hrs)
+Date : 11 July 2026
+
+No. of Pages: O2
+Marks: 100
+
+Re-Exam (2024-25/2025-26)
+
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page
+7. Figure in right hand side indicates full marks.
+8. Assume Suitable data if necessary.
+
+1
+
+° [20]
+CO-1,2; a Discuss Commercial Banks as a Banking Institution in the Indian |- [05]
+BL-2 ~ | Financial System.
+CO-1,2; Define forfaiting. Explain its mechanism and role as a source of export | [05]
+BL-1 ’ | finance in international trade.
+CO-1; BL- c What is meant by the International Financial System? Explain its main | [05]
+! features.
+CO-1, 2; d Differentiate between fund-based services and fee-based services | [05]
+BL-2 rovided by financial institutions in India.
+
+P. y
+eee >. a | Explain the meaning and features of derivatives. Discuss the major [10]
+BL2. ; types of financial derivatives traded in the Indian financial system.
+
+b | Define leasing as a financial service within the Indian financial system.
+
+CO-1,2; F , F 5 ~
+BL-3 Discuss its types and evaluate its advantages and disadvantages from | [10]
+
+the perspectives of both lessee and lessor.
+ae 12: How does the capital market contribute to the economic growth of a [10]
+
+-1, 2; a |. orm: . .
+BL-3 country? Discuss in detail.
+CO-1,2; b What is meant by Credit Rating? Explain its importance in the Indian [10]
+BL-2 financial system.
+Fee ot a | Define microfinance. Discuss any one microfinance model with [10]
+BL-2 reference to its formation, salient features, and objectives.
+CO-1, 2; Explain the role and functions of the Insurance Regulatory and [10]
+BL-4 Development Authority of India (IRDAI).
+ees a | Discuss the role of Development Financial Institutions in agriculture [10]
+i and rural development in India.
+
+BL-¥ !
+CO-1, 2; a . z 3
+BL-2 : b_ | What is a Credit Card? Explain its features and uses. [10]
+
+FIR 7] a dG ok
+--- page 2 ---
+Q6 a | What do you mean by the formal and informal financial system in
+co-1 India? Why does the informal financial system continue to exist despite | [10]
+BL-3 the development of the formal financial sector?
+
+p | Explain the role of debt instruments in the Indian financial®system.
+
+CO-1, 2; a : . a . _
+
+BL-2 Critically examine their features, uses, and significance for. financial | [10]
+market development.
+
+Bo >. 4 | Discuss the role, functions, and powers of the Securities and Exchange [10]
+
+BL3 Board of India (SEBJ) in the Indian financial system.
+
+CO-1, 2; b Discuss the advantages and disadvantages of hire purchase as a source [10]
+
+BL-3 of finance by giving a suitable example.
+
+RRR KK 2 RR Re
+````
+
 ## 2025-26 · Final-Exam · Sem 5 · paper 8bde967ed4a4
 
 - Departments: AI and Machine Learning, Computer Engineering, Computer Science, Information Technology
@@ -1834,106 +1933,137 @@ BL-3   of finance by giving a suitable example.
 ********** 2 **********
 ````
 
-## 2024-25 · Exam not stated · Sem 6 · paper f75fad33a980
+## 2024-25 · Exam not stated · Sem 5 · paper 175f44210a61
 
 - Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FINANCIAL INSTITUTIONS,MARKETS,INSTRUME_ca256b45/Financial Institutions, Markets, Instruments and Serives, Sem-VI, Batch 2024-25 &_a575c3ca.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 July 2026
-- Text: ocr (2 pages), mean OCR confidence 86.5
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/FINANCIAL INSTITUTIONS MARKETS INSTRUME_e834fd74/Financial Institutions, Markets, Instruments and Services, Sem-V, Batch 2023-24 &_0bed87d8.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 87.9
 
 ````text
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Academic Year: 2025-26
-Program: B Tech/ MBA Tech (All applicable streams)
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
 
-Year: II Semester :#V]
+Academic Year: 2024-2025
 
-Subject: Financial Institutions, Markets, Instruments and Services
+Program/s: B. Tech/MBA Tech Year: [IT Semester: V
 
-Time: 10.00 am to 1.00 pm (3 hrs)
-Date : 11 July 2026
+Stream/s : All Applicable Streams
+Subject: Financial Institutions, Markets, Instruments and Services Marks: 100
+Time: 2:00 pm to5:00 pm
 
-No. of Pages: O2
-Marks: 100
+Duration: 3 (Hrs.)
+Date: __ 2s/ 2/ 20247 No. of Pages: 2
 
-Re-Exam (2024-25/2025-26)
+Re-Examination (2023-24)/24- 25°
 
-Instructions:
-1. This question paper contains 2 pages.
-2. Question No. 1 is compulsory
-3. Out of the remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page
-7. Figure in right hand side indicates full marks.
-8. Assume Suitable data if necessary.
+Instructions: Candidates should read carefully the instructions printed on the question paper and:on the cover
+of the Answer Book, which is provided for their use.
 
-1
+1) Question No. 1 is compulsory.
 
-° [20]
-CO-1,2; a Discuss Commercial Banks as a Banking Institution in the Indian |- [05]
-BL-2 ~ | Financial System.
-CO-1,2; Define forfaiting. Explain its mechanism and role as a source of export | [05]
-BL-1 ’ | finance in international trade.
-CO-1; BL- c What is meant by the International Financial System? Explain its main | [05]
-! features.
-CO-1, 2; d Differentiate between fund-based services and fee-based services | [05]
-BL-2 rovided by financial institutions in India.
+2) Out of remaining questions, attempt any 4 questions.
 
-P. y
-eee >. a | Explain the meaning and features of derivatives. Discuss the major [10]
-BL2. ; types of financial derivatives traded in the Indian financial system.
+3) In all 5 questions to be attempted.
 
-b | Define leasing as a financial service within the Indian financial system.
+4) All questions carry equal marks.
 
-CO-1,2; F , F 5 ~
-BL-3 Discuss its types and evaluate its advantages and disadvantages from | [10]
+5) Answer to each new question to be started on a fresh page.
 
-the perspectives of both lessee and lessor.
-ae 12: How does the capital market contribute to the economic growth of a [10]
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
--1, 2; a |. orm: . .
-BL-3 country? Discuss in detail.
-CO-1,2; b What is meant by Credit Rating? Explain its importance in the Indian [10]
-BL-2 financial system.
-Fee ot a | Define microfinance. Discuss any one microfinance model with [10]
-BL-2 reference to its formation, salient features, and objectives.
-CO-1, 2; Explain the role and functions of the Insurance Regulatory and [10]
-BL-4 Development Authority of India (IRDAI).
-ees a | Discuss the role of Development Financial Institutions in agriculture [10]
-i and rural development in India.
+Ql
 
-BL-¥ !
-CO-1, 2; a . z 3
-BL-2 : b_ | What is a Credit Card? Explain its features and uses. [10]
+Answer briefly: [20]
+CO-1; a. | Outline the role of the Securities and Exchange Board of India (SEB) as a financial [05]
+SO-3; regulator and describe how these roles contribute to the stability of the financial
+BL-2 markets.
+CO- ; : [05]
+SO- ; b. | List and describe the advantages of forfaiting.
+BL-1
+CO-1; : : : : : [05]
+SO-1: c. Se between the formal and informal financial systems. Provide at least
+BL-l five key points of distinction.
+CO-1; d i 3 : ee [05]
+S0-3: . PUA the role of fee-based services such as advisory and credit rating in the
+BL-l financial system.
+Q2 a , is ate
+CO-1: Analyze the concept of hedging and evaluate two specific hedging instruments
+S aon used for risk management. Also, discuss how each instrument operates and assess [10]
+BL- x its effectiveness in managing various types of financial risks.
 
-FIR 7] a dG ok
+1/2
 --- page 2 ---
-Q6 a | What do you mean by the formal and informal financial system in
-co-1 India? Why does the informal financial system continue to exist despite | [10]
-BL-3 the development of the formal financial sector?
+O-2;
+cae b | Explain how equipment leasing can contribute to the growth strategies of [10]
 
-p | Explain the role of debt instruments in the Indian financial®system.
+SO-2; : : :
+BL2 businesses. Provide examples to support your explanation.
+= >: a | Evaluate the impact of anomalies in financial markets on investor behavior.
+sO a Discuss how these anomalies have influenced investment strategies and market | [10]
+BL-5 dynamics.
+CO-1; is P elelahie ; oe
+Explain the concept of securitization. Describe how the process of securitization
 
-CO-1, 2; a : . a . _
+SO-2; : : [10]
+BL-2 works and how it benefits both lenders and investors.
 
-BL-2 Critically examine their features, uses, and significance for. financial | [10]
-market development.
+Q4 a_ | Evaluate the role of Microfinance Institutions (MFIs) in alleviating poverty in rural
 
-Bo >. 4 | Discuss the role, functions, and powers of the Securities and Exchange [10]
+CO-1; India. Discuss the effectiveness of MFIs in promoting economic development, [10]
+SO-2; empowerment of marginalized groups, and the sustainability of their impact on
 
-BL3 Board of India (SEBJ) in the Indian financial system.
+BL-4 poverty alleviation.
 
-CO-1, 2; b Discuss the advantages and disadvantages of hire purchase as a source [10]
+CO-1; b
 
-BL-3 of finance by giving a suitable example.
+SO-5; Define plain vanilla and exotic derivatives and state their role in financial systems. | [10]
+BL-1
 
-RRR KK 2 RR Re
+Q5 a eer :
+
+CO-2: Analyze the role of rural banking in microfinance by selecting one model of rural
+
+50 x banking. Evaluate the strengths and weaknesses of this model in supporting rural | [10]
+BL. 4 financial inclusion and economic development.
+
+CO-2; b | Define factoring in trade financing. Explain how factoring works, and list its key
+
+SO-2; advantages for businesses. Provide examples of how factoring reduces risks in | [10]
+BL-2 trade transactions.
+
+Q6 4 | Critically evaluate the regulatory frameworks governing financial markets in India
+CO-1; before and after the liberalization period. Compare the effectiveness of both [10]
+SO-5; frameworks concerning regulatory approaches, market access, and investor
+
+BL-5 protection measures.
+
+CO-2; ; : : ee ne :
+
+50-2: b | Explain the concept of private placement and discuss its significance in the context [10]
+BL2 of a company's financial strategy.
+
+Q7 a . eee i
+
+Explain the regulatory policies implemented by the Reserve Bank of India (RBI)
+
+CO-1; F : 3
+
+50-3: to control the money market. Discuss any two instruments used by RBI and their | [10]
+BL. 4 functions to maintain market integrity and protect investor right.
+
+CO-1; ; , :
+
+50-5: Compare the advantages and disadvantages of leasing. In what ways is the concept [10]
+BL 5 of leasing different from the concept and characteristics of hire purchase?
+
+2/2
 ````
 
-## 2024 · Final-Exam · Sem 5 · paper e27b6ed44378
+## 2024-25 · Final-Exam · Sem 5 · paper e27b6ed44378
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
@@ -2315,40 +2445,42 @@ BL-3 examples. :
 2/2
 ````
 
-## 2023-24 · Exam not stated · Sem 5 · paper 175f44210a61
+## 2023-24 · Exam not stated · Sem 6 · paper a9080ed6268b
 
 - Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/FINANCIAL INSTITUTIONS MARKETS INSTRUME_e834fd74/Financial Institutions, Markets, Instruments and Services, Sem-V, Batch 2023-24 &_0bed87d8.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 87.9
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FINANCIAL INSTITUTIONS,MARKETS,INSTRUME_ca256b45/Financial Institutions,Market Instruments & Services ,0001.pdf`
+- Printed on paper: max marks: 50
+- Text: ocr (2 pages), mean OCR confidence 90.5
 
 ````text
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEER
 SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+Program/s: MBA Tech / B.Tech CE
 
-Academic Year: 2024-2025
+Stream/s: ALL.
+Year :T ~~ Senester 2¥E
 
-Program/s: B. Tech/MBA Tech Year: [IT Semester: V
+Subject: Financial Institutions, Markets Instruments and Services
+Timing ¢ 2t00pm — Stecom
 
-Stream/s : All Applicable Streams
-Subject: Financial Institutions, Markets, Instruments and Services Marks: 100
-Time: 2:00 pm to5:00 pm
+Rurchio 2 Shrs
 
-Duration: 3 (Hrs.)
-Date: __ 2s/ 2/ 20247 No. of Pages: 2
+Date:_“_/ 7 / 2024
 
-Re-Examination (2023-24)/24- 25°
+Marks: 50
+Re-Examination ‘ /
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and:on the cover
-of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. |
 
-1) Question No. 1 is compulsory.
+1) Question No. _1___ is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2) Out of remaining questions, attempt any 4 __ questions.
 
-3) In all 5 questions to be attempted.
+3) Inall___5_ questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -2358,98 +2490,63 @@ of the Answer Book, which is provided for their use.
 7) Assume Suitable data if necessary.
 
 Ql
-
-Answer briefly: [20]
-CO-1; a. | Outline the role of the Securities and Exchange Board of India (SEB) as a financial [05]
-SO-3; regulator and describe how these roles contribute to the stability of the financial
-BL-2 markets.
-CO- ; : [05]
-SO- ; b. | List and describe the advantages of forfaiting.
-BL-1
-CO-1; : : : : : [05]
-SO-1: c. Se between the formal and informal financial systems. Provide at least
-BL-l five key points of distinction.
-CO-1; d i 3 : ee [05]
-S0-3: . PUA the role of fee-based services such as advisory and credit rating in the
-BL-l financial system.
-Q2 a , is ate
-CO-1: Analyze the concept of hedging and evaluate two specific hedging instruments
-S aon used for risk management. Also, discuss how each instrument operates and assess [10]
-BL- x its effectiveness in managing various types of financial risks.
-
-1/2
+Answer briefly: [10]
+CO- 1; SO- | a. You are required to list the regulators which directly or indirectly
+. 25
+4 regulates the flow of investments in capital and money market |
+CO-2 ; SO- | b.
+2; List out the activities of a banking company 2.5
+BL-2
+CO- 1; SO- | c.
+2; Distinguish between Liberalization and Privatisation 2.5
+BL-3
+CO-1 ; SO- | d.
+2; Explain briefly how the financial market influence the Indian economy. | 2.5 =
+BL-3
+Q2 Explain in brief the key prudential norms established by the Reserve
+é
+CO-2; SO- Bank of India (RBI) which regulate Non-Banking Financial Companies | [10]
+2 7 : ;
+BL-5 (NBFCs) in India, and
 --- page 2 ---
-O-2;
-cae b | Explain how equipment leasing can contribute to the growth strategies of [10]
+Discuss how do these norms contribute to the stability and integrity
 
-SO-2; : : :
-BL2 businesses. Provide examples to support your explanation.
-= >: a | Evaluate the impact of anomalies in financial markets on investor behavior.
-sO a Discuss how these anomalies have influenced investment strategies and market | [10]
-BL-5 dynamics.
-CO-1; is P elelahie ; oe
-Explain the concept of securitization. Describe how the process of securitization
+of the financial system?
 
-SO-2; : : [10]
-BL-2 works and how it benefits both lenders and investors.
+Explain with justification how the stock market of a country can
 
-Q4 a_ | Evaluate the role of Microfinance Institutions (MFIs) in alleviating poverty in rural
-
-CO-1; India. Discuss the effectiveness of MFIs in promoting economic development, [10]
-SO-2; empowerment of marginalized groups, and the sustainability of their impact on
-
-BL-4 poverty alleviation.
-
-CO-1; b
-
-SO-5; Define plain vanilla and exotic derivatives and state their role in financial systems. | [10]
-BL-1
-
-Q5 a eer :
-
-CO-2: Analyze the role of rural banking in microfinance by selecting one model of rural
-
-50 x banking. Evaluate the strengths and weaknesses of this model in supporting rural | [10]
-BL. 4 financial inclusion and economic development.
-
-CO-2; b | Define factoring in trade financing. Explain how factoring works, and list its key
-
-SO-2; advantages for businesses. Provide examples of how factoring reduces risks in | [10]
-BL-2 trade transactions.
-
-Q6 4 | Critically evaluate the regulatory frameworks governing financial markets in India
-CO-1; before and after the liberalization period. Compare the effectiveness of both [10]
-SO-5; frameworks concerning regulatory approaches, market access, and investor
-
-BL-5 protection measures.
-
-CO-2; ; : : ee ne :
-
-50-2: b | Explain the concept of private placement and discuss its significance in the context [10]
-BL2 of a company's financial strategy.
-
-Q7 a . eee i
-
-Explain the regulatory policies implemented by the Reserve Bank of India (RBI)
-
-CO-1; F : 3
-
-50-3: to control the money market. Discuss any two instruments used by RBI and their | [10]
-BL. 4 functions to maintain market integrity and protect investor right.
-
-CO-1; ; , :
-
-50-5: Compare the advantages and disadvantages of leasing. In what ways is the concept [10]
-BL 5 of leasing different from the concept and characteristics of hire purchase?
-
-2/2
+Q3 impact the economic growth. 5 Marks
+° [10]
+CO1-; SO- Explain the impact of bank interest (interest rates going up or going
+2; BL-4
+down) on the stock market. (5 marks)
+Qa Discuss the essential element of Lease financing. [Marks 5]
+CO-2; SO- Explain the advantage of leasing for a company indulge in [10]
+5; manufacturing and new project, without going for loan and equity
+BL-5
+funding. [Marks 5]
+Identify the reasons to implement liberalization and globalization in
+Qs India. Also explain the positive and Negative impact of liberalization on
+CO-1; SO- Indian economy. [10]
+5;
+BL-4 Reasons for Liberalization and Globalization
+Q6 Discuss the role of an Investment banking company in a capital market.
+CO-2; SO- Briefly explain the steps they follow in guiding their corporate clients in | [10]
+2;
+“i raising long term capital from capital market.
+BL-4
+Q7
+Explain in detail the functions of a Factor those who provides the
+CO-2; $O- [10]
+By factoring services to their company clients.
+BL-3
 ````
 
 ## 2023-24 · Final-Exam · Sem 5 · paper ee18d9e2323a
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/FINANCIAL INSTITUTIONS MARKETS INSTRUME_e834fd74/Financial Inst,Markets,Instruments & Services ,Final 23-24.pdf` (+1 identical copies)
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/FINANCIAL DERIVATIVES/Financial Inst,Markets,Instruments & Services ,Final 23-24.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 90.2
 
@@ -2973,6 +3070,253 @@ markets and how it has aided in creating favourable image of India.
 L_| |
 ````
 
+## 2022-23 · Exam not stated · Sem 5 · paper 65bec17109f3
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/FINANCIAL INSTITUTIONS MARKETS INSTRUME_e834fd74/Financial Institutions ,Markets ,Instruments & Services, 3rd Year, Sem V, Year 20_2a25f48f.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 December 2022
+- Text: ocr (2 pages), mean OCR confidence 89.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+~
+
+Academic Year: 2022-23 “
+
+e
+
+Programme: B.Tech / MBA Tech (All Stream) Year: III/ IV Semester: V /Vul |
+Subject: Financial Institutions, Markets, Instruments and Services
+
+Marks: 100 “
+Date: 02 December 2022 Time: 2.00 pm - 5.00 pm
+
+Durations: 3 (Hrs)
+
+No. of Pages: OR
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Qi
+Answer briefly (Attempt all and each question is of 5 marks) [20]
+a 3802; a. SEBI is the watchdog of the country for companies. Explain the [05]
+Understanding statement by mentioning the objectives of SEBI.
+op Bos: b. “Non- Banking Finance Companies in India do contribute towards
+ee the economic development of the country” Would you agree with | [05]
+
+BL- Evaluating . 3
+this statement and give reasons for your answer.
+
+ond 180-4; c. Briefly enumerate the key differences between a capital lease and [05]
+Remembering an operating lease.
+
+d. Securitisation is important structured finance product in the
+pal bee, ; financial sector. Create the basis for the statement mentioned [05]
+
+° above by mentioning the benefits of securitization.
+
+a. Companies planning to expand its business, use different financial
+@ instruments namely Forward contracts, Convertible Debentures [10]
+CO-1; SO-7; and Deep Discount Debentures to raise finance. Elaborate the
+BL- Analysing usage of Forward contracts, Convertible Debentures and Deep
+
+Discount Debentures giving examples for each of them.
+
+b. “Developmental Financial Institutions should be leading and
+CO-1; SO-2; supportive rather than dictate and be dominating”. Critically [10]
+BL- Creating
+
+examine this statement with your reason taking into consideration
+the activities of Developmental Financial Institutions in India.
+
+BI
+
+2.
+--- page 2 ---
+Q3
+
+RBI is one of the most important financial regulators in the
+
+—— [10]
+Evabetne BL- country. Explain the techniques used by RBI for managing the
+money supply in the economy.
+60-1: 80-4: BL Credit Ratings are important part of the financial sector. Comment
+Und erstandin °. 7 on the statement by explaining the term ‘Credit Ratings’ and [10]
+outlining the advantages and limitations of credit ratings.
+Q4 *
+_ . One of vital reasons for financial services able to contribute to the | [10
+CO-2; SO- 2; © of vital re 7 c
+BL- Analysing Indian Financial System is due to fund-based services. Analyse the
+statement by explaining the different fund-based services.
+ofa 80-3; Microfinancing plays a vital role in the development of the 1101
+; developing economy. Discuss with reference to the above, the “e
+Remembering features, importance, channels and services offered by these
+microfinancing institutions.
+Q5
+©O-1; 0-3; Forfaiting if highly beneficial in international trade”. In the light | !01
+BL. Evaluat g ghly g
+~ Evaluating of the above statement, mention the benefits of forfaiting.
+CO-1; SO-5 ; . @ oe F
+:S0-5 Many companies are opting for voluntary delisting of their shares. | [10]
+BL- Comment on the statement by explaining the advantages and
+Understanding disadvantages of voluntary delisting of their shares.
+mn You are evaluating a lease vs construct (buy) decision for a [10]
+CO-1; SO-3; telecom company vis-a-vis towers it seeks to construct or lease.
+BL-Analysing How would you approach the decision? Outline a structured
+thought process.
+CO-1: $0-5: Many companies come-up with IPO issue to raise funds in the
+BL-Creating primary market. Explain the statement mentioned above by stating {10]
+the process of book building during IPO.
+Q7 The key elements of the Indian Financial System contribute
+CO-1; SO-5; towards its effective functioning. Evaluate the above-mentioned [20]
+BL-Evaluating
+
+statement by explaining the key elements of the Indian Financial
+System.
+
+Xx
+
+2.
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper 1fff0edcbc16
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FINANCIAL INSTITUTIONS,MARKETS,INSTRUME_ca256b45/Financial Institutions,Markets,Instruments and Services.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/05/ 2023
+- Text: ocr (3 pages), mean OCR confidence 92.8
+
+````text
+GK B
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2022-2023
+
+Program/s: MBA Tech and BTech Year: II] and IV Semester: VI and VIII
+Stream/s: All
+
+Subject: Financial Institutions, Markets, Instruments and Services Time: 3 hours (10.00 am to 1.00 pm)
+Date:05/05/ 2023 No. of Pages:_03 _
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+> the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of the remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a new page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly(Attempt all the questions) [20]
+
+CO- 1; SO-; a | Market-based financial systems are followed in the USA. Explain the [05]
+BL- market-based financial systems and its advantages.
+
+Understand
+b | The government has taken digital financial inclusion initiatives for India,
+_
+CO- 1; SO-; but the effects are invisible. Strategise on the ways to improve digital | [05]
+BL-Create
+financial inclusion in India.
+
+CO- 1; SO-; c | Treasury bills are an integral part of the money market. What is the treasury [05]
+. - bill and its features?
+
+emember
+Coa: During Covid times, receivables management became important to every
+
+BL- , / ; manufacturing company. Determine the characteristics of forfaiting to | [05]
+
+Understand manage the receivables.
+--- page 2 ---
+Q2 a | Ordinary share capital and Preference share capital play an important role
+
+CO-1; SO-; in the long term capital formation of companies. Examine the above [10]
+Ors tand statement with the relevant points.
+b | The strong economy today is due to the solid foundations laid down by the
+“SLAply Financial Institutions of yesterday. Explain the roles played by IDBI and [10]
+EXIM bank.
+Q3 a | The regulators play an important role in growth and development. Discuss
+CO-1: SO-; the role played by RBI to tackle the inflation issues in India considering [10]
+BL-Evaluate the recent monetary policy.
+b | The quality of financial management is increased by keeping the knife
+CO-2; SO-; “credit rating” above every company head. Justify the statement by [10]
+BL-Evaluate
+mentioning the relevant points for the same.
+Q4 a
+CO-2: SO-: Leasing has gained a lot of importance in the finance sector. Outline the :
+BL- , advantages and disadvantages of leasing. ma
+Understand
+b | Micro Finance and Financial inclusion are the lifeline of the rural poor in
+CO-1; SO-; this country. What is the importance of micro-financial institutions in India
+on by considering role played by banks and Non-Governmental Organisations U9)
+(NGOs).
+Qs a | Factoring is an important financial service that boosts the company's
+CO-2; SO-; performance and fosters economic development. Analyse the statement by | [10]
+BL-Analyse stating its importance for economic development in India.
+Q5 b | “Listing Thrills and Delisting, if done by authorities leads te the shutdown
+CO-1; SO-; of the companies” Debate the statement by mentioning positive and [10]
+ae d negative points with relevant examples.
+Q6 a
+
+Derivatives have transformed the stock markets in India. Analyse the
+
+-1: SO-: [10]
+COuL SO effect of the derivatives on the stock market volatility.
+BL-Analyse
+--- page 3 ---
+oo
+
+b | NBFC’s have filled the vacuum created due to the limitations of the bank
+
+CO-1; SO-; to provide certain services. Explain with examples the role played by [10]
+BL- Analyse
+
+NBEFC in revolutionising the Indian economy.
+
+Financial services are more advanced in developed countries compared to
+Q7 developing countries. Examine the different fee-based financial services
+CO-2; SO-; provided. Strategise to improve the fee-based financial services provided (20]
+BL- Create in India to have more confidence in Indian financial services from the
+
+perspective of global players.
+````
+
 ## 2022-23 · Re-Exam · Sem 8 · paper 489938c1a600
 
 - Departments: Common (all branches)
@@ -3296,135 +3640,6 @@ CO- 3; SO-; [10]
 BL- Analyze of mutual funds.
 ````
 
-## Year not stated · Exam not stated · Sem 5 · paper 65bec17109f3
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/FINANCIAL INSTITUTIONS MARKETS INSTRUME_e834fd74/Financial Institutions ,Markets ,Instruments & Services, 3rd Year, Sem V, Year 20_2a25f48f.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 December 2022
-- Text: ocr (2 pages), mean OCR confidence 89.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-~
-
-Academic Year: 2022-23 “
-
-e
-
-Programme: B.Tech / MBA Tech (All Stream) Year: III/ IV Semester: V /Vul |
-Subject: Financial Institutions, Markets, Instruments and Services
-
-Marks: 100 “
-Date: 02 December 2022 Time: 2.00 pm - 5.00 pm
-
-Durations: 3 (Hrs)
-
-No. of Pages: OR
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qi
-Answer briefly (Attempt all and each question is of 5 marks) [20]
-a 3802; a. SEBI is the watchdog of the country for companies. Explain the [05]
-Understanding statement by mentioning the objectives of SEBI.
-op Bos: b. “Non- Banking Finance Companies in India do contribute towards
-ee the economic development of the country” Would you agree with | [05]
-
-BL- Evaluating . 3
-this statement and give reasons for your answer.
-
-ond 180-4; c. Briefly enumerate the key differences between a capital lease and [05]
-Remembering an operating lease.
-
-d. Securitisation is important structured finance product in the
-pal bee, ; financial sector. Create the basis for the statement mentioned [05]
-
-° above by mentioning the benefits of securitization.
-
-a. Companies planning to expand its business, use different financial
-@ instruments namely Forward contracts, Convertible Debentures [10]
-CO-1; SO-7; and Deep Discount Debentures to raise finance. Elaborate the
-BL- Analysing usage of Forward contracts, Convertible Debentures and Deep
-
-Discount Debentures giving examples for each of them.
-
-b. “Developmental Financial Institutions should be leading and
-CO-1; SO-2; supportive rather than dictate and be dominating”. Critically [10]
-BL- Creating
-
-examine this statement with your reason taking into consideration
-the activities of Developmental Financial Institutions in India.
-
-BI
-
-2.
---- page 2 ---
-Q3
-
-RBI is one of the most important financial regulators in the
-
-—— [10]
-Evabetne BL- country. Explain the techniques used by RBI for managing the
-money supply in the economy.
-60-1: 80-4: BL Credit Ratings are important part of the financial sector. Comment
-Und erstandin °. 7 on the statement by explaining the term ‘Credit Ratings’ and [10]
-outlining the advantages and limitations of credit ratings.
-Q4 *
-_ . One of vital reasons for financial services able to contribute to the | [10
-CO-2; SO- 2; © of vital re 7 c
-BL- Analysing Indian Financial System is due to fund-based services. Analyse the
-statement by explaining the different fund-based services.
-ofa 80-3; Microfinancing plays a vital role in the development of the 1101
-; developing economy. Discuss with reference to the above, the “e
-Remembering features, importance, channels and services offered by these
-microfinancing institutions.
-Q5
-©O-1; 0-3; Forfaiting if highly beneficial in international trade”. In the light | !01
-BL. Evaluat g ghly g
-~ Evaluating of the above statement, mention the benefits of forfaiting.
-CO-1; SO-5 ; . @ oe F
-:S0-5 Many companies are opting for voluntary delisting of their shares. | [10]
-BL- Comment on the statement by explaining the advantages and
-Understanding disadvantages of voluntary delisting of their shares.
-mn You are evaluating a lease vs construct (buy) decision for a [10]
-CO-1; SO-3; telecom company vis-a-vis towers it seeks to construct or lease.
-BL-Analysing How would you approach the decision? Outline a structured
-thought process.
-CO-1: $0-5: Many companies come-up with IPO issue to raise funds in the
-BL-Creating primary market. Explain the statement mentioned above by stating {10]
-the process of book building during IPO.
-Q7 The key elements of the Indian Financial System contribute
-CO-1; SO-5; towards its effective functioning. Evaluate the above-mentioned [20]
-BL-Evaluating
-
-statement by explaining the key elements of the Indian Financial
-System.
-
-Xx
-
-2.
-````
-
 ## Year not stated · Exam not stated · Sem 5 · paper 4f1932d5305c
 
 - Departments: Common (all branches)
@@ -3535,219 +3750,4 @@ fund.
 Qi [20]
 CO-1; $O-2;° Indian financial system has undergone a transformation since
 independence. Create a strong case by explaining the transformation
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper a9080ed6268b
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FINANCIAL INSTITUTIONS,MARKETS,INSTRUME_ca256b45/Financial Institutions,Market Instruments & Services ,0001.pdf`
-- Printed on paper: max marks: 50
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEER
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-Program/s: MBA Tech / B.Tech CE
-
-Stream/s: ALL.
-Year :T ~~ Senester 2¥E
-
-Subject: Financial Institutions, Markets Instruments and Services
-Timing ¢ 2t00pm — Stecom
-
-Rurchio 2 Shrs
-
-Date:_“_/ 7 / 2024
-
-Marks: 50
-Re-Examination ‘ /
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. |
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [10]
-CO- 1; SO- | a. You are required to list the regulators which directly or indirectly
-. 25
-4 regulates the flow of investments in capital and money market |
-CO-2 ; SO- | b.
-2; List out the activities of a banking company 2.5
-BL-2
-CO- 1; SO- | c.
-2; Distinguish between Liberalization and Privatisation 2.5
-BL-3
-CO-1 ; SO- | d.
-2; Explain briefly how the financial market influence the Indian economy. | 2.5 =
-BL-3
-Q2 Explain in brief the key prudential norms established by the Reserve
-é
-CO-2; SO- Bank of India (RBI) which regulate Non-Banking Financial Companies | [10]
-2 7 : ;
-BL-5 (NBFCs) in India, and
---- page 2 ---
-Discuss how do these norms contribute to the stability and integrity
-
-of the financial system?
-
-Explain with justification how the stock market of a country can
-
-Q3 impact the economic growth. 5 Marks
-° [10]
-CO1-; SO- Explain the impact of bank interest (interest rates going up or going
-2; BL-4
-down) on the stock market. (5 marks)
-Qa Discuss the essential element of Lease financing. [Marks 5]
-CO-2; SO- Explain the advantage of leasing for a company indulge in [10]
-5; manufacturing and new project, without going for loan and equity
-BL-5
-funding. [Marks 5]
-Identify the reasons to implement liberalization and globalization in
-Qs India. Also explain the positive and Negative impact of liberalization on
-CO-1; SO- Indian economy. [10]
-5;
-BL-4 Reasons for Liberalization and Globalization
-Q6 Discuss the role of an Investment banking company in a capital market.
-CO-2; SO- Briefly explain the steps they follow in guiding their corporate clients in | [10]
-2;
-“i raising long term capital from capital market.
-BL-4
-Q7
-Explain in detail the functions of a Factor those who provides the
-CO-2; $O- [10]
-By factoring services to their company clients.
-BL-3
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 1fff0edcbc16
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FINANCIAL INSTITUTIONS,MARKETS,INSTRUME_ca256b45/Financial Institutions,Markets,Instruments and Services.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/05/ 2023
-- Text: ocr (3 pages), mean OCR confidence 92.8
-
-````text
-GK B
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2022-2023
-
-Program/s: MBA Tech and BTech Year: II] and IV Semester: VI and VIII
-Stream/s: All
-
-Subject: Financial Institutions, Markets, Instruments and Services Time: 3 hours (10.00 am to 1.00 pm)
-Date:05/05/ 2023 No. of Pages:_03 _
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-> the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a new page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly(Attempt all the questions) [20]
-
-CO- 1; SO-; a | Market-based financial systems are followed in the USA. Explain the [05]
-BL- market-based financial systems and its advantages.
-
-Understand
-b | The government has taken digital financial inclusion initiatives for India,
-_
-CO- 1; SO-; but the effects are invisible. Strategise on the ways to improve digital | [05]
-BL-Create
-financial inclusion in India.
-
-CO- 1; SO-; c | Treasury bills are an integral part of the money market. What is the treasury [05]
-. - bill and its features?
-
-emember
-Coa: During Covid times, receivables management became important to every
-
-BL- , / ; manufacturing company. Determine the characteristics of forfaiting to | [05]
-
-Understand manage the receivables.
---- page 2 ---
-Q2 a | Ordinary share capital and Preference share capital play an important role
-
-CO-1; SO-; in the long term capital formation of companies. Examine the above [10]
-Ors tand statement with the relevant points.
-b | The strong economy today is due to the solid foundations laid down by the
-“SLAply Financial Institutions of yesterday. Explain the roles played by IDBI and [10]
-EXIM bank.
-Q3 a | The regulators play an important role in growth and development. Discuss
-CO-1: SO-; the role played by RBI to tackle the inflation issues in India considering [10]
-BL-Evaluate the recent monetary policy.
-b | The quality of financial management is increased by keeping the knife
-CO-2; SO-; “credit rating” above every company head. Justify the statement by [10]
-BL-Evaluate
-mentioning the relevant points for the same.
-Q4 a
-CO-2: SO-: Leasing has gained a lot of importance in the finance sector. Outline the :
-BL- , advantages and disadvantages of leasing. ma
-Understand
-b | Micro Finance and Financial inclusion are the lifeline of the rural poor in
-CO-1; SO-; this country. What is the importance of micro-financial institutions in India
-on by considering role played by banks and Non-Governmental Organisations U9)
-(NGOs).
-Qs a | Factoring is an important financial service that boosts the company's
-CO-2; SO-; performance and fosters economic development. Analyse the statement by | [10]
-BL-Analyse stating its importance for economic development in India.
-Q5 b | “Listing Thrills and Delisting, if done by authorities leads te the shutdown
-CO-1; SO-; of the companies” Debate the statement by mentioning positive and [10]
-ae d negative points with relevant examples.
-Q6 a
-
-Derivatives have transformed the stock markets in India. Analyse the
-
--1: SO-: [10]
-COuL SO effect of the derivatives on the stock market volatility.
-BL-Analyse
---- page 3 ---
-oo
-
-b | NBFC’s have filled the vacuum created due to the limitations of the bank
-
-CO-1; SO-; to provide certain services. Explain with examples the role played by [10]
-BL- Analyse
-
-NBEFC in revolutionising the Indian economy.
-
-Financial services are more advanced in developed countries compared to
-Q7 developing countries. Examine the different fee-based financial services
-CO-2; SO-; provided. Strategise to improve the fee-based financial services provided (20]
-BL- Create in India to have more confidence in Indian financial services from the
-
-perspective of global players.
 ````

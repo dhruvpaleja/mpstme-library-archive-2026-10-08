@@ -392,6 +392,8 @@ into the data warehouse.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSE_DS_7057/Data Wrangling/ANS_Data Wrangling(702DB0C036)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: mixed (23 pages), mean OCR confidence 47.5
+- 94 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM’S NMIMS
@@ -591,24 +593,16 @@ Q4   [20]
 --- page 8 ---
 " Q) ligt the Luntions tat a date quality “bool is
 expected “te portorm. |
-~The ND Main Puneloat Yoo & dete qualtty
 tool Should posted aner
-(© Erroy Aigcvery featous— Tt Should.
 v T dently duplicate Soroyds .
-Tdewkly Valu thak one oubstde the demain |
 Yonge |
 Find Intensislent date |
 
 CO-2 .
-m YY mender tunds tw dota Qolty our Lure [5]
 
-(Q) Enror Contdtion featovs— Lt should:
 Lr Normalise   [ndensistent dala
-1 yy Tiwprove rng of dala d&s-siwel ose
 » date Sune t fen
 , . .
-Vo provide Mesum of dole. gical -
-axe wrdsicle” the Speeifiod dewoin ange.
 --- page 9 ---
 Doakalaysos
 
@@ -618,9 +612,7 @@ Oxy CoSenis underlging Dakebete Changed
 Say From DB2 to oracle - Be, : :
 
 layer cid pot read to be raccdad S
-Compilud te AltLemodoto Uns. Snownge. Tnstad
 You Surply Change the ODRe cura.
-Yeo dan cht ae TSO pptitan
 ODRBe   dounens she
 co-3 Query PRMS ty eaiStente on i reed
 ‘Ble Platform. You Com ako use ODRa te access [5]
@@ -656,7 +648,6 @@ Seutes, ib pouscte ODBC
 dbuber. re he maietont hetaweot
 Ayitotion and the ODRC dacuer, :
 ODBC cure +. The ODBc doula Ha doe
-Workheuss ur he opee environment. Thee
 ODBc cuwsar translates ODEC SQL tb Uae
 netwe SQL ef Hy Undoing Aotabose, ©
 The drortoack to ODBC's Penibility ts the
@@ -679,9 +670,7 @@ Labeled diagram (2 marks)
 
 10
 --- page 11 ---
-a) neok t Jann Hee ornelitectund
 OF A dodo Wworehouse
-fig Dako Wavekouse Ach ee UA
 
 g
 
@@ -697,14 +686,10 @@ LW ONWUKOUSE Mana ger
 
 Archive | Rackep
 
--~TK dote w dota Worrhovse. Comet Pro Operodve}
-SYS kenrg, of ovganisotien op well os olen exviean
 Sovytas, These one colle Rely referred tbo as
 Source Sysleome.
 
-=— The dole erchartad groan SOUL. System is
 Stored Un an rrr Collek as dota S vim Ores
-Ushore Oa is Choomod tres foy mad bo )
 Onda ¥ / c wo ined
 
 — Fre Pace dated Rede op syste fee
@@ -718,12 +703,9 @@ Nt) PS ented enn Senarons.
 11
 --- page 12 ---
 Oferolionel Source :- The Soure of cleta is Sup p lity
-* hom Moinfrome Systems UW bradlitonal nekwork 4
 AsCol format. Dat Cam alio Cone
 
-dre Melatenal DBMS (cke Onale) Enforrmire
 
-Suleaited with onbuctlns, pH enwatiins,   €
 
 so TE erp WF
 Ossociated Ustth LL, A p ot opewtions
@@ -733,43 +715,33 @@ Womrehouce .
 @ Gemenction ef frag reg ation ¢
 
 Barks up X anchiviry of dota , :
-usr enonogn> s& performs aN opination ut
 
-Mramagenrenk arene QUERRS . This COP onens
 4s hrrtid Usin Vinda- .
 
 Clers tools A Custom built Yog Youn . one “
-dekailed cote cv detaloosre Schoma. The cleteilos
 lets is added He Worrhor ses
 to Supplement the aggregated dats. ¢
 Lightly & Higlty Summarized delai- This stores alé
-poedapiral “Upidly % highly Surmonisad clot §
 Quoted lay workers MEABICA. Te raed!
 
-Gf tre Sommanited Informabion 3S toe
 Spard Up the query performance _
 
 Q
 
 12
 --- page 13 ---
-Arelixe | Qackup data: qhe detailed & Summons
 choke ow Stored foy He purpose of anchivir
 oun ak
-Onchures Seon an ‘s trons Pernod to St
 metadode® Th is “eo i ete or Ophar bi
 © Exbredion & (noel aus par peas
 Metadote iS Used to map dote Sources |
-i ree Lune 4 infotrmatien With
 eS) Warnrhouse monagemet PYOlosd
 Metacotr ts sed te atomate the
 Pro duction ef Summer toole..
 (BD Qusy managemt procers.
 Mektideta is used to diet a queyy t
-Lia rmrost apyrupriate cote Sounte ,
 End User ACCC tools: Svamples of Curd User acd
 pols ow veportiry and quuy tools, Application
-douelepunrent toot, dote nmrning tools otc,
 
 Q5
 
@@ -779,7 +751,6 @@ Q5
 --- page 14 ---
 CO-2
 
-* 7M Des onviconmunrt, Seuvity ts rou dad
 sins) tenes mechautamats : |
 User Prévéleges — Foy Dw, the Project
 hi _Ditfers & "¥ola” based Secwuhy. A
@@ -791,7 +762,6 @@ Chd-user. You have guanttd Gruain pytutle
 bb The Users under thy Sole. DAL prtvileses
 to ond-ers will he ounlled by Tobe
 feo. However, U Some ent pbvyPlege to
-Acer go dunentin tabe & alyo Ginn te John,
 Uren only he Gn acted thet One. entra
 Dimension table A the Rest of tre ond Wors
 ’ Counnert,
@@ -799,8 +769,6 @@ Dimension table A the Rest of tre ond Wors
 j @) pass word Pxotectten — Users risa Passwords
 
 a i “Tes (5]
-ie te gk ie te DO. De te aaty
-> Seesthy aduntnisbrater to Set Up acter
 , Bly paounds for Us password
 pallors Q the omprry fie Ln 7
 Y .
@@ -810,60 +778,38 @@ ome s) Such ecender,
 > sal number Cf
 ny O ow be Suspended
 adept ( Une tre Dw Urok 1S ) eee
-? vari 2 eates Ure USC
-i) tome ume ntstroter Prd
 e 3° the pw
 ‘ ¢
-@ Seavdky teotsi- Tr Pio cuuisrenment , th
-S€ewiky provided ley DRMS Provicles Ue
-peedvane Seuvetty eels Some os geutecckions 4
-also Irae -bldad asctiy Secuity Syste cS ‘
-twstallal -to geoucre the Seouuty of Dw SHS TR g
 ° ¢
 BL b. Temporal Data in Data Warehouse: 03]
 2
 
 14
 --- page 15 ---
-Tee Spe ogo = WORE ¢
 _— Loading a tmporal dots mash: — (=
 @ Complete Hobush — The data mots ana &
 
-loaded ley Seloading Ube tutte tablet
-every Vm. Ths (5 dene by truncab&
 
 Us ables and then loading the data.agais
 The Rey benefit wih this Pdwique & ©
-hak ib Captwws everthing rok Ge thas
 transaction Yepository A yveducos the back-ul
 veguiremots , .
-(B) Cumubtine pupush- Er thir techmaue ©
 You just noed to append te dole §
-Marck all farts from transactron vefositon§
 
 COo-1
 sBL-3
 
 iScovers.c+ Druolves ing date ol tnberrnarh
 
-Diseves” D Sotntas Vibes” on a ben Ha lov Sinag
 
-Austen. Data con Bo tn Owy foxme eke Sheots, files ef
 aka Prepovealnin:~ Dole Com have a let of indensis lendax Likes
-wussing vale ; blawk Columns , jn coweet dota, abropt
-Nolues usih needs to le Cleonod, Tt is reqsur2ol
 & Cap) ore & PrYoCers lok Prior te modelling .
 0421 planning i Hew we cetermic dhe method o
 
-Ro one . istrolisation fedhuriiquin Ube histogyeun ,
 
-ie Plots, Graphs to gek a focr iden of dishcbu-tesn
 
-Ta pape meee, date. Seas Yor helunng ing
 
-eoking pwose. J Vamews techuigus YW
 
-3 Fuatinn Shastemt atsocnase cto ult meclel ,
 
 > Perattonalise :. Make the é Oo 5
 ‘ Pura wt, beue pg ;
@@ -880,15 +826,12 @@ CO-3
 ; BL-
 3
 
-— The Urnee differant nrechanynrs anes.
 @) “Rawat bs cunrsfer .
 Mons) brangor the dot uxnul ad
 
-Odumt nistrc ten himselp proves the dota Sow
 One medium te anothes,. The aduclnes trate
 Places a DW monttr that Combiniously monitors
 Une Usage of cota. The dota that Te not
-bering used preqpently tw nmoved frou Duo
 Onvrvronmect tS hear Ling Storage. Thes
 
 of tien Provides Pent bt ity & Uses wi niimal
@@ -903,7 +846,6 @@ Tt meas outtre “Set of dota between Ka, |
 Dw and Be neo Une Storage. a
 
 |
-@ Coss Medte- stor mM Ccmsn)&>
 a ie ef
 
 “F
@@ -911,9 +853,7 @@ a ie ef
 i
 — Tn cmsm approach, tk & he DW monitmre
 Uret Continiovsly monitorc what data [se
-being Used bythe quoxigs Pasedt lary
 Ure end- vsors, ‘s
-— Gb i dontifeo the dota tUkok ts not hatu§
 Used — treq pretty quanies A wenitoss
 he Usage OF ak Ue xew level cd
 tkak late Can be more furely Lunod
@@ -958,9 +898,7 @@ Mark)
 --- page 18 ---
 e Validation: Verify cleaned data against rules or source systems. (1 Mark)_
 
-— YDoto Cleonung O4o Runewn as dota Scrubbing
 
-Onc in Consis Lencies dotrn ur ordor to
 
 ~ Multipurpose Cieldu-
 — Contsack?ctug date
@@ -968,8 +906,6 @@ Onc in Consis Lencies dotrn ur ordor to
 
 = Reuged primary Reys -
 
-Porsing- Tb is a Ces tn huh inchivicluy
-O fens ehorraents oe Vecotad R tdowtifrad ur
 Some Systews and ther hose clorments
 orn ‘Solated uw target files. 2X- Porsing of
 nome Urto first name , middle have , last
@@ -993,11 +929,9 @@ Standard, A Custom bucinos surstor,
 
 eliminating duplidokin by Searching
 
-Oud mortchung Pwtorcs web porsed , ©
 
 Corrected A standardised dat. Using €
 
-Some Stondand lou sinana wiite , ex~ identific
 
 ©} Sintlorn nome Q addrecsess. ¢
 
@@ -1005,32 +939,25 @@ Some Stondand lou sinana wiite , ex~ identific
 
 © Consolidating — TA Naelues morguirg af Un:
 
-Fxrrds Uto cere Aeprosencteation lay ¢
 
 ing R Idoutifurng geolationchs e
 
 rena notched ae MP ¢
 
-© Dale stogug- Te & an interim step ©
 
-betirwon dota entation & Remaining «
 
 Steps. Using di processes Lea motu.
 
 interfaces, Hot Liles, PrP Sessions, dota &
 
-acomulstod aSyneh¥onous Sovrtey, ©
 
-Rtn a Corton Predepicd wtuwal, dato S
 
-is loaded unto worwhkoult aftir Ue a
 
 tranfosmakion proces. No end User. accom,
 
 uw oral to He 5 i file. For
 
 ©
-doka § baging , datn Store a
 
 ao
 
@@ -1045,24 +972,19 @@ CO-2
 
 a.
 
-— Meladeton ta the dota wowhouse is Simélaxcto
 ote dictionary On a dotolose management
 System. The Metadata Comporunt stows dete
 About thea dala” in Dw.
 
 — The metodote is Often usb Poy building,
-Maintounung monoging Be Uding the DW.
 Tk ib the ‘pey te iding sors Q develops
 Wh OO voadmrap te the Iwlormebion un He
 Wanehewe. Th, it forms an essential
-Prgrediont in the “bramformetien ef Roud
 
-Quncktens thak   rnotodole prrorms GA a
 Dw envisierment are Hat ib :-,
 
 D Connects th different pants of Dw tewhy
 Cickung as a gure Chat Connects all pads,
-tke dota ant ibs Lundorliyung Struct te
 the DW administrate and other users,
 
 GB) Enables end users te Search for the
@@ -1087,8 +1009,6 @@ Dota
 ee. Salas of any product 0%
 
 O6]oF/ig)— Ths could be either ote of birth
-Or date shen of Porctinlas Soles
-Lyanscuttion teek ple. Tt coud
 ecthe, meon 6 July ol” ov
 HF Tune 2018.
 
@@ -1102,24 +1022,18 @@ a
 
 21
 --- page 22 ---
-ie Nodina of Dole :- Th Strang, Const vost UW >
 the Dw, an ODS Covikaing Urry Uiwitedk
 cent hPstoritol doko . pie Ue dale
 
-Wasrrouse Ctores G-10 Yoo OF hes tox Cok
 dola, the ODS Stores only a rronts old
 
 lela.
 — Un i -- Tha ods is CLasignadk
-a \Wayrorid aprroale Cine & pot
 
 Ot, 4 is designed using deletions) technolo
 and Us mest 15 designed Yeing mut .
 sLermansonek bechnoleay .
 —_ aero fr profile serord o One
-C0-3 tak is Josmed Wows © bSerureckuns
-; BL- — Asoouk ON iy A fe profile gacosc Creatn3
-3 QA Synepsis prow vrurltiple oCcormentes of
 dala. A Somple poopie ts Shown below!~
 
 i}
@@ -1135,26 +1049,20 @@ Ha me Ne
 --- page 23 ---
 Very ‘ . Oa the infosmatren os O14
 
-L   auickly aceosced 28 whan te noad an
-cesses ef ODS:- Anods is Cokegorised unto 4 ¢ ih
 Closses depending Upon how fost Dre deta   @-
 Osvrives Gcto Ub | ty
-Claw E:- Lt totes a foo niflliseconds fox he et
 cata to sou Un ODS. The tm elapsed & Cf
 transparent te the Users. Arpplicadren — Applteal ur o-
 Coss T:- Tt takes Seenal hours fov the data
 ® owube Ur ODS, On a tYansadzen the OG
 Place. The erd sens Can uisualise thet tans “1
 Bw o& time gap betwaor asoual d oceunante. ot
-Sh pransacktan. APppliction- Applad te update ae
 Nome ond addres Change of a Customer. «ih
-Coss TIL :- There 1S an Ourmnighk gap ov longa
 botweon OCcurente of transaction curd the ee.
 Asetwoh of dote Ur ODS. frpplicetien - used et
 for applying Soles transaction . el
 transaction and its ovvulol uo ODS is a
 Wor, Lon 1,0 ur Some Monts ox Years, iH
-The sours of che Gon he a DW ox Sous SF}
 
 Others toy be Cwstd Prom output of P|
 Speaal yepors or projects. Application — A a

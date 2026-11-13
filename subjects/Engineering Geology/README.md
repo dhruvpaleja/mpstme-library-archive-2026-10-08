@@ -1,6 +1,6 @@
 # Engineering Geology
 
-**32** unique papers (36 copies across programmes) · 2013-14 to 2018-19 · 3 programmes · Sem 3, Sem 4, Sem 6
+**31** unique papers (35 copies across programmes) · 2013-14 to 2018-19 · 3 programmes · Sem 3, Sem 4, Sem 6
 
 Download only this subject, sorted by academic year:
 
@@ -20,7 +20,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2017-18 | Final-Exam, Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / CIVIL | Engineering Geology 2017-2018 Final.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 3 | MBA TECH / CIVIL | ENGINEERING GEOLOGY 2017-2018 Final exam.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 3 | B TECH / CIVIL | ENGINEERING GEOLOGY BATCH 16-17 17-18 RE EXAM 2017-18.pdf |
-| 2017-18 | Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / CIVIL | Numerical Techniques Batch 2016-17 ,2017-18 Re Exam.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 3 | MBA TECH / CIVIL | Engineering Geology 2016-17,2017-18 (Civil) Re-exam.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 3 | B TECH / CIVIL | ENGINEERING GEOLOGY B TECH (CIVIL), 2016-17 FINAL EXAM.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 3 | MBA TECH / CIVIL | Engineering Geology Batch 2016-17 Final.pdf |

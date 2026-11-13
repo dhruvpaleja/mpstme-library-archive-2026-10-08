@@ -1,6 +1,6 @@
 # Project Management
 
-**83** unique papers (109 copies across programmes) · 2006-07 to 2025-26 · 14 programmes · Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Sem 9, Sem 10, Sem 12, Trim 5, Trim 6, Trim 8
+**84** unique papers (110 copies across programmes) · 2006-07 to 2025-26 · 14 programmes · Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Sem 9, Sem 10, Sem 12, Trim 5, Trim 6, Trim 8
 
 Download only this subject, sorted by academic year:
 
@@ -14,16 +14,16 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Project Management(702CO0C041)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Project Management(702CO0C041)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Project Management(702CO0C041)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Project Management(702CO0C041)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / CSE Data Science (311) | B Tech, Project Management, Sem-VI, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Project Management(702CO0C041)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Project Management(702CO0C041)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Project Management(702CO0C041)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10, Sem 12 | B.TECH INTEGRATED / MECHANICAL | Project Managment Batch 2024-25 Final0001.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Project Management(702CO0C041)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Project Management(702CO0C041)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Project Management(702CO0C041)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | BTech CSE DS 7011 | QP_Project Management(702CO0C041)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7011 | ANS_Project Management(702CO0C041)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / MECHANICAL | Project Managment Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B TECH / CSE Data Science (311) | Project Management, Sem-VI, A Y 2023-24, Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 8 | MBA TECH | Project Management,Re-exam 2023-24.pdf |
@@ -70,6 +70,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2013-14 | Final-Exam, Re-Exam | Question paper | Sem 6 | MBA TECH, MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL | PROJECT MANAGMENT 2013-14 Final.pdf |
 | 2013-14 | Final-Exam | Question paper | Sem 4 | MCA | Project Management 2013-14 Final.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 6 | MBA TECH, MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / MECHANICAL | PROJECT MANAGEMENT BATCH 2013-14 RE EXAM.pdf |
+| 2013-14 | Re-Exam | Question paper | Sem 6 | MBA TECH / I T | SAFETY,HEALTH ENVIRONMENTAL MANAGEMENT SYSTEM BATCH 2013-14 Re-exam.pdf [1] |
 | 2013-14 | Re-Exam | Question paper | Sem 4 | MCA | Project Management Batch 2013-14 Re Exam.pdf |
 | 2012-13 | Final-Exam | Question paper | Trim 8 | MBA TECH / CHEMICAL, MBA TECH / I T | PROJECT MANAGEMENT 2012-2013 FINAL scan0015.pdf |
 | 2012-13 | Final-Exam | Question paper | Trim 8 | MBA TECH / CHEMICAL, MBA TECH / I T | PROJECT MANAGEMENT 2012-2013 FINAL scan0072.pdf |
@@ -97,5 +98,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | — | — | Question paper | Sem 8 | MBA TECH | Project Management_0b180bf4ae.pdf |
 | — | — | Question paper | Sem 8 | MBA TECH | Project Management_8cfc1f4e8f.pdf |
 | — | — | Question paper | Trim 6 | MCA | PROJECT MANAGEMENT(1).pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "SAFETY,HEALTH ENVIRONMENTAL MANAGEMENT SYSTEM" but the paper is headed "Project Management"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

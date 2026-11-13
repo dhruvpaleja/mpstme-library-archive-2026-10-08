@@ -17,10 +17,10 @@ Also filed as: `MANUFACTURING PROCESSES-ll`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | — | Question paper | Sem 5 | B TECH / MECHATRONICS | Manufacturing Processes, Sem-III, Year 2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Manufacturing Processes(702MH0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech Mechatronics 7004 | QP_Manufacturing Processes(702MH0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Manufacturing Processes(702MH0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Manufacturing Processes(702MH0C003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Mechatronics 7004 | QP_Manufacturing Processes(702MH0C003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Manufacturing Processes(702MH0C003)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Manufacturing Processes, Sem-V, Final Exam 2024-25 & Re Exam 2022-23.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Manufacturing Processes, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Manufacturing Processes, Final Exam & Re Exam 2022-23, A Y 2023-24.pdf |

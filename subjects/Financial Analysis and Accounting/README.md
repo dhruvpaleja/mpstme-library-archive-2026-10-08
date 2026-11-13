@@ -1,6 +1,6 @@
 # Financial Analysis and Accounting
 
-**28** unique papers (59 copies across programmes) · 2007-08 to 2024-25 · 5 programmes · Trim 10
+**27** unique papers (57 copies across programmes) · 2008-09 to 2024-25 · 5 programmes · Trim 10
 
 Download only this subject, sorted by academic year:
 
@@ -38,7 +38,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2009-10 | Re-Exam | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | 2009-2010 batch re exam(11).pdf |
 | 2008-09 | — | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | 2008-2009(171).pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | 2008-2009 re exam(87).pdf |
-| 2007-08 | — | Question paper | Trim 10 | MBA TECH / I T, MBA TECH / MANUFACTURING | 2007-2008(140).pdf |
 | — | — | Question paper |  | MBA TECH | Financial Accounting and Analysis.pdf |
 | — | — | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | scan0002(9).pdf |
 | — | — | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | scan0022(1).pdf |

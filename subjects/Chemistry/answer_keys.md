@@ -736,6 +736,7 @@ iii) Temporary Hardness= Total – Permanent
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_Mechanical_7003/Chemistry/ANS_Chemistry(702BS0C068)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (7 pages), mean OCR confidence 59.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -914,6 +915,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Mechatronics_7004/Chemistry/ANS_Chemistry(702BS0C068)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (7 pages), mean OCR confidence 59.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

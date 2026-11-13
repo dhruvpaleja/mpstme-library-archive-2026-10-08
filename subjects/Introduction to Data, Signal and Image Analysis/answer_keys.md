@@ -485,6 +485,7 @@ X2(t) = t……….. t ≥ 0
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CSE_DS_7057/Introduction to Data, Signal and Image Analysis/ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -611,6 +612,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_DS_7009/Introduction to Data, Signal and Image Analysis/ANS_Introduction to Data, Signal and Image Analysis(702DB0C041)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -737,6 +739,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_DS_7038/Introduction to Data, Signal and Image Analysis/ANS_Introduction to Data, Signal and Image Analysis(702DB0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

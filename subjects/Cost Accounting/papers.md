@@ -190,6 +190,278 @@ a. Process Costing b. Activity Based Costing c. Piece Work system of payment of 
 3/3,
 ````
 
+## 2015-16 · Re-Exam · paper 3af5332b1e94
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/COST ACCOUNTING/Cost Accounting Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (3 pages), mean OCR confidence 94.0
+
+````text
+i SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: IV Semester: VII
+Academic Year: 2015 - 16
+
+/ Batch:2013-14
+Subject :Cost Accounting Marks:
+
+Date : 02/12/2015 : Durati
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and 6
+Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+C 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+Quel. (10)
+From the following information, prepare a cost sheet for period ended on 31st March 2006.
+Rs
+Opening Stock of Raw Materials 12,500
+Purchases of raw materials 1,36,000
+Closing stock of raw materials 8,500
+Direct Wages 54,000
+Direct Expenses 12,000
+Factory Overhead are 100 % of direct wages
+Office and administrative overheads are 20% of works cost
+-~ | Selling and Distribution overheads 26,000
+Opening stock of finished goods 12,000
+Closing stock of finished goods 15,000
+Profit is calculated as 20 % on cost
+Que 2. a) Sargun India Ltd provides the following information in respect of material A (6 Marks)
+Supply Period 5 to 15 days
+Rate of Consumption
+Average 15 units per day
+=| Maximum 20 units per day
+Yearly 5,000 units
+Ordering costs Rs 20 per order
+pe Purchase price per unit Rs 50
+Storage costs 10% of unit value
+Compute: i. Re-orderlevel ii. Minimum Level iii. Maximum Level
+
+4/s
+--- page 2 ---
+Que 2. b) (4 Marks)
+Victory Ltd, a multi-product company, furnishes you the following data relating to current year:
+
+Particulars First half of the year Second half of the year
+Sales Rs. 8,10,000 Rs. 10,26,000
+
+Profit ‘ Rs. 21,600 Rs. 64,800
+
+Calculate Break Even Sales, assuming that there is no change in prices and variable cost and that the fixed expenses are
+constant in both the periods.
+
+Que.3 (10 Marks)
+
+A factory has three production departmenis Pi, P2 and P3 aiso has two service department $i aid S2. The primary
+distribution of the estimated overheads in the factory has been just completed. These details and the quantum of
+services rendered by the service departments, to the other departments are given below:
+
+Prepare a statement showing the distribution of service department overheads to the production departments by the
+simultaneous equation method.
+
+Departments Pl P2 P3 S1 82
+Primary Distribution(Rs.) 5,00,000 3,70,000 4,10,000 2,98,400 2,50,000
+Services Rendered by: _S1 30% 20% 35% - 20%
+
+$2 25% 40% 25% 10% cd
+Que. 4 What is Activity Based Costing and Explain its Merits and Demerits (10 Marks)
+Que. 5 (10 Marks)
+
+A manufacturer has planned his level of operation at 50% of his plant capacity. The capacity of the plant at
+100 % level is 60,000 units. His expenses are estimated as follows, if 50% of the plant capacity is utilized.
+
+Direct Materials Rs 8,280
+Direct Wages Rs 11.160
+Variable and Other Manufacturing Expenses Rs 3,960
+
+Total Fixed Expenses irrespective of capacity utilization Rs 6,000
+
+The expected selling price in the domestic market is Rs 2 per unit. Recently the manufacturer has received a
+trade enquiry from an overseas organization interested in purchasing 6,000 units at a price of Rs 1.45 per
+unit.
+
+As a Professional Management Accountant, what should be your suggestion regarding acceptance or
+rejection of the offer? Support your suggestion with detailed cost statement for the domestic as well as the
+export order.
+--- page 3 ---
+Que. 6 (10 Marks)
+
+The standard cost of a certain chemical mixture is:
+
+40 % material A at Rs 200 per tonne
+
+60 % material B at Rs 300 per tonne
+A standard loss of 10 % is expected in production.
+During a period the following is used:
+
+90 tonnes material A at the cost of Rs 180 per tonne
+
+110 tonnes material B at the cost of Rs 340 per tonne
+
+The output produced is 180 tonnes.
+Calculate the material cost variance, material price variance, material usage variance.
+
+Que. 7 Write short notes on: (10 Marks)
+
+a. Differentiate between Job and Batch Costing
+b. Zero Based Budget
+````
+
+## 2015-16 · Re-Exam · paper 8518584f9618
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/COST ACCOUNTING/Cost Accounting Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (3 pages), mean OCR confidence 92.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year:IV Semester: VII
+Academic Year: 2015 - 16
+
+Batch:2014-15
+
+Subject :Cost Accounting
+
+Date : 02/12/2015
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question pi
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1. Given below is the Trading and Profit and Loss Account of ABC Limited for the accounting year
+
+ended 31st March, 2014 (12 Marks)
+Trading and Profit & Loss Account
+
+Dr Cr
+
+Particulars Rs. Particulars Rs.
+
+To, Direct Materials 3,00,000 By, Sales A/c (2,50,000 | 7,50,000
+
+consumed units)
+
+To, Direct Wages A/c 2,00,000
+To, Factory expenses 1,20,000
+
+A/c
+
+To, Office Expenses A/c | 40,000
+
+To, Selling & 80,000
+
+Distribution Exp. A/c
+
+To, Net profit 10,000
+
+Total 750000 Total 7,50,000
+
+Normal output of the factory is 2,00,000 units. Factory overheads are fixed upto Rs. 60,000 and office
+expenses are fixed for all practical purposes, selling and distribution expenses are fixed to the extent of
+Rs. 50,000 the rest are variable. Prepare a Cost Sheet showing the Total Cost and Cost per Unit from the
+above information.
+
+a/s
+--- page 2 ---
+Q2.(a) A company, XYZ Ltd expects to sell 1,000 units in the coming year. The unit selling price and
+variable costs are Rs. 400 and Rs. 250 respectively. The budgeted fixed cost is Rs. 125,000 p.a. Calculate
+break-even point and operating profit/loss for XYZ Ltd (6 Marks)
+
+Q2(b) A company with two products X and Y has projected the following for coming year: Marks)
+Product X
+# units sold: 50
+Revenue per unit: Rs. 100
+Variable cost per unit: Rs. 60
+Product Y
+# units sold: 50
+Revenue per unit: Rs. 50
+Variable cost per unit: Rs. 30
+Total fixed cost $1,500
+Calculate weighted average unit contribution margin for the company
+
+Q3 ABC ltd, an Indian shoe manufacturer, has a production unit at Mumbai. ABC Ltd’s total cost to
+produce a pair of shoe is Rs. 50 (variable cost Rs. 35 and fixed cost Rs.15). Some of the Chinese
+
+manufacturers have approached ABC Ltd to supply shoe of equivalent quality in unlimited quantity for
+Rs. 45. ()2.Marks)
+
+* Should ABC Ltd consider the offer to procure its annual requirement of 5,000 units?
+
+* What would you suggest if the company can cut down its fixed cost to Rs. 5 and earn rental
+revenue of Rs. 10,000 p.a. on outsourcing?
+
+Q4- (a) Calculate the Economic Order Quantity from the following information. Also state the number of
+
+orders to be placed in a year. €2. Marks)
+¢ Consumption of materials per annum : 10,000 kg
+* Order placing cost per order : 50
+° Cost per kg. of raw materials : 2
+e Storage costs : 8% on average inventory
+(f0 Marks)
+
+Q4(b) The components A and B are used as follows:
+* Normal usage .... 300 units per week each
+* Maximum usage .... 450 units per week each
+* Minimum usage .... 150 units per week each
+e Reorder Quantity .... A 2,400 units; B 3,600 units.
+* Reorder period .... A 4 to 6 weeks, B 2 to 4 weeks.
+
+Calculate for each component:
+
+a) Re-order Level b) Minimum Level c) Maximum Level d) Average Stock Level.
+
+2/3
+--- page 3 ---
+Q5 Using the following information calculate following labour variance for each department (Marks)
+e Labour Efficiency Variance
+e Labour Rate Variance
+¢ Labour Cost Variance
+
+Dept X Dept Y
+Gross wages direct (Rs.) ~ | 28,080 19,370
+Standard hours produced 8,640 6,015
+Standard rate per hour (Rs.) 3 3.40
+Actual hours worked 8,200 6,395
+Q6 Explain the important features of marginal costing. Also explain how it is different from Absorption
+Costing? (2 Marks)
+Q7— Write Short Notes on the following (6x2 Marks)
+
+e Differential Costs
+« Replacement Costs
+````
+
 ## 2015-16 · Re-Exam · paper d8cce16834fb
 
 - Departments: Common (all branches)
@@ -538,29 +810,176 @@ c. Absorption Costing
 a -¥
 ````
 
-## 2014-15 · Re-Exam · paper 8518584f9618
+## 2014-15 · Re-Exam · paper 96f8a3c28dd6
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/COST ACCOUNTING/Cost Accounting Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (3 pages), mean OCR confidence 92.4
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/COST ACCOUNTING/Cost Accounting 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03/12/2014
+- Text: ocr (3 pages), mean OCR confidence 95.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+=
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year:IV Semester: VI]
+
+Academic Year: 2014-15 Batch: 2013-14
+
+Subject : Cost Accounting
+
+Marks: 50
+Date : 03/12/2014 Time : 02.00 pm
+
+Durations: 2 (hrs
+Re - Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. Q1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) Inall Q5 questions to be attempted.
+
+4) All questions 10 equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+Q1) Prepare a cash budget for the months of May, June and July 2009 on the basis of the
+following information:
+(1) Income and Expenditure Forecasts :
+
+Months Credit Credit Wages Manufacturing Office Selling
+Sales Purchases | Expenses Expenses Expenses
+March 60,000 36,000 9,000 4,000 2,000 4,000
+April 62,000 38,000 8,000 3,000 1,500 5,000
+May 64,000 33,000 10,000 4,500 2,500 4,500
+June 58,000 15,000 8,500 3,500 2,000 3,500
+July | 50,000 39,000 9,500 4,000 1,000 4,500
+August 60,000 34,000 8,000 3,000 1,500 4,500
+
+(2) Cash balances on 1** May, 2009 Rs. 8,000.
+
+(3) Plant costing Rs. 16,000 is due for delivery in July payable 10% on delivery and the
+balance after 3 months.
+
+(4) Advance Tax of Rs. 8,000 each is payable in March and June.
+
+(5) Period of credit allowed (i) by suppliers-two months and (ii) to customers-one month.
+
+(6) Lag in payment of manufacturing 1/2 month.
+
+(7) Lag in payment of office and selling expenses — one month.
+
+Q2) From the following figures relating to two components X and Y, compute Reorder Level,
+Minimum Level, Maximum Level and Average Stock Level.
+
+Particulars Component X Component Y
+Maximum consumption per week 75 units 75 units
+| Average consumption per week 50 units 50 units
+
+1/3
+--- page 2 ---
+25 units 25 units
+4 to 6 weeks 2 to 4 weeks
+400 units 600 units
+
+Minimum consumption per week
+Reorder period
+Reorder quantity
+
+Q3) A-One Co. produces 4,00,000 components of machinery annually at 80% of full capacity.
+Regular selling price of the component is Rs. 33. Budgeted annual production costs and other
+
+expenses for the year are as follows:
+
+Raw material cost per unit Rs. 4.25
+
+Direct labour cost per unit Rs. 5,75
+
+Variable factory overhead per unit Rs. 7.75
+
+Variable selling costs 5% of selling price
+
+Fixed factory and administrative overheads Rs. 39,50,000
+
+During the year, A-One Co. received a one-time, order to sell 25,000 components for which no
+
+selling expenses will be incurred. What should be the minimum price quoted by A-One Co. if it
+Wants to earn minimum of Rs. 1 per component on this order?
+
+Q4) The budgeted overheads and cost driver volumes of XYZ Ltd. are as follows:
+
+Cost pool Budgeted Cost driver Budgeted
+Overhead volume
+(Rs)
+Material procurement 5,80,000 | No. of orders 1,100
+Material handling 2,50,000 | No. of movements 680
+Setup 4,15,000 | No. of setups 520
+Maintenance 9,70,000 | Maintenance hours 8,400
+Quality control 1,76,000 | No. of inspections 900
+Machinery 7,20,000 | No. of machine hours 24,000
+
+The company has produced a batch of 2,600 components of AX-15, its material cost was Rs.
+1,30,000 and labour cost was Rs. 2,45,000. The usage activities of the said batch are as follows:
+
+Material orders 26 | Maintenance hours 690
+Material movements 18 | Inspection 28
+Setups 25 | Machine hours 1,800 7
+Required:
+(a) Calculate cost driver rates that are used for tracing appropriate amount of overheads to the said
+
+batch.
+(b) Ascertain the cost of batch of components using ABC.
+
+Q5) For producing one unit of a product, the materials standard is:
+Material X : 6 kg. @ Rs. 8 per kg. and
+Material Y : 4 kg. @ Rs. 10 per kg.
+In a week, 1,000 units were produced the actual consumption of materials was:
+Material X : 5,900 kg. @ Rs. 9 kg. and
+Material Y : 4,800 kg. @ Rs. 9.50 per kg.
+
+Compute the all material variances.
+2/3
+--- page 3 ---
+Q6) Distinguish between financial accounting and cost accounting
+
+Q7) Write a short notes on two:
+
+(a) Job costing
+(b) Batch costing
+(c) Operating costing
+````
+
+## 2014-15 · Re-Exam · paper 6dbebee7d39d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/COST ACCOUNTING/Cost Accounting Batch 2013-14 Re Exam_6dbebee7d3.pdf`
+- Printed on paper: max marks: 50; exam date: 15/06/2015
+- Text: ocr (3 pages), mean OCR confidence 93.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (ALL STREAMS) Year:IV Semester: VII
-Academic Year: 2015 - 16
+Programme: MBA Tech (ALL STREAMS) Year: IV Semester: VII
+Academic Year: 2014-15
+| . Batch: 2013-14
+Subject: Cost Accounting Marks: 50
+Time: 2.00 p:
+Date: 15/06/2015 Durations: 2 (
 
-Batch:2014-15
-
-Subject :Cost Accounting
-
-Date : 02/12/2015
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question pi
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
 
 NB:
@@ -571,112 +990,156 @@ NB:
 
 3) In all 5 questions to be attempted.
 
-4) All questions carry equal marks.
+4) All questions carry equal marks. .
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary
 
-Q1. Given below is the Trading and Profit and Loss Account of ABC Limited for the accounting year
+Que.1 .From the following information prepare a cost sheet for the month of April 2015 (10 Marks)
 
-ended 31st March, 2014 (12 Marks)
-Trading and Profit & Loss Account
+Stock on 1/4/2015
 
-Dr Cr
+Raw Materials 2,50,000
 
-Particulars Rs. Particulars Rs.
+Finished Goods 1,73,000
 
-To, Direct Materials 3,00,000 By, Sales A/c (2,50,000 | 7,50,000
+Stock on 30/4/2015
 
-consumed units)
+Raw Materials 2,62,000
 
-To, Direct Wages A/c 2,00,000
-To, Factory expenses 1,20,000
+Finished Goods 1,57,000
 
-A/c
+Purchase of raw Material 2,19,000
 
-To, Office Expenses A/c | 40,000
+Carriage on purchases 11,000
 
-To, Selling & 80,000
+Work in progress
 
-Distribution Exp. A/c
+1/4/2015 82,000
 
-To, Net profit 10,000
+30/4/2015 91,000
 
-Total 750000 Total 7,50,000
+Sale of Finished Goods 7,23,000
 
-Normal output of the factory is 2,00,000 units. Factory overheads are fixed upto Rs. 60,000 and office
-expenses are fixed for all practical purposes, selling and distribution expenses are fixed to the extent of
-Rs. 50,000 the rest are variable. Prepare a Cost Sheet showing the Total Cost and Cost per Unit from the
-above information.
+Direct wages 1,72,000
 
-a/s
+Non-productive wages 8,000
+
+Direct expenses 12,000
+
+Factory Overheads 83,000 P
+= Administration overheads 32,000 z
+
+Selling and Distribution Overheads 42,000
+
+4B
 --- page 2 ---
-Q2.(a) A company, XYZ Ltd expects to sell 1,000 units in the coming year. The unit selling price and
-variable costs are Rs. 400 and Rs. 250 respectively. The budgeted fixed cost is Rs. 125,000 p.a. Calculate
-break-even point and operating profit/loss for XYZ Ltd (6 Marks)
+Que 2. a) (6 Marks)
 
-Q2(b) A company with two products X and Y has projected the following for coming year: Marks)
-Product X
-# units sold: 50
-Revenue per unit: Rs. 100
-Variable cost per unit: Rs. 60
-Product Y
-# units sold: 50
-Revenue per unit: Rs. 50
-Variable cost per unit: Rs. 30
-Total fixed cost $1,500
-Calculate weighted average unit contribution margin for the company
+Srinivasan Enterprises manufactures a special product “Zee”. The following particulars were collected for
+the year 31% March, 2015:
 
-Q3 ABC ltd, an Indian shoe manufacturer, has a production unit at Mumbai. ABC Ltd’s total cost to
-produce a pair of shoe is Rs. 50 (variable cost Rs. 35 and fixed cost Rs.15). Some of the Chinese
+Monthly demand of Zee 1,000 units
 
-manufacturers have approached ABC Ltd to supply shoe of equivalent quality in unlimited quantity for
-Rs. 45. ()2.Marks)
+Cost of placing an order Rs 100
 
-* Should ABC Ltd consider the offer to procure its annual requirement of 5,000 units?
+Annual Carrying cost per unit Rs 15
 
-* What would you suggest if the company can cut down its fixed cost to Rs. 5 and earn rental
-revenue of Rs. 10,000 p.a. on outsourcing?
+Normal Usage 50 units per week
+Minimum Usage 25 units per week
+Maximum Usage 75 units per week
+Re-order Period 4 — 6 weeks
 
-Q4- (a) Calculate the Economic Order Quantity from the following information. Also state the number of
+Compute from the above: .
+1. Re-order Quantity 2. Re-order Level 3. Minimum Level 4. Maximum Level 5. Average Stock Level
 
-orders to be placed in a year. €2. Marks)
-¢ Consumption of materials per annum : 10,000 kg
-* Order placing cost per order : 50
-° Cost per kg. of raw materials : 2
-e Storage costs : 8% on average inventory
-(f0 Marks)
+Que 2. b)
 
-Q4(b) The components A and B are used as follows:
-* Normal usage .... 300 units per week each
-* Maximum usage .... 450 units per week each
-* Minimum usage .... 150 units per week each
-e Reorder Quantity .... A 2,400 units; B 3,600 units.
-* Reorder period .... A 4 to 6 weeks, B 2 to 4 weeks.
+(4 Marks)
+SV Ltd, a multi-product company, furnishes you the following data relating to current year:
 
-Calculate for each component:
+Particulars First half of the year Second half of the year
 
-a) Re-order Level b) Minimum Level c) Maximum Level d) Average Stock Level.
+Sales Rs. 60,000 Rs. 65,000
 
-2/3
+Total Costs Rs. 40,000 Rs.43,000
+
+Calculate Break Even Sales, assuming that there is no change in prices and variable cost and that the fixed
+expenses.
+
+Que.3 (10 Marks)
+
+A factory has three production departments P, Q and R also has two service department X and Y. The
+primary distribution of the estimated overheads in the factory has been just completed. These details and
+the quantum of services rendered by the service departments, to the other departments are given below:
+
+Departments P Q R xX Yy =
+
+Primary Distribution(Rs.) 3,00,000 2,70,000 3,10,000 2,00,000 1,56,000
+
+Services Rendered by: _X 30% 20% 35% ---- 15% |
+Y 25% 40% [25% | 10% |
+
+Prepare a statement showing the distribution of service department overheads to the production
+departments by the simultaneous equation methad.
+
+Que. 4 (10 Marks)
+
+Explain the meaning of Contract Costing and Batch Costing, also distinguish between Job Costing and
+Process Costing.
+
+a)
 --- page 3 ---
-Q5 Using the following information calculate following labour variance for each department (Marks)
-e Labour Efficiency Variance
-e Labour Rate Variance
-¢ Labour Cost Variance
+Que. 5 (10 Marks)
 
-Dept X Dept Y
-Gross wages direct (Rs.) ~ | 28,080 19,370
-Standard hours produced 8,640 6,015
-Standard rate per hour (Rs.) 3 3.40
-Actual hours worked 8,200 6,395
-Q6 Explain the important features of marginal costing. Also explain how it is different from Absorption
-Costing? (2 Marks)
-Q7— Write Short Notes on the following (6x2 Marks)
+The Gold Ltd has three divisions each of which makes a different product. The budgeted data for
+the next year are as follows:
 
-e Differential Costs
-« Replacement Costs
+Particulars Divisions
+
+Sales 1,12,000 56,000 84,000
+Costs
+
+Direct Material 14,000 7,000 14,000
+Direct Labour 5,600 7,000 22,400
+Variable Overhead 14,000 7,000 28,000
+Fixed Costs 28,000 14,000 ‘ 28,000
+Total Costs 61,600 35,000 92,400
+
+The Management is considering to close down division C. There is no possibility of reducing
+fixed costs. Advise whether or not division C should not be closed down.
+
+.
+
+Que. 6 (10 Marks)
+
+Calculate Material Cost Variance, Material Price Variance, Material Usage Variance and Labour
+Cost Variance, Labour Rate Variance, Labour Efficiency Variance
+Standard Per unit
+
+Material 6 kg @ Rs 4 per kg
+
+Labour 4 hours @ Rs 4 per hour
+
+Actual production for the month 12,500 units
+
+Actual material price per kg Rs 4.50
+
+Material used during the month 78,000 kg
+
+Direct Labour hours worked 48,000 hours
+
+Actual Wage Rate per hour Rs 3.50
+
+Que. 7 Write short notes on: (10 Marks)
+
+a. Activity Based Costing
+b. Cash Budget
+
+x ———
+
+4%
 ````
 
 ## 2014-15 · Re-Exam · paper e49c7ee97550
@@ -833,6 +1296,7 @@ ee ee
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/COST ACCOUNTING/Cost Accounting 2013-14 Final.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 07/12/2013
 - Text: ocr (3 pages), mean OCR confidence 93.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS :
@@ -1011,7 +1475,6 @@ The departmental expenses are as follows: Pe
 A B Cc v =
 23,000 6,000 6,500 4,500 2,000
 The service department expenses are allotted on percentage basis:
-; A B Cc P Q
 Service Department P 40% 30% 20% - 10%
 Service Department Q 30% 30% 20% 20% -
 
@@ -1019,6 +1482,135 @@ You are requested to apportion the cost of service department to product departm
 distribution method. (6 marks)
 
 3/3
+````
+
+## 2013-14 · Re-Exam · Trim 11 · paper 7b98fc03cf2d
+
+- Departments: Chemical, Computer Engineering, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/COST ACCOUNTING/COST ACCOUNTING BATCH 2012-13 RE EXAM0001.pdf` (+3 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/06/2014
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+emi
+
+pSTOTE OF amy
+
+tt ae
+
+SVKM’s NMIMS
+Seomen
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
+
+Programme: MBA Tech (ALL STREAMS) Year: IV
+Academic Year: 2013-14 - Batch : 2012-13
+
+Subject : Cost Accounting
+Marks: 50
+
+Date : 19/06/2014 Time : 2.00 pm to 4.00 pm
+Durations: 2 (hrs)
+
+Re - Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. lis compulsory.
+
+2) Out of remaining 6 questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+1. The following particulars relate to a Bidi manufacturing company which has 3 production
+(10) departments A, B and C and two Service departments X and Y.
+
+Production Depts. Service Depts.
+Total departmental A B ie Xx Y
+
+overheads as per primary Rs6,300 Rs 6,700 Rs. 2,900 Rs 4,500 Rs 2,500
+distribution :
+
+The company decide to charge the Service dept. cost on the basis of the following percentages :
+A B Cc x Y
+
+X 30% 30% 20% -- 20%
+
+Y 30% 40% 20% 10% ~ --
+
+Find out the total overhead of production departments charging service department costs to
+production departments by reciprocal method.
+
+2. Pure Quality limited manufactures and markets a single product. The following data are
+
+available: (10)
+Rs. Per Unit :
+Materials 16
+Conversion cost 12
+Dealers Margin 4
+Selling Price 40
+
+\-
+--- page 2 ---
+Fixed Cost : Rs 5 lakhs, Present sales : 72000 units, Capacity utilization: 60%. There is a actual
+competition. Extra efforts are necessary to sell. Suggestions have been made to increase sales :
+
+a) By reducing Sales Price by 5%
+
+b) By increasing dealers margin by 25%
+
+Which of these two suggestions would you recommend, if the company desires to maintain the
+present profit? Give reasons.
+
+3 a) Following standard cost data pertains to a company manufactures a single product. (5)
+
+Direct Labour.8 hrs @ Rs 20, Actual Direct Wages paid — Rs 130000 for 8800 hrs for 15100
+units of actual output. Calculate Labour Price and Labour Efficiency Variance.
+
+3 b) A factory works on Standard Costing System. Calculate Material Price, Material Usage (5)
+and Material Variance from the following information.
+
+(i) The Standard Estimates for Materials of 1,000 units of a commodity is 400 kg @ Rs 2.50 per
+kg
+
+ii) When 2,000 units of the commodity are manufactured, it is found that 820 kg of material is
+consumed @ Rs. 2.60 per kg.
+
+4 a) Find out the Economic Order Quantity from the following information. (5)
+Annual usage 8,000 units, cost of material per unit Rs. 15, cost of placing and receiving
+
+one
+order Rs. 50, annual carrying cost of one limit 12% of inventory value.
+
+4b) Following data is available for Pathan Ltd. That manufactures a product “Bat” (5)
+
+e Selling Price Rs 450
+e Variable Cost Rs 255
+e Fixed Expenses- Rs. 1,22,500
+e Sales value - Rs. 4,75,000
+
+Calculate
+i) Margin of safety
+ii) C/S ratio
+
+5. Distinguish between Traditional and activity based costing. Evaluate cost and benefit of
+implementing activity based costing.
+
+(10)
+6. What is cost sheet? What are the advantages of preparing cost sheet? (10)
+7. Explain functional classification of costs. (10)
+XR
+oe Y
+
+LR
 ````
 
 ## 2013-14 · Re-Exam · Trim 11 · paper 138e197bfc65
@@ -1184,153 +1776,6 @@ a) Cost control
 b) Target costing
 ````
 
-## 2013-14 · Re-Exam · paper 96f8a3c28dd6
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/COST ACCOUNTING/Cost Accounting 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 03/12/2014
-- Text: ocr (3 pages), mean OCR confidence 95.4
-
-````text
-=
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year:IV Semester: VI]
-
-Academic Year: 2014-15 Batch: 2013-14
-
-Subject : Cost Accounting
-
-Marks: 50
-Date : 03/12/2014 Time : 02.00 pm
-
-Durations: 2 (hrs
-Re - Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. Q1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-3) Inall Q5 questions to be attempted.
-
-4) All questions 10 equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-Q1) Prepare a cash budget for the months of May, June and July 2009 on the basis of the
-following information:
-(1) Income and Expenditure Forecasts :
-
-Months Credit Credit Wages Manufacturing Office Selling
-Sales Purchases | Expenses Expenses Expenses
-Rs. Rs. Rs. Rs. Rs. Rs.
-March 60,000 36,000 9,000 4,000 2,000 4,000
-April 62,000 38,000 8,000 3,000 1,500 5,000
-May 64,000 33,000 10,000 4,500 2,500 4,500
-June 58,000 15,000 8,500 3,500 2,000 3,500
-July | 50,000 39,000 9,500 4,000 1,000 4,500
-August 60,000 34,000 8,000 3,000 1,500 4,500
-
-(2) Cash balances on 1** May, 2009 Rs. 8,000.
-
-(3) Plant costing Rs. 16,000 is due for delivery in July payable 10% on delivery and the
-balance after 3 months.
-
-(4) Advance Tax of Rs. 8,000 each is payable in March and June.
-
-(5) Period of credit allowed (i) by suppliers-two months and (ii) to customers-one month.
-
-(6) Lag in payment of manufacturing 1/2 month.
-
-(7) Lag in payment of office and selling expenses — one month.
-
-Q2) From the following figures relating to two components X and Y, compute Reorder Level,
-Minimum Level, Maximum Level and Average Stock Level.
-
-Particulars Component X Component Y
-Maximum consumption per week 75 units 75 units
-| Average consumption per week 50 units 50 units
-
-1/3
---- page 2 ---
-25 units 25 units
-4 to 6 weeks 2 to 4 weeks
-400 units 600 units
-
-Minimum consumption per week
-Reorder period
-Reorder quantity
-
-Q3) A-One Co. produces 4,00,000 components of machinery annually at 80% of full capacity.
-Regular selling price of the component is Rs. 33. Budgeted annual production costs and other
-
-expenses for the year are as follows:
-
-Raw material cost per unit Rs. 4.25
-
-Direct labour cost per unit Rs. 5,75
-
-Variable factory overhead per unit Rs. 7.75
-
-Variable selling costs 5% of selling price
-
-Fixed factory and administrative overheads Rs. 39,50,000
-
-During the year, A-One Co. received a one-time, order to sell 25,000 components for which no
-
-selling expenses will be incurred. What should be the minimum price quoted by A-One Co. if it
-Wants to earn minimum of Rs. 1 per component on this order?
-
-Q4) The budgeted overheads and cost driver volumes of XYZ Ltd. are as follows:
-
-Cost pool Budgeted Cost driver Budgeted
-Overhead volume
-(Rs)
-Material procurement 5,80,000 | No. of orders 1,100
-Material handling 2,50,000 | No. of movements 680
-Setup 4,15,000 | No. of setups 520
-Maintenance 9,70,000 | Maintenance hours 8,400
-Quality control 1,76,000 | No. of inspections 900
-Machinery 7,20,000 | No. of machine hours 24,000
-
-The company has produced a batch of 2,600 components of AX-15, its material cost was Rs.
-1,30,000 and labour cost was Rs. 2,45,000. The usage activities of the said batch are as follows:
-
-Material orders 26 | Maintenance hours 690
-Material movements 18 | Inspection 28
-Setups 25 | Machine hours 1,800 7
-Required:
-(a) Calculate cost driver rates that are used for tracing appropriate amount of overheads to the said
-
-batch.
-(b) Ascertain the cost of batch of components using ABC.
-
-Q5) For producing one unit of a product, the materials standard is:
-Material X : 6 kg. @ Rs. 8 per kg. and
-Material Y : 4 kg. @ Rs. 10 per kg.
-In a week, 1,000 units were produced the actual consumption of materials was:
-Material X : 5,900 kg. @ Rs. 9 kg. and
-Material Y : 4,800 kg. @ Rs. 9.50 per kg.
-
-Compute the all material variances.
-2/3
---- page 3 ---
-Q6) Distinguish between financial accounting and cost accounting
-
-Q7) Write a short notes on two:
-
-(a) Job costing
-(b) Batch costing
-(c) Operating costing
-````
-
 ## 2013-14 · Re-Exam · paper b1e730eabc7b
 
 - Departments: Common (all branches)
@@ -1488,320 +1933,168 @@ x
 3/2
 ````
 
-## 2013-14 · Re-Exam · paper 3af5332b1e94
+## 2012-13 · Exam not stated · Trim 11 · paper 45ce9053798a
 
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/COST ACCOUNTING/Cost Accounting Batch 2013-14 Re Exam.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (3 pages), mean OCR confidence 94.0
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/COST ACCOUNTING/COST ACCOUNTING scan0053.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 18/01/2013
+- Text: ocr (1 page), mean OCR confidence 92.2
 
 ````text
-i SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+3
 
-Programme:MBA Tech (ALL STREAMS) Year: IV Semester: VII
-Academic Year: 2015 - 16
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineeringl
 
-/ Batch:2013-14
-Subject :Cost Accounting Marks:
+Programme: MBA (Tech)-ALL STREAMS Year: IV Trimester: XI rad
+Academic Year : 2012-2013 Ue
+Subject: COST ACCOUNTING Marks: 50 Wace, i
+. EM
+Time: 2.00 p.m To 4.00 p.m
+Date: 18/01/2013 Duration: 2 hrs. °
 
-Date : 02/12/2015 : Durati
-Re-Examination
+Final - Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and 6
-Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+(Use only if applicable as the case may be)
 
-NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4 All questions carry equal marks.
+5: Answer to each new question to be started on fresh page.
+“6. Figure in brackets on the right hand side indicates full marks.
+Ts Answers must be neat, relevant and brief.
+8. Use of non-programmable scientific calculators of any model is allowed.
+9. Do not write your Name, Reg. No. or Roll No. anywhere inside the answer script.
+1. Compute the Machine Hour Rate from the following data : (10)
 
-1) Question No. 1 is compulsory.
+Cost of the Machine Rs. 150,000, Installation charges Rs. 20,000, Estimated scrap value after the
+expiry of its life of 15 years is zero, Rent for the shop per month Rs. 600,
+General lighting for the shop per month Rs. 600, Insurance premium for the machine p.a. Rs. 1,920,
+Repair expenses p.a. Rs. 20,000, Power 10 units per hour, Rate of power per 100 units Rs. 40
+Estimated working hours p.a. 2,000, Shop Supervisor’s salary per month Rs. 1,200, The machine
+occupies 1/3rd of the total area of the shop. The supervisor devotes half of his time for this machine.
 
-2) Out of remaining questions, attempt any 4 questions.
+2. The following information is available from the cost records of a company for the month of May 2012.
+Standard cost per unit of output is direct labour 10 hours @ Rs 85= Rs 850 =} dor donk pu (10)
 
-3) In all 5 questions to be attempted.
+| Actual Wages paid Rs 4400000 for 55000 hours @ Rs 80, Actual output is 4900 units. Corerday
+Calculate Labour cost variance, Labour rate variance & Labour efficiency variance.
 
-C 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-Quel. (10)
-From the following information, prepare a cost sheet for period ended on 31st March 2006.
-Rs
-Opening Stock of Raw Materials 12,500
-Purchases of raw materials 1,36,000
-Closing stock of raw materials 8,500
-Direct Wages 54,000
-Direct Expenses 12,000
-Factory Overhead are 100 % of direct wages
-Office and administrative overheads are 20% of works cost
--~ | Selling and Distribution overheads 26,000
-Opening stock of finished goods 12,000
-Closing stock of finished goods 15,000
-Profit is calculated as 20 % on cost
-Que 2. a) Sargun India Ltd provides the following information in respect of material A (6 Marks)
-Supply Period 5 to 15 days
-Rate of Consumption
-Average 15 units per day
-=| Maximum 20 units per day
-Yearly 5,000 units
-Ordering costs Rs 20 per order
-pe Purchase price per unit Rs 50
-Storage costs 10% of unit value
-Compute: i. Re-orderlevel ii. Minimum Level iii. Maximum Level
+3 (a) Find out the Economic Order Quantity from the following : (5)
+Annual usage 6,000 units, cost of material per unit Rs. 20, cost of placing and receiving one order Rs. 60,
+annual carrying cost of one limit 10% of inventory value.
 
-4/s
---- page 2 ---
-Que 2. b) (4 Marks)
-Victory Ltd, a multi-product company, furnishes you the following data relating to current year:
+3(b) Zebra limited furnishes you the following information; calculate the margin of safety of the
+company. (5)
+Fixed Expenses- Rs. 12500
+Sales value   - Rs. 65000
 
-Particulars First half of the year Second half of the year
-Sales Rs. 8,10,000 Rs. 10,26,000
+© Profit - Rs. 2000
+4, What is a cost sheet? What are its advantages? . 4 (10)
+5. Elaborate in detail the necessary steps needed to establish a stand costing system. (10)
+6. Write short notes : (Any Two) (10)
 
-Profit ‘ Rs. 21,600 Rs. 64,800
+a) Operating Costing _b) Break-Even Point c) Marginal womtinrs
+eK
 
-Calculate Break Even Sales, assuming that there is no change in prices and variable cost and that the fixed expenses are
-constant in both the periods.
-
-Que.3 (10 Marks)
-
-A factory has three production departmenis Pi, P2 and P3 aiso has two service department $i aid S2. The primary
-distribution of the estimated overheads in the factory has been just completed. These details and the quantum of
-services rendered by the service departments, to the other departments are given below:
-
-Prepare a statement showing the distribution of service department overheads to the production departments by the
-simultaneous equation method.
-
-Departments Pl P2 P3 S1 82
-Primary Distribution(Rs.) 5,00,000 3,70,000 4,10,000 2,98,400 2,50,000
-Services Rendered by: _S1 30% 20% 35% - 20%
-
-$2 25% 40% 25% 10% cd
-Que. 4 What is Activity Based Costing and Explain its Merits and Demerits (10 Marks)
-Que. 5 (10 Marks)
-
-A manufacturer has planned his level of operation at 50% of his plant capacity. The capacity of the plant at
-100 % level is 60,000 units. His expenses are estimated as follows, if 50% of the plant capacity is utilized.
-
-Direct Materials Rs 8,280
-Direct Wages Rs 11.160
-Variable and Other Manufacturing Expenses Rs 3,960
-
-Total Fixed Expenses irrespective of capacity utilization Rs 6,000
-
-The expected selling price in the domestic market is Rs 2 per unit. Recently the manufacturer has received a
-trade enquiry from an overseas organization interested in purchasing 6,000 units at a price of Rs 1.45 per
-unit.
-
-As a Professional Management Accountant, what should be your suggestion regarding acceptance or
-rejection of the offer? Support your suggestion with detailed cost statement for the domestic as well as the
-export order.
---- page 3 ---
-Que. 6 (10 Marks)
-
-The standard cost of a certain chemical mixture is:
-
-40 % material A at Rs 200 per tonne
-
-60 % material B at Rs 300 per tonne
-A standard loss of 10 % is expected in production.
-During a period the following is used:
-
-90 tonnes material A at the cost of Rs 180 per tonne
-
-110 tonnes material B at the cost of Rs 340 per tonne
-
-The output produced is 180 tonnes.
-Calculate the material cost variance, material price variance, material usage variance.
-
-Que. 7 Write short notes on: (10 Marks)
-
-a. Differentiate between Job and Batch Costing
-b. Zero Based Budget
+M
 ````
 
-## 2013-14 · Re-Exam · paper 6dbebee7d39d
+## 2012-13 · Exam not stated · Trim 11 · paper 5740e2731408
 
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/COST ACCOUNTING/Cost Accounting Batch 2013-14 Re Exam_6dbebee7d3.pdf`
-- Printed on paper: max marks: 50; exam date: 15/06/2015
-- Text: ocr (3 pages), mean OCR confidence 93.2
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/COST ACCOUNTING/scan0014(10).pdf` (+1 identical copies)
+- Printed on paper: exam date: 18/01/2013
+- Text: ocr (1 page), mean OCR confidence 94.1
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+. Mukesh Patel School of Technology Management & Engixé
+Programme: MBA(Tech) (ALL STREAMS) Year: IV Trimester: Ke
+Academic Year :2012-2013
 
-Programme: MBA Tech (ALL STREAMS) Year: IV Semester: VII
-Academic Year: 2014-15
-| . Batch: 2013-14
-Subject: Cost Accounting Marks: 50
-Time: 2.00 p:
-Date: 15/06/2015 Durations: 2 (
+Batch: 2011-2012
 
-Re-Examination
+Subject: Cost Accounting Marks:
+Time:
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+Date: 18/01/2013 Duration:
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
 
-NB:
+(Use only if applicable as the case may be)
 
-1) Question No. 1 is compulsory.
+1. Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2. Out of remaining questions, attempt any 4 questions.
 
-3) In all 5 questions to be attempted.
+3, In all 5 questions to be attempted.
 
-4) All questions carry equal marks. .
+4 All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
+5; Answer to each new question to be started on fresh page.
 
-Que.1 .From the following information prepare a cost sheet for the month of April 2015 (10 Marks)
+6. Figure in brackets on the right hand side indicates full marks.
 
-Stock on 1/4/2015
+7. Answers must be neat, relevant and brief.
 
-Raw Materials 2,50,000
+8. Use of non-programmable scientific calculators of any model is allowed.
 
-Finished Goods 1,73,000
+9. DO NOT write your Name, Reg. No. or Roll No. anywhere inside the answer script.
 
-Stock on 30/4/2015
+1. The following data relate to the ABM Manufacturing Co. for the month of November 2012. Prepare a cost sheet
+and find out the profit. Raw Material — Rs 100,000 (10)
+Direct Wages — Rs 60,000
 
-Raw Materials 2,62,000
+Machine worked hours 8500 hours
 
-Finished Goods 1,57,000
+Machine hour rate Rs 3.50
 
-Purchase of raw Material 2,19,000
+Office overhead 10% of work cost
 
-Carriage on purchases 11,000
+Selling overheads Rs 4 per unit
 
-Work in progress
+unit produced 8200 units
 
-1/4/2015 82,000
+unit sold 7300 at Rs. 100 each.
 
-30/4/2015 91,000
+2. Following data is available for Yankee Ltd. That manufactures a product “Yak” (10)
+. Selling Price - Rs 50/ unit & Variable Cost - Rs 22/ unit
+} ° Fixed Expenses- Rs. 62,500
+° Sales value - Rs. 3.75,000
+Calculate
 
-Sale of Finished Goods 7,23,000
+a) Profit
+b) Breakeven point in rupees
+c) Margin of safety
+d) C/S ratio
 
-Direct wages 1,72,000
+3. (a) Hema & M Ltd. Has furnished the following data standard cost data per unit of output. (5)
+Direct Material 20 kg@ Rs 15 per kg, Actual material used during the year is 120,000 kg at a cost of Rs 1870000
+for 5860 units of product. Calculate material price and usage variance.
 
-Non-productive wages 8,000
+,(0) From the following items calculate value of Closing stock on 31-08-2011 : (5)
+‘ 1-1-2003, Opening stock Rs. 40,000
 
-Direct expenses 12,000
+Goods bought during the year 2003 Rs. 60,000
 
-Factory Overheads 83,000 P
-= Administration overheads 32,000 z
+Goods sold during the year 2003, Sale price Rs. 40,000, Cost Rs. 30,000
 
-Selling and Distribution Overheads 42,000
+4. Explain Functional Classification of Costs. (10)
+5. Can we have a break-even analysis for a multi-product organization? Explain. (10)
+6. Write a short note on any two: (10)
+a) EOQ ¢) Master Budget d) Marginal cost
+>
 
-4B
---- page 2 ---
-Que 2. a) (6 Marks)
-
-Srinivasan Enterprises manufactures a special product “Zee”. The following particulars were collected for
-the year 31% March, 2015:
-
-Monthly demand of Zee 1,000 units
-
-Cost of placing an order Rs 100
-
-Annual Carrying cost per unit Rs 15
-
-Normal Usage 50 units per week
-Minimum Usage 25 units per week
-Maximum Usage 75 units per week
-Re-order Period 4 — 6 weeks
-
-Compute from the above: .
-1. Re-order Quantity 2. Re-order Level 3. Minimum Level 4. Maximum Level 5. Average Stock Level
-
-Que 2. b)
-
-(4 Marks)
-SV Ltd, a multi-product company, furnishes you the following data relating to current year:
-
-Particulars First half of the year Second half of the year
-
-Sales Rs. 60,000 Rs. 65,000
-
-Total Costs Rs. 40,000 Rs.43,000
-
-Calculate Break Even Sales, assuming that there is no change in prices and variable cost and that the fixed
-expenses.
-
-Que.3 (10 Marks)
-
-A factory has three production departments P, Q and R also has two service department X and Y. The
-primary distribution of the estimated overheads in the factory has been just completed. These details and
-the quantum of services rendered by the service departments, to the other departments are given below:
-
-Departments P Q R xX Yy =
-
-Primary Distribution(Rs.) 3,00,000 2,70,000 3,10,000 2,00,000 1,56,000
-
-Services Rendered by: _X 30% 20% 35% ---- 15% |
-Y 25% 40% [25% | 10% |
-
-Prepare a statement showing the distribution of service department overheads to the production
-departments by the simultaneous equation methad.
-
-Que. 4 (10 Marks)
-
-Explain the meaning of Contract Costing and Batch Costing, also distinguish between Job Costing and
-Process Costing.
-
-a)
---- page 3 ---
-Que. 5 (10 Marks)
-
-The Gold Ltd has three divisions each of which makes a different product. The budgeted data for
-the next year are as follows:
-
-Particulars Divisions
-A (Rs ) B (Rs) C (Rs)
-
-Sales 1,12,000 56,000 84,000
-Costs
-
-Direct Material 14,000 7,000 14,000
-Direct Labour 5,600 7,000 22,400
-Variable Overhead 14,000 7,000 28,000
-Fixed Costs 28,000 14,000 ‘ 28,000
-Total Costs 61,600 35,000 92,400
-
-The Management is considering to close down division C. There is no possibility of reducing
-fixed costs. Advise whether or not division C should not be closed down.
-
-.
-
-Que. 6 (10 Marks)
-
-Calculate Material Cost Variance, Material Price Variance, Material Usage Variance and Labour
-Cost Variance, Labour Rate Variance, Labour Efficiency Variance
-Standard Per unit
-
-Material 6 kg @ Rs 4 per kg
-
-Labour 4 hours @ Rs 4 per hour
-
-Actual production for the month 12,500 units
-
-Actual material price per kg Rs 4.50
-
-Material used during the month 78,000 kg
-
-Direct Labour hours worked 48,000 hours
-
-Actual Wage Rate per hour Rs 3.50
-
-Que. 7 Write short notes on: (10 Marks)
-
-a. Activity Based Costing
-b. Cash Budget
-
-x ———
-
-4%
+VY
 ````
 
 ## 2012-13 · Final-Exam · Trim 11 · paper c872a94b655d
@@ -1962,133 +2255,196 @@ OK
 M\
 ````
 
-## 2012-13 · Re-Exam · Trim 11 · paper 7b98fc03cf2d
+## 2012-13 · Re-Exam · Trim 11 · paper 8805a8cdcac5
 
-- Departments: Chemical, Computer Engineering, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/COST ACCOUNTING/COST ACCOUNTING BATCH 2012-13 RE EXAM0001.pdf` (+3 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/06/2014
-- Text: ocr (2 pages), mean OCR confidence 92.4
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/COST ACCOUNTING/COST ACCOUNTIG BATCH 2011-2012 RE EXAMscan0010.pdf`
+- Printed on paper: exam date: 18/01/2013
+- Text: ocr (1 page), mean OCR confidence 93.0
 
 ````text
-emi
+' SVKM’s NMIMS
 
-pSTOTE OF amy
+Nye Mukesh Patel School of Technology Management & Engiy
 
-tt ae
+Programme: MBA(Tech) (ALL STREAMS) Year: IV Trimester: K
+Academic Year :2012-2013
 
-SVKM’s NMIMS
-Seomen
+SVKM'S
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
+Batch: 2011-2012 * CNMIMS University )
+Subject: Cost Accounting Marks: om j
 
-Programme: MBA Tech (ALL STREAMS) Year: IV
-Academic Year: 2013-14 - Batch : 2012-13
-
-Subject : Cost Accounting
-Marks: 50
-
-Date : 19/06/2014 Time : 2.00 pm to 4.00 pm
-Durations: 2 (hrs)
+Time: pm to 4.00 yp¢¥
+Date: 18/01/2013 Duration:
 
 Re - Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-NB:
+(Use only if applicable as the case may be)
 
-1) Question No. lis compulsory.
+1. Question No. | is compulsory.
 
-2) Out of remaining 6 questions, attempt any 4 questions.
+2s Out of remaining questions, attempt any 4 questions.
 
-3) In all 5 questions to be attempted.
+8. In all 5 questions to be attempted.
 
-4) All questions carry equal marks.
+4 All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5. Answer to each new question to be started on fresh page.
 
-1. The following particulars relate to a Bidi manufacturing company which has 3 production
-(10) departments A, B and C and two Service departments X and Y.
+6. Figure in brackets on the right hand side indicates full marks.
 
-Production Depts. Service Depts.
-Total departmental A B ie Xx Y
+7. Answers must be neat, relevant and brief.
 
-overheads as per primary Rs6,300 Rs 6,700 Rs. 2,900 Rs 4,500 Rs 2,500
-distribution :
+8. Use of non-programmable scientific calculators of any model is allowed.
 
-The company decide to charge the Service dept. cost on the basis of the following percentages :
-A B Cc x Y
+9. DO NOT write your Name, Reg. No. or Roll No. anywhere inside the answer script.
 
-X 30% 30% 20% -- 20%
+1. The following data relate to the ABM Manufacturing Co. for the month of November 2012. Prepare a cost sheet
+and find out the profit. Raw Material — Rs 100,000 (10)
+Direct Wages — Rs 60,000
 
-Y 30% 40% 20% 10% ~ --
+Machine worked hours 8500 hours
 
-Find out the total overhead of production departments charging service department costs to
-production departments by reciprocal method.
+Machine hour rate Rs 3.50
 
-2. Pure Quality limited manufactures and markets a single product. The following data are
+Office overhead 10% of work cost
 
-available: (10)
-Rs. Per Unit :
-Materials 16
-Conversion cost 12
-Dealers Margin 4
-Selling Price 40
+Selling overheads Rs 4 per unit
 
-\-
---- page 2 ---
-Fixed Cost : Rs 5 lakhs, Present sales : 72000 units, Capacity utilization: 60%. There is a actual
-competition. Extra efforts are necessary to sell. Suggestions have been made to increase sales :
+unit produced 8200 units
 
-a) By reducing Sales Price by 5%
+unit sold 7300 at Rs. 100 each.
 
-b) By increasing dealers margin by 25%
-
-Which of these two suggestions would you recommend, if the company desires to maintain the
-present profit? Give reasons.
-
-3 a) Following standard cost data pertains to a company manufactures a single product. (5)
-
-Direct Labour.8 hrs @ Rs 20, Actual Direct Wages paid — Rs 130000 for 8800 hrs for 15100
-units of actual output. Calculate Labour Price and Labour Efficiency Variance.
-
-3 b) A factory works on Standard Costing System. Calculate Material Price, Material Usage (5)
-and Material Variance from the following information.
-
-(i) The Standard Estimates for Materials of 1,000 units of a commodity is 400 kg @ Rs 2.50 per
-kg
-
-ii) When 2,000 units of the commodity are manufactured, it is found that 820 kg of material is
-consumed @ Rs. 2.60 per kg.
-
-4 a) Find out the Economic Order Quantity from the following information. (5)
-Annual usage 8,000 units, cost of material per unit Rs. 15, cost of placing and receiving
-
-one
-order Rs. 50, annual carrying cost of one limit 12% of inventory value.
-
-4b) Following data is available for Pathan Ltd. That manufactures a product “Bat” (5)
-
-e Selling Price Rs 450
-e Variable Cost Rs 255
-e Fixed Expenses- Rs. 1,22,500
-e Sales value - Rs. 4,75,000
-
+2. Following data is available for Yankee Ltd. That manufactures a product “Yak” (10)
+. Selling Price - Rs 50/ unit & Variable Cost - Rs 22/ unit
+} ° Fixed Expenses- Rs. 62,500
+. Sales value - Rs. 3.75,000
 Calculate
-i) Margin of safety
-ii) C/S ratio
 
-5. Distinguish between Traditional and activity based costing. Evaluate cost and benefit of
-implementing activity based costing.
+a) Profit
+b) Breakeven point in rupees
+c) Margin of safety
+d) C/S ratio
 
-(10)
-6. What is cost sheet? What are the advantages of preparing cost sheet? (10)
-7. Explain functional classification of costs. (10)
-XR
-oe Y
+3. (a) Hema & M Ltd. Has furnished the following data standard cost data per unit of output. (5)
+Direct Material 20 kg@ Rs 15 per kg, Actual material used during the year is 120,000 kg at a cost of Rs 1870000
+for 5860 units of product. Calculate material price and usage variance.
 
-LR
+@O From the following items calculate value of Closing stock on 31-08-2011 : (5)
+1-1-2003, Opening stock Rs. 40,000
+Goods bought during the year 2003 Rs. 60,000
+Goods sold during the year 2003, Sale price Rs. 40,000, Cost Rs. 30,000
+
+4. Explain Functional Classification of Costs. (10)
+
+5. Can we have a break-even analysis for a multi-product organization? Explain. (10)
+
+6. Write a short note on any two: (10)
+a) EOQ ¢) Master Budget d) Marginal cost
+
+a
+
+\
+````
+
+## 2012-13 · Re-Exam · Trim 11 · paper 99eb4b4b506e
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/COST ACCOUNTING/COST ACCOUNTING BATCH 2011-2012 RE EXAMscan0007.pdf`
+- Printed on paper: exam date: 18/01/2013
+- Text: ocr (1 page), mean OCR confidence 94.1
+
+````text
+5
+
+SVKM’s NMIMS
+. Mukesh Patel School of Technology Management & En,
+Programme: MBA(Tech) (ALL STREAMS) Year: IV Trimester:
+Academic Year :2012-2013
+
+Batch: 2011-2012
+
+Subject: Cost Accounting Marks:
+Time:
+
+Date: 18/01/2013 Duration:
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+(Use only if applicable as the case may be)
+
+1. Question No. | is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4 All questions carry equal marks.
+
+5; Answer to each new question to be started on fresh page.
+
+6. Figure in brackets on the right hand side indicates full marks.
+
+Ts Answers must be neat, relevant and brief.
+
+8. Use of non-programmable scientific calculators of any model is allowed.
+
+9. DO NOT write your Name, Reg. No. or Roll No. anywhere inside the answer script.
+
+1. The following data relate to the ABM Manufacturing Co. for the month of November 2012. Prepare a cost sheet
+and find out the profit. Raw Material — Rs 100,000 (40)
+Direct Wages — Rs 60,000
+
+Machine worked hours 8500 hours
+
+Machine hour rate Rs 3.50
+
+Office overhead 10% of work cost
+
+Selling overheads Rs 4 per unit
+
+unit produced 8200 units
+
+unit sold 7300 at Rs. 100 each.
+
+2. Following data is available for Yankee Ltd. That manufactures a product “Yak” (10)
+° Selling Price - Rs 50/ unit & Variable Cost - Rs 22/ unit
+} ° Fixed Expenses- Rs. 62,500
+e Sales value - Rs. 3.75,000
+Calculate
+a) Profit
+
+b) Breakeven point in rupees
+c) Margin of safety
+d) C/S ratio
+
+3. (a) Hema & M Ltd. Has furnished the following data standard cost data per unit of output. (5)
+Direct Material 20 kg@ Rs 15 per kg, Actual material used during the year is 120,000 kg at a cost of Rs 1870000
+for 5860 units of product. Calculate material price and usage variance.
+
+(b) From the following items calculate value of Closing stock on 31-08-2011 : (5)
+1-1-2003, Opening stock Rs. 40,000
+
+Goods bought during the year 2003 Rs. 60,000
+
+Goods sold during the year 2003, Sale price Rs. 40,000, Cost Rs. 30,000
+
+4. Explain Functional Classification of Costs. (10)
+5. Can we have a break-even analysis for a multi-product organization? Explain. (10)
+6. Write a short note on any two: (10)
+a) EOQ ¢) Master Budget d) Marginal cost
+sé.
+
+/
 ````
 
 ## 2012-13 · Re-Exam · Trim 11 · paper f2511c465af5
@@ -2249,103 +2605,6 @@ XK
 2/2
 ````
 
-## 2011-12 · Re-Exam · Trim 11 · paper 8805a8cdcac5
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/COST ACCOUNTING/COST ACCOUNTIG BATCH 2011-2012 RE EXAMscan0010.pdf`
-- Printed on paper: exam date: 18/01/2013
-- Text: ocr (1 page), mean OCR confidence 93.0
-
-````text
-' SVKM’s NMIMS
-
-Nye Mukesh Patel School of Technology Management & Engiy
-
-Programme: MBA(Tech) (ALL STREAMS) Year: IV Trimester: K
-Academic Year :2012-2013
-
-SVKM'S
-
-Batch: 2011-2012 * CNMIMS University )
-Subject: Cost Accounting Marks: om j
-
-Time: pm to 4.00 yp¢¥
-Date: 18/01/2013 Duration:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-(Use only if applicable as the case may be)
-
-1. Question No. | is compulsory.
-
-2s Out of remaining questions, attempt any 4 questions.
-
-8. In all 5 questions to be attempted.
-
-4 All questions carry equal marks.
-
-5. Answer to each new question to be started on fresh page.
-
-6. Figure in brackets on the right hand side indicates full marks.
-
-7. Answers must be neat, relevant and brief.
-
-8. Use of non-programmable scientific calculators of any model is allowed.
-
-9. DO NOT write your Name, Reg. No. or Roll No. anywhere inside the answer script.
-
-1. The following data relate to the ABM Manufacturing Co. for the month of November 2012. Prepare a cost sheet
-and find out the profit. Raw Material — Rs 100,000 (10)
-Direct Wages — Rs 60,000
-
-Machine worked hours 8500 hours
-
-Machine hour rate Rs 3.50
-
-Office overhead 10% of work cost
-
-Selling overheads Rs 4 per unit
-
-unit produced 8200 units
-
-unit sold 7300 at Rs. 100 each.
-
-2. Following data is available for Yankee Ltd. That manufactures a product “Yak” (10)
-. Selling Price - Rs 50/ unit & Variable Cost - Rs 22/ unit
-} ° Fixed Expenses- Rs. 62,500
-. Sales value - Rs. 3.75,000
-Calculate
-
-a) Profit
-b) Breakeven point in rupees
-c) Margin of safety
-d) C/S ratio
-
-3. (a) Hema & M Ltd. Has furnished the following data standard cost data per unit of output. (5)
-Direct Material 20 kg@ Rs 15 per kg, Actual material used during the year is 120,000 kg at a cost of Rs 1870000
-for 5860 units of product. Calculate material price and usage variance.
-
-@O From the following items calculate value of Closing stock on 31-08-2011 : (5)
-1-1-2003, Opening stock Rs. 40,000
-Goods bought during the year 2003 Rs. 60,000
-Goods sold during the year 2003, Sale price Rs. 40,000, Cost Rs. 30,000
-
-4. Explain Functional Classification of Costs. (10)
-
-5. Can we have a break-even analysis for a multi-product organization? Explain. (10)
-
-6. Write a short note on any two: (10)
-a) EOQ ¢) Master Budget d) Marginal cost
-
-a
-
-\
-````
-
 ## 2011-12 · Re-Exam · Trim 11 · paper 9915d53f0c07
 
 - Departments: Chemical
@@ -2471,101 +2730,6 @@ la) Ideal standards
 2),
 
 =
-````
-
-## 2011-12 · Re-Exam · Trim 11 · paper 99eb4b4b506e
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/COST ACCOUNTING/COST ACCOUNTING BATCH 2011-2012 RE EXAMscan0007.pdf`
-- Printed on paper: exam date: 18/01/2013
-- Text: ocr (1 page), mean OCR confidence 94.1
-
-````text
-5
-
-SVKM’s NMIMS
-. Mukesh Patel School of Technology Management & En,
-Programme: MBA(Tech) (ALL STREAMS) Year: IV Trimester:
-Academic Year :2012-2013
-
-Batch: 2011-2012
-
-Subject: Cost Accounting Marks:
-Time:
-
-Date: 18/01/2013 Duration:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-(Use only if applicable as the case may be)
-
-1. Question No. | is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4 All questions carry equal marks.
-
-5; Answer to each new question to be started on fresh page.
-
-6. Figure in brackets on the right hand side indicates full marks.
-
-Ts Answers must be neat, relevant and brief.
-
-8. Use of non-programmable scientific calculators of any model is allowed.
-
-9. DO NOT write your Name, Reg. No. or Roll No. anywhere inside the answer script.
-
-1. The following data relate to the ABM Manufacturing Co. for the month of November 2012. Prepare a cost sheet
-and find out the profit. Raw Material — Rs 100,000 (40)
-Direct Wages — Rs 60,000
-
-Machine worked hours 8500 hours
-
-Machine hour rate Rs 3.50
-
-Office overhead 10% of work cost
-
-Selling overheads Rs 4 per unit
-
-unit produced 8200 units
-
-unit sold 7300 at Rs. 100 each.
-
-2. Following data is available for Yankee Ltd. That manufactures a product “Yak” (10)
-° Selling Price - Rs 50/ unit & Variable Cost - Rs 22/ unit
-} ° Fixed Expenses- Rs. 62,500
-e Sales value - Rs. 3.75,000
-Calculate
-a) Profit
-
-b) Breakeven point in rupees
-c) Margin of safety
-d) C/S ratio
-
-3. (a) Hema & M Ltd. Has furnished the following data standard cost data per unit of output. (5)
-Direct Material 20 kg@ Rs 15 per kg, Actual material used during the year is 120,000 kg at a cost of Rs 1870000
-for 5860 units of product. Calculate material price and usage variance.
-
-(b) From the following items calculate value of Closing stock on 31-08-2011 : (5)
-1-1-2003, Opening stock Rs. 40,000
-
-Goods bought during the year 2003 Rs. 60,000
-
-Goods sold during the year 2003, Sale price Rs. 40,000, Cost Rs. 30,000
-
-4. Explain Functional Classification of Costs. (10)
-5. Can we have a break-even analysis for a multi-product organization? Explain. (10)
-6. Write a short note on any two: (10)
-a) EOQ ¢) Master Budget d) Marginal cost
-sé.
-
-/
 ````
 
 ## 2010-11 · Exam not stated · Trim 10 · paper b9cdd5aca9af
@@ -2888,6 +3052,7 @@ Q6 Write notes on any three.
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/COST ACCOUNTING/2008-2009(168).pdf` (+2 identical copies)
 - Printed on paper: duration hours: 2
 - Text: ocr (2 pages), mean OCR confidence 70.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 CIUTE OF Ay,
@@ -2904,7 +3069,6 @@ AND ENGINEERING
 MBA ( 2 1V
 Tiinesicr A, 2008 — 69
 
-Cacti Accor Tatal Marke 40
 Les, ACH 2Oln Mars ou
 
 261-9 7 2008 Time Allowed 2 Hours Q-00-4OO f -
@@ -3521,168 +3685,4 @@ b) What would be the profits at different capacity utilization levels given abov
 price rise of 10% in packing (bags) costs?
 
 x ‘=
-````
-
-## Year not stated · Exam not stated · Trim 11 · paper 45ce9053798a
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/COST ACCOUNTING/COST ACCOUNTING scan0053.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 18/01/2013
-- Text: ocr (1 page), mean OCR confidence 92.2
-
-````text
-3
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineeringl
-
-Programme: MBA (Tech)-ALL STREAMS Year: IV Trimester: XI rad
-Academic Year : 2012-2013 Ue
-Subject: COST ACCOUNTING Marks: 50 Wace, i
-. EM
-Time: 2.00 p.m To 4.00 p.m
-Date: 18/01/2013 Duration: 2 hrs. °
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their use.
-(Use only if applicable as the case may be)
-
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4 All questions carry equal marks.
-5: Answer to each new question to be started on fresh page.
-“6. Figure in brackets on the right hand side indicates full marks.
-Ts Answers must be neat, relevant and brief.
-8. Use of non-programmable scientific calculators of any model is allowed.
-9. Do not write your Name, Reg. No. or Roll No. anywhere inside the answer script.
-1. Compute the Machine Hour Rate from the following data : (10)
-
-Cost of the Machine Rs. 150,000, Installation charges Rs. 20,000, Estimated scrap value after the
-expiry of its life of 15 years is zero, Rent for the shop per month Rs. 600,
-General lighting for the shop per month Rs. 600, Insurance premium for the machine p.a. Rs. 1,920,
-Repair expenses p.a. Rs. 20,000, Power 10 units per hour, Rate of power per 100 units Rs. 40
-Estimated working hours p.a. 2,000, Shop Supervisor’s salary per month Rs. 1,200, The machine
-occupies 1/3rd of the total area of the shop. The supervisor devotes half of his time for this machine.
-
-2. The following information is available from the cost records of a company for the month of May 2012.
-Standard cost per unit of output is direct labour 10 hours @ Rs 85= Rs 850 =} dor donk pu (10)
-
-| Actual Wages paid Rs 4400000 for 55000 hours @ Rs 80, Actual output is 4900 units. Corerday
-Calculate Labour cost variance, Labour rate variance & Labour efficiency variance.
-
-3 (a) Find out the Economic Order Quantity from the following : (5)
-Annual usage 6,000 units, cost of material per unit Rs. 20, cost of placing and receiving one order Rs. 60,
-annual carrying cost of one limit 10% of inventory value.
-
-3(b) Zebra limited furnishes you the following information; calculate the margin of safety of the
-company. (5)
-Fixed Expenses- Rs. 12500
-Sales value   - Rs. 65000
-
-© Profit - Rs. 2000
-4, What is a cost sheet? What are its advantages? . 4 (10)
-5. Elaborate in detail the necessary steps needed to establish a stand costing system. (10)
-6. Write short notes : (Any Two) (10)
-
-a) Operating Costing _b) Break-Even Point c) Marginal womtinrs
-eK
-
-M
-````
-
-## Year not stated · Exam not stated · Trim 11 · paper 5740e2731408
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/COST ACCOUNTING/scan0014(10).pdf` (+1 identical copies)
-- Printed on paper: exam date: 18/01/2013
-- Text: ocr (1 page), mean OCR confidence 94.1
-
-````text
-SVKM’s NMIMS
-. Mukesh Patel School of Technology Management & Engixé
-Programme: MBA(Tech) (ALL STREAMS) Year: IV Trimester: Ke
-Academic Year :2012-2013
-
-Batch: 2011-2012
-
-Subject: Cost Accounting Marks:
-Time:
-
-Date: 18/01/2013 Duration:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-(Use only if applicable as the case may be)
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3, In all 5 questions to be attempted.
-
-4 All questions carry equal marks.
-
-5; Answer to each new question to be started on fresh page.
-
-6. Figure in brackets on the right hand side indicates full marks.
-
-7. Answers must be neat, relevant and brief.
-
-8. Use of non-programmable scientific calculators of any model is allowed.
-
-9. DO NOT write your Name, Reg. No. or Roll No. anywhere inside the answer script.
-
-1. The following data relate to the ABM Manufacturing Co. for the month of November 2012. Prepare a cost sheet
-and find out the profit. Raw Material — Rs 100,000 (10)
-Direct Wages — Rs 60,000
-
-Machine worked hours 8500 hours
-
-Machine hour rate Rs 3.50
-
-Office overhead 10% of work cost
-
-Selling overheads Rs 4 per unit
-
-unit produced 8200 units
-
-unit sold 7300 at Rs. 100 each.
-
-2. Following data is available for Yankee Ltd. That manufactures a product “Yak” (10)
-. Selling Price - Rs 50/ unit & Variable Cost - Rs 22/ unit
-} ° Fixed Expenses- Rs. 62,500
-° Sales value - Rs. 3.75,000
-Calculate
-
-a) Profit
-b) Breakeven point in rupees
-c) Margin of safety
-d) C/S ratio
-
-3. (a) Hema & M Ltd. Has furnished the following data standard cost data per unit of output. (5)
-Direct Material 20 kg@ Rs 15 per kg, Actual material used during the year is 120,000 kg at a cost of Rs 1870000
-for 5860 units of product. Calculate material price and usage variance.
-
-,(0) From the following items calculate value of Closing stock on 31-08-2011 : (5)
-‘ 1-1-2003, Opening stock Rs. 40,000
-
-Goods bought during the year 2003 Rs. 60,000
-
-Goods sold during the year 2003, Sale price Rs. 40,000, Cost Rs. 30,000
-
-4. Explain Functional Classification of Costs. (10)
-5. Can we have a break-even analysis for a multi-product organization? Explain. (10)
-6. Write a short note on any two: (10)
-a) EOQ ¢) Master Budget d) Marginal cost
->
-
-VY
 ````

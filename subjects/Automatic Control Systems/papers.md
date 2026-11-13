@@ -236,6 +236,7 @@ Summing Point
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/AUTOMATIC CONTROL SYSTEMS/Automatic Control Systems Batch 2023-24 Final.pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 75.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS j
@@ -322,7 +323,6 @@ disadvantages
 
 Explain following terms associated with signal flow graph:
 
-CO-; SO-; Pp g gn grap: [04]
 1. Feedback loops; 2. Forward path
 
 BL-
@@ -408,7 +408,6 @@ BL-3 in time domain analysis
 --- page 4 ---
 
 --- page 5 ---
-OZIGinal Diaqream Equivalent Diegtam
 Re ae ;
 eee relies oe
 
@@ -422,6 +421,7 @@ x . x WG
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/AUTOMATIC CONTROL SYSTEMS/Automatic Control Systems Batch 2022-23 ,2023-24 Re Exam.pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 77.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -578,7 +578,6 @@ A+ X,-X)G |X + XiG-X5G
 
 HGH Gx,
 
-Z x XG - x G XG
 
 x VG
 ````
@@ -590,6 +589,7 @@ x VG
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/AUTOMATIC CONTROL SYSTEMS/Automatic Control Systems Batch 2022-23 Final0001.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (5 pages), mean OCR confidence 73.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -776,14 +776,12 @@ X3 X,-X, *3
 X> xy
 ° XG, + XG,
 XG, + X X(G, + G
-x G, ant h G,+G; (G, + Gp)
 3 oe
 XG)
 G,
 XG XG Gy xX XG\G
 4 oe IG, —t GG, et
 Xj —X1G
-Xx G Ne ta *1S-% Ht 4 sao
 5 = ee
 Lox = 1 x.
 G G
@@ -798,11 +796,9 @@ XxX XG xX XG
 8 ? G G
 a
 xX 1/G
-9 “ty eh | x G X
 *y 1-GH
 Ae
 +
-10 a C) G * x G X)
 “f 1+ GH
 H
 ````

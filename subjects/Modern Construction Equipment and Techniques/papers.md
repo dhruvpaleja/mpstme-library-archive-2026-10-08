@@ -1,6 +1,6 @@
 # Modern Construction Equipment and Techniques: question papers in full
 
-6 unique papers · 2022-23 to 2025-26 · Civil
+6 unique papers · 2022-23 to 2025-26 · Civil, Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -181,9 +181,9 @@ Page - 2 of 2
 
 ## 2024-25 · Re-Exam · Sem 5 · paper dd3a62340c54
 
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/MODERN CONSTRUCTION EQUIPMENT & TECHNIQUES/Modern Construction Equipment and Techniques, Sem-V, Batch 2024-25 Re Exam.pdf`
+- Departments: Civil, Data Science
+- Programmes: B TECH / CIVIL, B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/MODERN CONSTRUCTION EQUIPMENT & TECHNIQUES/Modern Construction Equipment and Techniques, Sem-V, Batch 2024-25 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 /2/2025
 - Text: ocr (2 pages), mean OCR confidence 89.5
 

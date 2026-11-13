@@ -1,6 +1,6 @@
 # IoT System Architecture: question papers in full
 
-3 unique papers · 2022 to 2023-24 · Electronics and Telecommunication
+3 unique papers · 2022-23 to 2023-24 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -202,7 +202,7 @@ CO-1; $0- What is the concept of everything-as-a-service in the context of IOT? 
 eae Hv
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper 8b37b50154a1
+## 2022-23 · Final-Exam · Sem 9 · paper 8b37b50154a1
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC

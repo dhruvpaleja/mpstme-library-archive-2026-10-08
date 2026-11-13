@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/Fluid Mechanics and Hydraulic Machinery/ANS_Fluid Mechanics and Hydraulic Machinery(701ME0C036)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
 - Text: mixed (4 pages), mean OCR confidence 51.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -128,7 +130,6 @@ applications + 1 pent
 FOGG 2 FC IC Ir
 --- page 4 ---
 if b
-ss ua EY a A Maaly
 
 CO-6, BL-4 60
 | Qu, ~ 0.01047 m/s —_—=- Lo asles

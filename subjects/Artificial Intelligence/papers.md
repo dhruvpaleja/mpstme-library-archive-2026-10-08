@@ -1,6 +1,6 @@
 # Artificial Intelligence: question papers in full
 
-114 unique papers · 2006-07 to 2025-26 · Computer Engineering, Data Science, Computer Applications (MCA), Computer Science and Business Systems, Electronics and Telecommunication, AI and Data Science, Artificial Intelligence, Information Technology, Mechatronics, Common (all branches), Computer Science
+113 unique papers · 2006-07 to 2025-26 · Computer Engineering, Data Science, Computer Applications (MCA), Computer Science and Business Systems, Electronics and Telecommunication, AI and Data Science, Information Technology, Mechatronics, Common (all branches), Artificial Intelligence, Computer Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -2578,6 +2578,7 @@ FICK IK Ok
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE Data Science (311)/SEM-VI/ARTIFICIAL INTELLIGENCE/B Tech, Artificial Intelligence, Sem-VI, Batch 2025-26, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Jul 2026
 - Text: ocr (5 pages), mean OCR confidence 86.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -2779,7 +2780,6 @@ Provide at least two examples of popular expert systems.
 
 [15]
 
-FROG ak kk ok ak a ok
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · paper 01f83a7aaf54
@@ -4078,6 +4078,198 @@ BL-5
 ********** 2 **********
 ````
 
+## 2024-25 · Re-Exam · Sem 4 · paper cdc358f8e205
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/ARTIFICIAL INTELLIGENCE/Artificial Intelligence, BTech CSBS, Sem-VI, AY Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30.04.2025
+- Text: ocr (6 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: B.Tech Year: III Semester: VI
+Stream/s : CSBS
+
+Subject: Artificial Intelligence Time: 3 hrs (2:00pm 40 Stoop)
+Date: 30.04.2025 No. of Pages: 5
+Marks: 100
+
+Re-Exam 2022-23
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO-2; a.
+SO-1, 2, ; ; : : :
+6,7; BL- Write a short note on the role of different operators used in Genetic Algorithm. | 5
+2
+CO-3; b.
+SO- 1, 6, Explain the following along with logical statements — 5
+as Tautology and Contradiction.
+BL-3
+CO- 3; c
+SO- I, 6, Solve the following crypt arithmetic problem: : 5
+a TWO+TWO = FOUR
+BL- 3
+d. A retail company wants to improve its sales strategy using machine learning.
+They have two different use cases:
+CO- 4; "I nt ee
+SO-1.5 Scenario 1: Customer Purchase Prediction: The company has historical
+6.7: ial data on customer purchases, including product categories, purchase a eSe
+BL. 2 frequency, and total spending. They want to build a model to predict whether
+a new customer will buy a particular product based on past purchase
+behaviors.
+--- page 2 ---
+Scenario 2: Customer Segmentation: The company wants to group
+customers into different categories based on their purchasing patterns,
+shopping habits, and demographics. However, they do not have predefined
+labels for these categories and want the model to find patterns on its own.
+
+(i) Explain at least four differences between supervised and
+
+unsupervised learning. ‘
+(ii) Based on aforementioned scenarios, identify which machine learning
+
+approach (supervised or unsupervised) applies to each scenario?
+
+a, Explain the role of Artificial Intelligence in Educational Institute w.r.t
+
+the PEAS concept.
+b. Explain the structure of Intelligent agent and also explain Learning
+
+Q agent with the help of Block diagram.
+CO- 1, 2; c. Apply Greedy Best First Search on the Graph below and find out the
+SO- 1, 2, minimum path cost reach the destination from source.
+5, 6,75
+BL-3 S (8)
+feo
+A(6) 8(4) €(5)
+i | es
+
+p(7) (5) F(3) G(4) H(2)
+Re EG estes ae
+
+1(6) (3) K(2) L(L) M(@) <- Goal 54545
+ars)
+
+Consider the following Heuristic Values:
+§=8,A=6,B=4, C=5,D=7,8=5,F =3,G=4,H=2,1=6,J=3, b=
+
+2, L=1, M=0 (Goal)
+d. Solve the following 8 tiles problem considering the number of misplaced
+
+tiles as the heuristic. (Use A* Search)
+
+1 2 3 it 2 3
+4 6 4 5 6
+MNS) 8 7 8
+ee : (ee
+Initial State Goal State
+Q3
+CO-2, 3; a. Consider the following game tree where the leaf nodes contain utility
+SO- 1, 2, values. Apply the Alpha-Beta Pruning algorithm and determine the optimal 10+10
+6, 7; value for the root node. Clearly indicate which branches are pruned.
+BL-3
+L
+--- page 3 ---
+Qu: co
+
+b. Convert the following facts into First Order Logic (FOL):
+
+1. Ifa person is a doctor or a nurse, then they work in a hospital and
+help patients.
+
+2. Ifaperson owns a pet, then they take care of it unless they are
+irresponsible.
+
+3. Ifastudent gets good grades and participates in extracurricular
+activities, they get a scholarship.
+
+4. Every cat loves fish.
+
+5. Ifa person is a father, then he is a parent.
+
+a. Can GBFS or A* be used for solving 8 puzzle problem? Explain with
+small example.
+
+Q4 :
+CO-2, 3; b. Consider the following statements to prove “Raja is angry” using
+& ‘ Resolution Graph.
+a 1,2, i 5+15
+BL-3 1. Rimi is hungry.
+
+2. If Rimi is hungry she barks.
+3. If Rimi is barking then Raja is angry.
+--- page 4 ---
+a. Give some real life examples where Clustering is used.
+
+b. A logistics company wants to cluster warehouse locations based on their
+geographical coordinates to optimize delivery routes. The company has
+identified six warehouse locations as follows:
+
+Warehouse Locations (Data Points in 2D Space):
+
+Pl =(2,10)
+P2— (2:5)
+P3 = (8,4)
+a AVE P4 = (5,8)
+$0-1, 5, my 5415
+ets) 4) = .
+Ga: P6 = (6,4)
+Poe The company wants to use K-Means clustering with K.= 2 to group these
+warehouses into two clusters for efficient supply chain management. The
+Initial Centroids are Cl = (2,10) (corresponding to P1) and C2 = (5,8)
+(corresponding to P4).
+(i) Perform one iteration of the K-Means algorithm.
+(ii) Assign each warehouse to the nearest centroid using Euclidean
+- distance.
+(iii) | Update the centroids based on the new cluster assignments. After
+the first iteration, what are the updated centroids for each cluster?
+a. Write down the differences between Classification and Clustering.
+b. Considering the dataset below, construct decision tree using CART or ID3
+Algorithm. ; :
+Age Surgery Type Pre-existing Conditions Risk Category
+Q 6 2 1 (Minos) 0 (No) Low Risk
+CO-3, 4; 45 2 (Major) 1 (Yes) High Risk 5410+
+SO-1, 5, 60 2 (Major) 4 (Yes) High Risk 5
+6,7;
+BL-3 35 1 (Minor) 0 (No) Low Risk
+50 > 2 (Major) 0 (No) Low Risk
+40 1 (Minor) 1 (Yes) High Risk
+c. How does backtracking search work in CSPs? Explain with an example.
+ues 5+10+
+Q7 a. Explain different types of Expert Systems. 5
+
+4°
+--- page 5 ---
+CO-3, 4; b. What are the key components of an Expert System? What are the
+
+SO-1, 5, advantages of Expert Systems?
+6, 7; c. Write down the properties of Forward Chaining and Backward Chaining.
+BL-3
+--- page 6 ---
+
+````
+
 ## 2024-25 · Re-Exam · Sem 5 · paper b5afd3c25987
 
 - Departments: Computer Engineering
@@ -4085,6 +4277,7 @@ BL-5
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/ARTIFICAL INTELLIGENCE/Artificial Intelligence, Sem-V, Batch 2024-25, Re Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -4185,7 +4378,6 @@ c. Convert the following facts into First Order Logic (FOL):
 2. Every child will be given some present by Santa if Santa can travel
 on Christmas eve.
 
-3. Itis foggy on Christmas eve.
 
 4. Anytime it is foggy, anyone can travel if he has some source of
 light.
@@ -4253,6 +4445,176 @@ SO-1, 5 b. Describe the role of the Inference Engine in an Expert System. [20]
 pee 4 c. What are the differences between Forward Chaining and Backward
 
 Chaining with an example.
+````
+
+## 2023-24 · Exam not stated · Sem 6 · paper 02b27c6765fa
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Artificial Intelligence/Artificial Intelligence.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&{E
+SCHOOL OF TECHNOLOGY MANAGEMENT °
+
+Academic Year: 2023-2024
+Program/s: B Tech / MBA Tech
+Stream/s : CSBS, AI&DS, CS, E&T
+Subject: Artificial Intelligence
+
+Date:_ 19 / 04/2024
+Marks: 100 a
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed
+
+—> of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+_ 7) Assume Suitable data if necessary.
+
+Year: II/ II] Semester: [V/ VI
+
+Time: 3 hrs (2:00 to 5:00)
+Pe pe
+No. of Pages: 4
+
+on the question paper and on the cover™
+
+Ql Answer briefly:
+
+CO-1; SO- | a. Compare and contrast strong and weak AI. In what ways do they differ in [5]
+
+1; BL-4 terms of capabilities, goals, and potential implications for society?
+
+CO-3;SO- | b. Define the expert system and also write the different characteristics of expert (51
+a 6; BL-1 systems.
+
+c. | Find the optimal path using Breadth-First Search with the following
+example. Consider Initial state is 11 and the Goal state is 12. Assume we
+choose the node left of the current node first.
+
+CO- 2; SO-
+[5]
+2; BT-5,
+
+Start from here !
+--- page 2 ---
+CO-3; SO- | d. | What is Propositional, Logic in artificial intelligence? Explain various
+
+1; BL-2 inference rules in Propositional Logic with suitable example. el
+Q2 a
+What is artificial Intelligence? Define its types. Also explain the
+CO-1; SO- oo [10]
+1: BL-1 components of an Artificial Intelligence system.
+; b. | Explain the steps in Min Max Algorithm. Solve the following using Min-
+Max Algorithm.
+CO-2;
+SO-2; BT- [10]
+6,
+S BS loa nwt ve MIS 1B 76
+Q3 a. Discuss the role of learning in the development of intelligent agents. How | [10]
+CO-1; SO- do agents acquire knowledge and improve their performance over time
+2; BL-2 through various learning mechanisms?
+b. | Explain Forward chaining in detail. Use the knowledge base given below to | [10]
+find the facts supporting Christena is sick, by forward chaining method.
+CO-3; SO-
+1; BL-5 If food is oily, it is good in taste and not eeu for health. If anyone eats
+unhealthy food, they fall sick. Christena loves oily food and she eats only
+what she loves. “Potato wedges” is an oily food item.
+Q4 a. Explain Hill Climbing algorithm, analyze and mention all the limitations [10]
+CO-2; SO- of Hill Climbing algorithm and State in what domains Hill Climbing is
+1;BT3 applicable.
+CO-4; SO- | b. : [10]
+1. Given a dataset consisting of the following 2D points:
+
+--- page 3 ---
+Perform K-means clustering on this dataset with K = 2, and the initial’. —
+centroids are chosen as follows: /
+C,= (2, 4) (initial centroid for cluster 1, corresponding to point P,)
+
+C,= (10, 8) (initial centroid for cluster 2, corresponding to point P,)
+
+Perform one iteration of the K-means algorithm,
+
+i) Assign each point to the respective centroid based on Euclidean
+distance.
+ii) Update the centroids of the clusters after first iteration.
+L a. Explain the working of A* algorithm and apply the concept of A* [10]
+algorithm for solving the following problem.
+Q5
+CO-2; SO-
+6; BL-6
+Le
+
+CO-3; SO- |b. | What is the constraint satisfaction problem? Explain its component types. | [10]
+
+1; BL-2 Show its application in map coloring:
+
+06 a. Define Crypt Arithmetic Problem with rules and constraints. Solve the [10]
+
+following problems using crypt arithmetic:
+--- page 4 ---
+i
+
+CO-3; SO-
+
+1. Find the value of A+B+C+D+E+F+G, given equation: FR
+
+6; BL-6 EE+ BIRD=CAGE
+2. Find the valueof W+I1+N+T+E+Rifi WINTER + SUM
+MER = AUTUMN
+3. Find the value of all the letter of BASE+BALL=GAMES
+
+CO-3; SO- Identify role of knowledge based management system in the AI based [10]
+1; BL-3 expert system with the help of an example.
+Q7 [10]
+C0-3; $0- What is resolution? Examine the application of resolution to prove the
+6: BL-4 validity of a logical argument with the help of an example.
+
+Suppose our entire population has a total of 30 instances. The dataset is to | [10]
+
+predict whether the person will go to the gym or not. Let’s say 16 people go
+
+to the gym and 14 people don’t. “Motivation” which takes 3 values “No
+
+motivation”, “Neutral” and“Highly motivated”.
+
+Feature-2 > Motivation
+alti QO will gotogym
+a ik vor not go to
+we
+w vey
+
+CO-4; SO-
+7; BL-6
+
+(i) Calculate E(Parent)
+
+(ii) Calculate E(Parent|Motivation = "NoMotivation")
+(iii) Calculate E(Parent|Motivation = "Neutral")
+
+(iv) Calculate E(Parent|Motivation = "HighlyMotivated")
+(v) Calculate E(Parent|Motivation)
+
+(vi) Calculate Information Gain
+
+y
 ````
 
 ## 2023-24 · Final-Exam · Sem 5 · paper 805611215001
@@ -4478,6 +4840,7 @@ BL-5
 - Source: `02_Question_Papers/Legacy/M TECH/2ND YEAR/DATA SCIENCES FALL BACH/SEM III/ARTIFICIAL INTELLIGENCE/Artificial Intelligence Batch 2023-24 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 86.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -4609,7 +4972,6 @@ f— 0.001
 
 e | F }0.001 | 0.999
 
-A [Pto=n|P(o=F) ‘Toa. [pis=nfes=F)
 David Calls o 6S Sopia Calls
 T | 0.91 | 0.09 T | 0.75 | 0.25
 
@@ -5721,6 +6083,7 @@ nn
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/ARTIFICAL INTELLIGENCE/Artificial Intelligence, 3 rd Year, Sem V, Year 2022-23, Final Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 19 November 2022
 - Text: ocr (3 pages), mean OCR confidence 83.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 24 SVKM’s NMIMS »
@@ -5806,7 +6169,6 @@ b) Which attribute is better Weather, Parents or Money and why?
 Qs 1 | Sunny | Yes | Rich | Cinema
 y 2 | Sumy | No | Rich | Tennis [10]
 -3._| Windy | ¥. Rich | Cinema '
-CO-4; SO- a [Baty [Yeu (Boxe | Cleme
 6; BL-3 5 Rainy | No Rich | Stay-In
 6 | Rainy | Yes | Poor | Cinema
 7 Windy No. Poor | Cinema
@@ -6185,7 +6547,7 @@ BL-1 4. Type of Machine Learning
 6. Expected benefit
 ````
 
-## 2022 · Final-Exam · Sem 7 · paper 00d493da8677
+## 2022-23 · Final-Exam · Sem 7 · paper 00d493da8677
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -6312,7 +6674,7 @@ sentence? Explain with an example sentence.
 z
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper e1308c562673
+## 2022-23 · Final-Exam · Sem 3 · paper e1308c562673
 
 - Departments: Data Science
 - Programmes: M TECH / DATA SCIENCES FALL BACH
@@ -6432,511 +6794,6 @@ types of Hill Climbing approaches with short explanations about each.
 20
 
 Page a/3
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper f00a31704a7d
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/MACHINE LEARNING/Artificial Intelligence, Sem-IV, Batch 2021-22, 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 88.9
-
-````text
-SY 7
-st MPSTME
-w\ LIBRARY
-AS,
-A.
-
-“a
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-Program/s: B-Tech Year: II Semester: IV
-
-Stream/s: Artificial Intelligence
-
-Subject: Machine Learning Time: 03 hrs (4o:00amto 4:00pm)
-Date:_28 / 06 / 2023 No. of Pages: 6
-Marks: 100
-
-Re-+Examination (2021-22 /2022- 23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-an
-
-1
-° Answer briefly: (Each question carries 4 marks) [20]
-
-CO-1;SO- | a. | Explain the data science life cycle with the help of schematics. Mention the most important
-2 a . .
-BL-2 challenges in building a machine learning model.
-
-CO-1;SO- | b. | For the following vectors, x and y, calculate the indicated similarity or distance measures.
-2; a. x=(1, 1,1, 1), y= (2, 2, 2, 2) cosine, correlation, Euclidean
-BL-3 b. x=(0, 1,0, 1), y =(1, 0, 1, 0) cosine, correlation, Euclidean, Jaccard
-
-c. x=(0,-1, 0, 1), y=(1, 0, -1, 0) cosine, correlation, Euclidean
-
-d. x=(1, 1,0, 1,0, 1), y=(1, 1, 1, 0, 0, 1) cosine, correlation, Jaccard
-
-e. x=(2,~-1, 0,2, 0, -3), y=(-1, 1,—-1, 0, 0, -1) cosine, correlation
-
-~| CO-1;SO- | c. | Describe how a box plot can give information about whether the value of an attribute is
-2; symmetrically distributed. What can you say about the symmetry of the distributions of the
-BL-4 attributes shown in Figure?
-
-o
-Shaailongh   Sipal Wern
-
-Rage a4
---- page 2 ---
-CO-2;SO- | d. | For Linear regression, please derive an equation for all thetas in form of matrix representation
-2; ge : :
-BL-2 for each iteration using gradient descent.
-
-CO-3; SO- | e. | What is the use of a validation set in classification models in machine learning? How can you
-2:
-
-BL-2 solve issues of missing data in a data set for all kind of data types.
-
-Q2 a. Predict the class label for a test sample (A = 0, B = 1, C = 0) using the naive Bayes [20]
-CO-3; SO- approach.
-
-3; b. Predict the class label for a test sample (A = 0, B = 1, C = 0) using the naive Bayes
-
-BL-3 approach but with Laplace estimate.
-
-c. Compare the output from (a) and (b), which method is better and why?
-
-Record A B 6) Class
-1 0 0 0 +
-z 0 0 1 -
-3 0 1 1 -
-4 0 1 1 -
-5 0 0 1 +
-6 1 0 1 +
-7 1 0 1 -
-8 1 0 1 -
-9 1 1 1 +
-
-10 1 0 1 +
-
-d. For the one-dimensional data shown below, Classify the data point x = 4.6 according to its
-1-, 3-, 5-, and 9-nearest neighbors (using majority vote)
-
-Xx 0.5 3.0 45 4.6 4.9 5.2 5.3 5.5 7.0 9.5
-Y : S - + + - - + - -
---- page 3 ---
-P»
-
-Q3
-CO-3; SO-
-3; BL-3
-
-a. Using Apriori algorithm for the below data, Find [20]
-© The frequent itemsets. he
-o Association rules for frequent itemsets with the largest number of items.
-
-Assume that minimum support (s =2) and minimum confident threshold (c = 60%)
-
-TID | Items
-
-Tl 11, 12, 15
-T2 12, 14
-
-T3 12, 13
-
-T4 11, 12, 14
-TS [UB
-
-T6 12, 13
-
-T7 1, 13
-
-T8 Il, 12, 13,
-
-Is
-
-T9 11, 12, 13
-
-b. You are asked to evaluate the performance of two classification models, M1 and M2. The
-test set you have chosen contains 26 binary attributes, labeled as A through Z. The below
-table shows the posterior probabilities obtained by applying the models to the test set.
-(Only the posterior probabilities for the positive class are shown). As this is a two-class
-problem,
-
-P(-)=1 — P(+) and P(-|A,..., Z)=1—PCHA,..., Z).
-Assume that we are mostly interested in detecting instances from the positive class:
-
-o Plot the ROC curve for both M1 and M2. (You should plot them on the same graph.)
-Which model do you think is better? Explain your reasons.
-
-o For model M1, suppose you choose the cutoff threshold to be t = 0.5. In other words,
-any test instances whose posterior probability is greater than t will be classified as a
-positive example. Compute the precision, recall, and F-measure for the model at this
-threshold value.
-
-o Repeat the analysis using the same cutoff threshold on model M2. Compare the F-
-measure results for both models. Which model is better? Are the results consistent
-with what you expect from the ROC curve?
-
-Instance | True Class +h aie Rs eae Z,
-1 + 0.73 0.61
-2 + 0.69 0.03
-3 - 0.44 0.68
-4 - 0.55 0.31
-5 + 0.67 0.45
-6 + 0.47 0.09
-7 - 0.08 0.38
-8 - 0.15 0.05
-9 + 0.45 0.01
-10 - 0.35 0.04
-
-Page 3/6
---- page 4 ---
-[20]
-
-4
-° : What is Lasso and Ridge regression? Which of these are used for feature reduction
-CO-2; SO- : : : Le
-2: (Explain with schematics?)
-BL-3 b. What is Ensemble learning? What is the difference between Bagging and Boosting
-techniques?
-c. For the below Data set build a XGBoost regressor, use learning rate=0.5 and lambda=1,
-gamma=0. Build the MO and M1 learners only.
-Years of Gap Annual
-experience Salary (in
-. 100k)
-1 N 4
-1.5 Y 4
-2.5 Y 5.5:
-3 N 7
-5 N 15
-6 N 9
-Q5 What are Kernels in support vector machines (give one example of a kernel), Why are they [20]
-CO-3; SO- used?
-3: b- For the below data set build a one split regression tree. Draw the one-split tree.
-BL-3 c- For the second split use a CV=25% for 1‘ split as a split stopping criterion, draw the 2-split
-
-tree.
-d- What will be the output prediction from the regression tree if you had an input of
-(Outlook=Rain, Temp.=High, Humidity=High, Wind=Strong)
-
-Day Outlook | Temp. Humidity | Wind Golf Players
-1 Sunny Hot High Weak 25
-2 Sunny Hot High Strong 30
-3 Overcast | Hot High Weak 46
-4 Rain Mild High Weak 45
-5 Rain Cool Normal Weak 52
-6 Rain Cool Normal Strong 23
-7 Overcast | Cool Normal Strong 43
-8 Sunny Mild High Weak 35
-9 Sunny Cool Normal Weak 38
-10 Rain Mild Normal Weak 46
-11 Sunny Mild Normal Strong 48
-12 Overcast | Mild High Strong 52
-13 Overcast | Hot Normal Weak 44
-14 Rain Mild High Strong 30
-
-fage Gl’
---- page 5 ---
-Q6 a. Mention the difference between generative and discriminative classifiers, using [20]
-
-CO-3; SO- schematics and give an example for each.
-2; b. Define what is High Bias and High Variance in classifiers. How can this be detected in our
-BL-3 model design?
-
-c. Consider the training examples shown in below table for a binary classification problem.
-
-Customer ID | Gender Car Type Shirt Size Class
-
-1 M Family Small CO
-2 M.- Sports Medium co
-3 M Sports Medium CO
-4 M Sports Large (et)
-> M Sports Extra large co
-6 M Sports Extra Large | CO
-7 F Sports Smail CO
-8 F Sports Small . Co
-9 B Sports Medium co
-10 F Luxury Large ie)
-11 M Family Large Cl
-12 M Family Extra large Cl
-13 M Family Medium Cl
-14 M Luxury Extra large Cl
-15 F Luxury Small Cl
-16 F Luxury Small Cl
-17 F Luxury Medium Ci
-18 F Luxury Medium Cl
-19 F Luxury Medium Gl
-20 F Luxury Large Cl
-
-i. Compute the Gini index for the overall collection of training examples.
-ii. | Compute the Gini index for the Customer ID attribute.
-iii. | Compute the Gini index for the Gender attribute.
-iv. | Compute the Gini index for the Car Type attribute using multiway split.
-y. Explain why Customer ID should not be used as the attribute test condition even
-though it has the lowest Gini.
-
-Q7 a. Please explain with schematics the difference between hierarchical and partitional [20]
-CO-3; SO- clustering, mention an algorithm used for each.
-
-2; b. For the below table, please perform complete linkage agglomerative clustering and
-
-BL-3 plot the dendrogram, showing the clusters for cluster size=3.
-
-Student ID | Marks
-
-1 10
-2 7
-3 28
-4 20
-5 35
-
-Foqe ce
---- page 6 ---
-c. Measure the cluster cohesion (SSE) and cluster separation (SSB) for number of
-clusters=3, also get the SSE and SSB if we only have one cluster. :
-
-d. For the below 2 dimensional feature space, please use DBSCAN to identify the
-core/border/noise points (use Euclidean distance as the distance measure).
-
-Form clusters with e=3.5 and MinPts=3
-
-SI 5 7
-S2 8 4
-$3 3 3
-S4 4 4
-$5 3 7
-S6 6 7
-S7 6 1
-$8 5 5
-
-a
-
-7 oss @ Sl © $6
-
-s © SB
-
-4 2 $4 e $2
-
-¥
-
-1 - ee
-
-°o .
-
-fase Clg
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper cdc358f8e205
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/ARTIFICIAL INTELLIGENCE/Artificial Intelligence, BTech CSBS, Sem-VI, AY Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30.04.2025
-- Text: ocr (6 pages), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-
-Program/s: B.Tech Year: III Semester: VI
-Stream/s : CSBS
-
-Subject: Artificial Intelligence Time: 3 hrs (2:00pm 40 Stoop)
-Date: 30.04.2025 No. of Pages: 5
-Marks: 100
-
-Re-Exam 2022-23
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-CO-2; a.
-SO-1, 2, ; ; : : :
-6,7; BL- Write a short note on the role of different operators used in Genetic Algorithm. | 5
-2
-CO-3; b.
-SO- 1, 6, Explain the following along with logical statements — 5
-as Tautology and Contradiction.
-BL-3
-CO- 3; c
-SO- I, 6, Solve the following crypt arithmetic problem: : 5
-a TWO+TWO = FOUR
-BL- 3
-d. A retail company wants to improve its sales strategy using machine learning.
-They have two different use cases:
-CO- 4; "I nt ee
-SO-1.5 Scenario 1: Customer Purchase Prediction: The company has historical
-6.7: ial data on customer purchases, including product categories, purchase a eSe
-BL. 2 frequency, and total spending. They want to build a model to predict whether
-a new customer will buy a particular product based on past purchase
-behaviors.
---- page 2 ---
-Scenario 2: Customer Segmentation: The company wants to group
-customers into different categories based on their purchasing patterns,
-shopping habits, and demographics. However, they do not have predefined
-labels for these categories and want the model to find patterns on its own.
-
-(i) Explain at least four differences between supervised and
-
-unsupervised learning. ‘
-(ii) Based on aforementioned scenarios, identify which machine learning
-
-approach (supervised or unsupervised) applies to each scenario?
-
-a, Explain the role of Artificial Intelligence in Educational Institute w.r.t
-
-the PEAS concept.
-b. Explain the structure of Intelligent agent and also explain Learning
-
-Q agent with the help of Block diagram.
-CO- 1, 2; c. Apply Greedy Best First Search on the Graph below and find out the
-SO- 1, 2, minimum path cost reach the destination from source.
-5, 6,75
-BL-3 S (8)
-feo
-A(6) 8(4) €(5)
-i | es
-
-p(7) (5) F(3) G(4) H(2)
-Re EG estes ae
-
-1(6) (3) K(2) L(L) M(@) <- Goal 54545
-ars)
-
-Consider the following Heuristic Values:
-§=8,A=6,B=4, C=5,D=7,8=5,F =3,G=4,H=2,1=6,J=3, b=
-
-2, L=1, M=0 (Goal)
-d. Solve the following 8 tiles problem considering the number of misplaced
-
-tiles as the heuristic. (Use A* Search)
-
-1 2 3 it 2 3
-4 6 4 5 6
-MNS) 8 7 8
-ee : (ee
-Initial State Goal State
-Q3
-CO-2, 3; a. Consider the following game tree where the leaf nodes contain utility
-SO- 1, 2, values. Apply the Alpha-Beta Pruning algorithm and determine the optimal 10+10
-6, 7; value for the root node. Clearly indicate which branches are pruned.
-BL-3
-L
---- page 3 ---
-Qu: co
-
-b. Convert the following facts into First Order Logic (FOL):
-
-1. Ifa person is a doctor or a nurse, then they work in a hospital and
-help patients.
-
-2. Ifaperson owns a pet, then they take care of it unless they are
-irresponsible.
-
-3. Ifastudent gets good grades and participates in extracurricular
-activities, they get a scholarship.
-
-4. Every cat loves fish.
-
-5. Ifa person is a father, then he is a parent.
-
-a. Can GBFS or A* be used for solving 8 puzzle problem? Explain with
-small example.
-
-Q4 :
-CO-2, 3; b. Consider the following statements to prove “Raja is angry” using
-& ‘ Resolution Graph.
-a 1,2, i 5+15
-BL-3 1. Rimi is hungry.
-
-2. If Rimi is hungry she barks.
-3. If Rimi is barking then Raja is angry.
---- page 4 ---
-a. Give some real life examples where Clustering is used.
-
-b. A logistics company wants to cluster warehouse locations based on their
-geographical coordinates to optimize delivery routes. The company has
-identified six warehouse locations as follows:
-
-Warehouse Locations (Data Points in 2D Space):
-
-Pl =(2,10)
-P2— (2:5)
-P3 = (8,4)
-a AVE P4 = (5,8)
-$0-1, 5, my 5415
-ets) 4) = .
-Ga: P6 = (6,4)
-Poe The company wants to use K-Means clustering with K.= 2 to group these
-warehouses into two clusters for efficient supply chain management. The
-Initial Centroids are Cl = (2,10) (corresponding to P1) and C2 = (5,8)
-(corresponding to P4).
-(i) Perform one iteration of the K-Means algorithm.
-(ii) Assign each warehouse to the nearest centroid using Euclidean
-- distance.
-(iii) | Update the centroids based on the new cluster assignments. After
-the first iteration, what are the updated centroids for each cluster?
-a. Write down the differences between Classification and Clustering.
-b. Considering the dataset below, construct decision tree using CART or ID3
-Algorithm. ; :
-Age Surgery Type Pre-existing Conditions Risk Category
-Q 6 2 1 (Minos) 0 (No) Low Risk
-CO-3, 4; 45 2 (Major) 1 (Yes) High Risk 5410+
-SO-1, 5, 60 2 (Major) 4 (Yes) High Risk 5
-6,7;
-BL-3 35 1 (Minor) 0 (No) Low Risk
-50 > 2 (Major) 0 (No) Low Risk
-40 1 (Minor) 1 (Yes) High Risk
-c. How does backtracking search work in CSPs? Explain with an example.
-ues 5+10+
-Q7 a. Explain different types of Expert Systems. 5
-
-4°
---- page 5 ---
-CO-3, 4; b. What are the key components of an Expert System? What are the
-
-SO-1, 5, advantages of Expert Systems?
-6, 7; c. Write down the properties of Forward Chaining and Backward Chaining.
-BL-3
---- page 6 ---
-
 ````
 
 ## 2022-23 · Re-Exam · Sem 6 · paper a256da372a28
@@ -7099,6 +6956,7 @@ Page 4 of 4
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/ARTIFICAL INTELLIGENCE/Artificial Intelligence, 3rd Year, Sem-V, Year 2022-23, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 January 2023
 - Text: ocr (3 pages), mean OCR confidence 87.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ne
@@ -7144,7 +7002,6 @@ pay - 3)Bill takes either Analysis or Geometry (but not both) [05]
 ; 4)Every student who takes Analysis also takes Geometry.
 5)Anything which has a red nose is weird or is a clown.
 & Solve the following Crypt arithmetic Problem.
-CO-3; SO- E V E R [05]
 1; BL-4 + SI N C_ E
 DA R WI é=sN
 Py so d. Differentiate between supervised and reinforcement learning [05]
@@ -7817,6 +7674,7 @@ ia)
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM X/ARTIFICIAL INTELLIGENCE/Artificial intelligence 2021-22 Final0001.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 09 April 2022
 - Text: ocr (3 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS '
@@ -7889,7 +7747,6 @@ COB; (Shown on map)
 BARD} > H(n)= The straight-Line Distance between any town and town M.
 BLS these distances are given in the table below.
 Straight Line Distance to M
-A 1B |C |D /E |F |G {H JI JI |K |L IM
 51 | 50 [32 | 28 | 42 | 14 | 33 | 43 | 50 | 32 | 41 | 56 | 0
 Provide the search tree for your solution, showing the order in which the
 nodes were expanded and cost at each node. You should not re-visit a
@@ -8030,6 +7887,7 @@ CO-4; BL-2 d. Explain any one Clustering Algorithm. [05]
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/ARTIFICAL INTELLIGENCE/Artificial Intelligence 2021-22 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 April 2022
 - Text: ocr (3 pages), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ~~ =
@@ -8103,7 +7961,6 @@ MAX { ’ é ¢ / \
 
 / \ /\ /\ ‘\ \ NN
 ae Ae ae eee ea
-Py Fy fee Pe EX EA
 @$oe¢ee6 06 ve de bee
 
 4 3 6 22 £19 § 3 15 4 7 = §
@@ -9334,6 +9191,7 @@ ao
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/ARTIFICIAL INTELLIGENCE/Artificial Intelligence , Final 2018-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 18 April 2019
 - Text: ocr (2 pages), mean OCR confidence 86.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 el SVKM’S NMIMS
@@ -9401,7 +9259,6 @@ ro 20 att -
 - 0. B 13
 - [\p. “A Se oe
 \ } \ ghd
-NN c ad a 20 | Ln D 5
 AS SL phe = io
 WES aH a} F a
 So 13 VY
@@ -9528,6 +9385,91 @@ B) Explain basic structure of Model based Reflex AI agent and give pseudo code f
 It’s implementation?
 
 2/2
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper b79c290068cb
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/ARTIFICIAL INTELLIGENCE/ARTIFICIAL_INTELLIGENCE_B TECH (COMPUTER), BATCH 2017-18 RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; exam date: 21 November 2018
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+~O
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) * Year: IV Semester, Vv
+
+Academic Year: 2018-2019 «
+
+Subject: Artificial Intelligence “ hs STN z
+Marks: 60\*) $8 A*
+i Date: 21 November 2018” Time: 2.00 }m to 5.00 pm
+Durations: 3 fhrs)
+No. of Pages: __“
+
+Re-examination (2017-18)
+
+Instructions: Candidatés should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1. (a) Describe different components of expert system using medical diagnosis system as an example. [6]
+(b) Convert following statements into first order predicate logic.
+
+(i) Every gardener likes the sun. [6]
+(ii) You can fool some of the people all of the time.
+
+(iii) All purple mushrooms are poisonous.
+
+(iv) No purple mushroom is poisonous.
+
+2. (a) Explain Alpha-Beta pruning algorithm. Why it is suitable for two player game. [6]
+(b) Describe hill climbing search algorithm. What are the problems faced by hill climbing search [6]
+algorithm.
+3. (a) What are the different types of agents. Explain any three. [6]
+(b) Explain Decision tree with example. [6]
+™ 4. (a) What is conceptual dependency? Explain the scripts with example. [6]
+ae (b) Compare and contrast BFS and DFS. Explain the search strategy develop to overcome the
+drawbacks of both. [6]
+
+Vo
+--- page 2 ---
+(a) Explain A* algorithm with suitable example.
+
+(b) Explain supervised, unsupervised and reinforcement learning with example.
+
+(a) What is natural language processing? Write applications of NLP.
+(b) Explain AND-OR graph with suitable example.
+Write short note on following:
+(i) Rote Learning.
+(ii) Difference between informed and uninformed search.
+(iii) Iterative deepening search.
+
+(iv) Difference between forward and backward chaining.
+
+6]
+[6]
+[6]
+[6]
+[12]
+
+—
 ````
 
 ## 2018-19 · Re-Exam · Sem 8 · paper 8b0236819c88
@@ -10079,6 +10021,7 @@ c. Isa and Instance relationship in FOL
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/ARTIFICIAL INTELLIGENCE/ARTIFICIAL INTILLEGENCE B TECH (COMPUTER), BATCH 17-18 RE EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 30 May 2018
 - Text: ocr (2 pages), mean OCR confidence 91.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -10160,7 +10103,6 @@ functions.
 are given in the table below.
 Straight Line Distance to M
 
-A B Cc D E F G H I J K L M
 
 5 5 3 2 4 1 3 4 5 3 4 5 0
 1 0 z 8 2 4 3 3 0 2 1 6
@@ -10180,91 +10122,6 @@ ae Q7 Write short notes on (Any 3) [3X4=12]
 a) Natural Language Processing b) Bi-directional Search
 eee c) Type of Agent Architecture d) Blackboard Learning
 Page 2 of 2
-````
-
-## 2017-18 · Re-Exam · Sem 7 · paper b79c290068cb
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/ARTIFICIAL INTELLIGENCE/ARTIFICIAL_INTELLIGENCE_B TECH (COMPUTER), BATCH 2017-18 RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; exam date: 21 November 2018
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-~O
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) * Year: IV Semester, Vv
-
-Academic Year: 2018-2019 «
-
-Subject: Artificial Intelligence “ hs STN z
-Marks: 60\*) $8 A*
-i Date: 21 November 2018” Time: 2.00 }m to 5.00 pm
-Durations: 3 fhrs)
-No. of Pages: __“
-
-Re-examination (2017-18)
-
-Instructions: Candidatés should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-1. (a) Describe different components of expert system using medical diagnosis system as an example. [6]
-(b) Convert following statements into first order predicate logic.
-
-(i) Every gardener likes the sun. [6]
-(ii) You can fool some of the people all of the time.
-
-(iii) All purple mushrooms are poisonous.
-
-(iv) No purple mushroom is poisonous.
-
-2. (a) Explain Alpha-Beta pruning algorithm. Why it is suitable for two player game. [6]
-(b) Describe hill climbing search algorithm. What are the problems faced by hill climbing search [6]
-algorithm.
-3. (a) What are the different types of agents. Explain any three. [6]
-(b) Explain Decision tree with example. [6]
-™ 4. (a) What is conceptual dependency? Explain the scripts with example. [6]
-ae (b) Compare and contrast BFS and DFS. Explain the search strategy develop to overcome the
-drawbacks of both. [6]
-
-Vo
---- page 2 ---
-(a) Explain A* algorithm with suitable example.
-
-(b) Explain supervised, unsupervised and reinforcement learning with example.
-
-(a) What is natural language processing? Write applications of NLP.
-(b) Explain AND-OR graph with suitable example.
-Write short note on following:
-(i) Rote Learning.
-(ii) Difference between informed and uninformed search.
-(iii) Iterative deepening search.
-
-(iv) Difference between forward and backward chaining.
-
-6]
-[6]
-[6]
-[6]
-[12]
-
-—
 ````
 
 ## 2016-17 · Final-Exam · Sem 8 · paper dba66a1e5b01
@@ -11976,174 +11833,4 @@ i) Natural Language Processing
 ii) Al : Next Generation Technology & Applications
 
 iii) LISP & PROLOG : Al - Programming Languages
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 02b27c6765fa
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Artificial Intelligence/Artificial Intelligence.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 88.8
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&{E
-SCHOOL OF TECHNOLOGY MANAGEMENT °
-
-Academic Year: 2023-2024
-Program/s: B Tech / MBA Tech
-Stream/s : CSBS, AI&DS, CS, E&T
-Subject: Artificial Intelligence
-
-Date:_ 19 / 04/2024
-Marks: 100 a
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed
-
-—> of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-_ 7) Assume Suitable data if necessary.
-
-Year: II/ II] Semester: [V/ VI
-
-Time: 3 hrs (2:00 to 5:00)
-Pe pe
-No. of Pages: 4
-
-on the question paper and on the cover™
-
-Ql Answer briefly:
-
-CO-1; SO- | a. Compare and contrast strong and weak AI. In what ways do they differ in [5]
-
-1; BL-4 terms of capabilities, goals, and potential implications for society?
-
-CO-3;SO- | b. Define the expert system and also write the different characteristics of expert (51
-a 6; BL-1 systems.
-
-c. | Find the optimal path using Breadth-First Search with the following
-example. Consider Initial state is 11 and the Goal state is 12. Assume we
-choose the node left of the current node first.
-
-CO- 2; SO-
-[5]
-2; BT-5,
-
-Start from here !
---- page 2 ---
-CO-3; SO- | d. | What is Propositional, Logic in artificial intelligence? Explain various
-
-1; BL-2 inference rules in Propositional Logic with suitable example. el
-Q2 a
-What is artificial Intelligence? Define its types. Also explain the
-CO-1; SO- oo [10]
-1: BL-1 components of an Artificial Intelligence system.
-; b. | Explain the steps in Min Max Algorithm. Solve the following using Min-
-Max Algorithm.
-CO-2;
-SO-2; BT- [10]
-6,
-S BS loa nwt ve MIS 1B 76
-Q3 a. Discuss the role of learning in the development of intelligent agents. How | [10]
-CO-1; SO- do agents acquire knowledge and improve their performance over time
-2; BL-2 through various learning mechanisms?
-b. | Explain Forward chaining in detail. Use the knowledge base given below to | [10]
-find the facts supporting Christena is sick, by forward chaining method.
-CO-3; SO-
-1; BL-5 If food is oily, it is good in taste and not eeu for health. If anyone eats
-unhealthy food, they fall sick. Christena loves oily food and she eats only
-what she loves. “Potato wedges” is an oily food item.
-Q4 a. Explain Hill Climbing algorithm, analyze and mention all the limitations [10]
-CO-2; SO- of Hill Climbing algorithm and State in what domains Hill Climbing is
-1;BT3 applicable.
-CO-4; SO- | b. : [10]
-1. Given a dataset consisting of the following 2D points:
-
-Ts P= (2, 4), Po= (3, 3), P3= 4, 5), Pa= (10, 8), Ps= (12, 10), Po= (9, 7)
---- page 3 ---
-Perform K-means clustering on this dataset with K = 2, and the initial’. —
-centroids are chosen as follows: /
-C,= (2, 4) (initial centroid for cluster 1, corresponding to point P,)
-
-C,= (10, 8) (initial centroid for cluster 2, corresponding to point P,)
-
-Perform one iteration of the K-means algorithm,
-
-i) Assign each point to the respective centroid based on Euclidean
-distance.
-ii) Update the centroids of the clusters after first iteration.
-L a. Explain the working of A* algorithm and apply the concept of A* [10]
-algorithm for solving the following problem.
-Q5
-CO-2; SO-
-6; BL-6
-Le
-
-CO-3; SO- |b. | What is the constraint satisfaction problem? Explain its component types. | [10]
-
-1; BL-2 Show its application in map coloring:
-
-06 a. Define Crypt Arithmetic Problem with rules and constraints. Solve the [10]
-
-following problems using crypt arithmetic:
---- page 4 ---
-i
-
-CO-3; SO-
-
-1. Find the value of A+B+C+D+E+F+G, given equation: FR
-
-6; BL-6 EE+ BIRD=CAGE
-2. Find the valueof W+I1+N+T+E+Rifi WINTER + SUM
-MER = AUTUMN
-3. Find the value of all the letter of BASE+BALL=GAMES
-
-CO-3; SO- Identify role of knowledge based management system in the AI based [10]
-1; BL-3 expert system with the help of an example.
-Q7 [10]
-C0-3; $0- What is resolution? Examine the application of resolution to prove the
-6: BL-4 validity of a logical argument with the help of an example.
-
-Suppose our entire population has a total of 30 instances. The dataset is to | [10]
-
-predict whether the person will go to the gym or not. Let’s say 16 people go
-
-to the gym and 14 people don’t. “Motivation” which takes 3 values “No
-
-motivation”, “Neutral” and“Highly motivated”.
-
-Feature-2 > Motivation
-alti QO will gotogym
-a ik vor not go to
-we
-w vey
-
-CO-4; SO-
-7; BL-6
-
-(i) Calculate E(Parent)
-
-(ii) Calculate E(Parent|Motivation = "NoMotivation")
-(iii) Calculate E(Parent|Motivation = "Neutral")
-
-(iv) Calculate E(Parent|Motivation = "HighlyMotivated")
-(v) Calculate E(Parent|Motivation)
-
-(vi) Calculate Information Gain
-
-y
 ````

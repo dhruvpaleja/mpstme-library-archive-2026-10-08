@@ -1,6 +1,6 @@
 # PYQs by subject
 
-All **25,064** question-paper files in the archive (`02_Question_Papers/`, 19,168 unique) sorted into **1,126 subjects**. Spelling variants of one subject are merged, e.g. `APPLIED MATHEMATICES II` and `Applied Mathematics II`. Each folder below has a README listing every paper for that subject by year, exam, semester and programme.
+All **25,064** question-paper files in the archive (`02_Question_Papers/`, 19,168 unique) sorted into **1,123 subjects**. Spelling variants of one subject are merged, e.g. `APPLIED MATHEMATICES II` and `Applied Mathematics II`. Each folder below has a README listing every paper for that subject by year, exam, semester and programme.
 
 The PDFs themselves stay in the private release (18.6 GiB; too large for git). To get a subject's papers on your machine, sorted into folders:
 
@@ -40,7 +40,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Advanced Business Analytics in Python and R](Advanced%20Business%20Analytics%20in%20Python%20and%20R/README.md) | 1 | 1 | 2024-25 | 1 |
 | [Advanced Business Communication](Advanced%20Business%20Communication/README.md) | 9 | 9 | 2013-14 to 2016-17 | 1 |
 | [Advanced Chemistry](Advanced%20Chemistry/README.md) | 1 | 1 | 2019-20 | 1 |
-| [Advanced Communication Networks](Advanced%20Communication%20Networks/README.md) | 6 | 6 | 2013-14 to 2016-17 | 1 |
+| [Advanced Communication Networks](Advanced%20Communication%20Networks/README.md) | 7 | 7 | 2013-14 to 2016-17 | 1 |
 | [Advanced Computer Networks](Advanced%20Computer%20Networks/README.md) | 26 | 25 | 2006-07 to 2018-19 | 3 |
 | [Advanced Computer Vision](Advanced%20Computer%20Vision/README.md) | 5 | 5 | 2019-20 to 2024-25 | 2 |
 | [Advanced Construction Techniques](Advanced%20Construction%20Techniques/README.md) | 7 | 5 | 2017-18 to 2021-22 | 3 |
@@ -53,7 +53,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Advanced Economics](Advanced%20Economics/README.md) | 2 | 1 | 2007-08 | 2 |
 | [Advanced Embedded Systems](Advanced%20Embedded%20Systems/README.md) | 3 | 3 | 2014-15 to 2016-17 | 1 |
 | [Advanced Geotechnical Engineering](Advanced%20Geotechnical%20Engineering/README.md) | 6 | 4 | 2021-22 to 2023-24 | 3 |
-| [Advanced Image Processing](Advanced%20Image%20Processing/README.md) | 24 | 24 | 2007-08 to 2018-19 | 3 |
+| [Advanced Image Processing](Advanced%20Image%20Processing/README.md) | 23 | 23 | 2007-08 to 2018-19 | 3 |
 | [Advanced Java](Advanced%20Java/README.md) | 36 | 35 | 2008-09 to 2025-26 | 2 |
 | [Advanced Mathematics II](Advanced%20Mathematics%20II/README.md) | 24 | 6 | 2010-11 to 2012-13 | 5 |
 | [Advanced Medical Electronics](Advanced%20Medical%20Electronics/README.md) | 4 | 4 | 2010-11 to 2012-13 | 1 |
@@ -65,7 +65,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Advanced Statistical Analysis](Advanced%20Statistical%20Analysis/README.md) | 25 | 9 | 2007-08 to 2012-13 | 3 |
 | [Advanced Statistical Learning](Advanced%20Statistical%20Learning/README.md) | 9 | 9 | 2017-18 to 2023-24 | 2 |
 | [Advanced Statistics](Advanced%20Statistics/README.md) | 3 | 3 | 2022-23 to 2023-24 | 1 |
-| [Advanced Structural Analysis](Advanced%20Structural%20Analysis/README.md) | 13 | 12 | 2013-14 to 2019-20 | 2 |
+| [Advanced Structural Analysis](Advanced%20Structural%20Analysis/README.md) | 12 | 11 | 2013-14 to 2019-20 | 2 |
 | [Advanced Structural Mechanics](Advanced%20Structural%20Mechanics/README.md) | 2 | 2 | 2013-14 | 1 |
 | [Advanced Supply Chain Analytics](Advanced%20Supply%20Chain%20Analytics/README.md) | 3 | 3 | 2017-18 to 2018-19 | 1 |
 | [Advanced Surveying](Advanced%20Surveying/README.md) | 2 | 2 | 2013-14 | 1 |
@@ -94,7 +94,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Analog Integrated Circuits and Applications](Analog%20Integrated%20Circuits%20and%20Applications/README.md) | 52 | 48 | 2010-11 to 2018-19 | 5 |
 | [Analysing Unstructured Data](Analysing%20Unstructured%20Data/README.md) | 16 | 16 | 2024-25 to 2025-26 | 6 |
 | [Analysis of Structures](Analysis%20of%20Structures/README.md) | 19 | 17 | 2012-13 to 2022-23 | 2 |
-| [Analysis of Transportation System](Analysis%20of%20Transportation%20System/README.md) | 6 | 6 | 2015-16 to 2022 | 2 |
+| [Analysis of Transportation System](Analysis%20of%20Transportation%20System/README.md) | 7 | 7 | 2015-16 to 2022 | 2 |
 | [Analytics for Strategic Marketing Decisions](Analytics%20for%20Strategic%20Marketing%20Decisions/README.md) | 21 | 21 | 2019-20 to 2025-26 | 6 |
 | [Analytics in Operations and Supply Chain Management](Analytics%20in%20Operations%20and%20Supply%20Chain%20Management/README.md) | 28 | 27 | 2017-18 to 2025-26 | 8 |
 | [Android Application Development](Android%20Application%20Development/README.md) | 1 | 1 | 2021-22 | 1 |
@@ -115,7 +115,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Applied Mathematics I](Applied%20Mathematics%20I/README.md) | 51 | 47 | 2004-05 to 2013-14 | 3 |
 | [Applied Mathematics II](Applied%20Mathematics%20II/README.md) | 58 | 47 | 2004-05 to 2017-18 | 3 |
 | [Applied Mathematics III](Applied%20Mathematics%20III/README.md) | 31 | 27 | 2004-05 to 2019-20 | 2 |
-| [Applied Mathematics IV](Applied%20Mathematics%20IV/README.md) | 1 | 1 | 2019-20 | 1 |
+| [Applied Mathematics IV](Applied%20Mathematics%20IV/README.md) | 2 | 2 | 2012-13 to 2019-20 | 2 |
 | [Applied Physics I](Applied%20Physics%20I/README.md) | 71 | 57 | 2004-05 to 2025-26 | 7 |
 | [Applied Physics II](Applied%20Physics%20II/README.md) | 47 | 41 | 2004-05 to 2025-26 | 5 |
 | [Applied Satellite Communication](Applied%20Satellite%20Communication/README.md) | 13 | 12 | 2006-07 to 2016-17 | 1 |
@@ -123,7 +123,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Applied Statistics and Time Series Forecasting](Applied%20Statistics%20and%20Time%20Series%20Forecasting/README.md) | 2 | 2 | 2024 to 2025-26 | 1 |
 | [Applied Thermodynamics](Applied%20Thermodynamics/README.md) | 38 | 33 | 2011-12 to 2025-26 | 5 |
 | [Applied Time Series Analysis](Applied%20Time%20Series%20Analysis/README.md) | 29 | 19 | 2022 to 2025-26 | 9 |
-| [Artificial Intelligence](Artificial%20Intelligence/README.md) | 138 | 114 | 2006-07 to 2025-26 | 28 |
+| [Artificial Intelligence](Artificial%20Intelligence/README.md) | 137 | 113 | 2006-07 to 2025-26 | 28 |
 | [Artificial Intelligence - Deep Learning and Generative AI](Artificial%20Intelligence%20-%20Deep%20Learning%20and%20Generative%20AI/README.md) | 5 | 5 | 2024-25 to 2025-26 | 2 |
 | [Artificial Intelligence and Machine Learning](Artificial%20Intelligence%20and%20Machine%20Learning/README.md) | 19 | 19 | 2022-23 to 2025-26 | 4 |
 | [Artificial Intelligence and Robotics](Artificial%20Intelligence%20and%20Robotics/README.md) | 3 | 2 | 2021-22 | 2 |
@@ -136,17 +136,17 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Automotive Electronics](Automotive%20Electronics/README.md) | 1 | 1 | 2022-23 | 1 |
 | [Automotive Engineering](Automotive%20Engineering/README.md) | 21 | 21 | 2013-14 to 2025-26 | 5 |
 | [Autonomous Navigation of Electric Vehicles](Autonomous%20Navigation%20of%20Electric%20Vehicles/README.md) | 8 | 4 | 2022-23 to 2024-25 | 3 |
-| [B2B Marketing](B2B%20Marketing/README.md) | 56 | 56 | 2013-14 to 2025-26 | 8 |
+| [B2B Marketing](B2B%20Marketing/README.md) | 40 | 40 | 2013-14 to 2025-26 | 8 |
 | [Basic Control Systems](Basic%20Control%20Systems/README.md) | 34 | 31 | 2013-14 to 2019-20 | 4 |
 | [Basic Data Structures](Basic%20Data%20Structures/README.md) | 31 | 25 | 2022 to 2025-26 | 6 |
 | [Basic Decision Making with Spreadsheet](Basic%20Decision%20Making%20with%20Spreadsheet/README.md) | 51 | 33 | 2022-23 to 2025-26 | 9 |
 | [Basic Electrical and Electronics Engineering](Basic%20Electrical%20and%20Electronics%20Engineering/README.md) | 158 | 134 | 2021-22 to 2025-26 | 20 |
 | [Basic Electrical Engineering](Basic%20Electrical%20Engineering/README.md) | 103 | 90 | 2004-05 to 2025-26 | 2 |
-| [Basic Electronics](Basic%20Electronics/README.md) | 137 | 109 | 2004-05 to 2024-25 | 4 |
+| [Basic Electronics](Basic%20Electronics/README.md) | 136 | 107 | 2004-05 to 2024-25 | 4 |
 | [Basic Engineering Drawing I](Basic%20Engineering%20Drawing%20I/README.md) | 1 | 1 | 2014-15 | 1 |
 | [Basic Manufacturing Processes](Basic%20Manufacturing%20Processes/README.md) | 2 | 2 | 2025-26 | 1 |
 | [Basic Marketing](Basic%20Marketing/README.md) | 1 | 1 | 2019-20 | 1 |
-| [Basic of Engineering Chemistry](Basic%20of%20Engineering%20Chemistry/README.md) | 5 | 4 | 2021-22 to 2023-24 | 2 |
+| [Basic of Engineering Chemistry](Basic%20of%20Engineering%20Chemistry/README.md) | 4 | 3 | 2021-22 to 2023-24 | 2 |
 | [Basic Thermodynamics](Basic%20Thermodynamics/README.md) | 12 | 12 | 2021-22 to 2025-26 | 3 |
 | [Basic Web Programming](Basic%20Web%20Programming/README.md) | 3 | 3 | 2010-11 to 2011-12 | 1 |
 | [Basics of Machine Drawing](Basics%20of%20Machine%20Drawing/README.md) | 4 | 4 | 2021-22 to 2024-25 | 1 |
@@ -183,13 +183,13 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Business Analytics](Business%20Analytics/README.md) | 68 | 68 | 2010-11 to 2025-26 | 8 |
 | [Business Analytics for Decision Making](Business%20Analytics%20for%20Decision%20Making/README.md) | 2 | 2 | 2018-19 | 1 |
 | [Business Calculus](Business%20Calculus/README.md) | 11 | 11 | 2022-23 to 2024-25 | 2 |
-| [Business Communication](Business%20Communication/README.md) | 78 | 34 | 2007-08 to 2018-19 | 8 |
+| [Business Communication](Business%20Communication/README.md) | 75 | 32 | 2007-08 to 2018-19 | 8 |
 | [Business Communication and Value Science I](Business%20Communication%20and%20Value%20Science%20I/README.md) | 9 | 9 | 2019-20 to 2024-25 | 2 |
 | [Business Communication and Value Science II](Business%20Communication%20and%20Value%20Science%20II/README.md) | 7 | 7 | 2022-23 to 2024-25 | 2 |
 | [Business Communication and Value Science III](Business%20Communication%20and%20Value%20Science%20III/README.md) | 4 | 4 | 2021-22 to 2023-24 | 1 |
 | [Business Communications I](Business%20Communications%20I/README.md) | 6 | 4 | 2011-12 to 2012-13 | 2 |
-| [Business Communications III](Business%20Communications%20III/README.md) | 9 | 5 | 2009-10 to 2011-12 | 4 |
-| [Business Economics](Business%20Economics/README.md) | 54 | 29 | 2006-07 to 2019-20 | 7 |
+| [Business Communications III](Business%20Communications%20III/README.md) | 10 | 6 | 2008-09 to 2011-12 | 4 |
+| [Business Economics](Business%20Economics/README.md) | 55 | 29 | 2006-07 to 2019-20 | 7 |
 | [Business Information Visualization and Analysis](Business%20Information%20Visualization%20and%20Analysis/README.md) | 14 | 9 | 2022-23 to 2024-25 | 4 |
 | [Business Intelligence and Analytics](Business%20Intelligence%20and%20Analytics/README.md) | 6 | 5 | 2025-26 | 2 |
 | [Business Model in Infrastructure Management](Business%20Model%20in%20Infrastructure%20Management/README.md) | 2 | 2 | 2016-17 to 2017-18 | 1 |
@@ -209,7 +209,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Capital Market and Real Estate](Capital%20Market%20and%20Real%20Estate/README.md) | 2 | 2 | 2017-18 to 2018-19 | 1 |
 | [Cases in Internet of Things Management](Cases%20in%20Internet%20of%20Things%20Management/README.md) | 3 | 3 | 2015-16 to 2016-17 | 1 |
 | [Catalytic Science and Engineering](Catalytic%20Science%20and%20Engineering/README.md) | 1 | 1 | 2022-23 | 1 |
-| [Chemical Engineering Thermodynamics](Chemical%20Engineering%20Thermodynamics/README.md) | 24 | 23 | 2005-06 to 2019-20 | 1 |
+| [Chemical Engineering Thermodynamics](Chemical%20Engineering%20Thermodynamics/README.md) | 23 | 22 | 2005-06 to 2019-20 | 1 |
 | [Chemical Process](Chemical%20Process/README.md) | 12 | 12 | 2006-07 to 2012-13 | 1 |
 | [Chemical Process II](Chemical%20Process%20II/README.md) | 19 | 19 | 2007-08 to 2018-19 | 1 |
 | [Chemical Processes I](Chemical%20Processes%20I/README.md) | 11 | 11 | 2014-15 to 2019-20 | 1 |
@@ -228,11 +228,11 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Cloud Security](Cloud%20Security/README.md) | 8 | 8 | 2022-23 to 2025-26 | 2 |
 | [Cloud Technology](Cloud%20Technology/README.md) | 4 | 4 | 2022-23 to 2023-24 | 1 |
 | [Cognitive Science and Analytics](Cognitive%20Science%20and%20Analytics/README.md) | 14 | 14 | 2022-23 to 2025-26 | 2 |
-| [Communication Skills](Communication%20Skills/README.md) | 80 | 72 | 2007-08 to 2024-25 | 4 |
+| [Communication Skills](Communication%20Skills/README.md) | 82 | 75 | 2006-07 to 2024-25 | 4 |
 | [Communication Skills I](Communication%20Skills%20I/README.md) | 4 | 4 | 2024-25 | 1 |
 | [Communication Skills II](Communication%20Skills%20II/README.md) | 11 | 10 | 2021-22 to 2024-25 | 2 |
 | [Communication Systems](Communication%20Systems/README.md) | 22 | 15 | 2005-06 to 2018-19 | 4 |
-| [Communication Techniques](Communication%20Techniques/README.md) | 12 | 12 | 2005-06 to 2012-13 | 1 |
+| [Communication Techniques](Communication%20Techniques/README.md) | 14 | 12 | 2005-06 to 2012-13 | 2 |
 | [Communication Technology for IoT](Communication%20Technology%20for%20IoT/README.md) | 2 | 2 | 2022-23 to 2023-24 | 1 |
 | [Communication Theory and Systems](Communication%20Theory%20and%20Systems/README.md) | 17 | 12 | 2021-22 to 2025-26 | 3 |
 | [Compiler Construction](Compiler%20Construction/README.md) | 2 | 1 | 2018-19 | 1 |
@@ -390,8 +390,8 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Distributed System](Distributed%20System/README.md) | 28 | 23 | 2006-07 to 2018-19 | 3 |
 | [Docks and Harbour Engineering](Docks%20and%20Harbour%20Engineering/README.md) | 9 | 5 | 2023-24 to 2024-25 | 3 |
 | [Drone Technology](Drone%20Technology/README.md) | 56 | 50 | 2022-23 to 2025-26 | 20 |
-| [Dynamic System Modeling and Analysis](Dynamic%20System%20Modeling%20and%20Analysis/README.md) | 7 | 6 | 2017-18 to 2022-23 | 2 |
-| [Dynamic Systems Analysis](Dynamic%20Systems%20Analysis/README.md) | 3 | 3 | 2023-24 to 2025-26 | 2 |
+| [Dynamic System Modeling and Analysis](Dynamic%20System%20Modeling%20and%20Analysis/README.md) | 6 | 5 | 2017-18 to 2021-22 | 2 |
+| [Dynamic Systems Analysis](Dynamic%20Systems%20Analysis/README.md) | 4 | 4 | 2022-23 to 2025-26 | 2 |
 | [Dynamic Systems Modeling](Dynamic%20Systems%20Modeling/README.md) | 14 | 14 | 2022-23 to 2025-26 | 2 |
 | [Dynamics of Machinery](Dynamics%20of%20Machinery/README.md) | 3 | 3 | 2021-22 | 1 |
 | [E-Business](E-Business/README.md) | 32 | 11 | 2007-08 to 2012-13 | 3 |
@@ -403,11 +403,10 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Edge Computing](Edge%20Computing/README.md) | 3 | 3 | 2024-25 to 2025-26 | 2 |
 | [Electric and Hybrid Automotive Technology](Electric%20and%20Hybrid%20Automotive%20Technology/README.md) | 20 | 15 | 2022 to 2025-26 | 7 |
 | [Electric and Hybrid Electric Vehicle Technology](Electric%20and%20Hybrid%20Electric%20Vehicle%20Technology/README.md) | 3 | 3 | 2018-19 to 2019-20 | 1 |
-| [Electrical Drive](Electrical%20Drive/README.md) | 1 | 1 | 2018-19 | 1 |
-| [Electrical Drives and Traction](Electrical%20Drives%20and%20Traction/README.md) | 2 | 2 | 2017-18 to 2018-19 | 1 |
+| [Electrical Drives and Traction](Electrical%20Drives%20and%20Traction/README.md) | 3 | 3 | 2017-18 to 2018-19 | 2 |
 | [Electrical Machine II](Electrical%20Machine%20II/README.md) | 4 | 3 | 2017-18 to 2019-20 | 2 |
 | [Electrical Machines I](Electrical%20Machines%20I/README.md) | 5 | 5 | 2016-17 to 2017-18 | 2 |
-| [Electrical Network Analysis and Synthesis](Electrical%20Network%20Analysis%20and%20Synthesis/README.md) | 38 | 37 | 2010-11 to 2018-19 | 2 |
+| [Electrical Network Analysis and Synthesis](Electrical%20Network%20Analysis%20and%20Synthesis/README.md) | 39 | 38 | 2010-11 to 2018-19 | 2 |
 | [Electrical Power](Electrical%20Power/README.md) | 2 | 2 | 2018-19 | 1 |
 | [Electrical Power I](Electrical%20Power%20I/README.md) | 4 | 4 | 2017-18 to 2019-20 | 1 |
 | [Electrical System Design](Electrical%20System%20Design/README.md) | 2 | 2 | 2018-19 to 2019-20 | 1 |
@@ -416,16 +415,16 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Electromagnetic Wave Theory](Electromagnetic%20Wave%20Theory/README.md) | 9 | 8 | 2021-22 to 2024-25 | 2 |
 | [Electronic Circuit Analysis and Design](Electronic%20Circuit%20Analysis%20and%20Design/README.md) | 25 | 23 | 2010-11 to 2018-19 | 1 |
 | [Electronic Circuit Analysis and Design I](Electronic%20Circuit%20Analysis%20and%20Design%20I/README.md) | 4 | 4 | 2016-17 to 2018-19 | 1 |
-| [Electronic Circuit Analysis and Design II](Electronic%20Circuit%20Analysis%20and%20Design%20II/README.md) | 4 | 4 | 2016-17 to 2018-19 | 1 |
-| [Electronic Circuit and Design](Electronic%20Circuit%20and%20Design/README.md) | 20 | 20 | 2013-14 to 2018-19 | 1 |
+| [Electronic Circuit Analysis and Design II](Electronic%20Circuit%20Analysis%20and%20Design%20II/README.md) | 3 | 3 | 2016-17 to 2018-19 | 1 |
+| [Electronic Circuit and Design](Electronic%20Circuit%20and%20Design/README.md) | 19 | 19 | 2013-14 to 2018-19 | 1 |
 | [Electronic Commerce](Electronic%20Commerce/README.md) | 14 | 14 | 2013-14 to 2019-20 | 2 |
 | [Electronic Devices](Electronic%20Devices/README.md) | 3 | 2 | 2019-20 | 3 |
-| [Electronic Devices and Circuits](Electronic%20Devices%20and%20Circuits/README.md) | 28 | 25 | 2014-15 to 2024-25 | 2 |
-| [Electronic Instrumentation](Electronic%20Instrumentation/README.md) | 5 | 5 | 2016-17 to 2018-19 | 1 |
+| [Electronic Devices and Circuits](Electronic%20Devices%20and%20Circuits/README.md) | 27 | 24 | 2014-15 to 2024-25 | 2 |
+| [Electronic Instrumentation](Electronic%20Instrumentation/README.md) | 6 | 5 | 2016-17 to 2018-19 | 1 |
 | [Electronic Instrumentation and Control](Electronic%20Instrumentation%20and%20Control/README.md) | 3 | 3 | 2013-14 | 1 |
 | [Electronic Materials and Components](Electronic%20Materials%20and%20Components/README.md) | 19 | 12 | 2015-16 to 2019-20 | 2 |
 | [Electronic Power II](Electronic%20Power%20II/README.md) | 2 | 2 | 2017-18 to 2018-19 | 1 |
-| [Electronic Systems](Electronic%20Systems/README.md) | 13 | 13 | 2022-23 to 2025-26 | 2 |
+| [Electronic Systems](Electronic%20Systems/README.md) | 14 | 14 | 2022-23 to 2025-26 | 2 |
 | [Electronics in Defence Systems](Electronics%20in%20Defence%20Systems/README.md) | 1 | 1 | 2015-16 | 1 |
 | [Electronics Simulation and Modeling](Electronics%20Simulation%20and%20Modeling/README.md) | 1 | 1 | 2010-11 | 1 |
 | [Elementary Algebra, Probability and Statistics](Elementary%20Algebra%2C%20Probability%20and%20Statistics/README.md) | 4 | 2 | 2021-22 | 2 |
@@ -449,13 +448,13 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Engineering Drawing](Engineering%20Drawing/README.md) | 21 | 21 | 2004-05 to 2024-25 | 4 |
 | [Engineering Economics and Accounting](Engineering%20Economics%20and%20Accounting/README.md) | 11 | 11 | 2013-14 to 2018-19 | 1 |
 | [Engineering Economics, Costing and Accounting](Engineering%20Economics%2C%20Costing%20and%20Accounting/README.md) | 3 | 3 | 2018-19 to 2022-23 | 1 |
-| [Engineering Geology](Engineering%20Geology/README.md) | 36 | 32 | 2013-14 to 2018-19 | 3 |
+| [Engineering Geology](Engineering%20Geology/README.md) | 35 | 31 | 2013-14 to 2018-19 | 3 |
 | [Engineering Graphics](Engineering%20Graphics/README.md) | 3 | 3 | 2022-23 to 2024-25 | 1 |
 | [Engineering Graphics and Design](Engineering%20Graphics%20and%20Design/README.md) | 8 | 6 | 2022-23 to 2024-25 | 2 |
 | [Engineering Mathematics I](Engineering%20Mathematics%20I/README.md) | 47 | 46 | 2013-14 to 2020-21 | 2 |
-| [Engineering Mathematics II](Engineering%20Mathematics%20II/README.md) | 37 | 33 | 2013-14 to 2018-19 | 2 |
+| [Engineering Mathematics II](Engineering%20Mathematics%20II/README.md) | 39 | 35 | 2013-14 to 2018-19 | 3 |
 | [Engineering Mathematics III](Engineering%20Mathematics%20III/README.md) | 188 | 59 | 2013-14 to 2019-20 | 16 |
-| [Engineering Mathematics IV](Engineering%20Mathematics%20IV/README.md) | 123 | 40 | 2010-11 to 2022-23 | 12 |
+| [Engineering Mathematics IV](Engineering%20Mathematics%20IV/README.md) | 122 | 39 | 2010-11 to 2022-23 | 12 |
 | [Engineering Mechanics](Engineering%20Mechanics/README.md) | 180 | 123 | 2004-05 to 2025-26 | 17 |
 | [Engineering Mechanics I](Engineering%20Mechanics%20I/README.md) | 39 | 39 | 2013-14 to 2017-18 | 2 |
 | [Engineering Mechanics II](Engineering%20Mechanics%20II/README.md) | 34 | 31 | 2013-14 to 2017-18 | 2 |
@@ -469,10 +468,10 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Enterprise System](Enterprise%20System/README.md) | 4 | 4 | 2022-23 to 2024-25 | 1 |
 | [Entrepreneurship Development](Entrepreneurship%20Development/README.md) | 5 | 5 | 2016-17 to 2019-20 | 1 |
 | [Entrepreneurship Development and Startups](Entrepreneurship%20Development%20and%20Startups/README.md) | 8 | 8 | 2025-26 | 4 |
-| [Entrepreneurship Management](Entrepreneurship%20Management/README.md) | 13 | 13 | 2008-09 to 2015-16 | 1 |
+| [Entrepreneurship Management](Entrepreneurship%20Management/README.md) | 12 | 12 | 2008-09 to 2015-16 | 1 |
 | [Environment Management](Environment%20Management/README.md) | 114 | 60 | 2008-09 to 2025-26 | 33 |
 | [Environmental Engineening and Management](Environmental%20Engineening%20and%20Management/README.md) | 5 | 5 | 2011-12 to 2012-13 | 1 |
-| [Environmental Engineering](Environmental%20Engineering/README.md) | 34 | 28 | 2007-08 to 2022-23 | 4 |
+| [Environmental Engineering](Environmental%20Engineering/README.md) | 35 | 28 | 2007-08 to 2022-23 | 4 |
 | [Environmental Engineering and Management Systems](Environmental%20Engineering%20and%20Management%20Systems/README.md) | 15 | 14 | 2013-14 to 2019-20 | 2 |
 | [Environmental Engineering I](Environmental%20Engineering%20I/README.md) | 22 | 20 | 2011-12 to 2019-20 | 2 |
 | [Environmental Engineering II](Environmental%20Engineering%20II/README.md) | 25 | 20 | 2014-15 to 2018-19 | 2 |
@@ -490,15 +489,15 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Finance Analytics](Finance%20Analytics/README.md) | 8 | 8 | 2015-16 to 2023-24 | 1 |
 | [Financial Accounting](Financial%20Accounting/README.md) | 62 | 41 | 2009-10 to 2019-20 | 6 |
 | [Financial Accounting and Analysis](Financial%20Accounting%20and%20Analysis/README.md) | 16 | 13 | 2025-26 | 5 |
-| [Financial Analysis and Accounting](Financial%20Analysis%20and%20Accounting/README.md) | 59 | 28 | 2007-08 to 2024-25 | 5 |
+| [Financial Analysis and Accounting](Financial%20Analysis%20and%20Accounting/README.md) | 57 | 27 | 2008-09 to 2024-25 | 5 |
 | [Financial Analysis and Working Capital Management](Financial%20Analysis%20and%20Working%20Capital%20Management/README.md) | 19 | 18 | 2015-16 to 2023-24 | 1 |
 | [Financial Analytics](Financial%20Analytics/README.md) | 3 | 3 | 2017-18 to 2018-19 | 1 |
 | [Financial Analytics using Time Series and LSTM](Financial%20Analytics%20using%20Time%20Series%20and%20LSTM/README.md) | 4 | 4 | 2019-20 to 2024-25 | 1 |
 | [Financial and Cost Accounting](Financial%20and%20Cost%20Accounting/README.md) | 12 | 11 | 2021-22 to 2025-26 | 2 |
-| [Financial Derivatives](Financial%20Derivatives/README.md) | 83 | 68 | 2022-23 to 2025-26 | 20 |
+| [Financial Derivatives](Financial%20Derivatives/README.md) | 82 | 67 | 2022-23 to 2025-26 | 20 |
 | [Financial Engineering](Financial%20Engineering/README.md) | 39 | 39 | 2008-09 to 2025-26 | 7 |
 | [Financial Institutions and Markets](Financial%20Institutions%20and%20Markets/README.md) | 20 | 19 | 2008-09 to 2021-22 | 3 |
-| [Financial Institutions, Markets, Instruments and Services](Financial%20Institutions%2C%20Markets%2C%20Instruments%20and%20Services/README.md) | 88 | 54 | 2021-22 to 2025-26 | 26 |
+| [Financial Institutions, Markets, Instruments and Services](Financial%20Institutions%2C%20Markets%2C%20Instruments%20and%20Services/README.md) | 89 | 54 | 2021-22 to 2025-26 | 26 |
 | [Financial Management](Financial%20Management/README.md) | 125 | 102 | 2008-09 to 2025-26 | 16 |
 | [Financial Markets and Risk Analytics](Financial%20Markets%20and%20Risk%20Analytics/README.md) | 7 | 4 | 2022-23 to 2023-24 | 2 |
 | [Financial Planning and Portfolio Management](Financial%20Planning%20and%20Portfolio%20Management/README.md) | 44 | 43 | 2015-16 to 2025-26 | 8 |
@@ -567,7 +566,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Graph Theory and Applications](Graph%20Theory%20and%20Applications/README.md) | 10 | 5 | 2022-23 to 2023-24 | 2 |
 | [Graphology for Personal Development](Graphology%20for%20Personal%20Development/README.md) | 17 | 4 | 2022-23 to 2023-24 | 13 |
 | [Green and Intelligent Buildings](Green%20and%20Intelligent%20Buildings/README.md) | 20 | 18 | 2014-15 to 2025-26 | 3 |
-| [Happiness at Work](Happiness%20at%20Work/README.md) | 41 | 18 | 2023-24 to 2025-26 | 16 |
+| [Happiness at Work](Happiness%20at%20Work/README.md) | 40 | 17 | 2023-24 to 2025-26 | 16 |
 | [Heat Transfer](Heat%20Transfer/README.md) | 68 | 59 | 2013-14 to 2025-26 | 5 |
 | [Heat Transfer Operations](Heat%20Transfer%20Operations/README.md) | 26 | 26 | 2005-06 to 2019-20 | 1 |
 | [High Performance Computing](High%20Performance%20Computing/README.md) | 1 | 1 | 2017-18 | 1 |
@@ -607,7 +606,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Industrial Engineering and Quality Management](Industrial%20Engineering%20and%20Quality%20Management/README.md) | 2 | 2 | 2022-23 | 1 |
 | [Industrial IoT](Industrial%20IoT/README.md) | 17 | 4 | 2022-23 to 2023-24 | 13 |
 | [Industrial IoT Markets and Project Planning](Industrial%20IoT%20Markets%20and%20Project%20Planning/README.md) | 9 | 5 | 2021-22 to 2022-23 | 2 |
-| [Industrial Marketing](Industrial%20Marketing/README.md) | 21 | 10 | 2007-08 to 2012-13 | 3 |
+| [Industrial Marketing](Industrial%20Marketing/README.md) | 35 | 25 | 2007-08 to 2018-19 | 4 |
 | [Industrial Psychology](Industrial%20Psychology/README.md) | 3 | 3 | 2022-23 to 2024-25 | 1 |
 | [Industrial Relations and Peace](Industrial%20Relations%20and%20Peace/README.md) | 10 | 6 | 2022-23 to 2025-26 | 3 |
 | [Industrial Relations and Peace Studies](Industrial%20Relations%20and%20Peace%20Studies/README.md) | 26 | 26 | 2025-26 | 13 |
@@ -621,7 +620,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Information Security](Information%20Security/README.md) | 59 | 58 | 2008-09 to 2025-26 | 8 |
 | [Information Security and Privacy](Information%20Security%20and%20Privacy/README.md) | 27 | 16 | 2022-23 to 2025-26 | 6 |
 | [Information Security Assistance and Forensics](Information%20Security%20Assistance%20and%20Forensics/README.md) | 7 | 7 | 2013-14 to 2018-19 | 1 |
-| [Information Storage and Management](Information%20Storage%20and%20Management/README.md) | 26 | 24 | 2012-13 to 2019-20 | 7 |
+| [Information Storage and Management](Information%20Storage%20and%20Management/README.md) | 24 | 23 | 2012-13 to 2019-20 | 7 |
 | [Information System for Managers](Information%20System%20for%20Managers/README.md) | 34 | 16 | 2007-08 to 2014-15 | 5 |
 | [Information System Management](Information%20System%20Management/README.md) | 53 | 52 | 2012-13 to 2025-26 | 9 |
 | [Information Systems](Information%20Systems/README.md) | 2 | 2 | 2007-08 to 2008-09 | 1 |
@@ -676,7 +675,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Introduction to IoT](Introduction%20to%20IoT/README.md) | 3 | 3 | 2022 to 2022-23 | 2 |
 | [Introduction to IT Infrastructure Landscape](Introduction%20to%20IT%20Infrastructure%20Landscape/README.md) | 7 | 7 | 2023-24 to 2024-25 | 2 |
 | [Introduction to Linux](Introduction%20to%20Linux/README.md) | 1 | 1 | 2023-24 | 1 |
-| [Introduction to Modern Application Development](Introduction%20to%20Modern%20Application%20Development/README.md) | 15 | 10 | 2022-23 to 2025-26 | 3 |
+| [Introduction to Modern Application Development](Introduction%20to%20Modern%20Application%20Development/README.md) | 14 | 9 | 2022-23 to 2025-26 | 3 |
 | [Introduction to Network Security](Introduction%20to%20Network%20Security/README.md) | 4 | 4 | 2022 to 2022-23 | 1 |
 | [Introduction to Operating Systems](Introduction%20to%20Operating%20Systems/README.md) | 9 | 9 | 2025-26 | 4 |
 | [Introduction to Optimization Techniques](Introduction%20to%20Optimization%20Techniques/README.md) | 2 | 2 | 2025-26 | 1 |
@@ -720,7 +719,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Logic Design and Computer Organization](Logic%20Design%20and%20Computer%20Organization/README.md) | 4 | 4 | 2023-24 to 2024-25 | 2 |
 | [Logistics and Supply Chain Management](Logistics%20and%20Supply%20Chain%20Management/README.md) | 31 | 27 | 2007-08 to 2025-26 | 11 |
 | [Machine Drawing](Machine%20Drawing/README.md) | 7 | 3 | 2023-24 to 2024-25 | 2 |
-| [Machine Learning](Machine%20Learning/README.md) | 136 | 110 | 2017-18 to 2025-26 | 31 |
+| [Machine Learning](Machine%20Learning/README.md) | 137 | 111 | 2017-18 to 2025-26 | 31 |
 | [Machine Learning Algorithms](Machine%20Learning%20Algorithms/README.md) | 19 | 14 | 2022-23 to 2025-26 | 6 |
 | [Machine Learning and Data Mining](Machine%20Learning%20and%20Data%20Mining/README.md) | 6 | 6 | 2015-16 to 2023-24 | 1 |
 | [Machine Learning Optimization Algorithms](Machine%20Learning%20Optimization%20Algorithms/README.md) | 4 | 4 | 2022-23 to 2023-24 | 1 |
@@ -733,7 +732,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Management of Innovation](Management%20of%20Innovation/README.md) | 33 | 14 | 2008-09 to 2014-15 | 4 |
 | [Management of Mergers and Acquisitions](Management%20of%20Mergers%20and%20Acquisitions/README.md) | 15 | 15 | 2008-09 to 2019-20 | 1 |
 | [Management of Real Estate Business](Management%20of%20Real%20Estate%20Business/README.md) | 1 | 1 | 2017-18 | 1 |
-| [Management of Technology](Management%20of%20Technology/README.md) | 40 | 18 | 2007-08 to 2018-19 | 4 |
+| [Management of Technology](Management%20of%20Technology/README.md) | 39 | 17 | 2007-08 to 2018-19 | 4 |
 | [Management of Technology Acquisition and Transfer](Management%20of%20Technology%20Acquisition%20and%20Transfer/README.md) | 10 | 10 | 2008-09 to 2014-15 | 1 |
 | [Management of Technology and Emerging Trends](Management%20of%20Technology%20and%20Emerging%20Trends/README.md) | 2 | 2 | 2016-17 | 1 |
 | [Management of Technology and Innovation](Management%20of%20Technology%20and%20Innovation/README.md) | 29 | 21 | 2015-16 to 2025-26 | 7 |
@@ -756,7 +755,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Marketing Research and Marketing Management](Marketing%20Research%20and%20Marketing%20Management/README.md) | 1 | 1 | 2022-23 | 1 |
 | [Marketing Strategy](Marketing%20Strategy/README.md) | 36 | 36 | 2013-14 to 2025-26 | 8 |
 | [Marketing Strategy and Analytics](Marketing%20Strategy%20and%20Analytics/README.md) | 13 | 11 | 2022-23 to 2025-26 | 5 |
-| [Mass Transfer Operations I](Mass%20Transfer%20Operations%20I/README.md) | 26 | 25 | 2005-06 to 2018-19 | 1 |
+| [Mass Transfer Operations I](Mass%20Transfer%20Operations%20I/README.md) | 27 | 26 | 2005-06 to 2018-19 | 1 |
 | [Mass Transfer Operations II](Mass%20Transfer%20Operations%20II/README.md) | 27 | 25 | 2006-07 to 2022-23 | 1 |
 | [Material and Energy Balance Computation](Material%20and%20Energy%20Balance%20Computation/README.md) | 1 | 1 | 2019-20 | 1 |
 | [Material and Structure](Material%20and%20Structure/README.md) | 1 | 1 | 2011-12 | 1 |
@@ -767,7 +766,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Materials Engineering](Materials%20Engineering/README.md) | 70 | 54 | 2011-12 to 2025-26 | 5 |
 | [Materials Engineering and Metallurgy](Materials%20Engineering%20and%20Metallurgy/README.md) | 2 | 2 | 2025-26 | 1 |
 | [Mathematics I](Mathematics%20I/README.md) | 60 | 54 | 2014-15 to 2025-26 | 7 |
-| [Mathematics II](Mathematics%20II/README.md) | 58 | 54 | 2014-15 to 2025-26 | 6 |
+| [Mathematics II](Mathematics%20II/README.md) | 56 | 52 | 2014-15 to 2025-26 | 6 |
 | [Mathematics III](Mathematics%20III/README.md) | 40 | 29 | 2016-17 to 2025-26 | 13 |
 | [Mathematics IV](Mathematics%20IV/README.md) | 27 | 18 | 2022-23 to 2024-25 | 8 |
 | [Measurements and Instrumentation](Measurements%20and%20Instrumentation/README.md) | 6 | 6 | 2017-18 | 2 |
@@ -803,7 +802,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Mobile Device Security and Forensics](Mobile%20Device%20Security%20and%20Forensics/README.md) | 16 | 12 | 2022-23 to 2025-26 | 6 |
 | [Mobile Game Development](Mobile%20Game%20Development/README.md) | 2 | 2 | 2021-22 | 1 |
 | [Modelling and Simulation](Modelling%20and%20Simulation/README.md) | 46 | 35 | 2015-16 to 2025-26 | 13 |
-| [Modern Construction Equipment and Techniques](Modern%20Construction%20Equipment%20and%20Techniques/README.md) | 6 | 6 | 2022-23 to 2025-26 | 2 |
+| [Modern Construction Equipment and Techniques](Modern%20Construction%20Equipment%20and%20Techniques/README.md) | 7 | 6 | 2022-23 to 2025-26 | 3 |
 | [Modern Construction Techniques](Modern%20Construction%20Techniques/README.md) | 4 | 4 | 2015 to 2018-19 | 1 |
 | [Modern Control Systems](Modern%20Control%20Systems/README.md) | 4 | 4 | 2022-23 to 2024-25 | 1 |
 | [Modern Day Robotics and Its Industrial Applications](Modern%20Day%20Robotics%20and%20Its%20Industrial%20Applications/README.md) | 4 | 4 | 2023-24 to 2025-26 | 1 |
@@ -813,7 +812,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Multimedia and Animation](Multimedia%20and%20Animation/README.md) | 9 | 6 | 2023-24 to 2024-25 | 3 |
 | [Multimedia and Virtual Reality](Multimedia%20and%20Virtual%20Reality/README.md) | 3 | 3 | 2021 to 2021-22 | 1 |
 | [Multimedia Signal Compression](Multimedia%20Signal%20Compression/README.md) | 4 | 4 | 2018-19 to 2019-20 | 2 |
-| [Multimedia System and Virtual Reality](Multimedia%20System%20and%20Virtual%20Reality/README.md) | 7 | 7 | 2012-13 to 2018-19 | 2 |
+| [Multimedia System and Virtual Reality](Multimedia%20System%20and%20Virtual%20Reality/README.md) | 9 | 7 | 2012-13 to 2018-19 | 3 |
 | [Multimedia System Design and Applications](Multimedia%20System%20Design%20and%20Applications/README.md) | 4 | 4 | 2006-07 to 2009-10 | 1 |
 | [Multimedia Systems](Multimedia%20Systems/README.md) | 16 | 15 | 2013-14 to 2018-19 | 3 |
 | [Multimedia Systems and Communication](Multimedia%20Systems%20and%20Communication/README.md) | 7 | 7 | 2006-07 to 2010-11 | 1 |
@@ -832,10 +831,10 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Numerical and Statistical Methods](Numerical%20and%20Statistical%20Methods/README.md) | 12 | 12 | 2012-13 to 2018-19 | 1 |
 | [Numerical Methods](Numerical%20Methods/README.md) | 7 | 6 | 2018-19 to 2019-20 | 5 |
 | [Numerical Modeling of Groundwater Flow and Transport](Numerical%20Modeling%20of%20Groundwater%20Flow%20and%20Transport/README.md) | 4 | 4 | 2015-16 to 2018-19 | 1 |
-| [Numerical Techniques](Numerical%20Techniques/README.md) | 11 | 9 | 2015-16 to 2018-19 | 1 |
+| [Numerical Techniques](Numerical%20Techniques/README.md) | 12 | 9 | 2015-16 to 2018-19 | 2 |
 | [Nutrition for Health](Nutrition%20for%20Health/README.md) | 84 | 38 | 2023-24 to 2025-26 | 31 |
-| [Object Oriented Modeling and Design](Object%20Oriented%20Modeling%20and%20Design/README.md) | 29 | 25 | 2008-09 to 2022-23 | 3 |
-| [Object Oriented Programming](Object%20Oriented%20Programming/README.md) | 51 | 39 | 2015-16 to 2025-26 | 17 |
+| [Object Oriented Modeling and Design](Object%20Oriented%20Modeling%20and%20Design/README.md) | 28 | 24 | 2008-09 to 2018-19 | 3 |
+| [Object Oriented Programming](Object%20Oriented%20Programming/README.md) | 52 | 39 | 2015-16 to 2025-26 | 17 |
 | [Object Oriented Programming and Design](Object%20Oriented%20Programming%20and%20Design/README.md) | 5 | 5 | 2023-24 to 2024-25 | 2 |
 | [Object Oriented Programming Through Java](Object%20Oriented%20Programming%20Through%20Java/README.md) | 14 | 6 | 2022-23 to 2024-25 | 4 |
 | [Object Oriented Programming using C++](Object%20Oriented%20Programming%20using%20C%2B%2B/README.md) | 27 | 23 | 2007-08 to 2022-23 | 5 |
@@ -848,8 +847,8 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Operation Planning and Control](Operation%20Planning%20and%20Control/README.md) | 37 | 31 | 2011-12 to 2025-26 | 9 |
 | [Operation Research for Chemical Engineers](Operation%20Research%20for%20Chemical%20Engineers/README.md) | 2 | 2 | 2022-23 | 1 |
 | [Operations and Supply Chain Management](Operations%20and%20Supply%20Chain%20Management/README.md) | 70 | 48 | 2022-23 to 2025-26 | 21 |
-| [Operations Management](Operations%20Management/README.md) | 88 | 55 | 2007-08 to 2025-26 | 11 |
-| [Operations Research](Operations%20Research/README.md) | 132 | 100 | 2006-07 to 2025-26 | 19 |
+| [Operations Management](Operations%20Management/README.md) | 87 | 54 | 2007-08 to 2025-26 | 11 |
+| [Operations Research](Operations%20Research/README.md) | 133 | 101 | 2006-07 to 2025-26 | 19 |
 | [Operations Strategy](Operations%20Strategy/README.md) | 25 | 19 | 2010-11 to 2025-26 | 5 |
 | [Optical Communication and Networks](Optical%20Communication%20and%20Networks/README.md) | 4 | 4 | 2006-07 to 2009-10 | 1 |
 | [Optical Fiber Communication](Optical%20Fiber%20Communication/README.md) | 36 | 35 | 2006-07 to 2022-23 | 6 |
@@ -859,13 +858,13 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Optimization Techniques](Optimization%20Techniques/README.md) | 29 | 24 | 2021-22 to 2025-26 | 6 |
 | [Organic Process Technologies](Organic%20Process%20Technologies/README.md) | 1 | 1 | 2022-23 | 1 |
 | [Organisation Design and Development](Organisation%20Design%20and%20Development/README.md) | 2 | 2 | 2016-17 | 1 |
-| [Organizational Behaviour](Organizational%20Behaviour/README.md) | 98 | 80 | 2007-08 to 2025-26 | 12 |
+| [Organizational Behaviour](Organizational%20Behaviour/README.md) | 100 | 80 | 2007-08 to 2025-26 | 12 |
 | [Parallel Computing](Parallel%20Computing/README.md) | 25 | 22 | 2011-12 to 2018-19 | 4 |
 | [Parallel Processing](Parallel%20Processing/README.md) | 15 | 13 | 2006-07 to 2013-14 | 4 |
 | [Pattern and Anomaly Detection](Pattern%20and%20Anomaly%20Detection/README.md) | 12 | 2 | 2023-24 | 6 |
 | [Pattern Recognition](Pattern%20Recognition/README.md) | 3 | 3 | 2010-11 to 2012-13 | 1 |
-| [Pavement Design and Construction](Pavement%20Design%20and%20Construction/README.md) | 21 | 14 | 2013-14 to 2025-26 | 4 |
-| [Pavement Management System](Pavement%20Management%20System/README.md) | 5 | 3 | 2021-22 | 2 |
+| [Pavement Design and Construction](Pavement%20Design%20and%20Construction/README.md) | 20 | 13 | 2013-14 to 2025-26 | 4 |
+| [Pavement Management System](Pavement%20Management%20System/README.md) | 6 | 3 | 2021-22 to 2022-23 | 2 |
 | [Pavement Subgrade and Materials](Pavement%20Subgrade%20and%20Materials/README.md) | 4 | 3 | 2013-14 to 2019-20 | 2 |
 | [People Analytics](People%20Analytics/README.md) | 8 | 8 | 2018-19 to 2025-26 | 4 |
 | [Petroleum Refining Technology](Petroleum%20Refining%20Technology/README.md) | 12 | 12 | 2011-12 to 2021-22 | 1 |
@@ -883,19 +882,19 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Power Electronics](Power%20Electronics/README.md) | 17 | 16 | 2013-14 to 2017-18 | 4 |
 | [Power Electronics System Design](Power%20Electronics%20System%20Design/README.md) | 23 | 20 | 2011-12 to 2012-13 | 1 |
 | [Power System Operation and Control](Power%20System%20Operation%20and%20Control/README.md) | 5 | 4 | 2018-19 to 2019-20 | 2 |
-| [Power System Planning and Reliability](Power%20System%20Planning%20and%20Reliability/README.md) | 3 | 3 | 2018-19 | 1 |
-| [Power System Stability](Power%20System%20Stability/README.md) | 4 | 2 | 2018-19 | 2 |
+| [Power System Planning and Reliability](Power%20System%20Planning%20and%20Reliability/README.md) | 2 | 2 | 2018-19 | 1 |
+| [Power System Stability](Power%20System%20Stability/README.md) | 5 | 2 | 2018-19 | 2 |
 | [Predictive Analysis](Predictive%20Analysis/README.md) | 21 | 13 | 2023-24 to 2025-26 | 9 |
 | [Predictive Analytics](Predictive%20Analytics/README.md) | 17 | 17 | 2023-24 to 2025-26 | 5 |
 | [Presentation and Communication Techniques](Presentation%20and%20Communication%20Techniques/README.md) | 24 | 16 | 2013-14 to 2018-19 | 3 |
 | [Prestressed Concrete](Prestressed%20Concrete/README.md) | 6 | 3 | 2022-23 to 2023-24 | 2 |
-| [Principles and Practices of Management](Principles%20and%20Practices%20of%20Management/README.md) | 77 | 23 | 2006-07 to 2014-15 | 7 |
+| [Principles and Practices of Management](Principles%20and%20Practices%20of%20Management/README.md) | 76 | 22 | 2006-07 to 2014-15 | 7 |
 | [Principles of Accounting I](Principles%20of%20Accounting%20I/README.md) | 10 | 10 | 2021-22 to 2024-25 | 2 |
 | [Principles of Accounting II](Principles%20of%20Accounting%20II/README.md) | 13 | 12 | 2022-23 to 2025-26 | 3 |
 | [Principles of Artificial Intelligence](Principles%20of%20Artificial%20Intelligence/README.md) | 27 | 19 | 2021-22 to 2025-26 | 7 |
 | [Principles of Chemical Reactions](Principles%20of%20Chemical%20Reactions/README.md) | 2 | 2 | 2017-18 | 1 |
 | [Principles of Communication Engineering](Principles%20of%20Communication%20Engineering/README.md) | 55 | 49 | 2010-11 to 2018-19 | 5 |
-| [Principles of Communication Systems](Principles%20of%20Communication%20Systems/README.md) | 2 | 2 | 2011-12 | 1 |
+| [Principles of Communication Systems](Principles%20of%20Communication%20Systems/README.md) | 3 | 3 | 2011-12 | 2 |
 | [Principles of Compiler Design](Principles%20of%20Compiler%20Design/README.md) | 2 | 2 | 2015-16 | 1 |
 | [Principles of Cryptography](Principles%20of%20Cryptography/README.md) | 2 | 1 | 2023-24 | 2 |
 | [Principles of Economics and Management](Principles%20of%20Economics%20and%20Management/README.md) | 232 | 127 | 2013-14 to 2025-26 | 46 |
@@ -926,7 +925,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Program Management](Program%20Management/README.md) | 3 | 3 | 2013-14 to 2014-15 | 1 |
 | [Programming Concept using C](Programming%20Concept%20using%20C/README.md) | 12 | 12 | 2010-11 to 2012-13 | 1 |
 | [Programming for Analytics](Programming%20for%20Analytics/README.md) | 14 | 10 | 2022-23 to 2025-26 | 5 |
-| [Programming for Problem Solving](Programming%20for%20Problem%20Solving/README.md) | 158 | 101 | 2018-19 to 2025-26 | 41 |
+| [Programming for Problem Solving](Programming%20for%20Problem%20Solving/README.md) | 159 | 102 | 2018-19 to 2025-26 | 41 |
 | [Programming in Java](Programming%20in%20Java/README.md) | 20 | 17 | 2013-14 to 2018-19 | 3 |
 | [Project and Process Engineering](Project%20and%20Process%20Engineering/README.md) | 11 | 11 | 2010-11 to 2019-20 | 1 |
 | [Project Appraisal and Financing](Project%20Appraisal%20and%20Financing/README.md) | 24 | 24 | 2024-25 to 2025-26 | 7 |
@@ -935,7 +934,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Project Contracts and Claims Management](Project%20Contracts%20and%20Claims%20Management/README.md) | 6 | 6 | 2013-14 to 2016-17 | 1 |
 | [Project Infrastructure](Project%20Infrastructure/README.md) | 3 | 3 | 2015-16 to 2018-19 | 1 |
 | [Project Infrastructure and Finances](Project%20Infrastructure%20and%20Finances/README.md) | 12 | 12 | 2008-09 to 2021-22 | 1 |
-| [Project Management](Project%20Management/README.md) | 109 | 83 | 2006-07 to 2025-26 | 14 |
+| [Project Management](Project%20Management/README.md) | 110 | 84 | 2006-07 to 2025-26 | 14 |
 | [Project Portfolio and Program Management](Project%20Portfolio%20and%20Program%20Management/README.md) | 1 | 1 | 2016-17 | 1 |
 | [Project Procurement and Planning](Project%20Procurement%20and%20Planning/README.md) | 2 | 2 | 2013-14 | 1 |
 | [Project Procurement Management](Project%20Procurement%20Management/README.md) | 11 | 8 | 2015-16 to 2024-25 | 1 |
@@ -943,9 +942,9 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Project Risk and Insurance Management](Project%20Risk%20and%20Insurance%20Management/README.md) | 3 | 3 | 2008-09 | 1 |
 | [Project Risk Management](Project%20Risk%20Management/README.md) | 16 | 16 | 2013-14 to 2025-26 | 2 |
 | [Property Documentation](Property%20Documentation/README.md) | 5 | 5 | 2015-16 to 2018-19 | 1 |
-| [Python for Data Analysis](Python%20for%20Data%20Analysis/README.md) | 8 | 7 | 2022-23 to 2024-25 | 3 |
+| [Python for Data Analysis](Python%20for%20Data%20Analysis/README.md) | 7 | 6 | 2023-24 to 2024-25 | 3 |
 | [Python Fundamentals](Python%20Fundamentals/README.md) | 3 | 3 | 2023-24 to 2024-25 | 1 |
-| [Python Programming](Python%20Programming/README.md) | 24 | 5 | 2022-23 to 2024-25 | 12 |
+| [Python Programming](Python%20Programming/README.md) | 25 | 5 | 2022-23 to 2024-25 | 12 |
 | [Quality Management](Quality%20Management/README.md) | 4 | 2 | 2022-23 | 2 |
 | [Quality Management and Services](Quality%20Management%20and%20Services/README.md) | 12 | 12 | 2007-08 to 2012-13 | 1 |
 | [Quality Management in Construction](Quality%20Management%20in%20Construction/README.md) | 2 | 1 | 2022-23 | 2 |
@@ -984,7 +983,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Robotics and Automation](Robotics%20and%20Automation/README.md) | 24 | 20 | 2021-22 to 2025-26 | 7 |
 | [Robotics Computational Motion Planning](Robotics%20Computational%20Motion%20Planning/README.md) | 1 | 1 | 2023-24 | 1 |
 | [Rock Mechanics](Rock%20Mechanics/README.md) | 11 | 9 | 2018-19 to 2025-26 | 4 |
-| [Safety, Health Environmental Management System](Safety%2C%20Health%20Environmental%20Management%20System/README.md) | 19 | 11 | 2010-11 to 2014-15 | 6 |
+| [Safety, Health Environmental Management System](Safety%2C%20Health%20Environmental%20Management%20System/README.md) | 18 | 10 | 2010-11 to 2014-15 | 6 |
 | [Sales and Distribution Management](Sales%20and%20Distribution%20Management/README.md) | 32 | 32 | 2008-09 to 2025-26 | 7 |
 | [SAS Programming](SAS%20Programming/README.md) | 2 | 2 | 2015-16 to 2016-17 | 1 |
 | [Satellite Communication and Radar](Satellite%20Communication%20and%20Radar/README.md) | 10 | 10 | 2016-17 to 2022-23 | 3 |
@@ -1015,17 +1014,16 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Social Media and Web Analytics](Social%20Media%20and%20Web%20Analytics/README.md) | 10 | 10 | 2025-26 | 5 |
 | [Soft Computing](Soft%20Computing/README.md) | 15 | 15 | 2014-15 to 2022-23 | 3 |
 | [Software Architecture](Software%20Architecture/README.md) | 21 | 20 | 2006-07 to 2017-18 | 5 |
-| [Software Architecture and Project Management](Software%20Architecture%20and%20Project%20Management/README.md) | 4 | 3 | 2006-07 to 2009-10 | 1 |
+| [Software Architecture and Project Management](Software%20Architecture%20and%20Project%20Management/README.md) | 3 | 2 | 2006-07 to 2008-09 | 1 |
 | [Software Design with UML](Software%20Design%20with%20UML/README.md) | 8 | 8 | 2021-22 to 2025-26 | 2 |
 | [Software Engineering](Software%20Engineering/README.md) | 180 | 127 | 2005-06 to 2025-26 | 24 |
 | [Software Engineering I](Software%20Engineering%20I/README.md) | 10 | 6 | 2005-06 to 2008-09 | 2 |
-| [Software Engineering Methodology](Software%20Engineering%20Methodology/README.md) | 13 | 13 | 2007-08 to 2011-12 | 2 |
+| [Software Engineering Methodology](Software%20Engineering%20Methodology/README.md) | 14 | 14 | 2007-08 to 2011-12 | 2 |
 | [Software Project Management](Software%20Project%20Management/README.md) | 20 | 17 | 2013-14 to 2023-24 | 5 |
 | [Software Quality Assurance](Software%20Quality%20Assurance/README.md) | 39 | 32 | 2011-12 to 2025-26 | 11 |
 | [Software Quality Assurance and Testing](Software%20Quality%20Assurance%20and%20Testing/README.md) | 20 | 18 | 2012-13 to 2022-23 | 4 |
 | [Software Security](Software%20Security/README.md) | 1 | 1 | 2023-24 | 1 |
-| [Software Technology](Software%20Technology/README.md) | 1 | 1 | 2023-24 | 1 |
-| [Software Testing](Software%20Testing/README.md) | 17 | 15 | 2007-08 to 2025-26 | 4 |
+| [Software Testing](Software%20Testing/README.md) | 18 | 15 | 2007-08 to 2025-26 | 4 |
 | [Soil Dynamics](Soil%20Dynamics/README.md) | 5 | 5 | 2018-19 to 2019-20 | 2 |
 | [Soil Mechanics](Soil%20Mechanics/README.md) | 15 | 12 | 2021-22 to 2025-26 | 3 |
 | [Solid Fluid Mechanical Operations](Solid%20Fluid%20Mechanical%20Operations/README.md) | 26 | 26 | 2005-06 to 2021-22 | 1 |
@@ -1041,17 +1039,16 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Statistical Signal Analysis](Statistical%20Signal%20Analysis/README.md) | 5 | 5 | 2013-14 to 2015-16 | 1 |
 | [Statistical Structures in Data and Inference](Statistical%20Structures%20in%20Data%20and%20Inference/README.md) | 26 | 16 | 2021-22 to 2025-26 | 6 |
 | [Statistics and Numerical Methods](Statistics%20and%20Numerical%20Methods/README.md) | 2 | 2 | 2021-22 | 1 |
-| [Statistics, Probability and Calculus](Statistics%2C%20Probability%20and%20Calculus/README.md) | 14 | 11 | 2021-22 to 2024-25 | 2 |
+| [Statistics, Probability and Calculus](Statistics%2C%20Probability%20and%20Calculus/README.md) | 13 | 10 | 2021-22 to 2024-25 | 2 |
 | [Stochastic Processes](Stochastic%20Processes/README.md) | 11 | 8 | 2023-24 to 2025-26 | 3 |
 | [Stochastic Processes and Applications](Stochastic%20Processes%20and%20Applications/README.md) | 29 | 22 | 2021-22 to 2025-26 | 6 |
-| [Strategic Management](Strategic%20Management/README.md) | 77 | 59 | 2008-09 to 2025-26 | 11 |
+| [Strategic Management](Strategic%20Management/README.md) | 79 | 60 | 2008-09 to 2025-26 | 11 |
 | [Strength of Materials](Strength%20of%20Materials/README.md) | 157 | 135 | 2005-06 to 2025-26 | 12 |
 | [Strength of Materials and Fabrication](Strength%20of%20Materials%20and%20Fabrication/README.md) | 11 | 11 | 2012-13 to 2017-18 | 1 |
 | [Structural Analysis I](Structural%20Analysis%20I/README.md) | 43 | 37 | 2013-14 to 2018-19 | 3 |
 | [Structural Analysis II](Structural%20Analysis%20II/README.md) | 34 | 31 | 2014-15 to 2019-20 | 2 |
 | [Structural Dynamics](Structural%20Dynamics/README.md) | 6 | 6 | 2016-17 to 2018-19 | 2 |
-| [Structured System Analysis and Design](Structured%20System%20Analysis%20and%20Design/README.md) | 23 | 22 | 2007-08 to 2016-17 | 2 |
-| [Structures Analysis and Design](Structures%20Analysis%20and%20Design/README.md) | 2 | 2 | 2012-13 | 1 |
+| [Structured System Analysis and Design](Structured%20System%20Analysis%20and%20Design/README.md) | 25 | 24 | 2007-08 to 2016-17 | 2 |
 | [Supervisory Control and Data Acquisition](Supervisory%20Control%20and%20Data%20Acquisition/README.md) | 43 | 32 | 2022 to 2025-26 | 10 |
 | [Supplier Management](Supplier%20Management/README.md) | 6 | 6 | 2011-12 to 2014-15 | 1 |
 | [Supply Chain Analytics](Supply%20Chain%20Analytics/README.md) | 27 | 20 | 2021-22 to 2025-26 | 7 |
@@ -1103,7 +1100,7 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [TV and Video Engineering](TV%20and%20Video%20Engineering/README.md) | 15 | 14 | 2011-12 to 2017-18 | 3 |
 | [UI and UX Design](UI%20and%20UX%20Design/README.md) | 16 | 9 | 2022-23 to 2025-26 | 6 |
 | [Unit Processing in Chemical Industries](Unit%20Processing%20in%20Chemical%20Industries/README.md) | 20 | 20 | 2010-11 to 2018-19 | 1 |
-| [Universal Human Values II](Universal%20Human%20Values%20II/README.md) | 67 | 34 | 2024-25 to 2025-26 | 25 |
+| [Universal Human Values II](Universal%20Human%20Values%20II/README.md) | 68 | 34 | 2024-25 to 2025-26 | 25 |
 | [Unix Programming](Unix%20Programming/README.md) | 19 | 17 | 2013-14 to 2021-22 | 4 |
 | [Unmanned Aerial Vehicles](Unmanned%20Aerial%20Vehicles/README.md) | 9 | 8 | 2023-24 to 2025-26 | 4 |
 | [Unsorted Papers](Unsorted%20Papers/README.md) | 1 | 1 | year not stated | 1 |
@@ -1136,13 +1133,13 @@ Either way you get `PYQs_By_Subject/<Subject>/<Academic year>/<paper>`. Newer po
 | [Web Technology and Application](Web%20Technology%20and%20Application/README.md) | 4 | 4 | 2011-12 | 1 |
 | [Wind Turbine Technology](Wind%20Turbine%20Technology/README.md) | 6 | 5 | 2025-26 | 4 |
 | [Wireless and Mobile Communication System](Wireless%20and%20Mobile%20Communication%20System/README.md) | 5 | 5 | 2006-07 to 2010-11 | 1 |
-| [Wireless Communication](Wireless%20Communication/README.md) | 22 | 20 | 2010-11 to 2024-25 | 6 |
+| [Wireless Communication](Wireless%20Communication/README.md) | 21 | 19 | 2010-11 to 2024-25 | 6 |
 | [Wireless Communication and Networks](Wireless%20Communication%20and%20Networks/README.md) | 6 | 6 | 2013-14 to 2016-17 | 1 |
 | [Wireless Communication I](Wireless%20Communication%20I/README.md) | 12 | 12 | 2006-07 to 2012-13 | 1 |
 | [Wireless Communication II](Wireless%20Communication%20II/README.md) | 4 | 3 | 2010-11 to 2011-12 | 2 |
 | [Wireless Communication Systems](Wireless%20Communication%20Systems/README.md) | 4 | 4 | 2010-11 to 2012-13 | 1 |
 | [Wireless Communication Technology](Wireless%20Communication%20Technology/README.md) | 45 | 42 | 2013-14 to 2025-26 | 5 |
-| [Wireless Networking](Wireless%20Networking/README.md) | 23 | 22 | 2013-14 to 2019-20 | 2 |
+| [Wireless Networking](Wireless%20Networking/README.md) | 24 | 23 | 2013-14 to 2019-20 | 2 |
 | [Wireless Security](Wireless%20Security/README.md) | 2 | 1 | 2023-24 | 2 |
 | [Wireless Technology](Wireless%20Technology/README.md) | 8 | 8 | 2009-10 to 2012-13 | 1 |
 | [Work Study and Ergonomics](Work%20Study%20and%20Ergonomics/README.md) | 4 | 4 | 2005-06 to 2008-09 | 1 |

@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Principles of Electronics Engineering(702EX0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Principles of Electronics Engineering(702EX0C004)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Principles of Electronics Engineering(702EX0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Principles of Electronics Engineering(702EX0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Principles of Electronics Engineering(702EX0C004)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Principles of Electronics Engineering(702EX0C004)_2024-2025.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Principles of Electronics Engineering, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 2 | B TECH | Principles of Electronics Engineering, Sem-II, Year 2022-23, Re Exam.pdf |
 | 2021-22 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Principles of Electronics Engineering Sem-II, Final Exam 2021-22 and Re Exam Batch 2020-21.pdf |

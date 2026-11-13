@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSE_DS_7011/Introduction to Business Statistics, An_51070757/ANS_Introduction to Business Statistics, Analytics and Modeling-II(702BS0C073)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: mixed (14 pages), mean OCR confidence 44.3
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -33,7 +35,6 @@ Instructions:
 ********** 1 **********
 --- page 2 ---
 Ria) Lot X~ -> Allows iuaes (eck fw stocks
-Y > dolla iw vestod ral (o HAS
 Obj Cctive CMa yinaize profit)
 
 Mar TE LT Le 5y —D
@@ -61,13 +62,11 @@ C2
 
 sf? het cay \be tu susnless at
 
-Wis ong frown thabe t
 SW lo =) : ,
 
 e
 Mn Ze ly Ty EGC 5 Foy-+% Lamy HV
 
-Nis Ure Nex Fre
 
 rn arrTennnnn eee
 
@@ -98,7 +97,6 @@ Fis, * d Dy + (1-4) Fy
 
 rr \s |e |e lor?
 
-6 [uo fais fars-F e205 as-aelera.og [hey qs42-| 30°59
 
 FOGG 2 FC IC Ir
 --- page 4 ---
@@ -114,7 +112,6 @@ SXy 4 3Xp + 4X3 4 1S) + OS2 + OS3 = 100
 
 2X1 + 4X2 + 3X3 + OS; + 1S) + OS; = 80
 4X, + SX) + 6X3 + OS; + OS2 + 183 = 120 —{z)
-Xy. Xa, Xg, Sq. Sp, Sg 2 0
 
 Cy Base Xx) X2 Xs S; Sz S3 R
 
@@ -136,7 +133,6 @@ Ch Base X, Mo Ms S$; Sz Ss R
 
 Zz 40/3 «10/3 0 0 0 140/3 5600
 
-C, Bese xX, Xr My 8, $2 Sy R
 200 x ot Woo wf 0 2 oT
 
 0 S 0 32 O OO 1 -” 20 —f3)
@@ -144,7 +140,6 @@ C, Bese xX, Xr My 8, $2 Sy R
 
 z o 10/7 0 407 0 9300/7
 
-X,= 60/7, Xo= 0, X3= 100/7, Sy= 0, Sp= 20, S3= 0 —h.
 
 FIC 7) IC HOH
 --- page 5 ---
@@ -344,14 +339,12 @@ TEC Re
 TE(r)=° ;
 TE(G) =? OD .
 ce (HE? OS _
-dhe cwilicel oA iS A -BC- q-
 | ain)
 
 FRI ICR 7 FI OH
 --- page 12 ---
 bb.
 
-L, = av, + (lL — o£), + Ta) D
 T= All, — b+ - BT =c
 
 0.3
@@ -453,6 +446,8 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CSE_DS_7011/Introduction to Business Statistics, An_51070757/ANS_Introduction to Business Statistics, Analytics and Modeling-II(702BS0C073)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (14 pages), mean OCR confidence 46.2
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -490,7 +485,6 @@ x, £700
 Xa £700 ° .
 Xe 4 700 3)
 Ly, te, As 2 o C3
-y) DB Pe Ds Dy |
 Sy) 7
 Sz
 
@@ -502,12 +496,10 @@ MNiwimuwer cost = ye 7h Bub 4.4
 
 * 4
 
-RARER RERE 2 RRR KEE
 --- page 3 ---
 QY () c _* jet ™ "| he {te Va we ber of
 
 Ge £3)
-: . : twits Going brow noodle
 , SS
 é > ap be \rode | :
 
@@ -553,7 +545,6 @@ cy
 
 OX) 4 1X) + 2X3 + OS, + OS) + 13 = 30 “
 
-Ky. Xp. Mp, Sq. Sa. Sg BO
 
 Cc, Base X, MX: Ky $1 Sz 53 R
 0 Sy 4 2 3 q 0 0 60
@@ -562,19 +553,15 @@ a Sa 2 1 2 o 0 1 30
 
 z 40 20 30 0 0 o a
 
-Cy Bese XX, My My Sy S, S35 R
 
 a Sy o 23] Wa 1 Ala 0 20/3
 
-a0 xy 1 Wa aa o Va zt] 40/3 oar
 5)
 
 0 Ss o Wa 2a 0 “BID 1 10/3 —
 
 é 0 20/3 10/3 o 640/80 1600/3
 
-Cy Bowe Ky, My Ug S41 Sy Ss Rk
-20 Na o 1 WW we 2 o WwW
 40 x, 1 o wiv 1 0 10 —€8)
 0 Sy o oo Wwe -v2 Oo 1 0
 
@@ -652,7 +639,6 @@ We
 
 Duck price = O-5
 
-Kenge bel wees (0,3) awd C4, 0)
 BOSSES ME AXS + e3to
 
 9 6 M4 27 —60
@@ -663,7 +649,6 @@ Zenny = 4. ad (4 at)
 
 Daal price = 0:25 )
 - 0
-heme bel ween (% +) avd ry®.
 op 04 C6 5 ape Ny O27 ABV GRO
 
 ig 24,26 Gm)
@@ -721,7 +706,6 @@ XW} s Sys
 Le
 © 420 —(3)
 
-by Solving comst taints ) we qet
 Be Cy L)
 
 Points [| = 7

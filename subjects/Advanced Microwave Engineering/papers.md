@@ -640,6 +640,7 @@ where Gr is the transducer gain and Gry is the
 - Programmes: M TECH / EXTC
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM III/ADVANCED MICROWAVE ENGINERRING/Advanced Microwave Engineering 2012-13 Final.pdf`
 - Text: mixed (3 pages), mean OCR confidence 52.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 ?   '.
@@ -952,6 +953,7 @@ fo
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM III/ADVANCED MICROWAVE ENGINERRING/M Tech EXTC TRIM III ADVANCED MICROWAVE ENGINERRING 2010-2011.zip`
 - Printed on paper: exam date: 12/05/2011
 - Text: ocr (2 pages), mean OCR confidence 86.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a SVKM’s NMIMS
@@ -1033,7 +1035,6 @@ A GaAs FET has the following scattering and noise parameters at 4 GHz,
 measured with a 50 Q systems:
 
 Si = 0.6 Z -60°, Sy = 0.5 Z -60°, Si2 = 0.05 Z 26°, S>1 = 192 81°, Fain =
-1.6 dB, Rx = 20 Q, and T op = 0.62 Z 100°.
 
 Assuming the FET to be unilateral, design an amplifier using open-circuited
 shunt stubs and transmission line lengths for a maximum possible gain and a
@@ -1226,6 +1227,7 @@ Assume h =1.27 mm and €r=2.2. 10.
 - Programmes: M TECH / EXTC
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM I/Advanced Microwave Engineering/M Tech EXTC TRIM I Advanced Microwave Engineering 2009-2010.zip`
 - Text: ocr (2 pages), mean OCR confidence 84.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Subject:
@@ -1325,7 +1327,6 @@ A GaAs FET has the following scattering and noise parameters at 4 GHz,
 measured with a 50 Q systems:
 
 Si = 0.62 -60°, Sx =052 -60°, Si = 0.05 Z 26°, So =192 81°, Frmin = 1.6
-dB, Ry = 20 Q, and T op = 0.62 Z 100°.
 
 Assuming the FET to be unilateral, design an amplifier using open-circuited
 shunt stubs and transmission line lengths for a maximum possible gain and a
@@ -1389,6 +1390,7 @@ XK
 - Programmes: M TECH / EXTC
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM I/Advanced Microwave Engineering/M Tech EXTC TRIM I Advanced Microwave Engineering 2008-2009.zip`
 - Text: ocr (2 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -1448,7 +1450,6 @@ C 0.65 Z -140° | 0.04 2 60° | 2.4 750° | 0.70 Z -65°
 4. A GaAs FET has the following scattering and noise parameters at 4 GHz,
 measured with a 50 Q systems:
 S11 = 0.6 Z-60°, Soo = 0.52 -60°, Siz = 0.05 2 26°, Sx, = 1.92 81°, Finin = 1.6
-dB, Ry = 20 Q, and T op = 0.62 2 100°.
 Assuming the FET to be unilateral, design an amplifier using open-circuited
 
 (05)

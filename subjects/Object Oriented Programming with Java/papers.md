@@ -1,10 +1,10 @@
 # Object Oriented Programming with Java: question papers in full
 
-1 unique papers · 2024-25 to 2024-25 · Computer Engineering
+1 unique papers · 2025-26 to 2025-26 · Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2024-25 · Exam not stated · Sem 8 · paper 5d54a6da89e7
+## 2025-26 · Exam not stated · Sem 8 · paper 5d54a6da89e7
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER

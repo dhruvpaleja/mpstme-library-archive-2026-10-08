@@ -16,45 +16,45 @@ Also filed as: `INFORAMTION SYSTEMS FOR MANAGEMENT`, `INFORMATION SYSTEMS FOR MA
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Information System Management(703TG0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_Information System Management(703TG0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Information System Management(703TG0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Information System Management(703TG0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Information System Management(703TG0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_Information System Management(703TG0C003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Information System Management(703TG0C003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Information System Management(703TG0C003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Information System Management(703TG0C003)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Information System Management(703TG0C003)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper |  | MBA TECH | Information System Management, Sem-VIII, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper |  | MBA TECH | Information system Management,Final 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper |  | MBA TECH | Information System Management , Re-exam 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper |  | MBA TECH | Information System Mgmt , Re-exam 2023-24,2022-23.pdf |

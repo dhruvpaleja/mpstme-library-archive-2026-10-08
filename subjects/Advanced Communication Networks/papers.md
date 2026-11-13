@@ -1,6 +1,6 @@
 # Advanced Communication Networks: question papers in full
 
-6 unique papers · 2013-14 to 2016-17 · Electronics and Telecommunication
+7 unique papers · 2013-14 to 2016-17 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/II SEMESTER/ADVANCED COMMUNICATION NETWORKS/Advance Communication Network 2016-17 Final.pdf`
 - Printed on paper: max marks: 70; exam date: 6 May 2017
 - Text: ocr (2 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -61,7 +62,6 @@ ae we ag oe
 / i A F Link bandwidth 1 MBps
 Basgeaegaga
 
-H is H H H H H H
 
 [3]
 
@@ -184,6 +184,100 @@ Compare between M TCP, I TCP, S TCP
 x
 
 of].
+````
+
+## 2014-15 · Exam not stated · Sem 2 · paper 9369a60cdd15
+
+- Departments: Electronics and Telecommunication
+- Programmes: M TECH / EXTC
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/II SEMESTER/ADVANCED IMAGE PROCESSING/ADVANCED COMMUNICATION NETWORKS BATCH 2014-20150001.pdf`
+- Printed on paper: duration hours: 3; exam date: 08/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE:
+
+af HM nn .
+
+Programme: M.Tech (EXTC) Year: I Semester: I, aie RARY |
+Academic Year: 2014-2015 & ig ‘|
+; wae oN aE”
+Subject: Advanced Communication Networks :
+j Marks:
+| Date: 08/05/2015 Time : Tan am to 1.00 pm
+
+Durations: 3 (hrs)
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory. ‘
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures to the right indicate full marks.
+
+Ql. Answer any four:
+
+A Explain main drivers of NGN 3
+
+B What is the subnetwork address if the destination address is 200.45.34.56 and 3
+network mask is 255.255.240.0?
+
+C Compare the following types of services: 3
+
+1. Integrated Service
+2. Differentiated Service
+
+D   Howis [Pv6 different in Mobile IP? 3
+E Explain the working principle of MPLS. 3
+Q2.
+
+A Explain 3 way handshaking in TCP 6
+B Explain working principle of DHCP with the help of state diagram . 6
+Q3
+
+A Compare snooping, indirect and M TCP. 6
+B Explain the term soft state with respect to Resource reservation protocol (RSVP). 6
+
+What are the drawbacks of reservation merging?
+
+Q4
+
+A With respect to ATM explain the following: 6
+1. AALI] 2.AAL2
+
+B Explain congestion control mechanism in ATM 6
+
+Q5
+
+A Explain the terms triangular routing and reverse tunneling with respect to Mobile IP. 6
+B Explain the functional architecture of ITU-NGN. (Next Generation Networks) 6
+--- page 2 ---
+Q6
+
+Q7
+
+What are the different types of routing algorithms for mobile adhoc networks?
+Explain any one in brief.
+Explain IP-based Service Conversion and Managed IP Network
+
+Suppose a congestion-control scheme results in a collection of competing flows that
+achieve the following throughput rates: 200 KBps, 160 KBps, 190 KBps, 195 KBps
+and 220 KBps.
+
+(a)Calculate the fairness index for this scheme.
+
+(b) Now add a flow with a throughput rate of 750 KBps to the above, and
+recalculate the fairness index.
+c) what can you conclude from the results of a) and b).
+What are the advantages of differentiated services over integrated services?
+
+>
 ````
 
 ## 2014-15 · Final-Exam · Sem 2 · paper b7bb25e4c5c7

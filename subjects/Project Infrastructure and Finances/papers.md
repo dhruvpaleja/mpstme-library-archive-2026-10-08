@@ -647,6 +647,100 @@ a xX
 oo
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper 827ce2839545
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/PROJECT INFRASTRUCTURE AND FINACES/scan0015(8).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 08/01/2013
+- Text: ocr (2 pages), mean OCR confidence 94.3
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engi:
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV| z -
+Academic Year : 2012-2013
+
+Subject: PROJECT AND INFRASTRUCTURE FINANCE Marks: 50
+Time: 11.00 a.m
+Date: 08/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+INSTRUCTIONS: Candidate should read carefully the instructions printed on
+the question paper and on cover of Answer book, which is provided for their use
+
+NOTE: (1) Total No. of questions SEVEN
+(2) Q. no 1 in section A and Q. 6 in section C are compulsory
+(3) Attempt 3 questions out of questions 2 to 5 in section B
+(4) In all 5 questions are to be attempted
+(5) Answer to each new question to be started on a fresh page
+(6) Pencil not to be used
+
+Q.1 5 Marks — 1 Mark for each
+
+i. Non-recourse finance in project finance means
+a. Lenders have to depend on cash flow and assets of project only
+b. In case of project failure lenders can recover the dues from other assets
+of sponsor company also
+c. In case of project failure lenders can recover the dues from personal
+assets of sponsors
+d. There is no such system of finance in project finance
+ii. Export receivables are to be
+a. Part of current assets for calculating working capital finance eligibility
+j b. Part of current liabilities for calculating working capital finance
+eligibility
+c. Reduced from current assets for calculating working capital finance
+eligibility and permitted through separate limit
+d. Not to be used for permitting working capital finance
+iii. The funds can be raised through ADR/GDR by
+a. Individuals
+b. Partnership firms
+c. Indian company not even eligible to raise funds from market
+d. Indian company eligible to raise funds from domestic market
+iv. In case the Directors of the Project company have given personal guarantee for the
+‘ } project finance taken, the Bank can ask them to pay
+a. When the Project company refuses to pay
+b. When the Project company does not have any thing to pay
+c. Any time, treating them as principal borrowers including before asking
+Project company to pay
+d. They cannot be asked to pay at all
+
+A
+--- page 2 ---
+vy. Project company can raise public deposits
+a. With the permission of SEBI
+b. With the approval of RBI
+c. With the approval of the Registrar of companies
+d. No permissions/approval are required
+
+SECTION B
+Answer any 3 questions out of Q. 2 to 5 (each question 10 marks-Total 30 marks)
+
+Q.2 Discuss Basel I and II norms. How these norms are important in risk
+determination in project finance?
+
+Q.5 Discuss in detail the risks involved in project finance and the methods to
+mitigate them. :
+
+Q.4 Discuss all aspects of Financial Estimations and Projections for Project Finance
+in respect of
+a. Projected cash flow statement
+b. Projected balance sheet
+Q.5 Discuss in detail the instruments, institutions and methods for the Financing
+options through Owned and Debt funds available for project finance
+
+SECTION C
+Q. 6 Write Short notes on any 3
+a. Working capital finance, its eligibility and methods of calculations
+b. International equity financing options in project finance
+c. Pay back period, Average (Accounting) rate of return (ARR) and Benefit Cost
+Ratio (BCR) methods, advantage and limitations.
+d. Performance and Financial guarantees
+
+(15 Marks)
+````
+
 ## 2012-13 · Re-Exam · Trim 14 · paper 6aea5c3a9721
 
 - Departments: Common (all branches)
@@ -829,6 +923,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/PROJECT INFRASTRUCTURE AND FINACES/2009-2010(147).pdf`
 - Printed on paper: max marks: 50
 - Text: ocr (1 page), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 __2 STITUTE OF ay
@@ -854,7 +949,6 @@ INSTRUCTIONS: Candidate should read carefully the instructions printed on
 the question paper and on cover of Answer book, which is provided for their use
 
 DATE: 23 Dece Ser 2009 TOTAL MARKS: 50
-TIME : Zhour (2:90 pwate 4: pwr
 NOTE: () Total No. of questions SEVEN
 
 (2) Q. no 1 in section A and Q. 7 in section C are compulsory
@@ -1207,98 +1301,4 @@ ii) Risk Analysis in Appraising projects
 7. What is Venture Capital? How do they help in financing projects?
 
 x
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 827ce2839545
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/PROJECT INFRASTRUCTURE AND FINACES/scan0015(8).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 08/01/2013
-- Text: ocr (2 pages), mean OCR confidence 94.3
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engi:
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV| z -
-Academic Year : 2012-2013
-
-Subject: PROJECT AND INFRASTRUCTURE FINANCE Marks: 50
-Time: 11.00 a.m
-Date: 08/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-INSTRUCTIONS: Candidate should read carefully the instructions printed on
-the question paper and on cover of Answer book, which is provided for their use
-
-NOTE: (1) Total No. of questions SEVEN
-(2) Q. no 1 in section A and Q. 6 in section C are compulsory
-(3) Attempt 3 questions out of questions 2 to 5 in section B
-(4) In all 5 questions are to be attempted
-(5) Answer to each new question to be started on a fresh page
-(6) Pencil not to be used
-
-Q.1 5 Marks — 1 Mark for each
-
-i. Non-recourse finance in project finance means
-a. Lenders have to depend on cash flow and assets of project only
-b. In case of project failure lenders can recover the dues from other assets
-of sponsor company also
-c. In case of project failure lenders can recover the dues from personal
-assets of sponsors
-d. There is no such system of finance in project finance
-ii. Export receivables are to be
-a. Part of current assets for calculating working capital finance eligibility
-j b. Part of current liabilities for calculating working capital finance
-eligibility
-c. Reduced from current assets for calculating working capital finance
-eligibility and permitted through separate limit
-d. Not to be used for permitting working capital finance
-iii. The funds can be raised through ADR/GDR by
-a. Individuals
-b. Partnership firms
-c. Indian company not even eligible to raise funds from market
-d. Indian company eligible to raise funds from domestic market
-iv. In case the Directors of the Project company have given personal guarantee for the
-‘ } project finance taken, the Bank can ask them to pay
-a. When the Project company refuses to pay
-b. When the Project company does not have any thing to pay
-c. Any time, treating them as principal borrowers including before asking
-Project company to pay
-d. They cannot be asked to pay at all
-
-A
---- page 2 ---
-vy. Project company can raise public deposits
-a. With the permission of SEBI
-b. With the approval of RBI
-c. With the approval of the Registrar of companies
-d. No permissions/approval are required
-
-SECTION B
-Answer any 3 questions out of Q. 2 to 5 (each question 10 marks-Total 30 marks)
-
-Q.2 Discuss Basel I and II norms. How these norms are important in risk
-determination in project finance?
-
-Q.5 Discuss in detail the risks involved in project finance and the methods to
-mitigate them. :
-
-Q.4 Discuss all aspects of Financial Estimations and Projections for Project Finance
-in respect of
-a. Projected cash flow statement
-b. Projected balance sheet
-Q.5 Discuss in detail the instruments, institutions and methods for the Financing
-options through Owned and Debt funds available for project finance
-
-SECTION C
-Q. 6 Write Short notes on any 3
-a. Working capital finance, its eligibility and methods of calculations
-b. International equity financing options in project finance
-c. Pay back period, Average (Accounting) rate of return (ARR) and Benefit Cost
-Ratio (BCR) methods, advantage and limitations.
-d. Performance and Financial guarantees
-
-(15 Marks)
 ````

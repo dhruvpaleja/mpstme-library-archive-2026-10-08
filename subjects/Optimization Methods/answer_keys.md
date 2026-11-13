@@ -1136,6 +1136,573 @@ Final decision variables: x1 = 70.0, x2 = 20.0.   ---------------(2 Marks)
 ********** 19 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 3 · Answer key · paper a2a75f53ee53
+
+- Departments: Data Science
+- Programmes: BTech DS 7009, Integrated DS 7038, MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_DS_7009/Optimization Methods/ANS_Optimization Methods(702BS0C032)_2024-2025.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
+- Text: text (19 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. TECH (CSE - DS)/B. Tech (DS)/B. Tech Intg. (DS)/MBA Tech (DS)
+Year: II / IV/Semester III/Semester VII(Exam Year: 2025-2026)
+Subject: Optimization Methods
+Date: 08 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 19 pages.
+2. Question No.1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. Answer to each new question to be started on a fresh page.
+6. Figure on right hand side indicates full marks
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1. a
+Aggie Power Generation has four generating stations S₁, S₂, S₃ and S₄ with annual available capacities (in
+MW) 5, 8, 7 and 14 respectively. They supply three markets (destinations) D₁, D₂, D₃ whose annual demands
+are 7, 9 and 18 MW respectively. The unit shipping costs ($/MW) from each station to each destination are
+given below
+D₁   D₂   D₃   Supply
+S₁   2   7   4   5
+S₂   3   3   1   8
+S₃   5   4   7   7
+S₄   1   6   2   14
+Demand   7   9   18   34
+Using the North-West Corner Method, determine an initial basic feasible solution for the Aggie Power
+distribution problem and compute the total distribution cost.
+Solution:
+4 Marks
+********** 1 **********
+--- page 2 ---
+1 Marks
+Q1. b
+Formulate the dual of the given primal problem.
+Maximize Z = 6 x 1 + 4 x 2
+subject to,
+2 x 1 + 3 x 2  12
+x 1 + x 2  6
+x 1 + 4 x 2 = 8
+x 1 , x 2  0
+Solution:
+Since objective function is maximizing, all ≥ constraints (2) can be converted to ≤ type by multiplying both
+sides by -1
+---------------------------------------------------(1 mark)
+MAX zx = 6 x1 + 4 x2
+subject to
+2 x1 + 3 x2 ≤ 12
+- x1 - x2 ≤ -6
+x1 + 4 x2 = 8
+and x1,x2≥0;
+In primal, There are 2 variables and 3 constraints, so in dual there must be 2 constraints and 3 variables
+In primal, The coefficient of objective function c1=6,c2=4 becomes right hand side constants in dual
+In primal, The right hand side constants b1=12,b2=-6,b3=8 becomes coefficient of objective function in
+dual
+In primal, objective function is maximizing, so in dual objective function must be minimizing
+Let y1,y2,y3 be the dual variables
+Since 3rd constraint in the primal is equality, the corresponding dual variable y3 will be unrestricted in sign.
+---------------------------------------------------(1 mark)
+Dual is
+MIN Zy = 12 y1 - 6 y2 + 8 y3
+subject to
+2 y1 - y2 + y3 ≥ 6
+3 y1 - y2 + 4 y3 ≥ 4
+and y1,y2≥0;y3 unrestricted in sign
+------------------------------------(3 marks)
+********** 2 **********
+--- page 3 ---
+Q1. c
+State whether the game whose payoff matrix is given below is strictly determinable and fair. Also, determine
+the value of the game.
+Player B
+B1   B2   B3   B4
+A1   −5   −2   0   7
+Player A   A2   5   −6   −4   8
+A3   4   0   2   3
+Solution:
+Player B
+B1   B2   B3   B4
+A1   −5   −2   0   7   -5
+Player A   A2   5   −6   −4   8   -6   3 Marks
+A3   4   0   2   3   0
+4   0   2   8
+Maximin
+Minimax
+• As minimax=maximin, saddle point exits, it is strictly determinable
+• A uses A3 strategy and B uses B2 strategy.   2 Marks
+• Value of the gate is zero, it’s a fair game.
+Q1. d
+A sales representative has to travel to four major cities to meet clients and promote new products. He will
+begin his journey from one city, visit each of the remaining cities exactly once, and finally return to the starting
+city. The estimated travel cost (in thousand rupees) between every pair of cities is given in the table below.
+A   B   C   D
+A   -   15   20   10
+B   25   -   35   15
+C   5   25   -   20
+D   10   20   12   -
+He wants to plan his trip in the most economical way possible so that his total travel expense is minimized.
+What should be the order in which the salesman visits the cities so that the total travel cost is minimized?
+Solution:
+Row operation   Column Operation
+………………………(1 mark)   ………………………….(1 mark)
+********** 3 **********
+--- page 4 ---
+Allocation
+…………….(2 marks)
+Optimal solution is A → B → D → C → A   ……………(1 Mark)
+Q2. a
+Solve the following two player game.
+Player B
+B₁   B₂   B₃   B₄
+A₁   5   -10   9   0
+Player A   A₂   6   7   8   1
+A₃   8   7   15   1
+A₄   3   4   -1   4
+Solution:
+Show that saddle point does not exists (maximin, minimax). ………………………(3 marks)
+….1 marks   ……1 marks   ……1 marks
+……1 marks
+…….3 marks
+Q2. b
+A manufacturing company produces three types of portable LED lamps Model A, Model B, and Model C.
+The profit obtained from the sale of each unit of Model A, Model B, and Model C is ₹30, ₹40, and ₹20
+respectively. Each unit of the product requires processing time on a common machining line. The machining
+********** 4 **********
+--- page 5 ---
+time required per unit is 10 minutes for Model A, 12 minutes for Model B, and 7 minutes for Model C. The
+total available machining time per week is limited to 10,000 minutes. In addition, due to packaging and market
+constraints, the total number of lamps (of all models together) that can be produced in a week cannot exceed
+1,000 units.
+Formulate and solve a Linear Programming Problem (LPP) to determine the number of units of each model
+to be produced per week so that the total profit is maximized
+Solution:
+LPP formulation to maximize the profit:
+Maximize Z = 30 x 1 + 40 x 2 + 20 x 3
+subject to,
+10 x 1 + 12 x 2 + 7 x 3  10000   ………………….(3 marks)
+x 1 + x 2 + x 3  1000
+x 1 , x 2 , x 3  0
+Setting up the initial solution
+And solving till iteration1 …………………………………………………………………….(3 marks)
+Iteration 2 ………………………………….………………….(3 marks)
+Final answer ………………….(1 marks)
+Q3. a
+Fresh Blend Beverages Pvt. Ltd. produces bottled juices at three factories in Dallas, Chicago, and Atlanta with
+weekly capacities of 200, 160, and 90 crates respectively. They supply juices to three warehouses in New
+York, Los Angeles, and Houston which require 180, 120, and 150 crates weekly. The unit shipping costs (in
+dollars) are given in the table below.
+Warehouse
+Factory   New York Los Angeles Houston   Supply
+Dallas   16   20   12   200
+Chicago   14   8   18   160
+Atlanta   26   24   16   90
+********** 5 **********
+--- page 6 ---
+Demand   180   120   150   450
+Determine the initial distribution for this company using the VAM method and check whether the obtained
+solution is optimal using MODI method so that the total shipping cost is the minimum.
+Solution:
+1 mark   1 mark
+1 mark   1 mark
+IBFS VAM Solution : 120(8)+90(16)+12(60)+14(40)+16(140) = 5920   → 1 Mark
+→ 1 Mark
+→ 2 Marks
+********** 6 **********
+--- page 7 ---
+→ 2 marks
+Optimal value is 5920.. same as VAM
+Q3. b
+Mr Girish wants to invest Rs 10,000 in one of the three options A, B and C. The pay-off for his investment
+depends on the nature of the economy (inflation, recession, or no change). The possible returns under each
+economic situation are given below
+Strategy   Nature of Economy
+Inflation E1   Recession E2 No Change E3
+S1   2000   1200   1500
+S2   3000   800   1000
+S3   2500   1000   1800
+What course of action has he to take according to
+(i) The pessimistic criterion (Maximin)
+(ii) The equally likely criterion (Laplace)
+(iii) The regret criterion.
+(iv) Hurwicz criterion, the degree of optimism being 0.6.
+Solution:
+(i) Pessimistic criterion — Maximin
+For each strategy find the minimum payoff across the states.
+Strategy   Minimum
+payoff (Rs)
+A   1200
+B   800
+C   1000
+Maximum among these minima = Rs 1200 for A.   --------------------(2 Marks)
+(ii) Equally likely criterion — Laplace
+Assume each state is equally likely (probability 1/3).
+Strategy   Average payoff (Rs)
+A   1566.67
+B   1600.00
+C   1766.67
+The strategy with the largest average payoff is C.   --------------------(2 Marks)
+********** 7 **********
+--- page 8 ---
+(iii) Regret criterion — Minimax regret
+For each state (column) find the best payoff. Then compute regret = (best in state) − (actual payoff).
+Strategy   Regret in   Regret in   Regret in No
+Inflation (E1)   Recession (E2) change (E3) (Rs)
+(Rs)   (Rs)
+A   1000   0   300
+B   0   400   800
+C   500   200   0
+For each strategy, the maximum regret (worst-case regret).
+Strategy   Maximum
+regret (Rs)
+A   1000
+B   800
+C   500
+The strategy with smallest maximum regret: C (max regret = Rs 500). ----------(3 Marks)
+(iv) Hurwicz criterion — Degree of optimism α = 0.6
+Hurwicz value = α*(maximum payoff) + (1−α)*(minimum payoff), where α = 0.6.
+Strategy   Max payoff   Min payoff   Hurwicz value
+(Rs)   (Rs)   (α=0.6)
+A   2000   1200   1680.00
+B   3000   800   2120.00
+C   2500   1000   1900.00
+Option B (highest Hurwicz value = Rs 2120.00).   ----------(3 Marks)
+Q4. a
+Solve the following LPP using the Big-M method to find the optimal cost.
+Minimize Z = 500 x 1 + 200 x 2
+subject to,
+3 x 1 + 2 x 2  90
+x 1  10
+− 2 x 1 + x 2 = 0
+x 1 , x 2  0
+Solution:
+Setting up the initial solution
+And solving till iteration1 …………………………………..(4 marks)
+Iteration 2 ………………………………….………………….(3 marks)
+Iteration 3 ………………………………….………………….(2 marks)
+********** 8 **********
+--- page 9 ---
+Iteration 1
+Iteration 2
+Iteration 3
+Sol: x1=10, x2=20 and Z min=9000 ………………….(1 marks)
+Q4. b
+A company operates in five major territories and has five salesmen available for assignment. Each territory
+differs in its sales potential, and each salesman has a different level of selling effectiveness. The estimated
+annual sales that each salesman would generate in each territory are given in the table below:
+Territories
+A   B   C   D   E
+1   32   38   40   28   40
+2   40   24   28   21   36
+Salesmen
+3   41   27   33   30   37
+4   22   38   41   36   36
+5   29   33   40   35   39
+Identify the best allocation of salesmen to territories so that the sales revenues are maximized.
+Solution:
+********** 9 **********
+--- page 10 ---
+As the given problem is of maximization type, it has to be converted to minimization type.
+Minimization form
+A B C D E
+1 9   3   1 13 1
+2 1 17 13 20 5
+3 0 14 8 11 4
+4 19 3   0   5 5
+5 12 8   1   6 2
+2 Marks
+Row operation
+A B C D E
+1 8   2   0 12 0
+2 0 16 12 19 4
+3 0 14 8 11 4
+4 19 3   0   5 5
+5 11 7   0   5 1
+1 mark
+Column operation
+A B C D E
+1 8   0   0   7 0
+2 0 14 12 14 4
+3 0 12 8   6 4
+4 19 1   0   0 5
+5 11 5   0   0 1
+1 mark
+Allocation
+A   B   C   D   E
+1   8   0   0   7   0
+2   0   14   12   14   4   ✓
+3   0   12   8   6   4   ✓
+4   19   1   0   0   5
+5   11   5   0   0   1   ➔ 2 Marks
+✓
+Revised allocation (optimal)
+A   B   C   D   E
+1   12   0   0   7   0
+2   0   10   8   10   0
+3   0   8   4   2   0
+4   23   1   0   0   5
+5   15   5   0   0   1   ➔ 2 Marks
+1→B, 2→A, 3→E, 4→C, 5→D   → 1 Mark
+The associated maximum sales revenue is 38+40+37+41+35 = 191,000/-
+********** 10 **********
+--- page 11 ---
+Q5. a
+A bakery keeps stock of a popular brand of cake. Previous experience shows the daily demand pattern for the
+item with associated probabilities, as given below
+Daily Demand   0   10   20   30   40   50
+Probability   0.01   0.20   0.15   0.50   0.12   0.02
+Use the following sequence of random numbers to simulate the demand for next 10 days. Random numbers:
+25, 39, 65, 76, 12, 05, 73, 89, 19, 49. Also estimate the daily average demand for the cakes on the basis of
+the simulated data.
+Solution:
+The daily demand values and corresponding probabilities are:
+Demand   Probability   Cumulative   Random number
+probability   interval (00-99)
+0   0.01   0.01   00 - 00
+10   0.20   0.21   01 - 20
+20   0.15   0.36   21 - 35
+30   0.50   0.86   36 - 85
+40   0.12   0.98   86 - 97
+50   0.02   1.00   98 - 99
+----------------(3 Marks)
+Random numbers used (two-digit): 25, 39, 65, 76, 12, 05, 73, 89, 19, 49.
+Simulation Table (10 days)
+Day   Random number   Simulated demand (cakes)
+1   25   20
+2   39   30
+3   65   30
+4   76   30
+5   12   10
+6   05   10
+7   73   30
+8   89   40
+9   19   10
+10   49   30
+-------------------(5 Marks)
+Total demand over 10 days = 240 cakes.   -----------------(1 Mark)
+Average daily demand = 240 / 10 = 24.00 cakes per day.   ------------------(1 Mark)
+Q5. b
+Solve the following Integer Linear Programming (ILP) problem using the Branch and Bound (Graphical)
+method and determine the optimal integer solution.
+Max z = 7 x 1 + 9 x 2
+Subject to
+− x 1 + 3 x 2  6
+7 x 1 + x 2  35
+x 2  7
+x 1 , x 2 are non negative integers
+********** 11 **********
+--- page 12 ---
+Solution:
+……………(5 marks)
+Branch at x1: x1<=4, x1>=5   …………………..(1mark)
+Branch B solution …………………..(1mark)
+Branch C solution …………………..(1mark)
+Branch D solution …………………..(1mark)
+Branch E solution …………………..(1mark)
+********** 12 **********
+--- page 13 ---
+Q6. a
+A fruit merchant purchases oranges at Rs 50 per basket and sells them at Rs 80. Unsold oranges are disposed
+off at Rs 20 per basket the next day. Past record of sales for 120 days is as given below
+Baskets Sold   15 16 17 18
+No. of Days Sold 12 24 48 36
+Using EMV, find how many baskets the merchant should purchase every day to maximize his profit.
+Solution:
+Here unsold baskets have a salvage value of Rs 20 each. Therefore, the loss per basket is 50-20 = 30.
+Daily sales (D)   No. of days (out of 120)   Empirical probability
+15   12   0.10
+16   24   0.20
+17   48   0.40
+18   36   0.30
+----------------(1 Mark)
+********** 13 **********
+--- page 14 ---
+Thus the Profit = 30 (no. of baskets sold) - 30 (no. of baskets unsold)
+Stock Q \ Demand D   15   16   17   18
+Probability   0.1   0.2   0.4   0.3
+15   Rs 450.00   Rs 450.00   Rs 450.00   Rs450.00
+16   Rs 420.00   Rs 480.00   Rs 480.00   Rs 480.00
+17   Rs 390.00   Rs 450.00   Rs 510.00   Rs 510.00
+18   Rs 360.00   Rs 420.00   Rs 480.00   Rs 540.00
+-------------------(2 Marks)
+Stock Q EMV = Σ [Profit(Q,D) × P(D)]   EMV (Rs)
+15   450*0.1 +450*0.2 +450*0.4+450*0.3 = 450   450
+16   420*0.1 +480*0.2 +480*0.4+480*0.3 = 474   474
+17   390*0.1 +450*0.2 +510*0.4+510*0.3 = 486   486
+18   360*0.1 +420*0.2 +480*0.4+540*0.3 = 474   474
+-------------------(1 Mark)
+Since the highest EMV is 486, the course of action to be chosen is A3. Thus the merchant should
+purchase 17 baskets every day.   -------------------(1 Mark)
+Q6. b
+A company produces motorcycle seats. The company has two production lines. The production rate for line 1
+is 50 seats per hour and for line 2 it is 60 seats per hour. The company has entered into a contract to daily
+supply 1,200 seats daily to another company. Currently, the normal operation period for each line is 8 hours.
+The production manager of the company is trying to determine the best daily operation hours for the two lines.
+He has set the priorities to achieve his goals, as given below:
+P1: Produce and deliver 1,200 seats daily
+P2: Limit the daily overtime operation hours of line 2 to 3 hours
+P3: Minimize the underutilization of the regular daily operation hours of each line. Assign differential weights
+based on the relative productivity rate.
+P4: Minimize the daily overtime operation hours of each line as much as possible. Assign differential weights
+based on the relative cost of overtime. It is assumed that the cost of operation is identical for the two production
+lines.
+Formulate this problem as a Goal Programming model.
+Solution:
+Let 𝑥1 𝑎𝑛𝑑 𝑥2 = daily operation hours for the lines 1 and 2, respectively.
+It may be noted in this problem that the first criterion for determining the differential weights in the
+third priority goal is the relative cost of overtime. The production rates ratio for the lines is 50 to 60.
+Therefore, the relative cost resulting from an hour of overtime is greater for line 1 than for line 2. The
+relative cost of overtime ratio for line 1 to line 2 will be line 6 to line 5. Second, the criterion for
+determining the differential weights in the fourth priority goal is relative productivity rate. Since the
+productivity of line 1 is 50 seats/ hour and of line 2 is 60 seats/hour, the productivity goals are weighted
+for line 1 to line 2 as line 5 to line 6. The goal programming model for this problem can now be
+formulated as follows ------(1 Mark)
+Then the GP model is stated as follows:
+𝑀𝑖𝑛𝑖𝑚𝑖𝑧𝑒 𝑍= 𝑃1𝑑1 −+ 𝑃2𝑑4 + + 𝑃3(5𝑑2 −+ 6𝑑3 −) + 𝑃4(6𝑑2 + + 5𝑑3 +) ---------------(1 Mark)
+********** 14 **********
+--- page 15 ---
+subject to the constraints
+50𝑥1 + 60𝑥2 + 𝑑1 −−𝑑1 + = 1200
+𝑥1 + 𝑑2 −−𝑑2 + = 8   ----------------(1 Mark)
+𝑥2 + 𝑑3 −−𝑑3 + = 8
+𝑥2 + 𝑑4 −−𝑑4 + = 11   ----------------(1 Mark)
+and   𝑥1, 𝑥2, 𝑑1 −, 𝑑1 +, 𝑑2 −, 𝑑2 +, 𝑑3 −, 𝑑3 +, 𝑑4 −, 𝑑4 + ≥0. ----------------(1 Mark)
+Q6. c
+Given an Integer Linear Programming (ILP) problem with a relaxed optimal solution from the Simplex
+method is shown below:
+Max z = 2 x 1 + 5 x 2
+Subject to
+2 x 1 + 3 x 2  1, x 2  2,
+x 1 , x 2 are non negative integers
+CJ   2   5   0   0
+B   CB XB   X1   X2   S1   S2
+X2   5   0.3333   0.6667 1   0.3333 0
+S2   0   1.6667   -0.6667 0   -0.3333 1
+Z=1.6665   ZJ   3.3333 5   1.6667 0
+CJ-ZJ   -1.3333 0   -1.6667 0
+a) Construct first Gomory's fractional cut for the given non-integer optimal solution.
+b) Illustrate the first iteration of Gomory’s cutting-plane method.
+Determine the non-integer optimal solution after first Gomory’s cut.
+Solution:
+1. From Simplex solution:
+Since all Cj-Zj≤0
+Hence, non-integer optimal solution is arrived with value of variables as :
+x1=0,x2=0.3333
+Max Z=1.6667…………………….[02 Marks]
+2. First iteration of Gomory’s cutting-plane method.
+To obtain the integer valued solution, we proceed to construct Gomory's fractional cut, with the help
+of x2-row as follows:
+0.3333=0.6667x1+1x2+0.3333S1
+(0+0.3333)=(0+0.6667)x1+(1+0)x2+(0+0.3333)S1
+The fractional cut will become
+-0.3333=Sg1-0.6667x1-0.3333S1→ (Cut-1)
+Adding this additional constraint at the bottom of optimal simplex table. The new table so obtained is
+…………………….[02 Marks]
+********** 15 **********
+--- page 16 ---
+…………………….[02 Marks]
+Minimum negative XB is -0.3333 and its row index is 3. So, the leaving basis variable is Sg1.
+Minimum positive ratio is 2 and its column index is 1. So, the entering variable is x1.
+∴ The pivot element is -0.6667.
+Entering =x1, Departing =Sg1, Key Element =-0.6667
+R3(new)=R1(old) ÷(-0.6667)
+R1(new)=R3(old) -(0.6667) R3(new)
+R2(new)=R2(old) +(0.6667) R3(new)
+…………………….[02 Marks]
+3. Non-integer optimal solution after first Gomory’s cut
+Since all Cj-Zj≤0
+Hence, non-integer optimal solution is arrived with value of variables as :
+x1=0.5,x2=0
+Max Z=1…………………….[02 Marks]
+********** 16 **********
+--- page 17 ---
+Q7. a
+Distinguish between (i) Pure strategy and mixed strategy (ii) Zero-sum and non-zero-sum games.
+Solution:
+Pure Strategy   Mixed Strategy
+A strategy in which a player consistently   A strategy in which a player randomly selects among two or
+follows one specific course of action.   more pure strategies according to certain probabilities.
+Deterministic (definite choice).   Probabilistic (involves randomization).
+Opponent can predict the player’s move.   Opponent cannot easily predict the player’s move.
+Used when one strategy always provides   Used when no pure strategy dominates; helps in achieving
+the best payoff.   equilibrium.
+3 Marks
+Zero-Sum Game   Non-Zero-Sum Game
+The gain of one player is exactly equal to   The gain or loss of one player does not necessarily equal
+the loss of another.   the loss or gain of another.
+Constant (sum of payoffs = 0).   Variable (sum of payoffs ≠ 0).
+Purely competitive — one’s success means May involve both competition and cooperation.
+another’s failure.
+2 Marks
+Q7. b
+What is Monte Carlo simulation? Describe the idea of experimentation (Random sampling) in simulation.
+Solution:
+The monte Carlo simulation approach is used to incorporate the random behaviour of variable(s) of
+interest in a model. A formal definition of Monte Carlo Simulation is as follows:
+• The Monte Carlo simulation technique involves conducting repetitive experiments on the model of the
+system under study, with some known probability distribution to draw random samples (observations)
+using random numbers.
+The Monte Carlo simulation approach consists of following steps:
+1. Setting up a probability distribution for variables to be analysed.
+2. Building a cumulative probability distribution for each random variable.
+3. Generating random numbers and then assigning an appropriate set of random numbers to represent
+value or range (interval) of values for each random variable.
+4. Conducting the simulation experiment using random sampling.
+5. Repeating Step 4 until the required number of simulation runs has been generated.
+6. Designing and implementing a course of action and maintaining control. -------(4 Marks)
+Random Number Generation: Monte Carlo simulation requires the generation of a sequence of random
+numbers where
+(i)   all numbers are equally likely, and
+(ii)   no patterns appear in sequence of numbers. This sequence of random numbers helps in
+choosing random observations (samples) from the probability distribution
+-----------(1 Mark)
+Q7. c
+Use the Graphical Method to solve the following Goal Programming Problem.
+𝑀𝑖𝑛𝑖𝑚𝑖𝑧𝑒 𝑍= 𝑃1𝑑1 −+ 𝑃2𝑑4 + + 5𝑃3𝑑2 −+ 3𝑃3𝑑3 −+ 𝑃4𝑑1 +
+subject to the constraints
+𝑥1 + 𝑥2 + 𝑑1 −−𝑑1 + = 80
+********** 17 **********
+--- page 18 ---
+𝑥1 + 𝑑2 −= 70
+𝑥2 + 𝑑3 −= 45
+𝑥1 + 𝑥2 + 𝑑4 −−𝑑4 + = 90
+𝑥1, 𝑥2, 𝑑1 −, 𝑑1 +, 𝑑2 −, 𝑑3 −, 𝑑4 −, 𝑑4 + ≥0.
+Solution:
+We assume the priority ordering (lexicographic): P1 (highest), then P2, then P3, then P4. If you have a
+different priority ordering please tell me and I will recompute accordingly.
+Step 1: Express deviational variables in x1,x2
+d1^- = max(80 - (x1 + x2), 0)
+d1^+ = max((x1 + x2) - 80, 0)
+d2^- = max(70 - x1, 0)
+d3^- = max(45 - x2, 0)
+d4^- = max(90 - (x1 + x2), 0)
+d4^+ = max((x1 + x2) - 90, 0)   ---------------(2 Marks)
+Step 2: Priority 1 & 2 -> feasible strip
+Minimizing d1^- requires x1 + x2 ≥ 80. Minimizing d4^+ requires x1 + x2 ≤ 90. Combined: 80 ≤ x1 + x2 ≤
+90. We restrict attention to this strip for subsequent priorities.
+Step 3: Minimize P3-term (5 d2^- + 3 d3^-) on the strip
+We minimize f3(x1,x2) = 5·max(70-x1,0) + 3·max(45-x2,0) subject to 80 ≤ x1 + x2 ≤ 90. A numerical
+search on a fine grid yields the minimum f3 value and the corresponding point shown in the contour plot
+below.   ---------------(2 Marks)
+---------------(4 Marks)
+********** 18 **********
+--- page 19 ---
+Numerical minimization yields the minimizing point (approx): x1 = 70.0, x2 = 20.0.
+At this point:
+d1^- = 0.0, d1^+ = 10.0
+d2^- = 0.0, d3^- = 25.0
+d4^- = 0.0, d4^+ = 0.0
+Step 4: Priority 4 — minimize d1^+ without worsening higher priorities
+Among points that achieve the minimal f3 value we selected one that minimizes d1^+. The final chosen
+point above satisfies all priorities lexicographically.
+Final decision variables: x1 = 70.0, x2 = 20.0.   ---------------(2 Marks)
+********** 19 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 7ea36ff7c4d6
 
 - Departments: Data Science
@@ -4114,571 +4681,4 @@ oS to }240 | 160
 iJ an 100 © 300
 
 FIR ICR 2 I OH
-````
-
-## 2024-25 · Re-Exam · Sem 3 · Answer key · paper a2a75f53ee53
-
-- Departments: Data Science
-- Programmes: BTech DS 7009, Integrated DS 7038, MBATech DS 7052
-- Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_DS_7009/Optimization Methods/ANS_Optimization Methods(702BS0C032)_2024-2025.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
-- Text: text (19 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. TECH (CSE - DS)/B. Tech (DS)/B. Tech Intg. (DS)/MBA Tech (DS)
-Year: II / IV/Semester III/Semester VII(Exam Year: 2025-2026)
-Subject: Optimization Methods
-Date: 08 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 19 pages.
-2. Question No.1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. Answer to each new question to be started on a fresh page.
-6. Figure on right hand side indicates full marks
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-Q1. a
-Aggie Power Generation has four generating stations S₁, S₂, S₃ and S₄ with annual available capacities (in
-MW) 5, 8, 7 and 14 respectively. They supply three markets (destinations) D₁, D₂, D₃ whose annual demands
-are 7, 9 and 18 MW respectively. The unit shipping costs ($/MW) from each station to each destination are
-given below
-D₁   D₂   D₃   Supply
-S₁   2   7   4   5
-S₂   3   3   1   8
-S₃   5   4   7   7
-S₄   1   6   2   14
-Demand   7   9   18   34
-Using the North-West Corner Method, determine an initial basic feasible solution for the Aggie Power
-distribution problem and compute the total distribution cost.
-Solution:
-4 Marks
-********** 1 **********
---- page 2 ---
-1 Marks
-Q1. b
-Formulate the dual of the given primal problem.
-Maximize Z = 6 x 1 + 4 x 2
-subject to,
-2 x 1 + 3 x 2  12
-x 1 + x 2  6
-x 1 + 4 x 2 = 8
-x 1 , x 2  0
-Solution:
-Since objective function is maximizing, all ≥ constraints (2) can be converted to ≤ type by multiplying both
-sides by -1
----------------------------------------------------(1 mark)
-MAX zx = 6 x1 + 4 x2
-subject to
-2 x1 + 3 x2 ≤ 12
-- x1 - x2 ≤ -6
-x1 + 4 x2 = 8
-and x1,x2≥0;
-In primal, There are 2 variables and 3 constraints, so in dual there must be 2 constraints and 3 variables
-In primal, The coefficient of objective function c1=6,c2=4 becomes right hand side constants in dual
-In primal, The right hand side constants b1=12,b2=-6,b3=8 becomes coefficient of objective function in
-dual
-In primal, objective function is maximizing, so in dual objective function must be minimizing
-Let y1,y2,y3 be the dual variables
-Since 3rd constraint in the primal is equality, the corresponding dual variable y3 will be unrestricted in sign.
----------------------------------------------------(1 mark)
-Dual is
-MIN Zy = 12 y1 - 6 y2 + 8 y3
-subject to
-2 y1 - y2 + y3 ≥ 6
-3 y1 - y2 + 4 y3 ≥ 4
-and y1,y2≥0;y3 unrestricted in sign
-------------------------------------(3 marks)
-********** 2 **********
---- page 3 ---
-Q1. c
-State whether the game whose payoff matrix is given below is strictly determinable and fair. Also, determine
-the value of the game.
-Player B
-B1   B2   B3   B4
-A1   −5   −2   0   7
-Player A   A2   5   −6   −4   8
-A3   4   0   2   3
-Solution:
-Player B
-B1   B2   B3   B4
-A1   −5   −2   0   7   -5
-Player A   A2   5   −6   −4   8   -6   3 Marks
-A3   4   0   2   3   0
-4   0   2   8
-Maximin
-Minimax
-• As minimax=maximin, saddle point exits, it is strictly determinable
-• A uses A3 strategy and B uses B2 strategy.   2 Marks
-• Value of the gate is zero, it’s a fair game.
-Q1. d
-A sales representative has to travel to four major cities to meet clients and promote new products. He will
-begin his journey from one city, visit each of the remaining cities exactly once, and finally return to the starting
-city. The estimated travel cost (in thousand rupees) between every pair of cities is given in the table below.
-A   B   C   D
-A   -   15   20   10
-B   25   -   35   15
-C   5   25   -   20
-D   10   20   12   -
-He wants to plan his trip in the most economical way possible so that his total travel expense is minimized.
-What should be the order in which the salesman visits the cities so that the total travel cost is minimized?
-Solution:
-Row operation   Column Operation
-………………………(1 mark)   ………………………….(1 mark)
-********** 3 **********
---- page 4 ---
-Allocation
-…………….(2 marks)
-Optimal solution is A → B → D → C → A   ……………(1 Mark)
-Q2. a
-Solve the following two player game.
-Player B
-B₁   B₂   B₃   B₄
-A₁   5   -10   9   0
-Player A   A₂   6   7   8   1
-A₃   8   7   15   1
-A₄   3   4   -1   4
-Solution:
-Show that saddle point does not exists (maximin, minimax). ………………………(3 marks)
-….1 marks   ……1 marks   ……1 marks
-……1 marks
-…….3 marks
-Q2. b
-A manufacturing company produces three types of portable LED lamps Model A, Model B, and Model C.
-The profit obtained from the sale of each unit of Model A, Model B, and Model C is ₹30, ₹40, and ₹20
-respectively. Each unit of the product requires processing time on a common machining line. The machining
-********** 4 **********
---- page 5 ---
-time required per unit is 10 minutes for Model A, 12 minutes for Model B, and 7 minutes for Model C. The
-total available machining time per week is limited to 10,000 minutes. In addition, due to packaging and market
-constraints, the total number of lamps (of all models together) that can be produced in a week cannot exceed
-1,000 units.
-Formulate and solve a Linear Programming Problem (LPP) to determine the number of units of each model
-to be produced per week so that the total profit is maximized
-Solution:
-LPP formulation to maximize the profit:
-Maximize Z = 30 x 1 + 40 x 2 + 20 x 3
-subject to,
-10 x 1 + 12 x 2 + 7 x 3  10000   ………………….(3 marks)
-x 1 + x 2 + x 3  1000
-x 1 , x 2 , x 3  0
-Setting up the initial solution
-And solving till iteration1 …………………………………………………………………….(3 marks)
-Iteration 2 ………………………………….………………….(3 marks)
-Final answer ………………….(1 marks)
-Q3. a
-Fresh Blend Beverages Pvt. Ltd. produces bottled juices at three factories in Dallas, Chicago, and Atlanta with
-weekly capacities of 200, 160, and 90 crates respectively. They supply juices to three warehouses in New
-York, Los Angeles, and Houston which require 180, 120, and 150 crates weekly. The unit shipping costs (in
-dollars) are given in the table below.
-Warehouse
-Factory   New York Los Angeles Houston   Supply
-Dallas   16   20   12   200
-Chicago   14   8   18   160
-Atlanta   26   24   16   90
-********** 5 **********
---- page 6 ---
-Demand   180   120   150   450
-Determine the initial distribution for this company using the VAM method and check whether the obtained
-solution is optimal using MODI method so that the total shipping cost is the minimum.
-Solution:
-1 mark   1 mark
-1 mark   1 mark
-IBFS VAM Solution : 120(8)+90(16)+12(60)+14(40)+16(140) = 5920   → 1 Mark
-→ 1 Mark
-→ 2 Marks
-********** 6 **********
---- page 7 ---
-→ 2 marks
-Optimal value is 5920.. same as VAM
-Q3. b
-Mr Girish wants to invest Rs 10,000 in one of the three options A, B and C. The pay-off for his investment
-depends on the nature of the economy (inflation, recession, or no change). The possible returns under each
-economic situation are given below
-Strategy   Nature of Economy
-Inflation E1   Recession E2 No Change E3
-S1   2000   1200   1500
-S2   3000   800   1000
-S3   2500   1000   1800
-What course of action has he to take according to
-(i) The pessimistic criterion (Maximin)
-(ii) The equally likely criterion (Laplace)
-(iii) The regret criterion.
-(iv) Hurwicz criterion, the degree of optimism being 0.6.
-Solution:
-(i) Pessimistic criterion — Maximin
-For each strategy find the minimum payoff across the states.
-Strategy   Minimum
-payoff (Rs)
-A   1200
-B   800
-C   1000
-Maximum among these minima = Rs 1200 for A.   --------------------(2 Marks)
-(ii) Equally likely criterion — Laplace
-Assume each state is equally likely (probability 1/3).
-Strategy   Average payoff (Rs)
-A   1566.67
-B   1600.00
-C   1766.67
-The strategy with the largest average payoff is C.   --------------------(2 Marks)
-********** 7 **********
---- page 8 ---
-(iii) Regret criterion — Minimax regret
-For each state (column) find the best payoff. Then compute regret = (best in state) − (actual payoff).
-Strategy   Regret in   Regret in   Regret in No
-Inflation (E1)   Recession (E2) change (E3) (Rs)
-(Rs)   (Rs)
-A   1000   0   300
-B   0   400   800
-C   500   200   0
-For each strategy, the maximum regret (worst-case regret).
-Strategy   Maximum
-regret (Rs)
-A   1000
-B   800
-C   500
-The strategy with smallest maximum regret: C (max regret = Rs 500). ----------(3 Marks)
-(iv) Hurwicz criterion — Degree of optimism α = 0.6
-Hurwicz value = α*(maximum payoff) + (1−α)*(minimum payoff), where α = 0.6.
-Strategy   Max payoff   Min payoff   Hurwicz value
-(Rs)   (Rs)   (α=0.6)
-A   2000   1200   1680.00
-B   3000   800   2120.00
-C   2500   1000   1900.00
-Option B (highest Hurwicz value = Rs 2120.00).   ----------(3 Marks)
-Q4. a
-Solve the following LPP using the Big-M method to find the optimal cost.
-Minimize Z = 500 x 1 + 200 x 2
-subject to,
-3 x 1 + 2 x 2  90
-x 1  10
-− 2 x 1 + x 2 = 0
-x 1 , x 2  0
-Solution:
-Setting up the initial solution
-And solving till iteration1 …………………………………..(4 marks)
-Iteration 2 ………………………………….………………….(3 marks)
-Iteration 3 ………………………………….………………….(2 marks)
-********** 8 **********
---- page 9 ---
-Iteration 1
-Iteration 2
-Iteration 3
-Sol: x1=10, x2=20 and Z min=9000 ………………….(1 marks)
-Q4. b
-A company operates in five major territories and has five salesmen available for assignment. Each territory
-differs in its sales potential, and each salesman has a different level of selling effectiveness. The estimated
-annual sales that each salesman would generate in each territory are given in the table below:
-Territories
-A   B   C   D   E
-1   32   38   40   28   40
-2   40   24   28   21   36
-Salesmen
-3   41   27   33   30   37
-4   22   38   41   36   36
-5   29   33   40   35   39
-Identify the best allocation of salesmen to territories so that the sales revenues are maximized.
-Solution:
-********** 9 **********
---- page 10 ---
-As the given problem is of maximization type, it has to be converted to minimization type.
-Minimization form
-A B C D E
-1 9   3   1 13 1
-2 1 17 13 20 5
-3 0 14 8 11 4
-4 19 3   0   5 5
-5 12 8   1   6 2
-2 Marks
-Row operation
-A B C D E
-1 8   2   0 12 0
-2 0 16 12 19 4
-3 0 14 8 11 4
-4 19 3   0   5 5
-5 11 7   0   5 1
-1 mark
-Column operation
-A B C D E
-1 8   0   0   7 0
-2 0 14 12 14 4
-3 0 12 8   6 4
-4 19 1   0   0 5
-5 11 5   0   0 1
-1 mark
-Allocation
-A   B   C   D   E
-1   8   0   0   7   0
-2   0   14   12   14   4   ✓
-3   0   12   8   6   4   ✓
-4   19   1   0   0   5
-5   11   5   0   0   1   ➔ 2 Marks
-✓
-Revised allocation (optimal)
-A   B   C   D   E
-1   12   0   0   7   0
-2   0   10   8   10   0
-3   0   8   4   2   0
-4   23   1   0   0   5
-5   15   5   0   0   1   ➔ 2 Marks
-1→B, 2→A, 3→E, 4→C, 5→D   → 1 Mark
-The associated maximum sales revenue is 38+40+37+41+35 = 191,000/-
-********** 10 **********
---- page 11 ---
-Q5. a
-A bakery keeps stock of a popular brand of cake. Previous experience shows the daily demand pattern for the
-item with associated probabilities, as given below
-Daily Demand   0   10   20   30   40   50
-Probability   0.01   0.20   0.15   0.50   0.12   0.02
-Use the following sequence of random numbers to simulate the demand for next 10 days. Random numbers:
-25, 39, 65, 76, 12, 05, 73, 89, 19, 49. Also estimate the daily average demand for the cakes on the basis of
-the simulated data.
-Solution:
-The daily demand values and corresponding probabilities are:
-Demand   Probability   Cumulative   Random number
-probability   interval (00-99)
-0   0.01   0.01   00 - 00
-10   0.20   0.21   01 - 20
-20   0.15   0.36   21 - 35
-30   0.50   0.86   36 - 85
-40   0.12   0.98   86 - 97
-50   0.02   1.00   98 - 99
-----------------(3 Marks)
-Random numbers used (two-digit): 25, 39, 65, 76, 12, 05, 73, 89, 19, 49.
-Simulation Table (10 days)
-Day   Random number   Simulated demand (cakes)
-1   25   20
-2   39   30
-3   65   30
-4   76   30
-5   12   10
-6   05   10
-7   73   30
-8   89   40
-9   19   10
-10   49   30
--------------------(5 Marks)
-Total demand over 10 days = 240 cakes.   -----------------(1 Mark)
-Average daily demand = 240 / 10 = 24.00 cakes per day.   ------------------(1 Mark)
-Q5. b
-Solve the following Integer Linear Programming (ILP) problem using the Branch and Bound (Graphical)
-method and determine the optimal integer solution.
-Max z = 7 x 1 + 9 x 2
-Subject to
-− x 1 + 3 x 2  6
-7 x 1 + x 2  35
-x 2  7
-x 1 , x 2 are non negative integers
-********** 11 **********
---- page 12 ---
-Solution:
-……………(5 marks)
-Branch at x1: x1<=4, x1>=5   …………………..(1mark)
-Branch B solution …………………..(1mark)
-Branch C solution …………………..(1mark)
-Branch D solution …………………..(1mark)
-Branch E solution …………………..(1mark)
-********** 12 **********
---- page 13 ---
-Q6. a
-A fruit merchant purchases oranges at Rs 50 per basket and sells them at Rs 80. Unsold oranges are disposed
-off at Rs 20 per basket the next day. Past record of sales for 120 days is as given below
-Baskets Sold   15 16 17 18
-No. of Days Sold 12 24 48 36
-Using EMV, find how many baskets the merchant should purchase every day to maximize his profit.
-Solution:
-Here unsold baskets have a salvage value of Rs 20 each. Therefore, the loss per basket is 50-20 = 30.
-Daily sales (D)   No. of days (out of 120)   Empirical probability
-15   12   0.10
-16   24   0.20
-17   48   0.40
-18   36   0.30
-----------------(1 Mark)
-********** 13 **********
---- page 14 ---
-Thus the Profit = 30 (no. of baskets sold) - 30 (no. of baskets unsold)
-Stock Q \ Demand D   15   16   17   18
-Probability   0.1   0.2   0.4   0.3
-15   Rs 450.00   Rs 450.00   Rs 450.00   Rs450.00
-16   Rs 420.00   Rs 480.00   Rs 480.00   Rs 480.00
-17   Rs 390.00   Rs 450.00   Rs 510.00   Rs 510.00
-18   Rs 360.00   Rs 420.00   Rs 480.00   Rs 540.00
--------------------(2 Marks)
-Stock Q EMV = Σ [Profit(Q,D) × P(D)]   EMV (Rs)
-15   450*0.1 +450*0.2 +450*0.4+450*0.3 = 450   450
-16   420*0.1 +480*0.2 +480*0.4+480*0.3 = 474   474
-17   390*0.1 +450*0.2 +510*0.4+510*0.3 = 486   486
-18   360*0.1 +420*0.2 +480*0.4+540*0.3 = 474   474
--------------------(1 Mark)
-Since the highest EMV is 486, the course of action to be chosen is A3. Thus the merchant should
-purchase 17 baskets every day.   -------------------(1 Mark)
-Q6. b
-A company produces motorcycle seats. The company has two production lines. The production rate for line 1
-is 50 seats per hour and for line 2 it is 60 seats per hour. The company has entered into a contract to daily
-supply 1,200 seats daily to another company. Currently, the normal operation period for each line is 8 hours.
-The production manager of the company is trying to determine the best daily operation hours for the two lines.
-He has set the priorities to achieve his goals, as given below:
-P1: Produce and deliver 1,200 seats daily
-P2: Limit the daily overtime operation hours of line 2 to 3 hours
-P3: Minimize the underutilization of the regular daily operation hours of each line. Assign differential weights
-based on the relative productivity rate.
-P4: Minimize the daily overtime operation hours of each line as much as possible. Assign differential weights
-based on the relative cost of overtime. It is assumed that the cost of operation is identical for the two production
-lines.
-Formulate this problem as a Goal Programming model.
-Solution:
-Let 𝑥1 𝑎𝑛𝑑 𝑥2 = daily operation hours for the lines 1 and 2, respectively.
-It may be noted in this problem that the first criterion for determining the differential weights in the
-third priority goal is the relative cost of overtime. The production rates ratio for the lines is 50 to 60.
-Therefore, the relative cost resulting from an hour of overtime is greater for line 1 than for line 2. The
-relative cost of overtime ratio for line 1 to line 2 will be line 6 to line 5. Second, the criterion for
-determining the differential weights in the fourth priority goal is relative productivity rate. Since the
-productivity of line 1 is 50 seats/ hour and of line 2 is 60 seats/hour, the productivity goals are weighted
-for line 1 to line 2 as line 5 to line 6. The goal programming model for this problem can now be
-formulated as follows ------(1 Mark)
-Then the GP model is stated as follows:
-𝑀𝑖𝑛𝑖𝑚𝑖𝑧𝑒 𝑍= 𝑃1𝑑1 −+ 𝑃2𝑑4 + + 𝑃3(5𝑑2 −+ 6𝑑3 −) + 𝑃4(6𝑑2 + + 5𝑑3 +) ---------------(1 Mark)
-********** 14 **********
---- page 15 ---
-subject to the constraints
-50𝑥1 + 60𝑥2 + 𝑑1 −−𝑑1 + = 1200
-𝑥1 + 𝑑2 −−𝑑2 + = 8   ----------------(1 Mark)
-𝑥2 + 𝑑3 −−𝑑3 + = 8
-𝑥2 + 𝑑4 −−𝑑4 + = 11   ----------------(1 Mark)
-and   𝑥1, 𝑥2, 𝑑1 −, 𝑑1 +, 𝑑2 −, 𝑑2 +, 𝑑3 −, 𝑑3 +, 𝑑4 −, 𝑑4 + ≥0. ----------------(1 Mark)
-Q6. c
-Given an Integer Linear Programming (ILP) problem with a relaxed optimal solution from the Simplex
-method is shown below:
-Max z = 2 x 1 + 5 x 2
-Subject to
-2 x 1 + 3 x 2  1, x 2  2,
-x 1 , x 2 are non negative integers
-CJ   2   5   0   0
-B   CB XB   X1   X2   S1   S2
-X2   5   0.3333   0.6667 1   0.3333 0
-S2   0   1.6667   -0.6667 0   -0.3333 1
-Z=1.6665   ZJ   3.3333 5   1.6667 0
-CJ-ZJ   -1.3333 0   -1.6667 0
-a) Construct first Gomory's fractional cut for the given non-integer optimal solution.
-b) Illustrate the first iteration of Gomory’s cutting-plane method.
-Determine the non-integer optimal solution after first Gomory’s cut.
-Solution:
-1. From Simplex solution:
-Since all Cj-Zj≤0
-Hence, non-integer optimal solution is arrived with value of variables as :
-x1=0,x2=0.3333
-Max Z=1.6667…………………….[02 Marks]
-2. First iteration of Gomory’s cutting-plane method.
-To obtain the integer valued solution, we proceed to construct Gomory's fractional cut, with the help
-of x2-row as follows:
-0.3333=0.6667x1+1x2+0.3333S1
-(0+0.3333)=(0+0.6667)x1+(1+0)x2+(0+0.3333)S1
-The fractional cut will become
--0.3333=Sg1-0.6667x1-0.3333S1→ (Cut-1)
-Adding this additional constraint at the bottom of optimal simplex table. The new table so obtained is
-…………………….[02 Marks]
-********** 15 **********
---- page 16 ---
-…………………….[02 Marks]
-Minimum negative XB is -0.3333 and its row index is 3. So, the leaving basis variable is Sg1.
-Minimum positive ratio is 2 and its column index is 1. So, the entering variable is x1.
-∴ The pivot element is -0.6667.
-Entering =x1, Departing =Sg1, Key Element =-0.6667
-R3(new)=R1(old) ÷(-0.6667)
-R1(new)=R3(old) -(0.6667) R3(new)
-R2(new)=R2(old) +(0.6667) R3(new)
-…………………….[02 Marks]
-3. Non-integer optimal solution after first Gomory’s cut
-Since all Cj-Zj≤0
-Hence, non-integer optimal solution is arrived with value of variables as :
-x1=0.5,x2=0
-Max Z=1…………………….[02 Marks]
-********** 16 **********
---- page 17 ---
-Q7. a
-Distinguish between (i) Pure strategy and mixed strategy (ii) Zero-sum and non-zero-sum games.
-Solution:
-Pure Strategy   Mixed Strategy
-A strategy in which a player consistently   A strategy in which a player randomly selects among two or
-follows one specific course of action.   more pure strategies according to certain probabilities.
-Deterministic (definite choice).   Probabilistic (involves randomization).
-Opponent can predict the player’s move.   Opponent cannot easily predict the player’s move.
-Used when one strategy always provides   Used when no pure strategy dominates; helps in achieving
-the best payoff.   equilibrium.
-3 Marks
-Zero-Sum Game   Non-Zero-Sum Game
-The gain of one player is exactly equal to   The gain or loss of one player does not necessarily equal
-the loss of another.   the loss or gain of another.
-Constant (sum of payoffs = 0).   Variable (sum of payoffs ≠ 0).
-Purely competitive — one’s success means May involve both competition and cooperation.
-another’s failure.
-2 Marks
-Q7. b
-What is Monte Carlo simulation? Describe the idea of experimentation (Random sampling) in simulation.
-Solution:
-The monte Carlo simulation approach is used to incorporate the random behaviour of variable(s) of
-interest in a model. A formal definition of Monte Carlo Simulation is as follows:
-• The Monte Carlo simulation technique involves conducting repetitive experiments on the model of the
-system under study, with some known probability distribution to draw random samples (observations)
-using random numbers.
-The Monte Carlo simulation approach consists of following steps:
-1. Setting up a probability distribution for variables to be analysed.
-2. Building a cumulative probability distribution for each random variable.
-3. Generating random numbers and then assigning an appropriate set of random numbers to represent
-value or range (interval) of values for each random variable.
-4. Conducting the simulation experiment using random sampling.
-5. Repeating Step 4 until the required number of simulation runs has been generated.
-6. Designing and implementing a course of action and maintaining control. -------(4 Marks)
-Random Number Generation: Monte Carlo simulation requires the generation of a sequence of random
-numbers where
-(i)   all numbers are equally likely, and
-(ii)   no patterns appear in sequence of numbers. This sequence of random numbers helps in
-choosing random observations (samples) from the probability distribution
------------(1 Mark)
-Q7. c
-Use the Graphical Method to solve the following Goal Programming Problem.
-𝑀𝑖𝑛𝑖𝑚𝑖𝑧𝑒 𝑍= 𝑃1𝑑1 −+ 𝑃2𝑑4 + + 5𝑃3𝑑2 −+ 3𝑃3𝑑3 −+ 𝑃4𝑑1 +
-subject to the constraints
-𝑥1 + 𝑥2 + 𝑑1 −−𝑑1 + = 80
-********** 17 **********
---- page 18 ---
-𝑥1 + 𝑑2 −= 70
-𝑥2 + 𝑑3 −= 45
-𝑥1 + 𝑥2 + 𝑑4 −−𝑑4 + = 90
-𝑥1, 𝑥2, 𝑑1 −, 𝑑1 +, 𝑑2 −, 𝑑3 −, 𝑑4 −, 𝑑4 + ≥0.
-Solution:
-We assume the priority ordering (lexicographic): P1 (highest), then P2, then P3, then P4. If you have a
-different priority ordering please tell me and I will recompute accordingly.
-Step 1: Express deviational variables in x1,x2
-d1^- = max(80 - (x1 + x2), 0)
-d1^+ = max((x1 + x2) - 80, 0)
-d2^- = max(70 - x1, 0)
-d3^- = max(45 - x2, 0)
-d4^- = max(90 - (x1 + x2), 0)
-d4^+ = max((x1 + x2) - 90, 0)   ---------------(2 Marks)
-Step 2: Priority 1 & 2 -> feasible strip
-Minimizing d1^- requires x1 + x2 ≥ 80. Minimizing d4^+ requires x1 + x2 ≤ 90. Combined: 80 ≤ x1 + x2 ≤
-90. We restrict attention to this strip for subsequent priorities.
-Step 3: Minimize P3-term (5 d2^- + 3 d3^-) on the strip
-We minimize f3(x1,x2) = 5·max(70-x1,0) + 3·max(45-x2,0) subject to 80 ≤ x1 + x2 ≤ 90. A numerical
-search on a fine grid yields the minimum f3 value and the corresponding point shown in the contour plot
-below.   ---------------(2 Marks)
----------------(4 Marks)
-********** 18 **********
---- page 19 ---
-Numerical minimization yields the minimizing point (approx): x1 = 70.0, x2 = 20.0.
-At this point:
-d1^- = 0.0, d1^+ = 10.0
-d2^- = 0.0, d3^- = 25.0
-d4^- = 0.0, d4^+ = 0.0
-Step 4: Priority 4 — minimize d1^+ without worsening higher priorities
-Among points that achieve the minimal f3 value we selected one that minimizes d1^+. The final chosen
-point above satisfies all priorities lexicographically.
-Final decision variables: x1 = 70.0, x2 = 20.0.   ---------------(2 Marks)
-********** 19 **********
 ````

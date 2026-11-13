@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-V/CLOUD MICROSERVICES AND APPLICATION/Cloud, Microservices and Application, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 50; duration hours: 3; exam date: 26 November 2022
 - Text: ocr (2 pages), mean OCR confidence 84.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -56,7 +57,6 @@ co - ss b. | Tilustrate the working of Cloud service lifecycle with a neat, labe
 
 BL -
 8 [20]
-ini i ivat brid and
 CO -CO3 a. Explain in detail chargeback model & methodology for Private, Hybrid an 10
 
 BL-1 ‘ Public Cloud.

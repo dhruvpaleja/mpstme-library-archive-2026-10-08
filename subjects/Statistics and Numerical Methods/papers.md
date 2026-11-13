@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_06/STATISTICS AND NUMERICAL METHODS/Statistics and Nurmerical methods 2021-22 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 April 2022
 - Text: ocr (6 pages), mean OCR confidence 81.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “4 SVKM’s NMIMS
@@ -231,7 +232,6 @@ a9 [0.4713 (0.4719 [0.4726 [0.4732 [0.4738 [0.4744 [0.4750 0.4756 0.4761 [0.4767
 [0.4893 [0.4896 0.4898 [0.4901 0.4904 [0.4906 [0.4909 [0.4911 [0.4913 [0.4916
 [0.4925 (0.4927 [0.4929 [0.4931 [0.4932 0.4934 |0.4936
 
-i T, “T ————- i rc
 
 [0.4943 [0.4945 [0.4946 [0.4948 0.4949 0.4951 |0.4952
 (0.4957 [0.4959 [0.4960 [0.4961 0.4962 0.4963 0.4964

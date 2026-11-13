@@ -1,10 +1,100 @@
 # Applied Chemistry II: question papers in full
 
-21 unique papers · 2004-05 to 2012-13 · Common (all branches)
+21 unique papers · 2004-05 to 2013-14 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Re-Exam · Trim 2 · paper d5e4a2a02456
+## 2013-14 · Re-Exam · Trim 2 · paper 1b382e556595
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED CHEMISTRY II/APPLIED CHEMISTRY II BATCH 2011-12 RE EXAM0001(1).pdf`
+- Printed on paper: duration hours: 3; exam date: 18 /12/2013
+- Text: ocr (2 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+svkM’s NMIMS fo S
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+es “Tyimester: II
+
+18
+
+Programme:MBA Tech (ALL) Year: I
+Academic Year: 2013-14
+
+Subject : Applied Science — II (Applied Chemistry — II )
+
+Marks: :50
+Time : 10.00 am to 1.00 pm
+Durations:3 (hrs)
+
+Re-Examination
+
+Date :18 /12/2013
+
+Instructions: Candidates should carefully read the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+
+1. Question No. 1 is compulsory
+
+2. Out of the remaining three questions, attempt any two.
+
+3. Inall three questions to be attempted.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q.1. Attempt any five of the following: [4x5]
+a) A cell is constructed as: Mg (s) | Mg”* (0.1M) || Ag* (1x 10M) | Ag(s).
+” Given that, E° (agt/ag) = 0.8V, E° eee) = -2.37V, Calculate emf of the cell if
+concentration of Ag” is increased to 1x10°M.
+b) Explain impressed current cathodic protection.
+c) Define HCV and LCV.
+d) What is e-waste? Classify them with suitable examples.
+e) Write a note on lead acid battery.
+f) What is LPG? State any two properties of LPG and mention its use.
+
+g) Name the various constituents present in paints with note on their characteristic functions.
+
+Q.2. a) 3.0 g coal was heated in Kjeldahl’s method and NH; gas evolved was absorbed in 40 ml
+of 0.5N (NH4)2SOq. After absorption, excess acid required 18.5 ml of 0.5 N KOH for complete
+
+neutralization. 2.3 g coal sample in quantitative analysis gave 0.35 g BaSOy. Calculate % of N
+
+and S in the coal sample. [5]
+
+b) Explain ‘Wet theory of corrosion’ with suitable diagram and reaction involved. (5]
+
+io
+--- page 2 ---
+c) What are fuel cells? With a neat labeled diagram, explain principle and working of hydrogen-
+
+oxygen fuel cell. [5]
+
+Q.3. a) Composition of a gaseous fuel by volume is: H2=20%, CHy=6%, CO=22%, CO2=4%,
+02=4%, N2=44%. Calculate volume of air to be supplied per m’ of this gaseous fuel. [5]
+b) Write a short informative note on ‘Pitting corrosion.’ [5]
+
+c) Explain the methods adopted for e-waste management. [5]
+
+Q.4. a) How is the rate of corrosion influenced by the following factors:
+i) Temperature ii) Position of metal in galvanic series iii) Nature of corrosion products
+iv) pH of the medium. v) Relative areas of anodic and cathodic parts, [5]
+b) 0.6 g of coal sample with 92% carbon, 5% hydrogen and 3% ash caused a rise in
+
+temperature of 1500 g of water by 4.2°C in a bomb calorimeter experiment. Calculate the gross
+
+and net calorific value of coal. (Given: water equivalent of calorimeter = 200g). [5]
+c) Will following reaction occur spontaneously at 25°C if [Fe**] = 0.60 M and [Cd?"] = 0.010 M?
+
+2/2.
+````
+
+## 2013-14 · Re-Exam · Trim 2 · paper d5e4a2a02456
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -102,6 +192,147 @@ Boar yar - 1.66 V and B%o,=0.34 V
 22,
 ````
 
+## 2013-14 · Re-Exam · Trim 2 · paper e0265bed5bd4
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED CHEMISTRY II/APPLIED SCIENCE II ( CHEMISTRY ) BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 25/06/2014
+- Text: ocr (1 page), mean OCR confidence 93.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year:
+
+Academic Year: 2013-14 Batch : 2011-12/ we
+
+Subject : Applied Science — II (Applied Physics — II }
+
+Date : 25/06/2014
+
+Durations: 3 (hrs)
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the answer book, which is provided for their use.
+Note: 1. Question No. | is compulsory.
+
+2. Out of remaining six questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicates full marks.
+
+Q.1. a. Differentiate between interference and diffraction. (i0M)
+b. What is Holography? How is a hologram different than an ordinary photograph.
+c. Explain Moseley’s law of x-rays.
+d. What is cavitation effect in ultrasonics.
+e. Explain the physical structure of an optical fiber.
+
+Q.2. a. Explain Fraunhofer diffraction of N slits (diffraction grating). (6M)
+b. Explain Dispersive power and Resolving power of grating. (4M)
+Q.3. Define Acceptance angle and Numerical Aperture for an optical fiber. Explain the (10M)
+
+propagation of light wave in an optical fiber and hence derive the expression for its
+numerical aperture.
+
+Q.4. Derive Bragg’s law for X-ray diffraction and describe Bragg’s X-ray spectrometer to (10M)
+study the crystal structure.
+
+Q.5. a. Explain energy level diagram and working of He-Ne LASER (6M)
+b. What is pumping in LASER. State the different methods used for pumping (4M)
+Q.6. What is Magnetorstriction Effect? Explain in detail how it is used for the production (10M)
+
+of ultrasonic waves.
+
+Q.7. a. Newton’s rings are formed with reflected light of wavelength 5893A°, with a liquid (4M)
+
+between the plane and the curved surface. The diameter of the 5" bright ring is 0.26
+cm and the refractive index of the liquid is 1.56. Caicuiate the radius of curvature of
+the curved surface. °
+
+b. Calculate the glancing angle on the cube (132) of rock salt, a=4A. Corresponding to (4M)
+second order diffraction maximum for X-ray wavelength 0.98
+
+c. Young’s Modulus and density of barium titanate are 8 x 10!°N/m? and 5500kg/m* (2M)
+respectively. Calculate the thickness of quartz crystal to produce ultrasonic waves of
+frequency 700kHz.
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper fce4ebaab2a4
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED CHEMISTRY II/APPLIED CHEMISTRY II MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 21/06/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Patel school of Technology Manaeement & Enginee
+programme: MBA TECH - (ALLSTREAMS)   Year:   I   Trimester:   I1   .
+Academic Year :2012-2013 -
+Batch:   2011-2012
+Subject:   Applied Chemistry II   Marks:   ,
+(Applied   - II)   Time:   50 10.00 am To 1.00 pm
+Date:   21/06/2013   Duration: 3 hrs~
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+NB : (i) Question No. 1 is compulsory.
+(ii) Answer any two questions out of the remaining four questions.
+(iii) In all three questions to be attempted.
+(iv) Answer to each new question to be started on a fresh page.
+(v) Figures in bracket indicate full marks.
+(vi) Ass,me snitable data if necessary.
+(vii) Atomic weights-C=12, H=1,0=16,S=32, N=14, C1~35.5
+Q.1) Attempt any five
+a) Explain the terms i) Rusting of iron & ii) Mary cell.
+b) Define calorific value of a kel. Writethe units.
+c) Find the Emf of the following cell at 25' C :
+Ag 1 A~'(o,o~M) IIAg+(O.lM)IAg
+d) Describe briefly the consequences of corrosion.
+e) Name six hazardous substances found in e-waste materials and theu health effect &each.
+f)A coal sample has the following composition;
+C=75 %, 0=12.I%, H=5.2 %, N=3.2% & remaining being ash. CalculateH.C.V & L.C.V of coal
+sample.
+g) Describe any secondary cell with diagram.
+I
+4.2) (a) What is Dry corrosion? Discuss any four factors influencing rate of corrosion.   (06)
+@)Whatis Nemst equation? Discuss its any two applications.   (04)
+(c)Calculate the volume of air required for comp1ete combustion of im' of gaseous
+fuel which posses by volume;
+C&= 4.0%, CO=46%, H2=21% N246%, COz=7.0%
+(09
+Q3) (a) What is the important of ultimate analysis? Explain with reaction the method to determine
+su!pher from coal sample.   (06)
+(b) Why is processing of e-waste essential?   (04)
+(c)What are protective coanrigs? E;rplnisi the ~relimiaarj,treatment given to ametallicsurface
+btfore cozting.   (05)
+Q.4) .(a) What is reforming of petrol? Explain any two reactions of reforming.   .   (06)
+@)Give reaons why
+i) Gold and Silver do not undergo corrosion like iron in moist atmosphere.   (02)
+ii) Welding is better joining technique than soldering.
+--- page 2 ---
+(c) - On burning 0.3g of a solid fuel in a bomb calorimeter, the temperature of 3000g of   .--
+water increased from 26.5' C to 29.2' C. Water equivalent of calorimeter
+and latent heat of steam are 385.0g and 587.0caVg respectively .If the fuel ,
+contains 0.5% hydrogen, calculate its gross and net calorific value.
+(05)
+Q.5) Write informative notes on (any three)
+(a)Waterline corrosion
+@) Car battery.
+(c) Passivity of metals.
+(d) Recycling of e-waste
+(e) Anti-knocking agents.
+````
+
 ## 2012-13 · Re-Exam · Trim 2 · paper dce106b0aa0a
 
 - Departments: Common (all branches)
@@ -160,6 +391,59 @@ is 587 cal/g.   (4)
 . .. .   *
 h . ' .
 .:v.
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 59144e0bdbfd
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED CHEMISTRY II/APPLIED SCIENCE II ( APPLIED PHYSICS II ) BATCH 2011-12 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 07/02/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+\   Mukesh Pate1 School Of techno log^ Management &
+Programme:   MBA(Tech)-All Streams   Year:   I   Trimester:   I1
+Academic Year : 2012-2013
+Batch:   201 1-12
+Subject:   Applied Science-I1 (Applied   Marks:   5 0
+1   Physics-11)   Time:   10.00 am To 1.00 p1i1   I
+J   Date:   07/02/2013   Duration:   3   hrs.
+Re - Examination
+Instructions:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) Answers to each new question to be started on a fresh page.
+4) Figures in bracket on the right hand side indicate full marks.
+Que.1: Attempt the following.
+a) What mean by stimulated emission?
+b) State the Mosley's law.
+c) Explain the cavitation?
+d) What is the total internal reflection?
+e) Explain the dispersive power of grating.
+Que.2:
+a) Explain the construction and working of CO2 laser.
+b) Explain any three applications of laser
+Que.3: Explain the construction and working of Bragg's X-ray diffiactometer.   (1 0)
+Que.4: a) What is the Magnetostriction effect? Explain the construction and working of Pierce
+oscillator.   (08)
+\   b) An ultrasonic source Of 0.06 MHz sends down a pulse towards the seabed which returns
+after 0.68 sec. The velocity of sound wave in sea water is 1700 d s . Calculate the depth
+of sea and wavelength of pulse.   (02)
+Que.5: Explain the principle and working of propagation of light through the optical fiber and
+derive the numerical aperture of fiber.   (10)
+Que.6: Derive the expression for brightness and darkness for monochromatic light beam reflected
+from a thin parallel film of transparent material.   (10)
+Que.7: a) A glass clad fiber is made with core glass of refractive index 1.5 and the cladding is doped
+a to give a fractional index difference 0.0005. Find ij the cladding index, ii) the critical angle,
+iii) the acceptance angle, iv) the NA.   (05)
+b) The wavelength of the La X-rays line of platinum (2-78) is 1.321 A'. An unknown substance
+emits La X-ray of wavelength 4.174 A'. Calculate the atomic number of unknown substance.
+Given a=7.4 for La lines.   (03)
+c) Newton's rings are formed with reflected light of wavelength 5095 A' with a liquid between
+the plane and curved surface. The diameter of the fifth bright ring is 0.3 cm and radius of
+curvature of the curved surface is 100 cm. Calculate the refractive index of the liquid.   (02)
 ````
 
 ## 2011-12 · Exam not stated · Trim 2 · paper 3757698f690c
@@ -395,96 +679,6 @@ ethane. (4)
 a x
 ````
 
-## 2011-12 · Re-Exam · Trim 2 · paper 1b382e556595
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED CHEMISTRY II/APPLIED CHEMISTRY II BATCH 2011-12 RE EXAM0001(1).pdf`
-- Printed on paper: duration hours: 3; exam date: 18 /12/2013
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-svkM’s NMIMS fo S
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-es “Tyimester: II
-
-18
-
-Programme:MBA Tech (ALL) Year: I
-Academic Year: 2013-14
-
-Subject : Applied Science — II (Applied Chemistry — II )
-
-Marks: :50
-Time : 10.00 am to 1.00 pm
-Durations:3 (hrs)
-
-Re-Examination
-
-Date :18 /12/2013
-
-Instructions: Candidates should carefully read the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-
-1. Question No. 1 is compulsory
-
-2. Out of the remaining three questions, attempt any two.
-
-3. Inall three questions to be attempted.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-Q.1. Attempt any five of the following: [4x5]
-a) A cell is constructed as: Mg (s) | Mg”* (0.1M) || Ag* (1x 10M) | Ag(s).
-” Given that, E° (agt/ag) = 0.8V, E° eee) = -2.37V, Calculate emf of the cell if
-concentration of Ag” is increased to 1x10°M.
-b) Explain impressed current cathodic protection.
-c) Define HCV and LCV.
-d) What is e-waste? Classify them with suitable examples.
-e) Write a note on lead acid battery.
-f) What is LPG? State any two properties of LPG and mention its use.
-
-g) Name the various constituents present in paints with note on their characteristic functions.
-
-Q.2. a) 3.0 g coal was heated in Kjeldahl’s method and NH; gas evolved was absorbed in 40 ml
-of 0.5N (NH4)2SOq. After absorption, excess acid required 18.5 ml of 0.5 N KOH for complete
-
-neutralization. 2.3 g coal sample in quantitative analysis gave 0.35 g BaSOy. Calculate % of N
-
-and S in the coal sample. [5]
-
-b) Explain ‘Wet theory of corrosion’ with suitable diagram and reaction involved. (5]
-
-io
---- page 2 ---
-c) What are fuel cells? With a neat labeled diagram, explain principle and working of hydrogen-
-
-oxygen fuel cell. [5]
-
-Q.3. a) Composition of a gaseous fuel by volume is: H2=20%, CHy=6%, CO=22%, CO2=4%,
-02=4%, N2=44%. Calculate volume of air to be supplied per m’ of this gaseous fuel. [5]
-b) Write a short informative note on ‘Pitting corrosion.’ [5]
-
-c) Explain the methods adopted for e-waste management. [5]
-
-Q.4. a) How is the rate of corrosion influenced by the following factors:
-i) Temperature ii) Position of metal in galvanic series iii) Nature of corrosion products
-iv) pH of the medium. v) Relative areas of anodic and cathodic parts, [5]
-b) 0.6 g of coal sample with 92% carbon, 5% hydrogen and 3% ash caused a rise in
-
-temperature of 1500 g of water by 4.2°C in a bomb calorimeter experiment. Calculate the gross
-
-and net calorific value of coal. (Given: water equivalent of calorimeter = 200g). [5]
-c) Will following reaction occur spontaneously at 25°C if [Fe**] = 0.60 M and [Cd?"] = 0.010 M?
-Fe”* (aq) + Cd (s)a— Fe (s) + Cd* (aq). [5]
-
-2/2.
-````
-
 ## 2011-12 · Re-Exam · Trim 2 · paper 8ee144921655
 
 - Departments: Common (all branches)
@@ -580,74 +774,6 @@ iv. Waterline corrosion
 | di
 ````
 
-## 2011-12 · Re-Exam · Trim 2 · paper fce4ebaab2a4
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED CHEMISTRY II/APPLIED CHEMISTRY II MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 21/06/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Patel school of Technology Manaeement & Enginee
-programme: MBA TECH - (ALLSTREAMS)   Year:   I   Trimester:   I1   .
-Academic Year :2012-2013 -
-Batch:   2011-2012
-Subject:   Applied Chemistry II   Marks:   ,
-(Applied   - II)   Time:   50 10.00 am To 1.00 pm
-Date:   21/06/2013   Duration: 3 hrs~
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-NB : (i) Question No. 1 is compulsory.
-(ii) Answer any two questions out of the remaining four questions.
-(iii) In all three questions to be attempted.
-(iv) Answer to each new question to be started on a fresh page.
-(v) Figures in bracket indicate full marks.
-(vi) Ass,me snitable data if necessary.
-(vii) Atomic weights-C=12, H=1,0=16,S=32, N=14, C1~35.5
-Q.1) Attempt any five
-a) Explain the terms i) Rusting of iron & ii) Mary cell.
-b) Define calorific value of a kel. Writethe units.
-c) Find the Emf of the following cell at 25' C :
-Ag 1 A~'(o,o~M) IIAg+(O.lM)IAg
-d) Describe briefly the consequences of corrosion.
-e) Name six hazardous substances found in e-waste materials and theu health effect &each.
-f)A coal sample has the following composition;
-C=75 %, 0=12.I%, H=5.2 %, N=3.2% & remaining being ash. CalculateH.C.V & L.C.V of coal
-sample.
-g) Describe any secondary cell with diagram.
-I
-4.2) (a) What is Dry corrosion? Discuss any four factors influencing rate of corrosion.   (06)
-@)Whatis Nemst equation? Discuss its any two applications.   (04)
-(c)Calculate the volume of air required for comp1ete combustion of im' of gaseous
-fuel which posses by volume;
-C&= 4.0%, CO=46%, H2=21% N246%, COz=7.0%
-(09
-Q3) (a) What is the important of ultimate analysis? Explain with reaction the method to determine
-su!pher from coal sample.   (06)
-(b) Why is processing of e-waste essential?   (04)
-(c)What are protective coanrigs? E;rplnisi the ~relimiaarj,treatment given to ametallicsurface
-btfore cozting.   (05)
-Q.4) .(a) What is reforming of petrol? Explain any two reactions of reforming.   .   (06)
-@)Give reaons why
-i) Gold and Silver do not undergo corrosion like iron in moist atmosphere.   (02)
-ii) Welding is better joining technique than soldering.
---- page 2 ---
-(c) - On burning 0.3g of a solid fuel in a bomb calorimeter, the temperature of 3000g of   .--
-water increased from 26.5' C to 29.2' C. Water equivalent of calorimeter
-and latent heat of steam are 385.0g and 587.0caVg respectively .If the fuel ,
-contains 0.5% hydrogen, calculate its gross and net calorific value.
-(05)
-Q.5) Write informative notes on (any three)
-(a)Waterline corrosion
-@) Car battery.
-(c) Passivity of metals.
-(d) Recycling of e-waste
-(e) Anti-knocking agents.
-````
-
 ## 2011-12 · Re-Exam · Trim 2 · paper e3a7c408d9ee
 
 - Departments: Common (all branches)
@@ -716,132 +842,6 @@ of coal if 10% excess air is required.   (4)
 (a) Galvanic and Electrochemical series
 (b) Refining and Reforming
 (c) Cathodic and Anodic coatings
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper 59144e0bdbfd
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED CHEMISTRY II/APPLIED SCIENCE II ( APPLIED PHYSICS II ) BATCH 2011-12 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 07/02/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-\   Mukesh Pate1 School Of techno log^ Management &
-Programme:   MBA(Tech)-All Streams   Year:   I   Trimester:   I1
-Academic Year : 2012-2013
-Batch:   201 1-12
-Subject:   Applied Science-I1 (Applied   Marks:   5 0
-1   Physics-11)   Time:   10.00 am To 1.00 p1i1   I
-J   Date:   07/02/2013   Duration:   3   hrs.
-Re - Examination
-Instructions:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) Answers to each new question to be started on a fresh page.
-4) Figures in bracket on the right hand side indicate full marks.
-Que.1: Attempt the following.
-a) What mean by stimulated emission?
-b) State the Mosley's law.
-c) Explain the cavitation?
-d) What is the total internal reflection?
-e) Explain the dispersive power of grating.
-Que.2:
-a) Explain the construction and working of CO2 laser.
-b) Explain any three applications of laser
-Que.3: Explain the construction and working of Bragg's X-ray diffiactometer.   (1 0)
-Que.4: a) What is the Magnetostriction effect? Explain the construction and working of Pierce
-oscillator.   (08)
-\   b) An ultrasonic source Of 0.06 MHz sends down a pulse towards the seabed which returns
-after 0.68 sec. The velocity of sound wave in sea water is 1700 d s . Calculate the depth
-of sea and wavelength of pulse.   (02)
-Que.5: Explain the principle and working of propagation of light through the optical fiber and
-derive the numerical aperture of fiber.   (10)
-Que.6: Derive the expression for brightness and darkness for monochromatic light beam reflected
-from a thin parallel film of transparent material.   (10)
-Que.7: a) A glass clad fiber is made with core glass of refractive index 1.5 and the cladding is doped
-a to give a fractional index difference 0.0005. Find ij the cladding index, ii) the critical angle,
-iii) the acceptance angle, iv) the NA.   (05)
-b) The wavelength of the La X-rays line of platinum (2-78) is 1.321 A'. An unknown substance
-emits La X-ray of wavelength 4.174 A'. Calculate the atomic number of unknown substance.
-Given a=7.4 for La lines.   (03)
-c) Newton's rings are formed with reflected light of wavelength 5095 A' with a liquid between
-the plane and curved surface. The diameter of the fifth bright ring is 0.3 cm and radius of
-curvature of the curved surface is 100 cm. Calculate the refractive index of the liquid.   (02)
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper e0265bed5bd4
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED CHEMISTRY II/APPLIED SCIENCE II ( CHEMISTRY ) BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 25/06/2014
-- Text: ocr (1 page), mean OCR confidence 93.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year:
-
-Academic Year: 2013-14 Batch : 2011-12/ we
-
-Subject : Applied Science — II (Applied Physics — II }
-
-Date : 25/06/2014
-
-Durations: 3 (hrs)
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the answer book, which is provided for their use.
-Note: 1. Question No. | is compulsory.
-
-2. Out of remaining six questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicates full marks.
-
-Q.1. a. Differentiate between interference and diffraction. (i0M)
-b. What is Holography? How is a hologram different than an ordinary photograph.
-c. Explain Moseley’s law of x-rays.
-d. What is cavitation effect in ultrasonics.
-e. Explain the physical structure of an optical fiber.
-
-Q.2. a. Explain Fraunhofer diffraction of N slits (diffraction grating). (6M)
-b. Explain Dispersive power and Resolving power of grating. (4M)
-Q.3. Define Acceptance angle and Numerical Aperture for an optical fiber. Explain the (10M)
-
-propagation of light wave in an optical fiber and hence derive the expression for its
-numerical aperture.
-
-Q.4. Derive Bragg’s law for X-ray diffraction and describe Bragg’s X-ray spectrometer to (10M)
-study the crystal structure.
-
-Q.5. a. Explain energy level diagram and working of He-Ne LASER (6M)
-b. What is pumping in LASER. State the different methods used for pumping (4M)
-Q.6. What is Magnetorstriction Effect? Explain in detail how it is used for the production (10M)
-
-of ultrasonic waves.
-
-Q.7. a. Newton’s rings are formed with reflected light of wavelength 5893A°, with a liquid (4M)
-
-between the plane and the curved surface. The diameter of the 5" bright ring is 0.26
-cm and the refractive index of the liquid is 1.56. Caicuiate the radius of curvature of
-the curved surface. °
-
-b. Calculate the glancing angle on the cube (132) of rock salt, a=4A. Corresponding to (4M)
-second order diffraction maximum for X-ray wavelength 0.98
-
-c. Young’s Modulus and density of barium titanate are 8 x 10!°N/m? and 5500kg/m* (2M)
-respectively. Calculate the thickness of quartz crystal to produce ultrasonic waves of
-frequency 700kHz.
 ````
 
 ## 2010-11 · Exam not stated · Trim 2 · paper 11ffa74b306e
@@ -1214,6 +1214,7 @@ RK ai
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED CHEMISTRY II/2008-2009(25).pdf`
 - Printed on paper: max marks: 50; duration hours: 1.5
 - Text: ocr (2 pages), mean OCR confidence 86.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ‘ svKNS Vw
@@ -1222,7 +1223,6 @@ RK ai
 LIBRARY é }
 : ie J
 pr joe
-XX x Ms im rus VA
 SVKM’S NMIMS UNIVERSITY —— <=
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
 ENGINEERING (MPSTME)
@@ -1803,6 +1803,7 @@ Determine dry flue gas analysis.
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED CHEMISTRY II/2004-2005(6) (1).pdf`
 - Printed on paper: max marks: 50
 - Text: ocr (2 pages), mean OCR confidence 92.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NARSEE MONJEE INSTITUTE OF MAN
@@ -1866,7 +1867,6 @@ ml. of 0.1 N Sulphuric acid. The residual acid required 6.25 ml. of 0.1 N NaOH
 for neutralization. 2.60 g of the coal sample gave 0.1755 g of Barium Sulphate.
 Calculate the % of N and S in the sample. (5M)
 
-HREREKKAKKKEKKEKKKEKKKKK KKK KEK KEKE
 --- page 2 ---
 QUESTION NO.05
 

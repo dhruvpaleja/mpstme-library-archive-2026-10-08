@@ -16,26 +16,26 @@ Also filed as: `INTRODUCTION TO ELECTRICAL AND ELECTRON`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | DIPLOMA | Introduction to Electrical and Eletronics Engineering Batch 2024-25,2025-26 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA | Introducation to Electrical and Electronics Engineering Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Introduction to Electrical and Electronics Engineering Batch 2023-24 Final Batch _1dc033ca.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Introducation to Electrical and Electronics Enigneering Batch 2022-23,2023-24 Re Exam.pdf |
 | 2022-23 | — | Question paper | Sem 2 | B.TECH INTEGRATED | Introduction to Electrical and Electronics Engineering Batch 2021-22,2022-23,2023_0b196f0a.pdf |

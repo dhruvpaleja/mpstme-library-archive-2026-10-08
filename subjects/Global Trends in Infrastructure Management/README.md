@@ -14,8 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Global Trends in Infrastructure Management(703TO0E011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Global Trends in Infrastructure Management(703TO0E011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Global Trends in Infrastructure Management(703TO0E011)_2025-2026.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 10 | MBA TECH | Global Trends in Infrastructure Mgmt,SemX,Final,2021-22.pdf |
 | 2017-18 | — | Question paper | Sem 10 | MBA TECH | Global_Trends_in_Infrastructure_management_2017-18_.pdf |
 

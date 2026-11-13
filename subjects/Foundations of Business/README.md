@@ -14,12 +14,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Foundations of Business(702GM0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | B TECH | Foundations of Business, Sem-I, Year 2024-25, Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech CSE DS 7011 | QP_Foundations of Business(702GM0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Foundations of Business(702GM0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Foundations of Business(702GM0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | B TECH | B Tech (CSE-DS), Foundations of Business, Sem-I Batch 2024-25 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech CSE DS 7011 | QP_Foundations of Business(702GM0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Foundations of Business(702GM0C001)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 1 | B TECH | Foundations of Business, Sem-I, Final Exam & Re Exam 2022-23 A Y 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 1 | B TECH | Foundations of Business, Sem-I, Year 2023-24, Re Exam.pdf |
 | 2022-23 | Final-Exam, Re-Exam | Question paper | Sem 1 | B TECH | Foundations of Business, 1st Year, Sem I, Year 22-23 Final Exam.pdf |

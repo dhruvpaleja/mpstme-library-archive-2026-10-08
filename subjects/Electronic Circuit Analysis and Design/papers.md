@@ -1,8 +1,437 @@
 # Electronic Circuit Analysis and Design: question papers in full
 
-23 unique papers · 2010-11 to 2018-19 · Electronics and Telecommunication
+23 unique papers · 2010-11 to 2019-20 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2019-20 · Re-Exam · Sem 3 · paper 7411e92a3581
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic circuit analysis & Design , Re-exam 17-18-19.pdf`
+- Printed on paper: exam date: 12 November 2019
+- Text: ocr (4 pages), mean OCR confidence 70.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (EXTC) Year: II
+
+Semester: III
+
+; Academic Year: 2019-20
+Subject: Electronic Circuit Analysis and Design
+
+Date: 12 November 2019 “
+
+ea
+
+Re-examination B.Tech / MBA Tech (2018-19
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1. a) Explain with example use of EDA tools like Pspice in design of amplifiers. [5]
+b) Discuss advantages and disadvantages of negative feedback on performance of an amplifier. [5]
+c) State and prove Barkhausen criteria for sustained oscillations. [4]
+2. Design a single stage RC coupled CE amplifier using BC147B transistor [14]
+
+for low frequency range 10Hz to 20KHz with the following requirements.
+Voltage Gain | Av| = 90
+Vee =22 V
+I.q=3 ma
+$<10
+
+Calculate Av, Ri, and Ro of the designed circuit.
+--- page 2 ---
+3. Design single stage RC coupled CS amplifier to satisfy the following [14]
+requirements using JFET BFW11.
+
+Av= |15|
+Vo=2V
+Frequency = 20 Hz - 20 KHz
+4,(a) Draw a circuit diagram of phase shift oscillator. Explain its working. Give necessary [07]
+
+necessary conditions for sustained oscillations. Derive for its frequency of oscillations.
+
+(b) Design BIT phase shift oscillator to operate at 10 kHz. [07]
+
+05. Design full wave rectifier dc supply using a center tap transformer with two [14]
+diodes to give DC output voltage at 300 V to a variable load resistor. The load
+current expected is 75 + 25 ma. Ripple factor should not exceed 0.07. Assume
+Toil = 100Q., rs/2 = 100 Q. Use L- section filter.
+Calculate expected ripple factor for the designed circuit.
+06. Derive expressions of voltage gain, current gain. input impedance, and output [14]
+impedance for BJT voltage amplifier shown in figure. Calculate from the above
+
+expressions the voltage gain, current gain. input impedance and output impedance for
+
+same circuit.
+
+a AN CO
+ae
+7 Re Cour
+jp vo
+RL
+Rig {od ko
++ ce R2- 10 kf
+| Res w2kKV
++ -—— Re = ) Kf
+. Rs = Loot
+
+ceir cers lOAF,
+
+ce. lOo AE,
+
+heer (0d, pies TRAX,
+hye = arin hee = BO4FU-
+
+RL= to Be
+--- page 3 ---
+07 (a)s Derive expressions of voltage gain, input impedance, and output impedance [07]
+
+for JFET voltage amplifier shown in figure. P+ op
+=Rp
+C& q —— | 3 Vd
+11 =D
+ia
+
+vi @) See RS
+
+—
+
+(b) Explain voltage series negative feedback topology & derive for its input and output impedance. [07]
+
+aly
+--- page 4 ---
+7 Appendix : : ' Data Sheet
+ase :
+
+a” Key
+- Ss EOD 3333 | i if
+
+Bahs Soc
+- » ja 2 olelolo
+7 s{d1d]5
+- a) we wow . y 7
+. sj (2Reainl aa
+® Ald+d]sd
+88 legge js Sia1Sts
+wig ele
+Flenynoojs Sie oie
+. =
+| 9) 88488 13 ~-—
+* TIAGO
+ALapsld
+= % ol
+Ljonoo
+. & |S /S&SRata 3/212
+By Ft. ata aAld|d
+=|. elalste
+£|2/S888g.ig ol
+“ _ “ alslelo
+alalalsd
+elilecsesens
+&/B/SSaggee 21S] ale
+zg
+Pilr|losoosoo}o 3/1949
+g BLBREARSIS Bis] S] s]=
+3 bed
+: Bfelelels
+Sleleouscoeunol] SPOUT Tt
+aE Samoans 5
+2 rilols{a
+: i 3 o[alAla
+8 gooco
+EO /SSRSRSS 3 alolojo
+= KE ACh ON et es 3 Slalols
+> RSS jl rneaveso S ae
+< &
+= BS S slej<
+=| SES bratty] dy ayereye
+“S18 als
+¢ =| el8| S12
+«D0 ke nia
+3 RI>(gi8
+Sas RRISSIS Spe, es
+FS
+u . . :
+2 " Be
+83° |oosononu||- zl.2 |
+Sse | Sarees js i
+Sas Slo 5
+$ >) aD
+a
+: od
+sig : te
+4 — oo os J . 4
+Ss—3 /SSAQ2Raes bt B | | |
+el . 2
+rs == {
+a 3) xxx
+4.58 |e oownnn Waa
+Ses wae oa heme
+6d6
+RD a. :
+ERS |S22S333]| ej REL’
+& we ‘ i=}
+Eye pPe Tore s saai it |
+aor
+ae “OSC OnNS
+EWE f4ssadgg addacaaa
+. L@P parr Soil weugsou
+“luv g har
+A ae
+J u
+a ™~ [ls
+oa: g 5
+s | iy
+3 a828eSe 3 a
+2 SBEaGeS Hite
+8 . £ |x SOSo §U2085 :
+| & TARERRSRIS| SSASERS
+
+a
+````
+
+## 2018-19 · Exam not stated · Sem 3 · paper 1510c7e856d2
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic circuit analysis and Design 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 66.3
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+/ SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (EXTC) # Year: U Semester : [I
+Academic Year: 2018-19
+
+Subject: Electronic Circuit Analysis and Design -~ Marks: 70 2°”
+Time: 2.00 pm to 5.00 pm ~*
+
+Date: 18 J 2019 3
+ate anuary Durations: 3 (hrs)
+
+4 No. of Pages: 03 _
+Re-examination B.Tech (2018-19) / MBA Tech (2017-18/2018-19) —~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In.all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Ql (a) What are the advantages of negative feedback on performance of amplifier? [5]
+(b) Compare LC oscillator with RC oscillator. {4]
+(c) For the circuit shown below, the transistor parameters are Vp = -3.5V, Ipss = 18mA [5]
+
+and 4 = 0. Calculate Ves and Vps.
+
+Rp =0.8KO Vo- -\Sv
+Rp = QO SkL
+| Ta = Sm
+} ig =8mA
+y=-5¥
+Q.2 Design a single stage RC coupled CE amplifier for frequency range 10Hz to [14]
+
+20KHz to give voltage gain |Av| > 100 with the temperature stability factor, S = 10
+and the output voltage Vo = 2.5V (rms). Use BC 147B transistor and specify Vcc
+required. Calculate Av of designed circuit.
+
+Q3 Design two stage RC coupled CS amplifier to work upto a lowest frequency of [14]
+10Hz using JFET BFW11 with |Ay| > 100, Vorms = 3V, RiZ1MQ, Ipsg= ImA.
+
+Q.4 (a) Derive expression for Zi, Zo and Ay for common gate amplifier. {7]
+
+Page 1 of 3
+--- page 2 ---
+Qs
+
+Q6
+
+Q.7
+
+(b) The amplifier shown below uses a transistor with following parameters : hie =
+
+1.1KQ, hfe = 50, hre =2.5 x 10%, hoe = 25 x10 A/V. Determine Ay, Ai, Zi and Zo»
+etVvcc=\2vV
+
+Re =SkK2
+RS cy Vo
+A N { ecg
+1OkL RQ.
+Vg (okU
+
+(a) Design RC phase shift oscillator using FET (BFW 11) and feedback circuit to
+value of R =10KQ for 1KHz frequency.
+(b) Compare the four different types of negative feedback circuits.
+
+(a) For the amplifier shown determine Ay, Zi and Zo if Ipss = l6mA, Vp = -4V, yos =
+20uS, Vesa = -2.86V-
+
+Vop
+
+Cc
+
+10MQ
+
+(b) Identify the type of feedback and calculate Avr, Rif, Rof for the following circuit.
+Assume hfe = 100, hie = 1KQ and Rs = 0.
+
+Rg = (Ook
+Ro = 2k
+RE, = 200!
+REQ = jooJL
+R=: 5 KR
+CCo = O- due
+Ce = lOMF
+
+Write short notes on the following.(Any two):
+(a) Colpitt’s oscillator.
+(b) High frequency model of transistor.
+(c) Transistorized series regulator.
+
+Page 2 of 3
+
+[7]
+
+[7]
+[7]
+
+[7]
+
+[7]
+
+[14]
+--- page 3 ---
+Appendix Data Sheet
+
+SROG ry | I]
+
+PP iss = le
+&3as seoeg : ai
+“|e sis
+i elelsic s 1910
+s[oidis & |
+j2ees li ; 3 {8
+ca Sees = 3 8.
+ae) ous a)olele °
+MOrola
+Bg feengaja Seale
+LIS) ele .
+-}¢/2g4ssie Bytes |
+Ss ec NA tO o
+= Set A wm a
+i}
+S/d
+i Lj, ounsgcon
+RIASSERSS Oca bes ice bool a res g
+ey Ala ops “
+} els
+a4
+s{ eig}ste
+S18 mets alS
+. Ele/O4nen)]e s
+& Eg aang Ss 2 1
+oa tea ira bo > © 149
+< : etal aid ‘ a
+& 4 s >
+$/E/SSS8aeR BJ rif |r, '
+) bad i cr yi Baal bs
+— om ot eh Sl als
+5 4 5
+Pi. |/opesco;0 . fe)
+Ee; RISARESIS os
+3 ad ~ N >
+: a] 2/2
+ig] Sie
+. “ Be 1s
+VlE;onoonngo Spry
+g Eg ANMAAMS
+g i <ti<
+gooon Lal 7 3
+BO /SSRSR8R gj ele
+ww [SR SSsSe a ale
+fq 5 ° q
+on RS 8 le mow . |
+mm ase ioe 8 v}O
+oa) 5 hls
+< t my Kis
+eo s Sl el< he meet
+- $2 Sloe Tlaleis]s
+< Ssy |RSS i ll ai 3] See
+a “TELA gig , ,
+: 5 :
+od =| ete) Sl gO] BR
+Be levige;e| ST si8 | &-Q] EB
+2 a too mores
+' g 2)
+88° losoenon|| -| 21 2 | yo .
+Hol SESSILIS sii € | gs
+. es 210. 3 Ediole
+S SS, fg ye dio
+ete .
+SSS |eoooone tr
+» 2 Sear awy LiL .
+= Belli] is.
+x 2 Pd. zs
+Fs 1 x x Pes] 8 [8
+ary yas 18
+Ss eh >
+is) .
+R = im, .
+NS +TOcCC'S a .
+= g §
+Sex 2) as5 11! | i ald
+aN
+ges nesonnn .
+8ilwessdgs _|eaqacaag
+L@= fa 3 S[““seeeu
+“|e gada
+iis ah
+PB -
+¥ a y -_ s 8
+& 4 a) 8 ad ‘B
+= S23 Bl 4 2
+~ J i= ae
+Ss a S -pOoqan | Xf.
+2 |/SSSeshalS SokSeSai sg Ala ls
+ra SAS Bpzax Fa ;
+3 OR SAAS SE MMs rea OH aes
+
+s ESGUVGS2OIIE| oe oG6S Ty VG fo. _ =
+i 8 ia8ageesye RARRSAA = 5 st :
+````
 
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper c2829dbb9c69
 
@@ -11,6 +440,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic circuit analysis and design Final 2018-19 Reexam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 20 November 2018
 - Text: ocr (3 pages), mean OCR confidence 69.1
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS j ;
@@ -131,7 +561,6 @@ i . . =1Al a ‘ a
 | &{ ei S$ sreack Slefafs
 { Nt NOTA S
 s slole
-i Pies /oosoajo BIL Die :
 EIR LaRERSS IS Bl S/S] e]4 - 18 ©
 =] * j Sra g: : S] 2] 4
 Brotelete ig 818
@@ -146,14 +575,12 @@ be — m ~ 3 Ola m aTTN
 fl: 5
 a ro . Z/e]ele :
 2 8235 Jeune f o[Ainis '
-pon ASy ee ]s ca oe Ee 7 t
 “Al =F feat 8 Jojo
 ‘ £ s {1s
 < 5 £18
 & dR mR
 & SG 5 El<i<
 = | Soo €
-A; rss issilitiy Tis elge
 a “1S FI ae
 - Cc mila 2aEe x =
 so mz] Shel ala 2P1E =
@@ -181,239 +608,10 @@ P SSVPAatigada =a eo ~ |
 i ooo |
 #58) oconsos ppp- $s
 NE PMNS SS SSI] v = : . ES;ei¢g
-fae [APF oPres! aaay 11 | B18
 
 S
 BAS so
 NA od
-````
-
-## 2017-18 · Exam not stated · Sem 3 · paper 1510c7e856d2
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic circuit analysis and Design 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 66.3
-
-````text
-/ SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (EXTC) # Year: U Semester : [I
-Academic Year: 2018-19
-
-Subject: Electronic Circuit Analysis and Design -~ Marks: 70 2°”
-Time: 2.00 pm to 5.00 pm ~*
-
-Date: 18 J 2019 3
-ate anuary Durations: 3 (hrs)
-
-4 No. of Pages: 03 _
-Re-examination B.Tech (2018-19) / MBA Tech (2017-18/2018-19) —~
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In.all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Ql (a) What are the advantages of negative feedback on performance of amplifier? [5]
-(b) Compare LC oscillator with RC oscillator. {4]
-(c) For the circuit shown below, the transistor parameters are Vp = -3.5V, Ipss = 18mA [5]
-
-and 4 = 0. Calculate Ves and Vps.
-
-vos tlsy. yte tisv
-Rp =0.8KO Vo- -\Sv
-Rp = QO SkL
-| Ta = Sm
-} ig =8mA
-y=-5¥
-Q.2 Design a single stage RC coupled CE amplifier for frequency range 10Hz to [14]
-
-20KHz to give voltage gain |Av| > 100 with the temperature stability factor, S = 10
-and the output voltage Vo = 2.5V (rms). Use BC 147B transistor and specify Vcc
-required. Calculate Av of designed circuit.
-
-Q3 Design two stage RC coupled CS amplifier to work upto a lowest frequency of [14]
-10Hz using JFET BFW11 with |Ay| > 100, Vorms = 3V, RiZ1MQ, Ipsg= ImA.
-
-Q.4 (a) Derive expression for Zi, Zo and Ay for common gate amplifier. {7]
-
-Page 1 of 3
---- page 2 ---
-Qs
-
-Q6
-
-Q.7
-
-(b) The amplifier shown below uses a transistor with following parameters : hie =
-
-1.1KQ, hfe = 50, hre =2.5 x 10%, hoe = 25 x10 A/V. Determine Ay, Ai, Zi and Zo»
-etVvcc=\2vV
-
-Re =SkK2
-RS cy Vo
-A N { ecg
-1OkL RQ.
-Vg (okU
-
-(a) Design RC phase shift oscillator using FET (BFW 11) and feedback circuit to
-value of R =10KQ for 1KHz frequency.
-(b) Compare the four different types of negative feedback circuits.
-
-(a) For the amplifier shown determine Ay, Zi and Zo if Ipss = l6mA, Vp = -4V, yos =
-20uS, Vesa = -2.86V-
-
-Vop
-
-Cc
-
-10MQ
-
-(b) Identify the type of feedback and calculate Avr, Rif, Rof for the following circuit.
-Assume hfe = 100, hie = 1KQ and Rs = 0.
-
-Rg = (Ook
-Ro = 2k
-RE, = 200!
-REQ = jooJL
-R=: 5 KR
-CCo = O- due
-Ce = lOMF
-
-Write short notes on the following.(Any two):
-(a) Colpitt’s oscillator.
-(b) High frequency model of transistor.
-(c) Transistorized series regulator.
-
-Page 2 of 3
-
-[7]
-
-[7]
-[7]
-
-[7]
-
-[7]
-
-[14]
---- page 3 ---
-Appendix Data Sheet
-
-SROG ry | I]
-
-PP iss = le
-&3as seoeg : ai
-“|e sis
-i elelsic s 1910
-s[oidis & |
-j2ees li ; 3 {8
-ca Sees = 3 8.
-ae) ous a)olele °
-MOrola
-Bg feengaja Seale
-~E aM OG } re ead od od
-LIS) ele .
--}¢/2g4ssie Bytes |
-Ss ec NA tO o
-= Set A wm a
-i}
-S/d
-i Lj, ounsgcon
-RIASSERSS Oca bes ice bool a res g
-ey Ala ops “
-} els
-a4
-s{ eig}ste
-S18 mets alS
-. Ele/O4nen)]e s
-& Eg aang Ss 2 1
-oa tea ira bo > © 149
-< : etal aid ‘ a
-& 4 s >
-$/E/SSS8aeR BJ rif |r, '
-) bad i cr yi Baal bs
-— om ot eh Sl als
-5 4 5
-Pi. |/opesco;0 . fe)
-Ee; RISARESIS os
-3 ad ~ N >
-: a] 2/2
-ig] Sie
-. “ Be 1s
-VlE;onoonngo Spry
-g Eg ANMAAMS
-g i <ti<
-gooon Lal 7 3
-BO /SSRSR8R gj ele
-ww [SR SSsSe a ale
-fq 5 ° q
-on RS 8 le mow . |
-mm ase ioe 8 v}O
-oa) 5 hls
-< t my Kis
-eo s Sl el< he meet
-- $2 Sloe Tlaleis]s
-< Ssy |RSS i ll ai 3] See
-a “TELA gig , ,
-: 5 :
-od =| ete) Sl gO] BR
-Be levige;e| ST si8 | &-Q] EB
-8s RR ISEIS SPs, Spey ~8i 3isg
-2 a too mores
-' g 2)
-88° losoenon|| -| 21 2 | yo .
-Hol SESSILIS sii € | gs
-. es 210. 3 Ediole
-S . i) c ~ si a mis
-S SS, fg ye dio
-ete .
-SSS |eoooone tr
-» 2 Sear awy LiL .
-= Belli] is.
-x 2 Pd. zs
-Fs 1 x x Pes] 8 [8
-ary yas 18
-Ss eh >
-is) .
-R = im, .
-Sa Soest rer pepe ele
-NS +TOcCC'S a .
-= g §
-Sex 2) as5 11! | i ald
-aN
-ges nesonnn .
-8ilwessdgs _|eaqacaag
-L@= fa 3 S[““seeeu
-“|e gada
-iis ah
-PB -
-¥ a y -_ s 8
-& 4 a) 8 ad ‘B
-= S23 Bl 4 2
-~ J i= ae
-Ss a S -pOoqan | Xf.
-2 |/SSSeshalS SokSeSai sg Ala ls
-ra SAS Bpzax Fa ;
-3 OR SAAS SE MMs rea OH aes
-
-s ESGUVGS2OIIE| oe oG6S Ty VG fo. _ =
-i 8 ia8ageesye RARRSAA = 5 st :
 ````
 
 ## 2017-18 · Final-Exam · Sem 3 · paper 492346a2b7a1
@@ -528,6 +726,234 @@ I
 r   I
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper aafac78fac08
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2016-17 Re-exam.pdf`
+- Printed on paper: exam date: 30 November 2017
+- Text: text (3 pages)
+
+````text
+.
+}   SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBATech (EXTC)   Year: II   Semester: III
+Batch: 2016-17
+Academic Year: 2017-2018
+SUbject: Electronic Circuit Analysis and Design
+Date: 30 November 2017
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory,
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4LAll questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Q.l   a)   Explain performance characteristics of voltage regulator.   (05)
+b) Compare different topologies of negative feedback amplifier.   (05)
+./
+c)   State and prove Barkhausen's   Criteria for oscillators.   (04)
+Q.2   Design two stage RC coupled CE amplifier to provide Av2:1600,Rin>3.5KQ,   S=8 and fL:S (14)
+15Hz and Vcc=9V.Use BC 147B.
+Q.3   Design single stage CS amplifier for mid-point biasing such that   it meets following   (14)
+specifications. Low frequency upto 20 Hz, Av2:15, Vo=2V. Use BFW11.
+Q.4   a) A full wave rectifier employing a centre tapped transformer and two diodes give DC   (07)
+output voltage of 120V to resistive load and current of 75mA +25mA. If the ripple factor   '•....
+is to be 0.05, calculate the specification of devices and specification of filter components   1
+required if the filter used is LC filter.
+--- page 2 ---
+b)   Obtain Av, Rr, R, for the given single stage CE amplifier.   (07)
+\6\1
+j
+I   Y   al..a ¥'-.
+qO\;
+\\----0
+.   'Jo
+\   f-:>;:o ~   , 0
+oD-;:.5o'l<~
+~
+~---.,--rt)
+_.b'6
+-t-
+Q.5   a) Design an RC phase shift oscillator using BJT for a frequency of 1 KHz. The stability   (07)
+factor S:::; 8. Consider Vcc=10V, hie=lkD, hfe=50, hre=hoe=O
+.   ;
+b)   Identify the topology for negative feedback amplifier and obtain values of Avf, Rn, Rof   (07)
+- -t\lcc--
+Lt,,~K
+hle::7\·\I~
+\   iv\..(2-e,:::' So
+~oe::::hoc2...·:::=- 0
+~-' +--~-+-
+\   i
+R,1-   -Rof
+Q.6   a) Obtain Av, Ri, Ro for the given single ~efS   amplifier.   (07)
+e..   ex, ."lV· t-' -e: t '   r-. ~.2.-
+I   ._\\   0-t
+G----\   t-----.--------"'I
+b)   Describe characteristics of Cascode amplifier.   (07)
+Q.7   Explain following in detail
+t
+a) High frequency model of transistor.   (07)
+.1 'I
+b) Use ofEDA tool for designing an amplifier with proper example.   (07)   l
+--- page 3 ---
+".-"::
+.~----
+J   ".r;.
+''t'.   \:   1   \\
+t\   k 1;~
+\
+"J
+I, ,\   -. :>'
+;.../
+" QATA SHE!?:r   .~-..".-.,,,--'
+_._-----_ .._,-. -----..:......--.,..---
+Pdmas:   , 1cmcil:   .v(Lv';l   ~i';C'   VdC'   v,';m" "y=   V   '   «c.   CIII"I'e,,1   "   g(Jtn.   S,,-:aU.   SiCl'W1   h,   V~~r~'j·r,;'
+Tral'\Si.rrorryp~   @·2.)·C@   25',C   'tolrs'   \'piu   ' (:ill:) ,,;S;!J,1   vctts   ' 'I'OliS' '/;.le·')   T ",iX   !.   max. Vag   UCtW 0"   {~l':()'';f:
+"1l'auI   .. ,Amps,   ,'(tc.   a.c.   :IJOJll "ti.e.w;ifi,:,c.t.   6.e:   a"c;G"   J 'Ye   mill   • ,V~t;o••'   maz •.   miR .   Iyp.   max_   15'C 1Ft'!,':
+-"--.""'"-
+2H 3055   i\5:5   lS.Q   .   J.l   : '-lOO   60' .   , 10   90'   ,1 .,   20Q   20   se   70   !$ .   50   11.0   1.1.\,   i-s   u.'X
+ECN 0$5   50-0·-   $·0   1'·0   ' 60   ' 51)   .' S5.   ,60   ';$,   200   25   :;0   !CO   '25   75   .   125   1·5   )·5   \j.i~
+ECN   '14'9   '   ,}Q.:Q.   4·0 .   1·0   50.   ,.1.9./   ,--'   -   s   , ,150   . 3D ..   50   ito   ,.,; "   60   1is   1·1   <l·O   J). ~~
+[CH lOO   So<l   ()'I   O·G   7,0   60   .-   C   '20G   SD   90   ;luV   50   90   280   0·9   35   '},zl:\
+BCl(17A','   '0·25   O·i   . 0·25   50   4S   .. Si)   -   6.   &25   ! LT.   lap   :no   ''''' .£ ..1 (   220   , 160   0·9
+7.N '52S(?Nf' )   0,215   . Q.5   0·25.:   85   30   " -   -   -   '   .' lOO   ~5   -   65   -   4$
+8(147B   0:25   or   0·25   so   4S   ;\)   ,   .-   6   p~ ~,   200   2.9D   450   'HO   330   500   0·)\
+6J   Tronsistor (,!p~.   hie   hoc   br!   I.3jo   •
+Cv   it-!JFIT   tri·rrtuAL CN/J1'ACT£i~/~T!.C.s
+BC t47A   : 2·1'.'( n.: . 18f1~U   l·)x IV"   .:0-'1 cC/m ¥I   ,i
+?N 525 (PNp)   1-4 K n ,'.7.511 U , ·-,nxi~   .:.:'::: "-:   \'Oil; .   , 2,·0 I i 2-4 1 I 2·5   '3-0 .•...." 30:5   .~·Gi
+BC 147B   ~-5 gQ3011   U   1 x IQ""'   0~OCimw   I
+son   ; )·1 Yl   2·0 H   0·5   0-01
+ECN lC0,
+EQ/.l49   ,1SQ.   '0-3 -- 0.1! 0·0   0-0   '()..O' 0·01
+~
+ECH 055'   J.1.n.   0,0   0·0 i 0-0   '0·0   0-0   0·0 I
+iN :3055   ,6D.   :~~;:.
+[Y:cni;tr\cL lFE:T   ,.:
+'Vo;:ma..::.   Vo'c. mar.'   Vcr   :,"110.1:,   P,;:~-H"l.   Tr me.;;;:.   "fou   . ,'E4_   -v,. "f/olt;   -,   .Dcrale   ,e.,,,"
+Type .'   ~:~'::~~C.,".. __   ~a/
+lIoltI'   Voll.s   .Vofu   (f)fpica!)'   a[;o'lc 25(>C
+2H3S?2:   50   .50'   sa   }CO,.,W   17SvC   i!. ml'. '3OCO   11U .   6   50' KQ   2. mWrc   , O·59°C!I1\W   '
+,   . -   -~~------~~--~   :~,
+er:wn (typiCll)   '30 .   "30   30   ~~~::_:   ,200"C   7 mi\   .56JJOJ1. U .~.   2·5   50 KO   0·59" C}rr,\V
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 89b49afb7218
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRONIC CIRCUITS ANALYSIS AND DESIGN BATCH 2015-16 Re-exam.pdf`
+- Printed on paper: exam date: 30 November 2017
+- Text: text (3 pages)
+
+````text
+SVE..1Vi's NMIMS
+MU:~H PATEL SCHOOL OF TECHNOLOGY MiLr;;AGEMENT & ENG-IIiEEP-I:r>!G
+Programme: MBA Tech(EXTC)   Year: II   Semester: III
+Batch: 2015-16
+Academic Year: 2017-2018
+Subject: Electronic Circuit Analysis and Design
+'\
+Date: 30 November 2017
+Re-Examination
+').J ..
+4.
+S.
+6.
+Q.1. Design transistorized RC coupled amplifier to meet following specification   [14]
+1Av 12: 3600
+Ri 2: 4K£1
+Bandwidth 25 Hz to 20 KHz
+Vcc = 10V
+Srco=8
+Determine Rin, and Ro of the design circuit. ./ also comment on the effect
+on first stage due to stage.
+/
+Q.2. Design a full wave rectifier using a center tap transformer and 2 diodes
+to give output voltage of 12V at 500 mA load current having ripple factor
+voltage less than 60 mY; use a) L- section filter & b) IT-filter.   [14]
+Q.3. a) Explain ideal and practical characteristics of any amplifier. What is voltage
+amplifier? Discuss its ideal and practical characteristics.   [07]
+b) Explain transistorized series voltage regulator.   [07]
+Q..4..a) Derive the expression for AV,Ri,Ro For common Source amplifier without
+bypass capacitor.   [07]
+.
+b) What is Current series negative feedback amplifier? Derive expression
+for gain, input resistance and output resistance for same.   [07]
+--- page 2 ---
+Q.5. a) Explain Darlington pair amplifier. Comment on current gain of the above
+Amplifier.   [07]
+b) Explain different types of negative feedback amplifiers,   [07]
+Q.6.a) What is condition of oscillation? Explain high frequencyoscillator.   [07]
+b) Explain low frequency and high frequency model of transistor.   [07]
+Q.7. Write short note on   [14]
+a)Multi stage amplifier
+b)Trans conductance amplifier
+c) Advantages of negative feedback amplifier
+d) CC amplifier
+-
+--- page 3 ---
+w~
+r;~
+~:.~~'
+,   ,
+(
+~   i~1
+,l
+1"   '
+.P
+, ,"t· ,
+-,
+DATA' SHEET
+_....._ r-
+Dcrat«
+f'dmax   Icmax   V ,J{ (..1)   1"czo   Vera   Veo   YC4;';   YJCO   o.c.   cllrr~1I1   gaill   Small   .SiC/lul   -.   V"n,   0,   "have
+Tronststor   typ«   @ 2S"C @ 25·C   volts   volt.!   (Suer)   (Sus)   .   volts   volts   TJ max   .   • /I1a.~.   'dw   25"C
+lVaru   )..mp~   d,c,   d.c,   volts d.c. volts d,c,   d,c,   d,c,   , ·C   mIll   lyil.   1I1'IX •   min:»   Iyp.,   . max.   . W"C
+-.....   .---------~-   ~--.~ ...........•
+?J.r 305S   115·$   IS'{)   1·~   lOG   60   70   90   7   20Q   2Q   50   7(J   1.5 '   50   120   H~   1·':;-   0·7 .
+sct« O$j   50·0   5·0   1·0   60   50   55   GO   S   200   25   . ~O   100   '2:5   75   115   1,5 •   ;3 ." "   (H
+ECN 14.9   30·0 •   4·0   1·0   ·50   40. -   -   a   ..'150   30   50   1J 0   '33   GO   i1S   1·2   4·0   0·3.
+ECN 100   5·0   . 0·7   0:6   '10   60   65   -   6.   200   50   90   zao   50   90.   280   C.g..   35   0·05
+n047A   0·25   0-1   0·7.5'   50   45   50   --   G   125   1t5   IBa   .' 220   .125   220   260   0,9
+':1"[I.   .'2N. 525(PNl" )   . 0-21:;   ~.5   0·25   85   :10 -   -. -   100   35 -   6.3   -   :.15
+iJCH7lJ   .   0·2.,5   . a-I   0·25   50   45   so   -   (i   125   200   290   1\50   ~U()   330   500   o-s
+!
+ilfJI   T•.t7rl('rfrtr   tvn •.•   Tlie   ho c
+1   BFW ll-~FET - , MUTUAL' cnssocrsasncs -,   '.   ' ..   - ~.
+;1   OS vous   .o.o   ·0·2   ,0·4   (J·G   O·l]   1-0'   1·2 .].6   2·0   ;2-,$   .3·0   3·Y   <1.1)
+1.--   ~-~   1--:'   I-----
+.Io.i ; rnax.   iliA   >   • 'I,Q " '')·0   Z·J ---~--- ,·6   6·8   (j.t ---~ ~,4   4-2 .3·1   2<4 _._'.- 1·0   1·1   .....-,--... O·S·
+'-,-   ~
+ID y typ. n1A   : -1:0   (}'9   5-4 .,4,(,   <\.(}' 3·3   2·7 1·1   o.s   0·0   '0·0   0·0   o.o
+1-- ~- __ ._......:.... -"-   ~   ,....-
+'ltt~:   tp s ~ min. rnA.   ,,' 4·0   3:0   2·2   Hi   ,1·0.   0',5   0-0   0·0   0,0   0·0   0-0   (ha   0·0   0·(1
+:l'~
+t', "~I   N-Ch~'nnc1.JFET
+•• 'IL'   to
+t:   Vbs m(u:.   . vac'   ,'11(:1.):.   VC~ ma.x.   r, m:u"   1~ma.c.   'DU   g~   .,\1 r VQI{~   't   D~':(J'f~   0;.
+Type,
+{'Il   Volls   1'0'11.1   Volls   @2.5~C   ~:!plcal)   above 25"C --•.......~--
+I"~. I,
+00812   50   50   SO   300 rrtW   175"C   2mA   :l000 jL:O',   G   50 xo   2 niWrC   0·59"C/II1W
+l:i   -,..----
+BFIY 11 (typical)   '30   30   30   300 mW   200·C·   'I tnA   5600 I~rr   2·5   ·50 KO   --   0·59' Clr;l)'!
+~IN   ..
+.   _:,   ',,"   .• '" .:....   __ ",i.: _.   ._ ....•.   ,',   ..   _.,   .._'   ...•.....   -'   .•.. --   --   ...••- ... '0;.-
+,.   ,
+0' _   •..   ; ••   .....:..._.   _,   •. !- •. _..   •••• __ , __ •• ':....-- __   .__   ~.~,-:   -·.,·-.t"- '....._. •.~·.-:~~ .~ ..•·-:.-':""'-~;!;---·'~=,,::,,,:,<,,,,:,:'.~:,   ..•...-t·;·;-:"~·":""!~'.~·~·~;,",.!i.::...:;.::.;..:!.-~·,·":""':',:.:..,::-:·:"·7.'.:.r.·.!,; -   _
+'...~--;.:   ..:.-':'   ':'".
+~...   "-'-   .'-"   ..- -   .-r+r-; -:.. .".-:-::- ....-   -.:::- r:,~;-::."~:;::',-=-.-:::::; -', -:'.-:-;'-:.":;::-:   .•-::-:::   •.'.';""":"":""';':'7:'.:.: .•r: •.:-..:.;.7.:.~'~; -'·:-:-....:.::-·"r'""~':.-.:.7::- ~-~7.:-:::-:~-;-!::?,::::;.~.~~::~.:;:.--:-::~·.~.-;::~ ~-..,~:;~::,:.~
+.~•.• : 'r   ••.•.••   ,:.::,i ..
+r
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper 1e978d268e92
 
 - Departments: Electronics and Telecommunication
@@ -535,6 +961,7 @@ r   I
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic circuit analysis and design 2017-18 Re-exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 31 May 2018
 - Text: ocr (3 pages), mean OCR confidence 64.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ii
@@ -699,7 +1126,6 @@ EO /SSRSEQSER g Elz
 = we ;
 fay es. |
 1. BS elem owe tf
-al] es | o 7 8 vo fo
 “” 3 9 g
 a g we bE s
 So svse]RSii! i |
@@ -740,7 +1166,6 @@ f Ly fe
 = lopesecelltleieseu 2 x1 (8
 5 1a x =) : ~
 2 1SSS2s5a fs (Sosssyy).s} & oy |
-8 2~ gags Brags aos BA sie
 
 z= Eales ae) 8s
 :
@@ -1009,130 +1434,13 @@ i]
 nm
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper aafac78fac08
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2016-17 Re-exam.pdf`
-- Printed on paper: exam date: 30 November 2017
-- Text: text (3 pages)
-
-````text
-.
-}   SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBATech (EXTC)   Year: II   Semester: III
-Batch: 2016-17
-Academic Year: 2017-2018
-SUbject: Electronic Circuit Analysis and Design
-Date: 30 November 2017
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory,
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4LAll questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-Q.l   a)   Explain performance characteristics of voltage regulator.   (05)
-b) Compare different topologies of negative feedback amplifier.   (05)
-./
-c)   State and prove Barkhausen's   Criteria for oscillators.   (04)
-Q.2   Design two stage RC coupled CE amplifier to provide Av2:1600,Rin>3.5KQ,   S=8 and fL:S (14)
-15Hz and Vcc=9V.Use BC 147B.
-Q.3   Design single stage CS amplifier for mid-point biasing such that   it meets following   (14)
-specifications. Low frequency upto 20 Hz, Av2:15, Vo=2V. Use BFW11.
-Q.4   a) A full wave rectifier employing a centre tapped transformer and two diodes give DC   (07)
-output voltage of 120V to resistive load and current of 75mA +25mA. If the ripple factor   '•....
-is to be 0.05, calculate the specification of devices and specification of filter components   1
-required if the filter used is LC filter.
---- page 2 ---
-b)   Obtain Av, Rr, R, for the given single stage CE amplifier.   (07)
-\6\1
-j
-I   Y   al..a ¥'-.
-qO\;
-\\----0
-.   'Jo
-\   f-:>;:o ~   , 0
-oD-;:.5o'l<~
-~
-~---.,--rt)
-_.b'6
--t-
-Q.5   a) Design an RC phase shift oscillator using BJT for a frequency of 1 KHz. The stability   (07)
-factor S:::; 8. Consider Vcc=10V, hie=lkD, hfe=50, hre=hoe=O
-.   ;
-b)   Identify the topology for negative feedback amplifier and obtain values of Avf, Rn, Rof   (07)
-- -t\lcc--
-Lt,,~K
-hle::7\·\I~
-\   iv\..(2-e,:::' So
-~oe::::hoc2...·:::=- 0
-~-' +--~-+-
-\   i
-R,1-   -Rof
-Q.6   a) Obtain Av, Ri, Ro for the given single ~efS   amplifier.   (07)
-e..   ex, ."lV· t-' -e: t '   r-. ~.2.-
-I   ._\\   0-t
-G----\   t-----.--------"'I
-b)   Describe characteristics of Cascode amplifier.   (07)
-Q.7   Explain following in detail
-t
-a) High frequency model of transistor.   (07)
-.1 'I
-b) Use ofEDA tool for designing an amplifier with proper example.   (07)   l
---- page 3 ---
-".-"::
-.~----
-J   ".r;.
-''t'.   \:   1   \\
-t\   k 1;~
-\
-"J
-I, ,\   -. :>'
-;.../
-" QATA SHE!?:r   .~-..".-.,,,--'
-_._-----_ .._,-. -----..:......--.,..---
-Pdmas:   , 1cmcil:   .v(Lv';l   ~i';C'   VdC'   v,';m" "y=   V   '   «c.   CIII"I'e,,1   "   g(Jtn.   S,,-:aU.   SiCl'W1   h,   V~~r~'j·r,;'
-Tral'\Si.rrorryp~   @·2.)·C@   25',C   'tolrs'   \'piu   ' (:ill:) ,,;S;!J,1   vctts   ' 'I'OliS' '/;.le·')   T ",iX   !.   max. Vag   UCtW 0"   {~l':()'';f:
-"1l'auI   .. ,Amps,   ,'(tc.   a.c.   :IJOJll "ti.e.w;ifi,:,c.t.   6.e:   a"c;G"   J 'Ye   mill   • ,V~t;o••'   maz •.   miR .   Iyp.   max_   15'C 1Ft'!,':
--"--.""'"-
-2H 3055   i\5:5   lS.Q   .   J.l   : '-lOO   60' .   , 10   90'   ,1 .,   20Q   20   se   70   !$ .   50   11.0   1.1.\,   i-s   u.'X
-ECN 0$5   50-0·-   $·0   1'·0   ' 60   ' 51)   .' S5.   ,60   ';$,   200   25   :;0   !CO   '25   75   .   125   1·5   )·5   \j.i~
-ECN   '14'9   '   ,}Q.:Q.   4·0 .   1·0   50.   ,.1.9./   ,--'   -   s   , ,150   . 3D ..   50   ito   ,.,; "   60   1is   1·1   <l·O   J). ~~
-[CH lOO   So<l   ()'I   O·G   7,0   60   .-   C   '20G   SD   90   ;luV   50   90   280   0·9   35   '},zl:\
-BCl(17A','   '0·25   O·i   . 0·25   50   4S   .. Si)   -   6.   &25   ! LT.   lap   :no   ''''' .£ ..1 (   220   , 160   0·9
-7.N '52S(?Nf' )   0,215   . Q.5   0·25.:   85   30   " -   -   -   '   .' lOO   ~5   -   65   -   4$
-8(147B   0:25   or   0·25   so   4S   ;\)   ,   .-   6   p~ ~,   200   2.9D   450   'HO   330   500   0·)\
-6J   Tronsistor (,!p~.   hie   hoc   br!   I.3jo   •
-Cv   it-!JFIT   tri·rrtuAL CN/J1'ACT£i~/~T!.C.s
-BC t47A   : 2·1'.'( n.: . 18f1~U   l·)x IV"   .:0-'1 cC/m ¥I   ,i
-?N 525 (PNp)   1-4 K n ,'.7.511 U , ·-,nxi~   .:.:'::: "-:   \'Oil; .   , 2,·0 I i 2-4 1 I 2·5   '3-0 .•...." 30:5   .~·Gi
-BC 147B   ~-5 gQ3011   U   1 x IQ""'   0~OCimw   I
-son   ; )·1 Yl   2·0 H   0·5   0-01
-ECN lC0,
-EQ/.l49   ,1SQ.   '0-3 -- 0.1! 0·0   0-0   '()..O' 0·01
-~
-ECH 055'   J.1.n.   0,0   0·0 i 0-0   '0·0   0-0   0·0 I
-iN :3055   ,6D.   :~~;:.
-[Y:cni;tr\cL lFE:T   ,.:
-'Vo;:ma..::.   Vo'c. mar.'   Vcr   :,"110.1:,   P,;:~-H"l.   Tr me.;;;:.   "fou   . ,'E4_   -v,. "f/olt;   -,   .Dcrale   ,e.,,,"
-Type .'   ~:~'::~~C.,".. __   ~a/
-lIoltI'   Voll.s   .Vofu   (f)fpica!)'   a[;o'lc 25(>C
-2H3S?2:   50   .50'   sa   }CO,.,W   17SvC   i!. ml'. '3OCO   11U .   6   50' KQ   2. mWrc   , O·59°C!I1\W   '
-,   . -   -~~------~~--~   :~,
-er:wn (typiCll)   '30 .   "30   30   ~~~::_:   ,200"C   7 mi\   .56JJOJ1. U .~.   2·5   50 KO   0·59" C}rr,\V
-````
-
 ## 2016-17 · Re-Exam · Sem 3 · paper 6e7999f21473
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2016-17 Re-exam_6e7999f214.pdf`
 - Text: ocr (3 pages), mean OCR confidence 65.4
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1178,7 +1486,6 @@ h-parameters are hie =1.2k, he =100, bre=2.5 X10-4,hoe=25 1,
 Veerl\ou - qucez isu
 | [ Ln
 Pe pu 2.
-Eby Sen Shen. ape sy
 ]2e0K-2 Coy J —po
 Ps Coy PL Ky @r |
 Ww] C ay “Lox
@@ -1190,7 +1497,6 @@ Ve a. 4 Puy 336 7 ?
 - = t
 av) PL SPE -
 
-| ie BPs I] E he Ey
 _ | . on NE
 Q.2. Design two stage RC coupled amplifier to meet the following requirements _ {14}
 | Av|> 100
@@ -1219,7 +1525,6 @@ Q.5.a) Identify the topology for the circuit shown below and calculate Desensiti
 
 factor , Gain of amplifier, Avf, Rif, Rof, assume h-parameters are hie =1.1k,
 
-hye =50, bre=hoe=0 —t. cel loU
 
 =i A
 
@@ -1355,7 +1660,6 @@ we A aASUIY °
 
 ENE |MHe SSO 8] van ‘ aoe a)
 
-Go [o gj A I gs
 
 se : As 2438 8
 
@@ -1363,7 +1667,6 @@ se : As 2438 8
 
 EQS |Asaudgag ddadcada
 
-Bez lore cSeily ¥¥8esy
 
 = ~onaa
 ae
@@ -1390,6 +1693,7 @@ ie : s |. 5588s “8 Pais
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRICAL CIRCUIT ANALYSIS AND DESIGN MBA TECH 2015-16 Final.pdf`
 - Printed on paper: max marks: 60; exam date: 01/12/2015
 - Text: ocr (3 pages), mean OCR confidence 65.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 : SVKM’s NMIMS
@@ -1531,7 +1835,6 @@ Eig éle
 5 A
 Rls
 St vlalmle]-
-S Ts “ayregss bell Inndl lao (ud 4
 & | E,Asaaa 2 3
 ZAP SIS ie a
 ‘Ss Slo oDpono . 1,
@@ -1567,7 +1870,6 @@ siseesriiii] Tlslelgfe ; >
 ) Sgelerisgis; sj 83/8
 2 $ : :
 spe | ood) ar eT Tl | 4
-' wee | BAISSAS 2l § Slt EE}olo
 + “S]. Oe os : Pec hee
 ‘ = = TY e
 ~ . . 5 6 >
@@ -1579,7 +1881,6 @@ J Ses | Searnaan BRa| TI] iy
 . 3.34 | og I,
 SEL | Z2ZSARa]| | SA =
 =e aod 7 ‘ , .
-‘SOR logsoesen||_| pon | [Salat] . :
 EQE “usd dad) x ao | rid SISIA|- - i
 Set {7 a s|aqe |! {ae
 . S
@@ -1592,7 +1893,6 @@ ory
 Se i
 By -
 asl a & ni
-& co St os : a a
 Ese = § .
 : E rls By | je
 8 8 <= ayul ef § ea ee
@@ -1605,680 +1905,7 @@ cae rol SloxrodGGst o i. _
 3/3
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 89b49afb7218
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRONIC CIRCUITS ANALYSIS AND DESIGN BATCH 2015-16 Re-exam.pdf`
-- Printed on paper: exam date: 30 November 2017
-- Text: text (3 pages)
-
-````text
-SVE..1Vi's NMIMS
-MU:~H PATEL SCHOOL OF TECHNOLOGY MiLr;;AGEMENT & ENG-IIiEEP-I:r>!G
-Programme: MBA Tech(EXTC)   Year: II   Semester: III
-Batch: 2015-16
-Academic Year: 2017-2018
-Subject: Electronic Circuit Analysis and Design
-'\
-Date: 30 November 2017
-Re-Examination
-').J ..
-4.
-S.
-6.
-Q.1. Design transistorized RC coupled amplifier to meet following specification   [14]
-1Av 12: 3600
-Ri 2: 4K£1
-Bandwidth 25 Hz to 20 KHz
-Vcc = 10V
-Srco=8
-Determine Rin, and Ro of the design circuit. ./ also comment on the effect
-on first stage due to stage.
-/
-Q.2. Design a full wave rectifier using a center tap transformer and 2 diodes
-to give output voltage of 12V at 500 mA load current having ripple factor
-voltage less than 60 mY; use a) L- section filter & b) IT-filter.   [14]
-Q.3. a) Explain ideal and practical characteristics of any amplifier. What is voltage
-amplifier? Discuss its ideal and practical characteristics.   [07]
-b) Explain transistorized series voltage regulator.   [07]
-Q..4..a) Derive the expression for AV,Ri,Ro For common Source amplifier without
-bypass capacitor.   [07]
-.
-b) What is Current series negative feedback amplifier? Derive expression
-for gain, input resistance and output resistance for same.   [07]
---- page 2 ---
-Q.5. a) Explain Darlington pair amplifier. Comment on current gain of the above
-Amplifier.   [07]
-b) Explain different types of negative feedback amplifiers,   [07]
-Q.6.a) What is condition of oscillation? Explain high frequencyoscillator.   [07]
-b) Explain low frequency and high frequency model of transistor.   [07]
-Q.7. Write short note on   [14]
-a)Multi stage amplifier
-b)Trans conductance amplifier
-c) Advantages of negative feedback amplifier
-d) CC amplifier
--
---- page 3 ---
-w~
-r;~
-~:.~~'
-,   ,
-(
-~   i~1
-,l
-1"   '
-.P
-, ,"t· ,
--,
-DATA' SHEET
-_....._ r-
-Dcrat«
-f'dmax   Icmax   V ,J{ (..1)   1"czo   Vera   Veo   YC4;';   YJCO   o.c.   cllrr~1I1   gaill   Small   .SiC/lul   -.   V"n,   0,   "have
-Tronststor   typ«   @ 2S"C @ 25·C   volts   volt.!   (Suer)   (Sus)   .   volts   volts   TJ max   .   • /I1a.~.   'dw   25"C
-lVaru   )..mp~   d,c,   d.c,   volts d.c. volts d,c,   d,c,   d,c,   , ·C   mIll   lyil.   1I1'IX •   min:»   Iyp.,   . max.   . W"C
--.....   .---------~-   ~--.~ ...........•
-?J.r 305S   115·$   IS'{)   1·~   lOG   60   70   90   7   20Q   2Q   50   7(J   1.5 '   50   120   H~   1·':;-   0·7 .
-sct« O$j   50·0   5·0   1·0   60   50   55   GO   S   200   25   . ~O   100   '2:5   75   115   1,5 •   ;3 ." "   (H
-ECN 14.9   30·0 •   4·0   1·0   ·50   40. -   -   a   ..'150   30   50   1J 0   '33   GO   i1S   1·2   4·0   0·3.
-ECN 100   5·0   . 0·7   0:6   '10   60   65   -   6.   200   50   90   zao   50   90.   280   C.g..   35   0·05
-n047A   0·25   0-1   0·7.5'   50   45   50   --   G   125   1t5   IBa   .' 220   .125   220   260   0,9
-':1"[I.   .'2N. 525(PNl" )   . 0-21:;   ~.5   0·25   85   :10 -   -. -   100   35 -   6.3   -   :.15
-iJCH7lJ   .   0·2.,5   . a-I   0·25   50   45   so   -   (i   125   200   290   1\50   ~U()   330   500   o-s
-!
-ilfJI   T•.t7rl('rfrtr   tvn •.•   Tlie   ho c
-1   BFW ll-~FET - , MUTUAL' cnssocrsasncs -,   '.   ' ..   - ~.
-;1   OS vous   .o.o   ·0·2   ,0·4   (J·G   O·l]   1-0'   1·2 .].6   2·0   ;2-,$   .3·0   3·Y   <1.1)
-1.--   ~-~   1--:'   I-----
-.Io.i ; rnax.   iliA   >   • 'I,Q " '')·0   Z·J ---~--- ,·6   6·8   (j.t ---~ ~,4   4-2 .3·1   2<4 _._'.- 1·0   1·1   .....-,--... O·S·
-'-,-   ~
-ID y typ. n1A   : -1:0   (}'9   5-4 .,4,(,   <\.(}' 3·3   2·7 1·1   o.s   0·0   '0·0   0·0   o.o
-1-- ~- __ ._......:.... -"-   ~   ,....-
-'ltt~:   tp s ~ min. rnA.   ,,' 4·0   3:0   2·2   Hi   ,1·0.   0',5   0-0   0·0   0,0   0·0   0-0   (ha   0·0   0·(1
-:l'~
-t', "~I   N-Ch~'nnc1.JFET
-•• 'IL'   to
-t:   Vbs m(u:.   . vac'   ,'11(:1.):.   VC~ ma.x.   r, m:u"   1~ma.c.   'DU   g~   .,\1 r VQI{~   't   D~':(J'f~   0;.
-Type,
-{'Il   Volls   1'0'11.1   Volls   @2.5~C   ~:!plcal)   above 25"C --•.......~--
-I"~. I,
-00812   50   50   SO   300 rrtW   175"C   2mA   :l000 jL:O',   G   50 xo   2 niWrC   0·59"C/II1W
-l:i   -,..----
-BFIY 11 (typical)   '30   30   30   300 mW   200·C·   'I tnA   5600 I~rr   2·5   ·50 KO   --   0·59' Clr;l)'!
-~IN   ..
-.   _:,   ',,"   .• '" .:....   __ ",i.: _.   ._ ....•.   ,',   ..   _.,   .._'   ...•.....   -'   .•.. --   --   ...••- ... '0;.-
-,.   ,
-0' _   •..   ; ••   .....:..._.   _,   •. !- •. _..   •••• __ , __ •• ':....-- __   .__   ~.~,-:   -·.,·-.t"- '....._. •.~·.-:~~ .~ ..•·-:.-':""'-~;!;---·'~=,,::,,,:,<,,,,:,:'.~:,   ..•...-t·;·;-:"~·":""!~'.~·~·~;,",.!i.::...:;.::.;..:!.-~·,·":""':',:.:..,::-:·:"·7.'.:.r.·.!,; -   _
-'...~--;.:   ..:.-':'   ':'".
-~...   "-'-   .'-"   ..- -   .-r+r-; -:.. .".-:-::- ....-   -.:::- r:,~;-::."~:;::',-=-.-:::::; -', -:'.-:-;'-:.":;::-:   .•-::-:::   •.'.';""":"":""';':'7:'.:.: .•r: •.:-..:.;.7.:.~'~; -'·:-:-....:.::-·"r'""~':.-.:.7::- ~-~7.:-:::-:~-;-!::?,::::;.~.~~::~.:;:.--:-::~·.~.-;::~ ~-..,~:;~::,:.~
-.~•.• : 'r   ••.•.••   ,:.::,i ..
-r
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper e03abd3c29ee
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic Circuit Analysis & Design Batch 2015-16 Re -exam.pdf` (+1 identical copies)
-- Printed on paper: exam date: 10 June 2016
-- Text: ocr (3 pages), mean OCR confidence 62.5
-
-````text
-~ : SVKM’s NMIMS
-\ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA TECH (EXTC) Year: II Semester: III
-Academic Year: 2015-16
-
-Batch: 2015-16 ~
-Subject: Electronic Circuit Analysis & Design .
-
-Date: 10 June 2016
-
-Re-Examination
-Instructions:- Candidates should read carefully the instructions printed on question paper
-and on the cover of Answer Book, which is provided for their use.
-NB:
-
-1. Question No. ONE is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. In all FIVE questions to be attempted
-4. All questions carry equal marks.
-=> 5. Answer to each new questions to be started on a fresh page
-.6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1. Design two stage RC coupled amplifier to meet following specification [12]
-(Assume suitable data if required)
-| Av |> 500
-Riz 44KQ
-Bandwidth 20 Hz to 20 MHz
-Vee = 15V
-Explain any loading effect occurs on first stage due to second stage.
-
-Q.2. a) Derive expression for Av’, Ay’ Ro’ and Rj’for common drain amplifier [06]
-
-b) What are the conditions of oscillations? Explain RC phase shift oscillator
-
-and derive equation of frequency of oscillation [06]
-
-Q.3.Design a full wave rectifier using a center tap transformer and 2 diodes
-to give output voltage of 12V at 500 mA load current having ripple factor
-voltage less than 60 mV; use L- diction & II — filter. [12]
-
-Q.4.a) What is need of negative feedback amplifier? Explain Input and Output [06]
-
-Impedance of current shunt negative feedback amplifier.
-
-b) Explain transistorized series voltage regulator with error amplifier [06]
-
-4p
---- page 2 ---
-Q.5 Find Ipsg, Vosa, AV, Ri, and Ry for JFET voltage amplifier shown in figure.
-
-[12]
-
-T “+vpp Roe 2 kr
-Ry = Rp
-
-Re = Glew
-|I——J +s vo
-
-ce | 2 Riz go mL
-
-— Ra- ML
-
-® i i2mA
-N! RU Rs | * eee | ’
-
-\wel- 3V
-VDD= 20V
-Q.6 a) Explain SPICE with example [05]
-*   b) Design Colpitts oscillator with frequency of oscillation 50MH;,
-Vo=5v(P-P) Rr -5KQ and Vcc = 10V [07]
-
-Q.7 Write short notes on following: [12]
-a) Trans resistance Amplifier
-b) High frequency model of transistor
---- page 3 ---
-Appendix Data Sheet
-
-rs 2% 5233 | !
-
-3 =
-ood
-gsak s |
-2 . 21e/ 219 os 19
-Tl/OlSIS a
-SS |2R2ali | 3
-“3 “as aba icaccan
-MOL SIS 1
-8 Jeugaaya ea hol hea be &
-~ = meme SSIS paolo te Blo
-8
-: sare
-Leo; Oe] Sy] e
-f/Snnoa160 iid aa ad Q 5; &
-
-S/eg/RG2Ssis Sl a
-
-s E sea A tlalale Si
-
-* NYA SIS
-
-3 - ‘ ‘ :
-
-one :
-
-2&|S/888eese!. Telcfele oc {Sig
-
-| * Qa ALA SIS sis
-
-vari al
-= : : WVISiele
-
-2 3 aAare4nie heed Dt heel C—) e
-
-E FAM AAN I Ss 2
-
-4 aS =
-St Sle >= ae
-feialald ‘ a
-
-Eres s 1 - an
-
-S/E/RSSesss elafele
-
-=> eS als
-
-= : :
-
-§ ‘ Slololo :
-
-Pojug BaSsssie wf Pl?) S 2| . Dib
-
-g a MAMAN D Qo LOol;oi tis .
-
-2] * =~ 8 5 Ss) a]s
-
-8
-Bf elelele J2/ 8/8
-
-. SLSolaide]s ae isd
-
-O18 onoonNO fl =
-
-a EL NAMHaAMS §
-
-“8 baldieais
-= 3 aha hale
-
-8 : <g]/<
-
-eooco &
-
-EO aaegsss § g1ofolo 8 B/E
-fa RO ARS Ae et 3 SIAL Slr ate
-| es B{elelele :
-
-goog i~} wis qo
-eo ssu [merece yo SLO 4 wiles
-wn! bo y ry ge Io
-
-I>
-x & Um PRLS
-Ee] 88s loo Tlallsis
-Sissy /SSilit i | a] cy) eye
-Q a iH) ays
-mie =z] SLE Se YOLE IE
-EON RiSfelale SI Ele
-3 2 Qi eB E
-Sag /Ralsgial 8/78) 3/8 ~Ssls
-
-s ad als
-
-G
-
-; - z ;
-
-sg~ Sesconou]| - Z| é| ||| ¥
-=> Pas | PHTSSRS 3 oO ESlole
-Ss. Do e a& Mies
-= ~.. OM, . s
-o 8 « |
-on
-SSL leooconc
-Baw Loearaan| BRS] | {ti |
-Sl ey | hi ESZisclo
-94 Bi xxx eo] B18
-4.20 won 8
-88s /zeeeggyll (2a s |
-as aA d ON
-oda
-re) "
-RO a g
-3 SSOnm sue pPp- 2
-ERE BASS SSS y rain El ols
-Lez % 28g 111 3
-es ae ea
-; . ips 2eeengs wis
-sXs Seae“sas edacada
-nue ~ [) u
-
-a Mek Seon
-
-Slee nk Qar |
-Nee |
-
-ts S Fi
-oR a =
-z= Gl >
-<ageo el & -_
-
-eae eee al * |g =|
-Baysssal S [5 a
-````
-
-## 2014-15 · Final-Exam · Sem 3 · paper 2630dfea816c
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic Circuit Analysis & Design Final Exam 2014-15.pdf`
-- Printed on paper: max marks: 100; exam date: 01/12/2014
-- Text: ocr (4 pages), mean OCR confidence 73.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II Semester: III
-
-Academic Year: 2014-15
-
-SS . )
-
-Subject: Electronic Circuit Analysis & Design : $7 .y
-Marks: 100 (
-Date: 01/12/2014 Time: 2.00
-
-Durations: 3
-Final - Examination
-
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Answer to each question to be started on a fresh paper.
-4. Figures to the right indicate full marks.
-5. Assume suitable data wherever necessary.
-
-Ql. Attempt any four questions:-
-
-A What is modeling? Compare between r, and hybrid modeling 5
-
-B What is Barkhausen’s criteria for sustained oscillation 5
-
-(e. For given circuit draw the small signal model using approximate 5
-hybrid modeling
-
-D What are the advantages of negative feedback amplifier 5
-E Draw the high frequency model of transistor 5
-
-Q2. A Design two stage RC coupled CE amplifier to meet the following 20
-requirements
-Ay= 1000
-Sico $9
-Vcc =8 volts
-Ry =25 KO
-F< 20 HZ
-Calculate, Ay, Ri, and Ro of the amplifier you have designed
-
-Page lof }
---- page 2 ---
-Q3 A Design RC phase shift oscillator for the frequency of 8 KHz 10
-
-B For self bias FET amplifier find Ay, Z; and Zo 10
-
-oa
-WN
-Ng
-
-c210u
-
-t—i Ef]
-
-c110u
-
-wm
-
-Q4 A For voltage series feedback derive an expression for Rig, Ror , and 8
-Ave.
-B Derive an expression for Ay, Z; and Zo for source follower 12
-
-(common drain) ‘amplifier
-
-Q5 A In Wien bridge oscillator Rj=R2=450 kQ, Cj=C2=600pF Determine 5
-its frequency of oscillation
-
-B A full wave rectifier employing a centre tapped transformer andtwo 15
-diodes give DC output voltage of 120 V to resistive load and
-
-current of 75ma+25ma If the ripple factor is to be 0.05, calculate
-
-Page 2 of
---- page 3 ---
-the specification of devices and specification of filter components
-
-required if the filter used is LC filter.
-
-A Explain Miller effect capacitance 05
-B Design Single stage RC coupled CE amplifier to meet the following 15
-
-requirements
-
-Ay= 100
-
-Sico < 9
-
-Vec = 10 volts
-
-Ri= 25 KQ
-
-Fis 20 HZ
-
-Calculate, Ay Ri, and Ro of the amplifier you have designed
-
-Write a short note on 20
-i) EDA tool PSPICE
-ii) CS- CE amplifier
-
-r ya
-
-Page 3 of 4
---- page 4 ---
-7 give ns Sy yor 1 & |
-aga . i ee. 515
-a | OO
-& lesser is Bb
-. ‘ 2am Ol & :
-3p e REE °
-mlalala 7
-gu” ag wy SEEN OD. | ge Bis] elo] ” re)
-_ aw OQ 1S aN led Bad hoa ok
-IESE
-a 6 lelele Saf =
-a laywmoeo ye APN} elo “]o. BY E
-yl ANSSalso we] «
-YfSho8 B 8
-. . ge lal alo
-a[Aalala
-Ble : ‘ be
-e a} Oouncoovenoe o ‘ alc
-5 AmDagwes 4 bed Be ce =
-ee aa lA Slo an iho Rod bed
-: | ele
-a woh
-x . . swe leafrr| oe] + .
-i a ayndes 1e os | spf =| O _
-siypeiol. S -pejal
-. mpal alo! . _ ia footw t
-wy en : Ey :
-siP}es2ages) ~-felslals) -
-ee od q oe pee ete bt .
-a ee a APO) A] S *.
-- . ee . . eee ' » . ~
-.: . by th P 5 a leo} SLO . ¢
-&. Lob a oo 4 . 2 7 temo t
-_ : “5 & RRARBIE Lele] ole . oot 2 *
-‘. a 7 > . 12 g
-" : : { BPepery BS
-. : ; #25 . BS) Slate ]a ‘ fd a hal
-ty TL OPTS. fpeneaMnnae 4s} ._
-‘ - ape Sea asns 6 —-4 Lo . oa
-Pe? re a ; alaiela[s] fo ‘ :
-& ‘ 7 . | mpealwmleal — 7 . ¥
-Se oti oe Fr aes Oe CS ee eee es
-mde ggagee3 Slalefele| > [3- |e]
-m. S - wa | SPR] Me fer] - . aye
-. : , E 21a] elo o ‘
-: : i ela|2lF fe Be
-ow" 5 wl: & Ae ae te ‘Tye 4
-eo. eee | oa ralg volo
-; ee hae a LE | oe
-= . Pe MPT od pop Type pale
-5 ees 2 OR || Spe] ‘
-. eervir tp. tps ey ele :
-; : 2( 2] abe :
-7 whe} Sys ‘A ka] Be
-; : ey Thebalsy! SRLS IEE
-« a ve)
-2 - COS 18
-a 23.2 § Hb
-Wawa x &
-: Ha} o
-: &, £
-, eran
-
-jeeeeeeall tie]
-et 4 awl ye H |
-
-POR
-g #88) ne
-Ae toes my at
-
-s ws
-as price ays
-
-ree .
-13 :
-. 7 oc lane BL te
-eee . = se 4 al ae 4
-: - ae s ul ag |e
-; Was GS Bee onal TH CRSAL)E
-‘ BASS~R aS SQRSSSA gw) A Ale.
-ae” ro, ‘a a BREE Seen Tio a ®, 2
-coe Rak Geae gaagugea zl o
-````
-
-## 2014-15 · Re-Exam · Sem 3 · paper b70a4ae8f879
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2014-2015 Re-exam.pdf`
-- Printed on paper: exam date: 10/06/2015
-- Text: ocr (3 pages), mean OCR confidence 65.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL GF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (EXTC) Year:ll Semester:III
-
-Academic Year: 2014-15 Canter maa,
-43 ow
-Batch: 2014-15 se ™
-
-Subject : Electronic Circuit Analysis & Design
-
-rations:3 fr
-
-i Date : 10/06/2015 gations:
-. i! VERON
-MS URINE
-
-Re-Examination
-
-Instructions:- Candidates should read carefully the instructions printed on question paper and on the
-cover-of Answer Book; which is provided for their use.
-NB: :
-
-* 1. Question.No..ONE is.compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. In all FIVE questions-to-be-attempted————— —-—--- --
-4, All questions carry equal marks.
-5. Answer to each new questions to be started on a fresh page’
-6. Figures in brackets on the right hand side indicate full marks.
-
-~~ Q-T Design Multistage“Amplifier to meet the following specifications 9.
-Av> 300
-Ri> 1.5 MQ
-Sico <9
-FL < 20Hz
-Calculate Av & Ro of the designed circuit.
-
-Q. 2 A) Determine input impedance, output impedance, Voltage Gain & Current Gain of CE Amplifier shown
-figure 01 Shown below consider hie = 4.5 KQ, by =300 hoe=25 uS neglect hye. tr
-
-Fig .01
---- page 2 ---
-stage RC coupled amplifier using PSPICE. 5
-
-B) How to observe transient and frequency response single
-
-Q.3 Design R-C Couple. single stage Common Source Amplifier using JFET BFW 11 with Av =7,
-Ri=1MQ, Vp =- 3.5 V, Ids = 7mA, FL=20Hz & Vop = 20 V, For designed circuit what will
-
-be maximum output voltage expected that can obtained without Distortion. \2
-
-Q. 4 A) Design Colpitt’s oscillator with frequency of oscillation 50MHz, Vo =2v (P-P)
-Ry=1KQand Vec=10V0—— OO 6
-
-B) Explain Voltage shunt negative feedback topology and derive the expression for input and
-Output Impedance of Voltage Series feedback amplifier.
-
-Q.5 A full wave rectifier having a center tapped transformer and two diode give a DC output voltage of
-120 V to resistive load and current of 75+25_mA. If ripple factor is to be 0.05, calculate the
-specification of device & specification of filter components required if filter used is
-
-a)LC filter. b) CLC filter \L
-
-\
-Q. 6 A) Design single stage R-C coupled CE amplifier with following specifications dE
-Av = 50, , Sico = 8, Vee = 10v, FL = 20Hz,
-
-B)List four type of negative feedbacks. In each case give stability ratio, feedback, Rig and Ror 5
-
-Q7. Write short notes on the following.
-
-A) Transistorized Wein Bridge Oscillator.
-
-B) Transistorized series regulator.
-G
---- page 3 ---
-!
-Beee pri} |
-
-wee 2
-oh
-
-| refelstel
-aid} S]}a
-wee yt |
-ar ‘ *
-on 4lol elo
-FLd] Ald $
-Se | se Sit] eiet” wy
-ae eS HLS ola] | we g
-= | “ r
-BrALe1? Syl Ez] t. :
-enves]sh SEN] OPO “a8 E = £
-aadlaesls 7 Be i.
-Soa Ss a
-. TEES 4
-Atel So].
-aQnoodons ‘ 7 a i =
-AxSesges elsletol   . gS
-Ls ihe afALofsa . a
-: 1. Pete
-> RIS
-: <2 efafefot > » * ;
-wemnen)s ioe ad Mell hod oy 4 a :
-ae eS ; = :
-3 s : = wa :
-- ~ fa A
-apa ~ fe *
-esgeBzegel - t
-RS =o seh “fo
-Sr2Ra? 3 2 : ,
-Soaanms, of} < eleleto en on ~
-ReRaSlSl al dlal sls ref DRT
-rc Bo a “Sp pat ye
-= Sls-JS
-. G wpropwolL ie 8 &.
-3 . is he . Solel eft ie
-or UpPps.flenogumoP ae Pi be ic)
-3 . : - a PEL Sawa Aens 5 i be Engg Be
-rn “: . a - Strlals[e; - fo * fo. ea,
-; ee ie = a? z ~ «be Sf. fal ate : . §
-BERET oy . RB] NE vex os Cas DS ee a (re
-ve _ . it easy gee¢e2 Ye * xx 73 5 : x ef -
-
-gsesege2s
-Done eA se
-
-: : ; i om Oe Fa)
-te sgGea8 erVagsegal 2] aieal
-````
-
-## 2014-15 · Re-Exam · Sem 3 · paper 95e5d2e5d16b
+## 2015-16 · Re-Exam · Sem 3 · paper 95e5d2e5d16b
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -2508,172 +2135,421 @@ S
 m
 ````
 
-## 2013-14 · Final-Exam · Sem 3 · paper 0b04f61097db
+## 2015-16 · Re-Exam · Sem 3 · paper e03abd3c29ee
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRONIC CIRCUIT ANALYSIS & DESIGN 2013-14 Final.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/12/2013
-- Text: ocr (4 pages), mean OCR confidence 61.5
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic Circuit Analysis & Design Batch 2015-16 Re -exam.pdf` (+1 identical copies)
+- Printed on paper: exam date: 10 June 2016
+- Text: ocr (3 pages), mean OCR confidence 62.5
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’s NMIMS ms
-— MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+~ : SVKM’s NMIMS
+\ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-/
+Programme: MBA TECH (EXTC) Year: II Semester: III
+Academic Year: 2015-16
 
-Programme:MBA Tech (EXTC) Year: II
-Academic Year: 2013-2014
+Batch: 2015-16 ~
+Subject: Electronic Circuit Analysis & Design .
 
-Subject : Electronic Circuit Analysis®& Design
-Marks: 100
-Date :02/12/2013 . Time : 2.00,pm to 5.00 pm
-Duration :3 (hrs)
-Final-Examination
+Date: 10 June 2016
 
-Instructions:- Candidates should read carefully the instructions printed on question paper and on the cover of
-Answer Book, which is provided for their use.
+Re-Examination
+Instructions:- Candidates should read carefully the instructions printed on question paper
+and on the cover of Answer Book, which is provided for their use.
 NB:
 
 1. Question No. ONE is compulsory.
 2. Out of remaining questions, attempt any FOUR questions.
 3. In all FIVE questions to be attempted
-A. All questions carry equal marks.
-Answer to each new questions to be started on a fresh page
-6. Figures in brackets on the right hand side indicate full marks.
+4. All questions carry equal marks.
+=> 5. Answer to each new questions to be started on a fresh page
+.6. Figures in brackets on the right hand side indicate full marks.
 
-Q. 1 Design Multistage Amplifier to meet the following specifications [20]
-Av > 500
-Ri>1.2MQ
-Sico <9
-Fy <. 20Hz
-Calculate Av & Ro of the designed circuit.
+Q.1. Design two stage RC coupled amplifier to meet following specification [12]
+(Assume suitable data if required)
+| Av |> 500
+Riz 44KQ
+Bandwidth 20 Hz to 20 MHz
+Vee = 15V
+Explain any loading effect occurs on first stage due to second stage.
 
-Q. 2 A) Determine input impedance, output impedance, Voltage Gain & Current Gain of CE Amplifier
+Q.2. a) Derive expression for Av’, Ay’ Ro’ and Rj’for common drain amplifier [06]
 
-shown below consider hie = 3.2 KQ, hfe = 100 at the Operating Conditions. [10]
-SléU
-R&
-> zPy in FS
+b) What are the conditions of oscillations? Explain RC phase shift oscillator
 
-fam how ; \é 6
+and derive equation of frequency of oscillation [06]
 
-: c+ | jut
-Vy a Vo
+Q.3.Design a full wave rectifier using a center tap transformer and 2 diodes
+to give output voltage of 12V at 500 mA load current having ripple factor
+voltage less than 60 mV; use L- diction & II — filter. [12]
 
-but | ——y ME
+Q.4.a) What is need of negative feedback amplifier? Explain Input and Output [06]
 
-3 PL ane =p earl
+Impedance of current shunt negative feedback amplifier.
 
-\ Hoe. edie JL
+b) Explain transistorized series voltage regulator with error amplifier [06]
 
-B) Explain use of EDA tool like PSPICE in Designing of amplifiers. [10]
-Q.3 Design R-C Coupled single stage Common Source Amplifier using JFET BFW 11 with Av = 10,
-
-Ri= 1MOQ, Vp =- 2.5 V, Ids = 7mA, Fi -20Hz & Von = 20 V, For designed circuit what will
-be maximum output voltage expected that can obtained without Distortion. [20]
-
-Q. 4 A) Design Hartley oscillator with frequency of oscillation 5SOMHz, Vo =2v (P-P)
-Ry=1KQ and Vec =10V [10]
-
-B) Explain Voltage Series negative feedback topology and derive the expression for input and
-Output Impedance of Voltage Series feedback amplifier. [10]
-
-i]y
+4p
 --- page 2 ---
-Q.5 A full wave rectifier having a center tapped transformer and two diode give a DC output voltage of
-100 V to resistive load and current of 75+25_mA. If ripple factor is to be 0.07, calculate the
-specification of device & specification of filter components required if filter used is
+Q.5 Find Ipsg, Vosa, AV, Ri, and Ry for JFET voltage amplifier shown in figure.
 
-a)LC filter. b) CLC filter . [20]
+[12]
 
-Q. 6 A) Design single stage R-C coupled CE amplifier with following specifications [10]
-Av = 60, Ri= 4 KQ, Sico = 8, Vcc = 10v, FL = 15Hz, use BJT BC147B
+T “+vpp Roe 2 kr
+Ry = Rp
 
-B) Identify the feedback topology of Given Circuit and find out Rif, Rof, Avf
+Re = Glew
+|I——J +s vo
 
-The values of h-parameters are hie =1.1k, hy =50, hre=hoe=0
+ce | 2 Riz go mL
 
-tie ZVWAe
+— Ra- ML
 
-Le UV
-mi
-Vo
-VS
-8 [10]
-Q7. Write short notes on the following.
-A) Transistorized Wein Bridge Oscillator. [10]
-B) Transistorized series regulator.
-[10]
+® i i2mA
+N! RU Rs | * eee | ’
 
-2)y
+\wel- 3V
+VDD= 20V
+Q.6 a) Explain SPICE with example [05]
+*   b) Design Colpitts oscillator with frequency of oscillation 50MH;,
+Vo=5v(P-P) Rr -5KQ and Vcc = 10V [07]
+
+Q.7 Write short notes on following: [12]
+a) Trans resistance Amplifier
+b) High frequency model of transistor
 --- page 3 ---
-Standard Resisier Values (5%,
-Foo
-110
-120
+Appendix Data Sheet
 
-369K
-390K
+rs 2% 5233 | !
 
-a3 430 V
-47 470 i
-3. 510
-. 5.6 7)
-a [62 620 i
-58 a
-73 7 750
-a2 82 820 |
-92 31 910 {
-i Standard Capacitor Values (410%)
-{i0pF 1O00pF —D1GuF 0p 10uF
-12pF 1200pF —012uF 12uF
-15pF 1S00pF —01SuF .15uF
-1 | L8pF 1800pF -D1BpF 18 nF
-, | 22pF 220pF 220 : 22pF 22uF
-[27pF _270pF _-2700pF ZipF |
-33pF ss 330pF_ 3300p 33pF 33ur |
-39pF 300pF —«3900pF _3eF |
-47pF ATOpE 4700pF Aipe 47uk
+3 =
+ood
+gsak s |
+2 . 21e/ 219 os 19
+Tl/OlSIS a
+SS |2R2ali | 3
+“3 “as aba icaccan
+MOL SIS 1
+8 Jeugaaya ea hol hea be &
+8
+: sare
+Leo; Oe] Sy] e
+f/Snnoa160 iid aa ad Q 5; &
 
-SépF 360pe S600pF SSP SSE
-[Sip 6S0pF _—«SRNOPF_—PSRAF S8uF
-82pF S20pF   §200pF —082eE 82yF
+S/eg/RG2Ssis Sl a
 
-or
---- page 4 ---
-Gon, 2338
+s E sea A tlalale Si
 
-——
+* NYA SIS
 
-waweans
-: wa -esS
+3 - ‘ ‘ :
 
-. ae
-wy =
-x . i
-z -
-ee
-a .
-yo . so, oF .*
-oe .
-= . :
-1 ‘$22 loc imeje . .
-} WS 2 [Ra iea la
-—s “h
-‘ _ a
-espe Lowman |}
-| S82 |egesees
-wat J :
-a
-psa, ESfoje} 7
-mary Si Sis} -
-SSSI - is
-aN > we
-qeqadad . i
+one :
+
+2&|S/888eese!. Telcfele oc {Sig
+
+| * Qa ALA SIS sis
+
+vari al
+= : : WVISiele
+
+
+E FAM AAN I Ss 2
+
+4 aS =
+St Sle >= ae
+feialald ‘ a
+
+Eres s 1 - an
+
+S/E/RSSesss elafele
+
+=> eS als
+
+= : :
+
+§ ‘ Slololo :
+
+Pojug BaSsssie wf Pl?) S 2| . Dib
+
+g a MAMAN D Qo LOol;oi tis .
+
+2] * =~ 8 5 Ss) a]s
+
+8
+Bf elelele J2/ 8/8
+
+. SLSolaide]s ae isd
+
+O18 onoonNO fl =
+
+a EL NAMHaAMS §
+
+“8 baldieais
+= 3 aha hale
+
+8 : <g]/<
+
+eooco &
+
+EO aaegsss § g1ofolo 8 B/E
+fa RO ARS Ae et 3 SIAL Slr ate
+| es B{elelele :
+
+goog i~} wis qo
+
+I>
+x & Um PRLS
+Ee] 88s loo Tlallsis
+Sissy /SSilit i | a] cy) eye
+Q a iH) ays
+mie =z] SLE Se YOLE IE
+EON RiSfelale SI Ele
+3 2 Qi eB E
+Sag /Ralsgial 8/78) 3/8 ~Ssls
+
+s ad als
+
+G
+
+; - z ;
+
+sg~ Sesconou]| - Z| é| ||| ¥
+=> Pas | PHTSSRS 3 oO ESlole
+Ss. Do e a& Mies
+= ~.. OM, . s
+o 8 « |
+on
+SSL leooconc
+Baw Loearaan| BRS] | {ti |
+Sl ey | hi ESZisclo
+94 Bi xxx eo] B18
+4.20 won 8
+88s /zeeeggyll (2a s |
+as aA d ON
+oda
+re) "
+RO a g
+3 SSOnm sue pPp- 2
+ERE BASS SSS y rain El ols
+Lez % 28g 111 3
+es ae ea
+; . ips 2eeengs wis
+nue ~ [) u
+
+a Mek Seon
+
+Slee nk Qar |
+Nee |
+
+ts S Fi
+oR a =
+z= Gl >
+<ageo el & -_
+
+eae eee al * |g =|
+Baysssal S [5 a
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 9f084dd5f7ad
+## 2014-15 · Final-Exam · Sem 3 · paper 2630dfea816c
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic Circuit Analysis & Design Final Exam 2014-15.pdf`
+- Printed on paper: max marks: 100; exam date: 01/12/2014
+- Text: ocr (4 pages), mean OCR confidence 73.5
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: II Semester: III
+
+Academic Year: 2014-15
+
+SS . )
+
+Subject: Electronic Circuit Analysis & Design : $7 .y
+Marks: 100 (
+Date: 01/12/2014 Time: 2.00
+
+Durations: 3
+Final - Examination
+
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Answer to each question to be started on a fresh paper.
+4. Figures to the right indicate full marks.
+5. Assume suitable data wherever necessary.
+
+Ql. Attempt any four questions:-
+
+A What is modeling? Compare between r, and hybrid modeling 5
+
+B What is Barkhausen’s criteria for sustained oscillation 5
+
+(e. For given circuit draw the small signal model using approximate 5
+hybrid modeling
+
+D What are the advantages of negative feedback amplifier 5
+E Draw the high frequency model of transistor 5
+
+Q2. A Design two stage RC coupled CE amplifier to meet the following 20
+requirements
+Ay= 1000
+Sico $9
+Vcc =8 volts
+Ry =25 KO
+F< 20 HZ
+Calculate, Ay, Ri, and Ro of the amplifier you have designed
+
+Page lof }
+--- page 2 ---
+Q3 A Design RC phase shift oscillator for the frequency of 8 KHz 10
+
+B For self bias FET amplifier find Ay, Z; and Zo 10
+
+oa
+WN
+Ng
+
+c210u
+
+t—i Ef]
+
+c110u
+
+wm
+
+Q4 A For voltage series feedback derive an expression for Rig, Ror , and 8
+Ave.
+B Derive an expression for Ay, Z; and Zo for source follower 12
+
+(common drain) ‘amplifier
+
+Q5 A In Wien bridge oscillator Rj=R2=450 kQ, Cj=C2=600pF Determine 5
+its frequency of oscillation
+
+B A full wave rectifier employing a centre tapped transformer andtwo 15
+diodes give DC output voltage of 120 V to resistive load and
+
+current of 75ma+25ma If the ripple factor is to be 0.05, calculate
+
+Page 2 of
+--- page 3 ---
+the specification of devices and specification of filter components
+
+required if the filter used is LC filter.
+
+A Explain Miller effect capacitance 05
+B Design Single stage RC coupled CE amplifier to meet the following 15
+
+requirements
+
+Ay= 100
+
+Sico < 9
+
+Vec = 10 volts
+
+Ri= 25 KQ
+
+Fis 20 HZ
+
+Calculate, Ay Ri, and Ro of the amplifier you have designed
+
+Write a short note on 20
+i) EDA tool PSPICE
+ii) CS- CE amplifier
+
+r ya
+
+Page 3 of 4
+--- page 4 ---
+7 give ns Sy yor 1 & |
+aga . i ee. 515
+a | OO
+& lesser is Bb
+. ‘ 2am Ol & :
+3p e REE °
+mlalala 7
+gu” ag wy SEEN OD. | ge Bis] elo] ” re)
+_ aw OQ 1S aN led Bad hoa ok
+IESE
+a 6 lelele Saf =
+a laywmoeo ye APN} elo “]o. BY E
+yl ANSSalso we] «
+YfSho8 B 8
+. . ge lal alo
+a[Aalala
+Ble : ‘ be
+e a} Oouncoovenoe o ‘ alc
+5 AmDagwes 4 bed Be ce =
+ee aa lA Slo an iho Rod bed
+: | ele
+a woh
+x . . swe leafrr| oe] + .
+i a ayndes 1e os | spf =| O _
+siypeiol. S -pejal
+. mpal alo! . _ ia footw t
+wy en : Ey :
+siP}es2ages) ~-felslals) -
+- . ee . . eee ' » . ~
+.: . by th P 5 a leo} SLO . ¢
+&. Lob a oo 4 . 2 7 temo t
+‘. a 7 > . 12 g
+" : : { BPepery BS
+. : ; #25 . BS) Slate ]a ‘ fd a hal
+ty TL OPTS. fpeneaMnnae 4s} ._
+‘ - ape Sea asns 6 —-4 Lo . oa
+Pe? re a ; alaiela[s] fo ‘ :
+& ‘ 7 . | mpealwmleal — 7 . ¥
+Se oti oe Fr aes Oe CS ee eee es
+mde ggagee3 Slalefele| > [3- |e]
+m. S - wa | SPR] Me fer] - . aye
+. : , E 21a] elo o ‘
+: : i ela|2lF fe Be
+eo. eee | oa ralg volo
+; ee hae a LE | oe
+= . Pe MPT od pop Type pale
+5 ees 2 OR || Spe] ‘
+. eervir tp. tps ey ele :
+; : 2( 2] abe :
+7 whe} Sys ‘A ka] Be
+; : ey Thebalsy! SRLS IEE
+« a ve)
+2 - COS 18
+a 23.2 § Hb
+Wawa x &
+: Ha} o
+: &, £
+, eran
+
+jeeeeeeall tie]
+et 4 awl ye H |
+
+POR
+g #88) ne
+Ae toes my at
+
+s ws
+as price ays
+
+ree .
+13 :
+. 7 oc lane BL te
+eee . = se 4 al ae 4
+; Was GS Bee onal TH CRSAL)E
+‘ BASS~R aS SQRSSSA gw) A Ale.
+ae” ro, ‘a a BREE Seen Tio a ®, 2
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 9f084dd5f7ad
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -2872,6 +2748,477 @@ r 3 wr if
 Sex xs4y ges
 ````
 
+## 2014-15 · Re-Exam · Sem 3 · paper b70a4ae8f879
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2014-2015 Re-exam.pdf`
+- Printed on paper: exam date: 10/06/2015
+- Text: ocr (3 pages), mean OCR confidence 65.9
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL GF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (EXTC) Year:ll Semester:III
+
+Academic Year: 2014-15 Canter maa,
+43 ow
+Batch: 2014-15 se ™
+
+Subject : Electronic Circuit Analysis & Design
+
+rations:3 fr
+
+i Date : 10/06/2015 gations:
+. i! VERON
+MS URINE
+
+Re-Examination
+
+Instructions:- Candidates should read carefully the instructions printed on question paper and on the
+cover-of Answer Book; which is provided for their use.
+NB: :
+
+* 1. Question.No..ONE is.compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. In all FIVE questions-to-be-attempted————— —-—--- --
+4, All questions carry equal marks.
+5. Answer to each new questions to be started on a fresh page’
+6. Figures in brackets on the right hand side indicate full marks.
+
+~~ Q-T Design Multistage“Amplifier to meet the following specifications 9.
+Av> 300
+Ri> 1.5 MQ
+Sico <9
+FL < 20Hz
+Calculate Av & Ro of the designed circuit.
+
+Q. 2 A) Determine input impedance, output impedance, Voltage Gain & Current Gain of CE Amplifier shown
+figure 01 Shown below consider hie = 4.5 KQ, by =300 hoe=25 uS neglect hye. tr
+
+Fig .01
+--- page 2 ---
+stage RC coupled amplifier using PSPICE. 5
+
+B) How to observe transient and frequency response single
+
+Q.3 Design R-C Couple. single stage Common Source Amplifier using JFET BFW 11 with Av =7,
+Ri=1MQ, Vp =- 3.5 V, Ids = 7mA, FL=20Hz & Vop = 20 V, For designed circuit what will
+
+be maximum output voltage expected that can obtained without Distortion. \2
+
+Q. 4 A) Design Colpitt’s oscillator with frequency of oscillation 50MHz, Vo =2v (P-P)
+Ry=1KQand Vec=10V0—— OO 6
+
+B) Explain Voltage shunt negative feedback topology and derive the expression for input and
+Output Impedance of Voltage Series feedback amplifier.
+
+Q.5 A full wave rectifier having a center tapped transformer and two diode give a DC output voltage of
+120 V to resistive load and current of 75+25_mA. If ripple factor is to be 0.05, calculate the
+specification of device & specification of filter components required if filter used is
+
+a)LC filter. b) CLC filter \L
+
+\
+Q. 6 A) Design single stage R-C coupled CE amplifier with following specifications dE
+Av = 50, , Sico = 8, Vee = 10v, FL = 20Hz,
+
+B)List four type of negative feedbacks. In each case give stability ratio, feedback, Rig and Ror 5
+
+Q7. Write short notes on the following.
+
+A) Transistorized Wein Bridge Oscillator.
+
+B) Transistorized series regulator.
+G
+--- page 3 ---
+!
+Beee pri} |
+
+wee 2
+oh
+
+| refelstel
+aid} S]}a
+wee yt |
+ar ‘ *
+on 4lol elo
+FLd] Ald $
+Se | se Sit] eiet” wy
+ae eS HLS ola] | we g
+= | “ r
+BrALe1? Syl Ez] t. :
+enves]sh SEN] OPO “a8 E = £
+aadlaesls 7 Be i.
+Soa Ss a
+. TEES 4
+Atel So].
+aQnoodons ‘ 7 a i =
+AxSesges elsletol   . gS
+Ls ihe afALofsa . a
+: 1. Pete
+> RIS
+: <2 efafefot > » * ;
+ae eS ; = :
+3 s : = wa :
+- ~ fa A
+apa ~ fe *
+esgeBzegel - t
+RS =o seh “fo
+Sr2Ra? 3 2 : ,
+Soaanms, of} < eleleto en on ~
+ReRaSlSl al dlal sls ref DRT
+= Sls-JS
+. G wpropwolL ie 8 &.
+3 . is he . Solel eft ie
+3 . : - a PEL Sawa Aens 5 i be Engg Be
+rn “: . a - Strlals[e; - fo * fo. ea,
+; ee ie = a? z ~ «be Sf. fal ate : . §
+ve _ . it easy gee¢e2 Ye * xx 73 5 : x ef -
+
+gsesege2s
+Done eA se
+
+: : ; i om Oe Fa)
+te sgGea8 erVagsegal 2] aieal
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper a5233e764e6f
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/sELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2013-2014 Re-exam.pdf`
+- Printed on paper: exam date: 10/06/2015
+- Text: ocr (3 pages), mean OCR confidence 70.4
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (EXTC) Year:II Semester: ITI
+Academic Year: 2014-15
+
+Batch:2013-14
+
+Subject :Electronic Circuit Analysis & Design
+
+Date : 10/06/2015
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7, Assume Suitable data whenever required but justify the same.
+
+Q1) Design a multistage AF amplifier for the following requirement [20]
+
+Voltage Gain Av<= 900
+Ri<=1MQ.
+Vo=2V (RMS)
+
+Ri=10K
+
+Q2a] Explain Current series negative feedback topology; derive an expression for Rif, Rof. {10]
+
+Q2b] Write down the procedure to implement single stage CE amplifier in PSPICE [10]
+
+diodes give dc output voltage of 150
+be 0.06, calculate the specification of
+(20]
+
+a center tapped transformer and two
+
+mA +25mA If the ripple, factor is to
+dif the filter used is CLC filter.
+
+Q3] A full wave rectifier employing
+V to resistive load and current of 100
+devices and specification of filter components require!
+Q4a]. For collector to base bias amplifier draw ac equivalent model derive an expression for Av, Zi, and Zo [10]
+Zi, and
+
+er draw ac equivalent model derive an expression for Ay,
+[10]
+
+Q4b]. For RC coupled common source amplifi
+Zo bypassing Rs ——
+
+Q5a]. For the amplifier shown determine the following [10]
+
+a) Voltage gain
+b) with and without feedback Rir
+
+c) Ror
+--- page 2 ---
+Q5b] Write a short note on cascade amplifier. [10]
+
+Q6] Design a common source amplifier for low frequency employing JFET type (20]
+BFW -11 with following specifications using midpoint bias method.
+|Av|28
+
+BW = 30Hz to 200KHz
+
+Q7a]. Design RC phase shift oscillator using BIT to have frequency of oscillation 8 KHzuse BC 147B. [12]
+
+b]. For the emitter follower amplifier derive an expression for Av, Zand Zo using hybrid modeling. [8]
+--- page 3 ---
+F
+
+: BFR Bees itty »
+§ ae Poody
+Sah aod |
+genk o -
+‘ | elelelo
+eid} S[d
+z : <= ene |b |
+; . oe oe 4lalelo -
+AlLol old ;
+: Ro jen naa.y & Srzleley-
+ror foaoo ls ALS OlS] ve
+yale |.
+: : WI2TO1O & yf .
+p aie (BEZSE 8 s] Ee)
+; ziefale ;
+a]apdale ;
+2 Ss]. .
+& a} eneooNS ol al alo : éei¢c
+%; & ALAnrv—anwaea 21% > . la
+olo
+‘ 7 . Ais
+i fs df= MPL ESL RS Ty F ‘
+S15 iwmnnonjo elef melo]. . .
+ETE |eaman les S
+“4 and nw 3 .
+es o > wy) .
+= S ef [8 r :
+= wt : |
+“3.18 Ss eeene a Pha _ fee
+Bye /FESERSS) elses
+SO . ® 7 A; Seeon.) 0 wy | BESTS re {| PEp
+. ok B AAA a’ | o   Wleldlele -alalal-.
+3 | = = 2] é =
+: ia B 18
+: E19 }st9lye Pa
+2 3 {ue de 3 5 sleet. |= Spal
+ie tec | Uli eeaeenel B -
+: 1 : z{rlersis _
+a § i ejala}e :
+en es eles Spa ya bets
+£O |SSRSRSR2) Slefofale]| | fe | ele
+ee: laa wf Ofoatwlea = ape
+. 4 stgdoc : :
+Si leaseew ye : A
+yo Sey ; | |B
+: : | R18
+: : Is “iN
+fee. . co. See feerrirs :
+: ‘ #O] eB
+Py Qe ee
+* ee e : ay B .
+esse Qh im
+‘ RATER oo sig
+: a a
+sto oR. : :
+i . E,=]o]fo
+7 ~ iy a wile
+re ee
+a
+
+bg 4   , my]
+: mK -§gS-4 loose ansd
+guy Seu SOWA
+
+Ses jae
+
+aa - ve aad
+: 2 Add]
+~ ae cocgige
+Let |= as %%
+SOT. ; Fane ra
+et
+. , a |e:
+5 aa al | bol oe
+3 Regge iS Sak8s
+3 Bseecccliflece 238
+zie SO STS obs
+.S) Oo
+seSseaclle Ba
+````
+
+## 2013-14 · Final-Exam · Sem 3 · paper 0b04f61097db
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRONIC CIRCUIT ANALYSIS & DESIGN 2013-14 Final.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/12/2013
+- Text: ocr (4 pages), mean OCR confidence 61.5
+
+````text
+SVKM’s NMIMS ms
+— MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+/
+
+Programme:MBA Tech (EXTC) Year: II
+Academic Year: 2013-2014
+
+Subject : Electronic Circuit Analysis®& Design
+Marks: 100
+Date :02/12/2013 . Time : 2.00,pm to 5.00 pm
+Duration :3 (hrs)
+Final-Examination
+
+Instructions:- Candidates should read carefully the instructions printed on question paper and on the cover of
+Answer Book, which is provided for their use.
+NB:
+
+1. Question No. ONE is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. In all FIVE questions to be attempted
+A. All questions carry equal marks.
+Answer to each new questions to be started on a fresh page
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q. 1 Design Multistage Amplifier to meet the following specifications [20]
+Av > 500
+Ri>1.2MQ
+Sico <9
+Fy <. 20Hz
+Calculate Av & Ro of the designed circuit.
+
+Q. 2 A) Determine input impedance, output impedance, Voltage Gain & Current Gain of CE Amplifier
+
+shown below consider hie = 3.2 KQ, hfe = 100 at the Operating Conditions. [10]
+SléU
+R&
+> zPy in FS
+
+fam how ; \é 6
+
+: c+ | jut
+Vy a Vo
+
+but | ——y ME
+
+3 PL ane =p earl
+
+\ Hoe. edie JL
+
+B) Explain use of EDA tool like PSPICE in Designing of amplifiers. [10]
+Q.3 Design R-C Coupled single stage Common Source Amplifier using JFET BFW 11 with Av = 10,
+
+Ri= 1MOQ, Vp =- 2.5 V, Ids = 7mA, Fi -20Hz & Von = 20 V, For designed circuit what will
+be maximum output voltage expected that can obtained without Distortion. [20]
+
+Q. 4 A) Design Hartley oscillator with frequency of oscillation 5SOMHz, Vo =2v (P-P)
+Ry=1KQ and Vec =10V [10]
+
+B) Explain Voltage Series negative feedback topology and derive the expression for input and
+Output Impedance of Voltage Series feedback amplifier. [10]
+
+i]y
+--- page 2 ---
+Q.5 A full wave rectifier having a center tapped transformer and two diode give a DC output voltage of
+100 V to resistive load and current of 75+25_mA. If ripple factor is to be 0.07, calculate the
+specification of device & specification of filter components required if filter used is
+
+a)LC filter. b) CLC filter . [20]
+
+Q. 6 A) Design single stage R-C coupled CE amplifier with following specifications [10]
+Av = 60, Ri= 4 KQ, Sico = 8, Vcc = 10v, FL = 15Hz, use BJT BC147B
+
+B) Identify the feedback topology of Given Circuit and find out Rif, Rof, Avf
+
+The values of h-parameters are hie =1.1k, hy =50, hre=hoe=0
+
+tie ZVWAe
+
+Le UV
+mi
+Vo
+VS
+8 [10]
+Q7. Write short notes on the following.
+A) Transistorized Wein Bridge Oscillator. [10]
+B) Transistorized series regulator.
+[10]
+
+2)y
+--- page 3 ---
+Standard Resisier Values (5%,
+Foo
+110
+120
+
+369K
+390K
+
+a3 430 V
+47 470 i
+3. 510
+. 5.6 7)
+a [62 620 i
+58 a
+73 7 750
+a2 82 820 |
+92 31 910 {
+i Standard Capacitor Values (410%)
+{i0pF 1O00pF —D1GuF 0p 10uF
+12pF 1200pF —012uF 12uF
+15pF 1S00pF —01SuF .15uF
+1 | L8pF 1800pF -D1BpF 18 nF
+, | 22pF 220pF 220 : 22pF 22uF
+[27pF _270pF _-2700pF ZipF |
+33pF ss 330pF_ 3300p 33pF 33ur |
+39pF 300pF —«3900pF _3eF |
+47pF ATOpE 4700pF Aipe 47uk
+
+SépF 360pe S600pF SSP SSE
+[Sip 6S0pF _—«SRNOPF_—PSRAF S8uF
+82pF S20pF   §200pF —082eE 82yF
+
+or
+--- page 4 ---
+Gon, 2338
+
+——
+
+waweans
+: wa -esS
+
+. ae
+wy =
+x . i
+z -
+ee
+a .
+yo . so, oF .*
+oe .
+= . :
+1 ‘$22 loc imeje . .
+} WS 2 [Ra iea la
+—s “h
+‘ _ a
+espe Lowman |}
+| S82 |egesees
+wat J :
+a
+psa, ESfoje} 7
+mary Si Sis} -
+SSSI - is
+aN > we
+qeqadad . i
+````
+
 ## 2013-14 · Re-Exam · Sem 3 · paper 4c888e5200ce
 
 - Departments: Electronics and Telecommunication
@@ -2879,6 +3226,7 @@ Sex xs4y ges
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN 2013-14 Re-exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11/06/2014
 - Text: ocr (5 pages), mean OCR confidence 67.2
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3003,9 +3351,7 @@ Siandard Capaciter Values G10%)
 10pF 100pF —LO0OpF O1GpF —-10pF 1.0uF 10uF
 12pF 120pF —1200pF 012 2p L2eF
 15pF 150pF —15Q0pF O1SpF .15pF 15pF
-18pF 18QpF — 18ONpF —01pF SpF LBuF
 22pF P20pF   2200pF 029 22k 22pF 22yF
-ZipE 2ZMOpE   —-270OpF AATF ZIpF 27yE
 33pF 330pF —-3300pF 033nF 33pF 33pF 33pF
 39pF 390pF —-3900pF 039uF —-39uF3.OpF
 47pF 470pF —4700pF 047pF47uF 4 7pF Aquk
@@ -3027,7 +3373,6 @@ zs cut a <: .
 coiled winloro }
 # ” ALSiOis --
 ~ ge aic-folo . =.
-as me Sn f ~ aioe a
 ss hig Gt aprpotat eno 7
 ~ . = Bmpt .
 : s mistojio Sy zt - -
@@ -3054,7 +3399,6 @@ bo s4 oa ~ = = 7
 : 7 5 3 . -
 ~ BStofelebel -. [9 S) S/S) :
 xt{oisix|— Bape
-: G.)s-loncenss a at ae BS = d
 . Ui piadBatas! f= 4 L
 a ee Sl epstzia : .
 f& << .
@@ -3079,7 +3423,6 @@ BeAaq] {il = .
 : af = 2eegans . - Ve .
 os +] -ES3 en dacaace Ach GH. 2
 i ’ - ns Mage fe a - .
-== . So aa of ao ee BSS - -
 7 . a = rad: - :
 
 diel ie
@@ -3094,175 +3437,253 @@ oa v
 i
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper a5233e764e6f
+## 2012-13 · Exam not stated · Trim 4 · paper cfe9caaf414a
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/sELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2013-2014 Re-exam.pdf`
-- Printed on paper: exam date: 10/06/2015
-- Text: ocr (3 pages), mean OCR confidence 70.4
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/electronic circuit analysis and design/scan0010(13).pdf`
+- Printed on paper: max marks: 100; exam date: 26/10/2012
+- Text: ocr (4 pages), mean OCR confidence 67.5
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (EXTC) Year:II Semester: ITI
-Academic Year: 2014-15
+Mukesh Patel School Of Technology Management & Engineering
+Programr MBA (Tech) - EXTC Year: Il Trimester: IV
+Academic Year : 2012-2013
 
-Batch:2013-14
+Subject: Electronic Circuit Analysis & Design Marks: 100
+Time: 2.00
+Date: 26/10/2012 Duration: 3
 
-Subject :Electronic Circuit Analysis & Design
+Final - Examination
 
-Date : 10/06/2015
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
+Pete OY Ng
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cafe athe ansWet 5.4 ey
+book, which is provided for their use.
 NB:
-1. Question No. 1 is compulsory.
+1. Question No.1 is compulsory.
 2. Out of remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-7, Assume Suitable data whenever required but justify the same.
+3. Assume relevant data whenever required.
+4. Answer to each new question to be siarted on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
 
-Q1) Design a multistage AF amplifier for the following requirement [20]
+6. Use the data sheet Given
 
-Voltage Gain Av<= 900
-Ri<=1MQ.
-Vo=2V (RMS)
+Ql) Design a multistage AF amplifier for the following requirement [20]
+Voltage Gain Ay<= 1000
+R,<=IMQ.
+Vo=1 V (RMS)
 
-Ri=10K
+Ry=10K
 
-Q2a] Explain Current series negative feedback topology; derive an expression for Rif, Rof. {10]
+Q2a] Explain Current series negative feedback topology and derive for its input and output impedance [10]
 
-Q2b] Write down the procedure to implement single stage CE amplifier in PSPICE [10]
+} Q2b] Write down the procedure to implement single stage CS amplifier in PSPICE [10]
+Q3] Design RC phase shift oscillator using BJT to have frequency of oscillation 6 KHz use [20]
+BC 147A
 
-diodes give dc output voltage of 150
-be 0.06, calculate the specification of
-(20]
+Q4a] For Dual input unbalanced output differential amplifier derive an expression for differential gain, input
+impedance and output resistance [12]
 
-a center tapped transformer and two
+} Q4b] For dual input unbalanced output differential amplifier shown determine the following assume
+*   Vinl=SO0mV and Vin2=20mv (08]
 
-mA +25mA If the ripple, factor is to
-dif the filter used is CLC filter.
-
-Q3] A full wave rectifier employing
-V to resistive load and current of 100
-devices and specification of filter components require!
-Q4a]. For collector to base bias amplifier draw ac equivalent model derive an expression for Av, Zi, and Zo [10]
-Zi, and
-
-er draw ac equivalent model derive an expression for Ay,
-[10]
-
-Q4b]. For RC coupled common source amplifi
-Zo bypassing Rs ——
-
+q } a) Voltage Gain
+b) Output voltage
+c) Input resistance
+d) Out resistance
+--- page 2 ---
 Q5a]. For the amplifier shown determine the following [10]
 
-a) Voltage gain
-b) with and without feedback Rir
+a) Voltage gain with and without feedback
 
-c) Ror
---- page 2 ---
-Q5b] Write a short note on cascade amplifier. [10]
+b) Rr
+c) Rog
+7 RY 3k
+cu 7 = * *
+& * TA NPN
+z hie=1kohm
+4 vs . hfe=s0
+‘Tihoe=S0kohm
+Q5b] Write a short note on cascode amplifier [10]
+Q6] Design single stage RC coupled CS AF amplifier for following requirement [20]
+Av=-9
+Vo=2.5 V (RMS)
+Q7] Design a full wave rectifier using center tap transformer for following requirements [20]
 
-Q6] Design a common source amplifier for low frequency employing JFET type (20]
-BFW -11 with following specifications using midpoint bias method.
-|Av|28
+}
++ Vo=200V (DC), 1.=75F25mA, y=0.05 use z filter calculate expected ripple factor
 
-BW = 30Hz to 200KHz
+“)
 
-Q7a]. Design RC phase shift oscillator using BIT to have frequency of oscillation 8 KHzuse BC 147B. [12]
-
-b]. For the emitter follower amplifier derive an expression for Av, Zand Zo using hybrid modeling. [8]
+a
 --- page 3 ---
-F
-
-: BFR Bees itty »
-§ ae Poody
-Sah aod |
-genk o -
-‘ | elelelo
-eid} S[d
-z : <= ene |b |
-; . oe oe 4lalelo -
-AlLol old ;
-: Ro jen naa.y & Srzleley-
-ror foaoo ls ALS OlS] ve
-yale |.
-: : WI2TO1O & yf .
-ely eysees es AlN) Slo a. § Eg
-p aie (BEZSE 8 s] Ee)
-; ziefale ;
-a]apdale ;
-2 Ss]. .
-& a} eneooNS ol al alo : éei¢c
-%; & ALAnrv—anwaea 21% > . la
-4 GB ~ a “a elaAldld + al x
-olo
-‘ 7 . Ais
-i fs df= MPL ESL RS Ty F ‘
-S15 iwmnnonjo elef melo]. . .
-ETE |eaman les S
-“4 and nw 3 .
-es o > wy) .
-= S ef [8 r :
-= wt : |
-“3.18 Ss eeene a Pha _ fee
-Bye /FESERSS) elses
-SO . ® 7 A; Seeon.) 0 wy | BESTS re {| PEp
-. ok B AAA a’ | o   Wleldlele -alalal-.
-3 | = = 2] é =
-: ia B 18
-: E19 }st9lye Pa
-2 3 {ue de 3 5 sleet. |= Spal
-ie tec | Uli eeaeenel B -
-: 1 : z{rlersis _
-a § i ejala}e :
-en es eles Spa ya bets
-£O |SSRSRSR2) Slefofale]| | fe | ele
-ee: laa wf Ofoatwlea = ape
-. 4 stgdoc : :
-Si leaseew ye : A
-yo Sey ; | |B
-: : | R18
-: : Is “iN
-fee. . co. See feerrirs :
-: ‘ #O] eB
-Py Qe ee
-* ee e : ay B .
-esse Qh im
-‘ RATER oo sig
-: a a
-sto oR. : :
-Aon el zt f e co
-i . E,=]o]fo
-7 ~ iy a wile
-re ee
 a
 
-bg 4   , my]
-: mK -§gS-4 loose ansd
-guy Seu SOWA
+Standard Resistor Values (+5%)
 
-Ses jae
+1.0 10 100 1.0K 10K 100K 1.0M
+1d ll 110 1.1K 11K 110K 1.1M
+12 12 120 1.2K 12K 120K 1.2M
+1.3 13 130 1.3K 13K 130K 1.3M
+1.5 15 150 1.5K 15K 150K 15M
+1.6 16 160 1.6K 16K 160K 1.6M
+1.8 18 180 1.8K 18K 180K 1.8M
+2.0 20 200 2.0K 20K *200K 2.0M
+22, 22 220 22K. 22K 220K 2.2M
+2.4 24 240 24K 24K 240K 2.4M
+2d Zt 270 2.7K 27K 270K 2.7™.
+3.0 30 300 3.0K 30K 300K 3.0M
+3.3 33 330 3.3K 33K 330K 3.3M
+3.6 36 360 3.6K 36K 360K 3.6M
+3.9 39 390 3.9K 39K 390K 3.9M
+4.3 43 430 4.3K 43K 430K 4.3M
+47 47 470 4.7K 47K 470K 4.7™
+5.1 51 510 5.1K 51K 510K 5.1M
+5.6 56 560 5.6K 56K 560K 5.6M.
+6.2 62 620 6.2K 62K 620K 6.2M
+6.8 68 680 6.8K 68K 680K 6.8M
+75 75 750 7.5K 75K 750K 75M
+8.2 82 820 8.2K 82K 820K 8.2M
+9.1 91 910 9AK 91K 910K 9.1M
+Standard Capacitor Values (10%)
 
-aa - ve aad
-: 2 Add]
-~ ae cocgige
-Let |= as %%
-SOT. ; Fane ra
-et
-. , a |e:
-5 aa al | bol oe
-3 Regge iS Sak8s
-3 Bseecccliflece 238
-zie SO STS obs
-.S) Oo
-seSseaclle Ba
+10pF 100pF __—-1000pF_—.010uF —.10uF —s1.0uF —*10uF
+12pF 120pF _1200pF_—012uF —.12uF —1.2uF
+
+15pF 150pF _1500pF .015uF .15pF 1S
+
+18pF 180pF _1800pF —.018uF —.18uF «1.8 uF
+
+22pF 220pF 2200pF —_—.022uF 22uF 2.2UF 22uF
+27pF 270pF _-2700pF_—027uF .27uF 2. 7pF
+
+33pF 330pF _3300pF —.033uF .33uF —3.3uF —_33uF
+39pF 390pF 3900pF —_.039u.F 39uF 3.9uF
+
+47pF 470pF _4700pF_—.047uF 47uF .   4.7pF 47uF
+S6pF 560pF 5600pF —.056uF .S6uF _5.6nF
+
+68pF 680pF 6800pF _.068uF .68uF 6.8uF
+
+82pF 820pF __8200pF_ —.082uF —82uF —8.2uF
+--- page 4 ---
+Gon, 2838-TV-9450-06. °
+
+°
+
+ay
+ay
+
+“
+
+wy
+a
+
+Q
+=
+a
+
+wy
+
+fo)
+Pal
+
+Ss
+2
+a)
+
+a
+
+ae
+3}
+oy:
+emit
+CE Qe B
+noo!
+nooo
+— 09 O Co
+naa A
+eooneo
+GA TO
+a
+mon po
+aad le
+ooo -
+B=aqaon
+san +
+223]
+BSR al
+o2nne
+manag
+aOR
+gene
+nNanodn
+aaa ae
+aww [©
+1wo °
+pow ln
+ownon
+Tov as
+
+|
+
+ral
+Qo
+
+rlalayo
+
+ATAL alo
+
+‘lelslele
+Apmpolo
+
+VIALGLS
+aig} ajo
+
+atts e
+BIN ALO
+
+Aalolalo
+
+poo
+ERS
+
+gag
+whe
+
+ejole
+ay f{Opapoeim
+xs Leda
+ra
+Plejelele
+rE OTT Sls
+x
+BL.
+S < <
+Tiajelele
+=I S)Hl lg
+x] afb ere
+hy olule
+gq] 7} 8] ahS
+z| 2 ;
+él &
+£'&
+io) U .
+J ‘J te
+s &
+fo) Oo
+
+6
+
+nacd
+fonine mo
+
+Parl
+Ne
+
+5
 ````
 
 ## 2012-13 · Re-Exam · Trim 4 · paper 5fc2ac7d1e2b
@@ -3272,6 +3693,7 @@ seSseaclle Ba
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/electronic circuit analysis and design/ELECTRONICS CIRCUIT ANALYSIS AND DESIGN IV (EXTC) MBA TECH 2012-13 RE EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10/6/2013
 - Text: mixed (3 pages), mean OCR confidence 38.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 - -
@@ -3621,6 +4043,7 @@ i=4
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/electronic circuit analysis and design/ELECTRONICS CIRCUIT ANALYSIS AND DESIGN BATCH 2011-12 RE0001.pdf`
 - Printed on paper: max marks: 100; exam date: 11/06/2012
 - Text: ocr (3 pages), mean OCR confidence 57.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 Y= SVKM’s NMIMS
@@ -3955,459 +4378,4 @@ I] lGoanu
 
 ., Beoe
 Pi laws
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper cfe9caaf414a
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/electronic circuit analysis and design/scan0010(13).pdf`
-- Printed on paper: max marks: 100; exam date: 26/10/2012
-- Text: ocr (4 pages), mean OCR confidence 67.5
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programr MBA (Tech) - EXTC Year: Il Trimester: IV
-Academic Year : 2012-2013
-
-Subject: Electronic Circuit Analysis & Design Marks: 100
-Time: 2.00
-Date: 26/10/2012 Duration: 3
-
-Final - Examination
-
-Pete OY Ng
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cafe athe ansWet 5.4 ey
-book, which is provided for their use.
-NB:
-1. Question No.1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. Assume relevant data whenever required.
-4. Answer to each new question to be siarted on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
-
-6. Use the data sheet Given
-
-Ql) Design a multistage AF amplifier for the following requirement [20]
-Voltage Gain Ay<= 1000
-R,<=IMQ.
-Vo=1 V (RMS)
-
-Ry=10K
-
-Q2a] Explain Current series negative feedback topology and derive for its input and output impedance [10]
-
-} Q2b] Write down the procedure to implement single stage CS amplifier in PSPICE [10]
-Q3] Design RC phase shift oscillator using BJT to have frequency of oscillation 6 KHz use [20]
-BC 147A
-
-Q4a] For Dual input unbalanced output differential amplifier derive an expression for differential gain, input
-impedance and output resistance [12]
-
-} Q4b] For dual input unbalanced output differential amplifier shown determine the following assume
-*   Vinl=SO0mV and Vin2=20mv (08]
-
-q } a) Voltage Gain
-b) Output voltage
-c) Input resistance
-d) Out resistance
---- page 2 ---
-Q5a]. For the amplifier shown determine the following [10]
-
-a) Voltage gain with and without feedback
-
-b) Rr
-c) Rog
-7 RY 3k
-cu 7 = * *
-& * TA NPN
-z hie=1kohm
-4 vs . hfe=s0
-‘Tihoe=S0kohm
-Q5b] Write a short note on cascode amplifier [10]
-Q6] Design single stage RC coupled CS AF amplifier for following requirement [20]
-Av=-9
-Vo=2.5 V (RMS)
-Q7] Design a full wave rectifier using center tap transformer for following requirements [20]
-
-}
-+ Vo=200V (DC), 1.=75F25mA, y=0.05 use z filter calculate expected ripple factor
-
-“)
-
-a
---- page 3 ---
-a
-
-Standard Resistor Values (+5%)
-
-1.0 10 100 1.0K 10K 100K 1.0M
-1d ll 110 1.1K 11K 110K 1.1M
-12 12 120 1.2K 12K 120K 1.2M
-1.3 13 130 1.3K 13K 130K 1.3M
-1.5 15 150 1.5K 15K 150K 15M
-1.6 16 160 1.6K 16K 160K 1.6M
-1.8 18 180 1.8K 18K 180K 1.8M
-2.0 20 200 2.0K 20K *200K 2.0M
-22, 22 220 22K. 22K 220K 2.2M
-2.4 24 240 24K 24K 240K 2.4M
-2d Zt 270 2.7K 27K 270K 2.7™.
-3.0 30 300 3.0K 30K 300K 3.0M
-3.3 33 330 3.3K 33K 330K 3.3M
-3.6 36 360 3.6K 36K 360K 3.6M
-3.9 39 390 3.9K 39K 390K 3.9M
-4.3 43 430 4.3K 43K 430K 4.3M
-47 47 470 4.7K 47K 470K 4.7™
-5.1 51 510 5.1K 51K 510K 5.1M
-5.6 56 560 5.6K 56K 560K 5.6M.
-6.2 62 620 6.2K 62K 620K 6.2M
-6.8 68 680 6.8K 68K 680K 6.8M
-75 75 750 7.5K 75K 750K 75M
-8.2 82 820 8.2K 82K 820K 8.2M
-9.1 91 910 9AK 91K 910K 9.1M
-Standard Capacitor Values (10%)
-
-10pF 100pF __—-1000pF_—.010uF —.10uF —s1.0uF —*10uF
-12pF 120pF _1200pF_—012uF —.12uF —1.2uF
-
-15pF 150pF _1500pF .015uF .15pF 1S
-
-18pF 180pF _1800pF —.018uF —.18uF «1.8 uF
-
-22pF 220pF 2200pF —_—.022uF 22uF 2.2UF 22uF
-27pF 270pF _-2700pF_—027uF .27uF 2. 7pF
-
-33pF 330pF _3300pF —.033uF .33uF —3.3uF —_33uF
-39pF 390pF 3900pF —_.039u.F 39uF 3.9uF
-
-47pF 470pF _4700pF_—.047uF 47uF .   4.7pF 47uF
-S6pF 560pF 5600pF —.056uF .S6uF _5.6nF
-
-68pF 680pF 6800pF _.068uF .68uF 6.8uF
-
-82pF 820pF __8200pF_ —.082uF —82uF —8.2uF
---- page 4 ---
-Gon, 2838-TV-9450-06. °
-
-°
-
-ay
-ay
-
-“
-
-wy
-a
-
-Q
-=
-a
-
-wy
-
-fo)
-Pal
-
-Ss
-2
-a)
-
-a
-
-ae
-3}
-oy:
-emit
-CE Qe B
-noo!
-nooo
-— 09 O Co
-naa A
-eooneo
-GA TO
-a
-mon po
-aad le
-ooo -
-B=aqaon
-san +
-223]
-BSR al
-o2nne
-manag
-aOR
-gene
-nNanodn
-aaa ae
-aww [©
-1wo °
-pow ln
-ownon
-Tov as
-
-|
-
-ral
-Qo
-
-rlalayo
-
-ATAL alo
-
-‘lelslele
-Apmpolo
-
-VIALGLS
-aig} ajo
-
-atts e
-BIN ALO
-
-Aalolalo
-
-poo
-ERS
-
-gag
-whe
-
-ejole
-ay f{Opapoeim
-xs Leda
-ra
-Plejelele
-rE OTT Sls
-x
-BL.
-S < <
-Tiajelele
-=I S)Hl lg
-x] afb ere
-hy olule
-gq] 7} 8] ahS
-z| 2 ;
-él &
-£'&
-io) U .
-J ‘J te
-s &
-fo) Oo
-
-6
-
-nacd
-fonine mo
-
-Parl
-Ne
-
-5
-````
-
-## Year not stated · Re-Exam · Sem 3 · paper 7411e92a3581
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic circuit analysis & Design , Re-exam 17-18-19.pdf`
-- Printed on paper: exam date: 12 November 2019
-- Text: ocr (4 pages), mean OCR confidence 70.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech/ MBA Tech (EXTC) Year: II
-
-Semester: III
-
-; Academic Year: 2019-20
-Subject: Electronic Circuit Analysis and Design
-
-Date: 12 November 2019 “
-
-ea
-
-Re-examination B.Tech / MBA Tech (2018-19
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1. a) Explain with example use of EDA tools like Pspice in design of amplifiers. [5]
-b) Discuss advantages and disadvantages of negative feedback on performance of an amplifier. [5]
-c) State and prove Barkhausen criteria for sustained oscillations. [4]
-2. Design a single stage RC coupled CE amplifier using BC147B transistor [14]
-
-for low frequency range 10Hz to 20KHz with the following requirements.
-Voltage Gain | Av| = 90
-Vee =22 V
-I.q=3 ma
-$<10
-
-Calculate Av, Ri, and Ro of the designed circuit.
---- page 2 ---
-3. Design single stage RC coupled CS amplifier to satisfy the following [14]
-requirements using JFET BFW11.
-
-Av= |15|
-Vo=2V
-Frequency = 20 Hz - 20 KHz
-4,(a) Draw a circuit diagram of phase shift oscillator. Explain its working. Give necessary [07]
-
-necessary conditions for sustained oscillations. Derive for its frequency of oscillations.
-
-(b) Design BIT phase shift oscillator to operate at 10 kHz. [07]
-
-05. Design full wave rectifier dc supply using a center tap transformer with two [14]
-diodes to give DC output voltage at 300 V to a variable load resistor. The load
-current expected is 75 + 25 ma. Ripple factor should not exceed 0.07. Assume
-Toil = 100Q., rs/2 = 100 Q. Use L- section filter.
-Calculate expected ripple factor for the designed circuit.
-06. Derive expressions of voltage gain, current gain. input impedance, and output [14]
-impedance for BJT voltage amplifier shown in figure. Calculate from the above
-
-expressions the voltage gain, current gain. input impedance and output impedance for
-
-same circuit.
-
-a AN CO
-ae
-7 Re Cour
-jp vo
-RL
-Rig {od ko
-+ ce R2- 10 kf
-| Res w2kKV
-+ -—— Re = ) Kf
-. Rs = Loot
-
-ceir cers lOAF,
-
-ce. lOo AE,
-
-heer (0d, pies TRAX,
-hye = arin hee = BO4FU-
-
-RL= to Be
---- page 3 ---
-07 (a)s Derive expressions of voltage gain, input impedance, and output impedance [07]
-
-for JFET voltage amplifier shown in figure. P+ op
-=Rp
-C& q —— | 3 Vd
-11 =D
-ia
-
-vi @) See RS
-
-—
-
-(b) Explain voltage series negative feedback topology & derive for its input and output impedance. [07]
-
-aly
---- page 4 ---
-7 Appendix : : ' Data Sheet
-ase :
-
-a” Key
-- Ss EOD 3333 | i if
-
-Bahs Soc
-- » ja 2 olelolo
-7 s{d1d]5
-- a) we wow . y 7
-. sj (2Reainl aa
-® Ald+d]sd
-88 legge js Sia1Sts
-. > mae sols Ala] slo
-wig ele
-Flenynoojs Sie oie
-. =
-| 9) 88488 13 ~-—
-* TIAGO
-ALapsld
-= % ol
-Ljonoo
-. & |S /S&SRata 3/212
-By Ft. ata aAld|d
-=|. elalste
-£|2/S888g.ig ol
-“ _ “ alslelo
-alalalsd
-elilecsesens
-&/B/SSaggee 21S] ale
-zg
-Pilr|losoosoo}o 3/1949
-g BLBREARSIS Bis] S] s]=
-3 bed
-: Bfelelels
-Sleleouscoeunol] SPOUT Tt
-aE Samoans 5
-2 rilols{a
-: i 3 o[alAla
-8 gooco
-EO /SSRSRSS 3 alolojo
-= KE ACh ON et es 3 Slalols
-> RSS jl rneaveso S ae
-my SS | f a ee)
-< &
-= BS S slej<
-=| SES bratty] dy ayereye
-“S18 als
-¢ =| el8| S12
-«D0 ke nia
-3 RI>(gi8
-Sas RRISSIS Spe, es
-FS
-u . . :
-2 " Be
-83° |oosononu||- zl.2 |
-Sse | Sarees js i
-Sas Slo 5
-$ >) aD
-a
-: od
-sig : te
-4 — oo os J . 4
-Ss—3 /SSAQ2Raes bt B | | |
-el . 2
-rs == {
-a 3) xxx
-4.58 |e oownnn Waa
-Ses wae oa heme
-6d6
-RD a. :
-ERS |S22S333]| ej REL’
-& we ‘ i=}
-Eye pPe Tore s saai it |
-aor
-ae “OSC OnNS
-EWE f4ssadgg addacaaa
-. L@P parr Soil weugsou
-“luv g har
-A ae
-J u
-a ™~ [ls
-oa: g 5
-s | iy
-3 a828eSe 3 a
-2 SBEaGeS Hite
-8 . £ |x SOSo §U2085 :
-| & TARERRSRIS| SSASERS
-
-a
 ````

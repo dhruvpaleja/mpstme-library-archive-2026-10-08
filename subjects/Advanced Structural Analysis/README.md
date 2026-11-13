@@ -1,6 +1,6 @@
 # Advanced Structural Analysis
 
-**12** unique papers (13 copies across programmes) · 2013-14 to 2019-20 · 2 programmes · Sem 7, Sem 9
+**11** unique papers (12 copies across programmes) · 2013-14 to 2019-20 · 2 programmes · Sem 7, Sem 9
 
 Download only this subject, sorted by academic year:
 
@@ -17,7 +17,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2019-20 | Final + Re-Exam | Question paper | Sem 7 | B TECH / CIVIL | ADVANCED STRUTURAL ANALYSIS FINAL EXAM 19-20 RE EXAM 18-19.pdf |
 | 2019-20 | Final + Re-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / CIVIL | Advanced Structural Analysis 2019-20 Final Batch 2018-19 Re Exam.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | ADVANCED STRUCTURAL ANALYSIS FINAL EXAM 18-19.pdf |
-| 2018-19 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | ANALYSIS_OF_TRANSPORTATIO_SYSTEM_B TECH (CIVIL), 2018-19_FINAL_EXAM.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / CIVIL | Advanced Structural Analysis 2018-19 Final.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 7 | B TECH / CIVIL | ADVANCED STRUCTURAL ANALYSIS BATCH 17-18 RE EXAM 2017-18.pdf |
 | 2014-15 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | ADVANCED STRUCTURAL ANALYSIS B TECH (CIVIL), BATCH 2014-15 FINAL EXAM.pdf |

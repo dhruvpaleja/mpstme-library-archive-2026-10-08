@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_IT_7001/Information Systems Security/ANS_Information Systems Security(702IT0C029)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: mixed (16 pages), mean OCR confidence 72.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -360,7 +361,6 @@ a application software (e.g. ssh, sshd, scp, slip, sftp_server)
 dient outhentication TCP port ond X Forwarding
 publickey quthenticofion agent forwarding
 password interaclive session support
-hostbasead ramole fom execulion
 password changing flow con
 pseuda-terminals
 terminal hondling

@@ -914,6 +914,136 @@ BL2 predetermined motion time standards (PMTS).
 Page 3 of 3
 ````
 
+## 2023-24 · Exam not stated · Sem 6 · paper 90fed60a7500
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Industrial Engineering/Industrial Engineering.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/04/2024
+- Text: ocr (3 pages), mean OCR confidence 89.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E' ¢
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Program/s: B. Tech/ MBA Tech Year: III Semester: VI
+
+Stream/s : Mechanical :
+
+Subject: Industrial Engineering Time: 03 hrs (269 pmto 5:0 pn’)
+Date: 20/04/2024. . No. of Pages: 03
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+“>> of the Answer Book, which is provided for their use. :
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly: [20]
+oe. SO-1 | a. | Define Productivity of Land and Productivity of Material [05]
+no SO-2 | b. | Explain Value and its types. [05]
+> oles SO-1 |. | Write down step by step procedure of Work Sampling. [05]
+SO. SO-7 | d. | By taking a product example, describe its features by using ergonomic concept. | [05]
+Q2 [20]
+cy 80-2; | a. | Discuss flow process chart symbols in detail. - [10]
+oes 80-2; | b. | Describe reasons for low productivity [any five]. [10]
+Q3 [20]
+co-1,s0-1 | 2 | Draw an outline process chart, with suitable example [minimum 6 operations [10]
+BL-2
+
+and 2 inspections are needed].
+
+Page 1 of 3
+--- page 2 ---
+4
+
+b. | The following information regarding the output produced and inputs consumed
+for a particular time period for a particular company given below: .
+
+* Output = 90,000 Rs.
+
+¢ Human input = 2000 Rs.
+0-2, SO-7 * Capital input = 8000 Rs. [10]
+_ * Material input = 9000 Rs.
+
+* Other misc. input = 600 Rs.
+
+Compute various productivity indices. Calculate Total Factor Productivity and
+
+Total Productivity Measure.
+
+Q4 [20]
+3 380-2; | a. | Draw a man-machine chart, with suitable example. [10]
+
+b. | Turning gear blanks on centre lathe involves the following elements as shown
+in table. Performance rating is given in percentage.
+Assuming the rest and the personal allowance as 13% and contingency
+
+allowance 2%. Compute the total standard time.
+
+CO-2, SO-7
+BLS ‘ Performance [10]
+Elements Observed time in minutes rating
+1 0.2 85
+2 0.08 80
+3 0.5 90
+4 0.12 85
+5 VA. 80
+Q5 [20]
+Table shows actual time for elements in minutes (time measured by Continuous
+stop watch). Elements 3 is a machine element. Take performances rating as
+120%. Take following allowances personal allowance 30 minute in a shift of 8
+a. | hours. Fatigue allowance 16%, contingency allowance 3%. Estimate the
+0-2, S0-7 standard time of operation and production per 8 hours shift.
+BL4 Cycle time in minutes. . [10]
+Elements 1 2 3 4
+1 14 101 254 407
+2 50 153 305 460
+3 85 239 393 545
+
+Page 2 of 3
+--- page 3 ---
+i
+
+CO-1: 80-2: b. | For manufacturing Spacecraft, which type of Plant Layout is suitable? Explain [10]
+Bled it briefly and write down its advantages and limitations.[any two]
+
+06 ; [20]
+ae 3802; | a. | Write down Principles of Value Analysis. [10]
+cp 80-2; |b. | List down the classification of Ergonomics with examples. [10]
+Q7 [20]
+
+a. | A work-study sample of manufacturing activity conducted over 30 hours period
+
+0-1: $0-2: shows that a worker with a 105% rating produced 10 parts. The worker’s idle [10]
+
+BL-2 time was 6% and allowance factor was 13%, Find the normal and Standard time
+for this activity.
+CO-1;SO-2; |, | List down all the primary questions asked in critical examination. [10]
+
+BL-2
+
+Page 3 of 3
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper 6ab96b99cf86
 
 - Departments: Mechatronics
@@ -1057,6 +1187,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/INDUSTRIAL ENGINEERING/Industrial Engineering, Sem-VI, Year 2022-23, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (2 pages), mean OCR confidence 85.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1153,7 +1284,6 @@ CO- 3: SO-7: Explain Function Analysis System Technique (FAST) in detail. 01
 ; ; 1
 BL-2 [
 
-2 oe a a oo oo a a a
 ````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper 6f7213aa06f3
@@ -1390,7 +1520,7 @@ considered while calculating work content.
 LL
 ````
 
-## 2022 · Final-Exam · Sem 7 · paper ff191e395f3b
+## 2022-23 · Final-Exam · Sem 7 · paper ff191e395f3b
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
@@ -3201,6 +3331,7 @@ wd b) Principles of Motion Economy. (7)
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/INDUSTRIAL ENGINEERING/INDUSTRIAL ENGINEERING B TECH (MECHATRONICS), 2017-18 FINAL EXAM.pdf`
 - Printed on paper: exam date: 05 December 2017
 - Text: ocr (2 pages), mean OCR confidence 77.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3284,7 +3415,6 @@ on) Wer cou The hows h & iy E
 
 ) ‘ ‘
 
-‘ Oe Psi blain re exdwple, fri At w
 Spent A }
 
 ,
@@ -3293,12 +3423,10 @@ i *
 
 aka
 a, eo GQ morks
-fot Bos ANe inet “4 ( = )
 
 g gd
 . CALL 5 oa ERGONCHICS
 : Le int aw NINE VG we t "
-fy 4 , re eee ee wiper {Awee yy, Ppt
 Ly. { b) (ns fS yee . -" 7 y im eS Ps ‘) a
 mS + - - | yon wene oe RY K, a y
 . ( cent pedi ens 4 v I x
@@ -3599,6 +3727,102 @@ this case. Discuss (6)
 2fp_
 ````
 
+## 2016-17 · Final-Exam · Sem 5 · paper c65208d92d3c
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/INDUSTRIAL ENGINEERING/INDUSTRIAL ENGINEERING B TECH (MECHANICAL), FINAL EXAM.pdf`
+- Printed on paper: exam date: 03 December 2016
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) Year: III Semester: V
+Academic Year: 2016-2017
+/ Subject : Industrial Engineering
+Date : 03 December 2016 Time :
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+
+6) Assume Suitable data if necessary.
+
+Q1_——_—s Answer the following Questions (any four)
+
+a) What are the functions of Industrial engineer? (3)
+b) What factors are considered in selecting a job for method study? (3)
+c) Explain the different factors which affect the plant layout. (3)
+d) Explain the objectives of work measurement (3)
+e) What are the areas of applications of Ergonomics? (3)
+f) Define value. What are the different types of values? (3)
+Q2 a) List the recording techniques used in Method study. Explain the (6)
+ore significance of each.
+
+b) Differentiate between operation process chart and flow process chart. (6)
+
+aad Justify your answer with example.
+Q3 a) Explain different types of plant layout with suitable examples. (6)
+b) Explain the principle of motion economy related to uses to human (6)
+
+body, arrangement of work space and design of tools and equipment s.
+
+Va
+--- page 2 ---
+Q4_ a) What are the techniques of work measurements? Explain each of them (6)
+briefly.
+
+b) An Industrial operation consist of five elements with following (6)
+observed times and the performance ratings. |
+
+Element Observe time Performance |
+rating %
+
+1 0.15 80 |
+
+2 0.20 85 |
+
+3 0.10 90 |
+
+4 0.12 75 )
+
+5 0.25 80 |
+
+Assuming rest and personal allowances a 12% and contingency allowances
+as 4% of the basic time, Calculate standard time per piece.
+
+Q5 (a) Explain how the environmental factors affect the man-machine system: (6)
+(b) Define ergonomics and state its objectives. (6)
+Q6 (a) Define value engineering. Discuss the various uses of value (6)
+engineering.
+(b) Differentiate between value engineering and other cost reduction (6)
+techniques.
+
+Q7 ‘Explain the following (any three):-
+
+(a) Advantages and disadvantages of work sampling. (4)
+(b) Various type of elements in time study. (4)
+mz (c ) Reasons for unnecessary costs in value engineering. (4)
+cual (d) Factors affecting productivity. (4)
+
+(e ) Symbols used in method study chart. ; (4)
+````
+
 ## 2016-17 · Final-Exam · Sem 7 · paper ff58c91b4b8f
 
 - Departments: Mechatronics
@@ -3818,6 +4042,7 @@ one.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/INDUSTRIAL ENGINEERING/INDUSTRIAL ENGINEERING B TECH (MECHATRONICS), BATCH 16-17 RE EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 27 May 2017
 - Text: ocr (2 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3892,7 +4117,6 @@ both scheduled breaks that all workers take at the same time and (b) the two 12-
 in the allowance factor so that workers can take their breaks whenever they please. (6)
 
 6 a) What are the principles of ergonomics? Why anthropometry is important for ergonomics?
-P Pp. ay P' y iP g
 What does 5" percentile or 95" percentile means? (6)
 
 (b) What are the principles in applications of anthropometric data? What suggestions one can give
@@ -4940,230 +5164,4 @@ Q7 Write Short Notes: (any TWO) (20-Marks)
 K x
 
 aie
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 90fed60a7500
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Industrial Engineering/Industrial Engineering.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/04/2024
-- Text: ocr (3 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E' ¢
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Program/s: B. Tech/ MBA Tech Year: III Semester: VI
-
-Stream/s : Mechanical :
-
-Subject: Industrial Engineering Time: 03 hrs (269 pmto 5:0 pn’)
-Date: 20/04/2024. . No. of Pages: 03
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-“>> of the Answer Book, which is provided for their use. :
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly: [20]
-oe. SO-1 | a. | Define Productivity of Land and Productivity of Material [05]
-no SO-2 | b. | Explain Value and its types. [05]
-> oles SO-1 |. | Write down step by step procedure of Work Sampling. [05]
-SO. SO-7 | d. | By taking a product example, describe its features by using ergonomic concept. | [05]
-Q2 [20]
-cy 80-2; | a. | Discuss flow process chart symbols in detail. - [10]
-oes 80-2; | b. | Describe reasons for low productivity [any five]. [10]
-Q3 [20]
-co-1,s0-1 | 2 | Draw an outline process chart, with suitable example [minimum 6 operations [10]
-BL-2
-
-and 2 inspections are needed].
-
-Page 1 of 3
---- page 2 ---
-4
-
-b. | The following information regarding the output produced and inputs consumed
-for a particular time period for a particular company given below: .
-
-* Output = 90,000 Rs.
-
-¢ Human input = 2000 Rs.
-0-2, SO-7 * Capital input = 8000 Rs. [10]
-_ * Material input = 9000 Rs.
-
-* Other misc. input = 600 Rs.
-
-Compute various productivity indices. Calculate Total Factor Productivity and
-
-Total Productivity Measure.
-
-Q4 [20]
-3 380-2; | a. | Draw a man-machine chart, with suitable example. [10]
-
-b. | Turning gear blanks on centre lathe involves the following elements as shown
-in table. Performance rating is given in percentage.
-Assuming the rest and the personal allowance as 13% and contingency
-
-allowance 2%. Compute the total standard time.
-
-CO-2, SO-7
-BLS ‘ Performance [10]
-Elements Observed time in minutes rating
-1 0.2 85
-2 0.08 80
-3 0.5 90
-4 0.12 85
-5 VA. 80
-Q5 [20]
-Table shows actual time for elements in minutes (time measured by Continuous
-stop watch). Elements 3 is a machine element. Take performances rating as
-120%. Take following allowances personal allowance 30 minute in a shift of 8
-a. | hours. Fatigue allowance 16%, contingency allowance 3%. Estimate the
-0-2, S0-7 standard time of operation and production per 8 hours shift.
-BL4 Cycle time in minutes. . [10]
-Elements 1 2 3 4
-1 14 101 254 407
-2 50 153 305 460
-3 85 239 393 545
-
-Page 2 of 3
---- page 3 ---
-i
-
-CO-1: 80-2: b. | For manufacturing Spacecraft, which type of Plant Layout is suitable? Explain [10]
-Bled it briefly and write down its advantages and limitations.[any two]
-
-06 ; [20]
-ae 3802; | a. | Write down Principles of Value Analysis. [10]
-cp 80-2; |b. | List down the classification of Ergonomics with examples. [10]
-Q7 [20]
-
-a. | A work-study sample of manufacturing activity conducted over 30 hours period
-
-0-1: $0-2: shows that a worker with a 105% rating produced 10 parts. The worker’s idle [10]
-
-BL-2 time was 6% and allowance factor was 13%, Find the normal and Standard time
-for this activity.
-CO-1;SO-2; |, | List down all the primary questions asked in critical examination. [10]
-
-BL-2
-
-Page 3 of 3
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper c65208d92d3c
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/INDUSTRIAL ENGINEERING/INDUSTRIAL ENGINEERING B TECH (MECHANICAL), FINAL EXAM.pdf`
-- Printed on paper: exam date: 03 December 2016
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHANICAL) Year: III Semester: V
-Academic Year: 2016-2017
-/ Subject : Industrial Engineering
-Date : 03 December 2016 Time :
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-
-5) Figures in brackets on the right hand side indicate full marks.
-
-6) Assume Suitable data if necessary.
-
-Q1_——_—s Answer the following Questions (any four)
-
-a) What are the functions of Industrial engineer? (3)
-b) What factors are considered in selecting a job for method study? (3)
-c) Explain the different factors which affect the plant layout. (3)
-d) Explain the objectives of work measurement (3)
-e) What are the areas of applications of Ergonomics? (3)
-f) Define value. What are the different types of values? (3)
-Q2 a) List the recording techniques used in Method study. Explain the (6)
-ore significance of each.
-
-b) Differentiate between operation process chart and flow process chart. (6)
-
-aad Justify your answer with example.
-Q3 a) Explain different types of plant layout with suitable examples. (6)
-b) Explain the principle of motion economy related to uses to human (6)
-
-body, arrangement of work space and design of tools and equipment s.
-
-Va
---- page 2 ---
-Q4_ a) What are the techniques of work measurements? Explain each of them (6)
-briefly.
-
-b) An Industrial operation consist of five elements with following (6)
-observed times and the performance ratings. |
-
-Element Observe time Performance |
-rating %
-
-1 0.15 80 |
-
-2 0.20 85 |
-
-3 0.10 90 |
-
-4 0.12 75 )
-
-5 0.25 80 |
-
-Assuming rest and personal allowances a 12% and contingency allowances
-as 4% of the basic time, Calculate standard time per piece.
-
-Q5 (a) Explain how the environmental factors affect the man-machine system: (6)
-(b) Define ergonomics and state its objectives. (6)
-Q6 (a) Define value engineering. Discuss the various uses of value (6)
-engineering.
-(b) Differentiate between value engineering and other cost reduction (6)
-techniques.
-
-Q7 ‘Explain the following (any three):-
-
-(a) Advantages and disadvantages of work sampling. (4)
-(b) Various type of elements in time study. (4)
-mz (c ) Reasons for unnecessary costs in value engineering. (4)
-cual (d) Factors affecting productivity. (4)
-
-(e ) Symbols used in method study chart. ; (4)
 ````

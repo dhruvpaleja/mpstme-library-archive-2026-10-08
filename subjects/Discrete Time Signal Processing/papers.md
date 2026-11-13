@@ -654,6 +654,134 @@ the quantization noise at the output.
 4|Page
 ````
 
+## 2024-25 · Re-Exam · Sem 6 · paper 95d8bc317cd8
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/DISCRETE TIME SIGNAL PROCESSING/Discrete Time Signal Processing, Sem VI, Batch 2021-22 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 82.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+: SCHOOL OF TECHNOLOGY MANAGEMENT
+, Academic Year: 2024-2025
+
+Program/s: BTech Year: 34 Semester: VI
+Stream: EXTC
+
+Subject: Discrete. Time Signal Processing Time: 3 hrs. (2200pto Siooprs)
+Date:_2@ / 4 /2025 No. of Pages:03
+
+Marks: 100.
+
+Re-Examination ( 202) -22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql ,
+F Answer briefly: : [20]
+CO-1; a. :
+SO-1; Explain Digital Notch filter with pole zero plot and the magnitude response. | [05]
+BL-2 .
+CO-2; b. | Explain the relationship between Discrete Fourier Transform and Discrete | [05]
+ea Time Fourier Transform
+BL-5 ime i orm.
+CO- 3; e.
+SO-1; ; Compare Chebyshev type-I and type II filters.
+BL-2 el
+* CO-5;
+SO- 1: List down the essential features of a good window for FIR filters.
+; d. [05]
+BL-1 |.
+Q2 .
+foo | Explain overlap save method of filtering, if input data sequence is long and (10)
+-2;. a.
+SO-2; “impulse response has a few number of samples. :
+BL-5
+--- page 2 ---
+The frequency response of a system is given by
+
+Q b ~
+b . ew —a g
+jw) =
+S41 7 MeN) = Gwe [10] .
+BL23 where a and b are real with a # b. Show that |H (e")? is constant if ab=1
+; and determine its value. Also, find the phasé response and time delay.
+An input sequence x(n)={2, 1, 0, 1, 2} is applied to a DSP system having
+Q3 a. | an impulse sequence h(n)={5, 3, 2, 1}. Determine the output sequence
+CO-3; produced by ‘| [10]
+ey (i) linear convolution and
+(ii) verify the same through circular convolution.
+@
+C0-2: b Determine the DFT of the sequence x(n) = {1,2,3,4,4,3,2,1} using DIF 110]
+SO-1; FFT algorithm. :
+BL-5 :
+Q4
+ep a. | Compare IIR and FIR filters. [04]
+BL-2
+Design a low pass filter
+Q4 b. ; Ha(el®) = e"¥® ; 5 <a <¢
+CO-3; , [16]
+SO-1; i =I01; 2 <|ol<x-
+BL-6 4
+Using a Hamming window with M=7.
+Given a second-order transfer function
+Q5
+a. on?
+CO-5; H@)= 0.5(1 — z7~*) [16]
+SO-1; 141.327! +0.362-2’
+BL-5 :
+
+Implement the following filter realizations:
+--- page 3 ---
+1. direct form I and direct form II
+2. cascade form via the first-order sections
+
+3. parallel form via the first-order sections
+
+Q5
+an b. . | Obtain the system function of normalised Butterworth filters for order N=2. | [04]
+BL-6 .
+Q6 Using the bilinear transformation, design a high pass filter, monotonic in
+gn a high p
+oct a. | passband with cut-off frequency of 1000 Hz and down 10 dB at 350 Hz. [10]
+BL-2 The sampling frequency is 5000 Hz. ‘
+(i) Given the following FIR filter: . : [06]
+Q6 b. y(n) = 0.1x(n) + 0.25x(n - 1) + 0.2x(n - 2),
+z ites Determine the transfer function, filter length, nonzero coefficients, and
+BL-5 impulse response.
+(ii) Explain Linear phase property of FIR filter. [04]
+Q7 Explain and write short notes on
+CO-6; (i) Product quantization error | [10]
+SO-1; (ii) | Amplitude Quantization
+BL-2
+a.
+For the given difference equation,
+Q7 b. 3 30° 1 :
+Co-5; . y(n) = gym) +5 yn — 2) + ym — 3) + x(n) + 3x(n- 1) [10]
+ah + 2x(n— 2)
+
+BL-2
+: Show the Direct form I and Direct form II structure.
+--- page 4 ---
+
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper 2b6c9d18f2c2
 
 - Departments: Electronics and Telecommunication
@@ -1078,7 +1206,7 @@ BL-I minimized?
 315
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper 25fb61ff6a4e
+## 2022-23 · Final-Exam · Sem 9 · paper 25fb61ff6a4e
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
@@ -1933,134 +2061,6 @@ Explain the product quantization noise model.
 413
 ````
 
-## 2021-22 · Re-Exam · Sem 6 · paper 95d8bc317cd8
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/DISCRETE TIME SIGNAL PROCESSING/Discrete Time Signal Processing, Sem VI, Batch 2021-22 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 82.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-: SCHOOL OF TECHNOLOGY MANAGEMENT
-, Academic Year: 2024-2025
-
-Program/s: BTech Year: 34 Semester: VI
-Stream: EXTC
-
-Subject: Discrete. Time Signal Processing Time: 3 hrs. (2200pto Siooprs)
-Date:_2@ / 4 /2025 No. of Pages:03
-
-Marks: 100.
-
-Re-Examination ( 202) -22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql ,
-F Answer briefly: : [20]
-CO-1; a. :
-SO-1; Explain Digital Notch filter with pole zero plot and the magnitude response. | [05]
-BL-2 .
-CO-2; b. | Explain the relationship between Discrete Fourier Transform and Discrete | [05]
-ea Time Fourier Transform
-BL-5 ime i orm.
-CO- 3; e.
-SO-1; ; Compare Chebyshev type-I and type II filters.
-BL-2 el
-* CO-5;
-SO- 1: List down the essential features of a good window for FIR filters.
-; d. [05]
-BL-1 |.
-Q2 .
-foo | Explain overlap save method of filtering, if input data sequence is long and (10)
--2;. a.
-SO-2; “impulse response has a few number of samples. :
-BL-5
---- page 2 ---
-The frequency response of a system is given by
-
-Q b ~
-b . ew —a g
-jw) =
-S41 7 MeN) = Gwe [10] .
-BL23 where a and b are real with a # b. Show that |H (e")? is constant if ab=1
-; and determine its value. Also, find the phasé response and time delay.
-An input sequence x(n)={2, 1, 0, 1, 2} is applied to a DSP system having
-Q3 a. | an impulse sequence h(n)={5, 3, 2, 1}. Determine the output sequence
-CO-3; produced by ‘| [10]
-ey (i) linear convolution and
-(ii) verify the same through circular convolution.
-@
-C0-2: b Determine the DFT of the sequence x(n) = {1,2,3,4,4,3,2,1} using DIF 110]
-SO-1; FFT algorithm. :
-BL-5 :
-Q4
-ep a. | Compare IIR and FIR filters. [04]
-BL-2
-Design a low pass filter
-Q4 b. ; Ha(el®) = e"¥® ; 5 <a <¢
-CO-3; , [16]
-SO-1; i =I01; 2 <|ol<x-
-BL-6 4
-Using a Hamming window with M=7.
-Given a second-order transfer function
-Q5
-a. on?
-CO-5; H@)= 0.5(1 — z7~*) [16]
-SO-1; 141.327! +0.362-2’
-BL-5 :
-
-Implement the following filter realizations:
---- page 3 ---
-1. direct form I and direct form II
-2. cascade form via the first-order sections
-
-3. parallel form via the first-order sections
-
-Q5
-an b. . | Obtain the system function of normalised Butterworth filters for order N=2. | [04]
-BL-6 .
-Q6 Using the bilinear transformation, design a high pass filter, monotonic in
-gn a high p
-oct a. | passband with cut-off frequency of 1000 Hz and down 10 dB at 350 Hz. [10]
-BL-2 The sampling frequency is 5000 Hz. ‘
-(i) Given the following FIR filter: . : [06]
-Q6 b. y(n) = 0.1x(n) + 0.25x(n - 1) + 0.2x(n - 2),
-z ites Determine the transfer function, filter length, nonzero coefficients, and
-BL-5 impulse response.
-(ii) Explain Linear phase property of FIR filter. [04]
-Q7 Explain and write short notes on
-CO-6; (i) Product quantization error | [10]
-SO-1; (ii) | Amplitude Quantization
-BL-2
-a.
-For the given difference equation,
-Q7 b. 3 30° 1 :
-Co-5; . y(n) = gym) +5 yn — 2) + ym — 3) + x(n) + 3x(n- 1) [10]
-ah + 2x(n— 2)
-
-BL-2
-: Show the Direct form I and Direct form II structure.
---- page 4 ---
-
-````
-
 ## 2021-22 · Re-Exam · Sem 6 · paper c1ae75f79a44
 
 - Departments: Electronics and Telecommunication
@@ -2794,6 +2794,116 @@ FIR filter design Frequency Sampling Method 7
 Digital Resonator and Notch filter 7
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper e50bc162559c
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/V SEMESTER/DISCRETE TIME SIGNAL PROCESSING/Discrete Time signal processing Re-exam 2017-2018-2019.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 January 2019
+- Text: ocr (2 pages), mean OCR confidence 89.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (EXTC) Year: Il Semester : V
+Academic Year: 2018-19
+
+Marks: 70
+Time: 2.00 pm to 5.00 pm
+
+Subject: Discrete Time Signal Processing
+
+Date: 19 January 2019
+Durations: 3 (hrs)
+
+No. of Pages:_ @Z
+Re-examination (2017-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Ql. a Attempt any TWO. : 14
+i). Explain Mapping of points from s-plane to z~plane when BLT Method is used for filter design. 35
+ii). For DFT pair shown below, compute the values of the boxed 3
+quantities.
+pin] = {0, 3, -4,0,2} P[k] ={5, 0, —1.28-j4.39 , O, 8.78-j1.4 }
+iii). Compare FIR & IIR Filter 3.5
+b Perform linear convolution using overlap add method for following two input sequences 7
+x(n) = {1,2,3,4,5,6,7} and h(n)= {1,0,2}
+t
+Q2. 14
+8
+
+a. Given that
+x(n) = { 1+ 2j , 2+6j , 3+7j , 7+8))
+
+i) Find X (KR).
+
+ii) If r(n)={1,2,3,7} and y(n) = {2,6,7,8} , then find R(K) and Y(K) using result of X(K).
+Determine whether the following systems are of Minimum Phase, Maximum Phase or Mixed 6
+Phase type.
+
+2 i) Hi(z) =z +2z-8
+ii) Hp(2)=32? +42-5
+iii) Ha (z)= 6+z'-z?
+
+Page 1 of 2
+--- page 2 ---
+Q3.
+
+Q4.
+
+Q5.
+
+Q6.
+
+Q7.
+
+14
+Given x (n) = {0 123 45 6 7}, find 8-point DFT X (k) using DIT-FFT algorithm. 10
+Show all intermediate results.
+List and state the properties of all-pass filter. 4
+14
+
+Design a digital resonator with a peak gain of unity at f =50 Hz and a 3dB bandwidth of 6 Hz, 5
+assuming a sampling frequency of 300Hz.
+Design a high pass filter using Hamming window with a cut-off frequency of 1.2 rad and M=9. 9
+
+Design a high pass Butterworth filter for the given specifications, a, = 3dB, a, = 15dB, 9
+Q»y = 1000rad/s and =, = 500 rad/s. Use bilinear transformation to convert it into digital high
+pass filter.
+
+Compute order of Chebyshev analog filter with a maximum pass-band attenuation of 2.5dB at 5
+OQ» = 20rad/s and a maximum stop band attenuation of 30dB at 2. = 50rad/s.
+
+14
+Convert the following pole-zero IIR system into a lattice-ladder structure. 7
+1422714227423
+BG) =———“t 5 i
+lt+5gz t+ 527% +32%
+For H(z) =1+ 2271-27? +3273 432-4 -—z-5+42z- +277 draw the direct-form and 7
+linear-phase FIR implementation. Compare the implementations.
+
+: 14
+Write in detail about linear phase filter. List and explain its types. 7
+Discuss in detail about limit cycle oscillations in infinite impulse response digital filters with its 7
+
+types.
+
+Page 2 of 2
+````
+
 ## 2017-18 · Exam not stated · Sem 5 · paper 45e01f9e9410
 
 - Departments: Electronics and Telecommunication
@@ -3220,114 +3330,4 @@ h(z) = 1ndeede fide way? [7]
 4 8 8 2
 
 Page.2,
-````
-
-## 2017-18 · Re-Exam · Sem 5 · paper e50bc162559c
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/V SEMESTER/DISCRETE TIME SIGNAL PROCESSING/Discrete Time signal processing Re-exam 2017-2018-2019.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 January 2019
-- Text: ocr (2 pages), mean OCR confidence 89.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (EXTC) Year: Il Semester : V
-Academic Year: 2018-19
-
-Marks: 70
-Time: 2.00 pm to 5.00 pm
-
-Subject: Discrete Time Signal Processing
-
-Date: 19 January 2019
-Durations: 3 (hrs)
-
-No. of Pages:_ @Z
-Re-examination (2017-18/ 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Ql. a Attempt any TWO. : 14
-i). Explain Mapping of points from s-plane to z~plane when BLT Method is used for filter design. 35
-ii). For DFT pair shown below, compute the values of the boxed 3
-quantities.
-pin] = {0, 3, -4,0,2} P[k] ={5, 0, —1.28-j4.39 , O, 8.78-j1.4 }
-iii). Compare FIR & IIR Filter 3.5
-b Perform linear convolution using overlap add method for following two input sequences 7
-x(n) = {1,2,3,4,5,6,7} and h(n)= {1,0,2}
-t
-Q2. 14
-8
-
-a. Given that
-x(n) = { 1+ 2j , 2+6j , 3+7j , 7+8))
-
-i) Find X (KR).
-
-ii) If r(n)={1,2,3,7} and y(n) = {2,6,7,8} , then find R(K) and Y(K) using result of X(K).
-Determine whether the following systems are of Minimum Phase, Maximum Phase or Mixed 6
-Phase type.
-
-2 i) Hi(z) =z +2z-8
-ii) Hp(2)=32? +42-5
-iii) Ha (z)= 6+z'-z?
-
-Page 1 of 2
---- page 2 ---
-Q3.
-
-Q4.
-
-Q5.
-
-Q6.
-
-Q7.
-
-14
-Given x (n) = {0 123 45 6 7}, find 8-point DFT X (k) using DIT-FFT algorithm. 10
-Show all intermediate results.
-List and state the properties of all-pass filter. 4
-14
-
-Design a digital resonator with a peak gain of unity at f =50 Hz and a 3dB bandwidth of 6 Hz, 5
-assuming a sampling frequency of 300Hz.
-Design a high pass filter using Hamming window with a cut-off frequency of 1.2 rad and M=9. 9
-
-Design a high pass Butterworth filter for the given specifications, a, = 3dB, a, = 15dB, 9
-Q»y = 1000rad/s and =, = 500 rad/s. Use bilinear transformation to convert it into digital high
-pass filter.
-
-Compute order of Chebyshev analog filter with a maximum pass-band attenuation of 2.5dB at 5
-OQ» = 20rad/s and a maximum stop band attenuation of 30dB at 2. = 50rad/s.
-
-14
-Convert the following pole-zero IIR system into a lattice-ladder structure. 7
-1422714227423
-BG) =———“t 5 i
-lt+5gz t+ 527% +32%
-For H(z) =1+ 2271-27? +3273 432-4 -—z-5+42z- +277 draw the direct-form and 7
-linear-phase FIR implementation. Compare the implementations.
-
-: 14
-Write in detail about linear phase filter. List and explain its types. 7
-Discuss in detail about limit cycle oscillations in infinite impulse response digital filters with its 7
-
-types.
-
-Page 2 of 2
 ````

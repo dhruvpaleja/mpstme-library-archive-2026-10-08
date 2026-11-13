@@ -429,6 +429,101 @@ x
 0 alo 2)
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 159189aa8229
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/MECHATRONICS AND CONTROLS (MECHANICAL), BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 04 December 2017
+- Text: ocr (2 pages), mean OCR confidence 86.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) Year: III | Semester: V
+
+Batch: 2016-17
+; Academic Year: 2017-2018 Nia OF ag
+
+Subject: Mechatronics and Controls ‘at
+: Marks: 60, ig
+
+Time: 2.00\pm to 5.00 pm_j,
+
+Durationsa3-(hrs) san y
+No. of ,
+Re-Examination —
+
+Date: 04 December 2017
+
+Instruction : Candidates should read carefully the instruction printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+NB: ;
+1 !) Question No. 1. is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all, 5 questions need to be attempted.
+4) Answer to each new question to be started on a Jresh page.
+J) Figures in the brackets on the right hand side indicate full marks.
+6) Assume suitable data if necessary.
+
+Q.1 Solve any three of the following:- : (3x4=12)
+
+i. Define Mechatronics. Name 6 applications.
+
+il. Give the differences between stepper motor and servo motor,
+
+iii. Describe the structure and features of PLC system.
+
+iv. Find the Trarisfer function of the block diagram given below:-
+
+G
+X(s) + Ye ¥(s)
+
+— —— * K | G, G; >
+2 H
+
+hf
+--- page 2 ---
+Q.2 Answer the following questions:-
+’ i, Discuss on standard Inputs in Control System. (06)
+ii.Differences between P, PI, PD and PID controller. (06)
+
+a
+
+3 Answer the following questions:- ;
+i. Explain Mason’s Gain Formula for Signal Flow Graphs. (06)
+ii. Explain open loop control system taking example of Electronic Fan switch. (06)
+
+Q.4 Answer the following questions:-
+i. Find the number of roots in polynomial by Hurwitz criteria method. (06)
+s' +2s° +3s" + 4s +5 =0
+ii. Give advantages and disadvantages of Meter-in and Meter-out flow circuit with
+diagram. : (06)
+
+Q.5 Answer the following questions :-
+
+i. Define Sensor. What is the criteria for choosing a sensor ? (08)
+Classify Sensors . Give Applications in short.
+
+ii. What is a proximity sensor ? Give examples. (04)
+
+Q.6 Write short notes (any three) :- (3x4=12)
+
+i. Induction Motor
+
+ii. Radial Piston Pump
+
+iii. Air supply system in pneumatic system
+
+iv pilot operated pressure relief valve in hydraulic circuits
+Q.7 Answer the following questions:-
+
+i. What are the types of temperature sensors. Explain principle of Thermocouple. (06)
+ii. Write short note on Nyquist plots. (06)
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper b22e71e63999
 
 - Departments: Mechanical
@@ -508,6 +603,95 @@ Routh’s criterion calculate the range of value of K for the system to be stabl
 Gus) = ScapaSACS1O)
 
 gd
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 6b28f0d1a6b1
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Mechatronics and controls/Mechatronics & controls 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 May 2018
+- Text: ocr (3 pages), mean OCR confidence 94.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (MECHANICAL) Year: III Semester: VI
+
+Academic Year: 2017-2018
+
+Subject:Mechatronics and Controls
+Marks:60
+Date:10 May 2018 - Time: 10.00 am to 1.00 pm -
+Durations: 3 (hrs)
+No. of Pages : as
+Re-examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate’ full marks.
+
+7) Assume Suitable data if necessary.
+
+Q.No. 1. Solve any Three of the following:- 4x3=12
+i. What is Mechatronics? Give its applications.
+ii. Explain the Key Elements of Mechatronic system with diagram.
+iii. Write short notes on : Stepper Motor and its types.
+iv. Explain Pressure Relief Valve with diagram.
+12x1=12
+
+Q.No. 2. Solve the following:-
+
+Using pneumatic Cascade Method, Draw Pneumatic Circuit for the sequence as below:
+
+(AB) + A- B- C+C-
+Where A,B and C are pneumatic double acting cylinders. Also include Emergency Circuit.
+
+Q.No. 3. Solve the following:- 6x2=12
+
+is What are the applications of Hydraulic circuit ? Draw a hydraulic Circuit for control of single acting
+spring return cylinder using 3/2 DCV.
+il. Write Short note on Bode Plot.
+
+[3
+--- page 2 ---
+Q.No. 4. Solve the following:- 6x2=12
+
+i. Find the overall transfer function of the given system using block reduction algebra.
+
+ii. Draw PLC ladder diagram for the below application:
+
+Switching on/off the Lamp whether they are at the bottom or the top of the staircase.
+
+Q.No. 5 Solve the following:- 6x2=12
+
+i. Give the differences between Open loop and Closed Loop control system.
+
+ii. Define Sensors. What is the criteria to choose a sensor? Give classification of sensors.
+
+b
+--- page 3 ---
+Q.No. 6 Solve the following:- 6x2=12
+
+i. Explain Unit Step Input, Ramp Input and Parabolic Input in Control Systems.
+ii. Write short note on System Stability. What is the procedure to plot Root Locus?
+Q.No. 7 Write short notes on ANY THREE of the following:- 4x3=12
+i. Types of Hydraulic pumps.
+ii. Analog vs Digital Sensors.
+iii. Advantages of Electropneumatics circuit over Pneumatic Circuits.
+iv. Effect of Feedback in Control systems.
+Vv." FRL Unit in Pneumatic systems.
 ````
 
 ## 2017-18 · Re-Exam · Sem 6 · paper e89802380eb4
@@ -896,99 +1080,108 @@ G(s)H(s) ~ S(s+3)(s+5) (K > 0)
 b) Aunity feedback control system has G(s) =40. Draw Bode Plot. 04
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 159189aa8229
+## 2016-17 · Re-Exam · Sem 5 · paper 932b4af1d5ea
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/MECHATRONICS AND CONTROLS (MECHANICAL), BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 04 December 2017
-- Text: ocr (2 pages), mean OCR confidence 86.9
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/MECHATRONICS AND CONTROLS B TECH (MECHANICAL), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 06 December 2016
+- Text: ocr (3 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’s NMIMS
+\ SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (MECHANICAL) Year: III | Semester: V
+Programme : B. Tech (MECHANICAL) Year : III Semester: V
+Batch : 2015-2016 —
 
-Batch: 2016-17
-; Academic Year: 2017-2018 Nia OF ag
+Academic Year : 2016-2017
+| Subject : Mechatronics and Controls
+Date : 06 December 2016
 
-Subject: Mechatronics and Controls ‘at
-: Marks: 60, ig
+Re-Examination
 
-Time: 2.00\pm to 5.00 pm_j,
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
 
-Durationsa3-(hrs) san y
-No. of ,
-Re-Examination —
+NB:
 
-Date: 04 December 2017
+1) Question No. 1 is compulsory.
 
-Instruction : Candidates should read carefully the instruction printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-NB: ;
-1 !) Question No. 1. is compulsory.
 2) Out of remaining questions, attempt any 4 questions.
-3) In all, 5 questions need to be attempted.
-4) Answer to each new question to be started on a Jresh page.
-J) Figures in the brackets on the right hand side indicate full marks.
-6) Assume suitable data if necessary.
 
-Q.1 Solve any three of the following:- : (3x4=12)
+3) inail 5 questions to be attempted.
 
-i. Define Mechatronics. Name 6 applications.
+4) All questions carry equal marks.
 
-il. Give the differences between stepper motor and servo motor,
+5) Answer to each new question to be started on a fresh page.
 
-iii. Describe the structure and features of PLC system.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
 
-iv. Find the Trarisfer function of the block diagram given below:-
+QNo. I Solve any three of the following 4X3=12
 
-G
-X(s) + Ye ¥(s)
+aL Define Mechatronics. Explain its importance in the context of the modern automation system.
+ii, Explain construction and working of pneumatic proximity sensors.
+iii. | Compare giving example the open and closed loop control system.
+iv. Make a detailed comparison of Electrical, mechanical, pneumatic and hydraulic transmission systems.
 
-— —— * K | G, G; >
-2 H
+Q No. 2 Solve the following 12 Marks
 
-hf
+Two cylinders are used to transfer parts from a magazine onto a chute (Refer given figure). When a _ push button
+is pressed, the first cylinder extends. Pushing the part from the magazine and positions it in preparation for
+transfer by the second cylinder onto the out feed chute. Once the part is transferred, the first cylinder retracts,
+followed by the second. Confirmation of all extended and retracted positions are required. For the stated condition
+draw a pneumatic circuit.
 --- page 2 ---
-Q.2 Answer the following questions:-
-’ i, Discuss on standard Inputs in Control System. (06)
-ii.Differences between P, PI, PD and PID controller. (06)
+Q No. 3 Solve the following 6X2=12
 
-a
+i. Write a note on Spindle drives and Fees drives used in CNC machines.
+ii. Draw the block diagram showing PLC system components and explain them briefly.
 
-3 Answer the following questions:- ;
-i. Explain Mason’s Gain Formula for Signal Flow Graphs. (06)
-ii. Explain open loop control system taking example of Electronic Fan switch. (06)
+QNo. 4 Solve the following
+8 Marks
 
-Q.4 Answer the following questions:-
-i. Find the number of roots in polynomial by Hurwitz criteria method. (06)
-s' +2s° +3s" + 4s +5 =0
-ii. Give advantages and disadvantages of Meter-in and Meter-out flow circuit with
-diagram. : (06)
+i. Find the overall transfer function of the given system using block reduction algebra.
 
-Q.5 Answer the following questions :-
++
 
-i. Define Sensor. What is the criteria for choosing a sensor ? (08)
-Classify Sensors . Give Applications in short.
+G4) ee &) OT gy) Le &) 9) Gy) Sl
 
-ii. What is a proximity sensor ? Give examples. (04)
+VAs Vs
+19) | ays) be OO ays
 
-Q.6 Write short notes (any three) :- (3x4=12)
+Ris) + HG)
 
-i. Induction Motor
+Vols)
 
-ii. Radial Piston Pump
+Ay)
 
-iii. Air supply system in pneumatic system
+ii. Explain with neat diagram the construction and working of absolute optical encoders 4 Marks
 
-iv pilot operated pressure relief valve in hydraulic circuits
-Q.7 Answer the following questions:-
+QNo. 5 Solve the following 6X2=12
 
-i. What are the types of temperature sensors. Explain principle of Thermocouple. (06)
-ii. Write short note on Nyquist plots. (06)
+i: Double acting cylinder is used to perform machining operation. Pneumatic cylinder is advanced by pressing two
+push buttons simultaneously. If any one of the push button is released, cylinder comes back to start’ position.
+Draw the pneumatic circuit, PLC wiring diagram and ladder diagram to implement this task.
+
+ii. | With suitable diagrams explain PLC Timers and PLC Counters.
+
+QNo. 6 Solve the following 12 Marks
+
+Sketch the root loci for the system shown in Figure below. (The gain K is assumed to be positive.) Observe that
+for small or large values of K the system is overdamped and for medium values of K it is underdamped.
+
+Ris) $+3 cis)
+Xs +2) Weel) =
+--- page 3 ---
+Q No. 7 Solve any three of the following 4X3=12
+
+i. Classification of end effectors used in Industrial Robots
+ii. Automated Guided Vehicles
+iii. Difference between hydraulic pump and hydraulic motor
+iv. Stepper Motor
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper 9edceed15ac7
@@ -1120,93 +1313,278 @@ fully automatic operation of the cylinder.
 S/3
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper 6b28f0d1a6b1
+## 2016-17 · Re-Exam · Sem 5 · paper 38a44921817d
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Mechatronics and controls/Mechatronics & controls 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 May 2018
-- Text: ocr (3 pages), mean OCR confidence 94.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/Mechatronics and Controls Batch 2014-15 Re Exam_38a4492181.pdf`
+- Printed on paper: max marks: 60; exam date: 23 November 2016
+- Text: ocr (2 pages), mean OCR confidence 90.0
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (MECHANICAL) Year: III Semester: VI
+Programme : MBA. Tech (Mechanical} Year : Hl
 
-Academic Year: 2017-2018
+Semester : V
+Batch : 2014-15
 
-Subject:Mechatronics and Controls
-Marks:60
-Date:10 May 2018 - Time: 10.00 am to 1.00 pm -
-Durations: 3 (hrs)
-No. of Pages : as
-Re-examination (2016-17)
+Academic Year : 2016-2017
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. 01 is compulsory.
+| . fo sero —
+Subject : Mechatronics and Controis Marks: 60
 
-2) Out of remaining questions, attempt any 4 questions.
+Time: 2. in 5.00
+Date : 23 November 2016 Duration : ) PST =) “
+BRA i ¥ F
+Re-Examination wb,
+Re
 
-3) In all 5 questions to be attempted.
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+.2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate’ full marks.
+6) Figures in brackets on the right hand side indicate full marks.
 
-7) Assume Suitable data if necessary.
+7) Assume suitable data, if required.
 
-Q.No. 1. Solve any Three of the following:- 4x3=12
-i. What is Mechatronics? Give its applications.
-ii. Explain the Key Elements of Mechatronic system with diagram.
-iii. Write short notes on : Stepper Motor and its types.
-iv. Explain Pressure Relief Valve with diagram.
-12x1=12
+Q.1 a) Explain Closed loop system in detail. [03 Marks]
+b) Explain Mechatronics system with respect to CNC machine and its component.
+[06 Marks}
+c) Explain ON/OFF controller in detail . [03 Marks]
+Q.2 a) Differentiate between sensors and actuators with example. {04 Marks]
+b) What is a PLC? Explain the elements o fa PLC with block diagram. [06 Marks}
+c) Draw Ladder diagram for NOR Logic . [02 Marks]
+Q.3 a) State different tules for constructing root locus. [04 Marks]
+b) Draw magnitude Bode plot of the open loop transfer function
+10
+G(s) = —————_~
+(s) S (S+1)(S+10)
+Also find @ge . {08 Marks]
+Q.4 a) Explain mathematical model of Mechanical and Electrical System. [06 Marks]
+b) Define Transfer Function and Order of system . Also Explain Block Diagram Reduction
+Rules, [06 Marks]
 
-Q.No. 2. Solve the following:-
-
-Using pneumatic Cascade Method, Draw Pneumatic Circuit for the sequence as below:
-
-(AB) + A- B- C+C-
-Where A,B and C are pneumatic double acting cylinders. Also include Emergency Circuit.
-
-Q.No. 3. Solve the following:- 6x2=12
-
-is What are the applications of Hydraulic circuit ? Draw a hydraulic Circuit for control of single acting
-spring return cylinder using 3/2 DCV.
-il. Write Short note on Bode Plot.
-
-[3
+Ap
 --- page 2 ---
-Q.No. 4. Solve the following:- 6x2=12
+Q. 5 8) Explain feed forward control system with block diagram and application. [06 Marks]
+“b) Define drives . Explain spindle and feed drives in detail . [06 Marks]
 
-i. Find the overall transfer function of the given system using block reduction algebra.
+Q.6‘a) Explain i) Gauging ii) Tool Monitoring System. [06 Marks]
+b) A unity feedback system is given as
 
-ii. Draw PLC ladder diagram for the below application:
+205 +3)
+GS) = %H1jVS46)
 
-Switching on/off the Lamp whether they are at the bottom or the top of the staircase.
+Find i) Type of the system
+ii) Error Constants
 
-Q.No. 5 Solve the following:- 6x2=12
+iii) Steady State Error when subjected to a step of magnitude 2. [06 Marks}
+Q.7 Explain the following [Any THREE]. [12 Marks]
 
-i. Give the differences between Open loop and Closed Loop control system.
+a) Components of Robotics System
 
-ii. Define Sensors. What is the criteria to choose a sensor? Give classification of sensors.
+b) CNC Lubrication
 
-b
---- page 3 ---
-Q.No. 6 Solve the following:- 6x2=12
+c) Automated Guided Vehicle (AGV)
+d) Servo motor
+````
 
-i. Explain Unit Step Input, Ramp Input and Parabolic Input in Control Systems.
-ii. Write short note on System Stability. What is the procedure to plot Root Locus?
-Q.No. 7 Write short notes on ANY THREE of the following:- 4x3=12
-i. Types of Hydraulic pumps.
-ii. Analog vs Digital Sensors.
-iii. Advantages of Electropneumatics circuit over Pneumatic Circuits.
-iv. Effect of Feedback in Control systems.
-Vv." FRL Unit in Pneumatic systems.
+## 2016-17 · Re-Exam · Sem 5 · paper 9c51c120d3e4
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/Mechatronics and control 2014-15 Re-exam.pdf`
+- Printed on paper: exam date: 26 May 2017
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Mechanical) ~ Year: IT Semester: V
+
+Batch: 2014-2015 ~
+Academic Year: 2016-2017
+
+Subject: Mechatronics and Controls ~ er "a Aan
+
+Mark ge.
+Date: 26 May 2017 ~ Times}
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data, if required.
+
+Q.1 a) Explain Open loop system in detail. [03 Marks]
+b) Explain Mechatronics system with respect to CNC machine and its component.
+[06 Marks]
+c) Explain PID controller in detail . : {03 Marks]
+Q.2 a) Define Actuator . Write a short note on Hydraulic Actuator. [04 Marks]
+b) What is a PLC? Explain the elements o fa PLC with block diagram. [06 Marks]
+c) Draw Ladder diagram for NAND Logic . [02 Marks]
+Q.3 a) Explain mathematical model of Mechanical and Electrical System. [04 Marks]
+b) Draw magnitude Bode plot of the open loop transfer function
+100
+G(s) = Sap acenw)
+S (S+0.5)(S+10)
+Also find Mgc . [08 Marks]
+
+Page 1 of 2
+--- page 2 ---
+Q.4 a) Draw root locus for the system.
+
+K
+G(s)H(s) =
+(S)H(S) = SGrasre
+[09 Marks]
+b) Define Transfer Function , Type and Order of system with exapmle. [03 Marks]
+
+Q.5 a) Compare according to characteristics of Hydraulics and Pneumatics. Also mention their
+
+advantages and disadvantages. [06 Marks]
+b) Define drives . Explain spindle and feed drives in detail . [06 Marks]
+
+Q.6 a) For the system shown below find overall transfer function of system using block diagram
+reduction technique. [06 Marks]
+
+Cts)
+
+b) A unity feedback system is given as
+
+40(s + 2)
+s($+1)(S +4)
+
+G(s) =
+
+Find i) Type of the system
+ii) Error Constants
+iii) Steady State Error when subjected to a ramp of magnitude 4. [06 Marks]
+
+Q.7 Explain the following [Any THREE]. [12 Marks]
+a) Components of Robotics System
+b) Tool monitoring system
+c) Automated Guided Vehicle (AGV)
+d) Feed forward control system
+
+Page 2 of 2
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper 75f700dd4e0a
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Mechatronics and controls/Mechatronics and control 2015-16 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
+- Text: ocr (2 pages), mean OCR confidence 80.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+a “
+Programme: MBA Tech (Mechanical) ~ Year: III Semester: VI
+Batch: 2015-2016 ey \
+Academic Year: 2016-2017 tou 2
+Subject: Mechatronics and Controls _ 5 wee “ps
+Marks: 60 _ A *
+at
+
+Date: 11 May 2017, Time: 2.00 pnt
+Durations: 3 (hrs) -
+No. of Pages: 2-
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. In all 5 questions to attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) 12
+a) Write short notes on Pneumatic Actuators circuit with example 06
+b) Describe briefly about measuring systems and its types 06
+Q.2) 12
+a) Explain briefly about basic requirements of a sensor/transducer 6
+
+b) Explain briefly about Photoelectric Sensors with neat Sketch 6
+
+Q.3) 12,
+
+a) With a neat Sketch, describe briefly about double acting cylinder with 5/2 direct 8)
+control Valve :
+
+b) Explain briefly about Advantages and disadvantages of Hydraulic Actuators 4
+Q.4) 12
+a) Explain briefly about Stepper motor working principle with sketch 7
+b) Describe briefly about Solenoid valve with sketch 5
+Q.5) 12
+a) What is PLC? Explain the PLC system with block diagram along with working 8
+principle
+b) Draw ladder diagram for XOR logic and Explain 4
+
+Ya
+--- page 2 ---
+Q.6)
+
+Q.7)
+a)
+
+b)
+
+Use block diagram reduction to simplify the block diagram below into a single
+
+block relating to R(s) to Y(s)
+
+“1 H3(5)}
+
+Rs} SE y : $3 po ostnsnsny   ¥48)
+em Gifs 5} ES ty GBs} b G4(s} Poon
++ i $2 ; PL i Necccnnscaned [22 Semen / pB
+
+Hae _—fa{6)-
+
+What is Root Locus? Explain briefly about the Procedure to plot Root locus with
+
+advantages
+Describe briefly about PID controllers in detail.
+
+2h
+
+12
 ````
 
 ## 2016-17 · Re-Exam · Sem 6 · paper 408120415728
@@ -1535,6 +1913,7 @@ ee em
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Mechatronics and controls/Mechatronics and controls Batch 2015-16 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 09/05/2016
 - Text: ocr (2 pages), mean OCR confidence 86.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1621,7 +2000,6 @@ QNo. 4 Solve the following
 
 i. Find the overall transfer function of the given system using block reduction algebra. 8 Marks
 ; 1. .
-Rfs) 4 MiG Vata) a Wits) Valxj + Ves) . Cy
 Rs WI Gis) b= tel Gy) 4 >) a] (s(x) la
 Va{s) AG)
 : HAs Hy{s}
@@ -1652,108 +2030,99 @@ iv. Automated Guided vehicles
 2/9
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 932b4af1d5ea
+## 2015-16 · Re-Exam · Sem 5 · paper fa4873a1ea5f
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/MECHATRONICS AND CONTROLS B TECH (MECHANICAL), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 06 December 2016
-- Text: ocr (3 pages), mean OCR confidence 90.3
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/MECHATRONICS AND CONTROLS B TECH (MECHANICAL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 05/12/2015
+- Text: ocr (2 pages), mean OCR confidence 87.7
 
 ````text
-\ SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (MECHANICAL) Year : III Semester: V
-Batch : 2015-2016 —
+Programme: B. Tech (Mechanical) Year: III Semester: V
 
-Academic Year : 2016-2017
-| Subject : Mechatronics and Controls
-Date : 06 December 2016
+Batch: 2014-2015 Co
+Academic Year: 2015-2016 LA. aggX TE 08 tag,
+. Lg ronnie
+Subject: Mechatronics & Controls ff £7 MPSTHA \% 4
+Marks: 6o ies LIB RA RY Ja
+Date: 05/12/2015 Time: 2.00 5.00pm _
+“ *
+
+Duration: 3 (hrs) * Mss aod,
+= 8
 
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
 
 NB:
+1. Question no. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+Ss Answer to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicate full marks.
+Ql. Attempt any four questions:-
+A | Explain the concept of timer and counter in PLC? 3
+B | Explain the guidelines for sensor selection? 3
+C | Explain P+I+D controller? 3
+D | Distinguish between open loop and close loop systems? 3
+E | Explain the concept of transfer function? 3
+Q2 | A | Design, draw and explain electro hydraulic circuit for the following sequence in a Hydraulic
+- system. 6
+A+ A- B+ B-, where A & B are hydraulic cylinders.
+B | Explain the mathematical models for mechanical and electrical systems? ix
+-E&
 
-1) Question No. 1 is compulsory.
+Q3 | A | Explain PLC architecture in detail with neat diagram? ;
+B | Obtain C(S) / R(S) using block diagram reduction rules?
 
-2) Out of remaining questions, attempt any 4 questions.
+[Gs |
+se , Lay 0) Gof 6
+>
 
-3) inail 5 questions to be attempted.
+fH
 
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-QNo. I Solve any three of the following 4X3=12
-
-aL Define Mechatronics. Explain its importance in the context of the modern automation system.
-ii, Explain construction and working of pneumatic proximity sensors.
-iii. | Compare giving example the open and closed loop control system.
-iv. Make a detailed comparison of Electrical, mechanical, pneumatic and hydraulic transmission systems.
-
-Q No. 2 Solve the following 12 Marks
-
-Two cylinders are used to transfer parts from a magazine onto a chute (Refer given figure). When a _ push button
-is pressed, the first cylinder extends. Pushing the part from the magazine and positions it in preparation for
-transfer by the second cylinder onto the out feed chute. Once the part is transferred, the first cylinder retracts,
-followed by the second. Confirmation of all extended and retracted positions are required. For the stated condition
-draw a pneumatic circuit.
+Hy |
 --- page 2 ---
-Q No. 3 Solve the following 6X2=12
+Q4 Explain the significance of Bode plots? 6
+Explain Automatic Guided Vehicle (AGV) in detail? 6
+Q5 Explain Tool monitoring system in detail? 6
+Explain Hydraulic systems with neat block diagram? 6
+Q6 Explain the different types of actuators in detail? 6
+Explain the concept of Root locus in detail? G
 
-i. Write a note on Spindle drives and Fees drives used in CNC machines.
-ii. Draw the block diagram showing PLC system components and explain them briefly.
+Q7
 
-QNo. 4 Solve the following
-8 Marks
+For the mechanical system shown, obtain the analogous electrical network based on F— V
+analogy?
 
-i. Find the overall transfer function of the given system using block reduction algebra.
+KI
 
-+
+od M| x
 
-Vols) + op Puls Vus)+ eohaisy |. Cs}
-G4) ee &) OT gy) Le &) 9) Gy) Sl
+a ke
 
-VAs Vs
-19) | ays) be OO ays
+Ko_ [ ey ee
+By 1 Xo)
 
-Ris) + HG)
+Ma | Loc
 
-Vols)
+A conveyor is supposed to have exactly 45 parts on it. You have three indicating lights to
+indicate the conveyor count status as, less than 45: yellow, exactly 45: green, and more than 45:
+red. The count of parts on the conveyor is set at 45 each morning by actual count of parts. There
+are two sensors on the conveyor, one is actuated by parts entering the conveyor, and the other is
+actuated by parts leaving. Design PLC ladder diagram.
 
-Ay)
+6
 
-ii. Explain with neat diagram the construction and working of absolute optical encoders 4 Marks
-
-QNo. 5 Solve the following 6X2=12
-
-i: Double acting cylinder is used to perform machining operation. Pneumatic cylinder is advanced by pressing two
-push buttons simultaneously. If any one of the push button is released, cylinder comes back to start’ position.
-Draw the pneumatic circuit, PLC wiring diagram and ladder diagram to implement this task.
-
-ii. | With suitable diagrams explain PLC Timers and PLC Counters.
-
-QNo. 6 Solve the following 12 Marks
-
-Sketch the root loci for the system shown in Figure below. (The gain K is assumed to be positive.) Observe that
-for small or large values of K the system is overdamped and for medium values of K it is underdamped.
-
-Ris) $+3 cis)
-Xs +2) Weel) =
---- page 3 ---
-Q No. 7 Solve any three of the following 4X3=12
-
-i. Classification of end effectors used in Industrial Robots
-ii. Automated Guided Vehicles
-iii. Difference between hydraulic pump and hydraulic motor
-iv. Stepper Motor
+2
+2
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper 28abdefd1b51
@@ -1829,6 +2198,82 @@ Q7 [A | Explain the concept of Robotics and Automated Guided Vehicle in detail, 
 yy
 --- page 2 ---
 “TB | Obtain C(S) / RCS) using block diagram reduction rules.
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 1c91ec2062b0
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/Mechatronics and Controls Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 26/11/2015
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (MECHANICAL) Year: II Semester: V?
+Academic Year: 2015 - 16
+
+Batch:2014-15
+
+Subject :Mechatronics and Controls
+
+Date : 26/11/2015
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+NB:
+
+1. Question no. 1 is compulsory.
+
+2s Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicate full marks.
+
+Ql. Attempt any four questions:-
+
+A | Draw and explain PLC ladder logic for AND, OR, NOR, NAND, EXOR? 3
+B | What is sensor and transducer, explain contact and non contact type of sensors? 3
+C | Explain P + I controller in detail? Z
+D | Explain close loop system with one industrial application? 3
+E | Explain block diagram reduction rules in detail? 3
+Q2 | A| Design, draw and explain electro pneumatic circuit for the following sequence in a Pneumatic
+system. ¢
+B+ B- A+ _A-, where A &B are pneumatic cylinders.
+B | Explain the mathematical models for electro mechanical and hydro mechanical systems? 6
+3 | A| A unity feedback contro! system has G(s) = 80/s(st+2) (s+20). Draw the bode plot. Comment on 6
+stability?
+B | Obtain C(S) / R(S) using block diagram reduction rules?
+(S) / R(S) using g TH]
+cD) = Cos
+rE.
+“} eee yb +
+6!
+
+; L & |
+
+4/2
+--- page 2 ---
+Q4 What is the necessity of PLC? Explain PLC architecture in detail with neat diagram?
+Explain the concept of Robotics in detail?
+
+Qs Explain Tool monitoring system in detail?
+Explain Pneumatic systems with neat block diagram?
+
+Q6 Explain Spool valves, Process Control Valve and Pressure control valve in detail?
+Explain the significance of Root locus in detail?
+
+Q7 Explain Spindle drive, Feed drive and CNC lubrication in detail?
+
+Design PLC ladder program for real time traffic control system?
 ````
 
 ## 2015-16 · Re-Exam · Sem 6 · paper 4d58ba2a669b
@@ -1922,95 +2367,6 @@ ol iii, Difference between Unbalanced and balanced vane pump
 iv. Stepper Motor
 
 alg
-````
-
-## 2015-16 · Re-Exam · Sem 6 · paper 75f700dd4e0a
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Mechatronics and controls/Mechatronics and control 2015-16 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
-- Text: ocr (2 pages), mean OCR confidence 80.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-a “
-Programme: MBA Tech (Mechanical) ~ Year: III Semester: VI
-Batch: 2015-2016 ey \
-Academic Year: 2016-2017 tou 2
-Subject: Mechatronics and Controls _ 5 wee “ps
-Marks: 60 _ A *
-at
-
-Date: 11 May 2017, Time: 2.00 pnt
-Durations: 3 (hrs) -
-No. of Pages: 2-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. In all 5 questions to attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) 12
-a) Write short notes on Pneumatic Actuators circuit with example 06
-b) Describe briefly about measuring systems and its types 06
-Q.2) 12
-a) Explain briefly about basic requirements of a sensor/transducer 6
-
-b) Explain briefly about Photoelectric Sensors with neat Sketch 6
-
-Q.3) 12,
-
-a) With a neat Sketch, describe briefly about double acting cylinder with 5/2 direct 8)
-control Valve :
-
-b) Explain briefly about Advantages and disadvantages of Hydraulic Actuators 4
-Q.4) 12
-a) Explain briefly about Stepper motor working principle with sketch 7
-b) Describe briefly about Solenoid valve with sketch 5
-Q.5) 12
-a) What is PLC? Explain the PLC system with block diagram along with working 8
-principle
-b) Draw ladder diagram for XOR logic and Explain 4
-
-Ya
---- page 2 ---
-Q.6)
-
-Q.7)
-a)
-
-b)
-
-Use block diagram reduction to simplify the block diagram below into a single
-
-block relating to R(s) to Y(s)
-
-“1 H3(5)}
-
-Rs} SE y : $3 po ostnsnsny   ¥48)
-em Gifs 5} ES ty GBs} b G4(s} Poon
-+ i $2 ; PL i Necccnnscaned [22 Semen / pB
-
-Hae _—fa{6)-
-
-What is Root Locus? Explain briefly about the Procedure to plot Root locus with
-
-advantages
-Describe briefly about PID controllers in detail.
-
-2h
-
-12
 ````
 
 ## 2014-15 · Final-Exam · Sem 5 · paper 8c222d1d3771
@@ -2283,362 +2639,6 @@ Q7) Write Short Notes: (any FOUR) {2
 —xK
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper fa4873a1ea5f
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/MECHATRONICS AND CONTROLS B TECH (MECHANICAL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 05/12/2015
-- Text: ocr (2 pages), mean OCR confidence 87.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Mechanical) Year: III Semester: V
-
-Batch: 2014-2015 Co
-Academic Year: 2015-2016 LA. aggX TE 08 tag,
-. Lg ronnie
-Subject: Mechatronics & Controls ff £7 MPSTHA \% 4
-Marks: 6o ies LIB RA RY Ja
-Date: 05/12/2015 Time: 2.00 5.00pm _
-“ *
-
-Duration: 3 (hrs) * Mss aod,
-= 8
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-NB:
-1. Question no. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-Ss Answer to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicate full marks.
-Ql. Attempt any four questions:-
-A | Explain the concept of timer and counter in PLC? 3
-B | Explain the guidelines for sensor selection? 3
-C | Explain P+I+D controller? 3
-D | Distinguish between open loop and close loop systems? 3
-E | Explain the concept of transfer function? 3
-Q2 | A | Design, draw and explain electro hydraulic circuit for the following sequence in a Hydraulic
-- system. 6
-A+ A- B+ B-, where A & B are hydraulic cylinders.
-B | Explain the mathematical models for mechanical and electrical systems? ix
--E&
-
-Q3 | A | Explain PLC architecture in detail with neat diagram? ;
-B | Obtain C(S) / R(S) using block diagram reduction rules?
-
-[Gs |
-se , Lay 0) Gof 6
->
-
-fH
-
-Hy |
---- page 2 ---
-Q4 Explain the significance of Bode plots? 6
-Explain Automatic Guided Vehicle (AGV) in detail? 6
-Q5 Explain Tool monitoring system in detail? 6
-Explain Hydraulic systems with neat block diagram? 6
-Q6 Explain the different types of actuators in detail? 6
-Explain the concept of Root locus in detail? G
-
-Q7
-
-For the mechanical system shown, obtain the analogous electrical network based on F— V
-analogy?
-
-KI
-
-od M| x
-
-a ke
-
-Ko_ [ ey ee
-By 1 Xo)
-
-Ma | Loc
-
-A conveyor is supposed to have exactly 45 parts on it. You have three indicating lights to
-indicate the conveyor count status as, less than 45: yellow, exactly 45: green, and more than 45:
-red. The count of parts on the conveyor is set at 45 each morning by actual count of parts. There
-are two sensors on the conveyor, one is actuated by parts entering the conveyor, and the other is
-actuated by parts leaving. Design PLC ladder diagram.
-
-6
-
-2
-2
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 1c91ec2062b0
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/Mechatronics and Controls Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 26/11/2015
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (MECHANICAL) Year: II Semester: V?
-Academic Year: 2015 - 16
-
-Batch:2014-15
-
-Subject :Mechatronics and Controls
-
-Date : 26/11/2015
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-NB:
-
-1. Question no. 1 is compulsory.
-
-2s Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicate full marks.
-
-Ql. Attempt any four questions:-
-
-A | Draw and explain PLC ladder logic for AND, OR, NOR, NAND, EXOR? 3
-B | What is sensor and transducer, explain contact and non contact type of sensors? 3
-C | Explain P + I controller in detail? Z
-D | Explain close loop system with one industrial application? 3
-E | Explain block diagram reduction rules in detail? 3
-Q2 | A| Design, draw and explain electro pneumatic circuit for the following sequence in a Pneumatic
-system. ¢
-B+ B- A+ _A-, where A &B are pneumatic cylinders.
-B | Explain the mathematical models for electro mechanical and hydro mechanical systems? 6
-3 | A| A unity feedback contro! system has G(s) = 80/s(st+2) (s+20). Draw the bode plot. Comment on 6
-stability?
-B | Obtain C(S) / R(S) using block diagram reduction rules?
-(S) / R(S) using g TH]
-cD) = Cos
-rE.
-“} eee yb +
-6!
-
-; L & |
-
-4/2
---- page 2 ---
-Q4 What is the necessity of PLC? Explain PLC architecture in detail with neat diagram?
-Explain the concept of Robotics in detail?
-
-Qs Explain Tool monitoring system in detail?
-Explain Pneumatic systems with neat block diagram?
-
-Q6 Explain Spool valves, Process Control Valve and Pressure control valve in detail?
-Explain the significance of Root locus in detail?
-
-Q7 Explain Spindle drive, Feed drive and CNC lubrication in detail?
-
-Design PLC ladder program for real time traffic control system?
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 38a44921817d
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/Mechatronics and Controls Batch 2014-15 Re Exam_38a4492181.pdf`
-- Printed on paper: max marks: 60; exam date: 23 November 2016
-- Text: ocr (2 pages), mean OCR confidence 90.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : MBA. Tech (Mechanical} Year : Hl
-
-Semester : V
-Batch : 2014-15
-
-Academic Year : 2016-2017
-
-| . fo sero —
-Subject : Mechatronics and Controis Marks: 60
-
-Time: 2. in 5.00
-Date : 23 November 2016 Duration : ) PST =) “
-BRA i ¥ F
-Re-Examination wb,
-Re
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-.2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data, if required.
-
-Q.1 a) Explain Closed loop system in detail. [03 Marks]
-b) Explain Mechatronics system with respect to CNC machine and its component.
-[06 Marks}
-c) Explain ON/OFF controller in detail . [03 Marks]
-Q.2 a) Differentiate between sensors and actuators with example. {04 Marks]
-b) What is a PLC? Explain the elements o fa PLC with block diagram. [06 Marks}
-c) Draw Ladder diagram for NOR Logic . [02 Marks]
-Q.3 a) State different tules for constructing root locus. [04 Marks]
-b) Draw magnitude Bode plot of the open loop transfer function
-10
-G(s) = —————_~
-(s) S (S+1)(S+10)
-Also find @ge . {08 Marks]
-Q.4 a) Explain mathematical model of Mechanical and Electrical System. [06 Marks]
-b) Define Transfer Function and Order of system . Also Explain Block Diagram Reduction
-Rules, [06 Marks]
-
-Ap
---- page 2 ---
-Q. 5 8) Explain feed forward control system with block diagram and application. [06 Marks]
-“b) Define drives . Explain spindle and feed drives in detail . [06 Marks]
-
-Q.6‘a) Explain i) Gauging ii) Tool Monitoring System. [06 Marks]
-b) A unity feedback system is given as
-
-205 +3)
-GS) = %H1jVS46)
-
-Find i) Type of the system
-ii) Error Constants
-
-iii) Steady State Error when subjected to a step of magnitude 2. [06 Marks}
-Q.7 Explain the following [Any THREE]. [12 Marks]
-
-a) Components of Robotics System
-
-b) CNC Lubrication
-
-c) Automated Guided Vehicle (AGV)
-d) Servo motor
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 9c51c120d3e4
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/Mechatronics and control 2014-15 Re-exam.pdf`
-- Printed on paper: exam date: 26 May 2017
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Mechanical) ~ Year: IT Semester: V
-
-Batch: 2014-2015 ~
-Academic Year: 2016-2017
-
-Subject: Mechatronics and Controls ~ er "a Aan
-
-Mark ge.
-Date: 26 May 2017 ~ Times}
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data, if required.
-
-Q.1 a) Explain Open loop system in detail. [03 Marks]
-b) Explain Mechatronics system with respect to CNC machine and its component.
-[06 Marks]
-c) Explain PID controller in detail . : {03 Marks]
-Q.2 a) Define Actuator . Write a short note on Hydraulic Actuator. [04 Marks]
-b) What is a PLC? Explain the elements o fa PLC with block diagram. [06 Marks]
-c) Draw Ladder diagram for NAND Logic . [02 Marks]
-Q.3 a) Explain mathematical model of Mechanical and Electrical System. [04 Marks]
-b) Draw magnitude Bode plot of the open loop transfer function
-100
-G(s) = Sap acenw)
-S (S+0.5)(S+10)
-Also find Mgc . [08 Marks]
-
-Page 1 of 2
---- page 2 ---
-Q.4 a) Draw root locus for the system.
-
-K
-G(s)H(s) =
-(S)H(S) = SGrasre
-[09 Marks]
-b) Define Transfer Function , Type and Order of system with exapmle. [03 Marks]
-
-Q.5 a) Compare according to characteristics of Hydraulics and Pneumatics. Also mention their
-
-advantages and disadvantages. [06 Marks]
-b) Define drives . Explain spindle and feed drives in detail . [06 Marks]
-
-Q.6 a) For the system shown below find overall transfer function of system using block diagram
-reduction technique. [06 Marks]
-
-Cts)
-
-b) A unity feedback system is given as
-
-40(s + 2)
-s($+1)(S +4)
-
-G(s) =
-
-Find i) Type of the system
-ii) Error Constants
-iii) Steady State Error when subjected to a ramp of magnitude 4. [06 Marks]
-
-Q.7 Explain the following [Any THREE]. [12 Marks]
-a) Components of Robotics System
-b) Tool monitoring system
-c) Automated Guided Vehicle (AGV)
-d) Feed forward control system
-
-Page 2 of 2
-````
-
 ## 2013-14 · Final-Exam · Sem 5 · paper e8d9d44825a4
 
 - Departments: Mechanical
@@ -2796,6 +2796,90 @@ Q7) Explain the following with neat sketch (any four) (20-Marks)
 3) 3
 ````
 
+## 2013-14 · Final-Exam · Sem 5 · paper 60f0e159a4dc
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/Mechatronics and control 20131-14 Final.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/12/2013
+- Text: ocr (2 pages), mean OCR confidence 91.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (MECH) Year: III
+
+Academic Year: 2013-2014 \\
+
+Subject : Mechatronics and Controls SS .
+Marks:100~——_—_—"*"
+Date :02/12/2013 Time : 10.00 am to 1.00 pm
+Duration. :3 (hrs)
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicate full marks
+
+Q.1 Attempt any Four [20]
+a. Define Actuators? Write a short note on Hydraulic Actuators?
+b. Explain components of Pneumatic system?
+c. Explain close loop system in detail?
+d. Draw ladder diagram for XOR logic and explain each step?
+e. Explain block diagram reduction rules with example?
+f . Explain PID controller in detail?
+
+Q.2 (a) Explain optical sensor with their principle of operation. Also explain its types and applications
+[10]
+
+(b) Define Drives? Explain Spindle and Feed drives in detail?
+[10]
+
+Q.3 (a) Write differential equation governing the behaviour of the mechanical system shown.Also obtain
+an analogous electrical circuit? [10]
+
+(b) Explain the concept of transfer function. Find the transfer function for following circuit? [10]
+
+Fig CAlex} Page)
+
+jo
+--- page 2 ---
+(b)Explain Automated guided vehicle in detail?
+
+[10]
+
+Q.5 (a) For the system shown in fig. find the overall transfer function of system using block diagram
+reduction? [10]
+< G)
+
+ee meee
+
+(b)For unity feedback system having open loop transfer function G(s) = K(s+2) / s(s° + 7s? + 12s).
+
+Find i) Type of system ii) error coefficients iii) steady state error when input to the system is (R/2)
+t(square) [10]
+Q.6 (a) Explain the significance of root locus with example in detail? [10]
+(b) Explain the significance of bode plot with example in detail? [10]
+Q.7 (a) Explain CNC lubrication in detail? [10]
+(b) Explain feedback control system with block diagram and application [10]
+
+——s
+
+2) 2.
+````
+
 ## 2013-14 · Re-Exam · Sem 5 · paper 50fadad0fdbf
 
 - Departments: Mechanical
@@ -2884,88 +2968,4 @@ Q.7 Write a short note on
 eT SK
 
 e/a.
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper 60f0e159a4dc
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/MECHATRONICS AND CONTROLS/Mechatronics and control 20131-14 Final.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02/12/2013
-- Text: ocr (2 pages), mean OCR confidence 91.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (MECH) Year: III
-
-Academic Year: 2013-2014 \\
-
-Subject : Mechatronics and Controls SS .
-Marks:100~——_—_—"*"
-Date :02/12/2013 Time : 10.00 am to 1.00 pm
-Duration. :3 (hrs)
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use.
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicate full marks
-
-Q.1 Attempt any Four [20]
-a. Define Actuators? Write a short note on Hydraulic Actuators?
-b. Explain components of Pneumatic system?
-c. Explain close loop system in detail?
-d. Draw ladder diagram for XOR logic and explain each step?
-e. Explain block diagram reduction rules with example?
-f . Explain PID controller in detail?
-
-Q.2 (a) Explain optical sensor with their principle of operation. Also explain its types and applications
-[10]
-
-(b) Define Drives? Explain Spindle and Feed drives in detail?
-[10]
-
-Q.3 (a) Write differential equation governing the behaviour of the mechanical system shown.Also obtain
-an analogous electrical circuit? [10]
-
-(b) Explain the concept of transfer function. Find the transfer function for following circuit? [10]
-
-Fig CAlex} Page)
-
-jo
---- page 2 ---
-(b)Explain Automated guided vehicle in detail?
-
-[10]
-
-Q.5 (a) For the system shown in fig. find the overall transfer function of system using block diagram
-reduction? [10]
-< G)
-
-ee meee
-
-(b)For unity feedback system having open loop transfer function G(s) = K(s+2) / s(s° + 7s? + 12s).
-
-Find i) Type of system ii) error coefficients iii) steady state error when input to the system is (R/2)
-t(square) [10]
-Q.6 (a) Explain the significance of root locus with example in detail? [10]
-(b) Explain the significance of bode plot with example in detail? [10]
-Q.7 (a) Explain CNC lubrication in detail? [10]
-(b) Explain feedback control system with block diagram and application [10]
-
-——s
-
-2) 2.
 ````

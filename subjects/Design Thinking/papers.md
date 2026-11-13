@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/DATA SCIENCE/SEM-VII/DESIGN THINKING/Design Thinking, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 November 2022
 - Text: ocr (2 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a4 \ SVKM’s NMIMS
@@ -61,7 +62,6 @@ e Anti-Dandruff Shampoo
 Q2 a. Sketch the persona of any one of these characters: [10]
 CO-2; SO-1; e Private Security Guard
 
-anid e CISF Constable at airport
 
 CO-3;SO-2; b. Describe the significance of “SCAMPER” technique in Design [10]
 BL-2 Thinking using Cadbury GEMS as an example.

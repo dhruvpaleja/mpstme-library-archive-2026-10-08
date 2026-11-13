@@ -2565,6 +2565,7 @@ differentiation without additional mechanisms.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/MBATech_IT_7041/Computer Networks/ANS_Computer Networks(702AI0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: mixed (24 pages), mean OCR confidence 28.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5374,6 +5375,7 @@ intermediate node receives all the parts of the message.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/Integrated_IT_7037/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: mixed (24 pages), mean OCR confidence 28.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6182,6 +6184,7 @@ FRR IRD AC HOH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CS_7055/Computer Networks/ANS_Computer Networks(702AI0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6693,7 +6696,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -6707,7 +6709,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -6954,6 +6955,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Computer_7002/Computer Networks/ANS_Computer Networks(702AI0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7465,7 +7467,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -7479,7 +7480,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -7726,6 +7726,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CyberSecurity_7010/Computer Networks/ANS_Computer Networks(702AI0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -8237,7 +8238,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -8251,7 +8251,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -8498,6 +8497,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_IT_7001/Computer Networks/ANS_Computer Networks(702AI0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -9007,7 +9007,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -9021,7 +9020,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -9268,6 +9266,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_Computer_7047/Computer Networks/ANS_Computer Networks(702AI0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -9779,7 +9778,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -9793,7 +9791,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -10040,6 +10037,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_IT_7041/Computer Networks/ANS_Computer Networks(702AI0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -10551,7 +10549,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -10565,7 +10562,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -11323,6 +11319,7 @@ destination.
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_AIDS_7056/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -11834,7 +11831,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -11848,7 +11844,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -12095,6 +12090,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_AIML_7053/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -12606,7 +12602,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -12620,7 +12615,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -12867,6 +12861,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_AI_7012/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -13378,7 +13373,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -13392,7 +13386,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -13639,6 +13632,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_CSE_DS_7057/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -14150,7 +14144,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -14164,7 +14157,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -14411,6 +14403,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_EXTC_7006/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -14922,7 +14915,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -14936,7 +14928,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -15183,6 +15174,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/MBATech_AI_7051/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -15694,7 +15686,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -15708,7 +15699,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -15955,6 +15945,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_Computer_7032/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -16466,7 +16457,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -16480,7 +16470,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 
@@ -16727,6 +16716,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_IT_7037/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: mixed (26 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -17238,7 +17228,6 @@ sequence numbers are 0 through 15 inclusive,
 5; Send wires, 5, Send windew,
 first outstaneling frame next frame to send
 
-Lota tats tat sted 7 is to fot |i fis fia):
 
 Frames that can be sent, Frames that
 but not received fron upper layer cannot be sent
@@ -17252,7 +17241,6 @@ a. Send window before sliding
 
 ay 3,
 
-ariarish ot 1 ya Tapas fet? | s fo piofu tit iatiatist of |
 
 b, Send window after sliding
 

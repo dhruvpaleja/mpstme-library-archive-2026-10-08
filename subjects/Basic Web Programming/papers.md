@@ -1,8 +1,99 @@
 # Basic Web Programming: question papers in full
 
-3 unique papers · 2010-11 to 2011-12 · Information Technology
+3 unique papers · 2010-11 to 2012-13 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2012-13 · Exam not stated · Trim 4 · paper 30bdf9bcd5d2
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/BASIC WEB PROGRAMMING/scan0013(5).pdf`
+- Printed on paper: max marks: 100; exam date: 26/10/2012
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineerin
+Programme: MBA(Tech)-(L.T.) Year: II Trimester: IV
+
+Academic Year : 2012-2013
+
+Subject: BASIC WEB PROGRAMMING Marks: 100
+
+Time: 2.00
+Date: 26/10/2012 Duration: 3 arian.
+
+Final - Examination
+
+hrs.
+
+1. Question No 1 is compulsory
+2. Out of remaining questions, attempt any 4 questions.
+3. In all, 5 questions to be attempted.
+4. All questions carry equal marks
+5. Figure to the right indicate full marks
+6. Assume suitable data wherever required
+QI) a) Write JavaScript code for following: (15M)
+i. Create an array and sort it’s elements ,
+ii. Validate username and password
+iii. Display version of client’s web browser
+iv. Display pop-up box if text input is blank
+vy. Ensure that email address is correctly entered _
+
+b) Differentiate between XHTML and HTML (SM)
+
+Q2 a)What is the need of frames.Explain with examples, the various tags used in frames. (10M)
+b) Explain the HTTP protocol. Explain the various commands used in HTTP (10M)
+hae a) Write CSS code for following: . (12M)
+; ‘ i. Make 2: paragraphs-one as centre aligned and other aligned to left
+v —— ii. Use image for background of an Web page
+iii. Change the text color of <p> element
+iv. Make a list that lists its items with discs
+y. Display hyperlinks as underlined
+
+vi. Table borders of green color and 5 pixel width
+
+)).
+--- page 2 ---
+_b) Describe the following tags in HTML with example: (8M)
+
+i. <SPAN>
+ii. <DIV>
+Q4) a) Write a program in HTML for online bank account opening form. (10M)
+
+Include all the relevant attributes
+
+b) Explain the concept of cookies used in Internet. State it’s advantages and (6M)
+disadvantages
+c) Explain how you will use anchor tag to link within the document (4M)
+Q5) a) Explain methods of embedding CSS in Web pages with example ofeach ~ (10M)
+
+b) Explain the following implicit objects in JavaScript, its properties and methods
+giving examples of each: (10M)
+i. Math
+ii. Navigation
+
+iii. Location
+
+iv. History
+v. Array
+Q6) a) Describe the functions used in PERL language (10M)
+b) Give the difference between: (10M)
+
+i. Internet and Intranet
+ii. . GET and POST method in form processing
+
+}
+\ Q7) Write Short Notes on (ANY 4): ; (20M)
+
+“ F DNS
+b) Form tags
+c) Web Application Anatomy
+d) CGI .pm module
+
+e) MIME
+````
 
 ## 2011-12 · Exam not stated · Trim 4 · paper f10514112def
 
@@ -145,95 +236,4 @@ c. MIME
 d. Anatomy of Web application
 e. HTML v/s XHTML
 f. Input / Output statements in PERL
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 30bdf9bcd5d2
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/BASIC WEB PROGRAMMING/scan0013(5).pdf`
-- Printed on paper: max marks: 100; exam date: 26/10/2012
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineerin
-Programme: MBA(Tech)-(L.T.) Year: II Trimester: IV
-
-Academic Year : 2012-2013
-
-Subject: BASIC WEB PROGRAMMING Marks: 100
-
-Time: 2.00
-Date: 26/10/2012 Duration: 3 arian.
-
-Final - Examination
-
-hrs.
-
-1. Question No 1 is compulsory
-2. Out of remaining questions, attempt any 4 questions.
-3. In all, 5 questions to be attempted.
-4. All questions carry equal marks
-5. Figure to the right indicate full marks
-6. Assume suitable data wherever required
-QI) a) Write JavaScript code for following: (15M)
-i. Create an array and sort it’s elements ,
-ii. Validate username and password
-iii. Display version of client’s web browser
-iv. Display pop-up box if text input is blank
-vy. Ensure that email address is correctly entered _
-
-b) Differentiate between XHTML and HTML (SM)
-
-Q2 a)What is the need of frames.Explain with examples, the various tags used in frames. (10M)
-b) Explain the HTTP protocol. Explain the various commands used in HTTP (10M)
-hae a) Write CSS code for following: . (12M)
-; ‘ i. Make 2: paragraphs-one as centre aligned and other aligned to left
-v —— ii. Use image for background of an Web page
-iii. Change the text color of <p> element
-iv. Make a list that lists its items with discs
-y. Display hyperlinks as underlined
-
-vi. Table borders of green color and 5 pixel width
-
-)).
---- page 2 ---
-_b) Describe the following tags in HTML with example: (8M)
-
-i. <SPAN>
-ii. <DIV>
-Q4) a) Write a program in HTML for online bank account opening form. (10M)
-
-Include all the relevant attributes
-
-b) Explain the concept of cookies used in Internet. State it’s advantages and (6M)
-disadvantages
-c) Explain how you will use anchor tag to link within the document (4M)
-Q5) a) Explain methods of embedding CSS in Web pages with example ofeach ~ (10M)
-
-b) Explain the following implicit objects in JavaScript, its properties and methods
-giving examples of each: (10M)
-i. Math
-ii. Navigation
-
-iii. Location
-
-iv. History
-v. Array
-Q6) a) Describe the functions used in PERL language (10M)
-b) Give the difference between: (10M)
-
-i. Internet and Intranet
-ii. . GET and POST method in form processing
-
-}
-\ Q7) Write Short Notes on (ANY 4): ; (20M)
-
-“ F DNS
-b) Form tags
-c) Web Application Anatomy
-d) CGI .pm module
-
-e) MIME
 ````

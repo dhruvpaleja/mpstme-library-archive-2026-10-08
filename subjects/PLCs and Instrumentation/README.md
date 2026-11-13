@@ -16,10 +16,10 @@ Also filed as: `PLCS AND INSTRUMENTATION`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_PLCs and Instrumentation(702MH0C017)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_PLCs and Instrumentation(702MH0C017)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_PLCs and Instrumentation(702MH0C017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_PLCs and Instrumentation(702MH0C017)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_PLCs and Instrumentation(702MH0C017)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_PLCs and Instrumentation(702MH0C017)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | PLCs and Instrumentation, Sem VI, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | PLCs and Instrumentation, Sem-VI, Batch 2022-23, 2024-25, Re Exam.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | PLCs and Instrumentation, Sem-VI, Final & Re Exam Batch 2022-23.pdf |

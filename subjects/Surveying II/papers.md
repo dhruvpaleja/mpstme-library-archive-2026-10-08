@@ -149,6 +149,7 @@ oN on
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SURVEYING II/SURVEYING II FINAL EXAM_2018-19_RE EXAM _17-18_.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 16 April 2019
 - Text: ocr (2 pages), mean OCR confidence 92.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -187,7 +188,6 @@ staff vertically held.
 
 Instrument Stn. | Staff Station | Vertical angle | Hair Readings(m) | Remark
 
-Cc BM -7°10° 1.560,1.885,2.550 RL of BM=
 D +9°25° 0.860, 1.600, 2.550 | 860.50m
 Calculate the horizontal distance CD and RL of D, when the constants of instrument are
 100 and 0.2.
@@ -336,6 +336,264 @@ to the right by an angle of 30 degrees from the first straight. If the radius of
 chainages of the points B and C.
 
 Describe how tacheometric constants can be calculated using field method.
+````
+
+## 2018-19 · Re-Exam · Sem 4 · paper d860790892d1
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SURVEYING II/SURVEYING II BATCH _2016-17-18-19_RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 June 2019
+- Text: ocr (3 pages), mean OCR confidence 88.2
+
+````text
+SVKM’S NMIMS |
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech / MBA Tech(Civil) - Year: IT Semester: IV
+Academic Year: 2018-2019
+Subject: Surveying -II - Marks: 70 «
+Date : 14 June 2019. Time: 2.00 pm to 5.00 pm .
+
+Duration: 3 (Hrs)
+
+- No. of Pages:_3
+Re- Examination (2016-17 / 2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. | (one) is compulsory.
+
+2. Out of remaining questions, attempt any 4 (four) questions.
+
+3. In all 5 (five) questions are to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+
+Qa. 1 Attempt any four ; 4x3 5=14
+(a) Explain’ tacheometer, tacheometry its advantages over other methods of
+surveying.
+(b) With neat sketches explain the types of vertical curves.
+(c) Explain the general principles used in EDM instruments.
+(d) Write a note on use of precise leveling and name the instruments used.
+(e) Write a note on horizontal control in setting out work.
+Q. 2 (a) Explain the setting out of centre line of tunnel. 7
+(b) Explain field procedure for precise leveling. 7
+
+W/Z
+--- page 2 ---
+3 (a) Two tangents intersect at chainage 1250 m. The angle of intersection is 150°. 7
+Q. Calculate the all necessary data for setting out a curve of radius 250 m by the
+deflection angle method. Take peg interval as 20 m. tabulate the all necessary data
+required for setting out.
+(b) With neat sketches explain the batter board, slope & grade stakes used in setting out 7
+work.
+Q. 4 (a) Define electronic tacheometer, total station then explain the use of total station in 7
+surveying.
+(b) A road bend which deflects 72° 30 is to be designed for a maximum speed of 24.2 7
+, m/s, a maximum centrifugal ratio of 0.25 and a maximum rate of change of radial
+acceleration of 0.3 m/sec?, the curve consisting of a circular are combined with two
+cubic spirals. Calculate (i) the radius of circular arc, (ii) length of transition curve, (iii)
+total length of composite curve, (iv) the chainages of all four points if the chainage of
+point of intersection is 1092.18 m.
+Q. 5 (a) Differentiate between tangential method and subtense bar method. 7
+(b) Derive the expressions for radial and perpendicular offsets from tangent for setting out 7
+the circular curve. 3
+°Q. 6 (a) Derive the expression for horizontal distance and elevation equation for stadia method 7
+
+of tacheometry for angle of elevation and staff is held vertical.
+
+(b) The tacheometer was set up at a station C and following readings were obtained ona 7
+
+staff vertically held:
+fasiemerent aad Vertical Hats veatlfves Remark
+station station angle
+Cc B.M. - 5°20 1.500, 1.800, 2.450 RL of BM =
+c D —- +8° 12" 0.750, 1.500, 2.250 790.50 m
+
+Calculate the horizontal distance CD and R. L. of D, when the constants of
+instruments are 100 and 0.15 m.
+
+Q. 7 (a) A+1.0 % grade meets a - 2.0 % grade at a station whose chainage and reduced levels 7
+are 500 m and 329.25 m respectively. A vertical curve of length 140 m is to be used.
+
+The pegs are to be fixed at 10 m interval. Calculate the elevations of the points on the
+
+2/3
+--- page 3 ---
+curve by tangent correction method.
+
+(b) The following observations were made using a tacheometer fitted with an anallatic 7
+
+lens, multiplying constant being 100.
+
+Instrument Height Staff WCB Vertical
+
+. : Hair readings Remark
+station of Inst station angle
+cay
+A 30° 30 44°20" "> 1.755,
+355 RL of O=
+
+) 1.550 ae
+
+z 75°30 = + 10° 1.250, 2.000, “Om
+
+1S) 2.750
+
+Calculate the distance AB, and the RLs of A and B. Find also the gradient of line AB.
+
+MPSTME ~
+
+LIBRARY
+
+3/3
+````
+
+## 2017-18 · Final + Re-Exam · Sem 4 · paper f1ce627c3428
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/SURVEYING II/Surveying-II 2107-18 Final 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 07 May 2018
+- Text: ocr (2 pages), mean OCR confidence 93.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CIVIL) Year: II Semester: IV
+Academic Year: 2017-2018
+
+Subject:Surveying-II
+Marks:70
+‘Date:07 May 2018 Time: 2.00 pm to 5.00 pm ~
+4 Durations: 3 (hrs)
+
+No. of Pages : O2—
+Final Examination (2017-18) / Re-examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. | (Q.1) is compulsory.
+
+2) Out of remaining questions (Q.2 to Q.7), attempt any 4 questions.
+3) In all, 5 questions are to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. :
+
+Q.1 | A | Explain the field procedure for determination of tacheometric constants. (4)
+
+B | Elaborate on the necessity of transition curves. © (4)
+
+C | What are the main objectives to perform a route survey? Mention the sequence of surveys | (3)
+
+required to perform a comprehensive route survey.
+
+D | Explain briefly how precise levelling differs from the ordinary levelling. (3)
+
+Q.2| A| Derive an expression for horizontal and vertical distance of a vertical staff from a | (7)
+
+tacheometer if the line of sight is inclined (consider for angle of elevation).
+
+B | A fixed hair tacheometer fitted with an annalatic lens with an instrument constant of 100, | (7)
+was used to determine the slope between two points P and Q. The following readings
+
+were taken. If the staff was held vertically, compute the gradient from P to Q.
+
+— Staff ; ;
+Inst. Stn. 4 Bearing Stadia readings (m) Vertical angle
+1 tn.
+P 345° 0.915, 1.750, 2.585 +15°
+A
+Q 75° 0.760, 2.240, 3.715 +10°
+
+Page 1 of 2
+--- page 2 ---
+2? How is it conducted in the field?
+
+(7)
+e taken using a tacheometer fitted with an anallatic lens, | (7)
+
+Q.3 | A | What is precise levellin:
+B | The following observations wer
+the staff being held vertically. ,
+- Inst. | Height of | Staff] Vertical Hair Readings
+Remarks
+Stn. | axis(m) | Stn. Angle (m)
+P 1.45 BM | -6°12’ 0.980, 1.540, 2.100
+RL of BM=
+P 1.45 Q | +7°5’ 0.830, 1.360, 1.890
+384.25 m
+Q 1.57 R. | +12°21’ 1.890, 2.480, 3.070
+Determine the distances PQ and QR, and the RLs of P, Q and R.
+Q.4 | A | Explain with diagram Rankine’s deflection angle method for setting out a horizontal | (7)
+curve. |
+B | Two straights BA and AC are intersected by a line EF. The angles BEF and EFC are (7) |
+140° and 145° respectively. The radius of the first arc is 600 m and that of the second
+are is 400 m. Find the chainages of the tangent points, and the point of compound
+curvature, given that the chainage of the intersection point A is 3415 m.
+Q.5 | A | Calculate the reduced levels of the various station pegs on a vertical curve connecting | (7)
+
+two uniform grades of +0.5% and -0.7%. The chainage and the re
+
+of i
+0.1% per 30 m. Apply tangent corrections.
+
+ntersection are 500 m and 330.750 m respectively. Take the rate of chi
+
+duced level of the point
+
+ange of grade as
+
+Two
+BE at C respectively. It is proposed to introduce a reverse curve ©
+
+them. The angles ADC and DCF are 142°36°
+
+common tangent is 465 m. Find the common radius,
+
+straights AD and CF intersect at B. The common tangent DC intersect
+
+ABatDand | (7)
+
+f radius R between
+
+and 132°48’ respectively. The length of the
+
+and the chainages of the tangent
+
+points and the point of reverse curvature, if the chainage of D is 735 m.
+
+different types of EDM | (7)
+
+A | What is EDM? Explain its principle: Write in short about the
+
+Q.6
+instruments stating one application of each type in the field of surveying.
+B | What is setting out works? Explain with neat sketch the procedure to set a culvert. (7)
+Q.7 | A | What do you understand by GPS? Explain in detail. (7)
+
+B | Explain with neat
+
+sketch the procedure to set out the centre
+
+existing hill surface.
+
+line of the tunnel on an | (7)
+
+Page 2 of 2
 ````
 
 ## 2017-18 · Final-Exam · Sem 4 · paper 209eb9e4e9f8
@@ -790,6 +1048,7 @@ Calculate the chainage and RL of beginning, end and vertex point of the curve.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/SURVEYING II/Surveying_-II_2016-17_2017-18 Re-exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 29 June 2018
 - Text: ocr (2 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -858,7 +1117,6 @@ Q.5 a) The following observations were made in a tacheometric survey. (07)
 Instrument | Height of Staff Vertical Hair Remarks
 
 Station axis Station | Angle Readings (m)
-A 1.450 BM -6°12’ | 0.980, 1.540, 2.100 RL of BM
 fe) =
 bs B 5’ f 7 y
 A 1.450 +7°5 0.830, 1.360, 1.890 384.250 m
@@ -890,147 +1148,6 @@ b) Explain with neat sketch any three obstacles in setting out curves. (07)
 
 2\)Page
 Zz
-````
-
-## 2016-17 · Final + Re-Exam · Sem 4 · paper f1ce627c3428
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/SURVEYING II/Surveying-II 2107-18 Final 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 07 May 2018
-- Text: ocr (2 pages), mean OCR confidence 93.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CIVIL) Year: II Semester: IV
-Academic Year: 2017-2018
-
-Subject:Surveying-II
-Marks:70
-‘Date:07 May 2018 Time: 2.00 pm to 5.00 pm ~
-4 Durations: 3 (hrs)
-
-No. of Pages : O2—
-Final Examination (2017-18) / Re-examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. | (Q.1) is compulsory.
-
-2) Out of remaining questions (Q.2 to Q.7), attempt any 4 questions.
-3) In all, 5 questions are to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. :
-
-Q.1 | A | Explain the field procedure for determination of tacheometric constants. (4)
-
-B | Elaborate on the necessity of transition curves. © (4)
-
-C | What are the main objectives to perform a route survey? Mention the sequence of surveys | (3)
-
-required to perform a comprehensive route survey.
-
-D | Explain briefly how precise levelling differs from the ordinary levelling. (3)
-
-Q.2| A| Derive an expression for horizontal and vertical distance of a vertical staff from a | (7)
-
-tacheometer if the line of sight is inclined (consider for angle of elevation).
-
-B | A fixed hair tacheometer fitted with an annalatic lens with an instrument constant of 100, | (7)
-was used to determine the slope between two points P and Q. The following readings
-
-were taken. If the staff was held vertically, compute the gradient from P to Q.
-
-— Staff ; ;
-Inst. Stn. 4 Bearing Stadia readings (m) Vertical angle
-1 tn.
-P 345° 0.915, 1.750, 2.585 +15°
-A
-Q 75° 0.760, 2.240, 3.715 +10°
-
-Page 1 of 2
---- page 2 ---
-2? How is it conducted in the field?
-
-(7)
-e taken using a tacheometer fitted with an anallatic lens, | (7)
-
-Q.3 | A | What is precise levellin:
-B | The following observations wer
-the staff being held vertically. ,
-- Inst. | Height of | Staff] Vertical Hair Readings
-Remarks
-Stn. | axis(m) | Stn. Angle (m)
-P 1.45 BM | -6°12’ 0.980, 1.540, 2.100
-RL of BM=
-P 1.45 Q | +7°5’ 0.830, 1.360, 1.890
-384.25 m
-Q 1.57 R. | +12°21’ 1.890, 2.480, 3.070
-Determine the distances PQ and QR, and the RLs of P, Q and R.
-Q.4 | A | Explain with diagram Rankine’s deflection angle method for setting out a horizontal | (7)
-curve. |
-B | Two straights BA and AC are intersected by a line EF. The angles BEF and EFC are (7) |
-140° and 145° respectively. The radius of the first arc is 600 m and that of the second
-are is 400 m. Find the chainages of the tangent points, and the point of compound
-curvature, given that the chainage of the intersection point A is 3415 m.
-Q.5 | A | Calculate the reduced levels of the various station pegs on a vertical curve connecting | (7)
-
-two uniform grades of +0.5% and -0.7%. The chainage and the re
-
-of i
-0.1% per 30 m. Apply tangent corrections.
-
-ntersection are 500 m and 330.750 m respectively. Take the rate of chi
-
-duced level of the point
-
-ange of grade as
-
-Two
-BE at C respectively. It is proposed to introduce a reverse curve ©
-
-them. The angles ADC and DCF are 142°36°
-
-common tangent is 465 m. Find the common radius,
-
-straights AD and CF intersect at B. The common tangent DC intersect
-
-ABatDand | (7)
-
-f radius R between
-
-and 132°48’ respectively. The length of the
-
-and the chainages of the tangent
-
-points and the point of reverse curvature, if the chainage of D is 735 m.
-
-different types of EDM | (7)
-
-A | What is EDM? Explain its principle: Write in short about the
-
-Q.6
-instruments stating one application of each type in the field of surveying.
-B | What is setting out works? Explain with neat sketch the procedure to set a culvert. (7)
-Q.7 | A | What do you understand by GPS? Explain in detail. (7)
-
-B | Explain with neat
-
-sketch the procedure to set out the centre
-
-existing hill surface.
-
-line of the tunnel on an | (7)
-
-Page 2 of 2
 ````
 
 ## 2016-17 · Final-Exam · Sem 4 · paper 3d6ca4ae91c5
@@ -1426,121 +1543,112 @@ carrying out precise levelling.
 ——
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper d860790892d1
+## 2016-17 · Re-Exam · Sem 4 · paper 8ee7ceb9a9e3
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SURVEYING II/SURVEYING II BATCH _2016-17-18-19_RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 June 2019
-- Text: ocr (3 pages), mean OCR confidence 88.2
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SURVEYING II/SURVEYING II BATCH 14-15,15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.2
 
 ````text
-SVKM’S NMIMS |
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech / MBA Tech(Civil) - Year: IT Semester: IV
-Academic Year: 2018-2019
-Subject: Surveying -II - Marks: 70 «
-Date : 14 June 2019. Time: 2.00 pm to 5.00 pm .
 
-Duration: 3 (Hrs)
+—— Programme: B. Tech (CIVIL) ; Year: II. Semester: IV_ <
 
-- No. of Pages:_3
-Re- Examination (2016-17 / 2017-18/2018-19)
+Batch: 2014-2015/2015 - 2016 *
+
+Academic Year: 2016-2017
+Subject: Surveying -II -
+yes m Marks: 60 « .
+: 06 May 2017 ~ Time: 10.00 am to 1.00 pm
+——=—=— Durations: 3 (hrs)
+No. of Pages: _Z-—
+Re-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and
 on the cover of the Answer Book, which is provided for their use.
 
-1. Question No. | (one) is compulsory.
-
-2. Out of remaining questions, attempt any 4 (four) questions.
-
-3. In all 5 (five) questions are to be attempted.
-
-4. All questions carry equal marks.
-
+NB:
+1, Question No. 1 is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. In all 5 questions to attempted.
+4. Ali questions carry equai marks.
 5. Answer to each new question to be started on a fresh page.
-
 6. Figures in brackets on the right hand side indicate full marks.
-7. Assume Suitable data if necessary.
 
-Qa. 1 Attempt any four ; 4x3 5=14
-(a) Explain’ tacheometer, tacheometry its advantages over other methods of
-surveying.
-(b) With neat sketches explain the types of vertical curves.
-(c) Explain the general principles used in EDM instruments.
-(d) Write a note on use of precise leveling and name the instruments used.
-(e) Write a note on horizontal control in setting out work.
-Q. 2 (a) Explain the setting out of centre line of tunnel. 7
-(b) Explain field procedure for precise leveling. 7
+Q.1) Attempt Any Four questions. (12)
+(a) Explain the principle of stadia tacheometry. , . (03)
+(b) Write a note on properties of simple circular curve. (03)
+(c) Explain the setting out of foundation plan for building. (03)
+(d) Explain horizontal and vertical control. ‘ (03)
+(ec) What are different-types and application of digital theodolite? (03)
+Q.2) Attempt following (12)
 
-W/Z
+(a) Derive the expression for horizontal distance and vertical distance for staff (06) _
+held normal to line of sight and line of sight inclined for depression case.
+
+(b) The following observation were made using a tacheometer fitted with an (06)
+anallatic lens, the value of multiplying constant being 100. Find gradient AB.
+Inst Height | Staff | WCB | Vertical | Hair Remarks
+Station | of Inst. | Station Angle | Readings (m)
+—= oO 1.43 A. 30°30’ | 8°20” 1.1,1.7,2.3 RL of
+. o=
+pas . - : 250.00m
+O 1.43 B 105°28’ | 15°34? | 0.75,1.35,1.95
+
+Wa
 --- page 2 ---
-3 (a) Two tangents intersect at chainage 1250 m. The angle of intersection is 150°. 7
-Q. Calculate the all necessary data for setting out a curve of radius 250 m by the
-deflection angle method. Take peg interval as 20 m. tabulate the all necessary data
-required for setting out.
-(b) With neat sketches explain the batter board, slope & grade stakes used in setting out 7
-work.
-Q. 4 (a) Define electronic tacheometer, total station then explain the use of total station in 7
-surveying.
-(b) A road bend which deflects 72° 30 is to be designed for a maximum speed of 24.2 7
-, m/s, a maximum centrifugal ratio of 0.25 and a maximum rate of change of radial
-acceleration of 0.3 m/sec?, the curve consisting of a circular are combined with two
-cubic spirals. Calculate (i) the radius of circular arc, (ii) length of transition curve, (iii)
-total length of composite curve, (iv) the chainages of all four points if the chainage of
-point of intersection is 1092.18 m.
-Q. 5 (a) Differentiate between tangential method and subtense bar method. 7
-(b) Derive the expressions for radial and perpendicular offsets from tangent for setting out 7
-the circular curve. 3
-°Q. 6 (a) Derive the expression for horizontal distance and elevation equation for stadia method 7
+Q.3) Attempt following ; (12)
+(a)The following observations were taken with a tacheometer fitted with (06) ~
+anallatic lens and multiplication constant of 100. Calculate distance DA and
+reduced bearing of DA. The staff is held vertical.
+Inst Staff WCB Vertical | Staff readings (m)
 
-of tacheometry for angle of elevation and staff is held vertical.
+Station | Station Angle
 
-(b) The tacheometer was set up at a station C and following readings were obtained ona 7
+A B 30°30’ | 5°45’ 1,1.8,2.6
+B € 130°40’ | 8°55” 1.2,1.9,2.6
+Cc D 205°15’ | 10°40’ 0.8,1.5,2.2
 
-staff vertically held:
-fasiemerent aad Vertical Hats veatlfves Remark
-station station angle
-Cc B.M. - 5°20 1.500, 1.800, 2.450 RL of BM =
-c D —- +8° 12" 0.750, 1.500, 2.250 790.50 m
+(b) A composite curve is to be set out with the following data: Deflection angle (06)
+= 60°, maximum speed of the vehicle = 80km/hr, centrifugal ratio = 1/8, rate of
+change of radial acceleration = 0.3 m/s*. Chainage of intersection point =
+1150m. Calculate (a) Radius of circular curve, (b) Length of transition curve,
+(c) Chainages of tangent points and junctions of transition curves with circular
 
-Calculate the horizontal distance CD and R. L. of D, when the constants of
-instruments are 100 and 0.15 m.
+curve.
+Q.4) Attempt following (12)
+(a) How will you transfer level and grade inside the tunnel? (06)
 
-Q. 7 (a) A+1.0 % grade meets a - 2.0 % grade at a station whose chainage and reduced levels 7
-are 500 m and 329.25 m respectively. A vertical curve of length 140 m is to be used.
+(b) Describe with neat sketch the process of location of bridge pier. (06)
 
-The pegs are to be fixed at 10 m interval. Calculate the elevations of the points on the
+Q.5) Attempt following (12)
+_ (a) Explain Rankines deflection method of setting out curves. (06)
 
-2/3
---- page 3 ---
-curve by tangent correction method.
+(b) Two tangents intersect at a chainage 1300 m. The angle of intersection is (06)
+140°. Calculate all data necessary for setting out of a curve of radius 260m by
+deflection angle method. The peg intervals may be taken as 20m. Prepare a -*
+setting out table when the least count of vernier is 20”. Calculate the data for
 
-(b) The following observations were made using a tacheometer fitted with an anallatic 7
+field checking. _*
 
-lens, multiplying constant being 100.
+Q.6) Attempt following
+(a) What is precise leveling, enlist the instruments and field procedure for
+conducting precise leveling.
+(b) What is the principle of EDM instruments? Give brief description of
+different types of EDM instruments and state application in field of surveying.
 
-Instrument Height Staff WCB Vertical
+Q.7) Attempt Any Four questions. : . (12)
 
-. : Hair readings Remark
-station of Inst station angle
-cay
-A 30° 30 44°20" "> 1.755,
-355 RL of O=
+(a) Explain types of vertical curves with sketches. ~ (03)
+(b) Explain difference between fixed hair and moveable hair method. (03)
+(c) Derive expression for curvature correction. (03)
+~ (d) What are the sources of error in GPS? (03)
+(e) Describe field procedure for calculation of tacheometric constants. (03)
 
-) 1.550 ae
-
-z 75°30 = + 10° 1.250, 2.000, “Om
-
-1S) 2.750
-
-Calculate the distance AB, and the RLs of A and B. Find also the gradient of line AB.
-
-MPSTME ~
-
-LIBRARY
-
-3/3
+cal . ; Zh
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper 593f617fe298
@@ -1854,112 +1962,100 @@ b | Write step wise procedure for setting out a culvert.
 2/2.
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 8ee7ceb9a9e3
+## 2015-16 · Re-Exam · Sem 4 · paper 50c43321d933
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SURVEYING II/SURVEYING II BATCH 14-15,15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.2
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SURVEYING II/SURVEYING II B TECH (CIVIL), BATCH 14-15 RE EXAM0001 (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 07/05/2016
+- Text: ocr (2 pages), mean OCR confidence 90.3
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-—— Programme: B. Tech (CIVIL) ; Year: II. Semester: IV_ <
+Programme: B.Tech (Civil) Year: II Semester: IV
 
-Batch: 2014-2015/2015 - 2016 *
+Academic Year: 2015-16
+Batch: 2014-15
 
-Academic Year: 2016-2017
-Subject: Surveying -II -
-yes m Marks: 60 « .
-: 06 May 2017 ~ Time: 10.00 am to 1.00 pm
-——=—=— Durations: 3 (hrs)
-No. of Pages: _Z-—
+Subject: Surveying —II Marks: 60
+
+Time: 10.00 am - 1.00 pm
+Durations: 3 hrs.
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
+Date: 07/05/2016
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
 on the cover of the Answer Book, which is provided for their use.
 
 NB:
-1, Question No. 1 is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. In all 5 questions to attempted.
-4. Ali questions carry equai marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
 
-Q.1) Attempt Any Four questions. (12)
-(a) Explain the principle of stadia tacheometry. , . (03)
-(b) Write a note on properties of simple circular curve. (03)
-(c) Explain the setting out of foundation plan for building. (03)
-(d) Explain horizontal and vertical control. ‘ (03)
-(ec) What are different-types and application of digital theodolite? (03)
-Q.2) Attempt following (12)
+1) Question No. | is compulsory.
 
-(a) Derive the expression for horizontal distance and vertical distance for staff (06) _
-held normal to line of sight and line of sight inclined for depression case.
+2) Out of remaining questions, attempt any 4 questions.
 
-(b) The following observation were made using a tacheometer fitted with an (06)
-anallatic lens, the value of multiplying constant being 100. Find gradient AB.
-Inst Height | Staff | WCB | Vertical | Hair Remarks
-Station | of Inst. | Station Angle | Readings (m)
-—= oO 1.43 A. 30°30’ | 8°20” 1.1,1.7,2.3 RL of
-. o=
-pas . - : 250.00m
-O 1.43 B 105°28’ | 15°34? | 0.75,1.35,1.95
+3) In all 5 questions to be attempted.
 
-Wa
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+QI | Answer the following Questions Marks
+q | Explain in brief various types of vertical curves with neat sketch. 4
+b | Write application GPS & sources error in GPS: 4
+c | What are the characteristics of tacheometer? 4
+
+Q2 | Solve 12
+a__| What is the precise leveling? How it is conducted in the field? 6
+b | What is EDM? Explain its principle, What are the different types of EDM? 6
+
+3 | Solve 12
+Two tangent AB and BC intersect at B. another line DE intersects AB & BC atD & E such
+a | that <ADE =150’ and <DEC =140". The radius of the first curve is 200m and the second is 6
+300m. Chainge of B is 950m. Calculate all necessary data for setting out compound curve.
+b | What are the errors and precisions in tacheometer? Write in detail. 6
+Q4 Solve 12
+
+V/o_
 --- page 2 ---
-Q.3) Attempt following ; (12)
-(a)The following observations were taken with a tacheometer fitted with (06) ~
-anallatic lens and multiplication constant of 100. Calculate distance DA and
-reduced bearing of DA. The staff is held vertical.
-Inst Staff WCB Vertical | Staff readings (m)
+The following observation were made using a tacheometer fitted with an analytic lens, the
+multiplying constant being 100. Calculate the RLs of P,Q & R, and the horizontal distance
+PQ & QR. The tacheometer is fitted with an analytic lens and the multiplying constant is
+100.
 
-Station | Station Angle
+Inst. Height of | Staff Vertical
 
-A B 30°30’ | 5°45’ 1,1.8,2.6
-B € 130°40’ | 8°55” 1.2,1.9,2.6
-Cc D 205°15’ | 10°40’ 0.8,1.5,2.2
+a Station | Instrument | station __| Angle ciniananiitiast Ramaes 6
+P 1.345 BM 5°30’ 0.905,1.455,2.005 Laos Ese
+. ° ees is 450.500m
+P 1.345 Q +80’ 0.755,1.655,2.555
+Q 1.550 R + 10°0’ 1.5000,2.250,3.000
+Determine the values of stadia constants from the following observations.
+Inst. Station Staff reading on | Distance Stadia readings
+b Lower upper 6
+16) A 150 1.255 2.750
+B 200 1.00 3.00
+C 250 0.750 3.255
+Q5 Solve 12
+Two tangents AB & BC intersect at a point B at chainage 150.5m calculate all necessary
+a | data for setting out a circular curve of radius 100m and deflection angle 30° by the method 6
+of offset by long cord.
+b What is the Reverse curve? Derive the relationship when straight lines are parallel, draw 6
+neat sketch.
 
-(b) A composite curve is to be set out with the following data: Deflection angle (06)
-= 60°, maximum speed of the vehicle = 80km/hr, centrifugal ratio = 1/8, rate of
-change of radial acceleration = 0.3 m/s*. Chainage of intersection point =
-1150m. Calculate (a) Radius of circular curve, (b) Length of transition curve,
-(c) Chainages of tangent points and junctions of transition curves with circular
+Q6 Solve 12
+a | Write Field procedure of setting out curve by Rankine’s method with neat sketch. 6
+5 | Discuss the Obstacles in setting out the curves also draw neat sketch’: 6
 
-curve.
-Q.4) Attempt following (12)
-(a) How will you transfer level and grade inside the tunnel? (06)
+Q7_ (| Solve
+a | Write short notes on use of Total station: 6
+b | Write step wise procedure for setting out for culvert. 6
 
-(b) Describe with neat sketch the process of location of bridge pier. (06)
-
-Q.5) Attempt following (12)
-_ (a) Explain Rankines deflection method of setting out curves. (06)
-
-(b) Two tangents intersect at a chainage 1300 m. The angle of intersection is (06)
-140°. Calculate all data necessary for setting out of a curve of radius 260m by
-deflection angle method. The peg intervals may be taken as 20m. Prepare a -*
-setting out table when the least count of vernier is 20”. Calculate the data for
-
-field checking. _*
-
-Q.6) Attempt following
-(a) What is precise leveling, enlist the instruments and field procedure for
-conducting precise leveling.
-(b) What is the principle of EDM instruments? Give brief description of
-different types of EDM instruments and state application in field of surveying.
-
-Q.7) Attempt Any Four questions. : . (12)
-
-(a) Explain types of vertical curves with sketches. ~ (03)
-(b) Explain difference between fixed hair and moveable hair method. (03)
-(c) Derive expression for curvature correction. (03)
-~ (d) What are the sources of error in GPS? (03)
-(e) Describe field procedure for calculation of tacheometric constants. (03)
-
-cal . ; Zh
+2/9
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper cd42ce3829ea
@@ -1969,6 +2065,7 @@ cal . ; Zh
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SURVEYING II/SURVEYING II BATCH 2014-15, 15-16 RE EXAM0001.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 01 July 2016
 - Text: ocr (2 pages), mean OCR confidence 91.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2025,7 +2122,6 @@ axis angle Readings
 
 (m)
 
-A 1.345 -5°30’ 0.905, BM RL of BM is
 1.455, 2.005 450.5 m
 
 A 1.345 +8°0? 0.755, B
@@ -2278,37 +2374,130 @@ b | Explain how the setting out for framed structure is carried out by centre-li
 2/2
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper 50c43321d933
+## 2014-15 · Re-Exam · Sem 4 · paper 7af690b3ab88
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SURVEYING II/SURVEYING II B TECH (CIVIL), BATCH 14-15 RE EXAM0001 (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 07/05/2016
-- Text: ocr (2 pages), mean OCR confidence 90.3
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/STRUCTURAL ANALYSIS I/SURVEYING II B TECH (CIVIL), BATCJ 2013-14 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 03/07/2015
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+SVKM’s NMIMS -_
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: II Semester: IV
+Batch: 2013-14 ;
+Academic Year: 2014-2015
+
+Subject: Surveying -II
+Marks f . a
+Date: 03/07/2015 Time: 4 2.00 pm to 5.00 pm
+Durations ‘©3 (hrs) dg
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB: 1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Group all sub questions together failing which it may not be assessed.
+7) Figures in brackets on the right hand side indicate full marks.
+8) Assume suitable data if necessary and state it clearly.
+
+Ql Attempt any 4 out of 5 20
+a) Explain what is meant by precise levelling.
+b) Explain the principle of tacheometry.
+c) What do you understand by GPS? Explain in detail.
+d) Explain the various applications of total station in surveying.
+e) Differentiate between fixed hair and movable hair methods in
+tacheometry.
+
+Q2 a) Suppose you are given a tacheometer for carrying out a field project. 10
+How will you determine the constants of this tacheometer on field?
+
+b) Explain the sources of errors iniacheometry. : 10
+
+Q3 a) Enlist and explain with neat sketches difficulties in setting out of 10
+curve and how to overcome them.
+
+b) Two straights intersect at a chainage of 1568.94m and the angle of 10
+intersection is 135°. If the radius of the simple curve to be introduced
+is 600m, compute tangent distances, chainages of points of tangency
+and commencement, length of long chord, mid —ordinate and degree
+of the curve.
+
+4/2
+--- page 2 ---
+Q4 a) Derive the distance and elevation formulae for staff held vertical and 10
+line of sight inclined for a tacheometer.
+
+b) In a tacheometer survey made with an instrument having constants 10
+100 and 0.5, the staff was held normal to the line of sight for each
+reading. Calculate the gradient between the staff stations P and Q and
+
+RL of P and Q given that RL of R is 41.800m.
+Instrument | Height of Staff | bearing | Vertical | Stadia reading
+
+station instrument | station angle
+axis
+R 1.600 P 85° +4°30? 1.000, 1.417, 1.833
+| Q [135° _| -4° | 1.000, 1.657, 2.313 _|
+Q5 a) Tabulate the necessary data for setting out a simple curve using 10
+
+Rankine’s method of deflection angles with the following data: angle
+of intersection =150°, chainage at point of intersection = 1560m,
+radius of curve = 400m. Consider a peg interval of 20m.
+
+b) Explain compound and reverse curves with sketches. Explain the 10
+necessity of each type of curve.
+
+Q6 a) Explain the piluetple and working of EDM. 10
+
+b) How will you transfer the alignment of a tunnel under the ground? 10
+
+Q7 a) Explain how the setting of a 2-room bungalow can be done. List the 10
+
+various instruments required and also the proceaure for the same with
+a neat sketch.
+
+b) What is precise levelling? Enlist the equipment used and the field 10
+procedure for conducting precise levelling?
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper c266888c4bb4
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SURVEYING II/SURVEYING II B TECH (CIVIL), BATCH 2013-14 RE EXAM0001.pdf`
+- Printed on paper: exam date: 08/05/2015
+- Text: ocr (2 pages), mean OCR confidence 93.7
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Civil) Year: II Semester: IV
+Programme: B. Tech (CIVIL) Year: Il Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Surveying -II
+Marks
+Date: 08/05/2015 Time:
 
-Academic Year: 2015-16
-Batch: 2014-15
-
-Subject: Surveying —II Marks: 60
-
-Time: 10.00 am - 1.00 pm
-Durations: 3 hrs.
+Duration ena
+Oar
 Re-Examination
 
-Date: 07/05/2016
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No. | is compulsory.
+1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -2317,61 +2506,103 @@ NB:
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
 
-QI | Answer the following Questions Marks
-q | Explain in brief various types of vertical curves with neat sketch. 4
-b | Write application GPS & sources error in GPS: 4
-c | What are the characteristics of tacheometer? 4
+Q.1. Attempt any FOUR of the following. 20
+a) List various methods of setting out transition curve and explain any one of them. 05
+b) What are the advantages and disadvantages of tacheometric surveying? 05
+c) Describe the procedure to measure the length of centre line of a long bridge. 05
+d) Discuss the obstacles in setting out a curve. 05
+e) What are different types and applications of digital theodolite? 05
 
-Q2 | Solve 12
-a__| What is the precise leveling? How it is conducted in the field? 6
-b | What is EDM? Explain its principle, What are the different types of EDM? 6
+Q.2. a) Derive an expression for the horizontal distance D of a vertical staff from a tacheometer 10
+if the line of sight is inclined.
+b) To determine the distance between two points A and B, a tacheometer (multiplying 10
+constant of 100) was set up at P the following observations were recorded.
+i) Staff at A: Staff readings = 2.225, 2.605, 2.985 and Vertical angle = + 7°54!
+ii) Staff at B: Staff readings = 1.640, 1.920, 2.200 and Vertical angle = — 1°46’
+iii) Horizontal angle APB = + 68°32'30"; Elevation of A = 315.600 m.
+Determine the distance AB and the elevation of B.
+Q.3. a) Following observations were taken on a vertical staff by means of tacheometer fitted with 10
+an anallactic lens. The constant of the instrument is 100.
 
-3 | Solve 12
-Two tangent AB and BC intersect at B. another line DE intersects AB & BC atD & E such
-a | that <ADE =150’ and <DEC =140". The radius of the first curve is 200m and the second is 6
-300m. Chainge of B is 950m. Calculate all necessary data for setting out compound curve.
-b | What are the errors and precisions in tacheometer? Write in detail. 6
-Q4 Solve 12
+Staff St. Bearing Stadia Hair Readings Vertical angles
 
-V/o_
+P 46° 30° 0.857 1.495 2.335 +9° 00°
+
+Q 226° 30° 0.765 2.115 2.829 - 6°00’
+Estimate the R.L. of the ground at P and Q along with the gradient of the line PQ.
+
+b) The ventredine of ofa toad i is to be tangential to each of the following lines: 10
+
+3 & Line W.C.B. Length
+AB 0° --
+
+v BC 270° 350 m
+nt cD 220° _
+
+y |.
+Obtain the rniiie of the curve and tangent lengths.
+Q.4. a) What is reverse curve? Derive relationships between various elements of reverse curve 10
+
+uf
 --- page 2 ---
-The following observation were made using a tacheometer fitted with an analytic lens, the
-multiplying constant being 100. Calculate the RLs of P,Q & R, and the horizontal distance
-PQ & QR. The tacheometer is fitted with an analytic lens and the multiplying constant is
-100.
+Q.5.
 
-Inst. Height of | Staff Vertical
+Q.6.
 
-a Station | Instrument | station __| Angle ciniananiitiast Ramaes 6
-P 1.345 BM 5°30’ 0.905,1.455,2.005 Laos Ese
-. ° ees is 450.500m
-P 1.345 Q +80’ 0.755,1.655,2.555
-Q 1.550 R + 10°0’ 1.5000,2.250,3.000
-Determine the values of stadia constants from the following observations.
-Inst. Station Staff reading on | Distance Stadia readings
-b Lower upper 6
-16) A 150 1.255 2.750
-B 200 1.00 3.00
-C 250 0.750 3.255
-Q5 Solve 12
-Two tangents AB & BC intersect at a point B at chainage 150.5m calculate all necessary
-a | data for setting out a circular curve of radius 100m and deflection angle 30° by the method 6
-of offset by long cord.
-b What is the Reverse curve? Derive the relationship when straight lines are parallel, draw 6
-neat sketch.
+Q.7.
 
-Q6 Solve 12
-a | Write Field procedure of setting out curve by Rankine’s method with neat sketch. 6
-5 | Discuss the Obstacles in setting out the curves also draw neat sketch’: 6
+between the parallel straights.
+b) Two straights LM and MN are intersected by a line AB. The angle LAB and ABN are
+125° and 135°, respectively. The chainage for point of
+intersection M is 3245 m. The radii of first and
+second arcs are 530 m and 370 m, respectively.
+Determine the chainage of point of tangency, and
+compound curvature.
 
-Q7_ (| Solve
-a | Write short notes on use of Total station: 6
-b | Write step wise procedure for setting out for culvert. 6
+C2
 
-2/9
+a) Two straight tangents AB and BC, connected by right hand circular curve intersects at
+point B where chainage of intersection point = 2700 m and bearings of AB and BC = 80°
+and 155°, respectively. The curve passes through a point P such that BP is 135 m and the
+angle is 57°. Calculate the radius of the curve for 30 m peg interval. If the curve is to be
+set out on the ground, estimate the chainage of tangent points and total deflection angles
+for the initial two pegs on the curve at through chainages of 30 m.
+
+b) Illustrate the field procedure for precise leveling.
+
+a) What is the principle of EDM instruments? Give brief description different types of EDM
+instruments and mention its application in the field of surveying.
+
+b) Explain the fundamental components, advantages and the procedure for location of point
+by GPS.
+
+a) Describe the method of setting out of culverts.
+
+c) How will you locate the piers on the centre line of a long bridge with a neat sketch?
+
+b) Two parallel railway lines are to be connected by reverse curve, each section having the
+same radius. If the lines are 12 m apart and the maximum distance between tangent
+points measured parallel to the straights is 48 m, find the maximum allowable radius. If
+however both the radii are to be different, calculate the radius of the second branch if that
+of first branch is twice the radius of the second branch. Also calculate lengths of both the
+branches.
+
+10
+
+10
+
+10
+10
+
+10
+
+10
+
+05
+05
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper c31b09152ffe
@@ -2633,237 +2864,6 @@ How will you transfer level and grade inside the tunnel? 10
 FX
 
 BF Bs
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 7af690b3ab88
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/STRUCTURAL ANALYSIS I/SURVEYING II B TECH (CIVIL), BATCJ 2013-14 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3; exam date: 03/07/2015
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-SVKM’s NMIMS -_
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: IV
-Batch: 2013-14 ;
-Academic Year: 2014-2015
-
-Subject: Surveying -II
-Marks f . a
-Date: 03/07/2015 Time: 4 2.00 pm to 5.00 pm
-Durations ‘©3 (hrs) dg
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB: 1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Group all sub questions together failing which it may not be assessed.
-7) Figures in brackets on the right hand side indicate full marks.
-8) Assume suitable data if necessary and state it clearly.
-
-Ql Attempt any 4 out of 5 20
-a) Explain what is meant by precise levelling.
-b) Explain the principle of tacheometry.
-c) What do you understand by GPS? Explain in detail.
-d) Explain the various applications of total station in surveying.
-e) Differentiate between fixed hair and movable hair methods in
-tacheometry.
-
-Q2 a) Suppose you are given a tacheometer for carrying out a field project. 10
-How will you determine the constants of this tacheometer on field?
-
-b) Explain the sources of errors iniacheometry. : 10
-
-Q3 a) Enlist and explain with neat sketches difficulties in setting out of 10
-curve and how to overcome them.
-
-b) Two straights intersect at a chainage of 1568.94m and the angle of 10
-intersection is 135°. If the radius of the simple curve to be introduced
-is 600m, compute tangent distances, chainages of points of tangency
-and commencement, length of long chord, mid —ordinate and degree
-of the curve.
-
-4/2
---- page 2 ---
-Q4 a) Derive the distance and elevation formulae for staff held vertical and 10
-line of sight inclined for a tacheometer.
-
-b) In a tacheometer survey made with an instrument having constants 10
-100 and 0.5, the staff was held normal to the line of sight for each
-reading. Calculate the gradient between the staff stations P and Q and
-
-RL of P and Q given that RL of R is 41.800m.
-Instrument | Height of Staff | bearing | Vertical | Stadia reading
-
-station instrument | station angle
-axis
-R 1.600 P 85° +4°30? 1.000, 1.417, 1.833
-| Q [135° _| -4° | 1.000, 1.657, 2.313 _|
-Q5 a) Tabulate the necessary data for setting out a simple curve using 10
-
-Rankine’s method of deflection angles with the following data: angle
-of intersection =150°, chainage at point of intersection = 1560m,
-radius of curve = 400m. Consider a peg interval of 20m.
-
-b) Explain compound and reverse curves with sketches. Explain the 10
-necessity of each type of curve.
-
-Q6 a) Explain the piluetple and working of EDM. 10
-
-b) How will you transfer the alignment of a tunnel under the ground? 10
-
-Q7 a) Explain how the setting of a 2-room bungalow can be done. List the 10
-
-various instruments required and also the proceaure for the same with
-a neat sketch.
-
-b) What is precise levelling? Enlist the equipment used and the field 10
-procedure for conducting precise levelling?
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper c266888c4bb4
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/SURVEYING II/SURVEYING II B TECH (CIVIL), BATCH 2013-14 RE EXAM0001.pdf`
-- Printed on paper: exam date: 08/05/2015
-- Text: ocr (2 pages), mean OCR confidence 93.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: Il Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Surveying -II
-Marks
-Date: 08/05/2015 Time:
-
-Duration ena
-Oar
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1. Attempt any FOUR of the following. 20
-a) List various methods of setting out transition curve and explain any one of them. 05
-b) What are the advantages and disadvantages of tacheometric surveying? 05
-c) Describe the procedure to measure the length of centre line of a long bridge. 05
-d) Discuss the obstacles in setting out a curve. 05
-e) What are different types and applications of digital theodolite? 05
-
-Q.2. a) Derive an expression for the horizontal distance D of a vertical staff from a tacheometer 10
-if the line of sight is inclined.
-b) To determine the distance between two points A and B, a tacheometer (multiplying 10
-constant of 100) was set up at P the following observations were recorded.
-i) Staff at A: Staff readings = 2.225, 2.605, 2.985 and Vertical angle = + 7°54!
-ii) Staff at B: Staff readings = 1.640, 1.920, 2.200 and Vertical angle = — 1°46’
-iii) Horizontal angle APB = + 68°32'30"; Elevation of A = 315.600 m.
-Determine the distance AB and the elevation of B.
-Q.3. a) Following observations were taken on a vertical staff by means of tacheometer fitted with 10
-an anallactic lens. The constant of the instrument is 100.
-
-Staff St. Bearing Stadia Hair Readings Vertical angles
-
-P 46° 30° 0.857 1.495 2.335 +9° 00°
-
-Q 226° 30° 0.765 2.115 2.829 - 6°00’
-Estimate the R.L. of the ground at P and Q along with the gradient of the line PQ.
-
-b) The ventredine of ofa toad i is to be tangential to each of the following lines: 10
-
-3 & Line W.C.B. Length
-AB 0° --
-
-v BC 270° 350 m
-nt cD 220° _
-
-y |.
-Obtain the rniiie of the curve and tangent lengths.
-Q.4. a) What is reverse curve? Derive relationships between various elements of reverse curve 10
-
-uf
---- page 2 ---
-Q.5.
-
-Q.6.
-
-Q.7.
-
-between the parallel straights.
-b) Two straights LM and MN are intersected by a line AB. The angle LAB and ABN are
-125° and 135°, respectively. The chainage for point of
-intersection M is 3245 m. The radii of first and
-second arcs are 530 m and 370 m, respectively.
-Determine the chainage of point of tangency, and
-compound curvature.
-
-C2
-
-a) Two straight tangents AB and BC, connected by right hand circular curve intersects at
-point B where chainage of intersection point = 2700 m and bearings of AB and BC = 80°
-and 155°, respectively. The curve passes through a point P such that BP is 135 m and the
-angle is 57°. Calculate the radius of the curve for 30 m peg interval. If the curve is to be
-set out on the ground, estimate the chainage of tangent points and total deflection angles
-for the initial two pegs on the curve at through chainages of 30 m.
-
-b) Illustrate the field procedure for precise leveling.
-
-a) What is the principle of EDM instruments? Give brief description different types of EDM
-instruments and mention its application in the field of surveying.
-
-b) Explain the fundamental components, advantages and the procedure for location of point
-by GPS.
-
-a) Describe the method of setting out of culverts.
-
-c) How will you locate the piers on the centre line of a long bridge with a neat sketch?
-
-b) Two parallel railway lines are to be connected by reverse curve, each section having the
-same radius. If the lines are 12 m apart and the maximum distance between tangent
-points measured parallel to the straights is 48 m, find the maximum allowable radius. If
-however both the radii are to be different, calculate the radius of the second branch if that
-of first branch is twice the radius of the second branch. Also calculate lengths of both the
-branches.
-
-10
-
-10
-
-10
-10
-
-10
-
-10
-
-05
-05
 ````
 
 ## 2013-14 · Re-Exam · Sem 4 · paper 217086066ee7

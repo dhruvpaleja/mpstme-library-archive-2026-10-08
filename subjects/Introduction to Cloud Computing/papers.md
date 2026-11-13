@@ -4,6 +4,118 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2022-23 · Exam not stated · paper ffc8a89a809a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/INTRODUCTION TO CLOUD COMPUTING/Introduction to Cloud Computing.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 19/06/2023
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
+
+Academic Year: 2022-2023
+
+Program: MBA Tech Stream: Computer Engineering Year: [V Semester: VII
+
+Subject: Introduction to Cloud Computing Time: 03 hrs (14:00 arm tp 2:00 pm)
+Date:19/06/2023 No. of Pages: 02
+
+Marks: 100
+
+Special Re-examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+c 2) Out ofremaining questions, attempt any 4 questions.
+3) Inall 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started ona fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. ;
+Ql
+Answer briefly: [20]
+ae 3° a. Explain Software as a Service and list the SaaS characteristics. [5]
+CO-4,SO- |b. ; . . .
+1 Differentiate between Bare metal hypervisor and hosted hypervisor. [5]
+BL-4
+CO-4, SO- | c. Summarize different services provided by $3. [5]
+o 1, BL-2
+CO-1, SO- | d. Discuss limitations/ disadvantages of Cloud. {5]
+4, BL-2
+Q2 a.
+CO-2,SO- Describe the different types of cloud deployment models with example. [10]
+1,
+BL-1
+eis b. Justify importance of digital signature in cloud computing. Explain working of 10
+; digital signature and advantages of it. Lh}
+BL-5
+Q3 a. Draw a neat labeled diagram of layered architecture of NIST Model. Explain [10]
+CO-2; SO- in depth the role and responsibilities of cloud provider.
+1; BL-3
+--- page 2 ---
+CO-4; SO- | b. Design the implementation of automated service failover across zones..in cloud [10]
+
+2;BL-6 computing.
+
+Q4 a.
+
+CO-3; SO- Justify importance of virtualization in cloud computing and explain full [10]
+
+l: virtualization and para virtualization with diagram.
+
+BL-S
+
+CO-4; SO- |b.
+
+1; Propose a cloud- based model for developing a rural healthcare system. [10]
+
+BL-6
+
+Q5 a.
+
+CO-4; SO- | , Explain business continuity and list the reasons for service unavailability and its [10]
+
+1; impact.
+
+BL-2
+
+a. SO- |b. Draw the general structure of DES. Summarize steps present in DES algorithm. [10]
+
+BL-3 Mention block size, cipher key size and round-key size in DES.
+
+Q6 a.
+
+CO-3; SO- Discuss in detail Hardware-assisted Virtualization along with its pros and cons. [10]
+
+1,
+
+BL-2
+
+CO-1;SO- | b.
+
+1; Illustrate any two use cases of Infrastructure-as-a Service (IaaS) model in detail. [10]
+
+BL-2
+
+Q7 a. Illustrate working of public key cryptography by using diagram. You intercept the
+ciphertext C =10 sent to a user whose public key is e=5, n=35.Calculate plaintext [10]
+
+CO-3, SO- M?
+
+2, BL-4 :
+
+FOO. |b. Explain the working of data protection method ‘backup’ in detail. [10]
+
+1, BL-2
+````
+
 ## 2022-23 · Final-Exam · Sem 7 · paper 14701f8973c5
 
 - Departments: Computer Engineering
@@ -989,6 +1101,7 @@ if
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/INTTRODUCTION TO CLOUD COMPUTING/INTRODUCTION_TO_CLOUD_COMPUTING_(IT)__2017-18_FINAL_EXAM_.pdf`
 - Printed on paper: duration hours: 3; exam date: 14 May 2018
 - Text: ocr (3 pages), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 - SVKM’s NMIMS
@@ -1055,7 +1168,6 @@ iv.   Replicates data across any geographic location without impacting response 
 
 5) Topology and Orchestration Specification for Cloud Applications (TOSCA) is developed by
 
-i, OCCI ii. CIMT iii. CDMI iv. OASIS vy. CAMP
 6) A common method to evaluate IT readiness is to create a
 i. Balanced scorecard ii. Ideal scorecard
 
@@ -1767,6 +1879,117 @@ Key requirements of a data center.
 Page 2 of 2
 ````
 
+## 2016-17 · Re-Exam · Sem 6 · paper aa6e058ff251
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/INTTRODUCTION TO CLOUD COMPUTING/INTRODUCTION_TO_CLOUD_COMPUTING_BATCH_15-16_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 May 2017
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING i
+
+Programme: B. Tech (IT) Year: Il Semester: VI
+Academic Year: 2016-2017
+
+Subject: Introduction to Cloud Computing
+Marks: 60
+Date: 15 May 2017 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages: _2—
+Final Examinations (Batch 2016-2017)/
+Re-Examination (Batch 2015-2016)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory. _
+
+2) Out of remaining questions, attempt any 4 questions. :
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Q. 1) . .
+
+a) A cloud service provider has following resources in the resource pool: [3 x2 marks each = 06]
+Compute systems — 3 systems with processing power of 5000 MHz and memory capacity of 10 GB each,
+Storage system — 3 drives with storage space of 1000 GB each
+
+Network system — 3 NIC having bandwidth of 1000 Mbps each
+
+Draw the resource allotted to the consumers based on requirements as mentioned below
+
+i) Compute Systems [2 marks]
+Consumer A — Processing power = 6000 MHz, Memory capacity= 10 GB
+
+Consumer B - Processing power = 9000 MHz, Memory capacity= 15 GB
+
+ii) Storage Systems: [2 marks]
+Consumer A - 900 GB, Consumer B — 1000 GB, Consumer — 500 GB
+iii) Network System [2 marks]
+
+Consumer A — 900 Mbps, Consumer B — 600 Mbps, Consumer C — 300 Mbps ©
+
+/
+--- page 2 ---
+aN
+
+- Ql
+b) Draw an orchestration flowchart showing the steps when a consumer logs on to the cloud portal and
+requests for a customer relationship management (CRM) software as a service from the service catalog.
+The CRM software has dependency on MySQL database and PHP modules. The CRM application and
+MySQL are hosted on different VMs that are interconnected via a VLAN. [06]
+
+Q.2)
+A cloud service provider is facing disruption of services and poor service quality due to lots of incidents.
+a) Draw a neat labelled workflow chart explaining the steps taken by the incident mariagement team to
+
+handle such incidents detected by the incident management tool deployed in cloud. _ [06]
+b) Draw a neat labelled workflow chart explaining the steps taken by the problem management team to
+
+identify the cause and resolve the problem permanently. [06]
+Q.3)
+
+A global retail giant using cloud wants to ensure high availability to all customers regardless of their
+location. Suggest the best design for high availability along with an automated service failover across
+zones for this retailer. [12]
+
+Q.4) .
+
+a) Elaborate the measures that consumers and cloud providers should take to avoid legal, licensing,
+compliance, service-level problems. [06]
+b) Summarize the key compute resource management techniques that would help optimize resource
+utilization, improve performance and ensure meeting service levels. - [06]
+
+Q.5) .
+A bank operating on cloud wishes to enable operational recovery and disaster recovery for all mission
+critical applications. List the components used. With the help of a neat labelled diagram explain the steps
+
+to achieve it. ; [12]
+Q.6) Discuss the following key security mechanisms: (4x3 marks each = 12]
+i) OAuth
+
+ii) Kerberos
+iii) Challenge Handshake Authentication protocol
+iv) OpenID
+
+Q.7) Difference between ’ [3x4 marks each = 12]
+i) Bare Metal Hypervisor and Hosted Hypervisor
+
+ii) Block Level and File Level storage systems
+
+iii) Forklift and Hybrid Migration
+````
+
 ## 2016-17 · Re-Exam · Sem 6 · paper 56ac35274737
 
 - Departments: Information Technology
@@ -2132,117 +2355,6 @@ B Business Continuity in Cloud Computing.
 D Processes in Cloud Service management
 ````
 
-## 2015-16 · Re-Exam · Sem 6 · paper aa6e058ff251
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/INTTRODUCTION TO CLOUD COMPUTING/INTRODUCTION_TO_CLOUD_COMPUTING_BATCH_15-16_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 May 2017
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING i
-
-Programme: B. Tech (IT) Year: Il Semester: VI
-Academic Year: 2016-2017
-
-Subject: Introduction to Cloud Computing
-Marks: 60
-Date: 15 May 2017 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-No. of Pages: _2—
-Final Examinations (Batch 2016-2017)/
-Re-Examination (Batch 2015-2016)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory. _
-
-2) Out of remaining questions, attempt any 4 questions. :
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Q. 1) . .
-
-a) A cloud service provider has following resources in the resource pool: [3 x2 marks each = 06]
-Compute systems — 3 systems with processing power of 5000 MHz and memory capacity of 10 GB each,
-Storage system — 3 drives with storage space of 1000 GB each
-
-Network system — 3 NIC having bandwidth of 1000 Mbps each
-
-Draw the resource allotted to the consumers based on requirements as mentioned below
-
-i) Compute Systems [2 marks]
-Consumer A — Processing power = 6000 MHz, Memory capacity= 10 GB
-
-Consumer B - Processing power = 9000 MHz, Memory capacity= 15 GB
-
-ii) Storage Systems: [2 marks]
-Consumer A - 900 GB, Consumer B — 1000 GB, Consumer — 500 GB
-iii) Network System [2 marks]
-
-Consumer A — 900 Mbps, Consumer B — 600 Mbps, Consumer C — 300 Mbps ©
-
-/
---- page 2 ---
-aN
-
-- Ql
-b) Draw an orchestration flowchart showing the steps when a consumer logs on to the cloud portal and
-requests for a customer relationship management (CRM) software as a service from the service catalog.
-The CRM software has dependency on MySQL database and PHP modules. The CRM application and
-MySQL are hosted on different VMs that are interconnected via a VLAN. [06]
-
-Q.2)
-A cloud service provider is facing disruption of services and poor service quality due to lots of incidents.
-a) Draw a neat labelled workflow chart explaining the steps taken by the incident mariagement team to
-
-handle such incidents detected by the incident management tool deployed in cloud. _ [06]
-b) Draw a neat labelled workflow chart explaining the steps taken by the problem management team to
-
-identify the cause and resolve the problem permanently. [06]
-Q.3)
-
-A global retail giant using cloud wants to ensure high availability to all customers regardless of their
-location. Suggest the best design for high availability along with an automated service failover across
-zones for this retailer. [12]
-
-Q.4) .
-
-a) Elaborate the measures that consumers and cloud providers should take to avoid legal, licensing,
-compliance, service-level problems. [06]
-b) Summarize the key compute resource management techniques that would help optimize resource
-utilization, improve performance and ensure meeting service levels. - [06]
-
-Q.5) .
-A bank operating on cloud wishes to enable operational recovery and disaster recovery for all mission
-critical applications. List the components used. With the help of a neat labelled diagram explain the steps
-
-to achieve it. ; [12]
-Q.6) Discuss the following key security mechanisms: (4x3 marks each = 12]
-i) OAuth
-
-ii) Kerberos
-iii) Challenge Handshake Authentication protocol
-iv) OpenID
-
-Q.7) Difference between ’ [3x4 marks each = 12]
-i) Bare Metal Hypervisor and Hosted Hypervisor
-
-ii) Block Level and File Level storage systems
-
-iii) Forklift and Hybrid Migration
-````
-
 ## 2015-16 · Re-Exam · Sem 6 · paper 44bbb2411844
 
 - Departments: Information Technology
@@ -2540,116 +2652,4 @@ Q.7 Write short note on : [20]
 x
 
 x
-````
-
-## Year not stated · Exam not stated · paper ffc8a89a809a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/INTRODUCTION TO CLOUD COMPUTING/Introduction to Cloud Computing.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 19/06/2023
-- Text: ocr (2 pages), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
-
-Academic Year: 2022-2023
-
-Program: MBA Tech Stream: Computer Engineering Year: [V Semester: VII
-
-Subject: Introduction to Cloud Computing Time: 03 hrs (14:00 arm tp 2:00 pm)
-Date:19/06/2023 No. of Pages: 02
-
-Marks: 100
-
-Special Re-examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-c 2) Out ofremaining questions, attempt any 4 questions.
-3) Inall 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. ;
-Ql
-Answer briefly: [20]
-ae 3° a. Explain Software as a Service and list the SaaS characteristics. [5]
-CO-4,SO- |b. ; . . .
-1 Differentiate between Bare metal hypervisor and hosted hypervisor. [5]
-BL-4
-CO-4, SO- | c. Summarize different services provided by $3. [5]
-o 1, BL-2
-CO-1, SO- | d. Discuss limitations/ disadvantages of Cloud. {5]
-4, BL-2
-Q2 a.
-CO-2,SO- Describe the different types of cloud deployment models with example. [10]
-1,
-BL-1
-eis b. Justify importance of digital signature in cloud computing. Explain working of 10
-; digital signature and advantages of it. Lh}
-BL-5
-Q3 a. Draw a neat labeled diagram of layered architecture of NIST Model. Explain [10]
-CO-2; SO- in depth the role and responsibilities of cloud provider.
-1; BL-3
---- page 2 ---
-CO-4; SO- | b. Design the implementation of automated service failover across zones..in cloud [10]
-
-2;BL-6 computing.
-
-Q4 a.
-
-CO-3; SO- Justify importance of virtualization in cloud computing and explain full [10]
-
-l: virtualization and para virtualization with diagram.
-
-BL-S
-
-CO-4; SO- |b.
-
-1; Propose a cloud- based model for developing a rural healthcare system. [10]
-
-BL-6
-
-Q5 a.
-
-CO-4; SO- | , Explain business continuity and list the reasons for service unavailability and its [10]
-
-1; impact.
-
-BL-2
-
-a. SO- |b. Draw the general structure of DES. Summarize steps present in DES algorithm. [10]
-
-BL-3 Mention block size, cipher key size and round-key size in DES.
-
-Q6 a.
-
-CO-3; SO- Discuss in detail Hardware-assisted Virtualization along with its pros and cons. [10]
-
-1,
-
-BL-2
-
-CO-1;SO- | b.
-
-1; Illustrate any two use cases of Infrastructure-as-a Service (IaaS) model in detail. [10]
-
-BL-2
-
-Q7 a. Illustrate working of public key cryptography by using diagram. You intercept the
-ciphertext C =10 sent to a user whose public key is e=5, n=35.Calculate plaintext [10]
-
-CO-3, SO- M?
-
-2, BL-4 :
-
-FOO. |b. Explain the working of data protection method ‘backup’ in detail. [10]
-
-1, BL-2
 ````

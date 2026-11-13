@@ -645,6 +645,7 @@ RK KKK RK KK 16 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Mathematics-II/ANS_Mathematics-II(701BS0C030)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
 - Text: mixed (13 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -714,7 +715,6 @@ Fondana Continuous ok yal.
 Pim FOR) = bing 50 = S® = Bek [2]
 eek: wo ro eee [4]
 : ie ia ae |
-ve dink fi) - on Weg Le a
 RAV ae
 i: ail _- | 2
 
@@ -1110,9 +1110,7 @@ Lon @ thc 3 zl ay ay yack)
 N30 w QS
 ae
 [2]
-= Mena O\ a dian ae Ss FA CTLy anal ag
 ese x m0 yy. MN we
-= log@ sluob. +loyC - “dogahe sl fia
 U 0* U* g* as.
 6)
 a) | Step 1: First Derivative
@@ -1223,6 +1221,7 @@ FIR ICR 7] QI HO
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Mathematics-II/ANS_Mathematics-II(701BS0C030)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
 - Text: mixed (13 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1292,7 +1291,6 @@ Fondana Continuous ok yal.
 Pim FOR) = bing 50 = S® = Bek [2]
 eek: wo ro eee [4]
 : ie ia ae |
-ve dink fi) - on Weg Le a
 RAV ae
 i: ail _- | 2
 
@@ -1688,9 +1686,7 @@ Lon @ thc 3 zl ay ay yack)
 N30 w QS
 ae
 [2]
-= Mena O\ a dian ae Ss FA CTLy anal ag
 ese x m0 yy. MN we
-= log@ sluob. +loyC - “dogahe sl fia
 U 0* U* g* as.
 6)
 a) | Step 1: First Derivative
@@ -1801,6 +1797,7 @@ FIR ICR 7] QI HO
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/Mathematics-II/ANS_Mathematics-II(701BS0C030)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
 - Text: mixed (13 pages), mean OCR confidence 68.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1870,7 +1867,6 @@ Fondana Continuous ok yal.
 Pim FOR) = bing 50 = S® = Bek [2]
 eek: wo ro eee [4]
 : ie ia ae |
-ve dink fi) - on Weg Le a
 RAV ae
 i: ail _- | 2
 
@@ -2266,9 +2262,7 @@ Lon @ thc 3 zl ay ay yack)
 N30 w QS
 ae
 [2]
-= Mena O\ a dian ae Ss FA CTLy anal ag
 ese x m0 yy. MN we
-= log@ sluob. +loyC - “dogahe sl fia
 U 0* U* g* as.
 6)
 a) | Step 1: First Derivative
@@ -2379,6 +2373,7 @@ FIR ICR 7] QI HO
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Mathematics-II/ANS_Mathematics-II(701BS0C030)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Jul 2025
 - Text: mixed (12 pages), mean OCR confidence 62.0
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2450,13 +2445,11 @@ AB xP 4 5x2 = 18x Q4 +24 -54 fe)
 alim fe-3) (2-2) = Lim (eax)
 
 = 1
-BB se ay 18) eA ne 2+ 62-34-18) OI
 : [4]
 =k ~w-2 es) = a M-Q im
 X93 ~>e ( x +6) (x-3) >3 x(x+b)
 = Qsiiien ost |
 Lae re x -52x+h a
-_ XR we + xt =z Qt
 ” Check Continuity at *=>:
 lim f(x) = lim (ax+1) =lim {a(3-h) +1} =lim(3a—ah +1)=3a+1
 [2]
@@ -2564,7 +2557,6 @@ Therefore, there are BC, ways of choosing 1 card from 13 cards of diamond,
 card from 13 cards of clubs, °C, ways of choosing 1 card from 13 cards of [2]
 
 spades. Hence, by multiplication principle, the required number of ways
-= BO, x BO, x Bex Be, = 134
 1 1 1 1
 ili)
 There are 26 red cards and 26 black cards. Therefore, the required number of
@@ -2705,7 +2697,6 @@ i) : : ; :
 FIC 7 IC OHH
 --- page 8 ---
 fins @-/\+@te) = bin A-1- @lO TAL
-sally. j—Cato gale \~Cok®
 — fis 1-0 lens (te) (Tete:
 Bar cot 8 ear, Cetop 5
 = \elee 9 air: Onn Le
@@ -2785,18 +2776,15 @@ c) | i) .
 LiF -Ut=8t) tin (UP = Gas)
 io Gar he) yA ook i Gon ae [2]
 Wa   Ghal— gt-ak +t
-= Vom Gan) ATats )- yer
 WD yt 7
 f. ae ~ ay _ {my 4 [8]
 = lin (Yet) 2 =) ~ lw [Ghy | afd s |
 jvo Se yoo |e J weoley
 = =~ [2]
-= wig togs kth Eek
 ii) G :
 
 FRR ICR 7 OI HOH
 --- page 11 ---
-Lok ‘Meath Ushon Lea h=0
 
 Min
 er loar- Joga _ sf
@@ -2948,6 +2936,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Mathematics-II/ANS_Mathematics-II(701BS0C030)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Jul 2025
 - Text: mixed (12 pages), mean OCR confidence 62.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3019,13 +3008,11 @@ AB xP 4 5x2 = 18x Q4 +24 -54 fe)
 alim fe-3) (2-2) = Lim (eax)
 
 = 1
-BB se ay 18) eA ne 2+ 62-34-18) OI
 : [4]
 =k ~w-2 es) = a M-Q im
 X93 ~>e ( x +6) (x-3) >3 x(x+b)
 = Qsiiien ost |
 Lae re x -52x+h a
-_ XR we + xt =z Qt
 ” Check Continuity at *=>:
 lim f(x) = lim (ax+1) =lim {a(3-h) +1} =lim(3a—ah +1)=3a+1
 [2]
@@ -3133,7 +3120,6 @@ Therefore, there are BC, ways of choosing 1 card from 13 cards of diamond,
 card from 13 cards of clubs, °C, ways of choosing 1 card from 13 cards of [2]
 
 spades. Hence, by multiplication principle, the required number of ways
-= BO, x BO, x Bex Be, = 134
 1 1 1 1
 ili)
 There are 26 red cards and 26 black cards. Therefore, the required number of
@@ -3159,11 +3145,9 @@ ek 2 Tlons gla). liga "
 Ce Oe ps
 lao . (I
 
-mab Fe) aowlnn OO) gel dLoga
 
 Wot AO em 7
 kins O02 Mies J) = logo. The
-awe Wot ma roa eee
 function iw toatinuous of %= 0 e
 I wes Fi . P Le ' Z ASS
 |i) [8]
@@ -3274,7 +3258,6 @@ i) : : ; :
 FIC 7 IC OHH
 --- page 8 ---
 fins @-/\+@te) = bin A-1- @lO TAL
-sally. j—Cato gale \~Cok®
 — fis 1-0 lens (te) (Tete:
 Bar cot 8 ear, Cetop 5
 = \elee 9 air: Onn Le
@@ -3360,12 +3343,10 @@ f. ae ~ ay _ {my ve [8]
 = lin [Yet 2 =) ~ lw [ahs | afd s |
 qjsvo Se yoo ke Jollee
 a =~ [2]
-= wig togs kth _ Eek
 ii) G
 
 FRR ICR 7 OI HOH
 --- page 11 ---
-Lok ‘Meath Ushon Lea h=0
 
 Min
 er loar- Joga _ sf
@@ -3517,6 +3498,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Mathematics-II/ANS_Mathematics-II(701BS0C030)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Jul 2025
 - Text: mixed (12 pages), mean OCR confidence 62.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3588,13 +3570,11 @@ AB xP 4 5x2 = 18x Q4 +24 -54 fe)
 alim fe-3) (2-2) = Lim (eax)
 
 = 1
-BB se ay 18) eA ne 2+ 62-34-18) OI
 : [4]
 =k ~w-2 es) = a M-Q im
 X93 ~>e ( x +6) (x-3) >3 x(x+b)
 = Qsiiien ost |
 Lae re x -52x+h a
-_ XR we + xt =z Qt
 ” Check Continuity at *=>:
 lim f(x) = lim (ax+1) =lim {a(3-h) +1} =lim(3a—ah +1)=3a+1
 [2]
@@ -3702,7 +3682,6 @@ Therefore, there are BC, ways of choosing 1 card from 13 cards of diamond,
 card from 13 cards of clubs, °C, ways of choosing 1 card from 13 cards of [2]
 
 spades. Hence, by multiplication principle, the required number of ways
-= BO, x BO, x Bex Be, = 134
 1 1 1 1
 ili)
 There are 26 red cards and 26 black cards. Therefore, the required number of
@@ -3728,11 +3707,9 @@ ek 2 Tlons gla). liga "
 Ce Oe ps
 lao . (I
 
-mab Fe) aowlnn OO) gel dLoga
 
 Wot AO em 7
 kins O02 Mies J) = logo. The
-awe Wot ma roa eee
 function iw toatinuous of %= 0 e
 I wes Fi . P Le ' Z ASS
 |i) [8]
@@ -3843,7 +3820,6 @@ i) : : ; :
 FIC 7 IC OHH
 --- page 8 ---
 fins @-/\+@te) = bin A-1- @lO TAL
-sally. j—Cato gale \~Cok®
 — fis 1-0 lens (te) (Tete:
 Bar cot 8 ear, Cetop 5
 = \elee 9 air: Onn Le
@@ -3929,12 +3905,10 @@ f. ae ~ ay _ {my ve [8]
 = lin [Yet 2 =) ~ lw [ahs | afd s |
 qjsvo Se yoo ke Jollee
 a =~ [2]
-= wig togs kth _ Eek
 ii) G
 
 FRR ICR 7 OI HOH
 --- page 11 ---
-Lok ‘Meath Ushon Lea h=0
 
 Min
 er loar- Joga _ sf

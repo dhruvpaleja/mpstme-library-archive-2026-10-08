@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/ADVANCED WEB PROGRAMMING/Advanced Web Programming, Sem-VI, Final Exam 2024-25 & Re Exam 2024-25.pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 91.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -89,7 +90,6 @@ and Time
 CO- 1; Cochin ,
 50-2 7 1600 | LTT Karanatak, 15 CST ,16 sep | chiplun and
 , 7 | Special sep ,16:40PM 05:00 AM CSE 10
-BL-1 & 2 1888 | Tejas Ratnagairi,15 CST ,16sep | Chiplun ,khed
 8 | Express Sep 18:00 PM 04:00 AM and Panvel
 1890 | cochin
 0 | Express Cancelled
@@ -97,10 +97,8 @@ BL-1 & 2 1888 | Tejas Ratnagairi,15 CST ,16sep | Chiplun ,khed
 *Display the Mountain Railways of India is made up of the following ordered
 list with upper case roman numbers.
 
-I.Darjeeling Himalayan Railways (DHR) - inscribed by UNESCO in 1999,
 II.Nilgiri Mountain Railways (NMR) inscribed in 2005.
 
-III.Kalka Shimla Railway (KSR) inscribed in 2008.
 
 Internal Page 2:- choice between Q2 and Q6; pick any one of them.
 Internal Page 2 — Passenger Registration Form [10M]
@@ -630,6 +628,103 @@ Employee.
 4/4
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 1b04019fb0bc
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/ADVANCED WEB PROGRAMMING/Advanced Web Programming.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech Stream : Computer Year: III Semester: VI
+
+Subject: Advanced Web Programming Time: 3 hrs (2: @opmto 51G0pm)
+
+Date:_02 (Mog! 2023.. No. of Pages:02
+
+Marks: 100
+
+Re-Examination (Batch 2021-22 )
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. .
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: [20]
+CO-1;SO- | a. ; ;
+1; Explain the use of $scope in AngularJS.
+BL-2
+CO-3 ;SO- | b. . . . oo.
+1; Explain the advantages of using Ajax in web applications?
+BL-1
+CO-2;SO- |e. ; ;
+2; Differentiate between JSON and XML.
+BL-2
+CO-1;SO- | d. . a —
+1; Demonstrate the role of the ng-app directive in an Angular application?
+BL-2
+a. Create angular JS form consisting First_name, Last_name, radio button
+2
+S for gender, checkbox for different Subjects and submit and cancel button.
+CO-1; SO- ; [20]
+1,2,7; Perform the following constraints on the form
+BL-2,3
+
+a. Accept the form only after all the fields are valid
+--- page 2 ---
+b. The first name and last name should accept minimum 4 characters
+and maximum 26 characters otherwise populate message too small
+and too big.
+
+c. The submit button gets enabled only if the form contains valid data.
+
+Note: AnglarJS directives validation should be used
+b. Explain MVC in AngularJs.
+
+a. Create an XML file that represents a list of books. Each book should
+
+Q3 have a title, author, and publication date. Write AJAX code to read the
+
+CO-2; SO- above xml file and print details for all the books in HTML table. [20]
+1,2,7; BL- 7 , . : a
+
+23 b. Explain the process of creating a basic web server in Node.js using the
+
+HTTP module.
+
+Q4 a. Explain the difference between one-way binding and two-way binding in
+CO-1; SO- AngularJS. [20]
+ee b. Write a script to create a file and write data to it using the fs module.
+
+a. Write an AngularJS program which has check box and edit fields. When
+Q5 the checkbox is checked, the edit fields are visible. When it is not
+So. checked, the edit fields are hidden. Use ng-model and ng-show [20]
+BL-1,2 Assume necessary details.
+
+b. Differentiate between Mongo DB and RDBMS.
+oe a. Explain the difference between synchronous and asynchronous Ajax
+CO-1,3; requests. [20]
+ats b. Explain Dependency Injection in AngularJS
+````
+
 ## 2021-22 · Re-Exam · Sem 6 · paper 0d7a55a69120
 
 - Departments: Computer Engineering
@@ -741,101 +836,4 @@ BL-f;2 c. Exception handling in node JS
 d. MongoDB-Insert Document
 
 2/2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 1b04019fb0bc
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/ADVANCED WEB PROGRAMMING/Advanced Web Programming.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech Stream : Computer Year: III Semester: VI
-
-Subject: Advanced Web Programming Time: 3 hrs (2: @opmto 51G0pm)
-
-Date:_02 (Mog! 2023.. No. of Pages:02
-
-Marks: 100
-
-Re-Examination (Batch 2021-22 )
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. .
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql .
-Answer briefly: [20]
-CO-1;SO- | a. ; ;
-1; Explain the use of $scope in AngularJS.
-BL-2
-CO-3 ;SO- | b. . . . oo.
-1; Explain the advantages of using Ajax in web applications?
-BL-1
-CO-2;SO- |e. ; ;
-2; Differentiate between JSON and XML.
-BL-2
-CO-1;SO- | d. . a —
-1; Demonstrate the role of the ng-app directive in an Angular application?
-BL-2
-a. Create angular JS form consisting First_name, Last_name, radio button
-2
-S for gender, checkbox for different Subjects and submit and cancel button.
-CO-1; SO- ; [20]
-1,2,7; Perform the following constraints on the form
-BL-2,3
-
-a. Accept the form only after all the fields are valid
---- page 2 ---
-b. The first name and last name should accept minimum 4 characters
-and maximum 26 characters otherwise populate message too small
-and too big.
-
-c. The submit button gets enabled only if the form contains valid data.
-
-Note: AnglarJS directives validation should be used
-b. Explain MVC in AngularJs.
-
-a. Create an XML file that represents a list of books. Each book should
-
-Q3 have a title, author, and publication date. Write AJAX code to read the
-
-CO-2; SO- above xml file and print details for all the books in HTML table. [20]
-1,2,7; BL- 7 , . : a
-
-23 b. Explain the process of creating a basic web server in Node.js using the
-
-HTTP module.
-
-Q4 a. Explain the difference between one-way binding and two-way binding in
-CO-1; SO- AngularJS. [20]
-ee b. Write a script to create a file and write data to it using the fs module.
-
-a. Write an AngularJS program which has check box and edit fields. When
-Q5 the checkbox is checked, the edit fields are visible. When it is not
-So. checked, the edit fields are hidden. Use ng-model and ng-show [20]
-BL-1,2 Assume necessary details.
-
-b. Differentiate between Mongo DB and RDBMS.
-oe a. Explain the difference between synchronous and asynchronous Ajax
-CO-1,3; requests. [20]
-ats b. Explain Dependency Injection in AngularJS
 ````

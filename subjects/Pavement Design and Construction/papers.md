@@ -1,6 +1,6 @@
 # Pavement Design and Construction: question papers in full
 
-14 unique papers · 2013-14 to 2025-26 · Civil
+13 unique papers · 2013-14 to 2025-26 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -149,6 +149,237 @@ Temperature stress at edge
 Figure 2 Charts & Tables for Q. 5) a)
 
 FIC 7) IC HOH
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper c902f6835a84
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/PAVEMENT DESIGN AND CONSTRUCTION/Pavement Design and Construction, Sem VIII, Batch 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09-05-2025
+- Text: ocr (4 pages), mean OCR confidence 83.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025 -
+
+Program: B Tech Year: [V Semester: VIII
+Stream: Civil Engineering
+
+Subject: Pavement Design and Construction Time: 03 hrs. (2: oop mto5200pH)
+Date: 09-05-2025 No. of Pages: 4
+
+Marks: 100.
+
+Re-Examination (2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempi any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: . [20]
+CO- 2; a. Draw the typical cross section of the highway and name all its layers stating the
+
+SO- 7; :
+
+BL-2 function of each.
+
+86n3 b. Explain the Burmister’s Two-Layer Theory used for analysis of stresses in flexible
+
+So- 7: pavements with a diagram representing the layers in it and state the formula for
+
+BL- 5 estimating the deflection by using this method.
+
+CO- 4; c. Discuss the input parameters for concrete mix design.
+
+SO- 4;
+
+BL-5
+
+CO- 4; d. Explain ‘Bituminous Surface Treated Roads’ constructed under low-cost
+
+SO- 4; :
+
+BL-2 road project.
+
+Q2 a. Discuss the Geometrical and Climatic factors affecting the design of pavements [10]
+CO-1;
+
+SO- SO1;
+
+BL- 4
+
+Q2 b. The modulus of elasticity of a pavement layer is 150 MN/ m? and that of the | [10]
+CO-1; subgrade is 30 MN/ m”, then design the thickness of a flexible pavement using
+
+sg Burmister's theory if, pavement will carry a wheel load of 40KN and a tire pressure
+
+of 0.5 MN/ m’. Displacement factor ‘Fw’ can be calculated from Figure 1.
+
+Page 1 of 4
+--- page 2 ---
+RADIUS
+
+red UNIFORM INTENSITY OF LOADING P
+GL AA,
+ft PAVEMENT LAYER
+i MODULUS OF ELASTICITY E,
+ze ' SUBGRADE, SEMLNFINITE LAYER
+PERFECTLY ROUGH MODULUS OF ELASTICITY, E,,
+INTERFACE
+1
+0-6 =
+ae
+> 0% ——
+203
+8 0-2 NN \Ss a ————
+ANNSSS=
+E 0-1 SSS > ee
+ic N
+2008 SSS
+20:04 LI
+5 0-03 Be oe —>
+0-02 > —
+0 G5a ta 15q 2a Ja i a
+Thickness of top layer q 5a 6a
+Figure 1
+Q3 a. Discuss the Corps of Engineers Method for Flexible Airfield Pavement with | [10]
+CO-2; respect to following points:
+SO-4; (a) selection of CBR of subgrade (b) sub-base (c) surface thickness.
+BL-5
+Q3 b. Explain the details of longitudinal joint with a neat sketch. [10]
+CO-4;
+SO-1;
+BL-4
+Q4 a. Explain ‘Asphalt Institute’ Method for design of flexible airfield pavements. [10]
+CO-2;
+SO-1;
+BL- 5
+Q4 b. Explain Falling Weight Deflectometer with its construction features and working. [10]
+CO-3; Support your answer with a neat sketch.
+SO- 4;
+BL-5
+
+Page 2 of 4
+--- page 3 ---
+Q5 a. Discuss the following types of overlays with neat sketches for each of the types: [10]
+
+CO-2; (i) Bonded, (ii) Partially Bonded, and (iii) Unbonded Overlays
+
+SO-7;
+
+BL-2 : . ;
+
+Q5 b. Check the adequacy of design for 20 cm thick top slab of a cement [10]
+CO-4; concrete pavement for the following conditions: - (Refer Figure 2
+
+SO-4; Charts & Table)
+
+BL-5 (i) Contraction Joint Spacing= 5.0 m
+
+(ii) Lane Width= 4.0 m
+
+(iii) Design Wheel Load= 4200 Kg
+
+(iv) Temperature Variation= 15° C
+
+(v) Modulus of Subgrade Reaction (k) = 8.0 Kg/cm?
+(vi) Concrete Flexural Strength= 40 Kg/cm?
+
+(vii) E=3 x 10° Kg/em? (viii) w= 0.15 (ix) a= 10 x 10°6/ °C
+Corner load stress design parameters Edge load stress design parameters
+50p E=3x 10° Kg/em’, p= 0.15 50 E=3x 10° Kgfem’, p= 0.15
+
+K= 30kg/cm?
+
+40F
+= ae
+Sash ge?
+a0 a 30
+3 rd
+aa I WN S20
+° 20
+25h ™ 2 15
+2 10h & 10
+$5 as
+Ob Olu
+ig 16 83022 2h ve 18 18 20-22-22
+Slab thickness, h(cm) Slab thickness, hem)
+Load Stresses
+
+40
+
+‘Edge temperature stress
+
+design Deas Lise s CHART FOR DETERMINATION OF COEFFICIENT; ¢
+
+_ 354 &23x105Kg/em' aS)
+£30 Se
+3 S WA WA
+S64 AS i 0.000 1 1.030
+eae y 2 0.040 a 1.077
+¥ oo 8 0.17 9 1.080
+2204 S 4 0.440 10 1.075
+a oe 5 0.720 11 1.050
+8 f 6 0.920 12 1000 |
+2 154 BO.
+E
+3 3°
+£104
+2 020
+©
+oa ont9
+a
+
+6 . C=0
+
+ty) 5 10 15 20 25
+
+Temperature differential At Cc)
+Temperature stress at edge
+
+Figure 2 Charts & Tables
+
+Page 3 of 4
+--- page 4 ---
+Q6 a. Discuss the necessity of pavement evaluation and explain visual rating method of [10]
+
+CO-1; pavement evaluation.
+SO-7; :
+BL- 2
+
+Q6 b. Explain the ‘Target Strength’ & ‘Workability’ required for mix design. [10]
+
+CO-4;
+SO-7;
+BL-3
+
+Q7 a. Explain ‘Gravel / Moorum Roads’ used as low-cost roads. [10]
+CO-4;
+SO-4;
+BL-3
+
+Q7 b. | Discuss the features, applications, and capacities of ‘Vibratory Road Roller.’ [10]
+
+CO-1;
+SO-7;
+BL-3
+
+Page 4 of 4
 ````
 
 ## 2023-24 · Final-Exam · Sem 6 · paper 2a67f39ba3d0
@@ -381,6 +612,7 @@ Page 40f 4
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/PAVEMENT DESIGN AND CONSTRUCTION/Pavement Design and Construction Batch 2023-24 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2024
 - Text: ocr (4 pages), mean OCR confidence 76.4
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -490,7 +722,6 @@ z — i
 
 = 300 = ¥ ae 3
 Vv \ ' Ls of
-= i TT a. oe Ley cs
 r —1 _ os
 w 200 eo La
 “ —— nt
@@ -502,7 +733,6 @@ a ne ej
 
 pL ON SOILS LESS THA ire oe 0
 
-oor 00k Ot O20 ciple nea tesnhl _
 
 CUMULATIVE NUMBER OF ST
 
@@ -555,7 +785,6 @@ SURFATNG ©
 dg
 FOR TRAFFIC OVER 11 MALLION STANDARD AXLES,
 MATERULS WV EXCESS OF 100 mm MAY SE
-BITUMAOUS ROADBASE MATERA: TO FORM
 COMPOSITE ROADBASE
 
 a
@@ -602,35 +831,32 @@ Page 40f4
 pon
 ````
 
-## 2023-24 · Re-Exam · Sem 8 · paper c902f6835a84
+## 2022-23 · Exam not stated · Sem 7 · paper 418dd3e662e2
 
 - Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/PAVEMENT DESIGN AND CONSTRUCTION/Pavement Design and Construction, Sem VIII, Batch 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09-05-2025
-- Text: ocr (4 pages), mean OCR confidence 83.2
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/PAVEMENT DESIGN AND CONSTRUCTION/Pavement Design and Construction.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 90.5
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025 -
+SVKM’S NMIMS A
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2022-2023
+Program: B Tech/MBA Tech Stream: Civil ce . Year: IV Semeur: VIL
 
-Program: B Tech Year: [V Semester: VIII
-Stream: Civil Engineering
+Subject: Pavement Design and Construction Time: 3 hrs. @itooamto 2:00 pm )
+Date:_20 /06 / 23 : No. of Pages: 2
+Marks: 100
 
-Subject: Pavement Design and Construction Time: 03 hrs. (2: oop mto5200pH)
-Date: 09-05-2025 No. of Pages: 4
-
-Marks: 100.
-
-Re-Examination (2023-24)
+Special Re- Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
 1) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempi any 4 questions.
+2) Out of remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
@@ -641,197 +867,66 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql Answer briefly: . [20]
-CO- 2; a. Draw the typical cross section of the highway and name all its layers stating the
-
-SO- 7; :
-
-BL-2 function of each.
-
-86n3 b. Explain the Burmister’s Two-Layer Theory used for analysis of stresses in flexible
-
-So- 7: pavements with a diagram representing the layers in it and state the formula for
-
-BL- 5 estimating the deflection by using this method.
-
-CO- 4; c. Discuss the input parameters for concrete mix design.
-
+Qi Answer briefly: [20]
+CO-1; SO- | a. Draw the cross section of pavement and explain the role of every component in the
+a 3 performance of pavement.
+CO- 2; b. Explain ‘ES WL’ and ‘EWLF.’
 SO- 4;
-
-BL-5
-
-CO- 4; d. Explain ‘Bituminous Surface Treated Roads’ constructed under low-cost
-
-SO- 4; :
-
-BL-2 road project.
-
-Q2 a. Discuss the Geometrical and Climatic factors affecting the design of pavements [10]
-CO-1;
-
-SO- SO1;
-
 BL- 4
-
-Q2 b. The modulus of elasticity of a pavement layer is 150 MN/ m? and that of the | [10]
-CO-1; subgrade is 30 MN/ m”, then design the thickness of a flexible pavement using
-
-sg Burmister's theory if, pavement will carry a wheel load of 40KN and a tire pressure
-
-of 0.5 MN/ m’. Displacement factor ‘Fw’ can be calculated from Figure 1.
-
-Page 1 of 4
---- page 2 ---
-RADIUS
-
-red UNIFORM INTENSITY OF LOADING P
-GL AA,
-ft PAVEMENT LAYER
-i MODULUS OF ELASTICITY E,
-ze ' SUBGRADE, SEMLNFINITE LAYER
-PERFECTLY ROUGH MODULUS OF ELASTICITY, E,,
-INTERFACE
-1
-0-6 =
-ae
-> 0% ——
-203
-8 0-2 NN \Ss a ————
-ANNSSS=
-E 0-1 SSS > ee
-ic N
-2008 SSS
-20:04 LI
-5 0-03 Be oe —>
-0-02 > —
-0 G5a ta 15q 2a Ja i a
-Thickness of top layer q 5a 6a
-Figure 1
-Q3 a. Discuss the Corps of Engineers Method for Flexible Airfield Pavement with | [10]
-CO-2; respect to following points:
-SO-4; (a) selection of CBR of subgrade (b) sub-base (c) surface thickness.
-BL-5
-Q3 b. Explain the details of longitudinal joint with a neat sketch. [10]
-CO-4;
-SO-1;
+CO- 3; G: Discuss the ‘Visual Rating’ used for pavement evaluation.
+SO- 6;
+in BL-4
+CO- 4; d. Illustrate the basic data needed for mix design.
+SO- 2;
 BL-4
-Q4 a. Explain ‘Asphalt Institute’ Method for design of flexible airfield pavements. [10]
-CO-2;
-SO-1;
-BL- 5
-Q4 b. Explain Falling Weight Deflectometer with its construction features and working. [10]
-CO-3; Support your answer with a neat sketch.
-SO- 4;
-BL-5
+Q2 a. Describe the ‘Factors affecting design of pavements’
+CO-2; SO-
+7;
+BL-3
+Q2 b. Discuss the current Indian Practice for distribution of commercial traffic load [10]
+CO-2; SO- depending on number of lanes explaining vehicle damage factor.
+4;
+BL-4
+Q3 a. Explain Burmister’s ‘Two-Layer’ Theory with a neat sketch and state the [10]
+CO-2; SO- assumptions in the theory.
+1; BL-4
 
-Page 2 of 4
---- page 3 ---
-Q5 a. Discuss the following types of overlays with neat sketches for each of the types: [10]
+Page 1 of 2
+--- page 2 ---
+?
 
-CO-2; (i) Bonded, (ii) Partially Bonded, and (iii) Unbonded Overlays
+Q3 b. Explain the step-by-step procedure of design of pavements using ‘Three-Layer [10]
 
-SO-7;
-
-BL-2 : . ;
-
-Q5 b. Check the adequacy of design for 20 cm thick top slab of a cement [10]
-CO-4; concrete pavement for the following conditions: - (Refer Figure 2
-
-SO-4; Charts & Table)
-
-BL-5 (i) Contraction Joint Spacing= 5.0 m
-
-(ii) Lane Width= 4.0 m
-
-(iii) Design Wheel Load= 4200 Kg
-
-(iv) Temperature Variation= 15° C
-
-(v) Modulus of Subgrade Reaction (k) = 8.0 Kg/cm?
-(vi) Concrete Flexural Strength= 40 Kg/cm?
-
-(vii) E=3 x 10° Kg/em? (viii) w= 0.15 (ix) a= 10 x 10°6/ °C
-Corner load stress design parameters Edge load stress design parameters
-P= 5100 Kg, a= 15 cm P= 5100 Kg, a= 15cm -
-50p E=3x 10° Kg/em’, p= 0.15 50 E=3x 10° Kgfem’, p= 0.15
-
-K= 30kg/cm?
-
-40F
-= ae
-Sash ge?
-a0 a 30
-3 rd
-aa I WN S20
-° 20
-25h ™ 2 15
-2 10h & 10
-$5 as
-Ob Olu
-ig 16 83022 2h ve 18 18 20-22-22
-Slab thickness, h(cm) Slab thickness, hem)
-Load Stresses
-
-40
-
-‘Edge temperature stress
-
-design Deas Lise s CHART FOR DETERMINATION OF COEFFICIENT; ¢
-
-_ 354 &23x105Kg/em' aS)
-PS oca10x10°9/2C WHYS on c ou c
-£30 Se
-3 S WA WA
-S64 AS i 0.000 1 1.030
-eae y 2 0.040 a 1.077
-¥ oo 8 0.17 9 1.080
-2204 S 4 0.440 10 1.075
-a oe 5 0.720 11 1.050
-8 f 6 0.920 12 1000 |
-2 154 BO.
-E
-3 3°
-£104
-2 020
-©
-oa ont9
+CO-2; SO- Theory’
+2; BL-4 ;
+Q4 a. Explain the ‘Corps of Engineer’s’ method for design of flexible airfield [10]
+CO-2; SO- pavements.
 a
+Q4 b. Explain ‘CBR Method’ as specified by IRC -37 for design of flexible highway [10]
+CO-2; SO- pavements
+BL
+Q5 a. Explain the ‘Target Strength’ and ‘Workability’ required for mix design of [10]
+CO-4; SO- : concrete for pavement.
+BL .
+Q5 b. Explain step-by-step procedure of construction for ‘Earth Road’ with a neat [10]
+CO-4; SO- sketch for step.
+BL
+Q6 a. Explain the operations performed by tractor dozer and state its usual capacities. [10]
+CO-4; SO-
+4;
 
-6 . C=0
+. BL-4
+Q6 b. Explain the hot mix plant used for bitumen production required for bituminous [10]
+CO-4; SO- pavements.
+BL
 
-ty) 5 10 15 20 25
+Explain the following: [20]
+Q7 a. Vibratory Rollers
+1 cots SO- | p, Watering Equipment
+BL-3 e. All Weather Roads
+d. Low Cost Mettled Roads
 
-Temperature differential At Cc)
-Temperature stress at edge
-
-Figure 2 Charts & Tables
-
-Page 3 of 4
---- page 4 ---
-Q6 a. Discuss the necessity of pavement evaluation and explain visual rating method of [10]
-
-CO-1; pavement evaluation.
-SO-7; :
-BL- 2
-
-Q6 b. Explain the ‘Target Strength’ & ‘Workability’ required for mix design. [10]
-
-CO-4;
-SO-7;
-BL-3
-
-Q7 a. Explain ‘Gravel / Moorum Roads’ used as low-cost roads. [10]
-CO-4;
-SO-4;
-BL-3
-
-Q7 b. | Discuss the features, applications, and capacities of ‘Vibratory Road Roller.’ [10]
-
-CO-1;
-SO-7;
-BL-3
-
-Page 4 of 4
+Page 2 of 2
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 7 · paper 02035e06094d
@@ -961,6 +1056,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/PAVEMENT DESIGN AND CONSTRUCTION/Pavement Design & Construction, Sem-VI, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28/04/ 2023
 - Text: ocr (4 pages), mean OCR confidence 79.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -1169,7 +1265,6 @@ Edge temperature stress .
 l design pareserse CHART FOR DETERMINATION OF COEFFICIENT, C
 354 £23x10°Kg/em _ ;
 * | |
-E oc=10x108/2C Ul c it c |
 S304 & OR OR
 e Ss wa wi
 8 oad cy 1 0.000 7 1.030 |
@@ -1341,116 +1436,6 @@ C04, SO4, . : : .
 Page 2 of 2
 ````
 
-## 2022-23 · Re-Exam · Sem 8 · paper b3e0e31123a3
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/PAVEMENT DESIGN AND CONSTRUCTION/Pavement Management System, Sem-VIII, Year 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-Program: B. Tech./MBA Tech Year: IV Semester: VIII
-
-Stream: Civil
-
-Subject: Pavement Management System Time: 03 hrs. (10.00 a.m. to 1.00 p.m.)
-Date: 03]o7/2023 No. of Pages: 2
-
-Marks: 100
-
-Ret Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer, Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1
-) Answer briefly:
-CO- 1; SO- 7; | a) Define and distinguish between LCA and LCCA. [05]
-BL- 1
-CO- 2; b) Distinguish between the Concepts of Project Level and Network Level PMS. [05]
-SO- 4;
-BL- 4
-CO- 4: $0-7: c) Explain how variability in material characterization affect the design | [05]
-BL- 2 parameters and service life of pavement.
-_| CO- 4; SO-7; | d) Discuss the aspect of construction contributing to good pavement management. [05]
-BL- 3
-Q.2) a) Identify the causes and treatment which can be given to overcome these distress [10]
-CO- 1; SO- 4; og wa ;
-BL-4 (i) Bleeding (ii) Hungry Surface (iii) Edge cracking (iv) Map cracking
-Q.2) b) Distinguish between (i) Routine, (ii) Preventive and, (iii) Periodic Maintenance. [10]
-CO- 2; SO- 2;
-BL-6
-Analyze the following treatments assessed in PMS as alternative maintenance [20]
-Q.3) solutions. Analyze with reference to its composition, suitability, and any
-CO- 2; SO- 4; other features such as period after which they are provided or the
-BL-5 requirement of time to be left before opening the treated surface to traffic:
-
-(i) Slurry Seal (ii) Cheap seal
-
-Page 1 of 2
---- page 2 ---
-a
-
-Q.4) a) Discuss the requirements for establishing criteria for determining the present-and | [10]
-CO- 2; SO- 4; future.needs.of maintenance and repairs with graphical relationships. ail
-
-BL-4
-
-Q.4) b) Explain Mechanistic-Empirical model with different mathematical model forms. | [10]
-
-CO- 3; SO- 7;
-BL-3
-
-Q.5) a) Explain the following methods available for routine, preventive and periodic [10]
-
-CO- 4; SO-2; maintenance: modified bitumen, rejuvenating agents.
-BL- 6
-
-Q.5) b) Explain the uses and features of software HDM4. [10]
-
-CO- 3; SO-7;
-BL-4
-
-Q.6) a) Determine the levels at which deterioration prediction models can be applied. [10]
-
-CO- 4; SO- 4;
-BL-2
-
-Q.6) b) Explain the key performance indicators for ‘Pavement Research Management.’ [10]
-
-CO- 4; SO-4;
-BL-3
-
-Q.7) a) Discuss the steps in the implementation of PMS. [10]
-
-CO- 3; SO-4;
-BL-4
-
-Q.7) b) Discuss the concept of ‘Pavement Preservation’ giving proper examples. [10]
-
-CO- 3; SO-7;
-BL-3
-
-Page 2 of 2
-````
-
 ## 2018-19 · Final-Exam · Sem 8 · paper 38b787213204
 
 - Departments: Civil
@@ -1458,6 +1443,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/PAVEMENT DESIGN AND CONSTRUCTION/PAVEMENT_DESIGN_AND_CONSTRUCTION_B TECH (CIVIL), 2018-19_FINAL_EXAM_.pdf`
 - Printed on paper: exam date: 17 April 2019
 - Text: ocr (3 pages), mean OCR confidence 79.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1539,7 +1525,6 @@ Table 1 (for Q.2)
 Stress and strain factors in three-layered system
 
 (H = 2.0, K; = 20)
-bid yy Gn Oy yy Org bec Seg = Teg’ Ong Ty
 Ky204
 oi 0.50134 6.00968 0.00048 6.00103 0.00014 0.00068
 0.2 0.90533 0.03839 0.00192 0.06429 0.00055 9.00273
@@ -2103,102 +2088,4 @@ Temperature stress at edge.
 Charts & Tables for Q. 3) a) es
 
 Page 3 of 3
-````
-
-## Year not stated · Exam not stated · Sem 7 · paper 418dd3e662e2
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/PAVEMENT DESIGN AND CONSTRUCTION/Pavement Design and Construction.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-SVKM’S NMIMS A
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-Academic Year: 2022-2023
-Program: B Tech/MBA Tech Stream: Civil ce . Year: IV Semeur: VIL
-
-Subject: Pavement Design and Construction Time: 3 hrs. @itooamto 2:00 pm )
-Date:_20 /06 / 23 : No. of Pages: 2
-Marks: 100
-
-Special Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20]
-CO-1; SO- | a. Draw the cross section of pavement and explain the role of every component in the
-a 3 performance of pavement.
-CO- 2; b. Explain ‘ES WL’ and ‘EWLF.’
-SO- 4;
-BL- 4
-CO- 3; G: Discuss the ‘Visual Rating’ used for pavement evaluation.
-SO- 6;
-in BL-4
-CO- 4; d. Illustrate the basic data needed for mix design.
-SO- 2;
-BL-4
-Q2 a. Describe the ‘Factors affecting design of pavements’
-CO-2; SO-
-7;
-BL-3
-Q2 b. Discuss the current Indian Practice for distribution of commercial traffic load [10]
-CO-2; SO- depending on number of lanes explaining vehicle damage factor.
-4;
-BL-4
-Q3 a. Explain Burmister’s ‘Two-Layer’ Theory with a neat sketch and state the [10]
-CO-2; SO- assumptions in the theory.
-1; BL-4
-
-Page 1 of 2
---- page 2 ---
-?
-
-Q3 b. Explain the step-by-step procedure of design of pavements using ‘Three-Layer [10]
-
-CO-2; SO- Theory’
-2; BL-4 ;
-Q4 a. Explain the ‘Corps of Engineer’s’ method for design of flexible airfield [10]
-CO-2; SO- pavements.
-a
-Q4 b. Explain ‘CBR Method’ as specified by IRC -37 for design of flexible highway [10]
-CO-2; SO- pavements
-BL
-Q5 a. Explain the ‘Target Strength’ and ‘Workability’ required for mix design of [10]
-CO-4; SO- : concrete for pavement.
-BL .
-Q5 b. Explain step-by-step procedure of construction for ‘Earth Road’ with a neat [10]
-CO-4; SO- sketch for step.
-BL
-Q6 a. Explain the operations performed by tractor dozer and state its usual capacities. [10]
-CO-4; SO-
-4;
-
-. BL-4
-Q6 b. Explain the hot mix plant used for bitumen production required for bituminous [10]
-CO-4; SO- pavements.
-BL
-
-Explain the following: [20]
-Q7 a. Vibratory Rollers
-1 cots SO- | p, Watering Equipment
-BL-3 e. All Weather Roads
-d. Low Cost Mettled Roads
-
-Page 2 of 2
 ````

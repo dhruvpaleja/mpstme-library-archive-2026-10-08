@@ -1,6 +1,6 @@
 # Object Oriented Modeling and Design
 
-**25** unique papers (29 copies across programmes) · 2008-09 to 2022-23 · 3 programmes · Sem 4, Sem 6, Trim 4
+**24** unique papers (28 copies across programmes) · 2008-09 to 2018-19 · 3 programmes · Sem 4, Sem 6, Trim 4
 
 Download only this subject, sorted by academic year:
 
@@ -14,7 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / I T | Object Oriented Programming, Sem-IV, Final & Re Exam 2022-23.pdf |
 | 2018-19 | Final + Re-Exam | Question paper | Sem 6 | B TECH / I T, MBA TECH / I T | Object oriented analysis , Final 18-19,Re-exam 17-18.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 6 | B TECH / I T, MBA TECH / I T | Object oriented analysis...Re-exam 18-19.pdf |
 | 2017-18 | — | Question paper | Sem 6 | MBA TECH / I T | object oriented modeling and design 2017-18.pdf |

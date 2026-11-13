@@ -408,6 +408,7 @@ M
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Introduction to Soft Computing Techniques/Introduction to Soft Computing Techniques Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2025
 - Text: ocr (2 pages), mean OCR confidence 86.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -472,7 +473,6 @@ M types of learning paradigms, and how they are applied in real-world [10 M]
 
 scenarios. Provide examples to illustrate each principle.
 
-FR aR 7 a a kok ae ok ae ae
 --- page 2 ---
 CO-2; BL- |b. | Illustrate an example where K-Means Clustering can be applied in real-
 world scenarios, such as segmenting customers in an online store based [10 M]
@@ -517,7 +517,6 @@ H
 
 CO-1; BL- |b. | Directional Hypothesis and Non-Directional Hypothesis [10 My]
 
-He A a a ek a a ok a ae ok ke ke ae
 ````
 
 ## 2024-25 · Re-Exam · Sem 6 · paper cafea92ab07c

@@ -1171,207 +1171,6 @@ z 600 OOF 002 603 O04 O0F 006 O07 O08 0.09
 515°
 ````
 
-## 2023-24 · Final-Exam · Sem 7 · paper 10daa152535a
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/CONSTRUCTION PROJECT MANAGEMENT & FINANCE/Construction project mgmt & Finance ,Final 23-24.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 80.5
-
-````text
-SVKM’S NMIMS .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGIN
-Academic Year: 2022-2023
-
-Program/s: BTech / MBATech Stream/s ; Civil Year: IV Semester: VIL |
-
-Subject: Construction Project Management and Finance Time: 03(Three) hrs (10:00 am to 01:00 pm)
-Date:_#0/ 44/2023 , No. of Pages: 05
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql :
-
-Answer briefly [20]
-ee > fa. Elaborate on project life cycle with example and diagram. [05]
-SO-7
-BL-2
-So > |b. Explain the factors that influence the position of temporary services at site. [05]
-
-- 7; te
-
-BL-2 .
-CO-2; |e, Distinguish between CPM and PERT techniques for project scheduling. [05]
-SO-3 ; ‘
-BL-2
-co-3; |d. Explain Capital budgeting and enlist various capital budgeting techniques in | [05]
-ae construction project.
-Q2 a Define ‘Project’ and ‘Project Management’. What are the different phases ina | [10]
-CO-1; typical construction project. Explain each phase stating relevant example. =
-SO-7;
-BL-2
-
-{ Vs
---- page 2 ---
-Q2 b Following Table shows the activities, their interdependence and the [10]
-
-¥
-
-Co-2 duration.
-
-SO-2;
-
-BL-4 Activity | A B Cc D E F G H I
-Precedi | -- — | _|A B Cc D, |B H,F
-ng E
-activity
-
-Duratio | 3 5 4 2 3 9 8 7 9
-n days
-
-i) Draw A-O-A network
-ii) Work out Early start time, Early finish time, Latest start time,
-Latest finish time and float for all activites.
-
-iii) Identify the critical path and project duration.
-
-bd a What are the key features of the matrix organizational structure? Explain it po
-CO-1; .
-SO-7; with neat flow chart.
-BL-2
-Q3 b [10]
-cO-2: The following table shows the jobs of a network along with their time
-ne estimation.
-Job 1-2 [23 |24 [3-5 |45 |5-6~
-
-Optimistic time (days) to 1 2; 2 7 5 5
-
-Most likely time (days) tn | 7 14 4 10 5 3
-
-Pessimistic time (days) tp 13 26 8 19 17 9
-i) Draw the PERT network for the project.
-
-ii) Determine the Critical Path.
-iii) | Find the probability of the project completing in 41 days
-(Refer Z Table Pg 5)
-
-¥%
---- page 3 ---
-oo
-
-Q4 Elaborate on ‘Risk Management Process’. je [10]
-CO-1,;
-SO-7;
-BL-2
-Q4 Alternate 1: [10]
-CO-3; Initial purchase cost = Rs. 3,00,000
-SO-1; Annual operation and maintenance cost = Rs. 20,000
-Blt Expected salvage value = Rs. 1,25,000
-Alternate 2:
-Initial purchase cost = Rs. 2,00,000
-Annual operation and maintenance cost = Rs. 35,000
-Expected salvage value = Rs. 70,000
-The annual revenue to be generated from production of concrete (by
-concrete mixter) from Alternative 1 and Alternative 2 are Rs. 50,000 and
-45,000 respectively.
-i) Compute the equivalent present worth of both the alternatives
-at the rate of interest 10 % per year and useful life of 5 years.
-ii) Find out the economical alternative.
-Q5 Consider that you are a project manager for a residential building project. [10]
-roe Identify any 5 stakeholders and explain in detail their roles in project.
-BL2
-Q5 The following table gives the activities of a construction project. [10]
-CO-2;
-SO-2; Activity Normal Crash
-Bhs Time (days) | Cost Rs. Time (days) | Cost Rs. «
-1-2 (6 50 4 80
-1-3 5 80 3 150
-2-4 5 60 2 90
-2-5 8 100 6 300
-3-4 5 140 2 200
-4-5 2 60 1 80
-
-From the data provided in the table,
-iv) Draw the network diagram.
-v) Determine the critical path.
-vi) If the indirect cost is Rs. 20 per day, crash the crash the project
-by 3 days and the project cost associated with it.
-
-Ye
---- page 4 ---
-¥
-
-STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z score.
-
-Z 00 04 .02 -03 04 05 - 06 07 08 09
-
--3.9 | .00005 .00005 .00004 00004 .00004 00004 00004 -00004 00003 00003
--3.8 | .00007 00007 .00007 00006 ~ .00006 .00006 00006 -00005 00005 00005
--3.7 | .00011 -00010 -00010 00010 00009 00009 -00008 00008 00008 00008
--3.6 | .00016 -00015 00015 00014 00014 -00013 00013 00012 00012 00011
--3.5 | .00023 00022 00022 00021 00020 00019 00019 _ .00018 00017 00017
-
--3.4 | .00034 -00032 .00031 00030 00029 00028 .00027 .00026 00025 .00024
--3.3 | .00048 -00047 00045 00043 00042 00040 .00039.   .00038 00036 .00035
--3.2 | .00069 00066 00064 00062 00060 -00058 .00056 00054 00052 00050
--3.1 | .00097 00094 .00090 -00087 00084 00082 00079 -00076 00074 -00071
--3.0 | .00135 00131 00126 00122 00118 - .00114 00111 -00107 00104 00100
-
--2.9 | .00187 00181 -00175 00169 00164 00159 00154 00149 00144 -00139
--2.8 | .00256 00248 .00240 00233 .00226 00219 00212 -00205 00199 00193
--2.7 | .00347 00336 .00326 00317 00307 00298 00289 -00280 00272 00264
--2.6 | .00466 -00453 .00440 00427 00415 -00402 00391 .00379 00368 00357
--2.5 | .00621 .00604 -00587 00570 00554 00539 -00523 -00508 00494 -00480
-
--2.4 | .00820 .00798 00776 00755 00734 00714 00695 00676 00657 00639
--2.3 | .01072 01044 01017 00990 .00964 00939 00914 .00889 00866 00842
--2.2 | .01390 01355 01321 01287 01255 01222 01191 -01160 01130 01101
--2.1 | .01786 01743 01700 01659 01618 01578 -01539 01500 01463 01426
--2.0 | .02275 02222 02169 02118 02068 02018 01970 01923 01876 01831
-
--1.9 | .02872 -02807 02743 -02680 02619 02559 02500 02442 02385 02330
--1.8 | .03593 -03515 03438 03362 03288 .03216 03144 03074 03005 02938
--1.7 | .04457 04363 04272 04182 .04093 04006 -03920 03836 03754 * .03673
--1.6 | .05480 05370 05262 05155 .05050 04947 .04846 04746 04648 = ..04551
--1.5 | .06681 06552 06426 06301 06178 06057 05938 05821 05705 05592
-
--1.4 | .08076 07927 07780 07636 07493 07353 .07215 07078 06944 06811
--1.3 | .09680 .09510 09342 09176 09012 08851 08691 .08534 08379 08226
--1.2 | .11507 11314 11123 -10935 10749 10565 10383 10204 -10027 09853
--1.1 | .13567 -13350 .13136 12924 12714 12507 12302 12100 11900 11702
--1.0 | .15866 15625 15386 15151 14917 14686 14457 14231 -14007 13786"
-
--0.9 | .18406 = .18141 17879 17619 -17361 -17106 16853 -16602 16354 -16109
-'-0.8 | .21186 .20897 20611 .20327 -20045 -19766 19489 -19215 18943 -18673
--0.7 | .24196 = .23885 23576 .23270 .22965 22663 22363 22065 21770 21476
--0.6 | .27425 27093 .26763 26435 .26109 25785 25463 25143 24825 24510
--0.5 | 30854 30503 30153 .29806 .29460 29116 28774 .28434 28096 27760
-
--0.4 | 34458 34090 33724 33360 32997 32636 32276 31918 31561 31207
--0.3 | .38209 37828 37448 37070 36693 36317 35942 35569 35197 34827
--0.2 | .42074 41683 41294 -40905 40517 40129 39743 39358 38974 38591
--0.1 | 46017   .45620 45224 44828 44433 44038 43644 43251 42858 42465
--0.0 | .50000 49601 49202 48803 48405 48006 -47608 47210 46812 46414
-````
-
 ## 2023-24 · Re-Exam · Sem 7 · paper b7fa70152c32
 
 - Departments: Civil
@@ -1639,7 +1438,7 @@ Z 00 01 02 03 04 05 06 07 08 -09
 -0.0 | 50000 49601 49202 48803 48405 48006 47608 47210 46812 46414
 ````
 
-## 2022 · Exam not stated · Sem 10 · paper 8ac45c290ce6
+## 2022-23 · Exam not stated · Sem 10 · paper 8ac45c290ce6
 
 - Departments: Civil
 - Programmes: B.TECH INTEGRATED / CIVIL
@@ -1881,6 +1680,635 @@ Z -00 01 02 -03 04 05 06 07 -08 09
 3.9 | .99995 99995 99996 __.99996 99996 99996 99996 99996 99997 99997
 
 osfos-
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper b777bee435d6
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/CONSTRUCTION PROJECT MANAGEMENT AND FINANCE/Construction Project Management and Finance.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (5 pages), mean OCR confidence 82.9
+
+````text
+Sa \WIE OF Man
+
+LS ——*
+
+owl AS
+NG
+(3 MPSTME 4
+
+SVKM’S NMIMS
+
+; }
+LIBRARY >
+naRY 1
+. 39
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN
+Academic Year: 2022-2023 ;
+Program/s: BTech / MBATech Stream/s ; Civil Year: IV Semester: VIII af
+
+Subject: Construction Project Management and Finance Time: 03(Three) hrs (10:00 am to 01:00 pm)
+Date: @4/ 0%/ 2023 No. of Pages: 05
+Marks: 100
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql ;
+
+Answer briefly [20]
+CO-1; a. Discuss the roles of construction project manager. [05]
+SO-5
+BL-2
+CO-1; b. Distinguish between CPM and PERT techniques [05]
+
+SO- 4;
+BL-3
+
+CO-2; c. Explain the importance of Capital Budgeting in a construction project. [05]
+SO-4 ;
+
+BL-2
+
+CO-3; d. Elaborate on Payment of Wages Act. [05]
+SO- 4;
+
+BL-2
+--- page 2 ---
+Q2 a Discuss the salient features of a line and staff organization with neat flow _ | [10]
+
+BL-2
+Q2 b A small project consisting of ten activities has the following [10]
+CO-1; SO-2; characteristics:
+BL-5
+Activity Time Estimate in weeks
+Optimistic Most likely Pessimistic
+1-2 1 7 13
+2-3 2 14 26
+2-4 2 bs} 8
+3-5 7 10 19
+4-5 5 5 17
+5-6 3 3 9
+
+i) Draw the PERT network for the project.
+ii) Determine the Critical Path.
+
+iii) If a project is expected to complete in 41 weeks time, what is
+
+the probability of completion? (Refer Z Table: Pg 5)
+Q3 a Elaborate on the factors to be considered while preparing the site layout [10]
+ee SO-4; for a project.
+Q3 b Draw the Activity-On-Arrow project network associated with the [10]
+CO-1; SO-2; following activities :
+Ble Activity Immediate predecessor Time (days)
+A -- 2
+B -- 5
+~ iC -- 1
+D B 10
+E A,D 3
+F Cc 6
+G E,F 8
+i) Determine earliest start and earliest finish time, latest start and
+latest finish time and float for all the activities of the network.
+ii) How long the team will take to complete the project.
+
+iii) | Determine Critical path.
+
+Ye
+--- page 3 ---
+Q4 a Elaborate on various aspects to be considered in project appraisal. [10]
+
+~1CO-1,2; SO- |
+
+4;
+BL-2
+
+Q4 b For a given network, details of all the activities are mentioned below: [10]
+
+CO-2; SO-2;
+BL-5
+
+Activity Time (week) Cost (Rs.)
+Normal Crash Normal Crash
+1-2 8 4 3000 6000
+1-3 5 3 4000 8000
+2-4 9 6 4000 5500
+3-5 7 5 2000 3200
+2-5 5 1 8000 12000
+4-6 3 2.5 10000 11200
+5-6 6 2 4000 6800
+6-7 10 7 6000 8700
+5-7 9 5 4200 9000
+
+Indirect costs are Rs. 2000 /- per week.
+i) Draw the network diagram
+ii) Determine the Critical path.
+iii) Find the cost of crashing the project by 3 weeks.
+--- page 4 ---
+Q5 a Explain the process of resource levelling and distinguish it from resource ro]
+
+ae alle smoothening.
+Q5 b Alternative-1: Initial purchase cost = Rs.3,00,000, Annual operating and | [10]
+oe SO-2; maintenance cost = Rs.20000, Expected salvage value = Rs.1,25,000,
+Useful life = 5 years.
+Alternative-2: Initial purchase cost = Rs.2,00,000, Annual operating and
+maintenance cost = Rs.35000, Expected salvage value = Rs.70,000, Useful
+life = 5 years.
+The annual revenue to be generated from production of concrete (by
+concrete mixer) from Alternative-1 and Alternative-2 are Rs.50,000 and
+Rs.45,000 respectively. Compute the equivalent present worth of the
+alternatives at 10% rate of interest and find out the economical alternative.
+Q6 a Elaborate on various discounted techniques used in project finance. [10]
+CO-2; SO-4;
+BL-2
+Q6 b Elaborate on the various stages in vendor development [10]
+CO-1; SO-4;
+BL-2
+Q7 a Consider that you are a project manager for a large infrastructure project. | [10]
+ies SO-6; Identify any 5 stakeholders and explain their roles in project.
+-Q7 b Explain any 5 sources of short term funds for a project. [10]
+CO-2; SO-4;
+BL-2
+
+As
+--- page 5 ---
+STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of.the Z score.
+
+Z -00 01 .02 03 -04 05 06 07 -08 09
+
+0.0 | .50000 50399 50798 51197 51595 51994 5239252790 53188 53586
+0.1 | .53983 54380 54776 =~ .55172 55567 55962 56356 56749 57142 57535
+0.2 | .57926 58317 -58706 59095 59483 59871 60257 60642 61026 61409
+0.3 | .61791 -62172 62552 —.62930 63307 63683 64058 64431 64803 65173
+0.4 | .65542 65910-66276 -66640 .67003 67364 67724 68082 68439 .68793
+
+0.5 | .69146 69497 69847 70194 .70540 .70884 —«.71226 -71566 -71904 — .72240
+0.6 | .72575 -72907 73237 ——.73565 -73891 -74215 -74537 —— .74857 75175 -75490
+0.7 | .75804 76115 -76424— .76730. = .77035. 77337 Ss .77637~——.77935 -78230 -78524
+0.8 | .78814 — .79103 -79389 -79673 79955 80234 ~—.80511 .80785 81057 81327
+"0.9 | .81594 81859 82121 -82381 82639 82894 83147 83398 83646 -_.83891
+
+1.0 | .84134 84375 84614 84849 8508385314 85543 85769 85993 86214
+1.1 | .86433 86650 86864 87076 87286 ~—.87493 87698 -87900 -88100 -88298
+1.2 | .88493 88686 88877 —.89065 89251 89435 89617 °   .89796 89973 90147
+1.3 | .90320 90490 90658 -90824 90988 91149 91309 91466 91621 91774
+1.4 | .91924 92073 92220 92364 92507 __.92647 92785 92922 93056 -93189
+
+15 | .93319 93448 93574 93699 93822 93943 94062 — .94179 94295 94408
+1.6 | 94520 .94630   .94738 94845 94950 95053 95154 95254 95352 95449
+1.7 | .95543 95637 95728 -95818 95907 95994 96080 96164 96246 = .96327
+1.8 | .96407 96485 96562 96638 96712 — .96784 96856   —.96926 96995 97062
+1.9 | .97128 97193 97257 97320 97381 97441 97500 .97558 97615 .97670
+
+2.0 | .97725 97778 97831 97882 97932   .97982 98030 98077 98124 98169
+2.1 | .98214 98257 98300 ~— 98341 98382 98422 98461 -98500 -98537 98574
+2.2 | .98610   .98645 98679 -98713 98745 98778 98809 — .98840 .98870 98899
+2.3 | .98928 98956 98983 -99010 99036 — .99061 99086 99111 99134 99158
+2.4 | 99180 99202-99224 ——_.99245 99266 _.99286 99305 99324 99343 99361
+2.5 | .99379 99396 —-.99413 99430 99446 = .99461 99477 99492 99506 99520
+2.6 | .99534   .99547 99560 99573 99585 99598 99609 99621 99632 99643
+2.7 | .99653 99664 99674 99683 99693 99702 99711 99720 99728 99736
+2.8 | 99744 99752 99760 _—-.99767 99774 99781 99788 99795 99801 99807
+2.9 | .99813 99819 99825 99831 99836 99841 99846 99851 99856 99861
+3.0 | .99865 -99869 99874 99878 99882 — .99886 99889 99893 99896 99900
+3.1 | .99903 99906 99910 99913 99916 99918 99921 99924 99926 99929
+3.2 | .99931 99934 99936 99938 99940 .99942 99944 99946 99948 99950
+3.3 | .99952 99953 99955 99957 99958   .99960 99961 99962 99964 99965
+3.4 | .99966 _.99968 99969 -99970 99971 99972 99973 99974 99975 99976
+3.5 | .99977 99978 99978 99979 99980 = 99981 -99981 -99982 99983 99983
+3.6 | .99984 99985 99985 99986 99986 99987 99987 99988 99988 99989
+3.7 | .99989 99990 99990 ~—.99990 99991 99991 99992 99992 99992   .99992
+3.8 | .99993 -99993 99993 99994 99994 99994 99994 99995 99995 99995
+3.9 | .99995 99995 99996 _.99996 99996 99996 __—.99996 99996 99997 99997
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper 627e432bb4e9
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/CONSTRUCTION PROJECT MANAGEMENT AND FINANCE/Construction Project Management and Finance_627e432bb4.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 86.0
+
+````text
+SVKM’S NMIMS Ki
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING, =
+Academic Year: 2022-2023 “Sake
+
+Program/s: BTech / MBATech Stream/s : Civil Year: [V Semester: VIII
+
+Subject: Construction Project Management and Finance Time: 03 hrs (10:00 am to 01:00 pm)
+Date:__28/ 04 / 2023 No. of Pages: 05
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly [20]
+
+CO-1; a. Explain the project life cycle with a neat sketch. [05]
+SO-3 ;
+BL-2
+
+CO-1; b. List any 5 advantages and disadvantages of Gantt chart. [05]
+SO-3 ;
+BL-1
+
+CO- 1; c Elaborate on importance of project reviews in project closure. [05]
+SO- 3;
+BL-2
+
+CO- 3; d. Explain in brief the Workmen’s Compensation Act. [05]
+SO-3,
+BL-2
+
+Ys
+--- page 2 ---
+Q2 a Discuss the salient features of a matrix organization with neat flow chart. [10]
+
+CO-1; SO-3;
+BL-4
+Q2 b A project consisting of eight activities has the following characteristics: [10]
+CO-1; SO-2;
+BL-5
+Activity Preceding Most optimistic | Most likely Most pessimistic
+activity time in weeks time in weeks | time in weeks
+A None 2 4 12
+B None 10 12 26
+Cc A 8 9 10
+D A 10 15 20
+EB A 7 75 11
+F B,C 9 9 9
+G D 3 3:5 7
+H E,F,G 5 5 5
+i) Draw the PERT network for the project. ‘
+ii) Determine the Critical Path.
+iii) If a 30 week deadline is imposed, what is the probability that the
+project will be finished within the time limit? (Refer Z Table:Pg 5)
+Q3 a Elaborate on the importance of geotechnical investigation before [10]
+bee SO-3; commencement of a project.
+Q3 b Draw the Activity-On-Arrow project network associated with the following [10]
+CO-1; SO-2; activities :
+BL-5
+Activity Immediate predecessor Time (days)
+A - 3
+B A 4
+G A 6
+D B 6
+E B 4
+F Cc 4
+G D 6
+H E,F 8
+i) Determine earliest start and earliest finish time, latest start and
+latest finish time and float for all the activities of the network.
+ii) How long the team will take to complete the project.
+iii) Determine Critical path.
+
+Ye
+--- page 3 ---
+Q4 a Elaborate on various aspects to be considered in project appraisal. [10]
+CO-1,2;
+
+SO-6;
+
+BL-2
+
+Q4 b For a given network, details of all the activities are mentioned below: [10]
+
+CO-2; SO-1;
+BL-5
+
+Activity Time (week) Cost (Rs.)
+
+Normal Crash Normal Crash
+1-2 8 4 3000 6000
+1-3 5 3 4000 8000
+2-4 9 6 4000 5500
+3-5 7 5 2000 3200
+2-5 5 1 8000 12000
+4-6 3 25 10000 11200
+5-6 6 2 4000 6800
+6-7 10 7 6000 8700
+5-7 9 5 4200 9000
+
+Indirect costs are Rs. 2000 /- per week.
+i) Determine the Critical path.
+
+il) Find the cost of crashing the project by 3 weeks.
+--- page 4 ---
+te
+
+Q5
+
+Explain the importance of resource levelling and distinguish it from resource [10]
+is SO-3; smoothening.
+Q5 Alternative-1: Initial purchase cost = Rs.3,00,000, Annual operating and | [10]
+CO-2; SO-1; maintenance cost = Rs.20000, Expected salvage value = Rs.1,25,000, Useful
+_ life = 5 years.
+Alternative-2: Initial purchase cost = Rs.2,00,000, Annual operating and
+maintenance cost = Rs.35000, Expected salvage value = Rs.70,000, Useful life
+=5 years.
+The annual revenue to be generated from production of concrete (by concrete
+mixer) from Alternative-1 and Alternative-2 are Rs.50,000 and Rs.45,000
+respectively. Compute the equivalent present worth of the’alternatives at 10%
+rate of interest and find out the economical alternative.
+06 List various discounted and non-discounted techniques used in project [10]
+CO-2: S0-6; finance. Elaborate on any two discounted techniques with advantages and
+BL-2 disadvantages.
+Q6 Elaborate on the various stages in vendor development. [10]
+CO-1; SO-6;
+BL-2
+Q7 Consider that you are a project manager for a residential building project. [10]
+— SO-6; Identify any 5 stakeholders and explain their roles in project.
+Q7 Elaborate on any five sources of long term funds for a project. [10]
+CO-2; SO-6;
+BL-2
+--- page 5 ---
+STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z score.
+
+zZ -00 01 02 03 04 05 06 07 08 09
+
+0.0 | .50000 50399 50798 51197 51595 51994 92392 52790 53188 53586
+0.1 | .53983 -54380 54776 55172 55567 55962 56356 56749 57142 57535
+0.2 | .57926 58317 58706 59095 59483 59871 60257 60642 61026 -61409
+0.3 | .61791 62172 62552 62930 63307 63683 64058 64431 64803 65173
+0.4 | .65542 -65910 66276 66640 67003 67364 .67724 68082 68439 68793
+
+0.5 | .69146 69497 69847 -70194 -70540 -70884 -71226 71566 71904 .72240
+0.6 | .72575 72907 -73237 -73565 .73891 -74215 -74537 74857 -75175 -75490
+0.7 | .75804 -76115 -76424 76730 -77035 -77337 -77637 .77935 -78230 -78524
+0.8 | .78814 -79103 .79389 79673 79955 80234 80511 80785 81057 81327
+0.9 | .81594 81859 82121 82381 82639 82894 83147 83398 83646 83891
+
+1.0 | .84134 84375 84614 84849 85083 85314 85543 85769 85993 86214
+1.1 | .86433 -86650 86864 87076 87286 87493 87698 -87900 -88100 88298
+1.2 | .88493 88686 88877 89065 89251 89435 89617. .89796 89973 90147
+1.3 | .90320 -90490 90658 90824 90988 91149 91309 91466 91621 91774
+1.4 | .91924 92073 92220 92364 92507 92647 92785 92922 93056 93189
+
+1.5: | {93319 93448 93574 93699 93822 93943 94062 94179 94295 -94408
+1.6 | .94520 94630 94738 94845 94950 95053 95154 95254 95352 95449
+1.7 | 95543 95637 95728 95818 95907 95994 -96080 96164 96246 96327
+1.8 | .96407 96485 96562 96638 96712 96784 96856 96926 96995 97062
+1.9 | .97128 97193 97257 97320 97381 97441 97500 97558 97615 -97670
+
+2.0 | .97725 97778 97831 97882 97932 97982 -98030 98077 98124 98169
+2.1 | .98214 98257 -98300 98341 98382 98422 98461 -98500 98537 98574
+2.2 | .98610 98645 98679 98713 98745 98778 98809 -98840 98870 98899
+2.3 | .98928 98956 98983 99010 -99036 99061 99086 99111 99134 99158
+2.4 | .99180 99202 99224 99245 99266 99286 99305 99324 99343 99361
+
+2.5 | .99379 99396 99413 99430 99446 99461 99477 99492 99506 99520
+2.6 | .99534 99547 99560 99573 99585 99598 99609 99621 99632 99643
+2.7 | .99653 99664 99674 99683 99693 99702 99711 99720 99728 99736
+2.8 | .99744 99752 99760 99767 99714 99781 99788 99795 99801 99807
+2.9 | .99813 99819 99825 99831 99836 99841 99846 99851 99856 99861
+
+3.0 | .99865 99869 99874 99878 99882 99886 99889 99893 99896 -99900
+3.1 | .99903 99906 99910 99913 99916 99918 99921 99924 99926 99929
+3.2 | .99931 99934 99936 99938 99940 99942 99944 99946 99948 99950
+3.3 | .99952 99953 99955 99957 99958 99960 99961 99962 99964 99965
+3.4 | .99966 99968 99969 99970 99971 99972 99973 99974 99975 99976
+
+3.5 | .99977 99978 99978 99979 99980 99981 99981 99982 99983 99983
+3.6 | .99984 99985 99985 99986 99986 99987 99987 99988 99988 99989
+3.7 | .99989 99990 99990 -99990 99991 99991 99992 99992 99992 99992
+3.8 | .99993 99993 99993 99994 99994 99994 99994 99995 99995 99995
+3.9 | .99995 99995 99996 99996 99996 99996 99996 99996 99997 99997
+
+Of.
+````
+
+## 2022-23 · Final-Exam · Sem 7 · paper 10daa152535a
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/CONSTRUCTION PROJECT MANAGEMENT & FINANCE/Construction project mgmt & Finance ,Final 23-24.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 80.5
+
+````text
+SVKM’S NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGIN
+Academic Year: 2022-2023
+
+Program/s: BTech / MBATech Stream/s ; Civil Year: IV Semester: VIL |
+
+Subject: Construction Project Management and Finance Time: 03(Three) hrs (10:00 am to 01:00 pm)
+Date:_#0/ 44/2023 , No. of Pages: 05
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql :
+
+Answer briefly [20]
+ee > fa. Elaborate on project life cycle with example and diagram. [05]
+SO-7
+BL-2
+So > |b. Explain the factors that influence the position of temporary services at site. [05]
+
+- 7; te
+
+BL-2 .
+CO-2; |e, Distinguish between CPM and PERT techniques for project scheduling. [05]
+SO-3 ; ‘
+BL-2
+co-3; |d. Explain Capital budgeting and enlist various capital budgeting techniques in | [05]
+ae construction project.
+Q2 a Define ‘Project’ and ‘Project Management’. What are the different phases ina | [10]
+CO-1; typical construction project. Explain each phase stating relevant example. =
+SO-7;
+BL-2
+
+{ Vs
+--- page 2 ---
+Q2 b Following Table shows the activities, their interdependence and the [10]
+
+¥
+
+Co-2 duration.
+
+SO-2;
+
+BL-4 Activity | A B Cc D E F G H I
+Precedi | -- — | _|A B Cc D, |B H,F
+ng E
+activity
+
+Duratio | 3 5 4 2 3 9 8 7 9
+n days
+
+i) Draw A-O-A network
+ii) Work out Early start time, Early finish time, Latest start time,
+Latest finish time and float for all activites.
+
+iii) Identify the critical path and project duration.
+
+bd a What are the key features of the matrix organizational structure? Explain it po
+CO-1; .
+SO-7; with neat flow chart.
+BL-2
+Q3 b [10]
+cO-2: The following table shows the jobs of a network along with their time
+ne estimation.
+Job 1-2 [23 |24 [3-5 |45 |5-6~
+
+Optimistic time (days) to 1 2; 2 7 5 5
+
+Most likely time (days) tn | 7 14 4 10 5 3
+
+Pessimistic time (days) tp 13 26 8 19 17 9
+i) Draw the PERT network for the project.
+
+ii) Determine the Critical Path.
+iii) | Find the probability of the project completing in 41 days
+(Refer Z Table Pg 5)
+
+¥%
+--- page 3 ---
+oo
+
+Q4 Elaborate on ‘Risk Management Process’. je [10]
+CO-1,;
+SO-7;
+BL-2
+Q4 Alternate 1: [10]
+CO-3; Initial purchase cost = Rs. 3,00,000
+SO-1; Annual operation and maintenance cost = Rs. 20,000
+Blt Expected salvage value = Rs. 1,25,000
+Alternate 2:
+Initial purchase cost = Rs. 2,00,000
+Annual operation and maintenance cost = Rs. 35,000
+Expected salvage value = Rs. 70,000
+The annual revenue to be generated from production of concrete (by
+concrete mixter) from Alternative 1 and Alternative 2 are Rs. 50,000 and
+45,000 respectively.
+i) Compute the equivalent present worth of both the alternatives
+at the rate of interest 10 % per year and useful life of 5 years.
+ii) Find out the economical alternative.
+Q5 Consider that you are a project manager for a residential building project. [10]
+roe Identify any 5 stakeholders and explain in detail their roles in project.
+BL2
+Q5 The following table gives the activities of a construction project. [10]
+CO-2;
+SO-2; Activity Normal Crash
+Bhs Time (days) | Cost Rs. Time (days) | Cost Rs. «
+1-2 (6 50 4 80
+1-3 5 80 3 150
+2-4 5 60 2 90
+2-5 8 100 6 300
+3-4 5 140 2 200
+4-5 2 60 1 80
+
+From the data provided in the table,
+iv) Draw the network diagram.
+v) Determine the critical path.
+vi) If the indirect cost is Rs. 20 per day, crash the crash the project
+by 3 days and the project cost associated with it.
+
+Ye
+--- page 4 ---
+¥
+
+STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z score.
+
+Z 00 04 .02 -03 04 05 - 06 07 08 09
+
+-3.9 | .00005 .00005 .00004 00004 .00004 00004 00004 -00004 00003 00003
+-3.8 | .00007 00007 .00007 00006 ~ .00006 .00006 00006 -00005 00005 00005
+-3.7 | .00011 -00010 -00010 00010 00009 00009 -00008 00008 00008 00008
+-3.6 | .00016 -00015 00015 00014 00014 -00013 00013 00012 00012 00011
+-3.5 | .00023 00022 00022 00021 00020 00019 00019 _ .00018 00017 00017
+
+-3.4 | .00034 -00032 .00031 00030 00029 00028 .00027 .00026 00025 .00024
+-3.3 | .00048 -00047 00045 00043 00042 00040 .00039.   .00038 00036 .00035
+-3.2 | .00069 00066 00064 00062 00060 -00058 .00056 00054 00052 00050
+-3.1 | .00097 00094 .00090 -00087 00084 00082 00079 -00076 00074 -00071
+-3.0 | .00135 00131 00126 00122 00118 - .00114 00111 -00107 00104 00100
+
+-2.9 | .00187 00181 -00175 00169 00164 00159 00154 00149 00144 -00139
+-2.8 | .00256 00248 .00240 00233 .00226 00219 00212 -00205 00199 00193
+-2.7 | .00347 00336 .00326 00317 00307 00298 00289 -00280 00272 00264
+-2.6 | .00466 -00453 .00440 00427 00415 -00402 00391 .00379 00368 00357
+-2.5 | .00621 .00604 -00587 00570 00554 00539 -00523 -00508 00494 -00480
+
+-2.4 | .00820 .00798 00776 00755 00734 00714 00695 00676 00657 00639
+-2.3 | .01072 01044 01017 00990 .00964 00939 00914 .00889 00866 00842
+-2.2 | .01390 01355 01321 01287 01255 01222 01191 -01160 01130 01101
+-2.1 | .01786 01743 01700 01659 01618 01578 -01539 01500 01463 01426
+-2.0 | .02275 02222 02169 02118 02068 02018 01970 01923 01876 01831
+
+-1.9 | .02872 -02807 02743 -02680 02619 02559 02500 02442 02385 02330
+-1.8 | .03593 -03515 03438 03362 03288 .03216 03144 03074 03005 02938
+-1.7 | .04457 04363 04272 04182 .04093 04006 -03920 03836 03754 * .03673
+-1.6 | .05480 05370 05262 05155 .05050 04947 .04846 04746 04648 = ..04551
+-1.5 | .06681 06552 06426 06301 06178 06057 05938 05821 05705 05592
+
+-1.4 | .08076 07927 07780 07636 07493 07353 .07215 07078 06944 06811
+-1.3 | .09680 .09510 09342 09176 09012 08851 08691 .08534 08379 08226
+-1.2 | .11507 11314 11123 -10935 10749 10565 10383 10204 -10027 09853
+-1.1 | .13567 -13350 .13136 12924 12714 12507 12302 12100 11900 11702
+-1.0 | .15866 15625 15386 15151 14917 14686 14457 14231 -14007 13786"
+
+-0.9 | .18406 = .18141 17879 17619 -17361 -17106 16853 -16602 16354 -16109
+'-0.8 | .21186 .20897 20611 .20327 -20045 -19766 19489 -19215 18943 -18673
+-0.7 | .24196 = .23885 23576 .23270 .22965 22663 22363 22065 21770 21476
+-0.6 | .27425 27093 .26763 26435 .26109 25785 25463 25143 24825 24510
+-0.5 | 30854 30503 30153 .29806 .29460 29116 28774 .28434 28096 27760
+
+-0.4 | 34458 34090 33724 33360 32997 32636 32276 31918 31561 31207
+-0.3 | .38209 37828 37448 37070 36693 36317 35942 35569 35197 34827
+-0.2 | .42074 41683 41294 -40905 40517 40129 39743 39358 38974 38591
+-0.1 | 46017   .45620 45224 44828 44433 44038 43644 43251 42858 42465
+-0.0 | .50000 49601 49202 48803 48405 48006 -47608 47210 46812 46414
 ````
 
 ## 2021-22 · Final-Exam · Sem 8 · paper 97e99312f50e
@@ -2310,432 +2738,4 @@ b) | Elaborate on NPV, IRR and Payback period in detail 6
 X
 
 2; 0X
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper b777bee435d6
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/CONSTRUCTION PROJECT MANAGEMENT AND FINANCE/Construction Project Management and Finance.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (5 pages), mean OCR confidence 82.9
-
-````text
-Sa \WIE OF Man
-
-LS ——*
-
-owl AS
-NG
-(3 MPSTME 4
-
-SVKM’S NMIMS
-
-; }
-LIBRARY >
-naRY 1
-. 39
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN
-Academic Year: 2022-2023 ;
-Program/s: BTech / MBATech Stream/s ; Civil Year: IV Semester: VIII af
-
-Subject: Construction Project Management and Finance Time: 03(Three) hrs (10:00 am to 01:00 pm)
-Date: @4/ 0%/ 2023 No. of Pages: 05
-Marks: 100
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql ;
-
-Answer briefly [20]
-CO-1; a. Discuss the roles of construction project manager. [05]
-SO-5
-BL-2
-CO-1; b. Distinguish between CPM and PERT techniques [05]
-
-SO- 4;
-BL-3
-
-CO-2; c. Explain the importance of Capital Budgeting in a construction project. [05]
-SO-4 ;
-
-BL-2
-
-CO-3; d. Elaborate on Payment of Wages Act. [05]
-SO- 4;
-
-BL-2
---- page 2 ---
-Q2 a Discuss the salient features of a line and staff organization with neat flow _ | [10]
-
-BL-2
-Q2 b A small project consisting of ten activities has the following [10]
-CO-1; SO-2; characteristics:
-BL-5
-Activity Time Estimate in weeks
-Optimistic Most likely Pessimistic
-1-2 1 7 13
-2-3 2 14 26
-2-4 2 bs} 8
-3-5 7 10 19
-4-5 5 5 17
-5-6 3 3 9
-
-i) Draw the PERT network for the project.
-ii) Determine the Critical Path.
-
-iii) If a project is expected to complete in 41 weeks time, what is
-
-the probability of completion? (Refer Z Table: Pg 5)
-Q3 a Elaborate on the factors to be considered while preparing the site layout [10]
-ee SO-4; for a project.
-Q3 b Draw the Activity-On-Arrow project network associated with the [10]
-CO-1; SO-2; following activities :
-Ble Activity Immediate predecessor Time (days)
-A -- 2
-B -- 5
-~ iC -- 1
-D B 10
-E A,D 3
-F Cc 6
-G E,F 8
-i) Determine earliest start and earliest finish time, latest start and
-latest finish time and float for all the activities of the network.
-ii) How long the team will take to complete the project.
-
-iii) | Determine Critical path.
-
-Ye
---- page 3 ---
-Q4 a Elaborate on various aspects to be considered in project appraisal. [10]
-
-~1CO-1,2; SO- |
-
-4;
-BL-2
-
-Q4 b For a given network, details of all the activities are mentioned below: [10]
-
-CO-2; SO-2;
-BL-5
-
-Activity Time (week) Cost (Rs.)
-Normal Crash Normal Crash
-1-2 8 4 3000 6000
-1-3 5 3 4000 8000
-2-4 9 6 4000 5500
-3-5 7 5 2000 3200
-2-5 5 1 8000 12000
-4-6 3 2.5 10000 11200
-5-6 6 2 4000 6800
-6-7 10 7 6000 8700
-5-7 9 5 4200 9000
-
-Indirect costs are Rs. 2000 /- per week.
-i) Draw the network diagram
-ii) Determine the Critical path.
-iii) Find the cost of crashing the project by 3 weeks.
---- page 4 ---
-Q5 a Explain the process of resource levelling and distinguish it from resource ro]
-
-ae alle smoothening.
-Q5 b Alternative-1: Initial purchase cost = Rs.3,00,000, Annual operating and | [10]
-oe SO-2; maintenance cost = Rs.20000, Expected salvage value = Rs.1,25,000,
-Useful life = 5 years.
-Alternative-2: Initial purchase cost = Rs.2,00,000, Annual operating and
-maintenance cost = Rs.35000, Expected salvage value = Rs.70,000, Useful
-life = 5 years.
-The annual revenue to be generated from production of concrete (by
-concrete mixer) from Alternative-1 and Alternative-2 are Rs.50,000 and
-Rs.45,000 respectively. Compute the equivalent present worth of the
-alternatives at 10% rate of interest and find out the economical alternative.
-Q6 a Elaborate on various discounted techniques used in project finance. [10]
-CO-2; SO-4;
-BL-2
-Q6 b Elaborate on the various stages in vendor development [10]
-CO-1; SO-4;
-BL-2
-Q7 a Consider that you are a project manager for a large infrastructure project. | [10]
-ies SO-6; Identify any 5 stakeholders and explain their roles in project.
--Q7 b Explain any 5 sources of short term funds for a project. [10]
-CO-2; SO-4;
-BL-2
-
-As
---- page 5 ---
-STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of.the Z score.
-
-Z -00 01 .02 03 -04 05 06 07 -08 09
-
-0.0 | .50000 50399 50798 51197 51595 51994 5239252790 53188 53586
-0.1 | .53983 54380 54776 =~ .55172 55567 55962 56356 56749 57142 57535
-0.2 | .57926 58317 -58706 59095 59483 59871 60257 60642 61026 61409
-0.3 | .61791 -62172 62552 —.62930 63307 63683 64058 64431 64803 65173
-0.4 | .65542 65910-66276 -66640 .67003 67364 67724 68082 68439 .68793
-
-0.5 | .69146 69497 69847 70194 .70540 .70884 —«.71226 -71566 -71904 — .72240
-0.6 | .72575 -72907 73237 ——.73565 -73891 -74215 -74537 —— .74857 75175 -75490
-0.7 | .75804 76115 -76424— .76730. = .77035. 77337 Ss .77637~——.77935 -78230 -78524
-0.8 | .78814 — .79103 -79389 -79673 79955 80234 ~—.80511 .80785 81057 81327
-"0.9 | .81594 81859 82121 -82381 82639 82894 83147 83398 83646 -_.83891
-
-1.0 | .84134 84375 84614 84849 8508385314 85543 85769 85993 86214
-1.1 | .86433 86650 86864 87076 87286 ~—.87493 87698 -87900 -88100 -88298
-1.2 | .88493 88686 88877 —.89065 89251 89435 89617 °   .89796 89973 90147
-1.3 | .90320 90490 90658 -90824 90988 91149 91309 91466 91621 91774
-1.4 | .91924 92073 92220 92364 92507 __.92647 92785 92922 93056 -93189
-
-15 | .93319 93448 93574 93699 93822 93943 94062 — .94179 94295 94408
-1.6 | 94520 .94630   .94738 94845 94950 95053 95154 95254 95352 95449
-1.7 | .95543 95637 95728 -95818 95907 95994 96080 96164 96246 = .96327
-1.8 | .96407 96485 96562 96638 96712 — .96784 96856   —.96926 96995 97062
-1.9 | .97128 97193 97257 97320 97381 97441 97500 .97558 97615 .97670
-
-2.0 | .97725 97778 97831 97882 97932   .97982 98030 98077 98124 98169
-2.1 | .98214 98257 98300 ~— 98341 98382 98422 98461 -98500 -98537 98574
-2.2 | .98610   .98645 98679 -98713 98745 98778 98809 — .98840 .98870 98899
-2.3 | .98928 98956 98983 -99010 99036 — .99061 99086 99111 99134 99158
-2.4 | 99180 99202-99224 ——_.99245 99266 _.99286 99305 99324 99343 99361
-2.5 | .99379 99396 —-.99413 99430 99446 = .99461 99477 99492 99506 99520
-2.6 | .99534   .99547 99560 99573 99585 99598 99609 99621 99632 99643
-2.7 | .99653 99664 99674 99683 99693 99702 99711 99720 99728 99736
-2.8 | 99744 99752 99760 _—-.99767 99774 99781 99788 99795 99801 99807
-2.9 | .99813 99819 99825 99831 99836 99841 99846 99851 99856 99861
-3.0 | .99865 -99869 99874 99878 99882 — .99886 99889 99893 99896 99900
-3.1 | .99903 99906 99910 99913 99916 99918 99921 99924 99926 99929
-3.2 | .99931 99934 99936 99938 99940 .99942 99944 99946 99948 99950
-3.3 | .99952 99953 99955 99957 99958   .99960 99961 99962 99964 99965
-3.4 | .99966 _.99968 99969 -99970 99971 99972 99973 99974 99975 99976
-3.5 | .99977 99978 99978 99979 99980 = 99981 -99981 -99982 99983 99983
-3.6 | .99984 99985 99985 99986 99986 99987 99987 99988 99988 99989
-3.7 | .99989 99990 99990 ~—.99990 99991 99991 99992 99992 99992   .99992
-3.8 | .99993 -99993 99993 99994 99994 99994 99994 99995 99995 99995
-3.9 | .99995 99995 99996 _.99996 99996 99996 __—.99996 99996 99997 99997
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 627e432bb4e9
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/CONSTRUCTION PROJECT MANAGEMENT AND FINANCE/Construction Project Management and Finance_627e432bb4.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (5 pages), mean OCR confidence 86.0
-
-````text
-SVKM’S NMIMS Ki
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING, =
-Academic Year: 2022-2023 “Sake
-
-Program/s: BTech / MBATech Stream/s : Civil Year: [V Semester: VIII
-
-Subject: Construction Project Management and Finance Time: 03 hrs (10:00 am to 01:00 pm)
-Date:__28/ 04 / 2023 No. of Pages: 05
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly [20]
-
-CO-1; a. Explain the project life cycle with a neat sketch. [05]
-SO-3 ;
-BL-2
-
-CO-1; b. List any 5 advantages and disadvantages of Gantt chart. [05]
-SO-3 ;
-BL-1
-
-CO- 1; c Elaborate on importance of project reviews in project closure. [05]
-SO- 3;
-BL-2
-
-CO- 3; d. Explain in brief the Workmen’s Compensation Act. [05]
-SO-3,
-BL-2
-
-Ys
---- page 2 ---
-Q2 a Discuss the salient features of a matrix organization with neat flow chart. [10]
-
-CO-1; SO-3;
-BL-4
-Q2 b A project consisting of eight activities has the following characteristics: [10]
-CO-1; SO-2;
-BL-5
-Activity Preceding Most optimistic | Most likely Most pessimistic
-activity time in weeks time in weeks | time in weeks
-A None 2 4 12
-B None 10 12 26
-Cc A 8 9 10
-D A 10 15 20
-EB A 7 75 11
-F B,C 9 9 9
-G D 3 3:5 7
-H E,F,G 5 5 5
-i) Draw the PERT network for the project. ‘
-ii) Determine the Critical Path.
-iii) If a 30 week deadline is imposed, what is the probability that the
-project will be finished within the time limit? (Refer Z Table:Pg 5)
-Q3 a Elaborate on the importance of geotechnical investigation before [10]
-bee SO-3; commencement of a project.
-Q3 b Draw the Activity-On-Arrow project network associated with the following [10]
-CO-1; SO-2; activities :
-BL-5
-Activity Immediate predecessor Time (days)
-A - 3
-B A 4
-G A 6
-D B 6
-E B 4
-F Cc 4
-G D 6
-H E,F 8
-i) Determine earliest start and earliest finish time, latest start and
-latest finish time and float for all the activities of the network.
-ii) How long the team will take to complete the project.
-iii) Determine Critical path.
-
-Ye
---- page 3 ---
-Q4 a Elaborate on various aspects to be considered in project appraisal. [10]
-CO-1,2;
-
-SO-6;
-
-BL-2
-
-Q4 b For a given network, details of all the activities are mentioned below: [10]
-
-CO-2; SO-1;
-BL-5
-
-Activity Time (week) Cost (Rs.)
-
-Normal Crash Normal Crash
-1-2 8 4 3000 6000
-1-3 5 3 4000 8000
-2-4 9 6 4000 5500
-3-5 7 5 2000 3200
-2-5 5 1 8000 12000
-4-6 3 25 10000 11200
-5-6 6 2 4000 6800
-6-7 10 7 6000 8700
-5-7 9 5 4200 9000
-
-Indirect costs are Rs. 2000 /- per week.
-i) Determine the Critical path.
-
-il) Find the cost of crashing the project by 3 weeks.
---- page 4 ---
-te
-
-Q5
-
-Explain the importance of resource levelling and distinguish it from resource [10]
-is SO-3; smoothening.
-Q5 Alternative-1: Initial purchase cost = Rs.3,00,000, Annual operating and | [10]
-CO-2; SO-1; maintenance cost = Rs.20000, Expected salvage value = Rs.1,25,000, Useful
-_ life = 5 years.
-Alternative-2: Initial purchase cost = Rs.2,00,000, Annual operating and
-maintenance cost = Rs.35000, Expected salvage value = Rs.70,000, Useful life
-=5 years.
-The annual revenue to be generated from production of concrete (by concrete
-mixer) from Alternative-1 and Alternative-2 are Rs.50,000 and Rs.45,000
-respectively. Compute the equivalent present worth of the’alternatives at 10%
-rate of interest and find out the economical alternative.
-06 List various discounted and non-discounted techniques used in project [10]
-CO-2: S0-6; finance. Elaborate on any two discounted techniques with advantages and
-BL-2 disadvantages.
-Q6 Elaborate on the various stages in vendor development. [10]
-CO-1; SO-6;
-BL-2
-Q7 Consider that you are a project manager for a residential building project. [10]
-— SO-6; Identify any 5 stakeholders and explain their roles in project.
-Q7 Elaborate on any five sources of long term funds for a project. [10]
-CO-2; SO-6;
-BL-2
---- page 5 ---
-STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z score.
-
-zZ -00 01 02 03 04 05 06 07 08 09
-
-0.0 | .50000 50399 50798 51197 51595 51994 92392 52790 53188 53586
-0.1 | .53983 -54380 54776 55172 55567 55962 56356 56749 57142 57535
-0.2 | .57926 58317 58706 59095 59483 59871 60257 60642 61026 -61409
-0.3 | .61791 62172 62552 62930 63307 63683 64058 64431 64803 65173
-0.4 | .65542 -65910 66276 66640 67003 67364 .67724 68082 68439 68793
-
-0.5 | .69146 69497 69847 -70194 -70540 -70884 -71226 71566 71904 .72240
-0.6 | .72575 72907 -73237 -73565 .73891 -74215 -74537 74857 -75175 -75490
-0.7 | .75804 -76115 -76424 76730 -77035 -77337 -77637 .77935 -78230 -78524
-0.8 | .78814 -79103 .79389 79673 79955 80234 80511 80785 81057 81327
-0.9 | .81594 81859 82121 82381 82639 82894 83147 83398 83646 83891
-
-1.0 | .84134 84375 84614 84849 85083 85314 85543 85769 85993 86214
-1.1 | .86433 -86650 86864 87076 87286 87493 87698 -87900 -88100 88298
-1.2 | .88493 88686 88877 89065 89251 89435 89617. .89796 89973 90147
-1.3 | .90320 -90490 90658 90824 90988 91149 91309 91466 91621 91774
-1.4 | .91924 92073 92220 92364 92507 92647 92785 92922 93056 93189
-
-1.5: | {93319 93448 93574 93699 93822 93943 94062 94179 94295 -94408
-1.6 | .94520 94630 94738 94845 94950 95053 95154 95254 95352 95449
-1.7 | 95543 95637 95728 95818 95907 95994 -96080 96164 96246 96327
-1.8 | .96407 96485 96562 96638 96712 96784 96856 96926 96995 97062
-1.9 | .97128 97193 97257 97320 97381 97441 97500 97558 97615 -97670
-
-2.0 | .97725 97778 97831 97882 97932 97982 -98030 98077 98124 98169
-2.1 | .98214 98257 -98300 98341 98382 98422 98461 -98500 98537 98574
-2.2 | .98610 98645 98679 98713 98745 98778 98809 -98840 98870 98899
-2.3 | .98928 98956 98983 99010 -99036 99061 99086 99111 99134 99158
-2.4 | .99180 99202 99224 99245 99266 99286 99305 99324 99343 99361
-
-2.5 | .99379 99396 99413 99430 99446 99461 99477 99492 99506 99520
-2.6 | .99534 99547 99560 99573 99585 99598 99609 99621 99632 99643
-2.7 | .99653 99664 99674 99683 99693 99702 99711 99720 99728 99736
-2.8 | .99744 99752 99760 99767 99714 99781 99788 99795 99801 99807
-2.9 | .99813 99819 99825 99831 99836 99841 99846 99851 99856 99861
-
-3.0 | .99865 99869 99874 99878 99882 99886 99889 99893 99896 -99900
-3.1 | .99903 99906 99910 99913 99916 99918 99921 99924 99926 99929
-3.2 | .99931 99934 99936 99938 99940 99942 99944 99946 99948 99950
-3.3 | .99952 99953 99955 99957 99958 99960 99961 99962 99964 99965
-3.4 | .99966 99968 99969 99970 99971 99972 99973 99974 99975 99976
-
-3.5 | .99977 99978 99978 99979 99980 99981 99981 99982 99983 99983
-3.6 | .99984 99985 99985 99986 99986 99987 99987 99988 99988 99989
-3.7 | .99989 99990 99990 -99990 99991 99991 99992 99992 99992 99992
-3.8 | .99993 99993 99993 99994 99994 99994 99994 99995 99995 99995
-3.9 | .99995 99995 99996 99996 99996 99996 99996 99996 99997 99997
-
-Of.
 ````

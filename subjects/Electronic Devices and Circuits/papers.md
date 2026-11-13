@@ -1,6 +1,6 @@
 # Electronic Devices and Circuits: question papers in full
 
-25 unique papers · 2014-15 to 2024-25 · Mechatronics, Electronics and Telecommunication
+24 unique papers · 2014-15 to 2024-25 · Mechatronics, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -136,6 +136,7 @@ Give necessary conditions for sustained oscillations.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/ELECTRONIC DEVICES AND CIRCUITS/Electronic Devices and Circuits, Sem-III, 2023-24 & 2024-25, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 19/2/25
 - Text: ocr (4 pages), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -206,7 +207,6 @@ SO-1; F F F 4
 BL-5 with a maximum ripple constant of 1 %. If the value of L = 1H, determine
 the size of the capacitor.
 b. For the network shown, determine Ina, Ica, Vceq,;Vc,Ve, VB, with Vee =
-16 V, Rc= 3.9 KQ,, Re= 0.68 KQ, Ri= 62 KQ, Ro= 9.1 KQ and B= 80.
 Assume silicon transistor.
 7,
 CO-2; “e
@@ -1029,278 +1029,14 @@ CO-4; SO-1; » Explain Barkhausen’s criteria for sustained oscillation
 BL-2
 ````
 
-## 2022-23 · Re-Exam · Sem 3 · paper 6ae327d3337b
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/Electronic Systems, Sem-III, Batch 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 82.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Program: B. Tech Stream : Mechatronics Year: II Semester: III
-Subject: Electronic Systems Time: 3 hrs (10 AM to 1 PM)
-Date:_t2./ 02 / 20% No. of Pages:03
-
-Marks:100
-
-Re-Examination(2022-2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-5) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Answer briefly:
-
-Ql. | CO-1;SO-1; a.
-
-BL What is CMOS inverter? How does it work? [04]
-CO- 1; SO- 1; b. :
-_ How does the Zener diode work as voltage regulator? [04]
-CO- 1; SO- 1; c. . . .
-bie Why we use linear regulated power supply? Draw its block diagram. [04]
-CO- 2; SO- 1; d. sous
-BLO What do you mean by CMRR of Op-amp? How is it important? [04]
-CO-2;SO-1; | e. | How do we form a differentiator circuit using Op-amp? Write down its [04]
-4
-BL-2 output expression.
-oh
-Q2. | CO-1;S0-1; | a. . . . eo, .
-BLD Explain the construction and working of NPN Transistor in detail. [10]
-CO-3;SO-1; | b. | Draw the pin diagram of IC-555 timer and explain its operation in astable
-10]
-Binz mode.
-Q3. | CO-1;SO-1; | a. | Calculate the emitter current in the voltage divider circuit shown in figure [10]
-
-BL-5 below. Also find the value of Vcg and collector potential Vc
---- page 2 ---
-+Voc=20V
-
-: ”
-B= 1kQ i
-R, 210kQ ?
-
-ley
-
-E
-Ry 10k 3 Rp=5kQ
-
-CO-2;SO-1; | b. | Discuss the inverting Schmitt Trigger with suitable circuit diagram and
-
-Pied waveforms. i
-Q4. | CO-1;SO-1; | a. | Draw the circuit diagram of CMOS Transmission Gate and discuss its
-Bled working in detail. a)
-CO-2;SO-1; | b. | Draw the pin diagram of Op-amp (IC-741) and derive the expression of
-BL-3 gain for non-inverting mode. ne
-Q5. | CO-2;SO-1; | a. | What is an instrumentation amplifier? Explain the instrumentation
-BL-2 amplifier using three Op-amps. ms
-CO-2;SO-1; | b. | Describe sample and hold circuit with suitable circuit diagram and
-BL-2 waveforms. (10)
-om a un) & Draw the output waveform of the following circuit. Assume a and D2
-to be practical having Vy =0.7V
-[06]
-CO-1;SO-1; | b. | Describe the working of PN junction diode and sketch its VI-
-BE2 characteristics. we)
-CO-1;SO-1; | c. | What is the role of rectifiers in power supply? Discuss various types of
-cea rectifier circuits in detail. es)
-Q7. | Write short notes on the following:
---- page 3 ---
-CO- 2; SO- 1; a.
-
-Ideal vs Practical Op-Amp j [05]
-BL-1 t
-CO- 2; SO- 1; b.
-Op- P. t . 05
-BL-1 p-amp Parameters ee [05]
-CO-1;SO-1; | c. :
-BJT as a switch [05]
-BL-1
-CO-3;SO-1; | d. . . r
-Biel Low pass and High Pass Filter using Op-amp [05]
-````
-
-## 2018-19 · Final-Exam · Sem 3 · paper d3019449333a
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS FINAL EXAM 2018-19.pdf`
-- Printed on paper: exam date: 24 November 2018
-- Text: ocr (3 pages), mean OCR confidence 70.3
-
-````text
-fo
-
-28 ‘
-Aw
-
-]
-Or
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (MECHATRONICS) Year: II Semester: II
-\ Academic Year: 2018-2019
-
-Subject: Electronic Devices and Circuits 7
-7 Marks\@®
-
-Date: 24 November 2018 yY Time: ONG m to 5.00 p
-
-Final Examination ~
-
-Instructions: - Candidates should read carefully the instructions printed on question
-. aper and on the cover of Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. ONE is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. In all FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new questions to be started on a fresh page.
-
-6. Figures inbrackets on the right hand side indicate full marks.
-
-Q.1 Solve following (3.5 Mark each) . [14]
-a) Explain RC coupling in BJT and FET multistage amplifier.
-b) What is current amplifier? Explain ideal characteristics of current amplifier.
-c) Explain wein bridge oscillator and design its feedback network for 2KHz frequency
-d) Compare Voltage gain and Bandwidth of BJT and FET amplifier.
-
-Q.2 Design two stage RC coupled Common Source amplifier to work up tolowest [14]
-frequency of 50Hz, voltage gain | Av |> 49, input resistance of amplifier
-Riz 1 MQ, biasing voltage Vpp = 22V.Design the above amplifier using
-Mid-point biasing with FET BFW11 (Assume suitable if required)
-
-Q.3. Find Avs’, Ais’ Ros’ and Ris’ for the following amplifier circuit, the values of [14]
-h-parameters are hie =1k, hfe =50, hre=0 hoe=0,
-
-Page 1 of 3
---- page 2 ---
-Q.4 a) Explain how Common Collector amplifier is working as non-inverting amplifier. [07]
-
-b) Describe software tool for the analysis of electronic circuit. [07]
-
-Q.5. Design single stage CE amplifier using transistor BC147A having following {14]
-Specification | Av | > 70, Sico=10,Ri2 2 KQ, Fi< 20 Hz, Vee = 16V
-
-Q.6.a) Design a FWR employing a bridge rectifier that rectifies 230V, 50Hz mains [10]
-and supplies 180V, 0mA to 100mA to a resistive load employing a 7 filter to
-
-give ripple factor of 0.05.
-b) Explain RC phase shift oscillator. [04]
-
-Q.7 a) What is Current series negative feedback amplifier? Derive expression
-
-for voltage gain, input resistance and output resistance for same. [07]
-b) Explain different types of negative feedback amplifier. [07]
-v
-senecial
-Page 2 of 3
---- page 3 ---
-Appendix a ‘ ' Data Sheet
-
-:
-
-= hey - i
-“ gre inyaw
-f3ce saaslll BE
-Ssas S. . {Sls
-. ‘4 . elelefe 1 O)o
-2 Ptidl dfs ale
-/ - > a weeny pyt. . ~ POS
-<= ee “e 2 3 fe
-: Se pres aba ie hea ne
-° MmISOtESlS 5
-; BY feygage jo elalsis 9
-» aad So lS bial a ad a while
-. 3 3 - Sale
-Bielelel Fs yi
-el¥/gneecis NLS Sid Q 3/8
-. a SABRES : al as
-ee siajalo -
-. ALA ald
-/ . gi. . be a
-enecano i ni Gig
-. ofS VEDA TAL. TRIS bea be Pa So
-i Z ele
-418
-. an : . hoa hod Boe cal
-S75 no herd) ad ad fe
-SE SABRg ig 3
-: alia indi-2 > 6 Ja
-atalald . a
-&)2/esegsss .
-: . eo) EPP Ssaagys ZS Ale
-x >
-Pi-emlossosootio Sle ore “y. b
-g S/BRERZ IE BlSisla]e slei®
-= . 4 _
-7 B i8/3/s
-Wlolwoto a] 2.
-yoo] = = . . al S]o
-. RB LSOl[aisfs Sai
-UO; [ouscaunne. bel =
-ST BP ANMMAMS fal
-a . Q | =z] xrlolstle
-' 2 5 § o/alAl a
-gi<
-Saeganon “| 8
-EO 1SSRSRQ8S & aloObolo 8 E/E
-~? UN EN eet wy] Olalstn ~ ain
-sg) ;
-| ae elololo
-ae ge have ,o 5 bod al fad ad :
-mf Sy = yt ¢ lolo
-w F g & 8
-<
-<t & oe mi
-Melos ~ Tlalkisi¢
-2} sseyasiiiiip Tl aleyge
-A “ i Se 8] dis
-F 8 ml} afelape Hole [>
-“> : elote £2) Ee
-- S30 eeieeye s a(S) 818 EQ .
-sas an wn Pay we *elS =
-a e<@l sis
-iS ALA
-~S 14 . |
-83° |esesconon = ij y
-MWA | PHTSHERS 9 1} ESlole
-es 21 oO: 3
-$ 3 ss)? [>
-&
-on.
-
-SSS iesoagons)]:
-SY 1SeARHCS| ff
-````
-
-## 2018-19 · Re-Exam · Sem 3 · paper b5d3c60e4e2b
+## 2019-20 · Re-Exam · Sem 3 · paper b5d3c60e4e2b
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS BATCH 16-17 17-18 18-19 RE EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 14 November 2019
 - Text: ocr (3 pages), mean OCR confidence 69.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1400,7 +1136,6 @@ s. : $ mee wm 3
 . TIS Ay? :
 , . Ala Sis
 Ss oo “us rn
-ne ra & Sg] SESSA Ss . a g g
 |8
 . . = | . :
 = 7 - .
@@ -1411,7 +1146,6 @@ aivintel- = wo fo
 ; &S}8 | SSERRSS ee
 “< . — + y OF
 Pialeoossseie Le . coupe)
-§ PHAM ADT ope   slals
 Fed §]-s
 . Spel ope {3/88
 . nishe &
@@ -1450,7 +1184,6 @@ Sis SESSA | | a r
 hd 1.3 wan 2 .
 . - Ss E2ES998 art >
 : sf Elooeonrens nob: ;
-ENE pened Se Sil e ES gic
 Sas fReF SPs azar iii | as/8 iF
 SEN al
 P ™~ :.
@@ -1470,6 +1203,544 @@ BE Seees Sass a “PB Ts
 oo > 4 & BERRESE IE ¥ay§sbeal 2 Pa
 
 le a
+````
+
+## 2018-19 · Final-Exam · Sem 3 · paper d3019449333a
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS FINAL EXAM 2018-19.pdf`
+- Printed on paper: exam date: 24 November 2018
+- Text: ocr (3 pages), mean OCR confidence 70.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+fo
+
+28 ‘
+Aw
+
+]
+Or
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (MECHATRONICS) Year: II Semester: II
+\ Academic Year: 2018-2019
+
+Subject: Electronic Devices and Circuits 7
+7 Marks\@®
+
+Date: 24 November 2018 yY Time: ONG m to 5.00 p
+
+Final Examination ~
+
+Instructions: - Candidates should read carefully the instructions printed on question
+. aper and on the cover of Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. ONE is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new questions to be started on a fresh page.
+
+6. Figures inbrackets on the right hand side indicate full marks.
+
+Q.1 Solve following (3.5 Mark each) . [14]
+a) Explain RC coupling in BJT and FET multistage amplifier.
+b) What is current amplifier? Explain ideal characteristics of current amplifier.
+c) Explain wein bridge oscillator and design its feedback network for 2KHz frequency
+d) Compare Voltage gain and Bandwidth of BJT and FET amplifier.
+
+Q.2 Design two stage RC coupled Common Source amplifier to work up tolowest [14]
+frequency of 50Hz, voltage gain | Av |> 49, input resistance of amplifier
+Riz 1 MQ, biasing voltage Vpp = 22V.Design the above amplifier using
+Mid-point biasing with FET BFW11 (Assume suitable if required)
+
+Q.3. Find Avs’, Ais’ Ros’ and Ris’ for the following amplifier circuit, the values of [14]
+h-parameters are hie =1k, hfe =50, hre=0 hoe=0,
+
+Page 1 of 3
+--- page 2 ---
+Q.4 a) Explain how Common Collector amplifier is working as non-inverting amplifier. [07]
+
+b) Describe software tool for the analysis of electronic circuit. [07]
+
+Q.5. Design single stage CE amplifier using transistor BC147A having following {14]
+Specification | Av | > 70, Sico=10,Ri2 2 KQ, Fi< 20 Hz, Vee = 16V
+
+Q.6.a) Design a FWR employing a bridge rectifier that rectifies 230V, 50Hz mains [10]
+and supplies 180V, 0mA to 100mA to a resistive load employing a 7 filter to
+
+give ripple factor of 0.05.
+b) Explain RC phase shift oscillator. [04]
+
+Q.7 a) What is Current series negative feedback amplifier? Derive expression
+
+for voltage gain, input resistance and output resistance for same. [07]
+b) Explain different types of negative feedback amplifier. [07]
+v
+senecial
+Page 2 of 3
+--- page 3 ---
+Appendix a ‘ ' Data Sheet
+
+:
+
+= hey - i
+“ gre inyaw
+f3ce saaslll BE
+Ssas S. . {Sls
+. ‘4 . elelefe 1 O)o
+2 Ptidl dfs ale
+/ - > a weeny pyt. . ~ POS
+<= ee “e 2 3 fe
+: Se pres aba ie hea ne
+° MmISOtESlS 5
+; BY feygage jo elalsis 9
+» aad So lS bial a ad a while
+. 3 3 - Sale
+Bielelel Fs yi
+el¥/gneecis NLS Sid Q 3/8
+. a SABRES : al as
+ee siajalo -
+. ALA ald
+/ . gi. . be a
+enecano i ni Gig
+i Z ele
+418
+. an : . hoa hod Boe cal
+S75 no herd) ad ad fe
+SE SABRg ig 3
+: alia indi-2 > 6 Ja
+atalald . a
+&)2/esegsss .
+: . eo) EPP Ssaagys ZS Ale
+x >
+Pi-emlossosootio Sle ore “y. b
+g S/BRERZ IE BlSisla]e slei®
+= . 4 _
+7 B i8/3/s
+Wlolwoto a] 2.
+yoo] = = . . al S]o
+. RB LSOl[aisfs Sai
+UO; [ouscaunne. bel =
+ST BP ANMMAMS fal
+a . Q | =z] xrlolstle
+' 2 5 § o/alAl a
+gi<
+Saeganon “| 8
+EO 1SSRSRQ8S & aloObolo 8 E/E
+~? UN EN eet wy] Olalstn ~ ain
+sg) ;
+| ae elololo
+ae ge have ,o 5 bod al fad ad :
+mf Sy = yt ¢ lolo
+w F g & 8
+<
+<t & oe mi
+Melos ~ Tlalkisi¢
+2} sseyasiiiiip Tl aleyge
+A “ i Se 8] dis
+F 8 ml} afelape Hole [>
+“> : elote £2) Ee
+- S30 eeieeye s a(S) 818 EQ .
+sas an wn Pay we *elS =
+a e<@l sis
+iS ALA
+~S 14 . |
+83° |esesconon = ij y
+MWA | PHTSHERS 9 1} ESlole
+es 21 oO: 3
+$ 3 ss)? [>
+&
+on.
+
+SSS iesoagons)]:
+SY 1SeARHCS| ff
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper f180abac1341
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS BATCH 16-17, 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 24 November 2018
+- Text: ocr (3 pages), mean OCR confidence 68.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+>
+>
+
+CO) ; SVKM’s NMIMS
+a MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: II Semester: II
+
+“a
+Academic Year: 2018-2019
+
+={ MPSTME-
+48: 270 #IBRARY
+
+Date: 24 November 2018 Time: R00. pm to 5.60 p:
+
+“ Durations SBA Sheek Ss
+
+No. of Pages nets =
+
+Re-examination (2016-17 / 2017-18)
+
+i Subject: Electronic Devices and Circuits _
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary,
+
+Q.1 Solve following [14]
+a) Explain Common Collector amplifier.
+b) What is need of coupling? Explain different types of couplings.
+c) Explain Voltage amplifier.
+d) Explain Barkhausens criteria for oscillation.
+
+Q.2 Design two stage RC coupled amplifer for | Ay |> 200, Ri> 1 MQ, {i4]
+F< 20 Hz, Vee = 25V.
+
+Q.3. a) Derive expression for Ay’, Ro’ and Ri’for common Source amplifier
+
+With bypass capacitor [07]
+
+b) Explain RC phase shift oscillator [07]
+
+Q.4 a) Explain different types of negative feedback amplifier [07]
+b) Explain EDA tool with example [07]
+--- page 2 ---
+Q.5. Design single stage CS FET amplifier using BFW11 for following [14]
+Specification | Av | = 15, Ri> 2 MQ, Fi< 20 Hz, Vee = 15V-
+
+Q.6.a) Explain series voltage regulator using error amplifier. [07]
+b) Design feedback network of Hartly and Colpitts oscillator with frequency
+of oscillation SOMHz. {07]
+[14]
+
+_ Q.7. Write short notes on :-
+a) Multistage amplifier.
+b)Trans conductance amplifier.
+--- page 3 ---
+-- Ley ao % # Rola
+; Eepeisgagiil; 3 AL
+fan = oo. ‘ 4
+JAens "y Slelele st [5|o ;
+7 . , 44 foparet Sls
+= (eeea tt iy “oh . Ste
+. i ait © alalole ]
+° a? mloFfolo
+He ieres elnlolg
+3 DMIAAA | & a eM u
+~ ° . Sess .
+wei sle [3S 2 z
+: apa aid Q
+«| 4 |8g2egig Hi
+ad a eRe ea! viele
+Risse
+Bie "299 ‘Tels re)
+
+- E|S|SkSRS28l. +SlRs|e x [Big
+ayy ie ale
+=i beolslsle
+E|z SEs8anig bare a bak hk 3
+“ ae alti [et- = we fin
+
+malaj ato = ot
+zt _ =
+5 RBlesoeoers
+&)ELMERRAYS 1
+Fy : * pip
+EPR {RARASIR ay( artsy) ax
+m = . - a 3
+Fe ailaig ;
+$15 eung; =
+8 e SARS lus
+t
+: <
+@gooecnv yy g 4 £
+EP Saeagses an ieee Fed
+foe 5 :
+a. ga .
+Thy sha3 reawe |S 4 lo b
+ie * Ris
+< ee aia
+& 34
+< Ss3)/asiiii |
+&
+| age eligi)   (PS\2|e
+sgt “ks ‘Bala BS
+Szslenisaiat SilelFtel . |sigla
+3B ioe .
+S \ead ELUM Ug
+oa = |
+82 |SRSSeas felele
+7 -sS c L 2 m
+= 2 . &
+ib
+egy .
+= 2 :
+# q 834 SSaeaea | | | | 4
+: ‘ wt ESlelo
+. Op Em
+Jse . ge
+YS ein«cawnny S &
+wed [4224398
+WEYL aAaeOBSS
+oy.
+aye |eeezszall.| 222 Lelots
+ooo ‘ . wails
+ee Las Sleaai1ii) ts
+“oe ° rey S
+Re
+SPs weeeonsy OF an
+ENS HSSASRS a@gaaaas
+F@= ana :
+—— ~ :
+a L
+: ee < eS fd
+.. & v| [2 =
+. & 4 Way ge i : ,
+“ § |e828sseal): & \g\s aa
+a |Paagace el
+. : if 6 RRRRBRl
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper e9c08a1f8a5f
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS BATCH 2016-17 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 January 2019
+- Text: ocr (3 pages), mean OCR confidence 64.3
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+i
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
+
+Program: B. Tech (Mechatronics) Year: II Semester : III
+“a Academic Year: 2018-2019 — 7
+| Subject: Electronic Devices and Circuits Marks: 70
+
+“
+
+Time: 2.00 pm to 5.00 pm
+wo
+
+Durations: 3 (hrs) L
+; No. of Pages:_ -3
+Re-examination (2016-17 / 2017-18) ~ _
+
+Date : 23 January 2019
+
+NB: -
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining ‘questions, attempt any 4 questions.
+
+3) All questions carry equal marks.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data if necessary.
+
+Q.1)
+a) State Miller’s theorem. Why CB amplifier is used for wideband applications? 4
+b) Justify. Zener shunt regulator is preferred over BJT shunt regulator for heavy loads. 3
+c) Explain use of Bleeder resistor in LC filters. : 4
+d) What are advantages of negative feedback in amplifiers? 3
+
+Q.2) Design a two stage RC coupled BJT amplifier for the following specifications: 14
+
+Small signal voltage gain Avr > 1600, Sco < 8, Rin > 3.5KQ, Vec= 9V, fi< 15Hz
+Q.3)
+
+a) Derive expression for common source amplifier with Rs bypass for Ay,Ri,Ro. 6
+b) For rectifier/filter circuit shown in figure derive expression for ripple factor and d.c. output 8
+voltage? Find value of ripple factor, ripple voltage at output and d.c. output voltage if C=
+ImF and Iy=100mA, Rp=500Q. Assume diodes to be ideal.
+
+SOV _-Lade
+
+LN ON iL c ER
+QON
+
+L
+
+. [2
+--- page 2 ---
+Q.4)
+
+a) Draw topology for current series negative feedback amplifier. Derive expression for
+Trancondutance, input resistance and output resistance with feedback.
+b) For the circuit shown in fig. using negative Feedback approach, determine Rig, Rog, and Avr
+
+q12V
+kK 23K
+ae mn Vo
+Rs
+Vi 310k
+a thes
+Q.5)
+a) Explain Barkhousen’s principle for oscillations. What are conditions to obtained sustained
+oscillations?
+b) Draw the circuit of Colpitts oscillator using BJT and.explain its operation. Derive the
+
+expression for frequency of oscillations.
+Q.6) For the circuit shown in fig. determine following parameters: i) DC bias conditions(Q-
+
+point) ii) output resistance iii) voltage gain iv) input resistance
+
+oN yRET- GFW"
+$100 prt -Bct47A
+ake [
+} jp __]
+oA LLF OSHF SOMF
+yooh : pa
+i 7K
+
+4mog $9002. 201 55k Vo
+
+Q.7) Write short note on
+
+a) High frequency Hybrid-z CE amplifier model
+b) Transistorized linear series voltage regulator
+c) Effect of Negative feedback on performance parameter of amplifier
+
+23
+
+14
+--- page 3 ---
+3 . S New ak
+‘ ondi : . | Data Sheet
+Appendix . Ria
+H :
+$206 B2egl li = le
+BSos ood ELE
+Suk P Els
+7 48 : elelele & [O10
+$1d/ Sj d} Ble
+so ae OF hialial oto} old)
+° aldotd]d
+“wk ‘lemacea jo VQyPT Sle G
+sg [Sates ls Ala] S/d te Blely
+38 Si]
+41ele1e Bele
+si ¥/882B818 eee ar ibe
+SP RLRAAESR IS Salo 8
+= y
+. aia ald
+3 < F 4
+Swoon GIG
+: &|S/ASSagts ea be boa be 2 feds
+. Qe
+| - cam hal
+S : eS ELS
+ae eed oS e ay eye.
+§ |B /AkS8SR 18 &
+‘ alsinle S jets
+etm} alo . N
+| £legeggss elelele ‘
+s;pREIMSRaare HLS ato
+Sl.g|eocooto a ied ce Bd Fa
+a : = : my =
+. 8 12/1 sig
+sSPViereys aL S13
++ SS lel ti Spal
+OT El loncenneg, iQ oo
+. EL, Ames w
+7 “8! Sielolsle
+3 S/o ALS
+g : gl<
+, & = 2
+EO|SS88Sases Girealololo fe) RlE
+~° UN re Nir w{ Slalolenr alé
+& ia : 3 7S
+a ; Ri elslele
+: P QP oA ls
+wa 4 7 2 s |s
+: 5 S fels
+3 5
+@]} Ssgiasitlii) Ll sejee
+=) “JEM alg
+a8 s/s BE] | 6 go z =
+eu Fs alala
+$30 ee 1 se )e S1718) 88 BR slo
+Sas |Rulwealn aan ~@| SiS
+S$ x mim
+a
+3
+: = 2 y 4
+8F™ loosen || - zl. 2 | ca
+er = al & 9 mio
+5 SoS, 3S
+o ™
+seg a
+ar) ooo ono .
+ty wod Sour Aas LL | {| -f
+: ef SSS EE ha ESlolo
+38g “Ta ean in
+“tS ct oe Cie
+ese /ESSSHRS|| jaa: i
+. > eoo
+© om : H
+fh lesenses|| | opp Slot.
+EN Ep Madoogo]y gagli1| 8] ALS
+ses =) 8a a*
+Yea
+She lpeconns i
+a &as 4eeusaeg Gaagcaag
+Leia 3} Bi deuoeoy
+
+ween hGa
+
+ead
+Pts lk
+2 En
+
+» 2 wo, 8
+~ ~~ . a
+
+& ~ BP a) &
+& iz S| y >
+
+8 2eeeh.lsl<fgeenul FS eS
+
+5 SSESesa FI SGSSlSyal EA lals
+
+7 Soree Qe ls SQ255oS BRIS
+
+
+s S8Soxrg Sus ys8Ss| 2 Pars
+ARRRSRSIS SA SERE a= !
 ````
 
 ## 2018-19 · Re-Exam · Sem 3 · paper f71d5ab90e2e
@@ -1672,6 +1943,292 @@ iy c 5 an |...
 & |S8SRSSR IE SARRRRA = Ey
 
 3 of 3
+````
+
+## 2017-18 · Exam not stated · Sem 3 · paper e7510425f450
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONICS DEVICES AND CIRCUITS (MECHATRONICS), BATCH 16-17.pdf`
+- Printed on paper: exam date: 05 December 2017
+- Text: ocr (3 pages), mean OCR confidence 77.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (MECHATRONICS) ° YearNI Semester: III —
+
+Batch: 2016-17 / ‘dias
+
+ioe
+
+| Academic Year: 2017-2018 ~ a“ yet o Bittge ey,
+Subject: Electronic Devices and Circuits | VS _ Ra :
+
+Marks; 70 / yuh Ye
+
+> 8
+
+Date: 05 December 2017. Time: 1050 am tou OOM, |
+Duration; (hrs) - ye
+No. of Nea Z
+Re-Examination
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) All questions carry equal marks.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary.
+
+Q.1) Answer all questions
+a) A CB configuration circuit has Ig =4 mA, @ = 0.98, and V;= 2mV across the EB junction. 2
+
+Determine the A, for a load across CB junction of 560 Q.
+
+b) Given Ig = 2.5 mA, hfe = 140, hoe = 20 uS, draw the CE hybrid equivalent circuit. 2
+c) Derive the expression for trans-conductance gm for a JFET. 2
+d) Describe CLC filters used in rectifier circuits. 4
+e) Describe Barkhausen Criterion for sustained oscillations. 4
+
+Q.2) a) Design a single stage RC coupled amplifier using BJT BC147B for obtaining the following 10
+specifications: A,> 150, S < 10, V, = 5V (rms), and f;, = 20Hz.
+
+b) Verify the A,, Z;, and Z, for the designed Amplifier above in 2a. 4
+Q.3) .
+a) Derive the expression for Aj, Ay, Z; and Z, for the F ixed Bias with Rg un-bypassed, CE 10
+ars | amplifier.
+b) Consider Rg = 470 kQ, Rc = 4.7 kQ, Re = 1kQ, and Ry = 10kQ, hie = 2.8kQ, and hfe = 160. 4
+
+Calculate A; A,, Z; and Z,, for the circuit above 3a.
+--- page 2 ---
+Q.4)
+
+a) Design a Self Biased common source JFET amplifier using BFW11 for zero temperature 10
+drift condition, having |A,| = 25, Vogms =2.5V , fi = 20 Hz.
+b) Analyze the circuit obtained in 4a. Determine A,, Z; and Z,. 4
+Q.5)
+a) Design a full wave bridge rectifier to give Vac = 15V to a Ry = 15Q and a ripple factor 10
+better than 0.05 using a 7T filter.
+b) Determine the voltage gain, input impedance, and output impedance with feedback for 4
+voltage series feedback having an open loop gain A = -100, Zi = 10kQ, and Zo = 20kQ at
+; B=- 0.5. Verify the same for B= -1.
+Q.6)
+a) Write Short Notes on EDA tools used for circuit simulation. : 7
+b) Draw the voltage shunt negative feedback topology and derive the expressions for the 7
+topology.
+Q.7)
+a) Design Hartley’s Oscillator with frequency of oscillation 1KHz, Ry = 1kQ. 7
+b) Describe RC phase shift oscillator and obtain the expression for frequency of oscillation. 7
+
+ge oe 2 2s 2 2 2 2 2
+--- page 3 ---
+BFW 11 (typicat)
+
+DATA SHEET
+. . Derate
+Transistor type @ 25°C @ 25°C valts volis (Sus) (Sus). valts volts T, max . * max. ociw «25°C
+. Wats Amps dc. - dic. volts dc.volis dic. dic. dc, ° min typ. max. min. typ.” mak, “wee
+2N 3055 115-5 15-0 11 100 60 =—70 ‘90 7 200 29 50 vi) 15 50 120 1-8 15° 07°
+ECN 085 50-0 5-0 1-0 ” 60 50 55 60 5 200 25 - 50 100 25 75 125 15° 3-5 0-4
+ECN 149 30-0 40 1-0 50 40. _ _ 8 «150 30 50 110 33 60 US 1-2 40 03.
+ECN 100 50 0-7 0-6 10 60 65 _ 6. 200 50 90 = 280 50 90 280 0-9 ~ 35 0.05
+BCIATA 0-25 O-1 025 50 45 50 _ 6 125 115 180 (220 125 220 260 09 _~
+‘2N S25S(PNP ) 0-225 0-5 0-25 85 30 _ _ _ 100. 35 — 65 ~_ AS — ~ _ _
+BC147B 0-25 . OF 0-25 50 45 50 _ 6 125 200 . 290 450 | 240 330 500 0-9 — —
+Transistor type hie koe fre Ga. ; .
+BCIAIA._... .24KO,A8.5 | 15x10 04Cinw DEW MOVPET MUTUAL CHARACTERISTICS —__ = pica
+‘IN 525 (PNP): 14K Q. 256 U 3-2-« 107... -— —   =Vas volts .0-0 | -0-2 | 04] 06] O8] EO] 1-2 |.1-6} 20] 24 | 2-5] 3-0 | 3-5] 4-0
+rove ~ rs 30h 2X IO O4°Cimw “Ios max. mA}. 4019.0 [ 83] 76] 6-8 | 61} 5-4 | 42 [3-1] 22] 20] 11 | 05] 00
+ECN 149 20a = — fos yp. mA | 70 | 60 | 54 | 4-6] 4.0] 3:3 | 27 | 1-7 | 08] 02] 00 | UO | 0-0 | 00
+ECN 055 1002 — — — Ips min. mA }'4-0] 3-0 [ 2-2] 1-6] -10]. 0:5 | 0-0 | 0-0 | 6-0] 00] 0-0] 00 {| 0-0 | 00
+2N 3055 25.2 _ — —_—- > - 7 oem
+N-Channel JFET a .
+Type Voy max. ~Vyg max, Veg max. P, max. T, max. >> Moe Bae -V, Volts % Derate 4,
+aa Votes Volts Volts | @2S°C ; (typical) above 25°C
+2N3822 50 50 50 300 mi 178°C. 2mA 3000 nO. 6 5OKQ 2 mW/C 0-59°C/mW
+30° 30 20 300 mW .. 200°C" TmA 5600 Loy 2:5 ‘50 KQ —_ * 0-59° C/mW
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 7a822a56535f
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS (MECHATRONICS), BATCH 14-15, 15-16 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; exam date: 05 December 2017
+- Text: ocr (4 pages), mean OCR confidence 70.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (MECHATRONICS) “ Year: II « Semester: III «
+
+, Batch: 2014-15 / 2015-16
+* Li a Ji tea
+| Academic Year: 2017-2018 " goer tae
+Subject: Electronic Devices and Circuits . get Na “Rey |
+Marks: 60° of 13   %
+Date: 05 December 2017 < Time: 10300 am ta, - g
+Duratit ee,
+No. of
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+!) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carr, eq::ai mavas.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures ir brackets on the right hand side indicate full marks.
+7) Assume Suitable datzif necessary.
+
+Ql. Answer the following
+a) Discuss the hybrid equivalent model of a bipolar junction transistor. [2]
+b) Derive the trans-coritluctance equation for a Field Effect Transistor. {2]
+
+c) Deterriisie the ripple factor, for a C filter having connected across a full wave bridge rectifier. [2]
+C= 500 uF, R = 1kQ.
+
+d) Discuss the significance of negative feedback in amplifier. Looe, [2]
+e) Elaborate 9n the working cf Colpitt’s Oscillator... . [4]
+Q2. Design a RC coupled single stage amplifier to obtain, |dyr| 2 280 to meet the following [12|
+
+specifications; fr, < 20 Hz, Vo = 3.5V, S < 10. Assume Voc = 15V.
+Discuss the effect on gain, if Rg is not bypassed.
+
+Q3. a) Analyze the following collector de feedback amplifier, and determine, input impedance (Z;), (6]
+output impedance (Zo), voltage’ gain (Ay), and the current gain (A)).
+
++4V
+34.2. zaka \eB RO
+
+- Ve ae R= 20
+
+ml A4sK a
+
+ln
+--- page 2 ---
+~
+
+Q3. b) Obtain the expressions for Z;, Zo, and Ay ina fixed bias CE amplifier without Re.
+c) Analyze the fixed bias amplifier below.
++TIBV
+
+680k 3: 3K
+paleo ( Vo
+= Vs
+fp> 5OKQV: a AHO
+
+QO4. Design a single stage CS amplifier for following specifications;
+|Ay=10, f. < 20 Fz, Vo = 2.5V.
+
+Q5. a) Determine the output impedance (Zo), smal] signal voltage gain (Ay), rio load voltage gain
+
+(Ayn), for the following circuit. — +Vop
+
+14 RK
+
+j
+t—<—2 Wig
+tk Amn = 3mnS
+
+QO TL
+7 mos) — Wye SOK
+
+<
+om eee]
+
+b) With an example describe the voltage series negative feedback circuit.
+
+Q6. a) Analyze the following Negative Feed Circuit for both with and without feedback condition.
+
++Vop
+R, = SOO Kk
+Rp :
+FR = ROO.
+p Rt hoKk-sh
+~ Roe BK
+
+Son * 5000S
+
+[3]
+
+[12]
+
+[6]
+
+[6]
+[6]
+--- page 3 ---
+Q6. b) Analyze the following feedback network to obtain, . - ; [6]
+voltage gain for the circuit with and without feedback.
+
+tpn
+
+aoka 25-(e a
+
+pee.
+[k.2 _—
+—j--——m
+
+Ve Fam = 5m &
+
+AFO.2
+
+Q7. a) Design a dc voltage of 350 V required supplying a 500 £2 load with a peak ripple voltage not [6]
+exceeding 5 V. Use Capacitor filter.
+b) Design Hartley’s Oscillator with output frequency fo = 5 MHz. [6]
+
+
+[4
+--- page 4 ---
+DATA SHEET
+esses HT = _ ee —=
+- erate
+Traasis‘or type @ 23°C @ 25°C volts volts (Sus} (Sus) - volts volts /T, max a, in “max, °CIW 25°C
+Watts Amps d.c. dc. volts dc.volts dic. dic, dc. 7S min Lype max. Tain, typ. max. wee
+ee : : a _
+2N 3055 115-5 15-0 21 100 60 70 90 7 200 20 50 70 15 50 120 18 7° 45 O7
+ECN 055 50-6 5-0 1-0 60 50 55 60 5 290 25 SO 100 25 75 125 1:5- ea) 6-4
+” . ECN 149 2 Oe 4-0 1-6 50 4c. _ _ 8 “150 30 SO 1g 33 60 HS 12 4-0 03 -
+FON 10% 0-7 0-6 70 60 65 = 6 200 So 90 280 50 90, 280 O-% 35. 0.05
+BCLIIA 0-25 0-1 0-25 50 45 se = 6 125 1s 180 220 { 125 220 266 0-9 _ _
+2N. 525(PNP e) 6 225 0-5 0-25 85. 30 _ = a 100. 35 _— 65 i 45 - _ ~ —
+8C147B 0-25 0-1 * 6.25 50 > 6 125 200-390 450 240 330 * 500 0-9 _
+a - cei al
+> sie
+2 — erent Y Wi
+Be 147A 27 KO: ene 15x 304 04°C imy BFW 11—JFET MUTUAL CHARACTERISTICS
+2N 525 (PNP) 144K Q 25U BU 3-2 x 10-5 —~ -Vas volts volts‘ |.0.0
+8C 1478 49KQ   30p 3 Bx WO" O:8°Chmwe
+ECN 100 500 Q° _ "Wee ed
+cf ECN 149
+3 ECN 055
+N 2N 3055 z
+N-Channel JFET m . : ; :
+» octnhanne ee aaa ar ee : : —
+Type Vis max, - Vig max. Vos max. P, max. T, max. Js Bung ~V, Volts Fy Derate 6,
+: Volts Volts Volis @25°C (typical) above 25°C
+2N3822 50 50 _ 50 360 mW 175°C 2mA 3000 2 @ 6 50 KQ 2 mWPCc 0-59°C/mW
+- aa et
+BFW It (typical) 30 30 30 300mW 200°C 7 mA 5600 4 zy 25 50 KQ — 0-59° C/nw
+ECT mA 5800S ee
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper b484af65c1d3
@@ -1950,501 +2507,6 @@ aIyn ]
 NI
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper f180abac1341
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS BATCH 16-17, 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 24 November 2018
-- Text: ocr (3 pages), mean OCR confidence 68.7
-
-````text
->
->
-
-CO) ; SVKM’s NMIMS
-a MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: II Semester: II
-
-“a
-Academic Year: 2018-2019
-
-={ MPSTME-
-48: 270 #IBRARY
-
-Date: 24 November 2018 Time: R00. pm to 5.60 p:
-
-“ Durations SBA Sheek Ss
-
-No. of Pages nets =
-
-Re-examination (2016-17 / 2017-18)
-
-i Subject: Electronic Devices and Circuits _
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary,
-
-Q.1 Solve following [14]
-a) Explain Common Collector amplifier.
-b) What is need of coupling? Explain different types of couplings.
-c) Explain Voltage amplifier.
-d) Explain Barkhausens criteria for oscillation.
-
-Q.2 Design two stage RC coupled amplifer for | Ay |> 200, Ri> 1 MQ, {i4]
-F< 20 Hz, Vee = 25V.
-
-Q.3. a) Derive expression for Ay’, Ro’ and Ri’for common Source amplifier
-
-With bypass capacitor [07]
-
-b) Explain RC phase shift oscillator [07]
-
-Q.4 a) Explain different types of negative feedback amplifier [07]
-b) Explain EDA tool with example [07]
---- page 2 ---
-Q.5. Design single stage CS FET amplifier using BFW11 for following [14]
-Specification | Av | = 15, Ri> 2 MQ, Fi< 20 Hz, Vee = 15V-
-
-Q.6.a) Explain series voltage regulator using error amplifier. [07]
-b) Design feedback network of Hartly and Colpitts oscillator with frequency
-of oscillation SOMHz. {07]
-[14]
-
-_ Q.7. Write short notes on :-
-a) Multistage amplifier.
-b)Trans conductance amplifier.
---- page 3 ---
--- Ley ao % # Rola
-; Eepeisgagiil; 3 AL
-fan = oo. ‘ 4
-JAens "y Slelele st [5|o ;
-7 . , 44 foparet Sls
-= (eeea tt iy “oh . Ste
-. i ait © alalole ]
-° a? mloFfolo
-He ieres elnlolg
-3 DMIAAA | & a eM u
-“sg aandd bs Alay she ehlg |
-~ ° . Sess .
-wei sle [3S 2 z
-: apa aid Q
-«| 4 |8g2egig Hi
-ad a eRe ea! viele
-Risse
-Bie "299 ‘Tels re)
-
-- E|S|SkSRS28l. +SlRs|e x [Big
-ayy ie ale
-=i beolslsle
-E|z SEs8anig bare a bak hk 3
-“ ae alti [et- = we fin
-
-malaj ato = ot
-zt _ =
-5 RBlesoeoers
-&)ELMERRAYS 1
-Fy : * pip
-EPR {RARASIR ay( artsy) ax
-m = . - a 3
-Fe ailaig ;
-$15 eung; =
-8 e SARS lus
-t
-: <
-@gooecnv yy g 4 £
-EP Saeagses an ieee Fed
-foe 5 :
-a. ga .
-Thy sha3 reawe |S 4 lo b
-ie * Ris
-< ee aia
-& 34
-< Ss3)/asiiii |
-&
-| age eligi)   (PS\2|e
-sgt “ks ‘Bala BS
-Szslenisaiat SilelFtel . |sigla
-3B ioe .
-S \ead ELUM Ug
-oa = |
-82 |SRSSeas felele
-7 -sS c L 2 m
-= 2 . &
-ib
-egy .
-= 2 :
-# q 834 SSaeaea | | | | 4
-: ‘ wt ESlelo
-. Op Em
-Jse . ge
-YS ein«cawnny S &
-wed [4224398
-WEYL aAaeOBSS
-oy.
-aye |eeezszall.| 222 Lelots
-ooo ‘ . wails
-ee Las Sleaai1ii) ts
-“oe ° rey S
-Re
-SPs weeeonsy OF an
-ENS HSSASRS a@gaaaas
-F@= ana :
-—— ~ :
-a L
-: ee < eS fd
-.. & v| [2 =
-. & 4 Way ge i : ,
-“ § |e828sseal): & \g\s aa
-a |Paagace el
-. : if 6 RRRRBRl
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper e9c08a1f8a5f
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS BATCH 2016-17 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 January 2019
-- Text: ocr (3 pages), mean OCR confidence 64.3
-
-````text
-i
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
-
-Program: B. Tech (Mechatronics) Year: II Semester : III
-“a Academic Year: 2018-2019 — 7
-| Subject: Electronic Devices and Circuits Marks: 70
-
-“
-
-Time: 2.00 pm to 5.00 pm
-wo
-
-Durations: 3 (hrs) L
-; No. of Pages:_ -3
-Re-examination (2016-17 / 2017-18) ~ _
-
-Date : 23 January 2019
-
-NB: -
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining ‘questions, attempt any 4 questions.
-
-3) All questions carry equal marks.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data if necessary.
-
-Q.1)
-a) State Miller’s theorem. Why CB amplifier is used for wideband applications? 4
-b) Justify. Zener shunt regulator is preferred over BJT shunt regulator for heavy loads. 3
-c) Explain use of Bleeder resistor in LC filters. : 4
-d) What are advantages of negative feedback in amplifiers? 3
-
-Q.2) Design a two stage RC coupled BJT amplifier for the following specifications: 14
-
-Small signal voltage gain Avr > 1600, Sco < 8, Rin > 3.5KQ, Vec= 9V, fi< 15Hz
-Q.3)
-
-a) Derive expression for common source amplifier with Rs bypass for Ay,Ri,Ro. 6
-b) For rectifier/filter circuit shown in figure derive expression for ripple factor and d.c. output 8
-voltage? Find value of ripple factor, ripple voltage at output and d.c. output voltage if C=
-ImF and Iy=100mA, Rp=500Q. Assume diodes to be ideal.
-
-SOV _-Lade
-
-LN ON iL c ER
-si oS OV, SOH% - g L Vo
-QON
-
-L
-
-. [2
---- page 2 ---
-Q.4)
-
-a) Draw topology for current series negative feedback amplifier. Derive expression for
-Trancondutance, input resistance and output resistance with feedback.
-b) For the circuit shown in fig. using negative Feedback approach, determine Rig, Rog, and Avr
-
-q12V
-kK 23K
-ae mn Vo
-Rs
-Vi 310k
-a thes
-Q.5)
-a) Explain Barkhousen’s principle for oscillations. What are conditions to obtained sustained
-oscillations?
-b) Draw the circuit of Colpitts oscillator using BJT and.explain its operation. Derive the
-
-expression for frequency of oscillations.
-Q.6) For the circuit shown in fig. determine following parameters: i) DC bias conditions(Q-
-
-point) ii) output resistance iii) voltage gain iv) input resistance
-
-oN yRET- GFW"
-$100 prt -Bct47A
-ake [
-} jp __]
-oA LLF OSHF SOMF
-yooh : pa
-i 7K
-
-4mog $9002. 201 55k Vo
-
-Q.7) Write short note on
-
-a) High frequency Hybrid-z CE amplifier model
-b) Transistorized linear series voltage regulator
-c) Effect of Negative feedback on performance parameter of amplifier
-
-23
-
-14
---- page 3 ---
-3 . S New ak
-‘ ondi : . | Data Sheet
-Appendix . Ria
-H :
-$206 B2egl li = le
-BSos ood ELE
-Suk P Els
-7 48 : elelele & [O10
-$1d/ Sj d} Ble
-& [eeea yyy]. bee ete
-so ae OF hialial oto} old)
-° aldotd]d
-“wk ‘lemacea jo VQyPT Sle G
-sg [Sates ls Ala] S/d te Blely
-38 Si]
-41ele1e Bele
-si ¥/882B818 eee ar ibe
-SP RLRAAESR IS Salo 8
-= y
-. aia ald
-3 < F 4
-Swoon GIG
-: &|S/ASSagts ea be boa be 2 feds
-. Qe
-| - cam hal
-S : eS ELS
-ae eed oS e ay eye.
-§ |B /AkS8SR 18 &
-‘ alsinle S jets
-etm} alo . N
-| £legeggss elelele ‘
-s;pREIMSRaare HLS ato
-Sl.g|eocooto a ied ce Bd Fa
-< = RLBaGRB IS Gl S| So} ai— =i 245
-a : = : my =
-. 8 12/1 sig
-sSPViereys aL S13
-+ SS lel ti Spal
-OT El loncenneg, iQ oo
-. EL, Ames w
-7 “8! Sielolsle
-3 S/o ALS
-g : gl<
-, & = 2
-EO|SS88Sases Girealololo fe) RlE
-~° UN re Nir w{ Slalolenr alé
-& ia : 3 7S
-a ; Ri elslele
-: P QP oA ls
-wa 4 7 2 s |s
-: 5 S fels
-3 5
-Bl see Sl oldl<is a ET ys
-@]} Ssgiasitlii) Ll sejee
-=) “JEM alg
-a8 s/s BE] | 6 go z =
-eu Fs alala
-$30 ee 1 se )e S1718) 88 BR slo
-Sas |Rulwealn aan ~@| SiS
-S$ x mim
-a
-3
-: = 2 y 4
-8F™ loosen || - zl. 2 | ca
-She | Saserasll (SoS | £8lele
-er = al & 9 mio
-5 SoS, 3S
-o ™
-seg a
-ar) ooo ono .
-ty wod Sour Aas LL | {| -f
-: ef SSS EE ha ESlolo
-g BB] xX RX Oo} AM
-38g “Ta ean in
-“tS ct oe Cie
-ese /ESSSHRS|| jaa: i
-. > eoo
-© om : H
-fh lesenses|| | opp Slot.
-EN Ep Madoogo]y gagli1| 8] ALS
-ses =) 8a a*
-Yea
-She lpeconns i
-a &as 4eeusaeg Gaagcaag
-Leia 3} Bi deuoeoy
-
-ween hGa
-
-ead
-Pts lk
-2 En
-
-» 2 wo, 8
-~ ~~ . a
-
-& ~ BP a) &
-& iz S| y >
-
-8 2eeeh.lsl<fgeenul FS eS
-
-5 SSESesa FI SGSSlSyal EA lals
-
-7 Soree Qe ls SQ255oS BRIS
-
-a =4 Ras B} aA l eS . 3].
-
-s S8Soxrg Sus ys8Ss| 2 Pars
-ARRRSRSIS SA SERE a= !
-````
-
-## 2016-17 · Exam not stated · Sem 3 · paper e7510425f450
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONICS DEVICES AND CIRCUITS (MECHATRONICS), BATCH 16-17.pdf`
-- Printed on paper: exam date: 05 December 2017
-- Text: ocr (3 pages), mean OCR confidence 77.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (MECHATRONICS) ° YearNI Semester: III —
-
-Batch: 2016-17 / ‘dias
-
-ioe
-
-| Academic Year: 2017-2018 ~ a“ yet o Bittge ey,
-Subject: Electronic Devices and Circuits | VS _ Ra :
-
-Marks; 70 / yuh Ye
-
-> 8
-
-Date: 05 December 2017. Time: 1050 am tou OOM, |
-Duration; (hrs) - ye
-No. of Nea Z
-Re-Examination
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) All questions carry equal marks.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary.
-
-Q.1) Answer all questions
-a) A CB configuration circuit has Ig =4 mA, @ = 0.98, and V;= 2mV across the EB junction. 2
-
-Determine the A, for a load across CB junction of 560 Q.
-
-b) Given Ig = 2.5 mA, hfe = 140, hoe = 20 uS, draw the CE hybrid equivalent circuit. 2
-c) Derive the expression for trans-conductance gm for a JFET. 2
-d) Describe CLC filters used in rectifier circuits. 4
-e) Describe Barkhausen Criterion for sustained oscillations. 4
-
-Q.2) a) Design a single stage RC coupled amplifier using BJT BC147B for obtaining the following 10
-specifications: A,> 150, S < 10, V, = 5V (rms), and f;, = 20Hz.
-
-b) Verify the A,, Z;, and Z, for the designed Amplifier above in 2a. 4
-Q.3) .
-a) Derive the expression for Aj, Ay, Z; and Z, for the F ixed Bias with Rg un-bypassed, CE 10
-ars | amplifier.
-b) Consider Rg = 470 kQ, Rc = 4.7 kQ, Re = 1kQ, and Ry = 10kQ, hie = 2.8kQ, and hfe = 160. 4
-
-Calculate A; A,, Z; and Z,, for the circuit above 3a.
---- page 2 ---
-Q.4)
-
-a) Design a Self Biased common source JFET amplifier using BFW11 for zero temperature 10
-drift condition, having |A,| = 25, Vogms =2.5V , fi = 20 Hz.
-b) Analyze the circuit obtained in 4a. Determine A,, Z; and Z,. 4
-Q.5)
-a) Design a full wave bridge rectifier to give Vac = 15V to a Ry = 15Q and a ripple factor 10
-better than 0.05 using a 7T filter.
-b) Determine the voltage gain, input impedance, and output impedance with feedback for 4
-voltage series feedback having an open loop gain A = -100, Zi = 10kQ, and Zo = 20kQ at
-; B=- 0.5. Verify the same for B= -1.
-Q.6)
-a) Write Short Notes on EDA tools used for circuit simulation. : 7
-b) Draw the voltage shunt negative feedback topology and derive the expressions for the 7
-topology.
-Q.7)
-a) Design Hartley’s Oscillator with frequency of oscillation 1KHz, Ry = 1kQ. 7
-b) Describe RC phase shift oscillator and obtain the expression for frequency of oscillation. 7
-
-ge oe 2 2s 2 2 2 2 2
---- page 3 ---
-BFW 11 (typicat)
-
-DATA SHEET
-. . Derate
-Pdmax Icmax Vo Vero Vera Vice Veg, Vero ° - D.C. curreat gain Small Signet Ay Ves 0, above
-Transistor type @ 25°C @ 25°C valts volis (Sus) (Sus). valts volts T, max . * max. ociw «25°C
-. Wats Amps dc. - dic. volts dc.volis dic. dic. dc, ° min typ. max. min. typ.” mak, “wee
-2N 3055 115-5 15-0 11 100 60 =—70 ‘90 7 200 29 50 vi) 15 50 120 1-8 15° 07°
-ECN 085 50-0 5-0 1-0 ” 60 50 55 60 5 200 25 - 50 100 25 75 125 15° 3-5 0-4
-ECN 149 30-0 40 1-0 50 40. _ _ 8 «150 30 50 110 33 60 US 1-2 40 03.
-ECN 100 50 0-7 0-6 10 60 65 _ 6. 200 50 90 = 280 50 90 280 0-9 ~ 35 0.05
-BCIATA 0-25 O-1 025 50 45 50 _ 6 125 115 180 (220 125 220 260 09 _~
-‘2N S25S(PNP ) 0-225 0-5 0-25 85 30 _ _ _ 100. 35 — 65 ~_ AS — ~ _ _
-BC147B 0-25 . OF 0-25 50 45 50 _ 6 125 200 . 290 450 | 240 330 500 0-9 — —
-Transistor type hie koe fre Ga. ; .
-BCIAIA._... .24KO,A8.5 | 15x10 04Cinw DEW MOVPET MUTUAL CHARACTERISTICS —__ = pica
-‘IN 525 (PNP): 14K Q. 256 U 3-2-« 107... -— —   =Vas volts .0-0 | -0-2 | 04] 06] O8] EO] 1-2 |.1-6} 20] 24 | 2-5] 3-0 | 3-5] 4-0
-rove ~ rs 30h 2X IO O4°Cimw “Ios max. mA}. 4019.0 [ 83] 76] 6-8 | 61} 5-4 | 42 [3-1] 22] 20] 11 | 05] 00
-ECN 149 20a = — fos yp. mA | 70 | 60 | 54 | 4-6] 4.0] 3:3 | 27 | 1-7 | 08] 02] 00 | UO | 0-0 | 00
-ECN 055 1002 — — — Ips min. mA }'4-0] 3-0 [ 2-2] 1-6] -10]. 0:5 | 0-0 | 0-0 | 6-0] 00] 0-0] 00 {| 0-0 | 00
-2N 3055 25.2 _ — —_—- > - 7 oem
-N-Channel JFET a .
-Type Voy max. ~Vyg max, Veg max. P, max. T, max. >> Moe Bae -V, Volts % Derate 4,
-aa Votes Volts Volts | @2S°C ; (typical) above 25°C
-2N3822 50 50 50 300 mi 178°C. 2mA 3000 nO. 6 5OKQ 2 mW/C 0-59°C/mW
-30° 30 20 300 mW .. 200°C" TmA 5600 Loy 2:5 ‘50 KQ —_ * 0-59° C/mW
-````
-
 ## 2016-17 · Re-Exam · Sem 3 · paper f76938757a7b
 
 - Departments: Mechatronics
@@ -2452,6 +2514,7 @@ aa Votes Volts Volts | @2S°C ; (typical) above 25°C
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELCTRONIC DEVICES AND CIRCUITS BATCH 16-17 RE EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 01 June 2017
 - Text: ocr (3 pages), mean OCR confidence 70.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2554,7 +2617,6 @@ bige |Szggui Ab
 : Ss ASO hin finl o}o J at
 
 8 Jeugaa toa 21s S1e vo
-= wad FS]. Ala] Slo tee e||
 me 3 S.
 wale} 2/2 Sy ca
 alal did ;
@@ -2568,7 +2630,6 @@ eis ata al old
 a . :
 ale
 Ele WISTS IS)-
-21/8 lunmoco ° iat tal Niel bk 2
 = a : i 2
 ili |Seaagig 3
 afsirle S jels
@@ -2633,398 +2694,7 @@ Le |= same | Re 4x<8e3K i En
 yok
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 79aa79de6cc3
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITES BATCH 14-15 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 June 2016
-- Text: ocr (3 pages), mean OCR confidence 68.5
-
-````text
-NY
-
-Some,
-
-SVKM’s NMIMS {7a
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & neh fees ,
-
-Programme: B.Tech (Mechatronics) Year: II Semester: III ef ey
-Academic Year: 2015-16 .
-\ ws
-Batch: 2014-15 / 2015-16 Marks:60 ey
-Subject: Electronic Devices and Circuits Time: 10.00 am - 1.00 pm
-Date: 14 June 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-C 4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page. .
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Ql. A) What is Barkhausen’s criteria for sustain oscillation ? 4
-B) What is modelling? Compare between re and hybrid modelling. 4
-C) Explain Miller effect capacitance. 4
-
-Q2. Design single stage RC coupled CE amplifier to meet the following requirements 12
-Ay = 200
-Sico £9
-Vec = 12V
-Ri = 25KQ
-
-z F, = 18Hz, Calculate Ay, Ri, Ro of the designed circuit
-
-Q3. A) Design RC-phase shift oscillator for the frequency of 10 KHz. 6
-
-B) For the network of Fig., determine Zi, Zo, Av, Ai. 6
-ov
-2.7 kQ
-aac
-{—.r,
-
-I; 10 WF
-
-Be >
-¥,o—] B =200,r, = 0
---- page 2 ---
-Q4.
-
-Q5.
-
-Q6.
-
-Q7.
-
-A full wave rectifier employing a center tapped transformer and two diodes give
-DC output voltage of 120V to resistive load and current of 70mA+20mA.
-
-If the ripple factor is to be 0.05, calculate the specifications of the device and
-specifications of filter components required if the filter used is LC filter.
-
-A) The self-bias configuration has an operating point defined by Vcso=2.6 V and
-Ino= 2.6 mA, with Jpss= 8 mA and Vp=6 V. The value of jos is given as 20 US.
-
-(a) Determine gm.
-
-(b) Find ru.
-
-(c) Find Zi.
-
-(d) Find Zo
-
-(e) Calculate 4v with and without the effects of ra. Compare the results.
-
-20v
-
-B) Derive an expression for Zi, Zo. Av for source follower amplifier.
-
-Design Two stage RC coupled CS amplifier using JFET BFW11 to meet the
-following requirements
-
-Ay = |49|
-
-Vo=2.5V
-
-Frequency response is between 20 Hz to 20 KHz.
-
-Write short note on
-
-A) Cascode Amplifier
-B) EDA tools
-
-213
-
-12
-
-12
-
-12
---- page 3 ---
-. ; te
-. Jew H H
-. BERYL pe eae 7
-2 see ta]
-
-Sacec |eeaag i!
-Beak a) !
-, - e
-#{[elele]
-° slol ofa
-ok we See TE Tt
-VA . . sO As alelels .
-rlatd
-RE [eo gae.)@ a tol Boal ba
-| nesoale BLALS|S] vble
-x
-ESE
-F : MPLS IO Soule
-we | oy Qo woo ail. SIN Olo “4Q i &
-2/3 (RA2SS3 18 > ;
-— ae A “ oye . de
-. TIS age
-NAP SlS i
-; sf]. :
-= ag loneoodvane : gS
-so AMSAG ofe|ealo
-|? : aes alalale a omen id g
-; RIS
-wo = pfestesfa] +
-S 7.8 fs z oe ea eo tod
-E,l*@;FARassies 2
-> . sisi a[e > ofS \
-’ . Pe fied > Ee bs = . eu
-; £/2/esesess| -jsterarel -*- *
-y oe : Sle) rofia :
-de as {Sp Aala ;
-. Blelee - oe aro © f
-. 2é E RaARRS HAL sie = ote
-* ye Pad .
-~ © 7S
-&rslelels J218/8
-7 ‘ fe i Pol Sleep ae pe | -BP Sie
-tte GB. eysenanel uy ce od
-: a} EL Ss aa sas 5 : F
-. ? . : =iyvilerrie . . t, ¢ .
-& 3 - . “ s peo] yf cd . :
-| z nn SS es ee ee 0
-Hl]. 5s |SSSS8SR) Sialelale 2. | ele
-5 a on a os a fofapolal ¢ aie
-< - a
-> &. 2 os
-s 2S 8
-ia} a 2s feaas)
-i te tt HIS
-© m 7 ome toe
-So. ; So
-* A :
-: =
-. a>
-. g
-{ox Peete
-7 BHU lial
-. 2° = 2
-@ we eee (oe a &p ple hy jks ela
-i “ : Ele 2. 4 yy, 1 sel: :
-. . een ; a ory eee eee :
-eos 4 a . . . “ .
-Loe egoonso Bast
-EERE ELST |] Teale
-“ | als.
-nih spa} (83/8 ]8]
-vane 2 {eg Yt,
-‘ oo . 2s fk
-Po wppep.. > ft de ehotey
-8) SBA] 1 11 7 So} alm
-Seas <|.29e - z a> —
-pear wat > -
-ae] ' : ° adddada “Ls
-A
-~ 2ow. Bte)
-SyPeeXR SPAY -c]. “ ee
-. . ne Lie fh ae : '
-5 5 es | ee 4. .
-# . . . te —
-& ; AHS Spe pays
-, oar) a > ori a &
-* uu *. =
-5 7 8 "S]-m a ae
-B18 828 <Rai§ a) 8/9 |=
-wg Baeanes 3 onuvdons i) i: Bye.
-“£ ) [RRRRSARIAPR ARDS mt dai
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 7a822a56535f
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS (MECHATRONICS), BATCH 14-15, 15-16 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; exam date: 05 December 2017
-- Text: ocr (4 pages), mean OCR confidence 70.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (MECHATRONICS) “ Year: II « Semester: III «
-
-, Batch: 2014-15 / 2015-16
-* Li a Ji tea
-| Academic Year: 2017-2018 " goer tae
-Subject: Electronic Devices and Circuits . get Na “Rey |
-Marks: 60° of 13   %
-Date: 05 December 2017 < Time: 10300 am ta, - g
-Duratit ee,
-No. of
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-!) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carr, eq::ai mavas.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures ir brackets on the right hand side indicate full marks.
-7) Assume Suitable datzif necessary.
-
-Ql. Answer the following
-a) Discuss the hybrid equivalent model of a bipolar junction transistor. [2]
-b) Derive the trans-coritluctance equation for a Field Effect Transistor. {2]
-
-c) Deterriisie the ripple factor, for a C filter having connected across a full wave bridge rectifier. [2]
-C= 500 uF, R = 1kQ.
-
-d) Discuss the significance of negative feedback in amplifier. Looe, [2]
-e) Elaborate 9n the working cf Colpitt’s Oscillator... . [4]
-Q2. Design a RC coupled single stage amplifier to obtain, |dyr| 2 280 to meet the following [12|
-
-specifications; fr, < 20 Hz, Vo = 3.5V, S < 10. Assume Voc = 15V.
-Discuss the effect on gain, if Rg is not bypassed.
-
-Q3. a) Analyze the following collector de feedback amplifier, and determine, input impedance (Z;), (6]
-output impedance (Zo), voltage’ gain (Ay), and the current gain (A)).
-
-+4V
-34.2. zaka \eB RO
-
-- Ve ae R= 20
-
-ml A4sK a
-
-ln
---- page 2 ---
-~
-
-Q3. b) Obtain the expressions for Z;, Zo, and Ay ina fixed bias CE amplifier without Re.
-c) Analyze the fixed bias amplifier below.
-+TIBV
-
-680k 3: 3K
-paleo ( Vo
-= Vs
-fp> 5OKQV: a AHO
-
-QO4. Design a single stage CS amplifier for following specifications;
-|Ay=10, f. < 20 Fz, Vo = 2.5V.
-
-Q5. a) Determine the output impedance (Zo), smal] signal voltage gain (Ay), rio load voltage gain
-
-(Ayn), for the following circuit. — +Vop
-
-14 RK
-
-j
-t—<—2 Wig
-tk Amn = 3mnS
-
-QO TL
-7 mos) — Wye SOK
-
-<
-om eee]
-
-b) With an example describe the voltage series negative feedback circuit.
-
-Q6. a) Analyze the following Negative Feed Circuit for both with and without feedback condition.
-
-+Vop
-R, = SOO Kk
-Rp :
-FR = ROO.
-p Rt hoKk-sh
-~ Roe BK
-
-Son * 5000S
-
-[3]
-
-[12]
-
-[6]
-
-[6]
-[6]
---- page 3 ---
-Q6. b) Analyze the following feedback network to obtain, . - ; [6]
-voltage gain for the circuit with and without feedback.
-
-tpn
-
-aoka 25-(e a
-
-pee.
-[k.2 _—
-—j--——m
-
-Ve Fam = 5m &
-
-AFO.2
-
-Q7. a) Design a dc voltage of 350 V required supplying a 500 £2 load with a peak ripple voltage not [6]
-exceeding 5 V. Use Capacitor filter.
-b) Design Hartley’s Oscillator with output frequency fo = 5 MHz. [6]
-
-OB i 2 oo a ok Kok
-
-[4
---- page 4 ---
-DATA SHEET
-esses HT = _ ee —=
-- erate
-Pdmax Iemax Veo Vin Veco Vesg Vesey Kobon. D.C. current gain Small . Sienal A Vie 9, aucve
-Traasis‘or type @ 23°C @ 25°C volts volts (Sus} (Sus) - volts volts /T, max a, in “max, °CIW 25°C
-Watts Amps d.c. dc. volts dc.volts dic. dic, dc. 7S min Lype max. Tain, typ. max. wee
-ee : : a _
-2N 3055 115-5 15-0 21 100 60 70 90 7 200 20 50 70 15 50 120 18 7° 45 O7
-ECN 055 50-6 5-0 1-0 60 50 55 60 5 290 25 SO 100 25 75 125 1:5- ea) 6-4
-” . ECN 149 2 Oe 4-0 1-6 50 4c. _ _ 8 “150 30 SO 1g 33 60 HS 12 4-0 03 -
-FON 10% 0-7 0-6 70 60 65 = 6 200 So 90 280 50 90, 280 O-% 35. 0.05
-BCLIIA 0-25 0-1 0-25 50 45 se = 6 125 1s 180 220 { 125 220 266 0-9 _ _
-2N. 525(PNP e) 6 225 0-5 0-25 85. 30 _ = a 100. 35 _— 65 i 45 - _ ~ —
-8C147B 0-25 0-1 * 6.25 50 > 6 125 200-390 450 240 330 * 500 0-9 _
-a - cei al
-> sie
-2 — erent Y Wi
-Be 147A 27 KO: ene 15x 304 04°C imy BFW 11—JFET MUTUAL CHARACTERISTICS
-2N 525 (PNP) 144K Q 25U BU 3-2 x 10-5 —~ -Vas volts volts‘ |.0.0
-8C 1478 49KQ   30p 3 Bx WO" O:8°Chmwe
-ECN 100 500 Q° _ "Wee ed
-cf ECN 149
-3 ECN 055
-N 2N 3055 z
-N-Channel JFET m . : ; :
-» octnhanne ee aaa ar ee : : —
-Type Vis max, - Vig max. Vos max. P, max. T, max. Js Bung ~V, Volts Fy Derate 6,
-: Volts Volts Volis @25°C (typical) above 25°C
-2N3822 50 50 _ 50 360 mW 175°C 2mA 3000 2 @ 6 50 KQ 2 mWPCc 0-59°C/mW
-- aa et
-BFW It (typical) 30 30 30 300mW 200°C 7 mA 5600 4 zy 25 50 KQ — 0-59° C/nw
-ECT mA 5800S ee
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 7fe76737a77c
+## 2016-17 · Re-Exam · Sem 3 · paper 7fe76737a77c
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -3204,13 +2874,14 @@ oa
 m
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 7c9e3e3f4f5a
+## 2016-17 · Re-Exam · Sem 3 · paper 7c9e3e3f4f5a
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS BATCH 14-15,15-16 RE EXAM (1).pdf` (+1 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 71.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3405,7 +3076,6 @@ a -\s
 x ~ Hk = 5 si
 Ee & 2 2 3} oy $
 ae . $ . =
-Ss AAS a s a au “st & i
 & Be=S 858 S/Sg88S83l sg] eS lal=
 g SS5ee calls ab Spee, io} sl=
 i . gs a8 Sx8 =z SRREESa Sts
@@ -3416,6 +3086,613 @@ AL
 SSeS
 ````
 
+## 2015-16 · Final-Exam · Sem 3 · paper c2f3329af387
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS (MECHATRONICS), YEAR 15- FINAL EXAM.pdf`
+- Printed on paper: exam date: 05/12/2015
+- Text: ocr (3 pages), mean OCR confidence 67.1
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Mechatronics) Year: II Semester: III
+
+Academic Year: 2015-2016
+
+Subject: Electronic Devices and Circuits
+
+4 Ie.
+Marks He ‘we,
+
+‘ %,
+
+By
+
+Date: 05/12/2015 Time Bas Brae 3a
+fe hrs BRAR &
+
+} ; ¢,
+
+Durati
+ons 3,
+
+Final-Examination By Xoo,
+
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Out of the remaining questions, attempt any 4 questions.
+3. Answer to each question to be started on a fresh paper.
+4. Figures to the right indicate full marks.
+5. Assume suitable data wherever necessary.
+
+Ql. Attempt any Three questions:-
+
+A What modeling? Describe hybrid modeling 4
+B What is EDA Tool +
+Cc For given circuit draw the small signal model using approximate 4
+
+hybrid model
+
+‘ se
+4 é.
++ f fe. +
+me OR, Se =
+gf gH
+L* [*
+
+D What are the advantages of negative feedback amplifier 4
+E Compare BJT and JFET 4
+Q2 A Design R-C Coupled single stage Common Source Amplifier 8
+
+using JFET BFW 11 with Av=-9 , FL=20Hz & Vpp = 20 V,
+For designed circuit what will be maximum output voltage
+expected that can obtained without Distortion.
+B For Voltage divider FET amplifier derive an expression for Ay, Zi 4
+and Zo bypassing Rs
+
+Q.3 Design multistage amplifier for following requirement:
+
+Av = 700, Zi=IMQ S <9 O/P voltage Vo=4 V (mms) ie
+
+Q4 A For voltage series feedback, derive an expression for Ri, Ros, and 6
+Ave
+
+Page 1 of 3
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+A
+
+Derive an expression for Ay Aj, Zi and Zo for circuit shown
+
+A full wave rectifier employing a centre tapped transformer and two
+diodes give DC output voltage of 120 V to resistive load and current
+of 75ma+25ma If the ripple factor is to be 0.05, calculate the
+specification of devices and specification of filter components
+
+required if the filter used is LC filter.
+
+Design Single stage RC coupled CE amplifier to meet the following
+requirements
+
+Ay= 150
+
+Sico < 9
+
+Vec = 10 volts
+
+Ri = 25 KQ
+
+FLS 20 HZ
+
+Calculate. Ay, Zi, and Zo of the designed amplifier
+
+What is Barkhausen’s criteria for sustained oscillation
+
+Design RC phase shift oscillator for oscillating frequency 12KHz
+
+Page 2 of F
+
+12
+--- page 3 ---
+ls t i
+ERE feeog it raf
+
+SEhHS | AadF ‘y
+
+PQea k oe .
+
+2 : 4 Qeow | | it
+. SS 2328 :
+Bs
+yao OS AD. | HE BSiaielel
+tg teaoa ls Pipe pors 2
+: & " =I" x" ¢ |
+s
+; alslelo Soy [ 2
+4 /@neesie Ala&idid “19 5, &
+AalRASSS IS Shaw 7
+3 — ee b So “Eh -
+. Tislele
+NPAPSlo 4
+3 . , -
+8 agi eunovdano S Gig
+S| SJRRSRSLS Abed bea ba ~
+21,5 : as afAlald - Ball ms
+. RS
+; wi . wisi (ey: :
+: & = Read ~~ =S
+i é é . sisi nie = oe
+: 2 en apy cpio < “aN
+aig ST aaaEee ai
+al slesesenso . =z He.
+Si efeexrgges Vers eer
+. ? : es fOlrmlo
+vé Bl ote . eS} a “s
+& F a 18
+. - . ed bd dl Bd [43g
+a, * WL § sugges . 5 cides (ane
+ae: 2 : :
+< aan s sf Tpopsis 7 = .
+& a? o rs ot hd fell i t .
+Bl. ; Ly pip aed ee lb ; e)<¢ .
+a we a is nd | Seen ve | os : oye
+. 2 Sb, : ars
+‘ sé Bg 8 je awww pete Sd ie ad otha 4
+\
+7 ‘
+ry ‘ = :
++
+“ es oe |. BES aoooll' |) figlals
+On, >
+; — elyeg he. ES! Sto
+“ bh x Ss; Aip
+234 “eee o
+: EY aa .
+aan Yvisragad Ss
+ae = = {Sl gaairi i) / 3s] 5) -
+ran | a aan ‘|
+a MOGeungy 7 -_ can ee
+- RIG 983 adagadd ?
+d 28 SES Gg oMd al f- - .
+F SSS ioe ee ee we
+: 1 ee - ode
+ifort “ft
+z coo So az oe
+'s a S 3 3 >
+is wee ics s ‘& =
+So} R823 sea //8 ‘Z aye]
+2. [Baa sSalts ) | | Be
+& Abakaa els = ala
+= 2 . .
+
+a]
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 79aa79de6cc3
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITES BATCH 14-15 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 June 2016
+- Text: ocr (3 pages), mean OCR confidence 68.5
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+NY
+
+Some,
+
+SVKM’s NMIMS {7a
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & neh fees ,
+
+Programme: B.Tech (Mechatronics) Year: II Semester: III ef ey
+Academic Year: 2015-16 .
+\ ws
+Batch: 2014-15 / 2015-16 Marks:60 ey
+Subject: Electronic Devices and Circuits Time: 10.00 am - 1.00 pm
+Date: 14 June 2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+C 4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. .
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Ql. A) What is Barkhausen’s criteria for sustain oscillation ? 4
+B) What is modelling? Compare between re and hybrid modelling. 4
+C) Explain Miller effect capacitance. 4
+
+Q2. Design single stage RC coupled CE amplifier to meet the following requirements 12
+Ay = 200
+Sico £9
+Vec = 12V
+Ri = 25KQ
+
+z F, = 18Hz, Calculate Ay, Ri, Ro of the designed circuit
+
+Q3. A) Design RC-phase shift oscillator for the frequency of 10 KHz. 6
+
+B) For the network of Fig., determine Zi, Zo, Av, Ai. 6
+ov
+2.7 kQ
+aac
+{—.r,
+
+I; 10 WF
+
+Be >
+¥,o—] B =200,r, = 0
+--- page 2 ---
+Q4.
+
+Q5.
+
+Q6.
+
+Q7.
+
+A full wave rectifier employing a center tapped transformer and two diodes give
+DC output voltage of 120V to resistive load and current of 70mA+20mA.
+
+If the ripple factor is to be 0.05, calculate the specifications of the device and
+specifications of filter components required if the filter used is LC filter.
+
+A) The self-bias configuration has an operating point defined by Vcso=2.6 V and
+Ino= 2.6 mA, with Jpss= 8 mA and Vp=6 V. The value of jos is given as 20 US.
+
+(a) Determine gm.
+
+(b) Find ru.
+
+(c) Find Zi.
+
+(d) Find Zo
+
+(e) Calculate 4v with and without the effects of ra. Compare the results.
+
+20v
+
+B) Derive an expression for Zi, Zo. Av for source follower amplifier.
+
+Design Two stage RC coupled CS amplifier using JFET BFW11 to meet the
+following requirements
+
+Ay = |49|
+
+Vo=2.5V
+
+Frequency response is between 20 Hz to 20 KHz.
+
+Write short note on
+
+A) Cascode Amplifier
+B) EDA tools
+
+213
+
+12
+
+12
+
+12
+--- page 3 ---
+. ; te
+. Jew H H
+. BERYL pe eae 7
+2 see ta]
+
+Sacec |eeaag i!
+Beak a) !
+, - e
+#{[elele]
+° slol ofa
+ok we See TE Tt
+VA . . sO As alelels .
+rlatd
+RE [eo gae.)@ a tol Boal ba
+| nesoale BLALS|S] vble
+x
+ESE
+F : MPLS IO Soule
+we | oy Qo woo ail. SIN Olo “4Q i &
+2/3 (RA2SS3 18 > ;
+— ae A “ oye . de
+. TIS age
+NAP SlS i
+; sf]. :
+= ag loneoodvane : gS
+so AMSAG ofe|ealo
+|? : aes alalale a omen id g
+; RIS
+wo = pfestesfa] +
+E,l*@;FARassies 2
+> . sisi a[e > ofS \
+’ . Pe fied > Ee bs = . eu
+; £/2/esesess| -jsterarel -*- *
+y oe : Sle) rofia :
+de as {Sp Aala ;
+. Blelee - oe aro © f
+. 2é E RaARRS HAL sie = ote
+* ye Pad .
+~ © 7S
+&rslelels J218/8
+7 ‘ fe i Pol Sleep ae pe | -BP Sie
+tte GB. eysenanel uy ce od
+: a} EL Ss aa sas 5 : F
+. ? . : =iyvilerrie . . t, ¢ .
+& 3 - . “ s peo] yf cd . :
+Hl]. 5s |SSSS8SR) Sialelale 2. | ele
+5 a on a os a fofapolal ¢ aie
+< - a
+> &. 2 os
+s 2S 8
+ia} a 2s feaas)
+i te tt HIS
+© m 7 ome toe
+So. ; So
+* A :
+: =
+. a>
+. g
+{ox Peete
+7 BHU lial
+. 2° = 2
+i “ : Ele 2. 4 yy, 1 sel: :
+eos 4 a . . . “ .
+Loe egoonso Bast
+EERE ELST |] Teale
+“ | als.
+nih spa} (83/8 ]8]
+vane 2 {eg Yt,
+‘ oo . 2s fk
+Po wppep.. > ft de ehotey
+8) SBA] 1 11 7 So} alm
+Seas <|.29e - z a> —
+pear wat > -
+ae] ' : ° adddada “Ls
+A
+~ 2ow. Bte)
+SyPeeXR SPAY -c]. “ ee
+. . ne Lie fh ae : '
+5 5 es | ee 4. .
+# . . . te —
+& ; AHS Spe pays
+, oar) a > ori a &
+* uu *. =
+5 7 8 "S]-m a ae
+B18 828 <Rai§ a) 8/9 |=
+wg Baeanes 3 onuvdons i) i: Bye.
+“£ ) [RRRRSARIAPR ARDS mt dai
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 03aca442b2c2
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS B TECH (MECHATRONICS), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 05/12/2015
+- Text: ocr (4 pages), mean OCR confidence 67.5
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+\ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Progremme: B. Tech (Mechatronics) Year: II Semester: [iI
+Batch: 2014-2015
+
+Academic Year: 2015-2016
+
+Subject: Electronic Devices and Circuits
+
+Marks: l= i
+Date: 05/12/2015 Time: em to 1.00 pa
+Duration: ree J
+
+— ay
+
+Re-Examination
+
+y the instructions printed on the question paper and on the
+
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+3) In all 05 questions to be attempted.
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data, if required.
+
+1. Design a CE amplifier using BC147B transistor to sat
+L requirements.
+
+isfy following 2)
+Voltage Gain | Ay {= 120
+S<10
+Vo=1V
+frequency response is in between 20 Hz to 20 KHz.
+
+Calculate Avy, Ri, and Ro of the desi gned circuit.
+
+2.(a) Draw circuit diagram of phase shift oscillator. Explain its working. Give necessary
+
+(6)
+conditions for sustained oscillations. Derive for its frequency of oscillations,
+(b) Design 1 MHz Colpitt’s oscillator using BJT. . (6)
+3. Design single stage RC coupled CS amplifier using JFET BFW11 (12)
+
+to satisfy the following requirements.
+Ay> | 15|7
+Vo=2V
+
+frequency response is in between 20 Hz to. 20 KHz.
+
+4/4
+--- page 2 ---
+04. Design full wave bridge rectifier DC Supply with Vde =15V, Ri = 150 and C12)
+ripple factor > 0.05. Use L- section filter.
+
+Calculate expected ripple factor for designed circuit.
+05. Derive expressions-of voltage gain, current gain. input impedance, and output a 2)
+impedance for BJT voltage amplifier shown in figure. Calculate from above
+
+expressions voltage gain, current gain. input impedance and output impedance for
+
+same circuit.
+Vee
+Rez 24 KOE
+
+Res Re Ra= 220 kn
+C | | No Coy = Cog = 10.uf
+Cé :
+T = hie = | Kf
+M 6 N hfe = j00
+Co;
+E '
+Nin
+
+2/4
+--- page 3 ---
+06. Derive expressions of voltage gain, input impedance, and output impedance C\2)
+for JFET voltage amplifier shown in figure.
+Calculate from aboye expressions.voltage gain, input impedance, and output
+impedance for same circuit.
+5 Nl 2D
+Vop=4 Vv
+- og Co Roe Q2KN
+
+Cé . 1 | Vp Roz 450 fu
+ci ; Rez loMsL
+
+V5 Te = 25 KL
+6) KG. 3 Re Inss = 8 mA
+
+Ive 2 hv
+
+07. Write short notes on following (Any Two) al 2)
+a) Transistorized series regulator
+b) Crystal Oscillator
+
+c) Negative feedback topologies
+
+d) EDA tool for designing of amplifier
+--- page 4 ---
+masa Se Baray my .
+
+co, es
+. BIS! [E ISBBGS=S jslistogggs| §
+2(g OQ jwtSixgeisasslres| -& .
+esesgaGns BSSEAM a
+|B rey § Sessess |g “328 go 3
+‘ S 8.18 = ole 5 g
+S yi = § = >
+o WS .
+7 5
+2 . . RES
+meu te a
+& = ~ D>
+a RORRRIR Cee UR ES a.
+BD DSDED BBRSSSS EG 7 *
+— . a
+. uw - "®>
+sh - 11288 > . > Os -
+lewlal® El, FFE IS lloogoeynt ca -
+£ = : :
+Fy. a ’ a
+. : ‘ eos < °
+A ouen| ang
+7 Le Bessssztl| Fs, :
+g nHw - "we £ =
+ze | | | 455 : Tae
+! RSS
+TUT livegssss| Fs
+PEs .
+D i=] .
+< , :
+=f ' x Als fo< | ~
+S| S]= 2 | { 3 asaudsiece 8
+4 Bp Bo Rae.
+if } am [ere a
+. * 1
+wi < Sas ‘
+3 “| = na Si8i<| a RS !
+zle|[aF izjei" 4s ‘ - yey
+: Pisis}a 5
+= tie. | S ; awl] -RS,s
+B13 15154] Pili ?lssj vs
+- 5{>18 & ae;
+al5 Fra) q . 5
+Bl os : < ie) ®
+4 . Rg 4 '
+Ny lalstele}s uo PR 13
+S|Sjo/o > :
+‘ Sy
+oo clalelol= | + |g
+lw ; 21 ¢ ener) :
+s/2{ © ele teh ys REEBESS 18
+>| > = = a &
+BIVIE|L/e {
+7 : 8 all i¢ noc taps
+= pi Z|: '
+; .- 2 iBeceses| 21s ~ !
+wluls wlalsloL8
+\8isiber aPAalayg 5
+Fle 3S slalalS 18 Beuuule| s- . os,
+e i le TIEIVQi Spa “ sia a
+a 1 ‘Tolyle ° aA Nee
+jal f={s 282583] a] 2
+" ; L 4 Ris.
+a = Oo] ll =
+Slal <x S/ 4/218 Les
+= SLRSERS a.) 3
+* ole fate Mowaays 2
+: . (SS isla =
+. ul . 7 .
+Layo &
+7. . ojolely uss = he /
+Bla} Se 4=1o SaSssas| S| Fs ~
+, ; rojejele] :
+Soh tale ia ae
+stad = SS), aAsS-NN] R,
+. sty S ol- slolyly S1saacnsl(}
+- ” zis § BLS jo} .
+| y .
+Sin bl. : cores! Ex =
+. a ft alo}eiwu me > . we
+````
+
 ## 2014-15 · Final-Exam · Sem 3 · paper 7dfadfc42f13
 
 - Departments: Mechatronics
@@ -3423,6 +3700,7 @@ SSeS
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS B TECH (MECHATRONICS)- 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06/12/2014
 - Text: ocr (4 pages), mean OCR confidence 69.9
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 = SVKM’s NMIMS
@@ -3605,7 +3883,6 @@ wed (E226 a
 cal aod ‘
 Q . . 1
 : Qe |Ss2sssally pep | 2 blole
-gE sssessels aaar iil). [seer]
 @. SxS / <3
 Pele eeyeyd . “
 * QS QSSR998|| laaagagg). a
@@ -3614,223 +3891,13 @@ ar oe ° BSe Mara . :
 ero
 ant - _ —
 a =
-B a & = Ss s g
 S mR 5) = Gl ws S
-s = 3 = an ey a oa pee
 £ Iapes<Sa Sx >esshal & Sig =.
 3. S2Fcag S;Eyges89 ape [ge
 2 Boe Ene Hen ists g Bde.
 S |RPeRR a ells veg ehSgal z ale
 
 Zz
-````
-
-## 2014-15 · Re-Exam · Sem 3 · paper 03aca442b2c2
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS B TECH (MECHATRONICS), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 05/12/2015
-- Text: ocr (4 pages), mean OCR confidence 67.5
-
-````text
-SVKM’s NMIMS
-\ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Progremme: B. Tech (Mechatronics) Year: II Semester: [iI
-Batch: 2014-2015
-
-Academic Year: 2015-2016
-
-Subject: Electronic Devices and Circuits
-
-Marks: l= i
-Date: 05/12/2015 Time: em to 1.00 pa
-Duration: ree J
-
-— ay
-
-Re-Examination
-
-y the instructions printed on the question paper and on the
-
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-3) In all 05 questions to be attempted.
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data, if required.
-
-1. Design a CE amplifier using BC147B transistor to sat
-L requirements.
-
-isfy following 2)
-Voltage Gain | Ay {= 120
-S<10
-Vo=1V
-frequency response is in between 20 Hz to 20 KHz.
-
-Calculate Avy, Ri, and Ro of the desi gned circuit.
-
-2.(a) Draw circuit diagram of phase shift oscillator. Explain its working. Give necessary
-
-(6)
-conditions for sustained oscillations. Derive for its frequency of oscillations,
-(b) Design 1 MHz Colpitt’s oscillator using BJT. . (6)
-3. Design single stage RC coupled CS amplifier using JFET BFW11 (12)
-
-to satisfy the following requirements.
-Ay> | 15|7
-Vo=2V
-
-frequency response is in between 20 Hz to. 20 KHz.
-
-4/4
---- page 2 ---
-04. Design full wave bridge rectifier DC Supply with Vde =15V, Ri = 150 and C12)
-ripple factor > 0.05. Use L- section filter.
-
-Calculate expected ripple factor for designed circuit.
-05. Derive expressions-of voltage gain, current gain. input impedance, and output a 2)
-impedance for BJT voltage amplifier shown in figure. Calculate from above
-
-expressions voltage gain, current gain. input impedance and output impedance for
-
-same circuit.
-Vee
-Rez 24 KOE
-
-Res Re Ra= 220 kn
-C | | No Coy = Cog = 10.uf
-Cé :
-T = hie = | Kf
-M 6 N hfe = j00
-Co;
-E '
-Nin
-
-2/4
---- page 3 ---
-06. Derive expressions of voltage gain, input impedance, and output impedance C\2)
-for JFET voltage amplifier shown in figure.
-Calculate from aboye expressions.voltage gain, input impedance, and output
-impedance for same circuit.
-5 Nl 2D
-Vop=4 Vv
-- og Co Roe Q2KN
-
-Cé . 1 | Vp Roz 450 fu
-ci ; Rez loMsL
-
-V5 Te = 25 KL
-6) KG. 3 Re Inss = 8 mA
-
-Ive 2 hv
-
-07. Write short notes on following (Any Two) al 2)
-a) Transistorized series regulator
-b) Crystal Oscillator
-
-c) Negative feedback topologies
-
-d) EDA tool for designing of amplifier
---- page 4 ---
-masa Se Baray my .
-
-co, es
-. BIS! [E ISBBGS=S jslistogggs| §
-2(g OQ jwtSixgeisasslres| -& .
-esesgaGns BSSEAM a
-|B rey § Sessess |g “328 go 3
-‘ S 8.18 = ole 5 g
-S yi = § = >
-o WS .
-7 5
-2 . . RES
-meu te a
-& = ~ D>
-a RORRRIR Cee UR ES a.
-BD DSDED BBRSSSS EG 7 *
-— . a
-. uw - "®>
-sh - 11288 > . > Os -
-lewlal® El, FFE IS lloogoeynt ca -
-£ = : :
-o1c Ea | aad Hae uUsao5 BSR. .
-Fy. a ’ a
-. : ‘ eos < °
-A ouen| ang
-7 Le Bessssztl| Fs, :
-g nHw - "we £ =
-i * |ely aa xx RT . . a
-ze | | | 455 : Tae
-! RSS
-TUT livegssss| Fs
-PEs .
-D i=] .
-< , :
-=f ' x Als fo< | ~
-Fan vole) Q Qle|fevsajzsuan; FF :
-S| S]= 2 | { 3 asaudsiece 8
-4 Bp Bo Rae.
-if } am [ere a
-. * 1
-wi < Sas ‘
-8/ Sie. wutee| | oe SALSS] Fes. i!
-3 “| = na Si8i<| a RS !
-zle|[aF izjei" 4s ‘ - yey
-: Pisis}a 5
-= tie. | S ; awl] -RS,s
-B13 15154] Pili ?lssj vs
-- 5{>18 & ae;
-al5 Fra) q . 5
-Bl os : < ie) ®
-4 . Rg 4 '
-melns) gi: é R jal aaaun] oBs Pa “
-Ny lalstele}s uo PR 13
-S|Sjo/o > :
-‘ Sy
-oo clalelol= | + |g
-lw ; 21 ¢ ener) :
-s/2{ © ele teh ys REEBESS 18
->| > = = a &
-BIVIE|L/e {
-7 : 8 all i¢ noc taps
-= pi Z|: '
-; .- 2 iBeceses| 21s ~ !
-wluls wlalsloL8
-\8isiber aPAalayg 5
-Fle 3S slalalS 18 Beuuule| s- . os,
-e i le TIEIVQi Spa “ sia a
-ala] Slslela csl-ooocald % g 7
-a 1 ‘Tolyle ° aA Nee
-jal f={s 282583] a] 2
-" ; L 4 Ris.
-a = Oo] ll =
-Slal <x S/ 4/218 Les
-= SLRSERS a.) 3
-* ole fate Mowaays 2
-: . (SS isla =
-. ul . 7 .
-Layo &
-7. . ojolely uss = he /
-Bla} Se 4=1o SaSssas| S| Fs ~
-, ; rojejele] :
-Soh tale ia ae
-stad = SS), aAsS-NN] R,
-. sty S ol- slolyly S1saacnsl(}
-- ” zis § BLS jo} .
-| y .
-Sin bl. : cores! Ex =
-. a ft alo}eiwu me > . we
-meer : Q o[SjHlS SISS848 ORR .
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper b8cd5855b1be
@@ -3840,6 +3907,7 @@ meer : Q o[SjHlS SISS848 ORR .
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS B TECH (MECHATRONICS), BATCH 2014-15 RE EXAM_b8cd5855b1.pdf`
 - Printed on paper: exam date: 13/06/2015
 - Text: ocr (4 pages), mean OCR confidence 69.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3981,7 +4049,6 @@ wl ales PLITEES El oceoee ki Fp
 Fe aad Hanae! 5.8
 . . ‘ ooo :
 2 We SeeerrT}| Rep
-. <2 eercnos Munn noo boy
 Sle x | ax x |= ;
 a a :
 - m | | | | 434 WeAnungc} Ro
@@ -3998,7 +4065,6 @@ whe ~ . ao ‘
 
 z|2 [9 5 sig is/[&] = a
 2.13 3 |. :
-w Le oe bo | 7 av} ass
 slolslai] fllt)])ssjre
 R = > PS 5 i
 re ~
@@ -4030,7 +4096,6 @@ Pplin badia SLASGRa; 5] 3
 Slahacapo- ‘ a
 tal 7
 2 tofaluls “fe or 2
-alA oe Sao fee f @anoanw!] Ss] se
 515 bie dl ball Sh g Sucaaoud| 3] 2
 F , : ‘ 2
 a PO] Op as |
@@ -4050,204 +4115,4 @@ Solas | .
 4 . awed
 Lf. , Seee) S258
 . Phi bGGoaat sds s|
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper c2f3329af387
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS (MECHATRONICS), YEAR 15- FINAL EXAM.pdf`
-- Printed on paper: exam date: 05/12/2015
-- Text: ocr (3 pages), mean OCR confidence 67.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Mechatronics) Year: II Semester: III
-
-Academic Year: 2015-2016
-
-Subject: Electronic Devices and Circuits
-
-4 Ie.
-Marks He ‘we,
-
-‘ %,
-
-By
-
-Date: 05/12/2015 Time Bas Brae 3a
-fe hrs BRAR &
-
-} ; ¢,
-
-Durati
-ons 3,
-
-Final-Examination By Xoo,
-
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Out of the remaining questions, attempt any 4 questions.
-3. Answer to each question to be started on a fresh paper.
-4. Figures to the right indicate full marks.
-5. Assume suitable data wherever necessary.
-
-Ql. Attempt any Three questions:-
-
-A What modeling? Describe hybrid modeling 4
-B What is EDA Tool +
-Cc For given circuit draw the small signal model using approximate 4
-
-hybrid model
-
-‘ se
-4 é.
-+ f fe. +
-me OR, Se =
-gf gH
-L* [*
-
-D What are the advantages of negative feedback amplifier 4
-E Compare BJT and JFET 4
-Q2 A Design R-C Coupled single stage Common Source Amplifier 8
-
-using JFET BFW 11 with Av=-9 , FL=20Hz & Vpp = 20 V,
-For designed circuit what will be maximum output voltage
-expected that can obtained without Distortion.
-B For Voltage divider FET amplifier derive an expression for Ay, Zi 4
-and Zo bypassing Rs
-
-Q.3 Design multistage amplifier for following requirement:
-
-Av = 700, Zi=IMQ S <9 O/P voltage Vo=4 V (mms) ie
-
-Q4 A For voltage series feedback, derive an expression for Ri, Ros, and 6
-Ave
-
-Page 1 of 3
---- page 2 ---
-Q5
-
-Q6
-
-Q7
-
-A
-
-Derive an expression for Ay Aj, Zi and Zo for circuit shown
-
-A full wave rectifier employing a centre tapped transformer and two
-diodes give DC output voltage of 120 V to resistive load and current
-of 75ma+25ma If the ripple factor is to be 0.05, calculate the
-specification of devices and specification of filter components
-
-required if the filter used is LC filter.
-
-Design Single stage RC coupled CE amplifier to meet the following
-requirements
-
-Ay= 150
-
-Sico < 9
-
-Vec = 10 volts
-
-Ri = 25 KQ
-
-FLS 20 HZ
-
-Calculate. Ay, Zi, and Zo of the designed amplifier
-
-What is Barkhausen’s criteria for sustained oscillation
-
-Design RC phase shift oscillator for oscillating frequency 12KHz
-
-Page 2 of F
-
-12
---- page 3 ---
-ls t i
-ERE feeog it raf
-
-SEhHS | AadF ‘y
-
-PQea k oe .
-
-2 : 4 Qeow | | it
-. SS 2328 :
-Bs
-yao OS AD. | HE BSiaielel
-tg teaoa ls Pipe pors 2
-: & " =I" x" ¢ |
-s
-; alslelo Soy [ 2
-4 /@neesie Ala&idid “19 5, &
-AalRASSS IS Shaw 7
-3 — ee b So “Eh -
-. Tislele
-NPAPSlo 4
-3 . , -
-8 agi eunovdano S Gig
-S| SJRRSRSLS Abed bea ba ~
-21,5 : as afAlald - Ball ms
-. RS
-; wi . wisi (ey: :
-/ f)/2layceyie bod Nacd uae bd 3
-: & = Read ~~ =S
-i é é . sisi nie = oe
-: 2 en apy cpio < “aN
-aig ST aaaEee ai
-al slesesenso . =z He.
-Si efeexrgges Vers eer
-. ? : es fOlrmlo
-vé Bl ote . eS} a “s
-& F a 18
-. - . ed bd dl Bd [43g
-. Bo] GS ef we pe ae tod a a
-a, * WL § sugges . 5 cides (ane
-ae: 2 : :
-< aan s sf Tpopsis 7 = .
-& a? o rs ot hd fell i t .
-Bl. ; Ly pip aed ee lb ; e)<¢ .
-Bil. §9 |88Ssasa, Glafefolo| [3B | ele
-a we a is nd | Seen ve | os : oye
-. 2 Sb, : ars
-‘ sé Bg 8 je awww pete Sd ie ad otha 4
-so. g] ssa pote. : Lgl 1g OTO
-\
-7 ‘
-ry ‘ = :
-+
-“ es oe |. BES aoooll' |) figlals
-. . £ > a a + e "ss a
-On, >
-83-8 Be ae My tp ty ny
-: ikeie BEET] TVs slecdr
-; — elyeg he. ES! Sto
-“ bh x Ss; Aip
-234 “eee o
-: EY aa .
-i” SB beeen eas : pop. ifESl ole]:
-aan Yvisragad Ss
-ae = = {Sl gaairi i) / 3s] 5) -
-ran | a aan ‘|
-a MOGeungy 7 -_ can ee
-- RIG 983 adagadd ?
-d 28 SES Gg oMd al f- - .
-F SSS ioe ee ee we
-: 1 ee - ode
-ifort “ft
-z coo So az oe
-'s a S 3 3 >
-is wee ics s ‘& =
-So} R823 sea //8 ‘Z aye]
-2. [Baa sSalts ) | | Be
-& Abakaa els = ala
-= 2 . .
-
-a]
 ````

@@ -2011,6 +2011,303 @@ Understand
 C 3)
 ````
 
+## 2022-23 · Exam not stated · Sem 10 · paper c7594e3a5a5c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL ENGINEERING/Financial Engineering.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 90.8
+
+````text
+MPSTME
+
+LIBRARY
+
+SVKM’S NMIMS
+Ne
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2022-2023
+
+Program: MBA Tech CALL STRE: AMS) Year: V Semestae x
+
+Subject: Financial Engineering Time: 2 _ hrs (2200prato A 800 Pra)
+Date:_29/ 6/23. No. of Pages:03
+
+Marks: 100
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. J is compulsory.
+2) Out of remaining questions, attempt any __4 __ questions.
+3) Inall___5_ questions to be attempted.
+
+& 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page (worksheet).
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql .
+Answer briefly: [20]
+CO1 :SO- a. Credit Default Swaps” are similar to insurance contracts but in the context [05]
+1; BL-2 of credit risk mitigation. Build upon the statement with an example.
+CO1:; SO- b. Hedging and Arbitrage have different objectives”. Elaborate upon the [05]
+1;BL-1 statement with suitable examples.
+“ 0, . aC ot 9
+CO1;s01 c. The 96% 1-day VaR for a multi-asset portfolio is INR 1.50 Crores”. What [05]
+-BL-1 do you infer from the statement?
+fo
+. d. “A lot of recent frauds in the Banking Sector are a classic offshoot of
+a Operational Risks”. Explain the statement in lieu of the recent frauds in the [05]
+
+Banking Sector.
+--- page 2 ---
+Seema is an investment banker and is analyzing the following stocks with prices
+
+as under.
+
+Calculate the 97%, 1 Day VaR for an equal weighted portfolio of 5 stocks having
+
+the following prices at the end of each of the last 5 years:
+
+Q2 Years A B Cc D E
+CO2.801 ft) 317,281. 400 437,—277 [20]
+BL-3 1 350 300 370 478 310
+2 300 277 457 $26 347
+3 280 256 415 564 386
+4 325) 310. 460 612. 423
+5 380 396 510 644 458
+Draw underlying inferences for the results you have achieved. Is there an advise
+y
+you would like to give Seema?
+A) Estimate the Price of a Bond that has a FV of $1000, and carrying an
+annual coupon of 6%. The Bond Investors expect a YTM of 8%
+Q3 (annually). The Bond has 5 years to maturity. Use the Excel Functions
+and the tabular approach to achieve the results.
+005s SO- PP [20]
+BL-S om 3
+B) Additionally, also use the Spin Change Form Controls to test the
+sensitivity of Yields to Bond Prices & establish the relation that exists.
+. Use a range of 1% to 15% with a unit increment.
+The following information is presented to you for Bright Pharma per the most
+recent financials:
+a) Revenues of $10,000 Mn
+Q4 b) GPM of 60%
+. c) Opex limited to 25% of Gross Profits
+“5 SEE d) ICR of 5x [20]
+BL- 5 e) Corporate Tax Rate of 40%
+
+f) 36 Million Shares o/s
+g) The firm adopts a retention policy of 60%
+
+The dividend paid this year is expected to grow by 8% annually for the next 5
+years and thereafter by 4% perpetually.
+--- page 3 ---
+The US-T-Bills yield 4%. The Stock 8 is 1.25 and the Market Yields have’ been
+estimated to be 12%.
+
+A) Estimate the Intrinsic Value of the Share.
+
+B) The share is currently trading at $276, what is your inference on the
+valuation and what position would you advise on the stock?
+
+Estimate the Mod Durn & Convexity of a Bond having FV $1000 ; carrying an
+
+annual coupon of 7% and 5 years to maturity.
+
+The Bond is currently trading at $976.
+
+Q5
+CO3-; SO- , [20]
+8; Comment on how Convexity and Modified Duration is related to the Years to
+ae Maturity, should the analyst do a sensitivity test?
+Use the "spin change" to demonstrate the sensitivity to changing "years to
+maturity" --- range 1-5 years
+A company borrows USD 100m@ 2.4% p.a., sells spot USD@ 70 and buys |
+year forward USD @73.
+The funds received by selling spot USD are invested at 7% p.a.
+Q6
+If spot USD after 1 year is 73.5:
+CO3-; SO- [20]
+8; a) Estimate the Zero-Arbitrage Forward Price.
+_BL-5 b) Explain the rationale behind the “strategy” so adopted.
+c) Draw a flow diagram to explain the strategy and it’s execution.
+d) Estimate the Gain / Loss upon execution.
+A “Forward Rate Agreement” is a contract where an entity could effectively
+hedge against rising interest rates.
+Q7
+CO3-; SO- Explain & build upon the statement in the context of:
+8; 7 :
+BLS a) Participants involved.
+
+b) Milestones & their significance.
+c) The savings should they accrue and when.
+d) The settlement and it’s features.
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper a334e3d9ecf7
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL ENGINEERING/Financial Engineering_a334e3d9ec.pdf`
+- Printed on paper: max marks: 100; duration hours: 2
+- Text: ocr (4 pages), mean OCR confidence 91.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2022-2023
+
+Program: MBA Tech Year: V Semester: X
+
+Subject: Financial Engineering Time: O2 hrs (o:o0amto12!o0noon)
+Date:_02/ 05/2023. No. of Pages: 0 4
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page (worksheet).
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [20]
+CO1 :sO- a. Forward Rate Agreements” have defined milestones and can be used [05]
+1; BL-2 effectively. Build upon the statement with an example.
+CO1; SO- b. Hedging and Arbitrage have different objectives”. Elaborate upon the [05]
+1;BL-1 statement with suitable examples.
+
+« u% 10. 7 Ss >
+CO1:SO1 c. The 95% 10-day VaR for a multi-asset portfolio is INR 2.75 Crores”. What [05]
+-BL-1 do you infer from the statement?
+
+Pa
+d. “A lot of recent frauds in the Banking Sector are a classic offshoot of
+
+consol Operational Risks”. Explain the statement in lieu of the recent frauds in the [05]
+-BL-
+
+Banking Sector.
+--- page 2 ---
+Seema is an investment banker and is analyzing the following stocks with prices
+
+as under.
+
+Calculate the 95%, 10 Day VaR for an equal weighted portfolio of 5 stocks
+
+having the following prices at the end of each of the last 5 years:
+
+Q2 Years A B c D E
+CO2.S01 0 317 281. 400 «= 437-277 [20]
+BL-3 1 350 300 370 478 310
+2 300 277 457 526 347
+3 280 256 415 564 386
+4 325 310 460 612 423
+5: 380 396 = 510 644 458
+Draw underlying inferences for the results you have achieved. Is there an advise
+you would like to give Seema?
+A) Estimate the Price of a Bond that has a FV of $1000, and carrying an
+annual coupon of 6%. The Bond Investors expect a YTM of 8%
+Q3 (annually). The Bond has 5 years to maturity. Use the Excel Functions
+C03-; SO- and the tabular approach to achieve the results. [20]
+8;
+BL-5 ~ :
+B) Additionally, also use the Spin Change Form Controls to test the
+sensitivity of Yields to Bond Prices & establish the relation that exists.
+Use a range of 1% to 15% with a unit increment.
+Q4
+C03-: SO- The following information is presented to you for Bright Pharma per the most
+8: > recent financials: [20]
+
+BL-5S
+
+>
+--- page 3 ---
+Revenues USD Mn 5000
+
+GPM 6GO%s
+
+Ope~x (Incl Deprn) 20% of G/p
+ICR So x
+Taxes 40%
+
+NO of Shares 15 Million
+b 60%
+
+The dividend paid this year is expected to grow by 8% annually for the next 5
+years and thereafter by 4% perpetually. ,
+
+The US-T-Bills yield 4%. The Stock 8 is 1.25 and the Market Yields have been
+estimated to be 12%.
+
+A) Estimate the Intrinsic Value of the Share.
+
+B) The share is currently trading at $374, what is your inference on the
+valuation and what position would you advise on the stock?
+
+Estimate the Mod Durn & Convexity of a Bond having FV $1000 ; carrying an
+
+annual coupon of 7% and 5 years to maturity.
+
+Qs The Bond is currently trading at $1049.
+
+CO3-; SO- [20]
+8; Comment on how Convexity and Modified Duration is related to the Years to
+
+L-5 : ays
+“ Maturity, should the analyst do a sensitivity test?
+
+Use the "spin change" to demonstrate the sensitivity to changing "years to
+
+maturity" --- range 1-5 years
+
+Q6 A company borrows USD 100m@ 2.4% p.a., sells spot USD@ 70 and buys 1|
+C03-: SO- year forward USD @73.
+
+8;
+BL-5
+
+[20]
+The funds received by selling spot USD are invested at 7% p.a.
+--- page 4 ---
+If spot USD after 1 year is 73.5:
+
+a) Estimate the Zero-Arbitrage Forward Price.
+
+b) Explain the rationale behind the “strategy” so adopted.
+
+c) Draw a flow diagram to explain the strategy and it’s execution.
+d) Estimate the Gain / Loss upon execution.
+
+A “Credit Default Swap” is a transaction where a “not a high-quality
+
+Q7 investment” could be insured in exchange of a premium.
+CO3-; SO- Explain & build upon the statement in the context of:
+
+8;
+
+BL-5 a) Participants involved.
+
+b) The payments (who pays to whom and when?)
+c) How could it prove to be a “win-win” for every entity, if'at all?
+````
+
 ## 2021-22 · Final-Exam · Sem 10 · paper 5e972ca1671f
 
 - Departments: Common (all branches)
@@ -2653,6 +2950,7 @@ speculates on a steeper yield curve in the five- to ten-year segment. (12 Marks)
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL ENGINEERING/Financial engg 2013-14 Final.pdf`
 - Printed on paper: exam date: 19/05/2014
 - Text: ocr (3 pages), mean OCR confidence 88.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2780,13 +3078,11 @@ in Swiss francs and HongKong dollars only against the US dollar, you quote her H
 customer buys SFr 2 million from you. What is the rate? You want to cover the above transaction and
 ask the brokers for some rates. You receive the following rates.
 
-Broker A LIRSZUSS FPOOOE TOFS
 
 SFvAUSS L.FOSO/L 7667
 
 Broker B HAS/USS PTOPIUE TOR
 SEYUSS 1.76435/1.7659
-Broker C HIKS/USS T.POSAT.F9OTO
 SFYUSS 1.76355/ 1.7660
 
 With which brokers will you deal? What are the rates? How many points did you make?
@@ -2913,6 +3209,94 @@ months from now. she expects the CHK rate to rise to 9% and the dollar rate to f
 she profit from this forecast? What are the risks?
 
 f }
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper a22bf3a12420
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/Financial Engineering/FINANCIAL ENGINEERING 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+Programme:
+
+, Subject:
+
+Date:
+
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+MBA. Tech - ALL STREAMS Year: V Trimester: XV
+
+Academic Year : 2011-2012
+
+FINANCIAL ENGINEERING Marks: 50
+
+Time: 2.00 pm To
+29/03/2012 Duration: 2 hrs.
+
+Final - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+the cover of the Answer Book, which is provided for their use.
+
+N.B
+1. It is a closed book, closed laptop examination
+2. » Be specific in answering questions *
+3. Make necessary assumptions only if required
+4. Use of calculators is permitted.
+
+Q.1 Explain the following terms in brief by citing suitable examples 10 marks
+
+1. NCD + Warrant vs. FCCB
+2. European vs. American style options
+3. Put call parity equation
+4. Appreciation and Priority super shares offering by LOR super trust
+5. HDD and CDD
+Q.2 Attempt any two of the following. 16 marks
+a) Write a note on Factors affecting option premium (prepare a table showing + or — effect of
+each factor on call and put option)
+b) Pass through; Interest only strip and Principal only strip with reference to MBS. Why IO strip
+can be used for hedging other bond portfolios?
+c) Write a detailed note on option Greeks.
+Q.3 Attempt any two of the following 24 marks
+
+1. Discuss pros and cons of the following structures offered by Enron to PNW. Compare them.
+Explain them as capped put from PNW’s perspective. Draw a payoff diagram for the same.
+
+Lower strike (upfront | Swap (No upfront premium)
+
+premium)
+Option type HDD Floor HDD swap
+Notional amount $35,750/HDD .$35,750/HDD
+Effective date November 1, 2000 November 1,2000
+} Determination amount November 1, 2000 to | November 1, 2000 to March
+4 March 31, 2001 31, 2001
+Strike amount - ~ 1 2925 . 3035
+Cap $14,588,000 . $14,,000
+
+P.T.O
+
+Yo
+--- page 2 ---
+Write a detailed note on Value at Risk. Calculate VaR for following portfolio for 10 days and
+99% confidence level.
+
+Value of portfolio = $50,00,000
+Z value for 99% confidence level =2.33
+Daily standard deviation on daily returns = 2%
+
+Assume that the default probability for a company in a year, conditional on no earlier defaults
+is 4% and the recovery rate is 30%. The risk free rate is 6% per annum. Default always occurs
+halfway through a year. Calculate the spread for a five-year plain vanilla credit default swap
+(CDS). Also, calculate the spread considering the CDS as binary. (You can assume a
+notional principal of $1).
+
+x
+
+2fo-
 ````
 
 ## 2011-12 · Re-Exam · Trim 15 · paper 3d0bcf57f431
@@ -3254,389 +3638,4 @@ management strategy for the company. (35 Mks)
 a
 
 “aif _
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper c7594e3a5a5c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL ENGINEERING/Financial Engineering.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 90.8
-
-````text
-MPSTME
-
-LIBRARY
-
-SVKM’S NMIMS
-Ne
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-Academic Year: 2022-2023
-
-Program: MBA Tech CALL STRE: AMS) Year: V Semestae x
-
-Subject: Financial Engineering Time: 2 _ hrs (2200prato A 800 Pra)
-Date:_29/ 6/23. No. of Pages:03
-
-Marks: 100
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. J is compulsory.
-2) Out of remaining questions, attempt any __4 __ questions.
-3) Inall___5_ questions to be attempted.
-
-& 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page (worksheet).
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql .
-Answer briefly: [20]
-CO1 :SO- a. Credit Default Swaps” are similar to insurance contracts but in the context [05]
-1; BL-2 of credit risk mitigation. Build upon the statement with an example.
-CO1:; SO- b. Hedging and Arbitrage have different objectives”. Elaborate upon the [05]
-1;BL-1 statement with suitable examples.
-“ 0, . aC ot 9
-CO1;s01 c. The 96% 1-day VaR for a multi-asset portfolio is INR 1.50 Crores”. What [05]
--BL-1 do you infer from the statement?
-fo
-. d. “A lot of recent frauds in the Banking Sector are a classic offshoot of
-a Operational Risks”. Explain the statement in lieu of the recent frauds in the [05]
-
-Banking Sector.
---- page 2 ---
-Seema is an investment banker and is analyzing the following stocks with prices
-
-as under.
-
-Calculate the 97%, 1 Day VaR for an equal weighted portfolio of 5 stocks having
-
-the following prices at the end of each of the last 5 years:
-
-Q2 Years A B Cc D E
-CO2.801 ft) 317,281. 400 437,—277 [20]
-BL-3 1 350 300 370 478 310
-2 300 277 457 $26 347
-3 280 256 415 564 386
-4 325) 310. 460 612. 423
-5 380 396 510 644 458
-Draw underlying inferences for the results you have achieved. Is there an advise
-y
-you would like to give Seema?
-A) Estimate the Price of a Bond that has a FV of $1000, and carrying an
-annual coupon of 6%. The Bond Investors expect a YTM of 8%
-Q3 (annually). The Bond has 5 years to maturity. Use the Excel Functions
-and the tabular approach to achieve the results.
-005s SO- PP [20]
-BL-S om 3
-B) Additionally, also use the Spin Change Form Controls to test the
-sensitivity of Yields to Bond Prices & establish the relation that exists.
-. Use a range of 1% to 15% with a unit increment.
-The following information is presented to you for Bright Pharma per the most
-recent financials:
-a) Revenues of $10,000 Mn
-Q4 b) GPM of 60%
-. c) Opex limited to 25% of Gross Profits
-“5 SEE d) ICR of 5x [20]
-BL- 5 e) Corporate Tax Rate of 40%
-
-f) 36 Million Shares o/s
-g) The firm adopts a retention policy of 60%
-
-The dividend paid this year is expected to grow by 8% annually for the next 5
-years and thereafter by 4% perpetually.
---- page 3 ---
-The US-T-Bills yield 4%. The Stock 8 is 1.25 and the Market Yields have’ been
-estimated to be 12%.
-
-A) Estimate the Intrinsic Value of the Share.
-
-B) The share is currently trading at $276, what is your inference on the
-valuation and what position would you advise on the stock?
-
-Estimate the Mod Durn & Convexity of a Bond having FV $1000 ; carrying an
-
-annual coupon of 7% and 5 years to maturity.
-
-The Bond is currently trading at $976.
-
-Q5
-CO3-; SO- , [20]
-8; Comment on how Convexity and Modified Duration is related to the Years to
-ae Maturity, should the analyst do a sensitivity test?
-Use the "spin change" to demonstrate the sensitivity to changing "years to
-maturity" --- range 1-5 years
-A company borrows USD 100m@ 2.4% p.a., sells spot USD@ 70 and buys |
-year forward USD @73.
-The funds received by selling spot USD are invested at 7% p.a.
-Q6
-If spot USD after 1 year is 73.5:
-CO3-; SO- [20]
-8; a) Estimate the Zero-Arbitrage Forward Price.
-_BL-5 b) Explain the rationale behind the “strategy” so adopted.
-c) Draw a flow diagram to explain the strategy and it’s execution.
-d) Estimate the Gain / Loss upon execution.
-A “Forward Rate Agreement” is a contract where an entity could effectively
-hedge against rising interest rates.
-Q7
-CO3-; SO- Explain & build upon the statement in the context of:
-8; 7 :
-BLS a) Participants involved.
-
-b) Milestones & their significance.
-c) The savings should they accrue and when.
-d) The settlement and it’s features.
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper a334e3d9ecf7
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL ENGINEERING/Financial Engineering_a334e3d9ec.pdf`
-- Printed on paper: max marks: 100; duration hours: 2
-- Text: ocr (4 pages), mean OCR confidence 91.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-Academic Year: 2022-2023
-
-Program: MBA Tech Year: V Semester: X
-
-Subject: Financial Engineering Time: O2 hrs (o:o0amto12!o0noon)
-Date:_02/ 05/2023. No. of Pages: 0 4
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page (worksheet).
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [20]
-CO1 :sO- a. Forward Rate Agreements” have defined milestones and can be used [05]
-1; BL-2 effectively. Build upon the statement with an example.
-CO1; SO- b. Hedging and Arbitrage have different objectives”. Elaborate upon the [05]
-1;BL-1 statement with suitable examples.
-
-« u% 10. 7 Ss >
-CO1:SO1 c. The 95% 10-day VaR for a multi-asset portfolio is INR 2.75 Crores”. What [05]
--BL-1 do you infer from the statement?
-
-Pa
-d. “A lot of recent frauds in the Banking Sector are a classic offshoot of
-
-consol Operational Risks”. Explain the statement in lieu of the recent frauds in the [05]
--BL-
-
-Banking Sector.
---- page 2 ---
-Seema is an investment banker and is analyzing the following stocks with prices
-
-as under.
-
-Calculate the 95%, 10 Day VaR for an equal weighted portfolio of 5 stocks
-
-having the following prices at the end of each of the last 5 years:
-
-Q2 Years A B c D E
-CO2.S01 0 317 281. 400 «= 437-277 [20]
-BL-3 1 350 300 370 478 310
-2 300 277 457 526 347
-3 280 256 415 564 386
-4 325 310 460 612 423
-5: 380 396 = 510 644 458
-Draw underlying inferences for the results you have achieved. Is there an advise
-you would like to give Seema?
-A) Estimate the Price of a Bond that has a FV of $1000, and carrying an
-annual coupon of 6%. The Bond Investors expect a YTM of 8%
-Q3 (annually). The Bond has 5 years to maturity. Use the Excel Functions
-C03-; SO- and the tabular approach to achieve the results. [20]
-8;
-BL-5 ~ :
-B) Additionally, also use the Spin Change Form Controls to test the
-sensitivity of Yields to Bond Prices & establish the relation that exists.
-Use a range of 1% to 15% with a unit increment.
-Q4
-C03-: SO- The following information is presented to you for Bright Pharma per the most
-8: > recent financials: [20]
-
-BL-5S
-
->
---- page 3 ---
-Revenues USD Mn 5000
-
-GPM 6GO%s
-
-Ope~x (Incl Deprn) 20% of G/p
-ICR So x
-Taxes 40%
-
-NO of Shares 15 Million
-b 60%
-
-The dividend paid this year is expected to grow by 8% annually for the next 5
-years and thereafter by 4% perpetually. ,
-
-The US-T-Bills yield 4%. The Stock 8 is 1.25 and the Market Yields have been
-estimated to be 12%.
-
-A) Estimate the Intrinsic Value of the Share.
-
-B) The share is currently trading at $374, what is your inference on the
-valuation and what position would you advise on the stock?
-
-Estimate the Mod Durn & Convexity of a Bond having FV $1000 ; carrying an
-
-annual coupon of 7% and 5 years to maturity.
-
-Qs The Bond is currently trading at $1049.
-
-CO3-; SO- [20]
-8; Comment on how Convexity and Modified Duration is related to the Years to
-
-L-5 : ays
-“ Maturity, should the analyst do a sensitivity test?
-
-Use the "spin change" to demonstrate the sensitivity to changing "years to
-
-maturity" --- range 1-5 years
-
-Q6 A company borrows USD 100m@ 2.4% p.a., sells spot USD@ 70 and buys 1|
-C03-: SO- year forward USD @73.
-
-8;
-BL-5
-
-[20]
-The funds received by selling spot USD are invested at 7% p.a.
---- page 4 ---
-If spot USD after 1 year is 73.5:
-
-a) Estimate the Zero-Arbitrage Forward Price.
-
-b) Explain the rationale behind the “strategy” so adopted.
-
-c) Draw a flow diagram to explain the strategy and it’s execution.
-d) Estimate the Gain / Loss upon execution.
-
-A “Credit Default Swap” is a transaction where a “not a high-quality
-
-Q7 investment” could be insured in exchange of a premium.
-CO3-; SO- Explain & build upon the statement in the context of:
-
-8;
-
-BL-5 a) Participants involved.
-
-b) The payments (who pays to whom and when?)
-c) How could it prove to be a “win-win” for every entity, if'at all?
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper a22bf3a12420
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/Financial Engineering/FINANCIAL ENGINEERING 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-Programme:
-
-, Subject:
-
-Date:
-
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-MBA. Tech - ALL STREAMS Year: V Trimester: XV
-
-Academic Year : 2011-2012
-
-FINANCIAL ENGINEERING Marks: 50
-
-Time: 2.00 pm To
-29/03/2012 Duration: 2 hrs.
-
-Final - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-the cover of the Answer Book, which is provided for their use.
-
-N.B
-1. It is a closed book, closed laptop examination
-2. » Be specific in answering questions *
-3. Make necessary assumptions only if required
-4. Use of calculators is permitted.
-
-Q.1 Explain the following terms in brief by citing suitable examples 10 marks
-
-1. NCD + Warrant vs. FCCB
-2. European vs. American style options
-3. Put call parity equation
-4. Appreciation and Priority super shares offering by LOR super trust
-5. HDD and CDD
-Q.2 Attempt any two of the following. 16 marks
-a) Write a note on Factors affecting option premium (prepare a table showing + or — effect of
-each factor on call and put option)
-b) Pass through; Interest only strip and Principal only strip with reference to MBS. Why IO strip
-can be used for hedging other bond portfolios?
-c) Write a detailed note on option Greeks.
-Q.3 Attempt any two of the following 24 marks
-
-1. Discuss pros and cons of the following structures offered by Enron to PNW. Compare them.
-Explain them as capped put from PNW’s perspective. Draw a payoff diagram for the same.
-
-Lower strike (upfront | Swap (No upfront premium)
-
-premium)
-Option type HDD Floor HDD swap
-Notional amount $35,750/HDD .$35,750/HDD
-Effective date November 1, 2000 November 1,2000
-} Determination amount November 1, 2000 to | November 1, 2000 to March
-4 March 31, 2001 31, 2001
-Strike amount - ~ 1 2925 . 3035
-Cap $14,588,000 . $14,,000
-
-P.T.O
-
-Yo
---- page 2 ---
-Write a detailed note on Value at Risk. Calculate VaR for following portfolio for 10 days and
-99% confidence level.
-
-Value of portfolio = $50,00,000
-Z value for 99% confidence level =2.33
-Daily standard deviation on daily returns = 2%
-
-Assume that the default probability for a company in a year, conditional on no earlier defaults
-is 4% and the recovery rate is 30%. The risk free rate is 6% per annum. Default always occurs
-halfway through a year. Calculate the spread for a five-year plain vanilla credit default swap
-(CDS). Also, calculate the spread considering the CDS as binary. (You can assume a
-notional principal of $1).
-
-x
-
-2fo-
 ````

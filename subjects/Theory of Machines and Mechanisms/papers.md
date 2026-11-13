@@ -1,6 +1,6 @@
 # Theory of Machines and Mechanisms: question papers in full
 
-15 unique papers · 2022 to 2025-26 · Mechanical
+15 unique papers · 2022-23 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -379,6 +379,7 @@ BL-2   acting steam engine.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/THEORY OF MACHINES AND MECHANISM/Theory of Machines and Mechanisms, Sem-V, Final Exam 2024-25.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: ocr (2 pages), mean OCR confidence 86.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 OND ee
@@ -458,7 +459,6 @@ CO-1; SO-7;
 BL-4 4oo nn [10]
 Ry
 LLL LLLL
-Oo ns ee ee en ee ee ees fe)
 amin
 v
 The turning moment diagram for a multicylinder engine has been drawn
@@ -744,6 +744,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_05/Theory of Machines and Mechanisms/Theory of Machines and Mechanisms Batch 2024-25 Re Exam0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
 - Text: ocr (3 pages), mean OCR confidence 86.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -793,7 +794,6 @@ CO-1; SO-7; {of Explain the working of a steering wheel mechanism with a diagram
 wane rr [10]
 BL-3 Write its application in short.
 
-FICCI IG 7 CI Ci i ok
 --- page 2 ---
 ra 7
 Q3 a. Explain the application of Kutzbach Criterion in analyzing plane j
@@ -856,6 +856,155 @@ BL-2 Discuss the turning moment diagram for a four-stroke IC Engine. [05]
 ey
 
 FICC 3 FCG aa iter
+````
+
+## 2023-24 · Re-Exam · Sem 5 · paper 13bbce7d22d3
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_05/Theory of Machines and Mechanisms/Theory of Machines and Mechanisms Batch 2022-23 Re Exam0001_13bbce7d22.pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 89.6
+
+````text
+SVKM’S NMIMS j
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2023-2024 es a
+Program: __B.Tech (Integrated) Stream ;__ Mechanical Year: 377 | Semester =x Ves
+Subject: Theory of Machines and Mechanisms Time:)3 hrs (2:00pm to 5: oof) )
+Date:_04 |0 2)20Q4 ; No. ot Pages:_ 0325
+
+Marks: __100 X
+Re- Examination (2022-7 2a]
+
+Instructions: Candidates should read carefully the instructions printed on the qpestion paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql :
+Answer briefly: [20]
+
+CO-1 ; a. . .
+
+SO-1; Explain the application of gyroscopic principles to aircrafts. [05]
+
+BL-2
+
+CO-1; b.
+
+SO-3; Explain single slider chain mechanisms with example [05]
+
+BL-3
+
+CO-2 ; C. . ‘
+
+SO-3- Explain the maximum fluctuation of energy. [05]
+i 3
+
+BL-3
+
+CO-3 ; d. ;
+
+SO-3 ; Explain the hand craft manufacturing [05]
+
+BL-3
+
+a. The turbine rotor of a ship has a mass of 2000 kg and rotates at a speed of
+3000 r.p.m. clockwise when looking from a stern. The radius of gyration
+
+Q2 of the rotor is 0.5 m. Determine the gyroscopic couple and its effects upon
+
+CO-3; the ship when the ship is steering to the right in a curve of 100 m radius at | [10]
+
+a a speed of 1855 m/hr Calculate also the torque and its effects when the
+
+ship is pitching in simple harmonic motion, the bow falling with its
+
+maximum velocity. The period of pitching is 50 seconds and the total
+--- page 2 ---
+angular displacement between the two extreme positions of pitching i$ .}2°.
+
+Find the maximum acceleration during pitching motion.
+
+Q2 b
+ena Explain Effect of Gyroscopic Couple on a Naval Ship during Pitching. [10]
+BL-4
+a. An aero plane runs at 600 km/h. The rotor of the engine weighs 4000 N
+
+03 with radius of gyration of 1 meter. The speed of rotor is 3000 r.p.m. in
+CO-2: anticlockwise direction when seen from ne side of the aero plane. If the 114]
+SO-3; plane takes a loop upwards in a curve of 100 meters radius, find: 1.
+BL-4 gyroscopic couple developed; and 2. effect of reaction gyroscopic couple
+
+developed on the body of aero plane.
+Q3 b.
+CO-1; .
+50-3: Explain the Types of Kinematic Chains. [06]
+BL-2
+Q4 a.
+Son Explain the Types of Joints in a Chain [15]
+BL-3
+Q4 b,
+age Explain the coefficient of fluctuation of speed. ; [05]
+BL-3
+
+a. The turning moment diagram of a four-stroke engine may be assumed for
+
+the sake of simplicity to be represented by four triangles in each stroke.
+
+The areas of these triangles are as follows:
+Qs Suction stroke = 5 x 10-5 m?; Compression stroke = 21 x 10-5 m? ;
+aa Expansion stroke = 85 x 10-5 m? ; Exhaust stroke = 8 x 10-5 m?. All the | [20]
+BL-4 areas excepting expression stroke are negative. Each m2 of area represents
+
+14 MN-m of work. Assuming the resisting torque to be constant,
+determine the moment of inertia of the flywheel to keep the speed between
+
+98 r.p.m. and 102 r.p.m. Also find the size of a rim-type flywheel based on
+--- page 3 ---
+i
+
+the minimum material criterion, given that density of flywheel material is
+8150 kg/m3 ; the allowable tensile stress of the flywheel material is 7.5
+MPa. The rim cross-section is rectangular, one side being four times the
+
+length of the other
+
+a. The turning moment diagram for a multicylinder engine has been drawn to
+
+a scale of 1 mm = 4500 N-m vertically and 1 mm = 2.4° horizontally. The
+
+Q6 intercepted areas between output torque curve and mean resistance line
+SOD, taken in order from one end are 342, 23, 245, 303, 115, 232, 227, 164 [14]
+BL-5 mm2 , when the engine is running at 150 r.p.m. If the mass of the flywheel
+
+is 1000 kg and the total fluctuation of saged does not exceed 3% of the
+
+mean speed, find the minimum value of the radius of gyration. 4
+Q6 b.
+con Explain the multi degree of freedom system with an example [06]
+BL-3
+Q7 a.
+en Explain the Grass-hopper mechanism [10]
+BL-3
+oF b. Prove that the maximum fluctuation of energy,
+CO-2; AE =EX2Cy [10]
+ie where E = Mean kinetic energy of the flywheel, and
+
+Cs = Coefficient of fluctuation of speed.
 ````
 
 ## 2023-24 · Re-Exam · Sem 5 · paper 6fade9b1066b
@@ -985,7 +1134,7 @@ oe Explain the Turning Moment Diagram for a Multi-cylinder Engine [10]
 BL-4
 ````
 
-## 2022 · Final-Exam · Sem 5 · paper 33b674309bdd
+## 2022-23 · Final-Exam · Sem 5 · paper 33b674309bdd
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
@@ -1253,155 +1402,6 @@ BL-3
 Q7 b.
 CO-2; 0-3; Explain the maximum fluctuation of energy for multi cylinder engine [10] -
 BL-4
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 13bbce7d22d3
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_05/Theory of Machines and Mechanisms/Theory of Machines and Mechanisms Batch 2022-23 Re Exam0001_13bbce7d22.pdf`
-- Printed on paper: duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 89.6
-
-````text
-SVKM’S NMIMS j
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2023-2024 es a
-Program: __B.Tech (Integrated) Stream ;__ Mechanical Year: 377 | Semester =x Ves
-Subject: Theory of Machines and Mechanisms Time:)3 hrs (2:00pm to 5: oof) )
-Date:_04 |0 2)20Q4 ; No. ot Pages:_ 0325
-
-Marks: __100 X
-Re- Examination (2022-7 2a]
-
-Instructions: Candidates should read carefully the instructions printed on the qpestion paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql :
-Answer briefly: [20]
-
-CO-1 ; a. . .
-
-SO-1; Explain the application of gyroscopic principles to aircrafts. [05]
-
-BL-2
-
-CO-1; b.
-
-SO-3; Explain single slider chain mechanisms with example [05]
-
-BL-3
-
-CO-2 ; C. . ‘
-
-SO-3- Explain the maximum fluctuation of energy. [05]
-i 3
-
-BL-3
-
-CO-3 ; d. ;
-
-SO-3 ; Explain the hand craft manufacturing [05]
-
-BL-3
-
-a. The turbine rotor of a ship has a mass of 2000 kg and rotates at a speed of
-3000 r.p.m. clockwise when looking from a stern. The radius of gyration
-
-Q2 of the rotor is 0.5 m. Determine the gyroscopic couple and its effects upon
-
-CO-3; the ship when the ship is steering to the right in a curve of 100 m radius at | [10]
-
-a a speed of 1855 m/hr Calculate also the torque and its effects when the
-
-ship is pitching in simple harmonic motion, the bow falling with its
-
-maximum velocity. The period of pitching is 50 seconds and the total
---- page 2 ---
-angular displacement between the two extreme positions of pitching i$ .}2°.
-
-Find the maximum acceleration during pitching motion.
-
-Q2 b
-ena Explain Effect of Gyroscopic Couple on a Naval Ship during Pitching. [10]
-BL-4
-a. An aero plane runs at 600 km/h. The rotor of the engine weighs 4000 N
-
-03 with radius of gyration of 1 meter. The speed of rotor is 3000 r.p.m. in
-CO-2: anticlockwise direction when seen from ne side of the aero plane. If the 114]
-SO-3; plane takes a loop upwards in a curve of 100 meters radius, find: 1.
-BL-4 gyroscopic couple developed; and 2. effect of reaction gyroscopic couple
-
-developed on the body of aero plane.
-Q3 b.
-CO-1; .
-50-3: Explain the Types of Kinematic Chains. [06]
-BL-2
-Q4 a.
-Son Explain the Types of Joints in a Chain [15]
-BL-3
-Q4 b,
-age Explain the coefficient of fluctuation of speed. ; [05]
-BL-3
-
-a. The turning moment diagram of a four-stroke engine may be assumed for
-
-the sake of simplicity to be represented by four triangles in each stroke.
-
-The areas of these triangles are as follows:
-Qs Suction stroke = 5 x 10-5 m?; Compression stroke = 21 x 10-5 m? ;
-aa Expansion stroke = 85 x 10-5 m? ; Exhaust stroke = 8 x 10-5 m?. All the | [20]
-BL-4 areas excepting expression stroke are negative. Each m2 of area represents
-
-14 MN-m of work. Assuming the resisting torque to be constant,
-determine the moment of inertia of the flywheel to keep the speed between
-
-98 r.p.m. and 102 r.p.m. Also find the size of a rim-type flywheel based on
---- page 3 ---
-i
-
-the minimum material criterion, given that density of flywheel material is
-8150 kg/m3 ; the allowable tensile stress of the flywheel material is 7.5
-MPa. The rim cross-section is rectangular, one side being four times the
-
-length of the other
-
-a. The turning moment diagram for a multicylinder engine has been drawn to
-
-a scale of 1 mm = 4500 N-m vertically and 1 mm = 2.4° horizontally. The
-
-Q6 intercepted areas between output torque curve and mean resistance line
-SOD, taken in order from one end are 342, 23, 245, 303, 115, 232, 227, 164 [14]
-BL-5 mm2 , when the engine is running at 150 r.p.m. If the mass of the flywheel
-
-is 1000 kg and the total fluctuation of saged does not exceed 3% of the
-
-mean speed, find the minimum value of the radius of gyration. 4
-Q6 b.
-con Explain the multi degree of freedom system with an example [06]
-BL-3
-Q7 a.
-en Explain the Grass-hopper mechanism [10]
-BL-3
-oF b. Prove that the maximum fluctuation of energy,
-CO-2; AE =EX2Cy [10]
-ie where E = Mean kinetic energy of the flywheel, and
-
-Cs = Coefficient of fluctuation of speed.
 ````
 
 ## 2022-23 · Re-Exam · Sem 5 · paper ca4474b04eec

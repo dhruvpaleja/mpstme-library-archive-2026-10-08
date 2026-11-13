@@ -818,6 +818,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/ENERGY SYSTEMS DESIGN/ENERGY SYSTEM DESIGN 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05/12/2013
 - Text: ocr (3 pages), mean OCR confidence 88.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -929,7 +930,6 @@ C | Estimate minimum hot and cold utility requirement as well as} (8)
 Pinch temperature for a system involving following process
 
 streams:
-Tin CC) Tout CO) mC, (kW / °C)
 90 60 8.0
 150 60 2.5
 25 100 3.0
@@ -942,7 +942,6 @@ B | Evaluate minimum hot and cold utility requirement as well as | (15)
 Pinch temperature for a system involving following process
 
 streams:
-Tin CC) Tout CO) mC, (kW /°C)
 350 160 3.2
 400 100 3
 110 60 8

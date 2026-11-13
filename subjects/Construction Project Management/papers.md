@@ -4,6 +4,219 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2022-23 · Exam not stated · Sem 8 · paper 627e432bb4e9
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/CONSTRUCTION PROJECT MANAGEMENT/Construction Project Management and Finance.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 86.0
+
+````text
+SVKM’S NMIMS Ki
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING, =
+Academic Year: 2022-2023 “Sake
+
+Program/s: BTech / MBATech Stream/s : Civil Year: [V Semester: VIII
+
+Subject: Construction Project Management and Finance Time: 03 hrs (10:00 am to 01:00 pm)
+Date:__28/ 04 / 2023 No. of Pages: 05
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly [20]
+
+CO-1; a. Explain the project life cycle with a neat sketch. [05]
+SO-3 ;
+BL-2
+
+CO-1; b. List any 5 advantages and disadvantages of Gantt chart. [05]
+SO-3 ;
+BL-1
+
+CO- 1; c Elaborate on importance of project reviews in project closure. [05]
+SO- 3;
+BL-2
+
+CO- 3; d. Explain in brief the Workmen’s Compensation Act. [05]
+SO-3,
+BL-2
+
+Ys
+--- page 2 ---
+Q2 a Discuss the salient features of a matrix organization with neat flow chart. [10]
+
+CO-1; SO-3;
+BL-4
+Q2 b A project consisting of eight activities has the following characteristics: [10]
+CO-1; SO-2;
+BL-5
+Activity Preceding Most optimistic | Most likely Most pessimistic
+activity time in weeks time in weeks | time in weeks
+A None 2 4 12
+B None 10 12 26
+Cc A 8 9 10
+D A 10 15 20
+EB A 7 75 11
+F B,C 9 9 9
+G D 3 3:5 7
+H E,F,G 5 5 5
+i) Draw the PERT network for the project. ‘
+ii) Determine the Critical Path.
+iii) If a 30 week deadline is imposed, what is the probability that the
+project will be finished within the time limit? (Refer Z Table:Pg 5)
+Q3 a Elaborate on the importance of geotechnical investigation before [10]
+bee SO-3; commencement of a project.
+Q3 b Draw the Activity-On-Arrow project network associated with the following [10]
+CO-1; SO-2; activities :
+BL-5
+Activity Immediate predecessor Time (days)
+A - 3
+B A 4
+G A 6
+D B 6
+E B 4
+F Cc 4
+G D 6
+H E,F 8
+i) Determine earliest start and earliest finish time, latest start and
+latest finish time and float for all the activities of the network.
+ii) How long the team will take to complete the project.
+iii) Determine Critical path.
+
+Ye
+--- page 3 ---
+Q4 a Elaborate on various aspects to be considered in project appraisal. [10]
+CO-1,2;
+
+SO-6;
+
+BL-2
+
+Q4 b For a given network, details of all the activities are mentioned below: [10]
+
+CO-2; SO-1;
+BL-5
+
+Activity Time (week) Cost (Rs.)
+
+Normal Crash Normal Crash
+1-2 8 4 3000 6000
+1-3 5 3 4000 8000
+2-4 9 6 4000 5500
+3-5 7 5 2000 3200
+2-5 5 1 8000 12000
+4-6 3 25 10000 11200
+5-6 6 2 4000 6800
+6-7 10 7 6000 8700
+5-7 9 5 4200 9000
+
+Indirect costs are Rs. 2000 /- per week.
+i) Determine the Critical path.
+
+il) Find the cost of crashing the project by 3 weeks.
+--- page 4 ---
+te
+
+Q5
+
+Explain the importance of resource levelling and distinguish it from resource [10]
+is SO-3; smoothening.
+Q5 Alternative-1: Initial purchase cost = Rs.3,00,000, Annual operating and | [10]
+CO-2; SO-1; maintenance cost = Rs.20000, Expected salvage value = Rs.1,25,000, Useful
+_ life = 5 years.
+Alternative-2: Initial purchase cost = Rs.2,00,000, Annual operating and
+maintenance cost = Rs.35000, Expected salvage value = Rs.70,000, Useful life
+=5 years.
+The annual revenue to be generated from production of concrete (by concrete
+mixer) from Alternative-1 and Alternative-2 are Rs.50,000 and Rs.45,000
+respectively. Compute the equivalent present worth of the’alternatives at 10%
+rate of interest and find out the economical alternative.
+06 List various discounted and non-discounted techniques used in project [10]
+CO-2: S0-6; finance. Elaborate on any two discounted techniques with advantages and
+BL-2 disadvantages.
+Q6 Elaborate on the various stages in vendor development. [10]
+CO-1; SO-6;
+BL-2
+Q7 Consider that you are a project manager for a residential building project. [10]
+— SO-6; Identify any 5 stakeholders and explain their roles in project.
+Q7 Elaborate on any five sources of long term funds for a project. [10]
+CO-2; SO-6;
+BL-2
+--- page 5 ---
+STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z score.
+
+zZ -00 01 02 03 04 05 06 07 08 09
+
+0.0 | .50000 50399 50798 51197 51595 51994 92392 52790 53188 53586
+0.1 | .53983 -54380 54776 55172 55567 55962 56356 56749 57142 57535
+0.2 | .57926 58317 58706 59095 59483 59871 60257 60642 61026 -61409
+0.3 | .61791 62172 62552 62930 63307 63683 64058 64431 64803 65173
+0.4 | .65542 -65910 66276 66640 67003 67364 .67724 68082 68439 68793
+
+0.5 | .69146 69497 69847 -70194 -70540 -70884 -71226 71566 71904 .72240
+0.6 | .72575 72907 -73237 -73565 .73891 -74215 -74537 74857 -75175 -75490
+0.7 | .75804 -76115 -76424 76730 -77035 -77337 -77637 .77935 -78230 -78524
+0.8 | .78814 -79103 .79389 79673 79955 80234 80511 80785 81057 81327
+0.9 | .81594 81859 82121 82381 82639 82894 83147 83398 83646 83891
+
+1.0 | .84134 84375 84614 84849 85083 85314 85543 85769 85993 86214
+1.1 | .86433 -86650 86864 87076 87286 87493 87698 -87900 -88100 88298
+1.2 | .88493 88686 88877 89065 89251 89435 89617. .89796 89973 90147
+1.3 | .90320 -90490 90658 90824 90988 91149 91309 91466 91621 91774
+1.4 | .91924 92073 92220 92364 92507 92647 92785 92922 93056 93189
+
+1.5: | {93319 93448 93574 93699 93822 93943 94062 94179 94295 -94408
+1.6 | .94520 94630 94738 94845 94950 95053 95154 95254 95352 95449
+1.7 | 95543 95637 95728 95818 95907 95994 -96080 96164 96246 96327
+1.8 | .96407 96485 96562 96638 96712 96784 96856 96926 96995 97062
+1.9 | .97128 97193 97257 97320 97381 97441 97500 97558 97615 -97670
+
+2.0 | .97725 97778 97831 97882 97932 97982 -98030 98077 98124 98169
+2.1 | .98214 98257 -98300 98341 98382 98422 98461 -98500 98537 98574
+2.2 | .98610 98645 98679 98713 98745 98778 98809 -98840 98870 98899
+2.3 | .98928 98956 98983 99010 -99036 99061 99086 99111 99134 99158
+2.4 | .99180 99202 99224 99245 99266 99286 99305 99324 99343 99361
+
+2.5 | .99379 99396 99413 99430 99446 99461 99477 99492 99506 99520
+2.6 | .99534 99547 99560 99573 99585 99598 99609 99621 99632 99643
+2.7 | .99653 99664 99674 99683 99693 99702 99711 99720 99728 99736
+2.8 | .99744 99752 99760 99767 99714 99781 99788 99795 99801 99807
+2.9 | .99813 99819 99825 99831 99836 99841 99846 99851 99856 99861
+
+3.0 | .99865 99869 99874 99878 99882 99886 99889 99893 99896 -99900
+3.1 | .99903 99906 99910 99913 99916 99918 99921 99924 99926 99929
+3.2 | .99931 99934 99936 99938 99940 99942 99944 99946 99948 99950
+3.3 | .99952 99953 99955 99957 99958 99960 99961 99962 99964 99965
+3.4 | .99966 99968 99969 99970 99971 99972 99973 99974 99975 99976
+
+3.5 | .99977 99978 99978 99979 99980 99981 99981 99982 99983 99983
+3.6 | .99984 99985 99985 99986 99986 99987 99987 99988 99988 99989
+3.7 | .99989 99990 99990 -99990 99991 99991 99992 99992 99992 99992
+3.8 | .99993 99993 99993 99994 99994 99994 99994 99995 99995 99995
+3.9 | .99995 99995 99996 99996 99996 99996 99996 99996 99997 99997
+
+Of.
+````
+
 ## 2022-23 · Re-Exam · Sem 8 · paper b777bee435d6
 
 - Departments: Civil
@@ -1050,217 +1263,4 @@ Explain different types of construction contracts. 10
 BR
 
 o-
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 627e432bb4e9
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/CONSTRUCTION PROJECT MANAGEMENT/Construction Project Management and Finance.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (5 pages), mean OCR confidence 86.0
-
-````text
-SVKM’S NMIMS Ki
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING, =
-Academic Year: 2022-2023 “Sake
-
-Program/s: BTech / MBATech Stream/s : Civil Year: [V Semester: VIII
-
-Subject: Construction Project Management and Finance Time: 03 hrs (10:00 am to 01:00 pm)
-Date:__28/ 04 / 2023 No. of Pages: 05
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly [20]
-
-CO-1; a. Explain the project life cycle with a neat sketch. [05]
-SO-3 ;
-BL-2
-
-CO-1; b. List any 5 advantages and disadvantages of Gantt chart. [05]
-SO-3 ;
-BL-1
-
-CO- 1; c Elaborate on importance of project reviews in project closure. [05]
-SO- 3;
-BL-2
-
-CO- 3; d. Explain in brief the Workmen’s Compensation Act. [05]
-SO-3,
-BL-2
-
-Ys
---- page 2 ---
-Q2 a Discuss the salient features of a matrix organization with neat flow chart. [10]
-
-CO-1; SO-3;
-BL-4
-Q2 b A project consisting of eight activities has the following characteristics: [10]
-CO-1; SO-2;
-BL-5
-Activity Preceding Most optimistic | Most likely Most pessimistic
-activity time in weeks time in weeks | time in weeks
-A None 2 4 12
-B None 10 12 26
-Cc A 8 9 10
-D A 10 15 20
-EB A 7 75 11
-F B,C 9 9 9
-G D 3 3:5 7
-H E,F,G 5 5 5
-i) Draw the PERT network for the project. ‘
-ii) Determine the Critical Path.
-iii) If a 30 week deadline is imposed, what is the probability that the
-project will be finished within the time limit? (Refer Z Table:Pg 5)
-Q3 a Elaborate on the importance of geotechnical investigation before [10]
-bee SO-3; commencement of a project.
-Q3 b Draw the Activity-On-Arrow project network associated with the following [10]
-CO-1; SO-2; activities :
-BL-5
-Activity Immediate predecessor Time (days)
-A - 3
-B A 4
-G A 6
-D B 6
-E B 4
-F Cc 4
-G D 6
-H E,F 8
-i) Determine earliest start and earliest finish time, latest start and
-latest finish time and float for all the activities of the network.
-ii) How long the team will take to complete the project.
-iii) Determine Critical path.
-
-Ye
---- page 3 ---
-Q4 a Elaborate on various aspects to be considered in project appraisal. [10]
-CO-1,2;
-
-SO-6;
-
-BL-2
-
-Q4 b For a given network, details of all the activities are mentioned below: [10]
-
-CO-2; SO-1;
-BL-5
-
-Activity Time (week) Cost (Rs.)
-
-Normal Crash Normal Crash
-1-2 8 4 3000 6000
-1-3 5 3 4000 8000
-2-4 9 6 4000 5500
-3-5 7 5 2000 3200
-2-5 5 1 8000 12000
-4-6 3 25 10000 11200
-5-6 6 2 4000 6800
-6-7 10 7 6000 8700
-5-7 9 5 4200 9000
-
-Indirect costs are Rs. 2000 /- per week.
-i) Determine the Critical path.
-
-il) Find the cost of crashing the project by 3 weeks.
---- page 4 ---
-te
-
-Q5
-
-Explain the importance of resource levelling and distinguish it from resource [10]
-is SO-3; smoothening.
-Q5 Alternative-1: Initial purchase cost = Rs.3,00,000, Annual operating and | [10]
-CO-2; SO-1; maintenance cost = Rs.20000, Expected salvage value = Rs.1,25,000, Useful
-_ life = 5 years.
-Alternative-2: Initial purchase cost = Rs.2,00,000, Annual operating and
-maintenance cost = Rs.35000, Expected salvage value = Rs.70,000, Useful life
-=5 years.
-The annual revenue to be generated from production of concrete (by concrete
-mixer) from Alternative-1 and Alternative-2 are Rs.50,000 and Rs.45,000
-respectively. Compute the equivalent present worth of the’alternatives at 10%
-rate of interest and find out the economical alternative.
-06 List various discounted and non-discounted techniques used in project [10]
-CO-2: S0-6; finance. Elaborate on any two discounted techniques with advantages and
-BL-2 disadvantages.
-Q6 Elaborate on the various stages in vendor development. [10]
-CO-1; SO-6;
-BL-2
-Q7 Consider that you are a project manager for a residential building project. [10]
-— SO-6; Identify any 5 stakeholders and explain their roles in project.
-Q7 Elaborate on any five sources of long term funds for a project. [10]
-CO-2; SO-6;
-BL-2
---- page 5 ---
-STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z score.
-
-zZ -00 01 02 03 04 05 06 07 08 09
-
-0.0 | .50000 50399 50798 51197 51595 51994 92392 52790 53188 53586
-0.1 | .53983 -54380 54776 55172 55567 55962 56356 56749 57142 57535
-0.2 | .57926 58317 58706 59095 59483 59871 60257 60642 61026 -61409
-0.3 | .61791 62172 62552 62930 63307 63683 64058 64431 64803 65173
-0.4 | .65542 -65910 66276 66640 67003 67364 .67724 68082 68439 68793
-
-0.5 | .69146 69497 69847 -70194 -70540 -70884 -71226 71566 71904 .72240
-0.6 | .72575 72907 -73237 -73565 .73891 -74215 -74537 74857 -75175 -75490
-0.7 | .75804 -76115 -76424 76730 -77035 -77337 -77637 .77935 -78230 -78524
-0.8 | .78814 -79103 .79389 79673 79955 80234 80511 80785 81057 81327
-0.9 | .81594 81859 82121 82381 82639 82894 83147 83398 83646 83891
-
-1.0 | .84134 84375 84614 84849 85083 85314 85543 85769 85993 86214
-1.1 | .86433 -86650 86864 87076 87286 87493 87698 -87900 -88100 88298
-1.2 | .88493 88686 88877 89065 89251 89435 89617. .89796 89973 90147
-1.3 | .90320 -90490 90658 90824 90988 91149 91309 91466 91621 91774
-1.4 | .91924 92073 92220 92364 92507 92647 92785 92922 93056 93189
-
-1.5: | {93319 93448 93574 93699 93822 93943 94062 94179 94295 -94408
-1.6 | .94520 94630 94738 94845 94950 95053 95154 95254 95352 95449
-1.7 | 95543 95637 95728 95818 95907 95994 -96080 96164 96246 96327
-1.8 | .96407 96485 96562 96638 96712 96784 96856 96926 96995 97062
-1.9 | .97128 97193 97257 97320 97381 97441 97500 97558 97615 -97670
-
-2.0 | .97725 97778 97831 97882 97932 97982 -98030 98077 98124 98169
-2.1 | .98214 98257 -98300 98341 98382 98422 98461 -98500 98537 98574
-2.2 | .98610 98645 98679 98713 98745 98778 98809 -98840 98870 98899
-2.3 | .98928 98956 98983 99010 -99036 99061 99086 99111 99134 99158
-2.4 | .99180 99202 99224 99245 99266 99286 99305 99324 99343 99361
-
-2.5 | .99379 99396 99413 99430 99446 99461 99477 99492 99506 99520
-2.6 | .99534 99547 99560 99573 99585 99598 99609 99621 99632 99643
-2.7 | .99653 99664 99674 99683 99693 99702 99711 99720 99728 99736
-2.8 | .99744 99752 99760 99767 99714 99781 99788 99795 99801 99807
-2.9 | .99813 99819 99825 99831 99836 99841 99846 99851 99856 99861
-
-3.0 | .99865 99869 99874 99878 99882 99886 99889 99893 99896 -99900
-3.1 | .99903 99906 99910 99913 99916 99918 99921 99924 99926 99929
-3.2 | .99931 99934 99936 99938 99940 99942 99944 99946 99948 99950
-3.3 | .99952 99953 99955 99957 99958 99960 99961 99962 99964 99965
-3.4 | .99966 99968 99969 99970 99971 99972 99973 99974 99975 99976
-
-3.5 | .99977 99978 99978 99979 99980 99981 99981 99982 99983 99983
-3.6 | .99984 99985 99985 99986 99986 99987 99987 99988 99988 99989
-3.7 | .99989 99990 99990 -99990 99991 99991 99992 99992 99992 99992
-3.8 | .99993 99993 99993 99994 99994 99994 99994 99995 99995 99995
-3.9 | .99995 99995 99996 99996 99996 99996 99996 99996 99997 99997
-
-Of.
 ````

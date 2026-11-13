@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/DATA SCIENCE/SEM-VII/SPEECH AND NATURAL LANGUAGE PROCESSING/Speech and Natural Language Processing, Sem-VII, Final Exam 2025-26 & Re Exam 2024-25.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 'SVKM’S NMIMS
@@ -102,7 +103,6 @@ N — "gift" [0.3]
 V — "gave" [1.0]
 Det — "a" [1.0]
 ADV — "today" [1.0]
-- ORR OK OR KKK 2 OR RK RR RK KE
 --- page 3 ---
 Q5 Explain the concept of Text Clustering and its importance in Natural
 CO-4; SO-1; Language Processing. Discuss the main clustering techniques used for [10]
@@ -134,6 +134,7 @@ FSO 3 icici doi e
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/Data Science/Speech and Natural Language Processing/Speech and Natural Language Processing , Final 2025-26,Re-exam 2024-25.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 68.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -188,7 +189,6 @@ Where: :
 word. counts = [("Natural", 2), ("language", 3), ("processing", 2), ("is",
 4), (‘fun", 1), ("and", 3), ("exciting", 1), (“other words...", 10)]
 
-Sea a RR FI RAO HR A ke
 --- page 2 ---
 Q3 Evaluate and explain the joint probability of this sequence:
 
@@ -252,6 +252,146 @@ FIG 3 OGIO IOI Or
 --- page 4 ---
 : ; . ; -
 4 we tie 7 _ fos ae Wee pcated og yee REST aL ee - .
+````
+
+## 2025-26 · Re-Exam · Sem 7 · paper 3380bb24e928
+
+- Departments: Data Science
+- Programmes: BTech DS 7009, MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_07/Re-Exam/MBATech_DS_7052/Speech and Natural Language Processing/QP_Speech and Natural Language Processing(702DB0C028)_2024-2025.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 83.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS.
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+
+Program/s: B Tech / MBA Tech ; Year: IV Semester: VII
+
+Stream/s ; DS . :
+
+Subject: Speech and Natural Language Processing Time: 03 brs (40-o0amto 4-00 pm )
+Date:_03 /412./ 2025 : No. of Pages:03
+
+Marks: 100
+
+Final Examination 2025-26 | Re- Examination (2024-25)
+
+Instructions:
+1, This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. - In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+
+Qi Answer briefly: : . [20]
+CO-1; SO-1; | a- | What is tokenization and why is it important in NLP? [05]
+BL-2
+What is POS Tagging? Mention the applications of POS Tagging.
+
+CO-3; SO-1; | b. [05]
+BL-2 . :
+
+. Differentiate between arguments-and adjuncts with suitable examples.
+CO-4; $O-1; | ¢. [05]
+BL-3 :
+CO-5;$O-1; | d. | Give the formula for self-attention and explain each variable. [05]
+BL-3 ;
+Q2 Describe the process of lemmatization. Explain rule-based, dictionary-
+CO-1; SO-1; | a. | based, and morphological analysis-based lemmatization approaches with [10]
+BL-3 examples, advantages, disadvantages and their tools of implementation.
+Q2 Using a small corpus word_counts and add-one (Laplace) smoothing,
+CO-2; SO-1; | b. | calculate the bigram probability of the sentence: [10]
+BL-4
+
+“Natural language processing is fun and exciting”
+Where: :
+
+word_counts = [("Natural", 2), ("language", 3), ("processing", 2), ("is",
+4), ("fun", 1), ("and", 3), ("exciting", 1), ("other words...", 10)]
+
+RRERRERRER 7 PERK EERE
+--- page 2 ---
+Q3 Evaluate and explain the joint probability of this sequence: ; lag
+CO-2;$O-1; | a | [1,3,2, H, C, H] For this given HMM: [10]
+BL-5
+
+Q3 Analyse how Dependency Parsing represents relationships between words
+
+CO-3; SO-1; |b. | in a-sentence, and explain how this structure helps in understanding [10]
+BL-4 sentence meaning compared to simple sequential parsing. :
+Q4 What are the components of the Encoder-Decoder network of ©
+
+CO-5; SO-1; | a | transformers? Explain with diagram. ; [10)
+BL-2 .
+
+Q4 Explain in brief the three main approaches to Word Sense Disambiguation
+CO-4;SO-1; | b- | (WSD): supervised, unsupervised, and knowledge-based. Discuss their [10]
+BL-4 advantages and disadvantages. Explain how RNN-based models can be .
+
+integrated with WSD for improved contextual disambiguation.
+
+Q5 Explain briefly what a Probabilistic Context-Free Grammar (PCFG) is
+CO-3;SO-1; | a- | and calculate the probability of the given parsed tree for the sentence: [10]
+BL-3, ' :
+
+"Tom gave Emma a gift today."
+
+S — NP VP . [1.0]
+
+NP —N [0.6] — ("Tom", "Emma")
+
+NP — DetN [0.4] — (‘a gift")
+
+VP +~VNPNPADV [0.5] — ("gave Emma a gift today")
+
+VP — VNP NP [0.5] — ("gave Emma a gift")
+
+N — "Tom" [0.4]
+
+N — "Emma" [0.3]
+
+N = "gift" [0.3]
+
+V — "gave" [1.0]
+
+Det — "a" [1.0]
+
+ADV — "today" [1.0]
+
+--- page 3 ---
+Q5 Explain the concept of Text Clustering and its importance in Natural
+
+CO-4; SO-1; | b. | Language Processing. Discuss the main clustering techniques used for [10]
+
+BL4 —°. grouping similar texts (such as K-Means and Hierarchical Clustering), and ;
+illustrate the process with a suitable example.
+
+06
+CO-1; SO-1; | a. | Explain how Naive Bayes works for text classification with count [10]
+BL-3, vectorizer. .
+Q6
+CO-4;SO-1; |b. | Name all the gates in an LSTM cell and explain their functions. Discuss [10]
+BL-4 how these gates help in modelling contextual word representations, for
+
+: example in Word Sense Disambiguation (WSD) tasks. _
+Q7 Explain Low-Rank Adaptation (LoRA) and analyze how it efficiently
+CO-5;SO-1; | a | modifies transformer models compared to full fine-tuning. | [10]
+BL-4
+Q7 . ? , .
+CO-4; $O-1;.| b. | Explain how Thesauruses like WordNet are used in the retrofitting algorithm | [10]
+BL-4 : to refine word embeddings. Describe the process and illustrate with an _ ;
+
+example using the words dog, hound, and cat.
+
+HREKEREEEK 3 KKK KK EEK
 ````
 
 ## 2024-25 · Final-Exam · Sem 7 · paper da25f88c9c90
@@ -395,146 +535,6 @@ So-1, Also describe how the transformers encoder can be used in different NLP | 
 SO-2, tasks.
 SO-6;
 BL-3
-````
-
-## 2024-25 · Re-Exam · Sem 7 · paper 3380bb24e928
-
-- Departments: Data Science
-- Programmes: BTech DS 7009, MBATech DS 7052
-- Source: `02_Question_Papers/2024/Sem_07/Re-Exam/MBATech_DS_7052/Speech and Natural Language Processing/QP_Speech and Natural Language Processing(702DB0C028)_2024-2025.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 83.3
-
-````text
-SVKM’S NMIMS.
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026
-
-Program/s: B Tech / MBA Tech ; Year: IV Semester: VII
-
-Stream/s ; DS . :
-
-Subject: Speech and Natural Language Processing Time: 03 brs (40-o0amto 4-00 pm )
-Date:_03 /412./ 2025 : No. of Pages:03
-
-Marks: 100
-
-Final Examination 2025-26 | Re- Examination (2024-25)
-
-Instructions:
-1, This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. - In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-
-Qi Answer briefly: : . [20]
-CO-1; SO-1; | a- | What is tokenization and why is it important in NLP? [05]
-BL-2
-What is POS Tagging? Mention the applications of POS Tagging.
-
-CO-3; SO-1; | b. [05]
-BL-2 . :
-
-. Differentiate between arguments-and adjuncts with suitable examples.
-CO-4; $O-1; | ¢. [05]
-BL-3 :
-CO-5;$O-1; | d. | Give the formula for self-attention and explain each variable. [05]
-BL-3 ;
-Q2 Describe the process of lemmatization. Explain rule-based, dictionary-
-CO-1; SO-1; | a. | based, and morphological analysis-based lemmatization approaches with [10]
-BL-3 examples, advantages, disadvantages and their tools of implementation.
-Q2 Using a small corpus word_counts and add-one (Laplace) smoothing,
-CO-2; SO-1; | b. | calculate the bigram probability of the sentence: [10]
-BL-4
-
-“Natural language processing is fun and exciting”
-Where: :
-
-word_counts = [("Natural", 2), ("language", 3), ("processing", 2), ("is",
-4), ("fun", 1), ("and", 3), ("exciting", 1), ("other words...", 10)]
-
-RRERRERRER 7 PERK EERE
---- page 2 ---
-Q3 Evaluate and explain the joint probability of this sequence: ; lag
-CO-2;$O-1; | a | [1,3,2, H, C, H] For this given HMM: [10]
-BL-5
-
-Q3 Analyse how Dependency Parsing represents relationships between words
-
-CO-3; SO-1; |b. | in a-sentence, and explain how this structure helps in understanding [10]
-BL-4 sentence meaning compared to simple sequential parsing. :
-Q4 What are the components of the Encoder-Decoder network of ©
-
-CO-5; SO-1; | a | transformers? Explain with diagram. ; [10)
-BL-2 .
-
-Q4 Explain in brief the three main approaches to Word Sense Disambiguation
-CO-4;SO-1; | b- | (WSD): supervised, unsupervised, and knowledge-based. Discuss their [10]
-BL-4 advantages and disadvantages. Explain how RNN-based models can be .
-
-integrated with WSD for improved contextual disambiguation.
-
-Q5 Explain briefly what a Probabilistic Context-Free Grammar (PCFG) is
-CO-3;SO-1; | a- | and calculate the probability of the given parsed tree for the sentence: [10]
-BL-3, ' :
-
-"Tom gave Emma a gift today."
-
-S — NP VP . [1.0]
-
-NP —N [0.6] — ("Tom", "Emma")
-
-NP — DetN [0.4] — (‘a gift")
-
-VP +~VNPNPADV [0.5] — ("gave Emma a gift today")
-
-VP — VNP NP [0.5] — ("gave Emma a gift")
-
-N — "Tom" [0.4]
-
-N — "Emma" [0.3]
-
-N = "gift" [0.3]
-
-V — "gave" [1.0]
-
-Det — "a" [1.0]
-
-ADV — "today" [1.0]
-
-KKK EREEKE 2 BEER EES
---- page 3 ---
-Q5 Explain the concept of Text Clustering and its importance in Natural
-
-CO-4; SO-1; | b. | Language Processing. Discuss the main clustering techniques used for [10]
-
-BL4 —°. grouping similar texts (such as K-Means and Hierarchical Clustering), and ;
-illustrate the process with a suitable example.
-
-06
-CO-1; SO-1; | a. | Explain how Naive Bayes works for text classification with count [10]
-BL-3, vectorizer. .
-Q6
-CO-4;SO-1; |b. | Name all the gates in an LSTM cell and explain their functions. Discuss [10]
-BL-4 how these gates help in modelling contextual word representations, for
-
-: example in Word Sense Disambiguation (WSD) tasks. _
-Q7 Explain Low-Rank Adaptation (LoRA) and analyze how it efficiently
-CO-5;SO-1; | a | modifies transformer models compared to full fine-tuning. | [10]
-BL-4
-Q7 . ? , .
-CO-4; $O-1;.| b. | Explain how Thesauruses like WordNet are used in the retrofitting algorithm | [10]
-BL-4 : to refine word embeddings. Describe the process and illustrate with an _ ;
-
-example using the words dog, hound, and cat.
-
-HREKEREEEK 3 KKK KK EEK
 ````
 
 ## 2024-25 · Re-Exam · Sem 7 · paper d68d7e6b0242

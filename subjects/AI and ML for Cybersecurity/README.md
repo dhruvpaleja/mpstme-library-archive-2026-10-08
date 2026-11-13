@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_AI and ML for Cybersecurity(702IT0E003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech CyberSecurity 7010 | QP_AI and ML for Cybersecurity(702IT0E003)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_AI and ML for Cybersecurity(702IT0E003)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_AI and ML for Cybersecurity(702IT0E003)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / CSE CYBER SECURITY | AI and ML for Cybersecurity, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | BTech CyberSecurity 7010 | QP_AI and ML for Cybersecurity(702IT0E003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_AI and ML for Cybersecurity(702IT0E003)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / CSE CYBER SECURITY | AI and ML for Cybersecurity, Sem-V, Final Exam, A Y 2023-24.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 5 | B TECH / CSE CYBER SECURITY | AI and ML for Cybersecurity, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf |
 

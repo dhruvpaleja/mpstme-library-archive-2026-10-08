@@ -1,8 +1,174 @@
 # Chemistry II: question papers in full
 
-38 unique papers · 2014-15 to 2024-25 · Common (all branches), Mechanical, Data Science, Information Technology, Computer Engineering
+38 unique papers · 2014-15 to 2025-26 · Common (all branches), Mechanical, Data Science, Information Technology, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 3 · paper 0b733534e711
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/Chemistry II/Chemistry II Batch 2022-23,2024-25 Re Exam0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 85.8
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2025-2026
+
+Program: B Tech Integrated Year: II Semester: IIT
+
+Stream: Mechanical, IT
+
+Subject: Chemistry II . Time: 3 hrs ({o:0om te 4:00pm)
+Date: 26 /1| / 25° No. of Pages:3
+
+Marks: 100
+
+Re Exam (2022-23)/(2024-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. .
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+8) Atomic weights: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Ba= 137, Bi=209, Br=80,
+C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, Fr=223, H=1, He=4, K=39, Kr=84,
+Li= 7, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=59, O=16, Os=190, P=31, S=32, Sc=44.9, Se=79,
+Si=28, Zn=65.4, Zr=91.2
+
+Ql
+Answer briefly: [20]
+
+™ | CO-1; a. | Explain periodicity in Electronegativity with examples. 5
+
+S0-F:BL-2 plain p y ee p [5]
+
+ale ;SO-1; BL- | b. | Define mole. Calculate number of atoms in a sample of 3 mol NaHCO3. [5]
+
+. . c. | Illustrate Lewis dot structures of
+
+CO-3; SO-1; [5]
+
+BL-2 1) CH4 2) COz 3) Clo 4) Fo 5) O2
+
+CO-4; SO-1;BL-2 | 4. | Explain Osmotic pressure as Colligative properties of solution. [5]
+
+2 a. Explain periodicity in atomic radii. [5]
+
+CO-1; $O-1;BL-2
+
+b. | Calculate initial concentration of a Na2SOs solution of 400 ml that is
+
+CO-2; SO-1;BL-4 [5]
+. . : diluted to final volume of 1.2 l with a final concentration of 0.45 M.
+CO-1; SO-1; c. | Define effective nuclear charge. Estimate Zee of outermost s electron and [5]
+BL-1,2 3d electron for Sc (Z=21).
+1
+--- page 2 ---
+« »
+
+CO-2; SO-1; d. ‘a
+Define molecular weight. Solve equivalent weight of HxSO4, NaOH, HCI | [5]
+
+BL-1
+Q3 a. soe et . :
+
+Explain ionic and covalent bond with an appropriate example. [5]
+CO-3; SO-1;BL-2 ‘
+
+b. | Illustrate the structure of the following compounds:
+i. 3-chlorohexan-2-ol
+ii. 2,4-dimethyl-1,3-butadiene
+CO-3; SO-1;BL-2 [5]
+iii. 3-chloro-4-methyl-2-hexanone
+
+iv. 2-methylbutanal
+
+y. But-1-en-3-yne oO
+
+CO-3; SO-1; BL- | c. | Define octet rule. Illustrate Lewis structure of 2 molecules that violates [5]
+1 | octet rule.
+Gem Bee d. | A solution was prepared by dissolving 100 g CaCl in water such that
+a : ; total volume of solution is 800 ml. Density of solution is 1.2 g/ml. [5]
+
+Calculate molality of solution.
+Q4 a. .
+CO-3; $O-1; Explain hybridization of ethene. : [5] .
+BL-2 .
+CO-3; SO-1; b. | Write any two preparations and reactions of Carboxylic acid.
+
+[5]
+BL-1
+c. | Predict IUPAC names of following compounds:
+; i. CHs-CH(Br)-CHp-CH)-CHO om
+
+ii. Cl-CH=CH-CH=CH-CH3
+
+iii. CH2>=HC-CH2-CH2-OH
+CO-3; SO-1; .
+
+iv. Vv [5]
+BL-4
+
+CHO
+
+<ae
+
+CO-3; SO-1; * d. | Explain alcohol functional group with respect to 2 methods of preparation [5]
+BL-2 * and 2 reactions.
+--- page 3 ---
+sp
+
+= #7
+
+Predict the period and block of Ca (Z=20) and O (Z=8) using electron
+
+es [5]
+CO-1 SO-1;BL-4 configuration.
+CO-2; SO-1; Calculate the weight of 2 x 10'® atoms of copper sulphate pentahydrate [5]
+BL-4 (CuSO4.5H20). *
+CO-1; $O-1: Define electron affinity. Compare electron affinity of following elements .
+= in ascending order with proper justification: Li(Z=3), B (Z=5), N (Z=7), [5]
+O(Z=8).
+CO-2; SO-1; Calculate the normality of a Ca(OH), solution prepared by dissolving 0.4 [5]
+BL-3 g Ca(OH)2 to make a 500 ml solution.
+Q6
+CO-3; SO-1; Explain co-ordinate bonding with éxample. [5]
+BL-2 ,
+CO-4; SO-1: A solution was prepared by dissolving 15 g Na2SOs in water such that
+_ total volume of solution is 600 ml. Density of solution is 0.9 g/ml. [5]
+Calculate mole fraction of the 2 components of solution.
+CO-3; SO-1;
+_— Explain sp3 hybridization with an appropriate example. [5]
+CO-4; SO-1; A solution was prepared by dissolving 0.8 moles MgCl: in water such that [5]
+BL-4 total volume of solution is 600 ml. Solve concentration in ppm.
+Q7
+CO-3; SO-I: Explain resonance structure with examples. [5]
+BL-2
+CO-3; SO-1; Define functional group. Explain the three types of alcohol with (51
+BL-1 identification test.
+C0-3: $O-1: 0.09 Kg NaCl is dissolved in H2O to make volume of solution as 900 ml.
+— Calculate the concentration of NaCl in the solution in terms of ppm and | [5]
+ppb.
+CO-3; SO-1; Discuss aldehyde & ketone functional group with respect to identification
+BL-3 test, 2 methods of preparation and 2 reactions. a
+
+t
+````
 
 ## 2024-25 · Final + Re-Exam · Sem 3 · paper ff6c8992df63
 
@@ -209,6 +375,7 @@ RRR RRR QE
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/DATA SCIENCE/Sem_04/Chemistry II/Chemistry II Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 May 2025
 - Text: ocr (4 pages), mean OCR confidence 85.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -313,7 +480,6 @@ Q4. ; a. | Show Lewis dot structure of CH4, NH3,N2, BCls, CO2 (5)
 CO-3; SO-1;
 BL-1 i
 
-SCG GK 2 Ok i ka a ar
 --- page 3 ---
 CO-3; SO-1; | b. 8 (5)
 BL-4 :
@@ -403,6 +569,7 @@ FOR 2 AO A
 - Source: `02_Question_Papers/2024/Sem_03/Final-Exam/Integrated_IT_7037/Chemistry-II/QP_Chemistry-II(701BS0C017)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2024
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -551,6 +718,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2024/Sem_03/Final-Exam/Integrated_Mechanical_7031/Chemistry-II/QP_Chemistry-II(701BS0C017)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2024
 - Text: mixed (4 pages), mean OCR confidence 35.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1515,172 +1683,6 @@ SO-1; i) Ozone (Os);
 BL-2 ii) Nitrite ion (NO2_).
 
 FO Qa Rk
-````
-
-## 2024-25 · Re-Exam · Sem 3 · paper 0b733534e711
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_03/Chemistry II/Chemistry II Batch 2022-23,2024-25 Re Exam0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 85.8
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2025-2026
-
-Program: B Tech Integrated Year: II Semester: IIT
-
-Stream: Mechanical, IT
-
-Subject: Chemistry II . Time: 3 hrs ({o:0om te 4:00pm)
-Date: 26 /1| / 25° No. of Pages:3
-
-Marks: 100
-
-Re Exam (2022-23)/(2024-25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted. .
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-8) Atomic weights: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Ba= 137, Bi=209, Br=80,
-C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, Fr=223, H=1, He=4, K=39, Kr=84,
-Li= 7, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=59, O=16, Os=190, P=31, S=32, Sc=44.9, Se=79,
-Si=28, Zn=65.4, Zr=91.2
-
-Ql
-Answer briefly: [20]
-
-™ | CO-1; a. | Explain periodicity in Electronegativity with examples. 5
-
-S0-F:BL-2 plain p y ee p [5]
-
-ale ;SO-1; BL- | b. | Define mole. Calculate number of atoms in a sample of 3 mol NaHCO3. [5]
-
-. . c. | Illustrate Lewis dot structures of
-
-CO-3; SO-1; [5]
-
-BL-2 1) CH4 2) COz 3) Clo 4) Fo 5) O2
-
-CO-4; SO-1;BL-2 | 4. | Explain Osmotic pressure as Colligative properties of solution. [5]
-
-2 a. Explain periodicity in atomic radii. [5]
-
-CO-1; $O-1;BL-2
-
-b. | Calculate initial concentration of a Na2SOs solution of 400 ml that is
-
-CO-2; SO-1;BL-4 [5]
-. . : diluted to final volume of 1.2 l with a final concentration of 0.45 M.
-CO-1; SO-1; c. | Define effective nuclear charge. Estimate Zee of outermost s electron and [5]
-BL-1,2 3d electron for Sc (Z=21).
-1
---- page 2 ---
-« »
-
-CO-2; SO-1; d. ‘a
-Define molecular weight. Solve equivalent weight of HxSO4, NaOH, HCI | [5]
-
-BL-1
-Q3 a. soe et . :
-
-Explain ionic and covalent bond with an appropriate example. [5]
-CO-3; SO-1;BL-2 ‘
-
-b. | Illustrate the structure of the following compounds:
-i. 3-chlorohexan-2-ol
-ii. 2,4-dimethyl-1,3-butadiene
-CO-3; SO-1;BL-2 [5]
-iii. 3-chloro-4-methyl-2-hexanone
-
-iv. 2-methylbutanal
-
-y. But-1-en-3-yne oO
-
-CO-3; SO-1; BL- | c. | Define octet rule. Illustrate Lewis structure of 2 molecules that violates [5]
-1 | octet rule.
-Gem Bee d. | A solution was prepared by dissolving 100 g CaCl in water such that
-a : ; total volume of solution is 800 ml. Density of solution is 1.2 g/ml. [5]
-
-Calculate molality of solution.
-Q4 a. .
-CO-3; $O-1; Explain hybridization of ethene. : [5] .
-BL-2 .
-CO-3; SO-1; b. | Write any two preparations and reactions of Carboxylic acid.
-
-[5]
-BL-1
-c. | Predict IUPAC names of following compounds:
-; i. CHs-CH(Br)-CHp-CH)-CHO om
-
-ii. Cl-CH=CH-CH=CH-CH3
-
-iii. CH2>=HC-CH2-CH2-OH
-CO-3; SO-1; .
-
-iv. Vv [5]
-BL-4
-
-CHO
-
-<ae
-
-CO-3; SO-1; * d. | Explain alcohol functional group with respect to 2 methods of preparation [5]
-BL-2 * and 2 reactions.
---- page 3 ---
-sp
-
-= #7
-
-Predict the period and block of Ca (Z=20) and O (Z=8) using electron
-
-es [5]
-CO-1 SO-1;BL-4 configuration.
-CO-2; SO-1; Calculate the weight of 2 x 10'® atoms of copper sulphate pentahydrate [5]
-BL-4 (CuSO4.5H20). *
-CO-1; $O-1: Define electron affinity. Compare electron affinity of following elements .
-= in ascending order with proper justification: Li(Z=3), B (Z=5), N (Z=7), [5]
-O(Z=8).
-CO-2; SO-1; Calculate the normality of a Ca(OH), solution prepared by dissolving 0.4 [5]
-BL-3 g Ca(OH)2 to make a 500 ml solution.
-Q6
-CO-3; SO-1; Explain co-ordinate bonding with éxample. [5]
-BL-2 ,
-CO-4; SO-1: A solution was prepared by dissolving 15 g Na2SOs in water such that
-_ total volume of solution is 600 ml. Density of solution is 0.9 g/ml. [5]
-Calculate mole fraction of the 2 components of solution.
-CO-3; SO-1;
-_— Explain sp3 hybridization with an appropriate example. [5]
-CO-4; SO-1; A solution was prepared by dissolving 0.8 moles MgCl: in water such that [5]
-BL-4 total volume of solution is 600 ml. Solve concentration in ppm.
-Q7
-CO-3; SO-I: Explain resonance structure with examples. [5]
-BL-2
-CO-3; SO-1; Define functional group. Explain the three types of alcohol with (51
-BL-1 identification test.
-C0-3: $O-1: 0.09 Kg NaCl is dissolved in H2O to make volume of solution as 900 ml.
-— Calculate the concentration of NaCl in the solution in terms of ppm and | [5]
-ppb.
-CO-3; SO-1; Discuss aldehyde & ketone functional group with respect to identification
-BL-3 test, 2 methods of preparation and 2 reactions. a
-
-t
 ````
 
 ## 2023-24 · Final + Re-Exam · Sem 3 · paper 7f6fee3429ea
@@ -3422,6 +3424,162 @@ Define system and surroundings, and discuss the three types of systems.
 ry
 ````
 
+## 2016-17 · Re-Exam · Sem 2 · paper e48851efaaaa
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/CHEMISTRY II/Chemistry II Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 10 July 2017
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+_ - oe ae pe
+
+SVKM’S NMIMS
+MUKESH PATEE-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2016 - 2017
+
+Program: B. Tech Integrated (All Streams) Year:
+
+Batch: 2014-15 1
+a
+
+Subject: Chemistry - II Time: ankle to 1.00 pm) , ¢
+
+Date : 10 July 2017 Duration:3 ft Ne oo
+
+No. of Pages: 02.
+RE - EXAMINATION
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use. :
+Note:
+
+1) Question No. 1is compulsory.
+
+2) Out of the remaining questions, attempt any 4 questions.
+
+3) Inall5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Non-graphing scientific calculator can be used for numerical solving.
+
+7) Figures in brackets on the right hand side indicate full marks.
+
+8) Assume Suitable data if necessary,
+
+9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197,
+Ba=137, Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52,. Cs= 132.9, Cu=63.5,
+Fe=55.9, Fr=223, H=1, He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2,
+Ni=58.7, O=16, Os=190, P=31, S=32, Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2-
+
+Q1. Answer any four of the following:
+a. What is the equivalent of 0.730 atm pressure in mm of Hg? (3)
+
+b. Write a short note on the three types of systems. (3)
+c. What is the molarity (M) of a CaCl, solution in which 10g of CaCl, is dissolved in 400 (3)
+mL of the solution?
+
+d. Differentiate between BOD and COD. (3)
+e. Write a note about the chemical constitution of Portland cement. (3)
+f. Write a short note on the advantages of the Zeolite process. (3)
+
+Q2. a. Calculate the change in internal energy for a process in which the system liberates 700 (4)
+J of heat to the surroundings, while the surrounding does 300 J of work on the system.
+
+b. Discuss the hot lime-soda process with a suitable diagram. (4)
+c. Write a short note on the effect of acid rain on the living beings, plants, trees, soil, and (4)
+aquatic life.
+
+Yo_
+--- page 2 ---
+Q3.
+
+Q4.
+
+Qs.
+
+Q6.
+
+Q7.
+
+Calculate the amount of heat (kJ) required to warm 0.6kg of water from 25°C to 81°C
+assuming the atmospheric pressure stays constant. (C, for H2O = 4.18 Jiget.K).
+Differentiate between industrial and photochemical smog-
+
+A 3.8L sample of a gas at a pressure of 900mm of Hg is to be expanded to a final
+pressure of 0.33 atm. What is its final volume of the gas in mL?
+
+Write a short note on the First law of thermodynamics, the mathematical equation
+representing it and the conventions for signs of heat and work under different
+conditions.
+
+A water sample has the following impurities per liter of the sample: MgCl, = 3.4 mg,
+CaSO, = 23.12 mg, MgSO, = 20.4 mg, NaCl = 20 mg, KCI = 20 mg, NaNO3 = 25 mg, KNO3
+= 25 mg, Ca(HCO3), = 13.77 mg, Mg(HCOs), = 12.75 mg. Calculate the amount of lime
+and soda required for the softening of 85000L of the water sample.
+
+Derive the expression for determining the pressure of a gas, knowing its density,
+molecular weight, and temperature.
+
+4
+3
+
+Discuss in detail Charle’s law as applied to gases showing a mathematical expression
+
+for the same-
+Write a short note on the advantages and disadvantages of the chlorination method of
+
+water disinfection-
+300 mL of a KOH solution of unknown concentration upon dilution to 1.5L gave a KOH
+solution having a concentration of 0.44M. Calculate the unknown concentration.
+
+Differentiate between the wet and dry process used for the mixing of raw materials in
+the manufacture of Portland cement-
+
+A Zeolite bed got exhausted after softening 10400 L of a hard water sample.
+Regeneration of the bed was done using 78L of a 10% brine solution. Calculate the
+hardness of the water sample in terms of ppm of the calcium carbonate equivalents.
+Differentiate between reversible and irreversible processes.
+
+A gas ina fixed-volume cylinder is at a pressure of 500 torr and a temperature of 4°C.
+What will be the final temperature (K) of the gas if the final pressure of the gas is 4000
+torr?
+
+Calculate the mass of sodium in Na2SO, that contains 4.12 x 10”? oxygen atoms.
+
+What is a refractory? Classify the three types of refractories with suitable examples of
+each type.
+
+Zh
+
+(4)
+(4)
+(4)
+(4)
+
+(4)
+
+(4)
+
+(4)
+(4)
+
+(4)
+
+(4)
+(4)
+
+(4)
+(4)
+
+(4)
+(4)
+````
+
 ## 2016-17 · Re-Exam · Sem 2 · paper cc8be1efcd25
 
 - Departments: Common (all branches)
@@ -3837,6 +3995,285 @@ Explain the purification of water by reverse osmosis with a suitable diagram.
 (4)
 ````
 
+## 2015-16 · Re-Exam · Sem 2 · paper 2120d78b7a0c
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/CHEMISTRY II/Chemistry II Batch 2014-15 Re Exam_2120d78b7a.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 2 July 2016
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+SVKM’s NMIMS gsi TE BF ay
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & enguinma :
+
+“ni B
+L Programme:B. Tech Integrated (All Streams) Year: | R
+J Academic Year: 2015-2016
+Batch: 2014-2015
+Subject : Chemistry - II Marks:60 ,
+Time :10.00 am to 1.00 pm
+
+Date : 2 July 2016 Durations:3 (hrs)
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+Note:
+— so 1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) Inall 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Non-graphing scientific calculator can be used for numerical solving
+7) Figures in brackets on the right hand side indicate full marks.
+8) Assume Suitable data if necessary
+9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Br=80, C=12,
+Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, H=1, He=4, K=39, Kr=84,
+Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, S=32, Sc=44.9, Se=79,
+Si=28, Zn=65.4, Zr=91.2
+
+Qi. Answer any three of the following:
+
+a. A 8.5L sample of a gas is kept in a cylinder at 20°C and at a constant pressure. What (4)
+
+will be the final volume in mL if the gas is heated to a final temperature of 150 °C.
+~. b. Differentiate between industrial smog and photochemical smog. (4)
+
+c. Write a short note on properties and uses of dolomite bricks. (4)
+
+d. What is the molarity (M) of a MgBr2 solution in which 36g of MgBr is dissolved in (4)
+500 mL of the solution?
+
+e. Calculate the change in internal energy (AE) for a process in which the system gains (4)
+650 J of heat from the surroundings, while the system does 350 J of work on the
+surroundings.
+
+f. Discuss four differences between lime-soda process and zeolite process. (4)
+
+Q2. a. Calculate the mass of potassium (K) in K2CrO; that contains 4.12 x 10” oxygen (4)
+
+atoms.
+b. Discuss in detail the Charles law as applied to gases showing a mathematical (4)
+
+expression for the same.
+c. Explain the purification of water by reverse osmosis with a suitable diagram. (4)
+
+4/2
+--- page 2 ---
+Q3.
+
+Q4.
+
+Q55.
+
+Q6.
+
+Q7.
+
+What is an exothermic reaction? Give an example, and draw the energy diagram for an
+exothermic reaction, label the different parts of the diagram.
+
+Differentiate between the wet and dry process used for the mixing of raw materials in
+the manufacture of Portland cement.
+
+An exhausted zeolite softener was regenerated by passing 150 litres of NaCl solution,
+having a strength of 150 g/L of NaCl. The water sample that was softened by zeolite
+contained the following constituents: Ca(HCOs)2 = 810 ppm, MgSO4 = 120 ppm. How
+many litres of the above water sample can be softened using this softener?
+
+Write all the reactions occurring in the clinkering zone.
+
+To 100 g of,CO gas with a volume of 2.5 L is added 25g CO? at a constant pressure
+and temperature. What is the final volume (mL) of the gas?
+
+What is the initial concentration of a 250 ml solution that has been diluted to give 2.0
+L of a 0.5 M aqueous solution?
+
+Write a short note on acid rain. Show the reactions involved.
+
+Calculate the amount of heat released when 100 g of propane gas i.e. C3Hs is
+decomposed (at constant pressure) in accordance with the following reaction:
+C3Hs + 502 —————>_ 4H20_ + 3CO2 AH = —2220.1 kJ/mol
+
+Explain how hardness causing salt is removed by Ion Exchange Process.
+
+Derive an expression that correlates the temperature, pressure, molecular weight, and
+the density of a gas.
+Given the following reactions
+
+N,(g)+0,(g) > 2NO(g) AH = +180.7 kJ
+2NO(g) + O,(g) > 2NO,(g) AH = -113.1 kJ
+Calculate the enthalpy change for the following reaction in kJ:
+4NO(g) > 2NO, (g) +N, (8)
+
+Explain measures which can be taken in controlling the problem of Greenhouse effect.
+
+Discuss in details Boyle's law as applied to gases showing a mathematical expression
+for the same.
+
+Write a short note on system and surroundings, and discuss the three types of systems.
+Calculate the quantity of lime required for softening 50,000 litres of water Containing
+the following salts per litre: Ca(HCOs)2 = 8.1 ppm; Mg(HCO3) = 7.5 ppm; CaSO, =
+13.6 ppm; MgSO, = 12 ppm; MgCl. = 2 ppm; NaCl = 4.7 ppm.
+
+2fp
+
+(4)
+(4)
+(4)
+
+(4)
+(4)
+
+(4)
+(4)
+4)
+(4)
+(4)
+(4)
+
+(4)
+(4)
+
+(4)
+(4)
+
+aan
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper 75a5595ec857
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/CHEMISTRY II/Chemistry II Batch 2014-15 Re Exam_75a5595ec8.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 May 2016
+- Text: ocr (2 pages), mean OCR confidence 91.0
+
+````text
+SVKM’s NMIMS {i =>
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &' diénconme ye
+
+mA
+Programme: B. Tech Integrated (All Streams) Year: I Semester: Tt Aé
+
+Academic Year: 2015-2016
+
+BATCH: 2014-2015 Marks: 60
+Subject : Chemistry - II Time : 10.00 am to 1.00 pm
+Date : 10 May 2016 Durations: 3 (hrs)
+
+Re -Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, whieh 3 is provided for their use.
+Note:
+on 1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+_4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+8) Atomic weights of elements in a.m.u: H= 1, C= 12, N= 14, O= 16, Na= 23, Mg= 24, S=
+32, C= 35.5, Ca= 40, Al= 24, Cu= 63. 5.
+
+Ql. Answer any four of the following:
+a. Write a short note about action of bleaching powder as a disinfectant. (3)
+b. Write a short note on silica bricks. (3)
+c. Calculate the change in internal energy for a process in which the system
+liberates 700 J of heat to the surroundings, while the surroundings do 300 J of (3)
+work on the system.
+d. How many moles of nitrate ions are in a mixture of 3 mol of calcium nitrate-
+
+Ca(NO3)2 and 2 mol of aluminium nitrate- Al(NO3)3? (3)
+e. Write a short note on Greenhouse effect. (3)
+f. The pressure reading in a barometer is 742 mm Hg. ree this reading in
+kilopascals, KPa. (3)
+=e Q2. a. Calculate the amount of lime and soda required for softening 40,000 litres of
+water containing the concentration of following salts: Ca(HCO3)2 = 8.1 ppm,
+pes Mg(HCOs3)2 = 7.5 ppm, CaSO4 = 13.6 ppm, MgSO4 = 12 ppm, MgCl, = 2 ppm, (4)
+! NaCl = 4.7 ppm.
+b. Write a note about the chemical constitution of Portland Cement. (4)
+
+c. Write a short note about First law of thermodynamics, the mathematical
+equation representing it and the conventions for signs of heat and work. : (4)
+--- page 2 ---
+Q3.
+
+Q4.
+
+Q5.
+
+Q6.
+
+Q7.
+
+What would be the weight of 3 x 107° atoms of cupric sulphate pentahydrate
+
+(CuSO4.5H20)?
+Write a short note on acid rain.
+Discuss in detail Charle’s law as applied to gases.
+
+Write 5 differences between Hot Lime Soda and Cold Lime Soda process.
+Calculate the amount of heat energy (KJ) required to heat 0.8 Kg of water from
+27 °C to 65 °C at constant pressure. (C; for H20 = 4.18 Jg!K")
+
+Write a short note on BOD and COD.
+
+Write a note on dolomite bricks.
+
+What is the molarity of a CaCl solution in which 72 g of CaCl is dissolved. in
+400 ml of water? How will you dilute the concentration of this solution to 0.3
+M?
+
+5 litres of Nitrogen measured at 750 mm have to be compressed into an iron
+
+cylinder of | litre capacity. If temperature is kept constant, calculate the pressure
+in atmospheres required to do so.
+
+An exhausted zeolite softener was regenerated by passing 200 L of NaCl
+solution, having strength of 150 g/L of NaCl. How many litres of hard water
+having the concentration of following substances: Ca(HCOs3)2 = 300 ppm, CaCl
+= 300 ppm, MgSO« = 200 ppm can be softened using this softener?
+
+Define exothermic and endothermic reaction with one example of each. Draw
+the enthalpy diagram of each of the reaction with proper labeling.
+
+Write a note on Avogadro's law and ideal gas equation.
+
+What volume will be occupied by a sample of a gas at 87 °C and 720 mm
+pressure if its volume at 27 °C and 750 mm pressure was 250 ml?
+Explain the Ion Exchange process with suitable diagram.
+Calculate AH for the reaction
+N20 (g) + NO2(g) ———> __ 3NO(g)
+given the following information:
+No(s) +O2(g) ———>   2NO(g) AH = 180.7 KJ
+2NO(g) + O2(g) ——> 2NOr(g) AH = - 113.1 KJ
+2 N20 (g) ——> 2N2(g)+O2(g) AH=- 163.2 KI
+
+(4)
+(4)
+(4)
+(4)
+(4)
+(4)
+(4)
+
+(4)
+
+(4)
+
+(4)
+
+(4)
+(4)
+
+(4)
+(4)
+(4)
+````
+
 ## 2015-16 · Re-Exam · Sem 2 · paper eab76b078aa2
 
 - Departments: Common (all branches)
@@ -4112,441 +4549,6 @@ ae)
 (4)
 
 (4)
-(4)
-(4)
-
-(4)
-(4)
-(4)
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper e48851efaaaa
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/CHEMISTRY II/Chemistry II Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 10 July 2017
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-_ - oe ae pe
-
-SVKM’S NMIMS
-MUKESH PATEE-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2016 - 2017
-
-Program: B. Tech Integrated (All Streams) Year:
-
-Batch: 2014-15 1
-a
-
-Subject: Chemistry - II Time: ankle to 1.00 pm) , ¢
-
-Date : 10 July 2017 Duration:3 ft Ne oo
-
-No. of Pages: 02.
-RE - EXAMINATION
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use. :
-Note:
-
-1) Question No. 1is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) Inall5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Non-graphing scientific calculator can be used for numerical solving.
-
-7) Figures in brackets on the right hand side indicate full marks.
-
-8) Assume Suitable data if necessary,
-
-9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197,
-Ba=137, Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52,. Cs= 132.9, Cu=63.5,
-Fe=55.9, Fr=223, H=1, He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2,
-Ni=58.7, O=16, Os=190, P=31, S=32, Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2-
-
-Q1. Answer any four of the following:
-a. What is the equivalent of 0.730 atm pressure in mm of Hg? (3)
-
-b. Write a short note on the three types of systems. (3)
-c. What is the molarity (M) of a CaCl, solution in which 10g of CaCl, is dissolved in 400 (3)
-mL of the solution?
-
-d. Differentiate between BOD and COD. (3)
-e. Write a note about the chemical constitution of Portland cement. (3)
-f. Write a short note on the advantages of the Zeolite process. (3)
-
-Q2. a. Calculate the change in internal energy for a process in which the system liberates 700 (4)
-J of heat to the surroundings, while the surrounding does 300 J of work on the system.
-
-b. Discuss the hot lime-soda process with a suitable diagram. (4)
-c. Write a short note on the effect of acid rain on the living beings, plants, trees, soil, and (4)
-aquatic life.
-
-Yo_
---- page 2 ---
-Q3.
-
-Q4.
-
-Qs.
-
-Q6.
-
-Q7.
-
-Calculate the amount of heat (kJ) required to warm 0.6kg of water from 25°C to 81°C
-assuming the atmospheric pressure stays constant. (C, for H2O = 4.18 Jiget.K).
-Differentiate between industrial and photochemical smog-
-
-A 3.8L sample of a gas at a pressure of 900mm of Hg is to be expanded to a final
-pressure of 0.33 atm. What is its final volume of the gas in mL?
-
-Write a short note on the First law of thermodynamics, the mathematical equation
-representing it and the conventions for signs of heat and work under different
-conditions.
-
-A water sample has the following impurities per liter of the sample: MgCl, = 3.4 mg,
-CaSO, = 23.12 mg, MgSO, = 20.4 mg, NaCl = 20 mg, KCI = 20 mg, NaNO3 = 25 mg, KNO3
-= 25 mg, Ca(HCO3), = 13.77 mg, Mg(HCOs), = 12.75 mg. Calculate the amount of lime
-and soda required for the softening of 85000L of the water sample.
-
-Derive the expression for determining the pressure of a gas, knowing its density,
-molecular weight, and temperature.
-
-4
-3
-
-Discuss in detail Charle’s law as applied to gases showing a mathematical expression
-
-for the same-
-Write a short note on the advantages and disadvantages of the chlorination method of
-
-water disinfection-
-300 mL of a KOH solution of unknown concentration upon dilution to 1.5L gave a KOH
-solution having a concentration of 0.44M. Calculate the unknown concentration.
-
-Differentiate between the wet and dry process used for the mixing of raw materials in
-the manufacture of Portland cement-
-
-A Zeolite bed got exhausted after softening 10400 L of a hard water sample.
-Regeneration of the bed was done using 78L of a 10% brine solution. Calculate the
-hardness of the water sample in terms of ppm of the calcium carbonate equivalents.
-Differentiate between reversible and irreversible processes.
-
-A gas ina fixed-volume cylinder is at a pressure of 500 torr and a temperature of 4°C.
-What will be the final temperature (K) of the gas if the final pressure of the gas is 4000
-torr?
-
-Calculate the mass of sodium in Na2SO, that contains 4.12 x 10”? oxygen atoms.
-
-What is a refractory? Classify the three types of refractories with suitable examples of
-each type.
-
-Zh
-
-(4)
-(4)
-(4)
-(4)
-
-(4)
-
-(4)
-
-(4)
-(4)
-
-(4)
-
-(4)
-(4)
-
-(4)
-(4)
-
-(4)
-(4)
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 2120d78b7a0c
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/CHEMISTRY II/Chemistry II Batch 2014-15 Re Exam_2120d78b7a.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 2 July 2016
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS gsi TE BF ay
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & enguinma :
-
-“ni B
-L Programme:B. Tech Integrated (All Streams) Year: | R
-J Academic Year: 2015-2016
-Batch: 2014-2015
-Subject : Chemistry - II Marks:60 ,
-Time :10.00 am to 1.00 pm
-
-Date : 2 July 2016 Durations:3 (hrs)
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-Note:
-— so 1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) Inall 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Non-graphing scientific calculator can be used for numerical solving
-7) Figures in brackets on the right hand side indicate full marks.
-8) Assume Suitable data if necessary
-9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Br=80, C=12,
-Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, H=1, He=4, K=39, Kr=84,
-Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, S=32, Sc=44.9, Se=79,
-Si=28, Zn=65.4, Zr=91.2
-
-Qi. Answer any three of the following:
-
-a. A 8.5L sample of a gas is kept in a cylinder at 20°C and at a constant pressure. What (4)
-
-will be the final volume in mL if the gas is heated to a final temperature of 150 °C.
-~. b. Differentiate between industrial smog and photochemical smog. (4)
-
-c. Write a short note on properties and uses of dolomite bricks. (4)
-
-d. What is the molarity (M) of a MgBr2 solution in which 36g of MgBr is dissolved in (4)
-500 mL of the solution?
-
-e. Calculate the change in internal energy (AE) for a process in which the system gains (4)
-650 J of heat from the surroundings, while the system does 350 J of work on the
-surroundings.
-
-f. Discuss four differences between lime-soda process and zeolite process. (4)
-
-Q2. a. Calculate the mass of potassium (K) in K2CrO; that contains 4.12 x 10” oxygen (4)
-
-atoms.
-b. Discuss in detail the Charles law as applied to gases showing a mathematical (4)
-
-expression for the same.
-c. Explain the purification of water by reverse osmosis with a suitable diagram. (4)
-
-4/2
---- page 2 ---
-Q3.
-
-Q4.
-
-Q55.
-
-Q6.
-
-Q7.
-
-What is an exothermic reaction? Give an example, and draw the energy diagram for an
-exothermic reaction, label the different parts of the diagram.
-
-Differentiate between the wet and dry process used for the mixing of raw materials in
-the manufacture of Portland cement.
-
-An exhausted zeolite softener was regenerated by passing 150 litres of NaCl solution,
-having a strength of 150 g/L of NaCl. The water sample that was softened by zeolite
-contained the following constituents: Ca(HCOs)2 = 810 ppm, MgSO4 = 120 ppm. How
-many litres of the above water sample can be softened using this softener?
-
-Write all the reactions occurring in the clinkering zone.
-
-To 100 g of,CO gas with a volume of 2.5 L is added 25g CO? at a constant pressure
-and temperature. What is the final volume (mL) of the gas?
-
-What is the initial concentration of a 250 ml solution that has been diluted to give 2.0
-L of a 0.5 M aqueous solution?
-
-Write a short note on acid rain. Show the reactions involved.
-
-Calculate the amount of heat released when 100 g of propane gas i.e. C3Hs is
-decomposed (at constant pressure) in accordance with the following reaction:
-C3Hs + 502 —————>_ 4H20_ + 3CO2 AH = —2220.1 kJ/mol
-
-Explain how hardness causing salt is removed by Ion Exchange Process.
-
-Derive an expression that correlates the temperature, pressure, molecular weight, and
-the density of a gas.
-Given the following reactions
-
-N,(g)+0,(g) > 2NO(g) AH = +180.7 kJ
-2NO(g) + O,(g) > 2NO,(g) AH = -113.1 kJ
-Calculate the enthalpy change for the following reaction in kJ:
-4NO(g) > 2NO, (g) +N, (8)
-
-Explain measures which can be taken in controlling the problem of Greenhouse effect.
-
-Discuss in details Boyle's law as applied to gases showing a mathematical expression
-for the same.
-
-Write a short note on system and surroundings, and discuss the three types of systems.
-Calculate the quantity of lime required for softening 50,000 litres of water Containing
-the following salts per litre: Ca(HCOs)2 = 8.1 ppm; Mg(HCO3) = 7.5 ppm; CaSO, =
-13.6 ppm; MgSO, = 12 ppm; MgCl. = 2 ppm; NaCl = 4.7 ppm.
-
-2fp
-
-(4)
-(4)
-(4)
-
-(4)
-(4)
-
-(4)
-(4)
-4)
-(4)
-(4)
-(4)
-
-(4)
-(4)
-
-(4)
-(4)
-
-aan
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 75a5595ec857
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/CHEMISTRY II/Chemistry II Batch 2014-15 Re Exam_75a5595ec8.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 May 2016
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS {i =>
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &' diénconme ye
-
-mA
-Programme: B. Tech Integrated (All Streams) Year: I Semester: Tt Aé
-
-Academic Year: 2015-2016
-
-BATCH: 2014-2015 Marks: 60
-Subject : Chemistry - II Time : 10.00 am to 1.00 pm
-Date : 10 May 2016 Durations: 3 (hrs)
-
-Re -Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, whieh 3 is provided for their use.
-Note:
-on 1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-_4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-8) Atomic weights of elements in a.m.u: H= 1, C= 12, N= 14, O= 16, Na= 23, Mg= 24, S=
-32, C= 35.5, Ca= 40, Al= 24, Cu= 63. 5.
-
-Ql. Answer any four of the following:
-a. Write a short note about action of bleaching powder as a disinfectant. (3)
-b. Write a short note on silica bricks. (3)
-c. Calculate the change in internal energy for a process in which the system
-liberates 700 J of heat to the surroundings, while the surroundings do 300 J of (3)
-work on the system.
-d. How many moles of nitrate ions are in a mixture of 3 mol of calcium nitrate-
-
-Ca(NO3)2 and 2 mol of aluminium nitrate- Al(NO3)3? (3)
-e. Write a short note on Greenhouse effect. (3)
-f. The pressure reading in a barometer is 742 mm Hg. ree this reading in
-kilopascals, KPa. (3)
-=e Q2. a. Calculate the amount of lime and soda required for softening 40,000 litres of
-water containing the concentration of following salts: Ca(HCO3)2 = 8.1 ppm,
-pes Mg(HCOs3)2 = 7.5 ppm, CaSO4 = 13.6 ppm, MgSO4 = 12 ppm, MgCl, = 2 ppm, (4)
-! NaCl = 4.7 ppm.
-b. Write a note about the chemical constitution of Portland Cement. (4)
-
-c. Write a short note about First law of thermodynamics, the mathematical
-equation representing it and the conventions for signs of heat and work. : (4)
---- page 2 ---
-Q3.
-
-Q4.
-
-Q5.
-
-Q6.
-
-Q7.
-
-What would be the weight of 3 x 107° atoms of cupric sulphate pentahydrate
-
-(CuSO4.5H20)?
-Write a short note on acid rain.
-Discuss in detail Charle’s law as applied to gases.
-
-Write 5 differences between Hot Lime Soda and Cold Lime Soda process.
-Calculate the amount of heat energy (KJ) required to heat 0.8 Kg of water from
-27 °C to 65 °C at constant pressure. (C; for H20 = 4.18 Jg!K")
-
-Write a short note on BOD and COD.
-
-Write a note on dolomite bricks.
-
-What is the molarity of a CaCl solution in which 72 g of CaCl is dissolved. in
-400 ml of water? How will you dilute the concentration of this solution to 0.3
-M?
-
-5 litres of Nitrogen measured at 750 mm have to be compressed into an iron
-
-cylinder of | litre capacity. If temperature is kept constant, calculate the pressure
-in atmospheres required to do so.
-
-An exhausted zeolite softener was regenerated by passing 200 L of NaCl
-solution, having strength of 150 g/L of NaCl. How many litres of hard water
-having the concentration of following substances: Ca(HCOs3)2 = 300 ppm, CaCl
-= 300 ppm, MgSO« = 200 ppm can be softened using this softener?
-
-Define exothermic and endothermic reaction with one example of each. Draw
-the enthalpy diagram of each of the reaction with proper labeling.
-
-Write a note on Avogadro's law and ideal gas equation.
-
-What volume will be occupied by a sample of a gas at 87 °C and 720 mm
-pressure if its volume at 27 °C and 750 mm pressure was 250 ml?
-Explain the Ion Exchange process with suitable diagram.
-Calculate AH for the reaction
-N20 (g) + NO2(g) ———> __ 3NO(g)
-given the following information:
-No(s) +O2(g) ———>   2NO(g) AH = 180.7 KJ
-2NO(g) + O2(g) ——> 2NOr(g) AH = - 113.1 KJ
-2 N20 (g) ——> 2N2(g)+O2(g) AH=- 163.2 KI
-
-(4)
-(4)
-(4)
-(4)
-(4)
-(4)
-(4)
-
-(4)
-
-(4)
-
-(4)
-
 (4)
 (4)
 

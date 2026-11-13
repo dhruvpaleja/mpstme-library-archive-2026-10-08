@@ -1,8 +1,63 @@
 # Enterprise Planning System: question papers in full
 
-14 unique papers · 2008-09 to 2014-15 · Chemical, Information Technology, Manufacturing, Common (all branches)
+14 unique papers · 2008-09 to 2015-16 · Chemical, Information Technology, Manufacturing, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2015-16 · Re-Exam · paper efe15c92506e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/ENTRTPRISE PLANNING SYSTEMS/Enterprise Planning System Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 30/11/2015
+- Text: ocr (1 page), mean OCR confidence 91.6
+
+````text
+SVKM’s NMIMS
+~w,, MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year:IV Semester: VII
+
+Academic Year: 2015 - 16
+
+Batch:2014-15
+Subject : Enterprise Planning System %
+N
+par 34:09 pm’
+
+Date :30/11/2015 ‘Z(hrs} aARY Ja
+») a
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+
+Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+~3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+
+Q.1. Write a note on ERP evolution.
+
+Q.2. How should organizations approach the change management strategy to manage their different
+resources through an effective project implementation team.
+Q.3.ERP takes process view of the organization. Explain significance of BPR in the context of ERP
+
+implementation.
+Q.4.‘Data warehouse provides an organization with memory, whereas, data mining makes it intelligent.’
+Describe the statement by explaining the role of both in a business enterprise.
+
+Q.5. Discuss the role of CRM in improving the company’s strategic competitive advantage.
+
+Q.6. Discuss FICO Module of standard ERP application.
+````
 
 ## 2014-15 · Final-Exam · paper 23ae452aabff
 
@@ -58,61 +113,6 @@ industry.
 
 Q.6. ‘Data warehouse provides an organization with memory, whereas, data mining makes it intelligent.’
 Describe the statement by explaining the role of both in a business enterprise.
-````
-
-## 2014-15 · Re-Exam · paper efe15c92506e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/ENTRTPRISE PLANNING SYSTEMS/Enterprise Planning System Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 30/11/2015
-- Text: ocr (1 page), mean OCR confidence 91.6
-
-````text
-SVKM’s NMIMS
-~w,, MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year:IV Semester: VII
-
-Academic Year: 2015 - 16
-
-Batch:2014-15
-Subject : Enterprise Planning System %
-N
-par 34:09 pm’
-
-Date :30/11/2015 ‘Z(hrs} aARY Ja
-») a
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-
-Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-~3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-
-Q.1. Write a note on ERP evolution.
-
-Q.2. How should organizations approach the change management strategy to manage their different
-resources through an effective project implementation team.
-Q.3.ERP takes process view of the organization. Explain significance of BPR in the context of ERP
-
-implementation.
-Q.4.‘Data warehouse provides an organization with memory, whereas, data mining makes it intelligent.’
-Describe the statement by explaining the role of both in a business enterprise.
-
-Q.5. Discuss the role of CRM in improving the company’s strategic competitive advantage.
-
-Q.6. Discuss FICO Module of standard ERP application.
 ````
 
 ## 2014-15 · Re-Exam · paper 16aa857c54e5
@@ -330,6 +330,38 @@ b) Supply Chain Management
 c) Data Ware housing and Data Mining
 ````
 
+## 2012-13 · Re-Exam · Trim 12 · paper 45a24679123c
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Enterprise planning system/ENTERPRISE PLANNING SYSTEMS BATCH 2011-12 RE EXAM(1).pdf` (+5 identical copies)
+- Printed on paper: exam date: 4/5/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technolorn
+Programme: MBA (Tech)ALL STREAMS   Year: IV
+1   Academic Year :2012-2013
+I   Batch:   2011-2012
+Subject:   ENTERPRISE PLANNING SYSTEM   Marks:
+Time:
+Date:   4/5/2013
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+1. Attempt any 5 questions from the following.
+Q.1. Explain "Business blueprinting " in detail   (1 0)
+Q.2. What are emerging trends in ERP as an impact of recession and new technologies:   (1 0)
+Q.3. Change Management is crticial issue in ERP. Justify   (1 0)
+Q.4. ~ k ~ l a the i n modules of Finance and Controlling ( FICO) relating to organsiational functions   (1 0)
+Q.5. Explain the process of integration of datawarehousing and operational DB with OIAP. What are the
+types of OLAP queries and their aid to business   (1 0)
+Q.6. Explain pre-implementation activities for ERP in detail.
+fl
+````
+
 ## 2012-13 · Re-Exam · Trim 12 · paper aafeed9dd175
 
 - Departments: Chemical, Information Technology, Manufacturing
@@ -465,113 +497,6 @@ Q6B. Discuss the role of consultants in an ERP implementation [05 Marks]
 a
 ````
 
-## 2011 · Exam not stated · Trim 12 · paper 249783c1a4b9
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Enterprise planning system/ENTERPRISE PLANNING SYSTEMS 2011.pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 27/04/2011
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-x : em
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
-Academic Year : 2010-2011
-
-Subject: Enterprise Planning System Marks: 50
-Time: 2.00 pm To 4.00 pm
-Date: 27/04/2011 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB (2):
-1. Question No 1 is Compulsory.
-«+ --2,--Outof the remaining questions,attempt any4 questions.
-3. In all 5 questions to be attempted.
-4. Figure in brackets on the right hand side indicate full marks.
-5. Make suitable assumptions wherever necessary and mention them clearly.
-
-6. Answer to each new question to be started on a fresh page
-Q1) Read the following case let and answer the question mentioned below
-
-Mani Group is one of the largest construction companies in eastern part of India. Headquartered
-in Kolkata, the company started operations in 1981. It has successfully implemented several
-residential and commercial real estate projects in India and Dubai.
-
-One of the biggest challenges it faced was in estimating cost of construction, which in turn helps
-to contain overheads and expenses. Since the projects are usually spread over many years,
-aligning the projected cost with the actual cost becomes difficult.
-
-At any given time, there would be at least 60-70 construction projects running concurrently. The
-departments were maintaining the data in different files, using Excel charts. The accounts
-department was maintaining a separate software package, but materials and purchase was not
-linked to this. Moreover, much of this data was lying in site offices, which was not connected to
-the head office in Kolkata. ;
-
-Q1) As an ERP consultant, address how the current problems could be suitably addressed using
-an ERP and which modules do you are of utmost importance for this organization and why.
-{ 10 Marks]
-
-Q2). Explain the risks associated with an ERP project at the feasibility stage of the project giving
-a suitable example. [ 10 Marks]
-
-Io.
---- page 2 ---
-Q3) Explain how ERP enforces “business processes best practices” in organizations giving
-suitable examples. [ 10 Marks]
-
-Q4) Examine the overall competitive position of ERP vendors - SAP and Oracle in the coming 3
-years. (2011 — 2014) [10 Marks]
-
-Q5) Explain how Supply Chain Management solutions overcome some of the limitations of an
-ERP, giving a suitable example. { 10 Marks]
-
-Q6) Explain the functionality of the Financial and Costing (FICO) module in an ERP system and
-how it streamlines the working of the respective departments. [ 10 Marks]
-
-XXXXXXXXMK
-
-A
-````
-
-## 2011-12 · Re-Exam · Trim 12 · paper 45a24679123c
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Enterprise planning system/ENTERPRISE PLANNING SYSTEMS BATCH 2011-12 RE EXAM(1).pdf` (+5 identical copies)
-- Printed on paper: exam date: 4/5/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technolorn
-Programme: MBA (Tech)ALL STREAMS   Year: IV
-1   Academic Year :2012-2013
-I   Batch:   2011-2012
-Subject:   ENTERPRISE PLANNING SYSTEM   Marks:
-Time:
-Date:   4/5/2013
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-1. Attempt any 5 questions from the following.
-Q.1. Explain "Business blueprinting " in detail   (1 0)
-Q.2. What are emerging trends in ERP as an impact of recession and new technologies:   (1 0)
-Q.3. Change Management is crticial issue in ERP. Justify   (1 0)
-Q.4. ~ k ~ l a the i n modules of Finance and Controlling ( FICO) relating to organsiational functions   (1 0)
-Q.5. Explain the process of integration of datawarehousing and operational DB with OIAP. What are the
-types of OLAP queries and their aid to business   (1 0)
-Q.6. Explain pre-implementation activities for ERP in detail.
-fl
-````
-
 ## 2011-12 · Re-Exam · Trim 12 · paper b27a4bf3220c
 
 - Departments: Chemical, Information Technology, Manufacturing
@@ -698,6 +623,81 @@ Q6B. Define
 tory Management Plan
 
 ‘Cloud Computing’ and state its benefits. [05 Marks]
+````
+
+## 2010-11 · Exam not stated · Trim 12 · paper 249783c1a4b9
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Enterprise planning system/ENTERPRISE PLANNING SYSTEMS 2011.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 27/04/2011
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+x : em
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
+Academic Year : 2010-2011
+
+Subject: Enterprise Planning System Marks: 50
+Time: 2.00 pm To 4.00 pm
+Date: 27/04/2011 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB (2):
+1. Question No 1 is Compulsory.
+«+ --2,--Outof the remaining questions,attempt any4 questions.
+3. In all 5 questions to be attempted.
+4. Figure in brackets on the right hand side indicate full marks.
+5. Make suitable assumptions wherever necessary and mention them clearly.
+
+6. Answer to each new question to be started on a fresh page
+Q1) Read the following case let and answer the question mentioned below
+
+Mani Group is one of the largest construction companies in eastern part of India. Headquartered
+in Kolkata, the company started operations in 1981. It has successfully implemented several
+residential and commercial real estate projects in India and Dubai.
+
+One of the biggest challenges it faced was in estimating cost of construction, which in turn helps
+to contain overheads and expenses. Since the projects are usually spread over many years,
+aligning the projected cost with the actual cost becomes difficult.
+
+At any given time, there would be at least 60-70 construction projects running concurrently. The
+departments were maintaining the data in different files, using Excel charts. The accounts
+department was maintaining a separate software package, but materials and purchase was not
+linked to this. Moreover, much of this data was lying in site offices, which was not connected to
+the head office in Kolkata. ;
+
+Q1) As an ERP consultant, address how the current problems could be suitably addressed using
+an ERP and which modules do you are of utmost importance for this organization and why.
+{ 10 Marks]
+
+Q2). Explain the risks associated with an ERP project at the feasibility stage of the project giving
+a suitable example. [ 10 Marks]
+
+Io.
+--- page 2 ---
+Q3) Explain how ERP enforces “business processes best practices” in organizations giving
+suitable examples. [ 10 Marks]
+
+Q4) Examine the overall competitive position of ERP vendors - SAP and Oracle in the coming 3
+years. (2011 — 2014) [10 Marks]
+
+Q5) Explain how Supply Chain Management solutions overcome some of the limitations of an
+ERP, giving a suitable example. { 10 Marks]
+
+Q6) Explain the functionality of the Financial and Costing (FICO) module in an ERP system and
+how it streamlines the working of the respective departments. [ 10 Marks]
+
+XXXXXXXXMK
+
+A
 ````
 
 ## 2009-10 · Exam not stated · Trim 12 · paper f39c4897e17a

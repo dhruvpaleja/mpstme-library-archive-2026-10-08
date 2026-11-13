@@ -4,6 +4,213 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2022-23 · Exam not stated · Sem 6 · paper d5a76dc27562
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Design of Machine Elements II/Design of Machine Elements.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 93.0
+
+````text
+SVKM’S NMIMS ‘
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech. Stream : Mechanical / Year: II Semester: VI
+Subject: Design of Machine Elements . Time: 3 hrs (2 pm to 5 pm )
+Date:_2#/06/2023 No. of Pages: 05
+
+Marks: 100
+
+‘Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Use of design data book is allowed.
+8) Assume Suitable data if necessary.
+1
+Q Attempt the following. [20]
+a. Summarize the statement “the presence of Stress concentration cannot be totally
+CO- 1; SO-1; [05]
+BL-2 eliminated but it may be reduced to same extent”?
+wie SO-1; | b. Compare welding joint with riveted joint? [05]
+a c. “It may be noted that when the springs are subjected to static loads, the effect of
+ieee SO-2; wire curvature may be neglected, because yielding of the material” Justify the [05]
+statement?
+d. What is ‘self-locking’ and ‘overhauling’ in the power screw?
+CO-2; SO-1; [05]
+BL-1
+The manufacturer wants to design a joint for to connect a tractor with trolley. The [20]
+Q2 load acting on the joint is tensile in nature and of 80 Kn. The manufacturer
+CO-3; SO- suggested that the material for this joint is carbon steel of grade 30C8 (Sy: = 450
+ce N/mm”). The roads are connected co-axially and small amount of angular moment
+
+between them is permissible. To account for this effect, a higher factor of safety 4
+--- page 2 ---
+is assumed in the present design. Select the suitable joint for the given condition
+
+and design?
+
+The layout of a shaft carrying two pulleys 1 and 2, and supported on two bearings [20]
+A and B is shown in fig. 1. The shaft transmits 7.5 kW power at 360 rpm from
+pulley 1 to the pulley 2. The diameters of pulley 1 and 2 are 250 mm and 500 mm
+respectively. The masses of the pulleys | and 2 are 10 kg and 30 kg respectively.
+The belt tensions act vertically downwards and the ratio of belt tensions on tight
+side to slack side for each pulley is 2.5:1. The shaft is made of plain carbon steel
+40C8 (Sy: = 380 N/mm”) and the factor of safety is 3. Estimate a suitable diameter
+of shaft. If permissible angle of twist is 0.5° per meter length, calculate the shaft
+
+diameter on the basis of torsional rigidity. Assume G = 79300 N/mm’.
+
+a
+
+Q3
+CO-3; SO-7; .
+BL-5 250 500 250
+i vs —
+1 A B
+2
+Py Py P2 P3
+Figure No. 1
+All dimension in mm
+a. A screw clamp used on the shop floor is shown in fig. 2. The screw has single start | [10]
+square threads of 22mm nominal diameter and 5mm pitch. The coefficient of
+friction at the threads and the collar is 0.15. The mean radius of the friction collar ey
+Q4 is 15 mm. The capacity of the clamp is 750 N. The handle is made of steel 30C8
+me oes (Sy:= 400 N/mm’). It can be assumed that the operator exerts a force of 20 N on
+
+the handle. Evaluate for (i) What torque is required to tighten the clamp to full
+capacity? (ii) Determine the length and the diameter of the handle, such that it will
+
+bend with a permanent set, when the rated capacity of the clamp is exceeded.
+--- page 3 ---
+al
+
+Figure No. 2
+
+The lead screw of a lathe has single-start ISO metric trapezoidal threads of 52 mm
+nominal diameter and 8 mm pitch. The screw is required to exert an axial force of
+2 kN in order to drive the tool carriage during turning operation. The thrust carried
+on a collar of 100 mm outer diameter and 60 mm inner diameter. The values of
+coefficient of friction at the screw thread and collar are 0.15 and 0.12 respectively.
+The lead screw rotates at 30 rpm. Design for the power required to drive the lead
+
+screw and efficiency of the screw.
+
+[10]
+
+CO-3; SO-
+2373
+BL-6
+
+A welded connection, as shown in fig. 3 is subjected to an eccentric force of 7.5
+KN. Design for the size of the weld if permissible shear stress for the weld is 100
+N/mm?. [J =t*1(3b?+1)/6]
+
+Figure No. 3
+Alldimension in mm
+
+[10]
+
+Design a cast iron protective type flange coupling to transmit 20 kW at 1000 r.p.m.
+from an electric motor to a compressor. The service factor may be assumed as 1.35.
+The following permissible stresses may be used: (Take D=2d; L=1.5d; D; =3d and
+t=0.5d)
+
+[10]
+--- page 4 ---
+Shear stress for shaft, bolt and key material = 70 N/mm?
+Crushing stress for bolt and key = 120 N/mm?
+Shear stress for cast iron = 12 N/mm?
+
+Assume number of bolts = 3
+
+Q6
+
+CO-3; SO-2;
+BL-6
+
+A helical compression spring made of a circular wire, is subjected to an axial force,
+which varies from 2.5 KN to 3.5 KN. Over this range of force, the deflection of
+spring should be approximately 5 mm. The spring index can be taken as 5. The
+spring has square and ground ends. The spring is made of cold-drawn steel wire
+with ultimate tensile strength of 1050 N/mm? and modules of rigidity 81370
+N/mm”. The permissible shear stress for the spring wire should be taken as 50% of
+
+ultimate tensile strength. Design the spring.
+
+[10]
+
+Design a valve spring of a petrol engine for the following operating conditions:
+Spring load when the valve is open = 400 N; Spring load when the valve is closed
+= 250 N; Maximum inside diameter of the spring = 25 mm; Length of the spring
+when the valve is open = 40 mm; Length of the spring when the valve is closed =
+50 mm; Maximum permissible shear stress = 400 N/mm’; modules of rigidity =80
+
+kN/mm?.
+
+[10]
+
++Q7
+CO-3; SO-2;
+BL-6
+
+A bracket is supported by means of 4 rivets of same size, as shown in figure
+4. Determine the diameter of the rivet if the maximum shear stress is 140
+
+N/mm’.
+20 KN
+
+30 “Ty |
+
+Figure No. 4
+All dimension in mm
+
+[10]
+
+A lever loaded safety valve is 70 mm in diameter and is to be designed for
+
+a boiler to blow-off at pressure of 1 N/mm? gauge. Design a suitable mild
+
+[10]
+--- page 5 ---
+steel lever of rectangular cross-section using the following permissible
+stresses: Tensile stress = 70 N/mm?; Shear stress = 50 N/mm?; Bearing
+pressure intensity = 25 N/mm”. (Assume b=4t; Ip=1.25dp)
+
+The pin is also made of mild steel. The distance from the fulcrum to the
+weight of the lever is 880 mm and the distance between the fulcrum and pin
+
+connecting the valve spindle links to the lever is 80 mm.
+
+Shajt diameter Key cross-section Shajt diameter Key cross-section
+(inm) upto and (nm) upto and
+including Width (mm) | Thickness (nnn) ineluding Width (mm) | Thickness (mn)
+
+6 2 2 85 29 14
+8 3 3 95 28 16
+10 4 4 110 32 18
+ae 5 3 130 36 20
+17 6 6 150 40 22
+22 8 7 170 45 25
+30 10 8 200 50 28
+38 12 8 230 56 32
+44 14 9 260 63 32
+50 16 10 290 70 36
+58 18 il 330 80 40
+65 20 12 380 90 45
+
+1D 22 14 440 100 50
+````
+
 ## 2022-23 · Final-Exam · Sem 7 · paper 92d484c5cde2
 
 - Departments: Mechanical
@@ -241,6 +448,7 @@ Vd
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/Design of Machine Elements-II, Sem-VI, Year 2022-23, Batch 2021-22, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 83.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -419,7 +627,6 @@ d’ = pitch circle diameter (mm)
 
 Principle dimensions Basic Load
 (mm) Rating (N) Designation Table Tolerances on the adjacent pitch
-d D B Cc Co - _ -
 75 | 95 10 | 12500] 9800 61815 — od ied
 115 13 | 28600 | 20000 10615 ‘ 0.80 + 0.06 ¢
 115 20 | 39700 | 26000 6015 ; pelea ‘
@@ -455,6 +662,7 @@ Table: Dimensionless Performance parameters for the full journal bearing with si
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MECHANICAL/VII SEMESTER/DESIGN OF MACHINE ELEMENTS-II/Design of Machine elements-II ,Re-exam 2022-23.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 February 2023
 - Text: ocr (4 pages), mean OCR confidence 83.6
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ;
@@ -607,7 +815,6 @@ P. Ye
 / LO Pi
 : aE ‘Pro .
 . p 6
-160 mm Go 150 mm 150 mm : P,
 
 !
 
@@ -658,7 +865,6 @@ Table Valtres of the Lewis fori factor Y for 20°
 full-depth involute systent
 
 = x : ¥ si Y Table X aud ¥ factors for single-row deep
-15 0289 27 GMS 55 © O45 groave bail bearings?
 16 0.295 «280382 60.21 '
 17 0302-29 0355650428 [z \ (2} . (2 .
 Men fehe, ae re
@@ -679,7 +885,6 @@ $= tolerance factor
 
 Principle dimensions Basic Load w= module (mm)
 (mm) Rating (N) Designation d’ = pitch cirele diameter (mm)
-d D B Cc Co . ; ;
 17 26 5 1680 930 61803 Table Tolerances on the adjacent pitch
 35 10 | 6050 2800 6003 Grady ¢ (microns)
 40 12| 9560} 4500 6202 1 0.80 + 0.06
@@ -710,6 +915,251 @@ Table: Dimensionless Performance parameters for the full journal bearing with si
 4)
 ````
 
+## 2021-22 · Final-Exam · Sem 6 · paper 4300a847cce0
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/B Tech, Mechanical, Design of Machine Elemetns-II, 3rd Year, Sem-VI, Final Exam, _f2eb51af.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 April 2022
+- Text: ocr (5 pages), mean OCR confidence 87.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+Jo fe N
+SVKM’s NMIMS : :
+*   MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+WU
+
+| : Academic Year: 2021-22
+
+Programme: B.Tech (Mechanical) Year: II] © Semester: VI
+Subject: Design of Machine Elements - II
+
+Marks: 100
+Date: 08 April 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+
+No. of Pages: _@S
+Final Examination
+
+}
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+A of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of the remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume suitable data if necessary.
+8) Use of design data book is permitted.
+Qi . . [20]
+Answer the following questions:
+CO-1; a. | Define beam strength of gear and derive expression of beam strength of spur gear. [05]
+SO-1;
+BL-2
+CO-1; b. | State the various types of failures experienced in bevel gears. Enlist remedies to avoid [05]
+SO-1; these failures.
+BL-1
+CO-2; c. | Citing an example, elaborate upon the bearing designation used for rolling contact [05]
+SO-1; bearing.
+BL-2
+CO-2; d. | Discuss the mechanism of pressure development within the oil film of hydrodynamic [05]
+SO-1; journal bearings.
+BL-2
+|
+Q2 a. | A helical pinion having 14 teeth is to mesh with a helical gear. Both of them | [14]
+= CO-1/23 are made of alloy steel (Su= 800 MPa). The gear pair is required to transmit
+) me 30 kW power from an electric motor running at 720 rpm to a.machine running
+
+1/5
+--- page 2 ---
+at 225 rpm. The service factor and required factor of safety are 1.3 and 1.4
+respectively. The face width is ten times the normal module and the tooth
+system is a 20-degree full depth involute system. The helix angle is 25 degrees.
+Design the gear pair by considering that the velocity factor accounts for the
+dynamic load (Take v=3 m/s at the initial stage). Also, specify the factor of
+safety against bending considering that the dynamic load (Pa) is equal to
+
+9007.36 N. For velocity factor use, Cy= 5.6/(5.6+V°°).
+
+Q2 B. Derive an expression for the efficiency of worm gear drive. [06]
+CO-1/2;
+SO-1;
+BL-3
+Q3 a. | A pair of straight bevel gears are used to transmit motion between shafts that
+CO-1/2; are at right angles. The number of teeth on the pinion is 21 and the gear has 28.
+Ss The pressure angle is 20°. The pinion shaft is connected to an electric motor
+developing 5000 W rated power at 1440 rpm. The service factor is 1.5. The, 14]
+pinion and the gear are made of steel (Su= 750 N/mm”) and heat-treated to a
+surface hardness of 380 BHN. The dynamic load (Pa) due to machining error
+is 2166.84 N. The module and face widths are 4 mm and 20 mm respectively.
+Determine the factor of safety against bending as well as against pitting failure.
+Q3 b. | Elucidate upon the various lubrication methods used for gears. [06]
+CO-1/2;
+SO-1;
+BL-3
+Q4 a. | A single row deep groove ball bearing is to be selected for a shaft having a50| [14]
+CO-2/3; mm diameter. The radial force acting on the bearing is 1923.28 N while the
+ar thrust load is 625.53 N. The load factor is 1.8 and the expected rating life of
+the bearing is 25000 hours. The shaft is running at 288 rpm. Start the trial with
+a 6010 bearing.
+2/5
+--- page 3 ---
+* Principal Basie loael
+
+dimensions (oun) ratings (N) Designation
+d D B c Ci
+50 65 7 6240 4250 61810
+
+so 10 16360 10000 16010
+80 16 21600 13260 6010
+90 20 35100 19600 6210
+10 0 27 61800 36000 6310
+13000 3] 87106 52000 6410
+
+fa < Fi &
+F, =e F, e e
+
+(2)
+
+Xx Y x ¥Y
+
+0.025 1 0 0.56 2.0 0.22
+
+0.040 1 0 0.56 1s 24
+
+0.070 1 0 0.56 1.6 0.27
+
+0.130 i 0 0.56 14 031
+
+0.250 1 0 0.56 1.2 0.37
+
+0.500 i 0 0.56 1.0 0.44
+Q4 b. | Illustrate the significance of the following variables with respect to |» [06]
+CO-2/3; hydrodynamic bearings:
+de (i) Wd ratio.
+
+(ii) Unit bearing pressure.
+
+(iii) Radial clearance.
+Q5 a. | The following data relates to a full hydrodynamic bearing:
+CO-2/3; e radial load = 10 kN
+SO-2; .
+BL-4 e journal speed = 1440 rpm
+
+e unit bearing pressure = 1000 kPa
+e clearance ratio (r/c) = 800
+[14]
+e viscosity of lubricant = 30 mPa s
+Assuming I/d= | and that the total heat generated in the bearing is carried by
+the total oil flow in the bearing, calculate:
+
+(i) dimensions of bearing;
+
+(ii) coefficient of friction;
+
+3/5
+--- page 4 ---
+(iii) power lost in friction;
+(iv) total flow of oil and
+
+(v) side leakage
+
+Q5 b. | Illustrate using an example, the procedure for determination of bearing life | [06]
+CO-2/3; when it is subjected to cyclic load.
+
+SO-2;
+
+BL-3
+
+Q6 ~ Answer the following questions: [20]
+
+CO-1/2; a. | Describe how gears are selected based on shaft layout, load, velocity and | [05]
+
+SO-1; velocity ratios.
+
+BL-2
+CO-1; b. | In the worm drive, which component governs the design? Elaborate upon the | [05]
+oe reasons.
+
+CO-2/3; c. | Explain the load-life relationship for rolling contact bearings and define the | [05]
+SO-1;
+BL-2
+CO-2/3; d. | Discuss the different modes of lubrication in the context of sliding contact) [05]
+SO-1;
+BL-2
+
+dynamic load-carrying capacity of a bearing.
+
+bearings.
+
+Lewis for factor for different-values of z at 20° pressure angle.
+
+
+15 0.289 27 0.348 55 0.415
+16 0.295 28 0.352 60 0.421
+17 0.302 29 0.355 65 0.425
+18 0.308 30 0.358 70 0.429
+19 0.314 32 0.364 75 0.433
+20 0.320 33 0.367 80 0.436
+21 0.326 35 0.373 90 0.442
+22 0.330 37 0.380 100 0.446
+23 0.333 39 0.386 150 0.458
+24 0.337 40 0.389 200 0.463
+25 0.340 45 0.399 3 0471
+26 0.344 30 0.408 Rack 0.484
+
+4/5
+--- page 5 ---
+Dimensionless performance parameters for full journal bearing with side flow
+
+a. 8: - &§ HOE
+<7) £, rend ; Q Press.
+oo 0 1.0 oo (70.92) 0 x 0 -
+0.1 09 0.240 69.10 4.80 3.03 0 0.826
+0.2 . 0.8 0.123 67.26 2.57 2.83 0 0.814
+o4 0.6 0.0626 61.94 1.52 2.26 0 0.764
+06 0.4 0.0389 $4.31 1.20 1.56 0 0.667
+O8 0.2 0.021 42.22 0.961 0.760 0 0.495
+- 09 oA 0.0115 31.62 0.756 6411 0 0.358
+0.97 0.03 ~ - oa ~ 0 ~
+1.0 0 it 0 0 0 0 0
+1 0 1.0 0 (85) o x 0 =
+0.1 0.9 1.33 798 26.4 3.37 0.150 0.540
+0.2 0.8 0.631 74.02 12.8 3.59 0.280 0.529
+0.4 0.6 0.264 63.10 5.79 3.99 0.497 0.484
+0.6 04 0.121 50.58 3.22 4.33 0.680 0415
+08 2. 0.0446 36.24 1.70 4.62 0.842 0.313
+0.9 0.1 0.0188 26.45 1.05 4.74 0.919 0.247
+0.97 0.03 0.00474 15.47 0514 4.82 0.973 0.152
+1.0 0 0 0 Qo 0 1.0 0
+(3) 0 1.0 ee (88.5) os a 0 ~
+6.1 09 431 81.62 85.6 3.43 0.173 0.523
+02 0.8 2.03 74.94 40.9 3.72 0.318 0.506
+04 0.6 0.779 6145 17.0 4.29 0.552 0.441
+0.6 04 0.319 48.14 8.10 4.85 0.730 0.365
+0.8 0.2 0.0923 33.31 3.26 S41 0.874 0.267
+09 Ol 0.0313 23.66 1.60 5.69 0.939 0.206
+0.97 0.03 0.00609 13.75 0.610 5.88 0.980 0.126
+1.0 0 0 0 ie) ~ 1.0 0
+(4) 0 1.0 en (89.5) oy n 0 -
+4
+0.1 09 16.2 82.31 322.0 3.45 0.180 0.515
+0.2 O08 757 FS AB 153.0 3.76 0.330 0.489
+O4 0.6 2.83 60.86 61.1 4.37 0.567 0.415
+0.6 04 1.07 46.72 26.7 4.99 0.746 0.334
+0.8 0.2 0.261 31.04 8.8 $.60 0.884 0.240
+09 0.1 0.0736 21.85 3.50 5.91 0.945 0.180
+0.97 0.03 0.0101 12.22 0.922 6.12 0.984 0.108
+1.0 0 0 0 0 _ 1.0 0
+
+5/5
+````
+
 ## 2021-22 · Re-Exam · Sem 6 · paper e92dfb0fcc5d
 
 - Departments: Mechanical
@@ -717,6 +1167,7 @@ Table: Dimensionless Performance parameters for the full journal bearing with si
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/Design of Machine Elements-II, Sem-VI, Re-Exam, Year 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 June 2022
 - Text: ocr (5 pages), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ‘ SVKM’s NMIMS
@@ -874,7 +1325,6 @@ BL-2
 Dimensionless performance parameters for full journal bearing with side flow
 
 (2) he | r fo\ (2a) (—L.)
-a) - (4) os o (Ey lai) (8) Go
 - 0 10 (70.92) o x 0 *
 0.1 09 0.240 69.10 4.80 3.03 0 0.826
 02 08 0.123 67.26 2.57 2.83 0 0.814
@@ -923,6 +1373,7 @@ _— 0.97 0.03 0.0101 12.22 0.922 6.12 0.984 0.108
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/Design of Machine elements -II Final 18-19,Re-exam 17-18.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 16 April 2019
 - Text: ocr (3 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ‘ , SVKM’S NMIMS
@@ -1049,7 +1500,6 @@ Static load capacity = 4000 N Dynamic load capacity = 8000.
 The following table is also provided.
 
 Fa Fa Fa
-Co Fe se F ze e
 Xx Y Xx Y
 0.25 1 (e) 0.56 1.2 0.37
 0.50 1 (e) 0.56 1.0 0.44 ..
@@ -1196,6 +1646,183 @@ c) Explain lubrication of Rolling Contact Bearing.
 3/3
 
 10
+````
+
+## 2018-19 · Re-Exam · Sem 6 · paper bf44b78fc3a9
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/Design of machine elements-II ....Re-exam 2017-18-19.pdf` (+1 identical copies)
+- Printed on paper: exam date: 14 June 2019
+- Text: ocr (3 pages), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SO , SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech. / B.Tech (MECHANICAL)
+Academic Year: 2018-19
+
+Subject: Design of Machine Elements-II
+Date: 14 June 2019
+
+Duration: 3 :
+No. of Pages:_ 3
+Re- Examination (2017-18/2018- 19) ee
+
+ee Fa TT) 7 —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+8) Use of Design Data Book is permitted. -:
+
+Ql. A. Answer ANY TWO of the following.
+
+(a) Describe different types of wear leading to gear tooth failure. (4)
+(b) Derive the expression for the virtual number of teeth of bevel gear. (4)
+(c) Discuss the desired properties of a lubricating oil used in bearings. (4)
+B. Answer ANY TWO of the following.
+(a) Describe briefly the materials used for worm and worm wheel. (3)
+(b) — Distinguish between rolling contact and sliding contact bearings (3)
+(c) What do you understand by design for manufacturing? (3)
+Q.2. A pair of spur gears with 20° full-depth involute teeth consists of a 20 teeth (14)
+
+pinion meshing with a 41 teeth gear. The module is 3 mm while the face
+width is 40 mm. The material for pinion as well as gear is steel with an
+ultimate tensile strength of 600 N/mm?. The gears are heat treated to a
+surface hardness of 400 BHN. The pinion rotates at 1450 rpm and the service
+factor for the application is 1.75. Assume that velocity factor accounts for
+the dynamic load and the factor of safety is 1.5. Determine the rated power
+that the gears can transmit.
+
+1/3
+--- page 2 ---
+Q.3. OA pair of straight bevel gears, mounted on shafts which are intersecting at (14)
+right angles, consists of a 24 teeth pinion meshing with a 32 teeth gear. The
+pinion shaft is connected to an electric motor developing 12.5 kW rated
+power at 1440 rpm. The starting torque of the motor is 150 % of the rated
+torque. Both gears are made of case hardened steel (Su: = 750 N/mm’). The
+pressure angle is 20° and factor of safety is assumed to be 2. Assume
+
+5.6
+velocity factor-for th ted gear teeth: Cv=———=.
+city factor for the generated gear 5.6tV0
+
+i. Calculate the main dimensions of the gears on the basis of beam
+strength. Assume that velocity factor accounts for the dynamic load
+and the pitch line velocity is 7.5 m/s.
+
+ii. Determine the correct factor of safety for bending.
+
+Q.4. (a) A transmission shaft rotating at 720 rpm and transmitting power from the (8)
+
+pulley P to the spur gear G is shown in Fig. 15.8(a). The belt tensions and
+
+the gear tooth forces are as follows:
+
+P; = 498 N, P2 = 166N, Pt= 497 N, Pr=181N
+
+The weight of the pulley is 100 N. The diameter of the shaft at bearings B;
+
+and Bz is 10 mm arid 20 mm respectively. The load factor is 2.5 and the
+expected life for 90% of the bearings is 8000 h. Calculate the dynamic load
+carrying capacities for the bearings required at location B; and Bz.
+
+(b) Define stating load carrying capacity of a rolling contact bearing and derive (6)
+Stribeck’s equation.
+
+Q4. (a) The following data is given for a 360° hydrodynamic bearing: (8)
+Radial load=3.2kN, Journal speed = 1490 rpm
+Journal diameter = 50mm, Bearing length = 50 mm,
+Radial clearance = 0.05 mm, Viscosity of lubricant = 25 cP
+Assuming that the total heat generated in the bearing is carried by the total
+oil flow in the bearing, calculate:
+i) coefficient of friction; ii) power lost in friction;
+
+iii) minimum oil film thickness; iv) flow requirement in litres/min;
+v) temperature rise.
+
+take (“)f = 3.22, (*)=04, (2) = 433
+
+TCeNgl
+
+(b) Distinguish between hydrodynamic and hydrostatic bearings. (6)
+
+2/3
+--- page 3 ---
+Q.5.
+
+Q.6.
+
+Q.7.
+
+(a)
+(b)
+(a)
+
+(b)
+
+(a)
+(b)
+
+Illustrate using practical examples, the guidelines of design for assembly.
+What is their significance?
+Discuss causes and remedies of bearing failure.
+
+The 18 teeth pinion of a parallel helical gear pair meshes with a 45 teeth
+gear.7.5 kW power at 2000 rpm is supplied to the pinion through its shaft.
+The normal module is 6 mm, while the normal pressure angle is 20°. The
+helix angle is 23°. Determine the tangential, radial and axial components of
+the resultant tooth force between the meshing teeth. Also, draw the free body
+diagram.
+
+State the advantages, limitations and application of spur, straight bevel and
+helical gears.
+
+Explain friction in worm gears and derive the expression for efficiency.
+Elaborate the process of bearing selection from manufacturer’s catalogue.
+
+Values of the Lewis form factor Y for 20°
+
+Table 1 .
+full-depth involute system
+
+
+15 0.289 27 0.348 55 0.415
+16 0.295 28 0.352 60 0.421
+17 0.302 29 0.355 65 0.425
+18 0.308 30 0.358 70 0.429
+19 0.314 32 0.364 75 0.433
+20 0.320 33 0.367 80 0.436
+21 0.326 35 0.373 90 0.442
+22 0.330 37 0.380 100 0.446
+23 0.333 39 0.386 150 0.458
+24 0.337 40 0.389 200 0.463
+25 0.340 45 0.399 300 0.471
+26 0.344 50 0.408 Rack 0.484
+
+3/3
+
+(8)
+
+(6)
+(8)
 ````
 
 ## 2017-18 · Final-Exam · Sem 6 · paper 97ac9d3d8beb
@@ -1661,6 +2288,7 @@ SO   10   ..   lH   290   71\ ! \:   36
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Design of Machine Elements II/Design of machine Elements-II 2017-18 Final exam.pdf`
 - Printed on paper: duration hours: 3; exam date: 14 May 2018
 - Text: ocr (3 pages), mean OCR confidence 86.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1814,7 +2442,6 @@ Preferred 56 60 8&0 10 12 16 20
 
 Table3. Dimension less performance parameters for journal bearing
 
-i hy r Q Q. P
 
 1 0 10 (85) °° z 0 -
 0.1 0.9 1.33 79.5 26.4 3.37 0.150 0.540
@@ -1985,183 +2612,6 @@ c ) With neat sketch explain working of Hydrostatic bearing (05)
 aD
 ````
 
-## 2017-18 · Re-Exam · Sem 6 · paper bf44b78fc3a9
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/Design of machine elements-II ....Re-exam 2017-18-19.pdf` (+1 identical copies)
-- Printed on paper: exam date: 14 June 2019
-- Text: ocr (3 pages), mean OCR confidence 91.7
-
-````text
-SO , SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech. / B.Tech (MECHANICAL)
-Academic Year: 2018-19
-
-Subject: Design of Machine Elements-II
-Date: 14 June 2019
-
-Duration: 3 :
-No. of Pages:_ 3
-Re- Examination (2017-18/2018- 19) ee
-
-ee Fa TT) 7 —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-8) Use of Design Data Book is permitted. -:
-
-Ql. A. Answer ANY TWO of the following.
-
-(a) Describe different types of wear leading to gear tooth failure. (4)
-(b) Derive the expression for the virtual number of teeth of bevel gear. (4)
-(c) Discuss the desired properties of a lubricating oil used in bearings. (4)
-B. Answer ANY TWO of the following.
-(a) Describe briefly the materials used for worm and worm wheel. (3)
-(b) — Distinguish between rolling contact and sliding contact bearings (3)
-(c) What do you understand by design for manufacturing? (3)
-Q.2. A pair of spur gears with 20° full-depth involute teeth consists of a 20 teeth (14)
-
-pinion meshing with a 41 teeth gear. The module is 3 mm while the face
-width is 40 mm. The material for pinion as well as gear is steel with an
-ultimate tensile strength of 600 N/mm?. The gears are heat treated to a
-surface hardness of 400 BHN. The pinion rotates at 1450 rpm and the service
-factor for the application is 1.75. Assume that velocity factor accounts for
-the dynamic load and the factor of safety is 1.5. Determine the rated power
-that the gears can transmit.
-
-1/3
---- page 2 ---
-Q.3. OA pair of straight bevel gears, mounted on shafts which are intersecting at (14)
-right angles, consists of a 24 teeth pinion meshing with a 32 teeth gear. The
-pinion shaft is connected to an electric motor developing 12.5 kW rated
-power at 1440 rpm. The starting torque of the motor is 150 % of the rated
-torque. Both gears are made of case hardened steel (Su: = 750 N/mm’). The
-pressure angle is 20° and factor of safety is assumed to be 2. Assume
-
-5.6
-velocity factor-for th ted gear teeth: Cv=———=.
-city factor for the generated gear 5.6tV0
-
-i. Calculate the main dimensions of the gears on the basis of beam
-strength. Assume that velocity factor accounts for the dynamic load
-and the pitch line velocity is 7.5 m/s.
-
-ii. Determine the correct factor of safety for bending.
-
-Q.4. (a) A transmission shaft rotating at 720 rpm and transmitting power from the (8)
-
-pulley P to the spur gear G is shown in Fig. 15.8(a). The belt tensions and
-
-the gear tooth forces are as follows:
-
-P; = 498 N, P2 = 166N, Pt= 497 N, Pr=181N
-
-The weight of the pulley is 100 N. The diameter of the shaft at bearings B;
-
-and Bz is 10 mm arid 20 mm respectively. The load factor is 2.5 and the
-expected life for 90% of the bearings is 8000 h. Calculate the dynamic load
-carrying capacities for the bearings required at location B; and Bz.
-
-(b) Define stating load carrying capacity of a rolling contact bearing and derive (6)
-Stribeck’s equation.
-
-Q4. (a) The following data is given for a 360° hydrodynamic bearing: (8)
-Radial load=3.2kN, Journal speed = 1490 rpm
-Journal diameter = 50mm, Bearing length = 50 mm,
-Radial clearance = 0.05 mm, Viscosity of lubricant = 25 cP
-Assuming that the total heat generated in the bearing is carried by the total
-oil flow in the bearing, calculate:
-i) coefficient of friction; ii) power lost in friction;
-
-iii) minimum oil film thickness; iv) flow requirement in litres/min;
-v) temperature rise.
-
-take (“)f = 3.22, (*)=04, (2) = 433
-
-TCeNgl
-
-(b) Distinguish between hydrodynamic and hydrostatic bearings. (6)
-
-2/3
---- page 3 ---
-Q.5.
-
-Q.6.
-
-Q.7.
-
-(a)
-(b)
-(a)
-
-(b)
-
-(a)
-(b)
-
-Illustrate using practical examples, the guidelines of design for assembly.
-What is their significance?
-Discuss causes and remedies of bearing failure.
-
-The 18 teeth pinion of a parallel helical gear pair meshes with a 45 teeth
-gear.7.5 kW power at 2000 rpm is supplied to the pinion through its shaft.
-The normal module is 6 mm, while the normal pressure angle is 20°. The
-helix angle is 23°. Determine the tangential, radial and axial components of
-the resultant tooth force between the meshing teeth. Also, draw the free body
-diagram.
-
-State the advantages, limitations and application of spur, straight bevel and
-helical gears.
-
-Explain friction in worm gears and derive the expression for efficiency.
-Elaborate the process of bearing selection from manufacturer’s catalogue.
-
-Values of the Lewis form factor Y for 20°
-
-Table 1 .
-full-depth involute system
-
-z Y z _¥ z Y
-
-15 0.289 27 0.348 55 0.415
-16 0.295 28 0.352 60 0.421
-17 0.302 29 0.355 65 0.425
-18 0.308 30 0.358 70 0.429
-19 0.314 32 0.364 75 0.433
-20 0.320 33 0.367 80 0.436
-21 0.326 35 0.373 90 0.442
-22 0.330 37 0.380 100 0.446
-23 0.333 39 0.386 150 0.458
-24 0.337 40 0.389 200 0.463
-25 0.340 45 0.399 300 0.471
-26 0.344 50 0.408 Rack 0.484
-
-3/3
-
-(8)
-
-(6)
-(8)
-````
-
 ## 2016-17 · Final-Exam · Sem 6 · paper 5cb4ced6d5cb
 
 - Departments: Mechanical
@@ -2169,6 +2619,7 @@ z Y z _¥ z Y
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS II 16-17 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 10 May 2017
 - Text: ocr (3 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM?’s NMIMS
@@ -2285,7 +2736,6 @@ guidelines used in DFMA.
 Table 1 Values of the Lewis form factor Y for 20°
 fidl-depth involicte system
 
-fa ¥ z Y Zz Y
 
 15 0.289 27 0.348 58 0.415
 16 0.295 28 0.352 60 0.421
@@ -2328,6 +2778,7 @@ ee — — ~
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS I BATCH 2015-16,2016-17 Re-exam.pdf`
 - Printed on paper: exam date: 26 May 2017
 - Text: ocr (6 pages), mean OCR confidence 82.5
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2533,7 +2984,6 @@ a 2 &
 zt
 i) ~ in
 ; 5 > Ss
-TAA FW WH EF K— KB we ga | DS
 tAola oO S&S ££ KH Sw a Nw SG Sane
 SO:
 SL OS
@@ -2547,7 +2997,6 @@ aa
 th
 | od ; . . =
 ee: a , es t po
-bo MA kB we S&S Fa wn & w& Ft =
 >
 =
 =
@@ -2559,7 +3008,6 @@ a, Bi
 ‘ a
 8 S
 ay 8
-a Pr fe ES 6h Oe o 7 mt s. ff 7" pa =,
 & pore © Oo TO oF aS A Fe tw be % 3
 i4 =
 ms,
@@ -2572,9 +3020,6 @@ Ss
 ee
 a =
 fw wok Ww bh be Ee ee YY, Sof &
-Be we We So HW Ww BD th Ob oe ~~ Fe se mw
-= i ee = oy ee = hoa a es
-o Cc OF FCF CO CP CO 97 CO Ff 2 a oe oS
 a Os
 7% a &
 Q
@@ -2582,7 +3027,6 @@ Q
 =
 aa
 a ‘ . , =
-oO Oo ~J DN Un te Fe Oa =
 oS oOo C2 390 Ve DA Oo in DD WN & tA — a
 ol EN
 = a)
@@ -2596,8 +3040,6 @@ n
 8 | 8
 ay gS
 . F , ) bod at,
-ta ce fe fas fp us rm MR Be Be Re S bat
-ow" OD we vw BA wA bh OD Ha FF |B A
 + =
 =~
 =
@@ -2794,264 +3236,7 @@ J   .•'" ,_,I   I.'
 I
 ````
 
-## 2015-16 · Final-Exam · Sem 6 · paper 78aee2ea9cc5
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS II B TECH (MECHANICAL), BATCH 2015-16 FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
-- Text: ocr (4 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-
-Programme: B. Tech (MECHANICAL) Year: III Semester: VI
-Academic Year: 2015-2016
-
-Subject : Design of Machine Elements-II
-Marks: 60
-Date : 10/05/2016 Time : 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-Final-Examination
-
-Instructions:
-
-1Attempt any five Questions including question no.1 which is compulsory.
-2Answer to each new question should be started on a fresh page.
-
-3 Assume suitable data if required
-
-4 Figures in brackets on the right hand side indicate full marks
-
-5 Use of Design data book permitted
-
-Ql Answer following questions (Any four) (4*3)
-i) Compare Spur gear with Helical gear.
-ii) What are the desirable properties of bearing materials for sliding
-contact bearing ?
-iii) Explain the friction in worm gear drives.
-
-iv) Explain lubrication of Rolling contact bearing.
-
-v) Explain Wiebull distribution curve and its applications in design.
-
-Vy
---- page 2 ---
-«i
-
-Q2 a) Explain with diagram tooth forces on bevel gears and their significance (04)
-In the selection of bearings.
-b) A pair of bevel gear is required to transmit 5 KW power with (08)
-shaft angle of 90° and reduction ratio equal to 2.
-Calculate i)Bending strength
-
-ii) Factor of safety for Bending failure.
-
-Assume: a) No teeth on pinion= 20 ,Module =4mm, Rotation speed= 450 rpm
-b)Face width=20mm.
-c) Pressure angle=20° d) Surface hardness= 400 BHN
-e) Material for pinion and gear is steel having Sy= 750N/mm?
-
-f) For Electric motor: Starting torque / Rated torque= 1.5
-
-Q3 a) Explain with neat diagram formative number of teeth in helical gear design (04)
-
-b) Details of a pair of parallel helical gears are given below.
-
-Pinion teeth-22; Gear teeth: 100, Pinion rpm 750;
-
-Normal pressure angle 20° Helix angle 25°
-
-Face width of Gear 40 mm Normal module 4mm
-
-Material of both gears: Steel having ultimate tensile strength=600N/mm?
-Surface hardness of both Gears =300BHN
-
-Service factor=1.5 ; Power transmitted 7.5 kW
-
-Velocity factor Cv=5.6/(5.6+Vv), v= Velocity at PCD in m/sec
-
-Calculate: a)Forces on gears and pinion
-
-b) Factor of safety against bending failure and pitting failure
-
-2)h
---- page 3 ---
-Q4 a) Why is pinion weaker than gear made of same material ? (04)
-b) A pair of spur gears with 20° full depth involute teeth consists of 22 teeth (08)
-pinion meshing with 43 teeth gear. The details of gear train are given below:
-Pinion :22 teeth 20° pressure angle full depth involute profile
-
-Gear : 43 teeth. Module:4mm, Face width:40 mm
-Gear material:Steel having ultimate tensile strength:600 N/mm” and hardness
-
-400BHN
-Pinion rotation speed :1200 rpm
-Service factor:1.5 Factor of safety: 1.5
-
-Velocity factor : Cv = 3/3+V) V=velocity in m/sec at PCD
-Determine: a) Forces on Gear and pinion at the time of meshing
-b) Rated power this gear train can transmit
-c)Beam strength and wear strength of Gear tooth
-
-Q5 a) Explain functions of different additives used in lubricating oils. (04)
-
-b) The following data is given for hydrodynamically lubricated journal bearing (08)
-i) Radial load=3.5 kN (ii) Journal speed=1500 rpm
-iii) Journal diameter= 50 mm (iv) Bearing length=50mm
-v) Radial clearance=0.05 mm (vi) Viscosity of lubriacant= 25 cP
-Assume following Dimensionless performance parameters for Journal Bearing
-(a) ( r/c)*f= 3.22, (b) (ho /c)=0.4, (c) Q/renl= 4.33
-p Assuming that the total heat generated in the bearing is carried by total oil flow in
-The bearing. Calculate:
-a) Coefficent of friction
-
-b) Power Jost in friction
-
-c) Minimum oil film thickness
-
-d) Temperature rise
---- page 4 ---
-Q6 a) With sketch Name different types of ball bearings and their applications (04 )
-b) A single row deep groove ball bearing has dynamic load capacity of- (08)
-- 50000N and operates on the following work cycle:
-i) radial load of 10000 N at 500 rpm for 25% of time
-ii) radial load of 5000 N at 700 rpm for 50% of time
-iii) radial load of 7000 N at 400 rpm for remaining of the time
-Calculate the expected life of bearing in hours.
-Q7 a) Explain different types of Rolling contact bearing failures---------------
-b) Explain in detail with suitable examples concept of ‘Design For— (4)
-
-- Manufacturing’
-
-c ) Differentiate Thick film lubrication and Thin film lubrication-- (5)
-````
-
-## 2015-16 · Re-Exam · Sem 6 · paper 542757c59f7b
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS II BATCH 2014-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2016
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS fé :
-MUKESH PATEL SCHOOL OF TECHNOLOGY If aE . NEERING
-
-Programme: B.Tech (Mechanical) Year: Il f ape DY) pr: VI
-Academic Year: 2015-16
-
-Batch: 2014-15 / 2015-16
-
-Subject: Design of Machine Elements-II Marks: 60
-Time: 2.00 pm — 5.00 pm
-Date: 02 July 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. Inall5 questions to attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page. -
-6. Figures in brackets on the right hand side indicate full marks.
-
-1. Attempt any 3. (12) |
-(a) Explain interference in gear. How is it minimized? (4)
-(b) Why involute profile is recommended for gear teeth? (4)
-(c) State the assumptions of Reynolds’s equation. (4)
-(d) | What are different types of gear tooth failures? (4)
-
-2. A full hydrodynamic bearing with - (12)
-
-Journal speed = 900 rpm Vd=1
-
-Radial load = 25kN Viscosity of lubricant = 20cP
-Unit bearing pressure = 2.5 MPa Class of fit =H7e&
-Calculate:
-
-(i) Dimension of bearing
-
-(ii) Minimum film thickness
-
-(iii) Requirement of oil flow
-Bearing Characteristic parameters
-
-[i/d s ho/c Q/rensl i
-1 0.1210 0.4 4.33 ;
-i 0.0446 0.2 4.62
-3. A certain application requires a ball bearing with the inner ring rotating, with a (12)
-
-design life of 25 000 h at a speed of 350 rev/min. The radial load is 2.5 KN and an
-application factor of 1.2 is appropriate. The reliability goal is 0.90. Find the multiple
-of rating life required, xo , and the catalog rating Cio with which to enter a bearing
-table. Choose a 02-series deep-groove ball bearing from data book, and estimate
-the reliability in use. Use Weibull parameters xo= 0.02, © = 4.459, b = 1.483.
-
-Vo
---- page 2 ---
-<M
-
-4.
-
-5. (a)
-
-(b)
-
-(a)
-(b)
-(c)
-
-ic!
-Vy
-
-Itis required to design a pair of spur gear with 20° full depth involute teeth consisting
-of a 20 teeth pinion meshing with 50 teeth gear. The pinion shaft is connected to a
-22.5 kW, 1450 rpm electric motor. The starting torque of the motor can be taken as
-150% of the rated torque. The material of pinion is Fe 410 (Sur =410 N/mm?) and
-gear is Fe 200 (Sur =200 N/mm”). Taking FOS = 1.5 design the gears based on Lewis
-equation and using velocity factor to account for the dynamic load.
-
-State and derive Stirbeck’s equation for static load carrying capacity of bearings.
-Explain the concept of “Design for manufacturing and assembly in details”.
-
-A pair of bevel gears pressure angle 20° having 20 teeth pinion meshing with a 30
-teeth gear. The face width is 20 mm, module 4 mm, the pinion speed is 500 rev/min
-and power 2.5 kW. The material for gear and pinion is 50C4 (Sut =750 N/mm2). The
-gear teeth are lapped and ground (class 3) and surface hardness 400 BHN. The
-starting torque of the motor can be taken as 150% of the rated torque. Determine
-FOS against bending failure and pitting failure.
-
-Explain in detail-
-
-Why bevel factor is introduced in Lewis equation for bevel gear?
-The McKee curve for hydrodynamic bearings.
-
-The role of additives in lubrication.
-
-922 RR 2 A A Ko a ok a oo OK
-
-2/2.
-
-(12)
-
-(4)
-
-(12)
-
-(12)
-
-(4)
-(4)
-(4)
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 258fce4bd170
+## 2016-17 · Re-Exam · Sem 5 · paper 258fce4bd170
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -3224,6 +3409,533 @@ factor of safety is 5.\
 b) What are the advantages of using a muff coupling?
 ````
 
+## 2015-16 · Final-Exam · Sem 6 · paper 78aee2ea9cc5
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS II B TECH (MECHANICAL), BATCH 2015-16 FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
+- Text: ocr (4 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+
+Programme: B. Tech (MECHANICAL) Year: III Semester: VI
+Academic Year: 2015-2016
+
+Subject : Design of Machine Elements-II
+Marks: 60
+Date : 10/05/2016 Time : 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+Final-Examination
+
+Instructions:
+
+1Attempt any five Questions including question no.1 which is compulsory.
+2Answer to each new question should be started on a fresh page.
+
+3 Assume suitable data if required
+
+4 Figures in brackets on the right hand side indicate full marks
+
+5 Use of Design data book permitted
+
+Ql Answer following questions (Any four) (4*3)
+i) Compare Spur gear with Helical gear.
+ii) What are the desirable properties of bearing materials for sliding
+contact bearing ?
+iii) Explain the friction in worm gear drives.
+
+iv) Explain lubrication of Rolling contact bearing.
+
+v) Explain Wiebull distribution curve and its applications in design.
+
+Vy
+--- page 2 ---
+«i
+
+Q2 a) Explain with diagram tooth forces on bevel gears and their significance (04)
+In the selection of bearings.
+b) A pair of bevel gear is required to transmit 5 KW power with (08)
+shaft angle of 90° and reduction ratio equal to 2.
+Calculate i)Bending strength
+
+ii) Factor of safety for Bending failure.
+
+Assume: a) No teeth on pinion= 20 ,Module =4mm, Rotation speed= 450 rpm
+b)Face width=20mm.
+c) Pressure angle=20° d) Surface hardness= 400 BHN
+e) Material for pinion and gear is steel having Sy= 750N/mm?
+
+f) For Electric motor: Starting torque / Rated torque= 1.5
+
+Q3 a) Explain with neat diagram formative number of teeth in helical gear design (04)
+
+b) Details of a pair of parallel helical gears are given below.
+
+Pinion teeth-22; Gear teeth: 100, Pinion rpm 750;
+
+Normal pressure angle 20° Helix angle 25°
+
+Face width of Gear 40 mm Normal module 4mm
+
+Material of both gears: Steel having ultimate tensile strength=600N/mm?
+Surface hardness of both Gears =300BHN
+
+Service factor=1.5 ; Power transmitted 7.5 kW
+
+Velocity factor Cv=5.6/(5.6+Vv), v= Velocity at PCD in m/sec
+
+Calculate: a)Forces on gears and pinion
+
+b) Factor of safety against bending failure and pitting failure
+
+2)h
+--- page 3 ---
+Q4 a) Why is pinion weaker than gear made of same material ? (04)
+b) A pair of spur gears with 20° full depth involute teeth consists of 22 teeth (08)
+pinion meshing with 43 teeth gear. The details of gear train are given below:
+Pinion :22 teeth 20° pressure angle full depth involute profile
+
+Gear : 43 teeth. Module:4mm, Face width:40 mm
+Gear material:Steel having ultimate tensile strength:600 N/mm” and hardness
+
+400BHN
+Pinion rotation speed :1200 rpm
+Service factor:1.5 Factor of safety: 1.5
+
+Velocity factor : Cv = 3/3+V) V=velocity in m/sec at PCD
+Determine: a) Forces on Gear and pinion at the time of meshing
+b) Rated power this gear train can transmit
+c)Beam strength and wear strength of Gear tooth
+
+Q5 a) Explain functions of different additives used in lubricating oils. (04)
+
+b) The following data is given for hydrodynamically lubricated journal bearing (08)
+i) Radial load=3.5 kN (ii) Journal speed=1500 rpm
+iii) Journal diameter= 50 mm (iv) Bearing length=50mm
+v) Radial clearance=0.05 mm (vi) Viscosity of lubriacant= 25 cP
+Assume following Dimensionless performance parameters for Journal Bearing
+(a) ( r/c)*f= 3.22, (b) (ho /c)=0.4, (c) Q/renl= 4.33
+p Assuming that the total heat generated in the bearing is carried by total oil flow in
+The bearing. Calculate:
+a) Coefficent of friction
+
+b) Power Jost in friction
+
+c) Minimum oil film thickness
+
+d) Temperature rise
+--- page 4 ---
+Q6 a) With sketch Name different types of ball bearings and their applications (04 )
+b) A single row deep groove ball bearing has dynamic load capacity of- (08)
+- 50000N and operates on the following work cycle:
+i) radial load of 10000 N at 500 rpm for 25% of time
+ii) radial load of 5000 N at 700 rpm for 50% of time
+iii) radial load of 7000 N at 400 rpm for remaining of the time
+Calculate the expected life of bearing in hours.
+Q7 a) Explain different types of Rolling contact bearing failures---------------
+b) Explain in detail with suitable examples concept of ‘Design For— (4)
+
+- Manufacturing’
+
+c ) Differentiate Thick film lubrication and Thin film lubrication-- (5)
+````
+
+## 2015-16 · Re-Exam · Sem 6 · paper a12f114ce67a
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENT II B TECH (MECHANICAL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60
+- Text: ocr (4 pages), mean OCR confidence 88.1
+
+````text
+~ Subject: Design of Machine Elements-II Marks: 60
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Mechanical) Year: II Semester: VI
+
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Time: 2.00 p
+
+Durations: 3
+: 10/05/2016
+Bates 10/05 Re-Examination
+
+Instructions:
+
+1Attempt any five Questions including question no.1 which is compulsory.
+2Answer to each new question should be started on a fresh page.
+
+3 Assume suitable data if required
+
+4 Figures in brackets on the right hand side indicate full marks
+
+5 Use of Design data book permitted
+
+Ql Answer following questions (Any four) (4*3)
+
+i)Why in a gear speed reducer,the diameter of an output shaft is greater
+than input shaft?
+
+ii) What are the desirable properties of gear material?
+iii) What are the advantages and disadvantages of worm gear drives ?
+
+iv) Differentiate between thick film and thin film lubrication in sliding
+contact bearing.
+
+v) Explain with neat sketch main components of the rolling contact bearings?
+
+Q2 a) What are the advantages advantages and disadvantages of straight bevel ---(04)
+Gears over Spiral bevel gears
+
+b) A pair of worm and worm wheel is designated as 3/60/10/6
+The worm is transmitting 7.5kW power at 1440 rpm.The coefficient of
+Friction is 0.1 and normal pressure angle is 20° Determine
+i)Forces on worm
+ii)Efficiency of drive
+ili) Power lost in friction
+
+\/4
+--- page 2 ---
+Q4 a) Why dynamic load is induced in gear teeth? Explain procedure of----------- (04)
+
+Q3 a) What is Herringbone gear? State its application.
+_ b) Following data is given for a pair of parallel gear made of steel
+ne {Power transmitted = 20 kW (ii ) Speed of pinion = 720 rpm
+
+%,
+“iid) No teeth on pinion = 35 and No. teeth on gear = 70
+
+. iv) Center distance =:285mm_ _(v) Normal module = 5mm
+vi)Normal pressure angle= 20° (vii) Hardness of gear = 300 BHN
+
+viii) Ultimate tensile strength = 600 N/mm? (ix) Width= 50mm
+x) Service factor=1.25
+
+Calculate: i) Helix angle
+ii) Beam strength
+iii) Wear strength
+
+iv) Factor of safety
+
+Designing for dynamic load using Buckingham equation
+b) A steel pinion(Sut= 600 N/mm?) with 20° full depth involute teeth is
+transmitting 7.5kW power at 1000 rpm from an electric motor. The starting
+torque of the motor is twice the rated torque. The number of teeth on pinion is -
+25while the module is 4mm.The face width is 45mm.Assume velocity factor
+accounts for dynamic load.and factor of safety= 1.5. Calculate
+i)Effective load on teeth
+
+ii) Forces on teeth
+
+iii) Bending stresses in gear teeth
+
+Sy
+--- page 3 ---
+Q5 a) Explain Raimondi and Boyd method and its applications in design of--------- (05)
+Sliding contact bearings.
+
+b) Following data is given for hydrostatic thrust bearing
+
+Saaeaaned (07)
+(i) Shaft speed = 720rpm (ii) Shaft diameter = 400 mm
+(iii) Recess diameter = 250 mm (iv) Film thickness= 0.15 mm
+(v) Viscocity of lubricant = 30cP (vi) Specific gravity=0.86
+(vii) Specific heat = 1.75 kI/kg °C (viii) Suply pressure = 5MPa
+Calculate
+i)Load carrying capacity of the bearing
+ii) Flow requirement
+iii)Pumping power loss
+iv) Frictional power loss
+v)Temperature rise
+Q6 a) Explain with neat diagrams different types rolling contact bearings and ---- -(05)
+Their applications
+b) A single -row deep groove ball bearing operates on the following ----------- (07)
+
+work cycle
+i) radial load of 10000 N at 500 rpm for 25% of time
+ii) radial load of 5000 N at 700 rpm for 50% of time
+iii) radial load of 7000 N at 400 rpm for remaining of the time
+
+If expected life of bearing is 10,000 hours Calculate dynamic load carrying capacity
+Of the bearing
+
+3/y
+--- page 4 ---
+-
+
+ety
+
+Q7 a) Explain different types of Rolling contact bearing failures = -------
+b) Explain in detail with suitable examples concept of ‘Design considerations -(04)
+
+« . in cast iron components ‘
+c ) With neat sketches explain bearing mountings design ----------------
+
+%
+````
+
+## 2015-16 · Re-Exam · Sem 6 · paper 542757c59f7b
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS II BATCH 2014-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2016
+- Text: ocr (2 pages), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS fé :
+MUKESH PATEL SCHOOL OF TECHNOLOGY If aE . NEERING
+
+Programme: B.Tech (Mechanical) Year: Il f ape DY) pr: VI
+Academic Year: 2015-16
+
+Batch: 2014-15 / 2015-16
+
+Subject: Design of Machine Elements-II Marks: 60
+Time: 2.00 pm — 5.00 pm
+Date: 02 July 2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. Inall5 questions to attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page. -
+6. Figures in brackets on the right hand side indicate full marks.
+
+1. Attempt any 3. (12) |
+(a) Explain interference in gear. How is it minimized? (4)
+(b) Why involute profile is recommended for gear teeth? (4)
+(c) State the assumptions of Reynolds’s equation. (4)
+(d) | What are different types of gear tooth failures? (4)
+
+2. A full hydrodynamic bearing with - (12)
+
+Journal speed = 900 rpm Vd=1
+
+Radial load = 25kN Viscosity of lubricant = 20cP
+Unit bearing pressure = 2.5 MPa Class of fit =H7e&
+Calculate:
+
+(i) Dimension of bearing
+
+(ii) Minimum film thickness
+
+(iii) Requirement of oil flow
+Bearing Characteristic parameters
+
+[i/d s ho/c Q/rensl i
+1 0.1210 0.4 4.33 ;
+i 0.0446 0.2 4.62
+3. A certain application requires a ball bearing with the inner ring rotating, with a (12)
+
+design life of 25 000 h at a speed of 350 rev/min. The radial load is 2.5 KN and an
+application factor of 1.2 is appropriate. The reliability goal is 0.90. Find the multiple
+of rating life required, xo , and the catalog rating Cio with which to enter a bearing
+table. Choose a 02-series deep-groove ball bearing from data book, and estimate
+the reliability in use. Use Weibull parameters xo= 0.02, © = 4.459, b = 1.483.
+
+Vo
+--- page 2 ---
+<M
+
+4.
+
+5. (a)
+
+(b)
+
+(a)
+(b)
+(c)
+
+ic!
+Vy
+
+Itis required to design a pair of spur gear with 20° full depth involute teeth consisting
+of a 20 teeth pinion meshing with 50 teeth gear. The pinion shaft is connected to a
+22.5 kW, 1450 rpm electric motor. The starting torque of the motor can be taken as
+150% of the rated torque. The material of pinion is Fe 410 (Sur =410 N/mm?) and
+gear is Fe 200 (Sur =200 N/mm”). Taking FOS = 1.5 design the gears based on Lewis
+equation and using velocity factor to account for the dynamic load.
+
+State and derive Stirbeck’s equation for static load carrying capacity of bearings.
+Explain the concept of “Design for manufacturing and assembly in details”.
+
+A pair of bevel gears pressure angle 20° having 20 teeth pinion meshing with a 30
+teeth gear. The face width is 20 mm, module 4 mm, the pinion speed is 500 rev/min
+and power 2.5 kW. The material for gear and pinion is 50C4 (Sut =750 N/mm2). The
+gear teeth are lapped and ground (class 3) and surface hardness 400 BHN. The
+starting torque of the motor can be taken as 150% of the rated torque. Determine
+FOS against bending failure and pitting failure.
+
+Explain in detail-
+
+Why bevel factor is introduced in Lewis equation for bevel gear?
+The McKee curve for hydrodynamic bearings.
+
+The role of additives in lubrication.
+
+
+2/2.
+
+(12)
+
+(4)
+
+(12)
+
+(12)
+
+(4)
+(4)
+(4)
+````
+
+## 2014-15 · Final-Exam · Sem 6 · paper 8008772125af
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS II B TECH (MECH), FINAL EXAM.pdf`
+- Printed on paper: exam date: 09/05/2015
+- Text: ocr (4 pages), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: III Semester: VI
+Academic Year: 2014-2015
+Subject: Design of Machine Elements-II
+Marks:
+Date: 09/05/2015 Time -
+
+Instructions:
+
+1Attempt any five Questions including question no.1 which is compulsory.
+2Answer to each new question should be started on a fresh page.
+
+3 Assume suitable data if required
+4 Figures in brackets on the right hand side indicate full marks
+
+5 Use of Design data book permitted
+
+Q1 Answer following questions (Any four) (4*3)
+i) Compare bevel gear with helical gear.
+ii) Explain the virtual number of teeth with reference to helical gear
+lii)What are the advantages and disadvantages of worm gear drives ?
+iv) State the assumptions in Reynold’s equation.
+
+vy) Explain with neat sketch main components of the rolling contact bearings?
+
+Q2 a) Explain why bevel factor is introduced in Lewis Equation for bevel gear ---(04)
+b) A pair of worm and worm wheel is designated as 3/60/10/6 ee
+
+The worm is transmitting 5 kW power at 720 rpm. The coefficient of
+
+Friction is 0.1 and normal pressure angle is 20° Determine
+
+i)Forces on worm
+
+ii)Efficiency of drive
+
+iii) Power lost in friction
+--- page 2 ---
+Q3_ a) Draw the force diagram on the helical tooth and explain relationship
+
+between them.
+b) Following data is given for a pair of parallel helical gear made of steel--------- (08)
+i)Power transmitted = 10 kW (ii ) Speed of pinion = 1440 rpm
+ii) No teeth on pinion = 35 and No. teeth on gear = 70
+iv) Center distance = 285 mm (v) Normal module = 5mm
+vi)Normal pressure angle= 20° (vii) Hardness of gear = 300 BHN
+viii) Ultimate tensile strength = 600 N/mm? (ix) Width= 50mm
+x) Service factor=1.25
+Assume velocity factor accounts for dynamic load.
+Calculate: i) Helix angle
+ii) Beam strength
+iii) Wear strength
+iv) Factor of safety
+Q4 a) Why dynamic load is induced in gear teeth? Explain procedure of----------- (04)
+Designing for dynamic load using Buckingham equation
+b) A steel pinion(Sut= 600 N/mm”) with 20° full depth involute teeth is --------- (08)
+
+transmitting 10 kW power at 750 rpm from an electric motor.The starting
+torque of the motor is twice the rated torque. The number of teeth on pinion is —
+25while the module is 4mm.The face width is 45mm.Assume velocity factor
+
+accounts for dynamic load.and factor of safety= 1.5. Calculate
+
+i)Effective load on teeth
+
+ii) Forces on teeth
+
+iii) Bending stresses in gear teeth
+
+r
+--- page 3 ---
+Q5 a) Explain the significance of --
+
+Q6
+
+(i)Sommerfield Number (ii) Coefficent of friction variable in design of
+
+(vii) Specific heat = 1.75 kJ/kg °C viii) Suply pressure = SMPa
+
+Sliding contact bearings.
+b) Following data is given for hydrostatic thrust bearing
+(i) Shaft speed =500 rpm (ii) Shaft diameter = 350 mm
+(iii) Recess diameter = 200 mm (iv) Film thickness= 0.15 mm
+
+(v) Viscocity of lubricant = 30cP (vi) Specific gravity=0.86
+
+Calculate
+
+i)Load carrying capacity of the bearing
+ii) Flow requirement
+
+iii)Pumping power loss
+
+iv) Frictional power loss
+
+v)Temperature rise
+
+a) Define (i) Static load capacity (ii) Dynamic load capacity:
+(iii)Life of bearing as applied to rolling contact bearing
+
+b) A single row deep groove ball bearing operates on the following
+work cycle
+
+i) radial load of 7500 N at 1000 fpm for 25% of time
+ii) radial load of 6000 N at 500 rpm for 50% of time
+iii) radial load of 7000 N at 600 rpm for remaining of the time
+
+If expected life of bearing is 10,000 hours Calculate dynamic load carrying capacity
+
+Of the*bearing
+--- page 4 ---
+Q7 a) Explain different types of Rolling contact bearing failures
+
+b) Explain in detail with suitable examples concept of ‘Design considerations (04)
+of machined components ‘
+
+c ) With neat sketches explain bearing mountings design
+````
+
 ## 2014-15 · Final-Exam · Sem 5 · paper 579f55f5865c
 
 - Departments: Mechanical
@@ -3362,144 +4074,135 @@ c) Explain with neat diagrams principles of Bearing mounting design. (6)
 aly
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper a12f114ce67a
+## 2014-15 · Re-Exam · Sem 6 · paper 474e6f729305
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENT II B TECH (MECHANICAL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60
-- Text: ocr (4 pages), mean OCR confidence 88.1
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS II B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01/07/2015
+- Text: ocr (3 pages), mean OCR confidence 89.2
 
 ````text
-~ Subject: Design of Machine Elements-II Marks: 60
-
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Mechanical) Year: II Semester: VI
+Programme: B. Tech (MECH) Year: III Semester: VI
+Batch: 2013-14
 
-Academic Year: 2015-16
+prUak ary
 
-Batch: 2014-15
+Academic Year: 2014-2015
 
-Time: 2.00 p
+Subject: Design of Machine Elements-II oe ~enN
+Marks: 100 . rau Ae
+Date: 01/07/2015 Time: , 10.00 am td\1,00%
+Durations: \ ‘3 (hrs) a
+Re-Examination S ERO
 
-Durations: 3
-: 10/05/2016
-Bates 10/05 Re-Examination
-
-Instructions:
-
+NB:
 1Attempt any five Questions including question no.1 which is compulsory.
 2Answer to each new question should be started on a fresh page.
-
 3 Assume suitable data if required
 
+Q1 Answer following questions (Any four)
+
 4 Figures in brackets on the right hand side indicate full marks
-
 5 Use of Design data book permitted
+Se eee eee eaes (20 marks)
+i) The radial load acting on a ball bearing is 5000 N and expected life
+ii) Differentiate Helical gear drive with spur gear drive.
 
-Ql Answer following questions (Any four) (4*3)
+iii) Briefly explain “Interference in Gears” How it is minimized? .
 
-i)Why in a gear speed reducer,the diameter of an output shaft is greater
-than input shaft?
+iv) Differentiate straight bevel gears with spiral bevel gears..
 
-ii) What are the desirable properties of gear material?
-iii) What are the advantages and disadvantages of worm gear drives ?
+vy) Why involute profile is recommended for gear teeth?
 
-iv) Differentiate between thick film and thin film lubrication in sliding
-contact bearing.
+for 90% of the bearing is 8000 hours.Calculate the dynamic load
+carrying capacity of the bearing,when shaft rotates at 1450 rpm.
+b) With suitable diagrams explain constructional features of sliding -----
+contact bearing. :
 
-v) Explain with neat sketch main components of the rolling contact bearings?
+Q2 a) Explain in detail design considerations of castings
 
-Q2 a) What are the advantages advantages and disadvantages of straight bevel ---(04)
-Gears over Spiral bevel gears
+Q3 Details of a pair of parallel helical gears are given below.
 
-b) A pair of worm and worm wheel is designated as 3/60/10/6
-The worm is transmitting 7.5kW power at 1440 rpm.The coefficient of
-Friction is 0.1 and normal pressure angle is 20° Determine
-i)Forces on worm
-ii)Efficiency of drive
-ili) Power lost in friction
+Pinion teeth-20; Gear teeth: 100 , Pinion rpm 720;
 
-\/4
+Normal pressure angle 20 *; Helix angle 25°
+
+Face width of Gear: 40 mm Normal module: 4mm
+
+Material of both gears: Steel having Ultraate tensile strength=600N/mm?
+Surface hardness of both Gears =300BHN
+
+Form factor Y= 0.3475 ; Service factor=1.5; Factor of safety= 2
+Velocity factor Cv=5.6/(5.6+Vv)
+
+Calculate: a)Forces on gears and pinion at the time of meshing
+b)Power transmitting capacity of gears
+
+4/3
 --- page 2 ---
-Q4 a) Why dynamic load is induced in gear teeth? Explain procedure of----------- (04)
+Q4 A pair of gears with 20°full depth involute teeth consists of 20 teeth pinion
+meshing with 41 teeth gear. The details of gear train are given below.
 
-Q3 a) What is Herringbone gear? State its application.
-_ b) Following data is given for a pair of parallel gear made of steel
-ne {Power transmitted = 20 kW (ii ) Speed of pinion = 720 rpm
+Pinion :20 teeth 20° pressure angle full depth involute profile
+Gear : 41 teeth. Module:3mm, Face width:40 mm
+Gear material:Steel having ultimate tensile strength:600 N/mm? and hardness
+400BHN
 
-%,
-“iid) No teeth on pinion = 35 and No. teeth on gear = 70
+Pinion rotation speed :1440 rpm; Form factor Y= 0.320
 
-. iv) Center distance =:285mm_ _(v) Normal module = 5mm
-vi)Normal pressure angle= 20° (vii) Hardness of gear = 300 BHN
+Service factor:1.5 Factor of safety: 1.5
 
-viii) Ultimate tensile strength = 600 N/mm? (ix) Width= 50mm
-x) Service factor=1.25
+Velocity factor : Cv = 3/(3+V) V=Velocity in meter/sec at PCD
+Determine: a) Forces on Gear and pinion at the time of meshing
 
-Calculate: i) Helix angle
-ii) Beam strength
-iii) Wear strength
+b) Rated power this gear train can transmit
 
-iv) Factor of safety
+c)Beam strength and wear strength of Gear. tooth (20Marks)
 
-Designing for dynamic load using Buckingham equation
-b) A steel pinion(Sut= 600 N/mm?) with 20° full depth involute teeth is
-transmitting 7.5kW power at 1000 rpm from an electric motor. The starting
-torque of the motor is twice the rated torque. The number of teeth on pinion is -
-25while the module is 4mm.The face width is 45mm.Assume velocity factor
-accounts for dynamic load.and factor of safety= 1.5. Calculate
-i)Effective load on teeth
+Q5 a) A pair of bevel gears with 20° pressure angle consists of 20 teeth ---(12marks)
+Pinion meshing with 30 teeth gear.The module is 4mm and face :
+Width Is 20mm, The material for pinion and gear is steel having
+Sut=750 N/mm/and hardness is 400 BHN.The pinion rotates at
+500 rpm and receives 3 kW power from the electric motor.The
+Starting torque of the motor is 150% of rated torque. Determine
+Factor of safety against bending failure and pittng failure
 
-ii) Forces on teeth
+b) 10kW of power at 750 rpm is transmitted by worm gear drive i is -(8 marks)
+designated as 2/40/10/5.The pressure angle of worm is 20°
+Coefficent of friction is 0.05
+Calculate:i) Forces on Worm
+ii) Efficiency of drive
 
-iii) Bending stresses in gear teeth
+Q6 a)- .A ball bearing subjected to a radial load of 6000N is expected to have-(10 marks)
+have life of 8000 hours at 1450 rpm with reliability of 99% Calculate
+the dynamic capacity of the bearing,so that it can be selected from
+manufacturer’s catalogue based on reliability of 90%
+b) A single —-row deep groove ball bearing as dynamic load capacity of----(10marks)
 
-Sy
---- page 3 ---
-Q5 a) Explain Raimondi and Boyd method and its applications in design of--------- (05)
-Sliding contact bearings.
+- 45000N and operates on the following work cycle:
 
-b) Following data is given for hydrostatic thrust bearing
+i) radial load of 5000 N at 500 rpm for 25% of time
 
-Saaeaaned (07)
-(i) Shaft speed = 720rpm (ii) Shaft diameter = 400 mm
-(iii) Recess diameter = 250 mm (iv) Film thickness= 0.15 mm
-(v) Viscocity of lubricant = 30cP (vi) Specific gravity=0.86
-(vii) Specific heat = 1.75 kI/kg °C (viii) Suply pressure = 5MPa
-Calculate
-i)Load carrying capacity of the bearing
-ii) Flow requirement
-iii)Pumping power loss
-iv) Frictional power loss
-v)Temperature rise
-Q6 a) Explain with neat diagrams different types rolling contact bearings and ---- -(05)
-Their applications
-b) A single -row deep groove ball bearing operates on the following ----------- (07)
+ii) radial load of 10000 N at 700 rpm for 50% of time
 
-work cycle
-i) radial load of 10000 N at 500 rpm for 25% of time
-ii) radial load of 5000 N at 700 rpm for 50% of time
 iii) radial load of 7000 N at 400 rpm for remaining of the time
+Calculate the expected life of bearing in hours.
 
-If expected life of bearing is 10,000 hours Calculate dynamic load carrying capacity
-Of the bearing
+als
+--- page 3 ---
+Q7 ) Write short notes ( Any four) a=
+i) Worm gear drives
 
-3/y
---- page 4 ---
--
+ii) Herringbone Gears
 
-ety
+iii) Gear tooth failure
 
-Q7 a) Explain different types of Rolling contact bearing failures = -------
-b) Explain in detail with suitable examples concept of ‘Design considerations -(04)
-
-« . in cast iron components ‘
-c ) With neat sketches explain bearing mountings design ----------------
-
-%
+iv) Bearing mounting design
+v) Bearing materials
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper c8d2053ba959
@@ -3765,6 +4468,7 @@ I 0 0.56 10 O48
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS II BATCH 2013-14 FINAL EXAM.pdf`
 - Printed on paper: exam date: 13/05/2014
 - Text: ocr (4 pages), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3775,7 +4479,6 @@ Programme:B. Tech (MECHANICAL)
 
 Year: III Semester: VI
 A ; 7 . ry
-cademic Year: 2013-2014 » opp TOTE SF ayy
 si rman Ne,
 Subject : Design of Machine Elements-II Fy ‘a is,
 Marg: 6o es
@@ -4054,137 +4757,6 @@ afd
 (10)
 
 (20)
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 474e6f729305
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS II B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01/07/2015
-- Text: ocr (3 pages), mean OCR confidence 89.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: III Semester: VI
-Batch: 2013-14
-
-prUak ary
-
-Academic Year: 2014-2015
-
-Subject: Design of Machine Elements-II oe ~enN
-Marks: 100 . rau Ae
-Date: 01/07/2015 Time: , 10.00 am td\1,00%
-Durations: \ ‘3 (hrs) a
-Re-Examination S ERO
-
-NB:
-1Attempt any five Questions including question no.1 which is compulsory.
-2Answer to each new question should be started on a fresh page.
-3 Assume suitable data if required
-
-Q1 Answer following questions (Any four)
-
-4 Figures in brackets on the right hand side indicate full marks
-5 Use of Design data book permitted
-Se eee eee eaes (20 marks)
-i) The radial load acting on a ball bearing is 5000 N and expected life
-ii) Differentiate Helical gear drive with spur gear drive.
-
-iii) Briefly explain “Interference in Gears” How it is minimized? .
-
-iv) Differentiate straight bevel gears with spiral bevel gears..
-
-vy) Why involute profile is recommended for gear teeth?
-
-for 90% of the bearing is 8000 hours.Calculate the dynamic load
-carrying capacity of the bearing,when shaft rotates at 1450 rpm.
-b) With suitable diagrams explain constructional features of sliding -----
-contact bearing. :
-
-Q2 a) Explain in detail design considerations of castings
-
-Q3 Details of a pair of parallel helical gears are given below.
-
-Pinion teeth-20; Gear teeth: 100 , Pinion rpm 720;
-
-Normal pressure angle 20 *; Helix angle 25°
-
-Face width of Gear: 40 mm Normal module: 4mm
-
-Material of both gears: Steel having Ultraate tensile strength=600N/mm?
-Surface hardness of both Gears =300BHN
-
-Form factor Y= 0.3475 ; Service factor=1.5; Factor of safety= 2
-Velocity factor Cv=5.6/(5.6+Vv)
-
-Calculate: a)Forces on gears and pinion at the time of meshing
-b)Power transmitting capacity of gears
-
-4/3
---- page 2 ---
-Q4 A pair of gears with 20°full depth involute teeth consists of 20 teeth pinion
-meshing with 41 teeth gear. The details of gear train are given below.
-
-Pinion :20 teeth 20° pressure angle full depth involute profile
-Gear : 41 teeth. Module:3mm, Face width:40 mm
-Gear material:Steel having ultimate tensile strength:600 N/mm? and hardness
-400BHN
-
-Pinion rotation speed :1440 rpm; Form factor Y= 0.320
-
-Service factor:1.5 Factor of safety: 1.5
-
-Velocity factor : Cv = 3/(3+V) V=Velocity in meter/sec at PCD
-Determine: a) Forces on Gear and pinion at the time of meshing
-
-b) Rated power this gear train can transmit
-
-c)Beam strength and wear strength of Gear. tooth (20Marks)
-
-Q5 a) A pair of bevel gears with 20° pressure angle consists of 20 teeth ---(12marks)
-Pinion meshing with 30 teeth gear.The module is 4mm and face :
-Width Is 20mm, The material for pinion and gear is steel having
-Sut=750 N/mm/and hardness is 400 BHN.The pinion rotates at
-500 rpm and receives 3 kW power from the electric motor.The
-Starting torque of the motor is 150% of rated torque. Determine
-Factor of safety against bending failure and pittng failure
-
-b) 10kW of power at 750 rpm is transmitted by worm gear drive i is -(8 marks)
-designated as 2/40/10/5.The pressure angle of worm is 20°
-Coefficent of friction is 0.05
-Calculate:i) Forces on Worm
-ii) Efficiency of drive
-
-Q6 a)- .A ball bearing subjected to a radial load of 6000N is expected to have-(10 marks)
-have life of 8000 hours at 1450 rpm with reliability of 99% Calculate
-the dynamic capacity of the bearing,so that it can be selected from
-manufacturer’s catalogue based on reliability of 90%
-b) A single —-row deep groove ball bearing as dynamic load capacity of----(10marks)
-
-- 45000N and operates on the following work cycle:
-
-i) radial load of 5000 N at 500 rpm for 25% of time
-
-ii) radial load of 10000 N at 700 rpm for 50% of time
-
-iii) radial load of 7000 N at 400 rpm for remaining of the time
-Calculate the expected life of bearing in hours.
-
-als
---- page 3 ---
-Q7 ) Write short notes ( Any four) a=
-i) Worm gear drives
-
-ii) Herringbone Gears
-
-iii) Gear tooth failure
-
-iv) Bearing mounting design
-v) Bearing materials
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper abed889be9f0
@@ -4516,586 +5088,4 @@ System reliability
 —_—__—— «
 
 3/3
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper d5a76dc27562
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Design of Machine Elements II/Design of Machine Elements.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (5 pages), mean OCR confidence 93.0
-
-````text
-SVKM’S NMIMS ‘
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech. Stream : Mechanical / Year: II Semester: VI
-Subject: Design of Machine Elements . Time: 3 hrs (2 pm to 5 pm )
-Date:_2#/06/2023 No. of Pages: 05
-
-Marks: 100
-
-‘Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Use of design data book is allowed.
-8) Assume Suitable data if necessary.
-1
-Q Attempt the following. [20]
-a. Summarize the statement “the presence of Stress concentration cannot be totally
-CO- 1; SO-1; [05]
-BL-2 eliminated but it may be reduced to same extent”?
-wie SO-1; | b. Compare welding joint with riveted joint? [05]
-a c. “It may be noted that when the springs are subjected to static loads, the effect of
-ieee SO-2; wire curvature may be neglected, because yielding of the material” Justify the [05]
-statement?
-d. What is ‘self-locking’ and ‘overhauling’ in the power screw?
-CO-2; SO-1; [05]
-BL-1
-The manufacturer wants to design a joint for to connect a tractor with trolley. The [20]
-Q2 load acting on the joint is tensile in nature and of 80 Kn. The manufacturer
-CO-3; SO- suggested that the material for this joint is carbon steel of grade 30C8 (Sy: = 450
-ce N/mm”). The roads are connected co-axially and small amount of angular moment
-
-between them is permissible. To account for this effect, a higher factor of safety 4
---- page 2 ---
-is assumed in the present design. Select the suitable joint for the given condition
-
-and design?
-
-The layout of a shaft carrying two pulleys 1 and 2, and supported on two bearings [20]
-A and B is shown in fig. 1. The shaft transmits 7.5 kW power at 360 rpm from
-pulley 1 to the pulley 2. The diameters of pulley 1 and 2 are 250 mm and 500 mm
-respectively. The masses of the pulleys | and 2 are 10 kg and 30 kg respectively.
-The belt tensions act vertically downwards and the ratio of belt tensions on tight
-side to slack side for each pulley is 2.5:1. The shaft is made of plain carbon steel
-40C8 (Sy: = 380 N/mm”) and the factor of safety is 3. Estimate a suitable diameter
-of shaft. If permissible angle of twist is 0.5° per meter length, calculate the shaft
-
-diameter on the basis of torsional rigidity. Assume G = 79300 N/mm’.
-
-a
-
-Q3
-CO-3; SO-7; .
-BL-5 250 500 250
-i vs —
-1 A B
-2
-Py Py P2 P3
-Figure No. 1
-All dimension in mm
-a. A screw clamp used on the shop floor is shown in fig. 2. The screw has single start | [10]
-square threads of 22mm nominal diameter and 5mm pitch. The coefficient of
-friction at the threads and the collar is 0.15. The mean radius of the friction collar ey
-Q4 is 15 mm. The capacity of the clamp is 750 N. The handle is made of steel 30C8
-me oes (Sy:= 400 N/mm’). It can be assumed that the operator exerts a force of 20 N on
-
-the handle. Evaluate for (i) What torque is required to tighten the clamp to full
-capacity? (ii) Determine the length and the diameter of the handle, such that it will
-
-bend with a permanent set, when the rated capacity of the clamp is exceeded.
---- page 3 ---
-al
-
-Figure No. 2
-
-The lead screw of a lathe has single-start ISO metric trapezoidal threads of 52 mm
-nominal diameter and 8 mm pitch. The screw is required to exert an axial force of
-2 kN in order to drive the tool carriage during turning operation. The thrust carried
-on a collar of 100 mm outer diameter and 60 mm inner diameter. The values of
-coefficient of friction at the screw thread and collar are 0.15 and 0.12 respectively.
-The lead screw rotates at 30 rpm. Design for the power required to drive the lead
-
-screw and efficiency of the screw.
-
-[10]
-
-CO-3; SO-
-2373
-BL-6
-
-A welded connection, as shown in fig. 3 is subjected to an eccentric force of 7.5
-KN. Design for the size of the weld if permissible shear stress for the weld is 100
-N/mm?. [J =t*1(3b?+1)/6]
-
-Figure No. 3
-Alldimension in mm
-
-[10]
-
-Design a cast iron protective type flange coupling to transmit 20 kW at 1000 r.p.m.
-from an electric motor to a compressor. The service factor may be assumed as 1.35.
-The following permissible stresses may be used: (Take D=2d; L=1.5d; D; =3d and
-t=0.5d)
-
-[10]
---- page 4 ---
-Shear stress for shaft, bolt and key material = 70 N/mm?
-Crushing stress for bolt and key = 120 N/mm?
-Shear stress for cast iron = 12 N/mm?
-
-Assume number of bolts = 3
-
-Q6
-
-CO-3; SO-2;
-BL-6
-
-A helical compression spring made of a circular wire, is subjected to an axial force,
-which varies from 2.5 KN to 3.5 KN. Over this range of force, the deflection of
-spring should be approximately 5 mm. The spring index can be taken as 5. The
-spring has square and ground ends. The spring is made of cold-drawn steel wire
-with ultimate tensile strength of 1050 N/mm? and modules of rigidity 81370
-N/mm”. The permissible shear stress for the spring wire should be taken as 50% of
-
-ultimate tensile strength. Design the spring.
-
-[10]
-
-Design a valve spring of a petrol engine for the following operating conditions:
-Spring load when the valve is open = 400 N; Spring load when the valve is closed
-= 250 N; Maximum inside diameter of the spring = 25 mm; Length of the spring
-when the valve is open = 40 mm; Length of the spring when the valve is closed =
-50 mm; Maximum permissible shear stress = 400 N/mm’; modules of rigidity =80
-
-kN/mm?.
-
-[10]
-
-+Q7
-CO-3; SO-2;
-BL-6
-
-A bracket is supported by means of 4 rivets of same size, as shown in figure
-4. Determine the diameter of the rivet if the maximum shear stress is 140
-
-N/mm’.
-20 KN
-
-30 “Ty |
-
-Figure No. 4
-All dimension in mm
-
-[10]
-
-A lever loaded safety valve is 70 mm in diameter and is to be designed for
-
-a boiler to blow-off at pressure of 1 N/mm? gauge. Design a suitable mild
-
-[10]
---- page 5 ---
-steel lever of rectangular cross-section using the following permissible
-stresses: Tensile stress = 70 N/mm?; Shear stress = 50 N/mm?; Bearing
-pressure intensity = 25 N/mm”. (Assume b=4t; Ip=1.25dp)
-
-The pin is also made of mild steel. The distance from the fulcrum to the
-weight of the lever is 880 mm and the distance between the fulcrum and pin
-
-connecting the valve spindle links to the lever is 80 mm.
-
-Shajt diameter Key cross-section Shajt diameter Key cross-section
-(inm) upto and (nm) upto and
-including Width (mm) | Thickness (nnn) ineluding Width (mm) | Thickness (mn)
-
-6 2 2 85 29 14
-8 3 3 95 28 16
-10 4 4 110 32 18
-ae 5 3 130 36 20
-17 6 6 150 40 22
-22 8 7 170 45 25
-30 10 8 200 50 28
-38 12 8 230 56 32
-44 14 9 260 63 32
-50 16 10 290 70 36
-58 18 il 330 80 40
-65 20 12 380 90 45
-
-1D 22 14 440 100 50
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper 4300a847cce0
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/B Tech, Mechanical, Design of Machine Elemetns-II, 3rd Year, Sem-VI, Final Exam, _f2eb51af.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 April 2022
-- Text: ocr (5 pages), mean OCR confidence 87.6
-
-````text
-Jo fe N
-SVKM’s NMIMS : :
-*   MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-WU
-
-| : Academic Year: 2021-22
-
-Programme: B.Tech (Mechanical) Year: II] © Semester: VI
-Subject: Design of Machine Elements - II
-
-Marks: 100
-Date: 08 April 2022 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-
-No. of Pages: _@S
-Final Examination
-
-}
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-A of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of the remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume suitable data if necessary.
-8) Use of design data book is permitted.
-Qi . . [20]
-Answer the following questions:
-CO-1; a. | Define beam strength of gear and derive expression of beam strength of spur gear. [05]
-SO-1;
-BL-2
-CO-1; b. | State the various types of failures experienced in bevel gears. Enlist remedies to avoid [05]
-SO-1; these failures.
-BL-1
-CO-2; c. | Citing an example, elaborate upon the bearing designation used for rolling contact [05]
-SO-1; bearing.
-BL-2
-CO-2; d. | Discuss the mechanism of pressure development within the oil film of hydrodynamic [05]
-SO-1; journal bearings.
-BL-2
-|
-Q2 a. | A helical pinion having 14 teeth is to mesh with a helical gear. Both of them | [14]
-= CO-1/23 are made of alloy steel (Su= 800 MPa). The gear pair is required to transmit
-) me 30 kW power from an electric motor running at 720 rpm to a.machine running
-
-1/5
---- page 2 ---
-at 225 rpm. The service factor and required factor of safety are 1.3 and 1.4
-respectively. The face width is ten times the normal module and the tooth
-system is a 20-degree full depth involute system. The helix angle is 25 degrees.
-Design the gear pair by considering that the velocity factor accounts for the
-dynamic load (Take v=3 m/s at the initial stage). Also, specify the factor of
-safety against bending considering that the dynamic load (Pa) is equal to
-
-9007.36 N. For velocity factor use, Cy= 5.6/(5.6+V°°).
-
-Q2 B. Derive an expression for the efficiency of worm gear drive. [06]
-CO-1/2;
-SO-1;
-BL-3
-Q3 a. | A pair of straight bevel gears are used to transmit motion between shafts that
-CO-1/2; are at right angles. The number of teeth on the pinion is 21 and the gear has 28.
-Ss The pressure angle is 20°. The pinion shaft is connected to an electric motor
-developing 5000 W rated power at 1440 rpm. The service factor is 1.5. The, 14]
-pinion and the gear are made of steel (Su= 750 N/mm”) and heat-treated to a
-surface hardness of 380 BHN. The dynamic load (Pa) due to machining error
-is 2166.84 N. The module and face widths are 4 mm and 20 mm respectively.
-Determine the factor of safety against bending as well as against pitting failure.
-Q3 b. | Elucidate upon the various lubrication methods used for gears. [06]
-CO-1/2;
-SO-1;
-BL-3
-Q4 a. | A single row deep groove ball bearing is to be selected for a shaft having a50| [14]
-CO-2/3; mm diameter. The radial force acting on the bearing is 1923.28 N while the
-ar thrust load is 625.53 N. The load factor is 1.8 and the expected rating life of
-the bearing is 25000 hours. The shaft is running at 288 rpm. Start the trial with
-a 6010 bearing.
-2/5
---- page 3 ---
-* Principal Basie loael
-
-dimensions (oun) ratings (N) Designation
-d D B c Ci
-50 65 7 6240 4250 61810
-
-so 10 16360 10000 16010
-80 16 21600 13260 6010
-90 20 35100 19600 6210
-10 0 27 61800 36000 6310
-13000 3] 87106 52000 6410
-
-fa < Fi &
-F, =e F, e e
-
-(2)
-
-Xx Y x ¥Y
-
-0.025 1 0 0.56 2.0 0.22
-
-0.040 1 0 0.56 1s 24
-
-0.070 1 0 0.56 1.6 0.27
-
-0.130 i 0 0.56 14 031
-
-0.250 1 0 0.56 1.2 0.37
-
-0.500 i 0 0.56 1.0 0.44
-Q4 b. | Illustrate the significance of the following variables with respect to |» [06]
-CO-2/3; hydrodynamic bearings:
-de (i) Wd ratio.
-
-(ii) Unit bearing pressure.
-
-(iii) Radial clearance.
-Q5 a. | The following data relates to a full hydrodynamic bearing:
-CO-2/3; e radial load = 10 kN
-SO-2; .
-BL-4 e journal speed = 1440 rpm
-
-e unit bearing pressure = 1000 kPa
-e clearance ratio (r/c) = 800
-[14]
-e viscosity of lubricant = 30 mPa s
-Assuming I/d= | and that the total heat generated in the bearing is carried by
-the total oil flow in the bearing, calculate:
-
-(i) dimensions of bearing;
-
-(ii) coefficient of friction;
-
-3/5
---- page 4 ---
-(iii) power lost in friction;
-(iv) total flow of oil and
-
-(v) side leakage
-
-Q5 b. | Illustrate using an example, the procedure for determination of bearing life | [06]
-CO-2/3; when it is subjected to cyclic load.
-
-SO-2;
-
-BL-3
-
-Q6 ~ Answer the following questions: [20]
-
-CO-1/2; a. | Describe how gears are selected based on shaft layout, load, velocity and | [05]
-
-SO-1; velocity ratios.
-
-BL-2
-CO-1; b. | In the worm drive, which component governs the design? Elaborate upon the | [05]
-oe reasons.
-
-CO-2/3; c. | Explain the load-life relationship for rolling contact bearings and define the | [05]
-SO-1;
-BL-2
-CO-2/3; d. | Discuss the different modes of lubrication in the context of sliding contact) [05]
-SO-1;
-BL-2
-
-dynamic load-carrying capacity of a bearing.
-
-bearings.
-
-Lewis for factor for different-values of z at 20° pressure angle.
-
-zZ ¥ z Y Zz Y
-
-15 0.289 27 0.348 55 0.415
-16 0.295 28 0.352 60 0.421
-17 0.302 29 0.355 65 0.425
-18 0.308 30 0.358 70 0.429
-19 0.314 32 0.364 75 0.433
-20 0.320 33 0.367 80 0.436
-21 0.326 35 0.373 90 0.442
-22 0.330 37 0.380 100 0.446
-23 0.333 39 0.386 150 0.458
-24 0.337 40 0.389 200 0.463
-25 0.340 45 0.399 3 0471
-26 0.344 30 0.408 Rack 0.484
-
-4/5
---- page 5 ---
-Dimensionless performance parameters for full journal bearing with side flow
-
-a. 8: - &§ HOE
-<7) £, rend ; Q Press.
-oo 0 1.0 oo (70.92) 0 x 0 -
-0.1 09 0.240 69.10 4.80 3.03 0 0.826
-0.2 . 0.8 0.123 67.26 2.57 2.83 0 0.814
-o4 0.6 0.0626 61.94 1.52 2.26 0 0.764
-06 0.4 0.0389 $4.31 1.20 1.56 0 0.667
-O8 0.2 0.021 42.22 0.961 0.760 0 0.495
-- 09 oA 0.0115 31.62 0.756 6411 0 0.358
-0.97 0.03 ~ - oa ~ 0 ~
-1.0 0 it 0 0 0 0 0
-1 0 1.0 0 (85) o x 0 =
-0.1 0.9 1.33 798 26.4 3.37 0.150 0.540
-0.2 0.8 0.631 74.02 12.8 3.59 0.280 0.529
-0.4 0.6 0.264 63.10 5.79 3.99 0.497 0.484
-0.6 04 0.121 50.58 3.22 4.33 0.680 0415
-08 2. 0.0446 36.24 1.70 4.62 0.842 0.313
-0.9 0.1 0.0188 26.45 1.05 4.74 0.919 0.247
-0.97 0.03 0.00474 15.47 0514 4.82 0.973 0.152
-1.0 0 0 0 Qo 0 1.0 0
-(3) 0 1.0 ee (88.5) os a 0 ~
-6.1 09 431 81.62 85.6 3.43 0.173 0.523
-02 0.8 2.03 74.94 40.9 3.72 0.318 0.506
-04 0.6 0.779 6145 17.0 4.29 0.552 0.441
-0.6 04 0.319 48.14 8.10 4.85 0.730 0.365
-0.8 0.2 0.0923 33.31 3.26 S41 0.874 0.267
-09 Ol 0.0313 23.66 1.60 5.69 0.939 0.206
-0.97 0.03 0.00609 13.75 0.610 5.88 0.980 0.126
-1.0 0 0 0 ie) ~ 1.0 0
-(4) 0 1.0 en (89.5) oy n 0 -
-4
-0.1 09 16.2 82.31 322.0 3.45 0.180 0.515
-0.2 O08 757 FS AB 153.0 3.76 0.330 0.489
-O4 0.6 2.83 60.86 61.1 4.37 0.567 0.415
-0.6 04 1.07 46.72 26.7 4.99 0.746 0.334
-0.8 0.2 0.261 31.04 8.8 $.60 0.884 0.240
-09 0.1 0.0736 21.85 3.50 5.91 0.945 0.180
-0.97 0.03 0.0101 12.22 0.922 6.12 0.984 0.108
-1.0 0 0 0 0 _ 1.0 0
-
-5/5
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper 8008772125af
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS II B TECH (MECH), FINAL EXAM.pdf`
-- Printed on paper: exam date: 09/05/2015
-- Text: ocr (4 pages), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: III Semester: VI
-Academic Year: 2014-2015
-Subject: Design of Machine Elements-II
-Marks:
-Date: 09/05/2015 Time -
-
-Instructions:
-
-1Attempt any five Questions including question no.1 which is compulsory.
-2Answer to each new question should be started on a fresh page.
-
-3 Assume suitable data if required
-4 Figures in brackets on the right hand side indicate full marks
-
-5 Use of Design data book permitted
-
-Q1 Answer following questions (Any four) (4*3)
-i) Compare bevel gear with helical gear.
-ii) Explain the virtual number of teeth with reference to helical gear
-lii)What are the advantages and disadvantages of worm gear drives ?
-iv) State the assumptions in Reynold’s equation.
-
-vy) Explain with neat sketch main components of the rolling contact bearings?
-
-Q2 a) Explain why bevel factor is introduced in Lewis Equation for bevel gear ---(04)
-b) A pair of worm and worm wheel is designated as 3/60/10/6 ee
-
-The worm is transmitting 5 kW power at 720 rpm. The coefficient of
-
-Friction is 0.1 and normal pressure angle is 20° Determine
-
-i)Forces on worm
-
-ii)Efficiency of drive
-
-iii) Power lost in friction
---- page 2 ---
-Q3_ a) Draw the force diagram on the helical tooth and explain relationship
-
-between them.
-b) Following data is given for a pair of parallel helical gear made of steel--------- (08)
-i)Power transmitted = 10 kW (ii ) Speed of pinion = 1440 rpm
-ii) No teeth on pinion = 35 and No. teeth on gear = 70
-iv) Center distance = 285 mm (v) Normal module = 5mm
-vi)Normal pressure angle= 20° (vii) Hardness of gear = 300 BHN
-viii) Ultimate tensile strength = 600 N/mm? (ix) Width= 50mm
-x) Service factor=1.25
-Assume velocity factor accounts for dynamic load.
-Calculate: i) Helix angle
-ii) Beam strength
-iii) Wear strength
-iv) Factor of safety
-Q4 a) Why dynamic load is induced in gear teeth? Explain procedure of----------- (04)
-Designing for dynamic load using Buckingham equation
-b) A steel pinion(Sut= 600 N/mm”) with 20° full depth involute teeth is --------- (08)
-
-transmitting 10 kW power at 750 rpm from an electric motor.The starting
-torque of the motor is twice the rated torque. The number of teeth on pinion is —
-25while the module is 4mm.The face width is 45mm.Assume velocity factor
-
-accounts for dynamic load.and factor of safety= 1.5. Calculate
-
-i)Effective load on teeth
-
-ii) Forces on teeth
-
-iii) Bending stresses in gear teeth
-
-r
---- page 3 ---
-Q5 a) Explain the significance of --
-
-Q6
-
-(i)Sommerfield Number (ii) Coefficent of friction variable in design of
-
-(vii) Specific heat = 1.75 kJ/kg °C viii) Suply pressure = SMPa
-
-Sliding contact bearings.
-b) Following data is given for hydrostatic thrust bearing
-(i) Shaft speed =500 rpm (ii) Shaft diameter = 350 mm
-(iii) Recess diameter = 200 mm (iv) Film thickness= 0.15 mm
-
-(v) Viscocity of lubricant = 30cP (vi) Specific gravity=0.86
-
-Calculate
-
-i)Load carrying capacity of the bearing
-ii) Flow requirement
-
-iii)Pumping power loss
-
-iv) Frictional power loss
-
-v)Temperature rise
-
-a) Define (i) Static load capacity (ii) Dynamic load capacity:
-(iii)Life of bearing as applied to rolling contact bearing
-
-b) A single row deep groove ball bearing operates on the following
-work cycle
-
-i) radial load of 7500 N at 1000 fpm for 25% of time
-ii) radial load of 6000 N at 500 rpm for 50% of time
-iii) radial load of 7000 N at 600 rpm for remaining of the time
-
-If expected life of bearing is 10,000 hours Calculate dynamic load carrying capacity
-
-Of the*bearing
---- page 4 ---
-Q7 a) Explain different types of Rolling contact bearing failures
-
-b) Explain in detail with suitable examples concept of ‘Design considerations (04)
-of machined components ‘
-
-c ) With neat sketches explain bearing mountings design
 ````

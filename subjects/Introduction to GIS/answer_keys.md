@@ -10285,6 +10285,7 @@ outreach) before crimes occur.
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/MBATech_Computer_7047/Introduction to GIS/ANS_Introduction to GIS(702CI0I007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (25 pages), mean OCR confidence 34.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

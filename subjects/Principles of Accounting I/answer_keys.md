@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CSE_DS_7011/Principles of Accounting -I/ANS_Principles of Accounting -I(702TF0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2025
 - Text: mixed (10 pages), mean OCR confidence 37.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

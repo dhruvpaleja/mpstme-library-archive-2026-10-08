@@ -14,15 +14,15 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech IT 7001 | ANS_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Technology and Innovation for Marketing, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech IT 7001 | QP_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Computer 7032 | QP_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Mechanical 7031 | QP_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech IT 7001 | ANS_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Computer 7002 | QP_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Technology and Innovation for Marketing(702TM0I003)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH, B.TECH INTEGRATED, MBA TECH | Technology and Innovation for Marketing Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH, MBA TECH | Technology and Innovation for Marketing, Sem-VI, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper |  | B.TECH INTEGRATED | Technology and Innovation for Marketing Batch 2024-25 Final_4b4c64ba9c.pdf |

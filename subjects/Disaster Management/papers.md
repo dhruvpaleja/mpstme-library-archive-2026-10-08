@@ -1359,6 +1359,7 @@ example
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/DISASTER MANAGEMENT/Disaster Management 2025-26 Final Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 92.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1425,7 +1426,6 @@ the Disaster Response.
 Q3B | CO:2 | BL:3 | Prepare the checklist for 10 key considerations for 10
 Planning of Fire Drill in an Institution Building
 
-d FC AR RO a kk
 
 ~ -
 --- page 2 ---
@@ -3076,6 +3076,103 @@ co sO BL
 pace: 2. / 2.
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 3fe5172abc12
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/DISASTER MANAGEMENT/Disaster Management.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+SVKM’S NMIMS
+i, Li
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN ERIN
+
+Academic Year: 2022-2023 a; Vidliig
+Program/s: B. Tech, MBA Tech Year{I Semester: VI —
+Stream/s ; All Streams
+Subject: Disaster Management Time: 3 hrs (40:00amto 4:00 pm)
+Date:_04 / 05 / 2023 No. of Pages: 2
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+CO | BL | SO | Marks
+
+Ql | A | Discuss in detail with relevant examples types of Floods on basis | 1 2 | 4,7 | [5/20]
+of duration of onset of floods with relevant examples.
+
+QI | B | Discuss in detail the Significance and benefits of Preparedness 2 3 | 4,7 | [5/20]
+Measures for Disaster Management
+
+Q1 | C | Elaborate in brief any five components of an emergency kit for | 3 4 | 4,7 | [5/20]
+cyclone preparedness
+
+Q1 | D | Discuss in detail the how a cyclone is formed and resulted with | 1 3 4,7 | [5/20]
+neat sketch
+
+Q2 | A | Discuss in detail Disaster Reporting and Management hierarchy | 2 4 | 4,7 | [10/20]
+in India
+
+Q2 |B | Discuss in detail how GIS Application can help in Efficient 3 5 | 4,7 | [10/20]
+Flood Disaster Management citing relevant examples
+
+Q3 | A | Discuss in detail the causes and impacts of “Tamil Nadu 1 5 | 4,7 | [10/20]
+Tsunami”. Also Suggest any 4 measures of mitigation for
+reoccurrence of such disaster.
+--- page 2 ---
+CO | BL | SO | Marks
+
+Q3 Discuss any 10 Points that need to considered during the 3 5 | 4,7 | [10/20]
+Recovery Phase for a Cyclone Disaster
+
+Q4 Discuss in detail with a neat sketch Risk Mapping and explain in | 2 3 | 4,7 | [10/20]
+detail the four steps of Risk Mapping. Also elaborate in brief the
+significance of Risk Mapping
+
+Q4 Discuss in detail the any five mitigation measures for prevention | 3 5 | 4,7 | [10/20]
+of Droughts.
+
+Q5 Discuss in detail with any five general principles of Disaster 2 3 | 4,7 | [10/20]
+Management citing suitable examples for each of the principle.
+
+Q5 Discuss in detail the Cordon -Off Zones. Elaborate its 2 5 4,7 | [10/20]
+significance citing relevant examples in Disaster Management
+for Floods
+
+Q6 Elaborate in detail any 10 consideration that you shall consider | 2 6 | 4,7 | [10/20]
+while drafting a Training manual for Disaster Management in
+case of Cyclone
+
+Q6 Discuss in detail the role of media in Disaster Management 3 5 | 4,7 | [10/20]
+Citing Relevant Examples
+
+Q7 Prepare and discuss in brief a 10-pointer list to be considered in | 2 3 | 4,7 | [10/20]
+planning a Preparedness awareness program for area predicted
+for landslides.
+
+Q7 Elaborate the classification types for the Case Study of “Kerala | 1 4 | 4,7 | [10/20]
+
+Floods” and justify the same in detail
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 5f4315e5259c
 
 - Departments: Common (all branches)
@@ -3398,101 +3495,4 @@ characteristics, impact component and legal boundaries for the
 Case Study of “Nisarg Cyclone” and justify the same in detail
 
 @/@
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 3fe5172abc12
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/DISASTER MANAGEMENT/Disaster Management.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’S NMIMS
-i, Li
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN ERIN
-
-Academic Year: 2022-2023 a; Vidliig
-Program/s: B. Tech, MBA Tech Year{I Semester: VI —
-Stream/s ; All Streams
-Subject: Disaster Management Time: 3 hrs (40:00amto 4:00 pm)
-Date:_04 / 05 / 2023 No. of Pages: 2
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-CO | BL | SO | Marks
-
-Ql | A | Discuss in detail with relevant examples types of Floods on basis | 1 2 | 4,7 | [5/20]
-of duration of onset of floods with relevant examples.
-
-QI | B | Discuss in detail the Significance and benefits of Preparedness 2 3 | 4,7 | [5/20]
-Measures for Disaster Management
-
-Q1 | C | Elaborate in brief any five components of an emergency kit for | 3 4 | 4,7 | [5/20]
-cyclone preparedness
-
-Q1 | D | Discuss in detail the how a cyclone is formed and resulted with | 1 3 4,7 | [5/20]
-neat sketch
-
-Q2 | A | Discuss in detail Disaster Reporting and Management hierarchy | 2 4 | 4,7 | [10/20]
-in India
-
-Q2 |B | Discuss in detail how GIS Application can help in Efficient 3 5 | 4,7 | [10/20]
-Flood Disaster Management citing relevant examples
-
-Q3 | A | Discuss in detail the causes and impacts of “Tamil Nadu 1 5 | 4,7 | [10/20]
-Tsunami”. Also Suggest any 4 measures of mitigation for
-reoccurrence of such disaster.
---- page 2 ---
-CO | BL | SO | Marks
-
-Q3 Discuss any 10 Points that need to considered during the 3 5 | 4,7 | [10/20]
-Recovery Phase for a Cyclone Disaster
-
-Q4 Discuss in detail with a neat sketch Risk Mapping and explain in | 2 3 | 4,7 | [10/20]
-detail the four steps of Risk Mapping. Also elaborate in brief the
-significance of Risk Mapping
-
-Q4 Discuss in detail the any five mitigation measures for prevention | 3 5 | 4,7 | [10/20]
-of Droughts.
-
-Q5 Discuss in detail with any five general principles of Disaster 2 3 | 4,7 | [10/20]
-Management citing suitable examples for each of the principle.
-
-Q5 Discuss in detail the Cordon -Off Zones. Elaborate its 2 5 4,7 | [10/20]
-significance citing relevant examples in Disaster Management
-for Floods
-
-Q6 Elaborate in detail any 10 consideration that you shall consider | 2 6 | 4,7 | [10/20]
-while drafting a Training manual for Disaster Management in
-case of Cyclone
-
-Q6 Discuss in detail the role of media in Disaster Management 3 5 | 4,7 | [10/20]
-Citing Relevant Examples
-
-Q7 Prepare and discuss in brief a 10-pointer list to be considered in | 2 3 | 4,7 | [10/20]
-planning a Preparedness awareness program for area predicted
-for landslides.
-
-Q7 Elaborate the classification types for the Case Study of “Kerala | 1 4 | 4,7 | [10/20]
-
-Floods” and justify the same in detail
 ````

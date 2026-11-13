@@ -2,530 +2,6 @@
 
 Answer keys and model answers published on the portal, newest first.
 
-## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 3e293bd7d8fc
-
-- Departments: AI and Machine Learning, Artificial Intelligence
-- Programmes: BTech AI 7012, BTech AIML 7053
-- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AIML_7053/Applied Time Series Analysis/ANS_Applied Time Series Analysis(702DB0E007)_2025-2026.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: mixed (14 pages), mean OCR confidence 87.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-Program/s: B.Tech   Year: IV Semester: VII
-Stream/s : AI/AIML
-Subject: Applied Time Series Analysis   Time: 03 hrs (______to_______)
-Date:   /   / 2024   No. of Pages: 14
-Marks: 100
-Final Examination/Re-Examination ( Re-exam year)
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Q1
-Answer briefly:   [20]
-a.   Explain moving average method and its application in time sires analysis. Also
-write the equations for the moving average of odd order and then explain how even
-order moving average is cantered with the help of equation.
-CO-1 ;
-Component   Description   Marks
-SO-1 ;   [05]
-Concept & Application   Definition and practical uses 2
-BL-2
-Equation for Odd Order MA Formula and brief example   1.5
-Centering of Even Order MA Explanation with equation   1.5
-Total   5 Marks
-b.   For the given data compute the seasonal index of all the seasons (quarter).
-Year   Q1   Q2   Q3   Q4
-2003   72   68   80   70
-2004   76   70   82   74
-2005   74   66   84   80
-CO-1 ;   2006   76   74   84   78
-SO-1 ;   [05]
-BL-3
-The Data is collected quarterly.
-Yearly
-Year   Q1   Q2   Q3   Q4
-Avg
-2003   72   68   80   70   72.5
-1
---- page 2 ---
-2004   76   70   82   74   75.5
-2005   74   66   84   80   76
-2006   76   74   84   78   78
-Quarterly Avg   74.5   69.5   82.5   75.5   75.5
-0.9867   0.9205   1.0927
-Seasonal Index   55   3   15   1
-Table ----(2.5 M)
-Final calculation of Index ---(2.5M)
-c.   Define Autocorrelation Function (ACF) and Partial Autocorrelation Function
-(PACF). How are they useful in identifying ARMA models?
-Define Autocorrelation Function (ACF): +1.5 marks
-Define Partial Autocorrelation Function (PACF): 1.5 marks
-Usefulness in Identifying ARMA Models: +2 marks
-CO-3 ;
-Model   ACF Pattern   PACF Pattern
-SO-1 ;   [05]
-AR(p)   Tails off gradually Cuts off after lag p
-BL-2
-MA(q)   Cuts off after lag q   Tails off gradually
-ARMA(p, q)   Both ACF and PACF —
-tail off gradually
-Thus, by examining ACF and PACF plots, we can determine the order (p, q) of
-ARMA models:
-   Identify the cutoff in PACF → possible AR(p) order
-   Identify the cutoff in ACF → possible MA(q) order
-d.   Explain the steps involved in forecasting using ARIMA models in brief.
-The ARIMA (AutoRegressive Integrated Moving Average) model is used to
-forecast nonstationary time series by combining autoregressive (AR),
-differencing (I), and moving average (MA) components.
-CO-3 ;
-SO-1 ;   Steps in Forecasting Using ARIMA: (+1 marks for each steps)   [05]
-BL-2
-1. Model Identification:
-Plot the series to check trend or seasonality. Use differencing to make it
-stationary.
-ACF and PACF plots help identify suitable values of p (AR order), d
-(difference order), and q (MA order).
-2
---- page 3 ---
-2. Parameter Estimation:
-Estimate model coefficients using methods like Maximum Likelihood or
-Least Squares.
-3. Diagnostic Checking:
-Check residuals — they should be random (white noise).
-Use ACF of residuals or Ljung–Box test for verification.
-4. Forecasting:
-Use the fitted ARIMA(p, d, q) model to predict future values based on
-past data and errors.
-Forecasts include confidence intervals.
-5. Model Evaluation:
-Compare forecasts with actual data using accuracy measures such as
-MAPE or RMSE, and update the model if needed.
-Consider a time series
-X = [6 ,2, 1, 4, -1, 9, 7, 2, 0, 7]
-Compute the auto covariance and auto correlation coefficients up to lag 3. (between
-original time series and its lag1, lag2 and lag 3)   [10]
-[Note: You can use excel for the calculation. Write the formula used and solution
-of every step in the answer sheet].
-Formula – 3 M
-Table and calculation – 5 M
-Final Ans – 2 M
-xt-   xt-   xt-
-xbar   xbar   xbar
-(xt-   * xt-   * xt-   * xt-
-xt-   xt-1 -   xt-2 -   xt-3 -   xbar) 1 -   2 -   3 -
-Q2a   Xt   Xt-1   xt-2   xt-3   xbar   xbar   xbar   xbar   2   xbar   xbar   xbar
-CO-3;   6   2.3   5.29
-SO-2;   2   6   -1.7   2.3   2.89   -3.91
-BL-3   1   2   6   -2.7   -1.7   2.3   7.29   4.59   -6.21
-4   1   2   6   0.3   -2.7   -1.7   2.3   0.09   -0.81   -0.51   0.69
--1   4   1   2   -4.7   0.3   -2.7   -1.7   22.09   -1.41   12.69   7.99
--   -
-9   -1   4   1   5.3   -4.7   0.3   -2.7   28.09   24.91   1.59   14.31
--
-7   9   -1   4   3.3   5.3   -4.7   0.3   10.89   17.49   15.51   0.99
-2   7   9   -1   -1.7   3.3   5.3   -4.7   2.89   -5.61   -9.01   7.99
--   -
-0   2   7   9   -3.7   -1.7   3.3   5.3   13.69   6.29   12.21   19.61
--
-7   0   2   7   3.3   -3.7   -1.7   3.3   10.89   12.21   -5.61   10.89
-xbar   3.7
-3
---- page 4 ---
-SUM((x
-t-
-xbar)2)   104.1
-Varianc
-e of Xt   10.41
-SUM(xt
--xbar *
-xt-1 -   -
-xbar)   20.49
-SUM(xt
--xbar *
-xt-2 -   -
-xbar)   34.78
-Lag1_a   -
-utocova   2.276
-riance   67
-Lag2_a   -
-utocova   4.347
-riance   5
-Lag3_a   -
-utocova   0.767
-riance   14
-Lag1_a
-utocorre   -
-lation_c   0.218
-off   7
-Lag2_a
-utocorre   -
-lation_c   0.417
-off   63
-lag3_au   -
-tocorell   0.073
-ation   69
-A supermarket chain wants to forecast weekly demand for a popular product for
-the next three months. Historical sales data show a relatively stable pattern with
-small random fluctuations. Explain which exponential smoothing method would
-be most appropriate for generating forecasts for the upcoming weeks. Also,
-describe the terms/components included in the model, discuss the role of the
-smoothing parameter and how it can be determined, and explain how you would
-assess the accuracy of the forecasts.
-Q2b
-Choosing the Model Terms (3 Marks)
-CO-1;   Since the data show a stable pattern without trend or seasonality, the   [10]
-SO-1;
-appropriate model is Simple Exponential Smoothing (SES).
-BL-2
- The SES model assumes the series fluctuates around a constant level, with
-random noise.
- The model uses only a level component (no trend or seasonal terms).
- The formula for SES is:
-Y  t  1   Y t   ( 1   ) Y t  1   ( 1   ) 2 Y t  2     ( 1   ) n Y t  n  
-where:
-o α = smoothing parameter (0 < α ≤ 1)
-Role and Determination of the Smoothing Parameter (4 Marks)
-4
---- page 5 ---
- The smoothing parameter α determines how much weight is given to
-recent observations.
-o High α (close to 1): gives more weight to recent data → forecasts
-respond quickly to changes.
-o Low α (close to 0): gives more weight to older data → smoother
-forecasts, less responsive to short-term fluctuations.
- Choosing α:
-o   It can be selected subjectively based on how stable or volatile the
-data are.
-o More commonly, α is estimated statistically by minimizing an in-
-sample error measure such as Sum of Squared Errors (SSE) or
-Mean Squared Error (MSE).
- Once α is determined, forecasts for the next 12 weeks can be generated
-recursively using the model.
-Assessing Forecast Accuracy (3 Marks)
-   Forecast accuracy is evaluated using out-of-sample data or cross-
-validation.
- Common measures include:
-o Mean Absolute Error (MAE)
-o Root Mean Squared Error (RMSE)
-o Mean Absolute Percentage Error (MAPE)
-   Additionally, residual analysis is important: residuals (forecast errors)
-should resemble white noise (no pattern or autocorrelation).
- Comparing SES with alternative methods (e.g., Holt’s or moving averages)
-can confirm suitability.
-A company records monthly sales revenue (in Rupees 000s) and the corresponding
-advertising expenditure (in Rupees 000s) over six months as shown below:
-Month   Advertising (x)   Sales (y)
-1   10   25
-2   12   27
-3   15   32
-Q3a
-4   18   35
-CO-1;
-SO-2;   5   20   37   [10]
-BL-3   6   22   40
-i. Determine the value of slope and intercept for a linear regression model y=
-a+bx using Excel.
-ii. Predict the value of y at x =24 using this model.
-Determine the MSE for the model (show squared error for each row).
-Step (i) Determine slope and intercept using Excel (4 Marks)
-5
---- page 6 ---
-1. Slope (b):
-Use Excel formula: =SLOPE(range_y, range_x)
-b=1.24
-2. Intercept (a):
-Use Excel formula: =INTERCEPT(range_y, range_x)
-a= 12.5667
-Marks:
- Slope correct: 2 marks
-   Intercept correct: 2 marks
-Step (ii) Predict y at x = 24 (3 Marks)
-Regression equation:
-ypred= 12.5667+1.2435x
-ypred =12.5667+1.2435×24=42.4107
- Correct formula / substitution: 1 mark
- Correct forecast value: 2 marks
-Step (iii) Determine MSE (3 Marks)
-MSE = 0.1749
-Marks:
-   Correct squared errors: 1 mark
-   Correct sum / division by n: 1 mark
-   Correct final MSE: 1 mark
-x   y   Predicted y^   Error (e=y−y^)   Squared Error
-=12.5667+1.2435x   (e2)
-10   2 12.5667+1.2435(10)≈25.00 25−25.002=−0.0   (−0.002)2≈0.000
-5 2   02   0
-12   2 12.5667+1.2435(12)≈27.49 27−27.490=−0.4   (−0.490)2≈0.240
-7 0   90   1
-15   3 12.5667+1.2435(15)≈31.21 32−31.219=0.78   (0.781)2≈0.6100
-2 9   1
-18   3 12.5667+1.2435(18)≈34.94 35−34.948=0.05   (0.052)2≈0.0027
-5 8   2
-20   3 12.5667+1.2435(20)≈37.43 37−37.437=−0.4   (−0.437)2≈0.191
-7 7   37   0
-22   4 12.5667+1.2435(22)≈39.92 40−39.924=0.07   (0.076)2≈0.0058
-0 4   6
-6
---- page 7 ---
-Su   ∑e2≈1.0496
-m
-Derive the forecast equation for T+2 if ARIMA modelling at time stamp t is
-ARIMA(3,1,1)
-Q3b
-CO-3;   --------(5 M)   [10]
-SO-2;
-BL-4
---------(5M)
-Q4a   (i)   1. Determine the order of ARIMA model based on following graphs along with
-CO-3;   justification. Consider the original data is differenced 2 times.
-[07]
-SO-2;
-BL-4
-7
---- page 8 ---
-2. Suppose the differenced series shows an ACF that tails off gradually, while
-PACF cuts off sharply after lag 1. Propose the most likely ARIMA structure
-and justify.
-1.
-ARIMA ( 2,2,0) or (2,2,1) or (1,2,1) or (0,2,1)   2 mark
-Justification   3 marks
-2.
-2 marks
-PACF cutoff ⇒ AR process.
-Cutoff at lag 1 ⇒ AR(1).
-With differencing: ARIMA(1,1,0).
-(ii) Two ARIMA models are fitted to the same data:
- Model A: log-likelihood = –200, k=3.
- Model B: log-likelihood = –195, k=5.
-CO-3;   Compute AIC for both models and identify which is preferred.
-[03]
-SO-2;
-BL-3
-Model A: AIC = 400+6=406. (1 mark)
-Model B: AIC = 390+10=400. (1 mark)
-8
---- page 9 ---
-Model B preferred (lower AIC). (1mark)
-(i)   Define the concept of overfitting in time-series models. Give one example of how
-overfitting can occur when selecting ARIMA orders using ACF/PACF.
-Q4b
-CO-3;   Overfitting: including unnecessary parameters that fit noise rather than
-SO-2;   signal. (2 marks)   [05]
-BL-2   Example: choosing AR(4) when true process is AR(1) just because of
-small random spikes in ACF/PACF. (2 marks)
-Leads to poor out-of-sample forecasting. (1 mark)
-(ii)   In the context of time series regression with ARIMA errors, explain why
-minimizing the sum of squared ηt (one-step-ahead forecast errors) instead of the
-true residuals can lead to problems.
-CO-3;
-SO-1;   [05]
-BL-5
-(i)   Suppose you are analyzing a company's sales data for forecasting. The Augmented
-Dickey-Fuller (ADF) test results on this sales data are as follows:
-   Test statistic: -3.00
-   p-value: 0.07
-   Critical value at 5% significance: -2.95
-(a) Is the sales time series suitable for direct forecasting using ARIMA
-models based on these ADF results?
-(b) What steps would you recommend to prepare the data before applying
-Q5a   any forecasting model based on these ADF test findings?
-CO-3;
-[05]
-SO-2;   The ADF test statistic is -3.00 and the critical value at 5% significance is -
-BL-5   2.95. Since -3.00 < -2.95, the null hypothesis of a unit root
-(nonstationarity) is rejected. However, the p-value is 0.07, slightly above
-0.05, indicating borderline significance. (+2 marks)
-Conclusion: The series is likely stationary or borderline stationary but not
-definitively stationary. (+2 marks)
-Recommended steps:
-Due to borderline results, it is advisable to perform further differencing
-once and/or check stationarity visually (plots) and with other tests. Only
-after confirming stationarity should ARIMA or other forecasting models
-9
---- page 10 ---
-be applied. Nonstationary series need differencing to avoid spurious
-forecasting results. (+1 marks)
-(ii) Suppose you have residuals from an ARIMA model:
-Residuals = {0.4, -0.2, 0.1, -0.3, 0.2, -0.1, 0.5, -0.4, 0.2, 0.5}
-The sample autocorrelation coefficients at lag 1 and lag 2 are 0.3 and 0.2
-respectively. The critical value of the chi-square distribution at 5% significance
-level and 2 degrees of freedom is 5.99.
-1.Calculate the Ljung-Box Q statistic up to lag 2.
-2.Determine if the residuals are significantly uncorrelated at 5% significance level.
-3.State what this implies about the adequacy of the ARIMA model.
-CO-3;
-SO-2;   [05]
-BL-5   1.Calculating the Ljung-Box Q statistic:
-Q = 1.8 (+ 2 for correct formula and value)
-2.Compare Q=1.8 with critical value 5.99. Since 1.8<5.991, we fail to reject the null
-hypothesis. The residuals are not significantly auto correlated up to lag 2 at 5%
-significance. ( +2 Marks)
-d)Implication:
-This means the ARIMA model's residuals pass the Ljung-Box test for autocorrelation at
-lag 2, indicating a satisfactory model fit in terms of independence of residuals. ( +1 marks
-)
-Explain the components of an ARIMA model in detail. How does an ARIMA
-model differ from an ARMA model? Illustrate your answer with relevant points.
-Q5b
-CO-3;   Introduction (brief overview) + 1 marks
-Explanation of AR component   + 2 marks   [10]
-SO-1;
-BL-2   Explanation of I (differencing) component +2 marks
-Explanation of MA component   +2 marks
-Clear distinction between ARIMA and ARMA   +2 marks
-Conclusion (summary of significance)   +1 marks
-What is white noise for time series analysis? Explain the criteria for a time series
-process to be mentioned as white noise? Also, Considering multiplicative time
-series decomposition, describe all the steps of time series decomposition.
-Component   Description   Marks
-Q6a   Definition   of   white Clear   concept   with
-1.5
-CO-4;   noise   equation
-[10]
-SO-1;   Importance   in   time
-Need for white noise   0.5
-BL-2   series analysis
-Criteria for white noise   All criteria listed clearly 2
-Concept   of
-multiplicative   Formula + when to use   1
-decomposition
-10
---- page 11 ---
-Steps of multiplicative Clear   stepwise
-4
-decomposition   procedure with formulas
-Graphical
-Clear mention of plots   1
-representation note
-Total   10 Marks
-Explain the concept of bootstrapping and bagging? Also, Explain how
-bootstrapping and bagging may improve the forecasting accuracy?
-CO-4;   Section   Marks
-SO-1;   Bootstrapping concept, steps, and   [10]
-BL-2   mathematical representation   4
-Bagging concept, steps, and equation   3
-Improvement in forecasting accuracy
-3
-(comparison table + explanation)
-Total   10 Marks
-Consider the following hierarchical time series structure shown in figure below:
- Level 0: Total
- Level 1: Group A and Group B
- Level 2: Subgroups under A (AA, AB, AC) and under B (BA, BB)
-Q7a
-CO-4;
-[10]
-SO-2;
-BL-2   The forecast on the each level is
-𝑌̂Total,t = 1000 ,
-𝑌̂A,t = 650 , 𝑌̂B,t = 400 ,
-𝑌̂AA,t = 300, 𝑌̂AB,t = 250 , 𝑌̂AC,t = 150 , 𝑌̂AA,t = 200, 𝑌̂AB,t = 250
-1. Identify the incoherence at each level of the hierarchy. (3 marks)
-2. Apply the proportional reconciliation method to adjust forecasts at each
-level so that the final forecasts become coherent with the total of 1000. (7
-marks)
-11
---- page 12 ---
-Hierarchical Structure:
-* Level 0: Total
-* Level 1: Group A and Group B
-
-* Level 2: Subgroups under A (AA, AB, AC) and under B (BA, BB)
-
-Step 1: Non-Coherent Initial Forecasts
-Let's assume we have the following non-coherent forecasts:
-
-* Total Forecast:
-
-Yrrotale = 1000
-
-* Level 1 (Groups A and B):
-Yay = 650
-Ype = 400
-
-(Note: The sum of these forecasts is 650 + 400 = 1050, which exceeds the Total forecast of
-
-1000. Hence, they are non-coherent.)
-
-* Level 2 (Subgroups under A and B):
-
-*° Group A:
-Yau = 300
-Yapy = 250
-Yacu = 150
-
-(Sum = 300 + 250 + 150 = 700, which does not match Group A's forecast of 650.)
-
-* Group B:
-Yeas = 200
-Yops = 250
-
-(Sum = 200 + 250 = 450, which does not match Group B's forecast of 400.)
-
-Step 2: Proportion Calculation to Achieve Coherence
-
-1. Adjust Level 1 Forecasts (Group A and B)
-‘To make the forecasts coherent, we need to redistribute the forecasts for Groups A and B based on
-
-their initial proportions.
-
-Calculate Proportions for Level 1:
-
-+ The total initial forecast for Level 1 is 650 + 400 = 1050.
-Proportions:
-
-Ps 0.619
-
-Yau 400
-
-Ps © 0.381
-
-1050 1050
-Adjust Forecasts: Now, we adjust the forecasts for Group A and Group B to match the Total forecast
-of 1000:
-
-Yar = Ps * Yrovae = 0.619 x 1000 ~ 619
-
-Yau = Ps x Yrotate =
-
-381 x 1000 ~ 381
-
-12
---- page 13 ---
-------2M
------3M
-Give an example of complex seasonality and explain how such seasonality can be
-Q7b
-modelled? Also, Explain the Prophet model and how it is different from the
-CO-4;   [10]
-ARIMA class of models?
-SO-2;
-13
---- page 14 ---
-BL-2
-Section   Marks
-Example and explanation of complex
-3
-seasonality
-Methods to model complex seasonality 2
-Prophet   model   (structure   and
-3
-components)
-Comparison: Prophet vs ARIMA   2
-Total   10 Marks
-14
-````
-
 ## 2025-26 · Final-Exam · Sem 8 · Answer key · paper 2a0008f78545
 
 - Departments: Artificial Intelligence
@@ -1097,6 +573,7 @@ past values and past values of other variables.
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/MBATech_AI_7051/Applied Time Series Analysis/ANS_Applied Time Series Analysis(702DB0E007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (18 pages), mean OCR confidence 76.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1412,7 +889,6 @@ Now rearrange terms:
 Step 3: Convert into Time Domain
 
 Replace backshift terms with actual time values:
-ye — (1+ diya t+ (b1 — b2)yr-2 + boys = er + Orera + Boe1-2
 Rewriting:
 
 ye = (1+ di)y1 — (b1 — $2)y-2 — Goes + r+ O1era + B2€1-2
@@ -1421,7 +897,6 @@ Step 4: Two-Step Ahead Forecast Equation
 
 To forecast yr+2, write:
 
-yrs2 = (1+ d:)yrsi — (b1 — da) yr — doyr1 + ersa + Hers + borer
 
 Step 5: Take Expectations (Forecasting Step)
 
@@ -1640,4 +1115,528 @@ o Does not capture interaction between variables
 o Multivariate
 o Captures interdependence among variables
 ********** 18 **********
+````
+
+## 2023-24 · Final-Exam · Sem 7 · Answer key · paper 3e293bd7d8fc
+
+- Departments: AI and Machine Learning, Artificial Intelligence
+- Programmes: BTech AI 7012, BTech AIML 7053
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AIML_7053/Applied Time Series Analysis/ANS_Applied Time Series Analysis(702DB0E007)_2025-2026.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: mixed (14 pages), mean OCR confidence 87.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+Program/s: B.Tech   Year: IV Semester: VII
+Stream/s : AI/AIML
+Subject: Applied Time Series Analysis   Time: 03 hrs (______to_______)
+Date:   /   / 2024   No. of Pages: 14
+Marks: 100
+Final Examination/Re-Examination ( Re-exam year)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Q1
+Answer briefly:   [20]
+a.   Explain moving average method and its application in time sires analysis. Also
+write the equations for the moving average of odd order and then explain how even
+order moving average is cantered with the help of equation.
+CO-1 ;
+Component   Description   Marks
+SO-1 ;   [05]
+Concept & Application   Definition and practical uses 2
+BL-2
+Equation for Odd Order MA Formula and brief example   1.5
+Centering of Even Order MA Explanation with equation   1.5
+Total   5 Marks
+b.   For the given data compute the seasonal index of all the seasons (quarter).
+Year   Q1   Q2   Q3   Q4
+2003   72   68   80   70
+2004   76   70   82   74
+2005   74   66   84   80
+CO-1 ;   2006   76   74   84   78
+SO-1 ;   [05]
+BL-3
+The Data is collected quarterly.
+Yearly
+Year   Q1   Q2   Q3   Q4
+Avg
+2003   72   68   80   70   72.5
+1
+--- page 2 ---
+2004   76   70   82   74   75.5
+2005   74   66   84   80   76
+2006   76   74   84   78   78
+Quarterly Avg   74.5   69.5   82.5   75.5   75.5
+0.9867   0.9205   1.0927
+Seasonal Index   55   3   15   1
+Table ----(2.5 M)
+Final calculation of Index ---(2.5M)
+c.   Define Autocorrelation Function (ACF) and Partial Autocorrelation Function
+(PACF). How are they useful in identifying ARMA models?
+Define Autocorrelation Function (ACF): +1.5 marks
+Define Partial Autocorrelation Function (PACF): 1.5 marks
+Usefulness in Identifying ARMA Models: +2 marks
+CO-3 ;
+Model   ACF Pattern   PACF Pattern
+SO-1 ;   [05]
+AR(p)   Tails off gradually Cuts off after lag p
+BL-2
+MA(q)   Cuts off after lag q   Tails off gradually
+ARMA(p, q)   Both ACF and PACF —
+tail off gradually
+Thus, by examining ACF and PACF plots, we can determine the order (p, q) of
+ARMA models:
+   Identify the cutoff in PACF → possible AR(p) order
+   Identify the cutoff in ACF → possible MA(q) order
+d.   Explain the steps involved in forecasting using ARIMA models in brief.
+The ARIMA (AutoRegressive Integrated Moving Average) model is used to
+forecast nonstationary time series by combining autoregressive (AR),
+differencing (I), and moving average (MA) components.
+CO-3 ;
+SO-1 ;   Steps in Forecasting Using ARIMA: (+1 marks for each steps)   [05]
+BL-2
+1. Model Identification:
+Plot the series to check trend or seasonality. Use differencing to make it
+stationary.
+ACF and PACF plots help identify suitable values of p (AR order), d
+(difference order), and q (MA order).
+2
+--- page 3 ---
+2. Parameter Estimation:
+Estimate model coefficients using methods like Maximum Likelihood or
+Least Squares.
+3. Diagnostic Checking:
+Check residuals — they should be random (white noise).
+Use ACF of residuals or Ljung–Box test for verification.
+4. Forecasting:
+Use the fitted ARIMA(p, d, q) model to predict future values based on
+past data and errors.
+Forecasts include confidence intervals.
+5. Model Evaluation:
+Compare forecasts with actual data using accuracy measures such as
+MAPE or RMSE, and update the model if needed.
+Consider a time series
+X = [6 ,2, 1, 4, -1, 9, 7, 2, 0, 7]
+Compute the auto covariance and auto correlation coefficients up to lag 3. (between
+original time series and its lag1, lag2 and lag 3)   [10]
+[Note: You can use excel for the calculation. Write the formula used and solution
+of every step in the answer sheet].
+Formula – 3 M
+Table and calculation – 5 M
+Final Ans – 2 M
+xt-   xt-   xt-
+xbar   xbar   xbar
+(xt-   * xt-   * xt-   * xt-
+xt-   xt-1 -   xt-2 -   xt-3 -   xbar) 1 -   2 -   3 -
+Q2a   Xt   Xt-1   xt-2   xt-3   xbar   xbar   xbar   xbar   2   xbar   xbar   xbar
+CO-3;   6   2.3   5.29
+SO-2;   2   6   -1.7   2.3   2.89   -3.91
+BL-3   1   2   6   -2.7   -1.7   2.3   7.29   4.59   -6.21
+4   1   2   6   0.3   -2.7   -1.7   2.3   0.09   -0.81   -0.51   0.69
+-1   4   1   2   -4.7   0.3   -2.7   -1.7   22.09   -1.41   12.69   7.99
+-   -
+9   -1   4   1   5.3   -4.7   0.3   -2.7   28.09   24.91   1.59   14.31
+-
+7   9   -1   4   3.3   5.3   -4.7   0.3   10.89   17.49   15.51   0.99
+2   7   9   -1   -1.7   3.3   5.3   -4.7   2.89   -5.61   -9.01   7.99
+-   -
+0   2   7   9   -3.7   -1.7   3.3   5.3   13.69   6.29   12.21   19.61
+-
+7   0   2   7   3.3   -3.7   -1.7   3.3   10.89   12.21   -5.61   10.89
+xbar   3.7
+3
+--- page 4 ---
+SUM((x
+t-
+xbar)2)   104.1
+Varianc
+e of Xt   10.41
+SUM(xt
+-xbar *
+xt-1 -   -
+xbar)   20.49
+SUM(xt
+-xbar *
+xt-2 -   -
+xbar)   34.78
+Lag1_a   -
+utocova   2.276
+riance   67
+Lag2_a   -
+utocova   4.347
+riance   5
+Lag3_a   -
+utocova   0.767
+riance   14
+Lag1_a
+utocorre   -
+lation_c   0.218
+off   7
+Lag2_a
+utocorre   -
+lation_c   0.417
+off   63
+lag3_au   -
+tocorell   0.073
+ation   69
+A supermarket chain wants to forecast weekly demand for a popular product for
+the next three months. Historical sales data show a relatively stable pattern with
+small random fluctuations. Explain which exponential smoothing method would
+be most appropriate for generating forecasts for the upcoming weeks. Also,
+describe the terms/components included in the model, discuss the role of the
+smoothing parameter and how it can be determined, and explain how you would
+assess the accuracy of the forecasts.
+Q2b
+Choosing the Model Terms (3 Marks)
+CO-1;   Since the data show a stable pattern without trend or seasonality, the   [10]
+SO-1;
+appropriate model is Simple Exponential Smoothing (SES).
+BL-2
+ The SES model assumes the series fluctuates around a constant level, with
+random noise.
+ The model uses only a level component (no trend or seasonal terms).
+ The formula for SES is:
+Y  t  1   Y t   ( 1   ) Y t  1   ( 1   ) 2 Y t  2     ( 1   ) n Y t  n  
+where:
+o α = smoothing parameter (0 < α ≤ 1)
+Role and Determination of the Smoothing Parameter (4 Marks)
+4
+--- page 5 ---
+ The smoothing parameter α determines how much weight is given to
+recent observations.
+o High α (close to 1): gives more weight to recent data → forecasts
+respond quickly to changes.
+o Low α (close to 0): gives more weight to older data → smoother
+forecasts, less responsive to short-term fluctuations.
+ Choosing α:
+o   It can be selected subjectively based on how stable or volatile the
+data are.
+o More commonly, α is estimated statistically by minimizing an in-
+sample error measure such as Sum of Squared Errors (SSE) or
+Mean Squared Error (MSE).
+ Once α is determined, forecasts for the next 12 weeks can be generated
+recursively using the model.
+Assessing Forecast Accuracy (3 Marks)
+   Forecast accuracy is evaluated using out-of-sample data or cross-
+validation.
+ Common measures include:
+o Mean Absolute Error (MAE)
+o Root Mean Squared Error (RMSE)
+o Mean Absolute Percentage Error (MAPE)
+   Additionally, residual analysis is important: residuals (forecast errors)
+should resemble white noise (no pattern or autocorrelation).
+ Comparing SES with alternative methods (e.g., Holt’s or moving averages)
+can confirm suitability.
+A company records monthly sales revenue (in Rupees 000s) and the corresponding
+advertising expenditure (in Rupees 000s) over six months as shown below:
+Month   Advertising (x)   Sales (y)
+1   10   25
+2   12   27
+3   15   32
+Q3a
+4   18   35
+CO-1;
+SO-2;   5   20   37   [10]
+BL-3   6   22   40
+i. Determine the value of slope and intercept for a linear regression model y=
+a+bx using Excel.
+ii. Predict the value of y at x =24 using this model.
+Determine the MSE for the model (show squared error for each row).
+Step (i) Determine slope and intercept using Excel (4 Marks)
+5
+--- page 6 ---
+1. Slope (b):
+Use Excel formula: =SLOPE(range_y, range_x)
+b=1.24
+2. Intercept (a):
+Use Excel formula: =INTERCEPT(range_y, range_x)
+a= 12.5667
+Marks:
+ Slope correct: 2 marks
+   Intercept correct: 2 marks
+Step (ii) Predict y at x = 24 (3 Marks)
+Regression equation:
+ypred= 12.5667+1.2435x
+ypred =12.5667+1.2435×24=42.4107
+ Correct formula / substitution: 1 mark
+ Correct forecast value: 2 marks
+Step (iii) Determine MSE (3 Marks)
+MSE = 0.1749
+Marks:
+   Correct squared errors: 1 mark
+   Correct sum / division by n: 1 mark
+   Correct final MSE: 1 mark
+x   y   Predicted y^   Error (e=y−y^)   Squared Error
+=12.5667+1.2435x   (e2)
+10   2 12.5667+1.2435(10)≈25.00 25−25.002=−0.0   (−0.002)2≈0.000
+5 2   02   0
+12   2 12.5667+1.2435(12)≈27.49 27−27.490=−0.4   (−0.490)2≈0.240
+7 0   90   1
+15   3 12.5667+1.2435(15)≈31.21 32−31.219=0.78   (0.781)2≈0.6100
+2 9   1
+18   3 12.5667+1.2435(18)≈34.94 35−34.948=0.05   (0.052)2≈0.0027
+5 8   2
+20   3 12.5667+1.2435(20)≈37.43 37−37.437=−0.4   (−0.437)2≈0.191
+7 7   37   0
+22   4 12.5667+1.2435(22)≈39.92 40−39.924=0.07   (0.076)2≈0.0058
+0 4   6
+6
+--- page 7 ---
+Su   ∑e2≈1.0496
+m
+Derive the forecast equation for T+2 if ARIMA modelling at time stamp t is
+ARIMA(3,1,1)
+Q3b
+CO-3;   --------(5 M)   [10]
+SO-2;
+BL-4
+--------(5M)
+Q4a   (i)   1. Determine the order of ARIMA model based on following graphs along with
+CO-3;   justification. Consider the original data is differenced 2 times.
+[07]
+SO-2;
+BL-4
+7
+--- page 8 ---
+2. Suppose the differenced series shows an ACF that tails off gradually, while
+PACF cuts off sharply after lag 1. Propose the most likely ARIMA structure
+and justify.
+1.
+ARIMA ( 2,2,0) or (2,2,1) or (1,2,1) or (0,2,1)   2 mark
+Justification   3 marks
+2.
+2 marks
+PACF cutoff ⇒ AR process.
+Cutoff at lag 1 ⇒ AR(1).
+With differencing: ARIMA(1,1,0).
+(ii) Two ARIMA models are fitted to the same data:
+ Model A: log-likelihood = –200, k=3.
+ Model B: log-likelihood = –195, k=5.
+CO-3;   Compute AIC for both models and identify which is preferred.
+[03]
+SO-2;
+BL-3
+Model A: AIC = 400+6=406. (1 mark)
+Model B: AIC = 390+10=400. (1 mark)
+8
+--- page 9 ---
+Model B preferred (lower AIC). (1mark)
+(i)   Define the concept of overfitting in time-series models. Give one example of how
+overfitting can occur when selecting ARIMA orders using ACF/PACF.
+Q4b
+CO-3;   Overfitting: including unnecessary parameters that fit noise rather than
+SO-2;   signal. (2 marks)   [05]
+BL-2   Example: choosing AR(4) when true process is AR(1) just because of
+small random spikes in ACF/PACF. (2 marks)
+Leads to poor out-of-sample forecasting. (1 mark)
+(ii)   In the context of time series regression with ARIMA errors, explain why
+minimizing the sum of squared ηt (one-step-ahead forecast errors) instead of the
+true residuals can lead to problems.
+CO-3;
+SO-1;   [05]
+BL-5
+(i)   Suppose you are analyzing a company's sales data for forecasting. The Augmented
+Dickey-Fuller (ADF) test results on this sales data are as follows:
+   Test statistic: -3.00
+   p-value: 0.07
+   Critical value at 5% significance: -2.95
+(a) Is the sales time series suitable for direct forecasting using ARIMA
+models based on these ADF results?
+(b) What steps would you recommend to prepare the data before applying
+Q5a   any forecasting model based on these ADF test findings?
+CO-3;
+[05]
+SO-2;   The ADF test statistic is -3.00 and the critical value at 5% significance is -
+BL-5   2.95. Since -3.00 < -2.95, the null hypothesis of a unit root
+(nonstationarity) is rejected. However, the p-value is 0.07, slightly above
+0.05, indicating borderline significance. (+2 marks)
+Conclusion: The series is likely stationary or borderline stationary but not
+definitively stationary. (+2 marks)
+Recommended steps:
+Due to borderline results, it is advisable to perform further differencing
+once and/or check stationarity visually (plots) and with other tests. Only
+after confirming stationarity should ARIMA or other forecasting models
+9
+--- page 10 ---
+be applied. Nonstationary series need differencing to avoid spurious
+forecasting results. (+1 marks)
+(ii) Suppose you have residuals from an ARIMA model:
+Residuals = {0.4, -0.2, 0.1, -0.3, 0.2, -0.1, 0.5, -0.4, 0.2, 0.5}
+The sample autocorrelation coefficients at lag 1 and lag 2 are 0.3 and 0.2
+respectively. The critical value of the chi-square distribution at 5% significance
+level and 2 degrees of freedom is 5.99.
+1.Calculate the Ljung-Box Q statistic up to lag 2.
+2.Determine if the residuals are significantly uncorrelated at 5% significance level.
+3.State what this implies about the adequacy of the ARIMA model.
+CO-3;
+SO-2;   [05]
+BL-5   1.Calculating the Ljung-Box Q statistic:
+Q = 1.8 (+ 2 for correct formula and value)
+2.Compare Q=1.8 with critical value 5.99. Since 1.8<5.991, we fail to reject the null
+hypothesis. The residuals are not significantly auto correlated up to lag 2 at 5%
+significance. ( +2 Marks)
+d)Implication:
+This means the ARIMA model's residuals pass the Ljung-Box test for autocorrelation at
+lag 2, indicating a satisfactory model fit in terms of independence of residuals. ( +1 marks
+)
+Explain the components of an ARIMA model in detail. How does an ARIMA
+model differ from an ARMA model? Illustrate your answer with relevant points.
+Q5b
+CO-3;   Introduction (brief overview) + 1 marks
+Explanation of AR component   + 2 marks   [10]
+SO-1;
+BL-2   Explanation of I (differencing) component +2 marks
+Explanation of MA component   +2 marks
+Clear distinction between ARIMA and ARMA   +2 marks
+Conclusion (summary of significance)   +1 marks
+What is white noise for time series analysis? Explain the criteria for a time series
+process to be mentioned as white noise? Also, Considering multiplicative time
+series decomposition, describe all the steps of time series decomposition.
+Component   Description   Marks
+Q6a   Definition   of   white Clear   concept   with
+1.5
+CO-4;   noise   equation
+[10]
+SO-1;   Importance   in   time
+Need for white noise   0.5
+BL-2   series analysis
+Criteria for white noise   All criteria listed clearly 2
+Concept   of
+multiplicative   Formula + when to use   1
+decomposition
+10
+--- page 11 ---
+Steps of multiplicative Clear   stepwise
+4
+decomposition   procedure with formulas
+Graphical
+Clear mention of plots   1
+representation note
+Total   10 Marks
+Explain the concept of bootstrapping and bagging? Also, Explain how
+bootstrapping and bagging may improve the forecasting accuracy?
+CO-4;   Section   Marks
+SO-1;   Bootstrapping concept, steps, and   [10]
+BL-2   mathematical representation   4
+Bagging concept, steps, and equation   3
+Improvement in forecasting accuracy
+3
+(comparison table + explanation)
+Total   10 Marks
+Consider the following hierarchical time series structure shown in figure below:
+ Level 0: Total
+ Level 1: Group A and Group B
+ Level 2: Subgroups under A (AA, AB, AC) and under B (BA, BB)
+Q7a
+CO-4;
+[10]
+SO-2;
+BL-2   The forecast on the each level is
+𝑌̂Total,t = 1000 ,
+𝑌̂A,t = 650 , 𝑌̂B,t = 400 ,
+𝑌̂AA,t = 300, 𝑌̂AB,t = 250 , 𝑌̂AC,t = 150 , 𝑌̂AA,t = 200, 𝑌̂AB,t = 250
+1. Identify the incoherence at each level of the hierarchy. (3 marks)
+2. Apply the proportional reconciliation method to adjust forecasts at each
+level so that the final forecasts become coherent with the total of 1000. (7
+marks)
+11
+--- page 12 ---
+Hierarchical Structure:
+* Level 0: Total
+* Level 1: Group A and Group B
+
+* Level 2: Subgroups under A (AA, AB, AC) and under B (BA, BB)
+
+Step 1: Non-Coherent Initial Forecasts
+Let's assume we have the following non-coherent forecasts:
+
+* Total Forecast:
+
+Yrrotale = 1000
+
+* Level 1 (Groups A and B):
+Yay = 650
+Ype = 400
+
+(Note: The sum of these forecasts is 650 + 400 = 1050, which exceeds the Total forecast of
+
+1000. Hence, they are non-coherent.)
+
+* Level 2 (Subgroups under A and B):
+
+*° Group A:
+Yau = 300
+Yapy = 250
+Yacu = 150
+
+(Sum = 300 + 250 + 150 = 700, which does not match Group A's forecast of 650.)
+
+* Group B:
+Yeas = 200
+Yops = 250
+
+(Sum = 200 + 250 = 450, which does not match Group B's forecast of 400.)
+
+Step 2: Proportion Calculation to Achieve Coherence
+
+1. Adjust Level 1 Forecasts (Group A and B)
+‘To make the forecasts coherent, we need to redistribute the forecasts for Groups A and B based on
+
+their initial proportions.
+
+Calculate Proportions for Level 1:
+
++ The total initial forecast for Level 1 is 650 + 400 = 1050.
+Proportions:
+
+Ps 0.619
+
+Yau 400
+
+Ps © 0.381
+
+1050 1050
+Adjust Forecasts: Now, we adjust the forecasts for Group A and Group B to match the Total forecast
+of 1000:
+
+Yar = Ps * Yrovae = 0.619 x 1000 ~ 619
+
+Yau = Ps x Yrotate =
+
+381 x 1000 ~ 381
+
+12
+--- page 13 ---
+------2M
+-----3M
+Give an example of complex seasonality and explain how such seasonality can be
+Q7b
+modelled? Also, Explain the Prophet model and how it is different from the
+CO-4;   [10]
+ARIMA class of models?
+SO-2;
+13
+--- page 14 ---
+BL-2
+Section   Marks
+Example and explanation of complex
+3
+seasonality
+Methods to model complex seasonality 2
+Prophet   model   (structure   and
+3
+components)
+Comparison: Prophet vs ARIMA   2
+Total   10 Marks
+14
 ````

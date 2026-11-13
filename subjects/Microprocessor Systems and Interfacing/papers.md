@@ -771,101 +771,7 @@ Te 1; PSW Register of 8051 -microcontroller [5]
 Page 2 of 2
 ````
 
-## 2021-22 · Re-Exam · Sem 4 · paper 1bd1257593eb
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MICROPROCESSOR SYSTEMS AND INTERFACING/Microprocessor Systems and interfacing, Sem-IV, Re-Exam, Year 2021-22.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 June 2022
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’s NMIMS hs pee
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2021-22
-
-Programme: B. Tech (Mechatronics) Year: II Semester: IV
-
-biject: Microprocessor Systems and Interfacing
-sani’ mee ° Marks: 100
-
-Time: 10.00 am to 1.00 pm
-
-* Date: 10 June 2022 ;
-$ “ Durations: 3 (Hrs)
-i No. of Pages: _O2
-r% Re-Examination (2021-22)   _
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Answer briefly
-With the help of suitable example, explain the following instructions | [5]
-CO-1,2; SO-2 ; 4,
-BL3 of 8086 with example
-(i) PUSH (ii) INC (iii) CMPSB (iv) XOR (v) DIV
-Se “1; | B. | Write short notes on Robotics and embedded control. [5]
-CO-1;SO-1; | C. | Illustrate the use of protected mode available in 80386| [5]
-BL- 2 microprocessors.
-CO-1;S0-1; | D. | A programmer wants to create delay using the concept of timers in | [5]
-BL-2 8051. Show the registers that must be programmed for this purpose.
-Q.2
-= _ he What do you mean by the basic organization of computer? [5]
-CO-1,2; SO-2; | B. | List all the assembler directives of 8086-microprocessor and explain [5]
-rm BL-2 any three of them with suitable example.
-CO-1; SO-1; C. | What are the important features of Pentium processor? Also explain | [10]
-BL-3 the pipelining concept in detail.
-
-Page 1 of 2
---- page 2 ---
-Q.3
-
-cot SO AS Compare Von-Neumann and Harvard architecture. [5]
-CO-1; SO-1; B. | If any external device is willing to utilize the resources of 8051 then | [5]
-BL-3 which concept it must utilize? Explain with example.
-C. | Draw the pin diagram of 8086-microprocessor and explain the | [10]
-CO-1; SO-1; ; coe :
-maximum mode pins in detail.
-BL- 2 ;
-Q.4
-— | A Show how the microcontroller is different from microprocessor? [5]
-2 SO-1- 15
-co oo L a Explain the concept of DMA data transfer using microprocessor. a
-CO-1; SO-1; C. | Draw the pin diagram of 8051-microcontroller and explain any six | [10]
-BL-2 pins in detail.
-Q.5
-CO-1; SO-1; A) | Draw the architecture of 8086-microprocessor. How does it achieve | [10]
-BL-2 the speed improvement? Discuss in detail.
-B) | Draw the interfacing diagram of 8051 with 16*2 LCD. Write an | [10]
-CO-3; SO-2; . " 7 : SN
-assembly language program to display "NMIMS" continuously on
-BL-6
-the LCD screen.
-Q.6
-CO-1,2; SO-2; | A) | Write and assembly language program for 8086-microprocessor to | [10]
-BL-6 find the average of 0234H and 0111H.
-CO-3; SO-2; B) | What are assembler directives? Discuss the assembler directives of | [10]
-BL-6 8051-microcontroller with suitable example.
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 9b70c426bcbb
+## 2021-22 · Exam not stated · Sem 4 · paper 9b70c426bcbb
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -956,6 +862,100 @@ l= ales find the largest number from the following array of numbers:
 
 CO-3:SO-2; | B) | Discuss the addressing modes of 8051-microcontroller and explain | [10]
 BL-6 each with suitable example.
+
+Page 2 of 2
+````
+
+## 2021-22 · Re-Exam · Sem 4 · paper 1bd1257593eb
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MICROPROCESSOR SYSTEMS AND INTERFACING/Microprocessor Systems and interfacing, Sem-IV, Re-Exam, Year 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 June 2022
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’s NMIMS hs pee
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2021-22
+
+Programme: B. Tech (Mechatronics) Year: II Semester: IV
+
+biject: Microprocessor Systems and Interfacing
+sani’ mee ° Marks: 100
+
+Time: 10.00 am to 1.00 pm
+
+* Date: 10 June 2022 ;
+$ “ Durations: 3 (Hrs)
+i No. of Pages: _O2
+r% Re-Examination (2021-22)   _
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Answer briefly
+With the help of suitable example, explain the following instructions | [5]
+CO-1,2; SO-2 ; 4,
+BL3 of 8086 with example
+(i) PUSH (ii) INC (iii) CMPSB (iv) XOR (v) DIV
+Se “1; | B. | Write short notes on Robotics and embedded control. [5]
+CO-1;SO-1; | C. | Illustrate the use of protected mode available in 80386| [5]
+BL- 2 microprocessors.
+CO-1;S0-1; | D. | A programmer wants to create delay using the concept of timers in | [5]
+BL-2 8051. Show the registers that must be programmed for this purpose.
+Q.2
+= _ he What do you mean by the basic organization of computer? [5]
+CO-1,2; SO-2; | B. | List all the assembler directives of 8086-microprocessor and explain [5]
+rm BL-2 any three of them with suitable example.
+CO-1; SO-1; C. | What are the important features of Pentium processor? Also explain | [10]
+BL-3 the pipelining concept in detail.
+
+Page 1 of 2
+--- page 2 ---
+Q.3
+
+cot SO AS Compare Von-Neumann and Harvard architecture. [5]
+CO-1; SO-1; B. | If any external device is willing to utilize the resources of 8051 then | [5]
+BL-3 which concept it must utilize? Explain with example.
+C. | Draw the pin diagram of 8086-microprocessor and explain the | [10]
+CO-1; SO-1; ; coe :
+maximum mode pins in detail.
+BL- 2 ;
+Q.4
+— | A Show how the microcontroller is different from microprocessor? [5]
+2 SO-1- 15
+co oo L a Explain the concept of DMA data transfer using microprocessor. a
+CO-1; SO-1; C. | Draw the pin diagram of 8051-microcontroller and explain any six | [10]
+BL-2 pins in detail.
+Q.5
+CO-1; SO-1; A) | Draw the architecture of 8086-microprocessor. How does it achieve | [10]
+BL-2 the speed improvement? Discuss in detail.
+B) | Draw the interfacing diagram of 8051 with 16*2 LCD. Write an | [10]
+CO-3; SO-2; . " 7 : SN
+assembly language program to display "NMIMS" continuously on
+BL-6
+the LCD screen.
+Q.6
+CO-1,2; SO-2; | A) | Write and assembly language program for 8086-microprocessor to | [10]
+BL-6 find the average of 0234H and 0111H.
+CO-3; SO-2; B) | What are assembler directives? Discuss the assembler directives of | [10]
+BL-6 8051-microcontroller with suitable example.
 
 Page 2 of 2
 ````

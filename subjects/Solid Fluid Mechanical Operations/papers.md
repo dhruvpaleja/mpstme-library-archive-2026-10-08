@@ -703,68 +703,7 @@ ed
 6
 ````
 
-## 2013-14 · Final-Exam · Sem 4 · paper a7e5871e33d9
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/SOLID FLUID MECHANICAL OPERATIONS/SOLID FLUID MECHANICAL OPERATIONS 2013-14 Final exam.pdf`
-- Printed on paper: exam date: 12/05/2014
-- Text: ocr (1 page), mean OCR confidence 88.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CHEMICAL) Year: II Semester: IV
-
-Academic Year: 2013-14
-
-Subject :Solid Fluid Mechanical Operations Sate ay
-f oN we,
-Marta ~
-Date : 12/05/2014 Tim O ware tor5,00 py }
-
-Final Examination
-
-‘dae ee }
-CH
-NOTE:
-
-1. Question no one is compulsory. Solve any 4 questions from remaining.
-2. Figures to right in bracket indicate marks.
-3. Assumptions made must be clearly indicated.
-
-Qi Explain: (20)
-1) Screen Effectiveness and Screen Capacity
-2) Cake Filtration and deep bed filtration
-3) Hammer Mill and Impactor
-4) Spray granulation and Prilling
-5) Clarification and Thickening
-
-Q2A_ Explain in brief the construction and working of Hammer Mill (10)
-Q2B_ Express mathematically all the crushing laws. (10)
-Q3A_ Derive expression for the effectiveness of the screen. (8)
-Q3B_ Explain the working of trommels and its arrangement. (8)
-
-Q3C_ A screen with an aperture of 6 mesh BSS is treating a feed with 66% of +6mesh and (4)
-producing an oversize fraction containing 89% of +6 mesh particles if undersize
-fraction contains 2% of +6mesh particles. Calculate the effectiveness of screen.
-
-Q4A_ Explain the factors responsible for filtration equipment selection. (5)
-Q4B_ Explain Helical screw mixer (5)
-Q4C_ What is filter aid? Give its importance? (5)
-Q4D_ Explain classification of filtration operation. (5)
-Q5A_ Explain Rotary filter in detail with neat labeled diagram (10)
-Q5B_ Describe Fluid energy Mill. (10)
-Q6A_ Explain Jigging with diagram (10)
-Q6B Briefly describe Centrifuges and its application (10)
-Q7A_ Describe the thickener used for water treatment in ETP. (10)
-Q7B_ Explain different types of cyclone used in chemical Industry (10)
-
-i]t
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper dcb8c4dc00c9
+## 2014-15 · Re-Exam · Sem 4 · paper dcb8c4dc00c9
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -844,7 +783,7 @@ Q7 Write short note on: (20)
 system.
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 866832098eea
+## 2014-15 · Re-Exam · Sem 4 · paper 866832098eea
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -900,7 +839,127 @@ the batch sedimentation curve and explain it briefly.
 4/4.
 ````
 
-## 2012-13 · Re-Exam · Trim 5 · paper beb1601f24b3
+## 2013-14 · Final-Exam · Sem 4 · paper a7e5871e33d9
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/SOLID FLUID MECHANICAL OPERATIONS/SOLID FLUID MECHANICAL OPERATIONS 2013-14 Final exam.pdf`
+- Printed on paper: exam date: 12/05/2014
+- Text: ocr (1 page), mean OCR confidence 88.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CHEMICAL) Year: II Semester: IV
+
+Academic Year: 2013-14
+
+Subject :Solid Fluid Mechanical Operations Sate ay
+f oN we,
+Marta ~
+Date : 12/05/2014 Tim O ware tor5,00 py }
+
+Final Examination
+
+‘dae ee }
+CH
+NOTE:
+
+1. Question no one is compulsory. Solve any 4 questions from remaining.
+2. Figures to right in bracket indicate marks.
+3. Assumptions made must be clearly indicated.
+
+Qi Explain: (20)
+1) Screen Effectiveness and Screen Capacity
+2) Cake Filtration and deep bed filtration
+3) Hammer Mill and Impactor
+4) Spray granulation and Prilling
+5) Clarification and Thickening
+
+Q2A_ Explain in brief the construction and working of Hammer Mill (10)
+Q2B_ Express mathematically all the crushing laws. (10)
+Q3A_ Derive expression for the effectiveness of the screen. (8)
+Q3B_ Explain the working of trommels and its arrangement. (8)
+
+Q3C_ A screen with an aperture of 6 mesh BSS is treating a feed with 66% of +6mesh and (4)
+producing an oversize fraction containing 89% of +6 mesh particles if undersize
+fraction contains 2% of +6mesh particles. Calculate the effectiveness of screen.
+
+Q4A_ Explain the factors responsible for filtration equipment selection. (5)
+Q4B_ Explain Helical screw mixer (5)
+Q4C_ What is filter aid? Give its importance? (5)
+Q4D_ Explain classification of filtration operation. (5)
+Q5A_ Explain Rotary filter in detail with neat labeled diagram (10)
+Q5B_ Describe Fluid energy Mill. (10)
+Q6A_ Explain Jigging with diagram (10)
+Q6B Briefly describe Centrifuges and its application (10)
+Q7A_ Describe the thickener used for water treatment in ETP. (10)
+Q7B_ Explain different types of cyclone used in chemical Industry (10)
+
+i]t
+````
+
+## 2013-14 · Re-Exam · Sem 4 · paper 5932f42799b8
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/SOLID FLUID MECHANICAL OPERATIONS/SOLID FLUID MECHANICAL OPERATONS BATCH 20131-14 RE EXAM.pdf`
+- Printed on paper: exam date: 03/07/2014
+- Text: ocr (1 page), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CHEMICAL) Year: II Semester: IV
+
+Academic Year: 2013-14
+
+Batch:2013-2014
+Subject : Solid Fluid Mechanical Operations M
+Date :03/07/2014 Du
+
+Re-Examination
+
+NOTE:
+1. Question no one is compulsory. Solve any 4 questions from remaining.
+2. Figures to right in bracket indicate marks.
+3. Assumptions made must be clearly indicated.
+
+Q1 Write short note on (any four): (20)
+1) Jaw Crusher
+2) Mixer Granulator
+3) Bulk Density and Angle of Repose
+4) Jet sizer
+5) Plate and Frame filter press
+
+Q2A_ Write briefly about different types of roll crushers available for chemical plant (10)
+operations
+Q2B differentiate between crushing and grinding operations (5)
+
+Q2C A certain crusher accepts feed material having a volume —surface mean diameter of (5)
+19mm and gives a product of volume —surface mean diameter of 5 mm .the power
+required to crush 15 tones per hour is 7.5 kw. What will be the power consumption if
+the capacity is reduced to 12 tones per hour?
+
+Q3A Compare ideal screen and actual screen in detail. (6)
+Q3B_ Explain following terms: 1) mesh number, 2) screen aperture, 3) sphericity, (8)
+4) shape factor.
+Q3C_ Explain in brief the vibrating screens used in chemical industry with diagram. (6)
+Q4A_ Explain floatation and its importance. (10)
+Q4B_ Describe Pug Mill in detail. (5)
+Q4C_ Explain coagulation and Flocculation (5)
+Q5A_ Explain Rotary filter in detail with neat labeled diagram (15)
+Q5B_ What are requirements of Septum? (5)
+Q6A_ Describe the thickener used for water treatment in ETP. (10)
+Q6B_ Explain rake classifier. (10)
+Q7A_ Explain Jigging with diagram (15)
+Q7B_ Explain wet cyclone. (5)
+*- oe
+````
+
+## 2013-14 · Re-Exam · Trim 5 · paper beb1601f24b3
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -1012,6 +1071,86 @@ x SE et
 2/2.
 ````
 
+## 2012-13 · Exam not stated · Trim 5 · paper 62e322a157a8
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/SOILD FUILD MACHANICAL OPERATIONS/Scan 0011.pdf`
+- Printed on paper: exam date: 11/02/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management & Engi
+Programme: MBA (Tech) -CHEMICAL   Year:   I1 Trimester:
+Academic Year : 2012-2013
+Subject:   SOLID FLUID MECHANICAL   Marks:
+OPERATIONS   Time:
+Date:   11/02/2013
+Final - Examination
+NW'l'E:
+1. Question no. one is compulsory. Solve any 4 questions from remaining.
+2. Figures to right in bracket indicate marks.
+3. Assumptions made must be clearly indicated.
+Q 1 A State true or False & correct the sentence if false.   (10)
+1   Jet sizers are tanks of rectangular CIS, fitted with screen placed a short distance below
+overflow in horizontal or slightly inclined position.
+2   Auger conveyor is light weight, portable conveyor, designed to run at relatively high
+speed of 200 - 2000 rpm and to handle free flowing material having non abrasive
+characteristics.
+3   Tumbling blender is made from two cylinders joined to form a V - shape
+4   In Prilling Tower operations, it consists of spraying droplets of melt into the top of a
+tower and allowing these to fall against a countercurrent stream of air.
+5   Rake in the thickener is used to increase the rate of sedimentation.
+6   Fluidized energy mill is used for disruption of lightly bonded clusters or
+agglomerates.
+7   The Pug Mills have horizontal troughs in which rotate central shafts with attached
+mixing blades of bar, rod, paddle, and other designs. The rotating blades throw
+material forward and to the center to achieve a kneading, mixing action.
+8   Thickener has purpose is to remove relatively small quantity of fine suspended
+particles and produce a clear effluent.
+9   In cyclone the particulate is removed by centrifugal force as well as by contact with
+water.
+1   10   Trommels are electrically operated screen consisting of a fast rotating perforated
+cylinder with its axis slightly inclined to horizontal.
+Q 1 B   Fill in the blanks
+1   is used when long drying time is required.
+a) Rotary Drum b) Disc Filter c) Belt Filters d) Vertical plate Filter
+2   The large balls are at the entry end and thus operate on the feed material, whilst the
+smallballs come into contact with thehaterial immediately before it is discharged it
+happens in
+a) Tube Mill b) Rod Mill c) Ball Mill d) Compartment Mill
+3   operate by compression, impact and shear & not only
+compression as smooth rolls.
+a) Jaw Crusher b) Toothed roll crusher c) Hammer mill d) Smooth roll crusher
+4   is one of the measuring techniques used to measure size of
+particles.
+a) Sedimentation b) Floatation c) Grinding d) centrifugal separation
+5   states that the work required for crushing a given mass of material is
+--- page 2 ---
+constant for the same reduction ratio, i.e. the ratio of the initial particle size to the
+final particle size.
+a) Rittinger's Law b) Kick's Law c) Work Index d) Bond's Law
+Q 1 C Answer any two
+1   Give importance of Size reduction.
+2   Enlist different types of filtration operations.
+3   What is the effectiveness and capacity of a screen?
+Q 2 A Explain the working and construction of Gyratory crusher.
+Q 2 B Describe in detail the working, construction and diagram of ball mill.
+Q 3 A Explain different types for floatation techniques
+Q 3 B Explain the use of Filter Aid?
+Q 3 C Describe a bucket elevator.
+Q 4 A Explain the working and construction of sedimentation tank with diagram
+Q 4 B Describe the working principle and construction of Jigs with diagram
+Q 5 A Explain any two conveyors with diagram.
+Q 5 B Describe the working principle and construction of Centrifuge with diagram.
+1   Q 6 A What are the requirements of septum?
+Q 6 B Explain any three methods of size enlargement with diagram.
+Q 7 A Explain the working and construction of Rotary filter with diagram.
+Q 7 B Define & Explain:
+1) Spericity 2) Sintering 3) Prilling 4) Thickening
+````
+
 ## 2012-13 · Re-Exam · Trim 5 · paper f1e89939982f
 
 - Departments: Chemical
@@ -1072,6 +1211,7 @@ I. Gyratory crusher
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/SOILD FUILD MACHANICAL OPERATIONS/SOLID FLUID MECHANICAL OPERATIONS 2011-2012.pdf`
 - Printed on paper: exam date: 07/02/2012
 - Text: ocr (2 pages), mean OCR confidence 86.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _ SVEM’s NMIMS .
@@ -1140,8 +1280,6 @@ Q3A__ Describe the plate and frame filter press. (10)
 
 Yr
 --- page 2 ---
-~z2 i. te VIE nt been AL Liltentian marhaniom
-WO LApidil aiieiCie Ly pos Gs ciniGuon Meenaniom, (in)
 
 Q4A_ Describe the construction, working of Centrifuge with diagram. (16)
 Q4B Explain the working and construction of Gyratory crusher with diagram. (10)
@@ -1196,6 +1334,78 @@ Q7B Explain the principle and mechanism of sedimentation. (10)
 oy
 ````
 
+## 2011-12 · Exam not stated · Trim 5 · paper 7f4a04cef710
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/SOILD FUILD MACHANICAL OPERATIONS/SOLID FLUID MECHANICAL OPERATIONS BATCH 2010-110001.pdf`
+- Printed on paper: exam date: 21/06/2012
+- Text: ocr (1 page), mean OCR confidence 89.6
+
+````text
+-— SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA Tech - Chemical Year: II Trimester: V
+Academic Year : 2011-2012
+
+Batch: 2010-11 att a
+Subject: Solid Fluid Mechanical Operations Marks: /# .*100 \
+Time: ff 2.00 pm To 5.00:pm
+Date: 21/06/2012 Duratigny | 3 hrs. '
+Re - Examination \
+Note:
+
+1) Question no. 1 is compulsory; attempt any 4 questions from remaining q
+2) Assume suitable data wherever necessary.
+3) Numbers in Right indicate marks.
+
+Q1A_ Define and explain: (Any five) (10)
+1) Efficiency of screens
+2) Angle of repose
+3) Flocculation
+4) Volume surface Mean Diameter
+5) Shape Factor
+6) Hindered settling.
+
+Q1B_ Draw the labelled diagrams of: (any two) (10)
+1) Rotary Filter
+2) Jigs
+3) Jet sizer
+Q2A_ Explain any two size reduction equipment with labelled diagrams. (15)
+Q2B Explain with formula Bond’s Law and work Index (5)
+Q3A_ Describe the working and construction of plate and frame filter press. (10)
+Q3B_ Explain the working and construction of Basket Centrifuge. (10)
+} Q4 Compare: (Any Five) (20)
+
+1) Pressure and Vacuum Filtration
+2) Ideal and actual screens
+
+3) Ball Mill and Hammer Mill
+
+4) Jaw crusher and Gyratory Crusher
+5) Cyclone separator and Centrifuge
+6) Prilling and spray granulation
+
+Q SIA Explain principle of sedimentation with labelled diagram. (8)
+
+. QS5B_ What is Cyclone separator and how it works? : (8)
+
+Qe (How auger conveyor works? (4)
+
+.Q6A_ Why is screening used in Chemical Industry? Explain with examples. (5)
+Q6B_ Explain any two industrially used screens. (10)
+
+Q6C_ What do you understand by Mesh number? How are screens identified by (5)
+mesh number?
+
+Q7A_ What is the effect on filtration if the cake is (a) compressible and (b) (6)
+incompressible.
+Q7B_ Howis operation in thickener carried out and why is it used in Industry? (8)
+
+Q7C_ What makes size enlargement an important operation in Chemical Industry? —_ (6)
+````
+
 ## 2011-12 · Re-Exam · Trim 5 · paper b67ac1c828e5
 
 - Departments: Chemical
@@ -1203,6 +1413,7 @@ oy
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/SOILD FUILD MACHANICAL OPERATIONS/SOLID FLUID MECHANICAL OPERATIONS BATCH 2010-2011 RE EXAM 2011-2012.pdf`
 - Printed on paper: exam date: 06/02/2012
 - Text: ocr (2 pages), mean OCR confidence 93.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1246,7 +1457,6 @@ a) Filtration b) Clarification c) size reduction d) Storage of solids
 catalyst supports.
 } a) True b) False
 7 Which one of this standard screens are not generally used.
-a) ISS b) ASTM c) Tyler d) IMM
 8 Size reduction of solids does not take place based on the following technique
 a) compression b) impact c) agglomeration d) attrition
 9 The energy required to reduce unit mass of material from an infinite particle size to
@@ -1338,6 +1548,7 @@ Write Short note on (any 4):
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/SOILD FUILD MACHANICAL OPERATIONS/SOLID FLUID MECHANICAL OPERATIONS BATCH 2011-12 RE EXAM0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 21/06/2012
 - Text: ocr (2 pages), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1413,7 +1624,6 @@ a) Rotary Drum b) Disc Filter c) Belt Filters d) Vertical plate Filter
 a}.
 --- page 2 ---
 3 Which one of this standard screens are not generally used.
-a) ISS b) ASTM c) Tyler d) IMM
 
 4 In a typical froth flotation cell pine oil / Cresol are used as
 a) collectors .b) modifiers c) frothing agents d) none of these.
@@ -1572,78 +1782,6 @@ Mesh Dpi Xi Avg Dpi
 150 0.1040 0.0041 0.1255
 200 0.0740 0.0031 0.0890
 pan 0.0075 0.0370
-````
-
-## 2010-11 · Exam not stated · Trim 5 · paper 7f4a04cef710
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/SOILD FUILD MACHANICAL OPERATIONS/SOLID FLUID MECHANICAL OPERATIONS BATCH 2010-110001.pdf`
-- Printed on paper: exam date: 21/06/2012
-- Text: ocr (1 page), mean OCR confidence 89.6
-
-````text
--— SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA Tech - Chemical Year: II Trimester: V
-Academic Year : 2011-2012
-
-Batch: 2010-11 att a
-Subject: Solid Fluid Mechanical Operations Marks: /# .*100 \
-Time: ff 2.00 pm To 5.00:pm
-Date: 21/06/2012 Duratigny | 3 hrs. '
-Re - Examination \
-Note:
-
-1) Question no. 1 is compulsory; attempt any 4 questions from remaining q
-2) Assume suitable data wherever necessary.
-3) Numbers in Right indicate marks.
-
-Q1A_ Define and explain: (Any five) (10)
-1) Efficiency of screens
-2) Angle of repose
-3) Flocculation
-4) Volume surface Mean Diameter
-5) Shape Factor
-6) Hindered settling.
-
-Q1B_ Draw the labelled diagrams of: (any two) (10)
-1) Rotary Filter
-2) Jigs
-3) Jet sizer
-Q2A_ Explain any two size reduction equipment with labelled diagrams. (15)
-Q2B Explain with formula Bond’s Law and work Index (5)
-Q3A_ Describe the working and construction of plate and frame filter press. (10)
-Q3B_ Explain the working and construction of Basket Centrifuge. (10)
-} Q4 Compare: (Any Five) (20)
-
-1) Pressure and Vacuum Filtration
-2) Ideal and actual screens
-
-3) Ball Mill and Hammer Mill
-
-4) Jaw crusher and Gyratory Crusher
-5) Cyclone separator and Centrifuge
-6) Prilling and spray granulation
-
-Q SIA Explain principle of sedimentation with labelled diagram. (8)
-
-. QS5B_ What is Cyclone separator and how it works? : (8)
-
-Qe (How auger conveyor works? (4)
-
-.Q6A_ Why is screening used in Chemical Industry? Explain with examples. (5)
-Q6B_ Explain any two industrially used screens. (10)
-
-Q6C_ What do you understand by Mesh number? How are screens identified by (5)
-mesh number?
-
-Q7A_ What is the effect on filtration if the cake is (a) compressible and (b) (6)
-incompressible.
-Q7B_ Howis operation in thickener carried out and why is it used in Industry? (8)
-
-Q7C_ What makes size enlargement an important operation in Chemical Industry? —_ (6)
 ````
 
 ## 2010-11 · Exam not stated · Trim 5 · paper b58b22c81624
@@ -2329,6 +2467,7 @@ a ae x a,
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/SOILD FUILD MACHANICAL OPERATIONS/2006-2007(19).pdf`
 - Printed on paper: exam date: 27/12/06
 - Text: ocr (2 pages), mean OCR confidence 91.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Narsee Monjee Institute of Management & Higher Studies, Mumbai-400056
@@ -2381,7 +2520,6 @@ conveying:
 
 viii) Which one of these standard screens are not generally used:
 
-(a) ISS (b) ASTM __ (c) Tyler (d) IMM
 
 ix)Plate & frame filter press is not available with the following working option:
 
@@ -2458,6 +2596,7 @@ ARE
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/SOILD FUILD MACHANICAL OPERATIONS/2005-2006(22).pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 87.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Nee ToL Se
@@ -2474,7 +2613,6 @@ through a 14 mesh screen. According to the screen analysis below,
 calculate (a) the total load to the crusher (b) the effectiveness of the
 
 screen.
-Tyler | Feed | Undersize | Oversize
 Mesh
 
 4 14.3 20
@@ -2600,143 +2738,4 @@ iquid is 20.32 cm. Assuming that the flow of
 inal flow of the filtrate, what is the rate of
 
 5)
-````
-
-## Year not stated · Exam not stated · Trim 5 · paper 62e322a157a8
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/SOILD FUILD MACHANICAL OPERATIONS/Scan 0011.pdf`
-- Printed on paper: exam date: 11/02/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management & Engi
-Programme: MBA (Tech) -CHEMICAL   Year:   I1 Trimester:
-Academic Year : 2012-2013
-Subject:   SOLID FLUID MECHANICAL   Marks:
-OPERATIONS   Time:
-Date:   11/02/2013
-Final - Examination
-NW'l'E:
-1. Question no. one is compulsory. Solve any 4 questions from remaining.
-2. Figures to right in bracket indicate marks.
-3. Assumptions made must be clearly indicated.
-Q 1 A State true or False & correct the sentence if false.   (10)
-1   Jet sizers are tanks of rectangular CIS, fitted with screen placed a short distance below
-overflow in horizontal or slightly inclined position.
-2   Auger conveyor is light weight, portable conveyor, designed to run at relatively high
-speed of 200 - 2000 rpm and to handle free flowing material having non abrasive
-characteristics.
-3   Tumbling blender is made from two cylinders joined to form a V - shape
-4   In Prilling Tower operations, it consists of spraying droplets of melt into the top of a
-tower and allowing these to fall against a countercurrent stream of air.
-5   Rake in the thickener is used to increase the rate of sedimentation.
-6   Fluidized energy mill is used for disruption of lightly bonded clusters or
-agglomerates.
-7   The Pug Mills have horizontal troughs in which rotate central shafts with attached
-mixing blades of bar, rod, paddle, and other designs. The rotating blades throw
-material forward and to the center to achieve a kneading, mixing action.
-8   Thickener has purpose is to remove relatively small quantity of fine suspended
-particles and produce a clear effluent.
-9   In cyclone the particulate is removed by centrifugal force as well as by contact with
-water.
-1   10   Trommels are electrically operated screen consisting of a fast rotating perforated
-cylinder with its axis slightly inclined to horizontal.
-Q 1 B   Fill in the blanks
-1   is used when long drying time is required.
-a) Rotary Drum b) Disc Filter c) Belt Filters d) Vertical plate Filter
-2   The large balls are at the entry end and thus operate on the feed material, whilst the
-smallballs come into contact with thehaterial immediately before it is discharged it
-happens in
-a) Tube Mill b) Rod Mill c) Ball Mill d) Compartment Mill
-3   operate by compression, impact and shear & not only
-compression as smooth rolls.
-a) Jaw Crusher b) Toothed roll crusher c) Hammer mill d) Smooth roll crusher
-4   is one of the measuring techniques used to measure size of
-particles.
-a) Sedimentation b) Floatation c) Grinding d) centrifugal separation
-5   states that the work required for crushing a given mass of material is
---- page 2 ---
-constant for the same reduction ratio, i.e. the ratio of the initial particle size to the
-final particle size.
-a) Rittinger's Law b) Kick's Law c) Work Index d) Bond's Law
-Q 1 C Answer any two
-1   Give importance of Size reduction.
-2   Enlist different types of filtration operations.
-3   What is the effectiveness and capacity of a screen?
-Q 2 A Explain the working and construction of Gyratory crusher.
-Q 2 B Describe in detail the working, construction and diagram of ball mill.
-Q 3 A Explain different types for floatation techniques
-Q 3 B Explain the use of Filter Aid?
-Q 3 C Describe a bucket elevator.
-Q 4 A Explain the working and construction of sedimentation tank with diagram
-Q 4 B Describe the working principle and construction of Jigs with diagram
-Q 5 A Explain any two conveyors with diagram.
-Q 5 B Describe the working principle and construction of Centrifuge with diagram.
-1   Q 6 A What are the requirements of septum?
-Q 6 B Explain any three methods of size enlargement with diagram.
-Q 7 A Explain the working and construction of Rotary filter with diagram.
-Q 7 B Define & Explain:
-1) Spericity 2) Sintering 3) Prilling 4) Thickening
-````
-
-## Year not stated · Re-Exam · Sem 4 · paper 5932f42799b8
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/SOLID FLUID MECHANICAL OPERATIONS/SOLID FLUID MECHANICAL OPERATONS BATCH 20131-14 RE EXAM.pdf`
-- Printed on paper: exam date: 03/07/2014
-- Text: ocr (1 page), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CHEMICAL) Year: II Semester: IV
-
-Academic Year: 2013-14
-
-Batch:2013-2014
-Subject : Solid Fluid Mechanical Operations M
-Date :03/07/2014 Du
-
-Re-Examination
-
-NOTE:
-1. Question no one is compulsory. Solve any 4 questions from remaining.
-2. Figures to right in bracket indicate marks.
-3. Assumptions made must be clearly indicated.
-
-Q1 Write short note on (any four): (20)
-1) Jaw Crusher
-2) Mixer Granulator
-3) Bulk Density and Angle of Repose
-4) Jet sizer
-5) Plate and Frame filter press
-
-Q2A_ Write briefly about different types of roll crushers available for chemical plant (10)
-operations
-Q2B differentiate between crushing and grinding operations (5)
-
-Q2C A certain crusher accepts feed material having a volume —surface mean diameter of (5)
-19mm and gives a product of volume —surface mean diameter of 5 mm .the power
-required to crush 15 tones per hour is 7.5 kw. What will be the power consumption if
-the capacity is reduced to 12 tones per hour?
-
-Q3A Compare ideal screen and actual screen in detail. (6)
-Q3B_ Explain following terms: 1) mesh number, 2) screen aperture, 3) sphericity, (8)
-4) shape factor.
-Q3C_ Explain in brief the vibrating screens used in chemical industry with diagram. (6)
-Q4A_ Explain floatation and its importance. (10)
-Q4B_ Describe Pug Mill in detail. (5)
-Q4C_ Explain coagulation and Flocculation (5)
-Q5A_ Explain Rotary filter in detail with neat labeled diagram (15)
-Q5B_ What are requirements of Septum? (5)
-Q6A_ Describe the thickener used for water treatment in ETP. (10)
-Q6B_ Explain rake classifier. (10)
-Q7A_ Explain Jigging with diagram (15)
-Q7B_ Explain wet cyclone. (5)
-*- oe
 ````

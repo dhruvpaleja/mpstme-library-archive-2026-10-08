@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/CIVIL/SEM X/Advanced Geotechnical Engineering/Advanced Geotechnical Engineering Batch 2023-24 Final.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (4 pages), mean OCR confidence 79.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -78,7 +79,6 @@ SO-1; and height of the embankment are 30° and 10 m respectively. Determine the
 Bl factor of safety using Taylor’s Stability Numbers Table.
 SE ; f
 ah ‘ o 3 19° a he is roe r)
-aes Se a a a a
 eye oer | eee
 «w (0.156) | @.110) 0.075 Cd 0.025 0.002 4
 as (0145) _| (06) | 0.070 (0023) = = Ss
@@ -661,6 +661,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/ADVANCED GEOTECHNICAL ENGINEERING/Advanced Geotechnical engg, Re-exam 2021-22.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2022
 - Text: ocr (3 pages), mean OCR confidence 86.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -725,7 +726,6 @@ vertical stress under regular area.
 q { 2nm im? +17 +1 } ne 4 +2 vn mn? +n? +1 |
 
 C,=4— ae Ty 7 TD TT
-7 da] laren sltarn | one tn] m+n lam
 
 1/3
 --- page 2 ---

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/INTRODUCTION TO PHILOSOPHY/Introduction to Philosophy, Sem-VII, Final Exam 2024-25.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -82,7 +83,6 @@ BL-3 Ist order or 2nd order cognitive activity.
 CO-3; Demonstrate the difference between inductive and deductive arguments [5]
 BL-2 using examples. =
 CO-3; Provide a detailed explanation of Descartes' statement “Dubito ergo [10]
-BL-4 cogito, cogito ergo sum”
 Q6 Answer questions carefully and precisely [20]
 CO-2; Interpret the case of the yacht Mignonette (1884) and apply the [10]
 BL-5 consequentialist and categorical positions to the moral dilemma.

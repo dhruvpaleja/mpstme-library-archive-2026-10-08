@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AIML_7053/Big Data Analytics/ANS_Big Data Analytics(702DB0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (18 pages), mean OCR confidence 39.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -717,6 +718,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_DS_7052/Big Data Analytics/ANS_Big Data Analytics(702DB0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (18 pages), mean OCR confidence 39.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4876,6 +4878,7 @@ Most similar user to User1: User3
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/MBATech_Computer_7047/Big Data Analytics/ANS_Big Data Analytics(702DB0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (18 pages), mean OCR confidence 39.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

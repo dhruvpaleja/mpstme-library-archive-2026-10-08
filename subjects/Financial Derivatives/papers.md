@@ -1,6 +1,6 @@
 # Financial Derivatives: question papers in full
 
-68 unique papers · 2022-23 to 2025-26 · Computer Engineering, Common (all branches), Data Science, Information Technology, Artificial Intelligence, Cyber Security, Mechanical, AI and Data Science
+67 unique papers · 2022-23 to 2025-26 · Computer Engineering, Common (all branches), Data Science, Information Technology, Artificial Intelligence, Cyber Security, Mechanical, AI and Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -4955,6 +4955,7 @@ Required:
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/FINANCIAL DERIVATIVES/Financial Derivatives Batch 2025-26 Re Exam.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 87.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (CO
@@ -5157,7 +5158,6 @@ vy of-carry model.
 2. If the actual futures price in the market is 15,300, determine whether
 an arbitrage opportunity exists.
 
-FIC GR FH a kk ae a
 --- page 4 ---
 3. Suggest the appropriate arbitrage strategy and explain the steps.
 
@@ -6366,126 +6366,6 @@ disadvantages to various participants.
 (20)
 ````
 
-## 2023-24 · Final-Exam · Sem 5 · paper ee18d9e2323a
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/FINANCIAL DERIVATIVES/Financial Inst,Markets,Instruments & Services ,Final 23-24.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Program/s: B. Tech/MBA Tech Year: III Semester: V
-
-Stream/s: All Applicable Streams
-
-Subject: Financial Institutions, Markets, Instruments and Services Time: 3 hrs (2:00 pm to 5:00 pm)
-Date:_05/12/ 2023 No. of Pages:2
-
-Marks: 100 ,
-
-Final Exam (2023-2024)
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use. :
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql Answer briefly [20]
-
-Co-1:s0.2: | * The financial system is important organ of the Indian economy. Mention
-
-BL-1 , > the key role played by the Indian financial system towards the ; [05]
-development of the Indian economy. .
-
-CO-1; SO-3; | b. | RBI is the vital regulatory body in India due to the different functions [05]
-
-BL-2 performed by it. Explain the above-mentioned sentence.
-
-C0-2: so0-7: | & Financial services are vital towards the development of financial markets. :
-
-BL-2 , > Enlist the Fee-based financial services in India that have contributed [05]
-
-towards the growth of transactions in financial markets.
-CO-1; SO-2; | d. | Securitisation has revlutionalise the financial instruments. Explain the
-
-[05]
-BL-1 meaning and process of securitisation.
-Qz a. | Non-Banking Finance Companies (NBFCs) are known as shadow banks.
-CO-1; SO-2; Explain the concept of ‘shadow banks’ and discuss the main types of [10]
-BL-2 NBFCs. =
-CO-1: §0-3: b. | Primary markets and secondary markets are vital parts of Indian capital
-BL3 > > markets. Explain how the inter relation in both the markets have led to [10]
-increase in volume in Indian capital markets.
-Q3 .
-Defend how different money market instruments in India have been used er
-cn SO-7; | a. by institutional investors to meet their investment objectives.
---- page 2 ---
-CO-1; SO-3; | >- | State important features of Hire Purchase and explain its important rie [10]
-BL-1 calculations.
-
-ai a, | Forfaiting is very beneficial in international transactions. Explain the [10]
-
-CO-2; SO-2; benefits involved in forfaiting. -
-
-BL-1
-
-CO-1: $0-2: b. | There is popularity of venture capital as a source of financing among the
-
-BL-4 > > start-ups. State the factors that have contributed towards its growing [10]
-popularity.
-
-Q5 a. | Assess the concept of plastic money. List the benefits of plastic money to [10]
-
-CO-1; SO-4; different parties concerned.
-
-BL-1
-
-CO-1: SO-2: | b. | Derivatives are used as a hedging tool for protection against risk. Explain
-
-BL- 1 , the statement by mentioning the different derivative instruments that are [10]
-used as a strong hedging tool. :
-
-a. | Developmental Financial Institutions (DFIs) in India have played a vital
-
-Q6 : . : [10]
-
-CO-1: SO-4: role in accelerating the progress of the finance sector after independence.
-
-BL-2 > Outline the roles placed by the key DFIs in brief to validate the above-
-mentioned statement. ;
-
-CO-1: §0-7: b. | NABARD have played a vital role in development of rural India. Validate
-
-BL2 , , the statement by mentioning the functions of NABARD towards rural [10]
-development in India.
-
-Q7 3. | Women in India are contributing towards the growth of India. Evaluate the | [10]
-
-CO-1-; SO-2; above statement by mentioning the role of microfinance in women
-
-BL-4 empowerment in India.
-
-CO-1-. SO-7: b. | Different investors observe the differences in stock market and debt
-BL-4 , > market while investing. Explain the statement by stating the differentiation [10]
-
-between stock market and debt market. re
-````
-
 ## 2023-24 · Final-Exam · Sem 6 · paper 94102c0d1ea6
 
 - Departments: Common (all branches)
@@ -7211,6 +7091,150 @@ the numerical part first and then the theory can be written on that basis)
 (15 marks)
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 86d11630d1ca
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Financial Derivatives/Financial Derivatives.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 93.4
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+ENGINEERING /SCHOOL OF TECHNOLOGY MANAGEMENT&
+ENGINEERING. VILE PARLE. MUMBAI.MAHARASHTRA.
+
+Academic year 2022- 2023.
+Programme: B. TECH. ( All Streams)
+year Ill. SEMESTER VI. SUBJECT:- FINANCIAL DERIVATIVES.(O.E)
+
+DATE: 05 05] 2023 MARKS:100
+TIME: (2.100 Pm to 5 :00Pm)
+DURATION: THREE HOURS (3 Hours) No. of Pages: 4
+
+Semester End FINAL EXAMINATION.
+
+INSTRUCTIONS: All the candidates should read carefully all the
+instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+1. Question Number one is compulsory.
+
+2. Out of remaining questions attempt any four .
+
+3. In all Five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable Data wherever necessary.
+
+Q.1. Answer briefly all four questions. (all questions of 5 marks 20
+each) This is compulsory.
+
+Co1.:SO2:BL a | The options and Futures market provide great 05
+
+Understanding |. | opportunity to Traders/speculators/Arbitragers-How?
+
+Co1.S03.BL. b | Derivatives have its own advantages and disadvantages | 05
+
+Evaluating . | For different participants of market - Discuss
+--- page 2 ---
+CO1.;SO4:BL C. | The Derivatives are depending upon the underlying 05
+
+Remembering assets — What is the need for Excellent spot market?
+CO1:SO5: BL d | Nobel Prize winners have contributed towards the 05
+creating . | Derivatives market — What they have done??
+
+Q.2. A | Forward rate and forward market is OTC market but 10
+CO1:SO6 Futures and options are Exchange Traded — Elucidate.
+BL-Analysing
+
+Q.2. B | Tejal buys a European Call on stock ABC/premRs.3/ 10
+CO1:SO-2: BL. Exercise price Rs.50. Calculate Intrinsic value and P&L
+understanding. for the probable closing prices on the date of expiry
+
+from Rs.46 to Rs.55,with graphical presentation.
+
+Q.3. A | Moneyness of options provide some clue to the 10
+CO.1: SO3: BL Traders of the derivatives market — What is moneyness
+Evaluating of options? Giver examples and explain?
+
+Q.3. B | CMP is Rs.98 and the strike price for call option is 10
+CO.1: SO5:BL- Rs.100/= with a premium of Rs.3/=. Calculate the net
+
+Understanding. cash flow (P&L) and draw the payoff diagram for the
+probabilities starting from Rs.96,97,98....up to
+
+Rs.105/=
+Q.4. A | Mr. Balti takes a short position ona call option of ABC | 10
+CO2.SO02.BL . | chemicals Ltd when the CMP is Rs.102/= and the
+Analysis exercise price is Rs.100/= with a premium of
+
+rs.3/=Calculate the cash flow(P&L) when the expiry
+date prices have the probabilities from 96,97.... Up to
+Rs.105.Draw the Pay-off diagram for the same.(writer)
+
+Q.4. B | Subha rag shorts a call option of XYL Itd at an exercise | 10
+CO.1: S03, BL: |. | price ofRs.500/= with premium of Rs.30.On the date of
+Understanding expiry the price having probability to close from
+
+Rs.460, 470,....up to Rs.550/=.Draw pay off diagram
+too.
+--- page 3 ---
+Q.5. A | Siddharth writes a Put option of RIL Itd with Exercise 10
+
+CO.1.S03:BL:Ev |. | price of Rs.100/= with premium of Rs.3/=.On expiry
+
+aluating the probability of closing is from Rs.96,97,98... up to
+Rs.105/=.Draw the pay off diagram for the same.
+
+Q.5. B | Mandira buys European Put option on stock MNP Ltd,
+CO.1.:S05. BL. |. | at Strike price,Rs.50/=prem Rs.3/= Calculate the
+Understanding Intrinsic value and P&L for the spot prices on the date | 10
+
+of expiry (probabilities) starting from Rs.46 up to
+Rs.55. Graphical presentation is also required.
+
+Q.6. A | Various models are found in the Derivatives markets 10
+Co.1. sO 3.BL- from different contributors. What models you are
+Analysis
+
+aware? Write a few about them ((OR)) find the covered
+interest parity arbitrage for spot GBP/AUD 1.7810 spot
+rate and 3 month forward rate is 1.7890. AUD Interest
+rate is 3%.p.a. and GBP interest rate is 0.80%p.a.( 1
+
+million capital to be assumed).
+
+TCS is an exporter as well as an importer. Cmp 10
+Q.6. B Rs.50.0000/51.0000 for one usd. The one year forward
+CO.1.SO5. BL. rate is to be quoted to TCS for both exports and
+Creating imports. ( The quotation above is denoting the market
+--- page 4 ---
+buying rate and market selling rate) As an exporter he
+wants to sell at 52.3709.What is your opinion? As an
+importer he wants to buy at 52.3809.
+
+What is your view on this??By finding the forward
+rates for both rates for one year you can give your
+conclusion.( India inf.10%p.a. USA 5%p.a.)
+
+Q7 Find the forward rate as per Irving Fisher theory, with
+CO-1.S0.5. BL. proof when the spot rate is 98.9750 INR for one USD
+and the Indian inflation is 6.95% and the USA Inflation
+is 2.95%.Also find 333 day Forwards also.( you are
+supposed to find out the One year forward and give
+the proof for that and then again you have to find the
+333" day forward again and give the proof for that
+too.)
+
+Evaluating 20
+````
+
 ## 2022-23 · Final-Exam · Sem 6 · paper 202e7b7ea1a5
 
 - Departments: Common (all branches)
@@ -7900,148 +7924,4 @@ theory proof for both forward rates, the interest
 differentials to be given as proof.
 
 20
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 86d11630d1ca
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Financial Derivatives/Financial Derivatives.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 93.4
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-ENGINEERING /SCHOOL OF TECHNOLOGY MANAGEMENT&
-ENGINEERING. VILE PARLE. MUMBAI.MAHARASHTRA.
-
-Academic year 2022- 2023.
-Programme: B. TECH. ( All Streams)
-year Ill. SEMESTER VI. SUBJECT:- FINANCIAL DERIVATIVES.(O.E)
-
-DATE: 05 05] 2023 MARKS:100
-TIME: (2.100 Pm to 5 :00Pm)
-DURATION: THREE HOURS (3 Hours) No. of Pages: 4
-
-Semester End FINAL EXAMINATION.
-
-INSTRUCTIONS: All the candidates should read carefully all the
-instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-1. Question Number one is compulsory.
-
-2. Out of remaining questions attempt any four .
-
-3. In all Five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume Suitable Data wherever necessary.
-
-Q.1. Answer briefly all four questions. (all questions of 5 marks 20
-each) This is compulsory.
-
-Co1.:SO2:BL a | The options and Futures market provide great 05
-
-Understanding |. | opportunity to Traders/speculators/Arbitragers-How?
-
-Co1.S03.BL. b | Derivatives have its own advantages and disadvantages | 05
-
-Evaluating . | For different participants of market - Discuss
---- page 2 ---
-CO1.;SO4:BL C. | The Derivatives are depending upon the underlying 05
-
-Remembering assets — What is the need for Excellent spot market?
-CO1:SO5: BL d | Nobel Prize winners have contributed towards the 05
-creating . | Derivatives market — What they have done??
-
-Q.2. A | Forward rate and forward market is OTC market but 10
-CO1:SO6 Futures and options are Exchange Traded — Elucidate.
-BL-Analysing
-
-Q.2. B | Tejal buys a European Call on stock ABC/premRs.3/ 10
-CO1:SO-2: BL. Exercise price Rs.50. Calculate Intrinsic value and P&L
-understanding. for the probable closing prices on the date of expiry
-
-from Rs.46 to Rs.55,with graphical presentation.
-
-Q.3. A | Moneyness of options provide some clue to the 10
-CO.1: SO3: BL Traders of the derivatives market — What is moneyness
-Evaluating of options? Giver examples and explain?
-
-Q.3. B | CMP is Rs.98 and the strike price for call option is 10
-CO.1: SO5:BL- Rs.100/= with a premium of Rs.3/=. Calculate the net
-
-Understanding. cash flow (P&L) and draw the payoff diagram for the
-probabilities starting from Rs.96,97,98....up to
-
-Rs.105/=
-Q.4. A | Mr. Balti takes a short position ona call option of ABC | 10
-CO2.SO02.BL . | chemicals Ltd when the CMP is Rs.102/= and the
-Analysis exercise price is Rs.100/= with a premium of
-
-rs.3/=Calculate the cash flow(P&L) when the expiry
-date prices have the probabilities from 96,97.... Up to
-Rs.105.Draw the Pay-off diagram for the same.(writer)
-
-Q.4. B | Subha rag shorts a call option of XYL Itd at an exercise | 10
-CO.1: S03, BL: |. | price ofRs.500/= with premium of Rs.30.On the date of
-Understanding expiry the price having probability to close from
-
-Rs.460, 470,....up to Rs.550/=.Draw pay off diagram
-too.
---- page 3 ---
-Q.5. A | Siddharth writes a Put option of RIL Itd with Exercise 10
-
-CO.1.S03:BL:Ev |. | price of Rs.100/= with premium of Rs.3/=.On expiry
-
-aluating the probability of closing is from Rs.96,97,98... up to
-Rs.105/=.Draw the pay off diagram for the same.
-
-Q.5. B | Mandira buys European Put option on stock MNP Ltd,
-CO.1.:S05. BL. |. | at Strike price,Rs.50/=prem Rs.3/= Calculate the
-Understanding Intrinsic value and P&L for the spot prices on the date | 10
-
-of expiry (probabilities) starting from Rs.46 up to
-Rs.55. Graphical presentation is also required.
-
-Q.6. A | Various models are found in the Derivatives markets 10
-Co.1. sO 3.BL- from different contributors. What models you are
-Analysis
-
-aware? Write a few about them ((OR)) find the covered
-interest parity arbitrage for spot GBP/AUD 1.7810 spot
-rate and 3 month forward rate is 1.7890. AUD Interest
-rate is 3%.p.a. and GBP interest rate is 0.80%p.a.( 1
-
-million capital to be assumed).
-
-TCS is an exporter as well as an importer. Cmp 10
-Q.6. B Rs.50.0000/51.0000 for one usd. The one year forward
-CO.1.SO5. BL. rate is to be quoted to TCS for both exports and
-Creating imports. ( The quotation above is denoting the market
---- page 4 ---
-buying rate and market selling rate) As an exporter he
-wants to sell at 52.3709.What is your opinion? As an
-importer he wants to buy at 52.3809.
-
-What is your view on this??By finding the forward
-rates for both rates for one year you can give your
-conclusion.( India inf.10%p.a. USA 5%p.a.)
-
-Q7 Find the forward rate as per Irving Fisher theory, with
-CO-1.S0.5. BL. proof when the spot rate is 98.9750 INR for one USD
-and the Indian inflation is 6.95% and the USA Inflation
-is 2.95%.Also find 333 day Forwards also.( you are
-supposed to find out the One year forward and give
-the proof for that and then again you have to find the
-333" day forward again and give the proof for that
-too.)
-
-Evaluating 20
 ````

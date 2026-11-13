@@ -315,6 +315,98 @@ Compare Logic analyzer and Oscilloscope.
 a,
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper e5bec98d49a9
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/INSTRUMENTATION/INSTRUMENTATION B TECH (EXTC), BATCH 2016-17-18-19_RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 June 2019
+- Text: ocr (2 pages), mean OCR confidence 91.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech/ MBA Tech (EXTC) Year: 11 ~ Semester: TV
+
+Academic Year: 2018-2019
+
+Subject: Instrumentation - : Marks: 70°
+Time: 2.00 pm to 5.00 pm
+Duration: 3 (Hrs)
+. ; No. of Pages: 2
+Re- Examination (2016-17 / 2017-18/2018-19)
+
+Date: 15 June 2019 -
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions. :
+3) In all___5_ questions to be attempted. .
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume -suitable data if necessary.
+
+Ql Attempt any four (3.5 marks each) . 14
+
+a) . Define with examples ,Accuracy, Precision and fidelity in measuring instruments
+b) List and explain the selection criteria for a transducer
+
+c) Differentiate AC and DC bridges with examples
+
+d) Draw and explain the basic circuit for an Ammeter
+
+e) Give the significance of delay line in Oscilloscope
+
+a
+
+Q2
+a) Describe in detail LVDT with neat labeled diagram 7
+b) Derive expression for Andersons Bridge 7
+Q3 ;
+a) . Describe the working of Electrodynamometer type Wattmeter 7
+b) Differentiate between dual beam and dual trace oscilloscope 7
+Q4
+a) Explain Electromagnetic flowmeter in detail 7
+b) Explain Function Generator with block diagram 7
+Q5 a) Derive equation for Kelvins Bridge. State its advantage over Wheatstone bridge 7
+
+fe
+--- page 2 ---
+Q6
+
+Q7
+
+b)
+
+a)
+
+a)
+b)
+
+. c)
+
+What is Q meter? Explain the working of Q meter used for measuring low
+impedance
+
+Describe construction and working of Megger
+Define Active transducer and explain any one in detail
+
+Write Short Hotes on: (Any two)
+Vectroscope
+
+Logic Analyzer
+Frequency meter
+
+14
+````
+
 ## 2018-19 · Re-Exam · paper c313cedb2176
 
 - Departments: Mechatronics
@@ -743,6 +835,102 @@ _ B) Draw the block diagram of function generator and explain it. [7]
 1/4
 ````
 
+## 2017-18 · Re-Exam · paper 1b2912cb47c1
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/INSTRUMENTATION/INSTRUMENTATION (MECHATRONICS), BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 01 December 2017
+- Text: ocr (2 pages), mean OCR confidence 91.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: III Semester: V
+
+Batch: 2016-17
+: Academic Year: 2017-2018
+
+Subject: Instrumentation
+. Marks: 60, gMt0TE 87 aS
+Date: 01 December 2017 Time: 2,00. pm to Se
+
+Durations: 3 ( (oh
+. PE PA es:
+\ s . “aty
+Re-Examination ®
+
+~— ae Pt
+SS
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1) Attempt any three of the following. [12]
+A) What do you understand by Direct and Indirect measurement? Explain with example.
+B) Write the transducer selection criteria for Mechatronic system design.
+C) List various types ef bridges with their anplication and range of Measurand.
+D) What do you understand by signal analysis? Write the name of various instruments used
+Signal generation and analysis.
+
+Q.2-A). Draw the schematic diagram to measure pressure using the concept of primary and secondary
+Transducer and explain the same. [6]
+B) The Aram AB ofa Schering bridge consists of unknown elements, when the bridge was balanced
+aia at a frequency of 50 Hz the other arms of the bridge were as follows.
+. Arm BC- a non-inductive resistance of 100Q, Arm CD- A R of 300Q in parallel with a capacitor
+paar of 0.5uF, Arm DA — A capacitor of 100pF. Determine the unknown elements in arm AB and
+Power factor. [6]
+
+Yo
+--- page 2 ---
+Q.3-A) Why Megger is used? Draw it’s schematic diagram and explain.
+B) Write the working Principle of Thermocouple. Compare RTD & Thermistor.
+
+Q.4-A) What is Strain gauge? Derive the expression for it’s gauge factor.
+B) What is the cause of Loading in Voltmeter? Explain it with example.
+
+Q.5-A) List the various frequency measurement Methods and explain any one with diagram.
+
+B) Explain the measurement of displacement using Hall effect transducer.
+
+Q.6-A) Draw the block diagram of CRO and explain in brief.
+B) With the help of block diagram explain the principle of Spectrum Analyzer.
+
+OF) Write short note on following.
+A) Vectorscope
+B) Logic Analyzer.
+
+2fo_
+
+[6]
+[6]
+
+[6]
+[6]
+
+[6]
+[6]
+
+[6]
+[6]
+
+[12]
+````
+
 ## 2017-18 · Re-Exam · paper b9953ef90bf2
 
 - Departments: Mechatronics
@@ -958,96 +1146,146 @@ pas avi
 i
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper e5bec98d49a9
+## 2016-17 · Final-Exam · paper c2f208bed85f
 
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/INSTRUMENTATION/INSTRUMENTATION B TECH (EXTC), BATCH 2016-17-18-19_RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 June 2019
-- Text: ocr (2 pages), mean OCR confidence 91.6
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/INSTRUMENTATION/INSTRUMENTATION B TECH (MECHATRONICS), FINAL EXAM.pdf`
+- Printed on paper: exam date: 03 December 2016
+- Text: ocr (3 pages), mean OCR confidence 94.3
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech/ MBA Tech (EXTC) Year: 11 ~ Semester: TV
 
-Academic Year: 2018-2019
+Programme: B. Tech (MECHATRONICS) Year: III Semester: V
+) Academic Year: 2016-2017
+Subject : Instrumentation
 
-Subject: Instrumentation - : Marks: 70°
-Time: 2.00 pm to 5.00 pm
-Duration: 3 (Hrs)
-. ; No. of Pages: 2
-Re- Examination (2016-17 / 2017-18/2018-19)
+Date : 03 December 2016 Time:
 
-Date: 15 June 2019 -
+Final-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. _1___ is compulsory.
+1) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any__4 _ questions. :
-3) In all___5_ questions to be attempted. .
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5) Answer to each new question to be started on a fresh page
+6) Figures on the right hand side indicate full marks.
 
-6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
 
-7) Assume -suitable data if necessary.
+Ql Attempt any four 12
+a) Define Accuracy, Precision and sensitivity for instrumentation system.
+b) List different types of a transducer.
+c) Explain the balance conditions of Whetstone’s bridge.
+d) Describe various types of sweeps used in CRO.
+e) Explain the principal of basic Wave Analyzer.
 
-Ql Attempt any four (3.5 marks each) . 14
+Q2 a) List various methods use for pressure measurement and explain any one. 6
 
-a) . Define with examples ,Accuracy, Precision and fidelity in measuring instruments
-b) List and explain the selection criteria for a transducer
+b) Define Q factor and explain working of a Q meter for Q factor measurement. 6
 
-c) Differentiate AC and DC bridges with examples
+Q3 a) With the help of diagram explain construction and operation of LVDT in detail. 6
 
-d) Draw and explain the basic circuit for an Ammeter
+b) Discuss DSO with the help of block diagram along with various modes of operation.
 
-e) Give the significance of delay line in Oscilloscope
+Also explain its applications. 6
 
-a
+Q4 a) Explain Kevin's double bridge and its application in very measurement. 6
 
-Q2
-a) Describe in detail LVDT with neat labeled diagram 7
-b) Derive expression for Andersons Bridge 7
-Q3 ;
-a) . Describe the working of Electrodynamometer type Wattmeter 7
-b) Differentiate between dual beam and dual trace oscilloscope 7
-Q4
-a) Explain Electromagnetic flowmeter in detail 7
-b) Explain Function Generator with block diagram 7
-Q5 a) Derive equation for Kelvins Bridge. State its advantage over Wheatstone bridge 7
+sa b) Draw the block diagram of Function generator and explain the role of each block. 6
 
-fe
+Q5 a) Compare the temperature transducers RTD, thermistors & thermocouples on the
+basis of principle, characteristics: ranges & applications. 6
 --- page 2 ---
 Q6
 
 Q7
 
-b)
+b) Explain working of strain gauge and draw the expression for gauge factor.
 
-a)
+a) Explain electrodynamometer type of wattmeter.
 
-a)
-b)
+b) The CRT, with magnetic deflection, has its screen 22cm from the centre of the
+magnetic field. The width of the uniform magnetic field is 3.3 cm and the final
+anode potential is 6 kv. Calculate the density of the magnetic field to produce a
 
-. c)
+deflection of 4.4cm on the screen.
 
-What is Q meter? Explain the working of Q meter used for measuring low
-impedance
+Short notes any three
 
-Describe construction and working of Megger
-Define Active transducer and explain any one in detail
+a) Ultrasonic flowmeter
+b) Thermoelectric laws
+c) Megger
 
-Write Short Hotes on: (Any two)
-Vectroscope
+d) Pirani gauge
 
-Logic Analyzer
-Frequency meter
+e) Digital Multimeter
 
-14
+Yo _
+
+12
+--- page 3 ---
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: III Semester: V
+) Academic Year: 2016-2017
+
+Subject : Instrumentation
+
+Date : 03 December 2016 Time:
+
+Duratio: Bi
+Final-Examination QE
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page
+6) Figures on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Ql Attempt aay four 12
+a) Define Accuracy, Precision and sensitivity for instrumentation system.
+b) List different types of a transducer.
+c) Explain the balance conditions of Whetstone’s bridge.
+d) Describe various types of sweeps used in CRO.
+e) Explain the principal of basic Wave Analyzer.
+
+Q2 a) List various methods use for pressure measurement and explain any one. 6
+
+b) Define Q factor and explain working of a Q meter for Q factor measurement. 6
+
+Q3 a) With the help of diagram explain construction and operation of LVDT in detail. 6
+
+b) Discuss DSO with the help of block diagram along with various modes of operation.
+
+Also explain its applications. 6
+
+Q4 a) Explain Kevin's double bridge and its application in very measurement. 6
+
+cual b) Draw the block diagram of Function generator and explain the role of each block. 6
+Q5 a) Compare the temperature transducers RTD, thermistors & thermocouples on the
+
+basis of principle, characteristics: ranges & applications. 6
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper ebdc51bfb9e8
@@ -1141,102 +1379,6 @@ b) Dynamic characteristics of instrumentation system
 c) Vectroscope
 
 d) Megger
-````
-
-## 2016-17 · Re-Exam · paper 1b2912cb47c1
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/INSTRUMENTATION/INSTRUMENTATION (MECHATRONICS), BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 01 December 2017
-- Text: ocr (2 pages), mean OCR confidence 91.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: III Semester: V
-
-Batch: 2016-17
-: Academic Year: 2017-2018
-
-Subject: Instrumentation
-. Marks: 60, gMt0TE 87 aS
-Date: 01 December 2017 Time: 2,00. pm to Se
-
-Durations: 3 ( (oh
-. PE PA es:
-\ s . “aty
-Re-Examination ®
-
-~— ae Pt
-SS
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1) Attempt any three of the following. [12]
-A) What do you understand by Direct and Indirect measurement? Explain with example.
-B) Write the transducer selection criteria for Mechatronic system design.
-C) List various types ef bridges with their anplication and range of Measurand.
-D) What do you understand by signal analysis? Write the name of various instruments used
-Signal generation and analysis.
-
-Q.2-A). Draw the schematic diagram to measure pressure using the concept of primary and secondary
-Transducer and explain the same. [6]
-B) The Aram AB ofa Schering bridge consists of unknown elements, when the bridge was balanced
-aia at a frequency of 50 Hz the other arms of the bridge were as follows.
-. Arm BC- a non-inductive resistance of 100Q, Arm CD- A R of 300Q in parallel with a capacitor
-paar of 0.5uF, Arm DA — A capacitor of 100pF. Determine the unknown elements in arm AB and
-Power factor. [6]
-
-Yo
---- page 2 ---
-Q.3-A) Why Megger is used? Draw it’s schematic diagram and explain.
-B) Write the working Principle of Thermocouple. Compare RTD & Thermistor.
-
-Q.4-A) What is Strain gauge? Derive the expression for it’s gauge factor.
-B) What is the cause of Loading in Voltmeter? Explain it with example.
-
-Q.5-A) List the various frequency measurement Methods and explain any one with diagram.
-
-B) Explain the measurement of displacement using Hall effect transducer.
-
-Q.6-A) Draw the block diagram of CRO and explain in brief.
-B) With the help of block diagram explain the principle of Spectrum Analyzer.
-
-OF) Write short note on following.
-A) Vectorscope
-B) Logic Analyzer.
-
-2fo_
-
-[6]
-[6]
-
-[6]
-[6]
-
-[6]
-[6]
-
-[6]
-[6]
-
-[12]
 ````
 
 ## 2016-17 · Re-Exam · paper b61cf94be72b
@@ -1721,6 +1863,105 @@ Q.7 Write note on any three [12 MARKS]
 (d) Q meter
 
 ofa
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper 22ebd302c0a7
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/INSTRUMENTATION/INSTRUMENTATION B TECH (EXTC), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
+- Text: ocr (2 pages), mean OCR confidence 91.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (EXTC) Year: II
+Academic Year: 2015-16
+f
+| Batch: 2014-15 ma y 4"
+| ee ¥ yi
+| \ BX. a, FS
+Subject: Instrumentation Marks: 60 Pam | rie /
+Time: 10.00 am S1“6o;pmawen™
+Date: 12/05/2016 Durations: 3 hrs. © ~—-===""
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on th.
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. lis compulsory.
+2} Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q: 1 Attempt any three of the following [4 marks each] 12
+a) Define: Linearity and Fidelity.
+
+b) What are the selection criteria for Transducer?
+
+c) Compare Kelvin’s bridge and Wheaton’s bridge.
+
+d) The expected value of the current through a resistor is 20mA .However the measurement yields a
+current value of 18mA .Calculate.
+
+i) Absolute error
+
+ii) % error
+
+iii) Relative accuracy
+
+iv) % accuracy
+
+Q:2
+
+(a) Draw and explain block diagram of function generator 6
+
+(b) With neat labeled block diagram, explain various blocks in oscilloscope 6
+Stl Q:3
+
+a) Derive the expression of gauge factor for bonded resistance wire strain gauge 6
+px b) With the help of neat diagrams explain LVDT. Also write its advantages and disadvantages. 6
+
+Yo.
+--- page 2 ---
+Q:4
+a) Explain the working principle of Frequency meter 6
+b) What do you mean by RTD? Explain Working principle of RTD. List any 2 Elements used in 6
+
+construction of RTD.
+
+Q:5
+a) Draw and explain Maxwell’s bridge. 6
+b) Explain the bridge ckt measuring high Q ¢
+
+Q:6
+a) Draw neat block diagram of digital storage S)
+
+oil for inductance.
+RO List the additional features available with DSO 6
+
+b) Draw and explain RF spectrum analyzer &
+Q: 7 write a shot note on any three: 12
+a) Bourdon tube
+
+b) Q meter
+
+c) Pulse Generator
+
+d) Hall effect transducer.
+
+Qo
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper b142bae548e6
@@ -2224,103 +2465,94 @@ Write Short notes’on Any Three 12 Marks
 XxX -_
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper 22ebd302c0a7
+## 2014-15 · Re-Exam · Sem 4 · paper 9688a2fb3067
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/INSTRUMENTATION/INSTRUMENTATION B TECH (EXTC), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
-- Text: ocr (2 pages), mean OCR confidence 91.0
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/INSTRUMENTATION/INSTRUMENTATION B TECH (EXTC), BATCH 2013-14 RE EXAM_9688a2fb30.pdf`
+- Printed on paper: max marks: 100; exam date: 02/07/2015
+- Text: ocr (2 pages), mean OCR confidence 93.3
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (EXTC) Year: II
-Academic Year: 2015-16
-f
-| Batch: 2014-15 ma y 4"
-| ee ¥ yi
-| \ BX. a, FS
-Subject: Instrumentation Marks: 60 Pam | rie /
-Time: 10.00 am S1“6o;pmawen™
-Date: 12/05/2016 Durations: 3 hrs. © ~—-===""
+Programme: B. Tech (EXTC) Year: II Semester: IV
+Batch: 2013-14 aie
+Academic Year: 2014-2015 ft
+Subject: Instrumentation #4
+Marks: 100
+Date: 02/07/2015 Time: As 2.00 pm to 5. 00 hin :
+
+Durations AY fers)
 
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on th.
-cover of the Answer Book, which is provided for their use.
-
+Instructions: Candidate should read carefully tie 3 instructions provided on the question paper
+and on the cover of the answer book which is provided for their use.
 NB:
 
-1) Question No. lis compulsory.
-2} Out of remaining questions, attempt any 4 questions.
+1. Question No. 1 is compulsory.
 
-3) In all 5 questions to be attempted.
+2. Out of remaining questions, attempt any FOUR questions.
 
-4) All questions carry equal marks.
+3. In all FIVE questions to be attempted.
 
-5) Answer to each new question to be started on a fresh page.
+4. All questions carry equal marks.
 
-6) Figures in brackets on the right hand side indicate full marks.
+5. Answer to each new question to be started ona fresh page.
 
-Q: 1 Attempt any three of the following [4 marks each] 12
-a) Define: Linearity and Fidelity.
+6. Figures in brackets indicate full marks.
 
-b) What are the selection criteria for Transducer?
+Q. 1. Attempt any four of the following. (20)
 
-c) Compare Kelvin’s bridge and Wheaton’s bridge.
+a) Explain with example 1) Sensitivity 2) Resolution.
 
-d) The expected value of the current through a resistor is 20mA .However the measurement yields a
-current value of 18mA .Calculate.
+b) Explain AC Characteristics of LVDT. A LVDT has a primary voltage of 9 volts. The
+core can be displaced by +5cm from the center. The turns ratio is 1:1. If the output is 3.6
+volts determine the displacement from the center.
 
-i) Absolute error
+c) Explain the operation of Q-meter with neat diagram.
 
-ii) % error
+d) Explain the working of basic DC Ammeter.
+e) Write short note on Vectorscope.
 
-iii) Relative accuracy
+Q. 2. Attempt the following.
+a) Explain different techniques of level measurement. (10)
+b) Discuss the working of ultrasonic flow meter with neat diagram. (10)
 
-iv) % accuracy
+Q.3. Attempt the following.
+a) Explain the working of single phase energy meter with neat diagram. (10)
 
-Q:2
+b) Discuss the operation of optical pyrometer with neat diagram. (10)
 
-(a) Draw and explain block diagram of function generator 6
+Q.4. Attempt the following.
 
-(b) With neat labeled block diagram, explain various blocks in oscilloscope 6
-Stl Q:3
+a) Describe the operation of vector impedance meter with neat diagram. (10)
+b) Explain with block diagram the operation of fundamental suppression harmonic
+distortion analyzer. (10)
 
-a) Derive the expression of gauge factor for bonded resistance wire strain gauge 6
-px b) With the help of neat diagrams explain LVDT. Also write its advantages and disadvantages. 6
-
-Yo.
+t/a
 --- page 2 ---
-Q:4
-a) Explain the working principle of Frequency meter 6
-b) What do you mean by RTD? Explain Working principle of RTD. List any 2 Elements used in 6
+Q.5. Attempt the following.
+a) Explain the measurement of low resistance using Kelvin’s double bridge. (10)
+b) Explain the measurement of unknown inductance using Maxwell’s bridge. Derive the
+equation for quality factor. A Maxwell’s bridge is used to measure inductive impedance.
+The bridge constants at balance are C)= 0.01 uF, Ri= 470 KQ, Ro=S.1 KQ, and
 
-construction of RTD.
+R3=100 KQ. Find the series equivalent of unknown impedance. (10)
+Q.6. Attempt the following.
+a) Discuss the operation of pulse generator with neat diagram. (10)
+b) Explain the operation of digital storage oscilloscope (DSO) with neat diagram. (10)
+Q.7. Write Short note on (20)
 
-Q:5
-a) Draw and explain Maxwell’s bridge. 6
-b) Explain the bridge ckt measuring high Q ¢
+a) Hall effect transducer
 
-Q:6
-a) Draw neat block diagram of digital storage S)
+b) Logic Analyzer
 
-oil for inductance.
-RO List the additional features available with DSO 6
+c) Megger
 
-b) Draw and explain RF spectrum analyzer &
-Q: 7 write a shot note on any three: 12
-a) Bourdon tube
-
-b) Q meter
-
-c) Pulse Generator
-
-d) Hall effect transducer.
-
-Qo
+d) Generalized measurement system
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 4fd490adb3c4
@@ -2394,6 +2626,190 @@ Q.6.b Discuss dual beam oscilloscope, give its advantages over dual trace. 6
 Q.7.a Explain with block diagram the operation of frequency selective wave analyzer. 6
 Q.7.b Discuss the operation of spectrum analyzer with neat diagram. How it can be used for 6
 analyzing a square wave?
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 722c9931c904
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/INSTRUMENTATION/INSTRUMENTATION BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 11/05/2015
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA Tech (EXTC) Year: If Semester: {V
+Batch: 20 E3- 14 , ‘
+
+Academic Year: 2014-2015
+
+Subject: Instrumentation
+
+Date: 11/05/2015
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Question no 1.
+
+Solve any four
+
+a) Explain any five characteristics of instrument. (5™)
+b) Draw Kelvin’s double bridge (5M)
+©) What are different criteria for selection of transducers? : (5M)
+d) Compare DSO and CRO (5M)
+e) List the different signal analyzers with their applications (5M)
+
+Question no 2.
+
+a) Drawé& Explain strain gauge transducer. Derive its gauge factor. (10M)
+b) Draw and explain inductive displacement transducer. State its advantages,
+disadvantages and applications. ; (10M)
+
+Question no 3.
+
+a) List different flow measurement techniques.explain electromagnetic flow
+
+meter. write its advantages and disadvantages. (10M)
+b) Compare RTD and Thermocouple with respect to construction, working and
+applications (10M)
+
+Question no 4.
+
+a) What is the basic principle of wave analyzer? Explain heterodyne wave
+analyzer with application. (10M)
+
+b) What is the basic.principle of logic analyzer? Explain logic analyzer with
+application. (eM)
+--- page 2 ---
+Question no 5.
+
+a) Draw and explain Hay’s bridge for inductance measurement. Write its
+advantages and disadvantages (oMD
+b) Draw and explain Megger. What are its advantages & applications (10M)
+
+Question no 6.
+
+a) What are delay line in CRO -what is use of it explain different types of delay
+lines in detail. (10M)
+b) Draw and explain DSO , write its applications (40M)
+
+Question no 7.
+
+Write note on any two
+
+a) Liquid level measurement (0M)
+
+b) Compare Electronic voltmeter and convention analog voltmeter (10M)
+
+c) Ultrasonic flow meter (10M)
+
+d) Function generator (10M)
+>. «
+
+9
+
+oh.
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper f4a6d714b822
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/INSTRUMENTATION/Instrumentation Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01/07/2015
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: IT Semester: IV
+
+Academic Year: 2014-15 Pr
+
+Batch: 2013-14
+
+Subject : Instrumentation Marks: 100 ' 3 ( £4 :
+Time : 10.00 am \d.00 pm ° *¥
+Date : 01/07/2015 ; Durations: 3 (hrs * hig ie
+Re-Examination SYNE
+Note: Question 1 is compulsory. Answer any 4 (four) of the remaining questions: ~
+Qi Answer aft’ 5 (FIVE): Marks: 20
+a) Define:
+i. Fidelity
+ii. Static Error
+iii. Sensitivity.
+iv. Resolution,
+b) Discuss the principle of a Transducer and distinguish between RTD and LVDT .
+c) Discuss the effects of frequency on Calibration
+d) What are the advantages & disadvantages of an Ultrasonic Flow Meters
+e) Draw the internal construction of a CRT
+Q.2 a) Derive the equation for Measuring |, for an unbalanced Wheatstone bridge. Marks: 10
+b) &xplain the principle and working of a Q-meter with necessary diagram. Marks: 10
+Q3 a) With the help of Block diagram explain the principle of Magnetic Flow meter and Marks: 10
+mention its advantages.
+b) With the help of a block diagram explain the working of the Logic Analyzer. Marks: 10
+Q4 a) 1. Explain with diagram Multirange Voltmeter. Marks: 10
+2. A basic D’ Arsonva! movement with afull scale deflection of 50 uA and internal
+Resistance of 500 is used as a voltmeter. Determine the value of the multimeter
+resistance needed to measure a voltage range of 0-10V.
+b) Mention the types of AC bridge circuits for measurement of Inductance and Marks: 10
+Capacitance and explain any one with suitable diagrams.
+Qs a) Explain the concepts of Pressure Inductive Transducer and Pressure capacitive Marks: 10
+Transducer with necessary diagrams.
+c) What is a Vectroscope? Draw the circuit to produce a Vectogram ona CRO and Marks: 10
+
+explain how Color Bar Patterns are generated
+
+Page lof2
+--- page 2 ---
+Q.6
+
+Aw
+
+Q7
+
+a)Discuss the operating pressure of a strain gauge and derive the relation for the gauge
+
+factor
+
+b) For an AC bridge with arm constants as AB = 0.5 pF in parallel with 1KQ resistance &
+
+AD —2KQ resistance, BC = 0.5yF, CD = unknown capacitance and Rx in series. Determine
+
+the unknown capacitance and dissipation factor.
+
+Write short Notes on any two of the following:
+1) Pulse Generators
+2) Single Phase Energy Meter
+
+3) DSO
+
+Marks: 10
+
+Marks: 10
+Marks:20
+
+Page 2 of 2
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper fbef133461af
@@ -2835,96 +3251,6 @@ d) Piezoelectric transducer (10M)
 °
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 9688a2fb3067
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/INSTRUMENTATION/INSTRUMENTATION B TECH (EXTC), BATCH 2013-14 RE EXAM_9688a2fb30.pdf`
-- Printed on paper: max marks: 100; exam date: 02/07/2015
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: II Semester: IV
-Batch: 2013-14 aie
-Academic Year: 2014-2015 ft
-Subject: Instrumentation #4
-Marks: 100
-Date: 02/07/2015 Time: As 2.00 pm to 5. 00 hin :
-
-Durations AY fers)
-
-Re-Examination
-
-Instructions: Candidate should read carefully tie 3 instructions provided on the question paper
-and on the cover of the answer book which is provided for their use.
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. In all FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started ona fresh page.
-
-6. Figures in brackets indicate full marks.
-
-Q. 1. Attempt any four of the following. (20)
-
-a) Explain with example 1) Sensitivity 2) Resolution.
-
-b) Explain AC Characteristics of LVDT. A LVDT has a primary voltage of 9 volts. The
-core can be displaced by +5cm from the center. The turns ratio is 1:1. If the output is 3.6
-volts determine the displacement from the center.
-
-c) Explain the operation of Q-meter with neat diagram.
-
-d) Explain the working of basic DC Ammeter.
-e) Write short note on Vectorscope.
-
-Q. 2. Attempt the following.
-a) Explain different techniques of level measurement. (10)
-b) Discuss the working of ultrasonic flow meter with neat diagram. (10)
-
-Q.3. Attempt the following.
-a) Explain the working of single phase energy meter with neat diagram. (10)
-
-b) Discuss the operation of optical pyrometer with neat diagram. (10)
-
-Q.4. Attempt the following.
-
-a) Describe the operation of vector impedance meter with neat diagram. (10)
-b) Explain with block diagram the operation of fundamental suppression harmonic
-distortion analyzer. (10)
-
-t/a
---- page 2 ---
-Q.5. Attempt the following.
-a) Explain the measurement of low resistance using Kelvin’s double bridge. (10)
-b) Explain the measurement of unknown inductance using Maxwell’s bridge. Derive the
-equation for quality factor. A Maxwell’s bridge is used to measure inductive impedance.
-The bridge constants at balance are C)= 0.01 uF, Ri= 470 KQ, Ro=S.1 KQ, and
-
-R3=100 KQ. Find the series equivalent of unknown impedance. (10)
-Q.6. Attempt the following.
-a) Discuss the operation of pulse generator with neat diagram. (10)
-b) Explain the operation of digital storage oscilloscope (DSO) with neat diagram. (10)
-Q.7. Write Short note on (20)
-
-a) Hall effect transducer
-
-b) Logic Analyzer
-
-c) Megger
-
-d) Generalized measurement system
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 960c83a820b4
 
 - Departments: Electronics and Telecommunication
@@ -3156,330 +3482,4 @@ Q.7 Attempt Any Two
 } x
 
 2]
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 722c9931c904
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/INSTRUMENTATION/INSTRUMENTATION BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 11/05/2015
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA Tech (EXTC) Year: If Semester: {V
-Batch: 20 E3- 14 , ‘
-
-Academic Year: 2014-2015
-
-Subject: Instrumentation
-
-Date: 11/05/2015
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Question no 1.
-
-Solve any four
-
-a) Explain any five characteristics of instrument. (5™)
-b) Draw Kelvin’s double bridge (5M)
-©) What are different criteria for selection of transducers? : (5M)
-d) Compare DSO and CRO (5M)
-e) List the different signal analyzers with their applications (5M)
-
-Question no 2.
-
-a) Drawé& Explain strain gauge transducer. Derive its gauge factor. (10M)
-b) Draw and explain inductive displacement transducer. State its advantages,
-disadvantages and applications. ; (10M)
-
-Question no 3.
-
-a) List different flow measurement techniques.explain electromagnetic flow
-
-meter. write its advantages and disadvantages. (10M)
-b) Compare RTD and Thermocouple with respect to construction, working and
-applications (10M)
-
-Question no 4.
-
-a) What is the basic principle of wave analyzer? Explain heterodyne wave
-analyzer with application. (10M)
-
-b) What is the basic.principle of logic analyzer? Explain logic analyzer with
-application. (eM)
---- page 2 ---
-Question no 5.
-
-a) Draw and explain Hay’s bridge for inductance measurement. Write its
-advantages and disadvantages (oMD
-b) Draw and explain Megger. What are its advantages & applications (10M)
-
-Question no 6.
-
-a) What are delay line in CRO -what is use of it explain different types of delay
-lines in detail. (10M)
-b) Draw and explain DSO , write its applications (40M)
-
-Question no 7.
-
-Write note on any two
-
-a) Liquid level measurement (0M)
-
-b) Compare Electronic voltmeter and convention analog voltmeter (10M)
-
-c) Ultrasonic flow meter (10M)
-
-d) Function generator (10M)
->. «
-
-9
-
-oh.
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper f4a6d714b822
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/INSTRUMENTATION/Instrumentation Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01/07/2015
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: IT Semester: IV
-
-Academic Year: 2014-15 Pr
-
-Batch: 2013-14
-
-Subject : Instrumentation Marks: 100 ' 3 ( £4 :
-Time : 10.00 am \d.00 pm ° *¥
-Date : 01/07/2015 ; Durations: 3 (hrs * hig ie
-Re-Examination SYNE
-Note: Question 1 is compulsory. Answer any 4 (four) of the remaining questions: ~
-Qi Answer aft’ 5 (FIVE): Marks: 20
-a) Define:
-i. Fidelity
-ii. Static Error
-iii. Sensitivity.
-iv. Resolution,
-b) Discuss the principle of a Transducer and distinguish between RTD and LVDT .
-c) Discuss the effects of frequency on Calibration
-d) What are the advantages & disadvantages of an Ultrasonic Flow Meters
-e) Draw the internal construction of a CRT
-Q.2 a) Derive the equation for Measuring |, for an unbalanced Wheatstone bridge. Marks: 10
-b) &xplain the principle and working of a Q-meter with necessary diagram. Marks: 10
-Q3 a) With the help of Block diagram explain the principle of Magnetic Flow meter and Marks: 10
-mention its advantages.
-b) With the help of a block diagram explain the working of the Logic Analyzer. Marks: 10
-Q4 a) 1. Explain with diagram Multirange Voltmeter. Marks: 10
-2. A basic D’ Arsonva! movement with afull scale deflection of 50 uA and internal
-Resistance of 500 is used as a voltmeter. Determine the value of the multimeter
-resistance needed to measure a voltage range of 0-10V.
-b) Mention the types of AC bridge circuits for measurement of Inductance and Marks: 10
-Capacitance and explain any one with suitable diagrams.
-Qs a) Explain the concepts of Pressure Inductive Transducer and Pressure capacitive Marks: 10
-Transducer with necessary diagrams.
-c) What is a Vectroscope? Draw the circuit to produce a Vectogram ona CRO and Marks: 10
-
-explain how Color Bar Patterns are generated
-
-Page lof2
---- page 2 ---
-Q.6
-
-Aw
-
-Q7
-
-a)Discuss the operating pressure of a strain gauge and derive the relation for the gauge
-
-factor
-
-b) For an AC bridge with arm constants as AB = 0.5 pF in parallel with 1KQ resistance &
-
-AD —2KQ resistance, BC = 0.5yF, CD = unknown capacitance and Rx in series. Determine
-
-the unknown capacitance and dissipation factor.
-
-Write short Notes on any two of the following:
-1) Pulse Generators
-2) Single Phase Energy Meter
-
-3) DSO
-
-Marks: 10
-
-Marks: 10
-Marks:20
-
-Page 2 of 2
-````
-
-## Year not stated · Final-Exam · paper c2f208bed85f
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/INSTRUMENTATION/INSTRUMENTATION B TECH (MECHATRONICS), FINAL EXAM.pdf`
-- Printed on paper: exam date: 03 December 2016
-- Text: ocr (3 pages), mean OCR confidence 94.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: III Semester: V
-) Academic Year: 2016-2017
-Subject : Instrumentation
-
-Date : 03 December 2016 Time:
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page
-6) Figures on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Ql Attempt any four 12
-a) Define Accuracy, Precision and sensitivity for instrumentation system.
-b) List different types of a transducer.
-c) Explain the balance conditions of Whetstone’s bridge.
-d) Describe various types of sweeps used in CRO.
-e) Explain the principal of basic Wave Analyzer.
-
-Q2 a) List various methods use for pressure measurement and explain any one. 6
-
-b) Define Q factor and explain working of a Q meter for Q factor measurement. 6
-
-Q3 a) With the help of diagram explain construction and operation of LVDT in detail. 6
-
-b) Discuss DSO with the help of block diagram along with various modes of operation.
-
-Also explain its applications. 6
-
-Q4 a) Explain Kevin's double bridge and its application in very measurement. 6
-
-sa b) Draw the block diagram of Function generator and explain the role of each block. 6
-
-Q5 a) Compare the temperature transducers RTD, thermistors & thermocouples on the
-basis of principle, characteristics: ranges & applications. 6
---- page 2 ---
-Q6
-
-Q7
-
-b) Explain working of strain gauge and draw the expression for gauge factor.
-
-a) Explain electrodynamometer type of wattmeter.
-
-b) The CRT, with magnetic deflection, has its screen 22cm from the centre of the
-magnetic field. The width of the uniform magnetic field is 3.3 cm and the final
-anode potential is 6 kv. Calculate the density of the magnetic field to produce a
-
-deflection of 4.4cm on the screen.
-
-Short notes any three
-
-a) Ultrasonic flowmeter
-b) Thermoelectric laws
-c) Megger
-
-d) Pirani gauge
-
-e) Digital Multimeter
-
-Yo _
-
-12
---- page 3 ---
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: III Semester: V
-) Academic Year: 2016-2017
-
-Subject : Instrumentation
-
-Date : 03 December 2016 Time:
-
-Duratio: Bi
-Final-Examination QE
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page
-6) Figures on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Ql Attempt aay four 12
-a) Define Accuracy, Precision and sensitivity for instrumentation system.
-b) List different types of a transducer.
-c) Explain the balance conditions of Whetstone’s bridge.
-d) Describe various types of sweeps used in CRO.
-e) Explain the principal of basic Wave Analyzer.
-
-Q2 a) List various methods use for pressure measurement and explain any one. 6
-
-b) Define Q factor and explain working of a Q meter for Q factor measurement. 6
-
-Q3 a) With the help of diagram explain construction and operation of LVDT in detail. 6
-
-b) Discuss DSO with the help of block diagram along with various modes of operation.
-
-Also explain its applications. 6
-
-Q4 a) Explain Kevin's double bridge and its application in very measurement. 6
-
-cual b) Draw the block diagram of Function generator and explain the role of each block. 6
-Q5 a) Compare the temperature transducers RTD, thermistors & thermocouples on the
-
-basis of principle, characteristics: ranges & applications. 6
 ````

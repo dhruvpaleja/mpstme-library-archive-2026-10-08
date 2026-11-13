@@ -425,7 +425,7 @@ Frequency Hopping Spread Spectrum (FHSS) modulation technique.
 Page 2 of 2
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 1eeafc62a78a
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 1eeafc62a78a
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
@@ -568,7 +568,7 @@ BL-2
 3|Page
 ````
 
-## 2022-23 · Re-Exam · Sem 4 · paper 416082479f58
+## 2023-24 · Re-Exam · Sem 4 · paper 416082479f58
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
@@ -704,6 +704,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/COMMUNICATION THEORY AND SYSTEMS/Communication Theory and Systems, Sem-IV, Year 2022-23, Re Exam & Re Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -776,7 +777,6 @@ c0-2 s(t sale) ait) salt) 110)
 “) $O-1 , '
 BL-1 1 ‘
 t
-oT ‘ o 2 or Tt. o Ff
 3 3 3
 (a)
 Q4

@@ -711,6 +711,146 @@ ah b) Develop an explanation of how this strategy will benefit the business.
 BL- Create 10
 ````
 
+## 2023-24 · Exam not stated · Sem 6 · paper 3c754293bbb1
+
+- Departments: Data Science
+- Programmes: MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM VI/Marketing Strategy & Analytics/Marketing Strategy & Analytics.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 88.9
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+<% Ww ~
+oF, 2 oy atts
+AC NEERING?
+SCHOOL OF TECHNOLOGY MANAGEMENT XN
+
+Academic Year: 2023-2024
+
+Program: B. Tech / MBA Tech , Year: Ill Semester: VI
+
+Stream :Data Science Time: 3 hrs (2:00pmto 5:00pm)
+Subject: Marketing Strategy & Analytics No. of Pages: 3
+
+Date:_24 /O¥ / 2024 .
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+Note:
+1) Question No. 1 is compulsory.
+2) Out of the remaining questions, attempt any 4 questions.
+3) Inall5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started ona fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8) Python Software is required to solve the data set, write a python code in answer sheet also.
+
+Qi. Answer briefly:
+
+CO-1; | a. | Explain the concept of marketing analytics and its role in informing business (4)
+SO-3; decisions.
+
+BL-1
+
+CO-2; | b. | How do innovative market offerings define business success and classify market | (4)
+SO-3; competitiveness?
+
+BL-2
+
+CO-3; | c. How does market segmentation contribute to business success, and provide a (4)
+SO-1; real-world example demonstrating its effectiveness in identifying distinct
+
+BL-2 consumer groups?
+
+CcO-1; | d. | Explain factor analysis, identifying its purpose and discussing how it classifies (4)
+SO-2; and analyzes variables to uncover underlying patterns or relationships.
+
+BL-1
+
+CO-1; | e. | Define cross-selling and discuss its importance in sales strategy. (4)
+SO-3;
+
+BL-2 Page 1/3
+--- page 2 ---
+¥
+
+Q2. a. | Why understanding consumer behavior crucial, and what key factors influence (4)
+
+CO-1; their purchasing decisions? Explain in around 100 words.
+SO-1; ;
+BL-5
+| CO-2; | b. | Conduct an exploratory analysis of the TV_Final dataset for new market entries, (16)
+SO-1; and based on your findings, provide recommendations along with code for
+BL-6 implementation.
+Q3. a. | Discuss how consumers utilize product features, identifying their utility and (4)
+cO-1; explaining their significance. Explain in arqund 100 words.
+| SO-1; 7°) ; .
+BL-3 ;
+CO-3; | b. | Perform cluster analysis on the players_22 dataset and provide your (16)
+SO-2; , recommendations along with python code for implementation.
+BL-2
+Q4. a. | Identify and differentiate market segmentations to effectively solve business (4)
+CO-1; challenges. Explain in around 100 words.
+SO-1;
+BL-4
+CO-2; | b. .| Perform a conjoint analysis using Faker in Python, display OLS Regression (16)
+SO-1; Results, and interpret the findings.
+BL-6
+Q5. a. | Discuss the need for relational marketing, defining its significance and (4)
+CO-3; identifying key strategies for building and maintaining customer relationships.
+SO-1; Explain in around 100 words. '
+BL-2
+CO-3; | b. '} Perform logistic regression using the Placement_data_full_class dataset and (16)
+SO-2; provide the corresponding Python code.
+BL-3
+Q6. a. Identify and classify the negative binomial distribution, then discuss its (4)
+CO-2; characteristics and applications in various fields. Explain in around 100 words.
+SO-1;
+BL-5
+CO-3; | b. | Perform Market Basket Analysis using the Groceries_dataset and provide the (16)
+SO-2; corresponding Python code and also explain how this help in cross selling.
+BL-2 7
+Q7. a. | Describe the marketing decisions making with suitable example. (4)
+CO-3;
+
+Page 2/3
+--- page 3 ---
+SO-1; P
+BL-3 : ca
+
+CO-4; | b. | Discuss strategies tailored for mature and declining markets, examining their (4)
+SO-1; implementation and effectiveness, while differentiating between approaches to
+BL-4 address market challenges.
+
+CO-3; | c Explain cluster analysis, identifying its purpose and discussing how it is used to (4)
+
+SO-1; classify data into meaningful groups for further analysis.
+
+BL-2
+
+CO-3; | d Discuss the stages of new product development. (4)
+SO-1; 5
+
+BL-4
+
+CO-3; |e Explain the Markov model, demonstrating its components and real-world utility, | (4)
+SO-1; while comparing it to alternative probabilistic models.
+
+BL-1
+
+Page 3/3
+````
+
 ## 2023-24 · Re-Exam · Sem 6 · paper 7b49cb1636a3
 
 - Departments: Data Science
@@ -973,144 +1113,4 @@ BL-2
 market?
 
 Page 3 of 3
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 3c754293bbb1
-
-- Departments: Data Science
-- Programmes: MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM VI/Marketing Strategy & Analytics/Marketing Strategy & Analytics.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 88.9
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
-
-<% Ww ~
-oF, 2 oy atts
-AC NEERING?
-SCHOOL OF TECHNOLOGY MANAGEMENT XN
-
-Academic Year: 2023-2024
-
-Program: B. Tech / MBA Tech , Year: Ill Semester: VI
-
-Stream :Data Science Time: 3 hrs (2:00pmto 5:00pm)
-Subject: Marketing Strategy & Analytics No. of Pages: 3
-
-Date:_24 /O¥ / 2024 .
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-Note:
-1) Question No. 1 is compulsory.
-2) Out of the remaining questions, attempt any 4 questions.
-3) Inall5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-8) Python Software is required to solve the data set, write a python code in answer sheet also.
-
-Qi. Answer briefly:
-
-CO-1; | a. | Explain the concept of marketing analytics and its role in informing business (4)
-SO-3; decisions.
-
-BL-1
-
-CO-2; | b. | How do innovative market offerings define business success and classify market | (4)
-SO-3; competitiveness?
-
-BL-2
-
-CO-3; | c. How does market segmentation contribute to business success, and provide a (4)
-SO-1; real-world example demonstrating its effectiveness in identifying distinct
-
-BL-2 consumer groups?
-
-CcO-1; | d. | Explain factor analysis, identifying its purpose and discussing how it classifies (4)
-SO-2; and analyzes variables to uncover underlying patterns or relationships.
-
-BL-1
-
-CO-1; | e. | Define cross-selling and discuss its importance in sales strategy. (4)
-SO-3;
-
-BL-2 Page 1/3
---- page 2 ---
-¥
-
-Q2. a. | Why understanding consumer behavior crucial, and what key factors influence (4)
-
-CO-1; their purchasing decisions? Explain in around 100 words.
-SO-1; ;
-BL-5
-| CO-2; | b. | Conduct an exploratory analysis of the TV_Final dataset for new market entries, (16)
-SO-1; and based on your findings, provide recommendations along with code for
-BL-6 implementation.
-Q3. a. | Discuss how consumers utilize product features, identifying their utility and (4)
-cO-1; explaining their significance. Explain in arqund 100 words.
-| SO-1; 7°) ; .
-BL-3 ;
-CO-3; | b. | Perform cluster analysis on the players_22 dataset and provide your (16)
-SO-2; , recommendations along with python code for implementation.
-BL-2
-Q4. a. | Identify and differentiate market segmentations to effectively solve business (4)
-CO-1; challenges. Explain in around 100 words.
-SO-1;
-BL-4
-CO-2; | b. .| Perform a conjoint analysis using Faker in Python, display OLS Regression (16)
-SO-1; Results, and interpret the findings.
-BL-6
-Q5. a. | Discuss the need for relational marketing, defining its significance and (4)
-CO-3; identifying key strategies for building and maintaining customer relationships.
-SO-1; Explain in around 100 words. '
-BL-2
-CO-3; | b. '} Perform logistic regression using the Placement_data_full_class dataset and (16)
-SO-2; provide the corresponding Python code.
-BL-3
-Q6. a. Identify and classify the negative binomial distribution, then discuss its (4)
-CO-2; characteristics and applications in various fields. Explain in around 100 words.
-SO-1;
-BL-5
-CO-3; | b. | Perform Market Basket Analysis using the Groceries_dataset and provide the (16)
-SO-2; corresponding Python code and also explain how this help in cross selling.
-BL-2 7
-Q7. a. | Describe the marketing decisions making with suitable example. (4)
-CO-3;
-
-Page 2/3
---- page 3 ---
-SO-1; P
-BL-3 : ca
-
-CO-4; | b. | Discuss strategies tailored for mature and declining markets, examining their (4)
-SO-1; implementation and effectiveness, while differentiating between approaches to
-BL-4 address market challenges.
-
-CO-3; | c Explain cluster analysis, identifying its purpose and discussing how it is used to (4)
-
-SO-1; classify data into meaningful groups for further analysis.
-
-BL-2
-
-CO-3; | d Discuss the stages of new product development. (4)
-SO-1; 5
-
-BL-4
-
-CO-3; |e Explain the Markov model, demonstrating its components and real-world utility, | (4)
-SO-1; while comparing it to alternative probabilistic models.
-
-BL-1
-
-Page 3/3
 ````

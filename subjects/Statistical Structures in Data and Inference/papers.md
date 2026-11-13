@@ -4,13 +4,6 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2025-26 · Final-Exam · Sem 4 · Dataset · paper 1239cfc80b5c
-
-- Departments: Data Science
-- Programmes: BTech DS 7009, Integrated DS 7038, MBATech DS 7052
-- Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_DS_7009/Statistical Structures in Data and Inference/data_set_Statistical Structures in Data and Inference(702DB0C039)_2025-2026.xlsx` (+2 identical copies)
-- Text: none (spreadsheet data set; no question text)
-
 ## 2025-26 · Final-Exam · Sem 4 · paper e5f42764b88c
 
 - Departments: Data Science
@@ -533,6 +526,13 @@ interpretation of the results.
 ********** 5 **********
 ````
 
+## 2025-26 · Final-Exam · Sem 4 · Dataset · paper 1239cfc80b5c
+
+- Departments: Data Science
+- Programmes: BTech DS 7009, Integrated DS 7038, MBATech DS 7052
+- Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_DS_7009/Statistical Structures in Data and Inference/data_set_Statistical Structures in Data and Inference(702DB0C039)_2025-2026.xlsx` (+2 identical copies)
+- Text: none (spreadsheet data set; no question text)
+
 ## 2025-26 · Re-Exam · Sem 4 · paper 87e493db6836
 
 - Departments: Data Science
@@ -540,6 +540,7 @@ interpretation of the results.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STATISTICAL STRUCTURES IN DATA AND INFERENCE/Statistical Structures in Data and Inference Batch 2023-24,2024-25,2025-26 Re Exam.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; exam date: 06 July 2026
 - Text: ocr (4 pages), mean OCR confidence 86.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Program: B Tech/ MBA Tech/ B Tech Intg (DS)
@@ -582,7 +583,6 @@ of the stove was $44.95, and the standard deviation was $5.75. Atlas samples 25
 | the average retail price to the consumer has decreased?
 | co i d. | Explain R? (R-squared) and its importance in regression analysis [5]
 4; BL-
-L3 i a a ee _ i
 [a2 | [20]
 | . a. | Suppose you are given a dataset stored in a pandas DataFrame df containing two groups [10]
 BL-4 _ of observations labeled ‘A’ and ‘B’, each consisting of independent and identically
@@ -1281,7 +1281,7 @@ import numpy as np
 df= sns.load_dataset("tips").dropna()
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper aabfe715ce2a
+## 2023-24 · Final + Re-Exam · Sem 4 · paper aabfe715ce2a
 
 - Departments: Data Science
 - Programmes: B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
@@ -1480,6 +1480,208 @@ Build a logistic regression model on the above data set.
 Produce python code and analyze the output. Write down the
 
 python code in the answer book .
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper 9c8eba3514dd
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STATISTICAL STRUCTURES IN DATA AND INFERENCE/Statistical Structures in Data & Inference , Re-exam 2022-23.pdf` (+1 identical copies)
+- Text: ocr (4 pages), mean OCR confidence 89.3
+
+````text
+Ps
+SVKM’S NMIMS
+‘MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN
+Academic Year: 2023-2024
+
+Program: B.Tech/MBA Tech Stream ;Data Science Year: II Semester: IV
+
+Subject: Statistical Structures in Data and Inference Time: 3 hes (jotooanto 1+00pm)
+Date:_2¢ / é /24 ; No. of Pages: 4
+
+Marks: _ 100 ;
+
+Re Examination(2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3) In all___5_ questions to be attempted.
+m 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+CO-;2 |a. .
+PO-:1 Explain the use of One-way MANOVA with a suitable example. | [5]
+BL-1
+CO-;1 |b. Describe the use of dummy or one-hot encoding variables in [5]
+ay regression models.
+CO-;2 |c. Explain how mathematically the mean of the normal distribution [5]
+am | is calculated through maximum likelihood estimation.
+CO-;2. | d.
+PO- :2 What is Type I and Type II Error. [5]
+BL-1
+Q2 _ | 20]
+A #Python Libraries
+import pandas as pd
+import numpy as np
+from numpy import maximum
+CO-3; ; Py pm [10]
+PO-;1 from scipy.optimize import minimize ‘
+BL-4
+
+from scipy.stats import norm y
+df=pd.DataFrame(np.random.normal(10,5,size=(100,2)),column
+s=list((AB’))
+--- page 2 ---
+The — data set(df) has two variables A and B, both the
+variables are Normally distributed with mean=10 and standard.
+deviation=5. Do maximum likelihood estimation in Python to
+calculate mean and standard deviation of Variables A and B.
+
+Write down the python code-in the answer book.
+
+B Explain how mathematically the parameters of the Binomial
+CO-2; distribution is calculated through maximum likelihood | [10]
+PO-2 er
+BL-33 estimation.
+Q3 [20]
+A. Suppose we have randomly selected a stock for 100 days with up
+and down
+where: UP = 1: if a randomly selected stock is up for that day
+and Down = 0: if a randomly selected stock is down for that day
+=e | a
+BL-3 Assuming that the stock is independent Bernoulli random
+variables with unknown parameter (up rate). Do maximum | —
+likelihood estimation in Python to calculate the proportion of up
+in the stock. Write down the python code in the answer book.
+B Suppose you are a company producing cookies. Each cookie is
+supposed to contain 10 grams of sugar. The cookies are produced
+by a machine that adds the sugar in a bowl before mixing
+everything. You believe the machine does not add 10 grams of
+sugar for each cookie. If your assumption is true, the machine
+needs to be fixed. You stored the level of sugar of thirty cookies
+Pont by cresting a distribution with 30 chservitiona vith. a mean of 10 [10]
+BL-3 and a standard deviation of 0.05 in python.
+
+sugar=np.random.normal(10,0.05,size=(30,))
+
+<
+
+Do a testing of hypothesis in python and cross check with pre-
+define library, whether the level of sugar is different than the
+--- page 3 ---
+recipe at 0.01 level of significance. Write down the python code
+
+in the answer book.
+
+a (20
+
+A How logistic regression is used for classification? Write a Python
+program to build a logistic regression model on the following data
+and predict the class for x1=3.46 and x2=59. Write down the
+python code in the answer book.
+
+Xi X2 y
+
+3.78 71 0
+
+2.44 65 0
+CO-;3 2.09 47 0 [10]
+
+a PO-;2° 0.14 84 0 P
+
+BL-4 1.72 74 0
+
+1.65 57 0
+
+4.92 63 1
+
+4.37 44 1
+
+4.96 81 1
+
+4.52 59 1
+
+3.69 78 {1
+
+5.88 58 1
+
+B The cars.csv(motor trend car road test data) dataset is consist of
+
+32 car brands and 11 attributes. Do one way ANOVA in python
+and find out that whether there is any difference between average | [10]
+displacement for different gears and am. Write down the python
+
+code in the answer book.
+
+Oo 0 [20]
+
+A Two operators check the same dimension on the same sample of
+10 parts. Below are the results. Is there a significant operator
+measurement error?
+
+-§.No——-Operator + -Operator27
+
+CO-;3 3 62 60 [10]
+PO-;10 4 59 58
+BL-4 5 62 59
+
+6 50 57
+
+7 63 63 ; ‘
+
+8 61 61
+
+9 56 58
+
+10 63 64
+--- page 4 ---
+Test at the 5% significance level. Do a testing of hypothesis in
+python and cross check with pre-define library Write down th:
+python code in the answer book.
+
+(hint: Pair t test)
+
+A large hospital hires most of its nurses from the two major
+universities in the area. Over the last year, they have been giving
+a test to the newly graduated nurses entering the hospital to
+determine which school, if either, seems to educate its nurses
+better. Based on the following scores, help the personnel office
+of the hospital determine whether the schools differ in quality.
+
+Use the Mann-Whitney U test with a 10. percent level of | [10]
+significance. (P)
+Test Scores
+SchoiA 97 69 73 84 76 923 90 88 84 87 93
+SchoolB 88 99 65 69 97 84 85 89 91 90 87 91 72
+Q6 [20]
+The cars.csv(motor trend car road test) dataset is used which
+consist of 32 car brands and 11 attributes If there is any important
+C0-3 difference, in mpg, displacement(disp) and wt, between the 110]
+PO-;12 different gear, am and cyl or not. Perform MANOVA test in
+Bot python to test the hypothesis. Write down the python code in the
+answer book.
+fas How qualitative predictors are incorporated into the regression [10]
+BL- 1 model? Explain with an example.
+\.Q7 [20]
+Given the following set of data:
+x 2 4 6 8
+CO-;3 y 3 7 B 10
+PO-;10 [10]
+BL-4 er : : .
+Develop the estimating equation (regression equation) that best
+describes the data. (hint: Calculate parameters).
+ton How ridge regression is used to shrink estimates of the [10]
+BL-1 coefficients. .
+
+>
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper d97f7dd36933
@@ -1717,208 +1919,6 @@ C
 oq
 ````
 
-## 2022-23 · Re-Exam · Sem 4 · paper 9c8eba3514dd
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STATISTICAL STRUCTURES IN DATA AND INFERENCE/Statistical Structures in Data & Inference , Re-exam 2022-23.pdf` (+1 identical copies)
-- Text: ocr (4 pages), mean OCR confidence 89.3
-
-````text
-Ps
-SVKM’S NMIMS
-‘MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN
-Academic Year: 2023-2024
-
-Program: B.Tech/MBA Tech Stream ;Data Science Year: II Semester: IV
-
-Subject: Statistical Structures in Data and Inference Time: 3 hes (jotooanto 1+00pm)
-Date:_2¢ / é /24 ; No. of Pages: 4
-
-Marks: _ 100 ;
-
-Re Examination(2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-3) In all___5_ questions to be attempted.
-m 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-CO-;2 |a. .
-PO-:1 Explain the use of One-way MANOVA with a suitable example. | [5]
-BL-1
-CO-;1 |b. Describe the use of dummy or one-hot encoding variables in [5]
-ay regression models.
-CO-;2 |c. Explain how mathematically the mean of the normal distribution [5]
-am | is calculated through maximum likelihood estimation.
-CO-;2. | d.
-PO- :2 What is Type I and Type II Error. [5]
-BL-1
-Q2 _ | 20]
-A #Python Libraries
-import pandas as pd
-import numpy as np
-from numpy import maximum
-CO-3; ; Py pm [10]
-PO-;1 from scipy.optimize import minimize ‘
-BL-4
-
-from scipy.stats import norm y
-df=pd.DataFrame(np.random.normal(10,5,size=(100,2)),column
-s=list((AB’))
---- page 2 ---
-The — data set(df) has two variables A and B, both the
-variables are Normally distributed with mean=10 and standard.
-deviation=5. Do maximum likelihood estimation in Python to
-calculate mean and standard deviation of Variables A and B.
-
-Write down the python code-in the answer book.
-
-B Explain how mathematically the parameters of the Binomial
-CO-2; distribution is calculated through maximum likelihood | [10]
-PO-2 er
-BL-33 estimation.
-Q3 [20]
-A. Suppose we have randomly selected a stock for 100 days with up
-and down
-where: UP = 1: if a randomly selected stock is up for that day
-and Down = 0: if a randomly selected stock is down for that day
-=e | a
-BL-3 Assuming that the stock is independent Bernoulli random
-variables with unknown parameter (up rate). Do maximum | —
-likelihood estimation in Python to calculate the proportion of up
-in the stock. Write down the python code in the answer book.
-B Suppose you are a company producing cookies. Each cookie is
-supposed to contain 10 grams of sugar. The cookies are produced
-by a machine that adds the sugar in a bowl before mixing
-everything. You believe the machine does not add 10 grams of
-sugar for each cookie. If your assumption is true, the machine
-needs to be fixed. You stored the level of sugar of thirty cookies
-Pont by cresting a distribution with 30 chservitiona vith. a mean of 10 [10]
-BL-3 and a standard deviation of 0.05 in python.
-
-sugar=np.random.normal(10,0.05,size=(30,))
-
-<
-
-Do a testing of hypothesis in python and cross check with pre-
-define library, whether the level of sugar is different than the
---- page 3 ---
-recipe at 0.01 level of significance. Write down the python code
-
-in the answer book.
-
-a (20
-
-A How logistic regression is used for classification? Write a Python
-program to build a logistic regression model on the following data
-and predict the class for x1=3.46 and x2=59. Write down the
-python code in the answer book.
-
-Xi X2 y
-
-3.78 71 0
-
-2.44 65 0
-CO-;3 2.09 47 0 [10]
-
-a PO-;2° 0.14 84 0 P
-
-BL-4 1.72 74 0
-
-1.65 57 0
-
-4.92 63 1
-
-4.37 44 1
-
-4.96 81 1
-
-4.52 59 1
-
-3.69 78 {1
-
-5.88 58 1
-
-B The cars.csv(motor trend car road test data) dataset is consist of
-
-32 car brands and 11 attributes. Do one way ANOVA in python
-and find out that whether there is any difference between average | [10]
-displacement for different gears and am. Write down the python
-
-code in the answer book.
-
-Oo 0 [20]
-
-A Two operators check the same dimension on the same sample of
-10 parts. Below are the results. Is there a significant operator
-measurement error?
-
--§.No——-Operator + -Operator27
-
-CO-;3 3 62 60 [10]
-PO-;10 4 59 58
-BL-4 5 62 59
-
-6 50 57
-
-7 63 63 ; ‘
-
-8 61 61
-
-9 56 58
-
-10 63 64
---- page 4 ---
-Test at the 5% significance level. Do a testing of hypothesis in
-python and cross check with pre-define library Write down th:
-python code in the answer book.
-
-(hint: Pair t test)
-
-A large hospital hires most of its nurses from the two major
-universities in the area. Over the last year, they have been giving
-a test to the newly graduated nurses entering the hospital to
-determine which school, if either, seems to educate its nurses
-better. Based on the following scores, help the personnel office
-of the hospital determine whether the schools differ in quality.
-
-Use the Mann-Whitney U test with a 10. percent level of | [10]
-significance. (P)
-Test Scores
-SchoiA 97 69 73 84 76 923 90 88 84 87 93
-SchoolB 88 99 65 69 97 84 85 89 91 90 87 91 72
-Q6 [20]
-The cars.csv(motor trend car road test) dataset is used which
-consist of 32 car brands and 11 attributes If there is any important
-C0-3 difference, in mpg, displacement(disp) and wt, between the 110]
-PO-;12 different gear, am and cyl or not. Perform MANOVA test in
-Bot python to test the hypothesis. Write down the python code in the
-answer book.
-fas How qualitative predictors are incorporated into the regression [10]
-BL- 1 model? Explain with an example.
-\.Q7 [20]
-Given the following set of data:
-x 2 4 6 8
-CO-;3 y 3 7 B 10
-PO-;10 [10]
-BL-4 er : : .
-Develop the estimating equation (regression equation) that best
-describes the data. (hint: Calculate parameters).
-ton How ridge regression is used to shrink estimates of the [10]
-BL-1 coefficients. .
-
->
-````
-
 ## 2022-23 · Re-Exam · Sem 4 · paper 9fcddc58c7fb
 
 - Departments: Data Science
@@ -2130,131 +2130,7 @@ df3=pd.DataFrame({'Age':(25,32,24,27,33,35,48,50,55,45,60,65],
 45000], ‘y':[0,0,0,0,0,0,1,1,1,1,1,1]})
 ````
 
-## 2021-22 · Re-Exam · Sem 4 · paper 4274d5fbfa23
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STATISTICAL STRUCTURES IN DATA AND INFERENCE/Statistical Structures in Data and Inference, Sem-IV, Re-Exam, Year 2021-22.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 June 2022
-- Text: ocr (3 pages), mean OCR confidence 87.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
-
-Academic Year: 2021-22
-
-Programme: B. Tech (Data Science) Year: II Semester: IV
-Subject: Statistical ‘Structures in Data and Inference
-Marks: 100
-Date: 07 June 2022 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (Hrs)
-‘ No. of Pages: _O%
-| Re-Examination (2021-22)
-
-rt gH oer a
-
-<
-
-Instructions: Candidates should read carefully the instructions printed on
-the question paper and on the cover of the Answer Book, which is provided
-for their use.
-
-1) 1) Question No. _1___is compulsory.
-
-2) 2) Out of remaining questions, attempt any__4__questions.
-
-3) 3) In all___5__ questions to be attempted.
-
-4) 4) All questions carry equal marks.
-
-5) 5) Answer to each new question to be started on a fresh page.
-
-6) 6) Figures in brackets on the right hand side indicate full marks.
-} 7) 7) Assume Suitable data if necessary.
-
-Ql Answer briefly: marks
-a. What is Interval estimation? —
-. Define the following with an example:
-Col; .
-, 1. Null Hypothesis
-SO2; . 5
-BLI 2. Alternate Hypothesis
-3. Simple Hypothesis
-4. Composite Hypothesis
-. coz; |b.
-SO1; Define boot strapping and its use in statistics. 5
-BL2
-Col; c.
-SOl; Mention advantage and disadvantages of non-parametric test. 5
-BLI
---- page 2 ---
-CO2;
-
-S06; Explain the concept of Autocorrelation. 5
-BL4
-Q2 Define what is unbiasedness.
-CO3; Let X1,X2,X3 be a random sample of size 3 drawn from the 10
-S01; population with mean © test whether the following estimators are
-BLS unbiased:
-1. T1 = (X1+X2)/2 - X3
-2. T2=(X1 - X2 + X3)/3
-3. T3 =(K1 - 3X2)/9 + 5X3
-4. T4=(X1—-X2+ X3)
-1. Explain in brief what is Sufficiency, Efficiency
-Q2 2. A random sample of size n is taken from uniform
-: distribution over (0,0). Prove that 2X is an unbiased
-Col; ; 10
-S06: estimate for 0.
-BL3
-Q3 1. What is MLE? Generalize the steps involved in getting the
-CO3; MLE of an estimate. 10
-S02; 2. Mention Properties of MLE.
-BL2
-1. Find MLE of parameter 6 for the pdf f(x, @) = (1- 8) 0%(x-
-Q3 1) 1) where x = 0,1,2....,00
-CcO3; 2. A sample of 400 male students is found to have a mean 10
-SOl; height of 67.47 inches. Can it be reasonably regarded as a
-BL3 sample from a large population with mean height 69.39
-inches and standard deviation 2.30 inches. Test for 5%
-level of significance.
-Q4 1. Explain all the assumptions of linear regression and
-mention and mention the model of linear regression with
-col; explaining all the variables. 10
-S06; 2. Mention the properties of OLS estimators.
-BL6
-Q4 1. Explain are the 4 possibilities to make the decision to
-; accept or to reject the Null hypothesis? explain with the
-ag help of a table. 10
-noe 2. Explain the concept of autocorrelation.
---- page 3 ---
-. What is logistic distribution function?
-COl1; 2. What is its significance in logistic regression model? 10
-3. Explain logit transformation of logistic regression model
-
-S06;
-BL2
-Q5 b. | 1. Explain Adjusted R-Square. 10
-2. Explain Heteroscedasticity
-. C04;
-‘ S07;
-' BL3
-]
-Q6 a. For One simple sign test mention the:
-COl: 1. Assumptions
-: 2. Hypothesis to be tested 10
-Sol; 3. Test statistic
-BLI 4. Decision Rule
-Q6 b. For Mann Whitney test mention the:
-Col: 1. Assumptions
-S Ol: 2. Hypothesis to be tested 10
-BL > 3. Test statistic
-4. Decision Rule
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper 1f4044a559ea
+## 2021-22 · Final-Exam · Sem 4 · paper 1f4044a559ea
 
 - Departments: Data Science
 - Programmes: B TECH / DATA SCIENCE
@@ -2391,4 +2267,128 @@ BL2 3. Test statistic
 4. Decision Rule
 
 32
+````
+
+## 2021-22 · Re-Exam · Sem 4 · paper 4274d5fbfa23
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/STATISTICAL STRUCTURES IN DATA AND INFERENCE/Statistical Structures in Data and Inference, Sem-IV, Re-Exam, Year 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 June 2022
+- Text: ocr (3 pages), mean OCR confidence 87.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
+
+Academic Year: 2021-22
+
+Programme: B. Tech (Data Science) Year: II Semester: IV
+Subject: Statistical ‘Structures in Data and Inference
+Marks: 100
+Date: 07 June 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (Hrs)
+‘ No. of Pages: _O%
+| Re-Examination (2021-22)
+
+rt gH oer a
+
+<
+
+Instructions: Candidates should read carefully the instructions printed on
+the question paper and on the cover of the Answer Book, which is provided
+for their use.
+
+1) 1) Question No. _1___is compulsory.
+
+2) 2) Out of remaining questions, attempt any__4__questions.
+
+3) 3) In all___5__ questions to be attempted.
+
+4) 4) All questions carry equal marks.
+
+5) 5) Answer to each new question to be started on a fresh page.
+
+6) 6) Figures in brackets on the right hand side indicate full marks.
+} 7) 7) Assume Suitable data if necessary.
+
+Ql Answer briefly: marks
+a. What is Interval estimation? —
+. Define the following with an example:
+Col; .
+, 1. Null Hypothesis
+SO2; . 5
+BLI 2. Alternate Hypothesis
+3. Simple Hypothesis
+4. Composite Hypothesis
+. coz; |b.
+SO1; Define boot strapping and its use in statistics. 5
+BL2
+Col; c.
+SOl; Mention advantage and disadvantages of non-parametric test. 5
+BLI
+--- page 2 ---
+CO2;
+
+S06; Explain the concept of Autocorrelation. 5
+BL4
+Q2 Define what is unbiasedness.
+CO3; Let X1,X2,X3 be a random sample of size 3 drawn from the 10
+S01; population with mean © test whether the following estimators are
+BLS unbiased:
+1. T1 = (X1+X2)/2 - X3
+2. T2=(X1 - X2 + X3)/3
+3. T3 =(K1 - 3X2)/9 + 5X3
+4. T4=(X1—-X2+ X3)
+1. Explain in brief what is Sufficiency, Efficiency
+Q2 2. A random sample of size n is taken from uniform
+: distribution over (0,0). Prove that 2X is an unbiased
+Col; ; 10
+S06: estimate for 0.
+BL3
+Q3 1. What is MLE? Generalize the steps involved in getting the
+CO3; MLE of an estimate. 10
+S02; 2. Mention Properties of MLE.
+BL2
+1. Find MLE of parameter 6 for the pdf f(x, @) = (1- 8) 0%(x-
+Q3 1) 1) where x = 0,1,2....,00
+CcO3; 2. A sample of 400 male students is found to have a mean 10
+SOl; height of 67.47 inches. Can it be reasonably regarded as a
+BL3 sample from a large population with mean height 69.39
+inches and standard deviation 2.30 inches. Test for 5%
+level of significance.
+Q4 1. Explain all the assumptions of linear regression and
+mention and mention the model of linear regression with
+col; explaining all the variables. 10
+S06; 2. Mention the properties of OLS estimators.
+BL6
+Q4 1. Explain are the 4 possibilities to make the decision to
+; accept or to reject the Null hypothesis? explain with the
+ag help of a table. 10
+noe 2. Explain the concept of autocorrelation.
+--- page 3 ---
+. What is logistic distribution function?
+COl1; 2. What is its significance in logistic regression model? 10
+3. Explain logit transformation of logistic regression model
+
+S06;
+BL2
+Q5 b. | 1. Explain Adjusted R-Square. 10
+2. Explain Heteroscedasticity
+. C04;
+‘ S07;
+' BL3
+]
+Q6 a. For One simple sign test mention the:
+COl: 1. Assumptions
+: 2. Hypothesis to be tested 10
+Sol; 3. Test statistic
+BLI 4. Decision Rule
+Q6 b. For Mann Whitney test mention the:
+Col: 1. Assumptions
+S Ol: 2. Hypothesis to be tested 10
+BL > 3. Test statistic
+4. Decision Rule
 ````

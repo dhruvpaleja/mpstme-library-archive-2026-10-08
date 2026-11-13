@@ -327,32 +327,33 @@ At a 5% level, we would reject Ho.
 FR ICR 7] QA HH
 ````
 
-## 2025-26 · Final-Exam · Sem 3 · Answer key · paper c9fb2c81876d
+## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 1f3148de6602
 
-- Departments: AI and Machine Learning, Artificial Intelligence
-- Programmes: BTech AI 7012, BTech AIML 7053, MBATech AI 7051
-- Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIML_7053/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C024)_2025-2026_c9fb2c8187.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100
-- Text: mixed (20 pages), mean OCR confidence 66.8
+- Departments: AI and Data Science, AI and Machine Learning
+- Programmes: BTech AIDS 7056, BTech AIML 7053
+- Source: `02_Question_Papers/2023/Sem_03/Re-Exam/BTech_AIDS_7056/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C005)_2023-2024.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
+- Text: mixed (18 pages), mean OCR confidence 73.2
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-Program: B. Tech.   Stream: AIML   Year: II   Semester: III
-Subject: Random Processes and Estimation Techniques   Time: _____ hrs (______to_______)
-Date:   /   / 2024   No. of Pages:
-Marks: 100
-Final Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
+Year: II/Semester III(Exam Year: 2025-2026)
+Subject: Random Processes and Estimation Techniques
+Date: 03 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 18 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
 Q1
 Answer briefly:
 a.   [04]
@@ -365,103 +366,108 @@ over time. A wide-sense stationary process (WSS), also known as weak-sense
 stationary, is a less strict condition where the mean is constant and the
 autocorrelation function only depends on the time difference between two
 points. All SSS processes are WSS, but the reverse is not always true.
-1
+********** 1 **********
 --- page 2 ---
-CO- 2;   b.   State the following types of systems and provide one example for each of them.   [04]
-SO- 1;   (i)   Linear systems
-BL-2   (ii)   Memoryless systems
+b.   State the following types of systems and provide one example for each of   [04]
+CO- 2;   them.
+SO- 1;
+BL-2   (i)   Linear systems
+(ii)   Memoryless systems
 Ans.
-2
+********** 2 **********
 --- page 3 ---
-c.   Explain Bernoulli process. In a sequence of independent Bernoulli trials, where   [04]
-CO-3;   the probability of success (p) is 0.4, explain what it means to say that the sixth
+c.   Explain Bernoulli process. In a sequence of independent Bernoulli trials,   [04]
+CO-3;   where the probability of success (p) is 0.4, explain what it means to say that
 SO-1;
-BL-2   success occurs on the tenth trial.
+BL-2   the sixth success occurs on the tenth trial.
 Ans. A Bernoulli process is a sequence of independent and identical experiments
 (called Bernoulli trials) where:
 • Each trial has two possible outcomes — Success (S) or Failure (F).
 • The probability of success (p) remains constant for every trial.
 • The outcome of one trial does not affect the outcome of another
 (independent trials).
-There is about a 6.7% chance that in this Bernoulli process (where each trial has
-a 40% chance of success), the 6th success will occur exactly on the 10th trial
-— meaning we got 5 successes in the first 9 trials and one more success on the
-10th.
+There is about a 6.7% chance that in this Bernoulli process (where each trial
+has a 40% chance of success), the 6th success will occur exactly on the 10th
+trial — meaning we got 5 successes in the first 9 trials and one more success
+on the 10th.
 d   A researcher wants to estimate the average monthly salary of employees in a   [04]
+large IT based company. She collects data from a random sample of 50
+employees. While reviewing her methods, she wants to ensure that the
 CO-4;
-SO-1 ;   large IT based company. She collects data from a random sample of 50
-BL-2   employees. While reviewing her methods, she wants to ensure that the estimator
-3
+SO-1 ;   estimator she uses (e.g., sample mean) is reliable and accurate. Explain the
+BL-2   criteria that the researcher should consider when selecting a good estimator.
+For each criterion, give an example in the context of this salary survey.
+********** 3 **********
 --- page 4 ---
-she uses (e.g., sample mean) is reliable and accurate. Explain the criteria that the
-researcher should consider when selecting a good estimator. For each criterion,
-give an example in the context of this salary survey.
 Ans
 CO- 5;   e   [04]
 SO- 1;   Explain type I and type II errors with proper examples.
 BL-2
 Ans.
-Answer any four from Q2 to Q7
 Q2   a   A random process is given by 𝑥(𝑡) = 𝐴𝑐𝑜𝑠(𝑤𝑜𝑡+ 𝜃) where 𝐴 and 𝑤𝑜 are   [10]
-CO-1;   constants and θ is a uniformly distributed random variable over the interval (0,
+CO-1;   constants and θ is a uniformly distributed random variable over the interval
 SO-1;
-BL-5   2π). Prove that the given process is wide sense stationary process.
-4
+BL-5   (0, 2π). Prove that the given process is wide sense stationary process.
+********** 4 **********
 --- page 5 ---
-Ans. Solution: Given X(t) = Acos(wot + 6); where A and wy are constants and
+Ans. Solution: Given X(t) = Acos(wot + @); where A and wy are constants and
 0 — (0,27); fo(@) = x. The 0 is uniformly distributed between 0 to 27. The
 distribution shown in Fig. 7.12.
 
-fot
-4°”
+fo
+4°)
 
 1/211
 
-0 211
+~
+0 ano
 
 Fig. 7.7
 
-If mean value and auto correlation function of r.p is a function of time, ‘¢’ then it is
+If mean value and auto correlation function of r.p is a function of time, ‘t’ then it is
 not stationary.
 
 1. Expectation or mean value:
+
+__ Qa
+BIx(] =X = [ x(t) fo(0)d0
+
+=0
+Qa 1
+a | A cos(wot + 6).—dé
+9 20
+
+=0
 2a
 
-E[X()] = X(t) = i a(t) fo(0)d0
-
-4=0
-
-Qa
-- | Acos(wot + 9).+-d0
-6 2a
-
-=0
-
-A ft
 =— cos(wot + 0)d0
-2m Jo=0
+2m Jo-o
+A,. :
 
-A .
-= 3; Bin(wot + 6)|2"
-A... '
-= Jy Bin (wot + 27) — sin wot]
-7
-A... :
-= >, sin wot — sin wot]
+on 2, Bin(wot + Ayla"
+A... .
+
+= 37 Bin (wot + 27) — sin wot]
+
+A,. ,
+= —[sin wot — sin wot]
+20
 
 =0
 
--, E[X(t)] = X(t) = 0. It is constant.
+-. E[X (t)] = X(t) = 0. It is constant.
+
+FIC DI EH ar
 --- page 6 ---
-b   Let X(t) be a wide-sense stationary (WSS) random process with autocorrelation   [10]
-function
+b   Let X(t) be a wide-sense stationary (WSS) random process with   [10]
+autocorrelation function
 − (| 10) 𝜏|
 CO-2;   𝑅𝑥𝑥(𝜏) = (0.66) . 𝑒
 SO-1;
 BL-3
 Solve for the Power Spectral Density (PSD) 𝑆𝑥𝑥(𝜔) of the process. Also
 identify the value of 𝑆𝑥𝑥(𝜔) at 𝜔= 0.1.
-6
+********** 6 **********
 --- page 7 ---
 Ans.
 a   For the given random process by   [10]
@@ -471,241 +477,179 @@ SO-1;   where 𝜃 is a random variable uniformly distributed over the interval 
 BL-3
 Solve and check if the given random process is mean-ergodic or not?
 Ans
-7
+********** 7 **********
 --- page 8 ---
 b   Explain the power spectral density function (or spectral density or power   [10]
 spectrum) of a stationary process.
-The power spectrum density function of a zero mean WSS process X(t) is given
+The power spectrum density function of a zero mean WSS process X(t) is
 CO-2;
-SO-1;   by
+SO-1;   given by
 BL-2,3
 {1,   |𝑤} < 𝑤𝑜
 𝑆𝑋𝑋(𝑤) =
 0,   𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
 Solve for the autocorrelation function.
-8
---- page 9 ---
 Ans
+********** 8 **********
+--- page 9 ---
 a   The transition probability matrix of a Markov chain {Xn}n=1,2,3,….. with three   [10]
-Q4   states as follows.
+states as follows.
 0.2 0.5 0.3
-CO-3 ;
-SO- 1;   𝑃= [ 0.5 0.4 0.1 ]
-BL-3   0.3 0.4 0.3
-9
---- page 10 ---
+𝑃= [ 0.5 0.4 0.1 ]
+0.3 0.4 0.3
+Q4
 The initial distribution is
-
-P°=[06 03 0.1]
-
+CO-3 ;
+SO- 1;
+BL-3   𝑃0 = [0.6 0.3 0.1]
 Solve for:
-(i) P(X) =3)
-(ii)   P(X2=2)
-(iii) =P [X3 = 2, X2 =3, Xi =3, Xo = 2]
-
+(i)   P (X2 = 3)
+(ii)   P (X2 = 2)
+(iii)   P [X3 = 2, X2 = 3, X1 = 3, X0 = 2]
+********** 9 **********
+--- page 10 ---
 Ans.
-
-10
+b   An auto company decided to introduce a new six-cylinder car whose mean   [10]
+petrol consumption is claimed to be lower than that of existing auto engine. It
+CO-5 ;   was found that the mean petrol consumption for 50 cars was 10 km/litre with
+SO- 1;
+BL-4   a standard deviation of 3.5 km per litre. Test for the company at 5% level of
+significance, the claim that in the new petrol consumption is 9.5 km per litre
+on average.
+********** 10 **********
 --- page 11 ---
-b   An auto company decided to introduce a new six-cylinder car whose mean petrol   [10]
-consumption is claimed to be lower than that of existing auto engine. It was found
-CO-5 ;
-SO- 1;   that the mean petrol consumption for 50 cars was 10 km/litre with a standard
-BL-4   deviation of 3.5 km per litre. Test for the company at 5% level of significance,
-the claim that in the new petrol consumption is 9.5 km per litre on average.
 Ans.
-a   Explain how the good estimate of the population standard deviation 𝜎 is obtained   [10]
-Q5
-for a random sample 𝑥1, 𝑥2, … , 𝑥𝑛from a normal distribution using maximum
-CO-4;
-SO-1;   likelihood estimator (MLE). State any assumptions you use (e.g. whether the
-BL-2
-mean 𝜇is known or unknown) and give the final expression for the MLE of 𝜎.
-11
+a   Explain how the good estimate of the population standard deviation 𝜎 is   [10]
+Q5   obtained for a random sample 𝑥1, 𝑥2, … , 𝑥𝑛from a normal distribution using
+CO-4;   maximum likelihood estimator (MLE). State any assumptions you use (e.g.
+SO-1;
+BL-2   whether the mean 𝜇is known or unknown) and give the final expression for
+the MLE of 𝜎.
+Ans.
+********** 11 **********
 --- page 12 ---
-Ans.
-
-Kin NU, 2),
-
-—— Fee a 9-8
-
-A 3 é Be ot
-
-a
-
-Nar oO
-
-12
---- page 13 ---
-b   A market research company wants to know if the proportion of people shopping   [10]
-online has increased. In a survey conducted last year, 220 out of 500 respondents
-CO- 5;   said they preferred online shopping. In a survey conducted this year, 290 out of
-SO- 1;   520 respondents said they preferred online shopping.
+b   A market research company wants to know if the proportion of people   [10]
+shopping online has increased. In a survey conducted last year, 220 out of 500
+CO- 5;   respondents said they preferred online shopping. In a survey conducted this
+SO- 1;   year, 290 out of 520 respondents said they preferred online shopping.
 BL-4   Test for 1% level of significance, whether there has been an increase in the
 proportion of people who prefer online shopping.
 Ans.
-13
---- page 14 ---
-Q6   a   The Westview High School nurse is interested in knowing the average height of   [10]
-seniors at this school, but she does not have enough time to examine the records
-CO-4;   of all 430 seniors. She randomly selects 48 students and finds the sample mean
+********** 12 **********
+--- page 13 ---
+a   The Westview High School nurse is interested in knowing the average height   [10]
+of seniors at this school, but she does not have enough time to examine the
+records of all 430 seniors. She randomly selects 48 students and finds the
+sample mean to be 64.5 inches and the sample standard deviation to be 2.3
+inches.
+Q6   Solve for:
+CO-4;   (i)   the estimated standard error of the mean.
 SO-1;
-BL-3   to be 64.5 inches and the sample standard deviation to be 2.3 inches.
-14
---- page 15 ---
-Solve for:
-(i)   the estimated standard error of the mean.
-(ii)   Construct a 90% confidence interval for the mean height of all
+BL-3   (ii)   Construct a 90% confidence interval for the mean height of all
 seniors at Westview High School.
 (iii)   Suppose the Nurse wants to reduce the chances of errors in her
 estimates, what should she do.
-(iv)   Apply your understanding of estimation principles to suggest what
-Nurse can do to reduce the chances of errors in her estimates.
+(iv)   Apply your understanding of estimation principles to suggest
+what Nurse can do to reduce the chances of errors in her
+estimates.
+********** 13 **********
+--- page 14 ---
 Ans.
 • To reduce sampling error and get more precise estimates, the nurse
 should increase the sample size.
-•   Justification: The standard error is inversely proportional to the square
-root of the sample size:
-15
---- page 16 ---
-So, larger n → smaller , SE → narrower confidence interval → more accurate
-estimate of the population mean.
+•   Justification: The standard error is inversely proportional to the
+square root of the sample size:
+So, larger n → smaller , SE → narrower confidence interval → more
+accurate estimate of the population mean.
 --------(3M)
-b   Let x be a random variable that represents weight loss (in pounds) after following   [10]
-a certain diet for 6 months. After extensive study, it is found that x has a normal
-distribution with σ = 5.7 pounds. A new modification of the diet has been
-implemented. A random sample of n=21 people use the modified diet for 6
-CO-5 ;   months. For these people, the sample standard deviation of weight loss is s= 4.1
+b   Let x be a random variable that represents weight loss (in pounds) after   [10]
+following a certain diet for 6 months. After extensive study, it is found that x
+CO-5 ;   has a normal distribution with σ = 5.7 pounds. A new modification of the diet
 SO- 1;
-BL-4   pounds.
+BL-4   has been implemented. A random sample of n=21 people use the modified diet
+for 6 months. For these people, the sample standard deviation of weight loss
+is s= 4.1 pounds.
+********** 14 **********
+--- page 15 ---
 Test at 1% level of significance, does this result indicate that the variance of
 weight loss for the modified diet is different (either way) from the variance of
 weight loss for the original diet. Assume weight loss for each diet follows a
 normal distribution
 Ans.
-16
---- page 17 ---
-a   Suppose that customers arrive at a bank according to a poisson process with a   [10]
-mean rate of 3 per minute.
-Q7   Solve for the probability that during a time interval of 2 min
-CO-3;   (i)   exactly 4 customers arrive
-SO-1;
-BL-3   (ii)   more than 4 customers arrive
+Q7   a   [10]
+Suppose that customers arrive at a bank according to a poisson process with a
+CO-3;
+SO-1;   mean rate of 3 per minute.
+BL-3
+********** 15 **********
+--- page 16 ---
+Solve for the probability that during a time interval of 2 min
+(i)   exactly 4 customers arrive
+(ii)   more than 4 customers arrive
 (iii)   fewer than 4 customer in 2 minute interval.
-17
---- page 18 ---
 Ans.
-
-Let X(t) be the number of customers arrive at a bank in the time interval of t.
-(i) Mean rate, 4 = 3 per minute
-
-Time interval, t= 2 per minute
-
-No. of arrivals, n= 4
-
-Skt n
-& (f) follows a Poisson process, P [X (f) =n] = oS
-ni
-
-&MO@@T ec 6
-4! HAL
-
-4 customers arrive in | _ sal) Fra
-minute time a egies) =
-
-= 0.1339
-
-(ii) Mean rate, 2 = 3 per minute
-
-Time interval, t = 2 per minute
-
-No. of arrivals, n= more than 4.
-
-P[more than 4 customers in 2 min. interval]
-
-= P[X(2) > 4] = 1 - P[X(2) <4]
-
-= 1= [P EX (2) = 0] + PIX 2) = 1] + PIX (2) =2|
-+P |X (2) =3] + P[X 2) = 4]
-eo 26 2 Ge eg 88
-
-Fa ac ik, Mie cae St, ct oethl
-
-= 1-¢°[14+6+18+36+54] = 1-—e¢7° [115]
-=0.715
-(iii) Mean rate, A = 3 per minute
-
-Time interval, t= 2 per minute
-
-No. of arrivals, n = fewer than 4
-
-fewer than 4 customer
-in 2 minute interval
-
-= P[X(2) <4]
-
-= P[X (2) = 0) + P[X (2) = 1] + P [X (2) = 2] + PIX (2) =3]
-
-ee 6? e° 6! e° 6" e76 6
-
-=O. oo rats
-=e | eee = (7°) 61) = 0.1512
-
-18
---- page 19 ---
+********** 16 **********
+--- page 17 ---
 b   A consumer electronics lab compared the battery life of two brands of   [10]
 smartphones.
 • For Brand X, a sample of 10 phones gave an average battery life of
 18.5 hours with a standard deviation of 2.1 hours.
 CO-5 ;
-SO- 1;   • For Brand Y, a sample of 8 phones gave an average battery life of 20.9
-BL- 4   hours with a standard deviation of 1.8 hours.
-At the 1% level of significance, test whether Brand X has lower average battery life
-than Brand Y.
+SO- 1;   • For Brand Y, a sample of 8 phones gave an average battery life of
+BL- 4   20.9 hours with a standard deviation of 1.8 hours.
+At the 1% level of significance, test whether Brand X has lower average battery
+life than Brand Y.
 Ans.
 -------(1M)
 Pooled variance
-19
---- page 20 ---
-2 (m —1)s} + (nz — 1)83
-§p ny +ng—2
-
+********** 17 **********
+--- page 18 ---
+2 (m —1)s7 + (m2 — 1)85
+? ny +n2—2
 Substitute values:
 
-a (10 — 1)(2.1)? + (8 — 1)(1.8)?
+Co (10 — 1)(2.1)? + (8 — 1)(1.8)?
 
-. 10+8-2
-_ 9(4.41) +7(3.24) _ 39.694 22.68 62.37 _
-a 3 Tg 7 3:8981
+? 10+8-2
+_ 9(4.41) +7(3.24) _ 39.69+ 22.68 62.37 _
+a = Tp 7 38981
 
-8» — V3.8981 = 1.9743
+5, = V3.8981 = 1.9743
 (3M)
 
 Standard error (for difference in means)
 
+1 4.
+SE = 8)\/ — + —
+ny nz
+
+= 1.9743 x = 1.9743 x V0.225 — 1.9743 x 0.4743 = 0.9366
+
+-——-(2M)
+
 Test statistic
+Z1—Z2_ 185-209 -24 _
+SE 0.9366 0.9366
 
-1 —%2 _ 185-209   —24
-
-t= SE 0.9366 0.9366 —
+$=
 
 —2.562
 
 Degrees of freedom:
-df =n, +n.—-2=—16
-(2M)
 
-For one-tailed test ata = 0.01 anddf = 16:
+df —n, +n.—2-—16
+
+For one-tailed test at a — 0.01 anddf = 16:
 teritical = —2.583
 Compare:
 tealculated = —2.562 > —2.583
 
 So, we fail to reject Hp at the 1% level (just barely — it’s very close).
 
-At a 5% level, we would reject Hp.
-——-(2M)
+At a 5% level, we would reject Ho.
+=—~-(2M)
 
-20
+FR ICR 7] QA HH
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 7512d4c2f1f1
@@ -2172,33 +2116,32 @@ i.e., we may conclude that the injection is accompanied by an increase in B.P.
 FRI ICR DO) A RH
 ````
 
-## 2023-24 · Re-Exam · Sem 3 · Answer key · paper 1f3148de6602
+## 2024-25 · Final-Exam · Sem 3 · Answer key · paper c9fb2c81876d
 
-- Departments: AI and Data Science, AI and Machine Learning
-- Programmes: BTech AIDS 7056, BTech AIML 7053
-- Source: `02_Question_Papers/2023/Sem_03/Re-Exam/BTech_AIDS_7056/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C005)_2023-2024.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
-- Text: mixed (18 pages), mean OCR confidence 73.2
+- Departments: AI and Machine Learning, Artificial Intelligence
+- Programmes: BTech AI 7012, BTech AIML 7053, MBATech AI 7051
+- Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIML_7053/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C024)_2025-2026_c9fb2c8187.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100
+- Text: mixed (20 pages), mean OCR confidence 66.8
 
 ````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
-Year: II/Semester III(Exam Year: 2025-2026)
-Subject: Random Processes and Estimation Techniques
-Date: 03 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 18 pages.
-2. Question No. 1 is compulsory
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume Suitable data if necessary.
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+Program: B. Tech.   Stream: AIML   Year: II   Semester: III
+Subject: Random Processes and Estimation Techniques   Time: _____ hrs (______to_______)
+Date:   /   / 2024   No. of Pages:
+Marks: 100
+Final Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 Q1
 Answer briefly:
 a.   [04]
@@ -2211,108 +2154,103 @@ over time. A wide-sense stationary process (WSS), also known as weak-sense
 stationary, is a less strict condition where the mean is constant and the
 autocorrelation function only depends on the time difference between two
 points. All SSS processes are WSS, but the reverse is not always true.
-********** 1 **********
+1
 --- page 2 ---
-b.   State the following types of systems and provide one example for each of   [04]
-CO- 2;   them.
-SO- 1;
-BL-2   (i)   Linear systems
-(ii)   Memoryless systems
+CO- 2;   b.   State the following types of systems and provide one example for each of them.   [04]
+SO- 1;   (i)   Linear systems
+BL-2   (ii)   Memoryless systems
 Ans.
-********** 2 **********
+2
 --- page 3 ---
-c.   Explain Bernoulli process. In a sequence of independent Bernoulli trials,   [04]
-CO-3;   where the probability of success (p) is 0.4, explain what it means to say that
+c.   Explain Bernoulli process. In a sequence of independent Bernoulli trials, where   [04]
+CO-3;   the probability of success (p) is 0.4, explain what it means to say that the sixth
 SO-1;
-BL-2   the sixth success occurs on the tenth trial.
+BL-2   success occurs on the tenth trial.
 Ans. A Bernoulli process is a sequence of independent and identical experiments
 (called Bernoulli trials) where:
 • Each trial has two possible outcomes — Success (S) or Failure (F).
 • The probability of success (p) remains constant for every trial.
 • The outcome of one trial does not affect the outcome of another
 (independent trials).
-There is about a 6.7% chance that in this Bernoulli process (where each trial
-has a 40% chance of success), the 6th success will occur exactly on the 10th
-trial — meaning we got 5 successes in the first 9 trials and one more success
-on the 10th.
+There is about a 6.7% chance that in this Bernoulli process (where each trial has
+a 40% chance of success), the 6th success will occur exactly on the 10th trial
+— meaning we got 5 successes in the first 9 trials and one more success on the
+10th.
 d   A researcher wants to estimate the average monthly salary of employees in a   [04]
-large IT based company. She collects data from a random sample of 50
-employees. While reviewing her methods, she wants to ensure that the
 CO-4;
-SO-1 ;   estimator she uses (e.g., sample mean) is reliable and accurate. Explain the
-BL-2   criteria that the researcher should consider when selecting a good estimator.
-For each criterion, give an example in the context of this salary survey.
-********** 3 **********
+SO-1 ;   large IT based company. She collects data from a random sample of 50
+BL-2   employees. While reviewing her methods, she wants to ensure that the estimator
+3
 --- page 4 ---
+she uses (e.g., sample mean) is reliable and accurate. Explain the criteria that the
+researcher should consider when selecting a good estimator. For each criterion,
+give an example in the context of this salary survey.
 Ans
 CO- 5;   e   [04]
 SO- 1;   Explain type I and type II errors with proper examples.
 BL-2
 Ans.
+Answer any four from Q2 to Q7
 Q2   a   A random process is given by 𝑥(𝑡) = 𝐴𝑐𝑜𝑠(𝑤𝑜𝑡+ 𝜃) where 𝐴 and 𝑤𝑜 are   [10]
-CO-1;   constants and θ is a uniformly distributed random variable over the interval
+CO-1;   constants and θ is a uniformly distributed random variable over the interval (0,
 SO-1;
-BL-5   (0, 2π). Prove that the given process is wide sense stationary process.
-********** 4 **********
+BL-5   2π). Prove that the given process is wide sense stationary process.
+4
 --- page 5 ---
-Ans. Solution: Given X(t) = Acos(wot + @); where A and wy are constants and
+Ans. Solution: Given X(t) = Acos(wot + 6); where A and wy are constants and
 0 — (0,27); fo(@) = x. The 0 is uniformly distributed between 0 to 27. The
 distribution shown in Fig. 7.12.
 
-fo
-4°)
+fot
+4°”
 
 1/211
 
-~
-0 ano
+0 211
 
 Fig. 7.7
 
-If mean value and auto correlation function of r.p is a function of time, ‘t’ then it is
+If mean value and auto correlation function of r.p is a function of time, ‘¢’ then it is
 not stationary.
 
 1. Expectation or mean value:
-
-__ Qa
-BIx(] =X = [ x(t) fo(0)d0
-
-=0
-Qa 1
-a | A cos(wot + 6).—dé
-9 20
-
-=0
 2a
 
-=— cos(wot + 0)d0
-2m Jo-o
-A,. :
+E[X()] = X(t) = i a(t) fo(0)d0
 
-on 2, Bin(wot + Ayla"
-A... .
+4=0
 
-= 37 Bin (wot + 27) — sin wot]
-
-A,. ,
-= —[sin wot — sin wot]
-20
+Qa
+- | Acos(wot + 9).+-d0
+6 2a
 
 =0
 
--. E[X (t)] = X(t) = 0. It is constant.
+A ft
+=— cos(wot + 0)d0
+2m Jo=0
 
-FIC DI EH ar
+A .
+= 3; Bin(wot + 6)|2"
+A... '
+= Jy Bin (wot + 27) — sin wot]
+7
+A... :
+= >, sin wot — sin wot]
+
+=0
+
+-, E[X(t)] = X(t) = 0. It is constant.
 --- page 6 ---
-b   Let X(t) be a wide-sense stationary (WSS) random process with   [10]
-autocorrelation function
+b   Let X(t) be a wide-sense stationary (WSS) random process with autocorrelation   [10]
+function
 − (| 10) 𝜏|
 CO-2;   𝑅𝑥𝑥(𝜏) = (0.66) . 𝑒
 SO-1;
 BL-3
 Solve for the Power Spectral Density (PSD) 𝑆𝑥𝑥(𝜔) of the process. Also
 identify the value of 𝑆𝑥𝑥(𝜔) at 𝜔= 0.1.
-********** 6 **********
+6
 --- page 7 ---
 Ans.
 a   For the given random process by   [10]
@@ -2322,177 +2260,239 @@ SO-1;   where 𝜃 is a random variable uniformly distributed over the interval 
 BL-3
 Solve and check if the given random process is mean-ergodic or not?
 Ans
-********** 7 **********
+7
 --- page 8 ---
 b   Explain the power spectral density function (or spectral density or power   [10]
 spectrum) of a stationary process.
-The power spectrum density function of a zero mean WSS process X(t) is
+The power spectrum density function of a zero mean WSS process X(t) is given
 CO-2;
-SO-1;   given by
+SO-1;   by
 BL-2,3
 {1,   |𝑤} < 𝑤𝑜
 𝑆𝑋𝑋(𝑤) =
 0,   𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
 Solve for the autocorrelation function.
-Ans
-********** 8 **********
+8
 --- page 9 ---
+Ans
 a   The transition probability matrix of a Markov chain {Xn}n=1,2,3,….. with three   [10]
-states as follows.
+Q4   states as follows.
 0.2 0.5 0.3
-𝑃= [ 0.5 0.4 0.1 ]
-0.3 0.4 0.3
-Q4
-The initial distribution is
 CO-3 ;
-SO- 1;
-BL-3   𝑃0 = [0.6 0.3 0.1]
-Solve for:
-(i)   P (X2 = 3)
-(ii)   P (X2 = 2)
-(iii)   P [X3 = 2, X2 = 3, X1 = 3, X0 = 2]
-********** 9 **********
+SO- 1;   𝑃= [ 0.5 0.4 0.1 ]
+BL-3   0.3 0.4 0.3
+9
 --- page 10 ---
+The initial distribution is
+
+P°=[06 03 0.1]
+
+Solve for:
+(i) P(X) =3)
+(ii)   P(X2=2)
+(iii) =P [X3 = 2, X2 =3, Xi =3, Xo = 2]
+
 Ans.
-b   An auto company decided to introduce a new six-cylinder car whose mean   [10]
-petrol consumption is claimed to be lower than that of existing auto engine. It
-CO-5 ;   was found that the mean petrol consumption for 50 cars was 10 km/litre with
-SO- 1;
-BL-4   a standard deviation of 3.5 km per litre. Test for the company at 5% level of
-significance, the claim that in the new petrol consumption is 9.5 km per litre
-on average.
-********** 10 **********
+
+10
 --- page 11 ---
+b   An auto company decided to introduce a new six-cylinder car whose mean petrol   [10]
+consumption is claimed to be lower than that of existing auto engine. It was found
+CO-5 ;
+SO- 1;   that the mean petrol consumption for 50 cars was 10 km/litre with a standard
+BL-4   deviation of 3.5 km per litre. Test for the company at 5% level of significance,
+the claim that in the new petrol consumption is 9.5 km per litre on average.
 Ans.
-a   Explain how the good estimate of the population standard deviation 𝜎 is   [10]
-Q5   obtained for a random sample 𝑥1, 𝑥2, … , 𝑥𝑛from a normal distribution using
-CO-4;   maximum likelihood estimator (MLE). State any assumptions you use (e.g.
-SO-1;
-BL-2   whether the mean 𝜇is known or unknown) and give the final expression for
-the MLE of 𝜎.
-Ans.
-********** 11 **********
+a   Explain how the good estimate of the population standard deviation 𝜎 is obtained   [10]
+Q5
+for a random sample 𝑥1, 𝑥2, … , 𝑥𝑛from a normal distribution using maximum
+CO-4;
+SO-1;   likelihood estimator (MLE). State any assumptions you use (e.g. whether the
+BL-2
+mean 𝜇is known or unknown) and give the final expression for the MLE of 𝜎.
+11
 --- page 12 ---
-b   A market research company wants to know if the proportion of people   [10]
-shopping online has increased. In a survey conducted last year, 220 out of 500
-CO- 5;   respondents said they preferred online shopping. In a survey conducted this
-SO- 1;   year, 290 out of 520 respondents said they preferred online shopping.
+Ans.
+
+Kin NU, 2),
+
+—— Fee a 9-8
+
+A 3 é Be ot
+
+a
+
+Nar oO
+
+12
+--- page 13 ---
+b   A market research company wants to know if the proportion of people shopping   [10]
+online has increased. In a survey conducted last year, 220 out of 500 respondents
+CO- 5;   said they preferred online shopping. In a survey conducted this year, 290 out of
+SO- 1;   520 respondents said they preferred online shopping.
 BL-4   Test for 1% level of significance, whether there has been an increase in the
 proportion of people who prefer online shopping.
 Ans.
-********** 12 **********
---- page 13 ---
-a   The Westview High School nurse is interested in knowing the average height   [10]
-of seniors at this school, but she does not have enough time to examine the
-records of all 430 seniors. She randomly selects 48 students and finds the
-sample mean to be 64.5 inches and the sample standard deviation to be 2.3
-inches.
-Q6   Solve for:
-CO-4;   (i)   the estimated standard error of the mean.
+13
+--- page 14 ---
+Q6   a   The Westview High School nurse is interested in knowing the average height of   [10]
+seniors at this school, but she does not have enough time to examine the records
+CO-4;   of all 430 seniors. She randomly selects 48 students and finds the sample mean
 SO-1;
-BL-3   (ii)   Construct a 90% confidence interval for the mean height of all
+BL-3   to be 64.5 inches and the sample standard deviation to be 2.3 inches.
+14
+--- page 15 ---
+Solve for:
+(i)   the estimated standard error of the mean.
+(ii)   Construct a 90% confidence interval for the mean height of all
 seniors at Westview High School.
 (iii)   Suppose the Nurse wants to reduce the chances of errors in her
 estimates, what should she do.
-(iv)   Apply your understanding of estimation principles to suggest
-what Nurse can do to reduce the chances of errors in her
-estimates.
-********** 13 **********
---- page 14 ---
+(iv)   Apply your understanding of estimation principles to suggest what
+Nurse can do to reduce the chances of errors in her estimates.
 Ans.
 • To reduce sampling error and get more precise estimates, the nurse
 should increase the sample size.
-•   Justification: The standard error is inversely proportional to the
-square root of the sample size:
-So, larger n → smaller , SE → narrower confidence interval → more
-accurate estimate of the population mean.
+•   Justification: The standard error is inversely proportional to the square
+root of the sample size:
+15
+--- page 16 ---
+So, larger n → smaller , SE → narrower confidence interval → more accurate
+estimate of the population mean.
 --------(3M)
-b   Let x be a random variable that represents weight loss (in pounds) after   [10]
-following a certain diet for 6 months. After extensive study, it is found that x
-CO-5 ;   has a normal distribution with σ = 5.7 pounds. A new modification of the diet
+b   Let x be a random variable that represents weight loss (in pounds) after following   [10]
+a certain diet for 6 months. After extensive study, it is found that x has a normal
+distribution with σ = 5.7 pounds. A new modification of the diet has been
+implemented. A random sample of n=21 people use the modified diet for 6
+CO-5 ;   months. For these people, the sample standard deviation of weight loss is s= 4.1
 SO- 1;
-BL-4   has been implemented. A random sample of n=21 people use the modified diet
-for 6 months. For these people, the sample standard deviation of weight loss
-is s= 4.1 pounds.
-********** 14 **********
---- page 15 ---
+BL-4   pounds.
 Test at 1% level of significance, does this result indicate that the variance of
 weight loss for the modified diet is different (either way) from the variance of
 weight loss for the original diet. Assume weight loss for each diet follows a
 normal distribution
 Ans.
-Q7   a   [10]
-Suppose that customers arrive at a bank according to a poisson process with a
-CO-3;
-SO-1;   mean rate of 3 per minute.
-BL-3
-********** 15 **********
---- page 16 ---
-Solve for the probability that during a time interval of 2 min
-(i)   exactly 4 customers arrive
-(ii)   more than 4 customers arrive
-(iii)   fewer than 4 customer in 2 minute interval.
-Ans.
-********** 16 **********
+16
 --- page 17 ---
+a   Suppose that customers arrive at a bank according to a poisson process with a   [10]
+mean rate of 3 per minute.
+Q7   Solve for the probability that during a time interval of 2 min
+CO-3;   (i)   exactly 4 customers arrive
+SO-1;
+BL-3   (ii)   more than 4 customers arrive
+(iii)   fewer than 4 customer in 2 minute interval.
+17
+--- page 18 ---
+Ans.
+
+Let X(t) be the number of customers arrive at a bank in the time interval of t.
+(i) Mean rate, 4 = 3 per minute
+
+Time interval, t= 2 per minute
+
+No. of arrivals, n= 4
+
+Skt n
+& (f) follows a Poisson process, P [X (f) =n] = oS
+ni
+
+&MO@@T ec 6
+4! HAL
+
+4 customers arrive in | _ sal) Fra
+minute time a egies) =
+
+= 0.1339
+
+(ii) Mean rate, 2 = 3 per minute
+
+Time interval, t = 2 per minute
+
+No. of arrivals, n= more than 4.
+
+P[more than 4 customers in 2 min. interval]
+
+= P[X(2) > 4] = 1 - P[X(2) <4]
+
+= 1= [P EX (2) = 0] + PIX 2) = 1] + PIX (2) =2|
++P |X (2) =3] + P[X 2) = 4]
+eo 26 2 Ge eg 88
+
+Fa ac ik, Mie cae St, ct oethl
+
+= 1-¢°[14+6+18+36+54] = 1-—e¢7° [115]
+=0.715
+(iii) Mean rate, A = 3 per minute
+
+Time interval, t= 2 per minute
+
+No. of arrivals, n = fewer than 4
+
+fewer than 4 customer
+in 2 minute interval
+
+= P[X(2) <4]
+
+= P[X (2) = 0) + P[X (2) = 1] + P [X (2) = 2] + PIX (2) =3]
+
+ee 6? e° 6! e° 6" e76 6
+
+=O. oo rats
+=e | eee = (7°) 61) = 0.1512
+
+18
+--- page 19 ---
 b   A consumer electronics lab compared the battery life of two brands of   [10]
 smartphones.
 • For Brand X, a sample of 10 phones gave an average battery life of
 18.5 hours with a standard deviation of 2.1 hours.
 CO-5 ;
-SO- 1;   • For Brand Y, a sample of 8 phones gave an average battery life of
-BL- 4   20.9 hours with a standard deviation of 1.8 hours.
-At the 1% level of significance, test whether Brand X has lower average battery
-life than Brand Y.
+SO- 1;   • For Brand Y, a sample of 8 phones gave an average battery life of 20.9
+BL- 4   hours with a standard deviation of 1.8 hours.
+At the 1% level of significance, test whether Brand X has lower average battery life
+than Brand Y.
 Ans.
 -------(1M)
 Pooled variance
-********** 17 **********
---- page 18 ---
-2 (m —1)s7 + (m2 — 1)85
-? ny +n2—2
+19
+--- page 20 ---
+2 (m —1)s} + (nz — 1)83
+§p ny +ng—2
+
 Substitute values:
 
-Co (10 — 1)(2.1)? + (8 — 1)(1.8)?
+a (10 — 1)(2.1)? + (8 — 1)(1.8)?
 
-? 10+8-2
-_ 9(4.41) +7(3.24) _ 39.69+ 22.68 62.37 _
-a = Tp 7 38981
+. 10+8-2
+_ 9(4.41) +7(3.24) _ 39.694 22.68 62.37 _
+a 3 Tg 7 3:8981
 
-5, = V3.8981 = 1.9743
+8» — V3.8981 = 1.9743
 (3M)
 
 Standard error (for difference in means)
 
-1 4.
-SE = 8)\/ — + —
-ny nz
-
-= 1.9743 x = 1.9743 x V0.225 — 1.9743 x 0.4743 = 0.9366
-
--——-(2M)
-
 Test statistic
-Z1—Z2_ 185-209 -24 _
-SE 0.9366 0.9366
 
-$=
+1 —%2 _ 185-209   —24
+
+t= SE 0.9366 0.9366 —
 
 —2.562
 
 Degrees of freedom:
+df =n, +n.—-2=—16
+(2M)
 
-df —n, +n.—2-—16
-
-For one-tailed test at a — 0.01 anddf = 16:
+For one-tailed test ata = 0.01 anddf = 16:
 teritical = —2.583
 Compare:
 tealculated = —2.562 > —2.583
 
 So, we fail to reject Hp at the 1% level (just barely — it’s very close).
 
-At a 5% level, we would reject Ho.
-=—~-(2M)
+At a 5% level, we would reject Hp.
+——-(2M)
 
-FR ICR 7] QA HH
+20
 ````

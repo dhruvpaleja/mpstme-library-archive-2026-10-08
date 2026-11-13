@@ -2,6 +2,725 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 5 · Answer key · paper f30513de6164
+
+- Departments: Computer Engineering
+- Programmes: BTech Computer 7002
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Operating Systems/ANS_Operating Systems(702CO1C002)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
+- Text: mixed (22 pages), mean OCR confidence 39.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
+(CS)/B. TECH (CSE - DS)/B. Tech Intg. (CE)/MBA Tech (AI)/MBA Tech (Comp)
+Year: II / III / V/Semester III/Semester IX/Semester V(Exam Year: 2025-2026)
+Subject: Operating Systems
+Date: 28 Nov 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 22 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. Assume Suitable data if necessary.
+1 A What do you mean by Dual mode Operation in OS? Explain with suitable 5
+diagram?
+Definition (2 mark)
+Explanation (2 marks)
+Diagram (1 Mark)
+Dual Mode Operation is a feature of modern operating systems that allows the
+CPU to operate in two distinct modes — User Mode and Kernel (Supervisor)
+Mode — to ensure system security and stability. It prevents user programs
+from directly accessing critical system resources.
+• User Mode:
+o Used to execute user applications.
+o Access to hardware and system resources is restricted.
+o System calls are used to request OS services.
+• Kernel Mode:
+o Used by the operating system to execute privileged instructions.
+o Has unrestricted access to hardware and system memory.
+o Switching from user mode to kernel mode occurs through
+interrupts or system calls.
+The mode bit in the CPU (usually 0 = kernel, 1 = user) determines the current
+operating   mode.
+********** 1 **********
+--- page 2 ---
+When an interrupt or system call occurs, the mode bit switches to kernel mode;
+when control returns to the user process, it switches back to user mode.
+Advantages / Purpose
+•   Protects OS and hardware from faulty or malicious user programs.
+• Maintains system stability and security.
+• Ensures controlled access to resources through system calls only.
+B A student writes the following Producer-Consumer code:   5
+semaphore full = 0, empty = N, mutex = 1;
+Producer() {
+while (true) {
+produce_item(x);
+wait(full);
+wait(mutex);
+insert(x);
+signal(mutex);
+signal(empty);
+}
+}
+Consumer() {
+while (true) {
+wait(empty);
+wait(mutex);
+remove(x);
+signal(mutex);
+signal(full);
+consume_item(x);
+}
+}
+Identify the mistakes in semaphore usage and correct the code.
+Explanation: 1 mark
+Corrected code : 4 marks
+Semaphore wait/signal on full and empty are reversed in Producer and
+Consumer:
+• The Producer should wait on empty (wait for empty slot) before
+inserting an item, then signal full (indicate one more full slot).
+• The Consumer should wait on full (wait for an item) before removing,
+then signal empty (indicate one more empty slot).
+.
+semaphore full = 0, empty = N, mutex = 1;
+Producer() {
+while (true) {
+produce_item(x);
+wait(empty);   // wait for an empty slot
+wait(mutex);
+********** 2 **********
+--- page 3 ---
+insert(x);
+signal(mutex);
+signal(full);   // signal that a new item is available
+}
+}
+Consumer() {
+while (true) {
+wait(full);   // wait for an available item
+wait(mutex);
+remove(x);
+signal(mutex);
+signal(empty);   // signal that a slot is now free
+consume_item(x);
+}
+}
+C What is deadlock prevention? Discuss any two strategies used for preventing
+deadlocks in an operating system.
+Deadlock Prevention 1 Mark
+Strategy 2 Mark each (4 Marks)
+Deadlock prevention is a proactive method of ensuring that the system is
+designed in such a way that at least one of the necessary conditions for
+deadlock can never occur.
+The four necessary conditions for deadlock are:
+1. Mutual Exclusion
+2. Hold and Wait
+3. No Preemption
+4. Circular Wait
+Deadlock prevention works by denying or controlling these conditions.
+Invalidate one of the four necessary conditions for deadlock:
+▪ Mutual Exclusion – not required for sharable resources (e.g., read-only
+files); must hold for non-sharable resources
+▪ Hold and Wait – must guarantee that whenever a process requests a
+resource, it does not hold any other resources
+• Require process to request and be allocated all its resources
+before it begins execution, or allow process to request resources
+only when the process has none allocated to it.
+• Low resource utilization; starvation possible
+▪ No Preemption:
+•   If a process that is holding some resources requests another
+resource that cannot be immediately allocated to it, then all
+resources currently being held are released
+• Preempted resources are added to the list of resources for which
+the process is waiting
+•   Process will be restarted only when it can regain its old
+resources, as well as the new ones that it is requesting
+▪ Circular Wait:
+********** 3 **********
+--- page 4 ---
+• Impose a total ordering of all resource types, and require that
+each process requests resources in an increasing order of
+enumeration
+D Compare blocking, non-blocking, and asynchronous I/O operations by
+explaining how each works in practice, and provide examples to illustrate the
+differences.
+Each operation 1 Mark (3 Marks)
+Example 2 Marks
+Blocking I/O: Process suspended until I/O completed; easy to use and
+understand; sufficient for simple sequential operations
+Nonblocking I/O: Returns immediately with available data; implemented via
+multi-threading; useful for user interfaces and buffered I/O; uses select() to
+check data availability
+Asynchronous I/O: Process continues execution while I/O executes; difficult
+to use but efficient; I/O subsystem signals process upon completion
+Examples: Blocking for simple file reads, nonblocking for network servers
+handling multiple connections, asynchronous for high-performance database
+operations
+2 A Explain the Dining Philosophers problem and critically analyze the reasons 10
+why semaphore-based implementations may result in deadlock or starvation.
+Propose and justify a monitor-based solution that addresses these issues.
+Description: 2 marks
+Why semaphore solution Fail: 2 marks
+Monitor solution: 6 marks
+Description:
+● 5 philosophers’ sit at a round table with a bowl of rice in the middle.
+● They spend their lives alternating thinking and eating.
+● They do not interact with their neighbors.
+● Occasionally try to pick up 2 chopsticks (one at a time) to eat from bowl
+.
+● Need both to eat, then release both when done
+Why semaphore solution Fail:
+● Although this solution guarantees that no two neighbors are eating
+simultaneously, it nevertheless must be rejected because it could create
+a deadlock.
+● Suppose that all five philosophers become hungry at the same time and
+each grab their left chopstick. All the elements of chopstick will now
+be equal to 0. When each philosopher tries to grab their right chopstick,
+they will be delayed forever
+Monitor solution:
+monitor DiningPhilosophers
+{
+enum ( THINKING, HUNGRY, EATING)
+state [5] ;
+condition self [5];
+void pickup (int i) {
+state[i] = HUNGRY;
+********** 4 **********
+--- page 5 ---
+test(i);
+if (state[i] != EATING)
+self[i].wait;
+}
+void putdown (int i) {
+state[i] = THINKING;
+// test left and right neighbors
+test((i + 4) % 5);
+test((i + 1) % 5);
+}
+void test (int i) {
+if ((state[(i + 4) % 5] != EATING) &&
+(state[i] == HUNGRY) &&
+(state[(i + 1) % 5] != EATING) ) {
+state[i] = EATING ;
+self[i].signal () ;
+}
+}
+initialization_code() {
+for (int i = 0; i < 5; i++)
+state[i] = THINKING;
+}
+}
+B Consider the following processes with their arrival times, burst times, and 10
+priorities.
+Process   Arrival Time   Burst Time   Priority
+P1   0   10   2
+P2   1   4   1
+P3   3   7   3
+P4   4   6   2
+P5   6   5   0
+i. Considering pre-emptive priority scheduling algorithm (lower priority
+numbers indicate higher priority), calculate the average turnaround
+time and average waiting time for the given batch of processes.
+ii. Considering round-robin scheduling algorithm (with time quantum =
+4), calculate the average turnaround time and average waiting time for
+the given batch of processes.
+********** 5 **********
+--- page 6 ---
+(GC = 2 marks, Avg. TAT = 1.5 marks, Avg. WT = 1.5 marks)
+(GC = 2 marks, Avg. TAT = 1.5 marks, Avg. WT = 1.5 marks)
+3 A Consider the following snapshot of a system running 5 processes:
+Process Allocation   Max   Available
+A   B   C A   B   C A   B   C
+P1   0   1   0   7   5   3   3   3   2
+P2   2   0   0   3   2   2
+P3   3   0   2   9   0   2
+P4   2   1   1   2   2   2
+P5   0   0   2   4   3   3
+********** 6 **********
+--- page 7 ---
+Answer the following: -
+i. How many resources of type A, B, C are there?
+ii.   Calculate the need matrix?
+iii.   Determine if the system is safe or not.
+iv.   What will happen if the resource request (1, 0, 0) for process P1 arrive,
+can the system accept this request immediately?
+Calculation of total resources 1.5 Marks
+Finding the need matrix 1.5 Marks
+Safe Sequence 3 Marks
+Additional Request 3 Marks
+Total Resources = Available + Allocation
+A B C
+10 5 7
+Need Matrix = Max – Allocation
+Process Need Matrix
+A   B
+C
+P1   7   4   3
+P2   1   2   2
+P3   6   0   0
+P4   0   1   1
+P5   4   3   1
+Finding out system is safe or not. And if safe then the sequence of process
+execution.
+Check if Need matrix <= Available
+Process P2 need ca be full filled
+New Available = Available – Need [P2]
+A B C
+2 1 0
+After P2 complete, Available = New Available + Max[P2]
+A B C
+5 3 2
+Next Process P4 need ca be full filled
+New Available = Available – Need [P4]
+A B C
+5 2 1
+After P4 complete, Available = New Available + Max[P4]
+A B C
+7 4 3
+Next Process P5 need ca be full filled
+New Available = Available – Need [P5]
+********** 7 **********
+--- page 8 ---
+A B C
+3 1 2
+After P5 complete, Available = New Available + Max[P5]
+A B C
+7 4 5
+Next Process P1 need ca be full filled
+New Available = Available – Need [P1]
+A B C
+0 0 2
+After P1 complete, Available = New Available + Max[P1]
+A B C
+7 5 5
+Next Process P3 need ca be full filled
+New Available = Available – Need [P3]
+A B C
+1 5 5
+After P3 complete, Available = New Available + Max[P3]
+A B C
+10 5 7
+If Available == Total Resources.
+Then the system is in safe state and one of the sequences of the process
+execution will be
+P2 -> P4 -> P5 -> P1 -> P3
+Showing the request of P1 (1,0,0) is acceptable or not.
+In the provided available recourses that is
+A B C
+3 3 2
+If we grant P1 (1,0,0) then new available will be
+A B C
+2 3 2
+With these available resources still, we can proceed with the safe sequences of
+the all the process. That’s why we can grant P1 request immediately.
+B Explain the concept of paging and its purpose in memory management. With 10
+the help of a neat diagram, describe how paging hardware translates a logical
+address into a physical address. How the Translation Lookaside Buffer (TLB)
+can enhances the performance of paging.
+Marks Distribution:
+Explanation of paging and need – 4 Marks
+Paging hardware representation – 4 Marks
+Role of TLB in paging – 2 Marks
+Definition:
+Paging is a memory management technique in which the logical (virtual)
+memory of a process is divided into fixed-size blocks called pages, and the
+physical memory (RAM) is divided into blocks of the same size called frames.
+********** 8 **********
+--- page 9 ---
+When a program is executed, its pages are loaded into available frames in main
+memory, not necessarily in a contiguous manner.
+Need for Paging:
+1. Eliminates External Fragmentation:
+Since pages and frames are of fixed size, there are no variable-sized
+memory holes.
+2. Efficient Memory Utilization:
+Allows non-contiguous memory allocation — unused gaps between
+processes are minimized.
+3. Simplifies Memory Management:
+The operating system can manage memory using page tables rather than
+complex variable partitions.
+4. Supports Virtual Memory:
+Enables programs larger than physical memory to execute by loading
+only required pages.
+Role of Translation Lookaside Buffer (2 Marks)
+• Every memory access in a paging system requires two memory
+references:
+o One to access the page table (to find the frame number).
+o Another to access the actual data in memory.
+• This doubles the access time.
+To solve this, a Translation Lookaside Buffer (TLB) is used.
+TLB:
+• A special high-speed cache that stores recently used page table entries
+(page–frame mappings).
+• When a logical address is generated:
+o   If the page number is found in the TLB (TLB hit), the frame
+number is retrieved instantly.
+o   If not found (TLB miss), the page table is accessed and the
+TLB is updated.
+4 A Operating systems provide an environment for execution of programs and,
+offers services to programs and users. Justify the statement by explaining the
+operating system services with suitable diagram?
+Justification (3 Marks)
+********** 9 **********
+--- page 10 ---
+Operating System Services any five (5 Marks)
+Diagram (2 Marks)
+An Operating System (OS) serves as an essential layer between the hardware
+and the user/programs, ensuring efficient, reliable, and convenient execution
+of   applications.
+It provides an execution environment where multiple programs can run
+concurrently, share resources, and interact with hardware safely.
+The OS not only controls hardware but also delivers services that simplify
+program   execution   and   enhance   user   productivity.
+Thus, it can be viewed as both a resource manager and a service provider.
+Justification
+Without the operating system, users would have to directly manage complex
+hardware operations such as memory allocation, device communication, or
+process   synchronization.
+The OS abstracts these complexities by offering well-defined services such as
+program execution, file management, and interprocess communication.
+By providing these services:
+• The OS ensures convenience — users can run programs without
+handling hardware details.
+•   It ensures efficiency — resources like CPU, memory, and I/O are
+allocated optimally.
+•   It ensures security and reliability — through error handling and
+protection mechanisms.
+Hence, the OS creates a controlled, stable, and user-friendly environment for
+both users and system programs.
+Operating System Services (5 Marks)
+1. Program   Execution:
+Loads, runs, and terminates programs. Manages process scheduling and
+transitions.
+2. I/O   Operations:
+Provides a uniform interface for input/output devices, abstracting
+hardware details.
+3. File   System   Manipulation:
+Manages file creation, deletion, access control, and organization in
+secondary storage.
+4. Inter-process   Communication   (IPC):
+Enables process coordination and data exchange through shared
+memory or message passing.
+5. Error   Detection   and   Handling:
+Monitors the system to detect and respond to hardware or software
+errors gracefully.
+6. Resource   Allocation:
+Dynamically allocates CPU time, memory, and I/O to competing
+processes fairly.
+********** 10 **********
+--- page 11 ---
+7. Accounting:
+Tracks system and resource usage for performance monitoring and
+optimization.
+8. Protection   and   Security:
+Ensures data privacy and system integrity through controlled access and
+authentication.
+The OS provides a well-defined execution environment by hiding hardware
+complexity, managing concurrent activities, ensuring safe resource sharing,
+and delivering reliable services.
+Therefore, the statement is justified: “Operating Systems provide an
+environment for execution of programs and services to both programs and
+users.”
+B A disk queue has requests on cylinders 2069, 1212, 2296, 2800, 544, 1618,
+356, 1523. The disk head is currently positioned at cylinder 2150. The disk has
+cylinders numbered from 0 to 4999.
+Calculate the total head movement (in cylinders) required to service all
+requests using the following disk scheduling algorithms:
+1. FCFS (First-Come-First-Served)
+2. SCAN (Elevator Algorithm), assuming the head is initially moving
+towards the highest cylinder (4999).
+3. C-SCAN (Circular SCAN), assuming the head is initially moving
+towards the highest cylinder (4999).
+Compare the performance of the three algorithms based on their total head
+movement and discuss one major factor of comparison.
+Each algorithm 3 marks (9 marks)
+Comparison 1 mark
+********** 11 **********
+--- page 12 ---
+Performance Comparison: SCAN has the lowest head movement (7492
+cylinders), making it the most efficient algorithm for this specific batch of
+********** 12 **********
+--- page 13 ---
+requests and head position. FCFS performs better than C-SCAN, but SCAN is
+the most efficient of the three.
+Major Factor of Comparison: Uniformity of Wait Time
+The major factor distinguishing SCAN and C-SCAN is the Uniformity of Wait
+Time.
+• SCAN: Causes a non-uniform wait time. Requests that are waiting just
+behind the reversing head (e.g., at cylinder 4900 after the head has just
+left it going towards 0) will have to wait for the entire sweep to the
+other end (0) and back, leading to a much longer latency than requests
+near the ends.
+• C-SCAN: Provides a more uniform wait time. By always servicing
+requests in only one direction and immediately jumping back to the
+start, C-SCAN ensures that a new request waits, at most, for the time it
+takes the head to complete one full circular sweep, regardless of its
+position on the disk. This predictability is highly valuable in high-
+performance or heavy-load systems.
+5 A Describe the concept of Message Passing by explaining its fundamental
+primitives and addressing methods. Support your explanation with a neat
+diagram of the general message format.
+Message passing: 2 marks
+Primitives: 3 marks
+Addressing: 2 marks
+Message format: 3 marks
+Message Passing:
+● When processes interact with one another, two fundamental
+requirements must be satisfied: synchronization and communication.
+● Processes need to be synchronized to enforce mutual exclusion;
+cooperating processes may need to exchange information.
+● One approach to providing both of these functions is message passing.
+● Message passing has the further advantage that it lends itself to
+implementation in distributed systems as well as in shared-memory
+multiprocessor and uniprocessor systems.
+Primitives:
+● We need to specify what happens to a process after it issues a send or
+receive primitive.
+● When a send primitive is executed in a process, there are two
+possibilities: Either the sending process is blocked until the message is
+received, or it is not.
+● Similarly, when a process issues a receive primitive, there are two
+possibilities:
+1. If a message has previously been sent, the message is received and execution
+continues.
+2. If there is no waiting message, then either (a) the process is blocked until a
+message arrives, or (b) the process continues to execute, abandoning the
+attempt to receive.
+● Thus, both the sender and receiver can be blocking or nonblocking.
+● Three combinations are common, although any particular system will
+usually have only one or two combinations implemented:
+********** 13 **********
+--- page 14 ---
+1. Blocking send, blocking receive: Both the sender and receiver are blocked
+until the message is delivered; this is sometimes referred to as a rendezvous.
+This combination allows for tight synchronization between processes.
+2. Nonblocking send, blocking receive: Although the sender may continue on,
+the receiver is blocked until the requested message arrives. This is probably
+the most useful combination. It allows a process to send one or more messages
+to a variety of destinations as quickly as possible. A process that must receive
+a message before it can do useful work needs to be blocked until such a
+message arrives. An example is a server process that exists to provide a service
+or resource to other processes.
+3. Nonblocking send, nonblocking receive: Neither party is required to wait.
+Addressing:
+● The various schemes for specifying processes in send and receive
+primitives fall into two categories: direct addressing and indirect
+addressing.
+● With direct addressing, the send primitive includes a specific identifier
+of the destination process.
+● The receive primitive can be handled in one of two ways. One
+possibility is to require that the process explicitly designate a sending
+process. Thus, the process must know ahead of time from which process
+a message is expected.
+● The other general approach is indirect addressing. In this case,
+messages are not sent directly from sender to receiver, but rather are
+sent to a shared data structure consisting of queues that can temporarily
+hold messages.
+● Such queues are generally referred to as mailboxes. Thus, for two
+processes to communicate, one process sends a message to the
+appropriate mailbox, and the other process picks up the messages from
+the mailbox.
+B Analyze how hardware address protection mechanisms, such as base and limit
+registers, prevent illegal memory access. Illustrate your answer with an
+example of process isolation. Consider six memory partitions of size 350 KB,
+700 KB, 580 KB, 450 KB, and 300 KB in the same order. Considering
+contiguous memory allocation, show how the first-fit, best-fit and worst-fit
+algorithms will place the processes of 360 KB, 600 KB, 425 KB, and 250 KB
+(in order).
+********** 14 **********
+--- page 15 ---
+Marks Distribution:
+Address protection mechanism 2 marks
+Process isolation 2 marks
+First Fit – 2 marks
+Best Fit – 2 marks
+Worst Fit – 2 marks
+Hardware address protection is a mechanism in an operating system that
+ensures each process accesses only its allocated memory space. This protection
+is achieved through special hardware registers — primarily the base register
+and limit register — which define the valid address range for each process.
+Base Register: Holds the starting physical address of the process’s memory
+space.
+Limit Register: Specifies the size or maximum offset of the process’s
+addressable memory range.
+When a process generates an address (logical address), the hardware adds the
+base value to it to get the physical address.
+Before accessing memory, the hardware checks whether the logical address is
+less than the limit. If it exceeds, the access is blocked, and a trap or exception
+is raised.
+If 0 ≤ Logical Address < Limit ⇒ Access Allowed
+Else ⇒ Trap (Illegal Access)
+Process Isolation Example
+Consider two processes — P1 and P2.
+P1 has Base = 1000 and Limit = 500, so it can access physical addresses 1000–
+1499.
+P2 has Base = 2000 and Limit = 400, so it can access addresses 2000–2399.
+If P1 tries to access memory location 1800, the hardware check will detect it
+is beyond its limit (1499), triggering a trap — thereby preventing illegal access
+to P2’s memory region.
+********** 15 **********
+--- page 16 ---
+FOI 7 6 FC Cr
+--- page 17 ---
+6 A   I.   Illustrate and describe, using a suitable diagram, how a process 10
+transitions through various states during its execution.
+II.   Identify and explain the conditions under which each state transition
+takes place.
+III.   Apply your understanding of process scheduling to explain two
+scenarios in which a process may transition from the Running state to
+the Ready state before completing its CPU burst.
+I.   4 marks
+II.   3 Marks
+III.   3 Marks
+Solution: i. State Transition diagram - (4 marks)
+i. Transitions occurrence: (3 marks)
+• New→Ready: admitted by long-term scheduler.
+• Ready→Running: selected by CPU scheduler.
+• Running→Waiting: I/O request, page fault, lock wait.
+********** 17 **********
+--- page 18 ---
+• Waiting→Ready: I/O completes, event/interrupt occurs.
+• Running→Ready: preempted by higher priority or time slice expiry.
+• Running→Terminated: process exit/abort.
+ii. As stated in the Lifecycle diagram, a process may move from the
+Running state to the Ready state before completing its CPU burst due
+to pre-emption (I/O or event wait) or priority-based scheduling events
+(interrupts). - (3 marks)
+B A system uses 4 frames for storing process pages in main memory. Assume
+that all the page frames are initially empty. Consider the page reference string
+given below:
+2,3,4,5,3,2,6,7,3,2,3,4,8,7,4,3,2,3,4,7
+I.   Simulate the page replacement using the FIFO algorithm.
+II.   Simulate the page replacement using the LRU algorithm.
+III.   Simulate the page replacement using the Optimal algorithm.
+IV.   For each algorithm, calculate the total number of page faults.
+V.   Based on your results, which algorithm performs best and why?
+Marks Distribution:
+2 marks each on every point of questions i.e. 5 * 2 = 10 marks
+a)
+b)
+********** 18 **********
+--- page 19 ---
+c)
+d) Total number of page faults:
+FIFO:14, LRU:10, optimal: 8
+e) Based on your results, which algorithm performs best and why?
+Optimal minimizes page faults by always replacing the page that will not be
+used for the longest time in the future. It uses future knowledge, making it
+theoretical but ideal for benchmarking. LRU is better than FIFO because it
+uses past usage patterns (replacing least recently used), while FIFO doesn’t
+consider usage, just arrival order.
+7 A What is resource allocation graph? Consider the following snapshot of a
+system having 2 resources (R1 having 1 instance and R2 having 2 instances)
+and running 3 processes.
+Process   Allocation   Request
+R1   R2 R1   R2
+P1   1   0 0   1
+********** 19 **********
+--- page 20 ---
+P2   0   1 1   0
+P3   0   1 0   0
+Draw the resource allocation graph. Find if there is a deadlock or not? If there
+is no deadlock then what will be the sequence of the process to get executed?
+RAG description 3 marks
+Draw RAG 4 marks
+Safe Sequence 3 marks
+i) What is resource allocation graph? [3 Marks]
+ A useful tool in characterizing the allocation of resources to processes
+is the resource allocation graph.
+ The resource allocation graph is a directed graph that depicts a state of
+the system of resources and processes, with each process and each
+resource represented by a node.
+ A graph edge directed from a process to a resource indicates a resource
+that has been requested by the process but not yet granted.
+ Within a resource node, a dot is shown for each instance of that
+resource.
+ Examples of resource types that may have multiple instances are I/O
+devices that are allocated by a resource management module in the OS.
+ A graph edge directed from a reusable resource node dot to a process
+indicates a request that has been granted; that is, the process has been
+assigned one unit of that resource.
+ii) Draw a resource allocation graph of the following table? [4 Marks]
+********** 20 **********
+--- page 21 ---
+iii) Find if there is a deadlock or not? If there is no deadlock then what will be
+the sequence of the process to get executed?   [3 Marks]
+There is no deadlock in the resource allocation graph.
+The sequence of process to execute in safe sequence is
+P3 -> P1 ->P2
+B Define a PCB. How can it help in enabling multi-tasking?   5
+Definition 1 Mark
+Explanation 4 marks
+Solution: A Process Control Block (PCB) is a data structure maintained by
+the Operating System that contains all the essential information about a
+process.   (1 mark)
+Multitasking means executing multiple processes seemingly at the same time
+by rapidly switching the CPU between them.
+Here’s how PCB makes that possible:
+1. Context Saving:
+a. When a running process is interrupted (e.g., due to time slice
+expiry or I/O request),
+the OS saves its current CPU state (registers, PC, etc.) into its
+PCB.
+2. Context Restoration:
+a. When the process is scheduled again, the OS restores the saved
+state from its PCB.
+The process resumes exactly where it left off.
+3. Accurate Process Switching:
+a. The PCB ensures that switching between processes (context
+switching) does not corrupt data or execution flow.
+4. Tracking Multiple Processes:
+********** 21 **********
+--- page 22 ---
+a. Each process has its own PCB, so the OS can easily track,
+suspend, resume, or terminate any process at any time.
+(4 marks)
+C Summarize the main file attributes managed by a file system and explain the 5
+common operations that can be performed on a file.
+Key Attributes 2.5 marks
+File Operations 2.5 marks
+Key File attributes:
+File attributes are pieces of information maintained by the file system about a
+file and are typically kept in the directory structure on the disk.
+Name: This is the only file information kept in human-readable form.
+Identifier: This is a unique tag (a number) that identifies the file within the
+file system.
+Type: This is needed for systems that support different types of files.
+Location: This is a pointer that indicates the file's location on the storage
+device.
+Size: This records the current size of the file.
+Protection: This controls who can perform operations such as reading,
+writing, and executing the file.
+Time, Date, and User Identification: This data is maintained for protection,
+security, and monitoring file usage.
+Major File Operations:
+The operating system provides several major operations that can be
+performed on files:
+Create: This operation creates a new file.
+Write: This operation writes data to the file starting at the current write
+pointer location.
+Read: This operation reads data from the file starting at the current read
+pointer location.
+Delete: This operation deletes the file.
+Open (Fj): This operation involves searching the directory structure on disk
+for the entry Fj and moving the content of that entry into memory.
+Close (Fi): This operation moves the content of file entry Fi from memory
+back to the directory structure on the disk.
+Reposition (Seek): This operation moves the read/write pointer within the
+file.
+Truncate: This operation zeros the file length and keeps the attributes, but
+discards the file's contents.
+********** 22 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper cf0a2c29db19
 
 - Departments: Computer Applications (MCA)
@@ -265,6 +984,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIDS_7056/Operating Systems/ANS_Operating Systems(702CO0C056)_2025-2026.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: ocr (22 pages), mean OCR confidence 86.6
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -490,7 +1210,6 @@ the process is waiting
 resources, as well as the new ones that it is requesting
 = Circular Wait:
 
-BREE EEE 3 KKK EEE
 --- page 4 ---
 Impose a total ordering of all resource types, and require that
 
@@ -597,7 +1316,6 @@ self[i].signal () ;
 
 }
 sii iciiek SET ;
-for Gnt i= 054 aries Lnvocation of op eration =t)
 ae = THINKING; Dining Philasopher p 7 kali ag
 } [st Cot RX / i
 
@@ -952,7 +1670,6 @@ n and data exchange through shared
 Allocation:
 memory, and I/O to competing
 
-SEREEK KEKE 10 RERKARK REE
 --- page 11 ---
 7. Accounting:
 Tracks system and re:
@@ -1020,7 +1737,6 @@ s based on their total head
 Each algorithm 3 marks (9 marks)
 Comparison 1 mark
 
-KEKE RE EREK 411 KEKE KKEREK
 --- page 12 ---
 ae
 gee
@@ -1263,7 +1979,6 @@ If Pl tries to access memory location 1800, the hardware check will detect it
 is beyond its limit (1499), triggering a trap — thereby preventing illegal access
 to P2’s memory region.
 
-ERK KEKE 15 KKK EA KARE
 --- page 16 ---
 REKEKE KEKE 16 KAKKKEEKER
 --- page 17 ---
@@ -1340,13 +2055,11 @@ FIFO
 3 3 3 3 3 ee 7 ete (P| 7
 4 4 4 4 4 4 3 3
 [5] 5 5 5 5 5 2
-F F F F F F F F
 3 4 8 z 4 3 2 3 4 7
 6 4] [4] [a4 44 [al [2 BP a Ee
 7 7 8 8 8} | 8 8 ei}
 3 3 3 7 7 7 7 7 7 7
 2 2 2 2 2 3 3 3 3 3
-F F F F F F
 Total Page Fault: 14
 b)
 
@@ -1359,13 +2072,11 @@ LRU
 of al {a} lal of 3] 3] 213) 3] 3] 0} 3} 11 8
 ola (4 24 34 ole +e 36 36
 ot sl tsi zal 3[_4] of 7] 17 27
-F F F F F F
 
 3 4 8 7 4 3 2 3 4 7
 | 2] 22] 3) of 7] 317 7 3{_ 7) 47] 57] oL7
 g~al tlval 2{al 3[_3l 4[_s| ofl 1[3] OL 3] | 3) 4 3
 
-ge of 4 ila 24 ol 4 IL 424 8 fa) {
 4-7 yt] ofa 1 Cal 2Lal aL] ola] Lad 2 i
 
 F F F F
@@ -1379,7 +2090,6 @@ Optimal
 3 3 3 3 3 3 3 3 3
 4 4 4 4 4 4 4 4
 5 8 5 6 7 7 7
-F F F F F F
 3 4 8 7 4 3 2 3 4 7
 2 2 8 8 8 8 2 2 2 2
 3) 3 3 3 3 3 3 3 3 3
@@ -1464,7 +2174,6 @@ ie pa Py j
 
 ii) Draw a resource allocation graph of the following table? [4 Marks]
 
-RREEKE REE E 20 FERRER KEKE
 --- page 21 ---
 if there is a deadlock or not? If there is no deadlock then what will be
 [3 Marks]
@@ -1518,7 +2227,6 @@ the OS restores the saved
 
 between processes (context
 
-KERR REEE 21 KKKKAK EEK
 --- page 22 ---
 a. Each process has its own PCB, so the OS can easily track,
 suspend, resume, or terminate any process at any time.
@@ -1606,6 +2314,7 @@ EREKEREEKK 22 RREEEKERHRE
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIML_7053/Operating Systems/ANS_Operating Systems(702CO0C056)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: mixed (22 pages), mean OCR confidence 39.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6345,6 +7054,7 @@ o Allows navigation through the directory structure
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Computer_7002/Operating Systems/ANS_Operating Systems(702CO1C002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: ocr (22 pages), mean OCR confidence 86.3
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6802,7 +7512,6 @@ ABC
 Next Process P5 need ca be full filled
 New Available = Available — Need [P5]
 
-EK KK 7 Se ee oe ie a ke eae
 --- page 8 ---
 ABC
 3 a
@@ -7124,7 +7833,6 @@ the head is initially moving
 Each algorithm 3 marks (9 marks)
 Comparison 1 mark
 
-see aOR 11 FERRE HERES
 --- page 12 ---
 a
 Performance Comparison
@@ -7423,7 +8131,6 @@ FIFO
 | 3 3 3} [3 3 7 7 7
 4 4) | 4 4 4 4 3 3
 Ls} Ls [5s 5 5 5 2
-F F F F F F F F
 3 4 8 7 4 3 2 3 7
 
 4
@@ -7451,7 +8158,6 @@ a} 12) ofa) 32) 42] of 2]! 2] 2, 2 82) oO 2
 o| 3] ¢ (3 al of sl 1 (al 213] 313] ol 3] 11 3
 o| 4 14 24) 34 ele [4 36 3/5
 ax.) a] t{_5| 2{_5} 315] of 7 117 217
-F F F F F F
 3 4 8 7 4 3 2 3 4 7
 2} 22) 34 of 4 ' [7 7 3{- 7) 47] S27] 07
 a} 1{_al 2{_3| 3-3] 4[-a| of a] i a] oO 8 | 3 2 8
@@ -7466,7 +8172,6 @@ Tah aml ae afc 2. [e 2 2 2 2 2
 _| Ls Ls Ls 3} | 3} | 8 3 3 3
 —| FI 4 4 al [al 4 4 4 4
 oa |_4| a) [sl Ls 7 7 7
-F F F F F F
 3 4 8 Ze seks dl eehise 2 3 4 7
 4 | 8 3 8 2} {2 L2 2
 Ta) 3 3 3 3 3 3 3 3 3
@@ -7556,9 +8261,7 @@ moe AC) oe 4
 
 a ii) Draw a resource allocation graph of the following table? [4 Marks]
 
-RRREKE RAK 20 FREE KE KKK
 --- page 21 ---
-ie ae i Larigty: ja y
 iii) Find if there is a deadlock or not
 the sequence of the process to get executed?
 There is no deadlock in the resource allocation graph.
@@ -8581,6 +9284,7 @@ o Allows navigation through the directory structure
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_Computer_7032/Operating Systems/ANS_Operating Systems(702CO1C002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: ocr (22 pages), mean OCR confidence 86.6
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -8806,7 +9510,6 @@ the process is waiting
 resources, as well as the new ones that it is requesting
 = Circular Wait:
 
-BREE EEE 3 KKK EEE
 --- page 4 ---
 Impose a total ordering of all resource types, and require that
 
@@ -8913,7 +9616,6 @@ self[i].signal () ;
 
 }
 sii iciiek SET ;
-for Gnt i= 054 aries Lnvocation of op eration =t)
 ae = THINKING; Dining Philasopher p 7 kali ag
 } [st Cot RX / i
 
@@ -9268,7 +9970,6 @@ n and data exchange through shared
 Allocation:
 memory, and I/O to competing
 
-SEREEK KEKE 10 RERKARK REE
 --- page 11 ---
 7. Accounting:
 Tracks system and re:
@@ -9336,7 +10037,6 @@ s based on their total head
 Each algorithm 3 marks (9 marks)
 Comparison 1 mark
 
-KEKE RE EREK 411 KEKE KKEREK
 --- page 12 ---
 ae
 gee
@@ -9579,7 +10279,6 @@ If Pl tries to access memory location 1800, the hardware check will detect it
 is beyond its limit (1499), triggering a trap — thereby preventing illegal access
 to P2’s memory region.
 
-ERK KEKE 15 KKK EA KARE
 --- page 16 ---
 REKEKE KEKE 16 KAKKKEEKER
 --- page 17 ---
@@ -9656,13 +10355,11 @@ FIFO
 3 3 3 3 3 ee 7 ete (P| 7
 4 4 4 4 4 4 3 3
 [5] 5 5 5 5 5 2
-F F F F F F F F
 3 4 8 z 4 3 2 3 4 7
 6 4] [4] [a4 44 [al [2 BP a Ee
 7 7 8 8 8} | 8 8 ei}
 3 3 3 7 7 7 7 7 7 7
 2 2 2 2 2 3 3 3 3 3
-F F F F F F
 Total Page Fault: 14
 b)
 
@@ -9675,13 +10372,11 @@ LRU
 of al {a} lal of 3] 3] 213) 3] 3] 0} 3} 11 8
 ola (4 24 34 ole +e 36 36
 ot sl tsi zal 3[_4] of 7] 17 27
-F F F F F F
 
 3 4 8 7 4 3 2 3 4 7
 | 2] 22] 3) of 7] 317 7 3{_ 7) 47] 57] oL7
 g~al tlval 2{al 3[_3l 4[_s| ofl 1[3] OL 3] | 3) 4 3
 
-ge of 4 ila 24 ol 4 IL 424 8 fa) {
 4-7 yt] ofa 1 Cal 2Lal aL] ola] Lad 2 i
 
 F F F F
@@ -9695,7 +10390,6 @@ Optimal
 3 3 3 3 3 3 3 3 3
 4 4 4 4 4 4 4 4
 5 8 5 6 7 7 7
-F F F F F F
 3 4 8 7 4 3 2 3 4 7
 2 2 8 8 8 8 2 2 2 2
 3) 3 3 3 3 3 3 3 3 3
@@ -9780,7 +10474,6 @@ ie pa Py j
 
 ii) Draw a resource allocation graph of the following table? [4 Marks]
 
-RREEKE REE E 20 FERRER KEKE
 --- page 21 ---
 if there is a deadlock or not? If there is no deadlock then what will be
 [3 Marks]
@@ -9834,7 +10527,6 @@ the OS restores the saved
 
 between processes (context
 
-KERR REEE 21 KKKKAK EEK
 --- page 22 ---
 a. Each process has its own PCB, so the OS can easily track,
 suspend, resume, or terminate any process at any time.
@@ -20994,6 +21686,7 @@ where a record must be accessed by its index or relative block number.
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/MBATech_Computer_7047/Operating Systems/ANS_Operating Systems(702CO1C002)_2025-2026_9a83737962.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Mar 2026
 - Text: mixed (16 pages), mean OCR confidence 40.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -22760,724 +23453,6 @@ Addressing
 Direct Addressing
 Indirect addressing
 ********** 8 **********
-````
-
-## 2024-25 · Final-Exam · Sem 5 · Answer key · paper f30513de6164
-
-- Departments: Computer Engineering
-- Programmes: BTech Computer 7002
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Operating Systems/ANS_Operating Systems(702CO1C002)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
-- Text: mixed (22 pages), mean OCR confidence 39.8
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
-(CS)/B. TECH (CSE - DS)/B. Tech Intg. (CE)/MBA Tech (AI)/MBA Tech (Comp)
-Year: II / III / V/Semester III/Semester IX/Semester V(Exam Year: 2025-2026)
-Subject: Operating Systems
-Date: 28 Nov 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 22 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. Assume Suitable data if necessary.
-1 A What do you mean by Dual mode Operation in OS? Explain with suitable 5
-diagram?
-Definition (2 mark)
-Explanation (2 marks)
-Diagram (1 Mark)
-Dual Mode Operation is a feature of modern operating systems that allows the
-CPU to operate in two distinct modes — User Mode and Kernel (Supervisor)
-Mode — to ensure system security and stability. It prevents user programs
-from directly accessing critical system resources.
-• User Mode:
-o Used to execute user applications.
-o Access to hardware and system resources is restricted.
-o System calls are used to request OS services.
-• Kernel Mode:
-o Used by the operating system to execute privileged instructions.
-o Has unrestricted access to hardware and system memory.
-o Switching from user mode to kernel mode occurs through
-interrupts or system calls.
-The mode bit in the CPU (usually 0 = kernel, 1 = user) determines the current
-operating   mode.
-********** 1 **********
---- page 2 ---
-When an interrupt or system call occurs, the mode bit switches to kernel mode;
-when control returns to the user process, it switches back to user mode.
-Advantages / Purpose
-•   Protects OS and hardware from faulty or malicious user programs.
-• Maintains system stability and security.
-• Ensures controlled access to resources through system calls only.
-B A student writes the following Producer-Consumer code:   5
-semaphore full = 0, empty = N, mutex = 1;
-Producer() {
-while (true) {
-produce_item(x);
-wait(full);
-wait(mutex);
-insert(x);
-signal(mutex);
-signal(empty);
-}
-}
-Consumer() {
-while (true) {
-wait(empty);
-wait(mutex);
-remove(x);
-signal(mutex);
-signal(full);
-consume_item(x);
-}
-}
-Identify the mistakes in semaphore usage and correct the code.
-Explanation: 1 mark
-Corrected code : 4 marks
-Semaphore wait/signal on full and empty are reversed in Producer and
-Consumer:
-• The Producer should wait on empty (wait for empty slot) before
-inserting an item, then signal full (indicate one more full slot).
-• The Consumer should wait on full (wait for an item) before removing,
-then signal empty (indicate one more empty slot).
-.
-semaphore full = 0, empty = N, mutex = 1;
-Producer() {
-while (true) {
-produce_item(x);
-wait(empty);   // wait for an empty slot
-wait(mutex);
-********** 2 **********
---- page 3 ---
-insert(x);
-signal(mutex);
-signal(full);   // signal that a new item is available
-}
-}
-Consumer() {
-while (true) {
-wait(full);   // wait for an available item
-wait(mutex);
-remove(x);
-signal(mutex);
-signal(empty);   // signal that a slot is now free
-consume_item(x);
-}
-}
-C What is deadlock prevention? Discuss any two strategies used for preventing
-deadlocks in an operating system.
-Deadlock Prevention 1 Mark
-Strategy 2 Mark each (4 Marks)
-Deadlock prevention is a proactive method of ensuring that the system is
-designed in such a way that at least one of the necessary conditions for
-deadlock can never occur.
-The four necessary conditions for deadlock are:
-1. Mutual Exclusion
-2. Hold and Wait
-3. No Preemption
-4. Circular Wait
-Deadlock prevention works by denying or controlling these conditions.
-Invalidate one of the four necessary conditions for deadlock:
-▪ Mutual Exclusion – not required for sharable resources (e.g., read-only
-files); must hold for non-sharable resources
-▪ Hold and Wait – must guarantee that whenever a process requests a
-resource, it does not hold any other resources
-• Require process to request and be allocated all its resources
-before it begins execution, or allow process to request resources
-only when the process has none allocated to it.
-• Low resource utilization; starvation possible
-▪ No Preemption:
-•   If a process that is holding some resources requests another
-resource that cannot be immediately allocated to it, then all
-resources currently being held are released
-• Preempted resources are added to the list of resources for which
-the process is waiting
-•   Process will be restarted only when it can regain its old
-resources, as well as the new ones that it is requesting
-▪ Circular Wait:
-********** 3 **********
---- page 4 ---
-• Impose a total ordering of all resource types, and require that
-each process requests resources in an increasing order of
-enumeration
-D Compare blocking, non-blocking, and asynchronous I/O operations by
-explaining how each works in practice, and provide examples to illustrate the
-differences.
-Each operation 1 Mark (3 Marks)
-Example 2 Marks
-Blocking I/O: Process suspended until I/O completed; easy to use and
-understand; sufficient for simple sequential operations
-Nonblocking I/O: Returns immediately with available data; implemented via
-multi-threading; useful for user interfaces and buffered I/O; uses select() to
-check data availability
-Asynchronous I/O: Process continues execution while I/O executes; difficult
-to use but efficient; I/O subsystem signals process upon completion
-Examples: Blocking for simple file reads, nonblocking for network servers
-handling multiple connections, asynchronous for high-performance database
-operations
-2 A Explain the Dining Philosophers problem and critically analyze the reasons 10
-why semaphore-based implementations may result in deadlock or starvation.
-Propose and justify a monitor-based solution that addresses these issues.
-Description: 2 marks
-Why semaphore solution Fail: 2 marks
-Monitor solution: 6 marks
-Description:
-● 5 philosophers’ sit at a round table with a bowl of rice in the middle.
-● They spend their lives alternating thinking and eating.
-● They do not interact with their neighbors.
-● Occasionally try to pick up 2 chopsticks (one at a time) to eat from bowl
-.
-● Need both to eat, then release both when done
-Why semaphore solution Fail:
-● Although this solution guarantees that no two neighbors are eating
-simultaneously, it nevertheless must be rejected because it could create
-a deadlock.
-● Suppose that all five philosophers become hungry at the same time and
-each grab their left chopstick. All the elements of chopstick will now
-be equal to 0. When each philosopher tries to grab their right chopstick,
-they will be delayed forever
-Monitor solution:
-monitor DiningPhilosophers
-{
-enum ( THINKING, HUNGRY, EATING)
-state [5] ;
-condition self [5];
-void pickup (int i) {
-state[i] = HUNGRY;
-********** 4 **********
---- page 5 ---
-test(i);
-if (state[i] != EATING)
-self[i].wait;
-}
-void putdown (int i) {
-state[i] = THINKING;
-// test left and right neighbors
-test((i + 4) % 5);
-test((i + 1) % 5);
-}
-void test (int i) {
-if ((state[(i + 4) % 5] != EATING) &&
-(state[i] == HUNGRY) &&
-(state[(i + 1) % 5] != EATING) ) {
-state[i] = EATING ;
-self[i].signal () ;
-}
-}
-initialization_code() {
-for (int i = 0; i < 5; i++)
-state[i] = THINKING;
-}
-}
-B Consider the following processes with their arrival times, burst times, and 10
-priorities.
-Process   Arrival Time   Burst Time   Priority
-P1   0   10   2
-P2   1   4   1
-P3   3   7   3
-P4   4   6   2
-P5   6   5   0
-i. Considering pre-emptive priority scheduling algorithm (lower priority
-numbers indicate higher priority), calculate the average turnaround
-time and average waiting time for the given batch of processes.
-ii. Considering round-robin scheduling algorithm (with time quantum =
-4), calculate the average turnaround time and average waiting time for
-the given batch of processes.
-********** 5 **********
---- page 6 ---
-(GC = 2 marks, Avg. TAT = 1.5 marks, Avg. WT = 1.5 marks)
-(GC = 2 marks, Avg. TAT = 1.5 marks, Avg. WT = 1.5 marks)
-3 A Consider the following snapshot of a system running 5 processes:
-Process Allocation   Max   Available
-A   B   C A   B   C A   B   C
-P1   0   1   0   7   5   3   3   3   2
-P2   2   0   0   3   2   2
-P3   3   0   2   9   0   2
-P4   2   1   1   2   2   2
-P5   0   0   2   4   3   3
-********** 6 **********
---- page 7 ---
-Answer the following: -
-i. How many resources of type A, B, C are there?
-ii.   Calculate the need matrix?
-iii.   Determine if the system is safe or not.
-iv.   What will happen if the resource request (1, 0, 0) for process P1 arrive,
-can the system accept this request immediately?
-Calculation of total resources 1.5 Marks
-Finding the need matrix 1.5 Marks
-Safe Sequence 3 Marks
-Additional Request 3 Marks
-Total Resources = Available + Allocation
-A B C
-10 5 7
-Need Matrix = Max – Allocation
-Process Need Matrix
-A   B
-C
-P1   7   4   3
-P2   1   2   2
-P3   6   0   0
-P4   0   1   1
-P5   4   3   1
-Finding out system is safe or not. And if safe then the sequence of process
-execution.
-Check if Need matrix <= Available
-Process P2 need ca be full filled
-New Available = Available – Need [P2]
-A B C
-2 1 0
-After P2 complete, Available = New Available + Max[P2]
-A B C
-5 3 2
-Next Process P4 need ca be full filled
-New Available = Available – Need [P4]
-A B C
-5 2 1
-After P4 complete, Available = New Available + Max[P4]
-A B C
-7 4 3
-Next Process P5 need ca be full filled
-New Available = Available – Need [P5]
-********** 7 **********
---- page 8 ---
-A B C
-3 1 2
-After P5 complete, Available = New Available + Max[P5]
-A B C
-7 4 5
-Next Process P1 need ca be full filled
-New Available = Available – Need [P1]
-A B C
-0 0 2
-After P1 complete, Available = New Available + Max[P1]
-A B C
-7 5 5
-Next Process P3 need ca be full filled
-New Available = Available – Need [P3]
-A B C
-1 5 5
-After P3 complete, Available = New Available + Max[P3]
-A B C
-10 5 7
-If Available == Total Resources.
-Then the system is in safe state and one of the sequences of the process
-execution will be
-P2 -> P4 -> P5 -> P1 -> P3
-Showing the request of P1 (1,0,0) is acceptable or not.
-In the provided available recourses that is
-A B C
-3 3 2
-If we grant P1 (1,0,0) then new available will be
-A B C
-2 3 2
-With these available resources still, we can proceed with the safe sequences of
-the all the process. That’s why we can grant P1 request immediately.
-B Explain the concept of paging and its purpose in memory management. With 10
-the help of a neat diagram, describe how paging hardware translates a logical
-address into a physical address. How the Translation Lookaside Buffer (TLB)
-can enhances the performance of paging.
-Marks Distribution:
-Explanation of paging and need – 4 Marks
-Paging hardware representation – 4 Marks
-Role of TLB in paging – 2 Marks
-Definition:
-Paging is a memory management technique in which the logical (virtual)
-memory of a process is divided into fixed-size blocks called pages, and the
-physical memory (RAM) is divided into blocks of the same size called frames.
-********** 8 **********
---- page 9 ---
-When a program is executed, its pages are loaded into available frames in main
-memory, not necessarily in a contiguous manner.
-Need for Paging:
-1. Eliminates External Fragmentation:
-Since pages and frames are of fixed size, there are no variable-sized
-memory holes.
-2. Efficient Memory Utilization:
-Allows non-contiguous memory allocation — unused gaps between
-processes are minimized.
-3. Simplifies Memory Management:
-The operating system can manage memory using page tables rather than
-complex variable partitions.
-4. Supports Virtual Memory:
-Enables programs larger than physical memory to execute by loading
-only required pages.
-Role of Translation Lookaside Buffer (2 Marks)
-• Every memory access in a paging system requires two memory
-references:
-o One to access the page table (to find the frame number).
-o Another to access the actual data in memory.
-• This doubles the access time.
-To solve this, a Translation Lookaside Buffer (TLB) is used.
-TLB:
-• A special high-speed cache that stores recently used page table entries
-(page–frame mappings).
-• When a logical address is generated:
-o   If the page number is found in the TLB (TLB hit), the frame
-number is retrieved instantly.
-o   If not found (TLB miss), the page table is accessed and the
-TLB is updated.
-4 A Operating systems provide an environment for execution of programs and,
-offers services to programs and users. Justify the statement by explaining the
-operating system services with suitable diagram?
-Justification (3 Marks)
-********** 9 **********
---- page 10 ---
-Operating System Services any five (5 Marks)
-Diagram (2 Marks)
-An Operating System (OS) serves as an essential layer between the hardware
-and the user/programs, ensuring efficient, reliable, and convenient execution
-of   applications.
-It provides an execution environment where multiple programs can run
-concurrently, share resources, and interact with hardware safely.
-The OS not only controls hardware but also delivers services that simplify
-program   execution   and   enhance   user   productivity.
-Thus, it can be viewed as both a resource manager and a service provider.
-Justification
-Without the operating system, users would have to directly manage complex
-hardware operations such as memory allocation, device communication, or
-process   synchronization.
-The OS abstracts these complexities by offering well-defined services such as
-program execution, file management, and interprocess communication.
-By providing these services:
-• The OS ensures convenience — users can run programs without
-handling hardware details.
-•   It ensures efficiency — resources like CPU, memory, and I/O are
-allocated optimally.
-•   It ensures security and reliability — through error handling and
-protection mechanisms.
-Hence, the OS creates a controlled, stable, and user-friendly environment for
-both users and system programs.
-Operating System Services (5 Marks)
-1. Program   Execution:
-Loads, runs, and terminates programs. Manages process scheduling and
-transitions.
-2. I/O   Operations:
-Provides a uniform interface for input/output devices, abstracting
-hardware details.
-3. File   System   Manipulation:
-Manages file creation, deletion, access control, and organization in
-secondary storage.
-4. Inter-process   Communication   (IPC):
-Enables process coordination and data exchange through shared
-memory or message passing.
-5. Error   Detection   and   Handling:
-Monitors the system to detect and respond to hardware or software
-errors gracefully.
-6. Resource   Allocation:
-Dynamically allocates CPU time, memory, and I/O to competing
-processes fairly.
-********** 10 **********
---- page 11 ---
-7. Accounting:
-Tracks system and resource usage for performance monitoring and
-optimization.
-8. Protection   and   Security:
-Ensures data privacy and system integrity through controlled access and
-authentication.
-The OS provides a well-defined execution environment by hiding hardware
-complexity, managing concurrent activities, ensuring safe resource sharing,
-and delivering reliable services.
-Therefore, the statement is justified: “Operating Systems provide an
-environment for execution of programs and services to both programs and
-users.”
-B A disk queue has requests on cylinders 2069, 1212, 2296, 2800, 544, 1618,
-356, 1523. The disk head is currently positioned at cylinder 2150. The disk has
-cylinders numbered from 0 to 4999.
-Calculate the total head movement (in cylinders) required to service all
-requests using the following disk scheduling algorithms:
-1. FCFS (First-Come-First-Served)
-2. SCAN (Elevator Algorithm), assuming the head is initially moving
-towards the highest cylinder (4999).
-3. C-SCAN (Circular SCAN), assuming the head is initially moving
-towards the highest cylinder (4999).
-Compare the performance of the three algorithms based on their total head
-movement and discuss one major factor of comparison.
-Each algorithm 3 marks (9 marks)
-Comparison 1 mark
-********** 11 **********
---- page 12 ---
-Performance Comparison: SCAN has the lowest head movement (7492
-cylinders), making it the most efficient algorithm for this specific batch of
-********** 12 **********
---- page 13 ---
-requests and head position. FCFS performs better than C-SCAN, but SCAN is
-the most efficient of the three.
-Major Factor of Comparison: Uniformity of Wait Time
-The major factor distinguishing SCAN and C-SCAN is the Uniformity of Wait
-Time.
-• SCAN: Causes a non-uniform wait time. Requests that are waiting just
-behind the reversing head (e.g., at cylinder 4900 after the head has just
-left it going towards 0) will have to wait for the entire sweep to the
-other end (0) and back, leading to a much longer latency than requests
-near the ends.
-• C-SCAN: Provides a more uniform wait time. By always servicing
-requests in only one direction and immediately jumping back to the
-start, C-SCAN ensures that a new request waits, at most, for the time it
-takes the head to complete one full circular sweep, regardless of its
-position on the disk. This predictability is highly valuable in high-
-performance or heavy-load systems.
-5 A Describe the concept of Message Passing by explaining its fundamental
-primitives and addressing methods. Support your explanation with a neat
-diagram of the general message format.
-Message passing: 2 marks
-Primitives: 3 marks
-Addressing: 2 marks
-Message format: 3 marks
-Message Passing:
-● When processes interact with one another, two fundamental
-requirements must be satisfied: synchronization and communication.
-● Processes need to be synchronized to enforce mutual exclusion;
-cooperating processes may need to exchange information.
-● One approach to providing both of these functions is message passing.
-● Message passing has the further advantage that it lends itself to
-implementation in distributed systems as well as in shared-memory
-multiprocessor and uniprocessor systems.
-Primitives:
-● We need to specify what happens to a process after it issues a send or
-receive primitive.
-● When a send primitive is executed in a process, there are two
-possibilities: Either the sending process is blocked until the message is
-received, or it is not.
-● Similarly, when a process issues a receive primitive, there are two
-possibilities:
-1. If a message has previously been sent, the message is received and execution
-continues.
-2. If there is no waiting message, then either (a) the process is blocked until a
-message arrives, or (b) the process continues to execute, abandoning the
-attempt to receive.
-● Thus, both the sender and receiver can be blocking or nonblocking.
-● Three combinations are common, although any particular system will
-usually have only one or two combinations implemented:
-********** 13 **********
---- page 14 ---
-1. Blocking send, blocking receive: Both the sender and receiver are blocked
-until the message is delivered; this is sometimes referred to as a rendezvous.
-This combination allows for tight synchronization between processes.
-2. Nonblocking send, blocking receive: Although the sender may continue on,
-the receiver is blocked until the requested message arrives. This is probably
-the most useful combination. It allows a process to send one or more messages
-to a variety of destinations as quickly as possible. A process that must receive
-a message before it can do useful work needs to be blocked until such a
-message arrives. An example is a server process that exists to provide a service
-or resource to other processes.
-3. Nonblocking send, nonblocking receive: Neither party is required to wait.
-Addressing:
-● The various schemes for specifying processes in send and receive
-primitives fall into two categories: direct addressing and indirect
-addressing.
-● With direct addressing, the send primitive includes a specific identifier
-of the destination process.
-● The receive primitive can be handled in one of two ways. One
-possibility is to require that the process explicitly designate a sending
-process. Thus, the process must know ahead of time from which process
-a message is expected.
-● The other general approach is indirect addressing. In this case,
-messages are not sent directly from sender to receiver, but rather are
-sent to a shared data structure consisting of queues that can temporarily
-hold messages.
-● Such queues are generally referred to as mailboxes. Thus, for two
-processes to communicate, one process sends a message to the
-appropriate mailbox, and the other process picks up the messages from
-the mailbox.
-B Analyze how hardware address protection mechanisms, such as base and limit
-registers, prevent illegal memory access. Illustrate your answer with an
-example of process isolation. Consider six memory partitions of size 350 KB,
-700 KB, 580 KB, 450 KB, and 300 KB in the same order. Considering
-contiguous memory allocation, show how the first-fit, best-fit and worst-fit
-algorithms will place the processes of 360 KB, 600 KB, 425 KB, and 250 KB
-(in order).
-********** 14 **********
---- page 15 ---
-Marks Distribution:
-Address protection mechanism 2 marks
-Process isolation 2 marks
-First Fit – 2 marks
-Best Fit – 2 marks
-Worst Fit – 2 marks
-Hardware address protection is a mechanism in an operating system that
-ensures each process accesses only its allocated memory space. This protection
-is achieved through special hardware registers — primarily the base register
-and limit register — which define the valid address range for each process.
-Base Register: Holds the starting physical address of the process’s memory
-space.
-Limit Register: Specifies the size or maximum offset of the process’s
-addressable memory range.
-When a process generates an address (logical address), the hardware adds the
-base value to it to get the physical address.
-Before accessing memory, the hardware checks whether the logical address is
-less than the limit. If it exceeds, the access is blocked, and a trap or exception
-is raised.
-If 0 ≤ Logical Address < Limit ⇒ Access Allowed
-Else ⇒ Trap (Illegal Access)
-Process Isolation Example
-Consider two processes — P1 and P2.
-P1 has Base = 1000 and Limit = 500, so it can access physical addresses 1000–
-1499.
-P2 has Base = 2000 and Limit = 400, so it can access addresses 2000–2399.
-If P1 tries to access memory location 1800, the hardware check will detect it
-is beyond its limit (1499), triggering a trap — thereby preventing illegal access
-to P2’s memory region.
-********** 15 **********
---- page 16 ---
-FOI 7 6 FC Cr
---- page 17 ---
-6 A   I.   Illustrate and describe, using a suitable diagram, how a process 10
-transitions through various states during its execution.
-II.   Identify and explain the conditions under which each state transition
-takes place.
-III.   Apply your understanding of process scheduling to explain two
-scenarios in which a process may transition from the Running state to
-the Ready state before completing its CPU burst.
-I.   4 marks
-II.   3 Marks
-III.   3 Marks
-Solution: i. State Transition diagram - (4 marks)
-i. Transitions occurrence: (3 marks)
-• New→Ready: admitted by long-term scheduler.
-• Ready→Running: selected by CPU scheduler.
-• Running→Waiting: I/O request, page fault, lock wait.
-********** 17 **********
---- page 18 ---
-• Waiting→Ready: I/O completes, event/interrupt occurs.
-• Running→Ready: preempted by higher priority or time slice expiry.
-• Running→Terminated: process exit/abort.
-ii. As stated in the Lifecycle diagram, a process may move from the
-Running state to the Ready state before completing its CPU burst due
-to pre-emption (I/O or event wait) or priority-based scheduling events
-(interrupts). - (3 marks)
-B A system uses 4 frames for storing process pages in main memory. Assume
-that all the page frames are initially empty. Consider the page reference string
-given below:
-2,3,4,5,3,2,6,7,3,2,3,4,8,7,4,3,2,3,4,7
-I.   Simulate the page replacement using the FIFO algorithm.
-II.   Simulate the page replacement using the LRU algorithm.
-III.   Simulate the page replacement using the Optimal algorithm.
-IV.   For each algorithm, calculate the total number of page faults.
-V.   Based on your results, which algorithm performs best and why?
-Marks Distribution:
-2 marks each on every point of questions i.e. 5 * 2 = 10 marks
-a)
-b)
-********** 18 **********
---- page 19 ---
-c)
-d) Total number of page faults:
-FIFO:14, LRU:10, optimal: 8
-e) Based on your results, which algorithm performs best and why?
-Optimal minimizes page faults by always replacing the page that will not be
-used for the longest time in the future. It uses future knowledge, making it
-theoretical but ideal for benchmarking. LRU is better than FIFO because it
-uses past usage patterns (replacing least recently used), while FIFO doesn’t
-consider usage, just arrival order.
-7 A What is resource allocation graph? Consider the following snapshot of a
-system having 2 resources (R1 having 1 instance and R2 having 2 instances)
-and running 3 processes.
-Process   Allocation   Request
-R1   R2 R1   R2
-P1   1   0 0   1
-********** 19 **********
---- page 20 ---
-P2   0   1 1   0
-P3   0   1 0   0
-Draw the resource allocation graph. Find if there is a deadlock or not? If there
-is no deadlock then what will be the sequence of the process to get executed?
-RAG description 3 marks
-Draw RAG 4 marks
-Safe Sequence 3 marks
-i) What is resource allocation graph? [3 Marks]
- A useful tool in characterizing the allocation of resources to processes
-is the resource allocation graph.
- The resource allocation graph is a directed graph that depicts a state of
-the system of resources and processes, with each process and each
-resource represented by a node.
- A graph edge directed from a process to a resource indicates a resource
-that has been requested by the process but not yet granted.
- Within a resource node, a dot is shown for each instance of that
-resource.
- Examples of resource types that may have multiple instances are I/O
-devices that are allocated by a resource management module in the OS.
- A graph edge directed from a reusable resource node dot to a process
-indicates a request that has been granted; that is, the process has been
-assigned one unit of that resource.
-ii) Draw a resource allocation graph of the following table? [4 Marks]
-********** 20 **********
---- page 21 ---
-iii) Find if there is a deadlock or not? If there is no deadlock then what will be
-the sequence of the process to get executed?   [3 Marks]
-There is no deadlock in the resource allocation graph.
-The sequence of process to execute in safe sequence is
-P3 -> P1 ->P2
-B Define a PCB. How can it help in enabling multi-tasking?   5
-Definition 1 Mark
-Explanation 4 marks
-Solution: A Process Control Block (PCB) is a data structure maintained by
-the Operating System that contains all the essential information about a
-process.   (1 mark)
-Multitasking means executing multiple processes seemingly at the same time
-by rapidly switching the CPU between them.
-Here’s how PCB makes that possible:
-1. Context Saving:
-a. When a running process is interrupted (e.g., due to time slice
-expiry or I/O request),
-the OS saves its current CPU state (registers, PC, etc.) into its
-PCB.
-2. Context Restoration:
-a. When the process is scheduled again, the OS restores the saved
-state from its PCB.
-The process resumes exactly where it left off.
-3. Accurate Process Switching:
-a. The PCB ensures that switching between processes (context
-switching) does not corrupt data or execution flow.
-4. Tracking Multiple Processes:
-********** 21 **********
---- page 22 ---
-a. Each process has its own PCB, so the OS can easily track,
-suspend, resume, or terminate any process at any time.
-(4 marks)
-C Summarize the main file attributes managed by a file system and explain the 5
-common operations that can be performed on a file.
-Key Attributes 2.5 marks
-File Operations 2.5 marks
-Key File attributes:
-File attributes are pieces of information maintained by the file system about a
-file and are typically kept in the directory structure on the disk.
-Name: This is the only file information kept in human-readable form.
-Identifier: This is a unique tag (a number) that identifies the file within the
-file system.
-Type: This is needed for systems that support different types of files.
-Location: This is a pointer that indicates the file's location on the storage
-device.
-Size: This records the current size of the file.
-Protection: This controls who can perform operations such as reading,
-writing, and executing the file.
-Time, Date, and User Identification: This data is maintained for protection,
-security, and monitoring file usage.
-Major File Operations:
-The operating system provides several major operations that can be
-performed on files:
-Create: This operation creates a new file.
-Write: This operation writes data to the file starting at the current write
-pointer location.
-Read: This operation reads data from the file starting at the current read
-pointer location.
-Delete: This operation deletes the file.
-Open (Fj): This operation involves searching the directory structure on disk
-for the entry Fj and moving the content of that entry into memory.
-Close (Fi): This operation moves the content of file entry Fi from memory
-back to the directory structure on the disk.
-Reposition (Seek): This operation moves the read/write pointer within the
-file.
-Truncate: This operation zeros the file length and keeps the attributes, but
-discards the file's contents.
-********** 22 **********
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper aa115ff0b5e2

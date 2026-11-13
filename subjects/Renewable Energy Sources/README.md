@@ -14,23 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechanical 7003 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech AI 7051 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Renewable Energy Sources, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
@@ -49,14 +32,23 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechanical 7003 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechanical 7003 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech AI 7051 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH | Renewable Energy Sources, Sem-VI, Batch Batch2023-24 &2024-25, 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
@@ -66,6 +58,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechanical 7003 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Renewable Energy Sources(702ME0I001)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B TECH, B.TECH INTEGRATED, MBA TECH | Renewable Energy Sources Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5, Sem 6 | B TECH, MBA TECH | Renewable Energy Sources, Sem VI, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper |  | B.TECH INTEGRATED | Renewable Energy Sources Batch 2024-25 Final Batch 2023-24 Re Exam_86ed00c0b1.pdf |

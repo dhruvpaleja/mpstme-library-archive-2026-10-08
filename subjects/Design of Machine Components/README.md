@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Design of Machine Components(702MH0E003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech Mechatronics 7004 | QP_Design of Machine Components(702MH0E003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Design of Machine Components(702MH0E003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Design of Machine Components(702MH0E003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Mechatronics 7004 | QP_Design of Machine Components(702MH0E003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Design of Machine Components(702MH0E003)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Design of Machine Components, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Design of Machine Components, Sem-V, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Design of Machine Components, Sem-V, Final Exam, A Y 2023-24.pdf |

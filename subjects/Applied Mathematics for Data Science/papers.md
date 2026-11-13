@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM I FALL BATCH/Applied Mathematics for Data Science/Applied Mathematics for Data Science 2025-26 Final.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (7 pages), mean OCR confidence 81.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS .
@@ -402,7 +403,6 @@ nm | 8643 | 9.542 | 10.982 | 12.338 | 14.041 | 30.813 33.924 | 36.781 | 40.289 |
 
 194 94n eval 1ac Onn VAN 10
 
-Tan boraano |oanarh | nanan Taran I onaco 1 110 400
 --- page 7 ---
 ae
 
@@ -1576,6 +1576,7 @@ it
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM I SPRING/SEM I/Applied Mathematics for Data Science/Applied Mathematics for Data Science Batch 2024-25 Re Ex0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (11 pages), mean OCR confidence 75.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS |
@@ -1791,7 +1792,6 @@ Standard Normal Distribution Table
 3.4 | .4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4998
 3.5 | .4998 | .4998 | .4998 4998 4998 | .4998 | .4998 | .4998 | .4998 | .4998
 
-Gilles Cazelais. Typesct with IATEX on April 20, 2006.
 --- page 5 ---
 t Table
 
@@ -3096,7 +3096,6 @@ F Distribution Table
 a 0,025
 dfn,
 
-di [1 j-2) 3) 4) 5) 6¢}7[ slo] ol ets lalul» lol o fi] &
 1 | 6478 | 7995 | 8642 | 8996} 9218 | 937.1 | 948.2 | 9567| 9633] 9686] 976.7] 9849] 9931] 9972] 1001] 1006] 1010 10141 1018
 “2 | 3851 | 3900 | 39.17 | 39.25 | 3930 | 39.33} 3936] 3937] 3939] 3940] 341] 3943] 3945] 3945] 3946 | 3947 | 3948] 3049 | 3950
 3 | M744 | 16.04 | 1544 | 15.20 | 1488] 1473 | 1462 | 1454] 1447] 1442 | 1434] 1425] 1417] 1412] 1408] 1404 | 13.99 1395 | 13.90

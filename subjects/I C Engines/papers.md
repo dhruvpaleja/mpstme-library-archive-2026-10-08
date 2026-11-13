@@ -587,6 +587,7 @@ ACR HE RC SAC RRR EAC ACRE CCC RCO RO estes fee RSF I A AC ACO RE oR a oo CO oo 
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/I C ENGINES/I C ENGINES (MECHANICAL), 2017-18 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 16 May 2018
 - Text: ocr (2 pages), mean OCR confidence 93.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -679,7 +680,6 @@ supercharger.
 b) Illustrate the working of rotary engines. (05)
 c) Describe in detail Euro Norms for vehicle emmisions. (04)
 
-ok ok OR Ro ok ko oo ok
 ````
 
 ## 2017-18 · Final-Exam · Sem 8 · paper 7f9cd04ac5f1
@@ -1895,6 +1895,278 @@ b) Draw up heat balance sheet on minute and percentage basis
 Explain the Dual cycle with the help of P-V and T-S diagrams (04)
 ````
 
+## 2014-15 · Re-Exam · Sem 6 · paper 1a9941b7569f
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/I C ENGINES/I C ENGINES B TECH (MECH), B TECH (MECHANICAL) RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 07/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.0
+
+````text
+Ql
+
+Q.2
+
+o£
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (MECH) Year: III Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015.
+Subject: I.C, Engines ts 27
+Marks
+Date: 07/05/2015 Tima\
+Durations. 3 (hrs
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No 1 is compulsory. Attempt any FOUR from remaining.
+2. All questions carry equal marks.
+3. Answer to each new question should be started on a fresh page.
+4. Figure in brackets on the right hand side indicate full marks.
+5. Assume suitable data if necessary.
+
+(a) An air standard limited pressure cycle has a compression ratio of 15 and compression begins 12
+at 0.1 MPa, 40°C. The maximum pressure is limited to 6 MPa and the heat added is 1.675
+MJ/kg. Compute (a) the heat supplied at constant volume per kg of air, (b) the heat supplied at
+constant pressure per kg of air, (c) the work done per kg of air, (d) the cycle efficiency, (e) the
+temperature at the end of the constant volume heating process, (£) the cut-off ratio, and (g) the
+
+m.e.p. of the cycle.
+(b) Describe in detail the stages of combustion in S.I engine. 08
+
+(a) Following data relate to a single cylinder diese! engine: : 15
+Bore=18 cm .
+Stroke=30 cm
+Speed =320 r.p.m
+Brake torque= 400 Nm
+i.m.e.p=7.2 bar
+Fuel consumption =3.5 kg /hr
+Rate of cooling water circulated =5.0 kg/min
+Temperature rise of cooling water=30°C
+Air-fuel ratio=24
+Exhaust gas temperature=390°C
+Ambient temperature=25°C
+Specific Heat of exhaust gases=1.05 kj/kg k
+C.V of fuel =44000 kj/kg.
+Specific heat of water Cpw=4.19 kj/kg k
+Determine LP, B.P, mechanical efficiency, Indicated and brake thermal efficiency and draw up
+heat balance sheet on kj/min and percentage basis.
+
+(b) Explain the thermosyphon cooling system in detail. 05
+
+'
+
+i.
+--- page 2 ---
+Q3
+
+Q4
+
+Q5
+
+Q.6
+
+Q.7
+
+wr ¢£
+
+(a) Compare Otto, Diesel cycle with the help of p-v and t-s diagram for the
+(i) same compression ratio and heat input
+
+(ii) same maximum pressure and heat input
+
+(iii) same maximum pressure and temperature
+
+(iv) same maximum pressure and work output
+
+(b) What is supercharging? What are the limitations of supercharging?
+
+(c) What are the factors which effect the delay period in C.I Engine?
+
+(a) With the help of neat P-© diagram explain combustion stages in C.I Engine.
+(b) Explain any three types of combustion chambers used in S.I engine.
+
+(c) Define octane and cetane numbers and give their significance.
+
+(a) Solve any Two of the following:
+
+(i) Compare between S.J Engines & C.J Engines
+
+(ii) Explain in details Common Rail Direct Injection (CRDD) engine with layout.
+(iii) Describe the EURO III norms for IC engine emission
+
+(iv) Compare between detonation(S.1 Engine) and Knocking in C.I engine
+
+(b) Discuss various types of exhaust emission from C.I Engine and explain the problems created
+by exhaust emissions?
+
+(a) Discuss the causes and effect of detonation in S.I Engines.
+(b) Explain alcohols as alternate fuels for IC engine bringing out their merits and demerits.
+(c) Explain Willan’s Line Method and give out its limitation.
+
+Solve any Four of the following.
+(i) Discuss with neat sketch Exhaust Gas Recirculation (EGR)
+
+Gi) | What is Turbo charging? Explain in details.
+(iii) Discuss the various types of Alternative fuels for I.C Engines
+
+(iv) | Compare between Air cooling system and water cooling system
+(v) Compare between Two stroke and Four stroke Engines
+
+(vi) | Give the Classification of LC Engines
+
+“4.
+
+08
+
+05S
+
+07
+
+08
+
+07
+
+05
+
+10
+
+10
+
+08
+
+07
+
+05
+
+20
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper 1ab5a5670c63
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/I C ENGINES/I C ENGINES B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 30/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: Ill Semester: VI
+
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: LC. Engines
+
+%.
+
+vt
+Marks: f ‘
+Date: 30/06/2015 Time: 10.0 ‘00 am to 1. 00 bit
+Durations: : 3 ts)
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No 1 is compulsory. Attempt any FOUR from remaining.
+
+2. All questions carry equal marks.
+3. Answer to each new question should be started on a fresh page.
+
+4. Figure in brackets on the right hand side indicate full marks.
+5. Assume suitable data if necessary.
+
+Q.1 Attempt ANY FOUR of the followings (20)
+a. Explain the air standard Ottd cycle with p-v and t-s diagram
+b. What are the basic requirements of good combustion chamber of S.I. engine?
+c. What are the methods of controlling diesel knock?
+d. Describe ‘alcohol’ as an alternative fuel for I. C. Engine.
+e. What are the advantages and disadvantages of water cooled system
+f, Describe how the I.P. of Multi-cylinder engine is measured
+
+Q.2 a. What do you understand by ignition lag? Discuss effect of different factors which affect (10)
+
+the ignition lag.
+b. Explain pre combustion chamber and its advantages and disadvantages. (10)
+Q.3 a. Explain tha valve timing diagram for 4-stroke petrol engine (10)
+b. Explain the constant pressure Turbocharging with its advantages & disadvantages. (10)
+
+pression ratio of 18, and heat transferred to tha (10)
+
+sion swoke ihe
+
+Q.4 a. Anair slandered diesel cycle has com
+working fluid per cycie is 1600 cng,
+pressure is 1 bar and the temperature is 300 K
+
+Calculate:
+a. The pressure and tempreture at each point in the cycle
+
+b. The mean effective pressure
+c. Thermal efficiency
+b. Explain MPFI and stratified charge cngine. (10)
+
+At the vogitiniag of coiupr
+
+?
+
+Q.5a. <A 4-stroke, 4-cylinder gas engine works on constant volume cycle. The initial pressure (10)
+in the cycle is 1 bar and the maximum pressure is limited to 60 bar. Assuming the
+expansion and compression follows the law pv!? =constant piston speed is 600 m/min.,
+find the B.P. developed by the engine. Also assume that the heat addition and rejection
+takes place at constant at volume and exhaust at 1 bar. The diameter of each cylinder is
+10cm, mechanical efficiency of 75% and compression ratio is 12.
+
+4/2.
+--- page 2 ---
+soa
+
+b. Describe the working of complex superchager with the help of neat sketch
+
+Q.6 a. The following observation made during test on an oil engine:
+B.P. of engine = 31.5 kW, fuel used = 10.5 kg/hr, C.V. of fuel =43000 kJ/kg, jacket
+circulating water = 540 kg/hr,rise in temp of cooling water = 56°c.Exhaust gases are
+passed through the exhaust gas calorimeter for finding heat carried away by exhaust
+gases.
+Water circulated through exhaust gas calorimeter=454 kg/hr
+Rise in temperature of water passing through exhaust gas calorimeter=3 6°C
+Temperature of exhaust gas leaving the exhaust gas calorimeter=82°C
+A:F ratio =19:1 , ambient temperature =17°C,
+Cp for exhaust gases =1kj/kg-k
+Draw up the heat balance sheet on minute and percentage basis.
+
+b. What are the relative merits and demerits of 2-strake over 4-stroke engine.
+
+Q.7 a. Discuss the factors affecting the phenomenon of knocking.
+b. What are the factors which affect the delay period in C. I. Engine.
+c. Explain the working of thermostat cooling with neat sketch.
+
+a
+
+(10)
+(12)
+
+(38)
+
+(5)
+(5)
+(10)
+````
+
 ## 2014-15 · Re-Exam · Sem 6 · paper a10d5eb78568
 
 - Departments: Mechanical
@@ -2240,123 +2512,6 @@ ReKKKKKKEK
 (5)
 
 (20)
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 1ab5a5670c63
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/I C ENGINES/I C ENGINES B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 30/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: Ill Semester: VI
-
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: LC. Engines
-
-%.
-
-vt
-Marks: f ‘
-Date: 30/06/2015 Time: 10.0 ‘00 am to 1. 00 bit
-Durations: : 3 ts)
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No 1 is compulsory. Attempt any FOUR from remaining.
-
-2. All questions carry equal marks.
-3. Answer to each new question should be started on a fresh page.
-
-4. Figure in brackets on the right hand side indicate full marks.
-5. Assume suitable data if necessary.
-
-Q.1 Attempt ANY FOUR of the followings (20)
-a. Explain the air standard Ottd cycle with p-v and t-s diagram
-b. What are the basic requirements of good combustion chamber of S.I. engine?
-c. What are the methods of controlling diesel knock?
-d. Describe ‘alcohol’ as an alternative fuel for I. C. Engine.
-e. What are the advantages and disadvantages of water cooled system
-f, Describe how the I.P. of Multi-cylinder engine is measured
-
-Q.2 a. What do you understand by ignition lag? Discuss effect of different factors which affect (10)
-
-the ignition lag.
-b. Explain pre combustion chamber and its advantages and disadvantages. (10)
-Q.3 a. Explain tha valve timing diagram for 4-stroke petrol engine (10)
-b. Explain the constant pressure Turbocharging with its advantages & disadvantages. (10)
-
-pression ratio of 18, and heat transferred to tha (10)
-
-sion swoke ihe
-
-Q.4 a. Anair slandered diesel cycle has com
-working fluid per cycie is 1600 cng,
-pressure is 1 bar and the temperature is 300 K
-
-Calculate:
-a. The pressure and tempreture at each point in the cycle
-
-b. The mean effective pressure
-c. Thermal efficiency
-b. Explain MPFI and stratified charge cngine. (10)
-
-At the vogitiniag of coiupr
-
-?
-
-Q.5a. <A 4-stroke, 4-cylinder gas engine works on constant volume cycle. The initial pressure (10)
-in the cycle is 1 bar and the maximum pressure is limited to 60 bar. Assuming the
-expansion and compression follows the law pv!? =constant piston speed is 600 m/min.,
-find the B.P. developed by the engine. Also assume that the heat addition and rejection
-takes place at constant at volume and exhaust at 1 bar. The diameter of each cylinder is
-10cm, mechanical efficiency of 75% and compression ratio is 12.
-
-4/2.
---- page 2 ---
-soa
-
-b. Describe the working of complex superchager with the help of neat sketch
-
-Q.6 a. The following observation made during test on an oil engine:
-B.P. of engine = 31.5 kW, fuel used = 10.5 kg/hr, C.V. of fuel =43000 kJ/kg, jacket
-circulating water = 540 kg/hr,rise in temp of cooling water = 56°c.Exhaust gases are
-passed through the exhaust gas calorimeter for finding heat carried away by exhaust
-gases.
-Water circulated through exhaust gas calorimeter=454 kg/hr
-Rise in temperature of water passing through exhaust gas calorimeter=3 6°C
-Temperature of exhaust gas leaving the exhaust gas calorimeter=82°C
-A:F ratio =19:1 , ambient temperature =17°C,
-Cp for exhaust gases =1kj/kg-k
-Draw up the heat balance sheet on minute and percentage basis.
-
-b. What are the relative merits and demerits of 2-strake over 4-stroke engine.
-
-Q.7 a. Discuss the factors affecting the phenomenon of knocking.
-b. What are the factors which affect the delay period in C. I. Engine.
-c. Explain the working of thermostat cooling with neat sketch.
-
-a
-
-(10)
-(12)
-
-(38)
-
-(5)
-(5)
-(10)
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper c90643994974
@@ -3134,159 +3289,4 @@ _ Factors that limits the compression ratio in SI and Cl engine.
 . Willians line test.
 
 3
-````
-
-## Year not stated · Re-Exam · Sem 6 · paper 1a9941b7569f
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/I C ENGINES/I C ENGINES B TECH (MECH), B TECH (MECHANICAL) RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 07/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-Ql
-
-Q.2
-
-o£
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (MECH) Year: III Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015.
-Subject: I.C, Engines ts 27
-Marks
-Date: 07/05/2015 Tima\
-Durations. 3 (hrs
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No 1 is compulsory. Attempt any FOUR from remaining.
-2. All questions carry equal marks.
-3. Answer to each new question should be started on a fresh page.
-4. Figure in brackets on the right hand side indicate full marks.
-5. Assume suitable data if necessary.
-
-(a) An air standard limited pressure cycle has a compression ratio of 15 and compression begins 12
-at 0.1 MPa, 40°C. The maximum pressure is limited to 6 MPa and the heat added is 1.675
-MJ/kg. Compute (a) the heat supplied at constant volume per kg of air, (b) the heat supplied at
-constant pressure per kg of air, (c) the work done per kg of air, (d) the cycle efficiency, (e) the
-temperature at the end of the constant volume heating process, (£) the cut-off ratio, and (g) the
-
-m.e.p. of the cycle.
-(b) Describe in detail the stages of combustion in S.I engine. 08
-
-(a) Following data relate to a single cylinder diese! engine: : 15
-Bore=18 cm .
-Stroke=30 cm
-Speed =320 r.p.m
-Brake torque= 400 Nm
-i.m.e.p=7.2 bar
-Fuel consumption =3.5 kg /hr
-Rate of cooling water circulated =5.0 kg/min
-Temperature rise of cooling water=30°C
-Air-fuel ratio=24
-Exhaust gas temperature=390°C
-Ambient temperature=25°C
-Specific Heat of exhaust gases=1.05 kj/kg k
-C.V of fuel =44000 kj/kg.
-Specific heat of water Cpw=4.19 kj/kg k
-Determine LP, B.P, mechanical efficiency, Indicated and brake thermal efficiency and draw up
-heat balance sheet on kj/min and percentage basis.
-
-(b) Explain the thermosyphon cooling system in detail. 05
-
-'
-
-i.
---- page 2 ---
-Q3
-
-Q4
-
-Q5
-
-Q.6
-
-Q.7
-
-wr ¢£
-
-(a) Compare Otto, Diesel cycle with the help of p-v and t-s diagram for the
-(i) same compression ratio and heat input
-
-(ii) same maximum pressure and heat input
-
-(iii) same maximum pressure and temperature
-
-(iv) same maximum pressure and work output
-
-(b) What is supercharging? What are the limitations of supercharging?
-
-(c) What are the factors which effect the delay period in C.I Engine?
-
-(a) With the help of neat P-© diagram explain combustion stages in C.I Engine.
-(b) Explain any three types of combustion chambers used in S.I engine.
-
-(c) Define octane and cetane numbers and give their significance.
-
-(a) Solve any Two of the following:
-
-(i) Compare between S.J Engines & C.J Engines
-
-(ii) Explain in details Common Rail Direct Injection (CRDD) engine with layout.
-(iii) Describe the EURO III norms for IC engine emission
-
-(iv) Compare between detonation(S.1 Engine) and Knocking in C.I engine
-
-(b) Discuss various types of exhaust emission from C.I Engine and explain the problems created
-by exhaust emissions?
-
-(a) Discuss the causes and effect of detonation in S.I Engines.
-(b) Explain alcohols as alternate fuels for IC engine bringing out their merits and demerits.
-(c) Explain Willan’s Line Method and give out its limitation.
-
-Solve any Four of the following.
-(i) Discuss with neat sketch Exhaust Gas Recirculation (EGR)
-
-Gi) | What is Turbo charging? Explain in details.
-(iii) Discuss the various types of Alternative fuels for I.C Engines
-
-(iv) | Compare between Air cooling system and water cooling system
-(v) Compare between Two stroke and Four stroke Engines
-
-(vi) | Give the Classification of LC Engines
-
-“4.
-
-08
-
-05S
-
-07
-
-08
-
-07
-
-05
-
-10
-
-10
-
-08
-
-07
-
-05
-
-20
 ````

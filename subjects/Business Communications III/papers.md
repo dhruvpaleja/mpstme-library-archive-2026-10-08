@@ -1,8 +1,94 @@
 # Business Communications III: question papers in full
 
-5 unique papers · 2009-10 to 2011-12 · Common (all branches), Chemical, Information Technology, Manufacturing
+6 unique papers · 2008-09 to 2012-13 · Common (all branches), Chemical, Information Technology, Manufacturing
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2012-13 · Exam not stated · Trim 15 · paper dc6db863cc1d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS COMMUNICATION III/Scan 0021.pdf`
+- Printed on paper: max marks: 50; exam date: 12/4/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS   ( P S T M B
+Iukesh Rtel School Of Technoloss Management 8s Engin
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV
+Academic Year : 2012-2013
+/   Subject:   BUSINESS COMMUNICATION Ill   Marks:   50
+Time:   10.30am To 12.30pm
+Date:   12/4/2013   Duration:   2   h rs.
+Final - Examination
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer book, which is provided for their
+use.
+Answer all questions.
+Answer to each new question should start on a fresh page.
+All questions carry equal marks.
+1. What are the various steps involved in a communication audit ?
+2. What are the key requirements to succeed as a Public Relations Manager ?
+3. Many times on troubled projects, project team members feel that if the
+communication had been better, the project would have run smoother. What are
+the ingredients of a successful 'project co~nmunications process' ?
+4. You are promoted as the Business Development Manager of your organization.
+How would you prepare the 'Business Plan' for a proposed activity?
+5. How can an 'Annual Report' of the Company be a useful instrument to display
+its corporate governance philosophy to the stakeholders ?
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper dace3fccc57b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS COMMUNICATION III/BUSINESS COMMUNICATION III 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 31/03/2012
+- Text: ocr (1 page), mean OCR confidence 92.3
+
+````text
+\
+
+RIC. se a
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineerin;
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
+Academic Year : 2011-2012 ;
+Subject: BUSINESS COMMUNICATION - Ill Marks: 50 ;
+Time: 10.30 am To 12.30 pm
+Date: 31/03/2012 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+
+Answer all the questions.
+Answer to each new question to be started on a fresh page.
+All questions carry equal marks.
+
+1. You are a new age entrepreneur and very keen on starting a chain of experimental
+nome education schools for kids? The focus of the school is on “Learning by doing”. You
+are required to prepare a business plan to present it in front of the bank for approval
+of loan and grants, What all factors will you consider according to the framework to
+
+} present your case?
+
+2. What are the different roles performed by employees in managing communication
+in project management. Also draw a communication matrix for the said roles?
+
+3. What are the financial writing obligations vis-a-vis Corporate Governance of a
+Company?
+
+4. Suggest five actions that can be implemented after a Communication Audit has
+been conducted and specify the results that you can expect from them
+
+5. Define Public Relations as is understood today and discuss the various roles that a
+modern Public Relations Officer is expected to play.
+
+o
+/|
+````
 
 ## 2011-12 · Re-Exam · Trim 15 · paper e7af4e82fbd0
 
@@ -538,88 +624,229 @@ OS x ——
 +4
 ````
 
-## Year not stated · Exam not stated · Trim 15 · paper dace3fccc57b
+## 2008-09 · Exam not stated · Trim 12 · paper fd80b3613f88
 
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS COMMUNICATION III/BUSINESS COMMUNICATION III 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 31/03/2012
-- Text: ocr (1 page), mean OCR confidence 92.3
-
-````text
-\
-
-RIC. se a
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineerin;
-Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
-Academic Year : 2011-2012 ;
-Subject: BUSINESS COMMUNICATION - Ill Marks: 50 ;
-Time: 10.30 am To 12.30 pm
-Date: 31/03/2012 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their use.
-
-Answer all the questions.
-Answer to each new question to be started on a fresh page.
-All questions carry equal marks.
-
-1. You are a new age entrepreneur and very keen on starting a chain of experimental
-nome education schools for kids? The focus of the school is on “Learning by doing”. You
-are required to prepare a business plan to present it in front of the bank for approval
-of loan and grants, What all factors will you consider according to the framework to
-
-} present your case?
-
-2. What are the different roles performed by employees in managing communication
-in project management. Also draw a communication matrix for the said roles?
-
-3. What are the financial writing obligations vis-a-vis Corporate Governance of a
-Company?
-
-4. Suggest five actions that can be implemented after a Communication Audit has
-been conducted and specify the results that you can expect from them
-
-5. Define Public Relations as is understood today and discuss the various roles that a
-modern Public Relations Officer is expected to play.
-
-o
-/|
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper dc6db863cc1d
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS COMMUNICATION III/Scan 0021.pdf`
-- Printed on paper: max marks: 50; exam date: 12/4/2013
-- Text: text (1 page)
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/management of technology/2008-2009(189).pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (4 pages), mean OCR confidence 91.7
 
 ````text
-SVKM's NMIMS   ( P S T M B
-Iukesh Rtel School Of Technoloss Management 8s Engin
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV
-Academic Year : 2012-2013
-/   Subject:   BUSINESS COMMUNICATION Ill   Marks:   50
-Time:   10.30am To 12.30pm
-Date:   12/4/2013   Duration:   2   h rs.
-Final - Examination
+SVKM’S NMIMS UNIVERSITY ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME Tt ke LBaagy aa
+
+ENGINEERING a =,/
+i i ___ sae \ % Sf
+MBA (TECH) fKOGRAMME (MANAGEMENT) 4™ YEAR | art Zs
+TRIMESTER XII, 2008-09
+Subject: BUSINESS COMMUNICATIONS I Max. Marks: 50
+Date: Y¥- O05 -O 9 Time Allowed: 2hrs &-0O “46Opm
+
 Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer book, which is provided for their
-use.
-Answer all questions.
-Answer to each new question should start on a fresh page.
-All questions carry equal marks.
-1. What are the various steps involved in a communication audit ?
-2. What are the key requirements to succeed as a Public Relations Manager ?
-3. Many times on troubled projects, project team members feel that if the
-communication had been better, the project would have run smoother. What are
-the ingredients of a successful 'project co~nmunications process' ?
-4. You are promoted as the Business Development Manager of your organization.
-How would you prepare the 'Business Plan' for a proposed activity?
-5. How can an 'Annual Report' of the Company be a useful instrument to display
-its corporate governance philosophy to the stakeholders ?
+question paper and on the cover of the Answer Book, which
+is provided for their use.
+
+NB.
+1. All questions are compulsory. 2
+2. All questions carry equal marks.
+3. Answer to each new question to be started on a fresh page.
+4. Figure in brackets indicate full marks.
+
+PART A
+
+1. Multiple choice questions.
+For the following set of 10 questions, choose any one from the given five
+options. [10]
+
+(a) Choose the best medium for asking an informational question:
+(i) Meeting
+(ii) Phone call
+(iii) Hard copy
+(iv) Voice mail
+(v)E-mail
+
+(b) Choose the best medium for making a simple request:
+(i) Meeting ,
+(ii) Phone call
+(iii) Hard copy
+(iv)Voice mail
+(v)E-mail
+
+(c) Choose the best medium for giving complex instructions:
+(i) Meeting
+(ii) Phone call
+(iii) Hard copy
+(iv)Voice mail
+(v)E-mail
+
+PTO
+--- page 2 ---
+(d) What is the number of communication channels formed, if 15 people are involved
+in the project:
+
+(i) 135
+
+(ii) 109
+
+(iii) 105
+
+(iv)145
+
+(v)155
+
+(e) Which process is applicable when project managers retreat from a actual or
+potential disagreement?
+
+(i) Confrontation
+
+(ii) Compromise
+
+(iii) Smoothing
+
+(iv) Forcing
+
+(vy) Withdrawal
+
+(f) Choose the best medium for assessing commitment:
+(i) Meeting
+(ii) Phone call
+(iii) Hard copy
+(iv) Voice mail
+(v)E-mail
+
+(g) Which process is applicable when project managers directly face a conflict
+using a problem-solving approach that allows affected parties to work through
+their disagreements?
+
+(vi) | Confrontation
+
+(vii) Compromise
+
+(viii) Smoothing
+
+(ix) Forcing
+
+(x) Withdrawal
+
+(h) Which process is applicable when project managers use a give and take
+approach to resolving conflicts?
+
+(i) Confrontation
+
+(ii) Compromise
+
+(iii)Smoothing
+
+(iv)Forcing
+
+(v) Withdrawal
+
+PTO
+--- page 3 ---
+HI
+EN
+
+(i) Which process is applicable when project managers avoids areas of !
+
+c
+
+differences and emphasizes areas of agreement?
+(i)Confrontation
+
+(ii) Compromise
+
+(iii) Smoothing
+
+(iv)Forcing
+
+(v) Withdrawal
+
+(j) Which process is applicable when project managers exert their viewpoint at
+the potential expense of another viewpoint?
+(i)Confrontation
+(ii)Compromise
+(iii)Smoothing
+(iv)Forcing
+(v) Withdrawal!
+
+PART B
+
+2. What does the client look out for in a business proposal? [10]
+
+3. What are the different elements of a business plan? Give a brief description of each
+constituent component of each element of a business plan. [10]
+
+4. What items should a communications management plan address? How can a
+stakeholder analysis assist in preparing and implementing parts of this plan? [10]
+
+PART C
+
+5. Case Study Analysis [10]
+
+Tokyo Disneyland, the largest amusement park in Japan, draws nearly as many
+visitors each year as the Magic Kingdom here in the United States. But like all theme
+parks, the Tokyo park understood the need to offer fresh attractions and exciting new
+rides to keep the crowds coming back year after year. In its search for dynamic new
+ideas to expand its already popular park, Tokyo Disneyland turned to Walt Disney
+Imagineering.
+
+Generating and implementing new ideas for the Disney theme parks are tasks of Walt
+Disney Imagineering, the research, design, and engineering subsidiary of Walt Disney
+Attractions. Although Tokyo Disneyland is a Disney theme park and Disney retains
+the creative control of the park, the park is actually owned and operated by the
+Oriental Land Company. This company makes all financial and investment decisions.
+While creative concepts come from Disney Imagineering teams, those ideas are not
+automatically accepted by theme park owners. Imagineering teams not only had to
+dream up exciting concepts for the Tokyo park, but they also had to sell the ideas and
+
+PTC
+--- page 4 ---
+Ly
+
+win the approval of Japanese owners. Millions of dollars of contracts and hundreds of
+jobs in the United States and in Japan rested on successful presentations to the owners
+of Tokyo Disneyland.
+
+Jon Georges, lead show producer for the Tokyo Disneyland Project, was part of a
+talented Imagineering team that came up with a totally new attraction and restaurant
+concept for the Disney theme park. Based on Winnie the Pooh and Alice in
+Wonderland characters, the creative project involved two phases. The first was a
+theme restaurant called the “Queens of Hearts Banquet Hall.” The second was a major
+ride attraction based on Winnie the Pooh characters. Both concepts required
+considerable persuasion to win approval.
+
+Traditionally, the Japanese park owners had accepted only attractions that had proved
+technically successful in other theme parks. Naturally, they were reluctant to try a
+restaurant concept and a ride technology that were both brand new. Selling the
+Japanese on the new concepts required oral presentations from Jon Georges and the
+Imagineering team.
+
+Understanding the audience and anticipating its reaction were integral part of Jon’s
+preparation for a presentation. For the Tokyo Disneyland project, Jon and the
+Imagineering team wanted to present their concepts in broad terms to see if the
+financiers liked the total idea. But Jon also knew that this audience would be detail
+oriented. “Japanese tend to want particulars — like the colour of the concrete, the
+number of restrooms, and the exact location where visitors would exit an attraction.”
+
+Other adaptations Jon made for the Tokyo presentation involved choice of language
+and presentation style. Carefully avoiding Disney and design jargon, he consciously
+used common words and simple sentences, which the translator had little trouble
+converting to Japanese. In making his presentation, Jon kept in mind three important
+elements: organization, visuals, and focus. Although he had thousands of details in
+mind, he forced himself to keep his presentation logical and simple. He concentrated
+on one powerful point: convincing his Japanese listeners that the new attractions
+would enhance the value of Tokyo Disneyland and would draw more visitors through
+the turnstiles. :
+
+1. What questions was Jon Georges asking himself in anticipating the audience
+for the Tokyo Disneyland presentation? [4]
+
+2. Why is simplicity important in an oral presentation and why was it particularly
+
+important for the Tokyo Disneyland presentation? [4]
+
+3. Why are visual aids critical for both local and international audiences? [2]
+
+~ pe
 ````

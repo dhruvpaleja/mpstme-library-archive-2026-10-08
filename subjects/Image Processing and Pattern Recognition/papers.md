@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSBS/SEM-VIII/IMAGE PROCESSING & PATTERN RECOGNITION/Image Processing and Pattern Recognition, Sem-VIII, Year 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 86.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -70,7 +71,6 @@ Original Image Digital Image
 
 Calculate the first order and second order derivative for following data:
 
-_ [sisia 3 2fifolofofelo oleloli{3 1 ofalolol7{7i7 7] [10]
 BL-4,2 Discuss property and applications of both.
 Using line detection kernels, find if the given sub-image constitutes a
 horizontal, vertical or diagonal line?

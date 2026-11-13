@@ -16,18 +16,6 @@ Also filed as: `ELEMENT OF BIOLOGY`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech CS 7055, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech IT 7001 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech Civil 7005, BTech Computer 7002, BTech Mechanical 7003, BTech Mechatronics 7004, MBATech Computer 7047 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 5 | BTech Civil 7005, Integrated Computer 7032 | ANS_Elements of Biology(702BS0C049)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Elements of Biology(701BS0C028)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1, Sem 3 | B TECH, B TECH / CIVIL, MBA TECH | Elements of Biology, Sem-I, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper |  | B.TECH INTEGRATED | Elements of Biology 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / IT | Elements of Biology 2025-26 Final.pdf |
@@ -46,25 +34,18 @@ Also filed as: `ELEMENT OF BIOLOGY`
 | 2025-26 | Final-Exam | Question paper | Sem 2 | BTech IT 7001 | QP_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | Integrated Mechanical 7031 | QP_Elements of Biology(701BS0C028)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Elements of Biology(702BS0C049)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Mechatronics 7004 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Elements of Biology(701BS0C028)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | Integrated DS 7038 | ANS_Elements of Biology(701BS0C028)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Elements of Biology(701BS0C028)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Elements of Biology(701BS0C028)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech IT 7041 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech CS 7055, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech IT 7001 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech Civil 7005, BTech Computer 7002, BTech Mechanical 7003, BTech Mechatronics 7004, MBATech Computer 7047 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 5 | BTech Civil 7005, Integrated Computer 7032 | ANS_Elements of Biology(702BS0C049)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Elements of Biology(701BS0C028)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | B TECH | Elements of Biology, Sem-II, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
@@ -85,26 +66,27 @@ Also filed as: `ELEMENT OF BIOLOGY`
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech Computer 7047 | QP_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MBATech IT 7041 | QP_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Elements of Biology(702BS0C049)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Mechatronics 7004 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Elements of Biology(701BS0C028)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | Integrated DS 7038 | ANS_Elements of Biology(701BS0C028)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Elements of Biology(701BS0C028)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Elements of Biology(701BS0C028)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech IT 7041 | ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / IT | Elements of Biology Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / MECHANICAL | Elements of Biology Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CS 7055 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CyberSecurity 7010 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech DS 7009 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Mechatronics 7004 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated DS 7038 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech CS 7055 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
@@ -123,24 +105,24 @@ Also filed as: `ELEMENT OF BIOLOGY`
 | 2024-25 | Final-Exam | Question paper | Sem 6 | Integrated Mechanical 7031 | QP_Elements of Biology(701BS0C028)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Elements of Biology(702BS0C049)_2024-2025_30fe666c11.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CyberSecurity 7010 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech DS 7009 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Mechatronics 7004 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CS 7055 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CyberSecurity 7010 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech DS 7009 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Mechatronics 7004 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated DS 7038 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech CSE DS 7057 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
@@ -159,6 +141,24 @@ Also filed as: `ELEMENT OF BIOLOGY`
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech Computer 7047 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Elements of Biology(702BS0C049)_2024-2025_30fe666c11.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Computer 7002 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CyberSecurity 7010 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech DS 7009 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Mechatronics 7004 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Elements of Biology(701BS0C028)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Elements of Biology(702BS0C049)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 1 | B TECH | Elements of Biology, Sem-I, Final Exam A Y 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2, Sem 4, Sem 6, Sem 8 | B TECH, B TECH / COMPUTER, B.TECH INTEGRATED / MECHANICAL, MBA TECH, MBA TECH / COMPUTER | Elements of Biology, Sem-II, Final Exam, A Y 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / IT | Elements of Biology Batch 2023-24 Final.pdf |

@@ -240,6 +240,7 @@ BL-2
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Civil_7005/Soil Mechanics/ANS_Soil Mechanics(702CI0C035)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: mixed (7 pages), mean OCR confidence 80.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -439,7 +440,6 @@ fa VOKNY me
 £ 20, a0 AO OD fa r
 okdiearem Uediagram “diagram
 Level Total Stress (a) Neutral Stress (u) Effective Stress.
-(kk/ m?) (kN/ m*) (")(kN/ m?)
 A 0 oO 0 [07]
 B 10x2 = 20 10x2 = 20 20-20 =0
 c 20 + (18x 10) 20 + (10% 10)= 200-120= 80

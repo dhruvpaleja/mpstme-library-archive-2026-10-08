@@ -119,6 +119,7 @@ Apply
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VII SEMESTER/SOFTWARE TESTING/Software Testing, Sem-VII, Year 2025-26 Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -185,7 +186,6 @@ Analyse 1. def k(s):
 
 3. n = int(s)
 
-FRI Fa OR AK a kk
 --- page 2 ---
 4. except ValueError:
 Sis return "bad"
@@ -552,8 +552,8 @@ software for loan eligibility calculator.
 ## 2023-24 · Final-Exam · Sem 7 · paper 356746fa2161
 
 - Departments: Information Technology
-- Programmes: B TECH / IT
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VII SEMESTER/SOFTWARE TESTING/Software Testing, Final 2023-24.pdf`
+- Programmes: B TECH / IT, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VII SEMESTER/SOFTWARE TESTING/Software Testing, Final 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 88.4
 
@@ -768,6 +768,7 @@ BL-2,3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/SOFTWARE TESTING/Software Testing , Re-exam 2021-2022.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 June 2022
 - Text: ocr (2 pages), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -813,7 +814,6 @@ CO-1,2; b. Differentiate between Inspection and Informal review with reference t
 SO-2; . a
 BL-1 software testing
 CO-2;SO- | c. Explain the concept of condition testing in white box testing technique. 5
-Wee Pp P' ng g q
 BL-1
 CO-3;SO- | d. Discuss the process of configuration management in software applications. | [5
 _ Pp g g PP

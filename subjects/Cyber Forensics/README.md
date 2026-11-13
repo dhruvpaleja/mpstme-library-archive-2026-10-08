@@ -16,12 +16,6 @@ Also filed as: `CYBER FORENSIC`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7, Sem 11 | BTech AIDS 7056, Integrated Computer 7032 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7, Sem 11 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER | B Tech, Cyber Forensics, 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7, Sem 11 | BTech AIDS 7056, Integrated Computer 7032 | QP_Cyber Forensics(702IT0E024)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Computer 7002 | QP_Cyber Forensics(702IT0E024)_2025-2026.pdf |
@@ -29,11 +23,17 @@ Also filed as: `CYBER FORENSIC`
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated IT 7037 | QP_Cyber Forensics(702IT0E024)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Cyber Forensics(702IT0E024)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Cyber Forensics(702IT0E024)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7, Sem 11 | BTech AIDS 7056, Integrated Computer 7032 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 8, Sem 10 | B TECH / I T, B TECH / IT, B.TECH INTEGRATED / IT, MBA TECH / Computer, MBA TECH / I T | Cyber Forensics Batch 2025-26 Re Exam0001.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech Computer 7002 | QP_Cyber Forensics(702IT0E024)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Cyber Forensics(702IT0E024)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Cyber Forensics(702IT0E024)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / COMPUTER, B TECH / EXTC, B TECH / I T, MBA TECH / I T | Cyber Forensics, Sem VI, Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / EXTC | Cyber Forensics Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / COMPUTER | Cyber Forensics, Sem-VII, Batch 2024-25, Re Exam.pdf |

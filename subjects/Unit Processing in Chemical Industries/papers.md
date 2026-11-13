@@ -581,241 +581,141 @@ Page 2 of 2
 (6)
 ````
 
-## 2014-15 · Final-Exam · Sem 4 · paper 029e9ad74780
+## 2015-16 · Re-Exam · Sem 4 · paper 96b17a91609c
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/UNIT PROCESSING IN CHEMICAL INDUSTRIES/UNIT PROCESSES IN CHEMICAL INDUSTRIES BATCH 2014-2015 Final.pdf`
-- Printed on paper: exam date: 08/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.3
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/UNIT PROCESSING IN CHEMICAL INDUSTRIES/Unit Processes in Chemical Industries Batch 2013-14 Re-exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 07/05/2016
+- Text: ocr (2 pages), mean OCR confidence 93.4
 
 ````text
+4
+
 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
 Programme: MBA Tech (Chemical) Year: II Semester: IV
-. Academic Year: 2014-2015 Last 08 Dap,
-Subject: Unit Processes in Chemical Industries j ™ “Nita \
-Marks: if aT ab Ve 4
-Date: 08/05/2015 Time :) 48. 0, apn: sto J1E0 pm
 
-Duratigns:_ dil ry y
+Academic Year: 2015-16
 
-ra
+Batch: 2013-14 :
+Subject: Unit Processes in Chemical Industries ,
 
-Final-Examination
+Time: 2.00 pm - 5.00-fér,
+Date: 07/05/2016 - Durations: 3 (hrs); 5
+Re-Examination ne 5 oS
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and
 on the cover of the Answer Book, which is provided for their use.
 Note:
-
-1) Question No. 1 is compulsory.
-
+1) Question No. | is compulsory.
 2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted.
-
+3) In all 5 questions to be attempted.
 4) All questions carry equal marks.
-
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-
 7) Assume Suitable data if necessary
-
 Q1. Answer any four of the following:
-a. Briefly describe the process used for the manufacture of chloral from (3)
-acetaldehyde with the reactions involved in the process
-b. Write a note on the three different types of halogenations with suitable examples (3)
+a. Write a short note on any ten different nitrating agents (5)
+b. Discuss the advantages of using sulfuric acid in quantity in the nitration (5)
+reaction
+c. Using suitable examples in reactions, write a note on any five different types of (5)
+alkylating agents
+d. Briefly describe the process used for the manufacture of chloral from (5)
+acetaldehyde with all the reactions involved in the process
+e. Write a short note on the disadvantages of the Bechamp reduction process (5)
+f. With suitable examples of use in reactions, write a short note on any five (5)
 
-of each type
+different types of sulfonating agents
 
-c. Write about all the disadvantages of the Bechamp reduction process. (3)
-d. Mention any nine nitrating agents used in the various nitration reactions (3)
-e. Describe the factors of prime importance in the design of a nitrator (3)
-f. Write a note on the three different types of ammonolysis/aminolysis reactions (3)
+Q2. a. Describe in detail the process used for the manufacture of ethyl acetate, with a (10)
 
-with suitable examples of each type
+suitable flow chart diagram
 --- page 2 ---
-Q2.
-
 Q3.
 
 Q4.
 
-Q5:
+Q5.
 
 Q6.
 
 Q7.
 
-Describe in detail the process used for the manufacture of naphthalene-p-
-sulfonic acid, with a suitable flow chart diagram. Also discuss the engineering
-
-problems related to this process.
-
-Write a note on the different sulfide reagents used in the amination by reduction.
-
-Give examples in reactions
-
-Describe in detail the process used for the manufacture of ethylene
-chlorohydrin, with a suitable flow chart diagram
-Describe in detail the process used for the manufacture of phenol from cumene,
-
-with a suitable flow chart diagram
-
-Describe in detail the process used for the manufacture of ethylene oxide, with a
-suitable flow chart diagram
-
-Write a note on six different types of alkylating agents with reactions
-
-Describe in detail the process used for hydrogenation of oil, with a suitable flow
-chart diagram
-
-Write a note on the oxo process
-
-Describe in detail the process used for the manufacture of ethyl acetate, with a
-suitable flow chart diagram. Also discuss the engineering problems related to
-this process. ;
-
-Discuss the different methods used for amination by reduction
-
 Describe in detail the process used for the manufacture of aniline from
-chlorobenzene, with a suitable flow chart diagram
-Write a note on the six different types of halogenating agents with suitable
-
-examples used in reactions
-
-x
-
-(8)
-
-(4)
-
-(6)
-
-(6)
-
-(6)
-
-(6)
-
-(6)
-
-(6)
-
-(8)
-
-(4)
-
-(6)
-
-(6)
-````
-
-## 2014-15 · Re-Exam · Sem 4 · paper 43df0ee60428
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/UNIT PROCESSING IN CHEMICAL INDUSTRIES/Unit Processes in Chemical Industries Batch (2014-15 ) Re-exam.pdf`
-- Printed on paper: exam date: 30/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CHEMICAL) Year: II Semester: IV
-Academic Year: 2014-15
-
-oS
-
-Batch: 2014-15
-
-Subject : Unit Processes in Chemical Industries Marks: of a ta “ = Y
-Time : ot 4
-Date : 30/06/2015 Pero ~ a Wa
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question pay paper and
-on the cover of the Answer Book, which is provided for their use.
-Note:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inali5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Q1. Answer any four of the following:
-
-a. Write a note on three different types of halogenations with examples of (3)
-reactions
-
-b. Describe the factors of prime importance in the design of a nitrator (3)
-
-c. Write a note on the six different types of oxidizing agents with suitable (3)
-
-examples used in reactions
-
-d. How is caprokol synthesized? Briefly describe the process with the reactions (3)
-involved
-
-e. Mention any nine nitrating agents used in the various nitration reactions (3)
-
-f. Briefly describe the process used for the manufacture of chloral from (3)
-
-4/2.
---- page 2 ---
-acetaldehyde with the reactions involved in the process
-
-Q2. a. Describe in detail the process used for the manufacture of pheno] from (8)
-chlorobenzene, with a suitable flow chart diagram. Also discuss the engineering
-‘problems related to this process.
-
-rad b. Discuss‘all the disadvantages of the Bechamp reduction method (4)
-
-%Q 3...a. Write a’note on six different types of alkylating agents (6)
-Bee ig, rae!
-
-b. Describe in detail the process used for the oxidation of ethylbenzene to styrene, (6)
-
-with a suitable flow chart diagram
-
-Q4. a. Describe in detail the process used for the manufacture of ethyl benzene (6)
-b. Describe in detail the process used for the manufacture of aniline from (6)
 
 chlorobenzene, with a suitable flow chart diagram
 
-Q5. a. Describe in detail the process used for the manufacture of the ONCB and PNCB_ (8)
-along with the separation of the isomers. Show a suitable flow chart diagram.
-Also discuss the engineering problems related to this process.
-b. Write a note on the different types of catalysts used in the various (4)
+Describe in detail the process used for the manufacture of sodium dodecyl
+benzene sulfonate, with a suitable flow chart diagram
 
-ammonolysis/aminolysis reactions
+Write a detailed note on the oxo process
 
-Q6. a. Write anote on the six different types of halogenating agents with suitable (6)
-examples used in reactions
-b. Describe in detail the process used for the manufacture of aniline by catalytic (6)
+Write a note on the manufacture of caprokol with the reactions involved in the
+process
 
-hydrogenation method, with a suitable flow chart diagram
+Write a note on six different types of halogenating agents with suitable
+examples in reactions
 
-Q7. a. Describe in detail the process used for the hydrogenation of oil, with a suitable (6)
+Describe in detail the process used for the manufacture of ethylbenzene from
+
+ethylene and benzene, with a suitable flow chart diagram
+
+Describe in detail the process used for the manufacture of phenol from
+chlorobenzene, with a suitable flow chart diagram
+Describe in detail the process used for the manufacture of ethylene
+
+chlorohydrin, with a suitable flow chart diagram
+
+Write a short note on sulfoxidation
+
+Write a note on six different types of oxidizing agents with suitable examples in
+reactions ;
+
+Describe in detail the process used for the manufacture of the ONCB and
+PNCB along with the separation of the isomers. Show a suitable flow chart
+
+diagram.
+
+Describe in detail the process used for hydrogenation of oil, with a suitable
+
 flow chart diagram
 
-b. Write a note on the physical and chemical factors affecting ammonolysis (6)
+Describe in detail the process used for the manufacture of phthalic anhydride,
+
+with a suitable flow chart diagram
+
+~ ob
+
+(10)
+
+(10)
+
+(10)
+
+4)
+
+(6)
+
+(10)
+
+(10)
+
+(10)
+
+(4)
+
+(6)
+
+(10)
+
+(10)
+
+(10)
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper f85963b94d15
+## 2015-16 · Re-Exam · Sem 4 · paper f85963b94d15
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -954,6 +854,447 @@ a /
 
 (6)
 (6)
+````
+
+## 2014-15 · Final-Exam · Sem 4 · paper 029e9ad74780
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/UNIT PROCESSING IN CHEMICAL INDUSTRIES/UNIT PROCESSES IN CHEMICAL INDUSTRIES BATCH 2014-2015 Final.pdf`
+- Printed on paper: exam date: 08/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
+Programme: MBA Tech (Chemical) Year: II Semester: IV
+. Academic Year: 2014-2015 Last 08 Dap,
+Subject: Unit Processes in Chemical Industries j ™ “Nita \
+Marks: if aT ab Ve 4
+Date: 08/05/2015 Time :) 48. 0, apn: sto J1E0 pm
+
+Duratigns:_ dil ry y
+
+ra
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+Note:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Q1. Answer any four of the following:
+a. Briefly describe the process used for the manufacture of chloral from (3)
+acetaldehyde with the reactions involved in the process
+b. Write a note on the three different types of halogenations with suitable examples (3)
+
+of each type
+
+c. Write about all the disadvantages of the Bechamp reduction process. (3)
+d. Mention any nine nitrating agents used in the various nitration reactions (3)
+e. Describe the factors of prime importance in the design of a nitrator (3)
+f. Write a note on the three different types of ammonolysis/aminolysis reactions (3)
+
+with suitable examples of each type
+--- page 2 ---
+Q2.
+
+Q3.
+
+Q4.
+
+Q5:
+
+Q6.
+
+Q7.
+
+Describe in detail the process used for the manufacture of naphthalene-p-
+sulfonic acid, with a suitable flow chart diagram. Also discuss the engineering
+
+problems related to this process.
+
+Write a note on the different sulfide reagents used in the amination by reduction.
+
+Give examples in reactions
+
+Describe in detail the process used for the manufacture of ethylene
+chlorohydrin, with a suitable flow chart diagram
+Describe in detail the process used for the manufacture of phenol from cumene,
+
+with a suitable flow chart diagram
+
+Describe in detail the process used for the manufacture of ethylene oxide, with a
+suitable flow chart diagram
+
+Write a note on six different types of alkylating agents with reactions
+
+Describe in detail the process used for hydrogenation of oil, with a suitable flow
+chart diagram
+
+Write a note on the oxo process
+
+Describe in detail the process used for the manufacture of ethyl acetate, with a
+suitable flow chart diagram. Also discuss the engineering problems related to
+this process. ;
+
+Discuss the different methods used for amination by reduction
+
+Describe in detail the process used for the manufacture of aniline from
+chlorobenzene, with a suitable flow chart diagram
+Write a note on the six different types of halogenating agents with suitable
+
+examples used in reactions
+
+x
+
+(8)
+
+(4)
+
+(6)
+
+(6)
+
+(6)
+
+(6)
+
+(6)
+
+(6)
+
+(8)
+
+(4)
+
+(6)
+
+(6)
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 53b868555a4b
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/UNIT PROCESSING IN CHEMICAL INDUSTRIES/UNIT PROCESSES IN CHEMICAL INDUSTRIES BATCH 2013-2014 Re-exam.pdf`
+- Printed on paper: exam date: 08/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Chemical) Year: II Semester: IV
+
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Unit Processes in Chemical Industries
+
+Date: 08/05/2015
+Re-Examination
+
+Instructions: Candidates should carefully read the instructions printed on the question paper and
+
+on the cover of the Answer Book, which is provided for their use.
+
+Note:
+
+1. Question No. 1 is compulsory
+
+2. Out of the remaining six questions, attempt any four.
+
+3. Inall five questions to be attempted.
+
+4. Answer to each new question to be started on a fresh page.
+Ds Figures in the bracket indicate marks
+
+6. All process descriptions should be accomplished with flow chart diagrams
+
+Q 1. Answer any four of the following:
+
+a. Write a note on the different types of sulfonating agents — ©)
+b. Write a note on the different types of halogenating agents (5)
+Cc Advantages of using sulfuric acid in quantity in the nitration reaction (5)
+d. Write a note on the Fischer Tropsch Process ; (5)
+e. Write a note on the oxo process (5)
+£. Write a note on the different types of alkylating agents __ (5)
+--- page 2 ---
+Q2 a. Process description for manufacture of aniline by the catalytic hydrogenation (19)
+method
+b.- Process description for the manufacture of o- and p-chloronitrobenzenes with (10)
+
+method used for separation of the isomers
+
+3. a.° Process description for the manufacture of N-methylaniline from (8)
+chlorobenzene
+b. Process description for the manufacture of ethylene chlorohydrin (8)
+c. Different methods used for amination by reduction (4)
+Q4 a. Process description for the manufacture of ethyl acetate (10)
+b. Process description for the dehydrogenation of ethylbenzene to styrene (10)
+Q5 a. Process description for the manufacture of phthalic anhydride (10)
+b. Process description for the hydrogenation of oil (10)
+Q6 a. Process description for the manufacture of ethylbenzene by alkylation (10)
+b. | Write a note on the various types of oxidizing agents (4)
+c. Process description for the manufacture of chloral hydrate (6)
+Q7 a. Process description for the manufacture of dodecyl benzene sulfonate (10)
+b. Process description for the manufacture of phenol from cumene (10)
+
+a ar
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 6526de7ce7fd
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/UNIT PROCESSING IN CHEMICAL INDUSTRIES/Unit Processes in Chemical Industries Batch (2013-14) Re-exam.pdf`
+- Printed on paper: exam date: 30/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CHEMICAL) Year: II Semester: IV
+
+Academic Year: 2014-15 . os
+iit goniters Fa
+' fey >
+
+Batch: 2913-14 7 #7 “a
+Subj . . i i MPSTMB
+ubject : Unit Processes in Chemical Industries Marks: 10Q @( LIBRARY
+
+Date : 30/06/2015
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.’
+Note:
+1) Question No. | is compulsory.
+2) Out of remaining questions,,attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+Q 1. Answer any four of the following:
+a. Briefly describe the process used for the manufacture of chloral from (5)
+acetaldehyde with all the reactions involved in the process
+b. Write about all the disadvantages of the Bechamp reduction process (5)
+c. Write a note on the five different types of sulfonating agents with suitable (5)
+examples of each type
+d. Mention any ten different nitrating agents (5)
+e. Mention all the advantages of using sulfuric acid in quantity in the nitration (5)
+reaction
+f. Write a note on the five different types of alkylating agents with suitable (5)
+
+examples used in reactions
+
+Q2. a. Describe in detail the process used for the manufacture of ethylene (8)
+
+chlorohydrin, with a suitable flow chart diagram
+
+a/ 2D
+--- page 2 ---
+& He tet
+es
+
+Q4.
+
+Q5:
+
+Q6.
+
+Q7.
+
+Describe in detail the process used for the manufacture of phenol from
+chlorobenzene, with a suitable flow chart diagram
+
+Discuss the different methods used for amination by reduction
+
+Describe in detail the process used for the manufacture of phthalic anhydride,
+with a suitable flow chart diagram
+Describe in detail the process used for hydrogenation of oil, with a suitable
+
+flow chart diagram
+
+Describe in detail the process used for the manufacture of the ONCB and
+PNCB along with the separation of the isomers. Show a suitable flow chart
+diagram.
+Write a note on six different types of oxidizing agents with suitable examples in
+reactions
+
+Write a short note on sulfoxidation
+
+Describe in detail the process used for the manufacture of N-methylaniline from
+chlorobenzene, with a suitable flow chart diagram
+Describe in detail the process used for the manufacture of ethyl acetate, with a
+
+suitable flow chart diagram
+
+Describe in detail the process used for the manufacture of ethylbenzene from
+ethylene and benzene, with a suitable flow chart diagram
+
+Write a note on six different types of halogenating agents with suitable
+examples in reactions
+
+Write a note on the manufacture of caprokol with the reactions involved in the
+
+process
+Write a detailed note on the oxo process
+
+Describe in detail the process used for the manufacture of sodium dodecyl
+
+benzene sulfonate, with a suitable flow chart diagram
+
+afr
+
+(8)
+
+(4)
+
+(10)
+
+(10)
+
+(10)
+
+(6)
+
+(4)
+
+(10)
+
+(10)
+
+(10)
+
+(6)
+
+(4)
+
+(10)
+(10)
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 43df0ee60428
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/UNIT PROCESSING IN CHEMICAL INDUSTRIES/Unit Processes in Chemical Industries Batch (2014-15 ) Re-exam.pdf`
+- Printed on paper: exam date: 30/06/2015
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CHEMICAL) Year: II Semester: IV
+Academic Year: 2014-15
+
+oS
+
+Batch: 2014-15
+
+Subject : Unit Processes in Chemical Industries Marks: of a ta “ = Y
+Time : ot 4
+Date : 30/06/2015 Pero ~ a Wa
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question pay paper and
+on the cover of the Answer Book, which is provided for their use.
+Note:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inali5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Q1. Answer any four of the following:
+
+a. Write a note on three different types of halogenations with examples of (3)
+reactions
+
+b. Describe the factors of prime importance in the design of a nitrator (3)
+
+c. Write a note on the six different types of oxidizing agents with suitable (3)
+
+examples used in reactions
+
+d. How is caprokol synthesized? Briefly describe the process with the reactions (3)
+involved
+
+e. Mention any nine nitrating agents used in the various nitration reactions (3)
+
+f. Briefly describe the process used for the manufacture of chloral from (3)
+
+4/2.
+--- page 2 ---
+acetaldehyde with the reactions involved in the process
+
+Q2. a. Describe in detail the process used for the manufacture of pheno] from (8)
+chlorobenzene, with a suitable flow chart diagram. Also discuss the engineering
+‘problems related to this process.
+
+rad b. Discuss‘all the disadvantages of the Bechamp reduction method (4)
+
+%Q 3...a. Write a’note on six different types of alkylating agents (6)
+Bee ig, rae!
+
+b. Describe in detail the process used for the oxidation of ethylbenzene to styrene, (6)
+
+with a suitable flow chart diagram
+
+Q4. a. Describe in detail the process used for the manufacture of ethyl benzene (6)
+b. Describe in detail the process used for the manufacture of aniline from (6)
+
+chlorobenzene, with a suitable flow chart diagram
+
+Q5. a. Describe in detail the process used for the manufacture of the ONCB and PNCB_ (8)
+along with the separation of the isomers. Show a suitable flow chart diagram.
+Also discuss the engineering problems related to this process.
+b. Write a note on the different types of catalysts used in the various (4)
+
+ammonolysis/aminolysis reactions
+
+Q6. a. Write anote on the six different types of halogenating agents with suitable (6)
+examples used in reactions
+b. Describe in detail the process used for the manufacture of aniline by catalytic (6)
+
+hydrogenation method, with a suitable flow chart diagram
+
+Q7. a. Describe in detail the process used for the hydrogenation of oil, with a suitable (6)
+flow chart diagram
+
+b. Write a note on the physical and chemical factors affecting ammonolysis (6)
 ````
 
 ## 2013-14 · Final-Exam · Sem 4 · paper fe0e9329ed0c
@@ -1210,354 +1551,14 @@ t x
 (10)
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 53b868555a4b
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/UNIT PROCESSING IN CHEMICAL INDUSTRIES/UNIT PROCESSES IN CHEMICAL INDUSTRIES BATCH 2013-2014 Re-exam.pdf`
-- Printed on paper: exam date: 08/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Chemical) Year: II Semester: IV
-
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Unit Processes in Chemical Industries
-
-Date: 08/05/2015
-Re-Examination
-
-Instructions: Candidates should carefully read the instructions printed on the question paper and
-
-on the cover of the Answer Book, which is provided for their use.
-
-Note:
-
-1. Question No. 1 is compulsory
-
-2. Out of the remaining six questions, attempt any four.
-
-3. Inall five questions to be attempted.
-
-4. Answer to each new question to be started on a fresh page.
-Ds Figures in the bracket indicate marks
-
-6. All process descriptions should be accomplished with flow chart diagrams
-
-Q 1. Answer any four of the following:
-
-a. Write a note on the different types of sulfonating agents — ©)
-b. Write a note on the different types of halogenating agents (5)
-Cc Advantages of using sulfuric acid in quantity in the nitration reaction (5)
-d. Write a note on the Fischer Tropsch Process ; (5)
-e. Write a note on the oxo process (5)
-£. Write a note on the different types of alkylating agents __ (5)
---- page 2 ---
-Q2 a. Process description for manufacture of aniline by the catalytic hydrogenation (19)
-method
-b.- Process description for the manufacture of o- and p-chloronitrobenzenes with (10)
-
-method used for separation of the isomers
-
-3. a.° Process description for the manufacture of N-methylaniline from (8)
-chlorobenzene
-b. Process description for the manufacture of ethylene chlorohydrin (8)
-c. Different methods used for amination by reduction (4)
-Q4 a. Process description for the manufacture of ethyl acetate (10)
-b. Process description for the dehydrogenation of ethylbenzene to styrene (10)
-Q5 a. Process description for the manufacture of phthalic anhydride (10)
-b. Process description for the hydrogenation of oil (10)
-Q6 a. Process description for the manufacture of ethylbenzene by alkylation (10)
-b. | Write a note on the various types of oxidizing agents (4)
-c. Process description for the manufacture of chloral hydrate (6)
-Q7 a. Process description for the manufacture of dodecyl benzene sulfonate (10)
-b. Process description for the manufacture of phenol from cumene (10)
-
-a ar
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 6526de7ce7fd
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/UNIT PROCESSING IN CHEMICAL INDUSTRIES/Unit Processes in Chemical Industries Batch (2013-14) Re-exam.pdf`
-- Printed on paper: exam date: 30/06/2015
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CHEMICAL) Year: II Semester: IV
-
-Academic Year: 2014-15 . os
-iit goniters Fa
-' fey >
-
-Batch: 2913-14 7 #7 “a
-Subj . . i i MPSTMB
-ubject : Unit Processes in Chemical Industries Marks: 10Q @( LIBRARY
-
-Date : 30/06/2015
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.’
-Note:
-1) Question No. | is compulsory.
-2) Out of remaining questions,,attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-Q 1. Answer any four of the following:
-a. Briefly describe the process used for the manufacture of chloral from (5)
-acetaldehyde with all the reactions involved in the process
-b. Write about all the disadvantages of the Bechamp reduction process (5)
-c. Write a note on the five different types of sulfonating agents with suitable (5)
-examples of each type
-d. Mention any ten different nitrating agents (5)
-e. Mention all the advantages of using sulfuric acid in quantity in the nitration (5)
-reaction
-f. Write a note on the five different types of alkylating agents with suitable (5)
-
-examples used in reactions
-
-Q2. a. Describe in detail the process used for the manufacture of ethylene (8)
-
-chlorohydrin, with a suitable flow chart diagram
-
-a/ 2D
---- page 2 ---
-& He tet
-es
-
-Q4.
-
-Q5:
-
-Q6.
-
-Q7.
-
-Describe in detail the process used for the manufacture of phenol from
-chlorobenzene, with a suitable flow chart diagram
-
-Discuss the different methods used for amination by reduction
-
-Describe in detail the process used for the manufacture of phthalic anhydride,
-with a suitable flow chart diagram
-Describe in detail the process used for hydrogenation of oil, with a suitable
-
-flow chart diagram
-
-Describe in detail the process used for the manufacture of the ONCB and
-PNCB along with the separation of the isomers. Show a suitable flow chart
-diagram.
-Write a note on six different types of oxidizing agents with suitable examples in
-reactions
-
-Write a short note on sulfoxidation
-
-Describe in detail the process used for the manufacture of N-methylaniline from
-chlorobenzene, with a suitable flow chart diagram
-Describe in detail the process used for the manufacture of ethyl acetate, with a
-
-suitable flow chart diagram
-
-Describe in detail the process used for the manufacture of ethylbenzene from
-ethylene and benzene, with a suitable flow chart diagram
-
-Write a note on six different types of halogenating agents with suitable
-examples in reactions
-
-Write a note on the manufacture of caprokol with the reactions involved in the
-
-process
-Write a detailed note on the oxo process
-
-Describe in detail the process used for the manufacture of sodium dodecyl
-
-benzene sulfonate, with a suitable flow chart diagram
-
-afr
-
-(8)
-
-(4)
-
-(10)
-
-(10)
-
-(10)
-
-(6)
-
-(4)
-
-(10)
-
-(10)
-
-(10)
-
-(6)
-
-(4)
-
-(10)
-(10)
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 96b17a91609c
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/UNIT PROCESSING IN CHEMICAL INDUSTRIES/Unit Processes in Chemical Industries Batch 2013-14 Re-exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 07/05/2016
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-4
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Chemical) Year: II Semester: IV
-
-Academic Year: 2015-16
-
-Batch: 2013-14 :
-Subject: Unit Processes in Chemical Industries ,
-
-Time: 2.00 pm - 5.00-fér,
-Date: 07/05/2016 - Durations: 3 (hrs); 5
-Re-Examination ne 5 oS
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-Note:
-1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-Q1. Answer any four of the following:
-a. Write a short note on any ten different nitrating agents (5)
-b. Discuss the advantages of using sulfuric acid in quantity in the nitration (5)
-reaction
-c. Using suitable examples in reactions, write a note on any five different types of (5)
-alkylating agents
-d. Briefly describe the process used for the manufacture of chloral from (5)
-acetaldehyde with all the reactions involved in the process
-e. Write a short note on the disadvantages of the Bechamp reduction process (5)
-f. With suitable examples of use in reactions, write a short note on any five (5)
-
-different types of sulfonating agents
-
-Q2. a. Describe in detail the process used for the manufacture of ethyl acetate, with a (10)
-
-suitable flow chart diagram
---- page 2 ---
-Q3.
-
-Q4.
-
-Q5.
-
-Q6.
-
-Q7.
-
-Describe in detail the process used for the manufacture of aniline from
-
-chlorobenzene, with a suitable flow chart diagram
-
-Describe in detail the process used for the manufacture of sodium dodecyl
-benzene sulfonate, with a suitable flow chart diagram
-
-Write a detailed note on the oxo process
-
-Write a note on the manufacture of caprokol with the reactions involved in the
-process
-
-Write a note on six different types of halogenating agents with suitable
-examples in reactions
-
-Describe in detail the process used for the manufacture of ethylbenzene from
-
-ethylene and benzene, with a suitable flow chart diagram
-
-Describe in detail the process used for the manufacture of phenol from
-chlorobenzene, with a suitable flow chart diagram
-Describe in detail the process used for the manufacture of ethylene
-
-chlorohydrin, with a suitable flow chart diagram
-
-Write a short note on sulfoxidation
-
-Write a note on six different types of oxidizing agents with suitable examples in
-reactions ;
-
-Describe in detail the process used for the manufacture of the ONCB and
-PNCB along with the separation of the isomers. Show a suitable flow chart
-
-diagram.
-
-Describe in detail the process used for hydrogenation of oil, with a suitable
-
-flow chart diagram
-
-Describe in detail the process used for the manufacture of phthalic anhydride,
-
-with a suitable flow chart diagram
-
-~ ob
-
-(10)
-
-(10)
-
-(10)
-
-4)
-
-(6)
-
-(10)
-
-(10)
-
-(10)
-
-(4)
-
-(6)
-
-(10)
-
-(10)
-
-(10)
-````
-
-## 2012-13 · Re-Exam · Trim 5 · paper e67cc857ec7d
+## 2013-14 · Re-Exam · Trim 5 · paper e67cc857ec7d
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/UNIT PROCESS IN CHEMICAL INDUSTRY/UNIT PROCESSES IN CHEMICAL INDUSTRY BATCH 2012-13 RE EXA0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 /12/2013
 - Text: ocr (1 page), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Siew
@@ -1592,7 +1593,6 @@ B_| Describe process of Manufacturing Benzene hexachloride (5)
 C_| Describe process of Manufacturing DDT (5)
 D | Describe process of Manufacturing mono chloro acetic acid (5)
 Q4 | A | Describe process of Manufacturing vinyl chloride from ethylene (10)
-B | Sulfonation of Naphthalene to get B-isomer (10)
 Q5 | A | Describe process of Manufacturing White oil & Oil soluble sulfonates. (8)
 B_| Describe process of Manufacturing benzene sulfonate (6)
 C | Describe process of Manufacturing dodecyl benzene sulfonate (6)
@@ -1613,6 +1613,57 @@ Qs y) e Manufacture of dodecyl benzene
 4/4
 
 VA
+````
+
+## 2012-13 · Exam not stated · Trim 5 · paper 67c4dcfb7d4e
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/UNIT PROCESS IN CHEMICAL INDUSTRY/Scan 0012.pdf`
+- Printed on paper: duration hours: 3; exam date: 08/02/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management
+Programme: MBA (Tech) -CHEMICAL   Year:   I1 Trimester:
+Academic Year : 2012-2013
+; I   Subject:   UNIT PROCESS IN CHEMICAL   Marks:
+INDUSTRY   Time:
+Date:   08/02/2013   Duration:   3   hrs.
+Final - Examination
+NOTE:
+1. Attempt any five questions.
+2. Figures in bracket indicate marks.
+3. State your assumptions, clearly.
+4. All Process description should be accomplished with flow diagrams.
+Q1 A   Advantages of using sulfuric acid-nitric acid mixture in nitration reactions.   (7)
+B   Describe process of manufacturing nitrobenzene   (7)
+-
+C   Describe process of manufacturing o & p -nitrochlorobenzenes with emphasis   (6)
+on separation aspects
+Q2 A   Describe process of manufacturing 4niline from hydrogen.   (7)
+B   Disadvantages of using iron-acid process.   (6)
+C   Liquid phase hydrogenation   (7)
+Q3. A   Describe process of Manufacturing Chloral hydrate   (5)
+B   Describe process of Manufacturing Benzene hexachloride   (5)
+C   Describe process of Manufacturing DDT   (5)
+D   Describe process of Manufacturing mono chloro acetic acid   (5)
+Q 4 A   Describe process of Manufacturing vinyl chloride from ethylene   (10)
+B   Sulfonation of Naphthalene to get p-isomer   (10)
+Q 5 A   Describe process of Manufacturing White oil & Oil soluble sulfonates.   (8)
+B   Describe process of Manufacturing benzene sulfonate   (6)
+C   Describe process of Manufacturing dodecyl benzene sulfonate   (6)
+Q 6 A   Describe process of Manufacturing ethylene oxide   (6)
+B   Describe process of Manufacturing phthalic anhydride   (7)
+C   Describe process of Manufacturing Phenol from cumene   (7)
+. Q 7   Write short note on any four:   (20)
+0x0 process
+Fischer Tropsch process
+Manufacture of vinyl acetate
+Manufacture of ethyl acetate
+Manufacture of dodecyl benzene
+Manufacture of cellosolve
 ````
 
 ## 2012-13 · Re-Exam · Trim 5 · paper 5d37e3e764f1
@@ -1674,9 +1725,9 @@ C Process Description of Manufacturing m-Nitroaniline.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/UNIT PROCESS IN CHEMICAL INDUSTRY/UNIT PROCESS IN CHEMICAL INDUSTRIES 2011-2012.pdf`
 - Printed on paper: exam date: 04/02/2012
 - Text: ocr (1 page), mean OCR confidence 76.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-EE ALT LEE SENG BELATED OT NNT TE TEE LOY ERIE AE SIE ES A S ret i NR NRTA a Sih itn
 — SVKM’s NMIMS ies
 Mukesh Patel School Of Technology Management & Enginee j
 
@@ -1719,7 +1770,6 @@ C_| Process Description of Manufacturing DDT (5)
 D | Process Description of Manufacturing mono chloro acetic acid (5)
 } | 24 | A | Process Description of Manufacturing vinyl chloride from ethylene (10)
 R Qiillanating of Naghths! te vent Do lone ne f4 an
-B | Sulfonation of Naphthalene to get B-isomor oy
 
 Q5 | A | Process Description of Manufacturing White oil & Oil soluble sulfonates. (8)
 
@@ -1826,6 +1876,7 @@ x
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/UNIT PROCESS IN CHEMICAL INDUSTRY/UNIT PROCESSESS IN CHEMICAL INDUSTRY BATCH 2011-12 RE EX0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 19/06/2012
 - Text: ocr (1 page), mean OCR confidence 90.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 »
@@ -1898,7 +1949,6 @@ Process Description of Manufacturing dodecyl benzene sulfonate.
 
 Process Description of Manufacturing White oil & Oil soluble
 sulfonates.
-Sulfonation of Naphthalene to get B-isomer.
 
 Process Description of Manufacturing DDT.
 
@@ -1949,6 +1999,7 @@ Time: 2.00 pm To 5.00 pm
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/UNIT PROCESS IN CHEMICAL INDUSTRY/UNIT PROCESSES IN CHEMICAL INDUSTRY BACTH 2010-2011.pdf`
 - Printed on paper: max marks: 100; exam date: 20/06/2011
 - Text: ocr (1 page), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1995,62 +2046,10 @@ Q5 A Process Description of Manufacturing cellosolve. : (6)
 B Process Description of Manufacturing nitrobenzene. (7)
 C Process Description of Manufacturing dodecyl benzene sulfonate. (7)
 Q6 A Process Description of Manufacturing White oil & Oil soluble sulfonates. (10)
-B_ Sulfonation of Naphthalene to get B-isomer. (10)
 Q7 =A s~Process Description of Manufacturing DDT. (7)
 B_ Advantages of using sulfuric acid-nitric acid mixture in nitration reactions. (6)
 C Process Description of Manufacturing m-Nitroaniline. (7)
 x
 
 Y\
-````
-
-## Year not stated · Exam not stated · Trim 5 · paper 67c4dcfb7d4e
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/UNIT PROCESS IN CHEMICAL INDUSTRY/Scan 0012.pdf`
-- Printed on paper: duration hours: 3; exam date: 08/02/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management
-Programme: MBA (Tech) -CHEMICAL   Year:   I1 Trimester:
-Academic Year : 2012-2013
-; I   Subject:   UNIT PROCESS IN CHEMICAL   Marks:
-INDUSTRY   Time:
-Date:   08/02/2013   Duration:   3   hrs.
-Final - Examination
-NOTE:
-1. Attempt any five questions.
-2. Figures in bracket indicate marks.
-3. State your assumptions, clearly.
-4. All Process description should be accomplished with flow diagrams.
-Q1 A   Advantages of using sulfuric acid-nitric acid mixture in nitration reactions.   (7)
-B   Describe process of manufacturing nitrobenzene   (7)
--
-C   Describe process of manufacturing o & p -nitrochlorobenzenes with emphasis   (6)
-on separation aspects
-Q2 A   Describe process of manufacturing 4niline from hydrogen.   (7)
-B   Disadvantages of using iron-acid process.   (6)
-C   Liquid phase hydrogenation   (7)
-Q3. A   Describe process of Manufacturing Chloral hydrate   (5)
-B   Describe process of Manufacturing Benzene hexachloride   (5)
-C   Describe process of Manufacturing DDT   (5)
-D   Describe process of Manufacturing mono chloro acetic acid   (5)
-Q 4 A   Describe process of Manufacturing vinyl chloride from ethylene   (10)
-B   Sulfonation of Naphthalene to get p-isomer   (10)
-Q 5 A   Describe process of Manufacturing White oil & Oil soluble sulfonates.   (8)
-B   Describe process of Manufacturing benzene sulfonate   (6)
-C   Describe process of Manufacturing dodecyl benzene sulfonate   (6)
-Q 6 A   Describe process of Manufacturing ethylene oxide   (6)
-B   Describe process of Manufacturing phthalic anhydride   (7)
-C   Describe process of Manufacturing Phenol from cumene   (7)
-. Q 7   Write short note on any four:   (20)
-0x0 process
-Fischer Tropsch process
-Manufacture of vinyl acetate
-Manufacture of ethyl acetate
-Manufacture of dodecyl benzene
-Manufacture of cellosolve
 ````

@@ -16,10 +16,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | — | Question paper | Sem 1 | B TECH | B Tech, (CSE-DS), Business Calculus, Sem-I, Batch 2022-23, 2023-24, 2024-2025.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 1 | B TECH | Business Calculus, Sem-I, Final Exam 2024-25 & Re Exam 2023-24, 2022-23.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Business Calculus(702BS0C015)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech CSE DS 7011 | QP_Business Calculus(702BS0C015)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Business Calculus(702BS0C015)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Business Calculus(702BS0C015)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech CSE DS 7011 | QP_Business Calculus(702BS0C015)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Business Calculus(702BS0C015)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 1 | B TECH | Business Calculus, Sem-I, Year 2023-24, Final Exam 2023-24 Re Exam 2022-23.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 1 | B TECH | Business Calculus, Sem-I, Batch 2022-23 & 2023-24, Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 1 | B TECH | Business Calculus, 1st Year, Sem I, Year 22-23 Final Exam.pdf |

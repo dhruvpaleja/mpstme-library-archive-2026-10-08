@@ -16,16 +16,16 @@ Also filed as: `ADVANCED SOCIAL TEXT AND MEDIA ANALYTICS`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Advanced Social, Text and Media Analytics, Sem-VII, 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSBS 7036 | QP_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / CSBS | B Tech, Advanced Social, Text and Media Analytics, Sem-VI, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CSBS 7036 | QP_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Advanced Social, Text and Media Analytics(702CO0E020)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Advanced Social, Text and Media Analytics, Sem-VII, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Advanced Social, Text and Media Analytics, 4th Year, Sem VII, Year 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Advanced Social, Text and media Analytics, Sem-VII, Final Exam, A Y 2023-24.pdf |

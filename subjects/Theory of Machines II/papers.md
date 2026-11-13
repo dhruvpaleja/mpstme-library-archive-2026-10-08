@@ -650,6 +650,7 @@ b) State the effect of gyroscope on airplane. 6
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_06/THEORY OF MACHINE II/Theory of Machines II 2018-19 Final Batch 2017-18 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 12 April 2019
 - Text: ocr (7 pages), mean OCR confidence 70.5
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 y
@@ -812,7 +813,6 @@ Q Or = CRANK SHAFT
 a w= LENGTH OF THE CRANK | wet
 £ = LENGTH of THE CRANK SHAFT | r
 
-xiH= Atr— ruse-Los¢
 
 Xt) = OY (sine + 2M2B) = meine =
 = ety (cos 6 + C2528) = r= th, Tad/s
@@ -825,9 +825,7 @@ i Fi- Fr NEGLECTING Fe (FRICTION)
 
 Fe = FPe/os ’
 
-Tie) oR Tet) = Fev Csing+ 2S")
 
-Tle) = [ pledA- re wrx (coser “29 | k
 
 : w (sing + 2in28 )
 LobFELIENT OF FLUCTUATION IN ENERG = AE fe
@@ -850,7 +848,6 @@ anja
 : Wie
 Mat aR OR ee
 
-Staton, pom a= Sen eS es es . SPER
 
 CHANGE Tie) EBN AtLoRD WAL.
 
@@ -1183,6 +1180,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_06/THEORY OF MACHINE II/Theory of Machines II Batch 2017-18,2018-19 Re Exam.pdf`
 - Printed on paper: duration hours: 3; exam date: 13 June 2019
 - Text: ocr (7 pages), mean OCR confidence 70.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a4 . SVKM’S NMIMS
@@ -1350,7 +1348,6 @@ Q O. = CRANK SHAFT
 Y= _LenetTH oF THE cRANK nw 2
 2 = LENGTH OF THE CRANK SHAFT Yr
 
-Hit) = Aty—ruse-kas¢
 
 ib) = Ox (sin@+ in28 5 _ v0 (sinb + uizo my
 
@@ -1380,7 +1377,6 @@ Fes = Fe/tos &
 
 T1@) eR
 
-Tet) = Fer Csing+ Ser
 
 Tle) = [ Pp (AL- Mr iS*Y (os Ot ears | x
 
@@ -1413,7 +1409,6 @@ are Cet
 
 Fe = (het Mr) 9 (ose ¢ SSZEY
 
-“Mol oF Flywtee, = Tet Maye
 
 BELT DRIVES iz
 a 4 Dade
@@ -1434,14 +1429,11 @@ r~ Wet. SinB =
 te \ A ] L=2;yT0Tv
 
 N I
-ts JS ro oF LS L e Cp+d)~
 uc
 Tammy ds ks im RADIANS
 Ta-my* OTAWGe rn
-P= (Te) V = ex gz m/s
 CLUTCHES ExiGaGED CLUTCH
 yy PLATES
-/ : — = Pp A= I (p= d*)
 _ > '
 > we Co) —] SHAFT 4 SHatre—fu = _AP
 VLA] ~ _ = 4
@@ -2223,6 +2215,130 @@ d_ Explain the application of gyroscopic principles to aircrafts. BS
 2/_
 ````
 
+## 2017-18 · Re-Exam · Sem 6 · paper e0c166732c6b
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_06/THEORY OF MACHINE II/Theory of Machines II Batch 2016-17 Re Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 05 May 2018
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (MECHANICAL) “ Year: III Semester: VI «
+
+Academic Year: 2017-2018 «
+
+Subject:Theory of Machines —II »
+
+Marks:60
+
+Date:05 May 2018 + Time: 2.00 pm‘
+Durations: 3 (hg:
+No. of Pages »%
+Re-examination (2016-17) ~ NOs
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Attempt any three of the following
+a) Discuss briefly the open and cross belts used for the transmission of power. 4
+b) Describe working of a single plate friction clutch. +
+
+c) Draw and explain the turning moment diagram of a Four Stroke Cycle Internal 4
+Combustion.
+
+d) Explain the terms ‘fluctuation of energy’ and fluctuation of speed as applied to 4
+flywheel
+
+Q.2 a) Obtain an expression for the length of a belt in an open belt drive. 6
+
+b) Casting weighing 9 kN hangs freely from a rope which makes 2.5 turns rounda 6
+drum of 300 mm diameter revolving at 20 r.p.m. The other end of the rope is
+pulled by a man. The coefficient of friction is 0.25. Determine 1. The force
+required by the man, and 2. The power to raise the casting.
+
+Q.3.a) A leather belt is required to transmit 7.5 kW from a pulley 1.2 m in diameter, 6
+running at 250 r.p.m. The angle embraced is 165° and the coefficient of friction
+between the belt and the pulley is 0.3. If the safe working stress for the leather
+belt is 1.5 MPa, density of leather 1 Mg/m? and thickness of belt 10 mm, determine
+the width of the belt taking centrifugal tension into account.
+
+ip
+--- page 2 ---
+b) Describe with a neat sketch a centrifugal clutch and deduce an equation for the
+total torque transmitted.
+
+Q.4. Prove that the maximum fluctuation of energy,
+a) AE = E x 2CS
+where E = Mean kinetic energy of the flywheel, and
+CS = Coefficient of fluctuation of speed
+
+b)’ The turning moment diagram for a multicylinder engine has been drawn to
+a scale 1 mm = 600 N-m vertically and 1 mm = 3° horizontally. The intercepted
+areas between the output torque curve and the mean resistance line, taken in order
+from one end, are as follows: + 52, — 124, + 92, — 140, + 85, — 72 and + 107 mm,
+-when the engine is running at a speed of 600 r.p.m. If the total fluctuation of speed
+is not to exceed + 1.5% of the mean, find the necessary mass of the flywheel of
+radius 0.5 m. :
+
+Q.5a) A single dry plate clutch transmits 7.5 kW at 900 t.p.m. The axial pressure is
+limited to 0.07 N/mm2. If the coefficient of friction is 0.25, find 1. Mean radius
+and face width of the friction lining assuming the ratio of the mean radius to the
+face width as 4, and 2. Outer and inner radii of the clutch plate.
+
+b) A shaft fitted with a flywheel rotates at 250 r.p.m. and drives a machine.
+
+The torque of machine varies in a cyclic manner over a period of 3 revolutions.
+The torque rises from 750 N-m to 3000 N-m uniformly during 1/2 revolution and
+remains constant for the following revolution. It then falls uniformly to 750 N-m
+during the next 1/2 revolution and remains constant for one revolution, the cycle
+being repeated thereafter.
+
+Determine the power required to drive the machine and percentage fluctuation in
+speed, if the driving torque applied to the shaft is constant and the mass of the
+flywheel is 500 kg with radius of gyration of 600 mm.
+
+Q.6.a Inaslider crank mechanism, the length of the crank and connecting rod are 150
+mm and 600 mm respectively. The crank position is 60° from inner dead centre.
+The crank shaft speed is 450 r.p.m. (clockwise). Using analytical method,
+determine: 1. Velocity and acceleration of the slider, and 2. Angular velocity and
+angular acceleration of the connecting rod.
+
+b_ A vertical double acting steam engine has a cylinder 300 mm diameter and 450
+mm stroke and runs at 200 r.p.m. The reciprocating parts has a mass of 225 kg
+and the piston rod is 50 mm diameter. The connecting rod is 1.2 m long. When
+the crank has turned through 125° from the top dead centre, the steam pressure
+above the piston is 30 kN/m? and below the piston is 1.5kN/m?. Calculate the
+effective turning moment on the crank shaft.
+
+Q.7 Attempt following questions.
+
+a Draw the turning moment diagram of a single cylinder double acting steam
+engine.
+
+b_ Explain D-Alembert’s Principle.
+
+c Explain wire rope and fiber ropes with application.
+
+Ah
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper c59b054114dd
 
 - Departments: Mechanical
@@ -2358,6 +2474,7 @@ Internal Expanding Brake
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/THEORY OF MACHINES II/THEORY OF MACHINES II B TECH (MECHATRONICS), 16-17 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 09 May 2017
 - Text: ocr (3 pages), mean OCR confidence 91.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ___
@@ -2465,14 +2582,12 @@ BandC.
 
 (8)
 
-Seem Leitares iid GGT anes oi
 
 Figure 2
 
 i
 2/3
 
-HOWE, HEIGL 4, lias ati aruie
 --- page 3 ---
 “(b) Prove that the velocity of sliding is proportional to the distance of the point of contact from the pitch
 point. ! ee ee ee ee ee 6)
@@ -2617,6 +2732,109 @@ b Explain the phenomena of slip and Creep in a belt.
 c Explain D-Alembert’s Principle.
 
 a
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 23fd24a26c2b
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY OF MACHINES II/THEORY OF MACHINES II BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 06 May 2017
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+of
+J
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+ae - @
+Programme: B. Tech (MECHANICAL) “Year: | Semester: IV. = ;
+Batch: 2014-2015/2015 - 2016 Zz, Ca
+‘
+Academic Year: 2016-2017 ‘wrstMe Ve
+Subject: Th f Machi ro 4 Burrenany ;
+ubject: eory of Machines - /
+’ ° Marks: 60 © Sar
+Date: 06 May 2017 ” Time: 10.00 am to 1.00.pm ~* ae
+Durations: 3 (hrs)
+No. of Pages: _2—
+Re-Examination
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+1) Question No. ONE is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+Ql Solve any THREE
+a) What are the different characteristics of braking material? . 4
+b) Classify the follower according to shape. 4
+c) Derive an equation of a plate clutch for the total torque transmitted for UPT. 4
+d) Differentiate simple gear train and compound gear train along with its speed ratio. 4
+Q2 a) A differential band brake, as shown in Fig. 1, has an angle of contact of 225°. The band
+has a compressed against a drum of 350 mm diameter. The brake is to sustain a torque
+of 350 N-m and the coefficient of friction between the band and the drum is 0.3. 6
+Determine 1. Necessary force (P) for the clockwise and anticlockwise rotation of the
+drum; and 2. The value of ‘OA’ for self locking, when the drum rotates clockwise.
+b) A centrifugal clutch is to transmit 15 kW at 900 r.p.m. The shoes are four in number.
+The speed at which the engagement begins is 3/4" of the running speed. The inside
+radius of the pulley rim is 150 mm and the centre of gravity of the shoe lies at 120 mm 6
+from the centre of the spider. The shoes are lined with Ferrodo for which the
+coefficient of friction may be taken as 0.25. Determine: 1. Mass of the shoes, and 2.
+Size of the shoes, if angle subtended by the shoes at the centre of the spider is 60° and
+the pressure exerted on the shoes is 0.1 N/mm’.
+| Q3 a) Prove that Arc of contact = Path of contact/cos@. 8
+b) The centre distance between two left handed meshing spiral gears is 260 mm and angle
+mee between two shafts is 65°. The normal circular pitch is 14 mm and the gear ratio is 2.5. 4
+
+The driven gear has helix angle of 35°. Find number of teeth on both gear and exact
+centre distance.
+
+Q4 Acam drives a flat reciprocating follower in the following manner :
+--- page 2 ---
+During first 120° rotation of the cam, follower moves outwards through a distance of 20
+mm with simple harmonic motion. The follower dwells during next 30° of cam rotation. 12
+During next 120° of cam rotation, the follower moves inwards with simple harmonic
+motion. The follower dwells for the next 90° of cam rotation. The minimum radius of the
+cam is 25 mm. Draw the profile of the cam.
+
+Q5 a) Inepicyclic gear train (Fig. 2) compound gear A and B as well as wheel C and D rotate 8
+independently about the axis O. The wheels E and F rotate on the pins fixed to the arm
+a. The number on wheels are Ta=52, Tp=56, Te=T¢=36 Determine speed of wheel C if
+(i) wheel D fixed and arm rotates at 200 rpm clockwise.
+(ii) wheel D rotates at 200 rpm anti-clockwise & arm a rotates at 20 rpm anticlockwise.
+b) A pair of bevel gears is mounted on two intersecting shafts whose shafts angles are at 4
+72° to each other. The velocity ratio of gear is 2.5. Find the pitch angles.
+
+Q6 a) What are two main types of dynamometer? Explain Prony Brake dynamometer. 3
+b) Two 20° spur gear have module of 10 mm. The addendum is equal to one module. The 7
+larger gear has 50 teeth and pinion has 13 teeth. Does interference occur? If it occurs,
+to what value should the pressure angle be changed to eliminate interference?
+
+Q7 a) Turbine rotor of a ship has mass of 3 tonnes, rotates at 1800 rpm clockwise when seen
+
+from aft. The radius of gyration of rotor is 300 mm. Determine gyroscopic couple and
+its effect when i) ship turns right at a radius of 275 m with speed of 30 km/h, ii) ship ¢
+pitches with the bow rising at an angular velocity of 0.8 rad/s and iii) ship rollsat an
+angular velocity of 0.2 rad/s
+
+b) An aeroplane makes a complete half circle of 50 m radius, towards left, when flying at
+200 km/hr. The rotary engine and the propeller of the plane have a mass of 400 kg and 3
+a radius of gyration of 0.3 m: The engine rotates at 2400 r.p.m. clockwise when viewed
+from the rear. Find the gyroscopic couple on the aircraft and state its effect on it.
+
+c) Write a short note on effect of gyroscopic couple on an automobile. 3
+
+= ~—| _ at
+
+All dimensions in mm.
+
+Fig. 1 Fig. 2
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper 20d7a4571469
@@ -2868,130 +3086,6 @@ enki
 3
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper e0c166732c6b
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_06/THEORY OF MACHINE II/Theory of Machines II Batch 2016-17 Re Exam.pdf`
-- Printed on paper: max marks: 60; exam date: 05 May 2018
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B.Tech Integrated (MECHANICAL) “ Year: III Semester: VI «
-
-Academic Year: 2017-2018 «
-
-Subject:Theory of Machines —II »
-
-Marks:60
-
-Date:05 May 2018 + Time: 2.00 pm‘
-Durations: 3 (hg:
-No. of Pages »%
-Re-examination (2016-17) ~ NOs
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Attempt any three of the following
-a) Discuss briefly the open and cross belts used for the transmission of power. 4
-b) Describe working of a single plate friction clutch. +
-
-c) Draw and explain the turning moment diagram of a Four Stroke Cycle Internal 4
-Combustion.
-
-d) Explain the terms ‘fluctuation of energy’ and fluctuation of speed as applied to 4
-flywheel
-
-Q.2 a) Obtain an expression for the length of a belt in an open belt drive. 6
-
-b) Casting weighing 9 kN hangs freely from a rope which makes 2.5 turns rounda 6
-drum of 300 mm diameter revolving at 20 r.p.m. The other end of the rope is
-pulled by a man. The coefficient of friction is 0.25. Determine 1. The force
-required by the man, and 2. The power to raise the casting.
-
-Q.3.a) A leather belt is required to transmit 7.5 kW from a pulley 1.2 m in diameter, 6
-running at 250 r.p.m. The angle embraced is 165° and the coefficient of friction
-between the belt and the pulley is 0.3. If the safe working stress for the leather
-belt is 1.5 MPa, density of leather 1 Mg/m? and thickness of belt 10 mm, determine
-the width of the belt taking centrifugal tension into account.
-
-ip
---- page 2 ---
-b) Describe with a neat sketch a centrifugal clutch and deduce an equation for the
-total torque transmitted.
-
-Q.4. Prove that the maximum fluctuation of energy,
-a) AE = E x 2CS
-where E = Mean kinetic energy of the flywheel, and
-CS = Coefficient of fluctuation of speed
-
-b)’ The turning moment diagram for a multicylinder engine has been drawn to
-a scale 1 mm = 600 N-m vertically and 1 mm = 3° horizontally. The intercepted
-areas between the output torque curve and the mean resistance line, taken in order
-from one end, are as follows: + 52, — 124, + 92, — 140, + 85, — 72 and + 107 mm,
--when the engine is running at a speed of 600 r.p.m. If the total fluctuation of speed
-is not to exceed + 1.5% of the mean, find the necessary mass of the flywheel of
-radius 0.5 m. :
-
-Q.5a) A single dry plate clutch transmits 7.5 kW at 900 t.p.m. The axial pressure is
-limited to 0.07 N/mm2. If the coefficient of friction is 0.25, find 1. Mean radius
-and face width of the friction lining assuming the ratio of the mean radius to the
-face width as 4, and 2. Outer and inner radii of the clutch plate.
-
-b) A shaft fitted with a flywheel rotates at 250 r.p.m. and drives a machine.
-
-The torque of machine varies in a cyclic manner over a period of 3 revolutions.
-The torque rises from 750 N-m to 3000 N-m uniformly during 1/2 revolution and
-remains constant for the following revolution. It then falls uniformly to 750 N-m
-during the next 1/2 revolution and remains constant for one revolution, the cycle
-being repeated thereafter.
-
-Determine the power required to drive the machine and percentage fluctuation in
-speed, if the driving torque applied to the shaft is constant and the mass of the
-flywheel is 500 kg with radius of gyration of 600 mm.
-
-Q.6.a Inaslider crank mechanism, the length of the crank and connecting rod are 150
-mm and 600 mm respectively. The crank position is 60° from inner dead centre.
-The crank shaft speed is 450 r.p.m. (clockwise). Using analytical method,
-determine: 1. Velocity and acceleration of the slider, and 2. Angular velocity and
-angular acceleration of the connecting rod.
-
-b_ A vertical double acting steam engine has a cylinder 300 mm diameter and 450
-mm stroke and runs at 200 r.p.m. The reciprocating parts has a mass of 225 kg
-and the piston rod is 50 mm diameter. The connecting rod is 1.2 m long. When
-the crank has turned through 125° from the top dead centre, the steam pressure
-above the piston is 30 kN/m? and below the piston is 1.5kN/m?. Calculate the
-effective turning moment on the crank shaft.
-
-Q.7 Attempt following questions.
-
-a Draw the turning moment diagram of a single cylinder double acting steam
-engine.
-
-b_ Explain D-Alembert’s Principle.
-
-c Explain wire rope and fiber ropes with application.
-
-Ah
-````
-
 ## 2016-17 · Re-Exam · Sem 4 · paper 0bacb3eacf8f
 
 - Departments: Mechanical
@@ -2999,6 +3093,7 @@ Ah
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY MACHINES II/THEORY OF MACHINES I BATCH 2016-17 RE EXAM.pdf`
 - Printed on paper: exam date: 10 July 2017
 - Text: ocr (2 pages), mean OCR confidence 94.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3045,7 +3140,6 @@ Figure: 1
 
 Q.3 Find out the acceleration of slider D for the mechanism shown in figure 2. The crank OA (14)
 rotates uniformly at 180 rpm in clockwise direction. The various lengths are OA= 150 mm,
-AB=450 mm, PB=240 mm, BC= 210 mm, CD= 660 mm.
 
 /2
 --- page 2 ---
@@ -3248,107 +3342,264 @@ acceleration of the follower during its ascent and descent, if the cam rotates a
 (12)
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 23fd24a26c2b
+## 2015-16 · Re-Exam · Sem 4 · paper a0c0e9374955
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY OF MACHINES II/THEORY OF MACHINES II BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 06 May 2017
-- Text: ocr (2 pages), mean OCR confidence 92.5
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY OF MACHINES II/THEORY OF MACHINES II B TECH (MECHANICAL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 18/05/2016
+- Text: ocr (3 pages), mean OCR confidence 92.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-of
-J
+SVEM’s NMIMS
+\. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
 
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B.Tech (Mechanical) Year: II Semester: IV
+Academic Year: 2015-16
+/ Batch:2014-15
 
-ae - @
-Programme: B. Tech (MECHANICAL) “Year: | Semester: IV. = ;
-Batch: 2014-2015/2015 - 2016 Zz, Ca
-‘
-Academic Year: 2016-2017 ‘wrstMe Ve
-Subject: Th f Machi ro 4 Burrenany ;
-ubject: eory of Machines - /
-’ ° Marks: 60 © Sar
-Date: 06 May 2017 ” Time: 10.00 am to 1.00.pm ~* ae
-Durations: 3 (hrs)
-No. of Pages: _2—
+Subject: Theory of Machines- II Marks: 60
+Time: 10.00
+Date: 18/05/2016 Durations: 3 hr&
+
 Re-Examination
+
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
+
 NB:
 1) Question No. ONE is compulsory.
 2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
+3} In ali FEVE questions to be aticrapied.
+
+a 4) All questions carry equal marks.
+5). Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-Ql Solve any THREE
-a) What are the different characteristics of braking material? . 4
-b) Classify the follower according to shape. 4
-c) Derive an equation of a plate clutch for the total torque transmitted for UPT. 4
-d) Differentiate simple gear train and compound gear train along with its speed ratio. 4
-Q2 a) A differential band brake, as shown in Fig. 1, has an angle of contact of 225°. The band
-has a compressed against a drum of 350 mm diameter. The brake is to sustain a torque
-of 350 N-m and the coefficient of friction between the band and the drum is 0.3. 6
-Determine 1. Necessary force (P) for the clockwise and anticlockwise rotation of the
-drum; and 2. The value of ‘OA’ for self locking, when the drum rotates clockwise.
-b) A centrifugal clutch is to transmit 15 kW at 900 r.p.m. The shoes are four in number.
-The speed at which the engagement begins is 3/4" of the running speed. The inside
-radius of the pulley rim is 150 mm and the centre of gravity of the shoe lies at 120 mm 6
-from the centre of the spider. The shoes are lined with Ferrodo for which the
-coefficient of friction may be taken as 0.25. Determine: 1. Mass of the shoes, and 2.
-Size of the shoes, if angle subtended by the shoes at the centre of the spider is 60° and
-the pressure exerted on the shoes is 0.1 N/mm’.
-| Q3 a) Prove that Arc of contact = Path of contact/cos@. 8
-b) The centre distance between two left handed meshing spiral gears is 260 mm and angle
-mee between two shafts is 65°. The normal circular pitch is 14 mm and the gear ratio is 2.5. 4
+7) Assume Suitable data if necessary
 
-The driven gear has helix angle of 35°. Find number of teeth on both gear and exact
-centre distance.
+Q1_ Solve any THREE
 
-Q4 Acam drives a flat reciprocating follower in the following manner :
+a) Discuss types of gear trains. 4
+
+b) A uniform disc of diameter 300 mm and mass 5 kg is mounted on one end of the
+an arm of length 600 mm. The other end of the arm is free to rotate. If the disc
+rotates about the arm with a speed of 450 rpm clockwise, looking from front,
+with what speed will it precess about the vertical axis?
+
+c) Classify the follower according to surface in contact. 4
+
+d) What are the different characteristics of braking material? 4
+
+a Q2 a) Acone clutch has semi cone angle 15°, transmits 30kW at 2400 rpm. The mean
+radius is twice of the width of the friction surface and maximum pressure
+intensity is 0.8 x 10° N/m’. Determine dimensions of contact surfaces, the axial
+load and width of friction surface for u= 0.3. Assume Uniform wear theory.
+
+6) A simple band brake is applied 40 a rotating drawn of diameter 600.inma. The tap
+angle of a band on the drum is 270°. The one end of the lever has fulcrum pin to
+which is attached, the one end of the band. Other end of the band is attached to a
+pin 120 mm from the fulcrum. The coefficient of friction between the band and
+the drum is 0.25. A braking force of 100 N is applied at a distance 840 mm from
+the fulcrum. Determine the braking torque for both clockwise and
+counterclockwise rotation. ,
+
+/3
 --- page 2 ---
-During first 120° rotation of the cam, follower moves outwards through a distance of 20
-mm with simple harmonic motion. The follower dwells during next 30° of cam rotation. 12
-During next 120° of cam rotation, the follower moves inwards with simple harmonic
-motion. The follower dwells for the next 90° of cam rotation. The minimum radius of the
-cam is 25 mm. Draw the profile of the cam.
+Q:3
 
-Q5 a) Inepicyclic gear train (Fig. 2) compound gear A and B as well as wheel C and D rotate 8
-independently about the axis O. The wheels E and F rotate on the pins fixed to the arm
-a. The number on wheels are Ta=52, Tp=56, Te=T¢=36 Determine speed of wheel C if
-(i) wheel D fixed and arm rotates at 200 rpm clockwise.
-(ii) wheel D rotates at 200 rpm anti-clockwise & arm a rotates at 20 rpm anticlockwise.
-b) A pair of bevel gears is mounted on two intersecting shafts whose shafts angles are at 4
-72° to each other. The velocity ratio of gear is 2.5. Find the pitch angles.
+Q4
 
-Q6 a) What are two main types of dynamometer? Explain Prony Brake dynamometer. 3
-b) Two 20° spur gear have module of 10 mm. The addendum is equal to one module. The 7
-larger gear has 50 teeth and pinion has 13 teeth. Does interference occur? If it occurs,
-to what value should the pressure angle be changed to eliminate interference?
+Q5
 
-Q7 a) Turbine rotor of a ship has mass of 3 tonnes, rotates at 1800 rpm clockwise when seen
+-A cam is to be designed for a knife edge follower with the following data:
 
-from aft. The radius of gyration of rotor is 300 mm. Determine gyroscopic couple and
-its effect when i) ship turns right at a radius of 275 m with speed of 30 km/h, ii) ship ¢
-pitches with the bow rising at an angular velocity of 0.8 rad/s and iii) ship rollsat an
-angular velocity of 0.2 rad/s
+1. Cam lift = 40 mm during 90° of cam rotation with simple harmonic motion.
 
-b) An aeroplane makes a complete half circle of 50 m radius, towards left, when flying at
-200 km/hr. The rotary engine and the propeller of the plane have a mass of 400 kg and 3
-a radius of gyration of 0.3 m: The engine rotates at 2400 r.p.m. clockwise when viewed
-from the rear. Find the gyroscopic couple on the aircraft and state its effect on it.
+2. Dwell for the next 30°.
 
-c) Write a short note on effect of gyroscopic couple on an automobile. 3
+3. During the next 60° of cam rotation, the follower returns to its original position
 
-= ~—| _ at
+with simple harmonic motion.
 
-All dimensions in mm.
+4. Dwell during the remaining 180°.
 
-Fig. 1 Fig. 2
+Draw the profile of the cam
+a) when the line of stroke of the follower passes through the axis sof the cam shaft
+b) when the line of stroke is offset 20 mm from the axis of the cam shaft.
+
+The radius of the base circle of the cam is 40 mm. Determine the maximum velocity
+of the follower during its ascent and descent, if the cam rotates at 240 rpm.
+
+a) Two spur gears in mesh have 20° pressure angle. The gear ratio is 3 and number
+of teeth on pinion are 30. The teeth have module of 8 mm. The pitch line
+velocity is i.5 m/s and the addendum equal to one module. Determine the angle
+of action of the pinion. Also find velocity of sliding at the i) beginning of contact
+and ii) end of contact.
+
+b) A two start worm rotating at 800 rpm drives 26 teeth worm wheel. The worm has
+pitch diameter of 54 mm and pitch of 18 mm. If the p is 0.06, find the
+i. Helix angle of worm
+ii. Speed of gear
+iii. Centre distance
+iv. Efficiency
+v. Lead angle for maximum efficiency
+vi. Maximum efficiency
+
+a) The mass of the turbine rotor of a ship is 20 tonnes and has a radius of gyration
+of 0.6 m. Its speed is 2000 r.p.m. The ship pitches 6° above and 6° below the
+horizontal position. A complete oscillation takes 30 seconds and the motion is
+simple harmonic. Determine (a) Maximum gyroscopic couple, (b) Maximum
+angular acceleration of the ship during pitching, and (c) The direction in which
+the bow will tend to turn when rising, if the rotation of the rotor is clockwise
+when looking from the left.
+
+b) Each artis of a four-wheeled rear engine automobile has-a moment of inertia
+2.4 kg m? and an effective diameter is 660 mm. the rotating parts of engine have
+moment of inertia 1.2 kg m’. The gear ratio of engine to block is 3. The engine
+axis is parallel to the rear axle and the crankshaft rotates at in the same sense as
+the road wheels. The mass of vehicle is 2200kg and the centre of mass is 550
+mm above road. The track width of road is 1.5 m. Determine the limiting speed
+of vehicle around a curve with 80 m radius so that all four wheels maintain
+contact with the road surface.
+
+Q/3
+
+12
+
+o>
+--- page 3 ---
+Q6 a) Anepicyclic gear train consists of three wheels A, B and C as shown in Fig. 1.
+Wheel A has 78 internal teeth, C has 38 external teeth. Wheel B gears with both
+A and C and carried on an arm which rotates about centre of A at 24 rpm. 6
+anticlockwise. If the wheel A is fixed, determine the speed of wheel B and C by
+tabular method.
+
+b) The centre distance between two meshing spiral gears is 280 mm, and the angle
+
+between the shafts is 60°. The normal circular pitch is 16 mm and the gear ratio
+is 3. The driven gear has a helix angle of 35°, find number if teeth on each 6
+wheel, exact centre distance and efficiency assuming the friction angle to be 8°.
+
+Q7 a) A pair of bevel gears is mounted on two intersecting shafts whose shafts angles
+are at 76° to each other. The velocity ratio of gear is 3. Find the pitch angles.
+b) A centrifugal clutch with four shoes transmits 16 kW of a power at 600 rpm. The
+engapeirient of clutch commeuces-ai $0 per cenit of running speed. ‘fhe inside
+diameter of drum is 200 mm and distance of centre of mass of each shoe is 40 4
+mim from the contact surface. Determine the mass of each shoe, net force exerted
+by each shoe on drum surface. p= 0.25.
+c) Describe the any four types of Cam according to shape. 4
+
+3) 8
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper 2c7477b07adb
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/THEORY OF MACHINES II/THEORY OF MACHINES II B TECH (MECHATRONICS), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+i
+
+SVKM’s rants 3
+MUKESH PATEL SCHOOL OF TECHNOLOGY MA PGeME
+‘a “MIMS nat
+Programme: B.Tech (Mechatronics) Year: I] -°" «=---" “Semester: IV
+
+} Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Theory of Machines -II Marks: 60
+Time: 10.00 am - 1.00 pm
+Date: 10/05/2016 Durations: 3 hrs.
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory. .
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) All questions carry equal marks.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Make suitable assumptions if required but state them clearly.
+
+Q.1 Attempt any three questions 12
+I. What is meant by interference in involute gears
+II. Explain jump phenomenon in case of cam
+Ill. Define steering, pitching and rolling
+IV. Write short notes on band and block brake with diagram
+
+Q.2 Describe with a neat sketch a centrifugal clutch and deduce an equation for the 12
+_ total torque transmitted.
+
+Q.3 What is the difference between absorption and transmission dynamometers? 12
+Describe the construction and operation of a prony brake dynamometer with
+schematic.
+--- page 2 ---
+Q4
+
+Q.5
+
+Q.6
+
+Q.7
+
+gee
+
+wr
+& gt
+
+4 t
+A cam, with a minimum radius of 50 mm, rotating clockwise at a uniform
+speed, is required to give a knife edge follower the motion as described below :
+1) To move outwards through 40 mm during 100° rotation of the cam
+2) To dwell for next 80°
+3) To return to its starting position during next 90°, and
+4) To dwell for the rest period of a revolution i.c. 90°.
+The displacement of the follower is to take place with uniform acceleration and
+uniform retardation. Determine the maximum velocity and acceleration of the
+follower when the cam shaft rotates at 900 r.p.m.
+Draw the displacement, velocity and acceleration diagrams for one complete
+revolution of the cam.
+
+Derive the expression for gyroscopic couple. derive the equation for stability of a four
+wheeler drive moving in curved path four wheelers considering gyroscopic couple
+.Explain the direction of normal reaction that will act on the wheels due to gyroscopic
+couple.
+
+A single plate clutch, with both sides effective, has outer and inner diameters 300
+mm and 200 mm respectively. The maximum intensity of pressure at any point in
+the contact surface is not to exceed 0.1 N/mm2. If the coefficient of friction is 0.3,
+determine the power transmitted by a clutch at a speed 2500 r.p.m.
+
+The simple band brake, as shown in Fig. is applied to a shaft carrying
+a flywheel of mass 400-kg. The radius of gyration of the flywheel is 450 mm and
+runs at 300 r.p.m. If the coefficient of friction is 0.2 and the brake drum diameter
+is 240 mm, find :
+
+1) the torque applied due to a hand load of 100 N,
+
+2) the number of turns of the wheel before it is brought to rest, and
+
+3) the time required to bring it to rest, from the moment of the application of
+
+the brake
+
+a i
+yt “te, 300
+
+12
+
+12
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 6c0f779fe9fb
@@ -3460,6 +3711,140 @@ contact.
 
 + >
 2/2
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper cecaf1819903
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY MACHINES II/Theory of Machines I Batch 2014-15 Re Exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 10/05/2016
+- Text: ocr (3 pages), mean OCR confidence 90.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Mechanical) Year: II Semester: IV
+
+Academic Year: 2015-16
+
+Batch: 2014-15 Pat a
+: , of Mas. ~
+GO,
+
+we 4
+. 4 a fa &
+Subject: Theory of Machines-I - Marks: ove : © \ .
+Time: 2.00 pm - 5.00 pai - jg)
+Date: 10/05/2016 Durationg:@ (hts) fw,
+
+Re-Examination
+Duration: 3 Hours «
+
+Candidates are advised to read the instructions carefully before attempting the Question paper.
+Instructions:
+
+(1) Question number 1 is compulsory.
+
+(2) Attempt any Four questions from remaining paper.
+
+(3) In all five questions to be attempted.
+
+(4) Assume suitable data wherever necessary.
+
+Ce _
+
+Ql. Answer any four of the following: { 4X9]
+a) Define Kinematic links. What are different types of kinematic link. 3
+b) Define Degree of Freedom. Find degree of freedom of following figures: 3
+
+c) Define Instantaneous centre of rotation. Body Centrode. Space Centrode. B
+
+d) Explain the turning moment diagram for a four stroke Spark plug engine. 3
+
+e) Derive the relation between the Tension in tight and slack side of the belt 3
+drive.
+
+Q2.a) Explain Pantograph mechanism and Ackerman Steering gear mechanism.
+
+— | of 2 —
+--- page 2 ---
+Q2.b) Define term Inversion. What are the inversions of single slider crank
+Mechanism. Explain any one of them. The length of fixed link of a crank and
+slotted lever mechanism is 250 mm and that of crank is 100 mm. Determine
+the ratio of time of cutting stroke to the time of return stroke and Length of
+stroke if the length of the slotted lever is 450 mm.
+
+Q3. Fig. 2 shows a Whitworth quick return motion mechanism. The various
+dimensions in the mechanism are as follows:
+OQ=i100 mm ; OA = 200 mm ; QC = 150 mm ; and CD = 500 mm.
+The crank OA makes an angle of 60° with the vertical and rotates at 120 rpm
+in the clockwise direction. Locate all the instantaneous centres and find the
+
+velocity of the ram.
+
+Fig 2
+Q4.a) What are the different types of Inversion of Double slider crank Mechanism?
+
+Q4.b) The driving crank AB of the quick return motion mechanism as shown in
+figure 3 revolves at a uniform speed of 200 r.p.m. Find the velocity and
+acceleration of the tool box R in the position shown, when the crank makes an
+angle of 60° with the vertical line of centre PA. What is the acceleration of
+sliding of block at B along the slotted lever PQ?
+
+500
+
+AL! dioxensions tn im
+
+Fig. 3
+
+—2 of > —
+
+6
+
+42
+
+(6]
+--- page 3 ---
+Q5.a) What are the functions of flywheel? Derive an expression for the Energy stored
+in the flywheel.
+
+QS.b) During the forward stroke of a double acting steam engine, the turning moment
+
+has a maximum value of 2000 N-m when the crank makes an angle of 80° with
+the inner dead centre. During the backward stroke the maximum turning
+moment is 1500 N-m when the crank makes an angle of 80° with the outer
+dead centre. The turning moment diagram for simplicity may be assumed to be
+two triangles.
+If the crank makes !00 r.p.m and the radius of the gyration of the flywheel is
+1.75m find the coefficient of fluctuation of energy and the mass of the
+flywheel to keep the speed within + 0.75% of the mean speed. Also determine
+the crank angle-at which the speed has its maximum and minimum values.
+
+Q6.a) Derive the condition for maximum power transmitted by the belt.
+
+‘a Q6.b) Two parallel shafts that are 3.5m apart are connected by two pulleys of 1m and
+400 mm diameters, the larger pulley being the driver runs at 220 r.p.m. The
+belt weighs 1.5 kg per metre length. The maximum tension in the belt is not to
+exceed 1.8 kN. The coefficient of friction is 0.28. Owing to slip on one of the
+pulleys the velocity of the driven shaft is 520 rpm only. Determine the
+(i) Torque on each shaft
+(ii) Power transmitted
+(iii) Power lost in friction
+(iv) Efficiency of the drive
+
+Q7.a) A double acting steam engine develops 56 kW of power at 210 rpm. The
+maximum and minimum speeds do not vary more than .1% of the mean speed
+and the excess energy is 30% of the indicated work per stroke. Determine the
+mass of the flywheel if the radius of gyration of the flywheel is 500 mm.
+
+Q7.b) Two pulleys one 450 mm diameter and other 200 mm diameter are on parallel
+a shafts 1.95 m apart and are connected by cross belt. Find the length of the belt
+required and angle of contact between the belt and each pulley.
+What power can be transmitted by belt when the larger pulley rotates at 200
+rev/min, If the maximum permissible tension in the belt is 1kN and the
+coefficient of friction between the belt and pulley is 0.25.
 ````
 
 ## 2014-15 · Final-Exam · Sem 4 · paper b984c1f38521
@@ -3728,189 +4113,42 @@ If the coefficient of friction is 0.25, find 1. Mean radius and face width of th
 ratio of the mean radius to the face width as 4, and 2. Outer and inner radii of the clutch plate. (12 marks)
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper a0c0e9374955
+## 2014-15 · Re-Exam · Sem 4 · paper 051fe44ecc07
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY OF MACHINES II/THEORY OF MACHINES II B TECH (MECHANICAL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 18/05/2016
-- Text: ocr (3 pages), mean OCR confidence 92.9
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY OF MACHINES II/THEORY OF MACHINES II B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 01/07/2015
+- Text: ocr (3 pages), mean OCR confidence 82.2
 
 ````text
-SVEM’s NMIMS
-\. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Mechanical) Year: II Semester: IV
-Academic Year: 2015-16
-/ Batch:2014-15
+Programme: B. Tech (MECH) Year: II Semesier: IV
 
-Subject: Theory of Machines- II Marks: 60
-Time: 10.00
-Date: 18/05/2016 Durations: 3 hr&
+Batch: 2013-14
+Academic Year: 2014-2015
 
-Re-Examination
+Subject: Theory of Machines- IT
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+‘7
 
-NB:
-1) Question No. ONE is compulsory.
-2) Out of remaining questions, attempt any FOUR questions.
-2) Tes elt ENTE eseettnn = ea He stinen tet
-3} In ali FEVE questions to be aticrapied.
+Marks: 400
 
-a 4) All questions carry equal marks.
-5). Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q1_ Solve any THREE
-
-a) Discuss types of gear trains. 4
-
-b) A uniform disc of diameter 300 mm and mass 5 kg is mounted on one end of the
-an arm of length 600 mm. The other end of the arm is free to rotate. If the disc
-rotates about the arm with a speed of 450 rpm clockwise, looking from front,
-with what speed will it precess about the vertical axis?
-
-c) Classify the follower according to surface in contact. 4
-
-d) What are the different characteristics of braking material? 4
-
-a Q2 a) Acone clutch has semi cone angle 15°, transmits 30kW at 2400 rpm. The mean
-radius is twice of the width of the friction surface and maximum pressure
-intensity is 0.8 x 10° N/m’. Determine dimensions of contact surfaces, the axial
-load and width of friction surface for u= 0.3. Assume Uniform wear theory.
-
-6) A simple band brake is applied 40 a rotating drawn of diameter 600.inma. The tap
-angle of a band on the drum is 270°. The one end of the lever has fulcrum pin to
-which is attached, the one end of the band. Other end of the band is attached to a
-pin 120 mm from the fulcrum. The coefficient of friction between the band and
-the drum is 0.25. A braking force of 100 N is applied at a distance 840 mm from
-the fulcrum. Determine the braking torque for both clockwise and
-counterclockwise rotation. ,
-
-/3
---- page 2 ---
-Q:3
-
-Q4
-
-Q5
-
--A cam is to be designed for a knife edge follower with the following data:
-
-1. Cam lift = 40 mm during 90° of cam rotation with simple harmonic motion.
-
-2. Dwell for the next 30°.
-
-3. During the next 60° of cam rotation, the follower returns to its original position
-
-with simple harmonic motion.
-
-4. Dwell during the remaining 180°.
-
-Draw the profile of the cam
-a) when the line of stroke of the follower passes through the axis sof the cam shaft
-b) when the line of stroke is offset 20 mm from the axis of the cam shaft.
-
-The radius of the base circle of the cam is 40 mm. Determine the maximum velocity
-of the follower during its ascent and descent, if the cam rotates at 240 rpm.
-
-a) Two spur gears in mesh have 20° pressure angle. The gear ratio is 3 and number
-of teeth on pinion are 30. The teeth have module of 8 mm. The pitch line
-velocity is i.5 m/s and the addendum equal to one module. Determine the angle
-of action of the pinion. Also find velocity of sliding at the i) beginning of contact
-and ii) end of contact.
-
-b) A two start worm rotating at 800 rpm drives 26 teeth worm wheel. The worm has
-pitch diameter of 54 mm and pitch of 18 mm. If the p is 0.06, find the
-i. Helix angle of worm
-ii. Speed of gear
-iii. Centre distance
-iv. Efficiency
-v. Lead angle for maximum efficiency
-vi. Maximum efficiency
-
-a) The mass of the turbine rotor of a ship is 20 tonnes and has a radius of gyration
-of 0.6 m. Its speed is 2000 r.p.m. The ship pitches 6° above and 6° below the
-horizontal position. A complete oscillation takes 30 seconds and the motion is
-simple harmonic. Determine (a) Maximum gyroscopic couple, (b) Maximum
-angular acceleration of the ship during pitching, and (c) The direction in which
-the bow will tend to turn when rising, if the rotation of the rotor is clockwise
-when looking from the left.
-
-b) Each artis of a four-wheeled rear engine automobile has-a moment of inertia
-2.4 kg m? and an effective diameter is 660 mm. the rotating parts of engine have
-moment of inertia 1.2 kg m’. The gear ratio of engine to block is 3. The engine
-axis is parallel to the rear axle and the crankshaft rotates at in the same sense as
-the road wheels. The mass of vehicle is 2200kg and the centre of mass is 550
-mm above road. The track width of road is 1.5 m. Determine the limiting speed
-of vehicle around a curve with 80 m radius so that all four wheels maintain
-contact with the road surface.
-
-Q/3
-
-12
-
-o>
---- page 3 ---
-Q6 a) Anepicyclic gear train consists of three wheels A, B and C as shown in Fig. 1.
-Wheel A has 78 internal teeth, C has 38 external teeth. Wheel B gears with both
-A and C and carried on an arm which rotates about centre of A at 24 rpm. 6
-anticlockwise. If the wheel A is fixed, determine the speed of wheel B and C by
-tabular method.
-
-b) The centre distance between two meshing spiral gears is 280 mm, and the angle
-
-between the shafts is 60°. The normal circular pitch is 16 mm and the gear ratio
-is 3. The driven gear has a helix angle of 35°, find number if teeth on each 6
-wheel, exact centre distance and efficiency assuming the friction angle to be 8°.
-
-Q7 a) A pair of bevel gears is mounted on two intersecting shafts whose shafts angles
-are at 76° to each other. The velocity ratio of gear is 3. Find the pitch angles.
-b) A centrifugal clutch with four shoes transmits 16 kW of a power at 600 rpm. The
-engapeirient of clutch commeuces-ai $0 per cenit of running speed. ‘fhe inside
-diameter of drum is 200 mm and distance of centre of mass of each shoe is 40 4
-mim from the contact surface. Determine the mass of each shoe, net force exerted
-by each shoe on drum surface. p= 0.25.
-c) Describe the any four types of Cam according to shape. 4
-
-3) 8
-````
-
-## 2014-15 · Re-Exam · Sem 4 · paper 2c7477b07adb
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/THEORY OF MACHINES II/THEORY OF MACHINES II B TECH (MECHATRONICS), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-i
-
-SVKM’s rants 3
-MUKESH PATEL SCHOOL OF TECHNOLOGY MA PGeME
-‘a “MIMS nat
-Programme: B.Tech (Mechatronics) Year: I] -°" «=---" “Semester: IV
-
-} Academic Year: 2015-16
-
-Batch: 2014-15
-
-Subject: Theory of Machines -II Marks: 60
-Time: 10.00 am - 1.00 pm
-Date: 10/05/2016 Durations: 3 hrs.
+Date: 01/07/2015 Time: 2.00 pm to 5. 00 phe
+Durations: |\ 3. (irs) <
 
 Re-Examination
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and
 on the cover of the Answer Book, which is provided for their use.
 
-1) Question No. | is compulsory. .
+N.B.
 
-2) Out of remaining questions, attempt any 4 questions.
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, atterapt any 4 questions.
 
 3) All questions carry equal marks.
 
@@ -3918,74 +4156,308 @@ on the cover of the Answer Book, which is provided for their use.
 5) Figures in brackets on the right hand side indicate full marks.
 6) Make suitable assumptions if required but state them clearly.
 
-Q.1 Attempt any three questions 12
-I. What is meant by interference in involute gears
-II. Explain jump phenomenon in case of cam
-Ill. Define steering, pitching and rolling
-IV. Write short notes on band and block brake with diagram
+Q.1 a) Describe with a neat sketch a single plate clutch and deduce an equation for the 12
+total torque transmitted.
+b) A multiple disc clutch has five plates having four pairs of active friction surfaces. 8
+If the intensity of pressure is nol to exceed 0.127 N/mm’, find the power
+transmitted at 500 r.p.m. The outer and inner radii of friction surfaces are 125 mm
+and 75 mm respectively. Assume uniform wear and coefficient of friction = 0.3.
 
-Q.2 Describe with a neat sketch a centrifugal clutch and deduce an equation for the 12
-_ total torque transmitted.
+Q.2 a) Describe with a neat sketch the working of a Centrifugal clutch. 8
+b) A double shoe brake, as shown in Fig 1 is absorbing a torque of 1400 N-m. The 1
 
-Q.3 What is the difference between absorption and transmission dynamometers? 12
-Describe the construction and operation of a prony brake dynamometer with
-schematic.
+diameter of the brake drum is 350 mm and the angle of contact for each shoe is
+100°. If the coefficient of friction is 0.4; find a) the spring force necessary to set
+
+the brake; b) The width of the brake shoes, if the bearing pressure on the lining
+material is not to exceed 0.3 Nimm?
+
+Two mating gears have 20 and 40 involute teeth of module 10 mm and 20° 10
+pressure angle. The addendum on each wheel is to be made of such a length that
+
+the line of contact on each. side of the pitch point has half the maximum possible
+length. Determine the addendum height for each gear wheel, length of the path of
+contact, arc of contact and contaci ratio.
+
+Q.3a)
+
+b) Write factors deciding brake capacity, ; ; 5
+
+c) Describe the different types of gear trains. 5
+
+4/3
 --- page 2 ---
 Q4
 
-Q.5
+Q.5 a)
 
-Q.6
+b)
 
-Q.7
+Q.6 a)
 
-gee
+b)
 
-wr
-& gt
+Q.7 a)
 
-4 t
-A cam, with a minimum radius of 50 mm, rotating clockwise at a uniform
-speed, is required to give a knife edge follower the motion as described below :
-1) To move outwards through 40 mm during 100° rotation of the cam
-2) To dwell for next 80°
-3) To return to its starting position during next 90°, and
-4) To dwell for the rest period of a revolution i.c. 90°.
-The displacement of the follower is to take place with uniform acceleration and
-uniform retardation. Determine the maximum velocity and acceleration of the
-follower when the cam shaft rotates at 900 r.p.m.
-Draw the displacement, velocity and acceleration diagrams for one complete
-revolution of the cam.
+h)
 
-Derive the expression for gyroscopic couple. derive the equation for stability of a four
-wheeler drive moving in curved path four wheelers considering gyroscopic couple
-.Explain the direction of normal reaction that will act on the wheels due to gyroscopic
-couple.
+A cam drives a flat reciprocating follower in the following manner :
 
-A single plate clutch, with both sides effective, has outer and inner diameters 300
-mm and 200 mm respectively. The maximum intensity of pressure at any point in
-the contact surface is not to exceed 0.1 N/mm2. If the coefficient of friction is 0.3,
-determine the power transmitted by a clutch at a speed 2500 r.p.m.
+During first 120° rotation of the cam, follower moves outwards through a distance
+of 20 mm with simple harmonic motion. The follower dwells during next 30° of
+cam rotation. During next 120° of cam rotation, the follower moves inwards with
+simple harmonic motion. The follower dwells for the next 90° of cam rotation.
 
-The simple band brake, as shown in Fig. is applied to a shaft carrying
-a flywheel of mass 400-kg. The radius of gyration of the flywheel is 450 mm and
-runs at 300 r.p.m. If the coefficient of friction is 0.2 and the brake drum diameter
-is 240 mm, find :
+The minimum radius of the cam is 25 mm. Draw the profile of the cam.
 
-1) the torque applied due to a hand load of 100 N,
+Derive an expression for the length of the path of contact in a pair of meshed spur
+gears.
 
-2) the number of turns of the wheel before it is brought to rest, and
+A two-start worm rotating at 800 rpm drives 26 tooth worm gear. The worm has a
+pitch diameter of 54 mm and pitch of 18 mm. The coefficient of friction is 0.06.
+Find a) Helix angle of Worm, b) speed of gear, c) Centre distance, d) Efficiency,
+e) lead angle for maximum efficiency
 
-3) the time required to bring it to rest, from the moment of the application of
+The centre distance between two meshing gears is 260 mm and the angle between
+shafts is 65°. The normal circular pitch is 14 mm and the gear ratio is 2.5. The
+driven gear has a helix angle of 35°.
 
-the brake
+Find the a) Number of teeth on each wheel, b) Exact centre distance, c) Efficiency
+assuming the friction angle to be 5.5°.
 
-a i
-yt “te, 300
+An epicyclic gear consists of three gears A, B and C as shown in Fig. 2. The gear
+A has 72 internal teeth and gear C has 32 external teeth. The gear B meshes with
+both A and C and is.carried on an arm EF which rotates about the centre of A at 18
+r.p.m. If the gear A is fixed, determine the speed of gears B and C.
+
+The turbine rotor of a ship has a mass of 4000 kg. It has a radius of gyration of
+0.45 m and a speed of 3000 r.p.m. clockwise when looking from stern. Determine
+the gyroscopic couple and its effect upon the ship:
+
+1. when the ship is steering to the left on a curve of 100 m radius at a speed of 36
+km/h.
+
+2. when the ship is pitching in a simple harmonic motion, the bow falling with its
+maximum velocity. The period of pitching is 40 seconds and the total angular
+displacement between the two extreme positions of pitching is 12 degrees.
+
+A uniform disc having mass of 10 kg end radius of gyration 150 mm is mounted
+on one end of a horizontal arm of 200 mm length. The other end of the arm can
+rolute freely in a Wuiversai beau. Phe aisc is given a clockwise spin of 400 rpm
+as seen from disc end of the arm determine ‘the motion of the disc if the arm
+remains horizontal. ;
+
+20
+
+10
+
+10
 
 12
 
 12
+--- page 3 ---
+SPFESP EPRI “en
+
+All Ginensions in mm.
+Fig. 1 Fig. 2
+
+3/s
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper bb7a08b95e6a
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY OF MACHINES II/THEORY OF MACHINES II B TECH (MECH), BATCH 2013-14 RE EXAM_bb7a08b95e.pdf`
+- Printed on paper: exam date: 08/05/2015
+- Text: ocr (3 pages), mean OCR confidence 94.0
+
+````text
+a)
+
+b)
+c)
+d)
+
+€)
+
+2.a)
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: II Semester: [V
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Theory of Machines- II
+
+Date: 08/05/2015
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their
+use.
+
+NB:
+1. Question No 1 is compulsory. Attempt any FOUR from remaining.
+2. All questions carry equal marks.
+3. Answer to each new question should be started on a fresh page.
+4. Assume suitable data if necessary.
+5. Drawing sheets can be provided for Question no.3.
+
+Answer any Four of following questions and all questions carry equal
+marks:
+
+In a thrust bearing the external the external and internal radii of the contact
+
+surfaces are 21 cm and 16 cm respectively. Total axial load is 81 KN and
+
+coefficient of friction is 0.05. The shaft is rotating at 400 rpm. Intensity of [5 Marks]
+pressure not to exceed 360 KN/m’. Determine the power lost in overcoming
+
+firction.
+
+Explain Self Energizing and Self locking Brakes with its applications. [5 Marks]
+Explain with sketches different types of follower. [5 Marks]
+Explain interference and the methods used to avoid interference in Gears. [5 Marks]
+
+Explain the effect of Gyroscopic couple on an aero plane with suitable [5 Marks]
+sketches.
+
+Explain with the help of neat diagram the working of Centrifugal clutch. [8 Marks]
+--- page 2 ---
+2.b)
+
+4. a)
+4.b)
+
+A differential band brake has an angie of contact of 225°. ‘The band has a
+compressed woven lining and bears against a cast iron drum of 350 mm
+diameter. The band is to sustain a torque of 350 N-m and the coefficient of
+friction between the band and the drum is 0.3. Find:
+
+1. The necessary force P for clockwise rotation of the drum
+
+2. The value of OA for the brake to be self locking.
+
+he
+
+500 | [12 Marks]
+A |
+AS B re
+
+225° | J
+1
+
+All dimensions in mm.
+
+A cam with a minimum radius of 25 mm rotating clockwise at a uniform
+
+speed is to be designed to give a roller follower at the end of the valve rod
+
+motion described below:
+
+1. To raise the valve through 50 mm during 120° rotation of the cam
+
+2. To keep the valve fully raised through next 30° [20 Marks]
+3. To lower the valve during next 60°
+
+4. To keep the valve closed during the rest of revolution
+
+The diameter of the roller is 20 mm and diameter of the cam shaft is 25 mm.
+
+Draw the profile of the cam when the line of stroke of.the valve rod is in
+
+line with the axis of cam shaft, The motion is SHM during rise & fall of the follower.
+Explain the classification of gears with the help of suitable diagrams. [8 Marks]
+
+A Epicyclic gear train is arrange as shown in the figure. The pitch circle [12 Marks]
+diameter of the internally toothed ring is to be 224 mm and module 4 mm.
+When the ring D is stationary the spider A which carries the three planet
+wheels C of equal size is to make one revolution in the same sense as the
+sun wheel B for every five revolutions of the driving spindle carrying the
+
+sun wheel B, Determine the suitable number of teeth for every wheel. [ Fig.
+2]
+
+2/s
+
+r
+
+f
+--- page 3 ---
+5.a)
+
+5.b)
+
+6.a)
+
+6.b)
+
+a)
+b)
+
+)
+d)
+
+€)
+
+Fig. 2
+Explain the term “Gyroscopic couple” and derive its expression for the
+spinning disc.
+
+A four wheeled trolley car has a total mass of 3000 kg. Each axle with its
+two wheels and gear has a total moment of inertia of 32 Kg-m’. Each wheel
+is of 450 mm radius. The centre distance between the two wheels on an axle
+is 1.4 m. Each axle is driven by a motor with a speed ratio of 1:3. Each
+motor along with a gear has a moment of inertia of 16 Kg-m/” and rotates in
+opposite direction to that of the axle. The centre of mass of a car is 1m
+above the rails. Calculate the limiting speed of the car when it has to travel
+around a curve of 250 m radius without the wheels leaving the rails.
+
+Two gear wheels mesh externally and arc to give a velocity ratio of 3:1. The
+teeth are of involute form; module = 6 mm; addendum = 1 module, pressure
+angle = 20°. The pinion rotates at 250 rpm. Determine
+
+(i) The number of teeth on pinion to avoid interference and corresponding
+number on the gear wheel.
+
+(ii) The length of path and arc of contact
+
+A cone clutch with a cone semi angle 12° is to transmit 10 KW at 750 rpm.
+The width of the face is 4 of mean diameter and the normal pressure
+between the contact force is not to exceed 0.85 bar. Allowing p = 0.2
+determine the mean dimensions of the clutch and axial force required.
+Explain any four of the following:
+
+Rope Brake Dynamometer
+
+Law of Gearing
+
+Single plate clutch
+
+Effect of gyroscopic couple on ship during steering
+
+Different types of Cams
+
+3/3
+
+[8 Marks]
+
+[12 Marks]
+
+[10 Marks]
+
+[10 Marks]
+
+[4X5 = 20]
+
+7
+
+Fa
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 3221ac40130d
@@ -4065,140 +4537,6 @@ Q7) a) Two parallel shafts, about 600 mm apart are to be connected by spur gears
 
 b) Write some advantages and disadvantages of the gear drive as compared to belt, rope and chain drives.
 (6 marks) ‘
-````
-
-## 2014-15 · Re-Exam · Sem 4 · paper cecaf1819903
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY MACHINES II/Theory of Machines I Batch 2014-15 Re Exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 10/05/2016
-- Text: ocr (3 pages), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Mechanical) Year: II Semester: IV
-
-Academic Year: 2015-16
-
-Batch: 2014-15 Pat a
-: , of Mas. ~
-GO,
-
-we 4
-. 4 a fa &
-Subject: Theory of Machines-I - Marks: ove : © \ .
-Time: 2.00 pm - 5.00 pai - jg)
-Date: 10/05/2016 Durationg:@ (hts) fw,
-
-Re-Examination
-Duration: 3 Hours «
-
-Candidates are advised to read the instructions carefully before attempting the Question paper.
-Instructions:
-
-(1) Question number 1 is compulsory.
-
-(2) Attempt any Four questions from remaining paper.
-
-(3) In all five questions to be attempted.
-
-(4) Assume suitable data wherever necessary.
-
-Ce _
-
-Ql. Answer any four of the following: { 4X9]
-a) Define Kinematic links. What are different types of kinematic link. 3
-b) Define Degree of Freedom. Find degree of freedom of following figures: 3
-
-c) Define Instantaneous centre of rotation. Body Centrode. Space Centrode. B
-
-d) Explain the turning moment diagram for a four stroke Spark plug engine. 3
-
-e) Derive the relation between the Tension in tight and slack side of the belt 3
-drive.
-
-Q2.a) Explain Pantograph mechanism and Ackerman Steering gear mechanism.
-
-— | of 2 —
---- page 2 ---
-Q2.b) Define term Inversion. What are the inversions of single slider crank
-Mechanism. Explain any one of them. The length of fixed link of a crank and
-slotted lever mechanism is 250 mm and that of crank is 100 mm. Determine
-the ratio of time of cutting stroke to the time of return stroke and Length of
-stroke if the length of the slotted lever is 450 mm.
-
-Q3. Fig. 2 shows a Whitworth quick return motion mechanism. The various
-dimensions in the mechanism are as follows:
-OQ=i100 mm ; OA = 200 mm ; QC = 150 mm ; and CD = 500 mm.
-The crank OA makes an angle of 60° with the vertical and rotates at 120 rpm
-in the clockwise direction. Locate all the instantaneous centres and find the
-
-velocity of the ram.
-
-Fig 2
-Q4.a) What are the different types of Inversion of Double slider crank Mechanism?
-
-Q4.b) The driving crank AB of the quick return motion mechanism as shown in
-figure 3 revolves at a uniform speed of 200 r.p.m. Find the velocity and
-acceleration of the tool box R in the position shown, when the crank makes an
-angle of 60° with the vertical line of centre PA. What is the acceleration of
-sliding of block at B along the slotted lever PQ?
-
-500
-
-AL! dioxensions tn im
-
-Fig. 3
-
-—2 of > —
-
-6
-
-42
-
-(6]
---- page 3 ---
-Q5.a) What are the functions of flywheel? Derive an expression for the Energy stored
-in the flywheel.
-
-QS.b) During the forward stroke of a double acting steam engine, the turning moment
-
-has a maximum value of 2000 N-m when the crank makes an angle of 80° with
-the inner dead centre. During the backward stroke the maximum turning
-moment is 1500 N-m when the crank makes an angle of 80° with the outer
-dead centre. The turning moment diagram for simplicity may be assumed to be
-two triangles.
-If the crank makes !00 r.p.m and the radius of the gyration of the flywheel is
-1.75m find the coefficient of fluctuation of energy and the mass of the
-flywheel to keep the speed within + 0.75% of the mean speed. Also determine
-the crank angle-at which the speed has its maximum and minimum values.
-
-Q6.a) Derive the condition for maximum power transmitted by the belt.
-
-‘a Q6.b) Two parallel shafts that are 3.5m apart are connected by two pulleys of 1m and
-400 mm diameters, the larger pulley being the driver runs at 220 r.p.m. The
-belt weighs 1.5 kg per metre length. The maximum tension in the belt is not to
-exceed 1.8 kN. The coefficient of friction is 0.28. Owing to slip on one of the
-pulleys the velocity of the driven shaft is 520 rpm only. Determine the
-(i) Torque on each shaft
-(ii) Power transmitted
-(iii) Power lost in friction
-(iv) Efficiency of the drive
-
-Q7.a) A double acting steam engine develops 56 kW of power at 210 rpm. The
-maximum and minimum speeds do not vary more than .1% of the mean speed
-and the excess energy is 30% of the indicated work per stroke. Determine the
-mass of the flywheel if the radius of gyration of the flywheel is 500 mm.
-
-Q7.b) Two pulleys one 450 mm diameter and other 200 mm diameter are on parallel
-a shafts 1.95 m apart and are connected by cross belt. Find the length of the belt
-required and angle of contact between the belt and each pulley.
-What power can be transmitted by belt when the larger pulley rotates at 200
-rev/min, If the maximum permissible tension in the belt is 1kN and the
-coefficient of friction between the belt and pulley is 0.25.
 ````
 
 ## 2013-14 · Final-Exam · Sem 4 · paper 304f0e252802
@@ -4473,353 +4811,6 @@ d) With the help of neat sketches explain the types of cams and followers.(06)
 ~
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 051fe44ecc07
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY OF MACHINES II/THEORY OF MACHINES II B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 01/07/2015
-- Text: ocr (3 pages), mean OCR confidence 82.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: II Semesier: IV
-
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Theory of Machines- IT
-
-‘7
-
-Marks: 400
-
-Date: 01/07/2015 Time: 2.00 pm to 5. 00 phe
-Durations: |\ 3. (irs) <
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-N.B.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, atterapt any 4 questions.
-
-3) All questions carry equal marks.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Make suitable assumptions if required but state them clearly.
-
-Q.1 a) Describe with a neat sketch a single plate clutch and deduce an equation for the 12
-total torque transmitted.
-b) A multiple disc clutch has five plates having four pairs of active friction surfaces. 8
-If the intensity of pressure is nol to exceed 0.127 N/mm’, find the power
-transmitted at 500 r.p.m. The outer and inner radii of friction surfaces are 125 mm
-and 75 mm respectively. Assume uniform wear and coefficient of friction = 0.3.
-
-Q.2 a) Describe with a neat sketch the working of a Centrifugal clutch. 8
-b) A double shoe brake, as shown in Fig 1 is absorbing a torque of 1400 N-m. The 1
-
-diameter of the brake drum is 350 mm and the angle of contact for each shoe is
-100°. If the coefficient of friction is 0.4; find a) the spring force necessary to set
-
-the brake; b) The width of the brake shoes, if the bearing pressure on the lining
-material is not to exceed 0.3 Nimm?
-
-Two mating gears have 20 and 40 involute teeth of module 10 mm and 20° 10
-pressure angle. The addendum on each wheel is to be made of such a length that
-
-the line of contact on each. side of the pitch point has half the maximum possible
-length. Determine the addendum height for each gear wheel, length of the path of
-contact, arc of contact and contaci ratio.
-
-Q.3a)
-
-b) Write factors deciding brake capacity, ; ; 5
-
-c) Describe the different types of gear trains. 5
-
-4/3
---- page 2 ---
-Q4
-
-Q.5 a)
-
-b)
-
-Q.6 a)
-
-b)
-
-Q.7 a)
-
-h)
-
-A cam drives a flat reciprocating follower in the following manner :
-
-During first 120° rotation of the cam, follower moves outwards through a distance
-of 20 mm with simple harmonic motion. The follower dwells during next 30° of
-cam rotation. During next 120° of cam rotation, the follower moves inwards with
-simple harmonic motion. The follower dwells for the next 90° of cam rotation.
-
-The minimum radius of the cam is 25 mm. Draw the profile of the cam.
-
-Derive an expression for the length of the path of contact in a pair of meshed spur
-gears.
-
-A two-start worm rotating at 800 rpm drives 26 tooth worm gear. The worm has a
-pitch diameter of 54 mm and pitch of 18 mm. The coefficient of friction is 0.06.
-Find a) Helix angle of Worm, b) speed of gear, c) Centre distance, d) Efficiency,
-e) lead angle for maximum efficiency
-
-The centre distance between two meshing gears is 260 mm and the angle between
-shafts is 65°. The normal circular pitch is 14 mm and the gear ratio is 2.5. The
-driven gear has a helix angle of 35°.
-
-Find the a) Number of teeth on each wheel, b) Exact centre distance, c) Efficiency
-assuming the friction angle to be 5.5°.
-
-An epicyclic gear consists of three gears A, B and C as shown in Fig. 2. The gear
-A has 72 internal teeth and gear C has 32 external teeth. The gear B meshes with
-both A and C and is.carried on an arm EF which rotates about the centre of A at 18
-r.p.m. If the gear A is fixed, determine the speed of gears B and C.
-
-The turbine rotor of a ship has a mass of 4000 kg. It has a radius of gyration of
-0.45 m and a speed of 3000 r.p.m. clockwise when looking from stern. Determine
-the gyroscopic couple and its effect upon the ship:
-
-1. when the ship is steering to the left on a curve of 100 m radius at a speed of 36
-km/h.
-
-2. when the ship is pitching in a simple harmonic motion, the bow falling with its
-maximum velocity. The period of pitching is 40 seconds and the total angular
-displacement between the two extreme positions of pitching is 12 degrees.
-
-A uniform disc having mass of 10 kg end radius of gyration 150 mm is mounted
-on one end of a horizontal arm of 200 mm length. The other end of the arm can
-rolute freely in a Wuiversai beau. Phe aisc is given a clockwise spin of 400 rpm
-as seen from disc end of the arm determine ‘the motion of the disc if the arm
-remains horizontal. ;
-
-20
-
-10
-
-10
-
-12
-
-12
---- page 3 ---
-SPFESP EPRI “en
-
-All Ginensions in mm.
-Fig. 1 Fig. 2
-
-3/s
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper bb7a08b95e6a
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY OF MACHINES II/THEORY OF MACHINES II B TECH (MECH), BATCH 2013-14 RE EXAM_bb7a08b95e.pdf`
-- Printed on paper: exam date: 08/05/2015
-- Text: ocr (3 pages), mean OCR confidence 94.0
-
-````text
-a)
-
-b)
-c)
-d)
-
-€)
-
-2.a)
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: II Semester: [V
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Theory of Machines- II
-
-Date: 08/05/2015
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their
-use.
-
-NB:
-1. Question No 1 is compulsory. Attempt any FOUR from remaining.
-2. All questions carry equal marks.
-3. Answer to each new question should be started on a fresh page.
-4. Assume suitable data if necessary.
-5. Drawing sheets can be provided for Question no.3.
-
-Answer any Four of following questions and all questions carry equal
-marks:
-
-In a thrust bearing the external the external and internal radii of the contact
-
-surfaces are 21 cm and 16 cm respectively. Total axial load is 81 KN and
-
-coefficient of friction is 0.05. The shaft is rotating at 400 rpm. Intensity of [5 Marks]
-pressure not to exceed 360 KN/m’. Determine the power lost in overcoming
-
-firction.
-
-Explain Self Energizing and Self locking Brakes with its applications. [5 Marks]
-Explain with sketches different types of follower. [5 Marks]
-Explain interference and the methods used to avoid interference in Gears. [5 Marks]
-
-Explain the effect of Gyroscopic couple on an aero plane with suitable [5 Marks]
-sketches.
-
-Explain with the help of neat diagram the working of Centrifugal clutch. [8 Marks]
---- page 2 ---
-2.b)
-
-4. a)
-4.b)
-
-A differential band brake has an angie of contact of 225°. ‘The band has a
-compressed woven lining and bears against a cast iron drum of 350 mm
-diameter. The band is to sustain a torque of 350 N-m and the coefficient of
-friction between the band and the drum is 0.3. Find:
-
-1. The necessary force P for clockwise rotation of the drum
-
-2. The value of OA for the brake to be self locking.
-
-he
-
-500 | [12 Marks]
-A |
-AS B re
-
-225° | J
-1
-
-All dimensions in mm.
-
-A cam with a minimum radius of 25 mm rotating clockwise at a uniform
-
-speed is to be designed to give a roller follower at the end of the valve rod
-
-motion described below:
-
-1. To raise the valve through 50 mm during 120° rotation of the cam
-
-2. To keep the valve fully raised through next 30° [20 Marks]
-3. To lower the valve during next 60°
-
-4. To keep the valve closed during the rest of revolution
-
-The diameter of the roller is 20 mm and diameter of the cam shaft is 25 mm.
-
-Draw the profile of the cam when the line of stroke of.the valve rod is in
-
-line with the axis of cam shaft, The motion is SHM during rise & fall of the follower.
-Explain the classification of gears with the help of suitable diagrams. [8 Marks]
-
-A Epicyclic gear train is arrange as shown in the figure. The pitch circle [12 Marks]
-diameter of the internally toothed ring is to be 224 mm and module 4 mm.
-When the ring D is stationary the spider A which carries the three planet
-wheels C of equal size is to make one revolution in the same sense as the
-sun wheel B for every five revolutions of the driving spindle carrying the
-
-sun wheel B, Determine the suitable number of teeth for every wheel. [ Fig.
-2]
-
-2/s
-
-r
-
-f
---- page 3 ---
-5.a)
-
-5.b)
-
-6.a)
-
-6.b)
-
-a)
-b)
-
-)
-d)
-
-€)
-
-Fig. 2
-Explain the term “Gyroscopic couple” and derive its expression for the
-spinning disc.
-
-A four wheeled trolley car has a total mass of 3000 kg. Each axle with its
-two wheels and gear has a total moment of inertia of 32 Kg-m’. Each wheel
-is of 450 mm radius. The centre distance between the two wheels on an axle
-is 1.4 m. Each axle is driven by a motor with a speed ratio of 1:3. Each
-motor along with a gear has a moment of inertia of 16 Kg-m/” and rotates in
-opposite direction to that of the axle. The centre of mass of a car is 1m
-above the rails. Calculate the limiting speed of the car when it has to travel
-around a curve of 250 m radius without the wheels leaving the rails.
-
-Two gear wheels mesh externally and arc to give a velocity ratio of 3:1. The
-teeth are of involute form; module = 6 mm; addendum = 1 module, pressure
-angle = 20°. The pinion rotates at 250 rpm. Determine
-
-(i) The number of teeth on pinion to avoid interference and corresponding
-number on the gear wheel.
-
-(ii) The length of path and arc of contact
-
-A cone clutch with a cone semi angle 12° is to transmit 10 KW at 750 rpm.
-The width of the face is 4 of mean diameter and the normal pressure
-between the contact force is not to exceed 0.85 bar. Allowing p = 0.2
-determine the mean dimensions of the clutch and axial force required.
-Explain any four of the following:
-
-Rope Brake Dynamometer
-
-Law of Gearing
-
-Single plate clutch
-
-Effect of gyroscopic couple on ship during steering
-
-Different types of Cams
-
-3/3
-
-[8 Marks]
-
-[12 Marks]
-
-[10 Marks]
-
-[10 Marks]
-
-[4X5 = 20]
-
-7
-
-Fa
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 8d40ca3bd7df
 
 - Departments: Mechanical
@@ -4981,6 +4972,7 @@ iii. | Time taken by flywheel to come to rest. ([0)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THEORY MACHINES II/THEORY MACHINES II BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: exam date: 30/06/2014
 - Text: ocr (3 pages), mean OCR confidence 89.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Batch:2013-2014
@@ -5035,7 +5027,6 @@ Centre, Moxwmun, Pressure on Shee = | ben.
 
 b)Explain with a sketch the workin
 
-g Of a prony brake dynamometer Coe)
 and derive the formula for powe
 
 r absorbed.
@@ -5330,6 +5321,131 @@ the gear a is fixed,determine the speed of gear B and C.
 taking a turn.   [lo]
 ````
 
+## 2011-12 · Exam not stated · Trim 6 · paper ad242661d389
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM VI/THEORY OF MACHINES II/THEORY OF MACHINES II0001M.pdf`
+- Printed on paper: max marks: 100; exam date: 09/05/2012
+- Text: ocr (2 pages), mean OCR confidence 93.6
+
+````text
+oe WMSTITUTE gp
+Sarno iy
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management &
+
+Programme: MBA (TECH)-Mechanical Year: II Trimester:
+Academic Year : 2011-2012
+
+Subject: Theory of Machines II Marks: 100
+Time: 2.00 pm To S00 pm
+Date: 09/05/2012 Duration: hrs.
+
+Final - Examination
+
+INSTRUCTION: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book.
+N.B.
+
+(1) Question no. One is compulsory.
+
+(2) Attempt any Four question out of Six.
+
+(3) In all Five questions to be attempted.
+
+(4) Assume suitable data whenever necessary.
+
+(5) Draw neat diagram and explain whenever required.
+
+(6) Figure in the right indicates full marks.
+
+Q.1) Attempt any four of the following. (20)
+i) How the followers are classified explain with neat sketch.
+ii) Explain with neat sketch construction and working of Centrifugal clutch.
+ili) Explain the application of gyroscopic principles to aircrafts.
+iv) Explain briefly the difference between simple, compound and epicyclic gear trains. What
+1 are the special advantages of epicyclic gear trains.
+v) What do you understand by the term ‘interface’ as applied to gear.
+
+Q.2) Attempt the following (20)
+i) The thrust of the propeller shaft in a marine engine is taken up by a number of collars (10)
+integral with the shaft which is 300mm in diameter. The thrust on the shaft os 200 KN
+and the speed of is 75 r.p.m. Taking 1 constant and equal to 0.05 and assuming intensity
+of pressure as uniform and equal to 0.3 N/mm’, find the external diameter of the collars
+and the number of collars required, if the power lost in friction is not to exceed 16K W.
+Fy : \li) A dry single plate clutch is to be designed for an automotive vehicle whose engine is (10)
+} rated to give 100K W at 2400 r.p.m. and maximum torque 5O0N-m. The outer radius of
+friction plate as 25% more than the inner radius. The intensity of pressure between the
+\ plate is not to exceed 0.07N/mm”. The coefficient of friction may be assumed equal to
+0.3. The hélical springs required by this clutch to provide axial force necessary to engage
+the clutch are eight. If the spring has stiffness equal to 40 N/mm, determine the initial
+compression in the spring and dimensions of the friction plate.
+
+bh
+--- page 2 ---
+Q.3) Attempt the following. (20)
+i) Derive an expression for the length of the path of contact and length of arc of contact (10)
+in a pair of meshed spur gear.
+
+ii) A pinion having 30 teeth drives a gear having 80 teeth. The profile of the gear is (5)
+involute with 20° pressure angle, 12mm module and 10mm addendum. Find the length of
+path of contact, arc of contact and the contact ratio.
+
+iii) In a spiral gear drive connecting two shafts, the approximate center distance is (5)
+400mm and speed ratio is equal to 3. The angle between the two shafts is 500 and the
+normal pitch is18mm. The spiral angle for the driving and driven wheels is equal.
+Find 1. Number of teeth on each wheel, 2. Exact center distance, and 3. Efficiency of the
+drive, if friction angle is 6° .
+
+Q. 4) Attempt the following (20)
+i) Construct the profile of a cam to suit the following specifications : (16)
+
+Cam shaft diameter = 40mm; Least radius of cam = 25mm; Diameter of roller = 25mm;
+Angle of lift = 120°; Angle of fall = 150°; Lift of the follower = 40mm; Number of
+pauses are two of equal interval between motions.
+During the lift, the motion is S-/H.M. During the fall the motion is uniform acceleration
+and deceleration. The speed of the cam shaft is uniform. The line of stroke of the
+follower is off-set 12.5mm from centre of the cam. Determine the maximum velocity and
+acceleration of the follower during its ascent ant decent, if the cam rotates at 240 r. p. m.
+
+ii) Explain the following terms used in radial cams , (4)
+a) Pressure angle b) Prime circle c) Pitch curve d) Lift of the stroke
+
+| Q.5) Attempt the following (20)
+i) The arms of Porter governor are each 250 mm long and pivoted on the governor (10)
+axis. The mass of each ball is 5 kg and the mass of the central mass of the central sleeve
+is 30 kg. The radius of rotation of the ball is 150mm when the sleeve begins to rise and
+reaches a value of 200 mm for maximum speed. Determine the speed range of the
+governor. If the friction at the sleeve is equivalent of 20N of the load at the sleeve,
+determine how the speed range is modified.
+
+ii) Explain with neat sketch Proell and Hartnell governor. (10)
+
+Q.6)} Attempt the following (20)
+
+1 . “ i) Discuss the effect of the gyroscopic couple on a-two wheeled vehicle when taking (10)
+ii) Explain with neat sketch different types of gear trains. (10)
+
+‘07 Attempt the following. . (20)
+
+i) A band brake acts on 3/4 * of circumference of a drum of 450mm diameter which (10)
+is keyed to the shaft. The band brake provides a braking torque of 225N-m. One end of
+the band is attached to a fulcrum pin of the lever and the other end to a pin 100mm from
+fulcrum. If the operating force is applied at 500mm from fulcrum and the coefficient of
+
+friction is 0.25 find the operating torque when drum rotates in clockwise and
+
+anticlockwise direction.
+ii) Explain with neat sketch Rope brake dynamometer, also derive an expression how (10)
+
+to find out Brake power of the engine.
+
+%
+````
+
 ## 2011-12 · Re-Exam · Trim 6 · paper afd5b44c5b86
 
 - Departments: Mechanical
@@ -5479,129 +5595,4 @@ for the balance of primary and secondary forces and couples. If the engine is no
 ee en
 
 3)2
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper ad242661d389
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM VI/THEORY OF MACHINES II/THEORY OF MACHINES II0001M.pdf`
-- Printed on paper: max marks: 100; exam date: 09/05/2012
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-oe WMSTITUTE gp
-Sarno iy
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management &
-
-Programme: MBA (TECH)-Mechanical Year: II Trimester:
-Academic Year : 2011-2012
-
-Subject: Theory of Machines II Marks: 100
-Time: 2.00 pm To S00 pm
-Date: 09/05/2012 Duration: hrs.
-
-Final - Examination
-
-INSTRUCTION: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book.
-N.B.
-
-(1) Question no. One is compulsory.
-
-(2) Attempt any Four question out of Six.
-
-(3) In all Five questions to be attempted.
-
-(4) Assume suitable data whenever necessary.
-
-(5) Draw neat diagram and explain whenever required.
-
-(6) Figure in the right indicates full marks.
-
-Q.1) Attempt any four of the following. (20)
-i) How the followers are classified explain with neat sketch.
-ii) Explain with neat sketch construction and working of Centrifugal clutch.
-ili) Explain the application of gyroscopic principles to aircrafts.
-iv) Explain briefly the difference between simple, compound and epicyclic gear trains. What
-1 are the special advantages of epicyclic gear trains.
-v) What do you understand by the term ‘interface’ as applied to gear.
-
-Q.2) Attempt the following (20)
-i) The thrust of the propeller shaft in a marine engine is taken up by a number of collars (10)
-integral with the shaft which is 300mm in diameter. The thrust on the shaft os 200 KN
-and the speed of is 75 r.p.m. Taking 1 constant and equal to 0.05 and assuming intensity
-of pressure as uniform and equal to 0.3 N/mm’, find the external diameter of the collars
-and the number of collars required, if the power lost in friction is not to exceed 16K W.
-Fy : \li) A dry single plate clutch is to be designed for an automotive vehicle whose engine is (10)
-} rated to give 100K W at 2400 r.p.m. and maximum torque 5O0N-m. The outer radius of
-friction plate as 25% more than the inner radius. The intensity of pressure between the
-\ plate is not to exceed 0.07N/mm”. The coefficient of friction may be assumed equal to
-0.3. The hélical springs required by this clutch to provide axial force necessary to engage
-the clutch are eight. If the spring has stiffness equal to 40 N/mm, determine the initial
-compression in the spring and dimensions of the friction plate.
-
-bh
---- page 2 ---
-Q.3) Attempt the following. (20)
-i) Derive an expression for the length of the path of contact and length of arc of contact (10)
-in a pair of meshed spur gear.
-
-ii) A pinion having 30 teeth drives a gear having 80 teeth. The profile of the gear is (5)
-involute with 20° pressure angle, 12mm module and 10mm addendum. Find the length of
-path of contact, arc of contact and the contact ratio.
-
-iii) In a spiral gear drive connecting two shafts, the approximate center distance is (5)
-400mm and speed ratio is equal to 3. The angle between the two shafts is 500 and the
-normal pitch is18mm. The spiral angle for the driving and driven wheels is equal.
-Find 1. Number of teeth on each wheel, 2. Exact center distance, and 3. Efficiency of the
-drive, if friction angle is 6° .
-
-Q. 4) Attempt the following (20)
-i) Construct the profile of a cam to suit the following specifications : (16)
-
-Cam shaft diameter = 40mm; Least radius of cam = 25mm; Diameter of roller = 25mm;
-Angle of lift = 120°; Angle of fall = 150°; Lift of the follower = 40mm; Number of
-pauses are two of equal interval between motions.
-During the lift, the motion is S-/H.M. During the fall the motion is uniform acceleration
-and deceleration. The speed of the cam shaft is uniform. The line of stroke of the
-follower is off-set 12.5mm from centre of the cam. Determine the maximum velocity and
-acceleration of the follower during its ascent ant decent, if the cam rotates at 240 r. p. m.
-
-ii) Explain the following terms used in radial cams , (4)
-a) Pressure angle b) Prime circle c) Pitch curve d) Lift of the stroke
-
-| Q.5) Attempt the following (20)
-i) The arms of Porter governor are each 250 mm long and pivoted on the governor (10)
-axis. The mass of each ball is 5 kg and the mass of the central mass of the central sleeve
-is 30 kg. The radius of rotation of the ball is 150mm when the sleeve begins to rise and
-reaches a value of 200 mm for maximum speed. Determine the speed range of the
-governor. If the friction at the sleeve is equivalent of 20N of the load at the sleeve,
-determine how the speed range is modified.
-
-ii) Explain with neat sketch Proell and Hartnell governor. (10)
-
-Q.6)} Attempt the following (20)
-
-1 . “ i) Discuss the effect of the gyroscopic couple on a-two wheeled vehicle when taking (10)
-ii) Explain with neat sketch different types of gear trains. (10)
-
-‘07 Attempt the following. . (20)
-
-i) A band brake acts on 3/4 * of circumference of a drum of 450mm diameter which (10)
-is keyed to the shaft. The band brake provides a braking torque of 225N-m. One end of
-the band is attached to a fulcrum pin of the lever and the other end to a pin 100mm from
-fulcrum. If the operating force is applied at 500mm from fulcrum and the coefficient of
-
-friction is 0.25 find the operating torque when drum rotates in clockwise and
-
-anticlockwise direction.
-ii) Explain with neat sketch Rope brake dynamometer, also derive an expression how (10)
-
-to find out Brake power of the engine.
-
-%
 ````

@@ -301,6 +301,7 @@ Page - 5 of 5
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/EARTHQUAKE ENGINEERING/Earthquake Engineering Batch 2023-24 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24/06/2024
 - Text: ocr (5 pages), mean OCR confidence 75.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS =
@@ -406,7 +407,6 @@ Q4
 
 29 OO — roy)
 | iT pty al A | |
-).6 fp: ; oss ean ies i aie i taal — ~
 : ; IF
 TH mest
 rn Tob
@@ -843,6 +843,196 @@ FRR
 Page - 3 of 3
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper 1ef46948c2cb
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/EARTHQUAKE ENGINEERING/EARTHQUAKE ENGINEERING B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 09/05/2016
+- Text: ocr (4 pages), mean OCR confidence 76.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+™
+
+Programme: B.Tech (Civil) Year: IV Semester: VII
+
+Batch: 2014-15
+Subject: Earthquake Engineering Marks: 60
+
+Date: 09/05/2016 Durations: 3 hrs.
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER
+
+Academic Year: 2015-16
+
+Time: 10.00
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary and state it clearly
+
+Q.la
+b
+
+Cc
+
+Q2a
+
+Q3.
+
+Determine the natural frequency of the structures shown in figure 1. 6
+Explain dynamic load. How is it different from static load? 2
+What is an earthquake? Explain various causes of earthquakes. 4
+
+A machine weighing 2500 N is mounted on a supporting system consisting of four 4
+springs and four dampers. The vertical deflection of the supporting system under the
+weight of the machine is measured as 20 mm. The dampers are designed to reduce the
+amplitude of vertical vibration to one-eighth of the initial amplitude after two complete
+cycles of free vibrations. Determine the un-damped natural frequency, damping ratio
+and damped natural frequency. _
+
+A single storey frame with rigid girder as shown in figure 2 is to be designed for §
+harmonic ground motion with amplitude of 0.5g and frequency 20 rad/sec. Determine
+
+the design value of lateral deformation and bending moments in the columns. If the
+columns of the frame are hinged at base, determine the design values of lateral
+deformation and bending moments in columns. Comment on the influence of base
+fixity on the design deformation and bending moments in the column. Assume €=5%.
+Determine the natural frequencies and mode shapes of a three storied structure with 12
+following properties:
+
+Storey no. Mass in tones Stiffness in kKN/m
+1 30 50000
+2 30 40000
+3 20 30000
+
+14
+--- page 2 ---
+as ie
+
+ee om "ey.
+Q.4 a Explain the structure of an earth and how the local magnitude of earthquake is 3
+
+measured.
+: b A three. storey frame with free vibration characteristics as given below is subjected toa 9
+"a ae grotind motion defined by Us = Ugo sin Gt where tigo = 0.2g and ® = 25 rad/sec. Calculate
+~ 7" maximum displacements of each storey. Assume damping ratio E=5%.
+Storey Mass o Mode shapes i
+No (Tons) rad/sec Oi Dip 03
+1 20 15.73 0.399 0.747 1.000
+2 20 49.85 1.000 0.727 -0.471
+3 20 77.82 -0.908 1.000 -0.192
+
+Q.5a Whatis response spectrums? Explain the respovise spectrum ciaracterisucs, 3
+
+b Using response spectrum method, calculate the seismic force on each floor of the 9
+frame, whose free vibration characteristics are as given below. Use the following
+additional data: Z=0.24, I =1.5, R=3.0 and & = 5%. Assume foundation strata as soft
+and use response spectrum given in figure 3. a
+
+Storey Mass o Mode shapes
+No (Tons) rad/sec Dj; Dr 03
+1 36 4.92 0.336 0.759 1.000
+2 36 13.45 | -2.460 -0.804 1.000
+3 36 18.7 1.580 -1.157 2.580
+Q.6a Explain the different types of seismic waves and their characteristics. 3
+
+b A two storey frame has the following free vibration characteristics. T’ he frame is tobe 9
+designed for the ground motion characterized by the design spectrum given in the
+figure 4. Calculate the design values of lateral deformation of floors.
+
+Storey Mass 0) Mode shapes
+No (Tons) rad/sec Di Dp
+1 20 14.58 1.000 1.481
+[2 15 [38.07 1.000 | -0.822
+
+Q.7a What is ductility of a structure? Explain the importance of ductility in seismic resistant 3
+
+structures.
+b Explain the important provisions of IS 13920 for beams and shear wails. 4
+c Briefly explain the different types of structural systems used in a building structure to 2,
+: resist lateral loads due earthquake.
+
+2/ y
+--- page 3 ---
+mM =lot ta
+
+. +———4 : ;
+
+\ 2 k=200KN)my
+
+F 7 lel,
+Ty) = 4 ~ 2 Am
+jp et t
+I= 0000 cmt <_ aa
+; EI= 40000 kN-m>
+Figure -4
+
+m= 20+
+aia 4 2
+T Er=25000kN-m
+Sro
+SY 7
+7
+Figure - 2
+3.0 + r + + For rocky, or hard soil sites
+Type | (Rock, or Hard Soil 14187 0.00<7<0.10
+c Bo . Type il (Medium Soil) 4 5, men an
+ge 28 ype ll (Medium Soil) oh = | 2.50 0.10<T<0.45
+g 207 \ LS 3
+
+0.00 $7S9.10
+0.10<¢7<0.55
+0.55 STS 4.00
+
+5 15
+
+8 107
+
+For sofi soil sites
+
+2 ost
+1+157, 0.00<S7s0.10
+
+= 00 4 : - Fm 250 0.10 <7<0.67
+L6UT 0.67 T<4.00
+
+“00 O85 10 15 20 25 30 35 40
+
+e Period(s)
+
+Figure — 3
+
+3/4
+--- page 4 ---
+’ DISPLACEMENT RESPONSE SPECTRA
+FOR EL-CENTRO EARTHQUAKE FOR 5% DAMPING PGA = 0-223
+
+NATURAL Tint FERIGDIN SECONDS
+
+Figure — 4
+
+ra
+````
+
 ## 2014-15 · Final-Exam · Sem 8 · paper 7babc9ff4201
 
 - Departments: Civil
@@ -1020,197 +1210,6 @@ NATURAL TIMSPERIG
 TIMBFERIGPD4N SECONDS
 
 Figure — 3
-````
-
-## 2014-15 · Re-Exam · Sem 8 · paper 1ef46948c2cb
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/EARTHQUAKE ENGINEERING/EARTHQUAKE ENGINEERING B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 09/05/2016
-- Text: ocr (4 pages), mean OCR confidence 76.0
-
-````text
-™
-
-Programme: B.Tech (Civil) Year: IV Semester: VII
-
-Batch: 2014-15
-Subject: Earthquake Engineering Marks: 60
-
-Date: 09/05/2016 Durations: 3 hrs.
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER
-
-Academic Year: 2015-16
-
-Time: 10.00
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary and state it clearly
-
-Q.la
-b
-
-Cc
-
-Q2a
-
-Q3.
-
-Determine the natural frequency of the structures shown in figure 1. 6
-Explain dynamic load. How is it different from static load? 2
-What is an earthquake? Explain various causes of earthquakes. 4
-
-A machine weighing 2500 N is mounted on a supporting system consisting of four 4
-springs and four dampers. The vertical deflection of the supporting system under the
-weight of the machine is measured as 20 mm. The dampers are designed to reduce the
-amplitude of vertical vibration to one-eighth of the initial amplitude after two complete
-cycles of free vibrations. Determine the un-damped natural frequency, damping ratio
-and damped natural frequency. _
-
-A single storey frame with rigid girder as shown in figure 2 is to be designed for §
-harmonic ground motion with amplitude of 0.5g and frequency 20 rad/sec. Determine
-
-the design value of lateral deformation and bending moments in the columns. If the
-columns of the frame are hinged at base, determine the design values of lateral
-deformation and bending moments in columns. Comment on the influence of base
-fixity on the design deformation and bending moments in the column. Assume €=5%.
-Determine the natural frequencies and mode shapes of a three storied structure with 12
-following properties:
-
-Storey no. Mass in tones Stiffness in kKN/m
-1 30 50000
-2 30 40000
-3 20 30000
-
-14
---- page 2 ---
-as ie
-
-ee om "ey.
-Q.4 a Explain the structure of an earth and how the local magnitude of earthquake is 3
-
-measured.
-: b A three. storey frame with free vibration characteristics as given below is subjected toa 9
-"a ae grotind motion defined by Us = Ugo sin Gt where tigo = 0.2g and ® = 25 rad/sec. Calculate
-~ 7" maximum displacements of each storey. Assume damping ratio E=5%.
-Storey Mass o Mode shapes i
-No (Tons) rad/sec Oi Dip 03
-1 20 15.73 0.399 0.747 1.000
-2 20 49.85 1.000 0.727 -0.471
-3 20 77.82 -0.908 1.000 -0.192
-
-O45". Whatic Ange onacteies? Evalain the rasnoyr ssanter nhoavrecterictc
-Q.5a Whatis response spectrums? Explain the respovise spectrum ciaracterisucs, 3
-
-b Using response spectrum method, calculate the seismic force on each floor of the 9
-frame, whose free vibration characteristics are as given below. Use the following
-additional data: Z=0.24, I =1.5, R=3.0 and & = 5%. Assume foundation strata as soft
-and use response spectrum given in figure 3. a
-
-Storey Mass o Mode shapes
-No (Tons) rad/sec Dj; Dr 03
-1 36 4.92 0.336 0.759 1.000
-2 36 13.45 | -2.460 -0.804 1.000
-3 36 18.7 1.580 -1.157 2.580
-Q.6a Explain the different types of seismic waves and their characteristics. 3
-
-b A two storey frame has the following free vibration characteristics. T’ he frame is tobe 9
-designed for the ground motion characterized by the design spectrum given in the
-figure 4. Calculate the design values of lateral deformation of floors.
-
-Storey Mass 0) Mode shapes
-No (Tons) rad/sec Di Dp
-1 20 14.58 1.000 1.481
-[2 15 [38.07 1.000 | -0.822
-
-Q.7a What is ductility of a structure? Explain the importance of ductility in seismic resistant 3
-
-structures.
-b Explain the important provisions of IS 13920 for beams and shear wails. 4
-c Briefly explain the different types of structural systems used in a building structure to 2,
-: resist lateral loads due earthquake.
-
-2/ y
---- page 3 ---
-mM =lot ta
-
-. +———4 : ;
-
-\ 2 k=200KN)my
-
-F 7 lel,
-Ty) = 4 ~ 2 Am
-jp et t
-I= 0000 cmt <_ aa
-; EI= 40000 kN-m>
-Figure -4
-
-m= 20+
-aia 4 2
-T Er=25000kN-m
-Sro
-SY 7
-7
-Figure - 2
-3.0 + r + + For rocky, or hard soil sites
-Type | (Rock, or Hard Soil 14187 0.00<7<0.10
-c Bo . Type il (Medium Soil) 4 5, men an
-ge 28 ype ll (Medium Soil) oh = | 2.50 0.10<T<0.45
-= | Va Type Solt Seth . LOOT =: 0.40 S TS 4.00
-g 207 \ LS 3
-
-0.00 $7S9.10
-0.10<¢7<0.55
-0.55 STS 4.00
-
-5 15
-
-8 107
-
-For sofi soil sites
-
-2 ost
-1+157, 0.00<S7s0.10
-
-= 00 4 : - Fm 250 0.10 <7<0.67
-L6UT 0.67 T<4.00
-
-“00 O85 10 15 20 25 30 35 40
-
-e Period(s)
-
-Figure — 3
-
-3/4
---- page 4 ---
-’ DISPLACEMENT RESPONSE SPECTRA
-FOR EL-CENTRO EARTHQUAKE FOR 5% DAMPING PGA = 0-223
-
-NATURAL Tint FERIGDIN SECONDS
-
-Figure — 4
-
-ra
 ````
 
 ## 2014-15 · Re-Exam · Sem 8 · paper fa4d22a94423

@@ -141,6 +141,7 @@ shadow file
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/SYSTEMS ARCHITECURE AND PROGRAMMING/2009-2010(118).pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —
@@ -232,7 +233,6 @@ III) Generation of spot beam
 IV) Spacecraft Antenna’s
 V) Pulsed RADAR & Matched filter in Radar applications.
 
-X: X Xx: Xx: X: X: X:
 ````
 
 ## 2008-09 · Re-Exam · Trim 8 · paper ed0ae85dee5e
@@ -380,6 +380,7 @@ b. Multimedia Networking [10 marks]
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VIII/SYSTEMS ARCHITECURE AND PROGRAMMING/2005-2006(48).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 | SVIKKM’s NMIMS _
@@ -448,7 +449,6 @@ So \
 Q6 A) Explain features of GUI system. (08)
 Q6 B) Explain the following functions. (12)
 
-i) ReadFile ii) HeapSize iii) SetEndOfFile
 Q7 A) What do you mean by virtual keys. Explain messages related to keyboard and Mouse.
 (10)
 Q7 B) Write a short note on virtual memory in windows. (10)

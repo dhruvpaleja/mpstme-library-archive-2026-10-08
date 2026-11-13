@@ -14,8 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Foundation Engineering(702CI0C019)_2025-2026.pdf |
 | 2025-26 | Final + Re-Exam, Final-Exam | Question paper | Sem 5 | B TECH / CIVIL, BTech Civil 7005 | QP_Foundation Engineering(702CI0C019)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Foundation Engineering(702CI0C019)_2025-2026.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / CIVIL | Foundation Engineering, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final + Re-Exam, Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / CIVIL, B.TECH INTEGRATED / CIVIL | Foundation Engineering, Sem-V, Batch 2023-24 Final Batch 2022-23 Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 5 | B TECH / CIVIL | Foundation Engineering, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf |

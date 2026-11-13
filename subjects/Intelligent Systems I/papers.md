@@ -2599,6 +2599,7 @@ It’ s snowing
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/INTELLIGENT SYSTEMS-I/Intelligent Systems-I, 2nd Year, Sem III, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 December 2022
 - Text: ocr (6 pages), mean OCR confidence 86.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -2658,7 +2659,6 @@ Riitnlals Mw lala Mu lulely
 AHA fF pMMwlaliiviels
 t ‘jul c
 
-SITIE{LiL AMD] alMioiniols
 
 VW
 --- page 2 ---
@@ -2746,7 +2746,6 @@ Wee) ;
 e 4Bn
 time
 2 ae e 4S8u
-Ls - e Si Wr U Wa
 CBieasg = oc bleasg —|
 ’ oe | Ba |S Questions before next
 START.
@@ -2830,6 +2829,7 @@ Ye
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/INTELLIGENT SYSTEMS-I/Intelligent Systems-I ,Re-exam 2022-23.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 February 2023
 - Text: ocr (6 pages), mean OCR confidence 88.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / oxlor!2%= 'o'gpam
@@ -2984,7 +2984,6 @@ CO-4; tautology or contradiction
 SO-1; . [04]
 BL-4 i. P—>(PVQ)
 
-ii, (A A 4B)V(B A BA)
 
 U/e
 --- page 5 ---

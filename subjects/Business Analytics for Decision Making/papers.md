@@ -1,10 +1,10 @@
 # Business Analytics for Decision Making: question papers in full
 
-2 unique papers · 2018-19 to 2018-19 · Common (all branches)
+2 unique papers · 2018-19 to 2019-20 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2018-19 · Re-Exam · paper a2d3c951780e
+## 2019-20 · Re-Exam · paper a2d3c951780e
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH

@@ -17,14 +17,6 @@ Also filed as: `Computer Network`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 1 | MCA | Computer Networks 2025-26 Final Batch 2023-24,2024-25 Re Exam.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AIDS 7056 | ANS_Computer Networks(702AI0C007)_2025-2026.docx |
-| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 5, Sem 7 | BTech AI 7012, BTech CS 7055, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, Integrated Computer 7032, MBATech AI 7051 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated IT 7037 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
-| 2025-26 | Final-Exam, Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Computer Networks(703AI0C004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 5 | BTech AIDS 7056, MBATech Computer 7047 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / Computer, MBA TECH / I T | Computer Neworks, Year 2025-2026, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 5, Sem 7 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / CSE DATA SCIENCE, B TECH / CSE DATA SCIENCE (311), B TECH / CSE-CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / I T, B.TECH INTEGRATED / IT, MBA TECH / COMPUTER, MBA TECH / I T | Computer Networks 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | BTech CS 7055, BTech CyberSecurity 7010, BTech IT 7001, Integrated Computer 7032 | QP_Computer Networks(702AI0C023)_2025-2026.pdf |
@@ -34,21 +26,14 @@ Also filed as: `Computer Network`
 | 2025-26 | Final-Exam, Re-Exam | Question paper | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Computer Networks(703AI0C004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 5 | BTech AI 7012, BTech AIDS 7056, BTech CSE DS 7057, BTech EXTC 7006, MBATech AI 7051, MBATech Computer 7047 | QP_Computer Networks(702AI0C023)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech IT 7041 | QP_Computer Networks(702AI0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AI 7012 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AIDS 7056 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AIML 7053 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSE DS 7057 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Computer 7002 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CyberSecurity 7010 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Computer 7032 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated IT 7037 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech AI 7051 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AIDS 7056 | ANS_Computer Networks(702AI0C007)_2025-2026.docx |
+| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 5, Sem 7 | BTech AI 7012, BTech CS 7055, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, Integrated Computer 7032, MBATech AI 7051 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated IT 7037 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam, Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Computer Networks(703AI0C004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 5 | BTech AIDS 7056, MBATech Computer 7047 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / CSBS, B TECH / I T | Computer Networks, Sem-IV, Batch Batch 2022-23, 2023-24 & 2024-25, 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech AI 7012 | QP_Computer Networks(702AI0C007)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech AIDS 7056 | QP_Computer Networks(702AI0C007)_2025-2026.pdf |
@@ -65,17 +50,32 @@ Also filed as: `Computer Network`
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech AI 7051 | QP_Computer Networks(702AI0C007)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech Computer 7047 | QP_Computer Networks(702AI0C023)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech IT 7041 | QP_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AI 7012 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AIDS 7056 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AIML 7053 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSE DS 7057 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Computer 7002 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CyberSecurity 7010 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Computer 7032 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated IT 7037 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech AI 7051 | ANS_Computer Networks(702AI0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Computer Networks(702AI0C023)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE | Computer Networks, Sem-V, Final Exam 2024-25 & Re Exam 2022-23.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3, Sem 5, Sem 7 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / CSEDS-311, B TECH / EXTC, B TECH / I T, B.TECH INTEGRATED / IT, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / Computer, MBA TECH / EXTC | Computer Networks Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Computer Networks(703AI0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4, Sem 6 | B TECH / COMPUTER, B TECH / CSBS | Computer Networks, Sem IV, Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Computer Networks(703AI0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MCA | Computer Networks 2024-25 Final.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Computer Networks(703AI0C004)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Computer Networks(703AI0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3, Sem 5, Sem 7 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, B TECH / EXTC, B TECH / I T, B.TECH INTEGRATED / IT, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / Computer, MBA TECH / EXTC, MBA TECH / I T, MBA TECH / TELECOM EXTC | Computer Networks, Sem-III, Batch 2023-24 & 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | Computer Networks, Sem-V, 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Computer Networks(703AI0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MCA | Computer Networks Batch 2024-25 Re Exam0001.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Computer Networks(703AI0C004)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE | Computer Netowrks, Sem-V, Final Exam 2023-24 & Re Exam 2022-23.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3, Sem 5 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / I T, B.TECH INTEGRATED, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / EXTC | Computer Networks, Sem-III, Batch 2023-24 Final Batch 22-23 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6 | B TECH / CSBS | Computer Networks, Sem-VI, Final Exam 2023-24.pdf |

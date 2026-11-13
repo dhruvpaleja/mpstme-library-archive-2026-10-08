@@ -14,19 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Sustainable Energy Technlologies, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech AI 7012, BTech AIDS 7056, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052 | QP_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
@@ -42,22 +29,35 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Mechanical 7031 | QP_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AIDS 7056 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech AI 7051 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech Computer 7047 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED, MBA TECH | Sustainable Energy Technologies Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech AIDS 7056 | QP_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Computer 7002 | QP_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech AI 7051 | QP_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech Computer 7047 | QP_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech AIDS 7056, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052 | ANS_Sustainable Energy Technologies(702CE0I001)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AIDS 7056 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Computer 7002 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech AI 7051 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech Computer 7047 | ANS_Sustainable Energy Technologies(702CE0I001)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Sustainalble Energy Technologies, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH, MBA TECH | Sustainable Energy Technologies, Sem VI, Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper |  | B.TECH INTEGRATED | Sustainable Energy Technologies Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | BTech AIDS 7056 | QP_Sustainable Energy Technologies(702CE0I001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech AIDS 7056, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052 | ANS_Sustainable Energy Technologies(702CE0I001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Sustainable Energy Technologies, Sem-V, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Sustainable Energy Tech , Final 23-24,Re-exam 22-23.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6, Sem 10 | B TECH, B.TECH INTEGRATED / CIVIL, MBA TECH | Sustainable Energy Technologies, Sem VI, Final Exam 2023-24.pdf |

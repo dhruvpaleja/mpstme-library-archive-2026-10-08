@@ -1,10 +1,10 @@
 # Electromagnetic Field Theory: question papers in full
 
-49 unique papers · 2010-11 to 2022-23 · Electronics and Telecommunication, Electrical, Electronics
+49 unique papers · 2010-11 to 2023-24 · Electronics and Telecommunication, Electrical, Electronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper f74a10c901c1
+## 2023-24 · Final + Re-Exam · Sem 4 · paper f74a10c901c1
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -337,6 +337,108 @@ er = 2.5, ur = 10 find o,f,A,v,n for 1GHz
 10
 ````
 
+## 2019-20 · Re-Exam · Sem 5 · paper 0ddc104d032a
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_05/ELECTROMAGNETIC FIELD THEORY/Electromagnetic Field Theory Batch 2017-18,2018-19 Re Exam.pdf`
+- Printed on paper: exam date: 08 November 2019
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (EXTC) Year: III - Semester: V ~
+
+Academic Year: 2019-20
+Subject: Electromagnetic Field Theory
+
+Date: 08 November 2019 =
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql Attempt any four questions
+a Transform the following vector into Spherical co-ordinate system for point (-2,-3,4) 3.5
+A= 4a, — 2 ay — 44;
+b Derive Poisson and Laplace equations. 8 3.5
+€ Derive the relation between Electric field intensity (E ) and Potential (V). 3.5
+d_ List the Maxwell's equation in point form and Integral form for Static Electromagnetic 3.5
+field.
+
+e Describe about the Stoke’s theorem and write the Maxweli’s fourth equation for the time 3.5
+varying Electromagnetic field.
+
+Q2 a Whatare charge distributions? Derive an expression of electric field intensity due to sheet 7
+charge with surface charge density p, c/m?.
+b Find total electric field intensity E at origin if the following charge distribution are present 7
+in free space
+1. Point charge 12nc at point (2, 0,6)
+2. A uniform line charge 3nc/m at x=-2, y=3
+3. Uniform surface charge of 0.2 nc/m? at x=2
+--- page 2 ---
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+If D = 2xy a +x? ay C/m?. Evaluate both sides of Divergence theorem for region 7
+defined by 0 <x <1,0 <y $2,0 <z S3.
+
+Explain Gauss’s law and use the Gauss’s law for deriving the Electric Flux Density Ddue 7
+to point charge and line charge distributions by considering appropriate Gaussian
+Surfaces.
+
+Derive an expression of energy density in electrostatic fields. 7
+The Electric Field Intensity is given by E = 40xya, + 20x?a, + 2a, V/m. Then Find 7
+
+1) Veg if P(1,-1,0) and Q(2,1,3) 2) Vp if zero potential is at Q.
+
+Derive the expression for Capacitance of a Co-axial capacitor of inner radius a and outer 4
+radius b (b>a). Assume the length of the capacitor L.
+
+Derive the continuity equation of current. 3
+State and Explain Biot-Savart’s Law and determine magnetic field intensity at any point 7
+due to a straight filamentary conductor.
+
+Derive boundary conditions for the electric fields for the Dielectric -Dielectric boundary. 7
+What is Wave Impedance or Intrinsic Impedance? Calculate wave impedance for free space 7
+medium.
+
+Attempt any two questions
+
+Evaluate both sides of stocks theorem for field H = 6xy G,— 6 yay A/m and 7
+rectangular path around the region 2< x < 5,-1< y <1, z=0. Let the direction of current
+
+is +@,.
+
+Beplain the Faraday’s law and derive the expression of Displacement current density. 7
+Define Poynting vector. Obtain the integral form of Poynting theorem and explain each 7
+of the terms
+
+2)|.Page
+V-
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 4 · paper 339ccae8392b
 
 - Departments: Electronics and Telecommunication
@@ -566,106 +668,133 @@ Page 2 of 2
 14
 ````
 
-## 2018-19 · Re-Exam · Sem 5 · paper 0ddc104d032a
+## 2018-19 · Re-Exam · Sem 4 · paper 3a5316d3e796
 
 - Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_05/ELECTROMAGNETIC FIELD THEORY/Electromagnetic Field Theory Batch 2017-18,2018-19 Re Exam.pdf`
-- Printed on paper: exam date: 08 November 2019
-- Text: ocr (2 pages), mean OCR confidence 90.7
+- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTROMEGNATIC FIELD THEORY B TECH (EXTC), BATCH _16-17-18-19_RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: exam date: 14 June 2019
+- Text: ocr (2 pages), mean OCR confidence 88.2
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech Integrated (EXTC) Year: III - Semester: V ~
+Programme: B. Tech/ MBA Tech (EXTC) - Year: IT - Semester: IV -
 
-Academic Year: 2019-20
-Subject: Electromagnetic Field Theory
+Academic Year: 2018-2019 2
+Subject: Electromagnetic Field Theory - Marks:
+Date: 14 June 2019 - , Time:
 
-Date: 08 November 2019 =
+Re- Examination (2016- 17 /2017-18/2018- 19)
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-1) Question No. _1___ is compulsory.
+1) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any__4 __ questions.
+2) Out of remaining questions, attempt any four questions.
 
-3) Inall___5_ questions to be attempted.
+3) In all 5 Questions to be attempted.
 
-4) All questions carry equal marks.
-
+4) All questions carry equal marks. 4
 5) Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+6) Figures on the right hand side indicate full marks.
 
-Ql Attempt any four questions
-a Transform the following vector into Spherical co-ordinate system for point (-2,-3,4) 3.5
-A= 4a, — 2 ay — 44;
-b Derive Poisson and Laplace equations. 8 3.5
-€ Derive the relation between Electric field intensity (E ) and Potential (V). 3.5
-d_ List the Maxwell's equation in point form and Integral form for Static Electromagnetic 3.5
-field.
+7) Assume ‘suitable data if necessary.
 
-e Describe about the Stoke’s theorem and write the Maxweli’s fourth equation for the time 3.5
-varying Electromagnetic field.
+Q1 Solve
+a. Express the uniform vector field, G = 8sing ae in Rectangular & Cylindrical form.
+At P3,2,-1)
+b. Prove that E=— VV. .
+c. Derive Poisson’s and Laplace equation. Let V=2xy’z? and ¢= &. Given point
 
-Q2 a Whatare charge distributions? Derive an expression of electric field intensity due to sheet 7
-charge with surface charge density p, c/m?.
-b Find total electric field intensity E at origin if the following charge distribution are present 7
-in free space
-1. Point charge 12nc at point (2, 0,6)
-2. A uniform line charge 3nc/m at x=-2, y=3
-3. Uniform surface charge of 0.2 nc/m? at x=2
+P(1,2,-1)find i) Vii) E
+
+Q2. Solve
+a. A circle centered at origin with radius 2m in xy plane. Find unit vector using co-
+ordiiate system concepts in rectangular system, for a tangent at (V3, 1, 0) in
+increasing y — direction.
+b. Write physical significance of Divergence & determine Divergence of the
+following vector field at given point A=2rcosOcosq ar + V¥ ag at P (1, 1/6, 7/3).
+
+Q3. Solve
+
+a. Derive the expression for Electric field intensity at a point due to an infinite line
+charge along the z-axis. Let a point charge Q1=25 nC be located at P1 (4, —2, 7)
+and a charge Q2 = 60 nC be at P2 (-3, 4, —2). Find E at P3 (1, 2, 3) ifs = 0,
+
+b. Derive the expression for Electric Flux Density at a point due to an infinite sheet
+charge on z = 0 plane. The cylindrical surface p = 8cm contains the surface charge
+density, ps = 5e~?°l2! nC/m?. How much flux leaves the surface p = 8em, lem < z
+<5cm, 30° < » < 90° if total charge is 0.2513”C?
+
+14
+
+14
+
+14
 --- page 2 ---
-Q3
+Q4.
 
-Q4
+Q5.
 
-Q5
+Q6.
 
-Q6
+Q7.
 
-Q7
+Solve
 
-If D = 2xy a +x? ay C/m?. Evaluate both sides of Divergence theorem for region 7
-defined by 0 <x <1,0 <y $2,0 <z S3.
+a. Let E = 400 ax — 300 ay +500 az V/m alongside a point (6, 2, —3). Find
+incremental work done in moving a charge of 4C by a distance of 1mm along
+following directions. i) ax + ay + az ii.) -2ax + 3ay—az
 
-Explain Gauss’s law and use the Gauss’s law for deriving the Electric Flux Density Ddue 7
-to point charge and line charge distributions by considering appropriate Gaussian
-Surfaces.
+b. Derive expression for Potential difference due to an infinite line Charge. A line
+along y=1, z= 1 carries a uniform line charge of 2nC/m. Find potential at
 
-Derive an expression of energy density in electrostatic fields. 7
-The Electric Field Intensity is given by E = 40xya, + 20x?a, + 2a, V/m. Then Find 7
+A(5,0,1) if V = 0 at (0,0,0)
 
-1) Veg if P(1,-1,0) and Q(2,1,3) 2) Vp if zero potential is at Q.
+Solve
+a. List properties of Di-electrics. Let current density in cylindrical system be
+J] = 2pcos?@ ap — psin2@ ag A/m’ within the region 2.1< p <2.5, 0<@
+<0.lrad, 6<z<6.1 find total current passing through i.) p= 2.2, 0<@ <0.1rad, 6< z
+<6.1 in ap direction. ii.) find VeJ at P (p= 2.4, 9 = 0.08rad, z = 6.05)
+b. Show expression for composite parallel plate capacitor with Di-electric normal and
+parallel to conducting surface configuration.
+am
+amz
+— a | a mm
+}/—.1.2m ——4 08m
+The width of region containing erl is 1.2m as shown. Find erl if sr2 = 2.5 and Ctot
+= 60nF °
+Solve ;
+a. State and verify Ampere’s circuital Law and state Stroke’s theorem.
+b. Express tangential and normal components of E and D for boundary condition
 
-Derive the expression for Capacitance of a Co-axial capacitor of inner radius a and outer 4
-radius b (b>a). Assume the length of the capacitor L.
+between two dielectrics.
 
-Derive the continuity equation of current. 3
-State and Explain Biot-Savart’s Law and determine magnetic field intensity at any point 7
-due to a straight filamentary conductor.
+Solve any two
 
-Derive boundary conditions for the electric fields for the Dielectric -Dielectric boundary. 7
-What is Wave Impedance or Intrinsic Impedance? Calculate wave impedance for free space 7
-medium.
+a. Polarization of Waves.
+b. Explain Poyenting Theorem.
+c. Derive Uniqueness theorem for Laplace Equation. It is known that V = XY is
 
-Attempt any two questions
+solution of Laplace equation, where X*is function of x and Y is function of y alone.
+Determine whether following functions is solution of Laplace equation.
+i) Va=X43Y ii) Vb =2XY+y? — x2
 
-Evaluate both sides of stocks theorem for field H = 6xy G,— 6 yay A/m and 7
-rectangular path around the region 2< x < 5,-1< y <1, z=0. Let the direction of current
+2/2
 
-is +@,.
+14
 
-Beplain the Faraday’s law and derive the expression of Displacement current density. 7
-Define Poynting vector. Obtain the integral form of Poynting theorem and explain each 7
-of the terms
+14
 
-2)|.Page
-V-
+14
+
+10
+
+14
 ````
 
 ## 2018-19 · Re-Exam · Sem 5 · paper bdf3ee0d653f
@@ -1363,6 +1492,7 @@ B. Explain the concept of scalar magnetic potential _ [7]
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTROMAGNETIC_FIELD_THEORY_BATCH_16-17_17-18_RE_EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 29 June 2018
 - Text: ocr (2 pages), mean OCR confidence 88.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1424,7 +1554,6 @@ Q.5 a. Write properties of perfect conductors and dielectric materials. 07
 
 b. Consider V = x*yz +20 y* volts in free space. Find i) Potential at 07
 
-P(1,2,3) ii)EatP   iii)dV/dNatP iv) anatP.
 
 Q.6 a. State and Explain Amperes circuit current law in detail. 07
 
@@ -2757,6 +2886,115 @@ explain each term in equation.
 06
 ````
 
+## 2015-16 · Re-Exam · Sem 4 · paper 2a0699527453
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTROMAGNETIC FIELD THEORY B TECH (EXTC), BATCH 14-15 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 10/05/2016
+- Text: ocr (3 pages), mean OCR confidence 86.3
+
+````text
+CoN
+7 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (EXTC) Year: II Semester: IV
+
+Academic Year: 2015-16
+Batch: 2014-15
+
+Subject: Electromagnetic Field Theory
+
+Time: 10.0
+Date: 10/05/2016 Durations: 3
+Re-Examination
+
+NB: -
+1. Question No. 1 is compulsory
+2. Out of remaining questions, attempt any 4 questions
+3. In all 5 questions to be attempted
+4. Answer to each new question to be started on a fresh page
+5. Figures on the right hand side indicate full marks.
+co 6. Assume suitable data, if necessary
+Q1
+4) Given points A (2,3,-1) and B(4,25°,1200), Find 4
+i) Spherical co ordinates of A.
+if) Cartesian co ordinates of B.
+5) State and explain Stoke’s theorem in detail. 4
+c) State and explain Coulomb's Law. 7 4
+Q.2
+[> a) Derive an expression of electric field intensity due to line charge with infinite line 6
+charge density p, c/m .
+b) Evaluate both sides of divergence theorem for field 6
+_ % ¢
+D = 6psin (5) a, +1.5p cos (5) ag C/m?
+And the region bounded by 0 <p <5, 0<@<[],0<z<5
+il
+Q3
+a) State and Explain Biot-Savart’s Law and Determine magnetic field intensity at any point 6
+
+due to a straight filamentary conductor.
+
+V3
+--- page 2 ---
+b) Find work done in moving a 5uC charge from origin to (2,-/,4) through a field
+E=2xyz atx? Z a+ xy a, v/m along a paths
+
+omy Straight ‘line segments (0,0,0) to (2,0,0) to (2,-1,0) to (2,-1,4)
+
+iy Strai ght 1 ire R= -2y, 2=2x
+
+® iii) curve x= 293, z= 4y°
+* t % * “
+
+» % so 8
+ee Le
+Q.4 ; "acy wa® ; ;
+a) Derive an expression of energy density in electrostatic fields. 6
+b 100
+) Given the potential field in cylindrical co-ordinates V = 22e4 p cos@ volts a
+and point P (3, 60°, 25°) find values at P for:
+1V 2)E 3)D 4) py in Free Space 5) a, in Free Space
+Q5
+a) Define Poynting vector. Obtain the integral form of Poynting theorem and explain each 6
+of the terms
+b) Derive the equation for Capacitance for parallel plate capacitor. 6
+Q.6
+a) What is Wave Impedance or Intrinsic Impedance? Calculate wave impedance for free 6
+
+space medium.
+b) ; 6
+A parallel plate capacitor shown in the Figure 1 contains three |
+dielectric layers as : |
+
+=Ry = 3 d.= 0.4mm
+
+=Ro ~ 2 dz = 0.3 mm
+
+©R, ~ T @,=0.2 mm
+~f S = 20 em”
+
+pe: Fig. 1
+
+Find (a) Capacitance C, (6) the percentage of total stored energy
+located in each of the three regions.
+
+22) 3
+--- page 3 ---
+Q.7
+a)
+b)
+
+Attempt any two
+State Uniqueness Theorem and give its proof.
+Derive EM wave equation for free space medium.
+
+Derive Laplace and Poissons equation.
+
+3) 2,
+````
+
 ## 2015-16 · Re-Exam · Sem 4 · paper a2c797368d96
 
 - Departments: Electronics and Telecommunication
@@ -2974,6 +3212,89 @@ point due toa straight filamentary conductor.
 x] 2
 ````
 
+## 2014-15 · Final-Exam · Sem 4 · paper 071ffa5c1c6f
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTROMAGNETIC FIELD THEORY B TECH (EXTC), FINAL EXAM.pdf`
+- Printed on paper: exam date: 11/05/2015
+- Text: ocr (2 pages), mean OCR confidence 80.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: II Semester: IV
+Academic Year: 2014-2015 —_
+Subject: Electromagnetic Field Theory Vas
+Marks: geo
+Date: 11/05/2015 Time : if js 8.00 :pitto’ Ro
+Durationg: 3 (3 (tira) AX
+hp
+Final-Examination re sane
+
+N.B. (1) Answer to each new question to be started on fresh = —
+(2) Assume suitable data if required.
+(3) Q.1 is compulsory. Solve any Four from Q.2 to Q.7
+Q.1 a. Derive Poisson and Laplace equations. 04
+b. — Given points A (2,3,-1) and B(4,25°,120°). Find 04
+i) Spherical co ordinates of A.
+ii) (ii)Cartesian co ordinates of B.
+c. State and Explain Coulombs law. 04
+
+Q.2 a. Find work done in moving a -10C charge from origin to (1,2,3) 06
+through a field
+E=6x"y a,+2x°a,- + 6z a, yv/m along a paths
+i) straight line segments (0,0,0) to (1,0,0) to (1,2,0) to (1,2,3)
+ii) Straight line y= 2x, z=3x
+
+iii) curve y= 2x, z= 3x"
+
+b. Derive an expression for Electric Field Intensity for infinite line 06
+charge.
+Q.3. a. Prove Divergence Theorem using point form of Gauss’s law. 06
+b. Given the potential field in cylindrical co-ordinates 06
+ve — 7? cos® — vons
+
+and ob ~ (3, 60°, 25¢) find values at P for:
+1) V 2)E 3)D 4); inFree Space 5) &, in Free Space
+
+4/2
+--- page 2 ---
+Q.4 a. State Uniqueness Theorem and give its proof. 06
+
+b. The width of region containing =*, is 1.2 mas shown in figure. 06
+P Find €r,if =r, = 2.5 and total capacitance is 60 pf.
+roe ra gt
+
+Y,
+S
+/ conducrng, plane 7
+
+2m] Ez; | Era _
+
+2m
+
+Q.5 a. Derive the expressions for electric field due to an electric dipole. 06
+
+b. Evaluate both sides of the Stoke’s Theorem, if the rectangular path 06
+around the region -1 4 a< 1,-2 <y #2Z= O.Let the positive
+direction of ds be a, and
+
+
+Q.6 a. State and explain Maxwell's equation in point form and Integral form 08
+for time varying field.
+
+b. | Write properties of Dielectric material. 04
+
+Q.7 a. Explain Poynting theorem. Obtain the integral form of Poynting 06
+theorem and explain each term in equation.
+
+b. Explain boundary conditions (tangential and normal) components 06
+between two dielectrics.
+````
+
 ## 2014-15 · Final-Exam · Sem 4 · paper c736728204c4
 
 - Departments: Electronics and Telecommunication
@@ -3101,113 +3422,329 @@ of the terms
 Explain Uniqueness Theorem
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper 2a0699527453
+## 2014-15 · Re-Exam · Sem 4 · paper 1a4e96d4bbb8
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTROMAGNETIC FIELD THEORY B TECH (EXTC), BATCH 14-15 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 10/05/2016
-- Text: ocr (3 pages), mean OCR confidence 86.3
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTROMAGNETIC FIELD THEORY B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 11/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.2
 
 ````text
-CoN
-7 SVKM’s NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (EXTC) Year: II Semester: IV
+Programme: B. Tech (EXTC) Year: Il Semester: IV
 
-Academic Year: 2015-16
-Batch: 2014-15
+Batch: 2013-14
 
-Subject: Electromagnetic Field Theory
+Academic Year: 2014-2015 Am
+Subject: Electromagnetic Field Theory W er
+Date: 11/05/2015
 
-Time: 10.0
-Date: 10/05/2016 Durations: 3
 Re-Examination
 
-NB: -
-1. Question No. 1 is compulsory
-2. Out of remaining questions, attempt any 4 questions
-3. In all 5 questions to be attempted
-4. Answer to each new question to be started on a fresh page
-5. Figures on the right hand side indicate full marks.
-co 6. Assume suitable data, if necessary
-Q1
-4) Given points A (2,3,-1) and B(4,25°,1200), Find 4
-i) Spherical co ordinates of A.
-if) Cartesian co ordinates of B.
-5) State and explain Stoke’s theorem in detail. 4
-c) State and explain Coulomb's Law. 7 4
-Q.2
-[> a) Derive an expression of electric field intensity due to line charge with infinite line 6
-charge density p, c/m .
-b) Evaluate both sides of divergence theorem for field 6
-_ % ¢
-D = 6psin (5) a, +1.5p cos (5) ag C/m?
-And the region bounded by 0 <p <5, 0<@<[],0<z<5
-il
-Q3
-a) State and Explain Biot-Savart’s Law and Determine magnetic field intensity at any point 6
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+NB.
+1. Question no 1 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. Inall FIVE questions to be attempted.
+4, All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+Figure on right indicate full marks.
 
+QA Solve any Five 20
+a. Explain Electric Field Intensity.
+b. Convert P(2,5z/3,-2) into Cartesian form.
+c. Explain Gradient.
+d. State Biot Savarts Law.
+e. What is divergence and curl?
+f. Explain Scalar Potential
+Q.2 a. State and explain stroke’s theorem in detail. - 10
+b. Four light charges of 30 pc each are located at four corners of a square. the diagonal of which 10
+measures 8mts.Find the force on 150uc charge located 3mts above the centre of the square.
+Q.3 a. Let D=4xyax+2(x*+z?)ay+4yzaz C/m?.Find the surface integrals to find total charge 12
+enclosed in the rectangular parallelepiped 0<x<2m, 0<y<3m, 0<z<5m
+b. Derive wave equations for conducting medium. 08
+10
+
+Q.4 a. List Maxwéll’s equations in integral and point form for Time varying and Static field.
+b. Two point charges Qi and Q: are located at (1,2,0) and (2,0,0) respectively. Find the relation 10
+between Q: and Q: such that total force on a test charge at the point P(-1,1,0) will have
+
+i) No x component ii) No y component.
+
+Len
+A
+--- page 2 ---
+Q.5 a
+
+Q.7
+
+Derive Poisson and Laplace equations
+Prove Divergence Theorem using point form of Gauss's law.
+Find the flux density at a point A(6,4,-5) caused by
+i.A point charge of 20m¢e at the origin
+ii.A uniform line charge p; =20 uc /m on z axis.
+iii.A uniform charge density ps = 60j1c/m2 at a plane x=8.
+Derive expression for Electric Field Intensity due to infinite line charge.
+Solve any two
+Explain and derive expression for Poynting theorem..
+Explain different polarization of waves
+
+Explain boundary condition (tangential and normal components) between conductor
+
+and free space.
+
+10
+10
+10
+
+10
+20
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper cc8ad61db598
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTRONIC FIELD THEORY B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 01/07/2015
+- Text: ocr (2 pages), mean OCR confidence 87.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: II Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015 a PRS
+Subject: Electromagnetic Field Theory / ia Ne
+Marks: | 7 = ds ;
+Date: 01/07/2015 Time: \Z0 pm to 5.00 pig /
+Durations: *8'{hrs) Ae
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printea On tne quesuor paper dfiu on wie
+cover of the Answer Book, which is provided for their use.
+
+NB.
+
+Ql
+a)
+
+b)
+
+c)
+d)
+
+Q.2
+a)
+
+b)
+
+Q3
+a)
+
+1. Question no 1 is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. Inall FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figure on right indicate full marks.
+
+Given points A (2,3,-1) and B(4,25°,120°). Find
+i) Spherical co ordinates of A.
+ii) Cartesian co ordinates of B.
+
+List Maxwell's equation in point form and Integral form for time varying field.
+
+State and explain Coulomb’s Law.
+
+Write properties of Dielectric material
+
+State and Explain Biot-Savart’s Law and Determine magnetic field intensity at any. point
 due to a straight filamentary conductor.
 
-V3
+Derive an expression of electric field intensity due to line charge with infinite line
+
+charge density p, c/m
+
+Prove divergence theorem using point form of Gauss law.
+
+4/2
+
+10
+
+10
+
+10
 --- page 2 ---
-b) Find work done in moving a 5uC charge from origin to (2,-/,4) through a field
-E=2xyz atx? Z a+ xy a, v/m along a paths
+b)
 
-omy Straight ‘line segments (0,0,0) to (2,0,0) to (2,-1,0) to (2,-1,4)
-
-iy Strai ght 1 ire R= -2y, 2=2x
-
-® iii) curve x= 293, z= 4y°
-* t % * “
-
-» % so 8
-ee Le
-Q.4 ; "acy wa® ; ;
-a) Derive an expression of energy density in electrostatic fields. 6
-b 100
-) Given the potential field in cylindrical co-ordinates V = 22e4 p cos@ volts a
-and point P (3, 60°, 25°) find values at P for:
-1V 2)E 3)D 4) py in Free Space 5) a, in Free Space
-Q5
-a) Define Poynting vector. Obtain the integral form of Poynting theorem and explain each 6
-of the terms
-b) Derive the equation for Capacitance for parallel plate capacitor. 6
-Q.6
-a) What is Wave Impedance or Intrinsic Impedance? Calculate wave impedance for free 6
-
-space medium.
-b) ; 6
-A parallel plate capacitor shown in the Figure 1 contains three |
-dielectric layers as : |
-
-=Ry = 3 d.= 0.4mm
-
-=Ro ~ 2 dz = 0.3 mm
-
-©R, ~ T @,=0.2 mm
-~f S = 20 em”
-
-pe: Fig. 1
-
-Find (a) Capacitance C, (6) the percentage of total stored energy
-located in each of the three regions.
-
-22) 3
---- page 3 ---
-Q.7
+Q.4
 a)
 b)
 
-Attempt any two
-State Uniqueness Theorem and give its proof.
+Q5
+a)
+
+b)
+
+Q.6
+a)
+
+b)
+
+E=2xyz aytx2z ayt+ xy az v/m along a paths
+i) straight line segments (0,0,0) to (2,0,0) to (2,-1,0) to (2,-1,4)
+ii) Straight line x= -2y, z=2x
+
+iii) curve x= -2y3, z= 4y?
+
+Derive an expression of energy density in electrostatic fields.
+
+Three infinite sheet charges are located in free space as follows. 6 nc/m?at z=1,
+3 nc/m?at z=4 and -8 nc/m2at z=-4. Find E at
+
+1) A(2,5,-5) (3) C (-1,-5,2)
+
+2) B (4.2,-3) (4) D (-2,4,5)
+
+Define Poynting vector. Obtain the integral form of Poynting theorem and explain each
+of the terms
+
+Derive the equation for Capacitance for parallel plate capacitor.
+
+What is Wave Impedance or Intrinsic Impedance? Calculate wave impedance for free
+
+space medium.
+
+The width of region containing € 7, is 1.2 mas shown in figure.
+Find €r,if € 7) = 2.5 and total capacitance is 60 pf.
+
+iy, y =
+/
+
+XY,
+condwel’ Ag.
+
+a
+
+zm I ey ' Exo
+
+Q7
+a)
+b)
+
+ke 2m
+
+Attempt any two(10 marks for each)
+Derive Laplace and Poissons equation.
 Derive EM wave equation for free space medium.
 
-Derive Laplace and Poissons equation.
+State Uniaueness Theorem and give its vroof.
 
-3) 2,
+2/2
+
+10
+
+10
+10
+
+10
+
+10
+
+10
+
+10
+
+20
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper 9b2be1971678
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONIC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/V SEMESTER/ELECTRO MAGNETIC FIELD THEORY/ELECTRO MAGNETIC FIELD THEORY B TECH (ELECTRONICS), RE EXAM.pdf`
+- Printed on paper: exam date: 29/11/2014
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Electronics) Year: Ill Semester: V
+Batch: 2013-2014
+Academic Year: 2014-2015
+
+Subject: Electro Magnetic Field Theory
+
+Marks:
+Date: 29/11/2014 Time:
+
+Durations:
+
+Re-Examination
+Instructions:-
+
+1) Question no. 1 is Compulsory.
+
+2) Out of Remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data, if necessary.
+
+Q.No. 1)
+a. Ifa vector A is 4 ax + 2 ay + az Express it in cylindrical coordinate
+system. (5)
+b. If B= 4xy’ ax +2y°dy + xyz az. Find divergence of B at P(1,2,3) (5)
+c. A sheet of charge lies in y-z plane at x=0 and has uniform surface charge
+density of 5 pc/m’ . Find electric field at point (-5,0,0) on x — axis. (5)
+d. Derived the E-M WAVE equations in free space (5)
+Q.No. 2)
+a. Derive electric field intensity at any point due to infinite line charge (10)
+b. Find electric flux density at point A(6,4,-5) cause by (10)
+
+I. A point charge of 20 mC at origin
+ll. A uniform line charge of 20 uC/m on Z axis.
+
+Q.No. 3)
+a. Explain] Maxwell’s equations in point and integral form for static field (10)
+b. Given E=10 sin(wt-Bz)ay v/m in free space. Determine D, B and H. (10)
+Q.No. 4)
+a. Define and Derive Poynting theorem. Explain significance of each term. (10)
+b. Explain in detail polarization of waves. (10)
+
+Vo.
+--- page 2 ---
+Q.No. 5)
+
+a. Write Laplace and Poisson’s equation and prove Uniqueness theorem. (10)
+b. If potential function is V=x° 'y-xy’+3z. Find potential gradient and electric
+field intensity at point P(-1,2,-3) (10)
+Q.No.6)
+a. Derive capacitance of parallel plate and coaxial cable capacitor. (10)
+
+b. Given that D=(10/3) ax C/m’ . Evaluate both sides of divergence theorem for
+a volume of cube 2m on edge centered at origin and with edges parallel to
+
+the axis. (10)
+Q.No. 7)
+a. Find the depth of penetration of an EM wave in copper at 60 Hz and 100 MHz
+for copper o=5.8xl 0’ »ur=l,er=1. (10)
+b. What is uniform plane wave? Explain E-M wave propagation in free space.
+Assume wave propagating in x-direction. (10)
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper e9dcce049a16
@@ -3304,6 +3841,78 @@ b. Explain Uniqueness theorem.
 2/2
 
 ) 2.
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 6bc56f9ff339
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ELECTROMAGNETIC FIELD THEORY/Electromagnetic Field Theory Batch (2013-14) Re Exam.pdf`
+- Printed on paper: exam date: 30/06/2015
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: II Semester: IV
+Academic Year: 2014-15
+
+Batch: 2013-14
+
+Subject : Electromagnetic Field Theory Marks: ae
+Date : 30/06/2015 el cages £0 I. 00 pg
+ate : Durations: ne
+Re-Examination Calas i
+NB:
+4. Question No. 1 is compulsory
+2. Out of remaining questions, attempt any 4 questions
+3. In all 5 questions to be attempted
+4. Answer to each new question to be started on a fresh page
+5. Figures on the right hand side indicate full marks.
+Assume suitable data, if necessary.
+Q.1a) Derive Poisson and Laplace equations. [5]
+
+b) Given points A (2,3,-1) and B(4,25°,120°). Find Spherical co ordinates of A, Cartesian
+
+co ordinates of B. [5]
+
+c) State and explain Coulombs law. [5]
+d. Write properties of perfect conductors. [5]
+
+Q.2a) State and explain stroke’s theorem in brief. [5]
+
+b) Derive an expression for Electric Field Intensity for infinite line charge. [10]
+c) Explain Biot-Savarts Law [5]
+Q.3a) Prove Divergence Theorem using point form of Gauss’s law. [16]
+
+b) Given the potential field in cylindrical co-ordinates [10]
+
+V= volts
+
+and pala P (3, 60°, 2) find values 1) V at point P 2) E at point P
+
+Q.4a) Derive the expression for continuity of current equation in integral and point form for time
+
+[10]
+1/2.
+
+varying field.
+--- page 2 ---
+b) Derive an expression of energy density in electrostatic fields. [10]
+
+Q.5a) Derive the expressions for electric field due to an electric dipole. [10]
+» b) Find the amount of energy required to move a 4C charge from B(1,0,0) to A(0,2,0) in the field
+“ E = 5xax +5yayV/M along the straight line path y=2-2x, z=0. [10]
+Q.6a) State and explain Maxwell's equation in point form and Integral form for time varying
+field. {12]
+b) Write properties of Dielectric material. [8]
+Q.7a) Explain Poynting theorem. Obtain the integral form of pointing theorem and explain each
+
+term in equation. [10]
+
+b) Explain and derive boundary conditions, tangetial and normal components between two
+dielectrics. ‘ [10]
 ````
 
 ## 2013-14 · Final-Exam · Sem 4 · paper 640f5bfaddf6
@@ -3664,89 +4273,6 @@ c. What is current density of conductor? Explain how J = ~pe be E
 x
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 1a4e96d4bbb8
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTROMAGNETIC FIELD THEORY B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 11/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: Il Semester: IV
-
-Batch: 2013-14
-
-Academic Year: 2014-2015 Am
-Subject: Electromagnetic Field Theory W er
-Date: 11/05/2015
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-NB.
-1. Question no 1 is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. Inall FIVE questions to be attempted.
-4, All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-Figure on right indicate full marks.
-
-QA Solve any Five 20
-a. Explain Electric Field Intensity.
-b. Convert P(2,5z/3,-2) into Cartesian form.
-c. Explain Gradient.
-d. State Biot Savarts Law.
-e. What is divergence and curl?
-f. Explain Scalar Potential
-Q.2 a. State and explain stroke’s theorem in detail. - 10
-b. Four light charges of 30 pc each are located at four corners of a square. the diagonal of which 10
-measures 8mts.Find the force on 150uc charge located 3mts above the centre of the square.
-Q.3 a. Let D=4xyax+2(x*+z?)ay+4yzaz C/m?.Find the surface integrals to find total charge 12
-enclosed in the rectangular parallelepiped 0<x<2m, 0<y<3m, 0<z<5m
-b. Derive wave equations for conducting medium. 08
-10
-
-Q.4 a. List Maxwéll’s equations in integral and point form for Time varying and Static field.
-b. Two point charges Qi and Q: are located at (1,2,0) and (2,0,0) respectively. Find the relation 10
-between Q: and Q: such that total force on a test charge at the point P(-1,1,0) will have
-
-i) No x component ii) No y component.
-
-Len
-A
---- page 2 ---
-Q.5 a
-
-Q.7
-
-Derive Poisson and Laplace equations
-Prove Divergence Theorem using point form of Gauss's law.
-Find the flux density at a point A(6,4,-5) caused by
-i.A point charge of 20m¢e at the origin
-ii.A uniform line charge p; =20 uc /m on z axis.
-iii.A uniform charge density ps = 60j1c/m2 at a plane x=8.
-Derive expression for Electric Field Intensity due to infinite line charge.
-Solve any two
-Explain and derive expression for Poynting theorem..
-Explain different polarization of waves
-
-Explain boundary condition (tangential and normal components) between conductor
-
-and free space.
-
-10
-10
-10
-
-10
-20
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 83d1ac0b5be6
 
 - Departments: Electronics and Telecommunication
@@ -3898,170 +4424,6 @@ SL
 10
 
 10
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper cc8ad61db598
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTRONIC FIELD THEORY B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 01/07/2015
-- Text: ocr (2 pages), mean OCR confidence 87.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: II Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015 a PRS
-Subject: Electromagnetic Field Theory / ia Ne
-Marks: | 7 = ds ;
-Date: 01/07/2015 Time: \Z0 pm to 5.00 pig /
-Durations: *8'{hrs) Ae
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printea On tne quesuor paper dfiu on wie
-cover of the Answer Book, which is provided for their use.
-
-NB.
-
-Ql
-a)
-
-b)
-
-c)
-d)
-
-Q.2
-a)
-
-b)
-
-Q3
-a)
-
-1. Question no 1 is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. Inall FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figure on right indicate full marks.
-
-Given points A (2,3,-1) and B(4,25°,120°). Find
-i) Spherical co ordinates of A.
-ii) Cartesian co ordinates of B.
-
-List Maxwell's equation in point form and Integral form for time varying field.
-
-State and explain Coulomb’s Law.
-
-Write properties of Dielectric material
-
-State and Explain Biot-Savart’s Law and Determine magnetic field intensity at any. point
-due to a straight filamentary conductor.
-
-Derive an expression of electric field intensity due to line charge with infinite line
-
-charge density p, c/m
-
-Prove divergence theorem using point form of Gauss law.
-
-4/2
-
-10
-
-10
-
-10
---- page 2 ---
-b)
-
-Q.4
-a)
-b)
-
-Q5
-a)
-
-b)
-
-Q.6
-a)
-
-b)
-
-E=2xyz aytx2z ayt+ xy az v/m along a paths
-i) straight line segments (0,0,0) to (2,0,0) to (2,-1,0) to (2,-1,4)
-ii) Straight line x= -2y, z=2x
-
-iii) curve x= -2y3, z= 4y?
-
-Derive an expression of energy density in electrostatic fields.
-
-Three infinite sheet charges are located in free space as follows. 6 nc/m?at z=1,
-3 nc/m?at z=4 and -8 nc/m2at z=-4. Find E at
-
-1) A(2,5,-5) (3) C (-1,-5,2)
-
-2) B (4.2,-3) (4) D (-2,4,5)
-
-Define Poynting vector. Obtain the integral form of Poynting theorem and explain each
-of the terms
-
-Derive the equation for Capacitance for parallel plate capacitor.
-
-What is Wave Impedance or Intrinsic Impedance? Calculate wave impedance for free
-
-space medium.
-
-The width of region containing € 7, is 1.2 mas shown in figure.
-Find €r,if € 7) = 2.5 and total capacitance is 60 pf.
-
-iy, y =
-/
-
-XY,
-condwel’ Ag.
-
-a
-
-zm I ey ' Exo
-
-Q7
-a)
-b)
-
-ke 2m
-
-Attempt any two(10 marks for each)
-Derive Laplace and Poissons equation.
-Derive EM wave equation for free space medium.
-
-State Uniaueness Theorem and give its vroof.
-
-2/2
-
-10
-
-10
-10
-
-10
-
-10
-
-10
-
-10
-
-20
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper bc01ea938b84
@@ -4230,6 +4592,7 @@ Ala.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ELECTROMAGNETIC FIELD THEORY/ELECTROMAGNETIC FIELD THEORY BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: exam date: 02/07/2014
 - Text: ocr (2 pages), mean OCR confidence 85.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -4306,7 +4669,6 @@ Q.7
 
 Detive Energy Density of Electromagnetic field.
 Evaluate hgth the sides of Stoke's theorem for the portion of the sphere specified
-r oth o< ‘@=2017,0 < © £03 and A= 6rsin OG, +18rsin Gcos © ag
 Find the flux.density“at a point A(6,4,-5) caused by
 i. A point cial eof 20mce at the origin
 ii. A uniform line charge p; = 20 uc /m on z axis.
@@ -4336,6 +4698,7 @@ ie x
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ELECTROMAGNETIC FIELD THEORY/ELECTROMAGNETIC FIELD THEORY BATCH 2013-2014 RE EXAM.pdf`
 - Printed on paper: exam date: 08/05/2015
 - Text: ocr (2 pages), mean OCR confidence 87.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4418,7 +4781,6 @@ D = 2xy a, +x? ay C/m?. Evaluate both sides of Divergence theorem for region def
 Derive relation between Electric field intensity and potential.
 
 Jd is expressed in Tectangular co-ordinate by
-E = o cy 2) a, + 6/x ay +628, Vim
 2,1) and N (4,1,2) and also find
 
 An electric fie
@@ -4489,475 +4851,7 @@ fr
 10
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 6bc56f9ff339
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ELECTROMAGNETIC FIELD THEORY/Electromagnetic Field Theory Batch (2013-14) Re Exam.pdf`
-- Printed on paper: exam date: 30/06/2015
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II Semester: IV
-Academic Year: 2014-15
-
-Batch: 2013-14
-
-Subject : Electromagnetic Field Theory Marks: ae
-Date : 30/06/2015 el cages £0 I. 00 pg
-ate : Durations: ne
-Re-Examination Calas i
-NB:
-4. Question No. 1 is compulsory
-2. Out of remaining questions, attempt any 4 questions
-3. In all 5 questions to be attempted
-4. Answer to each new question to be started on a fresh page
-5. Figures on the right hand side indicate full marks.
-Assume suitable data, if necessary.
-Q.1a) Derive Poisson and Laplace equations. [5]
-
-b) Given points A (2,3,-1) and B(4,25°,120°). Find Spherical co ordinates of A, Cartesian
-
-co ordinates of B. [5]
-
-c) State and explain Coulombs law. [5]
-d. Write properties of perfect conductors. [5]
-
-Q.2a) State and explain stroke’s theorem in brief. [5]
-
-b) Derive an expression for Electric Field Intensity for infinite line charge. [10]
-c) Explain Biot-Savarts Law [5]
-Q.3a) Prove Divergence Theorem using point form of Gauss’s law. [16]
-
-b) Given the potential field in cylindrical co-ordinates [10]
-
-V= volts
-
-and pala P (3, 60°, 2) find values 1) V at point P 2) E at point P
-
-Q.4a) Derive the expression for continuity of current equation in integral and point form for time
-
-[10]
-1/2.
-
-varying field.
---- page 2 ---
-b) Derive an expression of energy density in electrostatic fields. [10]
-
-Q.5a) Derive the expressions for electric field due to an electric dipole. [10]
-» b) Find the amount of energy required to move a 4C charge from B(1,0,0) to A(0,2,0) in the field
-“ E = 5xax +5yayV/M along the straight line path y=2-2x, z=0. [10]
-Q.6a) State and explain Maxwell's equation in point form and Integral form for time varying
-field. {12]
-b) Write properties of Dielectric material. [8]
-Q.7a) Explain Poynting theorem. Obtain the integral form of pointing theorem and explain each
-
-term in equation. [10]
-
-b) Explain and derive boundary conditions, tangetial and normal components between two
-dielectrics. ‘ [10]
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper 1edd86cfbc08
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ELECTROMAGANETIC FILED THEORY/ELECTROMAGNETIC FIELD THEORY IV (EXTC) MBA TECH 2012-13 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/6/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School
-Programme: MBA Tech - EXTC   Year:   I1   Trimester: IV
-Academic Year :2012-2013
-Batch:   2012-13
-Subject:   Electromagnetic Field Theory   Marks:   100
-Time:   2.00 p m To 5.00 pm
-Date:   13/6/2013'   Duration: 3 hrs.
-Re - Examination
-N.B, (1) Answer to each new qoestion to be started on fresh page
-(2) Assume suitable data if required.
-(3) Q:l is compulsory. Solve any Fourfrom4.2 to Q.7
-Sake any Five.
-a.   State and explain Biot - s a w Law for a steady magnetic field.
-b.   Write Maxwell's equations for the gen@aI time varying Gel*.
-c.   Derive Poission and Lapalace equations
-.   Give rectangular coordinates of point C(p =4.4,4 =-115 O).
-e.   What do you mean by polarized state? Explain Polarization or Dipole
-moment.
-f.   Discuss self and mutual inductance.
-Q.2 a   Prove Divergence theorem using point form of Gauss law.   10
-b.   Three parallel line charges ph=5nc/m, pl~=4nclm, pi+ -5ncIm are   10
-located at (0,0),(3,0) and (0,4)m respectively. Find b and E at (3,4).
-I
-4.3 a.   Derive expression for Electric field intensity due infinite line charge..   10
-b.   Write properties of conducting and dielectric materials.   10
-Q.4 a.   Derive the expression for continuity of currenQquation in integral and 10
-point form.
-b. A point charge of 6   is located atthe origin ,atmiform line charge   10
-density of I80ndm lies along the x axis and u n i b sheet of charge
-equal 25nctm2 lies in the -Aplane.
-i. Find D at (0,0,4) ii. Find D atB(1,2,4)
---- page 2 ---
-0.5   a.   Derive the expressions for electric field due to an electric dipole.   10
-b.   State and explain Amperes circuit law.   5
-c. A parallel plate capacitor with a free space separation of perpendicular 5
-lm between plates has 29kv applied between plates. Free space air has
-a dielectric strength of fOkv/cm.Show why air breaks down when a
-sheet insulator of 0.2cm thickness, relative permittivity 6.5 and
-dielecmc strength 290kvlcmis inserted between the plates.
-6.6 a.   In the region o<r<0.5m, in cylindrical coordinates the current density is 10
-J =4.5e-*a, (tvm3 andj=Q elsewhere. Use Ampere's law to find H
-b.   State and explain integral and point form of faraday's law of   10
-electromagnetic induction.
-Q.7   a.   Explain Poynting theorem. Obtain the integral form of pointing   10
-theorem and explain each of the terms.
-b.   Derive Uniform plane wave equations for electric and magnetic field   10
-in free space.
-````
-
-## 2011-12 · Exam not stated · Trim 4 · paper 67c4a1bb5b5e
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ELECTROMAGANETIC FILED THEORY/ELECTROMAGNETIC FIELD THEORY 2011-12.pdf`
-- Text: ocr (2 pages), mean OCR confidence 82.9
-
-````text
-— SVKM’s NMIMS
-
-jf
-fi
-
-Mukesh Patel School Of Technology Management & Engine: \& \\
-Programme: MBA(Tech)- TELECOM Year: Il Trimester: IV ) x \\
-Academic Year : 2011-2012 sity yy
-LBaaR * dz
-Subject: ELECTROMAGNETIC Marks: : gS }
-FIELD THEORY Time: 5.00 pm /
-Date: _ 3/11/2011 Duration: lance’
-Final - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate full marks.
-QI. Attempt any five questions:- (each 4 marks) 20
-A Explain difference between gradient and divergence with suitable example
-B__ Explain where Laplacian equation is used, draw sketches to explain
-C __ Explain modification in continuity equation done by Maxwell
-D__ Explain conduction current,convection and displacement current
-E List four Maxwell’s equations in integral and point form and explain them
-F Derive C= (9 ¢, A) /d_ for capacitor
-Q2 A __ Derive an expression for electric field intensity due to infinite line charge 10
-B \ Current density is given in cylindrical coordinates as J= -10°z'°azA/m” in the region 10
-) 0< p S$ 20um for p= 20um , J=0 a) Find the total current crossing the surface Z=0.1m
-in the az direction. b)if the charge velocity is 2x10° m/s at Z=0.1m find py there .c) If the
-volume charge density at Z=0.15m is -2000C/m’, Find the charge velocity there.
-Q3 A __ State ,explain and derive Stokes theorem. 10
-B_ Calculate the work done in moving a charge 4C from B(1,0,0) to A(0,2,0) along the path 10
-y= 2-2x ,z= 0 in the field E= a)SaxV/m b)5xax V/m c)5xax = SyayV/m
-Q4 A Given the vector current density J=10p’zap-4pcos* papmA/m* :a)Find the current 10
-d sity atP(p=3 @=30 z=2) b)Determine the total current flowing outward through the
-cifcular band p=3 , 0< @ < 2/7,2<Z<28.
-B__ Using Biot Savart law, find the magnetic field intensity due to an infinite long straight 10
-’ filament placed along Z-axis.
-Q5 A __ Prove Divergence Theorem using point form of Gauss’s Law 10
-B_ A sheet of charge pS = 2nC/m’is present at x=3 and a line charge pL=20nC/m at x=1, 10
-z=4 find a)E at (0,0,0) b)direction of E at (4,5,6)
-Q6 A __ Derive boundary relation at boundary of conductor and space 10
-
-Vo
---- page 2 ---
-Q7
-
-What are different polarization of waves.Explain with neat sketches.
-
-Define Poynting vector. Obtain the integral form of the pointing theorem and explain
-each of the terms
-
-2 2
-
-Prove that V7 E = pe oF and V?H=ps a
-
-ét?
-
-ieee stoece f
-— A
-
-i
-
-10
-
-10
-
-10
-````
-
-## 2011-12 · Re-Exam · Trim 4 · paper aa171695ec9c
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ELECTROMAGANETIC FILED THEORY/ELECTROMAGNETIC FIELD THEORY IV (EXTC) MBA TECH 2010-11, 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/6/2013
-- Text: text (2 pages)
-
-````text
-Mukesh Pate1 School of Technolorn Management 8s Engineehs
-Programme: ..-. MBA Tech -   - EXTC   Year:   I1   Trimester: IV
-Academic Year :2012-2013
-Batch:   2010-11,2011-12 -   r$
-Subject:   Electromagnetic Neld Theory   Marks:   100
-Time:   2.00 pm To 5.00 pm
-Date:   13/6/2013'   Duration: 3hrs.
-Re - Examination
-N.B.   (1) Answer to each new question to be started on fresh page.
-(2) Assumesuitabledata if required.
-(3) Q.1 is compulsory. Solve any Four from Q.2 to 4.7
-Q.1   Solveany Five.
-a. A uniform line charge of 3ucIm lies along the x axis. What flux
-crosses the spherical surface centered at the origin with radius 3m
-b.   Write properties of perfect conductors.
-c.   Derive Poisson and Laplace equations.
-d.   Discuss Mutual Inductance in detail.
-e.   Explain divergence and curl.
-f.   Explain continuity equation of current
-4.2   a.   State and explain stroke's theorem in detail.   10
-b. A point charge of 6 pc is located at the origin ,a uniform line charge   10
-density of 180ncJm lies along the x axis and uniform sheet of charge
-equal to 25nc/m2 lies m the z=Oplane.
-i. Find D at (O,O,4) ii. Find D at B(1,2,4)
-Q 3 a.   Prove Divergence Theorem usingpoint form of Gauss's law.   10
-b.   Find Electric Field Intensity E at(0,0,5) due to Q14.53 F a t (0,3,0)m 10
-and Q 2= - 0 . 4 5 ~at(S,O,O)m   &
-Q+4 a   Derive the expression for continuity of current equation in integral and 10
-point form.
-b.   Derive an expression for Electric Field Intensity for inf3nite line   10
-charge.
-v
-Q.5 a   Derive the expressions for electric field due to an electric dipole.   10
-b. Fmd the magneticfluxcrossing the surface defined by 0 <P5< r<2m   5
-,   and WzGm ifB = (4lr)s T.
-e.   Write properties of Dielectric mated.   5
-Q.6 a   Explain wave equations in free space conditions.
---- page 2 ---
-b.   State and explain integral and point formof faraday's law of   10
-electromagneticinduction
-Q.7 a   Explain Poynting theorem. Obtainthe~ntegralfonn of pointing   10
-theorem and explain each term in equation.
-b.   Explain diierent polarization of waves.   10
-````
-
-## 2010-11 · Exam not stated · Trim 4 · paper 673d81db7a32
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ELECTROMAGANETIC FILED THEORY/ELECTROMAGNETIC FIELD THEORY BACTH 2010-2011.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16/06/2011
-- Text: ocr (2 pages), mean OCR confidence 85.3
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering \
-Programme: MBA Tech - Telecom Year: II Trimester: IV J
-
-Academic Year : 2010-2011
-
-Batch: 2010-2011 S/
-Subject: Electromagnetic Field Theory Marks: 100. (ey Y
-
-Time: 2:00 pm To “00 pm
-Date: 16/06/2011 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: candidates should read the instruction carefully printed on question paper & on the
-cover of answer book, provided for their use.
-
-1. Q.1 is compulsory.
-
-2. Out of remaining questions solve any four.
-3. Inall five questions to be attempted.
-
-4. Every question carries equal marks.
-
-5. Figures to the right indicate full marks.
-
-QA sis : 20
-a) Explain the concept of electric flux & flux density, Derive the relation between flux density &
-electric field intensity. : 1th t
-
-b) State Biot-Savart’s law with suitable expressions. Give i its expression in integral form.
-
-c) Explain behavior of dielectric materials in electric field. Also, explain the concept of
-polarization.
-
-d) Express B =r, +sin 4, in Cartesian coordinate system. Hence, obtain its value at (1, 2, 3)
-
-2
-7 Derive expression of electric field intensity due to electric dipole. 10
-b) Determine flux through closed surface of cylinder 0 < z <1, r=4m. Also, verify the
-divergence theorem for this. 10
-Q.3
-a) A potential field in free space is given by,
-
-V= a 2<rs3
-
-i)show that .p, =0 for 2<r <3 :
-
-ii) find the energy stored in the region 2<r <3 : 10
-b) Electric flux density is given by D = 2y?z?d, +3xy7z a, + 2xy2a. pC/m’ in free space.
-Find,
-
-i) Total flux passing through the surface x=2, 0< y<2, 0<z<2 inthe direction away from
-origin
-ii)Total charge contained in the sphere of radius 2pm centered at (2, 2, 2) 10
-
-te
---- page 2 ---
-Q.4
-
-a) Find capacitance of spherical capacitor using Laplace’s equation. 05
-b) Find magnetic field intensity due to infinite long straight conductor. 05
-c) A current density vector is given by
-
-J= 2 es 6i, +25e™ sin 4, — 2rsin@ cos ga, A/m’. Find,
-pp
-
-i) J at r=3m,0 = 0°,¢ = 180°
-ii) total current passing through r = 4m,0 <0 < 40°,0<@ < 2z in d, direction. 10
-
-Q.5
-a) Discuss inconsistency in Ampere’s circuital law. Suggest & derive modification in it. b) In
-free space E = 45cos(at — fz)a, Vim. Find the average power crossing a circular area of radius
-
-; E
-3.25m in plane z = 0. Assume _ =n, & m =1202 Q. 10
-Q.6
-~ OE 7 @H
-a) Prove that VE = we & WH =e 10
-/ aa Mop
-b) Evaluate both sides of Stoke’s theorem for H = 12xya, - 3y°a, A/m along rectangular path
-around the region 3 < x < 6,-1< y < 2,z = 0.Let the positive direction of area is @_.
-10
-Q.7
-a) Derive Poisson’s & Laplace’s equations. Give its significance. 04
-b) State & Prove Poynting theorem. 04
-¢) Explain in brief — Polarization of electromagnetic waves. 04
-d) List out Maxwell’s equations in point & integral forms. 04
-e) Explain the concept of gradient & give its significance. 04
-
-he
-````
-
-## 2010-11 · Exam not stated · Trim 4 · paper 331365b5876d
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ELECTROMAGANETIC FILED THEORY/electromagnetic field theory 2010-2011.pdf`
-- Printed on paper: exam date: 28/10/2010
-- Text: ocr (2 pages), mean OCR confidence 81.5
-
-````text
-RE ee Ps ee a ee
-
-SVKM’s NMIMS
-Mnikesh Patel School Of Technolo;
-
-Programme: MBA(Tech)-TELECOM Year: Il Trimester:
-Academic Year : 2010-2011
-
-|
-
-Batch: 2010-2011
-
-Subject: ELECTROMAGNETIC FIELD Marks:
-THEORY Time:
-
-Date: 28/10/2010 Duration:
-
-Final - Examination
-
-Instruction: Candidates should read carefully the instruction printed on the question
-paper ani! on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1, Question.No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. Ir ail 5 questions to be aitempted.
-. 4. All question carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. F gure in brackets indicate full marks.
-
-Ql.
-a) A uniform’line charge of 3 uC/m lies along the x-axis. What flux crosses the
-spherical surface centered at origin with radius3 m. (5)
-
-b) Point charge Q1=300 micro Coulombs located at (1,-1,-3), experiences a force
-F =8a, -84,+44,(N) due to point charge Q2 at (3,-3,-2). Determine Q2. (5)
-
-c) Explain Ampere’s circuital law ie 2 (5)
-
-d) Explain the concept of electric scalar potential (5)
-Q2.
-
-a) Three parallel line charges pi) = 5 nC/m, pi2 = 4 nC/m & py3 = -5 nC/m are
-
-located at (0, 0), (3, 0) & (0, 4) m respectively, find E & D at (3, 4). (10)
-
-b) Derive point form of Gauss’s law. ; (10)
-
-Q3. ;
-a) An electrostatic field is given by E= (X/2+2Y) ax + 2X a, (v/m) find the work
-* done in moving a point charge of 20 uC from (4,2,0) to (0,0,0) along a straight
-
-tix path : —_ 40) se
-
-) distribution is-given-by Vs
-» ~e=e--=thervalso calculate Eat points i) X=0, Y=0 ii) X=6; Y=
---- page 2 ---
-LACORS OS Ra ah AideRagaeaRStIFEH I Dis ua Rnaatan dagiai a8 ek gala tae
-
-Q4.
-
-a) State and explain Poisson equation (10)
-
-b) State and explain Maxwell's equation for time varying fields (10)
-
-Q5. :
-a) [he region y<0 contains a dielectric material for which-eg1=2.5, while the region
-y>0 is characterized by ep2=4. Let
-
-E =~-304, +504, +70d. (vim) find- @E,y, (DE, (C)E,(d)a, (ea,
-
-(10)
-b) J'ind the total capacitance if plates are squared with 500mm side. (10)
-Upper Plate
-| Air
-da= 4 mm erl=]
-i Sulfur
-ds= 6 mm er2=4
-Lower Plate
-Q6.
-a) Using Biot Savart law, find the magnetic field intensity due to an infinite long
-straight filament placed along Z-axis. (10)
-b) In cylindrical coordinates 2 =P), (T) Determine the magnetic flux ®
-crossing the plane surface define by 0.5 <r < 2.5m and 0 <z<2.0m (10)
-Q7.
-a) Define Poynting vector. Obtain the integral form of the pointing theorem and
-explain each of the terms. (10)
-ee a°H
-b). Prove that V?E = pe ae and V?H= pe a (10)
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 67dfdd7dcac2
+## 2012-13 · Exam not stated · Trim 4 · paper 67dfdd7dcac2
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -5081,7 +4975,7 @@ Stoke’s theorem
 (5)
 ````
 
-## Year not stated · Exam not stated · Trim 4 · paper 74d6c9d94604
+## 2012-13 · Exam not stated · Trim 4 · paper 74d6c9d94604
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -5182,292 +5076,397 @@ c) Explain — surface impedance of conductor. , [06]
 Df.
 ````
 
-## Year not stated · Final-Exam · Sem 4 · paper 071ffa5c1c6f
+## 2012-13 · Re-Exam · Trim 4 · paper aa171695ec9c
 
 - Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTROMAGNETIC FIELD THEORY B TECH (EXTC), FINAL EXAM.pdf`
-- Printed on paper: exam date: 11/05/2015
-- Text: ocr (2 pages), mean OCR confidence 80.3
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ELECTROMAGANETIC FILED THEORY/ELECTROMAGNETIC FIELD THEORY IV (EXTC) MBA TECH 2010-11, 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/6/2013
+- Text: text (2 pages)
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: II Semester: IV
-Academic Year: 2014-2015 —_
-Subject: Electromagnetic Field Theory Vas
-Marks: geo
-Date: 11/05/2015 Time : if js 8.00 :pitto’ Ro
-Durationg: 3 (3 (tira) AX
-hp
-Final-Examination re sane
-
-N.B. (1) Answer to each new question to be started on fresh = —
-(2) Assume suitable data if required.
-(3) Q.1 is compulsory. Solve any Four from Q.2 to Q.7
-Q.1 a. Derive Poisson and Laplace equations. 04
-b. — Given points A (2,3,-1) and B(4,25°,120°). Find 04
-i) Spherical co ordinates of A.
-ii) (ii)Cartesian co ordinates of B.
-c. State and Explain Coulombs law. 04
-
-Q.2 a. Find work done in moving a -10C charge from origin to (1,2,3) 06
-through a field
-E=6x"y a,+2x°a,- + 6z a, yv/m along a paths
-i) straight line segments (0,0,0) to (1,0,0) to (1,2,0) to (1,2,3)
-ii) Straight line y= 2x, z=3x
-
-iii) curve y= 2x, z= 3x"
-
-b. Derive an expression for Electric Field Intensity for infinite line 06
+Mukesh Pate1 School of Technolorn Management 8s Engineehs
+Programme: ..-. MBA Tech -   - EXTC   Year:   I1   Trimester: IV
+Academic Year :2012-2013
+Batch:   2010-11,2011-12 -   r$
+Subject:   Electromagnetic Neld Theory   Marks:   100
+Time:   2.00 pm To 5.00 pm
+Date:   13/6/2013'   Duration: 3hrs.
+Re - Examination
+N.B.   (1) Answer to each new question to be started on fresh page.
+(2) Assumesuitabledata if required.
+(3) Q.1 is compulsory. Solve any Four from Q.2 to 4.7
+Q.1   Solveany Five.
+a. A uniform line charge of 3ucIm lies along the x axis. What flux
+crosses the spherical surface centered at the origin with radius 3m
+b.   Write properties of perfect conductors.
+c.   Derive Poisson and Laplace equations.
+d.   Discuss Mutual Inductance in detail.
+e.   Explain divergence and curl.
+f.   Explain continuity equation of current
+4.2   a.   State and explain stroke's theorem in detail.   10
+b. A point charge of 6 pc is located at the origin ,a uniform line charge   10
+density of 180ncJm lies along the x axis and uniform sheet of charge
+equal to 25nc/m2 lies m the z=Oplane.
+i. Find D at (O,O,4) ii. Find D at B(1,2,4)
+Q 3 a.   Prove Divergence Theorem usingpoint form of Gauss's law.   10
+b.   Find Electric Field Intensity E at(0,0,5) due to Q14.53 F a t (0,3,0)m 10
+and Q 2= - 0 . 4 5 ~at(S,O,O)m   &
+Q+4 a   Derive the expression for continuity of current equation in integral and 10
+point form.
+b.   Derive an expression for Electric Field Intensity for inf3nite line   10
 charge.
-Q.3. a. Prove Divergence Theorem using point form of Gauss’s law. 06
-b. Given the potential field in cylindrical co-ordinates 06
-ve — 7? cos® — vons
-
-and ob ~ (3, 60°, 25¢) find values at P for:
-1) V 2)E 3)D 4); inFree Space 5) &, in Free Space
-
-4/2
+v
+Q.5 a   Derive the expressions for electric field due to an electric dipole.   10
+b. Fmd the magneticfluxcrossing the surface defined by 0 <P5< r<2m   5
+,   and WzGm ifB = (4lr)s T.
+e.   Write properties of Dielectric mated.   5
+Q.6 a   Explain wave equations in free space conditions.
 --- page 2 ---
-Q.4 a. State Uniqueness Theorem and give its proof. 06
-
-b. The width of region containing =*, is 1.2 mas shown in figure. 06
-P Find €r,if =r, = 2.5 and total capacitance is 60 pf.
-roe ra gt
-
-Y,
-S
-/ conducrng, plane 7
-
-2m] Ez; | Era _
-
-2m
-
-Q.5 a. Derive the expressions for electric field due to an electric dipole. 06
-
-b. Evaluate both sides of the Stoke’s Theorem, if the rectangular path 06
-around the region -1 4 a< 1,-2 <y #2Z= O.Let the positive
-direction of ds be a, and
-
-A= -y (C+ y7)q + xe ry?) iy Amp/m
-
-Q.6 a. State and explain Maxwell's equation in point form and Integral form 08
-for time varying field.
-
-b. | Write properties of Dielectric material. 04
-
-Q.7 a. Explain Poynting theorem. Obtain the integral form of Poynting 06
+b.   State and explain integral and point formof faraday's law of   10
+electromagneticinduction
+Q.7 a   Explain Poynting theorem. Obtainthe~ntegralfonn of pointing   10
 theorem and explain each term in equation.
-
-b. Explain boundary conditions (tangential and normal) components 06
-between two dielectrics.
+b.   Explain diierent polarization of waves.   10
 ````
 
-## Year not stated · Re-Exam · Sem 4 · paper 3a5316d3e796
+## 2012-13 · Re-Exam · Trim 4 · paper 1edd86cfbc08
 
 - Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC FIELD THEORY/ELECTROMEGNATIC FIELD THEORY B TECH (EXTC), BATCH _16-17-18-19_RE EXAM.pdf` (+2 identical copies)
-- Printed on paper: exam date: 14 June 2019
-- Text: ocr (2 pages), mean OCR confidence 88.2
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ELECTROMAGANETIC FILED THEORY/ELECTROMAGNETIC FIELD THEORY IV (EXTC) MBA TECH 2012-13 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/6/2013
+- Text: text (2 pages)
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech/ MBA Tech (EXTC) - Year: IT - Semester: IV -
-
-Academic Year: 2018-2019 2
-Subject: Electromagnetic Field Theory - Marks:
-Date: 14 June 2019 - , Time:
-
-Re- Examination (2016- 17 /2017-18/2018- 19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all 5 Questions to be attempted.
-
-4) All questions carry equal marks. 4
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures on the right hand side indicate full marks.
-
-7) Assume ‘suitable data if necessary.
-
-Q1 Solve
-a. Express the uniform vector field, G = 8sing ae in Rectangular & Cylindrical form.
-At P3,2,-1)
-b. Prove that E=— VV. .
-c. Derive Poisson’s and Laplace equation. Let V=2xy’z? and ¢= &. Given point
-
-P(1,2,-1)find i) Vii) E
-
-Q2. Solve
-a. A circle centered at origin with radius 2m in xy plane. Find unit vector using co-
-ordiiate system concepts in rectangular system, for a tangent at (V3, 1, 0) in
-increasing y — direction.
-b. Write physical significance of Divergence & determine Divergence of the
-following vector field at given point A=2rcosOcosq ar + V¥ ag at P (1, 1/6, 7/3).
-
-Q3. Solve
-
-a. Derive the expression for Electric field intensity at a point due to an infinite line
-charge along the z-axis. Let a point charge Q1=25 nC be located at P1 (4, —2, 7)
-and a charge Q2 = 60 nC be at P2 (-3, 4, —2). Find E at P3 (1, 2, 3) ifs = 0,
-
-b. Derive the expression for Electric Flux Density at a point due to an infinite sheet
-charge on z = 0 plane. The cylindrical surface p = 8cm contains the surface charge
-density, ps = 5e~?°l2! nC/m?. How much flux leaves the surface p = 8em, lem < z
-<5cm, 30° < » < 90° if total charge is 0.2513”C?
-
-14
-
-14
-
-14
+SVKM's NMIMS
+Mukesh Pate1 School
+Programme: MBA Tech - EXTC   Year:   I1   Trimester: IV
+Academic Year :2012-2013
+Batch:   2012-13
+Subject:   Electromagnetic Field Theory   Marks:   100
+Time:   2.00 p m To 5.00 pm
+Date:   13/6/2013'   Duration: 3 hrs.
+Re - Examination
+N.B, (1) Answer to each new qoestion to be started on fresh page
+(2) Assume suitable data if required.
+(3) Q:l is compulsory. Solve any Fourfrom4.2 to Q.7
+Sake any Five.
+a.   State and explain Biot - s a w Law for a steady magnetic field.
+b.   Write Maxwell's equations for the gen@aI time varying Gel*.
+c.   Derive Poission and Lapalace equations
+.   Give rectangular coordinates of point C(p =4.4,4 =-115 O).
+e.   What do you mean by polarized state? Explain Polarization or Dipole
+moment.
+f.   Discuss self and mutual inductance.
+Q.2 a   Prove Divergence theorem using point form of Gauss law.   10
+b.   Three parallel line charges ph=5nc/m, pl~=4nclm, pi+ -5ncIm are   10
+located at (0,0),(3,0) and (0,4)m respectively. Find b and E at (3,4).
+I
+4.3 a.   Derive expression for Electric field intensity due infinite line charge..   10
+b.   Write properties of conducting and dielectric materials.   10
+Q.4 a.   Derive the expression for continuity of currenQquation in integral and 10
+point form.
+b. A point charge of 6   is located atthe origin ,atmiform line charge   10
+density of I80ndm lies along the x axis and u n i b sheet of charge
+equal 25nctm2 lies in the -Aplane.
+i. Find D at (0,0,4) ii. Find D atB(1,2,4)
 --- page 2 ---
-Q4.
+0.5   a.   Derive the expressions for electric field due to an electric dipole.   10
+b.   State and explain Amperes circuit law.   5
+c. A parallel plate capacitor with a free space separation of perpendicular 5
+lm between plates has 29kv applied between plates. Free space air has
+a dielectric strength of fOkv/cm.Show why air breaks down when a
+sheet insulator of 0.2cm thickness, relative permittivity 6.5 and
+dielecmc strength 290kvlcmis inserted between the plates.
+6.6 a.   In the region o<r<0.5m, in cylindrical coordinates the current density is 10
+J =4.5e-*a, (tvm3 andj=Q elsewhere. Use Ampere's law to find H
+b.   State and explain integral and point form of faraday's law of   10
+electromagnetic induction.
+Q.7   a.   Explain Poynting theorem. Obtain the integral form of pointing   10
+theorem and explain each of the terms.
+b.   Derive Uniform plane wave equations for electric and magnetic field   10
+in free space.
+````
 
-Q5.
+## 2011-12 · Exam not stated · Trim 4 · paper 67c4a1bb5b5e
 
-Q6.
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ELECTROMAGANETIC FILED THEORY/ELECTROMAGNETIC FIELD THEORY 2011-12.pdf`
+- Text: ocr (2 pages), mean OCR confidence 82.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
-Q7.
+````text
+— SVKM’s NMIMS
 
-Solve
+jf
+fi
 
-a. Let E = 400 ax — 300 ay +500 az V/m alongside a point (6, 2, —3). Find
-incremental work done in moving a charge of 4C by a distance of 1mm along
-following directions. i) ax + ay + az ii.) -2ax + 3ay—az
+Mukesh Patel School Of Technology Management & Engine: \& \\
+Programme: MBA(Tech)- TELECOM Year: Il Trimester: IV ) x \\
+Academic Year : 2011-2012 sity yy
+LBaaR * dz
+Subject: ELECTROMAGNETIC Marks: : gS }
+FIELD THEORY Time: 5.00 pm /
+Date: _ 3/11/2011 Duration: lance’
+Final - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
+QI. Attempt any five questions:- (each 4 marks) 20
+A Explain difference between gradient and divergence with suitable example
+B__ Explain where Laplacian equation is used, draw sketches to explain
+C __ Explain modification in continuity equation done by Maxwell
+D__ Explain conduction current,convection and displacement current
+E List four Maxwell’s equations in integral and point form and explain them
+F Derive C= (9 ¢, A) /d_ for capacitor
+Q2 A __ Derive an expression for electric field intensity due to infinite line charge 10
+B \ Current density is given in cylindrical coordinates as J= -10°z'°azA/m” in the region 10
+) 0< p S$ 20um for p= 20um , J=0 a) Find the total current crossing the surface Z=0.1m
+in the az direction. b)if the charge velocity is 2x10° m/s at Z=0.1m find py there .c) If the
+volume charge density at Z=0.15m is -2000C/m’, Find the charge velocity there.
+Q3 A __ State ,explain and derive Stokes theorem. 10
+B_ Calculate the work done in moving a charge 4C from B(1,0,0) to A(0,2,0) along the path 10
+Q4 A Given the vector current density J=10p’zap-4pcos* papmA/m* :a)Find the current 10
+d sity atP(p=3 @=30 z=2) b)Determine the total current flowing outward through the
+cifcular band p=3 , 0< @ < 2/7,2<Z<28.
+B__ Using Biot Savart law, find the magnetic field intensity due to an infinite long straight 10
+’ filament placed along Z-axis.
+Q5 A __ Prove Divergence Theorem using point form of Gauss’s Law 10
+B_ A sheet of charge pS = 2nC/m’is present at x=3 and a line charge pL=20nC/m at x=1, 10
+z=4 find a)E at (0,0,0) b)direction of E at (4,5,6)
+Q6 A __ Derive boundary relation at boundary of conductor and space 10
 
-b. Derive expression for Potential difference due to an infinite line Charge. A line
-along y=1, z= 1 carries a uniform line charge of 2nC/m. Find potential at
+Vo
+--- page 2 ---
+Q7
 
-A(5,0,1) if V = 0 at (0,0,0)
+What are different polarization of waves.Explain with neat sketches.
 
-Solve
-a. List properties of Di-electrics. Let current density in cylindrical system be
-J] = 2pcos?@ ap — psin2@ ag A/m’ within the region 2.1< p <2.5, 0<@
-<0.lrad, 6<z<6.1 find total current passing through i.) p= 2.2, 0<@ <0.1rad, 6< z
-<6.1 in ap direction. ii.) find VeJ at P (p= 2.4, 9 = 0.08rad, z = 6.05)
-b. Show expression for composite parallel plate capacitor with Di-electric normal and
-parallel to conducting surface configuration.
-am
-amz
-— a | a mm
-}/—.1.2m ——4 08m
-The width of region containing erl is 1.2m as shown. Find erl if sr2 = 2.5 and Ctot
-= 60nF °
-Solve ;
-a. State and verify Ampere’s circuital Law and state Stroke’s theorem.
-b. Express tangential and normal components of E and D for boundary condition
+Define Poynting vector. Obtain the integral form of the pointing theorem and explain
+each of the terms
 
-between two dielectrics.
+2 2
 
-Solve any two
+Prove that V7 E = pe oF and V?H=ps a
 
-a. Polarization of Waves.
-b. Explain Poyenting Theorem.
-c. Derive Uniqueness theorem for Laplace Equation. It is known that V = XY is
+ét?
 
-solution of Laplace equation, where X*is function of x and Y is function of y alone.
-Determine whether following functions is solution of Laplace equation.
-i) Va=X43Y ii) Vb =2XY+y? — x2
+ieee stoece f
+— A
 
-2/2
-
-14
-
-14
-
-14
+i
 
 10
 
-14
+10
+
+10
 ````
 
-## Year not stated · Re-Exam · Sem 5 · paper 9b2be1971678
+## 2010-11 · Exam not stated · Trim 4 · paper 673d81db7a32
 
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONIC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/V SEMESTER/ELECTRO MAGNETIC FIELD THEORY/ELECTRO MAGNETIC FIELD THEORY B TECH (ELECTRONICS), RE EXAM.pdf`
-- Printed on paper: exam date: 29/11/2014
-- Text: ocr (2 pages), mean OCR confidence 92.1
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ELECTROMAGANETIC FILED THEORY/ELECTROMAGNETIC FIELD THEORY BACTH 2010-2011.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16/06/2011
+- Text: ocr (2 pages), mean OCR confidence 85.3
 
 ````text
-SVKM’s NMIMS .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering \
+Programme: MBA Tech - Telecom Year: II Trimester: IV J
 
-Programme: B. Tech (Electronics) Year: Ill Semester: V
-Batch: 2013-2014
-Academic Year: 2014-2015
+Academic Year : 2010-2011
 
-Subject: Electro Magnetic Field Theory
+Batch: 2010-2011 S/
+Subject: Electromagnetic Field Theory Marks: 100. (ey Y
 
-Marks:
-Date: 29/11/2014 Time:
+Time: 2:00 pm To “00 pm
+Date: 16/06/2011 Duration: 3 hrs.
 
-Durations:
+Re - Examination
 
-Re-Examination
-Instructions:-
+Instructions: candidates should read the instruction carefully printed on question paper & on the
+cover of answer book, provided for their use.
 
-1) Question no. 1 is Compulsory.
+1. Q.1 is compulsory.
 
-2) Out of Remaining questions, attempt any 4 questions.
+2. Out of remaining questions solve any four.
+3. Inall five questions to be attempted.
 
-3) In all 5 questions to be attempted.
+4. Every question carries equal marks.
 
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data, if necessary.
+5. Figures to the right indicate full marks.
 
-Q.No. 1)
-a. Ifa vector A is 4 ax + 2 ay + az Express it in cylindrical coordinate
-system. (5)
-b. If B= 4xy’ ax +2y°dy + xyz az. Find divergence of B at P(1,2,3) (5)
-c. A sheet of charge lies in y-z plane at x=0 and has uniform surface charge
-density of 5 pc/m’ . Find electric field at point (-5,0,0) on x — axis. (5)
-d. Derived the E-M WAVE equations in free space (5)
-Q.No. 2)
-a. Derive electric field intensity at any point due to infinite line charge (10)
-b. Find electric flux density at point A(6,4,-5) cause by (10)
+QA sis : 20
+a) Explain the concept of electric flux & flux density, Derive the relation between flux density &
+electric field intensity. : 1th t
 
-I. A point charge of 20 mC at origin
-ll. A uniform line charge of 20 uC/m on Z axis.
+b) State Biot-Savart’s law with suitable expressions. Give i its expression in integral form.
 
-Q.No. 3)
-a. Explain] Maxwell’s equations in point and integral form for static field (10)
-b. Given E=10 sin(wt-Bz)ay v/m in free space. Determine D, B and H. (10)
-Q.No. 4)
-a. Define and Derive Poynting theorem. Explain significance of each term. (10)
-b. Explain in detail polarization of waves. (10)
+c) Explain behavior of dielectric materials in electric field. Also, explain the concept of
+polarization.
 
-Vo.
+d) Express B =r, +sin 4, in Cartesian coordinate system. Hence, obtain its value at (1, 2, 3)
+
+2
+7 Derive expression of electric field intensity due to electric dipole. 10
+b) Determine flux through closed surface of cylinder 0 < z <1, r=4m. Also, verify the
+divergence theorem for this. 10
+Q.3
+a) A potential field in free space is given by,
+
+V= a 2<rs3
+
+i)show that .p, =0 for 2<r <3 :
+
+ii) find the energy stored in the region 2<r <3 : 10
+b) Electric flux density is given by D = 2y?z?d, +3xy7z a, + 2xy2a. pC/m’ in free space.
+Find,
+
+i) Total flux passing through the surface x=2, 0< y<2, 0<z<2 inthe direction away from
+origin
+ii)Total charge contained in the sphere of radius 2pm centered at (2, 2, 2) 10
+
+te
 --- page 2 ---
-Q.No. 5)
+Q.4
 
-a. Write Laplace and Poisson’s equation and prove Uniqueness theorem. (10)
-b. If potential function is V=x° 'y-xy’+3z. Find potential gradient and electric
-field intensity at point P(-1,2,-3) (10)
-Q.No.6)
-a. Derive capacitance of parallel plate and coaxial cable capacitor. (10)
+a) Find capacitance of spherical capacitor using Laplace’s equation. 05
+b) Find magnetic field intensity due to infinite long straight conductor. 05
+c) A current density vector is given by
 
-b. Given that D=(10/3) ax C/m’ . Evaluate both sides of divergence theorem for
-a volume of cube 2m on edge centered at origin and with edges parallel to
+J= 2 es 6i, +25e™ sin 4, — 2rsin@ cos ga, A/m’. Find,
+pp
 
-the axis. (10)
-Q.No. 7)
-a. Find the depth of penetration of an EM wave in copper at 60 Hz and 100 MHz
-for copper o=5.8xl 0’ »ur=l,er=1. (10)
-b. What is uniform plane wave? Explain E-M wave propagation in free space.
-Assume wave propagating in x-direction. (10)
+i) J at r=3m,0 = 0°,¢ = 180°
+ii) total current passing through r = 4m,0 <0 < 40°,0<@ < 2z in d, direction. 10
+
+Q.5
+a) Discuss inconsistency in Ampere’s circuital law. Suggest & derive modification in it. b) In
+free space E = 45cos(at — fz)a, Vim. Find the average power crossing a circular area of radius
+
+; E
+3.25m in plane z = 0. Assume _ =n, & m =1202 Q. 10
+Q.6
+~ OE 7 @H
+a) Prove that VE = we & WH =e 10
+/ aa Mop
+b) Evaluate both sides of Stoke’s theorem for H = 12xya, - 3y°a, A/m along rectangular path
+around the region 3 < x < 6,-1< y < 2,z = 0.Let the positive direction of area is @_.
+10
+Q.7
+a) Derive Poisson’s & Laplace’s equations. Give its significance. 04
+b) State & Prove Poynting theorem. 04
+¢) Explain in brief — Polarization of electromagnetic waves. 04
+d) List out Maxwell’s equations in point & integral forms. 04
+e) Explain the concept of gradient & give its significance. 04
+
+he
+````
+
+## 2010-11 · Exam not stated · Trim 4 · paper 331365b5876d
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/ELECTROMAGANETIC FILED THEORY/electromagnetic field theory 2010-2011.pdf`
+- Printed on paper: exam date: 28/10/2010
+- Text: ocr (2 pages), mean OCR confidence 81.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+
+SVKM’s NMIMS
+Mnikesh Patel School Of Technolo;
+
+Programme: MBA(Tech)-TELECOM Year: Il Trimester:
+Academic Year : 2010-2011
+
+|
+
+Batch: 2010-2011
+
+Subject: ELECTROMAGNETIC FIELD Marks:
+THEORY Time:
+
+Date: 28/10/2010 Duration:
+
+Final - Examination
+
+Instruction: Candidates should read carefully the instruction printed on the question
+paper ani! on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1, Question.No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. Ir ail 5 questions to be aitempted.
+. 4. All question carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. F gure in brackets indicate full marks.
+
+Ql.
+a) A uniform’line charge of 3 uC/m lies along the x-axis. What flux crosses the
+spherical surface centered at origin with radius3 m. (5)
+
+b) Point charge Q1=300 micro Coulombs located at (1,-1,-3), experiences a force
+F =8a, -84,+44,(N) due to point charge Q2 at (3,-3,-2). Determine Q2. (5)
+
+c) Explain Ampere’s circuital law ie 2 (5)
+
+d) Explain the concept of electric scalar potential (5)
+Q2.
+
+a) Three parallel line charges pi) = 5 nC/m, pi2 = 4 nC/m & py3 = -5 nC/m are
+
+located at (0, 0), (3, 0) & (0, 4) m respectively, find E & D at (3, 4). (10)
+
+b) Derive point form of Gauss’s law. ; (10)
+
+Q3. ;
+a) An electrostatic field is given by E= (X/2+2Y) ax + 2X a, (v/m) find the work
+* done in moving a point charge of 20 uC from (4,2,0) to (0,0,0) along a straight
+
+tix path : —_ 40) se
+
+) distribution is-given-by Vs
+» ~e=e--=thervalso calculate Eat points i) X=0, Y=0 ii) X=6; Y=
+--- page 2 ---
+
+Q4.
+
+a) State and explain Poisson equation (10)
+
+b) State and explain Maxwell's equation for time varying fields (10)
+
+Q5. :
+a) [he region y<0 contains a dielectric material for which-eg1=2.5, while the region
+y>0 is characterized by ep2=4. Let
+
+E =~-304, +504, +70d. (vim) find- @E,y, (DE, (C)E,(d)a, (ea,
+
+(10)
+b) J'ind the total capacitance if plates are squared with 500mm side. (10)
+Upper Plate
+| Air
+da= 4 mm erl=]
+i Sulfur
+ds= 6 mm er2=4
+Lower Plate
+Q6.
+a) Using Biot Savart law, find the magnetic field intensity due to an infinite long
+straight filament placed along Z-axis. (10)
+b) In cylindrical coordinates 2 =P), (T) Determine the magnetic flux ®
+crossing the plane surface define by 0.5 <r < 2.5m and 0 <z<2.0m (10)
+Q7.
+a) Define Poynting vector. Obtain the integral form of the pointing theorem and
+explain each of the terms. (10)
+ee a°H
+b). Prove that V?E = pe ae and V?H= pe a (10)
 ````

@@ -14,13 +14,13 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Engineering Thermodynamics(702ME0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | B TECH / MECHANICAL | Engineering Themodynamics 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | BTech Mechanical 7003, Integrated Mechanical 7031 | QP_Engineering Thermodynamics(702ME0C026)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Engineering Thermodynamics(702ME0C026)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Engineering Thermodynamics(702ME0C004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Engineering Thermodynamics(702ME0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech Mechanical 7003 | QP_Engineering Thermodynamics(702ME0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | Integrated Mechanical 7031 | QP_Engineering Thermodynamics(702ME0C004)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Engineering Thermodynamics(702ME0C026)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Mechanical 7031 | ANS_Engineering Thermodynamics(702ME0C004)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Engineering Thermodynamics Batch 2024-25 Final Batch 22-23,2023-24 Re Exam (1).pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Engineering Thermodynamics, Sem-III, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Engineering Thermodynamics, Sem-III, Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |

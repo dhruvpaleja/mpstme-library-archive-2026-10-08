@@ -636,6 +636,7 @@ a [3
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM IV/Quantity Surveying & Estimation/Quantity Surveying & Estimation 2017-18 Final.pdf`
 - Printed on paper: duration hours: 3; exam date: 06 November 2017
 - Text: ocr (3 pages), mean OCR confidence 78.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 eit OF by, .
@@ -803,7 +804,6 @@ A
 99,38 é —_
 LE NT PO) if
 g& eee et 7 5
-of oc Pv Lad Pema f i Sl
 
 ba NY
 
@@ -1036,6 +1036,7 @@ Fes! / @.No.1)
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM IV/Quantity Surveying & Estimation/Quantity Surveying & Estimation 2016-17 Final.pdf`
 - Printed on paper: exam date: 14 November 2016
 - Text: ocr (2 pages), mean OCR confidence 82.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1144,7 +1145,6 @@ Plan
 ly cRCc- M20, isc thick
 i .
 
-EN eA a aA AT GL
 
 ‘Spm 19g
 Ay plaskev jn 165 CM, Vob bao

@@ -2,13 +2,14 @@
 
 Answer keys and model answers published on the portal, newest first.
 
-## 2025 · Final-Exam · Sem 9 · Answer key · paper 4a5904f557f8
+## 2025-26 · Final-Exam · Sem 9 · Answer key · paper 4a5904f557f8
 
 - Departments: Computer Engineering
 - Programmes: MBATech Computer 7047
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech_Computer_7047/Project Procurement Management,Contract_3bcc32f3/ANS_Project Procurement Management,Contract Administration & Claims Management(70_7e795f4c.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 18 Dec 2025
 - Text: mixed (8 pages), mean OCR confidence 29.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -358,7 +359,7 @@ BL:- 6;   Solution:
 FIC QF EH 1
 ````
 
-## 2025 · Final-Exam · Sem 10 · Answer key · paper 1aa61157ab62
+## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 1aa61157ab62
 
 - Departments: Mechanical
 - Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
@@ -516,7 +517,7 @@ Covers loss of profit due to asset damage.
 ********** 4 **********
 ````
 
-## 2025 · Final-Exam · Sem 10 · Answer key · paper 5c52ca22f737
+## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 5c52ca22f737
 
 - Departments: Artificial Intelligence
 - Programmes: MBATech AI 7051
@@ -674,7 +675,7 @@ Covers loss of profit due to asset damage.
 ********** 4 **********
 ````
 
-## 2025 · Final-Exam · Sem 10 · Answer key · paper 5864a7f5d9f3
+## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 5864a7f5d9f3
 
 - Departments: Computer Engineering
 - Programmes: MBATech Computer 7047
@@ -832,7 +833,7 @@ Covers loss of profit due to asset damage.
 ********** 4 **********
 ````
 
-## 2025 · Final-Exam · Sem 10 · Answer key · paper c5b2ce22b431
+## 2025-26 · Final-Exam · Sem 10 · Answer key · paper c5b2ce22b431
 
 - Departments: Data Science
 - Programmes: MBATech DS 7052
@@ -990,7 +991,7 @@ Covers loss of profit due to asset damage.
 ********** 4 **********
 ````
 
-## 2025 · Final-Exam · Sem 10 · Answer key · paper dd41bd5397e0
+## 2025-26 · Final-Exam · Sem 10 · Answer key · paper dd41bd5397e0
 
 - Departments: Information Technology
 - Programmes: MBATech IT 7041
@@ -1148,7 +1149,7 @@ Covers loss of profit due to asset damage.
 ********** 4 **********
 ````
 
-## 2024 · Final-Exam · Sem 9 · Answer key · paper e2aa31d22f1a
+## 2024-25 · Final-Exam · Sem 9 · Answer key · paper e2aa31d22f1a
 
 - Departments: Chemical
 - Programmes: MBATech(CHEMICAL ENGINEERING) - 7045
@@ -1363,7 +1364,7 @@ outsource.
 Page 7 of 7
 ````
 
-## 2024 · Final-Exam · Sem 9 · Answer key · paper c001bf64737b
+## 2024-25 · Final-Exam · Sem 9 · Answer key · paper c001bf64737b
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBATech(ELECTRONICS & TELECOMMUNICATION
@@ -1578,7 +1579,7 @@ outsource.
 Page 7 of 7
 ````
 
-## 2024 · Final-Exam · Sem 9 · Answer key · paper d90f2d52850b
+## 2024-25 · Final-Exam · Sem 9 · Answer key · paper d90f2d52850b
 
 - Departments: Mechanical
 - Programmes: MBATech(MECHANICAL ENGINEERING) - 7046
@@ -1793,7 +1794,7 @@ outsource.
 Page 7 of 7
 ````
 
-## 2024 · Final-Exam · Sem 9 · Answer key · paper 52b76f1dbd83
+## 2024-25 · Final-Exam · Sem 9 · Answer key · paper 52b76f1dbd83
 
 - Departments: Computer Engineering
 - Programmes: MBATech Computer 7047
@@ -2008,7 +2009,7 @@ outsource.
 Page 7 of 7
 ````
 
-## 2024 · Final-Exam · Sem 9 · Answer key · paper db114481fd91
+## 2024-25 · Final-Exam · Sem 9 · Answer key · paper db114481fd91
 
 - Departments: Information Technology
 - Programmes: MBATech IT 7041
@@ -2223,7 +2224,7 @@ outsource.
 Page 7 of 7
 ````
 
-## 2024 · Re-Exam · Sem 9 · Answer key · paper de55327c8298
+## 2024-25 · Re-Exam · Sem 9 · Answer key · paper de55327c8298
 
 - Departments: Mechanical
 - Programmes: MBATech(MECHANICAL ENGINEERING) - 7046

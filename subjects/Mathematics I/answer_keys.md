@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2025-2026.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 25 Nov 2025
 - Text: mixed (11 pages), mean OCR confidence 36.1
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -130,12 +132,10 @@ ud fa th t
 2 lel Do Deawra, M> Music, A> Av
 WD)=1G, ACM) 227, WA) = ZO, WEY) = 40> MCDUM VA)
 HCDAM)R=T » HCMNAD=IZ WEBAMNA) = 4 —ED
-n(DuMmuU Ar CDA 16M) 4 4(A)-HCDA MY-MCMAAY N(D ra)aR(DAMmnA )
 yor \@+ 2TALTO-7-\2-WCDOA)+
 
 n(DAR)y= %O-4d = 10 - (8)
 
-“AC DAA aval mel Mass) Ww (DAA) ~ MIDOAAMS
 
 ay A | =yor%
 8
@@ -268,7 +268,6 @@ FEI QF IG Ir
 --- page 10 ---
 6) AYU US SKA ginbe)t sin B Sif C-A)t Sim C- Gin (AB)
 Sin A (Sim Bosc ~ CorB sin C4 5inB (sin Coos — esCsivAl)
-+ sin C- Csim A wsB- wsihsin®) —— Ky,
 = ginf) Sin Bos - Sim A CooB bind + sin Bond 5 A
 —Sin Bos Csin A A Sind bimC€ co3B — Sim COSA Sin 3-2)
 
@@ -281,7 +280,6 @@ ae A a 7 a ©
 
 -\¢
 
-7) OG 0g) )(a") = se) te D.
 
 = a
 
@@ -305,7 +303,6 @@ RNA seed = § OD
 x! 43 = xt 412
 fe 0)?
 Hr the
-; Sinte x, +t Xs pherefore Le Sushi om ty not,
 Q)   sy= 400
 ete e?
 a, = el =
@@ -326,7 +323,6 @@ p= Curry VU ay {D
 Be (VZV NG 179 ~(V)
 
 RUS= Aug §1, 13,15,16,17, 195
-" RAS= RWS Hence seri fred
 
 Pps —O a
 Der, Dye d.26 —@
@@ -352,6 +348,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 38.7
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -399,7 +397,6 @@ Zz gi OS 3
 ib
 - tt
 Ss —G
-cee ee, pL oe Te Be
 3 6
 -T4+
 3 3
@@ -470,10 +467,8 @@ Pia angle = 3% = 50° — > 371° —(p
 v Mey 1S ER =)
 
 >) bet I\ > Makhemeics y $= Stotisbies , CPV ben putes Scienle
-nem=40, w(S)= %-n(C)= 60, wCL)= eae n(MUSvO)
 n(imns = 18, W(SAC)= 2, W(CAM) = 22: ND
 
-A(MUS VO = HCN) WES) WCDO= HLMAS) —W(SNO —M (EAM) 5N0)
 yoos HOF GO +60 -\g-2O- 22 4MOMNSNC)
 
 wCMNSNC)=10 —'e)
@@ -678,7 +673,6 @@ A'=$1, 3,5 % 4, J04 WD
 B- {4,6 %,4 10% ©
 
 RUS= Aaglef, @ 10}
-+ LUS=RKS   Remce Vevi Sied —(])
 
 © D=-10 {2
 Ba 225 Dy= "Si, pips ew —@
@@ -698,6 +692,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 38.7
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -745,7 +741,6 @@ Zz gi OS 3
 ib
 - tt
 Ss —G
-cee ee, pL oe Te Be
 3 6
 -T4+
 3 3
@@ -816,10 +811,8 @@ Pia angle = 3% = 50° — > 371° —(p
 v Mey 1S ER =)
 
 >) bet I\ > Makhemeics y $= Stotisbies , CPV ben putes Scienle
-nem=40, w(S)= %-n(C)= 60, wCL)= eae n(MUSvO)
 n(imns = 18, W(SAC)= 2, W(CAM) = 22: ND
 
-A(MUS VO = HCN) WES) WCDO= HLMAS) —W(SNO —M (EAM) 5N0)
 yoos HOF GO +60 -\g-2O- 22 4MOMNSNC)
 
 wCMNSNC)=10 —'e)
@@ -1024,7 +1017,6 @@ A'=$1, 3,5 % 4, J04 WD
 B- {4,6 %,4 10% ©
 
 RUS= Aaglef, @ 10}
-+ LUS=RKS   Remce Vevi Sied —(])
 
 © D=-10 {2
 Ba 225 Dy= "Si, pips ew —@
@@ -1044,6 +1036,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 38.7
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1091,7 +1085,6 @@ Zz gi OS 3
 ib
 - tt
 Ss —G
-cee ee, pL oe Te Be
 3 6
 -T4+
 3 3
@@ -1162,10 +1155,8 @@ Pia angle = 3% = 50° — > 371° —(p
 v Mey 1S ER =)
 
 >) bet I\ > Makhemeics y $= Stotisbies , CPV ben putes Scienle
-nem=40, w(S)= %-n(C)= 60, wCL)= eae n(MUSvO)
 n(imns = 18, W(SAC)= 2, W(CAM) = 22: ND
 
-A(MUS VO = HCN) WES) WCDO= HLMAS) —W(SNO —M (EAM) 5N0)
 yoos HOF GO +60 -\g-2O- 22 4MOMNSNC)
 
 wCMNSNC)=10 —'e)
@@ -1370,7 +1361,6 @@ A'=$1, 3,5 % 4, J04 WD
 B- {4,6 %,4 10% ©
 
 RUS= Aaglef, @ 10}
-+ LUS=RKS   Remce Vevi Sied —(])
 
 © D=-10 {2
 Ba 225 Dy= "Si, pips ew —@
@@ -1390,6 +1380,8 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Dec 2024
 - Text: mixed (13 pages), mean OCR confidence 40.4
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1439,7 +1431,6 @@ eo -2+4% o-s+ 2 Is—o+
 
 = 2 o a -
 L 2 2 zee Hy)
-cc) ci D2 Aegxt x tsa Bou cso of 402
 
 P= 1,4,45,%, 10, 22,4 oF —Gr>
 
@@ -1530,7 +1521,6 @@ FIC 7) IC HOH
 --- page 5 ---
 Ze
 wo HD atl, 802 K _ _&e
-ory og (ada tL 909 = Hx) =x] . a”)
 
 1) SoH 4 [Mx7) = gti) = (ar) -e@")
 Givi) A > § [HO} = FLAN) = Logan _ 3)
@@ -1544,7 +1534,6 @@ a
 ad
 mata > A+ Bo y+ © _ — 4) 4H
 (HAV (Ae CXt 8) fe ca HTD AX3
-ry gas ACArAMITZIA B(axlI C34 € Catrrg IM)
 
 7 LW
 
@@ -1660,7 +1649,6 @@ iv) BND {2}
 
 RRRRRRRRRE 7 RRR
 --- page 8 ---
-) fap) Heiman + Cott > 2 tosecae
 
 a
 
@@ -1766,7 +1754,6 @@ a «| a CALF a
 { Pp, rx, rys. $25, 2% 44, £4 FE} T1277
 eg. perma 3%— 2, FOrMIa IB
 
-Ci DHF &GIHIS —-AOBRK—AIAG (K-37)
 = 6x- + +4anx-—la
 
 Ss joa -l6
@@ -1787,7 +1774,6 @@ Sim (At BI4 SINCA-B? Hem
 co SLAXB) & CoSCA-B)
 
 Sin Cos Br Cos PSINB4 SIM (OSB-COrPMing
-CosW cos 3-51 Anh + CoS AOS B+ SINFSINE
 
 > SI55NA OSB (a>
 
@@ -1821,14 +1807,12 @@ o* A ay i
 5 F 3, | ey
 AAS A = cT= = 3 5 , 1 35
 ons 30) # | ets set ts
-ae -s Il] 14l F Pa tal
 2 alg - . ai)
 A 3 os
 1 (> [3 | z | ‘|
 —s-" G -
 202
 
-Pato Ag, Yi yi a] eg)
 
 FRI ICR 7 FI OH
 --- page 12 ---
@@ -1856,7 +1840,6 @@ Thy shows Hug goe=Z,,
 WRAdeo hb,
 b)
 Cb) — tea (4 tan (2. nt ae — 8)
-MIM delay Fealyn 4, cay 7
 fo J es
 ACS )* Fema (2 BD es seg wee
 Bark,
@@ -1917,6 +1900,8 @@ FIR ICR 7] QI HO
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Dec 2024
 - Text: mixed (13 pages), mean OCR confidence 40.4
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1966,7 +1951,6 @@ eo -2+4% o-s+ 2 Is—o+
 
 = 2 o a -
 L 2 2 zee Hy)
-cc) ci D2 Aegxt x tsa Bou cso of 402
 
 P= 1,4,45,%, 10, 22,4 oF —Gr>
 
@@ -2057,7 +2041,6 @@ FIC 7) IC HOH
 --- page 5 ---
 Ze
 wo HD atl, 802 K _ _&e
-ory og (ada tL 909 = Hx) =x] . a”)
 
 1) SoH 4 [Mx7) = gti) = (ar) -e@")
 Givi) A > § [HO} = FLAN) = Logan _ 3)
@@ -2071,7 +2054,6 @@ a
 ad
 mata > A+ Bo y+ © _ — 4) 4H
 (HAV (Ae CXt 8) fe ca HTD AX3
-ry gas ACArAMITZIA B(axlI C34 € Catrrg IM)
 
 7 LW
 
@@ -2187,7 +2169,6 @@ iv) BND {2}
 
 RRRRRRRRRE 7 RRR
 --- page 8 ---
-) fap) Heiman + Cott > 2 tosecae
 
 a
 
@@ -2293,7 +2274,6 @@ a «| a CALF a
 { Pp, rx, rys. $25, 2% 44, £4 FE} T1277
 eg. perma 3%— 2, FOrMIa IB
 
-Ci DHF &GIHIS —-AOBRK—AIAG (K-37)
 = 6x- + +4anx-—la
 
 Ss joa -l6
@@ -2314,7 +2294,6 @@ Sim (At BI4 SINCA-B? Hem
 co SLAXB) & CoSCA-B)
 
 Sin Cos Br Cos PSINB4 SIM (OSB-COrPMing
-CosW cos 3-51 Anh + CoS AOS B+ SINFSINE
 
 > SI55NA OSB (a>
 
@@ -2348,14 +2327,12 @@ o* A ay i
 5 F 3, | ey
 AAS A = cT= = 3 5 , 1 35
 ons 30) # | ets set ts
-ae -s Il] 14l F Pa tal
 2 alg - . ai)
 A 3 os
 1 (> [3 | z | ‘|
 —s-" G -
 202
 
-Pato Ag, Yi yi a] eg)
 
 FRI ICR 7 FI OH
 --- page 12 ---
@@ -2383,7 +2360,6 @@ Thy shows Hug goe=Z,,
 WRAdeo hb,
 b)
 Cb) — tea (4 tan (2. nt ae — 8)
-MIM delay Fealyn 4, cay 7
 fo J es
 ACS )* Fema (2 BD es seg wee
 Bark,
@@ -2444,6 +2420,8 @@ FIR ICR 7] QI HO
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Dec 2024
 - Text: mixed (13 pages), mean OCR confidence 40.4
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2493,7 +2471,6 @@ eo -2+4% o-s+ 2 Is—o+
 
 = 2 o a -
 L 2 2 zee Hy)
-cc) ci D2 Aegxt x tsa Bou cso of 402
 
 P= 1,4,45,%, 10, 22,4 oF —Gr>
 
@@ -2584,7 +2561,6 @@ FIC 7) IC HOH
 --- page 5 ---
 Ze
 wo HD atl, 802 K _ _&e
-ory og (ada tL 909 = Hx) =x] . a”)
 
 1) SoH 4 [Mx7) = gti) = (ar) -e@")
 Givi) A > § [HO} = FLAN) = Logan _ 3)
@@ -2598,7 +2574,6 @@ a
 ad
 mata > A+ Bo y+ © _ — 4) 4H
 (HAV (Ae CXt 8) fe ca HTD AX3
-ry gas ACArAMITZIA B(axlI C34 € Catrrg IM)
 
 7 LW
 
@@ -2714,7 +2689,6 @@ iv) BND {2}
 
 RRRRRRRRRE 7 RRR
 --- page 8 ---
-) fap) Heiman + Cott > 2 tosecae
 
 a
 
@@ -2820,7 +2794,6 @@ a «| a CALF a
 { Pp, rx, rys. $25, 2% 44, £4 FE} T1277
 eg. perma 3%— 2, FOrMIa IB
 
-Ci DHF &GIHIS —-AOBRK—AIAG (K-37)
 = 6x- + +4anx-—la
 
 Ss joa -l6
@@ -2841,7 +2814,6 @@ Sim (At BI4 SINCA-B? Hem
 co SLAXB) & CoSCA-B)
 
 Sin Cos Br Cos PSINB4 SIM (OSB-COrPMing
-CosW cos 3-51 Anh + CoS AOS B+ SINFSINE
 
 > SI55NA OSB (a>
 
@@ -2875,14 +2847,12 @@ o* A ay i
 5 F 3, | ey
 AAS A = cT= = 3 5 , 1 35
 ons 30) # | ets set ts
-ae -s Il] 14l F Pa tal
 2 alg - . ai)
 A 3 os
 1 (> [3 | z | ‘|
 —s-" G -
 202
 
-Pato Ag, Yi yi a] eg)
 
 FRI ICR 7 FI OH
 --- page 12 ---
@@ -2910,7 +2880,6 @@ Thy shows Hug goe=Z,,
 WRAdeo hb,
 b)
 Cb) — tea (4 tan (2. nt ae — 8)
-MIM delay Fealyn 4, cay 7
 fo J es
 ACS )* Fema (2 BD es seg wee
 Bark,
@@ -2971,6 +2940,8 @@ FIR ICR 7] QI HO
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Dec 2024
 - Text: mixed (13 pages), mean OCR confidence 40.4
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3020,7 +2991,6 @@ eo -2+4% o-s+ 2 Is—o+
 
 = 2 o a -
 L 2 2 zee Hy)
-cc) ci D2 Aegxt x tsa Bou cso of 402
 
 P= 1,4,45,%, 10, 22,4 oF —Gr>
 
@@ -3111,7 +3081,6 @@ FIC 7) IC HOH
 --- page 5 ---
 Ze
 wo HD atl, 802 K _ _&e
-ory og (ada tL 909 = Hx) =x] . a”)
 
 1) SoH 4 [Mx7) = gti) = (ar) -e@")
 Givi) A > § [HO} = FLAN) = Logan _ 3)
@@ -3125,7 +3094,6 @@ a
 ad
 mata > A+ Bo y+ © _ — 4) 4H
 (HAV (Ae CXt 8) fe ca HTD AX3
-ry gas ACArAMITZIA B(axlI C34 € Catrrg IM)
 
 7 LW
 
@@ -3241,7 +3209,6 @@ iv) BND {2}
 
 RRRRRRRRRE 7 RRR
 --- page 8 ---
-) fap) Heiman + Cott > 2 tosecae
 
 a
 
@@ -3347,7 +3314,6 @@ a «| a CALF a
 { Pp, rx, rys. $25, 2% 44, £4 FE} T1277
 eg. perma 3%— 2, FOrMIa IB
 
-Ci DHF &GIHIS —-AOBRK—AIAG (K-37)
 = 6x- + +4anx-—la
 
 Ss joa -l6
@@ -3368,7 +3334,6 @@ Sim (At BI4 SINCA-B? Hem
 co SLAXB) & CoSCA-B)
 
 Sin Cos Br Cos PSINB4 SIM (OSB-COrPMing
-CosW cos 3-51 Anh + CoS AOS B+ SINFSINE
 
 > SI55NA OSB (a>
 
@@ -3402,14 +3367,12 @@ o* A ay i
 5 F 3, | ey
 AAS A = cT= = 3 5 , 1 35
 ons 30) # | ets set ts
-ae -s Il] 14l F Pa tal
 2 alg - . ai)
 A 3 os
 1 (> [3 | z | ‘|
 —s-" G -
 202
 
-Pato Ag, Yi yi a] eg)
 
 FRI ICR 7 FI OH
 --- page 12 ---
@@ -3437,7 +3400,6 @@ Thy shows Hug goe=Z,,
 WRAdeo hb,
 b)
 Cb) — tea (4 tan (2. nt ae — 8)
-MIM delay Fealyn 4, cay 7
 fo J es
 ACS )* Fema (2 BD es seg wee
 Bark,
@@ -3498,6 +3460,8 @@ FIR ICR 7] QI HO
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (13 pages), mean OCR confidence 39.7
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3577,7 +3541,6 @@ JY - x2 eP —
 
 FC QI a iar
 --- page 4 ---
-aS sy ley 244) a lo VA +09 VE
 c* z
 — + Sa Ft.
 Show red = a's
@@ -3611,7 +3574,6 @@ BAC H=34,53 Ki
 Av (GNO)= £234,353 ~~
 AUB> 723,453 , AVES 2,454,569
 2. (AUB IN CAU CD = 2 2,3,4,5 4 — 02)
-By wale, Avcéne) = (Avs) NC AUCD
 
 now,
 
@@ -3669,7 +3631,6 @@ o appre jure
 Let OD ve He Sep APWINMHnYy Studinis king
 Change Sk
 mtU) 2 G00, wlA 190, W(0)= 150, WiANO)ag5
-r wtAvo ) = wWAI*nCOJ—HWCANO)
 
 = \ouotlso-— FS
 
@@ -3679,7 +3640,6 @@ now nCAVe)’ = nlU)-— nA CUO)
 —— Loo —I1t5
 > 225
 
-pee 925 Strolrty tiking agri apelk vex orange
 gurk,
 
 Cc) UMS, a (OSsHsjngA— SINP (oS 5A
@@ -3688,7 +3648,6 @@ Cc) UMS, a (OSsHsjngA— SINP (oS 5A
 12 COSH COS FW —QSIWVASINIA
 a sin(9At34)> Sin (96 ~3A)—[sineer) —Siwse-9]
 cos(sA+A) * C5 C5A-A)—Feos( 99-34) ae |
-sinl2A + Siv4A— sry6PA+ SingA
 CoSSAtT (oS4A— CoSFA t Cos12 A
 => sini2zA + Sint
 CeS4A + (08124
@@ -3742,14 +3701,12 @@ Lb) =e) -a (0) + a*corJ
 
 1 Ce-
 tis Cb) CC-4 9 fl
-Se cbr aty Coma gee) Arde —Gr)
 
 Om
 Ce
 
 yeti jon
 
-A = t Bp tey Cc, os 3
 
 Als £1,3, 3,-~-J
 
@@ -3774,7 +3731,6 @@ sind Cos A
 & Ms OS Sinz — ceset
 sint Cos
 
-> SUsimAcosA _ (cos*A-sive ) —ery)
 sine Cost
 
 = 2. CosH — fCos* A — Cif s%q) (
@@ -3799,7 +3755,6 @@ Me w
 ho = x
 eet ety
 
-FIR QI a a a a a
 --- page 9 ---
 Oz mary foror
 
@@ -3856,7 +3811,6 @@ apa cr)
 LP, £03 Cbs, Ce, Ca, by, [0,64 fh} 4
 
 Go
-Way Atay HAV, QOD RxX-—3
 cw) aAhtA AYUMI = Z2CutI)D * 2(2%-3)
 = Barer &x-€
 
@@ -3911,13 +3865,11 @@ i: Rd By PF] |
 FRI ICR 7 FI OH
 --- page 12 ---
 a
-cee c#ompllt am aablriaty elim yey
 7.Y> SRG, EN
 See, Ye
 Ss
 Deine A: YN by 909)F a
 
-mow Gos us AsOT= g CSA 2 GHGs 2 x
 S yy
 avd poy. TLfyy - 41309" = (43) _~)
 = af 4B) + aya ty
@@ -3989,6 +3941,8 @@ FIR ICR 7] QI HO
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (13 pages), mean OCR confidence 39.7
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4068,7 +4022,6 @@ JY - x2 eP —
 
 FC QI a iar
 --- page 4 ---
-aS sy ley 244) a lo VA +09 VE
 c* z
 — + Sa Ft.
 Show red = a's
@@ -4102,7 +4055,6 @@ BAC H=34,53 Ki
 Av (GNO)= £234,353 ~~
 AUB> 723,453 , AVES 2,454,569
 2. (AUB IN CAU CD = 2 2,3,4,5 4 — 02)
-By wale, Avcéne) = (Avs) NC AUCD
 
 now,
 
@@ -4160,7 +4112,6 @@ o appre jure
 Let OD ve He Sep APWINMHnYy Studinis king
 Change Sk
 mtU) 2 G00, wlA 190, W(0)= 150, WiANO)ag5
-r wtAvo ) = wWAI*nCOJ—HWCANO)
 
 = \ouotlso-— FS
 
@@ -4170,7 +4121,6 @@ now nCAVe)’ = nlU)-— nA CUO)
 —— Loo —I1t5
 > 225
 
-pee 925 Strolrty tiking agri apelk vex orange
 gurk,
 
 Cc) UMS, a (OSsHsjngA— SINP (oS 5A
@@ -4179,7 +4129,6 @@ Cc) UMS, a (OSsHsjngA— SINP (oS 5A
 12 COSH COS FW —QSIWVASINIA
 a sin(9At34)> Sin (96 ~3A)—[sineer) —Siwse-9]
 cos(sA+A) * C5 C5A-A)—Feos( 99-34) ae |
-sinl2A + Siv4A— sry6PA+ SingA
 CoSSAtT (oS4A— CoSFA t Cos12 A
 => sini2zA + Sint
 CeS4A + (08124
@@ -4233,14 +4182,12 @@ Lb) =e) -a (0) + a*corJ
 
 1 Ce-
 tis Cb) CC-4 9 fl
-Se cbr aty Coma gee) Arde —Gr)
 
 Om
 Ce
 
 yeti jon
 
-A = t Bp tey Cc, os 3
 
 Als £1,3, 3,-~-J
 
@@ -4265,7 +4212,6 @@ sind Cos A
 & Ms OS Sinz — ceset
 sint Cos
 
-> SUsimAcosA _ (cos*A-sive ) —ery)
 sine Cost
 
 = 2. CosH — fCos* A — Cif s%q) (
@@ -4290,7 +4236,6 @@ Me w
 ho = x
 eet ety
 
-FIR QI a a a a a
 --- page 9 ---
 Oz mary foror
 
@@ -4347,7 +4292,6 @@ apa cr)
 LP, £03 Cbs, Ce, Ca, by, [0,64 fh} 4
 
 Go
-Way Atay HAV, QOD RxX-—3
 cw) aAhtA AYUMI = Z2CutI)D * 2(2%-3)
 = Barer &x-€
 
@@ -4402,13 +4346,11 @@ i: Rd By PF] |
 FRI ICR 7 FI OH
 --- page 12 ---
 a
-cee c#ompllt am aablriaty elim yey
 7.Y> SRG, EN
 See, Ye
 Ss
 Deine A: YN by 909)F a
 
-mow Gos us AsOT= g CSA 2 GHGs 2 x
 S yy
 avd poy. TLfyy - 41309" = (43) _~)
 = af 4B) + aya ty
@@ -4480,6 +4422,8 @@ FIR ICR 7] QI HO
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Mathematics-I/ANS_Mathematics-I(701BS0C018)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (13 pages), mean OCR confidence 39.7
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4559,7 +4503,6 @@ JY - x2 eP —
 
 FC QI a iar
 --- page 4 ---
-aS sy ley 244) a lo VA +09 VE
 c* z
 — + Sa Ft.
 Show red = a's
@@ -4593,7 +4536,6 @@ BAC H=34,53 Ki
 Av (GNO)= £234,353 ~~
 AUB> 723,453 , AVES 2,454,569
 2. (AUB IN CAU CD = 2 2,3,4,5 4 — 02)
-By wale, Avcéne) = (Avs) NC AUCD
 
 now,
 
@@ -4651,7 +4593,6 @@ o appre jure
 Let OD ve He Sep APWINMHnYy Studinis king
 Change Sk
 mtU) 2 G00, wlA 190, W(0)= 150, WiANO)ag5
-r wtAvo ) = wWAI*nCOJ—HWCANO)
 
 = \ouotlso-— FS
 
@@ -4661,7 +4602,6 @@ now nCAVe)’ = nlU)-— nA CUO)
 —— Loo —I1t5
 > 225
 
-pee 925 Strolrty tiking agri apelk vex orange
 gurk,
 
 Cc) UMS, a (OSsHsjngA— SINP (oS 5A
@@ -4670,7 +4610,6 @@ Cc) UMS, a (OSsHsjngA— SINP (oS 5A
 12 COSH COS FW —QSIWVASINIA
 a sin(9At34)> Sin (96 ~3A)—[sineer) —Siwse-9]
 cos(sA+A) * C5 C5A-A)—Feos( 99-34) ae |
-sinl2A + Siv4A— sry6PA+ SingA
 CoSSAtT (oS4A— CoSFA t Cos12 A
 => sini2zA + Sint
 CeS4A + (08124
@@ -4724,14 +4663,12 @@ Lb) =e) -a (0) + a*corJ
 
 1 Ce-
 tis Cb) CC-4 9 fl
-Se cbr aty Coma gee) Arde —Gr)
 
 Om
 Ce
 
 yeti jon
 
-A = t Bp tey Cc, os 3
 
 Als £1,3, 3,-~-J
 
@@ -4756,7 +4693,6 @@ sind Cos A
 & Ms OS Sinz — ceset
 sint Cos
 
-> SUsimAcosA _ (cos*A-sive ) —ery)
 sine Cost
 
 = 2. CosH — fCos* A — Cif s%q) (
@@ -4781,7 +4717,6 @@ Me w
 ho = x
 eet ety
 
-FIR QI a a a a a
 --- page 9 ---
 Oz mary foror
 
@@ -4838,7 +4773,6 @@ apa cr)
 LP, £03 Cbs, Ce, Ca, by, [0,64 fh} 4
 
 Go
-Way Atay HAV, QOD RxX-—3
 cw) aAhtA AYUMI = Z2CutI)D * 2(2%-3)
 = Barer &x-€
 
@@ -4893,13 +4827,11 @@ i: Rd By PF] |
 FRI ICR 7 FI OH
 --- page 12 ---
 a
-cee c#ompllt am aablriaty elim yey
 7.Y> SRG, EN
 See, Ye
 Ss
 Deine A: YN by 909)F a
 
-mow Gos us AsOT= g CSA 2 GHGs 2 x
 S yy
 avd poy. TLfyy - 41309" = (43) _~)
 = af 4B) + aya ty

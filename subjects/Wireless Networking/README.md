@@ -1,6 +1,6 @@
 # Wireless Networking
 
-**22** unique papers (23 copies across programmes) · 2013-14 to 2019-20 · 2 programmes · Sem 5, Sem 6
+**23** unique papers (24 copies across programmes) · 2013-14 to 2019-20 · 2 programmes · Sem 5, Sem 6
 
 Download only this subject, sorted by academic year:
 
@@ -20,6 +20,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2018-19 | Re-Exam | Question paper | Sem 5 | MBA TECH / I T | Wireless Networking F 18-19 Re 17-18.pdf |
 | 2017-18 | — | Question paper | Sem 5 | MBA TECH / I T | Wireless Networking 2017-18 (IT).pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 6 | B TECH / I T | WIRELESS_NETWORKING_(IT)__2017-18_FIANL_EXAM_.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 5 | MBA TECH / I T | WIRELESS NETWORKING 2017-2018 Final.pdf [1] |
 | 2017-18 | Re-Exam | Question paper | Sem 6 | B TECH / I T | WIRELESS_NETWORKING_ B TECH (IT), BATCH_17-18_RE_EXAM_.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 6 | B TECH / I T | WIRELESS_NETWORKING_BATCH_14-15_16-17_RE_EXAM_2017-18_.pdf |
 | 2016-17 | Final-Exam, Re-Exam | Question paper | Sem 6 | B TECH / I T | WIRELESS_NETWORKING_16-17_FINAL_EXAM_.pdf |
@@ -36,5 +37,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2013-14 | Re-Exam | Question paper | Sem 5 | B TECH / I T | WIRELESS NETWORKING B TECH (IT), BATCH 2013-14 RE EXAM.pdf |
 | — | Final-Exam | Question paper | Sem 6 | B TECH / I T | WIRELESS_NETWORKING_B_TECH_(IT),_FINAL_EXAM.pdf |
 | — | Re-Exam | Question paper | Sem 5 | MBA TECH / I T | wireless networking Re-exam 17-18-19.pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "WIRELESS COMMUNICATION" but the paper is headed "Wireless Networking"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

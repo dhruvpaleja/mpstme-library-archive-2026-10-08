@@ -16,21 +16,21 @@ Also filed as: `DATA WAREHOSUING AND MIINING`, `DATAWARE HOUSING AND MINING`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Data Warehousing and Mining(702IT0C012)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CyberSecurity 7010 | QP_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech IT 7001 | QP_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated IT 7037 | QP_Data Warehousing and Mining(702IT0C012)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech IT 7041 | QP_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Data Warehousing and Mining(702IT0C012)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Data Warehousing and Mining(702IT0C012)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / COMPUTER, MBA TECH / I T | Data Warehousing and Mining Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech IT 7001 | QP_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated IT 7037 | QP_Data Warehousing and Mining(702IT0C012)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | MBATech IT 7041 | QP_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Data Warehousing and Mining(702IT0C012)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T | Data Warehousing and Mining, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T | Data Warehousing & Mining ,Re-exam 2021-22,2022-23,2023-24.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T | Data Warehousing & Mining, Sem-IV, Final & Re Exam 2021-22 & 2022-23.pdf |

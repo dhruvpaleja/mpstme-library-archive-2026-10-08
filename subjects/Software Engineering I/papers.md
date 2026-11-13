@@ -11,11 +11,11 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/SOFTWARE ENGINEERING I/2008-2009 I(2).pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16-01-09
 - Text: ocr (2 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS UNIVERSITY
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
-ENGINEERING 3 xMe UnversiY Yeo
 
 =<
 Mumbai - 56. )z
@@ -554,6 +554,7 @@ Draw at least four screen layouts to show the working of your system.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/SOFTWARE ENGINEERING I/2005-2006(31).pdf` (+1 identical copies)
 - Printed on paper: duration hours: 3; exam date: 19/01/2006
 - Text: ocr (1 page), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NARSEE MONJEE INSTITUTE OF MANAG
@@ -565,7 +566,6 @@ COURSE : MBATECH 7] y@Oxr TRIMESTER: wy. COS~ ve)
 SUBJECT : SOFWARE ENGINEERING
 DATE : 19/01/2006 Ix Am “ papers 100
 TIME : 3 HOURS NBL & b
-Cacopm-Go0pn) LINRE —T Tora1 MAAR
 
 Question 1 is compulsory. Solve any two from Q. 2, Q.3 and Q.4 AND any two
 from Q.5, Q.6 and Q.7

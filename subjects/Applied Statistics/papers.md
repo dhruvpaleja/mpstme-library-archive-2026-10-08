@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM I/Applied Statistics/Applied Statistics Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (11 pages), mean OCR confidence 73.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -262,7 +263,6 @@ LI | .3643 | 3665 | .3686 | .3708 | 3729 | .3749 | 3770 | .379Q | 3810 | .3830
 3.4 | 4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4998
 3.5 | 4998 | .4998 | 4998 | .4998 | .4998 | .4998 | 4998 | .4998 | .4998 | 4998
 
-Gilles Cazelais. Typeset with IATEX on April 20, 2006.
 --- page 5 ---
 t Table
 

@@ -1090,6 +1090,109 @@ What is the significance of Sparse vectors in hash table applications?
 
 ````
 
+## 2023-24 · Exam not stated · Sem 6 · paper 6ad18606d49e
+
+- Departments: Data Science
+- Programmes: MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM VI/Advance Data Structure for Analysis/Advance Data Structure for Analysis.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17/04 /2024
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS {
+
+[=i MPSTM?E
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING / SCHOOE OF
+
+TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2023 -2024 {0 =e
+Program/s: MBA Tech Year: II] Semester: VI
+Stream/s: MBA Tech. (DS)
+Subject: Advance Data Structure for Analysts Time: 3 hrs @00 pm to 5.00pm)
+Date: 17/04 /2024 No. of Pages: 2
+
+Marks: 100
+
+Final Examination
+
+instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql [20]
+CO-1;SO- | a. | What is the Union-Find problem, and how does it relate to dynamic 5
+1; BL-2 connectivity in graph theory?
+CO-2;SO- |b. | Explain the concept of shuffling and its relevance in the context of sorting 5
+1; BL-1 algorithms?
+CO-3; SO- | c. | How does a Kd-tree differ from a traditional BST, and what geometric problems | 5
+1; BL-2
+
+are typically solved using Kd-trees?
+
+CO-2;SO- | d. | Define priority queue, and explain how does it differ from a regular queue in| 5
+
+a El erms of its underlying structure and operations?
+
+Q2
+
+CO-1;SO- | a. | Write a class that initializes an id array with N objects. Implement the [10]
+1; BL-6 connected method to check if two objects are connected and the union method
+
+to merge two components if they are not already connected.
+CO-1;SO- |b. | Write a function for merge sort and analyze the time complexity of merge sort. [10]
+1; BL-4
+Q3
+CO-3;SO- | a. | Write a class for a dynamic stack that expands as needed also include methods | [10]
+1; BL-6 for push and pop operations.
+
+pe. i
+--- page 2 ---
+CO-2;SO- | b. | Discuss the heap sort algorithm’s time and space complexity. Writge its [10]
+1: BLS algorithm using a binary heap.
+
+Q4
+
+CO-1;SO- | a. | How does the delete operation work in a binary search tree, and what are the [10]
+
+1; BL-2 key steps involved in maintaining the tree's properties after deletion?
+
+CO-2;SO- | b. Create a function “search” that searches for a key in a BST and returns True if | [10]
+1: BL-6 the key exists and False otherwise.
+
+Q5
+CO-3; SO- | a. | Write a class Red Black Tree with an insert method to insert a new key while | [10]
+1: BL-6 maintaining the red-black tree properties.
+
+CO-3; SO- | b. | How does a 2-3 tree differ from other balanced search trees, and what are its [10]
+
+1; BL-3 key properties and advantages?
+
+Q6
+
+CO-2;SO- | a. | Explain how linear probing-technique address collisions in hash tables, and [10]
+1; BL-4 what are the advantages and disadvantages of each approach?
+
+CO-2; SO- | b. | Demonstrate a class for a hash table that uses separate chaining for collision [10]
+
+1: BL-6 resolution containing Include methods for insertion, deletion, and search.
+
+PE. <
+````
+
 ## 2023-24 · Final-Exam · Sem 6 · paper eb8491ec43c6
 
 - Departments: Data Science
@@ -1666,107 +1769,4 @@ example and show how Huffman encoding works ? Also explain why
 Huffman encoding is suitable for only text files (10 marks)
 
 2/2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 6ad18606d49e
-
-- Departments: Data Science
-- Programmes: MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM VI/Advance Data Structure for Analysis/Advance Data Structure for Analysis.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 17/04 /2024
-- Text: ocr (2 pages), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS {
-
-[=i MPSTM?E
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING / SCHOOE OF
-
-TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2023 -2024 {0 =e
-Program/s: MBA Tech Year: II] Semester: VI
-Stream/s: MBA Tech. (DS)
-Subject: Advance Data Structure for Analysts Time: 3 hrs @00 pm to 5.00pm)
-Date: 17/04 /2024 No. of Pages: 2
-
-Marks: 100
-
-Final Examination
-
-instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql [20]
-CO-1;SO- | a. | What is the Union-Find problem, and how does it relate to dynamic 5
-1; BL-2 connectivity in graph theory?
-CO-2;SO- |b. | Explain the concept of shuffling and its relevance in the context of sorting 5
-1; BL-1 algorithms?
-CO-3; SO- | c. | How does a Kd-tree differ from a traditional BST, and what geometric problems | 5
-1; BL-2
-
-are typically solved using Kd-trees?
-
-CO-2;SO- | d. | Define priority queue, and explain how does it differ from a regular queue in| 5
-
-a El erms of its underlying structure and operations?
-
-Q2
-
-CO-1;SO- | a. | Write a class that initializes an id array with N objects. Implement the [10]
-1; BL-6 connected method to check if two objects are connected and the union method
-
-to merge two components if they are not already connected.
-CO-1;SO- |b. | Write a function for merge sort and analyze the time complexity of merge sort. [10]
-1; BL-4
-Q3
-CO-3;SO- | a. | Write a class for a dynamic stack that expands as needed also include methods | [10]
-1; BL-6 for push and pop operations.
-
-pe. i
---- page 2 ---
-CO-2;SO- | b. | Discuss the heap sort algorithm’s time and space complexity. Writge its [10]
-1: BLS algorithm using a binary heap.
-
-Q4
-
-CO-1;SO- | a. | How does the delete operation work in a binary search tree, and what are the [10]
-
-1; BL-2 key steps involved in maintaining the tree's properties after deletion?
-
-CO-2;SO- | b. Create a function “search” that searches for a key in a BST and returns True if | [10]
-1: BL-6 the key exists and False otherwise.
-
-Q5
-CO-3; SO- | a. | Write a class Red Black Tree with an insert method to insert a new key while | [10]
-1: BL-6 maintaining the red-black tree properties.
-
-CO-3; SO- | b. | How does a 2-3 tree differ from other balanced search trees, and what are its [10]
-
-1; BL-3 key properties and advantages?
-
-Q6
-
-CO-2;SO- | a. | Explain how linear probing-technique address collisions in hash tables, and [10]
-1; BL-4 what are the advantages and disadvantages of each approach?
-
-CO-2; SO- | b. | Demonstrate a class for a hash table that uses separate chaining for collision [10]
-
-1: BL-6 resolution containing Include methods for insertion, deletion, and search.
-
-PE. <
 ````

@@ -413,6 +413,7 @@ BL-3
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Introduction to Operating Systems/QP_Introduction to Operating Systems(701CO0C022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

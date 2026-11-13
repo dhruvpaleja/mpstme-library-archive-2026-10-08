@@ -986,6 +986,166 @@ f(t)
 (5]
 ````
 
+## 2023-24 · Re-Exam · Sem 3 · paper 3e46e75131ce
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/CIRCUITS AND NETWORK THEORY/Circuit & Network Theory, Sem-III, Batch 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/02/2024
+- Text: ocr (4 pages), mean OCR confidence 78.1
+
+````text
+SVKM’S NMIMS Re <<
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERIN(
+Academic Year: 2023-2024 ce
+Program: B. Tech. (EXTC) Year: I Semester: Il
+Subject: Circuit and Network Theory Time: 3 hrs (10 AM to 1 PM)
+Date: 12/02/2024 ; No. of Pages: 4
+
+Marks: 100
+
+-Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. ,
+
+1) Question No. _1__— is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary. ;
+
+Ql Answer briefly: -
+
+Pan al a. Define Thevenin’s theorem. Explain the steps with the help of a suitable diagram. | [41
+
+ty : SO-l; | b, Find I; and L using mesh analysis. [4]
+L-
+
+ut 74 @
++ +
+o> — a —
+vo Sm ~——_
+
+1902
+
+a 7 SO-1; | ¢, In the circuit shown, the switch K is closed at t=0. Find the value of di/dt at t=0+ | [4]
+L-
+
+when V=100V, R=1000 ohms, C=1yF.
+--- page 2 ---
+> >7-C
+CO SO-1; | d. Investigate whether P(s)=s°+2s'+4s*+6s*+2s+5 is Hurwitz. [4]
+CO-3;SO-1; | @, Test results for a two-port network are [4]
+BL-l (i) Port 2 short-circuited: V:=5020° V, 1)=2.12-30° A, b=-1112-20°A
+(ii) Port 1 short-circuited: V2=5020° V, b= 32-15° A, I1=-1.12-20° A
+Find Y-parameters.
+Q2 a. Compute Norton’s equivalent network at the terminals A and B. [10]
+CO-1; SO-1;
+BL-2 5Q
+1D 40
+to.za0 A (4)
+22 42
+8
+Q b. Define [4+6]
+CO-2; SO-1;
+BL-1 (i) Tree
+(ii) Rank of a graph
+(iii) Planar graph é
+(iv) Non-planar graph
+Also find the incidence matrix corresponding to this directed graph:
+Q3 a. Develop Y-parameters matrix of the network. [10]
+= CO-3; SO-1;
+BL-6
+--- page 3 ---
+f, 2a 20 20 ia
+WWiv Mie
+
+9 WW ° .
+o
+Vv; $1 Q S1 2 Vo
+3 : o
+Q3 b. Determine the z-parameters for the circuit in the following figure and then compute | [10]
+CO-3; SO-1; the current in a 4Q load ifa 240° V source is connected at the input port.
+BL-5 1, 122 2 OU
+OANA 0
+Fs +
+vy, 3 60 ¥,
+° 0
+Q4 a. Find the transmission parameters in the s-domain for the network. [10]
+CO-3; SO-1; [, . L
+BL-l — = ne
+© We MANY o
++ “s +
+Vv, == IF V;
+if , O
+Q4 b. What are the properties of positive real functions? State the necessary and sufficient | [10]
+CO-4; SO-1; conditions for positive real functions.
+BL-1
+Q5 a. For the network shown below, draw the pole-zero plot of the impedance function | [10]
+CO-4; SO-1; Z(s).
+BL-3 2H
+> ooo
+Z(s)} —> —,,
+(s) 3a $ 42
+°
+Q5 b. What is the initial condition equivalent circuit for the following elements at t=0+: | [10]
+CO-2; SO-1; (i) Resistance
+BL-1 (ii) Inductance
+
+(iii) Capacitance
+
+In the circuit shown, the switch K is opened at t=0. Find v, dv/dt and d?v/dt? at
+t=0+, when I=1 Amp, R=100 ohms, L= 1 henry.
+--- page 4 ---
+uo
+
+Ta7
+
+¥
+
+Ssacsoa. | 2 Confirm whether F(s) = (s’+4) / (s°+3s’+3s+1) is positive real function or not. [10]
+
+BL4
+
+Q6 b. Find the voltages at nodes 1 and 2 in the network. , {10]
+CO-1; SO-1;
+
+BL-l 109 ‘O) 20 @)
+
+M\—F
++ 32
+50 Z0°V QQ =— —/10Q
+~ f4Q2
+
+° on, (| Find the impedance Z, so that maximum power can be transferred to it in the | 1°)
+
+at SO-1; network. Find maximum power.
+32 32
+MING MA
++
+5 20°V (rv) 80 60 [ :
+
+qr b. Find the Laplace transform of a rectangular pulse shown below. (5]
+CO-2; SO-1; fit)
+
+BL-1
+
+ie
+_ 0 r ‘
+Q7 c. State and explain Superposition theorem. (5]
+CO-1; SO-1;
+BL-1,2
+4
+````
+
 ## 2022-23 · Exam not stated · Sem 3 · paper a7a08a5618b5
 
 - Departments: Electronics and Telecommunication
@@ -1181,166 +1341,6 @@ S(s+1)
 ~
 ````
 
-## 2022-23 · Re-Exam · Sem 3 · paper 3e46e75131ce
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/CIRCUITS AND NETWORK THEORY/Circuit & Network Theory, Sem-III, Batch 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/02/2024
-- Text: ocr (4 pages), mean OCR confidence 78.1
-
-````text
-SVKM’S NMIMS Re <<
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERIN(
-Academic Year: 2023-2024 ce
-Program: B. Tech. (EXTC) Year: I Semester: Il
-Subject: Circuit and Network Theory Time: 3 hrs (10 AM to 1 PM)
-Date: 12/02/2024 ; No. of Pages: 4
-
-Marks: 100
-
--Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. ,
-
-1) Question No. _1__— is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary. ;
-
-Ql Answer briefly: -
-
-Pan al a. Define Thevenin’s theorem. Explain the steps with the help of a suitable diagram. | [41
-
-ty : SO-l; | b, Find I; and L using mesh analysis. [4]
-L-
-
-ut 74 @
-+ +
-o> — a —
-vo Sm ~——_
-
-1902
-
-a 7 SO-1; | ¢, In the circuit shown, the switch K is closed at t=0. Find the value of di/dt at t=0+ | [4]
-L-
-
-when V=100V, R=1000 ohms, C=1yF.
---- page 2 ---
-> >7-C
-CO SO-1; | d. Investigate whether P(s)=s°+2s'+4s*+6s*+2s+5 is Hurwitz. [4]
-CO-3;SO-1; | @, Test results for a two-port network are [4]
-BL-l (i) Port 2 short-circuited: V:=5020° V, 1)=2.12-30° A, b=-1112-20°A
-(ii) Port 1 short-circuited: V2=5020° V, b= 32-15° A, I1=-1.12-20° A
-Find Y-parameters.
-Q2 a. Compute Norton’s equivalent network at the terminals A and B. [10]
-CO-1; SO-1;
-BL-2 5Q
-1D 40
-to.za0 A (4)
-22 42
-8
-Q b. Define [4+6]
-CO-2; SO-1;
-BL-1 (i) Tree
-(ii) Rank of a graph
-(iii) Planar graph é
-(iv) Non-planar graph
-Also find the incidence matrix corresponding to this directed graph:
-Q3 a. Develop Y-parameters matrix of the network. [10]
-= CO-3; SO-1;
-BL-6
---- page 3 ---
-f, 2a 20 20 ia
-WWiv Mie
-
-9 WW ° .
-o
-Vv; $1 Q S1 2 Vo
-3 : o
-Q3 b. Determine the z-parameters for the circuit in the following figure and then compute | [10]
-CO-3; SO-1; the current in a 4Q load ifa 240° V source is connected at the input port.
-BL-5 1, 122 2 OU
-OANA 0
-Fs +
-vy, 3 60 ¥,
-° 0
-Q4 a. Find the transmission parameters in the s-domain for the network. [10]
-CO-3; SO-1; [, . L
-BL-l — = ne
-© We MANY o
-+ “s +
-Vv, == IF V;
-if , O
-Q4 b. What are the properties of positive real functions? State the necessary and sufficient | [10]
-CO-4; SO-1; conditions for positive real functions.
-BL-1
-Q5 a. For the network shown below, draw the pole-zero plot of the impedance function | [10]
-CO-4; SO-1; Z(s).
-BL-3 2H
-> ooo
-Z(s)} —> —,,
-(s) 3a $ 42
-°
-Q5 b. What is the initial condition equivalent circuit for the following elements at t=0+: | [10]
-CO-2; SO-1; (i) Resistance
-BL-1 (ii) Inductance
-
-(iii) Capacitance
-
-In the circuit shown, the switch K is opened at t=0. Find v, dv/dt and d?v/dt? at
-t=0+, when I=1 Amp, R=100 ohms, L= 1 henry.
---- page 4 ---
-uo
-
-Ta7
-
-¥
-
-Ssacsoa. | 2 Confirm whether F(s) = (s’+4) / (s°+3s’+3s+1) is positive real function or not. [10]
-
-BL4
-
-Q6 b. Find the voltages at nodes 1 and 2 in the network. , {10]
-CO-1; SO-1;
-
-BL-l 109 ‘O) 20 @)
-
-M\—F
-+ 32
-50 Z0°V QQ =— —/10Q
-~ f4Q2
-
-° on, (| Find the impedance Z, so that maximum power can be transferred to it in the | 1°)
-
-at SO-1; network. Find maximum power.
-32 32
-MING MA
-+
-5 20°V (rv) 80 60 [ :
-
-qr b. Find the Laplace transform of a rectangular pulse shown below. (5]
-CO-2; SO-1; fit)
-
-BL-1
-
-ie
-_ 0 r ‘
-Q7 c. State and explain Superposition theorem. (5]
-CO-1; SO-1;
-BL-1,2
-4
-````
-
 ## 2022-23 · Re-Exam · Sem 3 · paper 8fa57f7b9db5
 
 - Departments: Electronics and Telecommunication
@@ -1348,6 +1348,7 @@ BL-1,2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/CIRCUITS AND NETWORK THEORY/Circuit and Network Theory, 2nd Year, Sem-III, Year 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 February 2023
 - Text: ocr (4 pages), mean OCR confidence 77.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1439,7 +1440,6 @@ Q3B 102 10V,
 WAN, = + ¥
 CO-1; 10
 SO-1;
-ee 100 VV SQ 2S Vy CG 140A
 
 714
 --- page 3 ---
@@ -1468,7 +1468,6 @@ Q5A of r Me
 | | 10
 Yo 1 f AVAVAY,
 CO-2; -
-Emel v= S R, yy, s L
 i,(t) p(t)
 Q5B . . .
 Build Cauer forms | of the LC impedance function.

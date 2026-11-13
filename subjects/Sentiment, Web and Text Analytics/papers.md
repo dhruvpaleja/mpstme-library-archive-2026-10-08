@@ -187,7 +187,7 @@ models — LSA or NMF.
 poy d-
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper 96b83b847952
+## 2022-23 · Final-Exam · Sem 3 · paper 96b83b847952
 
 - Departments: Data Science
 - Programmes: M TECH / DATA SCIENCES FALL BACH
@@ -275,6 +275,7 @@ Iv)Use ByLdavis for visualization and perform EDA.
 - Source: `02_Question_Papers/Legacy/M TECH/2ND YEAR/DATA SCIENCES FALL BACH/SEM III/SENTIMENT, WEB AND TEXT ANALYTICS/Sentiment Web and Text Analytics 2019-20 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 November 2019
 - Text: ocr (4 pages), mean OCR confidence 91.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS &
@@ -341,7 +342,6 @@ topics y)
 4
 --- page 2 ---
 )3: Solve the equation according to the sentence “I am planning to visit New Delhi to attend
-.nalytics Vidhya Delhi Hackathon”.
 
 . = (# of words with Noun as the part of speech tag)
 
@@ -459,7 +459,6 @@ Wollstonecraft Shelley)
 
 Submissions are evaluated using multi-class logarithmic loss. Each id has one true class. For each
 d, you must submit a predicted probability for each author. The formula is then:
-ogloss=—-lNYi=1 Ny j=1 Myijlog(pij), logloss=-IN}D I=IN) j=l Myijlog (pi),
 
 where N is the number of observations in the test set, M is the number of class labels (3 classes),
 oglog is the natural logarithm, yijyij is | if observation ii belongs to class jj and 0 otherwise, and

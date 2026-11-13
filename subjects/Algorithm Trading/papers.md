@@ -10,6 +10,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Programmes: B TECH, MBA TECH, MCA
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/ALGORITHIM TRADING/Algorithmic Trading Batch 2024-25 Final.pdf` (+2 identical copies)
 - Text: ocr (5 pages), mean OCR confidence 87.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS j
@@ -80,7 +81,6 @@ C02,S01 [20]
 BL-3
 
 =
-K sr 2CANDES RED & BRS Chnpre Ie GAEEN
 
 a) Comment on the Chart Pattern
 
@@ -1009,6 +1009,111 @@ be trading at $1?
 ae
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper 0cfa1a42d9bb
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ALGORITHMIC TRADING/Algorithmic Trading.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2022-2023
+
+Program/s: B Tech/ MBA Tech Year: III; Semester: VI
+Stream/s : All Streams
+
+Subject: Algorithmic Trading Time: 3 hrs (4o:coamto 4100 pm )
+Date:_OA / 0$/ 2023 No. of Pages: 2
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+CO-2;SO-1 la.
+; Explain the indicator Bollinger Bands in brief. [5]
+BL-2
+CO-2;SO-1 Ib. . . .
+; Explain the difference between Algorithmic trading and Quantitative Trading? [5]
+BL-2
+CO-2;SO-1 Ic. _
+: Explain the indicator Stochastic in brief. [5]
+BL-2
+CO- 2; SO-1 ld. What do you understand by GAP up and GAP down? Briefly mention different type of GAPS seen in [5]
+BL- 2 technical analysis?
+ma & Answer the below questions (assume suitable data if necessary and pictorial representation needs to be 1201
+shown wherever applicable):
+2a. Explain what is an Uptrend in detail? Give very brief explanation of other type of trends (apart from
+=. : 80-2; Uptrend) suggested by DOW and draw all of the above mentioned trends with properly connected [10]
+highs and/ or lows?
+CO-3;S0-2; 2b. — Explain pictorially in detail what is a Candlestick? Also explain the following Candlestick patterns: a) 0]
+BL-2 Evening Star b) Hammer
+Q3 Answer the below questions (assume suitable data if necessary and pictorial representation needs to be (20)
+shown wherever applicable):
+CO-2:S0-2: 3a Explain the importance of Indicators, provide details of 2 categories of Indicators and name their [8]
+BL-2 examples. Also explain MACD indicator in detail.
+CO- 280-1; 3b. Explain in detail the various Principles of Dow Theory [12]
+
+BL- 2
+--- page 2 ---
+Q4 Answer the below questions (assume suitable data if necessary and pictorial representation needs to be 120]
+shown wherever applicable):
+
+CO-2;$0-2; 4a. — : ; ; Se tafe [8]
+BL-2 What is Divergence and explain types of Divergence seen in RSI and show them pictorially?
+
+CO-1;S0-1; 40. Briefly mention in one line each about the various types and entities who participate in the Stock
+
+4
+
+BL-l Market (Market Structure)? 4]
+-2:SO0-2; 4c.
+
+oie 0; Explain types of Triangles patterns in detail and show them pictorially [8]
+
+Qs Answer the below questions (assume suitable data if necessary and pictorial representation needs to be (20)
+
+shown wherever applicable):
+
+CO-2;S0-2; 5a. What are Reversal Chart Patterns and give names of all Reversal patterns discussed in class and [5]
+BL-1 indicate whether they are Bullish or Bearish?
+
+poe BO; 3b. Explain in detail what is the meaning and importance of Golden Cross and show it pictorially? [5]
+ir 80-2; Se. Explain in detail with number based pictorial illustration a) Inverse Head & Shoulders b) Double Top [10]
+Q6 Kindly provide the details of the following: : [20]
+pote! SO-1; 6a. What are the objectives of the Algorithmic trading? 65]
+ried 80-2; 6b. How back testing of the data set is different than the live testing? 15]
+a SOsh 66 Kindly explain the discretionary trading and Systematic trading? 65]
+a 80-1; 6d. Kindly explain the type of different Trading System? [5]
+Q7 Write steps and the python syntax for the following: [20]
+a 503; Ta Extract the data of NIFTY50 from Yahoo Finance for last 5 years 5]
+CO-3;S0-3; 7b. If Stock = [“RIL”, “TATA”, “HDFC”, “INFY”, “ATGL”, “ITC”, “TCS”, “SBIN”, “TITAN”] [5]
+BL-3 What is the index of TATA, ITC and TITAN? .
+is 803; Te: Design the architecture graph from trading account to the Exchange for order execution. [5]
+CO-3; SO-3; 7d. (5)
+
+BL-3 To plot the historical data set, which Python library we need to used?
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper de2f2f918418
 
 - Departments: Common (all branches)
@@ -1446,109 +1551,4 @@ d. What do you mean by overfitting?
 [20]
 
 Page 2/3
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 0cfa1a42d9bb
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ALGORITHMIC TRADING/Algorithmic Trading.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-
-Program/s: B Tech/ MBA Tech Year: III; Semester: VI
-Stream/s : All Streams
-
-Subject: Algorithmic Trading Time: 3 hrs (4o:coamto 4100 pm )
-Date:_OA / 0$/ 2023 No. of Pages: 2
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-CO-2;SO-1 la.
-; Explain the indicator Bollinger Bands in brief. [5]
-BL-2
-CO-2;SO-1 Ib. . . .
-; Explain the difference between Algorithmic trading and Quantitative Trading? [5]
-BL-2
-CO-2;SO-1 Ic. _
-: Explain the indicator Stochastic in brief. [5]
-BL-2
-CO- 2; SO-1 ld. What do you understand by GAP up and GAP down? Briefly mention different type of GAPS seen in [5]
-BL- 2 technical analysis?
-ma & Answer the below questions (assume suitable data if necessary and pictorial representation needs to be 1201
-shown wherever applicable):
-2a. Explain what is an Uptrend in detail? Give very brief explanation of other type of trends (apart from
-=. : 80-2; Uptrend) suggested by DOW and draw all of the above mentioned trends with properly connected [10]
-highs and/ or lows?
-CO-3;S0-2; 2b. — Explain pictorially in detail what is a Candlestick? Also explain the following Candlestick patterns: a) 0]
-BL-2 Evening Star b) Hammer
-Q3 Answer the below questions (assume suitable data if necessary and pictorial representation needs to be (20)
-shown wherever applicable):
-CO-2:S0-2: 3a Explain the importance of Indicators, provide details of 2 categories of Indicators and name their [8]
-BL-2 examples. Also explain MACD indicator in detail.
-CO- 280-1; 3b. Explain in detail the various Principles of Dow Theory [12]
-
-BL- 2
---- page 2 ---
-Q4 Answer the below questions (assume suitable data if necessary and pictorial representation needs to be 120]
-shown wherever applicable):
-
-CO-2;$0-2; 4a. — : ; ; Se tafe [8]
-BL-2 What is Divergence and explain types of Divergence seen in RSI and show them pictorially?
-
-CO-1;S0-1; 40. Briefly mention in one line each about the various types and entities who participate in the Stock
-
-4
-
-BL-l Market (Market Structure)? 4]
--2:SO0-2; 4c.
-
-oie 0; Explain types of Triangles patterns in detail and show them pictorially [8]
-
-Qs Answer the below questions (assume suitable data if necessary and pictorial representation needs to be (20)
-
-shown wherever applicable):
-
-CO-2;S0-2; 5a. What are Reversal Chart Patterns and give names of all Reversal patterns discussed in class and [5]
-BL-1 indicate whether they are Bullish or Bearish?
-
-poe BO; 3b. Explain in detail what is the meaning and importance of Golden Cross and show it pictorially? [5]
-ir 80-2; Se. Explain in detail with number based pictorial illustration a) Inverse Head & Shoulders b) Double Top [10]
-Q6 Kindly provide the details of the following: : [20]
-pote! SO-1; 6a. What are the objectives of the Algorithmic trading? 65]
-ried 80-2; 6b. How back testing of the data set is different than the live testing? 15]
-a SOsh 66 Kindly explain the discretionary trading and Systematic trading? 65]
-a 80-1; 6d. Kindly explain the type of different Trading System? [5]
-Q7 Write steps and the python syntax for the following: [20]
-a 503; Ta Extract the data of NIFTY50 from Yahoo Finance for last 5 years 5]
-CO-3;S0-3; 7b. If Stock = [“RIL”, “TATA”, “HDFC”, “INFY”, “ATGL”, “ITC”, “TCS”, “SBIN”, “TITAN”] [5]
-BL-3 What is the index of TATA, ITC and TITAN? .
-is 803; Te: Design the architecture graph from trading account to the Exchange for order execution. [5]
-CO-3; SO-3; 7d. (5)
-
-BL-3 To plot the historical data set, which Python library we need to used?
 ````

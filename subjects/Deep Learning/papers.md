@@ -834,6 +834,7 @@ highlight the advantages of using CNNs in these scenarios.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-V/DEEP LEARNING/B Tech, Deep Learning, 2025-26 Final Exam.pdf` (+6 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: ocr (4 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1083,7 +1084,6 @@ e Input: X=[1,0] <
 ¢ Weights and biases:
 
 70.2 04 701) _
-W,= he ob b, = Pe W, = [0.5 0.6] by = 0.1
 
 b. | i. Explain how Convolutional Neural Networks (CNNs) extract hierarchical | [10]
 
@@ -1098,6 +1098,155 @@ Autonomous Vehicles. Provide an example for each application and
 highlight the advantages of using CNNs in these scenarios.
 
 - FAI OA OR RK
+````
+
+## 2025-26 · Re-Exam · Sem 8 · paper 8e4765e78b76
+
+- Departments: Computer Science and Business Systems
+- Programmes: BTech CSBS 7036
+- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/BTech_CSBS_7036/Deep Learning/QP_Deep Learning(702AI0C008)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS
+SYSTEMS)
+Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Deep Learning
+Date: 11 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory
+3. Out of the remianing questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume suitable data if necessary.
+Q1
+Answer briefly:   [20]
+CO-3   a.
+Discuss CNN based two convolution.   [5]
+BL-1,2
+b.
+What will the convolution operation's output be over the following feature map?
+Where the following kernel is applied with a stride of 2.
+Input Feature map   Kernel
+1 2 3
+3   5   8   2   3
+CO-3   4 5 6
+3 2   3   2   5   [5]
+BL-2,4
+1 2 3
+1   2   3   8   3
+6   4   5   1   4
+3   4   7   4
+3
+CO-4   c.   What are the computational challenges of BPTT? Suggest optimization   [5]
+BL-3   techniques to improve efficiency
+CO-2   d.
+In autonomous driving systems, deep learning models sometimes fail in unusual
+BL-3   [5]
+conditions. Explain two limitations responsible for this issue.
+a.   Compare RNN, LSTM, and GRU based on:   [10]
+1) Architecture
+Q2   2) Computational complexity
+CO-   3) Ability to capture long-term dependencies
+4,BL-4   4) Training efficiency
+b
+CO-3,   Design an LSTM-based model for:
+BL-3   1) Time-series prediction   [5+5]
+2) Explain input representation, architecture, and training process.
+********** 1 **********
+--- page 2 ---
+Q3
+a.
+Explain the architecture of Gated Recurrent Unit (GRU) networks using a   [10]
+CO-4
+diagram. Then, use formulas to discuss the critical components of a GRU unit
+BL-4
+(All gates).
+CO-2   b.
+Write and explain the algorithm for ADAM and SGD with Nesterov momentum.   [10]
+BL-2
+a.   Consider the neural network as shown in the figure.
+The inputs x1, x2, and the initial weights and two biases are given. The actual
+output is [0.9, 0.1] for the two output neurons. The activation used is sigmoid.
+{w3 is between x1-h2, w6 is between h1-o2}, Learning rate is 0.55.
+Calculate the following: (4 significants)   [10]
+Q4.
+1. Predicted output after forward propagation.
+2. Mean square error after the first forward pass
+CO-2
+3. Calculate the updated weights w4 and w8 after the first iteration of
+BL-3
+backpropagation.
+CO-2
+b.
+BL-3
+A fully connected Neural Network with 8 layers is being trained using the sigmoid
+activation function.   [10]
+i   What is the activation output f / (12.9)?
+ii   What is the first derivative of the gradient f (x) at x=8?
+iii   Explain how this affects backpropagation in deeper layers.
+iv   Solve the SoftMax values for y = [3.5, 5.8, 4.4]
+a.
+Q5   Discuss common problems in Gradient Descent:
+[10]
+1. Local minima
+CO-3   2. Saddle points
+BL-1,2   3. Vanishing gradients
+b.
+Explain the application of deep learning in speech recognition systems:
+[10]
+CO-4   1. Feature extraction
+BL-2   2. Model architecture
+3. Training challenges
+********** 2 **********
+--- page 3 ---
+Q6   a.   You are training a deep learning model on limited GPU memory.
+CO-4   How would you choose the batch size? Justify your answer.   [10]
+BL-4   Explain the architecture of the Inception Model and why you use 1x1
+CO-3   convolution in it?
+BL-   b.
+2,1,5   Design an AlexNet-inspired architecture for a new image classification task.
+Specify how you would adapt the architecture to work with a dataset that
+contains smaller images (e.g., 64 × 64 64×64 pixels) and fewer classes than
+ImageNet. What modifications would you make to the original AlexNet
+architecture to suit this task.
+Modified AlexNet-Inspired Architecture for 64×64 Images:
+•   Input Layer: 64×64×3
+•   Conv1: 5×5 kernel, 32 filters, stride 1, padding 2 → Max Pooling (2×2,
+stride 2) → Output size: 32×32×32
+•   Conv2: 3×3 kernel, 64 filters, stride 1, padding 1 → Max Pooling (2×2,
+[10]
+stride 2) → Output size: 16×16×64
+•   Conv3: 3×3 kernel, 128 filters, stride 1, padding 1 → Output size:
+16×16×128
+•   Conv4: 3×3 kernel, 128 filters, stride 1, padding 1 → Output size:
+8×8×128
+•   Conv5: 3×3 kernel, 256 filters, stride 1, padding 1 → Max Pooling (2×2,
+stride 2) → Output size: 4×4×256
+•   Flatten: Flatten the output to 4096 features.
+•   FC1: Fully connected, 512 neurons → ReLU
+•   FC2: Fully connected, 256 neurons → ReLU
+•   Output Layer (FC3): Fully connected, number of neurons = number of
+classes (e.g., 10 for 10 classes) → Softmax activation.
+a.   1) Interpret the trade-off between bias and variance over deep learning models
+by taking relevant examples.
+2) Implement EXNOR gates using perceptron models.   [5+5]
+Q7.
+CO-3   Explain how the learning rate affects:
+BL-2   b.   1. Speed of convergence
+2.   Stability of training
+3. Risk of divergence
+CO-3   1) Consider a feature map as shown below[
+BL-4   [5+5]
+********** 3 **********
 ````
 
 ## 2025-26 · Re-Exam · Sem 5 · paper 6f31f697f004
@@ -1455,6 +1604,7 @@ BL-2
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_AIDS_7056/Deep Learning/QP_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 52.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -2827,155 +2977,6 @@ BL-
 Cad
 ````
 
-## 2024-25 · Re-Exam · Sem 8 · paper 8e4765e78b76
-
-- Departments: Computer Science and Business Systems
-- Programmes: BTech CSBS 7036
-- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/BTech_CSBS_7036/Deep Learning/QP_Deep Learning(702AI0C008)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS
-SYSTEMS)
-Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
-Subject: Deep Learning
-Date: 11 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Question No. 1 is compulsory
-3. Out of the remianing questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume suitable data if necessary.
-Q1
-Answer briefly:   [20]
-CO-3   a.
-Discuss CNN based two convolution.   [5]
-BL-1,2
-b.
-What will the convolution operation's output be over the following feature map?
-Where the following kernel is applied with a stride of 2.
-Input Feature map   Kernel
-1 2 3
-3   5   8   2   3
-CO-3   4 5 6
-3 2   3   2   5   [5]
-BL-2,4
-1 2 3
-1   2   3   8   3
-6   4   5   1   4
-3   4   7   4
-3
-CO-4   c.   What are the computational challenges of BPTT? Suggest optimization   [5]
-BL-3   techniques to improve efficiency
-CO-2   d.
-In autonomous driving systems, deep learning models sometimes fail in unusual
-BL-3   [5]
-conditions. Explain two limitations responsible for this issue.
-a.   Compare RNN, LSTM, and GRU based on:   [10]
-1) Architecture
-Q2   2) Computational complexity
-CO-   3) Ability to capture long-term dependencies
-4,BL-4   4) Training efficiency
-b
-CO-3,   Design an LSTM-based model for:
-BL-3   1) Time-series prediction   [5+5]
-2) Explain input representation, architecture, and training process.
-********** 1 **********
---- page 2 ---
-Q3
-a.
-Explain the architecture of Gated Recurrent Unit (GRU) networks using a   [10]
-CO-4
-diagram. Then, use formulas to discuss the critical components of a GRU unit
-BL-4
-(All gates).
-CO-2   b.
-Write and explain the algorithm for ADAM and SGD with Nesterov momentum.   [10]
-BL-2
-a.   Consider the neural network as shown in the figure.
-The inputs x1, x2, and the initial weights and two biases are given. The actual
-output is [0.9, 0.1] for the two output neurons. The activation used is sigmoid.
-{w3 is between x1-h2, w6 is between h1-o2}, Learning rate is 0.55.
-Calculate the following: (4 significants)   [10]
-Q4.
-1. Predicted output after forward propagation.
-2. Mean square error after the first forward pass
-CO-2
-3. Calculate the updated weights w4 and w8 after the first iteration of
-BL-3
-backpropagation.
-CO-2
-b.
-BL-3
-A fully connected Neural Network with 8 layers is being trained using the sigmoid
-activation function.   [10]
-i   What is the activation output f / (12.9)?
-ii   What is the first derivative of the gradient f (x) at x=8?
-iii   Explain how this affects backpropagation in deeper layers.
-iv   Solve the SoftMax values for y = [3.5, 5.8, 4.4]
-a.
-Q5   Discuss common problems in Gradient Descent:
-[10]
-1. Local minima
-CO-3   2. Saddle points
-BL-1,2   3. Vanishing gradients
-b.
-Explain the application of deep learning in speech recognition systems:
-[10]
-CO-4   1. Feature extraction
-BL-2   2. Model architecture
-3. Training challenges
-********** 2 **********
---- page 3 ---
-Q6   a.   You are training a deep learning model on limited GPU memory.
-CO-4   How would you choose the batch size? Justify your answer.   [10]
-BL-4   Explain the architecture of the Inception Model and why you use 1x1
-CO-3   convolution in it?
-BL-   b.
-2,1,5   Design an AlexNet-inspired architecture for a new image classification task.
-Specify how you would adapt the architecture to work with a dataset that
-contains smaller images (e.g., 64 × 64 64×64 pixels) and fewer classes than
-ImageNet. What modifications would you make to the original AlexNet
-architecture to suit this task.
-Modified AlexNet-Inspired Architecture for 64×64 Images:
-•   Input Layer: 64×64×3
-•   Conv1: 5×5 kernel, 32 filters, stride 1, padding 2 → Max Pooling (2×2,
-stride 2) → Output size: 32×32×32
-•   Conv2: 3×3 kernel, 64 filters, stride 1, padding 1 → Max Pooling (2×2,
-[10]
-stride 2) → Output size: 16×16×64
-•   Conv3: 3×3 kernel, 128 filters, stride 1, padding 1 → Output size:
-16×16×128
-•   Conv4: 3×3 kernel, 128 filters, stride 1, padding 1 → Output size:
-8×8×128
-•   Conv5: 3×3 kernel, 256 filters, stride 1, padding 1 → Max Pooling (2×2,
-stride 2) → Output size: 4×4×256
-•   Flatten: Flatten the output to 4096 features.
-•   FC1: Fully connected, 512 neurons → ReLU
-•   FC2: Fully connected, 256 neurons → ReLU
-•   Output Layer (FC3): Fully connected, number of neurons = number of
-classes (e.g., 10 for 10 classes) → Softmax activation.
-a.   1) Interpret the trade-off between bias and variance over deep learning models
-by taking relevant examples.
-2) Implement EXNOR gates using perceptron models.   [5+5]
-Q7.
-CO-3   Explain how the learning rate affects:
-BL-2   b.   1. Speed of convergence
-2.   Stability of training
-3. Risk of divergence
-CO-3   1) Consider a feature map as shown below[
-BL-4   [5+5]
-********** 3 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 5 · paper 5fc62eebec69
 
 - Departments: Artificial Intelligence, Computer Engineering, Data Science, Electronics and Telecommunication, Information Technology
@@ -2983,6 +2984,7 @@ BL-4   [5+5]
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DEEP LEARNING/Deep Learning, Sem-V, Batch 2023-24 & 2024-25 Re Exam.pdf` (+7 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 87.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3093,9 +3095,7 @@ Q3 a
 CO2-; [10]
 S06;
 BL4
-Wi |W2 [Ws [Wa [Ws [We [Wz [Ws [Wo
 0.10 0.15 [0.20 [0.25 |0.30 |0.35 |0.40 (0.45 [0.50
-Wio [War [Wiz [Wis [Wis [Wis [Wis [Wiz [Wis
 0.55 0.60 |0.65 {0.70 |0.75 |0.80 |0.85 |0.90 0.95
 Xi X2 X3 Xs T1 T2
 0.10 | 0.20 0.30 0.40 0.01 0.99
@@ -3207,6 +3207,118 @@ $02,6 one for regression tasks and explain them
 BL3
 ````
 
+## 2023-24 · Exam not stated · Sem 8 · paper 128ce27edbc3
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/DEEP LEARNING/Deep Learning.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 87.4
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: MBA.Tech /B.Tech Year: 4 Semester: VIII _
+Stream/s; EXTC_
+
+Subject: Deep Learning Time: 3_ hrs (Zioopmto Stoop)
+Date:_2.3 / 04 / 2024- No. of Pages:-3___
+
+Marks: 100.
+
+Re-Examination (2021-22, 22-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi , _ ra cnny
+Answer briefly: [4x5=20]
+ary SO-1; | a. Compare machine learning and deep learning. [4]
+oa Q SO-1; | b. Define what a perceptron is and describe its basic structure. [4]
+c. For the given scenario,
+ng 1} Number of Filters = 5
+10 *
+\
+Convolution
+CO- 2; SO-1; 10 Filter size=(3,3) [4]
+BL-3
+filters = 5,kernel_size=(3,3), input_shape=(10,10,1), stride=1, padding=0
+(i) Determine the number of parameters in the convolution layer.
+Q Determine the output shape.
+ne SO-l; | d. Explain a simple RNN cell and explain how it processes sequential data. [4]
+tee SO-1; |e Compare Relu and Tanh activation function. [4]
+--- page 2 ---
+Q2 CO-2; a. Describe the architecture of AlexNet, including the number of layers, their 7
+SO-1; BL-2 . “he [10]
+types, and the number of neurons in each layer. ‘
+
+b. (i) What is the role of optimizers in training neural networks, and why [05]
+are they necessary
+CO-1; SO-1; rr ng «
+BL-4 (ii) Compare and contrast different variants of gradient descent, such
+as batch gradient descent, stochastic gradient descent, and mini- [05]
+batch gradient descent
+Q3 a. Explain Feed forward algorithm and back propagation algorithm in neural
+CO-1; SO“; network with i i
+BL2 with an example.
+CO-1;S0-1; | b. (a) Explain L1 and L2 regularization. [5]
+BL-2 (b) Explain the various hyperparameters used in training a neural network.. [5]
+Q4 a. Explain any one image classification application using convolutional neural
+CO-3; SO-1; [10]
+BL-6 network. *
+CO-3;$0-1; | b. Explain the architecture of an LSTM cell and how it addresses the vanishing 110]
+BL-2 gradient probiem in traditional RNNs.
+Q5 a. Explain the steps for calculating the number of parameters, feature map size in
+p Pi [10]
+CO-2; SO-1; ° c
+BL-5 Sor a given convolutional neural network by taking an example. .
+CO-3;$0-1; | b. Discuss machine translation application with a suitable deep learning [10]
+BL-6 architecture.
+Q6 a. Explain the structure of an Encoder-Decoder model and how it differs from rt]
+CO-3; SO-1;
+BL-6 ales traditional feedforward neural networks.
+CO-2; $0-1; | b. Describe the components of a typical CNN architecture, including (10)
+BL-2 convolutional layers, pooling layers, and fully connected layers.
+Q7 “ya, (i) Explain why simple perceptron can’t be used for non-linearly separable [05]
+CO-1; SO-1;
+BL-2 dataset.
+Poe SO (ii) Explain Bias and variance tradeoff. [05]
+--- page 3 ---
+i
+
+CO-1; SO-1;
+BL-2
+CO-1; SO-1;
+BL-2
+
+F ny
+
+(i) Explain the various methods to solve overfitting problems in neural
+network.
+(ii) Compute the output of the given neural network using sigmoid activation
+
+function.
+
+[5]
+
+[5]
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper 017671e0097f
 
 - Departments: Artificial Intelligence, Computer Engineering, Electronics and Telecommunication, Information Technology
@@ -3214,6 +3326,7 @@ BL3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-V/DEEP LEARNING/Deep Learning, Final exam,2023-24.pdf` (+7 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 84.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS q
@@ -3337,7 +3450,6 @@ activation function is applied to hidden layer and output layer. Assume that
 the learning rate y is 0.9. The weights are given by
 
 Initial input and weight values 1
-Wip Wis Wey We, Wa, Wes Wig Wg Woy Ws Wag
 0.2 -03 04 01 05 02 -03 -02 040201 —
 
 Woa and Wos are bias applied at hidden neurons and Woe is the bias applied at
@@ -3871,6 +3983,458 @@ BL-3.2 e. Discuss the concept of parameter tying and parameter sharing in a conv
 > network. [5]
 ````
 
+## 2023-24 · Re-Exam · Sem 7 · paper 431e2c24b83f
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VII SEMESTER/DEEP LEARNING/Deep Learning , Re-exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.4
+
+````text
+SVKM’S NMIMS aS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/ an
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+Program/s: MBA Tech Year: IV Semester: VII
+
+¥
+
+Stream/s: Computer Engineering
+
+Subject: Deep Learning Time: 3 hrs ( © ao m™)
+Date:_O2 / [2/2023 No. of Pages:2
+
+Marks: 100 RE- Exim CQ02 a8)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of the remaining questions, attempt any 4 __ questions.
+
+3) In all___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly:
+CO-1;SO- | a, Why deep learning is preferred over machine learning? 5
+1,6; BL-4
+CO-2; SO- | b. Discuss tiled and stride convolution. 5
+1,6 ; BL-3
+CO-3;SO- | c. Explain the working of Multilayer Perceptron 5
+1; BL-2
+0-3; S0- d. Compare batch Gradient descent, Stochastic Gradient Descent, and Mini- 5
+1,6; BL-2 batch Gradient Descent.
+
+a. . . . . 1 0
+
+Q Enlist names of the optimizer that uses an adaptive learning rate. Explain
+CO-3; SO- the RMS prop with its weight updating process.
+1,6;BL-2 ,
+
+Explain the working of the basic RNN architecture. Discuss its limitations,
+CO-3;SO- | b. types, and use cases. 10
+1,6; BL-3
+Q3 a. . ce .. | 10
+
+Discuss the need for Regularization in the deep neural network. Explain in
+CO-2; SO- detail the L1 and L2 regularization. {Required mathematical equation}
+1,6; BL-1
+eae bs Calculate the actual shape, actual size, and the number of training
+
+parameters per layer-wise for the following CNN architecture. 10
+--- page 2 ---
+Input Layer 240x240x3
+
+Conv Layer k=50, f=8, S=4 oe
+Max Pooling 3x3, S=2
+Conv Layer k=128, f=5, p=2
+Max Pooling 3x3, S=2
+Conv Layer k=256, f=3, p=1
+Conv Layer k=128, f=3, p=1
+Max Pooling 2x2, s=2
+FCL 512
+FCL 512
+Softmax so
+4 Write the algorithm for EARY STOPPING / 10
+Q -to determine the best amount of time to train
+CO-3; SO- -to determine how long it takes to train and retrain all data
+1,6; BL-3 -to determine at what object value we start to overfit, then continue till the
+CO-1: S0- value is reached.
+1,6; BL-2 Explain various challenges in neural network optimization. 10
+; : 10
+Q5 Explain the architecture of the Inception Model and why you use 1x1
+CO-3; SO- convolution in it.
+1; BL-4
+Apply Standard and Transposed convolution separately to produce
+standard and transposed output for the given image and filter size with 10
+CO-2; SO- stride=1 and padding =0.
+1,6; BL-2 IMAGE
+3 4 1 2
+| 4 1 2 3 Filter/Kernel
+i} i 0
+1 2 3 4 zi i 7
+2 3 4 1 0 1 o
+Q6 Derive the expression for Gradient descent with 2 nodes in input, 1 hidden
+CO-2; SO- layer and | output layer. 10
+2; BL-4 ; - ;
+CO-2; SO- Write the algorithm for Backpropagation in the Deep learning model.
+, 10
+2; BL-2
+Q7 Explain the architecture and working of the Autoencoder model. Give a =
+CO-2,3; brief note on its use cases.
+SO-1,6;
+BL-2 Suppose you are applying a deep learning model on the dataset, but it has
+. been observed that the model overfits on training data. Identify the 0
+CO-3; SO- . . 1
+techniques that can be used to reduce overfitting on training data and
+1,6; BL-3
+
+explain them.
+````
+
+## 2022-23 · Exam not stated · Sem 7 · paper d08033b7789d
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VII SEMESTER/DEEP LEARNING/Deep Learning.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 87.2
+
+````text
+i.
+
+MFP STME
+LiSRARY
+
+SVKM’S NMIMS m ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN } ;
+Academic Year: 2022-2023
+Program: MBATech Year: IV Senter! VII
+
+Stream: Computer Engineering
+
+Subject: Deep Learning Time: _08 hrs @4iooamto 2:00pm)
+Date: 14 ]06]2028 No. of Pages: 2
+
+Marks: 100
+
+Special Ret Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+Lt. * Compare AI, ML and DL. 5
+reon b Explain the working of Auto Encoder. 5
+SOA) | ¢, | Discuss 3 Activation functions in detail 5
+[CO-1,BL- How the noise injection can be considered as data augmentation. Can we 5
+2,SO-1] d. add noise at the output layer? {Required Mathematical equations}
+
+C an LBL a Derive the Gradient Descent derivation for a neural network with 1 hidden [10]
+
+4 [ SO-1] ~ layer, 2 inputs, and 2 outputs.
+
+[CO-1,BL- | b. , ; ae [10]
+2,S0-1] Explain various challenges in neural network optimization.
+Q3 a. .
+[CO-3,BL- Explain the working of the basic RNN architecture. Discuss its limitations, [10]
+2,SO-1] types, and use cases.
+[CO-1,BL- | b. Explain the architecture of the Inception Model and why do you use 1x1 [10]
+2,S0-1] convolution in it?
+--- page 2 ---
+Q4 a.
+
+[CO-1,BL- Discuss the need for Regularization in the deep neural network. Explain in | [10]
+2,SO-1] detail the L1 and L2 regularization. {Required mathematical equation}
+[CO-1,BL-
+2,SO-1] b. What is the effect of ADAM optimizer over RMS Prop {Algorithm} [10]
+a Calculate the actual shape, actual size, and the number of training [10]:
+parameters per layer-wise for the following CNN architecture.
+input Layer 240x240x3
+Q5 Conv Layer k=50, f=8, S=4
+[CO-2,BL- Max Pooling 3x3, S=2
+6,SO-1] Conv Layer k=128, f=5, p=2
+Max Pooling 3x3, S=2
+Conv Layer k=256, f=3, p=1
+Conv Layer k=128, f=3, p=1
+[CO-1,BL- Max Pooling 2x2, s=2Z
+5 SO-1] FOL 512
+> FCL 512
+Softmax 50 [10]
+b. Explain the architecture of the UNet model and discuss its applications.
+6 a. Apply Standard and Transposed convolution separately to produce
+[CO-2,BL- standard and transposed output for the given image and filter size with
+3,80- 1] stride=2 and padding =1. [10]
+IMAGE
+4 3 2 1 Filter/Kernel
+1 4 3 2 0 1 0
+2 1 4 3 1 2 a
+3 2 1 4 0 1 0
+b. Write the algorithm for EARY STOPPING
+a -to determine the best amount of time to train [10]
+BOT] -to determine how long to train and retrain all data
+-to determine at what object value we start to overfit, then continue till the
+value is reached.
+Q7 “ . . . .
+[CO-1,BL- Discuss the variants of the Convolution operation [10]
+2,SO-1]
+[CO-1,BL- Li Explain the architecture and working of the GAN model. Discuss the loss _| [10]
+2,SO0-1] incurred in the generator and discriminator. Give a brief note on its use
+
+cases
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper 83c59453fffe
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/DEEP LEARNING/Deep Learning (DE-IV).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 85.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023 ;
+Program/s: MBA.Tech Year: 4th ~~ Semester: VIII
+
+Stream/s ; EXTC
+
+Subject: Deep Learning (DE-IV) Time: 3 hrs (LO0(Odamto 1:00 pr
+Date:_0% Muley 2023 No. of Pages: 3
+
+Marks: 100
+
+Re+Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+os Answer briefly: [4x5=20]
+o ri SO-1; | a. Compare leave one out cross validation and k-fold cross validation. [4]
+7 hy SO-1; | b. Analyze XOR and XNOR gate using a simple perceptron. [4]
+oa The feature map after applying 3 x 3 kernel/mask is given below.
+342/515
+Cc 1}i1 yi 41
+7 3/3 }1 {2
+CO-2; 80-1; 2/2]3 1/3 [4]
+Solve for
+(i) Max pooling with 2x 2
+(ii) Min pooling with 2x2
+(iii) | Average Pooling with 2 x 2
+(iv) Sum pooling 2x2
+a! SO-1; | d. Explain Bidirectional RNN in brief. [4]
+ar SO-1; |e Explain various types of activation functions in neural network. {4]
+--- page 2 ---
+Q2 CO-2; a.
+
+SO-1; BL-2 Explain the architecture of ALEXNET in detail. [10]
+b. Differentiate between the following optimizers.
+CO-1; SO-1: (i) Gradient and Stochastic Gradient Descent
+Bit (ii) Mini Batch GD and AdaGrad HO]
+Q3 a. Explain Feed forward algorithm and back propagation algorithm in neural
+ao 80-1; . network with an example. ia
+C0-1;$0-1; | b. (#) Explain why there is a need of regularization in deep neura! network. [5]
+BL-2 Wy Explain parameter norm penalties in regularization of neural network. [5]
+oes sok a. (i) Discuss image classification application using deep learning. [5]
+BL-6 (ii) Discuss recurrent neural network in brief. What can be the limitations of (5)
+CO-3; SO-1; RNN?
+BL-6
+CO-3; SO-1; | b, P se 3 . : 5
+ar Explain Bi-Directional Long Short Term Memory with suitable neat diagram. [10]
+a. You have designed a convolutional neural network (CNN). The specifications
+of each layer are represented in the following table. The notation is as follows:
+CNN (s, n): denotes a CNN layer with n filters of size s
+Pooling (s): denotes a pooling layer with size s
+FC (n): denotes a fully-connected layer with n output neurons
+Given padding=0 and stride=1 wherever applicable.
+The input image is a color image with shape of 256 x 256 x 3. Determine the
+— shape for the output of each layer, the number of weights and biases for each
+0-2: $O-1: layer and the total number of parameters required to train the network. [10]
+BL-5
+Layer Activation map | Number of Number of
+size weights biases
+Input 256 X 256 X 3 0 0
+Conv(7, 16)
+Conv(11,32)
+Pooling(2)
+
+Conv(21,64)
+--- page 3 ---
+Pooling(2)
+
+Conv(5,64)
+Pooling(2)
+FC(120)
+FC(4)
+CO-3; SO-1; ' a . : se : ‘
+_ b. Discuss the application of time series prediction using deep learning. [10]
+Q6 a. Discuss Encoder decoder sequence to sequence architecture.
+CO-3; SO-1; [10]
+BL-6 .
+vo b. Explain the following with respect to Convolutional neural network.
+(i) Receptive field
+CO-2; SO-1; (ii) Pooling “Valid” and Pooling “Same” [10]
+BL-2 (iii) Stride
+(iv) Flattening
+(v) Fully connected layer
+a. (i) Explain why RELU activation is used in the hidden layers of neural network [5]
+Q7
+CO-1; SO-1; in comparison to other activation function.
+BL-2 a x . co P 7
+CO-2; $O-1; (ii) Explain parameter estimation in convolutional neural network with [5]
+Ble example.
+0-1: $0-1: b. (i) Explain overfitting and under fitting in neural networks and how it can be [5]
+BL-2 removed.
+CO-1; SO-1;
+pe (ii)Explain the significance of early stopping and dropout. [5]
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper ff7f17bfbed6
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/DEEP LEARNING/Deep Learning (DE-IV)_ff7f17bfbe.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 84.9
+
+````text
+SVKM’S NMIMS NG WN
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERIN(
+Academic Year: 2022-2023
+
+Program/s: MBA.Tech Year: 4 — Semester: VIII
+Stream/s ; EXTC
+
+Subject: Deep Learning (DE-IV) Time: 3 hrs (L0:00amto 1:00pm)
+Date: 28 /Ap4! 2023 No. of Pages: 3 _
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+(> 2) Out of remaining questions, attempt any__4 _ questions.
+3) In all__5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql -
+Answer briefly: : [4x5=20]
+Pe SO-1; | a. Compare Lasso and Ridge Regularization. (4]
+oy SO-1; | b. Explain early stopping and dropout in neural networks. [4]
+c. The feature map after applying 3 x 3 kernel/mask is given below.
+3. }2|)5 1/5
+oO 4|[2/2/4
+3/3 |1 42
+CO- 2; SO-1; 2 {2 13 3 [4]
+BL-3
+Solve for
+(i) Max pooling with 2x 2
+(ii) Min pooling with 2x2
+(iii) Average Pooling with 2 x 2
+(iv) Sum pooling 2x2
+a > SO-1; | d. Explain Recurrent Neural Network with example. [4]
+
+i]s
+--- page 2 ---
+Explain the problem of vanishing and exploding gradients. How it can be
+
+CO-1; SO-1; [4]
+BL-2 avoided?
+Q2 a.
+CO-1; SO-1: (i) Explain Bias and Variance trade-off. [5]
+_ _ $0-1: (ii) Explain capacity, under fitting, and overfitting in machine learning. [5]
+BL- 2 :
+ae SO-1; | b. Explain five types of optimizers with advantages and limitations. [10]
+a. For the given neural network, solve for the updated weights and biases for the
+hidden layer and the output layer using back propagation algorithm.
+0.05
+0.01
+Q3 ~
+CO-2; SO-1; . [14]
+BL-3
+0-10
+0.99
+1 =. oO: a 5
+b 2c 0: 6 0)
+CO-1; SO-1; | b. : 2 , <4
+BLD Explain various techniques for regularization in deep learning. [6]
+Q4 a.
+CO-3; SO-1; (i) Discuss Machine translation application using deep learning. (5]
+BL-6
+00-3: $0-1: (ii) Discuss the advantage of using bidirectional RNN over simple RNN. (5]
+BL6
+CO-3;SO-1; | b. é : : .
+BES Explain Long Short Term Memory with suitable neat diagram. [10] ~~
+Qs a. Explain VGG-16 CNN architecture. Also determine the number of trainable
+CO-2; SO-1; parameters at each convolutional layer, the feature map shape and size and the [10]
+Bless total number of parameters for the given network
+CO-3;SO-1; | b. : er : : or . .
+BLS Discuss the application of time series prediction using deep learning. [10]
+Q6 a. Discuss Encoder decoder sequence to sequence architecture.
+CO-3; SO-1; {10]
+BL-6
+CO-2; SO-1; ' ,
+-— i Compare LENET,ALEXNET andgoadlenetnn architectures. [10]
+in kon | (i) Explain the role of activation functions in neural networks. {5]
+
+s)3
+--- page 3 ---
+— (ii) What do you mean by hyperparameters? List a few common [5]
+-1; SO-1;
+
+BL-1 hyperparameters which are used in deep neural networks.
+
+oe SO-1; | b. (i) Explain maximum likelihood estimation in machine learning. [5]
+CO-1; SO-1; (ii) Explain semi supervised learning and multitask learning. [5]
+BL-2
+
+3/2
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 39d3f520183f
 
 - Departments: Artificial Intelligence
@@ -3878,6 +4442,7 @@ BL-3.2 e. Discuss the concept of parameter tying and parameter sharing in a conv
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-V/DEEP LEARNING/Deep Learning, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 19 November 2022
 - Text: ocr (5 pages), mean OCR confidence 89.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3990,7 +4555,6 @@ ie figure below. The network is used to classify the ten hand written digits fro
 Softmax classifier at the output layer.
 Layer o
 Digit image
-3243201 2x WX6 WxigxO —— woxt0xid 5x$xib 2084
 Pail
 vO-3; | a. | For the part of the inception block shown below, the input feature map is of size 28x28x192. | [10]
 Pair It is first convolved using 16 filters of size 1x1, which is further convolved using 32 filters of
@@ -4080,6 +4644,7 @@ Om
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/DEEP LEARNING/Deep Learning, Sem-VIII, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS oN
@@ -4130,7 +4695,6 @@ Discuss the variants of basic convolution functions. 5
 2,SO-1]
 Q2. a. ; [10]
 Apply Standard and Transposed convolution separately to produce standard and
-[CO-2,BL- posed’ mately fo prot ane
 3,SO-1] transposed output for the given image and filter size with stride=2 and padding =1.
 .SO-
 --- page 2 ---
@@ -4399,7 +4963,7 @@ Each training and test example is assigned to one of the following labels:
 6 Shirt
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper 2438318cee35
+## 2022-23 · Final-Exam · Sem 3 · paper 2438318cee35
 
 - Departments: Data Science
 - Programmes: M TECH / DATA SCIENCES FALL BACH
@@ -4820,6 +5384,128 @@ ee data but degrades when you test it on the unseen data. Identify the reason fo
 fag e 4]
 ````
 
+## 2022-23 · Re-Exam · Sem 8 · paper 873392690773
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_08/DEEP LEARNING/Deep Learning, Sem-VIII, Batch 2021-22, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 fia 23
+- Text: ocr (3 pages), mean OCR confidence 91.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B Tech Stream :EXTC Year: IV Semester: VIII
+Subject: Deep Learning Time: 3 hrs @0:00amto 1:00pm)
+Date: 01 fia 23. No. of Pages: 3
+
+Marks: 100
+
+Re Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+_-», of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly:
+CO-1; SO- a.| State the significance of learning rate in a neural network. What are the | [4]
+2; consequences of a very small and very large learning rate?
+BL-2
+CO-1; SO- b. [4]
+2; XI X2 =| Y
+| BL-3
+C 0 0
+7 1 0
+0 1
+1 1
+
+Consider the simple neural network shown in the figure. If the threshold is 2.
+
+Determine the output Y for the input sequences, x1 and x2 as shown in the table.
+
+Page 3
+--- page 2 ---
+?
+
+CO-2; SO- c.| Compare artificial neural networks and recurrent neural networks. Give one | [4]
+1; j
+
+BL-3 example application of each of the two networks.
+
+CO-3; SO- d.| What are the advantages of convolutional neural network over artificial neural | [4]
+_ networks for computer vision applications?
+CO-3; SO- e. | Consider the output of convolution as shown in figure, [4]
+2;
+BL-3 1);2/3}4
+5|4/7|8
+1);3,5|4
+8|9/17}7
+A 2x2 average pooling with a stride of 2 is applied to this feature map. Determine
+the output of the pooling layer.
+Q2
+CO-3; SO- a.| With the help of an architecture, explain the working of Variational auto-encoder. | [10]
+23 What are the applications of this type of auto-encoder?
+BL-2
+CO-3; SO- b.| Bring out the need of Generative adversarial networks (GANs). Explain in brief | [10]
+1; the work of such networks.
+BL-2
+Q3
+| CO-2; SO- a.| An application for image captioning is to be designed. Sketch the architecture of | [10]
+>: BL-A the network. State and explain the various parameters of this network.
+CO-1; SO- b.| You are trying to optimize the neural network. What are the possible challenges | [10]
+23 you may face? Bring out the advantage of momentum based gradient descent
+BL-3 over stochastic gradient descent optimization technique.
+Q4
+CO-1; SO- a. | Explain how error is propagated backwards in the gradient descent algorithm. [10]
+oe | TLE Use a three-layer artificial neural network for depicting the process.
+
+Page aE
+--- page 3 ---
+?
+
+CO-3; SO- b.| Consider the following block from a CNN network. Calculate the number of
+
+2; parameters for the layers shown below:
+BL-3
+Layer Name Tensor Size
+Input Image 227x227x3
+Conv-1 55xS55x96
+MaxPool-1 27X27x96
+Conv-2 27x27x256
+MaxPoo!-2 13x13x256
+aes Conv-3 13x13x384
+Conv-4 13x13x384
+Conv-5 13x13x256
+Q5
+CO-1; SO- a.| Bring out the significance of activation function. What are the different types of | [10]
+23 activation functions commonly used in dep learning? State their advantages and
+BL-2 disadvantages.
+CO-3; SO- b.| Justify the advantage of adding skip connections in a residual network. Compare | [10]
+2; the output of a single block of residual network, with and without residual
+BL-4 connections.
+Q6
+a. | What are the different types of recurrent neural networks? Show the sketch of the | [10]
+|CO-3; SO- architecture and state the applications of each type.
+BL-2
+CO-3; SO- b.| With the help of an architecture explain the working of Gated recurrent unit | [10]
+1; (GRU). Compare the performance with recurrent neural network.
+BL-3
+````
+
 ## 2022-23 · Re-Exam · Sem 8 · paper 2653c288be9e
 
 - Departments: Electronics and Telecommunication
@@ -5082,125 +5768,6 @@ Challenges with RNN deep neural network
 2; BL-2
 
 313
-````
-
-## 2022-23 · Re-Exam · Sem 7 · paper 431e2c24b83f
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VII SEMESTER/DEEP LEARNING/Deep Learning , Re-exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.4
-
-````text
-SVKM’S NMIMS aS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/ an
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-Program/s: MBA Tech Year: IV Semester: VII
-
-¥
-
-Stream/s: Computer Engineering
-
-Subject: Deep Learning Time: 3 hrs ( © ao m™)
-Date:_O2 / [2/2023 No. of Pages:2
-
-Marks: 100 RE- Exim CQ02 a8)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of the remaining questions, attempt any 4 __ questions.
-
-3) In all___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly:
-CO-1;SO- | a, Why deep learning is preferred over machine learning? 5
-1,6; BL-4
-CO-2; SO- | b. Discuss tiled and stride convolution. 5
-1,6 ; BL-3
-CO-3;SO- | c. Explain the working of Multilayer Perceptron 5
-1; BL-2
-0-3; S0- d. Compare batch Gradient descent, Stochastic Gradient Descent, and Mini- 5
-1,6; BL-2 batch Gradient Descent.
-
-a. . . . . 1 0
-
-Q Enlist names of the optimizer that uses an adaptive learning rate. Explain
-CO-3; SO- the RMS prop with its weight updating process.
-1,6;BL-2 ,
-
-Explain the working of the basic RNN architecture. Discuss its limitations,
-CO-3;SO- | b. types, and use cases. 10
-1,6; BL-3
-Q3 a. . ce .. | 10
-
-Discuss the need for Regularization in the deep neural network. Explain in
-CO-2; SO- detail the L1 and L2 regularization. {Required mathematical equation}
-1,6; BL-1
-eae bs Calculate the actual shape, actual size, and the number of training
-
-parameters per layer-wise for the following CNN architecture. 10
---- page 2 ---
-Input Layer 240x240x3
-
-Conv Layer k=50, f=8, S=4 oe
-Max Pooling 3x3, S=2
-Conv Layer k=128, f=5, p=2
-Max Pooling 3x3, S=2
-Conv Layer k=256, f=3, p=1
-Conv Layer k=128, f=3, p=1
-Max Pooling 2x2, s=2
-FCL 512
-FCL 512
-Softmax so
-4 Write the algorithm for EARY STOPPING / 10
-Q -to determine the best amount of time to train
-CO-3; SO- -to determine how long it takes to train and retrain all data
-1,6; BL-3 -to determine at what object value we start to overfit, then continue till the
-CO-1: S0- value is reached.
-1,6; BL-2 Explain various challenges in neural network optimization. 10
-; : 10
-Q5 Explain the architecture of the Inception Model and why you use 1x1
-CO-3; SO- convolution in it.
-1; BL-4
-Apply Standard and Transposed convolution separately to produce
-standard and transposed output for the given image and filter size with 10
-CO-2; SO- stride=1 and padding =0.
-1,6; BL-2 IMAGE
-3 4 1 2
-| 4 1 2 3 Filter/Kernel
-i} i 0
-1 2 3 4 zi i 7
-2 3 4 1 0 1 o
-Q6 Derive the expression for Gradient descent with 2 nodes in input, 1 hidden
-CO-2; SO- layer and | output layer. 10
-2; BL-4 ; - ;
-CO-2; SO- Write the algorithm for Backpropagation in the Deep learning model.
-, 10
-2; BL-2
-Q7 Explain the architecture and working of the Autoencoder model. Give a =
-CO-2,3; brief note on its use cases.
-SO-1,6;
-BL-2 Suppose you are applying a deep learning model on the dataset, but it has
-. been observed that the model overfits on training data. Identify the 0
-CO-3; SO- . . 1
-techniques that can be used to reduce overfitting on training data and
-1,6; BL-3
-
-explain them.
 ````
 
 ## 2022-23 · Re-Exam · Sem 7 · paper 50a77864e17f
@@ -5804,128 +6371,6 @@ versus any 4 pre trained models of your choice and display the results in the fo
 https://www.kaggle.com/hasinisadunikasilva/skincancerdetectiondcnn
 
 i/j
-````
-
-## 2021-22 · Re-Exam · Sem 8 · paper 873392690773
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_08/DEEP LEARNING/Deep Learning, Sem-VIII, Batch 2021-22, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 fia 23
-- Text: ocr (3 pages), mean OCR confidence 91.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B Tech Stream :EXTC Year: IV Semester: VIII
-Subject: Deep Learning Time: 3 hrs @0:00amto 1:00pm)
-Date: 01 fia 23. No. of Pages: 3
-
-Marks: 100
-
-Re Examination (2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-_-», of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly:
-CO-1; SO- a.| State the significance of learning rate in a neural network. What are the | [4]
-2; consequences of a very small and very large learning rate?
-BL-2
-CO-1; SO- b. [4]
-2; XI X2 =| Y
-| BL-3
-C 0 0
-7 1 0
-0 1
-1 1
-
-Consider the simple neural network shown in the figure. If the threshold is 2.
-
-Determine the output Y for the input sequences, x1 and x2 as shown in the table.
-
-Page 3
---- page 2 ---
-?
-
-CO-2; SO- c.| Compare artificial neural networks and recurrent neural networks. Give one | [4]
-1; j
-
-BL-3 example application of each of the two networks.
-
-CO-3; SO- d.| What are the advantages of convolutional neural network over artificial neural | [4]
-_ networks for computer vision applications?
-CO-3; SO- e. | Consider the output of convolution as shown in figure, [4]
-2;
-BL-3 1);2/3}4
-5|4/7|8
-1);3,5|4
-8|9/17}7
-A 2x2 average pooling with a stride of 2 is applied to this feature map. Determine
-the output of the pooling layer.
-Q2
-CO-3; SO- a.| With the help of an architecture, explain the working of Variational auto-encoder. | [10]
-23 What are the applications of this type of auto-encoder?
-BL-2
-CO-3; SO- b.| Bring out the need of Generative adversarial networks (GANs). Explain in brief | [10]
-1; the work of such networks.
-BL-2
-Q3
-| CO-2; SO- a.| An application for image captioning is to be designed. Sketch the architecture of | [10]
->: BL-A the network. State and explain the various parameters of this network.
-CO-1; SO- b.| You are trying to optimize the neural network. What are the possible challenges | [10]
-23 you may face? Bring out the advantage of momentum based gradient descent
-BL-3 over stochastic gradient descent optimization technique.
-Q4
-CO-1; SO- a. | Explain how error is propagated backwards in the gradient descent algorithm. [10]
-oe | TLE Use a three-layer artificial neural network for depicting the process.
-
-Page aE
---- page 3 ---
-?
-
-CO-3; SO- b.| Consider the following block from a CNN network. Calculate the number of
-
-2; parameters for the layers shown below:
-BL-3
-Layer Name Tensor Size
-Input Image 227x227x3
-Conv-1 55xS55x96
-MaxPool-1 27X27x96
-Conv-2 27x27x256
-MaxPoo!-2 13x13x256
-aes Conv-3 13x13x384
-Conv-4 13x13x384
-Conv-5 13x13x256
-Q5
-CO-1; SO- a.| Bring out the significance of activation function. What are the different types of | [10]
-23 activation functions commonly used in dep learning? State their advantages and
-BL-2 disadvantages.
-CO-3; SO- b.| Justify the advantage of adding skip connections in a residual network. Compare | [10]
-2; the output of a single block of residual network, with and without residual
-BL-4 connections.
-Q6
-a. | What are the different types of recurrent neural networks? Show the sketch of the | [10]
-|CO-3; SO- architecture and state the applications of each type.
-BL-2
-CO-3; SO- b.| With the help of an architecture explain the working of Gated recurrent unit | [10]
-1; (GRU). Compare the performance with recurrent neural network.
-BL-3
 ````
 
 ## 2021-22 · Re-Exam · Sem 8 · paper b0842fb22eed
@@ -6952,449 +7397,4 @@ Implement sentiment prediction with RNN.(Data : reviews.txt and labels.txt)
 Q9. Implement any one image classification using CNN. (20 mark)
 
 /
-````
-
-## Year not stated · Exam not stated · Sem 7 · paper d08033b7789d
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VII SEMESTER/DEEP LEARNING/Deep Learning.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 87.2
-
-````text
-i.
-
-MFP STME
-LiSRARY
-
-SVKM’S NMIMS m ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN } ;
-Academic Year: 2022-2023
-Program: MBATech Year: IV Senter! VII
-
-Stream: Computer Engineering
-
-Subject: Deep Learning Time: _08 hrs @4iooamto 2:00pm)
-Date: 14 ]06]2028 No. of Pages: 2
-
-Marks: 100
-
-Special Ret Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-Lt. * Compare AI, ML and DL. 5
-reon b Explain the working of Auto Encoder. 5
-SOA) | ¢, | Discuss 3 Activation functions in detail 5
-[CO-1,BL- How the noise injection can be considered as data augmentation. Can we 5
-2,SO-1] d. add noise at the output layer? {Required Mathematical equations}
-
-C an LBL a Derive the Gradient Descent derivation for a neural network with 1 hidden [10]
-
-4 [ SO-1] ~ layer, 2 inputs, and 2 outputs.
-
-[CO-1,BL- | b. , ; ae [10]
-2,S0-1] Explain various challenges in neural network optimization.
-Q3 a. .
-[CO-3,BL- Explain the working of the basic RNN architecture. Discuss its limitations, [10]
-2,SO-1] types, and use cases.
-[CO-1,BL- | b. Explain the architecture of the Inception Model and why do you use 1x1 [10]
-2,S0-1] convolution in it?
---- page 2 ---
-Q4 a.
-
-[CO-1,BL- Discuss the need for Regularization in the deep neural network. Explain in | [10]
-2,SO-1] detail the L1 and L2 regularization. {Required mathematical equation}
-[CO-1,BL-
-2,SO-1] b. What is the effect of ADAM optimizer over RMS Prop {Algorithm} [10]
-a Calculate the actual shape, actual size, and the number of training [10]:
-parameters per layer-wise for the following CNN architecture.
-input Layer 240x240x3
-Q5 Conv Layer k=50, f=8, S=4
-[CO-2,BL- Max Pooling 3x3, S=2
-6,SO-1] Conv Layer k=128, f=5, p=2
-Max Pooling 3x3, S=2
-Conv Layer k=256, f=3, p=1
-Conv Layer k=128, f=3, p=1
-[CO-1,BL- Max Pooling 2x2, s=2Z
-5 SO-1] FOL 512
-> FCL 512
-Softmax 50 [10]
-b. Explain the architecture of the UNet model and discuss its applications.
-6 a. Apply Standard and Transposed convolution separately to produce
-[CO-2,BL- standard and transposed output for the given image and filter size with
-3,80- 1] stride=2 and padding =1. [10]
-IMAGE
-4 3 2 1 Filter/Kernel
-1 4 3 2 0 1 0
-2 1 4 3 1 2 a
-3 2 1 4 0 1 0
-b. Write the algorithm for EARY STOPPING
-a -to determine the best amount of time to train [10]
-BOT] -to determine how long to train and retrain all data
--to determine at what object value we start to overfit, then continue till the
-value is reached.
-Q7 “ . . . .
-[CO-1,BL- Discuss the variants of the Convolution operation [10]
-2,SO-1]
-[CO-1,BL- Li Explain the architecture and working of the GAN model. Discuss the loss _| [10]
-2,SO0-1] incurred in the generator and discriminator. Give a brief note on its use
-
-cases
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 83c59453fffe
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/DEEP LEARNING/Deep Learning (DE-IV).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 85.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023 ;
-Program/s: MBA.Tech Year: 4th ~~ Semester: VIII
-
-Stream/s ; EXTC
-
-Subject: Deep Learning (DE-IV) Time: 3 hrs (LO0(Odamto 1:00 pr
-Date:_0% Muley 2023 No. of Pages: 3
-
-Marks: 100
-
-Re+Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1__ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-os Answer briefly: [4x5=20]
-o ri SO-1; | a. Compare leave one out cross validation and k-fold cross validation. [4]
-7 hy SO-1; | b. Analyze XOR and XNOR gate using a simple perceptron. [4]
-oa The feature map after applying 3 x 3 kernel/mask is given below.
-342/515
-Cc 1}i1 yi 41
-7 3/3 }1 {2
-CO-2; 80-1; 2/2]3 1/3 [4]
-Solve for
-(i) Max pooling with 2x 2
-(ii) Min pooling with 2x2
-(iii) | Average Pooling with 2 x 2
-(iv) Sum pooling 2x2
-a! SO-1; | d. Explain Bidirectional RNN in brief. [4]
-ar SO-1; |e Explain various types of activation functions in neural network. {4]
---- page 2 ---
-Q2 CO-2; a.
-
-SO-1; BL-2 Explain the architecture of ALEXNET in detail. [10]
-b. Differentiate between the following optimizers.
-CO-1; SO-1: (i) Gradient and Stochastic Gradient Descent
-Bit (ii) Mini Batch GD and AdaGrad HO]
-Q3 a. Explain Feed forward algorithm and back propagation algorithm in neural
-ao 80-1; . network with an example. ia
-C0-1;$0-1; | b. (#) Explain why there is a need of regularization in deep neura! network. [5]
-BL-2 Wy Explain parameter norm penalties in regularization of neural network. [5]
-oes sok a. (i) Discuss image classification application using deep learning. [5]
-BL-6 (ii) Discuss recurrent neural network in brief. What can be the limitations of (5)
-CO-3; SO-1; RNN?
-BL-6
-CO-3; SO-1; | b, P se 3 . : 5
-ar Explain Bi-Directional Long Short Term Memory with suitable neat diagram. [10]
-a. You have designed a convolutional neural network (CNN). The specifications
-of each layer are represented in the following table. The notation is as follows:
-CNN (s, n): denotes a CNN layer with n filters of size s
-Pooling (s): denotes a pooling layer with size s
-FC (n): denotes a fully-connected layer with n output neurons
-Given padding=0 and stride=1 wherever applicable.
-The input image is a color image with shape of 256 x 256 x 3. Determine the
-— shape for the output of each layer, the number of weights and biases for each
-0-2: $O-1: layer and the total number of parameters required to train the network. [10]
-BL-5
-Layer Activation map | Number of Number of
-size weights biases
-Input 256 X 256 X 3 0 0
-Conv(7, 16)
-Conv(11,32)
-Pooling(2)
-
-Conv(21,64)
---- page 3 ---
-Pooling(2)
-
-Conv(5,64)
-Pooling(2)
-FC(120)
-FC(4)
-CO-3; SO-1; ' a . : se : ‘
-_ b. Discuss the application of time series prediction using deep learning. [10]
-Q6 a. Discuss Encoder decoder sequence to sequence architecture.
-CO-3; SO-1; [10]
-BL-6 .
-vo b. Explain the following with respect to Convolutional neural network.
-(i) Receptive field
-CO-2; SO-1; (ii) Pooling “Valid” and Pooling “Same” [10]
-BL-2 (iii) Stride
-(iv) Flattening
-(v) Fully connected layer
-a. (i) Explain why RELU activation is used in the hidden layers of neural network [5]
-Q7
-CO-1; SO-1; in comparison to other activation function.
-BL-2 a x . co P 7
-CO-2; $O-1; (ii) Explain parameter estimation in convolutional neural network with [5]
-Ble example.
-0-1: $0-1: b. (i) Explain overfitting and under fitting in neural networks and how it can be [5]
-BL-2 removed.
-CO-1; SO-1;
-pe (ii)Explain the significance of early stopping and dropout. [5]
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper ff7f17bfbed6
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/DEEP LEARNING/Deep Learning (DE-IV)_ff7f17bfbe.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 84.9
-
-````text
-SVKM’S NMIMS NG WN
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERIN(
-Academic Year: 2022-2023
-
-Program/s: MBA.Tech Year: 4 — Semester: VIII
-Stream/s ; EXTC
-
-Subject: Deep Learning (DE-IV) Time: 3 hrs (L0:00amto 1:00pm)
-Date: 28 /Ap4! 2023 No. of Pages: 3 _
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-(> 2) Out of remaining questions, attempt any__4 _ questions.
-3) In all__5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql -
-Answer briefly: : [4x5=20]
-Pe SO-1; | a. Compare Lasso and Ridge Regularization. (4]
-oy SO-1; | b. Explain early stopping and dropout in neural networks. [4]
-c. The feature map after applying 3 x 3 kernel/mask is given below.
-3. }2|)5 1/5
-oO 4|[2/2/4
-3/3 |1 42
-CO- 2; SO-1; 2 {2 13 3 [4]
-BL-3
-Solve for
-(i) Max pooling with 2x 2
-(ii) Min pooling with 2x2
-(iii) Average Pooling with 2 x 2
-(iv) Sum pooling 2x2
-a > SO-1; | d. Explain Recurrent Neural Network with example. [4]
-
-i]s
---- page 2 ---
-Explain the problem of vanishing and exploding gradients. How it can be
-
-CO-1; SO-1; [4]
-BL-2 avoided?
-Q2 a.
-CO-1; SO-1: (i) Explain Bias and Variance trade-off. [5]
-_ _ $0-1: (ii) Explain capacity, under fitting, and overfitting in machine learning. [5]
-BL- 2 :
-ae SO-1; | b. Explain five types of optimizers with advantages and limitations. [10]
-a. For the given neural network, solve for the updated weights and biases for the
-hidden layer and the output layer using back propagation algorithm.
-0.05
-0.01
-Q3 ~
-CO-2; SO-1; . [14]
-BL-3
-0-10
-0.99
-1 =. oO: a 5
-b 2c 0: 6 0)
-CO-1; SO-1; | b. : 2 , <4
-BLD Explain various techniques for regularization in deep learning. [6]
-Q4 a.
-CO-3; SO-1; (i) Discuss Machine translation application using deep learning. (5]
-BL-6
-00-3: $0-1: (ii) Discuss the advantage of using bidirectional RNN over simple RNN. (5]
-BL6
-CO-3;SO-1; | b. é : : .
-BES Explain Long Short Term Memory with suitable neat diagram. [10] ~~
-Qs a. Explain VGG-16 CNN architecture. Also determine the number of trainable
-CO-2; SO-1; parameters at each convolutional layer, the feature map shape and size and the [10]
-Bless total number of parameters for the given network
-CO-3;SO-1; | b. : er : : or . .
-BLS Discuss the application of time series prediction using deep learning. [10]
-Q6 a. Discuss Encoder decoder sequence to sequence architecture.
-CO-3; SO-1; {10]
-BL-6
-CO-2; SO-1; ' ,
--— i Compare LENET,ALEXNET andgoadlenetnn architectures. [10]
-in kon | (i) Explain the role of activation functions in neural networks. {5]
-
-s)3
---- page 3 ---
-— (ii) What do you mean by hyperparameters? List a few common [5]
--1; SO-1;
-
-BL-1 hyperparameters which are used in deep neural networks.
-
-oe SO-1; | b. (i) Explain maximum likelihood estimation in machine learning. [5]
-CO-1; SO-1; (ii) Explain semi supervised learning and multitask learning. [5]
-BL-2
-
-3/2
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 128ce27edbc3
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/DEEP LEARNING/Deep Learning.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 87.4
-
-````text
-SVKM’S NMIMS
-
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: MBA.Tech /B.Tech Year: 4 Semester: VIII _
-Stream/s; EXTC_
-
-Subject: Deep Learning Time: 3_ hrs (Zioopmto Stoop)
-Date:_2.3 / 04 / 2024- No. of Pages:-3___
-
-Marks: 100.
-
-Re-Examination (2021-22, 22-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi , _ ra cnny
-Answer briefly: [4x5=20]
-ary SO-1; | a. Compare machine learning and deep learning. [4]
-oa Q SO-1; | b. Define what a perceptron is and describe its basic structure. [4]
-c. For the given scenario,
-ng 1} Number of Filters = 5
-10 *
-\
-Convolution
-CO- 2; SO-1; 10 Filter size=(3,3) [4]
-BL-3
-filters = 5,kernel_size=(3,3), input_shape=(10,10,1), stride=1, padding=0
-(i) Determine the number of parameters in the convolution layer.
-Q Determine the output shape.
-ne SO-l; | d. Explain a simple RNN cell and explain how it processes sequential data. [4]
-tee SO-1; |e Compare Relu and Tanh activation function. [4]
---- page 2 ---
-Q2 CO-2; a. Describe the architecture of AlexNet, including the number of layers, their 7
-SO-1; BL-2 . “he [10]
-types, and the number of neurons in each layer. ‘
-
-b. (i) What is the role of optimizers in training neural networks, and why [05]
-are they necessary
-CO-1; SO-1; rr ng «
-BL-4 (ii) Compare and contrast different variants of gradient descent, such
-as batch gradient descent, stochastic gradient descent, and mini- [05]
-batch gradient descent
-Q3 a. Explain Feed forward algorithm and back propagation algorithm in neural
-CO-1; SO“; network with i i
-BL2 with an example.
-CO-1;S0-1; | b. (a) Explain L1 and L2 regularization. [5]
-BL-2 (b) Explain the various hyperparameters used in training a neural network.. [5]
-Q4 a. Explain any one image classification application using convolutional neural
-CO-3; SO-1; [10]
-BL-6 network. *
-CO-3;$0-1; | b. Explain the architecture of an LSTM cell and how it addresses the vanishing 110]
-BL-2 gradient probiem in traditional RNNs.
-Q5 a. Explain the steps for calculating the number of parameters, feature map size in
-p Pi [10]
-CO-2; SO-1; ° c
-BL-5 Sor a given convolutional neural network by taking an example. .
-CO-3;$0-1; | b. Discuss machine translation application with a suitable deep learning [10]
-BL-6 architecture.
-Q6 a. Explain the structure of an Encoder-Decoder model and how it differs from rt]
-CO-3; SO-1;
-BL-6 ales traditional feedforward neural networks.
-CO-2; $0-1; | b. Describe the components of a typical CNN architecture, including (10)
-BL-2 convolutional layers, pooling layers, and fully connected layers.
-Q7 “ya, (i) Explain why simple perceptron can’t be used for non-linearly separable [05]
-CO-1; SO-1;
-BL-2 dataset.
-Poe SO (ii) Explain Bias and variance tradeoff. [05]
---- page 3 ---
-i
-
-CO-1; SO-1;
-BL-2
-CO-1; SO-1;
-BL-2
-
-F ny
-
-(i) Explain the various methods to solve overfitting problems in neural
-network.
-(ii) Compute the output of the given neural network using sigmoid activation
-
-function.
-
-[5]
-
-[5]
 ````

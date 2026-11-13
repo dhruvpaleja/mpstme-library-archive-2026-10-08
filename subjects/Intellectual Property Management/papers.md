@@ -98,6 +98,56 @@ Ill.   Explain e o   f the following IP concepts:   (Marks 20)
 5. WlPO
 ````
 
+## 2012-13 · Re-Exam · Trim 12 · paper 07b31209f8ac
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Intellectual property management/INTELLECTUAL PROPERY MANAGEMENT BATCH 2011-12 RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: max marks: 20
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Patel School of Technolorn Management 8s
+Programme: MBA (Tech)ALL STREAMS   Year: IV
+Academic Year :2012-2013
+Batch:   2011-2012
+Subject:   INTELLECTUAL PROPERTY   Marks:
+MANAGEMENT   Time:
+Date:   3 / 5 / 2 0 1 3   Duration:
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+1.   All questions are cornpnlsory
+2. Answer to each new question to be started on a fresh page.
+I. Answer any of the following elaborately:   (Marks 20)
+1. Who can apply for a patent? Explain with relevant examples the necessary criteria of patentability.
+2. What are the different kinds of trademarks? Explain with examples nonconventional marks and how they can
+be protected.
+3. Explain what are the essential criteria for Design protection and its differences with Copyright protection.
+4. Who is the owner of a copyright? Explain with reference to the context of a creator's position.
+5. When is a registered Geographical Indication said to be infringed? Who can initiate an infringement action?
+Give 2 examples of possible Indian Geographical Indications.
+6. Companies spend a lot of money on establishing their trademarks. But how can they prevent other people
+fi-om using them?
+7. What is meant by 'Design' under the Designs Act, 2000? What are the essential requirements for the
+registration of 'design' under the Designs Act, 2000?
+I1 Cite the differences between any the following:   (Marks 10)
+1. Patents and Designs
+2. Geographical Indications & Traditional knowledge
+3. Goodwill and trademarks
+4. State the differences between an action for passing off and infringement in trademarks
+111. Explain any five of the following IP concepts:   (Marks 20)
+1, Grant of monopoly rights
+2. Claims
+3. Invented Marks
+4. Originality in Copyrights
+5. Oiiution of Trade mark
+6. Piracy
+7. Passing off
+````
+
 ## 2011-12 · Exam not stated · Trim 12 · paper 274242d70780
 
 - Departments: Chemical, Information Technology, Manufacturing
@@ -163,72 +213,6 @@ F \ . Traditional knowledge
 6. Fair use
 
 7. Disparagement of trademarks
-````
-
-## 2011 · Exam not stated · Trim 12 · paper 185e229f05cf
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Intellectual property management/INTELLECTUAL PROPERTY MANAGEMENT 2011.pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/04/2011
-- Text: ocr (1 page), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
-
-Academic Year : 2010-2011
-
-Subject: Intellectual Property Marks: 50
-Management Time: 2.00 pm To 4.00 pm
-Date: 26/04/2011 Duration: 2 hrs.
-
-Final - Examination
-
-i. Answer any 4 of the following elaborately: (Marks 20)
-
-1. Explain how the current law of inteliectual properties evolvéd through themiddle ‘ages. What
-
-was the role and impact of WTO on intellectual properties? ;
-- 2. Define the term invention and enumerate with reasons the inventions that are not patentable
-
-under the Patent Act 1970.
-
-3. Explain why and how a patent can be opposed after it has been filed with specific reference to
-the grounds for opposition.
-
-4. Explain the concept and importance of ‘Originality’ under of the Copyright Act with relevant
-examples in the context of a film. .
-
-5. Explain the essential functions and features of a Trademark through relevant illustrations.
-Explain the hierarchy of protection in marks?
-
-6. Discuss the importance and salient features of the recent Designs Law of India.
-
-Il Cite the differences between any 2 the following: (Marks 10)
-
-1. License and a compulsory license?
-2. Industrial Design and patent protection?
-3. Anaction for passing off and infringement suit in trademarks?
-
-ill. Explain any five of the following IP concepts: (Marks 20)
-
-1. Exclusive IP rights
-
-2. Fair Use
-
-3. Prior art
-
-4. Non obviousness
-
-5. Traditional knowledge
-6. Moral rights
-
-7. Geographical Indications
-
-h
 ````
 
 ## 2011-12 · Re-Exam · Trim 12 · paper 72bb30276f9c
@@ -297,54 +281,70 @@ Wi
 eo 7. Inventor’
 ````
 
-## 2011-12 · Re-Exam · Trim 12 · paper 07b31209f8ac
+## 2010-11 · Exam not stated · Trim 12 · paper 185e229f05cf
 
 - Departments: Chemical, Information Technology, Manufacturing
 - Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Intellectual property management/INTELLECTUAL PROPERY MANAGEMENT BATCH 2011-12 RE EXAM.pdf` (+2 identical copies)
-- Printed on paper: max marks: 20
-- Text: text (1 page)
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Intellectual property management/INTELLECTUAL PROPERTY MANAGEMENT 2011.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/04/2011
+- Text: ocr (1 page), mean OCR confidence 91.3
 
 ````text
-SVKM's NMIMS
-Mukesh Patel School of Technolorn Management 8s
-Programme: MBA (Tech)ALL STREAMS   Year: IV
-Academic Year :2012-2013
-Batch:   2011-2012
-Subject:   INTELLECTUAL PROPERTY   Marks:
-MANAGEMENT   Time:
-Date:   3 / 5 / 2 0 1 3   Duration:
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-1.   All questions are cornpnlsory
-2. Answer to each new question to be started on a fresh page.
-I. Answer any of the following elaborately:   (Marks 20)
-1. Who can apply for a patent? Explain with relevant examples the necessary criteria of patentability.
-2. What are the different kinds of trademarks? Explain with examples nonconventional marks and how they can
-be protected.
-3. Explain what are the essential criteria for Design protection and its differences with Copyright protection.
-4. Who is the owner of a copyright? Explain with reference to the context of a creator's position.
-5. When is a registered Geographical Indication said to be infringed? Who can initiate an infringement action?
-Give 2 examples of possible Indian Geographical Indications.
-6. Companies spend a lot of money on establishing their trademarks. But how can they prevent other people
-fi-om using them?
-7. What is meant by 'Design' under the Designs Act, 2000? What are the essential requirements for the
-registration of 'design' under the Designs Act, 2000?
-I1 Cite the differences between any the following:   (Marks 10)
-1. Patents and Designs
-2. Geographical Indications & Traditional knowledge
-3. Goodwill and trademarks
-4. State the differences between an action for passing off and infringement in trademarks
-111. Explain any five of the following IP concepts:   (Marks 20)
-1, Grant of monopoly rights
-2. Claims
-3. Invented Marks
-4. Originality in Copyrights
-5. Oiiution of Trade mark
-6. Piracy
-7. Passing off
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
+
+Academic Year : 2010-2011
+
+Subject: Intellectual Property Marks: 50
+Management Time: 2.00 pm To 4.00 pm
+Date: 26/04/2011 Duration: 2 hrs.
+
+Final - Examination
+
+i. Answer any 4 of the following elaborately: (Marks 20)
+
+1. Explain how the current law of inteliectual properties evolvéd through themiddle ‘ages. What
+
+was the role and impact of WTO on intellectual properties? ;
+- 2. Define the term invention and enumerate with reasons the inventions that are not patentable
+
+under the Patent Act 1970.
+
+3. Explain why and how a patent can be opposed after it has been filed with specific reference to
+the grounds for opposition.
+
+4. Explain the concept and importance of ‘Originality’ under of the Copyright Act with relevant
+examples in the context of a film. .
+
+5. Explain the essential functions and features of a Trademark through relevant illustrations.
+Explain the hierarchy of protection in marks?
+
+6. Discuss the importance and salient features of the recent Designs Law of India.
+
+Il Cite the differences between any 2 the following: (Marks 10)
+
+1. License and a compulsory license?
+2. Industrial Design and patent protection?
+3. Anaction for passing off and infringement suit in trademarks?
+
+ill. Explain any five of the following IP concepts: (Marks 20)
+
+1. Exclusive IP rights
+
+2. Fair Use
+
+3. Prior art
+
+4. Non obviousness
+
+5. Traditional knowledge
+6. Moral rights
+
+7. Geographical Indications
+
+h
 ````
 
 ## 2009-10 · Exam not stated · Trim 12 · paper 3765d23fa884
@@ -354,6 +354,7 @@ I1 Cite the differences between any the following:   (Marks 10)
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Intellectual property management/2009-2010(181).pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (3 pages), mean OCR confidence 93.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS “
@@ -363,7 +364,6 @@ Mukesh Patel School of Technology Management & Engine ring 4
 Programme —- MBA TECHIV _ Trimester XII Academic Yeai : 2009 - 2010
 (AU Streams) \%
 
-Subject: - IPR (Intell ecliol frpely Me ansponet) Date: 6" May 2010
 
 , Marks: 50
 Yinol foeaen Time: 2 hours (pm - 4pm)
@@ -695,13 +695,13 @@ a novel, inventive & useful working device based on the principle.
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Intellectual property management/2009-2010 batch re exam(17).pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (2 pages), mean OCR confidence 92.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
 
 Programme —- MBA TECHIV Trimester XII Academic Ye
 
-Subject: -IPR [_ JNTELL E CTUAL Date:2.6 /6 gpor0— 4
 PROPERTY Marks: 50
 MANAGEMENT | Time:G 2 hours
 Clorcdsam Te (2-conoon |

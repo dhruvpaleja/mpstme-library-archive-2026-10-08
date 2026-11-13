@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to International Business(702TG0C021)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CSE DS 7011 | QP_Introduction to International Business(702TG0C021)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to International Business(702TG0C005)_2024-2025.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to International Business(702TG0C021)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | BTech CSE DS 7011 | QP_Introduction to International Business(702TG0C005)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to International Business(702TG0C005)_2024-2025.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / CSEDS-311 | Introduction to International Business, A Y 2023-24 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / CSEDS-311 | Introduction to International Business, 2nd Year, Sem-IV, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / CSEDS-311 | Introduction to International Business, Sem-IV, Year 2022-23, Re Exam.pdf |

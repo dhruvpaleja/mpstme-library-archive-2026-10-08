@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Project Risk Management(703TO0E004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Project Risk Management(703TO0E004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Project Risk Management(703TO0E004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Project Risk Management(703TO0E004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Project Risk Management(703TO0E004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Project Risk Management(703TO0E004)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBA TECH | Project Risk Management,Final Exam 2024-25.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 9 | MBA TECH | Project Risk Management, Final 2023-2024.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 9 | MBA TECH | Project Risk Management,Final,2022-23.pdf |

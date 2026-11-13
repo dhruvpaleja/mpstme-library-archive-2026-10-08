@@ -1592,6 +1592,325 @@ computation required).
 ********** 5 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 4 · paper eb32d9833d93
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/ARTIFICIAL INTELLIGENCE/Optimization Techniques, Sem-IV, Batch 2023-24 &2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 July 2026
+- Text: ocr (5 pages), mean OCR confidence 87.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Academic Year: 2025-26
+
+Program: B Tech/ MBA Tech (AI/AI&DS/AI&ML)
+
+Year: I Semester : [V
+
+Subject: Optimization Techniques
+
+LIBRARY ;
+Sh f
+we
+
+Time: 2.00 pm to 5.00 pm (3 hr) “aS
+Date : 04 July 2026 - Miia rrr ye
+No. of Pages: 05
+Marks: 100
+Re-Exam (2023-24/2024-25/2025-26) ,
+Instructions:
+1. This question paper contains 5 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each new question to be started on a fresh page
+7. Figures in brackets on the right-hand side indicate full marks
+8. Assume Suitable data if necessary
+Ql Answer briefly: [10]
+CO-1,4; a. 5
+> BL- Find the dual of the following problem
+Apply Maximize Z = 3x; — 2x2 + x3 + 4x,
+Subject to the constraints,
+X,— 2x, + 5x3 + 8x, >-1
+2X2 + 3x3 —X4 = 3
+Xp +X. +X34+ X, S56
+X4,X2,X3,Xq4 =O
+CO-1,3;   b. : 3
+BL- Determine an initial basic feasible solution to the following transportation problem
+Apply using North-West Corner Method.
+Sources Destination
+Di D2 D3 Supply
+Sl 2 2 3 10
+82 4 1 2 15
+S3 1 3 1 40
+Demand 20 15 30
+e .
+CO-1,2; c. 5
+BL- The fellowing is a payoff (in rupees) table for three strategies and two states of
+Apply nature:
+Strategy State of Nature
+Ni N>
+Si 60 40
+S2 20 30
+S3 100 -10
+
+Select a strategy using each of the following decision criteria:
+(a) Maximin,
+(b) Minimax regret.
+
+BR 7 OK Ok
+--- page 2 ---
+CO-1,2;
+BL-
+Analyze
+
+Q2
+
+CO-1,2;
+BL-
+
+Analyze
+
+CO-1,4:
+BL-
+Apply
+
+Q3
+CO-1,4;
+BL-
+Apply
+
+d. Consider the following game:
+
+I I sent
+1 2 1 3
+2 3 2 4
+3 1 0 2
+
+i. Test whether the game is strictly determined.
+ii. Find the saddle point, if it exists.
+iii. State the optimal strategies and value of the game.
+
+. nd . .
+A manufacturer is planning to produce a new product but is uncertain about market
+demand. The possible demand leveis and corresponding profits (in ®) for three
+production strategies are: .
+
+Strategy State of Nature
+High Medium Low
+A 80,000 40,000 -20,000
+B 60,000 35,000 5,000
+Cc 30,000 25,000 15,000
+What should he decide, using the pessimistic criterion, optimistic criterion, equally
+likely criterion, and regret criterion?
+
+The final product of a firm must weigh exactly 150 kg. The two raw materials used in
+the manufacturing of this product are A with a cost of Rs. 2 per unit and B with a cost
+of Rs. 8 per unit. Each unit of A weighs 5 kg. Each unit of B weighs 10 kg. At least 14
+units of B and not more than 20 units of A must be used. How much of each type of
+raw material should be used for each unit of the final product if cost is to be minimized?
+Formulate this problem as a linear programming model and solve graphically.
+
+Solve the following LPP using the Simplex Method.
+Maximize Z = 4000x, + 2000x,z + 5000x3
+Subject to the constraints,
+
+12x, + 7x2 + 9x3 < 1260
+
+22x, + 18x, + 16x3 < 19008
+
+X1,%X2,X3 = 0
+
+
+5
+
+[20]
+10
+
+10
+
+[20]
+10
+--- page 3 ---
+a“
+
+Fa
+
+CO-1,2;
+BL-
+
+Analyze
+Q4
+CO-1,4;
+BL-
+Apply
+CO-1,4;
+BL-
+Analyze
+Q5
+
+CO- 1,3;
+BL-
+Analyze
+
+b
+
+a
+
+The manager of a flower shop promises its customers delivery within four hours on all
+flower orders. All flowers are purchased on the previous day and delivered to Parker
+by 8.00 am the next morning. The daily demand for roses is as follows.
+
+| Dozens of roses 70 80 90 100
+| Probability 0.1 0.2 0.4 0.3
+
+The manager purchases roses for Rs 10 per dozen and sells them for Rs 30. All unsold
+roses are donated to a local hospital. How many dozens of roses should Parker order
+each evening to maximize its profits? Calculate EMV and EOL.
+
+The following improved solution is obtained while solving the LPP using the Big-M
+method. Continue solving to find the optimal solution that minimizes the total cost.
+
+Glo] 10[o0f{0 {0 ]M
+
+Basic Coefficient Solution xy X2 Sy Sz S3 A
+Variables B | of basic XB
+variables Cp
+A M 5 0 4/3 | -1 0 ”~ 1
+xy 9 20:-*] 1 2/3 0 0 | -1/3 | 0
+Sz 0 56 0 | -1/3 | 0 1 -4/3 | 0
+
+Solve the following Problem using the Branch and Bound method.
+Maximize,Z = 7X1 + 3X2
+
+Subject to
+
+2X1+X2<9
+
+X1+ 2X2 <8
+
+X1,X2 > Oand are integers
+
+A manufacturer has distribution centers at Agra, Allahabad and Kolkata. These
+centers have availability of 40, 20 and 40 units of his product, respectively. His retail
+outlets at A, B, C, D and E require 25, 10, 20, 30 and 15 units of the products,
+respectively. The transport cost (in rupees) per unit between each center outlet is
+given below:
+
+Distribution Retail Outlets
+Center A B is D E
+Agra 55 30 40 50 40
+Allahabad 35 30 100 45 60
+Kolkata 40 60 95 35 30
+
+Determine the optimal distribution so as to minimize the cost of transportation.
+
+
+[20]
+10
+
+10
+
+[20]
+10
+--- page 4 ---
+CO- 1,2; b 10
+
+BL- Find the value of the game and strategies for both the players having the following
+Analyze payoff matrix:
+I II i IV
+e e
+
+1 7 2 6 3 A
+
+2 5 3 5 )
+
+3 6 1 4 5
+
+4 4 2 3 1
+Q6 [20]
+CO-1,3; a 10
+BL- A construction company has requested bids for subcontracts on five different projects.
+Apply Five companies have responded. Their bids are represented below.
+
+Bid Amounts (‘000s Rs)
+
+I it itn IV V
+
+g [1 41 72 39 52 25
+
+z 2 22 29 49 65 81
+
+oa 3 27 39 60 51 40 =
+4 45 50 48 52 37
+5 29 40° 45 26 30
+
+Determine the minimum cost assignment of subcontracts to bidders, assuming that each
+bidder can receive only one contract.
+
+CO-1,4; b a 10
+BL- Apply Gomory Cutting plane method and find the integer solution for an. integer
+Analyze programming problem for which the Simplex Table for the optimal LP solution is as
+follows:
+CG 4 3 0 0
+
+CB Basis x x2 S1 S2 RHS
+
+4 xl 1 0 0.67 -0.33 1.67
+
+3 x2 0 1 -0.33 0.67 1.67
+
+Zj Z=11.67 4 3 1.67 0.67
+oF [20]
+CO- 1,3; a 8 ~
+BL- In the modification ofa plant layout of a factory four new machines M1, M2, M3, and
+Analyze M4 are to-be installed in a machine shop. There are five vacant places A, B, C, D and
+
+E available. Because of limited space, machine M2 cannot be placed at C and M3
+cannot’be placed at A. The cost of locating a machine at a place (in hundred rupees) is
+
+as follows.
+Location
+A B Cc D E
+a M 9 1 15 10 1]
+3 Mp 12 9 : 10 9
+Ss M3 - 1 14 1 7
+Mg 14 8 + 12 7 8
+
+Find the optimal assignment schedule.
+
+FIR OO OK
+--- page 5 ---
+CO- 1,4; b Solve the following LPP using the Graphical Method.
+
+Aon Min(total cost) z = 200x, + 400x,
+. Subject to e
+xX, +x, = 200 -
+x, + 3x, > 400 :
+x1 + 2x, < 350
+X4,X%. 20
+CO- 1,4; ¢
+BL- A production manager is given an integer programming problem with two decision
+Apply variables. After solving the LP relaxation, the optimal solution obtained is fractional.
+
+The manager has two options:
+e Apply the Branch and Bound Method
+e Apply the Gomory Cutting Plane Method
+However, the manager notices that:
+¢ The LP relaxation has only one fractional basic variable, and
+¢ The feasible region is small and can be visualized graphically
+i. Which method would you recommend in this situation? Justify your answer
+clearly.
+ii. Explain how the chosen method would proceed (outline steps, no full
+computation required).
+
+FO OGIO ok
+````
+
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper d25a513423ff
 
 - Departments: Artificial Intelligence
@@ -1599,6 +1918,7 @@ computation required).
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/OPTIMIZATION TECHNIQUES/Optimization Techniques, Sem IV, Final Exam 2024-25 & Re Exam 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 90.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1817,7 +2137,6 @@ Subject to
 2x, +3x, <1, x, $2, x, & x, are non negative integers
 
 CQ; 2 5 0 0
-B Ce | Xp Xi Xa Si S2
 X2 5 | 0.3333 | 0.6667 | 1 0.3333 | 0
 S2 0 | 1.6667 | -0.6667 | 0 -0.3333 | 1
 Z= 1.6665 Z) 3.3333 | 5 1.6667 | 0
@@ -1874,327 +2193,7 @@ Method. What is the optimal production plan for the company to achieve maximum
 profit?
 ````
 
-## 2024-25 · Re-Exam · Sem 4 · paper eb32d9833d93
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/ARTIFICIAL INTELLIGENCE/Optimization Techniques, Sem-IV, Batch 2023-24 &2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 July 2026
-- Text: ocr (5 pages), mean OCR confidence 87.0
-
-````text
-SVKM’S NMIMS
-/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Academic Year: 2025-26
-
-Program: B Tech/ MBA Tech (AI/AI&DS/AI&ML)
-
-Year: I Semester : [V
-
-Subject: Optimization Techniques
-
-LIBRARY ;
-Sh f
-we
-
-Time: 2.00 pm to 5.00 pm (3 hr) “aS
-Date : 04 July 2026 - Miia rrr ye
-No. of Pages: 05
-Marks: 100
-Re-Exam (2023-24/2024-25/2025-26) ,
-Instructions:
-1. This question paper contains 5 pages.
-2. Question No. 1 is compulsory
-3. Out of remaining questions, attempt any 4 questions
-4. In all 5 questions to be attempted
-5. All questions carry equal marks
-6. Answer to each new question to be started on a fresh page
-7. Figures in brackets on the right-hand side indicate full marks
-8. Assume Suitable data if necessary
-Ql Answer briefly: [10]
-CO-1,4; a. 5
-> BL- Find the dual of the following problem
-Apply Maximize Z = 3x; — 2x2 + x3 + 4x,
-Subject to the constraints,
-X,— 2x, + 5x3 + 8x, >-1
-2X2 + 3x3 —X4 = 3
-Xp +X. +X34+ X, S56
-X4,X2,X3,Xq4 =O
-CO-1,3;   b. : 3
-BL- Determine an initial basic feasible solution to the following transportation problem
-Apply using North-West Corner Method.
-Sources Destination
-Di D2 D3 Supply
-Sl 2 2 3 10
-82 4 1 2 15
-S3 1 3 1 40
-Demand 20 15 30
-e .
-CO-1,2; c. 5
-BL- The fellowing is a payoff (in rupees) table for three strategies and two states of
-Apply nature:
-Strategy State of Nature
-Ni N>
-Si 60 40
-S2 20 30
-S3 100 -10
-
-Select a strategy using each of the following decision criteria:
-(a) Maximin,
-(b) Minimax regret.
-
-BR 7 OK Ok
---- page 2 ---
-CO-1,2;
-BL-
-Analyze
-
-Q2
-
-CO-1,2;
-BL-
-
-Analyze
-
-CO-1,4:
-BL-
-Apply
-
-Q3
-CO-1,4;
-BL-
-Apply
-
-d. Consider the following game:
-
-I I sent
-1 2 1 3
-2 3 2 4
-3 1 0 2
-
-i. Test whether the game is strictly determined.
-ii. Find the saddle point, if it exists.
-iii. State the optimal strategies and value of the game.
-
-. nd . .
-A manufacturer is planning to produce a new product but is uncertain about market
-demand. The possible demand leveis and corresponding profits (in ®) for three
-production strategies are: .
-
-Strategy State of Nature
-High Medium Low
-A 80,000 40,000 -20,000
-B 60,000 35,000 5,000
-Cc 30,000 25,000 15,000
-What should he decide, using the pessimistic criterion, optimistic criterion, equally
-likely criterion, and regret criterion?
-
-The final product of a firm must weigh exactly 150 kg. The two raw materials used in
-the manufacturing of this product are A with a cost of Rs. 2 per unit and B with a cost
-of Rs. 8 per unit. Each unit of A weighs 5 kg. Each unit of B weighs 10 kg. At least 14
-units of B and not more than 20 units of A must be used. How much of each type of
-raw material should be used for each unit of the final product if cost is to be minimized?
-Formulate this problem as a linear programming model and solve graphically.
-
-Solve the following LPP using the Simplex Method.
-Maximize Z = 4000x, + 2000x,z + 5000x3
-Subject to the constraints,
-
-12x, + 7x2 + 9x3 < 1260
-
-22x, + 18x, + 16x3 < 19008
-
-X1,%X2,X3 = 0
-
-FOI I A ok a ote a
-
-5
-
-[20]
-10
-
-10
-
-[20]
-10
---- page 3 ---
-a“
-
-Fa
-
-CO-1,2;
-BL-
-
-Analyze
-Q4
-CO-1,4;
-BL-
-Apply
-CO-1,4;
-BL-
-Analyze
-Q5
-
-CO- 1,3;
-BL-
-Analyze
-
-b
-
-a
-
-The manager of a flower shop promises its customers delivery within four hours on all
-flower orders. All flowers are purchased on the previous day and delivered to Parker
-by 8.00 am the next morning. The daily demand for roses is as follows.
-
-| Dozens of roses 70 80 90 100
-| Probability 0.1 0.2 0.4 0.3
-
-The manager purchases roses for Rs 10 per dozen and sells them for Rs 30. All unsold
-roses are donated to a local hospital. How many dozens of roses should Parker order
-each evening to maximize its profits? Calculate EMV and EOL.
-
-The following improved solution is obtained while solving the LPP using the Big-M
-method. Continue solving to find the optimal solution that minimizes the total cost.
-
-Glo] 10[o0f{0 {0 ]M
-
-Basic Coefficient Solution xy X2 Sy Sz S3 A
-Variables B | of basic XB
-variables Cp
-A M 5 0 4/3 | -1 0 ”~ 1
-xy 9 20:-*] 1 2/3 0 0 | -1/3 | 0
-Sz 0 56 0 | -1/3 | 0 1 -4/3 | 0
-
-Solve the following Problem using the Branch and Bound method.
-Maximize,Z = 7X1 + 3X2
-
-Subject to
-
-2X1+X2<9
-
-X1+ 2X2 <8
-
-X1,X2 > Oand are integers
-
-A manufacturer has distribution centers at Agra, Allahabad and Kolkata. These
-centers have availability of 40, 20 and 40 units of his product, respectively. His retail
-outlets at A, B, C, D and E require 25, 10, 20, 30 and 15 units of the products,
-respectively. The transport cost (in rupees) per unit between each center outlet is
-given below:
-
-Distribution Retail Outlets
-Center A B is D E
-Agra 55 30 40 50 40
-Allahabad 35 30 100 45 60
-Kolkata 40 60 95 35 30
-
-Determine the optimal distribution so as to minimize the cost of transportation.
-
-FOR IO A Hk a i a
-
-[20]
-10
-
-10
-
-[20]
-10
---- page 4 ---
-CO- 1,2; b 10
-
-BL- Find the value of the game and strategies for both the players having the following
-Analyze payoff matrix:
-I II i IV
-e e
-
-1 7 2 6 3 A
-
-2 5 3 5 )
-
-3 6 1 4 5
-
-4 4 2 3 1
-Q6 [20]
-CO-1,3; a 10
-BL- A construction company has requested bids for subcontracts on five different projects.
-Apply Five companies have responded. Their bids are represented below.
-
-Bid Amounts (‘000s Rs)
-
-I it itn IV V
-
-g [1 41 72 39 52 25
-
-z 2 22 29 49 65 81
-
-oa 3 27 39 60 51 40 =
-4 45 50 48 52 37
-5 29 40° 45 26 30
-
-Determine the minimum cost assignment of subcontracts to bidders, assuming that each
-bidder can receive only one contract.
-
-CO-1,4; b a 10
-BL- Apply Gomory Cutting plane method and find the integer solution for an. integer
-Analyze programming problem for which the Simplex Table for the optimal LP solution is as
-follows:
-CG 4 3 0 0
-
-CB Basis x x2 S1 S2 RHS
-
-4 xl 1 0 0.67 -0.33 1.67
-
-3 x2 0 1 -0.33 0.67 1.67
-
-Zj Z=11.67 4 3 1.67 0.67
-oF [20]
-CO- 1,3; a 8 ~
-BL- In the modification ofa plant layout of a factory four new machines M1, M2, M3, and
-Analyze M4 are to-be installed in a machine shop. There are five vacant places A, B, C, D and
-
-E available. Because of limited space, machine M2 cannot be placed at C and M3
-cannot’be placed at A. The cost of locating a machine at a place (in hundred rupees) is
-
-as follows.
-Location
-A B Cc D E
-a M 9 1 15 10 1]
-3 Mp 12 9 : 10 9
-Ss M3 - 1 14 1 7
-Mg 14 8 + 12 7 8
-
-Find the optimal assignment schedule.
-
-FIR OO OK
---- page 5 ---
-CO- 1,4; b Solve the following LPP using the Graphical Method.
-
-Aon Min(total cost) z = 200x, + 400x,
-. Subject to e
-xX, +x, = 200 -
-x, + 3x, > 400 :
-x1 + 2x, < 350
-X4,X%. 20
-CO- 1,4; ¢
-BL- A production manager is given an integer programming problem with two decision
-Apply variables. After solving the LP relaxation, the optimal solution obtained is fractional.
-
-The manager has two options:
-e Apply the Branch and Bound Method
-e Apply the Gomory Cutting Plane Method
-However, the manager notices that:
-¢ The LP relaxation has only one fractional basic variable, and
-¢ The feasible region is small and can be visualized graphically
-i. Which method would you recommend in this situation? Justify your answer
-clearly.
-ii. Explain how the chosen method would proceed (outline steps, no full
-computation required).
-
-FO OGIO ok
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper f195b2df3b4b
+## 2023-24 · Final + Re-Exam · Sem 4 · paper f195b2df3b4b
 
 - Departments: Artificial Intelligence
 - Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
@@ -2481,166 +2480,7 @@ Il -1 0
 6/6.
 ````
 
-## 2022-23 · Final-Exam · Sem 4 · paper 8f7190c2e723
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/OPTIMIZATION TECHNIQUES/Optimization Techniques,Final ,2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 85.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN!
-Academic Year: 2022-2023
-Programs: MBA Tech Artificial Intelligence / Year: 2"4 Semester: IV
-BTech AI and ML/ B Tech AI and DS
-
-Subject: Optimization Techniques Time: 3 hrs (.0:00emto_ 1:00pm)
-Date:_2F /Aps/ 2023 No. of Pages: 06
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql [20]
-Cco-1; a. Find the Dual of following Primal (4)
-SO-1; Maximize Z = 4x, + 6x.
-BL-1 1 2
-subject to,
-xX, - 7x, 23
-2%, — 3x, 53
-x; 2-1
-MX xX, x,20
-CO-1,3; b. Identify Initial basic feasible solution for the given transportation problem by | (4)
-7 using North West Comer Rule. Also give the total cost for the solution.
-Destination
-D1 | D2 | D3 | Supply
-Sl 56 | 25 | 67 | 10
-Source | $2 38 | 45 | 58 | 30
-S3 11 | 30 | 90 | 47
-S4 15 | 20 | 10 | 30
-
-Demand | 40 | 40 | 37
---- page 2 ---
-CO-1,2;
-
-The following is a payoff (profit in rupees) table for three strategies and two | (4)
-
-eS states of nature:
-Strategy | State of Nature
-N1 N2
-Sl 8 11
-S2 6 7
-S3 3 12
-Select a strategy using each of the following decision criteria:
-(a) Maximax, (b) Maximin.
-CO-1,2; . Solve the following Games. Determine whether the given game is strictly | (4)
-an determinable and pure. Give the strategies for each player.
-Player B
-1}7|3)4
-Player A} 5|6/4)5
-7/2)0}3
-CO-1,4; Old hens can be bought for = 20 each but young ones cost = 50 each. The old | (4)
-ee hens lay 3 eggs per week and young ones lays 5 eggs per week. Profit per
-week from old hens is -1 and profit from young hens is 5 If a person has only
-% 800 to spend on the hens, how many of each kind should he buy to get a
-profit of more than 60 per week assuming that he cannot house more than
-20 hens?
-Q2 [20]
-CO-1; . Solve the following Linear Programming Problem using Simplex Method (10)
-ey Maximize Z =3x,+2x,
-subject to,
-2x, +X, 516
-xX, +2x, $30
-X,, x, 20
-. Obtain the optimal solution to the following IPP using branch and bound
-Sol. method graphically. (10)
-BL-3 Maximize Z = x, +x,
-subject to,
-3x,+2x, $12
-x, 22
-x, 23
-
-X,, x,20 and are integers
---- page 3 ---
-Q3 [20]
-
-| CO-1,4; a. Solve the following Linear Programming Problem using Big-M Method (10)
-air Maximize Z =10x, +2x,
-subject to,
-10x, +4x, < 40
-2x, 26
-2x, £10
-X,, x, 20
-b. A factory produces 3 varieties of fountain pens. Type I: Fixed Cost (F.C.)
-So. Rs. 200000, Variable Cost (V.C.) Rs. 10 per unit, Type Il: F.C. Rs. 320000, | (19)
-BL-2 V.C. Rs.8 per unit, Type II: F.C. 600000, V.C. Rs. 6 per unit. Demand may
-be 25000 or 100000 or 150000 units. If the price of each type is Rs. 20,
-prepare the pay-off table after showing necessary calculations. If it can
-produce only one of the three varieties, which one should be produced given
-that probability of 25000, 100000 and 150000 is 0.2, 0.3 and 0.5
-respectively. Give your decision by finding EMV.
-
-Q4 [20]
-CO-1,3; a. Evaluate the Initial Basic Feasible Solution for the given transportation | (10)
-3 problem with Vogel’s Approximation method. Also find the optimal Solution.
-CO-1,2;
-SO- 53
-iBL3 Destination
-D1 | D2 | D3 | D4 | Supply
-S1 10 | 30 | 20 | 15 |7
-Source | $2 30 | 70 | 60 | 40 |9
-S3 20 |8 | 40 | 50 | 24
-
-Demand | 5 8 7 20
-
-b. Two candidates, X and Y, are competing for the councillor’s seat in a city
-municipal corporation, and X is attempting to increase his total votes at the
-expense of Y. The strategies available to each candidate involve personal (10)
-contacts, newspaper insertions / speeches or television appearance /
-advertising. The increase in votes available to X given various combinations
-of strategies are given below. (Assume that this is zero-sum game, i.e., any
-gain of X is equal to the votes lost by Y). Determine the optimum strategies
-that should be adopted by X during his election campaign. How many votes
-should X gain by following optimum strategy?
---- page 4 ---
-CO-1,3;
-SO-1;
-BL-2
-
-c
-
-Evaluate the initial basic feasible solution for the given transportation
-problem with Vogel’s Approximation method.
-
-Destination
-D1 | D2 | D3 | D4 | Supply
-Sl 6 {1 |9 |3 | 70
-Source | $2 11 |5 |2 [8 55
-83 10 |}12 }4 |7 | 90
-
-Demand | 85 | 35 | 50 | 45
-
-(6)
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper 1aabf88c7090
+## 2023-24 · Re-Exam · Sem 4 · paper 1aabf88c7090
 
 - Departments: Artificial Intelligence
 - Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
@@ -2927,6 +2767,165 @@ II 0.08 0.15
 616
 
 on
+````
+
+## 2022-23 · Final-Exam · Sem 4 · paper 8f7190c2e723
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/OPTIMIZATION TECHNIQUES/Optimization Techniques,Final ,2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 85.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN!
+Academic Year: 2022-2023
+Programs: MBA Tech Artificial Intelligence / Year: 2"4 Semester: IV
+BTech AI and ML/ B Tech AI and DS
+
+Subject: Optimization Techniques Time: 3 hrs (.0:00emto_ 1:00pm)
+Date:_2F /Aps/ 2023 No. of Pages: 06
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql [20]
+Cco-1; a. Find the Dual of following Primal (4)
+SO-1; Maximize Z = 4x, + 6x.
+BL-1 1 2
+subject to,
+xX, - 7x, 23
+2%, — 3x, 53
+x; 2-1
+MX xX, x,20
+CO-1,3; b. Identify Initial basic feasible solution for the given transportation problem by | (4)
+7 using North West Comer Rule. Also give the total cost for the solution.
+Destination
+D1 | D2 | D3 | Supply
+Sl 56 | 25 | 67 | 10
+Source | $2 38 | 45 | 58 | 30
+S3 11 | 30 | 90 | 47
+S4 15 | 20 | 10 | 30
+
+Demand | 40 | 40 | 37
+--- page 2 ---
+CO-1,2;
+
+The following is a payoff (profit in rupees) table for three strategies and two | (4)
+
+eS states of nature:
+Strategy | State of Nature
+N1 N2
+Sl 8 11
+S2 6 7
+S3 3 12
+Select a strategy using each of the following decision criteria:
+(a) Maximax, (b) Maximin.
+CO-1,2; . Solve the following Games. Determine whether the given game is strictly | (4)
+an determinable and pure. Give the strategies for each player.
+Player B
+1}7|3)4
+Player A} 5|6/4)5
+7/2)0}3
+CO-1,4; Old hens can be bought for = 20 each but young ones cost = 50 each. The old | (4)
+ee hens lay 3 eggs per week and young ones lays 5 eggs per week. Profit per
+week from old hens is -1 and profit from young hens is 5 If a person has only
+% 800 to spend on the hens, how many of each kind should he buy to get a
+profit of more than 60 per week assuming that he cannot house more than
+20 hens?
+Q2 [20]
+CO-1; . Solve the following Linear Programming Problem using Simplex Method (10)
+ey Maximize Z =3x,+2x,
+subject to,
+2x, +X, 516
+xX, +2x, $30
+X,, x, 20
+. Obtain the optimal solution to the following IPP using branch and bound
+Sol. method graphically. (10)
+BL-3 Maximize Z = x, +x,
+subject to,
+3x,+2x, $12
+x, 22
+x, 23
+
+X,, x,20 and are integers
+--- page 3 ---
+Q3 [20]
+
+| CO-1,4; a. Solve the following Linear Programming Problem using Big-M Method (10)
+air Maximize Z =10x, +2x,
+subject to,
+10x, +4x, < 40
+2x, 26
+2x, £10
+X,, x, 20
+b. A factory produces 3 varieties of fountain pens. Type I: Fixed Cost (F.C.)
+So. Rs. 200000, Variable Cost (V.C.) Rs. 10 per unit, Type Il: F.C. Rs. 320000, | (19)
+BL-2 V.C. Rs.8 per unit, Type II: F.C. 600000, V.C. Rs. 6 per unit. Demand may
+be 25000 or 100000 or 150000 units. If the price of each type is Rs. 20,
+prepare the pay-off table after showing necessary calculations. If it can
+produce only one of the three varieties, which one should be produced given
+that probability of 25000, 100000 and 150000 is 0.2, 0.3 and 0.5
+respectively. Give your decision by finding EMV.
+
+Q4 [20]
+CO-1,3; a. Evaluate the Initial Basic Feasible Solution for the given transportation | (10)
+3 problem with Vogel’s Approximation method. Also find the optimal Solution.
+CO-1,2;
+SO- 53
+iBL3 Destination
+D1 | D2 | D3 | D4 | Supply
+S1 10 | 30 | 20 | 15 |7
+Source | $2 30 | 70 | 60 | 40 |9
+S3 20 |8 | 40 | 50 | 24
+
+Demand | 5 8 7 20
+
+b. Two candidates, X and Y, are competing for the councillor’s seat in a city
+municipal corporation, and X is attempting to increase his total votes at the
+expense of Y. The strategies available to each candidate involve personal (10)
+contacts, newspaper insertions / speeches or television appearance /
+advertising. The increase in votes available to X given various combinations
+of strategies are given below. (Assume that this is zero-sum game, i.e., any
+gain of X is equal to the votes lost by Y). Determine the optimum strategies
+that should be adopted by X during his election campaign. How many votes
+should X gain by following optimum strategy?
+--- page 4 ---
+CO-1,3;
+SO-1;
+BL-2
+
+c
+
+Evaluate the initial basic feasible solution for the given transportation
+problem with Vogel’s Approximation method.
+
+Destination
+D1 | D2 | D3 | D4 | Supply
+Sl 6 {1 |9 |3 | 70
+Source | $2 11 |5 |2 [8 55
+83 10 |}12 }4 |7 | 90
+
+Demand | 85 | 35 | 50 | 45
+
+(6)
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper 58aa825c8e9e
@@ -3248,6 +3247,611 @@ S3 4 | 14 | 16 | 18 | 10
 Demand |5 | 15 | 15 | 15
 ````
 
+## 2021-22 · Final-Exam · Sem 4 · paper aecd04932795
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/OPTIMIZATION TECHNIQUES/B Tech, Artificial Intelligence, Optimization Techniques, 2nd Year, Sem-IV, Final_4e1529dd.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 18 April 2022
+- Text: ocr (14 pages), mean OCR confidence 86.8
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+g
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
+
+Academic Year: 2021-22
+
+Programme: B.Tech Artificial Intelligence Year: II Semester: IV
+Subject: Optimization Techniques
+
+; Marks: 100
+Date: 18 April 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+No. of Pages: 1242-1}
+Final Examination
+
+Instructions: Candidates should veal carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) All questions are compuiscry.
+
+2)There are total 100 questions.
+
+3) Each question carries one mark.
+
+4) Assume Suitable data if necessary.
+
+The PTA wants to find the mix of baked goods to maximize profit at a bake sale. They have
+50 cups of flour, 30 cups of sugar, 36 eggs, and 600 minutes of oven time available. The
+sales prices and ingredient requirements for cakes, breads, and pies are shown in =
+Excel model below.
+
+1 Cakes Breads Pies
+2 Number Made 7.00 0.00 4.00 __|Profit
+3 | - Selling Price 15 8 10 145.00
+4 Used | Constraint} Availabie
+5 Flour (cups) 4 3 2 36.00 <= 50
+6 Sugar (cups) 3 2 2 29.00 <= 30
+7 Eggs 4 3 2 36.00 <= 36
+8 | Oven time (min) 60 30 45 600.00 <= 600
+Qa
+‘Solver Paramators x
+1. What is the formula for cell E3? Sa sine Woo
+To: Cum Oxia O ¥eiue of ‘a
+2. What is the formula for cell E5? siesta =
+‘Subject to the Constraints: — 7 . 7
+asi
+Consider filling out the Solver dialog box, a
+What would you write in each area? mee
+ese A
+3. “Set Objective” entry? "See
+© Make unconstrained Varisbies Non-Negative — 7 ==
+4, “By Changing Variable Cells” entry?
+sehing Med
+ine Ser Moen td ec te Beton cele See problems alae n-snend.
+5. “Subject to the Constraints” entry?
+se a
+Une
+--- page 2 ---
+We used Solver on this model, and the sensitivity report is shown below.
+
+6 Variable Cells
+
+7. Final Reduced Objective Allowable Allowable
+8 Cell Name Value Cost Coefficient Increase Decrease
+9 $B$2_ Number Made Cakes 7 0 15 5 0.6
+10_ $CS2 Number Made Breads 0 -0.75 8 0.75 1£+30
+1 SD$2 Number Made Pies 4 0 10 0.75 2.5
+200°
+13_ Constraints
+14, Final Shadow Constraint Allowable Allowable
+_15 Cell Name Value Price .R.H. Side Increase Decrease
+16 SESS Flour (cups) Used 36 ie) 50 1£+30 14
+17. SES6 Sugar (cups) Used 29 fe) 30 1£+30 1
+18° SES7 Eggs Used 36 4,25 36 4 9.333333333
+19° SES8 Oven time (min) Used 600 0.166666667 600 30 60
+20
+
+6. Ifthe sales price of cakes changes from $15 to $14, what can you say about the optimal
+profit? Either provide its value or state that we cannot answer unless we re-solve.
+
+7. Ifthe sales price of pies changes from $10 to $8, what can you say about the optimal
+profit? Either provide its value or state that we cannot answer unless we re-solve.
+
+8. If we lose 3 eggs, what can you say about the optimal profit? Either provide its value or
+state that we cannot answer unless we re-solve.
+
+9. If we could obtain an additional 3 cups of sugar, what can you say about the optimal
+profit? Either provide its value or state that we cannot answer unless we re-solve.
+
+10. If we could obtain a single additional unit of one resource (flour, sugar, eggs, oven time),
+which one would increase profit the most?
+
+We are publishing books, and we can sell all of the books we make. The fixed cost of
+production is $800. Each book sells for $10 and costs $2 to print.
+
+11. The break-even point occurs when we publish books.
+
+12. If we want to make a profit of $800, we would need to publish books.
+
+13. If we want to make a profit of $800 by publishing exactly 150 books, we would need to
+change the sales price to
+
+14. For an LP, a solution that satisfies all the constraints is called
+
+15. For an LP, a solution that satisfies all the constraints and has the best objective value is
+
+called
+
+ah
+--- page 3 ---
+16. For an LP, if no points satisfy all of the constraints simultaneously, the problem is called
+
+“all
+17. If we are at a point that satisfies a constraint but not right up against the limit, what can
+we conclude about the value of the constraint’s slack/surplus variable?
+Consider the following LP constraints and the graphs below (grid lines are each 2 units
+, apart).
+Graph shows the following lines: x, — x2 = 4, x1 +. x2 =10,2x, +x, =8, 2x,;—-x,=0.
+‘ 18. If an LP has the following constraints, a
+
+Xy—- x2 S54
+X,+ x2 $10
+2x, + x2 28
+
+X4,X2 20
+
+list the corner points of its feasible region. E
+
+19. Ifan LP has the following constraints,
+
+2x, + x2 <8 e | |
+2x, - x2 <0 S |
+
+X1,X2 20 cr
+
+A | \
+list the corner points of its feasible region. Fi -—; r X @
+
+A meat processing plant blends three ingredients (chicken, beef, pork) to create two types
+of hot dogs (regular, supreme). The daily limit and cost of each ingredient are shown
+
+below. Ingredient|/Maximum Pounds/Day|Cost/Pound
+Chicken 200 $0.36
+Beef 300 $0.60
+Pork 150 $0.40
+
+Each type of hot dog has the following requirements and selling price.
+
+Hot Dog Type|Product Requirements|Selling Price /Pound
+Regular |No more than 20% pork $1.20
+Supreme Atleast 80% beef | $1.60
+
+The goal is to determine the blend that maximizes profit. Let x;, represent the number of
+pounds of ingredient i = C, B, P put into hot dog type j = R,S.
+
+a
+--- page 4 ---
+20. In an LP model for this problem, what would the objective be?
+21. In an LP model for this problem, what would the chicken limit constraint be?
+
+22. In an LP model for this problem, what would the product requirement for supreme hot
+be?
+
+We need to determine in which of 6 cities (A,B,C,D,E,F) we should operate hospitals. We
+want to minimize the cost of operating the hospitals, but we require a hospital to be
+located within 50 miles of each city. The table below shows the annual cost of operating a
+
+‘ hospital (in $100,000's) in each city, as well as a list of cities that are within 50 miles.
+
+City Annual Operating Cost Cities within 50 Miles
+A 5 . A,B
+B 11 A,B,F
+Cc 8 C,D
+D 12 ¢,D, E
+E 10 D,E,F
+F 13 B,D,F
+
+Someone created the following spreadsheet to solve this problem.
+
+ft Cities Within 50 Miles
+25 City A B c D is F__|# Hospitals Covering This City
+3 A 41 1 0 0 ie) 0 >= 1
+4 B 41 1 0 ) 0 1 >= 4
+6 D ie} oO 1 1 1 i?) >= 41
+8 FE ie) 1 i) 1 it) 1 kate 1
+9 ; Open Hospital?
+10 Hospital Cost 5 aki 8 12 10 13 = Total Cost
+
+Solver Parameters x
+
+23. Give the formula for Cell H5.
+
+Set Objective. {i |
+Te Ou Oma O vole of °
+24. Give the formula for Cell H10. yeaa vtec
+2)
+25. In the Solver window, give the entry for Subject the Conan
+“By Changing Variable Cells.” _ —
+26. In the Solver window, =
+the covering constraints would be =
+1 lpetine
+
+entered into “Subject to the Constraints’
+
+GF mate unconstrained Variables Non-Negative
+
+as _- . Select Song “Silex uP Ch a
+tebe
+oo. Sohn Meio
+27. Suppose that local politics dictate that Sect he GRGNonne engine for cv Problems that smooth nnine: eet the LP Single engine for
+ee Ima Se rotons nda he Econ engine Sher pres ate non soah
+must open a hospital in City F whenever
+we open a hospital in City B. What ee tee
+Solver constraint would enforce this es oe
+requirement?
+--- page 5 ---
+Consider the following network of oil pipes, where the capacity of each pipe is indicated
+by the'value on the arc itself. We want to find the max flow from Node 1 to Node 6. A
+student started the max flow algorithm, but he stopped with the flows on each arc in the
+
+boxes shown.
+3
+3 R
+
+28. Give a breakthrough for this graph.
+29. This breakthrough has a capacity A=
+30. After updating the graph, the new flow along arc (2,4) would be
+
+31. After updating the graph, the new flow along arc (5,4) would be
+32. After updating the graph, the total flow from Node 1 to Node 6 would be
+Josie is using a scoring model to decide which candy to pack in her lunch. Her scores for
+
+each of 4 different candies using 4 criteria are shown below, along with the weight for
+each criteria.
+
+Decision Criteria | Weight| Tootsie Rolls | Kit Kats) Three Musketeers | Special Dark
+
+Cost 0.1 95 70 75 60
+Overall Taste 0.35 80 95 95 90
+Texture 0.3 60 90 90 85
+Chocolatey-ness | 0.25 95 85 90 95
+
+33. What is the overall score for Tootsie Rolls?
+34. What is the overall score for Kit Kats?
+
+35. What is the overall score for Three Musketeers?
+
+fe
+--- page 6 ---
+36. What is the overall score for Special Dark?
+
+37. Which product should she select?
+
+Considering the following shipping graph, and
+
+* let Xj = amount shipped from Node i to Node j.
+
+38. This problem is an example of which type of problem?
+
+39. Give the constraint for Node 2.
+40. Give the constraint for Node 5.
+41, Give the constraint for Node 7.
+42. How many variables would be in this model?
+43. How many constraints would be in this model?
+We are considering introducing one of four new products: Widget, Flugel, Gadget, or
+
+Nimnot. The profit for each product, under three different weather conditions, is shown in
+the following payoff table.
+
+Product | Hot Weather Warm Weather Cold Weather
+
+Widget 100 50 -50
+Flugel 40 20 0
+Gadget 15 10 10
+Nimnot 50 60 5
+
+so.
+--- page 7 ---
+44, If we are using the optimistic criterion, the product we would introduce is
+
+45. The optimistic profit of this product would be
+
+46. If we are using the pessimistic criterion, the product we would introduce is
+
+47. The pessimistic profit of this product would be
+
+48. If we are using the Hurwicz criterion with a = 0.3, the product we would introduce is __.
+49, The Hurwicz profit of this product would be .
+
+50. If we introduce the widget, the maximum regret would ever experience would be
+
+51. If we are using the minimax regret criterion, the product we would introduce is :
+
+Suppose that we have the following percentage estimates for weather conditions: Hot
+(20%), Warm (50%), Cool (30%).
+
+52. If we are using the expected value criterion, the product we would introduce is
+53. The expected profit of this product would be
+54. If we had perfect information about the market, we would make an average profit of i
+
+55. As a result, we would be willing to pay no more than to obtain perfect information.
+
+Frijo-Lane Food Products wants to add some new potato farms from among three
+different options (Farms 1,2, 3). The potatoes will be shipped to one of two existing
+processing plants (Plants A, B). Plant A needs to receive exactly 800 tons of potatoes,
+while Plant B needs exactly 700 tons of potatoes. Shipping costs (per ton), maximum farm
+yields (in tons), and the fixed cost of operating each farm are summarized below.
+
+Shipping Costs (per ton) Max Farm Fixed Cost of
+
+Plant A Plant B Yield (tons) Operating Farm
+Farm 1 $16 $14 800 $5000
+Farm 2 $19 $15 900 $6000
+Farm 3 $13 $17 700 $4000
+
+Frijo-Lane wants to determine which farms it should purchase, as well as how
+many tons of potatoes to ship between farms and plants, in order to minimize
+total cost. They have defined the following variables. :
+
+ve
+--- page 8 ---
+xy = tons of potatoes shipped from farm ito plant j for i= 1,2,3 and j = A,B
+
+_ {5 if farm j is operated for j = 1,2,3
+%i = 10, otherwise
+
+56. Give the objective function for this problem.
+57. Give the constraint for the tons of potatoes received at Plant A.
+
+58. Give the constraint for the tons of potatoes shipped from Farm 2.
+
+Consider the following LP and a graph of its feasible region.
+
+Minimize 6x4 + Xz =
+Subjectto 5x,;+2x2,210 “joo. en re _
+xy +X, 26 - 7
+
+x22 2
+
+X4,X2 2 0
+
+A
+
+59. The optimal solution occurs at : -
+
+60. The optimal objective value is equal to ___.... \ .
+; | \B
+
+61. If the objective is changed to
+minimize 2x, + 2x2, what can we conclude?
+
+o 10 t 20
+62. If the objective is changed to : ° ; :
+maximize 2x, + 2x, what can we conclude?
+
+63. Give an example of a constraint that would make this problem infeasible.
+64. At Point C, the slack/surplus in the first constraint is
+A student is choosing between three apartment complexes: Riverwalk, Meadows, and
+
+Lakeside. She is using AHP to determine the best option, and the selection criteria are
+cost, condition, and location. The preference matrix for the cost criterion is shown below.
+
+Riverwalk | Meadows | Lakeside
+
+Riverwalk 1 3 6
+Meadows 1/3 1 2
+Lakeside 1/6 1/2 1
+
+shiv
+--- page 9 ---
+65. In the normalized cost matrix, what would be the entry in the row for Meadows and the
+column for Riverwalk?
+
+In the AHP problem for the three apartment complexes, the normalized matrix for the
+’ condition criterion is shown below.
+
+Riverwalk Meadows Lakeside
+
+Riverwalk 0.0909 0.0625 0.1026
+Meadows 0.2727 0.1875 0.1795
+Lakeside 0.6364 0.75 0.7179
+
+66. What is the Lakeside entry in the preference vector for the condition criterion?
+
+Continuing with the AHP problem for the three apartment complexes, suppose that the
+matrix below summarizes the preference vectors for all three criteria.
+
+Cost Condition Location
+Riverwalk 0.6667 0.0853 0.4
+Meadows 0.2222 0.2132 0.2
+Lakeside 0.1111 0.7014 0.4
+
+67. If the criteria preference vector has an entry of 0.2222 for Cost, 0.1111 for Condition, and
+0.6667 for Location, what is the final AHP score for Riverwalk?
+
+Consider the following project network.
+
+c
+
+10 \4
+
+A (0 E Finish
+
+Start \e at] 4
+
+4 3
+--- page 10 ---
+68. If all goes according to plan, when will the project be completed?
+69. List the critical activities.
+
+70. Give the Earliest Start time for activity E.
+
+71. Give the Latest Finish time for activity B.
+
+72. Give the slack time for activity F.
+
+73. If activity C is delayed by 4 times units (and no other activities are delayed), what is the
+revised project completion time?
+
+74. If activity B is delayed by 4 times units (and no other activities are delayed), what is the
+revised project completion time?
+
+Consider the following integer programming problem.
+maximize 2x, + 6x2
+subjectto 2x, + 7x2 < 40
+5x1 + 3x2 < 30
+X4,Xz2 20 and integer
+
+This problem was solved WITHOUT the integer restrictions, and the model and optimal
+solution are shown below.
+
+1 x1 x2
+2 |Value 3.103 4.828
+3 |Objective 2 6 35.17
+4 |Constraint 1 2 7 40 <= 40
+5 Constraint2 5 3 30 <s 30
+
+75. Give the optimal value of the LP relaxation.
+76. Give the objective value of the rounded-down solution.
+
+77. State the range of values within which the optimal value of the integer
+programming problem could lie.
+
+78. Ifa PERT network has an average project completion time of 28 days and a variance of 4,
+the probability that the project will be completed within 27 days is closest to :
+
+20/2
+--- page 11 ---
+79. Ifa PERT network has an average project completion time of 28 days and a variance of 4,
+the probability that the project will be completed within 32 days is closest to :
+
+Consider the decision tree below.
+Income = $5000
+
+~ Buy Product A
+(cost = $500)
+
+Loss = $1000
+
+Buy Product B
+(cost = $100)
+
+Income = $1500
+
+80. What is the value of Node 2?
+
+81. To maximize expected profit, what is the best initial decision?
+
+82. Making the initial decision selected above leads to an expected profit of
+Suppose that the number of labor hours used to create x, units of Product 1 and x; units
+of Product 2 can be expressed as x; + 2x2. We have a goal to use 40 labor hours. Someone
+set up the goal programming constraint below.
+
+xy + 2x2 = 40 - dy + dj (Labor Goal)
+
+83. If our first priority goal is to minimize the number of overtime hours, this objective would
+be achieved by minimizing what?
+
+It was a bumper crop for wheat this year, and we want to set the price per bushel that will
+maximize profit. The annual fixed costs for equipment and harvesting of the wheat $8000
+and the variable cost per bushel is $2. The price is related to demand according to the
+following equation: v = 1000 — 10p.
+
+84. Give an expression for Z = profit?
+
+85. Give an expression for Z’ = 1st derivative of profit?
+
+86. Find the optimal sales price, p.
+
+87. How many bushels of wheat will be sold at this optimal price?
+
+88. Find the profit if the optimal sales price is used.
+
+11 fy
+--- page 12 ---
+89. If we add a constraint that says the sales price cannot exceed $40, what will the optimal
+profit be?
+
+90. True or False: If Solver says that it found an optimal solution for a linear programming
+problem, then we are guaranteed to have found the globally optimal solution.
+
+91. True or False: If Solver says that it found an optimal solution for a nonlinear
+programming problem, then we are guaranteed to have found the globally optimal
+solution.
+
+Consider the following road network, where the travel time (in minutes) is indicated on
+each arc. We want to find the shortest path from Node A to Node G. A student started the
+algorithm, but she stopped early with the labels shown in the boxes below.
+
+92. What is the fourth node that we would label?
+93. What is the value of the fourth label?
+
+94. What is the fifth node that we would label?
+
+95. What is the value of the sixth label?
+
+96. What is the sixth node that we would label?
+97, What is the value of the sixth label?
+
+98. What is the seventh node that we would label?
+99. What is the value of the seventh label?
+
+100. What is the shortest path from A to G?
+}
+aoe hi
+--- page 13 ---
+: Table A.1 The normal table Normal curve areas
+
+t 0 7 7 F
+
+Zz | 00 ; Ot | 02 i) i 04 | 5 | 08 ‘ 07 | 08 08
+0.0 * .0000 0040 .0080 0120 .0160 0189 | 0238 0279 0319 0359
+J i
+
+61 | 0398 0438 0478 0517 0557 0596 0636 0675 0714 .0753
+02 0793 0832 0871 0810 084808871028 = 0 1103 1141
+03 | .1179 1217 1255 .1293 1334 1368 ©. 1406 | 1443 1480 1517
+04 1554 1591 1628 1664 1700 1736 A772 1808 1844 1879
+05. 1915 1950 1985 2019 2054 2088 =| 2123 2187 2190 2224
+06 2257 2281 2324 2387 23892422 2454 2486 2517 2549
+07 — .2580 2611 2642 26732704 2734 | 2764 2794 2823 2852
+08 — .2881 2810 2939 2967 2995 8023 3051 3078 3106 3133
+68 8159 3186 3212 3238 3264 8289 3315 3340 3365 3389
+10 3413 3438 3461 3485 3508 3631 3554 3877 3599 3621
+141.8643 3665 3686 3708 3728 8749 3770 3790 3810 3830
+12 3849 3869 3688 3907 3925 3944 3962 3980 3997 4015
+13 4032 4048 4066 4082 4099 A115 4131 4147 A162 ANT
+14 4192 ‘4207 4222 4236 4251 A265 4279 4282 4308 4319
+15 4332 4345 4357 43704382 4394 4408 4418 4429 4441
+16 4452 4463 AATS 4484 4495 4505 4515 4525 4535 4545
+17° | 4554 4564 4573 4582 4591 4599 4608 4616 4825 4633
+18» 4641 4649 4656 A664 ABT1 ABTB ABBE 4693 4699 A708
+2.0 | A772 ATTB 4783 AT8B ATSB AT9B 4803 4808 4612 A817
+--- page 14 ---
+Given Numbers
+
+Calculations
+
+Product
+
+Hot Warm Cold
+Weather | Weather| Weather
+
+Optimistic | Pessimistic
+
+(a
+
+Hurwicz
+
+Hot |Warm} Cold Max
+)| Regret |Regret} Regret | Regret
+
+Expected
+Value
+
+Expected
+Regret
+
+Widget
+
+Flugel
+
+Gadget
+
+Nimnot
+
+Probability
+
+Best-Case
+
+A
+````
+
 ## 2021-22 · Re-Exam · Sem 4 · paper 5a665e2d9418
 
 - Departments: Artificial Intelligence
@@ -3255,6 +3859,7 @@ Demand |5 | 15 | 15 | 15
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/OPTIMIZATION TECHNIQUES/Optimization Techniques, Sem-IV, Re-Exam, Year 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 June 2022
 - Text: ocr (14 pages), mean OCR confidence 82.6
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 va . SVKM’s NMIMS
@@ -3289,7 +3894,6 @@ The PTA wants to find the mix of baked goods to maximize profit at a bake sale. 
 sales prices and ingredient requirements for cakes, breads, and pies are shown in the
 Excel model below.
 
-A B (e D E F G
 1 Cakes Breads Pies
 2 Number Made 7.00 0.00 4,00 __|Profit
 3 Selling Price is 8 10 145.00
@@ -3436,7 +4040,6 @@ A 5 A, B
 E 10 D,E, F
 F 13 B, D, F
 Someone created the following spreadsheet to solve this problem.
-A B ¢ D E F G H I J
 1 Cities Within 50 Miles
 2 City A B Cc D | E F # Hospitals Covering This City
 3 A 1 1 0 o | 0 0 >= 1
@@ -3694,7 +4297,6 @@ X1,X2 20 and integer
 This problem was solved WITHOUT the integer restrictions, and the model and optimal
 solution are shown below.
 
-A B c . D , €£ F
 1) x1 x2
 
 2 |Value 7.857 3.571
@@ -3793,7 +4395,6 @@ aly
 --- page 13 ---
 Table A.1 The normai table Normal curve areas
 
-To lo lo tm le let
 
 Zz 60 04 }.02 [03 | 08 05 | 06 | 07 08
 % 1 \ ; 7 ] 7 7 T
@@ -3817,635 +4418,18 @@ i ; ; ' ; ;
 12 | 9849 «3869 3888) «88073925 S44 | 3962 | «3980 =| -3887 «4018
 : | | \
 13 4082 404g | 4065 aosz 4099 | atts anata? 462 | at77
-: u i i L ! i i
-7 ; T j F H | i
 14) 4192 | 4207 422242864251 | 285 | 42794292 | 43068 4319
 15 4332 4345 | 4357 | 43700; 4882 | 4884 4406 4418 | 4429484
 16 445244634474 | aged 4495 | 4508 = 48148254585 4545
 7 . i | i] i t
 ied 1.7) 4854/4564 4573 456245814599 4608418625
-j H t i i i
 | Hl : | | i i
 18 | 4641 4642 «4656 4GG4 4671 B78 SBS 4B 4GQD «7B
-| i i i H i L i
 19 | 4713 4719472647327 38 | A744 4780 | A7BG | ATE1. A767
-20 | A772 4778 «| «478347684793. «ATOR 4803 4BOBE BIZ. ABT
 --- page 14 ---
 g\ 3 z 2 m =
 5 | 3 E a a S
 Qo} = 5 (co) a a
 ay = fe) Oo} @ 0)
 ol. * _ ~
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper aecd04932795
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/OPTIMIZATION TECHNIQUES/B Tech, Artificial Intelligence, Optimization Techniques, 2nd Year, Sem-IV, Final_4e1529dd.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 18 April 2022
-- Text: ocr (14 pages), mean OCR confidence 86.8
-
-````text
-g
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
-
-Academic Year: 2021-22
-
-Programme: B.Tech Artificial Intelligence Year: II Semester: IV
-Subject: Optimization Techniques
-
-; Marks: 100
-Date: 18 April 2022 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-No. of Pages: 1242-1}
-Final Examination
-
-Instructions: Candidates should veal carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) All questions are compuiscry.
-
-2)There are total 100 questions.
-
-3) Each question carries one mark.
-
-4) Assume Suitable data if necessary.
-
-The PTA wants to find the mix of baked goods to maximize profit at a bake sale. They have
-50 cups of flour, 30 cups of sugar, 36 eggs, and 600 minutes of oven time available. The
-sales prices and ingredient requirements for cakes, breads, and pies are shown in =
-Excel model below.
-
-an AL _ 8 a Do EF GL
-1 Cakes Breads Pies
-2 Number Made 7.00 0.00 4.00 __|Profit
-3 | - Selling Price 15 8 10 145.00
-4 Used | Constraint} Availabie
-5 Flour (cups) 4 3 2 36.00 <= 50
-6 Sugar (cups) 3 2 2 29.00 <= 30
-7 Eggs 4 3 2 36.00 <= 36
-8 | Oven time (min) 60 30 45 600.00 <= 600
-Qa
-‘Solver Paramators x
-1. What is the formula for cell E3? Sa sine Woo
-To: Cum Oxia O ¥eiue of ‘a
-2. What is the formula for cell E5? siesta =
-‘Subject to the Constraints: — 7 . 7
-asi
-Consider filling out the Solver dialog box, a
-What would you write in each area? mee
-ese A
-3. “Set Objective” entry? "See
-© Make unconstrained Varisbies Non-Negative — 7 ==
-. Sst Soing Simpl? Te! ptons
-4, “By Changing Variable Cells” entry?
-sehing Med
-il ic en Nod er $i a a st oP Sgr eg
-ine Ser Moen td ec te Beton cele See problems alae n-snend.
-5. “Subject to the Constraints” entry?
-se a
-Une
---- page 2 ---
-We used Solver on this model, and the sensitivity report is shown below.
-
-6 Variable Cells
-
-7. Final Reduced Objective Allowable Allowable
-8 Cell Name Value Cost Coefficient Increase Decrease
-9 $B$2_ Number Made Cakes 7 0 15 5 0.6
-10_ $CS2 Number Made Breads 0 -0.75 8 0.75 1£+30
-1 SD$2 Number Made Pies 4 0 10 0.75 2.5
-200°
-13_ Constraints
-14, Final Shadow Constraint Allowable Allowable
-_15 Cell Name Value Price .R.H. Side Increase Decrease
-16 SESS Flour (cups) Used 36 ie) 50 1£+30 14
-17. SES6 Sugar (cups) Used 29 fe) 30 1£+30 1
-18° SES7 Eggs Used 36 4,25 36 4 9.333333333
-19° SES8 Oven time (min) Used 600 0.166666667 600 30 60
-20
-
-6. Ifthe sales price of cakes changes from $15 to $14, what can you say about the optimal
-profit? Either provide its value or state that we cannot answer unless we re-solve.
-
-7. Ifthe sales price of pies changes from $10 to $8, what can you say about the optimal
-profit? Either provide its value or state that we cannot answer unless we re-solve.
-
-8. If we lose 3 eggs, what can you say about the optimal profit? Either provide its value or
-state that we cannot answer unless we re-solve.
-
-9. If we could obtain an additional 3 cups of sugar, what can you say about the optimal
-profit? Either provide its value or state that we cannot answer unless we re-solve.
-
-10. If we could obtain a single additional unit of one resource (flour, sugar, eggs, oven time),
-which one would increase profit the most?
-
-We are publishing books, and we can sell all of the books we make. The fixed cost of
-production is $800. Each book sells for $10 and costs $2 to print.
-
-11. The break-even point occurs when we publish books.
-
-12. If we want to make a profit of $800, we would need to publish books.
-
-13. If we want to make a profit of $800 by publishing exactly 150 books, we would need to
-change the sales price to
-
-14. For an LP, a solution that satisfies all the constraints is called
-
-15. For an LP, a solution that satisfies all the constraints and has the best objective value is
-
-called
-
-ah
---- page 3 ---
-16. For an LP, if no points satisfy all of the constraints simultaneously, the problem is called
-
-“all
-17. If we are at a point that satisfies a constraint but not right up against the limit, what can
-we conclude about the value of the constraint’s slack/surplus variable?
-Consider the following LP constraints and the graphs below (grid lines are each 2 units
-, apart).
-Graph shows the following lines: x, — x2 = 4, x1 +. x2 =10,2x, +x, =8, 2x,;—-x,=0.
-‘ 18. If an LP has the following constraints, a
-
-Xy—- x2 S54
-X,+ x2 $10
-2x, + x2 28
-
-X4,X2 20
-
-list the corner points of its feasible region. E
-
-19. Ifan LP has the following constraints,
-
-2x, + x2 <8 e | |
-2x, - x2 <0 S |
-
-X1,X2 20 cr
-
-A | \
-list the corner points of its feasible region. Fi -—; r X @
-
-A meat processing plant blends three ingredients (chicken, beef, pork) to create two types
-of hot dogs (regular, supreme). The daily limit and cost of each ingredient are shown
-
-below. Ingredient|/Maximum Pounds/Day|Cost/Pound
-Chicken 200 $0.36
-Beef 300 $0.60
-Pork 150 $0.40
-
-Each type of hot dog has the following requirements and selling price.
-
-Hot Dog Type|Product Requirements|Selling Price /Pound
-Regular |No more than 20% pork $1.20
-Supreme Atleast 80% beef | $1.60
-
-The goal is to determine the blend that maximizes profit. Let x;, represent the number of
-pounds of ingredient i = C, B, P put into hot dog type j = R,S.
-
-a
---- page 4 ---
-20. In an LP model for this problem, what would the objective be?
-21. In an LP model for this problem, what would the chicken limit constraint be?
-
-22. In an LP model for this problem, what would the product requirement for supreme hot
-be?
-
-We need to determine in which of 6 cities (A,B,C,D,E,F) we should operate hospitals. We
-want to minimize the cost of operating the hospitals, but we require a hospital to be
-located within 50 miles of each city. The table below shows the annual cost of operating a
-
-‘ hospital (in $100,000's) in each city, as well as a list of cities that are within 50 miles.
-
-City Annual Operating Cost Cities within 50 Miles
-A 5 . A,B
-B 11 A,B,F
-Cc 8 C,D
-D 12 ¢,D, E
-E 10 D,E,F
-F 13 B,D,F
-
-Someone created the following spreadsheet to solve this problem.
-
-A B c Do. F Cr H ! J
-ft Cities Within 50 Miles
-25 City A B c D is F__|# Hospitals Covering This City
-3 A 41 1 0 0 ie) 0 >= 1
-4 B 41 1 0 ) 0 1 >= 4
-5 Cc i‘) i‘) 4 4 i} ie) >= 1
-6 D ie} oO 1 1 1 i?) >= 41
-Zi E ie) ie) 0 4 il 1 >= 1
-8 FE ie) 1 i) 1 it) 1 kate 1
-9 ; Open Hospital?
-10 Hospital Cost 5 aki 8 12 10 13 = Total Cost
-
-Solver Parameters x
-
-23. Give the formula for Cell H5.
-
-Set Objective. {i |
-Te Ou Oma O vole of °
-24. Give the formula for Cell H10. yeaa vtec
-2)
-25. In the Solver window, give the entry for Subject the Conan
-“By Changing Variable Cells.” _ —
-26. In the Solver window, =
-the covering constraints would be =
-1 lpetine
-
-entered into “Subject to the Constraints’
-
-GF mate unconstrained Variables Non-Negative
-
-as _- . Select Song “Silex uP Ch a
-tebe
-oo. Sohn Meio
-27. Suppose that local politics dictate that Sect he GRGNonne engine for cv Problems that smooth nnine: eet the LP Single engine for
-ee Ima Se rotons nda he Econ engine Sher pres ate non soah
-must open a hospital in City F whenever
-we open a hospital in City B. What ee tee
-Solver constraint would enforce this es oe
-requirement?
---- page 5 ---
-Consider the following network of oil pipes, where the capacity of each pipe is indicated
-by the'value on the arc itself. We want to find the max flow from Node 1 to Node 6. A
-student started the max flow algorithm, but he stopped with the flows on each arc in the
-
-boxes shown.
-3
-3 R
-
-28. Give a breakthrough for this graph.
-29. This breakthrough has a capacity A=
-30. After updating the graph, the new flow along arc (2,4) would be
-
-31. After updating the graph, the new flow along arc (5,4) would be
-32. After updating the graph, the total flow from Node 1 to Node 6 would be
-Josie is using a scoring model to decide which candy to pack in her lunch. Her scores for
-
-each of 4 different candies using 4 criteria are shown below, along with the weight for
-each criteria.
-
-Decision Criteria | Weight| Tootsie Rolls | Kit Kats) Three Musketeers | Special Dark
-
-Cost 0.1 95 70 75 60
-Overall Taste 0.35 80 95 95 90
-Texture 0.3 60 90 90 85
-Chocolatey-ness | 0.25 95 85 90 95
-
-33. What is the overall score for Tootsie Rolls?
-34. What is the overall score for Kit Kats?
-
-35. What is the overall score for Three Musketeers?
-
-fe
---- page 6 ---
-36. What is the overall score for Special Dark?
-
-37. Which product should she select?
-
-Considering the following shipping graph, and
-
-* let Xj = amount shipped from Node i to Node j.
-
-38. This problem is an example of which type of problem?
-
-39. Give the constraint for Node 2.
-40. Give the constraint for Node 5.
-41, Give the constraint for Node 7.
-42. How many variables would be in this model?
-43. How many constraints would be in this model?
-We are considering introducing one of four new products: Widget, Flugel, Gadget, or
-
-Nimnot. The profit for each product, under three different weather conditions, is shown in
-the following payoff table.
-
-Product | Hot Weather Warm Weather Cold Weather
-
-Widget 100 50 -50
-Flugel 40 20 0
-Gadget 15 10 10
-Nimnot 50 60 5
-
-so.
---- page 7 ---
-44, If we are using the optimistic criterion, the product we would introduce is
-
-45. The optimistic profit of this product would be
-
-46. If we are using the pessimistic criterion, the product we would introduce is
-
-47. The pessimistic profit of this product would be
-
-48. If we are using the Hurwicz criterion with a = 0.3, the product we would introduce is __.
-49, The Hurwicz profit of this product would be .
-
-50. If we introduce the widget, the maximum regret would ever experience would be
-
-51. If we are using the minimax regret criterion, the product we would introduce is :
-
-Suppose that we have the following percentage estimates for weather conditions: Hot
-(20%), Warm (50%), Cool (30%).
-
-52. If we are using the expected value criterion, the product we would introduce is
-53. The expected profit of this product would be
-54. If we had perfect information about the market, we would make an average profit of i
-
-55. As a result, we would be willing to pay no more than to obtain perfect information.
-
-Frijo-Lane Food Products wants to add some new potato farms from among three
-different options (Farms 1,2, 3). The potatoes will be shipped to one of two existing
-processing plants (Plants A, B). Plant A needs to receive exactly 800 tons of potatoes,
-while Plant B needs exactly 700 tons of potatoes. Shipping costs (per ton), maximum farm
-yields (in tons), and the fixed cost of operating each farm are summarized below.
-
-Shipping Costs (per ton) Max Farm Fixed Cost of
-
-Plant A Plant B Yield (tons) Operating Farm
-Farm 1 $16 $14 800 $5000
-Farm 2 $19 $15 900 $6000
-Farm 3 $13 $17 700 $4000
-
-Frijo-Lane wants to determine which farms it should purchase, as well as how
-many tons of potatoes to ship between farms and plants, in order to minimize
-total cost. They have defined the following variables. :
-
-ve
---- page 8 ---
-xy = tons of potatoes shipped from farm ito plant j for i= 1,2,3 and j = A,B
-
-_ {5 if farm j is operated for j = 1,2,3
-%i = 10, otherwise
-
-56. Give the objective function for this problem.
-57. Give the constraint for the tons of potatoes received at Plant A.
-
-58. Give the constraint for the tons of potatoes shipped from Farm 2.
-
-Consider the following LP and a graph of its feasible region.
-
-Minimize 6x4 + Xz =
-Subjectto 5x,;+2x2,210 “joo. en re _
-xy +X, 26 - 7
-
-x22 2
-
-X4,X2 2 0
-
-A
-
-59. The optimal solution occurs at : -
-
-60. The optimal objective value is equal to ___.... \ .
-; | \B
-
-61. If the objective is changed to
-minimize 2x, + 2x2, what can we conclude?
-
-o 10 t 20
-62. If the objective is changed to : ° ; :
-maximize 2x, + 2x, what can we conclude?
-
-63. Give an example of a constraint that would make this problem infeasible.
-64. At Point C, the slack/surplus in the first constraint is
-A student is choosing between three apartment complexes: Riverwalk, Meadows, and
-
-Lakeside. She is using AHP to determine the best option, and the selection criteria are
-cost, condition, and location. The preference matrix for the cost criterion is shown below.
-
-Riverwalk | Meadows | Lakeside
-
-Riverwalk 1 3 6
-Meadows 1/3 1 2
-Lakeside 1/6 1/2 1
-
-shiv
---- page 9 ---
-65. In the normalized cost matrix, what would be the entry in the row for Meadows and the
-column for Riverwalk?
-
-In the AHP problem for the three apartment complexes, the normalized matrix for the
-’ condition criterion is shown below.
-
-Riverwalk Meadows Lakeside
-
-Riverwalk 0.0909 0.0625 0.1026
-Meadows 0.2727 0.1875 0.1795
-Lakeside 0.6364 0.75 0.7179
-
-66. What is the Lakeside entry in the preference vector for the condition criterion?
-
-Continuing with the AHP problem for the three apartment complexes, suppose that the
-matrix below summarizes the preference vectors for all three criteria.
-
-Cost Condition Location
-Riverwalk 0.6667 0.0853 0.4
-Meadows 0.2222 0.2132 0.2
-Lakeside 0.1111 0.7014 0.4
-
-67. If the criteria preference vector has an entry of 0.2222 for Cost, 0.1111 for Condition, and
-0.6667 for Location, what is the final AHP score for Riverwalk?
-
-Consider the following project network.
-
-c
-
-10 \4
-
-A (0 E Finish
-
-Start \e at] 4
-
-4 3
---- page 10 ---
-68. If all goes according to plan, when will the project be completed?
-69. List the critical activities.
-
-70. Give the Earliest Start time for activity E.
-
-71. Give the Latest Finish time for activity B.
-
-72. Give the slack time for activity F.
-
-73. If activity C is delayed by 4 times units (and no other activities are delayed), what is the
-revised project completion time?
-
-74. If activity B is delayed by 4 times units (and no other activities are delayed), what is the
-revised project completion time?
-
-Consider the following integer programming problem.
-maximize 2x, + 6x2
-subjectto 2x, + 7x2 < 40
-5x1 + 3x2 < 30
-X4,Xz2 20 and integer
-
-This problem was solved WITHOUT the integer restrictions, and the model and optimal
-solution are shown below.
-
-A |. BB , ¢c , D , E— 4, F
-1 x1 x2
-2 |Value 3.103 4.828
-3 |Objective 2 6 35.17
-4 |Constraint 1 2 7 40 <= 40
-5 Constraint2 5 3 30 <s 30
-
-75. Give the optimal value of the LP relaxation.
-76. Give the objective value of the rounded-down solution.
-
-77. State the range of values within which the optimal value of the integer
-programming problem could lie.
-
-78. Ifa PERT network has an average project completion time of 28 days and a variance of 4,
-the probability that the project will be completed within 27 days is closest to :
-
-20/2
---- page 11 ---
-79. Ifa PERT network has an average project completion time of 28 days and a variance of 4,
-the probability that the project will be completed within 32 days is closest to :
-
-Consider the decision tree below.
-Income = $5000
-
-~ Buy Product A
-(cost = $500)
-
-Loss = $1000
-
-Buy Product B
-(cost = $100)
-
-Income = $1500
-
-80. What is the value of Node 2?
-
-81. To maximize expected profit, what is the best initial decision?
-
-82. Making the initial decision selected above leads to an expected profit of
-Suppose that the number of labor hours used to create x, units of Product 1 and x; units
-of Product 2 can be expressed as x; + 2x2. We have a goal to use 40 labor hours. Someone
-set up the goal programming constraint below.
-
-xy + 2x2 = 40 - dy + dj (Labor Goal)
-
-83. If our first priority goal is to minimize the number of overtime hours, this objective would
-be achieved by minimizing what?
-
-It was a bumper crop for wheat this year, and we want to set the price per bushel that will
-maximize profit. The annual fixed costs for equipment and harvesting of the wheat $8000
-and the variable cost per bushel is $2. The price is related to demand according to the
-following equation: v = 1000 — 10p.
-
-84. Give an expression for Z = profit?
-
-85. Give an expression for Z’ = 1st derivative of profit?
-
-86. Find the optimal sales price, p.
-
-87. How many bushels of wheat will be sold at this optimal price?
-
-88. Find the profit if the optimal sales price is used.
-
-11 fy
---- page 12 ---
-89. If we add a constraint that says the sales price cannot exceed $40, what will the optimal
-profit be?
-
-90. True or False: If Solver says that it found an optimal solution for a linear programming
-problem, then we are guaranteed to have found the globally optimal solution.
-
-91. True or False: If Solver says that it found an optimal solution for a nonlinear
-programming problem, then we are guaranteed to have found the globally optimal
-solution.
-
-Consider the following road network, where the travel time (in minutes) is indicated on
-each arc. We want to find the shortest path from Node A to Node G. A student started the
-algorithm, but she stopped early with the labels shown in the boxes below.
-
-92. What is the fourth node that we would label?
-93. What is the value of the fourth label?
-
-94. What is the fifth node that we would label?
-
-95. What is the value of the sixth label?
-
-96. What is the sixth node that we would label?
-97, What is the value of the sixth label?
-
-98. What is the seventh node that we would label?
-99. What is the value of the seventh label?
-
-100. What is the shortest path from A to G?
-}
-aoe hi
---- page 13 ---
-: Table A.1 The normal table Normal curve areas
-
-t 0 7 7 F
-
-Zz | 00 ; Ot | 02 i) i 04 | 5 | 08 ‘ 07 | 08 08
-0.0 * .0000 0040 .0080 0120 .0160 0189 | 0238 0279 0319 0359
-J i
-
-61 | 0398 0438 0478 0517 0557 0596 0636 0675 0714 .0753
-02 0793 0832 0871 0810 084808871028 = 0 1103 1141
-03 | .1179 1217 1255 .1293 1334 1368 ©. 1406 | 1443 1480 1517
-04 1554 1591 1628 1664 1700 1736 A772 1808 1844 1879
-05. 1915 1950 1985 2019 2054 2088 =| 2123 2187 2190 2224
-06 2257 2281 2324 2387 23892422 2454 2486 2517 2549
-07 — .2580 2611 2642 26732704 2734 | 2764 2794 2823 2852
-08 — .2881 2810 2939 2967 2995 8023 3051 3078 3106 3133
-68 8159 3186 3212 3238 3264 8289 3315 3340 3365 3389
-10 3413 3438 3461 3485 3508 3631 3554 3877 3599 3621
-141.8643 3665 3686 3708 3728 8749 3770 3790 3810 3830
-12 3849 3869 3688 3907 3925 3944 3962 3980 3997 4015
-13 4032 4048 4066 4082 4099 A115 4131 4147 A162 ANT
-14 4192 ‘4207 4222 4236 4251 A265 4279 4282 4308 4319
-15 4332 4345 4357 43704382 4394 4408 4418 4429 4441
-16 4452 4463 AATS 4484 4495 4505 4515 4525 4535 4545
-17° | 4554 4564 4573 4582 4591 4599 4608 4616 4825 4633
-18» 4641 4649 4656 A664 ABT1 ABTB ABBE 4693 4699 A708
-19 A713 ATG 4726 A782 ATSB ATAA A750 4756 A761 ATST
-2.0 | A772 ATTB 4783 AT8B ATSB AT9B 4803 4808 4612 A817
---- page 14 ---
-Given Numbers
-
-Calculations
-
-Product
-
-Hot Warm Cold
-Weather | Weather| Weather
-
-Optimistic | Pessimistic
-
-(a
-
-Hurwicz
-
-Hot |Warm} Cold Max
-)| Regret |Regret} Regret | Regret
-
-Expected
-Value
-
-Expected
-Regret
-
-Widget
-
-Flugel
-
-Gadget
-
-Nimnot
-
-Probability
-
-Best-Case
-
-A
 ````

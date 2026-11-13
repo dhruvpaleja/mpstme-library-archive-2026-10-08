@@ -84,7 +84,7 @@ Q.7 Write short notes on any two:
 (c) Isolation Transformer (10)
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper 9d1b9bb9dbfc
+## 2019-20 · Re-Exam · Sem 3 · paper 9d1b9bb9dbfc
 
 - Departments: Computer Engineering, Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
@@ -198,73 +198,7 @@ Write short note. (any two)
 [7x02=14]
 ````
 
-## 2017-18 · Final-Exam · Sem 3 · paper 6d8627d75303
-
-- Departments: Computer Engineering, Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/ELECTRONIC MATERIALS AND COMPONENTS/Electronic Materials & Components Batch 2017-2018 Final.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 29 November 2017
-- Text: text (2 pages)
-
-````text
-:::-----_.
-SVKM'S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year:   2017 - 2018
-Program: B. Tech. Integrated   (Computer   / EXTC)   r   Year: 11   Semester: III
-Marks: 70   \
-/   Subject: Electronic Materials and Components   r'
-Time: 02.00 pm to 05.00 pm
-Date: 29 November 2017 ('
-Duration: 3 hrs
-No. of Pages:   t!..
----'--'-------
-FINAL EXAMINATION
-Instructions: Candidates should read carefully the instructions print~d on the question paper and on the cover
-of the Answer Book, which is provided for their use.   '
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-Q.l   Attempt any four of the following:   [3.5x04=14]
-(a) Determine the resistance value for the following four band colour
-code. Determine maximum and minimum value of the resistance.
-Green   Violet   Brown No colour
-(b) Give comparison between core and shell type transformer.
-(c) What is a relay? Define NO and Ne contacts.
-(d) Give the classification of capacitors.
-(e) Describe briefly Ribbon microphone.
-Q.2   (a) What is the difference between primary and secondary cell. Give the   [7]
-construction   details of nickel cadmium battery.
-(b) Discuss manufacturing process of tubular ceramic capacitor   .   [7]
---- page 2 ---
-Q.3   (a) With suitable diagram explain variable transformer.   [7]
-(b) Describe air dielectric gang capacitor.   [7]
-\
-Q.4   (a) What do you mean by the term self inductance? A magnetic field is   [7]
-produced by a coil of 250 turns which is wound on iron core. The core has
-a cross-section of 20 cm 2 and length of 150 cm. The permeability of iron is
-800. What should be the current in the coil if the energy stores in the
-inductor is 10 J. (J.lo = 4n x 10'7 H.m'l)
-(b) Write a short note on seven segment display.   [7]
-Q.5   (a) State important specifications of relays. Describe the   [7]
-construction and working of general purpose electromagnetic   relay.
-(b) With the help of circuit diagram explain how potentiometers can   [7]
-be used for voltage dividing?
-Q. 6   (a) Describe the construction and working of moving coil   [7]
-microphone.
-(b) With the help of suitable diagram explain wire wound resistor   [7]
-and give atleast one application.
-Q.7   Write short note. (any two)   [7x02=14]
-(a) LDR
-(b) Variable capacitor
-(c) Transformer
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 6ab8071cf355
+## 2018-19 · Re-Exam · Sem 3 · paper 6ab8071cf355
 
 - Departments: Computer Engineering, Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
@@ -370,6 +304,192 @@ Page 2 of 2
 [7]
 
 [7]
+[7]
+
+[7]
+[7]
+
+[7x02=14]
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper 6d8627d75303
+
+- Departments: Computer Engineering, Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/ELECTRONIC MATERIALS AND COMPONENTS/Electronic Materials & Components Batch 2017-2018 Final.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 29 November 2017
+- Text: text (2 pages)
+
+````text
+:::-----_.
+SVKM'S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year:   2017 - 2018
+Program: B. Tech. Integrated   (Computer   / EXTC)   r   Year: 11   Semester: III
+Marks: 70   \
+/   Subject: Electronic Materials and Components   r'
+Time: 02.00 pm to 05.00 pm
+Date: 29 November 2017 ('
+Duration: 3 hrs
+No. of Pages:   t!..
+---'--'-------
+FINAL EXAMINATION
+Instructions: Candidates should read carefully the instructions print~d on the question paper and on the cover
+of the Answer Book, which is provided for their use.   '
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Q.l   Attempt any four of the following:   [3.5x04=14]
+(a) Determine the resistance value for the following four band colour
+code. Determine maximum and minimum value of the resistance.
+Green   Violet   Brown No colour
+(b) Give comparison between core and shell type transformer.
+(c) What is a relay? Define NO and Ne contacts.
+(d) Give the classification of capacitors.
+(e) Describe briefly Ribbon microphone.
+Q.2   (a) What is the difference between primary and secondary cell. Give the   [7]
+construction   details of nickel cadmium battery.
+(b) Discuss manufacturing process of tubular ceramic capacitor   .   [7]
+--- page 2 ---
+Q.3   (a) With suitable diagram explain variable transformer.   [7]
+(b) Describe air dielectric gang capacitor.   [7]
+\
+Q.4   (a) What do you mean by the term self inductance? A magnetic field is   [7]
+produced by a coil of 250 turns which is wound on iron core. The core has
+a cross-section of 20 cm 2 and length of 150 cm. The permeability of iron is
+800. What should be the current in the coil if the energy stores in the
+inductor is 10 J. (J.lo = 4n x 10'7 H.m'l)
+(b) Write a short note on seven segment display.   [7]
+Q.5   (a) State important specifications of relays. Describe the   [7]
+construction and working of general purpose electromagnetic   relay.
+(b) With the help of circuit diagram explain how potentiometers can   [7]
+be used for voltage dividing?
+Q. 6   (a) Describe the construction and working of moving coil   [7]
+microphone.
+(b) With the help of suitable diagram explain wire wound resistor   [7]
+and give atleast one application.
+Q.7   Write short note. (any two)   [7x02=14]
+(a) LDR
+(b) Variable capacitor
+(c) Transformer
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper ab3383063a30
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/ELECTRONIC MATERIALS AND COMPONENTS/Electronic Materials & Components Batch 2016-17 Re Exam.pdf`
+- Printed on paper: exam date: 29 November 2017
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2017-2018
+Program: B. Tech Integrated (Computer / EXTC) ‘ Year: I
+
+Batch: 2016-17 « Marks ~~ “SR
+Subject: Electronic Materials and Components
+Date :29 November 2017
+
+RE - EXAMINATION ©
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+_.4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Attempt any four of the following: [3.5x04=14]
+(a) Explain how rheostat can be used to vary current in the circuit?
+
+(b) Determine the resistance value for the following four band
+colour code. Determine maximum and minimum value of the
+resistance.
+
+Green Blue Orange Silver
+(c) Explain the construction of mica capacitors.
+
+(d) Describe horn type loudspeaker.
+(e) What is a relay? Define NO and NC contacts.
+
+(f) A magnetic field is produced by a coil of 200 turns which is
+wound on iron rod. The rod has a cross-section of 20 cm? and
+mean length of 150 cm. The permeability of iron is 800. If the
+current in the coil is 12 A. Find the energy stored in the mag
+
+netic field. (Mo= 4x x 107 H.m")
+
+th
+--- page 2 ---
+Q.2
+
+Q.3
+
+Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+(a) Describe various types of thermisters. Draw the characteristic
+
+curves and give any two applications.
+(b) With suitable diagram, explain metallized paper dielectric
+capacitor. What is self-healing effect?
+
+(a) Explain wire wound resistors. What is its advantage over other
+
+types of fixed resistors?
+(b) Explain in detail air dielectric rotary and differential air
+
+dielectric trimmer capacitors.
+
+(a) Explain the phenomena of self induction and mutual induction.
+
+(b) What are the different types of losses in the transformer?
+
+(a) With the help of schematic diagram, describe working
+principle and construction of carbon microphones.
+
+(b) Describe Light emitting diode and what are the advantages of
+using LED?
+
+(a) Give detailed explanation on construction and charging
+method of lead-acid battery.
+(b) Describe solid state relay.
+
+7
+
+Write short note. (any two)
+(a) Acive and passive components
+(b) Aluminum electrolytic capacitors
+
+(c) Power transformer
+
+[7]
+[7]
+
+[7]
+[7]
+
+[7]
+[7]
+
+[7]
+
 [7]
 
 [7]
@@ -687,124 +807,117 @@ Mo
 [7x02=14]
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper ab3383063a30
+## 2016-17 · Re-Exam · Sem 3 · paper 8c91cb82274a
 
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/ELECTRONIC MATERIALS AND COMPONENTS/Electronic Materials & Components Batch 2016-17 Re Exam.pdf`
-- Printed on paper: exam date: 29 November 2017
-- Text: ocr (2 pages), mean OCR confidence 93.0
+- Departments: Computer Engineering, Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/ELECTRONIC MATERIALS AND COMPONENTS/Electronic Materials & Components Batch 2015-16 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: exam date: 29 November 2016
+- Text: ocr (2 pages), mean OCR confidence 92.2
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY AGEMENT & ENGINEERING
+Programme: B. Tech Integrated (COMPUTER/E ) Year: II Semester: III
 
-Academic Year: 2017-2018
-Program: B. Tech Integrated (Computer / EXTC) ‘ Year: I
+Academic Year: 2016-2017
 
-Batch: 2016-17 « Marks ~~ “SR
-Subject: Electronic Materials and Components
-Date :29 November 2017
+ba.
+Subject : Electronic Materials and Components BATCH:
+Marks: 6 :
+Date : 29 November 2016 Time : 10: &5 3 Bok
+Durations: é
 
-RE - EXAMINATION ©
+Instruction: Candidates should read carefully the instructions printed on the question paper and_on the
+cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Re -Examination
 
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-_.4) All questions carry equal marks.
+NB:
+
+1) Question No. one is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary.
 
-Q.1 Attempt any four of the following: [3.5x04=14]
-(a) Explain how rheostat can be used to vary current in the circuit?
+Q.1 Attempt any four of the following: [03x04=12]
+(a) What is Q factor of an inductor? Give the expression for it.
+(b) What do you understand by the term ‘passive circuit elements’?
 
-(b) Determine the resistance value for the following four band
-colour code. Determine maximum and minimum value of the
-resistance.
+(c) Specify the colour code for the following resistor and determine its maximum
+and minimum value.
+4.7kQ4£5%
 
-Green Blue Orange Silver
-(c) Explain the construction of mica capacitors.
+(d) Give the classification of capacitors.
 
-(d) Describe horn type loudspeaker.
 (e) What is a relay? Define NO and NC contacts.
 
-(f) A magnetic field is produced by a coil of 200 turns which is
-wound on iron rod. The rod has a cross-section of 20 cm? and
-mean length of 150 cm. The permeability of iron is 800. If the
-current in the coil is 12 A. Find the energy stored in the mag
+(f) Describe briefly moving coil microphones.
 
-netic field. (Mo= 4x x 107 H.m")
+Q.2 (a) Describe carbon composition resistor with construction diagram. [6}
+(b) Give the construction, characteristics, application and symbol of varister. [6]
+Q.3 (a) With suitable diagram, explain impregnated paper dielectric capacitor. [6]
+(b) Explain with neat construction diagram aluminum electrolytic capacitors in [6]
 
-th
+detail.
+
+Ale
 --- page 2 ---
-Q.2
-
-Q.3
-
-Q.4
+Q4
 
 Q.5
 
-Q.6
+Q. 6
 
 Q.7
 
-(a) Describe various types of thermisters. Draw the characteristic
+(a) What do you mean by self inductance and mutual inductance? What is the
+coefficient of coupling between the two coupled coils, if Li= 50 pH, La= 80 pH
+and M = 11.3 pH?
 
-curves and give any two applications.
-(b) With suitable diagram, explain metallized paper dielectric
-capacitor. What is self-healing effect?
+(b) Describe the construction of core-type and shell-type transformer.
 
-(a) Explain wire wound resistors. What is its advantage over other
+(a) Describe the general purpose relay with suitable diagram. Mention any two
 
-types of fixed resistors?
-(b) Explain in detail air dielectric rotary and differential air
+applications.
+(b) Write a short note on LED.
 
-dielectric trimmer capacitors.
+(a) With the help of schematic diagram, describe working principle and
+construction of carbon microphones.
+(b) Differentiate primary and secondary cell.
 
-(a) Explain the phenomena of self induction and mutual induction.
+Write short note. (any three)
 
-(b) What are the different types of losses in the transformer?
+(a) 7-segment display
 
-(a) With the help of schematic diagram, describe working
-principle and construction of carbon microphones.
+(b) Power transformer
 
-(b) Describe Light emitting diode and what are the advantages of
-using LED?
+(c) Air dielectric gang capacitor
 
-(a) Give detailed explanation on construction and charging
-method of lead-acid battery.
-(b) Describe solid state relay.
+(d) Horn type speakers
 
-7
+ald
 
-Write short note. (any two)
-(a) Acive and passive components
-(b) Aluminum electrolytic capacitors
+[6]
 
-(c) Power transformer
+[6]
 
-[7]
-[7]
+[6]
 
-[7]
-[7]
+[6]
 
-[7]
-[7]
+[6]
 
-[7]
+[6]
 
-[7]
-
-[7]
-[7]
-
-[7x02=14]
+(04x03=12]
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper 23374426ce1a
@@ -999,119 +1112,6 @@ Q.7 Write short note. (any three) [04x03=12]
 (d) Relay
 
 tr
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 8c91cb82274a
-
-- Departments: Computer Engineering, Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_03/ELECTRONIC MATERIALS AND COMPONENTS/Electronic Materials & Components Batch 2015-16 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: exam date: 29 November 2016
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY AGEMENT & ENGINEERING
-Programme: B. Tech Integrated (COMPUTER/E ) Year: II Semester: III
-
-Academic Year: 2016-2017
-
-ba.
-Subject : Electronic Materials and Components BATCH:
-Marks: 6 :
-Date : 29 November 2016 Time : 10: &5 3 Bok
-Durations: é
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and_on the
-cover of the Answer Book, which is provided for their use.
-
-Re -Examination
-
-NB:
-
-1) Question No. one is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt any four of the following: [03x04=12]
-(a) What is Q factor of an inductor? Give the expression for it.
-(b) What do you understand by the term ‘passive circuit elements’?
-
-(c) Specify the colour code for the following resistor and determine its maximum
-and minimum value.
-4.7kQ4£5%
-
-(d) Give the classification of capacitors.
-
-(e) What is a relay? Define NO and NC contacts.
-
-(f) Describe briefly moving coil microphones.
-
-Q.2 (a) Describe carbon composition resistor with construction diagram. [6}
-(b) Give the construction, characteristics, application and symbol of varister. [6]
-Q.3 (a) With suitable diagram, explain impregnated paper dielectric capacitor. [6]
-(b) Explain with neat construction diagram aluminum electrolytic capacitors in [6]
-
-detail.
-
-Ale
---- page 2 ---
-Q4
-
-Q.5
-
-Q. 6
-
-Q.7
-
-(a) What do you mean by self inductance and mutual inductance? What is the
-coefficient of coupling between the two coupled coils, if Li= 50 pH, La= 80 pH
-and M = 11.3 pH?
-
-(b) Describe the construction of core-type and shell-type transformer.
-
-(a) Describe the general purpose relay with suitable diagram. Mention any two
-
-applications.
-(b) Write a short note on LED.
-
-(a) With the help of schematic diagram, describe working principle and
-construction of carbon microphones.
-(b) Differentiate primary and secondary cell.
-
-Write short note. (any three)
-
-(a) 7-segment display
-
-(b) Power transformer
-
-(c) Air dielectric gang capacitor
-
-(d) Horn type speakers
-
-ald
-
-[6]
-
-[6]
-
-[6]
-
-[6]
-
-[6]
-
-[6]
-
-(04x03=12]
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper b9019a372f11

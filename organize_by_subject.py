@@ -27,7 +27,8 @@ catalog  regenerates subjects/ (one folder per subject with an index of its
 
 To correct a subject, add "spelling": "Subject it belongs to" to
 subject_aliases.json (spellings are listed under "Also filed as" in each
-subject's README) and rerun catalog.
+subject's README) and rerun catalog. To move a single paper the portal filed
+under the wrong subject, add its original path to subject_overrides.json.
 """
 from pathlib import Path, PurePosixPath
 from collections import Counter, defaultdict
@@ -39,11 +40,13 @@ HERE = Path(__file__).resolve().parent
 INDEX_DIR = HERE / 'subjects'
 INDEX_CSV = INDEX_DIR / 'pyq_subject_index.csv'
 ALIASES_FILE = HERE / 'subject_aliases.json'
+OVERRIDES_FILE = HERE / 'subject_overrides.json'
 MANIFEST_NAME = 'full-library-manifest.json'
 REPO = 'dhruvpaleja/mpstme-library-archive-2026-10-08'
 TAG = 'complete-library-2026-10-08'
 QP_ROOT = '02_Question_Papers/'
 TREE_NAME = 'PYQs_By_Subject'
+KIND_ORDER = {'Question paper': 0, 'Answer key': 1, 'Dataset': 2, 'ZIP of papers': 3}   # listing order
 CSV_FIELDS = ['subject', 'academic_year', 'exam', 'kind', 'semester', 'programme', 'source', 'bytes', 'sha256',
               'path', 'filed_as', 'note']
 
@@ -451,9 +454,18 @@ def load_aliases(path=ALIASES_FILE):
     return {loose_key(k): v for k, v in data.items() if not k.startswith('_')}
 
 
-def classify(manifest_files, aliases=None):
+def load_overrides(path=OVERRIDES_FILE):
+    """Paper-level corrections: original path -> {"subject": ..., "printed": subject printed on the paper}."""
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding='utf-8'))
+    return {k: v if isinstance(v, dict) else {'subject': v} for k, v in data.items() if not k.startswith('_')}
+
+
+def classify(manifest_files, aliases=None, overrides=None):
     """Return one record per question-paper path with its canonical subject."""
     aliases = aliases or {}
+    overrides = overrides or {}
     rows = sorted((r for r in manifest_files if r['path'].startswith(QP_ROOT)), key=lambda r: r['path'])
     facts = [read_entry(r) for r in rows]
 
@@ -606,6 +618,15 @@ def classify(manifest_files, aliases=None):
             'semester': fact['semester'], 'programme': fact['programme'], 'source': fact['source'],
             'bytes': row['bytes'], 'sha256': row['sha256'], 'path': row['path'], 'filed_as': choice, 'note': note,
         })
+    # subject_overrides.json: papers whose own header names a different subject. Identical copies of the
+    # same file elsewhere follow the same correction.
+    by_sha = {r['sha256']: overrides[r['path']] for r in records if r['path'] in overrides}
+    for record in records:
+        fix = by_sha.get(record['sha256'])
+        if fix:
+            record['subject'] = resolve(fix['subject'])
+            printed = fix.get('printed') or fix['subject']
+            record['note'] = f'filed under "{record["filed_as"]}" but the paper is headed "{printed}"'
     return records
 
 # ============================================================================ manifest and index I/O
@@ -644,7 +665,7 @@ def load_records(manifest=None):
     """Subject records from the committed index, or classified afresh from a manifest."""
     if manifest or not INDEX_CSV.exists():
         _, data = load_manifest(manifest)
-        return classify(data['files'], load_aliases())
+        return classify(data['files'], load_aliases(), load_overrides())
     with INDEX_CSV.open(encoding='utf-8', newline='') as stream:
         records = list(csv.DictReader(stream))
     for record in records:
@@ -889,8 +910,8 @@ def write_catalog(records, index_dir=INDEX_DIR):
 
         def paper_order(copies):
             first = copies[0]
-            return (-int((first['academic_year'] or '0')[:4]), first['exam'], first['kind'], first['programme'],
-                    first['path'])
+            return (-int((first['academic_year'] or '0')[:4]), first['exam'], KIND_ORDER.get(first['kind'], 9),
+                    first['programme'], first['path'])
 
         for copies in sorted((sorted(c, key=lambda r: r['path']) for c in papers.values()), key=paper_order):
             first = copies[0]
@@ -944,7 +965,7 @@ def write_catalog(records, index_dir=INDEX_DIR):
 
 def cmd_catalog(args):
     _, data = load_manifest(args.manifest)
-    records = classify(data['files'], load_aliases())
+    records = classify(data['files'], load_aliases(), load_overrides())
     write_catalog(records)
 
 

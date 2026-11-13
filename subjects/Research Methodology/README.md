@@ -17,17 +17,6 @@ Also filed as: `RESEARCH METHODOLGOY`, `RESEARCH METHOLOGY`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | — | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / CSE Data Science (311), B TECH / CYBER SECURITY, B TECH / DATA SCIENCE, B TECH / I T, B TECH / MECHANICAL | B Tech, Research Methodology, Sem-VI, Batch 2025-26.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech Computer 7002, BTech CS 7055, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH | Research Methodology, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech AI 7012, BTech Computer 7002, BTech CS 7055, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004 | QP_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Research Methodology(702CI0I004)_2025-2026.pdf |
@@ -40,8 +29,19 @@ Also filed as: `RESEARCH METHODOLGOY`, `RESEARCH METHOLOGY`
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech DS 7009 | QP_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechanical 7003 | QP_Research Methodology(702CI0I004)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech Computer 7002, BTech CS 7055, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Mechanical 7003 | QP_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH, MBA TECH | Research Methodology, Sem VI, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper |  | B.TECH INTEGRATED | Research Methodology Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Research Methodology, Sem-V, Final Exam 2024-25.pdf |

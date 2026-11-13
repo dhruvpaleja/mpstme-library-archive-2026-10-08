@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Water Conveyance and Distribution Systems(702CI0E012)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Water Conveyance and Distribution Systems(702CI0E012)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Water Conveyance and Distribution Systems(702CI0E012)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Civil 7005 | QP_Water Conveyance and Distribution Systems(702CI0E012)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Water Conveyance and Distribution Systems(702CI0E012)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Water Conveyance and Distribution Systems(702CI0E012)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7, Sem 11 | B TECH / CIVIL, B.TECH INTEGRATED / CIVIL | Water Conveyance & Distribution Systems Batch 2024-25 Final.pdf [1] |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | Water Conveyance and Distributed Systems, Sem-VII, Final Exam, A Y 2023-24.pdf [2] |
 

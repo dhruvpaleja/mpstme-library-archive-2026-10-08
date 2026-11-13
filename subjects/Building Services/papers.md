@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM IV/Building Services/Building Services 2019-20 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 19 October 2019
 - Text: ocr (9 pages), mean OCR confidence 79.1
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -233,7 +234,6 @@ BTV PC reecssesecsssscsssssecsssssssecsnsseeccsnesnssnecessneeeesnsessesnnesessn
 b. ....(2 marks)
 C. (2 marks)
 d. ssseseeneneee(2 Marks)
-Se COST ANG. cicscccsacseeccvcenseenvesvesanssasst eae soseon son sedeisiiseiianeuarsarniserenapensienvenanenentsacccnn (2 INArKS)
 Mention the reasons for your selection based on the above 4 parameters......... (5 marks)
 Q. No.6: (b)
 
@@ -269,7 +269,6 @@ Rooming Houses:
 {Ael) (see Nowe 3)
 1) | Lose thas 15 min i
 height .
-i) Upwis R ORR NR NR NR Ro | ORR NR KR 5000 KR NR
 rooms ise Noted) | {see Note $)
 4) More than LS R R NR NR RR x NR NR RR 50 NE 450
 and up to 30 (see Nowe 4) (5000) {450}
@@ -277,7 +276,6 @@ rouns, (ree Note 6) Gee Note 6)
 if) More than 30 R R NR NK NR R R NR NR 10.000 NR 450
 Teoms {see Note 4) | (see Note 7) {5 000) (480)
 b ‘ (see Nowe 6) {see Note 6)
-b) | One or tro NR NR SR NR NR SR NR NR SR NR NR NR
 Family Private
 {(A-2) (see Nowe 3)
 see Note
@@ -376,13 +374,11 @@ AP mp
 8 of 9
 --- page 9 ---
 LESEND :
-Fr CIESEL DAWEN FRE SUnP
 2 EL AY ORSNT MMe mer
 FQ JOCKEY Pie
 - PA €t SPAIRKLER Pus
 Pree FL PY PRESSURE VESSEL
 pee Fi FIRE RYORAAT
-TAS MIRE ALAR PANE,
 SF SPSINELER
 snide: WALATE
 —hi-— FLEXIBLE CONNECTION
@@ -425,7 +421,6 @@ aot Ang) oe
 FIRE PUMP ROG
 meee —
 
-STEM OF POMPImMG wore Twe vak:, (evn Dupses Fisk Paso
 
 9 of 9
 ````
@@ -437,6 +432,7 @@ STEM OF POMPImMG wore Twe vak:, (evn Dupses Fisk Paso
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM IV/Building Services/Building Services Batch 2019-20 Re Exam.pdf`
 - Printed on paper: max marks: 100; exam date: 03 December 2019
 - Text: ocr (10 pages), mean OCR confidence 74.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -502,7 +498,6 @@ wf holes Bom n mn pile)
 
 e
 
-fA} we on ne nee on ow ww ne oe we oe oe
 
 OVERHEAD TANK
 
@@ -717,7 +712,6 @@ Rootning Houses
 H H
 1) | Legs than 15 min
 bight .
-i) Upwis R NR NR NR KR R i NR NR BR 5000 RR NR
 Toons, isee Nets 4) {see Note $)
 i) More than 15 Rg R NR NR NR Rk NR NE NR S000 NR 459
 and up to 30 {see Note 4) (5 600) (450)
@@ -725,7 +719,6 @@ seins i {see Note 6) (zee Note 6)
 iii) More than 30 R R NR NR NR R Rg NR NR 10 000 NR. 450
 rooms {see Note 4) | (see Note 7) (5.000) {450}
 {se Note 6) (see Note 6)
-b) | One or two NR NR NR NR NR NR NR NR NR NR NR NR
 Family Private
 Dwellings
 {AB (see Now 3)
@@ -860,7 +853,6 @@ GROUND TLR
 Lf facial A PERE PSR SE PLANT Ret
 Seb GTN ETE RISER PROM FIRE PLANT RO
 
-Poe SE MRLER ORIN SIRE TO FIRE TAA
 
 , ELEVATIONAL VIEW
 
@@ -901,6 +893,7 @@ hie. 12 Svexal
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM IV/Building Services/Building Services 2018-19 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 16 October 2018
 - Text: ocr (3 pages), mean OCR confidence 76.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME ~
@@ -1015,7 +1008,6 @@ Page 2 of 3
 ELECTRCAL SKETCH Q-3 RECM 2018-19
 
 E @ @Q- Lep 2AMe-IW Oa- CEILING. FAN — footy
-F ® De - SecKcer —bhé4 @ [R}-eee REG. — 2OOW.
 
 { - . Fee KW
 t @ CX — exnAucr- 2007 (® re] AIR COND TRHER. fen.

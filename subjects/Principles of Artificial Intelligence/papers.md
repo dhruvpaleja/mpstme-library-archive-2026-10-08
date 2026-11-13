@@ -326,6 +326,7 @@ intelligent systems.
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_IT_7001/Principles of Artificial Intelligence/QP_Principles of Artificial Intelligence(702IT0C035)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Jul 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -419,6 +420,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/MBATech_IT_7041/Principles of Artificial Intelligence/QP_Principles of Artificial Intelligence(702IT0C035)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Jul 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -885,7 +887,7 @@ BL-4,5 B Explain their working principles with suitable examples and discuss the
 advantages and limitations.
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 84991d45426c
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 84991d45426c
 
 - Departments: Information Technology
 - Programmes: B TECH / I T, MBA TECH / I T
@@ -1018,6 +1020,128 @@ BL-3,4 v. AO* problem solving strategy |
 vi. NGram Technique
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper e8dff6bec93d
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF ARTIFICIAL INTELILGENCE/Principles of Artificial Intelligence , Re-exam 2022-23,2021-22.pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 86.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2023-2024
+Program: B. Tech / MBA (Tech) Stream :Information Technology
+Subject: Principles of Artificial Intelligence
+
+Date:__6/ 7/24 :
+Marks: _100
+
+Year: II Semester: IV
+
+Time: _3 hrs (lozocamto 1?eopw)
+No. of Pages:3
+
+Re-Examination (2022- 23, 2021 -22)
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+CO- 1; se 7 mat .
+50-2: a. Analyze a Part Picking robot in an automobile industry and provide the PEAS | [5]
+BL-3.4 representation for the robot.
+CO- 3; Given the statement “Bag of words models consider the order of words in the
+so-6; |b. . . [5]
+BL-3 text data” State True or False and Justify your answer
+e CO-3; Differentiate between DFS and depth-first with iterative Deepening (IDFS) (5]
+SO-6; & :
+BL-2 search strategies.
+CO- 2;
+SO-2; Explain the terms : Knowledge base and inference engine in AI system.
+BL-2 | 4. [5]
+Consider a bank developing a loan approval system that predicts whether loan
+Q2 applicants are likely to default based on their credit ‘history (Good, Poor),
+employment status (Employed, Unemployed), and annual income (High,
+Low). The bank needs to automate part of its loan approval process to classify
+a low-risk and high risk applicants. Construct decision tree for the given [10]
+
+scenario. Also state root node, internal node and leaf node for classification
+
+State the limitations of using the decision tree approach.
+--- page 2 ---
+CO-1,2; Discuss the Backtracking method for problem solving with suitable example.
+SO-2; _ [10]
+BL-4,5 Fa
+Explain the technique of SVM for purpose of AI learning . [10]
+Q3 Describe the various Quantifiers in propositional logic.
+CO-2: Convert the following statement in FOL:
+S0-2: i. Some neural networks are deep learning models.
+BL-4,5 ii. No Al system is perfect. [10]
+iii. | Every autonomous vehicle uses sensors.
+iv. Ifa model predicts, then it has been trained with data.
+ae . . . nes ; [10]
+Explain, with help of suitable diagram, various types of Artificial Agents
+Q4 (Any 2) My
+CO-2,3; . . a . ar :
+SO-2; Discuss the steps involved in implementation of NLP pipeline with an | [10]
+BL-2,3 example.
+Q5 Explain the following learning categories with application for each category:
+CO-2: i. Supervised Learning [10]
+SO0-6 ii. _ Unsupervised Learning
+BL-2,3 Discuss the working of mini-max technique for problem solving . [10]
+Explain principle of Bayesian network. Consider an AI model developed to
+predict whether email is spam or not spam. Data for 10 emails is given below:
+Email | | | 2 | 3 | 4/15 | 6 | 7 | 8 | 9 | 10 || {lo} (>
+ID
+6
+CO-2,3; ry
+SO-2;
+BL-4,5 Compute the entropy for the above scenario.
+Consider the following axioms: Prove the following using resolution theorem
+proving
+[10]
+
+"All people who are not poor and are smart are happy. Those people who read
+are not stupid. John can read and is wealthy. Happy people have exciting lives.
+Can anyone be found with an exciting life?"
+
+«
+--- page 3 ---
+odo.
+
+Q7
+
+CO-
+1,2,3;
+SO-2;
+BL-2,3
+
+Write short notes on following: (Any 4)
+i. Page Rank Technique for information retrieval
+ii. Neural Network Layers
+iii. | A* problem solving strategy
+iv. NGram Technique
+v. Alpha Beta Pruning Method
+vi. Challenges of NLP
+
+[20]
+````
+
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper ce0ae70f64d8
 
 - Departments: Information Technology
@@ -1130,128 +1254,6 @@ CO-1,2,3; a) Compare model based agent with utility based agent.
 SO-6; b) Differentiate between Informed search and Uninformed search. [20]
 BL- c) SVM as supervised learning algorithm
 ae d) Discuss any three real world application of NLP?
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper e8dff6bec93d
-
-- Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF ARTIFICIAL INTELILGENCE/Principles of Artificial Intelligence , Re-exam 2022-23,2021-22.pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 86.3
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2023-2024
-Program: B. Tech / MBA (Tech) Stream :Information Technology
-Subject: Principles of Artificial Intelligence
-
-Date:__6/ 7/24 :
-Marks: _100
-
-Year: II Semester: IV
-
-Time: _3 hrs (lozocamto 1?eopw)
-No. of Pages:3
-
-Re-Examination (2022- 23, 2021 -22)
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-CO- 1; se 7 mat .
-50-2: a. Analyze a Part Picking robot in an automobile industry and provide the PEAS | [5]
-BL-3.4 representation for the robot.
-CO- 3; Given the statement “Bag of words models consider the order of words in the
-so-6; |b. . . [5]
-BL-3 text data” State True or False and Justify your answer
-e CO-3; Differentiate between DFS and depth-first with iterative Deepening (IDFS) (5]
-SO-6; & :
-BL-2 search strategies.
-CO- 2;
-SO-2; Explain the terms : Knowledge base and inference engine in AI system.
-BL-2 | 4. [5]
-Consider a bank developing a loan approval system that predicts whether loan
-Q2 applicants are likely to default based on their credit ‘history (Good, Poor),
-employment status (Employed, Unemployed), and annual income (High,
-Low). The bank needs to automate part of its loan approval process to classify
-a low-risk and high risk applicants. Construct decision tree for the given [10]
-
-scenario. Also state root node, internal node and leaf node for classification
-
-State the limitations of using the decision tree approach.
---- page 2 ---
-CO-1,2; Discuss the Backtracking method for problem solving with suitable example.
-SO-2; _ [10]
-BL-4,5 Fa
-Explain the technique of SVM for purpose of AI learning . [10]
-Q3 Describe the various Quantifiers in propositional logic.
-CO-2: Convert the following statement in FOL:
-S0-2: i. Some neural networks are deep learning models.
-BL-4,5 ii. No Al system is perfect. [10]
-iii. | Every autonomous vehicle uses sensors.
-iv. Ifa model predicts, then it has been trained with data.
-ae . . . nes ; [10]
-Explain, with help of suitable diagram, various types of Artificial Agents
-Q4 (Any 2) My
-CO-2,3; . . a . ar :
-SO-2; Discuss the steps involved in implementation of NLP pipeline with an | [10]
-BL-2,3 example.
-Q5 Explain the following learning categories with application for each category:
-CO-2: i. Supervised Learning [10]
-SO0-6 ii. _ Unsupervised Learning
-BL-2,3 Discuss the working of mini-max technique for problem solving . [10]
-Explain principle of Bayesian network. Consider an AI model developed to
-predict whether email is spam or not spam. Data for 10 emails is given below:
-Email | | | 2 | 3 | 4/15 | 6 | 7 | 8 | 9 | 10 || {lo} (>
-ID
-6
-Q Catego y NS S S | NS S S | NS S S
-CO-2,3; ry
-SO-2;
-BL-4,5 Compute the entropy for the above scenario.
-Consider the following axioms: Prove the following using resolution theorem
-proving
-[10]
-
-"All people who are not poor and are smart are happy. Those people who read
-are not stupid. John can read and is wealthy. Happy people have exciting lives.
-Can anyone be found with an exciting life?"
-
-«
---- page 3 ---
-odo.
-
-Q7
-
-CO-
-1,2,3;
-SO-2;
-BL-2,3
-
-Write short notes on following: (Any 4)
-i. Page Rank Technique for information retrieval
-ii. Neural Network Layers
-iii. | A* problem solving strategy
-iv. NGram Technique
-v. Alpha Beta Pruning Method
-vi. Challenges of NLP
-
-[20]
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper 55b4e0f0b1f9

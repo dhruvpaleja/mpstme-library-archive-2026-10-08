@@ -2332,6 +2332,626 @@ making forecasts untrusted.
 ********** 10 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 8 · Answer key · paper 10c105574e64
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech_Computer_7047/Business Analytics/ANS_Business Analytics(703TM0C003)_2024-2025_10c105574e.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
+- Text: mixed (15 pages), mean OCR confidence 36.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
+Tech (EXTC)/MBA Tech (IT)/MBA Tech (Mech)
+Year: IV/Semester VIII(Exam Year: 2025-2026)
+Subject: Business Analytics
+Date: 08 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 15 pages.
+2. Question No. 1 is compulsory
+3. A attempt any 4 questions out of remaining 6 questions
+4. Answer to each new question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+6. Assume Suitable data if necessary.
+Q1   [20
+Answer briefly:
+]
+a Discuss the importance of data visualization in business analytics. What are the principles of
+effective visualization? Explain how poor visualization can lead to misinterpretation of data.
+.
+Answer:
+Data visualization converts complex data into graphical formats for better understanding.
+Importance:
+•   Simplifies complex information
+•   Enables quick decision-making
+CO-   •   Identifies trends and patterns
+1;
+BL-   Principles:
+[5]
+Und
+•   Clarity and simplicity
+erst
+•   Appropriate chart selection
+and   •   Avoid misleading scales
+•   Consistent formatting
+Risks of poor visualization:
+•   Misinterpretation
+•   Biased decisions
+•   Loss of credibility
+b Critically evaluate the trade-off between prediction accuracy and model interpretability. In
+CO-
+what business situations would you prioritize interpretability over accuracy and vice versa?   [5]
+1;   .
+********** 1 **********
+--- page 2 ---
+BL-   Answer:
+Und   There is often a trade-off between model accuracy and interpretability.
+erst
+• High accuracy models: Neural networks, ensemble methods (less interpretable)
+and,
+•   Interpretable models: Linear regression, decision trees (less complex)
+appl
+y   When to prioritize interpretability:
+•   Healthcare
+•   Banking (loan approvals)
+•   Regulatory environments
+When to prioritize accuracy:
+• Recommendation systems
+•   Fraud detection
+The choice depends on business context, risk, and regulatory requirements.
+c Differentiate between regression and classification problems in detail. Discuss the types of
+business problems suited for each and explain how model performance is evaluated in both
+.
+cases.
+Answer:
+Regression and classification are supervised learning techniques.
+CO-
+1,2;   •   Regression: Predicts continuous outcomes (e.g., sales forecasting)
+BL-   •   Classification: Predicts categorical outcomes (e.g., churn: yes/no)
+Und
+[5]
+Evaluation metrics:
+erst
+and,
+•   Regression: R², RMSE, MAE
+appl   •   Classification: Accuracy, Precision, Recall, F1-score
+y
+Applications:
+•   Regression → Pricing, demand forecasting
+•   Classification → Credit scoring, fraud detection
+d Explain the bias-variance trade-off in the context of machine learning models. How does it
+CO-   impact model performance? Discuss techniques to achieve an optimal balance.
+.
+2,3;
+BL-
+Answer:   [5]
+Und
+The bias-variance trade-off explains model performance in terms of underfitting and
+erst   overfitting.
+and,
+• High Bias: Model is too simple → underfitting
+********** 2 **********
+--- page 3 ---
+appl   • High Variance: Model is too complex → overfitting
+y
+Impact:
+• Poor generalization to new data
+Balancing techniques:
+•   Cross-validation
+•   Regularization (Lasso, Ridge)
+•   Pruning decision trees
+•   Increasing training data
+An optimal model minimizes both bias and variance.
+a) Which model was applied, and why? (2 Marks)
+b) State the multiple regression equation. (3 Marks)
+c) Interpret the meaning of each regression coefficient. (3 Marks)
+d) Can the regression equation be used for prediction? Explain. (5 Marks)
+e) Determine the coefficient of multiple determination and interpret its meaning. (3
+Marks)
+f) Predict exam marks for the following values of independent variables. (4 Marks)
+X1   X2   X3   X4
+20   85   7   3
+Q2
+CO-
+Synoptic
+1,2,
+a) Which model was applied, and why? (2 Marks)
+3;
+Stepwise Multiple Linear Regression was applied.
+BL-   [2
+Appl   Reason:
+0]
+y,   • There is one dependent variable (Final Marks)
+Anal   • Multiple independent variables are considered
+yse,
+Eval   • Stepwise method selects only statistically significant variables automatically
+uate   b) State the multiple regression equation. (3 Marks)
+From Final Model (Model 3):
+Final Marks = 29.869 + 1.350(Study Hours) + 0.493(Attendance)
+−1.881(Social Media Hours)
+c) Interpret the meaning of each regression coefficient. (3 Marks)
+•   Intercept (29.869):
+Base marks when all predictors are zero (not practically meaningful)
+********** 3 **********
+--- page 4 ---
+• Study Hours (1.350):
+Each additional hour of study increases marks by 1.350 (strong positive
+effect)
+• Attendance (0.493):
+A 1% increase in attendance increases marks by 0.493
+•   Social Media Hours (-1.881):
+Each additional hour spent on social media reduces marks by 1.881
+(negative impact)
+d) Can the regression equation be used for prediction? (5 Marks)
+The model can be used for prediction based on:
+1. ANOVA Test:
+o p-value = 0.000 < 0.05 → model is statistically significant
+2. R² Value:
+o R2 = 0.490→ explains 49% variation (moderate fit)
+3. Significance of Variables:
+o All included variables have p < 0.05 → statistically significant
+4. Durbin-Watson:
+o DW = 2.305 (~2) → no serious autocorrelation
+5. Multicollinearity:
+o Tolerance values high → no multicollinearity
+6. Normality:
+o Histogram is approximately normal
+o P-P plot follows diagonal
+7. Homoscedasticity:
+o Residual scatterplot shows random distribution
+********** 4 **********
+--- page 5 ---
+The model is statistically significant, all predictors are significant, and assumptions
+are satisfied. Hence, it can be reliably used for prediction.
+e) Determine R² and interpret. (3 Marks)
+• 𝑅2 = 0.490
+Interpretation:
+49% of variation in final marks is explained by study hours, attendance, and social
+media usage.
+f) Predict exam marks. (4 Marks)
+Given:
+• Study Hours = 20
+• Attendance = 85
+•   Social Media Hours = 7
+(Note: Sleep Hours is excluded in final model)
+𝑌= 29.869 + 1.350(20) + 0.493(85) −1.881(7)
+𝑌= 85.607 ≈85.61
+Predicted Final Marks = 85.61
+a Answer following questions:
+a) Is factor analysis appropriate for this dataset? Justify. (4)
+b) What will you conclude from Anti-image correlation matrix? (2)
+c) How many factors would you retain? What is the total variance explained by the
+retained factors. (4)
+Q3
+d) Name the factors. (4)
+CO-
+1,2,   e) Which variable has the highest loading on each factor? (2)
+3;   f)   Is there any variable that should be removed? Justify. (2)
+BL-   g) Which factor appears to be the most important in influencing patient perception? (2)
+[2
+Appl
+y   Solution:   0]
+Eval   a) Yes, factor analysis is appropriate.
+• KMO = 0.692 → Acceptable (≥ 0.6), indicating adequate sampling
+uate
+,   •   Bartlett’s Test: Sig. = 0.000 (< 0.05) → Significant
+crea   •   Variables are sufficiently correlated
+te
+b) Diagonal values (MSA) are mostly above 0.5, therefore variables are suitable.
+c) Using Eigenvalue > 1 criterion:
+•   Factor 1 = 2.813
+•   Factor 2 = 2.060
+•   Factor 3 = 1.650
+********** 5 **********
+--- page 6 ---
+Total factors retained = 3. These explain ~70.54% of total variance
+d) Factor 1: Clinical Service Quality
+•   Doctor Competence (DC)
+•   Nursing Care (NC)
+•   Medical Equipment (ME)
+Factor 2: Service Experience Quality
+•   Hospital Cleanliness (HC)
+• Treatment Cost Fairness (TC)
+•   Complaint Resolution (CR)
+Factor 3: Patient Outcome & Efficiency
+•   Waiting Time Management (WT)
+•   Overall Satisfaction (OS)
+e)   Factor 1 → Medical Equipment (ME)
+Factor 2 → Complaint Resolution (CR)
+Factor 3 → Waiting Time Management (WT)
+f) All variables have high communalities (> 0.5) and all variables load clearly on one
+factor. Therefore: No variable needs to be removed
+g) Clinical Service Quality
+a
+Synoptic
+Employee   Distance   Class   Rank
+Q4
+E1   √2 = 1.41   Stay   1
+CO-   E2   √2 = 1.41   Stay   2
+1,2,   E3   √1 = 1.00   Leave   3
+3;   E7   √2 = 1.41   Leave   4
+BL-   E5   √4 = 2.00   Leave   5
+[1
+Appl   E4   √4 = 2.00   Stay   6
+0]
+y,   E8   √5 = 2.24   Stay   7
+E9   √8 = 2.83   Leave   8
+Anal
+E6   √10 = 3.16   Stay   9
+yse,
+E10   √8 = 2.83   Stay   10
+Eval
+k = 3
+uate   Stay, Stay, Leave → Stay
+k = 5
+Leave, Stay, Leave, Leave, Leave → Leave
+********** 6 **********
+--- page 7 ---
+Step   Marks
+Distance calculation   4
+Nearest neighbors’ identification   2
+Prediction using k=3   2
+Prediction using k=5   2
+b
+Ans
+a) To predict the model, identify the multivariate technique used with the
+justification of using the same.
+Ans.: The multivariate technique used here is the linear discriminant analysis
+as the dependent variable is having two categories and the list of independent
+variables are all continuous. Also, the output is related to the model fitting in
+terms of discriminant functional form.
+b) Write out the functional form of the model.
+Ans.: The functional form can be written as follows:
+x4   -3.294
+Q4   x6   .466
+x7   3.677
+CO-
+D = -3.294* X4 + .466 * X6 + 3.677 * X7
+1,2,   c) State the test statistic /s used to test the goodness of fit of the model?
+The Wilk’s Lambda is used to assess the goodness of fit of the model. The
+3;
+discriminant function is highly significant as the p-value (.000) is < 0.01 and
+BL-   displays a canonical correlation of 0.837. We interpret this correlation by
+squaring it (.837)2 = 0.700569. Thus, 70 percent of the variance in the [1
+Appl
+dependent variable (X8) can be accounted for (explained) by this model.   0]
+y,   d) How would you interpret the classification table?
+Ans. Classification matrices for the observations were calculated, and the
+Anal
+results are shown in classification table. The sample shows prediction accuracy
+yse,   of 94.8 percent.
+e) Rank the discriminating variables and state the most and the least important
+Eval
+one which classifies the note as genuine and counterfeit. On what basis you
+uate   will rank the discriminating variables?
+Variables in the Analysis
+Tolera   F to   Wilks'   Rank
+Step   nce   Remove Lambda
+3   x6   .904   32.937   .346   3
+x7   .059 266.003   .684   1
+x4   .059 169.073   .544   2
+The most important discriminating variable is X7 and the least is X6 in discriminating the
+product being classified as rejected and accepted.
+The ranks are given based on the F-statistic (higher the value better the rank i.e. 1) or Wilk’s
+Lambda (lower the value better the rank i.e. 1)
+a Ans   [1
+Q5   a) Write down the model in equation form.
+Ans. the equation is written as   5]
+********** 7 **********
+--- page 8 ---
+CO-   Ln(odds) = -1.77 + 1.011* Diffclty + 0.928 Season(1) - .418 * Season(2)
+1,2,   b) What are the measures of coefficient of determination for this model, interpret them.
+Ans. ; the measures of coefficient of determination for this model is Cox and Snell R2
+3;   and Nagelkerke R2 is an adjustment over Cox and Snell R2 Cox and Snell's R 2 is based
+BL-   on the log likelihood for the model compared to the log likelihood for a baseline model.
+However, with categorical outcomes, it has a theoretical maximum value of less than 1,
+Appl   even for a "perfect" model. Nagelkerke's R 2 is an adjusted version of the Cox &
+Snell R-square that adjusts the scale of the statistic to cover the full range from 0 to 1. In
+y,
+our case the values are on lower side indicating a poor explained variation by this model.
+Anal   c) Interpret the classification table.
+yse,   Ans. The classification table shows that Sensitivity is 66.7% and specificity is 88.9 %.
+Eval   Overall the model classifies the cases correctly 80% of times.
+uate
+b A study was conducted to understand SALES PERFORMANCE (Monthly sales in ₹ thousands)
+based on the following parameters:
+• TRAINING SESSIONS (Number of training sessions attended per month)
+• SALES EXPERIENCE (Years of experience in sales)
+• CUSTOMER INTERACTION (Average number of customer interactions per day)
+• ADMINISTRATIVE TIME (Hours spent on non-selling activities daily)
+Cook’s Distance was calculated for the data and is given in the following table. Identify
+outliers, if present, in the data with proper justification. Only mention S.No. of the outliers.
+S.No.   Cook’s Distance
+1   0.00185
+2   0.01247
+3   0.00096
+4   0.00278
+5   0.00563
+6   0.00112
+Q5   7   0.00845
+8   0.01123
+CO-;   9   0.00214   [5]
+SO-;   10   0.01678
+11   0.02245
+BL-   12   0.03890
+13   0.00312
+14   0.01967
+15   0.06945
+16   0.00088
+17   0.15278
+18   0.14034
+19   0.01356
+20   0.16523
+21   0.07654
+22   0.02467
+23   0.00789
+24   0.00934
+25   0.00547
+26   0.01012
+27   0.00105
+28   0.00476
+29   0.00058
+30   0.00201
+********** 8 **********
+--- page 9 ---
+a) How many clusters are appropriate for this data? Explain (4 Marks)
+b) Who are the members of the group (give case number)? (3 marks)
+c) What would you conclude from ANOVA? (3 Marks)
+d) What are characteristics of each group? (6 marks)
+e) Based on the cluster analysis performed on customer responses, identify the
+most profitable Automobile buyer segment. Justify your answer (4 Marks)
+Solution: ( Any other cluster solution with appropriate explaination is
+considered correct)
+a. According to Dendrogram 5 cluster solution is appropriate for the data.
+b. Student may write the case numbers as per 5 cluster solution.
+c. ANOVA is significant for all variables indicating that all variables are
+contributing in the cluster analysis. This also validates the cluster results.
+d. Cluster Characteristics Interpretation
+Cluster 1 (n = 10): “Economy Value Seekers”
+Q6   Key Observations:
+CO-
+•   Price Sensitivity: Very High (8.30)
+1,2,   • Mileage Importance: Very High (9.30)
+3;   • Brand: Moderate (6.30)
+•   Safety: High (7.80)
+BL-   • Luxury: Very Low (3.10)
+•   Resale: High (6.90)   [2
+Appl
+0]
+y,
+Interpretation:
+Anal
+yse,   •   Strong focus on affordability and fuel efficiency
+•   Value practical benefits (mileage + resale)
+Eval   • Not interested in luxury features
+uate   • Moderate concern for brand
+Suggested Name:
+“Economy Buyers” / “Value Seekers”
+Cluster 2 (n = 5): “Luxury-Oriented Buyers”
+Key Observations:
+•   Price Sensitivity: Very Low (2.60)
+•   Mileage: Low (4.00)
+• Brand: High (7.00)
+•   Safety: Moderate (5.80)
+• Luxury: Very High (8.40)
+•   Resale: Low (4.20)
+********** 9 **********
+--- page 10 ---
+Interpretation:
+•   Willing to pay premium prices
+•   Strong preference for luxury and brand image
+•   Less concerned about:
+o Mileage
+o Resale value
+Suggested Name:
+“Luxury Buyers” / “Premium Segment”
+Cluster 3 (n = 5): “Practical Balanced Buyers”
+Key Observations:
+•   Price: Moderate (6.00)
+•   Mileage: High (7.00)
+• Brand: Moderate (6.00)
+•   Safety: Moderate-High (6.80)
+• Luxury: Moderate (5.00)
+•   Resale: Moderate (6.40)
+Interpretation:
+•   Balanced preferences across all attributes
+•   Consider both:
+o Performance (mileage)
+o   Practical value (resale)
+•   Neither highly price-sensitive nor luxury-driven
+Suggested Name:
+“Balanced Buyers” / “Practical Consumers”
+Cluster 4 (n = 5): “Brand-Conscious Luxury Seekers”
+Key Observations:
+•   Price Sensitivity: Low (3.20)
+•   Mileage: Low (3.40)
+• Brand: Very High (8.40)
+•   Safety: Moderate (6.60)
+• Luxury: Very High (9.00)
+•   Resale: Low (4.00)
+Interpretation:
+•   Strong focus on brand prestige and luxury
+********** 10 **********
+--- page 11 ---
+•   Willing to ignore:
+o Mileage
+o Resale value
+•   Likely status-driven buyers
+Suggested Name:
+“Status Seekers” / “Brand-Luxury Buyers”
+Cluster 5 (n = 5): “Value-Conscious Balanced Buyers”
+Key Observations:
+Price: Moderate (6.00)
+•   Mileage: High (7.00)
+• Brand: High (7.40)
+•   Safety: High (7.20)
+• Luxury: Moderate (5.20)
+•   Resale: Moderate (6.00)
+Interpretation:
+•   Value both performance and brand
+•   Balanced orientation toward:
+o Safety
+o Mileage
+• Moderate interest in luxury
+Suggested Name:
+“Smart Value Buyers” / “Quality Seekers”
+Comparison Summary
+Factor   C1   C2   C3   C4   C5
+Price   Moderat   Moderat
+High   Low   Low
+Sensitivity   e   e
+Very
+Mileage   Low High   Low   High
+High
+Hig Moderat Very   Moderat
+Luxury   Low
+h   e   High   e
+Moderat Hig Moderat Very
+Brand   High
+e   h   e   High
+Key Insight (High-Scoring Point)
+The data reveals 5 distinct automobile buyer segments:
+1. Economy-focused buyers
+********** 11 **********
+--- page 12 ---
+2. Luxury-focused buyers
+3. Balanced practical buyers
+4. Status-driven premium buyers
+5. Quality-conscious value buyers
+Strong differentiation → very meaningful clustering
+Most Profitable Segment
+Cluster 4 (Brand-Luxury Buyers)
+Reason:
+•   Highest preference for:
+o Luxury
+o Brand
+• Low price sensitivity → high margins
+Alternative answer: Cluster 2 also acceptable (luxury buyers)
+a   a) Calculate a three month moving average for months three to eight. What would be
+your forecast for the demand in 9th month?   (3 marks)
+b) Apply exponential smoothing with a smoothing constant of 0.4 to derive a
+forecast for the demand in 9th month. (3 marks)
+c) Which of the two forecasts for 9th month do you prefer and why? (4
+marks)Solution:
+Q7
+CO-
+1,2,   (a) The three month moving average for months 3 to 9 is given by:
+3;
+Month   Sale   Forecast   Error
+BL-   1   160
+[1
+Appl   2   110
+3   130   0]
+y,
+4   160   133.3333   711.1111
+Anal   5   180   133.3333   2177.778
+6   150   156.6667   44.44444
+yse,
+7   200   163.3333   1344.444
+Eval   8   220   176.6667   1877.778
+uate   9   180   190   100
+10   150   200   2500
+Forecas
+t   183.3333
+Error   1250.794
+********** 12 **********
+--- page 13 ---
+The forecast for month 10 is just the moving average for the month before that i.e. the
+moving average for month 9 = m9 = 20.33.
+Hence (as we cannot have fractional demand) the forecast for month 9 is 183.3333
+(b) Applying exponential smoothing with a smoothing constant of 0.4 we get:
+0.4
+Month   Sale   Forecast   Error
+1   160   170
+2   110   166   3136
+3   130   143.6   184.96
+4   160   138.16   476.9856
+5   180   146.896   1095.875
+6   150   160.1376   102.7709
+7   200   156.0826   1928.742
+8   220   173.6495   2148.366
+9   180   192.1897   148.5893
+10   150   187.3138   1392.322
+Forecas
+t   172.3883
+Error   1179.401
+Forecast : 172.3883
+(c) To compare the two forecasts we calculate the mean squared deviation (MSD). If we do
+this, we find that for the moving average
+Overall then we see that the Exponential Smoothing method appears to give the best one
+month ahead forecasts as it has a lower MSD. Hence we prefer the forecast of 172.3883
+that has been produced by the Exponential Smoothing
+b Answers
+Looking at ACF & PACF for raw data, it is clear that the series is stationary. See graph below,
+Q7   the lags and are above zero as well as below zero indicating stationarity. There is no need
+for difference for this data.
+CO-
+1,2,
+3;
+BL-
+[1
+Appl
+0]
+y,
+Anal
+yse,
+Eval
+uate
+The model selection is done on the basis of following parameters
+1. Requirement of stationarity (in this case d = 0)
+********** 13 **********
+--- page 14 ---
+2. BIC as low as possible
+3. All lags (except intercept) need to be significant
+4. Ljung-Box test should not be significant
+5. Residual ACF & PACF should be within the lines
+Any simplest model that satisfies above parameters is the best model and can be used
+for forecasting.
+In above case
+Sr   Model   BIC   Description   Result
+No
+1   ARIMA(1,0,0)   9.951   Correct : d=0, LB test not sig, Model
+without   lag sig   cannot be
+removing   problem – Residual ACF &   used
+outliers   PACF not within range
+2   ARIMA(1,1,0)   9.648   Correct :, LB test not sig,.   Model
+without   Residual ACF & PACF within   cannot be
+removing   range   used
+outliers   problem – d=1, all lags not
+sig,
+3   ARIMA(0,1,1)   9.591   Correct :, LB test not sig, lag   Model
+without   sig, Residual ACF & PACF   cannot be
+removing   within range   used
+outliers   problem – d=1
+4   ARIMA(1,0,1)   9.997   Correct : d=1, LB test not sig, Model
+without   problem – Residual ACF &   cannot be
+removing   PACF not within range   used
+outliers   all lags not sig.
+5   ARIMA(1,0,0)   8.962   All correct + minimum BIC +   Model can
+after   Simplest possible model   be used
+removing
+outliers
+Final model chosen is ARIMA(1,0,0) after removing outliers hence company should use
+following forecasts
+Model   30   31   32   33   34   35
+Demand   Forecas   2026   2015   2007   2001   1996   1992
+Solar-   t
+Model_1   UCL   2148   2150   2149   2147   2144   2142
+LCL   1905   1881   1865   1855   1847   1842
+Comment on forecasts : the forecasts seems to be good as the width of 95% interval is
+not too wide for initial forecasts. As the forecasting period extends, width becomes
+wider making forecasts untrusted.
+********** 14 **********
+--- page 15 ---
+FAC OR CC 7] eae ek ak
+````
+
 ## 2025-26 · Re-Exam · Sem 8 · Answer key · paper 6f5fdaa2125c
 
 - Departments: Computer Engineering
@@ -10629,625 +11249,6 @@ Comment on forecasts : the forecasts seems to be good as the width of 95% interv
 not too wide for initial forecasts. As the forecasting period extends, width becomes
 wider making forecasts untrusted.
 ********** 12 **********
-````
-
-## 2024-25 · Re-Exam · Sem 8 · Answer key · paper 10c105574e64
-
-- Departments: Computer Engineering
-- Programmes: MBATech Computer 7047
-- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech_Computer_7047/Business Analytics/ANS_Business Analytics(703TM0C003)_2024-2025_10c105574e.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
-- Text: mixed (15 pages), mean OCR confidence 36.2
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
-Tech (EXTC)/MBA Tech (IT)/MBA Tech (Mech)
-Year: IV/Semester VIII(Exam Year: 2025-2026)
-Subject: Business Analytics
-Date: 08 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 15 pages.
-2. Question No. 1 is compulsory
-3. A attempt any 4 questions out of remaining 6 questions
-4. Answer to each new question to be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
-6. Assume Suitable data if necessary.
-Q1   [20
-Answer briefly:
-]
-a Discuss the importance of data visualization in business analytics. What are the principles of
-effective visualization? Explain how poor visualization can lead to misinterpretation of data.
-.
-Answer:
-Data visualization converts complex data into graphical formats for better understanding.
-Importance:
-•   Simplifies complex information
-•   Enables quick decision-making
-CO-   •   Identifies trends and patterns
-1;
-BL-   Principles:
-[5]
-Und
-•   Clarity and simplicity
-erst
-•   Appropriate chart selection
-and   •   Avoid misleading scales
-•   Consistent formatting
-Risks of poor visualization:
-•   Misinterpretation
-•   Biased decisions
-•   Loss of credibility
-b Critically evaluate the trade-off between prediction accuracy and model interpretability. In
-CO-
-what business situations would you prioritize interpretability over accuracy and vice versa?   [5]
-1;   .
-********** 1 **********
---- page 2 ---
-BL-   Answer:
-Und   There is often a trade-off between model accuracy and interpretability.
-erst
-• High accuracy models: Neural networks, ensemble methods (less interpretable)
-and,
-•   Interpretable models: Linear regression, decision trees (less complex)
-appl
-y   When to prioritize interpretability:
-•   Healthcare
-•   Banking (loan approvals)
-•   Regulatory environments
-When to prioritize accuracy:
-• Recommendation systems
-•   Fraud detection
-The choice depends on business context, risk, and regulatory requirements.
-c Differentiate between regression and classification problems in detail. Discuss the types of
-business problems suited for each and explain how model performance is evaluated in both
-.
-cases.
-Answer:
-Regression and classification are supervised learning techniques.
-CO-
-1,2;   •   Regression: Predicts continuous outcomes (e.g., sales forecasting)
-BL-   •   Classification: Predicts categorical outcomes (e.g., churn: yes/no)
-Und
-[5]
-Evaluation metrics:
-erst
-and,
-•   Regression: R², RMSE, MAE
-appl   •   Classification: Accuracy, Precision, Recall, F1-score
-y
-Applications:
-•   Regression → Pricing, demand forecasting
-•   Classification → Credit scoring, fraud detection
-d Explain the bias-variance trade-off in the context of machine learning models. How does it
-CO-   impact model performance? Discuss techniques to achieve an optimal balance.
-.
-2,3;
-BL-
-Answer:   [5]
-Und
-The bias-variance trade-off explains model performance in terms of underfitting and
-erst   overfitting.
-and,
-• High Bias: Model is too simple → underfitting
-********** 2 **********
---- page 3 ---
-appl   • High Variance: Model is too complex → overfitting
-y
-Impact:
-• Poor generalization to new data
-Balancing techniques:
-•   Cross-validation
-•   Regularization (Lasso, Ridge)
-•   Pruning decision trees
-•   Increasing training data
-An optimal model minimizes both bias and variance.
-a) Which model was applied, and why? (2 Marks)
-b) State the multiple regression equation. (3 Marks)
-c) Interpret the meaning of each regression coefficient. (3 Marks)
-d) Can the regression equation be used for prediction? Explain. (5 Marks)
-e) Determine the coefficient of multiple determination and interpret its meaning. (3
-Marks)
-f) Predict exam marks for the following values of independent variables. (4 Marks)
-X1   X2   X3   X4
-20   85   7   3
-Q2
-CO-
-Synoptic
-1,2,
-a) Which model was applied, and why? (2 Marks)
-3;
-Stepwise Multiple Linear Regression was applied.
-BL-   [2
-Appl   Reason:
-0]
-y,   • There is one dependent variable (Final Marks)
-Anal   • Multiple independent variables are considered
-yse,
-Eval   • Stepwise method selects only statistically significant variables automatically
-uate   b) State the multiple regression equation. (3 Marks)
-From Final Model (Model 3):
-Final Marks = 29.869 + 1.350(Study Hours) + 0.493(Attendance)
-−1.881(Social Media Hours)
-c) Interpret the meaning of each regression coefficient. (3 Marks)
-•   Intercept (29.869):
-Base marks when all predictors are zero (not practically meaningful)
-********** 3 **********
---- page 4 ---
-• Study Hours (1.350):
-Each additional hour of study increases marks by 1.350 (strong positive
-effect)
-• Attendance (0.493):
-A 1% increase in attendance increases marks by 0.493
-•   Social Media Hours (-1.881):
-Each additional hour spent on social media reduces marks by 1.881
-(negative impact)
-d) Can the regression equation be used for prediction? (5 Marks)
-The model can be used for prediction based on:
-1. ANOVA Test:
-o p-value = 0.000 < 0.05 → model is statistically significant
-2. R² Value:
-o R2 = 0.490→ explains 49% variation (moderate fit)
-3. Significance of Variables:
-o All included variables have p < 0.05 → statistically significant
-4. Durbin-Watson:
-o DW = 2.305 (~2) → no serious autocorrelation
-5. Multicollinearity:
-o Tolerance values high → no multicollinearity
-6. Normality:
-o Histogram is approximately normal
-o P-P plot follows diagonal
-7. Homoscedasticity:
-o Residual scatterplot shows random distribution
-********** 4 **********
---- page 5 ---
-The model is statistically significant, all predictors are significant, and assumptions
-are satisfied. Hence, it can be reliably used for prediction.
-e) Determine R² and interpret. (3 Marks)
-• 𝑅2 = 0.490
-Interpretation:
-49% of variation in final marks is explained by study hours, attendance, and social
-media usage.
-f) Predict exam marks. (4 Marks)
-Given:
-• Study Hours = 20
-• Attendance = 85
-•   Social Media Hours = 7
-(Note: Sleep Hours is excluded in final model)
-𝑌= 29.869 + 1.350(20) + 0.493(85) −1.881(7)
-𝑌= 85.607 ≈85.61
-Predicted Final Marks = 85.61
-a Answer following questions:
-a) Is factor analysis appropriate for this dataset? Justify. (4)
-b) What will you conclude from Anti-image correlation matrix? (2)
-c) How many factors would you retain? What is the total variance explained by the
-retained factors. (4)
-Q3
-d) Name the factors. (4)
-CO-
-1,2,   e) Which variable has the highest loading on each factor? (2)
-3;   f)   Is there any variable that should be removed? Justify. (2)
-BL-   g) Which factor appears to be the most important in influencing patient perception? (2)
-[2
-Appl
-y   Solution:   0]
-Eval   a) Yes, factor analysis is appropriate.
-• KMO = 0.692 → Acceptable (≥ 0.6), indicating adequate sampling
-uate
-,   •   Bartlett’s Test: Sig. = 0.000 (< 0.05) → Significant
-crea   •   Variables are sufficiently correlated
-te
-b) Diagonal values (MSA) are mostly above 0.5, therefore variables are suitable.
-c) Using Eigenvalue > 1 criterion:
-•   Factor 1 = 2.813
-•   Factor 2 = 2.060
-•   Factor 3 = 1.650
-********** 5 **********
---- page 6 ---
-Total factors retained = 3. These explain ~70.54% of total variance
-d) Factor 1: Clinical Service Quality
-•   Doctor Competence (DC)
-•   Nursing Care (NC)
-•   Medical Equipment (ME)
-Factor 2: Service Experience Quality
-•   Hospital Cleanliness (HC)
-• Treatment Cost Fairness (TC)
-•   Complaint Resolution (CR)
-Factor 3: Patient Outcome & Efficiency
-•   Waiting Time Management (WT)
-•   Overall Satisfaction (OS)
-e)   Factor 1 → Medical Equipment (ME)
-Factor 2 → Complaint Resolution (CR)
-Factor 3 → Waiting Time Management (WT)
-f) All variables have high communalities (> 0.5) and all variables load clearly on one
-factor. Therefore: No variable needs to be removed
-g) Clinical Service Quality
-a
-Synoptic
-Employee   Distance   Class   Rank
-Q4
-E1   √2 = 1.41   Stay   1
-CO-   E2   √2 = 1.41   Stay   2
-1,2,   E3   √1 = 1.00   Leave   3
-3;   E7   √2 = 1.41   Leave   4
-BL-   E5   √4 = 2.00   Leave   5
-[1
-Appl   E4   √4 = 2.00   Stay   6
-0]
-y,   E8   √5 = 2.24   Stay   7
-E9   √8 = 2.83   Leave   8
-Anal
-E6   √10 = 3.16   Stay   9
-yse,
-E10   √8 = 2.83   Stay   10
-Eval
-k = 3
-uate   Stay, Stay, Leave → Stay
-k = 5
-Leave, Stay, Leave, Leave, Leave → Leave
-********** 6 **********
---- page 7 ---
-Step   Marks
-Distance calculation   4
-Nearest neighbors’ identification   2
-Prediction using k=3   2
-Prediction using k=5   2
-b
-Ans
-a) To predict the model, identify the multivariate technique used with the
-justification of using the same.
-Ans.: The multivariate technique used here is the linear discriminant analysis
-as the dependent variable is having two categories and the list of independent
-variables are all continuous. Also, the output is related to the model fitting in
-terms of discriminant functional form.
-b) Write out the functional form of the model.
-Ans.: The functional form can be written as follows:
-x4   -3.294
-Q4   x6   .466
-x7   3.677
-CO-
-D = -3.294* X4 + .466 * X6 + 3.677 * X7
-1,2,   c) State the test statistic /s used to test the goodness of fit of the model?
-The Wilk’s Lambda is used to assess the goodness of fit of the model. The
-3;
-discriminant function is highly significant as the p-value (.000) is < 0.01 and
-BL-   displays a canonical correlation of 0.837. We interpret this correlation by
-squaring it (.837)2 = 0.700569. Thus, 70 percent of the variance in the [1
-Appl
-dependent variable (X8) can be accounted for (explained) by this model.   0]
-y,   d) How would you interpret the classification table?
-Ans. Classification matrices for the observations were calculated, and the
-Anal
-results are shown in classification table. The sample shows prediction accuracy
-yse,   of 94.8 percent.
-e) Rank the discriminating variables and state the most and the least important
-Eval
-one which classifies the note as genuine and counterfeit. On what basis you
-uate   will rank the discriminating variables?
-Variables in the Analysis
-Tolera   F to   Wilks'   Rank
-Step   nce   Remove Lambda
-3   x6   .904   32.937   .346   3
-x7   .059 266.003   .684   1
-x4   .059 169.073   .544   2
-The most important discriminating variable is X7 and the least is X6 in discriminating the
-product being classified as rejected and accepted.
-The ranks are given based on the F-statistic (higher the value better the rank i.e. 1) or Wilk’s
-Lambda (lower the value better the rank i.e. 1)
-a Ans   [1
-Q5   a) Write down the model in equation form.
-Ans. the equation is written as   5]
-********** 7 **********
---- page 8 ---
-CO-   Ln(odds) = -1.77 + 1.011* Diffclty + 0.928 Season(1) - .418 * Season(2)
-1,2,   b) What are the measures of coefficient of determination for this model, interpret them.
-Ans. ; the measures of coefficient of determination for this model is Cox and Snell R2
-3;   and Nagelkerke R2 is an adjustment over Cox and Snell R2 Cox and Snell's R 2 is based
-BL-   on the log likelihood for the model compared to the log likelihood for a baseline model.
-However, with categorical outcomes, it has a theoretical maximum value of less than 1,
-Appl   even for a "perfect" model. Nagelkerke's R 2 is an adjusted version of the Cox &
-Snell R-square that adjusts the scale of the statistic to cover the full range from 0 to 1. In
-y,
-our case the values are on lower side indicating a poor explained variation by this model.
-Anal   c) Interpret the classification table.
-yse,   Ans. The classification table shows that Sensitivity is 66.7% and specificity is 88.9 %.
-Eval   Overall the model classifies the cases correctly 80% of times.
-uate
-b A study was conducted to understand SALES PERFORMANCE (Monthly sales in ₹ thousands)
-based on the following parameters:
-• TRAINING SESSIONS (Number of training sessions attended per month)
-• SALES EXPERIENCE (Years of experience in sales)
-• CUSTOMER INTERACTION (Average number of customer interactions per day)
-• ADMINISTRATIVE TIME (Hours spent on non-selling activities daily)
-Cook’s Distance was calculated for the data and is given in the following table. Identify
-outliers, if present, in the data with proper justification. Only mention S.No. of the outliers.
-S.No.   Cook’s Distance
-1   0.00185
-2   0.01247
-3   0.00096
-4   0.00278
-5   0.00563
-6   0.00112
-Q5   7   0.00845
-8   0.01123
-CO-;   9   0.00214   [5]
-SO-;   10   0.01678
-11   0.02245
-BL-   12   0.03890
-13   0.00312
-14   0.01967
-15   0.06945
-16   0.00088
-17   0.15278
-18   0.14034
-19   0.01356
-20   0.16523
-21   0.07654
-22   0.02467
-23   0.00789
-24   0.00934
-25   0.00547
-26   0.01012
-27   0.00105
-28   0.00476
-29   0.00058
-30   0.00201
-********** 8 **********
---- page 9 ---
-a) How many clusters are appropriate for this data? Explain (4 Marks)
-b) Who are the members of the group (give case number)? (3 marks)
-c) What would you conclude from ANOVA? (3 Marks)
-d) What are characteristics of each group? (6 marks)
-e) Based on the cluster analysis performed on customer responses, identify the
-most profitable Automobile buyer segment. Justify your answer (4 Marks)
-Solution: ( Any other cluster solution with appropriate explaination is
-considered correct)
-a. According to Dendrogram 5 cluster solution is appropriate for the data.
-b. Student may write the case numbers as per 5 cluster solution.
-c. ANOVA is significant for all variables indicating that all variables are
-contributing in the cluster analysis. This also validates the cluster results.
-d. Cluster Characteristics Interpretation
-Cluster 1 (n = 10): “Economy Value Seekers”
-Q6   Key Observations:
-CO-
-•   Price Sensitivity: Very High (8.30)
-1,2,   • Mileage Importance: Very High (9.30)
-3;   • Brand: Moderate (6.30)
-•   Safety: High (7.80)
-BL-   • Luxury: Very Low (3.10)
-•   Resale: High (6.90)   [2
-Appl
-0]
-y,
-Interpretation:
-Anal
-yse,   •   Strong focus on affordability and fuel efficiency
-•   Value practical benefits (mileage + resale)
-Eval   • Not interested in luxury features
-uate   • Moderate concern for brand
-Suggested Name:
-“Economy Buyers” / “Value Seekers”
-Cluster 2 (n = 5): “Luxury-Oriented Buyers”
-Key Observations:
-•   Price Sensitivity: Very Low (2.60)
-•   Mileage: Low (4.00)
-• Brand: High (7.00)
-•   Safety: Moderate (5.80)
-• Luxury: Very High (8.40)
-•   Resale: Low (4.20)
-********** 9 **********
---- page 10 ---
-Interpretation:
-•   Willing to pay premium prices
-•   Strong preference for luxury and brand image
-•   Less concerned about:
-o Mileage
-o Resale value
-Suggested Name:
-“Luxury Buyers” / “Premium Segment”
-Cluster 3 (n = 5): “Practical Balanced Buyers”
-Key Observations:
-•   Price: Moderate (6.00)
-•   Mileage: High (7.00)
-• Brand: Moderate (6.00)
-•   Safety: Moderate-High (6.80)
-• Luxury: Moderate (5.00)
-•   Resale: Moderate (6.40)
-Interpretation:
-•   Balanced preferences across all attributes
-•   Consider both:
-o Performance (mileage)
-o   Practical value (resale)
-•   Neither highly price-sensitive nor luxury-driven
-Suggested Name:
-“Balanced Buyers” / “Practical Consumers”
-Cluster 4 (n = 5): “Brand-Conscious Luxury Seekers”
-Key Observations:
-•   Price Sensitivity: Low (3.20)
-•   Mileage: Low (3.40)
-• Brand: Very High (8.40)
-•   Safety: Moderate (6.60)
-• Luxury: Very High (9.00)
-•   Resale: Low (4.00)
-Interpretation:
-•   Strong focus on brand prestige and luxury
-********** 10 **********
---- page 11 ---
-•   Willing to ignore:
-o Mileage
-o Resale value
-•   Likely status-driven buyers
-Suggested Name:
-“Status Seekers” / “Brand-Luxury Buyers”
-Cluster 5 (n = 5): “Value-Conscious Balanced Buyers”
-Key Observations:
-Price: Moderate (6.00)
-•   Mileage: High (7.00)
-• Brand: High (7.40)
-•   Safety: High (7.20)
-• Luxury: Moderate (5.20)
-•   Resale: Moderate (6.00)
-Interpretation:
-•   Value both performance and brand
-•   Balanced orientation toward:
-o Safety
-o Mileage
-• Moderate interest in luxury
-Suggested Name:
-“Smart Value Buyers” / “Quality Seekers”
-Comparison Summary
-Factor   C1   C2   C3   C4   C5
-Price   Moderat   Moderat
-High   Low   Low
-Sensitivity   e   e
-Very
-Mileage   Low High   Low   High
-High
-Hig Moderat Very   Moderat
-Luxury   Low
-h   e   High   e
-Moderat Hig Moderat Very
-Brand   High
-e   h   e   High
-Key Insight (High-Scoring Point)
-The data reveals 5 distinct automobile buyer segments:
-1. Economy-focused buyers
-********** 11 **********
---- page 12 ---
-2. Luxury-focused buyers
-3. Balanced practical buyers
-4. Status-driven premium buyers
-5. Quality-conscious value buyers
-Strong differentiation → very meaningful clustering
-Most Profitable Segment
-Cluster 4 (Brand-Luxury Buyers)
-Reason:
-•   Highest preference for:
-o Luxury
-o Brand
-• Low price sensitivity → high margins
-Alternative answer: Cluster 2 also acceptable (luxury buyers)
-a   a) Calculate a three month moving average for months three to eight. What would be
-your forecast for the demand in 9th month?   (3 marks)
-b) Apply exponential smoothing with a smoothing constant of 0.4 to derive a
-forecast for the demand in 9th month. (3 marks)
-c) Which of the two forecasts for 9th month do you prefer and why? (4
-marks)Solution:
-Q7
-CO-
-1,2,   (a) The three month moving average for months 3 to 9 is given by:
-3;
-Month   Sale   Forecast   Error
-BL-   1   160
-[1
-Appl   2   110
-3   130   0]
-y,
-4   160   133.3333   711.1111
-Anal   5   180   133.3333   2177.778
-6   150   156.6667   44.44444
-yse,
-7   200   163.3333   1344.444
-Eval   8   220   176.6667   1877.778
-uate   9   180   190   100
-10   150   200   2500
-Forecas
-t   183.3333
-Error   1250.794
-********** 12 **********
---- page 13 ---
-The forecast for month 10 is just the moving average for the month before that i.e. the
-moving average for month 9 = m9 = 20.33.
-Hence (as we cannot have fractional demand) the forecast for month 9 is 183.3333
-(b) Applying exponential smoothing with a smoothing constant of 0.4 we get:
-0.4
-Month   Sale   Forecast   Error
-1   160   170
-2   110   166   3136
-3   130   143.6   184.96
-4   160   138.16   476.9856
-5   180   146.896   1095.875
-6   150   160.1376   102.7709
-7   200   156.0826   1928.742
-8   220   173.6495   2148.366
-9   180   192.1897   148.5893
-10   150   187.3138   1392.322
-Forecas
-t   172.3883
-Error   1179.401
-Forecast : 172.3883
-(c) To compare the two forecasts we calculate the mean squared deviation (MSD). If we do
-this, we find that for the moving average
-Overall then we see that the Exponential Smoothing method appears to give the best one
-month ahead forecasts as it has a lower MSD. Hence we prefer the forecast of 172.3883
-that has been produced by the Exponential Smoothing
-b Answers
-Looking at ACF & PACF for raw data, it is clear that the series is stationary. See graph below,
-Q7   the lags and are above zero as well as below zero indicating stationarity. There is no need
-for difference for this data.
-CO-
-1,2,
-3;
-BL-
-[1
-Appl
-0]
-y,
-Anal
-yse,
-Eval
-uate
-The model selection is done on the basis of following parameters
-1. Requirement of stationarity (in this case d = 0)
-********** 13 **********
---- page 14 ---
-2. BIC as low as possible
-3. All lags (except intercept) need to be significant
-4. Ljung-Box test should not be significant
-5. Residual ACF & PACF should be within the lines
-Any simplest model that satisfies above parameters is the best model and can be used
-for forecasting.
-In above case
-Sr   Model   BIC   Description   Result
-No
-1   ARIMA(1,0,0)   9.951   Correct : d=0, LB test not sig, Model
-without   lag sig   cannot be
-removing   problem – Residual ACF &   used
-outliers   PACF not within range
-2   ARIMA(1,1,0)   9.648   Correct :, LB test not sig,.   Model
-without   Residual ACF & PACF within   cannot be
-removing   range   used
-outliers   problem – d=1, all lags not
-sig,
-3   ARIMA(0,1,1)   9.591   Correct :, LB test not sig, lag   Model
-without   sig, Residual ACF & PACF   cannot be
-removing   within range   used
-outliers   problem – d=1
-4   ARIMA(1,0,1)   9.997   Correct : d=1, LB test not sig, Model
-without   problem – Residual ACF &   cannot be
-removing   PACF not within range   used
-outliers   all lags not sig.
-5   ARIMA(1,0,0)   8.962   All correct + minimum BIC +   Model can
-after   Simplest possible model   be used
-removing
-outliers
-Final model chosen is ARIMA(1,0,0) after removing outliers hence company should use
-following forecasts
-Model   30   31   32   33   34   35
-Demand   Forecas   2026   2015   2007   2001   1996   1992
-Solar-   t
-Model_1   UCL   2148   2150   2149   2147   2144   2142
-LCL   1905   1881   1865   1855   1847   1842
-Comment on forecasts : the forecasts seems to be good as the width of 95% interval is
-not too wide for initial forecasts. As the forecasting period extends, width becomes
-wider making forecasts untrusted.
-********** 14 **********
---- page 15 ---
-FAC OR CC 7] eae ek ak
 ````
 
 ## 2024-25 · Re-Exam · Sem 8 · Answer key · paper 4f0286351d65

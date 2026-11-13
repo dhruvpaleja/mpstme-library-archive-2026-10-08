@@ -265,6 +265,7 @@ ZENA RISEN SPREE
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MANAGEMENT OF INNOVATION/Management of Innovation Batch 2014-15 Re Exam.pdf`
 - Printed on paper: exam date: 13/06/2015
 - Text: ocr (5 pages), mean OCR confidence 93.6
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \
@@ -383,7 +384,6 @@ about 2.4 million persons received outpatient eye care and over 285,000 underwen
 
 SONS TSS SI SCTE SLE ECE
 
-©2005 Joe Tidd, John Bessant, Keith Pavitt
 www.wileyeurope.com/college/tidd
 --- page 3 ---
 udies
@@ -441,7 +441,6 @@ each year to support the specialist doctors, whilst other skills such as counsel
 education are also developed via dedicated training courses. Significantly recruitment and
 motivation are still strongly linked to the core values of Dr V — there is a strong social welfare
 
-©2005 Joe Tidd, John Bessant, Keith Pavitt
 www.wileyeurope.com/college/tidd
 --- page 4 ---
 commitment which means that staff often work for less than they could earn in other parts of
@@ -500,7 +499,6 @@ there is no reason to suppose that healthcare is any different. Learning by doin
 
 sas Sa PRteS SE
 
-©2005 Joe Tidd, John Bessant, Keith Pavitt
 www.wileyeurope.com/college/tidd
 --- page 5 ---
 powerful aid to developing robust systems —
@@ -514,7 +512,6 @@ of the pyramid’) and www.aravind.org where in addition to
 
 are 3 detailed case studies of the organization). —§ =
 
-©2005 Joe Tidd, John Bessant, Keith Pavitt
 www.wileyeurope.com/college/tidd
 
 Case Studies
@@ -540,6 +537,7 @@ details of the organization there
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MANAGEMENT OF INNOVATION/Management of Innovation 2013-14 Final.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 02/12/2013
 - Text: ocr (4 pages), mean OCR confidence 91.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 git UTE oF May mu
@@ -702,7 +700,6 @@ _ Shuldiner, Corning and the Craft of Innovation (Oxford: Oxford University Pres
 
 sineneitioeme sien
 
-sanessenssR eNOS Aga EIS NENTLLE OA
 --- page 4 ---
 a
 i ANTOTE OF ay,
@@ -826,6 +823,235 @@ Advantages and Disadvantages ? Explain with suitable examples. (10 Marks)
 
 7) What is the difference between Open Innovation and Closed Innovation ? Explain with suitable
 examples. (10 Marks)
+````
+
+## 2012-13 · Exam not stated · Trim 10 · paper ca73e381103d
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/MANAGEMENT OF INNOVATION/scan0018(1).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (4 pages), mean OCR confidence 92.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+ff / ~ — —
+/ SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+dgramme: MBA (Tech) (All Stream) Year: IV Trimester: X
+Academic Year : 2012-2013
+
+bject: Management of Innovations. Marks: 50
+Time: 2.00 p.
+te: 23/09/2012 Duration: 2 hrs. SENS,
+
+>
+F( wMiwe ua versity |
+
+Final - Examination
+
+Heeukinis oe,
+Question No. 1 is compulsory. The case paper is enclosed.
+
+Answer any 4 out of the remaining questions; In all 5 questions to be attempted
+
+Write the question before starting the answer. Start each answer to each question on a fresh page
+Figures in brackets on the right side of the question indicate full marks.
+
+Students are expected to cite examples wherever relevant
+
+Q 1: (10 marks) — (compulsory)
+
+1. Study the case enclosed herewith and discuss it (in relation to theory) with particular reference
+to the following aspects:
+
+a) Innovation strategy of Corning
+
+b) Building an innovative organization
+
+2. What is Rothwell’s ‘five generations of innovation models’ Explain each briefly with
+jdiegrams.(10 marks)
+3. What are the factors in appropriating the benefits of innovation? Explain each with examples.
+(10 marks)
+4, What are ‘innovation networks’? What are the types of innovation networks? (10 marks)
+5. What are the principles on which ‘open innovation’ is based? What are the various models of
+‘open innovation (10 marks) :
+6. Whats ‘diffusion of innovation’? What are the factors on which diffusion of innovation depend
+on? {ag marks)
+
+7. Discuss the amazing case of creating value through ‘disruptive innovation model of Skype’. Cite
+some other examples of disruptive innovations (10 marks)
+--- page 2 ---
+MANAGING’ —
+INNOVATION __
+
+Corning Glass
+
+Case Studies
+
+Background
+
+Corning Glass is a large, multinational organization involved in glass and related products
+with an increasing emphasis on high-value, technologically-specialized products, many of
+which are now part of joint-venture programmes and developments.
+
+Innovation ‘Claim to Fame’
+
+This firm is another of the ‘100 club’, having been founded back in the mid-nineteenth
+century. It was a pioneer in process innovation enabling high-volume manufacture of glass,
+but in the twentieth century moved into developments of specialized glasses which led
+through to a variety of product/process innovation links. It has successfully managed to
+avoid the commoditization of its core products by repeatedly climbing up the technological
+Jadder to enter new and more difficult fields in which it can preserve competitive advantage.
+Its consistent investment in R&D has meant it has a ‘technology till’ into which it has been
+able to dip each time the company has faced crisis. At first perhaps by accident but in more
+recent times as a function of strategic design, they have built a capability for reinventing...
+themselves — moving from a glassmaker to a fibreglass pioneer to a key player in photonics,
+fibre optics and moving into Internet services.
+
+How Do They Manage Innovation?
+
+, Corning’s history is one of continuous innovation, much of it around process, but one whieh
+
+is also punctuated by breakthrough shifts into new and key areas. They have increasingly
+come to use external parmers bringing new and often very different knowledge sets and have
+learnt to let go of their earlier reliance on doing it all in-house. Similarly they began life as a
+technology push company but some big mistakes, such as thei expensive failure in trying to
+create a technology-driven market for automotive safety glass, led them to rethink and shift
+to a much more market-linked organization. A key stage came in the 1980s when they
+récognized that growth and increasing diversification of innovation options required that
+they systematize their approach to its management — prior to that it had been a classic
+culture of individual champions driving a technology system. They identified their ability to
+‘danee’ ab being key to their innovation success — that is, getting different and
+complementary knowledge sets to come together around a new product concept arid turn it
+im rpality at high speed once the core principle had been articulated.
+
+. Innovation Strategy and Leadership
+
+The company has always held innovation as a core strategic value, and they link this
+strongly to generating and managing intellectual property — their knowledge bank.
+‘What really matters for innovation ... is continuous generation, management and
+deployment of intellectual property as a strategic asset’. This has been a boardroom issue
+on a number of occasions when the company has faced crisis — for example, when the
+market for television tubes declined and they were forced to make significant cutbacks
+
+www.wileyeurope.com/college/tidd
+
+2) 4
+--- page 3 ---
+‘MANAGING
+
+Case Studies
+
+and changes — but it has helped them move forward each time into new technological
+and market fields . Their strategy until recently can be described as strongly technology-
+led but there has been a marked shift in the late-twentieth century, first to a market-
+oriented approach and most recently to a network-based model which sees key alliances
+as the way forward. A number of key strategic enablers are worth flagging:
+* Consistent support for 150 years for the core yalues of innovation through knowledge
+generation and application
+¢ Willingness to let go — to reinvent themselves by moving on from their proud
+heritage and into new fields
+¢ Consistent commitment to R&D funding — typically it has run between 8 and 10%
+ever since the founding of the company when it was one of the first to set up an R&D
+lab.
+¢ The use of ‘deep dive’ sessions — essentially strategic review meetings where the role
+as well as direction of R&D within the organization is explored and through which a
+close integration between this strong resource and key application domains can be
+achieved. These sessions helped shift the focus from a largely responsive, market-led
+business to one which was trying to set the pace through deploying key strategic
+technologies.
+
+Enabling the Process
+
+The company has a fairly ‘standard’ process for steady state innovation — using a version of a
+stage gate model to funnel development ideas through a well-resourced system designed to
+generate customized solutions to particular market needs. This has worked well for them in
+their traditional markets where the pace of change is relatively slow and where the envelope
+within which product development takes place is clearly defined. They have particularly good
+links between product development and manufacturing with feedback into the design
+process — a key theme emerging out of their early presence as a strong player in process
+technology innovation.
+
+Their move into new markets and less certain product/market definitions has meant that
+they are now experimenting with different routes to managing the ‘do different’ innovation
+process. These include:
+
+e Learning with others — rather than trying to own all the resources, there has been a
+growing trend to network- and alliance-based product development. Their existing
+skill of being able to configure rapid response cross-functional teams has helped
+
+, them in this process.
+
+‘® Learning from new networks — allied to this has been a significant expansion of the
+
+‘ selection environment in which they work, so that they explore much less familiar
+
+} territory through their co-operation with a wide group of outside agencies in joint
+
+ventures and other collaborations.
+
+e Related to this has been their extended use of technology sharing partnerships with
+major players which also had large but complementary R&D capabilities. Working
+with big players on complementary projects helps both partners move the frontier
+forward quickly by being able to focus resources.
+
+www.wileyeurope.com/college/tidd
+
+3 |
+--- page 4 ---
+Case Studies
+
+Building an Innovative Organization
+
+» Emphasizing knowledge flows across the organization and creating structures to
+enable creative interchanges amongst them.
+
+© Strong core vaiue ot quality and continuous improvement.
+
+© Deliberate attempt to create communities of practice — enable setting up of different-
+mix teams to bring some variety into the knowledge ‘gene pool’.
+
+© Use of ‘storytelling’ as a mechanism to build and communicate shared memory and
+‘collective ingenuity’. ‘
+
+© Development of ‘flexible critical mass’ — the ability to quickly concentrate key human
+resources on high priority projects. This is underpinned by the storytelling since this
+quickly and effectively communicates and shares ‘good practice’ around how such
+teams can quickly form and perform.
+
+Linkages and Networking
+
+Corning has been involved in many joint ventures of a significant scale and their learning
+from these has led to a growing emphasis on actively building links as a key innovation
+strategy. They have a long tradition of R&D networking and co-operation — for example,
+much of their competence base in photonics arose out of close networks and collaborations
+made with institutes in the former Soviet Union which contained excellent science but lacked
+resources and access to development facilities. Reflection on the sources of their innovation
+success have led them to extend their ‘virtual’ global laboratory and they have developed
+sophisticated ways of harvesting intellectual property from such collaborations without
+taking over or compromising the autonomy and independence of the laboratories and
+institutes with which they work.
+
+earning and Capability Development
+
+A key development has been in the use of storytelling and other approaches to try and
+recapture the earlier strengths of the company which had, to some extent, been lost in the
+later part of the twentieth century. It provides an accepted and widely-used mechanism to
+
+‘recapture grounded experience in the company itself — rather than have reliance on ‘best
+practice’ or other prescriptions delivered from outside.
+
+For mofe on Corning and the ways In which it manages innovation see M. Graham and A.
+, Shuldiner, Corning and the Craft of Innovation (Oxford: Oxford University Press, 2001).
+‘
+
+y!
+
+www.wileyeurope.com/college/tidd
+
+uly
 ````
 
 ## 2012-13 · Re-Exam · Trim 10 · paper e44b5580fa85
@@ -1001,6 +1227,7 @@ mixes perspectives.
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/MANAGEMENT OF INNOVATION/MANAGEMENT OF INNOVATION 2011-2012.pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 04/10/2011
 - Text: ocr (5 pages), mean OCR confidence 94.1
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1165,7 +1392,6 @@ each year to support the specialist doctors, whilst other skills such as counsel
 education are also developed via dedicated training courses. Significantly recruitment and
 motivation are still strongly linked to the core values of Dr V — there is a strong social welfare
 
-©2005 Joe Tidd, John Bessant, Keith Pavitt
 
 www wile
 
@@ -1228,7 +1454,6 @@ principles of the ‘experience curve’ (which demonstrates that the more we do
 better we become at doing it) have applied across many different industrial sectors — and
 there is no reason to suppose that healthcare is any different. Learning by doing is a
 
-©2005 Joe Tidd vad Bessant, Keith Pavitt
 
 www. wileveur
 
@@ -1246,9 +1471,7 @@ equivalent operation costs $4000.
 of the pyramid’) and www.aravind.org where in addition to details of the organization there
 are 3 detailed case studies of the organization).
 
-sneoli Joe Tidd, John Bessant, Keith Pavitt
 
-yeurope.com/collede/ti idg
 
 _ 9% 5[-
 ````
@@ -1260,6 +1483,7 @@ _ 9% 5[-
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/TRIM X/MANAGEMENT OF INNOVATION/MANAGEMENT OF INNOVATION BATCH 2011-12 RE EXAM0001.pdf` (+1 identical copies)
 - Printed on paper: exam date: 12/06/2012
 - Text: ocr (4 pages), mean OCR confidence 93.5
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1357,7 +1581,6 @@ deployment of intellectual property as a strategic asset’. This has been a boa
 on a number of occasions when the company has faced crisis — for example, when the
 market for television tubes declined and they were forced to make significant cutbacks
 
-©2005 Joe Tidd, John Bessant, Keith Pavitt
 www.wileyeurope.com/college/tidd
 
 of
@@ -1414,7 +1637,6 @@ forward quickly by being able to focus resources.
 
 eS NE ETEE S HC TREND
 
-©2005 Joe Tidd, John Bessant, Keith Pavitt
 
 www.wileyeurope.com/college/tidd
 --- page 4 ---
@@ -1470,7 +1692,6 @@ practice’ or other prescriptions delivered from outside.
 For more on Corning and the ways in which it manages innovation see M. Graham and A.
 } Shuldiner, Corning and the Craft of Innovation (Oxford: Oxford University Press, 2001).
 
-©2005 Joe Tidd, John Bessant, Keith Pavitt
 www.wileyeurope.com/college/tidd
 
 Ape
@@ -2433,235 +2654,4 @@ MARKS
 en owe
 
 ™m aroNs
-````
-
-## Year not stated · Exam not stated · Trim 10 · paper ca73e381103d
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/MANAGEMENT OF INNOVATION/scan0018(1).pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (4 pages), mean OCR confidence 92.8
-
-````text
-ff / ~ — —
-/ SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-dgramme: MBA (Tech) (All Stream) Year: IV Trimester: X
-Academic Year : 2012-2013
-
-bject: Management of Innovations. Marks: 50
-Time: 2.00 p.
-te: 23/09/2012 Duration: 2 hrs. SENS,
-
->
-F( wMiwe ua versity |
-
-Final - Examination
-
-Heeukinis oe,
-Question No. 1 is compulsory. The case paper is enclosed.
-
-Answer any 4 out of the remaining questions; In all 5 questions to be attempted
-
-Write the question before starting the answer. Start each answer to each question on a fresh page
-Figures in brackets on the right side of the question indicate full marks.
-
-Students are expected to cite examples wherever relevant
-
-Q 1: (10 marks) — (compulsory)
-
-1. Study the case enclosed herewith and discuss it (in relation to theory) with particular reference
-to the following aspects:
-
-a) Innovation strategy of Corning
-
-b) Building an innovative organization
-
-2. What is Rothwell’s ‘five generations of innovation models’ Explain each briefly with
-jdiegrams.(10 marks)
-3. What are the factors in appropriating the benefits of innovation? Explain each with examples.
-(10 marks)
-4, What are ‘innovation networks’? What are the types of innovation networks? (10 marks)
-5. What are the principles on which ‘open innovation’ is based? What are the various models of
-‘open innovation (10 marks) :
-6. Whats ‘diffusion of innovation’? What are the factors on which diffusion of innovation depend
-on? {ag marks)
-
-7. Discuss the amazing case of creating value through ‘disruptive innovation model of Skype’. Cite
-some other examples of disruptive innovations (10 marks)
---- page 2 ---
-MANAGING’ —
-INNOVATION __
-
-Corning Glass
-
-Case Studies
-
-Background
-
-Corning Glass is a large, multinational organization involved in glass and related products
-with an increasing emphasis on high-value, technologically-specialized products, many of
-which are now part of joint-venture programmes and developments.
-
-Innovation ‘Claim to Fame’
-
-This firm is another of the ‘100 club’, having been founded back in the mid-nineteenth
-century. It was a pioneer in process innovation enabling high-volume manufacture of glass,
-but in the twentieth century moved into developments of specialized glasses which led
-through to a variety of product/process innovation links. It has successfully managed to
-avoid the commoditization of its core products by repeatedly climbing up the technological
-Jadder to enter new and more difficult fields in which it can preserve competitive advantage.
-Its consistent investment in R&D has meant it has a ‘technology till’ into which it has been
-able to dip each time the company has faced crisis. At first perhaps by accident but in more
-recent times as a function of strategic design, they have built a capability for reinventing...
-themselves — moving from a glassmaker to a fibreglass pioneer to a key player in photonics,
-fibre optics and moving into Internet services.
-
-How Do They Manage Innovation?
-
-, Corning’s history is one of continuous innovation, much of it around process, but one whieh
-
-is also punctuated by breakthrough shifts into new and key areas. They have increasingly
-come to use external parmers bringing new and often very different knowledge sets and have
-learnt to let go of their earlier reliance on doing it all in-house. Similarly they began life as a
-technology push company but some big mistakes, such as thei expensive failure in trying to
-create a technology-driven market for automotive safety glass, led them to rethink and shift
-to a much more market-linked organization. A key stage came in the 1980s when they
-récognized that growth and increasing diversification of innovation options required that
-they systematize their approach to its management — prior to that it had been a classic
-culture of individual champions driving a technology system. They identified their ability to
-‘danee’ ab being key to their innovation success — that is, getting different and
-complementary knowledge sets to come together around a new product concept arid turn it
-im rpality at high speed once the core principle had been articulated.
-
-. Innovation Strategy and Leadership
-
-The company has always held innovation as a core strategic value, and they link this
-strongly to generating and managing intellectual property — their knowledge bank.
-‘What really matters for innovation ... is continuous generation, management and
-deployment of intellectual property as a strategic asset’. This has been a boardroom issue
-on a number of occasions when the company has faced crisis — for example, when the
-market for television tubes declined and they were forced to make significant cutbacks
-
-©2005 Joe Tidd, John Bessant, Keith Pavitt
-www.wileyeurope.com/college/tidd
-
-2) 4
---- page 3 ---
-‘MANAGING
-
-Case Studies
-
-and changes — but it has helped them move forward each time into new technological
-and market fields . Their strategy until recently can be described as strongly technology-
-led but there has been a marked shift in the late-twentieth century, first to a market-
-oriented approach and most recently to a network-based model which sees key alliances
-as the way forward. A number of key strategic enablers are worth flagging:
-* Consistent support for 150 years for the core yalues of innovation through knowledge
-generation and application
-¢ Willingness to let go — to reinvent themselves by moving on from their proud
-heritage and into new fields
-¢ Consistent commitment to R&D funding — typically it has run between 8 and 10%
-ever since the founding of the company when it was one of the first to set up an R&D
-lab.
-¢ The use of ‘deep dive’ sessions — essentially strategic review meetings where the role
-as well as direction of R&D within the organization is explored and through which a
-close integration between this strong resource and key application domains can be
-achieved. These sessions helped shift the focus from a largely responsive, market-led
-business to one which was trying to set the pace through deploying key strategic
-technologies.
-
-Enabling the Process
-
-The company has a fairly ‘standard’ process for steady state innovation — using a version of a
-stage gate model to funnel development ideas through a well-resourced system designed to
-generate customized solutions to particular market needs. This has worked well for them in
-their traditional markets where the pace of change is relatively slow and where the envelope
-within which product development takes place is clearly defined. They have particularly good
-links between product development and manufacturing with feedback into the design
-process — a key theme emerging out of their early presence as a strong player in process
-technology innovation.
-
-Their move into new markets and less certain product/market definitions has meant that
-they are now experimenting with different routes to managing the ‘do different’ innovation
-process. These include:
-
-e Learning with others — rather than trying to own all the resources, there has been a
-growing trend to network- and alliance-based product development. Their existing
-skill of being able to configure rapid response cross-functional teams has helped
-
-, them in this process.
-
-‘® Learning from new networks — allied to this has been a significant expansion of the
-
-‘ selection environment in which they work, so that they explore much less familiar
-
-} territory through their co-operation with a wide group of outside agencies in joint
-
-ventures and other collaborations.
-
-e Related to this has been their extended use of technology sharing partnerships with
-major players which also had large but complementary R&D capabilities. Working
-with big players on complementary projects helps both partners move the frontier
-forward quickly by being able to focus resources.
-
-©2005 Joe Tidd, John Bessant, Keith Pavitt
-www.wileyeurope.com/college/tidd
-
-3 |
---- page 4 ---
-Case Studies
-
-Building an Innovative Organization
-
-» Emphasizing knowledge flows across the organization and creating structures to
-enable creative interchanges amongst them.
-
-© Strong core vaiue ot quality and continuous improvement.
-
-© Deliberate attempt to create communities of practice — enable setting up of different-
-mix teams to bring some variety into the knowledge ‘gene pool’.
-
-© Use of ‘storytelling’ as a mechanism to build and communicate shared memory and
-‘collective ingenuity’. ‘
-
-© Development of ‘flexible critical mass’ — the ability to quickly concentrate key human
-resources on high priority projects. This is underpinned by the storytelling since this
-quickly and effectively communicates and shares ‘good practice’ around how such
-teams can quickly form and perform.
-
-Linkages and Networking
-
-Corning has been involved in many joint ventures of a significant scale and their learning
-from these has led to a growing emphasis on actively building links as a key innovation
-strategy. They have a long tradition of R&D networking and co-operation — for example,
-much of their competence base in photonics arose out of close networks and collaborations
-made with institutes in the former Soviet Union which contained excellent science but lacked
-resources and access to development facilities. Reflection on the sources of their innovation
-success have led them to extend their ‘virtual’ global laboratory and they have developed
-sophisticated ways of harvesting intellectual property from such collaborations without
-taking over or compromising the autonomy and independence of the laboratories and
-institutes with which they work.
-
-earning and Capability Development
-
-A key development has been in the use of storytelling and other approaches to try and
-recapture the earlier strengths of the company which had, to some extent, been lost in the
-later part of the twentieth century. It provides an accepted and widely-used mechanism to
-
-‘recapture grounded experience in the company itself — rather than have reliance on ‘best
-practice’ or other prescriptions delivered from outside.
-
-For mofe on Corning and the ways In which it manages innovation see M. Graham and A.
-, Shuldiner, Corning and the Craft of Innovation (Oxford: Oxford University Press, 2001).
-‘
-
-y!
-
-©2005 Joe Tidd, John Bessant, Keith Pavitt
-www.wileyeurope.com/college/tidd
-
-uly
 ````

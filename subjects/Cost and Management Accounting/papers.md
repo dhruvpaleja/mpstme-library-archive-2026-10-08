@@ -593,6 +593,126 @@ b. Marginal and Absorption Costing
 Page 4 of 4
 ````
 
+## 2017-18 · Exam not stated · Sem 6 · paper 23b697c60fc2
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/COST AND MANAGEMENT ACCOUNTING/Cost and Mgmt Accounting 2015-16 2016-17 (All Stream).pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 15 May 2018
+- Text: ocr (2 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (All Streams) Year: III Semester: VI
+
+Academic Year: 2017-2018
+
+Subject:Cost and Management Accounting
+Marks:60 -
+
+Date:15 May 2018 Time: 10.00 am to 12 noon-
+Durations: 2 (hrs)
+
+No. of Pages :_O2__
+Re-examination (2015-16 / 2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lL is compulsory. -
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+1. A manufacturer is presently producing standard mix of Product A, B and C of total 35000
+Units, the details of which are provided as under.
+
+(12 Marks)
+Product A B Cc
+Units Produced 10000 15000 10000
+Variable Cost per unit | 45 65 715
+Selling Price 60 70 85
+
+The Total Fixed Costs are Rs. 310000
+
+There are three other options available before the management to produce the products.
+
+Product A B Cc
+Units Produced (Option 1) | 15000 12000 8000
+Units Produced (Option 2) | 12000 11000 12000
+Units Produced (Option 3) | 11000 13000 11000
+
+Advice the manufacturer as to which of the above options should be selected to achieve
+maximum profit, or the present one should be continued.
+
+Ie
+--- page 2 ---
+2. A company expects to sell 5,000 units of Product “A” in the coming year. The unit selling
+price and variable costs are Rs. 950 and Rs. 750 respectively. The budgeted fixed cost is Rs.
+950000 p.a. Calculate break-even point and profit/loss for the company, @lso determine the
+profit or loss in case the target sales quantity increases to 5500 Units or falls to 4500 Units.
+
+(12 Marks)
+
+3. PQR Ltd. produces a product which has a monthly demand of 4000 units. The product
+requires a component X which is purchased, at Rs.20 each. For every finished product, one unit
+of component is required. The ordering cost is Rs.120 per order and the holding cost is 10% p.a.
+You are required to calculate: (12 Marks)
+
+a. Economic Order Quantity
+b. If the minimum lot size to be supplied is 4,000 units, what is the extra cost, the
+company has to incur?
+
+4. Provided herewith the information of manufacturing of a product. You are required to
+compute the cost per units, selling price per unit and determine the profit per unit assuming sale
+of 5000 units. Provided herewith the information for production of one unit of product
+
+Information of Costs per Unit (12 Marks)
+
+e Material Costs — Rs. 13
+
+e Labour Costs — Rs. 7
+
+e Packaging Costs — Rs. 8
+
+e Other variable Overheads — Rs. 6
+
+e Total Fixed Costs are Rs. 20000
+
+e Assume Margin of 25% of the selling price.
+
+5. Compute (a) Mix Variance (b) Price Variance (c) Usage Variance (d) Cost Variance
+
+from the following data: (12 Marks)
+Materials Standard Actual
+Quantity Rate Amount (Rs.) Quantity Rate Amount (Rs.)
+
+A 10 2 20 5 3 15
+B 20 3 60 10 6 60
+c 20 6 120 15 5 75
+
+Total 50 4 200° 30 5 150
+
+6. Differentiate between: (6x2=12 Marks)
+
+a) Fixed Cost and Variable Cost
+b) Break Even Point and Margin of Safety
+
+
+2h
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper 57f818f48f2e
 
 - Departments: Common (all branches)
@@ -792,126 +912,6 @@ a. Direct and Indirect Costs
 b. Differentiate between Traditional costing and Activity based Costing
 
 Page 4 of 4
-````
-
-## 2016-17 · Exam not stated · Sem 6 · paper 23b697c60fc2
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/COST AND MANAGEMENT ACCOUNTING/Cost and Mgmt Accounting 2015-16 2016-17 (All Stream).pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 15 May 2018
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (All Streams) Year: III Semester: VI
-
-Academic Year: 2017-2018
-
-Subject:Cost and Management Accounting
-Marks:60 -
-
-Date:15 May 2018 Time: 10.00 am to 12 noon-
-Durations: 2 (hrs)
-
-No. of Pages :_O2__
-Re-examination (2015-16 / 2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lL is compulsory. -
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-1. A manufacturer is presently producing standard mix of Product A, B and C of total 35000
-Units, the details of which are provided as under.
-
-(12 Marks)
-Product A B Cc
-Units Produced 10000 15000 10000
-Variable Cost per unit | 45 65 715
-Selling Price 60 70 85
-
-The Total Fixed Costs are Rs. 310000
-
-There are three other options available before the management to produce the products.
-
-Product A B Cc
-Units Produced (Option 1) | 15000 12000 8000
-Units Produced (Option 2) | 12000 11000 12000
-Units Produced (Option 3) | 11000 13000 11000
-
-Advice the manufacturer as to which of the above options should be selected to achieve
-maximum profit, or the present one should be continued.
-
-Ie
---- page 2 ---
-2. A company expects to sell 5,000 units of Product “A” in the coming year. The unit selling
-price and variable costs are Rs. 950 and Rs. 750 respectively. The budgeted fixed cost is Rs.
-950000 p.a. Calculate break-even point and profit/loss for the company, @lso determine the
-profit or loss in case the target sales quantity increases to 5500 Units or falls to 4500 Units.
-
-(12 Marks)
-
-3. PQR Ltd. produces a product which has a monthly demand of 4000 units. The product
-requires a component X which is purchased, at Rs.20 each. For every finished product, one unit
-of component is required. The ordering cost is Rs.120 per order and the holding cost is 10% p.a.
-You are required to calculate: (12 Marks)
-
-a. Economic Order Quantity
-b. If the minimum lot size to be supplied is 4,000 units, what is the extra cost, the
-company has to incur?
-
-4. Provided herewith the information of manufacturing of a product. You are required to
-compute the cost per units, selling price per unit and determine the profit per unit assuming sale
-of 5000 units. Provided herewith the information for production of one unit of product
-
-Information of Costs per Unit (12 Marks)
-
-e Material Costs — Rs. 13
-
-e Labour Costs — Rs. 7
-
-e Packaging Costs — Rs. 8
-
-e Other variable Overheads — Rs. 6
-
-e Total Fixed Costs are Rs. 20000
-
-e Assume Margin of 25% of the selling price.
-
-5. Compute (a) Mix Variance (b) Price Variance (c) Usage Variance (d) Cost Variance
-
-from the following data: (12 Marks)
-Materials Standard Actual
-Quantity Rate Amount (Rs.) Quantity Rate Amount (Rs.)
-
-A 10 2 20 5 3 15
-B 20 3 60 10 6 60
-c 20 6 120 15 5 75
-
-Total 50 4 200° 30 5 150
-
-6. Differentiate between: (6x2=12 Marks)
-
-a) Fixed Cost and Variable Cost
-b) Break Even Point and Margin of Safety
-
-2 KKK Keke 2K aC 2c aK oe KK 9K 9K ok ok 9k 9k ee fe fe fe fg oie og os oo oR 2 a 9K eo oo 2 28 2 9 9K eo 2 2h 2k ak i ee fe fe 2 oie oe ie oe ee eo ooo 2 2g 2 2k 2k
-
-2h
 ````
 
 ## 2016-17 · Final + Re-Exam · Sem 6 · paper b6d35c328b05

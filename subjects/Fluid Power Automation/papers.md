@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechatronics_7004/Fluid Power Automation/QP_Fluid Power Automation(702MH0E020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 90.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -72,7 +73,6 @@ i sila |
 1 :
 
 ai a
-z im VA © x \ lo: 4, nm
 3 sz. 1 3 si? 3
 
 Q3 b. Synthesize a PLC based closed-loop pneumatic force control system for industrial [10]
@@ -136,7 +136,6 @@ BL2 loop hydraulic system.
 CO2, SO1, d. Classify different types of amplifiers used in a proportional hydraulic system. List [05]
 BL2 the benefits of a modular amplifier.
 
-FOCI ACI ACI ACH Ck a
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · paper 7343c6b6ae13
@@ -146,6 +145,7 @@ FOCI ACI ACI ACH Ck a
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/FLUID POWER AUTOMATION/Fluid power Automation, Sem-VII, Year 2025-26, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -212,7 +212,6 @@ FRR 7 Gk
 $2 $3 4
 
 2} 2t 12
-ctl sl ban On Nha @tL el be NO alah
 soot) 3 se o1{ 3s: 1,3 ai | 3
 —
 Q3 b. Synthesize a PLC based closed-loop pneumatic force control system for industrial | [10]
@@ -275,6 +274,7 @@ OGG doi ici ii ca a ak
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/FLUID POWER AUTOMATION/Fluid Power Automation, Sem-VII, Final Exam 2024-25.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTMSs
@@ -367,7 +367,6 @@ bo Jy
 NY vy
 ‘ 4
 ‘ = i
-fer emma ee meee eee mend
 Q4 a. Design a hydraulic circuit for varying the extension speed of a double acting cylinder [10]
 CO3, SO2, by controlling out flow.
 BL6
@@ -764,6 +763,7 @@ vi
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/INDUSTRIAL AUTOMATION/Sem_01/FLUID POWER AUTOMATION/Fluid Power Automation 2015-16 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 28/11/2015
 - Text: ocr (1 page), mean OCR confidence 90.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a SVKM’s NMIMS
@@ -824,7 +824,6 @@ Q.7 a. Explain any five important criteria for pump selection?
 b. Distinguish between meter-in and meter-out circuits. Explain it with reference to any 06
 
 mechanical linkage used at the end of the linear actuator. 08
-FSG GIGI GG Gk a a a ook ok a ok ok ok kak ok ok ak ok ok ok ok ak ok ok
 
 /
 ````

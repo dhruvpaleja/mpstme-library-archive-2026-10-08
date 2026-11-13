@@ -597,6 +597,123 @@ wy
 b
 ````
 
+## 2023-24 · Exam not stated · Sem 6 · paper ddcd83c653be
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Fiber Optic Communication and Networks/Fiber Optic Communication and Networks.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.5
+
+````text
+SVKM’S NMIMS S( PM
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& BNGINEERING
+Ae
+
+Academic Year: 2023-2024 Onna
+Program/s: B. Tech./MBA.Tech Year: II] Seméstery V1 “
+Stream/s ; EXTC vO ee
+Subject: Fiber Optic Communication and Networks Time: 3 hrs (2:00 pmto 5:00 pm)
+Date:_17_/ 04 / 2024 No. of Pages:02
+
+Marks: 100
+
+Final Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) In all__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. Draw diagrams wherever necessary.
+
+Ql Answer briefly: | [20]
+Pad ‘80° a. Define acceptance angle with diagram when launching light into a fiber. [05]
+CO-2; SO- | b, Classify and illustrate numerous dispersion losses occurring in optical [05]
+1; BL2 fiber.
+CO-4;SO- | ¢, Discuss with diagram wavelength routing technique used in optical [05]
+6; BL-6 networks.
+CO-2;SO- | d, What are the main applications of fiber amplifier? Draw a schematic of a__| [05]
+6; BL-1 fiber amplifier.
+Q2 a. Explain the different modes of Optical Switching and optical networking | [10]
+CO-4; SO- node elements with diagram.
+1; BL-5
+co-2:so. |: Discuss schematic of a Fiber Based Raman Amplifier in the forward
+1: BL-6 pumping configuration. [10]
+Q3 a. Demonstrate use of Optical time domain reflectometry (OTDR) in optical | [07]
+CO-3; SO- fiber measurements.
+1; BL-2
+CO-2; SO- . ‘a ogs
+1; BL-5 b; Justify the significance of Soliton based communication with diagram.
+
+[07]
+CO-2;SO- | ¢. What do you mean by Optical Pumping? Discuss principle of erbium
+2,6; BL-1, 6 doped silica fiber Laser with energy level diagrams. [06]
+Q4 a. Demonstrate and explain with diagram and mathematical formulation the | [10]
+CO-1; SO- incidence of light rays on a high to low refractive index interface,
+1 Bla2,s refraction phenomenon, limiting case of refraction and total internal
+
+reflection.
+[10]
+
+Page 1 of 2
+--- page 2 ---
+CO-2,3; b. Solve the following — i
+SO-1; BL-6 A step index fiber has a core refractive index of 1.5 and a core diameter of
+50 um. The fiber is jointed with a lateral misalignment between the core
+axes of 5 ym. Estimate the insertion loss at the joint due to the lateral
+misalignment assuming a uniform distribution of power between all
+guided modes when:
+; i. there is a small air gap at the joint;
+ii. the joint is considered index matched.
+
+Q5 a. Create the design procedure with graphical representation for a link loss [10]
+
+CO-3; SO- budget analysis.
+
+2,6; BL-6
+
+CO2-; SO- : 7
+
+1; BL-1,2,6 | D- Name numerous optical sources and optical detectors. Construct [10]
+Avalanche photodiode structure and explain it’s working.
+
+Q6 a. Illustrate construction/refractive index profile/bandwidth & applications [10]
+
+oe baa for following optical fiber cable of Glass Multimode graded index fiber.
+
+CO-2,3; a F J .
+
+SO-1; BL-4, | 6. Distinguish between linear and nonlinear scattering losses. Make use of [10]
+
+3,5 mathematical formulation to explain their types.
+
+Q7 a. What are the types of Semiconductor Optical Amplifier (SOA)? Make use | [07]
+
+CO-2; SO- of diagram to explain structure of the SOA.
+
+1; BL-1,2,3
+
+C0-3: $O- b. Explain the technique with diagram for measurement of fiber diameter. [07]
+
+2; BL-5
+
+CO-2; SO- | ¢, Compare Surface and Edge emitter LED’s structure with diagram (Four [06]
+
+1; BL2 points).
+
+Page 2 of 2
+````
+
 ## 2023-24 · Final-Exam · Sem 10 · paper 2c3bf5ca6d35
 
 - Departments: Electronics and Telecommunication
@@ -1549,123 +1666,6 @@ CO-1; 80-6, Discuss Digital Optical fiber link with the help of block diagram. [
 BL-6
 CO-1;S0- | B Explain dispersion in brief and illustrate intermodal & intramodal | [10]
 6, BI2 dispersion.
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper ddcd83c653be
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Fiber Optic Communication and Networks/Fiber Optic Communication and Networks.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.5
-
-````text
-SVKM’S NMIMS S( PM
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& BNGINEERING
-Ae
-
-Academic Year: 2023-2024 Onna
-Program/s: B. Tech./MBA.Tech Year: II] Seméstery V1 “
-Stream/s ; EXTC vO ee
-Subject: Fiber Optic Communication and Networks Time: 3 hrs (2:00 pmto 5:00 pm)
-Date:_17_/ 04 / 2024 No. of Pages:02
-
-Marks: 100
-
-Final Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-
-3) In all__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary. Draw diagrams wherever necessary.
-
-Ql Answer briefly: | [20]
-Pad ‘80° a. Define acceptance angle with diagram when launching light into a fiber. [05]
-CO-2; SO- | b, Classify and illustrate numerous dispersion losses occurring in optical [05]
-1; BL2 fiber.
-CO-4;SO- | ¢, Discuss with diagram wavelength routing technique used in optical [05]
-6; BL-6 networks.
-CO-2;SO- | d, What are the main applications of fiber amplifier? Draw a schematic of a__| [05]
-6; BL-1 fiber amplifier.
-Q2 a. Explain the different modes of Optical Switching and optical networking | [10]
-CO-4; SO- node elements with diagram.
-1; BL-5
-co-2:so. |: Discuss schematic of a Fiber Based Raman Amplifier in the forward
-1: BL-6 pumping configuration. [10]
-Q3 a. Demonstrate use of Optical time domain reflectometry (OTDR) in optical | [07]
-CO-3; SO- fiber measurements.
-1; BL-2
-CO-2; SO- . ‘a ogs
-1; BL-5 b; Justify the significance of Soliton based communication with diagram.
-
-[07]
-CO-2;SO- | ¢. What do you mean by Optical Pumping? Discuss principle of erbium
-2,6; BL-1, 6 doped silica fiber Laser with energy level diagrams. [06]
-Q4 a. Demonstrate and explain with diagram and mathematical formulation the | [10]
-CO-1; SO- incidence of light rays on a high to low refractive index interface,
-1 Bla2,s refraction phenomenon, limiting case of refraction and total internal
-
-reflection.
-[10]
-
-Page 1 of 2
---- page 2 ---
-CO-2,3; b. Solve the following — i
-SO-1; BL-6 A step index fiber has a core refractive index of 1.5 and a core diameter of
-50 um. The fiber is jointed with a lateral misalignment between the core
-axes of 5 ym. Estimate the insertion loss at the joint due to the lateral
-misalignment assuming a uniform distribution of power between all
-guided modes when:
-; i. there is a small air gap at the joint;
-ii. the joint is considered index matched.
-
-Q5 a. Create the design procedure with graphical representation for a link loss [10]
-
-CO-3; SO- budget analysis.
-
-2,6; BL-6
-
-CO2-; SO- : 7
-
-1; BL-1,2,6 | D- Name numerous optical sources and optical detectors. Construct [10]
-Avalanche photodiode structure and explain it’s working.
-
-Q6 a. Illustrate construction/refractive index profile/bandwidth & applications [10]
-
-oe baa for following optical fiber cable of Glass Multimode graded index fiber.
-
-CO-2,3; a F J .
-
-SO-1; BL-4, | 6. Distinguish between linear and nonlinear scattering losses. Make use of [10]
-
-3,5 mathematical formulation to explain their types.
-
-Q7 a. What are the types of Semiconductor Optical Amplifier (SOA)? Make use | [07]
-
-CO-2; SO- of diagram to explain structure of the SOA.
-
-1; BL-1,2,3
-
-C0-3: $O- b. Explain the technique with diagram for measurement of fiber diameter. [07]
-
-2; BL-5
-
-CO-2; SO- | ¢, Compare Surface and Edge emitter LED’s structure with diagram (Four [06]
-
-1; BL2 points).
 
 Page 2 of 2
 ````

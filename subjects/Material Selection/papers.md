@@ -599,93 +599,7 @@ c) Material selection at high and low temperature conditions. 04
 a 2.
 ````
 
-## 2014-15 · Final-Exam · Sem 5 · paper 1c6a51163961
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/MATERIAL SELECTION/Material Selection Final Exam 2014-15.pdf`
-- Printed on paper: max marks: 100; exam date: 01/12/2014
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CHEM) Year: III
-
-Semester: V
-
-Academic Year: 2014-15
-
-Subject: Material Selection
-
-Marks: 100 |
-Date: 01/12/2014 Time: 10.00
-
-Durations: 3 (
-Final - Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB: oo.
-1) Question, No. 1 is compulsory.
-
-ticas, az
-
-74 questions.
-
-- 3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1 Write short note (Any Four): 20
-a) Corrosion Inhibitors
-b) Classification of engineering materials.
-c) Steel numbering system.
-d) Limitation of equilibrium phase diagram.
-e) Teflon as engineering material.
-
-Q.2 a) Draw Fe-Fe3C equilibrium diagram. Explain various reactions 10
-involved in it.
-b) Describe in detail the transformation of Austenite to 10
-
-Ferrite/Cemetite structure.
-
-Q.3 a) What is.an oxide film? Expiain its-formation and growth 10
-mechanisin. if chromium undergoes Oxidation which kind of
-Oxidation layer it will form.
-b) Define stress cracking corrosion with the effect of specific
-chemicals on it.
-
-Lv,
-
-Q.4 a) Write short note on FVC and Nylon with respect to their synthesis }0
-method, properties and application.
-b) Define natural and synthetic rubber with example. Difference 10
-between thermosetting and thermoplastic polymers.
-
-Na
---- page 2 ---
-Q.5 a) Explain crystalline and non-crystalline ceramics with examples 10
-and state their applications.
-b) Define the Glass material and its types and ceremics. 10
-
-Q.6 a) Write different methods for synthesis of Nano-materials. 10
-b) State the application of nano-materials. Explain any one methods 10
-for the characterization of nano- materials.
-
-Q.7 Write short note on following: 20
-a) Factors affecting TTT diagram.
-b) Mechanical properties of Ceramic material.
-c) Polyethylene
-d) Martempering
-
-+: rt
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 1af6d665db13
+## 2015-16 · Re-Exam · Sem 5 · paper 1af6d665db13
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -774,6 +688,92 @@ a) Factors affecting TTT diagram.
 b) Mechanical properties of Ceramic material.
 c) Polyethylene
 d) Martempering
+````
+
+## 2014-15 · Final-Exam · Sem 5 · paper 1c6a51163961
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/MATERIAL SELECTION/Material Selection Final Exam 2014-15.pdf`
+- Printed on paper: max marks: 100; exam date: 01/12/2014
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CHEM) Year: III
+
+Semester: V
+
+Academic Year: 2014-15
+
+Subject: Material Selection
+
+Marks: 100 |
+Date: 01/12/2014 Time: 10.00
+
+Durations: 3 (
+Final - Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB: oo.
+1) Question, No. 1 is compulsory.
+
+ticas, az
+
+74 questions.
+
+- 3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1 Write short note (Any Four): 20
+a) Corrosion Inhibitors
+b) Classification of engineering materials.
+c) Steel numbering system.
+d) Limitation of equilibrium phase diagram.
+e) Teflon as engineering material.
+
+Q.2 a) Draw Fe-Fe3C equilibrium diagram. Explain various reactions 10
+involved in it.
+b) Describe in detail the transformation of Austenite to 10
+
+Ferrite/Cemetite structure.
+
+Q.3 a) What is.an oxide film? Expiain its-formation and growth 10
+mechanisin. if chromium undergoes Oxidation which kind of
+Oxidation layer it will form.
+b) Define stress cracking corrosion with the effect of specific
+chemicals on it.
+
+Lv,
+
+Q.4 a) Write short note on FVC and Nylon with respect to their synthesis }0
+method, properties and application.
+b) Define natural and synthetic rubber with example. Difference 10
+between thermosetting and thermoplastic polymers.
+
+Na
+--- page 2 ---
+Q.5 a) Explain crystalline and non-crystalline ceramics with examples 10
+and state their applications.
+b) Define the Glass material and its types and ceremics. 10
+
+Q.6 a) Write different methods for synthesis of Nano-materials. 10
+b) State the application of nano-materials. Explain any one methods 10
+for the characterization of nano- materials.
+
+Q.7 Write short note on following: 20
+a) Factors affecting TTT diagram.
+b) Mechanical properties of Ceramic material.
+c) Polyethylene
+d) Martempering
+
++: rt
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper bf8700a66d42

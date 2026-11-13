@@ -131,6 +131,7 @@ BL-4
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/VIII SEMESTER/Logistics and Supply Chain Management/Logistics and Supply chain Management, Sem-VIII, Batch 2025-26, Re Exam.pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (3 pages), mean OCR confidence 88.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -243,7 +244,6 @@ BL-3 ¢ Bulk Contract: %5,900 per tonne with a fixed quantity commitment
 However, industry reports suggest that iron ore prices may decline in the
 ¢ coming months due to reduced global demand.
 
-RRR KKK KERR DKK RK KK EEE
 --- page 3 ---
 of
 

@@ -141,7 +141,7 @@ b. Discuss different functions of commercial banking
 ********** 3 **********
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 2 · paper 0f291a168b38
+## 2023-24 · Final + Re-Exam · Sem 2 · paper 0f291a168b38
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -239,112 +239,7 @@ CO-3; SO-2; Evaluate the implementation and effectiveness of the Public-Private
 BL-5 Partnership (PPP) model in infrastructure development in India.
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 2 · paper 685f08432290
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ECONOMICS-I/Principles of Economics-I, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/05/2023
-- Text: ocr (2 pages), mean OCR confidence 92.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-Program/s: B.Tech Year: I Semester: II
-
-Stream/s : CSEDS-311
-
-Subject: Principles of Economics-I Time: 3 hrs (11.00 am to 2.00 pm)
-Date: 15/05/2023 No. of Pages: 2
-Marks:100
-
-Final Examination/ee Exawvi nation
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql
-Answer briefly (Answer all the questions) [20]
-. _ | a. | With a graph and relevant examples, differentiate between price ceiling and price
-CO-2 ; SO-7; erap P ° [05]
-BL-2 floor.
-ay SO-4; | b. Explain the importance of demand forecasting in pharmaceutical industry. [05]
-c. | Law of Diminishing utility is related to Law of Demand. Justify the statement by
-CO- 2; 80-4; _* [05]
-BL-2 explaining how the law of diminishing utility is related to the demand curve.
-ci ;SO-7; | d. | Demand carries the economy forward. Describe the factors that affect demand. [05]
-Q2 a. | Production function in the long run is more realistic than in short-run. Put your
-CO-2: SO-4: views for the above statement by comparing the production function in long run [10]
-BL-3 with the production function in short run-in manufacturing sector.
-CO-2; SO-4; b. | Mixed economic system is the best economic system. Explain with reference to [10]
-BL-2 India the features and advantages of the mixed economic system.
-3 a. | Compare oligopolistic competition with monopolistic competition by mentioning 110]
-CO-2; SO-4; with relevant points and graphs.
-BL-2
-b. | Credit creation process by banks is important for the development of any country.
-we son Explain the process of credit creation and how the credit creation was affected in | [10]
-
-Silicon Valley Bank that led to its failure in 2023.
---- page 2 ---
-Q4 a. | Globalisation has made the world smaller, however there are ill-effects to the
-
-CO-3; SO-4: smaller nations. Evaluate the statement by stating the merits and demerits of [10]
-
-BL-2 globalization for smaller nations.
-
-b. | Consumption and Investments of the country are very important. Explain the
-
-oe SOs statement why the total investments in the country cannot be compared to the [10]
-
-total investments in China.
-
-Q5 *- | Economies of scale are widely used by the companies. Cite with examples the
-
--2: SO-4: [10]
-eO=2 BOA different types of economies and diseconomies of scale.
-
-BL-1
-b. | Circular flow of income is relevant to the economy. Outline the different sectors
-ae SO-7; that are a part of circular flow of income with relevant graphs. Also, explain the [10]
-advantages of circular flow of income.
-Q6 a. | The Indian rupee value in terms of dollars is not improving. The exchange rate is
-CO-3; SO-2; expected to be 1$ = Rs. 100. As a citizen of the country formulate a strong plan to | [10]
-BL-6 improve the exchange rate for Indian rupees in terms of dollars.
-b. | Suppose on conducting survey of the consumers the fixed basket of goods
-included only two items namely 4 burgers and 2 pizzas.
-The prices of each good in each year is as follows:
-CO-3; SO-4; Price of Price of 7
-BL-1 Year | burgers pizzas [10]
-2020 | Rs. 40 Rs. 130
-2021 | Rs. 45 Rs. 150
-2022 | Rs. 50 Rs. 175
-Calculate the inflation numbers and comment on the same.
-Base Rate hike in the monetary policy of the United States of America (USA) has
-Q7
-
-had an impact on most of the countries across the globe. Validate the statement
-
--4: SO-7: [20]
-me aon by mentioning the countries that are massively impacted by the base rate hike in
-
-USA.
-````
-
-## 2022-23 · Re-Exam · Sem 2 · paper b317cc78d2ff
+## 2023-24 · Re-Exam · Sem 2 · paper b317cc78d2ff
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -482,6 +377,111 @@ Discuss the key functions and policies implemented by the RBI to foster
 sustainable economic development and stability.
 
 [20]
+````
+
+## 2022-23 · Final + Re-Exam · Sem 2 · paper 685f08432290
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ECONOMICS-I/Principles of Economics-I, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/05/2023
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+Program/s: B.Tech Year: I Semester: II
+
+Stream/s : CSEDS-311
+
+Subject: Principles of Economics-I Time: 3 hrs (11.00 am to 2.00 pm)
+Date: 15/05/2023 No. of Pages: 2
+Marks:100
+
+Final Examination/ee Exawvi nation
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql
+Answer briefly (Answer all the questions) [20]
+. _ | a. | With a graph and relevant examples, differentiate between price ceiling and price
+CO-2 ; SO-7; erap P ° [05]
+BL-2 floor.
+ay SO-4; | b. Explain the importance of demand forecasting in pharmaceutical industry. [05]
+c. | Law of Diminishing utility is related to Law of Demand. Justify the statement by
+CO- 2; 80-4; _* [05]
+BL-2 explaining how the law of diminishing utility is related to the demand curve.
+ci ;SO-7; | d. | Demand carries the economy forward. Describe the factors that affect demand. [05]
+Q2 a. | Production function in the long run is more realistic than in short-run. Put your
+CO-2: SO-4: views for the above statement by comparing the production function in long run [10]
+BL-3 with the production function in short run-in manufacturing sector.
+CO-2; SO-4; b. | Mixed economic system is the best economic system. Explain with reference to [10]
+BL-2 India the features and advantages of the mixed economic system.
+3 a. | Compare oligopolistic competition with monopolistic competition by mentioning 110]
+CO-2; SO-4; with relevant points and graphs.
+BL-2
+b. | Credit creation process by banks is important for the development of any country.
+we son Explain the process of credit creation and how the credit creation was affected in | [10]
+
+Silicon Valley Bank that led to its failure in 2023.
+--- page 2 ---
+Q4 a. | Globalisation has made the world smaller, however there are ill-effects to the
+
+CO-3; SO-4: smaller nations. Evaluate the statement by stating the merits and demerits of [10]
+
+BL-2 globalization for smaller nations.
+
+b. | Consumption and Investments of the country are very important. Explain the
+
+oe SOs statement why the total investments in the country cannot be compared to the [10]
+
+total investments in China.
+
+Q5 *- | Economies of scale are widely used by the companies. Cite with examples the
+
+-2: SO-4: [10]
+eO=2 BOA different types of economies and diseconomies of scale.
+
+BL-1
+b. | Circular flow of income is relevant to the economy. Outline the different sectors
+ae SO-7; that are a part of circular flow of income with relevant graphs. Also, explain the [10]
+advantages of circular flow of income.
+Q6 a. | The Indian rupee value in terms of dollars is not improving. The exchange rate is
+CO-3; SO-2; expected to be 1$ = Rs. 100. As a citizen of the country formulate a strong plan to | [10]
+BL-6 improve the exchange rate for Indian rupees in terms of dollars.
+b. | Suppose on conducting survey of the consumers the fixed basket of goods
+included only two items namely 4 burgers and 2 pizzas.
+The prices of each good in each year is as follows:
+CO-3; SO-4; Price of Price of 7
+BL-1 Year | burgers pizzas [10]
+2020 | Rs. 40 Rs. 130
+2021 | Rs. 45 Rs. 150
+2022 | Rs. 50 Rs. 175
+Calculate the inflation numbers and comment on the same.
+Base Rate hike in the monetary policy of the United States of America (USA) has
+Q7
+
+had an impact on most of the countries across the globe. Validate the statement
+
+-4: SO-7: [20]
+me aon by mentioning the countries that are massively impacted by the base rate hike in
+
+USA.
 ````
 
 ## 2021-22 · Re-Exam · Sem 2 · paper 209db1bdd032
@@ -12347,9 +12347,9 @@ MBA Tech. AI / Semester-I / 2021-22 / Page 19
 - Programmes: B TECH
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ECONOMICS-I/Social Media Marketing ( PDFDrive ).pdf`
 - Text: mixed (410 pages), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-poe Evans with Jake Mckee
 
 Susan Bratton, CEO, Personal Life Media, Inc.
 

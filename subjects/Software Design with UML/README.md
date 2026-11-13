@@ -14,8 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Software Design with UML(702CO0C018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSBS 7036 | QP_Software Design with UML(702CO0C018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Software Design with UML(702CO0C018)_2025-2026.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / CSBS | Software Design with UML, Sem IV, Batch 2023-24 Re Exam.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSBS | Software Design with UML, Sem-IV, Final & Re Exam Batch 2021-22, 2022-23.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSBS | Software Design with UML, Sem-IV, Year 2022-23, Final Exam & Re Exam.pdf |

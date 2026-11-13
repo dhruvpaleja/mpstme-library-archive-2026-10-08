@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_CyberSecurity_7010/Cybersecurity Risk Management/ANS_Cybersecurity Risk Management(702IT0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2025
 - Text: mixed (6 pages), mean OCR confidence 70.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -130,7 +131,6 @@ ata Principal Board
 ‘means the individual to whom the 7 means the Data
 ment under section 18
 Outside Indian Territory:
-> masts apo pacsing of pean dan oie non pean asec
 
 oat rt fer
 Bexaticasi ate eee Seen aaa
@@ -144,7 +144,6 @@ nd withdra
 Q6 a. Data Privacy & Security: Aspects
 C02; SO-. tae
 
-ee Oe Cy By Be &
 
 Consent Purpose Limitation Security ‘Transparency
 

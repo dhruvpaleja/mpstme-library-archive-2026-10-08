@@ -420,6 +420,182 @@ d) Different Merge Components in Clover ETL— 4 marks
 14
 ````
 
+## 2016-17 · Re-Exam · Sem 1 · paper cf3beb8dc290
+
+- Departments: Data Science
+- Programmes: M TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM I SPRING/SEM I/DATA GATHERING CLEANING/Data Gathering Cleaning ( ETL Process )Batch 2015-16 Re Exam.pdf`
+- Printed on paper: exam date: 26 May 2017
+- Text: ocr (2 pages), mean OCR confidence 93.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: M. Tech - Data Science (Business Analytics)- Year: © Semester: Spring SemI -
+
+Batch: 2015-16
+Academic Year: 2016-2017 tition
+
+id
+Subject: Data Gathering, Cleaning (ETL Process) ~ =
+M: c
+Date: 26 May 2017 - Ti 2.00.pm to 5.
+
+D atjons: 3 (hrs) -
+No. f Pages: Zw
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+8) Use the exam-dataset folder provided for datasets(present on desktop)
+
+9) Attach printout with the answer sheet. Mention proper answer number on the printout also.
+
+Q.1) Using the WorldBank dataset and CLOVER ETL tool, answer the following: [14]
+a) Perform the join operation on all four files.
+b) Perform the deduplication of the master file after join operation.
+c) How many no. of instances are there after join and dedup?
+d) How many country codes does not have a country name? Filter them and show results.
+
+Q.2) a) What are different ETL data structures? Explain three in detail. [7]
+b) What is metadata? How do we create metadata in clover and in how many ways? [7]
+
+Q.3)a) Using PIG shell scripting, explain the command needed to filter some values from a dataset
+having all string, values line by line. Consider an example of having a string having values like and
+you want to filter data used :- [7]
+
+subid1 100118754dataused14785456towerid67485
+
+b) What is staging of data in ETL process. Why is it important to stage the data and at what levels? [7]
+
+Q.4 Using Hive technology and whitehouse dataset provided in dataset folder, find the following: [14]
+a) How many users booked an appointment with Visitee last name “Chopra”? Find there name and
+appointment date and time of arrival.
+b) How many visitors came for the group tour?
+c) Is there any visitor who stayed for more than one day in the whitehouse?
+
+Ve
+--- page 2 ---
+Q.5 Design a system using clover tool which can perform following task: [14]
+a) Fetch the data.
+b) Integrate the data.
+c) Reformat the data and find out some essential information from the data.
+
+Show the join operation and transformation which are involved and design new metadata’s.
+
+Explain the components used for designing and justify the need of there use.
+
+Q.6 a) Explain different pallete components of Clover ETL. Use an XML file to define a workflow in
+
+clover etl. [7]
+b) Explain Data Cleaning and Data Profiling in detail. [7]
+Q.7 Write short notes on:- [14]
+
+a) JSON file[3]
+
+b) Unstructured data[4]
+c) Weblogs[3]
+
+d) Normalization[4]
+````
+
+## 2015-16 · Final-Exam · paper 9ad25fdbf583
+
+- Departments: Data Science
+- Programmes: M TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM I FALL BATCH/DATA GATHERING ,CLEANING ( ETL PROCESS)/Data Gathering Cleaning ETL Process Final.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 09/12/2015
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+19TE
+SVKM’s NMIMS ne & \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ia GINEERIN
+
+Programme: M. Tech - Data Science (Business Analytics) Year: I ‘Soneser x y ye
+
+a “= wt ¢€
+Academic Year: 2015-2016 : ae *
+Subject: Data Gathering, Cleaning (ETL Process)
+Marks : 70
+Date: 09/12/2015 Time : 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all S questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.1) Using the following dataset present in Clover Workspace: [14]
+Customers_region|.csv
+Categories.csv
+Orders.csv
+Products.csv
+Design an access database, by removing redundancies. Draw an effective ER diagram preserving
+Functional dependencies.
+
+Q.2) a) List out the seven key steps involved in Data Analysis. Which step plays the most significant
+role during an ETL process. [7]
+b) Explain any seven ETL data structures with an example of each. [7]
+
+Q.3) a) What is the need of staging data in an ETL process. Draw a staging table volumetric sheet. [7]
+b) How do you define Data Quality. What are issues involved in designing a data quality policy. C7]
+
+Q.4 a) What are the steps involved in Data Cleaning. Explain importance of each step. [7]
+b) What is Data Profiling Deliverables? Explain importance of each point involved in data
+profiling. [7]
+
+Q.5 a) Using the “Whitehouse” dataset, perform a lossless joint decomposition and step by step
+
+normalization process. Provide sample data output at each stage. [7]
+b) What is MetaData. What are the best practices for designing a business metadata. [7]
+
+1
+--- page 2 ---
+Q.6 Design a system using clover tool which can perform following task: [14]
+a) Fetch the data from different data source types- Flat files, XLXS, SQL files(database) of same
+variables.
+b) Integrate the data.
+c) Reformat the data and find out some essential information from the data.
+Show the join operation and transformation which are involved and design new metadata’s.
+Explain the components used for designing and justify the need of there use.
+
+An _
+````
+
 ## 2015-16 · Final-Exam · Sem 1 · paper 37cf7a24650c
 
 - Departments: Data Science
@@ -537,180 +713,4 @@ d) Lossless joint decomposition [4]
 2/9.
 
 —\
-````
-
-## 2015-16 · Re-Exam · Sem 1 · paper cf3beb8dc290
-
-- Departments: Data Science
-- Programmes: M TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM I SPRING/SEM I/DATA GATHERING CLEANING/Data Gathering Cleaning ( ETL Process )Batch 2015-16 Re Exam.pdf`
-- Printed on paper: exam date: 26 May 2017
-- Text: ocr (2 pages), mean OCR confidence 93.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: M. Tech - Data Science (Business Analytics)- Year: © Semester: Spring SemI -
-
-Batch: 2015-16
-Academic Year: 2016-2017 tition
-
-id
-Subject: Data Gathering, Cleaning (ETL Process) ~ =
-M: c
-Date: 26 May 2017 - Ti 2.00.pm to 5.
-
-D atjons: 3 (hrs) -
-No. f Pages: Zw
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-8) Use the exam-dataset folder provided for datasets(present on desktop)
-
-9) Attach printout with the answer sheet. Mention proper answer number on the printout also.
-
-Q.1) Using the WorldBank dataset and CLOVER ETL tool, answer the following: [14]
-a) Perform the join operation on all four files.
-b) Perform the deduplication of the master file after join operation.
-c) How many no. of instances are there after join and dedup?
-d) How many country codes does not have a country name? Filter them and show results.
-
-Q.2) a) What are different ETL data structures? Explain three in detail. [7]
-b) What is metadata? How do we create metadata in clover and in how many ways? [7]
-
-Q.3)a) Using PIG shell scripting, explain the command needed to filter some values from a dataset
-having all string, values line by line. Consider an example of having a string having values like and
-you want to filter data used :- [7]
-
-subid1 100118754dataused14785456towerid67485
-
-b) What is staging of data in ETL process. Why is it important to stage the data and at what levels? [7]
-
-Q.4 Using Hive technology and whitehouse dataset provided in dataset folder, find the following: [14]
-a) How many users booked an appointment with Visitee last name “Chopra”? Find there name and
-appointment date and time of arrival.
-b) How many visitors came for the group tour?
-c) Is there any visitor who stayed for more than one day in the whitehouse?
-
-Ve
---- page 2 ---
-Q.5 Design a system using clover tool which can perform following task: [14]
-a) Fetch the data.
-b) Integrate the data.
-c) Reformat the data and find out some essential information from the data.
-
-Show the join operation and transformation which are involved and design new metadata’s.
-
-Explain the components used for designing and justify the need of there use.
-
-Q.6 a) Explain different pallete components of Clover ETL. Use an XML file to define a workflow in
-
-clover etl. [7]
-b) Explain Data Cleaning and Data Profiling in detail. [7]
-Q.7 Write short notes on:- [14]
-
-a) JSON file[3]
-
-b) Unstructured data[4]
-c) Weblogs[3]
-
-d) Normalization[4]
-````
-
-## Year not stated · Final-Exam · paper 9ad25fdbf583
-
-- Departments: Data Science
-- Programmes: M TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM I FALL BATCH/DATA GATHERING ,CLEANING ( ETL PROCESS)/Data Gathering Cleaning ETL Process Final.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 09/12/2015
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-19TE
-SVKM’s NMIMS ne & \
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ia GINEERIN
-
-Programme: M. Tech - Data Science (Business Analytics) Year: I ‘Soneser x y ye
-
-a “= wt ¢€
-Academic Year: 2015-2016 : ae *
-Subject: Data Gathering, Cleaning (ETL Process)
-Marks : 70
-Date: 09/12/2015 Time : 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all S questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.1) Using the following dataset present in Clover Workspace: [14]
-Customers_region|.csv
-Categories.csv
-Orders.csv
-Products.csv
-Design an access database, by removing redundancies. Draw an effective ER diagram preserving
-Functional dependencies.
-
-Q.2) a) List out the seven key steps involved in Data Analysis. Which step plays the most significant
-role during an ETL process. [7]
-b) Explain any seven ETL data structures with an example of each. [7]
-
-Q.3) a) What is the need of staging data in an ETL process. Draw a staging table volumetric sheet. [7]
-b) How do you define Data Quality. What are issues involved in designing a data quality policy. C7]
-
-Q.4 a) What are the steps involved in Data Cleaning. Explain importance of each step. [7]
-b) What is Data Profiling Deliverables? Explain importance of each point involved in data
-profiling. [7]
-
-Q.5 a) Using the “Whitehouse” dataset, perform a lossless joint decomposition and step by step
-
-normalization process. Provide sample data output at each stage. [7]
-b) What is MetaData. What are the best practices for designing a business metadata. [7]
-
-1
---- page 2 ---
-Q.6 Design a system using clover tool which can perform following task: [14]
-a) Fetch the data from different data source types- Flat files, XLXS, SQL files(database) of same
-variables.
-b) Integrate the data.
-c) Reformat the data and find out some essential information from the data.
-Show the join operation and transformation which are involved and design new metadata’s.
-Explain the components used for designing and justify the need of there use.
-
-An _
 ````

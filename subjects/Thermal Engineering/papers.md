@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/THERMAL ENGINEERING/THERMAL ENGINEERING FINAL EXAM 19-20 RE EXAM 18-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 16 November 2019
 - Text: ocr (5 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -123,7 +124,6 @@ turbine the degree of reaction is 50%. (6)
 Isentropic Flow for k=1.4
 
 M - 2 A P AxP z
-To po AY Po A®xPo F*
 
 0.90 0.86059 | 0.68704 | 1.009 0.59126 | 0.59650 | 0.53039
 0.95 0.84710 | 0.66044 | 1.002 0.55946 | 0.56066 | 0.52877
@@ -228,6 +228,183 @@ Bx
 3.5000 0.45115 | 3.3151 4.2609 | 14.1250 0.21295
 
 4.0000 0.43496 | 4.0469 4.5714 | 18.5000 0.13876
+````
+
+## 2019-20 · Re-Exam · Sem 5 · paper 7fed9fefb3bc
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/THERMAL ENGINEERING/THERMAL ENGINEERING BATCH 2017-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 16 November 2019
+- Text: ocr (3 pages), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Mechanical) © Year: III Semester: V
+
+Academic Year: 2019-20
+Subject: Thermal Engineering .
+
+Marks: 70 ‘
+
+Date: 16 November 2019 ° Time: 10.00 eax - 1.00 PRARY ji:
+Durations: 3 SS ey
+No. of Pages: _OSs*waiijs Tree
+
+Re-Examination (2017-18) =
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+8) Use of Steam tables, Mollier diagram, and Gas tables allowed.
+
+Ql] a) Solve following (any two): [08]
+
+i) Draw Flow diagram and T-s diagram for Rankine cycle and name the
+thermodynamic processes in the cycle.
+
+ii) Explain the Otto cycle with help of p-V diagram.
+
+iii) Define and briefly explain, blade efficiency and stage efficiency in case
+
+of steam turbines. : 7
+
+b) Solve following (any two): [06]
+i) Write classification of air compressors.
+ii) Define Mach number and classify various types of compressible fluid
+flow on the basis of Mach number.
+iii) Explain ‘adiabatic flame temperature’.
+iv) With help of diagram briefly explain converging-diverging nozzle.
+Q?2] a) A single stage, single acting reciprocating air compressor takes 1m? of _ [08]
+
+air per minute at 1 bar and 17°C and delivers it at 7 bar. The compressor
+runs at 300 rpm and follows the law pV'*5= Constant. Calculate the
+bore and stroke length of cylinder, assuming stroke to bore ratio of 1.5,
+also Calculate the power of motor required to drive the compressor if
+the mechanical efficiency of the compressor is 85% and that of motor
+transmissions is 90%. Neglect clearance volume and _ take
+R = 0.287 kJ/kg.K for air.
+
+op
+--- page 2 ---
+&
+
+b)
+
+Q3] a)
+
+b)
+
+Q4] a)
+
+b)
+
+Q5] a)
+
+b)
+
+Q6] a)
+
+Describe the working of centrifugal air compressor with help of neat [06]
+diagram.
+
+A steam power plant operates on a theoretical Rankine reheat cycle. [08]
+The steam from boiler at 150 bar and 500°C expands through the high
+pressure turbine. It is reheated at constant pressure of 40 bar to 500°C
+
+and expands through the low pressure turbine to a condenser pressure
+
+of 0.1 bar. Find:
+
+1. Quality of steam at low pressure turbine exhaust;
+
+2. Thermal efficiency of the cycle.
+
+In a steam power plant operating on an ideal Rankine cycle, the steam [06]
+enters the turbine at 3 MPa and 400°C and it is exhausted at 10 kPa.
+Determine thermal efficiency of cycle.
+
+An engine works on Diesel cycle with an inlet pressure and [07]
+temperature of 1 bar and 17°C. The pressure at the end of adiabatic
+compression is 35 bar. The expansion ratio is 5.
+
+Calculate:
+
+1. Heat addition;
+
+2. Heat rejection;
+
+3. Efficiency of the cycle
+
+Take: (For air Cp = 1.005 kJ/kg K, Cv = 0.718 kJ/kg K, and y = 1.4)
+
+The pressure ratio and maximum temperature of a Brayton cycle are5 = [07]
+and 923 K respectively. Air enters the compressor at 1 bar and 298 K.
+Calculate for 1 kg of air flow, 1. Compressor work; 2. Turbine work;
+
+3. Efficiency of the cycle.
+
+Take: (For air Cp = 1.005 kJ/kg K, Cv = 0.718 kJ/kg K, and y = 1.4)
+
+a
+
+Derive an expression for discharge through steam nozzle. [07]
+
+Air at 28°C and 700 kPa enters a nozzle with a velocity of 80 m/s. The [07]
+nozzle has inlet area of 10 cm?. The air leaves the nozzle at a pressure
+
+of 250 kPa. Determine:
+
+1. Mass flow rate of air through the nozzle;
+
+2. Velocity at the exit of nozzle, assuming one dimensional isentropic
+
+flow.
+
+(Take: Forair y=1.4, R= 0.287 kJ/kg K)
+
+In a single-stage, single row impulse turbine, steam leaves the nozzles [07]
+at 900 m/s. The nozzle angle is 20° and blade angles are 30° at inlet
+
+and outlet. Calculate the blade velocity and work done per kg of steam.
+Assume the flow over the blade frictionless.
+
+15
+--- page 3 ---
+b) Show that for a Parson’s reaction steam turbine, the degree of reaction [07]
+is 50%.
+
+Q7] a) An engine working on the Otto cycle is supplied with air at 0.1 MPa, [06]
+35°C. The compression ratio is 8. Heat supplied is 2100 kJ/kg.
+Calculate:
+1. Maximum temperature in the cycle;
+2. Maximum pressure in the cycle;
+3. Efficiency of cycle;
+Take: (For air Cp = 1.005 kJ/kg K, Cv = 0.718 kJ/kg K, y=1.4,
+R= 0.287 kJ/kg K)
+
+b) Write short note on following (any two): [08]
+1. Orsat Apparatus.
+2. Inter- cooling in multistage reciprocating air compressors.
+3. Stagnation properties in compressible fluid flow.
+4. Feed water heaters in regenerative vapour power cycle
+5. Velocity compounding in steam turbines.
+6. Gas power cycle used in aircraft propulsion.
 ````
 
 ## 2018-19 · Final + Re-Exam · Sem 5 · paper 666a422f67eb
@@ -632,6 +809,155 @@ blade speed ratio. ° ;
 pr4 or
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper cc0372b2548a
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THERMAL ENGINEERING/Thermal engg , Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 April 2019
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program MBA.Tech (MECHANICAL) Year: II Semester: IV
+Academic Year: 2018-2019
+Subject: Thermal Engineering Marks: 70
+Date: 16 April 2019 Time:2.00 pm to 5.00 pm
+
+Duration: 3 (hrs)
+No. of Pages:_ Ox
+
+Re-Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer
+Book, which is provided for their use.
+
+1) Question No. | is compulsoty.
+2) Out of remaining questions, attempt any 4 questions. MPSTME
+3) In all, 5 questions to be attempted. LIBRARY
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1. a. Answer any THREE (3 * 3)
+i, Explain Higher Heating Value and Lower Heating Value.
+
+ii. Discuss the ‘degree of reaction’ for a steam turbine. a
+
+iii. Compare Otto cycle to Diesel cycle based on same compression ratio and heat input.
+
+iv. Elaborate the concept of ‘stagnation properties’. .
+
+1. b. Answer any ONE (5 * 1)
+i, State and explain various types of turbine efficiencies.
+
+ii. A single-stage, double-acting compressor has a free air delivery of 14 m?/min., measured at | atm and 288 K. Pressure
+and temperature in the cylinder during induction are 0.95 bar and 305 K. The delivery pressure is 7 bar and index of
+compression and expansion, n= 1.3. The clearance ratio is 0.05. Evaluate:
+
+e Indicated power required
+
+e Volumetric efficiency
+
+2. a. The percentage composition of sample of liquid fuel by weight is, C = 84.8 %, H2 = 15.2 %. Calculate:
+
+e Mass of air needed per kg of fuel for combustion
+
+e Volumetric composition for products of combustion if 15 % excess air is supplied. (8)
+2. b. Derive an expression for the efficiency of the Otto cycle in terms of ‘r.’. (6)
+
+3. a. The following data relate to a compound impulse turbine having two rows of moving blades and one row of fixed
+blades between them:
+
+e Steam velocity at nozzle exit = 600 m/s
+
+e Blade Speed = 125 m/s
+
+e Nozzle angle = 20°C
+
+e First moving blade discharge angle = 20°C
+
+e First fixed blade discharge angle = 25°C
+
+e Second moving blade discharge angle = 30°C
+
+Page 1 of 2
+--- page 2 ---
+e Friction loss in each ring = 10 % of relative velocity
+
+Find:
+
+e Diagram efficiency
+
+e Power developed for a steam flow of 6 kg/s (8)
+3. b. Explain the Fanno and Rayleigh lines. (6)
+
+4. a. In an engine working on dual cycle, temperature and pressure at the beginning of the cycle are 363 K and 1 bar
+respectively. Compression ratio is 9. Maximum pressure is limited to 68 bar and total heat supplied per kg of air is 1750
+
+kJ. Determine:
+e Pressure and temperature at all salient points
+
+e Mean effective pressure. (7)
+4. b. Explain reheat and regeneration methods to improve the efficiency of Rankine cycle. (7)
+5. a: nasteam nozzle, the steam expands from 4 bar to 1 bar. Initial velocity is 60 m/s and initial temperature is 473
+
+Determine exit velocity if the nozzle efficiency is 92 %. (7)
+5.5. What is compouriding of a steam turbine? Explain any one method of the same. (7)
+
+6. a. A steam power plant of 110 MW capacity is equipped with regenerative as well as reheat arrangement. The steam
+is supplied at 80 bar and 55 °C of superheat. The steam is extracted at 7 bar for feed heating and remaining steam is
+reheated to 350 °C and then expanded to 0.4 bar in the L.P. stage turbine. Assuming indirect type of feed heaters,
+determine:
+
+e Ratio of steam bled to steam generated
+
+e Boiler generating capacity in tonnes of steam / hour and
+
+e Thermal efficiency of the cycle.
+
+Assume ideal processes of expansion. : (8)
+6. b. State the various methods to improve the efficiency of gas turbine and explain any one in brief. (6)
+7. a. Answer any THREE : a (3 * 3)
+
+i. Discuss ‘adiabatic flame temperature’.
+
+ii, State and explain the features of Parson’s reaction turbine.
+
+iii. Explain the effect of clearance volume in a reciprocating air compressor.
+iv. Discuss the significance of Mach number.
+
+7. b. Answer any ONE (5 * 1)
+i. A 4-cylinder, double-acting compressor is required to compress 30 m3/min of air at | bar and 27 °C to a pressure of
+
+16 bar. Determine the size of motor required and cylinder dimensions when:
+
+e Speed of the compressor, N = 320 r.p.m.
+
+e Clearance volume, V. = 4 %
+
+e Stroke to bore ratio, L/D = 1.2
+
+e Mechanical efficiency, 1mech = 0.82
+
+e Index, n= 1.32
+
+e Air gets heated by 12 °C during suction stroke.
+
+ii. A steam turbine develops 184 kW, with a consumption of 16.45 kg/kWh. The pressure and temperature of the steam
+entering the nozzle are 11.8 bar and 220 °C. The steam leaves the nozzle at 1.18 bar. Diameter of the nozzle at the throat
+is 7 mm. Find the number of nozzles.
+
+If 8 % of total enthalpy drop is lost in friction in the diverging part of the nozzle, determine the diameter at the exit of
+the nozzle and exit velocity of the leaving steam.
+
+Page 2 of 2
+````
+
 ## 2018-19 · Re-Exam · Sem 4 · paper 5d9a62211499
 
 - Departments: Mechanical
@@ -748,6 +1074,155 @@ respectively. Air enters the compressor at | bar and 300 K. calculate for 1 kg o
 compressor work, turbine work and the efficiency of the cycle.
 
 Yn
+````
+
+## 2017-18 · Final + Re-Exam · Sem 5 · paper c46a524112b0
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/THERMAL ENGINEERING/THERMAL_ENGINEERING_(MECHANICAL)__FINAL_EXAM_BATCH_15-16__16-17_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; exam date: 01 December 2017
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+me SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHANICAL) Year: III Semester: V .
+
+Batch: 2015-16/ 2016-17.
+Academic Year: 2017-2018
+
+Subject: Thermal Engineering
+
+Marks: 60 1973 OF Go, ~
+Date: 01 December 2017 Time: 2.0 to” SOO pity
+. Durationg? 6 (1s), « 1 AY %
+byob 4 a a &
+mes i CLTYRARY da}
+ee 4 bg
+Re-Examination ~, wf “4
+
+a ae
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No.01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+_ 7) Use of Steam table and Gas table are permitted.
+
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any four questions
+a) State the limitations of Carnot vapour power cycle and explain how Rankine cycle helps 03
+in overcoming them.
+b) What do you understand by multistage compression? What are its’ merits over single 03
+stage compression?
+
+c) What is meant by stoichiometric air-fuel ratio? 03
+
+d) What is meant by mean effective pressure? Discuss its’ relevance. 03
+
+e) Sketch the velocity diagram of a two stage impulse turbine. 03
+
+f) Define Mach Number and Stagnation properties. 03
+
+| g) Write short notes on the following: 03
+(a) Nozzle efficiency (b), Velocity coefficient (c) Critical velocity
+
+Q.2 a) What is meant by free air delivered? 02
+
+b) State various methods to improve the performance of gas turbine cycle and explain one 04
+of them in detail.
+c) Determine the minimum number of stages required in an air compressor which admits 06
+air at 1 bar, 27°C and delivers at 180 bar. The maximum discharge temperature at any
+| stage is limited to 150°C.Consider the index for polytrophic compression as 1.25 and
+perfect and optimum intercooling in between the stages. Neglect the effect of clearance.
+~ Q.3 a) What do you understand by binary vapour power cycles and discuss the advantages of 06
+ad binary vapour cycles over single vapour cycle.
+‘ b) A steam power plant running on Rankine cycle has steam entering HP turbine at 20 06
+MPa, 500°C and leaving LP turbine at 90% dryness. Considering condenser pressure of
+0.005 MPa and reheating occurring up to the temperature of 500°C determine,
+(a) the pressure at witch steam leaves HP turbine
+(b) the thermal efficiency
+
+Ye
+--- page 2 ---
+Q4
+
+Q,5
+
+Q.6
+
+Q7
+
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+c)
+
+Prove that the maximum discharge of fluid per unit area through a nozzle shall occur 06
+when the ratio of fluid pressure at throat to the inlet pressure is
+
+(al
+
+Where n is the index of adiabatic expansion.
+
+In a steam nozzle steam expands from 16 bar to 5 bar with initial temperature of 300°C 06
+and mass flow of 1 kg/s. Determine the throat and exit areas considering (i) expansion
+
+to be frictionless and (ii) friction loss of 10% throughout the nozzle.
+
+A gas turbine plant has air being supplied at 1 bar, 27°C to compressor for getting 06
+compressed up to 5 bar with isentropic efficiency of 85%. Compressed air is heated up
+
+to. 1000 K in combustion chamber where also occurs a pressure drop of 0.2 bar.
+Subsequently expansion occurs to 1 bar in turbine. Determine isentropic efficiency of
+turbine, if thermal efficiency of plant is 20%. Neglect the air property variation
+throughout cycle. Take y = 1.4.
+
+A four stroke SI engine has the compression ratio of 6 and swept volume of 0.15 m*. 06
+Pressure and temperature at the beginning of compression are 98 kPa and 60°C.
+Determine the pressure, volume and temperatures at all salient points if heat supplied to
+
+it is 150 kJ/kg, also find out entropy change, work done, efficiency and mean effective
+pressure of cycle assuming Cp = | kJ/kgK, Cv = 0.71 kJ/kgK, also plot the cycle on -
+
+T-S diagram.
+
+What do you understand by compounding of steam turbines? Describe different types of 06
+compounding of steam turbines.
+
+In a single stage simple impulse turbine the steam flows at rate of 5 kg/s. It has rotor of 06
+1.2 m diameter running at 3000 rpm. Nozzle angle is 18°, blade speed ratio is 0.4,
+velocity coefficient is 0.9, outlet angle of blade is 3° less than inlet angle. Determine
+blade angles and power developed.
+
+Define adiabatic flame temperature. 02
+Explain working of Orsat analyzer for flue gas analysis. 04
+Compare Otto, Diesel and Dual cycle with the help of P-V and T-S diagram. 06
+
+2
 ````
 
 ## 2017-18 · Final + Re-Exam · Sem 4 · paper 0b6de11698e3
@@ -1025,183 +1500,6 @@ pias b) Explain one dimensional steady isentropic flow through a nozzle. (5)
 c) Explain various efficiencies in steam turbine. (5)
 ````
 
-## 2017-18 · Re-Exam · Sem 5 · paper 7fed9fefb3bc
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/THERMAL ENGINEERING/THERMAL ENGINEERING BATCH 2017-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 16 November 2019
-- Text: ocr (3 pages), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Mechanical) © Year: III Semester: V
-
-Academic Year: 2019-20
-Subject: Thermal Engineering .
-
-Marks: 70 ‘
-
-Date: 16 November 2019 ° Time: 10.00 eax - 1.00 PRARY ji:
-Durations: 3 SS ey
-No. of Pages: _OSs*waiijs Tree
-
-Re-Examination (2017-18) =
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-8) Use of Steam tables, Mollier diagram, and Gas tables allowed.
-
-Ql] a) Solve following (any two): [08]
-
-i) Draw Flow diagram and T-s diagram for Rankine cycle and name the
-thermodynamic processes in the cycle.
-
-ii) Explain the Otto cycle with help of p-V diagram.
-
-iii) Define and briefly explain, blade efficiency and stage efficiency in case
-
-of steam turbines. : 7
-
-b) Solve following (any two): [06]
-i) Write classification of air compressors.
-ii) Define Mach number and classify various types of compressible fluid
-flow on the basis of Mach number.
-iii) Explain ‘adiabatic flame temperature’.
-iv) With help of diagram briefly explain converging-diverging nozzle.
-Q?2] a) A single stage, single acting reciprocating air compressor takes 1m? of _ [08]
-
-air per minute at 1 bar and 17°C and delivers it at 7 bar. The compressor
-runs at 300 rpm and follows the law pV'*5= Constant. Calculate the
-bore and stroke length of cylinder, assuming stroke to bore ratio of 1.5,
-also Calculate the power of motor required to drive the compressor if
-the mechanical efficiency of the compressor is 85% and that of motor
-transmissions is 90%. Neglect clearance volume and _ take
-R = 0.287 kJ/kg.K for air.
-
-op
---- page 2 ---
-&
-
-b)
-
-Q3] a)
-
-b)
-
-Q4] a)
-
-b)
-
-Q5] a)
-
-b)
-
-Q6] a)
-
-Describe the working of centrifugal air compressor with help of neat [06]
-diagram.
-
-A steam power plant operates on a theoretical Rankine reheat cycle. [08]
-The steam from boiler at 150 bar and 500°C expands through the high
-pressure turbine. It is reheated at constant pressure of 40 bar to 500°C
-
-and expands through the low pressure turbine to a condenser pressure
-
-of 0.1 bar. Find:
-
-1. Quality of steam at low pressure turbine exhaust;
-
-2. Thermal efficiency of the cycle.
-
-In a steam power plant operating on an ideal Rankine cycle, the steam [06]
-enters the turbine at 3 MPa and 400°C and it is exhausted at 10 kPa.
-Determine thermal efficiency of cycle.
-
-An engine works on Diesel cycle with an inlet pressure and [07]
-temperature of 1 bar and 17°C. The pressure at the end of adiabatic
-compression is 35 bar. The expansion ratio is 5.
-
-Calculate:
-
-1. Heat addition;
-
-2. Heat rejection;
-
-3. Efficiency of the cycle
-
-Take: (For air Cp = 1.005 kJ/kg K, Cv = 0.718 kJ/kg K, and y = 1.4)
-
-The pressure ratio and maximum temperature of a Brayton cycle are5 = [07]
-and 923 K respectively. Air enters the compressor at 1 bar and 298 K.
-Calculate for 1 kg of air flow, 1. Compressor work; 2. Turbine work;
-
-3. Efficiency of the cycle.
-
-Take: (For air Cp = 1.005 kJ/kg K, Cv = 0.718 kJ/kg K, and y = 1.4)
-
-a
-
-Derive an expression for discharge through steam nozzle. [07]
-
-Air at 28°C and 700 kPa enters a nozzle with a velocity of 80 m/s. The [07]
-nozzle has inlet area of 10 cm?. The air leaves the nozzle at a pressure
-
-of 250 kPa. Determine:
-
-1. Mass flow rate of air through the nozzle;
-
-2. Velocity at the exit of nozzle, assuming one dimensional isentropic
-
-flow.
-
-(Take: Forair y=1.4, R= 0.287 kJ/kg K)
-
-In a single-stage, single row impulse turbine, steam leaves the nozzles [07]
-at 900 m/s. The nozzle angle is 20° and blade angles are 30° at inlet
-
-and outlet. Calculate the blade velocity and work done per kg of steam.
-Assume the flow over the blade frictionless.
-
-15
---- page 3 ---
-b) Show that for a Parson’s reaction steam turbine, the degree of reaction [07]
-is 50%.
-
-Q7] a) An engine working on the Otto cycle is supplied with air at 0.1 MPa, [06]
-35°C. The compression ratio is 8. Heat supplied is 2100 kJ/kg.
-Calculate:
-1. Maximum temperature in the cycle;
-2. Maximum pressure in the cycle;
-3. Efficiency of cycle;
-Take: (For air Cp = 1.005 kJ/kg K, Cv = 0.718 kJ/kg K, y=1.4,
-R= 0.287 kJ/kg K)
-
-b) Write short note on following (any two): [08]
-1. Orsat Apparatus.
-2. Inter- cooling in multistage reciprocating air compressors.
-3. Stagnation properties in compressible fluid flow.
-4. Feed water heaters in regenerative vapour power cycle
-5. Velocity compounding in steam turbines.
-6. Gas power cycle used in aircraft propulsion.
-````
-
 ## 2017-18 · Re-Exam · Sem 5 · paper 184814004240
 
 - Departments: Mechanical
@@ -1324,155 +1622,6 @@ b) Compare Otto, diesel and dual gas power cycles for same temperature. (5)
 c) What is “stagnation property’? Explain various stagnation properties. (4)
 
 J.
-````
-
-## 2017-18 · Re-Exam · Sem 4 · paper cc0372b2548a
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THERMAL ENGINEERING/Thermal engg , Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 April 2019
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program MBA.Tech (MECHANICAL) Year: II Semester: IV
-Academic Year: 2018-2019
-Subject: Thermal Engineering Marks: 70
-Date: 16 April 2019 Time:2.00 pm to 5.00 pm
-
-Duration: 3 (hrs)
-No. of Pages:_ Ox
-
-Re-Examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer
-Book, which is provided for their use.
-
-1) Question No. | is compulsoty.
-2) Out of remaining questions, attempt any 4 questions. MPSTME
-3) In all, 5 questions to be attempted. LIBRARY
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1. a. Answer any THREE (3 * 3)
-i, Explain Higher Heating Value and Lower Heating Value.
-
-ii. Discuss the ‘degree of reaction’ for a steam turbine. a
-
-iii. Compare Otto cycle to Diesel cycle based on same compression ratio and heat input.
-
-iv. Elaborate the concept of ‘stagnation properties’. .
-
-1. b. Answer any ONE (5 * 1)
-i, State and explain various types of turbine efficiencies.
-
-ii. A single-stage, double-acting compressor has a free air delivery of 14 m?/min., measured at | atm and 288 K. Pressure
-and temperature in the cylinder during induction are 0.95 bar and 305 K. The delivery pressure is 7 bar and index of
-compression and expansion, n= 1.3. The clearance ratio is 0.05. Evaluate:
-
-e Indicated power required
-
-e Volumetric efficiency
-
-2. a. The percentage composition of sample of liquid fuel by weight is, C = 84.8 %, H2 = 15.2 %. Calculate:
-
-e Mass of air needed per kg of fuel for combustion
-
-e Volumetric composition for products of combustion if 15 % excess air is supplied. (8)
-2. b. Derive an expression for the efficiency of the Otto cycle in terms of ‘r.’. (6)
-
-3. a. The following data relate to a compound impulse turbine having two rows of moving blades and one row of fixed
-blades between them:
-
-e Steam velocity at nozzle exit = 600 m/s
-
-e Blade Speed = 125 m/s
-
-e Nozzle angle = 20°C
-
-e First moving blade discharge angle = 20°C
-
-e First fixed blade discharge angle = 25°C
-
-e Second moving blade discharge angle = 30°C
-
-Page 1 of 2
---- page 2 ---
-e Friction loss in each ring = 10 % of relative velocity
-
-Find:
-
-e Diagram efficiency
-
-e Power developed for a steam flow of 6 kg/s (8)
-3. b. Explain the Fanno and Rayleigh lines. (6)
-
-4. a. In an engine working on dual cycle, temperature and pressure at the beginning of the cycle are 363 K and 1 bar
-respectively. Compression ratio is 9. Maximum pressure is limited to 68 bar and total heat supplied per kg of air is 1750
-
-kJ. Determine:
-e Pressure and temperature at all salient points
-
-e Mean effective pressure. (7)
-4. b. Explain reheat and regeneration methods to improve the efficiency of Rankine cycle. (7)
-5. a: nasteam nozzle, the steam expands from 4 bar to 1 bar. Initial velocity is 60 m/s and initial temperature is 473
-
-Determine exit velocity if the nozzle efficiency is 92 %. (7)
-5.5. What is compouriding of a steam turbine? Explain any one method of the same. (7)
-
-6. a. A steam power plant of 110 MW capacity is equipped with regenerative as well as reheat arrangement. The steam
-is supplied at 80 bar and 55 °C of superheat. The steam is extracted at 7 bar for feed heating and remaining steam is
-reheated to 350 °C and then expanded to 0.4 bar in the L.P. stage turbine. Assuming indirect type of feed heaters,
-determine:
-
-e Ratio of steam bled to steam generated
-
-e Boiler generating capacity in tonnes of steam / hour and
-
-e Thermal efficiency of the cycle.
-
-Assume ideal processes of expansion. : (8)
-6. b. State the various methods to improve the efficiency of gas turbine and explain any one in brief. (6)
-7. a. Answer any THREE : a (3 * 3)
-
-i. Discuss ‘adiabatic flame temperature’.
-
-ii, State and explain the features of Parson’s reaction turbine.
-
-iii. Explain the effect of clearance volume in a reciprocating air compressor.
-iv. Discuss the significance of Mach number.
-
-7. b. Answer any ONE (5 * 1)
-i. A 4-cylinder, double-acting compressor is required to compress 30 m3/min of air at | bar and 27 °C to a pressure of
-
-16 bar. Determine the size of motor required and cylinder dimensions when:
-
-e Speed of the compressor, N = 320 r.p.m.
-
-e Clearance volume, V. = 4 %
-
-e Stroke to bore ratio, L/D = 1.2
-
-e Mechanical efficiency, 1mech = 0.82
-
-e Index, n= 1.32
-
-e Air gets heated by 12 °C during suction stroke.
-
-ii. A steam turbine develops 184 kW, with a consumption of 16.45 kg/kWh. The pressure and temperature of the steam
-entering the nozzle are 11.8 bar and 220 °C. The steam leaves the nozzle at 1.18 bar. Diameter of the nozzle at the throat
-is 7 mm. Find the number of nozzles.
-
-If 8 % of total enthalpy drop is lost in friction in the diverging part of the nozzle, determine the diameter at the exit of
-the nozzle and exit velocity of the leaving steam.
-
-Page 2 of 2
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper 4572e33029ac
@@ -1631,153 +1780,197 @@ Calculate,
 (b) Wet and dry analysis of combustion products if actual mixture is 20% weak.
 ````
 
-## 2016-17 · Final + Re-Exam · Sem 5 · paper c46a524112b0
+## 2016-17 · Final-Exam · Sem 5 · paper cb7facac9319
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/THERMAL ENGINEERING/THERMAL_ENGINEERING_(MECHANICAL)__FINAL_EXAM_BATCH_15-16__16-17_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; exam date: 01 December 2017
-- Text: ocr (2 pages), mean OCR confidence 91.8
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/THERMAL ENGINEERING/THERMAL_ENGINEERING_B_TECH_(MECHANICAL)__FINAL_EXAM_.pdf`
+- Printed on paper: exam date: 24 November 2016
+- Text: ocr (3 pages), mean OCR confidence 92.1
 
 ````text
-me SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (MECHANICAL) Year: III Semester: V .
+Programme: B. Tech (MECHANICAL)
 
-Batch: 2015-16/ 2016-17.
-Academic Year: 2017-2018
+Year: III Semester: V
+, Academic Year: 2016-2017 a
+ademic Year: 2 aT
+. de AN :
+Subject : Thermal Engineering Ve sa ae
+HOO! ss a
+Date : 24 November 2016 i
 
-Subject: Thermal Engineering
+question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-Marks: 60 1973 OF Go, ~
-Date: 01 December 2017 Time: 2.0 to” SOO pity
-. Durationg? 6 (1s), « 1 AY %
-byob 4 a a &
-mes i CLTYRARY da}
-ee 4 bg
-Re-Examination ~, wf “4
+1) Question No, ONE is compulsory.
 
-a ae
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No.01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
 
 4) All questions carry equal marks.
-
 5) Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
-_ 7) Use of Steam table and Gas table are permitted.
-
+6) Figures in brackets on the right hand side indicate full marks,
 7) Assume Suitable data if necessary.
 
-Q.1 Attempt any four questions
-a) State the limitations of Carnot vapour power cycle and explain how Rankine cycle helps 03
-in overcoming them.
-b) What do you understand by multistage compression? What are its’ merits over single 03
-stage compression?
+Q.1 Answer the following questions (any four)
 
-c) What is meant by stoichiometric air-fuel ratio? 03
+(a) Define Mach No, Stagnation Temperature and Stagnation Pressure.
 
-d) What is meant by mean effective pressure? Discuss its’ relevance. 03
+(b) — Significance of critical pressure ratio in the steam nozzle.
 
-e) Sketch the velocity diagram of a two stage impulse turbine. 03
+(¢) Compare Otto, Diesel and Dual cycles for same maximum pressure and temperature.
+(d) Define volumetric efficiency.
 
-f) Define Mach Number and Stagnation properties. 03
+(e) Difference between impulse and reaction turbine.
 
-| g) Write short notes on the following: 03
-(a) Nozzle efficiency (b), Velocity coefficient (c) Critical velocity
+Q.2 (a) A two stage single acting reciprocating compressor takes in air at the rate of 0.2 m?/s . the intake
 
-Q.2 a) What is meant by free air delivered? 02
+pressure and temperature of air are 0.1 MPa and 16 °C. The air is compressed to a final pressure
 
-b) State various methods to improve the performance of gas turbine cycle and explain one 04
-of them in detail.
-c) Determine the minimum number of stages required in an air compressor which admits 06
-air at 1 bar, 27°C and delivers at 180 bar. The maximum discharge temperature at any
-| stage is limited to 150°C.Consider the index for polytrophic compression as 1.25 and
-perfect and optimum intercooling in between the stages. Neglect the effect of clearance.
-~ Q.3 a) What do you understand by binary vapour power cycles and discuss the advantages of 06
-ad binary vapour cycles over single vapour cycle.
-‘ b) A steam power plant running on Rankine cycle has steam entering HP turbine at 20 06
-MPa, 500°C and leaving LP turbine at 90% dryness. Considering condenser pressure of
-0.005 MPa and reheating occurring up to the temperature of 500°C determine,
-(a) the pressure at witch steam leaves HP turbine
-(b) the thermal efficiency
+of 0.7 MPa. The intermediate pressure is ideal and inter-cooling is perfect. The compression
 
-Ye
+index in both the stages is 1.25 and th
+
+n€ Compressor runs at 600 rpm. Negiecting clearance,
+determine:
+
+The intermediate pressure,
+
+The total volume of each cylinder
+
+The power required to drive the compressor, and
+The rate of heat rejection in the intercooler.
+
+Take cp= 1.005 KJ/ Kg K and R= 0.287 KJ/ KgKk
+
+V5
+
+12
+
+6
+
+}
+é
 --- page 2 ---
-Q4
+Q.2 (b) Anengine working on the Otto cycle is supplied with air at 0.1 MPa, 35 °C. The compression
 
-Q,5
+ratio is 8. Heat supplied is 2100 KJ/Kg. Calculate the maximum pressure and temperature of the
+cycle, the cycle efficiency, and the mean effective pressure. (For air, Cp = 1.005, cy
+R= 0.287 KJ/Kg K).
 
-Q.6
+Q.3 (a) i.
 
-Q7
+= 0.718, and
 
-a)
+Drive an expression for critical condition and find the expression for mass flow rate for the
+same condition.
+ii. Define nozzle efficiency.
 
-b)
+(b) A convergent- divergent nozzle is required to pass 1.8 kg of steam per second. At inlet the steam
 
-a)
+pressure and actual temperature are 7 bar and 200 °C respectively and the speed is 75 m/sec.
 
-b)
+expansion is stable throughout to the exit pressure of 1.1 bar. There is no ioss by iriction in the
+converging section of the nozzle, but loss by friction between throat and outlet is equivalent to
+71 K/Kg of steam. Calculate, assuming throat pressure of 4 bar-
 
-a)
+i The required area of throat in cm?, and
 
-b)
+ii. The required area of outlet in cm?, and
 
-a)
-c)
+iii. The overall efficiency of the nozzle, based on the heat drop between the actual inlet
 
-Prove that the maximum discharge of fluid per unit area through a nozzle shall occur 06
-when the ratio of fluid pressure at throat to the inlet pressure is
+pressure and temperature and the outlet pressure.
 
-(al
+Q.4 (a) How the reheat- Regenerative Rankine cycle is better than Reheat Rankine cycle or Regenerative
 
-Where n is the index of adiabatic expansion.
+Rankine cycle. Draw the cycle and explain.
+(b) A steam power plant uses steam of 150 bar, 550 °C. The steam reheats at 40 bar to 550 °C. The
 
-In a steam nozzle steam expands from 16 bar to 5 bar with initial temperature of 300°C 06
-and mass flow of 1 kg/s. Determine the throat and exit areas considering (i) expansion
+condenser pressure is 1 bar. Find —
+i. The quality of turbine exhausts steam.
 
-to be frictionless and (ii) friction loss of 10% throughout the nozzle.
+ii. Cycle efficiency
 
-A gas turbine plant has air being supplied at 1 bar, 27°C to compressor for getting 06
-compressed up to 5 bar with isentropic efficiency of 85%. Compressed air is heated up
+iii. Steam rate.
 
-to. 1000 K in combustion chamber where also occurs a pressure drop of 0.2 bar.
-Subsequently expansion occurs to 1 bar in turbine. Determine isentropic efficiency of
-turbine, if thermal efficiency of plant is 20%. Neglect the air property variation
-throughout cycle. Take y = 1.4.
+Q.5 (a) Explain the effect of following variables on the thermal efficiency of the gas turbine.
 
-A four stroke SI engine has the compression ratio of 6 and swept volume of 0.15 m*. 06
-Pressure and temperature at the beginning of compression are 98 kPa and 60°C.
-Determine the pressure, volume and temperatures at all salient points if heat supplied to
+i. Pressure ratio
 
-it is 150 kJ/kg, also find out entropy change, work done, efficiency and mean effective
-pressure of cycle assuming Cp = | kJ/kgK, Cv = 0.71 kJ/kgK, also plot the cycle on -
+ii. Turbine inlet temperature
 
-T-S diagram.
+iii. Compressor inlet temperature
 
-What do you understand by compounding of steam turbines? Describe different types of 06
-compounding of steam turbines.
+iv. Efficiency of the turbine and compressor.
 
-In a single stage simple impulse turbine the steam flows at rate of 5 kg/s. It has rotor of 06
-1.2 m diameter running at 3000 rpm. Nozzle angle is 18°, blade speed ratio is 0.4,
-velocity coefficient is 0.9, outlet angle of blade is 3° less than inlet angle. Determine
-blade angles and power developed.
+(b) In a jet propulsion unit air is drawn in to the compressor at 15°C and 1.01bar and delivered at
 
-Define adiabatic flame temperature. 02
-Explain working of Orsat analyzer for flue gas analysis. 04
-Compare Otto, Diesel and Dual cycle with the help of P-V and T-S diagram. 06
+4.04 bar. The isentropic efficiency of compression is 82 %. After delivery the air is heated at
 
-2
+constant pressure until the temperature reaches 750 °C. The air then passes through a turbine unit
+which drives the compressor only and has an isentropic efficiency of 78 % before passing
+
+through the nozzle and expanding to atmospheric pressure of 1.01 bar with an efficiency of 88%,
+
+bad
+--- page 3 ---
+Q.6 (a)
+(b)
+Q.7 (a)
+(b)
+
+Neglecting any mass increase due to the weight of the fuel and assuming that R and Y are
+unchanged by combustion, determine:
+
+i. The power required to drive the compressor
+
+ii. The air fuel ratio if the fuel has a calorific value of 42000 KJ/Kg
+iii. The pressure at the turbine exhaust.
+
+iv. The thrust per kg of air per second.
+
+Explain pressure velocity compounding in the steam turbine.
+
+The following data refer to a single stage impulse turbine:
+
+Isentropic nozzle heat drop = 251 KJ/Kg; nozzle efficiency = 90%; nozzle angle = 20°; ratio of
+blade speed to whirl component of steam speed = 0.5; blade velocity co-efficient = 0.9; the
+velocity of steam entering the nozzle = 20 m/s, Determine
+
+i. The blade angles at inlet and outlet if the steam enters in to the blades without shock and
+leaves the blades in an axial direction.
+ii. Blade efficiency
+
+iii. Power developed and axial thrust if the steam flow is 8 Kg/s
+
+The outlet angle of the blade of a parson’s turbine is 20°C and the axial velocity of flow is 0.5
+times the mean blade velocity. If the diameter of the ring is 1.25 m and the rotational speed is
+3000 rpm determine-
+
+i. Inlet angles of blades.
+
+ii. Power developed if dry saturated steam at 5 bar passes through the blade whose height may
+
+be assumed as 6 cm. Neglect the effect of blade thickness.
+
+Explain the following —
+
+i. Enthalpy of formation (A Hr).
+
+ii. Adiabatic flame temperature.
+
+iii. One kg of octane (Cg His) is burned with 200% theoretical air. Assuming complete
+
+combustion determine the air-fuel ratio.
+
+$13
+
+8
 ````
 
 ## 2016-17 · Final-Exam · Sem 4 · paper a1761194c3a3
@@ -1994,6 +2187,164 @@ So
 is)
 
 i=)
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper da6e7b526d9b
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THERMAL ENGINEERING/THERMAL ENGINEERING BATCH 2015-2016 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 May 2017
+- Text: ocr (2 pages), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+: rors ey
+SVKM’s NMIMS yA? tay
+
+i ="
+MUKESH PATEL SCHOOL OF TECHNGLOGY. MANAGEMENT & ENGHVEERING NS.
+
+Programme: MBA. Tech (Mechanical) Year: II Se ester: Ive ee Je
+~ ate
+Batch: 2015-2016 ews 5 is Ga”,
+Academic Year: 2016-2017 —
+
+Subject: Thermal Engineering
+
+Marks: 60
+Date: 08 May 2017 Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+
+No. of Pages: 2
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the aes paper and on the
+
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question no. ONE is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In ail FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Attempt any four questions
+
+a) State the methods of increasing the thermal efficiency of a Rankine cycle and explain 03
+any one method in brief. ,
+
+b) Discuss the significance of intercooling upon the performance of multi-stage 03
+compression
+
+c) What is meant by stoichiometric air-fuel ratio? 03
+
+d) What do you mean by air standard cycles? Discuss its’ significance. 03
+
+e) Differentiate between impulse and reaction turbines. 03
+
+f) Define Mach Number and Stagnation properties. 03
+
+Q.2. a) What is meant by free air delivered? 02
+
+b) Compare the influence of reheating, regeneration and intercooling on performance of 04
+gas turbine cycle.
+
+c) A single stage single acting reciprocating air compressor has air entering at 1 bar, 20°C 06
+and compression occurs following polytrophic process with index 1.2 up to the delivery
+pressure of 12 bar. The compressor runs at the speed of 240 rpm and has L/D ratio of
+1.8. The compressor has mechanical efficiency of 0.88. Determine the isothermal
+efficiency and cylinder dimensions. Also find out the rating of drive required to run the
+compressor which admits 1 m? of air per minute.
+
+Q.3. a) Steam at a pressure of 15 bar and 250°C is expanded through a turbine at first to a 06
+pressure of 4 bar. It is then reheated at constant pressure to the initial temperature of
+250°C and is finally expanded to 0.1 bar. Using Mollier chart, estimate the work done
+per kg of steam flowing through the turbine and amount of heat supplied during the
+process of reheat. Compare the work output when the expansion is direct from 15 bar to
+0.1 bar without any reheat Assume all expansion processes to be isentropic.
+
+b) A binary vapour cycle operates on mercury and steam. Standard mercury vapour at 4.5. 06
+
+bar is supplied to the mercury turbine, from which it exhausts at 0.04 bar. The mercury
+condenser generates saturated steam at 15 bar which is expanded in a steam turbine to
+0.04 bar. Determine the overall efficiency of the cycle. The properties of standard
+
+Yo
+--- page 2 ---
+Q.4 a)
+
+b)
+
+Q5 a)
+
+b)
+
+Q.6 a)
+b)
+
+Q7 a)
+c)
+
+mercury are given below
+45 450 62.93 855.98 0.1352 0.5897 79.9 x 10% 0.068
+0.04 216.9 29.98 329.85 0.0808 0.6925 76.5 x 10% 5.178.
+Write short notes on the following:
+(a) Nozzle efficiency (b) Velocity coefficient
+(c) Discharge coefficient (d) Critical velocity
+In a nozzle steam expands from 12 bar and 300_C to 6 bar with flow rate of 5 kg/s. 06
+Determine throat and exit area if exit velocity is 500 m/s and velocity at inlet to nozzle
+is negligible. Also find coefficient of velocity at exit. Coefficient of velocity is the ratio
+of actual velocity of fluid at nozzle exit to the velocity at exit considering isentropic
+flow through nozzle.
+In aclosed cycle gas turbine there is a two stage compressor and a two stage turbine. All 06
+the components are mounted on the same shaft. The pressure and temperature at the
+inlet of the first stage compressor are 1.5 bar and 20°C. The maximum cycle
+temperature and pressure are limited to 750°C and 6 bar. A perfect intercooler is used
+between the two stage compressors and a reheater is used between the two turbines.
+Gases are heated in the reheater to 750°C before entering into the L.P. turbine.
+Assuming the compressor and turbine efficiencies as 0.82, calculate :
+(i) The efficiency of the cycle without regenerator.
+(ii) The efficiency of the cycle with a regenerator whose effectiveness is 0.70.
+(iii) The mass of the fluid circulated if the power developed by the plant is 350 kW.
+The working fluid used in the cycle is air. For air :
+y = 1.4 and Cp = 1.005 kJ/kg K.
+The compression ratio and expansion ratio of an oil engine working on the dual cycle 06
+are 9 and 5 respectively. The initial pressure and temperature of the air are 1 bar and
+30°C. The heat liberated at constant pressure is twice the heat liberated at constant
+volume. The expansion and compression follow the law PV'** = constant. Determine:
+(i) Pressures and temperatures at all salient points.
+(ii) Mean effective pressure of the cycle.
+(iii) Efficiency of the cycle.
+(iv) Power of the engine if working cycles per second are 8.
+Assume : Cylinder bore = 250 mm and stroke length = 400 mm.
+Describe the velocity diagram for single stage impulse turbine. Also obtain the’ 06
+expressions for force, work done, diagram efficiency.
+In a single stage simple impulse turbine the steam flows at rate of 5 kg/s. It has rotor of 06
+1.2 m diameter running at 3000 rpm. Nozzle angle is 18°, blade speed ratio is 0.4,
+velocity coefficient is 0.9, outlet angle of blade is 3° less than inlet angle. Determine
+
+blade angles and power developed.
+
+06
+
+Define critical pressure ratio and state its significance. 02
+Explain working of Orsat analyzer for flue gas analysis. 04
+Compare Otto, Diesel and Dual cycle with the help of P-V and T-S diagram. 06
+
+h
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper e1ad6d50b4f5
@@ -2488,48 +2839,38 @@ ra x
 2/2
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper da6e7b526d9b
+## 2015-16 · Re-Exam · Sem 5 · paper e7d0f4000318
 
 - Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THERMAL ENGINEERING/THERMAL ENGINEERING BATCH 2015-2016 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 May 2017
-- Text: ocr (2 pages), mean OCR confidence 92.2
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/THERMAL ENGINEERING/THERMAL ENGINEERING B TECH (MECHANICAL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 25/11/2015
+- Text: ocr (3 pages), mean OCR confidence 90.7
 
 ````text
-: rors ey
-SVKM’s NMIMS yA? tay
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-i ="
-MUKESH PATEL SCHOOL OF TECHNGLOGY. MANAGEMENT & ENGHVEERING NS.
+Programme: B. Tech (Mechanical) Year: III Semester: V
 
-Programme: MBA. Tech (Mechanical) Year: II Se ester: Ive ee Je
-~ ate
-Batch: 2015-2016 ews 5 is Ga”,
-Academic Year: 2016-2017 —
-
-Subject: Thermal Engineering
-
-Marks: 60
-Date: 08 May 2017 Time: 2.00 pm to 5.00 pm
-
-Durations: 3 (hrs)
-
-No. of Pages: 2
+Batch: 2014-2015
+Academic Year: 2015-2016 a garnet Sekaa,
+Subject: Thermal Engineering aX
+Marks:
+Date: 25/11/2015 Time:
+Duration:
 
 Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the aes paper and on the
-
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question no. ONE is compulsory.
+1 Question No. 3 is compulsory.
 
-2) Out of remaining questions, attempt any 04 questions.
+2) Out of remaining questions, attempt any 4 questions.
 
-3) In ail FIVE questions to be attempted.
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -2537,113 +2878,264 @@ NB:
 
 6) Figures in brackets on the right hand side indicate full marks.
 
-7) Assume Suitable data if necessary.
+7)Use of steam table, suitable data, molliers chart and Gas tables are allowed
 
-Ql Attempt any four questions
+Q1) (a) Attempt any four of the following
+i. | Adiabatic combustion temperature
+ii.   Stochiometric fuel ratio
+iii. | Draw T-S diagram of reheat rankine cycle
+iv. Enthalpy of reaction
+v. Principle of working of screw compressors
+vi. Higher heating value of fuel
+vii. List affect of intercooling in multistage compression process (06)
 
-a) State the methods of increasing the thermal efficiency of a Rankine cycle and explain 03
-any one method in brief. ,
+(b) Prove that the critical pressure ratio for minimum discharge through the nozzle is given by
 
-b) Discuss the significance of intercooling upon the performance of multi-stage 03
-compression
+a
+Po 2 n-1
 
-c) What is meant by stoichiometric air-fuel ratio? 03
+Poritical = P, = nt1 wé)
 
-d) What do you mean by air standard cycles? Discuss its’ significance. 03
+Q2) (a) An engine with 200 mm cylinder diameter and 300 mm stroke works on theoretical Diesel cycle.
+The initial pressure and temperature of air used are | bar and 27°C. The cut-off is 8 % of the stroke. —
+Determine
 
-e) Differentiate between impulse and reaction turbines. 03
+1) Pressures and temperatures at all salient points
 
-f) Define Mach Number and Stagnation properties. 03
+2) Theoretical air standard efficiency
 
-Q.2. a) What is meant by free air delivered? 02
+3) Mean effective pressure.
 
-b) Compare the influence of reheating, regeneration and intercooling on performance of 04
-gas turbine cycle.
+4) Power of the engine if working cycles per minute are 380.
 
-c) A single stage single acting reciprocating air compressor has air entering at 1 bar, 20°C 06
-and compression occurs following polytrophic process with index 1.2 up to the delivery
-pressure of 12 bar. The compressor runs at the speed of 240 rpm and has L/D ratio of
-1.8. The compressor has mechanical efficiency of 0.88. Determine the isothermal
-efficiency and cylinder dimensions. Also find out the rating of drive required to run the
-compressor which admits 1 m? of air per minute.
+Assume that compression ratio is 15 and working fluid is air consider all conditions to be ideal. (OF)
 
-Q.3. a) Steam at a pressure of 15 bar and 250°C is expanded through a turbine at first to a 06
-pressure of 4 bar. It is then reheated at constant pressure to the initial temperature of
-250°C and is finally expanded to 0.1 bar. Using Mollier chart, estimate the work done
-per kg of steam flowing through the turbine and amount of heat supplied during the
-process of reheat. Compare the work output when the expansion is direct from 15 bar to
-0.1 bar without any reheat Assume all expansion processes to be isentropic.
-
-b) A binary vapour cycle operates on mercury and steam. Standard mercury vapour at 4.5. 06
-
-bar is supplied to the mercury turbine, from which it exhausts at 0.04 bar. The mercury
-condenser generates saturated steam at 15 bar which is expanded in a steam turbine to
-0.04 bar. Determine the overall efficiency of the cycle. The properties of standard
-
-Yo
+4,
 --- page 2 ---
-Q.4 a)
+(©) What is nozzles efficiency, write the Factors effecting nozzle efficiency. (5)
 
-b)
+Q3) (a) Write notes on any fayr: of the following
+i. Entropy changes for reacting mixtures
+ii. Effect of clearence volume on FAD and volumetric efficiency of compressor
+iii. | Actual brayton cycle for gas turbine
+iv. Comparison between centrifugal and axial flow compressors,
+v. | What are the advantages of multistage compression in air compressors
+vi. Brayton cycle with diagram and suitable air standard assumptions G)
 
-Q5 a)
+(b) What is modified rankine cycle? How it is different from rankine cycle ? Represent modified rankine
+cycle in T-S and P-V diagram. (6)
 
-b)
+Q4) (a) A simple impulse turbine has a mean speed of 200 m/s. The nozzles are inclined at 20° to the
+plane of rotation of blades. The steam velocity from nozzles is 600 m/s. The turbine uses 3500 kg/h of
+steam. The absolute velocity at exit is along the axis of the turbine determine:
 
-Q.6 a)
-b)
+i. The inlet and exit angle of blades
 
-Q7 a)
-c)
+ii. | The power output of the turbines
 
-mercury are given below
-pitbar) tC hfkdikg) h grdikg) 8, thdikg K) 8, hdtkg B+ Vp (mlkg) Uy (m3lkg)
-45 450 62.93 855.98 0.1352 0.5897 79.9 x 10% 0.068
-0.04 216.9 29.98 329.85 0.0808 0.6925 76.5 x 10% 5.178.
-Write short notes on the following:
-(a) Nozzle efficiency (b) Velocity coefficient
-(c) Discharge coefficient (d) Critical velocity
-In a nozzle steam expands from 12 bar and 300_C to 6 bar with flow rate of 5 kg/s. 06
-Determine throat and exit area if exit velocity is 500 m/s and velocity at inlet to nozzle
-is negligible. Also find coefficient of velocity at exit. Coefficient of velocity is the ratio
-of actual velocity of fluid at nozzle exit to the velocity at exit considering isentropic
-flow through nozzle.
-In aclosed cycle gas turbine there is a two stage compressor and a two stage turbine. All 06
-the components are mounted on the same shaft. The pressure and temperature at the
-inlet of the first stage compressor are 1.5 bar and 20°C. The maximum cycle
-temperature and pressure are limited to 750°C and 6 bar. A perfect intercooler is used
-between the two stage compressors and a reheater is used between the two turbines.
-Gases are heated in the reheater to 750°C before entering into the L.P. turbine.
-Assuming the compressor and turbine efficiencies as 0.82, calculate :
-(i) The efficiency of the cycle without regenerator.
-(ii) The efficiency of the cycle with a regenerator whose effectiveness is 0.70.
-(iii) The mass of the fluid circulated if the power developed by the plant is 350 kW.
-The working fluid used in the cycle is air. For air :
-y = 1.4 and Cp = 1.005 kJ/kg K.
-The compression ratio and expansion ratio of an oil engine working on the dual cycle 06
-are 9 and 5 respectively. The initial pressure and temperature of the air are 1 bar and
-30°C. The heat liberated at constant pressure is twice the heat liberated at constant
-volume. The expansion and compression follow the law PV'** = constant. Determine:
-(i) Pressures and temperatures at all salient points.
-(ii) Mean effective pressure of the cycle.
-(iii) Efficiency of the cycle.
-(iv) Power of the engine if working cycles per second are 8.
-Assume : Cylinder bore = 250 mm and stroke length = 400 mm.
-Describe the velocity diagram for single stage impulse turbine. Also obtain the’ 06
-expressions for force, work done, diagram efficiency.
-In a single stage simple impulse turbine the steam flows at rate of 5 kg/s. It has rotor of 06
-1.2 m diameter running at 3000 rpm. Nozzle angle is 18°, blade speed ratio is 0.4,
-velocity coefficient is 0.9, outlet angle of blade is 3° less than inlet angle. Determine
+iii. The blade efficiency
+iv. The axial thrust &)
+(b) Draw P-V and T-S diagram for dual cycle and explain each stage of it. (4)
 
-blade angles and power developed.
+Q5) (a) Consider an air standard brayton cycle in which the air enters the compressor at 1.0 bar and 20°C.
+The pressure of air leaving the compressor is 3.5 bar and the temperature at turbine inlet is 600°C.
+Determine per kg of air:
+i. efficiency of the cycle
+ii. heat supplied to air
+ii. | work available at the shaft
+iv. heat rejected in the cooler
+v. Temperature of air leaving the turbine.
+Given data: For air gamma=1.4 and cp = 1.005 kJ/kg K. (6)
+(b) Compare the efficiency of Otto and diesel cycle using P-V and T-S diagrains for the following cases
+|. Same compression ratio and same heat input
+il. Constant maximum pressure and heat supplied. (6)
 
-06
+Q6) (a) Derive an expression for volumetric efficiency of an air compressor. Write all suitable
 
-Define critical pressure ratio and state its significance. 02
-Explain working of Orsat analyzer for flue gas analysis. 04
-Compare Otto, Diesel and Dual cycle with the help of P-V and T-S diagram. 06
+—" assumptions and show proper diagram. (4)
+(b) Superheated Steam at a pressure of 10 bar and 400°C is delivered to the throttle of an engine.
+a Adiabatic expansion takes place to release point at 0.9 bar and it exhausts into a condenser at 0.3
 
-h
+bar.neglecting clearance determine for a steam flow rate of 1.5 kg/s
+IL. Quality of steam at the end of expansion and end of constant volume operation.
+--- page 3 ---
+Il. Power developed
+Ill. Specific steam consumption
+IV. Modified Rankine efficiency. (8)
+Q7) (a) What is a nozzle, list applications of nozzles. Dry saturated steam at a pressure of 11 bar enters a
+Converging Diverging nozzle and leaves at a pressure of 2 bar. If the flow is adiabatic and frictionless,
+determine the following:
+|. The exit velocity of steam
+ll. Ratio of cross section at exit and that at throat.
+Assume index of adiabatic expansion to be 1.135. Ce)
+
+b) What are the advantages of multistage compression in air compressors. Derive the expression for
+work done in case of perfect intercooling. C) )
+
+__ XK 7
+
+als
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper e053be3eae65
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THERMAL ENGINEERING/Thermal Engineering Batch 2014-15 Re Exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 07/05/2016
+- Text: ocr (5 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Mechanical) Year: II Semester: IV
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Thermal Engineering Mar! aA
+Times2.00 pm -.5.00 pm
+Date: 07/05/2016 Duration: 3 (hrs) iF
+4 os
+Pn tl
+
+Re-Examination ’ Nee .
+
+Instruction: Candidates should read carefully the instructions printed on the questi 1
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1(one) is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+8) Use of Steam Tables ,Mollier Diagram, Gas Tables allowed.
+
+Q1] Solve any Four of following: [12-Marks]
+
+1) Define the volumetric efficiency of a compressor and on what factors does it depend?
+
+2) Explain significance of Mach Number for study of compressible fluid flow through
+nozzles.
+
+3) What are open and closed feed water heater used in a steam power plant?
+
+4) Explain Dual cycle with help of p-V and T-s diagram.
+
+5) Differentiate between impulse steam turbine and reaction steam turbine.
+
+6) What is “ adiabatic flame temperature”?
+
+7) A stream of air flows in a duct of 100mm diameter at a rate of 1 kg/s. The stagnation
+temperature is 37°C. At one section of the duct the static pressure is 40kPa. Calculate the
+
+Mach Number, Velocity and stagnation pressure at this section.
+
+Q2] a) i) A two stage air compressor with perfect intercooling takes in air at 1 bar pressure and
+27°C. The law of compression in both the stages is pv'3=constant. The compressed air is
+delivered at 9 bar from H.P. cylinder to an air receiver. Calculate, per kilogram of air
+1: The minimum work done and 2: The heat rejected to the intercooler. [03-Marks]
+ii) Explain advantages of multistage compression. [03-Marks]
+
+b) A single inlet-type centrifugal compressor handles 528 kg/min of air. The ambient air
+
+conditions are bar and 20°C. The compressor runs at 20000 rpm with isentropic efficiency of .
+80%. The air is compressed in the compressor from Ibar static pressure to 4 bar total pressure.
+
+ls
+--- page 2 ---
+The air enters the impeller eye with a velocity of 145 m/s with no prewhirl. Assuming that the
+ratio of whirl speed to tip speed is 0.9, calculate: 1.Rise in total temperature during compression
+if the change in K.E. is negligible 2.The tip diameter of the impeller. [06-Marks]
+
+Q3]a)In a Rankine cycle, the steam at inlet to turbine is saturated at a pressure of 30 bar and the
+exhaust pressure is 0.25 bar. Determine: 1.The pump work 2.Turbine power 3.Cycle efficiency
+4. The dryness at the end of expansion. Assume flow rate of 10 kg/s. [06-Marks]
+b) In a single-heater regenerative cycle the steam enters the turbine at 30 bar, 400°C and the
+exhaust pressure is 0.1 bar. The feed water heater is a direct-contact type which operates at
+5 bar. Find: 1.The efficiency and steam rate of the cycle 2.The increase in efficiency and steam
+rate, as compared to the Rankine cycle(without regeneration). Neglect pump work. [06-Marks]
+
+Q4ja) A conicai air diffuser has an intake area of 0.11m? and an exit area of 0.44m?. Air enters
+the diffuser with a static pressure of 0.18 MPa, static temperature of 37°C and velocity of
+267 m/s. Calculate: 1.The mass flow rate of air through the diffuser 2. The Mach Number, Static
+Temperature, and Static pressure of air leaving the diffuser 3.The net thrust acting upon the
+diffuser, assuming that its outer surfaces are wetted by the atmospheric pressure at 0.1MPa.
+[06-Marks]
+b)i) Steam is expanded in a nozzle from 10bar and 200°C to 5 bar. Neglecting the initial
+velocity find minimum area of nozzle required to allow a flow of 3 kg/s under the given
+
+conditions. Assume that expansion of steam to be isentropic. [03-Marks]
+ii) What is a Rayleigh line? Why do the end states of a normal shock lie on the Rayleigh line?
+[03-Marks}
+
+Q5]a)i) Compare Otto, Diesel and Dual cycle on the basis of compression ratio. [03-Marks]
+ii) In an air standard Diesel cycle, the compression ratio is 16, and at the beginning of isentropic
+compression, the temperature is 15°C and the pressure is 0.1MPa. Heat is added until the
+temperature at the of the constant pressure process is 1480°C. Calculate:
+1.The cut-off ratio 2.The heat supplied per kg of air 3.The cycle efficiency. [03-Marks]
+
+b) In an air-standard regenerative gas turbine cycle the pressure ratio is 5. Air enters the
+compressor at 1 bar, 27°C and leaves at 217°C. The maximum temperature in the cycle is
+727°C. Calculate the cycle efficiency, given that the efficiency of the regenerator and the
+adiabatic efficiency of the turbine are each 80%. Assume for air, the ratio of specific heats is 1.4,
+Also show the cycle on T-s diagram. [06-Marks]
+
+Q6]a) The velocity of steam exiting the nozzle of the impulse stage of turbine is 400 m/s. The
+blade operate close to the maximum blading efficiency. The nozzle angle is 20°. Considering
+equiangular blades and neglecting blade friction, for a steam flow of 0.6 kg/s calculate:
+1.Diagram power 2.Diagram efficiency. [06-Marks]
+
+als
+cat Soe
+--- page 3 ---
+b) A 50% reaction turbine(with symmetrical velocity triangles) running at 400 rpm has the exit
+angle of the blades as 20° and velocity of steam relative to the blades at the exit is 1.35 times the
+mean blade speed. The steam flow rate is 8.33 kg/s and at a particular stage the specific volume
+is 1.381m3/kg. Calculate for this stage: 1.A suitable blade height, assuming the rotor mean
+
+diameter 12 times the blade height 2.The diagram work. [06-Marks]
+
+Q7Ja)i)The pressure ratio is an important parameter for analyzing gas turbine cycle. Do you
+
+agree? If so, why? [03-Marks]
+[03-Marks]
+
+ii) Explain use of Orsat apparatus.
+b)i) Explain thermodynamic cycle on which aircraft gas turbines operates. [03-Marks]
+
+ii) Define following terms associated with steam turbines: [03-Marks]
+1.Diagram Efficiency 2.Stage Efficiency
+--- page 4 ---
+ow of a Perfect Gas
+= 1.4)
+
+(Contd...)
+--- page 5 ---
+524 FUNDAMENTALS OF CompREssiBLE Flow
+
+u
+
+1.80 1.536 0.607 ] 0174. “| “1.439 T ~ 1,093. oT “0.250. “]
+1.90 1.586 0.581 0.149 1.555 1,108 0.232
+2.00 1.633 0.555 0.128 1.687 1,123 0.215
+2.25 1.737 0.497 © 0.0865 2,096 1.156 0.181
+2.50 1.826 0.444 0.0585 2.637 1.187 0.154
+2.75 1.900 0.398 0.0397 3.337 1.218 0.188
+3.00 1.964 0.357 0.027 4.234 1.236 0.115
+3.50 2.064 0.289 0.018 6.789 1.274 0.089
+4.00 2.138 0.238 9.00658 10.719 1.303 0.0706
+4.50 2.194 0.198 0.00346 16.562 1.325 0.057
+5.00 2.236 0166 | 0.00189 25.000 1.341 0.047
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 7c04d5a637e1
@@ -3040,6 +3532,7 @@ Gy
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THERMAL ENGINEERING/THERMAL ENGINEERING BATCH 2014-2015 FINAL.pdf`
 - Printed on paper: exam date: 08/05/2015
 - Text: ocr (5 pages), mean OCR confidence 78.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \
@@ -3193,7 +3686,6 @@ Q7] Write short note on following: (any three)
 --- page 4 ---
 f Perfect
 
-oer teh meer ege
 
 Gas
 --- page 5 ---
@@ -3342,144 +3834,6 @@ IV. Higher heating value with example
 V. lower heating value with example . S
 
 4
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper e7d0f4000318
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/THERMAL ENGINEERING/THERMAL ENGINEERING B TECH (MECHANICAL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 25/11/2015
-- Text: ocr (3 pages), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Mechanical) Year: III Semester: V
-
-Batch: 2014-2015
-Academic Year: 2015-2016 a garnet Sekaa,
-Subject: Thermal Engineering aX
-Marks:
-Date: 25/11/2015 Time:
-Duration:
-
-Re-Examination
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1 Question No. 3 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7)Use of steam table, suitable data, molliers chart and Gas tables are allowed
-
-Q1) (a) Attempt any four of the following
-i. | Adiabatic combustion temperature
-ii.   Stochiometric fuel ratio
-iii. | Draw T-S diagram of reheat rankine cycle
-iv. Enthalpy of reaction
-v. Principle of working of screw compressors
-vi. Higher heating value of fuel
-vii. List affect of intercooling in multistage compression process (06)
-
-(b) Prove that the critical pressure ratio for minimum discharge through the nozzle is given by
-
-a
-Po 2 n-1
-
-Poritical = P, = nt1 wé)
-
-Q2) (a) An engine with 200 mm cylinder diameter and 300 mm stroke works on theoretical Diesel cycle.
-The initial pressure and temperature of air used are | bar and 27°C. The cut-off is 8 % of the stroke. —
-Determine
-
-1) Pressures and temperatures at all salient points
-
-2) Theoretical air standard efficiency
-
-3) Mean effective pressure.
-
-4) Power of the engine if working cycles per minute are 380.
-
-Assume that compression ratio is 15 and working fluid is air consider all conditions to be ideal. (OF)
-
-4,
---- page 2 ---
-(©) What is nozzles efficiency, write the Factors effecting nozzle efficiency. (5)
-
-Q3) (a) Write notes on any fayr: of the following
-i. Entropy changes for reacting mixtures
-ii. Effect of clearence volume on FAD and volumetric efficiency of compressor
-iii. | Actual brayton cycle for gas turbine
-iv. Comparison between centrifugal and axial flow compressors,
-v. | What are the advantages of multistage compression in air compressors
-vi. Brayton cycle with diagram and suitable air standard assumptions G)
-
-(b) What is modified rankine cycle? How it is different from rankine cycle ? Represent modified rankine
-cycle in T-S and P-V diagram. (6)
-
-Q4) (a) A simple impulse turbine has a mean speed of 200 m/s. The nozzles are inclined at 20° to the
-plane of rotation of blades. The steam velocity from nozzles is 600 m/s. The turbine uses 3500 kg/h of
-steam. The absolute velocity at exit is along the axis of the turbine determine:
-
-i. The inlet and exit angle of blades
-
-ii. | The power output of the turbines
-
-iii. The blade efficiency
-iv. The axial thrust &)
-(b) Draw P-V and T-S diagram for dual cycle and explain each stage of it. (4)
-
-Q5) (a) Consider an air standard brayton cycle in which the air enters the compressor at 1.0 bar and 20°C.
-The pressure of air leaving the compressor is 3.5 bar and the temperature at turbine inlet is 600°C.
-Determine per kg of air:
-i. efficiency of the cycle
-ii. heat supplied to air
-ii. | work available at the shaft
-iv. heat rejected in the cooler
-v. Temperature of air leaving the turbine.
-Given data: For air gamma=1.4 and cp = 1.005 kJ/kg K. (6)
-(b) Compare the efficiency of Otto and diesel cycle using P-V and T-S diagrains for the following cases
-|. Same compression ratio and same heat input
-il. Constant maximum pressure and heat supplied. (6)
-
-Q6) (a) Derive an expression for volumetric efficiency of an air compressor. Write all suitable
-
-—" assumptions and show proper diagram. (4)
-(b) Superheated Steam at a pressure of 10 bar and 400°C is delivered to the throttle of an engine.
-a Adiabatic expansion takes place to release point at 0.9 bar and it exhausts into a condenser at 0.3
-
-bar.neglecting clearance determine for a steam flow rate of 1.5 kg/s
-IL. Quality of steam at the end of expansion and end of constant volume operation.
---- page 3 ---
-Il. Power developed
-Ill. Specific steam consumption
-IV. Modified Rankine efficiency. (8)
-Q7) (a) What is a nozzle, list applications of nozzles. Dry saturated steam at a pressure of 11 bar enters a
-Converging Diverging nozzle and leaves at a pressure of 2 bar. If the flow is adiabatic and frictionless,
-determine the following:
-|. The exit velocity of steam
-ll. Ratio of cross section at exit and that at throat.
-Assume index of adiabatic expansion to be 1.135. Ce)
-
-b) What are the advantages of multistage compression in air compressors. Derive the expression for
-work done in case of perfect intercooling. C) )
-
-__ XK 7
-
-als
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper eddf09fd34fd
@@ -3657,167 +4011,6 @@ a] D. Comparison between reciprocating and rotary compressor.
 E. Explain Stagnation Properties.
 
 3/3
-````
-
-## 2014-15 · Re-Exam · Sem 4 · paper e053be3eae65
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/THERMAL ENGINEERING/Thermal Engineering Batch 2014-15 Re Exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 07/05/2016
-- Text: ocr (5 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Mechanical) Year: II Semester: IV
-Academic Year: 2015-16
-
-Batch: 2014-15
-
-Subject: Thermal Engineering Mar! aA
-Times2.00 pm -.5.00 pm
-Date: 07/05/2016 Duration: 3 (hrs) iF
-4 os
-Pn tl
-
-Re-Examination ’ Nee .
-
-Instruction: Candidates should read carefully the instructions printed on the questi 1
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1(one) is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-8) Use of Steam Tables ,Mollier Diagram, Gas Tables allowed.
-
-Q1] Solve any Four of following: [12-Marks]
-
-1) Define the volumetric efficiency of a compressor and on what factors does it depend?
-
-2) Explain significance of Mach Number for study of compressible fluid flow through
-nozzles.
-
-3) What are open and closed feed water heater used in a steam power plant?
-
-4) Explain Dual cycle with help of p-V and T-s diagram.
-
-5) Differentiate between impulse steam turbine and reaction steam turbine.
-
-6) What is “ adiabatic flame temperature”?
-
-7) A stream of air flows in a duct of 100mm diameter at a rate of 1 kg/s. The stagnation
-temperature is 37°C. At one section of the duct the static pressure is 40kPa. Calculate the
-
-Mach Number, Velocity and stagnation pressure at this section.
-
-Q2] a) i) A two stage air compressor with perfect intercooling takes in air at 1 bar pressure and
-27°C. The law of compression in both the stages is pv'3=constant. The compressed air is
-delivered at 9 bar from H.P. cylinder to an air receiver. Calculate, per kilogram of air
-1: The minimum work done and 2: The heat rejected to the intercooler. [03-Marks]
-ii) Explain advantages of multistage compression. [03-Marks]
-
-b) A single inlet-type centrifugal compressor handles 528 kg/min of air. The ambient air
-
-conditions are bar and 20°C. The compressor runs at 20000 rpm with isentropic efficiency of .
-80%. The air is compressed in the compressor from Ibar static pressure to 4 bar total pressure.
-
-ls
---- page 2 ---
-The air enters the impeller eye with a velocity of 145 m/s with no prewhirl. Assuming that the
-ratio of whirl speed to tip speed is 0.9, calculate: 1.Rise in total temperature during compression
-if the change in K.E. is negligible 2.The tip diameter of the impeller. [06-Marks]
-
-Q3]a)In a Rankine cycle, the steam at inlet to turbine is saturated at a pressure of 30 bar and the
-exhaust pressure is 0.25 bar. Determine: 1.The pump work 2.Turbine power 3.Cycle efficiency
-4. The dryness at the end of expansion. Assume flow rate of 10 kg/s. [06-Marks]
-b) In a single-heater regenerative cycle the steam enters the turbine at 30 bar, 400°C and the
-exhaust pressure is 0.1 bar. The feed water heater is a direct-contact type which operates at
-5 bar. Find: 1.The efficiency and steam rate of the cycle 2.The increase in efficiency and steam
-rate, as compared to the Rankine cycle(without regeneration). Neglect pump work. [06-Marks]
-
-Q4ja) A conicai air diffuser has an intake area of 0.11m? and an exit area of 0.44m?. Air enters
-the diffuser with a static pressure of 0.18 MPa, static temperature of 37°C and velocity of
-267 m/s. Calculate: 1.The mass flow rate of air through the diffuser 2. The Mach Number, Static
-Temperature, and Static pressure of air leaving the diffuser 3.The net thrust acting upon the
-diffuser, assuming that its outer surfaces are wetted by the atmospheric pressure at 0.1MPa.
-[06-Marks]
-b)i) Steam is expanded in a nozzle from 10bar and 200°C to 5 bar. Neglecting the initial
-velocity find minimum area of nozzle required to allow a flow of 3 kg/s under the given
-
-conditions. Assume that expansion of steam to be isentropic. [03-Marks]
-ii) What is a Rayleigh line? Why do the end states of a normal shock lie on the Rayleigh line?
-[03-Marks}
-
-Q5]a)i) Compare Otto, Diesel and Dual cycle on the basis of compression ratio. [03-Marks]
-ii) In an air standard Diesel cycle, the compression ratio is 16, and at the beginning of isentropic
-compression, the temperature is 15°C and the pressure is 0.1MPa. Heat is added until the
-temperature at the of the constant pressure process is 1480°C. Calculate:
-1.The cut-off ratio 2.The heat supplied per kg of air 3.The cycle efficiency. [03-Marks]
-
-b) In an air-standard regenerative gas turbine cycle the pressure ratio is 5. Air enters the
-compressor at 1 bar, 27°C and leaves at 217°C. The maximum temperature in the cycle is
-727°C. Calculate the cycle efficiency, given that the efficiency of the regenerator and the
-adiabatic efficiency of the turbine are each 80%. Assume for air, the ratio of specific heats is 1.4,
-Also show the cycle on T-s diagram. [06-Marks]
-
-Q6]a) The velocity of steam exiting the nozzle of the impulse stage of turbine is 400 m/s. The
-blade operate close to the maximum blading efficiency. The nozzle angle is 20°. Considering
-equiangular blades and neglecting blade friction, for a steam flow of 0.6 kg/s calculate:
-1.Diagram power 2.Diagram efficiency. [06-Marks]
-
-als
-cat Soe
---- page 3 ---
-b) A 50% reaction turbine(with symmetrical velocity triangles) running at 400 rpm has the exit
-angle of the blades as 20° and velocity of steam relative to the blades at the exit is 1.35 times the
-mean blade speed. The steam flow rate is 8.33 kg/s and at a particular stage the specific volume
-is 1.381m3/kg. Calculate for this stage: 1.A suitable blade height, assuming the rotor mean
-
-diameter 12 times the blade height 2.The diagram work. [06-Marks]
-
-Q7Ja)i)The pressure ratio is an important parameter for analyzing gas turbine cycle. Do you
-
-agree? If so, why? [03-Marks]
-[03-Marks]
-
-ii) Explain use of Orsat apparatus.
-b)i) Explain thermodynamic cycle on which aircraft gas turbines operates. [03-Marks]
-
-ii) Define following terms associated with steam turbines: [03-Marks]
-1.Diagram Efficiency 2.Stage Efficiency
---- page 4 ---
-ow of a Perfect Gas
-= 1.4)
-
-(Contd...)
---- page 5 ---
-524 FUNDAMENTALS OF CompREssiBLE Flow
-
-u
-
-1.80 1.536 0.607 ] 0174. “| “1.439 T ~ 1,093. oT “0.250. “]
-1.90 1.586 0.581 0.149 1.555 1,108 0.232
-2.00 1.633 0.555 0.128 1.687 1,123 0.215
-2.25 1.737 0.497 © 0.0865 2,096 1.156 0.181
-2.50 1.826 0.444 0.0585 2.637 1.187 0.154
-2.75 1.900 0.398 0.0397 3.337 1.218 0.188
-3.00 1.964 0.357 0.027 4.234 1.236 0.115
-3.50 2.064 0.289 0.018 6.789 1.274 0.089
-4.00 2.138 0.238 9.00658 10.719 1.303 0.0706
-4.50 2.194 0.198 0.00346 16.562 1.325 0.057
-5.00 2.236 0166 | 0.00189 25.000 1.341 0.047
 ````
 
 ## 2013-14 · Final-Exam · Sem 5 · paper 73546c5cec21
@@ -4391,81 +4584,7 @@ Y Md
 10
 ````
 
-## 2012-13 · Exam not stated · Trim 5 · paper 6801e59f439b
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM V/THERMAL ENGINEERING/THERMAL ENGINEERING 2012-13.pdf`
-- Printed on paper: duration hours: 3; exam date: 07/02/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School Of Technology Management
-Programme: MBA (Tech) -MECHANICAL   Year:   11 Trimeste
-Academic Year : 2012-2013
-Subject:   THERMAL ENGINEERING   Marks:
-Date:   07/02/2013   Time:   2.00 p.m To 5.00 p.m
-Duration:   3   hrs.
-Final - Examination
-NB:
-1. Question No. 1 is compulsory.
-2. Out of the remaining questions, attempt any four questions.
-3. In all, five questions to be attempted.
-1. Write a short note on any four of the following.
-(a) Gouy-Stodola theorem
-(b) Mercury-Steam binary vapour cycle
-(c) Regeneration in gas turbines
-(d) Volumetric efficiency and isothermal efficiency of a reciprocating compressor
-(e) Principle of operation of impulse steam turbine and reaction steam turbine
-(f) The relationship between the shape of the passage (convergent, divergent) and its function (nozzle or
-or diffuser) for subsonic and supersonic flows
-2. (a) Define availability. Write the expression for it for steady flow process and non-flow (closed system)
-process.   6M
-(b) Air expands through a turbine from 500 kPa, 520 OC to 100 kPa, 300 OC. During expansion, 10 kJlkg of
-I   heat is lost to the surroundings which is at 98 kPa, 20 OC. Neglecting the K.E. and P.E. changes,
-determine per kg of air (i) the decrease in availability, (ii) the maximum work, and (iii) the irreversibility.
-For air, take c, = 1.005 kJ/kgK and h = c,T . T is in Kelvin.   14M
-3. (a) Make a comparison of Rankine and Carnot cycles. Explain why Carnot cycle is not practicable.   8M
-(b) In a single-heater regenerative cycle the steam enters the turbine with an enthalpy 3230.9 kJ1kg and
-leaves the turbine with an enthalpy 2192.2 kJkg. The feed water heating is done by steam bled at 5
-bar, enthalpy 2796 kJlkg. The feed water heater is a direct contact type which operates at 5 bar. The
-condensate from a condenser with an enthalpy of 191.83 kJlkg enters into the feed heater. The water
-leaving the feed heater is saturated liquid at 5 bar (enthalpy 640.23 kJlkg ). Neglect pump work.
-Determine (i) the cycle efficiency and the steam rate (kg/kW . -   h) and (ii) the increase in efficiency and
-steam rate, as compared to the Rankine cycle (without regeneration).   12M
-4?(a) Explain the effect of intercooling and reheating on gas turbine cycle (Joule cycle ).   6M
-(b) In a gas turbine plant the ratio of T,,,   / Tmin is fixed. Arrangement consists of a single-stage
-compression followed by expansion in two turbines of equal pressure ratios with reheat to the maximum
-cycle temperature. If qc and r   l are ~   the compressor and turbine efficiencies (isentropic efficiencies),
-(i) derive the expression for the overall pressure ratio corresponding to the optimum specific output.   If
-qc is 0.85 and r   l is ~ 0.9, y is 1.4 and T,,, I T,,   is 3.5, determine (ii) the above pressure ratio for
-optimum specific output and (iii) optimum specific output in terms of c, and Tmi,.   14M
---- page 2 ---
-5. (a) Explain with a sketch the working of a centrifugal compressdr. Show the pressure and velocity
-variations in impeller and diffuser.   6M
-(b) A single-acting.twostage reciprocating air compressor with complete intercooling and minimum power
-requirement delivers 10.5 kglmin of air at 16 bar. The suction occurs at 1 bar and 27 OC. The
-compression and expansion processes are reversible, polytropic index n = 1.3. Calculate (i) the power
-required to drive the compressor (ii) the isothermal efficiency (iii) the free air delivery (iv) the heat
-transferred in intercooler. R = 0.287 kJkgK and c,, = 1.005 kJ/kgK.
-The compressor runs at 440 RPM. (v) If the clearance ratios for L.P. and H.P. cylinders are 0.04 and
-0.06 respectively, calculate the swept and clearance volumes for each cylinder.   14M
-6. (a) Explain (i) the velocity compounded impulse steam turbine and (ii) pressure compounded impulse
-steam turbine showing pressure and velocity variations along the axis of the turbine.   6M
-(b) A simple impulse turbine has a mean blade speed of 200 mls. The nozzles are inclined at 20° to the
-plane of rotation of the blades. The steam velocity from the nozzles is 600 mls. The turbine uses 3500
-kglh of steam. The absolute velocity at exit is along the axis of t h turbine. ~   Assuming equiangular
-blades (moving blade inlet and outlet angles are equal), determine (i) the inlet and outlet angles of the
-blades, (ii) the power output of the turbine, (iii) the diagram efficiency and (iv) the axial thrust.   14M
-7. (a) Explain critical pressure ratio and maximum discharge through nozzle.   6M
-(b) Determine the throat area, exit area and exit velocity for a steam nozzle to pass a mass flow of 0.2 kgls
-when inlet conditions are 10 bar and 250 OC and the final pressure is 2 bar. Assume expansion is
-isentropic and that the inlet velocity is negligible. Use P V ' . ~ = constant and ideal gas equation of state
-with R = 0.462 kJ1kgK.   14M
-````
-
-## 2012-13 · Re-Exam · Trim 5 · paper 76621d0e5a0f
+## 2013-14 · Re-Exam · Trim 5 · paper 76621d0e5a0f
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -4594,7 +4713,7 @@ nozzle angle is 21° and blade friction factor is 0.95 . Determine.
 10
 ````
 
-## 2012-13 · Re-Exam · Trim 5 · paper c17f28721c55
+## 2013-14 · Re-Exam · Trim 5 · paper c17f28721c55
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -4742,6 +4861,80 @@ af
 10
 ````
 
+## 2012-13 · Exam not stated · Trim 5 · paper 6801e59f439b
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM V/THERMAL ENGINEERING/THERMAL ENGINEERING 2012-13.pdf`
+- Printed on paper: duration hours: 3; exam date: 07/02/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Patel School Of Technology Management
+Programme: MBA (Tech) -MECHANICAL   Year:   11 Trimeste
+Academic Year : 2012-2013
+Subject:   THERMAL ENGINEERING   Marks:
+Date:   07/02/2013   Time:   2.00 p.m To 5.00 p.m
+Duration:   3   hrs.
+Final - Examination
+NB:
+1. Question No. 1 is compulsory.
+2. Out of the remaining questions, attempt any four questions.
+3. In all, five questions to be attempted.
+1. Write a short note on any four of the following.
+(a) Gouy-Stodola theorem
+(b) Mercury-Steam binary vapour cycle
+(c) Regeneration in gas turbines
+(d) Volumetric efficiency and isothermal efficiency of a reciprocating compressor
+(e) Principle of operation of impulse steam turbine and reaction steam turbine
+(f) The relationship between the shape of the passage (convergent, divergent) and its function (nozzle or
+or diffuser) for subsonic and supersonic flows
+2. (a) Define availability. Write the expression for it for steady flow process and non-flow (closed system)
+process.   6M
+(b) Air expands through a turbine from 500 kPa, 520 OC to 100 kPa, 300 OC. During expansion, 10 kJlkg of
+I   heat is lost to the surroundings which is at 98 kPa, 20 OC. Neglecting the K.E. and P.E. changes,
+determine per kg of air (i) the decrease in availability, (ii) the maximum work, and (iii) the irreversibility.
+For air, take c, = 1.005 kJ/kgK and h = c,T . T is in Kelvin.   14M
+3. (a) Make a comparison of Rankine and Carnot cycles. Explain why Carnot cycle is not practicable.   8M
+(b) In a single-heater regenerative cycle the steam enters the turbine with an enthalpy 3230.9 kJ1kg and
+leaves the turbine with an enthalpy 2192.2 kJkg. The feed water heating is done by steam bled at 5
+bar, enthalpy 2796 kJlkg. The feed water heater is a direct contact type which operates at 5 bar. The
+condensate from a condenser with an enthalpy of 191.83 kJlkg enters into the feed heater. The water
+leaving the feed heater is saturated liquid at 5 bar (enthalpy 640.23 kJlkg ). Neglect pump work.
+Determine (i) the cycle efficiency and the steam rate (kg/kW . -   h) and (ii) the increase in efficiency and
+steam rate, as compared to the Rankine cycle (without regeneration).   12M
+4?(a) Explain the effect of intercooling and reheating on gas turbine cycle (Joule cycle ).   6M
+(b) In a gas turbine plant the ratio of T,,,   / Tmin is fixed. Arrangement consists of a single-stage
+compression followed by expansion in two turbines of equal pressure ratios with reheat to the maximum
+cycle temperature. If qc and r   l are ~   the compressor and turbine efficiencies (isentropic efficiencies),
+(i) derive the expression for the overall pressure ratio corresponding to the optimum specific output.   If
+qc is 0.85 and r   l is ~ 0.9, y is 1.4 and T,,, I T,,   is 3.5, determine (ii) the above pressure ratio for
+optimum specific output and (iii) optimum specific output in terms of c, and Tmi,.   14M
+--- page 2 ---
+5. (a) Explain with a sketch the working of a centrifugal compressdr. Show the pressure and velocity
+variations in impeller and diffuser.   6M
+(b) A single-acting.twostage reciprocating air compressor with complete intercooling and minimum power
+requirement delivers 10.5 kglmin of air at 16 bar. The suction occurs at 1 bar and 27 OC. The
+compression and expansion processes are reversible, polytropic index n = 1.3. Calculate (i) the power
+required to drive the compressor (ii) the isothermal efficiency (iii) the free air delivery (iv) the heat
+transferred in intercooler. R = 0.287 kJkgK and c,, = 1.005 kJ/kgK.
+The compressor runs at 440 RPM. (v) If the clearance ratios for L.P. and H.P. cylinders are 0.04 and
+0.06 respectively, calculate the swept and clearance volumes for each cylinder.   14M
+6. (a) Explain (i) the velocity compounded impulse steam turbine and (ii) pressure compounded impulse
+steam turbine showing pressure and velocity variations along the axis of the turbine.   6M
+(b) A simple impulse turbine has a mean blade speed of 200 mls. The nozzles are inclined at 20° to the
+plane of rotation of the blades. The steam velocity from the nozzles is 600 mls. The turbine uses 3500
+kglh of steam. The absolute velocity at exit is along the axis of t h turbine. ~   Assuming equiangular
+blades (moving blade inlet and outlet angles are equal), determine (i) the inlet and outlet angles of the
+blades, (ii) the power output of the turbine, (iii) the diagram efficiency and (iv) the axial thrust.   14M
+7. (a) Explain critical pressure ratio and maximum discharge through nozzle.   6M
+(b) Determine the throat area, exit area and exit velocity for a steam nozzle to pass a mass flow of 0.2 kgls
+when inlet conditions are 10 bar and 250 OC and the final pressure is 2 bar. Assume expansion is
+isentropic and that the inlet velocity is negligible. Use P V ' . ~ = constant and ideal gas equation of state
+with R = 0.462 kJ1kgK.   14M
+````
+
 ## 2012-13 · Re-Exam · Trim 5 · paper fb2005f7154a
 
 - Departments: Mechanical
@@ -4749,6 +4942,8 @@ af
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM V/THERMAL ENGINEERING/THERMAL ENGINEERING V (MECHANICAL) MBA TECH 2012-13 RE EXAM.pdf`
 - Printed on paper: exam date: 17/06/2013
 - Text: mixed (12 pages), mean OCR confidence 55.9
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 .,
@@ -4846,7 +5041,6 @@ ge iise
 
 A.10
 Tale 4.10.1 Isentropic Flow
-M M* A Be P. Pi
 ; At Py Py 18
 0 me) oe 1.00000 1.00000 1.00000
 0.10 0.10943 5.8218 (1.99303 0.99502 0.99800
@@ -4935,7 +5129,6 @@ Table AAA (Contd.)
 Specific Volume, pr/ke Internal Energy, Wikg : Enthalpy, kik Gn Entropy, Wike =
 Presi Sar. Sat. Sat, . Sat. Sat. 4 Sat, .
 _ Po, MPe Liquid ° Vapour Liquid —.. Evap. Vapour Liquid Evap- Vaponr Liquid ei Spour
-ae ae v% on a yt te “hy I ae fe 8
 
 305 PF o.12082 0001047 1.4194 440.00 © 2072.3 ° 2512.3 440.13 2243.7 =— i ee ots
 110 0.14328 = 001052 «1.2102 «461.12 © - 2057.0 2518.1 461.27 Boe as ee ee ee
@@ -4949,7 +5142,6 @@ a ait “7.0
 350.3130 -—«,002075 «58217 567.34 = «1977.7 * 2545.0 567-67 2 2 2 fen
 140 (0.3613 0.001080 0.50885. 588.72 1961.3 "2550.0 - $89.11 ee ae - Gee game
 145 0.4154 0.001085 0.44632 61016 19447 «2554.9 * 610.6) 21 Ae Seats AGOGO. .62NG8
-eae tn ore LS eet et ee sonst aati ame |
 
 ~~ {55 Us431 — —0-09)-096 — 676 _ 653.23 é : rae ' 4.8075 6.7501 *
 160, 0.6178 agoiiea “D3 674.85 ~1ADES —as684— 675-83 2082.6 298.1 pie ewes. _
@@ -4957,7 +5149,6 @@ eae tn ore LS eet et ee sonst aati ame |
 170 0.7917 OO0I1I4 —0.24283«-718.3L_ «18581-25765 719.20 ‘504 me feet (cee
 175° 0.3920 0.001121 0.21680 740.16 18400 25802 741.16 2032. 21995 44461 6.3857
 180 1.0022 0.001127 9.19405 762.08 1821.6 = 2583.7 763.21 oe 27824 2.1878 4.3586 6.5464
-185 1.4227 0001734 @J7405> 784.08 1802.9 2587.0, 785.36 = 1997.1 aracin \AORSE" MOLE SCTE
 190 1.2544 OOCI41 0.15654 806.17 1983.8 «= 2590.0 807.61 _ ren I es
 195 1.3978 9.001149 0.14105 $28.36 1764.4 © 2592.8. 829.96 — 1960.0 a ee te eee
 200 1.5538 0.001156 O26 850.4 17447. 2595.3» BSBA” TOROT 27960 23779 «4.0172 «6.3
@@ -4977,7 +5168,6 @@ Specific Volume, nly futernal Energy, ki/kg Enthalpy, kik Entropy, kitkg K
 Temp. Pressure Sat. Sat. Sat. Sat. Sal. Sat. Sat. Sat
 °C kPa, MPa Liquid Vapour Lignid Evap. Vapour Liquid — Evap. Vapour Liquid — Evap. — Vapour
 
-if e % Ys up Meg uy Ay ey hy Sp St 5,
 225 2.5477 (0.001198 0.7849 963.72 1639.6 2603.3 966.77 1836.5 2803.3 2.5639 3.6863 6.2502
 230 2.7949 0.001209 0.07158 986.72 3617.2 2603.9 990.10 1813.8 2803.9 2.6099 3.6047 6.2146
 235 3.060) 0.001219 0.06536 1009.88 1594.2 2604.1 1013.61 1790.5   2804:1 2.6557 3.5233 6.1791
@@ -5012,7 +5202,6 @@ BE 0 th soason, Sater
 a Specific Volume, miskg Internal Ynerey, kik Enthalpy, kiékg Entropy, klike K
 Pressure Tem. ~ Sat. Sat,” Sa” Sat. Sat. Sat, Sat. Sat
 kPa: °*¢ * Liquid Vapour Liquid Evi. Vapour Liquid Bvayp.-. Vapour Liquid ~ Evap. Vapour
-a P % Ye a Usp ate ft Pg hy #t Ste “t-
 *0.6113 0,0) 001000 206.132 9 23753 2375.3 0.00 2501.3 .2501.3 0 9.1562 9.1562
 
 1.0 - 6.98 doot0od 129.208 * 29.29 2355.7 2385.0 29.29 2484.9 2514.2 0.1059 8.8697 8.9756
@@ -5093,7 +5282,6 @@ P = 50 kPa, (81.33)
 
 P'= 100 kPa (99.62)
 
-T v 4u h s. v u k £ v u h F
 Sat, 14.674 2437.9 2584.6 = 8.1501 3.240 2483.8 2645.9 7.5939 1.6940 2506.1 2675.5 7.3593
 50 14.869 2443.9 2592.6 8.1749 ~ _ — — ~~ = Ss =
 100 17.196 2515.5 2687.5 8.4479 3.418 2511.6 2682.5 7.6947 1.6958 2506.6 2676.2 7.3614
@@ -5125,7 +5313,6 @@ Sat. 0.88573 2529.5 2706.6 «= 7.1271 (0.60582 =. 2543.6 2725.3 6.9918 0.46246 2
 ; (Contd.)
 Tabla A.1.3 (Contd.}
 P = 200 kPa (120.23) P = 300 kPa (133,55) P = 400 kPa (143.63)
-T y BR h s v u“ h s v a ch ¥
 2.70643 3854.5. 4395.8 9.4565 - 1.80406 3854.2 4395.4. 9.2691 1.35288 = 3853.9 4395.1 9.1361
 oot pon 4052.5 4640.0 9.6563 1.95812   4052:3 4639.7 9.4689 1.46847 = 4052.0 4639.4 9.3360
 1100 3.16834 4257.0 4890.7 «9.8458 = 2.11214 9 4256.8 4890.4 «= 9.6585 1.58404 = 4256.5 4890.1 9.5255
@@ -5170,7 +5357,6 @@ P'= 100 kPa (99.62)
 
 » 800
 
-T v a h s v u & s v u h S
 Sat.- 14,674 2437.9 25846 8.1501 3.240 2483.8 2645.9 7.5939 1.6940 2506.1 2675.5 7.3593
 50 14.869 2443.9 2592.6 8.1749 = e - a “ = = Fa
 100 17.196 25155 2687.5 8.4479 3.418 2512.6 2682.5 7.6947 1.6958 2506.6 2676.2 7.3614
@@ -5202,7 +5388,6 @@ Sat. 088573 2529.5 - 2706.6 «= 7.1271 0.60582 «2543.6 2725.3 6.9918 0.46246 25
 (Contd)
 Table A.1.3 (Contd.}
 P= 200 kPa (120,23) P = 300 kPa (133.55) P= 400 kPa (143.63) _
-by y 2 h £ v u kh 3 ¥ Ku JA Ss
 2.70643 38545 4395.8 9.4565 - 1.80406 3854.2 4395.4 . 9.2691 1.35288 3853.9 4395.1 9.1361
 foo cra 4052.5 4640.0 9.6563 «1.95812 4052.3 4639.7 «9.4689 1.46847 4052.0 4639.4 9.3360
 1100 3.16834 4257.0 4890.7 «9.8458 «2.11274 «4256.8 4890.4 «9.6585 1.58404 4256.5 4890.1 9.5255
@@ -5247,7 +5432,6 @@ P = 1.20 MPa (187.99)
 
 P = 140 MPa (195.07)
 
-ri v u — y v u k s v u h s
 600 0.40109 3296.8 3697.9 8.0289 0.33393 3295.6 3696.3 7.9434 0.28596 3294.4 3694.8 7.8710
 700 0.44779 = 3475.4 3923.1 8.2731 0.37294 = 3474.5 3922.0 8.1881 0.32947 3473.6 3920.9 8.1160
 809 0.49432 3660.5 4154.8 8.4996 0.41177 3659.8. 4153.9 8.4149 0.35281 3659.1 4153.0 8.3431
@@ -5374,7 +5558,6 @@ fable A.1,3 (Contd) ae ~
 
 D325 MPa - P=30MPa (_. PSse MPA.
 
-iT y 7 “kh s y ay oh s v uw a a 5
 375001973. «1798.6 = «1847.9 4.0319 001789 1737.8 1791.4 3.9303 “001700 1762.4 3.8721
 400 006004 - 2430.1 25802 5.1418 002790 2067.3 2151.0 4.4728 .002100 1987.5 4.2124
 425 -.007882 2609.2 2806.3 54722 005304 2455.1 2614.2 5.1503 003428 2373.4 4.7747
@@ -5441,7 +5624,6 @@ aa i
 ss MOLLIER DIAGRAM
 1900 Sets IN SL UNITS 1900
 3600. : eateweets - 1800
-ba S = ra a er - eo a 6% es ee Tst 2 Fe 76 78 BO a2 Ls BE ee ntti
 ````
 
 ## 2011-12 · Exam not stated · Trim 5 · paper 41c826da8b48
@@ -5451,6 +5633,7 @@ ba S = ra a er - eo a 6% es ee Tst 2 Fe 76 78 BO a2 Ls BE ee ntti
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM V/THERMAL ENGINEERING/THERMAL ENGINEERING 2011-2012.pdf`
 - Printed on paper: exam date: 03/02/2012
 - Text: ocr (12 pages), mean OCR confidence 74.6
+- 25 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5586,7 +5769,6 @@ A.10 Gas Tables
 se a FRIES EAR
 
 Table A.10.1 Isentropic Flow
-M M* A LP PL Tr
 Ae Py Po r,
 
 0 0 co 1.00000 1.00000 1.00000
@@ -5645,7 +5827,6 @@ tp. “Fe Seu Vol! oe m Ae a Internal Energy, ki/kg Enthalpy, kI/kg Entropy, ki/
 Sat. . iat. Sat. Sat. Se :
 oe lege : Sat. at. Sat. Sat
 . “ Pa fequid aie Liquid Evap. Vapour Liquid Evap. Vapour Liquid Evap. Vapour
-a A Ur Ure 4 hy h h, S, Y
 
 0.01 6113 : ; ' r .
 
@@ -5682,7 +5863,6 @@ Table A.1.1 (Fontd.)
 Specific Volume, nv /kg Internal Energy, ki/kg Enthalpy, kJ/kg oo Entropy, kJ/kg K
 Temp. Pressure Sat. Sat. Sat. Sat. “Sat. Sat. . Sat. Sat
 °C kPa, MPa Liquid Vapour Liquid Evap. Vapour Liquid Evap. Vapour Liquid Evap. Vapour
-T iP 7 Vg Up Ure Uy he Neg hy Se Sig Ss 4
 2683.8 1.3629 5.9328 7.2958
 
 105 0.12082 0.001047 1.4194 440.00 2072.3 2512.3 440.13 2243.7
@@ -5732,7 +5912,6 @@ Specific Volume, mr /ky ___fmternal Energy, ki/kg Enthalpy, kJ/kg Entropy, kJ/kg
 Temp. Pressure Sat. Sat. Sat. Sat. Sat. Sat. Sat. Sat
 
 bs 4 kPa,MPa Liquid ~~ Vapour Liguid Evap. Vapour Liquid — Evap. Vapour Liquid — Evap. Vapour
-T P vy vy Up Ug Uy hy hy h, St Sty 5,
 
 225 2.5477 0.001199 0.7849 963.72 1639.6 2603.3 966.77 1836.5 2803.3 2.5639 3.6863 6.2502
 230 2.7949 0.001209 ~—- 0.07158 986.72 1617.2 2603.9 990.10 1813.8 2803.9 2.6099 3.6047 6.2146
@@ -5771,7 +5950,6 @@ a
 . Specific Volume, nt'/kg Internal inergy, ki/kg _ Enthalpy, ki/kg . - Entropy, ki/kg K 5
 Pres. ure Tem. Sat. 7 Sat. Sat. Sat. Sat. Sat, Sat. : 7 at
 Pal be Liquid Vapour Liquid — Evep. Vapour Liquid   Evap. Vapour Liquid — Evap. apour
-P T Vr ¥, Ur Up Uy hy he hy Sp Sig 'e
 
 0.6113 0.01 0.001000 206.132 6 23753 = 2375.3 0.00 2501.3 2601.3 0 9.1562 9.1562
 1.0 6.98   0,001000 = 129.208 29.29 2355.7 2385.0 29.29 2484.9 2514.2 0.1059 8.8697 8.9756
@@ -5822,7 +6000,6 @@ Entropy, ki/kg K
 Pressure Temp. E
 pa oC. led do dig in Sat pat, Sat. Sat.
 P T a “pow = Evap. Vapour _—_Liquid Evap. Vapour — Liquid = Evap. Vapour
-f 8 i Ytg Mg hy Nig h, St s 5
 0.275 .130.60 : = i
 0300 3355 0.001070 0.6573 548.57 1992.0 2540.5 548.87 2172.4 2721.3 1.6407 5.3801 7.0208
 0.325 630 peed was 561.13 1982.4 2543.6 56145 2163.9 2725.3 1.6717 5.3201 6,9918
@@ -5859,7 +6036,6 @@ Table A.1.2 (Contd.)
 Pregsure Temp. Sat. Sat. Sat. Sat. Sat. Sat. Sat. Sat
 MPa °C Liquid Vapour Liquid Evap. Vapour Liquid Evap. Vapour Liquid — Evap. Vapour
 
-P T VE Vg Ug Use uy hg hee hy Ss Stg Se
 
 2.50 223.99 0.001197 0.07998 959.09 1644.0 2603.1 962.09 1841.0 2803.1 2.5546 3.7028 6.2574
 
@@ -5919,7 +6095,6 @@ aes Superheated Vapour .
 
 ~
 P= 10 kPa (45.81) : P = 50 kPa, (81.33) P = 100 kPa (99.62)
-T v u h 5 v u h s v u h s
 Sat. 14.674 2437.9 2584.6 = 8.1501 3.240 2483.8 =. 2645.9 7.5939 1.6940 2506.1 2675.5 7.3593
 50 14,869 2443.9 2592.6 = 8.1749 _ -- _ _ _ _ _ _
 100 17.196 2515.5 2687.5 8.4479 3.418 2511.6 2682.5 7.6947 1.6958 2506.6 2676.2 7.3614
@@ -5951,7 +6126,6 @@ Sat. 0.88573 2529.5 2706.6 7.1271 0.60582 2543.6 2725.3 6.9918 0.46246 2553.6 27
 (Conid.)
 Table A.1.3 (Contd.)
 2 P = 200 kPa (120,23) P = 300 kPa (133.55) P_= 400 kPa (143.63)
-T vl u h 5 v 4“ h s v be h -
 
 900 2.70643 3854.5 4395.8 9.4565 1.80406 3854.2 4395.4 9.2691 1.35288 3853.9 4395.1 oigan
 1000 2.93740 4052.5 4640.0 9.6563 1.95812 4052.3 4639.7 9.4689 1.46847 4052.0 4639.4 9. ;
@@ -6000,7 +6174,6 @@ Sh 2 r wrnnicninsnse ”
 Table A.1.3 (Contd.)
 
 P = 1.00 MPa (179.91) P = 1.20 MPa (187.99) P = 1.40 MPa (195.07)
-T v u h 5 v u h s v u h s
 
 600 0.40109 3296.8 3697.9 8.0289 0.33393 3295.6 3696.3 7.9434 0.28596 3294.4 3694.8 7.8710
 700 0.44779 3475.4 3923.1 8.2731 0.37294 3474.5 3922.0 8.1881 0.31947 3473.6 3920.9 8.1160
@@ -6033,7 +6206,6 @@ Sat. 0.12380 2595.9 2794.0 6.4217 0.11042 2598.4 2797.1 6.3793 0.09963 2600.3 27
 Table A.1.3 (Contd.)
 
 P = 2.50 MPa (223.99) P = 3.00 MPa (233.90) P = 3.50 MPa (242.66)
-T v u h s v u hk s v u h 5
 
 Sat. 0.07998 2603.1 2803.1 6.2574 0.06668 2604.1 2804.1 6.1869 0.05707 2603.7 2803.4 6.1252
 225 0.08027 2605.6 2806.3 6.2638 _ _ _ _ _ = _ —
@@ -6053,7 +6225,6 @@ Sat. 0.07998 2603.1 2803.1 6.2574 0.06668 2604.1 2804.1 6.1869 0.05707 2603.7 28
 Table A.1.3 (Contd.)
 
 P = 2.50 MPa (223.99) P = 3.00 MPa (233.90) P = 3.50 MPa (242.60)
-T v u“ A Ss v u h s v u h s
 
 800 =: 0.19716 3655.3 4148.2 8.0720 0.16414 3653.6 4146.0 7,9862 0.14056 3651.8 4443.8 7.9135
 
@@ -6089,7 +6260,6 @@ ss , , cpeaiet a nr anno
 Table A.1.3 (Contd.)
 i
 |? = 6.00 MPa (275.64) P = 7.00 MPa (285.88) P = 8.00 MPa (295.06)
-T vo u h s v u h s v u h s
 
 Sat. 0.03244 2589.7 2784.3 5.8891 0.02737 2580.5 2772.1 5.8132 0.02352 2569.8 2757.9 5.7431
 300 0.03616 2667.2 2884.2 6.0673 0.02947 2632.1 2838.4 5.9304 0.02426 2590.9 2785.0 5.7905
@@ -6126,7 +6296,6 @@ lo Ks | ae
 /s Table A.1.3 (Contd)
 
 P = 9.00 MPa (303.40) P = 10,00 MPa (311.06) P = 12.50 MPa (327.89)
-T v u h s v u h 5 v u h s
 
 800 0.05409 3632.5 4199.4 7.4597 0.04859 3629.0 4114.9 7.4077 0.03869 3620.0. 4103.7 7.0965
 900 0.5950 3829.2 4364.7 7.6782 (0.05349 3826.3. 4361.2 7.6272 0.04267 ~—«3819.1. 4352.5 7.5181
@@ -6154,7 +6323,6 @@ Sat. 010338 2455.4 2610.5 5.3097 0079204 2390.2. 2528.8 = 5.1418 0058342 2293.1 
 (Contd.)
 Table A.1.3 (Contd.)
 } P =25 MPa P = 30 MPa P = 35 MPa
-T } u h 5 v u h s v u h Ss
 375 001973. «1798.6 ~=—-:1847.9 4.0319 001789 1737.8 1791.4 3.9303 001700 1702.9 1762.4 3.8721
 400 006004 2430.1. «= 2580.2 5.1418 002790 2067.3. 2151.0 4.4728 002100 1914.0 1987.5 4.2124
 425 007882 2609.2 2806.3. 5.4722 005304 2455.1 2614.2 5.1503 .003428 2253.4 2373.4 4.7747
@@ -6190,10 +6358,8 @@ P=40MPa_ P= 50 MPa P = 60 MPa
 --- page 12 ---
 FA
 3500 SATPT ae
-f£ i ra aw LE iY Z NS
 LL. i
 LT PALA
-Y4/) ji LA Hi S 4k vi
 5400 PH hd Ht7e A Ze) tas 3400
 bt Ay PHL VL LEA
 The AU rz, AT AP:
@@ -6203,7 +6369,6 @@ Ae Lares
 & Pad Z Far 7 f Wa
 PLILEL LL, L, »
 Lhe Zi ALLE aya 3200
-3200 eA GATT A AE. Z aR RY
 LETDIE NL
 TALI PY LIZ ¥
 FAVA : n
@@ -6217,15 +6382,11 @@ wie 4 PIZAZ. a
 BDA Zz ¥ 200°!
 y Wy VAT, t § ALAS a7 Giese te A WA Ze:
 4 Is LS Me 4 =o
-2800 ELS CGE A Oates AAA: LOLALL <A fr) 2800
-F ZA LIF A wae z Ze
 — PEI ee, LA fe ‘
 2700 es & ae Za Sir%e7 ioe Le FEE IE: (5° 700
-A rs TA Lie, AS, s
 LVS xy LOSS is
 b SRA 4
 te eee ee au
-2600 Li eS Ee BI ee to mo
 : 2 meaaees gE:
 
 A
@@ -6241,11 +6402,8 @@ gee waned
 
 Z LISSA
 ‘ae Se Es eS Ids 2a, So = wae xi0
-te bee aan Leman Se eee Aa eae j
 2300 S Z Ze ca "| 2300
 OOROSA IDS S CALE? ae ae
-2200 % a Z . ZS g pS isso | 2200
-ae eee ee ae ee ae
 2100 % $F ee ee ae 2900
 AIELLO CASS, tH | i
 2000 PSS 2S, BLES as S a) ; 2000
@@ -6418,197 +6576,4 @@ velocity at the throat and diverging section acting as a nozzle
 
 10
 10
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper cb7facac9319
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/THERMAL ENGINEERING/THERMAL_ENGINEERING_B_TECH_(MECHANICAL)__FINAL_EXAM_.pdf`
-- Printed on paper: exam date: 24 November 2016
-- Text: ocr (3 pages), mean OCR confidence 92.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHANICAL)
-
-Year: III Semester: V
-, Academic Year: 2016-2017 a
-ademic Year: 2 aT
-. de AN :
-Subject : Thermal Engineering Ve sa ae
-HOO! ss a
-Date : 24 November 2016 i
-
-question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No, ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks,
-7) Assume Suitable data if necessary.
-
-Q.1 Answer the following questions (any four)
-
-(a) Define Mach No, Stagnation Temperature and Stagnation Pressure.
-
-(b) — Significance of critical pressure ratio in the steam nozzle.
-
-(¢) Compare Otto, Diesel and Dual cycles for same maximum pressure and temperature.
-(d) Define volumetric efficiency.
-
-(e) Difference between impulse and reaction turbine.
-
-Q.2 (a) A two stage single acting reciprocating compressor takes in air at the rate of 0.2 m?/s . the intake
-
-pressure and temperature of air are 0.1 MPa and 16 °C. The air is compressed to a final pressure
-
-of 0.7 MPa. The intermediate pressure is ideal and inter-cooling is perfect. The compression
-
-index in both the stages is 1.25 and th
-
-n€ Compressor runs at 600 rpm. Negiecting clearance,
-determine:
-
-The intermediate pressure,
-
-The total volume of each cylinder
-
-The power required to drive the compressor, and
-The rate of heat rejection in the intercooler.
-
-Take cp= 1.005 KJ/ Kg K and R= 0.287 KJ/ KgKk
-
-V5
-
-12
-
-6
-
-}
-é
---- page 2 ---
-Q.2 (b) Anengine working on the Otto cycle is supplied with air at 0.1 MPa, 35 °C. The compression
-
-ratio is 8. Heat supplied is 2100 KJ/Kg. Calculate the maximum pressure and temperature of the
-cycle, the cycle efficiency, and the mean effective pressure. (For air, Cp = 1.005, cy
-R= 0.287 KJ/Kg K).
-
-Q.3 (a) i.
-
-= 0.718, and
-
-Drive an expression for critical condition and find the expression for mass flow rate for the
-same condition.
-ii. Define nozzle efficiency.
-
-(b) A convergent- divergent nozzle is required to pass 1.8 kg of steam per second. At inlet the steam
-
-pressure and actual temperature are 7 bar and 200 °C respectively and the speed is 75 m/sec.
-
-expansion is stable throughout to the exit pressure of 1.1 bar. There is no ioss by iriction in the
-converging section of the nozzle, but loss by friction between throat and outlet is equivalent to
-71 K/Kg of steam. Calculate, assuming throat pressure of 4 bar-
-
-i The required area of throat in cm?, and
-
-ii. The required area of outlet in cm?, and
-
-iii. The overall efficiency of the nozzle, based on the heat drop between the actual inlet
-
-pressure and temperature and the outlet pressure.
-
-Q.4 (a) How the reheat- Regenerative Rankine cycle is better than Reheat Rankine cycle or Regenerative
-
-Rankine cycle. Draw the cycle and explain.
-(b) A steam power plant uses steam of 150 bar, 550 °C. The steam reheats at 40 bar to 550 °C. The
-
-condenser pressure is 1 bar. Find —
-i. The quality of turbine exhausts steam.
-
-ii. Cycle efficiency
-
-iii. Steam rate.
-
-Q.5 (a) Explain the effect of following variables on the thermal efficiency of the gas turbine.
-
-i. Pressure ratio
-
-ii. Turbine inlet temperature
-
-iii. Compressor inlet temperature
-
-iv. Efficiency of the turbine and compressor.
-
-(b) In a jet propulsion unit air is drawn in to the compressor at 15°C and 1.01bar and delivered at
-
-4.04 bar. The isentropic efficiency of compression is 82 %. After delivery the air is heated at
-
-constant pressure until the temperature reaches 750 °C. The air then passes through a turbine unit
-which drives the compressor only and has an isentropic efficiency of 78 % before passing
-
-through the nozzle and expanding to atmospheric pressure of 1.01 bar with an efficiency of 88%,
-
-bad
---- page 3 ---
-Q.6 (a)
-(b)
-Q.7 (a)
-(b)
-
-Neglecting any mass increase due to the weight of the fuel and assuming that R and Y are
-unchanged by combustion, determine:
-
-i. The power required to drive the compressor
-
-ii. The air fuel ratio if the fuel has a calorific value of 42000 KJ/Kg
-iii. The pressure at the turbine exhaust.
-
-iv. The thrust per kg of air per second.
-
-Explain pressure velocity compounding in the steam turbine.
-
-The following data refer to a single stage impulse turbine:
-
-Isentropic nozzle heat drop = 251 KJ/Kg; nozzle efficiency = 90%; nozzle angle = 20°; ratio of
-blade speed to whirl component of steam speed = 0.5; blade velocity co-efficient = 0.9; the
-velocity of steam entering the nozzle = 20 m/s, Determine
-
-i. The blade angles at inlet and outlet if the steam enters in to the blades without shock and
-leaves the blades in an axial direction.
-ii. Blade efficiency
-
-iii. Power developed and axial thrust if the steam flow is 8 Kg/s
-
-The outlet angle of the blade of a parson’s turbine is 20°C and the axial velocity of flow is 0.5
-times the mean blade velocity. If the diameter of the ring is 1.25 m and the rotational speed is
-3000 rpm determine-
-
-i. Inlet angles of blades.
-
-ii. Power developed if dry saturated steam at 5 bar passes through the blade whose height may
-
-be assumed as 6 cm. Neglect the effect of blade thickness.
-
-Explain the following —
-
-i. Enthalpy of formation (A Hr).
-
-ii. Adiabatic flame temperature.
-
-iii. One kg of octane (Cg His) is burned with 200% theoretical air. Assuming complete
-
-combustion determine the air-fuel ratio.
-
-$13
-
-8
 ````

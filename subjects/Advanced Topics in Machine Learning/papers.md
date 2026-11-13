@@ -3080,6 +3080,7 @@ Pose 3] 3
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ARTIFICIAL INTELLIGENCE/SEM-VII/ADVANCED TOPICS IN MACHINE LEARNING/Advanced Topics in Machine Learning, Sem-VII, Year 2023-24, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10/ 02 / 2024
 - Text: ocr (4 pages), mean OCR confidence 93.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3223,7 +3224,6 @@ B Suppose you are building an application for machine translation using
 attention model. The input sentence is,
 ‘The capital of Maharashtra is Mumbai’.
 This should be translated to ‘
-‘Mumbai mahaharashtra ki rajdhani hai’.
 Illustrate the model architecture and answer the following.
 1. Identify what kind of pooling is suitable for this model. .
 2. Guess what will be the context vector for the prediction of each word.

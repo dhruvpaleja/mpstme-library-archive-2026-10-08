@@ -1,8 +1,238 @@
 # Web Programming: question papers in full
 
-11 unique papers · 2022-23 to 2024-25 · Data Science, Computer Engineering, Cyber Security, Information Technology, Artificial Intelligence
+11 unique papers · 2023-24 to 2025-26 · Computer Engineering, Data Science, Cyber Security, Information Technology, Artificial Intelligence
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 8 · paper 81f74a69e8a1
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_08/Web Programming/Web Programming Batch 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 17/07/2026
+- Text: ocr (4 pages), mean OCR confidence 85.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT *
+
+Academic Year: 2025-2026 AGiiuTe oy
+
+Program/s: BTI Ye Semester?
+
+Stream/s: COMP :
+Subject: Web Programming Ti E Ce Sy) m)
+Date: 17/07/2026 No. of Ss
+
+Marks: 100
+
+Re- Examination (2023-2024)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page/Separate Fiie.
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Scenario
+You are developing an inventory management system for a retail store.
+Requirements
+Create a MySQL table named Product with the following fields:
+e Product ID
+e Product Name
+
+e Category
+yas aa 3 e = Price
+S0-1,2 ' ¢ Quantity _ [20]
+Develop a Node.js application to:
+
+BL-3 1. Connect to the MySQL database.
+2. €reate the Product table.
+3. Insert at least 5 product records.
+4. Update the quantity of a product based on Product ID.
+5. Delete a product whose quantity is less than 5.
+6. Display all products belonging to a specific category.
+7. Display products in ascending order of price.
+8. Implement appropriate error handling.
+
+Q2 Design and develop an Online Training Enrollment Page using AngularJS. [20]
+
+CO-2: 1. Create a form with the following fields:
+
+f ¢ Participant Name =
+--- page 2 ---
+SO-1,2; + Training Program (Machine Learning / Cloud Computing T.Cyber
+BL-3 Security) :
+¢ Training Duration (in weeks)
+¢ Registration Fee
+« Email Address
+2. Implement the following validations:
+¢ Participant Name is mandatory.
+¢ Email Address must be in a valid email format.
+¢ Registration Fee must be greater than 2000.
+¢ ‘Training Duration must be greater than 0.
+3. Apply field highlighting:
+« Invalid fields should be displayed in light pink. t
+* Valid fields should be displayed in light green.
+
+4. On form submission: ® :
+Display the entered enrollment details in a table format. i
+The following values should be calculated and displayed automatically: F
+¢ Total Training Cost = Registration Fee x Training Duration
+¢ GST (18%) =Total Training Cost x 0.18
+¢ Final Amount Payable = Total Training Cost + GST
+Create a Restaurant Landing Page using HTML and CSS with the
+following requirements:
+1. Header Section
+e Restaurant name
+« Navigation menu with:
+o Home
+o Menu
+o Gallery >
+Cc ct
+Q3. 2. About Section
+CO-2; .
+SO-1,2: ¢ ‘Restaurant image {20]
+Bis: .# Short description about the restaurant
+
+3. Menu Section
+Display at least 2 food item cards containing:
+« Food Name
+e Price
+e Short Description
+* "Order Now" button Pa
+4. Contact Section
+Create a contact form with:
+« Customer Name
+--- page 3 ---
+e« Mobile Number
+
+e« Email
+
+« Message
+
+¢ Submit button
+5. Apply CSS Styling
+
+« Use different colors and fonts
+
+¢ Add hover effects on buttons and navigation links
+
+e Use Flexbox or Grid for arranging menu cards
+
+« Add borders, spacing, and alignment for better appearance
+Expected Output
+A visually appealing restaurant webpage containing a header, about section,
+menu cards, and a contact form with appropriate styling.
+
+Create a service ResultService to calculate total and percentage of marks
+scored in 3 subjects entered by the user through text fields. Inject this service
+into controller and display the result.
+
+Q4. Sample output :
+CO-3: Student Result
+Subject 1: 50
+SO-1,2; (20]
+Subject 2: 70
+BL-3 ;
+Subject 3: €0
+Cakculate
+Total: 200
+Percentage: 66.66666666666667
+Scenario
+You are developing a Product Billing System for a retail store.
+Requirements
+Create a custom module named billingModule.js that contains functions to:
+_ ¢ Calculate Total Amount
+ee « «Calculate ciseeeitn [20]
+80-1.2: ¢ Calculate Final Bill Amount
+~ Create another Node.js file to:
+BL-6
+
+« Import the custom module
+« Accept:
+o Product Name
+o Quantity
+o Unit Price
+Perform the following operations:
+« Calculate Total Amount
+
+i ‘
+
+®
+--- page 4 ---
+—
+¢ Apply: e
+
+o 10% discount if Total Amount > 5000
+
+o 5% discount if Total Amount > 2000
+
+o No discount otherwise
+¢ Display:
+
+o Product Name
+
+o Total Amount
+
+o Discount
+
+o Final Bill Amount
+
+Scenario
+You are developing an employee management webpage.
+Requirements t
+Create a webpage using HTML, CSS, and JavaScript to: >
+e Accept: S
+o Employee ID i
+o EmployeeName ° [20] ;
+o Department
+6.
+ue o Salary
+SO-1,2: * Onclicking the Add Employee button:
+o Dynamically créate an employee card using DOM
+BL-3 P
+
+manipulation
+o Display all entered employee details on the card
+« Apply the following conditions:
+o Highlight employees with salary greater than %50,000 in
+green
+o Display the total number of employee cards created
+
+¢ Provide a Remove button on each card to delete the employee record
+dynamically. , en
+
+Create a simple AngularJS application to manage and display employee |
+records.
+
+1. Create an AngularJS module and controller.
+2. Design a form with the following input fields using ng-model:
+
+Q7
+
+| o Employee Name
+Son 2. o Department [20] ie
+~ o Salary
+BL-3 a
+
+Store the entered employee details in an array inside the controller.
+4. Add new employee records to the list using a button with ng-click.
+5. Display all employee recoyds in a table format using ng-repeat.
+
+6. Apply the uppercase filter to display the Department name in uppercase.
+````
 
 ## 2024-25 · Final + Re-Exam · Sem 3 · paper 91f074031296
 
@@ -964,6 +1194,184 @@ BL 6 2 b | contents of Sample.txt file as given below “Welcome to Node JS serv
 >
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 005a20f81e29
+
+- Departments: Computer Engineering, Cyber Security, Data Science
+- Programmes: B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/WEB PROGRAMMING/Web Programming, Sem-IV, Final & Re Exam 2022-23.pdf` (+3 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 2/5/ 2024
+- Text: ocr (4 pages), mean OCR confidence 87.7
+
+````text
+g0
+Aowmp wddem
+
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT®& ENGI (
+
+Academic Year: 2023-2024 ~
+
+Program: B.Tech / MBA Tech / BTech Integrated Year: II/IV “Semester: IV / VII
+Stream: Computer Engineering / CSE (Cyber) / CSE (DS) / Computer Science
+
+Subject: Web Programming 7 Time: 3 hrs (fo:ooam todsoop)
+
+Date:2/5/ 2024 No. of Pages: 4
+
+Marks: 100
+Final Examination / RE-EXAM (20 22-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+Qi Answer the following questions: [20]
+CO3 Create a Node.js file to demonstrate creation of database Employee DB and
+S01,6,5,7 | % | employee table (Eid,Ename,Designation, Salary) in MySQL. Also insert details | [10
+BL-6 of atleast 5 employees in it.
+Write a HTML code to create a form to get Name, Email Id, Password, Gender,
+CO2 Mobile Number, Date of Birth, Address, Country of a user. Also include reset
+S$O1,6,5,7 b. | and submit buttons for resetting the form and form submission. Successful | [10]
+BL-6 submission of the form should redirect to a webpage that displays the scrolling
+message “Form submitted Successfully”. Use appropriate HTML fields.
+Create a list using HTML to feature a "New Arrivals" section on the homepage
+that showcases the latest book releases. Each list item in the list should include
+the following information Book Title, Author, Publication Year. Generate a list
+with atleast details of three books.
+The key styling features to be incorporated using CSS are -
+1. List Styling: :
+° The list should have a cyan background color.
+Q2 e Each list item should have a padding of 20px.
+co2 e The font size of the list should be 1 6px.
+S01.6.5.7 as + The list should be 200px in width. [10]
+BL-6 > e The list should have bullets as “* “
+
+2. Text Alignment:
+e All text within the list should be aligned to the left.
+3. List Item Styling:
+e Each list item should have a lightskyblue background color. .
+e The text color should be a red shade with transparency of 0.89.
+e ach list item should have a 5 px solid border bottom with a color
+of #e709149f.
+e There should be a 10px margin between each list item.
+
+1
+--- page 2 ---
+4. Hover Effect:   , ' x
+e When a user hovers over a list item, the background color of that item
+should change to light green and there should be a black color shadow
+effect to it. ;
+
+The Great Gatsby. -
+» F, Scott Fitzgerald -
+
+1984 - George
+Orivell - 1949
+
+foe 7 |b. Write AngularJS code using controller to store and display marks scored by a | [10]
+BL-6 student in six subjects. Display the data in form of list.
+Create following table by using directives, modules, controller and filters of
+Angular JS. Also sort the contents of the table based on First Name in ascending
+and descending order.
+Firstname Lastname Age
+Q3
+CO2 a. Priya Sharma 24 [ ] 0)
+SO1,6,5,7 :
+BL-6 _
+Arun Singh 32
+Sam . : : ‘Watson : 41
+Validate the form created in Q-1b) using JavaScript for following validations.
+1. Name should not be blank and should only contain letters (use regular
+co2 expression)
+$01.6.5.7 | b- 2. Email id should contain ‘@” and ‘.’ (use regular expression) [10]
+BL6 _ 3. Password length should be 5 to 10 characters (use regular expression)
+
+4. Mobile number should consist of only digits and should be of length 10. (use
+regular expression)
+5. Atleast one radiobutton should be selected.
+--- page 3 ---
+Q4 r
+
+CO2 q. | Write a JavaScript program to create a simple math calculator using switch case. [10]
+S01,6,5,7 Take both the numbers and operation to be performed as input from the user.
+BL-6 :
+Demonstrate form validation using Angular JS of the following form.
+HTML form
+Firstname: oo
+Last name:!
+co2 ccm
+SO1,6,5,7 = [10]
+
+BL-6 Male
+
+a Feinale
+
+Subma } Reset
+
+e First name and last name should be required.
+e Email id should be in correct format
+e Radio button should be required.
+
+Q5
+CO2 a, | Write an AngularJS code to implement dependency injection using services to | [10]
+SO1,6,5,7 create a simple math calculator. Take both the numbers input from the user.
+BL-6
+Write HTML Code for following output. Do not use CSS.
+Description Qty Price Email account note
+Email Account i0 $9.90
+ar - Mailbox | 10GB
+FYI com Ad 1 99.00 ———
+7 S01,6,5,7 b. — i. Webmail | Yes [10]
+BL-6 1-year Access i $199.00 POP3 Yes
+Skigsing | 4399 | ES
+Anti-Spam | Yes
+Tax | $15.99
+Fig.l : Online Order
+Q6
+CO. . .
+Sol 7 a. | Write a Node.js code to create a file and then read the contents of that file. [10]
+BL-6
+Write html and JavaScript code to create increment/decrement counter. When
+CO2 user hits add count button, increment the-counter and When user hits delete count
+S$01,6,5,7 b. | button, decrement the counter and in both cases display the value on the page [10]
+BL-6 using hl tag with font size 50 pixels and font color red and it needs to keep
+
+changing dynamically on hit of any button.
+
+a
+--- page 4 ---
+Q7
+CO2
+SO1,6,5,7
+BL-6
+
+Design the following web, page using HTML and CSS. The web page-has a logo
+on the top left corner. The navigation bar on the top consists of the links Home,
+About, Travel, Blog and Contact Us. The content “America Amazing Tour” is
+displayed with an oval “Read More” button. Below that a section of “Find your
+tour” with a form is displayed with fields keywords (text field), category
+(dropdown list), min price, duration, date (date picker), max price and a search
+
+button.
+
+a “Eforlad apr About. travel
+
+Find Your Tour e:
+
+igre Fig
+
+06.6
+
+z»
+````
+
 ## 2023-24 · Final + Re-Exam · Sem 8 · paper 327eee1ed8b4
 
 - Departments: Computer Engineering
@@ -1510,6 +1918,7 @@ Development
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/WEB PROGRAMMING/Web Programming , Re-exam 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 89.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 TT, SSem, ma SN
@@ -1594,9 +2003,7 @@ size of 100px . (3M)
 e Display the Mountain Railways of India is made up of the following ordered, list with
 upper case roman numbers. (6M)
 
-I. Darjeeling Himalayan Railways (DHR) - inscribed by UNESCO in 1999.
 Il. Nilgiri Mountain Railways (NMR) inscribed in 2005.
-Ill. Kalka Shimla Railway (KSR) inscribed in 2008.
 
 Internal Page 2:
 
@@ -1678,412 +2085,4 @@ entered on console window.
 
 Write a program in AngularJs to accept First Name and 10 M
 Last Name and display it on web Page.
-````
-
-## 2023-24 · Re-Exam · Sem 8 · paper 81f74a69e8a1
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_08/Web Programming/Web Programming Batch 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 17/07/2026
-- Text: ocr (4 pages), mean OCR confidence 85.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT *
-
-Academic Year: 2025-2026 AGiiuTe oy
-
-Program/s: BTI Ye Semester?
-
-Stream/s: COMP :
-Subject: Web Programming Ti E Ce Sy) m)
-Date: 17/07/2026 No. of Ss
-
-Marks: 100
-
-Re- Examination (2023-2024)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page/Separate Fiie.
-6) Figures in brackets on the right-hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Scenario
-You are developing an inventory management system for a retail store.
-Requirements
-Create a MySQL table named Product with the following fields:
-e Product ID
-e Product Name
-
-e Category
-yas aa 3 e = Price
-S0-1,2 ' ¢ Quantity _ [20]
-Develop a Node.js application to:
-
-BL-3 1. Connect to the MySQL database.
-2. €reate the Product table.
-3. Insert at least 5 product records.
-4. Update the quantity of a product based on Product ID.
-5. Delete a product whose quantity is less than 5.
-6. Display all products belonging to a specific category.
-7. Display products in ascending order of price.
-8. Implement appropriate error handling.
-
-Q2 Design and develop an Online Training Enrollment Page using AngularJS. [20]
-
-CO-2: 1. Create a form with the following fields:
-
-f ¢ Participant Name =
---- page 2 ---
-SO-1,2; + Training Program (Machine Learning / Cloud Computing T.Cyber
-BL-3 Security) :
-¢ Training Duration (in weeks)
-¢ Registration Fee
-« Email Address
-2. Implement the following validations:
-¢ Participant Name is mandatory.
-¢ Email Address must be in a valid email format.
-¢ Registration Fee must be greater than 2000.
-¢ ‘Training Duration must be greater than 0.
-3. Apply field highlighting:
-« Invalid fields should be displayed in light pink. t
-* Valid fields should be displayed in light green.
-
-4. On form submission: ® :
-Display the entered enrollment details in a table format. i
-The following values should be calculated and displayed automatically: F
-¢ Total Training Cost = Registration Fee x Training Duration
-¢ GST (18%) =Total Training Cost x 0.18
-¢ Final Amount Payable = Total Training Cost + GST
-Create a Restaurant Landing Page using HTML and CSS with the
-following requirements:
-1. Header Section
-e Restaurant name
-« Navigation menu with:
-o Home
-o Menu
-o Gallery >
-Cc ct
-Q3. 2. About Section
-CO-2; .
-SO-1,2: ¢ ‘Restaurant image {20]
-Bis: .# Short description about the restaurant
-
-3. Menu Section
-Display at least 2 food item cards containing:
-« Food Name
-e Price
-e Short Description
-* "Order Now" button Pa
-4. Contact Section
-Create a contact form with:
-« Customer Name
---- page 3 ---
-e« Mobile Number
-
-e« Email
-
-« Message
-
-¢ Submit button
-5. Apply CSS Styling
-
-« Use different colors and fonts
-
-¢ Add hover effects on buttons and navigation links
-
-e Use Flexbox or Grid for arranging menu cards
-
-« Add borders, spacing, and alignment for better appearance
-Expected Output
-A visually appealing restaurant webpage containing a header, about section,
-menu cards, and a contact form with appropriate styling.
-
-Create a service ResultService to calculate total and percentage of marks
-scored in 3 subjects entered by the user through text fields. Inject this service
-into controller and display the result.
-
-Q4. Sample output :
-CO-3: Student Result
-Subject 1: 50
-SO-1,2; (20]
-Subject 2: 70
-BL-3 ;
-Subject 3: €0
-Cakculate
-Total: 200
-Percentage: 66.66666666666667
-Scenario
-You are developing a Product Billing System for a retail store.
-Requirements
-Create a custom module named billingModule.js that contains functions to:
-_ ¢ Calculate Total Amount
-ee « «Calculate ciseeeitn [20]
-80-1.2: ¢ Calculate Final Bill Amount
-~ Create another Node.js file to:
-BL-6
-
-« Import the custom module
-« Accept:
-o Product Name
-o Quantity
-o Unit Price
-Perform the following operations:
-« Calculate Total Amount
-
-i ‘
-
-®
---- page 4 ---
-—
-¢ Apply: e
-
-o 10% discount if Total Amount > 5000
-
-o 5% discount if Total Amount > 2000
-
-o No discount otherwise
-¢ Display:
-
-o Product Name
-
-o Total Amount
-
-o Discount
-
-o Final Bill Amount
-
-Scenario
-You are developing an employee management webpage.
-Requirements t
-Create a webpage using HTML, CSS, and JavaScript to: >
-e Accept: S
-o Employee ID i
-o EmployeeName ° [20] ;
-o Department
-6.
-ue o Salary
-SO-1,2: * Onclicking the Add Employee button:
-o Dynamically créate an employee card using DOM
-BL-3 P
-
-manipulation
-o Display all entered employee details on the card
-« Apply the following conditions:
-o Highlight employees with salary greater than %50,000 in
-green
-o Display the total number of employee cards created
-
-¢ Provide a Remove button on each card to delete the employee record
-dynamically. , en
-
-Create a simple AngularJS application to manage and display employee |
-records.
-
-1. Create an AngularJS module and controller.
-2. Design a form with the following input fields using ng-model:
-
-Q7
-
-| o Employee Name
-Son 2. o Department [20] ie
-~ o Salary
-BL-3 a
-
-Store the entered employee details in an array inside the controller.
-4. Add new employee records to the list using a button with ng-click.
-5. Display all employee recoyds in a table format using ng-repeat.
-
-6. Apply the uppercase filter to display the Department name in uppercase.
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 005a20f81e29
-
-- Departments: Computer Engineering, Cyber Security, Data Science
-- Programmes: B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / CSE-CYBER SECURITY, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/WEB PROGRAMMING/Web Programming, Sem-IV, Final & Re Exam 2022-23.pdf` (+3 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 2/5/ 2024
-- Text: ocr (4 pages), mean OCR confidence 87.7
-
-````text
-g0
-Aowmp wddem
-
-SVKM’S NMIMS
-
-SCHOOL OF TECHNOLOGY MANAGEMENT®& ENGI (
-
-Academic Year: 2023-2024 ~
-
-Program: B.Tech / MBA Tech / BTech Integrated Year: II/IV “Semester: IV / VII
-Stream: Computer Engineering / CSE (Cyber) / CSE (DS) / Computer Science
-
-Subject: Web Programming 7 Time: 3 hrs (fo:ooam todsoop)
-
-Date:2/5/ 2024 No. of Pages: 4
-
-Marks: 100
-Final Examination / RE-EXAM (20 22-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-Qi Answer the following questions: [20]
-CO3 Create a Node.js file to demonstrate creation of database Employee DB and
-S01,6,5,7 | % | employee table (Eid,Ename,Designation, Salary) in MySQL. Also insert details | [10
-BL-6 of atleast 5 employees in it.
-Write a HTML code to create a form to get Name, Email Id, Password, Gender,
-CO2 Mobile Number, Date of Birth, Address, Country of a user. Also include reset
-S$O1,6,5,7 b. | and submit buttons for resetting the form and form submission. Successful | [10]
-BL-6 submission of the form should redirect to a webpage that displays the scrolling
-message “Form submitted Successfully”. Use appropriate HTML fields.
-Create a list using HTML to feature a "New Arrivals" section on the homepage
-that showcases the latest book releases. Each list item in the list should include
-the following information Book Title, Author, Publication Year. Generate a list
-with atleast details of three books.
-The key styling features to be incorporated using CSS are -
-1. List Styling: :
-° The list should have a cyan background color.
-Q2 e Each list item should have a padding of 20px.
-co2 e The font size of the list should be 1 6px.
-S01.6.5.7 as + The list should be 200px in width. [10]
-BL-6 > e The list should have bullets as “* “
-
-2. Text Alignment:
-e All text within the list should be aligned to the left.
-3. List Item Styling:
-e Each list item should have a lightskyblue background color. .
-e The text color should be a red shade with transparency of 0.89.
-e ach list item should have a 5 px solid border bottom with a color
-of #e709149f.
-e There should be a 10px margin between each list item.
-
-1
---- page 2 ---
-4. Hover Effect:   , ' x
-e When a user hovers over a list item, the background color of that item
-should change to light green and there should be a black color shadow
-effect to it. ;
-
-The Great Gatsby. -
-» F, Scott Fitzgerald -
-
-1984 - George
-Orivell - 1949
-
-foe 7 |b. Write AngularJS code using controller to store and display marks scored by a | [10]
-BL-6 student in six subjects. Display the data in form of list.
-Create following table by using directives, modules, controller and filters of
-Angular JS. Also sort the contents of the table based on First Name in ascending
-and descending order.
-Firstname Lastname Age
-Q3
-CO2 a. Priya Sharma 24 [ ] 0)
-SO1,6,5,7 :
-BL-6 _
-Arun Singh 32
-Sam . : : ‘Watson : 41
-Validate the form created in Q-1b) using JavaScript for following validations.
-1. Name should not be blank and should only contain letters (use regular
-co2 expression)
-$01.6.5.7 | b- 2. Email id should contain ‘@” and ‘.’ (use regular expression) [10]
-BL6 _ 3. Password length should be 5 to 10 characters (use regular expression)
-
-4. Mobile number should consist of only digits and should be of length 10. (use
-regular expression)
-5. Atleast one radiobutton should be selected.
---- page 3 ---
-Q4 r
-
-CO2 q. | Write a JavaScript program to create a simple math calculator using switch case. [10]
-S01,6,5,7 Take both the numbers and operation to be performed as input from the user.
-BL-6 :
-Demonstrate form validation using Angular JS of the following form.
-HTML form
-Firstname: oo
-Last name:!
-co2 ccm
-SO1,6,5,7 = [10]
-
-BL-6 Male
-
-a Feinale
-
-Subma } Reset
-
-e First name and last name should be required.
-e Email id should be in correct format
-e Radio button should be required.
-
-Q5
-CO2 a, | Write an AngularJS code to implement dependency injection using services to | [10]
-SO1,6,5,7 create a simple math calculator. Take both the numbers input from the user.
-BL-6
-Write HTML Code for following output. Do not use CSS.
-Description Qty Price Email account note
-Email Account i0 $9.90
-ar - Mailbox | 10GB
-FYI com Ad 1 99.00 ———
-7 S01,6,5,7 b. — i. Webmail | Yes [10]
-BL-6 1-year Access i $199.00 POP3 Yes
-Skigsing | 4399 | ES
-Anti-Spam | Yes
-Tax | $15.99
-Fig.l : Online Order
-Q6
-CO. . .
-Sol 7 a. | Write a Node.js code to create a file and then read the contents of that file. [10]
-BL-6
-Write html and JavaScript code to create increment/decrement counter. When
-CO2 user hits add count button, increment the-counter and When user hits delete count
-S$01,6,5,7 b. | button, decrement the counter and in both cases display the value on the page [10]
-BL-6 using hl tag with font size 50 pixels and font color red and it needs to keep
-
-changing dynamically on hit of any button.
-
-a
---- page 4 ---
-Q7
-CO2
-SO1,6,5,7
-BL-6
-
-Design the following web, page using HTML and CSS. The web page-has a logo
-on the top left corner. The navigation bar on the top consists of the links Home,
-About, Travel, Blog and Contact Us. The content “America Amazing Tour” is
-displayed with an oval “Read More” button. Below that a section of “Find your
-tour” with a form is displayed with fields keywords (text field), category
-(dropdown list), min price, duration, date (date picker), max price and a search
-
-button.
-
-a “Eforlad apr About. travel
-
-Find Your Tour e:
-
-igre Fig
-
-06.6
-
-z»
 ````

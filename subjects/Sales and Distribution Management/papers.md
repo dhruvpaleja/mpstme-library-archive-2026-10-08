@@ -1542,8 +1542,9 @@ V
 - Departments: Common (all branches)
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/SALES AND DISTRIBUTION MANGEMENT/Sales and Distribution management 2014-15 Re-exam.pdf`
-- Printed on paper: max marks: 60; exam date: 13/06/2015
+- Printed on paper: max marks: 60
 - Text: ocr (1 page), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1557,7 +1558,6 @@ Batch: 2014-15 ppt nee essa
 pores
 Subject: Sales & Distribution Management Marks: 60 gi 7
 ~ Time: 10. Coeigae
-Date: 13/06/2015 Durati Naiied Seay RY
 Re-Examination
 Ss —_
 aa
@@ -1643,6 +1643,67 @@ marks)
 7. Explain the following areas of Product policies
 a. Product line
 b. Product and service quality (2x5=10 marks)
+````
+
+## 2012-13 · Exam not stated · Trim 14 · paper 55e3a60ae2f9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Sales and Distribution Management/scan0007(19).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 12/01/2013
+- Text: ocr (1 page), mean OCR confidence 94.4
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineéring
+Programme: MBA (Tech) -ALL STREAMS Year: V ‘Trimester: XIV x :
+
+Academic Year : 2012-2013 NN &
+Subject: SALES AND DISTRIBUTION Marks: 50
+MANAGEMENT Time: "2.00 p.m To 4.00 p.m
+Date: 12/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+NOTE: 1. Attempt any FOUR questions.
+2. All questions carry equal marks
+3. Answer to each new question to be started on a fresh page
+
+1. Is its necessary to establish territories before setting quotas/targets? Can sales
+quotas be set without a sales forecast? State different types of quotas and compare
+their utility.
+
+2. Straight salary or straight commission or their combinations are three types for
+salesman compensation. Describe several sales situations and correlate these to
+basic types for ensuring of sales efforts and productivity to meet the objectives of
+marketing.
+
+3. What are the steps in selling process? How important are they in development of
+individual career goals?
+
+4. What are the key results areas in the job of a Field Sales Manager? Why it is that
+in general Field Sales Managers are not effective? How would you train Field
+Sales Managers to be effective in their job?
+
+5. As a Marketing Manager of a Pharmaceutical Company employing 100 Medical
+Representatives you wish to establish a programme for appraisal. Explain your
+
+} plan of action. State how you would advise your Regional Manager to conduct the
+counseling session.
+
+6. Write short notes on any three:
+
+a. Role of Inter-personal Communication in Selling.
+b. Organising for Effective Physical Distribution
+
+c. Sales Contests
+
+d. Marketing Personnel Audit.
+
+e. Sales Force Turnover and Motivation
+
+f. Role of Marketing Manager and Sales Manager
 ````
 
 ## 2010-11 · Exam not stated · Trim 14 · paper 5ac295cfab20
@@ -1917,65 +1978,4 @@ like that.”
 We
 
 ———
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 55e3a60ae2f9
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Sales and Distribution Management/scan0007(19).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 12/01/2013
-- Text: ocr (1 page), mean OCR confidence 94.4
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineéring
-Programme: MBA (Tech) -ALL STREAMS Year: V ‘Trimester: XIV x :
-
-Academic Year : 2012-2013 NN &
-Subject: SALES AND DISTRIBUTION Marks: 50
-MANAGEMENT Time: "2.00 p.m To 4.00 p.m
-Date: 12/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-NOTE: 1. Attempt any FOUR questions.
-2. All questions carry equal marks
-3. Answer to each new question to be started on a fresh page
-
-1. Is its necessary to establish territories before setting quotas/targets? Can sales
-quotas be set without a sales forecast? State different types of quotas and compare
-their utility.
-
-2. Straight salary or straight commission or their combinations are three types for
-salesman compensation. Describe several sales situations and correlate these to
-basic types for ensuring of sales efforts and productivity to meet the objectives of
-marketing.
-
-3. What are the steps in selling process? How important are they in development of
-individual career goals?
-
-4. What are the key results areas in the job of a Field Sales Manager? Why it is that
-in general Field Sales Managers are not effective? How would you train Field
-Sales Managers to be effective in their job?
-
-5. As a Marketing Manager of a Pharmaceutical Company employing 100 Medical
-Representatives you wish to establish a programme for appraisal. Explain your
-
-} plan of action. State how you would advise your Regional Manager to conduct the
-counseling session.
-
-6. Write short notes on any three:
-
-a. Role of Inter-personal Communication in Selling.
-b. Organising for Effective Physical Distribution
-
-c. Sales Contests
-
-d. Marketing Personnel Audit.
-
-e. Sales Force Turnover and Motivation
-
-f. Role of Marketing Manager and Sales Manager
 ````

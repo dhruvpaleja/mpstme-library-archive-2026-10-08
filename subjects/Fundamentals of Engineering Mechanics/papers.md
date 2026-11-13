@@ -361,6 +361,180 @@ os
 (10)
 ````
 
+## 2018-19 · Re-Exam · Sem 2 · paper 816f39aba04b
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/FUNDAMNETALS OF ENGINEERING MECHANICS/Fundamentas of Engineering Mechanics Batch 2015-16,2016-17,2017-18 Re Exam_816f39aba0.pdf`
+- Printed on paper: exam date: 17 June 2019
+- Text: ocr (4 pages), mean OCR confidence 86.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+/ Program :B.Tech Integrated (All Streams) 7 Year: J Semester: II
+
+Academic Year: 2018-2019
+Subject: Fundamentals of Engineering Mechanics
+
+Date : 17 June 2019
+
+’
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. ’ a
+7) Assume suitable data if necessary.
+
+8) g=9.81m/s”
+
+Q.1 Attempt any four question. - (14)
+(all sub questions carry equal marks)
+(a) Explain different types of supports.
+(b) Explain laws of friction. ;
+(c) Determine the centroid of the given
+wire with respect to x and y axis Yh
+|
+
+(d) A particle starts moving along a straight line with initial velocity 25m/s under a
+uniform acceleration of -2.5m/s?. Determine the velocity, displacement and distance
+travelled at t=5 sec.
+
+4/4.
+--- page 2 ---
+1)
+
+Q.2 (a)
+
+Q.2 (b)
+
+Q.3 (a)
+
+Determine the resultant and moment about A of the parallel force system.
+
+400N 200N 400N 200N
+
+~|./.]
+
+4 8 c D
+
+yt
+Pa
+Determine the centroid of the given
+
+Figure with respect to x and y axis.
+
+* i : SOmmn
+All dimension are in mm.
+
+80mm
+
+Determine the centroid of the
+shaded region for the given Figure
+with respect to x and y axis. All
+dimension are in mm
+
+Determine the Resultant of the
+force system for the hook as shown
+in figure. Plot Resultant.
+
+2/4.
+
+o)
+
+(7)
+
+(7)
+
+N
+--- page 3 ---
+400N a”
+Q.3(b) A general coplanar force system . yen (7)
+shown in figure. Determine the A
+position and magnitude of the -0.5,0.4) (oraz 728N
+resultant force. What is the moment, q—(0,7.0) es x
+of the force system about point ‘o’? ie (0.40.3)
+250N
+14 37e
+V ‘SN
+
+Q.4(a) A smooth sphere of weight 100 N
+
+and radius of 250mm jg in (7)
+equilibrium as shown in figure.
+Determine the reaction at the
+surface of contact A and B.
+Assuming all surfaces are smooth.
+a= 30°, B=60°
+Q.4(b) Determine the support reactions of the simply supported beam as shown in figure (7)
+50kN :
+| 20kN/m
+A 0 TT
+A... ti<‘Ci‘CS; ;] OC SS
+: L 00
+2m” 2m 4m “
+Q.5 (a) A body of weight 2000 N rests in a horizontal plane. If the co-efficient of friction is (7)
+
+0.4, find the horizontal force required to be applied parallel to the plane to move the
+body. Draw free body.
+
+3/4
+--- page 4 ---
+: 3 A
+Q.5(b) Determine whether force P applied 4000KN
+
+to the wedge is enough to raise the
+block A. p = 0.3 for all surfaces.
+
+(7)
+P= S00KN
+
+Q.6 (a) A100 N uniform ladder AB is held
+in position as shown in figure. If
+the coefficient of friction is 0.15 at
+A and B, Calculate minimum value
+of P when ladder starts sliding
+down.
+
+1)
+
+I)
+Q.6(b) A two stage rocket is fired 20 (7)
+vertically from rest with an
+acceleration of as shown. After 15 - 45
+sec the first stage A burns out and
+the second stage B ignites. Find
+velocity & acceleration of the
+rocket after.40 seconds.
+
+t(s)_
+
+>
+
+15 40
+
+Q.7 (a) The car moves in a straight line such that for a short time its velocity is defined by (7)
+v = (9t? + 2t) m/s. Where t is in seconds. Determine its displacement and acceleration
+when t = 3sec.
+
+Q.7(b) A projectile is aimed at a target on the horizontal plane and falls 12m short when the (7)
+angle of projection is 15°, while it overshoots by 24m when the angle is 45°. Find the
+angle of projection to hit the mark. ;
+
+</4
+````
+
 ## 2018-19 · Re-Exam · Sem 2 · paper 3d8ae143c7f6
 
 - Departments: Common (all branches)
@@ -859,180 +1033,6 @@ determine the firing angle. |
 (7)
 ````
 
-## 2017-18 · Re-Exam · Sem 2 · paper 816f39aba04b
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/FUNDAMNETALS OF ENGINEERING MECHANICS/Fundamentas of Engineering Mechanics Batch 2015-16,2016-17,2017-18 Re Exam_816f39aba0.pdf`
-- Printed on paper: exam date: 17 June 2019
-- Text: ocr (4 pages), mean OCR confidence 86.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-/ Program :B.Tech Integrated (All Streams) 7 Year: J Semester: II
-
-Academic Year: 2018-2019
-Subject: Fundamentals of Engineering Mechanics
-
-Date : 17 June 2019
-
-’
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks. ’ a
-7) Assume suitable data if necessary.
-
-8) g=9.81m/s”
-
-Q.1 Attempt any four question. - (14)
-(all sub questions carry equal marks)
-(a) Explain different types of supports.
-(b) Explain laws of friction. ;
-(c) Determine the centroid of the given
-wire with respect to x and y axis Yh
-|
-
-(d) A particle starts moving along a straight line with initial velocity 25m/s under a
-uniform acceleration of -2.5m/s?. Determine the velocity, displacement and distance
-travelled at t=5 sec.
-
-4/4.
---- page 2 ---
-1)
-
-Q.2 (a)
-
-Q.2 (b)
-
-Q.3 (a)
-
-Determine the resultant and moment about A of the parallel force system.
-
-400N 200N 400N 200N
-
-~|./.]
-
-4 8 c D
-
-yt
-Pa
-Determine the centroid of the given
-
-Figure with respect to x and y axis.
-
-* i : SOmmn
-All dimension are in mm.
-
-80mm
-
-Determine the centroid of the
-shaded region for the given Figure
-with respect to x and y axis. All
-dimension are in mm
-
-Determine the Resultant of the
-force system for the hook as shown
-in figure. Plot Resultant.
-
-2/4.
-
-o)
-
-(7)
-
-(7)
-
-N
---- page 3 ---
-400N a”
-Q.3(b) A general coplanar force system . yen (7)
-shown in figure. Determine the A
-position and magnitude of the -0.5,0.4) (oraz 728N
-resultant force. What is the moment, q—(0,7.0) es x
-of the force system about point ‘o’? ie (0.40.3)
-250N
-14 37e
-V ‘SN
-
-Q.4(a) A smooth sphere of weight 100 N
-
-and radius of 250mm jg in (7)
-equilibrium as shown in figure.
-Determine the reaction at the
-surface of contact A and B.
-Assuming all surfaces are smooth.
-a= 30°, B=60°
-Q.4(b) Determine the support reactions of the simply supported beam as shown in figure (7)
-50kN :
-| 20kN/m
-A 0 TT
-A... ti<‘Ci‘CS; ;] OC SS
-: L 00
-2m” 2m 4m “
-Q.5 (a) A body of weight 2000 N rests in a horizontal plane. If the co-efficient of friction is (7)
-
-0.4, find the horizontal force required to be applied parallel to the plane to move the
-body. Draw free body.
-
-3/4
---- page 4 ---
-: 3 A
-Q.5(b) Determine whether force P applied 4000KN
-
-to the wedge is enough to raise the
-block A. p = 0.3 for all surfaces.
-
-(7)
-P= S00KN
-
-Q.6 (a) A100 N uniform ladder AB is held
-in position as shown in figure. If
-the coefficient of friction is 0.15 at
-A and B, Calculate minimum value
-of P when ladder starts sliding
-down.
-
-1)
-
-I)
-Q.6(b) A two stage rocket is fired 20 (7)
-vertically from rest with an
-acceleration of as shown. After 15 - 45
-sec the first stage A burns out and
-the second stage B ignites. Find
-velocity & acceleration of the
-rocket after.40 seconds.
-
-t(s)_
-
->
-
-15 40
-
-Q.7 (a) The car moves in a straight line such that for a short time its velocity is defined by (7)
-v = (9t? + 2t) m/s. Where t is in seconds. Determine its displacement and acceleration
-when t = 3sec.
-
-Q.7(b) A projectile is aimed at a target on the horizontal plane and falls 12m short when the (7)
-angle of projection is 15°, while it overshoots by 24m when the angle is 45°. Find the
-angle of projection to hit the mark. ;
-
-</4
-````
-
 ## 2017-18 · Re-Exam · Sem 2 · paper aea8229f1ce4
 
 - Departments: Common (all branches)
@@ -1402,6 +1402,314 @@ projection when target is 10m below the level of projection. Take g = 10 m/s?.
 Page 4 of 4
 ````
 
+## 2016-17 · Re-Exam · Sem 2 · paper 22bc8e8cf77d
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/FUNDAMNETALS OF ENGINEERING MECHANICS/Fundamentas of Engineering Mechanics Batch 2015-16 Re Exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 July 2017
+- Text: ocr (3 pages), mean OCR confidence 87.9
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2016 - 2017 r
+Program: B. Tech Integrated (All Streams) Year:1 Semester:II_ , f Ais
+Marks: 70 if a de
++ 2015-16
+— : ineeri hanics Time: (10. 00a am to-1.00 pm) £Y 5
+Subject: Fundamentals of Engineering Mechani -
+
+Duration:3 hrs” hind
+Date : 12 July 2017 No. of Pages: G2
+
+RE-EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi ATTEMPT ALL QUESTIONS
+
+(A) State principle of transmissibility of force. (2)
+(B) Define equilibrium. (2)
+(C) Enlist sub classification of coplanar force system. (3)
+(D) Define friction and limiting force of friction. (4)
+(E) State and explain Lami’s theorem. (3)
+Q:2
+(A) Find the centroid of ISA (90 x 60 x8) L section. iy (7)
+t
+el
+a
+g
+1 3
+“60 mm .
+(B) Locate the position of centroid for a shaded lamina as ty (7)
+
+shown in the figure. (All dimensions are in mm.)
+--- page 2 ---
+(6)
+
+(A) Determine the resultant of six forces as shown in the figure.
+
+iy
+800 NA
+400 N
+300 N 300i
+< 50°
+25%:
+1200 N 600 N
+
+(B) Replace the force system as shown in the figure a single
+
+for and moment at point O. _, HOON a
+; 6ON-m
+eo “>?
+
+(-0.5,0.4) B
+
+728N
+~_(:0.7.0) (0.1,0.2) .
+< —
+(0.4,-0.3)
+250N
+: ¥, 375N
+
+Q:4
+(A) An electric bulb of weight 10 N hangs verticall
+
+y from a ceiling. Its wire is pulled by a horizontal
+force P such that its wire makes angle of 10°
+
+with vertical. Find force P and tension in the wire.
+
+(B) A7 m long ladder is resting against a vertical wall (with which it
+makes an angle of 45° ) and on the floor. If a man whose weight is °
+of half of that of the ladder, climbs it, at what distance along the |
+ladder will he be when the ladder is about to slip. The co-efficient
+
+of friction between the ladder and the wall is 1/3 and between the -
+ladder and the floor is 1/2.
+
+Q:35
+
+(A) A Block weighing 500 N resting on a rough horizontal plane can be moved by a force of 200 N
+applied at an angle of 30° with horizontal. Find the co-efficient of friction.
+
+(B) Determine the reactions of the beam.
+
+2KN
+
+1KNim 45°
+A COO S B
+2m | im ply tm
+>i I
+7s
+
+(7)
+
+(7)
+
+(7)
+
+(7)
+
+(7)
+
+(7)
+--- page 3 ---
+Q:6
+
+(A)
+
+(B)
+
+(C)
+
+Q:7
+(A)
+
+(B)
+
+Determine the resultant of the parallel force system as shown in the figure.
+5O00N 150N 200N
+
+2 $43
+
+200N 350N
+
+In an Asian Games of 100 m event an athlete accelerates uniformly from the start to his maximum
+velocity in a distance of 4m and runs the remaining distance with that velocity. If the athlete finishes
+the race in 10.4 seconds, determine (i) his initial acceleration, (ii) his maximum velocity.
+
+The velocity of a body moving along a straight line follows the law v = 1.25   — 0.125 t where v is
+the velocity in m/s at time t second. Find the acceleration at time 5 seconds.
+
+Form point O aship A travels in the North making an angle of 45° to the West with a velocity of 18
+kmph abd ship B travels in the east with a velocity of 9 kmph. Find the relative velocity of ship B
+w.r.t. ship A.
+
+» North
+
+» South
+
+A gun fires a projectile with velocity 300 m/s, find the angle of inclination so that it strikes a target at
+horizontal distance of 4000 m from gun and 200 m above it.
+
+“A
+
+(4)
+
+(5)
+
+(5)
+
+(7)
+
+(7)
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper b21535adbcdf
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/FUNDAMNETALS OF ENGINEERING MECHANICS/Fundamentas of Engineering Mechanics Batch 2015-2016 Re Exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 May 2017
+- Text: ocr (3 pages), mean OCR confidence 85.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+}
+a
+
+SVKM’S NMIMS AGT
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT <Aye1
+
+Academic Year: 2016 - 2017 =< a)
+
+j Program: B. Tech Integrated (All Streams)
+
+Year:I Semester:II
+Batch: 2015-16
+
+Marks: 70
+Subject: Fundamentals of Engineering Mechanics Time: (10.00 am to 1.00 pm)
+Date : 15 May 2017 Duration:3 hrs
+
+No. of Pages: 3
+RE - EXAMINATION
+
+Instructions:
+
+1) Illustrate your answer with neat sketches, wherever necessary.
+2) Use of non-programmable pocket calculator is permitted.
+3) Assume suitable additional data, if not given & mention it clearly.
+
+Q:1
+(a) Define Friction, Coefficient of Friction, Angle of Friction and Angle of Repose. 4M
+(b) Define Centroid and note the difference between Centroid and Centre of Gravity 4M
+(c) Elaborate on Parallelogram Law of Force. 3M
+(d) Explain the Concept of FBD and its uses. 3M
+Q.2
+
+(a) Check whether a wire having capacity of 800 N can lift.a load of 800 N, if it is attached as
+shown in figure. 7™.
+
+(b) A weight 100 N is hung by means of a rope to hook in ceiling. Find (i) Pull ‘P’ which is applied
+in horizontal direction which will make the rope inclined @ 150° to the direction of pull
+(ii) Minimum pull equine to hold the rope in above position. Calculate the rope tension in each
+case. 7 M
+
+Kladeo Uecles BSG
+{jf \
+28 wne_ctt CUA8 ! V
+)
+= “psp } AL —
+Sapna Suan ¢ Ba
+
+i5]5| vt
+--- page 2 ---
+Q3
+
+(a) Explain various types of beams with figure. 4M
+
+(b) Explain various types of beam supports with figure. 4M
+
+(c) A simply supported beam weighs 30 KN and having span 6 m. What will be the position of 50
+KN load from the left support such that left hand support reaction is limited to 30 KN. 6M
+
+Q4
+
+(a) An I section is made up of bottom flange of 200 mm X 10 mm, top flange of 150 mm X 10 mm
+and web of 350 mm X 10 mm. The overall depth of section is 370 mm. Find centroid and mark
+
+it. 7™M
+(b) Find the centroid x and y for the lamina shown below. x fT ; ™M
+
+3lo%m™m™
+c |
+on
+i
+Q.5 , Y
+StAdUS , 360mm
+(a) A circle of 3 om diameter is removed from figure. Find centroid x and y of the remainder
+lamina. _ 7™M
+a \\e i+———. R= =% aun
+§ son
+Os
+(b) Find the Fx, Fy resultant angle of resultant and its position for the following figure. 7™M
+Joon
+2ooON
+30°
+a
+\OON
+Nexo}
+950N
+--- page 3 ---
+' Q6
+
+(a) Find F1 and F2 in the figure when it is in equilibrium. ™
+F\
+<e
+Cc
+Nag (A) K
+300N
+—
+ce
+
+LooN VY 900N
+
+(b) A ball is thrown by a boy in the street is caught by another boy 5 m above ground and 15 m
+away after 3 sec. Calculate initial velocity and angle of projection. 7™M
+
+Q7
+
+(a) A pull of 30 N applied at 30° to horizontal just moves the block of weight ‘W’ N. If angle of
+friction = 16°, find coefficient of friction, total reaction and weight of block. ™M
+
+(b) A simply supported beam of span 10 m carries two concentrated loads of 60 KN and 40 KN at 2
+m and 5 m respectively from LHS. In addition to this beam also carries dl of 16 KN/m.
+Calculate support reactions. we
+
+7™M
+
+33
+````
+
 ## 2016-17 · Re-Exam · Sem 2 · paper bb0286a04b04
 
 - Departments: Common (all branches)
@@ -1706,6 +2014,136 @@ pe pe! = Qr fs Bl’
 ce
 ````
 
+## 2015-16 · Re-Exam · Sem 2 · paper b2c4b8f0d549
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/FUNDAMNETALS OF ENGINEERING MECHANICS/Fundamentals of Engineering Mechanics Batch 2014-15 Re Exam_b2c4b8f0d5.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 May 2016
+- Text: ocr (3 pages), mean OCR confidence 87.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+——
+geen & Sy.
+
+SVKM’s NMIMS iF aS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ee ; ~
+7 f=
+Programme: B. Tech Integrated (All Streams) Year: I “Ser smester: II. ME
+ame
+Academic Year: 2015-2016 win
+BATCH: 2014-2015 Marks: 60
+Subject : Fundamentals of Engineering Mechanics Time : 10.00 am to 1.00 pm
+Date : 14 May 2016 Durations: 3 (hrs)
+Re-Examination
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all S questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+j Ql Attempt all questions. 12marks
+Define coplanar forces, concurrent force & non concurrent forces. 3marks
+Draw free body diagram of ladder friction and explain each term 3marks
+What is the equilibrium also State and explain Lamis theorem. 3marks
+State principle of transmissibility and low of parallelogram of forces 3marks
+Q2 | Solve 12marks
+
+A solid block weighing 400N is just on the point of moving down the plane by a force of
+40N acting parallel and up the plane. Find the coefficient of friction , if inclination of plane | 4marks
+is30° to horizontal.
+
+A force of 250N pulls a body of weight 500N up an inclined plane, the force being applied
+
+parallel to the plane. If the inclination of plane with horizontal is 15°, find the coefficient of | 4marks
+friction.
+
+One end of uniform ladder weighing 30N rests against a smooth wall and the other on a
+rough ground. The coefficient of friction is 0.24. find the inclination of ladder to the 4marks
+horizontal when it is on the point of slipping.
+
+Solve 12marks
+
+Find the centroid for ISA 400mm x 300mm x 50mm.
+
+4marks
+--- page 2 ---
+Locate the centroid for lamina as shown in fig.
+
+b \oo | . Re =) anda 4marks
+mm yv\ —
+i Zoomnmy , 209 wm |
+\ |
+) Find the centroid for given figure. 290
+ja
+TT 7
+\o0 I {|
+c 300 WWM" 4marks
+[ Q4 | Solve 12marks
+An electrical bulb of 10N weight is hanging from ceiling. Its wire is pulled by a horizontal
+a | force ‘P? such that its wire makes an angle of 10° with vertical. Find force P and tension in | 4marks
+the wire.
+b A sphere of weight 100KN. it is supported by two planes at 65° & 78° to the horizontal —
+respectively. Calculate the support reactions. mans
+Simply supported beam of 9m span has UDL of 19kN/m on 3.5m length from L.HLS. three
+S down word point loads of 5KN, 15KN, and 1 1kN are also acting on the beam at 3.5m, 4.5m 4marks
+and 7m from L.H.S. find the support reaction.
+Q5 | Solve 12marks
+Five forces of 100N, 200N, 300N, 400N and 500N are acting at angle of 40°, 100°, 210°,
+a | 280° and 340° in anticlockwise direction from X-axis at a point, all acting away from the 4marks
+point. Find the resultant force in magnitude and direction.
+| Calculate the magnitude direction and location of resultant w.r.t. point A for a parallel
+force system as shown in figure. 90 N 5 ON ~\
+| . \00 T
+\
+b 4marks
+--- page 3 ---
+Find and locate the equilibrant of five concurrent forces of 100N, 200N, 300N, S5O0N and 4marks
+600N acting toward originate 20°, 80°, 150°, 230° and 300° respectively along positive X-
+
+c
+axis.
+Q6 | Solve 12marks
+Cars P & Q are travelling in parallel lanes on a straight highway with a uniform velocity of | 4marks
+| a 72kmph. Car p is ahead of car Q by 250m at a certain instant. Car P decelerates uniformly
+at 2.5m/s?, where car Q accelerates uniformly at 2m/s*. When & where will the car Q
+overtake car PP
+A ball is thrown from top of building with speed 12m/s at angle of depression 30° with 4marks
+horizontal strikes the ground 11.3m horizontally from foot of the building as shown in fig.
+— determine height of building?
+b
+*s ‘
+_ TA
+; Two cars A & B start from rest from point O at the same instant & travel towards right 4marks
+° along a straight road. Car A moves with an acceleration of 4m/s* & car B moves with an
+acceleration of 6m/s? Find relative position, velocity , acceleration of car B w.r.t. car A
+Ssecfrom the start.
+7» Q7 | Solve 12marks
+A retaining wall of height 5m has one vertical. The top width is 1m and bottom width is3m. | 4marks
+a . ;
+Find centroid.
+4 A ladder is resting against a smooth vertical wall and rough horizontal floor. Calculate its 4marks
+
+inclination with the horizontal, if the coefficient of friction is 0.40.
+Calculate the reaction for given fig 4marks
+
+
+a wae t [ g
+7 ; IN Dh | ae
+
+Sa
+
+im
+it :
+
+Lyn OW Ly aay “LW
+````
+
 ## 2015-16 · Re-Exam · Sem 2 · paper d5fbe3cfaa8c
 
 - Departments: Common (all branches)
@@ -1872,314 +2310,6 @@ minimum angle with ground for equilibrium when coefficient of friction is 0.25. 
 Va) Roun oat kN
 ````
 
-## 2015-16 · Re-Exam · Sem 2 · paper 22bc8e8cf77d
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/FUNDAMNETALS OF ENGINEERING MECHANICS/Fundamentas of Engineering Mechanics Batch 2015-16 Re Exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 July 2017
-- Text: ocr (3 pages), mean OCR confidence 87.9
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2016 - 2017 r
-Program: B. Tech Integrated (All Streams) Year:1 Semester:II_ , f Ais
-Marks: 70 if a de
-+ 2015-16
-— : ineeri hanics Time: (10. 00a am to-1.00 pm) £Y 5
-Subject: Fundamentals of Engineering Mechani -
-
-Duration:3 hrs” hind
-Date : 12 July 2017 No. of Pages: G2
-
-RE-EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi ATTEMPT ALL QUESTIONS
-
-(A) State principle of transmissibility of force. (2)
-(B) Define equilibrium. (2)
-(C) Enlist sub classification of coplanar force system. (3)
-(D) Define friction and limiting force of friction. (4)
-(E) State and explain Lami’s theorem. (3)
-Q:2
-(A) Find the centroid of ISA (90 x 60 x8) L section. iy (7)
-t
-el
-a
-g
-1 3
-“60 mm .
-(B) Locate the position of centroid for a shaded lamina as ty (7)
-
-shown in the figure. (All dimensions are in mm.)
---- page 2 ---
-(6)
-
-(A) Determine the resultant of six forces as shown in the figure.
-
-iy
-800 NA
-400 N
-300 N 300i
-< 50°
-25%:
-1200 N 600 N
-
-(B) Replace the force system as shown in the figure a single
-
-for and moment at point O. _, HOON a
-; 6ON-m
-eo “>?
-
-(-0.5,0.4) B
-
-728N
-~_(:0.7.0) (0.1,0.2) .
-< —
-(0.4,-0.3)
-250N
-: ¥, 375N
-
-Q:4
-(A) An electric bulb of weight 10 N hangs verticall
-
-y from a ceiling. Its wire is pulled by a horizontal
-force P such that its wire makes angle of 10°
-
-with vertical. Find force P and tension in the wire.
-
-(B) A7 m long ladder is resting against a vertical wall (with which it
-makes an angle of 45° ) and on the floor. If a man whose weight is °
-of half of that of the ladder, climbs it, at what distance along the |
-ladder will he be when the ladder is about to slip. The co-efficient
-
-of friction between the ladder and the wall is 1/3 and between the -
-ladder and the floor is 1/2.
-
-Q:35
-
-(A) A Block weighing 500 N resting on a rough horizontal plane can be moved by a force of 200 N
-applied at an angle of 30° with horizontal. Find the co-efficient of friction.
-
-(B) Determine the reactions of the beam.
-
-2KN
-
-1KNim 45°
-A COO S B
-2m | im ply tm
->i I
-7s
-
-(7)
-
-(7)
-
-(7)
-
-(7)
-
-(7)
-
-(7)
---- page 3 ---
-Q:6
-
-(A)
-
-(B)
-
-(C)
-
-Q:7
-(A)
-
-(B)
-
-Determine the resultant of the parallel force system as shown in the figure.
-5O00N 150N 200N
-
-2 $43
-
-200N 350N
-
-In an Asian Games of 100 m event an athlete accelerates uniformly from the start to his maximum
-velocity in a distance of 4m and runs the remaining distance with that velocity. If the athlete finishes
-the race in 10.4 seconds, determine (i) his initial acceleration, (ii) his maximum velocity.
-
-The velocity of a body moving along a straight line follows the law v = 1.25   — 0.125 t where v is
-the velocity in m/s at time t second. Find the acceleration at time 5 seconds.
-
-Form point O aship A travels in the North making an angle of 45° to the West with a velocity of 18
-kmph abd ship B travels in the east with a velocity of 9 kmph. Find the relative velocity of ship B
-w.r.t. ship A.
-
-» North
-
-» South
-
-A gun fires a projectile with velocity 300 m/s, find the angle of inclination so that it strikes a target at
-horizontal distance of 4000 m from gun and 200 m above it.
-
-“A
-
-(4)
-
-(5)
-
-(5)
-
-(7)
-
-(7)
-````
-
-## 2015-16 · Re-Exam · Sem 2 · paper b21535adbcdf
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/FUNDAMNETALS OF ENGINEERING MECHANICS/Fundamentas of Engineering Mechanics Batch 2015-2016 Re Exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 May 2017
-- Text: ocr (3 pages), mean OCR confidence 85.3
-
-````text
-}
-a
-
-SVKM’S NMIMS AGT
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT <Aye1
-
-Academic Year: 2016 - 2017 =< a)
-
-j Program: B. Tech Integrated (All Streams)
-
-Year:I Semester:II
-Batch: 2015-16
-
-Marks: 70
-Subject: Fundamentals of Engineering Mechanics Time: (10.00 am to 1.00 pm)
-Date : 15 May 2017 Duration:3 hrs
-
-No. of Pages: 3
-RE - EXAMINATION
-
-Instructions:
-
-1) Illustrate your answer with neat sketches, wherever necessary.
-2) Use of non-programmable pocket calculator is permitted.
-3) Assume suitable additional data, if not given & mention it clearly.
-
-Q:1
-(a) Define Friction, Coefficient of Friction, Angle of Friction and Angle of Repose. 4M
-(b) Define Centroid and note the difference between Centroid and Centre of Gravity 4M
-(c) Elaborate on Parallelogram Law of Force. 3M
-(d) Explain the Concept of FBD and its uses. 3M
-Q.2
-
-(a) Check whether a wire having capacity of 800 N can lift.a load of 800 N, if it is attached as
-shown in figure. 7™.
-
-(b) A weight 100 N is hung by means of a rope to hook in ceiling. Find (i) Pull ‘P’ which is applied
-in horizontal direction which will make the rope inclined @ 150° to the direction of pull
-(ii) Minimum pull equine to hold the rope in above position. Calculate the rope tension in each
-case. 7 M
-
-Kladeo Uecles BSG
-{jf \
-28 wne_ctt CUA8 ! V
-)
-= “psp } AL —
-Sapna Suan ¢ Ba
-
-i5]5| vt
---- page 2 ---
-Q3
-
-(a) Explain various types of beams with figure. 4M
-
-(b) Explain various types of beam supports with figure. 4M
-
-(c) A simply supported beam weighs 30 KN and having span 6 m. What will be the position of 50
-KN load from the left support such that left hand support reaction is limited to 30 KN. 6M
-
-Q4
-
-(a) An I section is made up of bottom flange of 200 mm X 10 mm, top flange of 150 mm X 10 mm
-and web of 350 mm X 10 mm. The overall depth of section is 370 mm. Find centroid and mark
-
-it. 7™M
-(b) Find the centroid x and y for the lamina shown below. x fT ; ™M
-
-3lo%m™m™
-c |
-on
-i
-Q.5 , Y
-StAdUS , 360mm
-(a) A circle of 3 om diameter is removed from figure. Find centroid x and y of the remainder
-lamina. _ 7™M
-a \\e i+———. R= =% aun
-§ son
-Os
-poo, Ken ern | bem Ob Fm
-(b) Find the Fx, Fy resultant angle of resultant and its position for the following figure. 7™M
-Joon
-2ooON
-30°
-a
-\OON
-Nexo}
-950N
---- page 3 ---
-' Q6
-
-(a) Find F1 and F2 in the figure when it is in equilibrium. ™
-F\
-<e
-Cc
-Nag (A) K
-300N
-—
-ce
-
-LooN VY 900N
-
-(b) A ball is thrown by a boy in the street is caught by another boy 5 m above ground and 15 m
-away after 3 sec. Calculate initial velocity and angle of projection. 7™M
-
-Q7
-
-(a) A pull of 30 N applied at 30° to horizontal just moves the block of weight ‘W’ N. If angle of
-friction = 16°, find coefficient of friction, total reaction and weight of block. ™M
-
-(b) A simply supported beam of span 10 m carries two concentrated loads of 60 KN and 40 KN at 2
-m and 5 m respectively from LHS. In addition to this beam also carries dl of 16 KN/m.
-Calculate support reactions. we
-
-7™M
-
-33
-````
-
 ## 2014-15 · Final-Exam · Sem 2 · paper ecced2e4801d
 
 - Departments: Common (all branches)
@@ -2187,6 +2317,7 @@ Calculate support reactions. we
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/FUNDAMNETALS OF ENGINEERING MECHANICS/Fundamentals of Engineering Mechanics 2014-15 Final.pdf`
 - Printed on paper: duration hours: 3; exam date: 13/05/2015
 - Text: ocr (3 pages), mean OCR confidence 86.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2306,7 +2437,6 @@ b A ladder is resting against a smooth vertical wall and rough horizontal floor.
 inclination with the horizontal, if the coefficient of friction is 0.40.
 
 Calculate the reaction for given fig 4marks
-i \o Kl aX 2 ok 10 Kolm
 
 © Aon iy
 ‘ _ DAA
@@ -2423,134 +2553,4 @@ Q7a) Five forces of 100N, 200N, 300N, 400N and SOON are acting at angle of 50°,
 Find the resultant force in magnitude and direction. [6Marks]
 
 Q7b) Find the centroid for ISA 90mm x 60mm x 8mm. [6Marks]
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper b2c4b8f0d549
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/FUNDAMNETALS OF ENGINEERING MECHANICS/Fundamentals of Engineering Mechanics Batch 2014-15 Re Exam_b2c4b8f0d5.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 May 2016
-- Text: ocr (3 pages), mean OCR confidence 87.6
-
-````text
-——
-geen & Sy.
-
-SVKM’s NMIMS iF aS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ee ; ~
-7 f=
-Programme: B. Tech Integrated (All Streams) Year: I “Ser smester: II. ME
-ame
-Academic Year: 2015-2016 win
-BATCH: 2014-2015 Marks: 60
-Subject : Fundamentals of Engineering Mechanics Time : 10.00 am to 1.00 pm
-Date : 14 May 2016 Durations: 3 (hrs)
-Re-Examination
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all S questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-j Ql Attempt all questions. 12marks
-Define coplanar forces, concurrent force & non concurrent forces. 3marks
-Draw free body diagram of ladder friction and explain each term 3marks
-What is the equilibrium also State and explain Lamis theorem. 3marks
-State principle of transmissibility and low of parallelogram of forces 3marks
-Q2 | Solve 12marks
-
-A solid block weighing 400N is just on the point of moving down the plane by a force of
-40N acting parallel and up the plane. Find the coefficient of friction , if inclination of plane | 4marks
-is30° to horizontal.
-
-A force of 250N pulls a body of weight 500N up an inclined plane, the force being applied
-
-parallel to the plane. If the inclination of plane with horizontal is 15°, find the coefficient of | 4marks
-friction.
-
-One end of uniform ladder weighing 30N rests against a smooth wall and the other on a
-rough ground. The coefficient of friction is 0.24. find the inclination of ladder to the 4marks
-horizontal when it is on the point of slipping.
-
-Solve 12marks
-
-Find the centroid for ISA 400mm x 300mm x 50mm.
-
-4marks
---- page 2 ---
-Locate the centroid for lamina as shown in fig.
-
-b \oo | . Re =) anda 4marks
-mm yv\ —
-i Zoomnmy , 209 wm |
-\ |
-) Find the centroid for given figure. 290
-ja
-TT 7
-\o0 I {|
-c 300 WWM" 4marks
-[ Q4 | Solve 12marks
-An electrical bulb of 10N weight is hanging from ceiling. Its wire is pulled by a horizontal
-a | force ‘P? such that its wire makes an angle of 10° with vertical. Find force P and tension in | 4marks
-the wire.
-b A sphere of weight 100KN. it is supported by two planes at 65° & 78° to the horizontal —
-respectively. Calculate the support reactions. mans
-Simply supported beam of 9m span has UDL of 19kN/m on 3.5m length from L.HLS. three
-S down word point loads of 5KN, 15KN, and 1 1kN are also acting on the beam at 3.5m, 4.5m 4marks
-and 7m from L.H.S. find the support reaction.
-Q5 | Solve 12marks
-Five forces of 100N, 200N, 300N, 400N and 500N are acting at angle of 40°, 100°, 210°,
-a | 280° and 340° in anticlockwise direction from X-axis at a point, all acting away from the 4marks
-point. Find the resultant force in magnitude and direction.
-| Calculate the magnitude direction and location of resultant w.r.t. point A for a parallel
-force system as shown in figure. 90 N 5 ON ~\
-| . \00 T
-\
-b 4marks
---- page 3 ---
-Find and locate the equilibrant of five concurrent forces of 100N, 200N, 300N, S5O0N and 4marks
-600N acting toward originate 20°, 80°, 150°, 230° and 300° respectively along positive X-
-
-c
-axis.
-Q6 | Solve 12marks
-Cars P & Q are travelling in parallel lanes on a straight highway with a uniform velocity of | 4marks
-| a 72kmph. Car p is ahead of car Q by 250m at a certain instant. Car P decelerates uniformly
-at 2.5m/s?, where car Q accelerates uniformly at 2m/s*. When & where will the car Q
-overtake car PP
-A ball is thrown from top of building with speed 12m/s at angle of depression 30° with 4marks
-horizontal strikes the ground 11.3m horizontally from foot of the building as shown in fig.
-— determine height of building?
-b
-*s ‘
-_ TA
-; Two cars A & B start from rest from point O at the same instant & travel towards right 4marks
-° along a straight road. Car A moves with an acceleration of 4m/s* & car B moves with an
-acceleration of 6m/s? Find relative position, velocity , acceleration of car B w.r.t. car A
-Ssecfrom the start.
-7» Q7 | Solve 12marks
-A retaining wall of height 5m has one vertical. The top width is 1m and bottom width is3m. | 4marks
-a . ;
-Find centroid.
-4 A ladder is resting against a smooth vertical wall and rough horizontal floor. Calculate its 4marks
-
-inclination with the horizontal, if the coefficient of friction is 0.40.
-Calculate the reaction for given fig 4marks
-
-\o vas aon eX) teat ie ral ua
-
-a wae t [ g
-7 ; IN Dh | ae
-
-Sa
-
-im
-it :
-
-Lyn OW Ly aay “LW
 ````

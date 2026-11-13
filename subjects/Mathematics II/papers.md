@@ -1,6 +1,6 @@
 # Mathematics II: question papers in full
 
-54 unique papers · 2014-15 to 2025-26 · Common (all branches), Information Technology, Computer Science, Mechanical, Computer Engineering
+52 unique papers · 2014-15 to 2025-26 · Common (all branches), Information Technology, Computer Science, Mechanical, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -443,6 +443,7 @@ dx 2   dx
 - Source: `02_Question_Papers/Legacy/DIPLOMA/1ST YEAR/Sem_02/MATHEMATICS - II/Mathematics II Batch 2024-25,2025-26 Re Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 80.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -528,7 +529,6 @@ CO-1, BL-3 ii. Do all the vowels always occur together
 iii. Do the words begin with I and end in P
 (b)
 CO-2, BL-2 Find the equation of the line passing through (-3, 5) and perpendicular to
-q P g g Pp [6]
 the line through the points (2, 5) and (-3, 6).
 CO-1,2, |e)
 BL-1,2 . | Evaluate tim 2St22—2"0082 [4]
@@ -1053,6 +1053,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/DIPLOMA/1ST YEAR/Sem_02/MATHEMATICS - II/Mathematics II Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
 - Text: ocr (3 pages), mean OCR confidence 81.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1122,7 +1123,6 @@ SO-1; of the latus rectum of the hyperbola: 9y” — 4x? = 36 [6]
 
 BL-1
 
-FICCI 7) Fk i i ak a kak ak
 --- page 2 ---
 CO-3; | ©) | i) Calculate derivative of the composite function: y = sec(tan yx) 8]
 SO-1;
@@ -1664,6 +1664,134 @@ BL-3
 ********** 3 **********
 ````
 
+## 2024-25 · Re-Exam · Sem 2 · paper 08511eaf1f98
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematics II Batch 2021-22,2022-23,2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 5/5/25
+- Text: ocr (3 pages), mean OCR confidence 80.5
+
+````text
+ZA\VUTE OF pp
+SUE Mays
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT®& E
+Academic Year: 2024-2025
+Program/s: B. Tech. Integrated Year: [ Semester: II
+Stream/s : COMP/IT/DS
+
+Subject: Mathematics II _ Time: 03 hrs (2:00p~ to S 00pm )
+Date: 5/5/25 No. of Pages: 03
+Marks: 100
+
+Qo2I-
+
+Re (2022-23/2023-24) Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+(> 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.”
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8) Use of calculator is not allowed.
+
+Ql. Answer briefly: ; Marks
+CO-2; $O-1;BL-1_ |* | Solve f (1 +2) dx. [4]
+b. | Find the equation of a line perpendicular to the line x — 2y + 3 = 0 and (4)
+-SpBO-1 Ele? passing through the point (1, — 2).
+CO-2; SO-1;BL-1 | © | Obtain the derivative of y = 5*.secx.tan2x. [4]
+CO-4; SO-L:BL-1 Evaluate S i . {4}
+e. -1(h in-2(4y ="
+CO-1; $O-1:BL-1 Prove that cos @) +2sin G a [4]
+Q2. a. Show tha rs cos(7x— —5y)+cos(7y—5x) _ = cot(x + ) [6]
+CO-1; SO-1;BL-2 in(7x—-Sy)+sin(7y—5x) y)-
+b.
+CO-3: SO-1:-BL-1 Show that points (— 2, — 1), (4, 0), (3, 3) and (-3, 2) are the vertices of [6]
+
+a parallelogram.
+
+1/3
+--- page 2 ---
+©. ; 8]
+A spherical ball of salt is dissolving in water in such a manner that the I
+CO-2; SO-2;BL-3 rate of decrease of the volume at any instant is proportional to the
+
+surface. Prove that the radius is decreasing at a constant rate.
+
+a. | Compute the minors and cofactors of matrix of
+
+De. 213 o
+CO-4; SO-1; BL-2 A=|3 1 21.
+12 3
+b. | Show that
+CO-1; SO-2;BL-2 Prove that cot~*(1) + cote 5) + cot~ ) = [6]
+
+CO-2:; $0-2:BL-3 c. | For what values of x is (x) = 2x? —9x*+12x +4, is a decreasing [8]
+
+function?
+Q4. a. : :
+Find the angle between the lines y— V¥3x—5=0and V3y —-x+6=0. [6]
+CO-3; SO-2;BL-2 a
+. b.
+CO-2; SO-2;BL-2 Differentiate x = (cos @ — cos 20)y w.r.t = (sin 8 — sin 26). [6]
+; c.
+CO-1; SO-2; BL-2 Calculate cos 20°cos 40°cos60°cos 80°. [8]
+a. | Apply the properties of determinants to prove:
+QS. laa . . . : (6)
+0-4; SO-1;BL-3 1b b*| =(a-b)(b-e)(c-a).
+lee
+b.
+CO-2; SO-1;BL-2 Evaluate j= =SINX dye, [6]
+c. . [8]
+CO-1; SO-2;BL-2 If tan71(2x) + tan~1(3x) =; » then find value of x.
+6. .
+Q ® | Find® for x* + 5x2y = Bxy? — 6y?. [6]
+CO-2; SO-2;BL-2 dk
+b.
+Line through the points (-2, 6) and (4, 8) is perpendicular to the line
+CO-3; SO-2;BL-1 through the points (8, 12) and (x, 24). Find the value of x. [6]
+
+2/3
+--- page 3 ---
+CO-2; SO-2;BL-3
+
+Evaluate f x.log 2x dx.
+
+[8]
+
+Q7.
+CO-2; SO-2;BL-3
+
+Find f (x + 753) dx.
+
+[6]
+
+CO-2; SO-2;BL-2
+
+in xX = yy
+Obtain a Of y* =x.
+
+[6]
+
+CO-3; SO-2;BL-1
+
+Find equation of the line passing through the point (2, 2) and cutting
+off intercepts on the axes whose sum is 9.
+
+8]
+
+ry
+
+3/3
+````
+
 ## 2023-24 · Final + Re-Exam · Sem 2 · paper 014f1461b359
 
 - Departments: Common (all branches)
@@ -1909,134 +2037,6 @@ i) Find the acute angle between the lines 2x+y-1=0 & 3x+y+4=0. 18]
 3/3
 ````
 
-## 2023-24 · Re-Exam · Sem 2 · paper 08511eaf1f98
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematics II Batch 2021-22,2022-23,2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 5/5/25
-- Text: ocr (3 pages), mean OCR confidence 80.5
-
-````text
-ZA\VUTE OF pp
-SUE Mays
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT®& E
-Academic Year: 2024-2025
-Program/s: B. Tech. Integrated Year: [ Semester: II
-Stream/s : COMP/IT/DS
-
-Subject: Mathematics II _ Time: 03 hrs (2:00p~ to S 00pm )
-Date: 5/5/25 No. of Pages: 03
-Marks: 100
-
-Qo2I-
-
-Re (2022-23/2023-24) Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-(> 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.”
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-8) Use of calculator is not allowed.
-
-Ql. Answer briefly: ; Marks
-CO-2; $O-1;BL-1_ |* | Solve f (1 +2) dx. [4]
-b. | Find the equation of a line perpendicular to the line x — 2y + 3 = 0 and (4)
--SpBO-1 Ele? passing through the point (1, — 2).
-CO-2; SO-1;BL-1 | © | Obtain the derivative of y = 5*.secx.tan2x. [4]
-CO-4; SO-L:BL-1 Evaluate S i . {4}
-e. -1(h in-2(4y ="
-CO-1; $O-1:BL-1 Prove that cos @) +2sin G a [4]
-Q2. a. Show tha rs cos(7x— —5y)+cos(7y—5x) _ = cot(x + ) [6]
-CO-1; SO-1;BL-2 in(7x—-Sy)+sin(7y—5x) y)-
-b.
-CO-3: SO-1:-BL-1 Show that points (— 2, — 1), (4, 0), (3, 3) and (-3, 2) are the vertices of [6]
-
-a parallelogram.
-
-1/3
---- page 2 ---
-©. ; 8]
-A spherical ball of salt is dissolving in water in such a manner that the I
-CO-2; SO-2;BL-3 rate of decrease of the volume at any instant is proportional to the
-
-surface. Prove that the radius is decreasing at a constant rate.
-
-a. | Compute the minors and cofactors of matrix of
-
-De. 213 o
-CO-4; SO-1; BL-2 A=|3 1 21.
-12 3
-b. | Show that
-CO-1; SO-2;BL-2 Prove that cot~*(1) + cote 5) + cot~ ) = [6]
-
-CO-2:; $0-2:BL-3 c. | For what values of x is (x) = 2x? —9x*+12x +4, is a decreasing [8]
-
-function?
-Q4. a. : :
-Find the angle between the lines y— V¥3x—5=0and V3y —-x+6=0. [6]
-CO-3; SO-2;BL-2 a
-. b.
-CO-2; SO-2;BL-2 Differentiate x = (cos @ — cos 20)y w.r.t = (sin 8 — sin 26). [6]
-; c.
-CO-1; SO-2; BL-2 Calculate cos 20°cos 40°cos60°cos 80°. [8]
-a. | Apply the properties of determinants to prove:
-QS. laa . . . : (6)
-0-4; SO-1;BL-3 1b b*| =(a-b)(b-e)(c-a).
-lee
-b.
-CO-2; SO-1;BL-2 Evaluate j= =SINX dye, [6]
-c. . [8]
-CO-1; SO-2;BL-2 If tan71(2x) + tan~1(3x) =; » then find value of x.
-6. .
-Q ® | Find® for x* + 5x2y = Bxy? — 6y?. [6]
-CO-2; SO-2;BL-2 dk
-b.
-Line through the points (-2, 6) and (4, 8) is perpendicular to the line
-CO-3; SO-2;BL-1 through the points (8, 12) and (x, 24). Find the value of x. [6]
-
-2/3
---- page 3 ---
-CO-2; SO-2;BL-3
-
-Evaluate f x.log 2x dx.
-
-[8]
-
-Q7.
-CO-2; SO-2;BL-3
-
-Find f (x + 753) dx.
-
-[6]
-
-CO-2; SO-2;BL-2
-
-in xX = yy
-Obtain a Of y* =x.
-
-[6]
-
-CO-3; SO-2;BL-1
-
-Find equation of the line passing through the point (2, 2) and cutting
-off intercepts on the axes whose sum is 9.
-
-8]
-
-ry
-
-3/3
-````
-
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper 4412718aff68
 
 - Departments: Common (all branches)
@@ -2044,6 +2044,7 @@ ry
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematics II Batch 2022-23 Final & Re Exam0001.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 80.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Program/s: B. Tech. Integrated
@@ -2133,7 +2134,6 @@ CO-2; SO-2; i Find yy if x=cos(logt) , y= log(cosr) [6]
 BL-2 dx ;
 co-1;$0-2; |° | show that: cos 20°. cos 40°.cos 60°.cos 80°, = [8]
 BL-2 16
-Qs. a. |-a° ab ac ;
 0-4: $O-1; Apply the properties of determinants to prove: |ab —-b? be |= 4a*b’c? [6]
 BL-3 ac be -c?
 Co-2;$0-1; | ®- | Evaluate: J (tan x—cot x) dx [6]
@@ -2177,6 +2177,115 @@ Biel ii) Find the perpendicular distance between two parallel lines
 y=2x+4 and y=2x-l. [4]
 
 3/3
+````
+
+## 2022-23 · Re-Exam · Sem 2 · paper a459def16818
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematics II Batch 2020-21 Re Exam0001.pdf`
+- Printed on paper: max marks: 100; exam date: 27 /04 / 2023
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
+Academic Year: 2022-2023 i/
+
+Sear: I Semester: II
+
+\
+
+Program: BTech Integrated Stream; Comp/Mech ea
+\‘ime: 3 hrs (2:00 p.m. to’ 5:00 p.m.)
+Ni yi
+
+Subject: Mathematics II
+
+Date: 27 /04 / 2023.
+
+Marks: 100 a
+Re-Examination (Batch 2020-21)
+
+of Pages: 2
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+hy the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Scientific calculator is not allowed.
+
+Ql. a) Identify the slope of the line which makes an angle of 60° with the positive direction of [04]
+
+X-axis.
+b) Evaluate the integral f (e* + = oF cosx) dx. [04]
+c) Form the differential equation if y = Asinx + Bcosx where A and B are arbitrary [04]
+constants.
+d) Determine the direction cosines of a line given its direction ratios as 2,—1, —2. [04]
+e) How many 4 digit numbers can be formed using the digits 1 to 9 if repetition of the [04]
+
+digits is not allowed.
+
+Q2. a) Locate the equation of the line passing through the points (1, —2) and (2, 3). [07]
+
+b) Determine the centre and radius of the given circle 2x* + 2y? — x = 0. [07]
+
+c) Identify the coordinates of the focus, axis of the parabola, the equation of the directrix [06]
+: and the length of the latus rectum given the equation of parabola y? = 12x.
+
+1|Page
+--- page 2 ---
+Q3 a) Evaluate is TES [07]
+
+b) Evaluate fx?.sinx dx. [07]
+©) Evaluate f Cog. ay, [06]
+x
+Q4 a) Solve the following differential = = San when y(0) = 3 by variable separable [07]
+method.
+b) The population of a village increases at a rate proportional to the population at that [07]
+
+time. In a period of 20 years the population grows from 10 thousand to 15 thousand.
+What will be the population in another 20 years, given f = 1.2247
+
+©) Solve the linear differential equation x 2 +y=x3, [06]
+
+Q5 a) Determine the unit vector perpendicular to both vectors (a + b) and (a - b) where [07]
+a@=i+f+kandb =2+ 2) 43k.
+b) Compute the area of a triangle having the points A(1, 1,1), B(1, 2,3) and C(2,3,1) as [07]
+its vertices.
+
+©) What is the sine of angle between the vectors @ = ?— 2k and b = f-Ak. [06]
+
+6 a Onto 07
+Q ) Evaluate f ane [07]
+b) Compute the area of the region bounded by the curve y = x* and the line y = 4. [07]
+
+c dx 06
+
+) Evaluate f = [06]
+
+Q7 a) Identify the vector equation of the line through the point (2,- 3,5) and parallel to the [07]
+vector f+ 27 — 3k. Also find its Cartesian form.
+
+b) What are the number of ways of selecting 9 balls from 6 red balls, 5 white balls and 5 [07]
+blue balls if each selection consists of 3 balls of each color.
+
+c) Determine the numbers of different 8 letter arrangements that can be made from the [06]
+letters of the word DAUGHTER so that all vowels occur together.
+
+2| Page
 ````
 
 ## 2022-23 · Re-Exam · Sem 2 · paper 8c5948adf6c4
@@ -2417,115 +2526,6 @@ f(x) = 5x6 + 18x5 + 15x* — 10.
 2|2age
 ````
 
-## 2020-21 · Re-Exam · Sem 2 · paper a459def16818
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematics II Batch 2020-21 Re Exam0001.pdf`
-- Printed on paper: max marks: 100; exam date: 27 /04 / 2023
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
-Academic Year: 2022-2023 i/
-
-Sear: I Semester: II
-
-\
-
-Program: BTech Integrated Stream; Comp/Mech ea
-\‘ime: 3 hrs (2:00 p.m. to’ 5:00 p.m.)
-Ni yi
-
-Subject: Mathematics II
-
-Date: 27 /04 / 2023.
-
-Marks: 100 a
-Re-Examination (Batch 2020-21)
-
-of Pages: 2
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-hy the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Scientific calculator is not allowed.
-
-Ql. a) Identify the slope of the line which makes an angle of 60° with the positive direction of [04]
-
-X-axis.
-b) Evaluate the integral f (e* + = oF cosx) dx. [04]
-c) Form the differential equation if y = Asinx + Bcosx where A and B are arbitrary [04]
-constants.
-d) Determine the direction cosines of a line given its direction ratios as 2,—1, —2. [04]
-e) How many 4 digit numbers can be formed using the digits 1 to 9 if repetition of the [04]
-
-digits is not allowed.
-
-Q2. a) Locate the equation of the line passing through the points (1, —2) and (2, 3). [07]
-
-b) Determine the centre and radius of the given circle 2x* + 2y? — x = 0. [07]
-
-c) Identify the coordinates of the focus, axis of the parabola, the equation of the directrix [06]
-: and the length of the latus rectum given the equation of parabola y? = 12x.
-
-1|Page
---- page 2 ---
-Q3 a) Evaluate is TES [07]
-
-b) Evaluate fx?.sinx dx. [07]
-©) Evaluate f Cog. ay, [06]
-x
-Q4 a) Solve the following differential = = San when y(0) = 3 by variable separable [07]
-method.
-b) The population of a village increases at a rate proportional to the population at that [07]
-
-time. In a period of 20 years the population grows from 10 thousand to 15 thousand.
-What will be the population in another 20 years, given f = 1.2247
-
-©) Solve the linear differential equation x 2 +y=x3, [06]
-
-Q5 a) Determine the unit vector perpendicular to both vectors (a + b) and (a - b) where [07]
-a@=i+f+kandb =2+ 2) 43k.
-b) Compute the area of a triangle having the points A(1, 1,1), B(1, 2,3) and C(2,3,1) as [07]
-its vertices.
-
-©) What is the sine of angle between the vectors @ = ?— 2k and b = f-Ak. [06]
-
-6 a Onto 07
-Q ) Evaluate f ane [07]
-b) Compute the area of the region bounded by the curve y = x* and the line y = 4. [07]
-
-c dx 06
-
-) Evaluate f = [06]
-
-Q7 a) Identify the vector equation of the line through the point (2,- 3,5) and parallel to the [07]
-vector f+ 27 — 3k. Also find its Cartesian form.
-
-b) What are the number of ways of selecting 9 balls from 6 red balls, 5 white balls and 5 [07]
-blue balls if each selection consists of 3 balls of each color.
-
-c) Determine the numbers of different 8 letter arrangements that can be made from the [06]
-letters of the word DAUGHTER so that all vowels occur together.
-
-2| Page
-````
-
 ## 2018-19 · Final-Exam · Sem 2 · paper 859b7c006071
 
 - Departments: Common (all branches)
@@ -2533,6 +2533,7 @@ letters of the word DAUGHTER so that all vowels occur together.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2018-19_Final_NhDIJcRlAI.pdf`
 - Printed on paper: exam date: 16 April 2019
 - Text: ocr (3 pages), mean OCR confidence 79.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2578,7 +2579,6 @@ es : : . 4 *y dy i 4 _o-t.
 a) 4 b) 3 c) 2 d 1
 (iii) The differential equation M(x, y)dx+ N(x, y)dy=0 is exact
 6M _ ON - 2 ON OM _ ON 0M aN
-a) “Oy Ox a * Oe m. “ax Oy * ‘Oy a& -
 (iv) The value of [ Jis equal to
 an b) 2a c) av2 ra
 a ha
@@ -2908,624 +2908,14 @@ b) Evaluate f sinx.sin(cosx) dx (6)
 pos 2/3
 ````
 
-## 2018-19 · Re-Exam · Sem 2 · paper f042a922bd0a
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2016-17_2017-18_2018-19_Re_Exam_PcjOuNB1gL.pdf`
-- Printed on paper: duration hours: 3; exam date: 14 June 2019
-- Text: ocr (3 pages), mean OCR confidence 74.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Program :B.Tech Integrated (All Streams) Year: IT Semester: IV
-Academic Year: 2018-2019
-Subject: Engineering Mathematics - I , : Marks: -70 >
-Date: 14 June 2019 | . Time:,-10.00 am to 1.00 pm
-?
-
-Duration: 3 (hrs)
-No. of Pages: a ;
-Re-examination(2016-17/2017-18/18-19) ~~ _ Se
-
-Thatrocsions: Cuntidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary. a
-
-Q1)a) Choose the correct alternative and answer the question: (6)
-12.3
-y Rank of the matrix A=|2 5 7} is
-3 1 2
-a) 0 b) 1 c) 2 d) 3
-” EE
-616°
-a) 2x b) V2 c) Jn d) a
-%
-3) jane cos! @ d0=
-pq pti ax
-=pi£Ft b
-» 402.2} »
-1 of pti gti Pp z)
-= g| £2" d fa
-°) 5A 2 2 ral 2
---- page 2 ---
-4) Rank of matrix A of order n with |4|#0 is
-a)on b) n-1 ce) wr d) n+1
-5) The integrating factor of (x* + dey? dy =0
-a) x! by + ) + ox
-x x
-
-* 2-4 Sot
-b) Show that [xe dx |e at
-
-©) Solve »-(x2y— 2xy" dx — (x3 ~3x? y)dy =0
-Q2) a) For the following matrix A find non-singular matrices P and Q such that
-PAQ is in normal form and hence or otherwise find the rank of A. Also find
-1 1 0 2
-A” if it exists, A= 2 — ’
-2-3. 4
-b) Test the Consistency of the following equations and solve them if possible:
-4x—2y+6z=8, X+y—3z=-1, 15x-3y+9z =21
-c) Examine whether the follo
-
-Q3) a)
-
-b)
-
-c)
-
-Q4) a)
-b)
-
-¢)
-
-wing vectors are linearly independent or
-dependent. If linearly dependent then find the relation between them.
-
-X, =[1,0,2,1], X, =[3,1,2,1],X, =[4,6,2,-4], x, =[-6,0, 3,4]
-Evaluate: - i” (x? + 4) er" de
-
-32
-Prove that: r sin? x dy f 0 sin? x de = Ge i)
-
-Prove that: j, “x4 (2 - cs de = an
-
-Solve : (xy cos x— ysin x—2)dx+xsin x dy=0
-Solve: Pie sin’ y+ xsin2y =x
-
-Solve by variable separable method: (x? + yee ~ Ixy dy=0
-
-6)
-
-(4)
-(S)
-
-6)
-
-(4)
-
-()
-S)
-
-(4)
-
-6)
-S)
-4)
---- page 3 ---
-Q5) a) Investigate for what values of 1 and y the equations
-
-x+2y+3z=4, x+3y+4z=5, x+3y+dz=y have 6)
-@ no solution (ii) a unique solution (iii) an infinite no. of solutions.
-b) 2
-Solve: ay SP 2B a sy =sin’ x ; ()
-a Solve: (D> +3D+2)y=e” where D= a
-” ~ Ok (4)
-
-Q6) a) Change the nail of integration and evaluate:
-
-j _= dy dx @
-vavy' =e
-b) Change to = co-ordinates and evaluate:
-iietaee | °
-> 3 (2 +9’)
-Q7) a) Find the mass of lamina bounded by y? =xand x? =y, the density at (7)
-any point varies as the square of its distance from the origin. _
-b) )
-
-Solve: (D? -4D+4)y =e" +x? +cos2x where D= <
-
-3[%
-````
-
-## 2018-19 · Re-Exam · Sem 2 · paper cce97638ff98
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2018-19 Re Exam.pdf`
-- Printed on paper: exam date: 13 June 2019
-- Text: ocr (4 pages), mean OCR confidence 81.8
-
-````text
-“ SVKM’S NMIMS
-, MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-/ Program :B.Tech Integrated (All Streams) _— Year: I Semester: If
-
-Academic Year: 2018-2019
-Subject: Mathematics-I
-Date: 13 June 2019 Pa
-
-Diiration? 3 (his) WwW
-No of Pages:
-
-Re-examination (2018-19) ~ ,
-
-Instructions: Candidates should read carefully the instructions printed on the question, paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data ifnecessary.
-
-8) Use of scientific calculator is not allowed. Only ordinary calculator allowed.
-
-Q1)A) Choose the correct alternative and answer the question: (10)
-
-1) Find the value of a if ai+ 27+3k and ~i+5j +ak are perpendicular
-
-a) 4 b) -4 c)5: d) -5
-2) The number of distinct permutations of the letters of the word
-REPRESENTATION are
-i‘ ! !
-a) ue b) 14! c) He d) SS
-21312! 3121312! 2131212!
-3) A,B,C are three mutually exclusive and exhaustive events.
-If P(B)= ; P(A) and P(C)= ; P(B) then P(A) is
-4 5 3 1
-a) — b) — = d) —
-) 13 ) 13 °) 13 ) 13
-4) 1 =
-J x+a on
-a) A tpg cael b) J port (Z}+< c) “tog |* fee
-2a x+a a a x-a
-d) jog st! +
-a |a-x
-
-+) y
---- page 2 ---
-5) Which of the following is a unit vector along X-axis?
-
-a) itj   b)f c) i dk
-
-6) Find the value of n if (n+1)!=12(n-1)!
-
-a) n=2 b) n=3 c)n=4 d) n=5
-7) P(A/B)=
-P(ANB) P(ANB)
-a) P(A) b) P(A).P(B) 9) P(ANB) 4) PB)
-
-8) Evaluate: { y yr dy
-
-Ys
-a) ay
-7
-
-2y” 2y’ i,
-+¢ b) ; +¢ c) <5 te d) y?+e
-
-9) The total number of 4-digit number which can be formed using the digits
-0,1,2,3,4,5 if repetition of digits is allowed .
-
-a) 300   b) 1296 c) 1080 d) 120 :
-
-10) Weights of 6 boys in a group are 63, 57, 39, 41, 41, 47. Then the mean
-
-weight is
-a) 47 b) 48 ce) 50 d) 51
-B) Match the following: . (10)
-Conics Length of latus rectum
-Il x =-12y . 64
-3
-2) 3x7 +4y? =1 b) 12
-2 2
-3) 2 2% 21 ) 3
-36 64 2
-2 2 d 18
-4) X42 =1 )
-9 16
-2
-5) yr =18x ef :
---- page 3 ---
-Q2) a) Find the equation of the lines which pass through the point (3,4) and the (7)
-sum of whose intercepts on the axes is 14.
-b) Find the equation of the circle passing through the points (4,1) and (6,5) and (7)
-whose centre is on the line 4x+ y=16.
-c) Find the equation of the ellipse whose foci are at (+4,0) and the (6)
-
-eccentricity is 1/3.
-
-Q3) a) Find the vector equation of a plane passing through the point having (7)
-position vector 3i-2j+kand perpendicular to the vector 47+ 37+2k. Also
-
-reduce it to Cartesian form.
-
-b) Find the vector equation of the line passing through the point 2i+ j-3k (7)
-and perpendicular to the vectors i+ j+k and i+2j—k. Also find its
-Cartesian form.
-
-c) IfAQ,1,1), B(-2,4,3) and C(C-1,5,5) and D(2,2,6) are four points the find (6)
-
-vectors of magnitude 4 units perpendicular to both AB and CD
-
-Q4) a) Find the number of arrangements of the letters of the word TRIANGLE.
-
-i) How many of these begin with T and end with E (7)
-ii) In how many of them do the vowels occupy odd places?
-iii) In how many of them do the vowels occupy second, third and
-fourth places? : .
-b) A group consists of 4 girls and 7 boys. In how many ways can a team of 5
-members be selected if the team has , (7)
-a. No girl
-
-b. At least one boy and one girl
-c. Atleast 3 girls
-
-c) Ifa@=itSk ,b=2i+3k, C=4i—j+2k and d=i-—j then find (®)
-(€-@).(6 x d)
-Q5) a) A bag contains 50 tickets, numbered from 1 to 50. One ticket is drawn at
-
-random. What is the probability that the number on the ticket is a prime ())
-number or greater than 30?
-
-b) Two cards are drawn from a pack of 52 cards. Find the probability that
-i) both are diamonds (7)
-ii) both are face cards
-iii) one is spade and other is non-spade
-iv) both are from same suit
-
-c) If P(A) =0.44, P(B)=0.55 and P(ANB)=0.11 then find the value of
-
-following probabilities:
-a)P(AUB) b)P(ANB) )P(A'NB)   d)P(A)
-
-6)
-
-3)Y
---- page 4 ---
-Q6) a) Find the mean, variance and standard deviation from the following
-
-distribution: (7)
-Class 0-20 | 20-40 | 40-60 | 60-80 | 80-100
-Frequency | 10 30 50 70 90
-
-b) A random variable X has the following pdf:
-
-(7)
-x 0 1 2 3 4 5 6
-POO | 3k 5k Tk 9k 11k | 13k
-Find
-i) k ii) P(X 22) iii) P(O<X <4) iv) Meanof X
-c) A-sample of 150 values has mean 72 and standard deviation 7. A second (9)
-sample of 250 values has mean 73 and standard deviation 6. Find the mean
-and standard deviation (SD) of the combined sample.
-a 2)
-7) a) Evaluate: —= soe @
-(x-D(x+2)(x +3)
-b) ; ee aD ”
-Find the area of the region bounded by the ellipse i ay =
-°) Evaluate: = dx ©
-
-x +8x+20
-
-a)y
-````
-
-## 2017-18 · Re-Exam · Sem 2 · paper 3999b7d46b5d
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2016-17_2017-18_Re_Exam_MzCqwtod4H.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 June 2018
-- Text: ocr (2 pages), mean OCR confidence 78.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program: B.Tech Integrated (All Streams) Year: WT Semester : IV .
-
-, AcademicYear: 2017-2018 .
-! Subject: Engineering Mathematics - II EES
-. Marks: 70 fies
-Time: 2.00 pm to 5/00 pm
-Durations: 3 (hrs) | ;(
-No. of Pages: NS
-
-Re-Examination (2016-17/2017-18)
-
-Date : 28 June 2018 ;
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks:
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks,
-
-7) Assume Suitable data if necessary.
-
-Q.1)a) Reduce the following matrix to Echelon form and hence find its rank. (3)
-12 3 4
-21 4 =5
-8 5 14 17
-15 5 7
-b) Evaluate f xe dx : (3)
-0
-3, ,3\dy_ 2
-c) Solve (x hy )4=x y (4)
-dx
-iN3 Vea é
-d) Evaluate = axly (4)
-0) 6006h[6U) HX +a
-Q.2) a) Reduce the following matrix to Normal form and ‘also find its rank (4)
-
-1 =1 -2 -3
-
-4 | 0 2
-0 3 1 4
-0 1 0 2
-
-b) Examine linear independence or dependence of vectors (1,-1,1]; [2,1,1]; [3,0,2] .
-Find the relation if dependent. (5)
-¢)Test for consistency the following equations and solve them if consistent;
-
-x—2y—3t=2, 2xtytzt1=4, 4x—-—3y+z+7t=8 (5)
---- page 2 ---
-1
-Q.3) a) Evaluate J («log x) de (4)
-0
-
-0 2
-wg?
-b) Evaluate —— dx (5)
-
-laa
-
-|
-c) Evaluate f (1 —Vx) dx (5)
-
-0 .
-Q.4) a) Show that the following D.£. Is exact and hence solve;
-(ye®—2y*)dx+(xe—6xy’—2y)dy=0 given y(0)=2. (4)
-: 3, 5 7 dy : 2 -
-b) Solve the linear differential equation al A nase x=sec x. (5)
-
-x
-dy dy 2,08
-c)Solve —+—4-—+4y=x°+e"+cos2x. 5
-) he dx y (5)
-m/2 acosA ee
-Q.5) a) Evaluate f f rVa—rdrd0 (4)
-0 0
-L 2a
-. . : x
-b) Change the order of integration and evaluate f f —dydx (5)
-oe J
-
-c) Find by double integration the area between the parabola y=4x-~- x (5)
-
-andline y=x
-
-Q.6) a) Find non-singular matrices P and Q such that PAQ is in normal form.
-
-1 1 0
-Also find the rankA. Where A=/] 2 —1 (4)
-23 1
-
-b) Solve the following system of linear equations;,
-
-x+2y+3z=14, 3x+y+2z=11, 2xt+3y+z=11 . (5)
-c) Find integrating factor and solve (x"-+y") dx- xydy=0 . (5)
-(__&___x 1
-Q.7) a —>—_ = cosec (*). (4)
-9 yr nee
-: . dx 2
-b) Solve the Bernoulli's equation Vat yx cosy. (5)
-iy
-1 Y2x—a"
-c) Change to polar and evaluate J f (x? +-y’) de dy (5)
-oO *®
-````
-
-## 2017-18 · Re-Exam · Sem 2 · paper 806da57bfa1f
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2015-16,2016-17,2017-18 Re Exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 29 June 2018
-- Text: ocr (3 pages), mean OCR confidence 84.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program: B.Tech Integrated (All Streams) _ Year: | | Semester:I] -
-
-AcademicYear: 2017-2018 _
-Subject: Mathematics —II
-
-Date: 29 June 2018 Time: 10.00 am to,
-
-Durations: 3 (Hrs) 2
-No. of Pages:
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-8) Use of scientific calculator/basic calculator is not allowed
-
-Q:1 (A) Choose the correct alternative and answer the following questions: (10)
-i) If e is the eccentricity of hyperbola then
-a) e=1 b)e<1 cje>l d) e=0
-
-ii) The value of f 7*dx
-aj te b)7log7+ceqQ rte dé +c
-log7 8 x+1 2
-iii) Radius of the circle 9x? + 9y? = 36 is
-a) 4 b) 2 c= d) 6
-3 ax
-iv) The value of f——
-
--1% Aint = 4) log *** + tan712
-a) tan™* > +e b) Zsin ate c) logs te d) 7 tan ate
-
-v)   Ifmiand mzare slopes of two perpendicular lines then,
-a)mi=mz2 b)mim2=-1 c) m1=-m2 d) mim2= 1
-
-vi) Y- intercept of line 4x + 3y = 12 is
-
-a) 4 b) 3 c) point (4,0) d) point (0, 4)
-vii) Thevector i xj is
-
-a) j bji c) -k d)k
-viii) Ifthe mean of 16, x, 20, 6 is 12, then value of x is
-
-a) 48 b) 6 c) 12 d) 4
-ix) IfP(A) =<, then P(A’) is
-
-1 2 3 1
-a); be FHS
-
-4
---- page 2 ---
-x) The value of pe sin 6 dé is
-
-a)1 b)-1 c)0 d)2
-(B) Match the following: (4)
-Column I Column I
-i) "P; a) (r!)?
-ii) "C; b) 1
-aaa n!
-iii)r! c) aol
-iv)r! _ dj rx(r-1)!
-‘2° "| pr :
-n!
-e) ri(n—-r)!
-Q:2 (a) Find the eccentricity, co-ordinate of the foci, equation of directrices, (5)
-
-the length of major axis, minor axis and the latus rectum for the
-ellipse 8x? + 9y? = 72
-(b) Find the equation of the circle passing through the a (5)——
-points (5, 7), (6, 6), (2, -2)
-(c) If the acute angle between the lines 4x —y + 7 = 0 and
-kx —5y —9 = Ois 45°, then find the value of k (4)
-
-Q:3 (a) Find unit vector perpendicular to the vector @ = 27 — 67 — 3k (5)
-and b = 47+ 37 — k. Further, if @ is the angle between G and b find sin @
-(b) Find the magnitude of moment of force given by F = —41+J+kabout (5)
-a point A(1, 2, 3), given that the point of application of F is (-3, 5, 5)
-(c) Find the Vector and the Cartesian equation of the plane that passes (4)
-through the points (0, 1, -2) and normal to the plane ist + j + k
-
-Q:4 (a) Find the number of words that can be formed using the letters of the word
-
-LOGARITHM if: (5)
-(i) vowels are always together
-(ii) begin with O and end with T
-(iii) consonants occupy even positions
-
-(b) A group consists of 8 men and 5 women. Find the number of committees (5)
-of 5 persons that can be formed, if a committee consists of at least
-3 women.
-
-(c) Find the equation of parabola having vertex at origin, X- axis asitsaxis (4)
-and passing through point (-10, 25)
-
-73
---- page 3 ---
-Q:5 (a) Two fair dice are thrown. Find the probability that the sum of the points (5)
-is at least 10, given that it exceeds 7.
-
-(b) A random variable X has the given probability distribution: (5)
-Xx 0 1 2 | 3 4 5 6
-P(X) k 3k | 5k | 7k | 9k | 11k | 13k
-
-(i) Findk (ii) P(X > 2) (iii) PO < X <4)
-
-(c) Six men in a company of 20 employees are graduates. If 3 men are selected
-
-at random, what is the probability that at least one is a graduate? (4)
-ax
-Q:6 (a) Evaluate: lee a (5)
-; 2
-(b) Find the area of the region bounded by the ellipse + 7 =1 (5)
-dx
-(c) Evaluate: I ese (4)
-Q:7 (a) Arandom variable X has the following probability distribution.
-Find fiean and Variance of X (5)
-xX | 2/1 [0 ]1f 2 | 3
-P(X) 0.1 | 0.1 | 0.2} 0.2] 0.3 | 0.1
-(b) A sample of 100 values has mean 50 and standard deviation 5. (5)
-A second sample of 150 values has mean 40 and standard deviation 6.
-Find the mean and standard deviation of the combined sample.
-(c) Solve: f x? logx dx (4)
-
-Feo RK
-
-B
-````
-
-## 2017-18 · Re-Exam · Sem 2 · paper ca4769a043d4
+## 2018-19 · Re-Exam · Sem 2 · paper ca4769a043d4
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2015-16,2016-17,2017-18 Re Exam_ca4769a043.pdf`
 - Printed on paper: exam date: 13 June 2019
 - Text: ocr (3 pages), mean OCR confidence 87.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 * SVKM’S NMIMS
@@ -3580,7 +2970,6 @@ a) — - c) = dy =
 = Three unbiased coins are tossed, what is the probability of getting zero heads?
 1 1 1 1
 a) — = oc) = d) =
-(a) 3 (b) i (c) Fy (@) 3
 6. A circle with centre (2,3) touches the X-axis then the radius of the circle is
 (a)2 (b) 3 (c) 243 (d) V2? +3?
 1s Find the cross product kxi.
@@ -3737,13 +3126,14 @@ replacement. Find the probability distribution of the number of defective orange
 (7)
 ````
 
-## 2017-18 · Re-Exam · Sem 2 · paper d77aed9386bf
+## 2018-19 · Re-Exam · Sem 2 · paper d77aed9386bf
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2015-16,2016-17,2017-18 Re Exam_d77aed9386.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 10 April 2019
 - Text: ocr (3 pages), mean OCR confidence 82.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM?S NMIMS/
@@ -3797,7 +3187,6 @@ a, 2 &y *
 
 (a) 2 (b) 3 (c) 243 (d) V2? +3?
 5. "C.+"C_.=
-(a) an Oo (b) mC. (c) “"C. (d) mC
 
 6. Variance of X=
 
@@ -3811,7 +3200,6 @@ If f(x) is an odd function then ff (x)dr =
 8. Two unbiased coins are tossed , what is the probability of getting two heads:
 
 1 1 1 1
-(a) ri (b) i (c) 3 (d) 3
 9. °P =2°P_, then r=
 (a) 2 (b)3 (c) 5 (d) 4
 
@@ -3915,156 +3303,450 @@ i
 3/3
 ````
 
-## 2016-17 · Final-Exam · Sem 2 · paper 613a2f514673
+## 2018-19 · Re-Exam · Sem 2 · paper cce97638ff98
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2016-2017_Final_PUAIJEEetJ.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 04 May 2017
-- Text: ocr (2 pages), mean OCR confidence 78.4
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2018-19 Re Exam.pdf`
+- Printed on paper: exam date: 13 June 2019
+- Text: ocr (4 pages), mean OCR confidence 81.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’S ‘NMIMS ers ARS,
-f Pe pe .
-« MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGSSEERING We *
+“ SVKM’S NMIMS
+, MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+/ Program :B.Tech Integrated (All Streams) _— Year: I Semester: If
 
-zt sata B \s
-Academic Year: 2016 - 2017 OAL bee ARE DB
-Program: B. Tech Integrated (All Streams) Year: Semesige. IV ya |
-Subject: Engineering Mathematics - Time: 10.00 am to: 1 agin
-Date: 04 May 2017 Duration: 3 (hrs) _
+Academic Year: 2018-2019
+Subject: Mathematics-I
+Date: 13 June 2019 Pa
 
-No. of Pages: 2
-Marks: 70 FINAL EXAMINATION Aes
+Diiration? 3 (his) WwW
+No of Pages:
+
+Re-examination (2018-19) ~ ,
+
+Instructions: Candidates should read carefully the instructions printed on the question, paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data ifnecessary.
+
+8) Use of scientific calculator is not allowed. Only ordinary calculator allowed.
+
+Q1)A) Choose the correct alternative and answer the question: (10)
+
+1) Find the value of a if ai+ 27+3k and ~i+5j +ak are perpendicular
+
+a) 4 b) -4 c)5: d) -5
+2) The number of distinct permutations of the letters of the word
+REPRESENTATION are
+i‘ ! !
+21312! 3121312! 2131212!
+3) A,B,C are three mutually exclusive and exhaustive events.
+If P(B)= ; P(A) and P(C)= ; P(B) then P(A) is
+4 5 3 1
+a) — b) — = d) —
+) 13 ) 13 °) 13 ) 13
+4) 1 =
+J x+a on
+a) A tpg cael b) J port (Z}+< c) “tog |* fee
+2a x+a a a x-a
+d) jog st! +
+a |a-x
+
++) y
+--- page 2 ---
+5) Which of the following is a unit vector along X-axis?
+
+a) itj   b)f c) i dk
+
+6) Find the value of n if (n+1)!=12(n-1)!
+
+a) n=2 b) n=3 c)n=4 d) n=5
+7) P(A/B)=
+P(ANB) P(ANB)
+a) P(A) b) P(A).P(B) 9) P(ANB) 4) PB)
+
+8) Evaluate: { y yr dy
+
+Ys
+a) ay
+7
+
+2y” 2y’ i,
++¢ b) ; +¢ c) <5 te d) y?+e
+
+9) The total number of 4-digit number which can be formed using the digits
+0,1,2,3,4,5 if repetition of digits is allowed .
+
+a) 300   b) 1296 c) 1080 d) 120 :
+
+10) Weights of 6 boys in a group are 63, 57, 39, 41, 41, 47. Then the mean
+
+weight is
+a) 47 b) 48 ce) 50 d) 51
+B) Match the following: . (10)
+Conics Length of latus rectum
+Il x =-12y . 64
+3
+2) 3x7 +4y? =1 b) 12
+2 2
+3) 2 2% 21 ) 3
+36 64 2
+2 2 d 18
+4) X42 =1 )
+9 16
+2
+5) yr =18x ef :
+--- page 3 ---
+Q2) a) Find the equation of the lines which pass through the point (3,4) and the (7)
+sum of whose intercepts on the axes is 14.
+b) Find the equation of the circle passing through the points (4,1) and (6,5) and (7)
+whose centre is on the line 4x+ y=16.
+c) Find the equation of the ellipse whose foci are at (+4,0) and the (6)
+
+eccentricity is 1/3.
+
+Q3) a) Find the vector equation of a plane passing through the point having (7)
+position vector 3i-2j+kand perpendicular to the vector 47+ 37+2k. Also
+
+reduce it to Cartesian form.
+
+b) Find the vector equation of the line passing through the point 2i+ j-3k (7)
+and perpendicular to the vectors i+ j+k and i+2j—k. Also find its
+Cartesian form.
+
+c) IfAQ,1,1), B(-2,4,3) and C(C-1,5,5) and D(2,2,6) are four points the find (6)
+
+vectors of magnitude 4 units perpendicular to both AB and CD
+
+Q4) a) Find the number of arrangements of the letters of the word TRIANGLE.
+
+i) How many of these begin with T and end with E (7)
+ii) In how many of them do the vowels occupy odd places?
+iii) In how many of them do the vowels occupy second, third and
+fourth places? : .
+b) A group consists of 4 girls and 7 boys. In how many ways can a team of 5
+members be selected if the team has , (7)
+a. No girl
+
+b. At least one boy and one girl
+c. Atleast 3 girls
+
+c) Ifa@=itSk ,b=2i+3k, C=4i—j+2k and d=i-—j then find (®)
+(€-@).(6 x d)
+Q5) a) A bag contains 50 tickets, numbered from 1 to 50. One ticket is drawn at
+
+random. What is the probability that the number on the ticket is a prime ())
+number or greater than 30?
+
+b) Two cards are drawn from a pack of 52 cards. Find the probability that
+i) both are diamonds (7)
+ii) both are face cards
+iii) one is spade and other is non-spade
+iv) both are from same suit
+
+c) If P(A) =0.44, P(B)=0.55 and P(ANB)=0.11 then find the value of
+
+following probabilities:
+a)P(AUB) b)P(ANB) )P(A'NB)   d)P(A)
+
+6)
+
+3)Y
+--- page 4 ---
+Q6) a) Find the mean, variance and standard deviation from the following
+
+distribution: (7)
+Class 0-20 | 20-40 | 40-60 | 60-80 | 80-100
+Frequency | 10 30 50 70 90
+
+b) A random variable X has the following pdf:
+
+(7)
+x 0 1 2 3 4 5 6
+POO | 3k 5k Tk 9k 11k | 13k
+Find
+i) k ii) P(X 22) iii) P(O<X <4) iv) Meanof X
+c) A-sample of 150 values has mean 72 and standard deviation 7. A second (9)
+sample of 250 values has mean 73 and standard deviation 6. Find the mean
+and standard deviation (SD) of the combined sample.
+a 2)
+7) a) Evaluate: —= soe @
+(x-D(x+2)(x +3)
+b) ; ee aD ”
+Find the area of the region bounded by the ellipse i ay =
+°) Evaluate: = dx ©
+
+x +8x+20
+
+a)y
+````
+
+## 2017-18 · Re-Exam · Sem 2 · paper 8b1a114c2f01
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2015-2016_Re_Exam_1ApG7iTJ19.pdf`
+- Printed on paper: max marks: 60; exam date: 04 May 2018
+- Text: ocr (2 pages), mean OCR confidence 80.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (All Streams) ~ Year: II ~ Semester: IV
+
+Academic Year: 2017-2018
+
+Subject: Engineering Mathematics - II i
+: Marks: 60 < A” ait
+Date: 04 May 2018 < Time: 10.00 am ¢6.$00°pm
+Durations: 3 (h ae
+No. of Pages: 2 3
+
+Re-examination (2015-16) /
 
 Instructions: Candidates should read carefully the instructions printed on the
-
 question paper and on the cover of the Answer Book, which is provided for their
+
 use.
 
 1) Question No. 1 is compulsory.
+
 2) Out of remaining questions, attempt any 4 questions.
+
 3) In all 5 questions to be attempted.
-“ 4) All questions carry equal marks.
-5) Auswer to each new question to be started on a fresh page.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+7) Assume suitable data if necessary.
 
-Q.1
+Ql
 a) Reduce the following matrix to Echelon form and also find its rank. (3)
-13 22
-12 13
+13 2 2
+12 1 3
 243 4
-3.7 4 8 -
-b) Evaluate [ yer ad ; (3)
+374 8
+b) Evaluate [ x eo dx 6))
 0
-c) Evaluate (z cos )ae-[2 sin 2 + cos 65 =0 (4)
-x x yx x
-1 "2
-1
-d) Evaluate [ [ — «ys (4) -
-0 0 1-x? - y
-Q2 :
+c) Solve 3e* tany dx + (1-e*) sec ydy = 0 (3)
+Ll x
+d) Evaluate f J xy(x+y) dvdx (3)
+Oo x?
+Q.2
 a) Reduce the following matrix to Normal form and also find its rank. (4)
-1 2 2 3
-2 5 -4 6
--1 32 -2
-2 4 -1 6 :
+1 -1 2 -3
+4 1 0 2
+03 1 4
+0 1 0 2
 
-b) Determine the linear independence or dependence of the vectors [1, 1, 1, 3];
-[1, 2, 3, 4]; [2, 3, 4,7]. Find the relation between them, if dependent. (5)
+b) Determine the linear independence or dependence of the vectors [1,3,4,2];
+[3,-5,2,6]; [2,-1,3,4]; . Find the relation between them, if dependent. (4)
 
 c) Test for consistency the following equations and solve them, if possible
-2x—3y+5z=1; 3x+y—-z=2; x+4y-6z=1. (5)
+5xt+3yt+7z=4; 3x+26y+2z2=9; Tx+2y+10z=5; (4)
 
-A
+1 2
 --- page 2 ---
 Q3
-a) Evaluate f 5 oe
+a) Evaluate J Tae
 
+(4)
 0
-L v2
-b) Evaluate f vi-2” a& J 2y-4y" dy
+1/2,
+b) Evaluate [ x° Vi-4x? dx (4)
+0
+alr al2
+c) Evaluate J tan 0 dé J cot 6 dé (4)
 0 0
-7
-c) Evaluate f 4(x-3)(7-x) d&
 
 Q4
 
-a) Show that the following differential equation is exact and hence solve:
-(1+ lost) ae+{1+=]ay =0, given y(0) = 4.
-y
-dy
+a) Solve 2(1+x* Vy) yde+ (7 y +2) xdy= 0 (4)
 
-b) Solve the linear differential equation: xcos i +y (x sinx + cosx)=1.
+qd
 
-c) Solve: (D*-2D?-5D+ 6)y=e* +8.
+b) Solve x(x-1) & — (x-2)y = x°(2x-1) (4)
 
-Q.5
-1 pva?+x? dydx
-a) Evaluate il i, Fasteye :
-b) Change the order of integration and evaluate { (? 5 Z: 7 dedy «
-y x+y
+wa ED, Dy wm dacs? 4
+c) Solve ae 1 OY = 700s 2x (4)
+Q5
+z/2 \-sin@
+a) Evaluate J J r’ cos@ dr dé. (4)
+0 0
+a 2a-x
+b) Change the order of integration J J wa (x, y) dy dx. (4)
+0 la
+c) Find by double integration the area common to the circles x’ + y? -4y =0
 
-c) Find the area of the region bounded by y =x, x-axis andx = 1.
-
+and x? +y?—4x-4y=4=0. (4)
 Q.6
-1 1 2
+a) Find non-singular matrices P and Q such that PAQ is in normal form. (4)
 
-a) Find non-singular matrices P and Q such that A=) 1 2 3 jis reduced to
-0 -l -l
+1 2 —2
+-1 3. 0 |, also find rank of A.
+0 -2 #1
+b) Solve the following equations by first finding A"' where A is the co-efficient
 
-normal form.
+matrix. x+ y+z=9; 2x+5y+7z=52; 2x+y-z=0. (4)
 
-b) Solve the following system of linear equations
+dy x }
 
-xt ytz=3,x+2y+3z=4,x+4y+9z=6
-c) Find the integrating factor and hence solve (2x logx —xy)dx +2ydy=0-
+Sol — + or 4
+) Solve T+ (a |y = ay. (4)
+Q.7
 
-Q7
-a) Evaluate f sin’ A(1+cos 6) do
-0
+= (1 +x")
+a) Evaluate J = dk (4)
+0 = (1+ x)
+b) Solve y(xy + 2x?y?) de + x(xy-2"y’) dy = 0 (4)
+c) Evaluate J J xy dx dy over the region bounded by the x-axis, ordinate at
+x= 2a and the parabola x’ =4ay (4)
 
-b) Solve the Bernoulli’s equation: x4 y=x'ys
-
-c) Evaluate ff x(x—y)dxdy where R is the triangle with the vertices
-
-(0,0), (12), 04)
-
-@)
-
-65)
-
-G)
-
-@)
-(5)
-
-6)
-
-(4)
-
-(5)
-6)
-
-(4)
-
-(6)
-
-(5)
-
-@)
-
-G)
-
-6)
-
-%
-
-Se
+2 j2
 ````
 
-## 2016-17 · Re-Exam · Sem 2 · paper 8a89060c19ba
+## 2017-18 · Re-Exam · Sem 2 · paper 3999b7d46b5d
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2016-17_2017-18_Re_Exam_MzCqwtod4H.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 June 2018
+- Text: ocr (2 pages), mean OCR confidence 78.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program: B.Tech Integrated (All Streams) Year: WT Semester : IV .
+
+, AcademicYear: 2017-2018 .
+! Subject: Engineering Mathematics - II EES
+. Marks: 70 fies
+Time: 2.00 pm to 5/00 pm
+Durations: 3 (hrs) | ;(
+No. of Pages: NS
+
+Re-Examination (2016-17/2017-18)
+
+Date : 28 June 2018 ;
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks:
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks,
+
+7) Assume Suitable data if necessary.
+
+Q.1)a) Reduce the following matrix to Echelon form and hence find its rank. (3)
+12 3 4
+21 4 =5
+8 5 14 17
+15 5 7
+b) Evaluate f xe dx : (3)
+0
+3, ,3\dy_ 2
+c) Solve (x hy )4=x y (4)
+dx
+iN3 Vea é
+d) Evaluate = axly (4)
+0) 6006h[6U) HX +a
+Q.2) a) Reduce the following matrix to Normal form and ‘also find its rank (4)
+
+1 =1 -2 -3
+
+4 | 0 2
+0 3 1 4
+0 1 0 2
+
+b) Examine linear independence or dependence of vectors (1,-1,1]; [2,1,1]; [3,0,2] .
+Find the relation if dependent. (5)
+¢)Test for consistency the following equations and solve them if consistent;
+
+x—2y—3t=2, 2xtytzt1=4, 4x—-—3y+z+7t=8 (5)
+--- page 2 ---
+1
+Q.3) a) Evaluate J («log x) de (4)
+0
+
+0 2
+wg?
+b) Evaluate —— dx (5)
+
+laa
+
+|
+c) Evaluate f (1 —Vx) dx (5)
+
+0 .
+Q.4) a) Show that the following D.£. Is exact and hence solve;
+(ye®—2y*)dx+(xe—6xy’—2y)dy=0 given y(0)=2. (4)
+: 3, 5 7 dy : 2 -
+b) Solve the linear differential equation al A nase x=sec x. (5)
+
+x
+dy dy 2,08
+c)Solve —+—4-—+4y=x°+e"+cos2x. 5
+) he dx y (5)
+m/2 acosA ee
+Q.5) a) Evaluate f f rVa—rdrd0 (4)
+0 0
+L 2a
+. . : x
+b) Change the order of integration and evaluate f f —dydx (5)
+oe J
+
+c) Find by double integration the area between the parabola y=4x-~- x (5)
+
+andline y=x
+
+Q.6) a) Find non-singular matrices P and Q such that PAQ is in normal form.
+
+1 1 0
+Also find the rankA. Where A=/] 2 —1 (4)
+23 1
+
+b) Solve the following system of linear equations;,
+
+x+2y+3z=14, 3x+y+2z=11, 2xt+3y+z=11 . (5)
+c) Find integrating factor and solve (x"-+y") dx- xydy=0 . (5)
+(__&___x 1
+Q.7) a —>—_ = cosec (*). (4)
+9 yr nee
+: . dx 2
+b) Solve the Bernoulli's equation Vat yx cosy. (5)
+iy
+1 Y2x—a"
+c) Change to polar and evaluate J f (x? +-y’) de dy (5)
+oO *®
+````
+
+## 2017-18 · Re-Exam · Sem 2 · paper 8a89060c19ba
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -4240,6 +3922,477 @@ G)
 (5)
 ````
 
+## 2017-18 · Re-Exam · Sem 2 · paper ff7a9522e139
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2014-15 Re Exam_ff7a9522e1.pdf`
+- Printed on paper: max marks: 60; exam date: 03 May 2018
+- Text: ocr (2 pages), mean OCR confidence 89.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (All Streams) ~ Year: I v Semester: II ~ —
+
+gene
+
+Academic Year: 2017-2018 ~ a ~
+; [gf acstMe ye
+Subject:Mathematics —II ~ iad Li 1B 4 A aY 1G
+‘ Marks:60 y
+Date:03 May 2018 ” Time: 10.0 aa KM
+
+. Durations: 3 i :
+
+4 No. of Pages :
+
+Re- examination (2014-15) ~”
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. Lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql.
+
+a) How many 8 letter arrangements can be made from the letters of the word
+‘DIVISION’ such that the word.
+i. Starts with N and ends with D,
+ii. All vowels occur together,
+iii. All letters are used at a time.
+b) Ifa fair die is rolled. What is the probability of getting a number
+i. greater than 5,
+ii. | even number,
+iii. | square number.
+c) Find the equation of the line passing through the point (2, 2) and slope 5:
+4) Find unit vectors perpendicular to a and bif a=2i- J+3k and b=3i+ J-Ak.
+
+Q2
+a) Find the equation of the circle with’end points of diameter (2,-3) & (-3,5).
+b) Find the coordinates of the foci and the vertices, the eccentricity and the length of the
+2 2
+latus rectum of the hyperbolas. 7 - * =1
+c) Find the equation of the ellipse whose latus rectum is 5 and whose eccentricity is 2/3.
+d) Find the equation of the parabola with vertex (0,0) and focus (3,0) .
+Q3
+
+a) Find the vector equation of the plane which is at a distance of 6 units from the origin
+and which is normal to the vector 2i— j+2k. Hence find the Cartesion form of the
+
+vector equation.
+b) Find the work done by the force F = 3i+2/-4k acting at the point A(1, -2, -3) which
+is displaced to the point B(4, 3, -2)
+
+1/2
+
+(4)
+
+(3)
+
+(3)
+
+Q)
+
+(4)
+(3)
+
+(3)
+(2)
+
+(4)
+
+(3)
+--- page 2 ---
+c)
+
+d)
+
+Q4.
+a)
+
+b)
+
+c)
+
+QS.
+a)
+
+b)
+
+c)
+
+Q6.
+a)
+
+b)
+c)
+
+Q7.
+
+b)
+c)
+
+In how many ways can one select a cricket team of eleven from 17 players in which
+only 5 players can bowl if each cricket team of 11 must include exactly 4 bowlers?
+
+Find the projection of aonb if ab=8 and b=21+6j+3k.
+
+i) Find the number of ways of selecting 9 balls from 6 red balls, 5 white balls and 5
+blue balls if each selection consists of 3 balls of each color.
+ii) In how many ways can a student choose a programme of 5 courses if 9 courses are
+available and 2 specific courses are compulsory for every student?
+Find the mean, variance and Standard Deviation of the random variable X whose
+robability distribution is given below:
+x 0 1 2 3
+P(x) 1/4 1/4 0 2/4
+In an examination, a question paper consists of 12 questions divided into 2 parts, ie.
+Part I and Part II, containing 5 and 7 question respectively. A student is required to
+attempt 8 questions in all, selecting at least 3 from each part. In how many ways can
+a student select the questions? -
+
+Calculate the mean, variance and Standard Deviation for the following distribution:
+
+Cl. 0-10 | 10-20 | 20-30 | 30-40 ;
+Freque | 2 5 6 7
+ney
+
+A person plays a game of tossing a coin thrice. For each head, he is given Rs. 2 by the
+organizer of the game and for each tail, he has to give Rs. 1.50 to the organizers. Let X
+denote the amount gained or lost by the person. Obtain the probability distribution
+
+function for X.
+
+The means of two samples of sizes 50 and 100 respectively are 54.1 and 50.3 and the
+standard deviation are 8 and 7 respectively. Obtain the mean and standard deviation of
+the sample of size 150 obtained by combining the two samples.
+
+Evaluate ) xe dx .
+Find the area of the region bounded by the curve y= x’ and the line y=4.
+
+Evaluate fe" cos xdx .
+
+Find / if the point (3,/) lies on the line which cuts off equal intercepts on the co-
+
+ordinate axes and passes through the point (2, 3).
+Find the angle between the lines whose direction ratios are 5,12,-13 and 3,-4,5.
+
+e 2
+Evaluate: J ogxy 4, .
+y *
+
+2/2
+
+(3)
+(2)
+
+(4)
+(4)
+
+(4)
+
+4)
+(4)
+
+(4)
+
+(4)
+(4)
+
+4)
+
+(4)
+(4)
+````
+
+## 2017-18 · Re-Exam · Sem 2 · paper 806da57bfa1f
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2015-16,2016-17,2017-18 Re Exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 29 June 2018
+- Text: ocr (3 pages), mean OCR confidence 84.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program: B.Tech Integrated (All Streams) _ Year: | | Semester:I] -
+
+AcademicYear: 2017-2018 _
+Subject: Mathematics —II
+
+Date: 29 June 2018 Time: 10.00 am to,
+
+Durations: 3 (Hrs) 2
+No. of Pages:
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+8) Use of scientific calculator/basic calculator is not allowed
+
+Q:1 (A) Choose the correct alternative and answer the following questions: (10)
+i) If e is the eccentricity of hyperbola then
+a) e=1 b)e<1 cje>l d) e=0
+
+ii) The value of f 7*dx
+aj te b)7log7+ceqQ rte dé +c
+log7 8 x+1 2
+iii) Radius of the circle 9x? + 9y? = 36 is
+a) 4 b) 2 c= d) 6
+3 ax
+iv) The value of f——
+
+-1% Aint = 4) log *** + tan712
+a) tan™* > +e b) Zsin ate c) logs te d) 7 tan ate
+
+v)   Ifmiand mzare slopes of two perpendicular lines then,
+a)mi=mz2 b)mim2=-1 c) m1=-m2 d) mim2= 1
+
+vi) Y- intercept of line 4x + 3y = 12 is
+
+a) 4 b) 3 c) point (4,0) d) point (0, 4)
+vii) Thevector i xj is
+
+a) j bji c) -k d)k
+viii) Ifthe mean of 16, x, 20, 6 is 12, then value of x is
+
+a) 48 b) 6 c) 12 d) 4
+ix) IfP(A) =<, then P(A’) is
+
+1 2 3 1
+a); be FHS
+
+4
+--- page 2 ---
+x) The value of pe sin 6 dé is
+
+a)1 b)-1 c)0 d)2
+(B) Match the following: (4)
+Column I Column I
+i) "P; a) (r!)?
+ii) "C; b) 1
+aaa n!
+iii)r! c) aol
+iv)r! _ dj rx(r-1)!
+‘2° "| pr :
+n!
+e) ri(n—-r)!
+Q:2 (a) Find the eccentricity, co-ordinate of the foci, equation of directrices, (5)
+
+the length of major axis, minor axis and the latus rectum for the
+ellipse 8x? + 9y? = 72
+(b) Find the equation of the circle passing through the a (5)——
+points (5, 7), (6, 6), (2, -2)
+(c) If the acute angle between the lines 4x —y + 7 = 0 and
+kx —5y —9 = Ois 45°, then find the value of k (4)
+
+Q:3 (a) Find unit vector perpendicular to the vector @ = 27 — 67 — 3k (5)
+and b = 47+ 37 — k. Further, if @ is the angle between G and b find sin @
+(b) Find the magnitude of moment of force given by F = —41+J+kabout (5)
+a point A(1, 2, 3), given that the point of application of F is (-3, 5, 5)
+(c) Find the Vector and the Cartesian equation of the plane that passes (4)
+through the points (0, 1, -2) and normal to the plane ist + j + k
+
+Q:4 (a) Find the number of words that can be formed using the letters of the word
+
+LOGARITHM if: (5)
+(i) vowels are always together
+(ii) begin with O and end with T
+(iii) consonants occupy even positions
+
+(b) A group consists of 8 men and 5 women. Find the number of committees (5)
+of 5 persons that can be formed, if a committee consists of at least
+3 women.
+
+(c) Find the equation of parabola having vertex at origin, X- axis asitsaxis (4)
+and passing through point (-10, 25)
+
+73
+--- page 3 ---
+Q:5 (a) Two fair dice are thrown. Find the probability that the sum of the points (5)
+is at least 10, given that it exceeds 7.
+
+(b) A random variable X has the given probability distribution: (5)
+Xx 0 1 2 | 3 4 5 6
+P(X) k 3k | 5k | 7k | 9k | 11k | 13k
+
+(i) Findk (ii) P(X > 2) (iii) PO < X <4)
+
+(c) Six men in a company of 20 employees are graduates. If 3 men are selected
+
+at random, what is the probability that at least one is a graduate? (4)
+ax
+Q:6 (a) Evaluate: lee a (5)
+; 2
+(b) Find the area of the region bounded by the ellipse + 7 =1 (5)
+dx
+(c) Evaluate: I ese (4)
+Q:7 (a) Arandom variable X has the following probability distribution.
+Find fiean and Variance of X (5)
+xX | 2/1 [0 ]1f 2 | 3
+P(X) 0.1 | 0.1 | 0.2} 0.2] 0.3 | 0.1
+(b) A sample of 100 values has mean 50 and standard deviation 5. (5)
+A second sample of 150 values has mean 40 and standard deviation 6.
+Find the mean and standard deviation of the combined sample.
+(c) Solve: f x? logx dx (4)
+
+Feo RK
+
+B
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper 58688e7ff73f
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2015-16_Re_Exam_OvoTX1kSFn.pdf`
+- Printed on paper: exam date: 08 July 2017
+- Text: ocr (2 pages), mean OCR confidence 80.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2016 - 2017
+
+Program: B. Tech Integrated (All Streams) Year:II Semester:IV
+Batch: 2015-16 Marks: pen: ee.
+Subject: Engineering Mathematics-II Time: (2¢ Aegis Soo st 7
+Date : 08 July 2017 Durationg§ cars 4 4)
+No. 0 rst Za :
+RE - EXAMINATION >
+as
+
+Instructions: Candidates should read carefully the instructions printed on
+question paper and on the cover of the Answer Book, which is provided for their
+use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+re
+
+Q.1
+a) Reduce the following matrix to Echelon form and also find its rank. (3)
+1 2 3 -l
+—2 -1 -3 -l
+1 0 1 1
+oO t 1 -l
+b) Evaluate [ x e~* dx (3)
+0
+c) Evaluate (x°+y° y = x 3
+) (P+y)o = xy (3)
+d) Evaluate f { ee (3)
+1 0 x +y
+Q2
+a) Reduce the following matrix to Normal form and also find its rank. (4)
+23 4 5
+3 4 5 6
+4 5 6 7
+9 10 11 12
+
+b) Determine the linear independence or dependence of the vectors [1,1,-1,1];
+{1,-1,2,-1]; [3,1,0,1]; . Find the relation between them, if dependent. (4)
+
+c) Test for consistency the following equations and solve them, if possible
+5x+3yt72 = 4; 3x F 26y #2229; “7x4 2y +102 =5; : ; (4)
+
+“fo
+--- page 2 ---
+Q3
+a) Evaluate J log (I/x) dx (4)
+
+0
+
+2a
+b) Evaluate [ x? V2ax—x? de (4)
+
+0
+x
+
+c) Evaluate J sin? 0 (1+cos8)" do (4)
+
+0
+Q4
+dy (ycosx+siny+y)
+
+a) Solve —+ — = 0 (4)
+(sin x +xcos y +x)
+dy. (1-2x
+b) Solve —+ = | 4
+) che [ 2 \y (4)
+2
+c) Solve 2% 5% x 6y = sin 3x (4)
+dx
+Q.5
+7/2 I-sind
+a) Evaluate * J J r’ cos@ dr dé. (4)
+0 0
+2 4- et y
+b) Change the order of integration and evaluate i) dy ax (4)
+o 0 4-y
+c) Find by double integration the area bounded by the lines y=a+x, y=a-x
+and x=a, (a>0). (4)
+Q.6
+a) Find non-singular matrices P and Q such that PAQ is in normal form. (4)
+1 1 1
+1 -1 -I], also find rank of A.
+3 1 1
+
+b) Solve the following equations by first finding A where 4 is the co-efficient
+
+matrix. x+y+z=9; 2x+5y+7z=52; 2xt+y-z=0. (4)
+dy 3,3
+Solve — = xy-xy, 4
+c) che yxy 4)
+Q.7
+ll
+a) Evaluate J 4|(x-7)(11-x) dx (4)
+7
+b) Solve (xy-2xy’) dx - (x° -3x’y) dy = 0 (4)
+
+c) Evaluate ) j (x? - y’) x dx dy over the positive quadrant of the circle
+
+Pyaar. (4)
+
+ay
+````
+
 ## 2016-17 · Re-Exam · Sem 2 · paper d99560415ae3
 
 - Departments: Common (all branches)
@@ -4360,6 +4513,588 @@ Rox +yY
 Ye
 ````
 
+## 2016-17 · Re-Exam · Sem 2 · paper b52614ee625c
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 07 July 2017
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2016-2017
+Program: B. Tech Integrated (All Streams) Year: I
+Batch: 2014-15
+Subject: Mathematics —II
+Date : 07 July 2017
+
+RE - EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. Lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+4
+
+Q.1.
+a) Find the equation of the line passing through the point (2, 2) and cutting off (3)
+intercepts on the axes whose sum is 9.
+b) Find the area of a triangle ABC if the position vectors of the points A, B, C are (2)
+i-2j+k,2i-j+2k,-i-j-k.
+c) If a fair die is rolled. What is the probability of getting a number. (3)
+i. Greater than two,
+ii, Odd number,
+iii. | Square number.
+d) How many 8 letter arrangements can be made from the letters of the word (4)
+‘DAUGHTER’ such that the word-
+i. Starts with A and ends with D,
+ii. All vowels occur together,
+iii. All letters are used at a time.
+Q.2
+a) Find the equation of a circle passing through the point (2, 3) and (-1,1) and (4)
+whose Centre is on the line x-3y—11=0.
+b) Find the equation of the parabola having focus (6, 0) and directrix x=-6. (2)
+C) Find the equation of the ellipse whose latus rectum is 5 and whose eccentricity is (2 )
+2/3.
+d) Find the coordinates of foci and the vertices, the eccentricity and the length of the (4)
+latus-rectum of the hyperbola 9y* —16x” =144.
+Q.3
+a) Find the work done by the forces 12i+6k,2i7+77,10i+8j+6k ona point P which (3)
+
+is displaced from the position 2i+4j+k to the position 2i+8j+4k.
+--- page 2 ---
+b) Find the projection of a=2i+2j—k on b=6i-2j +k. (2)
+
+c) Find the vector equation of a line passing through (0, 4, 2) and parallel to the (4)
+vector 3i+4j+6k, also find its Cartesian equation.
+d) In how many ways can a student choose a programme of 5 course if 9 courses are (3)
+
+available and
+i. 2 specific courses are compulsory for every student.
+ii. | specific course is compulsory.
+
+Q4. (a) If A and B are two events such that P(A)=0.44, P(B)=0.55, P(A()B)=0.1lthen (4)
+find :
+i. P(AUB) iii, P(A()B’)
+ii, = P(A’) B’) iv. P(BIA’)
+(b) Find the mean, variance and Standard Deviation of the random variable X whose (4)
+robability distribution is given below:
+x 0 1 2 3
+P(x) 1/8 3/8 3/8 1/8
+(c) A survey of families in a certain city showed that 60% of the families are having (4)
+washing machine, 55% are having microwave oven, 40% of those who are having
+washing machine, are having a microwave oven. If a family is selected at
+random, find the probability that it has neither a washing machine nor a
+microwave oven.
+
+Q5. (a) Calculate the mean, variance and Standard Deviation for the following distribution: (6)
+
+CI. 0-30 | 30-60 | 60-90 | 90-120 | 120-150 | 150-180 | 180-210
+Freque | 9 17 43 82 81 44 24
+ney
+
+(b) A manufacturing firm produces steel pipes in 3 plants with daily production (6)
+
+volumes of 500, 1000 and 2000 units respectively. It is known that the fraction of
+defective outputs produced by the 3 plants are 0.005, 0.008 and 0.010. Ifa pipe is
+selected from a day’s total production and found to be defective, what is the
+probability that it came from the first plant.
+
+Q6. (a) ; sin’ x (4)
+Evaluate
+J v1-x°
+(b) Find the area between the line y=4x and y* =4x ; (4)
+(c) (4)
+
+Evaluate J e* sin xdx
+
+Q7. (a) Find / if the point (3,/) lies on the line which cuts off equal intercepts on the co- (4)
+ordinate axes and passes through the point (2, 3).
+
+(b) Find the distance between the line r = (i+2j7+k)+AG—j+k) and the point (4)
+A=(2,3,4).
+4
+(9) Evaluate —— , @
+x —5x+6
+
+2fo_
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper 7154a74361fb
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2014-15 Re Exam_7154a74361.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
+- Text: ocr (2 pages), mean OCR confidence 87.4
+
+````text
+“gore Ny
+, af ~ +
+ry BY
+CS PRARW Ji
+SVKM’S NMIMS a Ue
+S er ate
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENCENE fGNe
+
+Academic Year: 2016 - 2017
+Program: B. Tech Integrated (All Streams)
+
+Batch: 2014-15
+
+Year:I Semester:
+
+Marks: 60
+Subject: Mathematics —II Time: (10.00 am to 1.00 pm)
+Date : 05 May 2017 ; Duration:3 hrs
+
+No. of Pages: 2
+RE - EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOURquestions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql) Find equation of the line passing through the point (2, 2) and cutting off (3mks)
+a) intercepts on the axes whose sum is 9.
+
+b) | Find the angle @ between the vectorsé = i+ f—kandb =t—-j+k. (3mks)
+Also find projection of b on a.
+
+c)| A letter lock contains three rings, each ring contains 5 different letters. | (3mks)
+Determine the maximum number of false trials that can be made before the lock
+
+is opened’:
+d) | If °C, :"C, =11:1 then find n. (3mks)
+Q2) a) |! Find the equation of the circle which passes through the points (S5mks)
+
+(5,7), (6, 6) and (2, -2).
+
+b) | Find the coordinates of the focus, the equation of the directrix ,length of the latus | (4mks)
+rectum and end-points of latus rectum of ys 20x
+
+c) | Find the equations of the hyperbola satisfying the given conditions. (3mks)
+Vertices (0, +3), foci (0, +5),
+
+Q3) a)| What is the number of ways of choosing 4 from a pack of 52 playing | (Smks)
+
+cards, such that
+a)4 cards belong to 4 different suits
+b)2 are red cards and 2 are black cards
+c)Are face cards
+
+C I
+--- page 2 ---
+b) | Ifa, Bb, are position vectors of vertices of a triangle where @ = 41 +f + 3k, | (4mks)
+b=i+3j)+2k, €=21+7k then prove that the triangle is a right-
+angled triangle. Also find its area.
+
+c) | A force F = 32 + 2) — 4k is applied at the point (1,-1,2). Find the (3mks)
+moment of force about the point (2,-1,3).
+
+Q4) a) | Two dice are thrown simultaneously. If X denotes the number of sixes, | (Smks)
+find the expectation , variance and standard deviation of X.
+
+b) | Calculate the probability of picking a card form a pack of cards that was a | (4mks)
+
+heart or a king.
+c) | Three horses A, B and C are in arace. A is twice as likely to win as B (3mks)
+and B is twice as likely to win as C. What are the respective probability
+of winning.
+Q5) a) | Calculate the mean, variance and standard deviation of the following data: | (6 mks)
+Age 0-10 10-20 20-30 30-40 40-50
+No.of 12 18 20 25 23
+persons
+
+b) | A factory has two machines. Machine 1 produces 30% of the items and | (6mks)
+Machine 2 produces 70% of the items. 5% of the items produced by
+Machine 1 were defective and 1% produced by Machine 2 were
+defective. If a defective item is drawn at random, What is the
+probability that the defective item was produced by Machine 2.
+
+5mk
+=) 8 Evaluate: | x?.e% dx (mks)
+
+b) Evoluare: dx (4mks)
+varuare: \ Get I(x + 2)
+
+c) | Find the area of the region bounded by the curve y = x? and the line y = | (mks)
+4.
+
+Q7) a)| fa=H+j+k,b=i-jf—k,¢=2-2j—-k then find a.(b x &) | (mks)
+
+b) | A random variable X has the following probability distribution: (4mks)
+
+x 1 2 3 4 =) 6
+pm |_k | 2k | 3k | 2k | k | k
+Find k and expectation of X.
+
+4 mk
+* Fvatuate: { 4x° — 5x2 +6 dx (@mks)
+
+(ae
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper ea3668f066f3
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2014-15 Re Exam_ea3668f066.pdf`
+- Printed on paper: exam date: 07 July 2017
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2016-2017
+> Program: B. Tech Integrated (All Streams) Year:I
+Batch: 2014-15 .
+Subject: Mathematics —II
+Date : 07 July 2017
+
+rae
+es: O25
+RE - EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. Lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+4
+
+Q.l.
+a) Find the equation of the line passing through the point (2, 2) and cutting off (3)
+intercepts on the axes whose sum is 9.
+b) Find the area of a triangle ABC if the position vectors of the points A, B, C are (2)
+i-2j+k,2i—j+2k,-i-j—k .
+c) If a fair die is rolled. What is the probability of getting a number. (3)
+i. Greater than two,
+ii. Odd number,
+iii. | Square number.
+d) How many 8 letter arrangements can be made from the letters of the word (4)
+‘DAUGHTER’ such that the word-
+i. Starts with A and ends with D,
+ii. All vowels occur together,
+iii. All letters are used at a time.
+Q2
+a) Find the equation of a circle passing through the point (2, 3) and (-1,1) and (4)
+whose Centre is on the line x-—3y—11=0.
+b) Find the equation of the parabola having focus (6, 0) and directrix x=-6. (2)
+C) Find the equation of the ellipse whose latus rectum is 5 and whose eccentricity is (2)
+2/3.
+d) Find the coordinates of foci and the vertices, the eccentricity and the length of the (4)
+latus-rectum of the hyperbola 9y’ —16x? =144.
+Q3
+a) Find the work done by the forces 12i+6k,2i+77,10i+87+6k ona point P which (3)
+
+is displaced from the position 2i+4j+k to the position 2i+8j+4k.
+
+Ps
+--- page 2 ---
+b) Find the projection of a=2i+2j—k on b=6i—2j +k. (2)
+
+c) Find the vector equation of a line passing through (0, 4, 2) and parallel to the (4)
+vector 3i+47+6k, clso find its Cartesian equation.
+d) In how many ways can a student choose a programme of 5 course if 9 courses are (3)
+
+available and
+i. 2 specific courses are compulsory for every student.
+ii. | specific course is compulsory.
+
+Q4. (a) If A and B are two events such that P(A)=0.44, P(B)=0.55, P(A()B)=0.11then (4)
+
+find :
+i. P(AUB) iii, PCAN B')
+ii, = P(A’) B’) iv. P(BI)A’)
+(b) Find the mean, variance and Standard Deviation of the random variable X whose (4)
+robability distribution is given below:
+x 0 ] 2 3
+P(x) 1/8 3/8 3/8 1/8
+
+(c) A survey of families in a certain city showed that 60% of the families are having (4)
+washing machine, 55% are having microwave oven, 40% of those who are having
+washing machine, are having a microwave oven. If a family is selected at
+random, find the probability that it has neither a washing machine nor a
+microwave oven.
+
+Q5. (a) Calculate the mean, variance and Standard Deviation for the following distribution: (6)
+Ci. 0-30 | 30-60 | 60-90 | 90-120 | 120-150 | 150-180 | 180-210
+Freque | 9 17 43 82 81 44 24
+ney
+(b) A manufacturing firm produces steel pipes in 3 plants with daily production (6)
+
+volumes of 500, 1000 and 2000 units respectively. It is known that the fraction of
+defective outputs produced by the 3 plants are 0.005, 0.008 and 0.010. If a pipe is
+selected from a day’s total production and found to be defective, what is the
+probability that it came from the first plant.
+
+Q6. (a) r sin x (4)
+Evaluate
+J V1-x?
+(b) Find the area between the line y=4x and y* =4x ; (4)
+(c) (4)
+
+Evaluate J e* sin xdx
+
+Q7. (a) Find / if the point (3,/) lies on the line which cuts off equal intercepts on the co- (4)
+ordinate axes and passes through the point (2, 3).
+
+(b) Find the distance between the line 7 = (Gi+2j+k)+A(i-—j+k) and the point (4)
+A=(2,3,4).
+4
+(9) Evaluate J — . @)
+x* —5x+6
+Ze
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper fc70b35e4b8f
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2015-16 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 05 May 2017
+- Text: ocr (4 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+f
+j
+
+SVKM’S NMIMS 4;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI i
+
+Academic Year: 2016 - 2017
+
+) Program: B. Tech Integrated (All Streams) Year: I Semester: I
+Subject: Mathematics —II Time: 10.00 am to 1.00 pm
+Date: 05 May 2017 Duration: 3 (hrs)
+
+Marks: 70 No. wo A
+
+FINAL - EXAMINATION (BATCH 2016-17
+RE - EXAMINATION (BATCH 2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+- 2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8) Use of scientific calculator is not allowed. Only basic calculator allowed.
+
+QlI.(a) | Choose the correct alternative and answer the question: (10 marks)
+
+3.
+4, | The value of [tax is
+x
+2
+
+(a) log (3) (b) toe( 2) (c) logs (d) log3
+
+~ 2. | The mean number of heads in three tosses of a fair coin is
+1 3
+3 b) = = d) 8
+(a) (b) 5 (c) 5 (d)
+3. | Which of the following is a unit vector along X-axis
+(a) 2i (b)i ©J @Qi+j
+
+4.
+Jasin( 5 d@ is
+
+(ayeos( (b) -1200s( 2) (c) cosee( 5 (d) seos( 2]
+
+5. | what is ix 7
+(a)k (b) -k (i (dj
+
+= faa ; Nw, D
+--- page 2 ---
+a
+44+x°
+
+(a) sin™ () +c (b)tan™ (=) +e (c)cos™ (=) +¢ (5 tan" (3) +c
+
+7. | The mean of the data 6,7,10,12,13,4,8,12 is
+
+(a) 10 (b) 9 (c) 11 (d)12
+g. | An unbiased die is thrown, then the probability that the score is a prime
+number is
+(a) 1/2 (b) 1/3 (c) 2/3 (d)1/4 «
+im "P. =
+!
+19.
+5
+What is the value of ©4
+(a) 4! (b) 5 (c) 5! (d) 4
+Q1.(b) | Match the following: (4 marks)
+Conics Eccentricity
+i) Ellipse a) e=0
+ii) Hyperbola b) e<l
+iii) Parabola c) e>l
+iv) Circle d) e=1
+Q2 (a) _ 3 . (4 marks)
+
+Find the equation of ellipse with eccentricity 7 passing through (6, 4)
+
+and major axis is X-axis.
+
+(b) | Find the equation of a circle with Centre (2, 2) and passes through the (4 marks)
+
+point (4,5).
+(c) | Find the coordinates of foci , the eccentricity and the length of the latus- | (3 marks)
+2 2
+rectum of the hyperbola 2. =].
+25 9
+(d) | Find the equation of a line passing through the point P (4,-5) and (3 marks)
+
+parallel to the line passing through the points A (3, 7) and B (-2, 4).
+
+3a) be the directionatio) of any directed line? (6 marks)
+Be F E CoSches
+
+Justify your answer.
+
+(i) Can —=
+
+(ii) Find the unit vector in the direction of the vector a=2i+3jtk.
+
+2 /y
+--- page 3 ---
+(iii) Find the angle between the vectors a=it+j—-k andb=i-j+k.
+
+(b)
+
+Find the vector equation of the line passing through the points A= (3, (4 marks)
+4, -7) and B = (6, -1, 1). Hence also find its Cartesian form.
+
+(c)
+
+Find the vector and the Cartesian equation of the plane which passes (4 marks)
+through a point (0 ,1 ,-2) and normal to the plane is i+ j+k
+
+Q4.(a)
+
+In how many ways can the letters of the word PERMUTATIONS be | (5 marks)
+arranged if the
+
+i) Words start with P and each end with S
+
+ii) Vowels are all together
+
+iii) There are always 4 letters between P and S
+
+(b)
+
+A group consists of 4 girls and 7 boys. In how many ways can a team of | (5 marks)
+5 members be selected if the team has
+
+i) No girl
+
+ii) At least 3 girls
+
+iii) At most 2 girls
+
+©)
+
+(i) Write any equation of a line passing through origin. (4 marks)
+(ii) Find the equation of directix of the parabola x? =—day.
+2 2}
+
+(iii) Find the major axis of as =1 where a>b.
+a
+
+(iv) Find the slope of the line 17x+3y=I1 .
+
+Q5.(a)
+
+Let X denote the number of hours you study during a randomly selected } (5 marks)
+school day. The probability that X can take the values x, has the following
+form, where k is some unknown constant.
+
+0.1, if =0
+
+kx, if x =1 or 2
+
+PLAN =) 5 _ if x=3or4
+
+0, otherwise
+i) Find the value of k.
+ii) What is the probability that you study at least two hours?
+iii) What is the probability that you study exactly two hours?
+iv) What is the probability that you study ot most two hours?
+
+(b)
+
+Five men in a group of 20 are graduates. If 3 men are picked out of 20 | (5 marks)
+at random what is the probability of at least one being graduate.
+
+(c)
+
+Bag I contains 3 red and 4 black balls while another Bag II contains 5 (4 marks)
+red and 6 black balls. One ball is drawn at random from one of the bags
+
+and it is found to be red. Find the probability that it was drawn from
+
+Bag IL.
+--- page 4 ---
+Q6.(a) Feinhisare: xetxt1 1 (5 marks)
+valuate: Gx + Dx? + 1 x
+
+() | Find the area of the region bounded by the ellipse oa + - =1 (5 marks)
+©) Evaluate: = (4 marks)
+3x° +13x-10
+Q7.(a) | Find the mean and standard deviation (SD) of the data: (5 marks)
+Class 0-10 10-20 20-30 30-40 40-50
+Interval
+Frequency | 3 5 8 3 1
+
+(b) | A sample of 35 values has mean 80 and standard deviation 4. A second | (5 marks)
+sample of 65 values has mean 70 and standard deviation 5. Find the
+mean and standard deviation of the combined sample.
+
+(c) | Evaluate: fuetae ; (2 marks)
+
+(d) | Find the value of a if ai+2j7+3k and —i+5j + ak are perpendicular. | (2 marks)
+````
+
 ## 2016-17 · Re-Exam · Sem 2 · paper 21c9b581df6c
 
 - Departments: Common (all branches)
@@ -4367,6 +5102,7 @@ Ye
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2015-16,2016-17 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: exam date: 03 May 2018
 - Text: ocr (4 pages), mean OCR confidence 84.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4420,7 +5156,6 @@ a) 213! es 9 2! 2 3!
 3) 1
 dx =
 la
-a) enlag ml b) aloe a Lg c) Zea, sane RY,
 2a x+a 2a a-x a x-a
 I
 
@@ -4454,7 +5189,6 @@ a) tan x46 b) tan?x+e c) = Xtc. d) sec?xt+e
 10) | A class consists of 10 boys and 8 girls. Three students are selected at
 random. What is the probability that the selected group has 1 boy and 2 girls
 Lan x8C 0 x on
-a) oe b) 6.x °C; c) ao d) °C, x SC, .
 B)_ | Match the following: (4)
 Conics Length of latus rectum
 2 ~ Ta) 12
@@ -5012,470 +5746,237 @@ c) Evaluate j J xy dx dy over the Region bounded by the x-axis, ordinate at
 x=2a andthe parabola x? = 4ay. (4)
 ````
 
-## 2015-16 · Re-Exam · Sem 2 · paper 58688e7ff73f
+## 2015-16 · Re-Exam · Sem 2 · paper 216e5457b28c
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2015-16_Re_Exam_OvoTX1kSFn.pdf`
-- Printed on paper: exam date: 08 July 2017
-- Text: ocr (2 pages), mean OCR confidence 80.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2016 - 2017
-
-Program: B. Tech Integrated (All Streams) Year:II Semester:IV
-Batch: 2015-16 Marks: pen: ee.
-Subject: Engineering Mathematics-II Time: (2¢ Aegis Soo st 7
-Date : 08 July 2017 Durationg§ cars 4 4)
-No. 0 rst Za :
-RE - EXAMINATION >
-as
-
-Instructions: Candidates should read carefully the instructions printed on
-question paper and on the cover of the Answer Book, which is provided for their
-use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-re
-
-Q.1
-a) Reduce the following matrix to Echelon form and also find its rank. (3)
-1 2 3 -l
-—2 -1 -3 -l
-1 0 1 1
-oO t 1 -l
-b) Evaluate [ x e~* dx (3)
-0
-c) Evaluate (x°+y° y = x 3
-) (P+y)o = xy (3)
-d) Evaluate f { ee (3)
-1 0 x +y
-Q2
-a) Reduce the following matrix to Normal form and also find its rank. (4)
-23 4 5
-3 4 5 6
-4 5 6 7
-9 10 11 12
-
-b) Determine the linear independence or dependence of the vectors [1,1,-1,1];
-{1,-1,2,-1]; [3,1,0,1]; . Find the relation between them, if dependent. (4)
-
-c) Test for consistency the following equations and solve them, if possible
-5x+3yt72 = 4; 3x F 26y #2229; “7x4 2y +102 =5; : ; (4)
-
-“fo
---- page 2 ---
-Q3
-a) Evaluate J log (I/x) dx (4)
-
-0
-
-2a
-b) Evaluate [ x? V2ax—x? de (4)
-
-0
-x
-
-c) Evaluate J sin? 0 (1+cos8)" do (4)
-
-0
-Q4
-dy (ycosx+siny+y)
-
-a) Solve —+ — = 0 (4)
-(sin x +xcos y +x)
-dy. (1-2x
-b) Solve —+ = | 4
-) che [ 2 \y (4)
-2
-c) Solve 2% 5% x 6y = sin 3x (4)
-dx
-Q.5
-7/2 I-sind
-a) Evaluate * J J r’ cos@ dr dé. (4)
-0 0
-2 4- et y
-b) Change the order of integration and evaluate i) dy ax (4)
-o 0 4-y
-c) Find by double integration the area bounded by the lines y=a+x, y=a-x
-and x=a, (a>0). (4)
-Q.6
-a) Find non-singular matrices P and Q such that PAQ is in normal form. (4)
-1 1 1
-1 -1 -I], also find rank of A.
-3 1 1
-
-b) Solve the following equations by first finding A where 4 is the co-efficient
-
-matrix. x+y+z=9; 2x+5y+7z=52; 2xt+y-z=0. (4)
-dy 3,3
-Solve — = xy-xy, 4
-c) che yxy 4)
-Q.7
-ll
-a) Evaluate J 4|(x-7)(11-x) dx (4)
-7
-b) Solve (xy-2xy’) dx - (x° -3x’y) dy = 0 (4)
-
-c) Evaluate ) j (x? - y’) x dx dy over the positive quadrant of the circle
-
-Pyaar. (4)
-
-ay
-````
-
-## 2015-16 · Re-Exam · Sem 2 · paper 8b1a114c2f01
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Engineering_Mathematics_II_Batch_2015-2016_Re_Exam_1ApG7iTJ19.pdf`
-- Printed on paper: max marks: 60; exam date: 04 May 2018
-- Text: ocr (2 pages), mean OCR confidence 80.2
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematics II Batch 2014-15 Re Exam_216e5457b2.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2016
+- Text: ocr (2 pages), mean OCR confidence 88.0
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E
 
-Programme: B.Tech Integrated (All Streams) ~ Year: II ~ Semester: IV
-
-Academic Year: 2017-2018
-
-Subject: Engineering Mathematics - II i
-: Marks: 60 < A” ait
-Date: 04 May 2018 < Time: 10.00 am ¢6.$00°pm
-Durations: 3 (h ae
-No. of Pages: 2 3
-
-Re-examination (2015-16) /
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their
-
-use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
+Programme: B. Tech Integrated (All Streams) Year: I {
+Academic Year: 2015-2016 BX . ed /
+; Sings ape *
+BATCH: 2014-2015 Marks: 60 “
+Subject : Mathematics —II Time : 10.00 am to 1.00 pm
+Date : 05 May 2016 Durations: 3 (hrs)
+Re-Examination
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. ‘
+NB:
+1) Question No. ONE is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
 4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
+(~ 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary
+Q1 3
+a) Find angle between the plane 3x+2y-z=11 and the plane passing through the point (5, 2,-4),
+(2, 5, -3) and (1, 3, 3). ‘
+b) An unbiased coin is tossed three times. Find the probability of getting at most two heads. 3
+x
+°) Evaluate aS 3
+d) Find area of triangle having vertices A (2, 3, -1), B (1, -2, 4) and C (2, 0, 5), using vectors. 3
+. Q2. ;
+A a) — Find equation of hyperbola having Foci (0, +710 ) and is passing through (2, 3). 4
+b) A straight line passes through the point (1, 2) and is parallel to the line 2x+3y+6= 0. 4
+Find i) equation of the line ii) x- intercept and y- intercept of the line. ‘
+c) Find coordinates of vertices and foci, length of latus rectum and eccentricity of the ellipse 4
+9x7+3y7=144.
+Q.3 @ A line passes through the points A (-2, -1, 5) and B (1, 3, -1), find the equation of line in 4
+| Cartesian form. Also find the distance of point (2, 5, 3) from this line.
+b) How many numbers greater than 56000 can be formed by using the digits 4, 5,6,7,8 such 4
+, that no digit is repeated in any number?
+a c) Finda -(b XO, if @= 31-2f+k,b= -t+3f—-2k andé= 4+ f+ k. 4
 
-Ql
-a) Reduce the following matrix to Echelon form and also find its rank. (3)
-13 2 2
-12 1 3
-243 4
-374 8
-b) Evaluate [ x eo dx 6))
-0
-c) Solve 3e* tany dx + (1-e*) sec ydy = 0 (3)
-Ll x
-d) Evaluate f J xy(x+y) dvdx (3)
-Oo x?
-Q.2
-a) Reduce the following matrix to Normal form and also find its rank. (4)
-1 -1 2 -3
-4 1 0 2
-03 1 4
-0 1 0 2
-
-b) Determine the linear independence or dependence of the vectors [1,3,4,2];
-[3,-5,2,6]; [2,-1,3,4]; . Find the relation between them, if dependent. (4)
-
-c) Test for consistency the following equations and solve them, if possible
-5xt+3yt+7z=4; 3x+26y+2z2=9; Tx+2y+10z=5; (4)
-
-1 2
+9
 --- page 2 ---
-Q3
-a) Evaluate J Tae
+Q4.
 
-(4)
-0
-1/2,
-b) Evaluate [ x° Vi-4x? dx (4)
-0
-alr al2
-c) Evaluate J tan 0 dé J cot 6 dé (4)
-0 0
+a) | Find mean and standard deviation for the following data. 4
+x: 6 10 14 18 24 28 30
+f: 2 6 10 9 6 11 6
+b) A fair die is rolled. Consider the events E = {1, 3, 5}, F= {2, 3}, G= {2, 3, 4, 5}. 4
+Find i) P(E|F) ii)P([E U F]|G).
+c) One card is drawn from a deck of 52 cards. Find the probability that the card drawn is 4
+either a king or a red card.
+Q5.
+a) | Arandom variable has probability distribution given as: . 6
+Xx 0 1 2 3 4 5 6 7
+P(X=x) | 0 k 2k 2k 3k ee 2k? Tk? +k ~
 
-Q4
+i) Find k. ii) Find P (0<X<4) iii) variance (X)
+b) Given three identical boxes I, II and III, each containing two coins. In box I, both coins are 6
+gold coins, in box II, both are silver coins and in the box III, there is one gold and one
+silver coin. A person chooses a box at random and takes out a coin. If the coin is of gold,
+what is the probability that the other coin in the box is also of gold?
 
-a) Solve 2(1+x* Vy) yde+ (7 y +2) xdy= 0 (4)
+Q.6.
+a) Find the area of the region bounded by the parabola y= x’ and the line y=x in the first 4
+quadrant.
+b) i
+Evaluate x - sin? x dx. 4
+x?+6x-8 :
+°) Evaluate f ican dx 4
+Oe
+a) A group consists of 4 girls and 7 boys. In how many ways can a committee of five 4
 
-qd
+members be selected if the committee has i) no girl ii) at least 2 boys and 1 girl.
 
-b) Solve x(x-1) & — (x-2)y = x°(2x-1) (4)
+b) Find the equation of the circle passing through the points (4, 1) and (6, 5) and whose centre 4°
+is on the line 4x + y= 16.
+c) If the position vectors of A, Band Care f+ 27+k,2?+3k and 3fi-f+2k 4
 
-wa ED, Dy wm dacs? 4
-c) Solve ae 1 OY = 700s 2x (4)
-Q5
-z/2 \-sin@
-a) Evaluate J J r’ cos@ dr dé. (4)
-0 0
-a 2a-x
-b) Change the order of integration J J wa (x, y) dy dx. (4)
-0 la
-c) Find by double integration the area common to the circles x’ + y? -4y =0
+respectively, find a unit vector along the direction of (2AB —3BC + AC) :
 
-and x? +y?—4x-4y=4=0. (4)
-Q.6
-a) Find non-singular matrices P and Q such that PAQ is in normal form. (4)
-
-1 2 —2
--1 3. 0 |, also find rank of A.
-0 -2 #1
-b) Solve the following equations by first finding A"' where A is the co-efficient
-
-matrix. x+ y+z=9; 2x+5y+7z=52; 2x+y-z=0. (4)
-
-dy x }
-
-Sol — + or 4
-) Solve T+ (a |y = ay. (4)
-Q.7
-
-= (1 +x")
-a) Evaluate J = dk (4)
-0 = (1+ x)
-b) Solve y(xy + 2x?y?) de + x(xy-2"y’) dy = 0 (4)
-c) Evaluate J J xy dx dy over the region bounded by the x-axis, ordinate at
-x= 2a and the parabola x’ =4ay (4)
-
-2 j2
+4 XeoeKeneXonao=
 ````
 
-## 2015-16 · Re-Exam · Sem 2 · paper fc70b35e4b8f
+## 2015-16 · Re-Exam · Sem 2 · paper 84fefd27d21a
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2015-16 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 05 May 2017
-- Text: ocr (4 pages), mean OCR confidence 87.2
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematics II Batch 2014-15 Re Exam_84fefd27d2.pdf`
+- Printed on paper: exam date: 30 June 2016
+- Text: ocr (2 pages), mean OCR confidence 85.6
 
 ````text
-f
-j
-
-SVKM’S NMIMS 4;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI i
-
-Academic Year: 2016 - 2017
-
-) Program: B. Tech Integrated (All Streams) Year: I Semester: I
-Subject: Mathematics —II Time: 10.00 am to 1.00 pm
-Date: 05 May 2017 Duration: 3 (hrs)
-
-Marks: 70 No. wo A
-
-FINAL - EXAMINATION (BATCH 2016-17
-RE - EXAMINATION (BATCH 2015-16)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-- 2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-8) Use of scientific calculator is not allowed. Only basic calculator allowed.
-
-QlI.(a) | Choose the correct alternative and answer the question: (10 marks)
-
-3.
-4, | The value of [tax is
-x
 2
 
-(a) log (3) (b) toe( 2) (c) logs (d) log3
+_
 
-~ 2. | The mean number of heads in three tosses of a fair coin is
-1 3
-3 b) = = d) 8
-(a) (b) 5 (c) 5 (d)
-3. | Which of the following is a unit vector along X-axis
-(a) 2i (b)i ©J @Qi+j
+Programme:B. Tech Integrated(All Streams) Year: I
 
-4.
-Jasin( 5 d@ is
+Batch:2014-2015
+Subject :Mathematics —II Marks: 6'
 
-(ayeos( (b) -1200s( 2) (c) cosee( 5 (d) seos( 2]
+Date : 30 June 2016 Durations
 
-5. | what is ix 7
-(a)k (b) -k (i (dj
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-= faa ; Nw, D
+Academic Year: 2015-2016
+
+fyvst™E :
+Giga 10 1:00 pm
+ROP) raga
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB: 7
+
+1) Question No. ONE is gompulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+2) All questions carry equal marks.
+*5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Q.1a)
+
+b)
+
+c)
+d)
+
+Q.2a)
+b)
+
+c)
+
+Q.3 a)
+b)
+
+c)
+Q.4 a)
+
+b)
+
+Find the equation of the line whose intercept on the x-axis is double that on y-axis and passing (3)
+thought the point (4,1).
+
+Evaluate j SEEDS RES @)
+(x +1)(x +2)
+
+Find the angle between the two planes 3x—6y+2z=7 and 2x+2y—2z=5. (3)
+Find nif "'p,:"p,=1:9 . G3)
+Find the equation of the circle whose Centre is at (1,-3) and which touches the line 2x-y=4. (4)
+Find the equation of the parabola that satisfies the following conditions: vertex (0, 0), and (4)
+Focus(-2,0).
+
+Find the coordinates of the foci, the vertices, the length of major axis and minor axis, (4)
+eccentricity and the length of the latus rectum of the ellipse - +o |
+
+Find two vector of magnitude 7 unit perpendicular to both vectors 2i+ j-3k and (4)
+
+i- 27 +k.
+Show that the vector 2/— +k, i-37-5k and 3i-47—4k form the sides of aright angled (4)
+triangle. Also find the remaining angles of the triangle.
+A bag contains 5 black and 6 red balls. Determine the number of ways in which 2 black and 3 (4)
+red balls can be selected.
+A committee of two persons is selected from two men and two women. What is the probability (3)
+that the committee will have (a) no man? (b) one man? (c) two men?
+Two cards are drawn at random from a well shuffled pack of 52 playing cards. Find the
+probability that the two cards drawn from a pair of the King and Queen of the same suit. (3)
+
+4/2
 --- page 2 ---
-a
-44+x°
+c) Find the mean, variance and standard deviation for the following data: (6)
 
-(a) sin™ () +c (b)tan™ (=) +e (c)cos™ (=) +¢ (5 tan" (3) +c
+¥, 4 8 11 17 20 24 32
+f 3 5 9 5 4 3 1
+Q.5a) Obtain k, mean and variance for the following probability distribution of random variable X. (6)
+X -2 -1 0 1 2 3
+P(X) 0.2 k 0.1 2k 0.1 2k
 
-7. | The mean of the data 6,7,10,12,13,4,8,12 is
+“y
 
-(a) 10 (b) 9 (c) 11 (d)12
-g. | An unbiased die is thrown, then the probability that the score is a prime
-number is
-(a) 1/2 (b) 1/3 (c) 2/3 (d)1/4 «
-im "P. =
-!
-(a) n! (b)—-—, in Fi (c)n (d) oe 7
-19.
-5
-What is the value of ©4
-(a) 4! (b) 5 (c) 5! (d) 4
-Q1.(b) | Match the following: (4 marks)
-Conics Eccentricity
-i) Ellipse a) e=0
-ii) Hyperbola b) e<l
-iii) Parabola c) e>l
-iv) Circle d) e=1
-Q2 (a) _ 3 . (4 marks)
+b) A manis known to speak truth 3 out of 4 times. He throws a die and report thatitisasix.Find (6)
+the probability that it is actually a six.
 
-Find the equation of ellipse with eccentricity 7 passing through (6, 4)
+6 4
+Q a) Evaluate j= o
+1+tanx
 
-and major axis is X-axis.
+b) (4)
 
-(b) | Find the equation of a circle with Centre (2, 2) and passes through the (4 marks)
+I
+Evaluate fsx" x+ldx.
+=I
 
-point (4,5).
-(c) | Find the coordinates of foci , the eccentricity and the length of the latus- | (3 marks)
-2 2
-rectum of the hyperbola 2. =].
-25 9
-(d) | Find the equation of a line passing through the point P (4,-5) and (3 marks)
+c) x (4)
+t sin’ x
 
-parallel to the line passing through the points A (3, 7) and B (-2, 4).
+Evaluate =
+0 sin x+Cos x
 
-3a) be the directionatio) of any directed line? (6 marks)
-Be F E CoSches
+Q.7a) Find the distance between the lines (4)
+7 =(i+2] -4h) +A(2i +3) +6)
+p= (3i+3j) —5k) + u2i+3j+6k)
+b) Find the equation of the line passing through (-3, 5) and perpendicular to the line through the (4)
+points (2,5) and (-3,6).
 
-Justify your answer.
+c) (4)
 
-(i) Can —=
+x +x4+l
 
-(ii) Find the unit vector in the direction of the vector a=2i+3jtk.
+Evaluate Sane
 
-2 /y
---- page 3 ---
-(iii) Find the angle between the vectors a=it+j—-k andb=i-j+k.
-
-(b)
-
-Find the vector equation of the line passing through the points A= (3, (4 marks)
-4, -7) and B = (6, -1, 1). Hence also find its Cartesian form.
-
-(c)
-
-Find the vector and the Cartesian equation of the plane which passes (4 marks)
-through a point (0 ,1 ,-2) and normal to the plane is i+ j+k
-
-Q4.(a)
-
-In how many ways can the letters of the word PERMUTATIONS be | (5 marks)
-arranged if the
-
-i) Words start with P and each end with S
-
-ii) Vowels are all together
-
-iii) There are always 4 letters between P and S
-
-(b)
-
-A group consists of 4 girls and 7 boys. In how many ways can a team of | (5 marks)
-5 members be selected if the team has
-
-i) No girl
-
-ii) At least 3 girls
-
-iii) At most 2 girls
-
-©)
-
-(i) Write any equation of a line passing through origin. (4 marks)
-(ii) Find the equation of directix of the parabola x? =—day.
-2 2}
-
-(iii) Find the major axis of as =1 where a>b.
-a
-
-(iv) Find the slope of the line 17x+3y=I1 .
-
-Q5.(a)
-
-Let X denote the number of hours you study during a randomly selected } (5 marks)
-school day. The probability that X can take the values x, has the following
-form, where k is some unknown constant.
-
-0.1, if =0
-
-kx, if x =1 or 2
-
-PLAN =) 5 _ if x=3or4
-
-0, otherwise
-i) Find the value of k.
-ii) What is the probability that you study at least two hours?
-iii) What is the probability that you study exactly two hours?
-iv) What is the probability that you study ot most two hours?
-
-(b)
-
-Five men in a group of 20 are graduates. If 3 men are picked out of 20 | (5 marks)
-at random what is the probability of at least one being graduate.
-
-(c)
-
-Bag I contains 3 red and 4 black balls while another Bag II contains 5 (4 marks)
-red and 6 black balls. One ball is drawn at random from one of the bags
-
-and it is found to be red. Find the probability that it was drawn from
-
-Bag IL.
---- page 4 ---
-Q6.(a) Feinhisare: xetxt1 1 (5 marks)
-valuate: Gx + Dx? + 1 x
-
-() | Find the area of the region bounded by the ellipse oa + - =1 (5 marks)
-©) Evaluate: = (4 marks)
-3x° +13x-10
-Q7.(a) | Find the mean and standard deviation (SD) of the data: (5 marks)
-Class 0-10 10-20 20-30 30-40 40-50
-Interval
-Frequency | 3 5 8 3 1
-
-(b) | A sample of 35 values has mean 80 and standard deviation 4. A second | (5 marks)
-sample of 65 values has mean 70 and standard deviation 5. Find the
-mean and standard deviation of the combined sample.
-
-(c) | Evaluate: fuetae ; (2 marks)
-
-(d) | Find the value of a if ai+2j7+3k and —i+5j + ak are perpendicular. | (2 marks)
+2/2
 ````
 
 ## 2015-16 · Re-Exam · Sem 2 · paper 95412018b6ba
@@ -5753,569 +6254,6 @@ Evaluate: f auee dx
 oe Xo---Xe---Xeo--=
 ````
 
-## 2014-15 · Re-Exam · Sem 2 · paper b52614ee625c
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 07 July 2017
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2016-2017
-Program: B. Tech Integrated (All Streams) Year: I
-Batch: 2014-15
-Subject: Mathematics —II
-Date : 07 July 2017
-
-RE - EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. Lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-4
-
-Q.1.
-a) Find the equation of the line passing through the point (2, 2) and cutting off (3)
-intercepts on the axes whose sum is 9.
-b) Find the area of a triangle ABC if the position vectors of the points A, B, C are (2)
-i-2j+k,2i-j+2k,-i-j-k.
-c) If a fair die is rolled. What is the probability of getting a number. (3)
-i. Greater than two,
-ii, Odd number,
-iii. | Square number.
-d) How many 8 letter arrangements can be made from the letters of the word (4)
-‘DAUGHTER’ such that the word-
-i. Starts with A and ends with D,
-ii. All vowels occur together,
-iii. All letters are used at a time.
-Q.2
-a) Find the equation of a circle passing through the point (2, 3) and (-1,1) and (4)
-whose Centre is on the line x-3y—11=0.
-b) Find the equation of the parabola having focus (6, 0) and directrix x=-6. (2)
-C) Find the equation of the ellipse whose latus rectum is 5 and whose eccentricity is (2 )
-2/3.
-d) Find the coordinates of foci and the vertices, the eccentricity and the length of the (4)
-latus-rectum of the hyperbola 9y* —16x” =144.
-Q.3
-a) Find the work done by the forces 12i+6k,2i7+77,10i+8j+6k ona point P which (3)
-
-is displaced from the position 2i+4j+k to the position 2i+8j+4k.
---- page 2 ---
-b) Find the projection of a=2i+2j—k on b=6i-2j +k. (2)
-
-c) Find the vector equation of a line passing through (0, 4, 2) and parallel to the (4)
-vector 3i+4j+6k, also find its Cartesian equation.
-d) In how many ways can a student choose a programme of 5 course if 9 courses are (3)
-
-available and
-i. 2 specific courses are compulsory for every student.
-ii. | specific course is compulsory.
-
-Q4. (a) If A and B are two events such that P(A)=0.44, P(B)=0.55, P(A()B)=0.1lthen (4)
-find :
-i. P(AUB) iii, P(A()B’)
-ii, = P(A’) B’) iv. P(BIA’)
-(b) Find the mean, variance and Standard Deviation of the random variable X whose (4)
-robability distribution is given below:
-x 0 1 2 3
-P(x) 1/8 3/8 3/8 1/8
-(c) A survey of families in a certain city showed that 60% of the families are having (4)
-washing machine, 55% are having microwave oven, 40% of those who are having
-washing machine, are having a microwave oven. If a family is selected at
-random, find the probability that it has neither a washing machine nor a
-microwave oven.
-
-Q5. (a) Calculate the mean, variance and Standard Deviation for the following distribution: (6)
-
-CI. 0-30 | 30-60 | 60-90 | 90-120 | 120-150 | 150-180 | 180-210
-Freque | 9 17 43 82 81 44 24
-ney
-
-(b) A manufacturing firm produces steel pipes in 3 plants with daily production (6)
-
-volumes of 500, 1000 and 2000 units respectively. It is known that the fraction of
-defective outputs produced by the 3 plants are 0.005, 0.008 and 0.010. Ifa pipe is
-selected from a day’s total production and found to be defective, what is the
-probability that it came from the first plant.
-
-Q6. (a) ; sin’ x (4)
-Evaluate
-J v1-x°
-(b) Find the area between the line y=4x and y* =4x ; (4)
-(c) (4)
-
-Evaluate J e* sin xdx
-
-Q7. (a) Find / if the point (3,/) lies on the line which cuts off equal intercepts on the co- (4)
-ordinate axes and passes through the point (2, 3).
-
-(b) Find the distance between the line r = (i+2j7+k)+AG—j+k) and the point (4)
-A=(2,3,4).
-4
-(9) Evaluate —— , @
-x —5x+6
-
-2fo_
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 7154a74361fb
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2014-15 Re Exam_7154a74361.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
-- Text: ocr (2 pages), mean OCR confidence 87.4
-
-````text
-“gore Ny
-, af ~ +
-ry BY
-CS PRARW Ji
-SVKM’S NMIMS a Ue
-S er ate
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENCENE fGNe
-
-Academic Year: 2016 - 2017
-Program: B. Tech Integrated (All Streams)
-
-Batch: 2014-15
-
-Year:I Semester:
-
-Marks: 60
-Subject: Mathematics —II Time: (10.00 am to 1.00 pm)
-Date : 05 May 2017 ; Duration:3 hrs
-
-No. of Pages: 2
-RE - EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOURquestions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql) Find equation of the line passing through the point (2, 2) and cutting off (3mks)
-a) intercepts on the axes whose sum is 9.
-
-b) | Find the angle @ between the vectorsé = i+ f—kandb =t—-j+k. (3mks)
-Also find projection of b on a.
-
-c)| A letter lock contains three rings, each ring contains 5 different letters. | (3mks)
-Determine the maximum number of false trials that can be made before the lock
-
-is opened’:
-d) | If °C, :"C, =11:1 then find n. (3mks)
-Q2) a) |! Find the equation of the circle which passes through the points (S5mks)
-
-(5,7), (6, 6) and (2, -2).
-
-b) | Find the coordinates of the focus, the equation of the directrix ,length of the latus | (4mks)
-rectum and end-points of latus rectum of ys 20x
-
-c) | Find the equations of the hyperbola satisfying the given conditions. (3mks)
-Vertices (0, +3), foci (0, +5),
-
-Q3) a)| What is the number of ways of choosing 4 from a pack of 52 playing | (Smks)
-
-cards, such that
-a)4 cards belong to 4 different suits
-b)2 are red cards and 2 are black cards
-c)Are face cards
-
-C I
---- page 2 ---
-b) | Ifa, Bb, are position vectors of vertices of a triangle where @ = 41 +f + 3k, | (4mks)
-b=i+3j)+2k, €=21+7k then prove that the triangle is a right-
-angled triangle. Also find its area.
-
-c) | A force F = 32 + 2) — 4k is applied at the point (1,-1,2). Find the (3mks)
-moment of force about the point (2,-1,3).
-
-Q4) a) | Two dice are thrown simultaneously. If X denotes the number of sixes, | (Smks)
-find the expectation , variance and standard deviation of X.
-
-b) | Calculate the probability of picking a card form a pack of cards that was a | (4mks)
-
-heart or a king.
-c) | Three horses A, B and C are in arace. A is twice as likely to win as B (3mks)
-and B is twice as likely to win as C. What are the respective probability
-of winning.
-Q5) a) | Calculate the mean, variance and standard deviation of the following data: | (6 mks)
-Age 0-10 10-20 20-30 30-40 40-50
-No.of 12 18 20 25 23
-persons
-
-b) | A factory has two machines. Machine 1 produces 30% of the items and | (6mks)
-Machine 2 produces 70% of the items. 5% of the items produced by
-Machine 1 were defective and 1% produced by Machine 2 were
-defective. If a defective item is drawn at random, What is the
-probability that the defective item was produced by Machine 2.
-
-5mk
-=) 8 Evaluate: | x?.e% dx (mks)
-
-b) Evoluare: dx (4mks)
-varuare: \ Get I(x + 2)
-
-c) | Find the area of the region bounded by the curve y = x? and the line y = | (mks)
-4.
-
-Q7) a)| fa=H+j+k,b=i-jf—k,¢=2-2j—-k then find a.(b x &) | (mks)
-
-b) | A random variable X has the following probability distribution: (4mks)
-
-x 1 2 3 4 =) 6
-pm |_k | 2k | 3k | 2k | k | k
-Find k and expectation of X.
-
-4 mk
-* Fvatuate: { 4x° — 5x2 +6 dx (@mks)
-
-(ae
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper ea3668f066f3
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2014-15 Re Exam_ea3668f066.pdf`
-- Printed on paper: exam date: 07 July 2017
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2016-2017
-> Program: B. Tech Integrated (All Streams) Year:I
-Batch: 2014-15 .
-Subject: Mathematics —II
-Date : 07 July 2017
-
-rae
-es: O25
-RE - EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. Lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-4
-
-Q.l.
-a) Find the equation of the line passing through the point (2, 2) and cutting off (3)
-intercepts on the axes whose sum is 9.
-b) Find the area of a triangle ABC if the position vectors of the points A, B, C are (2)
-i-2j+k,2i—j+2k,-i-j—k .
-c) If a fair die is rolled. What is the probability of getting a number. (3)
-i. Greater than two,
-ii. Odd number,
-iii. | Square number.
-d) How many 8 letter arrangements can be made from the letters of the word (4)
-‘DAUGHTER’ such that the word-
-i. Starts with A and ends with D,
-ii. All vowels occur together,
-iii. All letters are used at a time.
-Q2
-a) Find the equation of a circle passing through the point (2, 3) and (-1,1) and (4)
-whose Centre is on the line x-—3y—11=0.
-b) Find the equation of the parabola having focus (6, 0) and directrix x=-6. (2)
-C) Find the equation of the ellipse whose latus rectum is 5 and whose eccentricity is (2)
-2/3.
-d) Find the coordinates of foci and the vertices, the eccentricity and the length of the (4)
-latus-rectum of the hyperbola 9y’ —16x? =144.
-Q3
-a) Find the work done by the forces 12i+6k,2i+77,10i+87+6k ona point P which (3)
-
-is displaced from the position 2i+4j+k to the position 2i+8j+4k.
-
-Ps
---- page 2 ---
-b) Find the projection of a=2i+2j—k on b=6i—2j +k. (2)
-
-c) Find the vector equation of a line passing through (0, 4, 2) and parallel to the (4)
-vector 3i+47+6k, clso find its Cartesian equation.
-d) In how many ways can a student choose a programme of 5 course if 9 courses are (3)
-
-available and
-i. 2 specific courses are compulsory for every student.
-ii. | specific course is compulsory.
-
-Q4. (a) If A and B are two events such that P(A)=0.44, P(B)=0.55, P(A()B)=0.11then (4)
-
-find :
-i. P(AUB) iii, PCAN B')
-ii, = P(A’) B’) iv. P(BI)A’)
-(b) Find the mean, variance and Standard Deviation of the random variable X whose (4)
-robability distribution is given below:
-x 0 ] 2 3
-P(x) 1/8 3/8 3/8 1/8
-
-(c) A survey of families in a certain city showed that 60% of the families are having (4)
-washing machine, 55% are having microwave oven, 40% of those who are having
-washing machine, are having a microwave oven. If a family is selected at
-random, find the probability that it has neither a washing machine nor a
-microwave oven.
-
-Q5. (a) Calculate the mean, variance and Standard Deviation for the following distribution: (6)
-Ci. 0-30 | 30-60 | 60-90 | 90-120 | 120-150 | 150-180 | 180-210
-Freque | 9 17 43 82 81 44 24
-ney
-(b) A manufacturing firm produces steel pipes in 3 plants with daily production (6)
-
-volumes of 500, 1000 and 2000 units respectively. It is known that the fraction of
-defective outputs produced by the 3 plants are 0.005, 0.008 and 0.010. If a pipe is
-selected from a day’s total production and found to be defective, what is the
-probability that it came from the first plant.
-
-Q6. (a) r sin x (4)
-Evaluate
-J V1-x?
-(b) Find the area between the line y=4x and y* =4x ; (4)
-(c) (4)
-
-Evaluate J e* sin xdx
-
-Q7. (a) Find / if the point (3,/) lies on the line which cuts off equal intercepts on the co- (4)
-ordinate axes and passes through the point (2, 3).
-
-(b) Find the distance between the line 7 = (Gi+2j+k)+A(i-—j+k) and the point (4)
-A=(2,3,4).
-4
-(9) Evaluate J — . @)
-x* —5x+6
-Ze
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper ff7a9522e139
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematices II Batch 2014-15 Re Exam_ff7a9522e1.pdf`
-- Printed on paper: max marks: 60; exam date: 03 May 2018
-- Text: ocr (2 pages), mean OCR confidence 89.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B.Tech Integrated (All Streams) ~ Year: I v Semester: II ~ —
-
-gene
-
-Academic Year: 2017-2018 ~ a ~
-; [gf acstMe ye
-Subject:Mathematics —II ~ iad Li 1B 4 A aY 1G
-‘ Marks:60 y
-Date:03 May 2018 ” Time: 10.0 aa KM
-
-. Durations: 3 i :
-
-4 No. of Pages :
-
-Re- examination (2014-15) ~”
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. Lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql.
-
-a) How many 8 letter arrangements can be made from the letters of the word
-‘DIVISION’ such that the word.
-i. Starts with N and ends with D,
-ii. All vowels occur together,
-iii. All letters are used at a time.
-b) Ifa fair die is rolled. What is the probability of getting a number
-i. greater than 5,
-ii. | even number,
-iii. | square number.
-c) Find the equation of the line passing through the point (2, 2) and slope 5:
-4) Find unit vectors perpendicular to a and bif a=2i- J+3k and b=3i+ J-Ak.
-
-Q2
-a) Find the equation of the circle with’end points of diameter (2,-3) & (-3,5).
-b) Find the coordinates of the foci and the vertices, the eccentricity and the length of the
-2 2
-latus rectum of the hyperbolas. 7 - * =1
-c) Find the equation of the ellipse whose latus rectum is 5 and whose eccentricity is 2/3.
-d) Find the equation of the parabola with vertex (0,0) and focus (3,0) .
-Q3
-
-a) Find the vector equation of the plane which is at a distance of 6 units from the origin
-and which is normal to the vector 2i— j+2k. Hence find the Cartesion form of the
-
-vector equation.
-b) Find the work done by the force F = 3i+2/-4k acting at the point A(1, -2, -3) which
-is displaced to the point B(4, 3, -2)
-
-1/2
-
-(4)
-
-(3)
-
-(3)
-
-Q)
-
-(4)
-(3)
-
-(3)
-(2)
-
-(4)
-
-(3)
---- page 2 ---
-c)
-
-d)
-
-Q4.
-a)
-
-b)
-
-c)
-
-QS.
-a)
-
-b)
-
-c)
-
-Q6.
-a)
-
-b)
-c)
-
-Q7.
-
-b)
-c)
-
-In how many ways can one select a cricket team of eleven from 17 players in which
-only 5 players can bowl if each cricket team of 11 must include exactly 4 bowlers?
-
-Find the projection of aonb if ab=8 and b=21+6j+3k.
-
-i) Find the number of ways of selecting 9 balls from 6 red balls, 5 white balls and 5
-blue balls if each selection consists of 3 balls of each color.
-ii) In how many ways can a student choose a programme of 5 courses if 9 courses are
-available and 2 specific courses are compulsory for every student?
-Find the mean, variance and Standard Deviation of the random variable X whose
-robability distribution is given below:
-x 0 1 2 3
-P(x) 1/4 1/4 0 2/4
-In an examination, a question paper consists of 12 questions divided into 2 parts, ie.
-Part I and Part II, containing 5 and 7 question respectively. A student is required to
-attempt 8 questions in all, selecting at least 3 from each part. In how many ways can
-a student select the questions? -
-
-Calculate the mean, variance and Standard Deviation for the following distribution:
-
-Cl. 0-10 | 10-20 | 20-30 | 30-40 ;
-Freque | 2 5 6 7
-ney
-
-A person plays a game of tossing a coin thrice. For each head, he is given Rs. 2 by the
-organizer of the game and for each tail, he has to give Rs. 1.50 to the organizers. Let X
-denote the amount gained or lost by the person. Obtain the probability distribution
-
-function for X.
-
-The means of two samples of sizes 50 and 100 respectively are 54.1 and 50.3 and the
-standard deviation are 8 and 7 respectively. Obtain the mean and standard deviation of
-the sample of size 150 obtained by combining the two samples.
-
-Evaluate ) xe dx .
-Find the area of the region bounded by the curve y= x’ and the line y=4.
-
-Evaluate fe" cos xdx .
-
-Find / if the point (3,/) lies on the line which cuts off equal intercepts on the co-
-
-ordinate axes and passes through the point (2, 3).
-Find the angle between the lines whose direction ratios are 5,12,-13 and 3,-4,5.
-
-e 2
-Evaluate: J ogxy 4, .
-y *
-
-2/2
-
-(3)
-(2)
-
-(4)
-(4)
-
-(4)
-
-4)
-(4)
-
-(4)
-
-(4)
-(4)
-
-4)
-
-(4)
-(4)
-````
-
 ## 2014-15 · Re-Exam · Sem 2 · paper 2229a2cd3e7e
 
 - Departments: Common (all branches)
@@ -6323,6 +6261,7 @@ y *
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematics II Batch 2014-15 Re Exam.pdf`
 - Printed on paper: exam date: 29/06/2015
 - Text: ocr (2 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -6447,238 +6386,4 @@ Find panda if (27+ 67+ 27k) x (¢ +Aj + uk) =0.
 
 Evaluate f, 4x3 —5x* +6) dx.
 
-weno Xenon Xeno Xeono ==
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 216e5457b28c
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematics II Batch 2014-15 Re Exam_216e5457b2.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2016
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E
-
-Programme: B. Tech Integrated (All Streams) Year: I {
-Academic Year: 2015-2016 BX . ed /
-; Sings ape *
-BATCH: 2014-2015 Marks: 60 “
-Subject : Mathematics —II Time : 10.00 am to 1.00 pm
-Date : 05 May 2016 Durations: 3 (hrs)
-Re-Examination
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. ‘
-NB:
-1) Question No. ONE is compulsory.
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-4) All questions carry equal marks.
-(~ 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-Q1 3
-a) Find angle between the plane 3x+2y-z=11 and the plane passing through the point (5, 2,-4),
-(2, 5, -3) and (1, 3, 3). ‘
-b) An unbiased coin is tossed three times. Find the probability of getting at most two heads. 3
-x
-°) Evaluate aS 3
-d) Find area of triangle having vertices A (2, 3, -1), B (1, -2, 4) and C (2, 0, 5), using vectors. 3
-. Q2. ;
-A a) — Find equation of hyperbola having Foci (0, +710 ) and is passing through (2, 3). 4
-b) A straight line passes through the point (1, 2) and is parallel to the line 2x+3y+6= 0. 4
-Find i) equation of the line ii) x- intercept and y- intercept of the line. ‘
-c) Find coordinates of vertices and foci, length of latus rectum and eccentricity of the ellipse 4
-9x7+3y7=144.
-Q.3 @ A line passes through the points A (-2, -1, 5) and B (1, 3, -1), find the equation of line in 4
-| Cartesian form. Also find the distance of point (2, 5, 3) from this line.
-b) How many numbers greater than 56000 can be formed by using the digits 4, 5,6,7,8 such 4
-, that no digit is repeated in any number?
-a c) Finda -(b XO, if @= 31-2f+k,b= -t+3f—-2k andé= 4+ f+ k. 4
-
-9
---- page 2 ---
-Q4.
-
-a) | Find mean and standard deviation for the following data. 4
-x: 6 10 14 18 24 28 30
-f: 2 6 10 9 6 11 6
-b) A fair die is rolled. Consider the events E = {1, 3, 5}, F= {2, 3}, G= {2, 3, 4, 5}. 4
-Find i) P(E|F) ii)P([E U F]|G).
-c) One card is drawn from a deck of 52 cards. Find the probability that the card drawn is 4
-either a king or a red card.
-Q5.
-a) | Arandom variable has probability distribution given as: . 6
-Xx 0 1 2 3 4 5 6 7
-P(X=x) | 0 k 2k 2k 3k ee 2k? Tk? +k ~
-
-i) Find k. ii) Find P (0<X<4) iii) variance (X)
-b) Given three identical boxes I, II and III, each containing two coins. In box I, both coins are 6
-gold coins, in box II, both are silver coins and in the box III, there is one gold and one
-silver coin. A person chooses a box at random and takes out a coin. If the coin is of gold,
-what is the probability that the other coin in the box is also of gold?
-
-Q.6.
-a) Find the area of the region bounded by the parabola y= x’ and the line y=x in the first 4
-quadrant.
-b) i
-Evaluate x - sin? x dx. 4
-x?+6x-8 :
-°) Evaluate f ican dx 4
-Oe
-a) A group consists of 4 girls and 7 boys. In how many ways can a committee of five 4
-
-members be selected if the committee has i) no girl ii) at least 2 boys and 1 girl.
-
-b) Find the equation of the circle passing through the points (4, 1) and (6, 5) and whose centre 4°
-is on the line 4x + y= 16.
-c) If the position vectors of A, Band Care f+ 27+k,2?+3k and 3fi-f+2k 4
-
-respectively, find a unit vector along the direction of (2AB —3BC + AC) :
-
-4 XeoeKeneXonao=
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 84fefd27d21a
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/MATHEMATICS II/Mathematics II Batch 2014-15 Re Exam_84fefd27d2.pdf`
-- Printed on paper: exam date: 30 June 2016
-- Text: ocr (2 pages), mean OCR confidence 85.6
-
-````text
-2
-
-_
-
-Programme:B. Tech Integrated(All Streams) Year: I
-
-Batch:2014-2015
-Subject :Mathematics —II Marks: 6'
-
-Date : 30 June 2016 Durations
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2015-2016
-
-fyvst™E :
-Giga 10 1:00 pm
-ROP) raga
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB: 7
-
-1) Question No. ONE is gompulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-2) All questions carry equal marks.
-*5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Q.1a)
-
-b)
-
-c)
-d)
-
-Q.2a)
-b)
-
-c)
-
-Q.3 a)
-b)
-
-c)
-Q.4 a)
-
-b)
-
-Find the equation of the line whose intercept on the x-axis is double that on y-axis and passing (3)
-thought the point (4,1).
-
-Evaluate j SEEDS RES @)
-(x +1)(x +2)
-
-Find the angle between the two planes 3x—6y+2z=7 and 2x+2y—2z=5. (3)
-Find nif "'p,:"p,=1:9 . G3)
-Find the equation of the circle whose Centre is at (1,-3) and which touches the line 2x-y=4. (4)
-Find the equation of the parabola that satisfies the following conditions: vertex (0, 0), and (4)
-Focus(-2,0).
-
-Find the coordinates of the foci, the vertices, the length of major axis and minor axis, (4)
-eccentricity and the length of the latus rectum of the ellipse - +o |
-
-Find two vector of magnitude 7 unit perpendicular to both vectors 2i+ j-3k and (4)
-
-i- 27 +k.
-Show that the vector 2/— +k, i-37-5k and 3i-47—4k form the sides of aright angled (4)
-triangle. Also find the remaining angles of the triangle.
-A bag contains 5 black and 6 red balls. Determine the number of ways in which 2 black and 3 (4)
-red balls can be selected.
-A committee of two persons is selected from two men and two women. What is the probability (3)
-that the committee will have (a) no man? (b) one man? (c) two men?
-Two cards are drawn at random from a well shuffled pack of 52 playing cards. Find the
-probability that the two cards drawn from a pair of the King and Queen of the same suit. (3)
-
-4/2
---- page 2 ---
-c) Find the mean, variance and standard deviation for the following data: (6)
-
-¥, 4 8 11 17 20 24 32
-f 3 5 9 5 4 3 1
-Q.5a) Obtain k, mean and variance for the following probability distribution of random variable X. (6)
-X -2 -1 0 1 2 3
-P(X) 0.2 k 0.1 2k 0.1 2k
-
-“y
-
-b) A manis known to speak truth 3 out of 4 times. He throws a die and report thatitisasix.Find (6)
-the probability that it is actually a six.
-
-6 4
-Q a) Evaluate j= o
-1+tanx
-
-b) (4)
-
-I
-Evaluate fsx" x+ldx.
-=I
-
-c) x (4)
-t sin’ x
-
-Evaluate =
-0 sin x+Cos x
-
-Q.7a) Find the distance between the lines (4)
-7 =(i+2] -4h) +A(2i +3) +6)
-p= (3i+3j) —5k) + u2i+3j+6k)
-b) Find the equation of the line passing through (-3, 5) and perpendicular to the line through the (4)
-points (2,5) and (-3,6).
-
-c) (4)
-
-x +x4+l
-
-Evaluate Sane
-
-2/2
 ````

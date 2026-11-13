@@ -139,6 +139,7 @@ Page 1of 1
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/BROADBAND TECHNOLOGY/Broadband Technology Batch 2014-15 Final Exam.pdf`
 - Printed on paper: max marks: 60; exam date: 16/04/2015
 - Text: ocr (1 page), mean OCR confidence 90.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -151,7 +152,6 @@ Academic Year: 2014-15 on
 gate ow “Ky, |
 
 Ws: PSTME ye
-‘QO IB A R x 2s
 hae Oy,
 5 Meise
 

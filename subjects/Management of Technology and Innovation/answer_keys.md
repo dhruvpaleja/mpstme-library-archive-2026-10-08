@@ -2,6 +2,545 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 9 · Answer key · paper 2e26fa59438c
+
+- Departments: Artificial Intelligence, Computer Engineering, Data Science, Mechanical
+- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_09/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2024-2025.pdf` (+4 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 10 Dec 2025
+- Text: text (17 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
+Tech (IT)/MBA Tech (Mech)
+Year: V/Semester IX(Exam Year: 2025-2026)
+Subject: Management of Technology and Innovation
+Date: 10 Dec 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 17 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II – Answer any 4 Questions out of 6
+6. Assume suitable data if necessary.
+Section I
+Q1   Answer briefly :   [10]
+a. Define of Technology Management [2.5]
+Answer: The definition of TM includes planning, directing, control and
+coordination of the development and implementation of technological
+CO-1 ;
+capabilities so that firms can shape and accomplish their strategic and
+BL- 2
+operational objectives (NRC, 1987).
+Rubric-2.5 marks for the definition
+b   Explain Technology Roadmap as a Technology Management tool [2.5]
+.   Answer
+The technology road map documents a product’s history, current status, and
+expected future. It helps track progress in product and process development,
+analyze market response, and align technology decisions with business
+CO- 1;   strategy.
+BL- 2
+•   Technology road-mapping is a strategic planning tool used to align
+technological capabilities with business objectives and market needs.
+•   Motorola developed this method to systematically track, evaluate, and
+plan for emerging and product technologies across its businesses.
+Purpose and benefits
+********** 1 **********
+--- page 2 ---
+•   Provides a structured framework for technology planning and decision-
+making.
+•   Helps evaluate internal technological capabilities and identify gaps.
+•   Supports comparison of company technologies with competitors.
+•   Forecasts future technological trends and R&D priorities.
+•   Enables proactive investment and innovation planning.
+•   Ensures no critical technologies are overlooked.
+Rubric
+1. Definition / Concept Understanding- marks
+2. Explanation of Purpose and Function+ Benefits and Application- 1.5
+marks
+c   Write a short note on Modelling as technology forecasting method. [2.5]
+Answer:
+Modeling is a structured approach to forecasting where a simplified
+representation of real-world systems is created to understand and predict
+future behavior. It involves constructing mathematical, graphical, or computer-
+based models that simulate how a system might evolve over time under
+different conditions.
+This method assumes that the basic structure and processes of complex
+systems can be captured through simplified representations. Its major strength
+lies in its ability to isolate critical variables and exhibit future behavior of
+complex systems while excluding unessential details. However, sophisticated
+models may hide faulty assumptions, overemphasize quantifiable factors, and
+lose credibility if not well validated with real data.
+Example: A recent example is the use of AI-based energy demand forecasting
+models that simulate power consumption patterns to optimize smart grid
+operations and renewable energy integration.
+CO2,   Use: Modeling helps reduce complex technological systems into manageable
+BL2   representations, aiding decision-making and strategic planning.
+Rubrics :
+Criteria   Description   Mark
+s
+Concept   Clear definition of expert opinion and   1.0
+explanation   its basis in expert judgment
+Strengths and   Mention of at least one key strength   0.5
+weaknesses   and one weakness
+Example   Relevant and recent example of expert   0.5
+opinion in technology forecasting
+Clarity and   Logical flow, concise expression,   0.5
+structure   correct terminology
+********** 2 **********
+--- page 3 ---
+d   “Generally, engineers, doctors and politicians, as well as business managers –
+do not, in general, follow incremental strategies which explicitly recognize that
+the firm has only very imperfect knowledge of its environment, of its own
+strengths and weaknesses, and of the likely rates, and directions of change in
+the future. It must therefore be ready to adapt its strategy in the light of new
+information and understanding, which it must consciously seek to obtain.”
+Discuss the most efficient procedure to be followed in such circumstances.
+Synoptic Answer:
+In such circumstances, most corporate organisations deliberately undertake a
+process as below:
+Design – development – test – adjust design – retest – operate (for engineering
+CO-3;   product development and process innovations).
+BL-
+2,3   OR
+Procedure followed is as below:
+1. Make deliberate steps (or changes) towards the stated objective.
+2. Measure and evaluate the effects of the steps (changes).
+3. Adjust (if necessary) the objective and decide on the next step (change).
+This is the response as per the text book. Logical responses covering these
+points may be considered. The response may be based on any one of the
+approaches mentioned above. Examiner discretion is advised for appropriate
+evaluation.
+Understanding of the Problem Context:1 marks
+Application / Logical Insight-1.5 marks
+Section II
+Q2
+[10]
+a   Describe the Technology Management Framework in detail with the help of a
+CO- 1;   diagram. [5]
+BL-3   TM (Technology Management) framework
+********** 3 **********
+--- page 4 ---
+Key aspects of the framework include:
+• The linkage between technological and commercial perspectives in the
+firm.
+• The knowledge flows (and other mechanisms) that support this linkage.
+• The core business processes of strategy, innovation (including new
+product development) and operations.
+• The TM processes: identification, selection, acquisition, exploitation,
+protection and learning.
+• The organizational and environmental context in which the firm
+operates (the ‘system’), which includes additional internal elements of
+the system, such as staff and other business processes and sub-
+systems, together with external elements such as customers,
+competitors, partners, government, etc.
+• Time (change, trends, evolution and synchronization).
+Rubric for Evaluation
+Explanation of Key Components: 2.5 marks
+Diagram / Visual Representation- 2.5 marks
+b What are Science-Technology Push and Pull Market Pull mechanisms in the
+context of “Technology and Market interaction” [5]
+CO- 1;
+Answer:
+BL-3
+1. Concept Overview
+********** 4 **********
+--- page 5 ---
+Technology–Market Interaction explains how innovation emerges from the
+interplay between technological possibilities and market needs. Successful
+innovation occurs when scientific discovery (push) aligns with market demand
+(pull), creating both feasibility and commercial value.
+2. Science–Technology Push (Supply-Side Driver)
+Refers to innovation driven by scientific discovery or technological
+advancement, even before a clear market exists.
+Originates from R&D labs, universities, or scientific breakthroughs.
+Often leads to radical or disruptive innovations that create new markets.
+Examples:
+Development of the transistor (enabled modern electronics).
+Genetic engineering breakthroughs that later created the biotechnology
+industry.
+3. Market Pull (Demand-Side Driver)
+Refers to innovation driven by customer needs, market demand, or societal
+challenges.
+Begins with identifying a problem or opportunity in the market.
+Often results in incremental innovations improving usability, quality, or cost-
+effectiveness.
+Examples:
+Demand for faster processors led to multi-core CPUs.
+Consumer demand for eco-friendly packaging driving green technologies.
+********** 5 **********
+--- page 6 ---
+4. Integration of Push and Pull: Co-evolution of Technology and Market
+The best innovation outcomes occur when technology push and market pull
+are integrated.
+Technology Push → Creates possibilities
+Market Pull → Creates adoption and revenue
+Their synergy ensures both technical feasibility and commercial viability,
+accelerating innovation diffusion.
+5. Conclusion
+In summary, Science–Technology Push fuels invention, while Market Pull
+ensures adoption.
+Innovation succeeds when firms balance both forces — investing in scientific
+capability (push) while staying responsive to customer needs (pull).
+This integration transforms ideas into sustainable market success.
+Rubric for Evaluation
+1. 2. Explanation of Science–Technology Push- 2 marks
+2. Explanation of Market Pull-2 marks
+3. Integration of Push and Pull- 1marks
+Q3   [10]
+a   Illustrate and briefly explain the Market Growth at different Stages of
+Technology Life Cycle? [5]
+Answer:
+• Market Growth Across the Technology Life Cycle
+CO-   (Technology Development → Launch → Growth → Maturity →
+1 ;   Substitution → Obsolescence)
+BL- 3   Concept Overview
+• A technology produces market value only after commercialization
+•   While under development, it has high cost but zero market return
+•   Market growth follows the Technology Life Cycle (TLC) curve
+•   Figure shows how market volume evolves across six phases
+********** 6 **********
+--- page 7 ---
+Rubric for Evaluation
+1. Concept Understanding+ Explanation of Market Behavior in Each Stage-2
+2. Identification of Stages+ Illustration / Diagram- 3 marks
+b   Explain how product and process innovation together represent the progress of
+technology. [5]
+Answer
+•   Technology Turbulence & Product Innovation (Early Stage)
+•   Scientific discoveries introduce new technologies, creating turbulence
+in existing systems
+•   During the embryonic phase, many competing product designs emerge
+• The rate of product innovation peaks first (firms experiment to find
+winning features)
+CO-
+• Outcome: A dominant design eventually emerges and becomes the
+1 ;
+industry standard
+BL- 3
+•   Example: Early automobile designs, early PC architectures, or early
+smartphone layouts
+•   Process Innovation (Growth & Maturity Stages)
+•   After the dominant design stabilizes, firms shift to process innovation
+•   Process innovation focuses on:
+✅ Lower cost
+✅ Improved quality
+✅ Greater productivity
+✅ Scalability and efficiency
+********** 7 **********
+--- page 8 ---
+•   Process innovation continues for most of the technology life cycle,
+supporting incremental product improvements
+•   Key Insight: Product innovation wins the market; process innovation
+wins profits.
+•   Aging Technology, Substitution & New Cycles
+•   As the technology matures and approaches limits, innovation slows
+again
+• A new technological discontinuity (another breakthrough) restarts the
+cycle
+•   Old technology becomes obsolete, and a new product/process
+innovation cycle begins
+•   Examples of substitution cycles:
+• Steam → Diesel → Electric → Hydrogen (engines)
+• Wired phones → Mobile → Smartphone → Smart-wearables
+•   Film camera → Digital → Smartphone cameras →
+Computational AI imaging
+•   Core Message:
+👉 Innovation is cyclical — product innovation dominates early, process
+innovation dominates later, and discontinuities reset the game.
+Rubric for Evaluation
+********** 8 **********
+--- page 9 ---
+1. Conceptual Understanding- 1 marks
+2. Explanation of Product Innovation (Early Stage)+ Explanation of Process
+Innovation (Growth & Maturity Stages)- 2 marks
+3. Diagram – 2 marks
+Q4
+[10]
+TechNova Pvt. Ltd., a mid-sized technology firm, has recently developed a
+breakthrough innovation called the SmartBio Sensor, a wearable biosensor
+capable of continuously monitoring glucose and hydration levels. The
+technology holds strong potential for application across both the medical and
+fitness sectors. However, the company now faces a strategic dilemma:
+How to best exploit this technology for commercial success?
+The management is considering four alternative approaches.
+One option is to employ the technology in its own production and products by
+launching a wearable health device under the TechNova brand. This would allow
+the company to retain complete control over the product and technology but
+would require substantial investment in manufacturing, marketing, and
+distribution, areas in which TechNova currently lacks strong capabilities or
+consumer recognition.
+CO 2;   A second alternative is to contract out the manufacture or marketing to an
+BL-4   established consumer health brand. This arrangement would enable faster
+market entry and take advantage of the partner’s marketing strength, but it
+would also mean sharing profits and relinquishing some control over the final
+product.
+A third option under review is to form a joint venture with a global med-tech
+company to jointly develop and market specialized clinical or sports versions of
+the SmartBio Sensor. Such an arrangement would allow TechNova to share both
+risk and research capabilities, while also gaining access to global markets.
+However, it would also involve complex negotiations, possible conflicts of
+interest, and shared decision-making authority.
+The final option being discussed is to license out the SmartBio technology to
+multiple companies in different application areas such as healthcare monitoring,
+fitness wearables, and sports analytics. Licensing would provide TechNova with
+royalty-based revenue and require minimal investment, yet it could also lead to
+********** 9 **********
+--- page 10 ---
+rapid diffusion of the technology and a potential loss of its distinct competitive
+advantage.
+At present, TechNova’s relative standing in the market can be described as
+moderate in terms of technological capability but weak in marketing and
+distribution. The urgency of exploitation is high because competitors are rapidly
+entering the biosensor market, and the need for complementary technologies,
+such as data analytics and software integration, is also significant. The SmartBio
+technology is positioned in the early growth stage of its life cycle and is
+considered distinctive and central to the firm’s research and development
+efforts. Its potential applications are broad, ranging from healthcare to sports
+and wellness.
+Question : Using David Ford’s framework on factors affecting technology
+exploitation decisions, evaluate first and second alternative available to
+TechNova. [10]
+Answer : Launching its own wearable health device under the TechNova
+brand
+•   Capabilities and resources: TechNova has strong technological
+capability but weak marketing and distribution skills. Launching its own
+product would require substantial investment in areas outside its core
+competence.
+•   Control: This option provides maximum control over product design,
+branding, and IP exploitation.
+• Speed of entry: Market entry would be slower due to the need to
+establish manufacturing and distribution channels.
+•   Risk: High financial and operational risk because the firm must invest
+heavily without guaranteed market acceptance.
+• Complementary assets: Lacking marketing, brand recognition, and
+distribution capabilities reduces the likelihood of immediate success.
+2. Contracting out manufacturing or marketing to an established consumer
+health brand
+•   Capabilities and resources: Leveraging a partner’s capabilities in
+marketing and distribution addresses TechNova’s weak areas.
+•   Control: Moderate, as TechNova must share decision-making and may
+have limited influence over final product positioning.
+• Speed of entry: Faster market penetration is achievable due to the
+partner’s established channels.
+•   Risk: Reduced financial and operational risk relative to self-launch,
+though profit sharing limits total returns.
+********** 10 **********
+--- page 11 ---
+• Complementary assets: Access to the partner’s brand recognition and
+distribution network enhances potential market success.
+Rubrics :
+Evaluation Criteria   Marks
+1. Application of David Ford’s Framework   2.0
+marks
+2. Evaluation of Option 1 – Launching under TechNova   2.0
+Brand   marks
+3. Evaluation of Option 2 – Contracting Out   2.0
+Manufacturing/Marketing   marks
+4. Comparative Analysis between Option 1 and Option 2   2.0
+marks
+5. Recommendation and Justification   1.5
+marks
+6. Presentation, Clarity, and Logical Structure   0.5
+marks
+Q5
+[10]
+a JKL Pvt. Ltd. has developed an advanced technology and plans to
+implement this innovation across multiple manufacturing sites
+within the organization. Using the intra-firm technology transfer
+model, outline the structured steps JKL should follow to ensure
+successful transfer of the technology from the R&D unit to full-
+scale production. In your answer, discuss the roles of
+infrastructure creation, transfer teams, parallel production,
+training, and monitoring. Additionally, explain how management
+decisions regarding diversification, new acquisitions, and R&D
+focus influence the overall technology transfer process within
+CO 2;
+the firm. [10 Marks]
+BL-4
+Answer
+1. Concept Overview (1 mark)
+Intra-firm technology transfer refers to the systematic process of moving
+technology—developed in one unit (e.g., R&D)—to other units such as
+manufacturing plants within the same organization.
+The goal is to ensure replication, standardization, and performance
+consistency across sites while maintaining cost and quality advantages.
+********** 11 **********
+--- page 12 ---
+2. Structured Steps in the Intra-Firm Technology Transfer
+Process (6 marks total)
+Step 1: Infrastructure Creation (1 mark)
+•   Establish the necessary technical and organizational infrastructure to
+support technology deployment.
+•   Includes creation of physical facilities, ICT systems, standard operating
+procedures (SOPs), and testing setups.
+•   Example: Setting up pilot production lines or data systems to replicate
+R&D parameters at plant level.
+Step 2: Formation of Technology Transfer Teams (1 mark)
+• A cross-functional transfer team should be formed, including members
+from R&D, manufacturing, quality, and operations.
+• The team acts as the bridge between the source (developer) and
+receiver (user) units.
+•   Ensures alignment on design specifications, process parameters, and
+performance targets.
+Step 3: Parallel Production / Pilot Implementation (1.5 marks)
+• Conduct pilot production runs or parallel trials at the recipient site
+under R&D supervision.
+•   This phase allows testing of the technology under real production
+conditions.
+•   Issues related to scalability, reliability, and cost-efficiency are identified
+and corrected.
+Step 4: Training and Capability Development (1 mark)
+•   Intensive training programs for operators, engineers, and supervisors
+are conducted to ensure knowledge transfer.
+•   Focuses on new process control, equipment handling, troubleshooting,
+and quality standards.
+• Knowledge codification through manuals, digital learning modules, or
+simulation training ensures standardization.
+Step 5: Monitoring, Feedback, and Continuous Improvement (1.5 marks)
+•   Establish feedback loops between R&D and production units for
+performance tracking.
+********** 12 **********
+--- page 13 ---
+•   KPIs such as yield, defect rate, energy efficiency, and uptime are
+monitored.
+•   Continuous improvement mechanisms are used to refine processes and
+close performance gaps.
+3. Management Decision Factors Affecting Technology Transfer
+(3 marks total)
+(a) Diversification Decisions (1 mark)
+•   Diversification into new products or markets may require adapting the
+transferred technology to new contexts.
+•   Strategic focus on core vs. non-core technologies affects the speed and
+scope of transfer.
+(b) New Acquisitions (1 mark)
+•   Acquired units may have different technology maturity levels or
+incompatible systems.
+• Management must ensure technology harmonization, shared
+standards, and integration of best practices across units.
+(c) R&D Focus (1 mark)
+• The strategic orientation of R&D (incremental vs. breakthrough
+innovation) influences transfer readiness.
+•   Strong R&D–operations collaboration ensures design-for-
+transferability, reducing adaptation delays.
+4. Conclusion (1 mark)
+Successful intra-firm technology transfer in JKL Pvt. Ltd. depends on a
+structured, feedback-driven process integrating people, processes, and
+management decisions.
+Effective infrastructure, trained teams, and continuous monitoring—aligned
+with strategic management choices—ensure that innovation moves seamlessly
+from lab to large-scale production, creating sustained competitive advantage.
+Q6   [10]
+********** 13 **********
+--- page 14 ---
+a   Explain the application of the ‘S’ Curve of technology adoption with a suitable
+diagram for any one of the following products/services with reference to the
+Indian markets:
+i. Go Pro Cameras
+ii.   Smartphones
+iii.   Washing machines
+iv.   Dish washers
+CO- 3;
+v.   Drones for crowd management/agriculture/delivery [5]
+BL- 3
+Answer:
+Synoptic Answer: The response will include an explanation about the
+adoption curve as the student understands it.
+Rubric for Evaluation
+2 marks for the diagram, 3 marks for a logical explanation and
+correlation of the concept to the products/services.
+b   Differentiate between process innovation and product innovation. Based on
+your project, identify and explain at least one example of product and process
+innovations adopted by the firms. [5]
+Synoptic Answer:
+A product innovation is the introduction of a good or service that is new or
+significantly improved with respect to its characteristics or intended uses. This
+includes significant improvements in technical specifications, components and
+materials, incorporated software, user-friendliness or other functional
+characteristics. Product innovations can utilize new knowledge or technologies,
+or can be based on new uses or combinations of existing knowledge or
+technologies.
+A process innovation is the implementation of a new or significantly improved
+production, service or delivery method. This includes significant changes in
+techniques, equipment and/or software. Process innovations can be intended to
+decrease unit costs of production or delivery, to increase quality or to produce
+or deliver new or significantly improved products.
+Rubric for Evaluation
+3 marks for the differentiation between Process innovation and product
+innovation; 2 marks for identifying the appropriate innovation in their
+********** 14 **********
+--- page 15 ---
+respective projects. Examiners must ensure that the response identifies these
+correctly.
+Q7.   [10]
+a   Discuss the two types of capabilities that are necessary for a company to
+develop/adopt new technology innovation. [5]
+Synoptic Answer: The necessary types of capabilities that a company must build
+are technical and dynamic capabilities .
+Technical Capabilities (The hard skills – These include resources for R&D,
+human capital, technology stack and infrastructure, technical knowledge base.
+These capabilities must be supported by an intuitive capability for trend spotting,
+CO- 3;   sensing market shifts and demands, reconfigure its capabilities to meet the
+BL- 3   changing demands. If a firm fails to do this, they may go obsolete.
+Dynamic capabilities (the soft skills) – Sensing market shifts and demands,
+changing trends, emerging competition etc (the ability to identify and asses
+threats and weaknesses); seizing new opportunities (the ability to mobilize
+resources to capture the value from an opportunity), ability to constantly renew
+the company’s assets and structures.
+Rubric for Evaluation
+At least 2 points per capability + 1 marks for overall answer
+********** 15 **********
+--- page 16 ---
+b
+Coldplay is pioneering a new model for sustainable and inclusive live
+touring in response to the music industry's significant environmental impact.
+Moving beyond their massive, resource-intensive past tours, the band has
+committed to a multi-year hiatus to fundamentally redesign how they
+operate.
+While they are a band and not a traditional product company, their
+"products" include music releases and official merchandise. They have
+innovated here by creating CDs and vinyl records from 100% recycled
+plastics, and they have committed to eliminating single-use plastics in their
+merchandise. This ensures that the physical items fans purchase, from
+clothing to music formats, align with the band's broader environmental
+mission.
+These efforts align with broader industry initiatives, such as those by
+Yamaha Music and Sony Music, which are adopting voluntary codes for
+social responsibility. Similarly, in India, the Indian Music Industry (IMI) and
+festivals like Lollapalooza India and Echoes of Earth are pushing for greater
+corporate social responsibility. Coldplay’s deliberate pause and strategic
+focus on partnership, from touring to merchandise, exemplifies a leading,
+proactive effort to translate these industry-wide aspirations into tangible,
+impactful practices.
+Identify and explain at least three strategies applied by Coldplay as discussed
+in this case. [5]
+Answer
+Identify and explain at least three strategies applied by Coldplay as discussed in this
+case.
+i.   Coldplay’s approach to innovation is aligned with global efforts towards
+sustainability. Their innovative approach is centered on creating shared
+value through deep collaboration with a range of profit and non-profit
+partners to tackle sustainability challenges, aiming to make their future
+tours a blueprint for reducing the industry's environmental footprint.
+********** 16 **********
+--- page 17 ---
+ii.   Beyond their concert logistics, Coldplay has extended their sustainability
+ethos to their product offerings.
+iii.   Coldplay’s deliberate pause and strategic focus on partnership, from touring
+to merchandise, exemplifies a leading, proactive effort to translate these
+industry-wide aspirations into tangible, impactful practices.
+Rubric for Evaluation
+The response may identify innovation in the business model, product, process
+or marketing strategies. Full marks may be considered for appropriate
+identification and explanation.
+********** 17 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 9 · Answer key · paper bc83c32a07f7
 
 - Departments: Chemical
@@ -1087,6 +1626,7 @@ identification and explanation.
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 31 Jan 2026
 - Text: mixed (16 pages), mean OCR confidence 40.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1559,6 +2099,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_AI_7051/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 31 Jan 2026
 - Text: mixed (16 pages), mean OCR confidence 40.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2031,6 +2572,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_Computer_7047/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 31 Jan 2026
 - Text: mixed (16 pages), mean OCR confidence 40.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2503,6 +3045,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_IT_7041/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 31 Jan 2026
 - Text: mixed (16 pages), mean OCR confidence 40.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2966,543 +3509,4 @@ financial inclusion, inspiring microfinance movements worldwide.
 ********** 15 **********
 --- page 16 ---
 FRR ICR 7 6 AC OH
-````
-
-## 2024-25 · Final-Exam · Sem 9 · Answer key · paper 2e26fa59438c
-
-- Departments: Artificial Intelligence, Computer Engineering, Data Science, Mechanical
-- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052
-- Source: `02_Question_Papers/2024/Sem_09/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2024-2025.pdf` (+4 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 10 Dec 2025
-- Text: text (17 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
-Tech (IT)/MBA Tech (Mech)
-Year: V/Semester IX(Exam Year: 2025-2026)
-Subject: Management of Technology and Innovation
-Date: 10 Dec 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
-Max. Marks: 50
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 17 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Section I is compulsory
-5. Section II – Answer any 4 Questions out of 6
-6. Assume suitable data if necessary.
-Section I
-Q1   Answer briefly :   [10]
-a. Define of Technology Management [2.5]
-Answer: The definition of TM includes planning, directing, control and
-coordination of the development and implementation of technological
-CO-1 ;
-capabilities so that firms can shape and accomplish their strategic and
-BL- 2
-operational objectives (NRC, 1987).
-Rubric-2.5 marks for the definition
-b   Explain Technology Roadmap as a Technology Management tool [2.5]
-.   Answer
-The technology road map documents a product’s history, current status, and
-expected future. It helps track progress in product and process development,
-analyze market response, and align technology decisions with business
-CO- 1;   strategy.
-BL- 2
-•   Technology road-mapping is a strategic planning tool used to align
-technological capabilities with business objectives and market needs.
-•   Motorola developed this method to systematically track, evaluate, and
-plan for emerging and product technologies across its businesses.
-Purpose and benefits
-********** 1 **********
---- page 2 ---
-•   Provides a structured framework for technology planning and decision-
-making.
-•   Helps evaluate internal technological capabilities and identify gaps.
-•   Supports comparison of company technologies with competitors.
-•   Forecasts future technological trends and R&D priorities.
-•   Enables proactive investment and innovation planning.
-•   Ensures no critical technologies are overlooked.
-Rubric
-1. Definition / Concept Understanding- marks
-2. Explanation of Purpose and Function+ Benefits and Application- 1.5
-marks
-c   Write a short note on Modelling as technology forecasting method. [2.5]
-Answer:
-Modeling is a structured approach to forecasting where a simplified
-representation of real-world systems is created to understand and predict
-future behavior. It involves constructing mathematical, graphical, or computer-
-based models that simulate how a system might evolve over time under
-different conditions.
-This method assumes that the basic structure and processes of complex
-systems can be captured through simplified representations. Its major strength
-lies in its ability to isolate critical variables and exhibit future behavior of
-complex systems while excluding unessential details. However, sophisticated
-models may hide faulty assumptions, overemphasize quantifiable factors, and
-lose credibility if not well validated with real data.
-Example: A recent example is the use of AI-based energy demand forecasting
-models that simulate power consumption patterns to optimize smart grid
-operations and renewable energy integration.
-CO2,   Use: Modeling helps reduce complex technological systems into manageable
-BL2   representations, aiding decision-making and strategic planning.
-Rubrics :
-Criteria   Description   Mark
-s
-Concept   Clear definition of expert opinion and   1.0
-explanation   its basis in expert judgment
-Strengths and   Mention of at least one key strength   0.5
-weaknesses   and one weakness
-Example   Relevant and recent example of expert   0.5
-opinion in technology forecasting
-Clarity and   Logical flow, concise expression,   0.5
-structure   correct terminology
-********** 2 **********
---- page 3 ---
-d   “Generally, engineers, doctors and politicians, as well as business managers –
-do not, in general, follow incremental strategies which explicitly recognize that
-the firm has only very imperfect knowledge of its environment, of its own
-strengths and weaknesses, and of the likely rates, and directions of change in
-the future. It must therefore be ready to adapt its strategy in the light of new
-information and understanding, which it must consciously seek to obtain.”
-Discuss the most efficient procedure to be followed in such circumstances.
-Synoptic Answer:
-In such circumstances, most corporate organisations deliberately undertake a
-process as below:
-Design – development – test – adjust design – retest – operate (for engineering
-CO-3;   product development and process innovations).
-BL-
-2,3   OR
-Procedure followed is as below:
-1. Make deliberate steps (or changes) towards the stated objective.
-2. Measure and evaluate the effects of the steps (changes).
-3. Adjust (if necessary) the objective and decide on the next step (change).
-This is the response as per the text book. Logical responses covering these
-points may be considered. The response may be based on any one of the
-approaches mentioned above. Examiner discretion is advised for appropriate
-evaluation.
-Understanding of the Problem Context:1 marks
-Application / Logical Insight-1.5 marks
-Section II
-Q2
-[10]
-a   Describe the Technology Management Framework in detail with the help of a
-CO- 1;   diagram. [5]
-BL-3   TM (Technology Management) framework
-********** 3 **********
---- page 4 ---
-Key aspects of the framework include:
-• The linkage between technological and commercial perspectives in the
-firm.
-• The knowledge flows (and other mechanisms) that support this linkage.
-• The core business processes of strategy, innovation (including new
-product development) and operations.
-• The TM processes: identification, selection, acquisition, exploitation,
-protection and learning.
-• The organizational and environmental context in which the firm
-operates (the ‘system’), which includes additional internal elements of
-the system, such as staff and other business processes and sub-
-systems, together with external elements such as customers,
-competitors, partners, government, etc.
-• Time (change, trends, evolution and synchronization).
-Rubric for Evaluation
-Explanation of Key Components: 2.5 marks
-Diagram / Visual Representation- 2.5 marks
-b What are Science-Technology Push and Pull Market Pull mechanisms in the
-context of “Technology and Market interaction” [5]
-CO- 1;
-Answer:
-BL-3
-1. Concept Overview
-********** 4 **********
---- page 5 ---
-Technology–Market Interaction explains how innovation emerges from the
-interplay between technological possibilities and market needs. Successful
-innovation occurs when scientific discovery (push) aligns with market demand
-(pull), creating both feasibility and commercial value.
-2. Science–Technology Push (Supply-Side Driver)
-Refers to innovation driven by scientific discovery or technological
-advancement, even before a clear market exists.
-Originates from R&D labs, universities, or scientific breakthroughs.
-Often leads to radical or disruptive innovations that create new markets.
-Examples:
-Development of the transistor (enabled modern electronics).
-Genetic engineering breakthroughs that later created the biotechnology
-industry.
-3. Market Pull (Demand-Side Driver)
-Refers to innovation driven by customer needs, market demand, or societal
-challenges.
-Begins with identifying a problem or opportunity in the market.
-Often results in incremental innovations improving usability, quality, or cost-
-effectiveness.
-Examples:
-Demand for faster processors led to multi-core CPUs.
-Consumer demand for eco-friendly packaging driving green technologies.
-********** 5 **********
---- page 6 ---
-4. Integration of Push and Pull: Co-evolution of Technology and Market
-The best innovation outcomes occur when technology push and market pull
-are integrated.
-Technology Push → Creates possibilities
-Market Pull → Creates adoption and revenue
-Their synergy ensures both technical feasibility and commercial viability,
-accelerating innovation diffusion.
-5. Conclusion
-In summary, Science–Technology Push fuels invention, while Market Pull
-ensures adoption.
-Innovation succeeds when firms balance both forces — investing in scientific
-capability (push) while staying responsive to customer needs (pull).
-This integration transforms ideas into sustainable market success.
-Rubric for Evaluation
-1. 2. Explanation of Science–Technology Push- 2 marks
-2. Explanation of Market Pull-2 marks
-3. Integration of Push and Pull- 1marks
-Q3   [10]
-a   Illustrate and briefly explain the Market Growth at different Stages of
-Technology Life Cycle? [5]
-Answer:
-• Market Growth Across the Technology Life Cycle
-CO-   (Technology Development → Launch → Growth → Maturity →
-1 ;   Substitution → Obsolescence)
-BL- 3   Concept Overview
-• A technology produces market value only after commercialization
-•   While under development, it has high cost but zero market return
-•   Market growth follows the Technology Life Cycle (TLC) curve
-•   Figure shows how market volume evolves across six phases
-********** 6 **********
---- page 7 ---
-Rubric for Evaluation
-1. Concept Understanding+ Explanation of Market Behavior in Each Stage-2
-2. Identification of Stages+ Illustration / Diagram- 3 marks
-b   Explain how product and process innovation together represent the progress of
-technology. [5]
-Answer
-•   Technology Turbulence & Product Innovation (Early Stage)
-•   Scientific discoveries introduce new technologies, creating turbulence
-in existing systems
-•   During the embryonic phase, many competing product designs emerge
-• The rate of product innovation peaks first (firms experiment to find
-winning features)
-CO-
-• Outcome: A dominant design eventually emerges and becomes the
-1 ;
-industry standard
-BL- 3
-•   Example: Early automobile designs, early PC architectures, or early
-smartphone layouts
-•   Process Innovation (Growth & Maturity Stages)
-•   After the dominant design stabilizes, firms shift to process innovation
-•   Process innovation focuses on:
-✅ Lower cost
-✅ Improved quality
-✅ Greater productivity
-✅ Scalability and efficiency
-********** 7 **********
---- page 8 ---
-•   Process innovation continues for most of the technology life cycle,
-supporting incremental product improvements
-•   Key Insight: Product innovation wins the market; process innovation
-wins profits.
-•   Aging Technology, Substitution & New Cycles
-•   As the technology matures and approaches limits, innovation slows
-again
-• A new technological discontinuity (another breakthrough) restarts the
-cycle
-•   Old technology becomes obsolete, and a new product/process
-innovation cycle begins
-•   Examples of substitution cycles:
-• Steam → Diesel → Electric → Hydrogen (engines)
-• Wired phones → Mobile → Smartphone → Smart-wearables
-•   Film camera → Digital → Smartphone cameras →
-Computational AI imaging
-•   Core Message:
-👉 Innovation is cyclical — product innovation dominates early, process
-innovation dominates later, and discontinuities reset the game.
-Rubric for Evaluation
-********** 8 **********
---- page 9 ---
-1. Conceptual Understanding- 1 marks
-2. Explanation of Product Innovation (Early Stage)+ Explanation of Process
-Innovation (Growth & Maturity Stages)- 2 marks
-3. Diagram – 2 marks
-Q4
-[10]
-TechNova Pvt. Ltd., a mid-sized technology firm, has recently developed a
-breakthrough innovation called the SmartBio Sensor, a wearable biosensor
-capable of continuously monitoring glucose and hydration levels. The
-technology holds strong potential for application across both the medical and
-fitness sectors. However, the company now faces a strategic dilemma:
-How to best exploit this technology for commercial success?
-The management is considering four alternative approaches.
-One option is to employ the technology in its own production and products by
-launching a wearable health device under the TechNova brand. This would allow
-the company to retain complete control over the product and technology but
-would require substantial investment in manufacturing, marketing, and
-distribution, areas in which TechNova currently lacks strong capabilities or
-consumer recognition.
-CO 2;   A second alternative is to contract out the manufacture or marketing to an
-BL-4   established consumer health brand. This arrangement would enable faster
-market entry and take advantage of the partner’s marketing strength, but it
-would also mean sharing profits and relinquishing some control over the final
-product.
-A third option under review is to form a joint venture with a global med-tech
-company to jointly develop and market specialized clinical or sports versions of
-the SmartBio Sensor. Such an arrangement would allow TechNova to share both
-risk and research capabilities, while also gaining access to global markets.
-However, it would also involve complex negotiations, possible conflicts of
-interest, and shared decision-making authority.
-The final option being discussed is to license out the SmartBio technology to
-multiple companies in different application areas such as healthcare monitoring,
-fitness wearables, and sports analytics. Licensing would provide TechNova with
-royalty-based revenue and require minimal investment, yet it could also lead to
-********** 9 **********
---- page 10 ---
-rapid diffusion of the technology and a potential loss of its distinct competitive
-advantage.
-At present, TechNova’s relative standing in the market can be described as
-moderate in terms of technological capability but weak in marketing and
-distribution. The urgency of exploitation is high because competitors are rapidly
-entering the biosensor market, and the need for complementary technologies,
-such as data analytics and software integration, is also significant. The SmartBio
-technology is positioned in the early growth stage of its life cycle and is
-considered distinctive and central to the firm’s research and development
-efforts. Its potential applications are broad, ranging from healthcare to sports
-and wellness.
-Question : Using David Ford’s framework on factors affecting technology
-exploitation decisions, evaluate first and second alternative available to
-TechNova. [10]
-Answer : Launching its own wearable health device under the TechNova
-brand
-•   Capabilities and resources: TechNova has strong technological
-capability but weak marketing and distribution skills. Launching its own
-product would require substantial investment in areas outside its core
-competence.
-•   Control: This option provides maximum control over product design,
-branding, and IP exploitation.
-• Speed of entry: Market entry would be slower due to the need to
-establish manufacturing and distribution channels.
-•   Risk: High financial and operational risk because the firm must invest
-heavily without guaranteed market acceptance.
-• Complementary assets: Lacking marketing, brand recognition, and
-distribution capabilities reduces the likelihood of immediate success.
-2. Contracting out manufacturing or marketing to an established consumer
-health brand
-•   Capabilities and resources: Leveraging a partner’s capabilities in
-marketing and distribution addresses TechNova’s weak areas.
-•   Control: Moderate, as TechNova must share decision-making and may
-have limited influence over final product positioning.
-• Speed of entry: Faster market penetration is achievable due to the
-partner’s established channels.
-•   Risk: Reduced financial and operational risk relative to self-launch,
-though profit sharing limits total returns.
-********** 10 **********
---- page 11 ---
-• Complementary assets: Access to the partner’s brand recognition and
-distribution network enhances potential market success.
-Rubrics :
-Evaluation Criteria   Marks
-1. Application of David Ford’s Framework   2.0
-marks
-2. Evaluation of Option 1 – Launching under TechNova   2.0
-Brand   marks
-3. Evaluation of Option 2 – Contracting Out   2.0
-Manufacturing/Marketing   marks
-4. Comparative Analysis between Option 1 and Option 2   2.0
-marks
-5. Recommendation and Justification   1.5
-marks
-6. Presentation, Clarity, and Logical Structure   0.5
-marks
-Q5
-[10]
-a JKL Pvt. Ltd. has developed an advanced technology and plans to
-implement this innovation across multiple manufacturing sites
-within the organization. Using the intra-firm technology transfer
-model, outline the structured steps JKL should follow to ensure
-successful transfer of the technology from the R&D unit to full-
-scale production. In your answer, discuss the roles of
-infrastructure creation, transfer teams, parallel production,
-training, and monitoring. Additionally, explain how management
-decisions regarding diversification, new acquisitions, and R&D
-focus influence the overall technology transfer process within
-CO 2;
-the firm. [10 Marks]
-BL-4
-Answer
-1. Concept Overview (1 mark)
-Intra-firm technology transfer refers to the systematic process of moving
-technology—developed in one unit (e.g., R&D)—to other units such as
-manufacturing plants within the same organization.
-The goal is to ensure replication, standardization, and performance
-consistency across sites while maintaining cost and quality advantages.
-********** 11 **********
---- page 12 ---
-2. Structured Steps in the Intra-Firm Technology Transfer
-Process (6 marks total)
-Step 1: Infrastructure Creation (1 mark)
-•   Establish the necessary technical and organizational infrastructure to
-support technology deployment.
-•   Includes creation of physical facilities, ICT systems, standard operating
-procedures (SOPs), and testing setups.
-•   Example: Setting up pilot production lines or data systems to replicate
-R&D parameters at plant level.
-Step 2: Formation of Technology Transfer Teams (1 mark)
-• A cross-functional transfer team should be formed, including members
-from R&D, manufacturing, quality, and operations.
-• The team acts as the bridge between the source (developer) and
-receiver (user) units.
-•   Ensures alignment on design specifications, process parameters, and
-performance targets.
-Step 3: Parallel Production / Pilot Implementation (1.5 marks)
-• Conduct pilot production runs or parallel trials at the recipient site
-under R&D supervision.
-•   This phase allows testing of the technology under real production
-conditions.
-•   Issues related to scalability, reliability, and cost-efficiency are identified
-and corrected.
-Step 4: Training and Capability Development (1 mark)
-•   Intensive training programs for operators, engineers, and supervisors
-are conducted to ensure knowledge transfer.
-•   Focuses on new process control, equipment handling, troubleshooting,
-and quality standards.
-• Knowledge codification through manuals, digital learning modules, or
-simulation training ensures standardization.
-Step 5: Monitoring, Feedback, and Continuous Improvement (1.5 marks)
-•   Establish feedback loops between R&D and production units for
-performance tracking.
-********** 12 **********
---- page 13 ---
-•   KPIs such as yield, defect rate, energy efficiency, and uptime are
-monitored.
-•   Continuous improvement mechanisms are used to refine processes and
-close performance gaps.
-3. Management Decision Factors Affecting Technology Transfer
-(3 marks total)
-(a) Diversification Decisions (1 mark)
-•   Diversification into new products or markets may require adapting the
-transferred technology to new contexts.
-•   Strategic focus on core vs. non-core technologies affects the speed and
-scope of transfer.
-(b) New Acquisitions (1 mark)
-•   Acquired units may have different technology maturity levels or
-incompatible systems.
-• Management must ensure technology harmonization, shared
-standards, and integration of best practices across units.
-(c) R&D Focus (1 mark)
-• The strategic orientation of R&D (incremental vs. breakthrough
-innovation) influences transfer readiness.
-•   Strong R&D–operations collaboration ensures design-for-
-transferability, reducing adaptation delays.
-4. Conclusion (1 mark)
-Successful intra-firm technology transfer in JKL Pvt. Ltd. depends on a
-structured, feedback-driven process integrating people, processes, and
-management decisions.
-Effective infrastructure, trained teams, and continuous monitoring—aligned
-with strategic management choices—ensure that innovation moves seamlessly
-from lab to large-scale production, creating sustained competitive advantage.
-Q6   [10]
-********** 13 **********
---- page 14 ---
-a   Explain the application of the ‘S’ Curve of technology adoption with a suitable
-diagram for any one of the following products/services with reference to the
-Indian markets:
-i. Go Pro Cameras
-ii.   Smartphones
-iii.   Washing machines
-iv.   Dish washers
-CO- 3;
-v.   Drones for crowd management/agriculture/delivery [5]
-BL- 3
-Answer:
-Synoptic Answer: The response will include an explanation about the
-adoption curve as the student understands it.
-Rubric for Evaluation
-2 marks for the diagram, 3 marks for a logical explanation and
-correlation of the concept to the products/services.
-b   Differentiate between process innovation and product innovation. Based on
-your project, identify and explain at least one example of product and process
-innovations adopted by the firms. [5]
-Synoptic Answer:
-A product innovation is the introduction of a good or service that is new or
-significantly improved with respect to its characteristics or intended uses. This
-includes significant improvements in technical specifications, components and
-materials, incorporated software, user-friendliness or other functional
-characteristics. Product innovations can utilize new knowledge or technologies,
-or can be based on new uses or combinations of existing knowledge or
-technologies.
-A process innovation is the implementation of a new or significantly improved
-production, service or delivery method. This includes significant changes in
-techniques, equipment and/or software. Process innovations can be intended to
-decrease unit costs of production or delivery, to increase quality or to produce
-or deliver new or significantly improved products.
-Rubric for Evaluation
-3 marks for the differentiation between Process innovation and product
-innovation; 2 marks for identifying the appropriate innovation in their
-********** 14 **********
---- page 15 ---
-respective projects. Examiners must ensure that the response identifies these
-correctly.
-Q7.   [10]
-a   Discuss the two types of capabilities that are necessary for a company to
-develop/adopt new technology innovation. [5]
-Synoptic Answer: The necessary types of capabilities that a company must build
-are technical and dynamic capabilities .
-Technical Capabilities (The hard skills – These include resources for R&D,
-human capital, technology stack and infrastructure, technical knowledge base.
-These capabilities must be supported by an intuitive capability for trend spotting,
-CO- 3;   sensing market shifts and demands, reconfigure its capabilities to meet the
-BL- 3   changing demands. If a firm fails to do this, they may go obsolete.
-Dynamic capabilities (the soft skills) – Sensing market shifts and demands,
-changing trends, emerging competition etc (the ability to identify and asses
-threats and weaknesses); seizing new opportunities (the ability to mobilize
-resources to capture the value from an opportunity), ability to constantly renew
-the company’s assets and structures.
-Rubric for Evaluation
-At least 2 points per capability + 1 marks for overall answer
-********** 15 **********
---- page 16 ---
-b
-Coldplay is pioneering a new model for sustainable and inclusive live
-touring in response to the music industry's significant environmental impact.
-Moving beyond their massive, resource-intensive past tours, the band has
-committed to a multi-year hiatus to fundamentally redesign how they
-operate.
-While they are a band and not a traditional product company, their
-"products" include music releases and official merchandise. They have
-innovated here by creating CDs and vinyl records from 100% recycled
-plastics, and they have committed to eliminating single-use plastics in their
-merchandise. This ensures that the physical items fans purchase, from
-clothing to music formats, align with the band's broader environmental
-mission.
-These efforts align with broader industry initiatives, such as those by
-Yamaha Music and Sony Music, which are adopting voluntary codes for
-social responsibility. Similarly, in India, the Indian Music Industry (IMI) and
-festivals like Lollapalooza India and Echoes of Earth are pushing for greater
-corporate social responsibility. Coldplay’s deliberate pause and strategic
-focus on partnership, from touring to merchandise, exemplifies a leading,
-proactive effort to translate these industry-wide aspirations into tangible,
-impactful practices.
-Identify and explain at least three strategies applied by Coldplay as discussed
-in this case. [5]
-Answer
-Identify and explain at least three strategies applied by Coldplay as discussed in this
-case.
-i.   Coldplay’s approach to innovation is aligned with global efforts towards
-sustainability. Their innovative approach is centered on creating shared
-value through deep collaboration with a range of profit and non-profit
-partners to tackle sustainability challenges, aiming to make their future
-tours a blueprint for reducing the industry's environmental footprint.
-********** 16 **********
---- page 17 ---
-ii.   Beyond their concert logistics, Coldplay has extended their sustainability
-ethos to their product offerings.
-iii.   Coldplay’s deliberate pause and strategic focus on partnership, from touring
-to merchandise, exemplifies a leading, proactive effort to translate these
-industry-wide aspirations into tangible, impactful practices.
-Rubric for Evaluation
-The response may identify innovation in the business model, product, process
-or marketing strategies. Full marks may be considered for appropriate
-identification and explanation.
-********** 17 **********
 ````

@@ -14,17 +14,17 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Information Security and Privacy(702DB0C004)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | B TECH / DATA SCIENCE, B.TECH INTEGRATED / DATA SCIENCE, MBA TECH / DATA SCIENCE | Information Security and Privacy 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech DS 7009 | QP_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | Integrated DS 7038 | QP_Information Security and Privacy(702DB0C004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech DS 7052 | QP_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Information Security and Privacy(702DB0C004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech DS 7009 | QP_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech DS 7052 | QP_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / DATA SCIENCE, B.TECH INTEGRATED / DATA SCIENCE, MBA TECH / DATA SCIENCE | Information Security and Privacy Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / DATA SCIENCE, B.TECH INTEGRATED / DATA SCIENCE, MBA TECH / DATA SCIENCE | Information Security and Privacy Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Information security & Privacy , Final 2023-24.pdf |

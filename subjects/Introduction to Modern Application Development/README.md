@@ -1,6 +1,6 @@
 # Introduction to Modern Application Development
 
-**10** unique papers (15 copies across programmes) · 2022-23 to 2025-26 · 3 programmes · Sem 5, Sem 9
+**9** unique papers (14 copies across programmes) · 2022-23 to 2025-26 · 3 programmes · Sem 5, Sem 9
 
 Download only this subject, sorted by academic year:
 
@@ -16,7 +16,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 5, Sem 9 | B TECH / DATA SCIENCE, B.TECH INTEGRATED / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Modern App Development 2025-26 Final Batch 2024-25 Re Exam.pdf [1] |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Modern Application Development, Sem-V, Final Exam 2024-25 & Re Ex_ea01fd8e.pdf |
-| 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / DATA SCIENCE | Modern Construction Equipment and Techniques, Sem-V, Batch 2024-25 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | MBA TECH / DATA SCIENCE | Modern Appl development , Re-exam 2023-24,2024-25.PDF |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / DATA SCIENCE | Introduction to Modern Application Development, Sem-V, A Y 2023-24, Final Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | MBA TECH / DATA SCIENCE | Modern Application Development, Final 23-24.pdf |

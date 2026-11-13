@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_Computer_7032/Data Analytics/ANS_Data Analytics(702DB0I001)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (24 pages), mean OCR confidence 85.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1096,7 +1097,6 @@ for exemple, when doing “df{col].eethed(value, AnplacesTeve)', try using "éf.
 
 for example, when éoing “éf[col] .aethod(valee, + try wring “at s valve), )* or effcol] = ef[col].nethod(velue) instead, to perfora the operation Inplace on the original obj
 
-een ttc eta, Apert)
 Explanation:
 e Checked missing values using isna().sum().
 e Used mean imputation because columns are continuous and mean preserves

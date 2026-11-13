@@ -233,6 +233,80 @@ Pulse Width modulation (PWM) generation.
 Page 2 of 2
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper 4f407dfe5629
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/COMMUNICATION SYSTEMS/communication systems Re-exam 2017-18-19.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 June 2019
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
+
+Programme: B. Tech / MBA Tech (EXTC) Year: 11 Semester: IV
+Academic Year: 2018-2019 :
+Subject: Communication Systems ; Marks: 70
+
+Date : 19 June 2019 Time: 2.00 pm to 5.00 pm
+Duration: 3 (Hrs)
+
+No. of Pages: 2
+Re- Examination (2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. :
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks, -.
+7) Assume -suitable data if necessary.
+
+Ql)
+a) Attempt ANY ONE Question
+i) With a neat block diagram explain working of a high level AM DSBFC (6)
+Transmitter,
+OR
+ii) With a neat block diagram explain working of a Crosby direct FM Transmitter. (6)
+b) Define and explain Signal to noise ratio and Noise figure of communication (4)
+system.
+c) Explain sampling theorem and also explain aliasing effect. (4)
+Q2) a) Write a short note on external Uncorrelated Noise in communication systems. (7)
+b) With neat block diagram explain AM superheterodyne receiver in brief. (7)
+
+Q3) a) With neat circuit diagram explain Balanced Ring Modulator for SSB generation. (7)
+b) Explain Pre-emphasis and de-emphasis. (7)
+
+Q4) a) Explain Sensitivity, dynamic range and Noise temperature of an AM receiver. (7)
+b) Explain with circuit diagram Foster-Seeley discriminator used for FM detection. (7)
+
+Page 1 of 2
+--- page 2 ---
+Q5) a) Write a short note on varactor diode FM Modulator. (7)
+b) Explain generation and detection of PPM signal. (7)
+Q6) a) Explain various single side band ainplitude modulation systems. (7)
+
+b) Define and explain Instantaneous Phase Deviation, Instantaneous Phase, (7)
+Instantaneous frequency deviation and Instantaneous frequency related to Angle
+modulation.
+
+Q7) Write a short note on:-
+a) Correlated noise (5)
+b) Pulse Width Modulation. (5)
+ce) Time Division Multiplexing. (4)
+
+Page 2 of 2
+````
+
 ## 2018-19 · Re-Exam · Sem 5 · paper b0131c470983
 
 - Departments: Electronics and Telecommunication
@@ -815,80 +889,6 @@ a. With the help of block schematic explain the principle of FDM. 7™M
 b. Compare PAM, PWM and PPM systems. 7™M
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper 4f407dfe5629
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/COMMUNICATION SYSTEMS/communication systems Re-exam 2017-18-19.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 June 2019
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
-
-Programme: B. Tech / MBA Tech (EXTC) Year: 11 Semester: IV
-Academic Year: 2018-2019 :
-Subject: Communication Systems ; Marks: 70
-
-Date : 19 June 2019 Time: 2.00 pm to 5.00 pm
-Duration: 3 (Hrs)
-
-No. of Pages: 2
-Re- Examination (2017-18/2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. :
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks, -.
-7) Assume -suitable data if necessary.
-
-Ql)
-a) Attempt ANY ONE Question
-i) With a neat block diagram explain working of a high level AM DSBFC (6)
-Transmitter,
-OR
-ii) With a neat block diagram explain working of a Crosby direct FM Transmitter. (6)
-b) Define and explain Signal to noise ratio and Noise figure of communication (4)
-system.
-c) Explain sampling theorem and also explain aliasing effect. (4)
-Q2) a) Write a short note on external Uncorrelated Noise in communication systems. (7)
-b) With neat block diagram explain AM superheterodyne receiver in brief. (7)
-
-Q3) a) With neat circuit diagram explain Balanced Ring Modulator for SSB generation. (7)
-b) Explain Pre-emphasis and de-emphasis. (7)
-
-Q4) a) Explain Sensitivity, dynamic range and Noise temperature of an AM receiver. (7)
-b) Explain with circuit diagram Foster-Seeley discriminator used for FM detection. (7)
-
-Page 1 of 2
---- page 2 ---
-Q5) a) Write a short note on varactor diode FM Modulator. (7)
-b) Explain generation and detection of PPM signal. (7)
-Q6) a) Explain various single side band ainplitude modulation systems. (7)
-
-b) Define and explain Instantaneous Phase Deviation, Instantaneous Phase, (7)
-Instantaneous frequency deviation and Instantaneous frequency related to Angle
-modulation.
-
-Q7) Write a short note on:-
-a) Correlated noise (5)
-b) Pulse Width Modulation. (5)
-ce) Time Division Multiplexing. (4)
-
-Page 2 of 2
-````
-
 ## 2017-18 · Re-Exam · Sem 5 · paper 39e9ba0d8345
 
 - Departments: Electronics and Telecommunication
@@ -1438,6 +1438,7 @@ d) Draw and explain PAM modulator and demodulator 8
 - Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/COMMUNICATION SYSTMS/2005-2006(24).pdf` (+1 identical copies)
 - Text: ocr (2 pages), mean OCR confidence 91.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 > SVKwe \
@@ -1446,12 +1447,10 @@ x Mumbs, - 56. Ye
 UDEES8Aary Je
 we =)
 
-NARSEE MONJEE INSTITUTE OF MANAGEMEN
 
 (DEEMED UNIVERSITY) ey
 COURSE:- IV (Trimester)(IT/Telecomm.) F.M.: 8
 SUBJECT:- Communication Systems : s
-Docde- S|(lolox “Time U'wawmto
 
 Instructions:
 1. Q-1 is compulsory

@@ -16,8 +16,8 @@ Also filed as: `SERVICE MARKETING`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Services Marketing(703TM0E005)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Services Marketing(703TM0E005)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Services Marketing(703TM0E005)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 9 | MBA TECH | Services Marketing , Final 2023-2024.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 9 | MBA TECH | Service Marketing ,Final,2022-23.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 9 | MBA TECH | Service Marketing , Final exam 2019-20.pdf |

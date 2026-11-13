@@ -16,29 +16,29 @@ Also filed as: `HUMAN RESOURCE OF MANAGEMENT`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Human Resource Management(702TG0C014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech AI 7051, MBATech DS 7052, MBATech IT 7041 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Human Resource Management(702TG0C014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Human Resource Management(703TG0C011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Human Resource Management(703TG0C011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech AI 7051, MBATech DS 7052, MBATech IT 7041 | QP_Human Resource Management(703TG0C011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Human Resource Management(703TG0C011)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Human Resource Management(702TG0C014)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Human Resource Management(702TG0C014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech AI 7051, MBATech DS 7052, MBATech IT 7041 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Human Resource Management(702TG0C014)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Human Resource Management(703TG0C011)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Human Resource Management(703TG0C011)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Human Resource Management(703TG0C011)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Human Resource Management(702TG0C014)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Human Resource Management(703TG0C011)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Human Resource Management, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBA TECH | Human Resource Management, Final Exam 2024-25.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Human Resource Management(703TG0C011)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Human Resource Management, Sem-VII, 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Human Resource Management(703TG0C011)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Human Resource Management(703TG0C011)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Human Resource Management, Sem-VII, Final Exam, A Y 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 9 | MBA TECH | Human Resource Management , Final 2023-2024.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Human Resource Management, Sem-VII, Year 2023-24, Re Exam.pdf |

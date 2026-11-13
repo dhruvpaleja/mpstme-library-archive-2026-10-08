@@ -548,7 +548,7 @@ and Apply
 FR RAR 2 RRR RE
 ````
 
-## 2016-17 · Exam not stated · Sem 4 · paper 2b1fc40d9fbf
+## 2017-18 · Exam not stated · Sem 4 · paper 2b1fc40d9fbf
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -744,7 +744,7 @@ C. Define Oligopoly and discuss the features of Oligopoly (2 marks)
 s/s
 ````
 
-## 2016-17 · Exam not stated · Sem 4 · paper cb2282821e10
+## 2017-18 · Exam not stated · Sem 4 · paper cb2282821e10
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1062,6 +1062,220 @@ demand forecasting.
 in short run in case of Perfect markets. (7 Marks)
 
 3 of 3
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 809f9fbf0532
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Microeconomics/MICROECONOMIC BATCH 2015-2016 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 19 May 2017
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+TN ga
+(ca
+SVKM’s NMIMS Bui aaw DE
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EERINGY ‘2
+NO yee
+Programme: MBA. Tech (All Streams) Year: II Se
+Batch: 2015-2016
+Academic Year: 2016-2017
+Subject: Microeconomics
+Marks: 60
+Date: 19 May 2017 Time: 2.00 pm to 4.00 pm
+: Durations: 2 (hrs)
+No. of Pages: 2—
+Re-Examination
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In ali five questions to be attempted.
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data, if necessary.
+Q1. Write notes on the following: 12 Marks [4x3]
+i) Methods of measuring elasticity of demand.
+ii) Features of indifference curve.
+iii) The law of diminishing Marginal Returns.
+iv) Market Failures.
+Q2 12 Marks [2x6]
+A. The market demand and supply function for pizza in a town were
+QD= 10,000 — 1000P
+QS=-2000+1000P
+i) Determine algebraically the equilibrium price and quantity of pizza and
+ii) Plot the demand supply curve and label the equilibrium point ‘E’ and draw the demand
+curve faced by a single nizza shop in this market on the assumpiion that the market is
+perfectly competitive. Show also the marginal revenue of the firm in the figure.
+B. What are the reasons for existence of monopoly power?
+Q3 12 Marks [2x6]
+
+A. A particular car manufacturer regards his business as highly competitive, as he is keenly
+aware of his rivalry with other car manufacturers. Like others, he undertakes vigorous
+advertising campaigns and seeks to convince the potential buyers of the superior quality
+and better style of automobiles and reacts very quickly to claim of superiority of his rivals.
+Is this perfect competition in reality? Explain.
+
+Yo
+--- page 2 ---
+B. Given the following short run Cost function of a firm
+
+TC = 1000 + 10Q2
+
+What is the firm’
+
+S ‘shut-down point’. Derive the expression for the fi
+curve.
+
+Tm’s short-run supply
+
+Q4 What is Opportunity Cost and how does it affect the social choices?
+
+12 Marks
+Q5 Define forecasting. Name different types of forecasting. How can a firm determine the most
+suitable forecasting method to use? 12 Marks
+Q6 12 Marks [2x6]
+A. Draw a figure showing
+
+i) LTC curves for constant returns to scale
+ii) The corresponding LAC and LMC curves,
+iii) LAC and LMC curves and two SAC curves.
+
+B. State and explain the law of Equilibrium Marginal Utility.
+
+Q7
+
+12 Marks [2x6]
+A. Given the following linear dem
+
+and and cost functions, show
+the output as compared to pe
+
+that monopolist will Produce half
+tfect competition —
+
+Q= 300 -2P
+
+TC = 150 + 10Q
+
+B. Explain the role of time element in Price determination under perfect competition.
+
+ss
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 2e463d675033
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Microeconomics/MICROECONOMICS BATCH 2015-16 RE EXAM0001 (1).pdf`
+- Printed on paper: duration hours: 5; exam date: 14 July 2017
+- Text: ocr (2 pages), mean OCR confidence 90.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) Year: II ~ Semester: IV
+
+Batch: 2015-2016
+
+Academic Year: 2016-2017 -
+
+SL
+
+Subject: Microeconomics | 27 3S
+Marks: 6@ / wpe BA “4
+Date: 14 July 2017 Time: 02°60 pm 10:04. 60
+Durations; 5 (hrs) saat
+No. of Pages: sOZz =e
+Re-Examination SR <a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) Inall five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+QI. Write notes on the following: (3 x 4=12marks)
+
+i) Supply Function.
+
+ii) Returns to scale.
+
+iii) Measurement of elasticity of demand.
+iv) Production Possibility Curve.
+
+Q2. (2x6=12marks)
+
+a) Define a demand function. Discuss the favourable and adverse factors affecting it.
+
+Illustrate your answers with suitable examples.
+b) Assume that the demand Qg and supply Qs of a good are expressed in terms of price P and
+
+consumers income Y as
+Qa=m-n P+KY m,n, K>0
+Q=atbP a, b>0
+
+Find the equilibrium price and quantity when the value of income and the parameters are as
+rit
+follows: Y=100, m=60, n=2, k=0.1, a=10, b=0.5 ee
+
+Vo
+--- page 2 ---
+Q3. : (2x6=12marks)
+a) Explain the relationship between average and marginal cost curves.
+
+b) Given the total cost function TC = Q3 — 18Q? + 108Q, find the values of Q yielding the
+minimum marginal cost MC. Demonstrate your findings both algebraically and graphically.
+
+Q4. (2x6=12marks)
+a) Discuss the meaning of utility. Explain the relationship between total and marginal utility.
+
+b) Production function of a commodity is
+
+q = 10x1 + 5x2 - x1? - 2x2? + 3x1x2
+
+(i) Find the marginal productivity of X1 and X2
+
+(ii) What is the marginal productivity of Xiand X2 for Xi=1 and X2=5
+
+Q5. What is an imperfect competitive market? Briefly describe a type (12 Marks)
+
+imperfectly competitive market.
+
+Q6 Fill in the blanks: (12 Marks)
+Total Total Average Average | Average :
+Output eal Fixed | Variable | Fixed | Variable | Total —
+Cost Cost Cost cost Cost
+100 2600 600
+200 3
+300 5
+400 10.5
+500 3600
+600 30
+700 16
+800 20400
+Q7. Calculate Total revenue, marginal revenue and price elasticity of demand (12 Marks)
+
+for the following data and comment on their relationship and draw suitable diagrams.
+
+Price 10 9 8 7 6 5 z 3 2 1
+@)
+Quantity | | 2 3 4 5 6 7 8 9 10
+Q
+
+ye
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper cd16c19c58ab
@@ -1386,220 +1600,6 @@ e. Monopolistic Competition
 T° ¥
 
 3 of 3
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 809f9fbf0532
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Microeconomics/MICROECONOMIC BATCH 2015-2016 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 19 May 2017
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-TN ga
-(ca
-SVKM’s NMIMS Bui aaw DE
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EERINGY ‘2
-NO yee
-Programme: MBA. Tech (All Streams) Year: II Se
-Batch: 2015-2016
-Academic Year: 2016-2017
-Subject: Microeconomics
-Marks: 60
-Date: 19 May 2017 Time: 2.00 pm to 4.00 pm
-: Durations: 2 (hrs)
-No. of Pages: 2—
-Re-Examination
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In ali five questions to be attempted.
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data, if necessary.
-Q1. Write notes on the following: 12 Marks [4x3]
-i) Methods of measuring elasticity of demand.
-ii) Features of indifference curve.
-iii) The law of diminishing Marginal Returns.
-iv) Market Failures.
-Q2 12 Marks [2x6]
-A. The market demand and supply function for pizza in a town were
-QD= 10,000 — 1000P
-QS=-2000+1000P
-i) Determine algebraically the equilibrium price and quantity of pizza and
-ii) Plot the demand supply curve and label the equilibrium point ‘E’ and draw the demand
-curve faced by a single nizza shop in this market on the assumpiion that the market is
-perfectly competitive. Show also the marginal revenue of the firm in the figure.
-B. What are the reasons for existence of monopoly power?
-Q3 12 Marks [2x6]
-
-A. A particular car manufacturer regards his business as highly competitive, as he is keenly
-aware of his rivalry with other car manufacturers. Like others, he undertakes vigorous
-advertising campaigns and seeks to convince the potential buyers of the superior quality
-and better style of automobiles and reacts very quickly to claim of superiority of his rivals.
-Is this perfect competition in reality? Explain.
-
-Yo
---- page 2 ---
-B. Given the following short run Cost function of a firm
-
-TC = 1000 + 10Q2
-
-What is the firm’
-
-S ‘shut-down point’. Derive the expression for the fi
-curve.
-
-Tm’s short-run supply
-
-Q4 What is Opportunity Cost and how does it affect the social choices?
-
-12 Marks
-Q5 Define forecasting. Name different types of forecasting. How can a firm determine the most
-suitable forecasting method to use? 12 Marks
-Q6 12 Marks [2x6]
-A. Draw a figure showing
-
-i) LTC curves for constant returns to scale
-ii) The corresponding LAC and LMC curves,
-iii) LAC and LMC curves and two SAC curves.
-
-B. State and explain the law of Equilibrium Marginal Utility.
-
-Q7
-
-12 Marks [2x6]
-A. Given the following linear dem
-
-and and cost functions, show
-the output as compared to pe
-
-that monopolist will Produce half
-tfect competition —
-
-Q= 300 -2P
-
-TC = 150 + 10Q
-
-B. Explain the role of time element in Price determination under perfect competition.
-
-ss
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 2e463d675033
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Microeconomics/MICROECONOMICS BATCH 2015-16 RE EXAM0001 (1).pdf`
-- Printed on paper: duration hours: 5; exam date: 14 July 2017
-- Text: ocr (2 pages), mean OCR confidence 90.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech (All Streams) Year: II ~ Semester: IV
-
-Batch: 2015-2016
-
-Academic Year: 2016-2017 -
-
-SL
-
-Subject: Microeconomics | 27 3S
-Marks: 6@ / wpe BA “4
-Date: 14 July 2017 Time: 02°60 pm 10:04. 60
-Durations; 5 (hrs) saat
-No. of Pages: sOZz =e
-Re-Examination SR <a
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) Inall five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-QI. Write notes on the following: (3 x 4=12marks)
-
-i) Supply Function.
-
-ii) Returns to scale.
-
-iii) Measurement of elasticity of demand.
-iv) Production Possibility Curve.
-
-Q2. (2x6=12marks)
-
-a) Define a demand function. Discuss the favourable and adverse factors affecting it.
-
-Illustrate your answers with suitable examples.
-b) Assume that the demand Qg and supply Qs of a good are expressed in terms of price P and
-
-consumers income Y as
-Qa=m-n P+KY m,n, K>0
-Q=atbP a, b>0
-
-Find the equilibrium price and quantity when the value of income and the parameters are as
-rit
-follows: Y=100, m=60, n=2, k=0.1, a=10, b=0.5 ee
-
-Vo
---- page 2 ---
-Q3. : (2x6=12marks)
-a) Explain the relationship between average and marginal cost curves.
-
-b) Given the total cost function TC = Q3 — 18Q? + 108Q, find the values of Q yielding the
-minimum marginal cost MC. Demonstrate your findings both algebraically and graphically.
-
-Q4. (2x6=12marks)
-a) Discuss the meaning of utility. Explain the relationship between total and marginal utility.
-
-b) Production function of a commodity is
-
-q = 10x1 + 5x2 - x1? - 2x2? + 3x1x2
-
-(i) Find the marginal productivity of X1 and X2
-
-(ii) What is the marginal productivity of Xiand X2 for Xi=1 and X2=5
-
-Q5. What is an imperfect competitive market? Briefly describe a type (12 Marks)
-
-imperfectly competitive market.
-
-Q6 Fill in the blanks: (12 Marks)
-Total Total Average Average | Average :
-Output eal Fixed | Variable | Fixed | Variable | Total —
-Cost Cost Cost cost Cost
-100 2600 600
-200 3
-300 5
-400 10.5
-500 3600
-600 30
-700 16
-800 20400
-Q7. Calculate Total revenue, marginal revenue and price elasticity of demand (12 Marks)
-
-for the following data and comment on their relationship and draw suitable diagrams.
-
-Price 10 9 8 7 6 5 z 3 2 1
-@)
-Quantity | | 2 3 4 5 6 7 8 9 10
-Q
-
-ye
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 102fb360335c

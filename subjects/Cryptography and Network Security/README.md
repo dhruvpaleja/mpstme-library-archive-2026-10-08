@@ -14,15 +14,15 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSE DS 7011 | ANS_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 7, Sem 11 | BTech Computer 7002, BTech CS 7055, BTech CSBS 7036, BTech CSE DS 7057, Integrated Computer 7032, MBATech Computer 7047 | ANS_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSE DS 7057 | ANS_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 7, Sem 11 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE DATA SCIENCE, B TECH / CSE DATA SCIENCE (311), B TECH / CSE Data Science (311), B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER | Cryptography and Network Security 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CS 7055 | QP_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 7, Sem 11 | BTech Computer 7002, BTech CSBS 7036, BTech CSE DS 7011, BTech CSE DS 7057, Integrated Computer 7032, MBATech Computer 7047 | QP_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CSE DS 7057 | QP_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSE DS 7011 | ANS_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 7, Sem 11 | BTech Computer 7002, BTech CS 7055, BTech CSBS 7036, BTech CSE DS 7057, Integrated Computer 7032, MBATech Computer 7047 | ANS_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSE DS 7057 | ANS_Cryptography and Network Security(702AI0E007)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE | Cryptography and Network Security, Sem-V, Batch 2023-24 RE Exam & 2024-25, Final Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / EXTC | Cryptography and Network Security, Sem-V, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5, Sem 7 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE DATA SCIENCE, B TECH / EXTC | Cryptography and Network Security, Sem-V, Batch 2023-24 & 2024-25, Re Exam.pdf |

@@ -14,7 +14,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Engineering Metrology and Measurements(701ME0C037)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Engineering Metrology and Measurements(701ME0C037)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Engineering Metrology and Measurements(701ME0C037)_2025-2026.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

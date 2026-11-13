@@ -614,6 +614,7 @@ b) Fuzzy optimization.
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM III/fuzzy logic & Neural networks/FUZZY LOGIC AND NEURAL NETWORK 2011-120001.pdf`
 - Printed on paper: duration hours: 3; exam date: 12/05/2012
 - Text: ocr (2 pages), mean OCR confidence 86.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \ SVKM’s NMIMS ys" Ming,
@@ -640,7 +641,6 @@ NB.
 5. Answer to each new question should be started on a Fresh page.
 6. Figure in brackets indicate full marks.
 
-O19 f= [Us a sh aa B= 4 ee]
 Solve. Complement (A, B), Union (A U B), Intersection (A n B) and
 Prove De Morgan’s Principle (A U B = AnB ) and
 (AnB = AvuB).
@@ -965,6 +965,7 @@ i0
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM III/Fuzzy Logic & Neural Networks/Fuzzy Logic & Neural Networks 2008-2009 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 87.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 2
@@ -1014,7 +1015,6 @@ cr > la ‘
 < X;= ,d)= 0 > < X= ,d= 1 ya
 2 2
 
-L L ) 7d X L ) df
 
 cr a > + ( la > >)
 -2 —{-l _
@@ -1022,7 +1022,6 @@ cr a > + ( la > >)
 < X3= ,5d3=0 + 4 Xa= » da = r
 2 L 1
 
-X a we ee, \.. a
 
 Use the initial weights and bias — W (0) =[0 0 ],b(0)=0 [12]
 

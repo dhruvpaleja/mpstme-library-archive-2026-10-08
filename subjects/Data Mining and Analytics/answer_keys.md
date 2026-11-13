@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech_AI_7051/Data Mining and Analytics/ANS_Data Mining and Analytics(703TM0E013)_2025-2026.pdf` (+3 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (21 pages), mean OCR confidence 84.9
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic Prnsw erg
@@ -279,7 +280,6 @@ Attrition
 b
 Total | Numer Mont Environme rs
 Overti | worki nad hi nt Marital
-compani y JobRole < . Status(Mstat
 me ng Incom Satisfactio
 years r? e n me
 Feature worked |
@@ -298,7 +298,6 @@ _ Attrition
 Total nuigee Mont Environme 5
 . . | of Marital
 Overti | worki . | hly nt
-compani JobRole ; . Status(Mstat
 me ng Incom Satisfactio
 years = e n us)
 Feature worked
@@ -555,7 +554,6 @@ a
 }
 10 us 2.0 25 3.0 35 40 4s 5.0
 PC index:
-ms (nso) 2 A a ms pit he re te ay oa ee)
 es | Dimensionality Reduction (PCA & PLS) {101
 » PCA:
 
@@ -1102,7 +1100,6 @@ print("Managerial note: look for thresholds and diminishing returns.”)
 QUESTION 6: Clustering + Association (simple rules)
 def q6_cluster_association(df):
 print("\nQ6 — Clustering and simple association (binary flags)")
-PLINt("-------------nn2 enna nen nnn -")
 # Clustering on a small numeric subset
 if DATA_TYPE == 'bank':
 

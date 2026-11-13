@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CSE_DS_7011/Introduction to Business Analytics and _e9ecf78a/ANS_Introduction to Business Analytics and Business Intelligence(702DB0C022)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (7 pages), mean OCR confidence 34.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

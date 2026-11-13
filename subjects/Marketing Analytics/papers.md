@@ -73,6 +73,7 @@ Q7. Elaborate on Allocating Marketing Resources between Customer Acquisition and
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/MARKETING ANALYTICS/Marketing Analytics 2015-16 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 12/05/2016
 - Text: ocr (2 pages), mean OCR confidence 92.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Programme: M. Tech - Data Science (Business Analytics)
@@ -136,7 +137,6 @@ with three levels as follows:
 
 = Brand: Ford = 0, Chrysler = 1, GM =2
 
-= MPG: 15 MPG = 0, 20 MPG = 1, 25 MPG =2
 
 = Horsepower (HP): 100 HP = 0, 150 HP = 1, 200 HP =2
 
@@ -144,7 +144,6 @@ with three levels as follows:
 
 The nine product profiles were evaluated and ranked by a consumer as given below:
 
-A B Cc D E F
 
 1 (F,C,GM) |(15,20,25) | (400,150,200) (18000.21000.24000)
 

@@ -136,6 +136,97 @@ What is an inline function? Discuss its merits and demerits with example.
 20
 ````
 
+## 2019-20 · Re-Exam · Sem 3 · paper d8d21e8a6e72
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2016-17,2017-18,2018-19 Re Exam.pdf`
+- Printed on paper: exam date: 09 November 2019
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+S,   Program :B.Tech Integrated (Computer / EXTC) Year: IL Semester II
+Academic Year: 2019-2020
+Subject: Computer Programming - II
+Date : 09 November 2019
+3 (hrs)
+
+uens\
+
+Re-Examination(2016-17/ 2017-18/2018-19))
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. |
+
+4) All questions carry equal marks.
+
+5) ‘Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql Attempt All:
+
+(a) Explain pure virtual functions [4]
+(b) Explain Default arguments. . [4]
+(c) Define class and object. [4]
+(d) Explain role of destructors in c++ program. . [2]
+Q2
+
+(a) Explain briefly characteristics of OOPS language and mention advantages of OOPS [7]
+
+approach over functional/procedural programming.
+
+(b) Write a C++ program to create a class student with following specifications. [7]
+
+Data members : Name, Roll no. and Average Marks
+Member function : Read and Write
+Use the above specification to read and print the information of 5 students.
+
+Q3 |
+(a) Explain different types of constructors with suitable C++ program. [7]
+
+Yo
+--- page 2 ---
+(b) Explain the visibility of the class members for Private, Public and Protected access [7]
+specifies. Illustrate using example.
+
+a4
+
+(a) What is a file mode? Write a program to create a file using file handling and check [7]
+whether the file is created successfully or not.
+
+(b) Write a C++ program for unary increment (++) and decrement (--) operator overloading. [7]
+
+Q5
+
+(a) Distinguish between overloaded functions and function templates. Write a function [7]
+
+template for finding the minimum value contained in an array.
+
+(b) What are friend functions? Write a C++ program to find the sum of two complex number — [7]
+using friend functions.
+
+Q6
+
+(a) Explain passing of parameters to base class constructors in multiple inheritance. [7]
+(b) Differentiate between compile time polymorphism and run time polymorphism. [7]
+Q7_ Write Short Notes on (Any 2) [14]
+
+(a) Mechanism of Exception Handling
+(b) Type conversion
+(c) Inline functions
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper ffb5e80a7fad
 
 - Departments: Electronics and Telecommunication
@@ -237,95 +328,314 @@ d) Specify the importance of template. (2)
 ofa
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper d8d21e8a6e72
+## 2018-19 · Re-Exam · Sem 2 · paper 480a121801ed
 
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2016-17,2017-18,2018-19 Re Exam.pdf`
-- Printed on paper: exam date: 09 November 2019
-- Text: ocr (2 pages), mean OCR confidence 90.5
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II (ALL STREAMS) BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 June 2019
+- Text: ocr (2 pages), mean OCR confidence 93.0
 
 ````text
+‘
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEE
+Program B. Tech (All Streams) Year: I Semester: II
+< Academic Year: 2018-2019 /
+Subject: Computer frogramming-II Marks: 70 4
+_ Date: 17 June 2019 | = Time:10.00 am to 1.00 pm L
+Hl €
+Duration: 3 (hrs)
+No. of Pages:_2
+Re-Examination (2017-18) ~~
 
-S,   Program :B.Tech Integrated (Computer / EXTC) Year: IL Semester II
-Academic Year: 2019-2020
-Subject: Computer Programming - II
-Date : 09 November 2019
-3 (hrs)
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+1) Question No. lis compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks. so
+5) Answer to each new question to be started onva fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. ~
+Q.1. a) Briefly describe use of following operators: [4]
 
-uens\
+i) new
 
-Re-Examination(2016-17/ 2017-18/2018-19))
+ii) delete
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+iii) setw .°
+
+iv) setprecision
+b) Define static member function with suitable example. [4]
+c) Consider a class Integer with data member i of type int and class Float with data member f of
+type float. Write a program to convert class type Integer to class type Float. [3]
+
+maa d) Explain the concept of inheritance. Also enlist various types of inheritance. [3]
+
+Q.2. a) Enlist various concepts of object oriented programming. Also describe the concept of
+class and object. [7]
+
+Page 1 of 2
+--- page 2 ---
+b) Explain structure of a C++ program with example. [4]
+
+c) What are the applications of C++? [3]
+
+Q.3. a) Write a program to calculate and print factorial of a given integer number. [4]
+b) Write a program to check whether an entered integer is even or odd. [3]
+
+c) Write a class Complex to represent complex number having real and imaginary parts. Also
+Write member functions to input, display and add two complex numbers. [7]
+
+Q.4. 4) Explain the concept of function overloading. Write a program having separate functions
+with same name to calculate volume of cube, cylinder and rectangular box. [7]
+
+b) Define constructor. Explain various types of constructors with suitable example. [7]
+
+Q.5. a). Write a class Distance having data members meter and centimeter. Overload ‘+’ operator
+to add two Distance objects. [7] , : , *
+
+b) Explain multilevel inheritance with a suitable program example. [7]
+
+Q.6. a) Explain the use of virtual function with a suitable program example. [7]
+
+b) Describe two ways to open a file for input/output operation. [7]
+
+Q.7. Explain following
+
+a) Friend function [4]
+
+b) Virtual base class [4]
+
+c) Dynamic/Late binding [3]
+
+d) Sequential input/output functions [3]
+
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 2 · paper 87ba1b95fe99
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BATCH 2017-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 20 April 2019
+- Text: ocr (3 pages), mean OCR confidence 92.3
+
+````text
+‘ SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program B. Tech (All Streams) Year: I Semester: II
+“ AcademicYear: 2018-2019 i :
+| Subject: Computer programming-II c Marks: 70
+c ;
+| Date : 20 April 2019 - ' * Time:10.00 aft:
+Duration: 3i(h
+“No. of Page:
+
+Re-Examination (2017-18) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
 1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
-3) In all 5 questions to be attempted. |
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
-5) ‘Answer to each new question to be started on a fresh page.
+5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
 
-Ql Attempt All:
+7) Assume Suitable data if necessary.
 
-(a) Explain pure virtual functions [4]
-(b) Explain Default arguments. . [4]
-(c) Define class and object. [4]
-(d) Explain role of destructors in c++ program. . [2]
-Q2
+Qia) | What is the use of scope resolution operator? Explain how it is used in a C++ program | 4
+with an example. .
 
-(a) Explain briefly characteristics of OOPS language and mention advantages of OOPS [7]
+Q1b) | Explain the advantages of operator overloading. With a code example, show how 5
+operator-overloading works. List the operators that cannot be overloaded.
 
-approach over functional/procedural programming.
+Qic) | What is a copy constructor? Explain with a code example the use of copy constructor. 5
 
-(b) Write a C++ program to create a class student with following specifications. [7]
+Q2a) | Explain the benefits of Inheritance in Object Oriented Programming. Illustrate with a neat | 6
+diagram the different types of Inheritance in C++.
+Define a class to represent a bank account. Include the following data members:
+Q2b) 1. Name of the depositor 8
+2. Account Number
+3. Type of Account
+4, Balance Amount in the account
+Member Functions:
+1. To assign initial values
+2. To deposit an account
+3. To withdraw an amount after checking the balance
+sare | 4. To display name and balance
 
-Data members : Name, Roll no. and Average Marks
-Member function : Read and Write
-Use the above specification to read and print the information of 5 students.
+wee Write a main function to test the program (class implementation).
 
-Q3 |
-(a) Explain different types of constructors with suitable C++ program. [7]
-
-Yo
+ala
 --- page 2 ---
-(b) Explain the visibility of the class members for Private, Public and Protected access [7]
-specifies. Illustrate using example.
+Q3a) | List the characteristics ofa friend function. Explain with a code example the use ofa friend | 6
 
-a4
+. f >
+function.
 
-(a) What is a file mode? Write a program to create a file using file handling and check [7]
-whether the file is created successfully or not.
+Create 2 classes X and Y. Class X should store name of item and its unit price. Price is in
+‘| Q3b) | dollars ($). Class Y should store name of an item and its unit price. Price is in Rupees. | 8
+Store both prices as float values. Define a friend function that finds the number of items
+of X and Y that can be purchased with a given amount (Z). The amount (Z) could be in
+dollars or Rupees. To find the number of items, divide the amount (Z) into equal parts
+~~ | and find out how many items of X and Y can be purchased. (Rate of 1$=60 Rupees)
 
-(b) Write a C++ program for unary increment (++) and decrement (--) operator overloading. [7]
+Ouput Expected: (Only for Illustration Purposes)
+(Assuming X has itemname as “Item1” and price as 1, Y has itemname as “Item2” and
+price as 20)
 
-Q5
+Amount in Rupees(1) or Dollars (2) :1
 
-(a) Distinguish between overloaded functions and function templates. Write a function [7]
+Enter Amount: 124
 
-template for finding the minimum value contained in an array.
+No of Item1 =1
 
-(b) What are friend functions? Write a C++ program to find the sum of two complex number — [7]
-using friend functions.
+No of Item2 = 3
 
-Q6
+Q4a) | What is a dynamic constructor? Explain with a code example the use of dynamic | 6
 
-(a) Explain passing of parameters to base class constructors in multiple inheritance. [7]
-(b) Differentiate between compile time polymorphism and run time polymorphism. [7]
-Q7_ Write Short Notes on (Any 2) [14]
+constructor.
 
-(a) Mechanism of Exception Handling
-(b) Type conversion
-(c) Inline functions
+Write a Program that accepts radius and height of a cylinder. Create a class that stores
+Q4b) | these values and calculate the Volume of the cylinder. Create another class that accepts | 8
+
+value of length of cube and stores the value. Also calculate the volume of the cube. Add
+
+one more data member indicating number of cubes. Add code in the program to
+
+implement type conversion of an object of cylinder to cube object.
+
+(Code should be of the form: object_cube = object_cylinder)
+
+Q5a) | What are the classes used for file stream operations? With a code example explain | 7
+
+opening and closing of files in C++.
+
+Q5b) | Create a class FLOAT that contains one float data member. Over load the + and - operator | 7
+
+using member functions. Also overload * and / operators using friend function.
+
+Q6a) | Explain the need for Virtual Function? With a code example illustrate the use of virtual | 6
+
+function.
+
+Q6b) | Write a program to implement the following multipath inheritance (Hybrid). The class | 8
+Master derives information from both Account and Admin classes which in turn derive
+information from the class Person. Define all four classes and write program to create,
+
+update and display the information contain in the Master class.
+
+2/3
+--- page 3 ---
+Person
+
+Account
+
+‘
+
+pay |
+
+| experience
+o- J | pay
+
+Q7a) | Whatare static data members and static member functions? Explain their use with an 6
+example.
+
+Q7b) | Create a class called matrix with two dimensional array of integer as data member. | 8
+Initialize objects of the class matrix with constructor. Write a member function to
+multiply two matrices and display the result in the same function. Write a program to
+multiply two square matrices of size 3x3.
+
+3/3
+````
+
+## 2018-19 · Re-Exam · Sem 2 · paper a187a72fe868
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/COMPUTER PROGRAMMING II/Computer programming-II ,Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 20 April 2019
+- Text: ocr (2 pages), mean OCR confidence 90.6
+
+````text
+SVKM’s NMIMS
+yi, MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
+
+J SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE
+Programme: MBA Tech (All Streams) - Year: I - Semester: II -
+
+EERING /p 1,
+ve .
+‘ LIBRARY ;
+
+Academic Year: 2018-2019
+
+Subject: Computer Programming II~ ff
+Marks: 70”
+Date: 20 April 2019 Time: 10.00 am to 1.00 pm~
+Durations: 3 (hrs)
+No. of Pages: Ov
+Re-Examination (2017-18) ~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. =.
+7) Assume Suitable data if necessary.
+
+Q 1. A) Briefly describe basic concepts of object oriented programming. (7]
+B) Enlist applications of C++. : [3]
+C) Write a program to print following pattern: P : [4]
+x
+*O*
+KOR
+OK KOK
+OK RR
+Q 2. A) Explain use of manipulators with suitable examples. [3]
+B) What is scope resolution operator? Give its use. [4]
+C) Write a class to store name, class, age and roll number of a student. Also write member functions to enter and
+display information about a student. [7]
+= Q 3. A) Write a class to store date having day, month and year. Also write a member function to calculate age of a
+student by passing current date and date of birth as arguments. (7]
+i B) Explain the concept of function overloading with an example. [7]
+Q 4. A) Write a program having a function to swap two numbers using call by reference. [4]
+B) Define destructor with an example. [3]
+C) What is constructor? List its types and give an example. [7]
+
+2
+--- page 2 ---
+Q5. A) Write a program to overload unary ‘!’ operator to find factorial of a number. [7]
+
+B) Write a program to convert an integer into an object of class student. [7]
+Q 6. A) Define inheritance. Enlist types of inheritance and explain multiple-inheritance with example. [7]
+
+B) Explain the concept of virtual base class using a suitable example. [7]
+Q7. A) Explain the concept of virtual function with suitable example. {7]
+
+B) Write a C++ program to read 10 elements of array and write even element in file ‘even.txt’ and odd element
+in file ‘odd.txt’ and finally print the contents of both file. [7]
+
+22.
 ````
 
 ## 2017-18 · Final-Exam · Sem 2 · paper 6d0199a4bbbc
@@ -770,118 +1080,129 @@ e. Polymorphism with an example
 Page 3 of 3
 ````
 
-## 2017-18 · Re-Exam · Sem 2 · paper 480a121801ed
+## 2017-18 · Re-Exam · Sem 3 · paper d86a73d921d7
 
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II (ALL STREAMS) BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 June 2019
-- Text: ocr (2 pages), mean OCR confidence 93.0
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2015-16 Re Exam.pdf`
+- Printed on paper: exam date: 27 November 2017
+- Text: ocr (2 pages), mean OCR confidence 85.2
 
 ````text
-‘
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEE
-Program B. Tech (All Streams) Year: I Semester: II
-< Academic Year: 2018-2019 /
-Subject: Computer frogramming-II Marks: 70 4
-_ Date: 17 June 2019 | = Time:10.00 am to 1.00 pm L
-Hl €
-Duration: 3 (hrs)
-No. of Pages:_2
-Re-Examination (2017-18) ~~
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN GINEERING
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+Academic Year: 2017- 2018 |
+
+Program: B. Tech Integrated (Computer / EXTC)- Year:IT — Semester-] SP
+Batch: 2015-16 - Markss%60" es
+Time: 02.00 pmi'to’08,00 pni
+
+tS ge h RE PE
+Duratjon:3 hrs Leg
+No. af Pagg SS an
+RE-EXAMINATION _
+
+Subject: Computer Programming-II ,
+Date :27 November 2017.
+
 1) Question No. lis compulsory.
+
 2) Out of remaining questions, attempt any 4 questions.
+
 3) In all 5 questions to be attempted.
-4) All questions carry equal marks. so
-5) Answer to each new question to be started onva fresh page.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary. ~
-Q.1. a) Briefly describe use of following operators: [4]
+7) Assume suitable data if necessary.
 
-i) new
+Qi Attempt All:
 
-ii) delete
+(a) Explain Pure Virtual function,
 
-iii) setw .°
+[3]
+(b) Define Reusability and Encapsulation. [3]
+(c) What is destructor? [3]
+(d) Explain Scope Resolution Operator. [3]
+ai > Voce ld vee,
+(a) Distinguish between object oriented-programming and object oriented programming. [6]
 
-iv) setprecision
-b) Define static member function with suitable example. [4]
-c) Consider a class Integer with data member i of type int and class Float with data member f of
-type float. Write a program to convert class type Integer to class type Float. [3]
+(b) What are inline functions? Write a
 
-maa d) Explain the concept of inheritance. Also enlist various types of inheritance. [3]
+Program to calculate the area of a triangle using inline
+functions.
 
-Q.2. a) Enlist various concepts of object oriented programming. Also describe the concept of
-class and object. [7]
+tf
 
-Page 1 of 2
+[6]
 --- page 2 ---
-b) Explain structure of a C++ program with example. [4]
+Q3
 
-c) What are the applications of C++? [3]
+(a) State difference between default and parameterized constructor. Create a class “CHECK” [6]
+having two integer data members, using parameterized constructors assign values and add
+the two members.
 
-Q.3. a) Write a program to calculate and print factorial of a given integer number. [4]
-b) Write a program to check whether an entered integer is even or odd. [3]
+(b) What are friend functions? Write a program to swap the private data of two classes using [6]
+friend function.
 
-c) Write a class Complex to represent complex number having real and imaginary parts. Also
-Write member functions to input, display and add two complex numbers. [7]
+a4
+(a) Explain how dynamic (runtime) polymorphism is achieved using virtual functions. (6]
 
-Q.4. 4) Explain the concept of function overloading. Write a program having separate functions
-with same name to calculate volume of cube, cylinder and rectangular box. [7]
+(b) Write a C++ program to read employee details, such as empid, name, dept, salary, joining —_[6]
+date for 10 employees. Make use of array of object.
 
-b) Define constructor. Explain various types of constructors with suitable example. [7]
+Qs
 
-Q.5. a). Write a class Distance having data members meter and centimeter. Overload ‘+’ operator
-to add two Distance objects. [7] , : , *
+(a) Explain multiple inheritance .Write a program in C++ to demonstrate multiple inheritance. [6]
 
-b) Explain multilevel inheritance with a suitable program example. [7]
+(b) What are abstract classes? Explain with example. {6]
 
-Q.6. a) Explain the use of virtual function with a suitable program example. [7]
+Q6
 
-b) Describe two ways to open a file for input/output operation. [7]
+(a) Explain operator overloading. Overload the operator (+) for demonstrating operator [6]
+overloading.
 
-Q.7. Explain following
+(b) What is a file mode? Describe the various files mode options available. . (6]
 
-a) Friend function [4]
+Q7_ Write Short Notes on any two ,
 
-b) Virtual base class [4]
-
-c) Dynamic/Late binding [3]
-
-d) Sequential input/output functions [3]
-
-Page 2 of 2
+(a) Exception Handling {6]
+(b) Templates (6]
+(c) Static functions [6]
 ````
 
-## 2017-18 · Re-Exam · Sem 2 · paper 87ba1b95fe99
+## 2017-18 · Re-Exam · Sem 3 · paper 68a67c4307a2
 
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BATCH 2017-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 20 April 2019
-- Text: ocr (3 pages), mean OCR confidence 92.3
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2015-16 Re Exam_68a67c4307.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 May 2018
+- Text: ocr (3 pages), mean OCR confidence 90.4
 
 ````text
-‘ SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program B. Tech (All Streams) Year: I Semester: II
-“ AcademicYear: 2018-2019 i :
-| Subject: Computer programming-II c Marks: 70
-c ;
-| Date : 20 April 2019 - ' * Time:10.00 aft:
-Duration: 3i(h
-“No. of Page:
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Re-Examination (2017-18) —
+Programme: B. Tech Integrated (Computer/ EXTC) ¢ Year: II“ Semester: III “
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Batch: 2015-16
+Academic Year: 2017-2018
 
-1) Question No. 1 is compulsory.
+Subject: Computer Programming - II
+. Marks: 60 ~
+
+Date: 30 May 2018 ~ Time: 2.00 pm to 5.00 pm ~
+Durations: 3 (hrs) -
+No. of Pages: _@=
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -892,113 +1213,278 @@ of the Answer Book, which is provided for their use.
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-
 7) Assume Suitable data if necessary.
 
-Qia) | What is the use of scope resolution operator? Explain how it is used in a C++ program | 4
-with an example. .
+Qi Attempt All:
 
-Q1b) | Explain the advantages of operator overloading. With a code example, show how 5
-operator-overloading works. List the operators that cannot be overloaded.
+(a) Define Class and Object with example. [3]
+(b) What is the output of the following program? [3]
+#include <iostream>
+using namespace std;
 
-Qic) | What is a copy constructor? Explain with a code example the use of copy constructor. 5
+int main () {
+// local variable declaration:
+intx=1;
 
-Q2a) | Explain the benefits of Inheritance in Object Oriented Programming. Illustrate with a neat | 6
-diagram the different types of Inheritance in C++.
-Define a class to represent a bank account. Include the following data members:
-Q2b) 1. Name of the depositor 8
-2. Account Number
-3. Type of Account
-4, Balance Amount in the account
-Member Functions:
-1. To assign initial values
-2. To deposit an account
-3. To withdraw an amount after checking the balance
-sare | 4. To display name and balance
+switch(x) {
 
-wee Write a main function to test the program (class implementation).
+case 1:
+cout << "Hi!" << endl;
+break;
 
-ala
+default :
+cout << "Hello!" << endl;
+
+}
+
+}
+
+(c) What is output of following code? [3]
+int m=1; .
+
+4?
 --- page 2 ---
-Q3a) | List the characteristics ofa friend function. Explain with a code example the use ofa friend | 6
+While (m<11)
 
-. f >
-function.
+{
 
-Create 2 classes X and Y. Class X should store name of item and its unit price. Price is in
-‘| Q3b) | dollars ($). Class Y should store name of an item and its unit price. Price is in Rupees. | 8
-Store both prices as float values. Define a friend function that finds the number of items
-of X and Y that can be purchased with a given amount (Z). The amount (Z) could be in
-dollars or Rupees. To find the number of items, divide the amount (Z) into equal parts
-~~ | and find out how many items of X and Y can be purchased. (Rate of 1$=60 Rupees)
+m++;
 
-Ouput Expected: (Only for Illustration Purposes)
-(Assuming X has itemname as “Item1” and price as 1, Y has itemname as “Item2” and
-price as 20)
+cout<< m++<<endl;
 
-Amount in Rupees(1) or Dollars (2) :1
+}
+(d) What is output of following code? [3]
 
-Enter Amount: 124
+#include<iostream>
 
-No of Item1 =1
+using namespace std;
 
-No of Item2 = 3
+class P {
 
-Q4a) | What is a dynamic constructor? Explain with a code example the use of dynamic | 6
+public:
 
-constructor.
+void print() { cout <<" Inside P"; }
 
-Write a Program that accepts radius and height of a cylinder. Create a class that stores
-Q4b) | these values and calculate the Volume of the cylinder. Create another class that accepts | 8
+}
 
-value of length of cube and stores the value. Also calculate the volume of the cube. Add
+class Q : public P {
 
-one more data member indicating number of cubes. Add code in the program to
+public:
 
-implement type conversion of an object of cylinder to cube object.
+void print) { cout <<" Inside Q"; }
+}
 
-(Code should be of the form: object_cube = object_cylinder)
+class R: public Qf };
 
-Q5a) | What are the classes used for file stream operations? With a code example explain | 7
+int main(void)
+{
 
-opening and closing of files in C++.
+RF
 
-Q5b) | Create a class FLOAT that contains one float data member. Over load the + and - operator | 7
+r.print();
+return 0;
 
-using member functions. Also overload * and / operators using friend function.
+}
 
-Q6a) | Explain the need for Virtual Function? With a code example illustrate the use of virtual | 6
+Q2
 
-function.
+(a) Explain difference between object oriented programming and procedure oriented [6]
+programming.
 
-Q6b) | Write a program to implement the following multipath inheritance (Hybrid). The class | 8
-Master derives information from both Account and Admin classes which in turn derive
-information from the class Person. Define all four classes and write program to create,
+(b) Write a program to create a class DATE having data members DD, MM, YY. i) constructor [6]
+to initialize the data members ii) show () to display date iii) overload ++ operator to
+increment date by one day. Consider one month =30 days.
 
-update and display the information contain in the Master class.
+Q3
+(a) What is the significance of static members in C++? Explain with example. [6]
+(b) What is a friend function? Write a program to demonstrate it. [6]
+Q4
+(a) Explain parameterized constructor with suitable example. [é]
 
-2/3
+217
 --- page 3 ---
-Person
+(b) What is inheritance? Write a Program to implement inheritance as shown in figure {¢]
+Assume suitable member function to accept and display data.
 
-Account
+Class name: employee Class name: emp_union
 
-‘
+Member variable: Member variable:
+emp_id member_id
+emp_name
 
-pay |
+——
 
-| experience
-o- J | pay
+Class name: emp_info
 
-Q7a) | Whatare static data members and static member functions? Explain their use with an 6
-example.
+Member variable:
 
-Q7b) | Create a class called matrix with two dimensional array of integer as data member. | 8
-Initialize objects of the class matrix with constructor. Write a member function to
-multiply two matrices and display the result in the same function. Write a program to
-multiply two square matrices of size 3x3.
+basic_salary
 
-3/3
+Qs
+
+(a) What is the difference between early and late binding. fe]
+(b) Write a program to create a template to find the maximum value stored in an array. {¢]
+
+Q6
+
+(a) How are exceptions handled In a class? Write a program to demonstrate try and catch [é]
+
+block.
+(b) What is a file mode? Describe the various files mode options available. (4]
+Q7_ Write Short Notes on (Any 2) [12]
+
+(a) Abstract Class
+(b) Manipulators
+(c) Inline Functions
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper bd2b459e9f04
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2016-17 Re Exam_bd2b459e9f.pdf`
+- Printed on paper: exam date: 27 November 2017
+- Text: ocr (3 pages), mean OCR confidence 88.0
+
+````text
+SVKM’S NMIMS \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
+Academic Year: 2017-2018 “
+Program: B. Tech Integrated (Computer / EXTC)’ Year:1I © Sem
+
+Batch: 2016-17 ‘
+Subject: Computer Programming-II “
+Date :27 November 2017 ~
+
+No. of < .
+RE - EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+-4) All questions carry equal marks. ;
+5) Answer to each new question to be started on a fresh page. so
+6) Figures in brackets on the right hand sits indicate full marks:
+
+7) Assume Suitable data if necessary, “7
+
+Ql 14
+A _ Differentiate between-Runtime and Compile time Polymorphism. 3
+B Write short note on Static data member and Static member function. 4
+C Find output of below code. 3
+
+#include<iostream>
+
+using namespace std;
+
+int mainQ
+
+{
+int a=5;
+int *ptr,**ptr1;
+ptr=&a;
+ptrl=&ptr;
+cout<<a<<endl;
+cout<<*ptr<<endl;
+cout<<**ptrl<<endl;
+cin.getQ);
+
+D_ Find output of below code 4
+
+Page | iE ;
+--- page 2 ---
+Q2
+
+Q3
+
+#include<iostream>
+using namespace std;
+int main()
+{
+int a=5;
+at=5;
+cout<<a<<endl;
+a*t=5;
+cout<<a<<end];
+* al=5;
+cout<<a<<end];
+a-=5;
+cout<<a<<endl;
+cin.getQ;
+
+Differentiate between C and C++
+Discuss about object oriented features of C++ with an example.
+
+i. Data Abstraction ii. Encapsulation
+iii. Polymorphism iv. Inheritance
+v. Class vi. Object
+
+Write a short note on Inline function. Discuss its merits and demerits with an example.
+Write a program to create a class of complexNumber with data members as real and
+imaginary and member function as display(), setter() and multiply(). Create 2 objects of
+class complexNumber and set its value by setter () and take product of 2 complex number
+using multiply () add then and display the result using display ().
+
+Discuss about friend function with help of an example.
+Write a short note on constructors. Explain polymorphism with respect to constructors with
+
+an example
+
+Explain types of inheritance and syntax for each.
+Write short note on Exception Handling Mechanism.
+
+What is file mode? Describe various file mode options available.
+Explain abstract class with suitable example.
+
+Write short notes on
+
+14
+
+12
+
+14
+
+14
+
+Pp
+vee |2/,
+
+wee
+
+my
+--- page 3 ---
+i. Function Template
+
+ii. Class Template
+Write a program in inheritance for diagram in fig 1. Create an object of class Square and 7
+Rectangle and find its Area and Perimeter.
+
+Quadrilateral
+
+protected:
+dim‘:int
+dim2:int
+
+Square Rectangle
+
+areacint
+perimetercint
+
+rectang
+rectangletintintintinth:
+displayt):
+intcalareaik
+intcalo
+
+Figl
+
+Page | 3
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper 3d69d41f6856
@@ -1103,85 +1589,6 @@ FR RK
 [6]
 
 ss
-````
-
-## 2017-18 · Re-Exam · Sem 2 · paper a187a72fe868
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/COMPUTER PROGRAMMING II/Computer programming-II ,Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 20 April 2019
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS
-yi, MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
-
-J SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE
-Programme: MBA Tech (All Streams) - Year: I - Semester: II -
-
-EERING /p 1,
-ve .
-‘ LIBRARY ;
-
-Academic Year: 2018-2019
-
-Subject: Computer Programming II~ ff
-Marks: 70”
-Date: 20 April 2019 Time: 10.00 am to 1.00 pm~
-Durations: 3 (hrs)
-No. of Pages: Ov
-Re-Examination (2017-18) ~
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks. =.
-7) Assume Suitable data if necessary.
-
-Q 1. A) Briefly describe basic concepts of object oriented programming. (7]
-B) Enlist applications of C++. : [3]
-C) Write a program to print following pattern: P : [4]
-x
-*O*
-KOR
-OK KOK
-OK RR
-Q 2. A) Explain use of manipulators with suitable examples. [3]
-B) What is scope resolution operator? Give its use. [4]
-C) Write a class to store name, class, age and roll number of a student. Also write member functions to enter and
-display information about a student. [7]
-= Q 3. A) Write a class to store date having day, month and year. Also write a member function to calculate age of a
-student by passing current date and date of birth as arguments. (7]
-i B) Explain the concept of function overloading with an example. [7]
-Q 4. A) Write a program having a function to swap two numbers using call by reference. [4]
-B) Define destructor with an example. [3]
-C) What is constructor? List its types and give an example. [7]
-
-2
---- page 2 ---
-Q5. A) Write a program to overload unary ‘!’ operator to find factorial of a number. [7]
-
-B) Write a program to convert an integer into an object of class student. [7]
-Q 6. A) Define inheritance. Enlist types of inheritance and explain multiple-inheritance with example. [7]
-
-B) Explain the concept of virtual base class using a suitable example. [7]
-Q7. A) Explain the concept of virtual function with suitable example. {7]
-
-B) Write a C++ program to read 10 elements of array and write even element in file ‘even.txt’ and odd element
-in file ‘odd.txt’ and finally print the contents of both file. [7]
-
-22.
 ````
 
 ## 2017-18 · Re-Exam · Sem 2 · paper c8d493d1b07e
@@ -1417,6 +1824,171 @@ b) Explain the concept of this pointer with example. (7]
 Page2| 2
 ````
 
+## 2016-17 · Re-Exam · Sem 3 · paper 09e06b348bb2
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2015-16 Re Exam_09e06b348b.pdf`
+- Printed on paper: exam date: 01 December 2016
+- Text: ocr (1 page), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (COMPUTER/EXTC) Year: II Semester: III
+Academic Year: 2016-2017
+
+Subject : Computer Progiamming
+
+Date : 01 December 2016
+
+Re -Examination
+Note: :
+© — Question No.1 is compulsory.
+e Attempt any four out of remaining six.
+e Assumptions made should be clearly stated.
+e Answer to each new question to be started on fresh page.
+e Figures on right side indicate full marks.
+e Each question carry 12 marks
+
+Ql.
+
+a) Explain the operators in C++ with example. 6
+b) Write a program to overload the + operator in C++. 6
+Q2.
+’ a) What is inline function? Write a program using call by reference to exchange the values
+stored in two variables. 6
+b) What is static data member? Give one program of your choise to demonstrate the use of
+static data member. 6
+Q3.
+a) What is scope resolution operator? Write a C++ program to read the 10 values from the
+user and sort it in ascending order. 6
+b) Differentiate between early binding and late binding. Give advantages and disadvantages
+of both. 6
+Q4.
+a) Define parameterized constructor? Define the class named calculate and write a C++
+program to display the square, cube of a number. (Ex. If input x=2 then square(x) returns 4,
+cube(x) returns 8.) 6
+b) Give example that differentiate between multiple and multilevel inheritance. 6
+Q5. a) What is pure virtual function? Explain with the example. 6
+b) Explain abstract and derived class. Give one example. 6
+
+Q6 a) Write a program using class to prepare the salary of the employees based on the different
+perks like basic, dareness allowance, traveling allowance, medical allowance. Program first
+
+reads all the data and display the total salary. 6
+b) State the features of constructor and destructor. 6
+Q7. Solve any two
+a) What is polymorphism? Write one program to illustrate the concept. 6
+6
+
+b) Explain function template and class template.
+c) What is exception handling? Give one example that throwing and catching mechanism.
+6
+
+4/4
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper 85416494eeb9
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2015-16 Re Exam_85416494ee.pdf`
+- Printed on paper: exam date: 30-May-17
+- Text: ocr (2 pages), mean OCR confidence 93.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (COMPUTER/EXTC) Year: II Semester: II
+
+Academic Year: 2016-2017 —
+fn NN ;
+
+Subject: Computer Programming - II
+
+Batch: 2015-16
+
+Date: 30-May-17
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer any four 12
+A Define Object and how object is created in C++. 4
+B Differentiate between is a and has a relationship. 4
+Cc What is virtual function? Where virtual functions are used? 4
+D Discuss in short about Class Templates. 4
+E Write short note on friend function. 4
+Q2
+A Discuss about Scope Resolution Qperator with help of an example. 6
+B Write short note on inline function. If function is not inline how to make the function 6
+inline?
+Q3
+A Relation of Access Specifier with respect to Inheritance. 4
+B Write a program to find average of 10 numbers stored in an Array. 8
+Q4
+A Write short note on Constructors and Destructors. Discuss default, parameterized 8
+
+and copy constructor with help of an example.
+
+1/2
+--- page 2 ---
+Qs
+
+Q6
+
+Q7
+
+Write short note on bitwise operator.
+
+Explain about method overloading and method overriding with help of an example.
+What is file mode? Describe various file mode options available.
+
+Quadrilateral
+
+protected:
+dim ‘tint
+dim2:int
+
+intint:
+
+ney
+
+Square Rectangle
+
+Write a program in inheritance for diagram in fig 1. Create an object of class
+
+Square and Rectangle and find its Area and Perimeter.
+What is the problem with respect to diamond inheritance? How it can be resolved?
+
+Write short note on Exception Handling Mechanism.
+Define different looping blocks supported by C++.
+
+2|2
+
+8
+
+10
+````
+
 ## 2016-17 · Re-Exam · Sem 3 · paper 864b468c4879
 
 - Departments: Electronics and Telecommunication
@@ -1567,155 +2139,6 @@ ainership. Explain how containership is different (7)
 (7)
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper bd2b459e9f04
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2016-17 Re Exam_bd2b459e9f.pdf`
-- Printed on paper: exam date: 27 November 2017
-- Text: ocr (3 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS \
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
-Academic Year: 2017-2018 “
-Program: B. Tech Integrated (Computer / EXTC)’ Year:1I © Sem
-
-Batch: 2016-17 ‘
-Subject: Computer Programming-II “
-Date :27 November 2017 ~
-
-No. of < .
-RE - EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
--4) All questions carry equal marks. ;
-5) Answer to each new question to be started on a fresh page. so
-6) Figures in brackets on the right hand sits indicate full marks:
-
-7) Assume Suitable data if necessary, “7
-
-Ql 14
-A _ Differentiate between-Runtime and Compile time Polymorphism. 3
-B Write short note on Static data member and Static member function. 4
-C Find output of below code. 3
-
-#include<iostream>
-
-using namespace std;
-
-int mainQ
-
-{
-int a=5;
-int *ptr,**ptr1;
-ptr=&a;
-ptrl=&ptr;
-cout<<a<<endl;
-cout<<*ptr<<endl;
-cout<<**ptrl<<endl;
-cin.getQ);
-
-D_ Find output of below code 4
-
-Page | iE ;
---- page 2 ---
-Q2
-
-Q3
-
-#include<iostream>
-using namespace std;
-int main()
-{
-int a=5;
-at=5;
-cout<<a<<endl;
-a*t=5;
-cout<<a<<end];
-* al=5;
-cout<<a<<end];
-a-=5;
-cout<<a<<endl;
-cin.getQ;
-
-Differentiate between C and C++
-Discuss about object oriented features of C++ with an example.
-
-i. Data Abstraction ii. Encapsulation
-iii. Polymorphism iv. Inheritance
-v. Class vi. Object
-
-Write a short note on Inline function. Discuss its merits and demerits with an example.
-Write a program to create a class of complexNumber with data members as real and
-imaginary and member function as display(), setter() and multiply(). Create 2 objects of
-class complexNumber and set its value by setter () and take product of 2 complex number
-using multiply () add then and display the result using display ().
-
-Discuss about friend function with help of an example.
-Write a short note on constructors. Explain polymorphism with respect to constructors with
-
-an example
-
-Explain types of inheritance and syntax for each.
-Write short note on Exception Handling Mechanism.
-
-What is file mode? Describe various file mode options available.
-Explain abstract class with suitable example.
-
-Write short notes on
-
-14
-
-12
-
-14
-
-14
-
-Pp
-vee |2/,
-
-wee
-
-my
---- page 3 ---
-i. Function Template
-
-ii. Class Template
-Write a program in inheritance for diagram in fig 1. Create an object of class Square and 7
-Rectangle and find its Area and Perimeter.
-
-Quadrilateral
-
-protected:
-dim‘:int
-dim2:int
-
-Square Rectangle
-
-areacint
-perimetercint
-
-rectang
-rectangletintintintinth:
-displayt):
-intcalareaik
-intcalo
-
-Figl
-
-Page | 3
-````
-
 ## 2015-16 · Final-Exam · Sem 3 · paper bf5ee30f40a3
 
 - Departments: Electronics and Telecommunication
@@ -1818,164 +2241,96 @@ b. Explain virtual function with suitable example.
 fo
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper d86a73d921d7
+## 2015-16 · Re-Exam · Trim 2 · paper 6b5db7fe2663
 
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2015-16 Re Exam.pdf`
-- Printed on paper: exam date: 27 November 2017
-- Text: ocr (2 pages), mean OCR confidence 85.2
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BATCH 2010-11, 11-12, 12-13 RE E0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 June 2016
+- Text: ocr (2 pages), mean OCR confidence 90.8
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN GINEERING
+SVKM’s NMIMS ji!
+Mukesh Patel School Of Technology Management & Engine:
 
-Academic Year: 2017- 2018 |
+Programme: B. Tech (All Streams) Year: I Trimester: II
+Academic Year : 2015-2016
+Batch: 2010-11/2011-12/2012-13
+Subject: Computer Programming - II Marks: 100
+Time: 10.00 am - 1.00 pm
+Date: 24 June 2016 Duration: 3hrs.
 
-Program: B. Tech Integrated (Computer / EXTC)- Year:IT — Semester-] SP
-Batch: 2015-16 - Markss%60" es
-Time: 02.00 pmi'to’08,00 pni
+Re - Examination
 
-tS ge h RE PE
-Duratjon:3 hrs Leg
-No. af Pagg SS an
-RE-EXAMINATION _
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Subject: Computer Programming-II ,
-Date :27 November 2017.
+(ol NB:
+1) Question No. __]_ is compulsory.
+2) Out of remaining questions, attempt any 4_ questions. *
 
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
+3) Inall__5 questions to be attempted.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started ona fresh page.
-
+5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary
 
-Qi Attempt All:
+1 (a) Explain basic concepts of object oriented programming. [8]
+(b) What is inheritance? Explain different type of inheritance with example. (12)
+2 (a) What is static data member and static member function? Explain its use with an | [12]
+example.
 
-(a) Explain Pure Virtual function,
+(b) What is scope resolution operator? What are the two different use of this operator?
+Explain with examples.
 
-[3]
-(b) Define Reusability and Encapsulation. [3]
-(c) What is destructor? [3]
-(d) Explain Scope Resolution Operator. [3]
-ai > Voce ld vee,
-(a) Distinguish between object oriented-programming and object oriented programming. [6]
+3 (a) Define function overloading and write a program to overload a function VOLUME, to [10]
+calculate the volume of sphere, volume of box and volume of cylinder.
 
-(b) What are inline functions? Write a
+(b) How to write parameterized constructor in a derived class, explain with an example (
 
-Program to calculate the area of a triangle using inline
-functions.
+C++ code ). {10]
+ein
+4 (a) Explain call by value and call by reference with examples (C+ code). (8]
+(b) Define one class for DF with following members and friend function {12]
 
-tf
+Data member : one data member(F ) for feet value of distance
 
-[6]
+to.
 --- page 2 ---
-Q3
+Functions: 1. constructor
+2. Display function to display information( distance value )
+3. Member function increment operator ++ overloading
+4. friend function binary addition Operator + overloading
+5. Member function operator - overloading
 
-(a) State difference between default and parameterized constructor. Create a class “CHECK” [6]
-having two integer data members, using parameterized constructors assign values and add
-the two members.
+Use all functions in main function with objects.
 
-(b) What are friend functions? Write a program to swap the private data of two classes using [6]
-friend function.
+5 | (a) Explain type conversion from class type to basic type with an example. [7]
+(b) State the rules for operator overloading. [6] E
+{c) Explain dynamic (late) binding. “i
 
-a4
-(a) Explain how dynamic (runtime) polymorphism is achieved using virtual functions. (6]
+6 | (a) A file (INPUT ) contains a list of names and roll numbers of 5 students in the {10]
 
-(b) Write a C++ program to read employee details, such as empid, name, dept, salary, joining —_[6]
-date for 10 employees. Make use of array of object.
+following form:
+Name Roll Number
 
-Qs
+Write a C++ program to read the file (INPUT ). and display the list of name and roll
+number in tabular format on screen. Use a class object to store each set of data.
 
-(a) Explain multiple inheritance .Write a program in C++ to demonstrate multiple inheritance. [6]
+(b) What is virtual function? How to write virtual function in program? .What is the [
+need for virtual function?
 
-(b) What are abstract classes? Explain with example. {6]
+7 | Write short note on following( any four );
 
-Q6
+(a) manipulators [5]
+(b) friend function {5]
+{c) inline functions (5]
+(d) virtual base class [5]
+| (e) default arguments in function [5]
 
-(a) Explain operator overloading. Overload the operator (+) for demonstrating operator [6]
-overloading.
-
-(b) What is a file mode? Describe the various files mode options available. . (6]
-
-Q7_ Write Short Notes on any two ,
-
-(a) Exception Handling {6]
-(b) Templates (6]
-(c) Static functions [6]
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 09e06b348bb2
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2015-16 Re Exam_09e06b348b.pdf`
-- Printed on paper: exam date: 01 December 2016
-- Text: ocr (1 page), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (COMPUTER/EXTC) Year: II Semester: III
-Academic Year: 2016-2017
-
-Subject : Computer Progiamming
-
-Date : 01 December 2016
-
-Re -Examination
-Note: :
-© — Question No.1 is compulsory.
-e Attempt any four out of remaining six.
-e Assumptions made should be clearly stated.
-e Answer to each new question to be started on fresh page.
-e Figures on right side indicate full marks.
-e Each question carry 12 marks
-
-Ql.
-
-a) Explain the operators in C++ with example. 6
-b) Write a program to overload the + operator in C++. 6
-Q2.
-’ a) What is inline function? Write a program using call by reference to exchange the values
-stored in two variables. 6
-b) What is static data member? Give one program of your choise to demonstrate the use of
-static data member. 6
-Q3.
-a) What is scope resolution operator? Write a C++ program to read the 10 values from the
-user and sort it in ascending order. 6
-b) Differentiate between early binding and late binding. Give advantages and disadvantages
-of both. 6
-Q4.
-a) Define parameterized constructor? Define the class named calculate and write a C++
-program to display the square, cube of a number. (Ex. If input x=2 then square(x) returns 4,
-cube(x) returns 8.) 6
-b) Give example that differentiate between multiple and multilevel inheritance. 6
-Q5. a) What is pure virtual function? Explain with the example. 6
-b) Explain abstract and derived class. Give one example. 6
-
-Q6 a) Write a program using class to prepare the salary of the employees based on the different
-perks like basic, dareness allowance, traveling allowance, medical allowance. Program first
-
-reads all the data and display the total salary. 6
-b) State the features of constructor and destructor. 6
-Q7. Solve any two
-a) What is polymorphism? Write one program to illustrate the concept. 6
-6
-
-b) Explain function template and class template.
-c) What is exception handling? Give one example that throwing and catching mechanism.
-6
-
-4/4
+(f) templates [5]
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper 4f5d68b1fd9f
@@ -2162,267 +2517,296 @@ ro
 [12]
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 68a67c4307a2
+## 2014-15 · Exam not stated · Trim 2 · paper eddcac9b895b
 
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2015-16 Re Exam_68a67c4307.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 May 2018
-- Text: ocr (3 pages), mean OCR confidence 90.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (Computer/ EXTC) ¢ Year: II“ Semester: III “
-
-Batch: 2015-16
-Academic Year: 2017-2018
-
-Subject: Computer Programming - II
-. Marks: 60 ~
-
-Date: 30 May 2018 ~ Time: 2.00 pm to 5.00 pm ~
-Durations: 3 (hrs) -
-No. of Pages: _@=
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Attempt All:
-
-(a) Define Class and Object with example. [3]
-(b) What is the output of the following program? [3]
-#include <iostream>
-using namespace std;
-
-int main () {
-// local variable declaration:
-intx=1;
-
-switch(x) {
-
-case 1:
-cout << "Hi!" << endl;
-break;
-
-default :
-cout << "Hello!" << endl;
-
-}
-
-}
-
-(c) What is output of following code? [3]
-int m=1; .
-
-4?
---- page 2 ---
-While (m<11)
-
-{
-
-m++;
-
-cout<< m++<<endl;
-
-}
-(d) What is output of following code? [3]
-
-#include<iostream>
-
-using namespace std;
-
-class P {
-
-public:
-
-void print() { cout <<" Inside P"; }
-
-}
-
-class Q : public P {
-
-public:
-
-void print) { cout <<" Inside Q"; }
-}
-
-class R: public Qf };
-
-int main(void)
-{
-
-RF
-
-r.print();
-return 0;
-
-}
-
-Q2
-
-(a) Explain difference between object oriented programming and procedure oriented [6]
-programming.
-
-(b) Write a program to create a class DATE having data members DD, MM, YY. i) constructor [6]
-to initialize the data members ii) show () to display date iii) overload ++ operator to
-increment date by one day. Consider one month =30 days.
-
-Q3
-(a) What is the significance of static members in C++? Explain with example. [6]
-(b) What is a friend function? Write a program to demonstrate it. [6]
-Q4
-(a) Explain parameterized constructor with suitable example. [é]
-
-217
---- page 3 ---
-(b) What is inheritance? Write a Program to implement inheritance as shown in figure {¢]
-Assume suitable member function to accept and display data.
-
-Class name: employee Class name: emp_union
-
-Member variable: Member variable:
-emp_id member_id
-emp_name
-
-——
-
-Class name: emp_info
-
-Member variable:
-
-basic_salary
-
-Qs
-
-(a) What is the difference between early and late binding. fe]
-(b) Write a program to create a template to find the maximum value stored in an array. {¢]
-
-Q6
-
-(a) How are exceptions handled In a class? Write a program to demonstrate try and catch [é]
-
-block.
-(b) What is a file mode? Describe the various files mode options available. (4]
-Q7_ Write Short Notes on (Any 2) [12]
-
-(a) Abstract Class
-(b) Manipulators
-(c) Inline Functions
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 85416494eeb9
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_03/COMPUTER PROGRAMMING II/Computer Programming II Batch 2015-16 Re Exam_85416494ee.pdf`
-- Printed on paper: exam date: 30-May-17
-- Text: ocr (2 pages), mean OCR confidence 93.3
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II B TECH (ALL STREAMS), BATCH 10-10001.pdf`
+- Printed on paper: max marks: 100; exam date: 23/06/2015
+- Text: ocr (2 pages), mean OCR confidence 94.0
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech Integrated (COMPUTER/EXTC) Year: II Semester: II
+Programme: B. Tech (All Streams) Year: | Trimester: II
+Batch: 2010-11, 2011-12, 2012-13
+Academic Year: 2014-2015
 
-Academic Year: 2016-2017 —
-fn NN ;
+Subject: Computer Programming — II
 
-Subject: Computer Programming - II
+Marks: 100 be
+Date: 23/06/2015 Time: 1 -QO/am to 1.00pm ‘a
 
-Batch: 2015-16
+Durations: 3 (AEs)
 
-Date: 30-May-17
+we
+Re-Examination NN +
 
-Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+NB:
 
-1) Question No. 1 is compulsory.
+1. QnestionNo.1 is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2. Attempt any four out of remaining six questions.
 
-3) In all 5 questions to be attempted.
+3. In all 5 questions to be attempted
 
-4) All questions carry equal marks.
+4. All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5. Answer to each new question to be started on NEW PAGE.
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+6. Figures in parenthesis on the right hand side indicate full marks.
 
-Ql Answer any four 12
-A Define Object and how object is created in C++. 4
-B Differentiate between is a and has a relationship. 4
-Cc What is virtual function? Where virtual functions are used? 4
-D Discuss in short about Class Templates. 4
-E Write short note on friend function. 4
-Q2
-A Discuss about Scope Resolution Qperator with help of an example. 6
-B Write short note on inline function. If function is not inline how to make the function 6
-inline?
-Q3
-A Relation of Access Specifier with respect to Inheritance. 4
-B Write a program to find average of 10 numbers stored in an Array. 8
-Q4
-A Write short note on Constructors and Destructors. Discuss default, parameterized 8
+7. Draw figures wherever necessary.
 
-and copy constructor with help of an example.
+Q.1
+a) Explain Basic Data types in C++ with suitable diagram. 05
+b) Explain implicit conversion with suitable diagram. 05
+c) Explain inline function with suitable program. 05
+d) Explain different types of polymorphism with suitable diagram. 05
+Q.2
+a) Imagine a publishing company that markets both book and audiocassette versions of its 10
+works. Create a class publication that stores the title (a string) and price (type float)
+‘of a publication. From this class derive two classes: book, which adds a page count (type
+int), and tape, which adds a playing time in minutes (type float). Each of these three
+classes should have a getdata() function to get its data from the user at the keyboard,
+and a putdata() function to display its data.
+Write a main() program to test the book and tape classes by creating instances of them,
+asking the user to fill in data with getdata(), and then displaying the data with putdata().
+b) Explain copy constructor with suitable program. 10
+Q.3 a) Write a program to implement the concept of run time polymorphism. 10
+b) Write a program to demonstrate working with single file in C++ which uses single file 10
+named “ITEM” for both writing and reading the data.
+Q.4
+a) Explain static data member function with suitable program 10
+b) Create a class called time that has separate int member data for hours, minutes, and 10
 
-1/2
+seconds. One constructor should initialize this data to 0, and another should initialize it
+to fixed values.
+
+Another member function should display. it, in 11:59:59 format. The final
+member function should add two objects of type time passed as arguments.
+
+t/a
 --- page 2 ---
-Qs
+Q.5
 
-Q6
+Q.6
 
-Q7
+Q.7
 
-Write short note on bitwise operator.
+b)
 
-Explain about method overloading and method overriding with help of an example.
-What is file mode? Describe various file mode options available.
+a)
+b)
 
-Quadrilateral
+A main() program should create two initialized time objects (should be const) and
 
-protected:
-dim ‘tint
-dim2:int
+one that isn’t initialized. Then it should add the two initialized values together, leaving the
+result in the third time variable. Finally it should display the value of this third variable.
+Make appropriate member functions const.
 
-intint:
+Write a program to implement the concept of constructor overloading in C++.
+Write a program using write() function in string header file to get following output
 
-ney
+Explain hybrid inheritance with suitable program.
+Write the Rules for overloading operators in C++.
 
-Square Rectangle
+Write a note on:
 
-Write a program in inheritance for diagram in fig 1. Create an object of class
+Function Templates
 
-Square and Rectangle and find its Area and Perimeter.
-What is the problem with respect to diamond inheritance? How it can be resolved?
+Friend function
 
-Write short note on Exception Handling Mechanism.
-Define different looping blocks supported by C++.
+Constructor function characteristics
 
-2|2
-
-8
+Linker
 
 10
+10
+
+10
+10
+
+05
+05
+05
+
+05
+````
+
+## 2014-15 · Exam not stated · Trim 2 · paper 4acb6261f412
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING- I B TECH (ALL STREAMS), BATCH 20100001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16/12/2014
+- Text: ocr (2 pages), mean OCR confidence 90.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Trimester: II
+Batch: 2010- 11, 2011-12, 2012-13
+Academic Year: 2014-2015
+Subject: Computer Programming - II
+Marks: 100
+Date: 16/12/2014 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+
+Re-Examination
+
+Ag Pe Reay
+Note (Sf ue
+e Question No.1 is compulsory. { =( MPSETRE ;
+e Attempt any four out of remaining six. i \ BC LIBRARY
+e Assumptions made should be clearly stated. , aan ‘sg
+e Answer to each new question to be started on fresh page. ROT amnvens™
+e Figures on right side indicate full marks. a
+
+e Illustrate answer with sketches wherever required.
+
+Q.1)
+a) Explain five basic principles of Object Oriented Programming [10]
+b) Explain call by value and call by reference with an example [10]
+Q.2)
+a) Explain class to basic type casting with suitable example. [10]
+b) Write the program that uses inline function for converting pounds to kilograms. [10]
+(1 pound = 0.453592 kgs.)
+Also state the advantages and disadvantages of using inline function.
+Q.3)
+a) WAP in C++ to find average of two numbers that belong to two different classes (10)
+using Friend Function.
+b) Explain static data members & static member functions. [10}
+Q.4)
+a) What is inheritance 7 Explain different forms of inheritance. [10]
+b) Write a program to create class Bank with data members name of customer, [10]
+account number, and initial balance. Write member functions to read data of customer,
+to withdraw an amount from the account and to deposit an amount to account. Display the
+information after every transaction.
+Q.5)
+a) Explain virtual function and pure virtual function giving program example [10]
+b) WAP for finding the area of triangle, rectangle and circle using function overloading. [10]
+
+Vig.
+--- page 2 ---
+Q.6)
+
+a) What is operator overloading ? Write a suitable program to demonstrate the {10]
+overloading of + operator.
+
+b) Explain Copy constructor with an example. [10]
+Q.7)
+
+Write short note on the following (any four) [20]
+
+1. Virtual function
+
+2:. Template class
+
+3: File Handling
+
+4. Constructor and Destructor
+
+5. Manipulator
+
+x
+````
+
+## 2013-14 · Re-Exam · Trim 2 · paper 0fdfd50fcee2
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BATCH 2010-11,11-12,12-13 RE EXA0001 (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 21/06/2014
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+'
+
+ENGINEERING, \\®
+
+‘SC LIBRARY D8
+
+Programme: B. Tech (ALL STREAMS) Year: I Trimester: II 4
+Batch : 2010-11/11-12/12-13 Cr
+Academic Year: 2013-2014
+Subject : Computer Programming - II
+Marks: 100
+Date : 21/06/2014 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+Re-Examination
+
+Instructions:
+-1) Question 1 is compulsory
+2) Attempt any four from the remaining questions
+3) Commentall programs written with appropriate description indicating what a
+
+particular function or section of code is doing.
+
+Q1)a) Create aclass ITEM with the following members: itemcode, name, price, (10)
+: quantity. Define following members functions: getdata( ), display(). Write a
+program to enter data of 10 items, display all items and also display the total
+
+value of all items.
+
+Qi)b) | Define data abstraction, encapsulation, inheritance, polymorphism which are (10)
+
+the characteristics of Object Oriented Programming.
+
+Q2)a) | Whatis a scope resolution operator? Explain its significance and use with the (10)
+
+help of an example.
+
+Q2)b) | What is Call by Reference and Return by Reference? Explain with an example. (10)
+
+Q3)a) | What is function overloading? Explain with example. (10)
+
+Q3)b) | Create a class number with 2 integer and 2 float variables. Define overloaded (10)
+function that can add 2 integers, 2 floats, 1 integer and 1 float. Write a program
+
+that creates object of the above class and demonstrate function overloading.
+
+Q4)a) Define default, parameterized, copy constructors. Explain with an example the (10)
+
+use of the three different types of constructors.
+
+Q4)b) | Define Multilevel, multiple, hierarchical, hybrid inheritance. Explain with aneat | (10)
+
+diagram the different types of inheritance.
+
+Q5)a) | Create a class COMPLEX with 2 data members: x and y representing real and (10)
+imaginary part of a complex number. Define a default constructor and
+parameterized constructor. Overload the binary operator + to add two complex
+
+numbers. Write a program to demonstrate operator overloading.
+
+Lo.
+--- page 2 ---
+Q5)b) | What are friend functions? Explain with an example the need of friend (10)
+
+functions.
+Q6)a) | What are manipulators? Explain the use of endl and setw with example. (10)
+Q6)b) | Whatis a virtual base class? Explain the need of virtual base class with an (10)
+example.
+Q7) Write short notes on any four: (20)
+@ Destructors
+(iid) Rules foe operator overloading
+
+(iii) ‘Virtual Functions
+(iv) | Templates
+(v) Inline functions
+
+(vi) Opening and Closing Files
 ````
 
 ## 2012-13 · Final-Exam · Trim 2 · paper b44d59d45e1d
@@ -2559,187 +2943,67 @@ E] Dynamic/ Late binding
 %
 ````
 
-## 2012-13 · Re-Exam · Trim 2 · paper 6b5db7fe2663
+## 2012-13 · Re-Exam · Trim 2 · paper b5153f138c03
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BATCH 2010-11, 11-12, 12-13 RE E0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 June 2016
-- Text: ocr (2 pages), mean OCR confidence 90.8
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/Computer Programming II Batch 2008-09,09-10,10-11,11-12 Re Exam (1).pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 18/06/2013
+- Text: text (2 pages)
 
 ````text
-SVKM’s NMIMS ji!
-Mukesh Patel School Of Technology Management & Engine:
-
-Programme: B. Tech (All Streams) Year: I Trimester: II
-Academic Year : 2015-2016
-Batch: 2010-11/2011-12/2012-13
-Subject: Computer Programming - II Marks: 100
-Time: 10.00 am - 1.00 pm
-Date: 24 June 2016 Duration: 3hrs.
-
-Re - Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-(ol NB:
-1) Question No. __]_ is compulsory.
-2) Out of remaining questions, attempt any 4_ questions. *
-
-3) Inall__5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1 (a) Explain basic concepts of object oriented programming. [8]
-(b) What is inheritance? Explain different type of inheritance with example. (12)
-2 (a) What is static data member and static member function? Explain its use with an | [12]
-example.
-
-(b) What is scope resolution operator? What are the two different use of this operator?
-Explain with examples.
-
-3 (a) Define function overloading and write a program to overload a function VOLUME, to [10]
-calculate the volume of sphere, volume of box and volume of cylinder.
-
-(b) How to write parameterized constructor in a derived class, explain with an example (
-
-C++ code ). {10]
-ein
-4 (a) Explain call by value and call by reference with examples (C+ code). (8]
-(b) Define one class for DF with following members and friend function {12]
-
-Data member : one data member(F ) for feet value of distance
-
-to.
+'1 ..
+Prograawne:
+Academic Year :2012-2013 _
+Batch:   2008-09,2009-10,2010-11,2011-12
+I   Subject:   Computer Programming - In
+Date:   18/06/2013   Duration: 3 hrs.
+m-EhamlnPm
+Instm&on: Candidates should read carefully the instmctions printed on the q d w p w
+and on the cover of the answer book, which is provided fot their use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt fay four questions.
+3. In all five questions to be attempted.
+4. All question w r y equal&.
+5. Answer to each new question to be started on a fresh page.
+6. Figuresin brackets on fbe right hand side indicate fbII marks.
+Q.1
+a) Explain theC U program structure dong with the creation, compilation & linking Roccss with m
+exampIe?   1101
+b) What is Inheritance?Explain different formsof inheritance
+a) Write a program to overload +operator usingfiendfunotion to add two objeets of class TIW.
+Display the result ~faddition with appropriate conversion.C kTimehas r h e data membm as
+second,minutesand hours.   [lo]
+b) What is W d hction? Explain runtime polymorpKi wiSh example
+4.3
+a) What is static data member and static member functions.Explain its use with an example
+1101
+b) Writea program to find out areas of triangle, squan and re&~@e using function overloading.
+[lo1
+4.4
+a) What is an inline function? Explain with example   [lo]
+b) W   i   h between constructor and destructor. Explain Copy constructor with -pie   [lo]
+Q.5
+a) Differentiate between private, public and pteded access specifiers
+b) Write a program to create a file 'Cricket Records'. Read cricketer's information h m the uger as
+name, country, ba!ting average, bowling average and store thisinformation in the file. Perform sea&
+operation on the fde to searoh a cricketer with h i w batting and bowling average and durplay their
+nameswith the country.   [lo]
 --- page 2 ---
-Functions: 1. constructor
-2. Display function to display information( distance value )
-3. Member function increment operator ++ overloading
-4. friend function binary addition Operator + overloading
-5. Member function operator - overloading
-
-Use all functions in main function with objects.
-
-5 | (a) Explain type conversion from class type to basic type with an example. [7]
-(b) State the rules for operator overloading. [6] E
-{c) Explain dynamic (late) binding. “i
-
-6 | (a) A file (INPUT ) contains a list of names and roll numbers of 5 students in the {10]
-
-following form:
-Name Roll Number
-
-Write a C++ program to read the file (INPUT ). and display the list of name and roll
-number in tabular format on screen. Use a class object to store each set of data.
-
-(b) What is virtual function? How to write virtual function in program? .What is the [
-need for virtual function?
-
-7 | Write short note on following( any four );
-
-(a) manipulators [5]
-(b) friend function {5]
-{c) inline functions (5]
-(d) virtual base class [5]
-| (e) default arguments in function [5]
-
-(f) templates [5]
-````
-
-## 2012-13 · Re-Exam · Trim 2 · paper 0fdfd50fcee2
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BATCH 2010-11,11-12,12-13 RE EXA0001 (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 21/06/2014
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
-
-'
-
-ENGINEERING, \\®
-
-‘SC LIBRARY D8
-
-Programme: B. Tech (ALL STREAMS) Year: I Trimester: II 4
-Batch : 2010-11/11-12/12-13 Cr
-Academic Year: 2013-2014
-Subject : Computer Programming - II
-Marks: 100
-Date : 21/06/2014 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-Re-Examination
-
-Instructions:
--1) Question 1 is compulsory
-2) Attempt any four from the remaining questions
-3) Commentall programs written with appropriate description indicating what a
-
-particular function or section of code is doing.
-
-Q1)a) Create aclass ITEM with the following members: itemcode, name, price, (10)
-: quantity. Define following members functions: getdata( ), display(). Write a
-program to enter data of 10 items, display all items and also display the total
-
-value of all items.
-
-Qi)b) | Define data abstraction, encapsulation, inheritance, polymorphism which are (10)
-
-the characteristics of Object Oriented Programming.
-
-Q2)a) | Whatis a scope resolution operator? Explain its significance and use with the (10)
-
-help of an example.
-
-Q2)b) | What is Call by Reference and Return by Reference? Explain with an example. (10)
-
-Q3)a) | What is function overloading? Explain with example. (10)
-
-Q3)b) | Create a class number with 2 integer and 2 float variables. Define overloaded (10)
-function that can add 2 integers, 2 floats, 1 integer and 1 float. Write a program
-
-that creates object of the above class and demonstrate function overloading.
-
-Q4)a) Define default, parameterized, copy constructors. Explain with an example the (10)
-
-use of the three different types of constructors.
-
-Q4)b) | Define Multilevel, multiple, hierarchical, hybrid inheritance. Explain with aneat | (10)
-
-diagram the different types of inheritance.
-
-Q5)a) | Create a class COMPLEX with 2 data members: x and y representing real and (10)
-imaginary part of a complex number. Define a default constructor and
-parameterized constructor. Overload the binary operator + to add two complex
-
-numbers. Write a program to demonstrate operator overloading.
-
-Lo.
---- page 2 ---
-Q5)b) | What are friend functions? Explain with an example the need of friend (10)
-
-functions.
-Q6)a) | What are manipulators? Explain the use of endl and setw with example. (10)
-Q6)b) | Whatis a virtual base class? Explain the need of virtual base class with an (10)
-example.
-Q7) Write short notes on any four: (20)
-@ Destructors
-(iid) Rules foe operator overloading
-
-(iii) ‘Virtual Functions
-(iv) | Templates
-(v) Inline functions
-
-(vi) Opening and Closing Files
+9-6
+a) Write a class a@&   to represent a generic vestor (one dirn~fl~ionalarray). Include memba
+fuocti~~l~toperfonnthefollowingtasksandcaUthemmmain~
+1.   . TrrcWe the vector
+2.   Te add two vectors
+3.   To display the vector
+b) Explain virtual base class with witubIscatrrmpk.
+4.7 write shoe note on foUowing (anyfour)
+a Call-by-reference
+b. Manipulators
+c. Function withdehdt argument
+d. Soope resolution operator
+e. Function pmtolyp.hg
 ````
 
 ## 2012-13 · Re-Exam · Trim 2 · paper 2e3481c8ff13
@@ -2810,351 +3074,7 @@ d. write () and read() functions for file
 e. Types of inheritance
 ````
 
-## 2011-12 · Exam not stated · Trim 2 · paper 20a8d1fa9d5b
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING 2011-12.pdf`
-- Printed on paper: exam date: 08/02/2012
-- Text: ocr (2 pages), mean OCR confidence 88.8
-
-````text
-BLE IG ne aN FT RL EDR III TP “ a alias
-te SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Eng
-Programme: 3B. Tech- ALL STREAMS Year», oJ Trimester:
-Academic Year : 2011-2012
-NMIMS Unversity Jo
-Subject: COMPUTER PROGRAMMING - II Marks: ove ae
-Time: 2
-
-Date: 08/02/2012 Duration:
-Final - Examination
-
-1. Question No. 1 is compulsory
-
-2. Out of remaining 6 (six) questions attempt any 4 (four) questions
-3. In all 5 (five) questions to be attempted.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figurajn brackets indicate full marks.
-
-1. Develop a class with member functions facilitating arithmetic operations on 20
-rational numbers i.e. carrying out addition, subtraction, division and multiplication
-of rational numbers. All of the member functions need to be overloading binary
-operators. Develop suitable main program to demonstrate various aspect of binary
-operator overloading. Incorporate suitable constructors and overloaded
-
-constructors: Rational-numbers assume the form-a/b, where a and b are integer-
-
-constants.
-4
-2a. Explain storage classes with one programming example. 10
-2b. Write a program to reverse a sentence. (Do not reverse the characters of a word). 10
-
-wo e.g. Input ‘Tama student, Output : student a am |
-3a. What do you mean by operator overloading? Demonstrate with suitable example 10
-overloading of ‘+=’ operator using member function and friend function.
-3b. Write a program to declare integer pointer. Store 10 numbers in the pointer. Use 10
-
-q } new operator to allocate memory for 10 integers. Read and display the numbers.
-
-4a. Writea program to display following pattern using nested loops :- , 10
-A
-A B A
-
-A B Cc B A
-A B C D Cc B A
-
-Page | of 2
---- page 2 ---
-i
-
-4b. What is object-oriented programming? Explain the basic concepts of OOP.
-
-5a. Explain with programming example call-by-value, call-by-reference, and call-by-
-address.
-5b. | Write a program that reads a text file and creates another file that is identical except
-
-that every sequence of consecutive blank spaces is replaced by a single space.
-
-6. Write short note with example(any 5)
-I. | Manipulators
-Il. | Dynamic constructors
-Ill. | Constructors in Derived class
-IV. Friend functions
-V. Run time polymorphism.
-VI. Template class
-
-7a. What are inline functions? Discuss its advantages and disadvantages. Write a
-
-program to demonstrate inline function.
-
-7b. What do mean by dynamic initialization of variables? How it is achieved? Give an
-
-example,
-
-7c. What is hybrid inheritance? What are the problems in it? How it is resolved?
-
-Explain with programming example.
-
-Page 2 of 2
-
-10
-
-10
-
-10
-
-20
-````
-
-## 2011-12 · Exam not stated · Trim 2 · paper 6f34f8dfec74
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II 2011-2012 (1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 08/02/2012
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-2 OR TOMAR a se 08 LL RSI LE RPE " re ——
-_
-
-- SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engingerinp
-Programme: 8B. Tech- ALL STREAMS Year: I Trimester;
-Academic Year : 2011-2012
-. = mis ver:
-Subject: COMPUTER PROGRAMMING - II Marks: 5 se”
-Time: af 2.00:\BIARTO 5.GGy
-Date: 08/02/2012 Duration
-Final - Examination
-N.B.
-1. Question No. 1 is compulsory
-2. Out of remaining 6 (six) questions attempt any 4 (four) questions
-3. Inall 5 (five) questions to be attempted.
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicate full marks,
-I. Develop a class with member functions facilitating arithmetic operations on 20
-rational numbers i.e. carrying out addition, subtraction, division and multiplication
-of rational numbers. All of the member functions need to be overloading binary
-operators. Develop suitable main program to demonstrate various aspect of binary
-operator overloading. Incorporate suitable constructors and overloaded
-constructors: Rational-numbers assume the form -a/b, where a and b are integer -
-constants.
-2a. Explain storage classes with one programming example. 10
-2b. Write a program to reverse a sentence. (Do not reverse the characters of a word). 10
-e.g. Input : fam a student, Output : student a am |
-3a. What do you mean by operator overloading? Demonstrate with suitable example 10
-}
-‘overloading of ‘+=’ operator using member function and friend function.
-yo Write a program to declare integer pointer. Store 10 numbers in the pointer. Use 10
-new operator to allocate memory for 10 integers. Read and display the numbers.
-4a. Write a program to display following pattern using nested loops :- 10
-A
-A B A
-
-A B Cc B A
-A B Cc D Cc B A
-
-Page | of 2
---- page 2 ---
-4b. What is object-oriented programming? Explain the basic concepts of OOP.
-
-Sa. Explain with programming example call-by-value, call-by-reference, and call-by-
-address.
-5b. Write a program that reads a text file and creates another file that is identical except
-
-that every sequence of consecutive blank spaces is replaced by a single space.
-
-6. Write short note with example(any 5)
-I. | Manipulators
-Il. | Dynamic constructors
-Ill. Constructors in Derived class
-IV. _ Friend functions
-VY. Run time polymorphism.
-
-VI. Template class
-
-7a. What are inline functions? Discuss its advantages and disadvantages. Write a
-
-program to demonstrate inline function.
-
-7b. What do mean by dynamic initialization of variables? How it is achieved? Give an
-
-example.
-
-7c. What is hybrid inheritance? What are the problems in it? How it is resolved?
-
-Explain with programming example.
-
-a
-
-Page 2 of 2
-
-10
-
-10
-
-10
-
-20
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper 83d103a9e1ac
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BTACH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: exam date: 19/06/2012
-- Text: ocr (2 pages), mean OCR confidence 74.2
-
-````text
-SVKM’s NMIMS
-
-ent Mukesh Patel School of Technology Management & Engineering
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: II
-
-Academic Year : 2011-2012
-
-Batch: 2011-2012 sone ue
-Subject: Computer Programming - II Marks: /{ t $5 ‘eA \
-~ Time: 0.00 am To, 1,00) pm !
-Date: 19/06/2012 Duration: She hrs. oe
-Re - Examination ‘ x -
-
-Instruction: Candidates should read carefully the instructions printed on the questi
-and on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
-3. In all five questions to be attempted.
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on a fresh page. .
-
-6. Figures in brackets on the right hand side indicate full marks.
-Qi
-a) Explain call by value, call by address and call by reference with an example [10]
-b) Create a class distance having members as feet and inches and another class distance having
-member as feet and inches. Write a program to add two distance using a friend function [10]
-Q2
-a) What is static data member and static member functions. Explain its use with an example [10]
-b) What is virtual function? What is the need of virtual function? Give an example [10]
-Q3
-a) What is Inheritance? Explain different forms of inheritance. [10]
-
-‘ b) Develop a class STUDENT with data member name and roll_no. Derive 2 classes SPORTS and
-TEST from STUDENT class. The TEST class will have data members as marks of all 5 subjects and
-the sports class will have data members as score in 2 sports. Use the above classes to display complete
-
-information of students. [10]
-Q4
-a) What is operator overloading? Write a program to overload the unary increment operator for
-postfix and prefix operations. [10]
-b) Distinguish between constructor and destructor. Explain Copy constructor with example
-[10]
-Qs |
-, a) Wtite a program to overload + operator to add two objects of class Complex. Complex class has
-data'gnembers as real and imaginary values. [10]
-b) Whe is the need of protected members? Explain private, protected and Public derivation
-. [10]
-Q.6
-
-a.) Write a program in which a class has three data members: name, roll no, marks of 5 subjects and a
-member function Assign() to assign the streams on the basis of table given below:
-
-Avg. Marks Stream
-
-90% or more Computers
-
-80% - 89% Electronics
-
-75% - 79% Mechanical
-
-10% - 74% Electrical [10]
-b.) Explain any 5 basic concepts of Object Oriented Programming .Compare OOP with
-Structured Oriented Prograrnming. ? [10]
---- page 2 ---
--—
-
-Q.7 write short note on the following (any four) [20]
-L Inline function
-2. Function Template
-3: File Handling
-4. Manipulators
-5: Abstract class
-
-ARISE CIE CE A ICES SIE SICGICHIGE AIC RGCSCIGSR CGE GSAS IORI IOI I IACI Ra ak se 2k k a kes
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper b5153f138c03
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/Computer Programming II Batch 2008-09,09-10,10-11,11-12 Re Exam (1).pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3; exam date: 18/06/2013
-- Text: text (2 pages)
-
-````text
-'1 ..
-Prograawne:
-Academic Year :2012-2013 _
-Batch:   2008-09,2009-10,2010-11,2011-12
-I   Subject:   Computer Programming - In
-Date:   18/06/2013   Duration: 3 hrs.
-m-EhamlnPm
-Instm&on: Candidates should read carefully the instmctions printed on the q d w p w
-and on the cover of the answer book, which is provided fot their use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt fay four questions.
-3. In all five questions to be attempted.
-4. All question w r y equal&.
-5. Answer to each new question to be started on a fresh page.
-6. Figuresin brackets on fbe right hand side indicate fbII marks.
-Q.1
-a) Explain theC U program structure dong with the creation, compilation & linking Roccss with m
-exampIe?   1101
-b) What is Inheritance?Explain different formsof inheritance
-a) Write a program to overload +operator usingfiendfunotion to add two objeets of class TIW.
-Display the result ~faddition with appropriate conversion.C kTimehas r h e data membm as
-second,minutesand hours.   [lo]
-b) What is W d hction? Explain runtime polymorpKi wiSh example
-4.3
-a) What is static data member and static member functions.Explain its use with an example
-1101
-b) Writea program to find out areas of triangle, squan and re&~@e using function overloading.
-[lo1
-4.4
-a) What is an inline function? Explain with example   [lo]
-b) W   i   h between constructor and destructor. Explain Copy constructor with -pie   [lo]
-Q.5
-a) Differentiate between private, public and pteded access specifiers
-b) Write a program to create a file 'Cricket Records'. Read cricketer's information h m the uger as
-name, country, ba!ting average, bowling average and store thisinformation in the file. Perform sea&
-operation on the fde to searoh a cricketer with h i w batting and bowling average and durplay their
-nameswith the country.   [lo]
---- page 2 ---
-9-6
-a) Write a class a@&   to represent a generic vestor (one dirn~fl~ionalarray). Include memba
-fuocti~~l~toperfonnthefollowingtasksandcaUthemmmain~
-1.   . TrrcWe the vector
-2.   Te add two vectors
-3.   To display the vector
-b) Explain virtual base class with witubIscatrrmpk.
-4.7 write shoe note on foUowing (anyfour)
-a Call-by-reference
-b. Manipulators
-c. Function withdehdt argument
-d. Soope resolution operator
-e. Function pmtolyp.hg
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper 03bf8eae681d
+## 2012-13 · Re-Exam · Trim 2 · paper 03bf8eae681d
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -3231,222 +3151,99 @@ x
 y
 ````
 
-## 2010-11 · Exam not stated · Trim 2 · paper 69275425a811
+## 2011-12 · Exam not stated · Trim 2 · paper 20a8d1fa9d5b
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING I NATCH 2010-2011.pdf`
-- Printed on paper: exam date: 14/06/2011
-- Text: ocr (2 pages), mean OCR confidence 88.2
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING 2011-12.pdf`
+- Printed on paper: exam date: 08/02/2012
+- Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-—_——
-
-B.Tech (ALL STREAMS) Year: I Trimester: I
-Academic Year : 2010-2011
-
-Batch: 2010-2011
-
-Subject: Computer Programming - I Marks: |
-Time: Q.00 am To 1.00 pm
-
-Date: 14/06/2011 Duration: i hrs.
-
-Re - Examination }
-
-Cover of the Answer Book, which is provided for their use.
-NB: _ 1. Question No. | is compulsory.
-2. Out of remaining 6 questions, attempt any 4 questions. In all attempt 5 questions. °
-3. All questions carry equal marks.
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicates full marks.
-6. Give examples wherever required.
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the A
-
-Q.1(a) Answer the following [12]
-(i). Differentiaté between Compiler and Interpreter.
-
-(ii). What is a pointer? How it is declared?
-
-(iii). Distinguish between actual and formal parameters
-
-(iv). Briefly explain the escape sequences
-
-(v). Explain the uses of preprocessor directive.
-
-(vi). Differentiate between WHILE and DO WHILE with an example.
-
-Q.1(b) Write the output of the following codes. (Show steps) [08}
-1) int main() 2) void main( )
-{int x=4, y=9; { int a,b,c;
-int Z; a=2;b=5;c=10;
-Z=(xH)+(--y)+y; printf(’value:%d\n”,(at+b*-c));
-printf(’%d\n”,z); printf(’value:%ed\n”,(-c/b*c-a));
-Z>(--x)+x+(y--); printf’ value:%d\n”,(-a+++b%a));
-} printf(°%d",z); }
-feturn: 0} «22 eee ee 7 = 7 = a. aoe
-}
-3) void main( ) 4)void main()
-{ int ij.x; {
-
-for(i = 0,j = 25i<3;i++j--) int num[}={1,2,3,4,5};
-
-int x,y=0;
-switch(x = j-i) { for(x=0;x<5;x++)
-
-se 0 «nrinth(“Start %din” x-+1): y=ytnum[x];
-case 0 :printf(‘“Start Yed\n”,x+1); printf(“%d\n”,y);
-case 1: printf(“Hi %d\n”,x+1); break; getch();
-case 3 : printf(“Bye %d\n”,x+2); }
-default : printf(“End %d\n”,x+2);
-3}
-
-Q.2(a) Write a menu driven program to read a number and allow user to perform following [10]
-
-options (i) Reverse a number (ii) find sum of the digits (use switch case)
-
-fo
---- page 2 ---
-Q.2(b) Explain types of control structures in C with syntax [10]
-
-Q.3 (a) What is recursion. Write a algorithm and program to find the factorial of an integer — [02+08]
-with and without recursion.
-Q.3 (b) Explain call by value and call by address with an example [10]
-
-Q.4(a) Distinguish between the Array and Structure. Write a program to search for the given [03+07]
-element in an array of 10 numbers.
-Q.4(b) Explain any 5 string handling function with syntax [10]
-
-Q.5 (a) Explain how Union is different from Structure. Define a structure called book that [03+07]
-will describe the following information: Code, Title, Author, and Price. Using book,
-declare an array BK with 10 elements and write a program to read the information
-about all the 10 books and find the details of book with highest price.
-
-Q.5(b) Explain basic-features of Linux and-explain any 5 Basic Linux commands with. .. {10]
-syntax,
-Q.6 (a) Write a program to perform 1) Transpose of a matrix. [10]
-2) Multiplication of two 3X3 matrices
-Q.6 (b) Explain Pointer to Array and Array of Pointer with an example [10]
-Q.7 Attempt the following (Any 4) [20]
-
-1 Explain Operators in C
-
-2 Explain Program Development Life Cycle
-
-3 Explain “nested function” with an example
-
-4 Explain the storage classes.
-
-5 Explain formatted and unformatted input/output functions
-
-Z-
-````
-
-## 2010-11 · Re-Exam · Trim 2 · paper 12294bbea543
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING BATCH 2010-2011 RE EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 07/02/2012
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Eng ines i
-
-, Programme: B.Tech - ALL STREAMS Year: I Trimester:
+BLE IG ne aN FT RL EDR III TP “ a alias
+te SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Eng
+Programme: 3B. Tech- ALL STREAMS Year», oJ Trimester:
 Academic Year : 2011-2012
+NMIMS Unversity Jo
+Subject: COMPUTER PROGRAMMING - II Marks: ove ae
+Time: 2
 
-* Batch: 2010-2011 SVKWS Ve
-Subject: COMPUTER PROGRAMMING Marks: * 1B ahead ‘3
-Time: =
-Date: 07/02/2012 Duratio
+Date: 08/02/2012 Duration:
+Final - Examination
 
-Re - Examination
+1. Question No. 1 is compulsory
 
-Instructions : Candidates should read carefully the instructions printed on the question pape
-cover of answer book which is provided for their use.
-NB:
-a) Question No. 1 is compulsory.
-b) Out of the remaining questions, attempt any 4 questions.
-c) Inall5 questions are to be attempted.
-d) All questions carry equal marks.
-e) Answer to each question to be started ona fresh page.
-f) Figures on the right hand side indicate full marks.
+2. Out of remaining 6 (six) questions attempt any 4 (four) questions
+3. In all 5 (five) questions to be attempted.
 
-1) A. Distinguish between the following terms: 10
-a) Object & Class
-b) Data abstraction & data encapsulation
-B. Explain inline function. Write a menu driven program using inline functions to implement 10
-a calculator .The program should request the user to input two numbers and
-display one of the following as per the choice of the user
+4. Answer to each new question to be started on a fresh page.
 
-(1) Sum of two numbers.
-(2) Difference of two numbers.
-| (3) Product of two numbers.
-(4) Division of two numbers.
-2) A. What is function overloading? Also write a program for 3 overloaded functions to 10
-calculate.
-i)area of circle from its radius.
-ii) area of rectangle from its length & breadth.
-iii) area of triangle from its sides .
-B. Define constructor, destructor. Explain the types of constructor with suitable examples. 10
+5. Figurajn brackets indicate full marks.
 
-}
+1. Develop a class with member functions facilitating arithmetic operations on 20
+rational numbers i.e. carrying out addition, subtraction, division and multiplication
+of rational numbers. All of the member functions need to be overloading binary
+operators. Develop suitable main program to demonstrate various aspect of binary
+operator overloading. Incorporate suitable constructors and overloaded
 
-}
-3) A. What is a friend function? What are the merits and demerits of using friend
+constructors: Rational-numbers assume the form-a/b, where a and b are integer-
 
-qfinctions? 05
+constants.
+4
+2a. Explain storage classes with one programming example. 10
+2b. Write a program to reverse a sentence. (Do not reverse the characters of a word). 10
 
-B. What is static data member and static member function? Also give example. 05
+wo e.g. Input ‘Tama student, Output : student a am |
+3a. What do you mean by operator overloading? Demonstrate with suitable example 10
+overloading of ‘+=’ operator using member function and friend function.
+3b. Write a program to declare integer pointer. Store 10 numbers in the pointer. Use 10
 
-C. Explain the concept of Operator Overloading. Write a program to overload pre++ 10
-and post++ operator.
+q } new operator to allocate memory for 10 integers. Read and display the numbers.
 
-4) A. What is Inheritance? Explain Multiple Inheritance with example. 10
+4a. Writea program to display following pattern using nested loops :- , 10
+A
+A B A
 
-B. — What is virtual function? Why do we need virtual function? What are the applications of | 10
+A B Cc B A
 
-Vo
+Page | of 2
 --- page 2 ---
-5)
+i
 
-6)
+4b. What is object-oriented programming? Explain the basic concepts of OOP.
 
-7)
+5a. Explain with programming example call-by-value, call-by-reference, and call-by-
+address.
+5b. | Write a program that reads a text file and creates another file that is identical except
 
-“this” pointer?
-Write a function template for finding the minimum value contained in an array.
+that every sequence of consecutive blank spaces is replaced by a single space.
 
-Explain Sequential Input and Output Operations in file handling. Also explain how files
-are opened and closed in C++.
+6. Write short note with example(any 5)
+I. | Manipulators
+Il. | Dynamic constructors
+Ill. | Constructors in Derived class
+IV. Friend functions
+V. Run time polymorphism.
+VI. Template class
 
-Write a note on:
-i) Memory management operators
-ii) Scope resolution operator.
-Explain Virtual base class and abstract class with example.
+7a. What are inline functions? Discuss its advantages and disadvantages. Write a
 
-Explain Reference variables in C++ with example.
+program to demonstrate inline function.
 
-Write briefly for the following: (Any 4)
+7b. What do mean by dynamic initialization of variables? How it is achieved? Give an
 
-i) Visibility mode
+example,
 
-ii) Dynamic binding
+7c. What is hybrid inheritance? What are the problems in it? How it is resolved?
 
-iii) Type conversion
+Explain with programming example.
 
-iv) Reference variables
-
-v) Structure of c++ program.
-
-—x:
+Page 2 of 2
 
 10
+
 10
 
 10
@@ -3454,322 +3251,471 @@ v) Structure of c++ program.
 20
 ````
 
-## 2010-11 · Re-Exam · Trim 2 · paper 7f79704b9892
+## 2011-12 · Exam not stated · Trim 2 · paper 6f34f8dfec74
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING I BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 12/06/2012
-- Text: ocr (1 page), mean OCR confidence 90.4
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II 2011-2012 (1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 08/02/2012
+- Text: ocr (2 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+2 OR TOMAR a se 08 LL RSI LE RPE " re ——
+_
+
+- SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engingerinp
+Programme: 8B. Tech- ALL STREAMS Year: I Trimester;
+Academic Year : 2011-2012
+. = mis ver:
+Subject: COMPUTER PROGRAMMING - II Marks: 5 se”
+Time: af 2.00:\BIARTO 5.GGy
+Date: 08/02/2012 Duration
+Final - Examination
+N.B.
+1. Question No. 1 is compulsory
+2. Out of remaining 6 (six) questions attempt any 4 (four) questions
+3. Inall 5 (five) questions to be attempted.
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicate full marks,
+I. Develop a class with member functions facilitating arithmetic operations on 20
+rational numbers i.e. carrying out addition, subtraction, division and multiplication
+of rational numbers. All of the member functions need to be overloading binary
+operators. Develop suitable main program to demonstrate various aspect of binary
+operator overloading. Incorporate suitable constructors and overloaded
+constructors: Rational-numbers assume the form -a/b, where a and b are integer -
+constants.
+2a. Explain storage classes with one programming example. 10
+2b. Write a program to reverse a sentence. (Do not reverse the characters of a word). 10
+e.g. Input : fam a student, Output : student a am |
+3a. What do you mean by operator overloading? Demonstrate with suitable example 10
+}
+‘overloading of ‘+=’ operator using member function and friend function.
+yo Write a program to declare integer pointer. Store 10 numbers in the pointer. Use 10
+new operator to allocate memory for 10 integers. Read and display the numbers.
+4a. Write a program to display following pattern using nested loops :- 10
+A
+A B A
+
+A B Cc B A
+
+Page | of 2
+--- page 2 ---
+4b. What is object-oriented programming? Explain the basic concepts of OOP.
+
+Sa. Explain with programming example call-by-value, call-by-reference, and call-by-
+address.
+5b. Write a program that reads a text file and creates another file that is identical except
+
+that every sequence of consecutive blank spaces is replaced by a single space.
+
+6. Write short note with example(any 5)
+I. | Manipulators
+Il. | Dynamic constructors
+Ill. Constructors in Derived class
+IV. _ Friend functions
+VY. Run time polymorphism.
+
+VI. Template class
+
+7a. What are inline functions? Discuss its advantages and disadvantages. Write a
+
+program to demonstrate inline function.
+
+7b. What do mean by dynamic initialization of variables? How it is achieved? Give an
+
+example.
+
+7c. What is hybrid inheritance? What are the problems in it? How it is resolved?
+
+Explain with programming example.
+
+a
+
+Page 2 of 2
+
+10
+
+10
+
+10
+
+20
+````
+
+## 2011-12 · Exam not stated · Trim 2 · paper 7ad4f9030c18
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BATCH 2008-09,10,110001.pdf`
+- Printed on paper: duration hours: 3; exam date: 19/06/2012
+- Text: ocr (2 pages), mean OCR confidence 86.9
+
+````text
+en
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering =i
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: II / C= OF am, ", ‘
+Academic Year : 2011-2012 { £7. oN
+;¢ es 4 ‘s
+Batch: 2008-2009 / 2009-10 / AO10~I\ —_ ea cidsiwe
+Seaadina -Il arks: Os Ry OS
+Subject: Computer Programming Time: 10,00 -ayp To 1,00 Bae }
+ion: hrs>.“S umivers\ *
+Date: 19/06/2012 Duration: 3 hrs... i
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instnictions printed on the question paper and
+on the cover of the answer book, which is provided for the use,
+
+1. Question 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks,
+
+5. Answer to each new question to be started on afresh page.
+
+6. Figure to the right indicate full marks.
+
+7. Assume suitable data whenever necessary.
+
+) 1 | A | Explain any 5 basic concepts of Object Oriented Programming. Compare OOP with 10
+
+Structured Oriented Programming.
+
+B | Explain inline function and default argument in C++ with. examples. 10
+
+2 |A | Create a class Distance M having member as meter and centimeter and another 10
+
+class distance F having member as feet and inches. Writea program to add two
+
+i distances using a friend function.
+‘ i |
+B_ | Which different kinds of data types are supported by C++. 4
+C | What is the need of protected member? Explain private, protected and public 6
+derivation.
+3 |A_ | What is constructor of a class? Write a program to find the simple interest using 10
+
+constructors with default argument rate as 15%.
+--- page 2 ---
+as
+
+f
+
+_=—
+
+Explain static data members, static member functions and array of objects with
+
+examples.
+
+io
+
+State the rules for operator overloading.
+What are virtual base class and abstract class? Explain.
+
+Explain call by value.and call by reference. .
+
+How polymorphism can be achieved at compile time and run time? Explain with
+
+suitable examples.
+What are three uses of void?
+
+Explain copy constructer with example. :
+
+12
+
+What is Inheritance in C++, Explain the different forms of inheritance.
+
+Write a program to overload + operator for adding two complex numbers.
+
+10
+
+10
+
+Write Short Notes on (any four 4)
+
+Enumerated data type
+Constructor in derived class.
+Software evolution
+
+Class Template
+
+this pointer
+````
+
+## 2011-12 · Exam not stated · Trim 2 · paper 09495994e03c
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/scan0003(3).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/09/2012
+- Text: ocr (3 pages), mean OCR confidence 91.6
 
 ````text
 SVKM’s NMIMS
 
-eee Mukesh Patel School of Technology Management & Engineering
-Programme: B.Tech (ALL STREAMS Year: I Trimester: I —,
+Mukesh Patel School of Technology Management & Engineering
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: _ II
+Academic Year : 2011-2012
 
-F eer Year : 2011-2012 he IN
-Batch: 2010-2011 . - 9
-Subject: Computer Programming - I Marks: [27 1
+Batch: 2010-2011
+| Subject: Computer Programming-II Marks: 100
+Time: 11.00 am To 2.00 pm
+Date: 12/09/2012 Duration: 3 hrs. °
 
-Time: |/~ > 10.00 am To 1.00 p
-Date: 12/06/2012 Duration: 3 hrs. E
+Special Re-Examination
 
-Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Instructions: candidates should read carefully the instruction printed on the que!
-the cover of the answer book, which is provide for their use.
+NB:
+1. Question No 1 is compulsory.
+2. Out of remaining questions attempt any 4 questions.
+3. In all 5 questions to be attempted.
+, 4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+1. (a) What will be the output of the following programmes? 10
 
-1. Question No. 1. is compulsory.
-
-2. Attempt any four out of the remaining questions.
-
-3. Answer to each new question to be started on new page.
-
-4. All questions carry equal marks.
-
-Q.1. a. State the program development life cycle. Explaiz the use of algorithms and flow charts to
-represent program logic with example.
-
-b.Explain Linux file system. State the use of commands Is » pwd, md, cd
-
-Q.2, a. Explain the data types in C with their respective sizes. Define constants and variables with
-examples.
-
-b. Write a program to print the roots of algebraic equation ax” + bx +c=0 where a,b and c are
-—b+vVb*-4ac
-
-coefficients. (hint: root of algebraic equation is given by x = =
-
-). Consider all possible
-conditions.
-
-Q.3 a. State the difference between do and while statements. Write a program to find the sum of digits
-of a given number using while statement.
-
-b. Write a program to print the following pattern
-
-} A
-A B A
-A B Cc B A
-A B Cc D Cc B A
-
-Que.4 a. Explain the function and macros. Explain the difference in their execution with example. Give
-advantages of each.
-b. What is recursion? Write a program to print n terms of Fibonacci series ( 0,1,1,2,3,......
-recursion.
+(i) #include<iostream.h>
+void main( )
+ae
+é int i=1 ,j=1;
+"yy for)
+{
+if(i>3)break;
+else j+=i;
+cout <j < <endl;
+i+;
+}
 }
 
-Que.S 4. Write a program to arrange the array of integers into ascending order using bubble sort.
+Vs,
+--- page 2 ---
+(2) #include<iostream.h>
+void main( )
 
-‘ ¢ State the syntax of formatted input and output statement. Write a program to print following
+{
 
-table of data on screen for 3 students.
+int k=3, l=4, m;
 
-Roll Numb¢ Physics Cheniistry Mathematic: Total
+m=++k + I--;
 
-) using
+cout<"Value of m"«m«endl;
+m=k++ + --1;
 
-Que.6 a. Explain the term pointer with example. How arrays are passed to functions? What are
-advantages of using pointers.
-b. Write a program to compute the transpose of given matrix of size (m x m).
-Que.7 a. Write a program to design a arithmetic calculator to perform addition, substraction,
-multiplication and division operations according to users choice. Use Switch Case statement.
-b. Give the various type of operators in C. Give the precedence of operators.
+cout<<"Value of m"«m«endl;
 
-Hh
+}
+
+(b) What do mean by dynamic initialization of variables? How it is achieved? Give 5
+an example.
+
+(c) In what order are the class constructors are called when a derived class object is 5
+
+created
+2 (a) Write a program to generate the following pattern: 10
+*
+* *
+* * *
+
+Take number of rows from user.
+
+(b) Write a program to create two base classes Bl and B2, each of which is 10
+publically inherited by derived class D. Use parameterized constructor and a
+destructor function in each class and demonstrate the order of execution of
+constructors. 7
+
+3 (a) Write a program to accept a set of 10 numbers and print the numbers using 10
+| pointers
+
+ria What is friend function? Write a program to demonstrate how a common friend 10
+function can be used to exchange the private values of two classes (Use call by
+reference method)
+
+4 (a) Write a program to find the average of elements ofa single dimensional array 10
+(b) What is hybrid inheritance? What are the problems in it? How it is resolved? 10
+Give one programming example
+5 (a) What is function overloading? Overload function add to add two float, two 10
+integer number.
+
+2s
+--- page 3 ---
+(b)
+(a)
+(b)
+(c)
+(a)
+
+(b)
+
+What is operator overloading? Create a class Float that contains float data
+member. Overload operator +,-,*,/ on the object of Float
+Write a program to concat two strings using user defined function.
+
+Explain built-in data type in C++.
+What is recursion? While writing recursive function what things must be taken care of?
+
+Define structure called cricket with members players name,country name, best
+
+score and batting average. Write a programme to read ‘N’ records and display the
+same.
+
+Explain runtime and compile time polymorphism with example.
+
+10
+
+10
+
+10
+
+10
 ````
 
-## 2010-11 · Re-Exam · Trim 2 · paper 40e11f689983
+## 2011-12 · Re-Exam · Trim 2 · paper b43773d37d60
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COPUTER PROGRAMMING BATCH 2010-11RE EXAM.pdf`
-- Text: ocr (2 pages), mean OCR confidence 90.8
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING BATCH 2008-2009 RE EXAM (1).pdf` (+1 identical copies)
+- Text: ocr (2 pages), mean OCR confidence 92.2
 
 ````text
-, Programme:
+Programme:
 
-4
-
-* Batch:
+\ Batch:
 Subject:
 
 Date:
 
-NB:
-a)
+Instructions: Candidates should read carefully the instructions printed on the
 
 SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Eng ineg
-
+Mukesh Patel School Of Technology Management & Engineering
 B.Tech - ALL STREAMS Year: I Trimester:
 
 Academic Year : 2011-2012
-2010-2011 svKers \
-COMPUTER PROGRAMMING Marks: [f ( 1g eesY lw
-Time: mi 2.0Q.xpmaxPo 5. Z|
-07/02/2012 Duratio:
+
+2008-2009
+
+COMPUTER PROGRAMMING Marks:
+Time:
+
+08/02/2012 Duratio
 
 Re - Examination
 
-cover of answer book which is provided for their use.
+the Answer Book, which is provided for use.
 
-Question No. 1 is compulsory.
+NB.
 
-b) Out of the remaining questions, attempt any 4 questions.
+Question No. | is compulsory.
 
-c)
+Out of remaining 6 questions, attempt any 4 questions.
+In all 5 questions to be attempted.
 
-In all 5 questions are to be attempted.
+All questions carry equal marks.
 
-d) All questions carry equal marks.
-e) Answer to each question to be started ona fresh page.
+Q.1
 
-f)
+Q.2
 
-1) A.
+Q.3.
 
-2) A.
+Answer to each new question should be started on a Fresh Page.
 
-3) A.
+Figures in brackets indicate full marks.
 
-\
+a) Characteristics of OOPs in detail. [5]
 
-4) A.
+b) Explain static data member with an example. [5]
 
-Figures on the right hand side indicate full marks.
+c) Explain call by value & call by reference with the help of C++ program. [10]
 
-Distinguish between the following terms:
-a) Object & Class
-b) Data abstraction & data encapsulation
-Explain inline function. Write a menu driven program using inline functions to implement
-a calculator .The program should request the user to input two numbers and
-display one of the following as per the choice of the user
+a) Write a program for addition & subtraction of two complex numbers using Friend Function
 
-(1) Sum of two numbers.
+& passing & returning objects. [10]
 
-(2) Difference of two numbers.
-(3) Product of two numbers.
-(4) Division of two numbers.
+b) Explain different types of inheritance. Discuss the visibility modes of inherited members.
+[10]
 
-What is function overloading? Also write a program for 3 overloaded functions to
-calculate.
-i)area of circle from its radius.
-ii) area of rectangle from its length & breadth.
-iii) area of triangle from its sides .
+a) Define a class Student. Include the following members: [10]
 
-Define constructor, destructor. Explain the types of constructor with suitable examples.
+e Data members - Roll No.
+e Members functions
+= To assign initial value : get_number( )
+* To display : put_number( )
+Define a class Test. Include the following members:
+e Data members — Subjectl, Subject2
+} e Members functions
+, : = To assign marks to each subject : get_marks( )
+q } * To display marks : put_marks( )
+Define a class Result. Include the following members:
+e Data members — Total
+e Members functions
+«To display total of marks : display( )
+Write a program to enter marks for 2 different subjects & display them using the above details
+of each class & implement it using the concept of Multilevel inheritance.
 
-What i is a friend function? What are the merits and demerits of using friend
-functions?
-
-What is static data member and static member function? Also give example.
-
-Explain the concept of Operator Overloading. Write a program to overload pre++
-and post++ operator.
-
-What is Inheritance? Explain Multiple Inheritance with example.
-
-What is virtual function? Why do we need virtual function? What are the applications of
-
-Vo
-
-10
-
-10
-
-10
-
-10
-
-05
-05
-
-10
-
-10
-10
+Page 1of2
 --- page 2 ---
-“this” pointer?
-5) A. Write a function template for finding the minimum value contained in an array.
+Q.4
 
-B. _ Explain Sequential Input and Output Operations in file handling. Also explain how files
-“are opened and closed in C++.
+Q.5
 
-6) A. Write a note on:
-i) Memory management operators
-ii) Scope resolution operator.
-B. Explain‘ Virtual’basé class and abstract class with example.
+Q.6
 
-C. Explain Reference variables in C++ with example.
+Q.7
 
-7) Write briefly for the following: (Any 4)
-i) Visibility mode
-ii) Dynamic binding
-iii) Type conversion
-iv) Reference variables
-v) Structure of c++ program.
+=
+=
 
-10
-10
+b) State the differences between Object Oriented Programming & Procedure Oriented
+Programming. [10]
 
-10
+a) What is operator overloading? Write a program to overload the Binary operator ‘+’
+[10]
 
-20
+b) Calculate the total mark of a student using the concept of virtual base class.
+
+[10]
+Hint:
+
+Create the derived class test virtually derived from the base class student -function getmarks()
+and putmarks().
+
+Create the derived class sports virtually derived from the base class student- function
+getscore() and putscore().
+Create the derived class result derived from the class test and sports-function display() to
+calculate the total.
+
+a) Write a program to calculate volume of a cube (side*), volume of cylinder dd rh) and
+
+volume of rectangular box (Length * Breadth * Height) using Function Overloading. [10]
+b) Explain the use of copy constructor with the help of an example. [10]
+a) Write a program using function template. [10]
+b) Write a program for Reading and Writing from a File
+
+[10]
+Write short notes on the following with the help of an example: [20]
+
+a) Uses of Scope resolution operator
+b) Manipulators (setw & endl)
+
+c) Inline Function
+
+d) Dynamic / late binding
+
+e) Destructors
+
+Page 2 of 2
 ````
 
-## 2009-10 · Exam not stated · Trim 2 · paper b422c80a39a0
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BATCH 2009-2010.pdf`
-- Printed on paper: max marks: 100; exam date: 18/06/2011
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-Programme: B.Tech (ALL STREAMS) Year: I Trimester:
-
-SVKM’s NMIMS V4 y
-Mukesh Patel School of Technology Management & mafeetin SS
-IF
-Academic Year : 2010-2011
-
-Batch: 2009-2010
-Subject: Computer Programming - II Marks: 100
-Time: Wen am To 1.00 pm
-Date: 18/06/2011 Duration: 3 irs.) “Awaci’ 7
-—
-
-Re - Examination
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of the remaining six questions, attempt any FOUR questions.
-3. Inall FIVE questions to be attempted.
-4. Marks are written in front of them.
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicate full marks.
-
-QI. (a) What is operator overloading? Explain the rules for operator overloading. (6)
-(b) Explain basic concepts of OOP. (6)
-
-(c) WAP in C++ to illustrate Constructor overloading using complex constructor with
-no argument , one argument & two argument and add two complex numbers. (8)
-
-Q2. (a) What are the quality issues must be considered for critical evaluation of software? (4)
-(b) WAP to define a class having data members- principal, duration and rate. Declare
-rate as static member variable. Calculate simple interest for 2 accounts and display
-
-it using static member function display(). (8)
-(c) Create class account with data members accno, balance, branch. Accept & display
-account information. Also write deposit() and withdraw() functions. (8)
-Q3. (A)
-a) Write the program that uses inline function for converting pounds to kilograms.
-(1 pound = 0.453592 kg) (5)
-b) What are the 3 uses of void? (3)
-(B) a) WAP in C++ to display information of Senior person using this pointer
-(Compare ages of two persons). (6)
-b) Explain with program the use of scope resolution operator with templates. (6)
-Q4. (a) Explain Default arguments. ~ 6)
-(b) What is the need of protected members? Explain private, protected and public
-derivation. (6)
-
-(c) Create class FLOAT that contains float data member. Create objects A, B, C &
-perform the following:
-i) C=A+B_ ii) C=5.7*B_ iii) A=B (8)
-
-QS. (a) Define constructor, destructor. Explain why default constructor must be given if
-any other type of constructor is defined within program. (6)
-
-fh
---- page 2 ---
-(b) WAP in C++ using of Friend Class to find maximum in two numbers. (6)
-
-(c) What is inheritance? Explain different forms of inheritance. (8)
-Q6. (a) What is virtual function? Why do we need virtual function? (6)
-(b) Explain constructors in derived class. (6)
-(c) WAP in C++ to swap two int & two float numbers using function template (8)
-Q7. Write short notes on (any four): (20)
-
-a) Function overloading
-
-b) cin, cout
-
-c) File opening modes
-
-d) Friend function
-
-e) Operators in C++
-
-f) Pure virtual function , copy constructor
-
-th
-````
-
-## 2009-10 · Re-Exam · Trim 2 · paper 2c24b720c7f1
+## 2011-12 · Re-Exam · Trim 2 · paper 2c24b720c7f1
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -3916,7 +3862,116 @@ Page 3 of 3
 [20]
 ````
 
-## 2009-10 · Re-Exam · Trim 2 · paper 5c94ebbdbd67
+## 2011-12 · Re-Exam · Trim 2 · paper 12294bbea543
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING BATCH 2010-2011 RE EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 07/02/2012
+- Text: ocr (2 pages), mean OCR confidence 93.3
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Eng ines i
+
+, Programme: B.Tech - ALL STREAMS Year: I Trimester:
+Academic Year : 2011-2012
+
+* Batch: 2010-2011 SVKWS Ve
+Subject: COMPUTER PROGRAMMING Marks: * 1B ahead ‘3
+Time: =
+Date: 07/02/2012 Duratio
+
+Re - Examination
+
+Instructions : Candidates should read carefully the instructions printed on the question pape
+cover of answer book which is provided for their use.
+NB:
+a) Question No. 1 is compulsory.
+b) Out of the remaining questions, attempt any 4 questions.
+c) Inall5 questions are to be attempted.
+d) All questions carry equal marks.
+e) Answer to each question to be started ona fresh page.
+f) Figures on the right hand side indicate full marks.
+
+1) A. Distinguish between the following terms: 10
+a) Object & Class
+b) Data abstraction & data encapsulation
+B. Explain inline function. Write a menu driven program using inline functions to implement 10
+a calculator .The program should request the user to input two numbers and
+display one of the following as per the choice of the user
+
+(1) Sum of two numbers.
+(2) Difference of two numbers.
+| (3) Product of two numbers.
+(4) Division of two numbers.
+2) A. What is function overloading? Also write a program for 3 overloaded functions to 10
+calculate.
+i)area of circle from its radius.
+ii) area of rectangle from its length & breadth.
+iii) area of triangle from its sides .
+B. Define constructor, destructor. Explain the types of constructor with suitable examples. 10
+
+}
+
+}
+3) A. What is a friend function? What are the merits and demerits of using friend
+
+qfinctions? 05
+
+B. What is static data member and static member function? Also give example. 05
+
+C. Explain the concept of Operator Overloading. Write a program to overload pre++ 10
+and post++ operator.
+
+4) A. What is Inheritance? Explain Multiple Inheritance with example. 10
+
+B. — What is virtual function? Why do we need virtual function? What are the applications of | 10
+
+Vo
+--- page 2 ---
+5)
+
+6)
+
+7)
+
+“this” pointer?
+Write a function template for finding the minimum value contained in an array.
+
+Explain Sequential Input and Output Operations in file handling. Also explain how files
+are opened and closed in C++.
+
+Write a note on:
+i) Memory management operators
+ii) Scope resolution operator.
+Explain Virtual base class and abstract class with example.
+
+Explain Reference variables in C++ with example.
+
+Write briefly for the following: (Any 4)
+
+i) Visibility mode
+
+ii) Dynamic binding
+
+iii) Type conversion
+
+iv) Reference variables
+
+v) Structure of c++ program.
+
+—x:
+
+10
+10
+
+10
+
+20
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper 5c94ebbdbd67
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -4031,7 +4086,234 @@ d) Union
 e) yGlobal & Local Variables
 ````
 
-## 2008-09 · Exam not stated · Trim 2 · paper 7405130c55fd
+## 2011-12 · Re-Exam · Trim 2 · paper 83d103a9e1ac
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BTACH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: exam date: 19/06/2012
+- Text: ocr (2 pages), mean OCR confidence 74.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+ent Mukesh Patel School of Technology Management & Engineering
+Programme: B.Tech (ALL STREAMS) Year: I Trimester: II
+
+Academic Year : 2011-2012
+
+Batch: 2011-2012 sone ue
+Subject: Computer Programming - II Marks: /{ t $5 ‘eA \
+~ Time: 0.00 am To, 1,00) pm !
+Date: 19/06/2012 Duration: She hrs. oe
+Re - Examination ‘ x -
+
+Instruction: Candidates should read carefully the instructions printed on the questi
+and on the cover of the answer book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. In all five questions to be attempted.
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page. .
+
+6. Figures in brackets on the right hand side indicate full marks.
+Qi
+a) Explain call by value, call by address and call by reference with an example [10]
+b) Create a class distance having members as feet and inches and another class distance having
+member as feet and inches. Write a program to add two distance using a friend function [10]
+Q2
+a) What is static data member and static member functions. Explain its use with an example [10]
+b) What is virtual function? What is the need of virtual function? Give an example [10]
+Q3
+a) What is Inheritance? Explain different forms of inheritance. [10]
+
+‘ b) Develop a class STUDENT with data member name and roll_no. Derive 2 classes SPORTS and
+TEST from STUDENT class. The TEST class will have data members as marks of all 5 subjects and
+the sports class will have data members as score in 2 sports. Use the above classes to display complete
+
+information of students. [10]
+Q4
+a) What is operator overloading? Write a program to overload the unary increment operator for
+postfix and prefix operations. [10]
+b) Distinguish between constructor and destructor. Explain Copy constructor with example
+[10]
+Qs |
+, a) Wtite a program to overload + operator to add two objects of class Complex. Complex class has
+data'gnembers as real and imaginary values. [10]
+b) Whe is the need of protected members? Explain private, protected and Public derivation
+. [10]
+Q.6
+
+a.) Write a program in which a class has three data members: name, roll no, marks of 5 subjects and a
+member function Assign() to assign the streams on the basis of table given below:
+
+Avg. Marks Stream
+
+90% or more Computers
+
+80% - 89% Electronics
+
+75% - 79% Mechanical
+
+10% - 74% Electrical [10]
+b.) Explain any 5 basic concepts of Object Oriented Programming .Compare OOP with
+Structured Oriented Prograrnming. ? [10]
+--- page 2 ---
+-—
+
+Q.7 write short note on the following (any four) [20]
+L Inline function
+2. Function Template
+3: File Handling
+4. Manipulators
+5: Abstract class
+
+````
+
+## 2011-12 · Re-Exam · Trim 2 · paper 40e11f689983
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COPUTER PROGRAMMING BATCH 2010-11RE EXAM.pdf`
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+, Programme:
+
+4
+
+* Batch:
+Subject:
+
+Date:
+
+NB:
+a)
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Eng ineg
+
+B.Tech - ALL STREAMS Year: I Trimester:
+
+Academic Year : 2011-2012
+2010-2011 svKers \
+COMPUTER PROGRAMMING Marks: [f ( 1g eesY lw
+Time: mi 2.0Q.xpmaxPo 5. Z|
+07/02/2012 Duratio:
+
+Re - Examination
+
+cover of answer book which is provided for their use.
+
+Question No. 1 is compulsory.
+
+b) Out of the remaining questions, attempt any 4 questions.
+
+c)
+
+In all 5 questions are to be attempted.
+
+d) All questions carry equal marks.
+e) Answer to each question to be started ona fresh page.
+
+f)
+
+1) A.
+
+2) A.
+
+3) A.
+
+\
+
+4) A.
+
+Figures on the right hand side indicate full marks.
+
+Distinguish between the following terms:
+a) Object & Class
+b) Data abstraction & data encapsulation
+Explain inline function. Write a menu driven program using inline functions to implement
+a calculator .The program should request the user to input two numbers and
+display one of the following as per the choice of the user
+
+(1) Sum of two numbers.
+
+(2) Difference of two numbers.
+(3) Product of two numbers.
+(4) Division of two numbers.
+
+What is function overloading? Also write a program for 3 overloaded functions to
+calculate.
+i)area of circle from its radius.
+ii) area of rectangle from its length & breadth.
+iii) area of triangle from its sides .
+
+Define constructor, destructor. Explain the types of constructor with suitable examples.
+
+What i is a friend function? What are the merits and demerits of using friend
+functions?
+
+What is static data member and static member function? Also give example.
+
+Explain the concept of Operator Overloading. Write a program to overload pre++
+and post++ operator.
+
+What is Inheritance? Explain Multiple Inheritance with example.
+
+What is virtual function? Why do we need virtual function? What are the applications of
+
+Vo
+
+10
+
+10
+
+10
+
+10
+
+05
+05
+
+10
+
+10
+10
+--- page 2 ---
+“this” pointer?
+5) A. Write a function template for finding the minimum value contained in an array.
+
+B. _ Explain Sequential Input and Output Operations in file handling. Also explain how files
+“are opened and closed in C++.
+
+6) A. Write a note on:
+i) Memory management operators
+ii) Scope resolution operator.
+B. Explain‘ Virtual’basé class and abstract class with example.
+
+C. Explain Reference variables in C++ with example.
+
+7) Write briefly for the following: (Any 4)
+i) Visibility mode
+ii) Dynamic binding
+iii) Type conversion
+iv) Reference variables
+v) Structure of c++ program.
+
+10
+10
+
+10
+
+20
+````
+
+## 2010-11 · Exam not stated · Trim 2 · paper 7405130c55fd
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -4089,246 +4371,294 @@ array and structure with proper example. [10+10]
 h
 ````
 
-## 2008-09 · Exam not stated · Trim 2 · paper 7ad4f9030c18
+## 2010-11 · Exam not stated · Trim 2 · paper 69275425a811
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BATCH 2008-09,10,110001.pdf`
-- Printed on paper: duration hours: 3; exam date: 19/06/2012
-- Text: ocr (2 pages), mean OCR confidence 86.9
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING I NATCH 2010-2011.pdf`
+- Printed on paper: exam date: 14/06/2011
+- Text: ocr (2 pages), mean OCR confidence 88.2
 
 ````text
-en
 SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering =i
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: II / C= OF am, ", ‘
-Academic Year : 2011-2012 { £7. oN
-;¢ es 4 ‘s
-Batch: 2008-2009 / 2009-10 / AO10~I\ —_ ea cidsiwe
-Seaadina -Il arks: Os Ry OS
-Subject: Computer Programming Time: 10,00 -ayp To 1,00 Bae }
-ion: hrs>.“S umivers\ *
-Date: 19/06/2012 Duration: 3 hrs... i
+Mukesh Patel School of Technology Management & Engineering
+—_——
 
-Re - Examination
+B.Tech (ALL STREAMS) Year: I Trimester: I
+Academic Year : 2010-2011
 
-Instructions: Candidates should read carefully the instnictions printed on the question paper and
-on the cover of the answer book, which is provided for the use,
+Batch: 2010-2011
 
-1. Question 1 is compulsory.
+Subject: Computer Programming - I Marks: |
+Time: Q.00 am To 1.00 pm
 
-2. Out of remaining questions, attempt any 4 questions.
+Date: 14/06/2011 Duration: i hrs.
 
-3. In all 5 questions to be attempted.
+Re - Examination }
 
-4. All questions carry equal marks,
+Cover of the Answer Book, which is provided for their use.
+NB: _ 1. Question No. | is compulsory.
+2. Out of remaining 6 questions, attempt any 4 questions. In all attempt 5 questions. °
+3. All questions carry equal marks.
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicates full marks.
+6. Give examples wherever required.
 
-5. Answer to each new question to be started on afresh page.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the A
 
-6. Figure to the right indicate full marks.
+Q.1(a) Answer the following [12]
+(i). Differentiaté between Compiler and Interpreter.
 
-7. Assume suitable data whenever necessary.
+(ii). What is a pointer? How it is declared?
 
-) 1 | A | Explain any 5 basic concepts of Object Oriented Programming. Compare OOP with 10
+(iii). Distinguish between actual and formal parameters
 
-Structured Oriented Programming.
+(iv). Briefly explain the escape sequences
 
-B | Explain inline function and default argument in C++ with. examples. 10
+(v). Explain the uses of preprocessor directive.
 
-2 |A | Create a class Distance M having member as meter and centimeter and another 10
+(vi). Differentiate between WHILE and DO WHILE with an example.
 
-class distance F having member as feet and inches. Writea program to add two
+Q.1(b) Write the output of the following codes. (Show steps) [08}
+1) int main() 2) void main( )
+{int x=4, y=9; { int a,b,c;
+int Z; a=2;b=5;c=10;
+Z=(xH)+(--y)+y; printf(’value:%d\n”,(at+b*-c));
+printf(’%d\n”,z); printf(’value:%ed\n”,(-c/b*c-a));
+Z>(--x)+x+(y--); printf’ value:%d\n”,(-a+++b%a));
+} printf(°%d",z); }
+feturn: 0} «22 eee ee 7 = 7 = a. aoe
+}
+3) void main( ) 4)void main()
+{ int ij.x; {
 
-i distances using a friend function.
-‘ i |
-B_ | Which different kinds of data types are supported by C++. 4
-C | What is the need of protected member? Explain private, protected and public 6
-derivation.
-3 |A_ | What is constructor of a class? Write a program to find the simple interest using 10
+for(i = 0,j = 25i<3;i++j--) int num[}={1,2,3,4,5};
 
-constructors with default argument rate as 15%.
+int x,y=0;
+switch(x = j-i) { for(x=0;x<5;x++)
+
+se 0 «nrinth(“Start %din” x-+1): y=ytnum[x];
+case 0 :printf(‘“Start Yed\n”,x+1); printf(“%d\n”,y);
+case 1: printf(“Hi %d\n”,x+1); break; getch();
+case 3 : printf(“Bye %d\n”,x+2); }
+default : printf(“End %d\n”,x+2);
+3}
+
+Q.2(a) Write a menu driven program to read a number and allow user to perform following [10]
+
+options (i) Reverse a number (ii) find sum of the digits (use switch case)
+
+fo
 --- page 2 ---
-as
+Q.2(b) Explain types of control structures in C with syntax [10]
 
-f
+Q.3 (a) What is recursion. Write a algorithm and program to find the factorial of an integer — [02+08]
+with and without recursion.
+Q.3 (b) Explain call by value and call by address with an example [10]
 
-_=—
+Q.4(a) Distinguish between the Array and Structure. Write a program to search for the given [03+07]
+element in an array of 10 numbers.
+Q.4(b) Explain any 5 string handling function with syntax [10]
 
-Explain static data members, static member functions and array of objects with
+Q.5 (a) Explain how Union is different from Structure. Define a structure called book that [03+07]
+will describe the following information: Code, Title, Author, and Price. Using book,
+declare an array BK with 10 elements and write a program to read the information
+about all the 10 books and find the details of book with highest price.
 
-examples.
+Q.5(b) Explain basic-features of Linux and-explain any 5 Basic Linux commands with. .. {10]
+syntax,
+Q.6 (a) Write a program to perform 1) Transpose of a matrix. [10]
+2) Multiplication of two 3X3 matrices
+Q.6 (b) Explain Pointer to Array and Array of Pointer with an example [10]
+Q.7 Attempt the following (Any 4) [20]
 
-io
+1 Explain Operators in C
 
-State the rules for operator overloading.
-What are virtual base class and abstract class? Explain.
+2 Explain Program Development Life Cycle
 
-Explain call by value.and call by reference. .
+3 Explain “nested function” with an example
 
-How polymorphism can be achieved at compile time and run time? Explain with
+4 Explain the storage classes.
 
-suitable examples.
-What are three uses of void?
+5 Explain formatted and unformatted input/output functions
 
-Explain copy constructer with example. :
-
-12
-
-What is Inheritance in C++, Explain the different forms of inheritance.
-
-Write a program to overload + operator for adding two complex numbers.
-
-10
-
-10
-
-Write Short Notes on (any four 4)
-
-Enumerated data type
-Constructor in derived class.
-Software evolution
-
-Class Template
-
-this pointer
+Z-
 ````
 
-## 2008-09 · Re-Exam · Trim 2 · paper b43773d37d60
+## 2010-11 · Exam not stated · Trim 2 · paper b422c80a39a0
 
 - Departments: Common (all branches)
 - Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING BATCH 2008-2009 RE EXAM (1).pdf` (+1 identical copies)
-- Text: ocr (2 pages), mean OCR confidence 92.2
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II BATCH 2009-2010.pdf`
+- Printed on paper: max marks: 100; exam date: 18/06/2011
+- Text: ocr (2 pages), mean OCR confidence 93.8
 
 ````text
-Programme:
+Programme: B.Tech (ALL STREAMS) Year: I Trimester:
 
-\ Batch:
-Subject:
+SVKM’s NMIMS V4 y
+Mukesh Patel School of Technology Management & mafeetin SS
+IF
+Academic Year : 2010-2011
 
-Date:
-
-Instructions: Candidates should read carefully the instructions printed on the
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-B.Tech - ALL STREAMS Year: I Trimester:
-
-Academic Year : 2011-2012
-
-2008-2009
-
-COMPUTER PROGRAMMING Marks:
-Time:
-
-08/02/2012 Duratio
+Batch: 2009-2010
+Subject: Computer Programming - II Marks: 100
+Time: Wen am To 1.00 pm
+Date: 18/06/2011 Duration: 3 irs.) “Awaci’ 7
+—
 
 Re - Examination
 
-the Answer Book, which is provided for use.
+Instructions: Candidate should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of the remaining six questions, attempt any FOUR questions.
+3. Inall FIVE questions to be attempted.
+4. Marks are written in front of them.
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicate full marks.
 
-NB.
+QI. (a) What is operator overloading? Explain the rules for operator overloading. (6)
+(b) Explain basic concepts of OOP. (6)
 
-Question No. | is compulsory.
+(c) WAP in C++ to illustrate Constructor overloading using complex constructor with
+no argument , one argument & two argument and add two complex numbers. (8)
 
-Out of remaining 6 questions, attempt any 4 questions.
-In all 5 questions to be attempted.
+Q2. (a) What are the quality issues must be considered for critical evaluation of software? (4)
+(b) WAP to define a class having data members- principal, duration and rate. Declare
+rate as static member variable. Calculate simple interest for 2 accounts and display
 
-All questions carry equal marks.
+it using static member function display(). (8)
+(c) Create class account with data members accno, balance, branch. Accept & display
+account information. Also write deposit() and withdraw() functions. (8)
+Q3. (A)
+a) Write the program that uses inline function for converting pounds to kilograms.
+(1 pound = 0.453592 kg) (5)
+b) What are the 3 uses of void? (3)
+(B) a) WAP in C++ to display information of Senior person using this pointer
+(Compare ages of two persons). (6)
+b) Explain with program the use of scope resolution operator with templates. (6)
+Q4. (a) Explain Default arguments. ~ 6)
+(b) What is the need of protected members? Explain private, protected and public
+derivation. (6)
 
-Q.1
+(c) Create class FLOAT that contains float data member. Create objects A, B, C &
+perform the following:
+i) C=A+B_ ii) C=5.7*B_ iii) A=B (8)
 
-Q.2
+QS. (a) Define constructor, destructor. Explain why default constructor must be given if
+any other type of constructor is defined within program. (6)
 
-Q.3.
-
-Answer to each new question should be started on a Fresh Page.
-
-Figures in brackets indicate full marks.
-
-a) Characteristics of OOPs in detail. [5]
-
-b) Explain static data member with an example. [5]
-
-c) Explain call by value & call by reference with the help of C++ program. [10]
-
-a) Write a program for addition & subtraction of two complex numbers using Friend Function
-
-& passing & returning objects. [10]
-
-b) Explain different types of inheritance. Discuss the visibility modes of inherited members.
-[10]
-
-a) Define a class Student. Include the following members: [10]
-
-e Data members - Roll No.
-e Members functions
-= To assign initial value : get_number( )
-* To display : put_number( )
-Define a class Test. Include the following members:
-e Data members — Subjectl, Subject2
-} e Members functions
-, : = To assign marks to each subject : get_marks( )
-q } * To display marks : put_marks( )
-Define a class Result. Include the following members:
-e Data members — Total
-e Members functions
-«To display total of marks : display( )
-Write a program to enter marks for 2 different subjects & display them using the above details
-of each class & implement it using the concept of Multilevel inheritance.
-
-Page 1of2
+fh
 --- page 2 ---
-Q.4
+(b) WAP in C++ using of Friend Class to find maximum in two numbers. (6)
 
-Q.5
+(c) What is inheritance? Explain different forms of inheritance. (8)
+Q6. (a) What is virtual function? Why do we need virtual function? (6)
+(b) Explain constructors in derived class. (6)
+(c) WAP in C++ to swap two int & two float numbers using function template (8)
+Q7. Write short notes on (any four): (20)
 
-Q.6
+a) Function overloading
 
-Q.7
+b) cin, cout
 
-=
-=
+c) File opening modes
 
-b) State the differences between Object Oriented Programming & Procedure Oriented
-Programming. [10]
+d) Friend function
 
-a) What is operator overloading? Write a program to overload the Binary operator ‘+’
-[10]
+e) Operators in C++
 
-b) Calculate the total mark of a student using the concept of virtual base class.
+f) Pure virtual function , copy constructor
 
-[10]
-Hint:
+th
+````
 
-Create the derived class test virtually derived from the base class student -function getmarks()
-and putmarks().
+## 2010-11 · Re-Exam · Trim 2 · paper 7f79704b9892
 
-Create the derived class sports virtually derived from the base class student- function
-getscore() and putscore().
-Create the derived class result derived from the class test and sports-function display() to
-calculate the total.
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING I BATCH 2010-11 RE EXAM0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 12/06/2012
+- Text: ocr (1 page), mean OCR confidence 90.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
-a) Write a program to calculate volume of a cube (side*), volume of cylinder dd rh) and
+````text
+SVKM’s NMIMS
 
-volume of rectangular box (Length * Breadth * Height) using Function Overloading. [10]
-b) Explain the use of copy constructor with the help of an example. [10]
-a) Write a program using function template. [10]
-b) Write a program for Reading and Writing from a File
+eee Mukesh Patel School of Technology Management & Engineering
+Programme: B.Tech (ALL STREAMS Year: I Trimester: I —,
 
-[10]
-Write short notes on the following with the help of an example: [20]
+F eer Year : 2011-2012 he IN
+Batch: 2010-2011 . - 9
+Subject: Computer Programming - I Marks: [27 1
 
-a) Uses of Scope resolution operator
-b) Manipulators (setw & endl)
+Time: |/~ > 10.00 am To 1.00 p
+Date: 12/06/2012 Duration: 3 hrs. E
 
-c) Inline Function
+Re - Examination
 
-d) Dynamic / late binding
+Instructions: candidates should read carefully the instruction printed on the que!
+the cover of the answer book, which is provide for their use.
 
-e) Destructors
+1. Question No. 1. is compulsory.
 
-Page 2 of 2
+2. Attempt any four out of the remaining questions.
+
+3. Answer to each new question to be started on new page.
+
+4. All questions carry equal marks.
+
+Q.1. a. State the program development life cycle. Explaiz the use of algorithms and flow charts to
+represent program logic with example.
+
+b.Explain Linux file system. State the use of commands Is » pwd, md, cd
+
+Q.2, a. Explain the data types in C with their respective sizes. Define constants and variables with
+examples.
+
+b. Write a program to print the roots of algebraic equation ax” + bx +c=0 where a,b and c are
+—b+vVb*-4ac
+
+coefficients. (hint: root of algebraic equation is given by x = =
+
+). Consider all possible
+conditions.
+
+Q.3 a. State the difference between do and while statements. Write a program to find the sum of digits
+of a given number using while statement.
+
+b. Write a program to print the following pattern
+
+} A
+A B A
+A B Cc B A
+
+Que.4 a. Explain the function and macros. Explain the difference in their execution with example. Give
+advantages of each.
+b. What is recursion? Write a program to print n terms of Fibonacci series ( 0,1,1,2,3,......
+recursion.
+}
+
+Que.S 4. Write a program to arrange the array of integers into ascending order using bubble sort.
+
+‘ ¢ State the syntax of formatted input and output statement. Write a program to print following
+
+table of data on screen for 3 students.
+
+Roll Numb¢ Physics Cheniistry Mathematic: Total
+
+) using
+
+Que.6 a. Explain the term pointer with example. How arrays are passed to functions? What are
+advantages of using pointers.
+b. Write a program to compute the transpose of given matrix of size (m x m).
+Que.7 a. Write a program to design a arithmetic calculator to perform addition, substraction,
+multiplication and division operations according to users choice. Use Switch Case statement.
+b. Give the various type of operators in C. Give the precedence of operators.
+
+Hh
 ````
 
 ## 2007-08 · Re-Exam · Trim 2 · paper 8dedeb2d6fb7
@@ -4610,334 +4940,4 @@ d) Scope resolution operator
 e) this pointer
 
 ——— KO
-````
-
-## Year not stated · Exam not stated · Trim 2 · paper eddcac9b895b
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING II B TECH (ALL STREAMS), BATCH 10-10001.pdf`
-- Printed on paper: max marks: 100; exam date: 23/06/2015
-- Text: ocr (2 pages), mean OCR confidence 94.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: | Trimester: II
-Batch: 2010-11, 2011-12, 2012-13
-Academic Year: 2014-2015
-
-Subject: Computer Programming — II
-
-Marks: 100 be
-Date: 23/06/2015 Time: 1 -QO/am to 1.00pm ‘a
-
-Durations: 3 (AEs)
-
-we
-Re-Examination NN +
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-NB:
-
-1. QnestionNo.1 is compulsory.
-
-2. Attempt any four out of remaining six questions.
-
-3. In all 5 questions to be attempted
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on NEW PAGE.
-
-6. Figures in parenthesis on the right hand side indicate full marks.
-
-7. Draw figures wherever necessary.
-
-Q.1
-a) Explain Basic Data types in C++ with suitable diagram. 05
-b) Explain implicit conversion with suitable diagram. 05
-c) Explain inline function with suitable program. 05
-d) Explain different types of polymorphism with suitable diagram. 05
-Q.2
-a) Imagine a publishing company that markets both book and audiocassette versions of its 10
-works. Create a class publication that stores the title (a string) and price (type float)
-‘of a publication. From this class derive two classes: book, which adds a page count (type
-int), and tape, which adds a playing time in minutes (type float). Each of these three
-classes should have a getdata() function to get its data from the user at the keyboard,
-and a putdata() function to display its data.
-Write a main() program to test the book and tape classes by creating instances of them,
-asking the user to fill in data with getdata(), and then displaying the data with putdata().
-b) Explain copy constructor with suitable program. 10
-Q.3 a) Write a program to implement the concept of run time polymorphism. 10
-b) Write a program to demonstrate working with single file in C++ which uses single file 10
-named “ITEM” for both writing and reading the data.
-Q.4
-a) Explain static data member function with suitable program 10
-b) Create a class called time that has separate int member data for hours, minutes, and 10
-
-seconds. One constructor should initialize this data to 0, and another should initialize it
-to fixed values.
-
-Another member function should display. it, in 11:59:59 format. The final
-member function should add two objects of type time passed as arguments.
-
-t/a
---- page 2 ---
-Q.5
-
-Q.6
-
-Q.7
-
-b)
-
-a)
-b)
-
-A main() program should create two initialized time objects (should be const) and
-
-one that isn’t initialized. Then it should add the two initialized values together, leaving the
-result in the third time variable. Finally it should display the value of this third variable.
-Make appropriate member functions const.
-
-Write a program to implement the concept of constructor overloading in C++.
-Write a program using write() function in string header file to get following output
-
-Explain hybrid inheritance with suitable program.
-Write the Rules for overloading operators in C++.
-
-Write a note on:
-
-Function Templates
-
-Friend function
-
-Constructor function characteristics
-
-Linker
-
-10
-10
-
-10
-10
-
-05
-05
-05
-
-05
-````
-
-## Year not stated · Exam not stated · Trim 2 · paper 4acb6261f412
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/COMPUTER PROGRAMMING- I B TECH (ALL STREAMS), BATCH 20100001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16/12/2014
-- Text: ocr (2 pages), mean OCR confidence 90.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Trimester: II
-Batch: 2010- 11, 2011-12, 2012-13
-Academic Year: 2014-2015
-Subject: Computer Programming - II
-Marks: 100
-Date: 16/12/2014 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-
-Re-Examination
-
-Ag Pe Reay
-Note (Sf ue
-e Question No.1 is compulsory. { =( MPSETRE ;
-e Attempt any four out of remaining six. i \ BC LIBRARY
-e Assumptions made should be clearly stated. , aan ‘sg
-e Answer to each new question to be started on fresh page. ROT amnvens™
-e Figures on right side indicate full marks. a
-
-e Illustrate answer with sketches wherever required.
-
-Q.1)
-a) Explain five basic principles of Object Oriented Programming [10]
-b) Explain call by value and call by reference with an example [10]
-Q.2)
-a) Explain class to basic type casting with suitable example. [10]
-b) Write the program that uses inline function for converting pounds to kilograms. [10]
-(1 pound = 0.453592 kgs.)
-Also state the advantages and disadvantages of using inline function.
-Q.3)
-a) WAP in C++ to find average of two numbers that belong to two different classes (10)
-using Friend Function.
-b) Explain static data members & static member functions. [10}
-Q.4)
-a) What is inheritance 7 Explain different forms of inheritance. [10]
-b) Write a program to create class Bank with data members name of customer, [10]
-account number, and initial balance. Write member functions to read data of customer,
-to withdraw an amount from the account and to deposit an amount to account. Display the
-information after every transaction.
-Q.5)
-a) Explain virtual function and pure virtual function giving program example [10]
-b) WAP for finding the area of triangle, rectangle and circle using function overloading. [10]
-
-Vig.
---- page 2 ---
-Q.6)
-
-a) What is operator overloading ? Write a suitable program to demonstrate the {10]
-overloading of + operator.
-
-b) Explain Copy constructor with an example. [10]
-Q.7)
-
-Write short note on the following (any four) [20]
-
-1. Virtual function
-
-2:. Template class
-
-3: File Handling
-
-4. Constructor and Destructor
-
-5. Manipulator
-
-x
-````
-
-## Year not stated · Exam not stated · Trim 2 · paper 09495994e03c
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/COMPUTER PROGRAMMING II/scan0003(3).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/09/2012
-- Text: ocr (3 pages), mean OCR confidence 91.6
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-Programme: B.Tech (ALL STREAMS) Year: I Trimester: _ II
-Academic Year : 2011-2012
-
-Batch: 2010-2011
-| Subject: Computer Programming-II Marks: 100
-Time: 11.00 am To 2.00 pm
-Date: 12/09/2012 Duration: 3 hrs. °
-
-Special Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No 1 is compulsory.
-2. Out of remaining questions attempt any 4 questions.
-3. In all 5 questions to be attempted.
-, 4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-1. (a) What will be the output of the following programmes? 10
-
-(i) #include<iostream.h>
-void main( )
-ae
-é int i=1 ,j=1;
-"yy for)
-{
-if(i>3)break;
-else j+=i;
-cout <j < <endl;
-i+;
-}
-}
-
-Vs,
---- page 2 ---
-(2) #include<iostream.h>
-void main( )
-
-{
-
-int k=3, l=4, m;
-
-m=++k + I--;
-
-cout<"Value of m"«m«endl;
-m=k++ + --1;
-
-cout<<"Value of m"«m«endl;
-
-}
-
-(b) What do mean by dynamic initialization of variables? How it is achieved? Give 5
-an example.
-
-(c) In what order are the class constructors are called when a derived class object is 5
-
-created
-2 (a) Write a program to generate the following pattern: 10
-*
-* *
-* * *
-
-Take number of rows from user.
-
-(b) Write a program to create two base classes Bl and B2, each of which is 10
-publically inherited by derived class D. Use parameterized constructor and a
-destructor function in each class and demonstrate the order of execution of
-constructors. 7
-
-3 (a) Write a program to accept a set of 10 numbers and print the numbers using 10
-| pointers
-
-ria What is friend function? Write a program to demonstrate how a common friend 10
-function can be used to exchange the private values of two classes (Use call by
-reference method)
-
-4 (a) Write a program to find the average of elements ofa single dimensional array 10
-(b) What is hybrid inheritance? What are the problems in it? How it is resolved? 10
-Give one programming example
-5 (a) What is function overloading? Overload function add to add two float, two 10
-integer number.
-
-2s
---- page 3 ---
-(b)
-(a)
-(b)
-(c)
-(a)
-
-(b)
-
-What is operator overloading? Create a class Float that contains float data
-member. Overload operator +,-,*,/ on the object of Float
-Write a program to concat two strings using user defined function.
-
-Explain built-in data type in C++.
-What is recursion? While writing recursive function what things must be taken care of?
-
-Define structure called cricket with members players name,country name, best
-
-score and batting average. Write a programme to read ‘N’ records and display the
-same.
-
-Explain runtime and compile time polymorphism with example.
-
-10
-
-10
-
-10
-
-10
 ````

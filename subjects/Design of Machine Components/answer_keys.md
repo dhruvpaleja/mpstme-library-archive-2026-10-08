@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Mechatronics_7004/Design of Machine Components/ANS_Design of Machine Components(702MH0E003)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (8 pages), mean OCR confidence 83.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -123,7 +124,6 @@ L=1=85 mm Ans.
 We know that the power transmitted,
 Tx2nN _ 800x 2nx 350
 
-p= —XETE _ SEAET ASE = 29 325 W = 29.325 kW Ans.
 60 60 2.5
 
 marks for each step
@@ -294,6 +294,7 @@ for a given power requirement.
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_Mechatronics_7004/Design of Machine Components/ANS_Design of Machine Components(702MH0E003)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (8 pages), mean OCR confidence 78.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -392,7 +393,6 @@ Tv 3 Tv 3
 6 - —xo, x d° =—x116.7xd = p
 6.72 x 10! 32 *% 32 11.46 d®
 
-d® = 6.72 x 10°/ 11.46 = 0.586 x 10° or d= 83.7 mm
 
 Taking the larger of the two values, we have
 d = 86 say 90 mm Ans.

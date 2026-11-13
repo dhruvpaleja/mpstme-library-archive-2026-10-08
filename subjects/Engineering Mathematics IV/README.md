@@ -1,6 +1,6 @@
 # Engineering Mathematics IV
 
-**40** unique papers (123 copies across programmes) · 2010-11 to 2022-23 · 12 programmes · Sem 4, Sem 6
+**39** unique papers (122 copies across programmes) · 2010-11 to 2022-23 · 12 programmes · Sem 4, Sem 6
 
 Download only this subject, sorted by academic year:
 
@@ -52,7 +52,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2013-14 | Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER, B TECH / I T, B TECH / MECHANICAL | ENGINEERING MATHEMATICS IV B TECH COMPUTER BATCH 2013-14 RE EXAM.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 4 | B TECH / MECHATRONICS | ENGINEERING MATHEMATICS IV BATCH 2013-14 RE EXAM.pdf |
 | 2012-13 | Re-Exam | Question paper | Sem 4 | B TECH / I T | Applied Mathematics IV 2012-13 Re Exam(1).pdf |
-| 2012-13 | Re-Exam | Question paper | Sem 4 | B TECH / I T | Applied Mathematics- IV B Tech 2012-2013 Re Exam.pdf |
 | 2010-11 | Re-Exam | Question paper | Sem 4 | B TECH / I T | Applied Mathematics IV 2007-8,2008-9,10-11,1-12 Re Exam(1).pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

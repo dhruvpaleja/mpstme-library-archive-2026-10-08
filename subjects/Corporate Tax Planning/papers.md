@@ -10,15 +10,14 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/CORPORATE TAX PLANNING/2009-2010(140).pdf`
 - Text: ocr (3 pages), mean OCR confidence 85.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _ SVKM's NMINS .
 NUKESH PATEL Schon OF TECHNOLOGY MANAG EENOTOS BH AEN 6.6
 Mon (TECH) Ve year, Trimester XIV (pogi= 2010) 2
 J ' . / Sl, STM ay
-Subyect: (ox porate “Tao Marnedeg af 41 2OCRMAE J704
 . 2” IS 4,
-Morus: SO 2 Hes (ivetoe fA opin
 
 eH Mi ie unee®
 

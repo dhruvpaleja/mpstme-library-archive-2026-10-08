@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/MODERN WEB APPLICATIONS/Modern Web Applications, Final Exam 2024-25 & Re Exam 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 87.8
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -161,17 +162,8 @@ This is a template for a simple marketing or informational website. It includes 
 tout called a jumbotron and three supporting pieces of content,
 
 Heading Heading Heading
-Done id eit non mi porta gravida at eget Donec i eit non mi porta gravis at eget Donee
-metus. Fusce dapibus, telus ac cursus metus, Fusce dapibus, telus ac ¢
-commodo, tortor mauris condimentum nibh ut
 
-sed odio dui. Cras justo odio, dapibus ac
-facilisis in, egostas eget quam. Vestibulum id
 
-‘commode, tortor mauris condimentum nibh, ut ligula porta felis euismod semper, Fusce
-fermentum massa justo sit amet cisus. Etiam fermentum massa justo sit amet risus. Etiam dapibus, tellus ac cursus commado, tortor
-porta sem malesuada magna mollis euismod. porta sem malesuada magna molt euismod. mauris condimentum nibh, ut fermentum massa
-Dones sed odio dul Donee sed odio dui
 
 to sit amet risus.
 
@@ -180,7 +172,7 @@ Le oot s
 crate
 ````
 
-## 2021-22 · Final + Re-Exam · Sem 6 · paper 2691a427f541
+## 2023-24 · Final + Re-Exam · Sem 6 · paper 2691a427f541
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -346,6 +338,7 @@ are free to choose the content to be placed in each column
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/MODERN WEB APPLICATIONS/B Tech, CSBS, Modern Web Application, 3rd Year, Sem-VI, Final Exam, Year 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
 - Text: ocr (2 pages), mean OCR confidence 89.6
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS .
@@ -450,15 +443,9 @@ unit and three supporting pieces of content. Use it as a starting point to creat
 
 Heading Heading Heading
 
-Donec id elit non mi porta gravida at eget Donec id elit non mi porta gravida at eget Donec sed odio dui. Cras justo odio, dapibus |
-metus. Fusce dapibus, tellus ac cursus metus. Fusce dapibus, tellus ac cursus ac facilisis in, egestas eget quam. Vestibulum
-commodo, tortor mauris condimentum nibh, ut commode, tortor mauris condimentum nibh, ut _id ligula porta felis euismod semper. Fusce
 
-fermentum massa justo sit amet risus. Etiam fermentum massa justo sit amet risus. Etiam dapibus, tellus ac cursus commodo, tortor
 
-porta sem malesuada magna mollis euismod. porta sem malesuada magna mollis euismod. mauris condimentum nibh, ut fermentum
 
-Donec sed odio dui, Donec sed odio dui, massa justo sit amet risus.
 
 View detaits » View details « View details »
 

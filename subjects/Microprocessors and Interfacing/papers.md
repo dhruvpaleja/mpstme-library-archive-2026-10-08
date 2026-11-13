@@ -336,6 +336,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MICROPROCESSORS AND INTERFACING/MICROPROCESSORS AND INTERFACING B TECH 16-17 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 16 May 2017
 - Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -391,7 +392,6 @@ map. Draw a neat schematic for chip selection logic.
 
 Q.4 (A) Draw and Explain interfacing of DAC 0808 with 8086 using 8255. (08)
 ~ (B) Explain the following 8086 instructions. : (06)
-a)LEA b)STC c)CBW d)MUL e)LODSB f)CLD
 
 Q.5 (A) Draw & Explain Functional block diagram of Programmable Peripheral (08)
 Interface 8255.

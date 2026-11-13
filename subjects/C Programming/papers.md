@@ -364,515 +364,7 @@ SO-2; , WAP in c to swap two values using Call by reference
 BL-3 _|
 ````
 
-## 2011-12 · Exam not stated · Trim 1 · paper 9bd70321fbe9
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/C PROGRAMMIMG 2011-2012.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 31/10/2011
-- Text: ocr (2 pages), mean OCR confidence 85.8
-
-````text
-a temas Snr is aa
-
-— - SVKM’s NMIMS \
-Mukesh Patel School Of Technolo \* \\
-Programme: MCA Year: Trimester: Toff 0( ium vaversity ) jl
-Academic Year : 2011-2012 (| (   usaany” = all
-4 /
-Subject: 'C' PROGRAMMING Marks: 100 %, ae
-. Gp 4
-Time: 10.00 am T61-00. pen
-Date: 31/10/2011 a Te Re
-
-Duration: 3 hrs.
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Cover of the Answer Book, which is provided for their use.
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions. In all 5 questions to be attempted.
-3. All questions carry equal marks.
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicates full marks.
-
-Q.1(a) Attempt the following (any 6) [12]
-
-1. Evaluate the expression with initial values (int a=5, b=-5,e ; char c=’2’; Ascii
-equivalent of ‘0’ is 48) for each questions 1 to 3. (show steps)
-Find e = a-7%b*(at=2)+b++;
-2. Find e = a>=--b&&(a+=2)|/b
-3. printf(“Yod %od %d\n”,-a= =(b*¥=2), btat+, c-=48);
-4. static int array[2][3]={{10,20,30},{11,22,33}}; (base address of array is 170).
-Explain what is the meaning of following.
-(i) *(array+1) (ii) (*(array+1)+2)
-5. Explain the use of break and continue.
-6. Explain #define preprocessor with example
-7. Explain any 2 bitwise operators with example.
-
-Ql (b) Write the output of the following codes. (Show steps) [08]
-1) void fun(int*, int*); 2)main( ){ int j,i;
-re matn() for(j=2,i=3;<=8;i4+=2)
-int i=5, j=2; {
-fun(&i, &j); ere
-printf("%d, %d", i, j) ity-=5)
-return 0; continue;
-dy wai.
-\ | vpid fun(int *i, int *}) su
-(i= #4; }
-37") printf("%d %d".i,j): }
-3) mainQ{ - 4) main( )
-int i=4, j=-1, k=0, w, x, y, Z; {
-w=illjllks int a[2][3]={11,22,33,44,55,66};
-x=1 && j &&k; int ij;
-y=il|j &&k; for(i=0;i<2;i++)
-Z=i &&j || k; forG=1j>=05--)
-printf("%d, Yd, %d, Yd\n", w, x, y, Z)5 printf(“%d\n”,*(*(atj)+i)):
-} }
-
--1/2-
---- page 2 ---
-Q.2 (a) Draw flowchart to read a numbers and find sum of its digits. [05]
-
-Q.2(b) Write a menu driven program to find (i) number is Prime or not (ii) number is [08]
-Armstrong or not.
-
-Q.2(c) Explain if else decision statement with all its variations. [07]
-
-Q.3 (a) Distinguish between the following {05]
-1. Macro and function
-2. Automatic and Static variable
-
-Q.3(b) Explain with example different ways in which parameters are passed to function. [08]
-
-Q.3(c) Write a program to generate Fibonacci series 1,1,2,3,5...till n where n is inputted [07]
-number using recursion function.
-
-Q. 4(a) Distinguish between the following [05]
-1. Structure and Array
-2. While and do while
-
-Q.4(b) Define a structure called store that will describe the following information: item [10]
-Code, Name, unit price, quantity. Using store, declare an array product with 10
-elements and write a program to read the information about all the 10 products and
-using function print the details of all the products for which quantity is greater than
-100 and unit price is more than 1000 rupees.
-
-Q. 4 (ce) Explain with example different ways in which structure data member are accessed. [05]
-
-Q.5(a) Explain why use of array of pointers is more efficient for character array. Distinguish [10]
-i between character array and integer array
-
-Q.5(b) Write a program to perform addition and multiplication of two matrices. Dimension _[10]
-of matrix should be inputted by user.
-
-Q.6(a) Explain any 5 file handling functions with syntax/ example. [10]
-Q.6(b) Write a program using pointer to sort an integer array of 10 elements. [07]
-Q. 6 (ce) bia is union and compare it with structure [03]
-
-Q.7, Explain following concepts with examples (any 4 ) [20]
-
-1. Nested loops
-,2. Function that returns multiple values
-3. Dynamic memory allocation
-4. Command line argument
-5. Formatted and unformatted input output functions.
-
--2/2-
-````
-
-## 2011-12 · Re-Exam · Trim 1 · paper 48070b61799e
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/C PROGRAMMING BATCH 2011-12 RE EXAM0001(1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 11/06/2012
-- Text: ocr (2 pages), mean OCR confidence 87.7
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MCA Year: I Trimester: I
-Academic Year : 2011-2012
-Batch: 2011-12 ;
-Subject: C' Programming : Marks:
-Time
-Date: 11/06/2012 Durati
-
-Q.1 (a)
-
-Re - Examination
-
-” Cover of the Answer Book, which is provided for their use.
-1. Question No. 1 is compulsory. Z
-2. Out of remaining questions, attempt any 4 questions. In all 5 questions to be attempted.
-3. All questions carry equal marks.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figure in brackets indicates full marks.
-
-Attempt the following (any 6) [12]
-
-Evaluate the expression with initial values (int a=3, b=-4,e ; char c=’3’; Ascii
-equivalent of ‘0’ is 48) for each questions 1 to 3. (show steps)
-
-Find e=a-7%b+(a*=2)t+b++;
-Find e = a<=—-b&&(at=2)||b;
-printf(“%d %d %d\n”,-a! =(b+=2), atb-++, c-=48);
-static int array[2][3]={{10,20,30},{11,22,33}}; (base address of array is 170).
-Explain what is the meaning of following.
-
-(i) *(@rray+1) (ii) (*(array+1)+2)
-
-Explain the sizeof and conditional operators
-Explain what is pointer variable
-Explain use of goto statement.
-
-Write the output of the following codes. (Show steps) [08]
-1) void fun(int*, int); 2)main( ){
-int mainQ int x=2, y=0,z;
-{ ‘e(x>=0
-int i=5, j=2; wns)
-fun(&i, j); { x5
-printf("%d, %d, i i) ye
-return 0;
-} if™==y) continue;
-void fun(int *i, int j)
-{ ¥*j = se ie else
-ji} printf(“%d, %d, ”,x,y);} }
-3) What will be the values of al and a2 after | 4) main()
-execution? ; { .
-main( ) int a[3][2]={11,22,33,44,55,66};
-{ int i,j;
-int al, a2,c=3,*pt; for(i=05i<3 5144)
-pt-&c; for(j=1,j>=0;j--)
-al=3*(c+5); printf(“%d\n”,*(*(atj)+));
-
-a2=3*(*ptt5); } }
-
--1/2-
---- page 2 ---
-Q.2 (a) Draw an algorithm to read a numbers and find sum of its digits. [05] ‘
-
-Q.2(b) Write a menu driven program to find (i) number is even or odd (ii) number is [08]
-
-Armstrong or not.
-Q.2(c) Explain any two looping statements. [07]
-Q.3 (a) Distinguish between the following [05]
-
-1. Structure and Union
-2. Automatic and Global variable
-
-Q. 3 (b) Explain with example use of function. List the merits of using it. [07}
-
-Q.3(©) Write a program to calculate S using S=x + x7/2! + x°/3! +....x"sn! where n is [08]
-inputted number (use recursion).
-
-Q. 4(a) Distinguish between the following [05]
-1. Static and Dynamic memory allocation
-2. Ifelse and switch case
-
-Q.4(b) Define a structure called Teacher that will describe the following information: [10]
-Code, Name, Teaching average, department. Using Teacher, declare an array tech
-with 10 elements and write a program to read the information about all the 10
-teachers and using function find the detail of teacher who belongs to computer
-department and has highest teaching average.
-
-Q.4(c) Explain static variable with example. [05]
-Q.5(a) Explain pointer and arrays in detail with example. [10]
-
-2. 5(b) Write a program to perform multiplication of two matrices and find Transpose of [10]
-matrix. Dimension of matrix should be inputted by user.
-
-Q.6 (a) Explain any 5 file handling functions with syntax/ example. [10]
-
-Q.6(b) Write a program using pointers, which includes a function that receives a character [07]
-string and a character as argumenit and deletes all occurrences of this character in the
-string. The function should return the corrected/new string with no spaces/holes.
-
-Q.6(g) Explain Formatted and unformatted input functions. . [03]
-
-y 7 Explain following concepts with examples (any 4) [20]
-
-1. Nested functions.
-2. Function with argument and return type.
-3. Call by reference ,
-
-4. Command line argument
-5. Pointer and Structure
-
--2/2-
-````
-
-## 2011-12 · Re-Exam · Trim 1 · paper be1ff18db1cc
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/C PROGRAMMING I MCA 2010-11, 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/6/2013
-- Text: text (1 page)
-
-````text
-.
-SVKM's NMIMS   ..
-Mukesh Pate1
-Programme: MCA
-Academic Year :2012-2013
-Batch:   2010-2011, 201 1-12
-Subject:   'C' Programming   Marks:   100
-Time:   10.00 a m To 1.00pm
-Date:   10/6/2013   Duration: 3 hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Cover of the Answer Book, which is provided for their use.
-NB:   I. Attempt any 5 questions.
-2. All questions carry equal marks.
-3. Answer to each new question to be started on a fresh page.
-4. Figure in brackets indicates full marks.
-5. Give examples wherever required.
-Q. 1 (a) Explain various symbols of flowchart and draw flowchart to read a number and find its   [lo]
-factorial.
-Q. 1 (b) List types of operators in C, explain any 2 with example.
-Q. 2 (a) Write a menu driven program to perform following (i)to find number is even or odd   [lo1
-(ii) to find the sum of digit of Number.
-Q. 2 (b) List looping statements in C and explain any two with example.
-Q. 3 (a) Explain call by value and call by reference with example.   [lo]
-Q. 3 (b) Write a program to read 10 numbers using arrayand sort it in ascending order.   1101
-1
-Q. 4 (a) Explain recursion with example.   1101
-Q. 4 (b)   ' Explain decision statements with example.
-Q. 5 (a) Explain function with example.   &
-Q. 5 (b) Explain 2 dimensional arrays with example.
-Q. 6 (a) Write a program that defines a structure student which stores roll no, name and marks   [lo]
-for 3 subjects, function to read a value and function to print the values. Distinguish
-between structure and union.
-Q. 6 (b) What ispointer? Explain it with example.
-Q. 7 (a) Explain command line arguments with example.   [lo]
-Q. 7 (b) Write a program to copy the content of one file to order file using file handling   [lo]
-functions.
-````
-
-## 2010-11 · Exam not stated · Trim 1 · paper bb7f8827d5eb
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/C PROGRAMMING BATCH 2010-110001(1).pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3; exam date: 11/06/2012
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-ae
-
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MCA Year: I Trimester: I ZS
-Academic Year : 2011-2012 Lo.
-_ Batch: 2010-11 ; fh .
-Subject: C' Programming Marks: // 100 * \
-Time: 10.00 am To 1.00 p
-Date: 11/06/2012 Duration: ‘3 hrs. :
-
-Re - Examination
-
-Instructions: candidates should read carefully the instruction printed on the que
-the cover of the answer book, which is provide for their use.
-1. Question No. 1. is compulsory.
-2. Attempt any four out of the remaining questions.
-3. Answer to each new question to be started on new page.
-4. All questions carry equal marks.
-
-Q.1. a. State the syntax of do —while and while control statements and explain the execution of each.
-State the difference in execution of them. Write a program to find the sum of the digits of a given
-number using any of these two.
-
-b. Explain the data types in C. What are storage classes? Give suitable examples.
-
-Q.2. a. What are unconditional jump statements? Explain with examples working of each.
-b. Explain if-else statement and write a program to print the roots of algebraic equation ax’ +
-bx +c=0 where a,b and c are coefficients. (Hint: root of algebraic equation is given by
-
-~b+Vb2—
-= ees ). Consider all possible conditions.
-
-Q.3 a. Write a program to find the sine value of x given in radians using the sine series.
-xs
-
-3
-(Hint. sina) =1-—x+ - ~ ae
-
-b. Write a program to print the following pattern
-
-} A
-B A B
-Cc B A B Cc
-D Cc B A B Cc D
-Q.4 a. Whatis recursion? Write a program to print n terms of Fibonacci series ( 0,1,1,2,3, n terms)
-using recursion.
-
-b. Explain switch — case statement. Write a program to design a arithmetic calculator to perform
-Ppddition, subtraction, multiplication and division operations according to users choice. Use switch -
-\ ‘ease statement.
-dy
-Q.5 ¢ a. Write a program to store the 10 records of students in a array of structure. The data members
-are rollno, phy, chem. maths and total. Arrange the array as merit list(Descending order) based on
-total marks and print as
-
-Roll Number Physics Chemistry Mathematics Total
-
-b. Write a function which accepts the array of n integers from main function and sorts this in
-ascending order. Show main program which:calls this function and print the results.
-
-Yo
---- page 2 ---
-Q. 6
-
-Q.7
-
-a. Explain the term pointer with example. What are advantages of using pointers? Explain with
-example array of pointers, pointers to functions and character pointers.
-b. Write a program to find if the given string S1 exists in the another given string S2.
-
-a. Explain the types of files in C. Write a program to accept as command line arguments the names
-of two files. Copy the contents of first file into another.
-b. Explain the different types of operators in C. Give their precedence.
-````
-
-## 2010-11 · Exam not stated · Trim 1 · paper 0da8662ee93e
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/c programming 2010-2011.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2010
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-—=
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MCA Year: I Trimester: I
-Academic Year : 2010-2011
-
-Batch: 2010-2011
-Subject: C' PROGRAMMING Marks: 100
-
-Time: 10.00am To 1.00pm
-Date: 26/10/2010 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-
-Cover of the Answer Book, which is provided for their use.
-NB: 1. Question No. | is compulsory.
-
-2. Out of remaining 6 questions, attempt any 4 questions. In all attempt 5 questions.
-3. All questions carry equal marks.
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicates full marks.
-6. Give examples wherever required.
-
-Q. 1 (a) Attempt the following. (Any 5) [10]
-
-1. What will happen if break and continue is used in loop? Explain.
-2. Explain with syntax two different ways to read array of character.
-3. Explain the uses of preprocessor directive #define.
-4. Explain the use of sizeof operator and conditional operator.
-5. Evaluate the expression with initial values (int a=5, b=-5,e ;)(show steps).
-Find e =a-7%b*(at=2)+bH; :
-a.a=4, b=-4, e=-9 b. a= 7, b= -4 e=-7 c. a=7,b=-4,e=-12. d. a=7, b=-4,e= 12
-
-6. static int array[2][3]={{20,30,40}, {11,22,33}}; (base address of array is 170). Explain what is the
-meening of following.
-
-(i) *(array+1) (ii) (*(array+1)+1)
-Q. 1 (b) Write the output of the following codes. (Show steps) [10]
-i) int Lx; ii) void func(int *i,int *j) iii) int a[2][3]={1,2,3,4,5,6};
-
-for(i=1,x == -8;i<8;i+=3) { *i=*i;   *j+=*j; } int ij;
-
-while(x<i) void main( ) for(i=0;i<2;i++)
-
-printi(“Yod “,i+x++); { inti=-5,j =-6; for(j=1;j>=0;j--)
-
-func(&i,&j); printf(“Yod\n”,*(*(atj)+i));
-: printfi(“%od %d\n”,i,j);_ }
-iv) int funct(int n) v) int ij,x=0;
-
-{ if(n>0) return(n* funct(n-2)); clrscr();
-} for(i=0;i<5;++i)
-
-void main( ) {
-{ int n=3; for(j=0;j<i;++j)
-
-printf(“%d “,funct(n)); } xt+=(i4j-1);
-~ printf("%d ",x);
-break;
-}
-Li printf("\nx=%d",x);
-Q. 2 (a) Distinguish between the following [06]
-1. For and do-while 2. Array and Structure
-
-Be
---- page 2 ---
-)
-y
-
-Q. 2 (b) Explain decision statement if- else if-else with example [06]
-
-Q. 2 (c) Write a menu driven program to perform following (i) to print Fibonacci series 0,1,1,2,3,5,8
-till n, where n is the inputted number of terms.(ii) to print factorial of number from 1 till n,
-
-where n is the inputted number. [08]
-. Q. 3 (a) Distinguish between the following. [06]
-1. Macro and User defined function 2. Array of Pointer and Pointer to Array
-
-Q. 3 (b) Write a program to print the following output
-1
-
-12
-1234
-123456 Z [06]
-Q. 3 (c) Write a program to sort an array of 10 numbers using function. [03]
-Q. 4 (a) Explain how the use of pointer reflects the permanent change in value of variable with
-example. [06]
-Q. 4 (b) Explain Recursion with example [06]
-Q. 4 (c) Write a program to read a character from user and delete all the occurrence of character from
-array of character inputted by user. [08}
-Q. 5 (a) Explain the following with example [10]
-
-1. Nesting of functions
-2. Function that return multiple values
-
-Q. 5 (b) Define a structure called book that will describe the following information: Code, Title, Author
-Price. Using book, declare an array BK with 10 elements and write a program to read the
-information about all the 10 books and it should have function to find the details of book with
-highest price. {10}
-
-Q. 6 (a) Write a program to copy the content of one file to another using command line argument [06]
-
-Q. 6 (b) Write a note on various storage classes in C. [06]
-Q. 6 (c) Write a program to perform addition of n by m matrix where n and m are order of
-
-matrix. ; [08]
-Q. 7 (a) Explain the following with example : [10]
-
-1. Pointer as function argument
-2. Function returning pointer
-
-Q. 7 (b) Explain any 5 file handling functions with syntax. [10]
-
-ALL THE BEST----------
-
-4,
-
-i)
-````
-
-## 2010-11 · Re-Exam · Trim 1 · paper 89737da368ec
+## 2013-14 · Re-Exam · Trim 1 · paper 89737da368ec
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -1010,7 +502,554 @@ x
 x
 ````
 
-## 2010-11 · Re-Exam · Trim 1 · paper 8069f7b765ba
+## 2013-14 · Re-Exam · Trim 1 · paper cf6316adeb8d
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/C PROGRAMMING0001 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+SVKM’s numa"
+_/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & NGINEERING
+
+Programme:MCA Year: I
+
+Academic Year: 2013-14
+
+Subject : C' Programming
+
+; Marks: 100
+Date :10/12/2013. Time : 10.00 am to 1.00 pm
+Durations:3 (hrs)
+
+Re-Examination
+
+Note:
+
+¢ Question No.1 is compulsory.
+
+° Attempt any four out of remaining six.
+
+e Assumptions made should be clearly stated.
+
+e Answer to each new question to be started on fresh page.
+
+e Figures on right side indicate full marks.
+
+e Illustrate answer with sketches wherever required.
+
+e Every program needs to be preceded by flow chart.
+
+Q.1(a) | State the difference between below(any three): (10)
+1. Compiler and Interpreter . :
+2. While and Do-While Statements
+3. Automatic Storage class and Static Storage class
+4. Library functions and User defined functions
+
+Q.1(b) | What would be the output of the following program? (10)
+
+1. void main() 2. void main()
+
+{ int fu(int); { inti =4, j=-1,k=0,w,x,y,z;
+int m=1; wei || j || k&
+m=fu(m=fu(m=fu(m))); x= 1&&j &&k;
+printf("M=%d",m); y=i|[j&&k;
+} Z=i18&&j || k;
+int fu(int m) printf(“w=%d,x=%d,y=%d,z=%d",w,x,y,Z);
+{ m++; }
+return(m); }
+
+3. void main() 4. void main)
+
+{ int arr[3]={1,2,3}; { int a[2][2]={{2},{3}};
+clrscrQ); printf("\n%d",a[0][0]);
+printf("\n%d",((*arr+5)- printf("\n%d",a[0][1]);
+
+(*arr+3))); printf("\n%d", such)
+
+} printf("\n%a",a[1]ip;
+
+5. void main()
+{char str[]="RAVI";
+int i=0;
+
+int n;
+
+n=strlen(str);
+
+while(n)
+
+{ n--;
+str[i]=str[n];
+i++; }
+
+printf("%s" str); }
+--- page 2 ---
+Q.2 (a) | Write a program to find the sum of squares of the digits of a number. For example, if | (10)
+the number is 12, then answer should be 12 + 22 = 5. Draw a neat flowchart before
+writing the program code.
+
+Q.2 (b) | Explain the concept of recursion with an example. (10)
+
+Q.3 (a) | Four different tests are given to a class of ten students. The test data is arranged so | (10)
+that each student’s Id is followed by the student’s score in the four tests. Write a
+program that calculates the average score of every student and the class average
+over all tests. Draw a’neat flowchart before writing the program code.
+
+Q.3 (b) | Explain structures within structures with proper example. (5)
+Q.3(c) | Explain the concept of pointers and its use in programming. (5)°
+Q.4(a) | Explain break and continue with suitable example. ; (5)
+Q.4 (b) | Explain the logical operators in C with examples (5)
+
+Q.4(c) | Write a program using functions to concatenate two strings and to compare two } (10)
+strings. (Write your own logic, do not use in built functions). Draw a neat flowchart
+before writing the program code.
+
+Q.5(a) | Explain types of files in C. (5)
+
+Q.5(b) | Explain the switch-case structure and its use with an example (5)
+
+Q.5(c) | Define a structure that includes the name, address, room charges and number of | (10)
+rooms. Write a program to print details of hotels with room charges less than a
+given value. (Value provided by user).
+
+Q.6(a) | Explain the relational operators in C with their precedence and associatively. (5)
+
+Q. 6(b) | Explain the mechanism for passing array elements and entire array to functions. (5) |
+
+Q.6fc) | Write a program to input integers and sort them. Use a menu system to determine | (10)
+whether the sort should be ascending or descending order. The process should
+continue till the user desires to exit. Draw a neat flowchart before writing the
+program code.
+
+Q.7(a) | Write short notes on below with example: (any One) (19)
+a. String handling functions
+b. Call by value and call by reference mechanism
+
+Q.7(b) | Write a program to find that the numbers N ( entered by the user )is prime | (10)
+numbers or not a prime number . Draw a neat flowchart before writing the ;
+program code
+
+2)2-
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper 7222cb82e2b6
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/scan0010(14).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+gnieh SCH09)
+SVKM’s NMIMS Or
+
+Mukesh Patel School of Technology Management & Engine
+
+SVKm's
+
+NMIMS bniversix \*
+
+Programme: MCA Year: I Trimester: I Mumbai = 56, . de
+Academic Year : 2012-2013 umrany J
+Batch: 2010-11 /20 11-12.
+Subject: C' PROGRAMMING Marks: 100
+. Time: 10.00 a.m
+Date: 26/10/2012 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Cover of the Answer Book, which is provided for their use.
+1. Question No. | is compulsory.
+2. Out of remaining questions, attempt any 4 questions. In all 5 questions to be attempted.
+3. All questions carry equal marks.
+4, Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicates full marks.
+
+Q.1(a) Attempt the following (any 5) [10]
+1. Identify the errors in the following program
+main( ){
+int num;
+
+printf(‘““Enter a number\n”); scanf(““%f’, &num);
+(num=1 ? printf(“entered number is 1”) ; printf(“ entered number is not 1”));}
+2. Distinguish between break and continue statement.
+3. What is difference between a= ++b and a= b++ explain.
+4. Explain any two functions of stdio.h header file.
+5. Distinguish between while and do-while loop.
+6. Evaluate the expression with initial values (int a=5, b=-5,e ; )
+Find e = at7/b*(a-=2)+b++;
+
+Q.1 (b) Write the output of the following codes. (Show steps) [10]
+1) void main( ) 2) void main( ){
+{ int num=50, *temp, total=0;
+int n1=10, n2,n3; temp=&num;
+n3=n1>=5 ?n2=100:n2=200; *temp=200;
+printf(“\n%d %d”, n2,n3); temp=total; *temp=num;
+} printf(“%d %d %d”, num, *temp,
+total); }
+j 3) void main( ){ 4) void main( )
+\ ‘ static int arr[]={10,11,12,13,14}; { :
+y ) int i,*p; int varl=15,var2=10,p,q;
+p=&arr[4]-4; p=var1>14;
+for(i= 0; i<=4;i+4+){ q=varl>8 && var2= =8;
+printf(“%d”,*p); —- printf(“p=%d q=%d”,p,q);
+ptt; }} }
+5) void main() {
+int i=10;
+i<<=1;
+printf(“Y%d\n”,i);
+}
+
+-1/2-
+--- page 2 ---
+Q.2 (a)
+
+Q.2 (b)
+
+Q.20)
+Q.3 (a)
+
+Q.3 (b)
+
+Q. 4a)
+
+Q. 4 (b)
+
+Q.4 (6)
+Q.5 (a)
+Q.5 (b)
+
+Draw a flowchart for generating prime number between | to n, where n is inputted by
+user.
+
+Write a menu driven program to find (i) number is Armstrong or not (ii) to check
+number is palindrome or not.
+
+Explain Macro with example and how it is different from function.
+
+Explain recursion and write a program to find factorial of inputted number using
+recursion.
+
+Explain the concept of call-by-value and call-by-reference parameters with example
+Distinguish between the following
+
+1. Structure and Array
+
+2. Static and Dynamic memory allocation
+Define a structure called Soccer that will describe the following information: Piayer
+name, Team name, number of goals. Using Soccer, declare an array player with 10
+elements and write a program to read the information about all the 10 players and
+using function find the detail of player who has highest number of goals.
+Explain command line argument with syntax/example
+
+What is pointer? What is its use? Explain array of pointer with example.
+
+Write a program to perform addition of two matrices and find Transpose of matrix.
+Dimension of matrix should be inputted by user.
+
+Explain various data types in C programming.
+
+Explain error handling functions with syntax/example for file management.
+What is union? How it is different from structure?
+
+Explain following concepts with examples (any 4 )
+
+If else statement
+
+Storage class
+
+Bitwise operators
+
+Nested functions
+Function with argument and return type.
+
+‘/
+
+-2/2-
+
+[06]
+
+[08]
+
+[06]
+
+[10]
+
+[10]
+
+[05]
+
+[10]
+
+[05]
+[10]
+
+[10]
+
+[10]
+[07]
+[03]
+
+[20]
+````
+
+## 2012-13 · Re-Exam · Trim 1 · paper be1ff18db1cc
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/C PROGRAMMING I MCA 2010-11, 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/6/2013
+- Text: text (1 page)
+
+````text
+.
+SVKM's NMIMS   ..
+Mukesh Pate1
+Programme: MCA
+Academic Year :2012-2013
+Batch:   2010-2011, 201 1-12
+Subject:   'C' Programming   Marks:   100
+Time:   10.00 a m To 1.00pm
+Date:   10/6/2013   Duration: 3 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Cover of the Answer Book, which is provided for their use.
+NB:   I. Attempt any 5 questions.
+2. All questions carry equal marks.
+3. Answer to each new question to be started on a fresh page.
+4. Figure in brackets indicates full marks.
+5. Give examples wherever required.
+Q. 1 (a) Explain various symbols of flowchart and draw flowchart to read a number and find its   [lo]
+factorial.
+Q. 1 (b) List types of operators in C, explain any 2 with example.
+Q. 2 (a) Write a menu driven program to perform following (i)to find number is even or odd   [lo1
+(ii) to find the sum of digit of Number.
+Q. 2 (b) List looping statements in C and explain any two with example.
+Q. 3 (a) Explain call by value and call by reference with example.   [lo]
+Q. 3 (b) Write a program to read 10 numbers using arrayand sort it in ascending order.   1101
+1
+Q. 4 (a) Explain recursion with example.   1101
+Q. 4 (b)   ' Explain decision statements with example.
+Q. 5 (a) Explain function with example.   &
+Q. 5 (b) Explain 2 dimensional arrays with example.
+Q. 6 (a) Write a program that defines a structure student which stores roll no, name and marks   [lo]
+for 3 subjects, function to read a value and function to print the values. Distinguish
+between structure and union.
+Q. 6 (b) What ispointer? Explain it with example.
+Q. 7 (a) Explain command line arguments with example.   [lo]
+Q. 7 (b) Write a program to copy the content of one file to order file using file handling   [lo]
+functions.
+````
+
+## 2011-12 · Exam not stated · Trim 1 · paper 9bd70321fbe9
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/C PROGRAMMIMG 2011-2012.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 31/10/2011
+- Text: ocr (2 pages), mean OCR confidence 85.8
+
+````text
+a temas Snr is aa
+
+— - SVKM’s NMIMS \
+Mukesh Patel School Of Technolo \* \\
+Programme: MCA Year: Trimester: Toff 0( ium vaversity ) jl
+Academic Year : 2011-2012 (| (   usaany” = all
+4 /
+Subject: 'C' PROGRAMMING Marks: 100 %, ae
+. Gp 4
+Time: 10.00 am T61-00. pen
+Date: 31/10/2011 a Te Re
+
+Duration: 3 hrs.
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Cover of the Answer Book, which is provided for their use.
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions. In all 5 questions to be attempted.
+3. All questions carry equal marks.
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicates full marks.
+
+Q.1(a) Attempt the following (any 6) [12]
+
+1. Evaluate the expression with initial values (int a=5, b=-5,e ; char c=’2’; Ascii
+equivalent of ‘0’ is 48) for each questions 1 to 3. (show steps)
+Find e = a-7%b*(at=2)+b++;
+2. Find e = a>=--b&&(a+=2)|/b
+3. printf(“Yod %od %d\n”,-a= =(b*¥=2), btat+, c-=48);
+4. static int array[2][3]={{10,20,30},{11,22,33}}; (base address of array is 170).
+Explain what is the meaning of following.
+(i) *(array+1) (ii) (*(array+1)+2)
+5. Explain the use of break and continue.
+6. Explain #define preprocessor with example
+7. Explain any 2 bitwise operators with example.
+
+Ql (b) Write the output of the following codes. (Show steps) [08]
+1) void fun(int*, int*); 2)main( ){ int j,i;
+re matn() for(j=2,i=3;<=8;i4+=2)
+int i=5, j=2; {
+fun(&i, &j); ere
+printf("%d, %d", i, j) ity-=5)
+return 0; continue;
+dy wai.
+\ | vpid fun(int *i, int *}) su
+(i= #4; }
+37") printf("%d %d".i,j): }
+3) mainQ{ - 4) main( )
+int i=4, j=-1, k=0, w, x, y, Z; {
+w=illjllks int a[2][3]={11,22,33,44,55,66};
+x=1 && j &&k; int ij;
+y=il|j &&k; for(i=0;i<2;i++)
+Z=i &&j || k; forG=1j>=05--)
+printf("%d, Yd, %d, Yd\n", w, x, y, Z)5 printf(“%d\n”,*(*(atj)+i)):
+} }
+
+-1/2-
+--- page 2 ---
+Q.2 (a) Draw flowchart to read a numbers and find sum of its digits. [05]
+
+Q.2(b) Write a menu driven program to find (i) number is Prime or not (ii) number is [08]
+Armstrong or not.
+
+Q.2(c) Explain if else decision statement with all its variations. [07]
+
+Q.3 (a) Distinguish between the following {05]
+1. Macro and function
+2. Automatic and Static variable
+
+Q.3(b) Explain with example different ways in which parameters are passed to function. [08]
+
+Q.3(c) Write a program to generate Fibonacci series 1,1,2,3,5...till n where n is inputted [07]
+number using recursion function.
+
+Q. 4(a) Distinguish between the following [05]
+1. Structure and Array
+2. While and do while
+
+Q.4(b) Define a structure called store that will describe the following information: item [10]
+Code, Name, unit price, quantity. Using store, declare an array product with 10
+elements and write a program to read the information about all the 10 products and
+using function print the details of all the products for which quantity is greater than
+100 and unit price is more than 1000 rupees.
+
+Q. 4 (ce) Explain with example different ways in which structure data member are accessed. [05]
+
+Q.5(a) Explain why use of array of pointers is more efficient for character array. Distinguish [10]
+i between character array and integer array
+
+Q.5(b) Write a program to perform addition and multiplication of two matrices. Dimension _[10]
+of matrix should be inputted by user.
+
+Q.6(a) Explain any 5 file handling functions with syntax/ example. [10]
+Q.6(b) Write a program using pointer to sort an integer array of 10 elements. [07]
+Q. 6 (ce) bia is union and compare it with structure [03]
+
+Q.7, Explain following concepts with examples (any 4 ) [20]
+
+1. Nested loops
+,2. Function that returns multiple values
+3. Dynamic memory allocation
+4. Command line argument
+5. Formatted and unformatted input output functions.
+
+-2/2-
+````
+
+## 2011-12 · Exam not stated · Trim 1 · paper bb7f8827d5eb
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/C PROGRAMMING BATCH 2010-110001(1).pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 11/06/2012
+- Text: ocr (2 pages), mean OCR confidence 93.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+ae
+
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MCA Year: I Trimester: I ZS
+Academic Year : 2011-2012 Lo.
+_ Batch: 2010-11 ; fh .
+Subject: C' Programming Marks: // 100 * \
+Time: 10.00 am To 1.00 p
+Date: 11/06/2012 Duration: ‘3 hrs. :
+
+Re - Examination
+
+Instructions: candidates should read carefully the instruction printed on the que
+the cover of the answer book, which is provide for their use.
+1. Question No. 1. is compulsory.
+2. Attempt any four out of the remaining questions.
+3. Answer to each new question to be started on new page.
+4. All questions carry equal marks.
+
+Q.1. a. State the syntax of do —while and while control statements and explain the execution of each.
+State the difference in execution of them. Write a program to find the sum of the digits of a given
+number using any of these two.
+
+b. Explain the data types in C. What are storage classes? Give suitable examples.
+
+Q.2. a. What are unconditional jump statements? Explain with examples working of each.
+b. Explain if-else statement and write a program to print the roots of algebraic equation ax’ +
+bx +c=0 where a,b and c are coefficients. (Hint: root of algebraic equation is given by
+
+~b+Vb2—
+= ees ). Consider all possible conditions.
+
+Q.3 a. Write a program to find the sine value of x given in radians using the sine series.
+xs
+
+3
+(Hint. sina) =1-—x+ - ~ ae
+
+b. Write a program to print the following pattern
+
+} A
+B A B
+Cc B A B Cc
+Q.4 a. Whatis recursion? Write a program to print n terms of Fibonacci series ( 0,1,1,2,3, n terms)
+using recursion.
+
+b. Explain switch — case statement. Write a program to design a arithmetic calculator to perform
+Ppddition, subtraction, multiplication and division operations according to users choice. Use switch -
+\ ‘ease statement.
+dy
+Q.5 ¢ a. Write a program to store the 10 records of students in a array of structure. The data members
+are rollno, phy, chem. maths and total. Arrange the array as merit list(Descending order) based on
+total marks and print as
+
+Roll Number Physics Chemistry Mathematics Total
+
+b. Write a function which accepts the array of n integers from main function and sorts this in
+ascending order. Show main program which:calls this function and print the results.
+
+Yo
+--- page 2 ---
+Q. 6
+
+Q.7
+
+a. Explain the term pointer with example. What are advantages of using pointers? Explain with
+example array of pointers, pointers to functions and character pointers.
+b. Write a program to find if the given string S1 exists in the another given string S2.
+
+a. Explain the types of files in C. Write a program to accept as command line arguments the names
+of two files. Copy the contents of first file into another.
+b. Explain the different types of operators in C. Give their precedence.
+````
+
+## 2011-12 · Re-Exam · Trim 1 · paper 8069f7b765ba
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -1119,6 +1158,263 @@ Q. 7 Attempt the on the following (Any 4). [20]
 } 5. Call by reference with example
 
 " AK Ko
+````
+
+## 2011-12 · Re-Exam · Trim 1 · paper 48070b61799e
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/C PROGRAMMING BATCH 2011-12 RE EXAM0001(1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 11/06/2012
+- Text: ocr (2 pages), mean OCR confidence 87.7
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MCA Year: I Trimester: I
+Academic Year : 2011-2012
+Batch: 2011-12 ;
+Subject: C' Programming : Marks:
+Time
+Date: 11/06/2012 Durati
+
+Q.1 (a)
+
+Re - Examination
+
+” Cover of the Answer Book, which is provided for their use.
+1. Question No. 1 is compulsory. Z
+2. Out of remaining questions, attempt any 4 questions. In all 5 questions to be attempted.
+3. All questions carry equal marks.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figure in brackets indicates full marks.
+
+Attempt the following (any 6) [12]
+
+Evaluate the expression with initial values (int a=3, b=-4,e ; char c=’3’; Ascii
+equivalent of ‘0’ is 48) for each questions 1 to 3. (show steps)
+
+Find e=a-7%b+(a*=2)t+b++;
+Find e = a<=—-b&&(at=2)||b;
+printf(“%d %d %d\n”,-a! =(b+=2), atb-++, c-=48);
+static int array[2][3]={{10,20,30},{11,22,33}}; (base address of array is 170).
+Explain what is the meaning of following.
+
+(i) *(@rray+1) (ii) (*(array+1)+2)
+
+Explain the sizeof and conditional operators
+Explain what is pointer variable
+Explain use of goto statement.
+
+Write the output of the following codes. (Show steps) [08]
+1) void fun(int*, int); 2)main( ){
+int mainQ int x=2, y=0,z;
+{ ‘e(x>=0
+int i=5, j=2; wns)
+fun(&i, j); { x5
+printf("%d, %d, i i) ye
+return 0;
+} if™==y) continue;
+void fun(int *i, int j)
+{ ¥*j = se ie else
+ji} printf(“%d, %d, ”,x,y);} }
+3) What will be the values of al and a2 after | 4) main()
+execution? ; { .
+main( ) int a[3][2]={11,22,33,44,55,66};
+{ int i,j;
+int al, a2,c=3,*pt; for(i=05i<3 5144)
+pt-&c; for(j=1,j>=0;j--)
+al=3*(c+5); printf(“%d\n”,*(*(atj)+));
+
+a2=3*(*ptt5); } }
+
+-1/2-
+--- page 2 ---
+Q.2 (a) Draw an algorithm to read a numbers and find sum of its digits. [05] ‘
+
+Q.2(b) Write a menu driven program to find (i) number is even or odd (ii) number is [08]
+
+Armstrong or not.
+Q.2(c) Explain any two looping statements. [07]
+Q.3 (a) Distinguish between the following [05]
+
+1. Structure and Union
+2. Automatic and Global variable
+
+Q. 3 (b) Explain with example use of function. List the merits of using it. [07}
+
+Q.3(©) Write a program to calculate S using S=x + x7/2! + x°/3! +....x"sn! where n is [08]
+inputted number (use recursion).
+
+Q. 4(a) Distinguish between the following [05]
+1. Static and Dynamic memory allocation
+2. Ifelse and switch case
+
+Q.4(b) Define a structure called Teacher that will describe the following information: [10]
+Code, Name, Teaching average, department. Using Teacher, declare an array tech
+with 10 elements and write a program to read the information about all the 10
+teachers and using function find the detail of teacher who belongs to computer
+department and has highest teaching average.
+
+Q.4(c) Explain static variable with example. [05]
+Q.5(a) Explain pointer and arrays in detail with example. [10]
+
+2. 5(b) Write a program to perform multiplication of two matrices and find Transpose of [10]
+matrix. Dimension of matrix should be inputted by user.
+
+Q.6 (a) Explain any 5 file handling functions with syntax/ example. [10]
+
+Q.6(b) Write a program using pointers, which includes a function that receives a character [07]
+string and a character as argumenit and deletes all occurrences of this character in the
+string. The function should return the corrected/new string with no spaces/holes.
+
+Q.6(g) Explain Formatted and unformatted input functions. . [03]
+
+y 7 Explain following concepts with examples (any 4) [20]
+
+1. Nested functions.
+2. Function with argument and return type.
+3. Call by reference ,
+
+4. Command line argument
+5. Pointer and Structure
+
+-2/2-
+````
+
+## 2010-11 · Exam not stated · Trim 1 · paper 0da8662ee93e
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/c programming 2010-2011.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2010
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+—=
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MCA Year: I Trimester: I
+Academic Year : 2010-2011
+
+Batch: 2010-2011
+Subject: C' PROGRAMMING Marks: 100
+
+Time: 10.00am To 1.00pm
+Date: 26/10/2010 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+
+Cover of the Answer Book, which is provided for their use.
+NB: 1. Question No. | is compulsory.
+
+2. Out of remaining 6 questions, attempt any 4 questions. In all attempt 5 questions.
+3. All questions carry equal marks.
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicates full marks.
+6. Give examples wherever required.
+
+Q. 1 (a) Attempt the following. (Any 5) [10]
+
+1. What will happen if break and continue is used in loop? Explain.
+2. Explain with syntax two different ways to read array of character.
+3. Explain the uses of preprocessor directive #define.
+4. Explain the use of sizeof operator and conditional operator.
+5. Evaluate the expression with initial values (int a=5, b=-5,e ;)(show steps).
+Find e =a-7%b*(at=2)+bH; :
+a.a=4, b=-4, e=-9 b. a= 7, b= -4 e=-7 c. a=7,b=-4,e=-12. d. a=7, b=-4,e= 12
+
+6. static int array[2][3]={{20,30,40}, {11,22,33}}; (base address of array is 170). Explain what is the
+meening of following.
+
+(i) *(array+1) (ii) (*(array+1)+1)
+Q. 1 (b) Write the output of the following codes. (Show steps) [10]
+i) int Lx; ii) void func(int *i,int *j) iii) int a[2][3]={1,2,3,4,5,6};
+
+for(i=1,x == -8;i<8;i+=3) { *i=*i;   *j+=*j; } int ij;
+
+while(x<i) void main( ) for(i=0;i<2;i++)
+
+printi(“Yod “,i+x++); { inti=-5,j =-6; for(j=1;j>=0;j--)
+
+func(&i,&j); printf(“Yod\n”,*(*(atj)+i));
+: printfi(“%od %d\n”,i,j);_ }
+iv) int funct(int n) v) int ij,x=0;
+
+{ if(n>0) return(n* funct(n-2)); clrscr();
+} for(i=0;i<5;++i)
+
+void main( ) {
+{ int n=3; for(j=0;j<i;++j)
+
+printf(“%d “,funct(n)); } xt+=(i4j-1);
+~ printf("%d ",x);
+break;
+}
+Li printf("\nx=%d",x);
+Q. 2 (a) Distinguish between the following [06]
+1. For and do-while 2. Array and Structure
+
+Be
+--- page 2 ---
+)
+y
+
+Q. 2 (b) Explain decision statement if- else if-else with example [06]
+
+Q. 2 (c) Write a menu driven program to perform following (i) to print Fibonacci series 0,1,1,2,3,5,8
+till n, where n is the inputted number of terms.(ii) to print factorial of number from 1 till n,
+
+where n is the inputted number. [08]
+. Q. 3 (a) Distinguish between the following. [06]
+1. Macro and User defined function 2. Array of Pointer and Pointer to Array
+
+Q. 3 (b) Write a program to print the following output
+1
+
+12
+1234
+123456 Z [06]
+Q. 3 (c) Write a program to sort an array of 10 numbers using function. [03]
+Q. 4 (a) Explain how the use of pointer reflects the permanent change in value of variable with
+example. [06]
+Q. 4 (b) Explain Recursion with example [06]
+Q. 4 (c) Write a program to read a character from user and delete all the occurrence of character from
+array of character inputted by user. [08}
+Q. 5 (a) Explain the following with example [10]
+
+1. Nesting of functions
+2. Function that return multiple values
+
+Q. 5 (b) Define a structure called book that will describe the following information: Code, Title, Author
+Price. Using book, declare an array BK with 10 elements and write a program to read the
+information about all the 10 books and it should have function to find the details of book with
+highest price. {10}
+
+Q. 6 (a) Write a program to copy the content of one file to another using command line argument [06]
+
+Q. 6 (b) Write a note on various storage classes in C. [06]
+Q. 6 (c) Write a program to perform addition of n by m matrix where n and m are order of
+
+matrix. ; [08]
+Q. 7 (a) Explain the following with example : [10]
+
+1. Pointer as function argument
+2. Function returning pointer
+
+Q. 7 (b) Explain any 5 file handling functions with syntax. [10]
+
+ALL THE BEST----------
+
+4,
+
+i)
 ````
 
 ## 2009-10 · Exam not stated · Trim 1 · paper 71959b2067f0
@@ -1270,6 +1566,7 @@ woneeennne ALL THE BEST----------
 - Programmes: MCA
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/2008-2009(1).pdf`
 - Text: ocr (4 pages), mean OCR confidence 86.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Aza
@@ -1310,12 +1607,10 @@ a. a= 4, b=-4, e=-9 b. a= 4, b= -6 e=7 c. a= 4, b= -4, e=7 d. a= 3, b=-4, e=
 11
 
 2. Find e = a<=++b]|(a-=2)&&b;
-a. a= 2, b= -5, e= 1 b. a=0 , b= -4,, e=
 
 3. Find e=(b/-a>b%a ? a++ : --b);
 a. a= 3, b=-5, e=2 b. a=2, b=-6, c=
 
-0 c. a= 0, b= -4, e= 1 d. a= 2, b= -4, e= 1
 
 -~6 c.a=3, b=-4, e=2 d.a=2,b=-6,e=4
 
@@ -1725,300 +2020,4 @@ Q. 7 (c) Write a program to find whether the string is palindrome or not. [6]
 x
 
 x
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 7222cb82e2b6
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/scan0010(14).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-gnieh SCH09)
-SVKM’s NMIMS Or
-
-Mukesh Patel School of Technology Management & Engine
-
-SVKm's
-
-NMIMS bniversix \*
-
-Programme: MCA Year: I Trimester: I Mumbai = 56, . de
-Academic Year : 2012-2013 umrany J
-Batch: 2010-11 /20 11-12.
-Subject: C' PROGRAMMING Marks: 100
-. Time: 10.00 a.m
-Date: 26/10/2012 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Cover of the Answer Book, which is provided for their use.
-1. Question No. | is compulsory.
-2. Out of remaining questions, attempt any 4 questions. In all 5 questions to be attempted.
-3. All questions carry equal marks.
-4, Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicates full marks.
-
-Q.1(a) Attempt the following (any 5) [10]
-1. Identify the errors in the following program
-main( ){
-int num;
-
-printf(‘““Enter a number\n”); scanf(““%f’, &num);
-(num=1 ? printf(“entered number is 1”) ; printf(“ entered number is not 1”));}
-2. Distinguish between break and continue statement.
-3. What is difference between a= ++b and a= b++ explain.
-4. Explain any two functions of stdio.h header file.
-5. Distinguish between while and do-while loop.
-6. Evaluate the expression with initial values (int a=5, b=-5,e ; )
-Find e = at7/b*(a-=2)+b++;
-
-Q.1 (b) Write the output of the following codes. (Show steps) [10]
-1) void main( ) 2) void main( ){
-{ int num=50, *temp, total=0;
-int n1=10, n2,n3; temp=&num;
-n3=n1>=5 ?n2=100:n2=200; *temp=200;
-printf(“\n%d %d”, n2,n3); temp=total; *temp=num;
-} printf(“%d %d %d”, num, *temp,
-total); }
-j 3) void main( ){ 4) void main( )
-\ ‘ static int arr[]={10,11,12,13,14}; { :
-y ) int i,*p; int varl=15,var2=10,p,q;
-p=&arr[4]-4; p=var1>14;
-for(i= 0; i<=4;i+4+){ q=varl>8 && var2= =8;
-printf(“%d”,*p); —- printf(“p=%d q=%d”,p,q);
-ptt; }} }
-5) void main() {
-int i=10;
-i<<=1;
-printf(“Y%d\n”,i);
-}
-
--1/2-
---- page 2 ---
-Q.2 (a)
-
-Q.2 (b)
-
-Q.20)
-Q.3 (a)
-
-Q.3 (b)
-
-Q. 4a)
-
-Q. 4 (b)
-
-Q.4 (6)
-Q.5 (a)
-Q.5 (b)
-
-Draw a flowchart for generating prime number between | to n, where n is inputted by
-user.
-
-Write a menu driven program to find (i) number is Armstrong or not (ii) to check
-number is palindrome or not.
-
-Explain Macro with example and how it is different from function.
-
-Explain recursion and write a program to find factorial of inputted number using
-recursion.
-
-Explain the concept of call-by-value and call-by-reference parameters with example
-Distinguish between the following
-
-1. Structure and Array
-
-2. Static and Dynamic memory allocation
-Define a structure called Soccer that will describe the following information: Piayer
-name, Team name, number of goals. Using Soccer, declare an array player with 10
-elements and write a program to read the information about all the 10 players and
-using function find the detail of player who has highest number of goals.
-Explain command line argument with syntax/example
-
-What is pointer? What is its use? Explain array of pointer with example.
-
-Write a program to perform addition of two matrices and find Transpose of matrix.
-Dimension of matrix should be inputted by user.
-
-Explain various data types in C programming.
-
-Explain error handling functions with syntax/example for file management.
-What is union? How it is different from structure?
-
-Explain following concepts with examples (any 4 )
-
-If else statement
-
-Storage class
-
-Bitwise operators
-
-Nested functions
-Function with argument and return type.
-
-‘/
-
--2/2-
-
-[06]
-
-[08]
-
-[06]
-
-[10]
-
-[10]
-
-[05]
-
-[10]
-
-[05]
-[10]
-
-[10]
-
-[10]
-[07]
-[03]
-
-[20]
-````
-
-## Year not stated · Re-Exam · Trim 1 · paper cf6316adeb8d
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/C PROGAMMIMG/C PROGRAMMING0001 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-SVKM’s numa"
-_/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & NGINEERING
-
-Programme:MCA Year: I
-
-Academic Year: 2013-14
-
-Subject : C' Programming
-
-; Marks: 100
-Date :10/12/2013. Time : 10.00 am to 1.00 pm
-Durations:3 (hrs)
-
-Re-Examination
-
-Note:
-
-¢ Question No.1 is compulsory.
-
-° Attempt any four out of remaining six.
-
-e Assumptions made should be clearly stated.
-
-e Answer to each new question to be started on fresh page.
-
-e Figures on right side indicate full marks.
-
-e Illustrate answer with sketches wherever required.
-
-e Every program needs to be preceded by flow chart.
-
-Q.1(a) | State the difference between below(any three): (10)
-1. Compiler and Interpreter . :
-2. While and Do-While Statements
-3. Automatic Storage class and Static Storage class
-4. Library functions and User defined functions
-
-Q.1(b) | What would be the output of the following program? (10)
-
-1. void main() 2. void main()
-
-{ int fu(int); { inti =4, j=-1,k=0,w,x,y,z;
-int m=1; wei || j || k&
-m=fu(m=fu(m=fu(m))); x= 1&&j &&k;
-printf("M=%d",m); y=i|[j&&k;
-} Z=i18&&j || k;
-int fu(int m) printf(“w=%d,x=%d,y=%d,z=%d",w,x,y,Z);
-{ m++; }
-return(m); }
-
-3. void main() 4. void main)
-
-{ int arr[3]={1,2,3}; { int a[2][2]={{2},{3}};
-clrscrQ); printf("\n%d",a[0][0]);
-printf("\n%d",((*arr+5)- printf("\n%d",a[0][1]);
-
-(*arr+3))); printf("\n%d", such)
-
-} printf("\n%a",a[1]ip;
-
-5. void main()
-{char str[]="RAVI";
-int i=0;
-
-int n;
-
-n=strlen(str);
-
-while(n)
-
-{ n--;
-str[i]=str[n];
-i++; }
-
-printf("%s" str); }
---- page 2 ---
-Q.2 (a) | Write a program to find the sum of squares of the digits of a number. For example, if | (10)
-the number is 12, then answer should be 12 + 22 = 5. Draw a neat flowchart before
-writing the program code.
-
-Q.2 (b) | Explain the concept of recursion with an example. (10)
-
-Q.3 (a) | Four different tests are given to a class of ten students. The test data is arranged so | (10)
-that each student’s Id is followed by the student’s score in the four tests. Write a
-program that calculates the average score of every student and the class average
-over all tests. Draw a’neat flowchart before writing the program code.
-
-Q.3 (b) | Explain structures within structures with proper example. (5)
-Q.3(c) | Explain the concept of pointers and its use in programming. (5)°
-Q.4(a) | Explain break and continue with suitable example. ; (5)
-Q.4 (b) | Explain the logical operators in C with examples (5)
-
-Q.4(c) | Write a program using functions to concatenate two strings and to compare two } (10)
-strings. (Write your own logic, do not use in built functions). Draw a neat flowchart
-before writing the program code.
-
-Q.5(a) | Explain types of files in C. (5)
-
-Q.5(b) | Explain the switch-case structure and its use with an example (5)
-
-Q.5(c) | Define a structure that includes the name, address, room charges and number of | (10)
-rooms. Write a program to print details of hotels with room charges less than a
-given value. (Value provided by user).
-
-Q.6(a) | Explain the relational operators in C with their precedence and associatively. (5)
-
-Q. 6(b) | Explain the mechanism for passing array elements and entire array to functions. (5) |
-
-Q.6fc) | Write a program to input integers and sort them. Use a menu system to determine | (10)
-whether the sort should be ascending or descending order. The process should
-continue till the user desires to exit. Draw a neat flowchart before writing the
-program code.
-
-Q.7(a) | Write short notes on below with example: (any One) (19)
-a. String handling functions
-b. Call by value and call by reference mechanism
-
-Q.7(b) | Write a program to find that the numbers N ( entered by the user )is prime | (10)
-numbers or not a prime number . Draw a neat flowchart before writing the ;
-program code
-
-2)2-
 ````

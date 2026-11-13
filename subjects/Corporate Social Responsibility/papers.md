@@ -1,8 +1,81 @@
 # Corporate Social Responsibility: question papers in full
 
-14 unique papers · 2008-09 to 2014-15 · Chemical, Information Technology, Manufacturing, Common (all branches)
+14 unique papers · 2008-09 to 2015-16 · Chemical, Information Technology, Manufacturing, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2015-16 · Re-Exam · paper fd608ea870a9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/CORPORATE SOCIAL RESPONSIBILITY/Corporate Social Responsibility Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 03/12/2015
+- Text: ocr (1 page), mean OCR confidence 92.0
+
+````text
+_
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year:IV Semester: VII
+Academic Year: 2015 - 16
+
+Batch:2014-15
+
+aa
+
+Subject : Corporate Social Responsibility Marks: f apsTMs Ye
+Time :2 mikOOpmY Je
+Date :03/12/2015 Duratio rs) TAF
+
+Re-Examination * ins = wn
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all S questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+1 Mr. Raman, CEO of ABC Limited understands that his company into Steel Yr
+Sector is growing with overall development of trade, consumption and business. — Marks
+The primary activities involve mining of natural resources near a tribal habitat,
+power production through use of coal, water and heavy transportation. He is
+seeking your guidance as the nature of CSR challenges the company is likely to
+face and the CSR activities which his company should initiate to address the
+
+challenges?
+2 “In order to understand the company’s commitment to CSR, the volume and ee
+content of reporting plays an important role.” Marks
+
+What are the sources of evidence of company’s social performance? Explain the
+current trends in reporting.
+
+3 To demonstrate that you understand the three models of management ethics— \2.
+moral, immoral, and amoral—give an example, from your personal experience, = Marks
+of each type. Do you agree that amorality is a serious problem? Explain.
+
+4 Suggest a Design to include CSR as an integral part of corporate strategy. What 12
+aspects would to consider for developing a frame work for CSR? ; Marks
+
+5 Adopting CSR as a culture makes a business and economic sense. Elaborate on 12
+this statement with suitable examples. Marks
+
+6 Give examples, from your personal experience, of Kohlberg’sLevels1, 2, and 3 es
+Marks
+
+1/4
+````
 
 ## 2014-15 · Final-Exam · paper ff4a1ec24861
 
@@ -85,79 +158,6 @@ e Societal Value
 a x
 
 TE}
-````
-
-## 2014-15 · Re-Exam · paper fd608ea870a9
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/CORPORATE SOCIAL RESPONSIBILITY/Corporate Social Responsibility Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 03/12/2015
-- Text: ocr (1 page), mean OCR confidence 92.0
-
-````text
-_
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year:IV Semester: VII
-Academic Year: 2015 - 16
-
-Batch:2014-15
-
-aa
-
-Subject : Corporate Social Responsibility Marks: f apsTMs Ye
-Time :2 mikOOpmY Je
-Date :03/12/2015 Duratio rs) TAF
-
-Re-Examination * ins = wn
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all S questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1 Mr. Raman, CEO of ABC Limited understands that his company into Steel Yr
-Sector is growing with overall development of trade, consumption and business. — Marks
-The primary activities involve mining of natural resources near a tribal habitat,
-power production through use of coal, water and heavy transportation. He is
-seeking your guidance as the nature of CSR challenges the company is likely to
-face and the CSR activities which his company should initiate to address the
-
-challenges?
-2 “In order to understand the company’s commitment to CSR, the volume and ee
-content of reporting plays an important role.” Marks
-
-What are the sources of evidence of company’s social performance? Explain the
-current trends in reporting.
-
-3 To demonstrate that you understand the three models of management ethics— \2.
-moral, immoral, and amoral—give an example, from your personal experience, = Marks
-of each type. Do you agree that amorality is a serious problem? Explain.
-
-4 Suggest a Design to include CSR as an integral part of corporate strategy. What 12
-aspects would to consider for developing a frame work for CSR? ; Marks
-
-5 Adopting CSR as a culture makes a business and economic sense. Elaborate on 12
-this statement with suitable examples. Marks
-
-6 Give examples, from your personal experience, of Kohlberg’sLevels1, 2, and 3 es
-Marks
-
-1/4
 ````
 
 ## 2014-15 · Re-Exam · paper 33d8ca24fa9f
@@ -754,6 +754,7 @@ ZK x
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/corporate social Responsibility/2009-2010(176).pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (1 page), mean OCR confidence 84.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS © === ~
@@ -764,7 +765,6 @@ MBA(Tech) Programme — _ IV Year CALLS TREAMIOS ;
 
 Trimester XI, . M POST
 
-Finel Esta veto tae~(Z9 09-10.)
 
 Subject: Corporate Social Responsibility Marks: 50 :
 Date: 22 [0\ /20\0 Time Allowed: 2 hrs
@@ -806,12 +806,12 @@ $e
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/corporate social Responsibility/2008-2009(180).pdf` (+2 identical copies)
 - Printed on paper: max marks: 40
 - Text: ocr (3 pages), mean OCR confidence 91.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Oy
 ¥ ved
 SVKMs NMIMS UNIVERSITY nal (Py id vet . oi \*
-Moxkesh fare Streot OF TecHnowey e UNG ae
 MBA-Tech (2008-2009), [V year, Trimester XI al . “tna i=
 Na’s)
 \ % .

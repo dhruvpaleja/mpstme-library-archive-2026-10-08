@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated DS 7038 | ANS_Data Driven Program Analysis(702DB0E006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / DATA SCIENCE, B.TECH INTEGRATED / DATA SCIENCE, MBA TECH / DATA SCIENCE | B Tech, Data Driven Program Analysis, 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | Integrated DS 7038 | QP_Data Driven Program Analysis(702DB0E006)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech DS 7009 | ANS_Data Driven Program Analysis(702DB0E006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated DS 7038 | ANS_Data Driven Program Analysis(702DB0E006)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech DS 7009 | QP_Data Driven Program Analysis(702DB0E006)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech DS 7009 | ANS_Data Driven Program Analysis(702DB0E006)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Data Driven Program Analysis, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Data Driven Program Analysis, Sem-V, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / DATA SCIENCE | Data Driven Program Analysis, Sem-V, A Y 2023-24, Final Exam.pdf |

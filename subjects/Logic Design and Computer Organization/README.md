@@ -16,8 +16,8 @@ Also filed as: `LOGICAL DESIGN AND COMPUTER ORGANIZATION`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Logic Design and Computer Organization(702CO0C053)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Logic Design and Computer Organization(702CO0C053)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Logic Design and Computer Organization(702CO0C053)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | B TECH | Logical Design and Computer Organization, Sem-II, Final Exam 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | B TECH | Logical Design and Computer Organization, Year 2023-24 Re Exam.pdf |
 

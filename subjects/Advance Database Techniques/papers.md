@@ -1,8 +1,92 @@
 # Advance Database Techniques: question papers in full
 
-6 unique papers · 2008-09 to 2012-13 · Computer Applications (MCA)
+6 unique papers · 2008-09 to 2013-14 · Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2013-14 · Re-Exam · Trim 4 · paper d506792c26f0
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM IV/ADVANCE DATABASE TECHNIQUES/ADVANCED DATABASE TECHNIQUES0001 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
+- Text: ocr (1 page), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS
+MUSESH PATEL SCHOOL OF TECHNOLOGY MANAGEDIENT. &. ENGIVEERING
+
+Wi ae EE
+
+Programme:MCA” ~ Year: II ™ Trimester: IV
+Academic Year: 2013-14 Batch:2012-13
+Subject : Advanced Database Techniques
+Marks: 100
+Date :10/12/2013 Time : 2.00 pm to 5.00 pm
+
+Durations:3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is previded for their use.
+NB:
+
+1. Question 1 is Compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets indicate full marks.
+
+7. Assume suitable data wherever necessary.
+
+Q.1
+
+a What is sequence? Create a sequence and use it to create the primary key [10]
+
+of a table.
+
+b Compare RDBMS, ODBMS, OODBMS. [10]
+Q.2
+
+a Explain two phase commit protocol. [10]
+
+b Explain the clustering approach to data mining. [10]
+Q.3
+
+a What is a cursor? Why cursors are required? Explain a cursor with an [10]
+
+example.
+
+b Explain deadlock handling in distributed databases. [10]
+Q.4
+
+a Explain the design of parallel databases. [10]
+
+b Describe Web mining. [10]
+Q.5
+
+a Describe apriori algorithm with example. [10]
+
+b Explain OLAP, ROLAP and MOLAP. [10]
+Q.6
+
+a What are different architectural modes for parallel databases? Explain. [10]
+
+b What is DTD? Compare it with XML schema. [10]
+Q.7
+
+a Explain star schema with example. [10]
+
+b Describe the modeling and storing of multimedia data. [10]
+
+x
+Mi
+````
 
 ## 2012-13 · Final-Exam · Trim 4 · paper 3c8f3359d63a
 
@@ -420,88 +504,4 @@ Q7 Write notes on (any four): (20)
 
 (iv) Query Optimization
 (vy) XPATH,XQUERY
-````
-
-## Year not stated · Re-Exam · Trim 4 · paper d506792c26f0
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM IV/ADVANCE DATABASE TECHNIQUES/ADVANCED DATABASE TECHNIQUES0001 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
-- Text: ocr (1 page), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-MUSESH PATEL SCHOOL OF TECHNOLOGY MANAGEDIENT. &. ENGIVEERING
-
-Wi ae EE
-
-Programme:MCA” ~ Year: II ™ Trimester: IV
-Academic Year: 2013-14 Batch:2012-13
-Subject : Advanced Database Techniques
-Marks: 100
-Date :10/12/2013 Time : 2.00 pm to 5.00 pm
-
-Durations:3 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is previded for their use.
-NB:
-
-1. Question 1 is Compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets indicate full marks.
-
-7. Assume suitable data wherever necessary.
-
-Q.1
-
-a What is sequence? Create a sequence and use it to create the primary key [10]
-
-of a table.
-
-b Compare RDBMS, ODBMS, OODBMS. [10]
-Q.2
-
-a Explain two phase commit protocol. [10]
-
-b Explain the clustering approach to data mining. [10]
-Q.3
-
-a What is a cursor? Why cursors are required? Explain a cursor with an [10]
-
-example.
-
-b Explain deadlock handling in distributed databases. [10]
-Q.4
-
-a Explain the design of parallel databases. [10]
-
-b Describe Web mining. [10]
-Q.5
-
-a Describe apriori algorithm with example. [10]
-
-b Explain OLAP, ROLAP and MOLAP. [10]
-Q.6
-
-a What are different architectural modes for parallel databases? Explain. [10]
-
-b What is DTD? Compare it with XML schema. [10]
-Q.7
-
-a Explain star schema with example. [10]
-
-b Describe the modeling and storing of multimedia data. [10]
-
-x
-Mi
 ````

@@ -14,15 +14,15 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Classical Physics(702BS0C092)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Classical Physics(702BS0C054)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Mechanical 7003 | QP_Classical Physics(702BS0C092)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated Mechanical 7031 | QP_Classical Physics(702BS0C054)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Classical Physics(702BS0C092)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Classical Physics(702BS0C054)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Classical Physics(702BS0C092)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Classical Physics(702BS0C054)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / MECHANICAL | Classical Physics Batch 2022-23,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech Mechanical 7003 | QP_Classical Physics(702BS0C092)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated Mechanical 7031 | QP_Classical Physics(702BS0C054)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Classical Physics(702BS0C092)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Classical Physics(702BS0C054)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHANICAL | Classical Physics, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Classical Physics Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Classical Physics, Sem-IV, Year 2022-23, Final Exan & Batch 2021-22 Re Exam.pdf |

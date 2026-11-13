@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Introduction to Operating Systems/ANS_Introduction to Operating Systems(701CO0C022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (18 pages), mean OCR confidence 39.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -590,6 +591,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Introduction to Operating Systems/ANS_Introduction to Operating Systems(701CO0C022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (18 pages), mean OCR confidence 39.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1171,6 +1173,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Introduction to Operating Systems/ANS_Introduction to Operating Systems(701CO0C022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (18 pages), mean OCR confidence 39.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

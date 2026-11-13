@@ -190,8 +190,9 @@ X— XK
 - Departments: Electronics and Telecommunication
 - Programmes: M TECH / EXTC
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/I SEMESTER/ANTENNA SYSTEMS DESIGN/Antenna System Design 2013-14 Final.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 06/12/2013
+- Printed on paper: max marks: 100; exam date: 06/12/2013
 - Text: ocr (3 pages), mean OCR confidence 75.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -203,7 +204,6 @@ se ~ Ms, ‘
 Subject :Antenna System Design ‘ Ye ¥
 Marks: 100 , © js |
 Date : 06/12/2013 ; Time : 2.00-pm-to 5.00 pm_ x =
-Duration:..:3 (hry Siiitas” jae 4
 
 Final-Examination
 

@@ -872,6 +872,7 @@ Note: ‘=’ represent reversible reaction
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/REACTION KINETICS/REACTION KINETICS BATCH 2016-17 RE EXAM.pdf`
 - Printed on paper: exam date: 31 May 2017
 - Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -888,7 +889,6 @@ e, ee
 Date: 31 May 2017. Time: 2 O0%pint 5.60 |
 ‘ Durations:i(3:hrs}-¥ J¢
 
-No. ‘Gf Rages: 2s Fe A WV,
 
 Re-Examination
 
@@ -1101,6 +1101,120 @@ Cpa = Cpr = constant. Present the results in form of plot of temperature versus
 conversion.
 ````
 
+## 2015-16 · Re-Exam · Sem 5 · paper 4cd1b9033f81
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/REACTION KINETICS/Reaction Kinetics Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 01/12/2015
+- Text: ocr (2 pages), mean OCR confidence 92.7
+
+````text
+N SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CHEMICAL) Year: Ill Semester: V
+Academic Year: 2015 - 16
+
+Batch:2014-15
+
+Subject : Reaction Kinetics
+
+Date :01/12/2015
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book, which is
+provided for their use.
+
+NB: .
+
+1) Question No. 1 is compulsory
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume data if necessary.
+
+8) Graphs will be provided to you.
+
+1. Attempt any four questions out of the following: ({2marks)
+a) After 8 minutes in a batch reactor, reactant with initial concentration equals to 1 mol/lit is 80%
+converted. After 18 minutes, conversion is 90%. Find a rate expression to represent this reaction.
+b) A series-parallel reaction is written as
+A+BC; rate constant =k1
+C+BD; rate constant= k2
+Write down the expressions for the formation of A, B, C and D.
+c) Write down a short note on variable volume batch reactor.
+d) The following reaction is known as water-gas shift reaction:
+CO + H20 = CO, +H
+
+~ At 500 deg C, K;, is calculated to be 10. Find composition of the reaction mixture in moles if 50%
+excess steam is used. Carbon dioxide present is zero.
+Total pressure of the reaction is kept at 1 atm.
+(Assume initial feed composition with respect to CO and water each as 1 mol)
+e) The rate constant of a polymerization reaction is measured at different temperatures. Calculate the
+activation energy and frequency factor of the reaction.
+
+Temperature, deg | 20 25 30 35
+Cc .
+k, min7+ _ 0.0015 0.00267 0.00464 0.00793
+
+2. a) To explain the kinetics of enzyme-substrate reaction, Michaelis and Menten in 1913 came up
+with following mechanism With certain assumptions.
+A+E = X; kl and k2 are forward and backward reaction rate constants.
+X>R+E; k3: reaction rate constant.
+And [E0] represents the total enzyme and [E] represents the free unattached enzyme.
+State the necessary assumptions. Find out the expression for rate of formation of R.(@ marks)
+
+af
+--- page 2 ---
+b) Write a short note on Pseudo First order reaction with an example. (4 marks)
+
+3. a) Explain Differential Method of Analysis of Batch reactor data. (S marks)
+b) For the elementary reaction in series,
+A7>R-WJS, reaction constant for the first reaction is ki and that of second reaction is k2.
+Tf k1= k2 and at t=0, Cy = Cag and Crag = Csg = 0
+Find the maximum concentration of R and time at which it is reached. (= marks)
+
+4. a) Derive the expressions for conversion in terms of Specific heat of reactants, Change in
+Temperature and heat of reaction, for the adiabatic condition during tke reaction. (@ marks)
+
+b) If equilibrium constant at 298K is 300, heat of reaction is -75,300 J/mol and
+CpA = CpR = 250 cal/mol.K, find the value of equilibrium constant at 358K. Calculate
+equilibrium conversions at 298K and at 358K. (6 marks)
+
+5. a) Write a note on Langmuir-Hinshelwood Model. (Smarks)
+
+b) For the single cylindrical pore of solid catalyst particle, write the differential rate
+equation for pore diffusion resistance combined with surface kinetics for first order
+reaction. Write the general solution for the same. State the two boundary conditions for
+evaluating the two constants in this solution. (# marks)
+
+6. a) Derive the expression for first order solid - fluid reaction assuming Shrinking Core Model with
+Gas Film resistance controlling mechanism. ( 6 marks)
+
+b) A mixture of coal particles is burnt in air on a moving grate. The grate is moving with a
+velocity of 1 m/min. The composition and complete conversion time for particle mixture is given in
+the table. Calculate the minimum length of grate to achieve average conversion of 80%.
+
+( 6 marks)
+
+7. a) Find the first order rate constant for disappearance of A in the gas reaction 2AR if on
+holding the pressure constant, the volume of the reaction mixture, starting with 80% of A
+decreases by 20% in 3 minutes. (€ marks)
+
+b) Experiments show that the homogeneous decomposition of ozone proceeds with a rate:
+—1o, =k C§3,Co;
+x) Suggest a 2 step mechanism to explain this rate.
+y) Derive a rate equation from the proposed mechanism and find out the order of the reaction.
+( 6 marks)
+````
+
 ## 2015-16 · Re-Exam · Sem 5 · paper 6e9ebb0a8bc2
 
 - Departments: Chemical
@@ -1108,6 +1222,7 @@ conversion.
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/REACTION KINETICS/Reaction Kinetics Batch 2015-16 Re Exam.pdf`
 - Printed on paper: max marks: 60; exam date: 09 June 2016
 - Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1188,7 +1303,6 @@ B. For the elementary reaction in series, 16]
 ARS, reaction constant for the first reaction is kl and that of second reaction is
 2
 
-Ifk]= k2 and at t=0, Cy = Cag and Cag = Cog = 0
 Find the maximum concentration of R and time at which it is reached
 
 Vo
@@ -1385,120 +1499,6 @@ ala
 
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 4cd1b9033f81
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/REACTION KINETICS/Reaction Kinetics Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 01/12/2015
-- Text: ocr (2 pages), mean OCR confidence 92.7
-
-````text
-N SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CHEMICAL) Year: Ill Semester: V
-Academic Year: 2015 - 16
-
-Batch:2014-15
-
-Subject : Reaction Kinetics
-
-Date :01/12/2015
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book, which is
-provided for their use.
-
-NB: .
-
-1) Question No. 1 is compulsory
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume data if necessary.
-
-8) Graphs will be provided to you.
-
-1. Attempt any four questions out of the following: ({2marks)
-a) After 8 minutes in a batch reactor, reactant with initial concentration equals to 1 mol/lit is 80%
-converted. After 18 minutes, conversion is 90%. Find a rate expression to represent this reaction.
-b) A series-parallel reaction is written as
-A+BC; rate constant =k1
-C+BD; rate constant= k2
-Write down the expressions for the formation of A, B, C and D.
-c) Write down a short note on variable volume batch reactor.
-d) The following reaction is known as water-gas shift reaction:
-CO + H20 = CO, +H
-
-~ At 500 deg C, K;, is calculated to be 10. Find composition of the reaction mixture in moles if 50%
-excess steam is used. Carbon dioxide present is zero.
-Total pressure of the reaction is kept at 1 atm.
-(Assume initial feed composition with respect to CO and water each as 1 mol)
-e) The rate constant of a polymerization reaction is measured at different temperatures. Calculate the
-activation energy and frequency factor of the reaction.
-
-Temperature, deg | 20 25 30 35
-Cc .
-k, min7+ _ 0.0015 0.00267 0.00464 0.00793
-
-2. a) To explain the kinetics of enzyme-substrate reaction, Michaelis and Menten in 1913 came up
-with following mechanism With certain assumptions.
-A+E = X; kl and k2 are forward and backward reaction rate constants.
-X>R+E; k3: reaction rate constant.
-And [E0] represents the total enzyme and [E] represents the free unattached enzyme.
-State the necessary assumptions. Find out the expression for rate of formation of R.(@ marks)
-
-af
---- page 2 ---
-b) Write a short note on Pseudo First order reaction with an example. (4 marks)
-
-3. a) Explain Differential Method of Analysis of Batch reactor data. (S marks)
-b) For the elementary reaction in series,
-A7>R-WJS, reaction constant for the first reaction is ki and that of second reaction is k2.
-Tf k1= k2 and at t=0, Cy = Cag and Crag = Csg = 0
-Find the maximum concentration of R and time at which it is reached. (= marks)
-
-4. a) Derive the expressions for conversion in terms of Specific heat of reactants, Change in
-Temperature and heat of reaction, for the adiabatic condition during tke reaction. (@ marks)
-
-b) If equilibrium constant at 298K is 300, heat of reaction is -75,300 J/mol and
-CpA = CpR = 250 cal/mol.K, find the value of equilibrium constant at 358K. Calculate
-equilibrium conversions at 298K and at 358K. (6 marks)
-
-5. a) Write a note on Langmuir-Hinshelwood Model. (Smarks)
-
-b) For the single cylindrical pore of solid catalyst particle, write the differential rate
-equation for pore diffusion resistance combined with surface kinetics for first order
-reaction. Write the general solution for the same. State the two boundary conditions for
-evaluating the two constants in this solution. (# marks)
-
-6. a) Derive the expression for first order solid - fluid reaction assuming Shrinking Core Model with
-Gas Film resistance controlling mechanism. ( 6 marks)
-
-b) A mixture of coal particles is burnt in air on a moving grate. The grate is moving with a
-velocity of 1 m/min. The composition and complete conversion time for particle mixture is given in
-the table. Calculate the minimum length of grate to achieve average conversion of 80%.
-
-( 6 marks)
-
-7. a) Find the first order rate constant for disappearance of A in the gas reaction 2AR if on
-holding the pressure constant, the volume of the reaction mixture, starting with 80% of A
-decreases by 20% in 3 minutes. (€ marks)
-
-b) Experiments show that the homogeneous decomposition of ozone proceeds with a rate:
-—1o, =k C§3,Co;
-x) Suggest a 2 step mechanism to explain this rate.
-y) Derive a rate equation from the proposed mechanism and find out the order of the reaction.
-( 6 marks)
-````
-
 ## 2014-15 · Re-Exam · Sem 5 · paper 8aba50cd0251
 
 - Departments: Chemical
@@ -1641,87 +1641,7 @@ b) Derive a relationship between K; & Kp for the following elementary reaction a
 necessary assumptions. aAt+bB >C {33
 ````
 
-## 2012-13 · Final-Exam · Trim 6 · paper 5cb64875c67e
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS FINAL 2012-13.pdf`
-- Printed on paper: exam date: 10/5/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technolo- Management &i Engineering
-Programme: MBA (TECH)-Chemical   Year:   I1   Trimester: VI
-Academic Year : 2012-2013
-Subject:   Reaction Kinetics   Marks:
-Time:
-Date:   10/5/2013   Duration:
-Final - Examination
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-1. Quest ion No. 1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fiesh page.
-6. Assume suitable data if necessary.
-Q. 1 Answer any four of the following:
-(a) For elementary reaction A + B -+ R, Write the Rate expression giving units of rate
-and rate constant. If CAO = CBO =1 moll lit and CRO = 0, find the value of CR when
-conversion is 65%.
-(b) For the gas phase reaction A + R, if -( dpA/dt) = 3.66@~)~, atm I hr, what are the
-units of the rate constant? Write the relation of partial pressure p atm and
-concentration C moll m3?
-(c) For the second order reaction 2A -+ R, calculate the value of rate constant if the
-initial concentration of A 2 moll lit decrease to 0.5 mol/ lit in 5 min.
-(d) Calculate the activation energy of reaction if rate of reaction doubles when
-temperature is raised from 300K to 450K.
-(e) For parallel elementary reactions A --+ R and A -, S, with rate constants kl # k2,
-if the initial concentrations of R and S are zero, write expressions for CA VS. t and
-CR VS. CS.
-8 Q. 2 (a) Derive expressions for conversion with time for first order reaction A -, R and
-for the second order reaction 2A --+ R . Show the type of plots to be used to find
-the value of rate constants.
-(b) Find the value of rate constant for the elementary reaction A + B   R, if with
-the initial concentrations of A and B 1 moll lit each, 45% conversion is reached in
-6 min.
---- page 2 ---
-4.3 (a) For reversible reaction A i B , define equilibrium constant K and equilibrium
-concentrations in terms of rate constants kl and k2.Derive expression for
-conversion of A in terms of equilibrium conversion, rate constant kl, and time if
-initial concentration of B is zero.
-(b) For elementary consecutive reactions A -, R -, S if kl = 0.1 (mi& and k2 =
-0.2(min)-I calculate CR max and t-,
-Q.4 (a) Derive the expressions for conversion in terms of specific heat of reactants,
-Change in temperature and heat of reaction, for the adiabatic condition during the
-reaction.
-(b) If equilibrium constant K1 at 298K is 300, heat of reaction is -75,300 J/mol and
-CpA = CpR = constant, find the value of eqililibrium constant at 358K. Calculate
-equilibrium conversions at 298K and at 358K.
-Q.5 (a) Derive the expression forth for first order solid - fluid reaction assuming SCM
-model with Gas film resistance controlling mechanism.
-(b) Predict the rate controlling mechanism with explanation in each of the following
-cases:
-(i) With dp = 1 mm, z = 4 min and with dp = 1.5 mm, z = 6 min.
-(ii) With dp = 1 mm, XB =0.3 in 2 sec and XB = 0.75 in 5 sec.
-4.6 (a) For the single cylindrical pore of solid catalyst particle, write the differential rate
-equation for pore diffusion resistance combined with surface kinetics for first
-1   order reaction. Write the general solution for the same. State the two boundary
-conditions for evaluating the two constants in this solution.
-(b) The observed rate of solid catalyzed first order reaction is 10' mol/hr.m3with
-porous catalyst particles. Data: dp = 2.4 mm, kg = 300 m3/hr.m2, CAg = 20 mol/m3,
-L = 0.4 mm, D, = 5x10- 5 m 3 /hr.m. Find whether the film resistance influences the
-rate of reaction. Find whether pore diffusion Ib influences and slowing the
-reaction.
-Q.7 Write notes on any two of the following:
-(a) Porous catalyst vs. coated catalyst
-(b) Pseudo first order reactions
-e   (c) Differential method of analysis of concentration vs. time data
-````
-
-## 2012-13 · Re-Exam · Trim 6 · paper ab57d5b7958e
+## 2013-14 · Re-Exam · Trim 6 · paper ab57d5b7958e
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -1831,6 +1751,86 @@ Q.7 Write notes on any two of the following:
 (c) Auto Catalytic reactions
 
 2/2—
+````
+
+## 2012-13 · Final-Exam · Trim 6 · paper 5cb64875c67e
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS FINAL 2012-13.pdf`
+- Printed on paper: exam date: 10/5/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technolo- Management &i Engineering
+Programme: MBA (TECH)-Chemical   Year:   I1   Trimester: VI
+Academic Year : 2012-2013
+Subject:   Reaction Kinetics   Marks:
+Time:
+Date:   10/5/2013   Duration:
+Final - Examination
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+1. Quest ion No. 1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fiesh page.
+6. Assume suitable data if necessary.
+Q. 1 Answer any four of the following:
+(a) For elementary reaction A + B -+ R, Write the Rate expression giving units of rate
+and rate constant. If CAO = CBO =1 moll lit and CRO = 0, find the value of CR when
+conversion is 65%.
+(b) For the gas phase reaction A + R, if -( dpA/dt) = 3.66@~)~, atm I hr, what are the
+units of the rate constant? Write the relation of partial pressure p atm and
+concentration C moll m3?
+(c) For the second order reaction 2A -+ R, calculate the value of rate constant if the
+initial concentration of A 2 moll lit decrease to 0.5 mol/ lit in 5 min.
+(d) Calculate the activation energy of reaction if rate of reaction doubles when
+temperature is raised from 300K to 450K.
+(e) For parallel elementary reactions A --+ R and A -, S, with rate constants kl # k2,
+if the initial concentrations of R and S are zero, write expressions for CA VS. t and
+CR VS. CS.
+8 Q. 2 (a) Derive expressions for conversion with time for first order reaction A -, R and
+for the second order reaction 2A --+ R . Show the type of plots to be used to find
+the value of rate constants.
+(b) Find the value of rate constant for the elementary reaction A + B   R, if with
+the initial concentrations of A and B 1 moll lit each, 45% conversion is reached in
+6 min.
+--- page 2 ---
+4.3 (a) For reversible reaction A i B , define equilibrium constant K and equilibrium
+concentrations in terms of rate constants kl and k2.Derive expression for
+conversion of A in terms of equilibrium conversion, rate constant kl, and time if
+initial concentration of B is zero.
+(b) For elementary consecutive reactions A -, R -, S if kl = 0.1 (mi& and k2 =
+0.2(min)-I calculate CR max and t-,
+Q.4 (a) Derive the expressions for conversion in terms of specific heat of reactants,
+Change in temperature and heat of reaction, for the adiabatic condition during the
+reaction.
+(b) If equilibrium constant K1 at 298K is 300, heat of reaction is -75,300 J/mol and
+CpA = CpR = constant, find the value of eqililibrium constant at 358K. Calculate
+equilibrium conversions at 298K and at 358K.
+Q.5 (a) Derive the expression forth for first order solid - fluid reaction assuming SCM
+model with Gas film resistance controlling mechanism.
+(b) Predict the rate controlling mechanism with explanation in each of the following
+cases:
+(i) With dp = 1 mm, z = 4 min and with dp = 1.5 mm, z = 6 min.
+(ii) With dp = 1 mm, XB =0.3 in 2 sec and XB = 0.75 in 5 sec.
+4.6 (a) For the single cylindrical pore of solid catalyst particle, write the differential rate
+equation for pore diffusion resistance combined with surface kinetics for first
+1   order reaction. Write the general solution for the same. State the two boundary
+conditions for evaluating the two constants in this solution.
+(b) The observed rate of solid catalyzed first order reaction is 10' mol/hr.m3with
+porous catalyst particles. Data: dp = 2.4 mm, kg = 300 m3/hr.m2, CAg = 20 mol/m3,
+L = 0.4 mm, D, = 5x10- 5 m 3 /hr.m. Find whether the film resistance influences the
+rate of reaction. Find whether pore diffusion Ib influences and slowing the
+reaction.
+Q.7 Write notes on any two of the following:
+(a) Porous catalyst vs. coated catalyst
+(b) Pseudo first order reactions
+e   (c) Differential method of analysis of concentration vs. time data
 ````
 
 ## 2012-13 · Re-Exam · Trim 6 · paper 95fbfadc32e5
@@ -2041,6 +2041,7 @@ y )
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS 2011-12 RE EXAM0001.pdf`
 - Printed on paper: exam date: 11/05/2012
 - Text: ocr (3 pages), mean OCR confidence 90.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 = \
@@ -2088,7 +2089,6 @@ follows .
 Sucrose => products.
 
 Following kinetic data are obtained in a batch reactor by starting with a sucrose concentration Cyo=
-1 millimol/lt and sucrase concentration Cgo = 0.01 millimol/It.
 
 Ca,millimol/It | 0.84 0.68 0.53 0.27 0.09 0.018 0.016 0.0025
 t, hr 1 2 3 5 7 9 10 11
@@ -2132,7 +2132,6 @@ energy for this reaction using
 Q:5) For the following bimolecular type second order reversible reaction with initial concentration of
 both the reactants to be same, prove that the integrated rate equation is given by
 
-In) [{Xne- Xa (2Xne-Xa)}/ (Xae —Xa)] = 2KrCaot(Xae - 1).
 
 Consider constant volume batch reactor.
 
@@ -2166,6 +2165,305 @@ re
 10
 
 20
+````
+
+## 2011-12 · Re-Exam · Trim 6 · paper 822d78726403
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS BATCH 2009-10 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/06/2012
+- Text: ocr (3 pages), mean OCR confidence 88.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engi
+
+SVKM’S
+
+ering!” S University \.
+
+yx \
+
+pei
+
+Programme: MBA Tech - Chemical Year: Il Trimester: Em OE!
+Academic Year : 2011-2012 _ ij
+Batch: 200I-Voalo lo ré Wh |
+Subject: Reaction Kinetics Marks: 100 ey Mannan” 2 |
+Time: 2.00 pm pm
+Date: 28/06/2012 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question 1 (one) is compulsory.
+
+2. Out of remaining questions, attempt any 4 (four) questions.
+3. Inall 05 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new quéstion to be started on a fresh page.
+6. Figure in brackets indicate full marks.
+
+Q-1)
+(a)Write short note on “ collision theory ” . 05
+(b)Give classification of reactors with the examples of each.
+
+05
+(c)Derive the integrated rate equation for the reaction A + 3B & products in case of constant
+
+volume batch reactor in terms of concentration and conversion. Reaction is first order with respect to
+‘ each reactant and hence second order overall. 10
+Q-2)Find the overall order of irreversible reaction
+
+2H, +2NO kK N+ 2H,O0
+
+from the following constant volume data obtained by using equimolar amounts/ quantities of the
+Hydrogen and nitric oxide at 296 K.
+
+}
+
+i Half life, sec 265 186 115 104 67
+‘
+av!
+Total pressure initially, | 200 240 280 320 360
+mm Hg :
+
+20
+
+\b
+--- page 2 ---
+Q3)
+(a)Derive the time- conversion equation for shrinking core model where diffusion through ash layer
+controls the rate. 10
+
+(b) Spherical solid particles containing B are roasted at constant temperature in an oven by gas of
+constant composition. Solids are converted to give firm non-flaking product according to the SCM.
+
+From the following conversion data, determine the rate controlling mechanism for the
+transformation of solids.
+
+Data:
+dp, mm Xp t, Sec
+2 0.875 2
+1 1 1
+10
+Q-4)
+
+(a)Sucrose ishydrolyzed at room temperature by the catalytic action of the enzyme sucrase as
+follows .
+
+Sucrose => products.
+
+Following kinetic data are obtained in a batch reactor by starting with a sucrose concentration Co= 1
+
+
+Ca,millimol/It | 0.84 0.68 0.53 0.27 0.09 0.018 | 0.016 | 0.0025
+
+t, br 1 2 3 5 7 9 10 ll
+
+Show by calculation whether these data can reasonably fit the kinetic equation of the type
+-ta =(KCaCgo)/(Ca+M), K-=rate constant and M = constant .
+if yes, evaluate K and M. Use integral method of analysis of kinetic data. 10
+
+(b) Draw the concentration profile for the series reaction reaction A > R > S with K1 # K2 and also
+‘ for K1>K2 and when K2 > k1 and explain. 10
+
+Q-5)Diazobenzenechloride decomposes in solution to chlorobenzene and nitrogen as follows:
+
+CAHNsCheau > CoHsClcotution) + Nave
+
+One litre of solution containing 150 gm of diazobenzenechloride is allowed to react at 70 deg.
+Celsius. The cumulative volume of No at 1 bar and 70 deg. Celsius as a function of time is given in
+
+the following table:
+2
+be
+--- page 3 ---
+SS
+
+t, min 0 1 2 3 4 5 6 7
+Volume | 0 1.66 3.15: 4.49 5.71 6.81 7.82 8.74
+of N3, It
+
+1. What reaction order fits the given data?
+2. What is the value and units of the rate constant for the reaction order obtained in (1)
+Use integral method of analysis.
+
+20
+Q-6)
+(a)Determine the equilibrium conversion for the following elementary Reaction between 0 °C and
+100;C.
+
+Aca R, Reversible reaction
+ke
+At 298 K, AG° = - 14310 J/mol
+AHR® =-75300J/mol, Cp, =Cpz = constant
+
+1. Construct a plot of temperature V/S conversion
+2. What restriction should be placed on the reactor operating isothermally if conversion of 75
+
+% or higher is desired?
+10
+
+{b) A zero order homogeneous reaction A =>rR takes place in a constant volume reactor at P= 1 atm
+When t=O minute and P = 1,5 atm at t = 1 minute. If the same reaction with same feed composition
+and initial pressure proceeds in a constant pressure reactor, find the volume of reacting system at t
+=1 minute if V = 1 It at t= 0 minute.
+
+10
+Q-7)Write short note on the following (attempt any two) ' 20
+(a) Effect of temperature on equilibrium constant .
+\ (ciferentite chain and non-chain reactions in case of non-elementary reactions.
+(c) Shifting order reactions.
+
+(d)shrinking core model
+````
+
+## 2010-11 · Exam not stated · Trim 6 · paper 587c95cc85c9
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS BACTH 2009-2010.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/06/2011
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+J 4
+/
+
+I,
+SVKM’s NMIMS f
+Mukesh Patel School of Technology Management & Engineering
+Programme: MBA TECH - CHEMICAL Year: II Trimester: VI \
+Academic Year : 2010-2011 Xe
+Batch: 2009-2010 =
+Subject: Reaction Kinetics Marks: 100
+Time: 2.00 pm To 5.00 pm
+
+Date: 29/06/2011 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+
+1. Question 1 (one) is compulsory.
+
+2. Out of remaining questions, attempt any 4 (four) questions.
+
+3. Inall 05 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicate full marks.
+
+Q-1)
+
+Find the overall order of irreversible reaction
+
+2H, +2NO 9N2 + 2H20
+
+From the following constant volume data obtained by using equimolar amounts/
+quantities of the Hydrogen and nitric oxide at 296 K.
+
+Half life, sec 265 186 115 104 67
+Total pressure initially, | 200 240 280 320 360
+mm Hg
+
+[20 Marks]
+
+Q-2)
+
+An aqueous solution of ethyl acetate is to be saponified with sodium hydroxide. The ,
+initial concentration of ethyl acetate is 5 gm/It and that of sodium hydroxide is 0.1
+normal. The values of second order rate constant at 0 °C and 20 °C are K =0.235 and
+0.925 It/mol.min respectively. The reaction is irreversible. Calculate the time required to
+saponify 95 % of ethyl acetate at 40 °C. [10 Marks]
+
+(b) The half life for the conversion of ammonium cynate into urea at 303 K at initial
+concentration of ammonium cynate of 0.1 mol/It and 0.2 mol/It are 1152 min. and 568
+min. respectively. What is the order of reaction? [10 Marks]
+Q-3)
+
+(a) Spherical solid particles containing B are roasted at constant temperature in an oven
+by gas of constant composition. Solids are converted to give firm non-flaking product
+according to the SCM.
+
+From the following conversion data, determine the rate controlling mechanism for the
+transformation of solids.
+
+Data:
+
+¥2—
+--- page 2 ---
+dp, mm Xp t
+
+Sec
+2 0.875 1
+1 1 1
+
+[10 Marks]
+(b) For the series reaction
+A=>R=>S,withK,; = K,
+Find the maximum concentration of R and the time at which it is reached. [10 Marks]
+Q-4) Determine the equilibrium conversion for the following elementary
+Rea tion between 0 °C and 100°C.
+A<@eR, Reversible reaction
+At 298 K, AG® =- 14310 J/mol
+AHR? =-75300 J/mol, Cp, =Cpg = constant
+1. Construct a plot of temperature V/S conversion
+2. What restriction should be placed on the reactor operating isothermally if
+conversion of 75 % or higher is desired? [20 Marks]
+Q-5)
+The reduction of iron ore of size R = 5 mm and density pB = 4.6 gm/cm3_ by hydrogen
+can be represented by the Shrinking Core Model (SCM) with no water vapour present,
+the reaction stoichiometry is
+4H) + Fe304 => 4H2O + 3Fe
+The rate is approximately proportional to the concentration of hydrogen.
+The first order rate constant is given by
+K? = 1.93 * 10° e7RT cm/sec
+Taking De = 0.03 cm2/sec foe hydrogen penetration in product layer, calculate the time
+needed for complete conversion of a particle of oxide of metal at temperature of 600 °C
+and pressure of | atm.
+Atomic weight : Fe = 56, O = 16
+Film resistance can safely be neglected in presence of Ash layer [20 Marks] ©
+Q-6) Write short note on the following (attempt any two) [20 Marks]
+(a) effect of temperature on equilibrium constant
+(b) Shifting order reactions.
+(c) differential method of analysis
+(d) Effectiveness factor for isothermal first order irreversible reaction
+
+Q-7(a) A zero order homogeneous gas phase reaction with stoichiometry A > rR
+proceeds in a constant volume reactor with 20 mole % inerts. Pressure rises from 1 to 1.3
+atm in 2 minutes. If the reaction is carried out in a constant pressure batch reactor, what is
+the fractional volume change in 4 minutes if the feed is at 3 atm and contains 40 mole %
+inerts.
+[10 Marks]
+
+(b) Derive the time- conversion equation for shrinking core model where diffusion
+through ash layer controls the rate.
+
+zy
+vr = 1- 3(l-XBy + 2C1-Xp)
+
+t = time required for any conversion
+t = time required for complete conversion
+Xp = fractional conversion of solid particle. [10 Marks]
+
+Ya
+
+KX
 ````
 
 ## 2010-11 · Exam not stated · Trim 6 · paper 6458fd4eaf73
@@ -2312,6 +2610,247 @@ oo KK k—-~
 ofr
 ````
 
+## 2010-11 · Exam not stated · Trim 6 · paper 0ec6ff8e6d39
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS.pdf`
+- Printed on paper: duration hours: 3; exam date: 12/05/2011
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & En;
+Programme: MBA (TECH)-Chemical Year: II Trimester:
+Academic Year : 2010-2011
+
+Subject: Reaction Kinetics Marks:
+Time: 2.00 pm 00 pm
+Date: 12/05/2011 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+
+1. Question 1 (one) is compulsory.
+
+2. Out of remaining questions, attempt any 4 (four) questions.
+
+3. In all 05 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicate full marks.
+
+QD
+(a) For a gaseous reaction at 400 K, the rate is expressed as
+-dP a/dt = 3.66 Pa”
+1. What is the unit of rate constants.
+2. What is the value of rate constant for this reaction, if the rate equation is written
+
+as
+(i) -t4 = -(1/V)(dNa/dt) = K C,2, mol/It.hr
+(ii) -ra. = K. C2, mol/m’ hr [10 Marks]
+
+(b) The pyrolysis of ethane proceeds with an activation energy of about 75000 cal. How
+much faster is the rate of reaction at 650 °C than at 500 °C,
+Reaction C)Hg => Products
+
+[10 Marks]
+Q-2) ; .
+(a) From the following data show that the decomposition of N2Os at 67 °C is a first order
+reaction. Also calculate the rate constant. :
+Data
+
+[Time (min) 0 1 2 3 4
+
+(Cx20s,mol/It f° C.13 40.08 0.056 40.040
+
+|
+[10 Marks]
+(b) The half life for the conversion of ammonium cynate into urea at 303 K at initial
+concentration of ammonium cynate of 0.1 mol/It and 0.2 mol/It are 1152 min. and 568
+min. respectively. What is the order of reaction? [10 Marks]
+
+hy.
+--- page 2 ---
+Q-3)
+(a) For irreversible first order reaction series reaction A => R => S, value of constants
+K, and Ky are 0.17(min)" and 0.11(min)! respectively. Calculate,
+
+1. The time at which the concentration of r is maximum
+
+2. Maximum concentration of R
+Take Cao= 1.25 mol/It [10 Marks]
+(b) For the series reaction
+
+A=>R=>S, with K; = K,
+
+find the maximum concentration of R and the time at which it is reached.
+[10 Marks]
+Q-4) Write short note on the following (attempt any two) [20 Marks]
+(a) Catalyst classification and preparation.
+(b) Shifting order reactions.
+(c) BET adsorption isotherm.
+(d) Effectiveness factor for isothermal first order irreversible reaction.
+1.
+5)
+Two small samples of solids are kept in a constant environment oven for period of 1 hr.
+Under the conditions prevailing in a oven over the 4 mm particles are 57.8 % converted
+and the 2 mm particles are 87.5 % converted.
+1. Find the rate controlling mechanism for the conversion of solids.
+2. Find the time required for complete conversion of 1 mm particle in this oven
+[20 Marks]
+Q-6)
+(a) A zero order homogeneous gaseous reaction A => rR takes place in a constant volume
+reactor. P = 1 atm when t = 0 minute and P = 1.5 atm when t =1 minute. If the same
+reaction, same feed composition and initial pressure proceeds in a constant pressure
+apparatus, find the volume at t= 1 minute, if V = 1 litre att=0 minute. [10 Marks]
+(b) Derive the time- conversion equation for shrinking core model where chemical
+reaction controls the rate.
+
+t/t =1-(1- Xp)!®
+= time required for any conversion
+t = time required for complete conversion
+Xz = fractional conversion of solid particle. : [10 Marks]
+
+Q-7) Determine the equilibrium conversion for the following elementary
+Reaction between 0 °C and 100 °C.
+A <=> R, Reversible reaction
+At 298 K, AG’ = - 14310 J/mol
+AHR? =-75300 J/mol, Cpa = Cpg = constant
+2. Construct a plot of temperature V/S conversion
+3. What restriction should be placed on the reactor operating isothermally if
+conversion of 75 % or higher is desired? [20 Marks]
+
+ta.
+````
+
+## 2010-11 · Re-Exam · Trim 6 · paper 5a52597f6a64
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS RE EXAM.pdf`
+- Printed on paper: exam date: 12/05/2011
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management &
+Programme: MBA(TECH)-Chemical Year: II Trimestef/ >
+Academic Year : 2010-2011
+
+Batch: 2009-2010
+
+Subject: Reaction Kinetics Marks:
+Time:
+
+Date: 12/05/2011 Duration:
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
+
+NB:
+
+1) Question no.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4(four) questions.
+3) Inall 5 questions are to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Ql. Solve any four. (4x 5=20)
+
+a) A certain reaction has a rate given by
+
+-t, = 0.005 Ca? mol/(cm?.min).If the concentration is expressed in mol/L and time in
+hours, what would be the value and units of rate constant?
+
+b) Explain the prediction of reaction rates from Transition state theory.
+
+c) Decomposition of a gas is second order reaction. When the initial concentration of gas is
+5 x 10° mol/l,it is 20% decomposed in 50 min.Calculate the value of rate constant.
+
+d) A ten minute experimental run shows that 65 % of reactant A is converted to product by
+a 4 order rate.What would be the fractional conversion of A in 20-minute run?
+
+e) What is the basic difference between differential and integral method of analysis of a
+kinetic data?
+
+Q2.a) The liquid phase reaction A> R + S with Ca,=0.1823 mol/l, C gp = 0 and Cg, = 50 mol/
+proceeds as follows:
+
+Time,min 0 36 65 100 160 ©
+Cao.mol/ 0.1823 0.1453 0.1216 0.1025 0.0795 0.0494
+Find the rate expression for this reaction. (10)
+b) What are autocatalytic reactions? Derive the rate equation of such reactions. (10)
+
+Q3. (a) Derive the time — conversion relation for solid-gas non catalytic reaction with
+Shrinking spherical particle size model when chemical reaction controls
+the reaction rate. (10)
+(b) For solid catalyzed first order reaction A — Product, derive the equation for Ca
+In terms of rate constant k, diffusivity D and distance x in the cylindrical pore
+with length L. (10)
+
+hh
+--- page 2 ---
+Q4.a) A parallel liquid phase reaction:
+
+ki ky .
+A—>R, A-—S_ has the rate constants k;= 15/hr and k>= 2.0/hr
+Find the moles of R produced in 45 min, if Cao= 6.0 mol/l, Caro= Cso=0 (10)
+
+Q4.b) What is Activation energy of a reaction?
+At 1100 K n-decane thermally cracks 20 times faster than at 1000 K. Estimate the
+Activation energy for this decomposition. (5+5=10)
+
+Q5.a) For the series reaction
+ki ko
+A— R-S, with k= ko
+Find the maximum concentration of R and the time at which it is reached. (10)
+Q5.b) A gaseous reactant A diffuses through a gas film to the surface of solid B where it reacts
+with B,as
+A(g) + B(s) > R(g)
+Develop an expression for the rate of reaction considering it to be second order with
+respect to A. , (10)
+
+Cag solid
+
+Main body of gas
+
+' Gas film Ca;
+: Ax
+
+Q.6 (a) In elementary reversible reaction A is converted to R, AG°s93= - 13,500 J/mol,
+AH 59 = - 70,000 J/mol and Cpa = Cpp = Constant. Calculate the temperature Vs.
+equilibrium conversion at few points in the range 0°C to 100°C plot the results.
+Take the value of R = 8.314 J/mol.K. (10)
+
+(b) Write the enthalpy balance and derive conversion Vs. AT relation for adiabatic
+operation for the reaction: A — R if mean specific heat capacities of unreacted
+feed stream and completely converted product stream are Co and Cp
+respectively and heat of reactions are H,; and H,2 at inlet and outlet temperature .
+respectively. (10)
+
+Q.7 Write short notes on any two: (2x 10 =20)
+(a) Effectiveness factor for porous catalyst.
+(b) Shrinking Core model.
+(c) Kinetic regimes in a porous solid catalyzed reaction.
+
+To
+````
+
 ## 2009-10 · Exam not stated · Trim 6 · paper e64aae7248aa
 
 - Departments: Chemical
@@ -2427,145 +2966,6 @@ Q.7 Write short notes on any two: (2 x 10 =20)
 (c) Kinetic regimes in a porous solid catalyzed reaction.
 
 “he
-````
-
-## 2009-10 · Exam not stated · Trim 6 · paper 587c95cc85c9
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS BACTH 2009-2010.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/06/2011
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-J 4
-/
-
-I,
-SVKM’s NMIMS f
-Mukesh Patel School of Technology Management & Engineering
-Programme: MBA TECH - CHEMICAL Year: II Trimester: VI \
-Academic Year : 2010-2011 Xe
-Batch: 2009-2010 =
-Subject: Reaction Kinetics Marks: 100
-Time: 2.00 pm To 5.00 pm
-
-Date: 29/06/2011 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-
-1. Question 1 (one) is compulsory.
-
-2. Out of remaining questions, attempt any 4 (four) questions.
-
-3. Inall 05 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicate full marks.
-
-Q-1)
-
-Find the overall order of irreversible reaction
-
-2H, +2NO 9N2 + 2H20
-
-From the following constant volume data obtained by using equimolar amounts/
-quantities of the Hydrogen and nitric oxide at 296 K.
-
-Half life, sec 265 186 115 104 67
-Total pressure initially, | 200 240 280 320 360
-mm Hg
-
-[20 Marks]
-
-Q-2)
-
-An aqueous solution of ethyl acetate is to be saponified with sodium hydroxide. The ,
-initial concentration of ethyl acetate is 5 gm/It and that of sodium hydroxide is 0.1
-normal. The values of second order rate constant at 0 °C and 20 °C are K =0.235 and
-0.925 It/mol.min respectively. The reaction is irreversible. Calculate the time required to
-saponify 95 % of ethyl acetate at 40 °C. [10 Marks]
-
-(b) The half life for the conversion of ammonium cynate into urea at 303 K at initial
-concentration of ammonium cynate of 0.1 mol/It and 0.2 mol/It are 1152 min. and 568
-min. respectively. What is the order of reaction? [10 Marks]
-Q-3)
-
-(a) Spherical solid particles containing B are roasted at constant temperature in an oven
-by gas of constant composition. Solids are converted to give firm non-flaking product
-according to the SCM.
-
-From the following conversion data, determine the rate controlling mechanism for the
-transformation of solids.
-
-Data:
-
-¥2—
---- page 2 ---
-dp, mm Xp t
-
-Sec
-2 0.875 1
-1 1 1
-
-[10 Marks]
-(b) For the series reaction
-A=>R=>S,withK,; = K,
-Find the maximum concentration of R and the time at which it is reached. [10 Marks]
-Q-4) Determine the equilibrium conversion for the following elementary
-Rea tion between 0 °C and 100°C.
-A<@eR, Reversible reaction
-At 298 K, AG® =- 14310 J/mol
-AHR? =-75300 J/mol, Cp, =Cpg = constant
-1. Construct a plot of temperature V/S conversion
-2. What restriction should be placed on the reactor operating isothermally if
-conversion of 75 % or higher is desired? [20 Marks]
-Q-5)
-The reduction of iron ore of size R = 5 mm and density pB = 4.6 gm/cm3_ by hydrogen
-can be represented by the Shrinking Core Model (SCM) with no water vapour present,
-the reaction stoichiometry is
-4H) + Fe304 => 4H2O + 3Fe
-The rate is approximately proportional to the concentration of hydrogen.
-The first order rate constant is given by
-K? = 1.93 * 10° e7RT cm/sec
-Taking De = 0.03 cm2/sec foe hydrogen penetration in product layer, calculate the time
-needed for complete conversion of a particle of oxide of metal at temperature of 600 °C
-and pressure of | atm.
-Atomic weight : Fe = 56, O = 16
-Film resistance can safely be neglected in presence of Ash layer [20 Marks] ©
-Q-6) Write short note on the following (attempt any two) [20 Marks]
-(a) effect of temperature on equilibrium constant
-(b) Shifting order reactions.
-(c) differential method of analysis
-(d) Effectiveness factor for isothermal first order irreversible reaction
-
-Q-7(a) A zero order homogeneous gas phase reaction with stoichiometry A > rR
-proceeds in a constant volume reactor with 20 mole % inerts. Pressure rises from 1 to 1.3
-atm in 2 minutes. If the reaction is carried out in a constant pressure batch reactor, what is
-the fractional volume change in 4 minutes if the feed is at 3 atm and contains 40 mole %
-inerts.
-[10 Marks]
-
-(b) Derive the time- conversion equation for shrinking core model where diffusion
-through ash layer controls the rate.
-
-zy
-vr = 1- 3(l-XBy + 2C1-Xp)
-
-t = time required for any conversion
-t = time required for complete conversion
-Xp = fractional conversion of solid particle. [10 Marks]
-
-Ya
-
-KX
 ````
 
 ## 2009-10 · Exam not stated · Trim 7 · paper d045b70f1ca3
@@ -2824,166 +3224,6 @@ Q.7 Write short notes on any two: (2 x 10 =20)
 Aly
 ````
 
-## 2009-10 · Re-Exam · Trim 6 · paper 822d78726403
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS BATCH 2009-10 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/06/2012
-- Text: ocr (3 pages), mean OCR confidence 88.1
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engi
-
-SVKM’S
-
-ering!” S University \.
-
-yx \
-
-pei
-
-Programme: MBA Tech - Chemical Year: Il Trimester: Em OE!
-Academic Year : 2011-2012 _ ij
-Batch: 200I-Voalo lo ré Wh |
-Subject: Reaction Kinetics Marks: 100 ey Mannan” 2 |
-Time: 2.00 pm pm
-Date: 28/06/2012 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question 1 (one) is compulsory.
-
-2. Out of remaining questions, attempt any 4 (four) questions.
-3. Inall 05 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new quéstion to be started on a fresh page.
-6. Figure in brackets indicate full marks.
-
-Q-1)
-(a)Write short note on “ collision theory ” . 05
-(b)Give classification of reactors with the examples of each.
-
-05
-(c)Derive the integrated rate equation for the reaction A + 3B & products in case of constant
-
-volume batch reactor in terms of concentration and conversion. Reaction is first order with respect to
-‘ each reactant and hence second order overall. 10
-Q-2)Find the overall order of irreversible reaction
-
-2H, +2NO kK N+ 2H,O0
-
-from the following constant volume data obtained by using equimolar amounts/ quantities of the
-Hydrogen and nitric oxide at 296 K.
-
-}
-
-i Half life, sec 265 186 115 104 67
-‘
-av!
-Total pressure initially, | 200 240 280 320 360
-mm Hg :
-
-20
-
-\b
---- page 2 ---
-Q3)
-(a)Derive the time- conversion equation for shrinking core model where diffusion through ash layer
-controls the rate. 10
-
-(b) Spherical solid particles containing B are roasted at constant temperature in an oven by gas of
-constant composition. Solids are converted to give firm non-flaking product according to the SCM.
-
-From the following conversion data, determine the rate controlling mechanism for the
-transformation of solids.
-
-Data:
-dp, mm Xp t, Sec
-2 0.875 2
-1 1 1
-10
-Q-4)
-
-(a)Sucrose ishydrolyzed at room temperature by the catalytic action of the enzyme sucrase as
-follows .
-
-Sucrose => products.
-
-Following kinetic data are obtained in a batch reactor by starting with a sucrose concentration Co= 1
-
-jpecieaonee and sucrase concentration Cxgp = 0.01 millimol/It.
-
-Ca,millimol/It | 0.84 0.68 0.53 0.27 0.09 0.018 | 0.016 | 0.0025
-
-t, br 1 2 3 5 7 9 10 ll
-
-Show by calculation whether these data can reasonably fit the kinetic equation of the type
--ta =(KCaCgo)/(Ca+M), K-=rate constant and M = constant .
-if yes, evaluate K and M. Use integral method of analysis of kinetic data. 10
-
-(b) Draw the concentration profile for the series reaction reaction A > R > S with K1 # K2 and also
-‘ for K1>K2 and when K2 > k1 and explain. 10
-
-Q-5)Diazobenzenechloride decomposes in solution to chlorobenzene and nitrogen as follows:
-
-CAHNsCheau > CoHsClcotution) + Nave
-
-One litre of solution containing 150 gm of diazobenzenechloride is allowed to react at 70 deg.
-Celsius. The cumulative volume of No at 1 bar and 70 deg. Celsius as a function of time is given in
-
-the following table:
-2
-be
---- page 3 ---
-SS
-
-t, min 0 1 2 3 4 5 6 7
-Volume | 0 1.66 3.15: 4.49 5.71 6.81 7.82 8.74
-of N3, It
-
-1. What reaction order fits the given data?
-2. What is the value and units of the rate constant for the reaction order obtained in (1)
-Use integral method of analysis.
-
-20
-Q-6)
-(a)Determine the equilibrium conversion for the following elementary Reaction between 0 °C and
-100;C.
-
-Aca R, Reversible reaction
-ke
-At 298 K, AG° = - 14310 J/mol
-AHR® =-75300J/mol, Cp, =Cpz = constant
-
-1. Construct a plot of temperature V/S conversion
-2. What restriction should be placed on the reactor operating isothermally if conversion of 75
-
-% or higher is desired?
-10
-
-{b) A zero order homogeneous reaction A =>rR takes place in a constant volume reactor at P= 1 atm
-When t=O minute and P = 1,5 atm at t = 1 minute. If the same reaction with same feed composition
-and initial pressure proceeds in a constant pressure reactor, find the volume of reacting system at t
-=1 minute if V = 1 It at t= 0 minute.
-
-10
-Q-7)Write short note on the following (attempt any two) ' 20
-(a) Effect of temperature on equilibrium constant .
-\ (ciferentite chain and non-chain reactions in case of non-elementary reactions.
-(c) Shifting order reactions.
-
-(d)shrinking core model
-````
-
 ## 2008-09 · Exam not stated · Trim 7 · paper a0195562880b
 
 - Departments: Chemical
@@ -3238,6 +3478,7 @@ Q-7) Write short note on the following (attempt any two) [20 Marks]
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/REACTION KINETIES/2006-2007(63).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 90.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 » NARSEE MONJEE INSTITUTE OF MANAGEMENT & HIGHER STUDIES
@@ -3246,7 +3487,6 @@ Q-7) Write short note on the following (attempt any two) [20 Marks]
 SUBJECT: REACTION KINETICS
 
 COURSE : MBA-Tech III Year Max Marks: 100
-TRIMESTER : VIIth phate - 2HYJoG
 ACADEMIC YEAR: 2006-07 Duration: 3 hours ;
 TIMASVY “VED fo 2-0
 : : : we pm
@@ -3350,245 +3590,4 @@ temperature chart with reaction rate as parameter for rate = 0.1,0.2 &
 b) Derive the relationship of time with radius and conversion for a small
 spherical particle when diffusion through gas film is the controlling
 resistance, according to shrinking core model.
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper 0ec6ff8e6d39
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS.pdf`
-- Printed on paper: duration hours: 3; exam date: 12/05/2011
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & En;
-Programme: MBA (TECH)-Chemical Year: II Trimester:
-Academic Year : 2010-2011
-
-Subject: Reaction Kinetics Marks:
-Time: 2.00 pm 00 pm
-Date: 12/05/2011 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-
-1. Question 1 (one) is compulsory.
-
-2. Out of remaining questions, attempt any 4 (four) questions.
-
-3. In all 05 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicate full marks.
-
-QD
-(a) For a gaseous reaction at 400 K, the rate is expressed as
--dP a/dt = 3.66 Pa”
-1. What is the unit of rate constants.
-2. What is the value of rate constant for this reaction, if the rate equation is written
-
-as
-(i) -t4 = -(1/V)(dNa/dt) = K C,2, mol/It.hr
-(ii) -ra. = K. C2, mol/m’ hr [10 Marks]
-
-(b) The pyrolysis of ethane proceeds with an activation energy of about 75000 cal. How
-much faster is the rate of reaction at 650 °C than at 500 °C,
-Reaction C)Hg => Products
-
-[10 Marks]
-Q-2) ; .
-(a) From the following data show that the decomposition of N2Os at 67 °C is a first order
-reaction. Also calculate the rate constant. :
-Data
-
-[Time (min) 0 1 2 3 4
-
-(Cx20s,mol/It f° C.13 40.08 0.056 40.040
-
-|
-[10 Marks]
-(b) The half life for the conversion of ammonium cynate into urea at 303 K at initial
-concentration of ammonium cynate of 0.1 mol/It and 0.2 mol/It are 1152 min. and 568
-min. respectively. What is the order of reaction? [10 Marks]
-
-hy.
---- page 2 ---
-Q-3)
-(a) For irreversible first order reaction series reaction A => R => S, value of constants
-K, and Ky are 0.17(min)" and 0.11(min)! respectively. Calculate,
-
-1. The time at which the concentration of r is maximum
-
-2. Maximum concentration of R
-Take Cao= 1.25 mol/It [10 Marks]
-(b) For the series reaction
-
-A=>R=>S, with K; = K,
-
-find the maximum concentration of R and the time at which it is reached.
-[10 Marks]
-Q-4) Write short note on the following (attempt any two) [20 Marks]
-(a) Catalyst classification and preparation.
-(b) Shifting order reactions.
-(c) BET adsorption isotherm.
-(d) Effectiveness factor for isothermal first order irreversible reaction.
-1.
-5)
-Two small samples of solids are kept in a constant environment oven for period of 1 hr.
-Under the conditions prevailing in a oven over the 4 mm particles are 57.8 % converted
-and the 2 mm particles are 87.5 % converted.
-1. Find the rate controlling mechanism for the conversion of solids.
-2. Find the time required for complete conversion of 1 mm particle in this oven
-[20 Marks]
-Q-6)
-(a) A zero order homogeneous gaseous reaction A => rR takes place in a constant volume
-reactor. P = 1 atm when t = 0 minute and P = 1.5 atm when t =1 minute. If the same
-reaction, same feed composition and initial pressure proceeds in a constant pressure
-apparatus, find the volume at t= 1 minute, if V = 1 litre att=0 minute. [10 Marks]
-(b) Derive the time- conversion equation for shrinking core model where chemical
-reaction controls the rate.
-
-t/t =1-(1- Xp)!®
-= time required for any conversion
-t = time required for complete conversion
-Xz = fractional conversion of solid particle. : [10 Marks]
-
-Q-7) Determine the equilibrium conversion for the following elementary
-Reaction between 0 °C and 100 °C.
-A <=> R, Reversible reaction
-At 298 K, AG’ = - 14310 J/mol
-AHR? =-75300 J/mol, Cpa = Cpg = constant
-2. Construct a plot of temperature V/S conversion
-3. What restriction should be placed on the reactor operating isothermally if
-conversion of 75 % or higher is desired? [20 Marks]
-
-ta.
-````
-
-## Year not stated · Re-Exam · Trim 6 · paper 5a52597f6a64
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Reaction Kinetics/REACTION KINETICS RE EXAM.pdf`
-- Printed on paper: exam date: 12/05/2011
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management &
-Programme: MBA(TECH)-Chemical Year: II Trimestef/ >
-Academic Year : 2010-2011
-
-Batch: 2009-2010
-
-Subject: Reaction Kinetics Marks:
-Time:
-
-Date: 12/05/2011 Duration:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
-
-NB:
-
-1) Question no.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4(four) questions.
-3) Inall 5 questions are to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Ql. Solve any four. (4x 5=20)
-
-a) A certain reaction has a rate given by
-
--t, = 0.005 Ca? mol/(cm?.min).If the concentration is expressed in mol/L and time in
-hours, what would be the value and units of rate constant?
-
-b) Explain the prediction of reaction rates from Transition state theory.
-
-c) Decomposition of a gas is second order reaction. When the initial concentration of gas is
-5 x 10° mol/l,it is 20% decomposed in 50 min.Calculate the value of rate constant.
-
-d) A ten minute experimental run shows that 65 % of reactant A is converted to product by
-a 4 order rate.What would be the fractional conversion of A in 20-minute run?
-
-e) What is the basic difference between differential and integral method of analysis of a
-kinetic data?
-
-Q2.a) The liquid phase reaction A> R + S with Ca,=0.1823 mol/l, C gp = 0 and Cg, = 50 mol/
-proceeds as follows:
-
-Time,min 0 36 65 100 160 ©
-Cao.mol/ 0.1823 0.1453 0.1216 0.1025 0.0795 0.0494
-Find the rate expression for this reaction. (10)
-b) What are autocatalytic reactions? Derive the rate equation of such reactions. (10)
-
-Q3. (a) Derive the time — conversion relation for solid-gas non catalytic reaction with
-Shrinking spherical particle size model when chemical reaction controls
-the reaction rate. (10)
-(b) For solid catalyzed first order reaction A — Product, derive the equation for Ca
-In terms of rate constant k, diffusivity D and distance x in the cylindrical pore
-with length L. (10)
-
-hh
---- page 2 ---
-Q4.a) A parallel liquid phase reaction:
-
-ki ky .
-A—>R, A-—S_ has the rate constants k;= 15/hr and k>= 2.0/hr
-Find the moles of R produced in 45 min, if Cao= 6.0 mol/l, Caro= Cso=0 (10)
-
-Q4.b) What is Activation energy of a reaction?
-At 1100 K n-decane thermally cracks 20 times faster than at 1000 K. Estimate the
-Activation energy for this decomposition. (5+5=10)
-
-Q5.a) For the series reaction
-ki ko
-A— R-S, with k= ko
-Find the maximum concentration of R and the time at which it is reached. (10)
-Q5.b) A gaseous reactant A diffuses through a gas film to the surface of solid B where it reacts
-with B,as
-A(g) + B(s) > R(g)
-Develop an expression for the rate of reaction considering it to be second order with
-respect to A. , (10)
-
-Cag solid
-
-Main body of gas
-
-' Gas film Ca;
-: Ax
-
-Q.6 (a) In elementary reversible reaction A is converted to R, AG°s93= - 13,500 J/mol,
-AH 59 = - 70,000 J/mol and Cpa = Cpp = Constant. Calculate the temperature Vs.
-equilibrium conversion at few points in the range 0°C to 100°C plot the results.
-Take the value of R = 8.314 J/mol.K. (10)
-
-(b) Write the enthalpy balance and derive conversion Vs. AT relation for adiabatic
-operation for the reaction: A — R if mean specific heat capacities of unreacted
-feed stream and completely converted product stream are Co and Cp
-respectively and heat of reactions are H,; and H,2 at inlet and outlet temperature .
-respectively. (10)
-
-Q.7 Write short notes on any two: (2x 10 =20)
-(a) Effectiveness factor for porous catalyst.
-(b) Shrinking Core model.
-(c) Kinetic regimes in a porous solid catalyzed reaction.
-
-To
 ````

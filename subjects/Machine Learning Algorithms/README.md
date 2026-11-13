@@ -16,17 +16,17 @@ Also filed as: `MACHINE LEARNING AND ALGORITHMS`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated IT 7037 | QP_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 10 | B TECH / I T, B.TECH INTEGRATED / IT, MBA TECH / I T | Machine Learning Algorithms Batch 2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | Integrated IT 7037 | QP_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Machine Learning Algorithms(702IT0C020)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / I T, MBA TECH / I T | Machine Learning Algorithms, Sem VI, Final Exam 2024-25.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B TECH / I T, MBA TECH / I T | Machine Learning Algorithims, Sem-VI, Yerar 2022-23, Final Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 6 | B TECH / I T, MBA TECH / I T | Machine Learning Algorithms, Sem-VI, Year 2022-23, Re Exam.pdf |

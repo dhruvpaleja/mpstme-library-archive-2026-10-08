@@ -607,6 +607,79 @@ _e. MPI Scatterv and MPI_Gatherv
 a/a
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper 8dd59f7b30b6
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/PARALLEL COMPUTING/PARALLEL COMPUTING B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13/05/2016
+- Text: ocr (1 page), mean OCR confidence 87.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: IV Semester: VHT™ =
+7 soe
+Academic Year: 2015-16 P44 ™AN
+#( -TME PE
+Batch: 2014-15 BLL RY Jz!
+x %
+
+Subject: Parallel Computing Marks: 60 Ng * Meee
+
+Time: 10.00 am > 1.08 -
+Date: 13/05/2016 Durations: 3 hrs.
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+NB:
+
+1. Question No. | is compulsory.
+
+2. Attempt any four out of remaining six questions. . ,
+
+3. Assumptions made should be clearly stated. -
+
+4. Answer to each new question to be started on a fresh page. q
+5. Figure in brackets indicate full marks. :
+6. Illustrate answer with sketches wherever required.
+
+Q.I (a) Give an algorithm that routes a message from node u to v in an n-node hypercube in (04)
+no more than log n steps. Find a shortest path from node 6 to node 9 in a four
+dimensional hypercube network.
+
+(6) Determine the isoefficiency function for checkerboard block decomposition (04)
+technique of matrix vector multiplication and also write the analysis.
+(c) | Write a note on odd — even merge sort. (04)
+Q.2 (a) Explain MPI_Beast and suggest improvements in the.sieve of Eratosthenes: (06)
+(b) ’ Explain data clustering in detail. (06)
+3 (a) Write hypercube quicksort algorithm when the numbers are distributed among (06)
+nodes.
+(b) Describe parallel branch and bound search technique. (06)
+Q.4 (a) Derive the expression for isoefficiency metric and also determine the isoefficiency (06)
+function for the parallel implementation of Floyd’s algorithm.
+(b) Explain column wise block - striped decomposition technique of matrix — vector (06)
+
+multiplication
+
+Q.5 (a) — Explain collective communication and benchmarking parallel performance: (06)
+(b) Explain all — pairs shortest — path problem using Floyd’s algorithm. (06)
+ee Q.6 (a) Write pseudo code for the Sieve of Eratosthenes to find primes between 2 andnand (06)
+also elaborate sources of parallelism.
+pe (b) What is point — to — point communication? Explain with MPI functions: (06)
+y Q.7 Write short note on following (any Three).
+a. Radix sort (12)
+
+b. Shuffle — exchange network
+c. worker process
+d. Gustafson — Barsis Law
+
+; a
+````
+
 ## 2014-15 · Final-Exam · Sem 6 · paper da0f81e0dec4
 
 - Departments: Information Technology
@@ -897,79 +970,6 @@ c. Domain decomposition vs function decomposition
 d. Shared vs switch media
 
 e. MPI Scatterv and MPL Gatherv
-````
-
-## 2014-15 · Re-Exam · Sem 8 · paper 8dd59f7b30b6
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/PARALLEL COMPUTING/PARALLEL COMPUTING B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 13/05/2016
-- Text: ocr (1 page), mean OCR confidence 87.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Computer) Year: IV Semester: VHT™ =
-7 soe
-Academic Year: 2015-16 P44 ™AN
-#( -TME PE
-Batch: 2014-15 BLL RY Jz!
-x %
-
-Subject: Parallel Computing Marks: 60 Ng * Meee
-
-Time: 10.00 am > 1.08 -
-Date: 13/05/2016 Durations: 3 hrs.
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-NB:
-
-1. Question No. | is compulsory.
-
-2. Attempt any four out of remaining six questions. . ,
-
-3. Assumptions made should be clearly stated. -
-
-4. Answer to each new question to be started on a fresh page. q
-5. Figure in brackets indicate full marks. :
-6. Illustrate answer with sketches wherever required.
-
-Q.I (a) Give an algorithm that routes a message from node u to v in an n-node hypercube in (04)
-no more than log n steps. Find a shortest path from node 6 to node 9 in a four
-dimensional hypercube network.
-
-(6) Determine the isoefficiency function for checkerboard block decomposition (04)
-technique of matrix vector multiplication and also write the analysis.
-(c) | Write a note on odd — even merge sort. (04)
-Q.2 (a) Explain MPI_Beast and suggest improvements in the.sieve of Eratosthenes: (06)
-(b) ’ Explain data clustering in detail. (06)
-3 (a) Write hypercube quicksort algorithm when the numbers are distributed among (06)
-nodes.
-(b) Describe parallel branch and bound search technique. (06)
-Q.4 (a) Derive the expression for isoefficiency metric and also determine the isoefficiency (06)
-function for the parallel implementation of Floyd’s algorithm.
-(b) Explain column wise block - striped decomposition technique of matrix — vector (06)
-
-multiplication
-
-Q.5 (a) — Explain collective communication and benchmarking parallel performance: (06)
-(b) Explain all — pairs shortest — path problem using Floyd’s algorithm. (06)
-ee Q.6 (a) Write pseudo code for the Sieve of Eratosthenes to find primes between 2 andnand (06)
-also elaborate sources of parallelism.
-pe (b) What is point — to — point communication? Explain with MPI functions: (06)
-y Q.7 Write short note on following (any Three).
-a. Radix sort (12)
-
-b. Shuffle — exchange network
-c. worker process
-d. Gustafson — Barsis Law
-
-; a
 ````
 
 ## 2014-15 · Re-Exam · Sem 8 · paper 94b53956b3cd
@@ -1331,6 +1331,7 @@ vA
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/PARALLEL COMPUTING/PARALLEL COMPUTING B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: exam date: 04/07/2014
 - Text: ocr (2 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1417,7 +1418,6 @@ c. Switch Network topologies
 
 d. MPI_Wtime and MPI_Barrier
 
-Reinecwisiesscnesieeeweeews GSS & Rim Rw we Sm me se eweeeeweeees x,
 ````
 
 ## 2013-14 · Re-Exam · Sem 2 · paper 82e46a7eaaf6
@@ -1518,6 +1518,73 @@ c. 2-D mesh network
 d. Benchmarking
 
 =|
+````
+
+## 2012-13 · Exam not stated · Trim 11 · paper f5e8a48fafb9
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/TRIM XI/PARALLEL COMPUTING/scan0015(9).pdf`
+- Printed on paper: exam date: 16/01/2013
+- Text: ocr (1 page), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+Programme: MBA(Tech) (Computer) Year: IV Trimester: XI
+Academic Year :2012-2013
+
+Batch: 2011-2012
+
+Subject: Parallel Computing Marks:
+Time:
+
+Date: 16/01/2013 Duration:
+
+Re - Examination
+
+of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. | is compulsory.
+
+2. Attempt any four out of remaining six questions.
+
+3. Assumptions made should be clearly stated.
+
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicate full marks.
+
+6. Illustrate answer with sketches wherever required.
+
+Q.1 (a) Define speedup, efficiency and derive expression for Karp — Flatt Metric. (10)
+(b) Discuss ‘n— body problem’ by applying Foster’s design methodology. (10)
+Q.2 (a). Enlist MPI functions those have been used in matrix — vector multiplication and also (10)
+give their purpose.
+b) Explain various ways of seeking concurrency in parallel computers? 10
+P
+Q.3. (a) | Write pseudocode for the worker process and explain task/channel graph? (10)
+b) Define Flynn’s Taxonomy of computer architectures and explain each with example. 10
+Pp P
+Q.4 (a) Derive the expression for isoefficiency metric and also determine the isoefficiency (10)
+function for the parallel implementation of Floyd’s algorithm.
+j (b) Explain checkerboard block decomposition technique of matrix — vector multiplication (10)
+5 (a) Explain collective communication and benchmarking parallel performance? (10)
+Pp
+b) Explain all — pairs shortest — path problem using Floyd’s algorithm? (10)
+p
+Q.6 (a) Discuss improvements in the Sieve of Eratosthenes? (10)
+(b) | What is point — to — point communication? Explain with MPI functions? (10)
+Q.7 Write short note on following (any four).
+a. The message passing model (20)
+a! b. Manager process
+c. Gustafson — Barsis’s law
+d. openMP
+
+e. Centralized Multiprocessors
+f. The task/channel model
 ````
 
 ## 2012-13 · Final-Exam · Trim 11 · paper f53eb3fbf5e4
@@ -1856,71 +1923,4 @@ Page 2 of 2
 
 (10)
 (10)
-````
-
-## Year not stated · Exam not stated · Trim 11 · paper f5e8a48fafb9
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/TRIM XI/PARALLEL COMPUTING/scan0015(9).pdf`
-- Printed on paper: exam date: 16/01/2013
-- Text: ocr (1 page), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-Programme: MBA(Tech) (Computer) Year: IV Trimester: XI
-Academic Year :2012-2013
-
-Batch: 2011-2012
-
-Subject: Parallel Computing Marks:
-Time:
-
-Date: 16/01/2013 Duration:
-
-Re - Examination
-
-of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. | is compulsory.
-
-2. Attempt any four out of remaining six questions.
-
-3. Assumptions made should be clearly stated.
-
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicate full marks.
-
-6. Illustrate answer with sketches wherever required.
-
-Q.1 (a) Define speedup, efficiency and derive expression for Karp — Flatt Metric. (10)
-(b) Discuss ‘n— body problem’ by applying Foster’s design methodology. (10)
-Q.2 (a). Enlist MPI functions those have been used in matrix — vector multiplication and also (10)
-give their purpose.
-b) Explain various ways of seeking concurrency in parallel computers? 10
-P
-Q.3. (a) | Write pseudocode for the worker process and explain task/channel graph? (10)
-b) Define Flynn’s Taxonomy of computer architectures and explain each with example. 10
-Pp P
-Q.4 (a) Derive the expression for isoefficiency metric and also determine the isoefficiency (10)
-function for the parallel implementation of Floyd’s algorithm.
-j (b) Explain checkerboard block decomposition technique of matrix — vector multiplication (10)
-5 (a) Explain collective communication and benchmarking parallel performance? (10)
-Pp
-b) Explain all — pairs shortest — path problem using Floyd’s algorithm? (10)
-p
-Q.6 (a) Discuss improvements in the Sieve of Eratosthenes? (10)
-(b) | What is point — to — point communication? Explain with MPI functions? (10)
-Q.7 Write short note on following (any four).
-a. The message passing model (20)
-a! b. Manager process
-c. Gustafson — Barsis’s law
-d. openMP
-
-e. Centralized Multiprocessors
-f. The task/channel model
 ````

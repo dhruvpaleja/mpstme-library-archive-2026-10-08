@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSBS_7036/Information Security/ANS_Information Security(702CO0C036)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
 - Text: mixed (54 pages), mean OCR confidence 94.3
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1333,7 +1334,6 @@ User A Directory Files User B Directory
 FileName Rights Pointer FileName __Rights Pointe
 PROGI.C ORW BIBLIOG R e
 PROGILEXE | OX Liat TEST-TMP ox |
-BIBLIOG orw | Ww L_] PRIVATE oRW
 HELPTXT =| R «| —™ HELPTXT =|R e
 HEMP ORW
 
@@ -1378,7 +1378,6 @@ rights to F, one under the name Q and one under the name F. In this way, allowin
 pseudonyms can lead to multiple permissions that are not necessarily consistent. Thus, the
 directory approach is probably too simple for most object protection situations.
 
-FI ICR QD A HH a
 --- page 36 ---
 User A Directory Files Directory
 
@@ -1387,7 +1386,6 @@ File Name Rights Pointer <--
 F ORWX| ©
 BIBLIOG = |ORW FE rw | ef!
 
-PROGI.C ORW pL TEMP ORW
 
 HELPTXT = |R Coa HELPTXT |R «
 PROGL.EXE |OX ‘Ne |
@@ -1435,7 +1433,6 @@ a list of triples, each having the form Seubject, object, rights), as shown in T
 
 Help (cm
 Bibliog | Temp F txt Comp | Linker | Clock | Printer
-USERA ORW ORW ORW R x x R w
 USER B R - a R x x R Ww
 USERS RW - R R x x R Ww
 USER T — - R x x x R w
@@ -2032,7 +2029,6 @@ SO- b. Write short note on confidentiality policy and discuss Bell-LaPaduala Mod
 
 BL-2
 
-FRI ICR 7) FAC HOH
 --- page 49 ---
 5.1. Goals of Confidentiality Policies
 
@@ -2277,6 +2273,7 @@ FRR ICD A HOEK
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7011/Information Security/ANS_Information Security(702CO0C039)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
 - Text: mixed (45 pages), mean OCR confidence 90.8
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2533,7 +2530,6 @@ oe
 woe Yetmetef tae
 . etoile ta el ta
 
-sanams 4 ¥ % Yd xb WD xb YD YD VD 'D D'S D
 
 Figure 20.4 AES Encryption Round
 
@@ -2593,7 +2589,6 @@ fields is beyond the scope of this book; it is discussed in detail in [STAL11b].
 EA ao 65 a5 87 F2 4D o7
 a3 45 5D Bo EC 6E 4c 90
 5c 33 o8 BO 4a “3 4h ET
-Fo 2D | AD cs aC DE 95 AG
 
 The inverse substitute byte transformation, called InvSubBytes, makes use of
 the inverse $-box shown in Table 20.2b. Note, for example, that the input {2A} pro-
@@ -2617,7 +2612,6 @@ AES §-Boxes
 (a) S-box
 y
 
-o L 2 3 4 5 6 7 8 ‘' A B Cc Db E F
 
 a 63) 7C | 77 | 7B | F2) 6B | 6F | C5 | 30 |] OL | 47 | 2B | FE} D7 | AB] 76
 1 | CA] 82] CO | 7D] FA] 59 | 47 |] FO |} AD] D4 |] A2] AF} 9C ] Ad] 72 | CO
@@ -2639,7 +2633,6 @@ PF ac ] Al ao) | 0D | BF | Ea | 42 68 41 99 72D) OF | BO | 54 | BB] 16
 (b) Inverse S-box
 ¥
 
-Oo L 2 3 4 5 6 7 8 L') A B Cc Db E F
 a 52] 09 | 6A | DS | 30 | 36 | AS | 38 | BF | 40 | AS | YE | 81 | FS | DT | FB
 1 7C | E3 | 39 | &2 | 9B | 2F | FF} 87 | 34 | BE | 43 | 44 | C4 | DE! EO | CB
 2 54] 7B | 4 | 32 | Ab |] C2] 23 | 3D] EE | 4C |] 95 | OB | 42 | FA | C3 | 4E
@@ -2665,7 +2658,6 @@ example of ShiftRows:
 aT F2 4D oT cr Fi 4D a7
 Ec 6E 4c 90 6E 4c 90 EC
 4A C3 4 Er 46 E7 4A c3
-ac DS O85 Ab At sc DS 95
 
 The inverse shift row transformation, called InvShiltRows, performs the cir-
 cular shifts in the opposite direction for each of the last three rows, with a 1-byte
@@ -2689,7 +2681,6 @@ MixColumns:
 a7 F2 4D 7 47 40 AG 4c
 6E 4c 0 EC a7 D4 70 oF
 46 ET 4A c3 04 E4 3A 42
-Ag ac De 95 ED AS AG BC
 
 The mapping is designed to provide a good mixing among the bytes of each
 column. The mix column transformation combined with the shift row transforma-
@@ -2708,7 +2699,6 @@ a 40 Ag 4c AC 19 28 57 EB 39 5B 1B
 
 0 Da 70) oF @ 77 FA DI 5c 40) 2E Al 3
 eel E4 3A a2 66 DC 29 OO F2 ci] 13 42
-ED AS AG BC ED AS Ab BC IE a4 ET D2
 
 The first matrix is State, and the second matrix is the round key.
 
@@ -2982,7 +2972,6 @@ The US. Navy (see
 
 FRR IC 7 DA HOH
 --- page 16 ---
-nter.n iV/ori neralorm/ini i It.htm)
 
 performs Integrated Vulnerability Assessments (IVAs) as part of its risk analysis
 process. An IVA uses checklists to review system vulnerabilities and suggest
@@ -3241,7 +3230,6 @@ User A Directory Files User B Directory
 FileName Rights Pointer FileName __Rights Pointe
 PROGI.C ORW BIBLIOG R e
 PROGILEXE | OX Liat TEST-TMP ox |
-BIBLIOG orw | Ww L_] PRIVATE oRW
 HELPTXT =| R «| —™ HELPTXT =|R e
 HEMP ORW
 
@@ -3295,7 +3283,6 @@ File Name Rights Pointer <--
 F ORWX| ©
 BIBLIOG = |ORW FE rw | ef!
 
-PROGI.C ORW pL TEMP ORW
 
 HELPTXT = |R Coa HELPTXT |R «
 PROGL.EXE |OX ‘Ne |
@@ -3343,7 +3330,6 @@ a list of triples, each having the form Seubject, object, rights), as shown in T
 
 Help (cm
 Bibliog | Temp F txt Comp | Linker | Clock | Printer
-USERA ORW ORW ORW R x x R w
 USER B R - a R x x R Ww
 USERS RW - R R x x R Ww
 USER T — - R x x x R w
@@ -4280,6 +4266,7 @@ FRAC 7D AC HOH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CSBS_7036/Information Security/ANS_Information Security(702CO0C036)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
 - Text: mixed (60 pages), mean OCR confidence 94.0
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5738,7 +5725,6 @@ User A Directory Files User B Directory
 FileName Rights Pointer FileName __Rights Pointe
 PROGI.C ORW BIBLIOG R e
 PROGILEXE | OX Liat TEST-TMP ox |
-BIBLIOG orw | Ww L_] PRIVATE oRW
 HELPTXT =| R «| —™ HELPTXT =|R e
 HEMP ORW
 
@@ -5792,7 +5778,6 @@ File Name Rights Pointer <--
 F ORWX| ©
 BIBLIOG = |ORW FE rw | ef!
 
-PROGI.C ORW pL TEMP ORW
 
 HELPTXT = |R Coa HELPTXT |R «
 PROGL.EXE |OX ‘Ne |
@@ -5840,7 +5825,6 @@ a list of triples, each having the form Seubject, object, rights), as shown in T
 
 Help (cm
 Bibliog | Temp F txt Comp | Linker | Clock | Printer
-USERA ORW ORW ORW R x x R w
 USER B R - a R x x R Ww
 USERS RW - R R x x R Ww
 USER T — - R x x x R w
@@ -6339,7 +6323,6 @@ of service in Chapter 6.)
 
 How do we address these problems? We use a control or countermeasure as
 
-FRI ICR 7) FAC HOH
 --- page 49 ---
 protection. That is, a control is an action, device, procedure, or technique that removes or
 reduces a vulnerability. In Figure 1-4, the man is placing his finger in the hole, controlling
@@ -6948,6 +6931,7 @@ FI ICR GQ) AC HH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CSE_DS_7011/Information Security/ANS_Information Security(702CO0C039)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2026
 - Text: mixed (52 pages), mean OCR confidence 91.7
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7732,7 +7716,6 @@ OBJECTS
 
 Subjects Files Processes Disk drives
 
-S, Sy S; F, Fy P, P; D, D;
 S, | control | owner com reads read | wakeup | wakeup | seek | owner
 a Soniee) ovase
 4
@@ -8186,7 +8169,6 @@ False match rate
 
 Figure 3.12 Actual Biometric Measurement Operating Characteristic
 Curves To clarify differences among systems, a log-log scale is used.
-Source: From [MANSO1]. Mansfield, T., Gavin Kelly, David Chandler,
 Jan Kane. Biometric Product Testing Final Report. National Physics
 Laboratory, United Kingdom, March 2001. United Kingdom National
 Archives, Open Government Licence v3.0.
@@ -8574,7 +8556,6 @@ CO-3
 
 b. Explain the working of AES in depth with the help of block diagrams. [10]
 
-FI ICR QD A HH a
 --- page 36 ---
 BL-2
 
@@ -8676,7 +8657,6 @@ oe
 woe Yetmetef tae
 . etoile ta el ta
 
-sanams 4 ¥ % Yd xb WD xb YD YD VD 'D D'S D
 
 Figure 20.4 AES Encryption Round
 
@@ -8736,7 +8716,6 @@ fields is beyond the scope of this book; it is discussed in detail in [STAL11b].
 EA ao 65 a5 87 F2 4D o7
 a3 45 5D Bo EC 6E 4c 90
 5c 33 o8 BO 4a “3 4h ET
-Fo 2D | AD cs aC DE 95 AG
 
 The inverse substitute byte transformation, called InvSubBytes, makes use of
 the inverse $-box shown in Table 20.2b. Note, for example, that the input {2A} pro-
@@ -8760,7 +8739,6 @@ AES §-Boxes
 (a) S-box
 y
 
-o L 2 3 4 5 6 7 8 ‘' A B Cc Db E F
 
 a 63) 7C | 77 | 7B | F2) 6B | 6F | C5 | 30 |] OL | 47 | 2B | FE} D7 | AB] 76
 1 | CA] 82] CO | 7D] FA] 59 | 47 |] FO |} AD] D4 |] A2] AF} 9C ] Ad] 72 | CO
@@ -8782,7 +8760,6 @@ PF ac ] Al ao) | 0D | BF | Ea | 42 68 41 99 72D) OF | BO | 54 | BB] 16
 (b) Inverse S-box
 ¥
 
-Oo L 2 3 4 5 6 7 8 L') A B Cc Db E F
 a 52] 09 | 6A | DS | 30 | 36 | AS | 38 | BF | 40 | AS | YE | 81 | FS | DT | FB
 1 7C | E3 | 39 | &2 | 9B | 2F | FF} 87 | 34 | BE | 43 | 44 | C4 | DE! EO | CB
 2 54] 7B | 4 | 32 | Ab |] C2] 23 | 3D] EE | 4C |] 95 | OB | 42 | FA | C3 | 4E
@@ -8808,7 +8785,6 @@ example of ShiftRows:
 aT F2 4D oT cr Fi 4D a7
 Ec 6E 4c 90 6E 4c 90 EC
 4A C3 4 Er 46 E7 4A c3
-ac DS O85 Ab At sc DS 95
 
 The inverse shift row transformation, called InvShiltRows, performs the cir-
 cular shifts in the opposite direction for each of the last three rows, with a 1-byte
@@ -8832,7 +8808,6 @@ MixColumns:
 a7 F2 4D 7 47 40 AG 4c
 6E 4c 0 EC a7 D4 70 oF
 46 ET 4A c3 04 E4 3A 42
-Ag ac De 95 ED AS AG BC
 
 The mapping is designed to provide a good mixing among the bytes of each
 column. The mix column transformation combined with the shift row transforma-
@@ -8851,7 +8826,6 @@ a 40 Ag 4c AC 19 28 57 EB 39 5B 1B
 
 0 Da 70) oF @ 77 FA DI 5c 40) 2E Al 3
 eel E4 3A a2 66 DC 29 OO F2 ci] 13 42
-ED AS AG BC ED AS Ab BC IE a4 ET D2
 
 The first matrix is State, and the second matrix is the round key.
 
@@ -9187,7 +9161,6 @@ CO-2 Write short note on the following.
 SO- a. 1. Boot Sector viruses [10]
 BL-2 2. Memory-Resident viruses
 
-FRI ICR 7) FAC HOH
 --- page 49 ---
 Boot Sector Viruses
 

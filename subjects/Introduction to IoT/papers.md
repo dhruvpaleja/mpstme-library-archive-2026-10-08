@@ -1,6 +1,6 @@
 # Introduction to IoT: question papers in full
 
-3 unique papers · 2022 to 2022-23 · Electronics and Telecommunication, Computer Science and Business Systems
+3 unique papers · 2022-23 to 2022-23 · Electronics and Telecommunication, Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -77,7 +77,7 @@ x
 Fage tof 1
 ````
 
-## 2022 · Final-Exam · Sem 7 · paper c96f44b95fc4
+## 2022-23 · Final-Exam · Sem 7 · paper c96f44b95fc4
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC

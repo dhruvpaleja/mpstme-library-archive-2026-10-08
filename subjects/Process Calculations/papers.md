@@ -1,10 +1,10 @@
 # Process Calculations: question papers in full
 
-10 unique papers · 2005-06 to 2012-13 · Chemical
+10 unique papers · 2005-06 to 2013-14 · Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Re-Exam · Trim 4 · paper 063761b4ee03
+## 2013-14 · Re-Exam · Trim 4 · paper 063761b4ee03
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -180,6 +180,212 @@ Latent heat=1102 K J/kg, Specific heat=2.7 KJ/kgK
 — *
 
 3]2
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper 3e59def12b01
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/PROCESS CLACULATIONS/scan0020(8).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
+- Text: ocr (3 pages), mean OCR confidence 91.1
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA(Tech) - (Chemical) Year: II Trimester: IV
+Academic Year : 2012-2013
+
+Subject: PROCESS CALCULATION Marks: 100 e \
+. > SVKMrs *
+
+. Time: 2.00 pm To 5.G)"pfn wears University
+Date: 29/10/2012 Duration: 3 hrs. 1 a& — Mumoai - 56, dg i
+Final - Examination ~~ mRAARY }5 j
+
+% J
+
+NOTE een Je
+1. Attempt any FIVE questions. Cra
+
+2. Figures in bracket indicate full marks.
+
+3. Atomic weights:
+Hydrogen:1, Oxygen:16, Carbon : 12, Nitrogen : 14, Sulfur :32, Chlorine : 35.5,
+Phosphorous : 31
+
+Qi A __ In one case, 75 litres of NO2 at 100 KPa & 310K is allowed to stand (10)
+till the equilibrium is reached. At equilibrium, the pressure is found to
+be 80KPa. Calculate the partial pressure of N2O4 in final mixture.
+
+BA volume of moist air 60 cu.m. at a total pressure of 110 KPa & a (10)
+temperature of 310K contains water vapor in such a proportion that its
+partial pressure is 4.0 KPa. Without total pressure being changed, the
+temperature is reduced to 290K & some water vapor is removed by
+condensation. Vapor pressure of water at 290K is 1.9 KPa. Calculate:
+
+a) volume of air at 290K b) weight of water condensed.
+
+2 A In synthesis of methanol, fresh feed contains 31.5% CO, 63% (14)
+hydrogen & rest inerts on mole basis is mixed with recycle feed.
+Mixed feed enters into reactor resulting into 25% conversion to
+methanol. The product mixture is passed through condenser where
+methanol gets condensed & remaining gases are recycled after
+’ purging small portion of gas stream to avoid built up of inerts. The
+} mixed feed contains 16 mole % inerts. Calculate:
+a) Recycle ratio
+b) Purge ratio
+c) Overall conversion
+d) Combined feed ratio
+B CO, contains 0.045 kmol. Of water vapor per,kmol of dry CO, gas at (6)
+temperature of 310K & a total pressure of 100 KPa.
+Calculate : a) Relative saturation of the mixture b) % saturation of the
+mixture and c) the temperature upto which the mixture must be heated
+in order to achieve relative saturation of 30%.
+, Vapor pressure of water vapor:
+q 310K----6.27 KPa, 329K----16.51KPa, 330K----17.31KPa,
+333K----19.92KPa.
+
+Q3 A Wet solid containing 16 % moisture is to be dried to a water content of (6)
+1% by circulating hot air over them. Fresh air contains 0.01 kg water
+vapor per kg dry air & exhaust air contains 0.09 kg water vapor per kg
+dry air. Calculate the volumetric flow rate of fresh air supplied for
+
+V/s,
+--- page 2 ---
+a
+
+B
+Cc
+
+Q4 A
+B
+Cc
+
+5
+j
+Q6 A
+
+nse,
+
+drying 500 kg/hr of wet solids, if it is available at 310K & 100 KPa.
+
+In production of SOs, 50 kmol of SO; & 210 kmol of air are fed to the
+reactor. If the conversion of SO; is 70%, calculate a) % excess air
+supplied & b) composition of product gases.
+
+Ethylene Oxide is produced by oxidation of ethylene. 100 kmol
+ethylene & 100 kmol O; are fed to the reactor & the product is found
+to contain 70 kmol ethylene oxide & 15 kmol CO,. Calculate: a) %
+conversion of ethylene b) % yield of ethylene oxide & c) composition
+of product stream leaving the reactor.
+
+Calculate the enthalpy change for producing 10 mols of 1:3 butadiene
+using following data: ;
+
+Standard heat of formation of CO2(gas)= -393. 5 KJ/mol
+
+Standard heat of formation of H,0(liquid)= -285.5 KJ/mol
+
+Standard heat of combustion of 1:3 butadiene= -2520 KJ/mol
+Calculate the enthalpy change between reactants & products if both
+are at 298.15K, if 150 mol CO, is produced according to the following
+reaction:
+
+2CsHyo(g) +1302 (g)_ > 8CO (2) +10H,0 @)
+
+COMPOUND AH;, Kj/mol
+
+ons -125.79
+COx» -393.51
+HOw -285.83
+
+400 kg/hr of benzene liquid at temperature of 285K is to be obtained
+by removing heat from saturated benzene vapor. Find out the amount
+of heat to be removed
+
+Data:
+
+Boiling point of benzene=353.4K
+
+Latent heat=394.5 KJ/kg, Specific heat=1.73 KJ/kgK
+
+Give definitions with relevant formulas for any ten definitions:
+
+i) Equivalent Weight ii) Normality iii) Molality iv) Ideal gas law v)
+
+Amagats Law vi) Dew Point Temperature vii) Pressure—absolute,
+gauge & vacuum viii) Percentage conversion ix) Percentage excess
+reactant x) Recycle ratio x) Purge ratio xi) Standard Heat of reaction
+xii) Calorific value
+
+An evaporator system concentrating weak liquor from 6% to 60%
+solids handles 150 kg of solids per hour. If the same system is to
+concentrate a weak liquor from 4% to 40%, find the capacity of the
+system in terms of solids that can be handled per hour assuming water
+evaporation capacity to be same in both cases.
+
+*/3
+
+(6)
+
+(8)
+
+(7)
+
+(1)
+
+(6)
+
+(20)
+
+(6)
+--- page 3 ---
+Q7
+
+Cc
+
+A
+
+D
+
+The waste acid from a nitrating plant contains 38% H.SO,, 32% HNO;
+& 30% H.O by wt. The acid is to be concentrated to contain 45%
+H.SO, & 40% HNO; by addition of 10% oleum & concentrated nitric
+acid containing 82% HNO. Calculate the quantities of 3 acids to be
+mixed to get 2000 Kg. of desired acid.
+
+Fresh juice contains 15% solids & 85% water by weight & it is
+concentrated to contain 40% solids by weight. To preserve volatile
+constituents, part of fresh juice is bypassing evaporator. Concentration
+of solids in juice leaving evaporator is 55%. Calculate: a) fraction of
+fresh juice that bypasses the evaporator b) concentrated juice (40%
+solids) produced per 500 kg of fresh juice fed to process.
+
+A sulfuric acid solution has molarity of 17 & molality of 85. Calculate
+density of the solution.
+
+The available phosphorous (P) content of phosphoric acid sample is
+found to be 18 % by weight. Find the actual acid content in the sample
+A sample of gas having volume of 1 cu.m. is compressed to 1/3 times
+its volume. The operation is carried out for a fixed mass of gas at
+constant temperature. Calculate the % increase in pressure
+
+A mixture of nitrogen & sulfur trioxide at 300K & 180 KPa has an
+average molecular weight of 60. What is the partial pressure of
+nitrogen
+
+73
+
+(6)
+
+(8)
+
+(5)
+())
+(5)
+
+6)
 ````
 
 ## 2012-13 · Re-Exam · Trim 4 · paper b2e54aa3d38a
@@ -1307,6 +1513,7 @@ d) Why is recycle and purge required in chemical Industry. (3)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/PROCESS CLACULATIONS/2005-2006(17).pdf`
 - Printed on paper: max marks: 100; exam date: 00/10/2005
 - Text: ocr (3 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 n
@@ -1369,7 +1576,6 @@ acid required to make the above solution.
 Data: the solubility of chloroacetic acid in ether at 298 k is 190 gm/ 100 gm ether.
 Formula: Ether : CoHs0C2Hs
 
-Chloroacetic acid : CICH;COOH
 
 (10 marks)
 
@@ -1474,210 +1680,4 @@ Q-7.
 exerted on the piston in KPa, bar and psi . (05 marks)
 
 End of Paper.
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 3e59def12b01
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/PROCESS CLACULATIONS/scan0020(8).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
-- Text: ocr (3 pages), mean OCR confidence 91.1
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA(Tech) - (Chemical) Year: II Trimester: IV
-Academic Year : 2012-2013
-
-Subject: PROCESS CALCULATION Marks: 100 e \
-. > SVKMrs *
-
-. Time: 2.00 pm To 5.G)"pfn wears University
-Date: 29/10/2012 Duration: 3 hrs. 1 a& — Mumoai - 56, dg i
-Final - Examination ~~ mRAARY }5 j
-
-% J
-
-NOTE een Je
-1. Attempt any FIVE questions. Cra
-
-2. Figures in bracket indicate full marks.
-
-3. Atomic weights:
-Hydrogen:1, Oxygen:16, Carbon : 12, Nitrogen : 14, Sulfur :32, Chlorine : 35.5,
-Phosphorous : 31
-
-Qi A __ In one case, 75 litres of NO2 at 100 KPa & 310K is allowed to stand (10)
-till the equilibrium is reached. At equilibrium, the pressure is found to
-be 80KPa. Calculate the partial pressure of N2O4 in final mixture.
-
-BA volume of moist air 60 cu.m. at a total pressure of 110 KPa & a (10)
-temperature of 310K contains water vapor in such a proportion that its
-partial pressure is 4.0 KPa. Without total pressure being changed, the
-temperature is reduced to 290K & some water vapor is removed by
-condensation. Vapor pressure of water at 290K is 1.9 KPa. Calculate:
-
-a) volume of air at 290K b) weight of water condensed.
-
-2 A In synthesis of methanol, fresh feed contains 31.5% CO, 63% (14)
-hydrogen & rest inerts on mole basis is mixed with recycle feed.
-Mixed feed enters into reactor resulting into 25% conversion to
-methanol. The product mixture is passed through condenser where
-methanol gets condensed & remaining gases are recycled after
-’ purging small portion of gas stream to avoid built up of inerts. The
-} mixed feed contains 16 mole % inerts. Calculate:
-a) Recycle ratio
-b) Purge ratio
-c) Overall conversion
-d) Combined feed ratio
-B CO, contains 0.045 kmol. Of water vapor per,kmol of dry CO, gas at (6)
-temperature of 310K & a total pressure of 100 KPa.
-Calculate : a) Relative saturation of the mixture b) % saturation of the
-mixture and c) the temperature upto which the mixture must be heated
-in order to achieve relative saturation of 30%.
-, Vapor pressure of water vapor:
-q 310K----6.27 KPa, 329K----16.51KPa, 330K----17.31KPa,
-333K----19.92KPa.
-
-Q3 A Wet solid containing 16 % moisture is to be dried to a water content of (6)
-1% by circulating hot air over them. Fresh air contains 0.01 kg water
-vapor per kg dry air & exhaust air contains 0.09 kg water vapor per kg
-dry air. Calculate the volumetric flow rate of fresh air supplied for
-
-V/s,
---- page 2 ---
-a
-
-B
-Cc
-
-Q4 A
-B
-Cc
-
-5
-j
-Q6 A
-
-nse,
-
-drying 500 kg/hr of wet solids, if it is available at 310K & 100 KPa.
-
-In production of SOs, 50 kmol of SO; & 210 kmol of air are fed to the
-reactor. If the conversion of SO; is 70%, calculate a) % excess air
-supplied & b) composition of product gases.
-
-Ethylene Oxide is produced by oxidation of ethylene. 100 kmol
-ethylene & 100 kmol O; are fed to the reactor & the product is found
-to contain 70 kmol ethylene oxide & 15 kmol CO,. Calculate: a) %
-conversion of ethylene b) % yield of ethylene oxide & c) composition
-of product stream leaving the reactor.
-
-Calculate the enthalpy change for producing 10 mols of 1:3 butadiene
-using following data: ;
-
-Standard heat of formation of CO2(gas)= -393. 5 KJ/mol
-
-Standard heat of formation of H,0(liquid)= -285.5 KJ/mol
-
-Standard heat of combustion of 1:3 butadiene= -2520 KJ/mol
-Calculate the enthalpy change between reactants & products if both
-are at 298.15K, if 150 mol CO, is produced according to the following
-reaction:
-
-2CsHyo(g) +1302 (g)_ > 8CO (2) +10H,0 @)
-
-COMPOUND AH;, Kj/mol
-
-ons -125.79
-COx» -393.51
-HOw -285.83
-
-400 kg/hr of benzene liquid at temperature of 285K is to be obtained
-by removing heat from saturated benzene vapor. Find out the amount
-of heat to be removed
-
-Data:
-
-Boiling point of benzene=353.4K
-
-Latent heat=394.5 KJ/kg, Specific heat=1.73 KJ/kgK
-
-Give definitions with relevant formulas for any ten definitions:
-
-i) Equivalent Weight ii) Normality iii) Molality iv) Ideal gas law v)
-
-Amagats Law vi) Dew Point Temperature vii) Pressure—absolute,
-gauge & vacuum viii) Percentage conversion ix) Percentage excess
-reactant x) Recycle ratio x) Purge ratio xi) Standard Heat of reaction
-xii) Calorific value
-
-An evaporator system concentrating weak liquor from 6% to 60%
-solids handles 150 kg of solids per hour. If the same system is to
-concentrate a weak liquor from 4% to 40%, find the capacity of the
-system in terms of solids that can be handled per hour assuming water
-evaporation capacity to be same in both cases.
-
-*/3
-
-(6)
-
-(8)
-
-(7)
-
-(1)
-
-(6)
-
-(20)
-
-(6)
---- page 3 ---
-Q7
-
-Cc
-
-A
-
-D
-
-The waste acid from a nitrating plant contains 38% H.SO,, 32% HNO;
-& 30% H.O by wt. The acid is to be concentrated to contain 45%
-H.SO, & 40% HNO; by addition of 10% oleum & concentrated nitric
-acid containing 82% HNO. Calculate the quantities of 3 acids to be
-mixed to get 2000 Kg. of desired acid.
-
-Fresh juice contains 15% solids & 85% water by weight & it is
-concentrated to contain 40% solids by weight. To preserve volatile
-constituents, part of fresh juice is bypassing evaporator. Concentration
-of solids in juice leaving evaporator is 55%. Calculate: a) fraction of
-fresh juice that bypasses the evaporator b) concentrated juice (40%
-solids) produced per 500 kg of fresh juice fed to process.
-
-A sulfuric acid solution has molarity of 17 & molality of 85. Calculate
-density of the solution.
-
-The available phosphorous (P) content of phosphoric acid sample is
-found to be 18 % by weight. Find the actual acid content in the sample
-A sample of gas having volume of 1 cu.m. is compressed to 1/3 times
-its volume. The operation is carried out for a fixed mass of gas at
-constant temperature. Calculate the % increase in pressure
-
-A mixture of nitrogen & sulfur trioxide at 300K & 180 KPa has an
-average molecular weight of 60. What is the partial pressure of
-nitrogen
-
-73
-
-(6)
-
-(8)
-
-(5)
-())
-(5)
-
-6)
 ````

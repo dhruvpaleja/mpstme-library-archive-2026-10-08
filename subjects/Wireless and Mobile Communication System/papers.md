@@ -1,8 +1,148 @@
 # Wireless and Mobile Communication System: question papers in full
 
-5 unique papers · 2006-07 to 2010-11 · Electronics and Telecommunication
+5 unique papers · 2006-07 to 2011-12 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2011-12 · Exam not stated · Trim 2 · ZIP of papers · paper 67ab3615d269 · MOBILE COMPUTING AND WIRELESS NETWORKING 2011-12.pdf
+
+- Departments: Electronics and Telecommunication
+- Programmes: M TECH / EXTC
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM II/Wireless & Mobile Communication System/M Tech EXTC TRIM II Wireless & Mobile Communication System MOBILE COMPUTING AND W_6bd0dcdd.zip`
+- Printed on paper: exam date: 04/02/2012
+- Text: ocr (2 pages), mean OCR confidence 94.1
+
+````text
+SVKM’s NMIMS
+
+——Mukesh Patel School Of Technology Management & Eng
+Programme: M. Tech-I.T. / COMPUTER Year: I Trimester;
+
+Academic Year : 2011-2012
+
+Subject: MOBILE COMPUTING & Marks:
+WIRELESS NETWORKING Time: \
+Date: 04/02/2012 Duration:’\
+
+Final - Examination
+
+© All questions carry maximum marks as indicated on the right
+
+e Bulleted and to-the-point answers are required
+
+e Draw diagrams, if required, as an aid for explanation
+
+e Q.1. and Q.2. are compulsory. Answer ANY FIVE of the remaining SIX questions
+® Make suitable assumptions, wherever required, and state them
+
+1. Answer True dr False 15
+
+a) Snoop approach in TCP can be used even if the intermediate node does not
+have security keys
+
+b) For handling routing to end mobile nodes Domain Name Service is fast and
+efficient enough
+
+c) TCP congestion window should be kept constant if the packet loss is due to
+bit errors
+
+d) Split connection approach of TCP requires state maintenance, for each
+connection, at the intermediate node where the connection is split
+
+e) Reactive routing protocol has low overheads since routes are determined on
+demand
+
+f) 802.11 time synchronization beacons, in distributed coordination function
+
+} (DCF), cannot collide as they are not regular data packets
+
+g) Frequency allocation is done in FDMA so as to decrease the spectrum
+utilization
+
+h) Propagation delay affects the slot boundaries in TDMA
+
+i) in a decentralized MAC, on collision, exponential backoff mechanism is used
+to quickly reduce the possibility of collision on next transmission
+
+j) Routing in mobile adhoc networks is a challenge since the mobile nodes
+
+} usually have limited battery life
+, 2. Answer in maximum two sentences 15
+
+a) @! Assume in a polling based centralized MAC, a misbehaving node keeps on
+broadcasting a short packet at a fixed frequency, to cause collisions,
+regardless whether polled or not. How can this problem be avoided? (Note:
+you are unable to locate and physically remove the device)
+
+b) RTS/CTS mechanism cannot effectively handle exposed terminal problem.
+
+Explain.
+
+c) In a decentralized MAC, suggest how a node could determine the probability
+value the nodes should use for transmitting a packet, when the medium is
+detected free
+
+d) in a cellular mobile system, larger cells are better when number of users is
+
+Page 1 of 2
+--- page 2 ---
+e)
+3.
+
+less. Explain.
+Dynamic Source Routing is not efficient. Explain
+
+Write short notes on any two: 14(7
+1. Backoff mechanism in 802.11 MAC each)
+2. Tunneling in Mobile-IP
+
+3. RTS/CTS mechanism for collision avoidance
+
+4. Problems with Snoop approach for TCP over wireless
+
+a) Discuss the typical problems of wireless medium which impact the MAC 4
+design for wireless networks
+
+c) For a wireless MAC carrier sense (sensing the medium for a signal 3
+pattern) is essential. Explain in brief the reasons for this.
+
+d) Carrier sense and after that the decision to transmit a packet bya nodeis 7
+taken based on certain parameters. Discuss these parameters and how
+they can be tuned to improve the carrier mechanism.
+
+a) In an IP network, suppose an end node (destination) is mobile. What are 3
+the routing problems caused due to this?
+
+b) For the above scenario, to handle the end node mobility, suppose 4
+routing tables are updated on the intermediate routers to enable routing
+to the mobile node. What is your opinion about this mechanism?
+
+c) For the scenario in (a), suppose Mobile-iP is used. What are the problems 7
+in Mobite-IP?
+
+a) What are the short comings of TCP in wireless networks, due to which 6
+the throughput of TCP is low?
+
+b) Discuss any enhancement to TCP to overcome the above short comings, 8
+in a wireless network. Discuss this for a wireless network scenario of your
+choice.
+
+a) What do you understand by power saving for mobile nodes? How can 4
+the medium access mechanism be improved for ensuring power saving?
+
+b) Discuss the power management mechanism for any suitable wireless 10
+MAC protocol
+
+Explain the typical characteristics of a ‘wireless network that impact the 14
+
+behavior of protocols in a mobile device. Explain using examples how the
+
+various layers of the protocol stack are impacted. You should only discuss
+
+the problems, the solutions need not be discussed
+
+Page 2 of 2
+````
 
 ## 2010-11 · Re-Exam · Trim 2 · ZIP of papers · paper d8c5a1f47fb9 · Wireless Communication Systems 2010-11 Re-Exam.pdf.pdf
 
@@ -11,6 +151,8 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM II/Wireless & Mobile Communication System/M Tech EXTC TRIM II Wireless & Mobile Communication System 2010-2011 Re exam.zip`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2011
 - Text: ocr (10 pages), mean OCR confidence 43.1
+- 83 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM’s NMIMS /
@@ -210,56 +352,33 @@ j ie = BD 16 20819 Bevvuse RPernen
 
 Sez tenn s wHyoes
 --- page 5 ---
-added daddies arses aoe Soe ee ee oe Me
-ee ee) AvsdD SAwSH SAHHSH SASS
-ZRASRS 28s$S8 SSIASS SRSKR SHSSS
 
 a) ee aaa sae
 
-mornme EREHNR SEMOSS ROYNRS LEMON
-SOP ad AaForgQ aN Oot Qanwo SFaaAN
-SSEL5 S858 2SEEERH SSSSS SSAAG
 
-eneon AREONS SYOBMWm ANSCYHM Nrase
 BS$SS5 SFr K FEE DD DHDDD AARAADG
 
-ono rmronnn ANITA AD OAs Qo DrMA
 
 53 DAN OD wourdanac No wim No
 SSS58 S&S 85882 SESFLE L2SSS
 
-POrAS ANH DM SCHMMHH BOHAMHT YMA
-Snes Hoo 68H S©COGHnH GCOGRKR FRR RKR
 
-mo HINO Or OAS AMANO Wor aa ACHAHNNY
 
 QRro-A
 <= aD 89 10 60 10 aD 10 10 iw O ooewvoeo ovonrr
 
-QQOSmHE HNQQBA ARGSCH FAHAAND |AuwwHe
 +
-we gqdged ow 1 16 Yods od od ode) ww © oO Cowmwonooo
 
-SH NOY GHOTHDH SANHY BVSrw aa ‘
 
-HASOMR ARAHRODE HKU OYOH NHNnYtT THN
 
 aed NoOwoso Foner Ao 1. a
 
-MNT] AAHOR RONMNH ONnNnYtT NAMQAAH
 
 rORS mi ated 16 Oo <7) SntNM 190 - OD
 
-OM YNA HOORH HMO ONnt FRAN DOARH
 
-oro SCnNN OD 0 oOorea ADoAnn wud 0 |
-$S85S8 SYISS FSSRS SSSR SBBKS
 
-ADr-ONM YONHS AOONO HIVYNN AHORA
-TO HROAAGS HY¥HSSr BDHRSAN val
-SSBaO SSS5 SSBSS SSBSE
 
-QAAOCH HOH OQY |QAAASCHR Anne wenad
 Toone ht DAaRonaAN oO 0 conc ON oD yd
 
 OSeOARnS ANDMYY Or OD aa pe) OranrS
@@ -372,57 +491,27 @@ oo
 i=
 ao
 --- page 7 ---
-eceeeo) «9esses SsSesso SSsesee Ssce
 
-sai Sw=s secovrao aseeoyvno aes
-SRSESB SSSR SHSESS SSZSES SSE
-Saas AANNAN NANAN ATCKAAN NAA
 
-Ennger Canes ANGAn Sane
 ro a rovrre Seywereowz eo rr
 Rees SSSam FRAS
 BESSE S55oS8 RARANRN NNAN
-Onanr OYNHS AMOYR HOarEH HHS
 os Og i SSHBG AVSSA Song
-SS88aS SSSSh BSSSS RKSLES BSES
-pe ee en sess eS Sess Sees ase
-ranwe Bete SHOAHSe Heonoco “LOLS
-SHSDAS HHdSH WHOHH HONDA 36 oo
-S8e2ZR RRA88 B28SSR SSSBEE SESS
-Aaxstadet es Stas Ss St Sostet Ss esd Sata ase Sess =
-QQAHAQY OAQOS QOEORE ORNEY NOTE
-EOSAG TOHUF SHrss Soder gas
-SSSRHR SAAAAA ANHHH HBVVSGSE FSS
 asa et Ss st St ed sass Sess State
-RQRSH QQ YQN Ad HEN ar Heng
 
-ee oe Re el Co ol setae saat
 
-QQ ARS ANQNYHY KDROH AYHOe BAAN
 
-AQAAN NIYTH MOKED AARHROM BAM
 3 oO 6 rannnw Fae ow rac Nn
-SeSS SRASS SeAIS SfggR S83
 
-QQNDNNH OBONKE KFKEKKKF OCOHYHH OCOOL
 
-S888 SSEFE SESSS SASSER FARK
 
-HAH OSCOSOS ARQNrEKE COMKMY 4€HRAN FHHHS
 
-SUEQQNA AAOCHQ- KOKO Sont LRAAF COAG
 6 8 os ASS SES<ASS ESESASS masa
 
-WH OQ 62 pa ee MOSH YANAS ARNKNS Hewana
 
-feee SSSS SSSERFZ ESSSS BSSAS “Susae
-ett et Settee Stas est ed
 
-OOOWEG YQAKTHA AQKNOH F¥QNNAO ARQNYH YAAdS
-SOr OS ria BOEGadin wean BON ¥DOSONH
 BEESS Saas $ 858a8 85 es ss 8
 
-SSSSS RSERBES SSSSQ AZLAK RARRK SSKRV
 = Saas
 
 Haat Ses et Saas
@@ -443,20 +532,16 @@ ee oe
 EI w| TSESA saaty ocwmacs
 = SOA YODSAN YONA
 3 Mie S8SS35 8883S $888
-7 sts se De oe oe oe oe aes et ei
 <
 PQOOM QYROO aANgas
 Rl ooaws Seasr SdS85
 ml awed s BoHHwH BOOSH
-Sasa et Sete Se on oe oe oe
 2 QHNHHH C©OECee Henn n
 AYOnDS AYKSHDS AYHDS
 o| Sanae SESSR SSSLS
-Ae Ie oe oe fe oe oe oe oe 5 oe ee oe
 ARRNH Qe MKS OOOH
 sz Saxs ssay¥s seaxe
 Nl ANNHNYD Nees WH w
-asta et Sasa es So I oe oe oe od
 35
 5 g g| MEOEge w¥RQA aACOe
 6] SHONY HDHON SOSA
@@ -475,84 +560,58 @@ xu g/ AQaee eyaay aoAae
 ¢ fad Headed AAAS eet ed
 @ = a
 265
-AYO AYODS NYONDS NYONMDS AYOD
 a= wy 2| S$3S33B SESSSSSSSE SELLEZ SESS
-<< 0 aaa et AA de ee eee eA RRA AR eae
 4
 --- page 9 ---
 Ly
 
 Now why SNNe DH NNnwnwve No DOD SD BCwnedsye Vee ee
 = oP = = Ree = ‘
-S@Gnss SSSSN SSSANDY SVWSPAH SCOSGHisSO SOOGKAN
 
-NNnNNW NNHNNN NHdNHw HW — tt ht eal wall all =i al aed oll oll od
-GHwwokan QAaAYND BHOHDOH HHHWR ROTA HoOwwS:e
 
 NNNHN DH NNN WwHD wNyypywv Cee ee et et
 
 =
-SOLAN SHHAN SHAAN PRES BSNS Fe se
-Serb wD BwWRRTM ARANYY HBDOHDSD SHEN NH WHE
 
 Peee
 aS = ® & & & SONWNNWhH Lt lll wall ae ~ o oo @
-SESIas SSSHS Sorase HSars BSRES SSRES
-om am Co CO SOwnnths NNR ee RR ooo eowoense oownne
 
 , as)
-eSsers S888 BRRRS ZRSES Seas SRESE
 Ro oR & & bo KF oonwmem 2A oh P& OnrFe OS Om WIQA om wb
 
 eevee
 
 IA ABSH
-Steonwooe Bara HOBNUD BBYHSD BHA HOBID
 
-MN NHy ws Ow bd hy
 
-m™ Bo bo bo b bo tS wb tw bw & bw tb hb Bee 8 NNN H NHNHD
 
 Ses ye 8
-SRSS SIESS TASSS SEVSL RHPA eRSA’
-Denon Qweory AWHOR BHORHR BHOKH WRONT
 
 m™ bb bo ween PrN Ne NNPNNKR
 ' be NNN ty te be SEER bo 89 8
 
 2 91 $0 F s re: BROOMS Hi SP ONE
-Geeheod ReENYBROC NUHWSOHw cabo None oD PH ORE.
 
 moo 09 006002 bo bo bS to tp ROAD RQ HD dO OO HD BRRR bo bo bo BS
 529 RRA gS
 S28 &8SS38 8 IAN SVQ Ia
 
-SeRwodbd bebone ZHDERO PROREA CREB BOROE
 
-he 69 G2 G9 es wow ecca 9 co 69 69 co #3383 wWrmnpe NRHN
 RA a 2 Go 0 HPWese SS6aO araas
-Seee es OH HWS 6G ree SHan NOAH
 
-SSoOmbHR ADSES Baad” EBaSS Dornem Aawnor
 
-=e eee BWoOwew wows woe e2ue Bese
-RE SSSS S8SSS S3S88 ESSER EESSS Sxes
 
-SowbnvS nwyonb SHHSE hoETHS THEY CANON”
 
 SesSns os SSN BaD SSeess
 SSSe8S5 Se5e5 SSS8SS SES5S e2eso ooo
 
-SESSEE SSSRS BREEE BREER EERE 8838
 --- page 10 ---
 B wR ur E+E RS £852 528 BE S818
 H8 S858 58 52 85 SS RS RE BS BSls
-ue SF Be Vr VF gan Go Fa AN DO a
 
 aks e e a = bo we HOI YB YAla
 JE »S »S »& »Bee 68 88 88 Se 21s
 ae ©noe 4S 568 5 2 $2 32 8% e1S
-S® 8S 82 SS Se eo 8e 85 $O So
 
 \o/ \o
 ````
@@ -861,144 +920,4 @@ i) Handoff strategies
 ii) GSM air interfaces
 
 —X—
-````
-
-## Year not stated · Exam not stated · Trim 2 · ZIP of papers · paper 67ab3615d269 · MOBILE COMPUTING AND WIRELESS NETWORKING 2011-12.pdf
-
-- Departments: Electronics and Telecommunication
-- Programmes: M TECH / EXTC
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM II/Wireless & Mobile Communication System/M Tech EXTC TRIM II Wireless & Mobile Communication System MOBILE COMPUTING AND W_6bd0dcdd.zip`
-- Printed on paper: exam date: 04/02/2012
-- Text: ocr (2 pages), mean OCR confidence 94.1
-
-````text
-SVKM’s NMIMS
-
-——Mukesh Patel School Of Technology Management & Eng
-Programme: M. Tech-I.T. / COMPUTER Year: I Trimester;
-
-Academic Year : 2011-2012
-
-Subject: MOBILE COMPUTING & Marks:
-WIRELESS NETWORKING Time: \
-Date: 04/02/2012 Duration:’\
-
-Final - Examination
-
-© All questions carry maximum marks as indicated on the right
-
-e Bulleted and to-the-point answers are required
-
-e Draw diagrams, if required, as an aid for explanation
-
-e Q.1. and Q.2. are compulsory. Answer ANY FIVE of the remaining SIX questions
-® Make suitable assumptions, wherever required, and state them
-
-1. Answer True dr False 15
-
-a) Snoop approach in TCP can be used even if the intermediate node does not
-have security keys
-
-b) For handling routing to end mobile nodes Domain Name Service is fast and
-efficient enough
-
-c) TCP congestion window should be kept constant if the packet loss is due to
-bit errors
-
-d) Split connection approach of TCP requires state maintenance, for each
-connection, at the intermediate node where the connection is split
-
-e) Reactive routing protocol has low overheads since routes are determined on
-demand
-
-f) 802.11 time synchronization beacons, in distributed coordination function
-
-} (DCF), cannot collide as they are not regular data packets
-
-g) Frequency allocation is done in FDMA so as to decrease the spectrum
-utilization
-
-h) Propagation delay affects the slot boundaries in TDMA
-
-i) in a decentralized MAC, on collision, exponential backoff mechanism is used
-to quickly reduce the possibility of collision on next transmission
-
-j) Routing in mobile adhoc networks is a challenge since the mobile nodes
-
-} usually have limited battery life
-, 2. Answer in maximum two sentences 15
-
-a) @! Assume in a polling based centralized MAC, a misbehaving node keeps on
-broadcasting a short packet at a fixed frequency, to cause collisions,
-regardless whether polled or not. How can this problem be avoided? (Note:
-you are unable to locate and physically remove the device)
-
-b) RTS/CTS mechanism cannot effectively handle exposed terminal problem.
-
-Explain.
-
-c) In a decentralized MAC, suggest how a node could determine the probability
-value the nodes should use for transmitting a packet, when the medium is
-detected free
-
-d) in a cellular mobile system, larger cells are better when number of users is
-
-Page 1 of 2
---- page 2 ---
-e)
-3.
-
-less. Explain.
-Dynamic Source Routing is not efficient. Explain
-
-Write short notes on any two: 14(7
-1. Backoff mechanism in 802.11 MAC each)
-2. Tunneling in Mobile-IP
-
-3. RTS/CTS mechanism for collision avoidance
-
-4. Problems with Snoop approach for TCP over wireless
-
-a) Discuss the typical problems of wireless medium which impact the MAC 4
-design for wireless networks
-
-c) For a wireless MAC carrier sense (sensing the medium for a signal 3
-pattern) is essential. Explain in brief the reasons for this.
-
-d) Carrier sense and after that the decision to transmit a packet bya nodeis 7
-taken based on certain parameters. Discuss these parameters and how
-they can be tuned to improve the carrier mechanism.
-
-a) In an IP network, suppose an end node (destination) is mobile. What are 3
-the routing problems caused due to this?
-
-b) For the above scenario, to handle the end node mobility, suppose 4
-routing tables are updated on the intermediate routers to enable routing
-to the mobile node. What is your opinion about this mechanism?
-
-c) For the scenario in (a), suppose Mobile-iP is used. What are the problems 7
-in Mobite-IP?
-
-a) What are the short comings of TCP in wireless networks, due to which 6
-the throughput of TCP is low?
-
-b) Discuss any enhancement to TCP to overcome the above short comings, 8
-in a wireless network. Discuss this for a wireless network scenario of your
-choice.
-
-a) What do you understand by power saving for mobile nodes? How can 4
-the medium access mechanism be improved for ensuring power saving?
-
-b) Discuss the power management mechanism for any suitable wireless 10
-MAC protocol
-
-Explain the typical characteristics of a ‘wireless network that impact the 14
-
-behavior of protocols in a mobile device. Explain using examples how the
-
-various layers of the protocol stack are impacted. You should only discuss
-
-the problems, the solutions need not be discussed
-
-Page 2 of 2
 ````

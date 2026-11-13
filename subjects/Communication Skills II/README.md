@@ -16,10 +16,10 @@ Also filed as: `COMMUNICATIONS SKILLS-II`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Communication Skills-II(702BS0C019)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Communication Skills-II(702BS0C019)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Communication Skills-II(702BS0C019)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Communication Skills-II(702BS0C019)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Communication Skills-II(702BS0C019)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Communication Skills-II(702BS0C019)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | B TECH | Communication Skills -II, Sem-II, Final Exam 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | B TECH | Communication Skills-II, Batch 2023-24, Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 2 | B TECH | Communications skills-II, Sem-II, Year 2022-23, Final Exam.pdf |

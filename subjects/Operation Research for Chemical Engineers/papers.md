@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Operation Research for Chemical engineers/Operation Research for Chemical engineers,2022-23.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28/04/2023
 - Text: ocr (5 pages), mean OCR confidence 76.8
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -251,63 +252,51 @@ and 40 days (b) 39 days, (c) more than 33 days, (d) more than 42 days.
 (20)
 --- page 5 ---
 DAVKNDLOAMDKOWRDE OMONKRNROOONATTEOOMNNA
-OQYT KH NANTOMONOP RE FT THOOPHDK-HMHONDDODDDOO
 TONTMOONNOFHMOMOFHYHNORKMOMDADADADDADDOOD
 JoorrrAdNgHogtevererterereet eee eS
 
 SCODDDDDDDOOOOOOOOOOOOOCOOOOCOOOCOON
 
 DATMNOLTORMONDOKRNODNNOKENTRMATENMOOOMNON
-Orr ONDTArNOONKDOONMNDOF NOK NNOKROHDDDOOO
 JONrTTOrNArFMNAAKFMINOOKRMMHADAAADAIDDDOO
-FoorKe KH NNNMMNMNNH¢ Yet ttttt tte Tte tet
 
 (oHoKoRoRoMoMoRoMoMoMoRoRoRoNoe No Ne MoM No NoNoNoNoNoNokohoNoNoRoR oN oN)
 
 NOUTMONO ONOONNMDHOMNOXOTHNODNNOMONHOR
-oIKNOTOHD TNOODYOK AUK OHOHHrMTOKKMOODGOGO
 sNoOotTord YMONAKFANTNODRDOMDAADDDADADDDDODD
-Voorn rH AANPOMMQYt Itt tyyIttt ttt tir r rs
 O000000 O000dDDDO000dCCD0DCOCCOCCCOOS
 
 OOOOONHTTHNTONFDONDOOMOK Or Derr ONONTON
 DOAAOKRANOHK HROMKROFODHDOTHONFORKRKRHDHOOOG
 WNOOTKRrPTNHOMNNRAKFANATNOORDHOMDADADDADDDDOD
-SFoorKr KH ANNHMNAMHNNY ttt treet et Tete tte TT
 
 COCKODKOCOOOCOOOOOCOOOOOOOOOCCOOCDCOS
 
 JooorrKANANAMHOTTTITTTETTTTT TIT TTT TTY
 loRoRohoeeneonokononeoneonenoneneonenononeononononenoneneonenononeonononeonene)
-EO OT OR OOOO OR NOON TAO COORG OO sO
-Jooor KH ANANMHHNTTTTTTE TTI T ITT TTT T TTS
 lo eRonewonenenenononenenenenenonenononeneonenenononenenoneneonenoneneone)
 NOOK NDNYNOANKOMONKRYTMNOOMOMDNNFONONKrer YOR
-PoOoor eK AANNMNHMOOTTTTTTETTITTTTT TET TTT S
 loeoRohoe oko eokoneonokenononenonenononenonononenonenenenonenenononenene)
 TICOMNNRTOFKOOMNNDDKRYNMNTANDDOLTOOONONNKRE MOR
 ooao
-JOoor eK AANHHMOTITITT ECCT TTTT TTT ITT TS
 loeoReneeoheonekoneononenononenonenononenenononenoneneneononenenononenene)
 
 CHOMMALTONOTOAMONNNATHE ONE r MHOMHTHNOMOR
 Ooo9OKNrNoOON WITOMAOMNONTFKRUVNOTDrFTANOKRMMDOODODA
 JOORFWANHOD-YOHHDOrNTNOKKRDADMHDADHDDDD000
-FoooreK NNNO QMO TY YTtttttTittttrttrtett
 
-ooo oR oMoNonoRolole fo (oNoNoNe eRe RoR oN oNoMoReReRoRoNoNeNoKehoRohole)
 
 Or |ey/e9/t]19}O]N/ 09 op) Of You} en| stun} o|N|ca/»]0 |= |04) em} tt] |00/0n/0| |0y) en] st
-E dldjoldjolalajdiajo Pele ee leer fad cd cd clad] dl cdl cd] cd] cd] c9 | 9 09 |¢9 69
 ````
 
-## Year not stated · Exam not stated · Sem 6 · paper 2867df1d5d33
+## 2022-23 · Exam not stated · Sem 6 · paper 2867df1d5d33
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Operation Research for Chemical engineers/Operation Research for Chemical engineers.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01/07/2023
 - Text: ocr (5 pages), mean OCR confidence 76.6
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ky
@@ -388,7 +377,6 @@ S2 48 36 40 44 25 100
 Demand 100 70 50 40 40
 Draw the network diagram for the matrix below and find the critical path and length of (5)
 project.
-Job A B Cc D E E G H 1 J
 Immediate
 Predecessors -- A B B B Cc Cc F,G ,| D,E,H |
 
@@ -553,7 +541,6 @@ ODORNDHNONDMHAOTrFNONNONONNORK
 ae ee eee
 
 1°)
-onary tttttrtyy ttre rtrrt rtd
 
 JODGODDDDCDCDCDODDODOOCDOO000N
 
@@ -599,8 +586,6 @@ onyvryreytyttrrrirrryrrrtrrrtt
 
 }OCDDDCDDDCOCDDCDOGGDCCODOOCON
 
-HONANNANTKE MONE K- MDNMNNYT ST ROMNOK
-Se ee ee oO oO Rao
 
 1°)
 ROR OCOCRROCOGOGOGAOROL

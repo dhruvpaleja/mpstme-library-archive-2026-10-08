@@ -157,6 +157,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Process Simulation/Process Simulation , Re-exam 2021-2022.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 June 2022
 - Text: ocr (4 pages), mean OCR confidence 76.2
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -250,7 +251,6 @@ ae flow, T, P).
 Page 2 of 4
 --- page 3 ---
 Do the degree of freedom analysis for the given flow diagram: (Paiabet 3
-Crach, or. ——> Cha HChy + MgO , Conve ody,
 
 Q3 CH= Cha any —_ CH 3CNg 3 Gow = T3"h
 CO-2; :
@@ -258,9 +258,7 @@ _ CM CH, Ch CHa Me]
 Tey
 BL-4 - CryChiz
 5 Cats OH | Reactor no Kenmstian ETkone,
-j MaSOuy ioe He Reactts Ch,Chg
 
-Pa 1 fotm LP= aan | loc, Pe 2Qorm
 
 Apply the concept of partitioning in the given flow diagram and solve the
 longest loop with Barkley & Motard’s method and Upadhye & Green’s

@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Machine Learning/ANS_Machine Learning(703CO0C025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (19 pages), mean OCR confidence 54.1
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -103,7 +105,7 @@ Calculation table with X and X^2 and all other values [4 Marks]
 Calculation of coefficients – [2 Marks]
 ********** 3 **********
 --- page 4 ---
-RK KK KK KKK 4 oh KR Kk KK KK
+
 --- page 5 ---
 b. Explain in detail the concept of Gradient Descent with suitable example.
 Ans:
@@ -114,7 +116,7 @@ Marks]
  Steps of GD, Gradient Curve and example:
 ********** 5 **********
 --- page 6 ---
-RK KK KK KKK 6 oh KR Kk KK KK
+
 --- page 7 ---
 FRAO 7) AACR Ck ok ok ok oak
 --- page 8 ---
@@ -139,9 +141,9 @@ Significance [2 Marks]
 Use and finding model with example [8 Marks]
 ********** 8 **********
 --- page 9 ---
-RK KK KK KKK 9 oh KR Kk KK KK
+
 --- page 10 ---
-RK KK KK KKK 10 oh KR Kk KK KK
+
 --- page 11 ---
 a. A pharmaceutical company would like to test the efficiency of its drugs in terms of
 the dosage amount, if tested on a person. Use the regression tree algorithm to
@@ -165,7 +167,7 @@ finding regression tree [7 Marks]
 Finding value of test sample [2 Marks]
 ********** 11 **********
 --- page 12 ---
-RK KK KK KKK 12 oh KR Kk KK KK
+
 --- page 13 ---
 b. Apply Logistic Regression on the following data set and devise the model for
 classification using GD. Assume initially all the coefficients as 1 and update them
@@ -4283,11 +4285,12 @@ same ratio.
 - Programmes: BTech CSE DS 7011
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_CSE_DS_7011/Machine Learning/ANS_Machine Learning(702DB0C015)_2025-2026.pdf`
 - Text: ocr (12 pages), mean OCR confidence 34.0
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 l
 --- page 2 ---
-Eero = Target olp — Oubkhy -
 = \— 0 6051
 = 073949
 
@@ -4344,8 +4347,6 @@ nen) = new
 Therion - L
 (9, 1118 ad )25,*+8, 80 205uD .
 
-crate Cenkacths Avira” Change, gy\ the Clutea -
-tre chykuy Ramoin HE Lame:
 
 ae charts macy $2) 1518
 
@@ -4381,8 +4382,6 @@ Medron = @ariec) | a 2 = IQ
 Q, = Qi
 (Qs > 10S TOR + [oS-9Q 213
 Ow kn gue :
-dower grok = @, — VS *EOR = g9 -19-9 = Jae
-uphen dent = ati AEaRE poSa PS 2 12S
 Drhy
 7) atk r
 --- page 8 ---
@@ -4402,7 +4401,6 @@ bin be
 64 b)
 
 pow Me 1k, fog arb
-advenk srg eros = $y eyor
 Saly 2 ys gran Fem 2°
 
 = $9 2600 60
@@ -6717,6 +6715,7 @@ than removed.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_CS_7055/Machine Learning/ANS_Machine Learning(702CO1E001)_2025-2026.pdf`
 - Printed on paper: duration hours: 3
 - Text: mixed (22 pages), mean OCR confidence 68.9
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -7032,11 +7031,9 @@ Best root node=Study hours
 Entropy of the entire dataset 1 marks, 3 marks each for gain calculation of 3 independent variables.
 14
 --- page 15 ---
-7 es') EnrroRy, op enaive Dertoser is gee a
 CO) “Belg Car 5
 ia |
 
-MOD = Clog _Cl~) -e tbo ClO fa)
 lo 2 rea Oa
 
 = O4401 + 0. sogy, = SS ASL Qe
@@ -7047,14 +7044,12 @@ nCS dH9D) os = S'9g,.05 = oo
 
 milous
 
-bat CArwwd sto) caiun = 2-09,(8/2) an Apteg £8)
 FS BQnosegqy PAK VST
 = 038411 + OS2=3
 a o-A1e2.
 
 ~~. eperghted Sum op opy =,
 
-AGwasHros) =Bxoy~ 4Rpo+Bxoouer
 \o 1D ae
 =, Gales re
 Fngoe Gy ot = HW) —H CBredyHoo )

@@ -1,8 +1,460 @@
 # Computer Programming I: question papers in full
 
-9 unique papers · 2012-13 to 2017-18 · Common (all branches)
+9 unique papers · 2015-16 to 2019-20 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2019-20 · Re-Exam · Sem 1 · paper a939572a5971
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/COMPUTER PROGRAMMING I/Computer programming-I,Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 70; exam date: 13 November 2019
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA TECH (All Stream) Year: I « Semester: I
+
+Academic Year: 2019-20 ~
+Subject: Computer Programming -I -
+
+Marks: 70
+Date: 13 November 2019. Time: 10,00 ami
+
+Durations: 3 (Hts)'
+No. of Pages: oN
+Re-Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+t) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1. Answer any Seven Questions: [Z*2=14 Marks]
+
+a. What will be the output/ Error of the following program.
+
+void main()
+{
+char str="C Program”;
+printf(“%s”, str) ;
+getch();
+}
+b. What are actual and formal arguments.
+c. What do you mean by algorithm? Which points you should consider while developing
+the algorithm.
+d. Explain For loop with an example.
+e. No two case statements have in the same switch.
+f. What will be the output/ error in the following program:
+
+a
+--- page 2 ---
+void main()
+{
+
+clrscr();
+if(O}
+printf(“False”);
+else
+printf(“True”);
+}
+
+e. Inan array x[10], the x represents the
+f. What is the use of the keyword struct ? Explain the use of dot operator.
+Q2.
+
+a. WAP to detect whether an entered three digit number is an Armstrong number. If the sum of
+cubes of each digits of the number is equal to three number itself, then the number is called an
+Armstrong number. [7 Marks]
+
+b. Explain the significance of File. Discuss the various file handling functions in C. [7 Marks]
+
+Q3.
+
+a. WAP to enter few numbers and count the positive and negative numbers together with their
+sums. When 0 is entered program should terminate. [7 Marks]
+b. Explain the concept of passing arrays as. an arguments to functions with example. [7 Marks]
+
+aa, #
+
+a. Write a short note on Array of Structures. [7 Marks]
+
+b. WAP to perform different arithmetic operations using pointers. [7 Marks]
+Qs.
+
+a. WAP to print Nth Fibonacci series using recursion. [7 Marks]
+
+b. Explain Constants, Keywords, Identifiers and Variables. [7 Marks]
+Q6.
+
+a. WAP to interchange array elements of two arrays using functions. [7 Marks]
+
+b. i. Difference between Structures and Unions. [4 Marks]
+
+ii. Difference between while and do-While loop. [3 Marks]
+
+a4
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper fbb095bf0f92
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMPUTER PROGRAMMING I/COMPUTER PROGRAMMING I (ALL STREAMS) BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 22 November 2018
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: I Semester: I
+
+es -
+“Academic Year: 2018-2019
+
+Subject: Computer Programming - I
+
+“ Marks: ‘AX 2
+Date: 22 November 2018 Time: 10.0Qaip-to_
+Ps Durations:
+
+No. of Pages :
+Re-examination (2017-18)
+
+vs
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 a) Find the output of the following program .Justify your answer. [4]
+i) # include <stdio.h>
+void fun(int *ptr)
+{
+*ptr = 30;
+}
+
+int main()
+{
+int y = 20;
+fun(&y);
+printf("%d", y);
+return 0;
+}
+ii) #include <stdio.h>
+int main()
+{ : - of
+inti=0;
+4 switch (i)
+{
+sre case '0': printf("Computer");
+break;
+case 'l': printf(""Programming");
+break;
+default: printf("Computer Programming");
+
+}
+
+return 0;
+*g }
+
+tye
+--- page 2 ---
+j
+
+b) Explain any three Bitwise operators by using suitable example. [3]
+c) Explain following type of function with example: [4]
+a) without parameter without return value
+b) with parameter without return value
+d) Discuss properties of algorithm. [3]
+
+Q.2a) Write a C program to print the first ‘N’ Fibonacci numbers. [8]
+b) . Write a C program to print following pattern using for loop. [6]
+Take number of lines from user.
+1
+12
+123
+1234
+
+Q.3 a) Differentiate between [8]
+i) Entry controlled loop and Exit controlled loop.
+ii) Function prototype, Function call and function definition.
+Demonstrate with an example.
+b) Write a program to find the output of following series. ~ [6]
+Series: (12)+(2?)+(3°)H(47)+....-. (n?)
+
+Q.4a) Explain following term by using swapping of two numbers. [8]
+i) Call by value
+ii) Call by reference
+b) Write a short note on algorithm and flowchart. Make an algorithm and flowchart [6]
+for multiplication table of ‘n’.
+
+Q.5a) Write a program to add, subtract and multiply two complex numbers using [8]
+structures to function.
+b) What are pointers? When and why they are used? Explain in detail with sample [6]
+program.
+Q.6 a) Write a program to print multiplication of two matrices. [8]
+b) Write a program to find maximum of three numbers using conditional operator [6]
+(Ternary) and without using conditional operator.
+
+Q.7a) Write two C programs which takes two strings as input and perform following task —_ [8]
+without using string inbuilt functions:
+
+. i) Calculate the length of both the strings.
+
+ne ii) Concatenate both the stings.
+
+ili) Check whether strings are equal, less or greater.
+
+b) Write a C language program to enter n elements in array and find second largest [6]
+number from array.
+
+wy
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper b272bbd51e5f
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMPUTER PROGRAMMING I/COMPUTER PROGRAMMING I BATCH 2017-18 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 January 2019
+- Text: ocr (2 pages), mean OCR confidence 88.7
+
+````text
+SVKM’S NMIMS
+
+Program: B. Tech (All Streams) Year: 1 « Semester:] +
+a Academic Year: 2018-2019
+
+Subject: Computer Programming - | Marks: 70 -~
+
+ZY
+Time: 2.00 pm to 5.00 pm
+Date: 17 January 2019 .
+Y Durations: 3 (hrs) 2
+No. of Pages: O2—
+Re-examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1a) Find the output of the following program Justify your answer. [4]
+i) #include <stdio.h>
+int main()
+{ . .
+int 1;
+
+int x=10,y=0,z=0;
+for(i=0;i<5;i++)
+
+{
+> us
+if(x==14)
+break;
+yr;
+}
+Zire;
+yt;
+printf("%od%d",y,z);
+return 0;
+
+}
+
+ii) #include <stdio.h>
+int main()
+
+{
+
+char str[30]="Computer Programming";
+printf("%d,%d\n",sizeof(str) ,strlen(str));
+return 0;
+
+Ve
+--- page 2 ---
+b) Explain any three logical operators by using suitable example. (3]
+c) State all four types of function with suitable example. [4]
+d) Discuss program development life cycle. [3]
+
+Q.2a). Write a C program to search an element from an array. Size of array, elements of [8]
+array and search key should be taken from user. If that element is present in array
+print its index number too.
+
+b) Write a C program to print right triangle star pattern series using for loop. [6]
+
+Take number of lines from user.
+*
+
+76K
+RK
+
+28 RRR
+oe KK RK
+
+Q.3a) Differentiate between [8]
+i) While loop and do while loop
+
+ii) Break and continue
+
+Demonstrate with an example.
+b) Write a program to find GCD of two numbers, using recursion concept. [6]
+
+Q.4a) Explain following term by using suitable example: [8]
+i) Call by value
+ii) Call by reference
+b) Write a program to print sum of two matrices. [6]
+
+Q.5a) \ Write two C programs which takes two strings as input and perform following task [8]
+without using string inbuilt functions: ©
+i) Calculate the length of both the strings.
+ii) Concatenate both the stings.
+b) Write a program to store and print the roll no., name, age and marks ofastudent [6]
+
+using structures.
+
+Q.6a) Write a program and draw flowchart to check if a given number is even or odd. [8]
+
+b) Write a program to find maximum of three numbers using conditional operator [6]
+(Ternary).
+
+Q.7a) Write a C program to print sum of *n’ natural numbers. [8]
+
+Series : 1+2+3+4 n
+b) | Write a short note on algorithm and flowchart. Write a C program to check whether [6]
+
+a given number is palindrome or not.
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper 4d71120072c6
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/COMPUTER PROGRAMMING I/Computer Programming-I Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 November 2018
+- Text: ocr (2 pages), mean OCR confidence 95.0
+
+````text
+2
+
+6
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E!
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERI
+
+Programme: MBA Tech (All Streams) Year: I Semester: I
+: Academic Year: 2018-2019
+
+Subject: Computer Programming - I
+Marks: 70 .
+Date: 16 November 2018 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: o2
+Re Exam (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q. 01 a) Define algorithm, also describe in brief the properties of algorithm. [3]
+b) Define data types in C programming language. Enlist classes of data types supported by C. [2]
+c) Describe formatted input and output functions. [3]
+d) Explain initialization of a two-dimensional array with suitable example. [3]
+e) Explain any three string library functions. [3]
+
+Q. 02 a) i) Draw a flow chart for addition of odd numbers between 100 and 500. [4]
+ii) Explain program development life cycle. [3]
+b) Explain bitwise operators with suitable examples. [7]
+
+Q. 03 a) i) Write a program to check whether a given year is a leap year or not. [4]
+ii) Write a program to find the sum of digits of a given number. [3]
+b) Write a program to print following pattern: [7]
+
+1
+1 2
+1 2 5
+
+1 2 3 4
+1 2 3 ~ 5
+
+Page 1of2
+
+— ¢
+--- page 2 ---
+Q. 04 a) i) Write a program to find the largest of the numbers stored in a one-dimensional array. [4]
+ii) Define dynamic arrays. [3]
+b) Write a program to calculate multiplication of two matrices stored as arrays. [7]
+Q. 05 a) i) Write a program having a function to swap the values of two variables. [4]
+ii) Explain various categories of user defined functions with suitable example prototypes. [3]
+b) Write a program to print permutations of characters stored in an array. [7]
+
+Q. 06 a) i) Explain call by value and call by reference with suitable example. [4]
+ii) Write a program to check whether an entered character is a vowel or not using switch case. [3]
+b) Create a structure to store following information about students:
+Roll number, Name, Course, Year of joining
+Write a program to store and display information about 10 students. [7]
+
+Q. 07 a) Write a program to pass an array as parameter to a function and display its elements through the
+function. [7]
+b) Write a program to concatenate two strings (without using library functions). [7]
+
+Page 2 of 2
+
+= 2
+````
 
 ## 2017-18 · Exam not stated · Sem 1 · paper e3a16303147d
 
@@ -437,260 +889,6 @@ matrix that is equal to its transpose.
 . 2/a_
 ````
 
-## 2017-18 · Re-Exam · Sem 1 · paper fbb095bf0f92
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMPUTER PROGRAMMING I/COMPUTER PROGRAMMING I (ALL STREAMS) BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 22 November 2018
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (All Streams) Year: I Semester: I
-
-es -
-“Academic Year: 2018-2019
-
-Subject: Computer Programming - I
-
-“ Marks: ‘AX 2
-Date: 22 November 2018 Time: 10.0Qaip-to_
-Ps Durations:
-
-No. of Pages :
-Re-examination (2017-18)
-
-vs
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 a) Find the output of the following program .Justify your answer. [4]
-i) # include <stdio.h>
-void fun(int *ptr)
-{
-*ptr = 30;
-}
-
-int main()
-{
-int y = 20;
-fun(&y);
-printf("%d", y);
-return 0;
-}
-ii) #include <stdio.h>
-int main()
-{ : - of
-inti=0;
-4 switch (i)
-{
-sre case '0': printf("Computer");
-break;
-case 'l': printf(""Programming");
-break;
-default: printf("Computer Programming");
-
-}
-
-return 0;
-*g }
-
-tye
---- page 2 ---
-j
-
-b) Explain any three Bitwise operators by using suitable example. [3]
-c) Explain following type of function with example: [4]
-a) without parameter without return value
-b) with parameter without return value
-d) Discuss properties of algorithm. [3]
-
-Q.2a) Write a C program to print the first ‘N’ Fibonacci numbers. [8]
-b) . Write a C program to print following pattern using for loop. [6]
-Take number of lines from user.
-1
-12
-123
-1234
-
-Q.3 a) Differentiate between [8]
-i) Entry controlled loop and Exit controlled loop.
-ii) Function prototype, Function call and function definition.
-Demonstrate with an example.
-b) Write a program to find the output of following series. ~ [6]
-Series: (12)+(2?)+(3°)H(47)+....-. (n?)
-
-Q.4a) Explain following term by using swapping of two numbers. [8]
-i) Call by value
-ii) Call by reference
-b) Write a short note on algorithm and flowchart. Make an algorithm and flowchart [6]
-for multiplication table of ‘n’.
-
-Q.5a) Write a program to add, subtract and multiply two complex numbers using [8]
-structures to function.
-b) What are pointers? When and why they are used? Explain in detail with sample [6]
-program.
-Q.6 a) Write a program to print multiplication of two matrices. [8]
-b) Write a program to find maximum of three numbers using conditional operator [6]
-(Ternary) and without using conditional operator.
-
-Q.7a) Write two C programs which takes two strings as input and perform following task —_ [8]
-without using string inbuilt functions:
-
-. i) Calculate the length of both the strings.
-
-ne ii) Concatenate both the stings.
-
-ili) Check whether strings are equal, less or greater.
-
-b) Write a C language program to enter n elements in array and find second largest [6]
-number from array.
-
-wy
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper b272bbd51e5f
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/COMPUTER PROGRAMMING I/COMPUTER PROGRAMMING I BATCH 2017-18 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 January 2019
-- Text: ocr (2 pages), mean OCR confidence 88.7
-
-````text
-SVKM’S NMIMS
-
-Program: B. Tech (All Streams) Year: 1 « Semester:] +
-a Academic Year: 2018-2019
-
-Subject: Computer Programming - | Marks: 70 -~
-
-ZY
-Time: 2.00 pm to 5.00 pm
-Date: 17 January 2019 .
-Y Durations: 3 (hrs) 2
-No. of Pages: O2—
-Re-examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1a) Find the output of the following program Justify your answer. [4]
-i) #include <stdio.h>
-int main()
-{ . .
-int 1;
-
-int x=10,y=0,z=0;
-for(i=0;i<5;i++)
-
-{
-> us
-if(x==14)
-break;
-yr;
-}
-Zire;
-yt;
-printf("%od%d",y,z);
-return 0;
-
-}
-
-ii) #include <stdio.h>
-int main()
-
-{
-
-char str[30]="Computer Programming";
-printf("%d,%d\n",sizeof(str) ,strlen(str));
-return 0;
-
-Ve
---- page 2 ---
-b) Explain any three logical operators by using suitable example. (3]
-c) State all four types of function with suitable example. [4]
-d) Discuss program development life cycle. [3]
-
-Q.2a). Write a C program to search an element from an array. Size of array, elements of [8]
-array and search key should be taken from user. If that element is present in array
-print its index number too.
-
-b) Write a C program to print right triangle star pattern series using for loop. [6]
-
-Take number of lines from user.
-*
-
-76K
-RK
-
-28 RRR
-oe KK RK
-
-Q.3a) Differentiate between [8]
-i) While loop and do while loop
-
-ii) Break and continue
-
-Demonstrate with an example.
-b) Write a program to find GCD of two numbers, using recursion concept. [6]
-
-Q.4a) Explain following term by using suitable example: [8]
-i) Call by value
-ii) Call by reference
-b) Write a program to print sum of two matrices. [6]
-
-Q.5a) \ Write two C programs which takes two strings as input and perform following task [8]
-without using string inbuilt functions: ©
-i) Calculate the length of both the strings.
-ii) Concatenate both the stings.
-b) Write a program to store and print the roll no., name, age and marks ofastudent [6]
-
-using structures.
-
-Q.6a) Write a program and draw flowchart to check if a given number is even or odd. [8]
-
-b) Write a program to find maximum of three numbers using conditional operator [6]
-(Ternary).
-
-Q.7a) Write a C program to print sum of *n’ natural numbers. [8]
-
-Series : 1+2+3+4 n
-b) | Write a short note on algorithm and flowchart. Write a C program to check whether [6]
-
-a given number is palindrome or not.
-````
-
 ## 2017-18 · Re-Exam · Sem 1 · paper f43e6ff82d08
 
 - Departments: Common (all branches)
@@ -801,205 +999,7 @@ b Write a C program using pointers to compute the sum of all elements stored in 
 array, also draw flowchart.
 ````
 
-## 2017-18 · Re-Exam · Sem 1 · paper 4d71120072c6
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/COMPUTER PROGRAMMING I/Computer Programming-I Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 November 2018
-- Text: ocr (2 pages), mean OCR confidence 95.0
-
-````text
-2
-
-6
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E!
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERI
-
-Programme: MBA Tech (All Streams) Year: I Semester: I
-: Academic Year: 2018-2019
-
-Subject: Computer Programming - I
-Marks: 70 .
-Date: 16 November 2018 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages: o2
-Re Exam (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q. 01 a) Define algorithm, also describe in brief the properties of algorithm. [3]
-b) Define data types in C programming language. Enlist classes of data types supported by C. [2]
-c) Describe formatted input and output functions. [3]
-d) Explain initialization of a two-dimensional array with suitable example. [3]
-e) Explain any three string library functions. [3]
-
-Q. 02 a) i) Draw a flow chart for addition of odd numbers between 100 and 500. [4]
-ii) Explain program development life cycle. [3]
-b) Explain bitwise operators with suitable examples. [7]
-
-Q. 03 a) i) Write a program to check whether a given year is a leap year or not. [4]
-ii) Write a program to find the sum of digits of a given number. [3]
-b) Write a program to print following pattern: [7]
-
-1
-1 2
-1 2 5
-
-1 2 3 4
-1 2 3 ~ 5
-
-Page 1of2
-
-— ¢
---- page 2 ---
-Q. 04 a) i) Write a program to find the largest of the numbers stored in a one-dimensional array. [4]
-ii) Define dynamic arrays. [3]
-b) Write a program to calculate multiplication of two matrices stored as arrays. [7]
-Q. 05 a) i) Write a program having a function to swap the values of two variables. [4]
-ii) Explain various categories of user defined functions with suitable example prototypes. [3]
-b) Write a program to print permutations of characters stored in an array. [7]
-
-Q. 06 a) i) Explain call by value and call by reference with suitable example. [4]
-ii) Write a program to check whether an entered character is a vowel or not using switch case. [3]
-b) Create a structure to store following information about students:
-Roll number, Name, Course, Year of joining
-Write a program to store and display information about 10 students. [7]
-
-Q. 07 a) Write a program to pass an array as parameter to a function and display its elements through the
-function. [7]
-b) Write a program to concatenate two strings (without using library functions). [7]
-
-Page 2 of 2
-
-= 2
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper a939572a5971
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/I SEMESTER/COMPUTER PROGRAMMING I/Computer programming-I,Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 70; exam date: 13 November 2019
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA TECH (All Stream) Year: I « Semester: I
-
-Academic Year: 2019-20 ~
-Subject: Computer Programming -I -
-
-Marks: 70
-Date: 13 November 2019. Time: 10,00 ami
-
-Durations: 3 (Hts)'
-No. of Pages: oN
-Re-Examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-t) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1. Answer any Seven Questions: [Z*2=14 Marks]
-
-a. What will be the output/ Error of the following program.
-
-void main()
-{
-char str="C Program”;
-printf(“%s”, str) ;
-getch();
-}
-b. What are actual and formal arguments.
-c. What do you mean by algorithm? Which points you should consider while developing
-the algorithm.
-d. Explain For loop with an example.
-e. No two case statements have in the same switch.
-f. What will be the output/ error in the following program:
-
-a
---- page 2 ---
-void main()
-{
-
-clrscr();
-if(O}
-printf(“False”);
-else
-printf(“True”);
-}
-
-e. Inan array x[10], the x represents the
-f. What is the use of the keyword struct ? Explain the use of dot operator.
-Q2.
-
-a. WAP to detect whether an entered three digit number is an Armstrong number. If the sum of
-cubes of each digits of the number is equal to three number itself, then the number is called an
-Armstrong number. [7 Marks]
-
-b. Explain the significance of File. Discuss the various file handling functions in C. [7 Marks]
-
-Q3.
-
-a. WAP to enter few numbers and count the positive and negative numbers together with their
-sums. When 0 is entered program should terminate. [7 Marks]
-b. Explain the concept of passing arrays as. an arguments to functions with example. [7 Marks]
-
-aa, #
-
-a. Write a short note on Array of Structures. [7 Marks]
-
-b. WAP to perform different arithmetic operations using pointers. [7 Marks]
-Qs.
-
-a. WAP to print Nth Fibonacci series using recursion. [7 Marks]
-
-b. Explain Constants, Keywords, Identifiers and Variables. [7 Marks]
-Q6.
-
-a. WAP to interchange array elements of two arrays using functions. [7 Marks]
-
-b. i. Difference between Structures and Unions. [4 Marks]
-
-ii. Difference between while and do-While loop. [3 Marks]
-
-a4
-````
-
-## 2012-13 · Re-Exam · Trim 1 · paper 196e5e53d88f
+## 2015-16 · Re-Exam · Trim 1 · paper 196e5e53d88f
 
 - Departments: Common (all branches)
 - Programmes: B TECH

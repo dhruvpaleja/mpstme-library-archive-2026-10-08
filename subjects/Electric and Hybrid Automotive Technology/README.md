@@ -16,11 +16,11 @@ Also filed as: `ELECTRIC HYBRID AUTOMATIVE TECHNOLOGY`, `ELECTRIC HYBRID AUTOMOT
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Electric and Hybrid Automotive Technology(702MH0E011)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Electric and Hybrid Automotive Technology(702MH0E011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Electric and Hybrid Automotive Technology 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | QP_Electric and Hybrid Automotive Technology(702MH0E011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_Electric and Hybrid Automotive Technology(702MH0E011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech Mechanical 7003, Integrated Mechanical 7031 | ANS_Electric and Hybrid Automotive Technology(702MH0E011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Electric and Hybrid Automotive Technology(702MH0E011)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | Electric and Hybrid Automotive Technology, Sem VI, Year 2024-25, Final Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | Electric and Hybrid Automative Technology, Sem-VI, Final 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / MECHANICAL | Electric and Hybrid Automotive Technology Batch 2023-24 Final.pdf |

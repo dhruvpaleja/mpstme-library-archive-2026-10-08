@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/INDUSTRIAL ROBOTICS & CONTROL/Industrial Robotics & Control, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 December 2022
 - Text: ocr (7 pages), mean OCR confidence 72.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -185,7 +186,6 @@ parameters)
 
 qz=rInwe
 
-qu=atan2{[(a1-a2ce)wita2s2Wel / [(arta2ce)w2-a2S2W:]}
 
 APE
 --- page 5 ---

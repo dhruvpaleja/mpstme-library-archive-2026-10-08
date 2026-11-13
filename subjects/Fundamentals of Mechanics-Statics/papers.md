@@ -1,8 +1,534 @@
 # Fundamentals of Mechanics-Statics: question papers in full
 
-11 unique papers · 2022-23 to 2023-24 · Common (all branches), Computer Engineering, Data Science
+11 unique papers · 2022-23 to 2025-26 · Common (all branches), Computer Engineering, Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 2 · paper 5ed59f94a9d4
+
+- Departments: Computer Engineering
+- Programmes: Integrated Computer 7032
+- Source: `02_Question_Papers/2023/Sem_02/Re-Exam/Integrated_Computer_7032/Fundamentals of Mechanics-Statics/QP_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Fundamentals of Mechanics-Statics
+Date: 05 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2023-2024)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Q. NO. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. Assume suitable data if required.
+Q1   Answer briefly:
+CO-1;   a.   Define the following terms: i) Mechanics, ii) force.   [5]
+SO-1;
+BL-1
+CO-2;   b.   State different types of supports and show the reactions offered by them.   [5]
+SO-1;
+BL-2
+CO-3;   c.   Explain simple lifting machine and sketch simple wheel and axle lifting machine.   [5]
+SO-1;
+BL-2
+CO-2;   d.   Define cone of friction.   [5]
+SO-1;
+BL-1
+Q2
+CO-1;   a. A screw is subjected to two forces   [10]
+SO-1;
+BL-3   as shown in figure. Determine the
+resultant of the two forces.
+CO-2;   b. A Block weighing 600 N resting on a rough inclined plane at an angle of 30o can [10]
+SO-1;   be moved by a force of 150 N applied at an angle of 30o up with the inclined
+BL-3
+plane. Solve for the co-efficient of friction.
+********** 1 **********
+--- page 2 ---
+Q3   a. Two smooth spheres are in equilibrium in   [10]
+a horizontal channel of width 1000 mm as
+CO-2;   shown.
+SO-1;   Calculate the reactions at the surface of
+BL-3
+contact A, B, C and D assuming all
+smooth surfaces.
+Weight of sphere 1 (W1) = 200 N;
+Weight of sphere 2 (W2) = 150 N
+Radius of sphere 1 (R1) = 400 mm;
+Radius of sphere 2 (R2) = 250 mm
+CO-2;   b. The block is resting on a rough horizontal   [10]
+SO-1;   surface, find the frictional force on the
+BL-3
+block. µs = 0.3. µk = 0.25
+Q4   a.   Find the centroid of the shaded   [10]
+CO-2;   part.
+SO-1;
+BL-1
+CO-3;   b.   Find the law of machine in which an effort of 50 N raised a load of 85 N and an   [10]
+SO-1;
+BL-1   effort of 65 N raised a load of 120 N. Find the effort required to lift the load of
+88 N. What is maximum mechanical advantage?
+Q5   a.   Find the resultant of following force system and also find the equivalent force [10]
+CO-1;   and couple at point A of the same force system shown in Figure.
+SO-1;
+BL-1
+CO-2;   b. Show and find the support reactions for the following beam.   [10]
+SO-1;
+BL-2
+********** 2 **********
+--- page 3 ---
+Q6   a.   Find the resultant of the given force system shown. Also find out where the [10]
+CO-1;   resultant force will meet arm AB. Take A as the origin.
+SO-1;
+BL-1
+CO-2;   b.   Find moment of inertia about centroidal   [10]
+SO-1;   axis for the Figure.
+BL-1
+(Y-bar from x-axis = 184.80mm)
+Q7   a.   For a differential wheel and axle the diameter of wheel is 300 mm. The larger [08]
+CO-3;   and smaller diameters of the differential axle are 110 mm and 90 mm
+SO-1;   respectively. An effort of 60 N is applied to lift a load of 1500 N.
+BL-1   Find:
+(i)   Velocity Ratio VR
+(ii)   Mechanical Advantage MA
+(iii)   Efficiency of the differential wheel and axle.
+CO-2;   b.   Define Equilibrium and state different types of supports and their reactions with [08]
+SO-1;
+BL-1   the help of FBDs.
+CO-2;   c.   Define Centroid and find the centroid   [04]
+SO-1;
+BL-1   coordintes of the semicircle shown in
+figure
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 534cf35d3e87
+
+- Departments: Data Science
+- Programmes: Integrated DS 7038
+- Source: `02_Question_Papers/2023/Sem_02/Re-Exam/Integrated_DS_7038/Fundamentals of Mechanics-Statics/QP_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Fundamentals of Mechanics-Statics
+Date: 05 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2023-2024)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Q. NO. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. Assume suitable data if required.
+Q1   Answer briefly:
+CO-1;   a.   Define the following terms: i) Mechanics, ii) force.   [5]
+SO-1;
+BL-1
+CO-2;   b.   State different types of supports and show the reactions offered by them.   [5]
+SO-1;
+BL-2
+CO-3;   c.   Explain simple lifting machine and sketch simple wheel and axle lifting machine.   [5]
+SO-1;
+BL-2
+CO-2;   d.   Define cone of friction.   [5]
+SO-1;
+BL-1
+Q2
+CO-1;   a. A screw is subjected to two forces   [10]
+SO-1;
+BL-3   as shown in figure. Determine the
+resultant of the two forces.
+CO-2;   b. A Block weighing 600 N resting on a rough inclined plane at an angle of 30o can [10]
+SO-1;   be moved by a force of 150 N applied at an angle of 30o up with the inclined
+BL-3
+plane. Solve for the co-efficient of friction.
+********** 1 **********
+--- page 2 ---
+Q3   a. Two smooth spheres are in equilibrium in   [10]
+a horizontal channel of width 1000 mm as
+CO-2;   shown.
+SO-1;   Calculate the reactions at the surface of
+BL-3
+contact A, B, C and D assuming all
+smooth surfaces.
+Weight of sphere 1 (W1) = 200 N;
+Weight of sphere 2 (W2) = 150 N
+Radius of sphere 1 (R1) = 400 mm;
+Radius of sphere 2 (R2) = 250 mm
+CO-2;   b. The block is resting on a rough horizontal   [10]
+SO-1;   surface, find the frictional force on the
+BL-3
+block. µs = 0.3. µk = 0.25
+Q4   a.   Find the centroid of the shaded   [10]
+CO-2;   part.
+SO-1;
+BL-1
+CO-3;   b.   Find the law of machine in which an effort of 50 N raised a load of 85 N and an   [10]
+SO-1;
+BL-1   effort of 65 N raised a load of 120 N. Find the effort required to lift the load of
+88 N. What is maximum mechanical advantage?
+Q5   a.   Find the resultant of following force system and also find the equivalent force [10]
+CO-1;   and couple at point A of the same force system shown in Figure.
+SO-1;
+BL-1
+CO-2;   b. Show and find the support reactions for the following beam.   [10]
+SO-1;
+BL-2
+********** 2 **********
+--- page 3 ---
+Q6   a.   Find the resultant of the given force system shown. Also find out where the [10]
+CO-1;   resultant force will meet arm AB. Take A as the origin.
+SO-1;
+BL-1
+CO-2;   b.   Find moment of inertia about centroidal   [10]
+SO-1;   axis for the Figure.
+BL-1
+(Y-bar from x-axis = 184.80mm)
+Q7   a.   For a differential wheel and axle the diameter of wheel is 300 mm. The larger [08]
+CO-3;   and smaller diameters of the differential axle are 110 mm and 90 mm
+SO-1;   respectively. An effort of 60 N is applied to lift a load of 1500 N.
+BL-1   Find:
+(i)   Velocity Ratio VR
+(ii)   Mechanical Advantage MA
+(iii)   Efficiency of the differential wheel and axle.
+CO-2;   b.   Define Equilibrium and state different types of supports and their reactions with [08]
+SO-1;
+BL-1   the help of FBDs.
+CO-2;   c.   Define Centroid and find the centroid   [04]
+SO-1;
+BL-1   coordintes of the semicircle shown in
+figure
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper d311e141a342
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/Fundamentals of Mechanics -Statics/Fundamentals of Mechanics - Statics Batch 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30.04.2025
+- Text: ocr (3 pages), mean OCR confidence 83.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGL
+
+SCHOOL OF TECHNOLOGY MANAGEMENT eis
+Academic Year: 2024-2025
+Programs: B.Tech Integrated Year: I Semester: II
+Streams : Mech / Comp / IT /DS
+Subject: Fundamentals of Mechanics - Statics : Time: 3 hrs (Qr00pm to Se Oop)
+Date: 30.04.2025 No. of Pages: 03
+Marks: 100
+
+Re-Examination (2023-24)
+
+Instructions: Candidates should read carefully the instructions printed ¢ on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1 Answer briefly:
+CO-1; SO-1; | a. State and explain Newton’s Law of Motion [5]
+BL-1 : . ‘
+CO-1;SO-1; | b. | State different types of supports and show the reactions offered by them. [5]
+BL-2
+CO-3; SO-1; | c.. | State and explain condition of irreversibility of a machine [5]
+Us | BL-2 ;
+CO-2; SO-1; | d. | Define the terms angle of friction and angle of repose. [5]
+BL-1
+o _
+CO-1; | a. | The top end of vertical boot is connected A [10]
+SO-1; by two cables having tension T; = 500 N 30° K Am y= s00
+~~ =500N
+BL-1 and T2 = 1500 N, as shown in Figure. The] poy ff ‘
+: third cable AB is used as a guy wire. :
+Determine the tension in cable AB if the 1m |
+resultant of the three concurrent forces
+acting at A is vertical. Also find the
+resultant. n
+O
+
+10F3
+--- page 2 ---
+CO-2; |b. | A block weighing 300 N is resting on an inclined plane making an angle of 30°-with | [10]
+
+cdkey the horizontal. Identify the pull applied parallel to the plane to move the block up
+
+BL-3
+the plane if p = 0.35.
+Q3 a. | Three identical tubes of weights 8 kN : [10]
+cO-2; each are placed as shown in Figure. ‘
+SO-1: Determine the forces exerted by the tubes
+BL-1 ‘ on the smooth walls and floor.
+
+a
+
+7
+
+CO-2; |b. | Find force P required to pull block B [10]
+SO-1; ‘| (shown in Figure). Coefficient of friction | »
+BL-3 between A and B is 0.3 and between B |
+and floor is 0.25.
+Weights of A = 20 kg and B = 30 kg.
+Q4 a. | Find the centroid of the shaded area. [10]
+CO-2; -
+SO-1;
+BL-1
+
+CO-3; |b. | Find the law of machine in which an effort of 55 N raised a load of 300-N and an | [10]
+
+SO-1; effort of 100 N raised a load of 400 N. Find the effort required to lift load of 290 N.
+BL-1 What is maximum mechanical advantage?
+Q5 __|a. | Replace the force system acting on a bar as shown in Figure by a single force. [10]
+CO-1; x : 30N 20N
+SO-1; : a Ne £3
+| BL-1 06 — \— 2
+a Liu Im 14 m im ~4
+50N 40N . 40N
+
+2 OF 3
+--- page 3 ---
+: —_—
+
+> X axis
+
+V
+
+CO-2; |b. | Show and find the support reactions for the following beam. [10]
+20 . 20KN 30 KN
+Died . : i : SkNin
+x Y Lena isis B
+
+we 1iN- m 0°
+
+| 3m L 2m [| 25m [ 25m _,
+
+r T t V 1
+Q6 a. | Find the resultant of the given force system shown. Also find out where the resultant | [10]
+cO-1: force will meet arm AB. Take A as the origin.
+_ . 50N
+SO-1; 100 N—— 80N 60N
+BL-1 | 2m 4
+
+3m - 3m 3m 3
+A . . “B
+CO-2; | b. | Find the Moment of Inertia about the tao] [10]
+SO-1; . woe
+BL-1 centroidal axis in Figure.
+250
+200 *
+Q7 a. | Ina worm and worm wheel, the worm in triple threaded and the drum which is | [08]
+CO-3: rigidly fixed to the wheel having common axis of rotation, has a diameter of 70 cm.
+S0-1; Find the number of teeth on wheel of 50 turns of the worm move the load up by
+BL-1 75 cm. If the handle attached to the worm has an effective least of 35 cm and the
+load lifted weighs 32 KN. Calculate the M.A. and take efficiency as 40 %. ;
+CO-2; | b. Define the conditions of Equilibrium and also state and exam different-types of | [08]
+SO-1; ioads acting on beam with the help of FBDs.
+BL-1
+CO-2; |c. | Define Centroid and find the centroid |. ve [04]
+SO-1; coordintes of the triangle shown in
+BL-1 figure. ;
+et ee cm
+
+3 OF3
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper 4b9bef58259a
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/Fundamentals of Mechanics -Statics/Fundamentals of Mechnics - Statics Batch 2021-22,2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/4/25
+- Text: ocr (4 pages), mean OCR confidence 80.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+MPSTME
+LIBRARY
+
+SVKM’S NMIMS
+
+¥
+
+Academic Year: 2024-25
+
+Program: B. Tech Integrated Year: Semester: I
+
+Streams: Mechanical/Computex /t1/ps ;
+Subject: Fundamentals of Mechanics - Statics : ; Time: 3 hrs 2¢ oopm to ae ihe
+Date: 30/4/25 No. of Pages: 04
+
+Marks: 100
+
+Re-Examination (2021-22, 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+> 1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page. *
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql ~ | Answer briefly: ; [20]
+
+CO-2; | a. | State Varignon’s theorem and its significance.
+SO-1; _— [5]
+BL-1
+CO-2; | b. | Define Equilibrium and state the conditions of Equilibrium. :
+SO-1; . [5] .
+BL-1 7
+CO-2; | c. | State and explain Principle of transmissibility of force.
+SO-1; [5]
+BL-1 ; .
+
+‘| CO-3; | e. | State the laws of friction.
+SO-1; [5]
+BL-1 ; ; ;
+Q2
+
+CO-2; | a. | Determine the resultant of the given forces _ ¥ [10]
+
+4
+SO-1; along its direction about origin. t
+BL-3 ; :
+
+50 N
+
+1/4
+--- page 2 ---
+CO-3; te Block A of weight 300 N rests on block B [10]
+
+SO-1; of weight of 400'N. Block A is restrained
+BL-5 from moving by a horizontal string tied at
+point C. Identify what force P applied
+parallel to the plane inclined at 30° with
+horizontal is necessary to start block B
+down the plane. Take p = 0.35 for all
+surfaces.
+Q3
+CO-2; | a. | Determine the support reactions for the following beams. ; [10]
+SO-1;
+BL-3 2KN
+1KN/m : 45°
+A COTTE 2 B
+2m »| 4 AM lig im
+CO-3; | b. | Block A weighing 1000N rests over block [10]
+SO-1; B which weighs 2000N as shown in figure. | 4
+BL-3 Block A is tied to wall with a horizontal |
+string. If the coefficient of friction between q ;
+blocks A and B is 0.25 and between B and 7 = A
+Y,
+floor is 1/3. Z 4
+4 as />P
+Determine the value of P to move the block Z —
+(B), if P is horizontal. OPTTTTTTTAA TTT EP LEE T AEE E RTE ELLE
+Q4
+CO-2; | a. | Determine the forces in any five members of the truss as shown. ; [10]
+SO-1; :
+BL-3
+
+20 KN 20 KN
+
+2/4
+--- page 3 ---
+CO-1; | b. | Predict the centroid with respect to + = [10]
+
+SO-1; the axes shown for the Figure.
+BL-3 __ | 5emm
+: +) __}5mm
+150
+mm,
+i a eof pes eee oe oe x
+xz __5mm
+50mm
+te
+CO-2; | a. | Replace the force system acting on a bar as shown in Figure by a single force. [10]
+' SO-1; ; .
+° 30N 20N
+BL-3 C, rn ; .
+“TR Cy
+(0¢ | Se r) )
+re im im 71m ttm ws
+50 N 40N . 40 N
+CO-2; | b. | A circular roller of weight 1500 N and radius 30 cm [10]
+SO-1; hangs by a rod AB = 50 cm and rests against a
+BL-3 smooth wall inclined at angle « = 40° as shown in
+| the figure. oe
+Calculate the tension in the tie rod and reaction at
+point C. .
+Q6
+CO-2; | a. | Figure shows a parallel system of four forces and two couples. Find the resultant | [10]
+i force and obtain it’s location from point A. ;
+: 8 kN 4kN 10kKN —-: 12. KN
+a
+| 30 KNm | 80 kKNm 1 .
+t a =
+ie 3m pig SM yg 15m 2m im,
+
+3/4
+--- page 4 ---
+CO-2; | b. | Determine the forces in any five members
+
+[10]
+
+Weight of sphere 1 (W1) = 200 N;
+Weight of sphere 2 (W2) = 150.N
+Radius of sphere 1 (R1) = 400 mm;
+Radius of sphere 2 (R2) = 250 mm
+
+<——- 1000mm ——
+
+SO-1; of the truss as shown.
+BL-3
+Q7
+|.CO-1; | a. | Find moment of inertia about 173 mm , [10]
+SO-1; |: centroidal axis for the Figure-1. I<   # *
+| BL-3 * ¥
+30 mm f = : 1]
+(Y-bar from x-axis. = * :
+184.80mm) - : 200 mm
+170mm |:
+i ae
+> 20mm
+CO-2; | b. | Two smooth spheres are in equilibrium in a horizontal [10]
+SO-1; channel of width 1000 mm as shown.
+BL-3 Calculate the reactions at the surface of contact A, B, C
+and D assuming all smooth surfaces.
+D
+
+4/4
+
+™
+````
 
 ## 2023-24 · Final-Exam · Sem 2 · paper 7c080362672e
 
@@ -181,218 +707,6 @@ em X axis
 4OF4
 ````
 
-## 2023-24 · Re-Exam · Sem 2 · paper 5ed59f94a9d4
-
-- Departments: Computer Engineering
-- Programmes: Integrated Computer 7032
-- Source: `02_Question_Papers/2023/Sem_02/Re-Exam/Integrated_Computer_7032/Fundamentals of Mechanics-Statics/QP_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Fundamentals of Mechanics-Statics
-Date: 05 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2023-2024)
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Q. NO. 1 is compulsory
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. Assume suitable data if required.
-Q1   Answer briefly:
-CO-1;   a.   Define the following terms: i) Mechanics, ii) force.   [5]
-SO-1;
-BL-1
-CO-2;   b.   State different types of supports and show the reactions offered by them.   [5]
-SO-1;
-BL-2
-CO-3;   c.   Explain simple lifting machine and sketch simple wheel and axle lifting machine.   [5]
-SO-1;
-BL-2
-CO-2;   d.   Define cone of friction.   [5]
-SO-1;
-BL-1
-Q2
-CO-1;   a. A screw is subjected to two forces   [10]
-SO-1;
-BL-3   as shown in figure. Determine the
-resultant of the two forces.
-CO-2;   b. A Block weighing 600 N resting on a rough inclined plane at an angle of 30o can [10]
-SO-1;   be moved by a force of 150 N applied at an angle of 30o up with the inclined
-BL-3
-plane. Solve for the co-efficient of friction.
-********** 1 **********
---- page 2 ---
-Q3   a. Two smooth spheres are in equilibrium in   [10]
-a horizontal channel of width 1000 mm as
-CO-2;   shown.
-SO-1;   Calculate the reactions at the surface of
-BL-3
-contact A, B, C and D assuming all
-smooth surfaces.
-Weight of sphere 1 (W1) = 200 N;
-Weight of sphere 2 (W2) = 150 N
-Radius of sphere 1 (R1) = 400 mm;
-Radius of sphere 2 (R2) = 250 mm
-CO-2;   b. The block is resting on a rough horizontal   [10]
-SO-1;   surface, find the frictional force on the
-BL-3
-block. µs = 0.3. µk = 0.25
-Q4   a.   Find the centroid of the shaded   [10]
-CO-2;   part.
-SO-1;
-BL-1
-CO-3;   b.   Find the law of machine in which an effort of 50 N raised a load of 85 N and an   [10]
-SO-1;
-BL-1   effort of 65 N raised a load of 120 N. Find the effort required to lift the load of
-88 N. What is maximum mechanical advantage?
-Q5   a.   Find the resultant of following force system and also find the equivalent force [10]
-CO-1;   and couple at point A of the same force system shown in Figure.
-SO-1;
-BL-1
-CO-2;   b. Show and find the support reactions for the following beam.   [10]
-SO-1;
-BL-2
-********** 2 **********
---- page 3 ---
-Q6   a.   Find the resultant of the given force system shown. Also find out where the [10]
-CO-1;   resultant force will meet arm AB. Take A as the origin.
-SO-1;
-BL-1
-CO-2;   b.   Find moment of inertia about centroidal   [10]
-SO-1;   axis for the Figure.
-BL-1
-(Y-bar from x-axis = 184.80mm)
-Q7   a.   For a differential wheel and axle the diameter of wheel is 300 mm. The larger [08]
-CO-3;   and smaller diameters of the differential axle are 110 mm and 90 mm
-SO-1;   respectively. An effort of 60 N is applied to lift a load of 1500 N.
-BL-1   Find:
-(i)   Velocity Ratio VR
-(ii)   Mechanical Advantage MA
-(iii)   Efficiency of the differential wheel and axle.
-CO-2;   b.   Define Equilibrium and state different types of supports and their reactions with [08]
-SO-1;
-BL-1   the help of FBDs.
-CO-2;   c.   Define Centroid and find the centroid   [04]
-SO-1;
-BL-1   coordintes of the semicircle shown in
-figure
-********** 3 **********
-````
-
-## 2023-24 · Re-Exam · Sem 2 · paper 534cf35d3e87
-
-- Departments: Data Science
-- Programmes: Integrated DS 7038
-- Source: `02_Question_Papers/2023/Sem_02/Re-Exam/Integrated_DS_7038/Fundamentals of Mechanics-Statics/QP_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Fundamentals of Mechanics-Statics
-Date: 05 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2023-2024)
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Q. NO. 1 is compulsory
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. Assume suitable data if required.
-Q1   Answer briefly:
-CO-1;   a.   Define the following terms: i) Mechanics, ii) force.   [5]
-SO-1;
-BL-1
-CO-2;   b.   State different types of supports and show the reactions offered by them.   [5]
-SO-1;
-BL-2
-CO-3;   c.   Explain simple lifting machine and sketch simple wheel and axle lifting machine.   [5]
-SO-1;
-BL-2
-CO-2;   d.   Define cone of friction.   [5]
-SO-1;
-BL-1
-Q2
-CO-1;   a. A screw is subjected to two forces   [10]
-SO-1;
-BL-3   as shown in figure. Determine the
-resultant of the two forces.
-CO-2;   b. A Block weighing 600 N resting on a rough inclined plane at an angle of 30o can [10]
-SO-1;   be moved by a force of 150 N applied at an angle of 30o up with the inclined
-BL-3
-plane. Solve for the co-efficient of friction.
-********** 1 **********
---- page 2 ---
-Q3   a. Two smooth spheres are in equilibrium in   [10]
-a horizontal channel of width 1000 mm as
-CO-2;   shown.
-SO-1;   Calculate the reactions at the surface of
-BL-3
-contact A, B, C and D assuming all
-smooth surfaces.
-Weight of sphere 1 (W1) = 200 N;
-Weight of sphere 2 (W2) = 150 N
-Radius of sphere 1 (R1) = 400 mm;
-Radius of sphere 2 (R2) = 250 mm
-CO-2;   b. The block is resting on a rough horizontal   [10]
-SO-1;   surface, find the frictional force on the
-BL-3
-block. µs = 0.3. µk = 0.25
-Q4   a.   Find the centroid of the shaded   [10]
-CO-2;   part.
-SO-1;
-BL-1
-CO-3;   b.   Find the law of machine in which an effort of 50 N raised a load of 85 N and an   [10]
-SO-1;
-BL-1   effort of 65 N raised a load of 120 N. Find the effort required to lift the load of
-88 N. What is maximum mechanical advantage?
-Q5   a.   Find the resultant of following force system and also find the equivalent force [10]
-CO-1;   and couple at point A of the same force system shown in Figure.
-SO-1;
-BL-1
-CO-2;   b. Show and find the support reactions for the following beam.   [10]
-SO-1;
-BL-2
-********** 2 **********
---- page 3 ---
-Q6   a.   Find the resultant of the given force system shown. Also find out where the [10]
-CO-1;   resultant force will meet arm AB. Take A as the origin.
-SO-1;
-BL-1
-CO-2;   b.   Find moment of inertia about centroidal   [10]
-SO-1;   axis for the Figure.
-BL-1
-(Y-bar from x-axis = 184.80mm)
-Q7   a.   For a differential wheel and axle the diameter of wheel is 300 mm. The larger [08]
-CO-3;   and smaller diameters of the differential axle are 110 mm and 90 mm
-SO-1;   respectively. An effort of 60 N is applied to lift a load of 1500 N.
-BL-1   Find:
-(i)   Velocity Ratio VR
-(ii)   Mechanical Advantage MA
-(iii)   Efficiency of the differential wheel and axle.
-CO-2;   b.   Define Equilibrium and state different types of supports and their reactions with [08]
-SO-1;
-BL-1   the help of FBDs.
-CO-2;   c.   Define Centroid and find the centroid   [04]
-SO-1;
-BL-1   coordintes of the semicircle shown in
-figure
-********** 3 **********
-````
-
 ## 2023-24 · Re-Exam · Sem 2 · paper 191ae36ee8ca
 
 - Departments: Common (all branches)
@@ -555,149 +869,6 @@ THY
 4OF4
 ````
 
-## 2023-24 · Re-Exam · Sem 2 · paper d311e141a342
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/Fundamentals of Mechanics -Statics/Fundamentals of Mechanics - Statics Batch 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30.04.2025
-- Text: ocr (3 pages), mean OCR confidence 83.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGL
-
-SCHOOL OF TECHNOLOGY MANAGEMENT eis
-Academic Year: 2024-2025
-Programs: B.Tech Integrated Year: I Semester: II
-Streams : Mech / Comp / IT /DS
-Subject: Fundamentals of Mechanics - Statics : Time: 3 hrs (Qr00pm to Se Oop)
-Date: 30.04.2025 No. of Pages: 03
-Marks: 100
-
-Re-Examination (2023-24)
-
-Instructions: Candidates should read carefully the instructions printed ¢ on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1 Answer briefly:
-CO-1; SO-1; | a. State and explain Newton’s Law of Motion [5]
-BL-1 : . ‘
-CO-1;SO-1; | b. | State different types of supports and show the reactions offered by them. [5]
-BL-2
-CO-3; SO-1; | c.. | State and explain condition of irreversibility of a machine [5]
-Us | BL-2 ;
-CO-2; SO-1; | d. | Define the terms angle of friction and angle of repose. [5]
-BL-1
-o _
-CO-1; | a. | The top end of vertical boot is connected A [10]
-SO-1; by two cables having tension T; = 500 N 30° K Am y= s00
-~~ =500N
-BL-1 and T2 = 1500 N, as shown in Figure. The] poy ff ‘
-: third cable AB is used as a guy wire. :
-Determine the tension in cable AB if the 1m |
-resultant of the three concurrent forces
-acting at A is vertical. Also find the
-resultant. n
-O
-
-10F3
---- page 2 ---
-CO-2; |b. | A block weighing 300 N is resting on an inclined plane making an angle of 30°-with | [10]
-
-cdkey the horizontal. Identify the pull applied parallel to the plane to move the block up
-
-BL-3
-the plane if p = 0.35.
-Q3 a. | Three identical tubes of weights 8 kN : [10]
-cO-2; each are placed as shown in Figure. ‘
-SO-1: Determine the forces exerted by the tubes
-BL-1 ‘ on the smooth walls and floor.
-
-a
-
-7
-
-CO-2; |b. | Find force P required to pull block B [10]
-SO-1; ‘| (shown in Figure). Coefficient of friction | »
-BL-3 between A and B is 0.3 and between B |
-and floor is 0.25.
-Weights of A = 20 kg and B = 30 kg.
-Q4 a. | Find the centroid of the shaded area. [10]
-CO-2; -
-SO-1;
-BL-1
-
-CO-3; |b. | Find the law of machine in which an effort of 55 N raised a load of 300-N and an | [10]
-
-SO-1; effort of 100 N raised a load of 400 N. Find the effort required to lift load of 290 N.
-BL-1 What is maximum mechanical advantage?
-Q5 __|a. | Replace the force system acting on a bar as shown in Figure by a single force. [10]
-CO-1; x : 30N 20N
-SO-1; : a Ne £3
-| BL-1 06 — \— 2
-a Liu Im 14 m im ~4
-50N 40N . 40N
-
-2 OF 3
---- page 3 ---
-: —_—
-
-> X axis
-
-V
-
-CO-2; |b. | Show and find the support reactions for the following beam. [10]
-20 . 20KN 30 KN
-Died . : i : SkNin
-x Y Lena isis B
-
-we 1iN- m 0°
-
-| 3m L 2m [| 25m [ 25m _,
-
-r T t V 1
-Q6 a. | Find the resultant of the given force system shown. Also find out where the resultant | [10]
-cO-1: force will meet arm AB. Take A as the origin.
-_ . 50N
-SO-1; 100 N—— 80N 60N
-BL-1 | 2m 4
-
-3m - 3m 3m 3
-A . . “B
-CO-2; | b. | Find the Moment of Inertia about the tao] [10]
-SO-1; . woe
-BL-1 centroidal axis in Figure.
-250
-200 *
-Q7 a. | Ina worm and worm wheel, the worm in triple threaded and the drum which is | [08]
-CO-3: rigidly fixed to the wheel having common axis of rotation, has a diameter of 70 cm.
-S0-1; Find the number of teeth on wheel of 50 turns of the worm move the load up by
-BL-1 75 cm. If the handle attached to the worm has an effective least of 35 cm and the
-load lifted weighs 32 KN. Calculate the M.A. and take efficiency as 40 %. ;
-CO-2; | b. Define the conditions of Equilibrium and also state and exam different-types of | [08]
-SO-1; ioads acting on beam with the help of FBDs.
-BL-1
-CO-2; |c. | Define Centroid and find the centroid |. ve [04]
-SO-1; coordintes of the triangle shown in
-BL-1 figure. ;
-et ee cm
-
-3 OF3
-````
-
 ## 2023-24 · Re-Exam · Sem 2 · paper 91e8398d4409
 
 - Departments: Common (all branches)
@@ -705,6 +876,7 @@ et ee cm
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/Fundamentals of Mechanics -Statics/Fundamentals of Mechanics - Statics Batch 2023-24 Re Exam_91e8398d44.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2026
 - Text: ocr (3 pages), mean OCR confidence 82.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -754,7 +926,6 @@ angle a = 40° as shown in the figure.
 ,Calculate the tension in the tie rod and
 reaction at point C.
 
-FICCI ICR 7 ACR I i aC a ick
 --- page 2 ---
 CO-2; | b, A block of mass 30 kg is resting on an [10]
 a rough inclined surface. Find the force P
@@ -1279,176 +1450,4 @@ following beam.
 [10]
 
 mn
-````
-
-## 2022-23 · Re-Exam · Sem 2 · paper 4b9bef58259a
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/Fundamentals of Mechanics -Statics/Fundamentals of Mechnics - Statics Batch 2021-22,2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/4/25
-- Text: ocr (4 pages), mean OCR confidence 80.4
-
-````text
-MPSTME
-LIBRARY
-
-SVKM’S NMIMS
-
-¥
-
-Academic Year: 2024-25
-
-Program: B. Tech Integrated Year: Semester: I
-
-Streams: Mechanical/Computex /t1/ps ;
-Subject: Fundamentals of Mechanics - Statics : ; Time: 3 hrs 2¢ oopm to ae ihe
-Date: 30/4/25 No. of Pages: 04
-
-Marks: 100
-
-Re-Examination (2021-22, 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-> 1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page. *
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql ~ | Answer briefly: ; [20]
-
-CO-2; | a. | State Varignon’s theorem and its significance.
-SO-1; _— [5]
-BL-1
-CO-2; | b. | Define Equilibrium and state the conditions of Equilibrium. :
-SO-1; . [5] .
-BL-1 7
-CO-2; | c. | State and explain Principle of transmissibility of force.
-SO-1; [5]
-BL-1 ; .
-
-‘| CO-3; | e. | State the laws of friction.
-SO-1; [5]
-BL-1 ; ; ;
-Q2
-
-CO-2; | a. | Determine the resultant of the given forces _ ¥ [10]
-
-4
-SO-1; along its direction about origin. t
-BL-3 ; :
-
-50 N
-
-1/4
---- page 2 ---
-CO-3; te Block A of weight 300 N rests on block B [10]
-
-SO-1; of weight of 400'N. Block A is restrained
-BL-5 from moving by a horizontal string tied at
-point C. Identify what force P applied
-parallel to the plane inclined at 30° with
-horizontal is necessary to start block B
-down the plane. Take p = 0.35 for all
-surfaces.
-Q3
-CO-2; | a. | Determine the support reactions for the following beams. ; [10]
-SO-1;
-BL-3 2KN
-1KN/m : 45°
-A COTTE 2 B
-2m »| 4 AM lig im
-CO-3; | b. | Block A weighing 1000N rests over block [10]
-SO-1; B which weighs 2000N as shown in figure. | 4
-BL-3 Block A is tied to wall with a horizontal |
-string. If the coefficient of friction between q ;
-blocks A and B is 0.25 and between B and 7 = A
-Y,
-floor is 1/3. Z 4
-4 as />P
-Determine the value of P to move the block Z —
-(B), if P is horizontal. OPTTTTTTTAA TTT EP LEE T AEE E RTE ELLE
-Q4
-CO-2; | a. | Determine the forces in any five members of the truss as shown. ; [10]
-SO-1; :
-BL-3
-
-20 KN 20 KN
-
-2/4
---- page 3 ---
-CO-1; | b. | Predict the centroid with respect to + = [10]
-
-SO-1; the axes shown for the Figure.
-BL-3 __ | 5emm
-: +) __}5mm
-150
-mm,
-i a eof pes eee oe oe x
-xz __5mm
-50mm
-te
-CO-2; | a. | Replace the force system acting on a bar as shown in Figure by a single force. [10]
-' SO-1; ; .
-° 30N 20N
-BL-3 C, rn ; .
-“TR Cy
-(0¢ | Se r) )
-re im im 71m ttm ws
-50 N 40N . 40 N
-CO-2; | b. | A circular roller of weight 1500 N and radius 30 cm [10]
-SO-1; hangs by a rod AB = 50 cm and rests against a
-BL-3 smooth wall inclined at angle « = 40° as shown in
-| the figure. oe
-Calculate the tension in the tie rod and reaction at
-point C. .
-Q6
-CO-2; | a. | Figure shows a parallel system of four forces and two couples. Find the resultant | [10]
-i force and obtain it’s location from point A. ;
-: 8 kN 4kN 10kKN —-: 12. KN
-a
-| 30 KNm | 80 kKNm 1 .
-t a =
-A B Ser D Se" OF
-ie 3m pig SM yg 15m 2m im,
-1) El Lt Dl a Dl 5 ot al
-
-3/4
---- page 4 ---
-CO-2; | b. | Determine the forces in any five members
-
-[10]
-
-Weight of sphere 1 (W1) = 200 N;
-Weight of sphere 2 (W2) = 150.N
-Radius of sphere 1 (R1) = 400 mm;
-Radius of sphere 2 (R2) = 250 mm
-
-<——- 1000mm ——
-
-SO-1; of the truss as shown.
-BL-3
-Q7
-|.CO-1; | a. | Find moment of inertia about 173 mm , [10]
-SO-1; |: centroidal axis for the Figure-1. I<   # *
-| BL-3 * ¥
-30 mm f = : 1]
-(Y-bar from x-axis. = * :
-184.80mm) - : 200 mm
-170mm |:
-i ae
-> 20mm
-CO-2; | b. | Two smooth spheres are in equilibrium in a horizontal [10]
-SO-1; channel of width 1000 mm as shown.
-BL-3 Calculate the reactions at the surface of contact A, B, C
-and D assuming all smooth surfaces.
-D
-
-4/4
-
-™
 ````

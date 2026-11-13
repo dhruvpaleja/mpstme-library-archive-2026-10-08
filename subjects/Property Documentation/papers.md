@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/1st YEAR/TRIM III/Property Documentation/Property Documentation 2018-19 Final.pdf`
 - Printed on paper: max marks: 100; exam date: 16 May 2019
 - Text: ocr (2 pages), mean OCR confidence 91.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -23,7 +24,6 @@ Program: PGDM - Real Estate Construction & Management Year: I easy Bee,
 Subject: Property Documentation nen
 ‘<a
 Date: 16 May 2019 j ke ST . y 5
-No. of P oe L ons R
 Marks:100 FINAL EXAMINATION A % = wand
 Sau as panes LA
 

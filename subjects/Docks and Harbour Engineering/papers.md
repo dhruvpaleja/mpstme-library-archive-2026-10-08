@@ -1,8 +1,152 @@
 # Docks and Harbour Engineering: question papers in full
 
-5 unique papers · 2023-24 to 2024-25 · Civil
+5 unique papers · 2023-24 to 2025-26 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Exam not stated · Sem 7 · paper 091e8ca180f2
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/DOCKS AND HARBOUR ENGINEERING/Docks and Harbor Engineering.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 3/12/25
+- Text: ocr (2 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2025-2026
+Year: IV Semester: VIL
+
+Time: 03 hrs (02006 to 4:sIpm)
+No. of Pages: 2
+
+Program/s: MBA Tech Stream/s: Civil
+Subject: Docks and Harbour Engineering
+
+Date: 3/12/25
+Marks: 100
+
+Re-Examination ( Re-exam 2023-24)
+
+instructions: Candidates shouid read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+. 1) Question No. Lis compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql -Answer briefly: [20]
+
+CO- 1; a. _ Explain the ‘Need for Water Transportation.’
+
+SO- 7;
+BL-2
+CO- 2; b.
+SO- 4;
+BL- 4
+CO- 3; c. Explain the.‘Forces Acting on Breakwater.’
+SO- 4; :
+BL-3
+CO- 4; d. Explain the concept of ‘Maintenance Dredging.’
+SO- 7;
+BL-3
+Q.2 a.
+Cco- 1;
+SO- 7;
+BL-3
+Q.2 b. Explain
+
+CO- 2;
+
+" §0- 4;
+BL-4
+
+Discuss the concept of ‘Tidal Range’ and explain ‘Spring Tide and Neap Tide’
+
+Discuss the ‘Advantages of Water Transportation.’ [10]
+
+[10]
+
+what action the waves cause on vertical sea walls.
+
+Page 1 of 2
+--- page 2 ---
+Q3 a. Discuss ‘Wave Diffraction’ and “Wave Reflection’ along with the concepts oftidal [1 0)
+
+
+SO- 1;
+
+BL- : !
+
+Q.3 b.- Elaborate the ‘Design Considerations for Dock Walls’ by drawing atypical section [10]
+Co- 3; ‘of a Dock Wall.
+SO- 1;
+
+BL-4
+Q4— a. Explain ‘Types of Quay Walls’ with a sketch for each type. ° [10]
+CO- 4;
+SO- 7;
+BL-4 .
+Q.4 b. Explain the ‘Functions of Components of Mound Breakwater’ by drawing a neat [10]
+
+Co- 3; sketch showing all its components.
+SO- 7;
+BL- 3
+
+Q.5 a. Explain the ‘Characteristics of Mound. Breakwater.’ [10]
+
+CO- 3;
+
+SO- 4;
+
+BL-3
+
+Q5 b. Discuss the ‘Floating Dry Dock’ and its types with neat sketches for each of the [10]
+CO- 3; type.
+
+SO- 4;
+
+BL-4 ,
+
+Q.6 a. Explain the ‘Concept of Dolphins’ and discuss the ‘Flexible and Rigid Dolphins’ —_[10]
+
+CO- 35... with neat sketches.
+SO- 4;
+
+BL-3
+
+Q.6 b. Explain ‘Dipper Dredger’ by discussing its operation and drawing jts neat sketch. [10]
+CO- 3;
+
+SO- 4;
+
+BL-4
+
+Q7 a. Explain in detail ‘Light House’ with a neat sketch. , . [10]
+CO- 3;
+
+SO- 4;
+
+BL- 4 -
+Q.7 be Explain the role of ‘Geotechnical Investigations’ before the construction ofharbour —_ [10]
+CO- 3; project. , :
+
+SO- 4;
+BL-3
+
+Page 2 of 2
+````
 
 ## 2024-25 · Final + Re-Exam · Sem 7 · paper 80c1cc7731fc
 
@@ -592,150 +736,6 @@ CO- 3;
 SO- 4;
 
 BL- 3
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 7 · paper 091e8ca180f2
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VII SEMESTER/DOCKS AND HARBOUR ENGINEERING/Docks and Harbor Engineering.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 3/12/25
-- Text: ocr (2 pages), mean OCR confidence 85.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2025-2026
-Year: IV Semester: VIL
-
-Time: 03 hrs (02006 to 4:sIpm)
-No. of Pages: 2
-
-Program/s: MBA Tech Stream/s: Civil
-Subject: Docks and Harbour Engineering
-
-Date: 3/12/25
-Marks: 100
-
-Re-Examination ( Re-exam 2023-24)
-
-instructions: Candidates shouid read carefully the instructions printed on the question paper and on the cover
-
-of the Answer Book, which is provided for their use.
-
-. 1) Question No. Lis compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql -Answer briefly: [20]
-
-CO- 1; a. _ Explain the ‘Need for Water Transportation.’
-
-SO- 7;
-BL-2
-CO- 2; b.
-SO- 4;
-BL- 4
-CO- 3; c. Explain the.‘Forces Acting on Breakwater.’
-SO- 4; :
-BL-3
-CO- 4; d. Explain the concept of ‘Maintenance Dredging.’
-SO- 7;
-BL-3
-Q.2 a.
-Cco- 1;
-SO- 7;
-BL-3
-Q.2 b. Explain
-
-CO- 2;
-
-" §0- 4;
-BL-4
-
-Discuss the concept of ‘Tidal Range’ and explain ‘Spring Tide and Neap Tide’
-
-Discuss the ‘Advantages of Water Transportation.’ [10]
-
-[10]
-
-what action the waves cause on vertical sea walls.
-
-Page 1 of 2
---- page 2 ---
-Q3 a. Discuss ‘Wave Diffraction’ and “Wave Reflection’ along with the concepts oftidal [1 0)
-
-CO- 2; bores, seiche, and swells. --
-
-SO- 1;
-
-BL- : !
-
-Q.3 b.- Elaborate the ‘Design Considerations for Dock Walls’ by drawing atypical section [10]
-Co- 3; ‘of a Dock Wall.
-SO- 1;
-
-BL-4
-Q4— a. Explain ‘Types of Quay Walls’ with a sketch for each type. ° [10]
-CO- 4;
-SO- 7;
-BL-4 .
-Q.4 b. Explain the ‘Functions of Components of Mound Breakwater’ by drawing a neat [10]
-
-Co- 3; sketch showing all its components.
-SO- 7;
-BL- 3
-
-Q.5 a. Explain the ‘Characteristics of Mound. Breakwater.’ [10]
-
-CO- 3;
-
-SO- 4;
-
-BL-3
-
-Q5 b. Discuss the ‘Floating Dry Dock’ and its types with neat sketches for each of the [10]
-CO- 3; type.
-
-SO- 4;
-
-BL-4 ,
-
-Q.6 a. Explain the ‘Concept of Dolphins’ and discuss the ‘Flexible and Rigid Dolphins’ —_[10]
-
-CO- 35... with neat sketches.
-SO- 4;
-
-BL-3
-
-Q.6 b. Explain ‘Dipper Dredger’ by discussing its operation and drawing jts neat sketch. [10]
-CO- 3;
-
-SO- 4;
-
-BL-4
-
-Q7 a. Explain in detail ‘Light House’ with a neat sketch. , . [10]
-CO- 3;
-
-SO- 4;
-
-BL- 4 -
-Q.7 be Explain the role of ‘Geotechnical Investigations’ before the construction ofharbour —_ [10]
-CO- 3; project. , :
-
-SO- 4;
-BL-3
 
 Page 2 of 2
 ````

@@ -237,6 +237,7 @@ Current liabilities.
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CSBS_7036/Financial & Cost Accounting/QP_Financial & Cost Accounting(702TF0C005)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (6 pages), mean OCR confidence 32.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -459,6 +460,7 @@ BL:1,2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/FINANCIAL & COST ACCOUNTING/Financial & Cost Accounting, Sem-VI, Batch 2022-23 & 2025-26, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 July 2026
 - Text: ocr (4 pages), mean OCR confidence 89.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -621,7 +623,6 @@ Other office expenses 2,100
 Managing Director's Remuneration 18,000
 Other selling expenses 2,500
 
-SR RK RR OK 3 RR OK CRE
 --- page 4 ---
 >
 
@@ -689,6 +690,7 @@ seek ce Alektra eke
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/FINANCIAL & COST ACCOUNTING/Financial & Cost Accounting, Sem VI, Year 2024-25 Final Exam & 2022-23 & 2023-24 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02/05/2025
 - Text: ocr (6 pages), mean OCR confidence 77.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -929,7 +931,6 @@ ascertain the amount of profit.
 : i
 7 oot Here & ; :
 - 7 ra en ty with £
-a ptuetenn thease sec Semepes fo : :
 : : Sanne Gene aa
 ‘ Sepuh eg :
 + t wt
@@ -939,7 +940,7 @@ t x ~
 7 - 2. 7
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 6 · paper 8dbd4ce100a3
+## 2023-24 · Final + Re-Exam · Sem 6 · paper 8dbd4ce100a3
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -1217,298 +1218,7 @@ How ABC Analysis can help in inventory control.
 ro
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 6 · paper 978a309606fb
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/FINANCIAL & COST ACCOUNTING/Financial & Cost Accounting, Sem-VI, Year 2022-23, Final Exam & Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (5 pages), mean OCR confidence 91.7
-
-````text
-.
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGYWD MANAGENENT AND
-ENGINEERING
-ACADEMIC YEAR 22-23
-Program: B. (TECH) CSBS Third year VI Sem
-Subject: Financial and Cost Accounting Time: 3 hrs (2:00 obo 5:00prp
-Date: 24 [04/2023 Marks:100
-No. of Pages: * 5
-Final Examination } Re - Examination.
-Instructions: Candidates should read carefully the instructions
-p printed on the question paper and on the cover of the Answer Book,
-which is provided for the use.
-1) Question No. 1 is compulsory
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-Answer briefly
-Qi. A | Explain: 5
-CO- Usefulness of 1. Money measurement concept.
-Accounting Concept 2. Separate legal entity concept.
-SO — Understanding
-of Accounting
-concept
-BL — Understand,Apply
-and Analyse
-CO- Awareness of B | Explain the elements of cost. Describe their direct and indirect 4
-Cost Accounting. . | aspects also with examples.
-SO — Understanding
-of Elements of cost.
-BL — Understand,
-Apply and Create
-CO- Interpretation of C | Classify the following in to Operating, 5
-Financial statements. . | Investing and Financing activity.
-SO Understanding 1. Cash receipt from debtors.
-of Cash flow 2.Income tax paid.
-activities 3. Machinery purchased
-BL — Understand and 4. Redemption of preference shares
-_—T Analyse. 5, underwriting commission paid
-CO- Understanding D Following figures have been extracted from the books of
-“ea Cost management. Messers XYZ Ltd
-SO — Understanding
-of Cost behaviour. Financial Year | sales(% ) Profit/Loss (% )
-BL — Understand and
-Apply. 2020-21 4,00,000 15,000 (Loss)
-2021-22 5,00,000 15,000 (Profit) 6
---- page 2 ---
-you are required to calculate:
-
-i) profit volume ratio
-
-ii) Fixed cost
-
-iii) Break even point
-
-iv) Sales required to earn a profit of Rs.45,000
-
-v) Margin of safety in financial year 2000-22
-
-Q2
-CO- Understanding
-Accounting Process.
-
-From the following trial balance and additional information
-prepare Trading, profit and Loss A/c and Balance sheet as on
-31.3,2022.
-
-SO — Preparation of Particulars Amt Particulars Amt 15
-Financial statements. Wages 18000 Capital 40,800
-BL — Understand, Opening Stock 10000 Bank Loan 5,000
-Analyse, Apply and Interest
-Create. Purchases 25000 received 5000
-Sales Return 4200 Sales 1,00,000
-Furniture 15000 Creditors 20,000
-Salaries 7100
-Sundry expenses _| 2300
-Plant and
-machinery 80000
-Debtors 1200
-Bills receivables 8000
-170800 170800
-Additional Information
-1. Closing stock Rs. 5000
-2. Depreciation on plant and machinery @10% p.a.
-3. Outstanding salaries Rs. 1000
-4. Create RDD 2% on debtors.
-Q.2
-CO- Costing systems
-SO -Understanding Describe the features of marginal costing 5
-BL — Understand,
-Q3 The following information is available from a manufacturing 14
-
-CO- Understanding
-Cost Process.
-
-SO — Preparation of
-Cost sheet.
-
-BL — Understand,
-Analyse, Apply
-
-industry during the four months ended 31 March 2022.Prepare
-a cost sheet
-
-particulars details
-Raw Material consumed & 25000
-Direct labour = 20000
-Direct expenses = 15000
-Machine hours worked 800 Hours
-Machine hours rate 2
-
-2,
---- page 3 ---
-Office on cost 30% Works Cost
-
-Selling on cost % 5 per unit
-Units produced 1000
-Units sold 800
-
-Cost sheet for the period ending 31 March 2022
-
-Q3 B | What is difference between Cash Flow and Fund Flow? 6
-CO- cash flow
-SO — understand
-concepts
-BL — Understand,
-Analyse, Apply
-Q.4 CO- Understanding | A | The expenses budget for production of 20,000 units at 14
-cost Accounts 100% ar f , . .
-and Form. © Capacity in a factory are given:
-SO — Preparation of
-budgets
-BL — Understand -
-analyse and create particulars zg
-
-Materials 5,00,000
-
-Labour 4,00,000
-
-Factory overhead(20% variable) 3,00,000
-
-Office and administrative overhead(30% | 2,50,000
-
-fixed
-
-) 1,50,000
-Selling and distribution overheads (40%
-variable)
-prepare a flexible flexible budget at 70% and
-90% capacity level.
-
-Q4. CO- Understanding | B | Explain 4 steps of accounting procedure in brief. 6
-Accounting process.
-SO — understanding
-BL — Understanding
-Qs A | Enter the following transactions in Double 14
-
-CO- Understanding
-Accounting process.
-SO — Preparation of
-Financial statement.
-BL — Understand,
-Analyse, Apply and
-
-column cashbook of Shreerang Traders for
-
-March 2022:
-
-Rs.
-
-01 Commenced business with cash % 1,00,000
-
-04 Opened bank account with IDB! Bank ~ 50,000
-
-07 Purchased goods for cash % 3500
-
-11 Purchased Furniture for cheque % 5,000
-
-15 Sales goods on credit to Radha and received _ bearer
-cheque of & 7,000
-
-19 Goods sold for cash Rs. % 5300
-
-3.
---- page 4 ---
-22 Radha’s cheque deposited into bank
-
-25 Paid Stationary bill by cheque = 1500
-
-28 Cash withdrawn for personal use ¢ 6,000
-31 Paid electricity by cheque % 2000
-
-Q.5 CO- Understanding | B 6
-Company Accounts
-and Annual Reports. Explain Auditors report. Name the authorities responsible to
-SO — Understanding issueAuditorsReport
-of Auditors report
-BL — Understand,
-Apply and Analyse.
-Qé. A | On 1% April, 2022 Shree O.P. Rawat started a shop styles 14
-CO- Understanding ‘Indore Enterprises’ with cash = 80,000, goods ~ 50,000 and
-Accounting process. furniture = 70,000. His transactions during the month were
-SO — Understanding as under-
-of Importance &
-usefulness of Date Transactions
-accounting.
-BL —Remember, 2 Bought goods from Rajat Traders % 50,000
-Understand and 3 Goods purchased forcash % 5000
-Apply. 5. Sold goods to Rohan Bros. ~ 40000
-6. Paidcarriage < 400
-7. Credit sales to Shah Bros. at 20% trade discount and
-10% cash discount Of = 20000
-8. Purchased furniture from Rohit % 10000
-10. Goods withdrawn by the owner for personal
-use of % 5,000
-12. Paid salary to the accountant Mohanlal ~ 7000
-13. Cash deposited into bank = 20000
-15. Goods returned to Rajat Traders % 4000
-18. Acheque received from Rohan Bros. in full settlement
-which is deposited into the bank® 38000
-22. Borrowed from Global Finance at 12% per annum®
-1,00,000
-24. Paid rent to the landlord Rishabh ~ 9000
-28. Commission received from Pyarelal in cash % 2000
-30. An order received from Rashid for the supply of goods &
-15,000
-Journalise the above transactions.
-Q.6
-CO- Understanding Identify Type of account.
-Accounting process. B 6
-SO - Identification of 1. Discount ailowed Account
-Accounts 2. BSNL A/c
-BL — Understand, 3. Carriage A/c
-Analyse 4. Goodwill A/c
-5. Bank of India A/c
-6. Sundry Income Account
-Q7 A | Find out : 14
-
-CO - Awareness of
-Cost Accounting.
-
-SO — Understand stock
-levels
-
-BL — Understand,
-Apply and Create
-
-a) Minimum Stock Level.
-b) Maximum Stock Level.
-c) Reordering Stock Level.
-
-d) Average Stock Level.
---- page 5 ---
-from the following particulars.
-
-Minimum consumption 100 units per day
-Maximum consumption per day 150 units per day
-Normal consumption 120 units per day
-Reorder quantity 1500 units per day
-Minimum period for receiving the goods 8 days
-Maximum period for receiving the goods 16 days
-Normal period for receiving the goods 12 days
-
-Q7
-
-CO- Awareness of
-Financial andCost
-Accounting.
-
-SO — Understand
-Financial and cost
-accounting
-
-BL — Understand
-
-What is difference between cost Accounting and Financial
-Accounting?
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper a75e12a46255
+## 2023-24 · Re-Exam · Sem 6 · paper a75e12a46255
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -1802,6 +1512,297 @@ Q7 c. [5]
 a SO-; Distinguish between cash flow from investing activities and financing activities.
 
 Analyze
+````
+
+## 2022-23 · Final + Re-Exam · Sem 6 · paper 978a309606fb
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/FINANCIAL & COST ACCOUNTING/Financial & Cost Accounting, Sem-VI, Year 2022-23, Final Exam & Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 91.7
+
+````text
+.
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGYWD MANAGENENT AND
+ENGINEERING
+ACADEMIC YEAR 22-23
+Program: B. (TECH) CSBS Third year VI Sem
+Subject: Financial and Cost Accounting Time: 3 hrs (2:00 obo 5:00prp
+Date: 24 [04/2023 Marks:100
+No. of Pages: * 5
+Final Examination } Re - Examination.
+Instructions: Candidates should read carefully the instructions
+p printed on the question paper and on the cover of the Answer Book,
+which is provided for the use.
+1) Question No. 1 is compulsory
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Answer briefly
+Qi. A | Explain: 5
+CO- Usefulness of 1. Money measurement concept.
+Accounting Concept 2. Separate legal entity concept.
+SO — Understanding
+of Accounting
+concept
+BL — Understand,Apply
+and Analyse
+CO- Awareness of B | Explain the elements of cost. Describe their direct and indirect 4
+Cost Accounting. . | aspects also with examples.
+SO — Understanding
+of Elements of cost.
+BL — Understand,
+Apply and Create
+CO- Interpretation of C | Classify the following in to Operating, 5
+Financial statements. . | Investing and Financing activity.
+SO Understanding 1. Cash receipt from debtors.
+of Cash flow 2.Income tax paid.
+activities 3. Machinery purchased
+BL — Understand and 4. Redemption of preference shares
+_—T Analyse. 5, underwriting commission paid
+CO- Understanding D Following figures have been extracted from the books of
+“ea Cost management. Messers XYZ Ltd
+SO — Understanding
+of Cost behaviour. Financial Year | sales(% ) Profit/Loss (% )
+BL — Understand and
+Apply. 2020-21 4,00,000 15,000 (Loss)
+2021-22 5,00,000 15,000 (Profit) 6
+--- page 2 ---
+you are required to calculate:
+
+i) profit volume ratio
+
+ii) Fixed cost
+
+iii) Break even point
+
+iv) Sales required to earn a profit of Rs.45,000
+
+v) Margin of safety in financial year 2000-22
+
+Q2
+CO- Understanding
+Accounting Process.
+
+From the following trial balance and additional information
+prepare Trading, profit and Loss A/c and Balance sheet as on
+31.3,2022.
+
+SO — Preparation of Particulars Amt Particulars Amt 15
+Financial statements. Wages 18000 Capital 40,800
+BL — Understand, Opening Stock 10000 Bank Loan 5,000
+Analyse, Apply and Interest
+Create. Purchases 25000 received 5000
+Sales Return 4200 Sales 1,00,000
+Furniture 15000 Creditors 20,000
+Salaries 7100
+Sundry expenses _| 2300
+Plant and
+machinery 80000
+Debtors 1200
+Bills receivables 8000
+170800 170800
+Additional Information
+1. Closing stock Rs. 5000
+2. Depreciation on plant and machinery @10% p.a.
+3. Outstanding salaries Rs. 1000
+4. Create RDD 2% on debtors.
+Q.2
+CO- Costing systems
+SO -Understanding Describe the features of marginal costing 5
+BL — Understand,
+Q3 The following information is available from a manufacturing 14
+
+CO- Understanding
+Cost Process.
+
+SO — Preparation of
+Cost sheet.
+
+BL — Understand,
+Analyse, Apply
+
+industry during the four months ended 31 March 2022.Prepare
+a cost sheet
+
+particulars details
+Raw Material consumed & 25000
+Direct labour = 20000
+Direct expenses = 15000
+Machine hours worked 800 Hours
+Machine hours rate 2
+
+2,
+--- page 3 ---
+Office on cost 30% Works Cost
+
+Selling on cost % 5 per unit
+Units produced 1000
+Units sold 800
+
+Cost sheet for the period ending 31 March 2022
+
+Q3 B | What is difference between Cash Flow and Fund Flow? 6
+CO- cash flow
+SO — understand
+concepts
+BL — Understand,
+Analyse, Apply
+Q.4 CO- Understanding | A | The expenses budget for production of 20,000 units at 14
+cost Accounts 100% ar f , . .
+and Form. © Capacity in a factory are given:
+SO — Preparation of
+budgets
+BL — Understand -
+analyse and create particulars zg
+
+Materials 5,00,000
+
+Labour 4,00,000
+
+Factory overhead(20% variable) 3,00,000
+
+Office and administrative overhead(30% | 2,50,000
+
+fixed
+
+) 1,50,000
+Selling and distribution overheads (40%
+variable)
+prepare a flexible flexible budget at 70% and
+90% capacity level.
+
+Q4. CO- Understanding | B | Explain 4 steps of accounting procedure in brief. 6
+Accounting process.
+SO — understanding
+BL — Understanding
+Qs A | Enter the following transactions in Double 14
+
+CO- Understanding
+Accounting process.
+SO — Preparation of
+Financial statement.
+BL — Understand,
+Analyse, Apply and
+
+column cashbook of Shreerang Traders for
+
+March 2022:
+
+Rs.
+
+01 Commenced business with cash % 1,00,000
+
+04 Opened bank account with IDB! Bank ~ 50,000
+
+07 Purchased goods for cash % 3500
+
+11 Purchased Furniture for cheque % 5,000
+
+15 Sales goods on credit to Radha and received _ bearer
+cheque of & 7,000
+
+19 Goods sold for cash Rs. % 5300
+
+3.
+--- page 4 ---
+22 Radha’s cheque deposited into bank
+
+25 Paid Stationary bill by cheque = 1500
+
+28 Cash withdrawn for personal use ¢ 6,000
+31 Paid electricity by cheque % 2000
+
+Q.5 CO- Understanding | B 6
+Company Accounts
+and Annual Reports. Explain Auditors report. Name the authorities responsible to
+SO — Understanding issueAuditorsReport
+of Auditors report
+BL — Understand,
+Apply and Analyse.
+Qé. A | On 1% April, 2022 Shree O.P. Rawat started a shop styles 14
+CO- Understanding ‘Indore Enterprises’ with cash = 80,000, goods ~ 50,000 and
+Accounting process. furniture = 70,000. His transactions during the month were
+SO — Understanding as under-
+of Importance &
+usefulness of Date Transactions
+accounting.
+BL —Remember, 2 Bought goods from Rajat Traders % 50,000
+Understand and 3 Goods purchased forcash % 5000
+Apply. 5. Sold goods to Rohan Bros. ~ 40000
+6. Paidcarriage < 400
+7. Credit sales to Shah Bros. at 20% trade discount and
+10% cash discount Of = 20000
+8. Purchased furniture from Rohit % 10000
+10. Goods withdrawn by the owner for personal
+use of % 5,000
+12. Paid salary to the accountant Mohanlal ~ 7000
+13. Cash deposited into bank = 20000
+15. Goods returned to Rajat Traders % 4000
+18. Acheque received from Rohan Bros. in full settlement
+which is deposited into the bank® 38000
+22. Borrowed from Global Finance at 12% per annum®
+1,00,000
+24. Paid rent to the landlord Rishabh ~ 9000
+28. Commission received from Pyarelal in cash % 2000
+30. An order received from Rashid for the supply of goods &
+15,000
+Journalise the above transactions.
+Q.6
+CO- Understanding Identify Type of account.
+Accounting process. B 6
+SO - Identification of 1. Discount ailowed Account
+Accounts 2. BSNL A/c
+BL — Understand, 3. Carriage A/c
+Analyse 4. Goodwill A/c
+5. Bank of India A/c
+6. Sundry Income Account
+Q7 A | Find out : 14
+
+CO - Awareness of
+Cost Accounting.
+
+SO — Understand stock
+levels
+
+BL — Understand,
+Apply and Create
+
+a) Minimum Stock Level.
+b) Maximum Stock Level.
+c) Reordering Stock Level.
+
+d) Average Stock Level.
+--- page 5 ---
+from the following particulars.
+
+Minimum consumption 100 units per day
+Maximum consumption per day 150 units per day
+Normal consumption 120 units per day
+Reorder quantity 1500 units per day
+Minimum period for receiving the goods 8 days
+Maximum period for receiving the goods 16 days
+Normal period for receiving the goods 12 days
+
+Q7
+
+CO- Awareness of
+Financial andCost
+Accounting.
+
+SO — Understand
+Financial and cost
+accounting
+
+BL — Understand
+
+What is difference between cost Accounting and Financial
+Accounting?
 ````
 
 ## 2021-22 · Final-Exam · Sem 6 · paper 070c0221c24e

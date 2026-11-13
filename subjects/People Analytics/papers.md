@@ -619,6 +619,78 @@ Using predictive modelling logic, identify high-risk employees and explain ML’
 ********** 5 **********
 ````
 
+## 2022-23 · Exam not stated · Sem 10 · paper 50565431cf15
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/PEOPLE ANALYTICS/People Analytics.pdf`
+- Printed on paper: max marks: 50
+- Text: ocr (1 page), mean OCR confidence 90.6
+
+````text
+=
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& NGINEERING
+
+Academic Year: 2022-2023
+
+SVKM’S NMIMS is AP SY RY ‘4
+
+Program/s: MBA Tech Year: V'"" Semester: X
+
+Stream/s ; All Streams
+
+Subject: People Analytics Time: 2 _ hrs (2:00pmto 4! 00pm)
+Date:_27 / 2023 No. of Pages: OZ _
+
+Marks: 50
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+(> 1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5_ questions to be attempted. .
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly:
+
+Prepare a case in the area of Recruitment Analytics.
+co-13 Problem statement — You have to recruit employees who will perform (performance — DV) and will
+“=e 10
+stay with the organization (Retention — DV) work on various factors that are responsible for
+
+performance as well as retention. Use suitable ML algorithms.
+
+How HR analytics can be used as a decision support system for Managers and HR functionaries to
+
+Q make critical decisions. (you may assume necessary variables). Explain with suitable examples, ‘
+co-2 relevant variables, HR metrics (with measurements) and appropriate machine learning algorithms 0
+that you can use.
+How HR analytics can help to "improve infant mortality" (early attrition - you may assume
+Q3 necessary variables to predict). Explain with suitable examples, relevant variables, HR metrics 10
+CO-3 (with measurements) and appropriate machine learning algorithms that you can use.
+Q4
+co-4 How HR Analytics can be used in career planning and succession planning with suitable examples 10
+Qs
+CO-1 Explain how HR function would be transformed radically in future with help of HR Analytics. 10
+Q6 Explain with examples how HR analytics can be used in training and development function of the 0
+coO-2
+
+organization
+````
+
 ## 2018-19 · Final-Exam · Sem 10 · paper 6cb878df174e
 
 - Departments: Common (all branches)
@@ -728,76 +800,4 @@ variables which affect hiring effectiveness. Which statistical too you will use 
 interpret that. Use suitable and appropriate examples,
 
 2 >
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper 50565431cf15
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/PEOPLE ANALYTICS/People Analytics.pdf`
-- Printed on paper: max marks: 50
-- Text: ocr (1 page), mean OCR confidence 90.6
-
-````text
-=
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& NGINEERING
-
-Academic Year: 2022-2023
-
-SVKM’S NMIMS is AP SY RY ‘4
-
-Program/s: MBA Tech Year: V'"" Semester: X
-
-Stream/s ; All Streams
-
-Subject: People Analytics Time: 2 _ hrs (2:00pmto 4! 00pm)
-Date:_27 / 2023 No. of Pages: OZ _
-
-Marks: 50
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-(> 1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all___5_ questions to be attempted. .
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly:
-
-Prepare a case in the area of Recruitment Analytics.
-co-13 Problem statement — You have to recruit employees who will perform (performance — DV) and will
-“=e 10
-stay with the organization (Retention — DV) work on various factors that are responsible for
-
-performance as well as retention. Use suitable ML algorithms.
-
-How HR analytics can be used as a decision support system for Managers and HR functionaries to
-
-Q make critical decisions. (you may assume necessary variables). Explain with suitable examples, ‘
-co-2 relevant variables, HR metrics (with measurements) and appropriate machine learning algorithms 0
-that you can use.
-How HR analytics can help to "improve infant mortality" (early attrition - you may assume
-Q3 necessary variables to predict). Explain with suitable examples, relevant variables, HR metrics 10
-CO-3 (with measurements) and appropriate machine learning algorithms that you can use.
-Q4
-co-4 How HR Analytics can be used in career planning and succession planning with suitable examples 10
-Qs
-CO-1 Explain how HR function would be transformed radically in future with help of HR Analytics. 10
-Q6 Explain with examples how HR analytics can be used in training and development function of the 0
-coO-2
-
-organization
 ````

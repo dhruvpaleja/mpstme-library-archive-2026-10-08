@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_DS_7009/Stochastic processes and Applications/ANS_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: mixed (14 pages), mean OCR confidence 39.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -65,6 +66,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_DS_7052/Stochastic processes and Applications/ANS_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: mixed (14 pages), mean OCR confidence 39.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -121,6 +123,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_DS_7038/Stochastic processes and Applications/ANS_Stochastic processes and Applications(702BS0C033)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: mixed (14 pages), mean OCR confidence 39.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -177,6 +180,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_DS_7009/Stochastic processes and Applications/ANS_Stochastic processes and Applications(702BS0C090)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (15 pages), mean OCR confidence 49.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -294,6 +298,7 @@ Explanation with diagram and equations
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_DS_7038/Stochastic processes and Applications/ANS_Stochastic processes and Applications(702BS0C033)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (15 pages), mean OCR confidence 49.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

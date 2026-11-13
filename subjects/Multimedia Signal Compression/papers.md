@@ -1,6 +1,6 @@
 # Multimedia Signal Compression: question papers in full
 
-4 unique papers · 2018-19 to 2019-20 · Electronics and Telecommunication
+4 unique papers · 2017-18 to 2019-20 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -402,7 +402,7 @@ Scalar and Vector Quantization
 (12)
 ````
 
-## Year not stated · Final-Exam · Sem 7 · paper 9ee4fa091c7a
+## 2017-18 · Final-Exam · Sem 7 · paper 9ee4fa091c7a
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC

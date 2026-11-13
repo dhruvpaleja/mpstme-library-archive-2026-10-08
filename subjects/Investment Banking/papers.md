@@ -557,6 +557,7 @@ BL-2
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_AI_7051/Investment Banking/QP_Investment Banking(703TF0E002)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 04 Feb 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -674,6 +675,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_Computer_7047/Investment Banking/QP_Investment Banking(703TF0E002)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 04 Feb 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -791,6 +793,7 @@ FC QI a iar
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_DS_7052/Investment Banking/QP_Investment Banking(703TF0E002)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 04 Feb 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1730,141 +1733,67 @@ Q.6 Write a short note on any two:- (5*2=10)
 2g
 ````
 
-## 2011-12 · Re-Exam · Trim 15 · paper 8732711ca3f1
+## 2012-13 · Exam not stated · Trim 15 · paper 3e9b76fcdde2
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INVESTMENT BANKING/INVESTMENT BANKING BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 23/06/2012
-- Text: ocr (1 page), mean OCR confidence 89.6
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INVESTMENT BANKING/Scan 008.pdf`
+- Printed on paper: exam date: 17/4/2013
+- Text: text (2 pages)
 
 ````text
-wut OF Wt0
-
-; a is Shy.
-SVKM’s NMIMS {BL IBRAR ¥ v2) }
-Mukesh Patel School of Technology Management & Engineering re
-
-Programme: MBA Tech - ALL STREAMS Year: V Trimester: XV<_
-Academic Year : 2011-2012
-Batch: 2011-12
-Subject: Investment Banking Marks: 50
-Time: 2.00 pm To 4.00 pm
-Date: 23/06/2012 Duration: 2 hrs.
-Re - Examination
-Instructions:
-
-(i) Attempt any five questions.
-
-(ii) Answers must be neat, relevant and brief.
-
-(iii) Read the instructions printed inside the top cover of answer script CAREFULLY
-before attempting the paper.
-
-(iv)Use of non-programmable scientific calculators of any model is allowed.
-
-(v) DO NOT write your Name, Reg. No. or Roll No. anywhere inside the answer script.
-
-Q.1. Explain the book building process of issuing security in detail. (10)
-Q.2. Describe Bond management strategy in detail. (10)
-Q.3. | Write in detail the developments in primary and secondary markets in India (10)
-
-Q.4. Raghu Exports Ltd has proposed to expand its operations for which it requires fund of
-$4.45 million, net of issue expenses which amounts to 2.5% of issue size. It proposed to
-raise the funds through GDR issue. It considers the following factors in pricing the issue.
-a) Expected domestic MP- Rs 280 (10)
-
-b) 4 shares underlie each GDR
-} c) Underlying shares are priced at 10% discount to MP.
-d) Expected Exchange rate is Rs 50/$
-You are required to compute
-i) The number of GDR to be issued
-ii) Cost of GDR to the company if dividend expected to be paid is 15% with a
-growth rate of 10% p.a.
-
-Q.5. Market price of 14%, Rs 100 Face value bond is Rs 92.95. Coupon is payable semi-
-
-annually. The bond will be redeemed at face value in two equal installments at the end of 4" and
-
-sh yearé, (From now) Calculate ;
-
-@) = YT™
-ii) Duration of the bond : (10)
-Q.6 Write a short note (on all) (5*2=10) _
-
-(a) ADR&GDR
-
-(b) Interest Rate Risk
-
-(C) FCCB
-
-(d) Swaption
-
-(e) Exchange Traded Fund
-````
-
-## 2010-11 · Exam not stated · Trim 14 · paper a441190a836a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/INVESTING BANKING/2010-2011(40).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 23/12/2010
-- Text: ocr (1 page), mean OCR confidence 91.0
-
-````text
-oS i a Ee 7 a
-\ SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-School of Pharmacy & Technology Management
-
-Programme: MBA (Tech) -ALL STREAMS Year: Vv Trimester: XI1V
-MBA (Phacm Tech) Academic Year : 2010-2011
-Batch: 2010-2011
-Subject: INVESTMENT BANKING Marks: 50
-Time: 2.00 PM TO 4.00 PM
-Date: 23/12/2010 Duration: 2 hrs.
-
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management
+Yogramme: MBA (Tech) -ALL STREAMS Year: V Trimester:
+Academic Year : 2012-2013
+Subject:   INVESTMENT BANKING   Marks:
+Time:
+Date:   17/4/2013   Duration:
 Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use
-
-NB:
-
-1. Question No. ONE is compulsory.
-
-2. Out of remaining questions, attempt any THREE questions.
-
-3. In all FOUR questions to be attempted.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 (a) What is fixed income securities and what are the principles of valuation of
-fixed income securities? (7)
-(b) A Rs.100 par value bond, bearing a coupon rate of 9 percent will mature after
-three years, What is the value of the bond, if discount rate is 12 percent? (7)
-
-Q.2 (a) Explain various functions of Investment Banks. (6)
-(b) Explain the regulatory framework of Investment Banking in India. (6)
-Q.3 (a) Discuss the factors which are responsible for the volatility of call rate. (6)
-(b) Explain the characteristics of commercial paper. (6)
-Q.4 Explain the book building process of issuing security, in detail. (12)
-Q.5 Explain various risks associated with investment in bonds, with the measures to
-mitigate the same. (12)
-Q.6 Write short note on any TWO of the following. (12)
-(a) SEBI
-(b) YTM
-(c) ADR / GDR
-(d) CDS
-
-Thtwud
-
-iy
+NB.:   -
+1) Attempt any 5 Questions.
+2) In all 5 Questions to be attempted.
+3) All Questions carry equal Marks i.e. 10 each.
+4) Answer to each new question to be started on a fresh page
+Q. 1 a) What are the core services offered by Investment Banks? How are the different business
+verticals interdependent?
+b)~istin~uish between Merchant ~ankihg and Investment Banking? How are full service investment
+Banks more competent to deliver between value to'clients?
+Q. 2 a)What are ?hi. fi;i;iticfi~ of S:c;ck Brokr;, Rating Ager,cies and B:Serctc;e   ~:~::CCS?
+b) Write Short Note on Derivative Market?
+Q. 3 a) How is the Valuation of a Bond different from that of equity? Why are there so many
+methods of valuing equity?
+b) What is contingent claim valuation) when it is appropriate to be used?
+Q. 4 a) What are the types of debt instruments that can be issued by a company incorporated under
+the Companies Act? Are there any limitations to issue unsecured debt instruments?
+b) What are'nominal yield, Current yield and yield to maturity (YTM)? How we calculate YTM?
+Q. 5 a) What is the difference between shares offered through book building and offer of shares
+through normal public issue?
+b) Write a short note on buy back?
+Q. 6 a) Explain CAMEL model in credit rating.
+b) Write a note on GDR.
+,   Q. 7 a) what is the value cf Rs. 1,090, zero coupon bend tbat has five years rernaihing to maturity
+and has a YTM of 6%?
+b) There is a 9%, 5 year bond issue in the market. The issue price is Rs. 90 and the redumption price
+is Rs. 105. For an investor with marginal income tax rate of 30% and capital gains tax of 10%
+(assuming no indexation), what is the post tax yield to Maturity?
+Q. 8 The current market price of XYZ Itd. Is Rs. 30. Laxman buys three months put option at a
+premium of Rs. 5 per option. The exercise price is Rs. 33. Six possible prices on expiration date
+ranging.from Rs. 25 to Rs. 59 with interval of Ps. 5 ar,e possibl8.
+1. What is Laxman's pay off as put holder an expiration?
+--- page 2 ---
+2. Draw a payoff table and the payoff graph.
+3. What is the put writers payoff on expiration?
+4. Draw the cprresponding payoff table and graph?
+Q. 9 What are the different types of Corporate Debt Instruments? Explain each of them.
+Q. 10 Write Short Notes (Any Two)
+a. Green Shoe Option
+b. Depository Recipts
+c. OTCEl
+d. Devolvernent
 ````
 
-## Year not stated · Exam not stated · Trim 15 · paper 92073f4f0dce
+## 2011-12 · Exam not stated · Trim 15 · paper 92073f4f0dce
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -2010,62 +1939,136 @@ vi!
 3/2
 ````
 
-## Year not stated · Exam not stated · Trim 15 · paper 3e9b76fcdde2
+## 2011-12 · Re-Exam · Trim 15 · paper 8732711ca3f1
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INVESTMENT BANKING/Scan 008.pdf`
-- Printed on paper: exam date: 17/4/2013
-- Text: text (2 pages)
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/INVESTMENT BANKING/INVESTMENT BANKING BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 23/06/2012
+- Text: ocr (1 page), mean OCR confidence 89.6
 
 ````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management
-Yogramme: MBA (Tech) -ALL STREAMS Year: V Trimester:
-Academic Year : 2012-2013
-Subject:   INVESTMENT BANKING   Marks:
-Time:
-Date:   17/4/2013   Duration:
+wut OF Wt0
+
+; a is Shy.
+SVKM’s NMIMS {BL IBRAR ¥ v2) }
+Mukesh Patel School of Technology Management & Engineering re
+
+Programme: MBA Tech - ALL STREAMS Year: V Trimester: XV<_
+Academic Year : 2011-2012
+Batch: 2011-12
+Subject: Investment Banking Marks: 50
+Time: 2.00 pm To 4.00 pm
+Date: 23/06/2012 Duration: 2 hrs.
+Re - Examination
+Instructions:
+
+(i) Attempt any five questions.
+
+(ii) Answers must be neat, relevant and brief.
+
+(iii) Read the instructions printed inside the top cover of answer script CAREFULLY
+before attempting the paper.
+
+(iv)Use of non-programmable scientific calculators of any model is allowed.
+
+(v) DO NOT write your Name, Reg. No. or Roll No. anywhere inside the answer script.
+
+Q.1. Explain the book building process of issuing security in detail. (10)
+Q.2. Describe Bond management strategy in detail. (10)
+Q.3. | Write in detail the developments in primary and secondary markets in India (10)
+
+Q.4. Raghu Exports Ltd has proposed to expand its operations for which it requires fund of
+$4.45 million, net of issue expenses which amounts to 2.5% of issue size. It proposed to
+raise the funds through GDR issue. It considers the following factors in pricing the issue.
+a) Expected domestic MP- Rs 280 (10)
+
+b) 4 shares underlie each GDR
+} c) Underlying shares are priced at 10% discount to MP.
+d) Expected Exchange rate is Rs 50/$
+You are required to compute
+i) The number of GDR to be issued
+ii) Cost of GDR to the company if dividend expected to be paid is 15% with a
+growth rate of 10% p.a.
+
+Q.5. Market price of 14%, Rs 100 Face value bond is Rs 92.95. Coupon is payable semi-
+
+annually. The bond will be redeemed at face value in two equal installments at the end of 4" and
+
+sh yearé, (From now) Calculate ;
+
+@) = YT™
+ii) Duration of the bond : (10)
+Q.6 Write a short note (on all) (5*2=10) _
+
+(a) ADR&GDR
+
+(b) Interest Rate Risk
+
+(C) FCCB
+
+(d) Swaption
+
+(e) Exchange Traded Fund
+````
+
+## 2010-11 · Exam not stated · Trim 14 · paper a441190a836a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/INVESTING BANKING/2010-2011(40).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 23/12/2010
+- Text: ocr (1 page), mean OCR confidence 91.0
+
+````text
+oS i a Ee 7 a
+\ SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+School of Pharmacy & Technology Management
+
+Programme: MBA (Tech) -ALL STREAMS Year: Vv Trimester: XI1V
+MBA (Phacm Tech) Academic Year : 2010-2011
+Batch: 2010-2011
+Subject: INVESTMENT BANKING Marks: 50
+Time: 2.00 PM TO 4.00 PM
+Date: 23/12/2010 Duration: 2 hrs.
+
 Final - Examination
-NB.:   -
-1) Attempt any 5 Questions.
-2) In all 5 Questions to be attempted.
-3) All Questions carry equal Marks i.e. 10 each.
-4) Answer to each new question to be started on a fresh page
-Q. 1 a) What are the core services offered by Investment Banks? How are the different business
-verticals interdependent?
-b)~istin~uish between Merchant ~ankihg and Investment Banking? How are full service investment
-Banks more competent to deliver between value to'clients?
-Q. 2 a)What are ?hi. fi;i;iticfi~ of S:c;ck Brokr;, Rating Ager,cies and B:Serctc;e   ~:~::CCS?
-b) Write Short Note on Derivative Market?
-Q. 3 a) How is the Valuation of a Bond different from that of equity? Why are there so many
-methods of valuing equity?
-b) What is contingent claim valuation) when it is appropriate to be used?
-Q. 4 a) What are the types of debt instruments that can be issued by a company incorporated under
-the Companies Act? Are there any limitations to issue unsecured debt instruments?
-b) What are'nominal yield, Current yield and yield to maturity (YTM)? How we calculate YTM?
-Q. 5 a) What is the difference between shares offered through book building and offer of shares
-through normal public issue?
-b) Write a short note on buy back?
-Q. 6 a) Explain CAMEL model in credit rating.
-b) Write a note on GDR.
-,   Q. 7 a) what is the value cf Rs. 1,090, zero coupon bend tbat has five years rernaihing to maturity
-and has a YTM of 6%?
-b) There is a 9%, 5 year bond issue in the market. The issue price is Rs. 90 and the redumption price
-is Rs. 105. For an investor with marginal income tax rate of 30% and capital gains tax of 10%
-(assuming no indexation), what is the post tax yield to Maturity?
-Q. 8 The current market price of XYZ Itd. Is Rs. 30. Laxman buys three months put option at a
-premium of Rs. 5 per option. The exercise price is Rs. 33. Six possible prices on expiration date
-ranging.from Rs. 25 to Rs. 59 with interval of Ps. 5 ar,e possibl8.
-1. What is Laxman's pay off as put holder an expiration?
---- page 2 ---
-2. Draw a payoff table and the payoff graph.
-3. What is the put writers payoff on expiration?
-4. Draw the cprresponding payoff table and graph?
-Q. 9 What are the different types of Corporate Debt Instruments? Explain each of them.
-Q. 10 Write Short Notes (Any Two)
-a. Green Shoe Option
-b. Depository Recipts
-c. OTCEl
-d. Devolvernent
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use
+
+NB:
+
+1. Question No. ONE is compulsory.
+
+2. Out of remaining questions, attempt any THREE questions.
+
+3. In all FOUR questions to be attempted.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 (a) What is fixed income securities and what are the principles of valuation of
+fixed income securities? (7)
+(b) A Rs.100 par value bond, bearing a coupon rate of 9 percent will mature after
+three years, What is the value of the bond, if discount rate is 12 percent? (7)
+
+Q.2 (a) Explain various functions of Investment Banks. (6)
+(b) Explain the regulatory framework of Investment Banking in India. (6)
+Q.3 (a) Discuss the factors which are responsible for the volatility of call rate. (6)
+(b) Explain the characteristics of commercial paper. (6)
+Q.4 Explain the book building process of issuing security, in detail. (12)
+Q.5 Explain various risks associated with investment in bonds, with the measures to
+mitigate the same. (12)
+Q.6 Write short note on any TWO of the following. (12)
+(a) SEBI
+(b) YTM
+(c) ADR / GDR
+(d) CDS
+
+Thtwud
+
+iy
 ````

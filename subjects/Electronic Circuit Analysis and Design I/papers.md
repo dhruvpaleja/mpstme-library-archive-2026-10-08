@@ -139,6 +139,7 @@ a ran : rro - _ pt
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_05/ELECTRONIC CIRCUIT ANALYSIS & DESIGN I/Electronic Circuit Analysis and Design I 2017-18 Final.pdf`
 - Printed on paper: exam date: 28 November 2017
 - Text: ocr (4 pages), mean OCR confidence 68.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKIW’S NMIMS
@@ -298,7 +299,6 @@ ate aa lS ALalolda]. . 5
 SIP 91> Soule : -
 2 . x
 
-eunsoa jolt. ainisia “FQ BYE soe
 ad22S 18 > BL A
 SSN OR o of .
 
@@ -324,7 +324,6 @@ _ . ao ioe tle Z248
 ; Be oe: Fs = i *
 at : a
 . ot , ee. 28.8 - os
-a eAaaner Lo Ges jeavses ype :
 : nt re 7 i oes a
 : Se .
 . ‘yl 2 fd SR Pee rai rt
@@ -368,6 +367,7 @@ a
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_05/ELECTRONIC CIRCUIT ANALYSIS & DESIGN I/Electronic Circuit Analysis and Design I Batch 2017-18 Re Exam.pdf`
 - Printed on paper: exam date: 30 May 2018
 - Text: ocr (5 pages), mean OCR confidence 70.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -380,7 +380,6 @@ Batch: 2017-18 °
 . Academic Year: 2017-201 >
 Subject: Electronic Circuit Analysis and Design - I I ae
 kg, $0, ai B OPS |
-ee 10.00 am to } gb pm
 
 @ disses ae
 
@@ -596,7 +595,6 @@ A ap ES “ a
 . 3S sjesesese|. - a i =
 S/E/SSrSege3 lelelayel
 . . * ~[S1AlS
-Siighes 2pe xlisl elo “lols -
 SET EIRRaESES IS Bisiarsl= z| 2Pe
 3 & ~ a u i . oS at fat |
 : . Br rels
@@ -606,12 +604,9 @@ Qlwojpefwjs us| S
 og GPE, SSRasasy F on ee eee
 . [ . S( Tie ys : .
 ee . Lo peal ace : .
-Beet woveul|.. 2f4-b Tao lefe
 = §9 | 2822883; Slalelsle 2 | ES.
 ci en | Ra ee SISIRISIAl . ale
 wy xd “= Pepe : oe
-2 cn he ae re " Ej elsleye oT
-: =< Eyk ie aswesyel- SLOmmpsps | rice ;
 : uy ee 2 Se Ag oOo
 { i . : £ hae
 ‘\ 5 ERS
@@ -636,17 +631,14 @@ a 3 Ba .
 s nag GE “Ty e
 . HEI Belole]- .
 ° al seed 8 oe
-epee a eles : Set cn oe energetics
 : wis ua Seu oe +
 . 8 Re | RS (SSSR 998 adagaddl »
-: Lf gy PSA OS oi y ~WN EU AS] |
 it i 2 hr :
 , tro
 5 ei
 as e 5 7
 -< es a} “x. - x! :
 ne a ff) oS * =
-My ie es SS eso ee aS
 Sf eRSes<xSaf/S SGRSISR & =
 3. 1MSZOSARMARHS SOS sac g >
 2 3 ‘a EAS [fe oo oeaee
@@ -663,6 +655,7 @@ Sf eRSes<xSaf/S SGRSISR & =
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_05/ELECTRONIC CIRCUIT ANALYSIS & DESIGN I/Electronic Circuit Analysis and Design I 2016-17 Final.pdf`
 - Printed on paper: max marks: 60; exam date: 30 November 2016
 - Text: ocr (4 pages), mean OCR confidence 70.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -791,7 +784,6 @@ V, *
 3 2V
 
 rz
-(pete ntnanenmmsity LL stassassorinaanatines:enerromenticenasiemnsnssmennreicn
 
 b) Draw equivalent circuit for multistage amplifier in BJT using re model.
 

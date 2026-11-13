@@ -14,9 +14,10 @@ Every past question paper in the archive as text, organised by subject and depar
 
 ## Coverage
 
-- 1,126 subjects in 23 departments.
-- 16,183 question papers and 3,043 answer keys read: 38,091 pages from the PDF text layer and 39,325 scanned pages by OCR.
-- 219,969 questions and sub-questions extracted; 166,626 with marks. 14,775 papers (91%) split into 3 or more questions; the rest are kept as full text in papers.md.
+- 1,123 subjects in 23 departments.
+- 16,168 question papers and 3,043 answer keys read: 38,089 pages from the PDF text layer and 39,291 scanned pages by OCR.
+- 231,019 questions and sub-questions extracted; 171,488 with marks. 14,772 papers (91%) split into 3 or more questions; the rest are kept as full text in papers.md.
+- 130 question papers have low OCR quality (mostly handwritten 2004-2010 papers or poor scans); they and their questions are marked `text_quality: low`.
 - Files with no readable text (corrupt PDFs, spreadsheet data sets): 18.
 
 ## questions.jsonl fields
@@ -24,7 +25,7 @@ Every past question paper in the archive as text, organised by subject and depar
 | Field | Meaning |
 | --- | --- |
 | `subject` | Canonical subject name (same as the folder) |
-| `academic_year`, `exam`, `semester` | e.g. `2024-25`, `Final-Exam` / `Re-Exam`, `Sem 5` |
+| `academic_year`, `exam`, `semester` | e.g. `2024-25`, `Final-Exam` / `Re-Exam`, `Sem 5`. The year is the one printed on the paper when it states one (file names often give the batch year; that is kept in `papers.jsonl` as `academic_year_filed`) |
 | `departments` | Branches the paper was set for |
 | `paper_id` | First 12 hex digits of the paper file's SHA-256; matches `papers.jsonl` for programmes, max marks, date and source file |
 | `question`, `part` | Question number and part, e.g. `2` and `b`, `1.a`, `a(ii)` |
@@ -33,6 +34,7 @@ Every past question paper in the archive as text, organised by subject and depar
 | `marks`, `question_marks` | Marks for this part, and for the whole question when printed |
 | `co`, `bl` | Course outcome and Bloom's level tags printed on newer papers |
 | `extraction` | `text` (exact, from the PDF) or `ocr` (scanned paper read by Tesseract) |
+| `text_quality` | `low` when the scan read poorly (handwritten or faint papers); treat the text with care |
 
 ## Accuracy
 

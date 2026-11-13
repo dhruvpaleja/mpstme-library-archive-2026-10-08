@@ -1428,6 +1428,7 @@ be the possible motives behind the act.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/INTRODUCTION TO FORENSIC SCIENCE/Introduction to Forensic Science 2025-26 Final.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: ocr (4 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 eo
@@ -1679,7 +1680,6 @@ define the following terms: ¢atfishing, spamming, stalking, and
 
 phishing
 
-FG HO aca i ik a
 .
 --- page 4 ---
 CO- 1; BL-3 b| Ilustrate the formation of five different types of blood patterns with | [10M]
@@ -2149,6 +2149,7 @@ collect, and preserve fingerprints.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/INTRODUCTION TO FORENSIC SCIENCE/Introduction to Forensic Science Batch 2025-26 Re Exam.pdf` (+7 identical copies)
 - Printed on paper: max marks: 100; exam date: 11 Jul 2026
 - Text: ocr (3 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -2294,7 +2295,6 @@ CO-4; BL-3 c | At the arson site, painted fingerprints are obtained, which have 
 collected and taken to the lab. As an expert, justify how you will develop,
 collect, and preserve fingerprints.
 
-FIC IC CR A IC i i a ae a kak
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 6 · paper 926fd7d53292

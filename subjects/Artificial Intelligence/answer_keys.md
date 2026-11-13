@@ -788,6 +788,7 @@ Traditional expert systems do not learn automatically.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Computer_7002/Artificial Intelligence/ANS_Artificial Intelligence(702CO0C032)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: mixed (22 pages), mean OCR confidence 77.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1233,7 +1234,6 @@ Step 3: Standardize Variables
 * Rename variables so that each quantifier has a unique variable name.
 * Example:
 
-VaP(x) \VaQ(xz) > VaP(x) AVyQ(y)
 
 Step 4: Move Quantifiers to the Front (Prenex Form)
 ¢ All quantifiers should be placed at the beginning of the sentence.
@@ -5503,6 +5503,7 @@ absent, Dengue is suggested.”
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CSBS_7036/Artificial Intelligence/ANS_Artificial Intelligence(702CO0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2026
 - Text: mixed (21 pages), mean OCR confidence 61.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5882,7 +5883,6 @@ Prove ‘Bob receives Bonus’ using Resolution Graph.
 Solution:
 
 | Ww) Nk Combo Led Project (x) —> EXigibtals
-| ¥) To. (ELigib LB ows ( ) rN Cacell ert Cv)
 | Rece v2 Bowral)
 (3) Comblired Foohects ( Bob) 5 s
 
@@ -5896,9 +5896,7 @@ Paomote4
 —»>
 eal eAyTangeky mathe
 
-(\) ~1Comblerred Projet OO Nv £ higi bt. Bones (x)
 
-2 i | £ Rigbhe Bows Oo) NO Ete cllent GON
 
 \3) Combo eA Frogec nt (Gob)
 
@@ -5909,7 +5907,6 @@ re ci AB WR (AD N | Meek? Cruel
 a 7A Aypre ‘ou V Pripe ded (24)
 (p iF
 
-seedy Tang Bla hLe Bem
 8) E ceeds Tryarr (Gob)
 
 FIGS 7 (FI I IOK

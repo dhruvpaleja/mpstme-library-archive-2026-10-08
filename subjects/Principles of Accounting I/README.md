@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Principles of Accounting -I(702TF0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Principles of Accounting -I(702TF0C003)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Principles of Accounting -I(702TF0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Principles of Accounting -I(702TF0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Principles of Accounting -I(702TF0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Principles of Accounting -I(702TF0C003)_2024-2025.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Principles of Accounting-I, Sem-II, Final & Re Exam 2022-23.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 2 | B TECH | Principles of Accounting-I, Sem-II, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 2 | B TECH | Principles of Accounting-I, Sem-II, Batch 2021-22, 22-23, Re Exam.pdf |

@@ -425,6 +425,7 @@ core technology, record profiling, and classification.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/DATA WRANGLING/B Tech, Data Wrangling, Sem-III, 2025-26 Final Exam.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: ocr (4 pages), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -630,7 +631,6 @@ core technology, record profiling, and classification.
 
 \
 
-FISICA I   7) k   ak a aek a
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · paper 6d1e113fe795

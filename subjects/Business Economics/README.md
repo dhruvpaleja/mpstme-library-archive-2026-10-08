@@ -1,6 +1,6 @@
 # Business Economics
 
-**29** unique papers (54 copies across programmes) · 2006-07 to 2019-20 · 7 programmes · Sem 4, Sem 5, Trim 5, Trim 7
+**29** unique papers (55 copies across programmes) · 2006-07 to 2019-20 · 7 programmes · Sem 3, Sem 4, Sem 5, Trim 5, Trim 7
 
 Download only this subject, sorted by academic year:
 
@@ -16,7 +16,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | --- | --- | --- | --- | --- | --- |
 | 2019-20 | Final-Exam | Question paper | Sem 5 | B TECH / DATA SCIENCE | BUSINESS_ECONOMICS_FINAL_EXAM_2019-20_.pdf |
 | 2017-18 | — | Question paper | Sem 4 | MBA TECH | Business Economics 2017-18.pdf |
-| 2017-18 | — | Question paper | Sem 4 | MBA TECH | Business_Economics_2017-18_UD5T1IcE8e.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 3, Sem 4 | MBA TECH, MBA TECH / CHEMICAL | Business_Economics_2017-18_UD5T1IcE8e.pdf [1] [2] |
 | 2017-18 | Re-Exam | Question paper | Sem 4 | MBA TECH | Buisness Economics ...Re-exam 2017-18.pdf |
 | 2015-16 | Final-Exam | Question paper | Sem 5 | MBA TECH | Business Economics 15-16 FINAL EXAM.pdf |
 | 2015-16 | Re-Exam | Question paper | Sem 5 | MBA TECH | Business Economics Batch 2014-15,2015-16 Re Exam.pdf |
@@ -43,5 +43,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2007-08 | — | Question paper | Trim 7 | MBA TECH / CHEMICAL, MBA TECH / I T | 2007-2008(84).pdf |
 | 2006-07 | — | Question paper | Trim 7 | MBA TECH / CHEMICAL, MBA TECH / I T | 2006-2007(59).pdf |
 | — | — | Question paper | Trim 7 | MBA TECH / CHEMICAL, MBA TECH / I T | scan0001(3).pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "BUSINESS ECONOMICS" but the paper is headed "Business Economics"
+2. filed under "BUSINESS COMMUNICATION" but the paper is headed "Business Economics"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

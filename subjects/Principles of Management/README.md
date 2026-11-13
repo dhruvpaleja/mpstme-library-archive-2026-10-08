@@ -16,18 +16,18 @@ Also filed as: `PRINCIPAL OF MANAGEMENT`, `Principle of Management`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / CSE Data Science (311) | Principles of Management, Sem-V, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | QP_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSE DS 7011 | ANS_Principles of Management(702TG0C010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech CSE DS 7011 | QP_Principles of Management(702TG0C010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech AI 7051 | QP_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech Computer 7047 | QP_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSE DS 7011 | ANS_Principles of Management(702TG0C010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2024-25 | — | Question paper | Sem 5 | B TECH / CSE Data Science (311) | Principles of Management, 3rd Year, Sem-V, Year 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / CSE DATA SCIENCE | Principles of Management, Sem-V, Final Exam 2024-25.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / CSE Data Science (311) | Principles of Management, Sem-V, Final Exam, A Y 2023-24.pdf |

@@ -16,20 +16,20 @@ Also filed as: `STREANTH OF MATERIAL`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Strength of Materials(702CI0C028)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Strength of Materials(702ME0C031)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Strength of Materials(702ME0C008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | B TECH / CIVIL | Strength of Materials, Sem-III, Year 2025-26 Final Exam & 2022-23, 2023-24, 2024-_2fe8b417.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech Civil 7005 | QP_Strength of Materials(702CI0C028)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Mechanical 7003 | QP_Strength of Materials(702ME0C031)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated Mechanical 7031 | QP_Strength of Materials(702ME0C008)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Strength of Materials(702CI0C028)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Strength of Materials(702ME0C031)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Strength of Materials(702ME0C008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Strength of Materials(702CI0C028)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Strength of Materials(702ME0C031)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Strength of Materials(702ME0C008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / MECHANICAL | Strength of Materials Batch 2022-23,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech Civil 7005 | QP_Strength of Materials(702CI0C028)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech Mechanical 7003 | QP_Strength of Materials(702ME0C031)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated Mechanical 7031 | QP_Strength of Materials(702ME0C008)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Strength of Materials(702CI0C028)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Strength of Materials(702ME0C031)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Strength of Materials(702ME0C008)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CIVIL | Strength of Materials, Sem-III, Final Exam 2024-25 & Re Exam2022-23, 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHANICAL | Strength of Materials, Sem IV, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CIVIL | Strength of Materials, Sem-III, Batch 22-3, 23-24 & 2024-25, Re Exam.pdf |

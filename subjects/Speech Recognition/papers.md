@@ -175,7 +175,7 @@ c. VISUALISE
 d. MODELING
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper abd44a4d5248
+## 2022-23 · Final-Exam · Sem 3 · paper abd44a4d5248
 
 - Departments: Artificial Intelligence
 - Programmes: M TECH / ARTIFICIAL INTELLIGENCE

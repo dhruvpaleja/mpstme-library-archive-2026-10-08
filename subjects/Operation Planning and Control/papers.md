@@ -1,8 +1,90 @@
 # Operation Planning and Control: question papers in full
 
-31 unique papers · 2011-12 to 2025-26 · Common (all branches), Computer Engineering, Mechanical, Information Technology, Artificial Intelligence, Data Science, Chemical, Electronics and Telecommunication
+31 unique papers · 2011-12 to 2025-26 · Common (all branches), Computer Engineering, Information Technology, Mechanical, Artificial Intelligence, Data Science, Chemical, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 9 · paper 4fa5c9421313
+
+- Departments: Computer Engineering, Information Technology, Mechanical
+- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046, MBATech Computer 7047, MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_09/Final-Exam/MBATech_IT_7041/Operation Planning and Control/QP_Operation Planning and Control(703TO0E001)_2024-2025_4fa5c94213.pdf` (+3 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 12 Dec 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)/MBA Tech
+(Mech)
+Year: V/Semester IX(Exam Year: 2025-2026)
+Subject: Operation Planning and Control
+Date: 12 Dec 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. _1___ is compulsory.
+3. Out of remaining questions, attempt any __4___ questions
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer the following questions:   [10]
+CO 1 ;   a.   Define Forecasting   2
+BL2
+CO 2;   b.   Discuss Master Production Schedule   2
+BL2
+CO 3 ;   c.   Define Scheduling with an example   2
+BL2
+CO 4 ;   d.   Discuss JIT   2
+BL2
+CO 4 ;   e.   Discuss Synchronous Manufacturing System   2
+BL2
+Q2
+CO 1;   Explain Manufacturing Operation Classifications with examples   [10]
+BL2
+Q3
+CO 1;   Explain Classification of Forecasting with examples   [10]
+BL2
+Q4
+Answer the following questions:   [10]
+CO2;   1.   Steps of Capacity planning   5
+BL1
+CO3-;   2.   Objectives of Scheduling   5
+BL1
+Q5
+Answer the following questions:   [10]
+CO4;   1.   Scope of IOT enabled manufacturing Systems   5
+BL2
+CO3;   2.   Framework for Production Activity Control   5
+BL2
+Q6   Evaluate as per sequencing rules (FCFS, SPT, EDD):   [10]
+********** 1 **********
+--- page 2 ---
+CO 3;   Average Flow time, Average Tardiness, Average number of jobs at a work
+BL6   station. Also provide a summary and your analysis:
+Jobs   Processing time   DD=Due date
+A   11   61
+B   29   45
+C   31   31
+D   1   33
+E   2   32
+Evaluate the following Lot size technique for EOQ method
+Period   1   2   3   4   5   6   7   8   9   10
+Net   36   5   45   21   3   4   36
+requirements.
+Q7   Planned
+CO2;   orders   [10]
+BL6
+Assume LT = 0
+Set up cost = 120 /- ; Unit price = 60/-
+Holding costs, HR = .25 per annum and HP = .0208 per period
+Annual demand, D = 256
+********** 2 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 9 · paper 1b7492ac7e3f
 
@@ -539,88 +621,6 @@ produces 400 yards of carpet per day. The cost of setting up the manufacturing p
 production run is $720. Determine the optimal order size, total inventory cost, length of time
 to receive an order, and maximum inventory level.
 Page 3 of 3
-````
-
-## 2024-25 · Final-Exam · Sem 9 · paper 4fa5c9421313
-
-- Departments: Computer Engineering, Information Technology, Mechanical
-- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046, MBATech Computer 7047, MBATech IT 7041
-- Source: `02_Question_Papers/2024/Sem_09/Final-Exam/MBATech_IT_7041/Operation Planning and Control/QP_Operation Planning and Control(703TO0E001)_2024-2025_4fa5c94213.pdf` (+3 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 12 Dec 2025
-- Text: text (2 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)/MBA Tech
-(Mech)
-Year: V/Semester IX(Exam Year: 2025-2026)
-Subject: Operation Planning and Control
-Date: 12 Dec 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
-Max. Marks: 50
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 2 pages.
-2. Question No. _1___ is compulsory.
-3. Out of remaining questions, attempt any __4___ questions
-4. In all ___5_ questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1
-Answer the following questions:   [10]
-CO 1 ;   a.   Define Forecasting   2
-BL2
-CO 2;   b.   Discuss Master Production Schedule   2
-BL2
-CO 3 ;   c.   Define Scheduling with an example   2
-BL2
-CO 4 ;   d.   Discuss JIT   2
-BL2
-CO 4 ;   e.   Discuss Synchronous Manufacturing System   2
-BL2
-Q2
-CO 1;   Explain Manufacturing Operation Classifications with examples   [10]
-BL2
-Q3
-CO 1;   Explain Classification of Forecasting with examples   [10]
-BL2
-Q4
-Answer the following questions:   [10]
-CO2;   1.   Steps of Capacity planning   5
-BL1
-CO3-;   2.   Objectives of Scheduling   5
-BL1
-Q5
-Answer the following questions:   [10]
-CO4;   1.   Scope of IOT enabled manufacturing Systems   5
-BL2
-CO3;   2.   Framework for Production Activity Control   5
-BL2
-Q6   Evaluate as per sequencing rules (FCFS, SPT, EDD):   [10]
-********** 1 **********
---- page 2 ---
-CO 3;   Average Flow time, Average Tardiness, Average number of jobs at a work
-BL6   station. Also provide a summary and your analysis:
-Jobs   Processing time   DD=Due date
-A   11   61
-B   29   45
-C   31   31
-D   1   33
-E   2   32
-Evaluate the following Lot size technique for EOQ method
-Period   1   2   3   4   5   6   7   8   9   10
-Net   36   5   45   21   3   4   36
-requirements.
-Q7   Planned
-CO2;   orders   [10]
-BL6
-Assume LT = 0
-Set up cost = 120 /- ; Unit price = 60/-
-Holding costs, HR = .25 per annum and HP = .0208 per period
-Annual demand, D = 256
-********** 2 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 9 · paper 06313c6fb2dc
@@ -1502,6 +1502,7 @@ Based on Average PAB, Total ATP and Total MPS evaluate and suggest suitable opti
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/OPERATIONS PLANNING AND CONTROL/Operation Planning & Control 2015-16 Final.pdf`
 - Printed on paper: exam date: 14/12/2015
 - Text: ocr (3 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1565,7 +1566,6 @@ master production scheduling with other functions.
 3) Work-out gross requirements, net requirement and production plan (With two methods: Front
 Schedule — Starting on Day-1 and Back Schedule — ending on Day-150).
 
-Gon PLY rermnrarb frvdluh A = 50 vw.
 
 Product Structure Data:
 
@@ -1607,7 +1607,6 @@ Task Time 60 80 60 90 45 50 55 80
 --- page 3 ---
 Preceding
 
-- A B A,B B, D c,D E, F G
 Tasks I
 
 a) What is the cycle time?
@@ -1841,6 +1840,689 @@ Orders 40 30
 K
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper 61d843105f1b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/OPERATION PLANNING AND CONTROL/scan0019(12).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04/01/2013
+- Text: ocr (16 pages), mean OCR confidence 35.7
+- 103 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (Tech) -ALL STREAMS Year: V_ Trimester: a
+Academic Year: 2012-2013
+
+Subject: OPERATION PLANNING & CONTROL Marks: 50 \
+Time: 2,00'p.m To 4.00 p.m
+Date: 04/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+NB: Angne’ any 5Cive) Questions nn
+Qu 1. a. Explain the Terms: Drum, Buffer, Rope . What are the principles of Bottleneck 5
+Scheduling ? What is Time Buffer and Space Buffer and their requirement ?
+b. For “ Shouldice Hospital” case 5
+Where is the Capacity Bottleneck ? Where should they add capacity? Show calculation.
+Should the CEO make a Plan for working on Saturday ?
+
+Qu 2. Explain the Terms in brief with examples (assume data ) (max half/one page per topic) 10
+a) Master Planning, Rough Cut Capacity Planning and Sales and Operations Planning
+b) Scheduling Techniques - Critical Ratio, SPT, Minimum Tardiness
+c) Forecasting Techniques —Holt Winters and Croston’s Method
+Qu 3.9Explain the following Lot sizing methods as applicable in an inventory planning ‘10
+Environment as depicted below. Lot for Lot and Part period Balancing
+PAB at
+b) Order Qty = Silver Meal or Wagner Whitin Algorithm — Safety Stock =80 start=350
+Lead Time : 2 Periods
+PERIODS .
+1 2 3 4 5 6 7 , 8
+Forecast | 40 150 120 240 130 ' 120 185 115
+Demand .
+specute
+Receipt
+PAB
+Planned
+Receipts
+Planned
+Order
+Release
+
+Show details of calculation for finding out the Order Quantity.
+
+Qu. 4
+
+(a) Explain different Operations Planning strategies used by a FMCG company with your own data.
+(b) What are P,Q System of Inventory Management ? Explain with sketches /drawings .
+
+(c) Explain Terms -Kanban , Keiretsu, Heizunka
+
+i
+
+10
+--- page 2 ---
+Qu. 5 What are the principles of Toyota Production system (TPS) ? 5
+Questions from “Dore Dore” Case 5
+a. Evaluate the Changes Dore Dore has made in its Children’s Knitwear division.(Use Little’s Law)
+b. How does the performance of the traditional operation and cellular manufacturing system differ?(e.g.
+how WIP changes when cells are implemented?
+c. What changes are required to ensure successful implementation of cellular manufacturing ?
+
+Qu. 6 a. Explain the Shop Floor Control techniques like Input Output Control with example. 5
+
+b. What are the different Planning Bills in Master Planning ? 5
+c. Show the calculation of PAB (Projected available Balance) and Available to Promise
+and MPS for the for the following Scenario .
+Lead Time: 1 On Hand : 70 ; Lot Size 60 Safety Stock : 20 ; Demand TF : 3 and Planning TF : 6
+
+Weeks 1 2 3 4 5 6 7 8 9
+Forecast | 30 30 30 40 50 50 60 60 70
+Orders 50 40
+
+PAB
+
+MPS
+
+ATP
+
+£
+
+I6
+--- page 3 ---
+ny]
+
+S
+
+&
+--- page 4 ---
+B322 BSRSREPeuesar -ou88 5 3
+Bag8 BB 3 2235 css 82 53 ZFRGARS Ss
+
+~   pgeg% gases
+
+8 $38ye222%
+gies
+a 28ghsd see
+re) Be Sag cee
+= 28 »o
+S Bo e88ar es
+
+Pre ere
+BaaEe 88
+gee" 2585
+Egigogaag
+
+usae varysues puegeeezres '
+Sib z 3 Beas
+
+SFesn
+Bester
+--- page 5 ---
+Poe 8B
+2382
+
+$5
+QRAR
+--- page 6 ---
+s reese oe g ae eaiaen ores
+Bgegyeee af2 g22e82 Fages $Fs
+SREREZSR FE Zz B35 a8 2
+gre FSB 8B See REEBRS eras es
+a ese e B,E9 a 3 S8e-25 3
+
+mig B85 os. > RgeD
+
+PragogeS Bgh9 ES88 833 BeBsS2 e358
+3 3 zOo.UC~«s Bo a L s
+Begis bas FEES BBERH ST BeosRS BEE
+oka BS &2ES Sasa 8 <5 288
+ga 25328 2>?§ B88ee58 Bqgacks 28
+
+Fees e & En
+
+Be $$ <3 gd Bete 55
+Soe _ =a5j7 838° egee80 ese4ee 837
+goer ge 2B om 33°53 222228 aa Fs
+FEES Ses & eo" 2 Bree. §
+S° RSE z = gze a= 8 =
+
+proszau BES FRARREG 0 228. #2
+B268e58e Sis= asus % SEESRES af
+8Os<gar8 FREE ae584a% eFR228 Ess
+Soae. E yoR ose “Ms 39795 — 32
+Bi aetaeep | Sou S358 2 Ra@s a
+
+SERRSAa 73. es" & 225 3 gasee 8
+eeeeSseF S28g 28a8So & EgeQR RE
+
+Seee2G, Rive F2S5hg SB (fe abe Fe
+
+eEeeo Ff ia ob ebPos 2783 5
+sek f 3 a
+
+Sesser S352 gezere 8g saegF 25
+
+% 5a p 2302.5 w8EB SB
+
+sac S828 2985 SRzasge * BQSES xB
+
+Sores oc P22 3° R59 3 eg2ecs ef
+men koeS& SEER Rse7a? B2se” FF
+Fag 5 Res BB BS ~ B. 7S 8 a
+SEroasS2 E278 Se Akg Bone 303
+
+3. = 2 °
+Easb55275 Bade Sfssuz zo585 83
+Bee 50hRe 2588 23 a538 gae8 ze
+Gsesog™ Bees baa eed REGS BE
+BeFaSage 8f85 ge ee R5g82 a5
+& ess pita SBe aek ze BSE
+
+Pp» Sao oo Bu & S3gE as gERrRES 3
+
+ew ABZB®22 BAA Bw As oF g2a8 3 &
+
+@RSEogR C285 SEBS am Og e a
+agRSEDES TSS gages siege 8
+BESim Fad B35 as 22s e@aasAn ?
+--- page 7 ---
+9
+BR §
+‘<2 g
+BRETETE BF $
+pw aeZ8 a &
+Beggie eee seS ge
+ge ERZEES oak eas 2 *
+B88 88 = S3ee228
+PS GB ES SS Beegise2 3
+» Per ee &$ 38 Bag «Sy
+gu ge283855 ogee &
+Beeay 2 gFe28 ay Bee PS <2
+a9%2 G9223 3 crags fe BEEROSs <o
+BE BQ EH 2aa3 8 3 age 5 FEU O ee
+gRocos eeese s7a8 = ReoES BS SA
+ge RRR gee Sy g Peg SR SR Sooke 8s
+sae $oFsek F B® cE 52 2 Bot Ea 3s
+&sha Bg phas Bye oR gS Re>sea & Bo
+ro5 oo Ee geeree = Rgune g a8 ote & 22
+BRT S es So 228 bee Re aad og
+Foseatz heed e? 3 Sg eS 7a eageure af
+pe oe se BSe28 38 gavzhge 3 S2Rge
+ge Se e3e ghfges 5 Baa SEES: goede 2
+og,as & om ° Q Fs S ak zeeRISS §.
+PEELE SBR she 3 ggeegin e288 53 i ey
+52 ¢ = 3 . Bos’ ag 4 §
+& Sy8h ay 328k 5 o m7 298 TF a8 Baas
+tase a Pe e828 SEEREES be
+Bea sa = OB eos om geo n
+83 "3 28 e aciya a ° Se oe tsa s £30 ge BS
+8g Be 8 oy Bo. a * 8
+za8 ae 3¢ B2ca88 3 PEt ieee Pua ges Bo
+ae @eEBRS = $2588 28 Bogs es a
+yea os g28s SB B55 78 eae gE Fs
+a Bae gaa ® Bea BS85 8 8 BE
+eoRsEaE S pais 2 aay os B28 28 2 Es
+e825 28 rege oe Fy PREG eS egeg3s 38
+Bu. S582 ER AS o 2 ge FER geBR59 = a2
+re gS Fat 3 e s7pheaes &3 & ae
+Sea, lez ee seaq > eras 3 RERES Ey
+ae oe = Base 2 3 Cae aee8 = Gp
+B83 2085 SURG SE Sg3s8e8 ga 3 Es 3
+S8yS ess Bean oe ezciges BRPRE 2 ys
+Fe Fea8 "ease siseats BEaegg Fe
+BES S28 ge & 898s Bakes ot
+BREST Sagee seeReecks
+Ce i a sR ow
+Sex haz Fo oF sRaF
+erat Euros
+Bree 8s FREES
+Eerie 7
+ElZcte
+‘ ay a
+S525% 323 &
+gEPTRTEEES Bee 8
+% S EPPS ae Be
+asg¢sg @ GRaS 529288 ate
+ESEESE £332 § > gees 2h 8<z8g BS
+Bag tes. pe ees pidge ee he ase
+op coy s o 5 eee . s 2
+oe Be ake § aQgye ss Pes 38
+Perea a28898 5 Book a
+gg8B28 8 geese ESTERS TL el aeR
+3 ny S o SRF2R5 Bo 20
+Bee zoey ee gerihgsere ga8
+BEER OSS FREROwR ARES SEES EEE a5 3
+ao ka of a ae Bas REE a8
+ee Ba oy 298Sgig gee eae 238 2
+os sy 2§ % Soe Fe SSassa aoe nd
+Segegas g&SR 85 apiaegeheee Be é
+Pe Tess ¢ aze<58 she
+FoSRES 3 ae] ge72256 * 2
+SEERES 2 “ERS> es BEPegSRERE a 85
+SS 7 SRR easy EB aa ZRS eS og 53
+S58 ,°55 Agee S Be Bp SATS g28
+re z 4 Rage 8
+= o i= 222 RER > oO a 3
+Si Se & a4 ag eQB2@sR 5
+sic essa nk BoB Se oo ee 9323
+SgeaRs Bgady B83 *9 ogre Be
+@ | ae & BSaR8s & .
+= 2. 5 Ss 2 5 * me
+"325885 BSRSEF gues ede573 EP:
+ge2288 aeeaee esebeiges i geF
+Bg enee ZESE eS Beagha§ fs 328
+Seen 28 APE 2 RSs $2nes Bo
+F ze SR 28 9ogEag <igguges* = os
+ge R esses Sonsessise 2
+ga hate ge ga Pree or BS
+as 5 Zo 2 B8esSonncs FS
+Bo aag 8 utssse ls aBRs 8% ad
+Se owe e Sasha geeegeeR es 5 8
+BS sh pehs BRE GRB
+PERF ra BEERS gegrzre &
+sae 4 gan Bs Q ;
+agieee Fee F ck
+gee e
+ee
+--- page 8 ---
+suowessdo £
+sowndo pouen-so9   O,
+
+=
+: smo V7
+sonveme
+>
+7 ‘
+swonedo 9 vonesdo zwonesadg
+
+’>V 6+ TV @ <@
+
+a
+
+Vv .
+%
+
+& 0 ey
+yt® gO O
+
+uoeado, zuomesad Veoneado
+
+%
+
+<—__ ‘
+
+‘MOLL HOM JO WonDaZIC [e249
+
+
+sb
+
+a} a
+
+spon s Rmatd
+
+
+MOHOM YOIINPOY OMAN W
+
+
+
+aedsed 44 21 sop Suunpesnuey (eo,
+does peoyiang Lopes
+aasto Sajvoq,
+44960 Sunes
+44060 Sunuuy
+$4084 Tua Mey %
+
+Aaaysop} 403 aanznung ys0D aBemay $920G-910 NG
+
+-
+
+==
+eens
+ES r see
+
+¥ es
+
+a] cw. tag woneapend
+
+coir
+Ess CC) Sips
+
+oO a
+C4 rou ents
+oe
+
+<—anosyvi
+
+Tnvnafanosvitnvnat
+ast ost
+
+Lom 2) 2pm A PucmorAowD EN
+--- page 9 ---
+soneuado Buns UREA 10
+
+ooo000o000
+a ono00000
+
+; ooag
+Oooo00g00
+oo0g00000
+
+
+
+
+Sy Seater reerastreeres acer cme ation
+= man ceees Se Se
+= Siero
+=r eu ntacoa we tet aeeanioa
+cd Sainte roots
+wl : :
+i oo moms j|TOHAHAHAAe
+= ; ; ~» mms |DORAODOHOR
+son * ' soos NSW a we og ay
+‘on E-] eof puEcsiem 7 woe Oo f
+a ; “er eo <+- 2 DOHA
+Bi: cme oer 8
+= we ee! TO Pee
+ea <r ane vonena ein
+ELBE _ i
+
+--- page 10 ---
+(exe) g os
+8
+Oo q £¢C
+Q z SZ
+z g eg
+oO 5 aR
+tH
+2
+5 00 ood .
+o 8 eooo000000 Bs
+26
+9 29
+Og ©o0000000 a2
+g2 e0000000
+re OO
+3 ooo000000
+aac)
+° 5 ©o0000000
+0% eoo0000000 2G:
+a eo0000000 5
+(exe) poesveneesensennesee Eee.
+oo00!i00000
+ie) i
+ecoo0i00000
+fe) H EMBROIDERY
+ooo0;j00000 (13 workers)
+ce gE
+ee 0g
+ae
+a 48
+LAUNDRY
+s8 OG go a
+O Ss fs Ed
+“Aa
+oj
+
+fa 3
+
+lo
+--- page 11 ---
+3a geo 5
+ce, pike.
+3 3288 He uF
+8 gBae gee oge
+ge ee as eee Eraad
+" 5 eng
+ge 58233 HE
+Ba g2258 tga Hie
+ee ye Za s Teees »
+28 8 Bes ai ae
+#3 ao mag zee iain’ )
+Br Beas bee falas s
+28 ez58 ae fligi 3
+SE ogee 82m eeged St
+fall i ne S5a5E a
+Pus RBs 858
+pe geeee des
+3 S5an8 gE fgEet
+ad RrBBO ge Bg a:
+i rd : 5 ts PS
+Pi gigi? _ Tube
+ga 8aR2s = ee ste
+83 SEBS a Bes sio3 =)
+BS SS Bay fey ZRS as : =
+es . ae < Boe Fees —
+os SPeP E28 gg
+2 gee : + z
+ae aca ei; ff 2
+& Bee 225 oes 5
+a “es S832 a
+ae sf kes 3
+2 Sars gt 7
+& bots iP Be
++e BS 2985
+= 5238
+E ihe eee
+; : a Bae
+. 2385 ad Hil
+Ait BE eaz8
+f ogile pe 2483
+: gcee bales) 5e =
+BS g> 8 Hy
+z2 3535 +9 aE
+&B Shae Z
+4 Toys
+s &
+ESe8aTs
+EQSERE e2283 aE
+ere Sh 2328
+HL Zaid, elite
+o eI age geee83 gos is
+F Faye 2a ee z
+sg & 63a chk etd
+PpeeRille @ £92. seg
+“|9a8e 225835 : He
+At bea 5 a3
+gekhestsgst as 3
+ee $253 ]
+4
+
+235522956
+fsFsooe =
+
+a a >
+
+282 aus
+
+a
+i S288
+
+ae aa
+
+38
+--- page 12 ---
+gugg 4888552 8
+BERo ZSRe pa 85 8
+
+gz :
+Ree agRe. ase
+--- page 13 ---
+z
+3
+z
+s
+a
+8
+Q
+m
+*
+Uv
+8
+=
+o
+2
+3
+oO
+g B2ESEER8 Ag F
+7 we eae 8225 2ivol 2s
+SE § 5 2o8oa<m a3 Ee arose ze
+o FESR 2 2oaven ge8 “"BRESE
+ipo Gua? aah red
+ages 88 S25282 Gbe Zone 2
+- 5 , ER 2 ea : 2
+£52 Goes = — Bot > a2 iy
+--- page 14 ---
+
+--- page 15 ---
+cj f2Qg%s gaRse
+? gisdze feag?
+z Seoee8>   geeRS
+g 3
+5 zgueee BESROS 4 Reaasy
+3 oeeeeh E gre rake Faces
+z o 3 rel . REaE 8288s
+z REESE 9 Backhss ogre 5
+= ze og gh £ SSR8zoR Pp edoes
+8 22583 + Sarees ewes
+= BS8oe5R8 = &Sagpee7 ga
+5 eearses 2 Sere ES SERS
+3 a BgS8:<2 ES325
+B = ane Boao Fre
+3 BaSaige 8 geehb8 Sh258
+3 BeRagee: & gRSG7E BEzSs
+i geebaFe 2 EB fg8bek 28583
+= Pogo Re F BUSA, S25 Sa
+2 siages g 2 BeEROR s FR e
+& 533 2 oe z
+g gepeeeg g 2 gesfe2 25aee
+g gchhhe a F Bgbke RREsg
+A Pagers * & Seegee sha88
+a s p> = 6 A bs
+g Epa Sees egeeee et hes
+3 ca geber BESEER gages
+2 AGES Tebaes SeRae
+= Ba a ae
+3 og 2838s gess03 23958
+z Rage a8 bates Seiya
+z Se gaee Sbases E878
+Set Zaas re 8388
+g a ee geste: EAGER
+= 3s Seas 835
+3 eres ganpe gr2e8
+§ $a 5358 S2s88% Braet
+3 sR Pas SEG>58 FATS
+3 R2gg8 = Qeescte BoB
+z a ae PPRBFee BR2ESE
+f Saag nea Bes
+seates aghek 8
+Psac5S Esso 8
+6 832853 “8553 8
+aloe wal gis <9 z ol ene en
+ze? | 35. aRee 23 © @ pfg2tacg 2 2 @
+ee peas Ge2% SB ge B Snneéz0 a 5 8
+aida FE ee 28 rw B ap Ggti oy 2
+fi | E8gnE goes? 2ERE fF ahs B2 2 “28is%328 27 3
+aS gi28 9875 GeSge 2 5458 ze SEtesSeze ch 8
+bf | se258 E288 Siete f ge8e gS gagioage 2, §
+Bo Bis FAP oe 3 bare | oF GRR ox 3
+ae 8,555 33Es BS95 5 FR 8 23327 oF
+BS S58 as S855 Satan 8 ° Be Bes Ea0 £
+2 3 bo28R 8 taB BT 238 a2 pag keges &
+R= eves Beas B2eS a8 <5. 5 BSSs £8
+Be ag°g Fees a eke =e RFAZEREES F
+26 E233 gags me bs 558 sf zesg,e8ea7 2
+ES FBO SE Fe5¢ zBee e282 & R 283 88
+i $i353 3223 g28% zag 8 SSEaSEar 3s
+z Boke 2 3 ES 5 3 3 23 2
+a!ood: 22522 2622 bes eae 8 g G582e7% a2
+3 BQes eS ea oR 33 £ &
+EH Bie ae 22925 S343 222 e RQRE2 O88 08
+2 28-708 <8 95 Tee EF g eS haste &
+3 eR >5 oe85 35 ae Fo 2 FEEEP Sas 8
+s Seegh 2223 sage as s aRPSsheS > g
+g g2a3 F253 Frus Pes B g2hase os :
+a ge a. On R B abee Bag cs Begsse2. 8 F &
+B ae88 BER e Rega Ae 5 30238658 y 3
+e853 S82 ohaS = 2 Ses a & :
+$828 g492 Fee- 298 BSeSah8se F 3
+5a oP sé SBF RZe 3 eraree rs Ca =
+tone odga: B25 H seeeese | i
+529 88288 aie a B2asedha 9 z
+--- page 16 ---
+a
+g
+SEeE zu
+Sara D>
+Bag a
+rs
+Fas
+Ee?
+gE 2
+SEUSS
+ZaBS
+Bga8
+ze 2
+go2F
+8220
+BaP
+Boa F
+4
+agey
+Bees
+g255
+Bpak
+. Bye:
+8e6u
+Qaar
+° ate
+gee 5B > ee
+28 BSBZRER 2 ay
+a3 0 a g278 BEERS E 3 Bdg-2
+Re8hu ve o3g 2 F2E Ses 9 2288
+aad Se a8 se wee Roo = oD 5ogs
+a$5a5 82 Sag SgSGFGer F 2 aeeo
+eS, oe < $500 Saabs = 3 UB EI
+BREE 87s Vaage Fee R= 2g = ae pe
+sisey 26 zee 2355055 & $3sas
+Rige 3 ao@e 8 R2bbes & Fa S55
+sfsie 9% gaak f 2eh28e 3 ered
+3 B 8 greg ees =
+apegs Be GBeE pcpeEEc2 2 G3ER
+BS zZaS 33 goes Es RSE 3 Sag
+Boe ges Zoo 8 88 3 Ea
+3 FE 3823 8 B25E5 3 a hE
+Esse 3 oe S32 ZeEzog ia 3 eRe
+Bas 3 Rezeog age
+a5 5 Beek ZEESEGSe Soe
+gest 52.2283 Bq tShez3 RRR
+2g 8 a] 2282 SES ee 823 Fag
+BS 2°? 5. B2eF BRE Es as 8 265
+eee 3 Sele Beg 88S x § 2
+a ae. Eee
+gree ak are oes Oe eg8
+are Bs geek ay Fosse
+ad o & Bp 3 gag
+Bea 52 3Bso & gaea Fs g
+teg2 58 eg$e 8 eRGks 5
+s g oa > a
+a bed 2 o f Oo
+A] e2 2 Fal eo 223s a3 5583
+EUoe 5° eaa8 EB eae v3
+BRB Fae Se2bags Be
+>Fa8 BE ERS ag age a SEB sz
+2 Bese 288 Eoess
+sein 8 BETS se 5
+ghae 2 aeLS SEREPEs
+eo 38 a ad
+ugxe 28
+EeRB
+Fae
+3344
+````
+
 ## 2012-13 · Re-Exam · Trim 14 · paper b60a47d3c69c
 
 - Departments: Common (all branches)
@@ -2004,788 +2686,4 @@ MPS
 ATP
 
 Required: PAB, ATP, MPS
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 61d843105f1b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/OPERATION PLANNING AND CONTROL/scan0019(12).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 04/01/2013
-- Text: ocr (16 pages), mean OCR confidence 35.7
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (Tech) -ALL STREAMS Year: V_ Trimester: a
-Academic Year: 2012-2013
-
-Subject: OPERATION PLANNING & CONTROL Marks: 50 \
-Time: 2,00'p.m To 4.00 p.m
-Date: 04/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-NB: Angne’ any 5Cive) Questions nn
-Qu 1. a. Explain the Terms: Drum, Buffer, Rope . What are the principles of Bottleneck 5
-Scheduling ? What is Time Buffer and Space Buffer and their requirement ?
-b. For “ Shouldice Hospital” case 5
-Where is the Capacity Bottleneck ? Where should they add capacity? Show calculation.
-Should the CEO make a Plan for working on Saturday ?
-
-Qu 2. Explain the Terms in brief with examples (assume data ) (max half/one page per topic) 10
-a) Master Planning, Rough Cut Capacity Planning and Sales and Operations Planning
-b) Scheduling Techniques - Critical Ratio, SPT, Minimum Tardiness
-c) Forecasting Techniques —Holt Winters and Croston’s Method
-Qu 3.9Explain the following Lot sizing methods as applicable in an inventory planning ‘10
-Environment as depicted below. Lot for Lot and Part period Balancing
-PAB at
-b) Order Qty = Silver Meal or Wagner Whitin Algorithm — Safety Stock =80 start=350
-Lead Time : 2 Periods
-PERIODS .
-1 2 3 4 5 6 7 , 8
-Forecast | 40 150 120 240 130 ' 120 185 115
-Demand .
-specute
-Receipt
-PAB
-Planned
-Receipts
-Planned
-Order
-Release
-
-Show details of calculation for finding out the Order Quantity.
-
-Qu. 4
-
-(a) Explain different Operations Planning strategies used by a FMCG company with your own data.
-(b) What are P,Q System of Inventory Management ? Explain with sketches /drawings .
-
-(c) Explain Terms -Kanban , Keiretsu, Heizunka
-
-i
-
-10
---- page 2 ---
-Qu. 5 What are the principles of Toyota Production system (TPS) ? 5
-Questions from “Dore Dore” Case 5
-a. Evaluate the Changes Dore Dore has made in its Children’s Knitwear division.(Use Little’s Law)
-b. How does the performance of the traditional operation and cellular manufacturing system differ?(e.g.
-how WIP changes when cells are implemented?
-c. What changes are required to ensure successful implementation of cellular manufacturing ?
-
-Qu. 6 a. Explain the Shop Floor Control techniques like Input Output Control with example. 5
-
-b. What are the different Planning Bills in Master Planning ? 5
-c. Show the calculation of PAB (Projected available Balance) and Available to Promise
-and MPS for the for the following Scenario .
-Lead Time: 1 On Hand : 70 ; Lot Size 60 Safety Stock : 20 ; Demand TF : 3 and Planning TF : 6
-
-Weeks 1 2 3 4 5 6 7 8 9
-Forecast | 30 30 30 40 50 50 60 60 70
-Orders 50 40
-
-PAB
-
-MPS
-
-ATP
-
-£
-
-I6
---- page 3 ---
-ny]
-
-S
-
-&
---- page 4 ---
-B322 BSRSREPeuesar -ou88 5 3
-Bag8 BB 3 2235 css 82 53 ZFRGARS Ss
-
-~   pgeg% gases
-
-8 $38ye222%
-gies
-a 28ghsd see
-re) Be Sag cee
-= 28 »o
-S Bo e88ar es
-
-Pre ere
-BaaEe 88
-gee" 2585
-Egigogaag
-
-usae varysues puegeeezres '
-GORGE FREZETEL SA25FECSFE9RER SEER 7s
-Sib z 3 Beas
-
-SFesn
-Bester
---- page 5 ---
-Poe 8B
-2382
-
-$5
-QRAR
---- page 6 ---
-s reese oe g ae eaiaen ores
-Bgegyeee af2 g22e82 Fages $Fs
-SPeReSs Bae SaR33§ ageg a
-SREREZSR FE Zz B35 a8 2
-gre FSB 8B See REEBRS eras es
-Beeen eee ASE Sees te gazes, 38
-a ese e B,E9 a 3 S8e-25 3
-
-mig B85 os. > RgeD
-
-Zot ee8 oa ROg Beotkee Be,Sss 3
-Beersey gheh gsegEhe eageee BBE
-PragogeS Bgh9 ES88 833 BeBsS2 e358
-PeSaoRSS "ERR SRSaS ae Byesg8 RBS
-3 3 zOo.UC~«s Bo a L s
-Begis bas FEES BBERH ST BeosRS BEE
-oka BS &2ES Sasa 8 <5 288
-efakagB BR Pa pS ZESE ee 8. g
-ga 25328 2>?§ B88ee58 Bqgacks 28
-
-Fees e & En
-
-Be $$ <3 gd Bete 55
-EzaS®S2e suBe 89385 Sekeey Sar
-Soe _ =a5j7 838° egee80 ese4ee 837
-goer ge 2B om 33°53 222228 aa Fs
-FEES Ses & eo" 2 Bree. §
-Se gSekST GEES SPaer, 2 ESSER a3
-S° RSE z = gze a= 8 =
-
-proszau BES FRARREG 0 228. #2
-B268e58e Sis= asus % SEESRES af
-8Os<gar8 FREE ae584a% eFR228 Ess
-Beez 2 ORF 82 < eee ose Bee
-Soae. E yoR ose “Ms 39795 — 32
-Bi aetaeep | Sou S358 2 Ra@s a
-BraPesel EFo, g 828 Bel eee we
-
-pet > aay Bage¢e5 O Fosse S38
-SERRSAa 73. es" & 225 3 gasee 8
-eeeeSseF S28g 28a8So & EgeQR RE
-
-Seee2G, Rive F2S5hg SB (fe abe Fe
-
-eEeeo Ff ia ob ebPos 2783 5
-sek f 3 a
-
-Sesser S352 gezere 8g saegF 25
-
-% 5a p 2302.5 w8EB SB
-
-sac S828 2985 SRzasge * BQSES xB
-
-Sores oc P22 3° R59 3 eg2ecs ef
-men koeS& SEER Rse7a? B2se” FF
-Fag 5 Res BB BS ~ B. 7S 8 a
-gESS85 oR Bae see ae8 BRCRS OBR
-SEroasS2 E278 Se Akg Bone 303
-
-3. = 2 °
-Easb55275 Bade Sfssuz zo585 83
-Bee 50hRe 2588 23 a538 gae8 ze
-Gsesog™ Bees baa eed REGS BE
-BeFaSage 8f85 ge ee R5g82 a5
-& ess pita SBe aek ze BSE
-esbseas-ze FES FoR 808 Pmeti Be
-
-SBS kegs Hy ake Babess 4g
-SabRCR2S gate Braieek evusegs -£
-Pp» Sao oo Bu & S3gE as gERrRES 3
-Sosce8° a Bese PEs ERR 5a2 Oe. 2.8
-B2soren% Bers seat hs BSchZ 8
-
-ew ABZB®22 BAA Bw As oF g2a8 3 &
-
-@RSEogR C285 SEBS am Og e a
-agRSEDES TSS gages siege 8
-BESim Fad B35 as 22s e@aasAn ?
---- page 7 ---
-9
-BR §
-‘<2 g
-BRETETE BF $
-pw aeZ8 a &
-Beggie eee seS ge
-ge ERZEES oak eas 2 *
-B88 88 = S3ee228
-PS GB ES SS Beegise2 3
-» Per ee &$ 38 Bag «Sy
-gu ge283855 ogee &
-Beeay 2 gFe28 ay Bee PS <2
-a9%2 G9223 3 crags fe BEEROSs <o
-BE BQ EH 2aa3 8 3 age 5 FEU O ee
-gRocos eeese s7a8 = ReoES BS SA
-BEER SE gEnea, 8 Pes a8 Ss = FERSoes Se
-BERS 8 5 -onsO of oerea oko2 se 3s
-ge RRR gee Sy g Peg SR SR Sooke 8s
-sae $oFsek F B® cE 52 2 Bot Ea 3s
-&sha Bg phas Bye oR gS Re>sea & Bo
-ro5 oo Ee geeree = Rgune g a8 ote & 22
-gBges 8 agif Begg beers BE Zoss a
-gggae ce Becg3e 2 aaeire kogeeas 28
-BRT S es So 228 bee Re aad og
-BBesBES okaga8 3 Bea s5%23 eieoaee 33
-RES 22S Segizy 3B Bea 2223= si8 gaSs 53
-Foseatz heed e? 3 Sg eS 7a eageure af
-pe oe se BSe28 38 gavzhge 3 S2Rge
-GSR RSa <geesa 9 SEf nen } g8¥s8gt &
-ge Se e3e ghfges 5 Baa SEES: goede 2
-og,as & om ° Q Fs S ak zeeRISS §.
-PEELE SBR she 3 ggeegin e288 53 i ey
-52 ¢ = 3 . Bos’ ag 4 §
-a5 gee EBL od Z 5 eSesehag BSee5o" RE
-& Sy8h ay 328k 5 o m7 298 TF a8 Baas
-tase a Pe e828 SEEREES be
-SaFaeF =£ B BRS STE BRE 3 g
-Bea sa = OB eos om geo n
-gaggrhy PRET TH pe Rage ES RaSeSa> 95
-83 "3 28 e aciya a ° Se oe tsa s £30 ge BS
-8g Be 8 oy Bo. a * 8
-za8 ae 3¢ B2ca88 3 PEt ieee Pua ges Bo
-AR ee B as eS Pa BSos< Ss Rog fe 57
-ae @eEBRS = $2588 28 Bogs es a
-yea os g28s SB B55 78 eae gE Fs
-a Bae gaa ® Bea BS85 8 8 BE
-SES Osa gc As . 2 PRSROOBS BERORS 3.
-eoRsEaE S pais 2 aay os B28 28 2 Es
-e825 28 rege oe Fy PREG eS egeg3s 38
-Bu. S582 ER AS o 2 ge FER geBR59 = a2
-re gS Fat 3 e s7pheaes &3 & ae
-eae 2 Ree paReed F gegcae8 <opesh 2
-Sea, lez ee seaq > eras 3 RERES Ey
-ae oe = Base 2 3 Cae aee8 = Gp
-B83 2085 SURG SE Sg3s8e8 ga 3 Es 3
-S8yS ess Bean oe ezciges BRPRE 2 ys
-ge het ee BEB2 ES g23 gia Reset e 3s
-Sra FSas RE Ba 32 Po Se BP E
-BOS SEeR eae Sh eeP E £55 2g BB
-Fe Fea8 "ease siseats BEaegg Fe
-Peake eo vee oe SB BaF = gree ee i
-pegcR TS aig gg gee5098 Begaks 8 8
-PEs 2 3 8 Ba oek Beads. BOR eB x a
-BES S28 ge & 898s Bakes ot
-ase EES Bag le zERgEae Bae eis
-Be 28 5» EEE AS peRR ESAS aS Bea BS
-BREST Sagee seeReecks
-Ce i a sR ow
-Sex haz Fo oF sRaF
-erat Euros
-Bree 8s FREES
-Eerie 7
-ElZcte
-‘ ay a
-S525% 323 &
-gEPTRTEEES Bee 8
-% S EPPS ae Be
-asg¢sg @ GRaS 529288 ate
-Fee FSo9se B peat eeis Ro fe
-ESEESE £332 § > gees 2h 8<z8g BS
-Bag tes. pe ees pidge ee he ase
-op coy s o 5 eee . s 2
-oe Be ake § aQgye ss Pes 38
-aigttag gizle ce B Sees Busi BF:
-Perea a28898 5 Book a
-BRE Tass BR RSE og PEeee tT eet e Bec
-gg8B28 8 geese ESTERS TL el aeR
-3 ny S o SRF2R5 Bo 20
-Bee zoey ee gerihgsere ga8
-Bos q Bork fare Bese
-BEER OSS FREROwR ARES SEES EEE a5 3
-ao ka of a ae Bas REE a8
-ee Ba oy 298Sgig gee eae 238 2
-ag hegni 2258338 Bud ha ge ag Bs
-28 § eget ize Perr rer aé
-os sy 2§ % Soe Fe SSassa aoe nd
-Segegas g&SR 85 apiaegeheee Be é
-Ey Eb eg e eseesee Sere 6 Soak REE
-Pe Tess ¢ aze<58 she
-egers3 gylgrae eyeagstket BRE
-FoSRES 3 ae] ge72256 * 2
-SEERES 2 “ERS> es BEPegSRERE a 85
-SS 7 SRR easy EB aa ZRS eS og 53
-S58 ,°55 Agee S Be Bp SATS g28
-re z 4 Rage 8
-geckees BUEEES BSR See S028 Bes
-ceyiis! Eas seRezeSai cae
-= o i= 222 RER > oO a 3
-Si Se & a4 ag eQB2@sR 5
-sic essa nk BoB Se oo ee 9323
-SgeaRs Bgady B83 *9 ogre Be
-gag 2 SS. gale B8ehger ets 28
-@ | ae & BSaR8s & .
-eee eect giee gegke eke es mS 8
-= 2. 5 Ss 2 5 * me
-"325885 BSRSEF gues ede573 EP:
-eSoaeg Sseha5 eee eee ERE
-Rg eZee gR2g GE gifs pohict Bae
-ge2288 aeeaee esebeiges i geF
-Bg enee ZESE eS Beagha§ fs 328
-Seen 28 APE 2 RSs $2nes Bo
-F ze SR 28 9ogEag <igguges* = os
-ge R esses Sonsessise 2
-ga hate ge ga Pree or BS
-as 5 Zo 2 B8esSonncs FS
-BS sa gto 88229 a x J
-gsgeag Bere gf bei atigss! 33 8
-Bo aag 8 utssse ls aBRs 8% ad
-Se owe e Sasha geeegeeR es 5 8
-aches shes a8 epeek gates 3g
-BS sh pehs BRE GRB
-PERF ra BEERS gegrzre &
-sae 4 gan Bs Q ;
-agieee Fee F ck
-gee e
-ee
---- page 8 ---
-suowessdo £
-sowndo pouen-so9   O,
-
-=
-: smo V7
-sonveme
->
-7 ‘
-swonedo 9 vonesdo zwonesadg
-
-’>V 6+ TV @ <@
-
-a
-
-Vv .
-%
-
-& 0 ey
-yt® gO O
-
-uoeado, zuomesad Veoneado
-
-%
-
-<—__ ‘
-
-‘MOLL HOM JO WonDaZIC [e249
-
-TD a1qPX@LY & 70 uBisaq padeys-n adhojo1g 9 nq
-
-sb
-
-a} a
-
-spon s Rmatd
-
-[sei ke fe oe Hc fe ve HA ef eA]
-
-MOHOM YOIINPOY OMAN W
-
-“uySsew jyord pue sosuadxa aanenistunupe pue Surjos
-
-8,0q siuasaida: soo Burnpeynuwut [e193 pue ao14d BurTAs aesajoys ayy YaPmUEq BDURIaHTP OL
-
-aedid   4706-09,, aoug Suns Wey
-anedsad 44 76-08 aotg Sues aresso4m,
-aedsed 44 21 sop Suunpesnuey (eo,
-Hor ROSEOTS PUY SPUOSIG Ty HD
-does peoyiang Lopes
-Huo Surysrutg pue oxo Aanfend)
-aasto Sajvoq,
-44960 Sunes
-44060 Sunuuy
-$4084 Tua Mey %
-
-Aaaysop} 403 aanznung ys0D aBemay $920G-910 NG
-
--
-
-==
-eens
-ES r see
-
-¥ es
-
-a] cw. tag woneapend
-
-coir
-Ess CC) Sips
-
-oO a
-C4 rou ents
-oe
-
-<—anosyvi
-
-Tnvnafanosvitnvnat
-ast ost
-
-Lom 2) 2pm A PucmorAowD EN
---- page 9 ---
-soneuado Buns UREA 10
-
-ooo000o000
-a ono00000
-
-; ooag
-Oooo00g00
-oo0g00000
-
-n= mes Ie Oa. worn aye wey sassy Ly YORE Buus eonePeH| Jo UoNeINS yO
-
-sompaig apne 20) spssanoy 2onpeny £q ne24 apady jo vonSgssenD shag YP 20} yD Su 46 NED
-
-auayorzoad = x E¢2TTIge Pook = 9 EarTTge aopaadne « @ EAATTTAE TWeTTIOK® = ¥
-
-Ea pee 70 uonaptu ay) 20) papueme sem uonesuedwon sadoxd ey saree 01 Kep aya JO PUP BY) YE JOSWUEdNE € 0) PRLNUGNS Sem
-Sy Seater reerastreeres acer cme ation
-= : : Lie eee epee eatery
-= man ceees Se Se
-= : Ser aay el trp meld
-= Siero
-=r eu ntacoa we tet aeeanioa
-cd Sainte roots
-wl : :
-vee Fa Gino pued ds LOU
-i oo moms j|TOHAHAHAAe
-= ; ; ~» mms |DORAODOHOR
-son * ' soos NSW a we og ay
-‘on E-] eof puEcsiem 7 woe Oo f
-a ; “er eo <+- 2 DOHA
-Bi: cme oer 8
-= we ee! TO Pee
-ea <r ane vonena ein
-ELBE _ i
-
-‘PQ om semyON Yo VoREYIHETD aii THD 20) HeND SoNMNLY we NANT
---- page 10 ---
-(exe) g os
-8
-Oo q £¢C
-Q z SZ
-z g eg
-oO 5 aR
-tH
-2
-5 00 ood .
-o 8 eooo000000 Bs
-26
-9 29
-Og ©o0000000 a2
-g2 e0000000
-re OO
-3 ooo000000
-aac)
-° 5 ©o0000000
-0% eoo0000000 2G:
-a eo0000000 5
-(exe) poesveneesensennesee Eee.
-oo00!i00000
-ie) i
-ecoo0i00000
-fe) H EMBROIDERY
-ooo0;j00000 (13 workers)
-ce gE
-ee 0g
-ae
-a 48
-LAUNDRY
-s8 OG go a
-O Ss fs Ed
-“Aa
-oj
-
-fa 3
-
-lo
---- page 11 ---
-3a geo 5
-ce, pike.
-3 3288 He uF
-8 gBae gee oge
-ge ee as eee Eraad
-" 5 eng
-ge 58233 HE
-Ba g2258 tga Hie
-ee ye Za s Teees »
-28 8 Bes ai ae
-#3 ao mag zee iain’ )
-Br Beas bee falas s
-28 ez58 ae fligi 3
-SE ogee 82m eeged St
-fall i ne S5a5E a
-Pus RBs 858
-pe geeee des
-3 S5an8 gE fgEet
-ad RrBBO ge Bg a:
-i rd : 5 ts PS
-Pi gigi? _ Tube
-ga 8aR2s = ee ste
-83 SEBS a Bes sio3 =)
-BS SS Bay fey ZRS as : =
-es . ae < Boe Fees —
-os SPeP E28 gg
-2 gee : + z
-ae aca ei; ff 2
-& Bee 225 oes 5
-a “es S832 a
-ae sf kes 3
-2 Sars gt 7
-& bots iP Be
-+e BS 2985
-= 5238
-E ihe eee
-; : a Bae
-. 2385 ad Hil
-Ait BE eaz8
-f ogile pe 2483
-: gcee bales) 5e =
-BS g> 8 Hy
-z2 3535 +9 aE
-&B Shae Z
-4 Toys
-s &
-ESe8aTs
-EQSERE e2283 aE
-ere Sh 2328
-HL Zaid, elite
-o eI age geee83 gos is
-F Faye 2a ee z
-sg & 63a chk etd
-PpeeRille @ £92. seg
-“|9a8e 225835 : He
-At bea 5 a3
-gekhestsgst as 3
-ee $253 ]
-4
-
-235522956
-fsFsooe =
-
-a a >
-
-282 aus
-
-a
-i S288
-
-ae aa
-
-38
---- page 12 ---
-gugg 4888552 8
-BERo ZSRe pa 85 8
-
-gz :
-Ree agRe. ase
---- page 13 ---
-z
-3
-z
-s
-a
-8
-Q
-m
-*
-Uv
-8
-=
-o
-2
-3
-oO
-g B2ESEER8 Ag F
-7 we eae 8225 2ivol 2s
-SE § 5 2o8oa<m a3 Ee arose ze
-wo] 03 SB RETERSS aaES Rasa wea
-o FESR 2 2oaven ge8 “"BRESE
-ipo Gua? aah red
-ages 88 S25282 Gbe Zone 2
-- 5 , ER 2 ea : 2
-2234,02 2 FIERGE2 of Fsesg fag e2tese ga8? ae
-£52 Goes = — Bot > a2 iy
-Erpasge 9 S82n5g8 2 25823 REG PGF ees BEET Bate
---- page 14 ---
-
---- page 15 ---
-cj f2Qg%s gaRse
-? gisdze feag?
-z Seoee8>   geeRS
-g 3
-5 zgueee BESROS 4 Reaasy
-3 oeeeeh E gre rake Faces
-z o 3 rel . REaE 8288s
-z REESE 9 Backhss ogre 5
-= ze og gh £ SSR8zoR Pp edoes
-8 22583 + Sarees ewes
-= BS8oe5R8 = &Sagpee7 ga
-5 eearses 2 Sere ES SERS
-3 a BgS8:<2 ES325
-B = ane Boao Fre
-a sea zeae 5 PEF aguas 85788
-a gaa sge & Sesoua SeES
-3 BaSaige 8 geehb8 Sh258
-3 BeRagee: & gRSG7E BEzSs
-i geebaFe 2 EB fg8bek 28583
-= Pogo Re F BUSA, S25 Sa
-2 siages g 2 BeEROR s FR e
-& 533 2 oe z
-g gepeeeg g 2 gesfe2 25aee
-g gchhhe a F Bgbke RREsg
-A Pagers * & Seegee sha88
-a s p> = 6 A bs
-8 ReRR Sys g aFRBES RPB aL
-g Epa Sees egeeee et hes
-3 ca geber BESEER gages
-2 AGES Tebaes SeRae
-= Ba a ae
-3 og 2838s gess03 23958
-z Rage a8 bates Seiya
-z Se gaee Sbases E878
-= Bee TERS tereae geees
-Set Zaas re 8388
-g a ee geste: EAGER
-= 3s Seas 835
-3 eres ganpe gr2e8
-§ $a 5358 S2s88% Braet
-3 sR Pas SEG>58 FATS
-3 R2gg8 = Qeescte BoB
-z a ae PPRBFee BR2ESE
-f Saag nea Bes
-seates aghek 8
-Psac5S Esso 8
-6 832853 “8553 8
-aloe wal gis <9 z ol ene en
-} als esas T3ae pee 5 9° Sege28Se2 2 > g
-ze? | 35. aRee 23 © @ pfg2tacg 2 2 @
-ee peas Ge2% SB ge B Snneéz0 a 5 8
-aida FE ee 28 rw B ap Ggti oy 2
-fi | E8gnE goes? 2ERE fF ahs B2 2 “28is%328 27 3
-2 28S 25 BEES z52 Bre $§ @ ERoS eae Bo 8B
-5 BoeoR F22eF See & FRB >e °o szB eg g =
-g 8 gREG2 AQSES Febss & igs 22 8 SePgeee F385
-ao =e i g os 3 Z
-z6 givga Sgh® oseie 8 gree ne SegckeGe sk 2
-a5 ge BE q g aS Ses Fi
-aS gi28 9875 GeSge 2 5458 ze SEtesSeze ch 8
-bf | se258 E288 Siete f ge8e gS gagioage 2, §
-Bo Bis FAP oe 3 bare | oF GRR ox 3
-28 Rabet Logi e223 & igh: 33 peedassa 28
-ae 8,555 33Es BS95 5 FR 8 23327 oF
-BS S58 as S855 Satan 8 ° Be Bes Ea0 £
-2 3 bo28R 8 taB BT 238 a2 pag keges &
-R= eves Beas B2eS a8 <5. 5 BSSs £8
-Be ag°g Fees a eke =e RFAZEREES F
-26 E233 gags me bs 558 sf zesg,e8ea7 2
-pad Sa ls5 2§ BSR Seg: 4 Ea Bese2088 88
-ES FBO SE Fe5¢ zBee e282 & R 283 88
-. FA eee tie RECS aa8e 320.0 ES oSp 3
-i $i353 3223 g28% zag 8 SSEaSEar 3s
-z Boke 2 3 ES 5 3 3 23 2
-a!ood: 22522 2622 bes eae 8 g G582e7% a2
-3 BQes eS ea oR 33 £ &
-z eeket 2222 Beis eae.c" z gaskzoka ge
-EH Bie ae 22925 S343 222 e RQRE2 O88 08
-& Beets E898 Foie Bas & gEe2Qgsa gf
-8 g88 8 Fess IES ge Fy BRR GRR B
-2 28-708 <8 95 Tee EF g eS haste &
-2 Rge82 BRET ees 2Go z gosh as §
-3 gioee FaSF. Sek? 258 z giceGse® &
-2 Gaesg BEPC FRee ee g oreeegee &
-3 eR >5 oe85 35 ae Fo 2 FEEEP Sas 8
-s Seegh 2223 sage as s aRPSsheS > g
-g g2a3 F253 Frus Pes B g2hase os :
-a ge a. On R B abee Bag cs Begsse2. 8 F &
-& Shee SBue fabs aos ° re Pe : 3
-B ae88 BER e Rega Ae 5 30238658 y 3
-e853 S82 ohaS = 2 Ses a & :
-$828 g492 Fee- 298 BSeSah8se F 3
-5a oP sé SBF RZe 3 eraree rs Ca =
-goo fEoe ESE E Seeedaes E
-tone odga: B25 H seeeese | i
-529 88288 aie a B2asedha 9 z
---- page 16 ---
-a
-g
-SEeE zu
-Sara D>
-Bag a
-rs
-Fas
-Ee?
-gE 2
-SEUSS
-ZaBS
-Bga8
-ze 2
-go2F
-8220
-BaP
-Boa F
-4
-agey
-Bees
-g255
-Bpak
-. Bye:
-8e6u
-Qaar
-° ate
-gee 5B > ee
-28 BSBZRER 2 ay
-a3 0 a g278 BEERS E 3 Bdg-2
-Re8hu ve o3g 2 F2E Ses 9 2288
-aad Se a8 se wee Roo = oD 5ogs
-a$5a5 82 Sag SgSGFGer F 2 aeeo
-eS, oe < $500 Saabs = 3 UB EI
-Gees Bas BFeEsS Ssa52gak 8 cared
-BREE 87s Vaage Fee R= 2g = ae pe
-BRS ge pegs Agee 2 22 ay gageaes
-sisey 26 zee 2355055 & $3sas
-Rige 3 ao@e 8 R2bbes & Fa S55
-sfsie 9% gaak f 2eh28e 3 ered
-3 B 8 greg ees =
-apegs Be GBeE pcpeEEc2 2 G3ER
-BS zZaS 33 goes Es RSE 3 Sag
-Boe ges Zoo 8 88 3 Ea
-3 FE 3823 8 B25E5 3 a hE
-Esse 3 oe S32 ZeEzog ia 3 eRe
-Bas 3 Rezeog age
-‘Fise 83 3888 BeREg eae tzik
-a5 5 Beek ZEESEGSe Soe
-See 38 Beas 33 SFaa 8 Zoe
-gest 52.2283 Bq tShez3 RRR
-2g 8 a] 2282 SES ee 823 Fag
-BS 2°? 5. B2eF BRE Es as 8 265
-eee 3 Sele Beg 88S x § 2
-a ae. Eee
-gree ak are oes Oe eg8
-are Bs geek ay Fosse
-ad o & Bp 3 gag
-Bea 52 3Bso & gaea Fs g
-teg2 58 eg$e 8 eRGks 5
-s g oa > a
-geeeg 3 BEES eigaees PERS
-sage 88 Seas BsiL FER §283
-a bed 2 o f Oo
-A] e2 2 Fal eo 223s a3 5583
-EUoe 5° eaa8 EB eae v3
-BRB Fae Se2bags Be
->Fa8 BE ERS ag age a SEB sz
-2 Bese 288 Eoess
-sein 8 BETS se 5
-ghae 2 aeLS SEREPEs
-eo 38 a ad
-ugxe 28
-EeRB
-Fae
-3344
 ````

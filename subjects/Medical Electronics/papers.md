@@ -216,6 +216,7 @@ Q 7: What is MRI? Draw the diagram of an MRI unit and explain. .............2--:
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_08/MEDICAL ELECTRONICS/MEDICAL ELECTRONICS B TECH (ELECTRONICS), 2013-14 FINAL EXAM.pdf`
 - Printed on paper: exam date: 13/05/2014
 - Text: ocr (1 page), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -255,7 +256,6 @@ Q2b) Draw the standard ECG waveform and explain we
 Q3: Explain the different methods of blood pressure measurement. (20)
 
 4b) Explain the 10:20 method of electrode placement and connections of electrodes
-TONG CEG! ail RC Pov cesecseees cessreersorsacesreorn natsienec reer
 Q5: What is PET scan? Describe the instrumentation system used for PET scan. What
 
 Q4:a) Classify different waves from different parts of the brain

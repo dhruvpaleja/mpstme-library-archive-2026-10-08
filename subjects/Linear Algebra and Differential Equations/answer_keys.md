@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_AIDS_7056/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf` (+9 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.7
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -107,7 +109,6 @@ Test®%,4) =' + CStmyr)
 Matin aygociaded wit, +
 > FotT.
 Tree) = 1,3) x
-Reng Gag tris Ti ey tay
 Cte: CoN): aS
 > ‘Fer ss
 
@@ -180,8 +181,6 @@ where A =  − 1 3   0  .
 Moderate     0 − 2 1  
 ********** 7 **********
 --- page 8 ---
-Verity Caylty- Hams low Hotin FOLWI ti x
-A od hom bi nd At uum A= fs 3 o]
 «-
 
 o
@@ -339,7 +338,6 @@ CO-3: Ss gee = ae) a= Ce
 SO-1; a v bas l = — 6
 BL-High ela tyr42n) dm hee Ge @ [6]
 
-Peet M, = Put a os in) aed Meee
 
 i. BB! pra =
 Jo bn. ¥ i [ Teams of Ny wot londsinirg o)y-€
@@ -366,11 +364,9 @@ BL-High   i) u = x 3 + 3 xt 2   ii) u = cos( ct )  sin( x ) .
 --- page 14 ---
 S solr.
 
-lave eg” © ae f= e Qa oe
 as =
 ) us fe ee
 ve 3 et
-“us Bx + Bt 4 os €xt —
 Sx “St
 Du = 6x Bu. ex ——O
 er SEL
@@ -411,7 +407,6 @@ A=(- 2-3
 =i -2- 0
 > Te fad igen values of A
 
-Consider choract ewieHic¢ eq potion
 
 lA-AD|= © ;
 % Groce of A) + Gentes + Mae) >
@@ -524,7 +519,6 @@ a Gels lex and   @ y CPA) Y _
 ml
 i Aegx zx rey and hog y= -3hY/, +
 t baa a ta =2hy/a +e,
-gi. POS Be BS ae =a
 a : = 3k
 Hence U Cm y= ore e z 2 ax
 ' = k
@@ -554,6 +548,8 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_AIML_7053/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -652,7 +648,6 @@ Test®%,4) =' + CStmyr)
 Matin aygociaded wit, +
 > FotT.
 Tree) = 1,3) x
-Reng Gag tris Ti ey tay
 Cte: CoN): aS
 > ‘Fer ss
 
@@ -725,8 +720,6 @@ where A =  − 1 3   0  .
 Moderate     0 − 2 1  
 ********** 7 **********
 --- page 8 ---
-Verity Caylty- Hams low Hotin FOLWI ti x
-A od hom bi nd At uum A= fs 3 o]
 «-
 
 o
@@ -884,7 +877,6 @@ CO-3: Ss gee = ae) a= Ce
 SO-1; a v bas l = — 6
 BL-High ela tyr42n) dm hee Ge @ [6]
 
-Peet M, = Put a os in) aed Meee
 
 i. BB! pra =
 Jo bn. ¥ i [ Teams of Ny wot londsinirg o)y-€
@@ -911,11 +903,9 @@ BL-High   i) u = x 3 + 3 xt 2   ii) u = cos( ct )  sin( x ) .
 --- page 14 ---
 S solr.
 
-lave eg” © ae f= e Qa oe
 as =
 ) us fe ee
 ve 3 et
-“us Bx + Bt 4 os €xt —
 Sx “St
 Du = 6x Bu. ex ——O
 er SEL
@@ -957,7 +947,6 @@ ah 2 q
 
 + To fad eigen values of A
 
-Consider chesact emetic s -eqpotion
 jA-AZI|= ©
 
 = Geazeet Mr =e Qin +422 +a) >—) Al =0
@@ -1060,7 +1049,6 @@ a Gels lex and   @ y CPA) Y _
 ml
 i Aegx zx rey and hog y= -3hY/, +
 t baa a ta =2hy/a +e,
-gi. POS Be BS ae =a
 a : = 3k
 Hence U Cm y= ore e z 2 ax
 ' = k
@@ -1090,6 +1078,8 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_CSBS_7036/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1188,7 +1178,6 @@ Test®%,4) =' + CStmyr)
 Matin aygociaded wit, +
 > FotT.
 Tree) = 1,3) x
-Reng Gag tris Ti ey tay
 Cte: CoN): aS
 > ‘Fer ss
 
@@ -1261,8 +1250,6 @@ where A =  − 1 3   0  .
 Moderate     0 − 2 1  
 ********** 7 **********
 --- page 8 ---
-Verity Caylty- Hams low Hotin FOLWI ti x
-A od hom bi nd At uum A= fs 3 o]
 «-
 
 o
@@ -1420,7 +1407,6 @@ CO-3: Ss gee = ae) a= Ce
 SO-1; a v bas l = — 6
 BL-High ela tyr42n) dm hee Ge @ [6]
 
-Peet M, = Put a os in) aed Meee
 
 i. BB! pra =
 Jo bn. ¥ i [ Teams of Ny wot londsinirg o)y-€
@@ -1447,11 +1433,9 @@ BL-High   i) u = x 3 + 3 xt 2   ii) u = cos( ct )  sin( x ) .
 --- page 14 ---
 S solr.
 
-lave eg” © ae f= e Qa oe
 as =
 ) us fe ee
 ve 3 et
-“us Bx + Bt 4 os €xt —
 Sx “St
 Du = 6x Bu. ex ——O
 er SEL
@@ -1493,7 +1477,6 @@ ah 2 q
 
 + To fad eigen values of A
 
-Consider chesact emetic s -eqpotion
 jA-AZI|= ©
 
 = Geazeet Mr =e Qin +422 +a) >—) Al =0
@@ -1596,7 +1579,6 @@ a Gels lex and   @ y CPA) Y _
 ml
 i Aegx zx rey and hog y= -3hY/, +
 t baa a ta =2hy/a +e,
-gi. POS Be BS ae =a
 a : = 3k
 Hence U Cm y= ore e z 2 ax
 ' = k
@@ -1626,6 +1608,8 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_EXTC_7006/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1724,7 +1708,6 @@ Test®%,4) =' + CStmyr)
 Matin aygociaded wit, +
 > FotT.
 Tree) = 1,3) x
-Reng Gag tris Ti ey tay
 Cte: CoN): aS
 > ‘Fer ss
 
@@ -1797,8 +1780,6 @@ where A =  − 1 3   0  .
 Moderate     0 − 2 1  
 ********** 7 **********
 --- page 8 ---
-Verity Caylty- Hams low Hotin FOLWI ti x
-A od hom bi nd At uum A= fs 3 o]
 «-
 
 o
@@ -1956,7 +1937,6 @@ CO-3: Ss gee = ae) a= Ce
 SO-1; a v bas l = — 6
 BL-High ela tyr42n) dm hee Ge @ [6]
 
-Peet M, = Put a os in) aed Meee
 
 i. BB! pra =
 Jo bn. ¥ i [ Teams of Ny wot londsinirg o)y-€
@@ -1983,11 +1963,9 @@ BL-High   i) u = x 3 + 3 xt 2   ii) u = cos( ct )  sin( x ) .
 --- page 14 ---
 S solr.
 
-lave eg” © ae f= e Qa oe
 as =
 ) us fe ee
 ve 3 et
-“us Bx + Bt 4 os €xt —
 Sx “St
 Du = 6x Bu. ex ——O
 er SEL
@@ -2029,7 +2007,6 @@ ah 2 q
 
 + To fad eigen values of A
 
-Consider chesact emetic s -eqpotion
 jA-AZI|= ©
 
 = Geazeet Mr =e Qin +422 +a) >—) Al =0
@@ -2132,7 +2109,6 @@ a Gels lex and   @ y CPA) Y _
 ml
 i Aegx zx rey and hog y= -3hY/, +
 t baa a ta =2hy/a +e,
-gi. POS Be BS ae =a
 a : = 3k
 Hence U Cm y= ore e z 2 ax
 ' = k
@@ -2162,6 +2138,8 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_Mechatronics_7004/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2260,7 +2238,6 @@ Test®%,4) =' + CStmyr)
 Matin aygociaded wit, +
 > FotT.
 Tree) = 1,3) x
-Reng Gag tris Ti ey tay
 Cte: CoN): aS
 > ‘Fer ss
 
@@ -2333,8 +2310,6 @@ where A =  − 1 3   0  .
 Moderate     0 − 2 1  
 ********** 7 **********
 --- page 8 ---
-Verity Caylty- Hams low Hotin FOLWI ti x
-A od hom bi nd At uum A= fs 3 o]
 «-
 
 o
@@ -2492,7 +2467,6 @@ CO-3: Ss gee = ae) a= Ce
 SO-1; a v bas l = — 6
 BL-High ela tyr42n) dm hee Ge @ [6]
 
-Peet M, = Put a os in) aed Meee
 
 i. BB! pra =
 Jo bn. ¥ i [ Teams of Ny wot londsinirg o)y-€
@@ -2519,11 +2493,9 @@ BL-High   i) u = x 3 + 3 xt 2   ii) u = cos( ct )  sin( x ) .
 --- page 14 ---
 S solr.
 
-lave eg” © ae f= e Qa oe
 as =
 ) us fe ee
 ve 3 et
-“us Bx + Bt 4 os €xt —
 Sx “St
 Du = 6x Bu. ex ——O
 er SEL
@@ -2565,7 +2537,6 @@ ah 2 q
 
 + To fad eigen values of A
 
-Consider chesact emetic s -eqpotion
 jA-AZI|= ©
 
 = Geazeet Mr =e Qin +422 +a) >—) Al =0
@@ -2668,7 +2639,6 @@ a Gels lex and   @ y CPA) Y _
 ml
 i Aegx zx rey and hog y= -3hY/, +
 t baa a ta =2hy/a +e,
-gi. POS Be BS ae =a
 a : = 3k
 Hence U Cm y= ore e z 2 ax
 ' = k
@@ -2698,6 +2668,8 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MBATech_AI_7051/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2796,7 +2768,6 @@ Test®%,4) =' + CStmyr)
 Matin aygociaded wit, +
 > FotT.
 Tree) = 1,3) x
-Reng Gag tris Ti ey tay
 Cte: CoN): aS
 > ‘Fer ss
 
@@ -2869,8 +2840,6 @@ where A =  − 1 3   0  .
 Moderate     0 − 2 1  
 ********** 7 **********
 --- page 8 ---
-Verity Caylty- Hams low Hotin FOLWI ti x
-A od hom bi nd At uum A= fs 3 o]
 «-
 
 o
@@ -3028,7 +2997,6 @@ CO-3: Ss gee = ae) a= Ce
 SO-1; a v bas l = — 6
 BL-High ela tyr42n) dm hee Ge @ [6]
 
-Peet M, = Put a os in) aed Meee
 
 i. BB! pra =
 Jo bn. ¥ i [ Teams of Ny wot londsinirg o)y-€
@@ -3055,11 +3023,9 @@ BL-High   i) u = x 3 + 3 xt 2   ii) u = cos( ct )  sin( x ) .
 --- page 14 ---
 S solr.
 
-lave eg” © ae f= e Qa oe
 as =
 ) us fe ee
 ve 3 et
-“us Bx + Bt 4 os €xt —
 Sx “St
 Du = 6x Bu. ex ——O
 er SEL
@@ -3101,7 +3067,6 @@ ah 2 q
 
 + To fad eigen values of A
 
-Consider chesact emetic s -eqpotion
 jA-AZI|= ©
 
 = Geazeet Mr =e Qin +422 +a) >—) Al =0
@@ -3204,7 +3169,6 @@ a Gels lex and   @ y CPA) Y _
 ml
 i Aegx zx rey and hog y= -3hY/, +
 t baa a ta =2hy/a +e,
-gi. POS Be BS ae =a
 a : = 3k
 Hence U Cm y= ore e z 2 ax
 ' = k
@@ -3234,6 +3198,8 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026_e30cfaf3c1.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3332,7 +3298,6 @@ Test®%,4) =' + CStmyr)
 Matin aygociaded wit, +
 > FotT.
 Tree) = 1,3) x
-Reng Gag tris Ti ey tay
 Cte: CoN): aS
 > ‘Fer ss
 
@@ -3405,8 +3370,6 @@ where A =  − 1 3   0  .
 Moderate     0 − 2 1  
 ********** 7 **********
 --- page 8 ---
-Verity Caylty- Hams low Hotin FOLWI ti x
-A od hom bi nd At uum A= fs 3 o]
 «-
 
 o
@@ -3564,7 +3527,6 @@ CO-3: Ss gee = ae) a= Ce
 SO-1; a v bas l = — 6
 BL-High ela tyr42n) dm hee Ge @ [6]
 
-Peet M, = Put a os in) aed Meee
 
 i. BB! pra =
 Jo bn. ¥ i [ Teams of Ny wot londsinirg o)y-€
@@ -3591,11 +3553,9 @@ BL-High   i) u = x 3 + 3 xt 2   ii) u = cos( ct )  sin( x ) .
 --- page 14 ---
 S solr.
 
-lave eg” © ae f= e Qa oe
 as =
 ) us fe ee
 ve 3 et
-“us Bx + Bt 4 os €xt —
 Sx “St
 Du = 6x Bu. ex ——O
 er SEL
@@ -3637,7 +3597,6 @@ ah 2 q
 
 + To fad eigen values of A
 
-Consider chesact emetic s -eqpotion
 jA-AZI|= ©
 
 = Geazeet Mr =e Qin +422 +a) >—) Al =0
@@ -3740,7 +3699,6 @@ a Gels lex and   @ y CPA) Y _
 ml
 i Aegx zx rey and hog y= -3hY/, +
 t baa a ta =2hy/a +e,
-gi. POS Be BS ae =a
 a : = 3k
 Hence U Cm y= ore e z 2 ax
 ' = k
@@ -3770,6 +3728,8 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MBATech_DS_7052/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3868,7 +3828,6 @@ Test®%,4) =' + CStmyr)
 Matin aygociaded wit, +
 > FotT.
 Tree) = 1,3) x
-Reng Gag tris Ti ey tay
 Cte: CoN): aS
 > ‘Fer ss
 
@@ -3941,8 +3900,6 @@ where A =  − 1 3   0  .
 Moderate     0 − 2 1  
 ********** 7 **********
 --- page 8 ---
-Verity Caylty- Hams low Hotin FOLWI ti x
-A od hom bi nd At uum A= fs 3 o]
 «-
 
 o
@@ -4100,7 +4057,6 @@ CO-3: Ss gee = ae) a= Ce
 SO-1; a v bas l = — 6
 BL-High ela tyr42n) dm hee Ge @ [6]
 
-Peet M, = Put a os in) aed Meee
 
 i. BB! pra =
 Jo bn. ¥ i [ Teams of Ny wot londsinirg o)y-€
@@ -4127,11 +4083,9 @@ BL-High   i) u = x 3 + 3 xt 2   ii) u = cos( ct )  sin( x ) .
 --- page 14 ---
 S solr.
 
-lave eg” © ae f= e Qa oe
 as =
 ) us fe ee
 ve 3 et
-“us Bx + Bt 4 os €xt —
 Sx “St
 Du = 6x Bu. ex ——O
 er SEL
@@ -4173,7 +4127,6 @@ ah 2 q
 
 + To fad eigen values of A
 
-Consider chesact emetic s -eqpotion
 jA-AZI|= ©
 
 = Geazeet Mr =e Qin +422 +a) >—) Al =0
@@ -4276,7 +4229,6 @@ a Gels lex and   @ y CPA) Y _
 ml
 i Aegx zx rey and hog y= -3hY/, +
 t baa a ta =2hy/a +e,
-gi. POS Be BS ae =a
 a : = 3k
 Hence U Cm y= ore e z 2 ax
 ' = k
@@ -4306,6 +4258,8 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/Integrated_Computer_7032/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
 - Text: mixed (19 pages), mean OCR confidence 49.1
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4403,7 +4357,6 @@ Byway te
 
 Pe ag ten!
 
-RAR GR A GR ok a dk ok
 --- page 4 ---
 Q2 (a) 2 27
 CO-2; $O-1; A- F u
@@ -4521,7 +4474,6 @@ _
 
 CO-1; SO-1; | (c)
 
-BL- a check lec havea independ euce -
 Moderate
 f\ - 1 2
 Ripe fe
@@ -4612,7 +4564,6 @@ RK KKK RK KK 11 2h KKK RK Kk KK
 
 ! 3 Ze [3 (:
 ee ee, |. o |
-| As A) My a : ee (ev
 A ® =0 C Hom: sate)
 
 Aw (es -
@@ -4658,7 +4609,6 @@ AN oa
 
 TE et aa ve HY
 Multiply qivem DE with TF
-(6x4 arty lac yas (xte 3x! ypydy=o
 The above eam 15 Evackh + —(D
 Sclubion 15 given by
 
@@ -4760,10 +4710,8 @@ PEP ee 2 = Cv
 CO-5; SO-2; Bee )
 BL- : c r = x
 Moderate ae 5 “ => e# “JoXIo)_@ I6]
-Monee EE D> EF Hy) — ly) -D
 Shing (3) PB —= 7 fan
 e-é- lq). ov
-a Si bn ols et Pu 4
 + _—
 res ee fi —tov
 (a) 7
@@ -4813,7 +4761,6 @@ Moderate iy upv EW ——fe 1)
 
 —>=
 
-lt kER- cu = (ku, ky, ba)
 
 adku) + b ky) t c(i)
 = b fan + byt «3, )
@@ -4854,7 +4801,6 @@ ax! .s - 22. —@ (00
 x
 !
 CO-5; SO-1; ; 1 2-27 2 k-Cceonstant
-BL- High au pombe 4{ a ile onetent ) I
 , = aik® ep
 Bink. 1S
 |
@@ -4887,6 +4833,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/Integrated_DS_7038/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
 - Text: mixed (19 pages), mean OCR confidence 49.1
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4984,7 +4932,6 @@ Byway te
 
 Pe ag ten!
 
-RAR GR A GR ok a dk ok
 --- page 4 ---
 Q2 (a) 2 27
 CO-2; $O-1; A- F u
@@ -5102,7 +5049,6 @@ _
 
 CO-1; SO-1; | (c)
 
-BL- a check lec havea independ euce -
 Moderate
 f\ - 1 2
 Ripe fe
@@ -5193,7 +5139,6 @@ RK KKK RK KK 11 2h KKK RK Kk KK
 
 ! 3 Ze [3 (:
 ee ee, |. o |
-| As A) My a : ee (ev
 A ® =0 C Hom: sate)
 
 Aw (es -
@@ -5239,7 +5184,6 @@ AN oa
 
 TE et aa ve HY
 Multiply qivem DE with TF
-(6x4 arty lac yas (xte 3x! ypydy=o
 The above eam 15 Evackh + —(D
 Sclubion 15 given by
 
@@ -5341,10 +5285,8 @@ PEP ee 2 = Cv
 CO-5; SO-2; Bee )
 BL- : c r = x
 Moderate ae 5 “ => e# “JoXIo)_@ I6]
-Monee EE D> EF Hy) — ly) -D
 Shing (3) PB —= 7 fan
 e-é- lq). ov
-a Si bn ols et Pu 4
 + _—
 res ee fi —tov
 (a) 7
@@ -5394,7 +5336,6 @@ Moderate iy upv EW ——fe 1)
 
 —>=
 
-lt kER- cu = (ku, ky, ba)
 
 adku) + b ky) t c(i)
 = b fan + byt «3, )
@@ -5435,7 +5376,6 @@ ax! .s - 22. —@ (00
 x
 !
 CO-5; SO-1; ; 1 2-27 2 k-Cceonstant
-BL- High au pombe 4{ a ile onetent ) I
 , = aik® ep
 Bink. 1S
 |
@@ -5468,6 +5408,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/Integrated_IT_7037/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
 - Text: mixed (19 pages), mean OCR confidence 49.1
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5565,7 +5507,6 @@ Byway te
 
 Pe ag ten!
 
-RAR GR A GR ok a dk ok
 --- page 4 ---
 Q2 (a) 2 27
 CO-2; $O-1; A- F u
@@ -5683,7 +5624,6 @@ _
 
 CO-1; SO-1; | (c)
 
-BL- a check lec havea independ euce -
 Moderate
 f\ - 1 2
 Ripe fe
@@ -5774,7 +5714,6 @@ RK KKK RK KK 11 2h KKK RK Kk KK
 
 ! 3 Ze [3 (:
 ee ee, |. o |
-| As A) My a : ee (ev
 A ® =0 C Hom: sate)
 
 Aw (es -
@@ -5820,7 +5759,6 @@ AN oa
 
 TE et aa ve HY
 Multiply qivem DE with TF
-(6x4 arty lac yas (xte 3x! ypydy=o
 The above eam 15 Evackh + —(D
 Sclubion 15 given by
 
@@ -5922,10 +5860,8 @@ PEP ee 2 = Cv
 CO-5; SO-2; Bee )
 BL- : c r = x
 Moderate ae 5 “ => e# “JoXIo)_@ I6]
-Monee EE D> EF Hy) — ly) -D
 Shing (3) PB —= 7 fan
 e-é- lq). ov
-a Si bn ols et Pu 4
 + _—
 res ee fi —tov
 (a) 7
@@ -5975,7 +5911,6 @@ Moderate iy upv EW ——fe 1)
 
 —>=
 
-lt kER- cu = (ku, ky, ba)
 
 adku) + b ky) t c(i)
 = b fan + byt «3, )
@@ -6016,7 +5951,6 @@ ax! .s - 22. —@ (00
 x
 !
 CO-5; SO-1; ; 1 2-27 2 k-Cceonstant
-BL- High au pombe 4{ a ile onetent ) I
 , = aik® ep
 Bink. 1S
 |
@@ -6049,6 +5983,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/Integrated_Mechanical_7031/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
 - Text: mixed (19 pages), mean OCR confidence 49.1
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6146,7 +6082,6 @@ Byway te
 
 Pe ag ten!
 
-RAR GR A GR ok a dk ok
 --- page 4 ---
 Q2 (a) 2 27
 CO-2; $O-1; A- F u
@@ -6264,7 +6199,6 @@ _
 
 CO-1; SO-1; | (c)
 
-BL- a check lec havea independ euce -
 Moderate
 f\ - 1 2
 Ripe fe
@@ -6355,7 +6289,6 @@ RK KKK RK KK 11 2h KKK RK Kk KK
 
 ! 3 Ze [3 (:
 ee ee, |. o |
-| As A) My a : ee (ev
 A ® =0 C Hom: sate)
 
 Aw (es -
@@ -6401,7 +6334,6 @@ AN oa
 
 TE et aa ve HY
 Multiply qivem DE with TF
-(6x4 arty lac yas (xte 3x! ypydy=o
 The above eam 15 Evackh + —(D
 Sclubion 15 given by
 
@@ -6503,10 +6435,8 @@ PEP ee 2 = Cv
 CO-5; SO-2; Bee )
 BL- : c r = x
 Moderate ae 5 “ => e# “JoXIo)_@ I6]
-Monee EE D> EF Hy) — ly) -D
 Shing (3) PB —= 7 fan
 e-é- lq). ov
-a Si bn ols et Pu 4
 + _—
 res ee fi —tov
 (a) 7
@@ -6556,7 +6486,6 @@ Moderate iy upv EW ——fe 1)
 
 —>=
 
-lt kER- cu = (ku, ky, ba)
 
 adku) + b ky) t c(i)
 = b fan + byt «3, )
@@ -6597,7 +6526,6 @@ ax! .s - 22. —@ (00
 x
 !
 CO-5; SO-1; ; 1 2-27 2 k-Cceonstant
-BL- High au pombe 4{ a ile onetent ) I
 , = aik® ep
 Bink. 1S
 |
@@ -6623,6 +6551,4134 @@ i
 FRR ICR 7 QI OR
 ````
 
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper c9515fc111d4
+
+- Departments: AI and Machine Learning
+- Programmes: BTech AIML 7053
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_AIML_7053/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
+- Text: mixed (24 pages), mean OCR confidence 44.3
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 24 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+********** 1 **********
+--- page 2 ---
+BTech /MBA Tech CAN Stream)
+
+es) Sem Tr — LADE
+ayLet A- Wie -14
+
+2 ee 4
+
+' 2 3 4
+
+-1 -2 6
+
+To Reduce qo $ow- echelon fo3m
+Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
+
+t 2 -\4
+
+Oo oO Y5\-4
+
+0 D2 40
+0 oO 5-3
+
+Ra>Rs ~ ER } Ra, > Ran Ra
+
+~~
+~
+
+—_—— £1)
+
+|
+= ‘2 -\4
+0 Oo Ss -§
+0 0 0 Ms
+oo 0 VJ
+Rs >Pax S16, Ry > Run Ps
+= \ 29 -\ 4
+o Oo Sct gn
+0 oOo °° \
+© O oO O |
+
+e(A) => ane)
+
+FIC 2 I HH ar
+--- page 3 ---
+c=(1)1) ‘ p=(% 0)
+many
+(00?
+( yA | BCI?)
+00
+a) Tl) = Cx, 24) |
+T(00) = (0,0)=A ; TCt,e Os 8
+Tih= (Dee + 0,2 ©) =
+sO)
+_—(2)
+coi)” C
+coo ® (119)
+
+Square teanktoams bo
+
+TAL tomole amd
+
+2/24
+
+AR RK 3 RK
+--- page 4 ---
+c)
+
+aiven
+
+x+
+=C
+DIFF aed ix!
+\+ a2dy = |
+Ax =e
+
+dy 2
+ax OE
+Fo 0) j
+Ay Zk
+ab
+On colving-
+oy = oa dx
+gdy= 2 S4*
+
+Ya 270 +c
+
+ox yre = 0
+
+—t!)
+--- page 5 ---
+a)
+
+Given io» "Chapa J =O
+Let £Cp)= (p-2) (x21 =O
+Consider auxi\lay 247
+Cm 2) CaP ares) = © _
+M=2;2,% | me(itt) (peice) —O
+
+Yee CF = (E+ Crp ese e+
+
+———(!
+
+E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
+--- page 6 ---
+é) GiNen L= xy - FAY)
+
+tet og =
+. Ze way - $L4)
+
+DK weet ‘9! paotally
+Oz = |-O -£u)-y
+
+- OF
+P= Oy
+
+piff wot ‘gy partially
+g2 BE = O-|- #(u)-x
+— ©O
+1
+p-1 =-f'Cuy
+q+\ = —-#CW)*
+
+-\ 5 x+\
+
+LCP) = you
+
+—O
+--- page 7 ---
+Ginen
+Axe O
+Az } 2 2
+2 3 \f-
+ag s4
+ee ie
+
+\ Ww 3
+
+o -\ ~s
+
+o -3 ~&
+_| a
+
+FR RK
+
+FR CK
+
+—O)
+--- page 8 ---
+
+td. basic of K ae:
+eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
+
+Cpe, 2) = G, °) 3)
+Tle,40) = (0,1, - __— @
+(0, 0,1) = C-2,0, © '
+
+Mat x arsotatad with T
+
+My, =+=/(% O -2
+D0 \ 6 _—
+> Gq ©O
+
+\M\= 6 £0 —A
+oT fs tnvertiable |
+
+T Curse = (x yz) ___—_(2)
+Cay, = (uw .
+
+On , Solving
+--- page 9 ---
+oO 4a )y 2 Seco)
+
+m,,M2 = Oso
++ C2SiINQ 4
+
+Pe cinax ——_)
+
+an *
+Lon qr= Cos ,
+
+Let PI = bYtVyr —
+We] Yt val Cos ak — SINAK
+[4 gi \F festron ae
+
+= QO
+1 _lea(cosax) ———O
+ar
+
+_
+
+_
+
+wana ©
+os Jape oe -
+
+og Ccesax) + 4 enor = 0
+
+_ ax |
+
+es = Ch + PL
+
+= cocant SING + _O
+5 Nar
+
+1 Cosa [gCasan) +1
+ae
+
+Q/>4
+
+FIC QF OH ar
+--- page 10 ---
+6a Wa? Cuyd ef. [ox —y+3% sof .
+” pet Us CDE) ay 4 Foz=0 { 9
+ao
+
+—Ua4+-3Z0=
+Y= Cay, zee, 22-3
+
+Jo prove ——)
+au+ bY Ew
+Contidev ab (%, y, |Z2)
+= CeiY, 7!
+ausrbye = 40"! a+b) —O)
+
+an +be, ay ry.)
+
+_
+_
+
+Now, .
+» Carr +b) — Gyrbys) + 3Can O%
+
+0
+= a Cex) 437, .) + b (2x2-Yst 322)
+ra) &: form oO _—{()
+
+autrbs €W -
+
+- W ¥s Subspace. . _ 4
+
+DR ROR RK 10 FRR KRHA
+--- page 11 ---
+A= 2 Oo —-\
+O 2 (0)
+-| Oo 2
+
+Consider chy ©,
+la~ At) = O
+XM —EN+4NA- 6 =O
+o_o —O
+
+—
+
+A- ON +NVA- OCT =
+To vew Fy cH +heovem
+
+
+= (g) oO oO
+Oo eo 0 —@®
+oO oO
+
+To Fmd A 4
+Poe multiply ea O va A
+
+N—-GA+TIND -6Kk' =
+“Ns fe o Ys ——
+oe) Vo oO
+V2, e) >a
+At GArF+ WAX —ECR= O
+o Ata Ale 6 -4
+O 16 Oo
+“to 9 a 24
+1
+
+To fad wt , mul ply eq © by A
+
+1
+--- page 12 ---
+?
+
+let the Solutron he
+2 aa
+y- Eo
+
+Ad
+1 = S Ok. koe
+el _
+y" _ a (erm Kk) x
+\jer2
+
+{| a
+Q,=>0 > Qs a
+Que OW = EO
+
+A= O
+2. | naa 7 os
+
++ Ox— 14
+Oo ce 1g {20
+
+\2/ 2a
+
+FRR ICR] DA KH
+
+e+ atts:
+--- page 13 ---
+€APY — pCp-1) Co-2)
+aad
+
+“HO a
+ad CF
+Te od GF ouxillasg 25,
+kCp= D+2D —2D= O
+
+--|iVN3 ; D=°
+B= —! C-teNG) 2
+
+(-1 “D2
+
+~W =z A+ Ge +G€
+
+To Find 4
+qez PLl= za [a D'+2D 5-2)
+7 =[ D4 nD Paagoel
+
+FR RK
+
+FR CK
+
+_—O®
+
+—®D
+
+oO
+--- page 14 ---
+b) an |
+{ 2 6
+~ Oo 2
+
+Conside, chor eq, JAA] =0
+XEN + 8A= 0
+=x r= Oo, 2, 4
+Eigen walues ave 0,24"
+To Pood eigen vectors
+fos X= O
+(A- XT)A=O
+A X= O
+Fos a
+(A aK
+=| 9
+2
+|
+
+X = 2
+—\
+}
+--- page 15 ---
+© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
+Consider AUr+ Ce Ur + Cau, = ©
+A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
+20,+ 2O.+ 2a, = 0
+
+—a, + 6 Os + 10d =O
+Hd, +202 + C)ds = ©
+
+-)]2 1c) =
+[D)= | ¢ iol = 12 FO-
+
+q 2 +
+
+ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
+
+Consider
+CyB + Co Ue + C21 = oO
+
+e601 ,3,3) tea COrl +476 D074 0)
+
+C+ 0C2 $503 = O
+BC, + C2 TOS =O
+
+acy +402 +303 = ©
+S
+- \ 12)
+Ip |z _ 6 |= o4d£o-
+3 4 3
+
+-. Uy, We Vo OL Wineocs}y independ ent .
+
+/ 24
+
+FRR IC 7 DA HOH
+--- page 16 ---
+pat d=
+
+(6% — apreng=e
+
+Consider cur xi | losy 21)
+De nan =O
+D= 2, |
+
+CF = Yer cre %4 GE”
+
+PL 2D
+= ae es é* .
+[Gao
+
+= xf J |e
+
+2D-3
+
+pea
+= re
+
+oye ote
+
+re
+= Kner € a CE
+
+16/o4
+
+FRR ICR 7 6 AC OH
+--- page 17 ---
+b)
+
+_
+(e+) COSX Ax +eC€ stax Ay = fo)
+12)
+mM = (E41) cos x tN se sinx
+
+y
+aN - ecosx } AN ~e osx
+oY Ox
+. = aN
+
+a Equorion is exact .
+The jengrot sol”
+
+SM ax + KNdy =e
+Cy constant) CAree of >)
+
+(e+) sox = C
+
+oo
+
+FRR ICR] AC OH
+
+—
+
+_—-@
+
+——O
+--- page 18 ---
+C) CONF Cay, DER /x+2y-z20t
+
+Z= 24400
+
+We? (xy, ogra /my ers
+
+=F xC\,0, D+¥ Corl, D /my oR] —2
+
+
+Span of p —__—_ff)
+—. \) fs basis: —_
+ain (Ww) = 2
+
+
+= £ G_,+:5t) JER.
+$4 (2), D [FERS
+
+VU Ys \ineo\ independent omd {i
+Span of- >,
+
+o. Mis basis - :
+ainW = 4 —0)
+
+8/ am
+
+DR ROR RK 1Q FH
+--- page 19 ---
+8) y sy
+
+Q) Gora , =e J/ge=e
+
+On”
+cha —-Z2O
+Cx”
+(oO z= O
+
+let ca € then m= ),-]
+zo C(O 4Qn =e
+ae
+
+QRH Ue -— Ae
+Ox ;
+
+)
+2S OY ZH e€
+
+Za=- CitCr
+e = Oo +Cr
+
+c= Coshy |) cy eatohy
+
+zee ceshy — ersinhy
+
+19/0
+
+FRR ICR 7 QI OR
+--- page 20 ---
+C4) aut p= et
+dt
+
+do + Jt=*
+
+ot (tH)
+~ J. ; 6)=t
+PCE) ay /
+At
+TRE = om = ee +41
+
+TCHiy= § Cen) +¢
+
+ICH) = #2 4+ 4¢
+3 Q-
+
+DR ROR RK 20 FRR HK RK
+--- page 21 ---
+> oo rn
+oa { -&
+~| 2.0
+
+To fnd agen Value
+Considee (A-At] =o
+AP LN 2) NSUS =O
+N= 3-3 F
+To #md etyen vector
+
+\ = -3,-3
+(A+8T)X=0
+
+“E
+
+fos X= 2
+AM= 2} GMs 2
+
+for Aa ST
+ame #1; GM=!
+
+A $s cla nalixable ° a
+M such wan = D
+
+%
+vo hore
+M = 2? x2 -} \ De —3 iw) ®
+
+to -2{ ” Oo 30
+
+Oo \ \ o 0 SF
+
+FI ICR D7 FAC HOH
+
+—O
+--- page 22 ---
+QF) (B—ap+3 )y - jos ax —O
+ND eCp= papas
+
+Puxillomy eq? 465) =o
+
+D= Brie
+Q
+
+CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
+
+To Find PL
+Assume y= A eiaronc-+ Bcos mx
+
+= ASn2x + BCOSSH
+Dy = 3A cosax — 2psin3x
+
+Oy = —F Asn3ax — AB Cos. Bac
+Sub In eg WO and Solving Fry ABB
+
+A= -£$ :; B= 2
+IB 7 3
+
+*-fp 2 Sfodx + 12 cos Se
+a
+
+54 t +P
+- OP ey cos (CE és >) +o S02) |
+
+_ sinea + 12 (e330
++ (-%&)* 1Z
+
+22/5 4
+
+FIR ICR DAC HH
+--- page 23 ---
+fo) Qu = au
+Daan + gy
+Assume Sol” U (x= xD) YOp= XY
+Bu = Ygx p Gu = Xdy
+
+OX
+
+L. Ax + X = 2x¥
+“y Ax 43
+
+yy -s
+Now, Uo, 4)= ae-e?
+put x= oOo & Gg
+
+Keo) eoaey
+
+ulo, oe ce
+2 Cs Cy FOr
+
+- 4) Y
+ge 6 = (e402) &
+é2.% 2 B=
+Ga-S > Keo
+
+Y ax— Sy
+
+-s U(n p)=3e" —e,
+
+DR ROR RK 23 RRR RK
+--- page 24 ---
+
+22)
+ocx -Z, z-x) 3 (ees
+= ) ,
+
+w-y=0 => x=JY
+yz =O > ze
+
+vy -X= O Zak
+=7C4,4 p J pers
+= ty) /y eR =)
+Null y= dim( e2rT ) -
+= L
+Range = 5 aes) Poe ey —
+= {1x4 [Cay DER F
+= play, y-zZ, z-x) J 4,2 ery
+= {CPrd> _p-4 / Pd EPS
+=$p Clie, -\) + 9 Cor), D/P qe —&
+Rank T = Aim C RanjeT) _6
+= 2
+pim (&) = Ranke T+ Null ity ©
+=~ OO2r \=B8 —
+dim(E) =3
+
+alka
+
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 66ce06c9595c
+
+- Departments: Computer Engineering
+- Programmes: BTech Computer 7002
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Computer_7002/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
+- Text: mixed (24 pages), mean OCR confidence 44.3
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 24 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+********** 1 **********
+--- page 2 ---
+BTech /MBA Tech CAN Stream)
+
+es) Sem Tr — LADE
+ayLet A- Wie -14
+
+2 ee 4
+
+' 2 3 4
+
+-1 -2 6
+
+To Reduce qo $ow- echelon fo3m
+Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
+
+t 2 -\4
+
+Oo oO Y5\-4
+
+0 D2 40
+0 oO 5-3
+
+Ra>Rs ~ ER } Ra, > Ran Ra
+
+~~
+~
+
+—_—— £1)
+
+|
+= ‘2 -\4
+0 Oo Ss -§
+0 0 0 Ms
+oo 0 VJ
+Rs >Pax S16, Ry > Run Ps
+= \ 29 -\ 4
+o Oo Sct gn
+0 oOo °° \
+© O oO O |
+
+e(A) => ane)
+
+FIC 2 I HH ar
+--- page 3 ---
+c=(1)1) ‘ p=(% 0)
+many
+(00?
+( yA | BCI?)
+00
+a) Tl) = Cx, 24) |
+T(00) = (0,0)=A ; TCt,e Os 8
+Tih= (Dee + 0,2 ©) =
+sO)
+_—(2)
+coi)” C
+coo ® (119)
+
+Square teanktoams bo
+
+TAL tomole amd
+
+2/24
+
+AR RK 3 RK
+--- page 4 ---
+c)
+
+aiven
+
+x+
+=C
+DIFF aed ix!
+\+ a2dy = |
+Ax =e
+
+dy 2
+ax OE
+Fo 0) j
+Ay Zk
+ab
+On colving-
+oy = oa dx
+gdy= 2 S4*
+
+Ya 270 +c
+
+ox yre = 0
+
+—t!)
+--- page 5 ---
+a)
+
+Given io» "Chapa J =O
+Let £Cp)= (p-2) (x21 =O
+Consider auxi\lay 247
+Cm 2) CaP ares) = © _
+M=2;2,% | me(itt) (peice) —O
+
+Yee CF = (E+ Crp ese e+
+
+———(!
+
+E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
+--- page 6 ---
+é) GiNen L= xy - FAY)
+
+tet og =
+. Ze way - $L4)
+
+DK weet ‘9! paotally
+Oz = |-O -£u)-y
+
+- OF
+P= Oy
+
+piff wot ‘gy partially
+g2 BE = O-|- #(u)-x
+— ©O
+1
+p-1 =-f'Cuy
+q+\ = —-#CW)*
+
+-\ 5 x+\
+
+LCP) = you
+
+—O
+--- page 7 ---
+Ginen
+Axe O
+Az } 2 2
+2 3 \f-
+ag s4
+ee ie
+
+\ Ww 3
+
+o -\ ~s
+
+o -3 ~&
+_| a
+
+FR RK
+
+FR CK
+
+—O)
+--- page 8 ---
+
+td. basic of K ae:
+eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
+
+Cpe, 2) = G, °) 3)
+Tle,40) = (0,1, - __— @
+(0, 0,1) = C-2,0, © '
+
+Mat x arsotatad with T
+
+My, =+=/(% O -2
+D0 \ 6 _—
+> Gq ©O
+
+\M\= 6 £0 —A
+oT fs tnvertiable |
+
+T Curse = (x yz) ___—_(2)
+Cay, = (uw .
+
+On , Solving
+--- page 9 ---
+oO 4a )y 2 Seco)
+
+m,,M2 = Oso
++ C2SiINQ 4
+
+Pe cinax ——_)
+
+an *
+Lon qr= Cos ,
+
+Let PI = bYtVyr —
+We] Yt val Cos ak — SINAK
+[4 gi \F festron ae
+
+= QO
+1 _lea(cosax) ———O
+ar
+
+_
+
+_
+
+wana ©
+os Jape oe -
+
+og Ccesax) + 4 enor = 0
+
+_ ax |
+
+es = Ch + PL
+
+= cocant SING + _O
+5 Nar
+
+1 Cosa [gCasan) +1
+ae
+
+Q/>4
+
+FIC QF OH ar
+--- page 10 ---
+6a Wa? Cuyd ef. [ox —y+3% sof .
+” pet Us CDE) ay 4 Foz=0 { 9
+ao
+
+—Ua4+-3Z0=
+Y= Cay, zee, 22-3
+
+Jo prove ——)
+au+ bY Ew
+Contidev ab (%, y, |Z2)
+= CeiY, 7!
+ausrbye = 40"! a+b) —O)
+
+an +be, ay ry.)
+
+_
+_
+
+Now, .
+» Carr +b) — Gyrbys) + 3Can O%
+
+0
+= a Cex) 437, .) + b (2x2-Yst 322)
+ra) &: form oO _—{()
+
+autrbs €W -
+
+- W ¥s Subspace. . _ 4
+
+DR ROR RK 10 FRR KRHA
+--- page 11 ---
+A= 2 Oo —-\
+O 2 (0)
+-| Oo 2
+
+Consider chy ©,
+la~ At) = O
+XM —EN+4NA- 6 =O
+o_o —O
+
+—
+
+A- ON +NVA- OCT =
+To vew Fy cH +heovem
+
+
+= (g) oO oO
+Oo eo 0 —@®
+oO oO
+
+To Fmd A 4
+Poe multiply ea O va A
+
+N—-GA+TIND -6Kk' =
+“Ns fe o Ys ——
+oe) Vo oO
+V2, e) >a
+At GArF+ WAX —ECR= O
+o Ata Ale 6 -4
+O 16 Oo
+“to 9 a 24
+1
+
+To fad wt , mul ply eq © by A
+
+1
+--- page 12 ---
+?
+
+let the Solutron he
+2 aa
+y- Eo
+
+Ad
+1 = S Ok. koe
+el _
+y" _ a (erm Kk) x
+\jer2
+
+{| a
+Q,=>0 > Qs a
+Que OW = EO
+
+A= O
+2. | naa 7 os
+
++ Ox— 14
+Oo ce 1g {20
+
+\2/ 2a
+
+FRR ICR] DA KH
+
+e+ atts:
+--- page 13 ---
+€APY — pCp-1) Co-2)
+aad
+
+“HO a
+ad CF
+Te od GF ouxillasg 25,
+kCp= D+2D —2D= O
+
+--|iVN3 ; D=°
+B= —! C-teNG) 2
+
+(-1 “D2
+
+~W =z A+ Ge +G€
+
+To Find 4
+qez PLl= za [a D'+2D 5-2)
+7 =[ D4 nD Paagoel
+
+FR RK
+
+FR CK
+
+_—O®
+
+—®D
+
+oO
+--- page 14 ---
+b) an |
+{ 2 6
+~ Oo 2
+
+Conside, chor eq, JAA] =0
+XEN + 8A= 0
+=x r= Oo, 2, 4
+Eigen walues ave 0,24"
+To Pood eigen vectors
+fos X= O
+(A- XT)A=O
+A X= O
+Fos a
+(A aK
+=| 9
+2
+|
+
+X = 2
+—\
+}
+--- page 15 ---
+© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
+Consider AUr+ Ce Ur + Cau, = ©
+A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
+20,+ 2O.+ 2a, = 0
+
+—a, + 6 Os + 10d =O
+Hd, +202 + C)ds = ©
+
+-)]2 1c) =
+[D)= | ¢ iol = 12 FO-
+
+q 2 +
+
+ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
+
+Consider
+CyB + Co Ue + C21 = oO
+
+e601 ,3,3) tea COrl +476 D074 0)
+
+C+ 0C2 $503 = O
+BC, + C2 TOS =O
+
+acy +402 +303 = ©
+S
+- \ 12)
+Ip |z _ 6 |= o4d£o-
+3 4 3
+
+-. Uy, We Vo OL Wineocs}y independ ent .
+
+/ 24
+
+FRR IC 7 DA HOH
+--- page 16 ---
+pat d=
+
+(6% — apreng=e
+
+Consider cur xi | losy 21)
+De nan =O
+D= 2, |
+
+CF = Yer cre %4 GE”
+
+PL 2D
+= ae es é* .
+[Gao
+
+= xf J |e
+
+2D-3
+
+pea
+= re
+
+oye ote
+
+re
+= Kner € a CE
+
+16/o4
+
+FRR ICR 7 6 AC OH
+--- page 17 ---
+b)
+
+_
+(e+) COSX Ax +eC€ stax Ay = fo)
+12)
+mM = (E41) cos x tN se sinx
+
+y
+aN - ecosx } AN ~e osx
+oY Ox
+. = aN
+
+a Equorion is exact .
+The jengrot sol”
+
+SM ax + KNdy =e
+Cy constant) CAree of >)
+
+(e+) sox = C
+
+oo
+
+FRR ICR] AC OH
+
+—
+
+_—-@
+
+——O
+--- page 18 ---
+C) CONF Cay, DER /x+2y-z20t
+
+Z= 24400
+
+We? (xy, ogra /my ers
+
+=F xC\,0, D+¥ Corl, D /my oR] —2
+
+
+Span of p —__—_ff)
+—. \) fs basis: —_
+ain (Ww) = 2
+
+
+= £ G_,+:5t) JER.
+$4 (2), D [FERS
+
+VU Ys \ineo\ independent omd {i
+Span of- >,
+
+o. Mis basis - :
+ainW = 4 —0)
+
+8/ am
+
+DR ROR RK 1Q FH
+--- page 19 ---
+8) y sy
+
+Q) Gora , =e J/ge=e
+
+On”
+cha —-Z2O
+Cx”
+(oO z= O
+
+let ca € then m= ),-]
+zo C(O 4Qn =e
+ae
+
+QRH Ue -— Ae
+Ox ;
+
+)
+2S OY ZH e€
+
+Za=- CitCr
+e = Oo +Cr
+
+c= Coshy |) cy eatohy
+
+zee ceshy — ersinhy
+
+19/0
+
+FRR ICR 7 QI OR
+--- page 20 ---
+C4) aut p= et
+dt
+
+do + Jt=*
+
+ot (tH)
+~ J. ; 6)=t
+PCE) ay /
+At
+TRE = om = ee +41
+
+TCHiy= § Cen) +¢
+
+ICH) = #2 4+ 4¢
+3 Q-
+
+DR ROR RK 20 FRR HK RK
+--- page 21 ---
+> oo rn
+oa { -&
+~| 2.0
+
+To fnd agen Value
+Considee (A-At] =o
+AP LN 2) NSUS =O
+N= 3-3 F
+To #md etyen vector
+
+\ = -3,-3
+(A+8T)X=0
+
+“E
+
+fos X= 2
+AM= 2} GMs 2
+
+for Aa ST
+ame #1; GM=!
+
+A $s cla nalixable ° a
+M such wan = D
+
+%
+vo hore
+M = 2? x2 -} \ De —3 iw) ®
+
+to -2{ ” Oo 30
+
+Oo \ \ o 0 SF
+
+FI ICR D7 FAC HOH
+
+—O
+--- page 22 ---
+QF) (B—ap+3 )y - jos ax —O
+ND eCp= papas
+
+Puxillomy eq? 465) =o
+
+D= Brie
+Q
+
+CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
+
+To Find PL
+Assume y= A eiaronc-+ Bcos mx
+
+= ASn2x + BCOSSH
+Dy = 3A cosax — 2psin3x
+
+Oy = —F Asn3ax — AB Cos. Bac
+Sub In eg WO and Solving Fry ABB
+
+A= -£$ :; B= 2
+IB 7 3
+
+*-fp 2 Sfodx + 12 cos Se
+a
+
+54 t +P
+- OP ey cos (CE és >) +o S02) |
+
+_ sinea + 12 (e330
++ (-%&)* 1Z
+
+22/5 4
+
+FIR ICR DAC HH
+--- page 23 ---
+fo) Qu = au
+Daan + gy
+Assume Sol” U (x= xD) YOp= XY
+Bu = Ygx p Gu = Xdy
+
+OX
+
+L. Ax + X = 2x¥
+“y Ax 43
+
+yy -s
+Now, Uo, 4)= ae-e?
+put x= oOo & Gg
+
+Keo) eoaey
+
+ulo, oe ce
+2 Cs Cy FOr
+
+- 4) Y
+ge 6 = (e402) &
+é2.% 2 B=
+Ga-S > Keo
+
+Y ax— Sy
+
+-s U(n p)=3e" —e,
+
+DR ROR RK 23 RRR RK
+--- page 24 ---
+
+22)
+ocx -Z, z-x) 3 (ees
+= ) ,
+
+w-y=0 => x=JY
+yz =O > ze
+
+vy -X= O Zak
+=7C4,4 p J pers
+= ty) /y eR =)
+Null y= dim( e2rT ) -
+= L
+Range = 5 aes) Poe ey —
+= {1x4 [Cay DER F
+= play, y-zZ, z-x) J 4,2 ery
+= {CPrd> _p-4 / Pd EPS
+=$p Clie, -\) + 9 Cor), D/P qe —&
+Rank T = Aim C RanjeT) _6
+= 2
+pim (&) = Ranke T+ Null ity ©
+=~ OO2r \=B8 —
+dim(E) =3
+
+alka
+
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 7a471c3ae0ff
+
+- Departments: Information Technology
+- Programmes: BTech IT 7001
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_IT_7001/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
+- Text: mixed (24 pages), mean OCR confidence 44.3
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 24 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+********** 1 **********
+--- page 2 ---
+BTech /MBA Tech CAN Stream)
+
+es) Sem Tr — LADE
+ayLet A- Wie -14
+
+2 ee 4
+
+' 2 3 4
+
+-1 -2 6
+
+To Reduce qo $ow- echelon fo3m
+Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
+
+t 2 -\4
+
+Oo oO Y5\-4
+
+0 D2 40
+0 oO 5-3
+
+Ra>Rs ~ ER } Ra, > Ran Ra
+
+~~
+~
+
+—_—— £1)
+
+|
+= ‘2 -\4
+0 Oo Ss -§
+0 0 0 Ms
+oo 0 VJ
+Rs >Pax S16, Ry > Run Ps
+= \ 29 -\ 4
+o Oo Sct gn
+0 oOo °° \
+© O oO O |
+
+e(A) => ane)
+
+FIC 2 I HH ar
+--- page 3 ---
+c=(1)1) ‘ p=(% 0)
+many
+(00?
+( yA | BCI?)
+00
+a) Tl) = Cx, 24) |
+T(00) = (0,0)=A ; TCt,e Os 8
+Tih= (Dee + 0,2 ©) =
+sO)
+_—(2)
+coi)” C
+coo ® (119)
+
+Square teanktoams bo
+
+TAL tomole amd
+
+2/24
+
+AR RK 3 RK
+--- page 4 ---
+c)
+
+aiven
+
+x+
+=C
+DIFF aed ix!
+\+ a2dy = |
+Ax =e
+
+dy 2
+ax OE
+Fo 0) j
+Ay Zk
+ab
+On colving-
+oy = oa dx
+gdy= 2 S4*
+
+Ya 270 +c
+
+ox yre = 0
+
+—t!)
+--- page 5 ---
+a)
+
+Given io» "Chapa J =O
+Let £Cp)= (p-2) (x21 =O
+Consider auxi\lay 247
+Cm 2) CaP ares) = © _
+M=2;2,% | me(itt) (peice) —O
+
+Yee CF = (E+ Crp ese e+
+
+———(!
+
+E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
+--- page 6 ---
+é) GiNen L= xy - FAY)
+
+tet og =
+. Ze way - $L4)
+
+DK weet ‘9! paotally
+Oz = |-O -£u)-y
+
+- OF
+P= Oy
+
+piff wot ‘gy partially
+g2 BE = O-|- #(u)-x
+— ©O
+1
+p-1 =-f'Cuy
+q+\ = —-#CW)*
+
+-\ 5 x+\
+
+LCP) = you
+
+—O
+--- page 7 ---
+Ginen
+Axe O
+Az } 2 2
+2 3 \f-
+ag s4
+ee ie
+
+\ Ww 3
+
+o -\ ~s
+
+o -3 ~&
+_| a
+
+FR RK
+
+FR CK
+
+—O)
+--- page 8 ---
+
+td. basic of K ae:
+eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
+
+Cpe, 2) = G, °) 3)
+Tle,40) = (0,1, - __— @
+(0, 0,1) = C-2,0, © '
+
+Mat x arsotatad with T
+
+My, =+=/(% O -2
+D0 \ 6 _—
+> Gq ©O
+
+\M\= 6 £0 —A
+oT fs tnvertiable |
+
+T Curse = (x yz) ___—_(2)
+Cay, = (uw .
+
+On , Solving
+--- page 9 ---
+oO 4a )y 2 Seco)
+
+m,,M2 = Oso
++ C2SiINQ 4
+
+Pe cinax ——_)
+
+an *
+Lon qr= Cos ,
+
+Let PI = bYtVyr —
+We] Yt val Cos ak — SINAK
+[4 gi \F festron ae
+
+= QO
+1 _lea(cosax) ———O
+ar
+
+_
+
+_
+
+wana ©
+os Jape oe -
+
+og Ccesax) + 4 enor = 0
+
+_ ax |
+
+es = Ch + PL
+
+= cocant SING + _O
+5 Nar
+
+1 Cosa [gCasan) +1
+ae
+
+Q/>4
+
+FIC QF OH ar
+--- page 10 ---
+6a Wa? Cuyd ef. [ox —y+3% sof .
+” pet Us CDE) ay 4 Foz=0 { 9
+ao
+
+—Ua4+-3Z0=
+Y= Cay, zee, 22-3
+
+Jo prove ——)
+au+ bY Ew
+Contidev ab (%, y, |Z2)
+= CeiY, 7!
+ausrbye = 40"! a+b) —O)
+
+an +be, ay ry.)
+
+_
+_
+
+Now, .
+» Carr +b) — Gyrbys) + 3Can O%
+
+0
+= a Cex) 437, .) + b (2x2-Yst 322)
+ra) &: form oO _—{()
+
+autrbs €W -
+
+- W ¥s Subspace. . _ 4
+
+DR ROR RK 10 FRR KRHA
+--- page 11 ---
+A= 2 Oo —-\
+O 2 (0)
+-| Oo 2
+
+Consider chy ©,
+la~ At) = O
+XM —EN+4NA- 6 =O
+o_o —O
+
+—
+
+A- ON +NVA- OCT =
+To vew Fy cH +heovem
+
+
+= (g) oO oO
+Oo eo 0 —@®
+oO oO
+
+To Fmd A 4
+Poe multiply ea O va A
+
+N—-GA+TIND -6Kk' =
+“Ns fe o Ys ——
+oe) Vo oO
+V2, e) >a
+At GArF+ WAX —ECR= O
+o Ata Ale 6 -4
+O 16 Oo
+“to 9 a 24
+1
+
+To fad wt , mul ply eq © by A
+
+1
+--- page 12 ---
+?
+
+let the Solutron he
+2 aa
+y- Eo
+
+Ad
+1 = S Ok. koe
+el _
+y" _ a (erm Kk) x
+\jer2
+
+{| a
+Q,=>0 > Qs a
+Que OW = EO
+
+A= O
+2. | naa 7 os
+
++ Ox— 14
+Oo ce 1g {20
+
+\2/ 2a
+
+FRR ICR] DA KH
+
+e+ atts:
+--- page 13 ---
+€APY — pCp-1) Co-2)
+aad
+
+“HO a
+ad CF
+Te od GF ouxillasg 25,
+kCp= D+2D —2D= O
+
+--|iVN3 ; D=°
+B= —! C-teNG) 2
+
+(-1 “D2
+
+~W =z A+ Ge +G€
+
+To Find 4
+qez PLl= za [a D'+2D 5-2)
+7 =[ D4 nD Paagoel
+
+FR RK
+
+FR CK
+
+_—O®
+
+—®D
+
+oO
+--- page 14 ---
+b) an |
+{ 2 6
+~ Oo 2
+
+Conside, chor eq, JAA] =0
+XEN + 8A= 0
+=x r= Oo, 2, 4
+Eigen walues ave 0,24"
+To Pood eigen vectors
+fos X= O
+(A- XT)A=O
+A X= O
+Fos a
+(A aK
+=| 9
+2
+|
+
+X = 2
+—\
+}
+--- page 15 ---
+© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
+Consider AUr+ Ce Ur + Cau, = ©
+A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
+20,+ 2O.+ 2a, = 0
+
+—a, + 6 Os + 10d =O
+Hd, +202 + C)ds = ©
+
+-)]2 1c) =
+[D)= | ¢ iol = 12 FO-
+
+q 2 +
+
+ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
+
+Consider
+CyB + Co Ue + C21 = oO
+
+e601 ,3,3) tea COrl +476 D074 0)
+
+C+ 0C2 $503 = O
+BC, + C2 TOS =O
+
+acy +402 +303 = ©
+S
+- \ 12)
+Ip |z _ 6 |= o4d£o-
+3 4 3
+
+-. Uy, We Vo OL Wineocs}y independ ent .
+
+/ 24
+
+FRR IC 7 DA HOH
+--- page 16 ---
+pat d=
+
+(6% — apreng=e
+
+Consider cur xi | losy 21)
+De nan =O
+D= 2, |
+
+CF = Yer cre %4 GE”
+
+PL 2D
+= ae es é* .
+[Gao
+
+= xf J |e
+
+2D-3
+
+pea
+= re
+
+oye ote
+
+re
+= Kner € a CE
+
+16/o4
+
+FRR ICR 7 6 AC OH
+--- page 17 ---
+b)
+
+_
+(e+) COSX Ax +eC€ stax Ay = fo)
+12)
+mM = (E41) cos x tN se sinx
+
+y
+aN - ecosx } AN ~e osx
+oY Ox
+. = aN
+
+a Equorion is exact .
+The jengrot sol”
+
+SM ax + KNdy =e
+Cy constant) CAree of >)
+
+(e+) sox = C
+
+oo
+
+FRR ICR] AC OH
+
+—
+
+_—-@
+
+——O
+--- page 18 ---
+C) CONF Cay, DER /x+2y-z20t
+
+Z= 24400
+
+We? (xy, ogra /my ers
+
+=F xC\,0, D+¥ Corl, D /my oR] —2
+
+
+Span of p —__—_ff)
+—. \) fs basis: —_
+ain (Ww) = 2
+
+
+= £ G_,+:5t) JER.
+$4 (2), D [FERS
+
+VU Ys \ineo\ independent omd {i
+Span of- >,
+
+o. Mis basis - :
+ainW = 4 —0)
+
+8/ am
+
+DR ROR RK 1Q FH
+--- page 19 ---
+8) y sy
+
+Q) Gora , =e J/ge=e
+
+On”
+cha —-Z2O
+Cx”
+(oO z= O
+
+let ca € then m= ),-]
+zo C(O 4Qn =e
+ae
+
+QRH Ue -— Ae
+Ox ;
+
+)
+2S OY ZH e€
+
+Za=- CitCr
+e = Oo +Cr
+
+c= Coshy |) cy eatohy
+
+zee ceshy — ersinhy
+
+19/0
+
+FRR ICR 7 QI OR
+--- page 20 ---
+C4) aut p= et
+dt
+
+do + Jt=*
+
+ot (tH)
+~ J. ; 6)=t
+PCE) ay /
+At
+TRE = om = ee +41
+
+TCHiy= § Cen) +¢
+
+ICH) = #2 4+ 4¢
+3 Q-
+
+DR ROR RK 20 FRR HK RK
+--- page 21 ---
+> oo rn
+oa { -&
+~| 2.0
+
+To fnd agen Value
+Considee (A-At] =o
+AP LN 2) NSUS =O
+N= 3-3 F
+To #md etyen vector
+
+\ = -3,-3
+(A+8T)X=0
+
+“E
+
+fos X= 2
+AM= 2} GMs 2
+
+for Aa ST
+ame #1; GM=!
+
+A $s cla nalixable ° a
+M such wan = D
+
+%
+vo hore
+M = 2? x2 -} \ De —3 iw) ®
+
+to -2{ ” Oo 30
+
+Oo \ \ o 0 SF
+
+FI ICR D7 FAC HOH
+
+—O
+--- page 22 ---
+QF) (B—ap+3 )y - jos ax —O
+ND eCp= papas
+
+Puxillomy eq? 465) =o
+
+D= Brie
+Q
+
+CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
+
+To Find PL
+Assume y= A eiaronc-+ Bcos mx
+
+= ASn2x + BCOSSH
+Dy = 3A cosax — 2psin3x
+
+Oy = —F Asn3ax — AB Cos. Bac
+Sub In eg WO and Solving Fry ABB
+
+A= -£$ :; B= 2
+IB 7 3
+
+*-fp 2 Sfodx + 12 cos Se
+a
+
+54 t +P
+- OP ey cos (CE és >) +o S02) |
+
+_ sinea + 12 (e330
++ (-%&)* 1Z
+
+22/5 4
+
+FIR ICR DAC HH
+--- page 23 ---
+fo) Qu = au
+Daan + gy
+Assume Sol” U (x= xD) YOp= XY
+Bu = Ygx p Gu = Xdy
+
+OX
+
+L. Ax + X = 2x¥
+“y Ax 43
+
+yy -s
+Now, Uo, 4)= ae-e?
+put x= oOo & Gg
+
+Keo) eoaey
+
+ulo, oe ce
+2 Cs Cy FOr
+
+- 4) Y
+ge 6 = (e402) &
+é2.% 2 B=
+Ga-S > Keo
+
+Y ax— Sy
+
+-s U(n p)=3e" —e,
+
+DR ROR RK 23 RRR RK
+--- page 24 ---
+
+22)
+ocx -Z, z-x) 3 (ees
+= ) ,
+
+w-y=0 => x=JY
+yz =O > ze
+
+vy -X= O Zak
+=7C4,4 p J pers
+= ty) /y eR =)
+Null y= dim( e2rT ) -
+= L
+Range = 5 aes) Poe ey —
+= {1x4 [Cay DER F
+= play, y-zZ, z-x) J 4,2 ery
+= {CPrd> _p-4 / Pd EPS
+=$p Clie, -\) + 9 Cor), D/P qe —&
+Rank T = Aim C RanjeT) _6
+= 2
+pim (&) = Ranke T+ Null ity ©
+=~ OO2r \=B8 —
+dim(E) =3
+
+alka
+
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper ea1d2b4ce461
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_AI_7051/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
+- Text: mixed (24 pages), mean OCR confidence 44.3
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 24 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+********** 1 **********
+--- page 2 ---
+BTech /MBA Tech CAN Stream)
+
+es) Sem Tr — LADE
+ayLet A- Wie -14
+
+2 ee 4
+
+' 2 3 4
+
+-1 -2 6
+
+To Reduce qo $ow- echelon fo3m
+Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
+
+t 2 -\4
+
+Oo oO Y5\-4
+
+0 D2 40
+0 oO 5-3
+
+Ra>Rs ~ ER } Ra, > Ran Ra
+
+~~
+~
+
+—_—— £1)
+
+|
+= ‘2 -\4
+0 Oo Ss -§
+0 0 0 Ms
+oo 0 VJ
+Rs >Pax S16, Ry > Run Ps
+= \ 29 -\ 4
+o Oo Sct gn
+0 oOo °° \
+© O oO O |
+
+e(A) => ane)
+
+FIC 2 I HH ar
+--- page 3 ---
+c=(1)1) ‘ p=(% 0)
+many
+(00?
+( yA | BCI?)
+00
+a) Tl) = Cx, 24) |
+T(00) = (0,0)=A ; TCt,e Os 8
+Tih= (Dee + 0,2 ©) =
+sO)
+_—(2)
+coi)” C
+coo ® (119)
+
+Square teanktoams bo
+
+TAL tomole amd
+
+2/24
+
+AR RK 3 RK
+--- page 4 ---
+c)
+
+aiven
+
+x+
+=C
+DIFF aed ix!
+\+ a2dy = |
+Ax =e
+
+dy 2
+ax OE
+Fo 0) j
+Ay Zk
+ab
+On colving-
+oy = oa dx
+gdy= 2 S4*
+
+Ya 270 +c
+
+ox yre = 0
+
+—t!)
+--- page 5 ---
+a)
+
+Given io» "Chapa J =O
+Let £Cp)= (p-2) (x21 =O
+Consider auxi\lay 247
+Cm 2) CaP ares) = © _
+M=2;2,% | me(itt) (peice) —O
+
+Yee CF = (E+ Crp ese e+
+
+———(!
+
+E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
+--- page 6 ---
+é) GiNen L= xy - FAY)
+
+tet og =
+. Ze way - $L4)
+
+DK weet ‘9! paotally
+Oz = |-O -£u)-y
+
+- OF
+P= Oy
+
+piff wot ‘gy partially
+g2 BE = O-|- #(u)-x
+— ©O
+1
+p-1 =-f'Cuy
+q+\ = —-#CW)*
+
+-\ 5 x+\
+
+LCP) = you
+
+—O
+--- page 7 ---
+Ginen
+Axe O
+Az } 2 2
+2 3 \f-
+ag s4
+ee ie
+
+\ Ww 3
+
+o -\ ~s
+
+o -3 ~&
+_| a
+
+FR RK
+
+FR CK
+
+—O)
+--- page 8 ---
+
+td. basic of K ae:
+eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
+
+Cpe, 2) = G, °) 3)
+Tle,40) = (0,1, - __— @
+(0, 0,1) = C-2,0, © '
+
+Mat x arsotatad with T
+
+My, =+=/(% O -2
+D0 \ 6 _—
+> Gq ©O
+
+\M\= 6 £0 —A
+oT fs tnvertiable |
+
+T Curse = (x yz) ___—_(2)
+Cay, = (uw .
+
+On , Solving
+--- page 9 ---
+oO 4a )y 2 Seco)
+
+m,,M2 = Oso
++ C2SiINQ 4
+
+Pe cinax ——_)
+
+an *
+Lon qr= Cos ,
+
+Let PI = bYtVyr —
+We] Yt val Cos ak — SINAK
+[4 gi \F festron ae
+
+= QO
+1 _lea(cosax) ———O
+ar
+
+_
+
+_
+
+wana ©
+os Jape oe -
+
+og Ccesax) + 4 enor = 0
+
+_ ax |
+
+es = Ch + PL
+
+= cocant SING + _O
+5 Nar
+
+1 Cosa [gCasan) +1
+ae
+
+Q/>4
+
+FIC QF OH ar
+--- page 10 ---
+6a Wa? Cuyd ef. [ox —y+3% sof .
+” pet Us CDE) ay 4 Foz=0 { 9
+ao
+
+—Ua4+-3Z0=
+Y= Cay, zee, 22-3
+
+Jo prove ——)
+au+ bY Ew
+Contidev ab (%, y, |Z2)
+= CeiY, 7!
+ausrbye = 40"! a+b) —O)
+
+an +be, ay ry.)
+
+_
+_
+
+Now, .
+» Carr +b) — Gyrbys) + 3Can O%
+
+0
+= a Cex) 437, .) + b (2x2-Yst 322)
+ra) &: form oO _—{()
+
+autrbs €W -
+
+- W ¥s Subspace. . _ 4
+
+DR ROR RK 10 FRR KRHA
+--- page 11 ---
+A= 2 Oo —-\
+O 2 (0)
+-| Oo 2
+
+Consider chy ©,
+la~ At) = O
+XM —EN+4NA- 6 =O
+o_o —O
+
+—
+
+A- ON +NVA- OCT =
+To vew Fy cH +heovem
+
+
+= (g) oO oO
+Oo eo 0 —@®
+oO oO
+
+To Fmd A 4
+Poe multiply ea O va A
+
+N—-GA+TIND -6Kk' =
+“Ns fe o Ys ——
+oe) Vo oO
+V2, e) >a
+At GArF+ WAX —ECR= O
+o Ata Ale 6 -4
+O 16 Oo
+“to 9 a 24
+1
+
+To fad wt , mul ply eq © by A
+
+1
+--- page 12 ---
+?
+
+let the Solutron he
+2 aa
+y- Eo
+
+Ad
+1 = S Ok. koe
+el _
+y" _ a (erm Kk) x
+\jer2
+
+{| a
+Q,=>0 > Qs a
+Que OW = EO
+
+A= O
+2. | naa 7 os
+
++ Ox— 14
+Oo ce 1g {20
+
+\2/ 2a
+
+FRR ICR] DA KH
+
+e+ atts:
+--- page 13 ---
+€APY — pCp-1) Co-2)
+aad
+
+“HO a
+ad CF
+Te od GF ouxillasg 25,
+kCp= D+2D —2D= O
+
+--|iVN3 ; D=°
+B= —! C-teNG) 2
+
+(-1 “D2
+
+~W =z A+ Ge +G€
+
+To Find 4
+qez PLl= za [a D'+2D 5-2)
+7 =[ D4 nD Paagoel
+
+FR RK
+
+FR CK
+
+_—O®
+
+—®D
+
+oO
+--- page 14 ---
+b) an |
+{ 2 6
+~ Oo 2
+
+Conside, chor eq, JAA] =0
+XEN + 8A= 0
+=x r= Oo, 2, 4
+Eigen walues ave 0,24"
+To Pood eigen vectors
+fos X= O
+(A- XT)A=O
+A X= O
+Fos a
+(A aK
+=| 9
+2
+|
+
+X = 2
+—\
+}
+--- page 15 ---
+© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
+Consider AUr+ Ce Ur + Cau, = ©
+A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
+20,+ 2O.+ 2a, = 0
+
+—a, + 6 Os + 10d =O
+Hd, +202 + C)ds = ©
+
+-)]2 1c) =
+[D)= | ¢ iol = 12 FO-
+
+q 2 +
+
+ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
+
+Consider
+CyB + Co Ue + C21 = oO
+
+e601 ,3,3) tea COrl +476 D074 0)
+
+C+ 0C2 $503 = O
+BC, + C2 TOS =O
+
+acy +402 +303 = ©
+S
+- \ 12)
+Ip |z _ 6 |= o4d£o-
+3 4 3
+
+-. Uy, We Vo OL Wineocs}y independ ent .
+
+/ 24
+
+FRR IC 7 DA HOH
+--- page 16 ---
+pat d=
+
+(6% — apreng=e
+
+Consider cur xi | losy 21)
+De nan =O
+D= 2, |
+
+CF = Yer cre %4 GE”
+
+PL 2D
+= ae es é* .
+[Gao
+
+= xf J |e
+
+2D-3
+
+pea
+= re
+
+oye ote
+
+re
+= Kner € a CE
+
+16/o4
+
+FRR ICR 7 6 AC OH
+--- page 17 ---
+b)
+
+_
+(e+) COSX Ax +eC€ stax Ay = fo)
+12)
+mM = (E41) cos x tN se sinx
+
+y
+aN - ecosx } AN ~e osx
+oY Ox
+. = aN
+
+a Equorion is exact .
+The jengrot sol”
+
+SM ax + KNdy =e
+Cy constant) CAree of >)
+
+(e+) sox = C
+
+oo
+
+FRR ICR] AC OH
+
+—
+
+_—-@
+
+——O
+--- page 18 ---
+C) CONF Cay, DER /x+2y-z20t
+
+Z= 24400
+
+We? (xy, ogra /my ers
+
+=F xC\,0, D+¥ Corl, D /my oR] —2
+
+
+Span of p —__—_ff)
+—. \) fs basis: —_
+ain (Ww) = 2
+
+
+= £ G_,+:5t) JER.
+$4 (2), D [FERS
+
+VU Ys \ineo\ independent omd {i
+Span of- >,
+
+o. Mis basis - :
+ainW = 4 —0)
+
+8/ am
+
+DR ROR RK 1Q FH
+--- page 19 ---
+8) y sy
+
+Q) Gora , =e J/ge=e
+
+On”
+cha —-Z2O
+Cx”
+(oO z= O
+
+let ca € then m= ),-]
+zo C(O 4Qn =e
+ae
+
+QRH Ue -— Ae
+Ox ;
+
+)
+2S OY ZH e€
+
+Za=- CitCr
+e = Oo +Cr
+
+c= Coshy |) cy eatohy
+
+zee ceshy — ersinhy
+
+19/0
+
+FRR ICR 7 QI OR
+--- page 20 ---
+C4) aut p= et
+dt
+
+do + Jt=*
+
+ot (tH)
+~ J. ; 6)=t
+PCE) ay /
+At
+TRE = om = ee +41
+
+TCHiy= § Cen) +¢
+
+ICH) = #2 4+ 4¢
+3 Q-
+
+DR ROR RK 20 FRR HK RK
+--- page 21 ---
+> oo rn
+oa { -&
+~| 2.0
+
+To fnd agen Value
+Considee (A-At] =o
+AP LN 2) NSUS =O
+N= 3-3 F
+To #md etyen vector
+
+\ = -3,-3
+(A+8T)X=0
+
+“E
+
+fos X= 2
+AM= 2} GMs 2
+
+for Aa ST
+ame #1; GM=!
+
+A $s cla nalixable ° a
+M such wan = D
+
+%
+vo hore
+M = 2? x2 -} \ De —3 iw) ®
+
+to -2{ ” Oo 30
+
+Oo \ \ o 0 SF
+
+FI ICR D7 FAC HOH
+
+—O
+--- page 22 ---
+QF) (B—ap+3 )y - jos ax —O
+ND eCp= papas
+
+Puxillomy eq? 465) =o
+
+D= Brie
+Q
+
+CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
+
+To Find PL
+Assume y= A eiaronc-+ Bcos mx
+
+= ASn2x + BCOSSH
+Dy = 3A cosax — 2psin3x
+
+Oy = —F Asn3ax — AB Cos. Bac
+Sub In eg WO and Solving Fry ABB
+
+A= -£$ :; B= 2
+IB 7 3
+
+*-fp 2 Sfodx + 12 cos Se
+a
+
+54 t +P
+- OP ey cos (CE és >) +o S02) |
+
+_ sinea + 12 (e330
++ (-%&)* 1Z
+
+22/5 4
+
+FIR ICR DAC HH
+--- page 23 ---
+fo) Qu = au
+Daan + gy
+Assume Sol” U (x= xD) YOp= XY
+Bu = Ygx p Gu = Xdy
+
+OX
+
+L. Ax + X = 2x¥
+“y Ax 43
+
+yy -s
+Now, Uo, 4)= ae-e?
+put x= oOo & Gg
+
+Keo) eoaey
+
+ulo, oe ce
+2 Cs Cy FOr
+
+- 4) Y
+ge 6 = (e402) &
+é2.% 2 B=
+Ga-S > Keo
+
+Y ax— Sy
+
+-s U(n p)=3e" —e,
+
+DR ROR RK 23 RRR RK
+--- page 24 ---
+
+22)
+ocx -Z, z-x) 3 (ees
+= ) ,
+
+w-y=0 => x=JY
+yz =O > ze
+
+vy -X= O Zak
+=7C4,4 p J pers
+= ty) /y eR =)
+Null y= dim( e2rT ) -
+= L
+Range = 5 aes) Poe ey —
+= {1x4 [Cay DER F
+= play, y-zZ, z-x) J 4,2 ery
+= {CPrd> _p-4 / Pd EPS
+=$p Clie, -\) + 9 Cor), D/P qe —&
+Rank T = Aim C RanjeT) _6
+= 2
+pim (&) = Ranke T+ Null ity ©
+=~ OO2r \=B8 —
+dim(E) =3
+
+alka
+
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper afca211a065a
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
+- Text: mixed (24 pages), mean OCR confidence 44.3
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 24 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+********** 1 **********
+--- page 2 ---
+BTech /MBA Tech CAN Stream)
+
+es) Sem Tr — LADE
+ayLet A- Wie -14
+
+2 ee 4
+
+' 2 3 4
+
+-1 -2 6
+
+To Reduce qo $ow- echelon fo3m
+Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
+
+t 2 -\4
+
+Oo oO Y5\-4
+
+0 D2 40
+0 oO 5-3
+
+Ra>Rs ~ ER } Ra, > Ran Ra
+
+~~
+~
+
+—_—— £1)
+
+|
+= ‘2 -\4
+0 Oo Ss -§
+0 0 0 Ms
+oo 0 VJ
+Rs >Pax S16, Ry > Run Ps
+= \ 29 -\ 4
+o Oo Sct gn
+0 oOo °° \
+© O oO O |
+
+e(A) => ane)
+
+FIC 2 I HH ar
+--- page 3 ---
+c=(1)1) ‘ p=(% 0)
+many
+(00?
+( yA | BCI?)
+00
+a) Tl) = Cx, 24) |
+T(00) = (0,0)=A ; TCt,e Os 8
+Tih= (Dee + 0,2 ©) =
+sO)
+_—(2)
+coi)” C
+coo ® (119)
+
+Square teanktoams bo
+
+TAL tomole amd
+
+2/24
+
+AR RK 3 RK
+--- page 4 ---
+c)
+
+aiven
+
+x+
+=C
+DIFF aed ix!
+\+ a2dy = |
+Ax =e
+
+dy 2
+ax OE
+Fo 0) j
+Ay Zk
+ab
+On colving-
+oy = oa dx
+gdy= 2 S4*
+
+Ya 270 +c
+
+ox yre = 0
+
+—t!)
+--- page 5 ---
+a)
+
+Given io» "Chapa J =O
+Let £Cp)= (p-2) (x21 =O
+Consider auxi\lay 247
+Cm 2) CaP ares) = © _
+M=2;2,% | me(itt) (peice) —O
+
+Yee CF = (E+ Crp ese e+
+
+———(!
+
+E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
+--- page 6 ---
+é) GiNen L= xy - FAY)
+
+tet og =
+. Ze way - $L4)
+
+DK weet ‘9! paotally
+Oz = |-O -£u)-y
+
+- OF
+P= Oy
+
+piff wot ‘gy partially
+g2 BE = O-|- #(u)-x
+— ©O
+1
+p-1 =-f'Cuy
+q+\ = —-#CW)*
+
+-\ 5 x+\
+
+LCP) = you
+
+—O
+--- page 7 ---
+Ginen
+Axe O
+Az } 2 2
+2 3 \f-
+ag s4
+ee ie
+
+\ Ww 3
+
+o -\ ~s
+
+o -3 ~&
+_| a
+
+FR RK
+
+FR CK
+
+—O)
+--- page 8 ---
+
+td. basic of K ae:
+eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
+
+Cpe, 2) = G, °) 3)
+Tle,40) = (0,1, - __— @
+(0, 0,1) = C-2,0, © '
+
+Mat x arsotatad with T
+
+My, =+=/(% O -2
+D0 \ 6 _—
+> Gq ©O
+
+\M\= 6 £0 —A
+oT fs tnvertiable |
+
+T Curse = (x yz) ___—_(2)
+Cay, = (uw .
+
+On , Solving
+--- page 9 ---
+oO 4a )y 2 Seco)
+
+m,,M2 = Oso
++ C2SiINQ 4
+
+Pe cinax ——_)
+
+an *
+Lon qr= Cos ,
+
+Let PI = bYtVyr —
+We] Yt val Cos ak — SINAK
+[4 gi \F festron ae
+
+= QO
+1 _lea(cosax) ———O
+ar
+
+_
+
+_
+
+wana ©
+os Jape oe -
+
+og Ccesax) + 4 enor = 0
+
+_ ax |
+
+es = Ch + PL
+
+= cocant SING + _O
+5 Nar
+
+1 Cosa [gCasan) +1
+ae
+
+Q/>4
+
+FIC QF OH ar
+--- page 10 ---
+6a Wa? Cuyd ef. [ox —y+3% sof .
+” pet Us CDE) ay 4 Foz=0 { 9
+ao
+
+—Ua4+-3Z0=
+Y= Cay, zee, 22-3
+
+Jo prove ——)
+au+ bY Ew
+Contidev ab (%, y, |Z2)
+= CeiY, 7!
+ausrbye = 40"! a+b) —O)
+
+an +be, ay ry.)
+
+_
+_
+
+Now, .
+» Carr +b) — Gyrbys) + 3Can O%
+
+0
+= a Cex) 437, .) + b (2x2-Yst 322)
+ra) &: form oO _—{()
+
+autrbs €W -
+
+- W ¥s Subspace. . _ 4
+
+DR ROR RK 10 FRR KRHA
+--- page 11 ---
+A= 2 Oo —-\
+O 2 (0)
+-| Oo 2
+
+Consider chy ©,
+la~ At) = O
+XM —EN+4NA- 6 =O
+o_o —O
+
+—
+
+A- ON +NVA- OCT =
+To vew Fy cH +heovem
+
+
+= (g) oO oO
+Oo eo 0 —@®
+oO oO
+
+To Fmd A 4
+Poe multiply ea O va A
+
+N—-GA+TIND -6Kk' =
+“Ns fe o Ys ——
+oe) Vo oO
+V2, e) >a
+At GArF+ WAX —ECR= O
+o Ata Ale 6 -4
+O 16 Oo
+“to 9 a 24
+1
+
+To fad wt , mul ply eq © by A
+
+1
+--- page 12 ---
+?
+
+let the Solutron he
+2 aa
+y- Eo
+
+Ad
+1 = S Ok. koe
+el _
+y" _ a (erm Kk) x
+\jer2
+
+{| a
+Q,=>0 > Qs a
+Que OW = EO
+
+A= O
+2. | naa 7 os
+
++ Ox— 14
+Oo ce 1g {20
+
+\2/ 2a
+
+FRR ICR] DA KH
+
+e+ atts:
+--- page 13 ---
+€APY — pCp-1) Co-2)
+aad
+
+“HO a
+ad CF
+Te od GF ouxillasg 25,
+kCp= D+2D —2D= O
+
+--|iVN3 ; D=°
+B= —! C-teNG) 2
+
+(-1 “D2
+
+~W =z A+ Ge +G€
+
+To Find 4
+qez PLl= za [a D'+2D 5-2)
+7 =[ D4 nD Paagoel
+
+FR RK
+
+FR CK
+
+_—O®
+
+—®D
+
+oO
+--- page 14 ---
+b) an |
+{ 2 6
+~ Oo 2
+
+Conside, chor eq, JAA] =0
+XEN + 8A= 0
+=x r= Oo, 2, 4
+Eigen walues ave 0,24"
+To Pood eigen vectors
+fos X= O
+(A- XT)A=O
+A X= O
+Fos a
+(A aK
+=| 9
+2
+|
+
+X = 2
+—\
+}
+--- page 15 ---
+© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
+Consider AUr+ Ce Ur + Cau, = ©
+A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
+20,+ 2O.+ 2a, = 0
+
+—a, + 6 Os + 10d =O
+Hd, +202 + C)ds = ©
+
+-)]2 1c) =
+[D)= | ¢ iol = 12 FO-
+
+q 2 +
+
+ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
+
+Consider
+CyB + Co Ue + C21 = oO
+
+e601 ,3,3) tea COrl +476 D074 0)
+
+C+ 0C2 $503 = O
+BC, + C2 TOS =O
+
+acy +402 +303 = ©
+S
+- \ 12)
+Ip |z _ 6 |= o4d£o-
+3 4 3
+
+-. Uy, We Vo OL Wineocs}y independ ent .
+
+/ 24
+
+FRR IC 7 DA HOH
+--- page 16 ---
+pat d=
+
+(6% — apreng=e
+
+Consider cur xi | losy 21)
+De nan =O
+D= 2, |
+
+CF = Yer cre %4 GE”
+
+PL 2D
+= ae es é* .
+[Gao
+
+= xf J |e
+
+2D-3
+
+pea
+= re
+
+oye ote
+
+re
+= Kner € a CE
+
+16/o4
+
+FRR ICR 7 6 AC OH
+--- page 17 ---
+b)
+
+_
+(e+) COSX Ax +eC€ stax Ay = fo)
+12)
+mM = (E41) cos x tN se sinx
+
+y
+aN - ecosx } AN ~e osx
+oY Ox
+. = aN
+
+a Equorion is exact .
+The jengrot sol”
+
+SM ax + KNdy =e
+Cy constant) CAree of >)
+
+(e+) sox = C
+
+oo
+
+FRR ICR] AC OH
+
+—
+
+_—-@
+
+——O
+--- page 18 ---
+C) CONF Cay, DER /x+2y-z20t
+
+Z= 24400
+
+We? (xy, ogra /my ers
+
+=F xC\,0, D+¥ Corl, D /my oR] —2
+
+
+Span of p —__—_ff)
+—. \) fs basis: —_
+ain (Ww) = 2
+
+
+= £ G_,+:5t) JER.
+$4 (2), D [FERS
+
+VU Ys \ineo\ independent omd {i
+Span of- >,
+
+o. Mis basis - :
+ainW = 4 —0)
+
+8/ am
+
+DR ROR RK 1Q FH
+--- page 19 ---
+8) y sy
+
+Q) Gora , =e J/ge=e
+
+On”
+cha —-Z2O
+Cx”
+(oO z= O
+
+let ca € then m= ),-]
+zo C(O 4Qn =e
+ae
+
+QRH Ue -— Ae
+Ox ;
+
+)
+2S OY ZH e€
+
+Za=- CitCr
+e = Oo +Cr
+
+c= Coshy |) cy eatohy
+
+zee ceshy — ersinhy
+
+19/0
+
+FRR ICR 7 QI OR
+--- page 20 ---
+C4) aut p= et
+dt
+
+do + Jt=*
+
+ot (tH)
+~ J. ; 6)=t
+PCE) ay /
+At
+TRE = om = ee +41
+
+TCHiy= § Cen) +¢
+
+ICH) = #2 4+ 4¢
+3 Q-
+
+DR ROR RK 20 FRR HK RK
+--- page 21 ---
+> oo rn
+oa { -&
+~| 2.0
+
+To fnd agen Value
+Considee (A-At] =o
+AP LN 2) NSUS =O
+N= 3-3 F
+To #md etyen vector
+
+\ = -3,-3
+(A+8T)X=0
+
+“E
+
+fos X= 2
+AM= 2} GMs 2
+
+for Aa ST
+ame #1; GM=!
+
+A $s cla nalixable ° a
+M such wan = D
+
+%
+vo hore
+M = 2? x2 -} \ De —3 iw) ®
+
+to -2{ ” Oo 30
+
+Oo \ \ o 0 SF
+
+FI ICR D7 FAC HOH
+
+—O
+--- page 22 ---
+QF) (B—ap+3 )y - jos ax —O
+ND eCp= papas
+
+Puxillomy eq? 465) =o
+
+D= Brie
+Q
+
+CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
+
+To Find PL
+Assume y= A eiaronc-+ Bcos mx
+
+= ASn2x + BCOSSH
+Dy = 3A cosax — 2psin3x
+
+Oy = —F Asn3ax — AB Cos. Bac
+Sub In eg WO and Solving Fry ABB
+
+A= -£$ :; B= 2
+IB 7 3
+
+*-fp 2 Sfodx + 12 cos Se
+a
+
+54 t +P
+- OP ey cos (CE és >) +o S02) |
+
+_ sinea + 12 (e330
++ (-%&)* 1Z
+
+22/5 4
+
+FIR ICR DAC HH
+--- page 23 ---
+fo) Qu = au
+Daan + gy
+Assume Sol” U (x= xD) YOp= XY
+Bu = Ygx p Gu = Xdy
+
+OX
+
+L. Ax + X = 2x¥
+“y Ax 43
+
+yy -s
+Now, Uo, 4)= ae-e?
+put x= oOo & Gg
+
+Keo) eoaey
+
+ulo, oe ce
+2 Cs Cy FOr
+
+- 4) Y
+ge 6 = (e402) &
+é2.% 2 B=
+Ga-S > Keo
+
+Y ax— Sy
+
+-s U(n p)=3e" —e,
+
+DR ROR RK 23 RRR RK
+--- page 24 ---
+
+22)
+ocx -Z, z-x) 3 (ees
+= ) ,
+
+w-y=0 => x=JY
+yz =O > ze
+
+vy -X= O Zak
+=7C4,4 p J pers
+= ty) /y eR =)
+Null y= dim( e2rT ) -
+= L
+Range = 5 aes) Poe ey —
+= {1x4 [Cay DER F
+= play, y-zZ, z-x) J 4,2 ery
+= {CPrd> _p-4 / Pd EPS
+=$p Clie, -\) + 9 Cor), D/P qe —&
+Rank T = Aim C RanjeT) _6
+= 2
+pim (&) = Ranke T+ Null ity ©
+=~ OO2r \=B8 —
+dim(E) =3
+
+alka
+
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 60ff843a94a9
+
+- Departments: Data Science
+- Programmes: MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_DS_7052/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
+- Text: mixed (24 pages), mean OCR confidence 44.3
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 24 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+********** 1 **********
+--- page 2 ---
+BTech /MBA Tech CAN Stream)
+
+es) Sem Tr — LADE
+ayLet A- Wie -14
+
+2 ee 4
+
+' 2 3 4
+
+-1 -2 6
+
+To Reduce qo $ow- echelon fo3m
+Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
+
+t 2 -\4
+
+Oo oO Y5\-4
+
+0 D2 40
+0 oO 5-3
+
+Ra>Rs ~ ER } Ra, > Ran Ra
+
+~~
+~
+
+—_—— £1)
+
+|
+= ‘2 -\4
+0 Oo Ss -§
+0 0 0 Ms
+oo 0 VJ
+Rs >Pax S16, Ry > Run Ps
+= \ 29 -\ 4
+o Oo Sct gn
+0 oOo °° \
+© O oO O |
+
+e(A) => ane)
+
+FIC 2 I HH ar
+--- page 3 ---
+c=(1)1) ‘ p=(% 0)
+many
+(00?
+( yA | BCI?)
+00
+a) Tl) = Cx, 24) |
+T(00) = (0,0)=A ; TCt,e Os 8
+Tih= (Dee + 0,2 ©) =
+sO)
+_—(2)
+coi)” C
+coo ® (119)
+
+Square teanktoams bo
+
+TAL tomole amd
+
+2/24
+
+AR RK 3 RK
+--- page 4 ---
+c)
+
+aiven
+
+x+
+=C
+DIFF aed ix!
+\+ a2dy = |
+Ax =e
+
+dy 2
+ax OE
+Fo 0) j
+Ay Zk
+ab
+On colving-
+oy = oa dx
+gdy= 2 S4*
+
+Ya 270 +c
+
+ox yre = 0
+
+—t!)
+--- page 5 ---
+a)
+
+Given io» "Chapa J =O
+Let £Cp)= (p-2) (x21 =O
+Consider auxi\lay 247
+Cm 2) CaP ares) = © _
+M=2;2,% | me(itt) (peice) —O
+
+Yee CF = (E+ Crp ese e+
+
+———(!
+
+E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
+--- page 6 ---
+é) GiNen L= xy - FAY)
+
+tet og =
+. Ze way - $L4)
+
+DK weet ‘9! paotally
+Oz = |-O -£u)-y
+
+- OF
+P= Oy
+
+piff wot ‘gy partially
+g2 BE = O-|- #(u)-x
+— ©O
+1
+p-1 =-f'Cuy
+q+\ = —-#CW)*
+
+-\ 5 x+\
+
+LCP) = you
+
+—O
+--- page 7 ---
+Ginen
+Axe O
+Az } 2 2
+2 3 \f-
+ag s4
+ee ie
+
+\ Ww 3
+
+o -\ ~s
+
+o -3 ~&
+_| a
+
+FR RK
+
+FR CK
+
+—O)
+--- page 8 ---
+
+td. basic of K ae:
+eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
+
+Cpe, 2) = G, °) 3)
+Tle,40) = (0,1, - __— @
+(0, 0,1) = C-2,0, © '
+
+Mat x arsotatad with T
+
+My, =+=/(% O -2
+D0 \ 6 _—
+> Gq ©O
+
+\M\= 6 £0 —A
+oT fs tnvertiable |
+
+T Curse = (x yz) ___—_(2)
+Cay, = (uw .
+
+On , Solving
+--- page 9 ---
+oO 4a )y 2 Seco)
+
+m,,M2 = Oso
++ C2SiINQ 4
+
+Pe cinax ——_)
+
+an *
+Lon qr= Cos ,
+
+Let PI = bYtVyr —
+We] Yt val Cos ak — SINAK
+[4 gi \F festron ae
+
+= QO
+1 _lea(cosax) ———O
+ar
+
+_
+
+_
+
+wana ©
+os Jape oe -
+
+og Ccesax) + 4 enor = 0
+
+_ ax |
+
+es = Ch + PL
+
+= cocant SING + _O
+5 Nar
+
+1 Cosa [gCasan) +1
+ae
+
+Q/>4
+
+FIC QF OH ar
+--- page 10 ---
+6a Wa? Cuyd ef. [ox —y+3% sof .
+” pet Us CDE) ay 4 Foz=0 { 9
+ao
+
+—Ua4+-3Z0=
+Y= Cay, zee, 22-3
+
+Jo prove ——)
+au+ bY Ew
+Contidev ab (%, y, |Z2)
+= CeiY, 7!
+ausrbye = 40"! a+b) —O)
+
+an +be, ay ry.)
+
+_
+_
+
+Now, .
+» Carr +b) — Gyrbys) + 3Can O%
+
+0
+= a Cex) 437, .) + b (2x2-Yst 322)
+ra) &: form oO _—{()
+
+autrbs €W -
+
+- W ¥s Subspace. . _ 4
+
+DR ROR RK 10 FRR KRHA
+--- page 11 ---
+A= 2 Oo —-\
+O 2 (0)
+-| Oo 2
+
+Consider chy ©,
+la~ At) = O
+XM —EN+4NA- 6 =O
+o_o —O
+
+—
+
+A- ON +NVA- OCT =
+To vew Fy cH +heovem
+
+
+= (g) oO oO
+Oo eo 0 —@®
+oO oO
+
+To Fmd A 4
+Poe multiply ea O va A
+
+N—-GA+TIND -6Kk' =
+“Ns fe o Ys ——
+oe) Vo oO
+V2, e) >a
+At GArF+ WAX —ECR= O
+o Ata Ale 6 -4
+O 16 Oo
+“to 9 a 24
+1
+
+To fad wt , mul ply eq © by A
+
+1
+--- page 12 ---
+?
+
+let the Solutron he
+2 aa
+y- Eo
+
+Ad
+1 = S Ok. koe
+el _
+y" _ a (erm Kk) x
+\jer2
+
+{| a
+Q,=>0 > Qs a
+Que OW = EO
+
+A= O
+2. | naa 7 os
+
++ Ox— 14
+Oo ce 1g {20
+
+\2/ 2a
+
+FRR ICR] DA KH
+
+e+ atts:
+--- page 13 ---
+€APY — pCp-1) Co-2)
+aad
+
+“HO a
+ad CF
+Te od GF ouxillasg 25,
+kCp= D+2D —2D= O
+
+--|iVN3 ; D=°
+B= —! C-teNG) 2
+
+(-1 “D2
+
+~W =z A+ Ge +G€
+
+To Find 4
+qez PLl= za [a D'+2D 5-2)
+7 =[ D4 nD Paagoel
+
+FR RK
+
+FR CK
+
+_—O®
+
+—®D
+
+oO
+--- page 14 ---
+b) an |
+{ 2 6
+~ Oo 2
+
+Conside, chor eq, JAA] =0
+XEN + 8A= 0
+=x r= Oo, 2, 4
+Eigen walues ave 0,24"
+To Pood eigen vectors
+fos X= O
+(A- XT)A=O
+A X= O
+Fos a
+(A aK
+=| 9
+2
+|
+
+X = 2
+—\
+}
+--- page 15 ---
+© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
+Consider AUr+ Ce Ur + Cau, = ©
+A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
+20,+ 2O.+ 2a, = 0
+
+—a, + 6 Os + 10d =O
+Hd, +202 + C)ds = ©
+
+-)]2 1c) =
+[D)= | ¢ iol = 12 FO-
+
+q 2 +
+
+ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
+
+Consider
+CyB + Co Ue + C21 = oO
+
+e601 ,3,3) tea COrl +476 D074 0)
+
+C+ 0C2 $503 = O
+BC, + C2 TOS =O
+
+acy +402 +303 = ©
+S
+- \ 12)
+Ip |z _ 6 |= o4d£o-
+3 4 3
+
+-. Uy, We Vo OL Wineocs}y independ ent .
+
+/ 24
+
+FRR IC 7 DA HOH
+--- page 16 ---
+pat d=
+
+(6% — apreng=e
+
+Consider cur xi | losy 21)
+De nan =O
+D= 2, |
+
+CF = Yer cre %4 GE”
+
+PL 2D
+= ae es é* .
+[Gao
+
+= xf J |e
+
+2D-3
+
+pea
+= re
+
+oye ote
+
+re
+= Kner € a CE
+
+16/o4
+
+FRR ICR 7 6 AC OH
+--- page 17 ---
+b)
+
+_
+(e+) COSX Ax +eC€ stax Ay = fo)
+12)
+mM = (E41) cos x tN se sinx
+
+y
+aN - ecosx } AN ~e osx
+oY Ox
+. = aN
+
+a Equorion is exact .
+The jengrot sol”
+
+SM ax + KNdy =e
+Cy constant) CAree of >)
+
+(e+) sox = C
+
+oo
+
+FRR ICR] AC OH
+
+—
+
+_—-@
+
+——O
+--- page 18 ---
+C) CONF Cay, DER /x+2y-z20t
+
+Z= 24400
+
+We? (xy, ogra /my ers
+
+=F xC\,0, D+¥ Corl, D /my oR] —2
+
+
+Span of p —__—_ff)
+—. \) fs basis: —_
+ain (Ww) = 2
+
+
+= £ G_,+:5t) JER.
+$4 (2), D [FERS
+
+VU Ys \ineo\ independent omd {i
+Span of- >,
+
+o. Mis basis - :
+ainW = 4 —0)
+
+8/ am
+
+DR ROR RK 1Q FH
+--- page 19 ---
+8) y sy
+
+Q) Gora , =e J/ge=e
+
+On”
+cha —-Z2O
+Cx”
+(oO z= O
+
+let ca € then m= ),-]
+zo C(O 4Qn =e
+ae
+
+QRH Ue -— Ae
+Ox ;
+
+)
+2S OY ZH e€
+
+Za=- CitCr
+e = Oo +Cr
+
+c= Coshy |) cy eatohy
+
+zee ceshy — ersinhy
+
+19/0
+
+FRR ICR 7 QI OR
+--- page 20 ---
+C4) aut p= et
+dt
+
+do + Jt=*
+
+ot (tH)
+~ J. ; 6)=t
+PCE) ay /
+At
+TRE = om = ee +41
+
+TCHiy= § Cen) +¢
+
+ICH) = #2 4+ 4¢
+3 Q-
+
+DR ROR RK 20 FRR HK RK
+--- page 21 ---
+> oo rn
+oa { -&
+~| 2.0
+
+To fnd agen Value
+Considee (A-At] =o
+AP LN 2) NSUS =O
+N= 3-3 F
+To #md etyen vector
+
+\ = -3,-3
+(A+8T)X=0
+
+“E
+
+fos X= 2
+AM= 2} GMs 2
+
+for Aa ST
+ame #1; GM=!
+
+A $s cla nalixable ° a
+M such wan = D
+
+%
+vo hore
+M = 2? x2 -} \ De —3 iw) ®
+
+to -2{ ” Oo 30
+
+Oo \ \ o 0 SF
+
+FI ICR D7 FAC HOH
+
+—O
+--- page 22 ---
+QF) (B—ap+3 )y - jos ax —O
+ND eCp= papas
+
+Puxillomy eq? 465) =o
+
+D= Brie
+Q
+
+CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
+
+To Find PL
+Assume y= A eiaronc-+ Bcos mx
+
+= ASn2x + BCOSSH
+Dy = 3A cosax — 2psin3x
+
+Oy = —F Asn3ax — AB Cos. Bac
+Sub In eg WO and Solving Fry ABB
+
+A= -£$ :; B= 2
+IB 7 3
+
+*-fp 2 Sfodx + 12 cos Se
+a
+
+54 t +P
+- OP ey cos (CE és >) +o S02) |
+
+_ sinea + 12 (e330
++ (-%&)* 1Z
+
+22/5 4
+
+FIR ICR DAC HH
+--- page 23 ---
+fo) Qu = au
+Daan + gy
+Assume Sol” U (x= xD) YOp= XY
+Bu = Ygx p Gu = Xdy
+
+OX
+
+L. Ax + X = 2x¥
+“y Ax 43
+
+yy -s
+Now, Uo, 4)= ae-e?
+put x= oOo & Gg
+
+Keo) eoaey
+
+ulo, oe ce
+2 Cs Cy FOr
+
+- 4) Y
+ge 6 = (e402) &
+é2.% 2 B=
+Ga-S > Keo
+
+Y ax— Sy
+
+-s U(n p)=3e" —e,
+
+DR ROR RK 23 RRR RK
+--- page 24 ---
+
+22)
+ocx -Z, z-x) 3 (ees
+= ) ,
+
+w-y=0 => x=JY
+yz =O > ze
+
+vy -X= O Zak
+=7C4,4 p J pers
+= ty) /y eR =)
+Null y= dim( e2rT ) -
+= L
+Range = 5 aes) Poe ey —
+= {1x4 [Cay DER F
+= play, y-zZ, z-x) J 4,2 ery
+= {CPrd> _p-4 / Pd EPS
+=$p Clie, -\) + 9 Cor), D/P qe —&
+Rank T = Aim C RanjeT) _6
+= 2
+pim (&) = Ranke T+ Null ity ©
+=~ OO2r \=B8 —
+dim(E) =3
+
+alka
+
+````
+
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 76a670188ed3
 
 - Departments: AI and Data Science
@@ -6630,6 +10686,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_AIDS_7056/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6933,9 +10991,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -7057,7 +11113,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -7081,10 +11136,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -7143,6 +11196,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_AIML_7053/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7446,9 +11501,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -7570,7 +11623,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -7594,10 +11646,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -7656,6 +11706,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_AI_7012/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7959,9 +12011,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -8083,7 +12133,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -8107,10 +12156,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -8169,6 +12216,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_CSBS_7036/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -8472,9 +12521,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -8596,7 +12643,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -8620,10 +12666,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -8682,6 +12726,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_CSE_DS_7057/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -8985,9 +13031,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -9109,7 +13153,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -9133,10 +13176,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -9195,6 +13236,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_CS_7055/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -9498,9 +13541,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -9622,7 +13663,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -9646,10 +13686,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -9708,6 +13746,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_Civil_7005/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -10011,9 +14051,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -10135,7 +14173,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -10159,10 +14196,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -10221,6 +14256,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_CyberSecurity_7010/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -10524,9 +14561,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -10648,7 +14683,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -10672,10 +14706,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -10734,6 +14766,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_DS_7009/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -11037,9 +15071,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -11161,7 +15193,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -11185,10 +15216,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -11247,6 +15276,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_EXTC_7006/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -11550,9 +15581,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -11674,7 +15703,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -11698,10 +15726,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -11760,6 +15786,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_Mechanical_7003/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -12063,9 +16091,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -12187,7 +16213,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -12211,10 +16236,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -12273,6 +16296,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_Mechatronics_7004/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -12576,9 +16601,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -12700,7 +16723,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -12724,10 +16746,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -12786,6 +16806,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_AI_7051/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -13089,9 +17111,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -13213,7 +17233,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -13237,10 +17256,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -13299,6 +17316,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 June 2026
 - Text: mixed (18 pages), mean OCR confidence 51.3
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -13354,7 +17373,6 @@ TCH -3)= C1, 14) OY
 Solve: R ay?) -
 ( Yorn t om) dat (sre 34 4 ad
 R 2
-Pls qoant2% 5 N= Amn FoI
 cimy
 aM= CoA 5 OH = Coan Cimy
 “OH ar
@@ -13745,7 +17763,6 @@ SO-2; the relation between P and V.
 
 BL-High
 
-(2 vay? ) dp + (e+ PV) Av =o
 M= 2PVtV>_ N= ps 2PV Q mare)
 
 OM = 29042V = oN
@@ -13754,7 +17771,6 @@ oY OP
 Exacr DU. (a mares)
 
 gavwicy 1S
-Jers dare (eave Geni
 
 pv + Ni Cc
 
@@ -13816,6 +17832,8 @@ FRR 7 Q RR RR RK
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026_63c8c3aea4.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -14119,9 +18137,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -14243,7 +18259,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -14267,10 +18282,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -14336,6 +18349,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_DS_7052/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 54.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -14639,9 +18654,7 @@ SM Gaye a4" 2. = -47 +>
 an oy_ a Grae
 39 me mek: Ce wars
 ‘ ae, wer ay : =
-The swe onions of Asqrer :
 >’ oC
-Perica ald KowMs ara wom")
 \
 - —_)— = aE
 Ee aay i, Sy
@@ -14763,7 +18776,6 @@ be AZ), AM= GMs 2 =
 
 for AZ3 Bus GM=)
 A 3S Ajo nalicable :
-yt ouch thet MIAM=D ahve
 
 MeFi ond D=/1 °°
 \ 0 ) os | ° —©
@@ -14787,10 +18799,8 @@ DM = 2942V = ON
 ECxacr DE. (a martes)
 
 cawricn 16
-J@evi dare (eave Gwnidy
 pv+ =
 
-Rv C P +V) = Cc ¢ q_nawyed
 
 CO-5; (b) | Solve by the method of separation of variables [6]
 SO-2; Ou Ou
@@ -14849,6 +18859,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/Integrated_Computer_7032/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: mixed (17 pages), mean OCR confidence 47.1
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -14885,7 +18897,6 @@ De) nara S| ot
 cos2n + sino)
 
 KH pir:
-Yaya Cet Gwes Cegntyde + & (es
 
 (c) c) yee = aay a
 
@@ -14917,7 +18928,6 @@ For h=l — 1-3412=-3 — A)
 For K= 4 > uy - 1-104
 > (4) ae ee oO
 
-RARER RERE 2 RRR KEE
 --- page 3 ---
 " [4]
 
@@ -14991,13 +19001,11 @@ Mater jorre
 3-2 8 Hip pe
 4-2 és) % od
 
-A x -c B —_— (e 1)
 if | fe. af
 [aiel- lS 2 3 al
 ae ~ egie FS
 t
 ~ fp -Bs Rhs ' ~ 10-8 &
-R Oo -3¢ &F it fa) ,
 garele oh 5 algnst
 gorse
 r ~ 2 < no: of bnorrs
@@ -15141,13 +19149,11 @@ Sy
 !
 
 - 6 4 15
-Qs he Bo -1 [ws 3 @ as
 at 5 mi Rk oe i
 
 CO-1; SO-1; ' a
 BL- Low
 ps ! 1 5 /
-1 o wis te nw o 3 Q
 Ya) 6é 4 oO fo) o .
 °olU6UW A 0 Oo °4 fo1)
 oe) F O-
@@ -15375,7 +19381,6 @@ e (i 24,43) 7 (ujt2 9,75.)
 -otO =,2. —(©2)
 a) Utve Sis
 Cu = (E.™, cy, co)
-ding 4 ety t a, = cf mt 24 bf
 fideo F 2
 
 ——, cu é S 3 (0)
@@ -15434,6 +19439,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/Integrated_DS_7038/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: mixed (17 pages), mean OCR confidence 47.1
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -15470,7 +19477,6 @@ De) nara S| ot
 cos2n + sino)
 
 KH pir:
-Yaya Cet Gwes Cegntyde + & (es
 
 (c) c) yee = aay a
 
@@ -15502,7 +19508,6 @@ For h=l — 1-3412=-3 — A)
 For K= 4 > uy - 1-104
 > (4) ae ee oO
 
-RARER RERE 2 RRR KEE
 --- page 3 ---
 " [4]
 
@@ -15576,13 +19581,11 @@ Mater jorre
 3-2 8 Hip pe
 4-2 és) % od
 
-A x -c B —_— (e 1)
 if | fe. af
 [aiel- lS 2 3 al
 ae ~ egie FS
 t
 ~ fp -Bs Rhs ' ~ 10-8 &
-R Oo -3¢ &F it fa) ,
 garele oh 5 algnst
 gorse
 r ~ 2 < no: of bnorrs
@@ -15726,13 +19729,11 @@ Sy
 !
 
 - 6 4 15
-Qs he Bo -1 [ws 3 @ as
 at 5 mi Rk oe i
 
 CO-1; SO-1; ' a
 BL- Low
 ps ! 1 5 /
-1 o wis te nw o 3 Q
 Ya) 6é 4 oO fo) o .
 °olU6UW A 0 Oo °4 fo1)
 oe) F O-
@@ -15960,7 +19961,6 @@ e (i 24,43) 7 (ujt2 9,75.)
 -otO =,2. —(©2)
 a) Utve Sis
 Cu = (E.™, cy, co)
-ding 4 ety t a, = cf mt 24 bf
 fideo F 2
 
 ——, cu é S 3 (0)
@@ -16019,6 +20019,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/Integrated_IT_7037/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: mixed (17 pages), mean OCR confidence 47.1
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -16055,7 +20057,6 @@ De) nara S| ot
 cos2n + sino)
 
 KH pir:
-Yaya Cet Gwes Cegntyde + & (es
 
 (c) c) yee = aay a
 
@@ -16087,7 +20088,6 @@ For h=l — 1-3412=-3 — A)
 For K= 4 > uy - 1-104
 > (4) ae ee oO
 
-RARER RERE 2 RRR KEE
 --- page 3 ---
 " [4]
 
@@ -16161,13 +20161,11 @@ Mater jorre
 3-2 8 Hip pe
 4-2 és) % od
 
-A x -c B —_— (e 1)
 if | fe. af
 [aiel- lS 2 3 al
 ae ~ egie FS
 t
 ~ fp -Bs Rhs ' ~ 10-8 &
-R Oo -3¢ &F it fa) ,
 garele oh 5 algnst
 gorse
 r ~ 2 < no: of bnorrs
@@ -16311,13 +20309,11 @@ Sy
 !
 
 - 6 4 15
-Qs he Bo -1 [ws 3 @ as
 at 5 mi Rk oe i
 
 CO-1; SO-1; ' a
 BL- Low
 ps ! 1 5 /
-1 o wis te nw o 3 Q
 Ya) 6é 4 oO fo) o .
 °olU6UW A 0 Oo °4 fo1)
 oe) F O-
@@ -16545,7 +20541,6 @@ e (i 24,43) 7 (ujt2 9,75.)
 -otO =,2. —(©2)
 a) Utve Sis
 Cu = (E.™, cy, co)
-ding 4 ety t a, = cf mt 24 bf
 fideo F 2
 
 ——, cu é S 3 (0)
@@ -16604,6 +20599,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/Integrated_Mechanical_7031/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: mixed (17 pages), mean OCR confidence 47.4
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -16640,7 +20637,6 @@ De) nara S| ot
 cos2n + sino)
 
 KH pir:
-Yaya Cet Gwes Cegntyde + & (es
 
 (c) c) yee = aay a
 
@@ -16672,7 +20668,6 @@ For h=l — 1-3412=-3 — A)
 For K= 4 > uy - 1-104
 > (4) ae ee oO
 
-RARER RERE 2 RRR KEE
 --- page 3 ---
 8 4
 ° Wave eguation es Qu = ou —o® [4]
@@ -16880,7 +20875,6 @@ Zz 5 a ROR x ; if
 CO-1; SO-1; ! a
 BL- Low
 pa ees ts poe
-ie Oo ts tO aw fe) 3 2
 Ya) 6é 4 Oo fo) fo} .
 °°. lU6UCA oO °5 foi)
 Bea 0:3
@@ -17167,6 +21161,8 @@ FRR ICR] AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_AIDS_7056/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -17236,7 +21232,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -17270,7 +21265,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -17280,8 +21274,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -17379,14 +21371,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -17409,7 +21399,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -17461,7 +21450,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -17577,7 +21565,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -17674,7 +21661,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -17704,7 +21690,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -17712,7 +21697,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -17734,7 +21718,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -17750,6 +21733,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_AIML_7053/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -17819,7 +21804,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -17853,7 +21837,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -17863,8 +21846,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -17962,14 +21943,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -17992,7 +21971,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -18044,7 +22022,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -18160,7 +22137,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -18257,7 +22233,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -18287,7 +22262,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -18295,7 +22269,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -18317,7 +22290,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -18333,6 +22305,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_AI_7012/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -18402,7 +22376,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -18436,7 +22409,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -18446,8 +22418,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -18545,14 +22515,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -18575,7 +22543,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -18627,7 +22594,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -18743,7 +22709,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -18840,7 +22805,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -18870,7 +22834,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -18878,7 +22841,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -18900,7 +22862,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -18916,6 +22877,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CSE_DS_7057/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -18985,7 +22948,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -19019,7 +22981,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -19029,8 +22990,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -19128,14 +23087,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -19158,7 +23115,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -19210,7 +23166,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -19326,7 +23281,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -19423,7 +23377,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -19453,7 +23406,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -19461,7 +23413,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -19483,7 +23434,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -19499,6 +23449,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CS_7055/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -19568,7 +23520,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -19602,7 +23553,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -19612,8 +23562,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -19711,14 +23659,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -19741,7 +23687,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -19793,7 +23738,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -19909,7 +23853,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -20006,7 +23949,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -20036,7 +23978,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -20044,7 +23985,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -20066,7 +24006,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -20082,6 +24021,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_Civil_7005/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -20151,7 +24092,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -20185,7 +24125,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -20195,8 +24134,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -20294,14 +24231,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -20324,7 +24259,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -20376,7 +24310,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -20492,7 +24425,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -20589,7 +24521,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -20619,7 +24550,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -20627,7 +24557,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -20649,7 +24578,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -20665,6 +24593,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_Computer_7002/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -20734,7 +24664,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -20768,7 +24697,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -20778,8 +24706,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -20877,14 +24803,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -20907,7 +24831,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -20959,7 +24882,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -21075,7 +24997,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -21172,7 +25093,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -21202,7 +25122,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -21210,7 +25129,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -21232,7 +25150,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -21248,6 +25165,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CyberSecurity_7010/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -21317,7 +25236,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -21351,7 +25269,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -21361,8 +25278,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -21460,14 +25375,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -21490,7 +25403,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -21542,7 +25454,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -21658,7 +25569,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -21755,7 +25665,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -21785,7 +25694,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -21793,7 +25701,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -21815,7 +25722,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -21831,6 +25737,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_DS_7009/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -21900,7 +25808,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -21934,7 +25841,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -21944,8 +25850,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -22043,14 +25947,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -22073,7 +25975,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -22125,7 +26026,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -22241,7 +26141,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -22338,7 +26237,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -22368,7 +26266,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -22376,7 +26273,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -22398,7 +26294,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -22414,6 +26309,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_EXTC_7006/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -22483,7 +26380,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -22517,7 +26413,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -22527,8 +26422,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -22626,14 +26519,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -22656,7 +26547,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -22708,7 +26598,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -22824,7 +26713,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -22921,7 +26809,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -22951,7 +26838,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -22959,7 +26845,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -22981,7 +26866,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -22997,6 +26881,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_Mechanical_7003/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -23066,7 +26952,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -23100,7 +26985,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -23110,8 +26994,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -23209,14 +27091,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -23239,7 +27119,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -23291,7 +27170,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -23407,7 +27285,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -23504,7 +27381,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -23534,7 +27410,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -23542,7 +27417,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -23564,7 +27438,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -23580,6 +27453,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_Mechatronics_7004/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -23649,7 +27524,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -23683,7 +27557,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -23693,8 +27566,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -23792,14 +27663,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -23822,7 +27691,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -23874,7 +27742,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -23990,7 +27857,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -24087,7 +27953,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -24117,7 +27982,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -24125,7 +27989,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -24147,7 +28010,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -24163,6 +28025,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/MBATech_AI_7051/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -24232,7 +28096,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -24266,7 +28129,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -24276,8 +28138,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -24375,14 +28235,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -24405,7 +28263,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -24457,7 +28314,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -24573,7 +28429,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -24670,7 +28525,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -24700,7 +28554,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -24708,7 +28561,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -24730,7 +28582,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -24746,6 +28597,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -24815,7 +28668,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -24849,7 +28701,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -24859,8 +28710,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -24958,14 +28807,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -24988,7 +28835,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -25040,7 +28886,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -25156,7 +29001,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -25253,7 +29097,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -25283,7 +29126,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -25291,7 +29133,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -25313,7 +29154,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -25329,6 +29169,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/MBATech_DS_7052/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -25398,7 +29240,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -25432,7 +29273,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -25442,8 +29282,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -25541,14 +29379,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -25571,7 +29407,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -25623,7 +29458,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -25739,7 +29573,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -25836,7 +29669,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -25866,7 +29698,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -25874,7 +29705,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -25896,7 +29726,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -25912,6 +29741,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/MBATech_IT_7041/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
 - Text: mixed (19 pages), mean OCR confidence 44.2
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -25981,7 +29812,6 @@ Ze pee e ad: OM)
 
 Lek me =u
 Z= xrat se) Ss (tbat)
-Aff: wore porte La porate 32S
 CO-5; SO-1;BL-2 az pe ba f'cudey —— (i mrt] [4]
 
 ' —— Dork
@@ -26015,7 +29845,6 @@ Q3.   a. Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the s
 ********** 5 **********
 --- page 6 ---
 CO-4; SO-1; BL-
-3 Show Hyak Weta Y,2) /arrbys cz 20}
 
 hs He Susp of vectee space gi.
 
@@ -26025,8 +29854,6 @@ Ler Wstm, Yi, 2) , Vo (2,92, 2D Ew
 , Atrbyt Ch =O ® AAg> LY_* CZL=O —ti)
 
 3
-LR Cy fa cr, vi, weW @)
-Constde ave esq CH, Y1, TIF CA, Ye, 22)
 SH COAL, GY, + Ge, Q2rGe)
 
 _@®
@@ -26124,14 +29951,12 @@ Ko
 = Ae Kee 2 Ao Zia Kx te CZ “an Kocto
 
 K=O
-k, +z An: KX mz Oe KIRN, DF Oe KOED
 7 Barker pape k
 
 > E Oe te F tho (2) 28S FS ano ceo) G3) 2
 =) pel kB Kae
 Fa Z UK azo ot
 fe ge 2 2 ee.
-> BAe. + COSTS, OR RCRA $+ QK+E Ae zCKr
 & ee
 TZ, er (2) Gea RE £40 + (203% @ gz URKIDA =
 > 62 + 18ag%+ ax +z, [ar KCK) + Ane (42) + 3
@@ -26154,7 +29979,6 @@ or 20 20 Cc
 _-842-0
 ag = i 168 _ = —& ge ~ 40s .
 Bee 4s 4 a2
-Put: it bie ria. solubtour Foy
 
 y = do tr F42% 7492x4042
 
@@ -26206,7 +30030,6 @@ FIC QF OH ar
 As [: 2 3
 o 2 6
 o. Uo 2
-As A sb uppe Aivorgule- mabe x ; ub Dagon al
 element cue the tigervalues ‘ O
 
 i NE ea:
@@ -26322,7 +30145,6 @@ Dy A BLTAZ + Hy DO _
 ay C1) MHFEBGE—-HR~T%MHAO
 
 “i -dwee 22 OS)
-ZAM Aa, Ms, Xe Je CSU Me, Ma, EL, ty)
 2 BCE No=8, CO* Ag l—G ym;
 
 Z BE £516, 07,4, 219,193 Cry
@@ -26419,7 +30241,6 @@ e mC) becomes
 x. =
 * at+t ak
 —_—_ i a
-x F at at sk oy m)
 5 Xk ™
 > x + — tae they
 Joy ¢ +
@@ -26449,7 +30270,6 @@ FR ICR 7] QA HH
 --- page 19 ---
 Tw oie
 Tay 3) = 9d, Atys2d 249493)
-Range (-x) = {wew |rly)=usJ
 = {trax ER /Tlr,4,99 =CP,2,7)f
 (x43, aay tos prmry +33) =(?,2,79
 
@@ -26457,7 +30277,6 @@ Range (-x) = {wew |rly)=usJ
 naydrzpe 2
 2n4y 43327 —@
 
-.F J lel ee Th & ty
 Bi ele ela oe,
 
 1, o J] P -p-9 = sak
@@ -26479,7 +30298,6 @@ F r z| co) [: = | be obove @
 m4 3 Bw “S
 cS = nee vad =]
 ae me 4 Ipee vast - Rank-Nullity then,
-Yazro Lek 3 be Beli )e beak e Muy
 La eee 322%)
 ws omnabley F239) [HERS
 B( kate) = tr YS fence veufied . —()
@@ -26495,6 +30313,8 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2024/Sem_06/Final-Exam/Integrated_Computer_7032/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (18 pages), mean OCR confidence 45.5
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -26560,7 +30380,6 @@ ae
 
 —_—
 
-RARER RERE 2 RRR KEE
 --- page 3 ---
 (d) |, a <a) ‘ [5]
 Sitteuutiol eq? towseopondling D Ud db,
@@ -26570,13 +30389,11 @@ nw
 from Ud c= t Pur dn «2 wie gel
 2 2 Wee ya L [2
 d = & ba Ax h 2h
-CO-2; 80-1; Sifeuntial e4° wore. arategnnas Hrafectowy dy
 BL- Low dy ie an ing, ‘ 2
 d
 
 Say. [= ates a = =F C
 
-ae ope eithopoaal Frage cto ig (1
 
 (a) |. : Putting z= log x and x = e”, we get
 [D (D-1) (D —2) - D(D -1) + 2D - 2] y = e*” + 3e”
@@ -26676,7 +30493,6 @@ Ef. Veet 4 - | fa] !
 - x4 t | aud X27 [e [
 -¥ 2 02—
 
-aly: maltils spe: malt Ae!) = 3
 
 FIC DI EH ar
 --- page 6 ---
@@ -26730,7 +30546,6 @@ atht+he - 2
 que ade = Ree
 ‘ vag
 ! Spt og ! ge wat
-Re ao aft Pd Pe EY
 i Tae 0-276:
 CO-1; SO-1; poh 2 9 ES z pail _—
 BL- : (6]
@@ -26753,7 +30568,6 @@ ad Cy
 =.
 
 (a) D?-4D+3-=0 ». (D-1)(D-3)=0   D=1,3. ~ |
-“he C.F. is y= cy o% + cp ee. !
 
 pea es
 D*-4D43
@@ -26840,14 +30654,12 @@ b- we =?
 =p b-°
 =) aze—orm
 
-Te given Vectu ave Denenty
 J Cnchepec.heu(~
 
 =———eoUr
 
 FRI ICR 7 FI OH
 --- page 12 ---
-(b) Compenty coith Mdz+ Nay =O
 
 aie axy-2ay", N= 2% 20%} [2Mks] for proving non exact
 
@@ -26870,7 +30682,6 @@ ih Multiplying given DE with TF.
 . ; ie. C3x- aay) 4 (2-20Y) Jy <é
 we gxcx-ay) “Hy Cra)
 
-Moderate “. golution is Idx ys Ndy = =Cc
 Cy const.) “resms Proce fom »)
 
 (gx%-2ay)
@@ -26917,7 +30728,6 @@ RF lu 4g)= SCT uy)
 = B(3y42(2x+4) , ya reegt x)
 EC AItAY » 82494) 92
 mer wf
-Mo fe tf mer ft y
 
 — oO| —
 
@@ -26999,7 +30809,6 @@ Ox iF Cx
 — with dtel Cure ay 4 Reedy = QIK)
 
 Tt: Ptr) = , AIX) Dk ye ame)
-the oo ot WE da oe:
 * ola = olk
 20r aing ioe
 
@@ -27089,11 +30898,9 @@ Cc 1 3 ee 7
 
 = Raunt (A!8) 23 ¢
 
-mar pith umgue nes ed
 y. [2 -Bge-1 oars
 
 ws yd geo <2 977% \-O1y)
-—— He A- By 53 > x= Ws ff
 
 FR ICR 7] QA HH
 ````
@@ -27105,6 +30912,8 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Final-Exam/Integrated_DS_7038/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (18 pages), mean OCR confidence 45.5
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -27170,7 +30979,6 @@ ae
 
 —_—
 
-RARER RERE 2 RRR KEE
 --- page 3 ---
 (d) |, a <a) ‘ [5]
 Sitteuutiol eq? towseopondling D Ud db,
@@ -27180,13 +30988,11 @@ nw
 from Ud c= t Pur dn «2 wie gel
 2 2 Wee ya L [2
 d = & ba Ax h 2h
-CO-2; 80-1; Sifeuntial e4° wore. arategnnas Hrafectowy dy
 BL- Low dy ie an ing, ‘ 2
 d
 
 Say. [= ates a = =F C
 
-ae ope eithopoaal Frage cto ig (1
 
 (a) |. : Putting z= log x and x = e”, we get
 [D (D-1) (D —2) - D(D -1) + 2D - 2] y = e*” + 3e”
@@ -27286,7 +31092,6 @@ Ef. Veet 4 - | fa] !
 - x4 t | aud X27 [e [
 -¥ 2 02—
 
-aly: maltils spe: malt Ae!) = 3
 
 FIC DI EH ar
 --- page 6 ---
@@ -27340,7 +31145,6 @@ atht+he - 2
 que ade = Ree
 ‘ vag
 ! Spt og ! ge wat
-Re ao aft Pd Pe EY
 i Tae 0-276:
 CO-1; SO-1; poh 2 9 ES z pail _—
 BL- : (6]
@@ -27363,7 +31167,6 @@ ad Cy
 =.
 
 (a) D?-4D+3-=0 ». (D-1)(D-3)=0   D=1,3. ~ |
-“he C.F. is y= cy o% + cp ee. !
 
 pea es
 D*-4D43
@@ -27450,14 +31253,12 @@ b- we =?
 =p b-°
 =) aze—orm
 
-Te given Vectu ave Denenty
 J Cnchepec.heu(~
 
 =———eoUr
 
 FRI ICR 7 FI OH
 --- page 12 ---
-(b) Compenty coith Mdz+ Nay =O
 
 aie axy-2ay", N= 2% 20%} [2Mks] for proving non exact
 
@@ -27480,7 +31281,6 @@ ih Multiplying given DE with TF.
 . ; ie. C3x- aay) 4 (2-20Y) Jy <é
 we gxcx-ay) “Hy Cra)
 
-Moderate “. golution is Idx ys Ndy = =Cc
 Cy const.) “resms Proce fom »)
 
 (gx%-2ay)
@@ -27527,7 +31327,6 @@ RF lu 4g)= SCT uy)
 = B(3y42(2x+4) , ya reegt x)
 EC AItAY » 82494) 92
 mer wf
-Mo fe tf mer ft y
 
 — oO| —
 
@@ -27609,7 +31408,6 @@ Ox iF Cx
 — with dtel Cure ay 4 Reedy = QIK)
 
 Tt: Ptr) = , AIX) Dk ye ame)
-the oo ot WE da oe:
 * ola = olk
 20r aing ioe
 
@@ -27699,11 +31497,9 @@ Cc 1 3 ee 7
 
 = Raunt (A!8) 23 ¢
 
-mar pith umgue nes ed
 y. [2 -Bge-1 oars
 
 ws yd geo <2 977% \-O1y)
-—— He A- By 53 > x= Ws ff
 
 FR ICR 7] QA HH
 ````
@@ -27715,6 +31511,8 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Final-Exam/Integrated_IT_7037/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (18 pages), mean OCR confidence 45.5
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -27780,7 +31578,6 @@ ae
 
 —_—
 
-RARER RERE 2 RRR KEE
 --- page 3 ---
 (d) |, a <a) ‘ [5]
 Sitteuutiol eq? towseopondling D Ud db,
@@ -27790,13 +31587,11 @@ nw
 from Ud c= t Pur dn «2 wie gel
 2 2 Wee ya L [2
 d = & ba Ax h 2h
-CO-2; 80-1; Sifeuntial e4° wore. arategnnas Hrafectowy dy
 BL- Low dy ie an ing, ‘ 2
 d
 
 Say. [= ates a = =F C
 
-ae ope eithopoaal Frage cto ig (1
 
 (a) |. : Putting z= log x and x = e”, we get
 [D (D-1) (D —2) - D(D -1) + 2D - 2] y = e*” + 3e”
@@ -27896,7 +31691,6 @@ Ef. Veet 4 - | fa] !
 - x4 t | aud X27 [e [
 -¥ 2 02—
 
-aly: maltils spe: malt Ae!) = 3
 
 FIC DI EH ar
 --- page 6 ---
@@ -27950,7 +31744,6 @@ atht+he - 2
 que ade = Ree
 ‘ vag
 ! Spt og ! ge wat
-Re ao aft Pd Pe EY
 i Tae 0-276:
 CO-1; SO-1; poh 2 9 ES z pail _—
 BL- : (6]
@@ -27973,7 +31766,6 @@ ad Cy
 =.
 
 (a) D?-4D+3-=0 ». (D-1)(D-3)=0   D=1,3. ~ |
-“he C.F. is y= cy o% + cp ee. !
 
 pea es
 D*-4D43
@@ -28060,14 +31852,12 @@ b- we =?
 =p b-°
 =) aze—orm
 
-Te given Vectu ave Denenty
 J Cnchepec.heu(~
 
 =———eoUr
 
 FRI ICR 7 FI OH
 --- page 12 ---
-(b) Compenty coith Mdz+ Nay =O
 
 aie axy-2ay", N= 2% 20%} [2Mks] for proving non exact
 
@@ -28090,7 +31880,6 @@ ih Multiplying given DE with TF.
 . ; ie. C3x- aay) 4 (2-20Y) Jy <é
 we gxcx-ay) “Hy Cra)
 
-Moderate “. golution is Idx ys Ndy = =Cc
 Cy const.) “resms Proce fom »)
 
 (gx%-2ay)
@@ -28137,7 +31926,6 @@ RF lu 4g)= SCT uy)
 = B(3y42(2x+4) , ya reegt x)
 EC AItAY » 82494) 92
 mer wf
-Mo fe tf mer ft y
 
 — oO| —
 
@@ -28219,7 +32007,6 @@ Ox iF Cx
 — with dtel Cure ay 4 Reedy = QIK)
 
 Tt: Ptr) = , AIX) Dk ye ame)
-the oo ot WE da oe:
 * ola = olk
 20r aing ioe
 
@@ -28309,11 +32096,9 @@ Cc 1 3 ee 7
 
 = Raunt (A!8) 23 ¢
 
-mar pith umgue nes ed
 y. [2 -Bge-1 oars
 
 ws yd geo <2 977% \-O1y)
-—— He A- By 53 > x= Ws ff
 
 FR ICR 7] QA HH
 ````
@@ -28325,6 +32110,8 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Final-Exam/Integrated_Mechanical_7031/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (18 pages), mean OCR confidence 45.5
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -28390,7 +32177,6 @@ ae
 
 —_—
 
-RARER RERE 2 RRR KEE
 --- page 3 ---
 (d) |, a <a) ‘ [5]
 Sitteuutiol eq? towseopondling D Ud db,
@@ -28400,13 +32186,11 @@ nw
 from Ud c= t Pur dn «2 wie gel
 2 2 Wee ya L [2
 d = & ba Ax h 2h
-CO-2; 80-1; Sifeuntial e4° wore. arategnnas Hrafectowy dy
 BL- Low dy ie an ing, ‘ 2
 d
 
 Say. [= ates a = =F C
 
-ae ope eithopoaal Frage cto ig (1
 
 (a) |. : Putting z= log x and x = e”, we get
 [D (D-1) (D —2) - D(D -1) + 2D - 2] y = e*” + 3e”
@@ -28506,7 +32290,6 @@ Ef. Veet 4 - | fa] !
 - x4 t | aud X27 [e [
 -¥ 2 02—
 
-aly: maltils spe: malt Ae!) = 3
 
 FIC DI EH ar
 --- page 6 ---
@@ -28560,7 +32343,6 @@ atht+he - 2
 que ade = Ree
 ‘ vag
 ! Spt og ! ge wat
-Re ao aft Pd Pe EY
 i Tae 0-276:
 CO-1; SO-1; poh 2 9 ES z pail _—
 BL- : (6]
@@ -28583,7 +32365,6 @@ ad Cy
 =.
 
 (a) D?-4D+3-=0 ». (D-1)(D-3)=0   D=1,3. ~ |
-“he C.F. is y= cy o% + cp ee. !
 
 pea es
 D*-4D43
@@ -28670,14 +32451,12 @@ b- we =?
 =p b-°
 =) aze—orm
 
-Te given Vectu ave Denenty
 J Cnchepec.heu(~
 
 =———eoUr
 
 FRI ICR 7 FI OH
 --- page 12 ---
-(b) Compenty coith Mdz+ Nay =O
 
 aie axy-2ay", N= 2% 20%} [2Mks] for proving non exact
 
@@ -28700,7 +32479,6 @@ ih Multiplying given DE with TF.
 . ; ie. C3x- aay) 4 (2-20Y) Jy <é
 we gxcx-ay) “Hy Cra)
 
-Moderate “. golution is Idx ys Ndy = =Cc
 Cy const.) “resms Proce fom »)
 
 (gx%-2ay)
@@ -28747,7 +32525,6 @@ RF lu 4g)= SCT uy)
 = B(3y42(2x+4) , ya reegt x)
 EC AItAY » 82494) 92
 mer wf
-Mo fe tf mer ft y
 
 — oO| —
 
@@ -28829,7 +32606,6 @@ Ox iF Cx
 — with dtel Cure ay 4 Reedy = QIK)
 
 Tt: Ptr) = , AIX) Dk ye ame)
-the oo ot WE da oe:
 * ola = olk
 20r aing ioe
 
@@ -28919,708 +32695,11 @@ Cc 1 3 ee 7
 
 = Raunt (A!8) 23 ¢
 
-mar pith umgue nes ed
 y. [2 -Bge-1 oars
 
 ws yd geo <2 977% \-O1y)
-—— He A- By 53 > x= Ws ff
 
 FR ICR 7] QA HH
-````
-
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper c9515fc111d4
-
-- Departments: AI and Machine Learning
-- Programmes: BTech AIML 7053
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_AIML_7053/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
-- Text: mixed (24 pages), mean OCR confidence 44.3
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
-(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Linear Algebra and Differential Equations
-Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 24 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. All questions carry equal marks.
-7. Assume Suitable data if necessary.
-********** 1 **********
---- page 2 ---
-BTech /MBA Tech CAN Stream)
-
-es) Sem Tr — LADE
-ayLet A- Wie -14
-
-2 ee 4
-
-' 2 3 4
-
--1 -2 6
-
-To Reduce qo $ow- echelon fo3m
-Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
-
-t 2 -\4
-
-Oo oO Y5\-4
-
-0 D2 40
-0 oO 5-3
-
-Ra>Rs ~ ER } Ra, > Ran Ra
-
-~~
-~
-
-—_—— £1)
-
-|
-= ‘2 -\4
-0 Oo Ss -§
-0 0 0 Ms
-oo 0 VJ
-Rs >Pax S16, Ry > Run Ps
-= \ 29 -\ 4
-o Oo Sct gn
-0 oOo °° \
-© O oO O |
-
-e(A) => ane)
-
-FIC 2 I HH ar
---- page 3 ---
-c=(1)1) ‘ p=(% 0)
-many
-(00?
-( yA | BCI?)
-00
-a) Tl) = Cx, 24) |
-T(00) = (0,0)=A ; TCt,e Os 8
-Tih= (Dee + 0,2 ©) =
-sO)
-_—(2)
-coi)” C
-coo ® (119)
-
-Square teanktoams bo
-
-TAL tomole amd
-
-2/24
-
-AR RK 3 RK
---- page 4 ---
-c)
-
-aiven
-
-x+
-=C
-DIFF aed ix!
-\+ a2dy = |
-Ax =e
-
-dy 2
-ax OE
-Fo 0) j
-2 ith gorol txoi ectory
-Ay Zk
-ab
-On colving-
-oy = oa dx
-gdy= 2 S4*
-
-Ya 270 +c
-
-ox yre = 0
-
-—t!)
---- page 5 ---
-a)
-
-Given io» "Chapa J =O
-Let £Cp)= (p-2) (x21 =O
-Consider auxi\lay 247
-Cm 2) CaP ares) = © _
-M=2;2,% | me(itt) (peice) —O
-
-Yee CF = (E+ Crp ese e+
-
-———(!
-
-E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
---- page 6 ---
-é) GiNen L= xy - FAY)
-
-tet og =
-. Ze way - $L4)
-
-DK weet ‘9! paotally
-Oz = |-O -£u)-y
-
-- OF
-P= Oy
-
-piff wot ‘gy partially
-g2 BE = O-|- #(u)-x
-— ©O
-1
-p-1 =-f'Cuy
-q+\ = —-#CW)*
-
--\ 5 x+\
-
-LCP) = you
-
-—O
---- page 7 ---
-Ginen
-Axe O
-Az } 2 2
-2 3 \f-
-ag s4
-ee ie
-
-\ Ww 3
-
-o -\ ~s
-
-o -3 ~&
-_| a
-
-FR RK
-
-FR CK
-
-—O)
---- page 8 ---
-Tay = Can 2ery, Bxo'y)
-
-td. basic of K ae:
-eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
-
-Cpe, 2) = G, °) 3)
-Tle,40) = (0,1, - __— @
-(0, 0,1) = C-2,0, © '
-
-Mat x arsotatad with T
-
-My, =+=/(% O -2
-D0 \ 6 _—
-> Gq ©O
-
-\M\= 6 £0 —A
-oT fs tnvertiable |
-
-T Curse = (x yz) ___—_(2)
-Cay, = (uw .
-
-On , Solving
---- page 9 ---
-oO 4a )y 2 Seco)
-
-m,,M2 = Oso
-+ C2SiINQ 4
-
-Pe cinax ——_)
-
-an *
-Lon qr= Cos ,
-
-Let PI = bYtVyr —
-We] Yt val Cos ak — SINAK
-[4 gi \F festron ae
-
-= QO
-1 _lea(cosax) ———O
-ar
-
-_
-
-_
-
-wana ©
-os Jape oe -
-
-og Ccesax) + 4 enor = 0
-
-_ ax |
-
-es = Ch + PL
-
-= cocant SING + _O
-5 Nar
-
-1 Cosa [gCasan) +1
-ae
-
-Q/>4
-
-FIC QF OH ar
---- page 10 ---
-6a Wa? Cuyd ef. [ox —y+3% sof .
-” pet Us CDE) ay 4 Foz=0 { 9
-ao
-
-—Ua4+-3Z0=
-Y= Cay, zee, 22-3
-
-Jo prove ——)
-au+ bY Ew
-Contidev ab (%, y, |Z2)
-= CeiY, 7!
-ausrbye = 40"! a+b) —O)
-
-an +be, ay ry.)
-
-_
-_
-
-Now, .
-» Carr +b) — Gyrbys) + 3Can O%
-
-0
-= a Cex) 437, .) + b (2x2-Yst 322)
-ra) &: form oO _—{()
-
-autrbs €W -
-
-- W ¥s Subspace. . _ 4
-
-DR ROR RK 10 FRR KRHA
---- page 11 ---
-A= 2 Oo —-\
-O 2 (0)
--| Oo 2
-
-Consider chy ©,
-la~ At) = O
-XM —EN+4NA- 6 =O
-By Cay\ ex ~ Hani Hon +Reorem
-o_o —O
-
-—
-
-A- ON +NVA- OCT =
-To vew Fy cH +heovem
-
-Luge APG AIA Wet
-
-= (g) oO oO
-Oo eo 0 —@®
-oO oO
-
-To Fmd A 4
-Poe multiply ea O va A
-
-N—-GA+TIND -6Kk' =
-“Ns fe o Ys ——
-oe) Vo oO
-V2, e) >a
-At GArF+ WAX —ECR= O
-o Ata Ale 6 -4
-O 16 Oo
-“to 9 a 24
-1
-
-To fad wt , mul ply eq © by A
-
-1
---- page 12 ---
-?
-
-let the Solutron he
-2 aa
-y- Eo
-
-Ad
-1 = S Ok. koe
-el _
-y" _ a (erm Kk) x
-\jer2
-
-{| a
-Q,=>0 > Qs a
-Que OW = EO
-
-A= O
-2. | naa 7 os
-
-+ Ox— 14
-Oo ce 1g {20
-
-\2/ 2a
-
-FRR ICR] DA KH
-
-e+ atts:
---- page 13 ---
-€APY — pCp-1) Co-2)
-aad
-
-“HO a
-ad CF
-Te od GF ouxillasg 25,
-kCp= D+2D —2D= O
-
---|iVN3 ; D=°
-B= —! C-teNG) 2
-
-(-1 “D2
-
-~W =z A+ Ge +G€
-
-To Find 4
-qez PLl= za [a D'+2D 5-2)
-7 =[ D4 nD Paagoel
-
-FR RK
-
-FR CK
-
-_—O®
-
-—®D
-
-oO
---- page 14 ---
-b) an |
-{ 2 6
-~ Oo 2
-
-Conside, chor eq, JAA] =0
-XEN + 8A= 0
-=x r= Oo, 2, 4
-Eigen walues ave 0,24"
-To Pood eigen vectors
-fos X= O
-(A- XT)A=O
-A X= O
-Fos a
-(A aK
-=| 9
-2
-|
-
-X = 2
-—\
-}
---- page 15 ---
-© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
-Consider AUr+ Ce Ur + Cau, = ©
-A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
-20,+ 2O.+ 2a, = 0
-
-—a, + 6 Os + 10d =O
-Hd, +202 + C)ds = ©
-
--)]2 1c) =
-[D)= | ¢ iol = 12 FO-
-
-q 2 +
-/ Ur, Us, Ae AXL lineoorl 4 inclop endent
-
-ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
-
-Consider
-CyB + Co Ue + C21 = oO
-
-e601 ,3,3) tea COrl +476 D074 0)
-
-C+ 0C2 $503 = O
-BC, + C2 TOS =O
-
-acy +402 +303 = ©
-S
-- \ 12)
-Ip |z _ 6 |= o4d£o-
-3 4 3
-
--. Uy, We Vo OL Wineocs}y independ ent .
-
-/ 24
-
-FRR IC 7 DA HOH
---- page 16 ---
-pat d=
-
-(6% — apreng=e
-
-Consider cur xi | losy 21)
-De nan =O
-D= 2, |
-
-CF = Yer cre %4 GE”
-
-PL 2D
-= ae es é* .
-[Gao
-
-= xf J |e
-
-2D-3
-
-pea
-= re
-
-oye ote
-
-re
-= Kner € a CE
-
-16/o4
-
-FRR ICR 7 6 AC OH
---- page 17 ---
-b)
-
-_
-(e+) COSX Ax +eC€ stax Ay = fo)
-12)
-mM = (E41) cos x tN se sinx
-
-y
-aN - ecosx } AN ~e osx
-oY Ox
-. = aN
-
-a Equorion is exact .
-The jengrot sol”
-
-SM ax + KNdy =e
-Cy constant) CAree of >)
-
-(e+) sox = C
-
-oo
-
-FRR ICR] AC OH
-
-—
-
-_—-@
-
-——O
---- page 18 ---
-C) CONF Cay, DER /x+2y-z20t
-
-Z= 24400
-
-We? (xy, ogra /my ers
-
-=F xC\,0, D+¥ Corl, D /my oR] —2
-
-W ts lioeaoly Enckep erdent and
-
-Span of p —__—_ff)
-—. \) fs basis: —_
-ain (Ww) = 2
-
-Gi) Veh xuyD ER / xx 3t, yet, vest tERY
-
-= £ G_,+:5t) JER.
-$4 (2), D [FERS
-
-VU Ys \ineo\ independent omd {i
-Span of- >,
-
-o. Mis basis - :
-ainW = 4 —0)
-
-8/ am
-
-DR ROR RK 1Q FH
---- page 19 ---
-8) y sy
-
-Q) Gora , =e J/ge=e
-
-On”
-cha —-Z2O
-Cx”
-(oO z= O
-
-let ca € then m= ),-]
-zo C(O 4Qn =e
-ae
-
-QRH Ue -— Ae
-Ox ;
-
-)
-2S OY ZH e€
-
-Za=- CitCr
-e = Oo +Cr
-
-c= Coshy |) cy eatohy
-
-zee ceshy — ersinhy
-
-19/0
-
-FRR ICR 7 QI OR
---- page 20 ---
-C4) aut p= et
-dt
-
-do + Jt=*
-
-ot (tH)
-~ J. ; 6)=t
-PCE) ay /
-At
-TRE = om = ee +41
-
-TCHiy= § Cen) +¢
-
-ICH) = #2 4+ 4¢
-3 Q-
-
-DR ROR RK 20 FRR HK RK
---- page 21 ---
-> oo rn
-oa { -&
-~| 2.0
-
-To fnd agen Value
-Considee (A-At] =o
-AP LN 2) NSUS =O
-N= 3-3 F
-To #md etyen vector
-
-\ = -3,-3
-(A+8T)X=0
-
-“E
-
-fos X= 2
-AM= 2} GMs 2
-
-for Aa ST
-ame #1; GM=!
-
-A $s cla nalixable ° a
-M such wan = D
-
-%
-vo hore
-M = 2? x2 -} \ De —3 iw) ®
-
-to -2{ ” Oo 30
-
-Oo \ \ o 0 SF
-
-FI ICR D7 FAC HOH
-
-—O
---- page 22 ---
-QF) (B—ap+3 )y - jos ax —O
-ND eCp= papas
-
-Puxillomy eq? 465) =o
-
-D= Brie
-Q
-
-CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
-
-To Find PL
-Assume y= A eiaronc-+ Bcos mx
-
-= ASn2x + BCOSSH
-Dy = 3A cosax — 2psin3x
-
-Oy = —F Asn3ax — AB Cos. Bac
-Sub In eg WO and Solving Fry ABB
-
-A= -£$ :; B= 2
-IB 7 3
-
-*-fp 2 Sfodx + 12 cos Se
-a
-
-54 t +P
-- OP ey cos (CE és >) +o S02) |
-
-_ sinea + 12 (e330
-+ (-%&)* 1Z
-
-22/5 4
-
-FIR ICR DAC HH
---- page 23 ---
-fo) Qu = au
-Daan + gy
-Assume Sol” U (x= xD) YOp= XY
-Bu = Ygx p Gu = Xdy
-
-OX
-
-L. Ax + X = 2x¥
-“y Ax 43
-
-yy -s
-Now, Uo, 4)= ae-e?
-put x= oOo & Gg
-
-Keo) eoaey
-
-ulo, oe ce
-2 Cs Cy FOr
-
-- 4) Y
-ge 6 = (e402) &
-é2.% 2 B=
-Ga-S > Keo
-
-Y ax— Sy
-
--s U(n p)=3e" —e,
-
-DR ROR RK 23 RRR RK
---- page 24 ---
-& Kat=? Cay DER / TAY, D =o __-@
-
-22)
-ocx -Z, z-x) 3 (ees
-= ) ,
-
-w-y=0 => x=JY
-yz =O > ze
-
-vy -X= O Zak
-=7C4,4 p J pers
-= ty) /y eR =)
-Null y= dim( e2rT ) -
-= L
-Range = 5 aes) Poe ey —
-= {1x4 [Cay DER F
-= play, y-zZ, z-x) J 4,2 ery
-= {CPrd> _p-4 / Pd EPS
-=$p Clie, -\) + 9 Cor), D/P qe —&
-Rank T = Aim C RanjeT) _6
-= 2
-pim (&) = Ranke T+ Null ity ©
-=~ OO2r \=B8 —
-dim(E) =3
-
-alka
-
-DR ROR RK DY HR RK RK
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 298e51bc51f5
@@ -29630,6 +32709,8 @@ DR ROR RK DY HR RK RK
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_AI_7012/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -29685,7 +32766,6 @@ ax “ Qylogyty-%
 By Cross multiplication ,
 (ay logyty-) dy = yd
 ydx = Cay logy ty-x) dy =O
-Comparing coith Mdx +Ndy =o
 
 mzy j N=-(2ylogy +y->)
 ; * OM. , ON .=-Cn=!
@@ -29702,7 +32782,6 @@ xy-2fylogydy-fydy =c
 om)
 
 2 2 2 usin
-oy -2[ logy ¥° -fxLay]-pee ore Se
 ig > of by Parts )
 xy-2[ yiedy -1.y°J-¥ =C
 : tg
@@ -29723,7 +32802,6 @@ FIC 2 I HH ar
 --- page 3 ---
 e. | Form the PDE by eliminating the arbitrary function from
 z=xy+firr+y’).
-E Vieni nate acbilrsty funchen
 C= ny + bie+y)
 
 a:
@@ -29832,7 +32910,6 @@ R-2% [vt
 saith |S Xx 1\*xFe
 °° ©
 may-3=0 Aonk=2 ,n=3 , free vat =
--2yre =o lek Y be [ree vau
 eco
 
 Me y-2y4oo9X= 4
@@ -29947,7 +33024,6 @@ S]-3 0 ¥{[X* sai
 
 -2na4 443 =0°
 — 2K a
-oh je oN a gi tae S
 “ye eos 1
 Yi 3 Pe fet
 a cg ok
@@ -29962,7 +33038,6 @@ Bs ie
 I? , 0 |r f
 so 0 ©
 
-H2ArYeZ> 0 Le y Ax be pe yau .
 
 Ee eEeE) |B
 sof} LTO) gneft ef]
@@ -30083,6 +33158,8 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSE_DS_7057/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -30138,7 +33215,6 @@ ax “ Qylogyty-%
 By Cross multiplication ,
 (ay logyty-) dy = yd
 ydx = Cay logy ty-x) dy =O
-Comparing coith Mdx +Ndy =o
 
 mzy j N=-(2ylogy +y->)
 ; * OM. , ON .=-Cn=!
@@ -30155,7 +33231,6 @@ xy-2fylogydy-fydy =c
 om)
 
 2 2 2 usin
-oy -2[ logy ¥° -fxLay]-pee ore Se
 ig > of by Parts )
 xy-2[ yiedy -1.y°J-¥ =C
 : tg
@@ -30176,7 +33251,6 @@ FIC 2 I HH ar
 --- page 3 ---
 e. | Form the PDE by eliminating the arbitrary function from
 z=xy+firr+y’).
-E Vieni nate acbilrsty funchen
 C= ny + bie+y)
 
 a:
@@ -30285,7 +33359,6 @@ R-2% [vt
 saith |S Xx 1\*xFe
 °° ©
 may-3=0 Aonk=2 ,n=3 , free vat =
--2yre =o lek Y be [ree vau
 eco
 
 Me y-2y4oo9X= 4
@@ -30400,7 +33473,6 @@ S]-3 0 ¥{[X* sai
 
 -2na4 443 =0°
 — 2K a
-oh je oN a gi tae S
 “ye eos 1
 Yi 3 Pe fet
 a cg ok
@@ -30415,7 +33487,6 @@ Bs ie
 I? , 0 |r f
 so 0 ©
 
-H2ArYeZ> 0 Le y Ax be pe yau .
 
 Ee eEeE) |B
 sof} LTO) gneft ef]
@@ -30536,6 +33607,8 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CS_7055/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -30591,7 +33664,6 @@ ax “ Qylogyty-%
 By Cross multiplication ,
 (ay logyty-) dy = yd
 ydx = Cay logy ty-x) dy =O
-Comparing coith Mdx +Ndy =o
 
 mzy j N=-(2ylogy +y->)
 ; * OM. , ON .=-Cn=!
@@ -30608,7 +33680,6 @@ xy-2fylogydy-fydy =c
 om)
 
 2 2 2 usin
-oy -2[ logy ¥° -fxLay]-pee ore Se
 ig > of by Parts )
 xy-2[ yiedy -1.y°J-¥ =C
 : tg
@@ -30629,7 +33700,6 @@ FIC 2 I HH ar
 --- page 3 ---
 e. | Form the PDE by eliminating the arbitrary function from
 z=xy+firr+y’).
-E Vieni nate acbilrsty funchen
 C= ny + bie+y)
 
 a:
@@ -30738,7 +33808,6 @@ R-2% [vt
 saith |S Xx 1\*xFe
 °° ©
 may-3=0 Aonk=2 ,n=3 , free vat =
--2yre =o lek Y be [ree vau
 eco
 
 Me y-2y4oo9X= 4
@@ -30853,7 +33922,6 @@ S]-3 0 ¥{[X* sai
 
 -2na4 443 =0°
 — 2K a
-oh je oN a gi tae S
 “ye eos 1
 Yi 3 Pe fet
 a cg ok
@@ -30868,7 +33936,6 @@ Bs ie
 I? , 0 |r f
 so 0 ©
 
-H2ArYeZ> 0 Le y Ax be pe yau .
 
 Ee eEeE) |B
 sof} LTO) gneft ef]
@@ -30989,6 +34056,8 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Civil_7005/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -31044,7 +34113,6 @@ ax “ Qylogyty-%
 By Cross multiplication ,
 (ay logyty-) dy = yd
 ydx = Cay logy ty-x) dy =O
-Comparing coith Mdx +Ndy =o
 
 mzy j N=-(2ylogy +y->)
 ; * OM. , ON .=-Cn=!
@@ -31061,7 +34129,6 @@ xy-2fylogydy-fydy =c
 om)
 
 2 2 2 usin
-oy -2[ logy ¥° -fxLay]-pee ore Se
 ig > of by Parts )
 xy-2[ yiedy -1.y°J-¥ =C
 : tg
@@ -31082,7 +34149,6 @@ FIC 2 I HH ar
 --- page 3 ---
 e. | Form the PDE by eliminating the arbitrary function from
 z=xy+firr+y’).
-E Vieni nate acbilrsty funchen
 C= ny + bie+y)
 
 a:
@@ -31191,7 +34257,6 @@ R-2% [vt
 saith |S Xx 1\*xFe
 °° ©
 may-3=0 Aonk=2 ,n=3 , free vat =
--2yre =o lek Y be [ree vau
 eco
 
 Me y-2y4oo9X= 4
@@ -31306,7 +34371,6 @@ S]-3 0 ¥{[X* sai
 
 -2na4 443 =0°
 — 2K a
-oh je oN a gi tae S
 “ye eos 1
 Yi 3 Pe fet
 a cg ok
@@ -31321,7 +34385,6 @@ Bs ie
 I? , 0 |r f
 so 0 ©
 
-H2ArYeZ> 0 Le y Ax be pe yau .
 
 Ee eEeE) |B
 sof} LTO) gneft ef]
@@ -31435,1396 +34498,6 @@ Hence veu fied .
 FRR ICR 7 6 AC OH
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 66ce06c9595c
-
-- Departments: Computer Engineering
-- Programmes: BTech Computer 7002
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Computer_7002/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
-- Text: mixed (24 pages), mean OCR confidence 44.3
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
-(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Linear Algebra and Differential Equations
-Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 24 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. All questions carry equal marks.
-7. Assume Suitable data if necessary.
-********** 1 **********
---- page 2 ---
-BTech /MBA Tech CAN Stream)
-
-es) Sem Tr — LADE
-ayLet A- Wie -14
-
-2 ee 4
-
-' 2 3 4
-
--1 -2 6
-
-To Reduce qo $ow- echelon fo3m
-Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
-
-t 2 -\4
-
-Oo oO Y5\-4
-
-0 D2 40
-0 oO 5-3
-
-Ra>Rs ~ ER } Ra, > Ran Ra
-
-~~
-~
-
-—_—— £1)
-
-|
-= ‘2 -\4
-0 Oo Ss -§
-0 0 0 Ms
-oo 0 VJ
-Rs >Pax S16, Ry > Run Ps
-= \ 29 -\ 4
-o Oo Sct gn
-0 oOo °° \
-© O oO O |
-
-e(A) => ane)
-
-FIC 2 I HH ar
---- page 3 ---
-c=(1)1) ‘ p=(% 0)
-many
-(00?
-( yA | BCI?)
-00
-a) Tl) = Cx, 24) |
-T(00) = (0,0)=A ; TCt,e Os 8
-Tih= (Dee + 0,2 ©) =
-sO)
-_—(2)
-coi)” C
-coo ® (119)
-
-Square teanktoams bo
-
-TAL tomole amd
-
-2/24
-
-AR RK 3 RK
---- page 4 ---
-c)
-
-aiven
-
-x+
-=C
-DIFF aed ix!
-\+ a2dy = |
-Ax =e
-
-dy 2
-ax OE
-Fo 0) j
-2 ith gorol txoi ectory
-Ay Zk
-ab
-On colving-
-oy = oa dx
-gdy= 2 S4*
-
-Ya 270 +c
-
-ox yre = 0
-
-—t!)
---- page 5 ---
-a)
-
-Given io» "Chapa J =O
-Let £Cp)= (p-2) (x21 =O
-Consider auxi\lay 247
-Cm 2) CaP ares) = © _
-M=2;2,% | me(itt) (peice) —O
-
-Yee CF = (E+ Crp ese e+
-
-———(!
-
-E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
---- page 6 ---
-é) GiNen L= xy - FAY)
-
-tet og =
-. Ze way - $L4)
-
-DK weet ‘9! paotally
-Oz = |-O -£u)-y
-
-- OF
-P= Oy
-
-piff wot ‘gy partially
-g2 BE = O-|- #(u)-x
-— ©O
-1
-p-1 =-f'Cuy
-q+\ = —-#CW)*
-
--\ 5 x+\
-
-LCP) = you
-
-—O
---- page 7 ---
-Ginen
-Axe O
-Az } 2 2
-2 3 \f-
-ag s4
-ee ie
-
-\ Ww 3
-
-o -\ ~s
-
-o -3 ~&
-_| a
-
-FR RK
-
-FR CK
-
-—O)
---- page 8 ---
-Tay = Can 2ery, Bxo'y)
-
-td. basic of K ae:
-eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
-
-Cpe, 2) = G, °) 3)
-Tle,40) = (0,1, - __— @
-(0, 0,1) = C-2,0, © '
-
-Mat x arsotatad with T
-
-My, =+=/(% O -2
-D0 \ 6 _—
-> Gq ©O
-
-\M\= 6 £0 —A
-oT fs tnvertiable |
-
-T Curse = (x yz) ___—_(2)
-Cay, = (uw .
-
-On , Solving
---- page 9 ---
-oO 4a )y 2 Seco)
-
-m,,M2 = Oso
-+ C2SiINQ 4
-
-Pe cinax ——_)
-
-an *
-Lon qr= Cos ,
-
-Let PI = bYtVyr —
-We] Yt val Cos ak — SINAK
-[4 gi \F festron ae
-
-= QO
-1 _lea(cosax) ———O
-ar
-
-_
-
-_
-
-wana ©
-os Jape oe -
-
-og Ccesax) + 4 enor = 0
-
-_ ax |
-
-es = Ch + PL
-
-= cocant SING + _O
-5 Nar
-
-1 Cosa [gCasan) +1
-ae
-
-Q/>4
-
-FIC QF OH ar
---- page 10 ---
-6a Wa? Cuyd ef. [ox —y+3% sof .
-” pet Us CDE) ay 4 Foz=0 { 9
-ao
-
-—Ua4+-3Z0=
-Y= Cay, zee, 22-3
-
-Jo prove ——)
-au+ bY Ew
-Contidev ab (%, y, |Z2)
-= CeiY, 7!
-ausrbye = 40"! a+b) —O)
-
-an +be, ay ry.)
-
-_
-_
-
-Now, .
-» Carr +b) — Gyrbys) + 3Can O%
-
-0
-= a Cex) 437, .) + b (2x2-Yst 322)
-ra) &: form oO _—{()
-
-autrbs €W -
-
-- W ¥s Subspace. . _ 4
-
-DR ROR RK 10 FRR KRHA
---- page 11 ---
-A= 2 Oo —-\
-O 2 (0)
--| Oo 2
-
-Consider chy ©,
-la~ At) = O
-XM —EN+4NA- 6 =O
-By Cay\ ex ~ Hani Hon +Reorem
-o_o —O
-
-—
-
-A- ON +NVA- OCT =
-To vew Fy cH +heovem
-
-Luge APG AIA Wet
-
-= (g) oO oO
-Oo eo 0 —@®
-oO oO
-
-To Fmd A 4
-Poe multiply ea O va A
-
-N—-GA+TIND -6Kk' =
-“Ns fe o Ys ——
-oe) Vo oO
-V2, e) >a
-At GArF+ WAX —ECR= O
-o Ata Ale 6 -4
-O 16 Oo
-“to 9 a 24
-1
-
-To fad wt , mul ply eq © by A
-
-1
---- page 12 ---
-?
-
-let the Solutron he
-2 aa
-y- Eo
-
-Ad
-1 = S Ok. koe
-el _
-y" _ a (erm Kk) x
-\jer2
-
-{| a
-Q,=>0 > Qs a
-Que OW = EO
-
-A= O
-2. | naa 7 os
-
-+ Ox— 14
-Oo ce 1g {20
-
-\2/ 2a
-
-FRR ICR] DA KH
-
-e+ atts:
---- page 13 ---
-€APY — pCp-1) Co-2)
-aad
-
-“HO a
-ad CF
-Te od GF ouxillasg 25,
-kCp= D+2D —2D= O
-
---|iVN3 ; D=°
-B= —! C-teNG) 2
-
-(-1 “D2
-
-~W =z A+ Ge +G€
-
-To Find 4
-qez PLl= za [a D'+2D 5-2)
-7 =[ D4 nD Paagoel
-
-FR RK
-
-FR CK
-
-_—O®
-
-—®D
-
-oO
---- page 14 ---
-b) an |
-{ 2 6
-~ Oo 2
-
-Conside, chor eq, JAA] =0
-XEN + 8A= 0
-=x r= Oo, 2, 4
-Eigen walues ave 0,24"
-To Pood eigen vectors
-fos X= O
-(A- XT)A=O
-A X= O
-Fos a
-(A aK
-=| 9
-2
-|
-
-X = 2
-—\
-}
---- page 15 ---
-© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
-Consider AUr+ Ce Ur + Cau, = ©
-A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
-20,+ 2O.+ 2a, = 0
-
-—a, + 6 Os + 10d =O
-Hd, +202 + C)ds = ©
-
--)]2 1c) =
-[D)= | ¢ iol = 12 FO-
-
-q 2 +
-/ Ur, Us, Ae AXL lineoorl 4 inclop endent
-
-ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
-
-Consider
-CyB + Co Ue + C21 = oO
-
-e601 ,3,3) tea COrl +476 D074 0)
-
-C+ 0C2 $503 = O
-BC, + C2 TOS =O
-
-acy +402 +303 = ©
-S
-- \ 12)
-Ip |z _ 6 |= o4d£o-
-3 4 3
-
--. Uy, We Vo OL Wineocs}y independ ent .
-
-/ 24
-
-FRR IC 7 DA HOH
---- page 16 ---
-pat d=
-
-(6% — apreng=e
-
-Consider cur xi | losy 21)
-De nan =O
-D= 2, |
-
-CF = Yer cre %4 GE”
-
-PL 2D
-= ae es é* .
-[Gao
-
-= xf J |e
-
-2D-3
-
-pea
-= re
-
-oye ote
-
-re
-= Kner € a CE
-
-16/o4
-
-FRR ICR 7 6 AC OH
---- page 17 ---
-b)
-
-_
-(e+) COSX Ax +eC€ stax Ay = fo)
-12)
-mM = (E41) cos x tN se sinx
-
-y
-aN - ecosx } AN ~e osx
-oY Ox
-. = aN
-
-a Equorion is exact .
-The jengrot sol”
-
-SM ax + KNdy =e
-Cy constant) CAree of >)
-
-(e+) sox = C
-
-oo
-
-FRR ICR] AC OH
-
-—
-
-_—-@
-
-——O
---- page 18 ---
-C) CONF Cay, DER /x+2y-z20t
-
-Z= 24400
-
-We? (xy, ogra /my ers
-
-=F xC\,0, D+¥ Corl, D /my oR] —2
-
-W ts lioeaoly Enckep erdent and
-
-Span of p —__—_ff)
-—. \) fs basis: —_
-ain (Ww) = 2
-
-Gi) Veh xuyD ER / xx 3t, yet, vest tERY
-
-= £ G_,+:5t) JER.
-$4 (2), D [FERS
-
-VU Ys \ineo\ independent omd {i
-Span of- >,
-
-o. Mis basis - :
-ainW = 4 —0)
-
-8/ am
-
-DR ROR RK 1Q FH
---- page 19 ---
-8) y sy
-
-Q) Gora , =e J/ge=e
-
-On”
-cha —-Z2O
-Cx”
-(oO z= O
-
-let ca € then m= ),-]
-zo C(O 4Qn =e
-ae
-
-QRH Ue -— Ae
-Ox ;
-
-)
-2S OY ZH e€
-
-Za=- CitCr
-e = Oo +Cr
-
-c= Coshy |) cy eatohy
-
-zee ceshy — ersinhy
-
-19/0
-
-FRR ICR 7 QI OR
---- page 20 ---
-C4) aut p= et
-dt
-
-do + Jt=*
-
-ot (tH)
-~ J. ; 6)=t
-PCE) ay /
-At
-TRE = om = ee +41
-
-TCHiy= § Cen) +¢
-
-ICH) = #2 4+ 4¢
-3 Q-
-
-DR ROR RK 20 FRR HK RK
---- page 21 ---
-> oo rn
-oa { -&
-~| 2.0
-
-To fnd agen Value
-Considee (A-At] =o
-AP LN 2) NSUS =O
-N= 3-3 F
-To #md etyen vector
-
-\ = -3,-3
-(A+8T)X=0
-
-“E
-
-fos X= 2
-AM= 2} GMs 2
-
-for Aa ST
-ame #1; GM=!
-
-A $s cla nalixable ° a
-M such wan = D
-
-%
-vo hore
-M = 2? x2 -} \ De —3 iw) ®
-
-to -2{ ” Oo 30
-
-Oo \ \ o 0 SF
-
-FI ICR D7 FAC HOH
-
-—O
---- page 22 ---
-QF) (B—ap+3 )y - jos ax —O
-ND eCp= papas
-
-Puxillomy eq? 465) =o
-
-D= Brie
-Q
-
-CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
-
-To Find PL
-Assume y= A eiaronc-+ Bcos mx
-
-= ASn2x + BCOSSH
-Dy = 3A cosax — 2psin3x
-
-Oy = —F Asn3ax — AB Cos. Bac
-Sub In eg WO and Solving Fry ABB
-
-A= -£$ :; B= 2
-IB 7 3
-
-*-fp 2 Sfodx + 12 cos Se
-a
-
-54 t +P
-- OP ey cos (CE és >) +o S02) |
-
-_ sinea + 12 (e330
-+ (-%&)* 1Z
-
-22/5 4
-
-FIR ICR DAC HH
---- page 23 ---
-fo) Qu = au
-Daan + gy
-Assume Sol” U (x= xD) YOp= XY
-Bu = Ygx p Gu = Xdy
-
-OX
-
-L. Ax + X = 2x¥
-“y Ax 43
-
-yy -s
-Now, Uo, 4)= ae-e?
-put x= oOo & Gg
-
-Keo) eoaey
-
-ulo, oe ce
-2 Cs Cy FOr
-
-- 4) Y
-ge 6 = (e402) &
-é2.% 2 B=
-Ga-S > Keo
-
-Y ax— Sy
-
--s U(n p)=3e" —e,
-
-DR ROR RK 23 RRR RK
---- page 24 ---
-& Kat=? Cay DER / TAY, D =o __-@
-
-22)
-ocx -Z, z-x) 3 (ees
-= ) ,
-
-w-y=0 => x=JY
-yz =O > ze
-
-vy -X= O Zak
-=7C4,4 p J pers
-= ty) /y eR =)
-Null y= dim( e2rT ) -
-= L
-Range = 5 aes) Poe ey —
-= {1x4 [Cay DER F
-= play, y-zZ, z-x) J 4,2 ery
-= {CPrd> _p-4 / Pd EPS
-=$p Clie, -\) + 9 Cor), D/P qe —&
-Rank T = Aim C RanjeT) _6
-= 2
-pim (&) = Ranke T+ Null ity ©
-=~ OO2r \=B8 —
-dim(E) =3
-
-alka
-
-DR ROR RK DY HR RK RK
-````
-
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 7a471c3ae0ff
-
-- Departments: Information Technology
-- Programmes: BTech IT 7001
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_IT_7001/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
-- Text: mixed (24 pages), mean OCR confidence 44.3
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
-(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Linear Algebra and Differential Equations
-Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 24 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. All questions carry equal marks.
-7. Assume Suitable data if necessary.
-********** 1 **********
---- page 2 ---
-BTech /MBA Tech CAN Stream)
-
-es) Sem Tr — LADE
-ayLet A- Wie -14
-
-2 ee 4
-
-' 2 3 4
-
--1 -2 6
-
-To Reduce qo $ow- echelon fo3m
-Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
-
-t 2 -\4
-
-Oo oO Y5\-4
-
-0 D2 40
-0 oO 5-3
-
-Ra>Rs ~ ER } Ra, > Ran Ra
-
-~~
-~
-
-—_—— £1)
-
-|
-= ‘2 -\4
-0 Oo Ss -§
-0 0 0 Ms
-oo 0 VJ
-Rs >Pax S16, Ry > Run Ps
-= \ 29 -\ 4
-o Oo Sct gn
-0 oOo °° \
-© O oO O |
-
-e(A) => ane)
-
-FIC 2 I HH ar
---- page 3 ---
-c=(1)1) ‘ p=(% 0)
-many
-(00?
-( yA | BCI?)
-00
-a) Tl) = Cx, 24) |
-T(00) = (0,0)=A ; TCt,e Os 8
-Tih= (Dee + 0,2 ©) =
-sO)
-_—(2)
-coi)” C
-coo ® (119)
-
-Square teanktoams bo
-
-TAL tomole amd
-
-2/24
-
-AR RK 3 RK
---- page 4 ---
-c)
-
-aiven
-
-x+
-=C
-DIFF aed ix!
-\+ a2dy = |
-Ax =e
-
-dy 2
-ax OE
-Fo 0) j
-2 ith gorol txoi ectory
-Ay Zk
-ab
-On colving-
-oy = oa dx
-gdy= 2 S4*
-
-Ya 270 +c
-
-ox yre = 0
-
-—t!)
---- page 5 ---
-a)
-
-Given io» "Chapa J =O
-Let £Cp)= (p-2) (x21 =O
-Consider auxi\lay 247
-Cm 2) CaP ares) = © _
-M=2;2,% | me(itt) (peice) —O
-
-Yee CF = (E+ Crp ese e+
-
-———(!
-
-E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
---- page 6 ---
-é) GiNen L= xy - FAY)
-
-tet og =
-. Ze way - $L4)
-
-DK weet ‘9! paotally
-Oz = |-O -£u)-y
-
-- OF
-P= Oy
-
-piff wot ‘gy partially
-g2 BE = O-|- #(u)-x
-— ©O
-1
-p-1 =-f'Cuy
-q+\ = —-#CW)*
-
--\ 5 x+\
-
-LCP) = you
-
-—O
---- page 7 ---
-Ginen
-Axe O
-Az } 2 2
-2 3 \f-
-ag s4
-ee ie
-
-\ Ww 3
-
-o -\ ~s
-
-o -3 ~&
-_| a
-
-FR RK
-
-FR CK
-
-—O)
---- page 8 ---
-Tay = Can 2ery, Bxo'y)
-
-td. basic of K ae:
-eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
-
-Cpe, 2) = G, °) 3)
-Tle,40) = (0,1, - __— @
-(0, 0,1) = C-2,0, © '
-
-Mat x arsotatad with T
-
-My, =+=/(% O -2
-D0 \ 6 _—
-> Gq ©O
-
-\M\= 6 £0 —A
-oT fs tnvertiable |
-
-T Curse = (x yz) ___—_(2)
-Cay, = (uw .
-
-On , Solving
---- page 9 ---
-oO 4a )y 2 Seco)
-
-m,,M2 = Oso
-+ C2SiINQ 4
-
-Pe cinax ——_)
-
-an *
-Lon qr= Cos ,
-
-Let PI = bYtVyr —
-We] Yt val Cos ak — SINAK
-[4 gi \F festron ae
-
-= QO
-1 _lea(cosax) ———O
-ar
-
-_
-
-_
-
-wana ©
-os Jape oe -
-
-og Ccesax) + 4 enor = 0
-
-_ ax |
-
-es = Ch + PL
-
-= cocant SING + _O
-5 Nar
-
-1 Cosa [gCasan) +1
-ae
-
-Q/>4
-
-FIC QF OH ar
---- page 10 ---
-6a Wa? Cuyd ef. [ox —y+3% sof .
-” pet Us CDE) ay 4 Foz=0 { 9
-ao
-
-—Ua4+-3Z0=
-Y= Cay, zee, 22-3
-
-Jo prove ——)
-au+ bY Ew
-Contidev ab (%, y, |Z2)
-= CeiY, 7!
-ausrbye = 40"! a+b) —O)
-
-an +be, ay ry.)
-
-_
-_
-
-Now, .
-» Carr +b) — Gyrbys) + 3Can O%
-
-0
-= a Cex) 437, .) + b (2x2-Yst 322)
-ra) &: form oO _—{()
-
-autrbs €W -
-
-- W ¥s Subspace. . _ 4
-
-DR ROR RK 10 FRR KRHA
---- page 11 ---
-A= 2 Oo —-\
-O 2 (0)
--| Oo 2
-
-Consider chy ©,
-la~ At) = O
-XM —EN+4NA- 6 =O
-By Cay\ ex ~ Hani Hon +Reorem
-o_o —O
-
-—
-
-A- ON +NVA- OCT =
-To vew Fy cH +heovem
-
-Luge APG AIA Wet
-
-= (g) oO oO
-Oo eo 0 —@®
-oO oO
-
-To Fmd A 4
-Poe multiply ea O va A
-
-N—-GA+TIND -6Kk' =
-“Ns fe o Ys ——
-oe) Vo oO
-V2, e) >a
-At GArF+ WAX —ECR= O
-o Ata Ale 6 -4
-O 16 Oo
-“to 9 a 24
-1
-
-To fad wt , mul ply eq © by A
-
-1
---- page 12 ---
-?
-
-let the Solutron he
-2 aa
-y- Eo
-
-Ad
-1 = S Ok. koe
-el _
-y" _ a (erm Kk) x
-\jer2
-
-{| a
-Q,=>0 > Qs a
-Que OW = EO
-
-A= O
-2. | naa 7 os
-
-+ Ox— 14
-Oo ce 1g {20
-
-\2/ 2a
-
-FRR ICR] DA KH
-
-e+ atts:
---- page 13 ---
-€APY — pCp-1) Co-2)
-aad
-
-“HO a
-ad CF
-Te od GF ouxillasg 25,
-kCp= D+2D —2D= O
-
---|iVN3 ; D=°
-B= —! C-teNG) 2
-
-(-1 “D2
-
-~W =z A+ Ge +G€
-
-To Find 4
-qez PLl= za [a D'+2D 5-2)
-7 =[ D4 nD Paagoel
-
-FR RK
-
-FR CK
-
-_—O®
-
-—®D
-
-oO
---- page 14 ---
-b) an |
-{ 2 6
-~ Oo 2
-
-Conside, chor eq, JAA] =0
-XEN + 8A= 0
-=x r= Oo, 2, 4
-Eigen walues ave 0,24"
-To Pood eigen vectors
-fos X= O
-(A- XT)A=O
-A X= O
-Fos a
-(A aK
-=| 9
-2
-|
-
-X = 2
-—\
-}
---- page 15 ---
-© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
-Consider AUr+ Ce Ur + Cau, = ©
-A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
-20,+ 2O.+ 2a, = 0
-
-—a, + 6 Os + 10d =O
-Hd, +202 + C)ds = ©
-
--)]2 1c) =
-[D)= | ¢ iol = 12 FO-
-
-q 2 +
-/ Ur, Us, Ae AXL lineoorl 4 inclop endent
-
-ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
-
-Consider
-CyB + Co Ue + C21 = oO
-
-e601 ,3,3) tea COrl +476 D074 0)
-
-C+ 0C2 $503 = O
-BC, + C2 TOS =O
-
-acy +402 +303 = ©
-S
-- \ 12)
-Ip |z _ 6 |= o4d£o-
-3 4 3
-
--. Uy, We Vo OL Wineocs}y independ ent .
-
-/ 24
-
-FRR IC 7 DA HOH
---- page 16 ---
-pat d=
-
-(6% — apreng=e
-
-Consider cur xi | losy 21)
-De nan =O
-D= 2, |
-
-CF = Yer cre %4 GE”
-
-PL 2D
-= ae es é* .
-[Gao
-
-= xf J |e
-
-2D-3
-
-pea
-= re
-
-oye ote
-
-re
-= Kner € a CE
-
-16/o4
-
-FRR ICR 7 6 AC OH
---- page 17 ---
-b)
-
-_
-(e+) COSX Ax +eC€ stax Ay = fo)
-12)
-mM = (E41) cos x tN se sinx
-
-y
-aN - ecosx } AN ~e osx
-oY Ox
-. = aN
-
-a Equorion is exact .
-The jengrot sol”
-
-SM ax + KNdy =e
-Cy constant) CAree of >)
-
-(e+) sox = C
-
-oo
-
-FRR ICR] AC OH
-
-—
-
-_—-@
-
-——O
---- page 18 ---
-C) CONF Cay, DER /x+2y-z20t
-
-Z= 24400
-
-We? (xy, ogra /my ers
-
-=F xC\,0, D+¥ Corl, D /my oR] —2
-
-W ts lioeaoly Enckep erdent and
-
-Span of p —__—_ff)
-—. \) fs basis: —_
-ain (Ww) = 2
-
-Gi) Veh xuyD ER / xx 3t, yet, vest tERY
-
-= £ G_,+:5t) JER.
-$4 (2), D [FERS
-
-VU Ys \ineo\ independent omd {i
-Span of- >,
-
-o. Mis basis - :
-ainW = 4 —0)
-
-8/ am
-
-DR ROR RK 1Q FH
---- page 19 ---
-8) y sy
-
-Q) Gora , =e J/ge=e
-
-On”
-cha —-Z2O
-Cx”
-(oO z= O
-
-let ca € then m= ),-]
-zo C(O 4Qn =e
-ae
-
-QRH Ue -— Ae
-Ox ;
-
-)
-2S OY ZH e€
-
-Za=- CitCr
-e = Oo +Cr
-
-c= Coshy |) cy eatohy
-
-zee ceshy — ersinhy
-
-19/0
-
-FRR ICR 7 QI OR
---- page 20 ---
-C4) aut p= et
-dt
-
-do + Jt=*
-
-ot (tH)
-~ J. ; 6)=t
-PCE) ay /
-At
-TRE = om = ee +41
-
-TCHiy= § Cen) +¢
-
-ICH) = #2 4+ 4¢
-3 Q-
-
-DR ROR RK 20 FRR HK RK
---- page 21 ---
-> oo rn
-oa { -&
-~| 2.0
-
-To fnd agen Value
-Considee (A-At] =o
-AP LN 2) NSUS =O
-N= 3-3 F
-To #md etyen vector
-
-\ = -3,-3
-(A+8T)X=0
-
-“E
-
-fos X= 2
-AM= 2} GMs 2
-
-for Aa ST
-ame #1; GM=!
-
-A $s cla nalixable ° a
-M such wan = D
-
-%
-vo hore
-M = 2? x2 -} \ De —3 iw) ®
-
-to -2{ ” Oo 30
-
-Oo \ \ o 0 SF
-
-FI ICR D7 FAC HOH
-
-—O
---- page 22 ---
-QF) (B—ap+3 )y - jos ax —O
-ND eCp= papas
-
-Puxillomy eq? 465) =o
-
-D= Brie
-Q
-
-CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
-
-To Find PL
-Assume y= A eiaronc-+ Bcos mx
-
-= ASn2x + BCOSSH
-Dy = 3A cosax — 2psin3x
-
-Oy = —F Asn3ax — AB Cos. Bac
-Sub In eg WO and Solving Fry ABB
-
-A= -£$ :; B= 2
-IB 7 3
-
-*-fp 2 Sfodx + 12 cos Se
-a
-
-54 t +P
-- OP ey cos (CE és >) +o S02) |
-
-_ sinea + 12 (e330
-+ (-%&)* 1Z
-
-22/5 4
-
-FIR ICR DAC HH
---- page 23 ---
-fo) Qu = au
-Daan + gy
-Assume Sol” U (x= xD) YOp= XY
-Bu = Ygx p Gu = Xdy
-
-OX
-
-L. Ax + X = 2x¥
-“y Ax 43
-
-yy -s
-Now, Uo, 4)= ae-e?
-put x= oOo & Gg
-
-Keo) eoaey
-
-ulo, oe ce
-2 Cs Cy FOr
-
-- 4) Y
-ge 6 = (e402) &
-é2.% 2 B=
-Ga-S > Keo
-
-Y ax— Sy
-
--s U(n p)=3e" —e,
-
-DR ROR RK 23 RRR RK
---- page 24 ---
-& Kat=? Cay DER / TAY, D =o __-@
-
-22)
-ocx -Z, z-x) 3 (ees
-= ) ,
-
-w-y=0 => x=JY
-yz =O > ze
-
-vy -X= O Zak
-=7C4,4 p J pers
-= ty) /y eR =)
-Null y= dim( e2rT ) -
-= L
-Range = 5 aes) Poe ey —
-= {1x4 [Cay DER F
-= play, y-zZ, z-x) J 4,2 ery
-= {CPrd> _p-4 / Pd EPS
-=$p Clie, -\) + 9 Cor), D/P qe —&
-Rank T = Aim C RanjeT) _6
-= 2
-pim (&) = Ranke T+ Null ity ©
-=~ OO2r \=B8 —
-dim(E) =3
-
-alka
-
-DR ROR RK DY HR RK RK
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 68978e06113d
 
 - Departments: Mechanical
@@ -32832,6 +34505,8 @@ DR ROR RK DY HR RK RK
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Mechanical_7003/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -32887,7 +34562,6 @@ ax “ Qylogyty-%
 By Cross multiplication ,
 (ay logyty-) dy = yd
 ydx = Cay logy ty-x) dy =O
-Comparing coith Mdx +Ndy =o
 
 mzy j N=-(2ylogy +y->)
 ; * OM. , ON .=-Cn=!
@@ -32904,7 +34578,6 @@ xy-2fylogydy-fydy =c
 om)
 
 2 2 2 usin
-oy -2[ logy ¥° -fxLay]-pee ore Se
 ig > of by Parts )
 xy-2[ yiedy -1.y°J-¥ =C
 : tg
@@ -32925,7 +34598,6 @@ FIC 2 I HH ar
 --- page 3 ---
 e. | Form the PDE by eliminating the arbitrary function from
 z=xy+firr+y’).
-E Vieni nate acbilrsty funchen
 C= ny + bie+y)
 
 a:
@@ -33034,7 +34706,6 @@ R-2% [vt
 saith |S Xx 1\*xFe
 °° ©
 may-3=0 Aonk=2 ,n=3 , free vat =
--2yre =o lek Y be [ree vau
 eco
 
 Me y-2y4oo9X= 4
@@ -33149,7 +34820,6 @@ S]-3 0 ¥{[X* sai
 
 -2na4 443 =0°
 — 2K a
-oh je oN a gi tae S
 “ye eos 1
 Yi 3 Pe fet
 a cg ok
@@ -33164,7 +34834,6 @@ Bs ie
 I? , 0 |r f
 so 0 ©
 
-H2ArYeZ> 0 Le y Ax be pe yau .
 
 Ee eEeE) |B
 sof} LTO) gneft ef]
@@ -33285,6 +34954,8 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Mechatronics_7004/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -33340,7 +35011,6 @@ ax “ Qylogyty-%
 By Cross multiplication ,
 (ay logyty-) dy = yd
 ydx = Cay logy ty-x) dy =O
-Comparing coith Mdx +Ndy =o
 
 mzy j N=-(2ylogy +y->)
 ; * OM. , ON .=-Cn=!
@@ -33357,7 +35027,6 @@ xy-2fylogydy-fydy =c
 om)
 
 2 2 2 usin
-oy -2[ logy ¥° -fxLay]-pee ore Se
 ig > of by Parts )
 xy-2[ yiedy -1.y°J-¥ =C
 : tg
@@ -33378,7 +35047,6 @@ FIC 2 I HH ar
 --- page 3 ---
 e. | Form the PDE by eliminating the arbitrary function from
 z=xy+firr+y’).
-E Vieni nate acbilrsty funchen
 C= ny + bie+y)
 
 a:
@@ -33487,7 +35155,6 @@ R-2% [vt
 saith |S Xx 1\*xFe
 °° ©
 may-3=0 Aonk=2 ,n=3 , free vat =
--2yre =o lek Y be [ree vau
 eco
 
 Me y-2y4oo9X= 4
@@ -33602,7 +35269,6 @@ S]-3 0 ¥{[X* sai
 
 -2na4 443 =0°
 — 2K a
-oh je oN a gi tae S
 “ye eos 1
 Yi 3 Pe fet
 a cg ok
@@ -33617,7 +35283,6 @@ Bs ie
 I? , 0 |r f
 so 0 ©
 
-H2ArYeZ> 0 Le y Ax be pe yau .
 
 Ee eEeE) |B
 sof} LTO) gneft ef]
@@ -33729,701 +35394,6 @@ Hence veu fied .
 -0
 
 FRR ICR 7 6 AC OH
-````
-
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper ea1d2b4ce461
-
-- Departments: Artificial Intelligence
-- Programmes: MBATech AI 7051
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_AI_7051/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
-- Text: mixed (24 pages), mean OCR confidence 44.3
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
-(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Linear Algebra and Differential Equations
-Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 24 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. All questions carry equal marks.
-7. Assume Suitable data if necessary.
-********** 1 **********
---- page 2 ---
-BTech /MBA Tech CAN Stream)
-
-es) Sem Tr — LADE
-ayLet A- Wie -14
-
-2 ee 4
-
-' 2 3 4
-
--1 -2 6
-
-To Reduce qo $ow- echelon fo3m
-Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
-
-t 2 -\4
-
-Oo oO Y5\-4
-
-0 D2 40
-0 oO 5-3
-
-Ra>Rs ~ ER } Ra, > Ran Ra
-
-~~
-~
-
-—_—— £1)
-
-|
-= ‘2 -\4
-0 Oo Ss -§
-0 0 0 Ms
-oo 0 VJ
-Rs >Pax S16, Ry > Run Ps
-= \ 29 -\ 4
-o Oo Sct gn
-0 oOo °° \
-© O oO O |
-
-e(A) => ane)
-
-FIC 2 I HH ar
---- page 3 ---
-c=(1)1) ‘ p=(% 0)
-many
-(00?
-( yA | BCI?)
-00
-a) Tl) = Cx, 24) |
-T(00) = (0,0)=A ; TCt,e Os 8
-Tih= (Dee + 0,2 ©) =
-sO)
-_—(2)
-coi)” C
-coo ® (119)
-
-Square teanktoams bo
-
-TAL tomole amd
-
-2/24
-
-AR RK 3 RK
---- page 4 ---
-c)
-
-aiven
-
-x+
-=C
-DIFF aed ix!
-\+ a2dy = |
-Ax =e
-
-dy 2
-ax OE
-Fo 0) j
-2 ith gorol txoi ectory
-Ay Zk
-ab
-On colving-
-oy = oa dx
-gdy= 2 S4*
-
-Ya 270 +c
-
-ox yre = 0
-
-—t!)
---- page 5 ---
-a)
-
-Given io» "Chapa J =O
-Let £Cp)= (p-2) (x21 =O
-Consider auxi\lay 247
-Cm 2) CaP ares) = © _
-M=2;2,% | me(itt) (peice) —O
-
-Yee CF = (E+ Crp ese e+
-
-———(!
-
-E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
---- page 6 ---
-é) GiNen L= xy - FAY)
-
-tet og =
-. Ze way - $L4)
-
-DK weet ‘9! paotally
-Oz = |-O -£u)-y
-
-- OF
-P= Oy
-
-piff wot ‘gy partially
-g2 BE = O-|- #(u)-x
-— ©O
-1
-p-1 =-f'Cuy
-q+\ = —-#CW)*
-
--\ 5 x+\
-
-LCP) = you
-
-—O
---- page 7 ---
-Ginen
-Axe O
-Az } 2 2
-2 3 \f-
-ag s4
-ee ie
-
-\ Ww 3
-
-o -\ ~s
-
-o -3 ~&
-_| a
-
-FR RK
-
-FR CK
-
-—O)
---- page 8 ---
-Tay = Can 2ery, Bxo'y)
-
-td. basic of K ae:
-eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
-
-Cpe, 2) = G, °) 3)
-Tle,40) = (0,1, - __— @
-(0, 0,1) = C-2,0, © '
-
-Mat x arsotatad with T
-
-My, =+=/(% O -2
-D0 \ 6 _—
-> Gq ©O
-
-\M\= 6 £0 —A
-oT fs tnvertiable |
-
-T Curse = (x yz) ___—_(2)
-Cay, = (uw .
-
-On , Solving
---- page 9 ---
-oO 4a )y 2 Seco)
-
-m,,M2 = Oso
-+ C2SiINQ 4
-
-Pe cinax ——_)
-
-an *
-Lon qr= Cos ,
-
-Let PI = bYtVyr —
-We] Yt val Cos ak — SINAK
-[4 gi \F festron ae
-
-= QO
-1 _lea(cosax) ———O
-ar
-
-_
-
-_
-
-wana ©
-os Jape oe -
-
-og Ccesax) + 4 enor = 0
-
-_ ax |
-
-es = Ch + PL
-
-= cocant SING + _O
-5 Nar
-
-1 Cosa [gCasan) +1
-ae
-
-Q/>4
-
-FIC QF OH ar
---- page 10 ---
-6a Wa? Cuyd ef. [ox —y+3% sof .
-” pet Us CDE) ay 4 Foz=0 { 9
-ao
-
-—Ua4+-3Z0=
-Y= Cay, zee, 22-3
-
-Jo prove ——)
-au+ bY Ew
-Contidev ab (%, y, |Z2)
-= CeiY, 7!
-ausrbye = 40"! a+b) —O)
-
-an +be, ay ry.)
-
-_
-_
-
-Now, .
-» Carr +b) — Gyrbys) + 3Can O%
-
-0
-= a Cex) 437, .) + b (2x2-Yst 322)
-ra) &: form oO _—{()
-
-autrbs €W -
-
-- W ¥s Subspace. . _ 4
-
-DR ROR RK 10 FRR KRHA
---- page 11 ---
-A= 2 Oo —-\
-O 2 (0)
--| Oo 2
-
-Consider chy ©,
-la~ At) = O
-XM —EN+4NA- 6 =O
-By Cay\ ex ~ Hani Hon +Reorem
-o_o —O
-
-—
-
-A- ON +NVA- OCT =
-To vew Fy cH +heovem
-
-Luge APG AIA Wet
-
-= (g) oO oO
-Oo eo 0 —@®
-oO oO
-
-To Fmd A 4
-Poe multiply ea O va A
-
-N—-GA+TIND -6Kk' =
-“Ns fe o Ys ——
-oe) Vo oO
-V2, e) >a
-At GArF+ WAX —ECR= O
-o Ata Ale 6 -4
-O 16 Oo
-“to 9 a 24
-1
-
-To fad wt , mul ply eq © by A
-
-1
---- page 12 ---
-?
-
-let the Solutron he
-2 aa
-y- Eo
-
-Ad
-1 = S Ok. koe
-el _
-y" _ a (erm Kk) x
-\jer2
-
-{| a
-Q,=>0 > Qs a
-Que OW = EO
-
-A= O
-2. | naa 7 os
-
-+ Ox— 14
-Oo ce 1g {20
-
-\2/ 2a
-
-FRR ICR] DA KH
-
-e+ atts:
---- page 13 ---
-€APY — pCp-1) Co-2)
-aad
-
-“HO a
-ad CF
-Te od GF ouxillasg 25,
-kCp= D+2D —2D= O
-
---|iVN3 ; D=°
-B= —! C-teNG) 2
-
-(-1 “D2
-
-~W =z A+ Ge +G€
-
-To Find 4
-qez PLl= za [a D'+2D 5-2)
-7 =[ D4 nD Paagoel
-
-FR RK
-
-FR CK
-
-_—O®
-
-—®D
-
-oO
---- page 14 ---
-b) an |
-{ 2 6
-~ Oo 2
-
-Conside, chor eq, JAA] =0
-XEN + 8A= 0
-=x r= Oo, 2, 4
-Eigen walues ave 0,24"
-To Pood eigen vectors
-fos X= O
-(A- XT)A=O
-A X= O
-Fos a
-(A aK
-=| 9
-2
-|
-
-X = 2
-—\
-}
---- page 15 ---
-© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
-Consider AUr+ Ce Ur + Cau, = ©
-A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
-20,+ 2O.+ 2a, = 0
-
-—a, + 6 Os + 10d =O
-Hd, +202 + C)ds = ©
-
--)]2 1c) =
-[D)= | ¢ iol = 12 FO-
-
-q 2 +
-/ Ur, Us, Ae AXL lineoorl 4 inclop endent
-
-ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
-
-Consider
-CyB + Co Ue + C21 = oO
-
-e601 ,3,3) tea COrl +476 D074 0)
-
-C+ 0C2 $503 = O
-BC, + C2 TOS =O
-
-acy +402 +303 = ©
-S
-- \ 12)
-Ip |z _ 6 |= o4d£o-
-3 4 3
-
--. Uy, We Vo OL Wineocs}y independ ent .
-
-/ 24
-
-FRR IC 7 DA HOH
---- page 16 ---
-pat d=
-
-(6% — apreng=e
-
-Consider cur xi | losy 21)
-De nan =O
-D= 2, |
-
-CF = Yer cre %4 GE”
-
-PL 2D
-= ae es é* .
-[Gao
-
-= xf J |e
-
-2D-3
-
-pea
-= re
-
-oye ote
-
-re
-= Kner € a CE
-
-16/o4
-
-FRR ICR 7 6 AC OH
---- page 17 ---
-b)
-
-_
-(e+) COSX Ax +eC€ stax Ay = fo)
-12)
-mM = (E41) cos x tN se sinx
-
-y
-aN - ecosx } AN ~e osx
-oY Ox
-. = aN
-
-a Equorion is exact .
-The jengrot sol”
-
-SM ax + KNdy =e
-Cy constant) CAree of >)
-
-(e+) sox = C
-
-oo
-
-FRR ICR] AC OH
-
-—
-
-_—-@
-
-——O
---- page 18 ---
-C) CONF Cay, DER /x+2y-z20t
-
-Z= 24400
-
-We? (xy, ogra /my ers
-
-=F xC\,0, D+¥ Corl, D /my oR] —2
-
-W ts lioeaoly Enckep erdent and
-
-Span of p —__—_ff)
-—. \) fs basis: —_
-ain (Ww) = 2
-
-Gi) Veh xuyD ER / xx 3t, yet, vest tERY
-
-= £ G_,+:5t) JER.
-$4 (2), D [FERS
-
-VU Ys \ineo\ independent omd {i
-Span of- >,
-
-o. Mis basis - :
-ainW = 4 —0)
-
-8/ am
-
-DR ROR RK 1Q FH
---- page 19 ---
-8) y sy
-
-Q) Gora , =e J/ge=e
-
-On”
-cha —-Z2O
-Cx”
-(oO z= O
-
-let ca € then m= ),-]
-zo C(O 4Qn =e
-ae
-
-QRH Ue -— Ae
-Ox ;
-
-)
-2S OY ZH e€
-
-Za=- CitCr
-e = Oo +Cr
-
-c= Coshy |) cy eatohy
-
-zee ceshy — ersinhy
-
-19/0
-
-FRR ICR 7 QI OR
---- page 20 ---
-C4) aut p= et
-dt
-
-do + Jt=*
-
-ot (tH)
-~ J. ; 6)=t
-PCE) ay /
-At
-TRE = om = ee +41
-
-TCHiy= § Cen) +¢
-
-ICH) = #2 4+ 4¢
-3 Q-
-
-DR ROR RK 20 FRR HK RK
---- page 21 ---
-> oo rn
-oa { -&
-~| 2.0
-
-To fnd agen Value
-Considee (A-At] =o
-AP LN 2) NSUS =O
-N= 3-3 F
-To #md etyen vector
-
-\ = -3,-3
-(A+8T)X=0
-
-“E
-
-fos X= 2
-AM= 2} GMs 2
-
-for Aa ST
-ame #1; GM=!
-
-A $s cla nalixable ° a
-M such wan = D
-
-%
-vo hore
-M = 2? x2 -} \ De —3 iw) ®
-
-to -2{ ” Oo 30
-
-Oo \ \ o 0 SF
-
-FI ICR D7 FAC HOH
-
-—O
---- page 22 ---
-QF) (B—ap+3 )y - jos ax —O
-ND eCp= papas
-
-Puxillomy eq? 465) =o
-
-D= Brie
-Q
-
-CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
-
-To Find PL
-Assume y= A eiaronc-+ Bcos mx
-
-= ASn2x + BCOSSH
-Dy = 3A cosax — 2psin3x
-
-Oy = —F Asn3ax — AB Cos. Bac
-Sub In eg WO and Solving Fry ABB
-
-A= -£$ :; B= 2
-IB 7 3
-
-*-fp 2 Sfodx + 12 cos Se
-a
-
-54 t +P
-- OP ey cos (CE és >) +o S02) |
-
-_ sinea + 12 (e330
-+ (-%&)* 1Z
-
-22/5 4
-
-FIR ICR DAC HH
---- page 23 ---
-fo) Qu = au
-Daan + gy
-Assume Sol” U (x= xD) YOp= XY
-Bu = Ygx p Gu = Xdy
-
-OX
-
-L. Ax + X = 2x¥
-“y Ax 43
-
-yy -s
-Now, Uo, 4)= ae-e?
-put x= oOo & Gg
-
-Keo) eoaey
-
-ulo, oe ce
-2 Cs Cy FOr
-
-- 4) Y
-ge 6 = (e402) &
-é2.% 2 B=
-Ga-S > Keo
-
-Y ax— Sy
-
--s U(n p)=3e" —e,
-
-DR ROR RK 23 RRR RK
---- page 24 ---
-& Kat=? Cay DER / TAY, D =o __-@
-
-22)
-ocx -Z, z-x) 3 (ees
-= ) ,
-
-w-y=0 => x=JY
-yz =O > ze
-
-vy -X= O Zak
-=7C4,4 p J pers
-= ty) /y eR =)
-Null y= dim( e2rT ) -
-= L
-Range = 5 aes) Poe ey —
-= {1x4 [Cay DER F
-= play, y-zZ, z-x) J 4,2 ery
-= {CPrd> _p-4 / Pd EPS
-=$p Clie, -\) + 9 Cor), D/P qe —&
-Rank T = Aim C RanjeT) _6
-= 2
-pim (&) = Ranke T+ Null ity ©
-=~ OO2r \=B8 —
-dim(E) =3
-
-alka
-
-DR ROR RK DY HR RK RK
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper dd3e665c9e8a
@@ -34433,6 +35403,8 @@ DR ROR RK DY HR RK RK
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_AI_7051/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025_dd3e665c9e.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -34488,7 +35460,6 @@ ax “ Qylogyty-%
 By Cross multiplication ,
 (ay logyty-) dy = yd
 ydx = Cay logy ty-x) dy =O
-Comparing coith Mdx +Ndy =o
 
 mzy j N=-(2ylogy +y->)
 ; * OM. , ON .=-Cn=!
@@ -34505,7 +35476,6 @@ xy-2fylogydy-fydy =c
 om)
 
 2 2 2 usin
-oy -2[ logy ¥° -fxLay]-pee ore Se
 ig > of by Parts )
 xy-2[ yiedy -1.y°J-¥ =C
 : tg
@@ -34526,7 +35496,6 @@ FIC 2 I HH ar
 --- page 3 ---
 e. | Form the PDE by eliminating the arbitrary function from
 z=xy+firr+y’).
-E Vieni nate acbilrsty funchen
 C= ny + bie+y)
 
 a:
@@ -34635,7 +35604,6 @@ R-2% [vt
 saith |S Xx 1\*xFe
 °° ©
 may-3=0 Aonk=2 ,n=3 , free vat =
--2yre =o lek Y be [ree vau
 eco
 
 Me y-2y4oo9X= 4
@@ -34750,7 +35718,6 @@ S]-3 0 ¥{[X* sai
 
 -2na4 443 =0°
 — 2K a
-oh je oN a gi tae S
 “ye eos 1
 Yi 3 Pe fet
 a cg ok
@@ -34765,7 +35732,6 @@ Bs ie
 I? , 0 |r f
 so 0 ©
 
-H2ArYeZ> 0 Le y Ax be pe yau .
 
 Ee eEeE) |B
 sof} LTO) gneft ef]
@@ -34879,1396 +35845,6 @@ Hence veu fied .
 FRR ICR 7 6 AC OH
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper afca211a065a
-
-- Departments: Computer Engineering
-- Programmes: MBATech Computer 7047
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
-- Text: mixed (24 pages), mean OCR confidence 44.3
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
-(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Linear Algebra and Differential Equations
-Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 24 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. All questions carry equal marks.
-7. Assume Suitable data if necessary.
-********** 1 **********
---- page 2 ---
-BTech /MBA Tech CAN Stream)
-
-es) Sem Tr — LADE
-ayLet A- Wie -14
-
-2 ee 4
-
-' 2 3 4
-
--1 -2 6
-
-To Reduce qo $ow- echelon fo3m
-Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
-
-t 2 -\4
-
-Oo oO Y5\-4
-
-0 D2 40
-0 oO 5-3
-
-Ra>Rs ~ ER } Ra, > Ran Ra
-
-~~
-~
-
-—_—— £1)
-
-|
-= ‘2 -\4
-0 Oo Ss -§
-0 0 0 Ms
-oo 0 VJ
-Rs >Pax S16, Ry > Run Ps
-= \ 29 -\ 4
-o Oo Sct gn
-0 oOo °° \
-© O oO O |
-
-e(A) => ane)
-
-FIC 2 I HH ar
---- page 3 ---
-c=(1)1) ‘ p=(% 0)
-many
-(00?
-( yA | BCI?)
-00
-a) Tl) = Cx, 24) |
-T(00) = (0,0)=A ; TCt,e Os 8
-Tih= (Dee + 0,2 ©) =
-sO)
-_—(2)
-coi)” C
-coo ® (119)
-
-Square teanktoams bo
-
-TAL tomole amd
-
-2/24
-
-AR RK 3 RK
---- page 4 ---
-c)
-
-aiven
-
-x+
-=C
-DIFF aed ix!
-\+ a2dy = |
-Ax =e
-
-dy 2
-ax OE
-Fo 0) j
-2 ith gorol txoi ectory
-Ay Zk
-ab
-On colving-
-oy = oa dx
-gdy= 2 S4*
-
-Ya 270 +c
-
-ox yre = 0
-
-—t!)
---- page 5 ---
-a)
-
-Given io» "Chapa J =O
-Let £Cp)= (p-2) (x21 =O
-Consider auxi\lay 247
-Cm 2) CaP ares) = © _
-M=2;2,% | me(itt) (peice) —O
-
-Yee CF = (E+ Crp ese e+
-
-———(!
-
-E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
---- page 6 ---
-é) GiNen L= xy - FAY)
-
-tet og =
-. Ze way - $L4)
-
-DK weet ‘9! paotally
-Oz = |-O -£u)-y
-
-- OF
-P= Oy
-
-piff wot ‘gy partially
-g2 BE = O-|- #(u)-x
-— ©O
-1
-p-1 =-f'Cuy
-q+\ = —-#CW)*
-
--\ 5 x+\
-
-LCP) = you
-
-—O
---- page 7 ---
-Ginen
-Axe O
-Az } 2 2
-2 3 \f-
-ag s4
-ee ie
-
-\ Ww 3
-
-o -\ ~s
-
-o -3 ~&
-_| a
-
-FR RK
-
-FR CK
-
-—O)
---- page 8 ---
-Tay = Can 2ery, Bxo'y)
-
-td. basic of K ae:
-eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
-
-Cpe, 2) = G, °) 3)
-Tle,40) = (0,1, - __— @
-(0, 0,1) = C-2,0, © '
-
-Mat x arsotatad with T
-
-My, =+=/(% O -2
-D0 \ 6 _—
-> Gq ©O
-
-\M\= 6 £0 —A
-oT fs tnvertiable |
-
-T Curse = (x yz) ___—_(2)
-Cay, = (uw .
-
-On , Solving
---- page 9 ---
-oO 4a )y 2 Seco)
-
-m,,M2 = Oso
-+ C2SiINQ 4
-
-Pe cinax ——_)
-
-an *
-Lon qr= Cos ,
-
-Let PI = bYtVyr —
-We] Yt val Cos ak — SINAK
-[4 gi \F festron ae
-
-= QO
-1 _lea(cosax) ———O
-ar
-
-_
-
-_
-
-wana ©
-os Jape oe -
-
-og Ccesax) + 4 enor = 0
-
-_ ax |
-
-es = Ch + PL
-
-= cocant SING + _O
-5 Nar
-
-1 Cosa [gCasan) +1
-ae
-
-Q/>4
-
-FIC QF OH ar
---- page 10 ---
-6a Wa? Cuyd ef. [ox —y+3% sof .
-” pet Us CDE) ay 4 Foz=0 { 9
-ao
-
-—Ua4+-3Z0=
-Y= Cay, zee, 22-3
-
-Jo prove ——)
-au+ bY Ew
-Contidev ab (%, y, |Z2)
-= CeiY, 7!
-ausrbye = 40"! a+b) —O)
-
-an +be, ay ry.)
-
-_
-_
-
-Now, .
-» Carr +b) — Gyrbys) + 3Can O%
-
-0
-= a Cex) 437, .) + b (2x2-Yst 322)
-ra) &: form oO _—{()
-
-autrbs €W -
-
-- W ¥s Subspace. . _ 4
-
-DR ROR RK 10 FRR KRHA
---- page 11 ---
-A= 2 Oo —-\
-O 2 (0)
--| Oo 2
-
-Consider chy ©,
-la~ At) = O
-XM —EN+4NA- 6 =O
-By Cay\ ex ~ Hani Hon +Reorem
-o_o —O
-
-—
-
-A- ON +NVA- OCT =
-To vew Fy cH +heovem
-
-Luge APG AIA Wet
-
-= (g) oO oO
-Oo eo 0 —@®
-oO oO
-
-To Fmd A 4
-Poe multiply ea O va A
-
-N—-GA+TIND -6Kk' =
-“Ns fe o Ys ——
-oe) Vo oO
-V2, e) >a
-At GArF+ WAX —ECR= O
-o Ata Ale 6 -4
-O 16 Oo
-“to 9 a 24
-1
-
-To fad wt , mul ply eq © by A
-
-1
---- page 12 ---
-?
-
-let the Solutron he
-2 aa
-y- Eo
-
-Ad
-1 = S Ok. koe
-el _
-y" _ a (erm Kk) x
-\jer2
-
-{| a
-Q,=>0 > Qs a
-Que OW = EO
-
-A= O
-2. | naa 7 os
-
-+ Ox— 14
-Oo ce 1g {20
-
-\2/ 2a
-
-FRR ICR] DA KH
-
-e+ atts:
---- page 13 ---
-€APY — pCp-1) Co-2)
-aad
-
-“HO a
-ad CF
-Te od GF ouxillasg 25,
-kCp= D+2D —2D= O
-
---|iVN3 ; D=°
-B= —! C-teNG) 2
-
-(-1 “D2
-
-~W =z A+ Ge +G€
-
-To Find 4
-qez PLl= za [a D'+2D 5-2)
-7 =[ D4 nD Paagoel
-
-FR RK
-
-FR CK
-
-_—O®
-
-—®D
-
-oO
---- page 14 ---
-b) an |
-{ 2 6
-~ Oo 2
-
-Conside, chor eq, JAA] =0
-XEN + 8A= 0
-=x r= Oo, 2, 4
-Eigen walues ave 0,24"
-To Pood eigen vectors
-fos X= O
-(A- XT)A=O
-A X= O
-Fos a
-(A aK
-=| 9
-2
-|
-
-X = 2
-—\
-}
---- page 15 ---
-© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
-Consider AUr+ Ce Ur + Cau, = ©
-A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
-20,+ 2O.+ 2a, = 0
-
-—a, + 6 Os + 10d =O
-Hd, +202 + C)ds = ©
-
--)]2 1c) =
-[D)= | ¢ iol = 12 FO-
-
-q 2 +
-/ Ur, Us, Ae AXL lineoorl 4 inclop endent
-
-ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
-
-Consider
-CyB + Co Ue + C21 = oO
-
-e601 ,3,3) tea COrl +476 D074 0)
-
-C+ 0C2 $503 = O
-BC, + C2 TOS =O
-
-acy +402 +303 = ©
-S
-- \ 12)
-Ip |z _ 6 |= o4d£o-
-3 4 3
-
--. Uy, We Vo OL Wineocs}y independ ent .
-
-/ 24
-
-FRR IC 7 DA HOH
---- page 16 ---
-pat d=
-
-(6% — apreng=e
-
-Consider cur xi | losy 21)
-De nan =O
-D= 2, |
-
-CF = Yer cre %4 GE”
-
-PL 2D
-= ae es é* .
-[Gao
-
-= xf J |e
-
-2D-3
-
-pea
-= re
-
-oye ote
-
-re
-= Kner € a CE
-
-16/o4
-
-FRR ICR 7 6 AC OH
---- page 17 ---
-b)
-
-_
-(e+) COSX Ax +eC€ stax Ay = fo)
-12)
-mM = (E41) cos x tN se sinx
-
-y
-aN - ecosx } AN ~e osx
-oY Ox
-. = aN
-
-a Equorion is exact .
-The jengrot sol”
-
-SM ax + KNdy =e
-Cy constant) CAree of >)
-
-(e+) sox = C
-
-oo
-
-FRR ICR] AC OH
-
-—
-
-_—-@
-
-——O
---- page 18 ---
-C) CONF Cay, DER /x+2y-z20t
-
-Z= 24400
-
-We? (xy, ogra /my ers
-
-=F xC\,0, D+¥ Corl, D /my oR] —2
-
-W ts lioeaoly Enckep erdent and
-
-Span of p —__—_ff)
-—. \) fs basis: —_
-ain (Ww) = 2
-
-Gi) Veh xuyD ER / xx 3t, yet, vest tERY
-
-= £ G_,+:5t) JER.
-$4 (2), D [FERS
-
-VU Ys \ineo\ independent omd {i
-Span of- >,
-
-o. Mis basis - :
-ainW = 4 —0)
-
-8/ am
-
-DR ROR RK 1Q FH
---- page 19 ---
-8) y sy
-
-Q) Gora , =e J/ge=e
-
-On”
-cha —-Z2O
-Cx”
-(oO z= O
-
-let ca € then m= ),-]
-zo C(O 4Qn =e
-ae
-
-QRH Ue -— Ae
-Ox ;
-
-)
-2S OY ZH e€
-
-Za=- CitCr
-e = Oo +Cr
-
-c= Coshy |) cy eatohy
-
-zee ceshy — ersinhy
-
-19/0
-
-FRR ICR 7 QI OR
---- page 20 ---
-C4) aut p= et
-dt
-
-do + Jt=*
-
-ot (tH)
-~ J. ; 6)=t
-PCE) ay /
-At
-TRE = om = ee +41
-
-TCHiy= § Cen) +¢
-
-ICH) = #2 4+ 4¢
-3 Q-
-
-DR ROR RK 20 FRR HK RK
---- page 21 ---
-> oo rn
-oa { -&
-~| 2.0
-
-To fnd agen Value
-Considee (A-At] =o
-AP LN 2) NSUS =O
-N= 3-3 F
-To #md etyen vector
-
-\ = -3,-3
-(A+8T)X=0
-
-“E
-
-fos X= 2
-AM= 2} GMs 2
-
-for Aa ST
-ame #1; GM=!
-
-A $s cla nalixable ° a
-M such wan = D
-
-%
-vo hore
-M = 2? x2 -} \ De —3 iw) ®
-
-to -2{ ” Oo 30
-
-Oo \ \ o 0 SF
-
-FI ICR D7 FAC HOH
-
-—O
---- page 22 ---
-QF) (B—ap+3 )y - jos ax —O
-ND eCp= papas
-
-Puxillomy eq? 465) =o
-
-D= Brie
-Q
-
-CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
-
-To Find PL
-Assume y= A eiaronc-+ Bcos mx
-
-= ASn2x + BCOSSH
-Dy = 3A cosax — 2psin3x
-
-Oy = —F Asn3ax — AB Cos. Bac
-Sub In eg WO and Solving Fry ABB
-
-A= -£$ :; B= 2
-IB 7 3
-
-*-fp 2 Sfodx + 12 cos Se
-a
-
-54 t +P
-- OP ey cos (CE és >) +o S02) |
-
-_ sinea + 12 (e330
-+ (-%&)* 1Z
-
-22/5 4
-
-FIR ICR DAC HH
---- page 23 ---
-fo) Qu = au
-Daan + gy
-Assume Sol” U (x= xD) YOp= XY
-Bu = Ygx p Gu = Xdy
-
-OX
-
-L. Ax + X = 2x¥
-“y Ax 43
-
-yy -s
-Now, Uo, 4)= ae-e?
-put x= oOo & Gg
-
-Keo) eoaey
-
-ulo, oe ce
-2 Cs Cy FOr
-
-- 4) Y
-ge 6 = (e402) &
-é2.% 2 B=
-Ga-S > Keo
-
-Y ax— Sy
-
--s U(n p)=3e" —e,
-
-DR ROR RK 23 RRR RK
---- page 24 ---
-& Kat=? Cay DER / TAY, D =o __-@
-
-22)
-ocx -Z, z-x) 3 (ees
-= ) ,
-
-w-y=0 => x=JY
-yz =O > ze
-
-vy -X= O Zak
-=7C4,4 p J pers
-= ty) /y eR =)
-Null y= dim( e2rT ) -
-= L
-Range = 5 aes) Poe ey —
-= {1x4 [Cay DER F
-= play, y-zZ, z-x) J 4,2 ery
-= {CPrd> _p-4 / Pd EPS
-=$p Clie, -\) + 9 Cor), D/P qe —&
-Rank T = Aim C RanjeT) _6
-= 2
-pim (&) = Ranke T+ Null ity ©
-=~ OO2r \=B8 —
-dim(E) =3
-
-alka
-
-DR ROR RK DY HR RK RK
-````
-
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 60ff843a94a9
-
-- Departments: Data Science
-- Programmes: MBATech DS 7052
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_DS_7052/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
-- Text: mixed (24 pages), mean OCR confidence 44.3
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
-(COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Linear Algebra and Differential Equations
-Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 24 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. All questions carry equal marks.
-7. Assume Suitable data if necessary.
-********** 1 **********
---- page 2 ---
-BTech /MBA Tech CAN Stream)
-
-es) Sem Tr — LADE
-ayLet A- Wie -14
-
-2 ee 4
-
-' 2 3 4
-
--1 -2 6
-
-To Reduce qo $ow- echelon fo3m
-Ri, > R- 2Ry, Rs > Ra- Ry QD Ra > Rat R,
-
-t 2 -\4
-
-Oo oO Y5\-4
-
-0 D2 40
-0 oO 5-3
-
-Ra>Rs ~ ER } Ra, > Ran Ra
-
-~~
-~
-
-—_—— £1)
-
-|
-= ‘2 -\4
-0 Oo Ss -§
-0 0 0 Ms
-oo 0 VJ
-Rs >Pax S16, Ry > Run Ps
-= \ 29 -\ 4
-o Oo Sct gn
-0 oOo °° \
-© O oO O |
-
-e(A) => ane)
-
-FIC 2 I HH ar
---- page 3 ---
-c=(1)1) ‘ p=(% 0)
-many
-(00?
-( yA | BCI?)
-00
-a) Tl) = Cx, 24) |
-T(00) = (0,0)=A ; TCt,e Os 8
-Tih= (Dee + 0,2 ©) =
-sO)
-_—(2)
-coi)” C
-coo ® (119)
-
-Square teanktoams bo
-
-TAL tomole amd
-
-2/24
-
-AR RK 3 RK
---- page 4 ---
-c)
-
-aiven
-
-x+
-=C
-DIFF aed ix!
-\+ a2dy = |
-Ax =e
-
-dy 2
-ax OE
-Fo 0) j
-2 ith gorol txoi ectory
-Ay Zk
-ab
-On colving-
-oy = oa dx
-gdy= 2 S4*
-
-Ya 270 +c
-
-ox yre = 0
-
-—t!)
---- page 5 ---
-a)
-
-Given io» "Chapa J =O
-Let £Cp)= (p-2) (x21 =O
-Consider auxi\lay 247
-Cm 2) CaP ares) = © _
-M=2;2,% | me(itt) (peice) —O
-
-Yee CF = (E+ Crp ese e+
-
-———(!
-
-E[ G+ CEX) COS OC + Cer 9X) Fo. | a ()
---- page 6 ---
-é) GiNen L= xy - FAY)
-
-tet og =
-. Ze way - $L4)
-
-DK weet ‘9! paotally
-Oz = |-O -£u)-y
-
-- OF
-P= Oy
-
-piff wot ‘gy partially
-g2 BE = O-|- #(u)-x
-— ©O
-1
-p-1 =-f'Cuy
-q+\ = —-#CW)*
-
--\ 5 x+\
-
-LCP) = you
-
-—O
---- page 7 ---
-Ginen
-Axe O
-Az } 2 2
-2 3 \f-
-ag s4
-ee ie
-
-\ Ww 3
-
-o -\ ~s
-
-o -3 ~&
-_| a
-
-FR RK
-
-FR CK
-
-—O)
---- page 8 ---
-Tay = Can 2ery, Bxo'y)
-
-td. basic of K ae:
-eC. e C1,°,9 p Ge= (0,\, 0) »ez(0 0,1)
-
-Cpe, 2) = G, °) 3)
-Tle,40) = (0,1, - __— @
-(0, 0,1) = C-2,0, © '
-
-Mat x arsotatad with T
-
-My, =+=/(% O -2
-D0 \ 6 _—
-> Gq ©O
-
-\M\= 6 £0 —A
-oT fs tnvertiable |
-
-T Curse = (x yz) ___—_(2)
-Cay, = (uw .
-
-On , Solving
---- page 9 ---
-oO 4a )y 2 Seco)
-
-m,,M2 = Oso
-+ C2SiINQ 4
-
-Pe cinax ——_)
-
-an *
-Lon qr= Cos ,
-
-Let PI = bYtVyr —
-We] Yt val Cos ak — SINAK
-[4 gi \F festron ae
-
-= QO
-1 _lea(cosax) ———O
-ar
-
-_
-
-_
-
-wana ©
-os Jape oe -
-
-og Ccesax) + 4 enor = 0
-
-_ ax |
-
-es = Ch + PL
-
-= cocant SING + _O
-5 Nar
-
-1 Cosa [gCasan) +1
-ae
-
-Q/>4
-
-FIC QF OH ar
---- page 10 ---
-6a Wa? Cuyd ef. [ox —y+3% sof .
-” pet Us CDE) ay 4 Foz=0 { 9
-ao
-
-—Ua4+-3Z0=
-Y= Cay, zee, 22-3
-
-Jo prove ——)
-au+ bY Ew
-Contidev ab (%, y, |Z2)
-= CeiY, 7!
-ausrbye = 40"! a+b) —O)
-
-an +be, ay ry.)
-
-_
-_
-
-Now, .
-» Carr +b) — Gyrbys) + 3Can O%
-
-0
-= a Cex) 437, .) + b (2x2-Yst 322)
-ra) &: form oO _—{()
-
-autrbs €W -
-
-- W ¥s Subspace. . _ 4
-
-DR ROR RK 10 FRR KRHA
---- page 11 ---
-A= 2 Oo —-\
-O 2 (0)
--| Oo 2
-
-Consider chy ©,
-la~ At) = O
-XM —EN+4NA- 6 =O
-By Cay\ ex ~ Hani Hon +Reorem
-o_o —O
-
-—
-
-A- ON +NVA- OCT =
-To vew Fy cH +heovem
-
-Luge APG AIA Wet
-
-= (g) oO oO
-Oo eo 0 —@®
-oO oO
-
-To Fmd A 4
-Poe multiply ea O va A
-
-N—-GA+TIND -6Kk' =
-“Ns fe o Ys ——
-oe) Vo oO
-V2, e) >a
-At GArF+ WAX —ECR= O
-o Ata Ale 6 -4
-O 16 Oo
-“to 9 a 24
-1
-
-To fad wt , mul ply eq © by A
-
-1
---- page 12 ---
-?
-
-let the Solutron he
-2 aa
-y- Eo
-
-Ad
-1 = S Ok. koe
-el _
-y" _ a (erm Kk) x
-\jer2
-
-{| a
-Q,=>0 > Qs a
-Que OW = EO
-
-A= O
-2. | naa 7 os
-
-+ Ox— 14
-Oo ce 1g {20
-
-\2/ 2a
-
-FRR ICR] DA KH
-
-e+ atts:
---- page 13 ---
-€APY — pCp-1) Co-2)
-aad
-
-“HO a
-ad CF
-Te od GF ouxillasg 25,
-kCp= D+2D —2D= O
-
---|iVN3 ; D=°
-B= —! C-teNG) 2
-
-(-1 “D2
-
-~W =z A+ Ge +G€
-
-To Find 4
-qez PLl= za [a D'+2D 5-2)
-7 =[ D4 nD Paagoel
-
-FR RK
-
-FR CK
-
-_—O®
-
-—®D
-
-oO
---- page 14 ---
-b) an |
-{ 2 6
-~ Oo 2
-
-Conside, chor eq, JAA] =0
-XEN + 8A= 0
-=x r= Oo, 2, 4
-Eigen walues ave 0,24"
-To Pood eigen vectors
-fos X= O
-(A- XT)A=O
-A X= O
-Fos a
-(A aK
-=| 9
-2
-|
-
-X = 2
-—\
-}
---- page 15 ---
-© Oi) we(2,4) | = C3 & 2) sUs= @ \v,-4)
-Consider AUr+ Ce Ur + Cau, = ©
-A,(2,-1 A) + a.(% 6, 2) + a,(2, ] 0, ~}) = (0/0,0)
-20,+ 2O.+ 2a, = 0
-
-—a, + 6 Os + 10d =O
-Hd, +202 + C)ds = ©
-
--)]2 1c) =
-[D)= | ¢ iol = 12 FO-
-
-q 2 +
-/ Ur, Us, Ae AXL lineoorl 4 inclop endent
-
-ED) 9) =C1,3,3) 5 tz (o, , +) ; Ws = (56,3)
-
-Consider
-CyB + Co Ue + C21 = oO
-
-e601 ,3,3) tea COrl +476 D074 0)
-
-C+ 0C2 $503 = O
-BC, + C2 TOS =O
-
-acy +402 +303 = ©
-S
-- \ 12)
-Ip |z _ 6 |= o4d£o-
-3 4 3
-
--. Uy, We Vo OL Wineocs}y independ ent .
-
-/ 24
-
-FRR IC 7 DA HOH
---- page 16 ---
-pat d=
-
-(6% — apreng=e
-
-Consider cur xi | losy 21)
-De nan =O
-D= 2, |
-
-CF = Yer cre %4 GE”
-
-PL 2D
-= ae es é* .
-[Gao
-
-= xf J |e
-
-2D-3
-
-pea
-= re
-
-oye ote
-
-re
-= Kner € a CE
-
-16/o4
-
-FRR ICR 7 6 AC OH
---- page 17 ---
-b)
-
-_
-(e+) COSX Ax +eC€ stax Ay = fo)
-12)
-mM = (E41) cos x tN se sinx
-
-y
-aN - ecosx } AN ~e osx
-oY Ox
-. = aN
-
-a Equorion is exact .
-The jengrot sol”
-
-SM ax + KNdy =e
-Cy constant) CAree of >)
-
-(e+) sox = C
-
-oo
-
-FRR ICR] AC OH
-
-—
-
-_—-@
-
-——O
---- page 18 ---
-C) CONF Cay, DER /x+2y-z20t
-
-Z= 24400
-
-We? (xy, ogra /my ers
-
-=F xC\,0, D+¥ Corl, D /my oR] —2
-
-W ts lioeaoly Enckep erdent and
-
-Span of p —__—_ff)
-—. \) fs basis: —_
-ain (Ww) = 2
-
-Gi) Veh xuyD ER / xx 3t, yet, vest tERY
-
-= £ G_,+:5t) JER.
-$4 (2), D [FERS
-
-VU Ys \ineo\ independent omd {i
-Span of- >,
-
-o. Mis basis - :
-ainW = 4 —0)
-
-8/ am
-
-DR ROR RK 1Q FH
---- page 19 ---
-8) y sy
-
-Q) Gora , =e J/ge=e
-
-On”
-cha —-Z2O
-Cx”
-(oO z= O
-
-let ca € then m= ),-]
-zo C(O 4Qn =e
-ae
-
-QRH Ue -— Ae
-Ox ;
-
-)
-2S OY ZH e€
-
-Za=- CitCr
-e = Oo +Cr
-
-c= Coshy |) cy eatohy
-
-zee ceshy — ersinhy
-
-19/0
-
-FRR ICR 7 QI OR
---- page 20 ---
-C4) aut p= et
-dt
-
-do + Jt=*
-
-ot (tH)
-~ J. ; 6)=t
-PCE) ay /
-At
-TRE = om = ee +41
-
-TCHiy= § Cen) +¢
-
-ICH) = #2 4+ 4¢
-3 Q-
-
-DR ROR RK 20 FRR HK RK
---- page 21 ---
-> oo rn
-oa { -&
-~| 2.0
-
-To fnd agen Value
-Considee (A-At] =o
-AP LN 2) NSUS =O
-N= 3-3 F
-To #md etyen vector
-
-\ = -3,-3
-(A+8T)X=0
-
-“E
-
-fos X= 2
-AM= 2} GMs 2
-
-for Aa ST
-ame #1; GM=!
-
-A $s cla nalixable ° a
-M such wan = D
-
-%
-vo hore
-M = 2? x2 -} \ De —3 iw) ®
-
-to -2{ ” Oo 30
-
-Oo \ \ o 0 SF
-
-FI ICR D7 FAC HOH
-
-—O
---- page 22 ---
-QF) (B—ap+3 )y - jos ax —O
-ND eCp= papas
-
-Puxillomy eq? 465) =o
-
-D= Brie
-Q
-
-CF = Ye = © Ferces X3 x) + o Sto(l5.x) |
-
-To Find PL
-Assume y= A eiaronc-+ Bcos mx
-
-= ASn2x + BCOSSH
-Dy = 3A cosax — 2psin3x
-
-Oy = —F Asn3ax — AB Cos. Bac
-Sub In eg WO and Solving Fry ABB
-
-A= -£$ :; B= 2
-IB 7 3
-
-*-fp 2 Sfodx + 12 cos Se
-a
-
-54 t +P
-- OP ey cos (CE és >) +o S02) |
-
-_ sinea + 12 (e330
-+ (-%&)* 1Z
-
-22/5 4
-
-FIR ICR DAC HH
---- page 23 ---
-fo) Qu = au
-Daan + gy
-Assume Sol” U (x= xD) YOp= XY
-Bu = Ygx p Gu = Xdy
-
-OX
-
-L. Ax + X = 2x¥
-“y Ax 43
-
-yy -s
-Now, Uo, 4)= ae-e?
-put x= oOo & Gg
-
-Keo) eoaey
-
-ulo, oe ce
-2 Cs Cy FOr
-
-- 4) Y
-ge 6 = (e402) &
-é2.% 2 B=
-Ga-S > Keo
-
-Y ax— Sy
-
--s U(n p)=3e" —e,
-
-DR ROR RK 23 RRR RK
---- page 24 ---
-& Kat=? Cay DER / TAY, D =o __-@
-
-22)
-ocx -Z, z-x) 3 (ees
-= ) ,
-
-w-y=0 => x=JY
-yz =O > ze
-
-vy -X= O Zak
-=7C4,4 p J pers
-= ty) /y eR =)
-Null y= dim( e2rT ) -
-= L
-Range = 5 aes) Poe ey —
-= {1x4 [Cay DER F
-= play, y-zZ, z-x) J 4,2 ery
-= {CPrd> _p-4 / Pd EPS
-=$p Clie, -\) + 9 Cor), D/P qe —&
-Rank T = Aim C RanjeT) _6
-= 2
-pim (&) = Ranke T+ Null ity ©
-=~ OO2r \=B8 —
-dim(E) =3
-
-alka
-
-DR ROR RK DY HR RK RK
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper c0b10937be40
 
 - Departments: Information Technology
@@ -36276,6 +35852,8 @@ DR ROR RK DY HR RK RK
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_IT_7041/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -36331,7 +35909,6 @@ ax “ Qylogyty-%
 By Cross multiplication ,
 (ay logyty-) dy = yd
 ydx = Cay logy ty-x) dy =O
-Comparing coith Mdx +Ndy =o
 
 mzy j N=-(2ylogy +y->)
 ; * OM. , ON .=-Cn=!
@@ -36348,7 +35925,6 @@ xy-2fylogydy-fydy =c
 om)
 
 2 2 2 usin
-oy -2[ logy ¥° -fxLay]-pee ore Se
 ig > of by Parts )
 xy-2[ yiedy -1.y°J-¥ =C
 : tg
@@ -36369,7 +35945,6 @@ FIC 2 I HH ar
 --- page 3 ---
 e. | Form the PDE by eliminating the arbitrary function from
 z=xy+firr+y’).
-E Vieni nate acbilrsty funchen
 C= ny + bie+y)
 
 a:
@@ -36478,7 +36053,6 @@ R-2% [vt
 saith |S Xx 1\*xFe
 °° ©
 may-3=0 Aonk=2 ,n=3 , free vat =
--2yre =o lek Y be [ree vau
 eco
 
 Me y-2y4oo9X= 4
@@ -36593,7 +36167,6 @@ S]-3 0 ¥{[X* sai
 
 -2na4 443 =0°
 — 2K a
-oh je oN a gi tae S
 “ye eos 1
 Yi 3 Pe fet
 a cg ok
@@ -36608,7 +36181,6 @@ Bs ie
 I? , 0 |r f
 so 0 ©
 
-H2ArYeZ> 0 Le y Ax be pe yau .
 
 Ee eEeE) |B
 sof} LTO) gneft ef]
@@ -36729,6 +36301,8 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_Computer_7032/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2025
 - Text: mixed (18 pages), mean OCR confidence 42.8
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -36864,7 +36438,6 @@ ail ®) = 3B: .
 “. Reamer at Atalle ty QT= dem CR?)
 
 Pt —o t=
-Rew) Aheorern Veré fied
 
 FIC DI EH ar
 --- page 6 ---
@@ -36896,7 +36469,6 @@ oo SO-2; < 6 «ate [7]
 Moderate -~ 7 ns
 a -4
 os a7-(2
-8 cs es i St i e é
 gk jo “10 5
 
 RBs” :
@@ -37023,7 +36595,6 @@ FRI ICR 7 FI OH
 » Xe* (de-dy) + Xdx¢
 ve fay
 
-Me (we™ 40% dx + 26) dy O £t1)
 
 Com Ud with Mdx a
 : Me: Ler ex | Ne eb Lee’
@@ -37034,7 +36605,6 @@ Ox dy xet+eX%
 yay 7
 C0-3: SO-I: : te 2 osét oo Set | 2
 BL.” a puller gimme wlth ey, 7
-Moderate arre*% o5 ole +ger. od _xeXr. ody mee
 
 exact DE
 
@@ -37044,7 +36614,6 @@ exact DE
 60° %& fear Adu + 4 dy ac
 
 sc
-ed [an e%4- [eX ] + y* ac
 
 es Laer et- er +4 [2
 eers +¥ zc
@@ -37235,13 +36804,10 @@ Ot
 ~ (D+1)(D+2)=0 « D=-1,2.
 x The C.Ris y=c,e* +a, 0°%, — |
 Here yy se’, yy se’, X= e*
-Let Pl. be y= uy + Wp «|
-My Ye ]}_} e* et] nsx i.
 CO-4; SO-1; Now, [* | _ “20 8 |
 BL- x i
 2 oe ave le erdr=ae™ x
 Moderate . ae im x= i: “=e * ax fet e*dx=e [ Put e* = t} =|
-and v= jax dx = j= o° deem Jor or" ax
 Putting e* = t, valeacrani *. veere” — 6% — |
 Pils uyy + Vy2 = 0° + @™* —(a%0% — 9°") «972% = 9 2X. 9" _— |
 -. The complete solution is
@@ -37295,6 +36861,8 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_DS_7038/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2025
 - Text: mixed (18 pages), mean OCR confidence 42.8
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -37430,7 +36998,6 @@ ail ®) = 3B: .
 “. Reamer at Atalle ty QT= dem CR?)
 
 Pt —o t=
-Rew) Aheorern Veré fied
 
 FIC DI EH ar
 --- page 6 ---
@@ -37462,7 +37029,6 @@ oo SO-2; < 6 «ate [7]
 Moderate -~ 7 ns
 a -4
 os a7-(2
-8 cs es i St i e é
 gk jo “10 5
 
 RBs” :
@@ -37589,7 +37155,6 @@ FRI ICR 7 FI OH
 » Xe* (de-dy) + Xdx¢
 ve fay
 
-Me (we™ 40% dx + 26) dy O £t1)
 
 Com Ud with Mdx a
 : Me: Ler ex | Ne eb Lee’
@@ -37600,7 +37165,6 @@ Ox dy xet+eX%
 yay 7
 C0-3: SO-I: : te 2 osét oo Set | 2
 BL.” a puller gimme wlth ey, 7
-Moderate arre*% o5 ole +ger. od _xeXr. ody mee
 
 exact DE
 
@@ -37610,7 +37174,6 @@ exact DE
 60° %& fear Adu + 4 dy ac
 
 sc
-ed [an e%4- [eX ] + y* ac
 
 es Laer et- er +4 [2
 eers +¥ zc
@@ -37801,13 +37364,10 @@ Ot
 ~ (D+1)(D+2)=0 « D=-1,2.
 x The C.Ris y=c,e* +a, 0°%, — |
 Here yy se’, yy se’, X= e*
-Let Pl. be y= uy + Wp «|
-My Ye ]}_} e* et] nsx i.
 CO-4; SO-1; Now, [* | _ “20 8 |
 BL- x i
 2 oe ave le erdr=ae™ x
 Moderate . ae im x= i: “=e * ax fet e*dx=e [ Put e* = t} =|
-and v= jax dx = j= o° deem Jor or" ax
 Putting e* = t, valeacrani *. veere” — 6% — |
 Pils uyy + Vy2 = 0° + @™* —(a%0% — 9°") «972% = 9 2X. 9" _— |
 -. The complete solution is
@@ -37861,6 +37421,8 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_IT_7037/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2025
 - Text: mixed (18 pages), mean OCR confidence 42.8
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -37996,7 +37558,6 @@ ail ®) = 3B: .
 “. Reamer at Atalle ty QT= dem CR?)
 
 Pt —o t=
-Rew) Aheorern Veré fied
 
 FIC DI EH ar
 --- page 6 ---
@@ -38028,7 +37589,6 @@ oo SO-2; < 6 «ate [7]
 Moderate -~ 7 ns
 a -4
 os a7-(2
-8 cs es i St i e é
 gk jo “10 5
 
 RBs” :
@@ -38155,7 +37715,6 @@ FRI ICR 7 FI OH
 » Xe* (de-dy) + Xdx¢
 ve fay
 
-Me (we™ 40% dx + 26) dy O £t1)
 
 Com Ud with Mdx a
 : Me: Ler ex | Ne eb Lee’
@@ -38166,7 +37725,6 @@ Ox dy xet+eX%
 yay 7
 C0-3: SO-I: : te 2 osét oo Set | 2
 BL.” a puller gimme wlth ey, 7
-Moderate arre*% o5 ole +ger. od _xeXr. ody mee
 
 exact DE
 
@@ -38176,7 +37734,6 @@ exact DE
 60° %& fear Adu + 4 dy ac
 
 sc
-ed [an e%4- [eX ] + y* ac
 
 es Laer et- er +4 [2
 eers +¥ zc
@@ -38367,13 +37924,10 @@ Ot
 ~ (D+1)(D+2)=0 « D=-1,2.
 x The C.Ris y=c,e* +a, 0°%, — |
 Here yy se’, yy se’, X= e*
-Let Pl. be y= uy + Wp «|
-My Ye ]}_} e* et] nsx i.
 CO-4; SO-1; Now, [* | _ “20 8 |
 BL- x i
 2 oe ave le erdr=ae™ x
 Moderate . ae im x= i: “=e * ax fet e*dx=e [ Put e* = t} =|
-and v= jax dx = j= o° deem Jor or" ax
 Putting e* = t, valeacrani *. veere” — 6% — |
 Pils uyy + Vy2 = 0° + @™* —(a%0% — 9°") «972% = 9 2X. 9" _— |
 -. The complete solution is
@@ -38427,6 +37981,8 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_Mechanical_7031/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2025
 - Text: mixed (18 pages), mean OCR confidence 42.8
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -38562,7 +38118,6 @@ ail ®) = 3B: .
 “. Reamer at Atalle ty QT= dem CR?)
 
 Pt —o t=
-Rew) Aheorern Veré fied
 
 FIC DI EH ar
 --- page 6 ---
@@ -38594,7 +38149,6 @@ oo SO-2; < 6 «ate [7]
 Moderate -~ 7 ns
 a -4
 os a7-(2
-8 cs es i St i e é
 gk jo “10 5
 
 RBs” :
@@ -38721,7 +38275,6 @@ FRI ICR 7 FI OH
 » Xe* (de-dy) + Xdx¢
 ve fay
 
-Me (we™ 40% dx + 26) dy O £t1)
 
 Com Ud with Mdx a
 : Me: Ler ex | Ne eb Lee’
@@ -38732,7 +38285,6 @@ Ox dy xet+eX%
 yay 7
 C0-3: SO-I: : te 2 osét oo Set | 2
 BL.” a puller gimme wlth ey, 7
-Moderate arre*% o5 ole +ger. od _xeXr. ody mee
 
 exact DE
 
@@ -38742,7 +38294,6 @@ exact DE
 60° %& fear Adu + 4 dy ac
 
 sc
-ed [an e%4- [eX ] + y* ac
 
 es Laer et- er +4 [2
 eers +¥ zc
@@ -38933,13 +38484,10 @@ Ot
 ~ (D+1)(D+2)=0 « D=-1,2.
 x The C.Ris y=c,e* +a, 0°%, — |
 Here yy se’, yy se’, X= e*
-Let Pl. be y= uy + Wp «|
-My Ye ]}_} e* et] nsx i.
 CO-4; SO-1; Now, [* | _ “20 8 |
 BL- x i
 2 oe ave le erdr=ae™ x
 Moderate . ae im x= i: “=e * ax fet e*dx=e [ Put e* = t} =|
-and v= jax dx = j= o° deem Jor or" ax
 Putting e* = t, valeacrani *. veere” — 6% — |
 Pils uyy + Vy2 = 0° + @™* —(a%0% — 9°") «972% = 9 2X. 9" _— |
 -. The complete solution is

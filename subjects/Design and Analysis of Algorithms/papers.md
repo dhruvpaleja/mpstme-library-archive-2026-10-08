@@ -4,6 +4,162 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Exam not stated · Sem 4 · paper 354acf40a62e
+
+- Departments: Data Science
+- Programmes: B TECH / CSEDS-311
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSEDS-311/SEM-IV/DESIGN AND ANALYSIS OF ALGORITHMS/B Tech, Design and Analysis of Algorithms, Sem-IV, Batch, 2023-24, 2024-25, 2025-_eba13105.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 July 2026
+- Text: ocr (3 pages), mean OCR confidence 86.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGI
+, Academic Year: 2025-26
+" Program: B Tech (CSE DS-311)
+Year: IT Semester: LY
+
+Subject: Design and Analysis of Algorithms “
+Time: 2.00 pm to 5.00 pm (3 hrs) ©
+Date : 03 July 2026
+
+No. of Pages:_03
+Marks: 100
+
+Re-Exam (2023-24/2024-25/2025-26) _
+
+~ Tnstructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory
+5. Out of remaining questions, attempt any 4 question.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume suitable data if necessary.
+
+ans
+Ql Answer briefly: [20]
+CO-1; a. : . a . ’
+SO-I: Explain the fundamental characteristics of an algorithm with examples. 5
+BL-2 :
+CO-2; b. What is the greedy choice property? How is it satisfied in MST
+SO-6; problems? 1+4
+BO-3
+CO-2: on Write and explain the algorithm for the Longest Common Subsequence
+SO-6: using the Dynamic Programming approach. Analyse its time 5
+BO-3 complexity.
+CO-3; d. . . .
+S0-2: Solve the recurrence relation of the minmax problem using the 5
+, Substitution method.
+BL-2
+an a. With reference to Asymptotic complexity,
+|) Define Upper bound, Tight bound, Lower bound complexitiés. 6+4
+Q2 :
+CO-1; Explain the relaxation algorithm used in Bellman-Ford and analyze its
+SO-1; Time complexity
+BL-2
+CO-4; o
+SO-6,7; With reference to Merge sort,
+BL-2,4 b. 1) Explain the Merge Sort algorithm using the Divide-and-Conquer
+: approach. 8+2
+f 2) Discuss Merge sort with respect to stability and in-place sorting.
+Q3 a. 1) Explain any two types of algorithmic approaches with examples. 5+5
+CO-1; 2) Explain P, NP, NPH, and NPC decision problems with examples
+SO-1;
+BL-2 With reference to the Multistage Graph,
+7 ©. 1) State the Recurrence relation for the Multistage Graph problem ° IAD
+CO-3; using the dynamic programming approach and analyse the time
+SO- 2; complexity. 7
+
+FORK 7 RRR RRR KE
+--- page 2 ---
+>|
+
+BL-3
+
+2) Solve for a minimum cost path from ‘s’ to ‘t’ in the multistage graph
+of the figure given below. Adopt a backward approach.
+
+ag +9
+
+bf \
+oe wo,
+\
+
+“ SOF =—Y¢ 13)’
+~ a
+N, lb No Ny Ve
+a. 1) What happens to time complexity when:
+a) The number of recursive calls increase? 5
+b) The input size reduces faster (e.g., n/2 vs n-1) ~
+2) Solve the following recurrence relation using the recursion tree ))
+method- 8
+= 2
+Q4 T(n) = T(n/2) + T(n/4) +n .
+CO-2; * . .
+50-6: b. Assume that the numbers given below represent counts of letters in
+BL-5 hundreds from a file. For example, in the file, there will be exactly 20*
+100 occurrences of the letter ‘a > etc.,
+CO-4: a-20, c-11, d-2, e-10, 0-15, m-8, s-10, t-22, u-2
+0-1 ° Based on the given data, perform the task mentioned below. 342
+BL3 ° 1) Draw a Huffman tree :
+2) Generate Huffman codes for each letter, and calculate the
+total length of the encoded file 1+1+1
+3) Generate fixed-length coding for each letter (ASCII-7bits)
+4) Calculate the total length of fixed length for this file >
+5) Average bit length of the characters.
+6) Percentage of reduction when using the Huffman code.
+24345 J
+Q5 a. With reference to the n-Queen’s problem, 5)
+CO-3; 1) State the problem statement of the n-queen’s problem
+SO- 2; 2) Explain the Backtracking paradigm, in general.
+BL3 3) Generate a state-space tree for the 4 queens’ problem using the
+backtracking approach.
+CO-4; |) State the problem statement of Matrix Chain multiplication.
+SO-1; Write the recurrence relation to solve using the dynamic 2+1
+BL2 programming approach. :
+2) Appling Dynamic programming to derive the efficient order of
+multiplying four matrices.[A : 4x4, B:4x5,C: 5x2, D : 2x4] 7
+
+FRR AK RRR KR
+--- page 3 ---
+;
+
+“~~
+
+vi
+
+Q6 a.
+Apply the following methods to find the time complexity for the
+following recurrence function. +5
+a) Master Theorem b) Substitution Method 7
+T(n) = 3T(n/3) + n/2 T(n) = 2T(n/2) + nlogn {for n>1}
+b. Interpret the algorithm for the Longest Common sub sequences using
+Dynamic Programming, and analyse its complexity 8+2
+Write the asymptotic relation among all three functions.
+a. 1) f(n) = 2"; g(n) =n! ; h(n) =n'°8" 5+5
+Q7 2) Evaluate Time and Space complexity for the following code snippet
+CO-4;
+SO-1; int a =0, b=0; (2)
+BL3 for( i=0; i<N; i++)
+{
+for(j=0; j<N; j++)
+{ ,
+a=atj;
+}
+}
+CO-1; for(k=0; k<N; k++)
+SO-1; b=b+k;
+BL-1
+Illustrate the operation of Quicksort on the array A=<55, 21, 4, 17, 8+2
+b. 10, 30, 2, 61,72,3>. Analyse the time complexity of the entire operation
+
+across all scenarios. Show the complete data flow.
+
+FORK 2 REE
+````
+
 ## 2025-26 · Final-Exam · Sem 4 · paper c4e8a75f7e11
 
 - Departments: Data Science
@@ -840,6 +996,7 @@ BL2   problem can be solved using greedy approach.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-V/DESIGN & ANALYSIS ALGORITHMS/Design and Analysis of Algorithms, Sem-V, Year 2025-26 Final Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: ocr (3 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -971,7 +1128,6 @@ ial etc.) and
 identify the type of complexity function (such as linear, exponent
 plot the respective graphs of time complexity:
 
-(i) inta=0,b=0,n,m; . (ii) int i, n, k, x;
 { {
 
 for(i=0; i<n; i++) for(i=1; i<=n; i++)
@@ -2076,162 +2232,6 @@ ce
 FOI IG ACK ka
 ````
 
-## 2024-25 · Exam not stated · Sem 4 · paper 354acf40a62e
-
-- Departments: Data Science
-- Programmes: B TECH / CSEDS-311
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSEDS-311/SEM-IV/DESIGN AND ANALYSIS OF ALGORITHMS/B Tech, Design and Analysis of Algorithms, Sem-IV, Batch, 2023-24, 2024-25, 2025-_eba13105.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 July 2026
-- Text: ocr (3 pages), mean OCR confidence 86.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGI
-, Academic Year: 2025-26
-" Program: B Tech (CSE DS-311)
-Year: IT Semester: LY
-
-Subject: Design and Analysis of Algorithms “
-Time: 2.00 pm to 5.00 pm (3 hrs) ©
-Date : 03 July 2026
-
-No. of Pages:_03
-Marks: 100
-
-Re-Exam (2023-24/2024-25/2025-26) _
-
-~ Tnstructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No.1 is compulsory
-5. Out of remaining questions, attempt any 4 question.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume suitable data if necessary.
-
-ans
-Ql Answer briefly: [20]
-CO-1; a. : . a . ’
-SO-I: Explain the fundamental characteristics of an algorithm with examples. 5
-BL-2 :
-CO-2; b. What is the greedy choice property? How is it satisfied in MST
-SO-6; problems? 1+4
-BO-3
-CO-2: on Write and explain the algorithm for the Longest Common Subsequence
-SO-6: using the Dynamic Programming approach. Analyse its time 5
-BO-3 complexity.
-CO-3; d. . . .
-S0-2: Solve the recurrence relation of the minmax problem using the 5
-, Substitution method.
-BL-2
-an a. With reference to Asymptotic complexity,
-|) Define Upper bound, Tight bound, Lower bound complexitiés. 6+4
-Q2 :
-CO-1; Explain the relaxation algorithm used in Bellman-Ford and analyze its
-SO-1; Time complexity
-BL-2
-CO-4; o
-SO-6,7; With reference to Merge sort,
-BL-2,4 b. 1) Explain the Merge Sort algorithm using the Divide-and-Conquer
-: approach. 8+2
-f 2) Discuss Merge sort with respect to stability and in-place sorting.
-Q3 a. 1) Explain any two types of algorithmic approaches with examples. 5+5
-CO-1; 2) Explain P, NP, NPH, and NPC decision problems with examples
-SO-1;
-BL-2 With reference to the Multistage Graph,
-7 ©. 1) State the Recurrence relation for the Multistage Graph problem ° IAD
-CO-3; using the dynamic programming approach and analyse the time
-SO- 2; complexity. 7
-
-FORK 7 RRR RRR KE
---- page 2 ---
->|
-
-BL-3
-
-2) Solve for a minimum cost path from ‘s’ to ‘t’ in the multistage graph
-of the figure given below. Adopt a backward approach.
-
-ag +9
-
-bf \
-oe wo,
-\
-
-“ SOF =—Y¢ 13)’
-~ a
-N, lb No Ny Ve
-a. 1) What happens to time complexity when:
-a) The number of recursive calls increase? 5
-b) The input size reduces faster (e.g., n/2 vs n-1) ~
-2) Solve the following recurrence relation using the recursion tree ))
-method- 8
-= 2
-Q4 T(n) = T(n/2) + T(n/4) +n .
-CO-2; * . .
-50-6: b. Assume that the numbers given below represent counts of letters in
-BL-5 hundreds from a file. For example, in the file, there will be exactly 20*
-100 occurrences of the letter ‘a > etc.,
-CO-4: a-20, c-11, d-2, e-10, 0-15, m-8, s-10, t-22, u-2
-0-1 ° Based on the given data, perform the task mentioned below. 342
-BL3 ° 1) Draw a Huffman tree :
-2) Generate Huffman codes for each letter, and calculate the
-total length of the encoded file 1+1+1
-3) Generate fixed-length coding for each letter (ASCII-7bits)
-4) Calculate the total length of fixed length for this file >
-5) Average bit length of the characters.
-6) Percentage of reduction when using the Huffman code.
-24345 J
-Q5 a. With reference to the n-Queen’s problem, 5)
-CO-3; 1) State the problem statement of the n-queen’s problem
-SO- 2; 2) Explain the Backtracking paradigm, in general.
-BL3 3) Generate a state-space tree for the 4 queens’ problem using the
-backtracking approach.
-CO-4; |) State the problem statement of Matrix Chain multiplication.
-SO-1; Write the recurrence relation to solve using the dynamic 2+1
-BL2 programming approach. :
-2) Appling Dynamic programming to derive the efficient order of
-multiplying four matrices.[A : 4x4, B:4x5,C: 5x2, D : 2x4] 7
-
-FRR AK RRR KR
---- page 3 ---
-;
-
-“~~
-
-vi
-
-Q6 a.
-Apply the following methods to find the time complexity for the
-following recurrence function. +5
-a) Master Theorem b) Substitution Method 7
-T(n) = 3T(n/3) + n/2 T(n) = 2T(n/2) + nlogn {for n>1}
-b. Interpret the algorithm for the Longest Common sub sequences using
-Dynamic Programming, and analyse its complexity 8+2
-Write the asymptotic relation among all three functions.
-a. 1) f(n) = 2"; g(n) =n! ; h(n) =n'°8" 5+5
-Q7 2) Evaluate Time and Space complexity for the following code snippet
-CO-4;
-SO-1; int a =0, b=0; (2)
-BL3 for( i=0; i<N; i++)
-{
-for(j=0; j<N; j++)
-{ ,
-a=atj;
-}
-}
-CO-1; for(k=0; k<N; k++)
-SO-1; b=b+k;
-BL-1
-Illustrate the operation of Quicksort on the array A=<55, 21, 4, 17, 8+2
-b. 10, 30, 2, 61,72,3>. Analyse the time complexity of the entire operation
-
-across all scenarios. Show the complete data flow.
-
-FORK 2 REE
-````
-
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper c51695c513ec
 
 - Departments: Computer Engineering
@@ -2239,6 +2239,7 @@ FORK 2 REE
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/DESIGN AND ANALYSS OF ALGORITHMS/Design and Analysis of Algorithms, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 a_2c6a9957.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2397,7 +2398,6 @@ $02; BL2 Construct a Huffman Tree and find the encoded binary values for the
 
 following characters with given frequencies:
 
-A: 6, B: 10, C: 13, D: 14, E: 17, F: 46
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 8 · paper 1c0d59523997
@@ -2407,6 +2407,7 @@ A: 6, B: 10, C: 13, D: 14, E: 17, F: 46
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_08/Design and Analysis of Algorithms/Design and Analysis of Algorithms Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 89.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ss
@@ -2579,7 +2580,6 @@ Why Huffman approach is considered an optimal Greedy algorithm? | [10]
 Construct a Huffman Tree and find the encoded binary values for the
 following characters with given frequencies:
 
-A: 6, B: 10, C: 13, D: 14, E: 17, F: 46
 
 ~
 ````
@@ -3162,6 +3162,244 @@ algorithm is better and why?
 
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 4 · paper da419e3c35fd
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/DESIGN AND ANALYSS OF ALGORITHMS/Design and Analysis of Algorithms, Sem-IV, Final Exam & Re Exam 2022-23.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 88.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+
+SCHOOL OF TECHNOLOGY MANAGEMENT .
+Academic Year: 2023-2024 ~
+Program/s: BTech/ MBA Tech/ BTech-Integrated . Year: II/IV Semester: [V/VIII
+Stream/s:__ _|CS/Computer .
+Subject: Design and Analysis of Algorithms Time: 3 hrs (LOani to Lpr )
+Date:_24 /ApS/ 2024 No. of Pages:.04
+
+Marks: 100
+Final Examination/Re-Examination (2022-23) ~
+
+Instructions: Candidates:should read carefully the instructions printed on the question\} yan
+of the Answer Book, which is provided for their use. . Ke
+>, 1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any__4 __ questions.
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+a. Define the term Algorithms? “The choice of algorithmic design paradigm is | --
+CO- 1; SO-2; : 3 a : a i5]
+BL-1 an important aspect of algorithm synthesis”. Justify the statement by giving
+suitable examples. .
+b: Illustrate the control abstraction for Divide and Conquer algorithm. Also
+CO-2; SO-2; . : . : a
+BL3 specify the generic complexity representation for divide and conquer based | [5]
+recursions.
+c. State the difference between optimal solution and feasible solution. Explain giving
+CO- 2; SO-2; 3 . . _
+BL-2 a specific example when Greedy paradigm does not produce an optimal solution, | [5]
+i rather gives an approximate (near optimal) solution in reasonable time.
+ee SO-1; | d. Interpret the control abstraction of the Dynamic Programming approach. [5]
+a.
+__ | Differentiate between Divide and Conquer Technique and Greedy Algorithmic
+ou Paradigm on the following parameters (i) Basic Approach (ii) Optimality (iv) [5]
+nea Problem Decomposition (iii)Typical Problems (v) Memory usage.
+b. ai z : . . :
+Compute time complexity and space complexity for following function.
+co- Multiply (A,B,n)
+14; { oo
+Q2 SO-1; for(i=0;i<n;i+-+)
+
+BL-3 {
+for(j=0;j<nsj+4)
+
+[5]
+
+C[i,j] = 05
+
+for(k=0; k<n; k++)
+
+{
+Cli,j] = Cli,j] + ALEK] * BIk,j]; .
+--- page 2 ---
+With reference to Asymptotic Notations \
+
+c.
+ods i) Define Big-Oh, Theta and Omega Asymptotic notations.
+50-1: ii) Sketch the Worst-case time complexity relation between Linear,
+BL-1,3 Logarithmic, Exponential, Log Linear, Constant, Polynomial [10]
+and Factorial function.
+iii) Prove that 10n? + 4n +2 = O(n”)
+a.
+ep: State the Master’s Theorem for Decreasing functions. Also Solve the
+sot: following recurrence relation using Master’s theorem- [5]
+BL3. T(n) = 2T(n/4) + n°!
+b.
+op: Consider the instance of a sum of subset problem where X= {3,5,6,7} and [5]
+so- Y= {15}. Generate state space tree to find the possible subset of X that
+Q-3 pL6 | Sum to Y using Backtracking.
+c With reference to Divide and Conquer algorithmic paradigm
+oD i) Use algorithmic explanation to show how Divide and Conquer
+50-1: technique can be used to sort an array of numbers using Merge [10]
+BL- Sort. ‘
+43 ii) Derive the recurrence relation for Merge Sort using the
+’ algorithm
+Solve the recurrence relation using Master’s Theorem to derive the worst
+time complexity of Merge Sort.
+a. i) Solve for a minimum cost path from ‘s’ to ‘t’ in the multistage
+00-3; graph of the Figure given below. Adopt a forward approach.
+SO-1;
+BL-
+13
+[10]
+Q-4
+ii) State the Recurrence relation for solving the Multistage Graph
+problem by Forward Approach.
+b. Assume that the numbers given below represent counts of letters in
+co-2: hundreds from a file. For example, in the file there will be exactly 20 * 100
+50-2; occurrences of the letter ‘a’, 11*100 occurrence of the letter ‘c’, etc.
+BL-3,5 accordingly the frequencies list is as follows: [10]
+
+Letter a c d fe te) m s t u
+frequency | 20 | 11 |2 10 15 8 10 22 2
+
+a)
+--- page 3 ---
+Based on the given data perform the below mentioned task.
+
+a) Solve for optimal Huffman code based on the following set of
+frequencies.
+
+1) Draw the tree. Me
+
+2) Fill in the table with the Huffman encoding for each letter.
+
+3) Encode the file using the Huffman codes produced above
+
+4) Calculate the total length of encoded bits using Huffman coding.
+
+Letter Encoding
+Huffman | Fixed length
+
+u
+
+b) Solve for Fixed Length Encoding.
+1) Fill in the table the fixed-length encoding for each letter.
+2 Calculate the total length of encoded bits using fixed-length coding.
+
+Justify which of the encoding scheme is best and why?
+
+Q5
+
+co-
+1,4;
+SO-1;
+BL-1,3
+
+i) State the conditions which make a decision problem belong to
+a. Class P
+b. Class NP
+Cc. Class NP -Hard
+d. NP Complete.
+Depict the relationship between these classes using a Venn
+diagram.
+
+ii) What do you mean by Time Complexity and Space Complexity?
+Solve for the time complexity of the following code:
+var a=0, b=0, i, j, k, N;
+for (i = 0; i < N; i++) {
+for (j = 0; j < N; j++) {
+azat+j;
+}
+
+}
+
+for (k = 0; k < N; k++) {
+b=b+ k;
+
+}
+
+[10]
+
+CO-3;
+SO-2;
+BL-1,3
+
+i) State the problem statement of Matrix chaining multiplication Problem.
+Also write the recurrence relation to solve Matrix chaining multiplication
+Problem using Dynamic programming.
+
+Consider the following 4 matrices
+A:4x4 :
+B:4x5
+
+[10]
+--- page 4 ---
+C:5x2 5 ¥
+D:2x4 =
+
+Using Dynamic Programming approach to solve Matrix chaining Multiplication
+problem
+i) compute the values for x, y and z in the table below. Show all the
+
+computations involved.
+
+ii) Derive the correct order of Matrix Multiplication to reduce the
+computational complexity.
+
+1 2 3 4
+
+1 0 x y z
+
+2 0 40 | 72
+3 0 40
+4 0
+
+a
+
+i) Discuss the algorithm of Fractional Knapsack problem using Greedy
+
+a.
+cou: Approach. 3
+50-2, ii) Find and justify the worst-case time complexity of the greedy fractional
+Bt-3,5 | knapsack.
+iii) Apply the algorithm to solve the following scenario: [10]
+Ramesh wants to buy vegetables from the market, and he can carry a
+maximum weight of 28 kg in his bag. What vegetables should he take if he
+can even take fractions of any item?
+Q6 Given Profit P = {9, 5, 2, 7, 6, 16, 3} and Weight W = {2, 5, 6, 11, 1, 9, 1}
+b.
+With reference to n-Queen problem, answer the following questions
+CO-3; .
+50-2: i) State the problem statement of n-queen’s problem. |
+BL-1,6 ii) Explain the Backtracking paradigm of problem solving, in [10]
+general. ;
+iii) Generate a state-space tree for the 4 queen’s problem using
+backtracking approach.
+a. i) State the Recursive Formulation/Recurrence Relation for the Length of
+oer Longest Common Subsequence (LCS) using Dynamic Programming.
+50-1; ii) Find out the similarity between the two strings by computing the length
+BL3. | of the longest common subsequence (LCS) between them using Dynamic | [10]
+Programming further, print the longest common subsequence. -
+String] = “google” ‘
+Q7 String2 = “profile”
+b. Solve the recurrence relation using both recursion tree and substitution
+co-1; | method- [10]
+SO-1;
+
+BL-3
+
+Tm) = T(m-1) + log n, when n>0
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper d35e5cdb39d0
 
 - Departments: Artificial Intelligence, Computer Science and Business Systems
@@ -3430,6 +3668,111 @@ Tn) = {or(2) +¢ n>]
 [10]
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper 5ab8f93dd39b
+
+- Departments: Data Science
+- Programmes: B TECH / CSE DATA SCIENCE, B TECH / CSEDS-311
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/DESIGN AND ANLYSIS OF ALGORITHMS/Design and Analysis of Algorithms, Batch 2021-22 & 2022-23, Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 86.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE
+Academic Year: 2023-24
+
+Program: CSEDS BTech Year: II§
+
+Streams: BTech CSEDS
+
+Subject: Design and Analysis of Algorithms Time: 3 hrs (lorcoamto 4 £00Pm)
+Date:__4 / 7/2024 - No. of Pages: 2
+
+Marks: 100
+
+Re. ercaumurralior 33-23/
+4Z1-2.
+Instructions: Candidates should read carefully the instructions printed on the question paper and the cover of
+the Answer Book provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of the remaining questions, attempt any 4 _ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+a 6 = Solve the recurrence equation: [5]
+BL3 Tin) =T(n-1) +n
+CO-2 b. Simplify the running time of Min-max by using the Substitution method (Divide
+SO-1,6,7 & Conquer). What comparisons are required to find the minimum and maximum | [5]
+BaQ-3 from 440 elements?
+CO-3 c. Write and explain the algorithm for Dijkstra’s finding the shortest distance from
+SO-1,6 source to target using the Greedy approach. Discuss its Time complexity. [5]
+_ BL-2
+{ CO-4
+SO-1 d Explain the characteristics and limitations of the dynamic programming [5]
+BL-2 . approach. Discuss its efficiency.
+Q2 a. Differentiate between greedy algorithms and dynamic programming. [5]
+CO-1
+SO-1,6 b. Solve the recurrence relation T(n) = 4T(n/2) +n?Vn, [5]
+BL-4, 3 using the Master theorem method. Specify the Case number and Error.
+CO-4
+SO-1 c. Explain the State-Space Tree and how a backtracking algorithm works. Explain it | [10]
+BL-2 with an example.
+on 1 a Define Asymptotic Growth of a function. Explain all three asymptotic notations [10]
+SO-1,6 with necessary graphs and formulae.
+BL-1 Demonstrate the Longest Common Subsequence of X = {babbbab} and Y = | [8]
+CO-4 b. {bbabbaab} using Dynamic programming and
+SO-1,6,7
+--- page 2 ---
+BL-3 Ge Evaluate its running time in big O notation. (2]
+
+Q4 a. Is the merge sort a stable sorting method? Explain. . [5]
+CO-2
+SO-1,6 Operate Merge Sort on the list of numbers in an array, [5]
+BL-2,3 b. A = <23,31,10,7,25,57,6,68, 13,45>.
+CO-3 we
+SO-1,6 Write and explain Kruskal’s algorithm using the Greedy approach by taking an
+BL-2 6 example and discussing its time complexity. [10]
+a. Apply the Huffman algorithm to a: 05, b: 48,c:07,d:17,e: 10, f: 13. [5]
+Q5
+CO-3 Calculate the percentage of bits reduced compared with sending in ASCII (8 bits) | [5]
+SO-1,6 b. ~ .| format: Also, using the above approach, calculate the average bit length.
+BL-3
+CO-1 Solve Time complexity for following recurrence relation using the Substitution
+SO-1,6 C. method. [5]
+BL-3,6 T(n)=2T(Vn) + logn {T(n) = 2 for 0<n<=2}
+d. Compare P, NP and NPC types of problems. [5]
+Q6 . What is the difference between Backtracking and Recursion?
+CO-4 ‘ [5]
+oe Show the asymptotic growth for the following functions. Show the steps.
+a i f(n) = 2"; g(n) =n! ; h(n) = nl (5]
+CO-1 , ?
+ae é Write and explain the algorithm of a Multistage Graph using a dynamic approach 10]
+
+with a Forward approach by taking one suitable example.
+
+E =)
+° What is an algorithm? Explain any three needs of an algorithm. (1,
+b. 5)
+Write the algorithm for Quick Sort using the Divide and Conquer approach. [5]
+Q7 c Run the Bellman-Ford algorithm on the following graph, taking vertex ‘t’ as the [10]
+CO-1 source. Discuss its Time complexity.
+SO-1,6 5
+BL-2
+co-4
+SO-1,6
+BL-3
+````
+
 ## 2023-24 · Re-Exam · Sem 5 · paper 4e0720b75406
 
 - Departments: Artificial Intelligence
@@ -3544,244 +3887,6 @@ CO-4; SO-
 sequence?
 COM 60 What is a graph colouring problem? Explain the dynamic algorithm for it | 5
 1; BL-1 with a suitable example.
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper da419e3c35fd
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/DESIGN AND ANALYSS OF ALGORITHMS/Design and Analysis of Algorithms, Sem-IV, Final Exam & Re Exam 2022-23.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 88.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-
-SCHOOL OF TECHNOLOGY MANAGEMENT .
-Academic Year: 2023-2024 ~
-Program/s: BTech/ MBA Tech/ BTech-Integrated . Year: II/IV Semester: [V/VIII
-Stream/s:__ _|CS/Computer .
-Subject: Design and Analysis of Algorithms Time: 3 hrs (LOani to Lpr )
-Date:_24 /ApS/ 2024 No. of Pages:.04
-
-Marks: 100
-Final Examination/Re-Examination (2022-23) ~
-
-Instructions: Candidates:should read carefully the instructions printed on the question\} yan
-of the Answer Book, which is provided for their use. . Ke
->, 1) Question No._1___ is compulsory.
-2) Out of remaining questions, attempt any__4 __ questions.
-3) In all___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-a. Define the term Algorithms? “The choice of algorithmic design paradigm is | --
-CO- 1; SO-2; : 3 a : a i5]
-BL-1 an important aspect of algorithm synthesis”. Justify the statement by giving
-suitable examples. .
-b: Illustrate the control abstraction for Divide and Conquer algorithm. Also
-CO-2; SO-2; . : . : a
-BL3 specify the generic complexity representation for divide and conquer based | [5]
-recursions.
-c. State the difference between optimal solution and feasible solution. Explain giving
-CO- 2; SO-2; 3 . . _
-BL-2 a specific example when Greedy paradigm does not produce an optimal solution, | [5]
-i rather gives an approximate (near optimal) solution in reasonable time.
-ee SO-1; | d. Interpret the control abstraction of the Dynamic Programming approach. [5]
-a.
-__ | Differentiate between Divide and Conquer Technique and Greedy Algorithmic
-ou Paradigm on the following parameters (i) Basic Approach (ii) Optimality (iv) [5]
-nea Problem Decomposition (iii)Typical Problems (v) Memory usage.
-b. ai z : . . :
-Compute time complexity and space complexity for following function.
-co- Multiply (A,B,n)
-14; { oo
-Q2 SO-1; for(i=0;i<n;i+-+)
-
-BL-3 {
-for(j=0;j<nsj+4)
-
-[5]
-
-C[i,j] = 05
-
-for(k=0; k<n; k++)
-
-{
-Cli,j] = Cli,j] + ALEK] * BIk,j]; .
---- page 2 ---
-With reference to Asymptotic Notations \
-
-c.
-ods i) Define Big-Oh, Theta and Omega Asymptotic notations.
-50-1: ii) Sketch the Worst-case time complexity relation between Linear,
-BL-1,3 Logarithmic, Exponential, Log Linear, Constant, Polynomial [10]
-and Factorial function.
-iii) Prove that 10n? + 4n +2 = O(n”)
-a.
-ep: State the Master’s Theorem for Decreasing functions. Also Solve the
-sot: following recurrence relation using Master’s theorem- [5]
-BL3. T(n) = 2T(n/4) + n°!
-b.
-op: Consider the instance of a sum of subset problem where X= {3,5,6,7} and [5]
-so- Y= {15}. Generate state space tree to find the possible subset of X that
-Q-3 pL6 | Sum to Y using Backtracking.
-c With reference to Divide and Conquer algorithmic paradigm
-oD i) Use algorithmic explanation to show how Divide and Conquer
-50-1: technique can be used to sort an array of numbers using Merge [10]
-BL- Sort. ‘
-43 ii) Derive the recurrence relation for Merge Sort using the
-’ algorithm
-Solve the recurrence relation using Master’s Theorem to derive the worst
-time complexity of Merge Sort.
-a. i) Solve for a minimum cost path from ‘s’ to ‘t’ in the multistage
-00-3; graph of the Figure given below. Adopt a forward approach.
-SO-1;
-BL-
-13
-[10]
-Q-4
-ii) State the Recurrence relation for solving the Multistage Graph
-problem by Forward Approach.
-b. Assume that the numbers given below represent counts of letters in
-co-2: hundreds from a file. For example, in the file there will be exactly 20 * 100
-50-2; occurrences of the letter ‘a’, 11*100 occurrence of the letter ‘c’, etc.
-BL-3,5 accordingly the frequencies list is as follows: [10]
-
-Letter a c d fe te) m s t u
-frequency | 20 | 11 |2 10 15 8 10 22 2
-
-a)
---- page 3 ---
-Based on the given data perform the below mentioned task.
-
-a) Solve for optimal Huffman code based on the following set of
-frequencies.
-
-1) Draw the tree. Me
-
-2) Fill in the table with the Huffman encoding for each letter.
-
-3) Encode the file using the Huffman codes produced above
-
-4) Calculate the total length of encoded bits using Huffman coding.
-
-Letter Encoding
-Huffman | Fixed length
-
-u
-
-b) Solve for Fixed Length Encoding.
-1) Fill in the table the fixed-length encoding for each letter.
-2 Calculate the total length of encoded bits using fixed-length coding.
-
-Justify which of the encoding scheme is best and why?
-
-Q5
-
-co-
-1,4;
-SO-1;
-BL-1,3
-
-i) State the conditions which make a decision problem belong to
-a. Class P
-b. Class NP
-Cc. Class NP -Hard
-d. NP Complete.
-Depict the relationship between these classes using a Venn
-diagram.
-
-ii) What do you mean by Time Complexity and Space Complexity?
-Solve for the time complexity of the following code:
-var a=0, b=0, i, j, k, N;
-for (i = 0; i < N; i++) {
-for (j = 0; j < N; j++) {
-azat+j;
-}
-
-}
-
-for (k = 0; k < N; k++) {
-b=b+ k;
-
-}
-
-[10]
-
-CO-3;
-SO-2;
-BL-1,3
-
-i) State the problem statement of Matrix chaining multiplication Problem.
-Also write the recurrence relation to solve Matrix chaining multiplication
-Problem using Dynamic programming.
-
-Consider the following 4 matrices
-A:4x4 :
-B:4x5
-
-[10]
---- page 4 ---
-C:5x2 5 ¥
-D:2x4 =
-
-Using Dynamic Programming approach to solve Matrix chaining Multiplication
-problem
-i) compute the values for x, y and z in the table below. Show all the
-
-computations involved.
-
-ii) Derive the correct order of Matrix Multiplication to reduce the
-computational complexity.
-
-1 2 3 4
-
-1 0 x y z
-
-2 0 40 | 72
-3 0 40
-4 0
-
-a
-
-i) Discuss the algorithm of Fractional Knapsack problem using Greedy
-
-a.
-cou: Approach. 3
-50-2, ii) Find and justify the worst-case time complexity of the greedy fractional
-Bt-3,5 | knapsack.
-iii) Apply the algorithm to solve the following scenario: [10]
-Ramesh wants to buy vegetables from the market, and he can carry a
-maximum weight of 28 kg in his bag. What vegetables should he take if he
-can even take fractions of any item?
-Q6 Given Profit P = {9, 5, 2, 7, 6, 16, 3} and Weight W = {2, 5, 6, 11, 1, 9, 1}
-b.
-With reference to n-Queen problem, answer the following questions
-CO-3; .
-50-2: i) State the problem statement of n-queen’s problem. |
-BL-1,6 ii) Explain the Backtracking paradigm of problem solving, in [10]
-general. ;
-iii) Generate a state-space tree for the 4 queen’s problem using
-backtracking approach.
-a. i) State the Recursive Formulation/Recurrence Relation for the Length of
-oer Longest Common Subsequence (LCS) using Dynamic Programming.
-50-1; ii) Find out the similarity between the two strings by computing the length
-BL3. | of the longest common subsequence (LCS) between them using Dynamic | [10]
-Programming further, print the longest common subsequence. -
-String] = “google” ‘
-Q7 String2 = “profile”
-b. Solve the recurrence relation using both recursion tree and substitution
-co-1; | method- [10]
-SO-1;
-
-BL-3
-
-Tm) = T(m-1) + log n, when n>0
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper 089e90c0a601
@@ -3918,6 +4023,7 @@ c0-2:'$0- c. Show the working of merge sort on the following list of numbers. <7
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/DESIGN & ANALYSIS OF ALGORITHMS/Design & Analysis of Algorithms, Sem-IV, Year 2022-23, Final Exam & Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ~
@@ -4001,7 +4107,6 @@ Also, what is the purpose of using Huffman encoding as greedy technique.
 b. What do you mean by Multistage Graph? Solve the following multistage graph
 10
 problem to find minimum cost path from node 1 to node 12, using Forward fic}
-ae h of d i i
 approach of dynamic programming.
 €0-3; 0-2; pp y' prog 8
 BL-4
@@ -4392,38 +4497,41 @@ algorithms? How they are useful in asymptotic analysis?
 [10]
 ````
 
-## 2022-23 · Re-Exam · Sem 4 · paper 5ab8f93dd39b
+## 2022-23 · Re-Exam · Sem 6 · paper a25fc2ce0947
 
-- Departments: Data Science
-- Programmes: B TECH / CSE DATA SCIENCE, B TECH / CSEDS-311
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-IV/DESIGN AND ANLYSIS OF ALGORITHMS/Design and Analysis of Algorithms, Batch 2021-22 & 2022-23, Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 86.8
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_06/DESIGN AND ANALYSIS OF ALGORITHMS/Design and Analysis of Algorithm Batch 2021-22 Re Exam0001.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 92.8
 
 ````text
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE
-Academic Year: 2023-24
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-23
 
-Program: CSEDS BTech Year: II§
+Program: B Tech Integrated Stream :Computers Yeayj-LY Semester: VI
 
-Streams: BTech CSEDS
+Subject: Design and Analysis of Algorithm Time:
 
-Subject: Design and Analysis of Algorithms Time: 3 hrs (lorcoamto 4 £00Pm)
-Date:__4 / 7/2024 - No. of Pages: 2
+A
 
-Marks: 100
+Date:_28 / 04/2023 . No. oP a
+EE a
+Marks: 100 = pe
 
-Re. ercaumurralior 33-23/
-4Z1-2.
-Instructions: Candidates should read carefully the instructions printed on the question paper and the cover of
-the Answer Book provided for their use.
+Re-Exam(2021-22)
 
-1) Question No. _1___ is compulsory.
+hrs. Closo0aim pas opi
 
-2) Out of the remaining questions, attempt any 4 _ questions.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-3) Inall___5__ questions to be attempted.
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -4432,69 +4540,75 @@ the Answer Book provided for their use.
 6) Figures in brackets on the right-hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql Answer briefly: [20]
-a 6 = Solve the recurrence equation: [5]
-BL3 Tin) =T(n-1) +n
-CO-2 b. Simplify the running time of Min-max by using the Substitution method (Divide
-SO-1,6,7 & Conquer). What comparisons are required to find the minimum and maximum | [5]
-BaQ-3 from 440 elements?
-CO-3 c. Write and explain the algorithm for Dijkstra’s finding the shortest distance from
-SO-1,6 source to target using the Greedy approach. Discuss its Time complexity. [5]
-_ BL-2
-{ CO-4
-SO-1 d Explain the characteristics and limitations of the dynamic programming [5]
-BL-2 . approach. Discuss its efficiency.
-Q2 a. Differentiate between greedy algorithms and dynamic programming. [5]
-CO-1
-SO-1,6 b. Solve the recurrence relation T(n) = 4T(n/2) +n?Vn, [5]
-BL-4, 3 using the Master theorem method. Specify the Case number and Error.
-CO-4
-SO-1 c. Explain the State-Space Tree and how a backtracking algorithm works. Explain it | [10]
-BL-2 with an example.
-on 1 a Define Asymptotic Growth of a function. Explain all three asymptotic notations [10]
-SO-1,6 with necessary graphs and formulae.
-BL-1 Demonstrate the Longest Common Subsequence of X = {babbbab} and Y = | [8]
-CO-4 b. {bbabbaab} using Dynamic programming and
-SO-1,6,7
+Ql. Answer the following questions :
+a. Explain Big Oh, Big Theta and Big omega notations 5
+b. Explain control abstraction for divide and conquer approach . 5
+c. Explain Optimal Storage on Tapes using Greedy Technique 5
+d. Explain 8-queens Problem 5
+Q2. a) Explain Longest Common subsequence problem? Apply LCS Algorithm on the 10
+
+following strings and generate LCS with the help of LCS Matrix.
+String A= LONGEST
+String B= STONE
+
+b) Compare Greedy and Dynamic programming algorithms in terms of efficiency. 10
+Q3. a). Find Dijkstra’s shortest path from source vertex | to vertex 9 for the following 10
+graph
 --- page 2 ---
-BL-3 Ge Evaluate its running time in big O notation. (2]
+a4.
 
-Q4 a. Is the merge sort a stable sorting method? Explain. . [5]
-CO-2
-SO-1,6 Operate Merge Sort on the list of numbers in an array, [5]
-BL-2,3 b. A = <23,31,10,7,25,57,6,68, 13,45>.
-CO-3 we
-SO-1,6 Write and explain Kruskal’s algorithm using the Greedy approach by taking an
-BL-2 6 example and discussing its time complexity. [10]
-a. Apply the Huffman algorithm to a: 05, b: 48,c:07,d:17,e: 10, f: 13. [5]
-Q5
-CO-3 Calculate the percentage of bits reduced compared with sending in ASCII (8 bits) | [5]
-SO-1,6 b. ~ .| format: Also, using the above approach, calculate the average bit length.
-BL-3
-CO-1 Solve Time complexity for following recurrence relation using the Substitution
-SO-1,6 C. method. [5]
-BL-3,6 T(n)=2T(Vn) + logn {T(n) = 2 for 0<n<=2}
-d. Compare P, NP and NPC types of problems. [5]
-Q6 . What is the difference between Backtracking and Recursion?
-CO-4 ‘ [5]
-oe Show the asymptotic growth for the following functions. Show the steps.
-a i f(n) = 2"; g(n) =n! ; h(n) = nl (5]
-CO-1 , ?
-ae é Write and explain the algorithm of a Multistage Graph using a dynamic approach 10]
+Qs.
 
-with a Forward approach by taking one suitable example.
+a6.
 
-E =)
-° What is an algorithm? Explain any three needs of an algorithm. (1,
-b. 5)
-Write the algorithm for Quick Sort using the Divide and Conquer approach. [5]
-Q7 c Run the Bellman-Ford algorithm on the following graph, taking vertex ‘t’ as the [10]
-CO-1 source. Discuss its Time complexity.
-SO-1,6 5
-BL-2
-co-4
-SO-1,6
-BL-3
+Q7.
+
+@ -@... -®
+' @-—@ - ®
+
+9
+
+b) Write an algorithm to find minimum and maximum value in an array using divide
+and conquer approach and derive its complexity.
+
+a) Explain Merge Sort Algorithm and derive its time complexity for worst, average
+and best case scenario.
+
+b) A dealer has to visit from one city to another city. He has to leave his home city A
+and visit other cities once and return home. The cost of going from city to city is
+shown in the table. Find the least cost route
+
+0 2 9 10
+1 0 6 4
+15 7 0 8
+6 3 12 0
+
+a) Explain Backtracking. Using sum of subsets ,to generate all possible combinations
+of subsets for n=6, M=30 and W (1...6) = (5,10,12,13,15,18)
+
+b) Explain 0-1 knapsack problem and how it is different from fractional knapsack
+problem .
+
+a) Explain Travelling Salesman Problem
+b) Apply Kruskal’s algorithm, where a is source node in the given graph and find
+minimum spanning tree.
+
+Write short notes on:
+a) P,NP and NP complete Problems
+b) Strassen’s Matrix Multiplication
+c) Huffman Codes
+d) Matrix Chain Multiplication
+
+10
+
+10
+
+10
+
+10
+
+10
+10
 ````
 
 ## 2021-22 · Final-Exam · Sem 4 · paper aceaace736c5
@@ -4821,120 +4935,6 @@ zee CO-4;BL-L | a. Master’s theorem [7]
 CO-2;BL-M |b. | Principle of optimality [7]
 
 CO-4; BL-M | c. | Backtracking with sum of subset problem [6]
-````
-
-## 2021-22 · Re-Exam · Sem 6 · paper a25fc2ce0947
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_06/DESIGN AND ANALYSIS OF ALGORITHMS/Design and Analysis of Algorithm Batch 2021-22 Re Exam0001.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-23
-
-Program: B Tech Integrated Stream :Computers Yeayj-LY Semester: VI
-
-Subject: Design and Analysis of Algorithm Time:
-
-A
-
-Date:_28 / 04/2023 . No. oP a
-EE a
-Marks: 100 = pe
-
-Re-Exam(2021-22)
-
-hrs. Closo0aim pas opi
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql. Answer the following questions :
-a. Explain Big Oh, Big Theta and Big omega notations 5
-b. Explain control abstraction for divide and conquer approach . 5
-c. Explain Optimal Storage on Tapes using Greedy Technique 5
-d. Explain 8-queens Problem 5
-Q2. a) Explain Longest Common subsequence problem? Apply LCS Algorithm on the 10
-
-following strings and generate LCS with the help of LCS Matrix.
-String A= LONGEST
-String B= STONE
-
-b) Compare Greedy and Dynamic programming algorithms in terms of efficiency. 10
-Q3. a). Find Dijkstra’s shortest path from source vertex | to vertex 9 for the following 10
-graph
---- page 2 ---
-a4.
-
-Qs.
-
-a6.
-
-Q7.
-
-@ -@... -®
-' @-—@ - ®
-
-9
-
-b) Write an algorithm to find minimum and maximum value in an array using divide
-and conquer approach and derive its complexity.
-
-a) Explain Merge Sort Algorithm and derive its time complexity for worst, average
-and best case scenario.
-
-b) A dealer has to visit from one city to another city. He has to leave his home city A
-and visit other cities once and return home. The cost of going from city to city is
-shown in the table. Find the least cost route
-
-0 2 9 10
-1 0 6 4
-15 7 0 8
-6 3 12 0
-
-a) Explain Backtracking. Using sum of subsets ,to generate all possible combinations
-of subsets for n=6, M=30 and W (1...6) = (5,10,12,13,15,18)
-
-b) Explain 0-1 knapsack problem and how it is different from fractional knapsack
-problem .
-
-a) Explain Travelling Salesman Problem
-b) Apply Kruskal’s algorithm, where a is source node in the given graph and find
-minimum spanning tree.
-
-Write short notes on:
-a) P,NP and NP complete Problems
-b) Strassen’s Matrix Multiplication
-c) Huffman Codes
-d) Matrix Chain Multiplication
-
-10
-
-10
-
-10
-
-10
-
-10
-10
 ````
 
 ## 2021-22 · Re-Exam · Sem 6 · paper bcd2f61dd5c9
@@ -5355,6 +5355,7 @@ SRR RRR RR RRR RRR RK RR oR KKK
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/DESIGN AND ANALYSIS OF ALGORITHMS/Design and Analysis of Algorithms 2017-18 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 11 May 2018
 - Text: ocr (2 pages), mean OCR confidence 84.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 > ai
@@ -5479,9 +5480,95 @@ Discuss time complexity of the said algorithm.
 
 b) Describe Asymptotic notation for worst case, average case and best case. [7]
 
-2 eo 3s kos fs ois ie fe og is oe aie afc ok i ofc cof os fe ois oi fe ok oi ie ae
 
 2/z
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 1fe9da91a95e
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DESIGN AND ANALYSIS OF ALGORITHMS/DESIGN & ANALYSIS OF ALGORITHMS (COMPUTER), BATCH 14-15, 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 01 December 2017
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) Year: III Semester: V
+
+|. Batch: 2014-15/ 2015-16/ 2016-17
+| Academic Year: 2017-2018
+
+Subject: Design & Analysis of Algorithms
+
+Marks: 60 _ ~ “|
+Date: 01 December 2017 Time: 2.00 pmi to 5.00 pm, ~. bs '
+
+Durations: 3 (hrs) oy fy
+
+No. of Pagesy* 7 My
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on.the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of the remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+
+6) Assume suitable data if necessary.
+
+7) Draw suitable diagrams where necessary.
+
+1 A What is dynamic programming? State the principle of optimality. (4)
+B Compare & Contrast Greedy and Divide & Conquer technique of algorithm design. (4)
+C Briefly explain NP Hard and NP Complete problems. (4)
+2 A Consider inserting the keys 10, 22, 31, 4, 15, 28, 17, 88 and 59 into a hash table of length m =11. (6)
+
+Hashing functions used are h1(k) = k mod m and h2(k) = 1 +(k mod(m -1)), cl =1 and c2=3
+Show the result of all three collision resolution open addressing techniques.
+
+B Develop quick sort algorithm and derive its complexity. (6)
+
+3. A Apply Dijkstra's algorithm to the following graph: (6)
+--- page 2 ---
+Find the longest common subsequence using dynamic programming (6)
+
+B
+X ="ABCDABCEAAB" and Y= "ACDABCABDAC"
+4 A What is backtracking? Explain 4-Queens problem. (6)
+B_ Devise depth first search algorithm and comment on its complexity. (6)
+5 A Find an optimal parenthesization of a matrix-chain product whose sequence of dimensions is (6)
+<4, 10, 3, 12, 20, 7>
+B_ Develop straightforward and recursive algorithms to find the maximum and minimum. Discuss the (6)
+complexity of each.
+6 A Explain Master’s Theorem and solve T(n) = 16T(n/4) + n’ using Master’s theorem. (6)
+BA man is going to a new place. He is allowed to carry one bag with him and bag holds not more than (6)
+16 kg. What should he be putting in the bag to get maximum valued items? He can take item in parts.
+Devise an algorithm for this and also analyze it.
+Item Weight | Value in
+Rs.
+Wheat 8 160
+Rice 10 400
+Jowar 2 160
+Oats 4 200
+Sesame 1 300
+Oil 4 600
+7 Write Short Notes on the followings: (Any two)
+A Multiway Search Tree (6)
+B Travelling salesman problem (6)
+C_ Asymptotic notations (6)
+
+zs 2/2
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper 7865acd5de7e
@@ -5874,93 +5961,6 @@ b. All pairs shortest paths
 c. Interpolation search.
 
 oh
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 1fe9da91a95e
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DESIGN AND ANALYSIS OF ALGORITHMS/DESIGN & ANALYSIS OF ALGORITHMS (COMPUTER), BATCH 14-15, 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 01 December 2017
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) Year: III Semester: V
-
-|. Batch: 2014-15/ 2015-16/ 2016-17
-| Academic Year: 2017-2018
-
-Subject: Design & Analysis of Algorithms
-
-Marks: 60 _ ~ “|
-Date: 01 December 2017 Time: 2.00 pmi to 5.00 pm, ~. bs '
-
-Durations: 3 (hrs) oy fy
-
-No. of Pagesy* 7 My
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on.the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-
-5) Figures in brackets on the right hand side indicate full marks.
-
-6) Assume suitable data if necessary.
-
-7) Draw suitable diagrams where necessary.
-
-1 A What is dynamic programming? State the principle of optimality. (4)
-B Compare & Contrast Greedy and Divide & Conquer technique of algorithm design. (4)
-C Briefly explain NP Hard and NP Complete problems. (4)
-2 A Consider inserting the keys 10, 22, 31, 4, 15, 28, 17, 88 and 59 into a hash table of length m =11. (6)
-
-Hashing functions used are h1(k) = k mod m and h2(k) = 1 +(k mod(m -1)), cl =1 and c2=3
-Show the result of all three collision resolution open addressing techniques.
-
-B Develop quick sort algorithm and derive its complexity. (6)
-
-3. A Apply Dijkstra's algorithm to the following graph: (6)
---- page 2 ---
-Find the longest common subsequence using dynamic programming (6)
-
-B
-X ="ABCDABCEAAB" and Y= "ACDABCABDAC"
-4 A What is backtracking? Explain 4-Queens problem. (6)
-B_ Devise depth first search algorithm and comment on its complexity. (6)
-5 A Find an optimal parenthesization of a matrix-chain product whose sequence of dimensions is (6)
-<4, 10, 3, 12, 20, 7>
-B_ Develop straightforward and recursive algorithms to find the maximum and minimum. Discuss the (6)
-complexity of each.
-6 A Explain Master’s Theorem and solve T(n) = 16T(n/4) + n’ using Master’s theorem. (6)
-BA man is going to a new place. He is allowed to carry one bag with him and bag holds not more than (6)
-16 kg. What should he be putting in the bag to get maximum valued items? He can take item in parts.
-Devise an algorithm for this and also analyze it.
-Item Weight | Value in
-Rs.
-Wheat 8 160
-Rice 10 400
-Jowar 2 160
-Oats 4 200
-Sesame 1 300
-Oil 4 600
-7 Write Short Notes on the followings: (Any two)
-A Multiway Search Tree (6)
-B Travelling salesman problem (6)
-C_ Asymptotic notations (6)
-
-zs 2/2
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper f30eb695b029
@@ -6407,6 +6407,188 @@ Write short note on:
 14
 ````
 
+## 2015-16 · Re-Exam · Sem 5 · paper 6187c47dfe92
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DESIGN AND ANALYSIS OF ALGORITHMS/DESIGN AND ALALYSIS OF ALGORITHMS B TECH (COMPUTER) BATCH 2013-14 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 June 2016
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+SVKM’s NMIMS ante —
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG] wenn a
+
+Programme: B.Tech (Computer) Year: Ill Semester: V | te LIBRARY
+
+Academic Year: 2015-16
+
+Batch: 2013-14 Marks: 100
+Subject: Design & Analysis of Algorithms Time: 2.00 pm — 5.00 pm
+Date: 14 June 2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1. (a) Define various types of Asymptotic notations. Draw graph of each and give [10]
+one example each
+
+(b) Write an algorithm for selection sorting and analyze its complexity [10]
+Q.2. (a) Write an algorithm for insertion and deletion at beginning in singly link list [10]
+(B) Create a B-tree of degree 2 using following keys: [10]
+5, 9, 3, 7, 1, 2, 8, 6, 0, 4 and
+Delete the keys 7, 8 and 5. Define cases for deletion.
+Q.3. (a) Write an algorithm for Quick sort and find out the complexity of best case [10]
+
+(b) Suppose the following sequences list the nodes of a binary tree T in Preorder [10]
+and Inorder respectively:
+
+Preorder: a, b, d, g, h, e, i, c, fj
+Inorder: g, d, h, b, e, i, a, f, j, ¢
+
+Draw the diagram of the tree; find the postorder of the tree.
+
+4/2
+--- page 2 ---
+Q4.
+
+Q.5.
+
+Q.6.
+
+Q.7.
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+Compute minimum cost spanning tree [MST] of the following graph using [10]
+Kruskal’s algorithm. Show all the steps.
+
+Explain divide and conquer technique. Write algorithm for finding maximum [10]
+and minimum.
+
+Explain Greedy Approach to solve Knapsack problem. Find optimal solution [10]
+to knapsack instance n=7, m=15, (Pi, Po. P7) = (10,5,15,7,6,18,3) and (Wi,
+W2,....W7) = (2,3,5,7,1,4,1)
+
+Explain Radix sort. Sort the following using Radix sort COW, DOG, SEA, [10]
+RUG, ROW, MOB, BOX, TAB, BAR, EAR, TAR, DIG, BIG, TEA, NOW,
+FOX
+
+Illustrate the operation of Heap-Increase-Key(A,9,23) on the heap [10]
+A= (16, 14, 10, 8, 7, 9, 3, 2, 4, 1)
+
+Explain Binary search and write an algorithm to search an element in an array [10]
+using binary search method. Explain it with example.
+
+Write short note on: [Any two] [20]
+1) Divide and conquer approach
+2) N- queens Problem
+
+3) BFS and DFS
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 95e4b37519a4
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DESIGN AND ANALYSIS OF ALGORITHMS/DESIGN AND ANALYSIS OF ALGORITHMS B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 05/12/2015
+- Text: ocr (2 pages), mean OCR confidence 87.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Computer) Year: II Semester: V
+Batch: 2014-2015
+
+Academic Year: 2015-2016 <geitOTE BF Ms,
+"t. ™.
+. . o™ RG
+Subject: Design & Analysis of Algorithms of MPST A ee
+Marks: #4 ay Ot
+Date: 05/12/2015 Time: Baa to & 5. Ooms ;
+Duration: 3 e ?
+
+/
+Ra or mn
+
+ail
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the answer book, which is provided for their use.
+NB:
+1. Question 1 is Compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets indicate full marks.
+7. Assume suitable data wherever necessary.
+
+Qi.
+a. Explain Hashing with suitable example. Cel
+b. Discuss the algorithm for longest common subsequence problem. Ces
+Q2. ;
+a. Explain Prim’s algorithm with suitable example. céJ
+b. What is dynamic programming? How it is different from Greedy Technique? ces
+State & explain the principle of optimality.
+Q3.
+a. Explain Quick Sort algorithm? Apply quick sort algorithm to the list of elements ce]
+given below:
+<3, 1, 4, 1,5, 9, 12, 16, 75, 3, 5, 8, 29>
+b. Explain selection sort algorithm with suitable example. Comune it with insertion ce]
+sort.
+Q4.
+a. What is backtracking? Explain 8-Queens problem. ce]
+b. Explain Knapsack problem with example. CeJ
+QS. ;
+a. Explain Heap as a priority queue. cé]
+b. Devise an algorithm for the problem of optimal storage on tapes. mee)
+Q6.
+a. What is a stack? Explain the implementation of stack using linked list. CeJ
+
+4/2
+--- page 2 ---
+Q7.
+
+b.
+
+Explain multi way search tree with ex
+
+Describe the followings:
+Multistage Graph
+Travelling Sales person problem
+
+C63
+
+Ci2g
+````
+
 ## 2015-16 · Re-Exam · Sem 5 · paper 087cb8c71ec9
 
 - Departments: Computer Engineering
@@ -6502,6 +6684,7 @@ e re
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/DESIGN AND ANALYSIS OF ALGORITHMS/Design and Analysis of Algorithms Batch 2015-16 Re Exam.pdf`
 - Printed on paper: exam date: 04 July 2016
 - Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 fo
@@ -6575,7 +6758,6 @@ Q.7.
 (b)
 
 Make a B-Tree of degree 2. Insert the following keys: [7]
-F, S, Q, K, C, L, H, T, V, W, M, R,N, P, A, B.
 Delete keys: B, M, W. define cases for deletion.
 
 Expiain Binary search and write an al gorithm to search an element in an array [7]
@@ -6805,6 +6987,95 @@ Compare greedy strategy with Dynamic programming
 06
 ````
 
+## 2014-15 · Re-Exam · Sem 5 · paper 17bb545dc1c1
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DESIGN AND ANALYSIS OF ALGORITHMS/DESIGN AND ANALYSIS OF ALGORITHMS B TECH (COMP) RE EXAM.pdf`
+- Printed on paper: exam date: 06/12/2014
+- Text: ocr (3 pages), mean OCR confidence 90.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: III Semester? Ver.
+Batch: 2013-2014 BROS Q
+Academic Year: 2014-2015
+Subject: Design & Analysis of Algorithms
+Marks:
+Date: 06/12/2014 Time:
+. Durations:
+
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+onthe cover of the Answer Book, which is provided for their use.
+NB:
+1. QnestionNo.1 is compulsory.
+2. Attempt any four out of remaining six questions.. .
+3. Inall S questions to be attempted
+4. All questions carry equal marks.
+5. Answer to each new question to be started on NEW PAGE.
+6. Figures in .parenthesis on the right hand side indicate full marks.
+
+Ql. A. Find an optimal solution to the knapsack instance :n=7, m= 15 . [10]
+(pl,p2,p3,p4,p5,p6,p7) = (10,5,15,7,6,18,3)
+(10,5,15,7,6,18,3) and (wl , w2, w3 .w4, wS , w6,w7) =(2.3,5.7,1,4,0).
+
+Using Greedy Knapsack.
+
+B. What is Heap data structure? Write an algorithm for Heap sort? [10]
+Arrange the data
+element into heap tree
+Data: 95,85,70,55,33,30,65,15,20,15,22
+also further delete the root element from heap tree.
+Q2 A Makea B-Tree of degree 2 . Insert the following keys: [10]
+F,S,Q,K,C,L,H,T, V, W,M,R,N, P, A,B
+Delete the keys : B,M,W
+
+Define the complexity of B-Tree.
+
+B. Explain difference between Greedy method and dynamic method 10]
+a Q3 A. Explain backtracking method. Develop an algorithm for finding [10]
+
+8-queen problem.
+--- page 2 ---
+B Explain Strassen’s multiplication algorithm. [10]
+Q4 A Write the functions to implement DFS and BFS graph searching method. [10]
+B_ Sort the following using RADIX sort. Give the Time Complexity [10]
+(179,1 13,216,464,339,220,189,553,571,442 )
+Q5A Write a psudocode for Insertion And Deletion of an element from Lio]
+BST (binary Search Tree) with complexity.
+Draw BST of the following :
+50,33,44,22,77,35,60,40
+Delete the following keys from this tree:
+60,35,33
+B Analyze Performance of Quick Sort for trot
+
+1. Best Case
+2. Worst Case
+3. Average Case
+--- page 3 ---
+Q6A_ Apply Prim’s algorithm in a given graph where “a” is a source node. And also draw minimum
+
+spannig tree of a given graph Cio
+
+B. Define Assymptoti¢ notation s. Explain with an example {10]
+Q7 Write short Notes on: (Any Four) [20]
+
+1. -Hash Tables and hash functions
+
+2. Divide and Conquer Strategy
+
+3. Kruskal ‘s Algorithm
+
+4. Reliability design
+
+5. Difference between sequential search and Binarhy Search
+
+Kx
+````
+
 ## 2014-15 · Re-Exam · Sem 5 · paper c01da5014320
 
 - Departments: Computer Engineering
@@ -6912,85 +7183,6 @@ c) Explain Interpolation search and multi-way tree
 2/2.
 
 12
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 95e4b37519a4
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DESIGN AND ANALYSIS OF ALGORITHMS/DESIGN AND ANALYSIS OF ALGORITHMS B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 05/12/2015
-- Text: ocr (2 pages), mean OCR confidence 87.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Computer) Year: II Semester: V
-Batch: 2014-2015
-
-Academic Year: 2015-2016 <geitOTE BF Ms,
-"t. ™.
-. . o™ RG
-Subject: Design & Analysis of Algorithms of MPST A ee
-Marks: #4 ay Ot
-Date: 05/12/2015 Time: Baa to & 5. Ooms ;
-Duration: 3 e ?
-
-/
-Ra or mn
-
-ail
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the answer book, which is provided for their use.
-NB:
-1. Question 1 is Compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets indicate full marks.
-7. Assume suitable data wherever necessary.
-
-Qi.
-a. Explain Hashing with suitable example. Cel
-b. Discuss the algorithm for longest common subsequence problem. Ces
-Q2. ;
-a. Explain Prim’s algorithm with suitable example. céJ
-b. What is dynamic programming? How it is different from Greedy Technique? ces
-State & explain the principle of optimality.
-Q3.
-a. Explain Quick Sort algorithm? Apply quick sort algorithm to the list of elements ce]
-given below:
-<3, 1, 4, 1,5, 9, 12, 16, 75, 3, 5, 8, 29>
-b. Explain selection sort algorithm with suitable example. Comune it with insertion ce]
-sort.
-Q4.
-a. What is backtracking? Explain 8-Queens problem. ce]
-b. Explain Knapsack problem with example. CeJ
-QS. ;
-a. Explain Heap as a priority queue. cé]
-b. Devise an algorithm for the problem of optimal storage on tapes. mee)
-Q6.
-a. What is a stack? Explain the implementation of stack using linked list. CeJ
-
-4/2
---- page 2 ---
-Q7.
-
-b.
-
-Explain multi way search tree with ex
-
-Describe the followings:
-Multistage Graph
-Travelling Sales person problem
-
-C63
-
-Ci2g
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper 51de913a51a2
@@ -7293,109 +7485,6 @@ Q7 Write Short notes on (any Two) [20]
 az
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper 6187c47dfe92
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DESIGN AND ANALYSIS OF ALGORITHMS/DESIGN AND ALALYSIS OF ALGORITHMS B TECH (COMPUTER) BATCH 2013-14 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 June 2016
-- Text: ocr (2 pages), mean OCR confidence 92.1
-
-````text
-SVKM’s NMIMS ante —
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG] wenn a
-
-Programme: B.Tech (Computer) Year: Ill Semester: V | te LIBRARY
-
-Academic Year: 2015-16
-
-Batch: 2013-14 Marks: 100
-Subject: Design & Analysis of Algorithms Time: 2.00 pm — 5.00 pm
-Date: 14 June 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1. (a) Define various types of Asymptotic notations. Draw graph of each and give [10]
-one example each
-
-(b) Write an algorithm for selection sorting and analyze its complexity [10]
-Q.2. (a) Write an algorithm for insertion and deletion at beginning in singly link list [10]
-(B) Create a B-tree of degree 2 using following keys: [10]
-5, 9, 3, 7, 1, 2, 8, 6, 0, 4 and
-Delete the keys 7, 8 and 5. Define cases for deletion.
-Q.3. (a) Write an algorithm for Quick sort and find out the complexity of best case [10]
-
-(b) Suppose the following sequences list the nodes of a binary tree T in Preorder [10]
-and Inorder respectively:
-
-Preorder: a, b, d, g, h, e, i, c, fj
-Inorder: g, d, h, b, e, i, a, f, j, ¢
-
-Draw the diagram of the tree; find the postorder of the tree.
-
-4/2
---- page 2 ---
-Q4.
-
-Q.5.
-
-Q.6.
-
-Q.7.
-
-(a)
-
-(b)
-
-(a)
-
-(b)
-
-(a)
-
-(b)
-
-Compute minimum cost spanning tree [MST] of the following graph using [10]
-Kruskal’s algorithm. Show all the steps.
-
-Explain divide and conquer technique. Write algorithm for finding maximum [10]
-and minimum.
-
-Explain Greedy Approach to solve Knapsack problem. Find optimal solution [10]
-to knapsack instance n=7, m=15, (Pi, Po. P7) = (10,5,15,7,6,18,3) and (Wi,
-W2,....W7) = (2,3,5,7,1,4,1)
-
-Explain Radix sort. Sort the following using Radix sort COW, DOG, SEA, [10]
-RUG, ROW, MOB, BOX, TAB, BAR, EAR, TAR, DIG, BIG, TEA, NOW,
-FOX
-
-Illustrate the operation of Heap-Increase-Key(A,9,23) on the heap [10]
-A= (16, 14, 10, 8, 7, 9, 3, 2, 4, 1)
-
-Explain Binary search and write an algorithm to search an element in an array [10]
-using binary search method. Explain it with example.
-
-Write short note on: [Any two] [20]
-1) Divide and conquer approach
-2) N- queens Problem
-
-3) BFS and DFS
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper 8d6441325876
 
 - Departments: Computer Engineering
@@ -7661,6 +7750,121 @@ a) Heap Sort   1Q
 b) B Tree and B' Tree   10
 ````
 
+## 2012-13 · Re-Exam · Trim 2 · paper d368f68d33d1
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/DESIGN AND ANALYSIS OF ALGORITHMS/DESIGN & ANALYSIS OF ALGORITHMS II MCA 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 18/06/2013
+- Text: text (1 page)
+
+````text
+-
+SVKM's NMIMS
+Mukesh Patel School of Technolorn Maneement 8s -neering
+Programme: MCA   Year:   I   Trimester:   I1
+1   Academic Year :2012-2013
+Batch:   20 11-20 12
+Subject:   Design 8s Analysis of Algorithms   Marks:   100
+Time:   10.00 am To 1.00 pm
+Date:   18/06/2013   Duration: 3 hrs.
+Re - Examination
+Instructions :Candidates should read carefully theinstructions printed on the
+question paper and on the cover of the answer book, which is provided for their use.
+1. Question 1is Compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In aU 5questions to be afiempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures to the right indicate full marks.
+7. Assume suitable data wherever necessary.
+Explain Greedy method of algorithm design with a suitable
+example.
+Explain quick sort with suitable example.
+Explain different graph traversal methods with suitable example.
+Discuss the analysis of these graph traversal methods.
+Explain Radix Sort with suitable
+What is hashing? What is hash function? Which are different types
+ofhash functions? How to choose a hash function?
+Explain multi key file organization.
+Explain indexed sequential search with suitable example. What are
+its disadvantages?
+What is a minimum spanning Tree? Discuss Kruskal's algorithm for
+the minimum spanning tree.
+What is Heap Property? Explain Heap sort with suitable example
+Explain Merge Sort with suitable examp[&
+What is Binary Search Tree (BST)? Explain the implementation of
+BST with following data:
+<57,71,8,81,112,15,9,55,22,41>
+Explain Binary Search with suitable example. Discuss its analysis.
+Write short notes on the followings:
+Asymptotic Notations.
+Prim's algorithm
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper ffb576ccfe49
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/DESIGN AND ANALYSIS OF ALGORITHMS/Design & analysis of Algorithms BATCH2011-12 RE EXAM scan0001(1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/02/2013
+- Text: ocr (1 page), mean OCR confidence 87.7
+
+````text
+, Ag RTEW tay.
+SVKM’s NMIMS jp er NBS
+Mukesh Patel School Of Technology Management & Engind, Bue MPST ME 4 ,
+Programme: MCA Year: I Trimester: II e IBRARY ) é j
+Academic Year : 2012-2013 — se
+; ; Se er TN *
+Batch: 2011-12 IVER
+: . Design & Analysis of ~
+Subject: Algorithms Marks: 100
+Time: 10.00 am To 1.00 pm
+Date: 09/02/2013 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the answer book, which is provided for their use.
+
+1. Question 1 is Compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figures to the right indicate full marks.
+
+7. Assume suitable data wherever necessary.
+
+1 a) What is Heap? Explain Heap as a priority queue. 10
+b) Explain Merge sort with suitable example. 10
+2 a) Explain Strassen’s matrix multiplication with example. 10
+b) What is a binary search tree? Explain. Discuss its uses. 10
+3. a) What is hashing? Explain different collision handling 10
+techniques.
+b) What is algorithm? What is mean by analysis of 10
+algorithm? Discuss with example.
+4 a) Explain Minimum Spanning Tree with example. 10
+b) Explain the problem of finding the minimum and 10
+maximum using divide and conquer technique.
+5 a) Explain AND/OR Graphs. 10
+
+b) Explain Insertion Sort Algorithm? Discuss its best case, 10
+worst case and average case analysis.
+
+6 a) Explain KSP (Knapsack problem) with example. ~ 10
+b) Explain selection of median of median rule with 10
+example.
+7 Write short notes on the followings.
+a) Code Optimization. 10
+e- b) Multi Key File Organization 10
+````
+
 ## 2012-13 · Re-Exam · Trim 3 · paper 9eb34771738a
 
 - Departments: Computer Applications (MCA)
@@ -7719,58 +7923,6 @@ with example.
 7   Write short notes on the followings:
 a) Asymptotic Notations
 b)   Priority Queues
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper d368f68d33d1
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/DESIGN AND ANALYSIS OF ALGORITHMS/DESIGN & ANALYSIS OF ALGORITHMS II MCA 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 18/06/2013
-- Text: text (1 page)
-
-````text
--
-SVKM's NMIMS
-Mukesh Patel School of Technolorn Maneement 8s -neering
-Programme: MCA   Year:   I   Trimester:   I1
-1   Academic Year :2012-2013
-Batch:   20 11-20 12
-Subject:   Design 8s Analysis of Algorithms   Marks:   100
-Time:   10.00 am To 1.00 pm
-Date:   18/06/2013   Duration: 3 hrs.
-Re - Examination
-Instructions :Candidates should read carefully theinstructions printed on the
-question paper and on the cover of the answer book, which is provided for their use.
-1. Question 1is Compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In aU 5questions to be afiempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures to the right indicate full marks.
-7. Assume suitable data wherever necessary.
-Explain Greedy method of algorithm design with a suitable
-example.
-Explain quick sort with suitable example.
-Explain different graph traversal methods with suitable example.
-Discuss the analysis of these graph traversal methods.
-Explain Radix Sort with suitable
-What is hashing? What is hash function? Which are different types
-ofhash functions? How to choose a hash function?
-Explain multi key file organization.
-Explain indexed sequential search with suitable example. What are
-its disadvantages?
-What is a minimum spanning Tree? Discuss Kruskal's algorithm for
-the minimum spanning tree.
-What is Heap Property? Explain Heap sort with suitable example
-Explain Merge Sort with suitable examp[&
-What is Binary Search Tree (BST)? Explain the implementation of
-BST with following data:
-<57,71,8,81,112,15,9,55,22,41>
-Explain Binary Search with suitable example. Discuss its analysis.
-Write short notes on the followings:
-Asymptotic Notations.
-Prim's algorithm
 ````
 
 ## 2011-12 · Re-Exam · Trim 2 · paper d812610eb4f1
@@ -7839,69 +7991,6 @@ different technique to avoid a hash clash.
 7 Write short notes on the followings.
 a) Heap sort 10
 b) Biconnected components and depth file search. 10
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper ffb576ccfe49
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/DESIGN AND ANALYSIS OF ALGORITHMS/Design & analysis of Algorithms BATCH2011-12 RE EXAM scan0001(1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/02/2013
-- Text: ocr (1 page), mean OCR confidence 87.7
-
-````text
-, Ag RTEW tay.
-SVKM’s NMIMS jp er NBS
-Mukesh Patel School Of Technology Management & Engind, Bue MPST ME 4 ,
-Programme: MCA Year: I Trimester: II e IBRARY ) é j
-Academic Year : 2012-2013 — se
-; ; Se er TN *
-Batch: 2011-12 IVER
-: . Design & Analysis of ~
-Subject: Algorithms Marks: 100
-Time: 10.00 am To 1.00 pm
-Date: 09/02/2013 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the answer book, which is provided for their use.
-
-1. Question 1 is Compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figures to the right indicate full marks.
-
-7. Assume suitable data wherever necessary.
-
-1 a) What is Heap? Explain Heap as a priority queue. 10
-b) Explain Merge sort with suitable example. 10
-2 a) Explain Strassen’s matrix multiplication with example. 10
-b) What is a binary search tree? Explain. Discuss its uses. 10
-3. a) What is hashing? Explain different collision handling 10
-techniques.
-b) What is algorithm? What is mean by analysis of 10
-algorithm? Discuss with example.
-4 a) Explain Minimum Spanning Tree with example. 10
-b) Explain the problem of finding the minimum and 10
-maximum using divide and conquer technique.
-5 a) Explain AND/OR Graphs. 10
-
-b) Explain Insertion Sort Algorithm? Discuss its best case, 10
-worst case and average case analysis.
-
-6 a) Explain KSP (Knapsack problem) with example. ~ 10
-b) Explain selection of median of median rule with 10
-example.
-7 Write short notes on the followings.
-a) Code Optimization. 10
-e- b) Multi Key File Organization 10
 ````
 
 ## 2010-11 · Exam not stated · Trim 2 · paper c51e53c15563
@@ -8254,6 +8343,7 @@ x
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/DESIGN AND ANALYSIS OF ALGORITHMS/2008-2009 re exam(3).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MUKSESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
@@ -8318,7 +8408,6 @@ case calculations of timings [10]
 
 a. Write a program to create a stack Abstract Data Type using Linked List
 Implementation. ADT support the following operations: Createstack,
-Pushstack, popstack and destroystack. [10]
 
 b. Write a program to convert an expression from Infix to postfix [10]
 
@@ -8421,93 +8510,4 @@ Q. 7 (a) Insert the following keys into a B-tree of order 5 [tes if
 Add these further keys: 2, 6,12 i
 Delete these keys: 4, 5, 7
 Q. 7 (b) Write a note on B+ tree and B* tree. [10]
-````
-
-## Year not stated · Re-Exam · Sem 5 · paper 17bb545dc1c1
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DESIGN AND ANALYSIS OF ALGORITHMS/DESIGN AND ANALYSIS OF ALGORITHMS B TECH (COMP) RE EXAM.pdf`
-- Printed on paper: exam date: 06/12/2014
-- Text: ocr (3 pages), mean OCR confidence 90.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: III Semester? Ver.
-Batch: 2013-2014 BROS Q
-Academic Year: 2014-2015
-Subject: Design & Analysis of Algorithms
-Marks:
-Date: 06/12/2014 Time:
-. Durations:
-
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-onthe cover of the Answer Book, which is provided for their use.
-NB:
-1. QnestionNo.1 is compulsory.
-2. Attempt any four out of remaining six questions.. .
-3. Inall S questions to be attempted
-4. All questions carry equal marks.
-5. Answer to each new question to be started on NEW PAGE.
-6. Figures in .parenthesis on the right hand side indicate full marks.
-
-Ql. A. Find an optimal solution to the knapsack instance :n=7, m= 15 . [10]
-(pl,p2,p3,p4,p5,p6,p7) = (10,5,15,7,6,18,3)
-(10,5,15,7,6,18,3) and (wl , w2, w3 .w4, wS , w6,w7) =(2.3,5.7,1,4,0).
-
-Using Greedy Knapsack.
-
-B. What is Heap data structure? Write an algorithm for Heap sort? [10]
-Arrange the data
-element into heap tree
-Data: 95,85,70,55,33,30,65,15,20,15,22
-also further delete the root element from heap tree.
-Q2 A Makea B-Tree of degree 2 . Insert the following keys: [10]
-F,S,Q,K,C,L,H,T, V, W,M,R,N, P, A,B
-Delete the keys : B,M,W
-
-Define the complexity of B-Tree.
-
-B. Explain difference between Greedy method and dynamic method 10]
-a Q3 A. Explain backtracking method. Develop an algorithm for finding [10]
-
-8-queen problem.
---- page 2 ---
-B Explain Strassen’s multiplication algorithm. [10]
-Q4 A Write the functions to implement DFS and BFS graph searching method. [10]
-B_ Sort the following using RADIX sort. Give the Time Complexity [10]
-(179,1 13,216,464,339,220,189,553,571,442 )
-Q5A Write a psudocode for Insertion And Deletion of an element from Lio]
-BST (binary Search Tree) with complexity.
-Draw BST of the following :
-50,33,44,22,77,35,60,40
-Delete the following keys from this tree:
-60,35,33
-B Analyze Performance of Quick Sort for trot
-
-1. Best Case
-2. Worst Case
-3. Average Case
---- page 3 ---
-Q6A_ Apply Prim’s algorithm in a given graph where “a” is a source node. And also draw minimum
-
-spannig tree of a given graph Cio
-
-B. Define Assymptoti¢ notation s. Explain with an example {10]
-Q7 Write short Notes on: (Any Four) [20]
-
-1. -Hash Tables and hash functions
-
-2. Divide and Conquer Strategy
-
-3. Kruskal ‘s Algorithm
-
-4. Reliability design
-
-5. Difference between sequential search and Binarhy Search
-
-Kx
 ````

@@ -1,8 +1,216 @@
 # Measurements and Instrumentation: question papers in full
 
-6 unique papers · 2017-18 to 2017-18 · Electrical
+6 unique papers · 2016-17 to 2018-19 · Electrical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2018-19 · Re-Exam · Sem 3 · paper cf11e6e5105d
+
+- Departments: Electrical
+- Programmes: B TECH / ELECTRICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/MEASUREMENTS AND INSTRUMENTATION/MEASUREMENTS AND INSTRUMENTATION BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 20 November 2018
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech ( ELECTRICAL) Year: II _- Semester: I _
+- a
+~ Academic Year: 2018-2019
+
+Subject: Measurements and Instrumentation
+‘ Marks: 7
+
+Date: 20 November 2018 Time: 2.0
+S Durations:
+
+_ No. of Pages’
+
+Re-examination (2017-18) J
+
+Instructions: Candidates should read carefully the instructions printed on the question
+‘paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+Figures in brackets on the right hand side indicate.
+
+Ql
+(a) Define transducers and its various types. - 4
+» v
+(b) Define the following terms . 4
+. 1. Accuracy
+2. Precision
+(c) What is the difference between C.T and P.T? 3
+(d) Kelvin’s double bridge is capable of measuring low value of unknown 3
+resistance accurately. Justify
+Q.2
+(a) Describe how an unknown inductance can be measured with the help of
+
+Anderson bridge with the help of phasor diagram. 7
+--- page 2 ---
+(b) In a Wheatstone bridge of figure: 1 values of resistances of various arms are 7
+P=10002 Q=100Q R= 2005 Q and S=200.The battery has emf of Sv and
+negligible internal resistance. The galvanometer has current sensitivity of
+( 10mm/pA and internal resistance of 100Q.Calculate deflection of
+rv galvanometer and sensitivity of bridge in terms of deflection per unit change
+in resistance.
+
+a
+|! '
+Q3 . we \
+(a) Explain the different principles of working of capacitive transducers. 7
+(b) Explain the construction and principle of working of a linear voltage 7
+
+differential transformer (LVDT).
+
+Q.4
+(a) Explain the construction and working of potential transformer.
+.* : 7
+(b) Draw equivalent circuit of current transformer with phasor diagram and 7
+; derive transformation ratio.
+Q5
+(a) What are the various error in Electrodynamometer type wattmeters, also 7
+‘derive expression for correction factor for pressure coil inductance.
+(b) Explain measurement of power in three phase circuit using two wattmeter 7
+method.
+Q.6
+(a) Explain DC Testing of Cables for High Voltage with neat circuit diagram. 7
+(b) Explain the construction and working of Merz price Maximum Demand 7
+indicator
+satiated
+Q.7
+aes Write short notes on
+(i) RTD 4
+(ii) Synchroscope 3
+(iii) Megger 4
+(iv) Single phase Power factor meter 3
+cS
+
+ala
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper 830dfda76339
+
+- Departments: Electrical
+- Programmes: B TECH / ELECTRICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/MEASUREMENTS AND INSTRUMENTATION/MEASUREMENTS & INSTRUMENTATION B TECH (ELECTRICAL), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 02 December 2017
+- Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (ELECTRICAL) . Year: Semester: III _
+o “
+Academic Year: 2017-2018
+Subject: Measurements & Instrumentation _ a,
+. Marks: 70 aiid vy,
+Date: 02 December 2017 Time: 10.00°am to 1.00 =
+Durations:-8,{hrs) «jy
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+. paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Qi
+(a) Define the following terms 4
+1. Accuracy
+2. Precision
+(b) Why it is preferable in ac bridge circuits that equations of balance are 3
+independent of frequency.
+(c) Define the following terms related to instrument transformer 4
+1. Ratio Error
+2. Phase angle error
+(d) Kelvin’s double bridge .is capable of measuring low value of unknown 3
+resistance accurately. Justify.
+Q.2
+(a) Describe how an unknown capacitance can be measured with the help of 7
+
+modified D’Sauty’s bridge with the help of phasor diagram.
+
+1 fo
+--- page 2 ---
+VN
+
+(b) In a Wheatstone bridge of figure:1 values of resistances of various arms are 7
+P=1000Q Q=100Q R= 2005 Q and S=200Q.The battery has emf of 5v and
+negligible internal resistance. The galvanometer has current sensitivity of
+10mm/pA and internal resistance of 100Q.Calculate deflection of
+galvanometer and sensitivity of bridge in terms of deflection per unit change
+
+in resistance.
+DA | yg
+(Gi) 8
+
+TAA
+rs
+R NY
+a
+ao [TE Fea i
+(a) Draw the equivalent circuit of piezo electric transducer and derive the 7
+
+expression for magnitude of voltage across the load by making simple
+assumptions.
+
+Sc
+
+(b) Explain DC tachometer and AC tachometer generator. 7
+Q.4
+
+(a) What is current transformer? Explain its construction and working 7
+(b) Draw equivalent circuit of current transformer with phasor diagram and 7
+
+derive transformation ratio.
+
+Qs .
+
+(a) Explain the principle of operation of electrodynamometer type instruments. 7
+Also derive torque equation.
+
+(b) Explain measurement of power in three phase circuit using two wattmeter 7
+method.
+
+Q6
+
+(a) Explain DC Testing of Cables for High Voltage with neat circuit diagram. 7
+
+(b) Explain phase sequence detector in detail. 7
+
+Q.7 Write short notes on
+
+cual (i) Megger 4
+
+(ii) | Single phase Power factor meter 3
+(iii) | Synchroscope 3
+(iv) RTD 4
+
+: | 2h
+````
 
 ## 2017-18 · Final-Exam · Sem 3 · paper e08b64ca1dbe
 
@@ -160,101 +368,6 @@ pen Q.7 Write short notes on
 fo
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper cf11e6e5105d
-
-- Departments: Electrical
-- Programmes: B TECH / ELECTRICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/MEASUREMENTS AND INSTRUMENTATION/MEASUREMENTS AND INSTRUMENTATION BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 20 November 2018
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech ( ELECTRICAL) Year: II _- Semester: I _
-- a
-~ Academic Year: 2018-2019
-
-Subject: Measurements and Instrumentation
-‘ Marks: 7
-
-Date: 20 November 2018 Time: 2.0
-S Durations:
-
-_ No. of Pages’
-
-Re-examination (2017-18) J
-
-Instructions: Candidates should read carefully the instructions printed on the question
-‘paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-Figures in brackets on the right hand side indicate.
-
-Ql
-(a) Define transducers and its various types. - 4
-» v
-(b) Define the following terms . 4
-. 1. Accuracy
-2. Precision
-(c) What is the difference between C.T and P.T? 3
-(d) Kelvin’s double bridge is capable of measuring low value of unknown 3
-resistance accurately. Justify
-Q.2
-(a) Describe how an unknown inductance can be measured with the help of
-
-Anderson bridge with the help of phasor diagram. 7
---- page 2 ---
-(b) In a Wheatstone bridge of figure: 1 values of resistances of various arms are 7
-P=10002 Q=100Q R= 2005 Q and S=200.The battery has emf of Sv and
-negligible internal resistance. The galvanometer has current sensitivity of
-( 10mm/pA and internal resistance of 100Q.Calculate deflection of
-rv galvanometer and sensitivity of bridge in terms of deflection per unit change
-in resistance.
-
-a
-|! '
-Q3 . we \
-(a) Explain the different principles of working of capacitive transducers. 7
-(b) Explain the construction and principle of working of a linear voltage 7
-
-differential transformer (LVDT).
-
-Q.4
-(a) Explain the construction and working of potential transformer.
-.* : 7
-(b) Draw equivalent circuit of current transformer with phasor diagram and 7
-; derive transformation ratio.
-Q5
-(a) What are the various error in Electrodynamometer type wattmeters, also 7
-‘derive expression for correction factor for pressure coil inductance.
-(b) Explain measurement of power in three phase circuit using two wattmeter 7
-method.
-Q.6
-(a) Explain DC Testing of Cables for High Voltage with neat circuit diagram. 7
-(b) Explain the construction and working of Merz price Maximum Demand 7
-indicator
-satiated
-Q.7
-aes Write short notes on
-(i) RTD 4
-(ii) Synchroscope 3
-(iii) Megger 4
-(iv) Single phase Power factor meter 3
-cS
-
-ala
-````
-
 ## 2017-18 · Re-Exam · Sem 3 · paper e04234bd1646
 
 - Departments: Electrical
@@ -383,120 +496,7 @@ RTD
 2
 ````
 
-## Year not stated · Final-Exam · Sem 3 · paper 830dfda76339
-
-- Departments: Electrical
-- Programmes: B TECH / ELECTRICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/MEASUREMENTS AND INSTRUMENTATION/MEASUREMENTS & INSTRUMENTATION B TECH (ELECTRICAL), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 02 December 2017
-- Text: ocr (2 pages), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (ELECTRICAL) . Year: Semester: III _
-o “
-Academic Year: 2017-2018
-Subject: Measurements & Instrumentation _ a,
-. Marks: 70 aiid vy,
-Date: 02 December 2017 Time: 10.00°am to 1.00 =
-Durations:-8,{hrs) «jy
-No. of Pi at q Tk
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-. paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qi
-(a) Define the following terms 4
-1. Accuracy
-2. Precision
-(b) Why it is preferable in ac bridge circuits that equations of balance are 3
-independent of frequency.
-(c) Define the following terms related to instrument transformer 4
-1. Ratio Error
-2. Phase angle error
-(d) Kelvin’s double bridge .is capable of measuring low value of unknown 3
-resistance accurately. Justify.
-Q.2
-(a) Describe how an unknown capacitance can be measured with the help of 7
-
-modified D’Sauty’s bridge with the help of phasor diagram.
-
-1 fo
---- page 2 ---
-VN
-
-(b) In a Wheatstone bridge of figure:1 values of resistances of various arms are 7
-P=1000Q Q=100Q R= 2005 Q and S=200Q.The battery has emf of 5v and
-negligible internal resistance. The galvanometer has current sensitivity of
-10mm/pA and internal resistance of 100Q.Calculate deflection of
-galvanometer and sensitivity of bridge in terms of deflection per unit change
-
-in resistance.
-DA | yg
-(Gi) 8
-
-TAA
-rs
-R NY
-a
-ao [TE Fea i
-(a) Draw the equivalent circuit of piezo electric transducer and derive the 7
-
-expression for magnitude of voltage across the load by making simple
-assumptions.
-
-Sc
-
-(b) Explain DC tachometer and AC tachometer generator. 7
-Q.4
-
-(a) What is current transformer? Explain its construction and working 7
-(b) Draw equivalent circuit of current transformer with phasor diagram and 7
-
-derive transformation ratio.
-
-Qs .
-
-(a) Explain the principle of operation of electrodynamometer type instruments. 7
-Also derive torque equation.
-
-(b) Explain measurement of power in three phase circuit using two wattmeter 7
-method.
-
-Q6
-
-(a) Explain DC Testing of Cables for High Voltage with neat circuit diagram. 7
-
-(b) Explain phase sequence detector in detail. 7
-
-Q.7 Write short notes on
-
-cual (i) Megger 4
-
-(ii) | Single phase Power factor meter 3
-(iii) | Synchroscope 3
-(iv) RTD 4
-
-: | 2h
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper d332347904ea
+## 2016-17 · Final-Exam · Sem 3 · paper d332347904ea
 
 - Departments: Electrical
 - Programmes: B TECH / ELECTRICAL

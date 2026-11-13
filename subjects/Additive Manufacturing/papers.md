@@ -875,6 +875,7 @@ manufacture 3d printed parts using powder or wire based feedstock.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/ADDITIVE MANUFACTURING/Additive Manufacuring Batch 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 87.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS "
@@ -966,7 +967,6 @@ CO1-; SO-7; b. | Explain in detail the process parameters influencing an Ultraso
 
 BL-4 additive manufacturing process. ae
 
-oi 8 ok Ro oR RR RR OE
 
 2| Page
 ````
@@ -978,6 +978,7 @@ oi 8 ok Ro oR RR RR OE
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/ADDITIVE MANUFACTURING/Additive Manufacturing, 3rd Year, Sem V, Year 2022-23, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 November 2022
 - Text: ocr (2 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -1065,7 +1066,6 @@ CO-2; $O-1; BL-2 b. List the applications of additive manufacturing in the biome
 
 Note: CO-Course outcome, SO-Student Outcome, BL-Blooms Taxonomy
 
-FASO SICA IOI ICI IOI OK
 ````
 
 ## 2022-23 · Final-Exam · Sem 7 · paper 377624c15392

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Java Programming/ANS_Java Programming(703CO0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (15 pages), mean OCR confidence 87.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -150,7 +151,6 @@ marks = 0.0;
 
 // Constructor to initialize Name and Roll Number
 
-FSI A I dk ck ak i ak kk
 --- page 4 ---
 Student(String n, int r) {
 name = n;

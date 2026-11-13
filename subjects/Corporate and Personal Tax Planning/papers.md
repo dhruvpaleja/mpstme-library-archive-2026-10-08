@@ -1,10 +1,10 @@
 # Corporate and Personal Tax Planning: question papers in full
 
-1 unique papers · years not stated · Common (all branches)
+1 unique papers · 2012-13 to 2012-13 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## Year not stated · Exam not stated · Trim 14 · paper ae44142d5e45
+## 2012-13 · Exam not stated · Trim 14 · paper ae44142d5e45
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH

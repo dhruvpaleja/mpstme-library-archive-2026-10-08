@@ -4,6 +4,101 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Exam not stated · paper ccf31f30b0a9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management_ccf31f30b0.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+' SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+Program/s: MBA TECH —_ Year: IV Semester: VII
+Stream/s :All Streams / meEc Hel viL
+
+Subject: Information System:. Management ; Time: 2 hrs ( 10.00 am to 12.00 pm)
+Date:_25 / || / 2025 No. of Pages: 2
+Marks: 50
+
+Re-Examination (2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. : :
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks:
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+’ 7) Assume Suitable data if necessary.
+
+Answer briefly: : [10]
+
+Case: Stellar Textiles is a company that supplies uniforms to educational
+institutions, hospitals, and corporate organizations across multiple cities.
+The company operates through regional offices that coordinate with
+clients, production teams, and suppliers. Orders are received through
+regional sales offices, which manually collect requirements from clients via
+Qi. email or phone and forward them to the production unit. The production
+team schedules manufacturing based on the availability of raw materials,
+often leading to delays due to inaccurate stock data.
+Invoices are generated manually after delivery, and payment tracking is
+maintained through spreadsheets by the accounts department. Customer
+
+orders are not fulfilled on time and collections are also delayed.
+--- page 2 ---
+What potential 3 business problems might Stellar Textiles Pvt. Ltd. face in
+
+Qia.
+5-60. - the next few years if it continues to operate with the current manual and | [2.5]
+CO-;SO-;
+BL- unintegrated processes?
+. Suggest an information system or technology solution that could help
+CO-; SO-; ; [2.5]
+BL- Stellar Textiles improve its internal coordination and data accuracy.
+Discuss why data security and access control would be important for Stellar
+CO- ; SO- ; [2.5]
+BL- Textiles when adopting iritegratecl information systems.
+Explain six reasons why Information Management Systems are important
+CO- ; SO- ; o ; [2.5]
+BL- for businesses today.
+Q2 Discuss the current trends shaping computer hardware platforms. Explain
+CO-: SO-: any three of these trends in detail, highlighting their impact on business [10]
+BL- and information systems. :
+Q3 Explain the key capabilities of modern database systems and discuss the
+Len. importance of Relational Database Management Systems BMS) in 10
+CO-; SO-;
+BL- managing business information.
+Q4 . , F i az A
+Explain the major data security threats faced by organizations and their
+CO-; SO-; . [10]
+BL- impact on business operations.
+Q5 . . .
+Explain the concept and types of e-commerce. Discuss any three major
+CO-; SO-; . [10]
+BL- revenue models used by e-commerce businesses.
+Q6 A oe
+Explain the concept of the Knowleclge Management Value Chain. Discuss
+CO-; SO-; Boh ed 8 [10]
+BL- its main stages?
+Q7 : ssia 7
+Using Porter's Competitive Forces Model, analyze how external industry
+CO-; SO-; . 3 [10]
+BL forces influence business performance and strategy formulation.
+
+(2)
+````
+
 ## 2025-26 · Final-Exam · Sem 8 · paper db752b1f9770
 
 - Departments: Electronics and Telecommunication
@@ -946,6 +1041,160 @@ favourable approach.
 ********** 3 **********
 ````
 
+## 2025-26 · Re-Exam · paper 960183135282
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management, Sem-VIII, Batch 2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30 June 2026
+- Text: ocr (3 pages), mean OCR confidence 90.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGI
+
+Academic Year: 2025-26
+Program: MBA Tech (AI/COMP/DS/EXTC/IT)
+
+Year: IV Semester: YI
+Subject: Information System Management a“
+Time: 2.00 pm to 4.00 pm (2 hrs) *
+Date : 30 June 2026
+
+No. of Pages:_03
+Marks: 50
+Re-Exam (2024-25/2025-26) _
+
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5S questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+
+Ql Answer briefly: — - [10]
+
+CO-; What are three key challenges that organizations face when adopting
+
+BLS ‘ Enterprise Applications, such as ERP or CRM systems? “
+a 7 b. What are the principles of e-commerce business and revenue models? [2]
+a ry ; Distinguish between business-to-consumer and business to-business 2]
+
+: "| ecommerce giving examples.
+
+pe d. How do Moore’s Law and Metcalfe’s Law influence IT strategy? [2]
+a What strategic risks are associated with outsourcing IT systems? [2]
+
+FR dk .
+--- page 2 ---
+Critique blockchain adoption in B2B ecommerce supply chains versus [10]
+traditional ERP systems. ;
+
+|
+
+How the internet business model helps to enhance the e-commerce market? | [10]
+
+Explain the concept of API based, EDI-based, XML based and Blockchain
+
+based B2B e-commerce integration. Describe their impact on supply chain [10]
+
+visibility, data interoperability, and implementation costs.
+
+CASE STUDY: IT Governance and Decentralization Conflict
+
+A multinational firm allows regional units to manage their own IT systems.
+
+While this provides flexibility, it leads to duplication of systems and
+
+inconsistent data. Headquarters wants to centralize IT governance, but
+
+regional managers resist losing control. Integration across regions is weak,
+
+affecting global Strategy. Competitors with centralized systems achieve
+
+better coordination.
+
+Diagnose governance issues and stakeholder conflict.
+
+[5]
+In the long term, how should governance evolve.
+
+. [5]
+ON
+
+a
+
+FORK IK DR dk
+--- page 3 ---
+om
+
+Q6
+CO-2;
+BL-3,4,5
+
+CASE STUDY: Failed ERP Implementation in Manufacturing
+
+Through an external IT vendor, a manufacturing company implemented an |
+Lad
+
+ERP system using a traditional waterfall approach. The project took two
+years, during which market conditions changed significantly. By the time
+the system was deployed, it lacked flexibility to handle new customer
+demands. Employees found it rigid and difficult to use. There was minionel
+involvement from end users during design. Operational disruptions
+increased, and productivity declined. Management now faces rising costs
+and pressure to adapt quickly. Competitors using agile development
+
+approaches are outperforming the firm in responsiveness and innovation.
+
+5 stakeholders (employee, IT team, customers, vendor and management)
+
+have been identified. Post deployment analyse how they were impacted ?
+
+[5]
+
+The leadership faces a choice between 2 choices: Replace vs Upgrade.
+Analyse the two choices and any alternate if they exist and recommend an
+
+optimal approach.
+
+[5]
+
+Q7
+CO-3;
+BL-3,4,5
+
+CASE STUDY: Outsourcing and System Integration Risk
+
+A large insurance company outsourced its claims processing system to an
+external vendor to reduce costs and improve efficiency. Initially, the system
+performed well, but over time, hidden costs emerged in vendor management,
+integration, and customization. The company struggled to integrate the
+outsourced system with legacy databases. Sensitive customer data exposure
+became a concern. Employees felt disconnected from the system and lacked
+control over processes. Meanwhile, competitors investing in in-house digital
+capabilities began offering faster and more personalized services. The firm
+must decide whether to continue outsourcing or bring capabilities back in-
+
+house.
+
+So many outsourcing have worked successfully. But what went wrong here?
+
+[5]
+
+The company can continue to outsource OR bring everything inhouse OR
+try an alternative? Analyze the scenario with reasons and suggest a
+
+favourable approach.
+
+[5]
+
+FOI IIR 2A kk
+````
+
 ## 2024-25 · Final-Exam · Sem 8 · paper 3d32975d645a
 
 - Departments: Electronics and Telecommunication
@@ -1868,158 +2117,178 @@ CO-2; SO-   [10]
 ********** 2 **********
 ````
 
-## 2024-25 · Re-Exam · paper 960183135282
+## 2024-25 · Re-Exam · paper dda7241dfa96
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management, Sem-VIII, Batch 2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 30 June 2026
-- Text: ocr (3 pages), mean OCR confidence 90.0
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management , Re-exam 2023-24.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 14/2/2025
+- Text: ocr (2 pages), mean OCR confidence 91.5
 
 ````text
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGI
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
 
-Academic Year: 2025-26
-Program: MBA Tech (AI/COMP/DS/EXTC/IT)
+Program: MBA TECH Stream : Civil, Mechanical Jace Year: IV Semester:VII
 
-Year: IV Semester: YI
-Subject: Information System Management a“
-Time: 2.00 pm to 4.00 pm (2 hrs) *
-Date : 30 June 2026
+Subject: Information System Management Time: 2 hrs (2:00 R.M to 4:00 P.M)
+Date: 14/2/2025 No. of Pages: 2
 
-No. of Pages:_03
 Marks: 50
-Re-Exam (2024-25/2025-26) _
 
-Instructions:
-1. This question paper contains 3 pages.
-2. Question #1 is compulsory
-3. Out of the remaining questions, attempt any 4
-4. In all 5S questions to be attempted
-5. All questions carry equal marks
-6. Answer to each question to be started on fresh page
-7. Figures in bracket on the right hand side indicate full marks
-8. Assume suitable data if necessary
+Re-Examination (Batch - 2023-24)
 
-Ql Answer briefly: — - [10]
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-CO-; What are three key challenges that organizations face when adopting
+1) Question No. _1___ is compulsory.
 
-BLS ‘ Enterprise Applications, such as ERP or CRM systems? “
-a 7 b. What are the principles of e-commerce business and revenue models? [2]
-a ry ; Distinguish between business-to-consumer and business to-business 2]
+2) Out of remaining questions, attempt any _4 questions.
+3)Inall___5_ questions to be attempted.
 
-: "| ecommerce giving examples.
+4) All questions carry equal marks.
 
-pe d. How do Moore’s Law and Metcalfe’s Law influence IT strategy? [2]
-a What strategic risks are associated with outsourcing IT systems? [2]
+5) Answer to each new question to be started on a fresh page.
 
-FR dk .
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Section -A 4
+CO- 1; SO- | a. Does BI systems deliver any analytical capabilities — Do Justify. [2]
+; BL- 6
+b: Based on the current competition in Mobile industry how would you
+CO-1; SO-; [2]
+BL-I analyze the market using competitive forces model.
+(Gs Provide the different systems which Top Management teams uses on daily
+CO- 1; SO- [2]
+;BL-2 basis.
+CO-2; SO-; | d. How can inappropriate Demand & Supply be controlled in market. [2]
+BL-3
+CO-2; SO-; | e. How does authentication factors helps in reducing cyber security breaches. | [2]
+BL-4
+Section -B
+Q2
+CO-3; SO-; Amazon No 1 could service provider — Does Helps OTT platforms like Zee5 /
+
+[10]
+BL-3 Netflix for storing and maintain data’s. Explain How & Justify your answer.
 --- page 2 ---
-Critique blockchain adoption in B2B ecommerce supply chains versus [10]
-traditional ERP systems. ;
+Q3
 
-|
+CO-3; SO-; Provide the major causes of ERP Implementation Failures in any organization. [10]
+BL-5
+Q4
+ae Provide the different dimensions of Knowledge Management System. [10]
+BL-02
+It is said that supply chains are essentially “a series of linked suppliers and
+a 50-; customers; every customer is in turn a supplier to the next downstream ol
+BL-4 organization, until the ultimate end-user.” Explain. Use a diagram to make
+your point.
+Q6
+CO-2; SO-; Specify the major activities related to System development cycle. [10]
+BL-2
+Q7 Considering the various cyber-attacks like Phishing, outdated software’s, worms /
+Trojans also related third party risk what strategies should financial institutions (10)
 
-How the internet business model helps to enhance the e-commerce market? | [10]
+CO-3; SO-; like Insurance Companies / Banks adopt to minimize disruption & identify
 
-Explain the concept of API based, EDI-based, XML based and Blockchain
+BL- 2 vulnerabilities in legacy systems.
+````
 
-based B2B e-commerce integration. Describe their impact on supply chain [10]
+## 2024-25 · Re-Exam · paper 5b28e93a9c6f
 
-visibility, data interoperability, and implementation costs.
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information Systems Management, Re Exam 2023-24.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/11/2024
+- Text: ocr (2 pages), mean OCR confidence 89.4
 
-CASE STUDY: IT Governance and Decentralization Conflict
+````text
+SVKM’S NMIMS Se
 
-A multinational firm allows regional units to manage their own IT systems.
+‘3
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
 
-While this provides flexibility, it leads to duplication of systems and
+Program: MBA TECH Stream : Civil, Mechanical Year: [V Semester: VII
 
-inconsistent data. Headquarters wants to centralize IT governance, but
+Subject: Information Systems Management : Time: 2 hrs (10:00 A.M to 12:00 P.M)
+Date: 26/11/2024 No. of Pages: 2
 
-regional managers resist losing control. Integration across regions is weak,
+Marks: 50
 
-affecting global Strategy. Competitors with centralized systems achieve
+Re-Examination (Batch - 2023-24)
 
-better coordination.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-Diagnose governance issues and stakeholder conflict.
+1) Question No. _1___ is compulsory. a
+2) Out of remaining questions, attempt any __4 _questiorts.
+3) In all__5_ questions to be attempted. Rony
 
-[5]
-In the long term, how should governance evolve.
+4) All questions carry equal marks. :
 
-. [5]
-ON
+5) Answer to each new question to be started on a fresh page.
 
-a
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
-FORK IK DR dk
---- page 3 ---
-om
+Ql
+
+Section-A
+CO- 1; SO- | a. Explain how information systems are transforming business. [2]
+;BL-1 .
+CO-1; SO-; | b. Mention the dimensions of Information Systems. [2]
+BL-I :
+CO- 1; SO- | c. Provide examples of functional business process. [2]
+; BL- 2
+CO-2; $0-; d. Draw the diagram of Two-way relationship between organizations and 2]
+BL-3 information technology.
+CO-2; SO-; | e. Disruptive Technologies - Explain with example. [2]
+BL-4
+
+Section -B
+Q2
+CO-3; SO-;
+
+Justify as to why E-commerce is different and what are the Key concepts 110]
+BL-3
+related to same.
+--- page 2 ---
+i
+
+Q3 r
+What is an Enterprise application? Provide the kind of business..processes /
+CO-3; SO-; modules related to same and also mention the challenges which organization | [10]
+
+BL-3 faces with such applications.
+
+Q4
+
+CO-02;
+SO-;
+BL-04
+
+Draw the diagram of Key Supply Chain Management Processes. {10}
+
+Q5
+
+Sea SO-; Explain the difference between Push Vs Pull Based Supply chain model. [10]
 
 Q6
-CO-2;
-BL-3,4,5
+CO-2; SO-; What is the Role of Knowledge Management Systems in Business. [10]
 
-CASE STUDY: Failed ERP Implementation in Manufacturing
+A
 
-Through an external IT vendor, a manufacturing company implemented an |
-Lad
-
-ERP system using a traditional waterfall approach. The project took two
-years, during which market conditions changed significantly. By the time
-the system was deployed, it lacked flexibility to handle new customer
-demands. Employees found it rigid and difficult to use. There was minionel
-involvement from end users during design. Operational disruptions
-increased, and productivity declined. Management now faces rising costs
-and pressure to adapt quickly. Competitors using agile development
-
-approaches are outperforming the firm in responsiveness and innovation.
-
-5 stakeholders (employee, IT team, customers, vendor and management)
-
-have been identified. Post deployment analyse how they were impacted ?
-
-[5]
-
-The leadership faces a choice between 2 choices: Replace vs Upgrade.
-Analyse the two choices and any alternate if they exist and recommend an
-
-optimal approach.
-
-[5]
+BL-2
 
 Q7
-CO-3;
-BL-3,4,5
 
-CASE STUDY: Outsourcing and System Integration Risk
+CO-3; SO-; Provide the 6 elements in Business Intelligence Environment. [10]
 
-A large insurance company outsourced its claims processing system to an
-external vendor to reduce costs and improve efficiency. Initially, the system
-performed well, but over time, hidden costs emerged in vendor management,
-integration, and customization. The company struggled to integrate the
-outsourced system with legacy databases. Sensitive customer data exposure
-became a concern. Employees felt disconnected from the system and lacked
-control over processes. Meanwhile, competitors investing in in-house digital
-capabilities began offering faster and more personalized services. The firm
-must decide whether to continue outsourcing or bring capabilities back in-
-
-house.
-
-So many outsourcing have worked successfully. But what went wrong here?
-
-[5]
-
-The company can continue to outsource OR bring everything inhouse OR
-try an alternative? Analyze the scenario with reasons and suggest a
-
-favourable approach.
-
-[5]
-
-FOI IIR 2A kk
+BL- 2
 ````
 
 ## 2023-24 · Final-Exam · paper 9b76c136e252
@@ -2166,86 +2435,6 @@ can be taken to prevent data silos and discrepancies in a similar project?
 [5]
 ````
 
-## 2023-24 · Re-Exam · paper dda7241dfa96
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management , Re-exam 2023-24.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 14/2/2025
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: MBA TECH Stream : Civil, Mechanical Jace Year: IV Semester:VII
-
-Subject: Information System Management Time: 2 hrs (2:00 R.M to 4:00 P.M)
-Date: 14/2/2025 No. of Pages: 2
-
-Marks: 50
-
-Re-Examination (Batch - 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any _4 questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Section -A 4
-CO- 1; SO- | a. Does BI systems deliver any analytical capabilities — Do Justify. [2]
-; BL- 6
-b: Based on the current competition in Mobile industry how would you
-CO-1; SO-; [2]
-BL-I analyze the market using competitive forces model.
-(Gs Provide the different systems which Top Management teams uses on daily
-CO- 1; SO- [2]
-;BL-2 basis.
-CO-2; SO-; | d. How can inappropriate Demand & Supply be controlled in market. [2]
-BL-3
-CO-2; SO-; | e. How does authentication factors helps in reducing cyber security breaches. | [2]
-BL-4
-Section -B
-Q2
-CO-3; SO-; Amazon No 1 could service provider — Does Helps OTT platforms like Zee5 /
-
-[10]
-BL-3 Netflix for storing and maintain data’s. Explain How & Justify your answer.
---- page 2 ---
-Q3
-
-CO-3; SO-; Provide the major causes of ERP Implementation Failures in any organization. [10]
-BL-5
-Q4
-ae Provide the different dimensions of Knowledge Management System. [10]
-BL-02
-It is said that supply chains are essentially “a series of linked suppliers and
-a 50-; customers; every customer is in turn a supplier to the next downstream ol
-BL-4 organization, until the ultimate end-user.” Explain. Use a diagram to make
-your point.
-Q6
-CO-2; SO-; Specify the major activities related to System development cycle. [10]
-BL-2
-Q7 Considering the various cyber-attacks like Phishing, outdated software’s, worms /
-Trojans also related third party risk what strategies should financial institutions (10)
-
-CO-3; SO-; like Insurance Companies / Banks adopt to minimize disruption & identify
-
-BL- 2 vulnerabilities in legacy systems.
-````
-
 ## 2023-24 · Re-Exam · paper 6f983893d849
 
 - Departments: Common (all branches)
@@ -2363,98 +2552,168 @@ CO-1; SO-
 information that organization needs? Also define computer crime along {10]
 ````
 
-## 2023-24 · Re-Exam · paper 5b28e93a9c6f
+## 2022-23 · Exam not stated · paper 903abbcd1213
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information Systems Management, Re Exam 2023-24.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/11/2024
-- Text: ocr (2 pages), mean OCR confidence 89.4
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (3 pages), mean OCR confidence 90.8
 
 ````text
-SVKM’S NMIMS Se
+>STME
+BRARY
 
-‘3
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
+a SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE a
 
-Program: MBA TECH Stream : Civil, Mechanical Year: [V Semester: VII
+Academic Year: 2022-2023 .
+Program: MBA Tech Stream: All Streams Year: IV Semestef* VII
 
-Subject: Information Systems Management : Time: 2 hrs (10:00 A.M to 12:00 P.M)
-Date: 26/11/2024 No. of Pages: 2
-
+Subject: Information System Management Time: 2 Hrs,(4400 am to d!o0 pm)
+Date:_414 / 06/2023 No. of Pages: 3
 Marks: 50
 
-Re-Examination (Batch - 2023-24)
+Special ‘Re-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. _1___ is compulsory. a
-2) Out of remaining questions, attempt any __4 _questiorts.
-3) In all__5_ questions to be attempted. Rony
+1. Questions 1 is compulsory.
 
-4) All questions carry equal marks. :
+a 2. Out of remaining questions, attempt any __4 _ questions.
+3. Inall__5_ questions to be attempted.
+4. All questions carry equal marks
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
 
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+Section—A
 
 Ql
 
-Section-A
-CO- 1; SO- | a. Explain how information systems are transforming business. [2]
-;BL-1 .
-CO-1; SO-; | b. Mention the dimensions of Information Systems. [2]
-BL-I :
-CO- 1; SO- | c. Provide examples of functional business process. [2]
-; BL- 2
-CO-2; $0-; d. Draw the diagram of Two-way relationship between organizations and 2]
-BL-3 information technology.
-CO-2; SO-; | e. Disruptive Technologies - Explain with example. [2]
-BL-4
+a. Which system out of: - Enterprise Application, CRM, or SCM is designed 2]
 
-Section -B
+CO-1, SO-, BL-3 to support organization-wide process coordination and integration?
+Why?
+
+b. [2]
+List one advantage and one disadvantage of Cloud computing.
+
+CO2-, SO-, BL-2
+
+lan
+c. (2]
+
+7 Explain the term Bullwhip Effect?
+CO-2,3, SO-, BL-2
+
+d. [2]
+Explain what is meant by information asymmetry
+CO-1,3, SO-, BL-1
+
+e. [2]
+What are main Global strategies in the internationalization?
+
+CO-3, SO-, BL-
+Section —-B
 Q2
-CO-3; SO-;
+a.
+Illustrate and Explain the Enterprise Applications Architecture of a firm. [5]
 
-Justify as to why E-commerce is different and what are the Key concepts 110]
-BL-3
-related to same.
+CO-1, SO-, BL-2
+
+CO — Course Outcomes SO — Student Outcomes, BL — Bloom’s Taxonomy Level
 --- page 2 ---
-i
-
-Q3 r
-What is an Enterprise application? Provide the kind of business..processes /
-CO-3; SO-; modules related to same and also mention the challenges which organization | [10]
-
-BL-3 faces with such applications.
-
+b. Mention few points as to how IT infrastructure supports organization [5] |
+CO-2, SO-, BL-2 culture
+Q3 7
+What is Knowledge Work System? A Real-estate construction company” [5]
+builds luxury apartments in urban areas and wishes to implement a
+knowledge work system (K WS) for its architects, engineers, and sales
+a. and marketing executives. This K WS also will enable virtual
+CO-3, SO-, BL-5 walkthroughs of apartments without visiting the site, which was very
+much of a requirement in the Covid lockdown. Suggest key features and
+capabilities of such a KWS and explain how each stakeholder
+(architects, engineers, customers, etc) will typically interact with it.
+b. : Give any 5 strategic reasons why information systems are so important [5]
+CO-1, SO-, BL-2 for business today.
 Q4
-
-CO-02;
-SO-;
-BL-04
-
-Draw the diagram of Key Supply Chain Management Processes. {10}
-
+a. [5]
+C0-2,80-, BL-3 Define Green computing. Explain with examples how it can be achieved.
+Apple is a Transnational business with operations (plants and factories) [5]
+in many countries including the USA, China, Mexico, Germany, Italy,
+France, South Korea, Japan. It has Apple-stores, retailers/showrooms
+” and distributors in almost all countries in the world. Apple phones
+C0-3,80-, BL-4 (iPhones) provide a very high degree of privacy compared to other smart
+phones. Their products and features are routinely copied by competitors
+in spite of Apple guarding their Intellectual Property.
+What are major challenges and considerations Apple faces as a Global
+company and how it affects their operations?
 Q5
+a Discuss the notion of Delayed gratification in the context of ecormmerce. [5]
+C0-3, $0-, BL-3 Does it equally apply to both physical and digital goods? Why or why
+not?
+b. Why do companies invest huge amount in database management system [5]
+CO-2, SO-, BL-3 when they already have traditional file environment in place.
 
-Sea SO-; Explain the difference between Push Vs Pull Based Supply chain model. [10]
+Case Study: Big Basket
 
-Q6
-CO-2; SO-; What is the Role of Knowledge Management Systems in Business. [10]
+BigBasket.com's delivery systems are uniquely designed to provide you
+Q6 the abiliy to select a convenient time to receive your purchases either
 
-A
+during the day or night. You can pre-book your delivery slot during
 
-BL-2
+check-out and be assured that the goods will be delivered as per your
 
-Q7
+CO —Course Outcomes SO — Student Outcomes, BL — Bloom’s Taxonomy Level
 
-CO-3; SO-; Provide the 6 elements in Business Intelligence Environment. [10]
+5
+--- page 3 ---
+a
 
-BL- 2
+booked slot. To maintain the freshness and quality of frozen, chilled &
+fresh food we have equipped our delivery van's with multi temperature
+reefer units and cold storage devices which maintains
+frozen and chilled range temperatures.
+Delivery slot:
+BigBasket.com provides a unique service and promise of delivering the
+goods in 2-3 hour window based on the delivery slot selected by you.
+This ensures certainty and aids in planned purchase of your household
+needs and eliminates long waits staying at home without knowing the
+exact time of delivery or even missing your delivery. You can choose to
+receive your order the same day in the 4:30 pm to 7 pm or 7:30 pm to 10
+id pm slot or on any day upto 6 days from the date of placing the order.
+Currently we offer 4 delivery slots in a day; 7 am to 9:30 am, 10 am to
+12:30 am, 4:30 pm to 7 pm & 7:30 pm to 10 pm.
+You can check the availability and book your delivery slot at the time of
+checking out. For your convenience we make deliveries on all 7 days in
+a week and 365 days a year with no holidays!
+Order Cutoff time:
+In order to facilitate timely picking and delivery of all orders we follow
+a cutoff time for each delivery slot.
+To be able to pick a delivery slot the order needs to be placed before the
+cut-off time for that particular delivery slot. The cut-off times for
+delivery slots are given below:
+
+Delivery Slot Cut off time
+
+7 am - 9:30. am 1 pm the previous day
+
+10am - 12:30 pm 1 pm the previous day
+~ 4:30 pm - 7 pm 6 am the same day
+
+7:30 pm - 10 pm 6 am the same day
+
+(Source: Big Basket website)
+
+a. What are the inputs, processing, and outputs of Big Basket’s order [5]
+CO-3, SO-,BL-5 delivery system?
+
+b. What strategic business objectives do Big Basket’s information systems [5]
+CO-1, SO-, BL-5 address?
+
+CO —Course Outcomes SO — Student Outcomes, BL — Bloom’s Taxonomy Level
 ````
 
 ## 2022-23 · Final-Exam · paper 62472e637d7a
@@ -3382,263 +3641,4 @@ diagramand example.
 47   Write Short note on
 R   Digital Goods
 a Digital Market
-````
-
-## Year not stated · Exam not stated · paper 903abbcd1213
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (3 pages), mean OCR confidence 90.8
-
-````text
->STME
-BRARY
-
-a SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE a
-
-Academic Year: 2022-2023 .
-Program: MBA Tech Stream: All Streams Year: IV Semestef* VII
-
-Subject: Information System Management Time: 2 Hrs,(4400 am to d!o0 pm)
-Date:_414 / 06/2023 No. of Pages: 3
-Marks: 50
-
-Special ‘Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1. Questions 1 is compulsory.
-
-a 2. Out of remaining questions, attempt any __4 _ questions.
-3. Inall__5_ questions to be attempted.
-4. All questions carry equal marks
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume Suitable data if necessary.
-
-Section—A
-
-Ql
-
-a. Which system out of: - Enterprise Application, CRM, or SCM is designed 2]
-
-CO-1, SO-, BL-3 to support organization-wide process coordination and integration?
-Why?
-
-b. [2]
-List one advantage and one disadvantage of Cloud computing.
-
-CO2-, SO-, BL-2
-
-lan
-c. (2]
-
-7 Explain the term Bullwhip Effect?
-CO-2,3, SO-, BL-2
-
-d. [2]
-Explain what is meant by information asymmetry
-CO-1,3, SO-, BL-1
-
-e. [2]
-What are main Global strategies in the internationalization?
-
-CO-3, SO-, BL-
-Section —-B
-Q2
-a.
-Illustrate and Explain the Enterprise Applications Architecture of a firm. [5]
-
-CO-1, SO-, BL-2
-
-CO — Course Outcomes SO — Student Outcomes, BL — Bloom’s Taxonomy Level
---- page 2 ---
-b. Mention few points as to how IT infrastructure supports organization [5] |
-CO-2, SO-, BL-2 culture
-Q3 7
-What is Knowledge Work System? A Real-estate construction company” [5]
-builds luxury apartments in urban areas and wishes to implement a
-knowledge work system (K WS) for its architects, engineers, and sales
-a. and marketing executives. This K WS also will enable virtual
-CO-3, SO-, BL-5 walkthroughs of apartments without visiting the site, which was very
-much of a requirement in the Covid lockdown. Suggest key features and
-capabilities of such a KWS and explain how each stakeholder
-(architects, engineers, customers, etc) will typically interact with it.
-b. : Give any 5 strategic reasons why information systems are so important [5]
-CO-1, SO-, BL-2 for business today.
-Q4
-a. [5]
-C0-2,80-, BL-3 Define Green computing. Explain with examples how it can be achieved.
-Apple is a Transnational business with operations (plants and factories) [5]
-in many countries including the USA, China, Mexico, Germany, Italy,
-France, South Korea, Japan. It has Apple-stores, retailers/showrooms
-” and distributors in almost all countries in the world. Apple phones
-C0-3,80-, BL-4 (iPhones) provide a very high degree of privacy compared to other smart
-phones. Their products and features are routinely copied by competitors
-in spite of Apple guarding their Intellectual Property.
-What are major challenges and considerations Apple faces as a Global
-company and how it affects their operations?
-Q5
-a Discuss the notion of Delayed gratification in the context of ecormmerce. [5]
-C0-3, $0-, BL-3 Does it equally apply to both physical and digital goods? Why or why
-not?
-b. Why do companies invest huge amount in database management system [5]
-CO-2, SO-, BL-3 when they already have traditional file environment in place.
-
-Case Study: Big Basket
-
-BigBasket.com's delivery systems are uniquely designed to provide you
-Q6 the abiliy to select a convenient time to receive your purchases either
-
-during the day or night. You can pre-book your delivery slot during
-
-check-out and be assured that the goods will be delivered as per your
-
-CO —Course Outcomes SO — Student Outcomes, BL — Bloom’s Taxonomy Level
-
-5
---- page 3 ---
-a
-
-booked slot. To maintain the freshness and quality of frozen, chilled &
-fresh food we have equipped our delivery van's with multi temperature
-reefer units and cold storage devices which maintains
-frozen and chilled range temperatures.
-Delivery slot:
-BigBasket.com provides a unique service and promise of delivering the
-goods in 2-3 hour window based on the delivery slot selected by you.
-This ensures certainty and aids in planned purchase of your household
-needs and eliminates long waits staying at home without knowing the
-exact time of delivery or even missing your delivery. You can choose to
-receive your order the same day in the 4:30 pm to 7 pm or 7:30 pm to 10
-id pm slot or on any day upto 6 days from the date of placing the order.
-Currently we offer 4 delivery slots in a day; 7 am to 9:30 am, 10 am to
-12:30 am, 4:30 pm to 7 pm & 7:30 pm to 10 pm.
-You can check the availability and book your delivery slot at the time of
-checking out. For your convenience we make deliveries on all 7 days in
-a week and 365 days a year with no holidays!
-Order Cutoff time:
-In order to facilitate timely picking and delivery of all orders we follow
-a cutoff time for each delivery slot.
-To be able to pick a delivery slot the order needs to be placed before the
-cut-off time for that particular delivery slot. The cut-off times for
-delivery slots are given below:
-
-Delivery Slot Cut off time
-
-7 am - 9:30. am 1 pm the previous day
-
-10am - 12:30 pm 1 pm the previous day
-~ 4:30 pm - 7 pm 6 am the same day
-
-7:30 pm - 10 pm 6 am the same day
-
-(Source: Big Basket website)
-
-a. What are the inputs, processing, and outputs of Big Basket’s order [5]
-CO-3, SO-,BL-5 delivery system?
-
-b. What strategic business objectives do Big Basket’s information systems [5]
-CO-1, SO-, BL-5 address?
-
-CO —Course Outcomes SO — Student Outcomes, BL — Bloom’s Taxonomy Level
-````
-
-## Year not stated · Exam not stated · paper ccf31f30b0a9
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management_ccf31f30b0.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-' SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026
-Program/s: MBA TECH —_ Year: IV Semester: VII
-Stream/s :All Streams / meEc Hel viL
-
-Subject: Information System:. Management ; Time: 2 hrs ( 10.00 am to 12.00 pm)
-Date:_25 / || / 2025 No. of Pages: 2
-Marks: 50
-
-Re-Examination (2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. : :
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks:
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-’ 7) Assume Suitable data if necessary.
-
-Answer briefly: : [10]
-
-Case: Stellar Textiles is a company that supplies uniforms to educational
-institutions, hospitals, and corporate organizations across multiple cities.
-The company operates through regional offices that coordinate with
-clients, production teams, and suppliers. Orders are received through
-regional sales offices, which manually collect requirements from clients via
-Qi. email or phone and forward them to the production unit. The production
-team schedules manufacturing based on the availability of raw materials,
-often leading to delays due to inaccurate stock data.
-Invoices are generated manually after delivery, and payment tracking is
-maintained through spreadsheets by the accounts department. Customer
-
-orders are not fulfilled on time and collections are also delayed.
---- page 2 ---
-What potential 3 business problems might Stellar Textiles Pvt. Ltd. face in
-
-Qia.
-5-60. - the next few years if it continues to operate with the current manual and | [2.5]
-CO-;SO-;
-BL- unintegrated processes?
-. Suggest an information system or technology solution that could help
-CO-; SO-; ; [2.5]
-BL- Stellar Textiles improve its internal coordination and data accuracy.
-Discuss why data security and access control would be important for Stellar
-CO- ; SO- ; [2.5]
-BL- Textiles when adopting iritegratecl information systems.
-Explain six reasons why Information Management Systems are important
-CO- ; SO- ; o ; [2.5]
-BL- for businesses today.
-Q2 Discuss the current trends shaping computer hardware platforms. Explain
-CO-: SO-: any three of these trends in detail, highlighting their impact on business [10]
-BL- and information systems. :
-Q3 Explain the key capabilities of modern database systems and discuss the
-Len. importance of Relational Database Management Systems BMS) in 10
-CO-; SO-;
-BL- managing business information.
-Q4 . , F i az A
-Explain the major data security threats faced by organizations and their
-CO-; SO-; . [10]
-BL- impact on business operations.
-Q5 . . .
-Explain the concept and types of e-commerce. Discuss any three major
-CO-; SO-; . [10]
-BL- revenue models used by e-commerce businesses.
-Q6 A oe
-Explain the concept of the Knowleclge Management Value Chain. Discuss
-CO-; SO-; Boh ed 8 [10]
-BL- its main stages?
-Q7 : ssia 7
-Using Porter's Competitive Forces Model, analyze how external industry
-CO-; SO-; . 3 [10]
-BL forces influence business performance and strategy formulation.
-
-(2)
 ````

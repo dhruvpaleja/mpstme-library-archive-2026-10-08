@@ -4,6 +4,207 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Final-Exam · Sem 5 · paper 02f837aca74d
+
+- Departments: Computer Engineering, Data Science
+- Programmes: BTech Computer 7002, BTech CSE DS 7057, Integrated Computer 7032
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Operating Systems/QP_Operating Systems(702CO1C002)_2024-2025.pdf` (+3 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
+(CS)/B. TECH (CSE - DS)/B. Tech Intg. (CE)/MBA Tech (AI)/MBA Tech (Comp)
+Year: II / III / V/Semester III/Semester IX/Semester V(Exam Year: 2025-2026)
+Subject: Operating Systems
+Date: 28 Nov 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. Assume Suitable data if necessary.
+Q1   Answer briefly:
+CO-1;   a.
+What do you mean by Dual mode Operation in OS? Explain with
+SO-1;   [5]
+suitable diagram?
+BL-1;
+b. A student writes the following Producer-Consumer code:
+semaphore full = 0, empty = N, mutex = 1;
+Producer() {
+while (true) {
+produce_item(x);
+wait(full);
+wait(mutex);
+insert(x);
+signal(mutex);
+signal(empty);
+CO-2;
+}
+SO-2;   [5]
+}
+BL-4
+Consumer() {
+while (true) {
+wait(empty);
+wait(mutex);
+remove(x);
+signal(mutex);
+signal(full);
+consume_item(x);
+}
+}
+********** 1 **********
+--- page 2 ---
+Identify the mistakes in semaphore usage and correct the code.
+CO-2;   c.
+What is deadlock prevention? Discuss any two strategies used for
+SO-1;   [5]
+preventing deadlocks in an operating system.
+BL-1
+CO-3;   d.   Compare blocking, non-blocking, and asynchronous I/O operations
+SO-1;   by explaining how each works in practice, and provide examples to   [5]
+BL-3   illustrate the differences.
+Q2   a.   Explain the Dining Philosophers problem and critically analyze the
+CO-2;   reasons why semaphore-based implementations may result in
+[10]
+SO-2;   deadlock or starvation. Propose and justify a monitor-based solution
+BL-4   that addresses these issues.
+b.   Consider the following processes with their arrival times, burst
+times, and priorities.
+Process   Arrival Time   Burst Time   Priority
+P1   0   10   2
+P2   1   4   1
+P3   3   7   3
+P4   4   6   2
+CO-2;
+P5   6   5   0
+SO-6;   [10]
+BL-5
+I.   Considering pre-emptive priority scheduling algorithm
+(lower priority numbers indicate higher priority), calculate
+the average turnaround time and average waiting time for the
+given batch of processes.
+II.   Considering round-robin scheduling algorithm (with time
+quantum = 4), calculate the average turnaround time and
+average waiting time for the given batch of processes.
+a.   Consider the following snapshot of a system running 5 processes:
+Process Allocation   Max   Available
+A   B   C A   B   C A   B   C
+P1   0   1   0   7   5   3   3   3   2
+Q3   P2   2   0   0   3   2   2
+CO-2;   P3   3   0   2   9   0   2
+[10]
+SO-6;   P4   2   1   1   2   2   2
+BL-5   P5   0   0   2   4   3   3
+Answer the following:
+I. How many resources of type A, B, C are there?
+II.   Calculate the need matrix?
+III.   Determine if the system is safe or not.
+********** 2 **********
+--- page 3 ---
+IV.   What will happen if the resource request (1, 0, 0) for process
+P1 arrive, can the system accept this request immediately?
+b.   Explain the concept of paging and its purpose in memory
+CO-3;   management. With the help of a neat diagram, describe how paging
+SO-1;   hardware translates a logical address into a physical address. How [10]
+BL-2   the Translation Lookaside Buffer (TLB) can enhances the
+performance of paging.
+Q4   a.   Operating systems provide an environment for execution of
+CO-1;   programs and, offers services to programs and users. Justify the
+[10]
+SO-3;   statement by explaining the operating system services with suitable
+BL-4   diagram?
+b. A disk queue has requests on cylinders 2069, 1212, 2296, 2800, 544,
+1618, 356, 1523. The disk head is currently positioned at cylinder
+2150. The disk has cylinders numbered from 0 to 4999.
+Calculate the total head movement (in cylinders) required to service
+all requests using the following disk scheduling algorithms:
+CO-3;
+I.   FCFS (First-Come-First-Served)
+SO-6;   [10]
+II. SCAN (Elevator Algorithm), assuming the head is initially
+BL-5
+moving towards the highest cylinder (4999).
+III. C-SCAN (Circular SCAN), assuming the head is initially
+moving towards the highest cylinder (4999).
+Compare the performance of the three algorithms based on their
+total head movement and discuss one major factor of comparison.
+Q5   a.
+Describe the concept of Message Passing by explaining its
+CO-2;
+fundamental primitives and addressing methods. Support your [10]
+SO-3;
+explanation with a neat diagram of the general message format.
+BL-2
+b.   Analyze how hardware address protection mechanisms, such as base
+and limit registers, prevent illegal memory access. Illustrate your
+CO-3;   answer with an example of process isolation. Consider six memory
+SO-6;   partitions of size 350 KB, 700 KB, 580 KB, 450 KB, and 300 KB in [10]
+BL-5   the same order. Considering contiguous memory allocation, show
+how the first-fit, best-fit and worst-fit algorithms will place the
+processes of 360 KB, 600 KB, 425 KB, and 250 KB (in order).
+a.   I.   Illustrate and describe, using a suitable diagram, how a
+process transitions through various states during   its
+Q6
+execution.
+CO-2;
+II.   Identify and explain the conditions under which each state [10]
+SO-2;
+transition takes place.
+BL-3
+III.   Apply your understanding of process scheduling to explain
+two scenarios in which a process may transition from the
+********** 3 **********
+--- page 4 ---
+Running state to the Ready state before completing its CPU
+burst.
+b. A system uses 4 frames for storing process pages in main memory.
+Assume that all the page frames are initially empty. Consider the
+page reference string given below:
+2,3,4,5,3,2,6,7,3,2,3,4,8,7,4,3,2,3,4,7
+CO-3;
+I.   Simulate the page replacement using the FIFO algorithm.
+SO-6;   [10]
+II.   Simulate the page replacement using the LRU algorithm.
+BL-5
+III.   Simulate the page replacement using the Optimal algorithm.
+IV.   For each algorithm, calculate the total number of page faults.
+V.   Based on your results, which algorithm performs best and
+why?
+a.   What is resource allocation graph? Consider the following snapshot
+of a system having 2 resources (R1 having 1 instance and R2 having
+2 instances) and running 3 processes.
+Process   Allocation   Request
+R1   R2 R1   R2
+Q7   P1   1   0 0   1
+CO-2;   P2   0   1 1   0
+[10]
+SO-1;   P3   0   1 0   0
+BL-4   Draw the resource allocation graph. Find if there is a deadlock or
+not?
+If there is no deadlock then - What will be the sequence of the
+process to get executed?
+If there is deadlock then - Termination of which process can resolve
+the deadlock?
+CO-2;   b.
+SO-1;   Define a PCB. How can it help in enabling multi-tasking?   [5]
+BL-2
+CO-3;   c.
+Summarize the main file attributes managed by a file system and
+SO-1;   [5]
+explain the common operations that can be performed on a file.
+BL-2
+********** 4 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 1 · paper a9c5c1099978
 
 - Departments: Computer Applications (MCA)
@@ -1436,6 +1637,7 @@ operating system.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/OPERATING SYSTEMS/Operating Systems 2025-26 Final.pdf` (+9 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: ocr (4 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1540,7 +1742,6 @@ a. | Consider the following snapshot of a system running 5 processes:
 
 Process | Allocation Max Available
 
-A B CIA B C\A B Cc
 Pl 0 1 0 7 5 3/3 3 2
 
 Q3 P2 2 0 0 3 2 2
@@ -1812,6 +2013,7 @@ Fo Qa ar
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Operating Systems/Operating Systems 2025-26 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 87.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1933,7 +2135,6 @@ Discuss the paging model in memory management. Explain Paging
 CO-3;SO- | b. hardware with the TLB mechanism. List the merits and demerits of the 10
 1,6;BL-2 Paging model.
 
-oe RR RK RE 2 RR RR RK RR EE
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · paper e8db8cb17431
@@ -4708,6 +4909,210 @@ and BL-3 e) What is a deadlock? Explain its necessary conditions.
 FRR QE
 ````
 
+## 2024-25 · Exam not stated · Sem 3 · paper 94efbaf316ab
+
+- Departments: Artificial Intelligence, Computer Engineering, Data Science
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/OPERATING SYSTEMS/B Tech, B Tech Intg, MBA Tech (COMP, AI, AI&DS, AI&ML, CSE-DS) Operating Systems,_2df186f9.pdf` (+4 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 88.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT& ENGINEERIN G/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2024-2025
+: T/E
+
+ia ae ma foe
+
+Time: 3 _ hrs (2oopmto 5:00pm )
+No. of Pages: 4
+
+Program/s: B Tech /MRa Tech / BTL
+Stream/s ; AL/AZML/AIDS Lomp/c. S/CSEDS
+Subject: Operating Systems
+
+Date:_18 /.2 /2025-
+
+Marks: 100
+
+Re-Examination (2023-24 /24-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1__ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+= Answer briefly:
+a. Compare and contrast:
+CO-1;SO-1 a) Batch Operating Systems and Time-Sharing Operating Systems.
+plus b) Real-Time Operating System (RTOS) and a General-Purpose oI
+Operating System.
+
+b. Analyze the algorithm given for process P; and state whether it satisfies the
+three requirements for the solution to critical-section problem or not. Justify
+your answer.
+
+\\ flag = true; initialized for all
+CO-2 ; SO-2
+a int turn; o
+
+boolean flag[2];
+
+while (true) {
+flag[i] =true;
+--- page 2 ---
+turn = j;
+
+while (flag[j] && turn = = j);
+/* critical section */
+
+flag[i] = false;
+
+/* remainder section */
+
+}
+
+c. Analyse the given the resource allocation graph to find out whether the
+
+system is in deadlock or not. Justify your answer.
+
+Rl R2
+
+Sie ES
+
+CO-2 ; SO- ; assignment
+2; BL-4 [5]
+
+y a
+
+CO-3 ; SO- | d. Explain about tree-structured directories. Design a directory structure for a
+Biel Pad university department's file system. a
+Q a. Explain the key differences between user mode and kernel mode on different
+CO-1; SO- aspects. Describe with diagram how a typical system call causes a transition [10]
+1; BL-1 between user mode and kernel mode.
+b. Consider a disk with 200 tracks and the queue has random requests from [10]
+different processes in the order: 55, 58, 39, 18, 90, 160, 150, 38, 184, 190.
+CO-3; SO- Initially the head is at 50. Calculate the Total head moment using FIFO,
+6; BL-6 SSTF, SCAN (The drive is currently serving a request at cylinder 50 and the
+
+previous request was at the cylinder 60) and C-SCAN (The drive is currently
+
+serving a request at cylinder 50 and the previous request was at the cylinder
+--- page 3 ---
+40). Compare the performance is find out which algorithm performs the best
+
+in given scenario.
+
+~
+
+Q3 a.
+CO-2; SO-
+
+Compare and contrast Processes and threads in terms of their structure,
+execution, and resource management. Discuss the implications of these
+1; BL-3 ;
+
+[10]
+
+differences for multithreading in modern operating systems.
+
+CO-2; so- | b.
+2; BL-6
+
+4 : we ; : .
+Q a Draw and illustrate the Process State Transition Diagram, Incorporating the [10]
+CO-2; SO-
+
+What is Dining Philosophers Problem? Design pseudocode to provide
+
+[10]
+solution for Dining Philosophers Problem using monitors.
+
+ORD various schedulers, and explain the role of each scheduler in detail.
+
+Consider the following snapshot of a system in which four resources A, B, | [10]
+C and D area available. The system contains a total of 6 instances of A, 4 of
+
+resource B, 4 of resource C, 2 resource D.
+
+[ Process Allocation Max Total
+
+A|BIC/D/A|[B/C]DIA]BIclpI1
+PO 2/0/1/1/3]2]1]1 [6 lala lo
+
+CO-2; So- P| 1/1 }/o0jol1]2]o/l2
+2; BL-6 P2
+
+1}/0/1/0]3 /2 71 Yo
+P3 O;ls/oj1}2;1 fon
+
+aa)
+
+Using Banker’s algorithm, answer the following questions:
+i) How many resources of type A, B, C, D are available?
+
+ii) What are the contents of need matrix?
+
+iii) Find if the system is in safe state? If it is, find the safe sequence.
+
+Solve the following problem for Shortest Job First preemptive (SRTF) and /fioy |
+Priority (preemptive) scheduling algorithm by drawing the Gantt chart.
+Q5 m3 : ;
+Calculate average waiting time, average response time and average
+CO-2; so-
+anne turnaround time for both of them. Also determine which scheduling policy
+
+performs better on above mentioned criterions. Assume higher the number
+
+higher the priority.
+| ee ne ee |
+ee
+--- page 4 ---
+Process Arrival CPU Burst | Priority
+
+Time Time
+Pl 0 5 1
+P2 1 3 2
+123) 2 8 1
+P4 4 6 3
+b. Explain the concept of segmentation in operating systems with the help of a | [10]
+am diagram. How does address translation occur in segmentation? Use an
+example to demonstrate the process.
+a. What is meant by a race condition in concurrent programming and examine | [10]
+Qo. how the critical section mechanism can help in preventing race conditions.
+Cony So: What fundamental conditions must be fulfilled to ensure a solution to the
+— an critical section problem?
+b. What is Dynamic Relocation? Explain with the help of a diagram. Given | [10]
+five memory partitions of 256KB, 128KB, 512KB, 384KB (in order), how
+aes would the first-fit, best-fit, and worst-fit algorithms place processes of
+192KB, 320KB, 64KB, 256KB (in order)? Show the allocation of the
+processes using the above-mentioned memory allocation algorithms.
+Q7 a. Discuss the deadlock detection and recovery mechanism. How does a [10]
+nes ae system detect a deadlock and what are the possible ways to recover from it?
+b. Consider a system with 4 available frames and a sequence of 12-page | [10]
+requests: 3, 2, 1, 4, 3, 5, 1, 2, 6, 3, 4, 7. Using LRU (Least Recently Used),
+FIFO (First In First Out), and Optimal page replacement algorithms.
+ss Simulate the page replacement process for each algorithm. Analyze and
+
+compare the performance of the three algorithms in terms of the number of
+page faults. If the number of available frames is increased from 4 to 6, which
+
+algorithm would be benefitted the most?
+````
+
 ## 2024-25 · Final + Re-Exam · Sem 3 · paper 925c348c9750
 
 - Departments: Artificial Intelligence, Computer Engineering, Data Science
@@ -5061,6 +5466,7 @@ CO-3: SO- faults for each of the following page replacement algorithm:
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATING SYSTEMS/Operating Systems, Sem IV, Operating Systems, Final Exam 2024-25 & Re Exam 2023-24.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12-May-2025
 - Text: ocr (4 pages), mean OCR confidence 84.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 : SVKM’S NMIMS
@@ -5111,7 +5517,6 @@ Connie the set of 5 processes wea arrival time and buss time are given
 below-
 Process Arrival . | Burst
 time. . | time
-be A Pi z _ fd =
 CO-2; Py (eh 4 [10]
 SO-2; : Pz, 4. 2
 BL-4 eee mtG
@@ -5757,207 +6162,6 @@ b   Mutual Exclusion with message passing   (10)
 ********** 2 **********
 ````
 
-## 2024-25 · Final-Exam · Sem 5 · paper 02f837aca74d
-
-- Departments: Computer Engineering, Data Science
-- Programmes: BTech Computer 7002, BTech CSE DS 7057, Integrated Computer 7032
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Operating Systems/QP_Operating Systems(702CO1C002)_2024-2025.pdf` (+3 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
-- Text: text (4 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
-(CS)/B. TECH (CSE - DS)/B. Tech Intg. (CE)/MBA Tech (AI)/MBA Tech (Comp)
-Year: II / III / V/Semester III/Semester IX/Semester V(Exam Year: 2025-2026)
-Subject: Operating Systems
-Date: 28 Nov 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 4 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. Assume Suitable data if necessary.
-Q1   Answer briefly:
-CO-1;   a.
-What do you mean by Dual mode Operation in OS? Explain with
-SO-1;   [5]
-suitable diagram?
-BL-1;
-b. A student writes the following Producer-Consumer code:
-semaphore full = 0, empty = N, mutex = 1;
-Producer() {
-while (true) {
-produce_item(x);
-wait(full);
-wait(mutex);
-insert(x);
-signal(mutex);
-signal(empty);
-CO-2;
-}
-SO-2;   [5]
-}
-BL-4
-Consumer() {
-while (true) {
-wait(empty);
-wait(mutex);
-remove(x);
-signal(mutex);
-signal(full);
-consume_item(x);
-}
-}
-********** 1 **********
---- page 2 ---
-Identify the mistakes in semaphore usage and correct the code.
-CO-2;   c.
-What is deadlock prevention? Discuss any two strategies used for
-SO-1;   [5]
-preventing deadlocks in an operating system.
-BL-1
-CO-3;   d.   Compare blocking, non-blocking, and asynchronous I/O operations
-SO-1;   by explaining how each works in practice, and provide examples to   [5]
-BL-3   illustrate the differences.
-Q2   a.   Explain the Dining Philosophers problem and critically analyze the
-CO-2;   reasons why semaphore-based implementations may result in
-[10]
-SO-2;   deadlock or starvation. Propose and justify a monitor-based solution
-BL-4   that addresses these issues.
-b.   Consider the following processes with their arrival times, burst
-times, and priorities.
-Process   Arrival Time   Burst Time   Priority
-P1   0   10   2
-P2   1   4   1
-P3   3   7   3
-P4   4   6   2
-CO-2;
-P5   6   5   0
-SO-6;   [10]
-BL-5
-I.   Considering pre-emptive priority scheduling algorithm
-(lower priority numbers indicate higher priority), calculate
-the average turnaround time and average waiting time for the
-given batch of processes.
-II.   Considering round-robin scheduling algorithm (with time
-quantum = 4), calculate the average turnaround time and
-average waiting time for the given batch of processes.
-a.   Consider the following snapshot of a system running 5 processes:
-Process Allocation   Max   Available
-A   B   C A   B   C A   B   C
-P1   0   1   0   7   5   3   3   3   2
-Q3   P2   2   0   0   3   2   2
-CO-2;   P3   3   0   2   9   0   2
-[10]
-SO-6;   P4   2   1   1   2   2   2
-BL-5   P5   0   0   2   4   3   3
-Answer the following:
-I. How many resources of type A, B, C are there?
-II.   Calculate the need matrix?
-III.   Determine if the system is safe or not.
-********** 2 **********
---- page 3 ---
-IV.   What will happen if the resource request (1, 0, 0) for process
-P1 arrive, can the system accept this request immediately?
-b.   Explain the concept of paging and its purpose in memory
-CO-3;   management. With the help of a neat diagram, describe how paging
-SO-1;   hardware translates a logical address into a physical address. How [10]
-BL-2   the Translation Lookaside Buffer (TLB) can enhances the
-performance of paging.
-Q4   a.   Operating systems provide an environment for execution of
-CO-1;   programs and, offers services to programs and users. Justify the
-[10]
-SO-3;   statement by explaining the operating system services with suitable
-BL-4   diagram?
-b. A disk queue has requests on cylinders 2069, 1212, 2296, 2800, 544,
-1618, 356, 1523. The disk head is currently positioned at cylinder
-2150. The disk has cylinders numbered from 0 to 4999.
-Calculate the total head movement (in cylinders) required to service
-all requests using the following disk scheduling algorithms:
-CO-3;
-I.   FCFS (First-Come-First-Served)
-SO-6;   [10]
-II. SCAN (Elevator Algorithm), assuming the head is initially
-BL-5
-moving towards the highest cylinder (4999).
-III. C-SCAN (Circular SCAN), assuming the head is initially
-moving towards the highest cylinder (4999).
-Compare the performance of the three algorithms based on their
-total head movement and discuss one major factor of comparison.
-Q5   a.
-Describe the concept of Message Passing by explaining its
-CO-2;
-fundamental primitives and addressing methods. Support your [10]
-SO-3;
-explanation with a neat diagram of the general message format.
-BL-2
-b.   Analyze how hardware address protection mechanisms, such as base
-and limit registers, prevent illegal memory access. Illustrate your
-CO-3;   answer with an example of process isolation. Consider six memory
-SO-6;   partitions of size 350 KB, 700 KB, 580 KB, 450 KB, and 300 KB in [10]
-BL-5   the same order. Considering contiguous memory allocation, show
-how the first-fit, best-fit and worst-fit algorithms will place the
-processes of 360 KB, 600 KB, 425 KB, and 250 KB (in order).
-a.   I.   Illustrate and describe, using a suitable diagram, how a
-process transitions through various states during   its
-Q6
-execution.
-CO-2;
-II.   Identify and explain the conditions under which each state [10]
-SO-2;
-transition takes place.
-BL-3
-III.   Apply your understanding of process scheduling to explain
-two scenarios in which a process may transition from the
-********** 3 **********
---- page 4 ---
-Running state to the Ready state before completing its CPU
-burst.
-b. A system uses 4 frames for storing process pages in main memory.
-Assume that all the page frames are initially empty. Consider the
-page reference string given below:
-2,3,4,5,3,2,6,7,3,2,3,4,8,7,4,3,2,3,4,7
-CO-3;
-I.   Simulate the page replacement using the FIFO algorithm.
-SO-6;   [10]
-II.   Simulate the page replacement using the LRU algorithm.
-BL-5
-III.   Simulate the page replacement using the Optimal algorithm.
-IV.   For each algorithm, calculate the total number of page faults.
-V.   Based on your results, which algorithm performs best and
-why?
-a.   What is resource allocation graph? Consider the following snapshot
-of a system having 2 resources (R1 having 1 instance and R2 having
-2 instances) and running 3 processes.
-Process   Allocation   Request
-R1   R2 R1   R2
-Q7   P1   1   0 0   1
-CO-2;   P2   0   1 1   0
-[10]
-SO-1;   P3   0   1 0   0
-BL-4   Draw the resource allocation graph. Find if there is a deadlock or
-not?
-If there is no deadlock then - What will be the sequence of the
-process to get executed?
-If there is deadlock then - Termination of which process can resolve
-the deadlock?
-CO-2;   b.
-SO-1;   Define a PCB. How can it help in enabling multi-tasking?   [5]
-BL-2
-CO-3;   c.
-Summarize the main file attributes managed by a file system and
-SO-1;   [5]
-explain the common operations that can be performed on a file.
-BL-2
-********** 4 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 1 · paper a12b92d31eaa
 
 - Departments: Computer Applications (MCA)
@@ -6225,6 +6429,413 @@ time and avarage Turn around time. Design the Gyntt chart along with its
 ready queue.
 ````
 
+## 2024-25 · Re-Exam · Sem 4 · paper 3a13a69d95ca
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATIONS RESEARCH/Operating Systems, Sem IV, Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 82.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS .
+MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2024-2025
+Program: B. Tech CSBS Year: r| Semester:!V
+Stream: Computer Engineering ,
+Subject: Operating Systems
+Date:___12 / 05/2025
+
+Marks: 100
+
+Time: 3 hrs (10am to 4. pm )
+No. of Pages: 3
+
+_ Re-Examination (Re-exam:2022-2023)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover:
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1--_ is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+- 3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks. _ .
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi a
+. Answer briefly: : [20]
+CO-2 ; a. Write the algorithm of Test and Set hardware approach. : : |
+SO-1; ; _ 15]
+BL-4 i
+CO-2; b. . . . . :
+SO-6 ; Discuss on Race Condition in operating system. . [5]
+BL-4 a
+CO-2; C. Differentiate between the Fixed partitioning and Variable partitioning memory 15]
+Ea allocation schemes.
+C03; |d.
+SO-6; Brief on Short term scheduler, Mid term scheduler, Long term scheduler. [5]
+BL-1 ;
+Qz a. . ‘ . gen :
+Write the pseudocode for the solution to Dining Philosopher Problems. Suggest :
+nee some changes that can be made to avoid deadlock in the original solution? [10]
+BL-4
+b. Given the following track requests inthe disk queue, compute which algorithm will
+give the minimum Total Head Movement (THM) of the read/write head: ©
+CO-3; : .
+50-6: 77, 35, 12, 168, 150, 65, 182, 92, 123 [10]
+
+Consider that the read/write head is positioned at location.100, Examine the total
+head movement for a 200 track disk (0-199) for FCFS, SSTF and SCAN
+algorithms. Also given in case of SCAN that head moves towards the smaller
+--- page 2 ---
+values. Examine which anon these algorithms Wille give the least head moment?
+
+algorithms. Also given in case of C-SCAN that head moves towards the larger
+
+values. Compare which among these algorithms will give the least head moment?
+
+a. . :
+Consider the following snapshot of the system:
+Process Allocation Max Available .
+PO 1 1:2 4 3 2 ie Ome?
+- Pl 3 0 1 | 6 3 4
+Q3 P2 4.22 [5 2 4
+. P3 0 5 4 2s
+CO-2; : [10]
+SO-1: | P4 3 2200) 9 6 5
+BL-3 . , nie : ;
+. Answer the following using Banker’s Algorithm: .
+i) What will be the content of the Need matrix? [2]
+ii) Is the system in safe state? If Yes, then what is the safe
+sequence? [6]
+iii) What is the total number of each resource ene? [4]
+CO-3; b. rea
+S0-6; Discuss in detail all types of Free Space Management in operating System with [10]
+neat diagrams.
+BL-2 .
+Q4 a.
+ae Discuss'the different file allocation techniques with labelled diagrams. - [10].
+BL-1
+b. Differentiate between multiprogramming, multitasking, multithreading, and
+co-1; , multiprocessing operating system. [5] : . :
+SO-1; P J [10]
+BL-2 & Discuss on System calls in operating System [5]
+a. Define the following terms: [3]
+5
+: . 4, Critical section ‘
+CO2-; ii. Mutual exclusion [10]
+SO-1; iii. Starvation
+BL-2 ; ;
+Write the pseudo code for LOCK method and explain it. [7]
+: 1 Consider the set of 5 processes whose artival time and burst time are given below
+CO: Process Id “| Arrival time Burst time Loe | [10]
+
+6 |
+
+SO-1; A 0
+--- page 3 ---
+BL-3 BO 0 12
+
+Cc 2, 1
+D | 3
+E an 4
+
+calculate the average waiting time and average turnaround time If the CPU
+scheduling policy is
+i. .° SJF non-preemptive
+
+ii. Round Robin (Quantum — 2)
+
+a. Discuss on the need of Page of replacement in Operating Systems.
+Q6 F Solve: : ,
+. . Consider the page reference string : 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 35253
+
+es s0- - with frame size 4 by using LRU and Optimal Page teplaement: technique: [10]
+6 a) No. of ‘page faults
+BL-3 b) No. of page hit
+
+c) Page fault ratio
+
+d) Page hit ratio
+CO-1; So- | >
+De Define a Thread and with help of neat diagram explain process state transition. Jo
+Q7 a,
+CO-3: SO- List the ohieciive of /O device Management and explain DMA (Direct memory [10]
+6; access) in detail with diagram
+BL-1
+CO-3; SO- | b. : ;
+6; Discuss on Earliest Deadline First Scheduling algorithm with example in detail [10]
+
+BL-2
+--- page 4 ---
+
+````
+
+## 2024-25 · Re-Exam · Sem 4 · paper 151a3f3477d7
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OPERATING SYSTEMS/Operating Systems, Sem IV , Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 86.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program/s: B. Tech IT,MBA Tech IT__ : : Year: -II_ Semester: TV_
+Stream/s ;_ Information Technology
+. Subject: Operating Systems_. Time: __3____ hrs ({o:00awto Zt ODpre)
+Date:_I2/ 5 / 2025 No. of Pages:_ 3
+Marks: 100
+
+_ Re exam Examination (2022-2023)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book
+which is provided for their use.
+
+2
+
+1). Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+3) Inall___5__ questions to be attempted. .
+
+4) All questions carry equal marks. °
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi .
+Answer briefly: [20]
+CO-1;SO- | a. Explain how a system switches from user mode to kernel mode with real-time examples.
+2.25
+BL-1
+CO-1;SO- | b. . 7
+22; Describe the various process states with a labeled transition diagram 5
+BL-2
+CO-2; SO: |. ; 7 ;
+22; Define race condition with an example that shows its impact in process synchronization. 5
+BL-1 ‘ :
+CO-3 ;SO- | d. Explain how relocation registers help in protecting memory areas. Support your answer
+are 3 with a diagram.
+Q2 Q2.a. [10]
+CO1-; SO- Deetee apf a .
+2: Explain the structure of a computer system with its four primary components and their
+BL-1,2 __ | roles. Include a neat diagram.
+Q2.b . . . . .
+CO2-; SO- . Describe the Process Control Block (PCB) with all its fields. Also, explain the CPU" - [10]
+ane scheduling criteria in detail.
+Q3 Q3.a | Calculate the number of hits and misses using FIFO, LRU, and Optimal page [10]
+P' pag
+hy so replacement algorithms for the page reference string: 2, 1, 4; 3, 2, 1, 6, 5, 2, 3, 1,
+
+2, 4, 6, 1, 2, 3, 4,2, 1 (Assume 3-page frames). Comment on the best algorithm.
+--- page 2 ---
+Given a disk request queue: 100, 180, 40, 120, 20, 130, 75, 80 with initial head position at
+Q3.b | 60. i) Apply FCFS and SSTF disk scheduling algorithms. ii) Compute total head
+
+movements. iii) Determine which algorithm is more efficient and justify your answer. [10]
+CO-2; SO-
+2;
+BL-3
+Q4 Explain Segmentation with appropriate architecture? Describe the Segmentation
+CO-3; SO- | a. Hardware with suitable diagram? ,
+ot 5 Consider the Following table to avoid the deadlock and justify the following. 10
+aad 1.compute the need Justify the system in safe state. (10)
+2,can a request (3,3,0) by p4 be safely granted? Justify and Show the system state after
+grant of request.
+3.can a request(1,0,2) by pl be safely granted 2justify and show the system state after
+grant of request.
+0-3; SO- 4.Mention the total instances of resources of R1,R2 and R3. [10]
+2: Processes Allocated Max Available
+BL-3 b RI R2 R3 RL R2 R3 Ri R2 R3
+. Pl 0 1 0 7 5 3 3 3 3
+P2 2) 0 0 3 2 2 -
+P3 3 0 2 9 0 2
+p4 2 i 1 2 2 2
+PS 0 i} 2 4 3 Ej
+a. What is semaphore ? Explain wait() and Signal() function ? Express Semaphore with [10]
+Q5 Busy Waiting with Appropriate functions.
+CO-2; SO-2;
+BL-1,2 :
+d 6 The total number of processes are three; P1, P2 & P3 and the total number of resources
+. are two; R1 & R2.
+i. Apply and draw Resource allocation graph to find system is in deadlock state or not.
+Allocation Request
+Process Resource ~ Resource
+RI R2 Rl R2
+CO-3; SO-2; yy ! : : [10]
+BL-3 P2 0 1 1 0
+P3 0 1 0 0
+iiIf Process P3 request for R1 resource so draw and state whether system will be in
+deadlock state or not?
+Q6 “ Consider a computer system with six processes arriving at different times with the [10]
+C0-3:-S0 following burst times and arrival times: :
+2. al Assume that the system is using both the First-Come-First-Serve (FCFS) and Shortest-
+BL-3 j Job-First (SJF) scheduling algorithms.
+
+a) Using the FCFS algorithm, what is the Avg Waiting Time and Avg Turn around Time?
+b) Using the SJF algorithm, what is the Avg Waiting Time and Avg Turn around Time?
+--- page 3 ---
+c) Compare FCFS and SJF and mention which algorithm perform better and why?
+
+b Process Arrival Time | Burst Time
+: Pl 0 S
+CO-3; SO- P2 1 3
+2; P3 20 6
+BL-2 P4 3 2
+PS 4 4
+P6 5 1
+[10]
+What are the Solution to critical section Problem? Explain Consumer and Producer
+Process appropriate with Algorithm.
+a. Mention operations on directories and explain types of directory structures.
+Q7
+CO-3; SO- [10]
+2;
+BL-1,2 b. What is Real Time Operating System? Discuss types of RTOS with real life examples. [10]
+--- page 4 ---
+
+````
+
+## 2024-25 · Re-Exam · Sem 1 · paper 12dc4dd43f4f
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Operating Systems/Operating Systems Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 93.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: MCA Year: I Semester: I
+
+Subject: Operating Systems Time: 3 hrs (2% A) 5200p)
+Date:_257/ 2 / 2025 No. of Pages:3
+
+Marks: 100
+
+Re-Examination 2022 — 23,
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of the remaining questions, attempt any__4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly:
+CO-1 ; SO- | a. Differentiate between user mode vs. Kernel mode. 5
+1,6; BL-4
+b. Processes are heavyweight, and Threads are lightweight components.
+CO-2; SO- c
+1,6 ; BL-3 Justify
+CO-3; SO- | c. Demonstrate types of memory allocation in memory management.
+5
+1,6; BL-3
+CO- 3; SO- | d. Explain the structure of Chained and Indexed File allocation methods. 5
+1; BL-2
+Q2 a. Identify the problem associated with the bounded buffer. How to solve this ib
+problem using semaphore. Elaborate with an example.
+CO-2; SO-
+1,6; BL-2 Illustrate the need for Page replacement in memory management. Find the
+b miss and hit ratio in LRU, OPTIMAL & FIFO page replacement algorithm a
+CO-3; SO- .
+1.6: BL-3 for the reference string < 3,1,2,3,2,4,3,2,4,1,2> for a main memory size of
+3-page frames that are empty initially.
+93 a. Explain how “Peterson’s solution” supports ensuring the critical section. 10
+
+b. Describe variable length spanned and unspanned blocking. 5
+--- page 2 ---
+CO-3; SO- | c. Demonstrate the states followed in the process execution with a diagram | 5
+1,6;BL-2
+
+CO-3; SO-
+1,6; BL-2
+CO-2; SO-
+1,6; BL-3
+a4 Explain how “Test and Set” supports ensuring the critical section. 10
+CO-3; SO-
+1,6;BL-2
+CO-3; SO- Describe three requirements of memory management. 5
+1,6;BL-2
+CO-3 ; SO- Illustrate the various techniques of address binding with the help of a 5
+1,6 ;BL-3 diagram.
+Qs. Define thread. Enlist various multithreading models. Explain each one of
+CO-2; SO- them with its advantages and disadvantages. 10
+1,6; BL-1
+CO-3; SO-
+1,6; BL-3 Illustrate the Paging hardware with the Translational Look ahead Buffer 10
+CO-2; SO- (TLB) mechanism. Lists the pros and cons of paging.
+1,6; BL-2
+Q6 A uniprocessor system has three resource types, A, B, and C, which are
+CO-2; SO- shared by 3 processes (PO, P1, and P2), in which only 1 instances of A, 2 6
+2; BL-4
+instances of B, and 2 instances of C are available at a particular instance.
+As per the following scenario, Will the system be Safe? What is the
+Process termination sequence order?
+Allocation Max
+PO 0 0 1 8 4 3
+P1 3 2 0 6 2 0
+P2 2 1 1 3 3 3
+CO-2; SO-
+2; BL-2 Identify the conditions required for the occurrence of deadlock. =
+CO-3; SO- For a disk of 200 tracks, with an initial position at 63, pending requests
+1; BL-4 are <47,38,121,191,87,11,92,10>. Calculate head movement for SSTF, 10
+
+SCAN, and CLOOK. If one adjacent track movement takes 0.5ms, what is
+--- page 3 ---
+the total time for the requests for individual algorithms? Compare their
+efficiency. (Assume head movement for SCAN is outwards and CLOOK is
+
+inwards). The cylinders are numbered from 0 to 199.
+
+Q7
+
+CO-2,3;
+SO-1,6;
+BL-2
+
+CO-2; SO-
+1,6; BL-3
+
+Explain how the “Diner’s Philosopher problem” is solved with an array of
+semaphores considering all 3 cases.
+
+Demonstrate how the semaphore is helping to solve the Readers’ Writers
+
+Problem.
+
+10
+
+10
+--- page 4 ---
+
+````
+
 ## 2024-25 · Re-Exam · Sem 1 · paper 8290859e18fc
 
 - Departments: Computer Applications (MCA)
@@ -6232,6 +6843,7 @@ ready queue.
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Operating Systems/Operating Systems Batch 2023-24,2024-25 Re Exam0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 25 Feb 2025
 - Text: ocr (2 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -6334,11 +6946,132 @@ Process Control Block
 
 Mutual exclusion with the hardware support
 
-FoR IR 2 dk a RR Rr
 
 | (10)
 
 i
+````
+
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 197916d157e7
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATING SYSTEMS/Operating Systems, Sem-IV, Final & Re Exam Batch 2021-22, 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 86.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS SPSTME
+
+re LIBRARY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SN, . Z ANY
+SCHOOL OF TECHNOLOGY MANAGEMENT ee
+
+Academic Year: 2023-2024 mb
+Program/s: B.Tech ; Year: I] Semester: TV
+Stream/s ; Computer Science and Business Systems :
+Subject: __- Operating Systems : Time: _3 hrs (LOamto tprm_)
+Date:_18 /Aps/ 2024 No. of Pages: 3.
+Marks: 100
+
+Re-Examination (Re-exam 2021-22)/ (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all —__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [20]
+a \ > a. Discuss in brief the five-state model of a process [5]
+oe b. Explain in brief any 3 services offered by an Operating system [5]
+CO0-3 c. Give the advantages and disadvantages of hardware approaches for mutual [5]
+;BL-2 exclusion
+CO-3 ; d. Distinguish between Internal and External fragmentation [5]
+BL-4
+Q2 7 With the help of a suitable example, give the importance of multiple [10}
+oe threads over a single process. Also discuss the different types of threads
+CO-2; b Consider the set of 5 processes whose arrival time and burst time are given [10]
+BL-3 below:
+
+1
+--- page 2 ---
+Process Id. Arrival time Burst.time
+
+Pl 0 5°
+P2 1 3
+P3 2 1
+P4 : 3 2.
+PS cd 3
+
+Apply Round-Robin algorithm with time quantum=2 units, calculate the
+
+average waiting time , average turnaround time and number of context
+
+switches
+Q3 a-
+CO-2: Justify the need for a scheduler. Compare the three types of schedulers [10]
+BL-4
+CO-2; b Explain race condition and critical section with the help of a suitable [10]
+BL-2 example for each
+Q4 a Define the two operations of Semaphores. Write the solution to Reader’s [ta]
+CO-2; Writer’ bl F h
+BL2 riter’s problem using semaphores
+Piet Discuss the address translation architecture of Paging scheme [tO]
+Q5 a [10]
+CO-3; Write a note on Direct Memory Access (DMA)
+BL-2 .
+b Assume that there are four resources, A, B, C, and D. There are 5 [10]
+processes PQ to P4. At TO we have the following snapshot of the system:
+Allocation Max Available
+CO-3: Po [0 1 1 0 0 2 1 i) 1 3 1 0
+BL-4 | P, [1 [4 [4 |41 {1 {6 [5 |2~
+
+P2 1 3 6 5 2 3 6 6
+
+|| P2 0 6 3 2 0 6 5 2
+
+Ps 0 i) 4 4 0 6 5 6
+--- page 3 ---
+rN
+
+a) Find the need matrix
+
+¥
+
+b) Define safe state of a system. Apply Banker’s algorithm to
+
+determine if the system is in the safe state or not.
+
+A system uses 5 page frames for storing process pages in main memory.
+
+[10]
+06 Assume that all the page frames are initially empty. What is the total
+number of page faults that will occur while processing the page reference
+CO-3; string given below- 3, 8, 2, 3, 9, 1, 6, 3, 8, 9, 3, 6, 2, 1,3
+BL-4 a) Using First-In First-Out (FIFO) page replacement algorithm
+b) Using Least Recently Used (LRU) Page replacement algorithm
+CO-3; ; . . . ' {10}
+BL-2 What is a directory? Explain the different types of directory structures.
+Q7 ' ' : . . [10]
+Discuss any two disk scheduling algorithms with advantages and
+CO-3 ; disadvanta
+BL2 isadvantages
+we Compare Windows and Unix OS [10]
 ````
 
 ## 2023-24 · Final-Exam · Sem 3 · paper b13e329ade53
@@ -6866,6 +7599,7 @@ BL-2 3. Disc Structure
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Operating Systems/Operating Systems Batch 2023-24 Fianl0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 91.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -6954,7 +7688,6 @@ As per the following scenario, Will the system be Safe? What is the
 CO-2; SO-
 2; BL-4 Process termination sequence order?
 Allocation Max
-CO-2; SO- A B c A B c
 2; BL-2 PO 0 0 1 8 4 3
 P1 3 2 0 6 2 0
 CO-2; SO- P2 2 1 1 3 3 3
@@ -7196,6 +7929,7 @@ categorizing the different types of directories.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-III/OPERATING SYSTEM/Operating Systems, Sem-III, Year 2023-24, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS i
@@ -7320,7 +8054,6 @@ BL-4 ii. Is, the system in safe state? If Yes, give safe sequence.
 iii. If Pl request for (1,0,0) carr the request be immediately granted.
 If yes, give the safe sequence.
 Allocation Max Available
-A B C. A B C A B_ |C
 PO | 0 1 0 7 5 3 3 3 2
 Pl |2 0 0 3 2 2 ‘
 . P2 | 3 0 2 9 0 2
@@ -7342,6 +8075,7 @@ CO-3; 1. Disk structure
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Operating Systems/Operating Systems Batch 2023-24 Re Exam0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS j
@@ -7409,7 +8143,6 @@ CO-3; SO- following scenario, Will the system be Safe? What is the Process
 1,6; BL-4
 termination sequence order?
 CO-2; SO- Allocation Max
-2; BL-4 x Y z X Y Z
 PO 1 0 1 4 3 1
 CO-2; SO- P1 1 1 2 2 1 4
 2; BL-2 P2 1 0 3 1 3 3
@@ -7462,6 +8195,7 @@ CO-1; SO- 5
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE & DATA SCIENCE/OPERATING SYSTEMS/Operating System, 2nd_Year, Sem III, Year 2022-23.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 November 2022
 - Text: ocr (3 pages), mean OCR confidence 90.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 } SVKM’s NMIMS
@@ -7605,7 +8339,6 @@ SO-1,6; , .
 BL-4 i. Need Matrix
 ii. Is, the system in safe state? If Yes, give safe sequence.
 Allocation Max Available
-A {B |C |D {A |B |C |D [A [B [ec JD
 
 PO | 3 0 1 4 5 1 1 7 0 3 0 1
 
@@ -7621,129 +8354,6 @@ CO-4;
 SO-1,6;
 BL-1
 
-———— = _— x er ST sn Ss
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 197916d157e7
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATING SYSTEMS/Operating Systems, Sem-IV, Final & Re Exam Batch 2021-22, 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 86.4
-
-````text
-SVKM’S NMIMS SPSTME
-
-re LIBRARY
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SN, . Z ANY
-SCHOOL OF TECHNOLOGY MANAGEMENT ee
-
-Academic Year: 2023-2024 mb
-Program/s: B.Tech ; Year: I] Semester: TV
-Stream/s ; Computer Science and Business Systems :
-Subject: __- Operating Systems : Time: _3 hrs (LOamto tprm_)
-Date:_18 /Aps/ 2024 No. of Pages: 3.
-Marks: 100
-
-Re-Examination (Re-exam 2021-22)/ (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all —__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [20]
-a \ > a. Discuss in brief the five-state model of a process [5]
-oe b. Explain in brief any 3 services offered by an Operating system [5]
-CO0-3 c. Give the advantages and disadvantages of hardware approaches for mutual [5]
-;BL-2 exclusion
-CO-3 ; d. Distinguish between Internal and External fragmentation [5]
-BL-4
-Q2 7 With the help of a suitable example, give the importance of multiple [10}
-oe threads over a single process. Also discuss the different types of threads
-CO-2; b Consider the set of 5 processes whose arrival time and burst time are given [10]
-BL-3 below:
-
-1
---- page 2 ---
-Process Id. Arrival time Burst.time
-
-Pl 0 5°
-P2 1 3
-P3 2 1
-P4 : 3 2.
-PS cd 3
-
-Apply Round-Robin algorithm with time quantum=2 units, calculate the
-
-average waiting time , average turnaround time and number of context
-
-switches
-Q3 a-
-CO-2: Justify the need for a scheduler. Compare the three types of schedulers [10]
-BL-4
-CO-2; b Explain race condition and critical section with the help of a suitable [10]
-BL-2 example for each
-Q4 a Define the two operations of Semaphores. Write the solution to Reader’s [ta]
-CO-2; Writer’ bl F h
-BL2 riter’s problem using semaphores
-Piet Discuss the address translation architecture of Paging scheme [tO]
-Q5 a [10]
-CO-3; Write a note on Direct Memory Access (DMA)
-BL-2 .
-b Assume that there are four resources, A, B, C, and D. There are 5 [10]
-processes PQ to P4. At TO we have the following snapshot of the system:
-Allocation Max Available
-A jB |c [D [A JB Je Jo Ta Te [ce fo
-CO-3: Po [0 1 1 0 0 2 1 i) 1 3 1 0
-BL-4 | P, [1 [4 [4 |41 {1 {6 [5 |2~
-
-P2 1 3 6 5 2 3 6 6
-
-|| P2 0 6 3 2 0 6 5 2
-
-Ps 0 i) 4 4 0 6 5 6
---- page 3 ---
-rN
-
-a) Find the need matrix
-
-¥
-
-b) Define safe state of a system. Apply Banker’s algorithm to
-
-determine if the system is in the safe state or not.
-
-A system uses 5 page frames for storing process pages in main memory.
-
-[10]
-06 Assume that all the page frames are initially empty. What is the total
-number of page faults that will occur while processing the page reference
-CO-3; string given below- 3, 8, 2, 3, 9, 1, 6, 3, 8, 9, 3, 6, 2, 1,3
-BL-4 a) Using First-In First-Out (FIFO) page replacement algorithm
-b) Using Least Recently Used (LRU) Page replacement algorithm
-CO-3; ; . . . ' {10}
-BL-2 What is a directory? Explain the different types of directory structures.
-Q7 ' ' : . . [10]
-Discuss any two disk scheduling algorithms with advantages and
-CO-3 ; disadvanta
-BL2 isadvantages
-we Compare Windows and Unix OS [10]
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper 2dbc921e38a1
@@ -7891,6 +8501,7 @@ BL-1,2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/OPERATING SYSTEMS/Operating Systems, 2nd Year, Sem III, Year 2022-23, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 November 2022
 - Text: ocr (2 pages), mean OCR confidence 88.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7963,7 +8574,6 @@ t/e
 . P2). As per the following scenario, Will the system be in a Safe state. If yes,
 what is the Process termination sequence order.
 Allocation Max [06]
-A B Cc A B Cc
 PO 0 1 0 8 3 4
 Pl 3 0 2 6 1 2
 P2 1 2 2 3 3 E!
@@ -8017,6 +8627,7 @@ vs X
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/Semester 3/Operating Systems/Opearting System,Final 2022-23.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 November 2022
 - Text: ocr (2 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS =/ MPSTME
@@ -8092,7 +8703,6 @@ P2). As per the following scenario, Will the system be in a Safe state. If yes,
 what is the Process termination sequence order.
 Allocation Max [06]
 
-A B Cc A B Cc
 
 PO 0 1 0 8 3 4
 
@@ -8280,6 +8890,7 @@ afr
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/OPERATING SYSTEMS/Operating System , Re-exam 2022-23.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 February 2023
 - Text: ocr (2 pages), mean OCR confidence 87.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _ Oalor{oR = Mlemary
@@ -8375,7 +8986,6 @@ scenario, Will the system be in a Safe state? If yes, what is the Process
 termination sequence order?
 Allocation Max [06]
 
-A B Cc A B Cc
 
 PO 1 0 1 4 3 1
 
@@ -8414,152 +9024,6 @@ CO-2; SO- A :
 é wee & What is thread? what are different types of threads. [05]
 
 2/2
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper 3a13a69d95ca
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATIONS RESEARCH/Operating Systems, Sem IV, Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 82.0
-
-````text
-SVKM’S NMIMS .
-MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2024-2025
-Program: B. Tech CSBS Year: r| Semester:!V
-Stream: Computer Engineering ,
-Subject: Operating Systems
-Date:___12 / 05/2025
-
-Marks: 100
-
-Time: 3 hrs (10am to 4. pm )
-No. of Pages: 3
-
-_ Re-Examination (Re-exam:2022-2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover:
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1--_ is compulsory.
-2) Out of remaining questions, attempt any 4 _ questions.
-- 3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks. _ .
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi a
-. Answer briefly: : [20]
-CO-2 ; a. Write the algorithm of Test and Set hardware approach. : : |
-SO-1; ; _ 15]
-BL-4 i
-CO-2; b. . . . . :
-SO-6 ; Discuss on Race Condition in operating system. . [5]
-BL-4 a
-CO-2; C. Differentiate between the Fixed partitioning and Variable partitioning memory 15]
-Ea allocation schemes.
-C03; |d.
-SO-6; Brief on Short term scheduler, Mid term scheduler, Long term scheduler. [5]
-BL-1 ;
-Qz a. . ‘ . gen :
-Write the pseudocode for the solution to Dining Philosopher Problems. Suggest :
-nee some changes that can be made to avoid deadlock in the original solution? [10]
-BL-4
-b. Given the following track requests inthe disk queue, compute which algorithm will
-give the minimum Total Head Movement (THM) of the read/write head: ©
-CO-3; : .
-50-6: 77, 35, 12, 168, 150, 65, 182, 92, 123 [10]
-
-Consider that the read/write head is positioned at location.100, Examine the total
-head movement for a 200 track disk (0-199) for FCFS, SSTF and SCAN
-algorithms. Also given in case of SCAN that head moves towards the smaller
---- page 2 ---
-values. Examine which anon these algorithms Wille give the least head moment?
-
-algorithms. Also given in case of C-SCAN that head moves towards the larger
-
-values. Compare which among these algorithms will give the least head moment?
-
-a. . :
-Consider the following snapshot of the system:
-Process Allocation Max Available .
-A BC | A BC A BC
-PO 1 1:2 4 3 2 ie Ome?
-- Pl 3 0 1 | 6 3 4
-Q3 P2 4.22 [5 2 4
-. P3 0 5 4 2s
-CO-2; : [10]
-SO-1: | P4 3 2200) 9 6 5
-BL-3 . , nie : ;
-. Answer the following using Banker’s Algorithm: .
-i) What will be the content of the Need matrix? [2]
-ii) Is the system in safe state? If Yes, then what is the safe
-sequence? [6]
-iii) What is the total number of each resource ene? [4]
-CO-3; b. rea
-S0-6; Discuss in detail all types of Free Space Management in operating System with [10]
-neat diagrams.
-BL-2 .
-Q4 a.
-ae Discuss'the different file allocation techniques with labelled diagrams. - [10].
-BL-1
-b. Differentiate between multiprogramming, multitasking, multithreading, and
-co-1; , multiprocessing operating system. [5] : . :
-SO-1; P J [10]
-BL-2 & Discuss on System calls in operating System [5]
-a. Define the following terms: [3]
-5
-: . 4, Critical section ‘
-CO2-; ii. Mutual exclusion [10]
-SO-1; iii. Starvation
-BL-2 ; ;
-Write the pseudo code for LOCK method and explain it. [7]
-: 1 Consider the set of 5 processes whose artival time and burst time are given below
-CO: Process Id “| Arrival time Burst time Loe | [10]
-
-6 |
-
-SO-1; A 0
---- page 3 ---
-BL-3 BO 0 12
-
-Cc 2, 1
-D | 3
-E an 4
-
-calculate the average waiting time and average turnaround time If the CPU
-scheduling policy is
-i. .° SJF non-preemptive
-
-ii. Round Robin (Quantum — 2)
-
-a. Discuss on the need of Page of replacement in Operating Systems.
-Q6 F Solve: : ,
-. . Consider the page reference string : 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 35253
-
-es s0- - with frame size 4 by using LRU and Optimal Page teplaement: technique: [10]
-6 a) No. of ‘page faults
-BL-3 b) No. of page hit
-
-c) Page fault ratio
-
-d) Page hit ratio
-CO-1; So- | >
-De Define a Thread and with help of neat diagram explain process state transition. Jo
-Q7 a,
-CO-3: SO- List the ohieciive of /O device Management and explain DMA (Direct memory [10]
-6; access) in detail with diagram
-BL-1
-CO-3; SO- | b. : ;
-6; Discuss on Earliest Deadline First Scheduling algorithm with example in detail [10]
-
-BL-2
---- page 4 ---
-
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper a925a48e8351
@@ -8703,136 +9167,6 @@ SO-1,6;
 BL-2
 
 3/3
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper 151a3f3477d7
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OPERATING SYSTEMS/Operating Systems, Sem IV , Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 86.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program/s: B. Tech IT,MBA Tech IT__ : : Year: -II_ Semester: TV_
-Stream/s ;_ Information Technology
-. Subject: Operating Systems_. Time: __3____ hrs ({o:00awto Zt ODpre)
-Date:_I2/ 5 / 2025 No. of Pages:_ 3
-Marks: 100
-
-_ Re exam Examination (2022-2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book
-which is provided for their use.
-
-2
-
-1). Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-3) Inall___5__ questions to be attempted. .
-
-4) All questions carry equal marks. °
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi .
-Answer briefly: [20]
-CO-1;SO- | a. Explain how a system switches from user mode to kernel mode with real-time examples.
-2.25
-BL-1
-CO-1;SO- | b. . 7
-22; Describe the various process states with a labeled transition diagram 5
-BL-2
-CO-2; SO: |. ; 7 ;
-22; Define race condition with an example that shows its impact in process synchronization. 5
-BL-1 ‘ :
-CO-3 ;SO- | d. Explain how relocation registers help in protecting memory areas. Support your answer
-are 3 with a diagram.
-Q2 Q2.a. [10]
-CO1-; SO- Deetee apf a .
-2: Explain the structure of a computer system with its four primary components and their
-BL-1,2 __ | roles. Include a neat diagram.
-Q2.b . . . . .
-CO2-; SO- . Describe the Process Control Block (PCB) with all its fields. Also, explain the CPU" - [10]
-ane scheduling criteria in detail.
-Q3 Q3.a | Calculate the number of hits and misses using FIFO, LRU, and Optimal page [10]
-P' pag
-hy so replacement algorithms for the page reference string: 2, 1, 4; 3, 2, 1, 6, 5, 2, 3, 1,
-
-2, 4, 6, 1, 2, 3, 4,2, 1 (Assume 3-page frames). Comment on the best algorithm.
---- page 2 ---
-Given a disk request queue: 100, 180, 40, 120, 20, 130, 75, 80 with initial head position at
-Q3.b | 60. i) Apply FCFS and SSTF disk scheduling algorithms. ii) Compute total head
-
-movements. iii) Determine which algorithm is more efficient and justify your answer. [10]
-CO-2; SO-
-2;
-BL-3
-Q4 Explain Segmentation with appropriate architecture? Describe the Segmentation
-CO-3; SO- | a. Hardware with suitable diagram? ,
-ot 5 Consider the Following table to avoid the deadlock and justify the following. 10
-aad 1.compute the need Justify the system in safe state. (10)
-2,can a request (3,3,0) by p4 be safely granted? Justify and Show the system state after
-grant of request.
-3.can a request(1,0,2) by pl be safely granted 2justify and show the system state after
-grant of request.
-0-3; SO- 4.Mention the total instances of resources of R1,R2 and R3. [10]
-2: Processes Allocated Max Available
-BL-3 b RI R2 R3 RL R2 R3 Ri R2 R3
-. Pl 0 1 0 7 5 3 3 3 3
-P2 2) 0 0 3 2 2 -
-P3 3 0 2 9 0 2
-p4 2 i 1 2 2 2
-PS 0 i} 2 4 3 Ej
-a. What is semaphore ? Explain wait() and Signal() function ? Express Semaphore with [10]
-Q5 Busy Waiting with Appropriate functions.
-CO-2; SO-2;
-BL-1,2 :
-d 6 The total number of processes are three; P1, P2 & P3 and the total number of resources
-. are two; R1 & R2.
-i. Apply and draw Resource allocation graph to find system is in deadlock state or not.
-Allocation Request
-Process Resource ~ Resource
-RI R2 Rl R2
-CO-3; SO-2; yy ! : : [10]
-BL-3 P2 0 1 1 0
-P3 0 1 0 0
-iiIf Process P3 request for R1 resource so draw and state whether system will be in
-deadlock state or not?
-Q6 “ Consider a computer system with six processes arriving at different times with the [10]
-C0-3:-S0 following burst times and arrival times: :
-2. al Assume that the system is using both the First-Come-First-Serve (FCFS) and Shortest-
-BL-3 j Job-First (SJF) scheduling algorithms.
-
-a) Using the FCFS algorithm, what is the Avg Waiting Time and Avg Turn around Time?
-b) Using the SJF algorithm, what is the Avg Waiting Time and Avg Turn around Time?
---- page 3 ---
-c) Compare FCFS and SJF and mention which algorithm perform better and why?
-
-b Process Arrival Time | Burst Time
-: Pl 0 S
-CO-3; SO- P2 1 3
-2; P3 20 6
-BL-2 P4 3 2
-PS 4 4
-P6 5 1
-[10]
-What are the Solution to critical section Problem? Explain Consumer and Producer
-Process appropriate with Algorithm.
-a. Mention operations on directories and explain types of directory structures.
-Q7
-CO-3; SO- [10]
-2;
-BL-1,2 b. What is Real Time Operating System? Discuss types of RTOS with real life examples. [10]
---- page 4 ---
-
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper 35c4fe58c920
@@ -9058,137 +9392,6 @@ CO-2; SO-
 1,6: BL-1 °- | What is difference between preemptive and non-preemptive CPU scheduling? (05]
 ````
 
-## 2022-23 · Re-Exam · Sem 1 · paper 12dc4dd43f4f
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Operating Systems/Operating Systems Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 93.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-
-Program/s: MCA Year: I Semester: I
-
-Subject: Operating Systems Time: 3 hrs (2% A) 5200p)
-Date:_257/ 2 / 2025 No. of Pages:3
-
-Marks: 100
-
-Re-Examination 2022 — 23,
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of the remaining questions, attempt any__4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly:
-CO-1 ; SO- | a. Differentiate between user mode vs. Kernel mode. 5
-1,6; BL-4
-b. Processes are heavyweight, and Threads are lightweight components.
-CO-2; SO- c
-1,6 ; BL-3 Justify
-CO-3; SO- | c. Demonstrate types of memory allocation in memory management.
-5
-1,6; BL-3
-CO- 3; SO- | d. Explain the structure of Chained and Indexed File allocation methods. 5
-1; BL-2
-Q2 a. Identify the problem associated with the bounded buffer. How to solve this ib
-problem using semaphore. Elaborate with an example.
-CO-2; SO-
-1,6; BL-2 Illustrate the need for Page replacement in memory management. Find the
-b miss and hit ratio in LRU, OPTIMAL & FIFO page replacement algorithm a
-CO-3; SO- .
-1.6: BL-3 for the reference string < 3,1,2,3,2,4,3,2,4,1,2> for a main memory size of
-3-page frames that are empty initially.
-93 a. Explain how “Peterson’s solution” supports ensuring the critical section. 10
-
-b. Describe variable length spanned and unspanned blocking. 5
---- page 2 ---
-CO-3; SO- | c. Demonstrate the states followed in the process execution with a diagram | 5
-1,6;BL-2
-
-CO-3; SO-
-1,6; BL-2
-CO-2; SO-
-1,6; BL-3
-a4 Explain how “Test and Set” supports ensuring the critical section. 10
-CO-3; SO-
-1,6;BL-2
-CO-3; SO- Describe three requirements of memory management. 5
-1,6;BL-2
-CO-3 ; SO- Illustrate the various techniques of address binding with the help of a 5
-1,6 ;BL-3 diagram.
-Qs. Define thread. Enlist various multithreading models. Explain each one of
-CO-2; SO- them with its advantages and disadvantages. 10
-1,6; BL-1
-CO-3; SO-
-1,6; BL-3 Illustrate the Paging hardware with the Translational Look ahead Buffer 10
-CO-2; SO- (TLB) mechanism. Lists the pros and cons of paging.
-1,6; BL-2
-Q6 A uniprocessor system has three resource types, A, B, and C, which are
-CO-2; SO- shared by 3 processes (PO, P1, and P2), in which only 1 instances of A, 2 6
-2; BL-4
-instances of B, and 2 instances of C are available at a particular instance.
-As per the following scenario, Will the system be Safe? What is the
-Process termination sequence order?
-Allocation Max
-A B Cc A B Cc
-PO 0 0 1 8 4 3
-P1 3 2 0 6 2 0
-P2 2 1 1 3 3 3
-CO-2; SO-
-2; BL-2 Identify the conditions required for the occurrence of deadlock. =
-CO-3; SO- For a disk of 200 tracks, with an initial position at 63, pending requests
-1; BL-4 are <47,38,121,191,87,11,92,10>. Calculate head movement for SSTF, 10
-
-SCAN, and CLOOK. If one adjacent track movement takes 0.5ms, what is
---- page 3 ---
-the total time for the requests for individual algorithms? Compare their
-efficiency. (Assume head movement for SCAN is outwards and CLOOK is
-
-inwards). The cylinders are numbered from 0 to 199.
-
-Q7
-
-CO-2,3;
-SO-1,6;
-BL-2
-
-CO-2; SO-
-1,6; BL-3
-
-Explain how the “Diner’s Philosopher problem” is solved with an array of
-semaphores considering all 3 cases.
-
-Demonstrate how the semaphore is helping to solve the Readers’ Writers
-
-Problem.
-
-10
-
-10
---- page 4 ---
-
-````
-
 ## 2022-23 · Re-Exam · Sem 1 · paper 2f176c84e9e8
 
 - Departments: Computer Applications (MCA)
@@ -9196,6 +9399,7 @@ Problem.
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/Operating Systems/Operating Systems Batch 2022-23 Re Exam0001.pdf`
 - Printed on paper: exam date: 23 February 2023
 - Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 23/0rf22 = gee
@@ -9271,7 +9475,6 @@ per the following scenario, Will the system be in a Safe state? What is the
 3
 Q Process termination sequence order?
 CO-2, SO- Allocation Max
-1,6, BL- A B Cc A B Cc
 2,3 po | o | 1 {0 {| 8 | 3 | 4
 Pl 3 0 2 6 1 2
 P2 1 2 2 a a a
@@ -9557,6 +9760,7 @@ P5S 12 3 2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATING SYSTEMS/Operating Systems, Sem-IV, Re-Exam, 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2022
 - Text: ocr (2 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS if cuore \
@@ -9620,7 +9824,6 @@ A Consider the following snapshot of the system:
 
 Process Allocation Max Available
 
-A BC A BC A BC
 
 ; PO 0 01 0 oO 1 1 5 2
 ‘ Pl 1 0 0 1 7 5
@@ -9673,6 +9876,7 @@ zi B Write a note on UNIX file system [10]
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/OPERATING SYSTEMS/Operating Systems , Re-exam 2021-2022.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 June 2022
 - Text: ocr (2 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ¢
@@ -9762,7 +9966,6 @@ Po o10 753 33 2
 Pi 200 32 2 ‘
 0s epee pont
 . . 3
-CO 3-; SO 2; BL- 5 Pa ne 735
 Justify the following questions using the banker's algorithm:
 a. What is the content of the matrix Need?
 b. Is the system in a safe state?
@@ -10279,6 +10482,109 @@ Segmentation
 2/2
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper ab14aaee5da9
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM B TECH (COMPUTER), BATCH__2017-18-19_RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 13 June 2019
+- Text: ocr (2 pages), mean OCR confidence 89.6
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program MBA.Tech (COMPUTER) “ Year: Il“ Semester:IV ’
+. Academic Year: 2018-2019 a ~
+
+| Subject: Operating System - Marks: 70 ~
+Date: 13 June 2019~ Time:2.00 pm to 5.00 pm —
+Duration: 3 (hrs).
+No. of Pages:
+
+Re-Examination (2017-18 / 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is providéd for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any _4 _ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 All sub questions are compulsory.
+a | Draw and name the five different states of the process. 3
+b | What are static and dynamic binding? : 3
+c | What is deadlock? 2
+d | Explain the need of paging. 3
+e | What is an Input /Output buffering? 3
+Q.2 | a | Differentiate between layered architecture and monolithic architecture with diagram in detail. 7
+b | Explain what is the translators and explain any three types. 7
+Q.3 | a | What is process control block with diagram and explain its working. 7
+b | a. Draw Gantt chart for 7
+Non Preemptive SJF, {]
+FCES, [1]
+Round Robin ; {l]
+Calculate
+Average waiting time (2]
+Average Turn Around Time for above algorithms [2]
+
+1
+--- page 2 ---
+Process | Arrival time | Burst Time
+Pl 0 5
+
+F2 1 3
+P3. 2 8
+P4 3 7
+PS = 9
+
+Q4
+
+Explain the working of RAID Level 2 and RAID LEVEL 10 with neat diagram.
+
+Describe files system software architecture with diagram.
+
+Q.5
+
+Explain the process with its thread management with suitable example.
+
+Explain the logical address to physical address conversion using paging.
+
+Q6
+
+Give any suitable example to explain an Optimal and FIFO page replacement algorithm with
+suitable diagram .
+
+Explain the secondary storage management in detail.
+
+Q.7
+
+Explain the deadlock detection and prevention techniques in detail.
+
+Consider the following table for Bankers algorithm and find the following
+
+a) Need of each process (4)
+b) Safe Sequence 7 -+ (4)
+Process | Allocation Max Available
+ABC ABC ABC
+Po 010 753 33 2
+Pi 200 3.2 2:
+P2 3.0 2 902
+Ps 211 222
+Pa 002 433
+
+2)
+````
+
 ## 2018-19 · Re-Exam · Sem 4 · paper 11135a764327
 
 - Departments: Computer Engineering, Information Technology
@@ -10365,6 +10671,7 @@ C Process Control Block : 7
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM BATCH 17-18 18-19 RE EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 17 June 2019
 - Text: ocr (3 pages), mean OCR confidence 89.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4 SVKM’S NMIMS
@@ -10473,7 +10780,6 @@ Consider the following snapshot of a system
 
 Allocation Max Available
 
-A B Cc D jA {|B {Cc |D {A [B C|D
 
 Po |0 0 1 2 0 0 1 2 1 P) 2 0
 Pl 1 0 0 0 1 7 P) 0
@@ -10508,7 +10814,6 @@ a) Types of FATs and its implementation w.r.t file allocation mechanisms [07]
 b) “Operating system keeps files secured” Justify this statement based on the various techniques [07]
 used,
 
-Oo 2 oR oo oo a ae a * +
 
 3/3
 ````
@@ -10825,6 +11130,7 @@ Hardware approaches to Mutual Exclusion
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/IV SEMESTER/Operating System/operating system 2017-18.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 04 May 2018
 - Text: ocr (2 pages), mean OCR confidence 90.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -10924,7 +11230,6 @@ Explain the characteristics of modern operating system.
 Consider the following snapshot of a system
 
 Allocation Max . Available
-A B [s A B Cc A B C
 PO 0) 1 0 7 5 3 3 3 2
 Pl a: 0” 0 3 2 2
 Pz 3 0 2 9 0 2
@@ -11393,109 +11698,6 @@ RAID organization
 
 [4]
 [4]
-````
-
-## 2017-18 · Re-Exam · Sem 4 · paper ab14aaee5da9
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM B TECH (COMPUTER), BATCH__2017-18-19_RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 13 June 2019
-- Text: ocr (2 pages), mean OCR confidence 89.6
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program MBA.Tech (COMPUTER) “ Year: Il“ Semester:IV ’
-. Academic Year: 2018-2019 a ~
-
-| Subject: Operating System - Marks: 70 ~
-Date: 13 June 2019~ Time:2.00 pm to 5.00 pm —
-Duration: 3 (hrs).
-No. of Pages:
-
-Re-Examination (2017-18 / 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is providéd for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any _4 _ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 All sub questions are compulsory.
-a | Draw and name the five different states of the process. 3
-b | What are static and dynamic binding? : 3
-c | What is deadlock? 2
-d | Explain the need of paging. 3
-e | What is an Input /Output buffering? 3
-Q.2 | a | Differentiate between layered architecture and monolithic architecture with diagram in detail. 7
-b | Explain what is the translators and explain any three types. 7
-Q.3 | a | What is process control block with diagram and explain its working. 7
-b | a. Draw Gantt chart for 7
-Non Preemptive SJF, {]
-FCES, [1]
-Round Robin ; {l]
-Calculate
-Average waiting time (2]
-Average Turn Around Time for above algorithms [2]
-
-1
---- page 2 ---
-Process | Arrival time | Burst Time
-Pl 0 5
-
-F2 1 3
-P3. 2 8
-P4 3 7
-PS = 9
-
-Q4
-
-Explain the working of RAID Level 2 and RAID LEVEL 10 with neat diagram.
-
-Describe files system software architecture with diagram.
-
-Q.5
-
-Explain the process with its thread management with suitable example.
-
-Explain the logical address to physical address conversion using paging.
-
-Q6
-
-Give any suitable example to explain an Optimal and FIFO page replacement algorithm with
-suitable diagram .
-
-Explain the secondary storage management in detail.
-
-Q.7
-
-Explain the deadlock detection and prevention techniques in detail.
-
-Consider the following table for Bankers algorithm and find the following
-
-a) Need of each process (4)
-b) Safe Sequence 7 -+ (4)
-Process | Allocation Max Available
-ABC ABC ABC
-Po 010 753 33 2
-Pi 200 3.2 2:
-P2 3.0 2 902
-Ps 211 222
-Pa 002 433
-
-2)
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper 077e6ec3d2e3
@@ -12405,6 +12607,7 @@ he
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/OPERATING SYSTEMS/OPERATING SYSTEMS 2016-2017 FINAL.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 12 May 2017
 - Text: ocr (4 pages), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 got.
@@ -12533,7 +12736,6 @@ iti) Is the system is in safe state? if yes then state the sequence.
 Allocation Matrix Claim Matrix Currently Available
 
 Process . .
-B C A B Gc A B Cc
 PO 1 0 0 3 2 2 0 1
 Pl 6 1 2 6 1 a
 P2 2 1 1 3 l 4
@@ -12620,6 +12822,7 @@ Structure of directory
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/OPERATING SYSTEM/Operating System 2016-17 Final.pdf`
 - Printed on paper: exam date: 13 May 2017
 - Text: ocr (2 pages), mean OCR confidence 90.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —_
@@ -12720,7 +12923,6 @@ communication.
 Consider the following snapshot of a system
 
 Allocation Max Available
-A B C A B a A B Cc
 PO 1 3 5 0 6 5 6 5 6
 Pl 1 0 0 2 1 3
 P2 2 0 1 3 4 6
@@ -12756,6 +12958,146 @@ Sleeping Barber Problem
 14]
 
 [14]
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper e6f7774d0745
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 06 May 2017
+- Text: ocr (2 pages), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS
+
+Ss MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (COMPUTER) , Year: I Semester: IV ~— —
+Batch: 2015-2016 - g ——
+i Cw a PSTMe
+
+Academic Year: 2016-2017
+
+Subject: Operating System
+Marks: 60
+
+ub IBRAR "i
+P) i
+ey Ora
+Date: 06 May 2017 Time: 10.00 am to 1.00 pm
+‘ Durations: 3 (hrs)
+
+No. of Pages: _2—
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Ql. (a) What is Operating System? Explain the goals & objectives of O.S. ‘ [04]
+
+(b) Differentiate between process & thread. [04]
+
+(c) Explain Interleaving and Overlapping Processes with suitable example. _ [04]
+
+Q.2 (a) Explain 7 state process model with significance of suspend state and suitable [06]
+diagram.
+
+(b) Explain reader/writer problem with Semaphores as a software solution implementing [06]
+mutual exclusion.
+
+Q.3 (a) Apply FCFS and preemptive priority scheduling on the following processes and [06]
+calculate average waiting time and average turnaround time. CONSIDER LOWER
+
+VALUE AS HIGEST PRIORITY.
+
+Processes | Arrival time | Burst time | Priority
+
+Pl 0 15 1
+P2 4 9 0
+P3 5 8 2
+(b) State the significance of monitor with its structure for mutual exclusion. [06]
+
+ee
+--- page 2 ---
+Q4
+
+Q5
+
+Q.6
+
+Q.7
+
+(a)
+
+(b)
+
+(a)
+(b)
+(a)
+(b)
+
+(a)
+(b)
+(c)
+(d)
+
+Explain Banker’s Algorithm. Apply same on following problem to find the safe state.
+
+Ri R2 R3 Ri R? R3
+
+PL 3 2 2 Pl 1 0 G
+
+Pz 6 1 3 P2 6 1 2
+
+P3 3 1 4 P3 2 1 1
+
+Pd 4 2 2 Pd 0 0 3
+Claim manix € Allocation matrix A Resource vector R
+
+Draw and explain address translation mechanism of paging.
+
+State the significance of translation look aside buffer. Explain the flow TLB hit or
+
+TLB miss for paging.
+Explain any three Disk Scheduling Policies with suitable example.
+
+Describe Blocks and records in File management System.
+Explain Process and Thread Management in mobile operating system.
+
+Write short note on any three
+
+Batch Multiprogramming versus Time Sharing .
+Necessary condition to occur deadlock.
+
+Explain the concept of memory relocation with example.
+Disc Cache.
+
+2
+
+[06]
+
+[06]
+[06]
+[06]
+
+[06]
+[06]
+
+[12]
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper 26f2fff9f009
@@ -12841,6 +13183,139 @@ b. Reader / writer problem [05]
 c. Process control block [04]
 2/.
 2
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 9ff9a9c02729
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OPERATING SYSTEMS/OPERATING SYSTEMS BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
+- Text: ocr (2 pages), mean OCR confidence 89.7
+
+````text
+~~ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+_ Programme: B. Tech (I.T.) Year: II + Semester: IV
+
+Batch: 2014-2015/2015 - 2016 ~
+
+(fO S
+
+Academic Year: 2016-2017 bi
+Bt LIBRARY é
+
+: &
+/ Subject: Operating Systems ~ a a
+Marks: 60 “ X * ana ego ;
+- kL
+Date: 11 May 2017 _- Time: 10.00 am to 1.00 pm —
+
+Durations: 3 (hrs)
+No. of Pages: _2—
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB: _ 1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary,
+
+la. Suppose that the following processes arrive for execution at the time indicated
+
+Process | Arrival Burst Priority
+
+time time ‘
+Pl 0 15 gre
+P2 3 2 1
+P3 5 4 3a
+P4 5 3 4h
+P5 9 4 1
+What is the average waiting time and turnaround time with Preemptive and non-
+preemptive priority scheduling? (6 marks)
+
+1b. Explain Symmetric multiprocessing and Asymmetric multiprocessing. (6 marks)
+
+2a. Explain Mutual Exclusion Using Semaphores. Describe Producer/Consumer problem using
+
+Semaphores. (6 marks)
+
+2b. Explain Criteria for File Organization. Briefly discuss the implementation of tree structured
+
+directory (6 marks)
+
+3a. Compare and contrast the page replacement algorithms: FIFO & LRU (6 marks)
+
+—— 3b. Briefly explain the Requirements of Memory Management. (6 marks)
+4a. Describe Fixed partitioning methods for Memory Assignment. (6 marks)
+
+Ab. Explain Disk Scheduling Policies: First-in, first-out, SCAN and Shortest Service Time First.
+
+(6 marks)
+5a. Explain different methods for file allocation in operating system. (6 marks)
+
+Yae
+--- page 2 ---
+5b. Suppose that the following processes arrive for execution at the time indicated
+Process | Arrival | Burst
+time time
+Pl 0 15
+P2 ~ 1 12
+P3 2 9
+P4 4 3
+PS 4 5
+What is the average waiting time and turnaround time with Preemptive and non-
+
+preemptive SJF scheduling. (6 marks)
+
+6. Consider the following system snapshot using data structures in the Banker’s algorithm,
+
+with resources A, B, and C, and process PO to P3
+
+Max | Allocation | Available
+ABC| ABC ABC
+Po 001 001
+Py 175 100 .
+
+2
+
+P, 235 135
+
+Pe 065 063
+Total 299 15 2
+
+f type (A,B,C)? What is the contents of the Need matrix? Is
+If a request from process P1 arrives for additional resources
+
+of (0,5,2), can the Banker's algorithm grant the request immediately? What would be the new
+
+system state after the allocation? What is a sequence of process execution that satisfies the
+(12 marks)
+
+safety constraint?
+
+How many resources are‘there 0
+the system in a safe state? Why?
+
+(3x4 marks)
+
+Ts Write a short note on: (Any three)
+a) RAID
+b) Race condition
+c) Thrashing ~
+d) RTOS
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper 6b90840b5983
@@ -13092,6 +13567,7 @@ Attempt any two from part A and any one from partB:
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/OPERATING SYSTEMS/OPERATING SYSTEMS BATCH 2016-2017 RE EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 11 July 2017
 - Text: ocr (4 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \ i
@@ -13207,7 +13683,6 @@ ii) Which resource initially available.
 iii) Is the system is in safe state? if yes then state the sequence.
 Allocation Matrix Claim Matrix Currently Available
 Process
-B Cc A B ie A B Cc
 PO 1 0 0 3 2 2 0 i
 Pl 6 I 2 6 1 3
 P2 2 l 1 3 1 4
@@ -13382,6 +13857,7 @@ Q.7 Write short note on any three [12]
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/IV SEMESTER/Operating System/Operating System Batch 2015-16 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 05/05/2016
 - Text: ocr (2 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 GUG«
@@ -13457,7 +13933,6 @@ Yo.
 --- page 2 ---
 Allocation Max Available |
 
-A B C D A BC D A BC D
 PO 00 1 2 0 0 1 2 1 5 2 0
 Pl 100 0 17 5 0
 P2 13 5 4 23 5 6
@@ -13764,6 +14239,101 @@ eo +
 5/2
 ````
 
+## 2015-16 · Re-Exam · Sem 4 · paper ce1ac7851f5f
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: exam date: 07/05/2016
+- Text: ocr (2 pages), mean OCR confidence 90.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: II Semester: IV
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Operating System
+
+Date: 07/05/2016
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the Answer Book, Which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory
+2. Out of remaining question, attempt any four questions
+3. In all five questions to be attempted
+4. All question carry equal marks.
+5. Answer to each question to be started on fresh page
+6. Figure in bracket indicate full marks.
+
+Q.1.
+
+a) Expiain Evolution of Operating Systems. 03
+b) What are the reasons-for Process Termination? 03
+c) What is buddy system used for memory partitioning? Explain with example. 63
+d) Explain disk scheduling policies for Shortest Service Time First and N-step-SCAN.. 03
+Q.2.
+
+a) Discuss various key elements of the Operating System required to achieve
+multiprogramming. 06
+
+b) Explain multilevel feedback queue scheduling algorithm. Find out average waiting 06
+time and turnaround time for the following example with three levels given below.
+
+1. RR at 8 units quantum
+
+2. RR at 16 units quantum
+
+3. FCFS
+Proe Arrival Burst
+Py 0 32
+P, 10 12
+Ps; 30 10
+Q3.
+a) Explain process control block with all necessary attributes. 06
+
+b) Describe hardware solutions to achieve mutual exclusion using machine instructions 06
+with suitable example.
+
+Vg
+--- page 2 ---
+QA. :
+’ a) What is Semaphore? Describe difficulties with binary semaphore. 06
+
+Give solution with suitable example.
+
++ .b) Explain achievement of mutual exclusion using message passing with one example. 06
+
+Q.5.
+
+a) What is the need for page replacement? Explain with block Diagram. Find out the 06
+number of page fault occurs for the following string with LRU and optimal page
+replacement policies. Given string : 23.2 152453252, Number of frames =3
+
+b) Explain Operating System Design Issues for V/O device management. 06
+0.6.
+a) Explain architecture of windows 2000 operating system with block diagram. 06
+
+b) What are the typical operations performed on File? Explain the Objectives fora File 03 >
+Management System.
+
+c) What is symmetric Multiprocessing? Explain the advantages of it over Uniprocessing. 03
+
+Q7.
+a) Explain Tree-Structured Directory for file system. 06
+b) Explain address translation mechanism in Two-Level Hierarchical Page Table with 06
+block diagram.
+€ ince
+
+o2/o.
+````
+
 ## 2015-16 · Re-Exam · Sem 4 · paper a20e43e824bf
 
 - Departments: Computer Engineering
@@ -13921,34 +14491,27 @@ Deadlock avoidance, detection, and prevention
 [04]
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper e6f7774d0745
+## 2015-16 · Re-Exam · Sem 4 · paper d583f92c4eb6
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 06 May 2017
-- Text: ocr (2 pages), mean OCR confidence 88.8
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM B TECH COMPUTER BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 01 July 2016
+- Text: ocr (2 pages), mean OCR confidence 94.5
 
 ````text
-SVKM’s NMIMS
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAS&# ya NEERING
 
-Ss MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (COMPUTER) , Year: I Semester: IV ~— —
-Batch: 2015-2016 - g ——
-i Cw a PSTMe
+Programme: B.Tech (Computer) . Year:
+Academic Year: 2015-16
 
-Academic Year: 2016-2017
+Batch: 2014-15
 
-Subject: Operating System
-Marks: 60
+Subject: Operating System, Marks: 60 ‘
+Time: 10.00 am - 1.00 pm
+Date: 01 July 2016° Durations: 3 (hrs)
 
-ub IBRAR "i
-P) i
-ey Ora
-Date: 06 May 2017 Time: 10.00 am to 1.00 pm
-‘ Durations: 3 (hrs)
-
-No. of Pages: _2—
 Re-Examination
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
@@ -13956,242 +14519,152 @@ cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No. 1 is compulsory.
+1) Question No. 01 is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+. 2) Out of remaining questions, attempt any 04 questions.
 
-3) In all 5 questions to be attempted.
+3) In all 05 questions to be attempted.
 
-4) All questions carry equal marks.
-
+4) All questions carry equal marks. =
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
 
-Ql. (a) What is Operating System? Explain the goals & objectives of O.S. ‘ [04]
+7) Assume Suitable data if necessary
 
-(b) Differentiate between process & thread. [04]
+Ql.a_ What is operating system? Explain multiprogramming and time sharing 06
+operating system.
+b. State the purpose of short-term, medium-term and long term schedulers. 06
+Also discuss the differences among them.
 
-(c) Explain Interleaving and Overlapping Processes with suitable example. _ [04]
+Q2.a What is process management? Explain various states of process with neat 06
+diagram also explain all process state transitions.
+b. Explain various page replacement policies. Implement LRU, OPT forthe 06
+page Frame sequence 0, 1, 2, 1, 4, 2, 3, 7, 2, 1, 3, where page frame size is
+3. Also calculate the hit ratio.
 
-Q.2 (a) Explain 7 state process model with significance of suspend state and suitable [06]
-diagram.
+Q3.a. What is mutual exclusion? Explain the different ways in which it can be 06
 
-(b) Explain reader/writer problem with Semaphores as a software solution implementing [06]
-mutual exclusion.
+achieved.
+b. Explain message based IPC with example. 06
+Q4.a. What are the four conditions that create a deadlock? Explain deadlock 06
+prevention and avoidance techniques.
+b. What is virtual memory? Explain with a neat diagram the translation of 06
 
-Q.3 (a) Apply FCFS and preemptive priority scheduling on the following processes and [06]
-calculate average waiting time and average turnaround time. CONSIDER LOWER
+virtual address into physical address in a segmentation/paging system.
 
-VALUE AS HIGEST PRIORITY.
-
-Processes | Arrival time | Burst time | Priority
-
-Pl 0 15 1
-P2 4 9 0
-P3 5 8 2
-(b) State the significance of monitor with its structure for mutual exclusion. [06]
-
-ee
+i |
 --- page 2 ---
-Q4
+Q5.a
 
-Q5
+Q6. a.
 
-Q.6
+Q7.
 
-Q.7
+What is disk scheduling? What are the various disk scheduling
+algorithms? Explain the criteria for selecting the best disk scheduling
+algorithm.
 
-(a)
+Given five memory partitions of 100KB, 500 KB, 200KB, 300KB and
+600KB (in order) how would the first fit , best fit and worst fit algorithms
+place processes of 212 KB, 417KB , 112 KB and 426KB (in order)
+which algorithm makes the most efficient use of memory?
 
-(b)
+What are the various buffering techniques? Explain each one in detail.
+Explain file allocation methods in detail.
 
-(a)
-(b)
-(a)
-(b)
+Write Short Notes on (Any two)
+Monolithic V/s Microkernel
+Mutliprocessor and Distributed OS
+User threads and kernel threads
 
-(a)
-(b)
-(c)
-(d)
+06
 
-Explain Banker’s Algorithm. Apply same on following problem to find the safe state.
+06
 
-Ri R2 R3 Ri R? R3
+06
+06
 
-PL 3 2 2 Pl 1 0 G
-
-Pz 6 1 3 P2 6 1 2
-
-P3 3 1 4 P3 2 1 1
-
-Pd 4 2 2 Pd 0 0 3
-Claim manix € Allocation matrix A Resource vector R
-
-Draw and explain address translation mechanism of paging.
-
-State the significance of translation look aside buffer. Explain the flow TLB hit or
-
-TLB miss for paging.
-Explain any three Disk Scheduling Policies with suitable example.
-
-Describe Blocks and records in File management System.
-Explain Process and Thread Management in mobile operating system.
-
-Write short note on any three
-
-Batch Multiprogramming versus Time Sharing .
-Necessary condition to occur deadlock.
-
-Explain the concept of memory relocation with example.
-Disc Cache.
-
-2
-
-[06]
-
-[06]
-[06]
-[06]
-
-[06]
-[06]
-
-[12]
+12
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 9ff9a9c02729
+## 2015-16 · Re-Exam · Sem 4 · paper 3057e092eea8
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OPERATING SYSTEMS/OPERATING SYSTEMS BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 May 2017
-- Text: ocr (2 pages), mean OCR confidence 89.7
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OPERATING SYSTEMS/OPERATING SYSTEMS B TECH (IT), BATCH 14-15 RE EXAM0001.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
+- Text: ocr (2 pages), mean OCR confidence 78.9
 
 ````text
-~~ SVKM’s NMIMS
+SVEM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-_ Programme: B. Tech (I.T.) Year: II + Semester: IV
+os Programme: B.Tech (IT) Year: II Semester: IV
+Academic Year: 2015-16
+Batch: 2014-15
 
-Batch: 2014-2015/2015 - 2016 ~
-
-(fO S
-
-Academic Year: 2016-2017 bi
-Bt LIBRARY é
-
-: &
-/ Subject: Operating Systems ~ a a
-Marks: 60 “ X * ana ego ;
-- kL
-Date: 11 May 2017 _- Time: 10.00 am to 1.00 pm —
-
-Durations: 3 (hrs)
-No. of Pages: _2—
-
+Subject: Operating Systems Marks: 60
+Time: 10.00
+Date: 12/05/2016 Durations: 3 hrs.
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB: _ 1) Question No. | is compulsory.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
 
-2) Out of remaining questions, attempt any 4 questions.
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining 6 questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
 
-7) Assume Suitable data if necessary,
+Ql A Explain the evolution of OS. 6
+B_ OS is termed as a Resource Allocator. Justify 6
 
-la. Suppose that the following processes arrive for execution at the time indicated
+Q2 A Draw the Gantt Chart and Calculate average waiting time and average Turnaround 2
+time for Shortest Job First, Round Robin (Quantum = 2 time unit). Which of the
+above schedules result in minimal average waiting time and why?
 
-Process | Arrival Burst Priority
+Process No. | Arrival Time | CPU Burst
 
-time time ‘
-Pl 0 15 gre
-P2 3 2 1
-P3 5 4 3a
-P4 5 3 4h
-P5 9 4 1
-What is the average waiting time and turnaround time with Preemptive and non-
-preemptive priority scheduling? (6 marks)
+Pl 0 6
+P2 3 3
+P3 4 2.
+P4 6 1
+P5 10 3
+Q3 A Explain Segmentation with an example. 6
+B_ Explain any one strategy used to handle deadlocks. 6
+Q4 A Explain 5 state model of a process. 6.
+B_ Compare and contrast the Fixed and Dynamic partitions. 6
 
-1b. Explain Symmetric multiprocessing and Asymmetric multiprocessing. (6 marks)
+Q5 A What is a Semaphore? Explain the solution to producer consumer problem using 6
+— Semaphores.
 
-2a. Explain Mutual Exclusion Using Semaphores. Describe Producer/Consumer problem using
+B_ Explain the Indexed Sequential File Organization. 6
+pe Q6 A_ Explain any one Disk Scheduling policy with an example. 6
+B_ Ifthe contents of reference string is: 0, 2, 1, 6, 4, 0, 1, 0, 3, 1, 2, 1 and three 6
 
-Semaphores. (6 marks)
+frames are available in the memory then implement and calculate page fault for
+each of the following page replacement algorithms:- i) FIFO ii) Optimal
+ii)LRU
 
-2b. Explain Criteria for File Organization. Briefly discuss the implementation of tree structured
+Comment on best page replacement algorithm.
 
-directory (6 marks)
-
-3a. Compare and contrast the page replacement algorithms: FIFO & LRU (6 marks)
-
-—— 3b. Briefly explain the Requirements of Memory Management. (6 marks)
-4a. Describe Fixed partitioning methods for Memory Assignment. (6 marks)
-
-Ab. Explain Disk Scheduling Policies: First-in, first-out, SCAN and Shortest Service Time First.
-
-(6 marks)
-5a. Explain different methods for file allocation in operating system. (6 marks)
-
-Yae
+Yo.
 --- page 2 ---
-5b. Suppose that the following processes arrive for execution at the time indicated
-Process | Arrival | Burst
-time time
-Pl 0 15
-P2 ~ 1 12
-P3 2 9
-P4 4 3
-PS 4 5
-What is the average waiting time and turnaround time with Preemptive and non-
-
-preemptive SJF scheduling. (6 marks)
-
-6. Consider the following system snapshot using data structures in the Banker’s algorithm,
-
-with resources A, B, and C, and process PO to P3
-
-Max | Allocation | Available
-ABC| ABC ABC
-Po 001 001
-Py 175 100 .
-
-2
-
-P, 235 135
-
-Pe 065 063
-Total 299 15 2
-
-f type (A,B,C)? What is the contents of the Need matrix? Is
-If a request from process P1 arrives for additional resources
-
-of (0,5,2), can the Banker's algorithm grant the request immediately? What would be the new
-
-system state after the allocation? What is a sequence of process execution that satisfies the
-(12 marks)
-
-safety constraint?
-
-How many resources are‘there 0
-the system in a safe state? Why?
-
-(3x4 marks)
-
-Ts Write a short note on: (Any three)
-a) RAID
-b) Race condition
-c) Thrashing ~
-d) RTOS
+».» .,.Write short notes on any Three (3) of the following:
+gadlinis y g
+ff “ane At External Fragmentation
+tA on B Thgashing
+: C Wait for graph
+D   Microkernel Architecture of an OS
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper db2bf870fa01
@@ -14660,6 +15133,112 @@ os
 aa
 ````
 
+## 2014-15 · Final-Exam · Sem 4 · paper f3e7b1898aa6
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OPERATING SYSTEMS/OPERATING SYSTEMS B TECH (IT), FINAL EXAM0001.pdf`
+- Printed on paper: exam date: 13/05/2015
+- Text: ocr (2 pages), mean OCR confidence 88.3
+
+````text
+: SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: II Semester: IV
+
+Academic Year: 2014-2015
+
+Subject: Operating Systems
+Marks:
+Date: 13/05/2015 Time :
+Duration
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+
+cover of the Answer Book, which is provided for their use.
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Attempt any four out of remaining six questions.
+
+3. In all 5 questions to be attempted
+
+4, All questions carry equal marks.
+5. Answer to each new question to be started on fresh page.
+6. Figures in bracket on the right hand side indicate full marks.
+
+Ql A __ State and explain the different operating system services.
+B Consider the following set ofsprocesses with Arrival time and the |
+in the milliseconds :
+
+ength of CPU burst time given
+
+| Process | Arrival Time | Burst Time |
+No
+
+Pl 0 8
+
+P2 1 6
+
+P3 2 6
+
+Pp4 3 2
+
+PS 4 3
+[P6 5 ||
+
+Calculate Average Turnaround Time and Average Waiting Time for SJF preemption Algorithm
+
+Q2 A __ Differentiate the following:
+i) Process and Thread
+ii) User Level thread and Kernel Level thread
+B Analyze how process state transaction happens in modern operating systems.
+
+Q3 A What is System Call? Write a detailed note on System calls.
+B What is Deadlock? Explain how one can prevent deadlock from occurrence.
+
+Q4 A Write a Detailed note on Paging.
+B Explain how Swapping helps for memory management.
+
+Q5 A Explain the concept of Virtual memory.
+B State and explain the different 1/0 services provided by Kernel.
+
+Q6 A Write a detailed note on Disk Scheduling.
+B Explain following three methods of allocating dis
+a) Continuous allocation
+b) Linked allocation
+c) Indexed allocation
+
+k space in implementation of files.
+
+4 fs
+
++ / 4
+--- page 2 ---
+Q7
+
+Write a Short note on following (Any Four)
+
+A) Page replacement algorithm
+
+B) Context switching
+
+C) Distributed Operating Systems
+D) Unix File System
+
+£) Semaphore
+
+r
+
+£
+
+[2
+````
+
 ## 2014-15 · Final-Exam · Sem 4 · paper 3c57788cce59
 
 - Departments: Information Technology
@@ -14667,6 +15246,7 @@ aa
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/OPERATING SYSTEMS/OPERATING SYSTEMS BATCH 2014-2015 FINAL.pdf`
 - Printed on paper: exam date: 13/05/2015
 - Text: ocr (2 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -14763,7 +15343,6 @@ ii) Which resource initially available
 iii) Is the system is in safe state? If yes then state the sequence.
 
 Process | Allocation Matrix Claim Matrix Currently Available
-A |B ca A B Cc A B Cc
 
 PO 1 |0 0 3 2 2 0 1 1
 
@@ -14903,220 +15482,231 @@ i) SCAN
 ii) C-SCAN
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper ce1ac7851f5f
+## 2014-15 · Re-Exam · Sem 4 · paper c2037490f4e4
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: exam date: 07/05/2016
-- Text: ocr (2 pages), mean OCR confidence 90.1
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 08/05/2015
+- Text: ocr (2 pages), mean OCR confidence 90.3
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Computer) Year: II Semester: IV
-Academic Year: 2015-16
+Programme: B. Tech (COMP) Year: II Semester: IV
+Batch: 2013-14
 
-Batch: 2014-15
+Academic Year: 2014-2015
 
-Subject: Operating System
+Pe, i)
+in SV
+Subject: Operating System /$
+” » ee Marks: // # foo? stun
 
-Date: 07/05/2016
-Re-Examination
+Date: 08/05/2015 Time: \ 38% ji oH WO,
+Durationsi, #3 {hrs)
+%
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the Answer Book, Which is provided for their use.
+svasiewcaieell
+as SS Wings CRAWERS
+Re-Examination oe. 5
 
+rome nacnnr
+
+Instructions : Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, Which is provided for their use.
 NB:
-1. Question No.1 is compulsory
-2. Out of remaining question, attempt any four questions
-3. In all five questions to be attempted
-4. All question carry equal marks.
-5. Answer to each question to be started on fresh page
-6. Figure in bracket indicate full marks.
 
-Q.1.
+1. Question No. 1 is compulsory.
 
-a) Expiain Evolution of Operating Systems. 03
-b) What are the reasons-for Process Termination? 03
-c) What is buddy system used for memory partitioning? Explain with example. 63
-d) Explain disk scheduling policies for Shortest Service Time First and N-step-SCAN.. 03
-Q.2.
+2. Out of remaining questions, attempt any four questions.
 
-a) Discuss various key elements of the Operating System required to achieve
-multiprogramming. 06
+3. Inall five question to be attempted:
 
-b) Explain multilevel feedback queue scheduling algorithm. Find out average waiting 06
-time and turnaround time for the following example with three levels given below.
+4. All questions carry equal marks.
 
-1. RR at 8 units quantum
+5. Answer to each new question to be started on a fresh page
+6. Figure in brackets on the right hand side indicate full marks.
 
-2. RR at 16 units quantum
+Qi
+(a) Explain the characteristics of the Modern Operating system [5]
+(b) What is context switching? Explain any one example. [5]
+(c) What is the need of mutual exclusion? Explain its consequences if it is not achieved [5]
+(d) What is the significance of inode and directories in Unix file system [5]
+Q2
 
-3. FCFS
-Proe Arrival Burst
-Py 0 32
-P, 10 12
-Ps; 30 10
-Q3.
-a) Explain process control block with all necessary attributes. 06
+(a) Solve the following problem for multilevel feedback queue, where three queues are used. Quantum
+for first queue is 8, second queue is 16 and last queue uses FCFS. Calculate average waiting time and
 
-b) Describe hardware solutions to achieve mutual exclusion using machine instructions 06
-with suitable example.
-
-Vg
+average turnaround time. Also draw the Gantt chart . [10]
+Processes Arrival time Burst time
+P1 0 20
+P2 2 17
+P3 5 28
+(b) Explain process control block with its attribute. [10]
 --- page 2 ---
-QA. :
-’ a) What is Semaphore? Describe difficulties with binary semaphore. 06
+Q.3
 
-Give solution with suitable example.
+» a) Create the scenario for reader- writer problem and explain how mutual exclusion is achieved using
 
-+ .b) Explain achievement of mutual exclusion using message passing with one example. 06
+binary semaphore [10]
+b) Why hardware approaches are not preferable for mutual exclusion? Explain hardware solutions for
+mutual exclusion using machine instructions. [10]
+Q4
 
-Q.5.
+a) Why hardware approaches are not preferable for mutual exclusion? Explain hardware solutions for
+mutual exclusion using machine instructions [10]
 
-a) What is the need for page replacement? Explain with block Diagram. Find out the 06
-number of page fault occurs for the following string with LRU and optimal page
-replacement policies. Given string : 23.2 152453252, Number of frames =3
+b) Explain with diagram address translation mechanism in (combined approach) segmented paging
 
-b) Explain Operating System Design Issues for V/O device management. 06
-0.6.
-a) Explain architecture of windows 2000 operating system with block diagram. 06
+[10]
+Qs
 
-b) What are the typical operations performed on File? Explain the Objectives fora File 03 >
-Management System.
+(a) Explain different file allocation methods with diagrams [10]
 
-c) What is symmetric Multiprocessing? Explain the advantages of it over Uniprocessing. 03
+(b) Explain the design hierarchy of Operating system along with objectives and examples of different
+levels. [10]
 
-Q7.
-a) Explain Tree-Structured Directory for file system. 06
-b) Explain address translation mechanism in Two-Level Hierarchical Page Table with 06
-block diagram.
-€ ince
+Q.6
 
-o2/o.
+(a) Calculate the page faults occur for FIFO and LRU page replacement algorithms using given reference
+strings. Give justification.
+
+[10]
+Frames :- 3, Reference String: 7012030423032 1201701
+(b) Explain working of multiprocessor operating system [10]
+Q.7 Write short notes on the following (Any two) , [20]
+
+(a) Seven state process state transition diagram
+(b) RAID (Redundant Array of Independent Disk)
+
+(c) 1/0 buffering and its types
+
+2/2
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper d583f92c4eb6
+## 2014-15 · Re-Exam · Sem 4 · paper 7b68bdfda3dc
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM B TECH COMPUTER BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 01 July 2016
-- Text: ocr (2 pages), mean OCR confidence 94.5
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM B TECH (COMP), BATCH 2013-14 RE EXAM_7b68bdfda3.pdf`
+- Printed on paper: exam date: 30/06/2015
+- Text: ocr (2 pages), mean OCR confidence 91.6
 
 ````text
-SVKM’s NMIMS .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAS&# ya NEERING
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Computer) . Year:
-Academic Year: 2015-16
+Programme: B. Tech (COMP) Year: II Semester: IV
 
-Batch: 2014-15
+Batch: 2013-14 a
+Academic Year: 2014-2015... -, sa
 
-Subject: Operating System, Marks: 60 ‘
-Time: 10.00 am - 1.00 pm
-Date: 01 July 2016° Durations: 3 (hrs)
+Subject: Operating System
+Marks: ay ,
+Date: 30/06/2015 Time: _, » y2.0Q%pin to 5.00 pm
+Durations: 3.tgr
 
-Re-Examination
+J
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+wae wee nal ts
+NN fig neon ES
 
-NB:
+Re-Examinatione a3 Uaite™
 
-1) Question No. 01 is compulsory.
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for the use.
 
-. 2) Out of remaining questions, attempt any 04 questions.
+NB.
+1. Question No.1 is compulsory
+2. Out of remaining 6 questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new,question should be started on a Fresh page.
+6. Figure in brackets indicate full marks.
 
-3) In all 05 questions to be attempted.
+Ql a) Explain following scheduling algorithm, FCFS, SJF, RR, and PRIORITY 10
+with example. Mention One advantage and drawback of each scheme,
+mentioning where you would use each one.
 
-4) All questions carry equal marks. =
-5) Answer to each new question to be started on a fresh page.
+b) Define the essential properties of the following types of operating systems: 10
+a. Batch
+b. Distributed
+c. Time sharing
+d. Real time
 
-6) Figures in brackets on the right hand side indicate full marks.
+Q.2 a) Differentiate between External and Internal Fragmentation. Given memory 10
+partition of 100KB, 500KB, 200KB, 600KB and 300KB. Show how the
 
-7) Assume Suitable data if necessary
+first fit and Best fit algorithm will place processes of 212KB, 417KB, and
+112KB. Which algorithm is more efficient? Why?
 
-Ql.a_ What is operating system? Explain multiprogramming and time sharing 06
-operating system.
-b. State the purpose of short-term, medium-term and long term schedulers. 06
-Also discuss the differences among them.
+b) Explain Semaphore? What is function of semaphore? 10
+Q.3 a) What are the requirements of Mutual Exclusion? Explain Dekker’s fourth 10
+attempt. What is the drawback of it? How to overcome it?
+b) Explain Segmentation in Memory Management with an example. 10
+Q.4 a) Explain Disk Scheduling Algorithms in detail. 10
+b) Define and Discuss Paging Technique with an example. 10
+Q.5 a) Explain file organization and discuss Unix File system in detail. 10
+b) Consider the following page reference string : 10
 
-Q2.a What is process management? Explain various states of process with neat 06
-diagram also explain all process state transitions.
-b. Explain various page replacement policies. Implement LRU, OPT forthe 06
-page Frame sequence 0, 1, 2, 1, 4, 2, 3, 7, 2, 1, 3, where page frame size is
-3. Also calculate the hit ratio.
-
-Q3.a. What is mutual exclusion? Explain the different ways in which it can be 06
-
-achieved.
-b. Explain message based IPC with example. 06
-Q4.a. What are the four conditions that create a deadlock? Explain deadlock 06
-prevention and avoidance techniques.
-b. What is virtual memory? Explain with a neat diagram the translation of 06
-
-virtual address into physical address in a segmentation/paging system.
-
-i |
+Page 1 of 2
 --- page 2 ---
-Q5.a
+1,2,3,4,2,1,5,6, 1,2,3,7,6,3,2,1,2,3,6
 
-Q6. a.
+How many page faults would occur for the FIFO and LRU
+replacement algorithms, assuming four frames?
 
-Q7.
+Q.6 a) Discuss producer/ consumer problem with bounded buffer using 10
+semaphore.
 
-What is disk scheduling? What are the various disk scheduling
-algorithms? Explain the criteria for selecting the best disk scheduling
-algorithm.
+b) Define and discuss different RAID levels 10
 
-Given five memory partitions of 100KB, 500 KB, 200KB, 300KB and
-600KB (in order) how would the first fit , best fit and worst fit algorithms
-place processes of 212 KB, 417KB , 112 KB and 426KB (in order)
-which algorithm makes the most efficient use of memory?
+Q.7 Write Short Notes on( any four) 20
 
-What are the various buffering techniques? Explain each one in detail.
-Explain file allocation methods in detail.
+i) Mutual Exclusion : Software Approaches
 
-Write Short Notes on (Any two)
-Monolithic V/s Microkernel
-Mutliprocessor and Distributed OS
-User threads and kernel threads
+ii) Concurrency Control Mechanism in Windows Operating System
+iii) Process Control Block
 
-06
+iv) Readers / Writers Problem
 
-06
+v) Context Switch
 
-06
-06
-
-12
+Page 2 of 2
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper 3057e092eea8
+## 2014-15 · Re-Exam · Sem 4 · paper c763e0698008
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OPERATING SYSTEMS/OPERATING SYSTEMS B TECH (IT), BATCH 14-15 RE EXAM0001.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 12/05/2016
-- Text: ocr (2 pages), mean OCR confidence 78.9
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OPERATING SYSTEMS/OPERATING SYSTEMS B TECH (IT), BATCH 2013-14 RE EXAM0001.pdf`
+- Printed on paper: exam date: 13/05/2015
+- Text: ocr (2 pages), mean OCR confidence 91.2
 
 ````text
-SVEM’s NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-os Programme: B.Tech (IT) Year: II Semester: IV
-Academic Year: 2015-16
-Batch: 2014-15
+Programme: B. Tech (I.T.) Year: II Semester: IV
+Batch: 2013-14
 
-Subject: Operating Systems Marks: 60
-Time: 10.00
-Date: 12/05/2016 Durations: 3 hrs.
+Academic Year: 2014-2015
+
+Subject: Operating Systems Za (gitt tl OF ay
+Marks: fi geo
+Date: 13/05/2015 Time: E.QOpranrte, % 0
+
+ae ShpReaARY yy ;
+
 Re-Examination
 
+Qian aa
+eran
+
 Instruction: Candidates should read carefully the instructions printed on the question paper and on
+
 the cover of the Answer Book, which is provided for their use.
 
 NB:
@@ -15132,46 +15722,54 @@ NB:
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
 
-Ql A Explain the evolution of OS. 6
-B_ OS is termed as a Resource Allocator. Justify 6
+Ql A What is an Operating system? Explain the various functions of OS. 10
 
-Q2 A Draw the Gantt Chart and Calculate average waiting time and average Turnaround 2
-time for Shortest Job First, Round Robin (Quantum = 2 time unit). Which of the
-above schedules result in minimal average waiting time and why?
+B Explain the evolution of Operating Systems. : 10
+Q2 A _ Consider the following processes assume time unit in ms a0
+Process | Arrival Time | Burst Time | Priority
+P; 0 5 2
+P2 1 15 3
+P3 2 10 1
 
-Process No. | Arrival Time | CPU Burst
+Draw Gantt chart & Calculate Average waiting time and Average Tum Around
+Time following processes using
 
-Pl 0 6
-P2 3 3
-P3 4 2.
-P4 6 1
-P5 10 3
-Q3 A Explain Segmentation with an example. 6
-B_ Explain any one strategy used to handle deadlocks. 6
-Q4 A Explain 5 state model of a process. 6.
-B_ Compare and contrast the Fixed and Dynamic partitions. 6
+i) First Come First Serve CPU Scheduling algorithm.
 
-Q5 A What is a Semaphore? Explain the solution to producer consumer problem using 6
-— Semaphores.
+ii) Preemptive Shortest Job First CPU Scheduling algorithm.
 
-B_ Explain the Indexed Sequential File Organization. 6
-pe Q6 A_ Explain any one Disk Scheduling policy with an example. 6
-B_ Ifthe contents of reference string is: 0, 2, 1, 6, 4, 0, 1, 0, 3, 1, 2, 1 and three 6
+iii) Preemptive Priority CPU Scheduling algorithm.
 
-frames are available in the memory then implement and calculate page fault for
-each of the following page replacement algorithms:- i) FIFO ii) Optimal
-ii)LRU
+iv) Round Robin CPU Scheduling algorithm (Assume time quantum 2 ms).
 
+Q3 A Explain various ways of establishing Interprocess Communication. 10
+B Compare and contrast the page replacement algorithms: FIFO & LRU 10
+Q4_ A Differentiate between starvation & deadlock. Explain conditions for deadlock. 10
+B Ifthe contents of reference string is: 7,0,1,2,0,3,0,4,2,3,0,3 and three frames are 10
+
+available in the memory then implement and calculate page fault for each of the
+following page replacement algorithms:- i) FIFO ii) Optimal iii)LRU
 Comment on best page replacement algorithm.
 
-Yo.
+Q5_ A Explain the Bankers Algorithm with an example. 10
+B Explain the features of Modern Operating Systems. 10
+Q6 A Explain the two different types of fragmentation with examples. 10
+B Explain the term Thrashing suitable example. 10
+
+tf
 --- page 2 ---
-».» .,.Write short notes on any Three (3) of the following:
-gadlinis y g
-ff “ane At External Fragmentation
-tA on B Thgashing
-: C Wait for graph
-D   Microkernel Architecture of an OS
+Q7 Write short notes on any FOUR (4) of the following:
+
+A. Segmentation
+
+B. Microkernel Architecture of an OS
+Cc: Thread Management
+
+D. Priority Scheduling
+
+E RAID
+
+2/2.
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper b2f17a10fe38
@@ -15255,6 +15853,243 @@ Deadlock Avoidance
 Compaction technique
 
 RAID
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper a058ab3bb694
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/OPERATING SYSTEMS/OPERATING SYSTEMS BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 13/05/2015
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+SVKM’s NMIMS.
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (I.T.} Year: II Semester: [V
+Batch: 2013-14
+Academic Year: 2014-2015 gee aE
+. 4. gg \TOTE OF 2g,
+Subject Operating Systems Le ag
+ff. 100
+ai 4 2k he
+Date: 13/05/2015 ae , 10.08 ad so
+.3°(Fr§)
+An
+Re-Examination Se Megs VE
+
+Instructions: Candidate should read carefully the Instructions printed on the Question Paper and on the
+Answer Book, which is provided for their use.
+
+. NB:
+
+1. Question No. 1 is compulsory
+
+2. Out of remaining questions, attempt any 4 questions
+
+3. In all 5(five) questions to be attempted
+
+4. All questions carry equal marks
+
+5. Answer to each new question to be started on a fresh page
+
+Q.1.A. Define the following terms with examples. [10]
+I. System boot process
+IL Mutual Exclusion
+Til. System call
+IV. Context Switch
+
+V. Kernel
+B. Consider the following snapshot of a system [3+3+4]
+Allocation Max Available
+A BCD A BCD A BoC
+; D
+
+PO 00 12 00 12 1 5 2 0
+
+Pi j|1 0 00 17 5 0
+
+P2 13 54 23 5 6
+
+P3 06 3 2 06 5 2
+
+P4 0014 06 5 6
+
+Answer the following using Bankers Algorithm
+a. What is the Content of the matrix Need?
+b. Is the system in a safe state? If yes, give the safe Sequence.
+c. If a request from Process P1 arrives for (0,4,2,0), can the request be granted
+immediately?
+
+Q.2.A. “Compare Best Fit, First Fit & Worst Fit memory allocation in terms of internal [10]
+fragmentation and external fragmentation.
+B. Discuss and compare Short Term, Medium Term and Long Term Scheduling with the [10]
+help of a diagram. What are the Process Scheduling Criteria’s?
+
+Q.3.A. I. Differentiate Process and Threads : [5 +5]
+IL Discuss Secondary Storage management.
+B. Explain the Solution to Critical Section Problem? Explain the Petersons Solution with [10]
+Complete Algorithm.
+
+Page 1 of Z
+--- page 2 ---
+* Q4.A. Consider the following Reference String [10]
+
+1,2,3,4,2,1,5,6,2,1,2,3,7,6,3,2,1,2,3,6
+How many page faults would occur for the following page replacement algorithms,
+assuming four frames? Which one is better? Justify. Remember that all frames are
+initially empty, so your first unique pages will cost one fault each.
+
+i. LRU replacement
+
+ii. FIFO replacement
+
+iii. Optimal replacement
+
+B. List services provided by an Operating system. Explain how each provides convenience [10]
+to the user.
+
+Q.5.A. Suppose that a disk drive has 5000 cylinders, numbered 0 to 4999. The drive is currently [10]
+serving a request at cylinder 143, and the previous request was at cylinder 125. The
+queue of pending requests, in FIFO is 86, 1470, 913, 1774, 948, 1509, 1022, 1750, 130.
+Starting from the current head position, what is the total distance (in cylinders) that the
+disk arm moves to satisfy all the pending requests for each of the following disk
+scheduling algorithms?
+
+a. FCFS
+b. SSTF
+c. SCAN
+d. C-SCAN
+e. C-LOOK
+B. What is Paging? Explain with neat sketch the implementation of the Paging system. [10]
+
+Q.6.A. Consider the following set of Processes, with the length of the CPU burst time given in [10]
+
+milliseconds:
+Process Arrival Burst time
+time
+Pl 0 7
+P2 4 4
+P3 5 a!
+P4 9 1
+P5 12 3
+
+Draw the Gantt Chart and calculate the average waiting time and average Turnaround
+
+time for Preemptive SJF and Non-Preemptive SJF. Which of the above algorithm gives
+the best performance and why?
+
+B. With neat diagrams, Elaborate RAID with all its levels. [10]
+Q.7. Attempt Any 4 out of 5 [4*5=20]
+A. Monitor
+
+B. File Allocation methods
+
+C. Unix File System
+
+D. Memory Fragmentation
+
+E. Distributed Operating Systems
+
+Page 2 of 2
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 9779655de28a
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/OPERATING SYSTEMS/Operating Systems Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 02/07/2015
+- Text: ocr (2 pages), mean OCR confidence 86.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN GINEERING
+
+Programme: MBA Tech (IT) Year: II Semester: IV
+
+Academic Year: 2014-15
+
+ee
+Batch: 2013-14 ye
+
+Subject : Operating Systems Marks: 100 \ al
+Time : 10.00 am\ 0!
+Date : 02/07/2015 Durations: 3 md — N #
+Re-Examination les rmuiveRs
+
+Instruction: Candidates should read carefully the instructions printed on the question paper ard on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. __1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3) In all ____5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessaiy
+
+Q.No Question Marks
+Q.1 Attempt any 2.
+1. Explain What is operating System and write 5 command of Linux _ 10
+
+System with brief Explanation.
+
+2. What is Semaphore and Explain the First Readers-Writers Problem with
+
+Algorithm. 10
+3. Explain the four Solutions to critical section Problem ? Explain
+Consumer and Producer Process with Algorithm.
+(0
+Q.2 1. Explain Preemptive SJF and NonPreemptive SJF. Which of the . {0
+algorithm gives the best performance? Why.
+2. What is scheduling Criteria Explain. What is multilevel Queue explain .
+| with diagram. (o
+Q3 1. Explain Computer System organization .Explain each component with AO
+
+its Explanation.
+
+4/2
+--- page 2 ---
+2. What is Process and Describe the Process Control Block with Diagram. jo
+Q4 a.How to prevent Deadlock to be happen .Explain each point in detail. ike)
+b.Given the following information
+| i)Compute a given matrix {Oo
+ii)Which resource initially available
+jiijis the system is in safe state?if yes then state the sequence.
+Process | Allocation Matrix Claim Matrix Currently Available
+PO 1 | 0 0 3 2 2 0 1 1
+Pl 6 | 1 ) 6 1 3
+P2 2 41 ] 3 1 4
+P3 0 10 2 4 2 2
+Q.5 Attempt any one Ad
+1. Explain page fault. with diagram also mention two the solution in
+detail.
+2. Explain Demand paging in detail also explain steps in handling a page
+fault with diagram, 20
+Q.6 1. Explain First Come First Serve and shortest seek time (SSTF) disk ae)
+scheduling with example and graph.
+2. Explain RAID level 1 ,2 and 3 with diagram. {o
+Q.7 a. Any 3 of S.
+20
+
+1.File Operations
+
+2.Access Method
+
+3.Two level Directory Structure.
+4.File Sharing
+
+5.UNIX Files Systems
+
+a/9>
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper 690f0c09b42f
@@ -15799,201 +16634,6 @@ Pile, Sequential file, Indexed sequential file, Indexed file. [10]
 2/2.
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper c2037490f4e4
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 08/05/2015
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: II Semester: IV
-Batch: 2013-14
-
-Academic Year: 2014-2015
-
-Pe, i)
-in SV
-Subject: Operating System /$
-” » ee Marks: // # foo? stun
-
-Date: 08/05/2015 Time: \ 38% ji oH WO,
-Durationsi, #3 {hrs)
-%
-
-svasiewcaieell
-as SS Wings CRAWERS
-Re-Examination oe. 5
-
-rome nacnnr
-
-Instructions : Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, Which is provided for their use.
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. Inall five question to be attempted:
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page
-6. Figure in brackets on the right hand side indicate full marks.
-
-Qi
-(a) Explain the characteristics of the Modern Operating system [5]
-(b) What is context switching? Explain any one example. [5]
-(c) What is the need of mutual exclusion? Explain its consequences if it is not achieved [5]
-(d) What is the significance of inode and directories in Unix file system [5]
-Q2
-
-(a) Solve the following problem for multilevel feedback queue, where three queues are used. Quantum
-for first queue is 8, second queue is 16 and last queue uses FCFS. Calculate average waiting time and
-
-average turnaround time. Also draw the Gantt chart . [10]
-Processes Arrival time Burst time
-P1 0 20
-P2 2 17
-P3 5 28
-(b) Explain process control block with its attribute. [10]
---- page 2 ---
-Q.3
-
-» a) Create the scenario for reader- writer problem and explain how mutual exclusion is achieved using
-
-binary semaphore [10]
-b) Why hardware approaches are not preferable for mutual exclusion? Explain hardware solutions for
-mutual exclusion using machine instructions. [10]
-Q4
-
-a) Why hardware approaches are not preferable for mutual exclusion? Explain hardware solutions for
-mutual exclusion using machine instructions [10]
-
-b) Explain with diagram address translation mechanism in (combined approach) segmented paging
-
-[10]
-Qs
-
-(a) Explain different file allocation methods with diagrams [10]
-
-(b) Explain the design hierarchy of Operating system along with objectives and examples of different
-levels. [10]
-
-Q.6
-
-(a) Calculate the page faults occur for FIFO and LRU page replacement algorithms using given reference
-strings. Give justification.
-
-[10]
-Frames :- 3, Reference String: 7012030423032 1201701
-(b) Explain working of multiprocessor operating system [10]
-Q.7 Write short notes on the following (Any two) , [20]
-
-(a) Seven state process state transition diagram
-(b) RAID (Redundant Array of Independent Disk)
-
-(c) 1/0 buffering and its types
-
-2/2
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 7b68bdfda3dc
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/OPERATING SYSTEM/OPERATING SYSTEM B TECH (COMP), BATCH 2013-14 RE EXAM_7b68bdfda3.pdf`
-- Printed on paper: exam date: 30/06/2015
-- Text: ocr (2 pages), mean OCR confidence 91.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: II Semester: IV
-
-Batch: 2013-14 a
-Academic Year: 2014-2015... -, sa
-
-Subject: Operating System
-Marks: ay ,
-Date: 30/06/2015 Time: _, » y2.0Q%pin to 5.00 pm
-Durations: 3.tgr
-
-J
-
-wae wee nal ts
-NN fig neon ES
-
-Re-Examinatione a3 Uaite™
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for the use.
-
-NB.
-1. Question No.1 is compulsory
-2. Out of remaining 6 questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new,question should be started on a Fresh page.
-6. Figure in brackets indicate full marks.
-
-Ql a) Explain following scheduling algorithm, FCFS, SJF, RR, and PRIORITY 10
-with example. Mention One advantage and drawback of each scheme,
-mentioning where you would use each one.
-
-b) Define the essential properties of the following types of operating systems: 10
-a. Batch
-b. Distributed
-c. Time sharing
-d. Real time
-
-Q.2 a) Differentiate between External and Internal Fragmentation. Given memory 10
-partition of 100KB, 500KB, 200KB, 600KB and 300KB. Show how the
-
-first fit and Best fit algorithm will place processes of 212KB, 417KB, and
-112KB. Which algorithm is more efficient? Why?
-
-b) Explain Semaphore? What is function of semaphore? 10
-Q.3 a) What are the requirements of Mutual Exclusion? Explain Dekker’s fourth 10
-attempt. What is the drawback of it? How to overcome it?
-b) Explain Segmentation in Memory Management with an example. 10
-Q.4 a) Explain Disk Scheduling Algorithms in detail. 10
-b) Define and Discuss Paging Technique with an example. 10
-Q.5 a) Explain file organization and discuss Unix File system in detail. 10
-b) Consider the following page reference string : 10
-
-Page 1 of 2
---- page 2 ---
-1,2,3,4,2,1,5,6, 1,2,3,7,6,3,2,1,2,3,6
-
-How many page faults would occur for the FIFO and LRU
-replacement algorithms, assuming four frames?
-
-Q.6 a) Discuss producer/ consumer problem with bounded buffer using 10
-semaphore.
-
-b) Define and discuss different RAID levels 10
-
-Q.7 Write Short Notes on( any four) 20
-
-i) Mutual Exclusion : Software Approaches
-
-ii) Concurrency Control Mechanism in Windows Operating System
-iii) Process Control Block
-
-iv) Readers / Writers Problem
-
-v) Context Switch
-
-Page 2 of 2
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 90885711a50f
 
 - Departments: Computer Engineering
@@ -16187,101 +16827,6 @@ E, Thread Management 5
 F| Starvation 5
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper c763e0698008
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OPERATING SYSTEMS/OPERATING SYSTEMS B TECH (IT), BATCH 2013-14 RE EXAM0001.pdf`
-- Printed on paper: exam date: 13/05/2015
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II Semester: IV
-Batch: 2013-14
-
-Academic Year: 2014-2015
-
-Subject: Operating Systems Za (gitt tl OF ay
-Marks: fi geo
-Date: 13/05/2015 Time: E.QOpranrte, % 0
-
-ae ShpReaARY yy ;
-
-Re-Examination
-
-Qian aa
-eran
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on
-
-the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining 6 questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Ql A What is an Operating system? Explain the various functions of OS. 10
-
-B Explain the evolution of Operating Systems. : 10
-Q2 A _ Consider the following processes assume time unit in ms a0
-Process | Arrival Time | Burst Time | Priority
-P; 0 5 2
-P2 1 15 3
-P3 2 10 1
-
-Draw Gantt chart & Calculate Average waiting time and Average Tum Around
-Time following processes using
-
-i) First Come First Serve CPU Scheduling algorithm.
-
-ii) Preemptive Shortest Job First CPU Scheduling algorithm.
-
-iii) Preemptive Priority CPU Scheduling algorithm.
-
-iv) Round Robin CPU Scheduling algorithm (Assume time quantum 2 ms).
-
-Q3 A Explain various ways of establishing Interprocess Communication. 10
-B Compare and contrast the page replacement algorithms: FIFO & LRU 10
-Q4_ A Differentiate between starvation & deadlock. Explain conditions for deadlock. 10
-B Ifthe contents of reference string is: 7,0,1,2,0,3,0,4,2,3,0,3 and three frames are 10
-
-available in the memory then implement and calculate page fault for each of the
-following page replacement algorithms:- i) FIFO ii) Optimal iii)LRU
-Comment on best page replacement algorithm.
-
-Q5_ A Explain the Bankers Algorithm with an example. 10
-B Explain the features of Modern Operating Systems. 10
-Q6 A Explain the two different types of fragmentation with examples. 10
-B Explain the term Thrashing suitable example. 10
-
-tf
---- page 2 ---
-Q7 Write short notes on any FOUR (4) of the following:
-
-A. Segmentation
-
-B. Microkernel Architecture of an OS
-Cc: Thread Management
-
-D. Priority Scheduling
-
-E RAID
-
-2/2.
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper e42d75c2fd51
 
 - Departments: Information Technology
@@ -16404,241 +16949,137 @@ Starvation 5
 x
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper a058ab3bb694
+## 2013-14 · Re-Exam · Trim 5 · paper 9393facd159e
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/OPERATING SYSTEMS/OPERATING SYSTEMS BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 13/05/2015
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’s NMIMS.
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (I.T.} Year: II Semester: [V
-Batch: 2013-14
-Academic Year: 2014-2015 gee aE
-. 4. gg \TOTE OF 2g,
-Subject Operating Systems Le ag
-ff. 100
-ai 4 2k he
-Date: 13/05/2015 ae , 10.08 ad so
-.3°(Fr§)
-An
-Re-Examination Se Megs VE
-
-Instructions: Candidate should read carefully the Instructions printed on the Question Paper and on the
-Answer Book, which is provided for their use.
-
-. NB:
-
-1. Question No. 1 is compulsory
-
-2. Out of remaining questions, attempt any 4 questions
-
-3. In all 5(five) questions to be attempted
-
-4. All questions carry equal marks
-
-5. Answer to each new question to be started on a fresh page
-
-Q.1.A. Define the following terms with examples. [10]
-I. System boot process
-IL Mutual Exclusion
-Til. System call
-IV. Context Switch
-
-V. Kernel
-B. Consider the following snapshot of a system [3+3+4]
-Allocation Max Available
-A BCD A BCD A BoC
-; D
-
-PO 00 12 00 12 1 5 2 0
-
-Pi j|1 0 00 17 5 0
-
-P2 13 54 23 5 6
-
-P3 06 3 2 06 5 2
-
-P4 0014 06 5 6
-
-Answer the following using Bankers Algorithm
-a. What is the Content of the matrix Need?
-b. Is the system in a safe state? If yes, give the safe Sequence.
-c. If a request from Process P1 arrives for (0,4,2,0), can the request be granted
-immediately?
-
-Q.2.A. “Compare Best Fit, First Fit & Worst Fit memory allocation in terms of internal [10]
-fragmentation and external fragmentation.
-B. Discuss and compare Short Term, Medium Term and Long Term Scheduling with the [10]
-help of a diagram. What are the Process Scheduling Criteria’s?
-
-Q.3.A. I. Differentiate Process and Threads : [5 +5]
-IL Discuss Secondary Storage management.
-B. Explain the Solution to Critical Section Problem? Explain the Petersons Solution with [10]
-Complete Algorithm.
-
-Page 1 of Z
---- page 2 ---
-* Q4.A. Consider the following Reference String [10]
-
-1,2,3,4,2,1,5,6,2,1,2,3,7,6,3,2,1,2,3,6
-How many page faults would occur for the following page replacement algorithms,
-assuming four frames? Which one is better? Justify. Remember that all frames are
-initially empty, so your first unique pages will cost one fault each.
-
-i. LRU replacement
-
-ii. FIFO replacement
-
-iii. Optimal replacement
-
-B. List services provided by an Operating system. Explain how each provides convenience [10]
-to the user.
-
-Q.5.A. Suppose that a disk drive has 5000 cylinders, numbered 0 to 4999. The drive is currently [10]
-serving a request at cylinder 143, and the previous request was at cylinder 125. The
-queue of pending requests, in FIFO is 86, 1470, 913, 1774, 948, 1509, 1022, 1750, 130.
-Starting from the current head position, what is the total distance (in cylinders) that the
-disk arm moves to satisfy all the pending requests for each of the following disk
-scheduling algorithms?
-
-a. FCFS
-b. SSTF
-c. SCAN
-d. C-SCAN
-e. C-LOOK
-B. What is Paging? Explain with neat sketch the implementation of the Paging system. [10]
-
-Q.6.A. Consider the following set of Processes, with the length of the CPU burst time given in [10]
-
-milliseconds:
-Process Arrival Burst time
-time
-Pl 0 7
-P2 4 4
-P3 5 a!
-P4 9 1
-P5 12 3
-
-Draw the Gantt Chart and calculate the average waiting time and average Turnaround
-
-time for Preemptive SJF and Non-Preemptive SJF. Which of the above algorithm gives
-the best performance and why?
-
-B. With neat diagrams, Elaborate RAID with all its levels. [10]
-Q.7. Attempt Any 4 out of 5 [4*5=20]
-A. Monitor
-
-B. File Allocation methods
-
-C. Unix File System
-
-D. Memory Fragmentation
-
-E. Distributed Operating Systems
-
-Page 2 of 2
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 9779655de28a
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/IV SEMESTER/OPERATING SYSTEMS/Operating Systems Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 02/07/2015
-- Text: ocr (2 pages), mean OCR confidence 86.2
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM V/OPERATING SYSTEMS/OPERATING SYSTEM BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: exam date: 20/06/2014
+- Text: ocr (1 page), mean OCR confidence 92.3
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN GINEERING
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (IT) Year: II Semester: IV
+Programme: MBA Tech (IT/ COMPUTER) Year: II
+Academic Year: 2013-14
+Subject : Operating System
 
-Academic Year: 2014-15
+Date : 20/06/2014
 
-ee
-Batch: 2013-14 ye
+Re - Examination
 
-Subject : Operating Systems Marks: 100 \ al
-Time : 10.00 am\ 0!
-Date : 02/07/2015 Durations: 3 md — N #
-Re-Examination les rmuiveRs
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
 
-Instruction: Candidates should read carefully the instructions printed on the question paper ard on the
-cover of the Answer Book, which is provided for their use.
+cover of the answer book, which is provided for their use.
 
+N.B.:
+
+1. Question no. 1 is compulsory
+
+2. Out of remaining questions attempt any four questions
+
+3. Inall attempt five questions
+
+4. Figures in the brackets on the right hand side indicate full marks
+
+Q1. a.) Explain major objectives of operating system. [10]
+
+b.) Explain PCB. [10]
+
+Q2. a.) What are the necessary conditions for deadlock? Explain deadlock prevention & avoidance. [12]
+
+b.) Explain semaphores? What are the functions of a semaphore? [08]
+
+Q3. a.) Explain process state transition diagram. [10]
+b.) Discuss multithreading and multiprocessing. [10]
+
+[10]
+
+Q4. a.) Explain lO buffering and disk scheduling.
+
+b.) Implement LRU, FIFO and OPT for the following page frame sequence with page frame size [10]
+as three. 0, 1, 2, 1, 4, 2, 3, 7, 2, 1, 3. Calculate hit ratio.
+
+Q5. a.) Explain paging in detail. [10]
+
+b.) Discuss page replacement policies with their issues. [10]
+
+Q6. Short Notes (Any two) [20]
+i.)RAID ii.) RTOS iii.) Evaluation of operating system
+
+Q7.a.) Explain Peterson’s algorithm for mutual exclusion. [10]
+
+b.) Explain the terms: _ i) Critical region ii) Virtual memory. [10]
+
+> a
+````
+
+## 2013-14 · Re-Exam · Trim 5 · paper 2357e49f70ba
+
+- Departments: Computer Engineering, Information Technology
+- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM V/OPERATING SYSTEMS/OPERATING SYSTEMS BATCH 2012-13 RE EXAM0001.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; exam date: 14 /12/2013
+- Text: ocr (1 page), mean OCR confidence 87.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (IT/ Computer) Year: II Trimester: V
+Academic Year: 2013-14 Batch:2012-137a¥ MMs
+z fe t >
+. ve NX
+Subject : Operating System % \
+Marks:100 4
+
+Date :14 /12/2013 Time : 2.00pm 5.00pm
+
+Durations:
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
 NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
 
-1) Question No. __1___ is compulsory.
+Ql A __ Consider following set of processes , with the length of CPU-burst time given in 10
+milliseconds:
+Process Burst Arrival
+Time Time
+Pl 5 0
+P2 2 1
+P3 1 2
 
-2) Out of remaining questions, attempt any __4 _ questions.
-3) In all ____5_ questions to be attempted.
+For Shortest Job First (SJF) scheduling Algorithm do the following:
+i) Draw Gantt chart.
+ii) Calculate Average waiting Time(AWT).
+iii) Calculate Average Turn Around Time(ATAT).
+B___ Describe Process and the Process Control Block; also explain the importance of thread 10
 
-4) All questions carry equal marks.
+over process.
+Q2 A __ Describe mutual exclusion with its hardware and software approaches. 10
+B__ Describe the principles of deadlock. Also Describe its avoidance and detection 10
+Mechanisms.
+Q3 A Explain Virtual Memory Management (VMM). Give the importance of paging in 10
+VMM. : ;
+B_ Describe page replacément algorithm and their Types. 10
+Q4 A__ Describe the organization of the I/O. Also describe operating system design issues for 10
+VO.
+B_ Explain the types disk scheduling aigorithms. 10
+Q@5 A _ Describe File Management for UNIX file system 10
+B__ Explain secondary storage management. 10
+QE Write Short note on following: 20
+(a) Disk cache. (b) Distributed OS
+(c) Mobile OS (d) I/O buffering
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessaiy
-
-Q.No Question Marks
-Q.1 Attempt any 2.
-1. Explain What is operating System and write 5 command of Linux _ 10
-
-System with brief Explanation.
-
-2. What is Semaphore and Explain the First Readers-Writers Problem with
-
-Algorithm. 10
-3. Explain the four Solutions to critical section Problem ? Explain
-Consumer and Producer Process with Algorithm.
-(0
-Q.2 1. Explain Preemptive SJF and NonPreemptive SJF. Which of the . {0
-algorithm gives the best performance? Why.
-2. What is scheduling Criteria Explain. What is multilevel Queue explain .
-| with diagram. (o
-Q3 1. Explain Computer System organization .Explain each component with AO
-
-its Explanation.
-
-4/2
---- page 2 ---
-2. What is Process and Describe the Process Control Block with Diagram. jo
-Q4 a.How to prevent Deadlock to be happen .Explain each point in detail. ike)
-b.Given the following information
-| i)Compute a given matrix {Oo
-ii)Which resource initially available
-jiijis the system is in safe state?if yes then state the sequence.
-Process | Allocation Matrix Claim Matrix Currently Available
-A |B Cc A B C A B Cc
-PO 1 | 0 0 3 2 2 0 1 1
-Pl 6 | 1 ) 6 1 3
-P2 2 41 ] 3 1 4
-P3 0 10 2 4 2 2
-Q.5 Attempt any one Ad
-1. Explain page fault. with diagram also mention two the solution in
-detail.
-2. Explain Demand paging in detail also explain steps in handling a page
-fault with diagram, 20
-Q.6 1. Explain First Come First Serve and shortest seek time (SSTF) disk ae)
-scheduling with example and graph.
-2. Explain RAID level 1 ,2 and 3 with diagram. {o
-Q.7 a. Any 3 of S.
-20
-
-1.File Operations
-
-2.Access Method
-
-3.Two level Directory Structure.
-4.File Sharing
-
-5.UNIX Files Systems
-
-a/9>
+~ ‘
+al,
 ````
 
 ## 2013-14 · Re-Exam · Sem 2 · paper 67980eaf8e1f
@@ -16866,70 +17307,72 @@ Q.7.b. Explain various File Allocation Methods;
 Page 2 of 2
 ````
 
-## 2012-13 · Re-Exam · Trim 5 · paper 9393facd159e
+## 2012-13 · Re-Exam · Trim 5 · paper 1de942232ce0
 
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM V/OPERATING SYSTEMS/OPERATING SYSTEM BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: exam date: 20/06/2014
-- Text: ocr (1 page), mean OCR confidence 92.3
+- Departments: Computer Engineering, Information Technology
+- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM V/OPERATING SYSTEMS/OPERATING SYSTEM BATCH 2011-12 RE EXAM MBA.pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3
+- Text: mixed (2 pages), mean OCR confidence 94.8
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (IT/ COMPUTER) Year: II
-Academic Year: 2013-14
-Subject : Operating System
-
-Date : 20/06/2014
-
+SVKIM's NMIMS
+Mukesh Patel School Of techno log^ Management &,
+Programme: MBA(Tech) -   /;d.
+(I.T./Computer)   Year:   I1 Trimester:   I
+Academic Year : 2012-2013
+Batch:   2011-12
+Subject:   Operating System   Marks:
+Time :   2.00 pm To 5.00 pm
+Date:   Duration:   3   hrs.
 Re - Examination
+Note:
+1.   Question No. 1 is compulsory
+2.   Attempt any five out of the remaining questions.
+3.   Answer to each new question to be started on new page.
+4.   All questions carry equal marks.
+5.   Figure in brackets on right hand side indicate full marks
+Q-1
+(a) Explain mutual exclusion .Explain various hardware support for mutual exclusion.   10
+(b) Consider the following processes   10
+Processes   Burst Time   Arrival Time
+P 1   9   0
+P2   2   I
+P3   7   2
+P4   5   3
+(a) Draw a Gantt chart to show the execution using FCFS, SJF, and round-robin
+(quantum = I ms)
+(b) Calculate average turnaround time and average waiting time for each
+algorithm
+Q-2
+(a) Discuss real time and time sharing operating system with example.   10
+(b) What is semaphore? Explain usage and types of semaphore.   10
+- - -. . - - - .- --
+Q-3
+(a) Explain following memory allocation strategies with help of neat diagrams   10
+(a)Best fit (b)First fit (c) Next fit
+(b) A process reference pages in following order   10
+1,2,4,3,7,1,4,2,3,4,5,7,2
+Use OPT,LRU,FIFO to find out number of page faults using page frame 3.Also
+B   calculate hit ratio .
+Q-4
+(a) Describe how address translation takes place with help of neat diagram in   10
+-   (a) Paging (b)Segmentation
+(b) Explain condition necessary for deadlock. How it can be prevented.   10
+--- page 2 ---
+Q-5
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-
-cover of the answer book, which is provided for their use.
-
-N.B.:
-
-1. Question no. 1 is compulsory
-
-2. Out of remaining questions attempt any four questions
-
-3. Inall attempt five questions
-
-4. Figures in the brackets on the right hand side indicate full marks
-
-Q1. a.) Explain major objectives of operating system. [10]
-
-b.) Explain PCB. [10]
-
-Q2. a.) What are the necessary conditions for deadlock? Explain deadlock prevention & avoidance. [12]
-
-b.) Explain semaphores? What are the functions of a semaphore? [08]
-
-Q3. a.) Explain process state transition diagram. [10]
-b.) Discuss multithreading and multiprocessing. [10]
-
-[10]
-
-Q4. a.) Explain lO buffering and disk scheduling.
-
-b.) Implement LRU, FIFO and OPT for the following page frame sequence with page frame size [10]
-as three. 0, 1, 2, 1, 4, 2, 3, 7, 2, 1, 3. Calculate hit ratio.
-
-Q5. a.) Explain paging in detail. [10]
-
-b.) Discuss page replacement policies with their issues. [10]
-
-Q6. Short Notes (Any two) [20]
-i.)RAID ii.) RTOS iii.) Evaluation of operating system
-
-Q7.a.) Explain Peterson’s algorithm for mutual exclusion. [10]
-
-b.) Explain the terms: _ i) Critical region ii) Virtual memory. [10]
-
-> a
+(a)_| Explain Demand paging in detail . 10
+(b) | Explain various File access methods. 10
+Q-6
+(a) | Explain with example and neat diagram various disk scheduling algorithms. 10
+(b) | Write Safety algorithm and Resource-Request Algorithm for deadlock avoidance . 10
+Q-7 | Write a short notes on (ANY FOUR ) 20
+(a) | Monitors
+(b) | Context switching
+(c) | RAID
+(d) | Preemptive vs non preemptive algorithm
+(e) | Race condition
 ````
 
 ## 2012-13 · Re-Exam · Trim 5 · paper 823c8ae650ae
@@ -16991,71 +17434,139 @@ Q.7   Explain the differences between: (Any Two)
 x
 ````
 
-## 2012-13 · Re-Exam · Trim 5 · paper 2357e49f70ba
+## 2012-13 · Re-Exam · Trim 5 · paper 6b06c6cd5081
 
-- Departments: Computer Engineering, Information Technology
-- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM V/OPERATING SYSTEMS/OPERATING SYSTEMS BATCH 2012-13 RE EXAM0001.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; exam date: 14 /12/2013
-- Text: ocr (1 page), mean OCR confidence 87.5
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/OPERATING SYSTEMS/OPERATING SYSTEM V (IT-COMPUTER) MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17/06/2013
+- Text: text (1 page)
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM's NMIMS
+Programme:
+Academic Year :2012-2013
+Batch:   2011-12   ,.   i
+Subject:   Operating System   Marks:   100 .
+Tie:   2.00 pm To 5.00 pm
+Date:   17/06/2013 - .   Duration: 3 hrs.
+s e - Examination
+Instructions: Candidate should read carefully the instructions printed on the question paper and on
+the cover of the answer book, which is provided for their use.
+NB: 1.Question No.1 is compulsory.
+2. Out of remaining6 questions, attempt any four questions.
+3. In allfwe questions to be attempted.
+4. All questions carry equal marks.
+5. Answers to each new question to be started on a fresh page.
+6. Figure in brackets indicates full marks.
+41. a) What is operating System? Explain the characteristics of modern operating system. List
+today's range of operating systems with an example.   141
+b) Draw and explain the 7state transition diagrams for the process in detail.   [a]
+c) What is deadlock? Explain in brief the four necessary conditions for deadlock   Is]
+92.a) What i s Mutual Exclusion? Explain reader-writer problem and provide a solution to it using
+semaphores.   [lo]
+b) Explain segmentation in detail. Describe how logical address converts into physical address
+1101
+43. a) Calculate hit and miss udngvarious page replacement policies (LRU, OM, FIFO) for following
+page frame sequence, page frame size is 3.
+0,4,3,2,1,4,6,3,0,8,9,3,8,5 Comment on best page replacement polin/.   [lo]
+b) Explain any two file organizations with diagrams.
+44. a) Explain following scheduling algorithm FCFS, SJF, SRTF, RR, and PRIORITY with example.
+Mention one advantage and drawback of each scheme mentioning where you would use each
+one.   [I51
+b) Explain RAID in brief.   &   [51
+Q5. a) Explain I/O Buffering and Diskcache   [lo]
+b) What is difference between process and thread? Discuss user-level and kernel level threads in
+detail.   [lo]
+46. a) Explain Virtual Memory Management in detail.
+b) Discuss Layered and Monolihic structure of operating system.
+47. Write short notes on:
+i) Real Time Operating System
+ii) Mobile Operating System
+iii) Unix File System
+iv) Classical IPC Problems
+````
 
-Programme:MBA Tech (IT/ Computer) Year: II Trimester: V
-Academic Year: 2013-14 Batch:2012-137a¥ MMs
-z fe t >
-. ve NX
-Subject : Operating System % \
-Marks:100 4
+## 2012-13 · Re-Exam · Trim 2 · paper dffea50a95db
 
-Date :14 /12/2013 Time : 2.00pm 5.00pm
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/OPERATING SYSTEMS/OPERATING SYSTEM II MCA 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/6/2013
+- Text: text (2 pages)
 
-Durations:
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate full marks.
-
-Ql A __ Consider following set of processes , with the length of CPU-burst time given in 10
-milliseconds:
-Process Burst Arrival
-Time Time
-Pl 5 0
-P2 2 1
-P3 1 2
-
-For Shortest Job First (SJF) scheduling Algorithm do the following:
-i) Draw Gantt chart.
-ii) Calculate Average waiting Time(AWT).
-iii) Calculate Average Turn Around Time(ATAT).
-B___ Describe Process and the Process Control Block; also explain the importance of thread 10
-
-over process.
-Q2 A __ Describe mutual exclusion with its hardware and software approaches. 10
-B__ Describe the principles of deadlock. Also Describe its avoidance and detection 10
-Mechanisms.
-Q3 A Explain Virtual Memory Management (VMM). Give the importance of paging in 10
-VMM. : ;
-B_ Describe page replacément algorithm and their Types. 10
-Q4 A__ Describe the organization of the I/O. Also describe operating system design issues for 10
-VO.
-B_ Explain the types disk scheduling aigorithms. 10
-Q@5 A _ Describe File Management for UNIX file system 10
-B__ Explain secondary storage management. 10
-QE Write Short note on following: 20
-(a) Disk cache. (b) Distributed OS
-(c) Mobile OS (d) I/O buffering
-
-~ ‘
-al,
+````text
+-.   --*
+SVKM'S l'rMIMS   .+ i:%J - +,,I . ,I; ,   .,I? ...-   -Te
+Mulresh Pate1 School of Technolom magement & Enginee-p   !   1,
+&ogamme: MCA   Year: I   Trimester:   I1   .   .! P 'i; T M E
+Academic Year :2012-2013   I .   i   .   i ~u A R Y
+I Batch:   2011-2012. .
+Subject:   opekting System   Marks:   100
+Time:
+Date:   15/6/2013   Duration: 3 hrs.
+Re - Examination
+Instructions:Candidates should read mefully the instructions printed on the question
+paper and on the cover of the Answer Book,which is provided for the use.
+NB.
+1. QuestionNo.1 is wmpulsory
+2. Out of remaining 6 questions, attempt any 4 questions.
+3. In all 5 questionsto be attempted.
+4. All questions carry equal marks.
+5. Answer to eachnew question should be started on a Fresh page.
+6. Firmre in brackets indicate full marks.
+a) Define Operating System. Explain the various Architectures of the   10
+Operating System.
+b)   State in brief the four key features ofeach of the following operating   10
+m="
+i) RealTime
+ii) Distributed
+iii) Multipmgmmming
+iv) Time-sharing
+a) Consider following set of hooesses with the length of the CPU Bursttime 10
+given in milliseconds
+Process   Arrival   BurstTime   Priority
+P1   10   13   13
+P2   1   5   1
+p3   3   2   a   3
+P4   9   5   2
+P5   12   5   1
+Draw a Gantt Chart and find outthe average waiting time andaveragetum
+around time for i) FCFS ii)SJF (Preemptive) iii) SJF (Nonpreemptive)
+iv) Round Robin (Time quantum =I ms) V) Priority (Preemptive- a
+smallerpriority number implies higher priotity)
+b) What is a thread? Define User Level Thread (ULT) and Kernel   10
+Level Thread (IUT).How isULT mapped to KLT?
+Page 1of 2
+--- page 2 ---
+Q.3   a) Mere&ate between External and InternatFragmdon. Given meqory 10
+partition of lOOKB, 500KB, 200KB,600KB and 300KB.Show how the
+hrst fit and Best M algorithm will place pmsses of 212KB, 417KB,and
+112KB.Which algorithm is more efficient?Why?
+b) Explain paging and segmentation in detail. Give examplefor each.   10
+Q.4   a) h i d e r the following page reference string :
+12,3,42,1,5,6,1,2,3,7,6,3,2,1,Z3,6
+How many page hdts would occur for the FIFO and LRU @axanent
+algorithms,assuming Throe and four h a ?
+b) Explain any four types of file orgabtion in detail.   10
+Q.5   a) Explain with example following disk scheduliig algorithms   10
+i) SCAN
+ii) C-SCAN
+iii) SSTF
+iv) FIFO
+b) Implement the producer wnsumer problem using semaphoresand   10
+discuss how the critical section requirements are llfilled
+Q.6   a)   State the requirements for Mutual Exclusion? Dacribe various Hardware 10
+&es   to achieve mutual exclusion and state its advantagm and
+did-es.
+b) Explain the Bankers Algorithm for deadlockavoidance with example.   10
+Q.7 WriteShort Nota on( any four)
+i) Memory Management in Limur 0s
+ii) Context Switching   a
+iil) Process State Diagram
+iv) Monitors   L
+v) Process Control Block
+Page 2 of 2
 ````
 
 ## 2012-13 · Re-Exam · Trim 2 · paper 2076148bfb66
@@ -17328,74 +17839,6 @@ xX ——-
 \
 ````
 
-## 2011-12 · Re-Exam · Trim 5 · paper 1de942232ce0
-
-- Departments: Computer Engineering, Information Technology
-- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM V/OPERATING SYSTEMS/OPERATING SYSTEM BATCH 2011-12 RE EXAM MBA.pdf` (+1 identical copies)
-- Printed on paper: duration hours: 3
-- Text: mixed (2 pages), mean OCR confidence 94.8
-
-````text
-SVKIM's NMIMS
-Mukesh Patel School Of techno log^ Management &,
-Programme: MBA(Tech) -   /;d.
-(I.T./Computer)   Year:   I1 Trimester:   I
-Academic Year : 2012-2013
-Batch:   2011-12
-Subject:   Operating System   Marks:
-Time :   2.00 pm To 5.00 pm
-Date:   Duration:   3   hrs.
-Re - Examination
-Note:
-1.   Question No. 1 is compulsory
-2.   Attempt any five out of the remaining questions.
-3.   Answer to each new question to be started on new page.
-4.   All questions carry equal marks.
-5.   Figure in brackets on right hand side indicate full marks
-Q-1
-(a) Explain mutual exclusion .Explain various hardware support for mutual exclusion.   10
-(b) Consider the following processes   10
-Processes   Burst Time   Arrival Time
-P 1   9   0
-P2   2   I
-P3   7   2
-P4   5   3
-(a) Draw a Gantt chart to show the execution using FCFS, SJF, and round-robin
-(quantum = I ms)
-(b) Calculate average turnaround time and average waiting time for each
-algorithm
-Q-2
-(a) Discuss real time and time sharing operating system with example.   10
-(b) What is semaphore? Explain usage and types of semaphore.   10
-- - -. . - - - .- --
-Q-3
-(a) Explain following memory allocation strategies with help of neat diagrams   10
-(a)Best fit (b)First fit (c) Next fit
-(b) A process reference pages in following order   10
-1,2,4,3,7,1,4,2,3,4,5,7,2
-Use OPT,LRU,FIFO to find out number of page faults using page frame 3.Also
-B   calculate hit ratio .
-Q-4
-(a) Describe how address translation takes place with help of neat diagram in   10
--   (a) Paging (b)Segmentation
-(b) Explain condition necessary for deadlock. How it can be prevented.   10
---- page 2 ---
-Q-5
-
-(a)_| Explain Demand paging in detail . 10
-(b) | Explain various File access methods. 10
-Q-6
-(a) | Explain with example and neat diagram various disk scheduling algorithms. 10
-(b) | Write Safety algorithm and Resource-Request Algorithm for deadlock avoidance . 10
-Q-7 | Write a short notes on (ANY FOUR ) 20
-(a) | Monitors
-(b) | Context switching
-(c) | RAID
-(d) | Preemptive vs non preemptive algorithm
-(e) | Race condition
-````
-
 ## 2011-12 · Re-Exam · Trim 5 · paper 94e66a3e3317
 
 - Departments: Computer Engineering, Information Technology
@@ -17523,141 +17966,6 @@ B] What is file management system? Mention its various functions and objectives 
 Q.7 A] Explain Static and Dynamic memory Partitioning with Internal and External Fragmentation. [10]
 ‘B] Elaborate RAID in detail with all its levels. [10]
 
-Page 2 of 2
-````
-
-## 2011-12 · Re-Exam · Trim 5 · paper 6b06c6cd5081
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/OPERATING SYSTEMS/OPERATING SYSTEM V (IT-COMPUTER) MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 17/06/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Programme:
-Academic Year :2012-2013
-Batch:   2011-12   ,.   i
-Subject:   Operating System   Marks:   100 .
-Tie:   2.00 pm To 5.00 pm
-Date:   17/06/2013 - .   Duration: 3 hrs.
-s e - Examination
-Instructions: Candidate should read carefully the instructions printed on the question paper and on
-the cover of the answer book, which is provided for their use.
-NB: 1.Question No.1 is compulsory.
-2. Out of remaining6 questions, attempt any four questions.
-3. In allfwe questions to be attempted.
-4. All questions carry equal marks.
-5. Answers to each new question to be started on a fresh page.
-6. Figure in brackets indicates full marks.
-41. a) What is operating System? Explain the characteristics of modern operating system. List
-today's range of operating systems with an example.   141
-b) Draw and explain the 7state transition diagrams for the process in detail.   [a]
-c) What is deadlock? Explain in brief the four necessary conditions for deadlock   Is]
-92.a) What i s Mutual Exclusion? Explain reader-writer problem and provide a solution to it using
-semaphores.   [lo]
-b) Explain segmentation in detail. Describe how logical address converts into physical address
-1101
-43. a) Calculate hit and miss udngvarious page replacement policies (LRU, OM, FIFO) for following
-page frame sequence, page frame size is 3.
-0,4,3,2,1,4,6,3,0,8,9,3,8,5 Comment on best page replacement polin/.   [lo]
-b) Explain any two file organizations with diagrams.
-44. a) Explain following scheduling algorithm FCFS, SJF, SRTF, RR, and PRIORITY with example.
-Mention one advantage and drawback of each scheme mentioning where you would use each
-one.   [I51
-b) Explain RAID in brief.   &   [51
-Q5. a) Explain I/O Buffering and Diskcache   [lo]
-b) What is difference between process and thread? Discuss user-level and kernel level threads in
-detail.   [lo]
-46. a) Explain Virtual Memory Management in detail.
-b) Discuss Layered and Monolihic structure of operating system.
-47. Write short notes on:
-i) Real Time Operating System
-ii) Mobile Operating System
-iii) Unix File System
-iv) Classical IPC Problems
-````
-
-## 2011-12 · Re-Exam · Trim 2 · paper dffea50a95db
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/OPERATING SYSTEMS/OPERATING SYSTEM II MCA 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/6/2013
-- Text: text (2 pages)
-
-````text
--.   --*
-SVKM'S l'rMIMS   .+ i:%J - +,,I . ,I; ,   .,I? ...-   -Te
-Mulresh Pate1 School of Technolom magement & Enginee-p   !   1,
-&ogamme: MCA   Year: I   Trimester:   I1   .   .! P 'i; T M E
-Academic Year :2012-2013   I .   i   .   i ~u A R Y
-I Batch:   2011-2012. .
-Subject:   opekting System   Marks:   100
-Time:
-Date:   15/6/2013   Duration: 3 hrs.
-Re - Examination
-Instructions:Candidates should read mefully the instructions printed on the question
-paper and on the cover of the Answer Book,which is provided for the use.
-NB.
-1. QuestionNo.1 is wmpulsory
-2. Out of remaining 6 questions, attempt any 4 questions.
-3. In all 5 questionsto be attempted.
-4. All questions carry equal marks.
-5. Answer to eachnew question should be started on a Fresh page.
-6. Firmre in brackets indicate full marks.
-a) Define Operating System. Explain the various Architectures of the   10
-Operating System.
-b)   State in brief the four key features ofeach of the following operating   10
-m="
-i) RealTime
-ii) Distributed
-iii) Multipmgmmming
-iv) Time-sharing
-a) Consider following set of hooesses with the length of the CPU Bursttime 10
-given in milliseconds
-Process   Arrival   BurstTime   Priority
-P1   10   13   13
-P2   1   5   1
-p3   3   2   a   3
-P4   9   5   2
-P5   12   5   1
-Draw a Gantt Chart and find outthe average waiting time andaveragetum
-around time for i) FCFS ii)SJF (Preemptive) iii) SJF (Nonpreemptive)
-iv) Round Robin (Time quantum =I ms) V) Priority (Preemptive- a
-smallerpriority number implies higher priotity)
-b) What is a thread? Define User Level Thread (ULT) and Kernel   10
-Level Thread (IUT).How isULT mapped to KLT?
-Page 1of 2
---- page 2 ---
-Q.3   a) Mere&ate between External and InternatFragmdon. Given meqory 10
-partition of lOOKB, 500KB, 200KB,600KB and 300KB.Show how the
-hrst fit and Best M algorithm will place pmsses of 212KB, 417KB,and
-112KB.Which algorithm is more efficient?Why?
-b) Explain paging and segmentation in detail. Give examplefor each.   10
-Q.4   a) h i d e r the following page reference string :
-12,3,42,1,5,6,1,2,3,7,6,3,2,1,Z3,6
-How many page hdts would occur for the FIFO and LRU @axanent
-algorithms,assuming Throe and four h a ?
-b) Explain any four types of file orgabtion in detail.   10
-Q.5   a) Explain with example following disk scheduliig algorithms   10
-i) SCAN
-ii) C-SCAN
-iii) SSTF
-iv) FIFO
-b) Implement the producer wnsumer problem using semaphoresand   10
-discuss how the critical section requirements are llfilled
-Q.6   a)   State the requirements for Mutual Exclusion? Dacribe various Hardware 10
-&es   to achieve mutual exclusion and state its advantagm and
-did-es.
-b) Explain the Bankers Algorithm for deadlockavoidance with example.   10
-Q.7 WriteShort Nota on( any four)
-i) Memory Management in Limur 0s
-ii) Context Switching   a
-iil) Process State Diagram
-iv) Monitors   L
-v) Process Control Block
 Page 2 of 2
 ````
 
@@ -18379,210 +18687,6 @@ Write short notes on: (20)
 cet
 ````
 
-## Year not stated · Exam not stated · Sem 3 · paper 94efbaf316ab
-
-- Departments: Artificial Intelligence, Computer Engineering, Data Science
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/OPERATING SYSTEMS/B Tech, B Tech Intg, MBA Tech (COMP, AI, AI&DS, AI&ML, CSE-DS) Operating Systems,_2df186f9.pdf` (+4 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT& ENGINEERIN G/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2024-2025
-: T/E
-
-ia ae ma foe
-
-Time: 3 _ hrs (2oopmto 5:00pm )
-No. of Pages: 4
-
-Program/s: B Tech /MRa Tech / BTL
-Stream/s ; AL/AZML/AIDS Lomp/c. S/CSEDS
-Subject: Operating Systems
-
-Date:_18 /.2 /2025-
-
-Marks: 100
-
-Re-Examination (2023-24 /24-25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1__ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-= Answer briefly:
-a. Compare and contrast:
-CO-1;SO-1 a) Batch Operating Systems and Time-Sharing Operating Systems.
-plus b) Real-Time Operating System (RTOS) and a General-Purpose oI
-Operating System.
-
-b. Analyze the algorithm given for process P; and state whether it satisfies the
-three requirements for the solution to critical-section problem or not. Justify
-your answer.
-
-\\ flag = true; initialized for all
-CO-2 ; SO-2
-a int turn; o
-
-boolean flag[2];
-
-while (true) {
-flag[i] =true;
---- page 2 ---
-turn = j;
-
-while (flag[j] && turn = = j);
-/* critical section */
-
-flag[i] = false;
-
-/* remainder section */
-
-}
-
-c. Analyse the given the resource allocation graph to find out whether the
-
-system is in deadlock or not. Justify your answer.
-
-Rl R2
-
-Sie ES
-
-CO-2 ; SO- ; assignment
-2; BL-4 [5]
-
-y a
-
-CO-3 ; SO- | d. Explain about tree-structured directories. Design a directory structure for a
-Biel Pad university department's file system. a
-Q a. Explain the key differences between user mode and kernel mode on different
-CO-1; SO- aspects. Describe with diagram how a typical system call causes a transition [10]
-1; BL-1 between user mode and kernel mode.
-b. Consider a disk with 200 tracks and the queue has random requests from [10]
-different processes in the order: 55, 58, 39, 18, 90, 160, 150, 38, 184, 190.
-CO-3; SO- Initially the head is at 50. Calculate the Total head moment using FIFO,
-6; BL-6 SSTF, SCAN (The drive is currently serving a request at cylinder 50 and the
-
-previous request was at the cylinder 60) and C-SCAN (The drive is currently
-
-serving a request at cylinder 50 and the previous request was at the cylinder
---- page 3 ---
-40). Compare the performance is find out which algorithm performs the best
-
-in given scenario.
-
-~
-
-Q3 a.
-CO-2; SO-
-
-Compare and contrast Processes and threads in terms of their structure,
-execution, and resource management. Discuss the implications of these
-1; BL-3 ;
-
-[10]
-
-differences for multithreading in modern operating systems.
-
-CO-2; so- | b.
-2; BL-6
-
-4 : we ; : .
-Q a Draw and illustrate the Process State Transition Diagram, Incorporating the [10]
-CO-2; SO-
-
-What is Dining Philosophers Problem? Design pseudocode to provide
-
-[10]
-solution for Dining Philosophers Problem using monitors.
-
-ORD various schedulers, and explain the role of each scheduler in detail.
-
-Consider the following snapshot of a system in which four resources A, B, | [10]
-C and D area available. The system contains a total of 6 instances of A, 4 of
-
-resource B, 4 of resource C, 2 resource D.
-
-[ Process Allocation Max Total
-
-A|BIC/D/A|[B/C]DIA]BIclpI1
-PO 2/0/1/1/3]2]1]1 [6 lala lo
-
-CO-2; So- P| 1/1 }/o0jol1]2]o/l2
-2; BL-6 P2
-
-1}/0/1/0]3 /2 71 Yo
-P3 O;ls/oj1}2;1 fon
-
-aa)
-
-Using Banker’s algorithm, answer the following questions:
-i) How many resources of type A, B, C, D are available?
-
-ii) What are the contents of need matrix?
-
-iii) Find if the system is in safe state? If it is, find the safe sequence.
-
-Solve the following problem for Shortest Job First preemptive (SRTF) and /fioy |
-Priority (preemptive) scheduling algorithm by drawing the Gantt chart.
-Q5 m3 : ;
-Calculate average waiting time, average response time and average
-CO-2; so-
-anne turnaround time for both of them. Also determine which scheduling policy
-
-performs better on above mentioned criterions. Assume higher the number
-
-higher the priority.
-| ee ne ee |
-ee
---- page 4 ---
-Process Arrival CPU Burst | Priority
-
-Time Time
-Pl 0 5 1
-P2 1 3 2
-123) 2 8 1
-P4 4 6 3
-b. Explain the concept of segmentation in operating systems with the help of a | [10]
-am diagram. How does address translation occur in segmentation? Use an
-example to demonstrate the process.
-a. What is meant by a race condition in concurrent programming and examine | [10]
-Qo. how the critical section mechanism can help in preventing race conditions.
-Cony So: What fundamental conditions must be fulfilled to ensure a solution to the
-— an critical section problem?
-b. What is Dynamic Relocation? Explain with the help of a diagram. Given | [10]
-five memory partitions of 256KB, 128KB, 512KB, 384KB (in order), how
-aes would the first-fit, best-fit, and worst-fit algorithms place processes of
-192KB, 320KB, 64KB, 256KB (in order)? Show the allocation of the
-processes using the above-mentioned memory allocation algorithms.
-Q7 a. Discuss the deadlock detection and recovery mechanism. How does a [10]
-nes ae system detect a deadlock and what are the possible ways to recover from it?
-b. Consider a system with 4 available frames and a sequence of 12-page | [10]
-requests: 3, 2, 1, 4, 3, 5, 1, 2, 6, 3, 4, 7. Using LRU (Least Recently Used),
-FIFO (First In First Out), and Optimal page replacement algorithms.
-ss Simulate the page replacement process for each algorithm. Analyze and
-
-compare the performance of the three algorithms in terms of the number of
-page faults. If the number of available frames is increased from 4 to 6, which
-
-algorithm would be benefitted the most?
-````
-
 ## Year not stated · Exam not stated · Trim 2 · paper addb0bb69fd1
 
 - Departments: Computer Applications (MCA)
@@ -18590,6 +18694,7 @@ algorithm would be benefitted the most?
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/OPERATING SYSTEMS/operating system.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 January, 2009
 - Text: ocr (2 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS University
@@ -18633,7 +18738,6 @@ Q2 (a) What are schedulers? Discuss and compare short term , medium term
 and long term scheduling. (10)
 (b Consider the following snapshot of a system. (10)
 Allocation Max Available
-A B Cc A B Cc A B Cc
 Pe —- 0 1 0 7 5 S 3 3 2
 Pl — 2 0 0 3 2 2
 P2 — 3 0 2 9 0 2
@@ -18700,110 +18804,4 @@ Q7 Write notes on (any 3): (20)
 (v) File Management in Linux and Windows OS
 
 ye » =
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper f3e7b1898aa6
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/OPERATING SYSTEMS/OPERATING SYSTEMS B TECH (IT), FINAL EXAM0001.pdf`
-- Printed on paper: exam date: 13/05/2015
-- Text: ocr (2 pages), mean OCR confidence 88.3
-
-````text
-: SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II Semester: IV
-
-Academic Year: 2014-2015
-
-Subject: Operating Systems
-Marks:
-Date: 13/05/2015 Time :
-Duration
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-
-cover of the Answer Book, which is provided for their use.
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Attempt any four out of remaining six questions.
-
-3. In all 5 questions to be attempted
-
-4, All questions carry equal marks.
-5. Answer to each new question to be started on fresh page.
-6. Figures in bracket on the right hand side indicate full marks.
-
-Ql A __ State and explain the different operating system services.
-B Consider the following set ofsprocesses with Arrival time and the |
-in the milliseconds :
-
-ength of CPU burst time given
-
-| Process | Arrival Time | Burst Time |
-No
-
-Pl 0 8
-
-P2 1 6
-
-P3 2 6
-
-Pp4 3 2
-
-PS 4 3
-[P6 5 ||
-
-Calculate Average Turnaround Time and Average Waiting Time for SJF preemption Algorithm
-
-Q2 A __ Differentiate the following:
-i) Process and Thread
-ii) User Level thread and Kernel Level thread
-B Analyze how process state transaction happens in modern operating systems.
-
-Q3 A What is System Call? Write a detailed note on System calls.
-B What is Deadlock? Explain how one can prevent deadlock from occurrence.
-
-Q4 A Write a Detailed note on Paging.
-B Explain how Swapping helps for memory management.
-
-Q5 A Explain the concept of Virtual memory.
-B State and explain the different 1/0 services provided by Kernel.
-
-Q6 A Write a detailed note on Disk Scheduling.
-B Explain following three methods of allocating dis
-a) Continuous allocation
-b) Linked allocation
-c) Indexed allocation
-
-k space in implementation of files.
-
-4 fs
-
-+ / 4
---- page 2 ---
-Q7
-
-Write a Short note on following (Any Four)
-
-A) Page replacement algorithm
-
-B) Context switching
-
-C) Distributed Operating Systems
-D) Unix File System
-
-£) Semaphore
-
-r
-
-£
-
-[2
 ````

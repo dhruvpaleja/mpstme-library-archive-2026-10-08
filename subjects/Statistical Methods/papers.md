@@ -265,6 +265,7 @@ Using the provided dataset, determine the LDA projection vector.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_AIML_7053/Statistical Methods/QP_Statistical Methods(702BS0C085)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -431,6 +432,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_AI_7012/Statistical Methods/QP_Statistical Methods(702BS0C085)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -597,6 +599,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_CSE_DS_7057/Statistical Methods/QP_Statistical Methods(702BS0C085)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -763,6 +766,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_AI_7051/Statistical Methods/QP_Statistical Methods(702BS0C085)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -2067,6 +2071,7 @@ I TT
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE & DATA SCIENCE/STATISTICAL METHODS/Statistical Methods, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 77.0
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2254,16 +2259,12 @@ AXXXXXXXXAXAXXXXXKAXAKXAAKKXAXKAKKXKAKK
 wees uke i
 ‘ eg. . :
 - ae Wesel
-: Oe ‘adres. f wh teks season bes -
 a soaks AE
-; / hese faethe mcke gests tie: ‘gaSogit
 vous Soydh BN gesiey ears: -
 - pedgety ey
 og BER 4 LES
-a EB at nea dime doitoetonteee tah #
 : : oat Oey
 a ~ 4
-\ sptdes Pel toes 8G PRR VEEN i
 ~ ~ + - +
 i . 7 Ey
 : : wes
@@ -3141,456 +3142,7 @@ BA AR SSE Eattonk ost ER | The Best * Fe * Fee FER EEK ERE
 
 ````
 
-## 2023-24 · Final-Exam · paper 5eabce37e4f4
-
-- Departments: AI and Data Science, Artificial Intelligence, Data Science
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE & DATA SCIENCE, B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE & DATA SCIENCE/STATISTICAL METHODS/Statistical Methods, Sem-III, A Y 2023-24, Final Exam.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 21/11/2023
-- Text: ocr (6 pages), mean OCR confidence 86.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-i!
-Program: B. Tech. Year: II Semeste#* III
-Stream: Artificial Intelligence and Data Science
-Subject: Statistical Methods Time: 03 hrs (10 am to 1 pm)
-Date:21/11/2023 No. of Pages: 06
-Marks: 100 .
-
-Final Examination,
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5questions to be attempted.
-4) All questions carry equal marks. ‘
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly:
-A |Identify the continuous and discrete, ratio, nominal, ordinal interval] [5]
-variables in the given data.
-Q1 1. Hair Color: Brown, Black, Blonde, Red, Other.
-CO- 1; 2. Time of Day: dawn, morning, noon, afternoon, evening, night.
-SO- 1; 3. Temperatures in degrees Celsius at different times of the day: 35, 38,
-BL-1 20, 40, 44
-4. Number of books ona shelf.
-5._ pH levels of different solutions: 6.5, 7.2, 8.0, 5.9, 7.8
-Q1 B_ |The geometric mean of 15 measurements of a distance was initially} [5]
-CO-2 ; calculated as 24.5 units. It was later discovered that one of the
-SO- 1; measurements was wrongly recorded as 18.2 units, but it should have been
-BL-3 28.2 units. Calculate the correct geometric mean after correcting this error.
-a 4; . Comment on following result of two sandwich shops in the town, Jimmy’s Bl
-SO-1; Sandwich Shop and Fozzie’s Sandwich Emporium
-BL-3
-
-Page 1 of 6
---- page 2 ---
-Price
-Price e
-
-$e : ss @
-
-2 2 7 Toppings ‘ a Toppings
-Fozzie's Sandwich Shop Jimmy’s Sandwich Shop
-Price = $5 + $0.64(1 of toppings) Price = $5 +$1.00(# of toppings}
-
-RA2= 82%
-
-RA2 = 100%
-DE 10 6 Bi 1]
-Ql Let ¥=|1 1],¥=/0 with =|
-CO-3 ; 12 0 1
-SO- 1; ‘
-BL-3 Then show that # -| i
-Q2 A |A marketing team wants to understand consumer preferences for a new| [6]
-CO-1: food product. They randomly select five supermarkets and survey shoppers
-SO iL about their preferences upon exiting the store. Identify the sampling
-BI 1 method used in this consumer preference study. How might the choice of
-7 supermarkets affect the generalizability of the findings?
-B_ |Calculate average and S.D. of profit (in lakhs of Rs.) for different branches [6]
-Q2 of a company from the following data:
-CO-2; Profit (in lakhs) —_| 10-20 | 20-30 | 30-40 | 40-50 4
-SO-1;
-BL3 No. of branches 8 12 20 6 4 ,
-C_ |For an army personnel of strength 25, the regression of weight of kidneys| [8]
-Q2 (Y) on weight of heart (x), both measured in ounce, is Y- 0.399X - 6.934 = 0
-CO-2; and the regression of weight of heart on weight of kidney is X - 1.212Y+2.461
-SO-11; = 0. Find the correlation coefficient between X & Y and their mean values.
-BL-3 Can you find out the S.D. of X and Y as well?
-A_ |For a group of 5000 workers, the hourly wages vary from Rs. 20 to Rs. 80. [10]
-Qs The wages of 4 per cent of the workers are under Rs. 25 and those of 10 per
-CO-2; cent are under 30; 15 per cent of the workers earn Rs. 60 and over, and 5 per
-SO-1. cent of them get Rs. 70 and over. The quartile wages are Rs. 40 and Rs. 54,
-BL-3_ and the sixth decile is Rs. 50. Put this information in the form of a frequency
-
-table.
-Calculate Median, 4th Decile, 3"4 Quartile, 71th Percentile.
-
-Page 2 of 6
---- page 3 ---
-B_ |Consider the following data: i [10]
-
-Y 4 5 7 iI
-X11 {3 6 8 12
-Q3 X2_ {1 2] 6 9
-CO-3; .
-SO-1; a. Develop Y,X, $,¢ for the model.
-BL-6 b. Compute Regression Coefficients
-c. Compute Residuals
-d. Construct Regression Equation
-e. Interpret the regression Coefficient.
-
-A |Given the data in figure given below, Apply Principal Component Analysis} [12]
-(PCA) algorithm and find the first principal component axis.
-
-X2
-14 ®
-Q4 12 ces oe RL
-CO-3; | =f
-we : OF)
-4 + :
-2
-0 2 4 6 8 1012 14X,
-
-B_ |Following data relates to classes of motor vehicles based on images of those} [8]
-vehicles. Even though my eyesight is far from perfect, I can normally tell the
-difference between a car, a van, and a bus. I might not distinguish a Saab
-Car 9000 from an Opel Manta Car though. They are cars made around 30
-years ago. For compactness 100 and circularity 49, classify using. LDA.
-
-Class Compactn | Circularit
-
-ess y
-
-Q4 Van 95 48
-COS: Van 91 41
-SO-1; Van 93 a
-al Van 107 57
-Saab Car 104 41
-
-Saab Car 103 44
-
-Saab Car 106 43
-
-Where,
-
-Page 3 of 6
---- page 4 ---
-Covariance Matrix Covariance Matrix
-
-Class 1 Class 2
-50.020 33.500 21.592 -10.667
-33.500 46.250. -10.667 7.000
-
-Avg Class 1 96.5 46.75
-
-Avg Class2 | 104.33 | 42.67
-
-Global Avg | 99.857 | 45.000
-
-A_ | In the context of employee satisfaction and engagement within a [10]
-company, this study aims to examine the influence of three distinct
-leadership styles on various aspects of employee well-being and job
-performance.
-
-Treatment Matrix of sum of squares and cross products;| “2 joel
-Q5 Residual Matrix of sum of squares and cross products:[ 0 ae!
-CO-3; Degree of freedom for treatment is 2 and for residual is 5
-SO-1;
-BL-3 a. What isa MANOVA test used for?
-b. Set the Null and Alternate Hypothesis.
-c. Construct one-way MANOVA table.
-d. Apply Manova Test and Interpret the result with 7(4,8,0.01) =7.01
-e. Determine whether different leadership styles have a statistically
-significant impact on employee work-related stress levels, and
-overall job performance.
-
-B_ | Below is given the frequency distribution of wel of a group of 60 | [10]
-
-students of a class in a school:
-Weight in kg. Number of students Weight in kg. Number of students
-30—34 3 50-54 14
-Q5 ‘044 b 664 ;
-CO-2; 45—49 18
-_ a. Design the cumulative frequency table (both less than and more
--6
-
-than types)
-b. Represent them graphically on the same grid by using Ogive Curve.
-c. Hence, find the median
-d. and co-efficient of quartile deviation.
-
-Page 4 of 6
---- page 5 ---
-Q6 A ait [6]
-
-CO1-; Explain the concept of Stratified Random Sampling and provide an example
-
-SO-1; scenario.
-
-BL-2
-
-Q6 B areas 2 : ; : ; : [6]
-For a distribution the mean is 10, variance is 16, yi ist1 and £2 is 0.4.
-
-CO-2; ; Ls
-
-50-1. Calculate the first four moments about the origin (i.e. zero). Comment upon
-
-BL the nature of distribution.
-
-C__ |Imagine you are a medical researcher studying a new diagnostic test for a] [8]
-specific disease. You have following collected data of patients, including the
-results of the diagnostic test and their medical history score. Your goal is to
-determine if patients are likely to have the disease (positive diagnosis) or
-
-not (negative diagnosis) based on the diagnostic test results and medical
-history. Create a Projection Vector for LDA.
-
-Cos, | Disease | Das Medical History
-SO-1; [ic = snail URES a ees OOORCL So
-BL-6 Ee Ss RS ete See
-Yes 5 pele es noes
-Vis leeke Meret ie 1 3.
-Leena Eckel 3 |
-No _ 10 Se sh
-SCD Wiehe ee Gi ea
-Nets? | 9 | 6
-Q7 A : bs oe “es : ; . [6]
-CO-1: Discuss the application of Statistics in Environmental Science. Provide an
-SO-1 example of how statistical techniques are used to analyze environmental
-BL-2 data.
-B_ {In the following grouped data, X are the mid-values of the class intervals} [6]
-and c is a constant. If the arithmetic mean of the original distribution is
-Q7 35 84, find its class intervals.
-CO-2;
-SO-1; X-c -21 -14 -7 0 7 14 21. | TOTAL
-BL-3
-f 2 12 19 29 | 20 | 13 5 100
-Q7 Cc [8]
-CO-4; ‘ :
-SO-1: Analyze the below Multiple Regression Model.
-BL-4
-
-Page 5 of 6
---- page 6 ---
-Regression Statistics
-
-Multiple R 0.942980887
-R Square 0.889212953
-Adjusted R Square 0.85597684
-Standard Error 4312.078743
-Observations 14
-ANOVA
-Significance
-Df SS Ms a F
-Regression 3 1492416912 497472304 26.75442005 4.30416E-05
-Residual 10 © 185940230.9 18594023.09
-Total 13 1678357143
-Standard
-Coefficients Error tStat P-value
-Intercept 2905.9639 6418.852838 0.452723247 0.660411353
-Monthly Price 111.2130032 899.2948553 0.123666896 0.904029383
-Number of Movies 10.08715151 1.195217495 8.439594929 7.34801E-06
-Price of Rival -605.173348 440.7321656 _-1.37310910 0.199721303
-
-1.What is the response variable? What are the explanatory variables?
-2.What is the regression equation, based on the above output?
-3.Interpretation of the coefficients in the multiple linear regression equation
-4.Predict the number of Netflix subscribers in a country where: Monthly
-Price=8, Movies=4250, Price of Rival Platform=7.
-
-5.What are the null and alternative hypothesis for t and F test?
-
-6.What is the R square and adj R square value for this analysis, and how do
-you interpret it?
-
-7. Is this model statistically significant at the 5% level of significance? Where
-can you find the information, you need from the output?
-
-8.Explain what variable(s) (if any) in this model are good candidates for
-being removed to make a simpler model?
-
-Page 6 of 6
-````
-
-## 2023-24 · Re-Exam · Sem 4 · paper f08919c061db
-
-- Departments: Artificial Intelligence, Data Science
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/STATISTICAL METHODS/Statistical Methods , Re-exam 2022-23,2023-2024.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Mem/ 2024
-- Text: ocr (4 pages), mean OCR confidence 84.5
-
-````text
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023:2024 ~ :
-
-Program/s: BTech/MBA Tech — Year: II Semester: IV
-
-Stream/s AVAIML/AIDS/CSE DS __
-
-Subject: Statistical Methods e Time: 3 hrs (LO amto_4. pr)
-Date: 28 Mem/ 2024 | . ’ No. of Pages:4
-
-Marks: 100
-
-_.___Re-Examination (2022-23) / (2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-_. ‘the cover of the Answer Book, witich is provided for their use.
-
-1) Question No. 1 __ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-Answer briefly: ; [20]
-CO-1 ; A | Write five differences between primary and secondary data with respected to a
-SO-1; keting firm of ad °°!
-BL-1 marketing firm of a data. .
-a B_ | You are given the following data of the number of lecturers, readers and
-professors in a university:
-Length of service Lecturers . Readers Total
-. Less than Syrs. 2,000 250 2,300
-5-10 yrs. 3,000 220 3,300
-CO-1 ; 10-15 yrs. 1,500 170 1,700
-SO- 1; More than 15yrs. 880 80 1,000 [05]
-BL-3
-Total 7,380 720 8,300
-
-Work of how many lecturers, readers and professors would be selected from
-each category if we follow stratified proportionate sampling method and take
-10% of the universe equivalent of the sample size.
---- page 2 ---
-CO- 2;
-
-Explain the concept of kurtosis. Explain different types of kurtosis in normal
-
-SO- 1; distribution with diagram and Karl Pearson coefficient. [05]
-BL-2
-CO- 4; Given regression lines 2x = 8 — 3y; 2y = 5 — x, Find mean values of x and [05]
-cea vy, also find correlation coefficient. _
-Q2
-CO-1; Calculate the probability for drawing a sample of size 5 from a population of [05]
-SO-1; size 25 by considering the sampling with replacement and without replacement.
-BL-3
-CO-4; Define R? score with its inference in regression prospective. What is residual
-“SO-1; sum of square standard error (RSE), défine with formula and state the inference [05]
-BL-2 of the same. Explain the drawback of the RSE and explain how R? score
-overcomes that drawback.
-Given below is the distribution of marks obtained by 140 students in an
-examination. :
-CO-2: Marks 10- | 20- | 30- | 40-   |50- |60- | 70- 80- | 90-
-S0-1 ‘ : 19 29 39 49 59 69 79 89 | 99 [10]
-BL3 No of 7 15 18 25 30 20 16 7 2
-Students _
-Calculate the arithmetic mean and the median. Also, obtain the Mode using
-Empirical relation between all the three parameters.
-Q3 With the help of given data, find: (i) Value of middle 50% items; (ii) Value of
-CO-2: exactly 50% item; (iii) The value of 40" Percentile Pao and 6" Decile De;
-; 10
-SO-1; Class 10-14 | 15-19 | 20-24 | 25-29 | 30-34 | 35-39 _
-Interval :
-Bhat Frequency | 5 10 15 20 10. . +45
-Find correlation coefficient r between sales and purchases after obtaining the
-CO-4: regression coefficients. Also Obtain the regression equation of y on x and. then
-sO. ‘: obtain the predicted values and residuals of Purchase(y). [10]
-; Sales(x) 91 97 108 121 67 124 51 |.73 111 | 57
-BL-3
-
-Purchases(y) 71 75 69 97 70 | 91 39 | 61 80 | 47
-
-mS
-
-a
---- page 3 ---
-A. | From the following data, Obtain Multiple linear regression line of X1.on Xv
-and X3. Also find Final Score for 6 hours of study and 6 hours of sleep. °
-
-Final
-Q4 a s5| ss] 75| so) 82] 78| 90] 92] 79] 81
-CO-4; Hours [10]
-SO-1; Stade) fg als al el at et Cah ye] al 6
-BL-3 Hours :
-plex) s| 7] 6] 7| 8{| s{ 6] 7] 9] 5
-a B_ | Calculate the coefficient of skewness from the following data by using quartiles
-CO-2; and comment about the skewness of given data.
-SO-1; Marks Above | Above | Above | Above | Above | Above | Above [10]
-BL-3 0 15 30 45 60 75 90
-No of 180 160 130 100 65 20 3
-Students ;
-Q5 A | What are the assumptions underlying multivariate linear regression, and how do
-CO-3; violations of these assumptions affect the validity of the regression model? [10]
-SO-1;
-BL-2
-B_ | Compute the Linear Discriminant projection vector for the following two-
-dimensional dataset.
-CO-3; Class 0: . | Class 1:
-LSO-1; X1=[(4,1), | X2=[(9,10), [10]
-a3 (2,4), (6,8), -
-(2,3), (9,5),
-(3,6), (8,7),
-(4,4) (10,8)
-Q6 A | Write short notes on Principal component analysis and benefits of dimension
-: reduction. Apply the Principal component analysis for the data given below:
-CO-3 ) g
-SOL Xl a 1 0 __f-l [10]
-BL-3 X2 4 3 1 0.5
-Find Covariance Matrix.
-Sait B | What makes Linear Discriminant Analysis (LDA) significant? Outline the [05]
-
-BL-2
-
-merits and drawbacks associated with the use of LDA.
---- page 4 ---
-i
-
-Provide the mathematical formulation of the Within-Class Scatter Matrix (Sw)
-
-Here z is the predictor variable, yl and y2 are two response variables. Apply
-multivariate linear regression for estimation of regression coefficient vector B,
-Predicted response variable vector Y and Residual error vector €. Note the
-relation between all the parameters can be written as
-
-Y=ZP+e
-
-CO-3;
-SO-1; in linear discriminant analysis (LDA). [05]
-BL-2
-Q7 Apply the Principal component analysis for the data given below:
-Xl 4 8 13 7
-CO-3; X2 1 4 5 14 [10]
-SO-1; " te ‘ _ 714 —-11
-BL-3 Find first principal components for given S = [2 11 23
-Consider the given below data.
-; y2 -1 -1 2 3 2
-CO-3: yl 1 4 3 8 9
-BL-3 ;
-
-“~~
-````
-
-## 2022-23 · Final + Re-Exam · Sem 2 · paper 67278c8e200b
+## 2023-24 · Final + Re-Exam · Sem 2 · paper 67278c8e200b
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -3759,526 +3311,14 @@ Do the data indicate that the price in the three bie are significantly
 different at 5% LT
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 2 · paper 7068e562f41e
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/STATISTICAL METHODS/Statistical Methods, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/05/2023
-- Text: ocr (6 pages), mean OCR confidence 88.5
-
-````text
-MANAGEMENT & ENGINEERING
-
-Academic Year: 2022-2023
-Program:B.Tech Year:I Semester:II Stream :CSBS
-
-Subject:Statistical Methods Time:3 hrs(itioo am ® 2:00 pm)
-Date: 10/05/2023 No. of Pages:6
-Marks: 100
-
-Final Examination | Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their
-use.
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-7. Assume Suitable data if necessary.
-
-Q.1| (a)| Calculate the Karl Pearson coefficient of correlation for the following
-
-Say Sales ]5]6]8]3]215 s™M
-PLD Profit |}6|5)/9|4)2]95
-
-Pat (b)| For the following random samples, find the likelihood function:
-BL3 X; follows Bin(3, 6) , and we have observed (271, 72, 73,74) = (1,3,2,3)}5™
-
-C02 | (c)|In one sample of 9 items, the sum of the squares of deviations of the
-sample values from the sample mean was 160, and in another sample
-
-— of 8 observations it was 91. Test whether difference in variance is
-Bie significant at 5 % level. [critical value =3.73]
-
-(d)|Some items produced by a machine are defective. If the machine fol-
-603 lows some pattern where defective items are not randomly produced
-S50 throughout the process the machine needs to be adjusted. A quality om
-B13 control engineer wants to determine whether the sequence of defec-
-
-tive D versus good G items is random. The data are: GGGG DDD
-GGGGGG DDD GGGGGGGGGG DDDD GGGGGGGGGGG DDD
-GGGGGGGGGGG DDDD Test whether the distribution of defective
-and good items is random or not at 5% LOS.
-
-6
---- page 2 ---
-“se
-
-Q.2 |(a) Compute the average seasonal movement for the following series.
-
-Year | Quarterly Production
-
-CO2 I|mlm)] Iv 3M
-50) 1994/3.5/39134) 3.6
-BL 1995/3.514113.7| 40
-
-1996 /3.5/3913.7| 42
-
-199714.0/46/38] 45
-
-1998/41/44]l42) 45
-¢O2/|(b) From the following data, X, | 22] 15] 27/28 6M
-So| X } 121 15/171 15
-BLS” Obtain Ry.23 X3 13} 16] 17] 18
-
-CO | (c) A man buys 100 electric bulbs of each of two well-known makes taken
-
-acl
-at random from stock for testing purpose. He finds that ‘make A’ has 6M
-
-$06 a mean life of 1300 hours with SD of 82 hours, and ‘make B’ has a
-BL4 mean life of 1248 hours with SD of 93 hours. Discuss the significance
-of these results.
-Z Q.3 (a) Explain the stratified random sampling with example.
-5 Mention advantages of it.
-co | (b) The following table shows the marks obtained by 10 students in Ac-| &™
-503 countancy and Statistics. Find the Spearman’s coefficient of rank
-LS correlation.
-B No 1}/2)3;)4/)5}]6;7/)81]9 1] 10 6M
-Mathematics | 45 | 70 | 65 | 30 | 90 | 40] 50] 571 85 | 60
-Statistics 35 | 90 | 70 | 40 | 95 | 40 | 60 | 80] 80 | 60 =
-(c) Let X1 , Xo, ..., X, be a random sample from Poisson(@) then
-cO| n
-50! T(X) = D0 6m
-BLD ~
-
-is complete.
-
-2/6
---- page 3 ---
-Q.4 (a)}For the following data, calculate 4 yearly centered moving average
-trend values
-
-Year | Sales (in lakhs) | Year | Sales (in lakhs)
-
-2010 5 2016 9
-2011 3 2017 10
-2012 7 2018 8
-2013 6 2019 9
-2014 4 2020 9
-2015 8
-
-(b)| Experience has shown that 20% of manufactured product is of top
-quality. In one day’s production if 400 articles, only 50 are of top
-quality. Show that the production of the day chosen was not. a repre-
-sentative sample or the hypothesis of 20% was wrong.
-
-(c)| The following data relate to the daily production: of cement a large
-plant of 30 days: 11.5,10.0,11.2,10.0,12.3,11.1,10.2,9.6,8.7,9.3, 9.3,10.7,
-11.3,10.4,11.4,12.3,11.4,10.2,11.6,9.5, 10.8,11.9,12.4,9.6,10.5,11.6,8.3,9.3,
-10.4,11.5. Use sign test to test the null hypothesis that the plant’s
-
-average daily production of cements is 11.0 m. tonnes at the 0.05
-LOS level.
-
-Q.5 (a)|Table below shows the first two grades (denoted by X and Y respec-
-tively) of 10 students on two short quizzes in biology
-
-grade of quiz 1 (X)/}1/5/8/6/9|7/9|]8/7/6
-grade of quiz 2 (Y)|4/9/5/7/9|8]8]6]4;,8
-
-i. Find the least square regression line X on Y.
-
-ii. Estimate grade of student in first quiz who received grade as 9 in
-second quiz.
-
-(b)| Let X, , X2 , ..., X, be a random sample from a normal distribution
-with mean pw and variance equal to 1. Find a sufficient statistic for
-the parameter ju.
-
-(c)} Theory predicts that proportion of beans in 4 groups A, B, C, D should
-be 10:5:3:2. In an experiment among 2000 beans, the numbers in the
-4 groups were 1082, 513, 287 & 118.Can we say at 5% LOS that the
-experiment support the theory? Use y? test to verify claim.
-
-1x3.0.05 = 7.82]
-
-3/6
-
-eM
-
-6é)
-
-gM
-
-6m
-
-6M
---- page 4 ---
-Q.6 (a)|The mean height and the SD height of 8 randomly chosen soldiers
-
-(o3 jare 166.9 and 8.29 cm respectively. The corresponding values of 6 aM
-
-¢og_ |randomly chosen sailors are 170.3 and 8.50 cm respectively. Based on
-
-BL4 this data can we conclude that soldiers are in general shorter than
-sailors? LOS 5%
-
-(b)| A large number of light bulbs was turned on continuously to determine
-
-¢o2. |the average number of days a bulb can last. The study revealed that
-éol the average lifetime of a bulb is 120 days with a standard deviation E mM
-
-BL3 of 10 days. If the lifetimes are assumed to be independent normal
-
-random variables, find the confidence limits for a confidence level of
-
-90% on the sample mean that is computed from a sample size of 64.
-
-(c)| Consider a sequence of 5 numbers 0.33,0.92,0.17,0.68,0.65.
-
-eal Given a = 0.05, Dy = 0.565 . 56M
-Test whether the null hypothesis of uniformity can be rejected by using 4
-BLé K-S test. ;
-
-Q.7 (a)|'To assess the significance of possible variations in performance in a
-certain test between the convent schools of a city, a common test was
-given. The results are given below. Make an analysis of variance of
-C02 |the data at 5% of LOS 12M
-$03 ||/A|B|C/D
-BLS 9 | 12 | 18} 13
-
-10} 11]12) 9
-12) 9 | 16} 12
-10) 14) 6 | 16
-7|4)8 415
-
-(b)| Two random samples gave the following data:
-
-Size | Mean | Variance
-SampleI | 8 | 9.6 12 38M
-s0\ Sample II| 11 | 16.5 2.5
-
-BL4 - | Can we conclude that the two samples have been drawn from the same
-normal population?
-
-co3
-
-4/6
---- page 5 ---
-11
-12
-13
-14
-15
-
-16
-17
-18
-19
-20
-
-21
-22
-23
-24
-25
-
-26
-ar
-28
-29
-30
-
-t- table
-
-« Level of significance (a) >
-
-0.05 0.025 0.01
-6.3138 12.7062 31.8205
-2.9200 4.3027 6.9646
-2.3534 3.1824 4.5407
-2.1318 2.7764 3.7469
-2.0150 2.5706 3.3649
-1.9432 2.4469 3.1427
-1.8946 2.3646 2.9980
-1.8595 2.3060 2.8965
-1.8331 2.2622 2.8214
-1.8125 2.2281 2.7638
-1.7959 2.2010 2.7181
-1.7823 2.1788 2.6810
-1.7709 2.1604 2.6503
-1.7613 2.1448 2.6245
-1.7531 2.1314 2.6025
-1.7459 2.1199 2.5835
-1.7396 2.1098 2.5669
-1.7341 2.1009 2.5524
-1.7291 2.0930 2.5395
-1.7247 2.0860 2.5280
-1.7207 2.0796 2.5176
-1.7171 2.0739 2.5083
-1.7139 2.0687 2.4999
-1.7109 2.0639 2.4922
-1.7081 2.0595 2.4851
-1.7056 2.0555 2.4786
-1.7033 2.0518 2.4727
-1.7011 2.0484 2.4671
-1.6991 2.0452 2.4620
-1.6973 2.0423 2.4573
-1.6449 1.9600 2.3264
-
-5/6
-
-0.005
-63.6567
-9.9248
-5.8409
-4.6041
-4.0321
-
-3.7074
-3.4995
-3.3554
-3.2498
-3.1693
-
-3.1058
-3.0545
-3.0123
-2.9768
-2.9467
-
-2.9208
-2.8982
-2.8784
-2.8609
-2.8453
-
-2.8314
-2.8188
-2.8073
-2.7969
-2.7874
-
-2.7787
-2.7707
-2.7633
-2.7564
-2.7500
-
-2.5758
---- page 6 ---
-1
-
-10
-241.8817
-19.3959
-8.7855
-5.9644
-4.7351
-
-4.0600
-3.6365
-3.3472
-3.1373
-2.9782
-
-2.8536
-2.7534
-2.6710
-2.6022
-2.5437
-
-2.4935
-2.4499
-24117
-2.3779
-2.3479
-
-2.3210
-2.2967
-2.2747
-2.2547
-2.2365
-
-2.1846
-2.0772
-1.9926
-1.9105
-1.8339
-
-F- table
-
-© Degrees of Freedom for the Numerator =
-
-12 15 20
-243.9060 245.9499 248.0131
-19.4125 194291 194458
-8.7446 8.7029 8.6602
-5.9117 5.8578 5.8025
-48777 4.6188 4.5581
-
-3.9999 3.9381 3.8742
-3.5747 3.5107 3.4445
-3.2839 3.2184 3.1503
-3.0729 3.0061 2.9365
-2.9130 2.8450 2.7740
-
-2.7876 2.7186 2.6464
-2.6866 2.6169 2.5436
-2.6037 2.5331 2.4589
-2.5342 2.4630 2.3879
-2.4753 2.4034 2.3275
-
-2.4247 2.3522 2.2756
-2.3807 2.3077 2.2304
-2.3421 2.2686 2.1906
-2.3080 2.2341 2.1555
-2.2776 2.2033 2.1242
-
-2.2504 2.1757 2.0960
-2.2258 2.1508 2.0707
-2.2036 2.1282 20476
-2.1834 2.1077 2.0267
-2.1649 2.0889 2.0075
-
-2.0921 2.0148 1.9317
-2.0035 1.9245 1.8389
-1.9174 1.8364 1.7480
-1.8337 1.7505 1.6587
-1.7554 1.6697 1.5740
-
-25
-249.2601
-19.4558
-8.6341
-5.7687
-4.5209
-
-3.8348
-3.4036
-3.1081
-2.8932
-2.7298
-
-2.6014
-24977
-2.4123
-23407
-2.2797
-
-2.2272
-2.1815
-2.1413
-2.1057
-2.0739
-
-2.0454
-2.0196
-1.9963
-1.9750
-1.9554
-
-1.8782
-1.7835
-1.6902
-1.5980
-1.5098
-
-30
-250.0951
-19.4624
-8.6166
-5.7459
-4.4957
-
-3.8082
-3.3758
-3.0794
-2.8637
-2.6996
-
-2.5705
-24663
-2.3803
-2.3082
-2.2468
-
-2.1938
-2.1477
-2.1071
-2.0712
-2.0391
-
-2.0102
-1.9842
-1.9605
-1.9390
-1.9192
-
-1.8409
-1.7444
-1.6491
-1.5543
-1.4629
-
-40 60 120
-251.1432 252.1957 253.2529
-19.4707 19.4781 19.4874
-
-8.5944 8.5720 8.5494
-5.7170 5.6877 5.6581
-4.4638 4.4314 4.3985
-
-3.7743 3.7398 3.7047
-3.3404 3.3043 3.2674
-3.0428 3.0053 2.9669
-2.8259 2.7872 2.7475
-2.6609 2.6211 2.5801
-
-2.5309 2.4901 2.4480
-24259 2.3842 2.3410
-2.3392 2.2966 2.2524
-2.2664 2.2229 2.1778
-2.2043 2.1601 2.1141
-
-2.1507 2.1058 2.0589
-2.1040 2.0584 2.0107
-2.0629 2.0166 1.9681
-2.0264 1.9795 1.9302
-1.9938 1.9464 1.8963
-
-1.9645 1.9165 1.8657
-1.9380 1.8894 1.8380
-1.9139 1.8648 1.8128
-1.8920 1.8424 1.7896
-1.8718 1.8217 1.7684
-
-1.7918 1.7396 1.6835
-1.6928 1.6373 1.5766
-1.5943 1.5343 1.4673
-1.4952 1.4290 1.3519
-1.3981 1.3227 1.2272
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 97c6c6e3783d
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 97c6c6e3783d
 
 - Departments: Artificial Intelligence
 - Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/STATISTICAL METHODS/Statistical Methods, Sem-IV, Final Exam & Re Exam 2022-23.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 87.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 AL,
@@ -4316,7 +3356,6 @@ Answer briefly: [20]
 CO-1; A | What do you mean by classification of data? Discuss in brief the guiding 05]
 pl: principles of classification?
 B | You are given the following data in a village.
-Income (Rs) Carpenters Plumbers Electrician
 Less than 50,000 1,100 1250 1900
 50000 — 100,000 2,050 2320 2200
 5 OD a a a em
@@ -4441,781 +3480,285 @@ relation between all the parameters can be written as
 Y=ZBp+e
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper d841d02dfd0c
+## 2023-24 · Final-Exam · paper 5eabce37e4f4
 
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/STATISTICAL METHODS/Statistical Methods,Final ,Re-exam 2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 3/05/2023
-- Text: ocr (6 pages), mean OCR confidence 87.4
+- Departments: AI and Data Science, Artificial Intelligence, Data Science
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE & DATA SCIENCE, B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE & DATA SCIENCE/STATISTICAL METHODS/Statistical Methods, Sem-III, A Y 2023-24, Final Exam.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 21/11/2023
+- Text: ocr (6 pages), mean OCR confidence 86.4
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-aon
-
-">
-
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
 
-B.Tech/ MBA Tech. Stream: B.Tech Al, AI ML, AI DS, Year: II Semester: IV
-MBA Tech AI
-Subject: Statistical Methods Time: 03 hrs. (10 am to 1 pm)
-Date: 3/05/2023 No. of Pages: 6
-Marks: 100
+i!
+Program: B. Tech. Year: II Semeste#* III
+Stream: Artificial Intelligence and Data Science
+Subject: Statistical Methods Time: 03 hrs (10 am to 1 pm)
+Date:21/11/2023 No. of Pages: 06
+Marks: 100 .
 
-Final Examination | Re- Examination .
-
-Instructions: Candidates should read carefully the instructions printed on the question paperand on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
+Final Examination,
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
 2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
+3) In all 5questions to be attempted.
+4) All questions carry equal marks. ‘
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right-hand side indicate full marks.
-
 7) Assume Suitable data if necessary.
 
-Q1 | Answer briefly:
+Ql Answer briefly:
+A |Identify the continuous and discrete, ratio, nominal, ordinal interval] [5]
+variables in the given data.
+Q1 1. Hair Color: Brown, Black, Blonde, Red, Other.
+CO- 1; 2. Time of Day: dawn, morning, noon, afternoon, evening, night.
+SO- 1; 3. Temperatures in degrees Celsius at different times of the day: 35, 38,
+BL-1 20, 40, 44
+4. Number of books ona shelf.
+5._ pH levels of different solutions: 6.5, 7.2, 8.0, 5.9, 7.8
+Q1 B_ |The geometric mean of 15 measurements of a distance was initially} [5]
+CO-2 ; calculated as 24.5 units. It was later discovered that one of the
+SO- 1; measurements was wrongly recorded as 18.2 units, but it should have been
+BL-3 28.2 units. Calculate the correct geometric mean after correcting this error.
+a 4; . Comment on following result of two sandwich shops in the town, Jimmy’s Bl
+BL-3
 
-co: 1 A | A quality satisfaction survey was asked to their patients after the patient is
-SO: 1 released. The following type of questions are sometimes asked in the survey.
-BL: 1 : ‘ ;
-These questions will result in what level of data measurement
-nominal/ordinal/ratio/interval/continuous/discrete)?
-
-i) Weight during admission?
-
-ii) Age of the patient
-
-iii) Patient ID
-
-iv) 4. Which type of unit were you in for most of your stay?
-
-e Intensive care
-
-e Maternity care
-
-e Surgical unit
-
-v) 5. How serious was your condition when you were first admitted to the
-
-hospital
-e Critical
-¢ Moderate
-
-e Minor
-
-[04]
+Page 1 of 6
 --- page 2 ---
-CO:4 B Linear Regression can only be considered as fit for the data with linear [04]
-SO:1 relationships. For the given datasets, identify the one that fits the linear
-BL:4 regression ? Justify
-* ° a =| we
-< Oe octoe
-ne aes Ys on e
-of ee |
-a Ls” ° woe
-4 6 8 0 2 m4 OG t oa wm Mw te
-xt x2
-12 - 24 Pad
-0 a * we
-Qe oo . xa H a
-si Pra 8
-4 »
-4 6 8 2 4 18 1B 4h 6 8 Ww 416 8
-3 x4
-CO: 4 C_ [For the given regression equation: Y = 68.63 — 0.07 * X [04]
-. 3 (Compute the residual for predicting the weight.
-Height in cm Weight in Kgs
-130 55
-135 56
-140 62
-142 63
-147 63
-156 51
-ln
-CO:2 SO:1| D_ {The results of 41 students' math tests (with a best possible score of 70) are [04]
+Price
+Price e
 
-BL:2 recorded below:
+$e : ss @
 
-B1, 49, 19, 62, 50, 24, 45, 23, 51, 32, 48, 55, 60, 40, 35, 54, 26, 57, 37, 43, 65, 50,
-55, 18, 53, 41, 50, 34, 67, 56, 44, 4, 54, 57, 39, 52, 45, 35, 51, 63, 42
+2 2 7 Toppings ‘ a Toppings
+Price = $5 + $0.64(1 of toppings) Price = $5 +$1.00(# of toppings}
 
-1. Is the variable discrete or continuous? Explain.
+RA2= 82%
 
-2. Prepare an ordered stem and leaf plot for the data
+RA2 = 100%
+DE 10 6 Bi 1]
+Ql Let ¥=|1 1],¥=/0 with =|
+CO-3 ; 12 0 1
+SO- 1; ‘
+BL-3 Then show that # -| i
+Q2 A |A marketing team wants to understand consumer preferences for a new| [6]
+CO-1: food product. They randomly select five supermarkets and survey shoppers
+SO iL about their preferences upon exiting the store. Identify the sampling
+BI 1 method used in this consumer preference study. How might the choice of
+7 supermarkets affect the generalizability of the findings?
+B_ |Calculate average and S.D. of profit (in lakhs of Rs.) for different branches [6]
+Q2 of a company from the following data:
+CO-2; Profit (in lakhs) —_| 10-20 | 20-30 | 30-40 | 40-50 4
+SO-1;
+BL3 No. of branches 8 12 20 6 4 ,
+C_ |For an army personnel of strength 25, the regression of weight of kidneys| [8]
+Q2 (Y) on weight of heart (x), both measured in ounce, is Y- 0.399X - 6.934 = 0
+CO-2; and the regression of weight of heart on weight of kidney is X - 1.212Y+2.461
+SO-11; = 0. Find the correlation coefficient between X & Y and their mean values.
+BL-3 Can you find out the S.D. of X and Y as well?
+A_ |For a group of 5000 workers, the hourly wages vary from Rs. 20 to Rs. 80. [10]
+Qs The wages of 4 per cent of the workers are under Rs. 25 and those of 10 per
+CO-2; cent are under 30; 15 per cent of the workers earn Rs. 60 and over, and 5 per
+SO-1. cent of them get Rs. 70 and over. The quartile wages are Rs. 40 and Rs. 54,
+BL-3_ and the sixth decile is Rs. 50. Put this information in the form of a frequency
 
-3. Are there any outliers? If so, which scores?
+table.
+Calculate Median, 4th Decile, 3"4 Quartile, 71th Percentile.
 
-4. From the stem and leaf plot, determine the level of difficulty of the
-exam
+Page 2 of 6
 --- page 3 ---
-Vom
+B_ |Consider the following data: i [10]
 
-CO:1 SO:1) E
-BL:1
+Y 4 5 7 iI
+X11 {3 6 8 12
+Q3 X2_ {1 2] 6 9
+CO-3; .
+SO-1; a. Develop Y,X, $,¢ for the model.
+BL-6 b. Compute Regression Coefficients
+c. Compute Residuals
+d. Construct Regression Equation
+e. Interpret the regression Coefficient.
 
-Which type of sampling would be most appropriate in each case. Justify
+A |Given the data in figure given below, Apply Principal Component Analysis} [12]
+(PCA) algorithm and find the first principal component axis.
 
-i) Lata has a sampling frame of all the people who are members of a club.
-She gives each member a unique reference number and uses a random
-number generator to select the sample.
+X2
+14 ®
+Q4 12 ces oe RL
+CO-3; | =f
+we : OF)
+4 + :
+2
+0 2 4 6 8 1012 14X,
 
-ii) A researcher is carrying out a survey. He would like to find out how many
-miles people drive per day. He divides the population into a two-way table
-and calculates the proportion of each category required for his sample.
-Which sampling technique is the researcher using?
+B_ |Following data relates to classes of motor vehicles based on images of those} [8]
+vehicles. Even though my eyesight is far from perfect, I can normally tell the
+difference between a car, a van, and a bus. I might not distinguish a Saab
+Car 9000 from an Opel Manta Car though. They are cars made around 30
+years ago. For compactness 100 and circularity 49, classify using. LDA.
 
-[04]
+Class Compactn | Circularit
 
-Q2
+ess y
 
-CO:4 A
-SO:2 BL:3
+Q4 Van 95 48
+COS: Van 91 41
+SO-1; Van 93 a
+al Van 107 57
+Saab Car 104 41
 
-The following table gives the details of advertising expenses in lakhs (X) and
-Sales in crores (Y).
+Saab Car 103 44
 
-Sales (crores 14 | 16 | 18 | 20 | 24 | 30 | 32
-Adv Exp (lakhs) | 52 | 62 | 65 | 70 | 76 | 80 | 78
+Saab Car 106 43
 
-i) Calculate the two regression coefficients.
+Where,
 
-ii) Find the regression equation and correlation coefficient
-
-iii) Estimate the Sales for advertising expenses of Rs 100 lakhs
-and the advertising expenditure for sales of Rs 45 crores.
-
-{10}
-
-CO:4 SO:2) B
-BL:4
-
-[Find the expense on food and entertainment if the expense on accommodation is
-IRs 200. Determine the regression equation of expense on accommodation on
-lexpense of food and entertainment.
-
-(Given: Correlation coefficient of 0.57
-
-Mean in Rs | SD
-Expense on 173 63.15
-accommodation
-Expense on food and 47.8 22.98
-entertainment
-
-[5]
-
-CO:2 SO:1] C
-BL:2
-
-The following table gives the frequency distribution of the weekly wages (in ’00
-Rs.) of 100 workers in a factory. Draw the histogram and frequency polygon of
-the distribution.
-
-Weekly 20-24 | 25-29 | 30-34 | 35-39 | 40-44 | 49-50 | 50-54
-Wages
-
-(00 Rs.)
-
-Number of | 4 Ss 12 23 31 10 8
-Workers
-
-[5]
+Page 3 of 6
 --- page 4 ---
-Q3
+Covariance Matrix Covariance Matrix
 
-CO:2 SO:6 A [In 500 small scale units, the return on investment ranged from 0 to 30 per cent, no [8]
-BL:5 junit sustaining any loss. Five per cent of the units had returns ranging from zero pe
+Class 1 Class 2
+50.020 33.500 21.592 -10.667
+33.500 46.250. -10.667 7.000
 
-cent to 5 per cent, 15 per cent of the units earned returns between 5 per cent and 10)
+Avg Class 1 96.5 46.75
 
-lper cent. The median rate of return was 15 per cent and the upper quartile was 20
+Avg Class2 | 104.33 | 42.67
 
-lper cent. The uppermost layer of returns of 25-30 per cent was earned by 50 units]
+Global Avg | 99.857 | 45.000
 
-[Express the above data in the form of frequency table and find the rate of return
+A_ | In the context of employee satisfaction and engagement within a [10]
+company, this study aims to examine the influence of three distinct
+leadership styles on various aspects of employee well-being and job
+performance.
 
-around which there is maximum concentration of units.
+Treatment Matrix of sum of squares and cross products;| “2 joel
+Q5 Residual Matrix of sum of squares and cross products:[ 0 ae!
+CO-3; Degree of freedom for treatment is 2 and for residual is 5
+SO-1;
+BL-3 a. What isa MANOVA test used for?
+b. Set the Null and Alternate Hypothesis.
+c. Construct one-way MANOVA table.
+d. Apply Manova Test and Interpret the result with 7(4,8,0.01) =7.01
+e. Determine whether different leadership styles have a statistically
+significant impact on employee work-related stress levels, and
+overall job performance.
 
-CO:3 SO:6 B_ |Apply the principal component analysis to find the principal component for the [12]
-BL:3 \data given below:
-i 3 2 2)
-Y'=
-24 5 |
-Q4
-CO:3 SO:6 A | Given the data in table, reduce the dimension from 2 to 1 using principal [10]
-BL:4 Component Analysis algorithm ,
-Feature Example | Example 2 Example 3 Example 4
-X1 4 8 13 7
-X2 i 4 5 14
-CO:4 SO:1| B__ |Find the multiple linear regression equation of Yield of rice (X3) on [10]
-BL:3 IRainfall (X2) and Fertilizers (X3) from the following data :
-(Compute the yield of rice (X3), when the rainfall is 10 and fertilizer is 6.
-[Xl 3 [5 [6 [8 [12 [14
-X2 16 10 7 4 3 2
-x3 90 72 54 42 30 12
-Q5
-CO:2 SO:1| A |The following table gives the distribution of monthly income of 600 families in a [10]
-BL:3 certain city.
-Monthly | Below | 75- 150- | 225- | 300- | 375- | 450 and
-Income 75 150 225 | 300 375 450 above
-(00 Rs.)
-No of 60 170 200 | 60 50 40 20
-families
-i) Compute mean median and mode of income.
-ii) Comment on Skewness
+B_ | Below is given the frequency distribution of wel of a group of 60 | [10]
 
-iii) Draw a ‘less than’ and a ‘more than’ ogive curve for the above data
-and compute the median income from the graphs.
+students of a class in a school:
+Weight in kg. Number of students Weight in kg. Number of students
+30—34 3 50-54 14
+Q5 ‘044 b 664 ;
+CO-2; 45—49 18
+_ a. Design the cumulative frequency table (both less than and more
+-6
+
+than types)
+b. Represent them graphically on the same grid by using Ogive Curve.
+c. Hence, find the median
+d. and co-efficient of quartile deviation.
+
+Page 4 of 6
 --- page 5 ---
-ao
+Q6 A ait [6]
 
-CO:3 SO:6 B_ {Table lists the ratings of the new mixer on these two characteristics (at a specified [10]
-BL:3 price) by a panel of 10 potential purchasers. In rating the food mixer, each panel
-Imember is implicitly comparing it with products already on the market. After the}
-product was evaluated based on durability (X1) and performance (X2), the|
-levaluators were asked to state their buying intentions (“would purchase” or “would|
-Inot purchase”). Five stated that they would purchase the new mixer and five said
-they would not. Compute the Linear Discriminant projection for the following two
-dimensional dataset.
-_ [8 6 10 9 4
-BL eS [5 3 4 22
-_ [9 7 6 48
-ial le 7 5 4 al
-Q6
-CO:3 SO:2} A [Consider the following data: [10]
-BL:3
-¥ 100 | 90 80 70 60
-X1 110 | 120 | 100 | 90 80
-X2 40 30 20 0 10
-i) Develop Y, X, B, e for the Model
-ii) Compute regression coefficients, residuals, SSE, SE.
-iii) Construct the regression equation.
-iv) Predict Y when X1 = 105 and X2 =25
-CO:3 SO:6 B   |Compute the Linear Discriminant projection for the following two dimensional [10]
-BLS dataset.
-4 2 9 10
-2 4 6 68
-X1=]2 3 X2=|9 5
-3 6 8 7
-4 4 10 8
-Q7
-CO:2 SO:1) A |Calculate the arithmetic mean and median for the following frequency distribution [08]
-BL:3 f weight in grams of mangoes of a given variety? Under what conditions is
+CO1-; Explain the concept of Stratified Random Sampling and provide an example
 
-median is more suitable than other measures of central tendency.
+SO-1; scenario.
 
-Weight in 410- | 420- | 430- 440- 450- 460- 470-
-grams 419 | 429 | 439 449 459 469 479
-Number of | 14 20 42 54 45 18 7
-Mangoes
+BL-2
+
+Q6 B areas 2 : ; : ; : [6]
+For a distribution the mean is 10, variance is 16, yi ist1 and £2 is 0.4.
+
+CO-2; ; Ls
+
+50-1. Calculate the first four moments about the origin (i.e. zero). Comment upon
+
+BL the nature of distribution.
+
+C__ |Imagine you are a medical researcher studying a new diagnostic test for a] [8]
+specific disease. You have following collected data of patients, including the
+results of the diagnostic test and their medical history score. Your goal is to
+determine if patients are likely to have the disease (positive diagnosis) or
+
+not (negative diagnosis) based on the diagnostic test results and medical
+history. Create a Projection Vector for LDA.
+
+Cos, | Disease | Das Medical History
+BL-6 Ee Ss RS ete See
+Yes 5 pele es noes
+Vis leeke Meret ie 1 3.
+Leena Eckel 3 |
+No _ 10 Se sh
+SCD Wiehe ee Gi ea
+Nets? | 9 | 6
+Q7 A : bs oe “es : ; . [6]
+CO-1: Discuss the application of Statistics in Environmental Science. Provide an
+SO-1 example of how statistical techniques are used to analyze environmental
+BL-2 data.
+B_ {In the following grouped data, X are the mid-values of the class intervals} [6]
+and c is a constant. If the arithmetic mean of the original distribution is
+Q7 35 84, find its class intervals.
+CO-2;
+SO-1; X-c -21 -14 -7 0 7 14 21. | TOTAL
+BL-3
+f 2 12 19 29 | 20 | 13 5 100
+Q7 Cc [8]
+CO-4; ‘ :
+SO-1: Analyze the below Multiple Regression Model.
+BL-4
+
+Page 5 of 6
 --- page 6 ---
-CO:3 SO:6 B__|Consider the following with respect to DV, Y’s [12]
-BL:3
+Regression Statistics
 
-DV: Y1 DV: Y2
+Multiple R 0.942980887
+R Square 0.889212953
+Adjusted R Square 0.85597684
+Standard Error 4312.078743
+Observations 14
+ANOVA
+Significance
+Df SS Ms a F
+Regression 3 1492416912 497472304 26.75442005 4.30416E-05
+Residual 10 © 185940230.9 18594023.09
+Total 13 1678357143
+Standard
+Coefficients Error tStat P-value
+Intercept 2905.9639 6418.852838 0.452723247 0.660411353
+Monthly Price 111.2130032 899.2948553 0.123666896 0.904029383
+Number of Movies 10.08715151 1.195217495 8.439594929 7.34801E-06
+Price of Rival -605.173348 440.7321656 _-1.37310910 0.199721303
 
-Population 1: 9, 6, 9 Population 1: 3, 2,7
+1.What is the response variable? What are the explanatory variables?
+2.What is the regression equation, based on the above output?
+3.Interpretation of the coefficients in the multiple linear regression equation
+4.Predict the number of Netflix subscribers in a country where: Monthly
+Price=8, Movies=4250, Price of Rival Platform=7.
 
-Population 2: 0, 2 Population 2 : 4, 0
+5.What are the null and alternative hypothesis for t and F test?
 
-Population 3: 3, 1, 2 Population 3 : 8, 9,7
+6.What is the R square and adj R square value for this analysis, and how do
+you interpret it?
 
-Construct suitable MANOVA Table.
-(Apply MANOVA test and infer the result. F(4,8,0.01)=7.01
+7. Is this model statistically significant at the 5% level of significance? Where
+can you find the information, you need from the output?
+
+8.Explain what variable(s) (if any) in this model are good candidates for
+being removed to make a simpler model?
+
+Page 6 of 6
 ````
 
-## 2022-23 · Re-Exam · Sem 2 · paper d8ff983feda7
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/STATISTICAL METHODS/Statistical Methods Sem-II, Batch 2020-21, 21-22, 22-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26 June 2023
-- Text: ocr (7 pages), mean OCR confidence 85.3
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY
-MANAGEMENT & ENGINEERING i
-
-Academic Year: 2022-2023
-Program:B.Tech Year:I Semester:II Stream :CSBS
-
-Subject:Statistical Methods Time:3 hrs@pmtoSpn)
-Date: 26 June 2023 No. of Pages:7
-Marks: 100
-
-Re- Examination (2020-21/2021-22/2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their
-
-use.
-~
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-7. Assume Suitable data if necessary.
-
-r ;
-Q.1| (a)| Calculate the rank correlation coefficient from the following data
-COL. which shows ranks of each variable.
-
-_ (so! Subject] A] B|C]D|]E]|F s™M
-© |pBL2 Age | 43 | 48 | 56 | 61 | 67 | 70
-
-~ Pressure | 128 | 120 | 135 | 143 | 141 | 152
-(b)| A coin is flipped 100 times. Given that there were 60 heads, find om
-
-a maximum likelihood estimate for probability p of heads on a single
-RL3 toss.
-(c)|The mean height of a random sample of 100 individuals from a
-C03 population is 160. Standard deviation of the sample is 10. Would 5™M
-50| it be reasonable to suppose that the mean height of the population
-BL2 is 165?
-(d)| As part of a market research study, a sample of 36 consumers were
-C03 asked to taste two brands of ketchup and indicate a preference.| S M
-50) Do the data shown following indicate a significant difference in the
-BL3 consumer preferences for the two brands?
-
-i/F
---- page 2 ---
-18 preferred Brand A Ketchup (+ sign recorded)
-12 preferred Brand B Ketchup (— sign recorded)
-
-?
-
-6 had no preference
-
-Q.2|(a)}Calculate the three monthly moving average from the following
-
-data:
-poe Jan | Feb | Mar | Apr | May | June 2m
-4 57 | 65 | 63 | 72 | 69 78
-BL July | Aug | Sept | Oct | Nov | Dec
-82 | 81 | 90 | 92 | 95 97
-(b)| In partially destroyed laboratory record of an analysis of correla-
-CO2.: tion data, the following results only are legible- Variance of X = 9, 6™
-SO) regression equations are: 8X-10Y + 66 = 0 & 40X-18Y = 214 en
-Cc
-Bt i. the mean of X and Y ii. correlation between X and Y
-(c)} Samples of two types of electric bulbs were tested for length of life
-and the following data were obtained:
-col Size} Mean | SD 6™
-S06 Samplel | 8 | 1234h| 36h
-BL4 Sample IT] 7 | 1036 h | 40h
-Is the difference in the means sufficient to warrant that type 1 bulbs
-are superior to type 2 bulbs? LOS 5%.
-Q.3 |(a)| Explain simple random sampling with and without replacement.
-col Suppose a finite population contains 9 items and 4 are selected 3”
-$03 at random with replacement, then find the number of all possible &
-RL samples.
-(b)} Consider the data of Maths marks, duration of study and Physics
-marks obtained by 10 students given in the table below:
-co3 Sr. no i[2[3/4[5|6|7|8[9|10 6M
-sot Maths 15] 18]13}14]19}11]17/] 20} 10] 16
-BL6 duration of study; 6} 3/8/6]2);3,4|4 {57
-Physics 25 | 29 | 27 | 24 | 30 | 21 | 26 | 31 | 20 | 25
-
-Compute the partial correlation between Maths marks and duration
-of study partialled out Physics.
-
-Let Xy, Xo, ...,X, denote a random sample from a Poisson distri- 6M
-bution with parameter \ > 0. Find a sufficient statistic for the
-parameter A.
-
-co! (c)
-501
-BLL
-
-2/7
---- page 3 ---
-Q.4} (a)| Calculate seasonal index from the following data using average method
-
-(02 Year | lst Quarter | 2nd Quarter | 3rd Quarter | 4th Quarter
-2016 72 68 80 "70 :
-50] 2017 76 70 82 74 8M
-BLL 2018 74 66 84 80
-2019 76 74 84 78
-2020 78 74 86 82
-C03 | (b)| Tests made on the breaking strength of 10 pieces of a metal gave
-Sl the following results: 588, 572, 590, 568, 572, 570, 570, 572, 600 and | 4M
-BL2 584 kg. Test if mean breaking strength of wire can be assumed as
-‘ 569 ke.
-(c)| Consider the data obtained in a study of age and systolic blood
-(03 pressure of seven randomly selected subjects:
-S02 Subject | A] B}|C]D|]E|]F{G 6M
-BL4 Age 43 | 48 | 56 | 61 | 67 | 70 | 72
-Pressure | 128 | 120 | 135 | 143 | 141 | 152 | 148
-Test whether there is any significance correlation between age and
-blood pressure.
-Q.5| (a)} A computer while calculating correlation coefficient between two
-variables X and Y from 25 pairs of observations obtained the fol-
-C02. lowing results n = 25, )7X = 125, )> X? = 650 SY = 100, 2M
-sol dS Y? = 460, > XY = 508. It was however later discovered at the |
-¢S time of checking that he had copied down two pairs as
-BL X| Y X|Y
-6 | 14 | while correct values were} 8 | 12
-8 | 6 6| 8
-Obtain the correct value of correlation coefficient.
-(b)| Show that the family f(z, 6) of pdf where
-(0) 5M
-$0] f(x, 9) ‘e (19) “ee 7 is complete.
-elsewhere
-BL3
-
-3/#%
---- page 4 ---
-(c)
-
-Ten workers were given on the job training with a view to shorten
-their assembly time for a certain mechanism. The results of the
-time and motion studies before and after the training,program are
-
-(03 given below: 7
-$02 Worker[I]2. [3.14 [5 |6 [7 [8 [9 [10
-Before [61 [62 [55 |62 [59 [74 [62 |57 [64 | 62 6M
-B14 After [59 [63 [52 [54 [59 |70 [67 [65 [59 [71
-Is there evidence that the training program has shortened the aver-
-age assembly time? Use Wilcoxon signed rankl test to verify your
-claim LOS 5% [critical value is 8.]
-Q.6] (a)| Before an increase in excise duty on tea, 800 people out of a sample
-C03 of 1000 were consumers of tea. After the increase in duty, 800 aM
-502 people were consumers of tea in a sample of 1200 persons. Find “x
-BL4 whether there is significant decrease in the consumption of tea after
-the increase in duty. LOS 5%.
-co2 |(b)|A random sample of 50 of the 200 electrical engineering students’
-S0\ grades in applied probability showed a mean of 75 and a standard] ¢ M4
-BiB deviation of 10. What are the 95% confidence limits for the estimate
-of the mean of the 200 grades?
-(c)/22 applicants for a position are interviewed by 3 administrators
-and rated on a scale of 5 as to suitability for the position. Each
-603 applicant is given a suitability score which is the sum of the three
-$0\ numbers. 11 of the applicants had completed at least two years of 6M
-BLE college. Use the Mann Whitney test to determine whether there was
-
-a difference in the scores of the two groups. Use 5% LOS. Group
-A had an educational background of less than two years of college.
-While group B had completed at least two years of college.
-[critical value is 30.]
-
-Group A}7/11/ 9} 4] 8] 6/12/11) 9 | 10) 11
-
-Group B/ 8} 9 | 13] 14] 11} 10) 12)14/13) 9 | 10
---- page 5 ---
-Q.7|(a)]‘Three brands A, B and C of tyres were tested for durability. A
-sample of 4 tyres of each brand is subjected to the same test and
-the number of kilometers until wear out was noted for each brand of
-tyres. The data in thousand km is given in the table below. Make
-
-(o2 an analysis of variance of the data at 5% of LOS.
-
-503 Observations | Population(number of brands 12M
-A B Cc
-ale I iy 19 24
-2 26 17 18
-4 29 18 27
-4 12 18 30
-[critical value is 4.07]
-(b)|The nicotine contents in two random samples of tobacco are given
-co3 below 2M
-$0) Sample I | 21 | 24 | 25 | 26 | 27
-BIA Sample II | 22 | 27 | 28 | 30 | 31 | 36
-
-Can you say that the two samples came from the same population?
-
-5/4
---- page 6 ---
-11
-12
-13
-14
-15
-
-16
-17
-18
-19
-20
-
-21
-22
-23
-24
-25
-
-26
-27
-28
-29
-30
-
-0.10
-3.0777
-1.8856
-1.6377
-1.5332
-1.4759
-
-1.4398
-1.4149
-1.3968
-1.3830
-1.3722
-
-1.3634
-1.3562
-1.3502
-1.3450
-1.3406
-
-1.3368
-1.3334
-1.3304
-1.3277
-1.3253
-
-1.3232
-1.3212
-1.3195
-1.3178
-1.3163
-
-1.3150
-1.3137
-1.3125
-1.3114
-1.3104
-
-1.2816
-
-t- table
-
-« Level of significance (a) >
-
-0.05
-6.3138
-2.9200
-2.3534
-2.1318
-2.0150
-
-1.9432
-1.8946
-1.8595
-1.8331
-1.8125
-
-1.7959
-1.7823
-1.7709
-1.7613
-1.7531
-
-1.7459
-1.7396
-1.7341
-1.7291
-1.7247
-
-1.7207
-1.7171
-1.7139
-1.7109
-1.7081
-
-1.7056
-1.7033
-1.7011
-1.6991
-1.6973
-
-1.6449
-
-0.025
-12.7062
-4.3027
-3.1824
-2.7764
-2.5706
-
-2.4469
-2.3646
-2.3060
-2.2622
-2.2281
-
-2.2010
-2.1788
-2.1604
-2.1448
-2.1314
-
-2.1199
-2.1038
-2.1009
-2.0930
-2.0860
-
-2.0796
-2.0739
-2.0687
-2.0639
-2.0595
-
-2.0555
-2.0518
-2.0484
-2.0452
-2.0423
-
-1.9600
-
-6) RB
-
-0.01
-31.8205
-6.9646
-4.5407
-3.7469
-3.3649
-
-3.1427
-2.9280
-2.8965
-2.8214
-
-2.7638 ©
-
-2.7181
-2.6810
-2.6503
-2.6245
-2.6025
-
-2.5835
-2.5669
-2.5524
-2.5395
-2.5280
-
-2.5176
-2.5083
-2.4999
-2.4922
-2.4851
-
-2.4786
-2.4727
-2.4671
-2.4620
-2.4573
-
-2.3264
-
-0.005
-63.6567
-9.9248
-5.8409
-4.6041
-4.0321
-
-3.7074
-3.4995
-3.3554
-3.2498
-3.1693
-
-3.1058
-3.0545
-3.0123
-2.9768
-2.9467
-
-2.9208
-2.8982
-2.8784
-2.8609
-2.8453
-
-2.8314
-2.8188
-2.8073
-2.7969
-2.7874
-
-2.7787
-2.7707
-2.7633
-2.7564
-2.7500
-
-2.5758
---- page 7 ---
-F- table
-
-+ Degrees of Freedom for the Numerator >
-10 12 15 20 25 30 40 60 120
-1 241.8817 243.9060 245.9499 248.0131 249.2601 250.0951 251.1432 252.1957 253.2529
-2 19.3959 194125 194291 194458 194558 194624 194707 194791 194874
-3 8.7855 8.7445 = 8.7029) 8.6602) «8 B341— 8.B166 = 8.5944 8.5720 = B.S494
-4 59644 5.9117 58578 58025 5.7687 5.7459 5.7170 S.6B77 5.6581
-5 47351 46777 46188 45581 45208 44957 44638 4.4314 4.3985
-
-6 40800 39999 3.9381 3.8742 3.8348 893.8082 = 3.7743) 3.7398) 3.7047
-7 3.6365 35747 3.5107 34445 34036 33758 3.3404 33043 3.2674
-8 33472 32839 32184 31503 31081 3.0794 3.0428 3.0053 2.9669
-9 34373 3.0728 3.0061 2.9365 28932 2.8637 2.8259 27872 2.7475
-10 29782 29130 28450 2.7740 27298 26996 2.6609 26211 2.5801
-
-110 2.8536 «2.7876 = 2.7186 = 2.64640 26014 25705) 2.5309 2.4901 2.4480
-12 2.7534 26866 26169 25436 24977 24663 24259 23842 2.3410
-13° 2.6710 26037 2.5331 24589 24123 2.3803 2.3392 22966 2.2524
-14 26022 25342 2463) 23879 23407 239082 2.2664 22229 21778
-15 25437 24753 «2.4034 2.32750 2.2797 02.2468 22.2043 2.1601 2.1141
-
-16 24985 24247 23522 227568 22272 2.1938 2.1507 21058 2.0589
-17 24499 2.3807) «=. 2.3077, 2.2304 21815 2.1477 21040) 2.0584 2.0107
-18 24117 2.3421 2.2686 2.1906 21443 21071 2.0629 20166 1.9681
-19 2.3779 = 2.3080) 2.2341 2.1555 241057 2.0712 2.0264 1.9795 1.9302
-20 2.3479 «22776 220383 2.1242 20739 2.0391 1.9938 1.9464 1.8963
-
-21 23210 22504 21757 2.0960 20454 2.0102 1.9645 1.9165 1.8657
-22 2.2067 «62.2258 =. 2.1508 «= 2.0707, 2.01968 )=— 1.9842, 1.9380 = 11.8894 = 1.8380
-23° 2.2747) 2.2036 «2.1282 2.0476 = 1.9963 «1.9605 861.9139 = 1.8648 = 1.8128
-24° 2.2547 «2.18384 «2.1077 2.0267) 1.9750 «= 1.9390) = 1.8920) = 1.8424 1.7896
-25 22365 21649 20869 2.0075 1.9554 19192 1.8718 1.8217 1.7684
-
-30 2.1646 = 2.0921 20148 1.9317 1.8782 1.8409 1.7918 1.7396 1.6835
-40 2.0772 2.0035 1.9245 18389 1.7835 1.7444 16928 1.6373 1.5766
-60 19926 19174 1.8364 1.7480 1.6902 1.6491 1.5943 1.8343 1.4673
-120 19105 1.8337 1.7505 1.6587 15980 1.5543 14952 1.4290 1.3519
-
-co §=6§ 1.83389 1.7554 1.6697, 1.5740 = 1.5098 = 1.4629 = 1.3981 1.8227 1.2272
-
-PE
-````
-
-## 2022-23 · Re-Exam · Sem 2 · paper 5288a2c7f454
+## 2023-24 · Re-Exam · Sem 2 · paper 5288a2c7f454
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -6482,6 +5025,1462 @@ Table of Chi-Square (y”) Distribution
 53.6720
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper f08919c061db
+
+- Departments: Artificial Intelligence, Data Science
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/STATISTICAL METHODS/Statistical Methods , Re-exam 2022-23,2023-2024.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Mem/ 2024
+- Text: ocr (4 pages), mean OCR confidence 84.5
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023:2024 ~ :
+
+Program/s: BTech/MBA Tech — Year: II Semester: IV
+
+Stream/s AVAIML/AIDS/CSE DS __
+
+Subject: Statistical Methods e Time: 3 hrs (LO amto_4. pr)
+Date: 28 Mem/ 2024 | . ’ No. of Pages:4
+
+Marks: 100
+
+_.___Re-Examination (2022-23) / (2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+_. ‘the cover of the Answer Book, witich is provided for their use.
+
+1) Question No. 1 __ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: ; [20]
+CO-1 ; A | Write five differences between primary and secondary data with respected to a
+SO-1; keting firm of ad °°!
+BL-1 marketing firm of a data. .
+a B_ | You are given the following data of the number of lecturers, readers and
+professors in a university:
+Length of service Lecturers . Readers Total
+. Less than Syrs. 2,000 250 2,300
+5-10 yrs. 3,000 220 3,300
+CO-1 ; 10-15 yrs. 1,500 170 1,700
+SO- 1; More than 15yrs. 880 80 1,000 [05]
+BL-3
+Total 7,380 720 8,300
+
+Work of how many lecturers, readers and professors would be selected from
+each category if we follow stratified proportionate sampling method and take
+10% of the universe equivalent of the sample size.
+--- page 2 ---
+CO- 2;
+
+Explain the concept of kurtosis. Explain different types of kurtosis in normal
+
+SO- 1; distribution with diagram and Karl Pearson coefficient. [05]
+BL-2
+CO- 4; Given regression lines 2x = 8 — 3y; 2y = 5 — x, Find mean values of x and [05]
+cea vy, also find correlation coefficient. _
+Q2
+CO-1; Calculate the probability for drawing a sample of size 5 from a population of [05]
+SO-1; size 25 by considering the sampling with replacement and without replacement.
+BL-3
+CO-4; Define R? score with its inference in regression prospective. What is residual
+“SO-1; sum of square standard error (RSE), défine with formula and state the inference [05]
+BL-2 of the same. Explain the drawback of the RSE and explain how R? score
+overcomes that drawback.
+Given below is the distribution of marks obtained by 140 students in an
+examination. :
+CO-2: Marks 10- | 20- | 30- | 40-   |50- |60- | 70- 80- | 90-
+S0-1 ‘ : 19 29 39 49 59 69 79 89 | 99 [10]
+BL3 No of 7 15 18 25 30 20 16 7 2
+Students _
+Calculate the arithmetic mean and the median. Also, obtain the Mode using
+Empirical relation between all the three parameters.
+Q3 With the help of given data, find: (i) Value of middle 50% items; (ii) Value of
+CO-2: exactly 50% item; (iii) The value of 40" Percentile Pao and 6" Decile De;
+; 10
+SO-1; Class 10-14 | 15-19 | 20-24 | 25-29 | 30-34 | 35-39 _
+Interval :
+Bhat Frequency | 5 10 15 20 10. . +45
+Find correlation coefficient r between sales and purchases after obtaining the
+CO-4: regression coefficients. Also Obtain the regression equation of y on x and. then
+sO. ‘: obtain the predicted values and residuals of Purchase(y). [10]
+; Sales(x) 91 97 108 121 67 124 51 |.73 111 | 57
+BL-3
+
+Purchases(y) 71 75 69 97 70 | 91 39 | 61 80 | 47
+
+mS
+
+a
+--- page 3 ---
+A. | From the following data, Obtain Multiple linear regression line of X1.on Xv
+and X3. Also find Final Score for 6 hours of study and 6 hours of sleep. °
+
+Final
+Q4 a s5| ss] 75| so) 82] 78| 90] 92] 79] 81
+CO-4; Hours [10]
+SO-1; Stade) fg als al el at et Cah ye] al 6
+BL-3 Hours :
+plex) s| 7] 6] 7| 8{| s{ 6] 7] 9] 5
+a B_ | Calculate the coefficient of skewness from the following data by using quartiles
+CO-2; and comment about the skewness of given data.
+SO-1; Marks Above | Above | Above | Above | Above | Above | Above [10]
+BL-3 0 15 30 45 60 75 90
+No of 180 160 130 100 65 20 3
+Students ;
+Q5 A | What are the assumptions underlying multivariate linear regression, and how do
+CO-3; violations of these assumptions affect the validity of the regression model? [10]
+SO-1;
+BL-2
+B_ | Compute the Linear Discriminant projection vector for the following two-
+dimensional dataset.
+CO-3; Class 0: . | Class 1:
+LSO-1; X1=[(4,1), | X2=[(9,10), [10]
+a3 (2,4), (6,8), -
+(2,3), (9,5),
+(3,6), (8,7),
+(4,4) (10,8)
+Q6 A | Write short notes on Principal component analysis and benefits of dimension
+: reduction. Apply the Principal component analysis for the data given below:
+CO-3 ) g
+SOL Xl a 1 0 __f-l [10]
+BL-3 X2 4 3 1 0.5
+Find Covariance Matrix.
+Sait B | What makes Linear Discriminant Analysis (LDA) significant? Outline the [05]
+
+BL-2
+
+merits and drawbacks associated with the use of LDA.
+--- page 4 ---
+i
+
+Provide the mathematical formulation of the Within-Class Scatter Matrix (Sw)
+
+Here z is the predictor variable, yl and y2 are two response variables. Apply
+multivariate linear regression for estimation of regression coefficient vector B,
+Predicted response variable vector Y and Residual error vector €. Note the
+relation between all the parameters can be written as
+
+Y=ZP+e
+
+CO-3;
+SO-1; in linear discriminant analysis (LDA). [05]
+BL-2
+Q7 Apply the Principal component analysis for the data given below:
+Xl 4 8 13 7
+CO-3; X2 1 4 5 14 [10]
+SO-1; " te ‘ _ 714 —-11
+BL-3 Find first principal components for given S = [2 11 23
+Consider the given below data.
+; y2 -1 -1 2 3 2
+CO-3: yl 1 4 3 8 9
+BL-3 ;
+
+“~~
+````
+
+## 2022-23 · Final + Re-Exam · Sem 2 · paper 7068e562f41e
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/STATISTICAL METHODS/Statistical Methods, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/05/2023
+- Text: ocr (6 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-2023
+Program:B.Tech Year:I Semester:II Stream :CSBS
+
+Subject:Statistical Methods Time:3 hrs(itioo am ® 2:00 pm)
+Date: 10/05/2023 No. of Pages:6
+Marks: 100
+
+Final Examination | Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their
+use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+7. Assume Suitable data if necessary.
+
+Q.1| (a)| Calculate the Karl Pearson coefficient of correlation for the following
+
+Say Sales ]5]6]8]3]215 s™M
+PLD Profit |}6|5)/9|4)2]95
+
+Pat (b)| For the following random samples, find the likelihood function:
+BL3 X; follows Bin(3, 6) , and we have observed (271, 72, 73,74) = (1,3,2,3)}5™
+
+C02 | (c)|In one sample of 9 items, the sum of the squares of deviations of the
+sample values from the sample mean was 160, and in another sample
+
+— of 8 observations it was 91. Test whether difference in variance is
+Bie significant at 5 % level. [critical value =3.73]
+
+(d)|Some items produced by a machine are defective. If the machine fol-
+603 lows some pattern where defective items are not randomly produced
+S50 throughout the process the machine needs to be adjusted. A quality om
+B13 control engineer wants to determine whether the sequence of defec-
+
+tive D versus good G items is random. The data are: GGGG DDD
+GGGGGGGGGGG DDDD Test whether the distribution of defective
+and good items is random or not at 5% LOS.
+
+6
+--- page 2 ---
+“se
+
+Q.2 |(a) Compute the average seasonal movement for the following series.
+
+Year | Quarterly Production
+
+CO2 I|mlm)] Iv 3M
+50) 1994/3.5/39134) 3.6
+BL 1995/3.514113.7| 40
+
+1996 /3.5/3913.7| 42
+
+199714.0/46/38] 45
+
+1998/41/44]l42) 45
+¢O2/|(b) From the following data, X, | 22] 15] 27/28 6M
+So| X } 121 15/171 15
+BLS” Obtain Ry.23 X3 13} 16] 17] 18
+
+CO | (c) A man buys 100 electric bulbs of each of two well-known makes taken
+
+acl
+at random from stock for testing purpose. He finds that ‘make A’ has 6M
+
+$06 a mean life of 1300 hours with SD of 82 hours, and ‘make B’ has a
+BL4 mean life of 1248 hours with SD of 93 hours. Discuss the significance
+of these results.
+Z Q.3 (a) Explain the stratified random sampling with example.
+5 Mention advantages of it.
+co | (b) The following table shows the marks obtained by 10 students in Ac-| &™
+503 countancy and Statistics. Find the Spearman’s coefficient of rank
+LS correlation.
+B No 1}/2)3;)4/)5}]6;7/)81]9 1] 10 6M
+Mathematics | 45 | 70 | 65 | 30 | 90 | 40] 50] 571 85 | 60
+Statistics 35 | 90 | 70 | 40 | 95 | 40 | 60 | 80] 80 | 60 =
+(c) Let X1 , Xo, ..., X, be a random sample from Poisson(@) then
+cO| n
+50! T(X) = D0 6m
+BLD ~
+
+is complete.
+
+2/6
+--- page 3 ---
+Q.4 (a)}For the following data, calculate 4 yearly centered moving average
+trend values
+
+Year | Sales (in lakhs) | Year | Sales (in lakhs)
+
+2010 5 2016 9
+2011 3 2017 10
+2012 7 2018 8
+2013 6 2019 9
+2014 4 2020 9
+2015 8
+
+(b)| Experience has shown that 20% of manufactured product is of top
+quality. In one day’s production if 400 articles, only 50 are of top
+quality. Show that the production of the day chosen was not. a repre-
+sentative sample or the hypothesis of 20% was wrong.
+
+(c)| The following data relate to the daily production: of cement a large
+plant of 30 days: 11.5,10.0,11.2,10.0,12.3,11.1,10.2,9.6,8.7,9.3, 9.3,10.7,
+11.3,10.4,11.4,12.3,11.4,10.2,11.6,9.5, 10.8,11.9,12.4,9.6,10.5,11.6,8.3,9.3,
+10.4,11.5. Use sign test to test the null hypothesis that the plant’s
+
+average daily production of cements is 11.0 m. tonnes at the 0.05
+LOS level.
+
+Q.5 (a)|Table below shows the first two grades (denoted by X and Y respec-
+tively) of 10 students on two short quizzes in biology
+
+grade of quiz 1 (X)/}1/5/8/6/9|7/9|]8/7/6
+grade of quiz 2 (Y)|4/9/5/7/9|8]8]6]4;,8
+
+i. Find the least square regression line X on Y.
+
+ii. Estimate grade of student in first quiz who received grade as 9 in
+second quiz.
+
+(b)| Let X, , X2 , ..., X, be a random sample from a normal distribution
+with mean pw and variance equal to 1. Find a sufficient statistic for
+the parameter ju.
+
+(c)} Theory predicts that proportion of beans in 4 groups A, B, C, D should
+be 10:5:3:2. In an experiment among 2000 beans, the numbers in the
+4 groups were 1082, 513, 287 & 118.Can we say at 5% LOS that the
+experiment support the theory? Use y? test to verify claim.
+
+1x3.0.05 = 7.82]
+
+3/6
+
+eM
+
+6é)
+
+gM
+
+6m
+
+6M
+--- page 4 ---
+Q.6 (a)|The mean height and the SD height of 8 randomly chosen soldiers
+
+(o3 jare 166.9 and 8.29 cm respectively. The corresponding values of 6 aM
+
+¢og_ |randomly chosen sailors are 170.3 and 8.50 cm respectively. Based on
+
+BL4 this data can we conclude that soldiers are in general shorter than
+sailors? LOS 5%
+
+(b)| A large number of light bulbs was turned on continuously to determine
+
+¢o2. |the average number of days a bulb can last. The study revealed that
+éol the average lifetime of a bulb is 120 days with a standard deviation E mM
+
+BL3 of 10 days. If the lifetimes are assumed to be independent normal
+
+random variables, find the confidence limits for a confidence level of
+
+90% on the sample mean that is computed from a sample size of 64.
+
+(c)| Consider a sequence of 5 numbers 0.33,0.92,0.17,0.68,0.65.
+
+eal Given a = 0.05, Dy = 0.565 . 56M
+Test whether the null hypothesis of uniformity can be rejected by using 4
+BLé K-S test. ;
+
+Q.7 (a)|'To assess the significance of possible variations in performance in a
+certain test between the convent schools of a city, a common test was
+given. The results are given below. Make an analysis of variance of
+C02 |the data at 5% of LOS 12M
+$03 ||/A|B|C/D
+BLS 9 | 12 | 18} 13
+
+10} 11]12) 9
+12) 9 | 16} 12
+10) 14) 6 | 16
+7|4)8 415
+
+(b)| Two random samples gave the following data:
+
+Size | Mean | Variance
+SampleI | 8 | 9.6 12 38M
+s0\ Sample II| 11 | 16.5 2.5
+
+BL4 - | Can we conclude that the two samples have been drawn from the same
+normal population?
+
+co3
+
+4/6
+--- page 5 ---
+11
+12
+13
+14
+15
+
+16
+17
+18
+19
+20
+
+21
+22
+23
+24
+25
+
+26
+ar
+28
+29
+30
+
+t- table
+
+« Level of significance (a) >
+
+0.05 0.025 0.01
+6.3138 12.7062 31.8205
+2.9200 4.3027 6.9646
+2.3534 3.1824 4.5407
+2.1318 2.7764 3.7469
+2.0150 2.5706 3.3649
+1.9432 2.4469 3.1427
+1.8946 2.3646 2.9980
+1.8595 2.3060 2.8965
+1.8331 2.2622 2.8214
+1.8125 2.2281 2.7638
+1.7959 2.2010 2.7181
+1.7823 2.1788 2.6810
+1.7709 2.1604 2.6503
+1.7613 2.1448 2.6245
+1.7531 2.1314 2.6025
+1.7459 2.1199 2.5835
+1.7396 2.1098 2.5669
+1.7341 2.1009 2.5524
+1.7291 2.0930 2.5395
+1.7247 2.0860 2.5280
+1.7207 2.0796 2.5176
+1.7171 2.0739 2.5083
+1.7139 2.0687 2.4999
+1.7109 2.0639 2.4922
+1.7081 2.0595 2.4851
+1.7056 2.0555 2.4786
+1.7033 2.0518 2.4727
+1.7011 2.0484 2.4671
+1.6991 2.0452 2.4620
+1.6973 2.0423 2.4573
+1.6449 1.9600 2.3264
+
+5/6
+
+0.005
+63.6567
+9.9248
+5.8409
+4.6041
+4.0321
+
+3.7074
+3.4995
+3.3554
+3.2498
+3.1693
+
+3.1058
+3.0545
+3.0123
+2.9768
+2.9467
+
+2.9208
+2.8982
+2.8784
+2.8609
+2.8453
+
+2.8314
+2.8188
+2.8073
+2.7969
+2.7874
+
+2.7787
+2.7707
+2.7633
+2.7564
+2.7500
+
+2.5758
+--- page 6 ---
+1
+
+10
+241.8817
+19.3959
+8.7855
+5.9644
+4.7351
+
+4.0600
+3.6365
+3.3472
+3.1373
+2.9782
+
+2.8536
+2.7534
+2.6710
+2.6022
+2.5437
+
+2.4935
+2.4499
+24117
+2.3779
+2.3479
+
+2.3210
+2.2967
+2.2747
+2.2547
+2.2365
+
+2.1846
+2.0772
+1.9926
+1.9105
+1.8339
+
+F- table
+
+© Degrees of Freedom for the Numerator =
+
+12 15 20
+243.9060 245.9499 248.0131
+19.4125 194291 194458
+8.7446 8.7029 8.6602
+5.9117 5.8578 5.8025
+48777 4.6188 4.5581
+
+3.9999 3.9381 3.8742
+3.5747 3.5107 3.4445
+3.2839 3.2184 3.1503
+3.0729 3.0061 2.9365
+2.9130 2.8450 2.7740
+
+2.7876 2.7186 2.6464
+2.6866 2.6169 2.5436
+2.6037 2.5331 2.4589
+2.5342 2.4630 2.3879
+2.4753 2.4034 2.3275
+
+2.4247 2.3522 2.2756
+2.3807 2.3077 2.2304
+2.3421 2.2686 2.1906
+2.3080 2.2341 2.1555
+2.2776 2.2033 2.1242
+
+2.2504 2.1757 2.0960
+2.2258 2.1508 2.0707
+2.2036 2.1282 20476
+2.1834 2.1077 2.0267
+2.1649 2.0889 2.0075
+
+2.0921 2.0148 1.9317
+2.0035 1.9245 1.8389
+1.9174 1.8364 1.7480
+1.8337 1.7505 1.6587
+1.7554 1.6697 1.5740
+
+25
+249.2601
+19.4558
+8.6341
+5.7687
+4.5209
+
+3.8348
+3.4036
+3.1081
+2.8932
+2.7298
+
+2.6014
+24977
+2.4123
+23407
+2.2797
+
+2.2272
+2.1815
+2.1413
+2.1057
+2.0739
+
+2.0454
+2.0196
+1.9963
+1.9750
+1.9554
+
+1.8782
+1.7835
+1.6902
+1.5980
+1.5098
+
+30
+250.0951
+19.4624
+8.6166
+5.7459
+4.4957
+
+3.8082
+3.3758
+3.0794
+2.8637
+2.6996
+
+2.5705
+24663
+2.3803
+2.3082
+2.2468
+
+2.1938
+2.1477
+2.1071
+2.0712
+2.0391
+
+2.0102
+1.9842
+1.9605
+1.9390
+1.9192
+
+1.8409
+1.7444
+1.6491
+1.5543
+1.4629
+
+40 60 120
+251.1432 252.1957 253.2529
+19.4707 19.4781 19.4874
+
+8.5944 8.5720 8.5494
+5.7170 5.6877 5.6581
+4.4638 4.4314 4.3985
+
+3.7743 3.7398 3.7047
+3.3404 3.3043 3.2674
+3.0428 3.0053 2.9669
+2.8259 2.7872 2.7475
+2.6609 2.6211 2.5801
+
+2.5309 2.4901 2.4480
+24259 2.3842 2.3410
+2.3392 2.2966 2.2524
+2.2664 2.2229 2.1778
+2.2043 2.1601 2.1141
+
+2.1507 2.1058 2.0589
+2.1040 2.0584 2.0107
+2.0629 2.0166 1.9681
+2.0264 1.9795 1.9302
+1.9938 1.9464 1.8963
+
+1.9645 1.9165 1.8657
+1.9380 1.8894 1.8380
+1.9139 1.8648 1.8128
+1.8920 1.8424 1.7896
+1.8718 1.8217 1.7684
+
+1.7918 1.7396 1.6835
+1.6928 1.6373 1.5766
+1.5943 1.5343 1.4673
+1.4952 1.4290 1.3519
+1.3981 1.3227 1.2272
+````
+
+## 2022-23 · Final + Re-Exam · Sem 4 · paper d841d02dfd0c
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/STATISTICAL METHODS/Statistical Methods,Final ,Re-exam 2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 3/05/2023
+- Text: ocr (6 pages), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+aon
+
+">
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+B.Tech/ MBA Tech. Stream: B.Tech Al, AI ML, AI DS, Year: II Semester: IV
+MBA Tech AI
+Subject: Statistical Methods Time: 03 hrs. (10 am to 1 pm)
+Date: 3/05/2023 No. of Pages: 6
+Marks: 100
+
+Final Examination | Re- Examination .
+
+Instructions: Candidates should read carefully the instructions printed on the question paperand on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Q1 | Answer briefly:
+
+co: 1 A | A quality satisfaction survey was asked to their patients after the patient is
+SO: 1 released. The following type of questions are sometimes asked in the survey.
+BL: 1 : ‘ ;
+These questions will result in what level of data measurement
+nominal/ordinal/ratio/interval/continuous/discrete)?
+
+i) Weight during admission?
+
+ii) Age of the patient
+
+iii) Patient ID
+
+iv) 4. Which type of unit were you in for most of your stay?
+
+e Intensive care
+
+e Maternity care
+
+e Surgical unit
+
+v) 5. How serious was your condition when you were first admitted to the
+
+hospital
+e Critical
+¢ Moderate
+
+e Minor
+
+[04]
+--- page 2 ---
+CO:4 B Linear Regression can only be considered as fit for the data with linear [04]
+SO:1 relationships. For the given datasets, identify the one that fits the linear
+BL:4 regression ? Justify
+* ° a =| we
+< Oe octoe
+ne aes Ys on e
+of ee |
+a Ls” ° woe
+xt x2
+12 - 24 Pad
+0 a * we
+Qe oo . xa H a
+si Pra 8
+4 »
+4 6 8 2 4 18 1B 4h 6 8 Ww 416 8
+3 x4
+CO: 4 C_ [For the given regression equation: Y = 68.63 — 0.07 * X [04]
+. 3 (Compute the residual for predicting the weight.
+Height in cm Weight in Kgs
+130 55
+135 56
+140 62
+142 63
+147 63
+156 51
+ln
+CO:2 SO:1| D_ {The results of 41 students' math tests (with a best possible score of 70) are [04]
+
+BL:2 recorded below:
+
+B1, 49, 19, 62, 50, 24, 45, 23, 51, 32, 48, 55, 60, 40, 35, 54, 26, 57, 37, 43, 65, 50,
+55, 18, 53, 41, 50, 34, 67, 56, 44, 4, 54, 57, 39, 52, 45, 35, 51, 63, 42
+
+1. Is the variable discrete or continuous? Explain.
+
+2. Prepare an ordered stem and leaf plot for the data
+
+3. Are there any outliers? If so, which scores?
+
+4. From the stem and leaf plot, determine the level of difficulty of the
+exam
+--- page 3 ---
+Vom
+
+CO:1 SO:1) E
+BL:1
+
+Which type of sampling would be most appropriate in each case. Justify
+
+i) Lata has a sampling frame of all the people who are members of a club.
+She gives each member a unique reference number and uses a random
+number generator to select the sample.
+
+ii) A researcher is carrying out a survey. He would like to find out how many
+miles people drive per day. He divides the population into a two-way table
+and calculates the proportion of each category required for his sample.
+Which sampling technique is the researcher using?
+
+[04]
+
+Q2
+
+CO:4 A
+SO:2 BL:3
+
+The following table gives the details of advertising expenses in lakhs (X) and
+Sales in crores (Y).
+
+Sales (crores 14 | 16 | 18 | 20 | 24 | 30 | 32
+Adv Exp (lakhs) | 52 | 62 | 65 | 70 | 76 | 80 | 78
+
+i) Calculate the two regression coefficients.
+
+ii) Find the regression equation and correlation coefficient
+
+iii) Estimate the Sales for advertising expenses of Rs 100 lakhs
+and the advertising expenditure for sales of Rs 45 crores.
+
+{10}
+
+CO:4 SO:2) B
+BL:4
+
+[Find the expense on food and entertainment if the expense on accommodation is
+IRs 200. Determine the regression equation of expense on accommodation on
+lexpense of food and entertainment.
+
+(Given: Correlation coefficient of 0.57
+
+Mean in Rs | SD
+Expense on 173 63.15
+accommodation
+Expense on food and 47.8 22.98
+entertainment
+
+[5]
+
+CO:2 SO:1] C
+BL:2
+
+The following table gives the frequency distribution of the weekly wages (in ’00
+Rs.) of 100 workers in a factory. Draw the histogram and frequency polygon of
+the distribution.
+
+Weekly 20-24 | 25-29 | 30-34 | 35-39 | 40-44 | 49-50 | 50-54
+Wages
+
+(00 Rs.)
+
+Number of | 4 Ss 12 23 31 10 8
+Workers
+
+[5]
+--- page 4 ---
+Q3
+
+CO:2 SO:6 A [In 500 small scale units, the return on investment ranged from 0 to 30 per cent, no [8]
+BL:5 junit sustaining any loss. Five per cent of the units had returns ranging from zero pe
+
+cent to 5 per cent, 15 per cent of the units earned returns between 5 per cent and 10)
+
+lper cent. The median rate of return was 15 per cent and the upper quartile was 20
+
+lper cent. The uppermost layer of returns of 25-30 per cent was earned by 50 units]
+
+[Express the above data in the form of frequency table and find the rate of return
+
+around which there is maximum concentration of units.
+
+CO:3 SO:6 B_ |Apply the principal component analysis to find the principal component for the [12]
+BL:3 \data given below:
+i 3 2 2)
+Y'=
+24 5 |
+Q4
+CO:3 SO:6 A | Given the data in table, reduce the dimension from 2 to 1 using principal [10]
+BL:4 Component Analysis algorithm ,
+Feature Example | Example 2 Example 3 Example 4
+X1 4 8 13 7
+X2 i 4 5 14
+CO:4 SO:1| B__ |Find the multiple linear regression equation of Yield of rice (X3) on [10]
+BL:3 IRainfall (X2) and Fertilizers (X3) from the following data :
+(Compute the yield of rice (X3), when the rainfall is 10 and fertilizer is 6.
+[Xl 3 [5 [6 [8 [12 [14
+X2 16 10 7 4 3 2
+x3 90 72 54 42 30 12
+Q5
+CO:2 SO:1| A |The following table gives the distribution of monthly income of 600 families in a [10]
+BL:3 certain city.
+Monthly | Below | 75- 150- | 225- | 300- | 375- | 450 and
+Income 75 150 225 | 300 375 450 above
+(00 Rs.)
+No of 60 170 200 | 60 50 40 20
+families
+i) Compute mean median and mode of income.
+ii) Comment on Skewness
+
+iii) Draw a ‘less than’ and a ‘more than’ ogive curve for the above data
+and compute the median income from the graphs.
+--- page 5 ---
+ao
+
+CO:3 SO:6 B_ {Table lists the ratings of the new mixer on these two characteristics (at a specified [10]
+BL:3 price) by a panel of 10 potential purchasers. In rating the food mixer, each panel
+Imember is implicitly comparing it with products already on the market. After the}
+product was evaluated based on durability (X1) and performance (X2), the|
+levaluators were asked to state their buying intentions (“would purchase” or “would|
+Inot purchase”). Five stated that they would purchase the new mixer and five said
+they would not. Compute the Linear Discriminant projection for the following two
+dimensional dataset.
+_ [8 6 10 9 4
+BL eS [5 3 4 22
+_ [9 7 6 48
+ial le 7 5 4 al
+Q6
+CO:3 SO:2} A [Consider the following data: [10]
+BL:3
+¥ 100 | 90 80 70 60
+X1 110 | 120 | 100 | 90 80
+X2 40 30 20 0 10
+i) Develop Y, X, B, e for the Model
+ii) Compute regression coefficients, residuals, SSE, SE.
+iii) Construct the regression equation.
+iv) Predict Y when X1 = 105 and X2 =25
+CO:3 SO:6 B   |Compute the Linear Discriminant projection for the following two dimensional [10]
+BLS dataset.
+4 2 9 10
+2 4 6 68
+X1=]2 3 X2=|9 5
+3 6 8 7
+4 4 10 8
+Q7
+CO:2 SO:1) A |Calculate the arithmetic mean and median for the following frequency distribution [08]
+BL:3 f weight in grams of mangoes of a given variety? Under what conditions is
+
+median is more suitable than other measures of central tendency.
+
+Weight in 410- | 420- | 430- 440- 450- 460- 470-
+grams 419 | 429 | 439 449 459 469 479
+Number of | 14 20 42 54 45 18 7
+Mangoes
+--- page 6 ---
+CO:3 SO:6 B__|Consider the following with respect to DV, Y’s [12]
+BL:3
+
+DV: Y1 DV: Y2
+
+Population 1: 9, 6, 9 Population 1: 3, 2,7
+
+Population 2: 0, 2 Population 2 : 4, 0
+
+Population 3: 3, 1, 2 Population 3 : 8, 9,7
+
+Construct suitable MANOVA Table.
+(Apply MANOVA test and infer the result. F(4,8,0.01)=7.01
+````
+
+## 2022-23 · Re-Exam · Sem 2 · paper d8ff983feda7
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/STATISTICAL METHODS/Statistical Methods Sem-II, Batch 2020-21, 21-22, 22-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26 June 2023
+- Text: ocr (7 pages), mean OCR confidence 85.3
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY
+MANAGEMENT & ENGINEERING i
+
+Academic Year: 2022-2023
+Program:B.Tech Year:I Semester:II Stream :CSBS
+
+Subject:Statistical Methods Time:3 hrs@pmtoSpn)
+Date: 26 June 2023 No. of Pages:7
+Marks: 100
+
+Re- Examination (2020-21/2021-22/2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their
+
+use.
+~
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+7. Assume Suitable data if necessary.
+
+r ;
+Q.1| (a)| Calculate the rank correlation coefficient from the following data
+COL. which shows ranks of each variable.
+
+_ (so! Subject] A] B|C]D|]E]|F s™M
+© |pBL2 Age | 43 | 48 | 56 | 61 | 67 | 70
+
+~ Pressure | 128 | 120 | 135 | 143 | 141 | 152
+(b)| A coin is flipped 100 times. Given that there were 60 heads, find om
+
+a maximum likelihood estimate for probability p of heads on a single
+RL3 toss.
+(c)|The mean height of a random sample of 100 individuals from a
+C03 population is 160. Standard deviation of the sample is 10. Would 5™M
+50| it be reasonable to suppose that the mean height of the population
+BL2 is 165?
+(d)| As part of a market research study, a sample of 36 consumers were
+C03 asked to taste two brands of ketchup and indicate a preference.| S M
+50) Do the data shown following indicate a significant difference in the
+BL3 consumer preferences for the two brands?
+
+i/F
+--- page 2 ---
+18 preferred Brand A Ketchup (+ sign recorded)
+12 preferred Brand B Ketchup (— sign recorded)
+
+?
+
+6 had no preference
+
+Q.2|(a)}Calculate the three monthly moving average from the following
+
+data:
+poe Jan | Feb | Mar | Apr | May | June 2m
+4 57 | 65 | 63 | 72 | 69 78
+BL July | Aug | Sept | Oct | Nov | Dec
+82 | 81 | 90 | 92 | 95 97
+(b)| In partially destroyed laboratory record of an analysis of correla-
+CO2.: tion data, the following results only are legible- Variance of X = 9, 6™
+SO) regression equations are: 8X-10Y + 66 = 0 & 40X-18Y = 214 en
+Cc
+Bt i. the mean of X and Y ii. correlation between X and Y
+(c)} Samples of two types of electric bulbs were tested for length of life
+and the following data were obtained:
+col Size} Mean | SD 6™
+S06 Samplel | 8 | 1234h| 36h
+BL4 Sample IT] 7 | 1036 h | 40h
+Is the difference in the means sufficient to warrant that type 1 bulbs
+are superior to type 2 bulbs? LOS 5%.
+Q.3 |(a)| Explain simple random sampling with and without replacement.
+col Suppose a finite population contains 9 items and 4 are selected 3”
+$03 at random with replacement, then find the number of all possible &
+RL samples.
+(b)} Consider the data of Maths marks, duration of study and Physics
+marks obtained by 10 students given in the table below:
+co3 Sr. no i[2[3/4[5|6|7|8[9|10 6M
+sot Maths 15] 18]13}14]19}11]17/] 20} 10] 16
+BL6 duration of study; 6} 3/8/6]2);3,4|4 {57
+Physics 25 | 29 | 27 | 24 | 30 | 21 | 26 | 31 | 20 | 25
+
+Compute the partial correlation between Maths marks and duration
+of study partialled out Physics.
+
+Let Xy, Xo, ...,X, denote a random sample from a Poisson distri- 6M
+bution with parameter \ > 0. Find a sufficient statistic for the
+parameter A.
+
+co! (c)
+501
+BLL
+
+2/7
+--- page 3 ---
+Q.4} (a)| Calculate seasonal index from the following data using average method
+
+(02 Year | lst Quarter | 2nd Quarter | 3rd Quarter | 4th Quarter
+2016 72 68 80 "70 :
+50] 2017 76 70 82 74 8M
+BLL 2018 74 66 84 80
+2019 76 74 84 78
+2020 78 74 86 82
+C03 | (b)| Tests made on the breaking strength of 10 pieces of a metal gave
+Sl the following results: 588, 572, 590, 568, 572, 570, 570, 572, 600 and | 4M
+BL2 584 kg. Test if mean breaking strength of wire can be assumed as
+‘ 569 ke.
+(c)| Consider the data obtained in a study of age and systolic blood
+(03 pressure of seven randomly selected subjects:
+S02 Subject | A] B}|C]D|]E|]F{G 6M
+BL4 Age 43 | 48 | 56 | 61 | 67 | 70 | 72
+Pressure | 128 | 120 | 135 | 143 | 141 | 152 | 148
+Test whether there is any significance correlation between age and
+blood pressure.
+Q.5| (a)} A computer while calculating correlation coefficient between two
+variables X and Y from 25 pairs of observations obtained the fol-
+C02. lowing results n = 25, )7X = 125, )> X? = 650 SY = 100, 2M
+sol dS Y? = 460, > XY = 508. It was however later discovered at the |
+¢S time of checking that he had copied down two pairs as
+BL X| Y X|Y
+6 | 14 | while correct values were} 8 | 12
+8 | 6 6| 8
+Obtain the correct value of correlation coefficient.
+(b)| Show that the family f(z, 6) of pdf where
+(0) 5M
+$0] f(x, 9) ‘e (19) “ee 7 is complete.
+elsewhere
+BL3
+
+3/#%
+--- page 4 ---
+(c)
+
+Ten workers were given on the job training with a view to shorten
+their assembly time for a certain mechanism. The results of the
+time and motion studies before and after the training,program are
+
+(03 given below: 7
+$02 Worker[I]2. [3.14 [5 |6 [7 [8 [9 [10
+Before [61 [62 [55 |62 [59 [74 [62 |57 [64 | 62 6M
+B14 After [59 [63 [52 [54 [59 |70 [67 [65 [59 [71
+Is there evidence that the training program has shortened the aver-
+age assembly time? Use Wilcoxon signed rankl test to verify your
+claim LOS 5% [critical value is 8.]
+Q.6] (a)| Before an increase in excise duty on tea, 800 people out of a sample
+C03 of 1000 were consumers of tea. After the increase in duty, 800 aM
+502 people were consumers of tea in a sample of 1200 persons. Find “x
+BL4 whether there is significant decrease in the consumption of tea after
+the increase in duty. LOS 5%.
+co2 |(b)|A random sample of 50 of the 200 electrical engineering students’
+S0\ grades in applied probability showed a mean of 75 and a standard] ¢ M4
+BiB deviation of 10. What are the 95% confidence limits for the estimate
+of the mean of the 200 grades?
+(c)/22 applicants for a position are interviewed by 3 administrators
+and rated on a scale of 5 as to suitability for the position. Each
+603 applicant is given a suitability score which is the sum of the three
+$0\ numbers. 11 of the applicants had completed at least two years of 6M
+BLE college. Use the Mann Whitney test to determine whether there was
+
+a difference in the scores of the two groups. Use 5% LOS. Group
+A had an educational background of less than two years of college.
+While group B had completed at least two years of college.
+[critical value is 30.]
+
+Group A}7/11/ 9} 4] 8] 6/12/11) 9 | 10) 11
+
+Group B/ 8} 9 | 13] 14] 11} 10) 12)14/13) 9 | 10
+--- page 5 ---
+Q.7|(a)]‘Three brands A, B and C of tyres were tested for durability. A
+sample of 4 tyres of each brand is subjected to the same test and
+the number of kilometers until wear out was noted for each brand of
+tyres. The data in thousand km is given in the table below. Make
+
+(o2 an analysis of variance of the data at 5% of LOS.
+
+503 Observations | Population(number of brands 12M
+A B Cc
+ale I iy 19 24
+2 26 17 18
+4 29 18 27
+4 12 18 30
+[critical value is 4.07]
+(b)|The nicotine contents in two random samples of tobacco are given
+co3 below 2M
+$0) Sample I | 21 | 24 | 25 | 26 | 27
+BIA Sample II | 22 | 27 | 28 | 30 | 31 | 36
+
+Can you say that the two samples came from the same population?
+
+5/4
+--- page 6 ---
+11
+12
+13
+14
+15
+
+16
+17
+18
+19
+20
+
+21
+22
+23
+24
+25
+
+26
+27
+28
+29
+30
+
+0.10
+3.0777
+1.8856
+1.6377
+1.5332
+1.4759
+
+1.4398
+1.4149
+1.3968
+1.3830
+1.3722
+
+1.3634
+1.3562
+1.3502
+1.3450
+1.3406
+
+1.3368
+1.3334
+1.3304
+1.3277
+1.3253
+
+1.3232
+1.3212
+1.3195
+1.3178
+1.3163
+
+1.3150
+1.3137
+1.3125
+1.3114
+1.3104
+
+1.2816
+
+t- table
+
+« Level of significance (a) >
+
+0.05
+6.3138
+2.9200
+2.3534
+2.1318
+2.0150
+
+1.9432
+1.8946
+1.8595
+1.8331
+1.8125
+
+1.7959
+1.7823
+1.7709
+1.7613
+1.7531
+
+1.7459
+1.7396
+1.7341
+1.7291
+1.7247
+
+1.7207
+1.7171
+1.7139
+1.7109
+1.7081
+
+1.7056
+1.7033
+1.7011
+1.6991
+1.6973
+
+1.6449
+
+0.025
+12.7062
+4.3027
+3.1824
+2.7764
+2.5706
+
+2.4469
+2.3646
+2.3060
+2.2622
+2.2281
+
+2.2010
+2.1788
+2.1604
+2.1448
+2.1314
+
+2.1199
+2.1038
+2.1009
+2.0930
+2.0860
+
+2.0796
+2.0739
+2.0687
+2.0639
+2.0595
+
+2.0555
+2.0518
+2.0484
+2.0452
+2.0423
+
+1.9600
+
+6) RB
+
+0.01
+31.8205
+6.9646
+4.5407
+3.7469
+3.3649
+
+3.1427
+2.9280
+2.8965
+2.8214
+
+2.7638 ©
+
+2.7181
+2.6810
+2.6503
+2.6245
+2.6025
+
+2.5835
+2.5669
+2.5524
+2.5395
+2.5280
+
+2.5176
+2.5083
+2.4999
+2.4922
+2.4851
+
+2.4786
+2.4727
+2.4671
+2.4620
+2.4573
+
+2.3264
+
+0.005
+63.6567
+9.9248
+5.8409
+4.6041
+4.0321
+
+3.7074
+3.4995
+3.3554
+3.2498
+3.1693
+
+3.1058
+3.0545
+3.0123
+2.9768
+2.9467
+
+2.9208
+2.8982
+2.8784
+2.8609
+2.8453
+
+2.8314
+2.8188
+2.8073
+2.7969
+2.7874
+
+2.7787
+2.7707
+2.7633
+2.7564
+2.7500
+
+2.5758
+--- page 7 ---
+F- table
+
++ Degrees of Freedom for the Numerator >
+10 12 15 20 25 30 40 60 120
+1 241.8817 243.9060 245.9499 248.0131 249.2601 250.0951 251.1432 252.1957 253.2529
+2 19.3959 194125 194291 194458 194558 194624 194707 194791 194874
+3 8.7855 8.7445 = 8.7029) 8.6602) «8 B341— 8.B166 = 8.5944 8.5720 = B.S494
+4 59644 5.9117 58578 58025 5.7687 5.7459 5.7170 S.6B77 5.6581
+5 47351 46777 46188 45581 45208 44957 44638 4.4314 4.3985
+
+6 40800 39999 3.9381 3.8742 3.8348 893.8082 = 3.7743) 3.7398) 3.7047
+7 3.6365 35747 3.5107 34445 34036 33758 3.3404 33043 3.2674
+8 33472 32839 32184 31503 31081 3.0794 3.0428 3.0053 2.9669
+9 34373 3.0728 3.0061 2.9365 28932 2.8637 2.8259 27872 2.7475
+10 29782 29130 28450 2.7740 27298 26996 2.6609 26211 2.5801
+
+110 2.8536 «2.7876 = 2.7186 = 2.64640 26014 25705) 2.5309 2.4901 2.4480
+12 2.7534 26866 26169 25436 24977 24663 24259 23842 2.3410
+13° 2.6710 26037 2.5331 24589 24123 2.3803 2.3392 22966 2.2524
+14 26022 25342 2463) 23879 23407 239082 2.2664 22229 21778
+15 25437 24753 «2.4034 2.32750 2.2797 02.2468 22.2043 2.1601 2.1141
+
+16 24985 24247 23522 227568 22272 2.1938 2.1507 21058 2.0589
+17 24499 2.3807) «=. 2.3077, 2.2304 21815 2.1477 21040) 2.0584 2.0107
+18 24117 2.3421 2.2686 2.1906 21443 21071 2.0629 20166 1.9681
+19 2.3779 = 2.3080) 2.2341 2.1555 241057 2.0712 2.0264 1.9795 1.9302
+20 2.3479 «22776 220383 2.1242 20739 2.0391 1.9938 1.9464 1.8963
+
+21 23210 22504 21757 2.0960 20454 2.0102 1.9645 1.9165 1.8657
+22 2.2067 «62.2258 =. 2.1508 «= 2.0707, 2.01968 )=— 1.9842, 1.9380 = 11.8894 = 1.8380
+23° 2.2747) 2.2036 «2.1282 2.0476 = 1.9963 «1.9605 861.9139 = 1.8648 = 1.8128
+24° 2.2547 «2.18384 «2.1077 2.0267) 1.9750 «= 1.9390) = 1.8920) = 1.8424 1.7896
+25 22365 21649 20869 2.0075 1.9554 19192 1.8718 1.8217 1.7684
+
+30 2.1646 = 2.0921 20148 1.9317 1.8782 1.8409 1.7918 1.7396 1.6835
+40 2.0772 2.0035 1.9245 18389 1.7835 1.7444 16928 1.6373 1.5766
+60 19926 19174 1.8364 1.7480 1.6902 1.6491 1.5943 1.8343 1.4673
+120 19105 1.8337 1.7505 1.6587 15980 1.5543 14952 1.4290 1.3519
+
+co §=6§ 1.83389 1.7554 1.6697, 1.5740 = 1.5098 = 1.4629 = 1.3981 1.8227 1.2272
+
+PE
+````
+
 ## 2022-23 · Re-Exam · Sem 4 · paper 6d7cfae1f59d
 
 - Departments: Artificial Intelligence
@@ -6489,6 +6488,7 @@ Table of Chi-Square (y”) Distribution
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/STATISTICAL METHODS/Statistical Methods, Sem-IV, Batch 2021-22 & 2022-23 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 86.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -6542,7 +6542,6 @@ S0:1 model is preferred or not and for which case.
 BL:4
 Case | Case 2
 Pe kaa ae Pe ee
-é ete. a « ete Ro) Fo o8 ewe ame Soweto site
 Ca: 3 C_ | Multivariate analysis produced following table of results [04]
 SO: 1
 BL: 3 ~
@@ -7088,6 +7087,233 @@ Source: The entries in this table were computed by Pat Dugard, a freelance stati
 
 * for a one-tailed test for 2 x 2 tables only {Le., when df= 1), divide the probabilities at
 the top of the table by 2
+````
+
+## 2021-22 · Final-Exam · Sem 4 · paper e5712021b5ff
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/STATISTICAL METHODS/B Tech, Artificial Intelligence, Statistical Methods, 2nd Year, Sem-IV, Final Exa_472e6783.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
+- Text: ocr (5 pages), mean OCR confidence 90.4
+
+````text
+. SVKM’s NMIMS CON
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2021-22
+
+Programme: B.Tech Artificial Intelligence Year: II Semester: IV
+Subject: Statistical Methods
+
+, Marks: 100
+Date: 14 April 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+
+No. of Pages: __©S_
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+A contractor employees 3 types of workers — X, Y, Z. He employs 20
+ha) X-type workers at Rs 200 per day, 15 Y-type of workers at Rs 150 per
+CO1, BL2 (3)
+day and 5 Z-type of workers at Rs 85 per day. Identify the average wage
+
+per day paid by the contractor.
+
+2 persons are selected from a population 12 persons. Find the total number
+of different combinations that could have been selected in :
+i) sampling with replacement (4)
+CO3, BL1 | ii) sampling without replacement
+Also find the probability of drawing a sample for both the above cases.
+
+1b)
+
+The median and mode of the following data are 33.5 and 34 resp.
+Ie) 0-10 10-20 20-30 30-40 40-50 50-60 60-70 Total (5)
+CO2. BL1 4 16 9 9 2 6 4 230
+
+Vs
+--- page 2 ---
+Find the missing values.
+
+Find the regression equation of Exp on accommodation on exp of
+food and entertainment:
+
+Exp on accommodation : 4 5 6 8 Il
+' 1@ Exp on food and entertainment : 12 10 8 7 5 (5)
+CO, BL3
+Estimate the exp on accommodation when exp on food and
+entertainment is 11.
+! Find the most likely production to a rainfall of 40 inches from the
+| following data :
+le) Rainfall (inches) Production (Kg)
+C02, BLI Arithmetic mean 30 500 G3)
+Standard Deviation 5 100
+Correlation coefficient 0.8
+Q2
+A cyclist drove first 10 km at average speed of 20 km. p.h. another 6
+2a) km at 16 km p.h and the last 4 km at 10 km p.h. Identify the average | (5)
+COl, BL2 speed of the entire journey.
+Consider the following data of the number of lecturers, readers
+and professors in a university:
+Length of service Developers Sr. Developers Architects
+Less than 5 yrs. 2000 250 50
+5-10 yrs. 3000 220 80
+3 (0) 10-15 yrs. 1500 170 30 (7)
+CO,BL2 | More than 15 yrs. 880 80 40
+Using stratified sampling method, identify how many lecturers,
+readers and professors would be selected from each category if the
+size of sample is 10% of the universe but the lecturers, readers and
+professors are to be in the ratio 5:3:2 and weightage of the length of
+service is to be in the ratio of 4: 3:2: 1.
+2(c) Calculate Karl Pearson’s co-efficient of skewness from the following
+data:
+CO1, BLI 8
+Profit (lakhs) _No. of Cos Profit (lakhs) No. of Cos ®)
+25
+
+ee | _
+--- page 3 ---
+70-80 12 110-120 50
+
+80-90 18 120-130 45
+90-100 35 130-140 30
+100-110 42 140-150 8
+. Comment on co-efficient of skewness
+Q3
+Using the data given below: :
+Marks _—_No of students Marks No of students
+10-14 5 25-29 20
+ai) 15-19 10 30-34 10 (5)
+CO1, BL2 20-24 15 35-39 5
+Identify the 25" Percentile and 5 Decile.
+Determine a linear regression model using matrices for fitting a
+straight line to the data:
+a zl: 2 4 6 (7)
+CO, BL1 y: 3 6 7
+' Find the coefficients and fitted equation
+Compute Residuals, Residual sum of squares
+The table below shows data for ten students accepted to ‘USI’ College.
+It also shows the SAT score and high school GPA and whether each
+student ultimately graduated or not.
+Graduate SAT GPA
+No 1140 2.1
+30) No 1100 3.5
+: No 940 3.1 (8)
+COLBL3 | Yes 1260 3.7
+Yes 1220 2.9
+Yes 1180 2.5
+Yes 1060 3.9
+Solve using Discriminant Analysis, to find the least-squares
+regression equation to classify the incoming students.
+Q4
+
+3/-
+--- page 4 ---
+Calculate the mean, median, Variance and S.D. from the following
+data:
+
+Wages (hundred of Rs) | No. workers
+
+4a) _ 0-10 12
+CO3, BLI 10-20 17 ©)
+
+20-30 23
+
+30-40 39
+
+40-50 16
+
+50-60 03
+
+From the following data find the two regression coefficients. Also
+find the correlation coefficient.
+
+x
+Y 1 2 3 4
+4b) Co
+~ 7 (6)
+CO, BLI 10 3 2 _- _
+20 2 3 1 ---
+30 --- 1 1 3
+40 --- --- 3 1
+Consider the following data:
+Test Score 100 90 80 70 60
+IQ 110 120 100 90 80
+4o) Study Hours 40 30 20 0 10
+(8)
+CO2, BL3
+Develop Y, X, B, e for the Model
+Compute regression coefficients.
+Construct the regression equation
+Predict.test score for IQ=105 and Study hours=25
+Q5
+Find the multiple linear regression equation of Yield of rice (X1) on
+Rainfall (X2) and Fertilizers (X3) from the following data:
+5a) Xl: 4 6 7 9 13 15 (10)
+C02, BL3 X2: 15 12 8 6 4 3
+
+X3: 30 24 20 14 10 4
+
+Estimate X1 when X2=7 and X3=18
+
+AS
+--- page 5 ---
+The table below shows the data where each observation consists of
+two numerical features Yield, Water and a binary response variable
+Y. An observation with features 49.39 and 29.2 was added to the
+data. Classify the new observation as ‘Salty’ or ‘Clay’ by employing
+Discriminant analysis.
+
+5b) . (10)
+; Yield Water Y
+Cc
+ahem 62.8 25.9 Salty
+45.0 15.9 Salty
+47.8 36.1 Salty
+52.5 39.0 Clay
+80.0 52.4 Clay
+54.7 32.1 Clay
+63.5 25.6 Clay
+Q6
+Consider the following with respect to DV, Y’s
+DV: Yl DV: Y2
+Population 1: 9, 6, 9 Population 1: 3, 2,7
+6a) Population 2: 0, 2 Population 2 : 4,0
+sone: 3. 10
+CO3. BLI Population 3: 3, 1,2 Population 3 : 8, 9, 7 (10)
+Find SS(treatment), SS(residual), Total SS(corrected).
+Construct suitable MANOVA Table
+Find Wilks Lambda
+Apply the principal component analysis for the data given below :
+19 22 6 3 2 20
+6») (10)
+C02, BLI 12.6 9 1S 13 5
+
+Find the eigen values and eigen vectors,
+Find the first principal component axis.
+
+Sls
 ````
 
 ## 2021-22 · Re-Exam · Sem 2 · paper e6ecc654fc02
@@ -7726,6 +7952,7 @@ o/s
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM III/STATISTICAL METHODS/STATISTICAL METHOD I (DATA SCIENCE) 2018-19 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 22 November 2018
 - Text: ocr (4 pages), mean OCR confidence 85.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7768,7 +7995,6 @@ Q1. Below table given the data set of students score (M: Male, F: Female)
 Gender | M M M F F F M |M |M |F F F M |M |M |F F F
 
 Age 10 10 10 10 |}10 |10 | 11 |11 {11 | 11 | 11 | 12 | 12 | 12 | 12 | 12 | 12 | 12
-Group |yr -|yr [yr |yr |yr |yr fyr fye jyr jyr |yr jyr jyre jyr |yr |yr | yr | ye
 Score 4 6 8 4 8 9 6 6 9 7| 10} 13 8 9} 13} 12} 14| 16
 
 A) Find gender has any significant impact on score. (4 Marks)
@@ -7931,509 +8157,7 @@ Multiple R-squared: 0.9678, Adjusted R-squared: 0.9673
 F-statistic: 1963 on 3 and 196 DF, p-value: < 2.2e-16
 ````
 
-## 2016-17 · Exam not stated · Sem 4 · paper d484c17ac578
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/Statistical Methods 2016-17 (All streams)0001.pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 18 May 2018
-- Text: ocr (3 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (All Streams) Year: II Semester: IV
-
-Academic Year: 2017-2018
-
-Subject:Statistical Methods
-
-Marks:70
-Time: 2.00 pm to 4.00 pm
-Durations: 2 (hrs)
-
-No. of Pages : 2 ©
-Re-examination (2016-17)
-
-Date:18 May 2018
-
-Instructions: Candidates should read carefully the instructions
-
-the cover of the Answer Book, which is provided for their use.
-NB: ©
-
-printed on the question paper and on
-
-I. Question No. ONE is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions. 7
-3. In all FIVE questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full m
-
-arks,
-7. Assume Suitable data if necessary. .
-
-Q.1)
-
-a) The purchase department of a company XY Z has obtained samples of tube lights the well-known
-
-brands A and B .The following is record of length of life on the basis of tests conducted on these
-
-samples. .
-XYZ
-Length of life (hrs.) | Brand A | Brand B
-Less than 1000 2 6 | (7)
-
-1000-3000 20 10
-3000-5000 | 4 10
-5000-7000 12 17
-7000-9000 15 | 10
-
-Greater than 9000 7 | 7
-
-Which company’s tube lights are more consistent?
-b) A Chicago based American company is operating call centres in Gurgaon and Bangalore and
-asserts that there is no significant difference in the average pay package for employees working at
-both the places. A sample of 400 employees is taken from the Gurgaon centre and the average pay
-| package was Rs 4.00 lakhs per annum with a standard deviation of Rs 0.20 lakh. Ina sample of (7}
-| 340 employees from the Bangalore centre the figures were Rs 4.20 lakhs and Rs 0.32 lakh
-respectively. Test at 5% level of significance whether there is any significant difference in the pay
-package at the two centres? CZENGWE )
-Q.2)
-a) A company has two plants to manufacture
-Plant IT manufactures 30%. At Plant I, 80%
-of the scooters are rated standard quality.
-
-scooters. Plant I manufactures 70% of the scooters and
-scooters are rated standard quality and at Plant II, 90% 7)
-A scooter is picked up at random and is found to be (
-
-standard quality. What is the chance that it comes from Plant I?
-
-pe
---- page 2 ---
-b) Given below is the pre-tax monthly income f residents of an industrial town:
-More More More More More More More
-
-Pretax income than than than than than than than as
-(Rs) 7900 | 6000 | 5000 | 4000 | 3000 | 2000 | 1000 | “™
-No. of (7)
-Residents (in 2 8 10 15 25 40 55 60
-thousands)
-Draw a “less than ogive” and hence find out:
-i) the highest income of the lowest 50% of the residents;
-ii) the minimum income earned by the top 5% of the residents.
-
-Q.3)
-
-a) An aptitude test for selecting officers in a bank was conducted on 1000 candidates, the average
-score is 42 and the standard deviation of score is 24. Assume normal distribution for the scores,
-
-find: 7 )
-i) the number of candidates whose score exceeds 60,
-ii) ‘ the number of candidates whose score lie between 30 and 66.
-
-b) A random sample of size 64 has been drawn from a population with standard deviation 20. The
-mean of the sample is 80. (i) Calculate the 95% confidence limits for the population mean, (ii) how (7)
-does the width of the confidence interval change id sample size is 256 instead? ~ 2: / )
-
-Q.4)
-
-a) Find out Q,,D,,P,, for the following data:
-
-— 200- | 400- | 600- | 800- |} 1000- | 1200- | 1400- | 1600- | 1800-
-
-“en 400 | 600 | 800 | 1000 | 1200 | 1400 | 1600 | 1800 | 2000 | (7)
-[in Rs J
-
-Ho. ar g 9 i 14 20 15 10 8 7
-families
-
-b) A general insurance company feels that the proportion of claims of theft of private cars is much
-more than such a proportion in case of commercial cars. Hence, there is an urgent need to increase
-the annual insurance premium in case of private cars. To check the hypothesis of the insurance
-company, a committee of some enlightened citizens was formed and it conducted a random study. (7)
-Out of a random sample of 200 private cars under insurance 12 reported claim of theft. On the
-other hand claims of only 4 cmmercial cars out of a random sample of 128 were noted. In your
-opinion what will be the recommendation of the committee at 5% level of significance? (21 hb Y)
-
-Q.5 ;
-
-a) An investor made his investment in two types of investments: shares and landed property. He
-divided his investment in shares in marketable lots and purchased land in plots of 200 yards so that
-investment in each lot of shares and each plot is almost equal. After a gap of six years he made the
-following analysis:
-
-Type of investment | No. of samples | Mean gain (in Rs Lakhs) | Variance of gain (in Rs Lakhs) (7)
-Lots of shares 9 600 121
-Plots 8 640 144
-Is there a significant difference in the mean gains in the two types of investments? (4 1,2-/% D
-b) The following table shows the number of motor registrations in a certain territory for a terms of 5
-years and the sale of motor tyres by a firm in that territory for the same period:
-Year: 1 2 3 4 5
-Motor registration: | 600 | 630 | 720 | 750 | 800 (7}
-
-No. of tyres sold: | 1250 | 1100 | 1300 | 1350 | 1500
-Find the regression equation to estimate the sale of tyres when motor registration is known.
-Estimate the sale of tyres when registration is 850.
-
-rhe
---- page 3 ---
-Q.6)
-" a) The number of units sold by a firm during the last seven months of the current year is given below:
-| Months Jun. | Jul. | Aug. | Sep. | Oct. | Nov. | Dec. |
-No. of Units sold | 22 | 25 | 38 | 43 | 44 [ 50 | 72
-Compute the following
-(i) The Mean monthly sales,
-(ii) Standard deviation and coefficient of variation ,
-(iii) | Coefficient of Skewness by Karl Pearson’s method,
-(iv) Bowley’s Coefficient of Skewness ,
-A famous South-Indian hotel serves the same food in two different restaurants: X and Y.
-Restaurant X cater to high-income customers, is more spacious, air-conditioned and has better
-ambience but it rates are higher. Restaurant Y cater to low-income customers, is not air-
-conditioned, has wooden chairs and ordinary ambience but its rates are low. However, quality and
-variety of food is the same. The accounts officer of the hotel claims that the business per customer
-
-in terms of rupees in restaurant Y is more consistent than restaurant X. To support his claim, he
-collected the following data: ¢ F { /.59)
-
-Restaurant X | Restaurant Y
-Sample size 41 61
-Sample variance (in Rs) 120 | 105
-
-Test the claim of the accounts officer at 5% level of significance. Use F test.
-
-Calculate Karl Pearson’s coefficient’of correlation between expenditure on advertising and sales
-from data given below:
-
-| Advertising expenses (000Rs) | 39 | 65 | 62 | 90 | 82 | 75 | 25 | 98 | 36] 78
-
-| Sales (Lakhs Rs) 47 | 53 | 58 | 86 | 62 | 68 | 60 | 91 | 51] 84
-In a survey of 300 employees of an IT company in Hyderabad, 180 were male of which 100 are
-unmarried. 100 female employees are married. Can you conclude on the basis of above information (7)
-that greater number of female employees is married than male employee? Use Chi-square test at
-S%LOS. C x2 ¢. 947)
-````
-
-## 2016-17 · Final-Exam · Sem 4 · paper a2d0bb9f539a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/STATISTICAL METHODS BATCH 2016-2017 FINAL0001.pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 22 May 2017
-- Text: ocr (3 pages), mean OCR confidence 94.7
-
-````text
-pW /
-SVKM’s NMIMS lage ee
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG
-
-Programme: MBA Tech (All Streams) Year: II Semester: IV
-
-Academic Year: 2016-2017 \
-Subject: Statistical Methods \
-
-Marks: 70
-Date: 22 May 2017 Time: 2.00 pm to 4.00 pm
-Durations: 2 (hrs)
-
-No. of pages: _3
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1__ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5___ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1. A) A hospital has 300 nurses. During the past year, 48 of the nurses earned a pay raise. At the beginning of the
-year, the hospital offered a special training seminar, which was attended by 138 of the nurses. Twenty-seven of the
-nurses who earned a raise had attended the training seminar. What is the probability that a nurse who earned a pay
-raise had attended the training seminar? (7 Marks)
-
-B) Consider a routine screening test for a disease. Suppose the frequency of the disease in the population (base rate)
-is 0.5%. The test is highly accurate with a 5% false positive rate and a 10% false negative rate. You take the test and
-it comes back positive. What is the probability that you have the disease?
-
-(7 Marks)
-Q2. Monthly expenditure of 141 families is given below: (14 Marks)
-Monthly expenditure: 70-80 60-70 50-60. 40-50 30-40 20-30 10-20 0-10
-No. of Families: 11 22 ? 35 21 2 6 5
-
-If the mode of the distribution is 47.37, calculate Karl Pearson’s coefficient of skewness. (14 Marks)
---- page 2 ---
-3. The following table gives the profits and number of Companies:
-
-Profits (Rs.
-
-Lakh) 10-20 | 20-30 | 30-40 | 40-50 | 50-60 | 60-70 | 70-80 | 80-90 | 90-100
-
-No.of
-
-Companies 6 8 12 18 25 16 8 S 2
-Draw a histogram less than and more than ogive. (14 Marks)
-
-Q4.A)You pay $10 to play the following game of chance. There is a bag containing 12 balls, five are red,
-three are green and the rest are yellow. You are to draw one ball from the bag. You will win $14 if you
-draw a red ball and you will win $12 is you draw a yellow ball. How much do you expect to win or lose if
-you play this game 100 times? (7 Marks)
-
-B)A consumer research organization routinely selects several cars each year and evaluates their fuel
-efficiency. In this year’s study of two similar subcompact models from two different automakers, the
-average gas mileage for 12 cars of brand A was 27.2 miles per gallon and the standard deviation was 3.8
-mpg. The nine brand B car that were tested averaged 32.4 mpg, and standard deviation was 4.3 mpg. At a
-=0.01, should it conclude that brand A car have lower average gas mileage than do brand B cars.
-
-(t Table:-2.52) (7 Marks)
-
-QS. Eight friends take a picnic to a cricket match. As her contribution to the picnic, Hilda buys eight sandwiches at a
-supermarket. She selects the sandwiches at random from those on display. The probability that a sandwich is
-
-suitable for vegetarians is independently 0.3 for each sandwich. (7 Marks)
-A) Find the probability that, of the eight sandwiches, the number suitable for vegetarians is:
-(i) 2 or fewer;
-
-(ii) Exactly 2;
-(iii) More than 3.
-
-B)A life insurance salesman sells on the average 3 life insurance policies per week. Use Poisson's law to calculate the
-probability that in a given week he will sell. (7 Marks)
-
-i) Some policies
-ii) 2 or more policies but less than 5 policies.
-
-iii) Assuming that there are 5 working days per week, what is the probability that in a given day he will sell one
-policy?
-
-Q6. A. Suppose the manufacturer claims that the mean lifetime of a light bulb is more than 10,000 hours. In a
-sample of 30 light bulbs, it was found that they only last 9,900 hours on average. Assume the population standard
-deviation is 120 hours. At .05 significance level, can we reject the claim by the manufacturer?(z-table:-1.64)
-
-(7 Marks)
-
-*h
---- page 3 ---
-B. Suppose 60% of citizens voted in last election. 85 out of 148 people in a telephone survey said that they voted in
-current election. At S percent significance level, can we reject the null hypothesis that the proportion of voters in
-the population is above 60% this year? (z-table:-1.64) (7 Marks)
-
-Q7. The motor pool wants to know if it costs more to maintain cars that are driven more often.(14 Marks)
-
-Car Number Repair Costs
-Miles Driven (X) | (Y(S))
-80000 1200
-29000 150
-53000 650
-13000 200
-45000 325
-
-i) Calculate intercept and slope
-
-ii) Predict y if X=20000
-````
-
-## 2016-17 · Re-Exam · Sem 4 · paper af4fd70abf3e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/STATISTICAL METHODS BATCH 2016-2017 RE EXAM0001.pdf`
-- Printed on paper: exam date: 15 July 2017
-- Text: ocr (4 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech (All Streams) Year: II Semester: IV
-
-Batch: 2016-2017
-Academic Year: 2016-2017
-
-Subject: Statistical Methods
-
-Date: 15 July 2017 Time pm to, 04: 00; IF)
-
-c (hrs) 7
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1__ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5___ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1. Cost accountants often estimate overhead based on the level of production. At the
-Standard Knitting Co., they have collected information on overhead expenses and
-units produced at different plants, and want to estimate a regression equation to
-
-predict future overhead.
-
-Overhead | 191 170 | 272 | 155 | 280 | 173 | 234 | 116 | 153 | 178
-
-Units 40 42 53 35 56 39 48 30 37 40
-
-a. Develop the regression equation for the cost accountants (8 Marks)
-
-th
---- page 2 ---
-b. Predict overhead cost when 50 units are produced (3Marks)
-c. Calculate the standard error of estimate (3 Marks)
-2. Answer the following Questions
-
-a. The Greensboro Coliseum is considering expanding its seating capacity and needs
-to know both the average number of people who attend events there and the
-variability in this number. The following are the attendances (in thousands) at nine
-randomly selected sporting events. Find the point estimates of the mean and the
-variance of the population from which the sample was draw (7 Marks)
-
-8.8 14.0 21.3 79 12.5 20.6 16.3 14.1 13.0
-
-b. Talent, Ltd., a Hollywood casting company, is selecting a group of extras for a
-
-movie. The age of the first 20 men to be interview are (7 Marks)
-
-54 56 ah) 49 52 57 56 57 56 59
-
-54 55 61 60 51 59 62 52 54 49
-
-The director for the movie wants men whose ages are fairly tightly grouped 55 years.
-Being a statistics buff of sorts, the director suggests that a standard deviation of 3
-years would be acceptable. Does this group of extras quality?
-
-3. Answer the following Questions
-
-a. In a sample of 25 observations from a normal distribution with mean 98.6 and
-
-standard deviation 17.2
-i. What is P(92<x< 102) (Hint Z -1.92 = 0.4726 and Z 0.99 = 0.3389) (3.5
-Marks)
-ii. Find the corresponding probability given sample of 36. (Hint Z -2.30 =0.4893
-and Z 1.18 = 0.3810) (3.5 Marks)
-
-b. Mary Bartel, an auditor for a large credit card company, knows that, on average,
-the monthly balance of any given customer is $ 112, and the standard deviation is
-$ 56. If Mary audits 50 randomly selected accounts, what is the probability that
-the sample average monthly balance is
-
-i. Below $100? ( 3.5 Marks)
-ii. Between $ 100 and $ 130? (3.5 Marks)
-
-if
---- page 3 ---
-4. American theatres know that acertain hit movie ran an average of 84 days in each
-city, and the corresponding standard deviation was 10 days. The manager of the
-south-eastern district was interested in comparing the movie’s popularity in his region
-with that in all of American’s other theatres. He randomly chose 75 theatres in his
-region and found that they ran the movie an average of 81.5 days.
-
-a. State appropriate hypotheses for testing whether there was a significant difference
-in the length of the picture’s run between theatres in the south-eastern district and
-all of American’s other theatres, (7 Marks)
-
-b. At 1 percent significance level, test these hypotheses (7 Marks)
-
-5. Answer the following questions ;
-
-a. Coca Cola Company is studying the effect of its latest advertising campaign. People
-chosen at random were called and asked how many cans of Coca Cola they had
-purchased in the past week and how many Coca Cola advertisements they had either
-read or seen in the past week. The followings are the results (7 Marks)
-
-X (Number of ads) 3 7 4)/2 10 14 |1 |2
-Y (cans purchased) | 11 18 |9 |4 1/7 1/6 |3 {8
-
-Calculate the correlation of coefficient and interpret the results
-
-b. The latest nationwide political poll indicates that for Americans who are randomly
-selected, the probability that they are conservative is 0.55, the probability that they are
-liberal is 0.30, and the probability that they are middle-of-the-road is 0.15. Assuming
-that these probabilities are accurate, answer the following questions pertaining to a
-randomly chosen group of 10 Americans. (7 Marks)
-
-i. | What is the probability that four are liberal?
-
-ii. | What is the probability that none are conservative?
-iii. | What is the probability that two are middle-of-the road?
-iv. What is the probability that at least eight are liberal
-
-6. High performance Bicycle Products Company in Chapel Hill, North Carolina,
-sampled its shipping records for a certain day with these results: ( 14 Marks)
-
-Time from Receipt of order to Delivery (in days)
-
-4 12 8 14 11 6 7 13 13 at
-
-11 20 5 19 10 15 24 7 19 6
-
-‘|,
---- page 4 ---
-Construct a frequency distribution for these data and a relative frequency distribution.
-Use intervals of 6 days.
-
-a. What statement can you make about the effectiveness of order processing from
-frequency distribution?
-
-b. Ifthe company wants to ensure that half of its deliveries are made in 10 or fewer
-days, can you determine from the frequency distribution whether they have
-reached this goal?
-
-c. What does having a relative frequency distribution permit you to do with the data
-is difficult to do with only a frequency distribution?
-
-. A training programme designed to upgrade the supervisory skills of production-line
-supervisors. Because the program is self-administered, supervisors require different
-numbers of hours to complete the program. A study of past participants indicates that
-the mean length of time spent on the program is 500 hours and that this normally
-distributed random variable has a standard deviation of 100 hours. Answer all the
-questions with diagram. (14 Marks)
-
-a. What is the probability that a participant selected at random will require more
-than 500 hours completing the program?
-
-b. What is the probability that a candidate selected at random will take between
-500 and 650 hours to complete the training program? (Hint: Zvalue 1.5 =
-0.4332)
-
-c. What is the probability that a candidate selected at random will take more than
-700 hours to complete the program?( Hint: Z value 2 = 0.4772)
-
-d. Suppose the training program director wants to know the probability that a
-participant chosen at random would require between 550 and 650 hours to
-complete the required work. ( Hint Z value 1.5 = 0.4332 and Z value 0.5 =
-0.1915)
-
-e. What is the probability that a candidate selected at random will require fewer
-than 580 hours to complete the program? (Hint Z value 0.8 = 0.2881
-````
-
-## 2016-17 · Re-Exam · Sem 4 · paper 7afe318bbe9c
+## 2018-19 · Re-Exam · Sem 4 · paper 7afe318bbe9c
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -8712,7 +8436,7 @@ df
 XN,
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper 2f3235be59ab
+## 2018-19 · Re-Exam · Sem 4 · paper 2f3235be59ab
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -8835,7 +8559,196 @@ Error | w=+-=-= 101.6 | weeneee
 19 114.55
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper bfffa0597a53
+## 2017-18 · Exam not stated · Sem 4 · paper d484c17ac578
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/Statistical Methods 2016-17 (All streams)0001.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 18 May 2018
+- Text: ocr (3 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (All Streams) Year: II Semester: IV
+
+Academic Year: 2017-2018
+
+Subject:Statistical Methods
+
+Marks:70
+Time: 2.00 pm to 4.00 pm
+Durations: 2 (hrs)
+
+No. of Pages : 2 ©
+Re-examination (2016-17)
+
+Date:18 May 2018
+
+Instructions: Candidates should read carefully the instructions
+
+the cover of the Answer Book, which is provided for their use.
+NB: ©
+
+printed on the question paper and on
+
+I. Question No. ONE is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions. 7
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full m
+
+arks,
+7. Assume Suitable data if necessary. .
+
+Q.1)
+
+a) The purchase department of a company XY Z has obtained samples of tube lights the well-known
+
+brands A and B .The following is record of length of life on the basis of tests conducted on these
+
+samples. .
+XYZ
+Length of life (hrs.) | Brand A | Brand B
+Less than 1000 2 6 | (7)
+
+1000-3000 20 10
+3000-5000 | 4 10
+5000-7000 12 17
+7000-9000 15 | 10
+
+Greater than 9000 7 | 7
+
+Which company’s tube lights are more consistent?
+b) A Chicago based American company is operating call centres in Gurgaon and Bangalore and
+asserts that there is no significant difference in the average pay package for employees working at
+both the places. A sample of 400 employees is taken from the Gurgaon centre and the average pay
+| package was Rs 4.00 lakhs per annum with a standard deviation of Rs 0.20 lakh. Ina sample of (7}
+| 340 employees from the Bangalore centre the figures were Rs 4.20 lakhs and Rs 0.32 lakh
+respectively. Test at 5% level of significance whether there is any significant difference in the pay
+package at the two centres? CZENGWE )
+Q.2)
+a) A company has two plants to manufacture
+Plant IT manufactures 30%. At Plant I, 80%
+of the scooters are rated standard quality.
+
+scooters. Plant I manufactures 70% of the scooters and
+scooters are rated standard quality and at Plant II, 90% 7)
+A scooter is picked up at random and is found to be (
+
+standard quality. What is the chance that it comes from Plant I?
+
+pe
+--- page 2 ---
+b) Given below is the pre-tax monthly income f residents of an industrial town:
+More More More More More More More
+
+Pretax income than than than than than than than as
+(Rs) 7900 | 6000 | 5000 | 4000 | 3000 | 2000 | 1000 | “™
+No. of (7)
+Residents (in 2 8 10 15 25 40 55 60
+thousands)
+Draw a “less than ogive” and hence find out:
+i) the highest income of the lowest 50% of the residents;
+ii) the minimum income earned by the top 5% of the residents.
+
+Q.3)
+
+a) An aptitude test for selecting officers in a bank was conducted on 1000 candidates, the average
+score is 42 and the standard deviation of score is 24. Assume normal distribution for the scores,
+
+find: 7 )
+i) the number of candidates whose score exceeds 60,
+ii) ‘ the number of candidates whose score lie between 30 and 66.
+
+b) A random sample of size 64 has been drawn from a population with standard deviation 20. The
+mean of the sample is 80. (i) Calculate the 95% confidence limits for the population mean, (ii) how (7)
+does the width of the confidence interval change id sample size is 256 instead? ~ 2: / )
+
+Q.4)
+
+a) Find out Q,,D,,P,, for the following data:
+
+— 200- | 400- | 600- | 800- |} 1000- | 1200- | 1400- | 1600- | 1800-
+
+“en 400 | 600 | 800 | 1000 | 1200 | 1400 | 1600 | 1800 | 2000 | (7)
+[in Rs J
+
+Ho. ar g 9 i 14 20 15 10 8 7
+families
+
+b) A general insurance company feels that the proportion of claims of theft of private cars is much
+more than such a proportion in case of commercial cars. Hence, there is an urgent need to increase
+the annual insurance premium in case of private cars. To check the hypothesis of the insurance
+company, a committee of some enlightened citizens was formed and it conducted a random study. (7)
+Out of a random sample of 200 private cars under insurance 12 reported claim of theft. On the
+other hand claims of only 4 cmmercial cars out of a random sample of 128 were noted. In your
+opinion what will be the recommendation of the committee at 5% level of significance? (21 hb Y)
+
+Q.5 ;
+
+a) An investor made his investment in two types of investments: shares and landed property. He
+divided his investment in shares in marketable lots and purchased land in plots of 200 yards so that
+investment in each lot of shares and each plot is almost equal. After a gap of six years he made the
+following analysis:
+
+Type of investment | No. of samples | Mean gain (in Rs Lakhs) | Variance of gain (in Rs Lakhs) (7)
+Lots of shares 9 600 121
+Plots 8 640 144
+Is there a significant difference in the mean gains in the two types of investments? (4 1,2-/% D
+b) The following table shows the number of motor registrations in a certain territory for a terms of 5
+years and the sale of motor tyres by a firm in that territory for the same period:
+Year: 1 2 3 4 5
+Motor registration: | 600 | 630 | 720 | 750 | 800 (7}
+
+No. of tyres sold: | 1250 | 1100 | 1300 | 1350 | 1500
+Find the regression equation to estimate the sale of tyres when motor registration is known.
+Estimate the sale of tyres when registration is 850.
+
+rhe
+--- page 3 ---
+Q.6)
+" a) The number of units sold by a firm during the last seven months of the current year is given below:
+| Months Jun. | Jul. | Aug. | Sep. | Oct. | Nov. | Dec. |
+No. of Units sold | 22 | 25 | 38 | 43 | 44 [ 50 | 72
+Compute the following
+(i) The Mean monthly sales,
+(ii) Standard deviation and coefficient of variation ,
+(iii) | Coefficient of Skewness by Karl Pearson’s method,
+(iv) Bowley’s Coefficient of Skewness ,
+A famous South-Indian hotel serves the same food in two different restaurants: X and Y.
+Restaurant X cater to high-income customers, is more spacious, air-conditioned and has better
+ambience but it rates are higher. Restaurant Y cater to low-income customers, is not air-
+conditioned, has wooden chairs and ordinary ambience but its rates are low. However, quality and
+variety of food is the same. The accounts officer of the hotel claims that the business per customer
+
+in terms of rupees in restaurant Y is more consistent than restaurant X. To support his claim, he
+collected the following data: ¢ F { /.59)
+
+Restaurant X | Restaurant Y
+Sample size 41 61
+Sample variance (in Rs) 120 | 105
+
+Test the claim of the accounts officer at 5% level of significance. Use F test.
+
+Calculate Karl Pearson’s coefficient’of correlation between expenditure on advertising and sales
+from data given below:
+
+| Advertising expenses (000Rs) | 39 | 65 | 62 | 90 | 82 | 75 | 25 | 98 | 36] 78
+
+| Sales (Lakhs Rs) 47 | 53 | 58 | 86 | 62 | 68 | 60 | 91 | 51] 84
+In a survey of 300 employees of an IT company in Hyderabad, 180 were male of which 100 are
+unmarried. 100 female employees are married. Can you conclude on the basis of above information (7)
+that greater number of female employees is married than male employee? Use Chi-square test at
+S%LOS. C x2 ¢. 947)
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper bfffa0597a53
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -8992,6 +8905,450 @@ Correlation coefficient between x and y = 0.66 ©
 (7)
 
 (7)
+````
+
+## 2016-17 · Final-Exam · Sem 4 · paper a2d0bb9f539a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/STATISTICAL METHODS BATCH 2016-2017 FINAL0001.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 22 May 2017
+- Text: ocr (3 pages), mean OCR confidence 94.7
+
+````text
+pW /
+SVKM’s NMIMS lage ee
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG
+
+Programme: MBA Tech (All Streams) Year: II Semester: IV
+
+Academic Year: 2016-2017 \
+Subject: Statistical Methods \
+
+Marks: 70
+Date: 22 May 2017 Time: 2.00 pm to 4.00 pm
+Durations: 2 (hrs)
+
+No. of pages: _3
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5___ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1. A) A hospital has 300 nurses. During the past year, 48 of the nurses earned a pay raise. At the beginning of the
+year, the hospital offered a special training seminar, which was attended by 138 of the nurses. Twenty-seven of the
+nurses who earned a raise had attended the training seminar. What is the probability that a nurse who earned a pay
+raise had attended the training seminar? (7 Marks)
+
+B) Consider a routine screening test for a disease. Suppose the frequency of the disease in the population (base rate)
+is 0.5%. The test is highly accurate with a 5% false positive rate and a 10% false negative rate. You take the test and
+it comes back positive. What is the probability that you have the disease?
+
+(7 Marks)
+Q2. Monthly expenditure of 141 families is given below: (14 Marks)
+Monthly expenditure: 70-80 60-70 50-60. 40-50 30-40 20-30 10-20 0-10
+No. of Families: 11 22 ? 35 21 2 6 5
+
+If the mode of the distribution is 47.37, calculate Karl Pearson’s coefficient of skewness. (14 Marks)
+--- page 2 ---
+3. The following table gives the profits and number of Companies:
+
+Profits (Rs.
+
+Lakh) 10-20 | 20-30 | 30-40 | 40-50 | 50-60 | 60-70 | 70-80 | 80-90 | 90-100
+
+No.of
+
+Companies 6 8 12 18 25 16 8 S 2
+Draw a histogram less than and more than ogive. (14 Marks)
+
+Q4.A)You pay $10 to play the following game of chance. There is a bag containing 12 balls, five are red,
+three are green and the rest are yellow. You are to draw one ball from the bag. You will win $14 if you
+draw a red ball and you will win $12 is you draw a yellow ball. How much do you expect to win or lose if
+you play this game 100 times? (7 Marks)
+
+B)A consumer research organization routinely selects several cars each year and evaluates their fuel
+efficiency. In this year’s study of two similar subcompact models from two different automakers, the
+average gas mileage for 12 cars of brand A was 27.2 miles per gallon and the standard deviation was 3.8
+mpg. The nine brand B car that were tested averaged 32.4 mpg, and standard deviation was 4.3 mpg. At a
+=0.01, should it conclude that brand A car have lower average gas mileage than do brand B cars.
+
+(t Table:-2.52) (7 Marks)
+
+QS. Eight friends take a picnic to a cricket match. As her contribution to the picnic, Hilda buys eight sandwiches at a
+supermarket. She selects the sandwiches at random from those on display. The probability that a sandwich is
+
+suitable for vegetarians is independently 0.3 for each sandwich. (7 Marks)
+A) Find the probability that, of the eight sandwiches, the number suitable for vegetarians is:
+(i) 2 or fewer;
+
+(ii) Exactly 2;
+(iii) More than 3.
+
+B)A life insurance salesman sells on the average 3 life insurance policies per week. Use Poisson's law to calculate the
+probability that in a given week he will sell. (7 Marks)
+
+i) Some policies
+ii) 2 or more policies but less than 5 policies.
+
+iii) Assuming that there are 5 working days per week, what is the probability that in a given day he will sell one
+policy?
+
+Q6. A. Suppose the manufacturer claims that the mean lifetime of a light bulb is more than 10,000 hours. In a
+sample of 30 light bulbs, it was found that they only last 9,900 hours on average. Assume the population standard
+deviation is 120 hours. At .05 significance level, can we reject the claim by the manufacturer?(z-table:-1.64)
+
+(7 Marks)
+
+*h
+--- page 3 ---
+B. Suppose 60% of citizens voted in last election. 85 out of 148 people in a telephone survey said that they voted in
+current election. At S percent significance level, can we reject the null hypothesis that the proportion of voters in
+the population is above 60% this year? (z-table:-1.64) (7 Marks)
+
+Q7. The motor pool wants to know if it costs more to maintain cars that are driven more often.(14 Marks)
+
+Car Number Repair Costs
+Miles Driven (X) | (Y(S))
+80000 1200
+29000 150
+53000 650
+13000 200
+45000 325
+
+i) Calculate intercept and slope
+
+ii) Predict y if X=20000
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 69d93a41768d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/STATISTICAL METHODS BATCH 2015-2016 RE EXAM0001.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 22 May 2017
+- Text: ocr (3 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Programme: MBA. Tech (All Streams) Year: II
+
+Batch: 2015-2016
+Academic Year: 2016-2017
+
+Subject: Statistical Methods
+Marks: 60
+
+Date: 22 May 2017 Time: 2.00 pm to 4.00 pm
+Durations: 2 (hrs)
+No. of Pages:
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1.
+a) A manufacturer ordered Mobile parts from three different suppliers with the following
+percentages of defective parts
+
+Supplier | Supplier 2 Supplier 3
+Defective Parts 3% 5% 4%
+Nondefective Parts 97% 95% 96%
+
+The current inventory of parts contains 5000 units from Supplier 1, 3500 units from Supplier 2, —
+and 2000 units from Supplier 3. If a part is chosen from the inventory at random, what is the
+probability that it is defective? If a part that is chosen at random from the inventory is found to
+be defective, what is the probability that it came from Supplier 1? (6 Marks)
+
+b) Prepare a frequency distribution table by generating your own data and draw less than and
+more than ogive for the frequency distribution and determine the median. (6 Marks)
+
+2
+
+a) Assorted dried fruit sells for $5.50 per pound. How many pounds of mixed nuts selling for
+$4.75 per pound should be mixed with 10 pounds of dried fruit to obtain a trail mix that sells for
+$4.95 per pound? (6 marks)
+
+Vz
+--- page 2 ---
+b) Find the mean, median and mode from the following data
+
+Marks: lessthan 10 less than 20 less than30 less than 40 __ less than 50
+No of Students: 5 13 23 27 30
+
+(6 Marks)
+3.
+
+a) A lab network consisting of 20 computers was attacked by a computer virus. This virus enters
+each computer with probability 0.4, independently of other computers.
+
+i) Find the probability that the virus enters at least 10 computers. (3 Marks)
+
+ii) A computer manager checks the lab computers, one after another, to see if they were infected
+by the virus. What is the probability that she has to test at least 6 computers to find the first
+infected one? (3 Marks)
+
+b) The number of industrial injuries per working week in a particular factory is known to
+follow a Poisson distribution with mean 0.5. (6 Marks)
+Find the probability that
+i) Ina particular week there will be: less than 2 accidents, more than 2 accidents
+ii) In a three week period there will be no accidents.
+
+4. An insurance company is reviewing its current policy rates. When originally setting the rates
+they believed that the average claim amount was $2,800. They are concerned that the true mean
+is actually higher than this, because they could potentially lose a lot of money. They randomly
+select 50 claims, and calculate a sample mean of $2,950. Assuming that the standard deviation of
+claims is $500, and set a = .05, test to see if the insurance company should be concerned.
+(Ztable = +/-1.96) (12 Marks)
+
+5. Coca-cola company is studying the effect of its latest advertisement on it sales. People chosen
+at random were called and asked how many bottles of coca-cola they had bought in the past
+week and how many coca-cola advertisement they had either read or seen in the last week. The
+following are the information collected from the customers.
+
+X (Number | 3 7 16 {6 |10 | 12 |12 | 13 | 12 | 13 | 14 | 15
+
+of adds
+Y (bottles | 33 | 38] 24}61}52 | 45 |65 | 82 | 29 | 63 | 50 | 79
+Purchased
+
+i) Develop the estimating equation that best fits the data. (6 Marks)
+
+ii) Calculate the sample coefficient of determination and the sample co-efficient of
+Correlation. (6 Marks)
+
+2/3
+--- page 3 ---
+6. Write notes on any two of the following — (6*2=12 Marks)
+i) Bayes Theorem
+ii) Type I and Type II errors.
+iii) Central limit theorem
+
+7. Ina TV Game show, a contestant selects one of three doors; behind one of the doors there is a
+prize, and behind the other two there are no prizes. After the contestant selects a door, the game
+show host opens one of the remaining doors, and reveals that there is no prize behind it. The host
+then asks the contestant whether they want to SWITCH their choice to the other unopened door,
+or STICK to their original choice. Is it probabilistically advantageous for the contestant to
+SWITCH doors, or is the probability of winning the prize the same whether they STICK or
+SWITCH? (Assume that the host selects a door to open, from those available, with equal
+probability). (12 Marks).
+
+3/5
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper af4fd70abf3e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/STATISTICAL METHODS BATCH 2016-2017 RE EXAM0001.pdf`
+- Printed on paper: exam date: 15 July 2017
+- Text: ocr (4 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) Year: II Semester: IV
+
+Batch: 2016-2017
+Academic Year: 2016-2017
+
+Subject: Statistical Methods
+
+Date: 15 July 2017 Time pm to, 04: 00; IF)
+
+c (hrs) 7
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5___ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1. Cost accountants often estimate overhead based on the level of production. At the
+Standard Knitting Co., they have collected information on overhead expenses and
+units produced at different plants, and want to estimate a regression equation to
+
+predict future overhead.
+
+Overhead | 191 170 | 272 | 155 | 280 | 173 | 234 | 116 | 153 | 178
+
+Units 40 42 53 35 56 39 48 30 37 40
+
+a. Develop the regression equation for the cost accountants (8 Marks)
+
+th
+--- page 2 ---
+b. Predict overhead cost when 50 units are produced (3Marks)
+c. Calculate the standard error of estimate (3 Marks)
+2. Answer the following Questions
+
+a. The Greensboro Coliseum is considering expanding its seating capacity and needs
+to know both the average number of people who attend events there and the
+variability in this number. The following are the attendances (in thousands) at nine
+randomly selected sporting events. Find the point estimates of the mean and the
+variance of the population from which the sample was draw (7 Marks)
+
+8.8 14.0 21.3 79 12.5 20.6 16.3 14.1 13.0
+
+b. Talent, Ltd., a Hollywood casting company, is selecting a group of extras for a
+
+movie. The age of the first 20 men to be interview are (7 Marks)
+
+54 56 ah) 49 52 57 56 57 56 59
+
+54 55 61 60 51 59 62 52 54 49
+
+The director for the movie wants men whose ages are fairly tightly grouped 55 years.
+Being a statistics buff of sorts, the director suggests that a standard deviation of 3
+years would be acceptable. Does this group of extras quality?
+
+3. Answer the following Questions
+
+a. In a sample of 25 observations from a normal distribution with mean 98.6 and
+
+standard deviation 17.2
+i. What is P(92<x< 102) (Hint Z -1.92 = 0.4726 and Z 0.99 = 0.3389) (3.5
+Marks)
+ii. Find the corresponding probability given sample of 36. (Hint Z -2.30 =0.4893
+and Z 1.18 = 0.3810) (3.5 Marks)
+
+b. Mary Bartel, an auditor for a large credit card company, knows that, on average,
+the monthly balance of any given customer is $ 112, and the standard deviation is
+$ 56. If Mary audits 50 randomly selected accounts, what is the probability that
+the sample average monthly balance is
+
+i. Below $100? ( 3.5 Marks)
+ii. Between $ 100 and $ 130? (3.5 Marks)
+
+if
+--- page 3 ---
+4. American theatres know that acertain hit movie ran an average of 84 days in each
+city, and the corresponding standard deviation was 10 days. The manager of the
+south-eastern district was interested in comparing the movie’s popularity in his region
+with that in all of American’s other theatres. He randomly chose 75 theatres in his
+region and found that they ran the movie an average of 81.5 days.
+
+a. State appropriate hypotheses for testing whether there was a significant difference
+in the length of the picture’s run between theatres in the south-eastern district and
+all of American’s other theatres, (7 Marks)
+
+b. At 1 percent significance level, test these hypotheses (7 Marks)
+
+5. Answer the following questions ;
+
+a. Coca Cola Company is studying the effect of its latest advertising campaign. People
+chosen at random were called and asked how many cans of Coca Cola they had
+purchased in the past week and how many Coca Cola advertisements they had either
+read or seen in the past week. The followings are the results (7 Marks)
+
+X (Number of ads) 3 7 4)/2 10 14 |1 |2
+Y (cans purchased) | 11 18 |9 |4 1/7 1/6 |3 {8
+
+Calculate the correlation of coefficient and interpret the results
+
+b. The latest nationwide political poll indicates that for Americans who are randomly
+selected, the probability that they are conservative is 0.55, the probability that they are
+liberal is 0.30, and the probability that they are middle-of-the-road is 0.15. Assuming
+that these probabilities are accurate, answer the following questions pertaining to a
+randomly chosen group of 10 Americans. (7 Marks)
+
+i. | What is the probability that four are liberal?
+
+ii. | What is the probability that none are conservative?
+iii. | What is the probability that two are middle-of-the road?
+iv. What is the probability that at least eight are liberal
+
+6. High performance Bicycle Products Company in Chapel Hill, North Carolina,
+sampled its shipping records for a certain day with these results: ( 14 Marks)
+
+Time from Receipt of order to Delivery (in days)
+
+4 12 8 14 11 6 7 13 13 at
+
+11 20 5 19 10 15 24 7 19 6
+
+‘|,
+--- page 4 ---
+Construct a frequency distribution for these data and a relative frequency distribution.
+Use intervals of 6 days.
+
+a. What statement can you make about the effectiveness of order processing from
+frequency distribution?
+
+b. Ifthe company wants to ensure that half of its deliveries are made in 10 or fewer
+days, can you determine from the frequency distribution whether they have
+reached this goal?
+
+c. What does having a relative frequency distribution permit you to do with the data
+is difficult to do with only a frequency distribution?
+
+. A training programme designed to upgrade the supervisory skills of production-line
+supervisors. Because the program is self-administered, supervisors require different
+numbers of hours to complete the program. A study of past participants indicates that
+the mean length of time spent on the program is 500 hours and that this normally
+distributed random variable has a standard deviation of 100 hours. Answer all the
+questions with diagram. (14 Marks)
+
+a. What is the probability that a participant selected at random will require more
+than 500 hours completing the program?
+
+b. What is the probability that a candidate selected at random will take between
+500 and 650 hours to complete the training program? (Hint: Zvalue 1.5 =
+0.4332)
+
+c. What is the probability that a candidate selected at random will take more than
+700 hours to complete the program?( Hint: Z value 2 = 0.4772)
+
+d. Suppose the training program director wants to know the probability that a
+participant chosen at random would require between 550 and 650 hours to
+complete the required work. ( Hint Z value 1.5 = 0.4332 and Z value 0.5 =
+0.1915)
+
+e. What is the probability that a candidate selected at random will require fewer
+than 580 hours to complete the program? (Hint Z value 0.8 = 0.2881
 ````
 
 ## 2015-16 · Final-Exam · Sem 4 · paper ab0b49443ffe
@@ -9203,826 +9560,7 @@ for 25 outlets will fall within 30 million? (Hint: Z value =2.18) (12 Marks)
 g)s-
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 69d93a41768d
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/STATISTICAL METHODS BATCH 2015-2016 RE EXAM0001.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 22 May 2017
-- Text: ocr (3 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Programme: MBA. Tech (All Streams) Year: II
-
-Batch: 2015-2016
-Academic Year: 2016-2017
-
-Subject: Statistical Methods
-Marks: 60
-
-Date: 22 May 2017 Time: 2.00 pm to 4.00 pm
-Durations: 2 (hrs)
-No. of Pages:
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1.
-a) A manufacturer ordered Mobile parts from three different suppliers with the following
-percentages of defective parts
-
-Supplier | Supplier 2 Supplier 3
-Defective Parts 3% 5% 4%
-Nondefective Parts 97% 95% 96%
-
-The current inventory of parts contains 5000 units from Supplier 1, 3500 units from Supplier 2, —
-and 2000 units from Supplier 3. If a part is chosen from the inventory at random, what is the
-probability that it is defective? If a part that is chosen at random from the inventory is found to
-be defective, what is the probability that it came from Supplier 1? (6 Marks)
-
-b) Prepare a frequency distribution table by generating your own data and draw less than and
-more than ogive for the frequency distribution and determine the median. (6 Marks)
-
-2
-
-a) Assorted dried fruit sells for $5.50 per pound. How many pounds of mixed nuts selling for
-$4.75 per pound should be mixed with 10 pounds of dried fruit to obtain a trail mix that sells for
-$4.95 per pound? (6 marks)
-
-Vz
---- page 2 ---
-b) Find the mean, median and mode from the following data
-
-Marks: lessthan 10 less than 20 less than30 less than 40 __ less than 50
-No of Students: 5 13 23 27 30
-
-(6 Marks)
-3.
-
-a) A lab network consisting of 20 computers was attacked by a computer virus. This virus enters
-each computer with probability 0.4, independently of other computers.
-
-i) Find the probability that the virus enters at least 10 computers. (3 Marks)
-
-ii) A computer manager checks the lab computers, one after another, to see if they were infected
-by the virus. What is the probability that she has to test at least 6 computers to find the first
-infected one? (3 Marks)
-
-b) The number of industrial injuries per working week in a particular factory is known to
-follow a Poisson distribution with mean 0.5. (6 Marks)
-Find the probability that
-i) Ina particular week there will be: less than 2 accidents, more than 2 accidents
-ii) In a three week period there will be no accidents.
-
-4. An insurance company is reviewing its current policy rates. When originally setting the rates
-they believed that the average claim amount was $2,800. They are concerned that the true mean
-is actually higher than this, because they could potentially lose a lot of money. They randomly
-select 50 claims, and calculate a sample mean of $2,950. Assuming that the standard deviation of
-claims is $500, and set a = .05, test to see if the insurance company should be concerned.
-(Ztable = +/-1.96) (12 Marks)
-
-5. Coca-cola company is studying the effect of its latest advertisement on it sales. People chosen
-at random were called and asked how many bottles of coca-cola they had bought in the past
-week and how many coca-cola advertisement they had either read or seen in the last week. The
-following are the information collected from the customers.
-
-X (Number | 3 7 16 {6 |10 | 12 |12 | 13 | 12 | 13 | 14 | 15
-
-of adds
-Y (bottles | 33 | 38] 24}61}52 | 45 |65 | 82 | 29 | 63 | 50 | 79
-Purchased
-
-i) Develop the estimating equation that best fits the data. (6 Marks)
-
-ii) Calculate the sample coefficient of determination and the sample co-efficient of
-Correlation. (6 Marks)
-
-2/3
---- page 3 ---
-6. Write notes on any two of the following — (6*2=12 Marks)
-i) Bayes Theorem
-ii) Type I and Type II errors.
-iii) Central limit theorem
-
-7. Ina TV Game show, a contestant selects one of three doors; behind one of the doors there is a
-prize, and behind the other two there are no prizes. After the contestant selects a door, the game
-show host opens one of the remaining doors, and reveals that there is no prize behind it. The host
-then asks the contestant whether they want to SWITCH their choice to the other unopened door,
-or STICK to their original choice. Is it probabilistically advantageous for the contestant to
-SWITCH doors, or is the probability of winning the prize the same whether they STICK or
-SWITCH? (Assume that the host selects a door to open, from those available, with equal
-probability). (12 Marks).
-
-3/5
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper be265e3a5bfa
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/Statistical Methods Batch 2015-16 Re Exam0001.pdf`
-- Printed on paper: exam date: 09 July 2016
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: II Semester: IV
-Academic Year: 2015-16 ;
-
-Batch: 2015-16
-
-Subject: Statistical Methods
-
-= Date: 09 July 2016
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book .Which is provided for their use.
-NB: 1. Question No.ONE is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. In all FIVE questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1.a) For the following frequency distribution calculate Median, Third Quartile and Sixty fifth
-Percentile.
-" Marks 0-10 | 10-20 | 20-30 | 30-40 | 40-50 | 50-60 | 60-70 | 70-80 | 80-90 | 90-100
-
-No. of 5 12 16 26 70 85 16 8 8 4
-Students
-
-(6)
-b) Prices of a particular commodity in last five years in two cities are given below.
-Price incityA | 20 22 19 | 23] 16
-Price incityB | 10 20 18 | 12) 15
-Find the city which has more stable prices. (6)
-Q.2 a) Calculate the first four moments about the mean of the given distribution. Also find
-
-Band B,.Comment on the Kurtosis of distribution.
-
-x 2.0 2.5 | 3.0 3.5 | 4.0 45 5.0
-f 4 36 60 90 =| 70 40 10
-
-(6)
-b) A pair of dice is thrown 3 times. If getting a doublet is considered as a success, find the probability
-of (i) Successes (ji) at least 2 successes and (iii) at most 2 successes. (6)
-Q.3 a) Records show that the probability is 0.00005 that a car will have a flat tyre while driving
-through a certain tunnel. Find the probabilities that among 10,000 cars passing through this tunnel.
-(i) at least two will have a flat tyre (ii) at most two will have a flat tyre. (4)
-{b) The probability is 0.60 that a person shopping at a certain market will spend at least Rs. 25.
-
-Find the probabilities that among 5-persons shopping at this market 0, 2, 4 or 5 will spend at least
-
-a
-Rs.25. (4)
-{c) If x follows a Poisson variable such that, P(x=2) = 9 P(x=4) + 90 P(x=60) and the mean and variance
-pu of x. (4)
-
-Q. 4a) Incandescent electric bulbs of a certain make have a mean life of 800 hours with S.D. of 150
-hours. Out of 50,000 bulbs of that make used for street lighting, how many of them would fuse in
-
-4/2
---- page 2 ---
-first 650 hours, if the distribution of the life on bulbs is assumed to be normal? On the same
-assumption how many bulbs would still be burning after 950 hours? (Given Area Between z= -1 and
-
-2 = Ois 0.34134). (6)
-b) Calculate Karl Pearson’s coefficient of correlation for the following data.
-
-x 23) 28 42 17 26 35 29 37 16 48
-
-y 25 22 38 21 27 39 24 32 18 44
-
-(6)
-Q. 5a) The regression equations are 8x-10y + 66 = 0 and 40x -18y = 214. The value of variance of x is
-9. Find, (i) Mean values of x and y, (ii) the correlation coefficient r and (iii) the S.D. of y. (6)
-b) The regression equations from the followings
-> x= 60,5) y = 40, xy =1150,57 x? = 4160)" y? =1720, and N = 10. (6)
-Q. 6 a) Write short notes on any two
-(i) Null and Alternate Hypothesis
-(ii) Positive and Negative correlation
-‘(iii) Kurtosis and Measure of Kurtosis . (6)
-b) A manufacturer developed a fishing line and claims that it has a mean breaking strength of 8kg Py
-with S.D. of 0.5 kg .If a random sample of 50 fishing lines is tested and found to have a mean
-and breaking strength of 7.8kg, test manufacturer’s claim. Use 0.01 level of significance. (Given
-table value of z is 2.58) (6)
-
-Q.7 a) The number of defects per unit in sample of 330 units of a manufactured product was found
-
-as follows:
-"Number of 0 1 2 3 4
-defects
-Number of 214 92 20 3 1
-units
-Fit a Poisson distribution to the data and test the goodness of fit ( Loos =3.84 for d.f.=1) (6)
-
-b) In arandom sample of 200 persons of a town, 120 are found tea drinkers. In a sample of 500
-persons from another town 240 are found to be tea drinkers. Is the proportion of tea drinkers in the
-
-two equals? Use 0.01 level of significance. (Given Z, 4, = 2.58). (6)
-
-FO GIG GOI IRGC GIGI ICICI GIGI AGG ICK II I sk kek a ak aka a a ok a
-````
-
-## 2014-15 · Final-Exam · Sem 4 · paper 48933464eafa
-
-- Departments: Chemical, Civil, Computer Engineering, Electronics and Telecommunication, Information Technology, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/STATISTICAL METHODS/STATISTICAL METHODS BATCH 2014-2015 FINAL.pdf` (+5 identical copies)
-- Printed on paper: exam date: 19/05/2015
-- Text: ocr (3 pages), mean OCR confidence 86.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT é& ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: II Semester: IV
-
-Academic Year: 2014-2015
-
-Subject: Statistical Methods ae
-Marks: %60°7~
-Date: 19/05/2015 Time : 4 ¥,/ 10.09 any noon
-Durati ns:! i2;( ici nN 1
-Final-Examination NG 4 wy
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 5 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1) a) With the help of a given data find (6 Marks)
-i. Value of the median
-ii. Value of middle 50%
-iii. The value of P4o and De
-iv. Graphically with the help of ogive curve, the value of Qi, Qs, median, Pao and De
-Age 10-14 15-19 20-24 | 25-29 30-34 35-39
-No. of Persons | 5 10 15 20 10 5
-
-b) Cost accountants often estimate overhead based on the level of production. At the LR
-Gioup co., they have collected information on overhead expenses and units produced at different
-plants, and want to estimate a regression equation to predict future overhead. (6 Marks)
-Overhead | 195 | 172 | 272 | 160 | 280 | 175 | 235 | 116 | 153 | 180
-Units 41 |40 |52 [35 |55 |40 |47 |32 | 38 | 40
-i. Develop the regression equation for the cost accountant
-ii. Predict overhead when 100 units are produced
-iii. | Calculate the standard error of estimates
-
-= 2) Indian theaters knows that a certain hit movie ran an average of 95 days in each city, and
-the corresponding standard deviation was 12 days. The manager of the Mumbai city was
-interested in comparing the movie popularity in his region with that in all of Indian’s
---- page 2 ---
-other theaters. He randomly chose 105 theaters in his region and found that they ran the
-
-movie an average of 91 days. (12 Marks)
-
-1. State appropriate hypothesis for testing whether there was a significant difference
-in the length of the picture’s run between theaters in the Mumbai city and all of
-India’s other theaters.
-
-il. At | percent significant level, test these hypothesis. (Z tabie=+/-2.58)
-
-3) a) The final exam in a nursing course consists of 100 multiple-choice questions. Each
-question has 5 possible answers, and only 1 of them is correct. An unprepared student
-
-makes random guesses for all of the answers. (6 Marks)
-i. Find the mean and standard deviation for the number of correct answers for such
-students.
-
-il. Would it be unusual for a student to pass this exam by guessing and getting at
-least 60 correct answers? Why or why not?
-b) Explain Bayes’ Theorem (6 Marks)
-
-4) A brand manager is concerned that her brand’s share may be unevenly distributed
-throughout the country. In a survey in which the country was divided into four
-geographic regions, a random sampling of 100 consumers in each region was surveyed,
-
-with the following results: (12 Marks)
-NE NW SE SW
-Purchase the brand | 40 55 45 50
-Do not purchase 60 45 55 50
-
-i. Develop a table of observed and expected frequencies for this problem
-il. Calculate the sample 7? value
-
-iii. Sate the null and alternative hypothesis
-iv. At 5 percent test whether brand share is the same across the four regions (y?
-rabie=7.8 | 8) z
-5) Write short notes on any two (6x2=12 Marks)
-is Standard Normal Distribution.
-il. Type | and Type II Errors
-iil, Methods of sampling
-6) The Daily income of 100 families is given below: (12 Marks)
-Income 20-25 | 25-30 | 30-35 | 35-40 | 40-45 | 45-50 | 50-55
-Frequency 8 ? 20 ? 15 12 8
-
-If the mode of the distribution is 36.67, calculate Karl Pearson’s Coefficient of Skewness.
-
-7) In asmall town, a survey was conducted in respect of profits made by retail shops. The
-following results were obtained: (12 Marks)
-
-~
-
-Fe
---- page 3 ---
-| Profit/Loss
-| in '000 Rs. -4to-3 | -3to-2 | -2to-1 |-lto0 | 0tol | 1to2 |2to3 |3t04 | 4to5 | 5to6
-
-[No of Shops | 4 10 22 28 38 [56 = [40s 24 18 10
-
-is Calculate the average profit made by a retail shop.
-ii. Calculate Total profit by all shops.
-iii. Calculate the coefficient of variation of earnings.
-
-—_-—- «*
-
-a /-
-````
-
-## 2014-15 · Re-Exam · Sem 4 · paper 52126f3318b4
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/Statistical Methods Batch 2014-15 Re Exam0001.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 18/05 /2016
-- Text: ocr (3 pages), mean OCR confidence 88.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & EN GINEERING
-
-Programme: MBA Tech (All Streams) Year: II Semester: IV :
-, Reta
-Academic Year: 2015-16 / aie ,
-f 4
-| Batch: 2014-15 tf cS
-| Subject: Statistical Methods Marks: 60 \ x ae
-a : i. ~<A
-Time: 2. - ee y
-Date: 18/05 /2016 vn 2-00 pm «a we
-
-Durations: 2 (hrs =
-Re-Examination (ars)
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data, if necessary
-
-Q1. a) Prepare a frequency distribution table and draw a histogram for the same by generating
-50 data points. (6 Marks)
-
-Q1.b) The following is the regression analysis results of an example of consumption income
-theory. Xi is the marginal propensity to consume in the consumption function and should be
-
-positive. Further the relationship should not only be positive but also statistically significant. In
-
-the light of these requirements how “good” is the fitted model. (6 Marks)
-Y= 244545 + 0.5091X;
-
-se= (6.4138) (0.0357) r= 0.9621
-
-t= (3.8128) (14.2405) df=8
-
-p= (0.002571) (0.000000289) F42=202.87
-
-In the above equation the figures in the first set of parentheses are the estimated standard
-
-errors of the regression coefficient , the figures in the second set are the estimated t values.
-
-Q2. a) What is the basis of sampling theory? What are the different methods of sampling?
-(6 Marks)
-
-\/3
---- page 2 ---
-Q2.b) Determine the sample size if o = 6 and population mean = 25, sample mean = 23 and the
-
-desired degree of precision = 99% (6 Marks)
-
-Q3. a) Define Binominal Distribution and state its properties. (6 Marks)
-
-Q3. b) On an average 3 divorce cases are filed in a court of small town. Find the probability that
-on a certain date the number of such cases coming up will be- (6 Marks)
-1) One (1)
-
-2) At least 2
-
-3) At most 2.
-
-e* = 0.04979
-
-Q4.a) State the Central Limit theorem. (6 Marks)
-
-Q4.b) Distribution of monthly income of a group of 3000 school teachers in a village conforms to
-a normal curve with p = 600 and o = 100. (6 Marks)
-1) Find the percentage of teachers having monthly income of more than Rs. 800.
-
-2) Number of teachers having monthly income less than Rs. 400.
-
-3) Find the lowest monthly income amongst the highest paid 100 teachers.
-
-4) The highest monthly income among the lowest paid teachers.
-
-Q5. a) What is the relationship among mean, median and mode in a skewed distribution?
-(6 Marks)
-
-fertilizer input X3 are as follows — (6 Marks)
-112 =0.77
-13 = 0.59
-23 = 0.46
-
-Find partial co-relation 12.3 and [23.1
-
-2) 3
---- page 3 ---
-Q6. a) State Tchebysheff Theorem. (6 Marks)
-Q6 b) Calculate coefficient of skewness based on quartiles and median from the following data-
-Variable |Oto10 |10 to|20 to!30 to|/40 to/50 to;/60 to/70 to
-
-20 30 40 50 60 70 80
-frequency | 12 16 26 38 22 6 7 4
-(6 Marks)
-Q7. Write notes on any two of the following —
-1) Bayes Theorem (6 Marks)
-fa 2) Type land Type Il errors. (6 Marks)
-3) Chi square distribution.. (6 Marks)
-
-3/3
-````
-
-## 2014-15 · Re-Exam · Sem 4 · paper b1ebd6a74e0b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/Statistical Methods Batch 2014-15 Re Exam0002.pdf`
-- Printed on paper: exam date: 09 July 2016
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: II Semester: IV
-
-Academic Year: 2015-16
-
-Batch: 2014-15
-Subject: Statistical Methods
-
-Date: 09 July 2016 .
-i Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1). Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks. 2
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data, if necessary
-
-Q1. a) What is the basis of sampling theory? What are the different methods of sampling?
-
-(6 Marks)
-Q1.b) Determine the sample size if o = 6 and population mean = 25, sample mean = 23 and the
-desired degree of precision = 95% (6 Marks)
-
-Q2. Define a frequency distribution, a histogram, a frequency polygon and a frequency curve
-
-illustrate your answer. (12 Marks)
-Q3. a) Define Poison Distribution and state its properties. (6 Marks)
-b) Distribution of monthly income of a group of 3000 school teachers in a village conforms to a
-
-normal curve with p = 600 and o = 100. (6 Marks)
-
-i) Find the percentage of teachers having monthly income of more than Rs. 800.
-ii) Number of teachers having monthly income less than Rs. 400.
-iii) Find the lowest monthly income amongst the highest paid 100 teachers.
-
-iv) The highest monthly income among the lowest paid teachers.
-
-Q4 a) Prepare a questionnaire on any topic of your choice. (6 Marks)
-
-1/2
---- page 2 ---
-Q4 b) On an average three divorce cases are filed in a court of a small city. Find probability that
-
-on a certain date the number of such cases coming up will be (6 Marks)
-1) 1
-2) atleast 2
-3) at most 2
-e°=0.0497,
-Q5. Following is the estimation results of a regression equation - (12 Marks)
-Iny;= 0.774 — 0.2530In xX, 1°=0.7448
-(0.0152) (0.0494)
-
-p-values =(0.000) (0.0003)
-where Y; = coffee consumption, cups per person per day, and X, = real price of coffee, dollars
-per pound.
-The values given in the bracket are standard errors. 2
-Answer the following:
-
-i) Interpret the regression results of the above equation.
-ii) Calculate the t- values and comment on the results.
-
-Q6 a) Explain joint probability distribution of a discrete function. (6 Marks)
-
-Q6 b) (6 Marks)
-Suppose that a game is to be played with a single fair die, in this game a player wins Rs.20 if 2
-turns up, Rs. 40 if 4 turns up, loses Rs.30 if 6 turns up; while the player neither wins nor loses if
-any other face turns up. Find the expected sum of money to be won.
-Q7. Write notes on any two of the following — (6x2 Marks)
-i) Central Limit Theorem
-ii) Skewness and kurtosis.
-iii) Primary and secondary data.
-
-2fa
-````
-
-## 2014-15 · Re-Exam · Sem 4 · paper c9605a269336
-
-- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/STATISTICAL METHODS/Statistical Methods Batch (2014-15) Re Exam.pdf` (+4 identical copies)
-- Printed on paper: exam date: 07/07/2015
-- Text: ocr (3 pages), mean OCR confidence 88.6
-
-````text
-SVEM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: II Semester: IV °
-: emester: Hi
-
-Academic Year: 2014-15
-Batch: 2014-15
-
-Subject : Statistical Methods : |
-
-( iBRARY
-(aes n 5
-ee
-
-Date : 07/07/2015 Durations: 2
-
-Re-Examination ~
-
-Instructions:
-1) Question No. 1 is compulsory.
-2) Cut of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answers to each new question to be started on a fresh page
-6) Figures in bracket on the right hand side indicate full marks.
-
-1 a) The following table shows the amounts, in dollars, spent on food, rent, 6
-clothing, fuel and other items by two families in a week.
-
-Food | Rent | Clothing | Fuel | Others | Total |
-
-FamilyA | 160 | 56 48 32, 24 «| 320 |
-FamilyB | 180 | x 68 | 45 | 42 | y |
-(i) Draw a pie chart to represent the amounts spent by Family A.
-
-(ii) In the pie chart for family B, the angle of the sector representing
-the amount spent on rent is the same as that for Family A
-Calculate the values of x and y. (
-‘
-b) A firm, which conducts consumer surveys by mail, has found that 30%
-of those families receiving a questionnaire will return it. In a survey of
-10 families, what is the probability that exactly five families will return
-the questionnaire?
-
-2 a) The Weekly sales of two products A and B were recorded as given bo
-below
-| Product ]59 | 75 [27° 163. (27, [28 [56 |
-A | | 1
-Product [150 [200 [125 [310 /330 | 250 (225 |
-B | 7
-
-Find out which of the two shows greater fluctuation in sales?
---- page 2 ---
-as
-
-“ah
-
-Q2] &] What is the basis of sampling theory? What are the different methods of sampling?
-
-. : (6 Marks)
-Q3] «] What is the relationship among mean, median and mode in a skewed distribution?
-
-b) A study of age of 100 persons grouped into intervals c
-20-22, 22-24, 24-26,... revealed the mean age and standard deviation
-to be 32.02 and 13.18 respectively , while checking it was discovered
-that the observation 57 was misread as 27 calculate the correct mean
-age and standard deviation.
-
-a) The consumer accounts at a certain departmental store have an average
-balance of Rs480 and the standard deviation of Rs160. Assuming that
-the account balance are normally distributed
-
-1. What proportion of account is over Rs 600
-
-2. What proportion of account is between Rs 240 and Rs 360
-
-.b) In 324 throws ofa six face dice, odd points appeared 180 times, would _
-you say that the dice is fair at 5% level of significance?
---- page 3 ---
-5] :] Explain Bayes’
-Q5] : ] Explain Bayes’ Theorem (6 Marks)
-
-b) The mean length of a life of certain cutting tool is 41.5 hours with the &
-standard deviation of 2.5 hrs. What is the probability that simple
-random sample of size 50 drawn from this population will have a mean
-between 40.5 hrs and 42 hrs?
-
-(o
-
-Qé6 a) The following table shows the ages(X) and blood pressure (Y) of 8 ~
-ersons .
-Age 52 [63 45 [36 172 165 [47 [25 |
-| | |
-Blood [62 |53 [51 [25 [79 [43 [60 [33 |
-Pressure | | |
-Obtain the regression equation of y on x and find the expected blood
-pressure of a person who is 49 years old
-b) A Manufacturing firm produces pipes in two plants I and I] with daily l
-production 1500 and 200 pipes respectively. The fraction of defective
-pipes produced by two plants I and Il are 0.006 and 0.008 respectively.
-If a pipe selected at random from that days production is found to be
-defective , what is the chance that it has came from plant | or plant I]
-Q7] Write short notes on any two (6x2=12 Marks)
-
-i] Standard Normal Distribution.
-ii] Type I and Type H Errors
-iii] Bionomial Distribution
-````
-
-## 2013-14 · Final-Exam · Sem 4 · paper bacfac4cfbf1
-
-- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/STATISTICAL METHODS/STASITICAL METHODS 2013-14 Final exam.pdf` (+4 identical copies)
-- Printed on paper: exam date: 19/05/2014
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS_.
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: II Semester: IV
-Academic Year: 2013-14 .
-—
-Subject :Statistical Methods é oy ue PS .
-yi \
-Mar. 7 50
-Date :19/05/2014 T ae C- 2.0o"pm to Zoige|
-; “tio obs: 2 (hts}t ¥ JD s
-Final Examination ~ Ze f
-
-Pig
-
-; as cannes"
-Instruction: Candidates should read carefully the instructions printed on the questior
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. __1__ is compulsory.
-2) Out of remaining questions, attempt any _4 questions.
-
-3) Inall_5___ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-1. Prepare a frequency distribution table by generating your own data and draw a
-histogram for the frequency distribution and determine the mode.
-
-2 : [2x5=] 10 Marks
-a) When can Poission Distribution be. a reasonable approximation to the Binomial
-Distribution?
-b) On an average three divorce cases are filed in a court of a small city. Find probability
-+ that on a certain date the number of Suen cases coming up will be
-1) X=1
-2) X=at least 2 . ¥
-
-3) X=at most 2
-3. [2x5=] 10 Marks
-
-a) What are the types of probability under statistical dependency and independency.
-
-b) Suppose that a game is to be played with a single fair die, in this game a player wins
-Rs.20 if 2 turns up, Rs. 40 if 4 turns up, loses Rs.30 if 6 turns up; while the player
-neither wins nor loses if any other face turns up. Find the expected sum of money to
-be won. ‘
-
-4. The following table contains the ST (study time per week) and the GPA (grade point
-average) for 8 college students. Grade point average is based on a four-point scale and
-has been rounded to the one digit after the decimal. ° 10 Marks
-
-Students | GPA Study time
-
-4 2.8 21
-2 3.4 24
-3 3 26 .
-4 3.5 27
-5 3.6 39
-6 3 25
-7 2.7 25
-8 3.7 30
-
-ky
---- page 2 ---
-a) Estimate the relationship between GPA and ST using Liner regression ,that is,
-obtain the intercept and slope in the equation
-b) Compute the fitted valued and the residuals for each observation, and verify that the
-
-residuals (approximately) sum to zero
-c) What is the predicted value of GPA when ST =20?
-d) How much of the variation in GPA for the 8 students is explained by ST? Explain.
-
-5. Trying to encourage people to stop driving to campus, the university claims that on
-average it takes people 30 minutes to find a parking space on campus. 1 don't think it
-takes so long to find a spot. In fact | have a sample of the last five times | drove to
-campus, and ! calculated mean = 20. Assuming that the time it takes to find a parking
-spot is normal, and that s= 6 minutes, then perform a hypothesis test with level a = 0.10
-
-to see if my claim is correct. (Ziabie = +/-1,.28) 10 Marks
-
-6. Write short notes:on: Any two [2x5=] 10 Marks
-
-i. Standard Normal Distribution.
-ii. Sampling Distribution.
-iii, | Quartiles and deciles
-
-a) Calculate the Arithmetic mean from the following data. [2x5=] 10 Marks
-
-Marks 0 to 10 40-30 30-60 60-100 |
-No. of students 3] 12 25 8
-
-b) Explain the merits and demerits of Arithmetic mean.
-
-a}o.
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 389ad0518291
+## 2015-16 · Re-Exam · Sem 4 · paper 389ad0518291
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -10168,7 +9706,7 @@ $ )
 3/2
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 889574f0bd8b
+## 2015-16 · Re-Exam · Sem 4 · paper 889574f0bd8b
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -10307,6 +9845,922 @@ of rank correlation.
 “ - ”
 
 ale.
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper 52126f3318b4
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/Statistical Methods Batch 2014-15 Re Exam0001.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 18/05 /2016
+- Text: ocr (3 pages), mean OCR confidence 88.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & EN GINEERING
+
+Programme: MBA Tech (All Streams) Year: II Semester: IV :
+, Reta
+Academic Year: 2015-16 / aie ,
+f 4
+| Batch: 2014-15 tf cS
+| Subject: Statistical Methods Marks: 60 \ x ae
+a : i. ~<A
+Time: 2. - ee y
+Date: 18/05 /2016 vn 2-00 pm «a we
+
+Durations: 2 (hrs =
+Re-Examination (ars)
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data, if necessary
+
+Q1. a) Prepare a frequency distribution table and draw a histogram for the same by generating
+50 data points. (6 Marks)
+
+Q1.b) The following is the regression analysis results of an example of consumption income
+theory. Xi is the marginal propensity to consume in the consumption function and should be
+
+positive. Further the relationship should not only be positive but also statistically significant. In
+
+the light of these requirements how “good” is the fitted model. (6 Marks)
+Y= 244545 + 0.5091X;
+
+se= (6.4138) (0.0357) r= 0.9621
+
+t= (3.8128) (14.2405) df=8
+
+p= (0.002571) (0.000000289) F42=202.87
+
+In the above equation the figures in the first set of parentheses are the estimated standard
+
+errors of the regression coefficient , the figures in the second set are the estimated t values.
+
+Q2. a) What is the basis of sampling theory? What are the different methods of sampling?
+(6 Marks)
+
+\/3
+--- page 2 ---
+Q2.b) Determine the sample size if o = 6 and population mean = 25, sample mean = 23 and the
+
+desired degree of precision = 99% (6 Marks)
+
+Q3. a) Define Binominal Distribution and state its properties. (6 Marks)
+
+Q3. b) On an average 3 divorce cases are filed in a court of small town. Find the probability that
+on a certain date the number of such cases coming up will be- (6 Marks)
+1) One (1)
+
+2) At least 2
+
+3) At most 2.
+
+e* = 0.04979
+
+Q4.a) State the Central Limit theorem. (6 Marks)
+
+Q4.b) Distribution of monthly income of a group of 3000 school teachers in a village conforms to
+a normal curve with p = 600 and o = 100. (6 Marks)
+1) Find the percentage of teachers having monthly income of more than Rs. 800.
+
+2) Number of teachers having monthly income less than Rs. 400.
+
+3) Find the lowest monthly income amongst the highest paid 100 teachers.
+
+4) The highest monthly income among the lowest paid teachers.
+
+Q5. a) What is the relationship among mean, median and mode in a skewed distribution?
+(6 Marks)
+
+fertilizer input X3 are as follows — (6 Marks)
+112 =0.77
+13 = 0.59
+23 = 0.46
+
+Find partial co-relation 12.3 and [23.1
+
+2) 3
+--- page 3 ---
+Q6. a) State Tchebysheff Theorem. (6 Marks)
+Q6 b) Calculate coefficient of skewness based on quartiles and median from the following data-
+Variable |Oto10 |10 to|20 to!30 to|/40 to/50 to;/60 to/70 to
+
+20 30 40 50 60 70 80
+frequency | 12 16 26 38 22 6 7 4
+(6 Marks)
+Q7. Write notes on any two of the following —
+1) Bayes Theorem (6 Marks)
+fa 2) Type land Type Il errors. (6 Marks)
+3) Chi square distribution.. (6 Marks)
+
+3/3
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper b1ebd6a74e0b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/Statistical Methods Batch 2014-15 Re Exam0002.pdf`
+- Printed on paper: exam date: 09 July 2016
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: II Semester: IV
+
+Academic Year: 2015-16
+
+Batch: 2014-15
+Subject: Statistical Methods
+
+Date: 09 July 2016 .
+i Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1). Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks. 2
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data, if necessary
+
+Q1. a) What is the basis of sampling theory? What are the different methods of sampling?
+
+(6 Marks)
+Q1.b) Determine the sample size if o = 6 and population mean = 25, sample mean = 23 and the
+desired degree of precision = 95% (6 Marks)
+
+Q2. Define a frequency distribution, a histogram, a frequency polygon and a frequency curve
+
+illustrate your answer. (12 Marks)
+Q3. a) Define Poison Distribution and state its properties. (6 Marks)
+b) Distribution of monthly income of a group of 3000 school teachers in a village conforms to a
+
+normal curve with p = 600 and o = 100. (6 Marks)
+
+i) Find the percentage of teachers having monthly income of more than Rs. 800.
+ii) Number of teachers having monthly income less than Rs. 400.
+iii) Find the lowest monthly income amongst the highest paid 100 teachers.
+
+iv) The highest monthly income among the lowest paid teachers.
+
+Q4 a) Prepare a questionnaire on any topic of your choice. (6 Marks)
+
+1/2
+--- page 2 ---
+Q4 b) On an average three divorce cases are filed in a court of a small city. Find probability that
+
+on a certain date the number of such cases coming up will be (6 Marks)
+1) 1
+2) atleast 2
+3) at most 2
+e°=0.0497,
+Q5. Following is the estimation results of a regression equation - (12 Marks)
+Iny;= 0.774 — 0.2530In xX, 1°=0.7448
+(0.0152) (0.0494)
+
+p-values =(0.000) (0.0003)
+where Y; = coffee consumption, cups per person per day, and X, = real price of coffee, dollars
+per pound.
+The values given in the bracket are standard errors. 2
+Answer the following:
+
+i) Interpret the regression results of the above equation.
+ii) Calculate the t- values and comment on the results.
+
+Q6 a) Explain joint probability distribution of a discrete function. (6 Marks)
+
+Q6 b) (6 Marks)
+Suppose that a game is to be played with a single fair die, in this game a player wins Rs.20 if 2
+turns up, Rs. 40 if 4 turns up, loses Rs.30 if 6 turns up; while the player neither wins nor loses if
+any other face turns up. Find the expected sum of money to be won.
+Q7. Write notes on any two of the following — (6x2 Marks)
+i) Central Limit Theorem
+ii) Skewness and kurtosis.
+iii) Primary and secondary data.
+
+2fa
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper be265e3a5bfa
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/Statistical Methods Batch 2015-16 Re Exam0001.pdf`
+- Printed on paper: exam date: 09 July 2016
+- Text: ocr (2 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: II Semester: IV
+Academic Year: 2015-16 ;
+
+Batch: 2015-16
+
+Subject: Statistical Methods
+
+= Date: 09 July 2016
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book .Which is provided for their use.
+NB: 1. Question No.ONE is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. In all FIVE questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1.a) For the following frequency distribution calculate Median, Third Quartile and Sixty fifth
+Percentile.
+" Marks 0-10 | 10-20 | 20-30 | 30-40 | 40-50 | 50-60 | 60-70 | 70-80 | 80-90 | 90-100
+
+No. of 5 12 16 26 70 85 16 8 8 4
+Students
+
+(6)
+b) Prices of a particular commodity in last five years in two cities are given below.
+Price incityA | 20 22 19 | 23] 16
+Price incityB | 10 20 18 | 12) 15
+Find the city which has more stable prices. (6)
+Q.2 a) Calculate the first four moments about the mean of the given distribution. Also find
+
+Band B,.Comment on the Kurtosis of distribution.
+
+x 2.0 2.5 | 3.0 3.5 | 4.0 45 5.0
+f 4 36 60 90 =| 70 40 10
+
+(6)
+b) A pair of dice is thrown 3 times. If getting a doublet is considered as a success, find the probability
+of (i) Successes (ji) at least 2 successes and (iii) at most 2 successes. (6)
+Q.3 a) Records show that the probability is 0.00005 that a car will have a flat tyre while driving
+through a certain tunnel. Find the probabilities that among 10,000 cars passing through this tunnel.
+(i) at least two will have a flat tyre (ii) at most two will have a flat tyre. (4)
+{b) The probability is 0.60 that a person shopping at a certain market will spend at least Rs. 25.
+
+Find the probabilities that among 5-persons shopping at this market 0, 2, 4 or 5 will spend at least
+
+a
+Rs.25. (4)
+{c) If x follows a Poisson variable such that, P(x=2) = 9 P(x=4) + 90 P(x=60) and the mean and variance
+pu of x. (4)
+
+Q. 4a) Incandescent electric bulbs of a certain make have a mean life of 800 hours with S.D. of 150
+hours. Out of 50,000 bulbs of that make used for street lighting, how many of them would fuse in
+
+4/2
+--- page 2 ---
+first 650 hours, if the distribution of the life on bulbs is assumed to be normal? On the same
+assumption how many bulbs would still be burning after 950 hours? (Given Area Between z= -1 and
+
+2 = Ois 0.34134). (6)
+b) Calculate Karl Pearson’s coefficient of correlation for the following data.
+
+x 23) 28 42 17 26 35 29 37 16 48
+
+y 25 22 38 21 27 39 24 32 18 44
+
+(6)
+Q. 5a) The regression equations are 8x-10y + 66 = 0 and 40x -18y = 214. The value of variance of x is
+9. Find, (i) Mean values of x and y, (ii) the correlation coefficient r and (iii) the S.D. of y. (6)
+b) The regression equations from the followings
+> x= 60,5) y = 40, xy =1150,57 x? = 4160)" y? =1720, and N = 10. (6)
+Q. 6 a) Write short notes on any two
+(i) Null and Alternate Hypothesis
+(ii) Positive and Negative correlation
+‘(iii) Kurtosis and Measure of Kurtosis . (6)
+b) A manufacturer developed a fishing line and claims that it has a mean breaking strength of 8kg Py
+with S.D. of 0.5 kg .If a random sample of 50 fishing lines is tested and found to have a mean
+and breaking strength of 7.8kg, test manufacturer’s claim. Use 0.01 level of significance. (Given
+table value of z is 2.58) (6)
+
+Q.7 a) The number of defects per unit in sample of 330 units of a manufactured product was found
+
+as follows:
+"Number of 0 1 2 3 4
+defects
+Number of 214 92 20 3 1
+units
+Fit a Poisson distribution to the data and test the goodness of fit ( Loos =3.84 for d.f.=1) (6)
+
+b) In arandom sample of 200 persons of a town, 120 are found tea drinkers. In a sample of 500
+persons from another town 240 are found to be tea drinkers. Is the proportion of tea drinkers in the
+
+two equals? Use 0.01 level of significance. (Given Z, 4, = 2.58). (6)
+
+````
+
+## 2014-15 · Final-Exam · Sem 4 · paper 48933464eafa
+
+- Departments: Chemical, Civil, Computer Engineering, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/STATISTICAL METHODS/STATISTICAL METHODS BATCH 2014-2015 FINAL.pdf` (+5 identical copies)
+- Printed on paper: exam date: 19/05/2015
+- Text: ocr (3 pages), mean OCR confidence 86.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT é& ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: II Semester: IV
+
+Academic Year: 2014-2015
+
+Subject: Statistical Methods ae
+Marks: %60°7~
+Date: 19/05/2015 Time : 4 ¥,/ 10.09 any noon
+Durati ns:! i2;( ici nN 1
+Final-Examination NG 4 wy
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 5 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+1) a) With the help of a given data find (6 Marks)
+i. Value of the median
+ii. Value of middle 50%
+iii. The value of P4o and De
+iv. Graphically with the help of ogive curve, the value of Qi, Qs, median, Pao and De
+Age 10-14 15-19 20-24 | 25-29 30-34 35-39
+No. of Persons | 5 10 15 20 10 5
+
+b) Cost accountants often estimate overhead based on the level of production. At the LR
+Gioup co., they have collected information on overhead expenses and units produced at different
+plants, and want to estimate a regression equation to predict future overhead. (6 Marks)
+Overhead | 195 | 172 | 272 | 160 | 280 | 175 | 235 | 116 | 153 | 180
+Units 41 |40 |52 [35 |55 |40 |47 |32 | 38 | 40
+i. Develop the regression equation for the cost accountant
+ii. Predict overhead when 100 units are produced
+iii. | Calculate the standard error of estimates
+
+= 2) Indian theaters knows that a certain hit movie ran an average of 95 days in each city, and
+the corresponding standard deviation was 12 days. The manager of the Mumbai city was
+interested in comparing the movie popularity in his region with that in all of Indian’s
+--- page 2 ---
+other theaters. He randomly chose 105 theaters in his region and found that they ran the
+
+movie an average of 91 days. (12 Marks)
+
+1. State appropriate hypothesis for testing whether there was a significant difference
+in the length of the picture’s run between theaters in the Mumbai city and all of
+India’s other theaters.
+
+il. At | percent significant level, test these hypothesis. (Z tabie=+/-2.58)
+
+3) a) The final exam in a nursing course consists of 100 multiple-choice questions. Each
+question has 5 possible answers, and only 1 of them is correct. An unprepared student
+
+makes random guesses for all of the answers. (6 Marks)
+i. Find the mean and standard deviation for the number of correct answers for such
+students.
+
+il. Would it be unusual for a student to pass this exam by guessing and getting at
+least 60 correct answers? Why or why not?
+b) Explain Bayes’ Theorem (6 Marks)
+
+4) A brand manager is concerned that her brand’s share may be unevenly distributed
+throughout the country. In a survey in which the country was divided into four
+geographic regions, a random sampling of 100 consumers in each region was surveyed,
+
+with the following results: (12 Marks)
+NE NW SE SW
+Purchase the brand | 40 55 45 50
+Do not purchase 60 45 55 50
+
+i. Develop a table of observed and expected frequencies for this problem
+il. Calculate the sample 7? value
+
+iii. Sate the null and alternative hypothesis
+iv. At 5 percent test whether brand share is the same across the four regions (y?
+rabie=7.8 | 8) z
+5) Write short notes on any two (6x2=12 Marks)
+is Standard Normal Distribution.
+il. Type | and Type II Errors
+iil, Methods of sampling
+6) The Daily income of 100 families is given below: (12 Marks)
+Income 20-25 | 25-30 | 30-35 | 35-40 | 40-45 | 45-50 | 50-55
+Frequency 8 ? 20 ? 15 12 8
+
+If the mode of the distribution is 36.67, calculate Karl Pearson’s Coefficient of Skewness.
+
+7) In asmall town, a survey was conducted in respect of profits made by retail shops. The
+following results were obtained: (12 Marks)
+
+~
+
+Fe
+--- page 3 ---
+| Profit/Loss
+| in '000 Rs. -4to-3 | -3to-2 | -2to-1 |-lto0 | 0tol | 1to2 |2to3 |3t04 | 4to5 | 5to6
+
+[No of Shops | 4 10 22 28 38 [56 = [40s 24 18 10
+
+is Calculate the average profit made by a retail shop.
+ii. Calculate Total profit by all shops.
+iii. Calculate the coefficient of variation of earnings.
+
+—_-—- «*
+
+a /-
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 79a73b91ed71
+
+- Departments: Chemical, Civil, Electronics and Telecommunication, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/STATISTICAL METHODS/STATISTICAL METHODS BATCH 2013-2014 RE EXAM.pdf` (+3 identical copies)
+- Printed on paper: exam date: 19/05/2015
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+7
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MA
+
+Programme: MBA Tech (All Streams) Year: II Semester: IV
+Batch: 2013-14
+; Academic Year: 2014-2015
+Subject: Statistical methods 4 CaN
+Marks: / ye
+Date: 19/05/2015 Time: { #11008 ow
+Duratiéns{) 2 ahd ARY
+
+Re-Examination
+
+Instruction: Candidates should read carefull y the instructions printed on the question
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all S questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+paper and on nthe
+
+1. Prepare a frequency distribution table by generating your own data and draw less than
+and more than ogive for the frequency distribution and determine the median.
+
+10 Marks
+
+2. [2x5=110 Marks
+a) Define Binomial Distribution and give the general form of the distribution.
+b) If 40 percent of mice used in an experiment will become very aggressive within 1
+minute after having been administered an experimental drug, find -
+1) The probability that exactly 6 out of 15 mice which have been administered the
+drug will become aggressive within 1 minute.
+2) The probability that at least 7 out of 15 mice will become aggressive within 7
+minute.
+
+3. {2x5=]10 Marks
+a) Explain Bayes’ Theorem.
+6) Find the coefficient of skewness from the following information:
+
+Difference of two quartile = 8
+Mode = 11
+
+Surn of two quartiles = 22
+Mean = 8
+--- page 2 ---
+4. From the data for 46 areas in Mumbai for 2012, we obtained the following regression
+rasults.(10 marks)
+
+Log @ = 4.30 -1.34 Log? + 0.17 Log Y
+
+Se= (0.94) (0.32) (0.20) R2 =0.27
+Where C= Cigarette Consumption, packs per year
+P= Real price per pack
+
+Y= Real disposable income per capital
+
+a) What is the elasticity of demand for cigareties with respec io price? Is it statistically
+significant? If so, is it statistically different from one?
+
+b) What is the income elasticity of demand for cigarettes? Is it statistically significant? If
+not, what might be the reason for it?
+
+c) How would you retrieve R? from adjusted R? given below?
+
+5. An insurance company is reviewing its current policy rates. When originally setting the
+rates they believed that the average claim amount was $1,800. They are concerned that
+the true mean is actually higher than this, because they could potentially lose a lot of
+money. They randomly select 40 claims, and calculate a sample mean of $2,200.
+Assuming that the standard deviation of claims is $500, and set a = .05, test to see if
+the insurance company should be concerned. (Ztabie = £1.645) to Marks
+
+6. Write short notes on any two [2x5=] 10 Marks
+i. Methods of sampling
+ii. Type l and Type Il Errors.
+ii. Moments
+
+7. Find the standard deviation and coefficient of variance from the following data:
+
+10 Marks
+
+Wages No. of workers
+Up to Rs. 10 12
+
+Up to Rs. 20 30
+
+Up to Rs. 30 65
+
+Up to Rs. 40 107
+
+Up to Rs. 50 157
+
+Up to Rs. 60 202
+
+Up to Rs. 70 222
+
+Up to Rs. 80 °230
+
+x
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper c9605a269336
+
+- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/STATISTICAL METHODS/Statistical Methods Batch (2014-15) Re Exam.pdf` (+4 identical copies)
+- Printed on paper: exam date: 07/07/2015
+- Text: ocr (3 pages), mean OCR confidence 88.6
+
+````text
+SVEM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: II Semester: IV °
+: emester: Hi
+
+Academic Year: 2014-15
+Batch: 2014-15
+
+Subject : Statistical Methods : |
+
+( iBRARY
+(aes n 5
+ee
+
+Date : 07/07/2015 Durations: 2
+
+Re-Examination ~
+
+Instructions:
+1) Question No. 1 is compulsory.
+2) Cut of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answers to each new question to be started on a fresh page
+6) Figures in bracket on the right hand side indicate full marks.
+
+1 a) The following table shows the amounts, in dollars, spent on food, rent, 6
+clothing, fuel and other items by two families in a week.
+
+Food | Rent | Clothing | Fuel | Others | Total |
+
+FamilyA | 160 | 56 48 32, 24 «| 320 |
+FamilyB | 180 | x 68 | 45 | 42 | y |
+(i) Draw a pie chart to represent the amounts spent by Family A.
+
+(ii) In the pie chart for family B, the angle of the sector representing
+the amount spent on rent is the same as that for Family A
+Calculate the values of x and y. (
+‘
+b) A firm, which conducts consumer surveys by mail, has found that 30%
+of those families receiving a questionnaire will return it. In a survey of
+10 families, what is the probability that exactly five families will return
+the questionnaire?
+
+2 a) The Weekly sales of two products A and B were recorded as given bo
+below
+| Product ]59 | 75 [27° 163. (27, [28 [56 |
+A | | 1
+Product [150 [200 [125 [310 /330 | 250 (225 |
+B | 7
+
+Find out which of the two shows greater fluctuation in sales?
+--- page 2 ---
+as
+
+“ah
+
+Q2] &] What is the basis of sampling theory? What are the different methods of sampling?
+
+. : (6 Marks)
+Q3] «] What is the relationship among mean, median and mode in a skewed distribution?
+
+b) A study of age of 100 persons grouped into intervals c
+20-22, 22-24, 24-26,... revealed the mean age and standard deviation
+to be 32.02 and 13.18 respectively , while checking it was discovered
+that the observation 57 was misread as 27 calculate the correct mean
+age and standard deviation.
+
+a) The consumer accounts at a certain departmental store have an average
+balance of Rs480 and the standard deviation of Rs160. Assuming that
+the account balance are normally distributed
+
+1. What proportion of account is over Rs 600
+
+2. What proportion of account is between Rs 240 and Rs 360
+
+.b) In 324 throws ofa six face dice, odd points appeared 180 times, would _
+you say that the dice is fair at 5% level of significance?
+--- page 3 ---
+5] :] Explain Bayes’
+Q5] : ] Explain Bayes’ Theorem (6 Marks)
+
+b) The mean length of a life of certain cutting tool is 41.5 hours with the &
+standard deviation of 2.5 hrs. What is the probability that simple
+random sample of size 50 drawn from this population will have a mean
+between 40.5 hrs and 42 hrs?
+
+(o
+
+Qé6 a) The following table shows the ages(X) and blood pressure (Y) of 8 ~
+ersons .
+Age 52 [63 45 [36 172 165 [47 [25 |
+| | |
+Blood [62 |53 [51 [25 [79 [43 [60 [33 |
+Pressure | | |
+Obtain the regression equation of y on x and find the expected blood
+pressure of a person who is 49 years old
+b) A Manufacturing firm produces pipes in two plants I and I] with daily l
+production 1500 and 200 pipes respectively. The fraction of defective
+pipes produced by two plants I and Il are 0.006 and 0.008 respectively.
+If a pipe selected at random from that days production is found to be
+defective , what is the chance that it has came from plant | or plant I]
+Q7] Write short notes on any two (6x2=12 Marks)
+
+i] Standard Normal Distribution.
+ii] Type I and Type H Errors
+iii] Bionomial Distribution
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 034e203cc351
+
+- Departments: Chemical, Civil, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/STATISTICAL METHODS/Ststistical Methods Batch (2013-14) Re Exam.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07/07/2015
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: II Semester: IV
+
+Academic Year: 2014-15
+
+ee
+Batch: 2013-14 Wrvvoe
+. a $ “PST =S
+Subject : Statistical Methods Marks: 50 (af LIBRARY
+Time : 10.00 am \ 20 noon,
+Date : 07/07/2015 Durations: 2 (hrs) Ar <a
+
+Re-Examination on
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data, if necesSary
+
+1. Find the Variance and coefficient of variance from the following data: (10 Marks)
+
+Wages No. of workers
+
+Up to Rs. 10 12
+Up to Rs. 20 30
+Up to Rs. 30 65
+Up to Rs. 40 107
+Up to Rs. 50 157
+Up to Rs. 60 262
+Up to Rs. 70 222
+Up to Rs. 80 230
+
+2. Trying to encourage people to stop driving to campus, the university claims that on
+average it takes people 30 minutes to find a parking space on campus. | don't think it takes
+so long to find a spot. In fact | have a sample of the last five times | drove to campus, and
+| calculated x = 20. Assuming that the time it takes to find a parking spot is normal, and
+that % = 6 minutes, then perform a hypothesis test with level a = 0.10 to see if my claim is
+correct. (Ztable = +/-1.28)
+
+(10 Marks)
+
+3. Write short notes on: Any two (2x5=10 Marks)
+
+i. Type land Type I! Errors
+ii. Sampling Distribution.
+
+AID
+--- page 2 ---
+e
+“
+
+ii. ; Quartiles and deciles
+
+Cost accountants often estimate overhead based on the level of production. At the
+standard Knitting Co., they have collected information on overhead expenses and units
+produced at different plants, and want to estimate a regression equation to predict future
+overhead. (10 Marks)
+
+Overhead | 191 | 170 | 272 | 155 | 280 | 173 | 234 | 116 | 153 | 178
+Units 40| 42| 53} 35} 56| 39] 48; 30] 37/| 40
+
+(a) Develop the regression equation for the cost accountants.
+(b) Predict overhead when 50 units are produced.
+(c) Calculate the standard error of estimate.
+
+Prepare a frequency distribution table by generating your own data and draw a histogram
+for the frequency distribution and determine the mean, median and mode. (10 Marks)
+
+A Frequency distribution gives the following results: (10 Marks)
+(a) Coefficient of variation = §
+
+(b) Standard deviation = 2
+
+(c) Karl Pearson’s Coefficient of skewness = 0.5
+
+Find mean and mode of the distribution.
+
+The incidence of a certain disease is such that on the average 20% of workers suffer
+from it. lf 10 workers are selected at random, find the probability that (10 Marks)
+(a) Exactly 2 workers suffer from disease,
+
+(b) Not more than 2 workers suffer from the disease
+````
+
+## 2013-14 · Final-Exam · Sem 4 · paper bacfac4cfbf1
+
+- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/STATISTICAL METHODS/STASITICAL METHODS 2013-14 Final exam.pdf` (+4 identical copies)
+- Printed on paper: exam date: 19/05/2014
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS_.
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: II Semester: IV
+Academic Year: 2013-14 .
+—
+Subject :Statistical Methods é oy ue PS .
+yi \
+Mar. 7 50
+Date :19/05/2014 T ae C- 2.0o"pm to Zoige|
+; “tio obs: 2 (hts}t ¥ JD s
+Final Examination ~ Ze f
+
+Pig
+
+; as cannes"
+Instruction: Candidates should read carefully the instructions printed on the questior
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. __1__ is compulsory.
+2) Out of remaining questions, attempt any _4 questions.
+
+3) Inall_5___ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+1. Prepare a frequency distribution table by generating your own data and draw a
+histogram for the frequency distribution and determine the mode.
+
+2 : [2x5=] 10 Marks
+a) When can Poission Distribution be. a reasonable approximation to the Binomial
+Distribution?
+b) On an average three divorce cases are filed in a court of a small city. Find probability
++ that on a certain date the number of Suen cases coming up will be
+1) X=1
+2) X=at least 2 . ¥
+
+3) X=at most 2
+3. [2x5=] 10 Marks
+
+a) What are the types of probability under statistical dependency and independency.
+
+b) Suppose that a game is to be played with a single fair die, in this game a player wins
+Rs.20 if 2 turns up, Rs. 40 if 4 turns up, loses Rs.30 if 6 turns up; while the player
+neither wins nor loses if any other face turns up. Find the expected sum of money to
+be won. ‘
+
+4. The following table contains the ST (study time per week) and the GPA (grade point
+average) for 8 college students. Grade point average is based on a four-point scale and
+has been rounded to the one digit after the decimal. ° 10 Marks
+
+Students | GPA Study time
+
+4 2.8 21
+2 3.4 24
+3 3 26 .
+4 3.5 27
+5 3.6 39
+6 3 25
+7 2.7 25
+8 3.7 30
+
+ky
+--- page 2 ---
+a) Estimate the relationship between GPA and ST using Liner regression ,that is,
+obtain the intercept and slope in the equation
+b) Compute the fitted valued and the residuals for each observation, and verify that the
+
+residuals (approximately) sum to zero
+c) What is the predicted value of GPA when ST =20?
+d) How much of the variation in GPA for the 8 students is explained by ST? Explain.
+
+5. Trying to encourage people to stop driving to campus, the university claims that on
+average it takes people 30 minutes to find a parking space on campus. 1 don't think it
+takes so long to find a spot. In fact | have a sample of the last five times | drove to
+campus, and ! calculated mean = 20. Assuming that the time it takes to find a parking
+spot is normal, and that s= 6 minutes, then perform a hypothesis test with level a = 0.10
+
+to see if my claim is correct. (Ziabie = +/-1,.28) 10 Marks
+
+6. Write short notes:on: Any two [2x5=] 10 Marks
+
+i. Standard Normal Distribution.
+ii. Sampling Distribution.
+iii, | Quartiles and deciles
+
+a) Calculate the Arithmetic mean from the following data. [2x5=] 10 Marks
+
+Marks 0 to 10 40-30 30-60 60-100 |
+No. of students 3] 12 25 8
+
+b) Explain the merits and demerits of Arithmetic mean.
+
+a}o.
 ````
 
 ## 2013-14 · Re-Exam · Sem 4 · paper 432b351fb175
@@ -10457,414 +10911,14 @@ y ¥
 >
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 79a73b91ed71
-
-- Departments: Chemical, Civil, Electronics and Telecommunication, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/STATISTICAL METHODS/STATISTICAL METHODS BATCH 2013-2014 RE EXAM.pdf` (+3 identical copies)
-- Printed on paper: exam date: 19/05/2015
-- Text: ocr (2 pages), mean OCR confidence 89.4
-
-````text
-7
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MA
-
-Programme: MBA Tech (All Streams) Year: II Semester: IV
-Batch: 2013-14
-; Academic Year: 2014-2015
-Subject: Statistical methods 4 CaN
-Marks: / ye
-Date: 19/05/2015 Time: { #11008 ow
-Duratiéns{) 2 ahd ARY
-
-Re-Examination
-
-Instruction: Candidates should read carefull y the instructions printed on the question
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all S questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-paper and on nthe
-
-1. Prepare a frequency distribution table by generating your own data and draw less than
-and more than ogive for the frequency distribution and determine the median.
-
-10 Marks
-
-2. [2x5=110 Marks
-a) Define Binomial Distribution and give the general form of the distribution.
-b) If 40 percent of mice used in an experiment will become very aggressive within 1
-minute after having been administered an experimental drug, find -
-1) The probability that exactly 6 out of 15 mice which have been administered the
-drug will become aggressive within 1 minute.
-2) The probability that at least 7 out of 15 mice will become aggressive within 7
-minute.
-
-3. {2x5=]10 Marks
-a) Explain Bayes’ Theorem.
-6) Find the coefficient of skewness from the following information:
-
-Difference of two quartile = 8
-Mode = 11
-
-Surn of two quartiles = 22
-Mean = 8
---- page 2 ---
-4. From the data for 46 areas in Mumbai for 2012, we obtained the following regression
-rasults.(10 marks)
-
-Log @ = 4.30 -1.34 Log? + 0.17 Log Y
-
-Se= (0.94) (0.32) (0.20) R2 =0.27
-Where C= Cigarette Consumption, packs per year
-P= Real price per pack
-
-Y= Real disposable income per capital
-
-a) What is the elasticity of demand for cigareties with respec io price? Is it statistically
-significant? If so, is it statistically different from one?
-
-b) What is the income elasticity of demand for cigarettes? Is it statistically significant? If
-not, what might be the reason for it?
-
-c) How would you retrieve R? from adjusted R? given below?
-
-5. An insurance company is reviewing its current policy rates. When originally setting the
-rates they believed that the average claim amount was $1,800. They are concerned that
-the true mean is actually higher than this, because they could potentially lose a lot of
-money. They randomly select 40 claims, and calculate a sample mean of $2,200.
-Assuming that the standard deviation of claims is $500, and set a = .05, test to see if
-the insurance company should be concerned. (Ztabie = £1.645) to Marks
-
-6. Write short notes on any two [2x5=] 10 Marks
-i. Methods of sampling
-ii. Type l and Type Il Errors.
-ii. Moments
-
-7. Find the standard deviation and coefficient of variance from the following data:
-
-10 Marks
-
-Wages No. of workers
-Up to Rs. 10 12
-
-Up to Rs. 20 30
-
-Up to Rs. 30 65
-
-Up to Rs. 40 107
-
-Up to Rs. 50 157
-
-Up to Rs. 60 202
-
-Up to Rs. 70 222
-
-Up to Rs. 80 °230
-
-x
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 034e203cc351
-
-- Departments: Chemical, Civil, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/STATISTICAL METHODS/Ststistical Methods Batch (2013-14) Re Exam.pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 07/07/2015
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: II Semester: IV
-
-Academic Year: 2014-15
-
-ee
-Batch: 2013-14 Wrvvoe
-. a $ “PST =S
-Subject : Statistical Methods Marks: 50 (af LIBRARY
-Time : 10.00 am \ 20 noon,
-Date : 07/07/2015 Durations: 2 (hrs) Ar <a
-
-Re-Examination on
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data, if necesSary
-
-1. Find the Variance and coefficient of variance from the following data: (10 Marks)
-
-Wages No. of workers
-
-Up to Rs. 10 12
-Up to Rs. 20 30
-Up to Rs. 30 65
-Up to Rs. 40 107
-Up to Rs. 50 157
-Up to Rs. 60 262
-Up to Rs. 70 222
-Up to Rs. 80 230
-
-2. Trying to encourage people to stop driving to campus, the university claims that on
-average it takes people 30 minutes to find a parking space on campus. | don't think it takes
-so long to find a spot. In fact | have a sample of the last five times | drove to campus, and
-| calculated x = 20. Assuming that the time it takes to find a parking spot is normal, and
-that % = 6 minutes, then perform a hypothesis test with level a = 0.10 to see if my claim is
-correct. (Ztable = +/-1.28)
-
-(10 Marks)
-
-3. Write short notes on: Any two (2x5=10 Marks)
-
-i. Type land Type I! Errors
-ii. Sampling Distribution.
-
-AID
---- page 2 ---
-e
-“
-
-ii. ; Quartiles and deciles
-
-Cost accountants often estimate overhead based on the level of production. At the
-standard Knitting Co., they have collected information on overhead expenses and units
-produced at different plants, and want to estimate a regression equation to predict future
-overhead. (10 Marks)
-
-Overhead | 191 | 170 | 272 | 155 | 280 | 173 | 234 | 116 | 153 | 178
-Units 40| 42| 53} 35} 56| 39] 48; 30] 37/| 40
-
-(a) Develop the regression equation for the cost accountants.
-(b) Predict overhead when 50 units are produced.
-(c) Calculate the standard error of estimate.
-
-Prepare a frequency distribution table by generating your own data and draw a histogram
-for the frequency distribution and determine the mean, median and mode. (10 Marks)
-
-A Frequency distribution gives the following results: (10 Marks)
-(a) Coefficient of variation = §
-
-(b) Standard deviation = 2
-
-(c) Karl Pearson’s Coefficient of skewness = 0.5
-
-Find mean and mode of the distribution.
-
-The incidence of a certain disease is such that on the average 20% of workers suffer
-from it. lf 10 workers are selected at random, find the probability that (10 Marks)
-(a) Exactly 2 workers suffer from disease,
-
-(b) Not more than 2 workers suffer from the disease
-````
-
-## 2012-13 · Final-Exam · Trim 6 · paper 1f93457f05ae
-
-- Departments: Chemical, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/SATISTICAL METHODES/STATISTICAL METHOD FINAL 2012-13.pdf` (+1 identical copies)
-- Printed on paper: exam date: 11/5/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technology Management &b Engineering
-Programme: MBA (TECH) (ALL STREAMS) Year:   I1   Trimester: VI
-I   Academic Year : 2012-2013
-Subject:   Statistical Methods
-Date:   11/5/2013
-Final - Examination
-Instructions: Candidates should read carefully the instruction
-on the cover of the Answer Book, which is provided for their use.
-Note:
-1. Attempt all 5 questions.
-2. Answer to each question to be started on a fresh page.
-3. Figures in brackets on the right hand side indicate full marks.
-Q. 1) Answer both the questions:
-(i). An engineer tested nine samples of each of three designs of a certain bearing for a new electrical
-winch. The following data are the no. of hours it took for each bearing to fail when the winch motor was
-run continuously at maximum output, with a load on the winch equivalent to 1.9 times the intended
-capacity. Calculate the mean and standard deviation for each group. Which design is best and why?
-(5 marks)
-Design
-A   16   16   53   15   3 1   17   14   3 0   20
-- B   18   27   23   2 1   22   26   39   17   28
-- C   3 1   16   42   2 0   18   17   16   15   19
-1
-(ii). The administrator of a hospital surveyed the number of days 200 randomly chosen patients
-stayed in the hospital f ~ l l o w i n ~ operation. a n   Answer the following questions; The data are:
-Hospital   1-3   4-6   7-9   10-12   13-15   16-18   19-21   22-24
-stay in days
-Frequency   18   90   44   2 1   9   9   4   5
-Calculate the standard deviation and mean According to Chebyshev's theorem, how
-many stays should be between 0 and 17 days? How many are actually in that interval?
-(5 marks)
-Q.2) Attempt both the questions:
-8
-(i). In its third year, attendance in the Liberty Football League averaged 16,050 fans per game,
-and had a standard deviation of 2,500. Accordingly what is the probability that the number of
-fans at any given game was greater than 20,000?; fewer than 10,000?; between 14,000 and
-17,500? [Given the different prob. values for z as 1.58 is 0.4429, 2.42 is 0.4922; 0.82 is 0.2939
-and 0.58 is 0.21901   (5 marks)
---- page 2 ---
-(ii). There are three factories F1, F2 and F3 that produce lo%, 30%, 60% of a certain item.
-Suppose further that 1%, 2%, 3% of the items from factory F1, F2, F3 are respectively
-defectives. One item is selected at random from the entire lot. What is the probability that it is
-from factory F3 given that the item is defective? (5 marks)
-Q.3) A multinational manufacturer uses a batch process to produce widgets. Each batch
-of widgets takes 8 hours to produce and has material and labor costs of $8,476. Because of
-variations in machine efficiency and raw material purity, the number of widgets per batch is
-random. All widgets made can be sold for $2.50 each and widget production is profitable so
-long as the batches sell for more than $12,500 on average. The manufacturer sampled 16 batches
-and found 5,040 widgets per batch on average, with a standard deviation of 41.3 widgets. At a =
-0.025, can the manufacturer conclude that its widget operation is profitable?
-[Given t - 15,0.025 is 2.13 11   (1 0 marks)
-Q.4) A supermarket manager is keeping track of the arrival of customers at check-out counters to
-see how many cashiers are needed to handle the flow. In a sample of 500 five-minute time
-periods, there were 22,74, 1 15,95, 94, 80 and 20 periods in which zero, one, two, three, four,
-five or six or more customers respectively arrived at a check-out counter. Calculate the chi-
-square statistic. Are these data consistent at the 0.05 level of significance with a Poisson
-distribution with h = 3? [given chi-square distribution value with 6 degrees of freedom for 0.05 is
-12.592; Poisson probabilities for h = 3 are for 0(.0498), l(. 1494), 2(.2240), 3(.2240), 4(. 1680),
-5(. 1008), 16(.0840)]   (1 0 marks)
-Q.5) Attempt both the questions:
-(i). The following information is provided by a company to its subscribers to enable them to evaluate the
-performance of mutual funds they are considering as potential investment vehicles. A recent survey
-produced the following data on total annual rate of return over the past five years:   (6 marks).
-Annual
-return(%)   11-1 1.9; 12-12.9; 13-13.9; 14-14.9; 15-15.9; 16-16.9; 17-17.9; 18-18.9
-Frequency   2;   2;   8;   10;   11;   8;   3;   1
-1   a) Calculate the mean, variance and standard deviation of the annual rate of return for this
-sample of 45 funds
-b) According to Chebyshev's theorem between what values should at least 95 percent of the
-sample observations fall? What percentage of the observations actually do'fall in that
-interval?
-c) Since the distribution is roughly bell shaped, between what values would you expect to find
-68 percent of the observations? What percentage of the observations actually do fall in that
-interval?
-(ii). Hayes Textiles has shown the following percentage increase in net worth over the last 5 years; What
-is the average percentage increase in net worth over the 5-year period?   (4 marks)
-#   1992   1993   1994   1995   1996
-5%   10.5%   9%   6%   7.5%
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper 18e342d04ef4
-
-- Departments: Chemical, Civil, Computer Engineering, Electronics and Telecommunication, Information Technology, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/STATISTICAL METHODS/STATISTICAL METHODS VI MBA TECH 2012-13 RE EXAM(1).pdf` (+10 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 28/06/2013
-- Text: text (2 pages)
-
-````text
--   -   .-
--- -
-sVKMssNMIMS
-M&esh Pate1 Schoolof Technolo- Mananement ..Trimester: % Enbee
-hornrnmr. ." ----.   -MBA TECH --   ( ~ 1 1 Streams)   L   Year:   II   VI   +
-~cademicYear :2012-2013   -- -
-Batch:   2012-13.   Marks   50 - .
-Subject:   Statistical Methods   Time:   2.00pm To 4.00pm
-Date:   28/06/2013*   Duration: 2 hrs.   ,
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-a) Question No. 1is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) All questions carry equal marks.
-d) Answer to each new question to be started on a fresh page.
-e) Figure in brackets indicate full marks.
-f) Useof scientific calculator is allowed.
-Que.1) a) A car manufacturer sold three different models of his cars in the four quarters of a particular   (4)
-year as detailed beIow:
-.
-4.   Show the above d i a through a subdivided bar diagram.
-I.. I b) In an industry 200 workers employed for a specific job were classified according to their   (6)
-performance and   received to test independence of training received and performance.
-The data are summarized as follows.
-Performance Good Not good Total
-Trained   100   50 &   150
-Untrained   20   30   50
-Total   120   80   200
-Use Chi-square test for independence at 5% LOS and write your conclusion.
-Que.2)   a) A continuous random variable has probability density fhction f (x) =6(x-x2),   0 9x S 1.   (4)
-Find mean and variance of the distribution.
-b) From the following data, calculate the percentage of workers getting wages   (6)
-a) more than Rs.44   b: between Rs.22 and Rs.58.
-Wages (in%.)   1 0-10 10-20 120-30 1 30-40 1 40-50 1 50-60 1 60-70 1 70-80
-No.ofworkers 1 20   45   1 85   1 160   1 70   1 55   1 35   1 30
---- page 2 ---
-Que.3) a) The quality control manager of a bulbs manufacturing company finds that a sample of 50 bulbs   (4)
-has mean life-time of 130 days with standard deviation of 20days. Construct 95% confidence
-interval estimate of the population mean.
-b) A computer while calculating the correlation coeEcient between two variables x and y obtained   (6)
-the following constants:
-N =25, x x = 125, zy =100, x x 2=650,   y2=460, zxy =508.It was later discovered
-that it had recorded two pairs as (6, 14)and (8, 6) while the correct values are (8,12) and (6,8).
-Calculate correct correlation coefficient.
-The probabilities of three events A, B and C occurring are P(A)= 0.35, P(B)= 0.45 and P(C)=
-0.2. Assuming that A, B or C has occurred, the probabilities of another event X occurring are
-P@/A)= 0.8, PCX/B)= 0.65 and P(X/C)= 0.3. Find P(A/X),P@B) and P(CB).
-The following data are given for two companies. Combining the data for groups of male and
-femaleemployees, find out
-a) which company has a higher productivity per employee
-b) Which company has a smaller dispersio
-Que.5) a) A military expert claims that the citizens of the district A are fitter than the citizens of the   (5)
-district B. His claim is based on the findings that 96 out of 200 citizens of the district A passed a
-standard of fitness as against only 84 out of 200 citizens of B. Is his claim well-founded?
-b) Find the line of regression   to x =15.5   .   (5)
-.
-i
-Que.6) a)   If the heights of '500 students is normally distributed with mean 68 inches and standard   (5)
-deviation 4 inches, estimate the number of students having heights
-a) greater than 72 inches
-b) less than 62 inches
-c) Between 65 and 71 inches.
-b) Two types of anti-biotic were tested on two groups of Batients for curing a particular disease   (5)
-and the following data were obtained.
-Type A TypeB
-No. of patients   6   6
-Mean period (in days)   13.55   10.10
-Unbiased Standard Deviation (in days)   3.2   2.8
-Use 5% LOS to test the null hypothesis that the difference in the mean period of the two drugs
-is significant.
-````
-
-## 2012-13 · Re-Exam · Trim 6 · paper 9723105dc824
+## 2013-14 · Re-Exam · Trim 6 · paper 9723105dc824
 
 - Departments: Chemical, Civil, Computer Engineering, Electronics and Telecommunication, Information Technology, Mechanical
 - Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/SATISTICAL METHODES/STATISTICAL METHODS BATCH 2012-13 RE EXAM TRIM VI0001(1).pdf` (+5 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (7 pages), mean OCR confidence 81.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —_—_ S$ -—— SVKM’s NMIMS
@@ -11103,7 +11157,6 @@ the Chi-S¢ quare Distribution with v Deg grees of Freedom,
 10.6
 “42.0
 13.4.
-PQ a a ‘eo a eee
 ‘17.3
 . 18.5
 19.8
@@ -11335,6 +11388,359 @@ ty
 4.43 | 1.35}. 1.25
 ````
 
+## 2012-13 · Final-Exam · Trim 6 · paper 1f93457f05ae
+
+- Departments: Chemical, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/SATISTICAL METHODES/STATISTICAL METHOD FINAL 2012-13.pdf` (+1 identical copies)
+- Printed on paper: exam date: 11/5/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technology Management &b Engineering
+Programme: MBA (TECH) (ALL STREAMS) Year:   I1   Trimester: VI
+I   Academic Year : 2012-2013
+Subject:   Statistical Methods
+Date:   11/5/2013
+Final - Examination
+Instructions: Candidates should read carefully the instruction
+on the cover of the Answer Book, which is provided for their use.
+Note:
+1. Attempt all 5 questions.
+2. Answer to each question to be started on a fresh page.
+3. Figures in brackets on the right hand side indicate full marks.
+Q. 1) Answer both the questions:
+(i). An engineer tested nine samples of each of three designs of a certain bearing for a new electrical
+winch. The following data are the no. of hours it took for each bearing to fail when the winch motor was
+run continuously at maximum output, with a load on the winch equivalent to 1.9 times the intended
+capacity. Calculate the mean and standard deviation for each group. Which design is best and why?
+(5 marks)
+Design
+A   16   16   53   15   3 1   17   14   3 0   20
+- B   18   27   23   2 1   22   26   39   17   28
+- C   3 1   16   42   2 0   18   17   16   15   19
+1
+(ii). The administrator of a hospital surveyed the number of days 200 randomly chosen patients
+stayed in the hospital f ~ l l o w i n ~ operation. a n   Answer the following questions; The data are:
+Hospital   1-3   4-6   7-9   10-12   13-15   16-18   19-21   22-24
+stay in days
+Frequency   18   90   44   2 1   9   9   4   5
+Calculate the standard deviation and mean According to Chebyshev's theorem, how
+many stays should be between 0 and 17 days? How many are actually in that interval?
+(5 marks)
+Q.2) Attempt both the questions:
+8
+(i). In its third year, attendance in the Liberty Football League averaged 16,050 fans per game,
+and had a standard deviation of 2,500. Accordingly what is the probability that the number of
+fans at any given game was greater than 20,000?; fewer than 10,000?; between 14,000 and
+17,500? [Given the different prob. values for z as 1.58 is 0.4429, 2.42 is 0.4922; 0.82 is 0.2939
+and 0.58 is 0.21901   (5 marks)
+--- page 2 ---
+(ii). There are three factories F1, F2 and F3 that produce lo%, 30%, 60% of a certain item.
+Suppose further that 1%, 2%, 3% of the items from factory F1, F2, F3 are respectively
+defectives. One item is selected at random from the entire lot. What is the probability that it is
+from factory F3 given that the item is defective? (5 marks)
+Q.3) A multinational manufacturer uses a batch process to produce widgets. Each batch
+of widgets takes 8 hours to produce and has material and labor costs of $8,476. Because of
+variations in machine efficiency and raw material purity, the number of widgets per batch is
+random. All widgets made can be sold for $2.50 each and widget production is profitable so
+long as the batches sell for more than $12,500 on average. The manufacturer sampled 16 batches
+and found 5,040 widgets per batch on average, with a standard deviation of 41.3 widgets. At a =
+0.025, can the manufacturer conclude that its widget operation is profitable?
+[Given t - 15,0.025 is 2.13 11   (1 0 marks)
+Q.4) A supermarket manager is keeping track of the arrival of customers at check-out counters to
+see how many cashiers are needed to handle the flow. In a sample of 500 five-minute time
+periods, there were 22,74, 1 15,95, 94, 80 and 20 periods in which zero, one, two, three, four,
+five or six or more customers respectively arrived at a check-out counter. Calculate the chi-
+square statistic. Are these data consistent at the 0.05 level of significance with a Poisson
+distribution with h = 3? [given chi-square distribution value with 6 degrees of freedom for 0.05 is
+12.592; Poisson probabilities for h = 3 are for 0(.0498), l(. 1494), 2(.2240), 3(.2240), 4(. 1680),
+5(. 1008), 16(.0840)]   (1 0 marks)
+Q.5) Attempt both the questions:
+(i). The following information is provided by a company to its subscribers to enable them to evaluate the
+performance of mutual funds they are considering as potential investment vehicles. A recent survey
+produced the following data on total annual rate of return over the past five years:   (6 marks).
+Annual
+return(%)   11-1 1.9; 12-12.9; 13-13.9; 14-14.9; 15-15.9; 16-16.9; 17-17.9; 18-18.9
+Frequency   2;   2;   8;   10;   11;   8;   3;   1
+1   a) Calculate the mean, variance and standard deviation of the annual rate of return for this
+sample of 45 funds
+b) According to Chebyshev's theorem between what values should at least 95 percent of the
+sample observations fall? What percentage of the observations actually do'fall in that
+interval?
+c) Since the distribution is roughly bell shaped, between what values would you expect to find
+68 percent of the observations? What percentage of the observations actually do fall in that
+interval?
+(ii). Hayes Textiles has shown the following percentage increase in net worth over the last 5 years; What
+is the average percentage increase in net worth over the 5-year period?   (4 marks)
+#   1992   1993   1994   1995   1996
+5%   10.5%   9%   6%   7.5%
+````
+
+## 2012-13 · Final-Exam · Trim 6 · paper ed8ca1206150
+
+- Departments: Civil, Electronics and Telecommunication
+- Programmes: MBA TECH / CIVIL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM VI/STATISTICAL METHODS/Statistical Method Final 16.pdf` (+1 identical copies)
+- Printed on paper: exam date: 11/5/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technology Management & Engineering
+Programme: MBA (TECH) (ALL STREAMS) Year:   I1   Trimester: VI
+Academic Year : 2012-2013
+Subject:   Statistical Methods   Marks:   - n T LA
+Date:   11/5/2013
+Final - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+Note:
+1. Attempt all 5 questions.
+2. Answer to each question to be started on a fresh page.
+3. Figures in brackets on the right hand side indicate full marks.
+Q. 1) Answer both the questions:
+(i). An engineer tested nine samples of each of three designs of a certain bearing for a new electrical
+winch. The following data are the no. of hours it took for each bearing to fail when the winch motor was
+run continuously at maximum output, with a load on the winch equivalent to 1.9 times the intended
+capacity. Calculate the mean and standard deviation for each group. Which design is best and why?
+(5 marks)
+Design
+- A   16   16   5 3   15   3 1   17   14   30   20
+- B   I8   2 7   23   2 1   22   26   39   17   28
+- C   3 1   16   42   20   I8   17   16   15   19
+(ii). The administrator of a hospital surveyed the number of days 200 randomly chosen patients
+stayed in the hospital following an operation. Answer the following questions; The data are:
+Hospital   1-3   4-6   7-9   10-12   13-15   16-18   19-21   22-24
+stay in days
+l ~ r e q u e n c I ~ 18   (   90   /   44   1   21   1   9   9   4   5
+Calculate the standard deviation and mean; According to Chebyshev's theorem, how
+many stays should be between 0 and 17 days? How many are actually in that interval?
+(5 marks)
+4.2)   Attempt both the questions:
+t
+(i). In its third year, attendance in the Liberty Football League averaged 16,050 fans per game,
+and had a standard deviation of 2,500. Accordingly what is the probability that the number of
+fans at any given game was greater than 20,000?; fewer than 10,000?; between 14,000 and
+17,500? [Given the different prob. values for z as 1.58 is 0.4429, 2.42 is 0.4922; 0.82 is 0.2939
+and 0.58 is 0.21901   (5 marks)
+--- page 2 ---
+(ii). There are three factories F1, F2 and F3 that produce lo%, 30%, 60% of a certain item.
+Suppose further that 1%, 2%, 3% of the items from factory F1, F2, F3 are respectively
+defectives. One item is selected at random from the entire lot. What is the probability that it is
+from factory F3 given that the item is defective? (5 marks)
+4.3) A multinational manufacturer uses a batch process to produce widgets. Each batch
+of widgets takes 8 hours to produce and has material and labor costs of $8,476. Because of
+variations in machine efficiency and raw material purity, the number of widgets per batch is
+random. All widgets made can be sold for $2.50 each and widget production is profitable so
+long as the batches sell for more than $12,500 on average. The manufacturer sampled 16 batches
+and found 5,040 widgets per batch on average, with a standard deviation of 41.3 widgets. At a =
+0.025, can the manufacturer conclude that its widget operation is profitable?
+[Given t - 15, 0.025 is 2.1311   (1 0 marks)
+Q.4) A supermarket manager is keeping track of the arrival of customers at check-out counters to
+see how many cashiers are needed to handle the flow. In a sample of 500 five-minute time
+periods, there were 22,74, 11 5,95,94, 80 and 20 periods in which zero, one, two, three, four,
+five or six or more customers respectively arrived at a check-out counter. Calculate the chi-
+square statistic. Are these data consistent at the 0.05 lelrel of significance with a Poisson
+distribution with h = 3? [given chi-square distribution value with 6 degrees of freedom for 0.05 is
+12.592; Poisson probabilities for h = 3 are for 0(.0498), 1 (. 1494), 2(.2240), 3(.2240), 4(. 1680),
+5(. 1008), >6(.0840)]   (10 marks)
+Q.5) Attempt both the questions:
+(i). The following information is provided by a company to its subscribers to enable them to evaluate the
+performance of mutual funds they are considering as potential investment vehicles. A recent survey
+produced the following data on total annual rate of return over the past five years:   (6 marks).
+Annual
+return(%)   11-1 1.9; 12-12.9; 13-13.9; 14-14.9; 15-15.9; 16-16.9; 17-17.9; 18-1 8.9
+Frequency   2;   2;   8;   10;   11;   8;   3;   1
+1   a) Calculate the mean, variance and standard deviation of the annual rate of return for this
+sample of 45 funds
+b) According to Chebyshev's theorem between what values should at least 95 percent of the
+sample observations fall? What percentage of the observations actually do fall in that
+interval?
+c) Since the distribution is roughly bell shaped, between what values would you expect to find
+68 percent of the observations? What percentage of the observations actually do fall in that
+interval?
+(ii). Hayes Textiles has shown the following percentage increase in net worth over the last 5 years; What
+is the average percentage increase in net worth over the 5-year period?   (4 marks)
+e   1992   1993   1994   1995   1996
+5%   10.5%   9%   6%   7.5%
+````
+
+## 2012-13 · Final-Exam · Trim 6 · paper a5a2a5be3610
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/STATISTICAL METHODES/Statistical Method Final 25.pdf`
+- Printed on paper: exam date: 11/5/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technology Mana~ement &s Engineering
+Programme: MBA (TECH) (ALL STREAMS) Year:   I1   Trimester: VI
+1   Academic Year : 2012-2013   C
+Subject:   Statistical Methods
+Date:   11/5/2013
+Final - Examination
+-a   -" -
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+Note:
+1. Attempt all 5 questions.
+2. Answer to each question to be started on a fresh page.
+3. Figures in brackets on the right hand side indicate full marks.
+Q. 1) Answer both the questions:
+(i). An engineer tested nine samples of each of three designs of a certain bearing for a new electrical
+winch. The following data are the no. of hours it took for each bearing to fail when the winch motor was
+run continuously at maximum output, with a load on the winch equivalent to 1.9 times the intended
+capacity. Calculate the mean and standard deviation for each group. Which design is best and why?
+(5 marks)
+Design
+- A   16   16   53   15   3 1   17   14   30   20
+- B   18   2 7   23   2 1   22   26   39   17   28
+- C   3 1   16   42   20   18   17   16   15   19
+1
+(ii). The administrator of a hospital surveyed the number of days 200 randomly chosen patients
+stayed in the hospital following an operation. Answer the following questions; The data are:
+Hospital   1-3   4-6   7-9   10-12   13-15   16-18   19-21   22-24
+stay in days
+Frequency   18   90   44   2 1   9   9   4   5
+Calculate the standard deviation and mean; According to Chebyshev's theorem, how
+many stays should be between 0 and 17 days? How many are actually in that interval?
+(5 marks)
+4.2) Attempt both the questions:
+&
+(i). In its third year, attendance in the Liberty Football League averaged 16,050 fans per game,
+and had a standard deviation of 2,500. Accordingly what is the probability that the number of
+fans at any given game was greater than 20,000?; fewer than 10,000?; between 14,000 and
+17,500? [Given the different prob. values for z as 1.58 is 0.4429, 2.42 is 0.4922; 0.82 is 0.2939
+and 0.58 is 0.21901   (5 marks)
+--- page 2 ---
+(ii). There are three factories F1, F2 and F3 that produce lo%, 30%, 60% of a certain item.
+Suppose further that I%, 2%, 3% of the items from factory F1, F2, F3 are respectively
+defectives. One item is selected at random from the entire lot. What is the probability that it is
+from factory F3 given that the item is defective? (5 marks)
+4.3) A multinational manufacturer uses a batch process to produce widgets. Each batch
+of widgets takes 8 hours to produce and has material and labor costs of $8,476. Because of
+variations in machine efficiency and raw material purity, the number of widgets per batch is
+random. All widgets made can be sold for $2.50 each and widget production is profitable so
+long as the batches sell for more than $12,500 on average. The manufacturer sampled 16 batches
+and found 5,040 widgets per batch on average, with a standard deviation of 41.3 widgets. At a =
+0.025, can the manufacturer conclude that its widget operation is profitable?
+[Given t - 15,0.025 is 2.13 11   (1 0 marks)
+Q.4) A supermarket manager is keeping track of the arrival of customers at check-out counters to
+see how many cashiers are needed to handle the flow. In a sample of 500 five-minute time
+periods, there were 22,74, 115,95,94, 80 and 20 periods in which zero, one, two, three, four,
+five or six or more customers respectively arrived at a check-out counter. Calculate the chi-
+square statistic. Are these data consistent at the 0.05 level of significance with a Poisson
+distribution with h = 3? [given chi-square distribution value with 6 degrees of freedom for 0.05 is
+12.592; Poisson probabilities for h = 3 are for 0(.0498), 1(.1494), 2(.2240), 3(.2240), 4(.1680),
+5(. 1008), >6(.0840)]   (1 0 marks)
+Q.5) Attempt both the questions:
+(i). The following information is provided by a company to its subscribers to enable them to evaluate the
+performance of mutual funds they are considering as potential investment vehicles. A recent survey
+produced the following data on total annual rate of return over the past five years:   (6 marks).
+Annual
+return(%)   1 1-1 1.9; 12-12.9; 13-13.9; 14-14.9; 15-15.9; 16-16.9; 17-17.9; 18-1 8.9
+Frequency   2;   2;   8;   10;   11;   8;   3;   1
+1   a) Calculate the mean, variance and standard deviation of the annual rate of return for this
+sample of 45 funds
+b) According to Chebyshev's theorem between what vaIues should at least 95 percent of the
+sample observations fall? What percentage of the observations actually do fall in that
+interval?
+c) Since the distribution is roughly bell shaped, between what values would you expect to find
+68 percent of the observations? What percentage of the observations actually do fall in that
+interval?
+(ii). Hayes Textiles has shown the following percentage increase in net worth over the last 5 years; What
+is the average percentage increase in net worth over the 5-year period?   (4 marks)
+e   1992   1993   1994   1995   1996
+5%   10.5%   9%   6%   7.5%
+````
+
+## 2012-13 · Re-Exam · Trim 4 · paper 18e342d04ef4
+
+- Departments: Chemical, Civil, Computer Engineering, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/STATISTICAL METHODS/STATISTICAL METHODS VI MBA TECH 2012-13 RE EXAM(1).pdf` (+10 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 28/06/2013
+- Text: text (2 pages)
+
+````text
+-   -   .-
+-- -
+sVKMssNMIMS
+M&esh Pate1 Schoolof Technolo- Mananement ..Trimester: % Enbee
+hornrnmr. ." ----.   -MBA TECH --   ( ~ 1 1 Streams)   L   Year:   II   VI   +
+~cademicYear :2012-2013   -- -
+Batch:   2012-13.   Marks   50 - .
+Subject:   Statistical Methods   Time:   2.00pm To 4.00pm
+Date:   28/06/2013*   Duration: 2 hrs.   ,
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+a) Question No. 1is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) All questions carry equal marks.
+d) Answer to each new question to be started on a fresh page.
+e) Figure in brackets indicate full marks.
+f) Useof scientific calculator is allowed.
+Que.1) a) A car manufacturer sold three different models of his cars in the four quarters of a particular   (4)
+year as detailed beIow:
+.
+4.   Show the above d i a through a subdivided bar diagram.
+I.. I b) In an industry 200 workers employed for a specific job were classified according to their   (6)
+performance and   received to test independence of training received and performance.
+The data are summarized as follows.
+Performance Good Not good Total
+Trained   100   50 &   150
+Untrained   20   30   50
+Total   120   80   200
+Use Chi-square test for independence at 5% LOS and write your conclusion.
+Que.2)   a) A continuous random variable has probability density fhction f (x) =6(x-x2),   0 9x S 1.   (4)
+Find mean and variance of the distribution.
+b) From the following data, calculate the percentage of workers getting wages   (6)
+a) more than Rs.44   b: between Rs.22 and Rs.58.
+Wages (in%.)   1 0-10 10-20 120-30 1 30-40 1 40-50 1 50-60 1 60-70 1 70-80
+No.ofworkers 1 20   45   1 85   1 160   1 70   1 55   1 35   1 30
+--- page 2 ---
+Que.3) a) The quality control manager of a bulbs manufacturing company finds that a sample of 50 bulbs   (4)
+has mean life-time of 130 days with standard deviation of 20days. Construct 95% confidence
+interval estimate of the population mean.
+b) A computer while calculating the correlation coeEcient between two variables x and y obtained   (6)
+the following constants:
+N =25, x x = 125, zy =100, x x 2=650,   y2=460, zxy =508.It was later discovered
+that it had recorded two pairs as (6, 14)and (8, 6) while the correct values are (8,12) and (6,8).
+Calculate correct correlation coefficient.
+The probabilities of three events A, B and C occurring are P(A)= 0.35, P(B)= 0.45 and P(C)=
+0.2. Assuming that A, B or C has occurred, the probabilities of another event X occurring are
+P@/A)= 0.8, PCX/B)= 0.65 and P(X/C)= 0.3. Find P(A/X),P@B) and P(CB).
+The following data are given for two companies. Combining the data for groups of male and
+femaleemployees, find out
+a) which company has a higher productivity per employee
+b) Which company has a smaller dispersio
+Que.5) a) A military expert claims that the citizens of the district A are fitter than the citizens of the   (5)
+district B. His claim is based on the findings that 96 out of 200 citizens of the district A passed a
+standard of fitness as against only 84 out of 200 citizens of B. Is his claim well-founded?
+b) Find the line of regression   to x =15.5   .   (5)
+.
+i
+Que.6) a)   If the heights of '500 students is normally distributed with mean 68 inches and standard   (5)
+deviation 4 inches, estimate the number of students having heights
+a) greater than 72 inches
+b) less than 62 inches
+c) Between 65 and 71 inches.
+b) Two types of anti-biotic were tested on two groups of Batients for curing a particular disease   (5)
+and the following data were obtained.
+Type A TypeB
+No. of patients   6   6
+Mean period (in days)   13.55   10.10
+Unbiased Standard Deviation (in days)   3.2   2.8
+Use 5% LOS to test the null hypothesis that the difference in the mean period of the two drugs
+is significant.
+````
+
 ## 2011-12 · Exam not stated · Trim 3 · paper b84d8bc271ae
 
 - Departments: Computer Applications (MCA)
@@ -11500,6 +11906,7 @@ iii. Skewness (2)
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/STATISTICAL METHODS/STATISTICAL METHODS BATCH 2011-12 RE EXAM0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28/06/2012
 - Text: ocr (6 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -11693,7 +12100,6 @@ taken from mean is 135. Can this sample be regarded as'taken from the population
 
 a
 
-y PRR HEE AIEEE TIE IIIT
 
 Page 4 of 4
 --- page 5 ---
@@ -12096,12 +12502,280 @@ x
 313
 ````
 
+## 2010-11 · Exam not stated · Trim 6 · paper 7b767c025d0b
+
+- Departments: Chemical, Computer Engineering, Electronics and Telecommunication, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/SATISTICAL METHODES/STATISTICAL METHODS.pdf` (+3 identical copies)
+- Printed on paper: duration hours: 2; exam date: 13/05/2011
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management &
+Programme: MBA (TECH) (ALL STREAMS) Year: II Trimester; aI
+Academic Year : 2010-2011 \
+
+Subject: Statistical Methods Marks: ee
+Time: 2.00 pm To 4.00 pm
+Date: 13/05/2011 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+Note:
+
+1. Attempt any 5 questions.
+
+2. In all 5 questions to be attempted.
+
+3. All questions carry equal marks.
+
+4. Answer to each question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Answer both the questions:
+(i).Realistic Stereo Shops marks up its merchandise 35 percent above the cost of its latest
+additions to stock. Until 4 months ago, the Dynamic 400-S VHS recorder had been $300.
+During the last 4 months Realistic has received 4 monthly shipments of this recorder at
+these unit costs:$275, $250, $240 and $ 225. At what average rate per month has
+Realistic’s retail price for this unit been decreasing during these 4 months? (5 Marks)
+
+(ii). The university has decided to test three new kinds of lightbulbs. They have three
+identical rooms to use in the experiment. Bulb 1 has an average life time of 1,470 hours
+and a variance of 156. Bulb 2 has an average lifetime of 1400 hours and a variance of 81.
+Bulb 3 has an average lifetime of 1,350 hours and a standard deviation of 6 hours. Rank
+the bulbs in terms of relative variability. Which was the best bulb? (5 marks)
+
+Q.2) Answer both the questions ,
+(i).For a binomial distribution with n = 7 and p= 0.2, find (5 marks)
+(a)P@=5)   (b)P@>2) (©) P(r<8)   (d) P24)
+
+(ii). Given: The probabilities of three events, A,B and C, occurring are P(A)=0.35,
+P(B)=0.45 and P(C)=0.2. Assuming that A,B or C has occurred, the probabilities of
+another event, X occurring are P(X/A)=0.8, P(X/B)=0.65 and P(X/C)=0.3. Find P(A/X),
+P(B/X) and P(C/X). (5 Marks)
+
+1
+y=
+--- page 2 ---
+Q.3)
+
+Q4)
+
+Q.5)
+
+Q.6)
+
+Attempt both the questions
+
+(i).State and explain Baye’s Theorem (5 marks)
+
+(ii). There are three factories Fl, F2 and F3 that produce 10%, 30%, 60% of a certain
+item. Suppose further that 1%, 2%, 3% of the items from factory Fl, F2, F3 are
+respectively defectives. One item is selected at random from the entire lot. What is the
+probability that it is from factory F3 given that the item is defective? (5 marks)
+
+A study compared the effects of four 1-month point-of-purchase promotions on sales.
+The unit sales for five stores using all four promotions in different months follow.
+(10 Marks)
+
+Free sample 78 87 81 89 85
+One-pack gift 94 91 87 90 88
+Cents off , 73 78 69 83 76
+Refund by mail 79 83 78 69 81
+
+(a) Compute the mean unit sales for each promotion and then determine the grand mean.
+
+(b) Estimate the population variance using the between-column variance
+
+(c) Calculate the F ratio. At the 0.01 level of significance, do the promotions produce
+different effects on sales?
+
+Answer both the questions
+(i). At the 0.10 level of significance, can we conclude that the following 400 observations
+follow a Poisson distribution with 4 = 3? (5 Marks)
+
+Number of arrivals per hour 0 1 2 3 4 5 or more
+
+Number of hours 20 ST 98 85 78 62
+
+(ii). Given a sample variance of 127 from a set of nine observations, construct a 95
+percent confidence interval for the population variance. (5 Marks)
+
+A brand manager is concerned that her brand’s share may be unevenly distributed
+throughout the country. In a survey in which the country was divided into four
+geographic regions, a random sampling of 100 consumers in each region was surveyed,
+with the following results: (10 Marks)
+
+Region
+NE NW SE SW Total
+Purchase the brand 40 35 45 50 190
+Do not purchase 60 45 55 50 210
+Total 100 100 100 100 400°
+
+(i). Develop a table of observed and expected frequencies for this problem
+(ii). Calculate the sample chi-square value
+(iii). At&= 0.05, test whether brand share is the same across the four regions.
+
+hh
+````
+
+## 2010-11 · Exam not stated · Trim 3 · paper f1590f1b14bb
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/STATISTICAL METHODS/STATISTICAL METHODS.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14/05/2011
+- Text: ocr (3 pages), mean OCR confidence 94.9
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & En)
+
+Programme: MCA Year: I Trimester:
+Academic Year : 2010-2011
+
+Subject: Statistical Methods Marks: 100
+Time: 10.00 am To 1.00 pm
+Date: 14/05/2011 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+Note:
+5. Attempt all questions.
+6. All questions carry equal marks.
+7. Answer to each question to be started on a fresh page.
+8. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Attempt both the questions;
+
+(i). Given: The probabilities of three events, A,B and C, occurring are P(A)=0.35,
+P(B)=0.45 and P(C)=0.2. Assuming that A,B or C has occurred, the probabilities of
+another event, X occurring are P(X/A)=0.8, P(X/B)=0.65 and P(X/C)=0.3. Find P(A/X),
+P(B/X) and P(C/X). (5 Marks)
+(ii). Use the normal approximation to compute the binomial probabilities in (S Marks)
+
+(a). n= 30, p = 0.35 between 10 and 15 successes
+
+(b). n= 15, p= 0.40 at most 7 successes
+
+Q.2) A brand manager is concerned that her brand’s share may be unevenly distributed
+throughout the country. In a survey in which the country was divided into four
+geographic regions, a random sampling of 100 consumers in each region was surveyed,
+with the following results: (10 Marks) :
+
+Region
+NE NW SE SW Total
+Purchase the brand 40 55 45 50 190
+Do not purchase 60 45 55 50 210
+Total 100 ~ 100 100 100 400
+
+(i). Develop a table of observed and expected frequencies for this problem
+(ii). Calculate the sample chi-square value
+(iii). At&= 0.05, test whether brand share is the same across the four regions.
+--- page 2 ---
+Q.3) A ketchup manufacturer is in the process of deciding whether to produce a new extra-
+spicy brand. The company’s marketing-research department used a national telephone
+survey of 6,000 households and found that the extra-spicy ketchup would be purchased
+by 335 of them. A much more extensive study made 2 years ago showed that 5 percent
+of the households would purchase the brand then. At a 2 percent significance level,
+should the company conclude that there is an increased interest in the extra-spicy flavor?
+(10 marks).
+
+Q.4) | Write short notes on any two from the following: (5 Marks x 2 = 10 Marks)
+i. Differentiate between Population and Sample with examples. Discuss
+their characteristics
+ii. Explain skewness and kurtosis with the help of diagrams.
+iii. What is Sampling? Discuss various methods of sampling with examples.
+
+Q.5) Attempt both the questions:
+
+(i).Realistic Stereo Shops marks up its merchandise 35 percent above the cost of its latest
+additions to stock. Until 4 months ago, the Dynamic 400-S VHS recorder had been $300.
+During the last 4 months Realistic has received 4 monthly shipments of this recorder at
+these unit costs:$275, $250, $240 and $ 225. At what average rate per month has
+Realistic’s retail price for this unit been decreasing during these 4 months? (5 Marks)
+
+(ii). The ages in years of a sample of students attending Sandhills Community College
+this semester are as follows:, Construct a frequency distribution with intervals 15-19, 20-
+24 and so on, estimate the mode and compute the mean (5 Marks)
+19,18,55,17,33,19,15,32,22,20,29,25,23,24,28.41,19,30,33,
+18,44,21,20,19,18,17,20,20,22,39
+
+Q.6) A supermarket manager is keeping track of the arrival of customers at check-out counters
+to see how many cashiers are needed to handle the flow. In a sample of 500 five-minute
+time periods, there were 22, 74, 115, 95, 94, 80 and 20 periods in which zero, one, two,
+three, four, five or six or more customers respectively arrived at a checkout counter. Are
+these data consistent at the 0.05 level of significance with a Poisson distribution
+with X= 3? (10 marks).
+
+Q.7) Answer both the questions:
+
+(i). From a sample of 25 observations, the estimate of the standard deviation of the
+population was found to be 15. From another sample of 14 observations, the estimate
+was found to be 9.7. Can we accept the hypothesis that the two samples come from
+populations with equal variances, or must we conclude that the variance of the second
+population is smaller? Use the 0.01 level of significance? (5 marks)
+
+(ii). Given a sample variance of 127 from a set of nine observations, construct a 95
+percent confidence interval for the population variance. (5 Marks)
+
+1s
+--- page 3 ---
+Q.8) Answer both the questions:
+(i). Hinton Press hypothesizes that the average life of its largest web press is 14,500
+hours. They know that the standard deviation of press life is 2,100 hours. From a sample
+of 25 presses, the company finds a sample mean of 13,000 hours. At a 0.01 significance
+level, should the company conclude that the average life of the presses is less than the
+hypothesized 14,500 hours? (5 marks)
+
+(ii). The university has decided to test three new kinds of lightbulbs. They have three
+identical rooms to use in the experiment. Bulb 1 has an average life time of 1,470 hours
+and a variance of 156. Bulb 2 has an average lifetime of 1400 hours and a variance of 81.
+Bulb 3 has an average lifetime of 1,350 hours and a standard deviation of 6 hours. Rank
+the bulbs in terms of relative variability. Which was the best bulb? (5 marks)
+
+Q.9) Attempt both the questions
+(i).Calculate Karl Pearson’s coefficient of correlation for the following data taking
+deviations from actual mean 52 (X series) and 44 (Y series). (5 marks)
+
+X series | 44 | 46 46 48 52 54 54 56 60 60
+Y series | 36 | 40 42 40 42 44 46 48 50 52
+
+(ii). There are three factories F1, F2 and F3 that produce 10%, 30%, 60% of a certain
+item. Suppose further that 1%, 2%, 3% of the items from factory Fl, F2, F3 are
+respectively defectives. One item is selected at random from the entire lot. What is the
+probability that it is from factory F3 given that the item is defective? (5 marks)
+
+Q.10) A study compared the effects of four 1-month point-of-purchase promotions on sales.
+The unit sales for five stores using all four promotions in different months follow.
+
+(10 Marks)
+Free sample 78 87 81 89 85
+One-pack gift 94 91 87 90 88
+Cents off 73 78 69 83 76
+
+Refund by mail 79 83 78 69 81
+(a) Compute the mean unit sales for each promotion and then determine the grand mean.
+(b) Estimate the population variance using the between-column variance
+(c) Calculate the F ratio. At the 0.01 level of significance, do the promotions produce
+different effects on sales?
+````
+
 ## 2009-10 · Exam not stated · Trim 6 · paper 814417e55d82
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/SATISTICAL METHODES/2009-2010(58).pdf`
 - Text: ocr (2 pages), mean OCR confidence 71.3
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Mukes . ERIGIG FUG
@@ -12123,16 +12797,12 @@ entertainment ¢ Rs. 40 3) b an average working class family ina period. of 10 y
 ab oe -[1990 |-1991.-|.1992 |.1993.|.1994: | 1995 | 1996 | 1997 | 1998
 At EBL p32 20 25° 1.33 °- 30 © [28 22
 
-a 5 Darel aN eee aS) Ri POMTED ic SES bE
 
-ole es ow the gine bay ieee 2 a comers ?
 
 to. "determine the: mean amount of time ee executives
 
 raed tt
 
-fs at Comps I ccueraneeias: thee rosea le
-uth 5D, hows fou ae Antes) Same 7
 
 —_—
 
@@ -12224,9 +12894,9 @@ N
 - Programmes: MBA TECH / I T
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/STATISTICAL METHODES/2009-2010(71).pdf`
 - Text: ocr (2 pages), mean OCR confidence 74.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-oi le cpthetet eng nolemater nid tain ceteeialeeaios eettiee Sd
 
 > Sv
 $ Kurs
@@ -12265,7 +12935,6 @@ i on, A . pilot survey’ indicated that the mean time-per week is 12 hours, wit
 standard deviation of3 hours. It is desiréd t to éstimate the mean viewing time within I quarter
 hour. The 95% level of confidence i is to be used. How many Le should be surveyed?
 
-Is 0& Camp otble, wath ths wena Rie per wack le penis
 rth SD, D2 hows, found tw anctkey Stavey 7
 
 —_—
@@ -12820,6 +13489,8 @@ _ [4961 |.4864.|.4868 |.4871 |.4875 4.4878 |.4841 |.4884 |.4887 A89Q
 - Programmes: MCA
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/STATISTICAL METHODS/2008-2009(9).pdf`
 - Text: ocr (4 pages), mean OCR confidence 43.5
+- 31 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 Svitm's Nmrms UNIversrty
@@ -12831,15 +13502,12 @@ Mca PRocteamme 2 Year
 Date Fé 5[2009
 NBO Question No! fs compulssry
 
-) Oul of the —Temainirg qpeits ablempt any be Ques Tins «
 
 ee @) Figures, ih, Drackats, dndicabe full martes
 
-@) Answor Ie each Nevo queilin bh be Started OG Resh re 6
 
 6) Statistical tables Yo Losaphed xe requeale
 
-(SHECS The fllutine is dete, pecomaded! on vointatl Gn ems.)
 
 weoerdid. tn — dens in Tada.
 
@@ -12853,14 +13521,11 @@ Also ste” hove many to.ons Sawett Jess Shem 50 ems
 J
 wwaimvfolh (CW) more Phan Zo ems rant . (C3)
 
-Obi A__commtitice ot Pres is fi te ehininen Freaen_&-_g-roup
 consisting o& men and GS wormn:+ IP the selection is made
 
 ok random, find The. probeb Lity Tht ct) all Three. ore
 
-neh. ca) Geo: ape wen. : @
 
-(<) A es verjoble x Nos & pecbeb lity distn'butin
 as gaven 2) Jeolvo —
 
 Roe tot [2 3 | 4/5]
@@ -12871,9 +13536,7 @@ Obtain the. expect alin and UETAn ce. &. xX. [G5)
 
 (a) A__coin_is tossed Seco Lines and # “Ticned up hoadls
 
-| QEOD Limes - Gan we conclucte ak: the 5% lowel of
 
-. | sipniticance thet the ceth is wnblanal e Catt)
 ! a et iesreeemenaennsis asc PT O
 --- page 2 ---
 a
@@ -12884,7 +13547,6 @@ ee ee 250 : BP cmpan , ABC - Obtain: The mmean: dommes _ .
 Also Atain She modal in Come hy ~ Tine melbods. —_ N
 oe __ Danese a Noa? emolagzes i X _ _
 ste ipyfes Ry Bov0 64
-Ro 3.000 tnd lela; Lovo ree
 Rs 020 and bebe Ro GVO dot
 fe S00, kt S000 ; 65 =
 & Goo w 4 Rs Foro — 58 a
@@ -12897,7 +13559,6 @@ batbvner A &Bu. Find wt ushicle batsman 7 more: ‘consistent.
 BalimavA + 76 2% 46 €3 (ol. 15 FH 4S BE 2° _
 batdmanr® 1 56 69 &5 bg 67 19 2G 63. 48 76 Gey
 
-9 Fedo _ State the ath and amaltipltn Bescomn of probly
 
 = tivo. evonls : : * (5)
 CO) There sare 60, aeticha oP ofall 20 are defect onl
@@ -12909,7 +13570,6 @@ Find “the Pree Baty L_gitting w exadly h defectives
 CX) Jess — Dhan 9, de fedtior (#)
 
 (o)| for « eettam pepeladlion 55% axe males and te rest? fabs .
-Fcther it is cPserved thet’ 3% of maks onl (h of femals
 ore, cellar blind . ‘Ope person is seledad ab random from this
 : populition what is the prob abilety thel: fetwle. as colour-blind ?
 ft Pt the pexsen cele Pad is cabour Lind hab is the proba daty
@@ -12922,37 +13582,25 @@ P JQ_
 f — + -
 a = = — —
 
-ZL _Oher RED is obs ocved heb koto ff stiles hea wwitiin olyae
 _ class are Swimmers fi slidents Fraven This class wre
-a seeded ct steahie - that: is_ the pochability hede
 
-_ @D_bone ts a metiomees 1) albeasl? Biwo are Sunmers + (6)
 
 _ &) For a Linorored wasn Pee the mean = © and vurtapee =),
 
 ae Rak pa fence OCx=2) (8)
 
-7 o- an quweage one. ii 5O_ “andiduals 1s a fax. ee
-ee ree mie cevtain Youn. of Ende: TP a vondom Saraple, _
-_ _— a (exe) ople ts selectid Fran the Siem. Tov wdelicmine
 Cm Fe
 —_ the poebilty That? the sample onclude (a, taro @ _
 
-@S@)_ The custimer accounls of o cattain —epatinen$al Sloe
 _ ~ have Qo. aus balance of Re 120 » and o- Beaded _
-— _ desetin ck & GO, Asswming that: th accep
-| balances « auice- nexmnably dist: dad uBat peopoitin Ce
 accounts - is Whctivcan R too and Qs» (GO:
 
 Ca) over 160
 (%) tess Than he U0. (a)
 
-- © The demand of caltes Cin kao) alas babory snes ~
 a wee uniform —distibution om (ioe ,1g00) + Fin the
 So | protol ity thak on ae Cer] aly daw the demand
-; would be ‘pelfoasts {2.00 kes cix)__bebireon "100 sod 1350 hem
 H (é)
-fe) Describe . he singe scanclen sanopling tichargue x Cs)
 
 _ O6a A sample Lt Size hoo was draon and tho sample
 mean pas found fs be 99. Test hchher thes ani _
@@ -12962,8 +13610,6 @@ _— 100 and verione 6 of 5% devel of syn an co {5}
 PTO
 --- page 4 ---
 "wea Tb was saiserved that Sohn 2 hoo man and CO%
-a of 00 _uromen surveged, — Fournured __stironger: Janos \
-— uth regard L smoking Mh pablee. Boes thes indcale 1
 | Phat women are more © concerned ee smalung ih
 
 public Dhan. men + Use | te tual &# nign'fiean se (4) —*
@@ -12977,18 +13623,12 @@ Shodd by V:3:4& - Ave. the the consists unt
 _ the fypotiens Use Sh evel of signifreina . @)
 
 g xa Cobedata The cook freiend ft covrelalon Cx)
-and ceornbibshe on gas trdlinas : the dale. quer bolows
-a Experiencs (x)= ra LS ue 3. to 5 (2.
 PocPamanal)! 23 22 96 $2 19 20 18 2
 Also compu co ca dilerpeals the wale. . (42)
 
-: (b) The dines & Tagpression fon Dinirncts. papain
 are ag gen beloco
 SH ~loy +66 =O
-aie hoo —ISy = Qlp : w
 Fd (2) mean values of x Ly
-@) the regres Sloe coed Petents
-(2) vorianee of $Y hen voriane L Xes J, (8)
 ````
 
 ## 2008-09 · Re-Exam · Trim 6 · paper a4fb4ff6a3be
@@ -13916,678 +14556,4 @@ Total 9 1600.9
 
 (Note: Formula sheets and tables provided to students by faculty are allowed)
 *
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper 7b767c025d0b
-
-- Departments: Chemical, Computer Engineering, Electronics and Telecommunication, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/SATISTICAL METHODES/STATISTICAL METHODS.pdf` (+3 identical copies)
-- Printed on paper: duration hours: 2; exam date: 13/05/2011
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management &
-Programme: MBA (TECH) (ALL STREAMS) Year: II Trimester; aI
-Academic Year : 2010-2011 \
-
-Subject: Statistical Methods Marks: ee
-Time: 2.00 pm To 4.00 pm
-Date: 13/05/2011 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-Note:
-
-1. Attempt any 5 questions.
-
-2. In all 5 questions to be attempted.
-
-3. All questions carry equal marks.
-
-4. Answer to each question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) Answer both the questions:
-(i).Realistic Stereo Shops marks up its merchandise 35 percent above the cost of its latest
-additions to stock. Until 4 months ago, the Dynamic 400-S VHS recorder had been $300.
-During the last 4 months Realistic has received 4 monthly shipments of this recorder at
-these unit costs:$275, $250, $240 and $ 225. At what average rate per month has
-Realistic’s retail price for this unit been decreasing during these 4 months? (5 Marks)
-
-(ii). The university has decided to test three new kinds of lightbulbs. They have three
-identical rooms to use in the experiment. Bulb 1 has an average life time of 1,470 hours
-and a variance of 156. Bulb 2 has an average lifetime of 1400 hours and a variance of 81.
-Bulb 3 has an average lifetime of 1,350 hours and a standard deviation of 6 hours. Rank
-the bulbs in terms of relative variability. Which was the best bulb? (5 marks)
-
-Q.2) Answer both the questions ,
-(i).For a binomial distribution with n = 7 and p= 0.2, find (5 marks)
-(a)P@=5)   (b)P@>2) (©) P(r<8)   (d) P24)
-
-(ii). Given: The probabilities of three events, A,B and C, occurring are P(A)=0.35,
-P(B)=0.45 and P(C)=0.2. Assuming that A,B or C has occurred, the probabilities of
-another event, X occurring are P(X/A)=0.8, P(X/B)=0.65 and P(X/C)=0.3. Find P(A/X),
-P(B/X) and P(C/X). (5 Marks)
-
-1
-y=
---- page 2 ---
-Q.3)
-
-Q4)
-
-Q.5)
-
-Q.6)
-
-Attempt both the questions
-
-(i).State and explain Baye’s Theorem (5 marks)
-
-(ii). There are three factories Fl, F2 and F3 that produce 10%, 30%, 60% of a certain
-item. Suppose further that 1%, 2%, 3% of the items from factory Fl, F2, F3 are
-respectively defectives. One item is selected at random from the entire lot. What is the
-probability that it is from factory F3 given that the item is defective? (5 marks)
-
-A study compared the effects of four 1-month point-of-purchase promotions on sales.
-The unit sales for five stores using all four promotions in different months follow.
-(10 Marks)
-
-Free sample 78 87 81 89 85
-One-pack gift 94 91 87 90 88
-Cents off , 73 78 69 83 76
-Refund by mail 79 83 78 69 81
-
-(a) Compute the mean unit sales for each promotion and then determine the grand mean.
-
-(b) Estimate the population variance using the between-column variance
-
-(c) Calculate the F ratio. At the 0.01 level of significance, do the promotions produce
-different effects on sales?
-
-Answer both the questions
-(i). At the 0.10 level of significance, can we conclude that the following 400 observations
-follow a Poisson distribution with 4 = 3? (5 Marks)
-
-Number of arrivals per hour 0 1 2 3 4 5 or more
-
-Number of hours 20 ST 98 85 78 62
-
-(ii). Given a sample variance of 127 from a set of nine observations, construct a 95
-percent confidence interval for the population variance. (5 Marks)
-
-A brand manager is concerned that her brand’s share may be unevenly distributed
-throughout the country. In a survey in which the country was divided into four
-geographic regions, a random sampling of 100 consumers in each region was surveyed,
-with the following results: (10 Marks)
-
-Region
-NE NW SE SW Total
-Purchase the brand 40 35 45 50 190
-Do not purchase 60 45 55 50 210
-Total 100 100 100 100 400°
-
-(i). Develop a table of observed and expected frequencies for this problem
-(ii). Calculate the sample chi-square value
-(iii). At&= 0.05, test whether brand share is the same across the four regions.
-
-hh
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper f1590f1b14bb
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/STATISTICAL METHODS/STATISTICAL METHODS.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14/05/2011
-- Text: ocr (3 pages), mean OCR confidence 94.9
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & En)
-
-Programme: MCA Year: I Trimester:
-Academic Year : 2010-2011
-
-Subject: Statistical Methods Marks: 100
-Time: 10.00 am To 1.00 pm
-Date: 14/05/2011 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-Note:
-5. Attempt all questions.
-6. All questions carry equal marks.
-7. Answer to each question to be started on a fresh page.
-8. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) Attempt both the questions;
-
-(i). Given: The probabilities of three events, A,B and C, occurring are P(A)=0.35,
-P(B)=0.45 and P(C)=0.2. Assuming that A,B or C has occurred, the probabilities of
-another event, X occurring are P(X/A)=0.8, P(X/B)=0.65 and P(X/C)=0.3. Find P(A/X),
-P(B/X) and P(C/X). (5 Marks)
-(ii). Use the normal approximation to compute the binomial probabilities in (S Marks)
-
-(a). n= 30, p = 0.35 between 10 and 15 successes
-
-(b). n= 15, p= 0.40 at most 7 successes
-
-Q.2) A brand manager is concerned that her brand’s share may be unevenly distributed
-throughout the country. In a survey in which the country was divided into four
-geographic regions, a random sampling of 100 consumers in each region was surveyed,
-with the following results: (10 Marks) :
-
-Region
-NE NW SE SW Total
-Purchase the brand 40 55 45 50 190
-Do not purchase 60 45 55 50 210
-Total 100 ~ 100 100 100 400
-
-(i). Develop a table of observed and expected frequencies for this problem
-(ii). Calculate the sample chi-square value
-(iii). At&= 0.05, test whether brand share is the same across the four regions.
---- page 2 ---
-Q.3) A ketchup manufacturer is in the process of deciding whether to produce a new extra-
-spicy brand. The company’s marketing-research department used a national telephone
-survey of 6,000 households and found that the extra-spicy ketchup would be purchased
-by 335 of them. A much more extensive study made 2 years ago showed that 5 percent
-of the households would purchase the brand then. At a 2 percent significance level,
-should the company conclude that there is an increased interest in the extra-spicy flavor?
-(10 marks).
-
-Q.4) | Write short notes on any two from the following: (5 Marks x 2 = 10 Marks)
-i. Differentiate between Population and Sample with examples. Discuss
-their characteristics
-ii. Explain skewness and kurtosis with the help of diagrams.
-iii. What is Sampling? Discuss various methods of sampling with examples.
-
-Q.5) Attempt both the questions:
-
-(i).Realistic Stereo Shops marks up its merchandise 35 percent above the cost of its latest
-additions to stock. Until 4 months ago, the Dynamic 400-S VHS recorder had been $300.
-During the last 4 months Realistic has received 4 monthly shipments of this recorder at
-these unit costs:$275, $250, $240 and $ 225. At what average rate per month has
-Realistic’s retail price for this unit been decreasing during these 4 months? (5 Marks)
-
-(ii). The ages in years of a sample of students attending Sandhills Community College
-this semester are as follows:, Construct a frequency distribution with intervals 15-19, 20-
-24 and so on, estimate the mode and compute the mean (5 Marks)
-19,18,55,17,33,19,15,32,22,20,29,25,23,24,28.41,19,30,33,
-18,44,21,20,19,18,17,20,20,22,39
-
-Q.6) A supermarket manager is keeping track of the arrival of customers at check-out counters
-to see how many cashiers are needed to handle the flow. In a sample of 500 five-minute
-time periods, there were 22, 74, 115, 95, 94, 80 and 20 periods in which zero, one, two,
-three, four, five or six or more customers respectively arrived at a checkout counter. Are
-these data consistent at the 0.05 level of significance with a Poisson distribution
-with X= 3? (10 marks).
-
-Q.7) Answer both the questions:
-
-(i). From a sample of 25 observations, the estimate of the standard deviation of the
-population was found to be 15. From another sample of 14 observations, the estimate
-was found to be 9.7. Can we accept the hypothesis that the two samples come from
-populations with equal variances, or must we conclude that the variance of the second
-population is smaller? Use the 0.01 level of significance? (5 marks)
-
-(ii). Given a sample variance of 127 from a set of nine observations, construct a 95
-percent confidence interval for the population variance. (5 Marks)
-
-1s
---- page 3 ---
-Q.8) Answer both the questions:
-(i). Hinton Press hypothesizes that the average life of its largest web press is 14,500
-hours. They know that the standard deviation of press life is 2,100 hours. From a sample
-of 25 presses, the company finds a sample mean of 13,000 hours. At a 0.01 significance
-level, should the company conclude that the average life of the presses is less than the
-hypothesized 14,500 hours? (5 marks)
-
-(ii). The university has decided to test three new kinds of lightbulbs. They have three
-identical rooms to use in the experiment. Bulb 1 has an average life time of 1,470 hours
-and a variance of 156. Bulb 2 has an average lifetime of 1400 hours and a variance of 81.
-Bulb 3 has an average lifetime of 1,350 hours and a standard deviation of 6 hours. Rank
-the bulbs in terms of relative variability. Which was the best bulb? (5 marks)
-
-Q.9) Attempt both the questions
-(i).Calculate Karl Pearson’s coefficient of correlation for the following data taking
-deviations from actual mean 52 (X series) and 44 (Y series). (5 marks)
-
-X series | 44 | 46 46 48 52 54 54 56 60 60
-Y series | 36 | 40 42 40 42 44 46 48 50 52
-
-(ii). There are three factories F1, F2 and F3 that produce 10%, 30%, 60% of a certain
-item. Suppose further that 1%, 2%, 3% of the items from factory Fl, F2, F3 are
-respectively defectives. One item is selected at random from the entire lot. What is the
-probability that it is from factory F3 given that the item is defective? (5 marks)
-
-Q.10) A study compared the effects of four 1-month point-of-purchase promotions on sales.
-The unit sales for five stores using all four promotions in different months follow.
-
-(10 Marks)
-Free sample 78 87 81 89 85
-One-pack gift 94 91 87 90 88
-Cents off 73 78 69 83 76
-
-Refund by mail 79 83 78 69 81
-(a) Compute the mean unit sales for each promotion and then determine the grand mean.
-(b) Estimate the population variance using the between-column variance
-(c) Calculate the F ratio. At the 0.01 level of significance, do the promotions produce
-different effects on sales?
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper e5712021b5ff
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/STATISTICAL METHODS/B Tech, Artificial Intelligence, Statistical Methods, 2nd Year, Sem-IV, Final Exa_472e6783.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
-- Text: ocr (5 pages), mean OCR confidence 90.4
-
-````text
-. SVKM’s NMIMS CON
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2021-22
-
-Programme: B.Tech Artificial Intelligence Year: II Semester: IV
-Subject: Statistical Methods
-
-, Marks: 100
-Date: 14 April 2022 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-
-No. of Pages: __©S_
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-A contractor employees 3 types of workers — X, Y, Z. He employs 20
-ha) X-type workers at Rs 200 per day, 15 Y-type of workers at Rs 150 per
-CO1, BL2 (3)
-day and 5 Z-type of workers at Rs 85 per day. Identify the average wage
-
-per day paid by the contractor.
-
-2 persons are selected from a population 12 persons. Find the total number
-of different combinations that could have been selected in :
-i) sampling with replacement (4)
-CO3, BL1 | ii) sampling without replacement
-Also find the probability of drawing a sample for both the above cases.
-
-1b)
-
-The median and mode of the following data are 33.5 and 34 resp.
-Ie) 0-10 10-20 20-30 30-40 40-50 50-60 60-70 Total (5)
-CO2. BL1 4 16 9 9 2 6 4 230
-
-Vs
---- page 2 ---
-Find the missing values.
-
-Find the regression equation of Exp on accommodation on exp of
-food and entertainment:
-
-Exp on accommodation : 4 5 6 8 Il
-' 1@ Exp on food and entertainment : 12 10 8 7 5 (5)
-CO, BL3
-Estimate the exp on accommodation when exp on food and
-entertainment is 11.
-! Find the most likely production to a rainfall of 40 inches from the
-| following data :
-le) Rainfall (inches) Production (Kg)
-C02, BLI Arithmetic mean 30 500 G3)
-Standard Deviation 5 100
-Correlation coefficient 0.8
-Q2
-A cyclist drove first 10 km at average speed of 20 km. p.h. another 6
-2a) km at 16 km p.h and the last 4 km at 10 km p.h. Identify the average | (5)
-COl, BL2 speed of the entire journey.
-Consider the following data of the number of lecturers, readers
-and professors in a university:
-Length of service Developers Sr. Developers Architects
-Less than 5 yrs. 2000 250 50
-5-10 yrs. 3000 220 80
-3 (0) 10-15 yrs. 1500 170 30 (7)
-CO,BL2 | More than 15 yrs. 880 80 40
-Using stratified sampling method, identify how many lecturers,
-readers and professors would be selected from each category if the
-size of sample is 10% of the universe but the lecturers, readers and
-professors are to be in the ratio 5:3:2 and weightage of the length of
-service is to be in the ratio of 4: 3:2: 1.
-2(c) Calculate Karl Pearson’s co-efficient of skewness from the following
-data:
-CO1, BLI 8
-Profit (lakhs) _No. of Cos Profit (lakhs) No. of Cos ®)
-25
-
-ee | _
---- page 3 ---
-70-80 12 110-120 50
-
-80-90 18 120-130 45
-90-100 35 130-140 30
-100-110 42 140-150 8
-. Comment on co-efficient of skewness
-Q3
-Using the data given below: :
-Marks _—_No of students Marks No of students
-10-14 5 25-29 20
-ai) 15-19 10 30-34 10 (5)
-CO1, BL2 20-24 15 35-39 5
-Identify the 25" Percentile and 5 Decile.
-Determine a linear regression model using matrices for fitting a
-straight line to the data:
-a zl: 2 4 6 (7)
-CO, BL1 y: 3 6 7
-' Find the coefficients and fitted equation
-Compute Residuals, Residual sum of squares
-The table below shows data for ten students accepted to ‘USI’ College.
-It also shows the SAT score and high school GPA and whether each
-student ultimately graduated or not.
-Graduate SAT GPA
-No 1140 2.1
-30) No 1100 3.5
-: No 940 3.1 (8)
-COLBL3 | Yes 1260 3.7
-Yes 1220 2.9
-Yes 1180 2.5
-Yes 1060 3.9
-Solve using Discriminant Analysis, to find the least-squares
-regression equation to classify the incoming students.
-Q4
-
-3/-
---- page 4 ---
-Calculate the mean, median, Variance and S.D. from the following
-data:
-
-Wages (hundred of Rs) | No. workers
-
-4a) _ 0-10 12
-CO3, BLI 10-20 17 ©)
-
-20-30 23
-
-30-40 39
-
-40-50 16
-
-50-60 03
-
-From the following data find the two regression coefficients. Also
-find the correlation coefficient.
-
-x
-Y 1 2 3 4
-4b) Co
-~ 7 (6)
-CO, BLI 10 3 2 _- _
-20 2 3 1 ---
-30 --- 1 1 3
-40 --- --- 3 1
-Consider the following data:
-Test Score 100 90 80 70 60
-IQ 110 120 100 90 80
-4o) Study Hours 40 30 20 0 10
-(8)
-CO2, BL3
-Develop Y, X, B, e for the Model
-Compute regression coefficients.
-Construct the regression equation
-Predict.test score for IQ=105 and Study hours=25
-Q5
-Find the multiple linear regression equation of Yield of rice (X1) on
-Rainfall (X2) and Fertilizers (X3) from the following data:
-5a) Xl: 4 6 7 9 13 15 (10)
-C02, BL3 X2: 15 12 8 6 4 3
-
-X3: 30 24 20 14 10 4
-
-Estimate X1 when X2=7 and X3=18
-
-AS
---- page 5 ---
-The table below shows the data where each observation consists of
-two numerical features Yield, Water and a binary response variable
-Y. An observation with features 49.39 and 29.2 was added to the
-data. Classify the new observation as ‘Salty’ or ‘Clay’ by employing
-Discriminant analysis.
-
-5b) . (10)
-; Yield Water Y
-Cc
-ahem 62.8 25.9 Salty
-45.0 15.9 Salty
-47.8 36.1 Salty
-52.5 39.0 Clay
-80.0 52.4 Clay
-54.7 32.1 Clay
-63.5 25.6 Clay
-Q6
-Consider the following with respect to DV, Y’s
-DV: Yl DV: Y2
-Population 1: 9, 6, 9 Population 1: 3, 2,7
-6a) Population 2: 0, 2 Population 2 : 4,0
-sone: 3. 10
-CO3. BLI Population 3: 3, 1,2 Population 3 : 8, 9, 7 (10)
-Find SS(treatment), SS(residual), Total SS(corrected).
-Construct suitable MANOVA Table
-Find Wilks Lambda
-Apply the principal component analysis for the data given below :
-19 22 6 3 2 20
-6») (10)
-C02, BLI 12.6 9 1S 13 5
-
-Find the eigen values and eigen vectors,
-Find the first principal component axis.
-
-Sls
-````
-
-## Year not stated · Final-Exam · Trim 6 · paper ed8ca1206150
-
-- Departments: Civil, Electronics and Telecommunication
-- Programmes: MBA TECH / CIVIL, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM VI/STATISTICAL METHODS/Statistical Method Final 16.pdf` (+1 identical copies)
-- Printed on paper: exam date: 11/5/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technology Management & Engineering
-Programme: MBA (TECH) (ALL STREAMS) Year:   I1   Trimester: VI
-Academic Year : 2012-2013
-Subject:   Statistical Methods   Marks:   - n T LA
-Date:   11/5/2013
-Final - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-Note:
-1. Attempt all 5 questions.
-2. Answer to each question to be started on a fresh page.
-3. Figures in brackets on the right hand side indicate full marks.
-Q. 1) Answer both the questions:
-(i). An engineer tested nine samples of each of three designs of a certain bearing for a new electrical
-winch. The following data are the no. of hours it took for each bearing to fail when the winch motor was
-run continuously at maximum output, with a load on the winch equivalent to 1.9 times the intended
-capacity. Calculate the mean and standard deviation for each group. Which design is best and why?
-(5 marks)
-Design
-- A   16   16   5 3   15   3 1   17   14   30   20
-- B   I8   2 7   23   2 1   22   26   39   17   28
-- C   3 1   16   42   20   I8   17   16   15   19
-(ii). The administrator of a hospital surveyed the number of days 200 randomly chosen patients
-stayed in the hospital following an operation. Answer the following questions; The data are:
-Hospital   1-3   4-6   7-9   10-12   13-15   16-18   19-21   22-24
-stay in days
-l ~ r e q u e n c I ~ 18   (   90   /   44   1   21   1   9   9   4   5
-Calculate the standard deviation and mean; According to Chebyshev's theorem, how
-many stays should be between 0 and 17 days? How many are actually in that interval?
-(5 marks)
-4.2)   Attempt both the questions:
-t
-(i). In its third year, attendance in the Liberty Football League averaged 16,050 fans per game,
-and had a standard deviation of 2,500. Accordingly what is the probability that the number of
-fans at any given game was greater than 20,000?; fewer than 10,000?; between 14,000 and
-17,500? [Given the different prob. values for z as 1.58 is 0.4429, 2.42 is 0.4922; 0.82 is 0.2939
-and 0.58 is 0.21901   (5 marks)
---- page 2 ---
-(ii). There are three factories F1, F2 and F3 that produce lo%, 30%, 60% of a certain item.
-Suppose further that 1%, 2%, 3% of the items from factory F1, F2, F3 are respectively
-defectives. One item is selected at random from the entire lot. What is the probability that it is
-from factory F3 given that the item is defective? (5 marks)
-4.3) A multinational manufacturer uses a batch process to produce widgets. Each batch
-of widgets takes 8 hours to produce and has material and labor costs of $8,476. Because of
-variations in machine efficiency and raw material purity, the number of widgets per batch is
-random. All widgets made can be sold for $2.50 each and widget production is profitable so
-long as the batches sell for more than $12,500 on average. The manufacturer sampled 16 batches
-and found 5,040 widgets per batch on average, with a standard deviation of 41.3 widgets. At a =
-0.025, can the manufacturer conclude that its widget operation is profitable?
-[Given t - 15, 0.025 is 2.1311   (1 0 marks)
-Q.4) A supermarket manager is keeping track of the arrival of customers at check-out counters to
-see how many cashiers are needed to handle the flow. In a sample of 500 five-minute time
-periods, there were 22,74, 11 5,95,94, 80 and 20 periods in which zero, one, two, three, four,
-five or six or more customers respectively arrived at a check-out counter. Calculate the chi-
-square statistic. Are these data consistent at the 0.05 lelrel of significance with a Poisson
-distribution with h = 3? [given chi-square distribution value with 6 degrees of freedom for 0.05 is
-12.592; Poisson probabilities for h = 3 are for 0(.0498), 1 (. 1494), 2(.2240), 3(.2240), 4(. 1680),
-5(. 1008), >6(.0840)]   (10 marks)
-Q.5) Attempt both the questions:
-(i). The following information is provided by a company to its subscribers to enable them to evaluate the
-performance of mutual funds they are considering as potential investment vehicles. A recent survey
-produced the following data on total annual rate of return over the past five years:   (6 marks).
-Annual
-return(%)   11-1 1.9; 12-12.9; 13-13.9; 14-14.9; 15-15.9; 16-16.9; 17-17.9; 18-1 8.9
-Frequency   2;   2;   8;   10;   11;   8;   3;   1
-1   a) Calculate the mean, variance and standard deviation of the annual rate of return for this
-sample of 45 funds
-b) According to Chebyshev's theorem between what values should at least 95 percent of the
-sample observations fall? What percentage of the observations actually do fall in that
-interval?
-c) Since the distribution is roughly bell shaped, between what values would you expect to find
-68 percent of the observations? What percentage of the observations actually do fall in that
-interval?
-(ii). Hayes Textiles has shown the following percentage increase in net worth over the last 5 years; What
-is the average percentage increase in net worth over the 5-year period?   (4 marks)
-e   1992   1993   1994   1995   1996
-5%   10.5%   9%   6%   7.5%
-````
-
-## Year not stated · Final-Exam · Trim 6 · paper a5a2a5be3610
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/STATISTICAL METHODES/Statistical Method Final 25.pdf`
-- Printed on paper: exam date: 11/5/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technology Mana~ement &s Engineering
-Programme: MBA (TECH) (ALL STREAMS) Year:   I1   Trimester: VI
-1   Academic Year : 2012-2013   C
-Subject:   Statistical Methods
-Date:   11/5/2013
-Final - Examination
--a   -" -
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-Note:
-1. Attempt all 5 questions.
-2. Answer to each question to be started on a fresh page.
-3. Figures in brackets on the right hand side indicate full marks.
-Q. 1) Answer both the questions:
-(i). An engineer tested nine samples of each of three designs of a certain bearing for a new electrical
-winch. The following data are the no. of hours it took for each bearing to fail when the winch motor was
-run continuously at maximum output, with a load on the winch equivalent to 1.9 times the intended
-capacity. Calculate the mean and standard deviation for each group. Which design is best and why?
-(5 marks)
-Design
-- A   16   16   53   15   3 1   17   14   30   20
-- B   18   2 7   23   2 1   22   26   39   17   28
-- C   3 1   16   42   20   18   17   16   15   19
-1
-(ii). The administrator of a hospital surveyed the number of days 200 randomly chosen patients
-stayed in the hospital following an operation. Answer the following questions; The data are:
-Hospital   1-3   4-6   7-9   10-12   13-15   16-18   19-21   22-24
-stay in days
-Frequency   18   90   44   2 1   9   9   4   5
-Calculate the standard deviation and mean; According to Chebyshev's theorem, how
-many stays should be between 0 and 17 days? How many are actually in that interval?
-(5 marks)
-4.2) Attempt both the questions:
-&
-(i). In its third year, attendance in the Liberty Football League averaged 16,050 fans per game,
-and had a standard deviation of 2,500. Accordingly what is the probability that the number of
-fans at any given game was greater than 20,000?; fewer than 10,000?; between 14,000 and
-17,500? [Given the different prob. values for z as 1.58 is 0.4429, 2.42 is 0.4922; 0.82 is 0.2939
-and 0.58 is 0.21901   (5 marks)
---- page 2 ---
-(ii). There are three factories F1, F2 and F3 that produce lo%, 30%, 60% of a certain item.
-Suppose further that I%, 2%, 3% of the items from factory F1, F2, F3 are respectively
-defectives. One item is selected at random from the entire lot. What is the probability that it is
-from factory F3 given that the item is defective? (5 marks)
-4.3) A multinational manufacturer uses a batch process to produce widgets. Each batch
-of widgets takes 8 hours to produce and has material and labor costs of $8,476. Because of
-variations in machine efficiency and raw material purity, the number of widgets per batch is
-random. All widgets made can be sold for $2.50 each and widget production is profitable so
-long as the batches sell for more than $12,500 on average. The manufacturer sampled 16 batches
-and found 5,040 widgets per batch on average, with a standard deviation of 41.3 widgets. At a =
-0.025, can the manufacturer conclude that its widget operation is profitable?
-[Given t - 15,0.025 is 2.13 11   (1 0 marks)
-Q.4) A supermarket manager is keeping track of the arrival of customers at check-out counters to
-see how many cashiers are needed to handle the flow. In a sample of 500 five-minute time
-periods, there were 22,74, 115,95,94, 80 and 20 periods in which zero, one, two, three, four,
-five or six or more customers respectively arrived at a check-out counter. Calculate the chi-
-square statistic. Are these data consistent at the 0.05 level of significance with a Poisson
-distribution with h = 3? [given chi-square distribution value with 6 degrees of freedom for 0.05 is
-12.592; Poisson probabilities for h = 3 are for 0(.0498), 1(.1494), 2(.2240), 3(.2240), 4(.1680),
-5(. 1008), >6(.0840)]   (1 0 marks)
-Q.5) Attempt both the questions:
-(i). The following information is provided by a company to its subscribers to enable them to evaluate the
-performance of mutual funds they are considering as potential investment vehicles. A recent survey
-produced the following data on total annual rate of return over the past five years:   (6 marks).
-Annual
-return(%)   1 1-1 1.9; 12-12.9; 13-13.9; 14-14.9; 15-15.9; 16-16.9; 17-17.9; 18-1 8.9
-Frequency   2;   2;   8;   10;   11;   8;   3;   1
-1   a) Calculate the mean, variance and standard deviation of the annual rate of return for this
-sample of 45 funds
-b) According to Chebyshev's theorem between what vaIues should at least 95 percent of the
-sample observations fall? What percentage of the observations actually do fall in that
-interval?
-c) Since the distribution is roughly bell shaped, between what values would you expect to find
-68 percent of the observations? What percentage of the observations actually do fall in that
-interval?
-(ii). Hayes Textiles has shown the following percentage increase in net worth over the last 5 years; What
-is the average percentage increase in net worth over the 5-year period?   (4 marks)
-e   1992   1993   1994   1995   1996
-5%   10.5%   9%   6%   7.5%
 ````

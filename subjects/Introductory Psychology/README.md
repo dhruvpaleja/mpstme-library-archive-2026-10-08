@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Introductory Psychology(702BS0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech CSE DS 7011 | QP_Introductory Psychology(702BS0C016)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Introductory Psychology(702BS0C016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Introductory Psychology(702BS0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | B TECH | B Tech, (CSE-DS), Introductory Psychology, Sem I, Batch 2024-25 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech CSE DS 7011 | QP_Introductory Psychology(702BS0C016)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Introductory Psychology(702BS0C016)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 1 | B TECH | Introductory Psychology, Sem-I, Final Exam A Y 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 1 | B TECH | Introductory Pshychology, Sem-I, Year 2023-24, Re Exam.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 1 | B TECH | Introductory Psychology, 1st Year, Sem I, Year 22-23 Final Exam 2021-22 Re Exam.pdf |

@@ -4,6 +4,109 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2018-19 · Exam not stated · Sem 6 · paper 12acf81eb8bb
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/MICRO CONTROLLERS AND EMBEDDED SYSTEM/Microcontroller & embedded syst F18-190001.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 22 April 2019
+- Text: ocr (2 pages), mean OCR confidence 93.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :MBA. Tech / B.Tech (EXTC) Year: IIL Semester: VI
+AcademicYear: 2018-19
+
+| Subject: Microcontrollers and Embedded Systems Marks: 70
+
+Date : 22 April 2019 Time: 10.00 am to 1.00 pm
+
+Duration: 3hrs .
+No. of Pages:
+
+Final Examination(2018-19) /RE- Examination(2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Attempt all questions. : (14M)
+A) Distinguish between 8051 and PIC-18 Microcontroller 04
+B) | Draw interfacing diagram of 4 X 4 matrix keyboard with 8051. 04
+C) Explain concept of Threads, Process and Multitasking in brief. 04
+D) Give features of embedded system. 02
+
+Q.2 A) Describe internal RAM memory structure of 8051 microcontroller with a (07M)
+
+neat diagram.
+B) List different interrupt of 8051 and describe special function registers related (07M)
+
+with interrupts.
+
+Q.3 A) Explain block diagram of PIC -18 microcontroller in brief with a neat (07M)
+diagram
+B) Write a program for PIC 18, to read 5 bytes from program memory and write (07M)
+to data memory. Program memory address is 012345H and data memory
+
+address is 050H
+
+Q.4 A) Explain the difference between RISC and CISC. (07M)
+
+B) Write an 8051 assembly language program to blink LED for an interval of 1 (07M)
+second continuously at P1.2 using timer.
+
+Page 1 of 2
+--- page 2 ---
+Q.5
+
+Q.6
+
+Q7
+
+A)
+B)
+
+A)
+
+B)
+
+A)
+
+B)
+
+State and discuss various design metrics for embedded system. (07M)
+
+Describe PWM mode of PIC18 with the help of diagram (07M)
+
+List all the modes of serial communication in 8051 and explain mode 0 and (07M)
+mode 1.
+
+Draw interfacing diagram of seven segment display with 8051. Write a (07M)
+program in assembly to display digit 0 to 9 continuously on seven segment
+
+display of common anode type.
+
+Explain basic concepts of RTOS and give its significance. (07M)
+
+Define‘embedded System and Describe basic structure of embedded system (07M)
+with example.
+
+Page 2 of 2
+````
+
 ## 2018-19 · Final-Exam · Sem 7 · paper 2f166c99aa56
 
 - Departments: Mechatronics
@@ -197,6 +300,97 @@ I Round Robin II Round Robin with Interrupts.
 (7)
 
 >
+````
+
+## 2018-19 · Re-Exam · Sem 6 · paper 94f256139481
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/MICRO CONTROLLERS AND EMBEDDED SYSTEM/Microcontrollers & embedded syst...Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’S NMIMS NS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech / B.Tech (EXTC) Year: I] ‘Semester: VI
+Academic Year: 2018-19
+
+Subject: Microcontrollers and Embedded Systems : Marks: 70
+
+Date: 18 June2019_— Time: 10.00 am to 1.00 pm
+
+Duration: 3 (Hrs)
+No. of Pages: 2+
+
+Re- Examination (2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1_is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks. .
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Attempt any four
+
+(a) Draw pin diagram of 8051. Draw reset circuit on reset pin of 8051. [3.5]
+
+(b) Write an assembly language program to multiply the content of memory [3.5]
+location 30H and 31H. Store the result of multiplication in register R2 and R3.
+
+(c) What are the advantages of pipelining impleménted in PIC18? [3.5]
+
+(d) Explain the rotating instructions of PIC18. [3.5]
+
+(e) What are the benefits of using real time operating systems? , [3.5]
+
+Q.2(a) Explain interrupt structure of 8051 Micro-controller. Draw and explain [7]
+
+interrupt enable register.
+
+(b) Define addressing modes of 8051 Micro-controller with example. [7]
+
+Page 1 of 2
+--- page 2 ---
+Q.3(a) Draw interfacing diagram of max232 with 8051. Write aprogram to receivea [7]
+string of ASCII characters through receiver of 8051 UART at speed of 9600
+baud & transfer this character to port 1.
+(b) Draw and Explain the interfacing of 4*4 hex keypad with 8051.Write down [7]
+the steps to identify the key pressed.
+
+Q.4 (a) List CPU registers of PIC18. Define any six register. (7]
+(b) Describe data memory and Program memory of PIC18. [7]
+Q.5(a) Explain assembler directive of PIC18. [7]
+
+(b) Write a program in assembly of PIC18 to add 24-bit number stored at 0x10, [7]
+0x11, 0x12 and 0x13, 0x14, 0x15. Store sum at 0x20, 0x21, 0x22.
+
+a
+
+Q.6 (a) Define tasks and process. Explain Task scheduling techniques. [7]
+
+(b) Define Embedded systems. Explain the architecture of embedded system with [7]
+example. ~:
+
+Q.7 Write short note on
+
+a. Embedded micro-controllers cores [5]
+b. Power saving mode of 8051 : [5]
+c. Device driver [4]
+
+Page 2 of 2
 ````
 
 ## 2018-19 · Re-Exam · Sem 8 · paper d8bbf5e06778
@@ -393,6 +587,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Microcontrollers & Embedded Systems/Microcontrollers and Embedded systems 2017-18.pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 93.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -402,7 +597,6 @@ Programme:MBA Tech (EXTC) Year: III Semester: VI
 Academic Year: 2017-2018
 
 ject:Mi trollers and Embedded Systems
-saan aoe Microcontro: Marke:70
 
 : 2018 Time: 10.00 am to 1.00 pm
 eid Durations: 3 (hrs)
@@ -660,6 +854,67 @@ b. PIC Memory Organization 05
 c. RTOS Threads Communication
 ````
 
+## 2017-18 · Final-Exam · Sem 7 · paper c9d155031d29
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/MICROCONTROLLER AND EMBEDDED SYSTEM/MICROCONTROLLER AND EMBEDDED SYSTEMS (MECHATRONICS), FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 November 2017
+- Text: ocr (1 page), mean OCR confidence 88.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+va Programme: B. Tech (MECHATRONICS) + Year: IV ~ Semester: VII ~
+Academic Year: 2017-2018
+
+Subject: Microcontroller and Embedded Systems
+
+al Marks: 60 ~ :
+Date: 30 November 2017 Time: 10.00 am to 180" pm, we a B 4
+¢ Durations: 3 (hrs), 4; ( * An’ 2 y
+No. of Pages: j tf]
+Final-Examination a wy ;
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is previded for their use.
+
+. 1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume suitable data if necessary.
+
+Q.1. Answer following questions in brief. (Any three)
+
+a. Explain steps to execute an interrupt on 8051. 4
+b. Explain following assembly directives: a) ORG and b) EQU. 4
+c. Explain pipeline implemented on PIC18. 4
+d. Explain, in brief, inter-task communication. 4
+Q:2. a. Draw block diagram of 8051 microcontroller. Explain function of each block in brief. 6
+b. Draw and explain the interfacing of ADC0808 with 8051. 6
+Q.3. a. Explain, with neat diagram, memory organization of PIC18. 6
+b. Write an assembly program in PIC18 to create delay of 1 mS if clock is 40 MHz. 6
+Q4. a. Explain following SFRs of 8051: PCON, TCON, TMOD, SCON, SBUF, IE 6
+b. Explain architecture of RTOS. 6
+Q.5. a. List and explain RTOS kernel services. 6
+b. - Describe 8051 Port 0 structure with neat diagram. 6
+Q.6. a. Explain PIC18 resets in brief. 6
+b. Write an assembly language program in 8051 to send message ‘NMIMS’ serially with 6
+
+4800 baud rate.
+
+ee Q.7. Write short note on
+a. Design metrics of embedded system 4
+b. Benefits of using RTOS 4
+c. Basic structure of embedded system 4
+
+4/4.
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper c27ce18699be
 
 - Departments: Electronics and Telecommunication
@@ -734,6 +989,91 @@ al Q7 A Write about RTOS multitasking. [6]
 B_ State and Explain the benefits of using RTOS. [6]
 
 Vj
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 2a02436fc0aa
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/MICRO CONTROLLERS AND EMBEDDED SYSTEM/MICROCONTROLLERS_AND_EMBEDDED_SYSTEMS_BATCH_14-15_15-16_16-17_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 June 2018
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+—
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: VI
+
+Batch: (2014-15 / 2015-16 / 2016-17)
+Academic Year: 2017-18
+
+Subject: Microcontrollers and Embedded Systems
+Marks: 60
+
+Date: 30 June 2018 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+
+No. of Pages:__ OZ
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. .
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Attempt any Three questions. Each question carries four Marks. (12M)
+A) Draw Port 1 structure of 8051.
+B) List addressing modes of 8051.
+
+C) Explain pipelining of PIC18.
+
+D) Define task, thread and process.
+
+Q.2. A) Explain TMOD register of 8051 with neat diagram. (06M)
+
+B) Explain interrupt structure of 8051. (06M)
+Q.3 A) Drawand explain interfacing of ADCO808 with 8051. (06M)
+
+B) Write a 8051 program to transfer the message “YES” serially at 9600 baud, 8-bit (06M)
+data, 1 stop bit. Do this continuously. (Assume XTAL = 11.0592 MHz).
+
+Q.4 A) Explain PIC18 data memory organization with neat diagram. (06M)
+B) Explain following instruction of PIC18: (06M)
+i. SWAPF f,d
+1/2
+--- page 2 ---
+ii, ANDLWk
+
+iii. BTFSS f,b
+iv. CLRWDT
+Vv. SLEEP
+
+vi. RETLW k
+Q.5 A) State and explain design metrics of Embedded systems. (06M)
+B) Explain the difference between RISC and CISC. (06M)
+Q.6 A) What is multi-tasking? Hence explain, in brief, task scheduling. (06M)
+‘ B) How will you choose RTOS for an embedded system under design. (06M)
+Q7 Write Short Notes on any (2) Two (12M)
+
+A) Power saving mode of 8051
+B) Addressing modes of PIC 18
+C) Architecture of Embedded System
+
+2/2
 ````
 
 ## 2017-18 · Re-Exam · Sem 6 · paper 5617e1523e79
@@ -811,97 +1151,6 @@ to be displayed on the CRO via DAC. (7)
 - b) Explain capture mode and compare mode of PIC microcontroller. (7)
 
 i
-````
-
-## 2017-18 · Re-Exam · Sem 6 · paper 94f256139481
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/MICRO CONTROLLERS AND EMBEDDED SYSTEM/Microcontrollers & embedded syst...Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’S NMIMS NS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech / B.Tech (EXTC) Year: I] ‘Semester: VI
-Academic Year: 2018-19
-
-Subject: Microcontrollers and Embedded Systems : Marks: 70
-
-Date: 18 June2019_— Time: 10.00 am to 1.00 pm
-
-Duration: 3 (Hrs)
-No. of Pages: 2+
-
-Re- Examination (2017-18/2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1_is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks. .
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Attempt any four
-
-(a) Draw pin diagram of 8051. Draw reset circuit on reset pin of 8051. [3.5]
-
-(b) Write an assembly language program to multiply the content of memory [3.5]
-location 30H and 31H. Store the result of multiplication in register R2 and R3.
-
-(c) What are the advantages of pipelining impleménted in PIC18? [3.5]
-
-(d) Explain the rotating instructions of PIC18. [3.5]
-
-(e) What are the benefits of using real time operating systems? , [3.5]
-
-Q.2(a) Explain interrupt structure of 8051 Micro-controller. Draw and explain [7]
-
-interrupt enable register.
-
-(b) Define addressing modes of 8051 Micro-controller with example. [7]
-
-Page 1 of 2
---- page 2 ---
-Q.3(a) Draw interfacing diagram of max232 with 8051. Write aprogram to receivea [7]
-string of ASCII characters through receiver of 8051 UART at speed of 9600
-baud & transfer this character to port 1.
-(b) Draw and Explain the interfacing of 4*4 hex keypad with 8051.Write down [7]
-the steps to identify the key pressed.
-
-Q.4 (a) List CPU registers of PIC18. Define any six register. (7]
-(b) Describe data memory and Program memory of PIC18. [7]
-Q.5(a) Explain assembler directive of PIC18. [7]
-
-(b) Write a program in assembly of PIC18 to add 24-bit number stored at 0x10, [7]
-0x11, 0x12 and 0x13, 0x14, 0x15. Store sum at 0x20, 0x21, 0x22.
-
-a
-
-Q.6 (a) Define tasks and process. Explain Task scheduling techniques. [7]
-
-(b) Define Embedded systems. Explain the architecture of embedded system with [7]
-example. ~:
-
-Q.7 Write short note on
-
-a. Embedded micro-controllers cores [5]
-b. Power saving mode of 8051 : [5]
-c. Device driver [4]
-
-Page 2 of 2
 ````
 
 ## 2016-17 · Final + Re-Exam · Sem 6 · paper 39ee0095906b
@@ -996,171 +1245,7 @@ of diagram.
 Define embedded System. Give features and example of embedded system. (06M)
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper 2a02436fc0aa
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/MICRO CONTROLLERS AND EMBEDDED SYSTEM/MICROCONTROLLERS_AND_EMBEDDED_SYSTEMS_BATCH_14-15_15-16_16-17_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 June 2018
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-—
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: VI
-
-Batch: (2014-15 / 2015-16 / 2016-17)
-Academic Year: 2017-18
-
-Subject: Microcontrollers and Embedded Systems
-Marks: 60
-
-Date: 30 June 2018 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-
-No. of Pages:__ OZ
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. .
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Attempt any Three questions. Each question carries four Marks. (12M)
-A) Draw Port 1 structure of 8051.
-B) List addressing modes of 8051.
-
-C) Explain pipelining of PIC18.
-
-D) Define task, thread and process.
-
-Q.2. A) Explain TMOD register of 8051 with neat diagram. (06M)
-
-B) Explain interrupt structure of 8051. (06M)
-Q.3 A) Drawand explain interfacing of ADCO808 with 8051. (06M)
-
-B) Write a 8051 program to transfer the message “YES” serially at 9600 baud, 8-bit (06M)
-data, 1 stop bit. Do this continuously. (Assume XTAL = 11.0592 MHz).
-
-Q.4 A) Explain PIC18 data memory organization with neat diagram. (06M)
-B) Explain following instruction of PIC18: (06M)
-i. SWAPF f,d
-1/2
---- page 2 ---
-ii, ANDLWk
-
-iii. BTFSS f,b
-iv. CLRWDT
-Vv. SLEEP
-
-vi. RETLW k
-Q.5 A) State and explain design metrics of Embedded systems. (06M)
-B) Explain the difference between RISC and CISC. (06M)
-Q.6 A) What is multi-tasking? Hence explain, in brief, task scheduling. (06M)
-‘ B) How will you choose RTOS for an embedded system under design. (06M)
-Q7 Write Short Notes on any (2) Two (12M)
-
-A) Power saving mode of 8051
-B) Addressing modes of PIC 18
-C) Architecture of Embedded System
-
-2/2
-````
-
-## 2015-16 · Final-Exam · Sem 6 · paper 0f6f18fa53fd
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/MICRO CONTROLLERS AND EMBEDDED SYSTEM/MICROCONTROLLERS AND EMBEDDED SYSTEMS B TECH (EXTC), 2015-16 FINAL EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
-- Text: ocr (1 page), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
-
-Programme: B. Tech (EXTC) Year: III
-
-Academic Year: 2015-2016
-
-Subject : Microcontrollers and Embedded Systems
-
-Marks: 60 --
-Time : 2.00 pm to 5.00 pai
-Durations: 3 (hrs)
-
-Date : 10/05/2016
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-NB:
-
-1. Question No. Lis compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all 5 questions to be attempted.
-
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicates full marks.
-
-7. Illustrate your answers with neat labelled diagram wherever necessary.
-
-Ql Attempt any Threequestions. Each question carries fourMarks. (12M)
-
-A) Describe the following pins of 8051
-i) EA ii) RESET
-B) Draw interfacing diagram of 4 X 4 keyboard with 8051.
-C) Discuss pipelining concept used in PIC-18
-D) What is task? Explain task management in RTOS.
-
-Q.2 A) List all the modes of timer in 8051 &explain mode 1 & mode 2. (06M)
-B) Describe internal RAM memory structure of 8051 microcontroller with a neat (06M)
-diagram.
-
-Q3 A) Write an assembly language program in 8051 to generate sawtooth waveform of (06M)
-frequency 1KHz using DAC.
-
-B) Write a note on PIC18 Reset. (06M)
-Q.4 A) Explain the architecture of PIC 18. (06M)
-B) State and discuss various design metrics for embedded system. (06M)
-Q.5 A) Discuss the addressing modes of PIC 18. (06M)
-B) Explain with suitable example the criteria for selecting RTOS for the given (06M)
-application.
-a
-Q.6 A) Write a program in PIC18 to read and write 5 bytes from program memory to data (06M)
-memory. Program memory address is 012345H and data memory address is 050H
-pais B) Mention different interrupts of 8051& describe with the help of interrupt (06M)
-
-Structure. Also explain Interrupt Enable SFR.
-
-Q.7 A) Draw interfacing diagram of LCD with 8051. Write a program in assembly to (06M)
-display message ‘INDIA’ in middle of first line on LCD.
-B) State different types of Architecture of embedded system& explain any two. (06M)
-
-y4
-````
-
-## 2015-16 · Re-Exam · Sem 6 · paper 57948165ddff
+## 2016-17 · Re-Exam · Sem 6 · paper 57948165ddff
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -1237,7 +1322,7 @@ Q.7 (A) Describe Inter-Task Communication and synchronization in RTOS. [06]
 2/2
 ````
 
-## 2015-16 · Re-Exam · Sem 6 · paper 5f416a2f91dc
+## 2016-17 · Re-Exam · Sem 6 · paper 5f416a2f91dc
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -1352,6 +1437,85 @@ C) Concept of Threads, Process and Multitasking
 (06M)
 
 (12M)
+````
+
+## 2015-16 · Final-Exam · Sem 6 · paper 0f6f18fa53fd
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/MICRO CONTROLLERS AND EMBEDDED SYSTEM/MICROCONTROLLERS AND EMBEDDED SYSTEMS B TECH (EXTC), 2015-16 FINAL EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
+- Text: ocr (1 page), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
+
+Programme: B. Tech (EXTC) Year: III
+
+Academic Year: 2015-2016
+
+Subject : Microcontrollers and Embedded Systems
+
+Marks: 60 --
+Time : 2.00 pm to 5.00 pai
+Durations: 3 (hrs)
+
+Date : 10/05/2016
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+NB:
+
+1. Question No. Lis compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all 5 questions to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicates full marks.
+
+7. Illustrate your answers with neat labelled diagram wherever necessary.
+
+Ql Attempt any Threequestions. Each question carries fourMarks. (12M)
+
+A) Describe the following pins of 8051
+i) EA ii) RESET
+B) Draw interfacing diagram of 4 X 4 keyboard with 8051.
+C) Discuss pipelining concept used in PIC-18
+D) What is task? Explain task management in RTOS.
+
+Q.2 A) List all the modes of timer in 8051 &explain mode 1 & mode 2. (06M)
+B) Describe internal RAM memory structure of 8051 microcontroller with a neat (06M)
+diagram.
+
+Q3 A) Write an assembly language program in 8051 to generate sawtooth waveform of (06M)
+frequency 1KHz using DAC.
+
+B) Write a note on PIC18 Reset. (06M)
+Q.4 A) Explain the architecture of PIC 18. (06M)
+B) State and discuss various design metrics for embedded system. (06M)
+Q.5 A) Discuss the addressing modes of PIC 18. (06M)
+B) Explain with suitable example the criteria for selecting RTOS for the given (06M)
+application.
+a
+Q.6 A) Write a program in PIC18 to read and write 5 bytes from program memory to data (06M)
+memory. Program memory address is 012345H and data memory address is 050H
+pais B) Mention different interrupts of 8051& describe with the help of interrupt (06M)
+
+Structure. Also explain Interrupt Enable SFR.
+
+Q.7 A) Draw interfacing diagram of LCD with 8051. Write a program in assembly to (06M)
+display message ‘INDIA’ in middle of first line on LCD.
+B) State different types of Architecture of embedded system& explain any two. (06M)
+
+y4
 ````
 
 ## 2015-16 · Re-Exam · Sem 6 · paper b1c308168fe4
@@ -1836,168 +2000,4 @@ c) PIC Instruction Format
 d) Bit level Operations in 8051.
 
 ® x
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 12acf81eb8bb
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/MICRO CONTROLLERS AND EMBEDDED SYSTEM/Microcontroller & embedded syst F18-190001.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 22 April 2019
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program :MBA. Tech / B.Tech (EXTC) Year: IIL Semester: VI
-AcademicYear: 2018-19
-
-| Subject: Microcontrollers and Embedded Systems Marks: 70
-
-Date : 22 April 2019 Time: 10.00 am to 1.00 pm
-
-Duration: 3hrs .
-No. of Pages:
-
-Final Examination(2018-19) /RE- Examination(2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Attempt all questions. : (14M)
-A) Distinguish between 8051 and PIC-18 Microcontroller 04
-B) | Draw interfacing diagram of 4 X 4 matrix keyboard with 8051. 04
-C) Explain concept of Threads, Process and Multitasking in brief. 04
-D) Give features of embedded system. 02
-
-Q.2 A) Describe internal RAM memory structure of 8051 microcontroller with a (07M)
-
-neat diagram.
-B) List different interrupt of 8051 and describe special function registers related (07M)
-
-with interrupts.
-
-Q.3 A) Explain block diagram of PIC -18 microcontroller in brief with a neat (07M)
-diagram
-B) Write a program for PIC 18, to read 5 bytes from program memory and write (07M)
-to data memory. Program memory address is 012345H and data memory
-
-address is 050H
-
-Q.4 A) Explain the difference between RISC and CISC. (07M)
-
-B) Write an 8051 assembly language program to blink LED for an interval of 1 (07M)
-second continuously at P1.2 using timer.
-
-Page 1 of 2
---- page 2 ---
-Q.5
-
-Q.6
-
-Q7
-
-A)
-B)
-
-A)
-
-B)
-
-A)
-
-B)
-
-State and discuss various design metrics for embedded system. (07M)
-
-Describe PWM mode of PIC18 with the help of diagram (07M)
-
-List all the modes of serial communication in 8051 and explain mode 0 and (07M)
-mode 1.
-
-Draw interfacing diagram of seven segment display with 8051. Write a (07M)
-program in assembly to display digit 0 to 9 continuously on seven segment
-
-display of common anode type.
-
-Explain basic concepts of RTOS and give its significance. (07M)
-
-Define‘embedded System and Describe basic structure of embedded system (07M)
-with example.
-
-Page 2 of 2
-````
-
-## Year not stated · Final-Exam · Sem 7 · paper c9d155031d29
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/MICROCONTROLLER AND EMBEDDED SYSTEM/MICROCONTROLLER AND EMBEDDED SYSTEMS (MECHATRONICS), FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 November 2017
-- Text: ocr (1 page), mean OCR confidence 88.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-va Programme: B. Tech (MECHATRONICS) + Year: IV ~ Semester: VII ~
-Academic Year: 2017-2018
-
-Subject: Microcontroller and Embedded Systems
-
-al Marks: 60 ~ :
-Date: 30 November 2017 Time: 10.00 am to 180" pm, we a B 4
-¢ Durations: 3 (hrs), 4; ( * An’ 2 y
-No. of Pages: j tf]
-Final-Examination a wy ;
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is previded for their use.
-
-. 1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume suitable data if necessary.
-
-Q.1. Answer following questions in brief. (Any three)
-
-a. Explain steps to execute an interrupt on 8051. 4
-b. Explain following assembly directives: a) ORG and b) EQU. 4
-c. Explain pipeline implemented on PIC18. 4
-d. Explain, in brief, inter-task communication. 4
-Q:2. a. Draw block diagram of 8051 microcontroller. Explain function of each block in brief. 6
-b. Draw and explain the interfacing of ADC0808 with 8051. 6
-Q.3. a. Explain, with neat diagram, memory organization of PIC18. 6
-b. Write an assembly program in PIC18 to create delay of 1 mS if clock is 40 MHz. 6
-Q4. a. Explain following SFRs of 8051: PCON, TCON, TMOD, SCON, SBUF, IE 6
-b. Explain architecture of RTOS. 6
-Q.5. a. List and explain RTOS kernel services. 6
-b. - Describe 8051 Port 0 structure with neat diagram. 6
-Q.6. a. Explain PIC18 resets in brief. 6
-b. Write an assembly language program in 8051 to send message ‘NMIMS’ serially with 6
-
-4800 baud rate.
-
-ee Q.7. Write short note on
-a. Design metrics of embedded system 4
-b. Benefits of using RTOS 4
-c. Basic structure of embedded system 4
-
-4/4.
 ````

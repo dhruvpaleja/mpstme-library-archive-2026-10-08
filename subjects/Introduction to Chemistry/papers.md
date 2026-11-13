@@ -100,6 +100,7 @@ example of each.
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CSE_DS_7011/Introduction to Chemistry/QP_Introduction to Chemistry(702BS0C086)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

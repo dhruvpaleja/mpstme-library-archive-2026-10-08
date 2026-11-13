@@ -150,6 +150,128 @@ and state the nature of works that can be protected under them. (Not more than 3
 w
 ````
 
+## 2019-20 · Re-Exam · paper da375df9ae84
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/LEGAL ASPECTS OF BUSINESS/Legal Aspect of Business , Re-exam 2018-19.pdf`
+- Printed on paper: max marks: 35; duration hours: 1; exam date: 12 November 2019
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA TECH (All Stream) Year: IV Semester: VII
+
+Academic Year: 2019-20
+
+Subject: Legal Aspect of Business
+Marks: 35 -.
+
+Date: 12 November 2019 Time: 2.00 pm - 3.00 pm
+y Durations: 1 (Hr)
+
+No. of Pages: _2
+Re-Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+ZA\UTE
+
+S/
+=( MPSTME -
+LIBRARY jf
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. .
+6) Figures in brackets on the right hand side indicate full marks. a _ OY
+
+7) Assume suitable data if necessary. AS UNIVERS
+
+QUESTION 1 (COMPULSORY QUESTION)
+QI. Choose the correct option
+i. Which of the following is a type of Vertical Agreement under the Competition Act, 2002?
+a. Sharing of Markets
+b. Collusive Bidding
+c. Tie-in Arrangement e
+d. None of the above
+
+[7 Marks]
+
+ii. In which form of Alternative Dispute Resolution is the final decision of the independent third-party binding
+upon the parties to the dispute?
+a. Litigation
+b. Negotiation
+c. Arbitration
+d. Mediation
+
+iii, | According to the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act,
+2013, in which of the following situations can a complaint be categorized as frivolous?
+a. Inability to substantiate a complaint with evidence
+b. Unable to present witnesses
+c. Complaint made intentionally knowing it to be false or misleading
+
+d. Both (a) and (b)
+
+Page 1 of 2
+--- page 2 ---
+iv. Which among the following forms of Intellectual Property Rights may be renewed after the initial protection
+period has expired?
+a. Trademarks
+b. Patents
+c. Copyright
+d. All of the above
+
+v. | How many votes are required to pass a Special Resolution?
+a. More than 50%
+b. Atleast 75% :
+c. Atleast 66% oe
+d. None of the above.
+
+vi. Which of the following optidiv'is the right of an unpaid seller against the buyer personally?
+a. Suit for Price :
+b. Suit for Damages for Non-Acceptance
+c. Suit for Interest
+d. All of the above
+
+vii. As per the Indian Contract Act, 1872 ‘a contract which is enforceable by law at the option of one or more of
+the parties, but not at the option of the other party’ is known as what kind of contract?
+a. Valid Contract
+b. Void Contract
+c. Voidable Contract
+d. None of the above :
+
+ANSWER ANY FOUR (4) OUT OF THE FOLLOWING 6 (SIX) QUESTIONS
+
+Q2. State the grounds on whicla Tribunal can order for the winding up of a. company,, [7 Marks]
+
+Q3. One of the most essential elements of a valid contract is the competence of the parties to make a contract. Explain
+the categories of persons who are incompetent to contract as per Section 11 of the Indian Contract Act, 1872.
+
+[7 Marks]
+Q4. Describe any six advantages of Alternative Dispute Resolution over Litigation. [7 Marks}
+Q5. Differentiate between Condition and Warranty as specified under the Sale of Goods Act, 1930. [7 Marks]
+
+Q6. Explain and give an example for each of the various types of Horizontal Agreements prohibited under Section
+3(3) of the Competition Act, 2002. [7 Marks]
+
+Q7. Write a short note on the three types of intellectual property rights i.e. patents, copyright and trademarks and state
+the kind of works each of them protects. [7 Marks]
+
+Page 2 of 2
+
+Ss
+````
+
 ## 2018-19 · Final-Exam · paper 2961cc9e72fc
 
 - Departments: Common (all branches)
@@ -387,126 +509,92 @@ b. What are the features/characteristics of a good Trade Mark? [4]
 Page 2 of 2
 ````
 
-## 2018-19 · Re-Exam · paper da375df9ae84
+## 2017-18 · Re-Exam · Sem 8 · paper 7f46ef19db89
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/LEGAL ASPECTS OF BUSINESS/Legal Aspect of Business , Re-exam 2018-19.pdf`
-- Printed on paper: max marks: 35; duration hours: 1; exam date: 12 November 2019
-- Text: ocr (2 pages), mean OCR confidence 91.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/LEGAL ASPECTS OF BUSINESS/legal_aspects_of_Business_2014-15 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 04 July 2018
+- Text: ocr (2 pages), mean OCR confidence 95.2
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA TECH (All Stream) Year: IV Semester: VII
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
 
-Academic Year: 2019-20
+Batch: 2014-15
 
-Subject: Legal Aspect of Business
-Marks: 35 -.
+Academic Year: 2017-2018
 
-Date: 12 November 2019 Time: 2.00 pm - 3.00 pm
-y Durations: 1 (Hr)
+Subject: Legal Aspects of Business
 
-No. of Pages: _2
-Re-Examination (2018-19)
+Marks: 60
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Time: 2.00 pm - 4.00 pm
+Durations: 3Hrs.
 
-ZA\UTE
+No. of Pages:__ §Q2-
 
-S/
-=( MPSTME -
-LIBRARY jf
+Date: 04 July 2018
 
-1) Question No. | is compulsory.
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
-4) All questions carry equal marks.
+4) All questions carry equal marks. :
 
-5) Answer to each new question to be started on a fresh page. .
-6) Figures in brackets on the right hand side indicate full marks. a _ OY
+5) Answer to each new question to be started on a fresh page.
 
-7) Assume suitable data if necessary. AS UNIVERS
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
 
-QUESTION 1 (COMPULSORY QUESTION)
-QI. Choose the correct option
-i. Which of the following is a type of Vertical Agreement under the Competition Act, 2002?
-a. Sharing of Markets
-b. Collusive Bidding
-c. Tie-in Arrangement e
-d. None of the above
+1. Case Study:
 
-[7 Marks]
+a. ‘A’ agrees to buy a car from ‘B’ for Rs. 1, 50,000 and pays half of the purchase
+price in advance. Unknown to both the parties at the time of making the contract, the
+car had been damaged (destroyed) by an accident.
 
-ii. In which form of Alternative Dispute Resolution is the final decision of the independent third-party binding
-upon the parties to the dispute?
-a. Litigation
-b. Negotiation
-c. Arbitration
-d. Mediation
+Question - Advice ‘A’ & ‘B’ about their rights and liabilities.
+; (Marks 6)
+b. A of Mumbai writes to a bookseller in New Delhi to supply him a book by Post
 
-iii, | According to the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act,
-2013, in which of the following situations can a complaint be categorized as frivolous?
-a. Inability to substantiate a complaint with evidence
-b. Unable to present witnesses
-c. Complaint made intentionally knowing it to be false or misleading
+Parcel. The book seller acts accordingly but the parcel is lost on its way in
+transit.
 
-d. Both (a) and (b)
+Question - Can A deny paying the price? i
 
-Page 1 of 2
+(Marks 6)
+2. “Negotiable Instruments Act, 1881” is an important act for Commerce & Industry
+as well as in Personal Life. Please discuss in detail salient features of “Negotiable
+Instruments Act, 1881”.
+
+Vo (Marks 12)
 --- page 2 ---
-iv. Which among the following forms of Intellectual Property Rights may be renewed after the initial protection
-period has expired?
-a. Trademarks
-b. Patents
-c. Copyright
-d. All of the above
+3. Write short notes on
+a. Types of crossing of cheques,
+b. Rights of consumers.
 
-v. | How many votes are required to pass a Special Resolution?
-a. More than 50%
-b. Atleast 75% :
-c. Atleast 66% oe
-d. None of the above.
+(Marks 6 each)
 
-vi. Which of the following optidiv'is the right of an unpaid seller against the buyer personally?
-a. Suit for Price :
-b. Suit for Damages for Non-Acceptance
-c. Suit for Interest
-d. All of the above
+4. Distinguish between:
+a. Promissory Note and bill of exchange,
+b. Assignment and endorsement.
 
-vii. As per the Indian Contract Act, 1872 ‘a contract which is enforceable by law at the option of one or more of
-the parties, but not at the option of the other party’ is known as what kind of contract?
-a. Valid Contract
-b. Void Contract
-c. Voidable Contract
-d. None of the above :
+(Marks 6 each)
 
-ANSWER ANY FOUR (4) OUT OF THE FOLLOWING 6 (SIX) QUESTIONS
+5. Give a pen picture of the Information Technology Act, 2000.
+(Marks 12)
 
-Q2. State the grounds on whicla Tribunal can order for the winding up of a. company,, [7 Marks]
+6. Please elaborate the essentials of a valid sale under Sales of Goods Act 1930.
 
-Q3. One of the most essential elements of a valid contract is the competence of the parties to make a contract. Explain
-the categories of persons who are incompetent to contract as per Section 11 of the Indian Contract Act, 1872.
-
-[7 Marks]
-Q4. Describe any six advantages of Alternative Dispute Resolution over Litigation. [7 Marks}
-Q5. Differentiate between Condition and Warranty as specified under the Sale of Goods Act, 1930. [7 Marks]
-
-Q6. Explain and give an example for each of the various types of Horizontal Agreements prohibited under Section
-3(3) of the Competition Act, 2002. [7 Marks]
-
-Q7. Write a short note on the three types of intellectual property rights i.e. patents, copyright and trademarks and state
-the kind of works each of them protects. [7 Marks]
-
-Page 2 of 2
-
-Ss
+(Marks 12)
 ````
 
 ## 2016-17 · Final-Exam · paper a15dc1136f9f
@@ -575,6 +663,53 @@ c. Importance of a written contract.
 (Marks 5 each)
 
 ace
+````
+
+## 2016-17 · Re-Exam · paper 908395d17c78
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/LEGAL ASPECTS OF BUSINESS/Legal Aspects of Business Batch 2015-16 Re Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 10 December 2016
+- Text: ocr (1 page), mean OCR confidence 86.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : MBA. Tech (All Streams) Year : IV Semester: VII ~-
+Batch : 2015-16 -
+
+Academic Year : 2016-2017
+
+ont a
+Subject : Legal Aspects of Business Marks : 60 2 > Ny
+‘ Time: 10.00,am to 12.Q0mho!
+Date : 10 December 2016 Duration ; (hrs), , +» x¥ is
+: os 4
+Re-Examination dina €
+
+Note: Answer any five questions.
+Question 1 is compulsory.
+All questions carry equal marks i.e. 2
+
+1. “Negotiable Instruments Act, 1881” is an important act for Commerce & Industry
+as well as in Personal Life. Please discuss in detail salient features of “Negotiable
+Instruments Act, 1881”.
+
+2. Write short notes on (Marks 6 each)
+
+a. Types of crossing of cheques,
+b. Rights of consumers.
+3. Distinguish between: (Marks 6 each)
+a. Cheque and bill of exchange,
+b. Difference between assignment and endorsement.
+4. Give a pen picture of the Information Technology Act, 2000.
+5. Please elaborate the essentials of a valid sale under Sales of Goods Act 1930.
+
+6. Please mention important changes incorporated in Company's Act 2013.
+
+ae A
 ````
 
 ## 2016-17 · Re-Exam · paper c1db6a370d94
@@ -708,53 +843,6 @@ ei b. What is a consumer dispute? Who can file a complaint and under what circum
 Electronic record & Cyber crime
 ````
 
-## 2015-16 · Re-Exam · paper 908395d17c78
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/LEGAL ASPECTS OF BUSINESS/Legal Aspects of Business Batch 2015-16 Re Exam.pdf`
-- Printed on paper: max marks: 60; exam date: 10 December 2016
-- Text: ocr (1 page), mean OCR confidence 86.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : MBA. Tech (All Streams) Year : IV Semester: VII ~-
-Batch : 2015-16 -
-
-Academic Year : 2016-2017
-
-ont a
-Subject : Legal Aspects of Business Marks : 60 2 > Ny
-‘ Time: 10.00,am to 12.Q0mho!
-Date : 10 December 2016 Duration ; (hrs), , +» x¥ is
-: os 4
-Re-Examination dina €
-
-Note: Answer any five questions.
-Question 1 is compulsory.
-All questions carry equal marks i.e. 2
-
-1. “Negotiable Instruments Act, 1881” is an important act for Commerce & Industry
-as well as in Personal Life. Please discuss in detail salient features of “Negotiable
-Instruments Act, 1881”.
-
-2. Write short notes on (Marks 6 each)
-
-a. Types of crossing of cheques,
-b. Rights of consumers.
-3. Distinguish between: (Marks 6 each)
-a. Cheque and bill of exchange,
-b. Difference between assignment and endorsement.
-4. Give a pen picture of the Information Technology Act, 2000.
-5. Please elaborate the essentials of a valid sale under Sales of Goods Act 1930.
-
-6. Please mention important changes incorporated in Company's Act 2013.
-
-ae A
-````
-
 ## 2015-16 · Re-Exam · paper f00cfb6e572e
 
 - Departments: Common (all branches)
@@ -821,6 +909,172 @@ i) Prohibition of certain agreement & ii) dominant position
 
 8 \
 , /1
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper 9f1c9a86b12b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/LEGAL ASPECTS OF BUSINESS/Legal Aspect of Business Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 12; exam date: 02 July 2016
+- Text: ocr (1 page), mean OCR confidence 94.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+
+Academic Year: 2015-16
+
+Batch: 2014-15
+Subject: Legal Aspect of Business
+
+Date: 02 July 2016
+; Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question Nol is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions. 2
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+1. “Negotiable Instruments Act, 1881” is an important Act for Commerce & Industry
+as well as in Personal Life. Please discuss in detail salient features of “Negotiable
+Instruments Act, 1881”. (Marks 12)
+
+2. Write short notes on
+a. Types of crossing of cheques,
+
+b. Rights of consumers.
+(Marks 6 each)
+
+3. Distinguish between:
+a. Cheque and bill of exchange,
+b. Difference between assignment and endorsement.
+(Marks 6 each)
+
+4. Give a pen picture of the Information Technology Act, 2000.
+(Marks 12)
+
+5. Please elaborate the essentials of a valid sale under Sales of Goods Act 1930.
+(Marks 12)
+
+6. Please mention important changes incorporated in Company’s Act 2013.
+(Marks 12)
+yoo ¥
+
+i/
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper 6be034761fdf
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/LEGAL ASPECTS OF BUSINESS/Legal Aspects of Business Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 15/04/2016
+- Text: ocr (2 pages), mean OCR confidence 94.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG,
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+Academic Year: 2015-16 :
+Batch: 2014-15
+
+Subject: Legal Aspects of Business Marks: 60
+Time: 2.00 pm - 4.00 pm
+Date: 15/04/2016 Durations: 2 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Give suitable examples/ illustrations wherever possible.
+
+8) Solve the cases in the question paper, giving reasons for your answers to be supported by
+providing the relevant provisions of the Act.
+
+1. Write note on any three: : (12)
+
+a. Digital Signature
+
+b. Rights of consumer
+
+c. Holder and Holder in due course.
+d. Electronic records,
+
+2.a. What is implied condition & how many types of “Implied Conditions” are there. (6)
+State and elaborate along with at least two examples for each type of implied condition.
+
+b. An AGM was called on 22"? October 2008 and a notice for the was served to the (6)
+shareholders and other concerned on 1* October 2008. Comnient on the validity of the
+notice by supporting your answer with the provisions of the Act.
+
+3. a. Distinguish between guarantee and indemnity with two examples of each (6)
+
+b. X promises to obtain for Y an employment in the public services and Y promises (6)
+to pay X Rs.50,000 . Decide the validity of the agreement.
+
+4. a. Describe the characteristic features of negotiable instruments. (6)
+
+b. B owes to C a debt guaranteed by A. The debt becomes payable. C does not sue (6)
+B for a year after the debt has become payable. Is A discharged from his surety?
+
+4/;
+ie
+--- page 2 ---
+5. a, Describe the relevance of annual general meeting. Discuss the statutory provisions
+With respect to notice of annual general meeting including the business transacted at
+
+b. A wine merchant contract to sell to a customer five dozens bottles of a particular
+brand of Champagne. At the time of the contract the wine merchant’s whole stock
+of wine had been destroyed by fire, but he is unaware of this fact. What is the effect
+on the legal rights of the parties?
+
+6.a. What is the procedure laid down under the Companies Act 1956 for registering a
+Company? - .
+b, State the grounds of refusal of registration of a Trademark under the Trademarks
+Act, 1999
+
+7. Write in detail salient features of Competition Act, 2002. Also Illustrate one case study.
+
+af
+
+(6)
+
+(6)
+
+(6)
+(6)
+
+(12)
 ````
 
 ## 2014-15 · Final-Exam · Sem 8 · paper 65a090bede5f
@@ -922,170 +1176,101 @@ b. What is the meaning of Combination as per the Competition Act? What are the f
 which have effect on Combination?
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper 9f1c9a86b12b
+## 2014-15 · Re-Exam · Sem 8 · paper dd8b9deff96f
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/LEGAL ASPECTS OF BUSINESS/Legal Aspect of Business Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 12; exam date: 02 July 2016
-- Text: ocr (1 page), mean OCR confidence 94.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/LEGAL ASPECTS OF BUSINESS/Legal Aspects of Business Batch 2013-14 Re Exam.pdf`
+- Printed on paper: max marks: 50; exam date: 20/04/2015
+- Text: ocr (2 pages), mean OCR confidence 91.2
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-
-Academic Year: 2015-16
-
-Batch: 2014-15
-Subject: Legal Aspect of Business
-
-Date: 02 July 2016
-; Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question Nol is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions. 2
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-1. “Negotiable Instruments Act, 1881” is an important Act for Commerce & Industry
-as well as in Personal Life. Please discuss in detail salient features of “Negotiable
-Instruments Act, 1881”. (Marks 12)
-
-2. Write short notes on
-a. Types of crossing of cheques,
-
-b. Rights of consumers.
-(Marks 6 each)
-
-3. Distinguish between:
-a. Cheque and bill of exchange,
-b. Difference between assignment and endorsement.
-(Marks 6 each)
-
-4. Give a pen picture of the Information Technology Act, 2000.
-(Marks 12)
-
-5. Please elaborate the essentials of a valid sale under Sales of Goods Act 1930.
-(Marks 12)
-
-6. Please mention important changes incorporated in Company’s Act 2013.
-(Marks 12)
-yoo ¥
-
-i/
-````
-
-## 2014-15 · Re-Exam · Sem 8 · paper 6be034761fdf
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/LEGAL ASPECTS OF BUSINESS/Legal Aspects of Business Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 15/04/2016
-- Text: ocr (2 pages), mean OCR confidence 94.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG,
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-Academic Year: 2015-16 :
-Batch: 2014-15
-
-Subject: Legal Aspects of Business Marks: 60
-Time: 2.00 pm - 4.00 pm
-Date: 15/04/2016 Durations: 2 (hrs)
-
-Re-Examination
+Programme: MBA Tech (Ali Streams) Year: IV : Semester: VIII
+Academic Year: 2014-15
+Batch: 2013-14 ~
+; cg ETE Bay,
+Subject: Legal Aspects of Business a t ‘ma > s \
+_ Marks: 50 MPSTME )= :
+Date: 20/04/2015 Time: 2.00 py .OKRRARY Js
+Durations: 2 a ‘Ss
+Re-Examinati : ie meee © “7
+on aor re
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+cover of the Answer Book, which is provided for their use. .
 
 NB:
 
-1) Question No. | is compulsory.
+1) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2) Out of remaining questions, attempt any 3 questions.
 
-3) In all 5 questions to be attempted.
+3) In all 4 questions to be attempted.
 
-4) All questions carry equal marks.
+4) All questions EXCEPT THE COMPULSORY QUESTION carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
+
 7) Give suitable examples/ illustrations wherever possible.
 
 8) Solve the cases in the question paper, giving reasons for your answers to be supported by
 providing the relevant provisions of the Act.
 
-1. Write note on any three: : (12)
+1. i)Fill in the blanks: (6)
+
+a. Incase of agreements, even the collateral agreement becomes void.
+
+b. A negotiable instrument properly stamped & signed or incomplete in some respect is
+called an instrument. 7
+
+c. The right of lien of an unpaid seller depends solely onthe of
+the goods. ay
+
+d. One who buys goods for purpose is not a consumer for purpose of the good
+
+e. Appointment of an auditor in place of the retiring auditor required notice.
+
+f. The person who promises to make good the loss is called 3
+
+ii) Write note on any two ; i (8)
 
 a. Digital Signature
-
 b. Rights of consumer
-
 c. Holder and Holder in due course.
-d. Electronic records,
 
-2.a. What is implied condition & how many types of “Implied Conditions” are there. (6)
+2.a. What is implied condition & how many types of “Implied Conditions” are there: (6)
 State and elaborate along with at least two examples for each type of implied condition.
+ar
 
-b. An AGM was called on 22"? October 2008 and a notice for the was served to the (6)
-shareholders and other concerned on 1* October 2008. Comnient on the validity of the
+b. An AGM was called on 22" October 2008 and a notice for the was served to the (6)
+shareholders and other concerned on 1* October 2008. Comment on the validity of the
 notice by supporting your answer with the provisions of the Act.
 
 3. a. Distinguish between guarantee and indemnity with two examples of each (6)
 
+a)
+--- page 2 ---
 b. X promises to obtain for Y an employment in the public services and Y promises (6)
 to pay X Rs.50,000 . Decide the validity of the agreement.
 
-4. a. Describe the characteristic features of negotiable instruments. (6)
+4. a. Describe'the characteristic features of negotiable instruments. (6)
 
 b. B owes to C a debt guaranteed by A. The debt becomes payable. C does not sue (6)
 B for a year after the debt has become payable. Is A discharged from his surety?
 
-4/;
-ie
---- page 2 ---
-5. a, Describe the relevance of annual general meeting. Discuss the statutory provisions
-With respect to notice of annual general meeting including the business transacted at
+5. a. Describe the relevance of annual general meeting. Discuss the statutory provisions (6)
+With respect to notice of annual general meeting including the business transacted at.
 
-b. A wine merchant contract to sell to a customer five dozens bottles of a particular
-brand of Champagne. At the time of the contract the wine merchant’s whole stock
-of wine had been destroyed by fire, but he is unaware of this fact. What is the effect
-on the legal rights of the parties?
-
-6.a. What is the procedure laid down under the Companies Act 1956 for registering a
-Company? - .
-b, State the grounds of refusal of registration of a Trademark under the Trademarks
-Act, 1999
-
-7. Write in detail salient features of Competition Act, 2002. Also Illustrate one case study.
-
-af
-
-(6)
-
-(6)
-
-(6)
-(6)
-
-(12)
+b. Explain the terms ‘Condition and Warranty’ under the Sale of Goods Act (6)
+6.a What is the procedure laid down under the Companies Act 1956 for registering a (6)
+Company? “
+b. State the grounds of refusal of registration of a Trademark under the Trademarks (6)
+Act, 1999 ;
 ````
 
 ## 2014-15 · Re-Exam · Sem 8 · paper 883df88094de
@@ -1212,94 +1397,6 @@ ke place?
 (6)
 
 (12)
-````
-
-## 2014-15 · Re-Exam · Sem 8 · paper 7f46ef19db89
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/LEGAL ASPECTS OF BUSINESS/legal_aspects_of_Business_2014-15 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 04 July 2018
-- Text: ocr (2 pages), mean OCR confidence 95.2
-
-````text
-SVKM’s NMIMS
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VIII
-
-Batch: 2014-15
-
-Academic Year: 2017-2018
-
-Subject: Legal Aspects of Business
-
-Marks: 60
-
-Time: 2.00 pm - 4.00 pm
-Durations: 3Hrs.
-
-No. of Pages:__ §Q2-
-
-Date: 04 July 2018
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. :
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-1. Case Study:
-
-a. ‘A’ agrees to buy a car from ‘B’ for Rs. 1, 50,000 and pays half of the purchase
-price in advance. Unknown to both the parties at the time of making the contract, the
-car had been damaged (destroyed) by an accident.
-
-Question - Advice ‘A’ & ‘B’ about their rights and liabilities.
-; (Marks 6)
-b. A of Mumbai writes to a bookseller in New Delhi to supply him a book by Post
-
-Parcel. The book seller acts accordingly but the parcel is lost on its way in
-transit.
-
-Question - Can A deny paying the price? i
-
-(Marks 6)
-2. “Negotiable Instruments Act, 1881” is an important act for Commerce & Industry
-as well as in Personal Life. Please discuss in detail salient features of “Negotiable
-Instruments Act, 1881”.
-
-Vo (Marks 12)
---- page 2 ---
-3. Write short notes on
-a. Types of crossing of cheques,
-b. Rights of consumers.
-
-(Marks 6 each)
-
-4. Distinguish between:
-a. Promissory Note and bill of exchange,
-b. Assignment and endorsement.
-
-(Marks 6 each)
-
-5. Give a pen picture of the Information Technology Act, 2000.
-(Marks 12)
-
-6. Please elaborate the essentials of a valid sale under Sales of Goods Act 1930.
-
-(Marks 12)
 ````
 
 ## 2013-14 · Final-Exam · Sem 8 · paper b455e8071425
@@ -1510,103 +1607,6 @@ lien of an unpaid seller?
 S/o
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper dd8b9deff96f
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/LEGAL ASPECTS OF BUSINESS/Legal Aspects of Business Batch 2013-14 Re Exam.pdf`
-- Printed on paper: max marks: 50; exam date: 20/04/2015
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Ali Streams) Year: IV : Semester: VIII
-Academic Year: 2014-15
-Batch: 2013-14 ~
-; cg ETE Bay,
-Subject: Legal Aspects of Business a t ‘ma > s \
-_ Marks: 50 MPSTME )= :
-Date: 20/04/2015 Time: 2.00 py .OKRRARY Js
-Durations: 2 a ‘Ss
-Re-Examinati : ie meee © “7
-on aor re
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. .
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 3 questions.
-
-3) In all 4 questions to be attempted.
-
-4) All questions EXCEPT THE COMPULSORY QUESTION carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Give suitable examples/ illustrations wherever possible.
-
-8) Solve the cases in the question paper, giving reasons for your answers to be supported by
-providing the relevant provisions of the Act.
-
-1. i)Fill in the blanks: (6)
-
-a. Incase of agreements, even the collateral agreement becomes void.
-
-b. A negotiable instrument properly stamped & signed or incomplete in some respect is
-called an instrument. 7
-
-c. The right of lien of an unpaid seller depends solely onthe of
-the goods. ay
-
-d. One who buys goods for purpose is not a consumer for purpose of the good
-
-e. Appointment of an auditor in place of the retiring auditor required notice.
-
-f. The person who promises to make good the loss is called 3
-
-ii) Write note on any two ; i (8)
-
-a. Digital Signature
-b. Rights of consumer
-c. Holder and Holder in due course.
-
-2.a. What is implied condition & how many types of “Implied Conditions” are there: (6)
-State and elaborate along with at least two examples for each type of implied condition.
-ar
-
-b. An AGM was called on 22" October 2008 and a notice for the was served to the (6)
-shareholders and other concerned on 1* October 2008. Comment on the validity of the
-notice by supporting your answer with the provisions of the Act.
-
-3. a. Distinguish between guarantee and indemnity with two examples of each (6)
-
-a)
---- page 2 ---
-b. X promises to obtain for Y an employment in the public services and Y promises (6)
-to pay X Rs.50,000 . Decide the validity of the agreement.
-
-4. a. Describe'the characteristic features of negotiable instruments. (6)
-
-b. B owes to C a debt guaranteed by A. The debt becomes payable. C does not sue (6)
-B for a year after the debt has become payable. Is A discharged from his surety?
-
-5. a. Describe the relevance of annual general meeting. Discuss the statutory provisions (6)
-With respect to notice of annual general meeting including the business transacted at.
-
-b. Explain the terms ‘Condition and Warranty’ under the Sale of Goods Act (6)
-6.a What is the procedure laid down under the Companies Act 1956 for registering a (6)
-Company? “
-b. State the grounds of refusal of registration of a Trademark under the Trademarks (6)
-Act, 1999 ;
-````
-
 ## 2012-13 · Exam not stated · Trim 12 · paper aa2a45b89ad3
 
 - Departments: Chemical, Information Technology, Manufacturing
@@ -1646,6 +1646,53 @@ Q. 5 what are the features o f 'Contract o f Guarantee'?   10 Marks
 4.6 Give a pen picture o f the Information technology Act, 2000.   10 Marks
 *****
 t
+````
+
+## 2012-13 · Re-Exam · Trim 12 · paper 4fd3a5fe1b19
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/LEGAL ASPECTS OF BUSINESS/LEGAL ASPECTS OF BUSINESS BATCH 2011-12 RE EXAM(1).pdf` (+5 identical copies)
+- Printed on paper: exam date: 30/04/2013
+- Text: text (1 page)
+
+````text
+/--
+SVKM's NMIMS
+Mukesh Patel School of Technolorn Management & Engineerin
+,   Programme: MBA (Tech)ALL STREAMS   Year: IV   Trimester:
+Academic Year :2012-2013
+Batch:   2011-2012
+Subject:   LEGAL ASPECTS OF BUSINESS   Marks:
+Time:
+Date:   30/04/2013
+Re - Examination
+NOTES:
+1. Q.1 is compulsory.
+2. Answer any THREE questions from the remaining questions from 2 to 6.
+3. Total no. of questions is SIX.
+4. Answer to a new question attempted .must be written or1 a fresh page.
+Q.1 Write short notes: (any four)   20 Marks
+Quasi-contracts
+Injunction as a remedy
+E-Commerce
+Anti-competitive Agreements
+Holder and Holder in due course
+'Goods' under the Sale of Goods Act,1930
+Q.2 Discuss - 'Condition, 'Warranty and Guarantee' under the Sale of Goods Act, 1930.   10 Marks
+i   (With appropriate examples)
+Q.3 what are the 'Rights of a Consumer' under the Consurner Protection Act, 1986   10 Marks
+Q.4 Discuss remedies for 'Unpaid Seller'.   10 Marks
+Q.4 Discuss the following cases w.r.t. 'Abuse of Dominance':
+DLF case
+NSE v/s MCX
+Q.5 Anil Sarda issued a cheque of Rs. 1,00,0C!G/-dated 15'~ june,2011, for the value of goods purchased
+from Sunil Verma. On 18'~ June, 2011, Sunil Verma deposited the cheque in his account. On 2lSt
+June,2011, the bank informed Sunil Verma that the cheque of Anil Sarda has returned unpaid due
+insufficient funds. You are required to advise Sunil Verma on remedial actions under the Negotiable
+Instruments Act, 1881.   10 Marks
+Q.6 a) Discuss any three differences between MRTP Act anti the Competition Act.   05 Marks
+b) What are the documents on which Electronic Signature is not valid?   05 Marks
 ````
 
 ## 2012-13 · Re-Exam · Trim 12 · paper cc6674f93fd3
@@ -1749,7 +1796,59 @@ a. Caveat Emptor b. crossing of cheques. Electronic records
 h
 ````
 
-## 2011 · Exam not stated · Trim 12 · paper 7a5c14427196
+## 2011-12 · Re-Exam · Trim 12 · paper 99367bfbb8cb
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/LEGAL ASPECTS OF BUSINESS/LEGAL ASPECTS OF BUSINESS BATCH 2011-12 RE EXAM0001.pdf` (+2 identical copies)
+- Printed on paper: exam date: 29/06/2012
+- Text: ocr (1 page), mean OCR confidence 91.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+' SVKM’s NMIMS
+
+| Mukesh Patel School of Technology Management & Enginee Lhe
+Programme: MBA Tech - ALL STREAMS Year: IV Trimester: /
+Academic Year : 2011-2012
+Batch: 2011-12
+Subject: Legal Aspects of Business Marks:
+Time:
+Date: 29/06/2012 Duration:
+Re - Examination
+NOTES:
+
+5. Q.1is compulsory.
+
+6. Answer any THREE questions from the remaining questions from 2 to 6.
+7. Total no. of questions is SIX.
+
+8. Answer to a new question attempted must be written ona fresh page.
+
+Q.1 Write short notes: (any four) 26 Marks
+e Coercion
+e ‘Principle of Buyer Beware’
+e Quasi-contracts
+e Competition Advocacy
+e Crossing of cheque and types of crossings
+Q.2 what are the essentials of a valid Sale? 10 Marks
+Q.3 Discuss 3 tier consumer redressal system under the Consumer Protection Act, 1986 10 Marks
+i Q.4 what are salient features of ‘The Competition Act’. 10 Marks
+OR
+Q.4 Discuss the following cases w.r.t. information Technology Act: 10Marks
+e Bazzi.com case
+Q5 ai are the features of a Negotiable Instrument? 10 Marks
+‘ Q4 i? Discuss any three differences between Promissory Note and Bill of Exchange. 05 Marks
+05 Marks.
+
+“4 What are different types of goods? (Give apt examples)
+
+KEE
+
+sf
+````
+
+## 2010-11 · Exam not stated · Trim 12 · paper 7a5c14427196
 
 - Departments: Information Technology, Manufacturing
 - Programmes: MBA TECH / I T, MBA TECH / MANUFACTURING
@@ -1805,106 +1904,6 @@ a) Caveat Emptor (b) Crossing of Cheques.
 c) Electronic Records.
 
 /
-````
-
-## 2011-12 · Re-Exam · Trim 12 · paper 4fd3a5fe1b19
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/LEGAL ASPECTS OF BUSINESS/LEGAL ASPECTS OF BUSINESS BATCH 2011-12 RE EXAM(1).pdf` (+5 identical copies)
-- Printed on paper: exam date: 30/04/2013
-- Text: text (1 page)
-
-````text
-/--
-SVKM's NMIMS
-Mukesh Patel School of Technolorn Management & Engineerin
-,   Programme: MBA (Tech)ALL STREAMS   Year: IV   Trimester:
-Academic Year :2012-2013
-Batch:   2011-2012
-Subject:   LEGAL ASPECTS OF BUSINESS   Marks:
-Time:
-Date:   30/04/2013
-Re - Examination
-NOTES:
-1. Q.1 is compulsory.
-2. Answer any THREE questions from the remaining questions from 2 to 6.
-3. Total no. of questions is SIX.
-4. Answer to a new question attempted .must be written or1 a fresh page.
-Q.1 Write short notes: (any four)   20 Marks
-Quasi-contracts
-Injunction as a remedy
-E-Commerce
-Anti-competitive Agreements
-Holder and Holder in due course
-'Goods' under the Sale of Goods Act,1930
-Q.2 Discuss - 'Condition, 'Warranty and Guarantee' under the Sale of Goods Act, 1930.   10 Marks
-i   (With appropriate examples)
-Q.3 what are the 'Rights of a Consumer' under the Consurner Protection Act, 1986   10 Marks
-Q.4 Discuss remedies for 'Unpaid Seller'.   10 Marks
-Q.4 Discuss the following cases w.r.t. 'Abuse of Dominance':
-DLF case
-NSE v/s MCX
-Q.5 Anil Sarda issued a cheque of Rs. 1,00,0C!G/-dated 15'~ june,2011, for the value of goods purchased
-from Sunil Verma. On 18'~ June, 2011, Sunil Verma deposited the cheque in his account. On 2lSt
-June,2011, the bank informed Sunil Verma that the cheque of Anil Sarda has returned unpaid due
-insufficient funds. You are required to advise Sunil Verma on remedial actions under the Negotiable
-Instruments Act, 1881.   10 Marks
-Q.6 a) Discuss any three differences between MRTP Act anti the Competition Act.   05 Marks
-b) What are the documents on which Electronic Signature is not valid?   05 Marks
-````
-
-## 2011-12 · Re-Exam · Trim 12 · paper 99367bfbb8cb
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/LEGAL ASPECTS OF BUSINESS/LEGAL ASPECTS OF BUSINESS BATCH 2011-12 RE EXAM0001.pdf` (+2 identical copies)
-- Printed on paper: exam date: 29/06/2012
-- Text: ocr (1 page), mean OCR confidence 91.2
-
-````text
-' SVKM’s NMIMS
-
-| Mukesh Patel School of Technology Management & Enginee Lhe
-Programme: MBA Tech - ALL STREAMS Year: IV Trimester: /
-Academic Year : 2011-2012
-Batch: 2011-12
-Subject: Legal Aspects of Business Marks:
-Time:
-Date: 29/06/2012 Duration:
-Re - Examination
-NOTES:
-
-5. Q.1is compulsory.
-
-6. Answer any THREE questions from the remaining questions from 2 to 6.
-7. Total no. of questions is SIX.
-
-8. Answer to a new question attempted must be written ona fresh page.
-
-Q.1 Write short notes: (any four) 26 Marks
-e Coercion
-e ‘Principle of Buyer Beware’
-e Quasi-contracts
-e Competition Advocacy
-e Crossing of cheque and types of crossings
-e Jago Grahak Jago Abhiyan
-Q.2 what are the essentials of a valid Sale? 10 Marks
-Q.3 Discuss 3 tier consumer redressal system under the Consumer Protection Act, 1986 10 Marks
-i Q.4 what are salient features of ‘The Competition Act’. 10 Marks
-OR
-Q.4 Discuss the following cases w.r.t. information Technology Act: 10Marks
-e Bazzi.com case
-e Citibank Mphasis BPO case
-Q5 ai are the features of a Negotiable Instrument? 10 Marks
-‘ Q4 i? Discuss any three differences between Promissory Note and Bill of Exchange. 05 Marks
-05 Marks.
-
-“4 What are different types of goods? (Give apt examples)
-
-KEE
-
-sf
 ````
 
 ## 2009-10 · Exam not stated · Trim 12 · paper 70e1f473e6dd
@@ -1994,6 +1993,7 @@ Sy ok RE Z
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/legal aspects of business/2008-2009(172).pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 27.09.2008
 - Text: ocr (1 page), mean OCR confidence 84.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 daar oe
@@ -2042,7 +2042,6 @@ d) Holder-in-Due Course
 Q. VI. The Information Technology Act of 2000 has not fulfilled its expectations — Elucidate the
 Statement in detail. .
 
-Xx X X X X Xx
 ````
 
 ## 2008-09 · Re-Exam · Trim 10 · paper a6dba0899a70

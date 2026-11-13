@@ -584,6 +584,128 @@ Modify the model to include Batch Normalization and Dropout (with a dropout | [5
 
 ````
 
+## 2024-25 · Re-Exam · Sem 10 · paper 320f08fe3c21
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM X/NEURAL NETWORK AND DEEP LEARNING/Neural Networks and Deep Learning Batch 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 90.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+Program/s: B Tech Integrated Year: V Semester: X
+
+Stream; Computer Engineering
+
+Subject: Neural Networks and Deep Learning Time: 03 hrs (2*98pmto_4S¢ 200p~)
+Date:_ 3° / 5/2025 No. of Pages: 3
+Marks: 100
+
+Re-Examination ( 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+~ 1) Question No. __1___ is compulsory.
+2) Out of remaining questions, attempt any _4~- questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks. ve
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: > [20]
+CO-1; | a. What is linear separability? Discuss with suitable example
+SO-1;
+BL-2
+CO-2; | b.
+SO-6: Implement OR logic using single layered perceptron.
+o> | BL-6
+CO-2; | c.
+SO- 1: Discuss drop out in deep learning.
+BL-1
+CO- 2; | d. What is batch normalization in deep learning? Discuss how it will be useful in deep
+SO-2; .
+BL2 learning.
+Q2 a.
+aw, What is gradient descent for ANN? Explain with suitable diagram and supporting 110]
+SO-1: mathematical equations.
+BL-2
+co-2; | F as . | [0]
+50 1 > What is data augmentation? Why it is required in deep learning? What are its
+BL-2 limitations?
+--- page 2 ---
+Q3
+
+CO-2; Discuss sparse representations in deep learning with suitable example. [10]
+a
+CO-1; Discuss the architecture of multilayer perceptron. What are the limitations of single
+poe layer perceptron? How to eliminate the limitations of single layer perceptron? 00]
+Q4
+CO-3: Explain working principle of RMS prop optimizer with appropriate mathematical [10]
+SO-2; equations and diagrams.
+BL-2
+Consider input image of size 28X28X3. It is passed through convolutional layer 1
+with filter size 5X5, number of filters = 8, no padding and stride = 1. It is followed
+by pooling layer of mask size 2X2. Then it is.passed through convolutional layer2 oO
+with filter size 5X5, number of filters = 16, no padding and stride = 1. It is followed
+by pooling layer of mask size 2X2. Further it is passed through Fully Connected
+layerl (FC1) consisting of 120 neurons and then through FC2 with 84 neurons.
+Finally, softmax layer of 10 neurons is used. Calculate the size of activation map
+and number of parameters at the end of each layer and write it in tabular form as
+CO-3: given below.
+SO-7; . [10]
+BL-6 Layer Name Size of ACTIVATION. | Number of parameters
+Map
+Convolution |
+Pooling 1
+Convolution 2 >
+Pooling 2
+FC]
+FC2
+Softmax
+Q5
+ns Realize AND logic using perceptron for binary inputs and outputs. [10]
+BL-6
+Son Compare and contrast gradient descent, stochastic gradient descent, and mini batch 110]
+BL-2 gradient descent optimizers in deep learning.
+--- page 3 ---
+Q6
+
+CO-2;
+SO-2;
+BL-2
+
+Discuss vanishing gradient problem in deep learning. How you can solve- the
+
+vanishing gradient problem in CNN?
+
+[10]
+
+CO-4;
+SO-1;
+BL-1
+
+Explain LSTM with its architecture and mathematical equations.
+
+[10]
+
+What is autoencoder? Discuss with suitable example.
+
+[10]
+
+Discuss different applications of RNN.
+
+[10] .
+
+Pad
+````
+
 ## 2023-24 · Final + Re-Exam · Sem 10 · paper f0881894e935
 
 - Departments: Computer Engineering
@@ -984,234 +1106,7 @@ Matrix W Stride: 1 —™
 Page 4 of 4
 ````
 
-## 2023-24 · Re-Exam · Sem 10 · paper 320f08fe3c21
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM X/NEURAL NETWORK AND DEEP LEARNING/Neural Networks and Deep Learning Batch 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 90.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-Program/s: B Tech Integrated Year: V Semester: X
-
-Stream; Computer Engineering
-
-Subject: Neural Networks and Deep Learning Time: 03 hrs (2*98pmto_4S¢ 200p~)
-Date:_ 3° / 5/2025 No. of Pages: 3
-Marks: 100
-
-Re-Examination ( 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-~ 1) Question No. __1___ is compulsory.
-2) Out of remaining questions, attempt any _4~- questions.
-3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks. ve
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-Answer briefly: > [20]
-CO-1; | a. What is linear separability? Discuss with suitable example
-SO-1;
-BL-2
-CO-2; | b.
-SO-6: Implement OR logic using single layered perceptron.
-o> | BL-6
-CO-2; | c.
-SO- 1: Discuss drop out in deep learning.
-BL-1
-CO- 2; | d. What is batch normalization in deep learning? Discuss how it will be useful in deep
-SO-2; .
-BL2 learning.
-Q2 a.
-aw, What is gradient descent for ANN? Explain with suitable diagram and supporting 110]
-SO-1: mathematical equations.
-BL-2
-co-2; | F as . | [0]
-50 1 > What is data augmentation? Why it is required in deep learning? What are its
-BL-2 limitations?
---- page 2 ---
-Q3
-
-CO-2; Discuss sparse representations in deep learning with suitable example. [10]
-a
-CO-1; Discuss the architecture of multilayer perceptron. What are the limitations of single
-poe layer perceptron? How to eliminate the limitations of single layer perceptron? 00]
-Q4
-CO-3: Explain working principle of RMS prop optimizer with appropriate mathematical [10]
-SO-2; equations and diagrams.
-BL-2
-Consider input image of size 28X28X3. It is passed through convolutional layer 1
-with filter size 5X5, number of filters = 8, no padding and stride = 1. It is followed
-by pooling layer of mask size 2X2. Then it is.passed through convolutional layer2 oO
-with filter size 5X5, number of filters = 16, no padding and stride = 1. It is followed
-by pooling layer of mask size 2X2. Further it is passed through Fully Connected
-layerl (FC1) consisting of 120 neurons and then through FC2 with 84 neurons.
-Finally, softmax layer of 10 neurons is used. Calculate the size of activation map
-and number of parameters at the end of each layer and write it in tabular form as
-CO-3: given below.
-SO-7; . [10]
-BL-6 Layer Name Size of ACTIVATION. | Number of parameters
-Map
-Convolution |
-Pooling 1
-Convolution 2 >
-Pooling 2
-FC]
-FC2
-Softmax
-Q5
-ns Realize AND logic using perceptron for binary inputs and outputs. [10]
-BL-6
-Son Compare and contrast gradient descent, stochastic gradient descent, and mini batch 110]
-BL-2 gradient descent optimizers in deep learning.
---- page 3 ---
-Q6
-
-CO-2;
-SO-2;
-BL-2
-
-Discuss vanishing gradient problem in deep learning. How you can solve- the
-
-vanishing gradient problem in CNN?
-
-[10]
-
-CO-4;
-SO-1;
-BL-1
-
-Explain LSTM with its architecture and mathematical equations.
-
-[10]
-
-What is autoencoder? Discuss with suitable example.
-
-[10]
-
-Discuss different applications of RNN.
-
-[10] .
-
-Pad
-````
-
-## 2022-23 · Final-Exam · Sem 10 · paper 2f11a66bb62d
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM X/NEURAL NETWORK AND DEEP LEARNING/Neural Network and Deep Learning Batch 2022-23 Final0001.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-Program/s: B Tech Integrated
-Stream/s ;Computer Engineering
-Subject: Neural Networks and Deep Learning
-
-Date:_29 [Aspal 2023
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer
-Book, which is provided for their use.
-
-1) Question No, _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql ;
-Answer briefly: [20]
-CO-1 = Discuss different features of Keras.
-BL-2
-a . b. Bring out the advantages and limitations of deep learning.
-& A deep learning model has been has been trained on a dataset, but the model seems
-CO- 2; to over-fit the training data. Identify the techniques which can be used to reduce
-BL-4
-the over fitting on the training data.
-CO-2, d. What is the effect of batch normalization?
-BL-2
-Q2 a.
-CO-I: Realize AND logic using perceptron. [10]
-BL-5
--1; . . 10
-et b. Explain back propagation with suitable example. [10]
-Q3 a Discuss the concept of bias-variance trade off. Under what conditions the model is (10]
-- : said to be underfitting and overfitting?
-
-CO-2: b. Justify the need of regularization in deep learning. Describe different regularization | [10]
---- page 2 ---
-BL-5 techniques in deep neural networks.
-
-Q4 a. [10]
-CO-2; Discuss vanishing gradients and exploding gradients.
-
-BL-2
-
-CO-2; b. Discuss gradient descent algorithm with appropriate mathematical equations and | [10]
-BL-2
-
-its limitations.
-
-Q5 a. [10]
-
-Discuss the concept of exponentially weighted average. How it is useful in
-
-a optimization technique in deep learning.?
-b. Consider a convolutional network architecture having convoiutional, pooling, fully | [10]
-connected and output layers, which is being trained using back propagation using
-Adam optimizer. The input samples to this network are images of size 127 X 127
-CO-3; and the dataset is a classification dataset having five different classes.
-BL-4 1. Identify and explain the different parameters which will have to be updated
-and trained during training process.
-2. What are the hyper parameters for this network which needs to be
-optimized during the training process.
-* Justify the use of ReLu activation for deep neural network against sigmoid a
-activation.
-Q6 An application of predicating the rating of different brands on a scale of 10, based
-a on the features extracted through a survey uses a deep neural network.
-1. Select and justify the use of appropriate loss function and output activation
-for network.
-CO-4; b. Develop a model for Recurrent Neural Network (RNN) with hidden states and | [10]
-BL-5 show how backpropagation is used for updating the gradients of RNN.
-Q7 a. [10]
-CO-4; Discuss Gated Recurrent Unit (GRU) with its applications.
-BL-2
-b. Consider ANN with four layers. One input layer, one output layer and two hidden | [10]
-layers in between. Input layer consists of 6 neurons, hidden layer | consists of 8
-inh > neurons, hidden layer 2 consists of 6 neurons and output layer consists of 3
-
-neurons. Draw suitable diagram with proper notations, representing this ANN and
-
-calculate the number trainable parameters at each layer.
-````
-
-## 2022-23 · Re-Exam · Sem 10 · paper aef496e5cc6d
+## 2023-24 · Re-Exam · Sem 10 · paper aef496e5cc6d
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -1328,6 +1223,227 @@ SO-6; after training. You identified that the reason for this is that the parame
 BL-6 being updated due to vanishing gradients.
 
 Suggest and justify a solution to solve this problem.
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper 95ccf10b40fd
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/NEURAL NETWORKS & DEEP LEARNING/Neural Networks and Deep Learnings.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 85.8
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2022-2023
+
+Program/s: MBA Tech : Year: Y Semester: X
+Stream/s: ALL STREAMS
+Subject: Neural Networks and Deep Leaocnings Time: 2 hrs (2:00 pmto 4io0pm)
+Date:_03 / 07 / 2023 No. of Pages: 2
+Marks: 50
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+a [10]
+
+Answer briefly:
+
+CO- C01; SO- | a.
+, Explain the layers of a neural network?
+BL-
+
+Understand
+
+CO- C01; SO- | b.
+
+, What do you understand by Perceptron?
+BL-
+Understand
+CO- CO1; SO- | c.
+; Why neural networks need an activation function?
+BL-
+Understand
+CO- C01; SO- | d.
+; ‘tate the differences between supervised and unsupervised learning?
+BL-
+Understand
+Q2
+
+0s CO1, SO- Explain the factors effecting the efficiency of a CNN? (10)
+BL-
+Understand
+Q3
+
+CO- C01; SO-
+;BL-
+Understand
+
+What is a sequence-to-sequence model? How it works? [10]
+--- page 2 ---
+a4
+
+CO- CO1; SO- |
+Be What is RNN? Why RNN? Explain its architecture? [10]
+Understand
+Qs
+CO- CO1; SO- What is a gradient descent? Explain the following variants of Gradient descent: Stochastic, Batch ,
+H {10
+BL- and Mini-Batch?
+Understand
+7 Assume that the neurons have a sigmoid activation function, actual output of y is 1 and the learning
+rate is 0.9. Compute y4, y5 and y6. Also, compute error and find out the values of updated weights?
+(Consider the figure mentioned below)
+Q6
+co- coi,
+C02, CO3,
+C04; SO-;
+BL- ,
+[10)
+Understand, Actual
+Output=1
+Apply, P
+Analyze,
+Evaluate
+0 Bias
+Answer the following questions on the basis of the code shown below:
+a) Why sequential model is used in the 2"4 statement? Explain?
+Q7 b) How many neurons are being added to LSTM?
+c) Why “Dense” is used? Which activation function is used?
+co- co1, d) Explain the optimizer used in the code above, in detail?
+cO2, CO3,
+C04; SO-;
+BL- enbedding_vector_features=40 110]
+Understand, model=Sequential()
+Ron model. add{Embedding(voc_size,embedding_vector_features, input_length=sent_length))
+Bey model. add(LSTH(10@))
+Analyze, model. add(Dense(1,activation= i
+Evaluate model. compile(loss='binary_crossentropy’ ,optimizer='adam' ,metrics=["accuracy’])
+
+print(model. summary())
+````
+
+## 2022-23 · Final-Exam · Sem 10 · paper 2f11a66bb62d
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM X/NEURAL NETWORK AND DEEP LEARNING/Neural Network and Deep Learning Batch 2022-23 Final0001.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+Program/s: B Tech Integrated
+Stream/s ;Computer Engineering
+Subject: Neural Networks and Deep Learning
+
+Date:_29 [Aspal 2023
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer
+Book, which is provided for their use.
+
+1) Question No, _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql ;
+Answer briefly: [20]
+CO-1 = Discuss different features of Keras.
+BL-2
+a . b. Bring out the advantages and limitations of deep learning.
+& A deep learning model has been has been trained on a dataset, but the model seems
+CO- 2; to over-fit the training data. Identify the techniques which can be used to reduce
+BL-4
+the over fitting on the training data.
+CO-2, d. What is the effect of batch normalization?
+BL-2
+Q2 a.
+CO-I: Realize AND logic using perceptron. [10]
+BL-5
+-1; . . 10
+et b. Explain back propagation with suitable example. [10]
+Q3 a Discuss the concept of bias-variance trade off. Under what conditions the model is (10]
+- : said to be underfitting and overfitting?
+
+CO-2: b. Justify the need of regularization in deep learning. Describe different regularization | [10]
+--- page 2 ---
+BL-5 techniques in deep neural networks.
+
+Q4 a. [10]
+CO-2; Discuss vanishing gradients and exploding gradients.
+
+BL-2
+
+CO-2; b. Discuss gradient descent algorithm with appropriate mathematical equations and | [10]
+BL-2
+
+its limitations.
+
+Q5 a. [10]
+
+Discuss the concept of exponentially weighted average. How it is useful in
+
+a optimization technique in deep learning.?
+b. Consider a convolutional network architecture having convoiutional, pooling, fully | [10]
+connected and output layers, which is being trained using back propagation using
+Adam optimizer. The input samples to this network are images of size 127 X 127
+CO-3; and the dataset is a classification dataset having five different classes.
+BL-4 1. Identify and explain the different parameters which will have to be updated
+and trained during training process.
+2. What are the hyper parameters for this network which needs to be
+optimized during the training process.
+* Justify the use of ReLu activation for deep neural network against sigmoid a
+activation.
+Q6 An application of predicating the rating of different brands on a scale of 10, based
+a on the features extracted through a survey uses a deep neural network.
+1. Select and justify the use of appropriate loss function and output activation
+for network.
+CO-4; b. Develop a model for Recurrent Neural Network (RNN) with hidden states and | [10]
+BL-5 show how backpropagation is used for updating the gradients of RNN.
+Q7 a. [10]
+CO-4; Discuss Gated Recurrent Unit (GRU) with its applications.
+BL-2
+b. Consider ANN with four layers. One input layer, one output layer and two hidden | [10]
+layers in between. Input layer consists of 6 neurons, hidden layer | consists of 8
+inh > neurons, hidden layer 2 consists of 6 neurons and output layer consists of 3
+
+neurons. Draw suitable diagram with proper notations, representing this ANN and
+
+calculate the number trainable parameters at each layer.
 ````
 
 ## 2022-23 · Re-Exam · Sem 10 · paper 6da8d8f8949e
@@ -1648,120 +1764,4 @@ tq | 0 1 0 1
 Bf 0 1 1 1
 
 Page 3 of 3
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper 95ccf10b40fd
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/NEURAL NETWORKS & DEEP LEARNING/Neural Networks and Deep Learnings.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 85.8
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-
-Program/s: MBA Tech : Year: Y Semester: X
-Stream/s: ALL STREAMS
-Subject: Neural Networks and Deep Leaocnings Time: 2 hrs (2:00 pmto 4io0pm)
-Date:_03 / 07 / 2023 No. of Pages: 2
-Marks: 50
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-a [10]
-
-Answer briefly:
-
-CO- C01; SO- | a.
-, Explain the layers of a neural network?
-BL-
-
-Understand
-
-CO- C01; SO- | b.
-
-, What do you understand by Perceptron?
-BL-
-Understand
-CO- CO1; SO- | c.
-; Why neural networks need an activation function?
-BL-
-Understand
-CO- C01; SO- | d.
-; ‘tate the differences between supervised and unsupervised learning?
-BL-
-Understand
-Q2
-
-0s CO1, SO- Explain the factors effecting the efficiency of a CNN? (10)
-BL-
-Understand
-Q3
-
-CO- C01; SO-
-;BL-
-Understand
-
-What is a sequence-to-sequence model? How it works? [10]
---- page 2 ---
-a4
-
-CO- CO1; SO- |
-Be What is RNN? Why RNN? Explain its architecture? [10]
-Understand
-Qs
-CO- CO1; SO- What is a gradient descent? Explain the following variants of Gradient descent: Stochastic, Batch ,
-H {10
-BL- and Mini-Batch?
-Understand
-7 Assume that the neurons have a sigmoid activation function, actual output of y is 1 and the learning
-rate is 0.9. Compute y4, y5 and y6. Also, compute error and find out the values of updated weights?
-(Consider the figure mentioned below)
-Q6
-co- coi,
-C02, CO3,
-C04; SO-;
-BL- ,
-[10)
-Understand, Actual
-Output=1
-Apply, P
-Analyze,
-Evaluate
-0 Bias
-Answer the following questions on the basis of the code shown below:
-a) Why sequential model is used in the 2"4 statement? Explain?
-Q7 b) How many neurons are being added to LSTM?
-c) Why “Dense” is used? Which activation function is used?
-co- co1, d) Explain the optimizer used in the code above, in detail?
-cO2, CO3,
-C04; SO-;
-BL- enbedding_vector_features=40 110]
-Understand, model=Sequential()
-Ron model. add{Embedding(voc_size,embedding_vector_features, input_length=sent_length))
-Bey model. add(LSTH(10@))
-Analyze, model. add(Dense(1,activation= i
-Evaluate model. compile(loss='binary_crossentropy’ ,optimizer='adam' ,metrics=["accuracy’])
-
-print(model. summary())
 ````

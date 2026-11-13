@@ -1,10 +1,10 @@
 # Business Communication and Value Science III: question papers in full
 
-4 unique papers · 2021-22 to 2023-24 · Computer Science and Business Systems
+4 unique papers · 2022-23 to 2024-25 · Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2023-24 · Re-Exam · Sem 4 · paper 61333e8d9b19
+## 2024-25 · Re-Exam · Sem 4 · paper 61333e8d9b19
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -151,314 +151,7 @@ Q7 B
 BL-6
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 01ee759d636c
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/BUSINESS COMMUNICATION & VALUE SCIENCE-III/Business Communication & Value Science-III, Sem-IV, Year 2022-23, Final Exam & Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (8 pages), mean OCR confidence 94.2
-
-````text
-SVKM’S NMIMS at Paes . \5)
-\ BRARY Jo
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN{® ENGINEERINGS)
-
-Academic Year: 2022-2023 “
-
-Program/s: B. Tech. Year: Second Semester: IV
-
-Stream/s : Computer Science and Business Systems
-
-Subject: Business Communication and Value Science-III Time: 3 hrs (to: ooam to 100 pm)
-
-Date:_ 19 / 04/2023 No. of Pages:08
-
-Marks: 100
-Final Examination |Re- Examination:
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
->. 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions are to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question is to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer the following questions in brief : [4X5=20]
-CO-1; a. Explain with examples the bottom three levels of needs from Maslow’s
-SO-3&7 ; Need Hierarch «d [5]
-BL2 eed Hierarchy pyramid.
-b. One should always stay cautious towards non -verbal cues and differences
-CO-2&3 ; in non-verbal communication specific to individual cultures when we are [5]
-_ el engaged in communication with people belonging to cultures that differ
-from ours.” Reflect.
-CO-6 ; c. Draft a set of instructions for writing an email to your department
-SO-3&7 ; [5]
-BL-6 coordinator.
-CO-8 ; d. Which areas of human life according to you will be impacted by Artificial 65]
-ae i Intelligence in the coming future?
-Q2 A
-CO-2&3; Explain culture shock and various stages of culture shock. Suggest [10]
-oF measures that can help one cope positively with culture shock.
-BL-2
---- page 2 ---
-Q2
-CO-6;
-SO-3&7;
-BL-4
-
-Read the following passage carefully and on the basis of your
-understanding of the above passage, make notes using headings and
-subheadings. Use recognizable abbreviations wherever necessary,
-and a format you consider suitable. Also supply an appropriate title
-to it.
-
-The world is not on track to achieve gender equality by 2030 and has been
-pushed further off track by the socioeconomic fallout of the pandemic.
-Women and girls remain disproportionately affected, struggling with lost
-jobs and livelihoods, derailed education, increased burdens of unpaid care
-work and domestic violence. Over 100 million women aged 25-54 years
-with small children at home were out of the workforce globally in 2020,
-including the more than 2 million who left the labour forse owing to the
-
-increased pressures of unpaid care work.
-
-Discriminatory laws and legal gaps continue to prevent women from
-enjoying their human rights. Based on 2020 data from 95 countries and
-territories, more than half lacked quotas for women in the national
-parliament; while 83 per cent included budgetary commitments, to
-implement legislation addressing violence against women, 63 per cent
-continued to lack laws defining rape based on the principle of consent.
-Although over 90 per cent mandate non-discrimination based on gender
-in employment, almost half continued to restrict women from working in
-certain jobs or industries and almost one quarter of countries did not grant
-
-women equal rights with men to enter marriage and initiate divorce.
-
-Violence against women and girls is prevalent across countries and affects
-women of all ages. In 2018, globally, over 1 in 4 (26 per cent) ever-
-partnered women aged 15 years or over, or a total of 641 million women,
-have been subjected to physical and/or sexual violence by a husband or
-intimate partner at least once in their lifetime. Data on violence
-
-experienced by older women, including on specific forms such as being
-
-[10]
---- page 3 ---
-restrained, being ostracized or neglected, are urgently needed but remain
-largely unavailable. Only less than 10 per cent of eligible data on intimate
-partner violence capture the prevalence of this form of violence against
-
-women aged 50 years or over.
-
-One in five young women worldwide (19 per cent) were married in
-childhood in 2021. Child marriage is most common in sub-Saharan
-Africa, a region where progress has been modest, followed by South Asia,
-which has achieved greater declines. The practice of female genital
-mutilation has proved remarkably tenacious, despite efforts spanning
-nearly a century to eliminate it. At least 200 million girls and women alive
-today have been subjected to female genital mutilation, based on the latest
-available data from 31 countries, where the practice is concentrated. On
-an average day, women spend about 2.5 times as many hours on unpaid
-domestic work and care work as men, according to the latest data from 90
-
-countries and areas collected between 2001 and 2019.
-
-Ownership of mobile phones has been shown to be an important tool for
-empowering women. In 30 of 70 countries with data for 2017-2021,
-gender parity in mobile phone ownership has been achieved and in 13
-additional countries, the number of women who own a mobile phone is
-( greater than the number of men. Socio-economic recovery from the
-COVID-19 pandemic requires effective and gender-responsive public
-finance management systems. Based on data reported by 105 countries
-and areas for 2018-2021, 26 per cent of countries globally have
-comprehensive systems in place for tracking and making public
-allocations for gender equality, 59 per cent have some features of a system
-in place, and 15 per cent do not have the minimum elements of such
-
-i systems.
-Reference: https://sdgs.un.org/goals/goal
---- page 4 ---
-Q3 A
-
-CO-2&3; Explain socialization as a tool for organizational culture integration for a
-SEER new employee. Also, discuss the different stages of socialization. HO]
-BL-2
-
-B Do as Directed:
-
-a. The consultant has an inordinate influence on the tactical
-decision making policies of the company. (substitute complex
-words to lend simplicity and clarity to the sentence)
-
-b. The education board will receive the revised education policy
-very soon. (eliminate ambiguity by providing concrete
-information)
-
-c. The doctor agreed to the free slum visit, as he knew how
-underprivileged the slum dwellers were. (Eliminate the use of
-discriminatory language if there is any)
-
-d. The elderly sales manager discussed the product with a lot of
-vitality and enthusiasm. (Eliminate use of discriminatory
-
-toe language if there is any) [10]
-SO-3&7; e. Susan was late for the meeting but she somehow managed
-BL-3
-
-to catch in with all that she had missed. (eliminate error/s (if any)
-‘ verbal phrase/s as used in the sentence)
-
-f. The manager agreed to knock out 25% of the price for all new
-arrivals. (eliminate error/s (if any) in use of verbal phrase/s in the
-sentence)
-
-g. The software will be ready by sometime in the coming month.
-(rewrite to eliminate vague information if any)
-
-h. The diversity training was organized by the management to
-eliminate any subconscious bias in the employees. (create active
-construction for brevity and clarity)
-
-i. An actor is expected to keep a track of all his commitments.
-
-(eliminate use of discriminatory language if any)
---- page 5 ---
-J. All the verticals in our annual newsletter are managed by Revati.
-(create active construction for brevity and clarity)
-You are a senior manager at ATL software Ltd. You have worked with
-ATL for more than ten years now, and have seen their business grow
-globally. In the last three years, you have led several International
-Q4 projects and you have observed that often your team members have
-CO-6: shown either insensitivity or subconscious bias towards their colleagues [20]
-SO-3.&7; or customers from different cultural backgrounds. You believe that long
-; Birt term and continued cross cultural communication training is the only
-. solution to eliminate these problems.
-Draft an internal proposal addressed to VP, Communications, persuading
-him/her to approve a cross cultural training protocol that you are
-proposing.
-A
-“A-life”, is an Italian adventure sports brand that retails adventure
-sportswear and equipment. Their merchandise is priced between medium
-Qs to high range, and guarantees user safety. They want to expand their
-Soar: business to India, but are not sure whether the Indian consumers are [10]
-BL-6 | ready for an adventure sports brand. Perform a SWOT analyses to help
-"| the brand make the critical decision. You can use PESTELLE Model to
-” assist your SWOT analyses.
-Q5 B
-CO-2,3; Discuss various dimensions of cross cultural communication as per
-si. Geert Hofstede framework. a
-Ba BL-2
-Q6 Read the following case study and draft a case essay evaluating:
-‘oe CO-6; ¢ swiftness and appropriateness of brand’s response (20)
-te ¢ Impact on all or some of the areas like profitability; brand image;
-
-customer loyalty; competitive advantage; employee morale etc.
---- page 6 ---
-In October,2003, The Food and Drug Administration Commissioner
-received a complaint that two Cadbury Dairy Milk bars were infested with
-worms. Cadbury India as a brand has a share of 70% in the market. The
-Commissioner ordered an enquiry and went to the media. After that, there
-was adverse media coverage on Cadbury infestations. The Company came
-under intense scrutiny. Its reputation and credibility was questioned as its
-sales fell drastically. Diwali festival was one month away. Normally, its
-sales increases before the festival. The retailers didn’t show enthusiasm to
-stock the chocolates. The sales of chocolates plummeted drastically in the
-first two and half months. Morale of employees fell significantly.
-Primarily, the company had a challenge to get back confidence of the all
-the stakeholders—employees, customers, government authorities,
-investors etc. The company has to restore credibility of the corporate
-brand. It has to use same media channels, which disseminated information
-
-about chocolate infestation to the public to regain brand’s reputation.
-
-In reply, Cadbury gave a statement that infestation of chocolates with
-worms could have happened during storage at retail shop due to poor
-‘storage facilities and not at manufacturing unit. But FDA did not agree
-with the argument, the commissioner responded to the media “It is
-presumed that worms got into it at the storage level, but then what about
-the packing—packaging was not proper or aright, either ways it’s a
-manufacturing defect with unhygienic conditions or improper packaging”.
-There were allegations and counter—allegations between FDA and
-Cadbury. As a result, due to negative publicity, sales have dropped by
-30%. Otherwise, there should have been hike of around 15% in sales due
-to Diwali festival. Consequently, Cadbury took out its advertisements for
-one and half month after Diwali festival. For some time, due to
-
-controversy consumers did not dare to consume chocolates.
---- page 7 ---
-Solution to Worm Controversy
-
-1S' Phase: When the news broke about infestation of Cadbury chocolates,
-a media desk was established and answered all the queries. by the
-company. Even the Managing Director of Cadbury answered queries of
-the consumers. After two weeks, second media briefing was done by
-launching Project Vishwas.
-
-1, A education and monitoring program on retail stores was launched on
-war footing to resolve storage issue.
-
-2. Cadbury assured the customers and retail stores owners to improve
-
-storage conditions within two months.
-
-24 Phase: New “purity seal” was launched in 2004. Company spent 15
-crores on imported packaging machine. The metallic poly pack improved
-the protection of the chocolate. Legendary actor Amitabh Bachaan was
-made to endorse Cadbury brand. In advertisements released initially by
-Cadbury to media, manufacturing and packaging was shown to the
-audience in television channels. Because of constant communication to
-the audience, people started believing that Company has corrected its
-\ packaging. Media also publicised the information about new packaging
-being introduced in the market. Customers trusted and credibility of
-6 Cadbury brand was restored. Cadbury could regain the lost market share
-in two months. Company’s responsive behaviour made to improve its
-sales volume and gain back its Corporate image. Public Relations
-department of Cadbury maintained relations with media and other
-stakeholder by answering their queries and sharing developments in
-
-Cadbury company.
-
-ay Media outreach program was started to answer the queries of the
-customers to remove fears. 31 editors of media were met in person by
-
-officials of Cadbury to answer their queries in one-to one. “Facts about
---- page 8 ---
-Cadbury” ads were published around 55 publications in 11 languages.
-Toll-free numbers and email ids were made available to consumers to
-know queries. To give emotional support to employees ‘town hall meeting
-were conducted. Audio-visual messages were released to boost the
-confidence of sales persons. Media played a key role in restoring
-confidence in Cadbury brand. Cadbury launched a targeted and persuasive
-advertisement campaign on consumers to rebuild credibility of Cadbury
-among important stakeholders of the company. Cadbury imported a
-machinery from abroad for packaging. Which is tamper proof. The same
-was conveyed to the customers through mass media. The outcome:
-Cadbury through its media campaign tried to convince the public, that
-infestation, was due to storage problem and not manufacturing defect or
-packaging.
-
-N.B. This case is taken from a public source.
-
-Reference:
-
-http://www. ijirset.com/upload/2021/july/322 Case%20 NC.pdf
-
-Q7
-
-CO-8: Draft a blog/article on “Impact of Artificial Intelligence on Business (20)
-SO-3&7; Communication.”.
-
-BL-6
-````
-
-## 2021-22 · Final + Re-Exam · Sem 4 · paper c3c5029cfc0e
+## 2023-24 · Final + Re-Exam · Sem 4 · paper c3c5029cfc0e
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -795,7 +488,7 @@ SO- B Draft a 400-500 Words blog on “How AI Disruptions will Shape the [10]
 © | BL-6
 ````
 
-## 2021-22 · Re-Exam · Sem 4 · paper 1778ce572d76
+## 2023-24 · Re-Exam · Sem 4 · paper 1778ce572d76
 
 - Departments: Computer Science and Business Systems
 - Programmes: B TECH / CSBS
@@ -1089,6 +782,313 @@ So- Draft A 400-500 word blog on “Threat of AI-Based Dehumanization in
 34,587; |B : [9]
 
 AS&7, Society”
+
+BL-6
+````
+
+## 2022-23 · Final + Re-Exam · Sem 4 · paper 01ee759d636c
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/BUSINESS COMMUNICATION & VALUE SCIENCE-III/Business Communication & Value Science-III, Sem-IV, Year 2022-23, Final Exam & Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (8 pages), mean OCR confidence 94.2
+
+````text
+SVKM’S NMIMS at Paes . \5)
+\ BRARY Jo
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN{® ENGINEERINGS)
+
+Academic Year: 2022-2023 “
+
+Program/s: B. Tech. Year: Second Semester: IV
+
+Stream/s : Computer Science and Business Systems
+
+Subject: Business Communication and Value Science-III Time: 3 hrs (to: ooam to 100 pm)
+
+Date:_ 19 / 04/2023 No. of Pages:08
+
+Marks: 100
+Final Examination |Re- Examination:
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+>. 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions are to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question is to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer the following questions in brief : [4X5=20]
+CO-1; a. Explain with examples the bottom three levels of needs from Maslow’s
+SO-3&7 ; Need Hierarch «d [5]
+BL2 eed Hierarchy pyramid.
+b. One should always stay cautious towards non -verbal cues and differences
+CO-2&3 ; in non-verbal communication specific to individual cultures when we are [5]
+_ el engaged in communication with people belonging to cultures that differ
+from ours.” Reflect.
+CO-6 ; c. Draft a set of instructions for writing an email to your department
+SO-3&7 ; [5]
+BL-6 coordinator.
+CO-8 ; d. Which areas of human life according to you will be impacted by Artificial 65]
+ae i Intelligence in the coming future?
+Q2 A
+CO-2&3; Explain culture shock and various stages of culture shock. Suggest [10]
+oF measures that can help one cope positively with culture shock.
+BL-2
+--- page 2 ---
+Q2
+CO-6;
+SO-3&7;
+BL-4
+
+Read the following passage carefully and on the basis of your
+understanding of the above passage, make notes using headings and
+subheadings. Use recognizable abbreviations wherever necessary,
+and a format you consider suitable. Also supply an appropriate title
+to it.
+
+The world is not on track to achieve gender equality by 2030 and has been
+pushed further off track by the socioeconomic fallout of the pandemic.
+Women and girls remain disproportionately affected, struggling with lost
+jobs and livelihoods, derailed education, increased burdens of unpaid care
+work and domestic violence. Over 100 million women aged 25-54 years
+with small children at home were out of the workforce globally in 2020,
+including the more than 2 million who left the labour forse owing to the
+
+increased pressures of unpaid care work.
+
+Discriminatory laws and legal gaps continue to prevent women from
+enjoying their human rights. Based on 2020 data from 95 countries and
+territories, more than half lacked quotas for women in the national
+parliament; while 83 per cent included budgetary commitments, to
+implement legislation addressing violence against women, 63 per cent
+continued to lack laws defining rape based on the principle of consent.
+Although over 90 per cent mandate non-discrimination based on gender
+in employment, almost half continued to restrict women from working in
+certain jobs or industries and almost one quarter of countries did not grant
+
+women equal rights with men to enter marriage and initiate divorce.
+
+Violence against women and girls is prevalent across countries and affects
+women of all ages. In 2018, globally, over 1 in 4 (26 per cent) ever-
+partnered women aged 15 years or over, or a total of 641 million women,
+have been subjected to physical and/or sexual violence by a husband or
+intimate partner at least once in their lifetime. Data on violence
+
+experienced by older women, including on specific forms such as being
+
+[10]
+--- page 3 ---
+restrained, being ostracized or neglected, are urgently needed but remain
+largely unavailable. Only less than 10 per cent of eligible data on intimate
+partner violence capture the prevalence of this form of violence against
+
+women aged 50 years or over.
+
+One in five young women worldwide (19 per cent) were married in
+childhood in 2021. Child marriage is most common in sub-Saharan
+Africa, a region where progress has been modest, followed by South Asia,
+which has achieved greater declines. The practice of female genital
+mutilation has proved remarkably tenacious, despite efforts spanning
+nearly a century to eliminate it. At least 200 million girls and women alive
+today have been subjected to female genital mutilation, based on the latest
+available data from 31 countries, where the practice is concentrated. On
+an average day, women spend about 2.5 times as many hours on unpaid
+domestic work and care work as men, according to the latest data from 90
+
+countries and areas collected between 2001 and 2019.
+
+Ownership of mobile phones has been shown to be an important tool for
+empowering women. In 30 of 70 countries with data for 2017-2021,
+gender parity in mobile phone ownership has been achieved and in 13
+additional countries, the number of women who own a mobile phone is
+( greater than the number of men. Socio-economic recovery from the
+COVID-19 pandemic requires effective and gender-responsive public
+finance management systems. Based on data reported by 105 countries
+and areas for 2018-2021, 26 per cent of countries globally have
+comprehensive systems in place for tracking and making public
+allocations for gender equality, 59 per cent have some features of a system
+in place, and 15 per cent do not have the minimum elements of such
+
+i systems.
+Reference: https://sdgs.un.org/goals/goal
+--- page 4 ---
+Q3 A
+
+CO-2&3; Explain socialization as a tool for organizational culture integration for a
+SEER new employee. Also, discuss the different stages of socialization. HO]
+BL-2
+
+B Do as Directed:
+
+a. The consultant has an inordinate influence on the tactical
+decision making policies of the company. (substitute complex
+words to lend simplicity and clarity to the sentence)
+
+b. The education board will receive the revised education policy
+very soon. (eliminate ambiguity by providing concrete
+information)
+
+c. The doctor agreed to the free slum visit, as he knew how
+underprivileged the slum dwellers were. (Eliminate the use of
+discriminatory language if there is any)
+
+d. The elderly sales manager discussed the product with a lot of
+vitality and enthusiasm. (Eliminate use of discriminatory
+
+toe language if there is any) [10]
+SO-3&7; e. Susan was late for the meeting but she somehow managed
+BL-3
+
+to catch in with all that she had missed. (eliminate error/s (if any)
+‘ verbal phrase/s as used in the sentence)
+
+f. The manager agreed to knock out 25% of the price for all new
+arrivals. (eliminate error/s (if any) in use of verbal phrase/s in the
+sentence)
+
+g. The software will be ready by sometime in the coming month.
+(rewrite to eliminate vague information if any)
+
+h. The diversity training was organized by the management to
+eliminate any subconscious bias in the employees. (create active
+construction for brevity and clarity)
+
+i. An actor is expected to keep a track of all his commitments.
+
+(eliminate use of discriminatory language if any)
+--- page 5 ---
+J. All the verticals in our annual newsletter are managed by Revati.
+(create active construction for brevity and clarity)
+You are a senior manager at ATL software Ltd. You have worked with
+ATL for more than ten years now, and have seen their business grow
+globally. In the last three years, you have led several International
+Q4 projects and you have observed that often your team members have
+CO-6: shown either insensitivity or subconscious bias towards their colleagues [20]
+SO-3.&7; or customers from different cultural backgrounds. You believe that long
+; Birt term and continued cross cultural communication training is the only
+. solution to eliminate these problems.
+Draft an internal proposal addressed to VP, Communications, persuading
+him/her to approve a cross cultural training protocol that you are
+proposing.
+A
+“A-life”, is an Italian adventure sports brand that retails adventure
+sportswear and equipment. Their merchandise is priced between medium
+Qs to high range, and guarantees user safety. They want to expand their
+Soar: business to India, but are not sure whether the Indian consumers are [10]
+BL-6 | ready for an adventure sports brand. Perform a SWOT analyses to help
+"| the brand make the critical decision. You can use PESTELLE Model to
+” assist your SWOT analyses.
+Q5 B
+CO-2,3; Discuss various dimensions of cross cultural communication as per
+si. Geert Hofstede framework. a
+Ba BL-2
+Q6 Read the following case study and draft a case essay evaluating:
+‘oe CO-6; ¢ swiftness and appropriateness of brand’s response (20)
+te ¢ Impact on all or some of the areas like profitability; brand image;
+
+customer loyalty; competitive advantage; employee morale etc.
+--- page 6 ---
+In October,2003, The Food and Drug Administration Commissioner
+received a complaint that two Cadbury Dairy Milk bars were infested with
+worms. Cadbury India as a brand has a share of 70% in the market. The
+Commissioner ordered an enquiry and went to the media. After that, there
+was adverse media coverage on Cadbury infestations. The Company came
+under intense scrutiny. Its reputation and credibility was questioned as its
+sales fell drastically. Diwali festival was one month away. Normally, its
+sales increases before the festival. The retailers didn’t show enthusiasm to
+stock the chocolates. The sales of chocolates plummeted drastically in the
+first two and half months. Morale of employees fell significantly.
+Primarily, the company had a challenge to get back confidence of the all
+the stakeholders—employees, customers, government authorities,
+investors etc. The company has to restore credibility of the corporate
+brand. It has to use same media channels, which disseminated information
+
+about chocolate infestation to the public to regain brand’s reputation.
+
+In reply, Cadbury gave a statement that infestation of chocolates with
+worms could have happened during storage at retail shop due to poor
+‘storage facilities and not at manufacturing unit. But FDA did not agree
+with the argument, the commissioner responded to the media “It is
+presumed that worms got into it at the storage level, but then what about
+the packing—packaging was not proper or aright, either ways it’s a
+manufacturing defect with unhygienic conditions or improper packaging”.
+There were allegations and counter—allegations between FDA and
+Cadbury. As a result, due to negative publicity, sales have dropped by
+30%. Otherwise, there should have been hike of around 15% in sales due
+to Diwali festival. Consequently, Cadbury took out its advertisements for
+one and half month after Diwali festival. For some time, due to
+
+controversy consumers did not dare to consume chocolates.
+--- page 7 ---
+Solution to Worm Controversy
+
+1S' Phase: When the news broke about infestation of Cadbury chocolates,
+a media desk was established and answered all the queries. by the
+company. Even the Managing Director of Cadbury answered queries of
+the consumers. After two weeks, second media briefing was done by
+launching Project Vishwas.
+
+1, A education and monitoring program on retail stores was launched on
+war footing to resolve storage issue.
+
+2. Cadbury assured the customers and retail stores owners to improve
+
+storage conditions within two months.
+
+24 Phase: New “purity seal” was launched in 2004. Company spent 15
+crores on imported packaging machine. The metallic poly pack improved
+the protection of the chocolate. Legendary actor Amitabh Bachaan was
+made to endorse Cadbury brand. In advertisements released initially by
+Cadbury to media, manufacturing and packaging was shown to the
+audience in television channels. Because of constant communication to
+the audience, people started believing that Company has corrected its
+\ packaging. Media also publicised the information about new packaging
+being introduced in the market. Customers trusted and credibility of
+6 Cadbury brand was restored. Cadbury could regain the lost market share
+in two months. Company’s responsive behaviour made to improve its
+sales volume and gain back its Corporate image. Public Relations
+department of Cadbury maintained relations with media and other
+stakeholder by answering their queries and sharing developments in
+
+Cadbury company.
+
+ay Media outreach program was started to answer the queries of the
+customers to remove fears. 31 editors of media were met in person by
+
+officials of Cadbury to answer their queries in one-to one. “Facts about
+--- page 8 ---
+Cadbury” ads were published around 55 publications in 11 languages.
+Toll-free numbers and email ids were made available to consumers to
+know queries. To give emotional support to employees ‘town hall meeting
+were conducted. Audio-visual messages were released to boost the
+confidence of sales persons. Media played a key role in restoring
+confidence in Cadbury brand. Cadbury launched a targeted and persuasive
+advertisement campaign on consumers to rebuild credibility of Cadbury
+among important stakeholders of the company. Cadbury imported a
+machinery from abroad for packaging. Which is tamper proof. The same
+was conveyed to the customers through mass media. The outcome:
+Cadbury through its media campaign tried to convince the public, that
+infestation, was due to storage problem and not manufacturing defect or
+packaging.
+
+N.B. This case is taken from a public source.
+
+Reference:
+
+http://www. ijirset.com/upload/2021/july/322 Case%20 NC.pdf
+
+Q7
+
+CO-8: Draft a blog/article on “Impact of Artificial Intelligence on Business (20)
+SO-3&7; Communication.”.
 
 BL-6
 ````

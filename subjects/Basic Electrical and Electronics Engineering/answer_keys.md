@@ -654,6 +654,7 @@ FIR 7 2K
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_AIML_7053/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (12 pages), mean OCR confidence 65.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -936,7 +937,6 @@ y
 
 wanna nanan (2 marks)
 
-ARR RR AK 1D RR RR RK
 ````
 
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 3de33fae3384
@@ -946,6 +946,7 @@ ARR RR AK 1D RR RR RK
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_CSBS_7036/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026_3de33fae33.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (12 pages), mean OCR confidence 65.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1228,7 +1229,6 @@ y
 
 wanna nanan (2 marks)
 
-ARR RR AK 1D RR RR RK
 ````
 
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 82a600883fee
@@ -1238,6 +1238,7 @@ ARR RR AK 1D RR RR RK
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_EXTC_7006/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026_82a600883f.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (12 pages), mean OCR confidence 65.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1520,7 +1521,6 @@ y
 
 wanna nanan (2 marks)
 
-ARR RR AK 1D RR RR RK
 ````
 
 ## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 4560aa4a12a7
@@ -1965,6 +1965,8 @@ A GK GRR RAK KR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_AIDS_7056/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2224,7 +2226,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 753640be5c11
@@ -2241,6 +2242,8 @@ AR GK |] RR RR RR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_AI_7012/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2500,7 +2503,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 0ff0bdb42cc3
@@ -2510,6 +2512,8 @@ AR GK |] RR RR RR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_CSBS_7036/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2769,7 +2773,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 0d8f5bd3bd35
@@ -2790,6 +2793,8 @@ AR GK |] RR RR RR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_CS_7055/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3049,7 +3054,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 9e744d68cdb6
@@ -3059,6 +3063,8 @@ AR GK |] RR RR RR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_CyberSecurity_7010/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3318,7 +3324,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 7d35989e415c
@@ -3328,6 +3333,8 @@ AR GK |] RR RR RR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_DS_7009/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3587,7 +3594,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 893d50087fce
@@ -3597,6 +3603,8 @@ AR GK |] RR RR RR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_EXTC_7006/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3856,7 +3864,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 127d1134c636
@@ -3866,6 +3873,8 @@ AR GK |] RR RR RR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_IT_7001/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4125,7 +4134,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 6438cef5babc
@@ -4142,6 +4150,8 @@ AR GK |] RR RR RR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/MBATech_AI_7051/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4401,7 +4411,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper fc9a7641f214
@@ -4411,6 +4420,8 @@ AR GK |] RR RR RR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/MBATech_DS_7052/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4670,7 +4681,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 3556a4ce53f0
@@ -4680,6 +4690,8 @@ AR GK |] RR RR RR
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/MBATech_IT_7041/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4939,7 +4951,6 @@ Implementation
 --- page 11 ---
 A —
 
-AR GK |] RR RR RR
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 3dfda499698d
@@ -5761,6 +5772,7 @@ ARR AK 7] 6 RK RK KK
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_AIML_7053/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -5904,11 +5916,9 @@ Relation between phase and line voltages and phase and line currents in star
 connections
 Since the system is balanced the three phase voltage VAN , VYN, VBN are equal in
 magnitude and differ in phase from one another by 120 degree
-Let, VRN=VYN=VBNE= VPh and
 
 IR=I¥=IB=iL,
 
-IRN=IYN=IBN=lph and
 
 VRY=VY8=VBR=VL
 
@@ -6125,6 +6135,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_AI_7012/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -6268,11 +6279,9 @@ Relation between phase and line voltages and phase and line currents in star
 connections
 Since the system is balanced the three phase voltage VAN , VYN, VBN are equal in
 magnitude and differ in phase from one another by 120 degree
-Let, VRN=VYN=VBNE= VPh and
 
 IR=I¥=IB=iL,
 
-IRN=IYN=IBN=lph and
 
 VRY=VY8=VBR=VL
 
@@ -6790,6 +6799,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CSE_DS_7057/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -6933,11 +6943,9 @@ Relation between phase and line voltages and phase and line currents in star
 connections
 Since the system is balanced the three phase voltage VAN , VYN, VBN are equal in
 magnitude and differ in phase from one another by 120 degree
-Let, VRN=VYN=VBNE= VPh and
 
 IR=I¥=IB=iL,
 
-IRN=IYN=IBN=lph and
 
 VRY=VY8=VBR=VL
 
@@ -7154,6 +7162,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_Civil_7005/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -7297,11 +7306,9 @@ Relation between phase and line voltages and phase and line currents in star
 connections
 Since the system is balanced the three phase voltage VAN , VYN, VBN are equal in
 magnitude and differ in phase from one another by 120 degree
-Let, VRN=VYN=VBNE= VPh and
 
 IR=I¥=IB=iL,
 
-IRN=IYN=IBN=lph and
 
 VRY=VY8=VBR=VL
 
@@ -7518,6 +7525,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_Mechanical_7003/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -7661,11 +7669,9 @@ Relation between phase and line voltages and phase and line currents in star
 connections
 Since the system is balanced the three phase voltage VAN , VYN, VBN are equal in
 magnitude and differ in phase from one another by 120 degree
-Let, VRN=VYN=VBNE= VPh and
 
 IR=I¥=IB=iL,
 
-IRN=IYN=IBN=lph and
 
 VRY=VY8=VBR=VL
 
@@ -7882,6 +7888,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_AI_7051/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -8025,11 +8032,9 @@ Relation between phase and line voltages and phase and line currents in star
 connections
 Since the system is balanced the three phase voltage VAN , VYN, VBN are equal in
 magnitude and differ in phase from one another by 120 degree
-Let, VRN=VYN=VBNE= VPh and
 
 IR=I¥=IB=iL,
 
-IRN=IYN=IBN=lph and
 
 VRY=VY8=VBR=VL
 
@@ -8246,6 +8251,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_Computer_7047/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -8389,11 +8395,9 @@ Relation between phase and line voltages and phase and line currents in star
 connections
 Since the system is balanced the three phase voltage VAN , VYN, VBN are equal in
 magnitude and differ in phase from one another by 120 degree
-Let, VRN=VYN=VBNE= VPh and
 
 IR=I¥=IB=iL,
 
-IRN=IYN=IBN=lph and
 
 VRY=VY8=VBR=VL
 
@@ -8610,6 +8614,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_DS_7052/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -8753,11 +8758,9 @@ Relation between phase and line voltages and phase and line currents in star
 connections
 Since the system is balanced the three phase voltage VAN , VYN, VBN are equal in
 magnitude and differ in phase from one another by 120 degree
-Let, VRN=VYN=VBNE= VPh and
 
 IR=I¥=IB=iL,
 
-IRN=IYN=IBN=lph and
 
 VRY=VY8=VBR=VL
 
@@ -8974,6 +8977,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_IT_7041/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -9117,11 +9121,9 @@ Relation between phase and line voltages and phase and line currents in star
 connections
 Since the system is balanced the three phase voltage VAN , VYN, VBN are equal in
 magnitude and differ in phase from one another by 120 degree
-Let, VRN=VYN=VBNE= VPh and
 
 IR=I¥=IB=iL,
 
-IRN=IYN=IBN=lph and
 
 VRY=VY8=VBR=VL
 
@@ -11459,6 +11461,7 @@ Simplification 3M Diagram 2M
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CSE_DS_7057/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Mar 2025
 - Text: mixed (18 pages), mean OCR confidence 78.2
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -11611,7 +11614,6 @@ Impedance and phase difference
 Page 7 of 18
 --- page 8 ---
 1
-Z= JR4Xp=VR+0°L z= VR + XC = |R 4S
 |
 
 se (Boe vm em
@@ -11644,7 +11646,6 @@ behind the voltage by an angle @.
 In case of an R-C series circuit, the power factor is leading in nature since the current
 leads the voltage by an angle @.
 
-a) “Die imeagpeeciamwuee: «of thee cireiuit is
 
 <= = 10
 Ne — Sa fh = 2n = SO = 1G = 107-7 = 5_0oO25?
@@ -11664,7 +11665,6 @@ r= Ye 100
 = 19.03
 
 — 6.255
-fii) Peoewser feeect«r «of thee circuit
 
 Fz 10 ee
 ee =— 2 ~ Tteos — 0-325
@@ -11750,9 +11750,7 @@ the signal from analog to digital
 10
 Page 11 of 18
 --- page 12 ---
-Pos Shabement Th @ Vinear bilabral resiskive oelwoork
 coolant too Oh Mone en Tources , the
-pesu)h podcnha) Ailverences on current pr
 Yhok element Produced eady Source acho
 alone wilh al) obber io ependenk ideal vo) 0
 
@@ -11763,7 +11761,6 @@ id 24 1o 22
 Ex
 \2S- 0° SS Aay
 6ov ;
-SrepL ' Shorr ABN source
 24 DL
 Sy Te 10 SL ts
 [ar

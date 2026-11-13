@@ -349,13 +349,14 @@ Total
 Say
 ````
 
-## 2017 · Exam not stated · Trim 2 · paper 92b6f30200fe
+## 2017-18 · Exam not stated · Trim 2 · paper 92b6f30200fe
 
 - Departments: Real Estate and Construction Management
 - Programmes: PGDM (Real Estate Construction AND Management)
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/1st YEAR/TRIM II/Building Byelaws & Statutory Approvals/BUILDING BYELAWS & STATUTORY APPORVALS BATCH 2017--20180001.pdf`
 - Printed on paper: max marks: 70
 - Text: ocr (13 pages), mean OCR confidence 62.6
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -550,7 +551,6 @@ Do as directed in each of attached sketches. (Each sub-question carries 2 marks)
 --- page 5 ---
 OPEN SPACES. FOR BLDG. WITH WIN
 
-BC Reg. Ng BE EY Pe ee Ce 2
 
 a.) Wing wise open space cee
 
@@ -584,7 +584,6 @@ Se5 he 4 kK ves, accessable from. sides or rear
 oro I as. the cose may be.
 aim 1.8 M PASS. ©)
 Obs ana J I ; Q-T —Rude darren s0d s
-6 Aveaof Oe prinition Drea of che
 gy Ody ret 6) min
 “8 aes Par “I 5 . i
 : suop |} sHop |] suop || stop |) si Prnge- fo & MW
@@ -625,7 +624,6 @@ mes D1]
 L -
 Pee aes x id ; epee Qe TW.
 aaa pe t Es & tae te hee
-a © min Suburbs ‘ wae werTe oF}
 mt ‘ : : :
 
 case hey
@@ -657,7 +655,6 @@ i |
 |
 I I] / ]
 Note: Mim. area of opening to be i
-/ sq.m. for ony habitable rm. . PS ae conse vw |
 i
 
 du prow pO .
@@ -724,7 +721,6 @@ PEERS
 | ZY
 . CF 6/3 i
 ‘ t Nin. hetght of tower i Wes is i af ef tower
-; Hf Uke ae fo bet Lae ‘Pefho hale *
 i Hike oer | ee 4 tA ZY “broader
 1 7
 i wa \LAZ = ln, XHt | Terrace) VAG if = lin. XH
@@ -786,7 +782,6 @@ ds slave
 ROAD. OR. SIDE 0.5. | ROAD
 |
 +(€
-Parapet wate 1 Parapet vati-l] =a
 i i I: =,
 @ : aad
 Sate
@@ -852,6 +847,7 @@ nl
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/1st YEAR/TRIM II/Building Byelaws & Statutory Approvals/BULIDING BYELAWS AND STATUTORY APPORVALS 2017-180001.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 15 February 2018
 - Text: ocr (15 pages), mean OCR confidence 60.2
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a/ oe:
@@ -1091,7 +1087,6 @@ fe “ods a |
 
 : ; nat ae Gil th Bla nbs: |
 Se RaG oe I
-om oe bf tea ie eee a eR ee 4
 
 ROAD:
 
@@ -1103,7 +1098,6 @@ Road per of plot area (OC) [
 
 RG. er ~ we
 
-ieee 5 & = jxicb) 5000. SQM to 10000 SQM 9s
 
 2 ; Located roné of more sincde with
 8 Prop. atleast. 45» sq.m at one place. = :
@@ -1135,12 +1129,10 @@ a Bs gn FL
 
 ~ BUILDING -
 
-Opies Getaue Mie Hype of charekure
 
 &
 
 ‘BUILT OVER-ARCH a |
-(IDE. Regs No. 22..(4) : ¥ ; Vea ole. ane
 
 Portiully built up plot with boionce. | = |
 
@@ -1153,7 +1145,6 @@ a |
 
 m Arch
 
-os [e Building © | Butging Bulding T Bete
 ‘e La = : lal 9
 Taccess :
 
@@ -1308,7 +1299,6 @@ oo
 ins. for wb
 eee . e-
 ' = Note: 3 @Q)-
-A.= Type Bldgs :- Residential, Educdtiondl, JastituUonal: & Hozordious occupancies
 _ B= Type Bldgs = deren Business, Mercantile, Industrial ‘ond Storage Bigs.
 fee : ; a :
 eB
@@ -1453,6 +1443,7 @@ B/S
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/1st YEAR/TRIM II/Building Byelaws & Statutory Approvals/BUILDING BYELAWS AND STATUTORY APPROVALS BATCH 2016-20170001.pdf`
 - Printed on paper: max marks: 70; exam date: 12 July 2017
 - Text: ocr (18 pages), mean OCR confidence 60.8
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ~ | SVIKIV?S NMIMS
@@ -1712,7 +1703,6 @@ Su
 ROAD [| i smut ; STILT
 SECTION 1-7 SECTION 2-2
 NOTE: Director-E & SP.S. may permit ferger +. in case of
-sHALsteR Residentiai hotels, & educational, pubdiic,merchantile bidgs. etc.
 Name pevl maveed A’,
 
 6 lig
@@ -1765,7 +1755,6 @@ BEIGE.
 
 =
 
-s Re ae aa Bs f ‘ to ’ ef q
 2 Si Reg. He. SS 3 Fabia (19) p.47 . Sate No- &
 
 r Residential_and Commercial
@@ -1874,7 +1863,6 @@ BHALDCR . | Rg
 
 TRAVEL DISTANCES FROM EXITS 7STAIRCASKS
 
-D. C. Reg. No. 43 (2) (i) (i & fi) -
 
 “RK
 for A type “a= M for A tye Bigs, == M for A type
@@ -1977,7 +1965,6 @@ as oe meg be do Metres
 
 ; a
 sa aiadn ° =. qn2 . asthe o P
-Nev ie Fey ples Su bulss ze)
 7 . een weaulyes
 e 245 WEEE
 a
@@ -2090,7 +2077,6 @@ ROAD
 
 FRONT. SIDE & REAR OPEN SPACES
 
-As per D. C. Reg. No. 29 (1) (a).
 
 REGULAR OPEN SPACE
 
@@ -2131,6 +2117,7 @@ il im Sgen $ pec
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/1st YEAR/TRIM II/Building Byelaws & Statutory Approvals/Building Byelaws & Statutory Approvals Batch 2016-17 Fin0001.pdf`
 - Printed on paper: max marks: 70; duration hours: 3
 - Text: ocr (18 pages), mean OCR confidence 65.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2363,7 +2350,6 @@ ROAD OR SIDE 0.S. i ROAD
 at A
 A |
 r, 5
-Perspet wal ¢ 23m Parapet weit] f2sm
 . . as
 15m i
 ROAD |] “4 |) STILT 1 . STILT
@@ -2485,7 +2471,6 @@ Sketeb Ne ¥
 
 TRAVEL DISTANCES FROM EXITS /STAIRGASES
 
-D. C. Reg. No. 43 (2) (i) (i & fi)
 
 -—— M for A type
 
@@ -2620,7 +2605,6 @@ i . f
 
 b Gs Be Mivs bse fe mes.
 
-: — Netes- Fer pled in subuibé Fill in blanks fe
 3 : open Spaces we qulves
 ‘ — 210
 
@@ -2676,7 +2660,6 @@ increased perpendicular io the bldg.
 SKETCH Ne. IZ
 FRONT, SIDE & REAR OPEN SPACES |
 
-As per D. C. Reg. No. 29 (1) (a)
 
 REGULAR OPEN SPACE ~_77 Gin Suslaetes)
 
@@ -2713,7 +2696,6 @@ fa?
 
 FRONT, SIDE & REAR OPEN SPACES
 
-As per D. C. Reg. No. 29 (1) (a)
 
 REGULAR OPEN SPACE
 Example i: Minimum open%spaces — 4.5 m Front (in Sule} ~ 3.0m {in City
@@ -2757,6 +2739,7 @@ igh
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/1st YEAR/TRIM II/Building Byelaws & Statutory Approvals/Building Byelaws & Statutory Approvals Batch 2015-16 Re0001.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 13-July-16
 - Text: ocr (8 pages), mean OCR confidence 69.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS pees
@@ -3003,7 +2986,6 @@ i \ peered
 
 i ee
 
-evnaiemincer verenen rt mmanenimeraritmnectomna net
 
 x Kaige open s pace
 
@@ -3058,7 +3040,6 @@ SPACE
 
 As per B.C. Reg. Ro. 2G
 
-TLedew tify Pre pection.
 
 é [é
 
@@ -3126,6 +3107,7 @@ e/¢
 - Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/1st YEAR/TRIM II/Building Byelaws & Statutory Approvals/Building byelaws & Statutory Approvals Batch 2015-16 Fin0001.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 31st March 2016
 - Text: ocr (8 pages), mean OCR confidence 69.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Bg
@@ -3400,7 +3382,6 @@ Minnie cry "O Ben $ gece
 
 PROPOSED PROPOSED
 
-BLDG BLAG. feem internet
 . i " RCCess vreoad.
 i
 i H
@@ -3456,7 +3437,6 @@ rie }
 8 nee
 a
 
-pearpetig nageere nes se ane i, eee
 
 4 . |
 HH

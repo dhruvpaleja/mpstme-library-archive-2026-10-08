@@ -1,8 +1,228 @@
 # Operations Research: question papers in full
 
-100 unique papers · 2006-07 to 2025-26 · Computer Engineering, Computer Applications (MCA), Mechanical, Information Technology, Chemical, Computer Science and Business Systems, Mechatronics, Data Science, Civil, Common (all branches)
+101 unique papers · 2006-07 to 2025-26 · Computer Applications (MCA), Computer Engineering, Mechanical, Information Technology, Chemical, Computer Science and Business Systems, Mechatronics, Data Science, Civil, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 5 · paper 37362365c825
+
+- Departments: Computer Engineering
+- Programmes: BTech Computer 7002, Integrated Computer 7032
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Operations Research/QP_Operations Research(702CO0E003)_2024-2025.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
+- Text: text (6 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech Intg. (CE)
+Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
+Subject: Operations Research
+Date: 02 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 6 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Part A is compulsory.
+5. In Part B, Attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+Part A. Answer the following Questions   20
+a. Explain the steps involved in the Operations Research approach to solving
+CO-1, SO- a problem. Why model formulation is considered a crucial phase?   05
+1, BL-2
+b. Find the optimal assignment of Jobs to the office staff and the cost   05
+CO-2, SO- associated with it for the following cost matrix:
+1, BL-3
+Office Staff
+A   B   C
+J1   12   6   9
+Jobs
+J2   10   17   5
+J3   11   14   16
+c. A company management and the labour union are negotiating a new three-   05
+CO-4, SO- year settlement. Each of these has 4 strategies. The pay-off against each
+1, BL-3 strategy is given below:
+Union \   CI   CII   CIII   CIV
+Company
+UI   7   12   5   8
+UII   6   4   3   2
+UIII   9   9   9   9
+UIV   0   1   -1   2
+What strategy will the two sides adopt? Also, determine the value of the
+game.
+d. Using the concept of random number generation, demonstrate how you   05
+CO-3, SO- would simulate daily demand for a certain item in a shop. Explain the steps
+1, BL-2 involved.
+********** 1 **********
+--- page 2 ---
+Part B. (Attempt Any 4)   80
+1   20
+a. Solve the following LPP using the Simplex Method:
+Maximize Z=6 X1+2 X2
+Subject to:
+CO-1, SO-
+2 X1+ X2≤1000   12
+1, BL-3
+X1≤400
+X2≤700
+X1, X2≥0
+b. A researcher is coordinating the preparation and publication of a new
+manuscript. The tasks, their dependencies, and estimated durations are as
+follows
+Activity   Description   Immediate   Duratio
+Predecessors n (days)
+A   Complete Manuscript Draft   —   5
+B   Submit to Editor and Format   A   6
+CO-3, SO-   Chapters
+C   Professional Technical Review   B   4   08
+1, BL-3
+(Content/Accuracy Check)
+D   Design Cover and   Interior   B   5
+Layout (Visuals)
+E   Final Manuscript Corrections   C   3
+F   Final Layout Approval   D   2
+G   Send Final Files to Printer   E, F   4
+• Draw the Network Diagram. Also, discuss the factors a project
+manager must consider before crashing activities.
+2   20
+a. A company has three warehouses that supply three retail stores. The unit
+transportation costs, supplies, and demands are as follows:
+S1   S2   S3   Supply
+W1   4   6   8   30
+CO-2, SO-   W2   2   5   7   40
+W3   3   4   6   30   12
+1, BL-3   Demand   20   50   30
+• Find the initial basic feasible solution using the Least Cost Method
+(LCM).
+• Check if the solution is optimal.
+********** 2 **********
+--- page 3 ---
+b. A team is organizing a training workshop. The events and the activities
+connecting them (with durations) are as follows:
+Description (Event → Event)   Duration
+(days)
+Event 1 → Event 2 (Book venue)   2
+CO-3, SO-   Event 2 → Event 3 (Prepare training materials)   3
+Event 2 → Event 4 (Invite participants)   2   08
+1, BL-3   Event 3 → Event 5 (Finalize agenda)   4
+Event 4 → Event 5 (Confirm participants)   1
+Event 5 → Event 6 (Conduct training workshop)   1
+• Draw the network diagram using event-on-node representation.
+•   Identify the critical path and minimum project duration.
+• Calculate slack for each event.
+3   20
+a. Two competing companies, Company 1 (Player A) and Company 2 (Player
+B), are deciding on marketing strategies for a new product. Player A
+strategies are S1, S2, S3, S4, while Player B strategies are T1, T2, T3, T4.
+• Determine the optimal strategies for both players.
+• Calculate the value of the game.
+CO-4, SO-   The payoff matrix (profits in ₹ 1000s for Player A) is as follows:   12
+1, BL-3
+T1 T2 T3 T4
+S1   3   1   2   4
+S2   2   2   3   3
+S3   5   3   2   2
+S4   4   4   2   3
+b. A workshop has 5 jobs (A, B, C, D, E) to be processed on Machine X first
+and then on Machine Y. Processing times (in hours) are given below:
+Job   X   Y
+A   3   7
+B   8   4
+CO-3, SO-   C   5   6
+08
+1, BL-3   D   2   5
+E   6   3
+• Find the job sequence that minimizes the total completion time using
+Johnson’s Rule.
+• Compute the total duration required to complete the jobs for this
+optimal sequence.
+********** 3 **********
+--- page 4 ---
+4   20
+a. Solve the following problem without using the graphical method:
+Maximize Z=40X1+50X2
+Constraints:
+CO-1, SO-
+2X1+X2≤100   12
+1, BL-3
+X1+2X2≤80
+X1≥10
+X1, X2≥0
+b. A company has 5 machines (M1–M5) and 5 jobs (J1–J5). The processing
+times (in hours) are given below. Some assignments are not allowed,
+indicated by ∞ (infinity):
+J1   J2   J3   J4   J5
+M1   9   ∞   7   6   8
+CO-2, SO-   M2   ∞   8   5   ∞   7
+08
+1, BL-3   M3   6   7   ∞   8   ∞
+M4   5   6   8   ∞   9
+M5   7   ∞   6   9   5
+• Assign jobs to machines to minimize total processing time,
+respecting the prohibited routes.
+• Find the minimum total processing time.
+5   20
+a.   Solve the following problem using the Gomory Cut Method:
+Max Z = 2X1 + X2
+subject to
+3 X1 + 2 X2 ≤ 5
+X1 + X2 ≤ 2 and X1, X2 ≥ 0 and are integers.
+The non-integer solution obtained by considering the problem as an LPP is:
+CO-1, SO-
+12
+1, BL-3   2   1   0   0
+CB   B   X1   X2   S1   S2   XB
+2   X1   1   0.6667   0.3333   0   1.6667
+0   S2   0   0.3333   -0.3333   1   0.3333
+Zj   2   1.3333   0.6667   0   Z=3.33
+Cj-Zj   0   -0.3333   -0.6667   0
+********** 4 **********
+--- page 5 ---
+b.   For the given network diagram, determine the critical path and expected
+project duration.
+CO-3, SO-
+08
+1, BL-3
+The time estimates are as follows:
+Time Type   A B C D E F G H   I   J
+Optimistic Time   6   3   4   2   3   4   3   6   5   3
+Most Likely   7   5   7   3   4   8   3   6   8   3
+Time
+Pessimistic   8   7 10   4 11 12   9 12 11   9
+Time
+6   20
+a.   A company produces two products using limited resources. The sensitivity
+report shows that the shadow price of a particular resource is positive.
+Explain how the company can use this information to decide whether to
+increase the availability of that resource and estimate the potential impact
+CO-1, SO-   on the total profit. Also, write the dual to the following LP problem.
+08
+1, BL-3   Maximize Z = x1 – x2 + x3
+Subject to the constraints
+x1 + x2 ≤ 10,
+2x1 – x2 – x3 ≤ 2,
+2x1 – 2x2 – 3x3 ≤ 6 and   x1, x2, x3 ≥ 0
+b.   Use the branch and bound method and solve four sub-problems after the
+initial level of the following integer programming problem:
+Minimize Z = -2x1 - 3x2
+CO-1, SO-
+subject to the constraints   08
+1, BL-3
+(i)   6x1 + 5x2 ≤ 25,
+(ii)   x1 + 3x2 ≤ 10
+x1, x2 ≥ 0 and are integers.
+********** 5 **********
+--- page 6 ---
+c.   Explain the difference between a maximization and a minimization
+CO-2, SO-
+assignment problem. How does the nature of the problem affect the   04
+1, BL-2
+approach to finding the optimal assignment? Show using a small example.
+********** 6 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 4 · paper 2cd27e93e376
 
@@ -414,6 +634,7 @@ iv.   Probability of More Than Two Customers in the System
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/OPERATIONS RESEARCH/Operations Research 2025-26 Final.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: ocr (6 pages), mean OCR confidence 83.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “
@@ -543,7 +764,6 @@ i e Find the initial basic feasible solution using the Least Cost Method
 
 e Check if the solution is optimal.
 
-Sa 2 a kok ok ak ok
 --- page 3 ---
 b. | A team is organizing a training workshop. The events and the activities
 
@@ -622,7 +842,6 @@ subject to
 Xi + X2 <2 and X, Xo >0 and are integers.
 CO-1, $0- The non-integer solution obtained by considering the problem as an LPP is:
 1, BL-3 2 I 0 0
-CB} B |X Xo Sl S2 XB
 2 Xi 1 0.6667 0.3333 0 1.6667
 0 S2 0 0.3333 -0.3333 1 0.3333
 Zj 2 1.3333 0.6667 0 Z=3,.33
@@ -1645,226 +1864,6 @@ ps
 6
 ````
 
-## 2024-25 · Final-Exam · Sem 5 · paper 37362365c825
-
-- Departments: Computer Engineering
-- Programmes: BTech Computer 7002, Integrated Computer 7032
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Operations Research/QP_Operations Research(702CO0E003)_2024-2025.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
-- Text: text (6 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech Intg. (CE)
-Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
-Subject: Operations Research
-Date: 02 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 6 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Part A is compulsory.
-5. In Part B, Attempt any 4 questions.
-6. All questions carry equal marks.
-7. Assume Suitable data if necessary.
-Part A. Answer the following Questions   20
-a. Explain the steps involved in the Operations Research approach to solving
-CO-1, SO- a problem. Why model formulation is considered a crucial phase?   05
-1, BL-2
-b. Find the optimal assignment of Jobs to the office staff and the cost   05
-CO-2, SO- associated with it for the following cost matrix:
-1, BL-3
-Office Staff
-A   B   C
-J1   12   6   9
-Jobs
-J2   10   17   5
-J3   11   14   16
-c. A company management and the labour union are negotiating a new three-   05
-CO-4, SO- year settlement. Each of these has 4 strategies. The pay-off against each
-1, BL-3 strategy is given below:
-Union \   CI   CII   CIII   CIV
-Company
-UI   7   12   5   8
-UII   6   4   3   2
-UIII   9   9   9   9
-UIV   0   1   -1   2
-What strategy will the two sides adopt? Also, determine the value of the
-game.
-d. Using the concept of random number generation, demonstrate how you   05
-CO-3, SO- would simulate daily demand for a certain item in a shop. Explain the steps
-1, BL-2 involved.
-********** 1 **********
---- page 2 ---
-Part B. (Attempt Any 4)   80
-1   20
-a. Solve the following LPP using the Simplex Method:
-Maximize Z=6 X1+2 X2
-Subject to:
-CO-1, SO-
-2 X1+ X2≤1000   12
-1, BL-3
-X1≤400
-X2≤700
-X1, X2≥0
-b. A researcher is coordinating the preparation and publication of a new
-manuscript. The tasks, their dependencies, and estimated durations are as
-follows
-Activity   Description   Immediate   Duratio
-Predecessors n (days)
-A   Complete Manuscript Draft   —   5
-B   Submit to Editor and Format   A   6
-CO-3, SO-   Chapters
-C   Professional Technical Review   B   4   08
-1, BL-3
-(Content/Accuracy Check)
-D   Design Cover and   Interior   B   5
-Layout (Visuals)
-E   Final Manuscript Corrections   C   3
-F   Final Layout Approval   D   2
-G   Send Final Files to Printer   E, F   4
-• Draw the Network Diagram. Also, discuss the factors a project
-manager must consider before crashing activities.
-2   20
-a. A company has three warehouses that supply three retail stores. The unit
-transportation costs, supplies, and demands are as follows:
-S1   S2   S3   Supply
-W1   4   6   8   30
-CO-2, SO-   W2   2   5   7   40
-W3   3   4   6   30   12
-1, BL-3   Demand   20   50   30
-• Find the initial basic feasible solution using the Least Cost Method
-(LCM).
-• Check if the solution is optimal.
-********** 2 **********
---- page 3 ---
-b. A team is organizing a training workshop. The events and the activities
-connecting them (with durations) are as follows:
-Description (Event → Event)   Duration
-(days)
-Event 1 → Event 2 (Book venue)   2
-CO-3, SO-   Event 2 → Event 3 (Prepare training materials)   3
-Event 2 → Event 4 (Invite participants)   2   08
-1, BL-3   Event 3 → Event 5 (Finalize agenda)   4
-Event 4 → Event 5 (Confirm participants)   1
-Event 5 → Event 6 (Conduct training workshop)   1
-• Draw the network diagram using event-on-node representation.
-•   Identify the critical path and minimum project duration.
-• Calculate slack for each event.
-3   20
-a. Two competing companies, Company 1 (Player A) and Company 2 (Player
-B), are deciding on marketing strategies for a new product. Player A
-strategies are S1, S2, S3, S4, while Player B strategies are T1, T2, T3, T4.
-• Determine the optimal strategies for both players.
-• Calculate the value of the game.
-CO-4, SO-   The payoff matrix (profits in ₹ 1000s for Player A) is as follows:   12
-1, BL-3
-T1 T2 T3 T4
-S1   3   1   2   4
-S2   2   2   3   3
-S3   5   3   2   2
-S4   4   4   2   3
-b. A workshop has 5 jobs (A, B, C, D, E) to be processed on Machine X first
-and then on Machine Y. Processing times (in hours) are given below:
-Job   X   Y
-A   3   7
-B   8   4
-CO-3, SO-   C   5   6
-08
-1, BL-3   D   2   5
-E   6   3
-• Find the job sequence that minimizes the total completion time using
-Johnson’s Rule.
-• Compute the total duration required to complete the jobs for this
-optimal sequence.
-********** 3 **********
---- page 4 ---
-4   20
-a. Solve the following problem without using the graphical method:
-Maximize Z=40X1+50X2
-Constraints:
-CO-1, SO-
-2X1+X2≤100   12
-1, BL-3
-X1+2X2≤80
-X1≥10
-X1, X2≥0
-b. A company has 5 machines (M1–M5) and 5 jobs (J1–J5). The processing
-times (in hours) are given below. Some assignments are not allowed,
-indicated by ∞ (infinity):
-J1   J2   J3   J4   J5
-M1   9   ∞   7   6   8
-CO-2, SO-   M2   ∞   8   5   ∞   7
-08
-1, BL-3   M3   6   7   ∞   8   ∞
-M4   5   6   8   ∞   9
-M5   7   ∞   6   9   5
-• Assign jobs to machines to minimize total processing time,
-respecting the prohibited routes.
-• Find the minimum total processing time.
-5   20
-a.   Solve the following problem using the Gomory Cut Method:
-Max Z = 2X1 + X2
-subject to
-3 X1 + 2 X2 ≤ 5
-X1 + X2 ≤ 2 and X1, X2 ≥ 0 and are integers.
-The non-integer solution obtained by considering the problem as an LPP is:
-CO-1, SO-
-12
-1, BL-3   2   1   0   0
-CB   B   X1   X2   S1   S2   XB
-2   X1   1   0.6667   0.3333   0   1.6667
-0   S2   0   0.3333   -0.3333   1   0.3333
-Zj   2   1.3333   0.6667   0   Z=3.33
-Cj-Zj   0   -0.3333   -0.6667   0
-********** 4 **********
---- page 5 ---
-b.   For the given network diagram, determine the critical path and expected
-project duration.
-CO-3, SO-
-08
-1, BL-3
-The time estimates are as follows:
-Time Type   A B C D E F G H   I   J
-Optimistic Time   6   3   4   2   3   4   3   6   5   3
-Most Likely   7   5   7   3   4   8   3   6   8   3
-Time
-Pessimistic   8   7 10   4 11 12   9 12 11   9
-Time
-6   20
-a.   A company produces two products using limited resources. The sensitivity
-report shows that the shadow price of a particular resource is positive.
-Explain how the company can use this information to decide whether to
-increase the availability of that resource and estimate the potential impact
-CO-1, SO-   on the total profit. Also, write the dual to the following LP problem.
-08
-1, BL-3   Maximize Z = x1 – x2 + x3
-Subject to the constraints
-x1 + x2 ≤ 10,
-2x1 – x2 – x3 ≤ 2,
-2x1 – 2x2 – 3x3 ≤ 6 and   x1, x2, x3 ≥ 0
-b.   Use the branch and bound method and solve four sub-problems after the
-initial level of the following integer programming problem:
-Minimize Z = -2x1 - 3x2
-CO-1, SO-
-subject to the constraints   08
-1, BL-3
-(i)   6x1 + 5x2 ≤ 25,
-(ii)   x1 + 3x2 ≤ 10
-x1, x2 ≥ 0 and are integers.
-********** 5 **********
---- page 6 ---
-c.   Explain the difference between a maximization and a minimization
-CO-2, SO-
-assignment problem. How does the nature of the problem affect the   04
-1, BL-2
-approach to finding the optimal assignment? Show using a small example.
-********** 6 **********
-````
-
 ## 2024-25 · Final-Exam · Sem 5 · paper c199a979ca1d
 
 - Departments: Computer Engineering
@@ -1872,6 +1871,7 @@ approach to finding the optimal assignment? Show using a small example.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/OPERATIONS RESEARCH/Operations Research Batch 2024-25 Final.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 84.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 OF
@@ -2076,7 +2076,6 @@ BL-2 4x, + 3x2 > 6 .
 X,+2x, <4 -
 Xy,X2 20
 
-He He He He He He He He He He He He He He He He He He ee He He He He He HH KK RE RE REE REK
 
 Page 5 of 5 ,
 ````
@@ -2276,6 +2275,7 @@ ii. Differentiate between PERT and CPM
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/OPERATIONS RESEARCH/Operations Research, 3rd Year, Sem V, Batch 2024-25, Re Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 84.9
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2355,7 +2355,6 @@ estimates that the sales per month (in hundred rupees) for each salesman in each
 district would be as follows:
 
 Districts
-CO-2; A B Cc D E
 SO-1; il 32 38 40 28 40 [10]
 BL-4 2 40 mw 28 21 36
 Salesmen 3 41 ai 33 30 a7,
@@ -2366,7 +2365,6 @@ oe [20
 a. | Solve the following integer programming problem using Gomory cutting plane
 method.
 CO=1; Cj 1 1 0 0
-Cb B Xb Xi X2 Si S2
 eet 1 Xi 1B i 0 1B 283 [10]
 BL-2 1 Xo 2 0 1 0 1
 X; and X are integers
@@ -2460,7 +2458,6 @@ a. | Suppose that there are five jobs, each of which has to be processed on two
 machines MI and M2 in the order M1-M2. Processing times are given in the
 following table:
 
-oan [Job reas 4 5 nity
 BL-2 Mi(ir) | 6] 2 10 4 1
 M2(hr) [3] 7 8 9 5
 
@@ -2478,11 +2475,484 @@ BL-2 2x1 + x2 > 10
 xX, +x%2>6
 X4,X2 20
 
-JORSISCISIIOC CI IO CIC IIA SOIC IE ICIS a Tei ide eek ede seek
 
 Page 5 of 5
 --- page 6 ---
 
+````
+
+## 2024-25 · Re-Exam · Sem 10 · paper d386c0213649
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/OPERATIONS RESEARCH/Operations Research Batch 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 87.3
+
+````text
+va
+
+|
+Ao)
+=z
+SVKM’S NMIMS :
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program: B.Tech Integrated Year: V Semester: X
+Stream : Mechanical Engineering
+Subject: Operations Research Time: 3 hrs (2:00pmto S:00pro)
+Date:_28 / 04 / 2025 No. of Pages: 02,
+Marks: 100
+Re-Exam — . ma eS oe P
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1. Answer briefly: % [4 x 5=20]
+COl1, SO-1, a Define Operations Research and explain its limitations. 4
+BL-2
+CO3, SO-1, b_ Differentiate between the Simplex Method and the Big M Method. . 4
+BL-2 :
+C04, SO-1, ¢ What is degeneracy in an Assignment Problem, and how is it resolved? 4
+BL-2
+COS, SO-1,5, d Define pure strategies and mixed strategies in Game Theory with an 4
+BL-2
+example.
+CO3, SO-5 e What is Sensitivity Analysis in Linear Programming, and why is it 4
+BL3 important? ;
+CO-2,5,SO- _2.(a) Explain the structure of a mathematical model in Operations Research 10
+1,2, BL-4 with suitable examples. Also, discuss its limitations and how they affect
+real-world applications.
+CO-2,6,SO- _2.(b) Solve the following LPP using the Simplex Method. 10
+
+1,2, BL-3
+--- page 2 ---
+CO-1,6, SO-1
+BL-2
+CO-2,6, SO-2
+BL-5
+
+CO-5,6, SO-1
+BL-2
+
+CO-3,5, SO-2
+BL-4
+
+Maximize Z = 3a; + 5a
+Subject to:
+ty + Qe <6
+3a, + leq < 12
+
+m1,22>0
+
+3..a) Explain Primal-Dual Construction in Linear Programming.
+
+3.(b) Find the initial feasible solution using:
+
+o Northwest Corner Rule
+
+o Least Cost Method
+
+o Vogel’s Approximation Method
+Given the following Transportation Table:
+
+Supply/Demand D1 D2 D3 Supply
+Sl 2 3 4 = 30
+
+$2 5 6 2 40
+
+$3 3 1 7. 20
+Demand 20 30 40
+
+4.(a) Use the table from Question 3 (b) and determine the optimal solution
+using MODI Method
+4.(b) Solve the following Assignment Problem using the Hungarian. Method:
+
+Jobs / Workers wil Ww2 W3 w4
+Jl 10 5 13 15
+J2 3 9 18 6
+33 10 7 2 2
+J4 8 il 5 7
+
+5.(a) Explain Conditional Assignment and its Real-World Applications.
+
+10
+
+10
+
+10
+
+10
+
+10
+--- page 3 ---
+5.(b)
+
+6.(a)
+
+6.(b)
+
+7a)
+
+7.(b)
+
+Solve the following 2xn Game using Graphical Method
+
+kt Bi B2 B3 B4
+Al 4 6 a) 8
+A2 3 5 7 4
+Formulate an LP Model for a Game Theory Problem and Solve using
+Simplex Method.
+
+Compare Single Server (M/M/1) and Multi-Server (M/M/c) Queuing
+Models.
+
+Discuss how Queuing Models are used in Real Life such as Banks,
+Traffic Management, Telecommunications.
+
+What is Erlangian Distribution? Explain its Role in Queuing Analysis.
+
+re
+
+#EREEER of Paper****
+
+~ 10
+
+10
+10
+10
+
+10
+````
+
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 4593451d869f
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATIONS RESEARCH/Operations Research, Sem-IV, Final & Re Exam Batch 2021-22, 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 88.8
+
+````text
+/
+
+SVKM’S NMIMS { 2
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING® AR
+Academic Year: 2023-2024 yi j
+Program: B Tech Stream: Computer Science and Business Systems Year: 2"4 Semesters
+Subject: Operations Research Time: 3 hrs (Jo:00anto 1% 00pm)
+Date:_27 / 04/24 : No. of Pages: 4
+
+Marks: 100
+Final Examination | Re (2021-22|22 -22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+o> 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Briefly explain (20)
+
+CO-3;BL-2 a. A project consists of 12 activities with following predecessors. Draw the project (5)
+network diagram.
+Activity AIBIC |DIE |F{GIH{I u KIL
+Predecessor |- |A;|A |A|B |BJE|{F |G,H|LC,D |D{IJ,K
+CO-1;BL-4 b. The manager of an oil refinery must decide on the optimal mix of two possible (5)
+blending processes of which the input and output per production run are given:
+
+Processes Input (units) Output (units)
+
+Crude A Crude B Gasoline X Gasoline Y
+Process | 5 3 5 8
+Process 2 4 5 4 4
+
+The maximum available amount of crude oil A and B are 200 units and 150
+
+units, respectively. Markets requires at least 100 units of gasoline X and 80
+
+units of gasoline Y must be produced. The profit per production run from
+
+process | and 2 are Rs 300 and Rs 400 respectively. Formulate the LP model.
+CO-3;BL-1 c¢. A service system has an average inter arrival time of 1.5 minutes and an average (5)
+
+service rate of 50 per hour. Find all the queue parameters.
+
+CO-2;BL-3 d. Determine an initial feasible solution and total cost, using least cost cell (5)
+method, to following problem:
+M1 M2 M3 M4 M5 Supply
+Fl 4 2 3 2 6 8
+F2 5 4 5 2 1 12
+F3 6 5 4 7 7 14
+Demand | 4 4 6 8 8
+--- page 2 ---
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024 4
+
+Q A The management of a company is considering marketing of a new product. The
+
+CO-4; BL-2 fixed cost required in the project is Rs 40,000. The selling price, variable cost
+and the sales volume are uncertain. Simulate for 12 months and calculate
+average profit.
+
+Selling Price | Prob | Variable Cost | Prob Sales Prob
+(Rs/Unit) (Rs/Unit) (units)
+
+30 0.2 10 0.3 2000 0.3
+40 0.5 20 0.6 3000 0.3
+50 0.3 30 0.1 5000 0.4
+
+Use following random numbers:
+81 14 67 10 | 39 | 59 12. | 33 21 90 |49 | 71
+32 |46 |25 |40 |68 |66 |79 | 87 55 |3 15 12
+60 | 31 24 =/|2 8 91 64 | 86 | 43 52 | 77 | 38
+
+Q2 B_ Inahospital, patients arrive with an average inter-arrival time of 6 minutes. The
+doctor’s examination time is distributed negative exponentially with an average
+of 3 minutes.
+1) What is the chance that a new patient will straight away see the doctor
+without having to wait?
+2) What percentage of time will the doctor be busy?
+3) Find the average queue length, average number of patients in systems,
+average waiting time of patients in queue and system.
+4) Suppose the hospital management wants to recruit another doctor when
+the average waiting time of an arrival for doctor, exceeds 30 minutes.
+Find how large the new arrival rate should be to justify a second doctor.
+
+CO-3; BL-3
+
+Q3 A steel company is concerned with the problem of distributing imported ore from
+CO-2; BL-4 3 ports to 4 steel mills. The supplies per week of ore arriving at ports, and
+demands per week at steel mills are as follows:
+PORT Capacity (tones) | MILLS Demand (tones)
+A 20 I 10
+B 38 0 18
+Cc 16 Il 22
+IV 24
+
+Transportation cost is Rs 0.2 per ton per Km. The distance between the ports and
+the mills is given below:
+
+I I Ul IV
+
+A 50 60 100 50
+
+B 80 40 70 50
+
+c 90 70 30 50
+Calculate the optimal transportation plan, which will minimize the transportation
+
+cost.
+
+(10)
+
+(10)
+
+(20)
+
+Pon
+--- page 3 ---
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+Q4 For a Project, the activities with their normal and crash time and cost is given (20)
+
+CO-3; BL-4 below. The indirect cost for the project is Rs 900 per day. Determine: 1) The
+minimum project duration in which the project can be completed and the
+corresponding cost of completion?
+
+Activity _| Predecessor | Normal Crash
+
+Time Cost Time Cost
+
+(days) (Rs) (days) (Rs)
+A - 2 750 1 1500
+B - 6 1400 4 2600
+Cc - 3 500 2 1000
+D Cc 5 1000 3 1800
+E A 2 800 2 800
+F B, D,E 4 1000 2 2400
+G Cc 7 1150 6 1450
+
+Qs Solve: (20)
+CO-1; BL-3 Min Z = 2X1 + X2
+
+Subject to
+
+3X1 + X2=3
+
+4X1 + 3X2 >= 6
+
+Ki + 2X2 <=4
+
+Such that
+
+Xi, X2 >= 0
+
+Q6 A Solve graphically: (10)
+CO-1; BL-2 Max Z = 80X1 + 120X2
+
+Subject to
+
+Xi + X2<=9
+
+20X1 + 50X2 <= 360
+
+X1 >= 2
+
+X2>=3
+
+Such that
+
+X1, X2>=0
+--- page 4 ---
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024 ¢
+
+Q6 B_ The marketing director of MNC is faced with a problem of assigning managers
+
+CO-2; BL-3 to different zones. From the experience, he knows that the efficiency percentage
+judged by sales, operating costs, etc., depends on the manager zone
+combination. The efficiency of different managers are given below:
+
+_ Zones
+
+Manager | I Il Il IV Vv VI
+A 73 | 91 87 82 78 80
+B 81 85 69 76 74 85
+Cc 75__| 72 83 84 78 91
+D 93 | 96 86 91 83 82
+E 90 | 91 79 89 69 76
+
+Q7 A Project is represented by following data:
+
+CO-3; BL-4 Activity Predecessor _| To (Days) Tm (Days) Tp (Days)
+A - 6 8 10
+B - 18 20 22
+Cc - 26 33 40
+D A 16 18 20
+E A 15 20 25
+E B 6 9 12
+G Cc 8 10 122
+H D 7 8 9
+I E, F 3 4 5
+
+Determine:
+1) The expected time and variance
+2) The critical path and duration of project
+3) Probability that the project will be completed in 41 days
+4) Probability that the project will be completed in 48 days
+5) The duration of project with 92% chance of completion.
+
+(10)
+
+(20)
+--- page 5 ---
+von
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+(Mumbai Campus)
+Academic Year: 2023-2024
+
+STANDARD NORMAL TABLE (2)
+
+Entries in the table give the area under the curve
+between the mean and z standard deviations above
+the mean. For example, for z= 1.25 the area under
+the curve between the mean (0) and z is 0.3944.
+
+o.00| 0.01] 0.02[ 0.03] 0.04/ 0.05| 0.06] 0.07] 0.08] 0.09
+
+0.0 | 0.0000 0.0040 0.0080 0.0120 0.0160 0.0190 0.0239 0.0279 0.0319 0.0359
+
+0.1 | 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+
+0.2 | 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+
+0.3 | 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+
+0.4 | 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+
+0.5] 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+
+0.6 | 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+
+0.7 | 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+
+0.8 | 0.2881 0.2910 0.2939 0.2969 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+
+0.9 | 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+1.0 | 0.2413 0.3438 0.3461 0.3485 0.3508 0.3513 0.3554 0.3577 0.3529 0.3621
+
+1.1} 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+
+1.2 | 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+
+1.3 | 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162 0.4177
+
+1.4 | 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+
+1.5 | 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
+
+1.6 }.0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
+1.7 | 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
+
+1.8] 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+
+1.9 | 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
+
+2.0 | 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+
+2.1 | 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+
+2.2 | 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+
+2.3 | 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
+2.4 | 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+
+2.5 | 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
+
+2.6 | 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+
+2.7 | 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+
+2.8 | 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
+
+2.9 | 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
+
+3.0 | 0.4987 0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 0.4990
+3.1} 0.4990 0.4991 0.4991 0.4991 0.4992 0.4992 0.4992 0.4992 0.4993 0.4993
+
+3.2 | 0.4993 0.4993 0.4994 0.4994 0.4994 0.4994 0.4994 0.4995 0.4995 0.4995
+
+3.3 | 0.4995 0.4995 0.4995 0.4996 0.4996 0.4996 0.4996 0.4996 0.4996 0.4997
+
+3.4 | 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997. 0.4997 0.4997 0.4997 0.4998
 ````
 
 ## 2023-24 · Final + Re-Exam · Sem 5 · paper 2c278263063b
@@ -3100,6 +3570,325 @@ simplex method, assuming that all produced can be sold?
 ©
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper bdf978ff20a3
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATIONS RESEARCH/Operatons Research, Batch 2021-22 & 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/24
+- Text: ocr (5 pages), mean OCR confidence 89.7
+
+````text
+MPSTME
+SVKM?S NMIMS LIBRARY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
+
+Academic Year: 2023-2024
+
+Program: B Tech Stream: Computer Science and Business Systems Year: 2 Semester?
+
+Subject: Operations Research Time: 3 hrs (400m to_1 pm_)
+Date: 27/06/24. No. of Pages: 5
+
+Marks: 100
+
+Re (2021-22 jp2 -23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+(~ 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Briefly explain : (20)
+
+CO-1;BL-4 a. A company sells two different products A and B, making a profitofRs40 and (5)
+Rs 30 per unit, respectively. They are both produced with help of a common
+production process and are sold in different markets. The production process
+has a total capacity of 30,000 man-hours. It takes three hours to produce a unit
+of A and one hour to produce a unit of B. The company feels that the maximum
+number of units of A that can be sold is 8000 and at least 12000 units of B.
+Formulate the LP model. ;
+
+CO-3;BL-1 b. Customers arrive at a service station managed by single individual at a rate of (5)
+25 per hour. The time required to serve the customer has exponential
+distribution with a mean of 120 seconds. Find all operating characteristics of the
+
+a queuing systems.
+CO-2;BL-3 ec. Determine an initial feasible solution and total cost, using least cost cell (5)
+method, to following transportation cost problem:
+I i Til Supply
+
+A 5 1 7 10
+B 6 4 6 80
+Cc 3 2 5 15
+Demand | 75 20 50
+
+CO-3;BL-2 d. A project consists of 11 activities with following predecessors. Draw the project (5)
+“ . network diagram.
+| Activity AIB{|C |D/JE [F |G{H {I JJ kK
+Predecessor |- |- |- |A |B |B |C |D JE |EF,G H,1
+--- page 2 ---
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+Q A Solve: ; (20)
+CO-1; BL-3 Max Z = 5X1 + 3X2 ;
+
+Subject to
+
+Xi + X2<=2
+
+5X1 + 2X2 <= 10
+
+3X1 + 8X2 <= 12
+
+Such that
+
+Xi, X2>=0
+
+Q3 The products of three plants X, Y, Z are to be transported to four warehouses I, (20)
+CO-2; BL-4 Il, IL and IV. The distance for transportation from plants to warehouses along
+
+with capacities are indicated below. Find the optimal solution and alternative
+
+solution if it exists, for following problem:
+
+I IL Il IV Supply
+
+x 25 17 25 14 300
+
+Y 15 10 18 24 500
+
+Z 16 20 8 13 600
+
+Demand __| 300 300 500 500
+Q4 A Project is represented by following data: (20)
+CO-3; BL-4 Activity | Predecessor | To (days) | Tm (days) | Tp (days)
+
+A : 1 5 3
+
+B A 1 7 4
+
+Cc A 1 5 3
+
+D A 5 ll 8
+
+E B 2 6 4
+
+FE Cc 5 7 6
+
+G D 4 6 5
+
+H E,F 1 5 ]
+
+Determine:
+1) The expected time and variance
+2) The critical path and duration of project
+3) The duration of project with 85% chance of completion.
+4) The early start and finish, late start and finish, total float and free float.
+--- page 3 ---
+Qs A _ A firm plans to purchase at least 200 quintals of scrap containing high quality (10)
+CO-1; BL-2 metal X and low quality metal Y. It decides that the scrap to be purchased must
+contain at least 100 quantities of metal X and not more than 35 quintals of metal
+Y. The firm can purchase the scrap from two suppliers (A and B) in unlimited
+quantities. The percentage of X and Y metals in terms of weight in the scrap
+supplied by A and B is given below. The price of scrap from A is Rs 200 per
+quintal and that from B is Rs 400 per quintal. The firm wants to determine the
+quantities it should buy to minimize the overall cost. Solve Graphically.
+
+Metals Supplier A Supplier B
+x 25% 15%
+bd 10% 20%
+Oo ;
+Q5 B_. The effectiveness of the employees for tasks is mentioned in the matrix below. (10)
+0-2; BL-3 Help manager assign the employees to the task to optimize the work to be done.
+Tasks
+Employees | I YW |W \|Iv jv
+A 25 |55 |60 |45 | 30
+B 45 |65 |55 | 35 | 40
+Cc 10 |35 |45 [55 | 65
+D 40 |30 | 70 | 40 | 60
+E 55 |45 |40 {55 | 10
+Q6 A A dentist who schedules all his patients for 30 minutes appointments. Some of — (10)
+CO-4; BL-2 the patients take more or less than 30 minutes depending on the type of dental
+work to be done. The following summary shows various categories of work,
+their probabilities and time needed to complete work. Simulate the dentist’s
+C clinic for 5 hours and determine the average waiting time for patients and the
+idleness of the doctor. Assume all patients arrive on scheduled time starting at 8
+AM.
+Work Time required | Probability
+(min)
+Filling 45 0.40
+Crown 60 0.15
+Cleaning 15 0.15
+: Extraction 45. 0.10
+— Check up 15 0.20
+wie Use following random numbers:
+
+93, 44, 17, 8, 29, 56, 60, 84, 38, 71
+--- page 4 ---
+a
+
+Q6 B__ A luxury bus transport company has one clerk on duty at a time. She handles (10)
+CO-3; BL-3 information of bus schedules and makes reservations. Customers atrive at a rate
+
+of 8 per hour and the clerk-can service 12 customers on an average per hour.
+
+Find: we
+
+1) The all the queue parameters.
+
+2) What is the probability that the clerk is free at given point of time.
+
+3) The management is contemplating to install a computer system to
+handle the information and reservations, which is expected to reduce
+service time to 3 minutes. The additional cost of having the new system
+works out to Rs 100 per day. If the cost of goodwill of having to wait is
+estimated to be 20 paise per minute spent waiting and being served.
+Should the company install the computer system (Assume 8 hours
+
+working day)
+Qi For a Project, the company has Rs. 70,000/- in total, the activities with their (20)
+CO-3; BL-4 normal and crash time and cost is given below. The company may give
+
+additional amount to project as loan, if required, but needs the project to be
+completed in 8 weeks. Does the project need loan? If yes how much?
+
+Activity | Predecessor_| Normal Crash
+
+Time Cost Time Cost
+
+(Weeks) (Rs) (Weeks) (Rs)
+A - 3 7000 1 ___| 19000
+B - 2 8000 1 13000
+Cc - 6 11000 5 15000
+D B 4 6000 3 10000
+E B a 9000 1 10000
+F C,E 3 5000 2 7000
+G B 7 8500 6 11500
+H A,D 4 10000 3 16000
+--- page 5 ---
+= iui oe ee eee - }
+
+STANDARD NORMAL TABLE (2) ~* 5
+
+Entries in the table give the area under the curve
+between the mean and z standard deviations above
+the mean. For example, for z = 1.25 the area under
+the curve between the mean (0) and z is 0.3944.
+
+o.00| 0.01| 002] 0.03] 0.04[ 0.05] 0.06] 0.07] 0.08] 0.09
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1.0
+
+14
+
+1.2
+
+1.3
+
+14
+
+15
+
+1.6
+
+17
+
+1.8
+
+1.9
+
+2.0
+
+21
+
+2.2
+
+2.3
+
+2.4
+
+25
+
+2.6
+
+27
+
+2.8,
+
+2.9
+
+3.0
+
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+0.0000 0.0040 0.0080 0.0120 0.0160 0.0190 0.0239 0.0279 0.0319 0.0359
+0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+0.1179. 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+0.2881 0.2910 0.2939 0.2969 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+0.3159 0.3186 03212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+0.3413 0.3438 0.3461 0.3485 0.3508 0.3513 0.3554 0.3577 0.3529 0.3621
+0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162 0.4177
+0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
+0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
+0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
+0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
+0.4772 0.4778 04783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 9.4916
+0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
+0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+0.4965 0.4966 0.4967 - 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+0.4974 0.4975 0.4976. 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
+0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 6.4986 0.4986
+0.4987 0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 0.4990
+0.4990 0.4991 0.4991 0.4991 0.4992 0.4992 0.4992 0.4992 0.4993 0.4993
+0.4993 0.4993 0.4994 0.4994 0.4994 0.4994 0.4994 0.4995 0.4995 0.4995
+0.4995 0.4995 0.4995 0.4996 0.4996 0.4996 0.4996 0.4996 0.4996 0.4997
+0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4998
+````
+
 ## 2023-24 · Re-Exam · Sem 5 · paper cd6be14ae387
 
 - Departments: Mechatronics
@@ -3267,6 +4056,7 @@ Solve by Simplex method.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/OPERATIONS RESEARCH/Operation Research Batch 2022-23,2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2024
 - Text: ocr (4 pages), mean OCR confidence 89.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3433,7 +4223,6 @@ method. The matrix entries are processing time of each Job to each
 
 machine in hours.
 
-J/M I I Il IV iv
 1 9 22 58 11 19
 2 43 78 72 50 63
 3 41 28 91 37 45
@@ -3519,171 +4308,10 @@ c) Probability of a customer waiting more than 3mins before being served
 
 d) Idle time of the vender clerk in a shift of hrs
 
-fe oe oe 2 i a oe 2 2k aK ok hy of Papert t¥ Ft tee etete
 
 12
 
 12
-````
-
-## 2023-24 · Re-Exam · Sem 10 · paper d386c0213649
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/OPERATIONS RESEARCH/Operations Research Batch 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 87.3
-
-````text
-va
-
-|
-Ao)
-=z
-SVKM’S NMIMS :
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-
-Program: B.Tech Integrated Year: V Semester: X
-Stream : Mechanical Engineering
-Subject: Operations Research Time: 3 hrs (2:00pmto S:00pro)
-Date:_28 / 04 / 2025 No. of Pages: 02,
-Marks: 100
-Re-Exam — . ma eS oe P
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1. Answer briefly: % [4 x 5=20]
-COl1, SO-1, a Define Operations Research and explain its limitations. 4
-BL-2
-CO3, SO-1, b_ Differentiate between the Simplex Method and the Big M Method. . 4
-BL-2 :
-C04, SO-1, ¢ What is degeneracy in an Assignment Problem, and how is it resolved? 4
-BL-2
-COS, SO-1,5, d Define pure strategies and mixed strategies in Game Theory with an 4
-BL-2
-example.
-CO3, SO-5 e What is Sensitivity Analysis in Linear Programming, and why is it 4
-BL3 important? ;
-CO-2,5,SO- _2.(a) Explain the structure of a mathematical model in Operations Research 10
-1,2, BL-4 with suitable examples. Also, discuss its limitations and how they affect
-real-world applications.
-CO-2,6,SO- _2.(b) Solve the following LPP using the Simplex Method. 10
-
-1,2, BL-3
---- page 2 ---
-CO-1,6, SO-1
-BL-2
-CO-2,6, SO-2
-BL-5
-
-CO-5,6, SO-1
-BL-2
-
-CO-3,5, SO-2
-BL-4
-
-Maximize Z = 3a; + 5a
-Subject to:
-ty + Qe <6
-3a, + leq < 12
-
-m1,22>0
-
-3..a) Explain Primal-Dual Construction in Linear Programming.
-
-3.(b) Find the initial feasible solution using:
-
-o Northwest Corner Rule
-
-o Least Cost Method
-
-o Vogel’s Approximation Method
-Given the following Transportation Table:
-
-Supply/Demand D1 D2 D3 Supply
-Sl 2 3 4 = 30
-
-$2 5 6 2 40
-
-$3 3 1 7. 20
-Demand 20 30 40
-
-4.(a) Use the table from Question 3 (b) and determine the optimal solution
-using MODI Method
-4.(b) Solve the following Assignment Problem using the Hungarian. Method:
-
-Jobs / Workers wil Ww2 W3 w4
-Jl 10 5 13 15
-J2 3 9 18 6
-33 10 7 2 2
-J4 8 il 5 7
-
-5.(a) Explain Conditional Assignment and its Real-World Applications.
-
-10
-
-10
-
-10
-
-10
-
-10
---- page 3 ---
-5.(b)
-
-6.(a)
-
-6.(b)
-
-7a)
-
-7.(b)
-
-Solve the following 2xn Game using Graphical Method
-
-kt Bi B2 B3 B4
-Al 4 6 a) 8
-A2 3 5 7 4
-Formulate an LP Model for a Game Theory Problem and Solve using
-Simplex Method.
-
-Compare Single Server (M/M/1) and Multi-Server (M/M/c) Queuing
-Models.
-
-Discuss how Queuing Models are used in Real Life such as Banks,
-Traffic Management, Telecommunications.
-
-What is Erlangian Distribution? Explain its Role in Queuing Analysis.
-
-re
-
-#EREEER of Paper****
-
-~ 10
-
-10
-10
-10
-
-10
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 4 · paper 354cd7c62cae
@@ -3693,6 +4321,7 @@ re
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATING SYSTEMS/Operation Research, Sem-IV, Year 2022-23, Final Exam & Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 76.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3825,7 +4454,6 @@ centre?
 
 Q4 A Data given in the matrix below refers to production in certain units. [10]
 CO: 2; Operators Machines .
-SO: 4; A B Cc D
 BL: 3 Ol 10 5 7 8
 O02 11 4 9 10
 03 8 4 9 7
@@ -3906,17 +4534,13 @@ between 35 days and 40 days (b) 37 days, (c) 33 days, (d) 42 days.
 
 [20]
 --- page 5 ---
-BOB PL AQAPP   QURAK-YDONNNOOONTTrOOMUKD
 FQ OTKKRAUTOMONMENRKE TTMHOOKNDKH-MNHONDDOOOOD
-JQNKOGVH OK DOBDOMDTHORN DE RO S ROE ALIBIDG
 FOOKKKANANNMNAtd Hdd ett ee tee TEE EEG
 
 SP29000000000CDDDCOOOdGbdCOOdGdCCOSCSCOGG
 
 DOTMOTONNONDONNODHHOKFANTKMHYTHENMOOOMMOR
-Orr ODTOR- NOONE DOCNMHNDOPHHOrHNHORDDODOOGD
 JQ KE FOr NOK MNHDAKEHYHOOKRHHHDDADDDODADOODDO
-SOOM KK ANANNHNNHDE TET TE TET TTT TET TTS
 
 P00D0DDODDOODODdDODoddddddddddCodCGCG
 
@@ -3928,337 +4552,17 @@ PPODDDDOPPIACCDODCdDddddCdOOCdDdddddCOdOGG
 
 Qu
 JTOOMNOYTNONNROrAG YPORNKROMDMDADADADADADOOD
-FJooorK ANAM MHNMNHt td the tt ttet ee eee eS
 
 SSC0CDDDDDDCO00CDOOddbddddddddddCCCOGGG
 
-TONDE OTOL OTODHOK NOK PF OMNONTNRNDOKYTONYON
 
 OOK KNAANIMOHTTTETTETITTT TT te eeered
 SPAPDDDDDDDDDNDCOCOCOOOOC OOOO OCOCOoOCoOCOG
 
-NODK OOH TNDNKOMDONKRYMOOMOHMONTOKRONKE YOR
 
 0
-SOE TE ANA GOOLE LTTE TTL TET ET TET TET
 P99DD0D00D00COKdAdGd0d0dCdd0dddddoddddCcOdCOGG
 
-Jolniey/ey ¢ha)0|r 09/0] -fexle]eeln|alnalqnlo}~|ayln|et|njo|NJojalolelalele
-NI O1P1P}2]9}9/0] OO] Off pelle |re|e| lela cd cd vlad ad/odie|ciledlealeilei| ales
-````
-
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 4593451d869f
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATIONS RESEARCH/Operations Research, Sem-IV, Final & Re Exam Batch 2021-22, 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (5 pages), mean OCR confidence 88.8
-
-````text
-/
-
-SVKM’S NMIMS { 2
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING® AR
-Academic Year: 2023-2024 yi j
-Program: B Tech Stream: Computer Science and Business Systems Year: 2"4 Semesters
-Subject: Operations Research Time: 3 hrs (Jo:00anto 1% 00pm)
-Date:_27 / 04/24 : No. of Pages: 4
-
-Marks: 100
-Final Examination | Re (2021-22|22 -22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-o> 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Briefly explain (20)
-
-CO-3;BL-2 a. A project consists of 12 activities with following predecessors. Draw the project (5)
-network diagram.
-Activity AIBIC |DIE |F{GIH{I u KIL
-Predecessor |- |A;|A |A|B |BJE|{F |G,H|LC,D |D{IJ,K
-CO-1;BL-4 b. The manager of an oil refinery must decide on the optimal mix of two possible (5)
-blending processes of which the input and output per production run are given:
-
-Processes Input (units) Output (units)
-
-Crude A Crude B Gasoline X Gasoline Y
-Process | 5 3 5 8
-Process 2 4 5 4 4
-
-The maximum available amount of crude oil A and B are 200 units and 150
-
-units, respectively. Markets requires at least 100 units of gasoline X and 80
-
-units of gasoline Y must be produced. The profit per production run from
-
-process | and 2 are Rs 300 and Rs 400 respectively. Formulate the LP model.
-CO-3;BL-1 c¢. A service system has an average inter arrival time of 1.5 minutes and an average (5)
-
-service rate of 50 per hour. Find all the queue parameters.
-
-CO-2;BL-3 d. Determine an initial feasible solution and total cost, using least cost cell (5)
-method, to following problem:
-M1 M2 M3 M4 M5 Supply
-Fl 4 2 3 2 6 8
-F2 5 4 5 2 1 12
-F3 6 5 4 7 7 14
-Demand | 4 4 6 8 8
---- page 2 ---
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024 4
-
-Q A The management of a company is considering marketing of a new product. The
-
-CO-4; BL-2 fixed cost required in the project is Rs 40,000. The selling price, variable cost
-and the sales volume are uncertain. Simulate for 12 months and calculate
-average profit.
-
-Selling Price | Prob | Variable Cost | Prob Sales Prob
-(Rs/Unit) (Rs/Unit) (units)
-
-30 0.2 10 0.3 2000 0.3
-40 0.5 20 0.6 3000 0.3
-50 0.3 30 0.1 5000 0.4
-
-Use following random numbers:
-81 14 67 10 | 39 | 59 12. | 33 21 90 |49 | 71
-32 |46 |25 |40 |68 |66 |79 | 87 55 |3 15 12
-60 | 31 24 =/|2 8 91 64 | 86 | 43 52 | 77 | 38
-
-Q2 B_ Inahospital, patients arrive with an average inter-arrival time of 6 minutes. The
-doctor’s examination time is distributed negative exponentially with an average
-of 3 minutes.
-1) What is the chance that a new patient will straight away see the doctor
-without having to wait?
-2) What percentage of time will the doctor be busy?
-3) Find the average queue length, average number of patients in systems,
-average waiting time of patients in queue and system.
-4) Suppose the hospital management wants to recruit another doctor when
-the average waiting time of an arrival for doctor, exceeds 30 minutes.
-Find how large the new arrival rate should be to justify a second doctor.
-
-CO-3; BL-3
-
-Q3 A steel company is concerned with the problem of distributing imported ore from
-CO-2; BL-4 3 ports to 4 steel mills. The supplies per week of ore arriving at ports, and
-demands per week at steel mills are as follows:
-PORT Capacity (tones) | MILLS Demand (tones)
-A 20 I 10
-B 38 0 18
-Cc 16 Il 22
-IV 24
-
-Transportation cost is Rs 0.2 per ton per Km. The distance between the ports and
-the mills is given below:
-
-I I Ul IV
-
-A 50 60 100 50
-
-B 80 40 70 50
-
-c 90 70 30 50
-Calculate the optimal transportation plan, which will minimize the transportation
-
-cost.
-
-(10)
-
-(10)
-
-(20)
-
-Pon
---- page 3 ---
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Q4 For a Project, the activities with their normal and crash time and cost is given (20)
-
-CO-3; BL-4 below. The indirect cost for the project is Rs 900 per day. Determine: 1) The
-minimum project duration in which the project can be completed and the
-corresponding cost of completion?
-
-Activity _| Predecessor | Normal Crash
-
-Time Cost Time Cost
-
-(days) (Rs) (days) (Rs)
-A - 2 750 1 1500
-B - 6 1400 4 2600
-Cc - 3 500 2 1000
-D Cc 5 1000 3 1800
-E A 2 800 2 800
-F B, D,E 4 1000 2 2400
-G Cc 7 1150 6 1450
-
-Qs Solve: (20)
-CO-1; BL-3 Min Z = 2X1 + X2
-
-Subject to
-
-3X1 + X2=3
-
-4X1 + 3X2 >= 6
-
-Ki + 2X2 <=4
-
-Such that
-
-Xi, X2 >= 0
-
-Q6 A Solve graphically: (10)
-CO-1; BL-2 Max Z = 80X1 + 120X2
-
-Subject to
-
-Xi + X2<=9
-
-20X1 + 50X2 <= 360
-
-X1 >= 2
-
-X2>=3
-
-Such that
-
-X1, X2>=0
---- page 4 ---
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024 ¢
-
-Q6 B_ The marketing director of MNC is faced with a problem of assigning managers
-
-CO-2; BL-3 to different zones. From the experience, he knows that the efficiency percentage
-judged by sales, operating costs, etc., depends on the manager zone
-combination. The efficiency of different managers are given below:
-
-_ Zones
-
-Manager | I Il Il IV Vv VI
-A 73 | 91 87 82 78 80
-B 81 85 69 76 74 85
-Cc 75__| 72 83 84 78 91
-D 93 | 96 86 91 83 82
-E 90 | 91 79 89 69 76
-
-Q7 A Project is represented by following data:
-
-CO-3; BL-4 Activity Predecessor _| To (Days) Tm (Days) Tp (Days)
-A - 6 8 10
-B - 18 20 22
-Cc - 26 33 40
-D A 16 18 20
-E A 15 20 25
-E B 6 9 12
-G Cc 8 10 122
-H D 7 8 9
-I E, F 3 4 5
-
-Determine:
-1) The expected time and variance
-2) The critical path and duration of project
-3) Probability that the project will be completed in 41 days
-4) Probability that the project will be completed in 48 days
-5) The duration of project with 92% chance of completion.
-
-(10)
-
-(20)
---- page 5 ---
-von
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-(Mumbai Campus)
-Academic Year: 2023-2024
-
-STANDARD NORMAL TABLE (2)
-
-Entries in the table give the area under the curve
-between the mean and z standard deviations above
-the mean. For example, for z= 1.25 the area under
-the curve between the mean (0) and z is 0.3944.
-
-o.00| 0.01] 0.02[ 0.03] 0.04/ 0.05| 0.06] 0.07] 0.08] 0.09
-
-0.0 | 0.0000 0.0040 0.0080 0.0120 0.0160 0.0190 0.0239 0.0279 0.0319 0.0359
-
-0.1 | 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-
-0.2 | 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
-
-0.3 | 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-
-0.4 | 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
-
-0.5] 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-
-0.6 | 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-
-0.7 | 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-
-0.8 | 0.2881 0.2910 0.2939 0.2969 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
-
-0.9 | 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
-1.0 | 0.2413 0.3438 0.3461 0.3485 0.3508 0.3513 0.3554 0.3577 0.3529 0.3621
-
-1.1} 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-
-1.2 | 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
-
-1.3 | 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162 0.4177
-
-1.4 | 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
-
-1.5 | 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
-
-1.6 }.0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
-1.7 | 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
-
-1.8] 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
-
-1.9 | 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
-
-2.0 | 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
-
-2.1 | 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
-
-2.2 | 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
-
-2.3 | 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
-2.4 | 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-
-2.5 | 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
-
-2.6 | 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
-
-2.7 | 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
-
-2.8 | 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
-
-2.9 | 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
-
-3.0 | 0.4987 0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 0.4990
-3.1} 0.4990 0.4991 0.4991 0.4991 0.4992 0.4992 0.4992 0.4992 0.4993 0.4993
-
-3.2 | 0.4993 0.4993 0.4994 0.4994 0.4994 0.4994 0.4994 0.4995 0.4995 0.4995
-
-3.3 | 0.4995 0.4995 0.4995 0.4996 0.4996 0.4996 0.4996 0.4996 0.4996 0.4997
-
-3.4 | 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997. 0.4997 0.4997 0.4997 0.4998
 ````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper dd5419580eda
@@ -4267,6 +4571,7 @@ o.00| 0.01] 0.02[ 0.03] 0.04/ 0.05| 0.06] 0.07] 0.08] 0.09
 - Programmes: B TECH / COMPUTER, MBA TECH / Computer
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/OPERATIONS RESEARCH/Operations Research, 3rd Year, Sem V, Year 2022-23, Final Exam.pdf` (+2 identical copies)
 - Text: ocr (7 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Z SVKM’ 's NMIMS
@@ -4402,7 +4707,6 @@ foltowing data.
 
 Q3
 CO-2,3 Job 10
-SO-1,6,7 P _ Q R S T
 BL-4 A 85 75 65 125 75
 B 90 78 66 132 78
 Typist Cc 75 66 57 114 69
@@ -4781,6 +5085,7 @@ most profitable mix using simplex method, assuming that all produced can be sold
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/OPERATIONS RESEARCH/Operations Research Batch 2022-23 Final.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (4 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -4868,7 +5173,6 @@ Demand 100 70 50 40 40
 Solve the following assignment problem shown in table using Hungarian method. The matrix entries are
 processing time of each Job to each machine in hours. Find the assignment pattern that minimizes the
 time.
-J/M I I Il | IV Vv
 Q3
 co-l; | 5 1 9 22 58 11 19 [8]
 SO- 2;
@@ -5318,6 +5622,7 @@ iii. What is Jockeying in Queueing theory
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATIONS RESEARCH/Operations Research, Sem-IV, Batch 2021-22, 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28/06/2023
 - Text: ocr (5 pages), mean OCR confidence 76.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -5523,8 +5828,6 @@ The average number of empty space on the lorry per day?
 |
 
 |
-$29] 42|cae} pony oslo} gay pogo ty aetna at ana LL
-BIO/N/4/0]0/0|N/O/a a) ty) O]OlO/Niolin alwys i
 
 9999999999909900909900000)0
 AHAAAHADAAALRADARAAARAALAHA OlO
@@ -5565,325 +5868,6 @@ N
 MNUWONDAARNDDONNNOOHAONUO=A0
 
 420 0|0
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper bdf978ff20a3
-
-- Departments: Computer Science and Business Systems
-- Programmes: B TECH / CSBS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSBS/SEM-IV/OPERATIONS RESEARCH/Operatons Research, Batch 2021-22 & 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/24
-- Text: ocr (5 pages), mean OCR confidence 89.7
-
-````text
-MPSTME
-SVKM?S NMIMS LIBRARY
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
-
-Academic Year: 2023-2024
-
-Program: B Tech Stream: Computer Science and Business Systems Year: 2 Semester?
-
-Subject: Operations Research Time: 3 hrs (400m to_1 pm_)
-Date: 27/06/24. No. of Pages: 5
-
-Marks: 100
-
-Re (2021-22 jp2 -23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-(~ 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Briefly explain : (20)
-
-CO-1;BL-4 a. A company sells two different products A and B, making a profitofRs40 and (5)
-Rs 30 per unit, respectively. They are both produced with help of a common
-production process and are sold in different markets. The production process
-has a total capacity of 30,000 man-hours. It takes three hours to produce a unit
-of A and one hour to produce a unit of B. The company feels that the maximum
-number of units of A that can be sold is 8000 and at least 12000 units of B.
-Formulate the LP model. ;
-
-CO-3;BL-1 b. Customers arrive at a service station managed by single individual at a rate of (5)
-25 per hour. The time required to serve the customer has exponential
-distribution with a mean of 120 seconds. Find all operating characteristics of the
-
-a queuing systems.
-CO-2;BL-3 ec. Determine an initial feasible solution and total cost, using least cost cell (5)
-method, to following transportation cost problem:
-I i Til Supply
-
-A 5 1 7 10
-B 6 4 6 80
-Cc 3 2 5 15
-Demand | 75 20 50
-
-CO-3;BL-2 d. A project consists of 11 activities with following predecessors. Draw the project (5)
-“ . network diagram.
-| Activity AIB{|C |D/JE [F |G{H {I JJ kK
-Predecessor |- |- |- |A |B |B |C |D JE |EF,G H,1
---- page 2 ---
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Q A Solve: ; (20)
-CO-1; BL-3 Max Z = 5X1 + 3X2 ;
-
-Subject to
-
-Xi + X2<=2
-
-5X1 + 2X2 <= 10
-
-3X1 + 8X2 <= 12
-
-Such that
-
-Xi, X2>=0
-
-Q3 The products of three plants X, Y, Z are to be transported to four warehouses I, (20)
-CO-2; BL-4 Il, IL and IV. The distance for transportation from plants to warehouses along
-
-with capacities are indicated below. Find the optimal solution and alternative
-
-solution if it exists, for following problem:
-
-I IL Il IV Supply
-
-x 25 17 25 14 300
-
-Y 15 10 18 24 500
-
-Z 16 20 8 13 600
-
-Demand __| 300 300 500 500
-Q4 A Project is represented by following data: (20)
-CO-3; BL-4 Activity | Predecessor | To (days) | Tm (days) | Tp (days)
-
-A : 1 5 3
-
-B A 1 7 4
-
-Cc A 1 5 3
-
-D A 5 ll 8
-
-E B 2 6 4
-
-FE Cc 5 7 6
-
-G D 4 6 5
-
-H E,F 1 5 ]
-
-Determine:
-1) The expected time and variance
-2) The critical path and duration of project
-3) The duration of project with 85% chance of completion.
-4) The early start and finish, late start and finish, total float and free float.
---- page 3 ---
-Qs A _ A firm plans to purchase at least 200 quintals of scrap containing high quality (10)
-CO-1; BL-2 metal X and low quality metal Y. It decides that the scrap to be purchased must
-contain at least 100 quantities of metal X and not more than 35 quintals of metal
-Y. The firm can purchase the scrap from two suppliers (A and B) in unlimited
-quantities. The percentage of X and Y metals in terms of weight in the scrap
-supplied by A and B is given below. The price of scrap from A is Rs 200 per
-quintal and that from B is Rs 400 per quintal. The firm wants to determine the
-quantities it should buy to minimize the overall cost. Solve Graphically.
-
-Metals Supplier A Supplier B
-x 25% 15%
-bd 10% 20%
-Oo ;
-Q5 B_. The effectiveness of the employees for tasks is mentioned in the matrix below. (10)
-0-2; BL-3 Help manager assign the employees to the task to optimize the work to be done.
-Tasks
-Employees | I YW |W \|Iv jv
-A 25 |55 |60 |45 | 30
-B 45 |65 |55 | 35 | 40
-Cc 10 |35 |45 [55 | 65
-D 40 |30 | 70 | 40 | 60
-E 55 |45 |40 {55 | 10
-Q6 A A dentist who schedules all his patients for 30 minutes appointments. Some of — (10)
-CO-4; BL-2 the patients take more or less than 30 minutes depending on the type of dental
-work to be done. The following summary shows various categories of work,
-their probabilities and time needed to complete work. Simulate the dentist’s
-C clinic for 5 hours and determine the average waiting time for patients and the
-idleness of the doctor. Assume all patients arrive on scheduled time starting at 8
-AM.
-Work Time required | Probability
-(min)
-Filling 45 0.40
-Crown 60 0.15
-Cleaning 15 0.15
-: Extraction 45. 0.10
-— Check up 15 0.20
-wie Use following random numbers:
-
-93, 44, 17, 8, 29, 56, 60, 84, 38, 71
---- page 4 ---
-a
-
-Q6 B__ A luxury bus transport company has one clerk on duty at a time. She handles (10)
-CO-3; BL-3 information of bus schedules and makes reservations. Customers atrive at a rate
-
-of 8 per hour and the clerk-can service 12 customers on an average per hour.
-
-Find: we
-
-1) The all the queue parameters.
-
-2) What is the probability that the clerk is free at given point of time.
-
-3) The management is contemplating to install a computer system to
-handle the information and reservations, which is expected to reduce
-service time to 3 minutes. The additional cost of having the new system
-works out to Rs 100 per day. If the cost of goodwill of having to wait is
-estimated to be 20 paise per minute spent waiting and being served.
-Should the company install the computer system (Assume 8 hours
-
-working day)
-Qi For a Project, the company has Rs. 70,000/- in total, the activities with their (20)
-CO-3; BL-4 normal and crash time and cost is given below. The company may give
-
-additional amount to project as loan, if required, but needs the project to be
-completed in 8 weeks. Does the project need loan? If yes how much?
-
-Activity | Predecessor_| Normal Crash
-
-Time Cost Time Cost
-
-(Weeks) (Rs) (Weeks) (Rs)
-A - 3 7000 1 ___| 19000
-B - 2 8000 1 13000
-Cc - 6 11000 5 15000
-D B 4 6000 3 10000
-E B a 9000 1 10000
-F C,E 3 5000 2 7000
-G B 7 8500 6 11500
-H A,D 4 10000 3 16000
---- page 5 ---
-= iui oe ee eee - }
-
-STANDARD NORMAL TABLE (2) ~* 5
-
-Entries in the table give the area under the curve
-between the mean and z standard deviations above
-the mean. For example, for z = 1.25 the area under
-the curve between the mean (0) and z is 0.3944.
-
-o.00| 0.01| 002] 0.03] 0.04[ 0.05] 0.06] 0.07] 0.08] 0.09
-
-0.2
-
-0.3
-
-0.4
-
-0.5
-
-0.6
-
-0.7
-
-0.8
-
-0.9
-
-1.0
-
-14
-
-1.2
-
-1.3
-
-14
-
-15
-
-1.6
-
-17
-
-1.8
-
-1.9
-
-2.0
-
-21
-
-2.2
-
-2.3
-
-2.4
-
-25
-
-2.6
-
-27
-
-2.8,
-
-2.9
-
-3.0
-
-3.1
-
-3.2
-
-3.3
-
-3.4
-
-0.0000 0.0040 0.0080 0.0120 0.0160 0.0190 0.0239 0.0279 0.0319 0.0359
-0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
-0.1179. 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
-0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-0.2881 0.2910 0.2939 0.2969 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
-0.3159 0.3186 03212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
-0.3413 0.3438 0.3461 0.3485 0.3508 0.3513 0.3554 0.3577 0.3529 0.3621
-0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
-0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162 0.4177
-0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
-0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
-0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
-0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
-0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
-0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
-0.4772 0.4778 04783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
-0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
-0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
-0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 9.4916
-0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
-0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
-0.4965 0.4966 0.4967 - 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
-0.4974 0.4975 0.4976. 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
-0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 6.4986 0.4986
-0.4987 0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 0.4990
-0.4990 0.4991 0.4991 0.4991 0.4992 0.4992 0.4992 0.4992 0.4993 0.4993
-0.4993 0.4993 0.4994 0.4994 0.4994 0.4994 0.4994 0.4995 0.4995 0.4995
-0.4995 0.4995 0.4995 0.4996 0.4996 0.4996 0.4996 0.4996 0.4996 0.4997
-0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4998
 ````
 
 ## 2022-23 · Re-Exam · Sem 5 · paper 34e81f41aa4a
@@ -7124,6 +7108,7 @@ mel
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/OPERATIONS RESEARCH/OPERATION RESEARCH 2018-19 FINAL EXAM.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; exam date: 20 April 2019
 - Text: ocr (3 pages), mean OCR confidence 87.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -7250,7 +7235,6 @@ Stations < ---- == 7
 4 ---- > 18 09 12 17 15
 5 -----! > 11 06 14 19 10
 
-anette nn eee nme ne eee ene enn nme >
 
 How the five wagons should be transported so as to minimize the total distance covered.
 
@@ -8655,6 +8639,7 @@ Demand 20 40 30 10
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/OPERATION RESEARCH/OPERATIONS_RESEARCH_B TECH (MECHANICAL), BATCH_18-19_RE_EXAM_.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 14 June 2019
 - Text: ocr (3 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -8788,7 +8773,6 @@ rupees) as follows. Determine how these projects should be assigned (one project
 contractor) so that total projects will be executed at minimum cost. Also find the cost.
 
 : Project
-Contractory| I II It IV Vv VI
 A 4] 72 39 52 25 51
 B 22 29 49 65 81 50
 Cc 27 39 60 51 32 32
@@ -8810,6 +8794,7 @@ ils
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/OPERATION RESEARCH/OPERATION RESEARCH (COMPUTER), 2017-18 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 14 May 2018
 - Text: ocr (5 pages), mean OCR confidence 87.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -8859,7 +8844,6 @@ The following table shows the machine time in hours for 6 jobs to be processed o
 different machines Miand M? in the order AB. Find the optimal sequence in which jobs
 should be processed, also find the total elapsed time and idle time on each machine.
 
-Job Ja Ja J3 Ja Js Je
 
 Machine Mi 8 10 1 12 16 20
 
@@ -9235,6 +9219,7 @@ to business and industry.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/OPERATION RESEARCH/Operation Research 2017-18 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 01 December 2017
 - Text: ocr (3 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMW’?S NMIMS
@@ -9361,7 +9346,6 @@ Q.7) a) A project consists of jobs A,B,C,D,E,F,G,H,I such that A<D; A<E; B<F; D<
 
 F<]; G<I
 The time taken for each job is given below:
-Job A B C D E F G H | |
 Time(days) | 8 10 8 10 | 16 17 | 18 14 9 |
 Find the critical path and minimum time of completion of the project. (6)
 
@@ -11118,6 +11102,7 @@ What is the value of the saddle point ?
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/OPERATION RESEARCH/Operation Research 2016-17 Final.pdf`
 - Printed on paper: exam date: 10 May 2017
 - Text: ocr (4 pages), mean OCR confidence 92.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -11133,7 +11118,6 @@ Marks:“40= NN
 Date: 10 May 2017 - Time: 2:00 pm to 5.00 pm,
 
 Durations: 3 (his) * 8) = |
-. No. of Ba es: SAA JE
 Final-Examination NG a
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and
@@ -11196,7 +11180,6 @@ time of each activity. (True/False). Justify,
 (d) All the above.
 13 Customer behavior in which the customer moves from one queue to another in a
 multiple channel situated is
-(a) Balking (b) reneging (c) jockeying (d) alternating
 14 Ifanegative value appears in the solution values Xb column of the simplex/Big M table
 then,
 (a) Solution is optimal " (c) Solution is unbounded
@@ -12126,6 +12109,311 @@ x1 X22 0
 3)3
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper d009d77776a6
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/OPERATION RESEARCH/OPERATIONS RESEARCH B TECH (MECHANICAL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 13/05/2016
+- Text: ocr (5 pages), mean OCR confidence 84.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+~~
+
+Programme: B.Tech (Mechanical) Year: IV Semester: VIII
+
+Academic Year: 2015-16
+
+' Batch: 2014-15
+{
+t
+i Subject: Operations Research Marks: 60
+Time: 10.00 ¥
+Date: 13/05/2016 Durations: 3 PN
+
+Re-Examination
+
+INSTRUCTION: Candidates should read the instructions carefully the instructions printed on the
+question paper and on the cover of the Answer Book.
+N.B.
+
+(1) Question no. 1 is compulsory.
+
+(2) Attempt any Four questions out of Five.
+
+(3) In all Five questions to be attempted.
+
+(4) Assume suitable data whenever necessary.
+
+(5) Draw neat diagram and explain whenever required.
+
+(6) Figure in the brackets on the right hand side indicates full marks
+
+Qu.1 Answer any four of the following. 12
+a) State any five applications of Linear Programming.
+b) What are the rules (principals) of dominance in game theory?
+c) State the steps followed in Monte Carlo method of simulation:
+d) What are the assumptions usually made in single channel queuing model?
+e) State any five managerial applications of queuing theory:
+
+Qu.2 a) A supermarket has a single cashier. During the peak hour, customers arrive 05
+at a rate of 20 customers per hour. The average number of customers that
+can be processed by the cashier is 24 per hour. Calculate:
+i. The probability that the cashier is idle.
+
+ii. The average number of customers in the queuing system.
+
+iii. |The average time a customer spends in the system.
+
+iv. The average number of customer in the queue.
+
+vy. The average time a customer spends in the qucue waiting for
+
+service.
+
+b) XYZ tailoring house has one tailor specialized in men’s shirt. The number 07
+of customers requiring stitching of shirts appears to follow Poisson
+distribution with men arrival rate of 12 per hour. Customers are attended to
+by the tailor on a first-come - first serve basis, and they are willing to wait
+for service if there be queue. The time the tailor takes to attend a customer
+is exponentially distributed with men of 4 minutes. Required:
+
+i. The probability that the queuing system is idle.
+ii. | What is the probability that there shall be 5 customers in the shop
+(at a point a time)?
+om ili. | What is the number of customers in the shop?
+iv. What is expected number of customers waiting for tailor’s
+
+service?
+1 v. What is the expected length of the non-empty queue?
+vi. How much time a customer should expected to spend in the
+--- page 2 ---
+Ws, % queue?
+; How much time should a customer expected to spend in the shop?
+
+Qu.3 a) A manager produced three items A, B and C. He has the possibility of 08
+Applying two strategies-produce all the three items or any two of them.
+“Products A and C pass through shops I and IJ, whereas B is further
+processed in shop III. Each shop has limited available hours. Hours
+available in shop I, II and III are 162 hours, 189 hours and 5 hours
+respectively. Profit per unit from A, B and C is Rs. 27, Rs. 29 and Rs. 25
+respectively. The following table gives the processing time of different
+items in different shops.
+
+c
+2
+il 0 3 0
+
+Items
+
+Find the optimum production of A, B and C so as to maximize profit.
+
+b) ABC Food Company is developing a low-calorie high-protein diet
+supplement called Hi-Pro. The specifications for Hi-Pro have been
+established by a panel of medical experts. These specifications along with
+the calorie, protein and vitamin content of three basic foods are given in
+the following table:
+
+04
+
+UNITS OF NUTRITIONAL ELEMENTS
+; __ Per 100 gm serving of Basic Foods
+Nutritional Basic Foods |
+
+elements | No.1 | No.2 No.3 Hi-Pro
+oo a a ____...| Specifications |
+Calories 350 250. 200 | $300 |
+
+Protein. | 250 | 300 150 | 200
+
+~ Vitamin A_ _ 100 : 150 | 75
+
+Vitamin C 5 - 125 150 | > 100 -
+
+Cost per | Rs. 1.50 | Rs.2.00 | Rs. 1.20
+serving : - |
+
+Formulate the linear programming mode] to minimize cost.
+
+Qu. 4 a) ABC Company is engaged in manufacturing 5 brands of packed snacks. It 06
+is having five manufacturing steps, each capable of manufacturing any of
+its brands, one at a time. The cost to make a brand on these on these setups
+vary according to the following table:
+
+Tsi [s2. 83 84 SS
+iT [5 i
+6 [9 5
+
+2 16. ——
+7 ul 10
+--- page 3 ---
+Qu. 5
+
+b)
+
+a)
+
+b)
+
+Assuming, five setups are S1, S2, S3, S4 and S5 and five brands are B1,
+B2, B3, B4 and BS. Find the optimum assignment of products on these
+setups resulting in minimum cost.
+
+A company has three factories at Amethi, Baghpat and Gwalior and four
+distribution centers at Allahabad, Bombay, Calcutta and Delhi. With
+identical cost of production at the three factories the only variable cost
+involved is transportation cost. The production at the three factories is
+5,000 tonnes; 6,000 tonnes; 4,000 tonnes and 1500 tonnes respectively.
+The demand at four distribution centers ia 6,000 tonnes; 4,000: tonnes;
+2,000 tonnes and 1500 tonnes respectively. The transportation cost per
+tonne from different factories to different centers are given below:
+Distribution center
+
+Factory Allahabad Bombay | ___ Calcutta Delhi
+Amethi _ 3 a 7
+Baghpat 7 a 207
+Gwalior 20d a a
+
+Suggest the optimum transportation schedule and find the minimum cost
+of transportation.
+
+Convert the following game problem, involving two person ‘zero-sum’
+game in to a linear programming problem:
+
+Player B
+8 20 3 1
+Player A 6 25 ~ 2
+0 -8 12 9
+16 9 21 0
+
+Don’t Solve.
+
+Two firms are competing for business under the conditions so that one
+firm’s gain is another firm’s loss. Firm A’s pay-off matrix is given below:
+
+_ Firm B 7
+No Medium Heavy
+__..| advertising | advertising | advertising
+No 10 5 2
+Firm A advertising —
+Medium 13 12 15
+advertising ee ee ee
+Heavy 16 14 10
+advertising
+
+Suggest the optimum strategies for the two firms and the net outcome
+thereof.
+
+als -
+
+06
+
+05
+
+07
+--- page 4 ---
+Qu. 6
+
+Qu. 7
+
+a) A company manufactures 30 items per day. The sale of these items
+depends upon demand which has the following distribution: _
+Sales 27 28 | 29 30 31 32
+
+(units) _ a ot.
+Probability 0.10 0.15 0.20. | 0.35 ; O15 0.05
+
+The production cost and sales price of each unit are Rs. 40 and Rs. 50
+respectively. Any unsold product is to be disposed of at a loss of Rs. 1Sper
+unit. There is a penalty of Rs. 5 per unit if the demand is not met.
+
+Using the following random nu mbers estimate total profit/loss for the
+company of next 10 days:
+
+10, 99, 65, 99, 95,01, 79, 11, 16, 20
+
+If the company decides to produce 29 items per day, what is the advantage
+or disadvantage to the company?
+
+b) Process involves the production of a particular component which is then
+inStalled into an end product. Past observation has indicated that the
+average production time for the component is 4 minutes but fluctuations
+about the average do occur and the following probability distribution has
+been derived from past observations: _ _.
+
+Minutes Probability
+
+_ sey
+
+The average time taken to install a components is 3 minutes but this also
+fluctuates and the following probability distribution has been derived:
+
+Minutes | Probability i
+
+- 2 | 030 2
+3 0.45 7
+a eee 0.15 a
+_ 5 010 _
+
+The current system uses one operative for installation but the company is
+considering employing another operative on the installation process.
+Simulate 10 arrivals on the current system, using the following 2 digit
+random numbers 20, 74, 94, 22, 93, 45, 44 16, 04, 32, 03, 62, 61, 89, 01,
+27, 49, 50, 90, 98.
+
+a) A product is manufactured by Blending three different raw materials. The
+finished product should meet certain quality requirements. Given the
+following data what is your recommendation with regard to quality for row
+materials to be blended, which will meet the quality requirements with
+
+minimum cost.
+
+4h)s—
+
+06
+
+a6
+
+06
+--- page 5 ---
+ee
+
+b)
+
+Quality Contribution to quality Minimum quality
+
+| Characteristics | requirements _ |
+|
+
+: 10 :
+
+13. :
+
+4
+
+Costofraw | 2 | 5 | 3”
+materials per
+unit (in Rs)
+
+Consider the following transportation table. The costs are given in rupees;
+the supply and demand are in units. Determine an optimal solution.
+
+_Source j Destination
+| 3
+we BE nell = « SE cee EY sas Se
+| 200 120 240 | 680 |
+{
+| |
+_.t as | 880s
+
+5) 5—
+
+06
+````
+
 ## 2014-15 · Final-Exam · Sem 6 · paper 68510c46a594
 
 - Departments: Computer Engineering
@@ -12301,6 +12589,7 @@ MachineC | 4 9 8 6 5
 - Programmes: B TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/OPERATION RESEARCH/OPERATIONS RESEARCH B TECH (MECH), 2014-15 FINAL EXAM.pdf`
 - Text: ocr (4 pages), mean OCR confidence 88.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “Sy
@@ -12488,7 +12777,6 @@ The company dispatcher has come up with the cost between the terminals and
 lants as follows:
 
 __Termind | Plant __
-4 ee ee ee ee ee ee
 0 | 20 86 dD 28
 pi vf ao 0 as 0
 W 75 | 35 45 50 |
@@ -12862,6 +13150,258 @@ X1 .X220
 34
 ````
 
+## 2014-15 · Re-Exam · Sem 6 · paper ea54b7a5ae5a
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/OPERATION RESEARCH/OPERATION RESEARCH B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 14/05/2015
+- Text: ocr (4 pages), mean OCR confidence 89.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: Il Semester: VI
+Batch: 2013-14
+
+Academic Year: 2014-2015 Aston
+Subject: Operation Research a
+Marks: Psy)
+: . Time: ;
+Date: 14/05/2015 ime: REE y ee
+Duration j 26 j
+* IS -
+Se ey
+Re-Examination Mlle tS = rl
+
+Instructions: Candidates should read carefully the instructions printed on the question paper an
+cover of the Answer Book, which is provided for their use.
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining six questions, attempt any 4 questions.
+
+3. All questions carry equal marks.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures on right indicate full marks. s
+
+Q.1 a) A diet of a sick person must contain atleast 4000 units of vitamins, 50 units of minerals and 1400
+calories. Two foods A and B are available at a cost of Rs. 4 and Rs. 3 per unit respectively. If one unit of A
+contains 200 units of vitamins, 1 unit of mineral and 40 calories and one unit of B contains 100 units of
+vitamins, 2 unit of mineral and 40 calories, find by graphic method what combination of food be used to
+nave least cost? {5
+
+b) Write the dual of the following primal: [5]
+Minimize Z =x,+x,+X,
+Subject to;
+2%, ~ 3x, + 4x, =5, x, -—2x, 23, 2x, -x, 24
+
+%,,X, 2-0, x, unrestricted
+
+c) Obtain initial solution to the following Transportation problem by Least cost Method: {5]
+WwW xX Yo° Z Supply
+A 50 150 70 60 50
+B 80 70 90 10 60
+Cc 15 87 79 81 40
+Demand 20 70 50 10
+
+d) The following maintenance job has to be performed periodically on the heat exchangers in a refinery:
+
+[5]
+Job Description Immediate Expected
+Predecessors | time(days)
+
+A Dismantle pipe connections -- 14
+
+B Dismantle header, closure and floating head front A 22.
+
+c Remove tube bundle ~ B 10
+
+D Clean bolts B 16
+
+E Clean header and floating head front B 12
+
+F Clean tube bundle C 10
+
+G Clean shell Cc 6
+
+H Replace tube bundle F,G 8
+
+| Prepare shell pressure test D,E,H 24
+
+J Make the final reassembly | 16
+
+(i) Draw network diagram of activities for the project. -
+
+(ii) Identify the critical path. What is its length?
+
+t/y
+--- page 2 ---
+Q.2 a) Using Simplex Method, Maximize z = 2x, + 4x, +3x,+x, [10]
+Subject to the constraints:
+X,+3x, +x, 54,2x, +x, $3,x,+4x,+x, 8 35 X),X_,%X3,X, 20.
+
+b) Maximize Z=3x,+2x,+7x, [10]
+Subject to the constraints:
+—3x, + 2x, + 2x, =8; —3x, + 4x, +x, =75x,,x,,x, 20
+
+Q.3 a) Using Revised Simplex Method, Maximize z = 6x, — 2x, +3x, [10]
+Subject to the constraints:
+2x, — xX, +2x,<52,x,+4x, < 4;x,,x,,x, 20.
+
+b) Using Dual Simplex Method, Minimize Z = 2x, +2x,+4x, [10]
+Subject to the constraints:
+2x, +3x, +5x, 2 2,3x, +x, + 7x, $3,x, + 4x, +6x, $5; %,x5,x, 20
+
+Q.4 a) A department store wishes to stock following quantity of product in three types of containers. The
+type of container and quantity demanded by the store are I — 170, II — 200, III — 180 . Tenders are
+
+submitted by four dealers D1 , D2 , D3 , D4 . Who can undertake to supply 150, 160, 110, 130 (ali types
+combined) respectively. The store estimates that the profit per container type ( in Rs. ) will be as follows:
+
+Dealer DI D2 D3 D4
+Type
+I 8 9 6 3
+II 6 1] 5 10
+Il 3 8 7 9
+Obtain optimal schedule for above transportation problem. [10]
+
+b) A company has four terminals U, V, W and X. At the start of a particular day 10, 4, 6 and 5 trailers are
+available at these terminals. During the previous night 13, 10, 6 and 6 trailers respectively were loaded
+at plants A, B, C and D. The company dispatcher has come up with the costs between the terminals and
+
+plants as follows: [10]
+Terminal Plants
+A B C D
+U 20 36 : 10 28
+Vv 40 20 45 20
+W 75 35 45 50
+X 30 35 40 25
+
+Find the allocation of loaded terminals from plants to terminals in order to minimize transportation cost.
+
+Q.5 a) A private firm employs typists on hourly piece rate basis for their daily work. Five
+typists are working in that firm and their charges and speeds are different. On basis of some earlier
+understanding, only one job is given to one typist and the typist is paid for full hours even when he or
+
+she works for a fraction of an hour. Find the least cost allocation for the following data. [10]
+Typist | Rate/hr No. of pages Job No. of pages
+os typed/hr
+A 5 12 P 199
+B 6 14 Q 175
+— Cc 3 8 R 145
+D 4 10 S 298
+
+E 4 11 T 178
+--- page 3 ---
+b) A travelling salesman has to visit 5 cities. He wishes to start from a particular city, visit each city once
+and then return to his starting point. The travelling cost (in ‘O00 Rs.) of each city from a particular city is
+given below:
+
+To city
+From city A = 2 5 7 L
+B 6 = 3 8 2
+Cc 8 7 - 4 7
+D 12 4 6 - 5
+E 1 3 2 8 -
+What is the sequence of visit of the salesman so that the cost is minimum? [10]
+Q.6 a) Solve, Maximize z = Sx, + 4x,
+Subject to the constraints:
+x, +x, 22,5x,+3x, <15,3x,+5x, <15;x,,x, = 0 and are integers. [10]
+
+b) An insurance company has decided to modernize and refit one of its branch offices. Some of the
+existing office equipments will be disposed of but the remaining will be returned to the branch of
+compietion of the renovation work. Tenders are invited from a number of selected contractors. The
+contractors will be responsible for all the activities in connection with the renovation work excepting the
+
+prior removal of the old equipment and its subsequent replacement. [10]
+Job | Description Immediate Expected
+Predecessors | time(days)
+
+A Design new premises al 14
+
+B Obtain tenders from the contractors A 4
+
+Cc Select the contractor B 2
+
+D Arrange details with selected contractor Cc 1
+
+E Decide which equipment is to be used A 2
+
+F Arrange storage of equipment E 3
+
+G Arrange disposal of other equipment E 2
+
+H Order new equipment E 4
+
+| Take delivery of new equipment HL S
+
+J Renovations take place K 12
+
+K Remove old equipment for storage or disposal | D,F,G 4
+
+L Cleaning after the contractor has finished J 2
+
+M Return old equipment for storage H,L 2
+
+(a) Draw network diagram
+
+(b) Calculate the minimum time that the renovation can take from the design stage.
+
+(c) Find the effect on the overall duration of the project if the estimates or tenders can be
+obtained in two weeks from the contractors by reducing their numbers.
+
+(d) Calculate the independent float that is associated with the non-critical activities in the
+network diagram.
+
+Q.7 a) XYZ Tailoring House has one tailor specialized in men’s shirts. The number of customers requiring
+stitching of shirts appears to follow Poisson distribution with mean arrival rate of 12 per hour.
+Customers are attended by the tailor on a first-come-first served basis and they are willing to wait for
+the service if there be queue. The time the tailor takes to attend a customer is exponentially distributed
+sai with a mean of 4 minutes. Required:
+
+i) The utilization parameter (i.e. traffic intensity)
+
+ii)The probability that the queuing system is idle.
+
+iii)The average time the tailor is free on 8-hour working day.
+--- page 4 ---
+iv)What is the probability that there shall be 5 customers in the shop(at a point of a time)?
+
+v) What is the number of customers in the shop?
+
+vi) What is the expected number of customers waiting for tailor’s service?
+
+vii) What is the expected length of the non-empty queue?
+
+viii) How much time a customer should expect to spend in a queue?
+
+ix) How much time a customer should expect to spend in the shop?
+
+x) What is the probability that a customer shall spend more than 10 minutes for the tailor’s service? {10]
+
+b) A readymade garments manufacturer has to process 7 items through two stages of production, viz;
+cutting and sewing. The time taken for each of these items at the different stages is given below in
+appropriate units:
+
+Item 1/2 1/3 |4 |5 {6 {7
+Cutting |5 1/7 13 |4 [6 |7 | 12
+Sewing |2 |6 |7 {5 |9 [5 | 8
+i) Find the order in which these items are to be processed through these stages so as to
+minimize the total processing time.
+ii) Suppose the third stage of production is added, viz pressing and packing with processing
+time for these items as follows:
+Item 1 2 3 4 5 6 7
+Pressing and packing | 10 |12 | 11 | 13 | 12 | 10 | 11
+Find an order in which these seven items are to be processed so as to minimize the time taken to
+process all the items through all three stages. [10]
+````
+
 ## 2014-15 · Re-Exam · Sem 8 · paper 31236da1d86a
 
 - Departments: Mechanical
@@ -12869,6 +13409,7 @@ X1 .X220
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/OPERATION RESEARCH/OPERATINS RESEARCH B TECH (MECH), BATCH 2014-15 RE EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 02/07/2015
 - Text: ocr (3 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 i:
@@ -12925,7 +13466,6 @@ Ps 2 if 5 25 y
 4 3 3 2000 2,
 
 requirenients O,
-Novan-west Commer RUE a ; leu
 
 Solve this transportation problem using (a) and (b) Vogel’s Approximation method. 4, *
 y,
@@ -13046,309 +13586,242 @@ on the basis of simulated data.
 3/3
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper d009d77776a6
+## 2014-15 · Re-Exam · Sem 4 · paper 44dc2c6b9e3c
 
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/OPERATION RESEARCH/OPERATIONS RESEARCH B TECH (MECHANICAL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 13/05/2016
-- Text: ocr (5 pages), mean OCR confidence 84.1
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/OPERATION RESEARCH/Operation Research Batch 2013-14 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06/05/2015
+- Text: ocr (4 pages), mean OCR confidence 88.0
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+* NR
 
-~~
+<a
 
-Programme: B.Tech (Mechanical) Year: IV Semester: VIII
+Se
+m ETE OF ag.
+SVKM’s NMIMS Pode aN
+RI :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGIN GEE I 2
+ws *] —<
+Programme: MCA Year: I: a" aa sb
+Batch: 2013-14 \ ee af
+Academic Year: 2014-2015 Red TT) |
+Subject: Operation Research ~
+Marks: 100
+Date: 06/05/2015 Time: 2.00 pm to 5.00 pm
 
-Academic Year: 2015-16
-
-' Batch: 2014-15
-{
-t
-i Subject: Operations Research Marks: 60
-Time: 10.00 ¥
-Date: 13/05/2016 Durations: 3 PN
+Durations: 3 (hrs)
 
 Re-Examination
 
-INSTRUCTION: Candidates should read the instructions carefully the instructions printed on the
-question paper and on the cover of the Answer Book.
-N.B.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on th
+Cover of the Answer Book, which is provided for their use.
 
-(1) Question no. 1 is compulsory.
+NB: 1 Question No. | is compulsory.
+2. Out of remaining questions, attempt any 4 questions. In all attempt 5 questions.
+3. All questions carry equal marks.
+3. Answer to each new question to be started on a fresh page.
+4. Figure in brackets indicates full marks.
+5. Make suitable assumptions if required.
 
-(2) Attempt any Four questions out of Five.
+Q.1A_ Fillin the blanks [05]
+1 In simplex method is added to the constraints if the inequality sign is
+“less than or equal to”.
+a) Surplus Variable b) Slack variables C) Artificial variables d) negative Slack variables
+2 method uses penalties to get the actual answers
+a) VAM b) North-West c) Least Cost Cell first d) Hungarian
 
-(3) In all Five questions to be attempted.
+3 In Queuing theory the queue discipline is denoted in Lee’s Notations as
+a) m b)o c) FIFO d)S
+4 Hungarian method is used for . .
+a) Transportation b) LPP c) Assignment d) Queuing 3) game theory
+5 In network analysis, if an activity has zero slack, it implies that
+a) It is a dummy activity, b) It lies on the critical path, c) The project is progressing well,
+d) None of the above .
+Q.1B Answer any three: (15)
+1) Explain the optimization method (steps) for transportation.
+2) Define PERT and CPM. Explain Critical Activity, Total Float and Crash time.
+3) Explain the queuing parameters with formula and the importance of queuing
 
-(4) Assume suitable data whenever necessary.
+4) For finding optimal solution for processing n jobs through m machines which conditions
+should be satisfied?
 
-(5) Draw neat diagram and explain whenever required.
+Q. 2(a) The production planner in a soft drink plant faces following problem: He has 2 bottling [05]
+lant A & B. Both plant A & plant B are designed for 200 ml bottles and 300 ml bottles.
 
-(6) Figure in the brackets on the right hand side indicates full marks
+Plant 200 ml bottles 300 ml bottles
+A 100/min 40/min
+B 60/min 75/min ‘
 
-Qu.1 Answer any four of the following. 12
-a) State any five applications of Linear Programming.
-b) What are the rules (principals) of dominance in game theory?
-c) State the steps followed in Monte Carlo method of simulation:
-d) What are the assumptions usually made in single channel queuing model?
-e) State any five managerial applications of queuing theory:
+Each plant can be run for 8 hrs/day, 5 days per week. Profit on a 200 ml bottles is 35
+paise & that on 300 ml bottles is 50 paise. Weekly production of drink cannot exceed
+30,000 bottles and market can absorb only 25,000 (200 ml bottles) and 7,000 (300 ml
+bottles) per week. The planner wishes to maximize his profits, subject to all restrictions.
+Q.2(b) Solve the following LP problems by the Simplex / Big M method. [15]
+Max Z = 30x; + 30x2
+Subject to constraints:
+3x, + X2 <30,000
+x; < 6,000
+X2 < 12,000; X] 4X2 > 0
 
-Qu.2 a) A supermarket has a single cashier. During the peak hour, customers arrive 05
-at a rate of 20 customers per hour. The average number of customers that
-can be processed by the cashier is 24 per hour. Calculate:
-i. The probability that the cashier is idle.
-
-ii. The average number of customers in the queuing system.
-
-iii. |The average time a customer spends in the system.
-
-iv. The average number of customer in the queue.
-
-vy. The average time a customer spends in the qucue waiting for
-
-service.
-
-b) XYZ tailoring house has one tailor specialized in men’s shirt. The number 07
-of customers requiring stitching of shirts appears to follow Poisson
-distribution with men arrival rate of 12 per hour. Customers are attended to
-by the tailor on a first-come - first serve basis, and they are willing to wait
-for service if there be queue. The time the tailor takes to attend a customer
-is exponentially distributed with men of 4 minutes. Required:
-
-i. The probability that the queuing system is idle.
-ii. | What is the probability that there shall be 5 customers in the shop
-(at a point a time)?
-om ili. | What is the number of customers in the shop?
-iv. What is expected number of customers waiting for tailor’s
-
-service?
-1 v. What is the expected length of the non-empty queue?
-vi. How much time a customer should expected to spend in the
+-ly
+74
 --- page 2 ---
-Ws, % queue?
-; How much time should a customer expected to spend in the shop?
+Q.3 Nixon company produces two types of shirts viz Formal and Embroided shirts. The (20)
+production planning is scheduled in to utilize the available machine time of 10 hrs and
+the skilled labor time of 8 hrs.
 
-Qu.3 a) A manager produced three items A, B and C. He has the possibility of 08
-Applying two strategies-produce all the three items or any two of them.
-“Products A and C pass through shops I and IJ, whereas B is further
-processed in shop III. Each shop has limited available hours. Hours
-available in shop I, II and III are 162 hours, 189 hours and 5 hours
-respectively. Profit per unit from A, B and C is Rs. 27, Rs. 29 and Rs. 25
-respectively. The following table gives the processing time of different
-items in different shops.
+Product Machine time per Skilled labor time Profit Contribution
+unit (hrs) per unit (hrs) per unit (Rs)
 
-c
-2
-il 0 3 0
+Formal shirts 4 2 B]
 
-Items
+Embroided shirts | 2 2 3
 
-Find the optimum production of A, B and C so as to maximize profit.
+Formulate the primal problem and dual problem.
 
-b) ABC Food Company is developing a low-calorie high-protein diet
-supplement called Hi-Pro. The specifications for Hi-Pro have been
-established by a panel of medical experts. These specifications along with
-the calorie, protein and vitamin content of three basic foods are given in
-the following table:
+Solve dual problem by simplex method and bring out the fact that optimum solution of
+one can be obtained from the dual. Also explain in the context of example what you
+understand by shadow prices or dual prices or original value of resources.
 
-04
+Q.4A_ Find an optimal sequence of performing 4 jobs on 5 machines that minimizes total (10)
+elapsed time. Also find the idle time of each machine.
 
-UNITS OF NUTRITIONAL ELEMENTS
-; __ Per 100 gm serving of Basic Foods
-Nutritional Basic Foods |
+Machine Job
+A B C D E
+Mi 11 13 9 16 17
+M2 4 3 5 2 6
+M3 6 7 5 8 +
+M4 15 8 13 9 11
 
-elements | No.1 | No.2 No.3 Hi-Pro
-oo a a ____...| Specifications |
-Calories 350 250. 200 | $300 |
+Q.4B A tax consulting firm has 4 customer service counters. Arrivals average 80 persons inan (10)
+8 hrs service day. The customer service representatives services have an exponential
+distribution with average service time of 20 min. Calculate:
 
-Protein. | 250 | 300 150 | 200
+a) Probability that system is empty.
 
-~ Vitamin A_ _ 100 : 150 | 75
+b) Average number of customers in the system.
 
-Vitamin C 5 - 125 150 | > 100 -
+c) Average number of customers waiting in the queue.
 
-Cost per | Rs. 1.50 | Rs.2.00 | Rs. 1.20
-serving : - |
+d) Average time a customer spends in the system
 
-Formulate the linear programming mode] to minimize cost.
+e) Average time a customer waits for service in the queue.
+f) Probability that an incoming customer will have to wait.
 
-Qu. 4 a) ABC Company is engaged in manufacturing 5 brands of packed snacks. It 06
-is having five manufacturing steps, each capable of manufacturing any of
-its brands, one at a time. The cost to make a brand on these on these setups
-vary according to the following table:
+Q.5A ABC company has four plants each of which can’ manufacture any one of the four (10)
+products. The production costs and the sales revenue differ from one plant to another.
+Find the allocation of products to plants to obtain highest gain.
 
-Tsi [s2. 83 84 SS
-iT [5 i
-6 [9 5
+PRODUCTION COST (‘000 rupees)
 
-2 16. ——
-7 ul 10
+Sales revenue (‘000 rupees) A B C "
+
+A B e D
+
+pr {49 [60 [45 |e1
+ee | p2_ [55 [63 [45 [69
+P2|60 | 70 {51 «| 74 P32. {52 —-|62, —«(/49_—s«d/ 68
+Ps |55 «(|67— «| 53.—«| 70 pa iss [ea fas 66
+
+P4 58 65 54 69
 --- page 3 ---
-Qu. 5
+0 cs a x
+of We 4
+2 4PSTMB = 4
 
-b)
+-y Jas
 
-a)
+Q.5B A company manufactures 30 items per day. The sales of these items depends upon (10)
+demand Which has the following distribution:
 
-b)
+Sales 27 28 29 30 31 32
+(Units)
+Probability | 0.1 0.15 0.2 0.35 0.15 0.05
 
-Assuming, five setups are S1, S2, S3, S4 and S5 and five brands are B1,
-B2, B3, B4 and BS. Find the optimum assignment of products on these
-setups resulting in minimum cost.
+The production cost and sale price of each unit are Rs 40 and Rs 50 respectively. Any
+unsold Product is to be disposed off at a loss of Rs. 15 per unit. There is a penalty of Rs.
+5 per unit if the Demand is not met. Using the following random numbers estimate total
+profit/loss for the company of the next 10 Days.
 
-A company has three factories at Amethi, Baghpat and Gwalior and four
-distribution centers at Allahabad, Bombay, Calcutta and Delhi. With
-identical cost of production at the three factories the only variable cost
-involved is transportation cost. The production at the three factories is
-5,000 tonnes; 6,000 tonnes; 4,000 tonnes and 1500 tonnes respectively.
-The demand at four distribution centers ia 6,000 tonnes; 4,000: tonnes;
-2,000 tonnes and 1500 tonnes respectively. The transportation cost per
-tonne from different factories to different centers are given below:
-Distribution center
+Random Numbers:10,99,65,99,95,01,79,11,16,20.
 
-Factory Allahabad Bombay | ___ Calcutta Delhi
-Amethi _ 3 a 7
-Baghpat 7 a 207
-Gwalior 20d a a
+Q.6A A steel company is concerned with the problem of distributing imported ore from 3 ports (10)
+to 4 steel mills. The supplies per week of ore arriving at ports, and demands per week at
+steel mills are as follows:
 
-Suggest the optimum transportation schedule and find the minimum cost
-of transportation.
+PORT Capacity (tones) | MILLS Demand (tones)
+A 20 I 10
+B 38 I 18
+Cc 16 Il 22
+IV 24
 
-Convert the following game problem, involving two person ‘zero-sum’
-game in to a linear programming problem:
+Transportation cost is Rs 0.05 per ton per Km. The distance between the ports and the
+mills is given below:
 
-Player B
-8 20 3 1
-Player A 6 25 ~ 2
-0 -8 12 9
-16 9 21 0
+I Il Il IV
+A 50 60 100 50
+B 80 40 70 50
+C 90 70 30 50
 
-Don’t Solve.
+Calculate the transportation plan which will minimize the transportation cost.
 
-Two firms are competing for business under the conditions so that one
-firm’s gain is another firm’s loss. Firm A’s pay-off matrix is given below:
+Q.6B Draw network diagram of activities for the project. Identify the critical path. What is its (10)
+length? Find the earliest times and latest times. Find the total float and free float for
 
-_ Firm B 7
-No Medium Heavy
-__..| advertising | advertising | advertising
-No 10 5 2
-Firm A advertising —
-Medium 13 12 15
-advertising ee ee ee
-Heavy 16 14 10
-advertising
+each task.
 
-Suggest the optimum strategies for the two firms and the net outcome
-thereof.
+Job A |B/IC|D{\{E/F/G{|H{I J |K LIM
+Immediate - AIBC ;}A/EJE JE /H,L{|K |D,F,/J |H,L
+Predecessors G
 
-als -
+Expected 14);4 ;2 |1 |2 {3 {2 }4 |}3 |12 14 2 12
+time (days)
 
-06
+3y
 
-05
-
-07
+ian!
 --- page 4 ---
-Qu. 6
+Q.7A A publisher has just signed a contract for the publication of a book. What is the earliest (10)
+time that the book can be ready for distribution? The task in the table are involved, with
+time estimates given in week.
+Draw PERT network Find expected task duration and the variance
+Find critical path. What is the expected length of the critical path? What is variance of
+critical path. What is the probability that the project is completed between 35 and 40
+weeks? What is the 95% chance of project completion on time.
 
-Qu. 7
+Activity | Predecess | Optimistic | Most likely Pessimistic
+ors time time (weeks) time(week)
+(weeks)
 
-a) A company manufactures 30 items per day. The sale of these items
-depends upon demand which has the following distribution: _
-Sales 27 28 | 29 30 31 32
+A -- 4 7 16
 
-(units) _ a ot.
-Probability 0.10 0.15 0.20. | 0.35 ; O15 0.05
+B - 1 5 15
 
-The production cost and sales price of each unit are Rs. 40 and Rs. 50
-respectively. Any unsold product is to be disposed of at a loss of Rs. 1Sper
-unit. There is a penalty of Rs. 5 per unit if the demand is not met.
+ie A 6 12 30
 
-Using the following random nu mbers estimate total profit/loss for the
-company of next 10 days:
+D A 2 5 8
 
-10, 99, 65, 99, 95,01, 79, 11, 16, 20
+E Cc 5 11 17
 
-If the company decides to produce 29 items per day, what is the advantage
-or disadvantage to the company?
+F D 3 6 15
 
-b) Process involves the production of a particular component which is then
-inStalled into an end product. Past observation has indicated that the
-average production time for the component is 4 minutes but fluctuations
-about the average do occur and the following probability distribution has
-been derived from past observations: _ _.
+G B 3 9 27
 
-Minutes Probability
+H E, F 1 4 7
 
-_ sey
+I G 4 19 28
 
-The average time taken to install a components is 3 minutes but this also
-fluctuates and the following probability distribution has been derived:
+Q.7B_ Solve LP Problem using graphical method re)
 
-Minutes | Probability i
+Max Z= 3x, +2x2
+Subject to the linear constraints
+-2x; + 3x2 <9
+3x, - 2x2 <-20 3X, .X220
 
-- 2 | 030 2
-3 0.45 7
-a eee 0.15 a
-_ 5 010 _
-
-The current system uses one operative for installation but the company is
-considering employing another operative on the installation process.
-Simulate 10 arrivals on the current system, using the following 2 digit
-random numbers 20, 74, 94, 22, 93, 45, 44 16, 04, 32, 03, 62, 61, 89, 01,
-27, 49, 50, 90, 98.
-
-a) A product is manufactured by Blending three different raw materials. The
-finished product should meet certain quality requirements. Given the
-following data what is your recommendation with regard to quality for row
-materials to be blended, which will meet the quality requirements with
-
-minimum cost.
-
-4h)s—
-
-06
-
-a6
-
-06
---- page 5 ---
-ee
-
-b)
-
-Quality Contribution to quality Minimum quality
-
-| Characteristics | requirements _ |
-|
-
-: 10 :
-
-13. :
-
-4
-
-Costofraw | 2 | 5 | 3”
-materials per
-unit (in Rs)
-
-Consider the following transportation table. The costs are given in rupees;
-the supply and demand are in units. Determine an optimal solution.
-
-_Source j Destination
-| 3
-we BE nell = « SE cee EY sas Se
-| 200 120 240 | 680 |
-{
-| |
-_.t as | 880s
-
-5) 5—
-
-06
+— ee
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 5c3abad53a37
@@ -13602,6 +14075,7 @@ X] .X2>0
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/OPERATION RESEARCH/OPERATION RESEARCH B TECH (COMPUTER) 2013-14 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; exam date: 17/05/2014
 - Text: ocr (3 pages), mean OCR confidence 85.2
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —_— SVKM’s NMIMS
@@ -13701,7 +14175,6 @@ The distance between various stations are as given in the matrix below.
 Moses ee ene nn ee = Stations ------------------------------------ >
 
 I I UL IV Vv
-one nnn enn meena nna nn nena NRE Re E ETRE eR eee, >
 --->
 
 How should the five wagons be transported so as to minimize the total distance covered.
@@ -13722,7 +14195,6 @@ J4 -----> 50 65 35 50 46 63
 ow the jobs should be assigned to the various machines so that the total cost is minimized?
 
 4] A] Draw the network diagram for the following list of activities - {10 marks]
-aoe > Si nse2 saeseaceneeseeasenaad > Soecenmens > ona -nn nnn nn ete >
 Activity Immediate Predecessor Activity Immediate Predecessor
 Roeomnsss > a > <-------- > Kenton nnennnnsnsnnnnntensensne >
 A - L K
@@ -13734,9 +14206,7 @@ F E Q B
 G E R N
 H Cc S L,M
 I C.F T S
-J G, H, I U P,Q
 K J v U
-Kone nenes > a cS Keawesens > eseeeuseceerepe eeeeeeamsaoes >
 --- page 3 ---
 4] B] A project schedule has characteristics as shown in the table below - [10 marks]
 
@@ -13753,7 +14223,6 @@ aioe > Brae annsneensernnnceceseeeecemand >
 4-6 14
 5-6 3
 6-7 14
-ne > canna nnn anon eecenenee! >
 
 i] Construct Network Diagram.
 ii] Prepare a table giving Earliest & Latest, Start & Finish times for each activity along with the total float.
@@ -13958,6 +14427,7 @@ e crib clerk is idle. (5 marks)
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/OPERATION RESEARCH/Operation Research 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; exam date: 10/05/2014
 - Text: ocr (3 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -14046,7 +14516,6 @@ hours each man would take to accomplish each job is given below. Find the optimu
 schedule with time for the above assignment problem.
 
 | | Job Men
-] A B Cc D E
 1 4 6 11 16 9
 2 5 8 16 19 9
 3 9 13 21 21 13
@@ -14142,258 +14611,6 @@ variance of critical path
 weeks and 36 weeks?
 
 34 5
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper ea54b7a5ae5a
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/OPERATION RESEARCH/OPERATION RESEARCH B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 14/05/2015
-- Text: ocr (4 pages), mean OCR confidence 89.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: Il Semester: VI
-Batch: 2013-14
-
-Academic Year: 2014-2015 Aston
-Subject: Operation Research a
-Marks: Psy)
-: . Time: ;
-Date: 14/05/2015 ime: REE y ee
-Duration j 26 j
-* IS -
-Se ey
-Re-Examination Mlle tS = rl
-
-Instructions: Candidates should read carefully the instructions printed on the question paper an
-cover of the Answer Book, which is provided for their use.
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining six questions, attempt any 4 questions.
-
-3. All questions carry equal marks.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures on right indicate full marks. s
-
-Q.1 a) A diet of a sick person must contain atleast 4000 units of vitamins, 50 units of minerals and 1400
-calories. Two foods A and B are available at a cost of Rs. 4 and Rs. 3 per unit respectively. If one unit of A
-contains 200 units of vitamins, 1 unit of mineral and 40 calories and one unit of B contains 100 units of
-vitamins, 2 unit of mineral and 40 calories, find by graphic method what combination of food be used to
-nave least cost? {5
-
-b) Write the dual of the following primal: [5]
-Minimize Z =x,+x,+X,
-Subject to;
-2%, ~ 3x, + 4x, =5, x, -—2x, 23, 2x, -x, 24
-
-%,,X, 2-0, x, unrestricted
-
-c) Obtain initial solution to the following Transportation problem by Least cost Method: {5]
-WwW xX Yo° Z Supply
-A 50 150 70 60 50
-B 80 70 90 10 60
-Cc 15 87 79 81 40
-Demand 20 70 50 10
-
-d) The following maintenance job has to be performed periodically on the heat exchangers in a refinery:
-
-[5]
-Job Description Immediate Expected
-Predecessors | time(days)
-
-A Dismantle pipe connections -- 14
-
-B Dismantle header, closure and floating head front A 22.
-
-c Remove tube bundle ~ B 10
-
-D Clean bolts B 16
-
-E Clean header and floating head front B 12
-
-F Clean tube bundle C 10
-
-G Clean shell Cc 6
-
-H Replace tube bundle F,G 8
-
-| Prepare shell pressure test D,E,H 24
-
-J Make the final reassembly | 16
-
-(i) Draw network diagram of activities for the project. -
-
-(ii) Identify the critical path. What is its length?
-
-t/y
---- page 2 ---
-Q.2 a) Using Simplex Method, Maximize z = 2x, + 4x, +3x,+x, [10]
-Subject to the constraints:
-X,+3x, +x, 54,2x, +x, $3,x,+4x,+x, 8 35 X),X_,%X3,X, 20.
-
-b) Maximize Z=3x,+2x,+7x, [10]
-Subject to the constraints:
-—3x, + 2x, + 2x, =8; —3x, + 4x, +x, =75x,,x,,x, 20
-
-Q.3 a) Using Revised Simplex Method, Maximize z = 6x, — 2x, +3x, [10]
-Subject to the constraints:
-2x, — xX, +2x,<52,x,+4x, < 4;x,,x,,x, 20.
-
-b) Using Dual Simplex Method, Minimize Z = 2x, +2x,+4x, [10]
-Subject to the constraints:
-2x, +3x, +5x, 2 2,3x, +x, + 7x, $3,x, + 4x, +6x, $5; %,x5,x, 20
-
-Q.4 a) A department store wishes to stock following quantity of product in three types of containers. The
-type of container and quantity demanded by the store are I — 170, II — 200, III — 180 . Tenders are
-
-submitted by four dealers D1 , D2 , D3 , D4 . Who can undertake to supply 150, 160, 110, 130 (ali types
-combined) respectively. The store estimates that the profit per container type ( in Rs. ) will be as follows:
-
-Dealer DI D2 D3 D4
-Type
-I 8 9 6 3
-II 6 1] 5 10
-Il 3 8 7 9
-Obtain optimal schedule for above transportation problem. [10]
-
-b) A company has four terminals U, V, W and X. At the start of a particular day 10, 4, 6 and 5 trailers are
-available at these terminals. During the previous night 13, 10, 6 and 6 trailers respectively were loaded
-at plants A, B, C and D. The company dispatcher has come up with the costs between the terminals and
-
-plants as follows: [10]
-Terminal Plants
-A B C D
-U 20 36 : 10 28
-Vv 40 20 45 20
-W 75 35 45 50
-X 30 35 40 25
-
-Find the allocation of loaded terminals from plants to terminals in order to minimize transportation cost.
-
-Q.5 a) A private firm employs typists on hourly piece rate basis for their daily work. Five
-typists are working in that firm and their charges and speeds are different. On basis of some earlier
-understanding, only one job is given to one typist and the typist is paid for full hours even when he or
-
-she works for a fraction of an hour. Find the least cost allocation for the following data. [10]
-Typist | Rate/hr No. of pages Job No. of pages
-os typed/hr
-A 5 12 P 199
-B 6 14 Q 175
-— Cc 3 8 R 145
-D 4 10 S 298
-
-E 4 11 T 178
---- page 3 ---
-b) A travelling salesman has to visit 5 cities. He wishes to start from a particular city, visit each city once
-and then return to his starting point. The travelling cost (in ‘O00 Rs.) of each city from a particular city is
-given below:
-
-To city
-A B C ~ TD E
-From city A = 2 5 7 L
-B 6 = 3 8 2
-Cc 8 7 - 4 7
-D 12 4 6 - 5
-E 1 3 2 8 -
-What is the sequence of visit of the salesman so that the cost is minimum? [10]
-Q.6 a) Solve, Maximize z = Sx, + 4x,
-Subject to the constraints:
-x, +x, 22,5x,+3x, <15,3x,+5x, <15;x,,x, = 0 and are integers. [10]
-
-b) An insurance company has decided to modernize and refit one of its branch offices. Some of the
-existing office equipments will be disposed of but the remaining will be returned to the branch of
-compietion of the renovation work. Tenders are invited from a number of selected contractors. The
-contractors will be responsible for all the activities in connection with the renovation work excepting the
-
-prior removal of the old equipment and its subsequent replacement. [10]
-Job | Description Immediate Expected
-Predecessors | time(days)
-
-A Design new premises al 14
-
-B Obtain tenders from the contractors A 4
-
-Cc Select the contractor B 2
-
-D Arrange details with selected contractor Cc 1
-
-E Decide which equipment is to be used A 2
-
-F Arrange storage of equipment E 3
-
-G Arrange disposal of other equipment E 2
-
-H Order new equipment E 4
-
-| Take delivery of new equipment HL S
-
-J Renovations take place K 12
-
-K Remove old equipment for storage or disposal | D,F,G 4
-
-L Cleaning after the contractor has finished J 2
-
-M Return old equipment for storage H,L 2
-
-(a) Draw network diagram
-
-(b) Calculate the minimum time that the renovation can take from the design stage.
-
-(c) Find the effect on the overall duration of the project if the estimates or tenders can be
-obtained in two weeks from the contractors by reducing their numbers.
-
-(d) Calculate the independent float that is associated with the non-critical activities in the
-network diagram.
-
-Q.7 a) XYZ Tailoring House has one tailor specialized in men’s shirts. The number of customers requiring
-stitching of shirts appears to follow Poisson distribution with mean arrival rate of 12 per hour.
-Customers are attended by the tailor on a first-come-first served basis and they are willing to wait for
-the service if there be queue. The time the tailor takes to attend a customer is exponentially distributed
-sai with a mean of 4 minutes. Required:
-
-i) The utilization parameter (i.e. traffic intensity)
-
-ii)The probability that the queuing system is idle.
-
-iii)The average time the tailor is free on 8-hour working day.
---- page 4 ---
-iv)What is the probability that there shall be 5 customers in the shop(at a point of a time)?
-
-v) What is the number of customers in the shop?
-
-vi) What is the expected number of customers waiting for tailor’s service?
-
-vii) What is the expected length of the non-empty queue?
-
-viii) How much time a customer should expect to spend in a queue?
-
-ix) How much time a customer should expect to spend in the shop?
-
-x) What is the probability that a customer shall spend more than 10 minutes for the tailor’s service? {10]
-
-b) A readymade garments manufacturer has to process 7 items through two stages of production, viz;
-cutting and sewing. The time taken for each of these items at the different stages is given below in
-appropriate units:
-
-Item 1/2 1/3 |4 |5 {6 {7
-Cutting |5 1/7 13 |4 [6 |7 | 12
-Sewing |2 |6 |7 {5 |9 [5 | 8
-i) Find the order in which these items are to be processed through these stages so as to
-minimize the total processing time.
-ii) Suppose the third stage of production is added, viz pressing and packing with processing
-time for these items as follows:
-Item 1 2 3 4 5 6 7
-Pressing and packing | 10 |12 | 11 | 13 | 12 | 10 | 11
-Find an order in which these seven items are to be processed so as to minimize the time taken to
-process all the items through all three stages. [10]
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper 5407a9c5c41a
@@ -14594,6 +14811,7 @@ N-job, Three machine problem. [05]
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/OPERATION RESEARCH/OPERATIONS RESEARCH B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: duration hours: 3; exam date: 03/07/2015
 - Text: ocr (3 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -14740,7 +14958,6 @@ M, M,,. Processing times for the jobs are given hereunder. Determine the optimum
 Evaluate the sequence for the total elapsed time T. In case of multiple sequences evaluate any two of
 
 the sequences and show that T is the same for both of them. (12)
-Job J, J; J; J, J; J, J;, J, J, Ji |
 Machine M1 | 14 16 20 6 14 8 10 16 10 12
 | Machine M2 | 8 4 12 12 10 14 4 12 14 12, |
 Q.7 Write short note on the following (Solve any Four) (20)
@@ -14763,6 +14980,7 @@ e) Kendall’s Notation used in Queuing Models
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/OPERATION RESEARCH/OPERATION RESEARCH B TECH (MECHANICAL), BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: exam date: 02/07/2014
 - Text: ocr (3 pages), mean OCR confidence 86.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -14806,7 +15024,6 @@ C ----- > 3 5 6 3 2 -------> 40
 D ----- > 2 4 4 5 3 ------~
 ee a a >
 Demand 60 60 30 40 10
-Fe ne SE a ee eee >
 Total Supply = Total Demand = 200 Units
 2] Aj Using the Simplex Method, solve the following LPP - [10 marks]
 
@@ -14860,7 +15077,6 @@ How the jobs should be assigned to the various contractors so that the total cos
 
 producing job i on machine j. {10 marks]
 
-anne enn enna Machines ------------------- >
 Mi M2 M3 M4
 
 Jobs ee >
@@ -14924,6 +15140,7 @@ C] Kendall’s Notation used in Queuing Models
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/OPERATIONS RESEARCH/OPERATONS RESEARCH 2013-14 Re-exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 16/06/2014
 - Text: ocr (2 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -14964,7 +15181,6 @@ A ----- > 5 1 7
 B ----- > 6 4 6
 C ----- > 3 2 5
 D ----- > 5 3 2
-Geen eee eS SS name eswnreweres wes)
 Demand 75 20 50
 <i >
 
@@ -15033,244 +15249,6 @@ B] Queuing Models
 -X-X-X-K-X-X-X-X-X-X-K-K-X-X-X-K-K-K-K-~-X-X-X-X-K-X-K-X-X-X-K-X-K-K-X-K-K-X-K-=K-X-X-K-K-K-
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 44dc2c6b9e3c
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/OPERATION RESEARCH/Operation Research Batch 2013-14 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 06/05/2015
-- Text: ocr (4 pages), mean OCR confidence 88.0
-
-````text
-* NR
-
-<a
-
-Se
-m ETE OF ag.
-SVKM’s NMIMS Pode aN
-RI :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGIN GEE I 2
-ws *] —<
-Programme: MCA Year: I: a" aa sb
-Batch: 2013-14 \ ee af
-Academic Year: 2014-2015 Red TT) |
-Subject: Operation Research ~
-Marks: 100
-Date: 06/05/2015 Time: 2.00 pm to 5.00 pm
-
-Durations: 3 (hrs)
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on th
-Cover of the Answer Book, which is provided for their use.
-
-NB: 1 Question No. | is compulsory.
-2. Out of remaining questions, attempt any 4 questions. In all attempt 5 questions.
-3. All questions carry equal marks.
-3. Answer to each new question to be started on a fresh page.
-4. Figure in brackets indicates full marks.
-5. Make suitable assumptions if required.
-
-Q.1A_ Fillin the blanks [05]
-1 In simplex method is added to the constraints if the inequality sign is
-“less than or equal to”.
-a) Surplus Variable b) Slack variables C) Artificial variables d) negative Slack variables
-2 method uses penalties to get the actual answers
-a) VAM b) North-West c) Least Cost Cell first d) Hungarian
-
-3 In Queuing theory the queue discipline is denoted in Lee’s Notations as
-a) m b)o c) FIFO d)S
-4 Hungarian method is used for . .
-a) Transportation b) LPP c) Assignment d) Queuing 3) game theory
-5 In network analysis, if an activity has zero slack, it implies that
-a) It is a dummy activity, b) It lies on the critical path, c) The project is progressing well,
-d) None of the above .
-Q.1B Answer any three: (15)
-1) Explain the optimization method (steps) for transportation.
-2) Define PERT and CPM. Explain Critical Activity, Total Float and Crash time.
-3) Explain the queuing parameters with formula and the importance of queuing
-
-4) For finding optimal solution for processing n jobs through m machines which conditions
-should be satisfied?
-
-Q. 2(a) The production planner in a soft drink plant faces following problem: He has 2 bottling [05]
-lant A & B. Both plant A & plant B are designed for 200 ml bottles and 300 ml bottles.
-
-Plant 200 ml bottles 300 ml bottles
-A 100/min 40/min
-B 60/min 75/min ‘
-
-Each plant can be run for 8 hrs/day, 5 days per week. Profit on a 200 ml bottles is 35
-paise & that on 300 ml bottles is 50 paise. Weekly production of drink cannot exceed
-30,000 bottles and market can absorb only 25,000 (200 ml bottles) and 7,000 (300 ml
-bottles) per week. The planner wishes to maximize his profits, subject to all restrictions.
-Q.2(b) Solve the following LP problems by the Simplex / Big M method. [15]
-Max Z = 30x; + 30x2
-Subject to constraints:
-3x, + X2 <30,000
-x; < 6,000
-X2 < 12,000; X] 4X2 > 0
-
--ly
-74
---- page 2 ---
-Q.3 Nixon company produces two types of shirts viz Formal and Embroided shirts. The (20)
-production planning is scheduled in to utilize the available machine time of 10 hrs and
-the skilled labor time of 8 hrs.
-
-Product Machine time per Skilled labor time Profit Contribution
-unit (hrs) per unit (hrs) per unit (Rs)
-
-Formal shirts 4 2 B]
-
-Embroided shirts | 2 2 3
-
-Formulate the primal problem and dual problem.
-
-Solve dual problem by simplex method and bring out the fact that optimum solution of
-one can be obtained from the dual. Also explain in the context of example what you
-understand by shadow prices or dual prices or original value of resources.
-
-Q.4A_ Find an optimal sequence of performing 4 jobs on 5 machines that minimizes total (10)
-elapsed time. Also find the idle time of each machine.
-
-Machine Job
-A B C D E
-Mi 11 13 9 16 17
-M2 4 3 5 2 6
-M3 6 7 5 8 +
-M4 15 8 13 9 11
-
-Q.4B A tax consulting firm has 4 customer service counters. Arrivals average 80 persons inan (10)
-8 hrs service day. The customer service representatives services have an exponential
-distribution with average service time of 20 min. Calculate:
-
-a) Probability that system is empty.
-
-b) Average number of customers in the system.
-
-c) Average number of customers waiting in the queue.
-
-d) Average time a customer spends in the system
-
-e) Average time a customer waits for service in the queue.
-f) Probability that an incoming customer will have to wait.
-
-Q.5A ABC company has four plants each of which can’ manufacture any one of the four (10)
-products. The production costs and the sales revenue differ from one plant to another.
-Find the allocation of products to plants to obtain highest gain.
-
-PRODUCTION COST (‘000 rupees)
-
-Sales revenue (‘000 rupees) A B C "
-
-A B e D
-
-pr {49 [60 [45 |e1
-ee | p2_ [55 [63 [45 [69
-P2|60 | 70 {51 «| 74 P32. {52 —-|62, —«(/49_—s«d/ 68
-Ps |55 «(|67— «| 53.—«| 70 pa iss [ea fas 66
-
-P4 58 65 54 69
---- page 3 ---
-0 cs a x
-of We 4
-2 4PSTMB = 4
-
--y Jas
-
-Q.5B A company manufactures 30 items per day. The sales of these items depends upon (10)
-demand Which has the following distribution:
-
-Sales 27 28 29 30 31 32
-(Units)
-Probability | 0.1 0.15 0.2 0.35 0.15 0.05
-
-The production cost and sale price of each unit are Rs 40 and Rs 50 respectively. Any
-unsold Product is to be disposed off at a loss of Rs. 15 per unit. There is a penalty of Rs.
-5 per unit if the Demand is not met. Using the following random numbers estimate total
-profit/loss for the company of the next 10 Days.
-
-Random Numbers:10,99,65,99,95,01,79,11,16,20.
-
-Q.6A A steel company is concerned with the problem of distributing imported ore from 3 ports (10)
-to 4 steel mills. The supplies per week of ore arriving at ports, and demands per week at
-steel mills are as follows:
-
-PORT Capacity (tones) | MILLS Demand (tones)
-A 20 I 10
-B 38 I 18
-Cc 16 Il 22
-IV 24
-
-Transportation cost is Rs 0.05 per ton per Km. The distance between the ports and the
-mills is given below:
-
-I Il Il IV
-A 50 60 100 50
-B 80 40 70 50
-C 90 70 30 50
-
-Calculate the transportation plan which will minimize the transportation cost.
-
-Q.6B Draw network diagram of activities for the project. Identify the critical path. What is its (10)
-length? Find the earliest times and latest times. Find the total float and free float for
-
-each task.
-
-Job A |B/IC|D{\{E/F/G{|H{I J |K LIM
-Immediate - AIBC ;}A/EJE JE /H,L{|K |D,F,/J |H,L
-Predecessors G
-
-Expected 14);4 ;2 |1 |2 {3 {2 }4 |}3 |12 14 2 12
-time (days)
-
-3y
-
-ian!
---- page 4 ---
-Q.7A A publisher has just signed a contract for the publication of a book. What is the earliest (10)
-time that the book can be ready for distribution? The task in the table are involved, with
-time estimates given in week.
-Draw PERT network Find expected task duration and the variance
-Find critical path. What is the expected length of the critical path? What is variance of
-critical path. What is the probability that the project is completed between 35 and 40
-weeks? What is the 95% chance of project completion on time.
-
-Activity | Predecess | Optimistic | Most likely Pessimistic
-ors time time (weeks) time(week)
-(weeks)
-
-A -- 4 7 16
-
-B - 1 5 15
-
-ie A 6 12 30
-
-D A 2 5 8
-
-E Cc 5 11 17
-
-F D 3 6 15
-
-G B 3 9 27
-
-H E, F 1 4 7
-
-I G 4 19 28
-
-Q.7B_ Solve LP Problem using graphical method re)
-
-Max Z= 3x, +2x2
-Subject to the linear constraints
--2x; + 3x2 <9
-3x, - 2x2 <-20 3X, .X220
-
-— ee
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper a181b4b96242
 
 - Departments: Computer Applications (MCA)
@@ -15278,6 +15256,7 @@ Subject to the linear constraints
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/OPERATION RESEARCH/Operation Research Batch 2013-14 Re Exam_a181b4b962.pdf`
 - Printed on paper: exam date: 02/07/2014
 - Text: ocr (4 pages), mean OCR confidence 91.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -15390,7 +15369,6 @@ b. Infeasible region d. all the above.
 
 solution is
 .19 | Which of the following relationship is not true for queue
-a. Ws= Wqtl/p ce. Ls= Lq +1/A
 b. Ls=AWs d. Lq= AWq
 
 20 | The purpose of using simulation technique is to
@@ -15408,7 +15386,6 @@ labour. Profit margin on P1 is Rs. 60 and on P2 is Rs. 40. Formulate it as a lin
 programming problem
 -2f y
 --- page 3 ---
-seaieddiiniinaninee nae ee Cs aeadingt een tmpememmemanticamemeer
 
 Q. 2(b)"| Solve the following LP problems by the Simplex / Big M method. [15]
 
@@ -15539,6 +15516,566 @@ nearest 0.1 month. What is that minimum completion time.
 4] 4
 ````
 
+## 2013-14 · Re-Exam · Trim 5 · paper 09beae7d5a98
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION MANAGEMENT/OPERATION RESEARCH BATCH 2011-12 RE EXAM0005.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16/06/2014
+- Text: ocr (4 pages), mean OCR confidence 85.2
+
+````text
+SVEKM’s NMIMS :
+__.MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Programme: MCA : Year: I Trimester: Vv
+Academic Year: 2013-14 Batch : 201
+Subject : Operation Research
+Marks: 100
+Date : 16/06/2014 Time : 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Cover of the Answer Book, which is provided for their use.
+NB: 1. Attempt any 5 questions.
+2. All questions carry equal marks.
+"3. Answer to each new question to be started on a fresh page.
+4. Figure in brackets indicates full marks.
+5. Make suitable assumptions if required.
+
+Q.1 A farmer has 1000 acre of land on which he can grow corn, wheat and soyabean. Each [20]
+acre of corn costs Rs. 100 for plantation requires 7 men-days of work and yields a profit
+of Rs. 30. Each acre of wheat costs Rs. 120 for plantation requires 10 men-days of work
+and yields a profit of Rs. 40. An acre of soyabean costs Rs. 70 for plantation requires 8
+men-days of work and yields a profit of Rs. 20. If farmer has Rs. 1,00,000 for plantation
+and can count on 8000 men-days of work, determine how may acres should be allocated
+
+to each crop to maximize profit. Formulate the LPP and solve it with Simplex/Big M
+method.
+
+Q.2 The XYZ company can produce two products A and B during the slack period. For the [20]
+next period, the production has been scheduled so that the milling machine is free for 10
+hours and skilled labour will have 8 hours of time available. The company wants to
+maximize the profit.
+
+Product | Machine time Skilled labour time (hrs/unit) Profit (Rs./unit)
+
+(hrs/unit)
+A 4 2 5
+B 2 2 3
+
+(i) Formulate the primal and dual for the above LPP.
+(ii) Solve the primal and interpret the solution of the dual.
+
+Q.3(a) Explain looping and dangling in network diagram [05]
+Q.3(b) A project consists of following activities [15]
+Activity | Optimistic | Most | Pessimistic | Activity | Optimistic | Most | Pessimistic
+time | likely | time(week time likely | time(week
+(week) time ) (week) time )
+(week (week
+) )
+1-2 3 3 3 4-6 4 6 8
+2-3 3 6 9 5-6 0 0 0
+2-4 Z 4 6 5-7 3 4 5
+3-5 4 6 8 6-7 2 5 8
+
+1. Draw PERT network Find expected task duration and the variance
+2. Find critica] path. What is the expected length of the critical path? What is
+
+14
+--- page 2 ---
+variance of critical path
+3. The probability that the project will be completed in 23 weeks.
+
+Q.4(a) A marketing manager has 5 salesmen and 5 sales districts. Considering the capabilities [10]
+of the salesmen and the nature of districts, the marketing manager estimates that sales
+per month (in 000 rs) for each salesman in each district would be as follows. Find the
+assignment of salesmen to districts that will result in maximum sales.
+
+Salesmen Districts
+A B GC D E
+1 32 38 40 28 40
+2 40 24 28 21 36
+3 41 27 33 30 37
+4 22 38 4] 36 36
+5 29 33 40 35 39
+
+Q.4(b) A manufacturer wants to ship 22 loads of his product as shown in the table. The matrix [10]
+gives the kilometers from Source to destination. Shipping costs are Rs. 10 per load per
+Km. What shipping schedule should be used to minimize total transportation cost?
+
+Source Destination Supply
+I I Il “IV Vv
+A 5 8 6 6 3 8
+B 4 7 7 6 5 5
+C 8 4 6 6 4 9
+Demand 4 4 5 4 8
+
+Q.5(a) Find an optimal sequence for the problem of 4 jobs and 5 machines (when passing is not [10]
+allowed) of which processing time (in hrs) is given. Also find the total elapsed time and
+idle time for each machine.
+
+Job Machine
+A B C D E
+1 7 5 2 3 9
+2 6 6 4 5 10
+3 E} 4 5 6 8
+4 8 3 3 2 6
+
+Q.5(b) Arrival at telephone booth are considered to be Poisson with an average time of 10 [10]
+minutes between one arrival and the next. The length of phone call is assumed to be
+distributed exponentially, with mean 3 minutes.
+
+1. What is the probability that a person arriving at the booth will have to wait?
+
+2. The telephone department will install a second booth when convince that an
+arrival would expect waiting for at least 3 minutes for a phone call. By how
+much should the flow arrivals increase in order to justify a second booth?
+
+3. What is the average length of the queue that forms from time to time?
+
+4. What is the probability that it will take him more than 10 minutes altogether to
+wait for the phone and complete his call?
+
+Q.6(a) The Deena Paints Ltd. Would like to improve its inventory management policies for its [10]
+supply of the paint used for automobiles. Annual demand for such paint is 50,000 litres,
+- and the paint, which costs Rs. 20 per litre, is used at a constant rate. Annual carrying
+costs are estimated at 15 percent of the value of paint held. Each order costs Rs. 80.
+Determine
+--- page 3 ---
+ir ca “aN A ys
+aK
+
+(i) How much paint should be ordered each time? 2 wpstTMB fe
+
+(ii) How often should paint be ordered? LIBRARY JE
+
+(iii) Time between two consecutive orders. A PF Zz
+
+: F : ea atte 5 i Re A
+
+(iv) What is the total annual cost associated with this policy? * Oran
+
+Q. 6(b) A sweet store keeps stock of a popular brand of sweet. Previous experience shows the [10]
+daily demand pattern for the item with associated probabilities as given below.
+Daily demand (number) 0 10 20 30 40 50
+Probability 0.01 | 0.20 | 0.15 | 0:50 0.12 0.02
+
+Using the following random numbers to simulate the demand for next 10 days.
+[25 [| 39 | 6 | 7 | 12 | 05 [| 73 | 89 | 19 | 49 |
+
+Also estimate the daily average demand for the sweet on the basis of simulated data.
+Q.7 Attempt the following (Any 4) [20]
+
+1 Define: feasible solution, basic feasible solution, optimal basic feasible solution,
+alternative (multiple) solution.
+
+2 Explain Kendall’s notation for classification of the queuing models.
+3 What is simulation? State its advantages and disadvantages.
+
+4 For finding optimal solution for processing n jobs through m machines which conditions
+should be satisfied?
+
+5 Find the initial solution for the transportation problem with least cost method
+
+Source Destination Supply
+1 2 3 4
+A 19 30 50 10 7
+B 70 30 40 60 9
+(o 40 8 70 20 18
+Demand 5 8 7 14
+xX x
+--- page 4 ---
+Table 3 Normal Distribution
+
+An entry in the table is the areas under the entire normal curve between normal variate Z = 0 and a
+positive value of Z. Areas for negative value of Z are obtained by. symmetry.
+
+Zz Second Decimal
+to First -
+Decimal .00 O1 02 .03 04 05 _ 06 07 08 09
+0.0 .0000 0040 .0080 0120 .0160 .0199 0239 .0279 0319 0359
+0.1 0398 .0438 0478 .0517 0557 .0596 .0636 .0675 0714 .0753
+0.2 0793 0832 0871 .0910 0948 .0987 1026 -1064 —.1103 141
+0.3 1179 1217 1255 1293 213311, -1368 1406 1443 1480 .1517
+0.4 1554 1591 1628 -1664 .1700 .1736 1772 1808   .1844 1879
+0.5 1915 1950 1985 2019 2054 2088 _,2123 .2157 —.2190 2224
+0.6 2257 2291 2324 2357 2389 -2422 2454 2486 = .2518 2549
+0.7 2580 2611 2642 2674 2704 .2734 2764 2794 — .2823 2852
+0.8 2881 .2910 .2939 =.2967-—.2995. 3023-3051 ~—-.3078 3106 = .3133
+0.9 3159 3186 3212 3238 3264 3289 3315 3340 = 3365 3389
+1.0 3413 3438 3461 3485 3508 23531 - .3554 3577. 3599 3621
+ll 3643 3665 3686 .3708 3729 3749 3770 3790 3810 3830
+12 3849 3869 3888 3907 3925 3944 3962 3980 = .3997 A015
+— £3 4032 4049 4066 4082 4099 A115 4131 4147 4162 A177
+1.4 4192 4207 4222 4236 A251 4265 4279 4292 4306 4319
+15 4332 4345 4357 4370 4382 4394 4406 4418 4429 4441
+| 1.6 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545
+| 17 4554 4564 4573 4582 A591 4599 4608 4616 4625 4633
+\ 1.8 4641 4649 4656 4664 4671 4678 4686 4693 4699 4706
+| 19) 4713 4719 4726 4732 4738 AT44 ATSC 4756 4761 4767
+2.0 4772 4778 4783 4788 4793 4798 4803 4808   .4812 4817
+21 4821 4826 4830 4834 4838 4842 4846 4850 4854 4857
+| 22 4861 4865 4868 4871 4874 4878 4881 4884   .4887 4890
+23 4893 4896 4898 4901 4904 4906 4909 A911 4913 A916
+24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936
+25 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952
+2.6 4953 4955 4956 4957 4959 4960 4961 4962 4963 4964
+\ 2.7 4965 4966 4967 4968 4969 4970 A971 4972 4973 4974
+\ 2.8 4974 4975 4976 4977 4977 4978 4979 4979 4980 4981
+| 29 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986
+| 3.0 4986 4987 4987 4988 4988 4989 4989 4989 4990 4990
+|
+Ly
+
+vy
+
+/
+````
+
+## 2013-14 · Re-Exam · Trim 5 · paper 49e090ffb16a
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION RESEARCH/OPERATION RESEARCH0001 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/12/2013
+- Text: ocr (3 pages), mean OCR confidence 91.1
+
+````text
+SVKM’s NMIMS gn ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+ay \e
+
+Programme:MCA ‘ Year: II = Trimeste Vv
+
+Academic Year: 2013-14
+
+Subject : Operation Research
+
+Marks: 100
+Date :12/12/2013 Time : 2.00 pm to 5.00 pm
+Durations:3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Cover of the Answer Book, which is provided for their use.
+NB: _ 1. Attempt any 5 questions.
+2. All questions carry equal marks.
+3. Answer to each new question to be started on a fresh page.
+4. Figure in brackets indicates full marks.
+5. Make suitable assumptions if required.
+Q.1(a) The super market in a city daily needs between 22 and 30 workers depending on the [10]
+time of day. The rush hours are between noon and 2 pm. The table below indicates the
+number of workers needed at various hours when the market is open.
+
+Time period Number of workers needed
+9 am to 11 am 22
+11 am to 1 pm 30
+1 pm to 3 pm 23
+3 pm to 5 pm 23
+
+The super market now employs 24 full- time workers, but needs a few part time workers
+also. A part time worker must put in exactly 4 hours per day, but can start any time
+between 9 am and | pm. Full time workers works form 9 am to 5 pm but are allowed an
+hour for lunch (half of the full timer eat at 12 noon, the other half at 1 pm). Full timers
+_thus provide 35 hours per week of productive labour time. The management of the
+market limits part time hours to a maximum of 50 per cent of the day’s total
+requirement. Part-timers earn Rs. 28 per day on the average, while full-timers earns Rs.
+90 per day in salary and benefits on the average. The management wants to set a
+schedule that would minimize total manpower costs. Formulate this problem as an LP
+model to minimize total daily manpower cost.
+
+Q.1(b) Use the Graphical method to solve the LP problem [10]
+Max Z = 7x; + 7x2
+Subject to the linear constraints
+X; + x2 <20
+30x, +20x2 < 522
+3x, + 4x2 < 72 X1 5X2 >0
+
+Q.2(a) Give the duals for the following LP Problems [06]
+Min Z = x; - 3x2 - 2x3
+Subject to the linear constraints
+3X1 - X2 + 2x357
+2x1- 4x2 > 12
+- 4x; + 3x2 + 8x3= 10 X1 5X2 > 0 x3 unrestricted
+
+Q.2(b) Solve the following LP problems by the Simplex / Big M method. [14]
+Min Z = 5x; + 3x2
+Subject to constraints:
+2x; + 4x2 <12
+2x; +2x. =10
+5x, + 2x. > 10 X1 ,X2>0
+
+113
+--- page 2 ---
+Q.3(a) Explain looping in network diagram. Distinguish between PERT and CPM. [05]
+
+Q.3(b) Asmall project consisting of 8 activities has the following characteristics: [15]
+Activity | Predecess | Optimistic | Most likely Pessimistic
+ors time time (weeks) time(days)
+(weeks)
+A -- 2 4
+B -- 10 12 26
+C A 8 9
+D A 10 15
+E, A 7 75
+F B,C 9 9
+G D 3 3.5
+| H E, F,G 5 5
+
+1. Draw PERT network Find expected task duration and the variance
+2. Find critical path. What is the expected length of the critical path? What is
+
+variance of critical path
+3. Ifa 30 week deadline is imposed, what is the probability that the project will be
+
+finished within the time limit?
+
+can do any of the five required jobs; the cost (in hundreds) for [10]
+
+Q.4 (a) Five different machines
+how in the table. Find out the minimum cost possible through
+
+each assignment is as s|
+
+optimal assignment.
+Job Machine |
+A B Cc D E
+i 4 6 7 5 ll
+2 7 3 6 9 5
+3 8 5 4 6 9
+4 9 12 7 ll 10
+5 7 P) 9 8 ll |
+
+from sources A, B, C to destinations I, I, Ill. The [10]
+capacities of the sources and requirements of the
+ule so that cost is minimized.
+
+Q.4(b) Goods have to be transported
+
+transportation cost per unit,
+destinations are given. Determine a transportation sched
+
+Source Destination Supply
+I I il
+A 7 10 5 90
+B 12 9 4 50
+C i 3 ll 80
+D 9 5 7 60
+Demand 120 100 110
+Q.5(a) Find an optimal sequence of performing 4 jobs on 5 machines that minimizes total [10]
+elapsed time. Also find the idle time of each machine.
+[ Job Machine
+A B Cc D E
+1 7 5 r] 3 9
+2 6 6 4 5 10
+3 3 4 5 6 8
+4 8, 3 3 2 6
+
+2|3
+--- page 3 ---
+Q.5(b) XYZ food joint has one specialized counter of Indian food. The number of customers [10]
+requiring Indian food appears to follow Poisson distribution with mean arrival rate of 12
+per hour. Customers are attended to by the counter on a first come first served basis, and
+they are willing to wait for service if there be queue. The time the counter takes to attend
+a customer is exponentially distributed with a mean of 4 minutes Required
+
+1. The probability that the queuing system is idle.
+
+2. What is the probability that there shall be 5 customers in the shop (at a point of
+time?)
+
+3. What is the expected number of customers waiting for counter’s service?
+
+4, What is the expected length of the non-empty queue?
+
+5. How much time should a customer expect to spend in the shop?
+
+Q. 6 (a) A dealer supplies you the following information with regard to a product dealt in by [10]
+him: annual demand= 10,000 units; ordering cost= Rs 10 per order; price=Rs 20 per
+unit. Inventory carrying cost= 20% of the value of inventory per year. The dealer is
+considering the possibility of allowing some backorder(stockout) to occur. He has
+estimated that the annual cost of backordering will be 25 % of the value of inventory.
+
+1. What should be the optimum number of units of the product he should buy in one
+lot?
+
+2. What quantity of the product should be allowed to be backordered? If any?
+
+3. What would be the maximum quantity of inventory at any time of the year?
+
+4. Would you recommend to allow backordering? If so, what would be the annual
+cost saving by adopting the policy of backordering.
+
+Q.6(b) A bakery keeps stock of a popular brand of cake. Previous experience shows the daily [10]
+demand pattern for the item with associated probabilities, as given below.
+
+Daily demand (number) | 0 10 20 30 40 50
+Probability 0.01 0.20 | 0.15 | 0.50 0.12 0.02
+
+Use the following sequence of random numbers to simulate the demand for next 10
+days.
+[48 [7s [19 [51 [56 [77 |15 [14 [6s [9 |
+
+Also estimate the daily average demand for the cakes.
+Q.7 Attempt the following (Any 4) [20]
+
+1 Write a note on Operation Research and its application
+
+2 Explain various cost associated with Inventory.
+
+3 Define: Basic feasible solution, alternate solution, unbound solution degenerate solution
+with respect to LPP.
+
+4 Explain the meaning of (M/M/1: «/FIFO) with respect to queuing.
+
+5 Explain least cost method for transportation.
+
+i.
+
+313
+````
+
+## 2012-13 · Exam not stated · Trim 7 · paper 74db66488300
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/OPERATION RESEARCH/scan0053.pdf` (+1 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04/10/2012
+- Text: ocr (2 pages), mean OCR confidence 81.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+aire | Mukesh Patel School of Technology Management & Engineering
+Programme: MBA (Tech) (All stream) Year: Ill ‘Trimester: VII
+
+Academic Year : 2012-2013
+
+Subject: Operations Research Marks: 50
+Time: © 10.00 a.m To 12.00 noon
+Date: 04/10/2012 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions — Candidates should read carefully the instructions printed on the question paper and on the cover
+of the answer book, which is provided for their use.
+NB-
+
+1. Question No 1 is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions. FC wae Un wersuy
+
+3. Inall FIVE questions to be attempted. i x Mumba. - 06,
+
+4. All questions carry equal marks. \ ah LIBRARY F
+5. Answer to each new question to be started on a fresh page. \%, =
+C7
+By
+
+~ $C
+om 709
+or pl
+=) SVKa:
+
+6. Figures in brackets on the right hand side indicate full marks. “Op D «
+re ache err a See ee ee en ie A
+1] Using the Two-Phase Method and the Simplex Method, solve the following LPP - [10 marks]
+Maximize -----~-------------- > Z = 2X) + X + “UX;
+
+Subject to Constraints > 4X, + 6X2 + 3X3 <= 8
+3X) - 6X) - 4K3 <= 1
+
+2X, + 3X) - 5X3 >= 4
+
+where X), X2, X3 >= 0
+
+2] Using the Simplex Method, solve the following LPP - [10 marks]
+Minimize -------------------- > Z = X, - 3X) + 3X3
+Subject to Constraints ----- > 3X) - X)+ 2X3 <= 7
+| 2X, + 4X) >= -12
+
+-4X, + 3X. + 8X3 <= 10
+where Xj, X29 X3 >= 0
+
+3] A] Explain the mathematical model for the Balanced T: arisporigace Problem and also the two criteria for
+
+optimal feasible solution(ofs). {5 marks]
+B] Find an initial basic feasible solution(ibfs) to the following Transportation Problem using the NWC-North
+west Corner and LCM-Least Cost Method and VAM-Vogel’s Approximation Method. [5 marks]
+: Ww Distribution Centers ------------------+------ >
+2 3 4 5
+Plants Cette nner ene eee ene meneeemenememe > Supply
+
+A tac -f4 3 | z 6
+
+Total Supply = Total Demand = 200 Units
+--- page 2 ---
+4] Use the Hungarian method to arrive at a solution for the following Assignment Problem. {10 marks]
+
+Five wagons are available at stations 1, 2, 3, 4, 5. These five wagons are required at five stations I, II, TIL, IV, V.
+
+The distance between various stations are as given in the matrix below.
+
+Keene eeenenne Stations ----------~------------------------- >
+I IL ul IV Vv
+
+Stations <----------2--- 2-2 ee eee nee tenet nnn eee >
+
+] ----- > 10 05 09 18 11
+
+2-----> 13 09 06 12 14
+
+3-----> 03 02 04 04 05
+
+4-----> 18 09 12 17 15
+
+5 ---=+ > 7 AL) 06 14 19 10
+How should the five wagons be transported so as to minimize the total distance covered.
+5| A project schedule has the following characteristics as shown below — {10 marks]
+Activity Name - Time
+
+1-2 A 4
+
+1-3 B 1
+
+2-4 € 1
+
+3-4 D 1
+
+3-5 E 6
+
+4-9 EF 5
+
+5-6 G 4
+
+5-7 H 8
+
+6-8 I 1
+
+7-8 J 2
+
+8-10 , K 5
+
+9-10 | L 7
+
+Construct Activity Network and compute TE (earliest expected time) and TL (latest allowable time) for each
+activity and also find the critical path for the above given project schedule.
+
+6] Briefly explain the concept of Game Theory. : & {10 marks]
+
+7| Briefly explain the concept of Queuing Models. . [10 marks]
+
+
+vw)
+
+\
+
+ww >
+````
+
 ## 2012-13 · Exam not stated · Trim 5 · paper 3d0f14ac4bf8
 
 - Departments: Computer Applications (MCA)
@@ -15546,6 +16083,7 @@ nearest 0.1 month. What is that minimum completion time.
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION RESEARCH/OPERATION RESEARCH 2012-13.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11/02/2013
 - Text: ocr (4 pages), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 peTTE SF Nay,
@@ -15668,7 +16206,6 @@ optimal assignment.
 
 os Job Machine
 
-‘ A B Cc D E
 1 4 6 7 5 11
 2, 7 2 6 9 5
 3 8 5 4 6 9
@@ -15851,475 +16388,7 @@ Consider the following sequence of Random numbers
 Every day Also estimate the daily average demand for the cakes on the basis of simulated.
 ````
 
-## 2012-13 · Re-Exam · Trim 5 · paper 42b4394edf68
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION RESEARCH/OPERATION RESEARCH V MCA 2012-13 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: text (4 pages)
-
-````text
-rr.7   ----   .,:   :.-   , , .-,-- . -   . ..   . ,.*. - *-~.;.~:
-SVKNI's NMIMS   / 4
-1   esh Patel School of Technolom Manaeement & En&dneefin~ , I,$ Z
-- ~ M C A ,   Year:   I1 .   Trimester: V
-Academic Year :2012-2013   %\ !
-2012-13   'y
-bject:   0pera.tion Research   Marks:   100
-Time:   2.00 p m To 5.00 PI
-te:   14/6/2013   Duration:   3hrs.
-Re - Examination
-Instructi?m: Candidatesshould read carefully the instructions printed on the question paper and on the
-Cover of the Answer Book, which is provided for their use.
-NB:   1. Attempt any 5 questions.
-2. All questions wry equal marks
-3. Answer to each new question to be started on a h s h page.
-4. Figures on the right in bracket indicate fill marks.
-5. Make suitable assumptions if required.
-Q 1A An electronic company is engaged in the productjon of two components A and B used in (15)
-TV sets. Each unit of A costs the company Rs. 50 in wages and material, while each unit
-of B costs the company Rs. 200 in wages and material. The company sells both
-products The selling price of A is Rs. 150 per unit and of B is Rs. 350 per unit. The
-company's production capacity is, however, limited by two considerations. First, the
-company has an initial balance of Rs. 20,000. Second,the ,pmpany hasavailable in each
-period 4,000 hours of machine time and 2,800 hours of assembly time. The production
-of each A requires 6 hours of machine time and 4 hours of assembly time, whereas the
-production of each B requires 4 hours of machine time and 6 hours of assembly time.
-Formulate this problem as an LP model so as to maximize the total profit to the
-company and find the optimum profit.
-Q 1 B Give the dual for the following LP Problem
-v   Max =2x1 +3x2+4~3-
-Subject to the Smear constraints
-2 ~ 1 + 3 ~ 2 + 5 ~ 3 ? , 2,: ,a,   4, . .
-3x1+ X 2 + 7 ~ 3 = 3 '... ..   . -.r
-XI+ 4 ~ 2 + 6 ~ 3 i 5   %
-xl ,x220
-xj unrestricted
-Q 2 A For the given problem below find the following:   4   (1.9
-a) Draw the network Diagram and find the critical p&h.
-b) Find the earliest time (start and finish), latest time (start and Finish) and Float
-(Total and Free)
-c) Which activities lies on the critical path?
---- page 2 ---
-Q 2 B Draw the network
-.   .
-Q3 A A City has 3 mill< stations and the milk from these three stations is to be supplied to (10)
-four destinations. The capacity of station to supply milk; S1, S2 & S3 is 700, 400 & 800
-Million Liters resp. The demand of the destinations Dl, D2, D3 & D4 is 300, 600, 700,
-400 Million Liters resp. The transportatfon cost ( in '000 Rs)is given in the matrix below.
-Find the Qptlmum transportation cost that will be incurred in transporting milk.
-Dl   D2   D3   D4
-S1   5   7   13   10
-52   8   6   14   13
-53   12   10   9   11
-The transportation cost to transport w i n s fmm farms to warehouses is given in the table
-Q 4 A ABC company has four plants (A, B, C, D)each of which can manufacture any one of the (10)
-four products (PI, P2, P3, P4).The production costs and the sales revenue differ from
-I   one plant to another. Find the allocation of products to plants to obtain highestgain.
-Q 4 B Normal and crash time for the project is given below for the plant expansion project. If   (10)
-the company has rupees 7 lakg 76 thousand available for the project how should the
-h d s be allocated to minimize the overall completion time 0.1 month. What is the
-minimum completion time?
---- page 3 ---
-~...
-pany manufactures 30 items per day. The sales of these items depends upon
-- demand Which has the following distribution:
-27   28   29   30   31   32
-Probabilit 0.1   0.15   0.2   0.35   0.15   0.05
-Y
-The production cost and sale price of each unit are Rs 40 and Rs 50 respectively. Any
-unsold Product is to be disposed off at a loss of Rs. 15 per unit. There is a penalty of Rs.
-5 per unit if the Demand is not met. Using the following random numbers estimate total
-profittloss for the company of the next 10Days.
-Random N~bers:l0,99,65,99,95,01,79,11,16,20.
-Q 5B A Factory uses furnace oil at the rate of Rs 6000 literlmonth. The purchase price of the (10)
-oil is Rs 81 liter, ordering cost for oil is Rs 600 / order and canying cost is 30% per
-annum. Assume that the shortage of oil is not permitted. Find:
-a) in what order size should the oil be purchased in order to minimize the total
-yearly cost?
-b) What is total yearly cost?
-c) If the supplier is offering 6.25% discount on the condition that the order size is 3
-times EOQ.Should the factory accept the discount?
-d) If the oil storage tank capacity is % the EOQ,what effect it will have on total
-A   yearly cost?
-Q 6 A Arrivals at the telephone booth are considered to tk ' e Poisson distributed with an   (8)
-average time of 10 minutes between one arrival and   next. The length of the phone
-call is assumed to be distributed exponentially with a mean of 3 minutes. Find   -
-1) what is the probability that the person arriving at the booth will have to wait?
-2) What isthe average time spent by a person in system?
-3) Find the queuing parameters,
-4) What is the average length of the queue?
-5) The telephone department will install a second booth when convinced that an
-arrival would have to wait for at least 5 minutes for a phone call. By how much
-should the flow of arrivals be increased in order to justify a second booth?
-What is the probability that there are fewer than 3 persons at telephone booth?
---- page 4 ---
-- -
-Q 6B A company makes two juices viz., Orange and pomegranate. It wants to construct new   (8)
-plant for the juices that can operate at least 48 hours a week. Production of Orange juice
-requires 2 hrs and that of pomegranate juice 3 hrs. The market trends suggest that orange
-juice contributes Rs 40 where as pomegranate juice contributes Rs 80 towards
-company's profits. After an extensive research it was faund that market can digest
-maximum of 15 tons of orange juice and 10 tons of pomegranate juice. Formulate this
-problem as LP model and solve graphically to achieve maximum profit.
-Q 6 C In a Clinic, the arrival of patients is considered to be Poisson distributed with an   (4)
-average inter arrival time of 10 minutes. The doctor's examination time plus time for
-dispensing medicine may be assumed as distributed negative exponentially with an
-average of 6 minutes.
-1) What is the percentage of time doctor is busy?
-2) Find Average queue length, average number of patients in system and waiting
-time in queue?
-3) What is the probability that there are 4 patients in the hospital?
-4) What is the probability that there are more than 3 patients in the system?
-Q 7 A Answer the following questions (Any Two)   (15)
-1 Describethe procedure of solving the transportation problem using MOD1 method.
-2) What is the dual explain with any example and interpret the result obtained after solving
-the dual.
-3) Define:
-a) Waiting time, b) Decision variables, c) Optimum solution, d) Alternate solution,
-e) unbound solution f) Average length of queue g) EOQ   .
-Q 7B AI in the blanks   (5)
-1. Hungarian method is used for
-a)Transportatlon b) LPP c) Assignment d) Queuing 3)gametheory
-2.   method uses penalties to get the actual answers
-a)VAM b) North -West c) Least Cost Cell first d) Hungarian
-3. In simplex method   Is added to the constraints if the Inequality
-sign is "less than or equal to".
-a) Surplus Variable b) Slack variables C)Artificial variables d) negative Slack variables
-4.   In Queuing theory the queue dlsclpllne is denoted in Lee's Notations as
--   $.
-a) m b)   c) FIFO d) S
-5.   can be expressed In terms of % of value of inventory
-a) Purchase prlce b) ordering cost c) penalty cost d) None of these.
-````
-
-## 2011-12 · Exam not stated · Trim 5 · paper dc6ab04e327e
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION RESEARCH/OPERATION RESEARCH 2011-12.pdf`
-- Printed on paper: exam date: 07/02/2012
-- Text: ocr (4 pages), mean OCR confidence 91.6
-
-````text
-\ . SVKM’s NMIMS
-~__ Mukesh Patel School Of Technology Management & Engine
-
-Programme: MCA Year: Il Trimester:
-Academic Year : 2011-2012
-
-x
-
-S SVKM'S de
-
-Subject: OPERATION RESEARCH Marks: f Nyon es) Ye
-Time: gt 2.00:gHaR To 5.9
-
-Date: 07/02/2012 Duratioh% 3 hrs. JE
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the que
-on the cover of the answer book, which is provided for their use.
-
-NB: 1. QI is compulsory. Answer any 4 questions from Q2 to Q7.
-
-2. Answer to each new question to be started on a fresh page.
-
-3. Figures in bracket indicate full marks.
-
-4. Clearly mention the assumptions, if any.
-Ql.(a) A company manufactures two products A and B. Both the products will be worked in
-department 1 and department 2. Each unit of type A requires 20 minutes in department | and 40
-minutes in department 2. Similarly, each unit of type B requires 10 minutes in department 1 and 10
-minutes in department 2. Departments 1 and 2 have respectively 1200 minutes and 1600 minutes
-available per week. The marginal profit for each unit of type A is Rs.10 and for each unit of type B is
-Rs.4. How many units of each product must be produced to maximise the profit? Use simplex
-method. (12)
-
-(b) Use Big M method (8)
-Minimise Z = 60 x; + 80 x2
-
-saat to
-
-20 x; + 30 x2 > 900
-
-40 x; + 30 x2 > 1200
-
-Xy,X2 > 0 ~
-
-Q2. (a) A small project is composed of 7 activities whose time estimates are given: (10)
-
-Activity Time estimate in days
-. 7 } Most likely Optimistic Pessimistic
-_ 1-2 1 1 ° 7
-1-3 4 1 7
-1-4 2 2 8
-2-5 1 1 1
-3-5 5 2 14
---- page 2 ---
-4-6 5 2 8 ~~
-
-5-6 6 3 15 ‘%
-
-X
-‘N
-
-Draw the project network. Find the expected duration and standard deviation of duration of the
-project assuming that the duration of activities follow a normal distribution.
-
-(b) For the data given, draw the network. Determine the critical path. If it is necessary to complete
-the project in 34 weeks, what will be the cost of the project? (10)
-
-Activity Preceding activity Normal Crash
-
-Time(weeks) Cosi(Rs.) Time(weeks) Cost(Rs.)
-
-A None 12 5000 10 7400
-B A 9 4300 8 5900
-Cc A 6 3700 4 4900
-D Cc 3 2500 3 2500
-E B 7 3900 6 4800
-F D 8 4600 5 6100
-G D,E 4 2800 4 2800
-H F 6 4100 3 6200
-i I G 7 4800 5 7800
-Q3.(a) Four machines can do 4 jobs. The output per machine in units is given below. Determine
-the job machine combination for maximum profit. (14)
-Jobs
-Machines I II Il IV
-A 60 40 60 70
-A B 2 «60 S00.
-‘ Cc 20 30 40 ; 60
-D 30 10 30 40
-
-(b) What do you mean by (i) Prohibited assignments (ii) Unbalanced assignment problem (6)
-Q4. (a) Find the initial transportation cost using V.A.M. and optimise it using MODI
-method. (14)
-
-2/4
---- page 3 ---
-emands of the 3 destinations are 30,50 and 70. The capacities of the 3 sources are
-5s, 40 and 85. The transportation costs for the 9 cells are given as:
-
-Source | and destn.1 : 8, source 1 and destn.2 : 5, source! and destn.3 : 12
-
-Source 2 and destn.1 : 13, source 2 and destn.2 : 20 , source 2 and destn.3: 25,
-
-Source 3 and destn.1 : 2, source 3 and destn.2 : 30, source 3 and destn 3 : 11
-
-(b) What do you mean by (i) Unbalanced transportation problem (ii) Degeneracy in transportation
-problems (6)
-
-QS. (a) Customers arrive in a bank at an average rate of 20 customers per hour. The average
-number of customers that can be processed by the cashier is 24 per hour. (12)
-
-(i) What is the probability that the cashier is idle?
-
-(ii) What is the average number of customers in the queue?
-(iii) What is the average time a customer spends in the system?
-(iv) What is the average number of customers in the system?
-
-( v) What is the average time a customer spends in the queue ?
-(vi) What is the probability that the cashier is busy ?
-
-(b) A company has established a policy of turning the inventory 4 times a year. The unit price is
-Rs. 24 and ordering cost is Rs. 48 per order. Usage rate is 300 units per month. Inventory
-
-cary ing cost is 16% p.a. What is the annual cost of the existing inventory policy ? How much
-
-can the company save by adopting EOQ purchasing system ? (8)
-
-Q6. (a) Solve the following LPP graphically. (12)
-Maximise Z = 4 x, +5 x2
-Subject to
-
-3x, + X <9
-j
-
-x = 2x. <8
-X1 , xl 2.0
-(b) What do you mean by (i) critical activity (ii) dummy activity (8)
-Q7. Answer the following in brief: (20)
-
-(i) Operations Research and its applications
-
-(ii) Algorithm of assignment model
---- page 4 ---
-ij
-
-(iii) Features of queuing system
-(iv) Applications of Linear Programming
-
-(v) Difference between PERT and CPM
-````
-
-## 2011-12 · Re-Exam · Trim 7 · paper ba552577b73c
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/OPERATION RESEARCH/OPERATION RESEARCH BATCH 2011-12 RE EXAM0001.pdf` (+1 identical copies)
-- Printed on paper: duration hours: 2; exam date: 15/06/2012
-- Text: ocr (3 pages), mean OCR confidence 85.6
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA Tech - ALL STREAMS Year: III Trimester: VII
-Academic Year : 2011-2012 xt
-
-Batch: 2011-12 x, . :
-
-Subject: Operations Research Marks: // 30 svi ‘\a\
-Time: || 10:00 arn To" 12.00 thoon
-
-Date: 15/06/2012 Duration: 2 hrsienai y ej
-
-Re - Examination
-
-Instructions — Candidates should read carefully the instructions printed on the quest:
-of the answer book, which is provided for their use.
-NB-
-
-1. Question No 1 is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. Inall FIVE questions to be attempted.
-
-4, All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-1] A dairy firm has three plants as sources of supply, where the daily milk productions are given as below —
-Plant 1 - 6 Million Liters [10 marks]
-Plant 2 - 1 Million Liters
-
-Plant 3 — 10 Million Liters
-
-Each day the firm must fulfill the needs of its four distribution centers, where the daily minimum daily demand
-is as given below —
-
-Distribution center 1 — 7 Million Liters
-
-Distribution centre 2 — 5 Million Liters
-
-Distribution centre 3 — 3 Million Liters
-
-Distribution centre 4 — 2 Million Liters
-
-Cost of shipping 1 million liters from each plant to each distribution center in hundreds of rupees is as given
-below
-
-<------- Distribution Centers ---------- >
-1 2 3 4
-Plants   <-------------------------------------- >
-] ----- > 2 3 11 7
-2 ----- > | 0 6 1
-3 ----- > 5 8 15 9
-
-The dairy firm wishes to determine what should be the shipment quantity from each plant to each distribution
-center so that the cost of shipment is minimized?
-
-2] A] Congntct the dual to the primal problem - [02 marks]
-Maximize -------------------- > Z = 3X, + 5X
-Subject to Constraints ----- > 2X, + 6X) <= 50
-3X, + 2X) <= 35 ©
-5X, - 3X) <= 10
-Xo <= 20
-where X; >=0, X2>= 0
-2] B] Using the Simplex method solve the following LPP — [08 marks]
-Three grades of coal A, B and C contain phosphorous and ash as impurities. In a particular industrial process,
-fuel up to 100 tons (maximum) is required which should contain ash not more than 3% and phosphorous not
-more than 0.03%. It is desired to maximize the profit while satisfying the above conditions. Assume that there is
-
-Pore | *} 2
---- page 2 ---
-an unlimited supply of each grade of coal. The percentage of impurities and the profits of each grade of coal are
-as given below —
-
-Se ernenntemaencn Sn ctehene bie nennnnnnnnenenintetinseninneenenaniachamadcanann >
-Grade of Phosphorous Ash Profits in Rs
-Coal (Yage) (%) Per Ton
-Seared Dies iuenacuananenipe! > Gana Gis tenememnnn >
-A 0.02 3.0 12.00
-B 0.04 2.0 15.00
-Cc 0.03 5.0 14.00
-enna n enter enna nnennenennnannmnannmnennmanennmennnane >
-
-Find the proportions in which the three grades of coal must be used to maximize the profit and still satisfy the
-percentage constraints.
-
-3] A] Construct the dual to the primal problem - [02 marks]
-Minimize -------------------- > Z = 3Xj - 2X. + 4X3
-Subject to Constraints ----- > 3X, + 5X). + 4X3 >= 7
-6X, + X2+ 3X3 >= 4
-TX; - 2X. -- K3 <= 10
-X - 2X) + 5X3 >= 3
-4X, + 7X2) - 2XK3 >= 2
-
-where X}, X2, X3 >= 0
-3] B] Indian Air Force is experimenting with three types of bombs P, Q and R in which three kinds of
-explosives, viz. A, B and C will be used. Taking the various factors into account, it has been decided to use the
-maximum of 600 kg of explosive A, at least 480 kg of explosive B and exactly 540 kg of explosive C. Bomb P
-requires 3, 2, 2 kg, bomb Q requires 1, 4, 3 kg and bomb R requires 4, 2, 3 kg of explosive a, b and C
-respectively. Bomb P is estimated to give the equivalent of a 2 ton explosion, bomb Q, a 3 ton explosion and
-bomb R, a 4 ton explosion respectively. Under what production schedule can the Air Force make the biggest
-
-bang? [08 marks]
-4] A] Use the Hungarian method to arrive at a solution for the following Assignment Problem. [03 marks]
-<on--2--------- Contractors ------------------- >
-1 2 3 4
-Jobs < eT >
-] ----- > 15 13 14 17
-2 ----- > Il 12 15 13
-3 ----- > 413 12 10 11
-4ae> 15 17 14 16
-
-How the jobs should be assigned to the various contractors so that the total cost is minimized.
-4] B] Four different jobs can be done on four different machines. The setup and take down time costs are
-assumetl to be proluisitively high for changeovers. The matrix gives below the cost in rupees for producing job i
-
-on machine iv [07 marks]
-Koon nnn nnne === = Machines ------------------- >
-‘ Mi M2 M3 M4
-Jobs Kon nn nn nnn nnn nnn nanan nn nnn nnn >
-J] ----- > § 7 11 6
-J2 ----- > 8 e) 9 6
-J3 ----- > 4 7 10 vi
-J4 ----- > 10 4 8 3
-
-How the jobs should be assigned to the various machines so that the total cost is minimized?
-
-5] Write short notes on any two of the following - [10 marks]
-
-faye 2 + 3
---- page 3 ---
-& :
-
-A] Special cases of LPP
-
-B] Sensitivity Analysis :
-
-C] Mathematical Model of Transportation Problem
-
-6] Briefly explain the concept of Game Theory. [10 marks]
-
-7] Briefly explain the concept of Queuing Models. [10 marks]
-
--X-X-X-K-K-X-K-K-X-K-X-K-X-K-X-X-X-X-X-X-X-K-K-K-K-K-K-X-K-X-X-+K-X-K-X-X-K-X-K-K-K-K-X-K-+
-
-i)
-
-forge <3 ef >
-````
-
-## 2011-12 · Re-Exam · Trim 5 · paper afdfba6bb0a7
+## 2012-13 · Re-Exam · Trim 5 · paper afdfba6bb0a7
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -16523,7 +16592,7 @@ x
 A
 ````
 
-## 2011-12 · Re-Exam · Trim 5 · paper e67e1bc06e94
+## 2012-13 · Re-Exam · Trim 5 · paper e67e1bc06e94
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -16667,6 +16736,715 @@ Solve the following problem by assigningthe operator to tasks
 Q 7   Find an optimal sequence of performing 4jobs on 5 machines that minimizes total elapsed (10)
 time. Also find the idle time of each machine.
 -.
+````
+
+## 2012-13 · Re-Exam · Trim 5 · paper 42b4394edf68
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION RESEARCH/OPERATION RESEARCH V MCA 2012-13 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: text (4 pages)
+
+````text
+rr.7   ----   .,:   :.-   , , .-,-- . -   . ..   . ,.*. - *-~.;.~:
+SVKNI's NMIMS   / 4
+1   esh Patel School of Technolom Manaeement & En&dneefin~ , I,$ Z
+- ~ M C A ,   Year:   I1 .   Trimester: V
+Academic Year :2012-2013   %\ !
+2012-13   'y
+bject:   0pera.tion Research   Marks:   100
+Time:   2.00 p m To 5.00 PI
+te:   14/6/2013   Duration:   3hrs.
+Re - Examination
+Instructi?m: Candidatesshould read carefully the instructions printed on the question paper and on the
+Cover of the Answer Book, which is provided for their use.
+NB:   1. Attempt any 5 questions.
+2. All questions wry equal marks
+3. Answer to each new question to be started on a h s h page.
+4. Figures on the right in bracket indicate fill marks.
+5. Make suitable assumptions if required.
+Q 1A An electronic company is engaged in the productjon of two components A and B used in (15)
+TV sets. Each unit of A costs the company Rs. 50 in wages and material, while each unit
+of B costs the company Rs. 200 in wages and material. The company sells both
+products The selling price of A is Rs. 150 per unit and of B is Rs. 350 per unit. The
+company's production capacity is, however, limited by two considerations. First, the
+company has an initial balance of Rs. 20,000. Second,the ,pmpany hasavailable in each
+period 4,000 hours of machine time and 2,800 hours of assembly time. The production
+of each A requires 6 hours of machine time and 4 hours of assembly time, whereas the
+production of each B requires 4 hours of machine time and 6 hours of assembly time.
+Formulate this problem as an LP model so as to maximize the total profit to the
+company and find the optimum profit.
+Q 1 B Give the dual for the following LP Problem
+v   Max =2x1 +3x2+4~3-
+Subject to the Smear constraints
+2 ~ 1 + 3 ~ 2 + 5 ~ 3 ? , 2,: ,a,   4, . .
+3x1+ X 2 + 7 ~ 3 = 3 '... ..   . -.r
+XI+ 4 ~ 2 + 6 ~ 3 i 5   %
+xl ,x220
+xj unrestricted
+Q 2 A For the given problem below find the following:   4   (1.9
+a) Draw the network Diagram and find the critical p&h.
+b) Find the earliest time (start and finish), latest time (start and Finish) and Float
+(Total and Free)
+c) Which activities lies on the critical path?
+--- page 2 ---
+Q 2 B Draw the network
+.   .
+Q3 A A City has 3 mill< stations and the milk from these three stations is to be supplied to (10)
+four destinations. The capacity of station to supply milk; S1, S2 & S3 is 700, 400 & 800
+Million Liters resp. The demand of the destinations Dl, D2, D3 & D4 is 300, 600, 700,
+400 Million Liters resp. The transportatfon cost ( in '000 Rs)is given in the matrix below.
+Find the Qptlmum transportation cost that will be incurred in transporting milk.
+Dl   D2   D3   D4
+S1   5   7   13   10
+52   8   6   14   13
+53   12   10   9   11
+The transportation cost to transport w i n s fmm farms to warehouses is given in the table
+Q 4 A ABC company has four plants (A, B, C, D)each of which can manufacture any one of the (10)
+four products (PI, P2, P3, P4).The production costs and the sales revenue differ from
+I   one plant to another. Find the allocation of products to plants to obtain highestgain.
+Q 4 B Normal and crash time for the project is given below for the plant expansion project. If   (10)
+the company has rupees 7 lakg 76 thousand available for the project how should the
+h d s be allocated to minimize the overall completion time 0.1 month. What is the
+minimum completion time?
+--- page 3 ---
+~...
+pany manufactures 30 items per day. The sales of these items depends upon
+- demand Which has the following distribution:
+27   28   29   30   31   32
+Probabilit 0.1   0.15   0.2   0.35   0.15   0.05
+Y
+The production cost and sale price of each unit are Rs 40 and Rs 50 respectively. Any
+unsold Product is to be disposed off at a loss of Rs. 15 per unit. There is a penalty of Rs.
+5 per unit if the Demand is not met. Using the following random numbers estimate total
+profittloss for the company of the next 10Days.
+Random N~bers:l0,99,65,99,95,01,79,11,16,20.
+Q 5B A Factory uses furnace oil at the rate of Rs 6000 literlmonth. The purchase price of the (10)
+oil is Rs 81 liter, ordering cost for oil is Rs 600 / order and canying cost is 30% per
+annum. Assume that the shortage of oil is not permitted. Find:
+a) in what order size should the oil be purchased in order to minimize the total
+yearly cost?
+b) What is total yearly cost?
+c) If the supplier is offering 6.25% discount on the condition that the order size is 3
+times EOQ.Should the factory accept the discount?
+d) If the oil storage tank capacity is % the EOQ,what effect it will have on total
+A   yearly cost?
+Q 6 A Arrivals at the telephone booth are considered to tk ' e Poisson distributed with an   (8)
+average time of 10 minutes between one arrival and   next. The length of the phone
+call is assumed to be distributed exponentially with a mean of 3 minutes. Find   -
+1) what is the probability that the person arriving at the booth will have to wait?
+2) What isthe average time spent by a person in system?
+3) Find the queuing parameters,
+4) What is the average length of the queue?
+5) The telephone department will install a second booth when convinced that an
+arrival would have to wait for at least 5 minutes for a phone call. By how much
+should the flow of arrivals be increased in order to justify a second booth?
+What is the probability that there are fewer than 3 persons at telephone booth?
+--- page 4 ---
+- -
+Q 6B A company makes two juices viz., Orange and pomegranate. It wants to construct new   (8)
+plant for the juices that can operate at least 48 hours a week. Production of Orange juice
+requires 2 hrs and that of pomegranate juice 3 hrs. The market trends suggest that orange
+juice contributes Rs 40 where as pomegranate juice contributes Rs 80 towards
+company's profits. After an extensive research it was faund that market can digest
+maximum of 15 tons of orange juice and 10 tons of pomegranate juice. Formulate this
+problem as LP model and solve graphically to achieve maximum profit.
+Q 6 C In a Clinic, the arrival of patients is considered to be Poisson distributed with an   (4)
+average inter arrival time of 10 minutes. The doctor's examination time plus time for
+dispensing medicine may be assumed as distributed negative exponentially with an
+average of 6 minutes.
+1) What is the percentage of time doctor is busy?
+2) Find Average queue length, average number of patients in system and waiting
+time in queue?
+3) What is the probability that there are 4 patients in the hospital?
+4) What is the probability that there are more than 3 patients in the system?
+Q 7 A Answer the following questions (Any Two)   (15)
+1 Describethe procedure of solving the transportation problem using MOD1 method.
+2) What is the dual explain with any example and interpret the result obtained after solving
+the dual.
+3) Define:
+a) Waiting time, b) Decision variables, c) Optimum solution, d) Alternate solution,
+e) unbound solution f) Average length of queue g) EOQ   .
+Q 7B AI in the blanks   (5)
+1. Hungarian method is used for
+a)Transportatlon b) LPP c) Assignment d) Queuing 3)gametheory
+2.   method uses penalties to get the actual answers
+a)VAM b) North -West c) Least Cost Cell first d) Hungarian
+3. In simplex method   Is added to the constraints if the Inequality
+sign is "less than or equal to".
+a) Surplus Variable b) Slack variables C)Artificial variables d) negative Slack variables
+4.   In Queuing theory the queue dlsclpllne is denoted in Lee's Notations as
+-   $.
+a) m b)   c) FIFO d) S
+5.   can be expressed In terms of % of value of inventory
+a) Purchase prlce b) ordering cost c) penalty cost d) None of these.
+````
+
+## 2011-12 · Exam not stated · Trim 7 · paper ced53f04bf88
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/OPERATION RESEARCH/OPERATIONS RESEARCH BATCH 2010-2011.pdf` (+1 identical copies)
+- Printed on paper: exam date: 10/10/2011
+- Text: ocr (2 pages), mean OCR confidence 87.7
+
+````text
+a SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineeri
+
+Programme: MBA (Tech) - ALL STREAMS Year: III Trimester: VII
+
+BS SVKMWS \*
+=( NMIVS Unversity )
+
+Academic Year : 2011-2012 x( ve eaay )=
+Batch: 2010-2011 as =
+Subject: Operations Research Marks:
+Time:
+Date: 10/10/2011 Duration:
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+And on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Attempt Any Three from Q.1 to Q.5 (Each Question carries 15 marks).
+2. Q.6 is compulsory (5 marks).
+
+Q.1. Solve the following LP problem using simplex method. Ci c)
+Maximize Z = 10x1 + 15x2 + 20x3
+Subject to the constraints
+2x1 + 4x2 + 6x3 <= 24
+3x1 + 9x2 + 6x3 <= 30
+x1,x2,x3 >= 0
+
+Q.2. . A company manufacturing air-coolers has two plants located at Mumbai and Kolkata with a Cs)
+} capacity of 200 units and 100 units per week respectively. The company supplies the air-coolers to
+
+its four show rooms situated at Ranchi, Delhi,Lucknow and Kanpur which have a maximum demand
+
+of 75,100,100 and 30 units respectively. Due to the differences in raw material cost and
+
+transportation cost, the profit per unit in rupees differs which is shown in the table below:
+
+Ranchi Delhi Lucknow Kanpur
+Mumbai _ | 90 90 100 110
+j Kolkata 50 70 130 85
+
+“
+
+4a)
+q Alan the production programme so as to maximize the profit. The company may have its
+production capacity at both plants partly or wholly unused.
+
+Q.3. A machine too! company decides to make four subassemblics through four contractors. Each = C is)
+contractor is to receive only one subassembly. The cost of each subassembly is determined by the
+bids submit by each contractor and is shown in the table below in hundreds of rupees.
+--- page 2 ---
+(Q,2. A machine tool company decides to make four subassemblies through four contractors. Each
+contractor is to receive only one subassembly. The cost of each subassembly is determined by the
+bids submit by each contractor and is shown in the table below in hundreds of rupees.
+
+Contractors
+
+ci c2 c3 c4
+Si 15 13 - 14 17
+Subassemblies | $2 11 12 15 13
+$3 13 12 10 11
+$4 15 17 14 16
+Assign the different subassemblies to contractors so as to minimize the total cost. 10 marks
+
+——
+
+,
+
+a
+Q.3. The time estimates (in weeks) for the activities of a PERT network are given below.
+Activity to Pe it:
+1-2 1 1 7
+‘ 1-3 i F 4 7
+—~ :
+1-4 2 2 18
+2-5 1: 1 fa
+3-5 2 5 14
+4-6 2 5 8
+&
+_—— 5-6 3 6 15
+a) Draw the project network and identify all the paths through it.
+b) Determine the expected project length. on 10 marks
+} ; was,
+Q4. For the following payoff matrix for firm A, detertnine the Optimal Strategies for both Firm A
+"1 Firm B and the Value of the Game (using maximin-minimax principle) :
+, Firm B
+™~ 3 -1 14 6 * |7
+Firm A -1 8 2 4 12
+16 8. 6. ‘14 12
+1 1 4. 2. I
+10 marks
+Q.5. Write short note on (Any Two) :
+(a) Types of variables used in LPP.
+(b) 1) optimistic time , 2) pessimistic time, 3)most likely time, in a PERT network,
+(c) Hungarian method in the context of Assignment problem. 10 marks
+
+x
+2/2—
+````
+
+## 2011-12 · Exam not stated · Trim 5 · paper dc6ab04e327e
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION RESEARCH/OPERATION RESEARCH 2011-12.pdf`
+- Printed on paper: exam date: 07/02/2012
+- Text: ocr (4 pages), mean OCR confidence 91.6
+
+````text
+\ . SVKM’s NMIMS
+~__ Mukesh Patel School Of Technology Management & Engine
+
+Programme: MCA Year: Il Trimester:
+Academic Year : 2011-2012
+
+x
+
+S SVKM'S de
+
+Subject: OPERATION RESEARCH Marks: f Nyon es) Ye
+Time: gt 2.00:gHaR To 5.9
+
+Date: 07/02/2012 Duratioh% 3 hrs. JE
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the que
+on the cover of the answer book, which is provided for their use.
+
+NB: 1. QI is compulsory. Answer any 4 questions from Q2 to Q7.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figures in bracket indicate full marks.
+
+4. Clearly mention the assumptions, if any.
+Ql.(a) A company manufactures two products A and B. Both the products will be worked in
+department 1 and department 2. Each unit of type A requires 20 minutes in department | and 40
+minutes in department 2. Similarly, each unit of type B requires 10 minutes in department 1 and 10
+minutes in department 2. Departments 1 and 2 have respectively 1200 minutes and 1600 minutes
+available per week. The marginal profit for each unit of type A is Rs.10 and for each unit of type B is
+Rs.4. How many units of each product must be produced to maximise the profit? Use simplex
+method. (12)
+
+(b) Use Big M method (8)
+Minimise Z = 60 x; + 80 x2
+
+saat to
+
+20 x; + 30 x2 > 900
+
+40 x; + 30 x2 > 1200
+
+Xy,X2 > 0 ~
+
+Q2. (a) A small project is composed of 7 activities whose time estimates are given: (10)
+
+Activity Time estimate in days
+. 7 } Most likely Optimistic Pessimistic
+_ 1-2 1 1 ° 7
+1-3 4 1 7
+1-4 2 2 8
+2-5 1 1 1
+3-5 5 2 14
+--- page 2 ---
+4-6 5 2 8 ~~
+
+5-6 6 3 15 ‘%
+
+X
+‘N
+
+Draw the project network. Find the expected duration and standard deviation of duration of the
+project assuming that the duration of activities follow a normal distribution.
+
+(b) For the data given, draw the network. Determine the critical path. If it is necessary to complete
+the project in 34 weeks, what will be the cost of the project? (10)
+
+Activity Preceding activity Normal Crash
+
+Time(weeks) Cosi(Rs.) Time(weeks) Cost(Rs.)
+
+A None 12 5000 10 7400
+B A 9 4300 8 5900
+Cc A 6 3700 4 4900
+D Cc 3 2500 3 2500
+E B 7 3900 6 4800
+F D 8 4600 5 6100
+G D,E 4 2800 4 2800
+H F 6 4100 3 6200
+i I G 7 4800 5 7800
+Q3.(a) Four machines can do 4 jobs. The output per machine in units is given below. Determine
+the job machine combination for maximum profit. (14)
+Jobs
+Machines I II Il IV
+A 60 40 60 70
+A B 2 «60 S00.
+‘ Cc 20 30 40 ; 60
+D 30 10 30 40
+
+(b) What do you mean by (i) Prohibited assignments (ii) Unbalanced assignment problem (6)
+Q4. (a) Find the initial transportation cost using V.A.M. and optimise it using MODI
+method. (14)
+
+2/4
+--- page 3 ---
+emands of the 3 destinations are 30,50 and 70. The capacities of the 3 sources are
+5s, 40 and 85. The transportation costs for the 9 cells are given as:
+
+Source | and destn.1 : 8, source 1 and destn.2 : 5, source! and destn.3 : 12
+
+Source 2 and destn.1 : 13, source 2 and destn.2 : 20 , source 2 and destn.3: 25,
+
+Source 3 and destn.1 : 2, source 3 and destn.2 : 30, source 3 and destn 3 : 11
+
+(b) What do you mean by (i) Unbalanced transportation problem (ii) Degeneracy in transportation
+problems (6)
+
+QS. (a) Customers arrive in a bank at an average rate of 20 customers per hour. The average
+number of customers that can be processed by the cashier is 24 per hour. (12)
+
+(i) What is the probability that the cashier is idle?
+
+(ii) What is the average number of customers in the queue?
+(iii) What is the average time a customer spends in the system?
+(iv) What is the average number of customers in the system?
+
+( v) What is the average time a customer spends in the queue ?
+(vi) What is the probability that the cashier is busy ?
+
+(b) A company has established a policy of turning the inventory 4 times a year. The unit price is
+Rs. 24 and ordering cost is Rs. 48 per order. Usage rate is 300 units per month. Inventory
+
+cary ing cost is 16% p.a. What is the annual cost of the existing inventory policy ? How much
+
+can the company save by adopting EOQ purchasing system ? (8)
+
+Q6. (a) Solve the following LPP graphically. (12)
+Maximise Z = 4 x, +5 x2
+Subject to
+
+3x, + X <9
+j
+
+x = 2x. <8
+X1 , xl 2.0
+(b) What do you mean by (i) critical activity (ii) dummy activity (8)
+Q7. Answer the following in brief: (20)
+
+(i) Operations Research and its applications
+
+(ii) Algorithm of assignment model
+--- page 4 ---
+ij
+
+(iii) Features of queuing system
+(iv) Applications of Linear Programming
+
+(v) Difference between PERT and CPM
+````
+
+## 2011-12 · Re-Exam · Trim 7 · paper ba552577b73c
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/OPERATION RESEARCH/OPERATION RESEARCH BATCH 2011-12 RE EXAM0001.pdf` (+1 identical copies)
+- Printed on paper: duration hours: 2; exam date: 15/06/2012
+- Text: ocr (3 pages), mean OCR confidence 85.6
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA Tech - ALL STREAMS Year: III Trimester: VII
+Academic Year : 2011-2012 xt
+
+Batch: 2011-12 x, . :
+
+Subject: Operations Research Marks: // 30 svi ‘\a\
+Time: || 10:00 arn To" 12.00 thoon
+
+Date: 15/06/2012 Duration: 2 hrsienai y ej
+
+Re - Examination
+
+Instructions — Candidates should read carefully the instructions printed on the quest:
+of the answer book, which is provided for their use.
+NB-
+
+1. Question No 1 is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. Inall FIVE questions to be attempted.
+
+4, All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+1] A dairy firm has three plants as sources of supply, where the daily milk productions are given as below —
+Plant 1 - 6 Million Liters [10 marks]
+Plant 2 - 1 Million Liters
+
+Plant 3 — 10 Million Liters
+
+Each day the firm must fulfill the needs of its four distribution centers, where the daily minimum daily demand
+is as given below —
+
+Distribution center 1 — 7 Million Liters
+
+Distribution centre 2 — 5 Million Liters
+
+Distribution centre 3 — 3 Million Liters
+
+Distribution centre 4 — 2 Million Liters
+
+Cost of shipping 1 million liters from each plant to each distribution center in hundreds of rupees is as given
+below
+
+<------- Distribution Centers ---------- >
+1 2 3 4
+Plants   <-------------------------------------- >
+] ----- > 2 3 11 7
+2 ----- > | 0 6 1
+3 ----- > 5 8 15 9
+
+The dairy firm wishes to determine what should be the shipment quantity from each plant to each distribution
+center so that the cost of shipment is minimized?
+
+2] A] Congntct the dual to the primal problem - [02 marks]
+Maximize -------------------- > Z = 3X, + 5X
+Subject to Constraints ----- > 2X, + 6X) <= 50
+3X, + 2X) <= 35 ©
+5X, - 3X) <= 10
+Xo <= 20
+where X; >=0, X2>= 0
+2] B] Using the Simplex method solve the following LPP — [08 marks]
+Three grades of coal A, B and C contain phosphorous and ash as impurities. In a particular industrial process,
+fuel up to 100 tons (maximum) is required which should contain ash not more than 3% and phosphorous not
+more than 0.03%. It is desired to maximize the profit while satisfying the above conditions. Assume that there is
+
+Pore | *} 2
+--- page 2 ---
+an unlimited supply of each grade of coal. The percentage of impurities and the profits of each grade of coal are
+as given below —
+
+Grade of Phosphorous Ash Profits in Rs
+Coal (Yage) (%) Per Ton
+A 0.02 3.0 12.00
+B 0.04 2.0 15.00
+Cc 0.03 5.0 14.00
+
+Find the proportions in which the three grades of coal must be used to maximize the profit and still satisfy the
+percentage constraints.
+
+3] A] Construct the dual to the primal problem - [02 marks]
+Minimize -------------------- > Z = 3Xj - 2X. + 4X3
+Subject to Constraints ----- > 3X, + 5X). + 4X3 >= 7
+6X, + X2+ 3X3 >= 4
+TX; - 2X. -- K3 <= 10
+X - 2X) + 5X3 >= 3
+4X, + 7X2) - 2XK3 >= 2
+
+where X}, X2, X3 >= 0
+3] B] Indian Air Force is experimenting with three types of bombs P, Q and R in which three kinds of
+explosives, viz. A, B and C will be used. Taking the various factors into account, it has been decided to use the
+maximum of 600 kg of explosive A, at least 480 kg of explosive B and exactly 540 kg of explosive C. Bomb P
+requires 3, 2, 2 kg, bomb Q requires 1, 4, 3 kg and bomb R requires 4, 2, 3 kg of explosive a, b and C
+respectively. Bomb P is estimated to give the equivalent of a 2 ton explosion, bomb Q, a 3 ton explosion and
+bomb R, a 4 ton explosion respectively. Under what production schedule can the Air Force make the biggest
+
+bang? [08 marks]
+4] A] Use the Hungarian method to arrive at a solution for the following Assignment Problem. [03 marks]
+<on--2--------- Contractors ------------------- >
+1 2 3 4
+Jobs < eT >
+] ----- > 15 13 14 17
+2 ----- > Il 12 15 13
+3 ----- > 413 12 10 11
+4ae> 15 17 14 16
+
+How the jobs should be assigned to the various contractors so that the total cost is minimized.
+4] B] Four different jobs can be done on four different machines. The setup and take down time costs are
+assumetl to be proluisitively high for changeovers. The matrix gives below the cost in rupees for producing job i
+
+on machine iv [07 marks]
+Koon nnn nnne === = Machines ------------------- >
+‘ Mi M2 M3 M4
+Jobs Kon nn nn nnn nnn nnn nanan nn nnn nnn >
+J] ----- > § 7 11 6
+J2 ----- > 8 e) 9 6
+J3 ----- > 4 7 10 vi
+J4 ----- > 10 4 8 3
+
+How the jobs should be assigned to the various machines so that the total cost is minimized?
+
+5] Write short notes on any two of the following - [10 marks]
+
+faye 2 + 3
+--- page 3 ---
+& :
+
+A] Special cases of LPP
+
+B] Sensitivity Analysis :
+
+C] Mathematical Model of Transportation Problem
+
+6] Briefly explain the concept of Game Theory. [10 marks]
+
+7] Briefly explain the concept of Queuing Models. [10 marks]
+
+-X-X-X-K-K-X-K-K-X-K-X-K-X-K-X-X-X-X-X-X-X-K-K-K-K-K-K-X-K-X-X-+K-X-K-X-X-K-X-K-K-K-K-X-K-+
+
+i)
+
+forge <3 ef >
+````
+
+## 2011-12 · Re-Exam · Trim 5 · paper 21949b60c7ac
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION RESEARCH/OPERATION RESEARCH BATCH 2010-11 RE EXAM0001.pdf`
+- Printed on paper: exam date: 23/06/2012
+- Text: ocr (3 pages), mean OCR confidence 89.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+ON
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Programme: MCA Year: II Trimester: V
+
+Academic Year : 2011-2012
+
+Batch: 2010-11
+
+| Subject: Operation Research Marks:
+; Time:
+Date: 23/06/2012 Duration}
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use. Statistical table is required.
+Note : Q1 is compulsory. Answer any 4 questions from Q2 to Q7. All questions carry 20 marks.
+Answer to each question to be started on a fresh page. Clearly mention the assumptions, if any.
+
+Q1. Solve the following Linear programming problem. (20)
+Minimise Z = 3x; + 8x2 fo
+Subject to x; + x2 = 200, x; <80, x2 > 60, x1>0, x2 >0
+
+Q2.(a) A company has found that cost of purchase is Rs. 36 per order and Rs. 2 per unit. Its inventory
+carrying cost is 9 % of the average inventory. The demand is 10000 units per annum. (i) What should
+be the economic order quantity ? What is the optimum number of orders? (8)
+
+(b) Minimise Z = 10 x; + 8 x2 (using Dual Simplex'method) (12)
+Subject to 4x, +2x%.>5, 2x, +2x2.>3,x1, 220
+
+Q3. (a) Five men are available to do five different jobs. The time (in hours) required to do a job by a
+man is given as follows:
+
+Jobs
+j Avian. oD 9 2 7 1
+: ‘ } B 6 8 7 6 1
+( ~ 6 B) 3 1
+D 4 2 7 3 1
+E 5 3 9 5 1
+
+Find the assignment of men to jobs that will minimise the total time taken. (16)
+
+(b) What do you mean by (i) unbalanced assignment problem (ii) prohibited assignments (4)
+
+V/s,
+--- page 2 ---
+Q4(a) A small project is composed of 7 activities whose time estimates are given below.
+
+Activity Time estimate in weeks
+Most likely Optimistic Pessimistic
+1-2 ? 1 1 7
+1-3 4 1 7
+1-4 2 2 8
+2-5 1 . 1 1
+3-5 3° 2 14
+4-6 5 2 8
+5-6 6 3 ; 15
+
+(i) Draw the project network. Find the expected duration and standard deviation of duration of the
+project assuming that the duration of activities follow a normal distribution.
+
+(ii) Find the probability that the project will be completed (i)at least 4 weeks earlier than the expected
+time (ii) in no more than 4 weeks later than the expected time. (12)
+
+(b) Crash the following project by 2 days. (8)
+
+heprity Pair of events Normal time Crash time Normal cost Crash cost
+(days) (days) (Rs.) (Rs.)
+
+A | 1-2 4 2 300 450
+B 1-3 3 2 200 300
+CG 3-4 b) 2 » 500 . 1100
+D } 2-4 4 3. 350; 500
+E Fi 4-5 6 4 _ 400 800
+Fy 2-5 5 3, 500 600
+G 5-6 7 4 600 1050
+H 6-7 4 3 400 700
+I 2-7 8 6 550 1000
+--- page 3 ---
+NS
+
+Q5(a ) Find the transportation cost using Vogel’s Approximation method and optimise it using MODI
+method. (16)
+
+The demands of the 4 destinations are 1000, 1500, 800 and 1200. The capacities of the
+3 sources are 1600, 1200 and 1700. The transportation costs for the 12 cells are given:
+Source | and destn.1 : 19, source 1 and destn.2 : 30,Source 1 and destn. 3: 50,
+
+Source land destn.4: 10, Source 2 and destn.1: 70, Source 2 and destn. 2: 30, Source 2
+and destn. 3: 40, Source 2 and destn.4: 40, Source 3 and destn.1: 40, Source 3 and
+destn.2: 8, Source 3 and destn.3: 70, Source 3 and destn.4: 20.
+
+(b) What do you mean by (i) unbalanced transportation problem (ii) degeneracy in transportation
+problems ((4)
+
+Q6(a) Tools in a factory are issued to workers on FIFO basis. The service time for receipt and issue of
+tools is distributed exponentially with an average of 4 minutes per worker. If workers arrive at a
+random basis at an average rate of 20 workers per 100 minutes, determine (i) average number of
+workers waiting in the queue (ii) average waiting time in the queue (iii) average number of workers in
+the system (iv) average waiting time in the system (v) percentage time the tool distribution clerk is
+idle (15)
+
+(b) Explain the terms (i) utilisation factor (ii) applications of queuing (5)
+Qi. Answer the following in brief (20) .
+
+(i) Operations Research and its applications
+
+(ii) Algorithm of assignment model
+
+(iii) Concept of critical path and dummy activity in CPM
+
+(iv) Paget of cost slope in CPM
+
+(vy) Cohcept of infeasibility in linear programming
+
+7!
+
+2/3
 ````
 
 ## 2010-11 · Exam not stated · Trim 7 · paper 2323e289bb1a
@@ -16868,118 +17646,6 @@ Random Numbers:10,99,65,99,95,01,79,11,16,20.
 BS
 ````
 
-## 2010-11 · Exam not stated · Trim 7 · paper ced53f04bf88
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/OPERATION RESEARCH/OPERATIONS RESEARCH BATCH 2010-2011.pdf` (+1 identical copies)
-- Printed on paper: exam date: 10/10/2011
-- Text: ocr (2 pages), mean OCR confidence 87.7
-
-````text
-a SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineeri
-
-Programme: MBA (Tech) - ALL STREAMS Year: III Trimester: VII
-
-BS SVKMWS \*
-=( NMIVS Unversity )
-
-Academic Year : 2011-2012 x( ve eaay )=
-Batch: 2010-2011 as =
-Subject: Operations Research Marks:
-Time:
-Date: 10/10/2011 Duration:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-And on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Attempt Any Three from Q.1 to Q.5 (Each Question carries 15 marks).
-2. Q.6 is compulsory (5 marks).
-
-Q.1. Solve the following LP problem using simplex method. Ci c)
-Maximize Z = 10x1 + 15x2 + 20x3
-Subject to the constraints
-2x1 + 4x2 + 6x3 <= 24
-3x1 + 9x2 + 6x3 <= 30
-x1,x2,x3 >= 0
-
-Q.2. . A company manufacturing air-coolers has two plants located at Mumbai and Kolkata with a Cs)
-} capacity of 200 units and 100 units per week respectively. The company supplies the air-coolers to
-
-its four show rooms situated at Ranchi, Delhi,Lucknow and Kanpur which have a maximum demand
-
-of 75,100,100 and 30 units respectively. Due to the differences in raw material cost and
-
-transportation cost, the profit per unit in rupees differs which is shown in the table below:
-
-Ranchi Delhi Lucknow Kanpur
-Mumbai _ | 90 90 100 110
-j Kolkata 50 70 130 85
-
-“
-
-4a)
-q Alan the production programme so as to maximize the profit. The company may have its
-production capacity at both plants partly or wholly unused.
-
-Q.3. A machine too! company decides to make four subassemblics through four contractors. Each = C is)
-contractor is to receive only one subassembly. The cost of each subassembly is determined by the
-bids submit by each contractor and is shown in the table below in hundreds of rupees.
---- page 2 ---
-(Q,2. A machine tool company decides to make four subassemblies through four contractors. Each
-contractor is to receive only one subassembly. The cost of each subassembly is determined by the
-bids submit by each contractor and is shown in the table below in hundreds of rupees.
-
-Contractors
-
-ci c2 c3 c4
-Si 15 13 - 14 17
-Subassemblies | $2 11 12 15 13
-$3 13 12 10 11
-$4 15 17 14 16
-Assign the different subassemblies to contractors so as to minimize the total cost. 10 marks
-
-——
-
-,
-
-a
-Q.3. The time estimates (in weeks) for the activities of a PERT network are given below.
-Activity to Pe it:
-1-2 1 1 7
-‘ 1-3 i F 4 7
-—~ :
-1-4 2 2 18
-2-5 1: 1 fa
-3-5 2 5 14
-4-6 2 5 8
-&
-_—— 5-6 3 6 15
-a) Draw the project network and identify all the paths through it.
-b) Determine the expected project length. on 10 marks
-} ; was,
-Q4. For the following payoff matrix for firm A, detertnine the Optimal Strategies for both Firm A
-"1 Firm B and the Value of the Game (using maximin-minimax principle) :
-, Firm B
-™~ 3 -1 14 6 * |7
-Firm A -1 8 2 4 12
-16 8. 6. ‘14 12
-1 1 4. 2. I
-10 marks
-Q.5. Write short note on (Any Two) :
-(a) Types of variables used in LPP.
-(b) 1) optimistic time , 2) pessimistic time, 3)most likely time, in a PERT network,
-(c) Hungarian method in the context of Assignment problem. 10 marks
-
-x
-2/2—
-````
-
 ## 2010-11 · Exam not stated · Trim 5 · paper be3c473c46c7
 
 - Departments: Computer Applications (MCA)
@@ -17163,137 +17829,6 @@ Q7] Answer the following in brief. (20)
 (v) Explain concept of critical path& dummy activity in CPM.
 
 DB
-````
-
-## 2010-11 · Re-Exam · Trim 5 · paper 21949b60c7ac
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION RESEARCH/OPERATION RESEARCH BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: exam date: 23/06/2012
-- Text: ocr (3 pages), mean OCR confidence 89.7
-
-````text
-ON
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Programme: MCA Year: II Trimester: V
-
-Academic Year : 2011-2012
-
-Batch: 2010-11
-
-| Subject: Operation Research Marks:
-; Time:
-Date: 23/06/2012 Duration}
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use. Statistical table is required.
-Note : Q1 is compulsory. Answer any 4 questions from Q2 to Q7. All questions carry 20 marks.
-Answer to each question to be started on a fresh page. Clearly mention the assumptions, if any.
-
-Q1. Solve the following Linear programming problem. (20)
-Minimise Z = 3x; + 8x2 fo
-Subject to x; + x2 = 200, x; <80, x2 > 60, x1>0, x2 >0
-
-Q2.(a) A company has found that cost of purchase is Rs. 36 per order and Rs. 2 per unit. Its inventory
-carrying cost is 9 % of the average inventory. The demand is 10000 units per annum. (i) What should
-be the economic order quantity ? What is the optimum number of orders? (8)
-
-(b) Minimise Z = 10 x; + 8 x2 (using Dual Simplex'method) (12)
-Subject to 4x, +2x%.>5, 2x, +2x2.>3,x1, 220
-
-Q3. (a) Five men are available to do five different jobs. The time (in hours) required to do a job by a
-man is given as follows:
-
-Jobs
-Men I Il TH IV Vv
-j Avian. oD 9 2 7 1
-: ‘ } B 6 8 7 6 1
-( ~ 6 B) 3 1
-D 4 2 7 3 1
-E 5 3 9 5 1
-
-Find the assignment of men to jobs that will minimise the total time taken. (16)
-
-(b) What do you mean by (i) unbalanced assignment problem (ii) prohibited assignments (4)
-
-V/s,
---- page 2 ---
-Q4(a) A small project is composed of 7 activities whose time estimates are given below.
-
-Activity Time estimate in weeks
-Most likely Optimistic Pessimistic
-1-2 ? 1 1 7
-1-3 4 1 7
-1-4 2 2 8
-2-5 1 . 1 1
-3-5 3° 2 14
-4-6 5 2 8
-5-6 6 3 ; 15
-
-(i) Draw the project network. Find the expected duration and standard deviation of duration of the
-project assuming that the duration of activities follow a normal distribution.
-
-(ii) Find the probability that the project will be completed (i)at least 4 weeks earlier than the expected
-time (ii) in no more than 4 weeks later than the expected time. (12)
-
-(b) Crash the following project by 2 days. (8)
-
-heprity Pair of events Normal time Crash time Normal cost Crash cost
-(days) (days) (Rs.) (Rs.)
-
-A | 1-2 4 2 300 450
-B 1-3 3 2 200 300
-CG 3-4 b) 2 » 500 . 1100
-D } 2-4 4 3. 350; 500
-E Fi 4-5 6 4 _ 400 800
-Fy 2-5 5 3, 500 600
-G 5-6 7 4 600 1050
-H 6-7 4 3 400 700
-I 2-7 8 6 550 1000
---- page 3 ---
-NS
-
-Q5(a ) Find the transportation cost using Vogel’s Approximation method and optimise it using MODI
-method. (16)
-
-The demands of the 4 destinations are 1000, 1500, 800 and 1200. The capacities of the
-3 sources are 1600, 1200 and 1700. The transportation costs for the 12 cells are given:
-Source | and destn.1 : 19, source 1 and destn.2 : 30,Source 1 and destn. 3: 50,
-
-Source land destn.4: 10, Source 2 and destn.1: 70, Source 2 and destn. 2: 30, Source 2
-and destn. 3: 40, Source 2 and destn.4: 40, Source 3 and destn.1: 40, Source 3 and
-destn.2: 8, Source 3 and destn.3: 70, Source 3 and destn.4: 20.
-
-(b) What do you mean by (i) unbalanced transportation problem (ii) degeneracy in transportation
-problems ((4)
-
-Q6(a) Tools in a factory are issued to workers on FIFO basis. The service time for receipt and issue of
-tools is distributed exponentially with an average of 4 minutes per worker. If workers arrive at a
-random basis at an average rate of 20 workers per 100 minutes, determine (i) average number of
-workers waiting in the queue (ii) average waiting time in the queue (iii) average number of workers in
-the system (iv) average waiting time in the system (v) percentage time the tool distribution clerk is
-idle (15)
-
-(b) Explain the terms (i) utilisation factor (ii) applications of queuing (5)
-Qi. Answer the following in brief (20) .
-
-(i) Operations Research and its applications
-
-(ii) Algorithm of assignment model
-
-(iii) Concept of critical path and dummy activity in CPM
-
-(iv) Paget of cost slope in CPM
-
-(vy) Cohcept of infeasibility in linear programming
-
-7!
-
-2/3
 ````
 
 ## 2010-11 · Re-Exam · Trim 5 · paper 0a181239a336
@@ -18648,346 +19183,4 @@ profit?
 ‘é
 
 End   _
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper 74db66488300
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/OPERATION RESEARCH/scan0053.pdf` (+1 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 04/10/2012
-- Text: ocr (2 pages), mean OCR confidence 81.2
-
-````text
-SVKM’s NMIMS
-
-aire | Mukesh Patel School of Technology Management & Engineering
-Programme: MBA (Tech) (All stream) Year: Ill ‘Trimester: VII
-
-Academic Year : 2012-2013
-
-Subject: Operations Research Marks: 50
-Time: © 10.00 a.m To 12.00 noon
-Date: 04/10/2012 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions — Candidates should read carefully the instructions printed on the question paper and on the cover
-of the answer book, which is provided for their use.
-NB-
-
-1. Question No 1 is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions. FC wae Un wersuy
-
-3. Inall FIVE questions to be attempted. i x Mumba. - 06,
-
-4. All questions carry equal marks. \ ah LIBRARY F
-5. Answer to each new question to be started on a fresh page. \%, =
-C7
-By
-
-~ $C
-om 709
-or pl
-=) SVKa:
-
-6. Figures in brackets on the right hand side indicate full marks. “Op D «
-re ache err a See ee ee en ie A
-1] Using the Two-Phase Method and the Simplex Method, solve the following LPP - [10 marks]
-Maximize -----~-------------- > Z = 2X) + X + “UX;
-
-Subject to Constraints > 4X, + 6X2 + 3X3 <= 8
-3X) - 6X) - 4K3 <= 1
-
-2X, + 3X) - 5X3 >= 4
-
-where X), X2, X3 >= 0
-
-2] Using the Simplex Method, solve the following LPP - [10 marks]
-Minimize -------------------- > Z = X, - 3X) + 3X3
-Subject to Constraints ----- > 3X) - X)+ 2X3 <= 7
-| 2X, + 4X) >= -12
-
--4X, + 3X. + 8X3 <= 10
-where Xj, X29 X3 >= 0
-
-3] A] Explain the mathematical model for the Balanced T: arisporigace Problem and also the two criteria for
-
-optimal feasible solution(ofs). {5 marks]
-B] Find an initial basic feasible solution(ibfs) to the following Transportation Problem using the NWC-North
-west Corner and LCM-Least Cost Method and VAM-Vogel’s Approximation Method. [5 marks]
-: Ww Distribution Centers ------------------+------ >
-2 3 4 5
-Plants Cette nner ene eee ene meneeemenememe > Supply
-
-A tac -f4 3 | z 6
-
-Total Supply = Total Demand = 200 Units
---- page 2 ---
-4] Use the Hungarian method to arrive at a solution for the following Assignment Problem. {10 marks]
-
-Five wagons are available at stations 1, 2, 3, 4, 5. These five wagons are required at five stations I, II, TIL, IV, V.
-
-The distance between various stations are as given in the matrix below.
-
-Keene eeenenne Stations ----------~------------------------- >
-I IL ul IV Vv
-
-Stations <----------2--- 2-2 ee eee nee tenet nnn eee >
-
-] ----- > 10 05 09 18 11
-
-2-----> 13 09 06 12 14
-
-3-----> 03 02 04 04 05
-
-4-----> 18 09 12 17 15
-
-5 ---=+ > 7 AL) 06 14 19 10
-How should the five wagons be transported so as to minimize the total distance covered.
-5| A project schedule has the following characteristics as shown below — {10 marks]
-Activity Name - Time
-
-1-2 A 4
-
-1-3 B 1
-
-2-4 € 1
-
-3-4 D 1
-
-3-5 E 6
-
-4-9 EF 5
-
-5-6 G 4
-
-5-7 H 8
-
-6-8 I 1
-
-7-8 J 2
-
-8-10 , K 5
-
-9-10 | L 7
-
-Construct Activity Network and compute TE (earliest expected time) and TL (latest allowable time) for each
-activity and also find the critical path for the above given project schedule.
-
-6] Briefly explain the concept of Game Theory. : & {10 marks]
-
-7| Briefly explain the concept of Queuing Models. . [10 marks]
-
-~X-X+X-K-K-X-X-X-X=X~X=X"N-X-N-K-K-N-NN-KANEK-X“X“N“N“K“N KKK“ K “NOK “NON K“KoKeR“K-KX~
-
-vw)
-
-\
-
-ww >
-````
-
-## Year not stated · Re-Exam · Trim 5 · paper 49e090ffb16a
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/OPERATION RESEARCH/OPERATION RESEARCH0001 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/12/2013
-- Text: ocr (3 pages), mean OCR confidence 91.1
-
-````text
-SVKM’s NMIMS gn ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-ay \e
-
-Programme:MCA ‘ Year: II = Trimeste Vv
-
-Academic Year: 2013-14
-
-Subject : Operation Research
-
-Marks: 100
-Date :12/12/2013 Time : 2.00 pm to 5.00 pm
-Durations:3 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Cover of the Answer Book, which is provided for their use.
-NB: _ 1. Attempt any 5 questions.
-2. All questions carry equal marks.
-3. Answer to each new question to be started on a fresh page.
-4. Figure in brackets indicates full marks.
-5. Make suitable assumptions if required.
-Q.1(a) The super market in a city daily needs between 22 and 30 workers depending on the [10]
-time of day. The rush hours are between noon and 2 pm. The table below indicates the
-number of workers needed at various hours when the market is open.
-
-Time period Number of workers needed
-9 am to 11 am 22
-11 am to 1 pm 30
-1 pm to 3 pm 23
-3 pm to 5 pm 23
-
-The super market now employs 24 full- time workers, but needs a few part time workers
-also. A part time worker must put in exactly 4 hours per day, but can start any time
-between 9 am and | pm. Full time workers works form 9 am to 5 pm but are allowed an
-hour for lunch (half of the full timer eat at 12 noon, the other half at 1 pm). Full timers
-_thus provide 35 hours per week of productive labour time. The management of the
-market limits part time hours to a maximum of 50 per cent of the day’s total
-requirement. Part-timers earn Rs. 28 per day on the average, while full-timers earns Rs.
-90 per day in salary and benefits on the average. The management wants to set a
-schedule that would minimize total manpower costs. Formulate this problem as an LP
-model to minimize total daily manpower cost.
-
-Q.1(b) Use the Graphical method to solve the LP problem [10]
-Max Z = 7x; + 7x2
-Subject to the linear constraints
-X; + x2 <20
-30x, +20x2 < 522
-3x, + 4x2 < 72 X1 5X2 >0
-
-Q.2(a) Give the duals for the following LP Problems [06]
-Min Z = x; - 3x2 - 2x3
-Subject to the linear constraints
-3X1 - X2 + 2x357
-2x1- 4x2 > 12
-- 4x; + 3x2 + 8x3= 10 X1 5X2 > 0 x3 unrestricted
-
-Q.2(b) Solve the following LP problems by the Simplex / Big M method. [14]
-Min Z = 5x; + 3x2
-Subject to constraints:
-2x; + 4x2 <12
-2x; +2x. =10
-5x, + 2x. > 10 X1 ,X2>0
-
-113
---- page 2 ---
-Q.3(a) Explain looping in network diagram. Distinguish between PERT and CPM. [05]
-
-Q.3(b) Asmall project consisting of 8 activities has the following characteristics: [15]
-Activity | Predecess | Optimistic | Most likely Pessimistic
-ors time time (weeks) time(days)
-(weeks)
-A -- 2 4
-B -- 10 12 26
-C A 8 9
-D A 10 15
-E, A 7 75
-F B,C 9 9
-G D 3 3.5
-| H E, F,G 5 5
-
-1. Draw PERT network Find expected task duration and the variance
-2. Find critical path. What is the expected length of the critical path? What is
-
-variance of critical path
-3. Ifa 30 week deadline is imposed, what is the probability that the project will be
-
-finished within the time limit?
-
-can do any of the five required jobs; the cost (in hundreds) for [10]
-
-Q.4 (a) Five different machines
-how in the table. Find out the minimum cost possible through
-
-each assignment is as s|
-
-optimal assignment.
-Job Machine |
-A B Cc D E
-i 4 6 7 5 ll
-2 7 3 6 9 5
-3 8 5 4 6 9
-4 9 12 7 ll 10
-5 7 P) 9 8 ll |
-
-from sources A, B, C to destinations I, I, Ill. The [10]
-capacities of the sources and requirements of the
-ule so that cost is minimized.
-
-Q.4(b) Goods have to be transported
-
-transportation cost per unit,
-destinations are given. Determine a transportation sched
-
-Source Destination Supply
-I I il
-A 7 10 5 90
-B 12 9 4 50
-C i 3 ll 80
-D 9 5 7 60
-Demand 120 100 110
-Q.5(a) Find an optimal sequence of performing 4 jobs on 5 machines that minimizes total [10]
-elapsed time. Also find the idle time of each machine.
-[ Job Machine
-A B Cc D E
-1 7 5 r] 3 9
-2 6 6 4 5 10
-3 3 4 5 6 8
-4 8, 3 3 2 6
-
-2|3
---- page 3 ---
-Q.5(b) XYZ food joint has one specialized counter of Indian food. The number of customers [10]
-requiring Indian food appears to follow Poisson distribution with mean arrival rate of 12
-per hour. Customers are attended to by the counter on a first come first served basis, and
-they are willing to wait for service if there be queue. The time the counter takes to attend
-a customer is exponentially distributed with a mean of 4 minutes Required
-
-1. The probability that the queuing system is idle.
-
-2. What is the probability that there shall be 5 customers in the shop (at a point of
-time?)
-
-3. What is the expected number of customers waiting for counter’s service?
-
-4, What is the expected length of the non-empty queue?
-
-5. How much time should a customer expect to spend in the shop?
-
-Q. 6 (a) A dealer supplies you the following information with regard to a product dealt in by [10]
-him: annual demand= 10,000 units; ordering cost= Rs 10 per order; price=Rs 20 per
-unit. Inventory carrying cost= 20% of the value of inventory per year. The dealer is
-considering the possibility of allowing some backorder(stockout) to occur. He has
-estimated that the annual cost of backordering will be 25 % of the value of inventory.
-
-1. What should be the optimum number of units of the product he should buy in one
-lot?
-
-2. What quantity of the product should be allowed to be backordered? If any?
-
-3. What would be the maximum quantity of inventory at any time of the year?
-
-4. Would you recommend to allow backordering? If so, what would be the annual
-cost saving by adopting the policy of backordering.
-
-Q.6(b) A bakery keeps stock of a popular brand of cake. Previous experience shows the daily [10]
-demand pattern for the item with associated probabilities, as given below.
-
-Daily demand (number) | 0 10 20 30 40 50
-Probability 0.01 0.20 | 0.15 | 0.50 0.12 0.02
-
-Use the following sequence of random numbers to simulate the demand for next 10
-days.
-[48 [7s [19 [51 [56 [77 |15 [14 [6s [9 |
-
-Also estimate the daily average demand for the cakes.
-Q.7 Attempt the following (Any 4) [20]
-
-1 Write a note on Operation Research and its application
-
-2 Explain various cost associated with Inventory.
-
-3 Define: Basic feasible solution, alternate solution, unbound solution degenerate solution
-with respect to LPP.
-
-4 Explain the meaning of (M/M/1: «/FIFO) with respect to queuing.
-
-5 Explain least cost method for transportation.
-
-i.
-
-313
 ````

@@ -114,6 +114,7 @@ quantiles and discuss the estimates. (10)
 - Source: `02_Question_Papers/Legacy/M TECH/2ND YEAR/DATA SCIENCES FALL BACH/SEM III/DATA SCIENCE III/Data Science III 2018-19 Final.pdf`
 - Printed on paper: exam date: 16 November 2018
 - Text: ocr (5 pages), mean OCR confidence 90.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -188,7 +189,6 @@ ACF PACE
 
 sad ried
 
-vtech li | il { ica bad ae bbe wt ee pry rts o'r at by.
 
 lag Lag
 
@@ -269,7 +269,6 @@ A) Only 1 B) Only 2 C) Both | and 2
 
 —- ¢
 --- page 4 ---
-oo tt tli i i i iiiit
 
 ie] 2 4 6 8 10 «12 i4 16 18 20 22 24 26
 Lag

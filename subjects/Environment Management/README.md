@@ -16,23 +16,6 @@ Also filed as: `ENVIROMENT MANAGEMENT`, `ENVIRONMENTAL MANAGEMENT`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech Civil 7005, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Environment Management, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech AI 7012, BTech Civil 7005, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | QP_Environment Management(702CE0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Environment Management(702CE0I002)_2025-2026.pdf |
@@ -51,13 +34,30 @@ Also filed as: `ENVIROMENT MANAGEMENT`, `ENVIRONMENTAL MANAGEMENT`
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Environment Management(702CE0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Environment Management(702CE0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech Civil 7005, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech EXTC 7006 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 8 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / CYBER SECURITY, B TECH / EXTC, B.TECH INTEGRATED, MBA TECH | Environment Management Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech AIML 7053 | QP_Environment Management(702CE0I002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Environment Management(702CE0I002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Environment Management(702CE0I002)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Environment Management, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH, MBA TECH | Environment Management, Sem VI, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper |  | B.TECH INTEGRATED | Environment Management Batch 2024-25 Final.pdf |
@@ -73,8 +73,12 @@ Also filed as: `ENVIROMENT MANAGEMENT`, `ENVIRONMENTAL MANAGEMENT`
 | 2008-09 | — | Question paper | Trim 14 | MBA TECH | 2008-2009(142).pdf |
 | 2008-09 | — | Question paper | Trim 10 | MBA TECH / CHEMICAL | 2008-2009(170).pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 14 | MBA TECH | 2008-2009 re exam(70).pdf |
-| 2008-09 | Re-Exam | Question paper | Trim 10 | MBA TECH / CHEMICAL | 2008-2009 re exam I(19).pdf |
+| 2008-09 | Re-Exam | Question paper | Trim 14 | MBA TECH | 2008-2009 re exam I(15).pdf [1] |
 | 2008-09 | Re-Exam | Question paper | Trim 10 | MBA TECH / CHEMICAL | 2008-2009 re exam(86).pdf |
 | — | — | Question paper | Sem 6, Sem 8 | B TECH, MBA TECH | Environment Management.pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "Entrepreneurship management" but the paper is headed "Environment Management"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

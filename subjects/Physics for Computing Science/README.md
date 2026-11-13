@@ -15,10 +15,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 1 | B TECH | Physics for Computing Science, Sem-I, Year 2024-25, Final Exam, 2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Physics for Computing Science(702BS0C024)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech CSBS 7036 | QP_Physics for Computing Science(702BS0C024)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Physics for Computing Science(702BS0C024)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Physics for Computing Science(702BS0C024)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech CSBS 7036 | QP_Physics for Computing Science(702BS0C024)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Physics for Computing Science(702BS0C024)_2024-2025.pdf |
 | 2023-24 | — | Question paper | Sem 1 | B TECH | B Tech, (CSBS), Physics for Computing Science, Sem-I, Batch 2022-23, 2023-2024 & _195ae0d1.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 1 | B TECH | Physics for Computing Science, Sem-I, Final & Re Exam 2021-22, 22-23 A Y 2023-24.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 1 | B TECH | Physics for Computing Science, 1st, Year__Sem-I, Year_22-23, Final_Exam, 2020-202_f8633ad5.pdf |

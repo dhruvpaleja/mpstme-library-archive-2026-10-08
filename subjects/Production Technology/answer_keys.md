@@ -2,7 +2,7 @@
 
 Answer keys and model answers published on the portal, newest first.
 
-## 2024-25 · Re-Exam · Sem 6 · Answer key · paper f50178c05b10
+## 2025-26 · Re-Exam · Sem 6 · Answer key · paper f50178c05b10
 
 - Departments: Mechanical
 - Programmes: Integrated Mechanical 7031

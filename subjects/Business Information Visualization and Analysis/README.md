@@ -16,8 +16,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer | Business Information Visualization and Analysis, Sem VI, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Business Information Visualization and Analysis Batch 2024-25 Final.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Business Information Visualization and Analysis(702CO1E002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Business Information Visualization and Analysis(702CO1E002)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Business Information Visualization and Analysis(702CO1E002)_2024-2025.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER | Business Information Visualisation & Analysis, BTech Computer, Sem-VI, AY 2023-24 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer | Business Information Visualization and Analysis, Sem-VI, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer | Business Information Visualization and Analysis Re-exam 2022-23.pdf |

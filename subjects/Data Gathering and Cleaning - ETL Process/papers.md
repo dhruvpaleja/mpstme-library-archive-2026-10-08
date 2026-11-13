@@ -1,10 +1,10 @@
 # Data Gathering and Cleaning - ETL Process: question papers in full
 
-1 unique papers · years not stated · Data Science
+1 unique papers · 2018-19 to 2018-19 · Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## Year not stated · Final-Exam · Sem 3 · paper 8c580cef021d
+## 2018-19 · Final-Exam · Sem 3 · paper 8c580cef021d
 
 - Departments: Data Science
 - Programmes: B TECH / DATA SCIENCE

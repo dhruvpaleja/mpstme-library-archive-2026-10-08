@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/Structural Analysis-II , F 19-20,Re-exam 17-18,18-19.pdf` (+1 identical copies)
 - Printed on paper: exam date: 18 November 2019
 - Text: ocr (4 pages), mean OCR confidence 79.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -189,9 +190,95 @@ pol nnn B ‘ &
 
 ze
 ‘ AM Lim, 38M ;, 3m , 2m ,2m 1
-T “A /\ T VA vA) A
 
 Page 04/04
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 31126b9c8f35
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II BATCH 2014-15 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 15 January 2019
+- Text: ocr (3 pages), mean OCR confidence 78.7
+
+````text
+SVKM’S NMIMS
+| MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Program: B.Tech/ MBA Tech (Civil) Year: Ul Semester : V
+Academic Year: 2018-19
+Subject: Structural Analysis-IT M
+
+e=7 a oPRGPm
+ox S$: wae
+
+Date: 15 January 2019
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the coyer of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any four questions . (12)
+(a) Define Castigliano’s second theorem. (03)
+(b) Discuss virtual work theorem. ~ (03)
+(c) Differentiate flexibility matrix method and stiffness matrix method. (03)
+(d) What do you mean by symmetric and antisymmetric structure? (03)
+(e) Explain absolute stiffness and relative stiffness. (03)
+
+Q.2 (a) Determine the (external, internal and total) static indeterminacy and kinematic
+
+indeterminacy including and excluding axial deformation for the fig. 1. (06)
+
+(b) Determine the vertical displacement of joint C for the fig. 2 shown. Assume coefficient of
+
+thermal expansion as 12x 10° /°C. Depth of all members as 400 mm. (06)
+
+Q.3 (a) Define static and kinematic indeterminacy. (03)
+
+1/3
+--- page 2 ---
+(b) Analyse the beam shown in fig.3 by flexibility matrix method. Draw BMD and deflection
+diagram. (09)
+
+Q.4 (a) Explain step by step procedure to solve a redundant truss. (03)
+
+(b) Analyse the beam given in fig.4 by three moment theorem. Draw BMD, SFD and deflection
+diagram. (09)
+
+Q.5 A parabolic arch, hinged at the ends has a span 30 m and rise 5 m. a concentrated load of
+12 kN acts at 10 m from the left hinge. The second moment of area varies as the secant of the
+slope, of the rib axis. Calculate the horizontal thrust and the reactions at the hinges, also,
+
+calculate the maximum bending moment anywhere on the arch. (12)
+
+Q.6 Analyse the frame by stiffness matrix method shown in fig 5. Draw BMD and deflection
+diagram. (12)
+
+Q.7 Analyse the beam using slope deflection method shown in fig. 6. Draw BMD, SFD and
+deflection diagram. (12)
+
+2/3
+--- page 3 ---
+\ra
+Lt os c.
+Se Fr
+6m , Sm pam 125m, Son)
+
+Dp
+
+2|3
 ````
 
 ## 2018-19 · Re-Exam · Sem 5 · paper 33f001693129
@@ -201,6 +288,7 @@ Page 04/04
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II BATCH 2017-18 18-19 RE EXAM.pdf`
 - Printed on paper: exam date: 15 January 2019
 - Text: ocr (4 pages), mean OCR confidence 72.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -311,7 +399,6 @@ sxe boned
 < bie al
 Figure 4a
 /- kN/m 20 kN/m
-+B NN AN DSN NN FO A RS RN ne
 2EI D 2El E
 § EI Note: Support E settles down by 20mm
 EI= 25000 KN-m’
@@ -372,6 +459,180 @@ I‘ > > > |
 Figure 7
 
 Page 4 of 4
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 3f4e52c321e7
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/Structural Analysis-II Re-exam (2014-15,15-16,16-17).pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 17 November 2018
+- Text: ocr (3 pages), mean OCR confidence 75.4
+
+````text
+a . SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE} 533
+
+= ott
+wt i
+
+Programme: B.Tech/ MBA Tech Stream: Civil | Year: Il Semester: V i a,
+. ca i
+Academic Year: 2018-19 \is
+
+Subject: Structural Analysis-II %
+_— “ ° Marks: 60 ~~
+Date: 17 November 2018 Time: 10.00 am to 1.00 pm
+“ A Durations: 3 (hrs) -
+No. of Pages: 93
+Re-examination (2014-15 /2015-16 / 2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary and state the same clearly.
+
+Q. la Determine the static indeterminacy (external, internal and total) and kinematic indeterminacy
+(including and excluding axial deformations) for the structures shown below. [06]
+
+ja
+
+=
+
+ci
+
+_ zx
+| a Ci _
+
+1
+
+Qib Determine the horizontal displacement of the roller support D- for the frame in as shown
+below. Take depth of member as 500 mm and a = 18 x 10°C. [06]
+
+r
+
+6m
+
+A,
+
+qi —
+
+oO
+RB +60C c
+
+x
+
++500 3m
+D
+
+oO
+
++30c,
+
+oe
+
++200 4+30¢
+
+Page | of 3
+--- page 2 ---
+Q2a Determine the flexibility coefficients for the frame shown below. [06]
+
+i B oer che @
+4% EI ©
+
+’
+
+A
+— 777
+Va 8m lL
+a 7
+Q2b Using the coefficients developed in Q 2a-above, Analyse the frame loaded as shown below
+and draw BMD. [06]
+20\eN/m
+
+Q3a _ Determine the stiffness coefficients for the beam shown below. [06]
+4 ‘EN ley
+én) emis
+k -
+
+Q3b Using the coefficients developed in Q 3a above, Analyse the beam loaded as shown below
+
+and draw BMD. [06]
+BSOkKN) DOK
+AYP 20kKN/™) sf | < L
+pam ain a ya
+
+Page 2 of 3
+--- page 3 ---
+Q 4a
+
+Q 4b
+
+Q5
+
+Q6
+
+Q7
+
+Analyse the truss as shown below and tabulate the forces developed in the members of the
+
+truss by fi thod. [06]
+_ ry force metho W20KN
+D = FE
+- - BOKN
+
+L 4ro 4 4r +
+Analyse the symmetrical two hinged parabolic arch below and draw BMD. Use least work
+method. 200 KN
+
+[06]
+
+Hlon
+
+W
+
+50m — 56
+Analyse the beam shown below by slope deflection method and draw BMD. [12]
+
+20kN/ mares
+2er A EF * 2QET
+
+Cae em
+A 7 fi A
+
+Analyse the portal frame as shown below by moment distribution method and draw BMD [12]
+29kN/™M
+20kKN—p BR ser ¢ 1s
+ET ex} +m
+A of
+>}
+
+" ero
+=
+
+Analyse the continuous beam as shown below by three moment theorem. Note that support A settles [12]
+down by 10 mm and support B settles down by 15 mm. EI = 15000kN-m’. Draw BMD.
+
+A ox = a eb
+a a. 2X yD
+
+—
+
+L 4m ip Brym
+
+v
+
+Page 3 of 3
 ````
 
 ## 2018-19 · Re-Exam · Sem 5 · paper b124c5f56250
@@ -539,6 +800,443 @@ Figure 14
 Page 4 of 4
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper 81fc69518479
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis -II Re-exam 14-15-16-17.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 January 2019
+- Text: ocr (3 pages), mean OCR confidence 84.7
+
+````text
+SVKM’S NMIMS
+| MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Program: B.Tech/ MBA Tech (Civil) Year: Hl Semester : V
+Academic Year: 2018-19
+Subject: Structural Analysis-II Marks: 60
+
+Time: 2.00 pm to 5.00 pm
+
+Date: 15 January 2019
+Durations: 3 (hrs)
+No. of Pages:_O%.
+Re-examination (2014-15 /2015-16 / 2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Attempt any four questions : (12)
+(a) Define Castigliano’s second theorem. (03)
+(b) Discuss virtual work theorem. - (03)
+(c) Differentiate flexibility matrix method and stiffness matrix method. (03)
+(d) What do you mean by symmetric and antisymmetric structure? (03)
+(e) Explain absolute stiffness and relative stiffness. ; (03)
+
+Q.2 (a) Determine the (external, internal and total) static indeterminacy and kinematic
+
+indeterminacy including and excluding axial deformation for the fig. 1. (06)
+
+(b) Determine the vertical displacement of joint C for the fig. 2 shown. Assume coefficient of
+
+thermal expansion as 12x 10° °C. Depth of all members as 400 mm. (06)
+
+Q.3 (a) Define static and kinematic indeterminacy. (03)
+
+1/3
+--- page 2 ---
+(b) Analyse the beam shown in fig.3 by flexibility matrix method. Draw BMD and deflection
+
+diagram. (09)
+
+Q.4 (a) Explain step by step procedure to solve a redundant truss. (03)
+
+(b) Analyse the beam given in fig.4 by three moment theorem. Draw BMD, SFD and deflection
+
+diagram. (09)
+
+Q.5 A parabolic arch, hinged at the ends has a span 30 m and rise 5 m. a concentrated load of
+12 kN acts at 10 m from the left hinge. The second moment of area varies as the secant of the
+
+slope of the rib axis. Calculate the horizontal thrust and the reactions at the hinges, also,
+
+calculate the maximum bending moment anywhere on the arch. (12)
+
+Q.6 Analyse the frame by stiffness matrix method shown in fig 5. Draw BMD and deflection
+(2)
+
+diagram.
+Q.7 Analyse the beam using slope deflection method shown in fig. 6. Draw BMD, SFD and
+(12)
+
+deflection diagram.
+
+2/3
+--- page 3 ---
+Bo 4
+
+5?
+Gb
+Fig - |
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 2d2b503f67d9
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/structural Analysis-II Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 January 2019
+- Text: ocr (4 pages), mean OCR confidence 71.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (Civil) Year: II
+/ ; Academic Year: 2018-19
+~ Subject: Structural Analysis-II Marks: 70
+
+Semester : V
+
+Time: 2.00 pm to 5.00
+Date: 15 January 2019 ° -
+
+Durations: 3 (hrs)
+
+No. of Pages:_ OZ _
+Re-examination (2017-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right-hand side indicate full marks.
+7. Assume suitable data if necessary and state it clearly.
+
+Q.1 a. For the structures shown in figure la, 1b and Ic, determine static indeterminacy
+(internal, external and total) and kinematic indeterminacy (including and excluding
+
+axial deformations). [07]
+
+b. For the frame shown in figure 2, determine the horizontal deflection of the roller
+support. Take depth of all members as 300 mm, a =12x 10°. . [07]
+Q.2 a. For the beam shown in figure 3a, determine the flexibility coefficients. [06]
+
+b. Using the coefficient developed in Q.2.a, analyse the beam shown in figure 3b and
+draw BMD and tentative deflected shape. [08]
+Q.3 a. For the frame shown in figure 4a, determine the stiffness coefficients. [06]
+
+b. Using the coefficient developed in Q.3.a, analyse the frame shown in figure 4b and
+draw BMD and deflected shape. [08]
+
+Q.4 a. Analyse the truss shown in figure 5 and determine member forces. Note that area of all
+members as same. - [07]
+b. Analyse the two-hinged parabolic arch as shown in figure 6 and draw BMD. [07]
+
+Q.5 Analyse the beam shown in figure 7 by slope deflection method and draw BMD and
+deflected shape. [14]
+
+Q.6 Analyse the frame shown in figure 8 by moment distribution method and draw BMD and
+deflected shape. [14]
+
+Q.7 Analyse the beam shown in figure 9 by Clapeyron’s three moment theorem and draw BMD
+and deflected shape. [14]
+
+Page | of 4
+--- page 2 ---
+x &
+
+Figure la
+RK RRR OK
+Figure 1b
+Figure Ic
++80°C
+. +30°C c
+& +40°C | +30°C +30°C | +40°C
+
+YY we &
+
+6m
+
+Figure 2
+
+©)
+i EI | 2EI >
+
+@) @
+
+4m — a, 6m
+Pr Te |
+Figure 3a
+
+20 kN/m 40 kN 40 kN
+
+5: EI 7 2EI
+le 4m pig 2M og mm"
+
+l TT Tv T “|
+
+Figure 3b
+
+Page 2 of 4
+--- page 3 ---
+& El
+iy (A Cc
+poner TOR
+L 4m B 4m |
+, |
+Figure 4a
+/- kN/m /- kN/m
+201 D 25] E
+£ EI _ Note: Support E settles down by 20mm
+EI= 25000 kN-m’
+yi («CA Cc
+SOR TOR
+4m LU 4m |
+“|
+Figure 4b
+40 kN 80 kN 30 kN
+D E
+‘- 30 kN
+E
+Loe)
+AR B °
+60 kN
+L 4m vie 4m |
+P TT |
+Figure 5
+
+Page 3 of 4
+--- page 4 ---
+50 kN/m
+
+Cc
+10m
+A ye B
+| 25m 25m |
+P | “|
+Figure 6
+15 kN/m 60 kN 80 KN
+B { Cc D
+EI oy 2EI 2EI
+lq 4m pie_3m__ iy 3m 4m plg_2m_,|
+it >< be > >
+Figure 7
+30 kKN/m
+r B Cc
+|
+i]
+y 60kN
+7 wand
+&
+N
+A D
+* OR
+6m l
+Figure 8
+20 kN/m 20 kN/m 80 kN
+B C p_ Note:
+Support B settles down by 20mm
+fe Support C settles down by 10mm
+Support D settles down by 20mm
+L 6m wk 6m. wig 3m .[, 3m _.| El= 15000 kN-m’
+it > ah > |
+Figure 7
+
+Page 4 of 4
+````
+
+## 2017-18 · Exam not stated · Sem 5 · paper 626f346ce04f
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis -II 2015-16,2016-17 (Civil).pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 28 May 2018
+- Text: ocr (4 pages), mean OCR confidence 71.0
+
+````text
+Ne. eS ee ee
+
+Ne MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT 6 EWGingaanre—
+NS
+Programme: MBA Tech (Civil) Year: III Semester: V
+
+Batch: 2015-16/ 2016-17
+Academic Year: 2017-2018
+
+bject: Structural Analysis —II
+sane . Marks:60
+
+Date: 28 May 2018, Time: 02.00 am to 5.00 pm
+Durations: 3 (hrs)
+
+No. of Pages: C4
+
+_Re-examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right-hand side indicate full marks.
+7. Assume suitable data if necessary and state it clearly.
+
+Q.1 a. For the structures shown in figure 1, determine static indeterminacy (internal,
+external and total) and kinematic indeterminacy (including and excluding axial [06]
+deformations).
+
+b. For the frame shown in figure 2, determine the horizontal deflection of the roller [06]
+support. Take depth of all members as 250 mm, a = 18 x 10°.
+
+Q.2 a. For the beam shown in figure 3, determine the flexibility coefficients. [06]
+b. Using the coefficient developed in Q.2.a, analyse the beam shown in figure 4 and
+
+draw BMD and tentative deflected shape. [06]
+
+Q.3 a. For the frame shown in figure 5, determine the stiffness coefficients. [06]
+b. Using the coefficient developed in Q.3.a, analyse the frame shown in figure 6 and
+
+draw BMD and deflected shape. [06]
+Q.4 a. Analyse the truss shown in figure 7 and determine member forces. Note that area of
+
+all members as same. [06]
+
+b. Analyse the two-hinged parabolic arch as shown in figure 8 and draw BMD. [06]
+
+Q.5 Analyse the beam shown in figure 9 by slope deflection method and draw BMD and
+deflected shape. Note that support B and C settles down by 20 and 25 mm respectively.
+
+Take EI = 15000 kN-m’. [12]
+Q.6 Analyse the frame shown in figure 10 by moment distribution method and draw BMD
+
+and deflected shape. [12]
+Q.7 Analyse the beam shown in figure 11 by Clapeyron’s three moment theorem and draw
+
+BMD and deflected shape. {12]
+
+Page | of 4
+--- page 2 ---
+me   & B
+XX xX &
+Figure 1
+é +80°C ec
+a
++50°C fe .
+Ee On 0
+S| +40°C 1 +70°"C
+~
+8m a
+Figure 2
+L 4m Pa 6m |
+Pr dl “|
+Figure 3
+/- kN/m “e 40 kN
+L 4m LL 2m ail 2m ap 2m |
+r " | “|
+Figure 4
+
+Page 2 of 4
+--- page 3 ---
+2EI
+& EI EI
+y A D
+eal SOR b ood
+iL 4m
+Figure 5
+20 kN/m
+“k
+E 2EI D
+g
+N
+EI EI
+_y_ 60kN
+&
+A Cc
+benend bon0nd
+D 4m
+Figure 6
+80 kN 40 kN
+D
+60 kN
+&
+i
+. B
+soe fy
+4m |
+y “|
+Figure 7
+
+Page 3 of 4
+--- page 4 ---
+| 1000 kN
+Cc
+4
+10m
+
+aN y x
+
+| 50m 50m |
+
+I s "|
+
+Figure 8
+
+* 30 kN/m
+
+le 6m alo 8m ve 5m whe 3m >|
+I* ‘i \* |
+Figure 9
+20 kN/m
+40 kN
+ae
+A B Cc
+ie
+\o
+A D
+= XX
+iL 8m RR
+Figure 10
+10 kN/m 20 kN/m 20 KN
+B / C D
+& a &
+Le 8m wk 6m iL 8m mle 2m
+i o om
+Figure 11
+
+Page 4 of 4
+````
+
 ## 2017-18 · Final-Exam · Sem 5 · paper ac55f30a9ada
 
 - Departments: Civil
@@ -546,6 +1244,8 @@ Page 4 of 4
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II (CIVIL), FINAL EXAM 2017-18.pdf`
 - Printed on paper: max marks: 70; exam date: 22 November 2017
 - Text: ocr (3 pages), mean OCR confidence 58.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 VEM’s NMIMS
@@ -629,10 +1329,8 @@ Ala
 3EA]m ake] m
 ~ + A Bam | nce b
 y var tas Tae Pas
-1 Im i Bm L Sm \ am _|
 Fig -G.
 Polen Bokn
-A. om 1 sm 6 3m Sm oe
 Fiq- 7
 aS ~
 Am
@@ -649,6 +1347,8 @@ ZN 0D
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/STRUCTURAL ANALYSIS II 2017-2018 Final.pdf`
 - Printed on paper: exam date: 22 November 2017
 - Text: mixed (3 pages), mean OCR confidence 39.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM's ~lYlThIS
@@ -698,7 +1398,6 @@ rao
 ©)
 Fie.-|
 —_ oO @
-at B reec c ”» eS c)
 4- LOC SS a
 : 2a of ;
 5m 4Acet Ista [4m { Bm ; Amy
@@ -735,6 +1434,170 @@ Fic- gq.
 — a
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 7f04323caea6
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II (CIVIL), BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 22 November 2017
+- Text: ocr (3 pages), mean OCR confidence 72.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+\
+\
+} SVKM’s NMIMS
+i MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (CIVIL) Year: III Semester: V
+Batch: 2015-16/ 2016-17
+7 Academic Year: 2017-2018 _
+bject: Structural Analysis-II 997 Magy Re
+: ura A Be 7 sey
+sai ian — Marks: 60 s°- “AS,
+Date: 22 November 2017 Time: 2.00jpfn to5.00 pry Ya!
+Durationsii4 (ats) 2A RT
+ae le
+a No. of Pago — “ ;
+Re-Examination N* Nina y
+‘Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+\ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Q. la Determine Static (external, internal and total) and Kinematic (including and excluding axial (06)
+deformation) indeterminancy for structures shown
+y, ‘
+Z A A
+77 La
+re DY
+Q. Ib Determine horizontal dispiacement of joint f)for a frame subjected to temperature Loading as shown. (06)
+ar=12x10%/ °C. Depth of all members = 450mm.
+& 4G C “
+— a
+
+2s5°e
+--- page 2 ---
+Q.2a
+
+Q.25
+
+Q3a
+
+Q.3 b
+
+Q.4a
+
+Q.4b
+
+Explain difference between force method and displacement method for Indeterminate structure analysis (03)
+9
+
+Analyze the beam shown for the loading using Clapyeron’s three moment theorem. .Draw SFD, (09)
+BMD and deflected shape.
+
+BOkn 20KN/m GOKN .
+Dw f /
+ae GM z _S py ———_y»——- Sm —_+
+
+For 2 hinged parabolic arch AB of 30 m span and 5 m rise ,concentrated load of 12 KN (06)
+acts at 10 m from left support A. Calculate horizontal thrust and reactions at the support and
+maximum BM.
+
+Analyse the indeterminate truss and calculate forces in the members. Consider member BD (06)
+as redundant.
+
+Cc
+a D 26KN
+| CA) = 6S6 MM
+FORMEMIBERS
+on _ :
+| Es 2X10 N ren ox
+AB 5B
+Arm ae
+Calculate flexibility coefficient for the frame shown (06)
+
+f-
+
+| © AM
+
+Ar =
+
+6m f ace
+: G T 2=\
+
+| Ags\
+
+7 iz eM oy
+Using the above coefficient analyze the frame for the loading shown. Draw SFD, BMD and (06)
+deflected shape. ;
+
+jour”
+c
+
+q
+
+Am # At)
+
+AM
+--- page 3 ---
+Q.5a Define stiffness coefficient. (02)
+
+Q.5b Analyze the frame shown by slope deflection method. Draw BMD and deflected shape. (10)
+> ‘
+
+LY
+
+Determine stiffness coefficient for the beam as shown. (G4)
+AS J
+
+j rv N
+A £ AM
+
+pe
+
+s coefficient derived in Q.6a analyse the beam as shown below. Draw SFD, (08)
+
+O.6a
+
+&
+al
+
+“Q.6b — Using the stiffnes
+
+BMD and deflected-shape.
+yy hin is KN/m..
+
+» font DOE tee,
+
+os z
+a 7 AM AM + of
+A
+
+Q.7 Analyze the continuous beam shown by moment distribution method. Draw SFD, BMD and (12)
+
+deflected shape.
+SOK ee
+
+|+< KN
+/ ® atl ”
+Kk
+Ps
+
+YI 4
+=
+8M nom KAM eM
+
+ae ee
+
+NS
+
+3].
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper 6c4234686564
 
 - Departments: Civil
@@ -742,6 +1605,7 @@ Fic- gq.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II BATCH 15-16 16-17 RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 28 May 2018
 - Text: ocr (3 pages), mean OCR confidence 61.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -820,7 +1684,6 @@ Fig- 3
 
 Boks
 { Goknm
-A 6m a em B Am NA am Cc
 
 fe Sp
 
@@ -1022,2397 +1885,7 @@ er
 Z0o+@
 ````
 
-## 2017-18 · Re-Exam · Sem 5 · paper 2472dfde6d9a
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis-II 2017-18 Re-exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 May 2018
-- Text: ocr (4 pages), mean OCR confidence 71.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Civil) Year: III Semester: V
-
-Batch: 2017-18
-Academic Year: 2017-2018
-
-Subject: Structural Analysis -II -
-Marks: 70
-
-Date: 28 May 2018 Time: 2.00 pm to 5.00 pm
-Durations: 3 (Hrs)
-
-No. of Pages:
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1. Question No. 1 is compulsory. -
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right-hand side indicate full marks.
-
-7. Assume suitable data if necessary and state it clearly.
-
-Q.1 a. For the structures shown in figure la, lb and Ic, determine static indeterminacy
-(internal, external and total) and kinematic indeterminacy (including and excluding
-
-axial deformations). [07]
-
-b. For the frame shown in figure 2, determine the horizontal deflection of the roller
-support. Take depth of all members as 300 mm, a = 12 x 10°. [07]
-Q.2 a. For the beam shown in figure 3a, determine the flexibility coefficients. [06]
-
-b. Using the coefficient developed in Q.2.a, analyse the beam shown in figure 3b and
-draw BMD and tentative deflected shape. [08]
-Q.3 a. For the frame shown in figure 4a, determine the stiffness coefficients. [06]
-
-b. Using the coefficient developed in Q.3.a, analyse the frame shown in figure 4b and
-draw BMD and deflected shape. [08]
-
-Q.4 a. Analyse the truss shown in figure 5 and determine member forces. Note that area of all
-members as same. [07]
-b. Analyse the two-hinged parabolic atch as shown in figure 6 and draw BMD. [07]
-
-Q.5 Analyse the beam shown in figure 7 by slope deflection method and draw BMD and
-deflected shape. [14]
-
-Q.6 Analyse the frame shown in figure 8 by moment distribution method and draw BMD and
-deflected shape. [14]
-
-Q.7 Analyse the beam shown in figure 9 by Clapeyron’s three moment theorem and draw BMD
-and deflected shape. [14]
-
-Page | of 4
---- page 2 ---
-is &   ®
-
-Figure la
-" <9
-XX RR RX
-Figure 1b
-Figure ic
-+80°C
-x Soo Cc
-+10°C -
-E +60°C | +40°C +30°C | +60°C
-
-yy we &
-
-4m
-Figure 2
-Cx EI 2EI A
-fh 4m lL 6m |
-[" ian
-Figure 3a
-20 kN/m 40 kN 40 kN
-
-|
-
-pocdnneg
-
-lg 4m ple 2M |g mm
-
-¢ > i »< |
-
-Figure 3b
-
-Page 2 of 4
---- page 3 ---
-+ G $6
-
-4 EI EI
-A D
-~~ RR OX
-lo 4m i
-Figure 4a
-20 kN/m
-7 ROIS
-8 2EI D &
-> —=
-& aN ~4
-a on 60 iN, EI : EI &
-A Cc _
-* TOR pe ay
-lo 4m |
-Figure 4b
-40 kN 80 kN 30 kN
-D E
-y’ 30 kN
-&
-loa]
-_v
-es B °
-60 kN
-lg 4m ple 4m >
-[* >< |
-Figure 5
-Page 3 of 4
---- page 4 ---
-50 kN/m 300 kN
-
-c
-10m
-A i A B
-| 25m 25m |
-rr - |
-Figure 6
-ye kN/m : "| kN _
-l, nla ® ple _2m_,|
-rr |
-Figure 7
-30 kN/m
-60 kN
-—>
-3 3B Cc
-iB
-+
-v A ; D
-a RK XXX
-6m
-Figure 8
-30 kN/m 30 kN/m 80 kN
-B C D | Note:
-E Support B settles down by 20mm
-fy fy Support C settles down by 10mm
-Support D settles down by 20mm
-le 4m 4m 4m |. 2m _.| — EI= 20000 kN-m’
-it > (¢ an >
-Figure 9
-
-Page 4 of 4
-````
-
-## 2017-18 · Re-Exam · Sem 5 · paper 2d2b503f67d9
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/structural Analysis-II Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 January 2019
-- Text: ocr (4 pages), mean OCR confidence 71.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (Civil) Year: II
-/ ; Academic Year: 2018-19
-~ Subject: Structural Analysis-II Marks: 70
-
-Semester : V
-
-Time: 2.00 pm to 5.00
-Date: 15 January 2019 ° -
-
-Durations: 3 (hrs)
-
-No. of Pages:_ OZ _
-Re-examination (2017-18/ 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right-hand side indicate full marks.
-7. Assume suitable data if necessary and state it clearly.
-
-Q.1 a. For the structures shown in figure la, 1b and Ic, determine static indeterminacy
-(internal, external and total) and kinematic indeterminacy (including and excluding
-
-axial deformations). [07]
-
-b. For the frame shown in figure 2, determine the horizontal deflection of the roller
-support. Take depth of all members as 300 mm, a =12x 10°. . [07]
-Q.2 a. For the beam shown in figure 3a, determine the flexibility coefficients. [06]
-
-b. Using the coefficient developed in Q.2.a, analyse the beam shown in figure 3b and
-draw BMD and tentative deflected shape. [08]
-Q.3 a. For the frame shown in figure 4a, determine the stiffness coefficients. [06]
-
-b. Using the coefficient developed in Q.3.a, analyse the frame shown in figure 4b and
-draw BMD and deflected shape. [08]
-
-Q.4 a. Analyse the truss shown in figure 5 and determine member forces. Note that area of all
-members as same. - [07]
-b. Analyse the two-hinged parabolic arch as shown in figure 6 and draw BMD. [07]
-
-Q.5 Analyse the beam shown in figure 7 by slope deflection method and draw BMD and
-deflected shape. [14]
-
-Q.6 Analyse the frame shown in figure 8 by moment distribution method and draw BMD and
-deflected shape. [14]
-
-Q.7 Analyse the beam shown in figure 9 by Clapeyron’s three moment theorem and draw BMD
-and deflected shape. [14]
-
-Page | of 4
---- page 2 ---
-x &
-
-Figure la
-RK RRR OK
-Figure 1b
-Figure Ic
-+80°C
-. +30°C c
-& +40°C | +30°C +30°C | +40°C
-
-YY we &
-
-6m
-
-Figure 2
-
-©)
-i EI | 2EI >
-
-@) @
-
-4m — a, 6m
-Pr Te |
-Figure 3a
-
-20 kN/m 40 kN 40 kN
-
-5: EI 7 2EI
-le 4m pig 2M og mm"
-
-l TT Tv T “|
-
-Figure 3b
-
-Page 2 of 4
---- page 3 ---
-& El
-iy (A Cc
-poner TOR
-L 4m B 4m |
-, |
-Figure 4a
-/- kN/m /- kN/m
-+ RB SS A A aN iN A a nn
-201 D 25] E
-£ EI _ Note: Support E settles down by 20mm
-EI= 25000 kN-m’
-yi («CA Cc
-SOR TOR
-4m LU 4m |
-“|
-Figure 4b
-40 kN 80 kN 30 kN
-D E
-‘- 30 kN
-E
-Loe)
-AR B °
-60 kN
-L 4m vie 4m |
-P TT |
-Figure 5
-
-Page 3 of 4
---- page 4 ---
-50 kN/m
-
-Cc
-10m
-A ye B
-| 25m 25m |
-P | “|
-Figure 6
-15 kN/m 60 kN 80 KN
-B { Cc D
-EI oy 2EI 2EI
-lq 4m pie_3m__ iy 3m 4m plg_2m_,|
-it >< be > >
-Figure 7
-30 kKN/m
-r B Cc
-|
-i]
-y 60kN
-7 wand
-&
-N
-A D
-* OR
-6m l
-Figure 8
-20 kN/m 20 kN/m 80 kN
-B C p_ Note:
-Support B settles down by 20mm
-fe Support C settles down by 10mm
-Support D settles down by 20mm
-L 6m wk 6m. wig 3m .[, 3m _.| El= 15000 kN-m’
-it > ah > |
-Figure 7
-
-Page 4 of 4
-````
-
-## 2016-17 · Exam not stated · Sem 5 · paper 626f346ce04f
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis -II 2015-16,2016-17 (Civil).pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 28 May 2018
-- Text: ocr (4 pages), mean OCR confidence 71.0
-
-````text
-Ne. eS ee ee
-
-Ne MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT 6 EWGingaanre—
-NS
-Programme: MBA Tech (Civil) Year: III Semester: V
-
-Batch: 2015-16/ 2016-17
-Academic Year: 2017-2018
-
-bject: Structural Analysis —II
-sane . Marks:60
-
-Date: 28 May 2018, Time: 02.00 am to 5.00 pm
-Durations: 3 (hrs)
-
-No. of Pages: C4
-
-_Re-examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right-hand side indicate full marks.
-7. Assume suitable data if necessary and state it clearly.
-
-Q.1 a. For the structures shown in figure 1, determine static indeterminacy (internal,
-external and total) and kinematic indeterminacy (including and excluding axial [06]
-deformations).
-
-b. For the frame shown in figure 2, determine the horizontal deflection of the roller [06]
-support. Take depth of all members as 250 mm, a = 18 x 10°.
-
-Q.2 a. For the beam shown in figure 3, determine the flexibility coefficients. [06]
-b. Using the coefficient developed in Q.2.a, analyse the beam shown in figure 4 and
-
-draw BMD and tentative deflected shape. [06]
-
-Q.3 a. For the frame shown in figure 5, determine the stiffness coefficients. [06]
-b. Using the coefficient developed in Q.3.a, analyse the frame shown in figure 6 and
-
-draw BMD and deflected shape. [06]
-Q.4 a. Analyse the truss shown in figure 7 and determine member forces. Note that area of
-
-all members as same. [06]
-
-b. Analyse the two-hinged parabolic arch as shown in figure 8 and draw BMD. [06]
-
-Q.5 Analyse the beam shown in figure 9 by slope deflection method and draw BMD and
-deflected shape. Note that support B and C settles down by 20 and 25 mm respectively.
-
-Take EI = 15000 kN-m’. [12]
-Q.6 Analyse the frame shown in figure 10 by moment distribution method and draw BMD
-
-and deflected shape. [12]
-Q.7 Analyse the beam shown in figure 11 by Clapeyron’s three moment theorem and draw
-
-BMD and deflected shape. {12]
-
-Page | of 4
---- page 2 ---
-me   & B
-XX xX &
-Figure 1
-é +80°C ec
-a
-+50°C fe .
-Ee On 0
-S| +40°C 1 +70°"C
-~
-8m a
-Figure 2
-L 4m Pa 6m |
-Pr dl “|
-Figure 3
-/- kN/m “e 40 kN
-L 4m LL 2m ail 2m ap 2m |
-r " | “|
-Figure 4
-
-Page 2 of 4
---- page 3 ---
-2EI
-& EI EI
-y A D
-eal SOR b ood
-iL 4m
-Figure 5
-20 kN/m
-“k
-E 2EI D
-g
-N
-EI EI
-_y_ 60kN
-&
-A Cc
-benend bon0nd
-D 4m
-Figure 6
-80 kN 40 kN
-D
-60 kN
-&
-i
-. B
-soe fy
-4m |
-y “|
-Figure 7
-
-Page 3 of 4
---- page 4 ---
-| 1000 kN
-Cc
-4
-10m
-
-aN y x
-
-| 50m 50m |
-
-I s "|
-
-Figure 8
-
-* 30 kN/m
-
-le 6m alo 8m ve 5m whe 3m >|
-I* ‘i \* |
-Figure 9
-20 kN/m
-40 kN
-ae
-A B Cc
-ie
-\o
-A D
-= XX
-iL 8m RR
-Figure 10
-10 kN/m 20 kN/m 20 KN
-B / C D
-& a &
-Le 8m wk 6m iL 8m mle 2m
-i o om
-Figure 11
-
-Page 4 of 4
-````
-
-## 2016-17 · Final-Exam · Sem 5 · paper 90bd5697ae9b
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2016-17 Final.pdf`
-- Printed on paper: exam date: 28 November 2016
-- Text: ocr (3 pages), mean OCR confidence 76.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech (Civil) Year: III Semester: V /
-
-Academic Year: 2016-2017
-
-Subject : Structural Analysis-II
-Mi
-Date : 28 November 2016 Ti
-Du
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted. (Compulsory)
-
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q. la Determine Static (external, internal and total) and Kinematic (including and excluding axial —_ (06)
-deformation) indeterminancy for structures shown
-
-y
-7 7
-7 A>
-(06
-
-Q. ib Determine vertical displacement of jointB for a truss subjected to temperature rise of 20 °c for top
-
-chord, 25 ° c for intermediate members and 30 °c for bottom chord.
-ar=12x10%/ °C. A= SAME FOR ALL MEMBERS
-
-© £ q
-JAN
-Va Am B® - i ‘v
-| um ly 4/5
---- page 2 ---
-Explain difference between determinate and Indeterminate structure analysis, (03)
-
-lb) Analyze the beam shown for the loading using Clapyeron’s three moment theorem. .Draw SFD, (09)
-BMD and deflected shape.
-
-ZO KN wy BORN
-aw Ri alia { 2m)
-
-t { vY)
-
-i ie
-
-For: 2 hinged parabolic arch AB of 50 m span and 8 m rise ,concentrated load of 40 KN (06)
-acts at 10 m from left support A. Calculate horizontal thrust and reactions at the support and
-maximum BM.
-
-Analyse the indeterminate truss and calculate forces in the members. Consider member B,D) (06)
-as redundant. loo kN
-G& CkN—, one C A Dar alk members € 2 al
-
-E = 2x10% N] wn
-
-A ant I,
-Calculate flexibility ‘coefficient for thé rame shown (06)
-
-4m
-
-A
-
-ah a
-
-Using the above coefficient analyze the frame for the loading shown. Draw SFD, BMD and (06)
-
-deflected shape.
-rT
-
-{o kw 7 ae AM
-wr,
---- page 3 ---
-Q.5a___ Define stiffness coefficient. (02)
-
-Q.5b Analyze the frame shown by slope deflection method. Draw BMD and deflected shape. (10)
-4OKN Cc,
-
-5 YD Ov
-Ln
-Q.6a Determine stiffness coefficient for the beam as shown. (04)
-: 1 > 3
-me A
-a 3 —. am
-4 ¥5 t;
-Q.6b Using the stiffness coefficient derived in Q.6a analyse the beam as shown below. Draw SFD, (08)
-BMD and deflected shape.
-\O KN/o 2BOKN
-Pe a AS en
-
-am Am. &
-™ 7 Mm. =7
-k—4
-
-im
-Q.7 Analyze the continuous beam shown by moment distribution method. Draw SFD,BMD and (12)
-deflected shape.
-30 1KN/w - 25Kn
-L \ \20 KY
-DQ SN L cl
-1 eo £ @ & EDF
-i aD TH xt WD (CSD a7)
-
-0 AM a BO Bsr ——*
-
-oh i
-
-a: 3
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 7f04323caea6
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II (CIVIL), BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 22 November 2017
-- Text: ocr (3 pages), mean OCR confidence 72.9
-
-````text
-\
-\
-} SVKM’s NMIMS
-i MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (CIVIL) Year: III Semester: V
-Batch: 2015-16/ 2016-17
-7 Academic Year: 2017-2018 _
-bject: Structural Analysis-II 997 Magy Re
-: ura A Be 7 sey
-sai ian — Marks: 60 s°- “AS,
-Date: 22 November 2017 Time: 2.00jpfn to5.00 pry Ya!
-Durationsii4 (ats) 2A RT
-ae le
-a No. of Pago — “ ;
-Re-Examination N* Nina y
-‘Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-\ 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Q. la Determine Static (external, internal and total) and Kinematic (including and excluding axial (06)
-deformation) indeterminancy for structures shown
-y, ‘
-Z A A
-77 La
-re DY
-Q. Ib Determine horizontal dispiacement of joint f)for a frame subjected to temperature Loading as shown. (06)
-ar=12x10%/ °C. Depth of all members = 450mm.
-& 4G C “
-— a
-
-2s5°e
---- page 2 ---
-Q.2a
-
-Q.25
-
-Q3a
-
-Q.3 b
-
-Q.4a
-
-Q.4b
-
-Explain difference between force method and displacement method for Indeterminate structure analysis (03)
-9
-
-Analyze the beam shown for the loading using Clapyeron’s three moment theorem. .Draw SFD, (09)
-BMD and deflected shape.
-
-BOkn 20KN/m GOKN .
-Dw f /
-a ie B & Cc | —p
-A Or Nf - <n Ry !
-ae GM z _S py ———_y»——- Sm —_+
-
-For 2 hinged parabolic arch AB of 30 m span and 5 m rise ,concentrated load of 12 KN (06)
-acts at 10 m from left support A. Calculate horizontal thrust and reactions at the support and
-maximum BM.
-
-Analyse the indeterminate truss and calculate forces in the members. Consider member BD (06)
-as redundant.
-
-Cc
-a D 26KN
-| CA) = 6S6 MM
-FORMEMIBERS
-on _ :
-| Es 2X10 N ren ox
-AB 5B
-Arm ae
-Calculate flexibility coefficient for the frame shown (06)
-
-f-
-
-| © AM
-
-Ar =
-
-6m f ace
-: G T 2=\
-
-| Ags\
-
-7 iz eM oy
-Using the above coefficient analyze the frame for the loading shown. Draw SFD, BMD and (06)
-deflected shape. ;
-
-jour”
-c
-
-q
-
-Am # At)
-
-AM
---- page 3 ---
-Q.5a Define stiffness coefficient. (02)
-
-Q.5b Analyze the frame shown by slope deflection method. Draw BMD and deflected shape. (10)
-> ‘
-
-LY
-
-Determine stiffness coefficient for the beam as shown. (G4)
-AS J
-
-j rv N
-A £ AM
-
-pe
-
-s coefficient derived in Q.6a analyse the beam as shown below. Draw SFD, (08)
-
-O.6a
-
-&
-al
-
-“Q.6b — Using the stiffnes
-
-BMD and deflected-shape.
-yy hin is KN/m..
-
-» font DOE tee,
-
-os z
-a 7 AM AM + of
-A
-
-Q.7 Analyze the continuous beam shown by moment distribution method. Draw SFD, BMD and (12)
-
-deflected shape.
-SOK ee
-
-|+< KN
-/ ® atl ”
-Kk
-Ps
-
-YI 4
-=
-8M nom KAM eM
-
-ae ee
-
-NS
-
-3].
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 14085fd956bd
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 26 May 2017
-- Text: ocr (3 pages), mean OCR confidence 66.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: V
-/ Batch: 2015-16/ 2016-17
-3 Academic Year: 2016-2017 Te
-F FE.BE SS
-Subject: Structural Analysis-II . Rats “SS
-Marks: 60 se
-
-Date: 26 May 2017 Time: 10.00 am tol. 00 pm,»
-
-Durations: 3 ts) * a” ie ’
-
-No. of Pages: * won.
-Re-Examination Ta
-Instructions:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. Inall attempt 5 questions.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 a) Determine Degree of Static Indetreminancy and Degree of Kinematic Indeterminancy
-for the structures as shown in Fig. 1 (06 marks)
-
-Q.1 b) Determine the deflection at joint D due to temperature change shown in the Figure 2.
-Take a = 12 x 10 © / °C, depth of all members = 300 mm, and EI = 4 ,00,000 kN-mm?
-
-(06 marks)
-
-Q.2 a) Derive the flexibility coefficients for the rigid jointed plane frame w.r.t co ordinates as
-shown in Figure 3 below. (04 marks)
-
-Q. 2 b) Analyse the continuous beam as shown in the figure 4 below by Three Moment
-Equation and draw BMD if support B sinks by 6 mm below. E = 2.1 x 10 >N/mm/? and I = 90 x
-
-10° mm‘. (08 marks)
-
-Q.3 a) Distinguish between Flexibility method and Stiffness method. (03 marks)
-
-Q. 3 b) Analyse the rigid jointed plane frame as shown in the figure 5 by flexibility method.
-
-Draw SFD and BMD for the frame. (09 marks)
-
-Q.4 Analyse the rigid jointed plane frame as shown in the figure 6 by Stiffness method. Draw
-
-SFD and BMD. (12 marks)
-al
-
-Q. 5. Analyse the forces in all the members of the pin jointed frame as shown in figure 7 by
-ge flexibility method. Find forces in all the members. (12 marks)
-
-Va
---- page 2 ---
-Q.6 a) Define (i) Stiffness coefficient (ii) Relative stiffness (iii) Distribution factor. (03 marks)
-
-Q. 6 b) Analyse the rigid jointed plane frame as shown in figure 8 by slope deflection method.
-Draw BMD. (09 marks)
-
-Q. 7 a) A two hinged parabolic arch of span 30 m and central rise 6 m carries a udl of 12
-kN/m on left half span and a concentrated load of 16 kN at a distance 8 m from right hand
-support. If the moment of inertia of the arch rib varies with respect to the secant of the slope
-of the arch axis, find horizontal reactions. (06 marks)
-
-Q. 7 b) Analyse the continuous beam as shown in figure 9 by Moment Distribution Method.
-
-Draw BMD. th eato al b ing de (06 marks)
-J
-tp.
-C1)
-
-[ |S eN- [2 len [to 20 |eN
-
-ols crag)
-
-Oly
---- page 3 ---
-20.
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 3f4e52c321e7
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/Structural Analysis-II Re-exam (2014-15,15-16,16-17).pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 17 November 2018
-- Text: ocr (3 pages), mean OCR confidence 75.4
-
-````text
-a . SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE} 533
-
-= ott
-wt i
-
-Programme: B.Tech/ MBA Tech Stream: Civil | Year: Il Semester: V i a,
-. ca i
-Academic Year: 2018-19 \is
-
-Subject: Structural Analysis-II %
-_— “ ° Marks: 60 ~~
-Date: 17 November 2018 Time: 10.00 am to 1.00 pm
-“ A Durations: 3 (hrs) -
-No. of Pages: 93
-Re-examination (2014-15 /2015-16 / 2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary and state the same clearly.
-
-Q. la Determine the static indeterminacy (external, internal and total) and kinematic indeterminacy
-(including and excluding axial deformations) for the structures shown below. [06]
-
-ja
-
-=
-
-ci
-
-_ zx
-| a Ci _
-
-1
-
-Qib Determine the horizontal displacement of the roller support D- for the frame in as shown
-below. Take depth of member as 500 mm and a = 18 x 10°C. [06]
-
-r
-
-6m
-
-A,
-
-qi —
-
-oO
-RB +60C c
-
-x
-
-+500 3m
-D
-
-oO
-
-+30c,
-
-oe
-
-+200 4+30¢
-
-Page | of 3
---- page 2 ---
-Q2a Determine the flexibility coefficients for the frame shown below. [06]
-
-i B oer che @
-4% EI ©
-
-’
-
-A
-— 777
-Va 8m lL
-a 7
-Q2b Using the coefficients developed in Q 2a-above, Analyse the frame loaded as shown below
-and draw BMD. [06]
-20\eN/m
-
-Q3a _ Determine the stiffness coefficients for the beam shown below. [06]
-4 ‘EN ley
-én) emis
-k -
-
-Q3b Using the coefficients developed in Q 3a above, Analyse the beam loaded as shown below
-
-and draw BMD. [06]
-BSOkKN) DOK
-AYP 20kKN/™) sf | < L
-pam ain a ya
-
-Page 2 of 3
---- page 3 ---
-Q 4a
-
-Q 4b
-
-Q5
-
-Q6
-
-Q7
-
-Analyse the truss as shown below and tabulate the forces developed in the members of the
-
-truss by fi thod. [06]
-_ ry force metho W20KN
-D = FE
-- - BOKN
-
-L 4ro 4 4r +
-Analyse the symmetrical two hinged parabolic arch below and draw BMD. Use least work
-method. 200 KN
-
-[06]
-
-Hlon
-
-W
-
-50m — 56
-Analyse the beam shown below by slope deflection method and draw BMD. [12]
-
-20kN/ mares
-2er A EF * 2QET
-
-Cae em
-A 7 fi A
-
-Analyse the portal frame as shown below by moment distribution method and draw BMD [12]
-29kN/™M
-20kKN—p BR ser ¢ 1s
-ET ex} +m
-A of
->}
-
-" ero
-=
-
-Analyse the continuous beam as shown below by three moment theorem. Note that support A settles [12]
-down by 10 mm and support B settles down by 15 mm. EI = 15000kN-m’. Draw BMD.
-
-A ox = a eb
-a a. 2X yD
-
-—
-
-L 4m ip Brym
-
-v
-
-Page 3 of 3
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper c6040ed5283e
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/STRUCTURAL ANALYSIS II BATCH 2014-15,2015-16,2016-17 Re-exam.pdf`
-- Printed on paper: exam date: 29 May 2017
-- Text: ocr (3 pages), mean OCR confidence 61.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Civil) ~ Year: III * Semester: V
-
-Batch: 2014-15/2015-16/2016-17 ©
-Academic Year: 2016-2017 ~ _.
-
-Subject: Structural Analysis -II ~
-
-Date: 29 May 2017.
-
-Re-Examination
-Instructions: Candidates should read eurehilly the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) Answer to each new question to be started on a fresh page.
-
-4) Figures in brackets on the right hand side indicate full marks.
-
-Q.1 (a) Determine the static and kinematic indeterminacy (including internal and external) for
-
-the structure shown in Fig. 1 (i, ii and iii) (6)
-(b) Determine horizontal displacement of joint D, as shown in Fig. 2. Take o = 12x10°C
-depth of all members = 300 mm. (6)
-Q.2 (a) Determine the flexibility coefficient for the beam shown in Fig. 3. (4)
-(b) Analyse the beam by flexibility method shown in Fig. 4 and draw the bending moment
-diagram. (8)
-Q.3 Analyse the truss as shown in Fig. 5 and tabulate the forces developed in the member of
-the truss. The area of the members are 300 mm?. (12)
-Q.4 Determine the moments at the supports of the continuous beams by slope deflection
-method as shown in Fig. 6. Draw also B.M. diagram for the beam. (12)
-Q.5 Analyse the portal frame by moment distribution method, shown in Fig. 7. (12)
-Q. 6 Determine the stiffness coefficients for the continuous beam shown in Fig. 8. (12)
-
-Q.7 (a) Determine the support moments and reactions at supports for the continuous beam as
-shown in Fig. 9, if the supports B and C sink by 3 mm and 5 mm respectively. Take I =2 x 107
-mm‘ and E = 200 kN/mm’. (6)
-(b) A two hinged parabolic arch of span 40 m and rise 5 m carries a uniformly distributed load
-
-of 5kN/m on the left half of the span and also a concentrated load of 40 kN at the crown.
-Determine the horizontal thrust at the supports and the maximum bending moment for the arch.
-
-(6)
-
-3
---- page 2 ---
-° £)
-aA ANA &
-
-@)
-
-7
-loc
-
-50° | 3ec
-
-A
-Tit A WT
-yp my
-Fig. — Dis mig. -—3
-20k8|\m \olen 2oku|m
-
-re. Qe
-
-\ lom am Am lom
-
-2/5
---- page 3 ---
-Fig. 5
-vee i” ‘rele pele
-2m Lim gertacy eof
-Z @ te" = qe
-yhsSm | nt i - L
-rig. —G
-aka}
-f 5 En 20ks|m ina loknl
-
-B amen G
-
-av Sconthay’ + D Jt.
-
-Am
-2m a <7 2 kel] m én fim @x) gs ee) &, (<a)
-\oEN ™m : 2m Sin am, 3am, 2m,
-2m 6
-Fiq- &
-Tab? Tbe Teae 2411
-Fig =]
-12kel| mm \2Kal] an
-ee ae awn
-aY¥ x cr a
-\ Am 4 3m ; Am
-Fig. -9. s)5,
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 9e58e6c28ad7
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/STRUCTURAL ANALYSIS II BATCH 2015-16,2016-17 RE EXAM.pdf`
-- Printed on paper: exam date: 22 November 2017
-- Text: text (3 pages)
-
-````text
-•
-_   _   SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY. MANAGEMENT & ENGINEERING
-/   Programme: MBATech (Civil)   Year: III
-Semester: V
-Batch: 2015-16/2016-17
-Academic Year: 2017-2018
-Subject: Structural Analysis -II
-~
-Date: 22 November 2017   M~~-:;;:d59   ,
-Tifne-:10.00 am'4   ,® pm
-Du,rations:' 3 Hrs i
-\ Ti?· C2fpgges:'-D3   .
-Re-Examination   ~ ~   ;-.---;:7/
-,?••. :-,-- ~
-Instructions: Candidates should read carefully the instructions printed on the que IOnpaper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. 1is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In ailS questions to be attempted.
-4) All questions CatTYequal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-·1)Assume $uitable data if necessary.
-Q. la   Determine Static (external, internal and total) and Kinematic (including arid excluding axial   (06)
-deformation) indeterminancy   for structures shown
-Q. 1b   Determine vertical displacement of joint Bfor a truss subjected to temperature rise of 20 0 c for top   (06)
-chord, 25 0 c for bottom chord. <\ Iv re...,m-{.d\CLtem,e   'rn be,s, .
-aT =12 x 10 -6/ 0 C. Area of all members equal.
-\=-
-D
-1--
-T
-l
-Lim
-l
-I
-/;:------   {~   D
-J \'1) B   3\1'   ~.   '/   1/-
-h   C   (.-5
---- page 2 ---
-Q.2a   For 2 hinged parabolic arch AB of30 m span and 6 m rise ,UDL of20 KN/m acts at 15 m   (06)
-from left support A. Calculate horizontal thrust and reactions at the support and maximum BM.
-Q.2b   Analyse the indeterminate truss and calculate forces in the members. Consider member C i::   (06)
-as redundant.
-F-
-3(11
-.1
-A E-----f--=--~--'!;
-8-   0
-3rn   ~   '3 yy-...
-\0 \-< N
-Q.3a   Explain.   advantage of indeterminacy in structure.   (03)
-Q.3 b   Analyze the beam shown for the loading) OJso support B sinks by 5 mm below A and C. Use   (09)
-Clapyeron's   three moment theorem .Draw SFD, BMD and deflected shape.
-Q.4 a   Calculate flexibility coefficient for the beam shown   (06)
-10   b1   A~~
-\   ~¥Y1   1'~   .2:>Y'n rf)(~
-Q.4 b   Using the above coefficient analyze the continuous beam for the loading shown. Draw SFD,   (06)
-BMD and deflected shape.
-.-
---- page 3 ---
-Q.5   Analyze the frame shown by slope deflection method. Draw BMD and deflected shape.   (12)
-\DAt-j
-I
-161\
-3ry,
-l
-'7   v/
-Q.6   Analyze the frame shown by moment distribution method. Draw SFD, BMD and deflected   (12)
-shape.   ..
-At> l(N
-brn
-\-Y(,,,
-\"Sf')
-1
-\ Cl 1< L.:.L--7't
-" S'i'P
-)
-77T
-Q.7a   Determine   stiffness coefficient   for the beam as shown.   (04)
-\
-"d   ,~.
-?I'   ZS
-=r:
-1- '3 (Y)   l' ~   61YY}   l' It
-Q.7b   Using the stiffness coefficient derived in Q7a analyse the beam as shown below. Draw SFD,   (08)
-BMD and deflected shape.
--
-,"x:.
-````
-
-## 2015-16 · Final-Exam · Sem 5 · paper d8967455c13a
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2015-16 Final.pdf`
-- Printed on paper: exam date: 26/11/2015
-- Text: ocr (4 pages), mean OCR confidence 63.6
-
-````text
-ie
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech (CIVIL) Year: IIT Semester: V
-
-j Academic Year: 2015-2016 —_
-1 ae
-Subject: Structural Analysis -II rf, o “A
-
-Marks ff
-Date: 26/11/2015 Time
-
-~
-MPSTMB YS?
-‘P@Ooerp te GOS :
-Durations :% i$ ]
-Final-Examination
-
-ed
-
-Instructions:
-1. Question No. | is compulsory.
-2. Out of remaining questions, attempi any 4 questions.
-3. Inall attempt 5 questions.
-4. Ajl questions carry equal marks.
-im 5. Answer to each new question to be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 a) Determine the Degree Of Static Indeterminancy and Degree Of Kinematic
-Indeterminancy for the structures as shown in Fig. 1. (06 marks)
-
-Q.1 b) For the rigid jointed plane frame as shown in Pig. 2 the temperature variations are as
-shown. Find horizontal deflection of joint D due to temperature load. Take 4 =12 x 10 */ °C,
-
-depth of all members = 60 mm, and EI = 6,00,000 kN-mm? (06 marks)
-Q. 2 a) Write step wise procedure for analysis of indeterminate structures using flexibility
-method. (04 marks)
-Q. 2 b) Analyse the portal frame as shown in Fig. 3 using flexibility method. Draw BMD.
-(08 marks)
-Q. 3 a) Differentiate between force method and displacement method. (03 marks)
-
-- Q. 3 b) Find forces in all the members of the plane truss as shown in Fig. 4. AE for all the
-members is constant. (09 marks)
-
-Q. 4 a) Develop the stiffness matrix for the beam of uniform cross section as shown in Fig, 5.
-
-(09 marks)
-Q. 4 b) Two hinged parabolic arch loaded with uniformly distributed load throughout the
-Span is subjected to normal thrust only. Justify the statement, (03 marks)
-Q. 5 Analyse the portal frame as shown in Fig. 6 by slope deflection method. Draw SFD and
-BMD. (12 marks)
-Q. 6 a) Explain with examples (06 marks)
-
-i) Carry over ii) Distribution factor
-
-(1G
---- page 2 ---
-Q. 6 b) Analyse the portal frame as shown in Fig. 7 using Moment Distribution Method.
-
-(06 marks)
-Q. 7 Analyse the continuous beam as shown in Fig. 8 by Three Moment Equation if support
-
-B settles down by 10 mm and support C settles down by 5 mm. E = 75000 KN- m2. T= 80 x 10°
-mm‘, (12 marks)
-
-24,
---- page 3 ---
-QUT
-CHI)
-
-ae Bb we oe | SN BNI
-306 , md 2D ,
-use [be] e) ye
-hiv oz, nove, D | + arr
-Eee *
-Fi'g.3
-i aia
-é 7
-3
-jh.
-= i EB) v>
-_ bh Lvs lL.
-) _ /i 7h
-Cig. 5)
-b Dro |
-f t
-CF iq- LD
---- page 4 ---
-| JON
-. 4 pt
-ar + 2m iv F 7
-+ 2t_
-bm [2 Ean oe |
-| 6m (To xt bvm
-oe 747 Lip L am Be AA, jn
-fT? y OTT. T7IT7
-CFiq. D) ptm +: 29 b
-| Cig.)
-ISIN | Sen
-
-A ae TNE ON
-
-" Lew Llwe yl yl Y
-A 1 A
-
-y
-CFiq 8)
-
-bi
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 8484d2873a38
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II B TECH (CIVIL), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 24 November 2016
-- Text: ocr (4 pages), mean OCR confidence 67.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (CIVIL) Year : Ill Semester: V / VII
-
-: 2015-2016
-Bateh Academic Year : 2016-2017
-
-i is- Marks : 60 .
-Subject : Structural Analysis-II Tene. 2.00 pec 5
-‘ 7 gm
-Date : 24 November 2016 Duration : Bs TNR
-‘a SoM
-Re-Examination alr ty i: ¥
-
-POZA
-
-Instructions:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all attempt 5 questions.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 a) Determine Degree of Static Indetreminancy and Degree of Kinematic Indeterminancy
-for the structures as shown in Fig. 1 (06 marks)
-
-Q.1 b) Determine the deflection at joint C due to temperature change shown in the Figure 2.
-Take a = 12 x 10 */°C, depth of all members = 50 mm, and EI = 4,00,000 kN-mm2
-
-(06 marks)
-Q.2 a) Derive the flexibility coefficients for the rigid jointed plane frame w.r.t co ordinates as
-shown in Figure 3 below. G (04 marks)
-
-Q. 2 b) Analyse the continuous beam as shown in the figure(4 below by Three Moment
-Equation and draw BMD if support C sinks by 2 mm below. E =2.1 x 10 °N/mm? and I = 80
-
-x 10° mm‘. (08 marks)
-Q.3 a) Distinguish between Force method and Displacement method. (03 marks)
-Q. 3 b) Analyse the rigid jointed plane frame as shown in the figurd 5 by flexibility method.
-Draw SFD and BMD for the frame. (09 marks)
-Q. 4 a) Differentiate between static and kinematic indeterminancy. (02 marks)
-
-Q. 4 b) Analyse the rigid jointed plane frame as shown in the figure 6 by Stiffness method.
-Draw SFD and BMD. (10 marks) ;
-
-x °
-Q. 5. Analyse the forces in all the members of the pin jointed frame as shown in figure\7 by
-flexibility method. Find forces in all the members. (12 marks)
-
-1/4
---- page 2 ---
-Q.6 a) Whether slope deflection method is a force method or displacement method?
-Elaborate your answer with suitable examples. (03 marks)
-
-Q. 6 b) Analyse the rigid jointed plane frame as shown in figure 8 by slope deflection method.
-Draw BMD. (09 marks)
-
-Q. 7 a) A two hinged parabolic arch of span 20 m and central rise 4 m carries a udl of 8 KN/m
-on left half span and a concentrated load of 8 KN at a distance 5 m from right hand support.
-If the moment of inertia of the arch rib varies with respect to the secant of the slope of the
-arch axis, find horizontal reactions. (06 marks)
-
-Q. 7b) Analyse the continuous beam as shown in figure 9 by Moment Distribution Method.
-Draw SFD and BMD. : (06 marks)
---- page 3 ---
-i
-
-Ll7
-@
-a>
-277
-C
-it)
---- page 4 ---
-is a
-
-WIT
-
-im | 0
-A
-
-b
-A
-
-a
-rig (#) (Q U ( b ) CFY4- 8)
-Lrokn/m 110 kn, 2.0 bn[we
-
-r Lm kh lero L Liw |
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 31126b9c8f35
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II BATCH 2014-15 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 15 January 2019
-- Text: ocr (3 pages), mean OCR confidence 78.7
-
-````text
-SVKM’S NMIMS
-| MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Program: B.Tech/ MBA Tech (Civil) Year: Ul Semester : V
-Academic Year: 2018-19
-Subject: Structural Analysis-IT M
-
-e=7 a oPRGPm
-ox S$: wae
-
-Date: 15 January 2019
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the coyer of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt any four questions . (12)
-(a) Define Castigliano’s second theorem. (03)
-(b) Discuss virtual work theorem. ~ (03)
-(c) Differentiate flexibility matrix method and stiffness matrix method. (03)
-(d) What do you mean by symmetric and antisymmetric structure? (03)
-(e) Explain absolute stiffness and relative stiffness. (03)
-
-Q.2 (a) Determine the (external, internal and total) static indeterminacy and kinematic
-
-indeterminacy including and excluding axial deformation for the fig. 1. (06)
-
-(b) Determine the vertical displacement of joint C for the fig. 2 shown. Assume coefficient of
-
-thermal expansion as 12x 10° /°C. Depth of all members as 400 mm. (06)
-
-Q.3 (a) Define static and kinematic indeterminacy. (03)
-
-1/3
---- page 2 ---
-(b) Analyse the beam shown in fig.3 by flexibility matrix method. Draw BMD and deflection
-diagram. (09)
-
-Q.4 (a) Explain step by step procedure to solve a redundant truss. (03)
-
-(b) Analyse the beam given in fig.4 by three moment theorem. Draw BMD, SFD and deflection
-diagram. (09)
-
-Q.5 A parabolic arch, hinged at the ends has a span 30 m and rise 5 m. a concentrated load of
-12 kN acts at 10 m from the left hinge. The second moment of area varies as the secant of the
-slope, of the rib axis. Calculate the horizontal thrust and the reactions at the hinges, also,
-
-calculate the maximum bending moment anywhere on the arch. (12)
-
-Q.6 Analyse the frame by stiffness matrix method shown in fig 5. Draw BMD and deflection
-diagram. (12)
-
-Q.7 Analyse the beam using slope deflection method shown in fig. 6. Draw BMD, SFD and
-deflection diagram. (12)
-
-2/3
---- page 3 ---
-\ra
-Lt os c.
-Se Fr
-6m , Sm pam 125m, Son)
-
-Dp
-
-2|3
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper e639630303b4
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II BATCH 2014-15 15-16 RE EXAM_e639630303.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 June 2016
-- Text: ocr (3 pages), mean OCR confidence 77.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
-
-Programme: B.Tech (Civil) Year: III Semester: V
-
-Academic Year: 2015-16
-
-Batch: 2014-15 / 2015-16 Marks:60
-Subject: Structural Analysis- II Time: 2.00 pm - 5.00 pm
-Date: 08 June 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions. s
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary and state it clearly.
-
-a
-
-Q.1a Determine the static indeterminacy (external, internal and total) and [06]
-kinematic indeterminacy (including and excluding axial deformations) for:
-the structures shown in figure 1.
-
-Q.1b Determine the horizontal displacement of joint C of the truss as shown in [06]
-figure 2. Note that the temperature of members AB, AD and BC is increased
-by 50 °C and that of member CD and BD is decreased by 50 °C. Take
-a= 18x10 /°C.
-
-Q.2a Determine the flexibility coefficients for the frame shown in figure 3. [06]
-
-Q.2b Using the coefficients developed in Q.2a above, Analyse the frame loaded as [06]
-shown in figure 4 and draw BMD and tentative deflected shape.
-
-Q.3a Analyse the truss as shown in figure 5 and tabulate the forces developed in [08]
-the members of the truss.
---- page 2 ---
-Q.3b. The symmetrical two hinged parabolic arch of span 80m and central rise 8m_ [04]
-is subjected to a uniformly distributed load of magnitude 30 kN/m over left
-half portion. Determine the reactions developed at the support.
-
-Q.4 Analyse the beam as shown in figure. 6 using Clapeyron’s three moment [12]
-theorem and draw BMD and tentative deflected shape.
-
-Q.5 Analyse the frame loaded as shown in figure 7 by Slope Deflection Method [12]
-and draw BMD and deflected shape.
-
-Q.6a Determine the stiffness coefficients for the beam shown in figure 8. [06]
-
-Q.6b Using the coefficients developed in Q. 6a above, Analyse the beam loaded as [06]
-shown in figure 9 and draw BMD and deflected shape.
-
-Q.7a Define the term stiffness and carry over factor. Show that for most general [04]
-case, carry over factor is 0.5.
-Q.7b Analyse the beam loaded as shown in figure 9 by moment distribution [08]
-
-method and draw BMD and tentative deflected shape. Note that the support
-B, Cand D settles down by 20, 15, 10 mm respectively.
-Take EI = 15000 kN-m2.
-
-fs
---- page 3 ---
-A
-ci) #
-
-4am
-4 777 <4,
-Wo 7 Fiquve-3 oO)
-cil)
-“77 citi) — | ft
-Figure-4 je 4M sp Sm %E
-’ | Figure +. >
-60KN SokN
-BokN-b 2OKN[ n> BOKN] ny
-aw 98 ee amen bi, Dp
-* Ad sae er A Qer A
-j : j 7
-AM. 4 sm 4 any 71 iis) a
-Figure &
-; a Note Support ee
-jee.” Setties don by zomn
-‘ — EI= |IS000kN-
-Figure s -
-2 2 2
-: Cr»
-c 4 ax Aes AeA
-Am —-3m + 3am
-Figure. 8
-joo __s. 20 KN rn 2OKN In
-Figure F Ay 2QEr BFA EL oe EL AD
-= y. 4m L_3m fam |
-
-Be. , Figure 9
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper a087a768d7f6
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2014-15 2015-16 Re Exam.pdf`
-- Printed on paper: exam date: 28 November 2016
-- Text: ocr (3 pages), mean OCR confidence 69.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : MBA. Tech (Civil) Year : Ill Semester: V
-Batch : 2014-15/2015-16
-
-A i : a a
-cademic Year : 2016-2017 ; Z, om
-
-. sO
-Subject : Structural Analysis-II
-
-Date : 28 November 2016 -
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB: 1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Assume any other data, wherever not given, suitably but state and justify the same.
-7) Illustrate your answer with neat sketches wherever required.
-8) Figures in brackets on the right hand side indicate full marks.
-
-1. a) Determine the static indeterminacy (extemal, internal and total) and kinematic (07)
-indeterminacy (including and excluding axial deformations) for the structures shown
-in figure 1.
-b) Determine the horizontal displacement at D for the rigid frame as shown in figure 2. (05)
-Take depth of member as 500 mm and o = 12x10°/ °C.
-
-2. Analyse the frame loaded as shown in figure 3. By moment distribution method and (12)
-draw BMD and deflected shape.
-3. a) Determine the flexibility coefficients for the frame as shown in figure 4. (65)
-
-b) Using the coefficients developed in Q.3(a) above, analyse the frame loaded as shown (97)
-in figure 5. And draw BMD and deflected shape.
-
-4. a) The symmetrical two hinged parabolic arch of span 18m and central rise 3.6m is (06)
-subjected to two point lods of 25 KN each acting at a crown and left quarter span.
-Determine reactions and bending moment at a distance 5m from left support.
-
-b) Analyse the beam as shown in figure 6. Using list work method and calculate (06)
-reactions.
-
-~Is—
---- page 2 ---
-5. a) Analyse the beam as shown in figure 7. Using Clepeyron’s three moment theorem (09)
-and draw BMD and deflected shape.
-b) State and explain Castigliano’s theorem I & II. (03)
-
-6. a). Determine the stiffness coefficients for the beam as shown in figure 8. (05)
-b) Using the coefficients developed in Q.6(a) above, analyse the beam loaded as shown (07)
-in figure 9. And draw BMD and deflected shape.
-7. Analyse the frame loaded as shown in figure 10. By slope deflection method and (12)
-draw BMD and deflected shape.
-
-A y
-eS by ¥
-
-a , A a
-
-Figwre |
-Ge
-3 c
-Dp Fe AdEN
-= T7)
-ae a Koeocrccn® _\@)
-r WAN anQD HSm+2.S5m—
-an
-sm FBO [rIOC anM®
-rAd] HOC AM ED)
-E
-Lef
-A ‘ Ee
-Ul, 2777
-
-Agqure 2 +
---- page 3 ---
-an ATA
-am 4AM AM Any
-A
-abe >i lA >
-Ci
-Aigucve 4 Agus S
-CIRNUIM
-
-4
-a. fs
-
-Je BASM SH 243M =
-
-Frauee & )
-20 )nI]m oui
-ge a
-X— AP S.,. Seam GE am Cem
-FAigucvre
-@ a) joren
-ee yoo, 4) fey
-Ge bs By EC
-Claure @ AAS HIS JOA yy
-Fiauvre J
-pen 6 c
-27
-” ca) 4M
-A
-° [>
-
-T2077
-
-Fiauee 10
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 86cd8981573b
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2014-15,2015-16 Re Exam.pdf`
-- Printed on paper: exam date: 08 June 2016
-- Text: ocr (3 pages), mean OCR confidence 72.5
-
-````text
-; SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING.
-
-Programme: MBA Tech (CIVIL) Year: III Semester: V
-
-Academic Year: 2015-16 - aS
-Batch: 2014-15/2015-16 « he ao
-Subject: Structural Analysis - Il, s:60 -, We
-i Bang? 10.00 ams-1
-— 3 hrs
-
-nar OZ
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-Date: 08 June 2016 _
-: Re-Examination
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Ql
-a) Determine the static indeterminacy (external, internal and total) and kinematic
-indeterminacy (including and excluding axial deformations) for the structures shown in
-
-figure 1. (6)
-b) Determine the horizontal displacement of point C for the frame shown in figure 2. (6)
-Q.2
-a) Determine the flexibility coefficients for the beam shown in figure 3. (5)
-b) Analyse the frame shown in figure 4 using method of consistent deformation. Draw SFD
-and BMD for the loading given. (7)
-Q.3
-
-a) Analyse the truss shown below by least work by treating member Ub as redundant.
-Young’s modulus = 200 * 10° KN/m?. In bracket, areas of corresponding members are
-given in 10°m?. (See figure 5) (8)
-
-b) State and explain Castigliano’s theorem [ and II. (4)
-
-Q4
-a) Two-hinged parabolic arch with secant variation of inertia is subjected to a uniformly
-distributed load on its left half. Determine the horizontal thrust at abutments and plot the
-
-B.M.D. (See figure 6) (8)
-
-b) Distinguish between linear and non-linear behaviour of materials. (4)
-Q.5
-
-a) Analyse the beam shown in figure 7 using Clapeyron’s three moment theorem and draw
-
-SFD and BMD. (6)
-
-\/9
---- page 2 ---
-b) Analyse the rigid frame by slope deflection method. Fegures) (6)
-Q.6
-
-a) Calculate reactions and beam end moments for the rigid frame shown in Figure @ using
-moment distribution method. Draw bending moment diagram for the frame. Assume E/
-
-to be constant for all the members. (8)
-
-b) Differentiate between determinate structure and indeterminate structures. (4)
-Q7 10
-
-a) Analyse the frame in figure @ by method of consi deformation (5)
-
-b) Analyse the continuous beam shown in figure # hy the moment distribution method.
-Draw SFD and BMD.
-
-)
-4
-4 A ~
-& & & 2 fA ae
-CFi Gute i) “ ao ia & in
-
-@ KN] r0
-
-a EY POR 7S
-
-EL = Constant
-
-RY A
-
-—
-
-C Figure 6)
---- page 3 ---
-A
-
-ganin kno
-
-BERN
-
-2m 2m
-
-4 ]
-pb cm
-£3 = Contand
-C Fégum 11)
-
-~~»
-
-3)3
-````
-
-## 2014-15 · Final-Exam · Sem 5 · paper 87e09f1e53a9
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Final Exam 2014-15.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 58.0
-
-````text
-- , ' SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL)
-
-Year: II Semester: V
-Academic Year: 2014-15 ye mae
-Cy Rl
-Subject: Structural Analysis -II
-j eke Bren . Marks: 100
-j. ate; /11/2014 Time: 10.00
-
-Durations: 3
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Question no. 1 is compulsory and out of remaining questions, attempt any 4 questions.
-2. Assume suitable data wherever required and state it clearly.
-3. Answer to the new question to be started ona fresh page.
-4. Figures on the right hand side bracket indicate full marks
-
-Q.la Determine the static indeterminacy (external, internal and total) and kinematic
-indeterminacy (including and excluding axial deformations) for the structures shown [12]
-
-in figure 1.
-Q.1b Determine the horizontal displacement of point P for the frame as shown in figure 2
-
-Take depth of the member as 200 mm and a = 12x10* /°C. [08]
-Q.2a ‘Determine the flexibility coefficients for the beam shown in figure 3. ; [08]
-Q.2b Using the coefficients developed in Q.2a above, Analyse the beam loaded as shown in
-
-figure 4 and draw BMD and tentative deflected shape. [12]
-
-Q.3a The symmetrical two hinged parabolic arch of span .60 m and central rise 6 m is
-subjected to a point load of 250 kN acting at a distance of 20 m from left end. Analyse
-
-the arch and draw BMD. Use least work method. {10]
-Q.3b Analyse the truss as shown in figure 5 and tabulate the forces developed in the
-members of the truss. [10]
-Q4a Analyse the beam as shown in figure 6 using Clapeyron’s three moment theorem and
-draw BMD and tentative deflected shape. (15]
-Q4b Differentiate between the determinate structures and indeterminate structures — * [05]
-Q5a Determine the stiffness coefficients for the frame shown in figure 7. a [08]
-~ Q.5b_ Using the coefficients developed in Q5a above, Analyse the frame loaded as shown in
-figure-8 and draw BMD and deflected shape. . {12]
-Q.6a State and explain Castigliano’s theorem I and II [04]
-Q.6b Analyse the beam loaded as shown in figure 9 by moment distribution method and
-draw BMD and deflected shape. {16]
-Q.7 — Analyse the frame loaded as shown in figure 10 by slope deflection method and draw
-BMD and tentative deflected shape. {20]
-
-4/3
---- page 2 ---
-107
-
-aA 6m —
-
-Figure 2
-
-Y RQEL fF Er Pf 2er +
-
-‘oO 2 e)
-
-py .6M" yp 4AM y» OM 4
-. Zz uA :
-
-v4) 4
-Figure 3
-iskN}9 = 30kN149
-€ : >
-ee ee oe SOG
-| 2m | 29 sm |
-: cm _panpam} sm)
-Figure 4.
-ro D a | SOKN
-7 SOkKN —»P2——re |
-—~ AE = Constanc
-4m ~ |
-| = A a |= '€ : »
-mA a py 120KN A - wre S Ys
-#-6EM—}—6 in > EGE
---- page 3 ---
-SckN 60KN
-
-SOkKN| NX) |
-A Zz Ima / an =, t, 4. ie, Supp Dost BRB seH jes
-A eel A = yo down by 20mm
-
-4{—__8™ 299 | 21m | 20 | ET= 25000 khE m2
-Figure &
-
-©
-rag 2)
-
-HH i
-
-\ 2Zer ‘ Sa
-Cry
-Er er .
-
-+ C77 WIT
-f+ 6m —# ho ae
-
-3OKN] MD
-
-BR [aN NAN a pcre el
-7~ QET colaum %
-|
-|
-6m ET _
-| Figure 8
-| -
-+h 4 |
-fem 4
-: ser
-QOKN] yy BokNYy _.20KN}™
-DAKRa nena peocrcony
-IP QET A EY 47 A EL Piguye 5
-~ A— 6m —s2Ing2mA— AM
-5O0KN
-95KN |r |
-QET A”
-227
-
-EL
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 00feb5c2fac5
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 13/06/2015
-- Text: ocr (3 pages), mean OCR confidence 81.9
-
-````text
-SVEM i's RMAIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (CIVIL) Year: III Semester: V
-Batch: 2014-15 patna,
-Academic Year: 2014-2015 ; x gate a sae
-Subject: Structural Analysis- II RS
-Marks: 60 3/ fe ~
-Date: 13/06/2015 . Time: 10. Qoges to 1. 00 Dany mS
-Durations:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use. :
-
-NB:
-1. Question no. 1 is compulsory and out of remaining questions, attempt any 4 questions.
-2. Assume suitable data wherever required and state it clearly.
-3. Answer to the new question to be started ona fresh page.
-4. Figures in the brackets on the right hand side indicate full marks.
-Q.la Determine the static indeterminacy (external, internal and total) and kinematic
-
-indeterminacy (including and excluding axial deformations) for the structures shown
-below. F
-
-eit) fp
-Q.1b Determine the horizontal displacement of the roller support B for the frame as shown
-below. Take depth of the member as 300 mm and a = 12x10-6 /°C. 5)
-HIS ;
-. a 5
-A H _ ZO" C A
-6m |
-| Hoc | ~ 50°
-| |
-= A
-7 Sp,
-
-jt BM
-
-Q.2a Determine the flexibility coefficients for the frame shown in figure below Ss
-
-coe
-1©
-3m ——— art
-
-wr’
-
-G, an
---- page 2 ---
-Q.2b Using the coefficients de
-figure above and draw
-
-veloped in Q.2a above, Analyse the frame loaded as shown in
-BMD and tentative deflected shape.
-
-BOKN
-
-73m 3 mm
-
-ed parabolic arch of span 40m and central rise 5m is subjected
-at a distance of 10 m from left end. It is also subjected to udl
-
-r right half portion. Analyse the arch and draw BMD. Assume
-ies as a secant of slope.
-
-Q.3a The symmetrical two hing
-to a point load of 150 kN
-of intensity 20 kN/m ove
-that the MI of section var
-
-Q.3b Analyse the truss as shown in figure below using least work method and tabulate the
-forces developed in the members of the truss,
-
-EA= Constant
-NG
-
-ee
-
-pe. Note that support B settles down by 7.5
-mm and flexural rigidity is 48000 kN-m2. AB=4m,BC=CD=6m.
-
-q
-a | a
-A . D
-Ary ! aor Toni ay te al ey
-; D4
-Q.4b_ State and explain Castigliano’s theorem I and II ; 3
-Q.5a_ Determine the stiffness coefficients for the beam shown i figure below. Ss
-Note that AB = BC =8 mand flexural rigidity is constant.
-A B Le
-71 a 2
-4.
-q pom os
---- page 3 ---
-Q.5b Using the coetficients developed in Q.5a above, Analyse the beam loaded as shown
-below and draw BMD and deflected shape.
-
-60 kN
-100 kN
-
-pa
-B m
-
-Q.6a Explain the step by step procedure for analysing indeterminate structures by force
-method
-Q.6b Analyse the beam loaded as shown in figure below by slope deflection method and
-draw BMD and deflected shape. EI = constant.
-60 kN
-
-| 8 10 KN/m
-ad <0
-}~-—— 3m + 3am sie 6m \*
-“Tt rm ved
-
-Q.7 Analyse the frame loaded as‘shown in figure below by moment distribution method
-and draw BMD and tentative deflected shape.
-
-40 kN/m
-2 coon from 3
-
-€
-N
-E
-60 KN oO
-E
-q ered
-
-x
-
-B%
-
-2
-
-tte)
-
-Ja
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 5094ce5e0663
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 25/11/2015
-- Text: ocr (3 pages), mean OCR confidence 77.5
-
-````text
-\ SVKM’s NMIMS
-: ; MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: Ill Semester: V
-Batch: 2014-2015
-
-Academic Year: 2015-2016
-a, eon They
-
-Subject: Structural Analysis- II vA 7.
-| Marks: 60 j tte YW
-Date: 25/11/2015 Time: 2.00 560 dit R
-Duration: 3 (hrs hae yl
-
-fi
-* eo at
-Se
-Re-Examination ee
-
-Instructions: Candidates should read carefully the instructions printed on the qacetiat paper and
-on the cover of the answer book, which is provided for their‘ise.
-
-NB:
-1. Question no. 1 is compulsory and-out of remaining questions, attempt any 4 qpiestions.
-2, Assume suitable data wherever required and state it clearly.
-3. Answer to the new question to be started on a fresh page.
-4. Figures in the brackets on the right hand side indicate full marks.
-
-ima
-Q.1a Determine the static indeterminacy (external, internal and total) and kinematic
-indeterminacy (including and excluding axial deformations) for the structures shown
-below. Lz
-| |
-poo
-alle
-Q.1b Determine the horizontal displacement of the point D for the frame as shown below.
-Take depth of the member as 400 mm and a = 12x10 /°C, AB = BC = CD = 5m. my
-B +12e ¢ Cc
-420% |
-i a4 ,
-+406 | it BC oc) t40c
-A |
-= Wr 1D
-Q.2a Determine the flexibility coefficients for the frame shown in figure below - __ £57
-O) -_ ‘f=
-ft
-ee 2 z a)
-\_ tam \ am
-
-\
-
-y ls
---- page 2 ---
-Q.2b Using the coefficients developed in Q.2a above, Analyse the frame loaded as shown in
-figure above and draw BMD and tentative deflected shape. ices
-
-. 2) kN
-LBKNIM)
-rama soaaa “
-
-AT AL
-
-74
-
-4 ‘ 12m 30 b
-
-Q.3a The symmetrical two hinged parabolic arch of span 30m and central rise 6m is subjected
-to two point loads of 60 KN each at a distance of 7.5 m and 15 m from left end
-respectively. Analyse the arch and draw BMD. Assume that the MI of section varies as
-
-a secant of slope. £6
-
-Q.3b Analyse the truss as shown in figure below using least work method and tabulate the
-forces developed in the members of the truss. ces
-
-80kN
-
-Q.4a Analyse the beam as shown in figure below using Clapeyron’s three moment theorem
-and draw BMD and tentative deflected shape. Note that support B settles down by 10
-mm and flexural rigidity is 16000 KN-m?, [to]
-
-20 20kN 40 kN
-
-jm
-2m P hctiinie Lon,
-A COTTTITITT ITT TT TT Ty.
-on ae 77 © a
-eal t om wte—_sm_
-f
-
-- . ray
-
-Q.4b Derive the expression for rotational stiffness of a beam = 4EI/L fo2f
-.Q.5a Determine the stiffness coefficients for the beam shown in figure below. Note that f 55
-flexural rigidity is constant. AB = 4m and BC=3m.
-~ 1 - 2
-f / .
-
-3
-A; amen wa
---- page 3 ---
-Q.5b ‘Using the coefficients developed in Q.5a above, Analyse the beam loaded as shown
-
-below and draw BMD and deflected shape. £4]
-ra 6OKN/m 1O0kKN
-4 saBRanaas oho...
-4 AP at
-i ; —1.5m—-
-tT ~ eee BT
-
-Q.6a Explain the step by step procedure for analysing indeterminate structures by
-displacement method C27
-Q.6b Analyse the beam loaded as shown in figure below by slope deflection method and
-draw BMD and deflected shape. El = 20000 kNm2. Support 2 settles down by10mm. 10} ,
-
-40 KN
-Em 20 kN
-; ia 10 KN/m
-; 14 Yo soo t
-4 ar 2 rs ds
-i |. 4am 6m : | 2m |
-I t send
-Q.7_ Analyse the frame loaded as shown in figure below by moment distribution method
-and draw BMD and tentative deflected shape. fi |
-28 kKN/m
-~ POOOADBDOOOOAA AL c
-2l
-3m
-4 m ! I
-a
-= PII
-OD
-A
-ih
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 290906da6ab3
+## 2017-18 · Re-Exam · Sem 5 · paper 290906da6ab3
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -3551,388 +2024,279 @@ Figure 9
 Page 4 of4
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 64f2654bf89d
+## 2017-18 · Re-Exam · Sem 5 · paper 9e58e6c28ad7
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2014-15 Re Exam_64f2654bf8.pdf`
-- Printed on paper: exam date: 08/06/2015
-- Text: ocr (3 pages), mean OCR confidence 59.6
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/STRUCTURAL ANALYSIS II BATCH 2015-16,2016-17 RE EXAM.pdf`
+- Printed on paper: exam date: 22 November 2017
+- Text: text (3 pages)
 
 ````text
-\
-: MUKESH PATEL SCHOOL OF WGINEERING
-Programme: MBA Tech (CIVIL) Year:IIl Semester: V
-Academic Year: 2014-15
-| Batch:2014-15
-: Subject : Structural Analysis -II
-Date : 08/06/2015
-Re-Examination
-Instructions: Candidates should read carefully the. instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use. .
-NB: oe
-1. Question no. 1 is is compulsory and ¢ out of remaining equenions, attempt any 4 questions.
-2. Assume suitable data wherever required and state it clearly. -
-3. Answer to the new question te bestarted on a fresh page.
-4. Figures in the brackets on the right hand side indicate full marks.
-‘Q.Ja Determine the static indeterminacy (external, internal and total) and kinematic
-indeterminacy (including and ‘excluding 2 axial deformations) for the structures shown
-below. . ‘ F
-Q.1b Determine the horizontal displacement of the roller support B for the frame as shown
-in figure 2. Take depth of the member as 250 mm and a = 12x10 /°C. &
-Q.2a Determine the flexibility coefficients for the frame shown in figure 3. 5
-Q.2b_ Using the coefficients developed in Q.2a above, Analyse the frame loaded as shown in
-figure 4 and draw BMD and tentative deflected shape. -
-Q.3a_ The symmetrical two hinged parabolic atch of span 50m and central rise 6m is subjected
-to two point loads of 150 KN each acting at a distance of 10 m and 20 m from right end.
-Itis also subjected toa uniformly distributed load of magnitude 20 kN/m over left half
-portion. Analyse the arch and draw BMD. 6
-Q.3b Analyse the truss as shown in figure 5 using least work ee and tabulate the forces
-developed in the members of the truss. &
-Q4a_ Analyse the beam as shown in figure 6 using Clapeyron’s three moment theorem and
-draw BMD and tentative deflected sha ape. q
-Q.4b State and explain Castigliano’s theorem I and II 3--
-Q.5a Determine the stiffness coefficicnts for the beam shown in figure 7. 5
-Q.5b Using the coefficients developed in Q.5a above, Analyse the beam loaded as shown in
-figure 8 and draw BMD and deflected shape. +
-_ Q.6a Explain the step by step procedure for analysing indeterminaté structures by ‘force
-method ; De
-2.6b Analyse the beam loaded as shown in figure 9 by slope deflection method and draw
-a BMD and deflected shape. io
-
-Q.7 Analyse the frame loaded as shown in figure 10 by moment distribution method and
-draw BMD and tentative deflected shape. \2-
+•
+_   _   SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY. MANAGEMENT & ENGINEERING
+/   Programme: MBATech (Civil)   Year: III
+Semester: V
+Batch: 2015-16/2016-17
+Academic Year: 2017-2018
+Subject: Structural Analysis -II
+~
+Date: 22 November 2017   M~~-:;;:d59   ,
+Tifne-:10.00 am'4   ,® pm
+Du,rations:' 3 Hrs i
+\ Ti?· C2fpgges:'-D3   .
+Re-Examination   ~ ~   ;-.---;:7/
+,?••. :-,-- ~
+Instructions: Candidates should read carefully the instructions printed on the que IOnpaper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. 1is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In ailS questions to be attempted.
+4) All questions CatTYequal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+·1)Assume $uitable data if necessary.
+Q. la   Determine Static (external, internal and total) and Kinematic (including arid excluding axial   (06)
+deformation) indeterminancy   for structures shown
+Q. 1b   Determine vertical displacement of joint Bfor a truss subjected to temperature rise of 20 0 c for top   (06)
+chord, 25 0 c for bottom chord. <\ Iv re...,m-{.d\CLtem,e   'rn be,s, .
+aT =12 x 10 -6/ 0 C. Area of all members equal.
+\=-
+D
+1--
+T
+l
+Lim
+l
+I
+/;:------   {~   D
+J \'1) B   3\1'   ~.   '/   1/-
+h   C   (.-5
 --- page 2 ---
-j : A ES “ A. |
-3 ~ | |
-C1) | |
-| | |
-| ||
-Ci) 7 a 77
-, Cin )
-Fiiguze
-| +e0c
-+60%. |
-6M
-ro) i3)
-AOC] ISS 4 1S'e | +ede
-rN Figure -2
-a AP
-E 6m oy
-1c) _ 730 KN |)
-( QE p- @ ner
-© 3N)
+Q.2a   For 2 hinged parabolic arch AB of30 m span and 6 m rise ,UDL of20 KN/m acts at 15 m   (06)
+from left support A. Calculate horizontal thrust and reactions at the support and maximum BM.
+Q.2b   Analyse the indeterminate truss and calculate forces in the members. Consider member C i::   (06)
+as redundant.
+F-
+3(11
+.1
+A E-----f--=--~--'!;
+8-   0
+3rn   ~   '3 yy-...
+\0 \-< N
+Q.3a   Explain.   advantage of indeterminacy in structure.   (03)
+Q.3 b   Analyze the beam shown for the loading) OJso support B sinks by 5 mm below A and C. Use   (09)
+Clapyeron's   three moment theorem .Draw SFD, BMD and deflected shape.
+Q.4 a   Calculate flexibility coefficient for the beam shown   (06)
+10   b1   A~~
+\   ~¥Y1   1'~   .2:>Y'n rf)(~
+Q.4 b   Using the above coefficient analyze the continuous beam for the loading shown. Draw SFD,   (06)
+BMD and deflected shape.
+.-
 --- page 3 ---
-Figure 6
-® @ @
-y C™ ™% CX
-Keg Ker A er A
-4 6) = Sig ax
-Figuye +
-50 oo
-20 KN|) | ;
-NPE exer k Et Et= 1000 "0
-— Su up cope D
-~+S2- Bm 25" or cates down bY
-\2Ty),
-Figure &
-SO KN } ry) 69, ae
-waves ecccag mano +
-eT f EL 7S QEL id
-- ALYY) —— A Y — BINA 3m) Hy
-Figure 9
-ISKN |
-Q0\KN_ _ppeackeacennccay 7
-er 4 f
-. 6)
-an . |
-Ey | Figure \
-|
-V7 a Ro 3
-W. ga
-po Bm
+Q.5   Analyze the frame shown by slope deflection method. Draw BMD and deflected shape.   (12)
+\DAt-j
+I
+161\
+3ry,
+l
+'7   v/
+Q.6   Analyze the frame shown by moment distribution method. Draw SFD, BMD and deflected   (12)
+shape.   ..
+At> l(N
+brn
+\-Y(,,,
+\"Sf')
+1
+\ Cl 1< L.:.L--7't
+" S'i'P
+)
+77T
+Q.7a   Determine   stiffness coefficient   for the beam as shown.   (04)
+\
+"d   ,~.
+?I'   ZS
+=r:
+1- '3 (Y)   l' ~   61YY}   l' It
+Q.7b   Using the stiffness coefficient derived in Q7a analyse the beam as shown below. Draw SFD,   (08)
+BMD and deflected shape.
+-
+,"x:.
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 84130781d1f4
+## 2017-18 · Re-Exam · Sem 5 · paper 2472dfde6d9a
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2014-15 Re Exam_84130781d1.pdf`
-- Printed on paper: exam date: 26/11/2015
-- Text: ocr (3 pages), mean OCR confidence 59.1
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis-II 2017-18 Re-exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 May 2018
+- Text: ocr (4 pages), mean OCR confidence 71.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme:MBA Tech (CIVIL) Year: Ill Semester: V
+Programme: MBA Tech (Civil) Year: III Semester: V
 
-Academic Year: 2015 - 16
+Batch: 2017-18
+Academic Year: 2017-2018
 
-fo yale Say
+Subject: Structural Analysis -II -
+Marks: 70
 
-Batch:2014-15 on vo es,
+Date: 28 May 2018 Time: 2.00 pm to 5.00 pm
+Durations: 3 (Hrs)
 
-Subject :Structural Analysis - II - Marks:
-
-Date : 26/11/2015 Duration
+No. of Pages:
 Re-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
+on the cover of the Answer Book, which is provided for their use.
 
-NE:
-1. Question no. 1 is compulsory and out of remaining questions, attempt any 4 questions.
-2. Assume suitable data wherever required and state it clearly.
-= 3. Answer to the new question to be siarted on a fresh page.
-4. Fi igures on the right hand side bracket indicate full marks
-Q.la Determine the static indeterminacy (external, internal and total) and kinematic
-indeterminacy (including and excluding axial deformations) for the structures shown Ff |
+1. Question No. 1 is compulsory. -
+2. Out of remaining questions, attempt any 4 questions.
 
-in figure 1.
-Q.1b Determine the horizontal displacement of point P for the frame as shown in figure 2.
+3. In all 5 questions to be attempted.
 
-; Take depth of the member as 200 mm and a = 12xi0* /°C. 5)
-Q.2a Determine the flexibility coefficients for the beam shown in figure 3. 5
-Q.2b Using the coefficients developed in Q.2a above, Analyse the beam loaded as shown in
+4. All questions carry equal marks.
 
-figure 4 and draw BMD and tentative deflected shape. poe
+5. Answer to each new question to be started on a fresh page.
 
-Q3a The symmetrical two hinged parabolic arch of span 50m and central rise 6m is subjected
-to three point loads of 250 KN each acting at a distance of 12.5 m, 25 m and 37.5 m from
+6. Figures in brackets on the right-hand side indicate full marks.
 
-right end. Analyse the arch and draw BMD. Use least work method. 6
-Q.3b Analyse the truss as shown in figure 5 and tabulate the forces developed in the
-@ members of the truss. 6
-Q4a Analyse the beam as shown in figure 6 using Clapeyron’s three moment theorem and
-draw BMD and tentative deflected shape. 5
-Q4b Differentiate between the force method and displacement method of analysis of 3
-indeterminate structures . ; -
-Q.5a Determine the stiffness coefficients for the frame chown’ in figure 7. , 5
-Q.5b Using the coefficients developed in Q.5a above, Analyse the frameloadedasshownin |
-— figure 8 and draw BMD arid deflected shape. ; +
-Q.6a Define absolute stiffness, relative stiffness, distribution factor and carry over factor
-gest with reference to the moment distribution method 2
-: Q.6b Analyse the beam loaded as shown in figure 9 by moment distribution method and
-draw BMD and deflected shape. ; lo
-Q.7 Analyse the frame loaded as shown in figure 10 by slope deflection method and draw
-BMD and tentative deflected shape. [2
+7. Assume suitable data if necessary and state it clearly.
 
-ps
+Q.1 a. For the structures shown in figure la, lb and Ic, determine static indeterminacy
+(internal, external and total) and kinematic indeterminacy (including and excluding
+
+axial deformations). [07]
+
+b. For the frame shown in figure 2, determine the horizontal deflection of the roller
+support. Take depth of all members as 300 mm, a = 12 x 10°. [07]
+Q.2 a. For the beam shown in figure 3a, determine the flexibility coefficients. [06]
+
+b. Using the coefficient developed in Q.2.a, analyse the beam shown in figure 3b and
+draw BMD and tentative deflected shape. [08]
+Q.3 a. For the frame shown in figure 4a, determine the stiffness coefficients. [06]
+
+b. Using the coefficient developed in Q.3.a, analyse the frame shown in figure 4b and
+draw BMD and deflected shape. [08]
+
+Q.4 a. Analyse the truss shown in figure 5 and determine member forces. Note that area of all
+members as same. [07]
+b. Analyse the two-hinged parabolic atch as shown in figure 6 and draw BMD. [07]
+
+Q.5 Analyse the beam shown in figure 7 by slope deflection method and draw BMD and
+deflected shape. [14]
+
+Q.6 Analyse the frame shown in figure 8 by moment distribution method and draw BMD and
+deflected shape. [14]
+
+Q.7 Analyse the beam shown in figure 9 by Clapeyron’s three moment theorem and draw BMD
+and deflected shape. [14]
+
+Page | of 4
 --- page 2 ---
-“et |
-& + 6 ! -
-NM 4K ZK | |
-{ wo | / \! / \ | | |
-if of. \] | H
-may = A VE 7 TE
-«7 Cl 1) Ci ri)
-Fig uve aa
-Xt 20 P
-H20C |
-em |
-| | cae | ete
-/~806 | .a8e +40¢ | 80
-ce . a
-J gsr =)
-Figure -2
-JX REr 4 ex f Ser A
-D ®
-A— AM yp Am ap Am
-, Figure 3
-ISKNiMD BOKN KN] ps
-A A. Kh A
-Tr = = S
-A Ary am yong — Army at
-Figure A.
-Dok {
-D e L'OKN J ROKN
-= BC0KN > TE
-4 | |
-Ary 4 | AE = Censtanr .
-i. A Ke = | Cc
-7 _ aA LL
+is &   ®
 
-- —
+Figure la
+" <9
+XX RR RX
+Figure 1b
+Figure ic
++80°C
+x Soo Cc
++10°C -
+E +60°C | +40°C +30°C | +60°C
 
-A
-ar ee
+yy we &
 
-Figue S 2/s
---- page 3 ---
-= \
-Supper, Banac
+4m
+Figure 2
+Cx EI 2EI A
+fh 4m lL 6m |
+[" ian
+Figure 3a
+20 kN/m 40 kN 40 kN
 
-Sup}
-Sethes adeown by
-[SYN TY
-+ 6™) ,2n | 2m | 4d ae am ET= |S000 kN-m>
-
-—
-
-Figure 6
-
-i QT | vor | v ar wv 1
-. _
-I =| an Figure =
-| |
-1 i 1.
-. erm ie ae) \ 6M le
-GOK
-ISKN] | N
-JOOS OO ag yo oe
-QT | QE arf 74
-[I zr! A Fouses
-1 U
-H }
-1 l
-; wT a ar
-i BY ¥ BY) 4 sm Ja hanya
-C20 KN}
-— alae ae IYI SNES Cams _
-f eer A er A ex A Figure 9
-— 6 jk Am —— 4m—4
-AokNn |r)
-Sok vs rRennnnnnnn vy
-QET (|
 |
-EX 6ro
 
-| Figure JO
-````
+pocdnneg
 
-## Year not stated · Final-Exam · Sem 5 · paper 9bae2c1d50c2
+lg 4m ple 2M |g mm
 
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS-II B TECH (CIVIL), FINAL EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/2014
-- Text: ocr (3 pages), mean OCR confidence 81.8
+¢ > i »< |
 
-````text
-\ . SVKM’s NMIMS ( -{
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Figure 3b
 
-Programme:B. Tech (CIVIL) a Year: IIl "Semester: V
-
-Academic Year: 2014-2015
-
-Subject»: Structural Analysis-II Pg /
-Marks: 100
-- Date : 27/11/2014 . . Time : 2.00 pm PSTME
-Durations: 3 (hr ETBRARY da
-Final-Examination ~
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Question no. 1 is compulsory and out of remaining questions, attempt any 4 questions.
-2. Assume suitable data wherever required and state it clearly.
-3. Answer to the new question to be started ona fresh page.
-4. Figures in the brackets on the right hand side indicate full marks.
-
-Q.la Determine the static indeterminacy (external, internal and total) and kinematic
-- indeterminacy (including and excluding axial deformations) for the structures.shown
-below. : - [12]
-
-fy
-C7)
-‘ _ |
-a | i |
-OFS
-x y |
-/ XIN ar, 7
-i Cary
-. cit)
-Q.1b Determine the horizontal displacement of the point D for the frame as shown below.
-
-Take depth of the member as 200 mm and a = 12x10 /°C. AB= BC=5 m, CD = 2m. [08]
-Dp
-
-ae? Al age
---- page 2 ---
-Q.2a Determine the flexibility coefficients for the frame shown in figure below. © [08]
-CD =BC=3m,AB=6m.
-
-Q.2b Using the coefficients developed in Q.2a above, Analyse the frame loaded as shown in
-figure above and draw BMD and tentative deflected shape. CD = BC=3m,AB=6m. [12]
-
-3 yen)
-Cc ” <r 5
-AL
-SI
-D
-
-4
-LD
-
-Q3a The symmetrical two hinged parabolic arch of span 40m and central rise 6m is subjected
-to'a point load of 120-kN ata distance of 5 m from right end. It is also subjected to a udl
-of intensity 30 KN/m over left half portion. Analyse the arch and determine radial shear
-and normal thrust at a distance of 10 m from right support. Also determine maximum
-positive and negative bending moment developed. Assume that the MI of section
-
-varies as a secant of slope. [10]
-Q.3b Analyse the truss as shown in figure below using least work method and tabulate the
-forces developed in the members of the truss. [10]
-
-C’6m D 6m E
-
-m4.
+Page 2 of 4
 --- page 3 ---
-Q4a ‘Analyse the beam as shown in figure below using Clapeyron’s three moment theorem
-and draw BMD and tentative deflected shape. Note that support B settles down by 2.5
++ G $6
 
-mm.and flexural rigidity is 30000 KN-m?. [16]
-“OKN{m = LOKN|m 20-kKt Lm
-A COCO DEO O OOS DIT y err
-BD Am ray.) am. Cc 4m D
+4 EI EI
+A D
+~~ RR OX
+lo 4m i
+Figure 4a
+20 kN/m
+7 ROIS
+8 2EI D &
+> —=
+& aN ~4
+A Cc _
+* TOR pe ay
+lo 4m |
+Figure 4b
+40 kN 80 kN 30 kN
+D E
+y’ 30 kN
+&
+loa]
+_v
+es B °
+60 kN
+lg 4m ple 4m >
+[* >< |
+Figure 5
+Page 3 of 4
+--- page 4 ---
+50 kN/m 300 kN
 
-Q.4b. Differentiate between force and displacement method of analysis of indeterminate - [04]
-structures. ;
+c
+10m
+A i A B
+| 25m 25m |
+rr - |
+Figure 6
+ye kN/m : "| kN _
+l, nla ® ple _2m_,|
+rr |
+Figure 7
+30 kN/m
+60 kN
+—>
+3 3B Cc
+iB
++
+v A ; D
+a RK XXX
+6m
+Figure 8
+30 kN/m 30 kN/m 80 kN
+B C D | Note:
+E Support B settles down by 20mm
+fy fy Support C settles down by 10mm
+Support D settles down by 20mm
+le 4m 4m 4m |. 2m _.| — EI= 20000 kN-m’
+it > (¢ an >
+Figure 9
 
-©.5a Determine the stiffness coefficients for the beam shown in figure below. [08]
-Note AB = 6m, BC = 4m, Ins = 2 Inc = 21
-
-ft ie
-Lae Nhe
-
-Q.5b Using the coefficients developed in Q.5a above, Analyse the beam loaded as shown
-
-below and draw BMD and deflected shape. * 12]
-ext KINA BOKN
-80kN/m
-4 1 fo
-
-i 2I Bot cy °
-2m—+} |
-6m Am. |< 2M
-
-f 1
-
-Q.6a Define absolute stiffness, reduced stiffness, distribution factor and carry over factor
-with respect to moment distribution method. [04]
-
-Q.6b Analyse the beam loaded as shown in figure below by slope deflection method and
-draw BMD and deflected shape. EI = 764 kNm2. Support B settles down by 30 mm, C_ [16]
-settles down by 20 mm and A rotates by 1/250 radians in clockwise direction.
-
-6 kN
-8 KN kN | Dr
-4k | 8 ryerte tes a
-
-ee m—re— 2.5 ame nt m—4
-
-Q.7 Analyse the frame loaded as shown in figure below by moment distribution method
-and draw BMD and tentative deflected shape. [20]
-
-16KN
-
-OKN]M
+Page 4 of 4
 ````
 
-## Year not stated · Final-Exam · Sem 5 · paper f05a88f06a67
+## 2016-17 · Final-Exam · Sem 5 · paper f05a88f06a67
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
@@ -4077,94 +2441,1728 @@ a A
 2h
 ````
 
-## Year not stated · Re-Exam · Sem 5 · paper 81fc69518479
+## 2016-17 · Final-Exam · Sem 5 · paper 90bd5697ae9b
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis -II Re-exam 14-15-16-17.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 January 2019
-- Text: ocr (3 pages), mean OCR confidence 84.7
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2016-17 Final.pdf`
+- Printed on paper: exam date: 28 November 2016
+- Text: ocr (3 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (Civil) Year: III Semester: V /
+
+Academic Year: 2016-2017
+
+Subject : Structural Analysis-II
+Mi
+Date : 28 November 2016 Ti
+Du
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted. (Compulsory)
+
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q. la Determine Static (external, internal and total) and Kinematic (including and excluding axial —_ (06)
+deformation) indeterminancy for structures shown
+
+y
+7 7
+7 A>
+(06
+
+Q. ib Determine vertical displacement of jointB for a truss subjected to temperature rise of 20 °c for top
+
+chord, 25 ° c for intermediate members and 30 °c for bottom chord.
+ar=12x10%/ °C. A= SAME FOR ALL MEMBERS
+
+© £ q
+JAN
+Va Am B® - i ‘v
+| um ly 4/5
+--- page 2 ---
+Explain difference between determinate and Indeterminate structure analysis, (03)
+
+lb) Analyze the beam shown for the loading using Clapyeron’s three moment theorem. .Draw SFD, (09)
+BMD and deflected shape.
+
+ZO KN wy BORN
+aw Ri alia { 2m)
+
+t { vY)
+
+i ie
+
+For: 2 hinged parabolic arch AB of 50 m span and 8 m rise ,concentrated load of 40 KN (06)
+acts at 10 m from left support A. Calculate horizontal thrust and reactions at the support and
+maximum BM.
+
+Analyse the indeterminate truss and calculate forces in the members. Consider member B,D) (06)
+as redundant. loo kN
+G& CkN—, one C A Dar alk members € 2 al
+
+E = 2x10% N] wn
+
+A ant I,
+Calculate flexibility ‘coefficient for thé rame shown (06)
+
+4m
+
+A
+
+ah a
+
+Using the above coefficient analyze the frame for the loading shown. Draw SFD, BMD and (06)
+
+deflected shape.
+rT
+
+{o kw 7 ae AM
+wr,
+--- page 3 ---
+Q.5a___ Define stiffness coefficient. (02)
+
+Q.5b Analyze the frame shown by slope deflection method. Draw BMD and deflected shape. (10)
+4OKN Cc,
+
+5 YD Ov
+Ln
+Q.6a Determine stiffness coefficient for the beam as shown. (04)
+: 1 > 3
+me A
+a 3 —. am
+4 ¥5 t;
+Q.6b Using the stiffness coefficient derived in Q.6a analyse the beam as shown below. Draw SFD, (08)
+BMD and deflected shape.
+\O KN/o 2BOKN
+Pe a AS en
+
+am Am. &
+™ 7 Mm. =7
+k—4
+
+im
+Q.7 Analyze the continuous beam shown by moment distribution method. Draw SFD,BMD and (12)
+deflected shape.
+30 1KN/w - 25Kn
+L \ \20 KY
+DQ SN L cl
+1 eo £ @ & EDF
+
+0 AM a BO Bsr ——*
+
+oh i
+
+a: 3
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper 8484d2873a38
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II B TECH (CIVIL), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 24 November 2016
+- Text: ocr (4 pages), mean OCR confidence 67.7
 
 ````text
 SVKM’S NMIMS
-| MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Program: B.Tech/ MBA Tech (Civil) Year: Hl Semester : V
-Academic Year: 2018-19
-Subject: Structural Analysis-II Marks: 60
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Time: 2.00 pm to 5.00 pm
+Programme : B. Tech (CIVIL) Year : Ill Semester: V / VII
 
-Date: 15 January 2019
-Durations: 3 (hrs)
-No. of Pages:_O%.
-Re-examination (2014-15 /2015-16 / 2016-17)
+: 2015-2016
+Bateh Academic Year : 2016-2017
 
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
+i is- Marks : 60 .
+Subject : Structural Analysis-II Tene. 2.00 pec 5
+‘ 7 gm
+Date : 24 November 2016 Duration : Bs TNR
+‘a SoM
+Re-Examination alr ty i: ¥
+
+POZA
+
+Instructions:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all attempt 5 questions.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 a) Determine Degree of Static Indetreminancy and Degree of Kinematic Indeterminancy
+for the structures as shown in Fig. 1 (06 marks)
+
+Q.1 b) Determine the deflection at joint C due to temperature change shown in the Figure 2.
+Take a = 12 x 10 */°C, depth of all members = 50 mm, and EI = 4,00,000 kN-mm2
+
+(06 marks)
+Q.2 a) Derive the flexibility coefficients for the rigid jointed plane frame w.r.t co ordinates as
+shown in Figure 3 below. G (04 marks)
+
+Q. 2 b) Analyse the continuous beam as shown in the figure(4 below by Three Moment
+Equation and draw BMD if support C sinks by 2 mm below. E =2.1 x 10 °N/mm? and I = 80
+
+x 10° mm‘. (08 marks)
+Q.3 a) Distinguish between Force method and Displacement method. (03 marks)
+Q. 3 b) Analyse the rigid jointed plane frame as shown in the figurd 5 by flexibility method.
+Draw SFD and BMD for the frame. (09 marks)
+Q. 4 a) Differentiate between static and kinematic indeterminancy. (02 marks)
+
+Q. 4 b) Analyse the rigid jointed plane frame as shown in the figure 6 by Stiffness method.
+Draw SFD and BMD. (10 marks) ;
+
+x °
+Q. 5. Analyse the forces in all the members of the pin jointed frame as shown in figure\7 by
+flexibility method. Find forces in all the members. (12 marks)
+
+1/4
+--- page 2 ---
+Q.6 a) Whether slope deflection method is a force method or displacement method?
+Elaborate your answer with suitable examples. (03 marks)
+
+Q. 6 b) Analyse the rigid jointed plane frame as shown in figure 8 by slope deflection method.
+Draw BMD. (09 marks)
+
+Q. 7 a) A two hinged parabolic arch of span 20 m and central rise 4 m carries a udl of 8 KN/m
+on left half span and a concentrated load of 8 KN at a distance 5 m from right hand support.
+If the moment of inertia of the arch rib varies with respect to the secant of the slope of the
+arch axis, find horizontal reactions. (06 marks)
+
+Q. 7b) Analyse the continuous beam as shown in figure 9 by Moment Distribution Method.
+Draw SFD and BMD. : (06 marks)
+--- page 3 ---
+i
+
+Ll7
+@
+a>
+277
+C
+it)
+--- page 4 ---
+is a
+
+WIT
+
+im | 0
+A
+
+b
+A
+
+a
+rig (#) (Q U ( b ) CFY4- 8)
+Lrokn/m 110 kn, 2.0 bn[we
+
+r Lm kh lero L Liw |
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper 14085fd956bd
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 26 May 2017
+- Text: ocr (3 pages), mean OCR confidence 66.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: V
+/ Batch: 2015-16/ 2016-17
+3 Academic Year: 2016-2017 Te
+F FE.BE SS
+Subject: Structural Analysis-II . Rats “SS
+Marks: 60 se
+
+Date: 26 May 2017 Time: 10.00 am tol. 00 pm,»
+
+Durations: 3 ts) * a” ie ’
+
+No. of Pages: * won.
+Re-Examination Ta
+Instructions:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. Inall attempt 5 questions.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 a) Determine Degree of Static Indetreminancy and Degree of Kinematic Indeterminancy
+for the structures as shown in Fig. 1 (06 marks)
+
+Q.1 b) Determine the deflection at joint D due to temperature change shown in the Figure 2.
+Take a = 12 x 10 © / °C, depth of all members = 300 mm, and EI = 4 ,00,000 kN-mm?
+
+(06 marks)
+
+Q.2 a) Derive the flexibility coefficients for the rigid jointed plane frame w.r.t co ordinates as
+shown in Figure 3 below. (04 marks)
+
+Q. 2 b) Analyse the continuous beam as shown in the figure 4 below by Three Moment
+Equation and draw BMD if support B sinks by 6 mm below. E = 2.1 x 10 >N/mm/? and I = 90 x
+
+10° mm‘. (08 marks)
+
+Q.3 a) Distinguish between Flexibility method and Stiffness method. (03 marks)
+
+Q. 3 b) Analyse the rigid jointed plane frame as shown in the figure 5 by flexibility method.
+
+Draw SFD and BMD for the frame. (09 marks)
+
+Q.4 Analyse the rigid jointed plane frame as shown in the figure 6 by Stiffness method. Draw
+
+SFD and BMD. (12 marks)
+al
+
+Q. 5. Analyse the forces in all the members of the pin jointed frame as shown in figure 7 by
+ge flexibility method. Find forces in all the members. (12 marks)
+
+Va
+--- page 2 ---
+Q.6 a) Define (i) Stiffness coefficient (ii) Relative stiffness (iii) Distribution factor. (03 marks)
+
+Q. 6 b) Analyse the rigid jointed plane frame as shown in figure 8 by slope deflection method.
+Draw BMD. (09 marks)
+
+Q. 7 a) A two hinged parabolic arch of span 30 m and central rise 6 m carries a udl of 12
+kN/m on left half span and a concentrated load of 16 kN at a distance 8 m from right hand
+support. If the moment of inertia of the arch rib varies with respect to the secant of the slope
+of the arch axis, find horizontal reactions. (06 marks)
+
+Q. 7 b) Analyse the continuous beam as shown in figure 9 by Moment Distribution Method.
+
+Draw BMD. th eato al b ing de (06 marks)
+J
+tp.
+C1)
+
+[ |S eN- [2 len [to 20 |eN
+
+ols crag)
+
+Oly
+--- page 3 ---
+20.
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper c6040ed5283e
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/STRUCTURAL ANALYSIS II BATCH 2014-15,2015-16,2016-17 Re-exam.pdf`
+- Printed on paper: exam date: 29 May 2017
+- Text: ocr (3 pages), mean OCR confidence 61.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Civil) ~ Year: III * Semester: V
+
+Batch: 2014-15/2015-16/2016-17 ©
+Academic Year: 2016-2017 ~ _.
+
+Subject: Structural Analysis -II ~
+
+Date: 29 May 2017.
+
+Re-Examination
+Instructions: Candidates should read eurehilly the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) Answer to each new question to be started on a fresh page.
+
+4) Figures in brackets on the right hand side indicate full marks.
+
+Q.1 (a) Determine the static and kinematic indeterminacy (including internal and external) for
+
+the structure shown in Fig. 1 (i, ii and iii) (6)
+(b) Determine horizontal displacement of joint D, as shown in Fig. 2. Take o = 12x10°C
+depth of all members = 300 mm. (6)
+Q.2 (a) Determine the flexibility coefficient for the beam shown in Fig. 3. (4)
+(b) Analyse the beam by flexibility method shown in Fig. 4 and draw the bending moment
+diagram. (8)
+Q.3 Analyse the truss as shown in Fig. 5 and tabulate the forces developed in the member of
+the truss. The area of the members are 300 mm?. (12)
+Q.4 Determine the moments at the supports of the continuous beams by slope deflection
+method as shown in Fig. 6. Draw also B.M. diagram for the beam. (12)
+Q.5 Analyse the portal frame by moment distribution method, shown in Fig. 7. (12)
+Q. 6 Determine the stiffness coefficients for the continuous beam shown in Fig. 8. (12)
+
+Q.7 (a) Determine the support moments and reactions at supports for the continuous beam as
+shown in Fig. 9, if the supports B and C sink by 3 mm and 5 mm respectively. Take I =2 x 107
+mm‘ and E = 200 kN/mm’. (6)
+(b) A two hinged parabolic arch of span 40 m and rise 5 m carries a uniformly distributed load
+
+of 5kN/m on the left half of the span and also a concentrated load of 40 kN at the crown.
+Determine the horizontal thrust at the supports and the maximum bending moment for the arch.
+
+(6)
+
+3
+--- page 2 ---
+° £)
+aA ANA &
+
+@)
+
+7
+loc
+
+50° | 3ec
+
+A
+Tit A WT
+yp my
+Fig. — Dis mig. -—3
+20k8|\m \olen 2oku|m
+
+re. Qe
+
+\ lom am Am lom
+
+2/5
+--- page 3 ---
+Fig. 5
+vee i” ‘rele pele
+2m Lim gertacy eof
+Z @ te" = qe
+yhsSm | nt i - L
+rig. —G
+aka}
+f 5 En 20ks|m ina loknl
+
+B amen G
+
+av Sconthay’ + D Jt.
+
+Am
+2m a <7 2 kel] m én fim @x) gs ee) &, (<a)
+\oEN ™m : 2m Sin am, 3am, 2m,
+2m 6
+Fiq- &
+Tab? Tbe Teae 2411
+Fig =]
+12kel| mm \2Kal] an
+ee ae awn
+aY¥ x cr a
+\ Am 4 3m ; Am
+Fig. -9. s)5,
+````
+
+## 2015-16 · Final-Exam · Sem 5 · paper d8967455c13a
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2015-16 Final.pdf`
+- Printed on paper: exam date: 26/11/2015
+- Text: ocr (4 pages), mean OCR confidence 63.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+ie
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (CIVIL) Year: IIT Semester: V
+
+j Academic Year: 2015-2016 —_
+1 ae
+Subject: Structural Analysis -II rf, o “A
+
+Marks ff
+Date: 26/11/2015 Time
+
+~
+MPSTMB YS?
+‘P@Ooerp te GOS :
+Durations :% i$ ]
+Final-Examination
+
+ed
+
+Instructions:
+1. Question No. | is compulsory.
+2. Out of remaining questions, attempi any 4 questions.
+3. Inall attempt 5 questions.
+4. Ajl questions carry equal marks.
+im 5. Answer to each new question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 a) Determine the Degree Of Static Indeterminancy and Degree Of Kinematic
+Indeterminancy for the structures as shown in Fig. 1. (06 marks)
+
+Q.1 b) For the rigid jointed plane frame as shown in Pig. 2 the temperature variations are as
+shown. Find horizontal deflection of joint D due to temperature load. Take 4 =12 x 10 */ °C,
+
+depth of all members = 60 mm, and EI = 6,00,000 kN-mm? (06 marks)
+Q. 2 a) Write step wise procedure for analysis of indeterminate structures using flexibility
+method. (04 marks)
+Q. 2 b) Analyse the portal frame as shown in Fig. 3 using flexibility method. Draw BMD.
+(08 marks)
+Q. 3 a) Differentiate between force method and displacement method. (03 marks)
+
+- Q. 3 b) Find forces in all the members of the plane truss as shown in Fig. 4. AE for all the
+members is constant. (09 marks)
+
+Q. 4 a) Develop the stiffness matrix for the beam of uniform cross section as shown in Fig, 5.
+
+(09 marks)
+Q. 4 b) Two hinged parabolic arch loaded with uniformly distributed load throughout the
+Span is subjected to normal thrust only. Justify the statement, (03 marks)
+Q. 5 Analyse the portal frame as shown in Fig. 6 by slope deflection method. Draw SFD and
+BMD. (12 marks)
+Q. 6 a) Explain with examples (06 marks)
+
+i) Carry over ii) Distribution factor
+
+(1G
+--- page 2 ---
+Q. 6 b) Analyse the portal frame as shown in Fig. 7 using Moment Distribution Method.
+
+(06 marks)
+Q. 7 Analyse the continuous beam as shown in Fig. 8 by Three Moment Equation if support
+
+B settles down by 10 mm and support C settles down by 5 mm. E = 75000 KN- m2. T= 80 x 10°
+mm‘, (12 marks)
+
+24,
+--- page 3 ---
+QUT
+CHI)
+
+306 , md 2D ,
+use [be] e) ye
+hiv oz, nove, D | + arr
+Eee *
+Fi'g.3
+i aia
+é 7
+3
+jh.
+= i EB) v>
+_ bh Lvs lL.
+) _ /i 7h
+Cig. 5)
+b Dro |
+f t
+CF iq- LD
+--- page 4 ---
+| JON
+. 4 pt
+ar + 2m iv F 7
++ 2t_
+bm [2 Ean oe |
+| 6m (To xt bvm
+fT? y OTT. T7IT7
+CFiq. D) ptm +: 29 b
+| Cig.)
+ISIN | Sen
+
+A ae TNE ON
+
+" Lew Llwe yl yl Y
+A 1 A
+
+y
+CFiq 8)
+
+bi
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 5094ce5e0663
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 25/11/2015
+- Text: ocr (3 pages), mean OCR confidence 77.5
+
+````text
+\ SVKM’s NMIMS
+: ; MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil) Year: Ill Semester: V
+Batch: 2014-2015
+
+Academic Year: 2015-2016
+a, eon They
+
+Subject: Structural Analysis- II vA 7.
+| Marks: 60 j tte YW
+Date: 25/11/2015 Time: 2.00 560 dit R
+Duration: 3 (hrs hae yl
+
+fi
+* eo at
+Se
+Re-Examination ee
+
+Instructions: Candidates should read carefully the instructions printed on the qacetiat paper and
+on the cover of the answer book, which is provided for their‘ise.
+
+NB:
+1. Question no. 1 is compulsory and-out of remaining questions, attempt any 4 qpiestions.
+2, Assume suitable data wherever required and state it clearly.
+3. Answer to the new question to be started on a fresh page.
+4. Figures in the brackets on the right hand side indicate full marks.
+
+ima
+Q.1a Determine the static indeterminacy (external, internal and total) and kinematic
+indeterminacy (including and excluding axial deformations) for the structures shown
+below. Lz
+| |
+poo
+alle
+Q.1b Determine the horizontal displacement of the point D for the frame as shown below.
+Take depth of the member as 400 mm and a = 12x10 /°C, AB = BC = CD = 5m. my
+B +12e ¢ Cc
+420% |
+i a4 ,
++406 | it BC oc) t40c
+A |
+= Wr 1D
+Q.2a Determine the flexibility coefficients for the frame shown in figure below - __ £57
+O) -_ ‘f=
+ft
+ee 2 z a)
+\_ tam \ am
+
+\
+
+y ls
+--- page 2 ---
+Q.2b Using the coefficients developed in Q.2a above, Analyse the frame loaded as shown in
+figure above and draw BMD and tentative deflected shape. ices
+
+. 2) kN
+LBKNIM)
+rama soaaa “
+
+AT AL
+
+74
+
+4 ‘ 12m 30 b
+
+Q.3a The symmetrical two hinged parabolic arch of span 30m and central rise 6m is subjected
+to two point loads of 60 KN each at a distance of 7.5 m and 15 m from left end
+respectively. Analyse the arch and draw BMD. Assume that the MI of section varies as
+
+a secant of slope. £6
+
+Q.3b Analyse the truss as shown in figure below using least work method and tabulate the
+forces developed in the members of the truss. ces
+
+80kN
+
+Q.4a Analyse the beam as shown in figure below using Clapeyron’s three moment theorem
+and draw BMD and tentative deflected shape. Note that support B settles down by 10
+mm and flexural rigidity is 16000 KN-m?, [to]
+
+20 20kN 40 kN
+
+jm
+2m P hctiinie Lon,
+A COTTTITITT ITT TT TT Ty.
+on ae 77 © a
+eal t om wte—_sm_
+f
+
+- . ray
+
+Q.4b Derive the expression for rotational stiffness of a beam = 4EI/L fo2f
+.Q.5a Determine the stiffness coefficients for the beam shown in figure below. Note that f 55
+flexural rigidity is constant. AB = 4m and BC=3m.
+~ 1 - 2
+f / .
+
+3
+A; amen wa
+--- page 3 ---
+Q.5b ‘Using the coefficients developed in Q.5a above, Analyse the beam loaded as shown
+
+below and draw BMD and deflected shape. £4]
+ra 6OKN/m 1O0kKN
+4 saBRanaas oho...
+4 AP at
+i ; —1.5m—-
+tT ~ eee BT
+
+Q.6a Explain the step by step procedure for analysing indeterminate structures by
+displacement method C27
+Q.6b Analyse the beam loaded as shown in figure below by slope deflection method and
+draw BMD and deflected shape. El = 20000 kNm2. Support 2 settles down by10mm. 10} ,
+
+40 KN
+Em 20 kN
+; ia 10 KN/m
+; 14 Yo soo t
+4 ar 2 rs ds
+i |. 4am 6m : | 2m |
+I t send
+Q.7_ Analyse the frame loaded as shown in figure below by moment distribution method
+and draw BMD and tentative deflected shape. fi |
+28 kKN/m
+~ POOOADBDOOOOAA AL c
+2l
+3m
+4 m ! I
+a
+= PII
+OD
+A
+ih
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper e639630303b4
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II BATCH 2014-15 15-16 RE EXAM_e639630303.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 June 2016
+- Text: ocr (3 pages), mean OCR confidence 77.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
+
+Programme: B.Tech (Civil) Year: III Semester: V
+
+Academic Year: 2015-16
+
+Batch: 2014-15 / 2015-16 Marks:60
+Subject: Structural Analysis- II Time: 2.00 pm - 5.00 pm
+Date: 08 June 2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions. s
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary and state it clearly.
+
+a
+
+Q.1a Determine the static indeterminacy (external, internal and total) and [06]
+kinematic indeterminacy (including and excluding axial deformations) for:
+the structures shown in figure 1.
+
+Q.1b Determine the horizontal displacement of joint C of the truss as shown in [06]
+figure 2. Note that the temperature of members AB, AD and BC is increased
+by 50 °C and that of member CD and BD is decreased by 50 °C. Take
+a= 18x10 /°C.
+
+Q.2a Determine the flexibility coefficients for the frame shown in figure 3. [06]
+
+Q.2b Using the coefficients developed in Q.2a above, Analyse the frame loaded as [06]
+shown in figure 4 and draw BMD and tentative deflected shape.
+
+Q.3a Analyse the truss as shown in figure 5 and tabulate the forces developed in [08]
+the members of the truss.
+--- page 2 ---
+Q.3b. The symmetrical two hinged parabolic arch of span 80m and central rise 8m_ [04]
+is subjected to a uniformly distributed load of magnitude 30 kN/m over left
+half portion. Determine the reactions developed at the support.
+
+Q.4 Analyse the beam as shown in figure. 6 using Clapeyron’s three moment [12]
+theorem and draw BMD and tentative deflected shape.
+
+Q.5 Analyse the frame loaded as shown in figure 7 by Slope Deflection Method [12]
+and draw BMD and deflected shape.
+
+Q.6a Determine the stiffness coefficients for the beam shown in figure 8. [06]
+
+Q.6b Using the coefficients developed in Q. 6a above, Analyse the beam loaded as [06]
+shown in figure 9 and draw BMD and deflected shape.
+
+Q.7a Define the term stiffness and carry over factor. Show that for most general [04]
+case, carry over factor is 0.5.
+Q.7b Analyse the beam loaded as shown in figure 9 by moment distribution [08]
+
+method and draw BMD and tentative deflected shape. Note that the support
+B, Cand D settles down by 20, 15, 10 mm respectively.
+Take EI = 15000 kN-m2.
+
+fs
+--- page 3 ---
+A
+ci) #
+
+4am
+4 777 <4,
+Wo 7 Fiquve-3 oO)
+cil)
+“77 citi) — | ft
+Figure-4 je 4M sp Sm %E
+’ | Figure +. >
+60KN SokN
+BokN-b 2OKN[ n> BOKN] ny
+aw 98 ee amen bi, Dp
+* Ad sae er A Qer A
+j : j 7
+AM. 4 sm 4 any 71 iis) a
+Figure &
+; a Note Support ee
+‘ — EI= |IS000kN-
+Figure s -
+2 2 2
+: Cr»
+c 4 ax Aes AeA
+Am —-3m + 3am
+Figure. 8
+joo __s. 20 KN rn 2OKN In
+Figure F Ay 2QEr BFA EL oe EL AD
+= y. 4m L_3m fam |
+
+Be. , Figure 9
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper a087a768d7f6
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2014-15 2015-16 Re Exam.pdf`
+- Printed on paper: exam date: 28 November 2016
+- Text: ocr (3 pages), mean OCR confidence 69.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : MBA. Tech (Civil) Year : Ill Semester: V
+Batch : 2014-15/2015-16
+
+A i : a a
+cademic Year : 2016-2017 ; Z, om
+
+. sO
+Subject : Structural Analysis-II
+
+Date : 28 November 2016 -
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB: 1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Assume any other data, wherever not given, suitably but state and justify the same.
+7) Illustrate your answer with neat sketches wherever required.
+8) Figures in brackets on the right hand side indicate full marks.
+
+1. a) Determine the static indeterminacy (extemal, internal and total) and kinematic (07)
+indeterminacy (including and excluding axial deformations) for the structures shown
+in figure 1.
+b) Determine the horizontal displacement at D for the rigid frame as shown in figure 2. (05)
+Take depth of member as 500 mm and o = 12x10°/ °C.
+
+2. Analyse the frame loaded as shown in figure 3. By moment distribution method and (12)
+draw BMD and deflected shape.
+3. a) Determine the flexibility coefficients for the frame as shown in figure 4. (65)
+
+b) Using the coefficients developed in Q.3(a) above, analyse the frame loaded as shown (97)
+in figure 5. And draw BMD and deflected shape.
+
+4. a) The symmetrical two hinged parabolic arch of span 18m and central rise 3.6m is (06)
+subjected to two point lods of 25 KN each acting at a crown and left quarter span.
+Determine reactions and bending moment at a distance 5m from left support.
+
+b) Analyse the beam as shown in figure 6. Using list work method and calculate (06)
+reactions.
+
+~Is—
+--- page 2 ---
+5. a) Analyse the beam as shown in figure 7. Using Clepeyron’s three moment theorem (09)
+and draw BMD and deflected shape.
+b) State and explain Castigliano’s theorem I & II. (03)
+
+6. a). Determine the stiffness coefficients for the beam as shown in figure 8. (05)
+b) Using the coefficients developed in Q.6(a) above, analyse the beam loaded as shown (07)
+in figure 9. And draw BMD and deflected shape.
+7. Analyse the frame loaded as shown in figure 10. By slope deflection method and (12)
+draw BMD and deflected shape.
+
+A y
+eS by ¥
+
+a , A a
+
+Figwre |
+Ge
+3 c
+Dp Fe AdEN
+= T7)
+ae a Koeocrccn® _\@)
+r WAN anQD HSm+2.S5m—
+an
+sm FBO [rIOC anM®
+rAd] HOC AM ED)
+E
+Lef
+A ‘ Ee
+Ul, 2777
+
+Agqure 2 +
+--- page 3 ---
+an ATA
+am 4AM AM Any
+A
+abe >i lA >
+Ci
+Aigucve 4 Agus S
+CIRNUIM
+
+4
+a. fs
+
+Je BASM SH 243M =
+
+Frauee & )
+20 )nI]m oui
+ge a
+X— AP S.,. Seam GE am Cem
+FAigucvre
+@ a) joren
+ee yoo, 4) fey
+Ge bs By EC
+Claure @ AAS HIS JOA yy
+Fiauvre J
+pen 6 c
+27
+” ca) 4M
+A
+° [>
+
+T2077
+
+Fiauee 10
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 84130781d1f4
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2014-15 Re Exam_84130781d1.pdf`
+- Printed on paper: exam date: 26/11/2015
+- Text: ocr (3 pages), mean OCR confidence 59.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CIVIL) Year: Ill Semester: V
+
+Academic Year: 2015 - 16
+
+fo yale Say
+
+Batch:2014-15 on vo es,
+
+Subject :Structural Analysis - II - Marks:
+
+Date : 26/11/2015 Duration
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+
+NE:
+1. Question no. 1 is compulsory and out of remaining questions, attempt any 4 questions.
+2. Assume suitable data wherever required and state it clearly.
+= 3. Answer to the new question to be siarted on a fresh page.
+4. Fi igures on the right hand side bracket indicate full marks
+Q.la Determine the static indeterminacy (external, internal and total) and kinematic
+indeterminacy (including and excluding axial deformations) for the structures shown Ff |
+
+in figure 1.
+Q.1b Determine the horizontal displacement of point P for the frame as shown in figure 2.
+
+; Take depth of the member as 200 mm and a = 12xi0* /°C. 5)
+Q.2a Determine the flexibility coefficients for the beam shown in figure 3. 5
+Q.2b Using the coefficients developed in Q.2a above, Analyse the beam loaded as shown in
+
+figure 4 and draw BMD and tentative deflected shape. poe
+
+Q3a The symmetrical two hinged parabolic arch of span 50m and central rise 6m is subjected
+to three point loads of 250 KN each acting at a distance of 12.5 m, 25 m and 37.5 m from
+
+right end. Analyse the arch and draw BMD. Use least work method. 6
+Q.3b Analyse the truss as shown in figure 5 and tabulate the forces developed in the
+@ members of the truss. 6
+Q4a Analyse the beam as shown in figure 6 using Clapeyron’s three moment theorem and
+draw BMD and tentative deflected shape. 5
+Q4b Differentiate between the force method and displacement method of analysis of 3
+indeterminate structures . ; -
+Q.5a Determine the stiffness coefficients for the frame chown’ in figure 7. , 5
+Q.5b Using the coefficients developed in Q.5a above, Analyse the frameloadedasshownin |
+— figure 8 and draw BMD arid deflected shape. ; +
+Q.6a Define absolute stiffness, relative stiffness, distribution factor and carry over factor
+gest with reference to the moment distribution method 2
+: Q.6b Analyse the beam loaded as shown in figure 9 by moment distribution method and
+draw BMD and deflected shape. ; lo
+Q.7 Analyse the frame loaded as shown in figure 10 by slope deflection method and draw
+BMD and tentative deflected shape. [2
+
+ps
+--- page 2 ---
+“et |
+& + 6 ! -
+NM 4K ZK | |
+{ wo | / \! / \ | | |
+if of. \] | H
+may = A VE 7 TE
+«7 Cl 1) Ci ri)
+Fig uve aa
+Xt 20 P
+H20C |
+em |
+| | cae | ete
+/~806 | .a8e +40¢ | 80
+ce . a
+J gsr =)
+Figure -2
+JX REr 4 ex f Ser A
+D ®
+, Figure 3
+ISKNiMD BOKN KN] ps
+A A. Kh A
+Tr = = S
+A Ary am yong — Army at
+Figure A.
+Dok {
+D e L'OKN J ROKN
+= BC0KN > TE
+4 | |
+Ary 4 | AE = Censtanr .
+i. A Ke = | Cc
+7 _ aA LL
+
+- —
+
+A
+ar ee
+
+Figue S 2/s
+--- page 3 ---
+= \
+Supper, Banac
+
+Sup}
+Sethes adeown by
+[SYN TY
++ 6™) ,2n | 2m | 4d ae am ET= |S000 kN-m>
+
+—
+
+Figure 6
+
+i QT | vor | v ar wv 1
+. _
+I =| an Figure =
+| |
+1 i 1.
+. erm ie ae) \ 6M le
+GOK
+ISKN] | N
+JOOS OO ag yo oe
+QT | QE arf 74
+[I zr! A Fouses
+1 U
+H }
+1 l
+; wT a ar
+C20 KN}
+f eer A er A ex A Figure 9
+— 6 jk Am —— 4m—4
+AokNn |r)
+Sok vs rRennnnnnnn vy
+QET (|
+|
+EX 6ro
+
+| Figure JO
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 86cd8981573b
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2014-15,2015-16 Re Exam.pdf`
+- Printed on paper: exam date: 08 June 2016
+- Text: ocr (3 pages), mean OCR confidence 72.5
+
+````text
+; SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING.
+
+Programme: MBA Tech (CIVIL) Year: III Semester: V
+
+Academic Year: 2015-16 - aS
+Batch: 2014-15/2015-16 « he ao
+Subject: Structural Analysis - Il, s:60 -, We
+i Bang? 10.00 ams-1
+— 3 hrs
+
+nar OZ
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+Date: 08 June 2016 _
+: Re-Examination
+
+NB:
 
 1) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2) Out of remaining questions, attempt any four questions.
 
-3) In all 5 questions to be attempted.
+3) In all five questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started ona fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary
 
-Q.1 Attempt any four questions : (12)
-(a) Define Castigliano’s second theorem. (03)
-(b) Discuss virtual work theorem. - (03)
-(c) Differentiate flexibility matrix method and stiffness matrix method. (03)
-(d) What do you mean by symmetric and antisymmetric structure? (03)
-(e) Explain absolute stiffness and relative stiffness. ; (03)
+Ql
+a) Determine the static indeterminacy (external, internal and total) and kinematic
+indeterminacy (including and excluding axial deformations) for the structures shown in
 
-Q.2 (a) Determine the (external, internal and total) static indeterminacy and kinematic
+figure 1. (6)
+b) Determine the horizontal displacement of point C for the frame shown in figure 2. (6)
+Q.2
+a) Determine the flexibility coefficients for the beam shown in figure 3. (5)
+b) Analyse the frame shown in figure 4 using method of consistent deformation. Draw SFD
+and BMD for the loading given. (7)
+Q.3
 
-indeterminacy including and excluding axial deformation for the fig. 1. (06)
+a) Analyse the truss shown below by least work by treating member Ub as redundant.
+Young’s modulus = 200 * 10° KN/m?. In bracket, areas of corresponding members are
+given in 10°m?. (See figure 5) (8)
 
-(b) Determine the vertical displacement of joint C for the fig. 2 shown. Assume coefficient of
+b) State and explain Castigliano’s theorem [ and II. (4)
 
-thermal expansion as 12x 10° °C. Depth of all members as 400 mm. (06)
+Q4
+a) Two-hinged parabolic arch with secant variation of inertia is subjected to a uniformly
+distributed load on its left half. Determine the horizontal thrust at abutments and plot the
 
-Q.3 (a) Define static and kinematic indeterminacy. (03)
+B.M.D. (See figure 6) (8)
 
-1/3
+b) Distinguish between linear and non-linear behaviour of materials. (4)
+Q.5
+
+a) Analyse the beam shown in figure 7 using Clapeyron’s three moment theorem and draw
+
+SFD and BMD. (6)
+
+\/9
 --- page 2 ---
-(b) Analyse the beam shown in fig.3 by flexibility matrix method. Draw BMD and deflection
+b) Analyse the rigid frame by slope deflection method. Fegures) (6)
+Q.6
 
-diagram. (09)
+a) Calculate reactions and beam end moments for the rigid frame shown in Figure @ using
+moment distribution method. Draw bending moment diagram for the frame. Assume E/
 
-Q.4 (a) Explain step by step procedure to solve a redundant truss. (03)
+to be constant for all the members. (8)
 
-(b) Analyse the beam given in fig.4 by three moment theorem. Draw BMD, SFD and deflection
+b) Differentiate between determinate structure and indeterminate structures. (4)
+Q7 10
 
-diagram. (09)
+a) Analyse the frame in figure @ by method of consi deformation (5)
 
-Q.5 A parabolic arch, hinged at the ends has a span 30 m and rise 5 m. a concentrated load of
-12 kN acts at 10 m from the left hinge. The second moment of area varies as the secant of the
+b) Analyse the continuous beam shown in figure # hy the moment distribution method.
+Draw SFD and BMD.
 
-slope of the rib axis. Calculate the horizontal thrust and the reactions at the hinges, also,
+)
+4
+4 A ~
+& & & 2 fA ae
+CFi Gute i) “ ao ia & in
 
-calculate the maximum bending moment anywhere on the arch. (12)
+@ KN] r0
 
-Q.6 Analyse the frame by stiffness matrix method shown in fig 5. Draw BMD and deflection
-(2)
+a EY POR 7S
 
-diagram.
-Q.7 Analyse the beam using slope deflection method shown in fig. 6. Draw BMD, SFD and
-(12)
+EL = Constant
 
-deflection diagram.
+RY A
 
-2/3
+—
+
+C Figure 6)
 --- page 3 ---
-Bo 4
+A
 
-5?
-Gb
-Fig - |
+ganin kno
+
+BERN
+
+2m 2m
+
+4 ]
+pb cm
+£3 = Contand
+C Fégum 11)
+
+~~»
+
+3)3
+````
+
+## 2014-15 · Final-Exam · Sem 5 · paper 9bae2c1d50c2
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS-II B TECH (CIVIL), FINAL EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/2014
+- Text: ocr (3 pages), mean OCR confidence 81.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+\ . SVKM’s NMIMS ( -{
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (CIVIL) a Year: IIl "Semester: V
+
+Academic Year: 2014-2015
+
+Subject»: Structural Analysis-II Pg /
+Marks: 100
+- Date : 27/11/2014 . . Time : 2.00 pm PSTME
+Durations: 3 (hr ETBRARY da
+Final-Examination ~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+
+NB:
+1. Question no. 1 is compulsory and out of remaining questions, attempt any 4 questions.
+2. Assume suitable data wherever required and state it clearly.
+3. Answer to the new question to be started ona fresh page.
+4. Figures in the brackets on the right hand side indicate full marks.
+
+Q.la Determine the static indeterminacy (external, internal and total) and kinematic
+- indeterminacy (including and excluding axial deformations) for the structures.shown
+below. : - [12]
+
+fy
+C7)
+‘ _ |
+a | i |
+OFS
+x y |
+/ XIN ar, 7
+i Cary
+. cit)
+Q.1b Determine the horizontal displacement of the point D for the frame as shown below.
+
+Take depth of the member as 200 mm and a = 12x10 /°C. AB= BC=5 m, CD = 2m. [08]
+Dp
+
+ae? Al age
+--- page 2 ---
+Q.2a Determine the flexibility coefficients for the frame shown in figure below. © [08]
+CD =BC=3m,AB=6m.
+
+Q.2b Using the coefficients developed in Q.2a above, Analyse the frame loaded as shown in
+figure above and draw BMD and tentative deflected shape. CD = BC=3m,AB=6m. [12]
+
+3 yen)
+Cc ” <r 5
+AL
+SI
+D
+
+4
+LD
+
+Q3a The symmetrical two hinged parabolic arch of span 40m and central rise 6m is subjected
+to'a point load of 120-kN ata distance of 5 m from right end. It is also subjected to a udl
+of intensity 30 KN/m over left half portion. Analyse the arch and determine radial shear
+and normal thrust at a distance of 10 m from right support. Also determine maximum
+positive and negative bending moment developed. Assume that the MI of section
+
+varies as a secant of slope. [10]
+Q.3b Analyse the truss as shown in figure below using least work method and tabulate the
+forces developed in the members of the truss. [10]
+
+C’6m D 6m E
+
+m4.
+--- page 3 ---
+Q4a ‘Analyse the beam as shown in figure below using Clapeyron’s three moment theorem
+and draw BMD and tentative deflected shape. Note that support B settles down by 2.5
+
+mm.and flexural rigidity is 30000 KN-m?. [16]
+“OKN{m = LOKN|m 20-kKt Lm
+A COCO DEO O OOS DIT y err
+
+Q.4b. Differentiate between force and displacement method of analysis of indeterminate - [04]
+structures. ;
+
+©.5a Determine the stiffness coefficients for the beam shown in figure below. [08]
+Note AB = 6m, BC = 4m, Ins = 2 Inc = 21
+
+ft ie
+Lae Nhe
+
+Q.5b Using the coefficients developed in Q.5a above, Analyse the beam loaded as shown
+
+below and draw BMD and deflected shape. * 12]
+ext KINA BOKN
+80kN/m
+4 1 fo
+
+i 2I Bot cy °
+2m—+} |
+6m Am. |< 2M
+
+f 1
+
+Q.6a Define absolute stiffness, reduced stiffness, distribution factor and carry over factor
+with respect to moment distribution method. [04]
+
+Q.6b Analyse the beam loaded as shown in figure below by slope deflection method and
+draw BMD and deflected shape. EI = 764 kNm2. Support B settles down by 30 mm, C_ [16]
+settles down by 20 mm and A rotates by 1/250 radians in clockwise direction.
+
+6 kN
+8 KN kN | Dr
+4k | 8 ryerte tes a
+
+ee m—re— 2.5 ame nt m—4
+
+Q.7 Analyse the frame loaded as shown in figure below by moment distribution method
+and draw BMD and tentative deflected shape. [20]
+
+16KN
+
+OKN]M
+````
+
+## 2014-15 · Final-Exam · Sem 5 · paper 87e09f1e53a9
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Final Exam 2014-15.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 58.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+- , ' SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CIVIL)
+
+Year: II Semester: V
+Academic Year: 2014-15 ye mae
+Cy Rl
+Subject: Structural Analysis -II
+j eke Bren . Marks: 100
+j. ate; /11/2014 Time: 10.00
+
+Durations: 3
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+
+NB:
+1. Question no. 1 is compulsory and out of remaining questions, attempt any 4 questions.
+2. Assume suitable data wherever required and state it clearly.
+3. Answer to the new question to be started ona fresh page.
+4. Figures on the right hand side bracket indicate full marks
+
+Q.la Determine the static indeterminacy (external, internal and total) and kinematic
+indeterminacy (including and excluding axial deformations) for the structures shown [12]
+
+in figure 1.
+Q.1b Determine the horizontal displacement of point P for the frame as shown in figure 2
+
+Take depth of the member as 200 mm and a = 12x10* /°C. [08]
+Q.2a ‘Determine the flexibility coefficients for the beam shown in figure 3. ; [08]
+Q.2b Using the coefficients developed in Q.2a above, Analyse the beam loaded as shown in
+
+figure 4 and draw BMD and tentative deflected shape. [12]
+
+Q.3a The symmetrical two hinged parabolic arch of span .60 m and central rise 6 m is
+subjected to a point load of 250 kN acting at a distance of 20 m from left end. Analyse
+
+the arch and draw BMD. Use least work method. {10]
+Q.3b Analyse the truss as shown in figure 5 and tabulate the forces developed in the
+members of the truss. [10]
+Q4a Analyse the beam as shown in figure 6 using Clapeyron’s three moment theorem and
+draw BMD and tentative deflected shape. (15]
+Q4b Differentiate between the determinate structures and indeterminate structures — * [05]
+Q5a Determine the stiffness coefficients for the frame shown in figure 7. a [08]
+~ Q.5b_ Using the coefficients developed in Q5a above, Analyse the frame loaded as shown in
+figure-8 and draw BMD and deflected shape. . {12]
+Q.6a State and explain Castigliano’s theorem I and II [04]
+Q.6b Analyse the beam loaded as shown in figure 9 by moment distribution method and
+draw BMD and deflected shape. {16]
+Q.7 — Analyse the frame loaded as shown in figure 10 by slope deflection method and draw
+BMD and tentative deflected shape. {20]
+
+4/3
+--- page 2 ---
+107
+
+aA 6m —
+
+Figure 2
+
+Y RQEL fF Er Pf 2er +
+
+‘oO 2 e)
+
+py .6M" yp 4AM y» OM 4
+. Zz uA :
+
+v4) 4
+Figure 3
+iskN}9 = 30kN149
+€ : >
+ee ee oe SOG
+| 2m | 29 sm |
+: cm _panpam} sm)
+Figure 4.
+ro D a | SOKN
+7 SOkKN —»P2——re |
+—~ AE = Constanc
+4m ~ |
+| = A a |= '€ : »
+#-6EM—}—6 in > EGE
+--- page 3 ---
+SckN 60KN
+
+SOkKN| NX) |
+A eel A = yo down by 20mm
+
+4{—__8™ 299 | 21m | 20 | ET= 25000 khE m2
+Figure &
+
+©
+rag 2)
+
+HH i
+
+\ 2Zer ‘ Sa
+Cry
+Er er .
+
++ C77 WIT
+f+ 6m —# ho ae
+
+3OKN] MD
+
+BR [aN NAN a pcre el
+7~ QET colaum %
+|
+|
+6m ET _
+| Figure 8
+| -
++h 4 |
+fem 4
+: ser
+QOKN] yy BokNYy _.20KN}™
+DAKRa nena peocrcony
+~ A— 6m —s2Ing2mA— AM
+5O0KN
+95KN |r |
+QET A”
+227
+
+EL
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper 00feb5c2fac5
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS-II/STRUCTURAL ANALYSIS II B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 13/06/2015
+- Text: ocr (3 pages), mean OCR confidence 81.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVEM i's RMAIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (CIVIL) Year: III Semester: V
+Batch: 2014-15 patna,
+Academic Year: 2014-2015 ; x gate a sae
+Subject: Structural Analysis- II RS
+Marks: 60 3/ fe ~
+Date: 13/06/2015 . Time: 10. Qoges to 1. 00 Dany mS
+Durations:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use. :
+
+NB:
+1. Question no. 1 is compulsory and out of remaining questions, attempt any 4 questions.
+2. Assume suitable data wherever required and state it clearly.
+3. Answer to the new question to be started ona fresh page.
+4. Figures in the brackets on the right hand side indicate full marks.
+Q.la Determine the static indeterminacy (external, internal and total) and kinematic
+
+indeterminacy (including and excluding axial deformations) for the structures shown
+below. F
+
+eit) fp
+Q.1b Determine the horizontal displacement of the roller support B for the frame as shown
+below. Take depth of the member as 300 mm and a = 12x10-6 /°C. 5)
+HIS ;
+. a 5
+6m |
+| Hoc | ~ 50°
+| |
+= A
+7 Sp,
+
+jt BM
+
+Q.2a Determine the flexibility coefficients for the frame shown in figure below Ss
+
+coe
+1©
+3m ——— art
+
+wr’
+
+G, an
+--- page 2 ---
+Q.2b Using the coefficients de
+figure above and draw
+
+veloped in Q.2a above, Analyse the frame loaded as shown in
+BMD and tentative deflected shape.
+
+BOKN
+
+73m 3 mm
+
+ed parabolic arch of span 40m and central rise 5m is subjected
+at a distance of 10 m from left end. It is also subjected to udl
+
+r right half portion. Analyse the arch and draw BMD. Assume
+ies as a secant of slope.
+
+Q.3a The symmetrical two hing
+to a point load of 150 kN
+of intensity 20 kN/m ove
+that the MI of section var
+
+Q.3b Analyse the truss as shown in figure below using least work method and tabulate the
+forces developed in the members of the truss,
+
+EA= Constant
+NG
+
+ee
+
+pe. Note that support B settles down by 7.5
+mm and flexural rigidity is 48000 kN-m2. AB=4m,BC=CD=6m.
+
+q
+a | a
+A . D
+Ary ! aor Toni ay te al ey
+; D4
+Q.4b_ State and explain Castigliano’s theorem I and II ; 3
+Q.5a_ Determine the stiffness coefficients for the beam shown i figure below. Ss
+Note that AB = BC =8 mand flexural rigidity is constant.
+A B Le
+71 a 2
+4.
+q pom os
+--- page 3 ---
+Q.5b Using the coetficients developed in Q.5a above, Analyse the beam loaded as shown
+below and draw BMD and deflected shape.
+
+60 kN
+100 kN
+
+pa
+B m
+
+Q.6a Explain the step by step procedure for analysing indeterminate structures by force
+method
+Q.6b Analyse the beam loaded as shown in figure below by slope deflection method and
+draw BMD and deflected shape. EI = constant.
+60 kN
+
+| 8 10 KN/m
+ad <0
+}~-—— 3m + 3am sie 6m \*
+“Tt rm ved
+
+Q.7 Analyse the frame loaded as‘shown in figure below by moment distribution method
+and draw BMD and tentative deflected shape.
+
+40 kN/m
+2 coon from 3
+
+€
+N
+E
+60 KN oO
+E
+q ered
+
+x
+
+B%
+
+2
+
+tte)
+
+Ja
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper 64f2654bf89d
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/STRUCTURAL ANALYSIS II/Structural Analysis II Batch 2014-15 Re Exam_64f2654bf8.pdf`
+- Printed on paper: exam date: 08/06/2015
+- Text: ocr (3 pages), mean OCR confidence 59.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+\
+: MUKESH PATEL SCHOOL OF WGINEERING
+Programme: MBA Tech (CIVIL) Year:IIl Semester: V
+Academic Year: 2014-15
+| Batch:2014-15
+: Subject : Structural Analysis -II
+Date : 08/06/2015
+Re-Examination
+Instructions: Candidates should read carefully the. instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use. .
+NB: oe
+1. Question no. 1 is is compulsory and ¢ out of remaining equenions, attempt any 4 questions.
+2. Assume suitable data wherever required and state it clearly. -
+3. Answer to the new question te bestarted on a fresh page.
+4. Figures in the brackets on the right hand side indicate full marks.
+‘Q.Ja Determine the static indeterminacy (external, internal and total) and kinematic
+indeterminacy (including and ‘excluding 2 axial deformations) for the structures shown
+below. . ‘ F
+Q.1b Determine the horizontal displacement of the roller support B for the frame as shown
+in figure 2. Take depth of the member as 250 mm and a = 12x10 /°C. &
+Q.2a Determine the flexibility coefficients for the frame shown in figure 3. 5
+Q.2b_ Using the coefficients developed in Q.2a above, Analyse the frame loaded as shown in
+figure 4 and draw BMD and tentative deflected shape. -
+Q.3a_ The symmetrical two hinged parabolic atch of span 50m and central rise 6m is subjected
+to two point loads of 150 KN each acting at a distance of 10 m and 20 m from right end.
+Itis also subjected toa uniformly distributed load of magnitude 20 kN/m over left half
+portion. Analyse the arch and draw BMD. 6
+Q.3b Analyse the truss as shown in figure 5 using least work ee and tabulate the forces
+developed in the members of the truss. &
+Q4a_ Analyse the beam as shown in figure 6 using Clapeyron’s three moment theorem and
+draw BMD and tentative deflected sha ape. q
+Q.4b State and explain Castigliano’s theorem I and II 3--
+Q.5a Determine the stiffness coefficicnts for the beam shown in figure 7. 5
+Q.5b Using the coefficients developed in Q.5a above, Analyse the beam loaded as shown in
+figure 8 and draw BMD and deflected shape. +
+_ Q.6a Explain the step by step procedure for analysing indeterminaté structures by ‘force
+method ; De
+2.6b Analyse the beam loaded as shown in figure 9 by slope deflection method and draw
+a BMD and deflected shape. io
+
+Q.7 Analyse the frame loaded as shown in figure 10 by moment distribution method and
+draw BMD and tentative deflected shape. \2-
+--- page 2 ---
+j : A ES “ A. |
+3 ~ | |
+C1) | |
+| | |
+| ||
+Ci) 7 a 77
+, Cin )
+Fiiguze
+| +e0c
++60%. |
+6M
+ro) i3)
+AOC] ISS 4 1S'e | +ede
+rN Figure -2
+a AP
+E 6m oy
+1c) _ 730 KN |)
+( QE p- @ ner
+© 3N)
+--- page 3 ---
+Figure 6
+® @ @
+y C™ ™% CX
+Keg Ker A er A
+4 6) = Sig ax
+Figuye +
+50 oo
+20 KN|) | ;
+NPE exer k Et Et= 1000 "0
+— Su up cope D
+~+S2- Bm 25" or cates down bY
+\2Ty),
+Figure &
+SO KN } ry) 69, ae
+waves ecccag mano +
+eT f EL 7S QEL id
+- ALYY) —— A Y — BINA 3m) Hy
+Figure 9
+ISKN |
+Q0\KN_ _ppeackeacennccay 7
+er 4 f
+. 6)
+an . |
+Ey | Figure \
+|
+V7 a Ro 3
+W. ga
+po Bm
 ````

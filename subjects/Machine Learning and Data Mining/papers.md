@@ -115,6 +115,7 @@ boundaries for models.
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/MACHINE LEARNING AND DATA MINING/Machine Learning and Data Mining Batch 2023-24 Re Exam0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 86.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -161,13 +162,11 @@ e ®
 oes “eo , O& ae °
 054 ; eo °,.6 Or) Se
 ° 3 & “of &,
-° e ° e e e e
 ww “ Ff. % °
 ee eo gts *, 2% 8
 © Fo BoB? 2 «
 “057 hee os Pe) °e
 
-T T r T T T T T r
 -15   -1.0 -0.5 0.0 0.5 10 15 2.0 2.5
 
 Note: Obviously the above data looks very non-linear. Hence looks like a logistic regression will not work

@@ -693,6 +693,7 @@ CO-3; SO-   MinPts Parameter in DBSCAN. Explain the steps used to identify core 
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/MACHINE LEARNING AND ALGORITHMS/Machine Learning Algorithms Batch 2024-25,2025-26 Re Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; exam date: 13th July 2026
 - Text: ocr (4 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ss SVKM’S NMIMS
@@ -726,7 +727,6 @@ fi —
 a Answer briefly: (20] We
 CO-1;SO- | 2. | Explain the concepts of underfitting and overfitting in machine learning with 5
 2; BL-2 suitable examples.
-co3-; SO- |b a ee a
 2 BL-2 How do Logistic Regression and SVM differ in handling classification problems? | 5
 CO-3 ; SO- | c. co . : Pe -
 2+ BL-4 Distinguish between regression trees and classification trees. 5

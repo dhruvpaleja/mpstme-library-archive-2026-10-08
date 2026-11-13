@@ -2,245 +2,6 @@
 
 Answer keys and model answers published on the portal, newest first.
 
-## 2025-26 · Final-Exam · Sem 5 · Answer key · paper 4bde110b9667
-
-- Departments: Civil, Computer Engineering, Cyber Security, Information Technology, Mechanical
-- Programmes: BTech Civil 7005, BTech Computer 7002, BTech CyberSecurity 7010, BTech IT 7001, BTech Mechanical 7003, MBATech Computer 7047
-- Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Civil_7005/QUANTUM COMPUTING AND TECHNOLOGIES/ANS_QUANTUM COMPUTING AND TECHNOLOGIES(702BS0I020)_2025-2026.pdf` (+5 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: mixed (11 pages)
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year:2024-2025
-Programme: B. Tech (AI)/B. Tech (CIVIL)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech   Year: ___
-(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)
-Semester:
-Year: III/Semester V(Exam Year: NA)
-Subject: QUANTUM COMPUTING AND TECHNOLOGIES   _________
-Date: NA   Time: NA to NA (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 1 pages.
-2. Question No. 1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1
-Answer briefly:   [20]
-a.   𝑖   3
-Find the norm of the vector: |𝜓⟩= |0⟩+ √ |1⟩, if a measurement is made
-2   2
-CO-1 ; BL-   [4]
-1,2   what is the probability that we find the qubit in the state |0⟩ and |1⟩.
-Norm=1 [1] probability finding 1.5x2=3
-b.   1   2
-Suppose |𝜓⟩= |0⟩+ √ |1⟩
-√3   3
-Using the projection operators P0 and P1, indicate the probability of finding
-|0>and the probability of finding |1> when a measurement is made.
-CO- 1; BL-   [4]
-1,2
-Each probability 2x2=4
-CO- 2; BL-   c.   Write down the fourth postulate of Quantum Mechanics.   [4]
-1,2
---- page 2 ---
-The time evolution of a closed (i.e., physically isolated) quantum system is
-governed by the Schrodinger equation.
-H is an operator called the Hamiltonian of the system. This operator corresponds
-to the total energy of the system. The possible energies the system are the
-eigenvalues of the H operator. The time evolution of a quantum state is governed
-by the unitary operator.
-Explanation 3+ Equation-1
-d.   Draw the circuit diagram to prepare three qubit logical state with single error.
-Explain why the error in more than one qubit is small compared to the error in
-one.
-CO- 1,2;   [4]
-BL-1,2
-Circuit with explanation –[3]
-Single-qubit errors occur with probability p. Multi-qubit errors occur with
-probability O(p2) or O(p3). [1]
-e.   Define ion traps. Explain the principle with appropriate diagram.
-An ion trap is a device that confines charged particles (ions) using electric
-and/or magnetic fields. It is widely used in quantum computing and precision
-CO- 2; BL-   measurements.Ions are trapped by balancing electric and magnetic forces so   [4]
-1,2
-that they remain confined near the trap center. Time-varying (RF) or static
-fields create a potential well that holds the ions in space.
-Definition=3+Diagram 1
-Q2   [20]
-a.   Describe quantum entanglement given by Albert Einstein, Boris Podolsky and
-CO- 2,3,   Nathan Rosen. Write down the four Bell states. When is a state entangled?   [8]
-4; BL- 1,2   Entanglement-4
---- page 3 ---
-[2]
-This state is separable if and only if
-ad = bc .   [2]
-b.   Suppose that A is a projection operator in H1 where A=|0><0| and B is a
-projection operator in H2 where B =|1><1|. Find A⊗B|ψ> where
-CO-1,2;   [3]   [8]
-BL- 3,4
---- page 4 ---
-[3]
-[2]
-c.   State any four basic requirements for quantum computation.
-1. A scalable physical system with well-characterized qubits,
-2. The ability to initialize the state of the qubits to a simple reliable
-CO-2,   state (|000...)),
-[4]
-BL-1,2   3. Long decoherence times, much longer than the gate operation
-time,
-4. A universal set of quantum gates.
-5. A qubit-specific measurement capability.
-Q3   [20]
-a.   3 ⁄   0
-Consider the matrix ( 4   ) , compute the components of the Bloch
-0   1 ⁄
-4
-vector.
-CO- 2,3,
-[8]
-4; BL-3-4   Sx=0, Sy=0, Sz=1/2
-Since |S|< 1, we conclude that this density matrix represents a mixed state.
-For each component 3x2=6
-For inference of mixed or pure state=1+1
-b.   Suppose that {|u1> , |u2> , |u3>} is an orthonormal basis for a three-
-dimensional Hilbert space.
-A system is in
-CO-1,   the state
-[8]
-BL-5-6
-Is this state normalized?
---- page 5 ---
-[4]
-The state
-is measured in the basis (also called the Hadamard basis). What is
-the probability of obtaining |−⟩ as the measurement result?
-[4]
-CO-2,   c.   Explain the construction of pulsed liquid NMR system.
-[4]
-BL-3,4   Basic Principle [2]+qubit [2]
-Q4   [20]
-a.   (i) Write down the key properties of the density operator for the mixed state and
-CO-1,2;   explain projective measurement.   [4]
-(ii) Find out the expectation value of an observable A with respect to |ψ> in terms [8]
-BL-1,2
-of the projection operator.   [4]
-CO-1,2,4:   b.   (i) Suppose that a statistical mixture has 75% in the |+> state and 25% in the |−>
-state. A member of the ensemble is drawn. What are the probabilities of finding [8]
-BL-5,6
-it in the |0> state and |1> state, respectively?
---- page 6 ---
-(ii)Show that it is a mixed state and that this calculation doesn’t depend on the
-basis we use.
-(iii)Contrast the statistical mixture with 75% of the systems in the |+> state and
-25% of the systems in the |−> state, with pure state
-|𝜓⟩= √3 |+⟩+ √1 |−⟩
-4   4
-Write down the probability that a measurement of the pure state |ψ>
-finds the system in |0>.
-The density operator for the ensemble is given by
-The respective probabilities are
-[3]
-In the {|+>,|−>} basis the density matrix is
---- page 7 ---
-[3]
-Therefore the probability that a measurement finds |ψ> in the state |0> is 0.85
-[2]
-c.   Explain how CNOT operation can be implemented in NMR with diagram.
-CO-2,
-[4]
-BL-3,4
-Diagram-[2]+Explanation [2]
-Q5   [20]
-a.   (i) Explain qualitatively how interaction with the environment can cause
-decoherence and introduce quantum errors.   [2]
-(ii) Consider a single physical qubit initially in the state
-∣ψ⟩=α∣0⟩+β∣1⟩. If this qubit undergoes a bit-flip error, write down the resulting
-state. Similarly, show the transformed states for a phase-flip and a bit-phase-flip
-error.
-CO-1,2,4;   A similar type of error can affect qubits, where we have   and .   [8]
-BL-3,4   This type of error is described by the X   operator.
-In quantum systems, bit flip errors are not the only problem that we can
-encounter. We can also have phase flip errors. Phase flip error is described by
-the Z Pauli operator. We recall that Z acts on a qubit in the following way
---- page 8 ---
-The Y operators is related to a phase flip followed by a bit flip.
-3x[2]=[6]
-b.   Alice creates an 8-bit string If Bob randomly measures in the following order
-using the bases {|0>,|1>}{|0> , |1>}{|±>|±>}|±>|0>,|1>|±>|±> describe the bit
-string that Alice and Bob keep.
-CO-1,2;
-[8]
-BL-3,4
-Table-4
-Explanation-4
-c.   Prove that the set |𝑎⟩= (1 2) , |𝑏⟩= (−1 ) , |𝑐⟩= (5 4) is linearly
-1
-dependent.
-We can show that |c   can be expressed as a linear combination of the other
-two vectors. Let’s
-CO-1,2;   start out by writing |c as some arbitrary combination of the other two vectors:
-[4]
-BL-5,6
-[2]+[2]
-Q6   [20]
-a.   Explain how information content and entropy is related.
-CO-3,4:   Statement-[2]
-[8]
-BL-1,2   Mathematical expression with explanation-[4]
-Diagram-[2]
-CO-1,2;   b.   1 ⁄   1 ⁄
-Calculate the entropy of the state ( 2   4 ).   [8]
-BL-3,4   1 ⁄   1 ⁄
-4   2
---- page 9 ---
-[4]
-[4]
-c.   Find out the output for for all input combinations
-CO-1,2;
-[4]
-BL-5,6
-For each input 1x4=[4]
-Q7   [20]
-a.   Explain Deutsch-Jozsa Algorithm with complete circuit diagram.
-CO-3,4;
-Definition of constant and balanced function-2   [8]
-BL-1,2   Circuit diagram-2
-Each step operation-4
-b.   (i) Write down the output for following operation
-1. qc.h(0)
-CO-3,4;
-2. qc.cx(0,1)   [8]
-BL-3,4
-3. qc.x(1)
-[3]
---- page 10 ---
-Draw the circuit diagram to obtain the above state.
-[1]
-(ii) Write down the output state for the following circuit for all possible
-inputs.
-For each operation 1x4=4
-c. A two qubit system is in the state |𝜙⟩= √3 |00⟩+ 1 |11⟩. A Y gate is applied to
-2   2
-the first qubit. After this is done, what are the possible measurement results if
-both qubits are measured, and what are the respective probabilities of each
-measurement result? Eigen vectors of the
-matrix are given by
-CO-1,2;
-[4]
-BL-1,2
-[4]+[4]
---- page 11 ---
-
-````
-
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 1a07f0c45fe5
 
 - Departments: Computer Engineering
@@ -2242,4 +2003,243 @@ Show that ρ is Hermitian and has positive eigenvalues that satisfy 0 < λi < 1 
 The trace of this matrix is zero, so <X>=0.
 Part a-1M, Partb-1M, Partc-2M
 ********** 11 **********
+````
+
+## 2024-25 · Final-Exam · Sem 5 · Answer key · paper 4bde110b9667
+
+- Departments: Civil, Computer Engineering, Cyber Security, Information Technology, Mechanical
+- Programmes: BTech Civil 7005, BTech Computer 7002, BTech CyberSecurity 7010, BTech IT 7001, BTech Mechanical 7003, MBATech Computer 7047
+- Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Civil_7005/QUANTUM COMPUTING AND TECHNOLOGIES/ANS_QUANTUM COMPUTING AND TECHNOLOGIES(702BS0I020)_2025-2026.pdf` (+5 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: mixed (11 pages)
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year:2024-2025
+Programme: B. Tech (AI)/B. Tech (CIVIL)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech   Year: ___
+(EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)
+Semester:
+Year: III/Semester V(Exam Year: NA)
+Subject: QUANTUM COMPUTING AND TECHNOLOGIES   _________
+Date: NA   Time: NA to NA (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 1 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:   [20]
+a.   𝑖   3
+Find the norm of the vector: |𝜓⟩= |0⟩+ √ |1⟩, if a measurement is made
+2   2
+CO-1 ; BL-   [4]
+1,2   what is the probability that we find the qubit in the state |0⟩ and |1⟩.
+Norm=1 [1] probability finding 1.5x2=3
+b.   1   2
+Suppose |𝜓⟩= |0⟩+ √ |1⟩
+√3   3
+Using the projection operators P0 and P1, indicate the probability of finding
+|0>and the probability of finding |1> when a measurement is made.
+CO- 1; BL-   [4]
+1,2
+Each probability 2x2=4
+CO- 2; BL-   c.   Write down the fourth postulate of Quantum Mechanics.   [4]
+1,2
+--- page 2 ---
+The time evolution of a closed (i.e., physically isolated) quantum system is
+governed by the Schrodinger equation.
+H is an operator called the Hamiltonian of the system. This operator corresponds
+to the total energy of the system. The possible energies the system are the
+eigenvalues of the H operator. The time evolution of a quantum state is governed
+by the unitary operator.
+Explanation 3+ Equation-1
+d.   Draw the circuit diagram to prepare three qubit logical state with single error.
+Explain why the error in more than one qubit is small compared to the error in
+one.
+CO- 1,2;   [4]
+BL-1,2
+Circuit with explanation –[3]
+Single-qubit errors occur with probability p. Multi-qubit errors occur with
+probability O(p2) or O(p3). [1]
+e.   Define ion traps. Explain the principle with appropriate diagram.
+An ion trap is a device that confines charged particles (ions) using electric
+and/or magnetic fields. It is widely used in quantum computing and precision
+CO- 2; BL-   measurements.Ions are trapped by balancing electric and magnetic forces so   [4]
+1,2
+that they remain confined near the trap center. Time-varying (RF) or static
+fields create a potential well that holds the ions in space.
+Definition=3+Diagram 1
+Q2   [20]
+a.   Describe quantum entanglement given by Albert Einstein, Boris Podolsky and
+CO- 2,3,   Nathan Rosen. Write down the four Bell states. When is a state entangled?   [8]
+4; BL- 1,2   Entanglement-4
+--- page 3 ---
+[2]
+This state is separable if and only if
+ad = bc .   [2]
+b.   Suppose that A is a projection operator in H1 where A=|0><0| and B is a
+projection operator in H2 where B =|1><1|. Find A⊗B|ψ> where
+CO-1,2;   [3]   [8]
+BL- 3,4
+--- page 4 ---
+[3]
+[2]
+c.   State any four basic requirements for quantum computation.
+1. A scalable physical system with well-characterized qubits,
+2. The ability to initialize the state of the qubits to a simple reliable
+CO-2,   state (|000...)),
+[4]
+BL-1,2   3. Long decoherence times, much longer than the gate operation
+time,
+4. A universal set of quantum gates.
+5. A qubit-specific measurement capability.
+Q3   [20]
+a.   3 ⁄   0
+Consider the matrix ( 4   ) , compute the components of the Bloch
+0   1 ⁄
+4
+vector.
+CO- 2,3,
+[8]
+4; BL-3-4   Sx=0, Sy=0, Sz=1/2
+Since |S|< 1, we conclude that this density matrix represents a mixed state.
+For each component 3x2=6
+For inference of mixed or pure state=1+1
+b.   Suppose that {|u1> , |u2> , |u3>} is an orthonormal basis for a three-
+dimensional Hilbert space.
+A system is in
+CO-1,   the state
+[8]
+BL-5-6
+Is this state normalized?
+--- page 5 ---
+[4]
+The state
+is measured in the basis (also called the Hadamard basis). What is
+the probability of obtaining |−⟩ as the measurement result?
+[4]
+CO-2,   c.   Explain the construction of pulsed liquid NMR system.
+[4]
+BL-3,4   Basic Principle [2]+qubit [2]
+Q4   [20]
+a.   (i) Write down the key properties of the density operator for the mixed state and
+CO-1,2;   explain projective measurement.   [4]
+(ii) Find out the expectation value of an observable A with respect to |ψ> in terms [8]
+BL-1,2
+of the projection operator.   [4]
+CO-1,2,4:   b.   (i) Suppose that a statistical mixture has 75% in the |+> state and 25% in the |−>
+state. A member of the ensemble is drawn. What are the probabilities of finding [8]
+BL-5,6
+it in the |0> state and |1> state, respectively?
+--- page 6 ---
+(ii)Show that it is a mixed state and that this calculation doesn’t depend on the
+basis we use.
+(iii)Contrast the statistical mixture with 75% of the systems in the |+> state and
+25% of the systems in the |−> state, with pure state
+|𝜓⟩= √3 |+⟩+ √1 |−⟩
+4   4
+Write down the probability that a measurement of the pure state |ψ>
+finds the system in |0>.
+The density operator for the ensemble is given by
+The respective probabilities are
+[3]
+In the {|+>,|−>} basis the density matrix is
+--- page 7 ---
+[3]
+Therefore the probability that a measurement finds |ψ> in the state |0> is 0.85
+[2]
+c.   Explain how CNOT operation can be implemented in NMR with diagram.
+CO-2,
+[4]
+BL-3,4
+Diagram-[2]+Explanation [2]
+Q5   [20]
+a.   (i) Explain qualitatively how interaction with the environment can cause
+decoherence and introduce quantum errors.   [2]
+(ii) Consider a single physical qubit initially in the state
+∣ψ⟩=α∣0⟩+β∣1⟩. If this qubit undergoes a bit-flip error, write down the resulting
+state. Similarly, show the transformed states for a phase-flip and a bit-phase-flip
+error.
+CO-1,2,4;   A similar type of error can affect qubits, where we have   and .   [8]
+BL-3,4   This type of error is described by the X   operator.
+In quantum systems, bit flip errors are not the only problem that we can
+encounter. We can also have phase flip errors. Phase flip error is described by
+the Z Pauli operator. We recall that Z acts on a qubit in the following way
+--- page 8 ---
+The Y operators is related to a phase flip followed by a bit flip.
+3x[2]=[6]
+b.   Alice creates an 8-bit string If Bob randomly measures in the following order
+using the bases {|0>,|1>}{|0> , |1>}{|±>|±>}|±>|0>,|1>|±>|±> describe the bit
+string that Alice and Bob keep.
+CO-1,2;
+[8]
+BL-3,4
+Table-4
+Explanation-4
+c.   Prove that the set |𝑎⟩= (1 2) , |𝑏⟩= (−1 ) , |𝑐⟩= (5 4) is linearly
+1
+dependent.
+We can show that |c   can be expressed as a linear combination of the other
+two vectors. Let’s
+CO-1,2;   start out by writing |c as some arbitrary combination of the other two vectors:
+[4]
+BL-5,6
+[2]+[2]
+Q6   [20]
+a.   Explain how information content and entropy is related.
+CO-3,4:   Statement-[2]
+[8]
+BL-1,2   Mathematical expression with explanation-[4]
+Diagram-[2]
+CO-1,2;   b.   1 ⁄   1 ⁄
+Calculate the entropy of the state ( 2   4 ).   [8]
+BL-3,4   1 ⁄   1 ⁄
+4   2
+--- page 9 ---
+[4]
+[4]
+c.   Find out the output for for all input combinations
+CO-1,2;
+[4]
+BL-5,6
+For each input 1x4=[4]
+Q7   [20]
+a.   Explain Deutsch-Jozsa Algorithm with complete circuit diagram.
+CO-3,4;
+Definition of constant and balanced function-2   [8]
+BL-1,2   Circuit diagram-2
+Each step operation-4
+b.   (i) Write down the output for following operation
+1. qc.h(0)
+CO-3,4;
+2. qc.cx(0,1)   [8]
+BL-3,4
+3. qc.x(1)
+[3]
+--- page 10 ---
+Draw the circuit diagram to obtain the above state.
+[1]
+(ii) Write down the output state for the following circuit for all possible
+inputs.
+For each operation 1x4=4
+c. A two qubit system is in the state |𝜙⟩= √3 |00⟩+ 1 |11⟩. A Y gate is applied to
+2   2
+the first qubit. After this is done, what are the possible measurement results if
+both qubits are measured, and what are the respective probabilities of each
+measurement result? Eigen vectors of the
+matrix are given by
+CO-1,2;
+[4]
+BL-1,2
+[4]+[4]
+--- page 11 ---
+
 ````

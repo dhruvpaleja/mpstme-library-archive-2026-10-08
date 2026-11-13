@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AIDS 7056, BTech Computer 7002, MBATech Computer 7047 | ANS_French(702BS0I015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech AIDS 7056, BTech Computer 7002, MBATech Computer 7047 | QP_French(702BS0I015)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech AIDS 7056 | ANS_French(702BS0I015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AIDS 7056, BTech Computer 7002, MBATech Computer 7047 | ANS_French(702BS0I015)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech AIDS 7056 | QP_French(702BS0I015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech AIDS 7056 | ANS_French(702BS0I015)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH, MBA TECH | French, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / CSE Data Science (311) | French, Sem VI, Final Exam 2024-25.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE CYBER SECURITY, B TECH / CSE DATA SCIENCE (311), B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / MECHANICAL, B TECH / MECHATRONICS, MBA TECH | French , Final 2023-2024.pdf |

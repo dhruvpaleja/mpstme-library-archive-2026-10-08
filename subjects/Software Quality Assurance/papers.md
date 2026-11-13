@@ -1690,6 +1690,78 @@ c)   White Box testing techniques
 d)   Software quality product metrics
 ````
 
+## 2017-18 · Re-Exam · Sem 8 · paper 9a977cc5697d
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VIII SEMESTER/SOFTWARE QUALITY ASSURANCE/Software Quality Assurance 2015-16 Re-exam_9a977cc569.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 April 2018
+- Text: ocr (1 page), mean OCR confidence 90.0
+
+````text
+an 9
+SVKM’s NMIMS ~ EE
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEM fc ENGINEERE C
+7 XY y ; fe
+Programme: MBA Tech ( Computer) Year:IV = mm ‘Semester: VIII
+Academic Year: 2017-2018 Ss Se ee
+
+PAs gre rts?
+
+Subject: Software Quality Assurance
+Marks: 60
+
+Date: 11 April 2018 Time: 2.00 pm - 5.00 pm
+Durations: 3 Hrs.
+
+No. of Pages :_ 4.
+Re-Examination (2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+>
+
+Q.1.a) List any six Principles of Total Quality Management. 6
+b) Explain the testing during SDLC. 6
+Q2. a) What are the Salient Features of Good Testing. 6
+b) What are the skills required by a Tester? ; 6
+Q.3 a) Explain the different approaches of Software Testing. 6
+b) Explain the configuration management planning in detail. 6
+Q.4 Write a short note on any three of the following 12
+; i) Baseline
+
+ii) V- Model of Software Testing
+iii) Verification Work Bench
+
+iv) Risks due to Software System
+Q.5.a) What are the levels of Validation? 4
+
+b) What is an Acceptance testing with significance of Alpha, Beta & Gamma Testing 8
+
+Q.6.a) Explain the Need for Test Process Improvement. 6
+
+b) Problems concerned in Testing Process Improvements. 6 -
+Q.7.a) Explain the constraints of Software Product Quality Assessment. 6
+
+b) Explain the Cycle of Configuration Management Process. 6
+
+ot/4
+````
+
 ## 2016-17 · Final-Exam · Sem 7 · paper ec625485e716
 
 - Departments: Information Technology
@@ -2059,78 +2131,6 @@ b) How is testing performed during each stage of SDLC? (6)
 items specified in the test plan and test report document.
 
 t/
-````
-
-## 2015-16 · Re-Exam · Sem 8 · paper 9a977cc5697d
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VIII SEMESTER/SOFTWARE QUALITY ASSURANCE/Software Quality Assurance 2015-16 Re-exam_9a977cc569.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 April 2018
-- Text: ocr (1 page), mean OCR confidence 90.0
-
-````text
-an 9
-SVKM’s NMIMS ~ EE
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEM fc ENGINEERE C
-7 XY y ; fe
-Programme: MBA Tech ( Computer) Year:IV = mm ‘Semester: VIII
-Academic Year: 2017-2018 Ss Se ee
-
-PAs gre rts?
-
-Subject: Software Quality Assurance
-Marks: 60
-
-Date: 11 April 2018 Time: 2.00 pm - 5.00 pm
-Durations: 3 Hrs.
-
-No. of Pages :_ 4.
-Re-Examination (2015-16)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
->
-
-Q.1.a) List any six Principles of Total Quality Management. 6
-b) Explain the testing during SDLC. 6
-Q2. a) What are the Salient Features of Good Testing. 6
-b) What are the skills required by a Tester? ; 6
-Q.3 a) Explain the different approaches of Software Testing. 6
-b) Explain the configuration management planning in detail. 6
-Q.4 Write a short note on any three of the following 12
-; i) Baseline
-
-ii) V- Model of Software Testing
-iii) Verification Work Bench
-
-iv) Risks due to Software System
-Q.5.a) What are the levels of Validation? 4
-
-b) What is an Acceptance testing with significance of Alpha, Beta & Gamma Testing 8
-
-Q.6.a) Explain the Need for Test Process Improvement. 6
-
-b) Problems concerned in Testing Process Improvements. 6 -
-Q.7.a) Explain the constraints of Software Product Quality Assessment. 6
-
-b) Explain the Cycle of Configuration Management Process. 6
-
-ot/4
 ````
 
 ## 2015-16 · Re-Exam · Sem 8 · paper 017331057ff5

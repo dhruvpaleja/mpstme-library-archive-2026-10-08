@@ -1,6 +1,6 @@
 # Online Marketing: question papers in full
 
-8 unique papers · 2013-14 to 2018-19 · Common (all branches)
+8 unique papers · 2012-13 to 2018-19 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -510,7 +510,7 @@ fh
 your product?
 ````
 
-## Year not stated · Exam not stated · Trim 15 · paper 2f7296de8b3d
+## 2012-13 · Exam not stated · Trim 15 · paper 2f7296de8b3d
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH

@@ -760,6 +760,94 @@ BL-4; U3 : |
 2|Page
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper a5c0fa697fb2
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/GAME DESIGN/Game Design.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2022-2023
+
+Program/s: B.tech/MBA Tech Stream/s: ALL Streams Year: III Semester: V#
+
+Subject: Game Design Time: 03 hrs (40:00amto 4:00pm)
+Date:_O4 / 05 / 2023 No. of Pages: 2
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [20]
+CO-1; a.
+SO-6; Define Game and importance of Game design in real world? 5
+BL-1
+CO-2; b.
+SO-6; Discuss the benefits of Paper prototyping? 5
+BL-2
+CO-3; & —
+SO-6; What is the role of Object Oriented thinking in GD? 5
+BL-2
+CO-4; d. ;
+SO-6; Why visualization required for communicating your design? 5
+BL-4
+
+A What are Four key elements of Business of Game Publishing? Discuss in
+
+Q2
+
+detail?
+CO-1,2; [20]
+SO-6; B Explain Paper Prototyping and what are the best Approach to use paper
+BL-2,3 prototyping?
+Q3 A Why framework is important in game design? Differentiate between MDD
+CO-1,2; and FDD framework. [20]
+er B Define Game and differentiate all type of play?
+--- page 2 ---
+Q4 A Why Unity is used in game design and discuss any 5 features of Unity that
+
+CO-2.3: is most important for game design?
+SO-6: > 1B With the help of one example, explain the classic stages of creativity of [20]
+BL-2 conceptualization in detail?
+Q5 A Discuss the components of C# language: a) Boolean Operation b)
+CO-2,3; Conditional Statement C)Loops d) Functions ; [20]
+SO-6;
+BL-2,3 B Explain playtesting and ways of playtesting in detail?
+06 A Discuss any two forms of Communicating your design with help of one
+C0-3.4: example in each? 20)
+SO-; B Why Design document is important? Design & apply the GDD with the
+BL-1,2
+help of one example?
+A With the help of any game, discuss Objects, properties and behavior in
+Q7 Game design?
+CO-3,4; [20]
+SO-6;
+
+BL-1,2 B Discuss Layered Tetrad framework with the help of example?
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 2d79b528ad50
 
 - Departments: Common (all branches)
@@ -864,92 +952,4 @@ BL-4:U3 game scenario.
 cans
 
 2|Pageof2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper a5c0fa697fb2
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/GAME DESIGN/Game Design.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-
-Program/s: B.tech/MBA Tech Stream/s: ALL Streams Year: III Semester: V#
-
-Subject: Game Design Time: 03 hrs (40:00amto 4:00pm)
-Date:_O4 / 05 / 2023 No. of Pages: 2
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [20]
-CO-1; a.
-SO-6; Define Game and importance of Game design in real world? 5
-BL-1
-CO-2; b.
-SO-6; Discuss the benefits of Paper prototyping? 5
-BL-2
-CO-3; & —
-SO-6; What is the role of Object Oriented thinking in GD? 5
-BL-2
-CO-4; d. ;
-SO-6; Why visualization required for communicating your design? 5
-BL-4
-
-A What are Four key elements of Business of Game Publishing? Discuss in
-
-Q2
-
-detail?
-CO-1,2; [20]
-SO-6; B Explain Paper Prototyping and what are the best Approach to use paper
-BL-2,3 prototyping?
-Q3 A Why framework is important in game design? Differentiate between MDD
-CO-1,2; and FDD framework. [20]
-er B Define Game and differentiate all type of play?
---- page 2 ---
-Q4 A Why Unity is used in game design and discuss any 5 features of Unity that
-
-CO-2.3: is most important for game design?
-SO-6: > 1B With the help of one example, explain the classic stages of creativity of [20]
-BL-2 conceptualization in detail?
-Q5 A Discuss the components of C# language: a) Boolean Operation b)
-CO-2,3; Conditional Statement C)Loops d) Functions ; [20]
-SO-6;
-BL-2,3 B Explain playtesting and ways of playtesting in detail?
-06 A Discuss any two forms of Communicating your design with help of one
-C0-3.4: example in each? 20)
-SO-; B Why Design document is important? Design & apply the GDD with the
-BL-1,2
-help of one example?
-A With the help of any game, discuss Objects, properties and behavior in
-Q7 Game design?
-CO-3,4; [20]
-SO-6;
-
-BL-1,2 B Discuss Layered Tetrad framework with the help of example?
 ````

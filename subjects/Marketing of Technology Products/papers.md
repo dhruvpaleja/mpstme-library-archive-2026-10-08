@@ -734,6 +734,124 @@ communication tools available.
 ********** 3 **********
 ````
 
+## 2023-24 · Exam not stated · Sem 10 · paper b9e838653693
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/MARKETING OF TECHNOLOGY PRODUCTS/Marketing of Technology Products.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT.
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: MBA TECH Year: 2025-04 Semester: X
+Stream/s; All Streams
+
+Subject: Marketing of Technology Products : Time: 2 hrs (2toopmto H200pm)
+Date:_27 /4 /24 No. of Pages: 2
+
+Marks:50
+
+Final Examination 2023-24
+
+1) Figures in brackets on the right-hand side indicate full marks.
+2) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+
+CO- 1; a.
+SO-1 ; ; ;
+BL- Describe the common characteristics of High-Tech environment 2
+
+Understan
+d
+
+Co- 1; b.
+
+SO- 1;
+
+BL- Provide the three sources of Marketing Myopia in High Tech Market 2
+Understan
+
+d
+
+CO- 2; c. .
+SO- 2;
+
+> BL-
+Apply
+
+Explain the difference between Architectural & Modular innovation 2
+
+So. = q What do you mean by Chasm and how is it related in high tech market
+
+BL- environment?
+Analyse
+
+CO-2 ; e
+SO- 3;
+BL- What is the triple bottom line?
+
+| Understan
+d
+
+Q2
+
+CO-2; What is Market Orientation in High Tech Markets? Provide its 4
+SO-2;
+BL-
+Apply
+
+[10]
+Dimensions
+--- page 2 ---
+$
+
+Q3
+
+CO-2; Consider any Industry & develop customer portfolio management strategy [10]
+
+cine considering CRM loyalty strategies.
+
+Analyse
+
+Q4
+
+meat What is the strategic marketing planning process in high-tech firms? t10]
+BL- , Explain the same with a Proper Diagram
+
+Evaluate
+
+Q5 Why do companies experience conflict between their Sales and their
+
+CO-2; Marketing Departments in the high-tech market? Explain various ways to
+
+SO-2; ; ; [10]
+BL- achieve better coordination between both, what are the benefits a company
+Evaluate can experience when Sales and Marketing work well together?
+
+Q6
+
+So Select an ethical dilemma faced by a high-tech company. Use the four-step f10)
+BL- , framework to analyse the issue and make a recommendation.
+
+Apply .
+
+Q7
+
+CO-2; When is pre-announcing most likely to be effective for a high-tech firm?
+
+SO-1; When is it most likely to cause problems? . [10]
+BL- ;
+
+Evaluate
+````
+
 ## 2021-22 · Final-Exam · Sem 10 · paper 42161fa6d427
 
 - Departments: Common (all branches)
@@ -1184,6 +1302,7 @@ Explain the emerging considerations in distribution for digital goods.
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/MARKETING OF TECHNOLOGY PRODUCTS/Marketing of Technology product 2014-15 Final.pdf`
 - Printed on paper: exam date: 12/05/2015
 - Text: ocr (1 page), mean OCR confidence 91.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1209,7 +1328,6 @@ NB:
 
 4) Assume Suitable data if necessary
 
-SAI gqueotrowo Covi equal mares ,
 
 Qi. Explain Moore’s Chasm Theory. Hllustrate using suitable smartphone
 examples.
@@ -1283,13 +1401,14 @@ Q3.2. Outline of the Approach in developing message for the Campaign
 ~~
 ````
 
-## 2013 · Re-Exam · Sem 10 · paper 9ec8c453497f
+## 2013-14 · Re-Exam · Sem 10 · paper 9ec8c453497f
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/MARKETING OF TECHNOLOGY PRODUCTS/Marketing of Technology Product 2013-4 Re-exam.pdf`
 - Printed on paper: exam date: 05/07/2014
 - Text: ocr (2 pages), mean OCR confidence 91.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1332,7 +1451,6 @@ Keeping some, debate blank can you fill up the dotted lines appropriately
 Critical Issue 1
 Chris Reed VP-Corp Steve Lesser VP Sales
 
-° Telesales support Field © eee ese eee +++
 ° Field sales call the shots
 
 sales—coldcalls = --------+~-----------~---------
@@ -1427,124 +1545,6 @@ Mobile Phones Electric Cars RFID Solutions for Retailers
 __——— ¥
 
 ee oe
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper b9e838653693
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/MARKETING OF TECHNOLOGY PRODUCTS/Marketing of Technology Products.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT.
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: MBA TECH Year: 2025-04 Semester: X
-Stream/s; All Streams
-
-Subject: Marketing of Technology Products : Time: 2 hrs (2toopmto H200pm)
-Date:_27 /4 /24 No. of Pages: 2
-
-Marks:50
-
-Final Examination 2023-24
-
-1) Figures in brackets on the right-hand side indicate full marks.
-2) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-
-CO- 1; a.
-SO-1 ; ; ;
-BL- Describe the common characteristics of High-Tech environment 2
-
-Understan
-d
-
-Co- 1; b.
-
-SO- 1;
-
-BL- Provide the three sources of Marketing Myopia in High Tech Market 2
-Understan
-
-d
-
-CO- 2; c. .
-SO- 2;
-
-> BL-
-Apply
-
-Explain the difference between Architectural & Modular innovation 2
-
-So. = q What do you mean by Chasm and how is it related in high tech market
-
-BL- environment?
-Analyse
-
-CO-2 ; e
-SO- 3;
-BL- What is the triple bottom line?
-
-| Understan
-d
-
-Q2
-
-CO-2; What is Market Orientation in High Tech Markets? Provide its 4
-SO-2;
-BL-
-Apply
-
-[10]
-Dimensions
---- page 2 ---
-$
-
-Q3
-
-CO-2; Consider any Industry & develop customer portfolio management strategy [10]
-
-cine considering CRM loyalty strategies.
-
-Analyse
-
-Q4
-
-meat What is the strategic marketing planning process in high-tech firms? t10]
-BL- , Explain the same with a Proper Diagram
-
-Evaluate
-
-Q5 Why do companies experience conflict between their Sales and their
-
-CO-2; Marketing Departments in the high-tech market? Explain various ways to
-
-SO-2; ; ; [10]
-BL- achieve better coordination between both, what are the benefits a company
-Evaluate can experience when Sales and Marketing work well together?
-
-Q6
-
-So Select an ethical dilemma faced by a high-tech company. Use the four-step f10)
-BL- , framework to analyse the issue and make a recommendation.
-
-Apply .
-
-Q7
-
-CO-2; When is pre-announcing most likely to be effective for a high-tech firm?
-
-SO-1; When is it most likely to cause problems? . [10]
-BL- ;
-
-Evaluate
 ````
 
 ## Year not stated · Exam not stated · Sem 10 · paper 84543ceefcc0

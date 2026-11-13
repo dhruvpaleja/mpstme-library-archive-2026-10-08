@@ -486,6 +486,125 @@ x
 x
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper a330c35c1d63
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/knowledge management/scan0002(20)(1).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 09/01/2013
+- Text: ocr (2 pages), mean OCR confidence 94.5
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineerin
+
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV
+Academic Year : 2012-2013
+
+Sf svKM's YY)
++ NMIMS University ) «
+
+Subject: KNOWLEDGE MANAGEMENT Marks: 50 3, MumbalSé. 5
+Time: 11.00 a.m
+Date: 09/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+Note:
+
+- Question | is compulsory which carries 20 marks.
+
+- Answer any TWO questions from the remaining three questions. Each question
+carries 15 marks.
+
+- There are four questions in all.
+
+Q1.Fairchild Semiconductor Corporation is a leading supplier of high-performance,
+multi-market semiconductors. The company’s products are used in a wide variety of
+microelectronics applications, including automotive, telecommunication, computer,
+peripheral, industrial and consumer products. Fairchild Semiconductor is a
+reincarnation of its former self. Founded in 1959, the company was purchased by
+Schlumberger in 1979, then by National Semiconductor in 1987. Fairchild
+Semiconductor reappeared on the industry scene in 1997 when the combined logic,
+non-volatile memory and discrete power and signal technologies businesses of
+National Semiconductor were purchased by private investors and launched as a new
+company.
+
+Jerry Baker, Executive Vice President and General Manager, has had a long history
+with Fairchild, extending back through its days as National Semiconductor. When ~
+National Semiconductor moved to a more team-oriented work environment, the
+executive team was forced to think about how information flowed through the
+organization. They were dismayed to realize that the company’s information flows
+were still directed at them, even though they were no longer responsible for day-to-
+day decision making. Until the company started to redirect its knowledge flows to
+reach the teams, it had not truly empowered them to do the work for which they had
+become responsible. Now that Baker is part of the executive team reinventing the
+newly spun-off Fairchild, he is once again thinking about what it means to treat
+information as an open resource that is accessible to those who need it.
+
+‘At Fairchild we continued the practices we had established at National
+Semiconductor. We carefully constructed an environment in which our employees
+could step up to empowerment. But then, several business crises forced us to switch
+to a command anid control leadership style for a period of time. That style completely
+contradicts the tenets of empowerment,’ recalls Baker. “There we were, shooting
+information to the guy at the top who shouted out orders that everyone followed. But
+eventually we were forced to take another look at what it means to share information
+that people can act on.’
+
+Vy
+--- page 2 ---
+For Baker, the experience reinforced his belief in information empowerment.
+Information empowerment is a full equation for information sharing. One half of the
+equation is getting the right information to the right people at the right time. That
+half involves making sure that information is a free-flowing, open resource. The
+other half of the equation is making sure that people can do something with the
+information when they get it. ‘Getting at the data turns out to be such a small part of
+the problem. Today, few problems go unsolved for lack of data,’ cautions Baker.
+‘Putting information in perspective is the real challenge.’ To put information in
+perspective companies must :
+
+e Create a common language and platform for information so that people can relate
+their actions to the results of the overall business;
+e Take the time to discuss not only results, but how specific actions led to them.
+
+“We are not talking about withholding information. We are talking about not
+overloading people with information. We are constantly working to make sure that
+the information that gets out is executable.’
+
+(a) What were the challenges faced by Fairchild Semiconductor Corporation in
+managing the information flow?
+
+(b) ‘While information must be an open resource, it does not mean simply opening
+the floodgates’. Discuss this in the context of the case.
+
+Q2.Provide an example of how each major KM cycle stage listed below can add value to
+knowledge and increase the strategic worth of the knowledge assets. Give examples.
+
+a. Capture
+b. Create
+c. Share
+d. Acquire
+e. Apply
+
+Q3. How would you interpret Knowledge Maturity in an organization and map it to
+processes that will achieve competitive advantage? Briefly describe a strategy to
+achieve the competitive edge through a knowledge management system.
+
+Q4. While managing critical information can enhance, government administrative
+operations, the mismanagement of that same information can contribute to serious
+lapses or points. of exposure. Keeping this in mind what strategies would be
+effective to enhance the productivity of the departments?
+
+As a consultant, you have been assigned the task of implementing knowledge
+
+¢ i management in a government department to improve the quality of service. Take
+any department and identify the knowledge assets and processes that would help
+them in improving their efficiency and image.
+
+2p,
+````
+
 ## 2009-10 · Exam not stated · Trim 14 · paper ae5473a1c4b4
 
 - Departments: Common (all branches)
@@ -662,123 +781,4 @@ from unknown places provide help when one seeks information. Is knowledge
 management therefore redundant in such a scenario? Discuss with illustrations.
 
 — ee
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper a330c35c1d63
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/knowledge management/scan0002(20)(1).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 09/01/2013
-- Text: ocr (2 pages), mean OCR confidence 94.5
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineerin
-
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV
-Academic Year : 2012-2013
-
-Sf svKM's YY)
-+ NMIMS University ) «
-
-Subject: KNOWLEDGE MANAGEMENT Marks: 50 3, MumbalSé. 5
-Time: 11.00 a.m
-Date: 09/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-Note:
-
-- Question | is compulsory which carries 20 marks.
-
-- Answer any TWO questions from the remaining three questions. Each question
-carries 15 marks.
-
-- There are four questions in all.
-
-Q1.Fairchild Semiconductor Corporation is a leading supplier of high-performance,
-multi-market semiconductors. The company’s products are used in a wide variety of
-microelectronics applications, including automotive, telecommunication, computer,
-peripheral, industrial and consumer products. Fairchild Semiconductor is a
-reincarnation of its former self. Founded in 1959, the company was purchased by
-Schlumberger in 1979, then by National Semiconductor in 1987. Fairchild
-Semiconductor reappeared on the industry scene in 1997 when the combined logic,
-non-volatile memory and discrete power and signal technologies businesses of
-National Semiconductor were purchased by private investors and launched as a new
-company.
-
-Jerry Baker, Executive Vice President and General Manager, has had a long history
-with Fairchild, extending back through its days as National Semiconductor. When ~
-National Semiconductor moved to a more team-oriented work environment, the
-executive team was forced to think about how information flowed through the
-organization. They were dismayed to realize that the company’s information flows
-were still directed at them, even though they were no longer responsible for day-to-
-day decision making. Until the company started to redirect its knowledge flows to
-reach the teams, it had not truly empowered them to do the work for which they had
-become responsible. Now that Baker is part of the executive team reinventing the
-newly spun-off Fairchild, he is once again thinking about what it means to treat
-information as an open resource that is accessible to those who need it.
-
-‘At Fairchild we continued the practices we had established at National
-Semiconductor. We carefully constructed an environment in which our employees
-could step up to empowerment. But then, several business crises forced us to switch
-to a command anid control leadership style for a period of time. That style completely
-contradicts the tenets of empowerment,’ recalls Baker. “There we were, shooting
-information to the guy at the top who shouted out orders that everyone followed. But
-eventually we were forced to take another look at what it means to share information
-that people can act on.’
-
-Vy
---- page 2 ---
-For Baker, the experience reinforced his belief in information empowerment.
-Information empowerment is a full equation for information sharing. One half of the
-equation is getting the right information to the right people at the right time. That
-half involves making sure that information is a free-flowing, open resource. The
-other half of the equation is making sure that people can do something with the
-information when they get it. ‘Getting at the data turns out to be such a small part of
-the problem. Today, few problems go unsolved for lack of data,’ cautions Baker.
-‘Putting information in perspective is the real challenge.’ To put information in
-perspective companies must :
-
-e Create a common language and platform for information so that people can relate
-their actions to the results of the overall business;
-e Take the time to discuss not only results, but how specific actions led to them.
-
-“We are not talking about withholding information. We are talking about not
-overloading people with information. We are constantly working to make sure that
-the information that gets out is executable.’
-
-(a) What were the challenges faced by Fairchild Semiconductor Corporation in
-managing the information flow?
-
-(b) ‘While information must be an open resource, it does not mean simply opening
-the floodgates’. Discuss this in the context of the case.
-
-Q2.Provide an example of how each major KM cycle stage listed below can add value to
-knowledge and increase the strategic worth of the knowledge assets. Give examples.
-
-a. Capture
-b. Create
-c. Share
-d. Acquire
-e. Apply
-
-Q3. How would you interpret Knowledge Maturity in an organization and map it to
-processes that will achieve competitive advantage? Briefly describe a strategy to
-achieve the competitive edge through a knowledge management system.
-
-Q4. While managing critical information can enhance, government administrative
-operations, the mismanagement of that same information can contribute to serious
-lapses or points. of exposure. Keeping this in mind what strategies would be
-effective to enhance the productivity of the departments?
-
-As a consultant, you have been assigned the task of implementing knowledge
-
-¢ i management in a government department to improve the quality of service. Take
-any department and identify the knowledge assets and processes that would help
-them in improving their efficiency and image.
-
-2p,
 ````

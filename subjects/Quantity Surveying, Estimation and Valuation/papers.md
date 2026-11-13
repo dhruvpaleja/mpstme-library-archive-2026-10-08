@@ -11,6 +11,8 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Civil_7005/Quantity Surveying, Estimation and Valuation/QP_Quantity Surveying, Estimation and Valuation(702CI0C022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (4 pages), mean OCR confidence 45.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -152,7 +154,6 @@ H ; sang none 200mg | 1 :
 
 Peeereces
 
-eee arta | eeecewer ewer
 
 a sete ets
 
@@ -179,7 +180,6 @@ at:
 
 ’ Re
 
-lew mew owe fab = ccna
 
 3S u
 
@@ -205,6 +205,7 @@ i
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/QUANTITY SURVEYING ESTIMATION & VALUATION/Quantity Surveying, Estimation and Valuation, Sem VI, Final Exam 2024-25 & Re Exam 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08/05/2025
 - Text: ocr (4 pages), mean OCR confidence 80.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -350,12 +351,10 @@ promeonen Laeeeweg poeeemeonaen 1
 el! . at ‘ . t
 —s a
 : tt t
-t gage cm 1 comm gRop @zocmee| i
 i ROSARY Luin nen === dL ------
 |
 a (8 A —}
 H em ea
-bennnmeee abo seo eal $
 Al. a5 u : L
 F ——sm =— 43m =a
 Figure.1
@@ -395,724 +394,14 @@ SO-2;
 BL-4
 ````
 
-## 2022-23 · Exam not stated · Sem 7 · paper 023d1b6e7af7
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION & VALUATION, 4TH YEAR, SEM VII, YEAR 2022-23, FINAM EXAM.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 November 2022
-- Text: ocr (4 pages), mean OCR confidence 84.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &/ (ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING :
-
-Academic Year: 2022-23
-Programme: B. Tech / MBA Tech (Civil) Year: IV Semester: VII
-
-Subject: Quantity Surveying, Estimation and Valuation
-“ Marks: 100 -
-Date: 24 November 2022 _ Time: 2.00 pm - 5.00 pm :
-Durations: 3 (Hrs) _
-
-No. of Pages: O47
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q 1a. | The cross-section of the compound wall is shown in figure below. Determine | [05]
-the quantity of random rubble masonry and quantity of brick masonry for 1 m
-length of the wall. [CO-1; SO-1; BL -4]
-
-3 j BRICK
-= MASONRY
-230 THICK
-
-INSIDE
-TARRY |
-
-OUTSIDE
-evw*
-
-600
-
-RANDOM RUBBLE |
-750 MASONRY !
-
-900
-
-BI 150 THICK PCC 1:2:4
-FOUNDATION 230 THICK RUBBLE SOLING
-
-LEVEL 4200
-
-Ld So
-
-CROSS-SECTION OF A COMPOUND WALL
-
-Page - | of 4
---- page 2 ---
-[Q 1b. | Enlist different types of specifications and draft the detailed specifications for | [05]
-first class brick. [CO —2; SO -1; BL— 4]
-
-Qtc. | Explain the term contingencies and work charged establishments in detail. [05]
-[CO-1; SO-7; BL-2]
-Q1d. | Explain the purpose of valuation. [CO —4; SO-7; BL-2]
-
-[05]
-Q2 For a three room plan as shown in figure below, determine the quantities of the [20]
-following items of work. [CO — 1; SO-1; BL—4]
-i. PCC for plinth
-ii. Rubble soling for foundation
-iii. Brickwork in foundation up to plinth
-iv. Internal plastering
-
-8600
-
-wi wt SCHEDULE OF DOORS AND WINDOWS
-SRTRULLE OF DOORS AND WINDOWS
-S— S.NO.[NAME SIZE __ [DESCRIPTION
-1_| 01 [1200 X2100/PANELLED DOOR
-Room 2 : 2 | b2 | 900X2%00 [FLUSHED DOOR
-D2 ssoncass = 3_[ wi [2000 X 1200] ALUMINIUM SLIDING WINDOW
-ROOM -1
-4270x6000 |
-= 8| [NOTES
-1. ALL DIMENSIONS ARE IN MILLIMETERS
-p2 -RQOM-3 = 2, DEPTH OF FOUNDATION - 1.5M
-3500x2885 ES 3. POC GRADE -M15, FLOOR HEIGHT - 3.0 M to 3.6 MAT
-RIDGE LEVEL
-4. EXTERNAL WALLS 300 MM THICK IN BRICK MASONRY
-1 otc 5. INTERNAL WALLS 230 MM THICK IN BRICK MASONRY
-Ww
-i ACC SHEET ROOF
-HAVING LEVEL 4M AT
-GROUND FLOOR PLAN RIDGE TO 3 M AT WALLS
-[| 300 230
-PLINTH PLINTH
-TEVEL [ISTH Poze CEVEL [
-3 450,| 230 THICK RUBBLE SOLING 8 |
-EXISTING | HARD MURUM FILLING “| exstine
-CL 600 53 2 “GL
-f= s
-$ g
-gf 750 680
-g q
-eI 90 830 '
-§ ES
-Fa BE eeesa 150 THICK PCC 1:24 © FRSIEESSERES Pel
-FOUNDATION 230 THICK RUBBLE SOLING
-a |__1200 | 1130
-3 2
-Ex a
-
-DETAILS OF EXTERNAL WALL DETAILS OF INTERNAL WALL
-
-Q3a. | Explain general specification of works and draft general specifications (any six [08]
-points) for a G+7 RCC residential building. [CO -2; SO-1; BL~ 4)
-
-Q3b. | Draft the detailed specification for external plastering in cement mortar 1 : 4 in [12]
-two coats. [CO —-2; SO-—3; BL— 4]
-
-Q 4a. | Explain in detail the term “task or out-turn work”
-[CO —2; SO-1; BL—2]
-
-Q4b. | Prepare rate analysis for brick masonry in cement mortar 1
-quantity of 10 m*. [CO-2; SO-1; BL—4]
-
-. Give at least three examples. | [08]
-
-: 6. Assume basic | [12]
-
-Page - 2 of 4
---- page 3 ---
-Q5a. | Prepare a tender notice for execution of a G+7 RCC residential building for | [10]
-approximate estimate of Rs. 15 crores. [CO —3; SO—3; BL —4]
-
-Q5b. | Enlist different types of contracts and explain any one type of contracts | [10]
-mentioning advantages, disadvantages and suitability. [CO —3; SO—7; BL—2]
-
-Q6 For the portal frame as shown in the figure below, determine the quantity of | [20]
-cement, sand and aggregate required for concrete in a mix proportion of
-1: 1.5: 3. Also prepare the bar bending schedule and determine the quantity of
-reinforcement. [CO — 1; SO—1; BL — 4]
-
-SCHEDULE OF COLUMNS AND FOOTINGS
-
-s. | couumn DETAILS OF FOOTINGS DETAILS OF COLUMNS
-) Pcc | FooTING [_ DEPTH] STEEL
-NO.| MARK LINKS
-Size size [1] 02 [SHorT| tone | SE [STEEL
-1 [61 _ [3450x2850|2930 x 2630 | 200 | 750 |12 - 120]]10 - 120/|300 x 6006 - 200 [8G @ 150 Cic
-3 6000
-
-600.
-
-=| 600
-400) fet ty 100.
-
-gI NOTES
-
-1, ALL DIMENSIONS ARE IN MILLIMETERS
-2. DEPTH OF FOUNDATION - 1.5 M
-
-3. PCC 1:3:6
-
-4. STRUCTURAL CONCRETE 1: 1.5:3
-
-5. CLEAR COVER TO REINFORCEMENT-
-
-Fe FOOTINGS - 65 MM,
-s COLUMNS - 40 MM,
-3 BEAMS - 25 MM,
-DETAILS OF BEAMS
-
-SIZE - 300 MM X 600 MM
-TOP STEEL 3-160
-BOTTOM STEEL 4-169 -
-i STIRRUPS 88 @ 230 C/C
-
-” TSO THICK PCC 12:4
-230 THICK RUBBLE SOLING
-
-CROSS-SECTIONAL ELEVATION
-
-Page - 3 of 4
---- page 4 ---
-Q7a. | Determine the quantity of earthwork for a road having formation width 10 m, | [10]
-side slopes 2 : 1, rising gradient 1 : 300, ground levels tabulated as below.
-Formation level of road at zero chainage is 165.0 m. [CO-1; SO-1; BL—4]
-
-Chainage (m) Ground Level (m)
-
-0 165.80
-30 165.10
-60 165.70
-90 166.30
-120 166.00
-150 165.60
-180 167.10
-210 166.20
-240 ; 167.80
-270 167.10
-300 168.00
-
-Q7b. | Determine the reasonable monthly rent for a building which has been recently | [10]
-constructed by the owner at Rs. 25 Crores.and land value is Rs. 6 Crores. The
-owner desires 12% returns on the cost of construction and 8% returns on the
-land value. Life of the building is 60 years. Consider the following data
-
-e 9% rate of interest on SF ;
-e All outgoing = 30% of net income
-e 10% scrap value of recent value
-e At the end of its useful life, to reconstruct a building Rs. 30 Crores are
-required.
-[CO —- 4; SO-2; BL—3]
-
-Page - 4 of 4
-````
-
-## 2022-23 · Final-Exam · Sem 6 · paper 19ee590ee152
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/QUANTITY SURVEYING ESTIMATION & VALUATION/Quantity Surveying, Estimation and Valuation, Sem-VI, Year 2022-23, Final Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/04/2023
-- Text: ocr (4 pages), mean OCR confidence 83.3
-
-````text
-—
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-: Academic Year: 2022-2023
-
-Program: B.Tech. Stream: Civil Engineering Year: UI Semester: VI
-Subject: Quantity Surveying, Estimation and Valuation Time: 3 Hrs (2.00 p.m. to 5.00 p.m.)
-Date: 26/04/2023 No. of Pages: 4
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qa. _ Draft the detailed specifications for timber used for doors and window frames. [05]
-[CO -2; SO-1; BL-4]
-
-Q1b. Explain the term sinking fund. How it is determined? [CO — 4; SO—7; BL —2] [05]
-
-Qic. Explain the term contingencies. [CO —-1; SO-—7; BL — 2] [05]
-
-Qld. The cross-section of the retaining wall is shown in figure below. Determine the quantity [05]
-- of random rubble masonry, soling, PCC and excavation. [CO — 1; SO—1; BL — 4]
-
-PROPOSED.
-
-EMBANKMENT LEVEL ty
-Yy
-3 We 450
-= “iY,
-RANDOM RUBBLE | sz Yfi4
-MASONRY yy,
-4, Y Ly
-Vy
-fy
-Z| Yyyy 600
-S| ty
-ty,
-GD Gs Z
-ty
-YY
-3g Yj
-E=) Y
-
-| VY, EXISTING
-tf GROUND LEVEL
-3 LZ
-150THICK S|
-PCC 1:24
-
-230 THICK
-RUBBLE SOLING NY
-FOUNDATION
-
-LEVEL
-
-1200
-
-Length = 20m
-CROSS-SECTION OF A RETAINING WALL.
-
-Page - | of 4
---- page 2 ---
-Q2
-
-Q3a.
-Q3b.
-
-Q4a.
-
-Q4b.
-
-Q5a.
-
-For a plan as
-work. [CO —
-
-shown in figure below, determine the quantities of the following items of [20]
-
-1; SO —1; BL-4]
-
-i. Rubble soling for foundation
-ii. PCC for plinth
-iii. Brickwork in superstructure
-iv. Internal painting
-
-8600
-
-| .
-
-wt wi [| SCHEDULE OF DOORS AND WINDOWS
-
-i ‘S.NO. | NAME SIZE DESCRIPTION
-
-1
-| 4 D1 |1200 X 2100| PANELLED DOOR
-| 2 D2 | 900 X 2100 |FLUSHED DOOR
-
-D2 \ {3 W1 [2000 X 1200| ALUMINIUM SLIDING WINDOW
-
-ROOM -1 | ROOM -2 i
-‘GaSe
-
-D1 ——I |
-
-4270x6000 | 3
-SEGK OOS |NE | 8| | NOTES
-| 7, ALL DIMENSIONS ARE IN MILLIMETERS
-i 2. DEPTH OF FOUNDATION - 1.8 M
-H 3. PCC GRADE -M15, FLOOR HEIGHT - 3.0 M to 3.8 MAT
-H RIDGE LEVEL °
-! 4. EXTERNAL WALLS 300 MM THICK IN BRICK MASONRY
-| 5. INTERNAL WALLS 230 MM THICK IN BRICK MASONRY
-
-wi
-| ACC SHEET ROOF
-
-FOUNDATION
-
-' HAVING LEVEL 3.8 MAT
-GROUND FLOOR PLAN RIDGE TO 3 MAT WALLS
-
-300 230
-PLINTH PLINTH _
-TEVEL [ISITHICK POG za LEVEL |
-r 450, 230 THICK RUBBLE SOLING 8 2
-
-3
-EXISTING HARD MURUM FILLING EXISTING
-ar* ot 600 530 8 SL
-
-g
-
-3 750 680 8
-z
-
-3 900 830 a
-Ss
-
-2] BESSY 150 THICK PCC 1:2:4   FESEraeeayaes rl
-230 THICK RUBBLE SOLING
-
-LEVEL 1200 1130
-2 Pe
-g QI
-
-DETAILS OF EXTERNAL WALL DETAILS OF INTERNAL WALL
-
-Explain in brief, detailed specifications [CO — 2; SO — 1; BL -4]
-
-Draft the detailed specification for excavation. [CO —2; SO —3; BL — 4]
-
-Explain the estimation of number of labours required fo
-
-[08]
-{12]
-
-r execution of an item of civil [08]
-
-work. Give at least three examples.
-
-[CO -2; SO-1; BL —-2]
-Prepare rate analysis for ext
-mm thick respectively. [CO — 2; SO —1; BL -4]
-
-Prepare a tender notice for execution of a Repair work of a housing society of
-
-ernal plaster in cement mortar 1:6 in two layers 12 mm and 8 [12]
-
-G+7 floors [10]
-
-for approximate estimate of Rs. 2 crores. [CO -3; SO-3; BL— 4]
-Q5b. Explain
-
-suitability
-
-percentage rate contract mentioning advantages, disadvantages and [10]
-
-[CO —3; SO —7; BL - 2]
-
-Page - 2 of 4
---- page 3 ---
-om
-
-Q6
-
-Q7a.
-
-For the portal frame as shown in the figure below, determine the quantity of excavation, [20]
-rubble soling, PCC in proportion 1:3:6, concreting in proportion 1:1.5:3. Prepare the bar
-bending schedule and determine the quantity of reinforcement. Also tabulate the list of
-materials required for construction of this portal frame. [CO — 1; SO-—1; BL —4]
-
-SCHEDULE OF COLUMNS AND FOOTINGS
-
-«leave DETAILS OF FOOTINGS DETAILS OF COLUMNS
-5 PCC FOOTING |_DEPTH| STEEL
-No.| MARK Tine
-SIZE size [bi] 02 [sort] Lona | SIZE | STEEL
-1 | et [8000 x 2700] 2700 x 2400 | 200 [600 [15 - 12012 - 126300 X 750|8 - 208 8G @ 150 CIC
-5 8000 750
-
-750
-400} [7 00
-
-a
-
-8 NOTES =
-
-7. ALL DIMENSIONS ARE IN MILLIMETERS
-2. DEPTH OF FOUNDATION - 1.5M
-3. PCC 1:3:6
-4. STRUCTURAL CONCRETE 1: 1.5: 3
-5. CLEAR COVER TO REINFORCEMENT-
-FOOTINGS - 65 MM,
-3 COLUMNS - 40 MM,
-3 BEAMS - 25 MM,
-
-DETAILS OF BEAMS
-
-‘SIZE - 300 MM X 600 MM
-TOP STEEL 3 - 168
-BOTTOM STEEL 5 - 160
-$3 STIRRUPS 8 @ 230 CIC
-EXISTING
-@{__ GROUND LEVEL
-
-g
-EI
-* TSOTHICKPOC EZ
-
-230 THICK RUBBLE SOLING
-
-CROSS-SECTIONAL ELEVATION
-
-Determine the quantity of earthwork for a road having formation width 15 m, side slopes [10]
-2:1, rising gradient 1 : 200, ground levels tabulated as below. Formation level of road at
-zero chainage is 162.0 m. [CO-—1; SO-1; BL — 4]
-
-Chainage (m) | Ground Level (m)
-
-0 162.80
-20 162.10
-40 162.70
-60 163.30
-80 163.00
-100 162.60
-120 164.10
-140 163.20
-160 164.80
-180 164.10
-200 165.00
-
-Page - 3 of 4
---- page 4 ---
-Q7b. Determine the reasonable monthly rent for a commercial building which has been recently [10]
-
-constructed by the owner at Rs. 25 Crores and land value is Rs. 2 Crores. The owner desires
-15% returns on the cost of construction and 10% returns on the land value. Life of the
-building is 80 years. Consider the following data
-
-e 8 %rate of interest on SF
-
-e All outgoing = 15% of net income
-
-e 10% scrap value of recent value
-
-e At the end of its useful life, to reconstruct a building Rs. 40 Crores are required.
-[CO - 4; SO -2; BL -3]
-
-Page-4o0f4 ©
-````
-
-## 2022 · Final-Exam · Sem 9 · paper 0711bda3776d
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/CIVIL/SEM IX/QUANTITY SURVEYING ESTIMATION AND VALUATION/Quantity Surveying,Estimation and Valuation Batch 2022 Final.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 23 November 2022
-- Text: ocr (3 pages), mean OCR confidence 84.8
-
-````text
-- SVKM’s NMIMS fi _
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE ERING .
-Academic Year: 2022-23 XE ines NER
-Programme: B. Tech Integrated (Civil) Year: V Semester: IX
-Subject: Quantity Surveying, Estimation And Valuation
-’ ° ° m Marks: 100
-Date: 23 November 2022 Time: 2.00 pm - 5.00 pm
-
-Durations: 3 (Hrs)
-No. of Pages: _Q3
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. |
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20]
-CO-1; a. ~~ Write a short note on “Mass haul diagrams”. [05]
-SO-1;
-
-BL-2
-
-CO-2;_ b. Explain the purpose of rate analysis. {05}
-SO-1; . J
-
-BL-2
-
-CO-3; c. Explain the advantages and disadvantages of “Lump-Sum Contract”. [05]
-SO-1;
-
-BL-2
-
-CO-4;   d. _—_ Discuss the difference between: scrap value and salvage value. [05]
-SO-1;
-
-BL-2
-
-Q2 a. Prepare rate analysis of 10 m’ R.C.C work in Slabs and Beams (Consider M20 Grade of concrete and [10]
-0-2: 1.1 % steel).
-
-SO-1;
-
-BL-4
-
-Q2 ~b. Calculate the volume of earthwork for the portion of road between the chainages 50 and 60 fromthe [10]
-CO-I: following data using the following data, length being measured with a standard 20 m chain. The
-SO-1- formation level at chainage 50 is 130.0 and the road is in rising gradient of 1 in 200. The formation
-
-BL-4 width is 12 m and side slopes are 1.5:1 and 1:1 respectively in embankment and cutting. The lateral -
-slope of the ground may be assumed level. Use mid-section area method.
-The detail of road is given as under:
-Chainage (in m) G.L (in m)
-
-50, 131.1
-51 131.2
-52 130.9
-53 131.2
-54 130.8
-35 130.7
-56 130.6
-57 130.4
-58 129.1
-
-"Is
---- page 2 ---
-59 129.7
-
-60 129.7
-Q3 a. Figure.1 shows the details of an R.C.C beam. Calculate the quantities for the Reinforcement steel for [10]
-CO-1: beam in kg.
-
-SO-1; Hanger Bars 2, 12
-BLA | i 250mm |
-
-ve
-
-—Jo.30 360m | 0.30 |_ \\
-m Main Bars 4, 25 m 4 nya .2
-Stirrups 6 nos. 2 straight and
-on each side, 10 Stirrup _2-cranked
-Longitudinal Section Cross Section
-Figure.1
-Q3 b. Describe in detail the general specifications of a First Class Building. [10] |
-CO-2; |
-SO-3; . |
-BL-4 |
-Q4 Determine the quantities of following items of work by referring Figure.2. [20]
-CO-1: 1) Excavation in ordinary soil
-SO-1: 2) Plain cement concrete (1:4:8)
-BL-4 3) Second Class Brick Masonry in sidewalls
-4) Plastering 20mm thick in two coats using C.M (1:5)
-5) M-20 RCC slab 130mm thick
-Q5 a. Draft a tender inviting notice for civil works of construction of Medical college building and its [10]
-CO-3; . ‘ j P
-be " allied infrastructure works at Palghar for an estimated amount of Rs 100 crores and project duration
-BL-4 36 months.
-Q5 b. Draft in detail the rules for deduction for openings as per IS 1200 for items of work - plastering to [10]
-CO-2; walls.
-SO-3;
-BL-4
-Q6 a. The total cost of an equipment is Rs. 3,00,000. Calculate the depreciated cost of the equipment after [10]
-CO-4: 5 years if the scrap value is 10% of original price. The life of the equipment is 10 years. Determine
-S0-2. the depreciation and book value for each of these 5 years using straight line method.
-BL-3 _
-Q6 b. A building having plinth area of 250 m? is required to be constructed. Using CBRI equations [10]
-CO-1; calculate the following:
-SO-2; . . :
-BL-3 (i) Quantity of cement (in bags)
-
-(ii) Quantity of steel (in tonnes)
-(iii) Quantity of bricks (in number)
-
-(iv) Number of labourers (coolies)
-
-2/3
---- page 3 ---
-(v) Number of carpenters
-
-Explain the procedure of submission and opening of tender. When does a tender become informal? —_[10]
-
-CO-3;
-SO-3;
-BL-4
-
-Q7 b. A newly constructed building stands on a plot costing Rs. 3,00,000/-. The construction cost of the [10]
-CO-4; building is Rs. 12,00,000/- and the estimated life of building is 70 years. The investor desires a net
-: rs income of 8% return on the construction cost and 6% return on the land cost. Assuming annual
-repairs at 0.5% the cost of construction and other outgoings at 30% of gross rent. Calculate the
-monthly rent that will have to be charged for the building. Sinking fund coefficient for a life of 70
-
-years = 0.0043.
-
-VM Z
-
-Gov x ao™ A
-
-a a ie
-; \\
-P\ov |
-1
-Rcc- M20 om HAC
-ot ein AS AS
-GL wD] DD Eb, Interne |
-"sr BDO “he foes “Ss cM,
-oH
-noe
-
-rary
-
-aso N
-
-Figure.2
-
-Ais
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper 50879c721040
+## 2023-24 · Re-Exam · Sem 6 · paper 50879c721040
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL, B.TECH INTEGRATED / CIVIL
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/QUANTITY SURVEYING ESTIMATION & VALUATION/Quantity Surveying ,Estimation and Valuation Batch 2022-23 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26/06/2024
 - Text: ocr (4 pages), mean OCR confidence 72.8
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1303,7 +592,6 @@ LIVING ROOM ‘LIVING ROOM LIVING ROOM
 q
 (SSS) 1 LE ]_ D1 O41
 J L T 1
-sid C i] wi t ve | Ww t
 GROUND FLOOR PLAN
 2 a
 120 THICK M15 PCC
@@ -1332,23 +620,17 @@ Page - 3 of 4
 Foie gig » [8/6 g [OS
 a}ayolN oO > 1/8 5 lelg
 tts z ~
-HIEISIS ZiRR-| | Jele & |ele
 gl 5 3 els! & |s/s 5 lglg
 als|2 318 -
 ele am 2)
 al8|8 Siai8)8 =)/2 alsls Z alsls
 fh a SleSis) | Fs alsis Salis
-olelals| | eeetels} | wee Eee
-bil bi 2/9 six M]}/2 [ole M]/ 2% Jolia
 als 3} 1S} u/8/5 x w
 3/82) |allsiais) je ra}
-Seis] [SSS |S) alsls) [Sil alels
-2° \8/8 ret Fae SS Bllowieie Lilo w/e|=
 g]S Ole 8 Felals Fes
 EyShe rs Nl iis Dina
 alg] Ullreiclel |S 3
 owl H|a S g Ww Ww
-Bo] lees) fal ielg| {sll . lle
 BIS z}/o/7/Z31g oll NS [xix all N [x|x
 =} SIS all? yeig} |S]? Isle
 z O\lz = =
@@ -1400,6 +682,717 @@ Figure - 2
 Page - 4 of 4
 
 Fat.
+````
+
+## 2022-23 · Exam not stated · Sem 7 · paper 023d1b6e7af7
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION & VALUATION, 4TH YEAR, SEM VII, YEAR 2022-23, FINAM EXAM.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 November 2022
+- Text: ocr (4 pages), mean OCR confidence 84.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &/ (ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING :
+
+Academic Year: 2022-23
+Programme: B. Tech / MBA Tech (Civil) Year: IV Semester: VII
+
+Subject: Quantity Surveying, Estimation and Valuation
+“ Marks: 100 -
+Date: 24 November 2022 _ Time: 2.00 pm - 5.00 pm :
+Durations: 3 (Hrs) _
+
+No. of Pages: O47
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q 1a. | The cross-section of the compound wall is shown in figure below. Determine | [05]
+the quantity of random rubble masonry and quantity of brick masonry for 1 m
+length of the wall. [CO-1; SO-1; BL -4]
+
+3 j BRICK
+= MASONRY
+230 THICK
+
+INSIDE
+TARRY |
+
+OUTSIDE
+evw*
+
+600
+
+RANDOM RUBBLE |
+750 MASONRY !
+
+900
+
+BI 150 THICK PCC 1:2:4
+FOUNDATION 230 THICK RUBBLE SOLING
+
+LEVEL 4200
+
+Ld So
+
+CROSS-SECTION OF A COMPOUND WALL
+
+Page - | of 4
+--- page 2 ---
+[Q 1b. | Enlist different types of specifications and draft the detailed specifications for | [05]
+first class brick. [CO —2; SO -1; BL— 4]
+
+Qtc. | Explain the term contingencies and work charged establishments in detail. [05]
+[CO-1; SO-7; BL-2]
+Q1d. | Explain the purpose of valuation. [CO —4; SO-7; BL-2]
+
+[05]
+Q2 For a three room plan as shown in figure below, determine the quantities of the [20]
+following items of work. [CO — 1; SO-1; BL—4]
+i. PCC for plinth
+ii. Rubble soling for foundation
+iii. Brickwork in foundation up to plinth
+iv. Internal plastering
+
+8600
+
+wi wt SCHEDULE OF DOORS AND WINDOWS
+SRTRULLE OF DOORS AND WINDOWS
+S— S.NO.[NAME SIZE __ [DESCRIPTION
+1_| 01 [1200 X2100/PANELLED DOOR
+Room 2 : 2 | b2 | 900X2%00 [FLUSHED DOOR
+D2 ssoncass = 3_[ wi [2000 X 1200] ALUMINIUM SLIDING WINDOW
+ROOM -1
+4270x6000 |
+= 8| [NOTES
+1. ALL DIMENSIONS ARE IN MILLIMETERS
+p2 -RQOM-3 = 2, DEPTH OF FOUNDATION - 1.5M
+3500x2885 ES 3. POC GRADE -M15, FLOOR HEIGHT - 3.0 M to 3.6 MAT
+RIDGE LEVEL
+4. EXTERNAL WALLS 300 MM THICK IN BRICK MASONRY
+1 otc 5. INTERNAL WALLS 230 MM THICK IN BRICK MASONRY
+Ww
+i ACC SHEET ROOF
+HAVING LEVEL 4M AT
+GROUND FLOOR PLAN RIDGE TO 3 M AT WALLS
+[| 300 230
+PLINTH PLINTH
+3 450,| 230 THICK RUBBLE SOLING 8 |
+EXISTING | HARD MURUM FILLING “| exstine
+CL 600 53 2 “GL
+f= s
+$ g
+gf 750 680
+g q
+eI 90 830 '
+§ ES
+Fa BE eeesa 150 THICK PCC 1:24 © FRSIEESSERES Pel
+FOUNDATION 230 THICK RUBBLE SOLING
+a |__1200 | 1130
+3 2
+Ex a
+
+DETAILS OF EXTERNAL WALL DETAILS OF INTERNAL WALL
+
+Q3a. | Explain general specification of works and draft general specifications (any six [08]
+points) for a G+7 RCC residential building. [CO -2; SO-1; BL~ 4)
+
+Q3b. | Draft the detailed specification for external plastering in cement mortar 1 : 4 in [12]
+two coats. [CO —-2; SO-—3; BL— 4]
+
+Q 4a. | Explain in detail the term “task or out-turn work”
+[CO —2; SO-1; BL—2]
+
+Q4b. | Prepare rate analysis for brick masonry in cement mortar 1
+quantity of 10 m*. [CO-2; SO-1; BL—4]
+
+. Give at least three examples. | [08]
+
+: 6. Assume basic | [12]
+
+Page - 2 of 4
+--- page 3 ---
+Q5a. | Prepare a tender notice for execution of a G+7 RCC residential building for | [10]
+approximate estimate of Rs. 15 crores. [CO —3; SO—3; BL —4]
+
+Q5b. | Enlist different types of contracts and explain any one type of contracts | [10]
+mentioning advantages, disadvantages and suitability. [CO —3; SO—7; BL—2]
+
+Q6 For the portal frame as shown in the figure below, determine the quantity of | [20]
+cement, sand and aggregate required for concrete in a mix proportion of
+1: 1.5: 3. Also prepare the bar bending schedule and determine the quantity of
+reinforcement. [CO — 1; SO—1; BL — 4]
+
+SCHEDULE OF COLUMNS AND FOOTINGS
+
+s. | couumn DETAILS OF FOOTINGS DETAILS OF COLUMNS
+) Pcc | FooTING [_ DEPTH] STEEL
+NO.| MARK LINKS
+Size size [1] 02 [SHorT| tone | SE [STEEL
+1 [61 _ [3450x2850|2930 x 2630 | 200 | 750 |12 - 120]]10 - 120/|300 x 6006 - 200 [8G @ 150 Cic
+3 6000
+
+600.
+
+=| 600
+400) fet ty 100.
+
+gI NOTES
+
+1, ALL DIMENSIONS ARE IN MILLIMETERS
+2. DEPTH OF FOUNDATION - 1.5 M
+
+3. PCC 1:3:6
+
+4. STRUCTURAL CONCRETE 1: 1.5:3
+
+5. CLEAR COVER TO REINFORCEMENT-
+
+Fe FOOTINGS - 65 MM,
+s COLUMNS - 40 MM,
+3 BEAMS - 25 MM,
+DETAILS OF BEAMS
+
+SIZE - 300 MM X 600 MM
+TOP STEEL 3-160
+BOTTOM STEEL 4-169 -
+i STIRRUPS 88 @ 230 C/C
+
+” TSO THICK PCC 12:4
+230 THICK RUBBLE SOLING
+
+CROSS-SECTIONAL ELEVATION
+
+Page - 3 of 4
+--- page 4 ---
+Q7a. | Determine the quantity of earthwork for a road having formation width 10 m, | [10]
+side slopes 2 : 1, rising gradient 1 : 300, ground levels tabulated as below.
+Formation level of road at zero chainage is 165.0 m. [CO-1; SO-1; BL—4]
+
+Chainage (m) Ground Level (m)
+
+0 165.80
+30 165.10
+60 165.70
+90 166.30
+120 166.00
+150 165.60
+180 167.10
+210 166.20
+240 ; 167.80
+270 167.10
+300 168.00
+
+Q7b. | Determine the reasonable monthly rent for a building which has been recently | [10]
+constructed by the owner at Rs. 25 Crores.and land value is Rs. 6 Crores. The
+owner desires 12% returns on the cost of construction and 8% returns on the
+land value. Life of the building is 60 years. Consider the following data
+
+e 9% rate of interest on SF ;
+e All outgoing = 30% of net income
+e 10% scrap value of recent value
+e At the end of its useful life, to reconstruct a building Rs. 30 Crores are
+required.
+[CO —- 4; SO-2; BL—3]
+
+Page - 4 of 4
+````
+
+## 2022-23 · Final-Exam · Sem 6 · paper 19ee590ee152
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/QUANTITY SURVEYING ESTIMATION & VALUATION/Quantity Surveying, Estimation and Valuation, Sem-VI, Year 2022-23, Final Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/04/2023
+- Text: ocr (4 pages), mean OCR confidence 83.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+—
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+: Academic Year: 2022-2023
+
+Program: B.Tech. Stream: Civil Engineering Year: UI Semester: VI
+Subject: Quantity Surveying, Estimation and Valuation Time: 3 Hrs (2.00 p.m. to 5.00 p.m.)
+Date: 26/04/2023 No. of Pages: 4
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qa. _ Draft the detailed specifications for timber used for doors and window frames. [05]
+[CO -2; SO-1; BL-4]
+
+Q1b. Explain the term sinking fund. How it is determined? [CO — 4; SO—7; BL —2] [05]
+
+Qic. Explain the term contingencies. [CO —-1; SO-—7; BL — 2] [05]
+
+Qld. The cross-section of the retaining wall is shown in figure below. Determine the quantity [05]
+- of random rubble masonry, soling, PCC and excavation. [CO — 1; SO—1; BL — 4]
+
+PROPOSED.
+
+EMBANKMENT LEVEL ty
+Yy
+3 We 450
+= “iY,
+RANDOM RUBBLE | sz Yfi4
+MASONRY yy,
+4, Y Ly
+Vy
+fy
+Z| Yyyy 600
+S| ty
+ty,
+GD Gs Z
+ty
+YY
+3g Yj
+E=) Y
+
+| VY, EXISTING
+tf GROUND LEVEL
+3 LZ
+150THICK S|
+PCC 1:24
+
+230 THICK
+RUBBLE SOLING NY
+FOUNDATION
+
+LEVEL
+
+1200
+
+Length = 20m
+CROSS-SECTION OF A RETAINING WALL.
+
+Page - | of 4
+--- page 2 ---
+Q2
+
+Q3a.
+Q3b.
+
+Q4a.
+
+Q4b.
+
+Q5a.
+
+For a plan as
+work. [CO —
+
+shown in figure below, determine the quantities of the following items of [20]
+
+1; SO —1; BL-4]
+
+i. Rubble soling for foundation
+ii. PCC for plinth
+iii. Brickwork in superstructure
+iv. Internal painting
+
+8600
+
+| .
+
+wt wi [| SCHEDULE OF DOORS AND WINDOWS
+
+i ‘S.NO. | NAME SIZE DESCRIPTION
+
+1
+| 4 D1 |1200 X 2100| PANELLED DOOR
+| 2 D2 | 900 X 2100 |FLUSHED DOOR
+
+D2 \ {3 W1 [2000 X 1200| ALUMINIUM SLIDING WINDOW
+
+ROOM -1 | ROOM -2 i
+‘GaSe
+
+D1 ——I |
+
+4270x6000 | 3
+SEGK OOS |NE | 8| | NOTES
+| 7, ALL DIMENSIONS ARE IN MILLIMETERS
+i 2. DEPTH OF FOUNDATION - 1.8 M
+H 3. PCC GRADE -M15, FLOOR HEIGHT - 3.0 M to 3.8 MAT
+H RIDGE LEVEL °
+! 4. EXTERNAL WALLS 300 MM THICK IN BRICK MASONRY
+| 5. INTERNAL WALLS 230 MM THICK IN BRICK MASONRY
+
+wi
+| ACC SHEET ROOF
+
+FOUNDATION
+
+' HAVING LEVEL 3.8 MAT
+GROUND FLOOR PLAN RIDGE TO 3 MAT WALLS
+
+300 230
+PLINTH PLINTH _
+r 450, 230 THICK RUBBLE SOLING 8 2
+
+3
+EXISTING HARD MURUM FILLING EXISTING
+ar* ot 600 530 8 SL
+
+g
+
+3 750 680 8
+z
+
+3 900 830 a
+Ss
+
+2] BESSY 150 THICK PCC 1:2:4   FESEraeeayaes rl
+230 THICK RUBBLE SOLING
+
+LEVEL 1200 1130
+2 Pe
+g QI
+
+DETAILS OF EXTERNAL WALL DETAILS OF INTERNAL WALL
+
+Explain in brief, detailed specifications [CO — 2; SO — 1; BL -4]
+
+Draft the detailed specification for excavation. [CO —2; SO —3; BL — 4]
+
+Explain the estimation of number of labours required fo
+
+[08]
+{12]
+
+r execution of an item of civil [08]
+
+work. Give at least three examples.
+
+[CO -2; SO-1; BL —-2]
+Prepare rate analysis for ext
+mm thick respectively. [CO — 2; SO —1; BL -4]
+
+Prepare a tender notice for execution of a Repair work of a housing society of
+
+ernal plaster in cement mortar 1:6 in two layers 12 mm and 8 [12]
+
+G+7 floors [10]
+
+for approximate estimate of Rs. 2 crores. [CO -3; SO-3; BL— 4]
+Q5b. Explain
+
+suitability
+
+percentage rate contract mentioning advantages, disadvantages and [10]
+
+[CO —3; SO —7; BL - 2]
+
+Page - 2 of 4
+--- page 3 ---
+om
+
+Q6
+
+Q7a.
+
+For the portal frame as shown in the figure below, determine the quantity of excavation, [20]
+rubble soling, PCC in proportion 1:3:6, concreting in proportion 1:1.5:3. Prepare the bar
+bending schedule and determine the quantity of reinforcement. Also tabulate the list of
+materials required for construction of this portal frame. [CO — 1; SO-—1; BL —4]
+
+SCHEDULE OF COLUMNS AND FOOTINGS
+
+«leave DETAILS OF FOOTINGS DETAILS OF COLUMNS
+5 PCC FOOTING |_DEPTH| STEEL
+No.| MARK Tine
+SIZE size [bi] 02 [sort] Lona | SIZE | STEEL
+1 | et [8000 x 2700] 2700 x 2400 | 200 [600 [15 - 12012 - 126300 X 750|8 - 208 8G @ 150 CIC
+5 8000 750
+
+750
+400} [7 00
+
+a
+
+8 NOTES =
+
+7. ALL DIMENSIONS ARE IN MILLIMETERS
+2. DEPTH OF FOUNDATION - 1.5M
+3. PCC 1:3:6
+4. STRUCTURAL CONCRETE 1: 1.5: 3
+5. CLEAR COVER TO REINFORCEMENT-
+FOOTINGS - 65 MM,
+3 COLUMNS - 40 MM,
+3 BEAMS - 25 MM,
+
+DETAILS OF BEAMS
+
+‘SIZE - 300 MM X 600 MM
+TOP STEEL 3 - 168
+BOTTOM STEEL 5 - 160
+$3 STIRRUPS 8 @ 230 CIC
+EXISTING
+@{__ GROUND LEVEL
+
+g
+EI
+* TSOTHICKPOC EZ
+
+230 THICK RUBBLE SOLING
+
+CROSS-SECTIONAL ELEVATION
+
+Determine the quantity of earthwork for a road having formation width 15 m, side slopes [10]
+2:1, rising gradient 1 : 200, ground levels tabulated as below. Formation level of road at
+zero chainage is 162.0 m. [CO-—1; SO-1; BL — 4]
+
+Chainage (m) | Ground Level (m)
+
+0 162.80
+20 162.10
+40 162.70
+60 163.30
+80 163.00
+100 162.60
+120 164.10
+140 163.20
+160 164.80
+180 164.10
+200 165.00
+
+Page - 3 of 4
+--- page 4 ---
+Q7b. Determine the reasonable monthly rent for a commercial building which has been recently [10]
+
+constructed by the owner at Rs. 25 Crores and land value is Rs. 2 Crores. The owner desires
+15% returns on the cost of construction and 10% returns on the land value. Life of the
+building is 80 years. Consider the following data
+
+e 8 %rate of interest on SF
+
+e All outgoing = 15% of net income
+
+e 10% scrap value of recent value
+
+e At the end of its useful life, to reconstruct a building Rs. 40 Crores are required.
+[CO - 4; SO -2; BL -3]
+
+Page-4o0f4 ©
+````
+
+## 2022-23 · Final-Exam · Sem 9 · paper 0711bda3776d
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/CIVIL/SEM IX/QUANTITY SURVEYING ESTIMATION AND VALUATION/Quantity Surveying,Estimation and Valuation Batch 2022 Final.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 23 November 2022
+- Text: ocr (3 pages), mean OCR confidence 84.8
+
+````text
+- SVKM’s NMIMS fi _
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE ERING .
+Academic Year: 2022-23 XE ines NER
+Programme: B. Tech Integrated (Civil) Year: V Semester: IX
+Subject: Quantity Surveying, Estimation And Valuation
+’ ° ° m Marks: 100
+Date: 23 November 2022 Time: 2.00 pm - 5.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: _Q3
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. |
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+CO-1; a. ~~ Write a short note on “Mass haul diagrams”. [05]
+SO-1;
+
+BL-2
+
+CO-2;_ b. Explain the purpose of rate analysis. {05}
+SO-1; . J
+
+BL-2
+
+CO-3; c. Explain the advantages and disadvantages of “Lump-Sum Contract”. [05]
+SO-1;
+
+BL-2
+
+CO-4;   d. _—_ Discuss the difference between: scrap value and salvage value. [05]
+SO-1;
+
+BL-2
+
+Q2 a. Prepare rate analysis of 10 m’ R.C.C work in Slabs and Beams (Consider M20 Grade of concrete and [10]
+0-2: 1.1 % steel).
+
+SO-1;
+
+BL-4
+
+Q2 ~b. Calculate the volume of earthwork for the portion of road between the chainages 50 and 60 fromthe [10]
+CO-I: following data using the following data, length being measured with a standard 20 m chain. The
+SO-1- formation level at chainage 50 is 130.0 and the road is in rising gradient of 1 in 200. The formation
+
+BL-4 width is 12 m and side slopes are 1.5:1 and 1:1 respectively in embankment and cutting. The lateral -
+slope of the ground may be assumed level. Use mid-section area method.
+The detail of road is given as under:
+Chainage (in m) G.L (in m)
+
+50, 131.1
+51 131.2
+52 130.9
+53 131.2
+54 130.8
+35 130.7
+56 130.6
+57 130.4
+58 129.1
+
+"Is
+--- page 2 ---
+59 129.7
+
+60 129.7
+Q3 a. Figure.1 shows the details of an R.C.C beam. Calculate the quantities for the Reinforcement steel for [10]
+CO-1: beam in kg.
+
+SO-1; Hanger Bars 2, 12
+BLA | i 250mm |
+
+ve
+
+—Jo.30 360m | 0.30 |_ \\
+m Main Bars 4, 25 m 4 nya .2
+Stirrups 6 nos. 2 straight and
+on each side, 10 Stirrup _2-cranked
+Longitudinal Section Cross Section
+Figure.1
+Q3 b. Describe in detail the general specifications of a First Class Building. [10] |
+CO-2; |
+SO-3; . |
+BL-4 |
+Q4 Determine the quantities of following items of work by referring Figure.2. [20]
+CO-1: 1) Excavation in ordinary soil
+SO-1: 2) Plain cement concrete (1:4:8)
+BL-4 3) Second Class Brick Masonry in sidewalls
+4) Plastering 20mm thick in two coats using C.M (1:5)
+5) M-20 RCC slab 130mm thick
+Q5 a. Draft a tender inviting notice for civil works of construction of Medical college building and its [10]
+CO-3; . ‘ j P
+be " allied infrastructure works at Palghar for an estimated amount of Rs 100 crores and project duration
+BL-4 36 months.
+Q5 b. Draft in detail the rules for deduction for openings as per IS 1200 for items of work - plastering to [10]
+CO-2; walls.
+SO-3;
+BL-4
+Q6 a. The total cost of an equipment is Rs. 3,00,000. Calculate the depreciated cost of the equipment after [10]
+CO-4: 5 years if the scrap value is 10% of original price. The life of the equipment is 10 years. Determine
+S0-2. the depreciation and book value for each of these 5 years using straight line method.
+BL-3 _
+Q6 b. A building having plinth area of 250 m? is required to be constructed. Using CBRI equations [10]
+CO-1; calculate the following:
+SO-2; . . :
+BL-3 (i) Quantity of cement (in bags)
+
+(ii) Quantity of steel (in tonnes)
+(iii) Quantity of bricks (in number)
+
+(iv) Number of labourers (coolies)
+
+2/3
+--- page 3 ---
+(v) Number of carpenters
+
+Explain the procedure of submission and opening of tender. When does a tender become informal? —_[10]
+
+CO-3;
+SO-3;
+BL-4
+
+Q7 b. A newly constructed building stands on a plot costing Rs. 3,00,000/-. The construction cost of the [10]
+CO-4; building is Rs. 12,00,000/- and the estimated life of building is 70 years. The investor desires a net
+: rs income of 8% return on the construction cost and 6% return on the land cost. Assuming annual
+repairs at 0.5% the cost of construction and other outgoings at 30% of gross rent. Calculate the
+monthly rent that will have to be charged for the building. Sinking fund coefficient for a life of 70
+
+years = 0.0043.
+
+VM Z
+
+Gov x ao™ A
+
+a a ie
+; \\
+P\ov |
+1
+Rcc- M20 om HAC
+ot ein AS AS
+GL wD] DD Eb, Interne |
+"sr BDO “he foes “Ss cM,
+oH
+noe
+
+rary
+
+aso N
+
+Figure.2
+
+Ais
 ````
 
 ## 2022-23 · Re-Exam · Sem 6 · paper 6b40b7357777
@@ -1659,6 +1652,7 @@ Page - 4 of 4
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/Quantity Surveying ,estimation & valuation, 4th Year, Sem-VII, Year 2022-23, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 February.2023
 - Text: ocr (4 pages), mean OCR confidence 86.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1773,7 +1767,6 @@ GROUND FLOOR PLAN RIDGE TO3M AT WALLS
 300 230
 
 PLINTH PLINTH
-TEVEL TSOTHICK POC EZ TEVEL
 | 450, 230 THICK RUBBLE SOLING. 2
 
 EXISTING HARD MURUM FILLING EXISTING
@@ -2038,6 +2031,7 @@ FAGuge: &
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING ESTIMATION AND VALUATION FINAL EXAM 18-19.pdf`
 - Printed on paper: exam date: 23 November 2018
 - Text: ocr (3 pages), mean OCR confidence 80.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2172,7 +2166,6 @@ GL
 
 Sectional Elevation on ABCD
 
-coco eooo- eosce rooo-y
 
 ; Tataied
 iw iy ,soom | wir | wis iW)
@@ -2407,6 +2400,7 @@ F\Gore ~ 2Ce)
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/QUANTITY SURVEYING,ESTIMATION AND VALUATION/Quantity surveying....Final 2018-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 17 April 2019
 - Text: ocr (3 pages), mean OCR confidence 74.5
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -2547,7 +2541,6 @@ Les PILLAR 30 X 30 om
 Plan
 
 rE EPL ESTEE OPES Ed
-Coes e% WJegtee ater tse ete)
 
 SN
 
@@ -2564,12 +2557,10 @@ IN:
 
 [eom—+ 4°om - + sim af
 + ; -
-Ee Rei ment Detnils & penne i... 88, 1
 A . ' ‘
 
 f a Rod Slab ea wemac.
 7p ‘ SLAB y
-\ porn appae oe 7 110g “gmmg nop
 YC. e
 i Ea 1ocm W.C-SLAB 1 oR recat ea] 2
 2 et =<—— + st pat
@@ -2578,7 +2569,6 @@ i Ea 1ocm W.C-SLAB 1 oR recat ea] 2
 ' tt H
 4 ben cannnet beooetil wu -d |b
 ol
-proeecn Pah HH - ee, ee we eee ney
 ' ' i)
 ' 4 '
 1 Shetde ey rt 10cm '
@@ -2607,6 +2597,7 @@ t sem— ; asm al
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING ESTIMATION AND VALUATION BATCH 18-19 RE EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
 - Text: ocr (4 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2690,7 +2681,6 @@ Hanger Rods” r20en c/ Ie. 1 <4 ranges Rods
 a ;
 25 ‘6mm of |! Z4
 fens si[E taal TTT TT a
-et eed =a 30 [bBiad am a hee Rod 16 pa 30 1
 SECTION A-A 3.6m
 see are ae : .
 All Goncrete Cover - 2.5cem aan
@@ -2813,6 +2803,7 @@ ii. Valuation & purpose of valuation
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/QUANTITY SURVEYING,ESTIMATION AND VALUATION/Quantity surveying...Re-exam 2018-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 12 June 2019
 - Text: ocr (3 pages), mean OCR confidence 76.9
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -3004,13 +2995,11 @@ PL.
 [40em 7%
 40 120 cm
 24m——| pi, Ho
-A sibel Ree 1B en pealigss Froonsl =
 Plan ‘Section on XY.
 (All a in cm except, otherwise mentioned)
 . (Q.No;
 “ett 4om f 3m - +
 0.80 m , ; =
-etal Detnile ponneef Poa 22-F oa
 : so!
 — am wem ac. SS
 t SLAB 1
@@ -3026,9 +3015,7 @@ ae ee oe oe sl
 — T
 H F 6 ROD © 20 cwre/c '
 
-i dd RS ti (if G3
 t Pk i]
-Bue fee ee me me we we oe we om oe om we ew 22 we wwe me
 -----Uff oo 88
 crt : TOT a]
 ' 14 1
@@ -3051,6 +3038,279 @@ som— A eam 4:20 1
 ps
 
 )
+````
+
+## 2017-18 · Final-Exam · Sem 7 · paper 506aa2ed285d
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION AND VALUATION (CIVIL), FINAL EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; exam date: 05 December 2017
+- Text: ocr (3 pages), mean OCR confidence 75.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) y Year: IV ~ Semester: VI ‘
+
+Academic Year: 2017-2018
+
+/ Subject: Quantity Surveying, Estimation and Valuation j eR a
+~~ Marks: 60 » ey f ee
+Date: 05 December 2017 ~ Time: 10.00 am t@¢.00 pm 2éMEB Yu
+Durations: 3 (h vas ISRARYW =
+No. of Pages:
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new quéstion to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi) Work out the quantities of following items of work by referring Figure 1. (12):
+a) PCC (1:2:4) in foundation bed.
+b) Ist class brickwork in foundation.
+c) 2.5 cm. thick concrete DPC.
+Prepare an abstract, using local prevailing rates.
+
+Q2) a) Prepare rate analysis for brick masonry in C.M. 1:6 for foundation and plinth. - (6)
+b) State the differences between revised estimate and supplementary estimate (3)
+c) Explain ‘day work’ and ‘task work’. (3)
+
+Q3)a) AR.C.C. Simply supported slab of clear size 2.7m x 5.4m is reinforced with 10mm diameter @ (6)
+120mm C/C bent up bars alternately. Distribution bars 6mm diameter @ 130mm C/C. Thickness of
+slab is 130mm. Bearing of slab is 150mm (projection). Calculate the total quantity of mild steel.
+reinforcement and prepare bar bending schedule.
+b) Calculate the volume of earthwork for a road by using Trapezoidal formula. (6)
+Formation width of road =8m, Side slope in filling = 2:1, Side slope in cutting = 1.5:1, longitudinal
+Slope = 1 in 100 (falling gradient). The formation level coincides with GL at chainage ‘0’.
+Chainage(m) 0 20 40 60 80 100
+G.L. (m) 51.0 51.50 51.65 52.05 92.15 52.30
+
+Q4)a) State the advantages and disadvantages of open specification.
+
+— Draft detailed specification for 20mm thick external plastering with cement mortar 1:4. (6)
+b) Explain the terms — ‘General overhead’ and Job overhead’. (6)
+Also explain factors affecting rate analysis.
+Q5)a) Explain the procedure of submission and opening of tender. (6)
+When does a tender become informal?
+b) Differentiate between security deposit and retention money. (3)
+
+gs CY:
+--- page 2 ---
+c) Explain general conditions of contracts. (3)
+
+Q6)a) Differentiate between depreciation and obsolescence. Explain Sinking Fund method of depreciation. (6)
+b) A person has purchased a plot of land costing Rs. 12,00,000/- and constructed a building there at a (6)
+cost of Rs. 40,00,000/- allowing a net return of @ 8% on cost of construction & 7% on cost of land.
+Work out the standard rent of the property with the following data.
+i) Sinking fund on 4% basis for a future life of 75 years. ii) annual maintenance is 2 % of cost of
+
+construction.
+Q7) a) What is Approximate estimate? What are the different methods? Explain any one in brief. (3)
+b) Explain Mass Haul diagram with the help of a sketch. (3)
+c) Define Specification. What are the Purposes of specification? (3)
+d) Explain labour contract, stating the advantages and disadvantages. (3)
+--- page 3 ---
+y D= P2281 M
+Room ! Welyn a
+“ 3-2x3m
+D
+Ip |
+D
+Z.
+Room a
+“ 35 ¥B2mM |
+29X32 M
+1 —— —
+Ww oa
+_
+a Ine Depa a aE
+a As
+AM > oam
+DPC. 2:5 em thk.
+pes an
+O-6 Mm Aviv
+ue ro GQ: L:
+mae 7S
+an LJ
+O4m “ Kose
+O-Am Ley Fi 9. 1] @.No-l
+1. U
+Odom] [a . ia ha ray
+iam t :
+C3 y,
+
+{17
+````
+
+## 2017-18 · Final-Exam · Sem 7 · paper 9a00bcf20075
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION AND VALUATION (CIVIL), FINAL EXAM(1).pdf`
+- Printed on paper: exam date: 05 December 2017
+- Text: ocr (3 pages), mean OCR confidence 86.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+a Programme: B. Tech (CIVIL) Year: IV Semester: VII
+
+Batch: 2016-17
+Academic Year: 2017-2018
+
+Subject: Quantity Surveying, Estimation and Valuation
+
+Date: 05 December 2017 Time: 10.904
+
+Re-Examination
+
+‘Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+NB:
+1) Question No.01 is compulsory.
+2) Out of remaining questions, attempt any four main questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Qi Work out the quantities of below mentioned items of work from given plan and section provided in
+figure 1.
+(a) 18" Class BW in cement mortar 1:2 in foundation up to GL. 04
+(b) External plastering , 25 mm thick in C.M (1:3) ( including plinth steps), 04
+(c) R.C.C M 30 grade in slab, lintels and plinth steps. 04
+
+Q.2 (a) Perform detailed rate analysis for RCC column work in M20 grade with 1% steel including 06
+shuttering complete.
+(b) What are the restricted specifications? Explain. 06
+Write the detailed specification for External plastering, 25 mm thick in C.M (1:3).
+
+Q.3 (a) Prepare approximate estimate for G+6 R.C.C residential building consisting of four flats per floor 06
+and each flat has a carpet area of 80 sq mt. Assume area occupied by walls and columns etc. as 8.5
+% of built up area and area of circulation as 25% of built up area. Assume cost of construction of
+superstructure as Rs 10,000/- per sq mt. Assume suitable percentages for services, contingencies and
+work establishment charges.
+= (b) Enumerate different civil construction project contracts types. What are the essentials requirements 06
+of a valid contract? Differentiate between void and voidable contract.
+
+Q.4 (a) Draft a tender inviting notice for civil works of construction of flyover over express highway for an 04
+: estimated amount of Rs 180 crores and project duration of 15 months.
+J (b) Calculate the quantity of earthwork in cutting and in banking for the portion of road with the 08
+following data.
+
+Wis
+--- page 2 ---
+GL 135.6 | 133.8 133.5 | 135.3 | 135.8 | 136.2 | 136.3 | 136.5
+Chainage(m) | 0 (A) | 30 60 90 120 150 180 210(B)
+
+The road is at a uniform falling gradient of 1 in 120 from point ‘A’ with formation level of 135.5, to
+a point ‘B’. Distance between two points is 210 meters. The formation width of road is 10 meters.
+Side slope in cutting is 1.5:1 and in banking is 2:1. Adopt mid-section method.
+
+Q.5 (a) Work out the quantity of steel in a 7.0 meter long simply supported beam of size 350 x 600 mm —:06
+overall. Bottom bar: 4 — 12 mm diameter straight bars. Anchor bar: 2 — 12mm diameter straight bars,
+stirrups 10mm diameter @ 250 mm c/c throughout the length of the beam. Clear cover as 25 mm on
+all sides. Refer figure 2.
+
+(b) Explain the following - 06
+a) Liquidated damages for delay and un liquidated damages,
+b) Termination of contract.
+
+Q.6 (a) A building newly constructed including services costs Rs 20 lacs over a plot of land costing Rs 7 06
+lacs. :
+Workout monthly standard rent per flat from the following data:-
+a) Expected net return from building at 8.5 %
+b) Expected net return from land at 5 %
+c) Rate of interest on sinking fund: 4%
+d) Design life of building : 80 years
+e) Salvage value: 10% of the cost of building
+f) Annual repairs and maintenance: % % of building cost
+g) Taxes and other outgoings: 28.5 % of gross rent
+(b) i) Specify the rules for deduction for openings as per IS 1200 for items of work - 06
+plastering to walls.
+ii) Explain Easement Rights.
+
+Q.7. a) Write short notes on the following 06
+(i) Mass haul diagram
+(ii) CBRI method of approximate estimate
+b) Explain the following 06
+
+(i) Sinking fund and years purchase
+(ii) Belting Method of valuation
+
+2-—12mm
+
+L A Clear cover 25 mm
+
+— | ™ 4—12mm hin diameter @ V-
+
+250 mm c/c
+
+7.0 meters
+
+Fig. 2. Details of reinforcement of a beam
+
+2/5
+--- page 3 ---
+_ yr 89 w “|
+
+| | Sires | | =e |
+i Room 1
+3.60 x 3.0 |
+Roome2 w {
+hel 3.60 x 3.0 os
+
+a ] i
+“| To Kap e |
+
+-_ 4
+|
+i
+_ | 360 bd |
+\ \
+\ \ BN Jf}
+Siem Ne
+All walig 36cm So
+D 1.20x2.10m Wt
+WwW 1.20% 1.35m ;
+WI 3.0 x 1.35m (3.0 meter is are length)
+
+All dimensions are in meters in plan and section
+No chajja is provided
+
+Riser for plinth steps: 10 em
+
+Tread for plinth steps: 30 cm
+
+Lintel bearing: 1S5ems on the load bearing walls
+DPC is 100 mim thick
+
+RCC slab is 100 mm thick
+
+RCC slab projection beyond wall edge is 150 mm
+Width of plinth steps is 1.5 meters
+
+Lintel thickness is 150 mm
+
+Fig. 1. Plan and sectional details of a building
 ````
 
 ## 2017-18 · Final-Exam · Sem 8 · paper bbfeba5c0167
@@ -3243,6 +3503,7 @@ eee ae
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING ESTIMATIO AND VALUATION BATCH 17-18 RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 31 May 2018
 - Text: ocr (4 pages), mean OCR confidence 82.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3304,7 +3565,6 @@ al
 
 SECTION OF Main WALLS
 
-es ie ae == : a n
 risen — lBe
 =| a: nec ait
 x x & “20 ELEVATION OF PARTITION eons E
@@ -3319,7 +3579,6 @@ i | flume coucrere man!
 oe L7Ocm--| oF RARTMON walt f on oa |
 PLAN “43 L. = 4.2m 4
 al O12 2.hem t > SECTION- RG,
-WELLOn Lam ‘After memowt ef eof JENLARGED!
 } $.t0M —— Tsem L.C.OVER
 
 C = - _ pes 1G cm RLJAAS
@@ -3441,6 +3700,7 @@ iii. Obsolescence .
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/QUANTITY SURVEYING,ESTIMATION AND VALUATION/Quantity_surveying__Estimation_and_valuation_2017-18 Re-exam.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 28 June 2018
 - Text: ocr (3 pages), mean OCR confidence 81.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME ~
@@ -3656,7 +3916,6 @@ ye 150 mm pitch both ways een
 + alt
 
 250mm|| ¢@ «@ ks i
-100 mmf Lars me ene Teepe he hd
 © Plain cement conc. 1:4:8 3h;
 Sectional Elevation = . Ge b)
 Fig.d @.No: 5
@@ -4018,6 +4277,354 @@ Figure 2 —Q. No.: 5-a
 @)s
 ````
 
+## 2016-17 · Re-Exam · Sem 7 · paper d1d467a3674e
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION AND VALUATION B TECH (CIVIL), BATCH 15-16 RE EXAM _def1f4c4.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 25 November 2016
+- Text: ocr (3 pages), mean OCR confidence 84.5
+
+````text
+SVKW’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (Civil) Year : IV Semester: VII
+
+Academic Year : 2016-2017 SZ JS
+Li ore
+ca
+
+: : VS
+Subject : Quantity Surveying, Estimation and Valuation Marks : 60 / ¥
+- ° v Time: 10 O0afn paoo we
+
+Date : 25 November 2016 Duration: 3 (hrs) po RARY
+\%
+| FINAL EXAMINATION (Batch 2016-17) Noy i
+
+\ RE - EXAMINATION (Batch 2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1) Attempt Any Four questions , (12)
+(a) Write a short note on Centre line method of estimation. (03)
+(6) Define Depreciation. Write down the various methods for finding out annual depreciation. (03)
+(c) Write down the general specifications of a First Class Building. (03)
+(d) Write a short note on different types of estimate. (03)
+(e) Discuss the different methods for calculating quantity of earthwork in road work. (03)
+
+Q.2) Attempt following (12)
+
+(a) Reduced level of ground along the centre line of a proposed road from chainage 5 to chainage (08)
+15 are given below. The formation level at the 5" chainage is 108 and the road is in
+downward gradient of 1 in 200 upto the chainage 9 and then the gradient changes to 1 in 100
+downward. Formation width of road is 10 metre and the side slopes of banking are 1.5:1
+(Horizontal: Vertical). Length of chain is 40 metre. Prepare an estimate of quantity earthwork.
+
+Use Mid-secHon method.
+
+Chainage 5 6 7 8 9 10 11 12 13 14. | 15
+
+— RL. of | 106 | 106.6 | 106.4 | 106.9 | 107. | 105.3 | 104.0 | 103.1 | 103.6 | 103. | 102.30
+ground .00 | 0 4 0 2 0 0 0 ° {2 00
+
+peu (b) Calculate the per cubic metre cost of cement concrete work having proportion 1:2:4. (04)
+
+Page - 13
+--- page 2 ---
+Q.3) Attempt following (12)
+
+(a) A two storied building is standing on a plot of land measuring 1200 sq. m. The plinth area of (06)
+each storey is 700 sq. m. The building is of R.C.C. framed structure and the future life may
+be taken as 70 years. The building fetches a gross rent of Rs. 2000/- per month. Work out the
+capitalized value of the property on the basis of 5% net yield. For sinking fund 3%
+compound interest may be assumed. Cost of land may be taken Rs. 60/- per sq. m. Cost of
+construction of building is Rs. 180/- per sq. m. Other data required may be assumed suitably.
+
+(b) Write a detailed note on Valuation including its purposes, (06)
+Explain belting method of valuation.
+
+Q.4) Attempt following (12)
+
+Estimate the quantities of following items of a two roomed building from the given figure- 12)
+
+i. Earthwork in excavation in foundation
+
+ii. Lime Concrete in foundation _—
+
+Brickwork in superstructure (above the plinth level) only
+Two ROOMED BUILDING
+
+san ——="
+
+iii
+
+. a =
+. «l]
+
+ALS} LA
+
+= Room 4m’ 6m 7 Room 6m * 6m P=
+
+[-
+
+—| - 4.00 6.00 m
+Ss o Ay o |
+. a: an _ ~ =
+
+PLAN : i
+
+em R.C-C. 5 2 |
+
+7.5 cm L.G. Terrace Over 13
+
+a All Walls are of same. section
+. ... Lintels over:Doors, Windows and
+: - Shetves are 15 cm thick A.B.
+=.
+gS . ,
+, gS 3
+7 . .
+2 leg op.c. . : .
+2.5 emc.c. Over 7-5 om L-CS. |
+
+— so cm . _ Doors.D-1.20 m x: 2HOm ~~
+Windows W-1,00 = 1.50 1m
+——
+
+aad a CS =~ 20 “g
+SE 1 9m ‘Shelves S-1.00 mx 1.50m
+= = AS Gre ~
+
+gi ee bees
+GROSS SECTION OF WALL ON AA.
+
+Foge — 20 3
+--- page 3 ---
+Q.5) Attempt following (12)
+
+(a) Prepare a preliminary estimate of a building project with a total plinth area of all buildings of (06)
+2200 sq m. Given that-
+i. Plinth area rate —Rs. 1050 per sq m.
+ii. Extra for architectural treatment —2.5 % of the building cost
+iii. Extra for water supply and sanitary installation — 3 % of the building cost
+iv. Extra for internal electrical installations — 12 % of the building cost
+vy. Extra for services — 5 % of the building cost
+vi. Contingencies — 5 %
+vii. Supervision Charges — 8 %
+(b) Calculate the per square metre cost of 12 mm thick plaster having proportion of cement and (06)
+sand as 1:6. :
+
+Q.6) Attempt following (12)
+
+(a) Define Contract. What are the objects and requirements of a contract? Enlist the different (06)
+types of contracts.
+
+(b) Estimate the quantities of brick, cement, sand (coarse and fine) and 20 mm stone ballast (06)
+required in the construction of a building.
+Given data-
+Cement Concrete of 1:4:8 in foundation using 20 mm stone ballast — 12 cu. m.
+I class brickwork in foundation and plinth in 1:6 cement sand mortar — 25 cu. m.
+
+| Q.7) Attempt, Bol, questions. oo ~ (12)
+(a) Write short notes on Liquidated damage and Earnest Money. ; (06)
+(b) Differentiate between- . 68
+
+| i. Scrap-Value and Salvage Value
+_ ii, Market value and Book Value
+````
+
+## 2016-17 · Re-Exam · Sem 7 · paper c66ff51a2fad
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION AND VALUATION B TECH (CIVIL), BATCH 2015-16 RE EXA_6ebb1e65.pdf`
+- Printed on paper: max marks: 60; exam date: 25 November 2016
+- Text: ocr (3 pages), mean OCR confidence 86.3
+
+````text
+SVKWM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (Civil) Year: IV Semester: VII
+
+Academic Year : 2016-2017
+
+Subject : Quantity Surveying, Estimation and Valuation Marks : 60
+Time: 10.00
+
+Date : 25 November 2016 Duration: 3 (high
+
+FINAL EXAMINATION (Batch 2016-17)
+RE - EXAMINATION (Batch 2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+T) Assume Suitable data if necessary.
+
+Q.1) Attempt Any Four questions (12)
+(a) Write a short note on Centre line method of estimation. (03)
+(b) Define Depreciation. Write down the various methods for finding out annual depreciation. (03)
+(c) Write down the general specifications of a First Class Building. (03)
+(d) Write a short note on different types of estimate. (03)
+(e) Discuss the different methods for calculating quantity of earthwork in road work. (03)
+Q.2) Attempt following (12)
+(a) Reduced level of ground along the centre line of a proposed road from chainage 5 to chainage (08) .
+15 are given below. The formation level at the 5 chainage is 108 and the road is in
+downward gradient of 1 in 200 upto the chainage 9 and then the gradient changes to 1 in 100
+downward. Formation width of road is 10 metre and the side slopes of banking are 1.5:1
+(Horizontal: Vertical). Length of chain is 40 metre. Prepare an estimate of quantity earthwork.
+Use Mid-secHon method.
+Chainage 5 6 7 8 9 10 11 12 13 14. (| 15
+nee RL. of | 106 | 106.6 | 106.4 | 106.9 | 107. | 105.3 | 104.0 | 103.1 | 103.6 | 103. | 102.30
+ground 00 | 0 4 0 2 0 0 0 ° {2 00
+a (6) Calculate the per cubic metre cost of cement concrete work having proportion 1:2:4. (04)
+--- page 2 ---
+c/s
+
+Q.3) Attempt following (12)
+
+(a) __ A two storied.building is standing on a plot of land measuring 1200 sq. m. The plinth area of (06)
+each storey is 700 sq. m. The building is of R.C.C. framed structure and the future life may
+be taken as 70 years. The building fetches a gross rent of Rs. 2000/- per month. Work out the
+capitalized value of the property on the basis of 5% net yield. For sinking fund 3%
+compound interest may be assumed. Cost of land may be taken Rs. 60/- per sq. m. Cost of
+construction of building is Rs. 180/- per sq. m. Other data required pay be assumed suitably.
+
+(b) Write a detailed note on Valuation including its purposes, _ 7 (06)
+Explain belting method of valuation. - : :
+
+Q.4) Attempt following (12)
+
+Estimate the quantities of following items of a two roomed building from the given figure-
+i. Earthwork in excavation in foundation (12)
+ii. Lime Concrete in foundation .
+
+- tii. Brickwork in superstructure (above the plinth level) only
+Two ROOMED BUILDING
+
+> = "30 om ——— 7 aie
+: - T a
+. .
+. -l]
+A - PY
+. a
+: 1 s=
+Ml = Room 4m x 6m Room 6m x 6m 3
+[| 2
+a
+— LS - 400m = t 6.00 mm, ;
+ie D ~
+| ae cd 30 om. 4 ri
+PLAN
+
+‘_s—7-5.0m LC. Terrace Over 13 cm R.C.C.
+
+- All Walls are of same. section
+Lintels over:Doors, Windows and
+* Shelves are 15 cm thick FR. B.
+
+om 26m D.P.C. . _
+2.6 em c.c. Over 75 cm L.C.
+
+| poors.p-1.30 m x 240 m ie
+
+Windows W-1.00 >< 1.590 m
+Shelves S-1.00 mx 1.50'm
+~
+
+GROSS SECTION OF WALL ON AA
+--- page 3 ---
+Cs
+
+Q.5)
+(a)
+
+(b)
+
+Q.6)
+@)
+)
+
+Q.7)
+@)
+
+(b)
+_ ii. Market value and Book Value
+
+Attempt following (12)
+
+Prepare a preliminary estimate of a building project with a total plinth area of all buildings of (06)
+2200 sq m. Given that-
+
+i. Plinth area rate — Rs. 1050 per sq m.
+
+ii. Extra for architectural treatment —2.5 % of the building cost
+
+iii. Extra for water supply and sanitary installation — 3 % of the building cost
+
+iv. Extra for internal electrical installations — 12 % of the building cost
+
+v. Extra for services — 5 % of the building cost
+
+vi. Contingencies —5 %
+
+vii. Supervision Charges — 8 %
+Calculate the per square metre cost of 12 mm thick plaster having proportion of cement and (06)
+sand as 1:6.
+
+Attempt following (12)
+
+Define Contract. What are the objects and requirements of a contract? Enlist the different (06)
+types of contracts.
+
+Estimate the quantities of brick, cement, sand (coarse and fine) and 20 mm stone ballast (06)
+required in the construction of a building.
+
+Given data-
+
+Cement Concrete of 1:4:8 in foundation using.20 mm stone ballast — 12 cu. m.
+
+I class brickwork in foundation and plinth in 1:6 cement sand mortar — 25 cu. m.
+
+Attempt; Rot, questions. ~ (12)
+Write short notes on Liquidated damage and Earnest Money. 7 (06)
+Differentiate between- . a)
+
+(ee,
+
+i. Scrap Value and Salvage Value
+
+fage- Sa 3
+````
+
 ## 2016-17 · Re-Exam · Sem 7 · paper 2fe1ef71d838
 
 - Departments: Civil
@@ -4025,6 +4632,7 @@ Figure 2 —Q. No.: 5-a
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION AND VALUATION BATCH 16-17 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 27 May 2017
 - Text: ocr (3 pages), mean OCR confidence 76.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / SVKM’s NMIMS
@@ -4187,9 +4795,7 @@ jenna Og
 { | ay - |
 Ls ‘PLL AF SX Stem
 
-ee eS SLPS FEISS EE COE CEE SO
 ee ae eae Eee ee = rr
-(Cee D iele eTe oe reg ites elt ree Olas wid ot ets tine Pent be ETT
 
 Ben AC urw ay
 |
@@ -4377,6 +4983,7 @@ PRE a = ae i cia Ma
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION AND VALUATION B TECH (CIVIL), 2015-16 FINAL EXAM.pdf`
 - Printed on paper: exam date: 28/11/2015
 - Text: ocr (4 pages), mean OCR confidence 66.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4518,7 +5125,6 @@ sy _v¥§__|_ 72 z oO} —
 Tr... }\~ Ge
 Nee
 a + Le | NT 776.19 oat
-Ss 1 i= is @il '& P
 QS _ is} Ny >
 S &
 aan a Ae iS
@@ -4534,7 +5140,6 @@ wins r, i
 g 5
 on: . 8
 Schedule oO Doors and Windows
-Name|tType | Sve [Deseipnan
 Doobv D4 [20% 9-50" Adly panwelled
 Window Wy 1/SDK 1-50 @ Lazed Window
 
@@ -4559,7 +5164,6 @@ Sees me “4
 1
 : 1
 \ yommd ROD 14 oem | '
-; eatcg \ Tplivaspanc] 6+ SLAB tamm poo!
 t ; @racmes. | |b
 == = Lg
 =1 ea) io
@@ -4568,7 +5172,6 @@ t ; @racmes. | |b
 = {
 t | t
 , H 3
-{ tomim @ ROD voce H | tomm PROD 2ocmC|
 ' . a is RC.SLAB SE Lo __--- dpe ----4
 301 “35 Jbl 4
 &! Roor-\ -_ i
@@ -4589,6 +5192,7 @@ Iu
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/QUANTITY SURVEYING,ESTIMATION AND VALUATION/Quantity, Surveying, Estimation and Valuation Batch 2015-16 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 13/04/2016
 - Text: ocr (3 pages), mean OCR confidence 76.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
@@ -4749,11 +5353,9 @@ vy FE i) Re tab
 Both, |INe S “ : t
 1 8ae7aL Dp, icin : gm.
 HALL ee nh
-" BED Roo. 3-Smx 5-b™m V1. fae me
 | wy 4.5m%4qom . of oer OL
 1 > fo e- AO)
 ~ p® D
-ci ; Gu) 4 p- Gy al
 g emi ee : ite rr
 —_ = eT os Be, eo
 ie® "Oe 4 Yi
@@ -4800,6 +5402,7 @@ Figure - 2
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING ESTIMATION AND VALUATION BATCH 2015-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 09 June 2016
 - Text: ocr (4 pages), mean OCR confidence 71.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVEM’s NMIMS
@@ -4908,7 +5511,6 @@ I 1.30 ' H 30} | |
 Ay 2 — c—4 —D i
 i} 4
 : 1 & Bed room i 1 Bed Room ' ; E
-witticw 6.0 x 4.50 I 5.0 x 4.50 BY Wi 4
 ; I
 mie
 f i
@@ -4976,354 +5578,6 @@ PL\ al L
 = DEAR EIA Be PO Pd Teese
 
 Fig. =: 9... “
-````
-
-## 2015-16 · Re-Exam · Sem 7 · paper d1d467a3674e
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION AND VALUATION B TECH (CIVIL), BATCH 15-16 RE EXAM _def1f4c4.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 25 November 2016
-- Text: ocr (3 pages), mean OCR confidence 84.5
-
-````text
-SVKW’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (Civil) Year : IV Semester: VII
-
-Academic Year : 2016-2017 SZ JS
-Li ore
-ca
-
-: : VS
-Subject : Quantity Surveying, Estimation and Valuation Marks : 60 / ¥
-- ° v Time: 10 O0afn paoo we
-
-Date : 25 November 2016 Duration: 3 (hrs) po RARY
-\%
-| FINAL EXAMINATION (Batch 2016-17) Noy i
-
-\ RE - EXAMINATION (Batch 2015-16)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1) Attempt Any Four questions , (12)
-(a) Write a short note on Centre line method of estimation. (03)
-(6) Define Depreciation. Write down the various methods for finding out annual depreciation. (03)
-(c) Write down the general specifications of a First Class Building. (03)
-(d) Write a short note on different types of estimate. (03)
-(e) Discuss the different methods for calculating quantity of earthwork in road work. (03)
-
-Q.2) Attempt following (12)
-
-(a) Reduced level of ground along the centre line of a proposed road from chainage 5 to chainage (08)
-15 are given below. The formation level at the 5" chainage is 108 and the road is in
-downward gradient of 1 in 200 upto the chainage 9 and then the gradient changes to 1 in 100
-downward. Formation width of road is 10 metre and the side slopes of banking are 1.5:1
-(Horizontal: Vertical). Length of chain is 40 metre. Prepare an estimate of quantity earthwork.
-
-Use Mid-secHon method.
-
-Chainage 5 6 7 8 9 10 11 12 13 14. | 15
-
-— RL. of | 106 | 106.6 | 106.4 | 106.9 | 107. | 105.3 | 104.0 | 103.1 | 103.6 | 103. | 102.30
-ground .00 | 0 4 0 2 0 0 0 ° {2 00
-
-peu (b) Calculate the per cubic metre cost of cement concrete work having proportion 1:2:4. (04)
-
-Page - 13
---- page 2 ---
-Q.3) Attempt following (12)
-
-(a) A two storied building is standing on a plot of land measuring 1200 sq. m. The plinth area of (06)
-each storey is 700 sq. m. The building is of R.C.C. framed structure and the future life may
-be taken as 70 years. The building fetches a gross rent of Rs. 2000/- per month. Work out the
-capitalized value of the property on the basis of 5% net yield. For sinking fund 3%
-compound interest may be assumed. Cost of land may be taken Rs. 60/- per sq. m. Cost of
-construction of building is Rs. 180/- per sq. m. Other data required may be assumed suitably.
-
-(b) Write a detailed note on Valuation including its purposes, (06)
-Explain belting method of valuation.
-
-Q.4) Attempt following (12)
-
-Estimate the quantities of following items of a two roomed building from the given figure- 12)
-
-i. Earthwork in excavation in foundation
-
-ii. Lime Concrete in foundation _—
-
-Brickwork in superstructure (above the plinth level) only
-Two ROOMED BUILDING
-
-san ——="
-
-iii
-
-. a =
-. «l]
-
-ALS} LA
-
-= Room 4m’ 6m 7 Room 6m * 6m P=
-
-[-
-
-—| - 4.00 6.00 m
-Ss o Ay o |
-. a: an _ ~ =
-
-PLAN : i
-
-em R.C-C. 5 2 |
-
-7.5 cm L.G. Terrace Over 13
-
-a All Walls are of same. section
-. ... Lintels over:Doors, Windows and
-: - Shetves are 15 cm thick A.B.
-=.
-gS . ,
-, gS 3
-7 . .
-2 leg op.c. . : .
-2.5 emc.c. Over 7-5 om L-CS. |
-
-— so cm . _ Doors.D-1.20 m x: 2HOm ~~
-Windows W-1,00 = 1.50 1m
-——
-
-aad a CS =~ 20 “g
-SE 1 9m ‘Shelves S-1.00 mx 1.50m
-= = AS Gre ~
-
-gi ee bees
-GROSS SECTION OF WALL ON AA.
-
-Foge — 20 3
---- page 3 ---
-Q.5) Attempt following (12)
-
-(a) Prepare a preliminary estimate of a building project with a total plinth area of all buildings of (06)
-2200 sq m. Given that-
-i. Plinth area rate —Rs. 1050 per sq m.
-ii. Extra for architectural treatment —2.5 % of the building cost
-iii. Extra for water supply and sanitary installation — 3 % of the building cost
-iv. Extra for internal electrical installations — 12 % of the building cost
-vy. Extra for services — 5 % of the building cost
-vi. Contingencies — 5 %
-vii. Supervision Charges — 8 %
-(b) Calculate the per square metre cost of 12 mm thick plaster having proportion of cement and (06)
-sand as 1:6. :
-
-Q.6) Attempt following (12)
-
-(a) Define Contract. What are the objects and requirements of a contract? Enlist the different (06)
-types of contracts.
-
-(b) Estimate the quantities of brick, cement, sand (coarse and fine) and 20 mm stone ballast (06)
-required in the construction of a building.
-Given data-
-Cement Concrete of 1:4:8 in foundation using 20 mm stone ballast — 12 cu. m.
-I class brickwork in foundation and plinth in 1:6 cement sand mortar — 25 cu. m.
-
-| Q.7) Attempt, Bol, questions. oo ~ (12)
-(a) Write short notes on Liquidated damage and Earnest Money. ; (06)
-(b) Differentiate between- . 68
-
-| i. Scrap-Value and Salvage Value
-_ ii, Market value and Book Value
-````
-
-## 2015-16 · Re-Exam · Sem 7 · paper c66ff51a2fad
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION AND VALUATION B TECH (CIVIL), BATCH 2015-16 RE EXA_6ebb1e65.pdf`
-- Printed on paper: max marks: 60; exam date: 25 November 2016
-- Text: ocr (3 pages), mean OCR confidence 86.3
-
-````text
-SVKWM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (Civil) Year: IV Semester: VII
-
-Academic Year : 2016-2017
-
-Subject : Quantity Surveying, Estimation and Valuation Marks : 60
-Time: 10.00
-
-Date : 25 November 2016 Duration: 3 (high
-
-FINAL EXAMINATION (Batch 2016-17)
-RE - EXAMINATION (Batch 2015-16)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-T) Assume Suitable data if necessary.
-
-Q.1) Attempt Any Four questions (12)
-(a) Write a short note on Centre line method of estimation. (03)
-(b) Define Depreciation. Write down the various methods for finding out annual depreciation. (03)
-(c) Write down the general specifications of a First Class Building. (03)
-(d) Write a short note on different types of estimate. (03)
-(e) Discuss the different methods for calculating quantity of earthwork in road work. (03)
-Q.2) Attempt following (12)
-(a) Reduced level of ground along the centre line of a proposed road from chainage 5 to chainage (08) .
-15 are given below. The formation level at the 5 chainage is 108 and the road is in
-downward gradient of 1 in 200 upto the chainage 9 and then the gradient changes to 1 in 100
-downward. Formation width of road is 10 metre and the side slopes of banking are 1.5:1
-(Horizontal: Vertical). Length of chain is 40 metre. Prepare an estimate of quantity earthwork.
-Use Mid-secHon method.
-Chainage 5 6 7 8 9 10 11 12 13 14. (| 15
-nee RL. of | 106 | 106.6 | 106.4 | 106.9 | 107. | 105.3 | 104.0 | 103.1 | 103.6 | 103. | 102.30
-ground 00 | 0 4 0 2 0 0 0 ° {2 00
-a (6) Calculate the per cubic metre cost of cement concrete work having proportion 1:2:4. (04)
---- page 2 ---
-c/s
-
-Q.3) Attempt following (12)
-
-(a) __ A two storied.building is standing on a plot of land measuring 1200 sq. m. The plinth area of (06)
-each storey is 700 sq. m. The building is of R.C.C. framed structure and the future life may
-be taken as 70 years. The building fetches a gross rent of Rs. 2000/- per month. Work out the
-capitalized value of the property on the basis of 5% net yield. For sinking fund 3%
-compound interest may be assumed. Cost of land may be taken Rs. 60/- per sq. m. Cost of
-construction of building is Rs. 180/- per sq. m. Other data required pay be assumed suitably.
-
-(b) Write a detailed note on Valuation including its purposes, _ 7 (06)
-Explain belting method of valuation. - : :
-
-Q.4) Attempt following (12)
-
-Estimate the quantities of following items of a two roomed building from the given figure-
-i. Earthwork in excavation in foundation (12)
-ii. Lime Concrete in foundation .
-
-- tii. Brickwork in superstructure (above the plinth level) only
-Two ROOMED BUILDING
-
-> = "30 om ——— 7 aie
-: - T a
-. .
-. -l]
-A - PY
-. a
-: 1 s=
-Ml = Room 4m x 6m Room 6m x 6m 3
-[| 2
-a
-— LS - 400m = t 6.00 mm, ;
-ie D ~
-| ae cd 30 om. 4 ri
-PLAN
-
-‘_s—7-5.0m LC. Terrace Over 13 cm R.C.C.
-
-- All Walls are of same. section
-Lintels over:Doors, Windows and
-* Shelves are 15 cm thick FR. B.
-
-om 26m D.P.C. . _
-2.6 em c.c. Over 75 cm L.C.
-
-| poors.p-1.30 m x 240 m ie
-
-Windows W-1.00 >< 1.590 m
-Shelves S-1.00 mx 1.50'm
-~
-
-GROSS SECTION OF WALL ON AA
---- page 3 ---
-Cs
-
-Q.5)
-(a)
-
-(b)
-
-Q.6)
-@)
-)
-
-Q.7)
-@)
-
-(b)
-_ ii. Market value and Book Value
-
-Attempt following (12)
-
-Prepare a preliminary estimate of a building project with a total plinth area of all buildings of (06)
-2200 sq m. Given that-
-
-i. Plinth area rate — Rs. 1050 per sq m.
-
-ii. Extra for architectural treatment —2.5 % of the building cost
-
-iii. Extra for water supply and sanitary installation — 3 % of the building cost
-
-iv. Extra for internal electrical installations — 12 % of the building cost
-
-v. Extra for services — 5 % of the building cost
-
-vi. Contingencies —5 %
-
-vii. Supervision Charges — 8 %
-Calculate the per square metre cost of 12 mm thick plaster having proportion of cement and (06)
-sand as 1:6.
-
-Attempt following (12)
-
-Define Contract. What are the objects and requirements of a contract? Enlist the different (06)
-types of contracts.
-
-Estimate the quantities of brick, cement, sand (coarse and fine) and 20 mm stone ballast (06)
-required in the construction of a building.
-
-Given data-
-
-Cement Concrete of 1:4:8 in foundation using.20 mm stone ballast — 12 cu. m.
-
-I class brickwork in foundation and plinth in 1:6 cement sand mortar — 25 cu. m.
-
-Attempt; Rot, questions. ~ (12)
-Write short notes on Liquidated damage and Earnest Money. 7 (06)
-Differentiate between- . a)
-
-(ee,
-
-i. Scrap Value and Salvage Value
-
-fage- Sa 3
 ````
 
 ## 2015-16 · Re-Exam · Sem 8 · paper cefce17869dc
@@ -5492,277 +5746,4 @@ Figure &
 
 3) 2
 3/8
-````
-
-## Year not stated · Final-Exam · Sem 7 · paper 506aa2ed285d
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION AND VALUATION (CIVIL), FINAL EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; exam date: 05 December 2017
-- Text: ocr (3 pages), mean OCR confidence 75.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) y Year: IV ~ Semester: VI ‘
-
-Academic Year: 2017-2018
-
-/ Subject: Quantity Surveying, Estimation and Valuation j eR a
-~~ Marks: 60 » ey f ee
-Date: 05 December 2017 ~ Time: 10.00 am t@¢.00 pm 2éMEB Yu
-Durations: 3 (h vas ISRARYW =
-No. of Pages:
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new quéstion to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi) Work out the quantities of following items of work by referring Figure 1. (12):
-a) PCC (1:2:4) in foundation bed.
-b) Ist class brickwork in foundation.
-c) 2.5 cm. thick concrete DPC.
-Prepare an abstract, using local prevailing rates.
-
-Q2) a) Prepare rate analysis for brick masonry in C.M. 1:6 for foundation and plinth. - (6)
-b) State the differences between revised estimate and supplementary estimate (3)
-c) Explain ‘day work’ and ‘task work’. (3)
-
-Q3)a) AR.C.C. Simply supported slab of clear size 2.7m x 5.4m is reinforced with 10mm diameter @ (6)
-120mm C/C bent up bars alternately. Distribution bars 6mm diameter @ 130mm C/C. Thickness of
-slab is 130mm. Bearing of slab is 150mm (projection). Calculate the total quantity of mild steel.
-reinforcement and prepare bar bending schedule.
-b) Calculate the volume of earthwork for a road by using Trapezoidal formula. (6)
-Formation width of road =8m, Side slope in filling = 2:1, Side slope in cutting = 1.5:1, longitudinal
-Slope = 1 in 100 (falling gradient). The formation level coincides with GL at chainage ‘0’.
-Chainage(m) 0 20 40 60 80 100
-G.L. (m) 51.0 51.50 51.65 52.05 92.15 52.30
-
-Q4)a) State the advantages and disadvantages of open specification.
-
-— Draft detailed specification for 20mm thick external plastering with cement mortar 1:4. (6)
-b) Explain the terms — ‘General overhead’ and Job overhead’. (6)
-Also explain factors affecting rate analysis.
-Q5)a) Explain the procedure of submission and opening of tender. (6)
-When does a tender become informal?
-b) Differentiate between security deposit and retention money. (3)
-
-gs CY:
---- page 2 ---
-c) Explain general conditions of contracts. (3)
-
-Q6)a) Differentiate between depreciation and obsolescence. Explain Sinking Fund method of depreciation. (6)
-b) A person has purchased a plot of land costing Rs. 12,00,000/- and constructed a building there at a (6)
-cost of Rs. 40,00,000/- allowing a net return of @ 8% on cost of construction & 7% on cost of land.
-Work out the standard rent of the property with the following data.
-i) Sinking fund on 4% basis for a future life of 75 years. ii) annual maintenance is 2 % of cost of
-
-construction.
-Q7) a) What is Approximate estimate? What are the different methods? Explain any one in brief. (3)
-b) Explain Mass Haul diagram with the help of a sketch. (3)
-c) Define Specification. What are the Purposes of specification? (3)
-d) Explain labour contract, stating the advantages and disadvantages. (3)
---- page 3 ---
-y D= P2281 M
-Room ! Welyn a
-“ 3-2x3m
-D
-Ip |
-D
-Z.
-Room a
-“ 35 ¥B2mM |
-29X32 M
-1 —— —
-Ww oa
-_
-a Ine Depa a aE
-a As
-AM > oam
-DPC. 2:5 em thk.
-pes an
-O-6 Mm Aviv
-ue ro GQ: L:
-mae 7S
-an LJ
-O4m “ Kose
-O-Am Ley Fi 9. 1] @.No-l
-1. U
-Odom] [a . ia ha ray
-iam t :
-C3 y,
-
-{17
-````
-
-## Year not stated · Final-Exam · Sem 7 · paper 9a00bcf20075
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/QUALITY SURVEY, ESTIMATION AND VALUATION/QUANTITY SURVEYING, ESTIMATION AND VALUATION (CIVIL), FINAL EXAM(1).pdf`
-- Printed on paper: exam date: 05 December 2017
-- Text: ocr (3 pages), mean OCR confidence 86.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-a Programme: B. Tech (CIVIL) Year: IV Semester: VII
-
-Batch: 2016-17
-Academic Year: 2017-2018
-
-Subject: Quantity Surveying, Estimation and Valuation
-
-Date: 05 December 2017 Time: 10.904
-
-Re-Examination
-
-‘Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-1) Question No.01 is compulsory.
-2) Out of remaining questions, attempt any four main questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qi Work out the quantities of below mentioned items of work from given plan and section provided in
-figure 1.
-(a) 18" Class BW in cement mortar 1:2 in foundation up to GL. 04
-(b) External plastering , 25 mm thick in C.M (1:3) ( including plinth steps), 04
-(c) R.C.C M 30 grade in slab, lintels and plinth steps. 04
-
-Q.2 (a) Perform detailed rate analysis for RCC column work in M20 grade with 1% steel including 06
-shuttering complete.
-(b) What are the restricted specifications? Explain. 06
-Write the detailed specification for External plastering, 25 mm thick in C.M (1:3).
-
-Q.3 (a) Prepare approximate estimate for G+6 R.C.C residential building consisting of four flats per floor 06
-and each flat has a carpet area of 80 sq mt. Assume area occupied by walls and columns etc. as 8.5
-% of built up area and area of circulation as 25% of built up area. Assume cost of construction of
-superstructure as Rs 10,000/- per sq mt. Assume suitable percentages for services, contingencies and
-work establishment charges.
-= (b) Enumerate different civil construction project contracts types. What are the essentials requirements 06
-of a valid contract? Differentiate between void and voidable contract.
-
-Q.4 (a) Draft a tender inviting notice for civil works of construction of flyover over express highway for an 04
-: estimated amount of Rs 180 crores and project duration of 15 months.
-J (b) Calculate the quantity of earthwork in cutting and in banking for the portion of road with the 08
-following data.
-
-Wis
---- page 2 ---
-GL 135.6 | 133.8 133.5 | 135.3 | 135.8 | 136.2 | 136.3 | 136.5
-Chainage(m) | 0 (A) | 30 60 90 120 150 180 210(B)
-
-The road is at a uniform falling gradient of 1 in 120 from point ‘A’ with formation level of 135.5, to
-a point ‘B’. Distance between two points is 210 meters. The formation width of road is 10 meters.
-Side slope in cutting is 1.5:1 and in banking is 2:1. Adopt mid-section method.
-
-Q.5 (a) Work out the quantity of steel in a 7.0 meter long simply supported beam of size 350 x 600 mm —:06
-overall. Bottom bar: 4 — 12 mm diameter straight bars. Anchor bar: 2 — 12mm diameter straight bars,
-stirrups 10mm diameter @ 250 mm c/c throughout the length of the beam. Clear cover as 25 mm on
-all sides. Refer figure 2.
-
-(b) Explain the following - 06
-a) Liquidated damages for delay and un liquidated damages,
-b) Termination of contract.
-
-Q.6 (a) A building newly constructed including services costs Rs 20 lacs over a plot of land costing Rs 7 06
-lacs. :
-Workout monthly standard rent per flat from the following data:-
-a) Expected net return from building at 8.5 %
-b) Expected net return from land at 5 %
-c) Rate of interest on sinking fund: 4%
-d) Design life of building : 80 years
-e) Salvage value: 10% of the cost of building
-f) Annual repairs and maintenance: % % of building cost
-g) Taxes and other outgoings: 28.5 % of gross rent
-(b) i) Specify the rules for deduction for openings as per IS 1200 for items of work - 06
-plastering to walls.
-ii) Explain Easement Rights.
-
-Q.7. a) Write short notes on the following 06
-(i) Mass haul diagram
-(ii) CBRI method of approximate estimate
-b) Explain the following 06
-
-(i) Sinking fund and years purchase
-(ii) Belting Method of valuation
-
-2-—12mm
-
-L A Clear cover 25 mm
-
-— | ™ 4—12mm hin diameter @ V-
-
-250 mm c/c
-
-7.0 meters
-
-Fig. 2. Details of reinforcement of a beam
-
-2/5
---- page 3 ---
-_ yr 89 w “|
-
-| | Sires | | =e |
-i Room 1
-3.60 x 3.0 |
-Roome2 w {
-hel 3.60 x 3.0 os
-
-a ] i
-“| To Kap e |
-
--_ 4
-|
-i
-_ | 360 bd |
-\ \
-\ \ BN Jf}
-Siem Ne
-All walig 36cm So
-D 1.20x2.10m Wt
-WwW 1.20% 1.35m ;
-WI 3.0 x 1.35m (3.0 meter is are length)
-
-All dimensions are in meters in plan and section
-No chajja is provided
-
-Riser for plinth steps: 10 em
-
-Tread for plinth steps: 30 cm
-
-Lintel bearing: 1S5ems on the load bearing walls
-DPC is 100 mim thick
-
-RCC slab is 100 mm thick
-
-RCC slab projection beyond wall edge is 150 mm
-Width of plinth steps is 1.5 meters
-
-Lintel thickness is 150 mm
-
-Fig. 1. Plan and sectional details of a building
 ````

@@ -524,6 +524,7 @@ BL-2 transactions
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/6th YEAR/COMPUTER/Sem_12/E - COMMERCE/E Commerce Batch 2022-23 Final0001.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 28/04/2023
 - Text: ocr (2 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 o>
@@ -617,7 +618,6 @@ b_ | List different Web Auctions and give examples of
 CO-3;SO-2;BL2 [7]
 each
 Q6 * | List e-Business role and their challenge [7]
-C0-3:802--BL-2 i usiness role ai eir ges
 CO-4; SO2-;BL-2 b Explain working of RMI in E commerce [7]
 Q7 a .
 Summaries what are web portals [7]
@@ -1552,6 +1552,74 @@ B) How social networking emerged from virtual communities? : [6]
 /)
 ````
 
+## 2015-16 · Re-Exam · Sem 7 · paper 41eb5266a992
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/ECOMMERCE/E COMMERCE B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 03/12/2015
+- Text: ocr (1 page), mean OCR confidence 90.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Computer) Year: IV Semester: VII
+Batch: 2014-2015
+
+ae
+Snes oP Bans,
+
+<a
+
+Academic Year: 2015-2016
+
+: . A ad
+Subject: E- Commerce vw ‘« r STME Ye
+
+Marks: 60 v
+Date: 03/12/2015 Time: 10. a t Ko hal
+Duration: 3 (hr i
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Out of 7 questions, attempt any 5 questions.
+
+2) In all 5 questions to be attempted.
+
+3) All questions carry equal marks.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+
+Q1 A. State and Explain various e-commerce promotional techniques (6)
+B. State and explain different payment techniques (6)
+Q2 A. What are web services? Explain any two in detail. Cb)
+B. Explain how SET protocol is used for secure electronic transaction
+with an example. (6)
+Q3 A. What is WAP? Explain its architecture. C6)
+B. What is e- commerce? Explain the different types of business models
+with examples. C6)
+Q4 A. State the application of e-commerce in terms of cloud computing. (6}
+
+B. Consider any e-commerce scenario of an online shop of your choice; define the audience and
+information requirement along with the logical, perceptual designs. Also mention the programming
+
+technologies to be used to develop the e-commerce website. C&)
+Q5 A. What is EDI? Explain it in brief. (6)
+B. Elaborate the client side programming and server side programming of any
+e-commerce website. Aiso explain the front end and back end-connectivity mechanism C6}
+Q6 A. What is e-business? Describe the elements of an e-business solution. (6)
+B. Describe Mobile Agents‘in detail. (6)
+Q7. A. Explain Porter’s Value Chain Model (6)
+B. State and Explain various security methods for e-commerce (6)
+````
+
 ## 2014-15 · Final-Exam · Sem 7 · paper 0bd479c9a79c
 
 - Departments: Computer Engineering
@@ -1620,6 +1688,71 @@ B) State and Explain various e-commerce promotional techniques (10)
 r 7
 ````
 
+## 2014-15 · Re-Exam · Sem 7 · paper af9a6e0abc0e
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/ECOMMERCE/E COMMERCE B TECH (COMPUTER), 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 03/12/2014
+- Text: ocr (1 page), mean OCR confidence 93.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: IV Semester: VII
+Batch: 2013-2014
+Academic Year: 2014-2015
+Subject: E- Commerce
+Marks
+Date: 03/12/2014 Time:
+Duration!
+
+Re-Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and on the cover
+of the answer book, which is provided for their use.
+
+NB: 1. Attempt any five questions.
+2. All questions carry equal marks.
+3. Answers to each new question to be started on a fresh page.
+4. Figure in brackets indicates full marks.
+
+1. (a) Explain E-Commerce & E-Business. Explain any four classification of E-commerce by {10]
+nature of the transactions or by interactions with suitable example.
+
+(b) Compare & contrast with the help of the trade cycle the three E-commerce technologies. (10]
+
+2 (a) Explain various strategies for advertising on the web, giving examples. {10]
+
+(b) Explain different types of Auctions. Give an example of a website which provides Reverse Auction
+capabilities as a part of its value proposition. [10]
+
+3. (a) How might managers use SWOT analysis to identify new applications for e-commerce in their
+
+strategic business units? State the SWOT analysis for any business organization? [10]
+(b) What is EDI? Comment on how SCM is used with e-commerce? [10]
+4. (a) Explain Strategic Positioning with example. Explain Porter’s Fundamental for the same. (10]
+(b) Why does E-commerce website need SSL? (10]
+5. Write short note on the following (any four): [20]
+
+(a) Legal and Ethical Issues in E-commerce.
+
+(b) Difference between Client side and Server Side Programming.
+(c) REST Web Services
+
+(d) Cloud Computing
+
+(e) Google Apps Engine
+
+6. (a) What is a Mobile agent? Give example. Differentiate between client-server approach & mobile-
+
+agent-based approach. [10]
+(b) What is session tracking? Explain various techniques for session tracking. (10]
+
+F x
+````
+
 ## 2014-15 · Re-Exam · Sem 7 · paper a1b835c57c65
 
 - Departments: Computer Engineering
@@ -1680,74 +1813,6 @@ virtualization. 6
 Q.7 a) Explain Mobile agent in details 6
 b) What are web services? Explain any two in detail 6
 4/4.
-````
-
-## 2014-15 · Re-Exam · Sem 7 · paper 41eb5266a992
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/ECOMMERCE/E COMMERCE B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 03/12/2015
-- Text: ocr (1 page), mean OCR confidence 90.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Computer) Year: IV Semester: VII
-Batch: 2014-2015
-
-ae
-Snes oP Bans,
-
-<a
-
-Academic Year: 2015-2016
-
-: . A ad
-Subject: E- Commerce vw ‘« r STME Ye
-
-Marks: 60 v
-Date: 03/12/2015 Time: 10. a t Ko hal
-Duration: 3 (hr i
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Out of 7 questions, attempt any 5 questions.
-
-2) In all 5 questions to be attempted.
-
-3) All questions carry equal marks.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-
-Q1 A. State and Explain various e-commerce promotional techniques (6)
-B. State and explain different payment techniques (6)
-Q2 A. What are web services? Explain any two in detail. Cb)
-B. Explain how SET protocol is used for secure electronic transaction
-with an example. (6)
-Q3 A. What is WAP? Explain its architecture. C6)
-B. What is e- commerce? Explain the different types of business models
-with examples. C6)
-Q4 A. State the application of e-commerce in terms of cloud computing. (6}
-
-B. Consider any e-commerce scenario of an online shop of your choice; define the audience and
-information requirement along with the logical, perceptual designs. Also mention the programming
-
-technologies to be used to develop the e-commerce website. C&)
-Q5 A. What is EDI? Explain it in brief. (6)
-B. Elaborate the client side programming and server side programming of any
-e-commerce website. Aiso explain the front end and back end-connectivity mechanism C6}
-Q6 A. What is e-business? Describe the elements of an e-business solution. (6)
-B. Describe Mobile Agents‘in detail. (6)
-Q7. A. Explain Porter’s Value Chain Model (6)
-B. State and Explain various security methods for e-commerce (6)
 ````
 
 ## 2013-14 · Final-Exam · Sem 7 · paper fd49d912c84f
@@ -1882,71 +1947,6 @@ ry
 ~é <M, \
 
 N
-````
-
-## 2013-14 · Re-Exam · Sem 7 · paper af9a6e0abc0e
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/ECOMMERCE/E COMMERCE B TECH (COMPUTER), 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 03/12/2014
-- Text: ocr (1 page), mean OCR confidence 93.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: IV Semester: VII
-Batch: 2013-2014
-Academic Year: 2014-2015
-Subject: E- Commerce
-Marks
-Date: 03/12/2014 Time:
-Duration!
-
-Re-Examination
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and on the cover
-of the answer book, which is provided for their use.
-
-NB: 1. Attempt any five questions.
-2. All questions carry equal marks.
-3. Answers to each new question to be started on a fresh page.
-4. Figure in brackets indicates full marks.
-
-1. (a) Explain E-Commerce & E-Business. Explain any four classification of E-commerce by {10]
-nature of the transactions or by interactions with suitable example.
-
-(b) Compare & contrast with the help of the trade cycle the three E-commerce technologies. (10]
-
-2 (a) Explain various strategies for advertising on the web, giving examples. {10]
-
-(b) Explain different types of Auctions. Give an example of a website which provides Reverse Auction
-capabilities as a part of its value proposition. [10]
-
-3. (a) How might managers use SWOT analysis to identify new applications for e-commerce in their
-
-strategic business units? State the SWOT analysis for any business organization? [10]
-(b) What is EDI? Comment on how SCM is used with e-commerce? [10]
-4. (a) Explain Strategic Positioning with example. Explain Porter’s Fundamental for the same. (10]
-(b) Why does E-commerce website need SSL? (10]
-5. Write short note on the following (any four): [20]
-
-(a) Legal and Ethical Issues in E-commerce.
-
-(b) Difference between Client side and Server Side Programming.
-(c) REST Web Services
-
-(d) Cloud Computing
-
-(e) Google Apps Engine
-
-6. (a) What is a Mobile agent? Give example. Differentiate between client-server approach & mobile-
-
-agent-based approach. [10]
-(b) What is session tracking? Explain various techniques for session tracking. (10]
-
-F x
 ````
 
 ## 2013-14 · Re-Exam · Sem 7 · paper 73540925ed79

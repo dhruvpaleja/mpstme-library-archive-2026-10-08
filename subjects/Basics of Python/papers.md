@@ -1,6 +1,6 @@
 # Basics of Python: question papers in full
 
-3 unique papers · 2022-23 to 2024-25 · Computer Engineering, Data Science
+3 unique papers · 2023-24 to 2024-25 · Computer Engineering, Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -209,7 +209,7 @@ SO-1; Rules: 1. Every number should contains exactly 10 digits.
 BL-3 2. The first digit should be 7 or 8 or 9
 ````
 
-## 2022-23 · Re-Exam · Sem 4 · paper 22659279a4b3
+## 2023-24 · Re-Exam · Sem 4 · paper 22659279a4b3
 
 - Departments: Computer Engineering, Data Science
 - Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE

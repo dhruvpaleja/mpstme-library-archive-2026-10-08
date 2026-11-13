@@ -125,6 +125,7 @@ b. Differentiate between the t h d and wet process of phosphoric.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/CHEMICAL PROCESS/CHEMICAL PROCESS I 2011-120001.pdf`
 - Printed on paper: duration hours: 3; exam date: 09/05/2012
 - Text: ocr (2 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -222,7 +223,6 @@ Describe the process modification applied to urea manufacturing. (any four)
 Describe the process of Ammonia Manufacturing in detail with pfd.
 Draw PFD for manufacturing of red phosphorous from phosphate ore.
 
-2 a 2 ok a a oo SE as 2 oR OR OR KK
 
 %.
 
@@ -238,6 +238,66 @@ Draw PFD for manufacturing of red phosphorous from phosphate ore.
 (10)
 
 ==
+````
+
+## 2010-11 · Exam not stated · Trim 6 · paper f5598cfe8164
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/CHEMICAL PROCESS/CHEMICAL PROCESS.pdf`
+- Printed on paper: exam date: 10/05/2011
+- Text: ocr (1 page), mean OCR confidence 87.1
+
+````text
+» SVKM’s NMIMS
+‘ Mukesh Patel School of Technology Management & Engi:
+Programme: MBA (TECH)-Chemical Year: II Trimester:
+
+Academic Year : 2010-2011
+
+Subject: Chemical Process-I Marks:
+Time
+Date: 10/05/2011 Duration
+
+Final - Examination
+
+Mba eet 8 4
+NOTE: 1) Question No. | is compulsory; solve any 4 from remaining queso”
+2) Figures to right in bracket indicate marks.
+3) Assumptions made must be clearly indicated.
+4) All manufacturing process should contain PFD, Process description, Process conditions
+and reactions.
+
+Q1A _— Answer in brief (Any Five) (20)
+1 Howis impurities prevented in urea manufacturing?
+2 Explain the reactions taking place in soda ash manufacturing?
+3 Describe the distillation column for cryogenic process of 02 —N2.
+4 Why is sulphuric acid called power house?
+5 Explain what you infer from the reactions for ammonia manufacturing?
+6 Explain the different types of Portland cement.
+7 Differentiate between mercury cell and membrane cell.
+
+Q2A — Give different process modifications in Urea Manufacturing (8)
+Q2B_ Describe the extraction of Aluminium from raw bauxite. (12)
+Q3A __ Explain the manufacturing of Chlorine — caustic soda from brine. (10)
+Q3B _ Explain hydrogen manufacturing in detail. Also explain the role of methanator. (10)
+Q4A Draw Process flow diagram for 02 — N2 cryogenic process. (only PFD) (10)
+Q4B Describe the manufacturing process for of urea. (10)
+Q5A _— Explain cement manufacturing in detail. (10)
+Q5B__ Describe the process of phosphoric acid manufacturing using HCI. (No PFD) (10)
+Q6A __ Explain in detail the process of sulfuric Acid manufacturing using DCDA. (14)
+Q6B Write a note on sulfur extraction from ground. (6)
+
+Q7A __ Give disadvantages of Single pressure process and dual pressure process of nitric (5)
+acid manufacturing :
+
+Q7B __ Whatare the different methods for HCI production? (7)
+
+Q7C__ Describe the purification methods for silicon. (8)
+
+2 2 2 ee 2 2} ——__§—___"sk 2 2 2 8 ok
+
+|
 ````
 
 ## 2009-10 · Exam not stated · Trim 6 · paper 8a86efd7e3b4
@@ -430,6 +490,7 @@ HRKKKKAEAE ATT THE BEST #4 ## ee ee ee
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/CHEMICAL PROCESS/2008-2009 re exam(25).pdf`
 - Text: ocr (1 page), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -481,7 +542,6 @@ Q6a. Explain the process of Ammonia manufacturing in detail. (15)
 Q6b. Describe various uses of caustic — chlorine. (5)
 Q7a. Describe the manufacturing process for Soda Ash. (15)
 Q7b. Describe sodium manufacturing. (5)
-BE A EE A A HE ae ACR HR KK
 ````
 
 ## 2007-08 · Exam not stated · Trim 6 · paper d422e0f5f970
@@ -748,6 +808,7 @@ REKEEEEEKEKEREREEEER
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/CHEMICAL PROCESS/2006-2007 re exam(8).pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 86.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMW’S WN
@@ -782,65 +843,4 @@ Q7. Write a short note on: (20)
 a) Types of Portland cement.
 b) Sulfur extraction from ores underground.
 
-SER oR ok ok fa ok a oR a ook ok ok
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper f5598cfe8164
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/CHEMICAL PROCESS/CHEMICAL PROCESS.pdf`
-- Printed on paper: exam date: 10/05/2011
-- Text: ocr (1 page), mean OCR confidence 87.1
-
-````text
-» SVKM’s NMIMS
-‘ Mukesh Patel School of Technology Management & Engi:
-Programme: MBA (TECH)-Chemical Year: II Trimester:
-
-Academic Year : 2010-2011
-
-Subject: Chemical Process-I Marks:
-Time
-Date: 10/05/2011 Duration
-
-Final - Examination
-
-Mba eet 8 4
-NOTE: 1) Question No. | is compulsory; solve any 4 from remaining queso”
-2) Figures to right in bracket indicate marks.
-3) Assumptions made must be clearly indicated.
-4) All manufacturing process should contain PFD, Process description, Process conditions
-and reactions.
-
-Q1A _— Answer in brief (Any Five) (20)
-1 Howis impurities prevented in urea manufacturing?
-2 Explain the reactions taking place in soda ash manufacturing?
-3 Describe the distillation column for cryogenic process of 02 —N2.
-4 Why is sulphuric acid called power house?
-5 Explain what you infer from the reactions for ammonia manufacturing?
-6 Explain the different types of Portland cement.
-7 Differentiate between mercury cell and membrane cell.
-
-Q2A — Give different process modifications in Urea Manufacturing (8)
-Q2B_ Describe the extraction of Aluminium from raw bauxite. (12)
-Q3A __ Explain the manufacturing of Chlorine — caustic soda from brine. (10)
-Q3B _ Explain hydrogen manufacturing in detail. Also explain the role of methanator. (10)
-Q4A Draw Process flow diagram for 02 — N2 cryogenic process. (only PFD) (10)
-Q4B Describe the manufacturing process for of urea. (10)
-Q5A _— Explain cement manufacturing in detail. (10)
-Q5B__ Describe the process of phosphoric acid manufacturing using HCI. (No PFD) (10)
-Q6A __ Explain in detail the process of sulfuric Acid manufacturing using DCDA. (14)
-Q6B Write a note on sulfur extraction from ground. (6)
-
-Q7A __ Give disadvantages of Single pressure process and dual pressure process of nitric (5)
-acid manufacturing :
-
-Q7B __ Whatare the different methods for HCI production? (7)
-
-Q7C__ Describe the purification methods for silicon. (8)
-
-2 2 2 ee 2 2} ——__§—___"sk 2 2 2 8 ok
-
-|
 ````

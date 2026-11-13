@@ -1,10 +1,10 @@
 # Material of Construction: question papers in full
 
-4 unique papers · 2011-12 to 2012-13 · Civil
+4 unique papers · 2011-12 to 2013-14 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Re-Exam · Trim 4 · paper 211bb2e42770
+## 2013-14 · Re-Exam · Trim 4 · paper 211bb2e42770
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -70,6 +70,82 @@ B Illustrate manufacturing process of Hydraulic Lime. (10)
 
 las
 Yj
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper 09b811d68f12
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/MATERIAL OF CONSTRUCTION/scan0024(5).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
+- Text: ocr (1 page), mean OCR confidence 87.2
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering —
+
+Programme: MBA(Tech) - (Civil)) Year: Il Trimester: IV
+Academic Year : 2012-2013
+
+jemi tee S OF Marks: 100
+
+Subject: CONSTRUCTION:
+Time: 2.00 pm To SM@pt \
+. ‘ *\
+Date: 26/10/2012 Duration: 3 hrs. ( nie Unversity yo |i
+
+Final - Examination
+
+Instructions:
+1. Question No. | is compulsory
+2. Out off the remaining questions, attempt any 4 questions
+3. Figures to the right indicate full marks.
+4. Illustrate your answer with neat sketches, wherever necessary.
+5. Answer to each question to be started on a fresh page
+
+Ql, Answer (Any Four)
+
+A Define and Explain the difference between Water Permeability and Water (05)
+Absorption with any two suitable examples. ;
+
+B List the raw materials required for manufacturing of Bricks and state the role (05)
+they play.
+
+C._ Explain in detail ASCU treatment and also state the most suitable method forits (05)
+application.
+
+D Write a Short note on ‘Admixtures in Concrete’. (05)
+
+E Explain in detail ‘Preservation of Stones’. (05)
+
+F Explain with a sketch formwork for a ‘Beam’. (05)
+
+Q2. A Define and Explain the following properties of a Material Fatigue, Creep, Wear, (10)
+Hygroscopicity and Refractoriness.
+B State the objectives of dressing of stone, explain with neat sketch Boasted, (10)
+Dragged, Furrowed and Reticulated Finishes of stones
+} Q3. A Explain in with a neat sketch Single Flemish and Double Flemish Bond and also (10)
+state the difference between then
+
+B_ Explain in detail ‘Manufacturing of Hydraulic Lime’. (10)
+Q4. A List any eight defects in timber due to natural forces and define with neat sketch (10)
+any three.
+B List various Wood Composites and Explain in detail:with sketch Glulam, (10)
+Plywood .
+Q5. A List the various Metal Alloys and explain the uses of Aluminium and Copperin (10)
+Construction Industry.
+
+! B_ List any four types of Cast Iron and explain any two in detail and also state the = (10)
+a various uses of the same in Construction Industry ~
+8. A Explain in detail the various types of Carriers used in paint and state its use with (10)
+respect to the various requirements. .
+
+B_ Explain in detail “Constituents of Varnishes”. (10)
+
+Q7. A Define Scaffolding and explain the various components of Scaffolding with a (10)
+neat sketch and also state the function of each component.
+
+B List the various types of Glass and state their specific uses. (10)
 ````
 
 ## 2012-13 · Re-Exam · Trim 4 · paper 38e515bcb7f1
@@ -211,80 +287,4 @@ B. Write a note on Water Proofing. (6Marks)
 C. Write a Note on Admixtures in Concrete. (6Marks)
 
 “h
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 09b811d68f12
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/MATERIAL OF CONSTRUCTION/scan0024(5).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/10/2012
-- Text: ocr (1 page), mean OCR confidence 87.2
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering —
-
-Programme: MBA(Tech) - (Civil)) Year: Il Trimester: IV
-Academic Year : 2012-2013
-
-jemi tee S OF Marks: 100
-
-Subject: CONSTRUCTION:
-Time: 2.00 pm To SM@pt \
-. ‘ *\
-Date: 26/10/2012 Duration: 3 hrs. ( nie Unversity yo |i
-
-Final - Examination
-
-Instructions:
-1. Question No. | is compulsory
-2. Out off the remaining questions, attempt any 4 questions
-3. Figures to the right indicate full marks.
-4. Illustrate your answer with neat sketches, wherever necessary.
-5. Answer to each question to be started on a fresh page
-
-Ql, Answer (Any Four)
-
-A Define and Explain the difference between Water Permeability and Water (05)
-Absorption with any two suitable examples. ;
-
-B List the raw materials required for manufacturing of Bricks and state the role (05)
-they play.
-
-C._ Explain in detail ASCU treatment and also state the most suitable method forits (05)
-application.
-
-D Write a Short note on ‘Admixtures in Concrete’. (05)
-
-E Explain in detail ‘Preservation of Stones’. (05)
-
-F Explain with a sketch formwork for a ‘Beam’. (05)
-
-Q2. A Define and Explain the following properties of a Material Fatigue, Creep, Wear, (10)
-Hygroscopicity and Refractoriness.
-B State the objectives of dressing of stone, explain with neat sketch Boasted, (10)
-Dragged, Furrowed and Reticulated Finishes of stones
-} Q3. A Explain in with a neat sketch Single Flemish and Double Flemish Bond and also (10)
-state the difference between then
-
-B_ Explain in detail ‘Manufacturing of Hydraulic Lime’. (10)
-Q4. A List any eight defects in timber due to natural forces and define with neat sketch (10)
-any three.
-B List various Wood Composites and Explain in detail:with sketch Glulam, (10)
-Plywood .
-Q5. A List the various Metal Alloys and explain the uses of Aluminium and Copperin (10)
-Construction Industry.
-
-! B_ List any four types of Cast Iron and explain any two in detail and also state the = (10)
-a various uses of the same in Construction Industry ~
-8. A Explain in detail the various types of Carriers used in paint and state its use with (10)
-respect to the various requirements. .
-
-B_ Explain in detail “Constituents of Varnishes”. (10)
-
-Q7. A Define Scaffolding and explain the various components of Scaffolding with a (10)
-neat sketch and also state the function of each component.
-
-B List the various types of Glass and state their specific uses. (10)
 ````

@@ -14,16 +14,16 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Geology(702BS0C081)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Geology(702BS0C081)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | B TECH / CIVIL | Geology, Sem-III, Year 2025-2026, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | BTech Civil 7005 | QP_Geology(702BS0C081)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech Civil 7005 | QP_Geology(702BS0C081)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Geology(702BS0C081)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Geology(702BS0C081)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Geology(702BS0C081)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Geology(702BS0C081)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | B TECH | B Tech Geology, Sem-II, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | BTech Civil 7005 | QP_Geology(702BS0C081)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech Civil 7005 | QP_Geology(702BS0C081)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Geology(702BS0C081)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Civil 7005 | ANS_Geology(702BS0C081)_2025-2026.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CIVIL | Geology, Sem-III, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | B TECH / CIVIL | Geology, Sem-III, Final Exam, A Y 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | B TECH / CIVIL | Geology, Sem-III, Year 2023-24, Re Exam.pdf |

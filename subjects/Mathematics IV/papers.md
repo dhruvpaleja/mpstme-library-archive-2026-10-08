@@ -1,8 +1,303 @@
 # Mathematics IV: question papers in full
 
-18 unique papers · 2022-23 to 2024-25 · Information Technology, Mechanical, Computer Engineering, Common (all branches), Data Science
+18 unique papers · 2022-23 to 2025-26 · Mechanical, Information Technology, Computer Engineering, Common (all branches), Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 4 · paper f6849b1edf2d
+
+- Departments: Mechanical
+- Programmes: Integrated Mechanical 7031
+- Source: `02_Question_Papers/2024/Sem_04/Re-Exam/Integrated_Mechanical_7031/Mathematics-IV/QP_Mathematics-IV(701BS0C012)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)
+Year: II/Semester IV(Exam Year: 2025-2026)
+Subject: Mathematics-IV
+Date: 07 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figures in brackets on the right-hand side indicate full marks.
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Scientific Calculator is allowed.
+Q1   Answer briefly:   [20]
+CO-3; BL-1;   a.   Calculate the standard deviation for the following data:   [03]
+SO-1
+1,2,4,5,7,11.
+CO-1; BL-1;   b.    2 f   [03]
+SO-1   Find   of f ( x , y ) = 3 x 2 y 3
+ y x
+CO-1; BL-2;   c. Verify that y = Ae 2 x + Be− 2 x , where 𝐴 and 𝐵 are arbitrary constant is a   [03]
+SO-1   𝑑2𝑦
+solution of the differential equation −4𝑦= 0
+𝑑𝑥2
+CO-2; BL-1;   d. Find the direction ratios and direction cosines of the line joining the points   [03]
+SO-1   ( 2, − 1,4 ) and ( 5,3,4 )
+CO-2; BL-3;   e   Compute the values of a , b , c and d if   [04]
+SO-1
+ a + 3 6     9 3 c 
+    =    
+ b + 2 18     8 6 d 
+CO-4; BL-2;   f   Use Bisection method to find the approximate root of f ( x ) = x 2 − 2 x − 3 in   [04]
+SO-1   two iterations.
+Q2   a.   dy   [06]
+Solve the differential equation: x   = y + x
+CO-1; BL-3;   dx
+SO-1
+CO-2; BL-2;   b. A network has three currents I 1 , I 2 , I 3 satisfying the equations:   [06]
+SO-1
+********** 1 **********
+--- page 2 ---
+2 I 1 + I 2 + 3 I 3 = 9
+I 1 + 4 I 2 + I 3 = 11
+3 I 1 + 2 I 2 + 5 I 3 = 18
+Using Cramer’s Rule, find the values of I 1 , I 2 , I 3 .
+CO-2; BL-1;   c. Find the vector and cartesian equation of the line passing through the point   [08]
+SO-1   (1, −1, 2) and perpendicular to each of the lines
+x − 2   y + 1   z − 4   x + 1   y − 3   z + 2
+=   =   and   =   =
+3   − 1   2   2   1   − 3
+Q3   a.   [06]
+CO-1; BL-3;   dy 1 + y
+Solve the differential equation using variable separable method:   =
+SO-1   dx   x
+CO-2; BL-2;   b.    3   4 − 2    [06]
+SO-1   Express the matrix A =  − 1 5   6  as the sum of a symmetric matrix and
+   
+  2 − 3 1  
+a skew- symmetric matrix.
+CO-2; BL-1;   c.   i)   Find the equation of the plane passing through the point ( 2, − 1,3 )   [08]
+SO-1
+and perpendicular to the lines joining the points
+( 1,2,3 ) and ( 4,0,5 ) .
+ii)   Show that the normal to the planes
+x + 2 y + 2 z = 3 and 2 x − y = 5 are perpendicular to each other.
+Q4   a.   [06]
+CO-4; BL-1;   Using Regular Falsi method find the root of x 2 − 15 = 0 . Perform 2
+SO-1   iterations up to 2 digits after the decimal.
+CO-1; BL-2;   b.   [06]
+SO-1   The rate of growth of a population is proportional to the population
+present at that time.
+Initially the population is 500. After 2 years it becomes 800.
+Find the population after 5 years using differential equations.
+CO-3; BL-3;   c. A factory has three machines M 1 , M 2 , M 3 producing 20%, 30%, and 50% of   [08]
+SO-1   the total items respectively.
+The percentage of defective items produced by them are 5%, 4%, and 2%
+respectively. A randomly selected item is found to be defective. Find the
+probability that it was produced by machine M 2.
+Q5   a. The mean and standard deviation of 80 observations were found to be 35 and   [06]
+CO-3; BL-2;   6 respectively.
+SO-1   Later it was discovered that one value was recorded as 45 instead of 25.
+Find the correct mean and standard deviation.
+********** 2 **********
+--- page 3 ---
+CO-2; BL-1;   b. Find the length of perpendicular from the point ( 3, − 2,5 ) to the line   [06]
+SO-1
+x − 1   y + 2   z − 4
+=   =
+2   − 3   1
+CO-2; BL-3;   c. The sum of three numbers is 12. If three times the first number is added to   [08]
+SO-1   the second and third, the result is 16. If twice the second is subtracted from
+the sum of the first and third, the result is 2. Find the numbers using matrix
+inversion method.
+Q6   a. Two cards are drawn one by one without replacement from a well-   [06]
+CO-3; BL-1;   shuffled deck of 52 playing cards.
+SO-1   Find the probability that exactly one card is a King.
+CO-1; BL-2;   b.   [06]
+SO-1    2 u    2 u    2 u
+If u = x 2 y 3 then show that x 2   + 2 xy   + y 2   = 20 u
+ x 2    x y    y 2
+CO-4; BL-3;   c. Solve the system using Gauss-Seidel Method taking 2 iterations up to 3   [08]
+SO-1   decimal places:
+10𝑥+ 𝑦+ 𝑧= 12
+𝑥+ 10𝑦+ 𝑧= 13
+𝑥+ 𝑦+ 10𝑧= 14
+Q7   a.   [06]
+CO-2; BL-2;   Find the perpendicular distance of the point (2, −1,4) from the plane
+SO-1
+2𝑥−𝑦+ 2𝑧= 6.
+CO-1; BL-3;   b. Solve the differential equation:   [06]
+SO-1   ( 1 + x 2 ) dy + 2 xy = e x
+dx
+CO-2; BL-4;   c. Using row transformations evaluate the inverse of the following matrix:   [08]
+SO-1
+ 1 2 1 
+   
+ 0 1 2 
+  2 3 4  
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 4 · paper e766913917ef
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Sem_04/Mathematics IV/Mathematics IV Batch 2022-23,2023-24,2024-25 Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 03 July 2026
+- Text: ocr (3 pages), mean OCR confidence 83.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT. ENGINEERING
+
+Academic Year: 2025-26
+Program: B Tech Intg (DS/COMP/MECH)
+
+Subject: Mathematics-IV
+
+Tiy 2.00Qpmda908 pm s)
+
+Date : 03 July 2026 LIBRARY
+
+Marks: 100
+Re-Exam (2022-23/2023-24/
+
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figures in brackets on the right-hand side indicate full marks.
+4. Question No. | is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5S questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Scientific Calculator is allowed.
+
+La
+Ql Answer briefly: . 7 [20]
+CO-3; BL-1; | a. | The mean of 120 items is 52. Two items 30 and 70 were wrongly recorded | [03]
+SO-1 as 20 and 60 respectively. Find the correct mean. ’
+CO-1; BL-1; |b. 7 2.8 _ du Ou [03]
+S0-1 If w= log (x +y +3xy) then find Ox and ay
+CO-1; BL-2; | c. | Verify thaty = A cos 3x + B sin 3x, where A_ B are arbitrary constant [03]
+SO-1 . a?
+
+is a solution of the differential equation = + 9y= 0.
+
+CO-2; BL-1; | d. 12 oo, ; Lo. [03]
+SO-1 If qa represent direction cosines of a line then find the value of &.
+
+a
+CO-2;BL-3; Je | [2 1], 1 0 [oA]
+S01 “t3 4) M815 2
+
+If 3442B+X =0 then find the matrix X.
+
+CO-4; BL-2; | f | Find the cube root of 50 using Newton Raphson method by taking 2 [04]
+SO-1 iterations upto 3 decimal places. Choose initial value x, = 3
+Q2 a. | Solve the homogeneous differential equation: [06]
+CO-1; BL-3; dy _ x +3xy+y"
+SO-1 ae 2
+CO-2; BL-2; | b. | Compute the values of x, y and z for the following system of equations using | [06] |
+
+SO-1 Cramer’s rule:
+
+FOR RR Kk
+--- page 2 ---
+x+2y+z=9
+2x+y+3z=13
+
+x+y+z=6 - F
+CO-2; BL-1; | c. | Find the vector and cartesian equation of the line passing through the.point [08] Et
+SO-1 (1,2,3) and perpendicular to each of the lines "
+it
+x-l_y+tl_z-2 and x-3_y+2_ 2-1 "
+1 2 3 2 3 2
+Q3 a. | Determine the general solution of the differential equation by using variable [06]
+CO-1; BL-3; dy |
+; ; separable method: — =(1+x)(1+
+SO-1 P ae Alt x)(l+y)
+CO-2; BL-2; |b. 2 1 0 [06]
+SO-1 Express the matrix 4=|1 2   —1]as the sum of a symmetric matrix and a
+4 3 0
+skew- symmetric matrix. r
+CO-2; BL-1; | c. | The equation of a plane is given as: 2x+3y+6z =12. [08]
+SO-1 i) Find the distance from origin to the plane. .
+il) Determine the direction ratios of the normal. -
+iii) Find the direction cosines of the normal.
+Q4 a. | Find the real root of the equation x3 — x —2=0 by the method of Regula- [06]
+CO-4; BL-1; Falsi position using 3 iterations.
+| SO-1
+CO-1; BL-2; | b. | The half-life of a radioactive substance is 10 years. If we start with 200 [06]
+SO-1 grams of the substance, estimate how much will remain after 20 years.
+
+CO-3; BL-3; | c. | In a bolt factory, three machines, A, B, C, manufacture 25%, 35% and [08]
+SO-1 40%of the total production respectively. Of their respective outputs; 5%, la)
+4% and 2% are defective. A bolt is drawn at random from the total product
+and it is found to be defective. Find the probability that it was manufactured
+by the-machine C.
+
+Q5 a. | Determine the mean and standard deviation for the following frequency [06] e
+
+CO-3; BL-2; distribution:
+
+SO-1 Value 10 20 30 40 50 60 70 —
+frequency 3 5 9 12 8 7 6
+
+CO-2;BL-I;_ |b. | Find the perpendicular distance of the point (2,-1,3) from the line | [06] fe
+SO-1 |
+Z=3
+
+4 -l Ms]
+
+¢ x-1l_ y=2
+
+FRO DR kok ag
+--- page 3 ---
+~
+
+SO-1
+
+2 1:3
+1,0 2
+4 1 1
+
+CO-2; BL-3; | c. | If three numbers add up to 6. If 3 times the second number is subtracted [08]
+SO-] from the sum of the first and third, we get 5, and twice the first added to
+
+the sum of the second and third gives 7. Find the numbers using matrex
+
+_ inversion method. _ “ |
+
+Q6 a. | The letters of the word COMPUTER are arranged randomly. Find the * [06]
+CO-3; BL-1; probability that:
+SO-] i) No two vowels are together
+
+il) The word begins and ends with a vowel
+
+-1; BL-2; ; 2
+ie 718 If f(x,y) = e* siny then show that £ =-f (x,y) wel
+yy
+CO-4; BL-3; | c. | Solve the system of equations using Gauss Jacobi Method taking 4 iterations | [08]
+SO-1 up to 3 digits after the decimal.
+12x+y+z=14;
+x+11ly+2z=17;
+(a 2x+y+10z =12
+
+Q7 a. | Find the angle between the planes x+2y+2z=5 and 2x+y+2z=4 [06]
+CO-2; BL-2;
+SO-1
+CO-1; BL-3; | b. | Solve the differential equation: [06]
+SO-1 dy
+
+— + ytan x = cosx
+
+dx
+CO-2; BL-4; | c. | Using row transformations evaluate the inverse of the following matrix: [08]
+
+FOI IR EI i
+````
 
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper 0e00d5637b2f
 
@@ -869,301 +1164,6 @@ SO-1
  5 1 0 
   0 1 3  
 ********** 3 **********
-````
-
-## 2024-25 · Re-Exam · Sem 4 · paper f6849b1edf2d
-
-- Departments: Mechanical
-- Programmes: Integrated Mechanical 7031
-- Source: `02_Question_Papers/2024/Sem_04/Re-Exam/Integrated_Mechanical_7031/Mathematics-IV/QP_Mathematics-IV(701BS0C012)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)
-Year: II/Semester IV(Exam Year: 2025-2026)
-Subject: Mathematics-IV
-Date: 07 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figures in brackets on the right-hand side indicate full marks.
-4. Question No. 1 is compulsory
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-9. Scientific Calculator is allowed.
-Q1   Answer briefly:   [20]
-CO-3; BL-1;   a.   Calculate the standard deviation for the following data:   [03]
-SO-1
-1,2,4,5,7,11.
-CO-1; BL-1;   b.    2 f   [03]
-SO-1   Find   of f ( x , y ) = 3 x 2 y 3
- y x
-CO-1; BL-2;   c. Verify that y = Ae 2 x + Be− 2 x , where 𝐴 and 𝐵 are arbitrary constant is a   [03]
-SO-1   𝑑2𝑦
-solution of the differential equation −4𝑦= 0
-𝑑𝑥2
-CO-2; BL-1;   d. Find the direction ratios and direction cosines of the line joining the points   [03]
-SO-1   ( 2, − 1,4 ) and ( 5,3,4 )
-CO-2; BL-3;   e   Compute the values of a , b , c and d if   [04]
-SO-1
- a + 3 6     9 3 c 
-    =    
- b + 2 18     8 6 d 
-CO-4; BL-2;   f   Use Bisection method to find the approximate root of f ( x ) = x 2 − 2 x − 3 in   [04]
-SO-1   two iterations.
-Q2   a.   dy   [06]
-Solve the differential equation: x   = y + x
-CO-1; BL-3;   dx
-SO-1
-CO-2; BL-2;   b. A network has three currents I 1 , I 2 , I 3 satisfying the equations:   [06]
-SO-1
-********** 1 **********
---- page 2 ---
-2 I 1 + I 2 + 3 I 3 = 9
-I 1 + 4 I 2 + I 3 = 11
-3 I 1 + 2 I 2 + 5 I 3 = 18
-Using Cramer’s Rule, find the values of I 1 , I 2 , I 3 .
-CO-2; BL-1;   c. Find the vector and cartesian equation of the line passing through the point   [08]
-SO-1   (1, −1, 2) and perpendicular to each of the lines
-x − 2   y + 1   z − 4   x + 1   y − 3   z + 2
-=   =   and   =   =
-3   − 1   2   2   1   − 3
-Q3   a.   [06]
-CO-1; BL-3;   dy 1 + y
-Solve the differential equation using variable separable method:   =
-SO-1   dx   x
-CO-2; BL-2;   b.    3   4 − 2    [06]
-SO-1   Express the matrix A =  − 1 5   6  as the sum of a symmetric matrix and
-   
-  2 − 3 1  
-a skew- symmetric matrix.
-CO-2; BL-1;   c.   i)   Find the equation of the plane passing through the point ( 2, − 1,3 )   [08]
-SO-1
-and perpendicular to the lines joining the points
-( 1,2,3 ) and ( 4,0,5 ) .
-ii)   Show that the normal to the planes
-x + 2 y + 2 z = 3 and 2 x − y = 5 are perpendicular to each other.
-Q4   a.   [06]
-CO-4; BL-1;   Using Regular Falsi method find the root of x 2 − 15 = 0 . Perform 2
-SO-1   iterations up to 2 digits after the decimal.
-CO-1; BL-2;   b.   [06]
-SO-1   The rate of growth of a population is proportional to the population
-present at that time.
-Initially the population is 500. After 2 years it becomes 800.
-Find the population after 5 years using differential equations.
-CO-3; BL-3;   c. A factory has three machines M 1 , M 2 , M 3 producing 20%, 30%, and 50% of   [08]
-SO-1   the total items respectively.
-The percentage of defective items produced by them are 5%, 4%, and 2%
-respectively. A randomly selected item is found to be defective. Find the
-probability that it was produced by machine M 2.
-Q5   a. The mean and standard deviation of 80 observations were found to be 35 and   [06]
-CO-3; BL-2;   6 respectively.
-SO-1   Later it was discovered that one value was recorded as 45 instead of 25.
-Find the correct mean and standard deviation.
-********** 2 **********
---- page 3 ---
-CO-2; BL-1;   b. Find the length of perpendicular from the point ( 3, − 2,5 ) to the line   [06]
-SO-1
-x − 1   y + 2   z − 4
-=   =
-2   − 3   1
-CO-2; BL-3;   c. The sum of three numbers is 12. If three times the first number is added to   [08]
-SO-1   the second and third, the result is 16. If twice the second is subtracted from
-the sum of the first and third, the result is 2. Find the numbers using matrix
-inversion method.
-Q6   a. Two cards are drawn one by one without replacement from a well-   [06]
-CO-3; BL-1;   shuffled deck of 52 playing cards.
-SO-1   Find the probability that exactly one card is a King.
-CO-1; BL-2;   b.   [06]
-SO-1    2 u    2 u    2 u
-If u = x 2 y 3 then show that x 2   + 2 xy   + y 2   = 20 u
- x 2    x y    y 2
-CO-4; BL-3;   c. Solve the system using Gauss-Seidel Method taking 2 iterations up to 3   [08]
-SO-1   decimal places:
-10𝑥+ 𝑦+ 𝑧= 12
-𝑥+ 10𝑦+ 𝑧= 13
-𝑥+ 𝑦+ 10𝑧= 14
-Q7   a.   [06]
-CO-2; BL-2;   Find the perpendicular distance of the point (2, −1,4) from the plane
-SO-1
-2𝑥−𝑦+ 2𝑧= 6.
-CO-1; BL-3;   b. Solve the differential equation:   [06]
-SO-1   ( 1 + x 2 ) dy + 2 xy = e x
-dx
-CO-2; BL-4;   c. Using row transformations evaluate the inverse of the following matrix:   [08]
-SO-1
- 1 2 1 
-   
- 0 1 2 
-  2 3 4  
-********** 3 **********
-````
-
-## 2024-25 · Re-Exam · Sem 4 · paper e766913917ef
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/Sem_04/Mathematics IV/Mathematics IV Batch 2022-23,2023-24,2024-25 Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 03 July 2026
-- Text: ocr (3 pages), mean OCR confidence 83.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT. ENGINEERING
-
-Academic Year: 2025-26
-Program: B Tech Intg (DS/COMP/MECH)
-
-Subject: Mathematics-IV
-
-Tiy 2.00Qpmda908 pm s)
-
-Date : 03 July 2026 LIBRARY
-
-Marks: 100
-Re-Exam (2022-23/2023-24/
-
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figures in brackets on the right-hand side indicate full marks.
-4. Question No. | is compulsory
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5S questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-9. Scientific Calculator is allowed.
-
-La
-Ql Answer briefly: . 7 [20]
-CO-3; BL-1; | a. | The mean of 120 items is 52. Two items 30 and 70 were wrongly recorded | [03]
-SO-1 as 20 and 60 respectively. Find the correct mean. ’
-CO-1; BL-1; |b. 7 2.8 _ du Ou [03]
-S0-1 If w= log (x +y +3xy) then find Ox and ay
-CO-1; BL-2; | c. | Verify thaty = A cos 3x + B sin 3x, where A_ B are arbitrary constant [03]
-SO-1 . a?
-
-is a solution of the differential equation = + 9y= 0.
-
-CO-2; BL-1; | d. 12 oo, ; Lo. [03]
-SO-1 If qa represent direction cosines of a line then find the value of &.
-
-a
-CO-2;BL-3; Je | [2 1], 1 0 [oA]
-S01 “t3 4) M815 2
-
-If 3442B+X =0 then find the matrix X.
-
-CO-4; BL-2; | f | Find the cube root of 50 using Newton Raphson method by taking 2 [04]
-SO-1 iterations upto 3 decimal places. Choose initial value x, = 3
-Q2 a. | Solve the homogeneous differential equation: [06]
-CO-1; BL-3; dy _ x +3xy+y"
-SO-1 ae 2
-CO-2; BL-2; | b. | Compute the values of x, y and z for the following system of equations using | [06] |
-
-SO-1 Cramer’s rule:
-
-FOR RR Kk
---- page 2 ---
-x+2y+z=9
-2x+y+3z=13
-
-x+y+z=6 - F
-CO-2; BL-1; | c. | Find the vector and cartesian equation of the line passing through the.point [08] Et
-SO-1 (1,2,3) and perpendicular to each of the lines "
-it
-x-l_y+tl_z-2 and x-3_y+2_ 2-1 "
-1 2 3 2 3 2
-Q3 a. | Determine the general solution of the differential equation by using variable [06]
-CO-1; BL-3; dy |
-; ; separable method: — =(1+x)(1+
-SO-1 P ae Alt x)(l+y)
-CO-2; BL-2; |b. 2 1 0 [06]
-SO-1 Express the matrix 4=|1 2   —1]as the sum of a symmetric matrix and a
-4 3 0
-skew- symmetric matrix. r
-CO-2; BL-1; | c. | The equation of a plane is given as: 2x+3y+6z =12. [08]
-SO-1 i) Find the distance from origin to the plane. .
-il) Determine the direction ratios of the normal. -
-iii) Find the direction cosines of the normal.
-Q4 a. | Find the real root of the equation x3 — x —2=0 by the method of Regula- [06]
-CO-4; BL-1; Falsi position using 3 iterations.
-| SO-1
-CO-1; BL-2; | b. | The half-life of a radioactive substance is 10 years. If we start with 200 [06]
-SO-1 grams of the substance, estimate how much will remain after 20 years.
-
-CO-3; BL-3; | c. | In a bolt factory, three machines, A, B, C, manufacture 25%, 35% and [08]
-SO-1 40%of the total production respectively. Of their respective outputs; 5%, la)
-4% and 2% are defective. A bolt is drawn at random from the total product
-and it is found to be defective. Find the probability that it was manufactured
-by the-machine C.
-
-Q5 a. | Determine the mean and standard deviation for the following frequency [06] e
-
-CO-3; BL-2; distribution:
-
-SO-1 Value 10 20 30 40 50 60 70 —
-frequency 3 5 9 12 8 7 6
-
-CO-2;BL-I;_ |b. | Find the perpendicular distance of the point (2,-1,3) from the line | [06] fe
-SO-1 |
-Z=3
-
-4 -l Ms]
-
-¢ x-1l_ y=2
-
-FRO DR kok ag
---- page 3 ---
-~
-
-SO-1
-
-2 1:3
-1,0 2
-4 1 1
-
-CO-2; BL-3; | c. | If three numbers add up to 6. If 3 times the second number is subtracted [08]
-SO-] from the sum of the first and third, we get 5, and twice the first added to
-
-the sum of the second and third gives 7. Find the numbers using matrex
-
-_ inversion method. _ “ |
-
-Q6 a. | The letters of the word COMPUTER are arranged randomly. Find the * [06]
-CO-3; BL-1; probability that:
-SO-] i) No two vowels are together
-
-il) The word begins and ends with a vowel
-
--1; BL-2; ; 2
-ie 718 If f(x,y) = e* siny then show that £ =-f (x,y) wel
-yy
-CO-4; BL-3; | c. | Solve the system of equations using Gauss Jacobi Method taking 4 iterations | [08]
-SO-1 up to 3 digits after the decimal.
-12x+y+z=14;
-x+11ly+2z=17;
-(a 2x+y+10z =12
-
-Q7 a. | Find the angle between the planes x+2y+2z=5 and 2x+y+2z=4 [06]
-CO-2; BL-2;
-SO-1
-CO-1; BL-3; | b. | Solve the differential equation: [06]
-SO-1 dy
-
-— + ytan x = cosx
-
-dx
-CO-2; BL-4; | c. | Using row transformations evaluate the inverse of the following matrix: [08]
-
-FOI IR EI i
 ````
 
 ## 2023-24 · Final + Re-Exam · paper 47779ebc3b1b

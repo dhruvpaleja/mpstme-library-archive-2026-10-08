@@ -2464,6 +2464,166 @@ solid excreta.
 ********** 14 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper ea86f9d936b6
+
+- Departments: Data Science
+- Programmes: MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_DS_7052/Elements of Biology/ANS_Elements of Biology(702BS0C049)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
+- Text: text (3 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Elements of Biology
+Date: 04 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   SYNOPTIC ANSWERS   [20]
+a. What is biologically inspired engineering? Explain how it differs from
+conventional engineering practices.
+-   Importance of biomimicry in advancing engineering and technological aspects (2M)   04
+-   Any two examples (2M)
+b. Draw a labeled diagram of the building block of nucleic acids and explain the
+manner in which these units are assembled into nucleic acid polymers.
+-   Labeled diagram of Nucleotide (1M)   04
+-   Mention of all four nitrogenous bases (1M)
+-   Arrangement explanation and diagram (1M+1M)
+c. Distinguish between complete dominance and blending inheritance, providing
+a relevant example for each.
+-   Distinguishing between both types (complete vs incomplete) (1M+1M)   04
+-   Examples with a brief discussion (1M+1M)
+d. Define the term ‘enzyme’ and explain the significance of the active site in
+enzyme-substrate binding.
+-   Enzyme definition | mention of activation energy (1M+1M)   04
+-   Diagram of active site and explanation (1M+1M)
+e. Summarize the different categories of metabolic waste produced by
+organisms, giving one example for each.
+-   Ammoniotelic | Ureotelic | Uricotelic (1M+1M+1M)   04
+-   At least one example of each (1M)
+Q2   a. Define nucleic acid. List four structural and functional differences between
+DNA and RNA.   [05]
+-   Definition (1M)
+-   Four differences (4M)
+********** 1 **********
+--- page 2 ---
+Q2   b. Discuss the role of design-biomimicry in engineering, using a relevant
+example to highlight the biological phenomenon, its application in
+engineering, and its associated advantages and disadvantages.
+-   Definition of biomimicry and its types (1M+1M)   [10]
+-   A specific example of “DESIGN” biomimicry
+-   Biological Phenomenon (3M)
+-   Engineering application (3M)
+-   Advantages and disadvantages (1M+1M)
+Q2   c. Demonstrate the concept of a monohybrid cross between a plant with tall
+stems (Tt) and one with dwarf stems (tt). Using a Punnett square, illustrate the
+genotypic and phenotypic outcomes across the F₁ and F₂ generations.   [05]
+-   Definition of mono-hybrid cross (1M)
+-   Punnett square of F₁ and F₂ generation – 2x2 square (1M+1M)
+-   Genotypic and phenotypic ratio (1M+1M)
+Q3   a. Discuss lipids and their biological importance. Classify lipids into their
+major categories, providing one example per type, and include an
+illustration of phospholipids.
+-   Definition (1M)   [10]
+-   Significance (1.5M)
+-   Four Types: Triglycerides and their subtypes (fats and lipids) | Phospholipids |
+Steroids | Wax (1.5M+1.5M+1.5M+1.5M)
+-   Diagram of Phospholipid Structure (1.5M)
+Q3   b. Explain the process of translation in protein synthesis, illustrating the
+steps involved and identifying the key biomolecules that participate.
+-   Definition of translation (1M)   [10]
+-   Role of RNAs – mRNA, rRNA, and tRNA (1.5M+1.5M+1.5M)
+-   Diagram and explanation (3M+1.5M)
+Q4   a.   Briefly discuss each of the following microorganisms, providing a suitable
+example for each:
+1. Yeast   [10]
+2. Archaea
+3. Bacteria
+4. Algae
+5. Virus
+-   Any two characteristics, explanation, and at least one example (1M+0.5M+0.5M) ×5
+Q4   b. Using a labeled diagram or flowchart, recall the products and byproducts
+generated at each stage of aerobic respiration.   [10]
+-   Definition of aerobic cellular respiration (1M)
+-   Explanation with a flow chart of Oxidation of pyruvate | Citric acid cycle/Krebs’
+cycle | Electron transport chain (2.5M+2.5M+2.5M)
+-   Calculation of products (ATP) and co- or by-products (NADH, FADH₂, CO₂, H₂O,
+etc.) at each stage (0.5M+0.5M+0.5M)
+Q5   a. In humans, free earlobes are determined by a dominant allele (E), while
+attached earlobes are determined by a recessive allele (e). Given one parent
+with genotype EE and another with genotype ee, determine the genotypic and   [10]
+phenotypic ratios of the offspring across the F₁ and F₂ generations?
+F₁ Results:
+(5M)
+Genotype: 100% Ee (heterozygous)
+Phenotype: 100% free earlobes
+Ratio: 1 (free earlobes)
+********** 2 **********
+--- page 3 ---
+F₂ Results:
+(5M)
+Genotype ratio:
+1 EE : 2 Ee : 1 ee
+(homo dom: hetero: homo recessive)
+Phenotype ratio:
+3 free earlobes (EE or Ee) : 1 attached
+earlobes (ee)
+Q5   b. Explain each of the following with a suitable illustration and examples where
+relevant:
+1. Induced fit model   [10]
+2. Uncompetitive inhibition
+3. Relationship between KM and Vmax
+4. Competitive inhibition
+Q6   a. Explain the concept of biotechnology and examine its application in the
+development of Bt Cotton. Identify the source organism of the genes inserted,
+and critically analyze the social, economic, and environmental impacts of this
+technology.   [10]
+-   Define biotechnology (1M)
+-   Different types – Whole organism, Part of organism, and Process (1M)
+-   Bt cotton explanation along with origin – Bacillus thuringiensis (5M+1M)
+-   Societal Impact (2M)
+Q6   b. Briefly explain the role of each of the following model organisms in
+advancing medical science:
+1. Saccharomyces cerevisiae   [10]
+2. Drosophila melanogaster
+3. Mus musculus
+4. Caenorhabditis elegans
+-   Explanation of specific organism while mentioning the field/diseases they are studied
+in for finding treatments/enhancing understanding (1.5M+1M) ×4
+Q7   a. What are the core concepts of bioinformatics, and how can its computational
+methods contribute to solving biological and environmental problems?   [05]
+-   Definition and concept (1M+1M)
+-   Explanation of any two real-life applications of Bioinformatics (2M+2M)
+Q7   b. Recall any four industrial applications of enzymes and provide one specific
+example for each application area.   [05]
+-   Need for enzymes at industrial scale (1M)
+-   Any four applications with at least one example of an enzyme mentioned for each
+(1M+1M+1M+1M)
+Q7   c. Explain how both photosynthesis and cellular respiration play a role in
+[05]
+sustaining ecological balance.
+-   Reaction balance between cellular respiration and photosynthesis (2M)
+-   Mechanisms and factors contributing to equilibrium (3M)
+Q7   d. Explain the exponential, stationary, and death phases within microbial growth
+kinetics, and illustrate your answer using a labeled growth curve.   [05]
+-   Significance of studying the growth curve (0.5M)
+-   Explanation of Exponential, Stationary, and Death Phase (1M+1M+1M)
+-   Plot (1.5M)
+********** 3 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 096a3cdfb1ec
 
 - Departments: Civil
@@ -5443,6 +5603,7 @@ Practical significance of fungi and algae (1+1)M
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/Integrated_Mechanical_7031/Elements of Biology/ANS_Elements of Biology(701BS0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Jun 2026
 - Text: mixed (14 pages), mean OCR confidence 33.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -9793,166 +9954,6 @@ Q7   d.   [05]
 CO-5; BL-2   -   Definition and example, if applicable (1M+0.5M)
 3. Exponential phase of bacterial growth curve
 -   Explanation (2M)
-********** 3 **********
-````
-
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper ea86f9d936b6
-
-- Departments: Data Science
-- Programmes: MBATech DS 7052
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_DS_7052/Elements of Biology/ANS_Elements of Biology(702BS0C049)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
-- Text: text (3 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Elements of Biology
-Date: 04 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page
-3. Figure in right hand side indicates full marks
-4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
-5. In all, 5 questions to be attempted
-6. All questions carry equal marks
-7. Assume suitable data if necessary
-Q1   SYNOPTIC ANSWERS   [20]
-a. What is biologically inspired engineering? Explain how it differs from
-conventional engineering practices.
--   Importance of biomimicry in advancing engineering and technological aspects (2M)   04
--   Any two examples (2M)
-b. Draw a labeled diagram of the building block of nucleic acids and explain the
-manner in which these units are assembled into nucleic acid polymers.
--   Labeled diagram of Nucleotide (1M)   04
--   Mention of all four nitrogenous bases (1M)
--   Arrangement explanation and diagram (1M+1M)
-c. Distinguish between complete dominance and blending inheritance, providing
-a relevant example for each.
--   Distinguishing between both types (complete vs incomplete) (1M+1M)   04
--   Examples with a brief discussion (1M+1M)
-d. Define the term ‘enzyme’ and explain the significance of the active site in
-enzyme-substrate binding.
--   Enzyme definition | mention of activation energy (1M+1M)   04
--   Diagram of active site and explanation (1M+1M)
-e. Summarize the different categories of metabolic waste produced by
-organisms, giving one example for each.
--   Ammoniotelic | Ureotelic | Uricotelic (1M+1M+1M)   04
--   At least one example of each (1M)
-Q2   a. Define nucleic acid. List four structural and functional differences between
-DNA and RNA.   [05]
--   Definition (1M)
--   Four differences (4M)
-********** 1 **********
---- page 2 ---
-Q2   b. Discuss the role of design-biomimicry in engineering, using a relevant
-example to highlight the biological phenomenon, its application in
-engineering, and its associated advantages and disadvantages.
--   Definition of biomimicry and its types (1M+1M)   [10]
--   A specific example of “DESIGN” biomimicry
--   Biological Phenomenon (3M)
--   Engineering application (3M)
--   Advantages and disadvantages (1M+1M)
-Q2   c. Demonstrate the concept of a monohybrid cross between a plant with tall
-stems (Tt) and one with dwarf stems (tt). Using a Punnett square, illustrate the
-genotypic and phenotypic outcomes across the F₁ and F₂ generations.   [05]
--   Definition of mono-hybrid cross (1M)
--   Punnett square of F₁ and F₂ generation – 2x2 square (1M+1M)
--   Genotypic and phenotypic ratio (1M+1M)
-Q3   a. Discuss lipids and their biological importance. Classify lipids into their
-major categories, providing one example per type, and include an
-illustration of phospholipids.
--   Definition (1M)   [10]
--   Significance (1.5M)
--   Four Types: Triglycerides and their subtypes (fats and lipids) | Phospholipids |
-Steroids | Wax (1.5M+1.5M+1.5M+1.5M)
--   Diagram of Phospholipid Structure (1.5M)
-Q3   b. Explain the process of translation in protein synthesis, illustrating the
-steps involved and identifying the key biomolecules that participate.
--   Definition of translation (1M)   [10]
--   Role of RNAs – mRNA, rRNA, and tRNA (1.5M+1.5M+1.5M)
--   Diagram and explanation (3M+1.5M)
-Q4   a.   Briefly discuss each of the following microorganisms, providing a suitable
-example for each:
-1. Yeast   [10]
-2. Archaea
-3. Bacteria
-4. Algae
-5. Virus
--   Any two characteristics, explanation, and at least one example (1M+0.5M+0.5M) ×5
-Q4   b. Using a labeled diagram or flowchart, recall the products and byproducts
-generated at each stage of aerobic respiration.   [10]
--   Definition of aerobic cellular respiration (1M)
--   Explanation with a flow chart of Oxidation of pyruvate | Citric acid cycle/Krebs’
-cycle | Electron transport chain (2.5M+2.5M+2.5M)
--   Calculation of products (ATP) and co- or by-products (NADH, FADH₂, CO₂, H₂O,
-etc.) at each stage (0.5M+0.5M+0.5M)
-Q5   a. In humans, free earlobes are determined by a dominant allele (E), while
-attached earlobes are determined by a recessive allele (e). Given one parent
-with genotype EE and another with genotype ee, determine the genotypic and   [10]
-phenotypic ratios of the offspring across the F₁ and F₂ generations?
-F₁ Results:
-(5M)
-Genotype: 100% Ee (heterozygous)
-Phenotype: 100% free earlobes
-Ratio: 1 (free earlobes)
-********** 2 **********
---- page 3 ---
-F₂ Results:
-(5M)
-Genotype ratio:
-1 EE : 2 Ee : 1 ee
-(homo dom: hetero: homo recessive)
-Phenotype ratio:
-3 free earlobes (EE or Ee) : 1 attached
-earlobes (ee)
-Q5   b. Explain each of the following with a suitable illustration and examples where
-relevant:
-1. Induced fit model   [10]
-2. Uncompetitive inhibition
-3. Relationship between KM and Vmax
-4. Competitive inhibition
-Q6   a. Explain the concept of biotechnology and examine its application in the
-development of Bt Cotton. Identify the source organism of the genes inserted,
-and critically analyze the social, economic, and environmental impacts of this
-technology.   [10]
--   Define biotechnology (1M)
--   Different types – Whole organism, Part of organism, and Process (1M)
--   Bt cotton explanation along with origin – Bacillus thuringiensis (5M+1M)
--   Societal Impact (2M)
-Q6   b. Briefly explain the role of each of the following model organisms in
-advancing medical science:
-1. Saccharomyces cerevisiae   [10]
-2. Drosophila melanogaster
-3. Mus musculus
-4. Caenorhabditis elegans
--   Explanation of specific organism while mentioning the field/diseases they are studied
-in for finding treatments/enhancing understanding (1.5M+1M) ×4
-Q7   a. What are the core concepts of bioinformatics, and how can its computational
-methods contribute to solving biological and environmental problems?   [05]
--   Definition and concept (1M+1M)
--   Explanation of any two real-life applications of Bioinformatics (2M+2M)
-Q7   b. Recall any four industrial applications of enzymes and provide one specific
-example for each application area.   [05]
--   Need for enzymes at industrial scale (1M)
--   Any four applications with at least one example of an enzyme mentioned for each
-(1M+1M+1M+1M)
-Q7   c. Explain how both photosynthesis and cellular respiration play a role in
-[05]
-sustaining ecological balance.
--   Reaction balance between cellular respiration and photosynthesis (2M)
--   Mechanisms and factors contributing to equilibrium (3M)
-Q7   d. Explain the exponential, stationary, and death phases within microbial growth
-kinetics, and illustrate your answer using a labeled growth curve.   [05]
--   Significance of studying the growth curve (0.5M)
--   Explanation of Exponential, Stationary, and Death Phase (1M+1M+1M)
--   Plot (1.5M)
 ********** 3 **********
 ````
 

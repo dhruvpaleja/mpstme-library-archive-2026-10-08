@@ -1715,6 +1715,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/DIGITAL LOGIC DESIGN/Digital Logic Design, Sem-II, Batch 2025-26, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Jul 2026
 - Text: ocr (2 pages), mean OCR confidence 87.5
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Subject: Digital Logic Design
@@ -1760,7 +1761,6 @@ bor a) 1’s complement method
 Write and explain all the steps and comment on the final result for each method
 Q b.| Minimize the following equation using K-map and implement same using a) [10]
 fie Two input logic gates only b) Three input logic gates where ever required
-F (A, B, C, D) = Ea (1,3,5,9,11,13) +d (6,14)
 Q3 a. | Explain Full Subtractor with the help of truth table. Implement the same using 3 - [10]
 Pos sot variable K-map and draw logic diagram of the same.
 Q3 b.| Build a JK Flip Flop from the given SR Flip Flop. [10]
@@ -1779,7 +1779,6 @@ BL-2,3
 
 Q5 a.| Design 16:1 Multiplexer using 8:1 multiplexer. Explain all the steps properly. Also | [10]
 CO-3; SO-1; | implement following equation using 16:1 multiplexer
-IBL-3 F (A, B, C, D) = 3m (2, 4, 6, 8, 10,12)
 
 Q5 b.| What is shift register? What are the different types of shift register? Explain any one | [10]
 (CO-4;SO-1} | with the help of 4-bit shift register.
@@ -1802,7 +1801,6 @@ IBL-1,3
 
 Q7 b.| Explain De-Morgan’s law with the help of truth table. Apply De-Morgan’s law [05]
 ICO-2; SO-1; | To simplify following equation
-IBL-2,3 Y= {[(AB)’. A’]. [((AB)’. B]}’ .
 
 Q7 c.| Explain clocked SR flip-flop with the help of truth table. Also explain limitations of | [05]
 (CO-4;SO-1} | SR flip-flop.
@@ -2345,6 +2343,7 @@ iii) Convert (1101100110) to ()s
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/Digital Logic Design, 2nd Year, Sem-III, Year 2022-23, Fianl Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 23 November 2022
 - Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS {3/
@@ -2407,7 +2406,6 @@ Page 1 of 2
 --- page 2 ---
 Q3 b. | Build the given function using a single 8:1 multiplexer. [10]
 
-oe F(A, B, C, D) = Xm (2,4,6,7,9,10,11,12,15)
 Q4 a. | Design MOD-9 asynchronous counter using T flip flop and draw its timing diagram. | [10]
 CO-3; SO-1;
 BL6
@@ -2446,6 +2444,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN, 2ND YEAR, SEM III, YEAR 2022-23, FINAL EXAM.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 23 November 2022
 - Text: ocr (2 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2507,7 +2506,6 @@ Page 1 of 2
 --- page 2 ---
 Q3 b. | Build the given function using a single 8:1 multiplexer. [10]
 
-eo F(A, B, C, D) = Em (2,4,6,7,9,10,11,12,15)
 
 Q4 a. | Design MOD-9 asynchronous counter using T flip flop and draw its timing diagram. | [10]
 CO-3; $O-1,
@@ -2775,6 +2773,100 @@ et on serial input serial output shift register.
 Page 2 of 2
 ````
 
+## 2022-23 · Re-Exam · Sem 4 · paper df4520da654a
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/DIGITAL LOGIC DESIGN/Digital Logic Design, Batch 2021-22 Re-exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 87.5
+
+````text
+MPSTME
+
+LIBRARY
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B.Tech/MBA Tech Stream ; EXTC Year: II Semester: [V
+
+Subject: Digital Logic Design Time: 3 __ hrs @0:00amto 4!00pm)
+Date:_21 /Aps/ 20 23 . No. of Pages: 02
+
+Marks: 100
+
+Re-Examination (Batch 2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) In all_5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly [20]
+CO-2 ; SO-1 ; BL-3 a. Differentiate between encoders and multiplexers. [5]
+CO-1;SO-1;BL-1| > | Draw the truth table of AND, NOR and XOR gates. [5]
+CO-3 ; SO-1 ; BL-3 c. Construct the excitation table for SR Flip Flop. [5]
+CO-1 ; SO-1 ; BL-5 d. Evaluate (35)10 — (47)10 using 2’s compliment subtraction method. [5]
+Q2 [20]
+
+Solve the following:
+i. (147)10 = ()2
+CO-1;SO-1;BL-3} 4 ii, (1476)3 = (10 [10]
+iii, (10110110). = ()g
+iv. (23747)3 = ()16
+
+CO-3 ; SO-1; BL-6 b. Design a MOD-6 asynchronous counter using T Flip Flops. [10]
+Q3 [20] ~
+Reduce the given expression using K-Map:
+CO-1 ; SO-1; BL-6 a. Y =Ym (0,1,2,5,6,8) + d (3,4,7,14) [10]
+
+Construct the circuit of the simplified expression using logic gates.
+
+1/2
+--- page 2 ---
+CO-3 ; SO-1; BL-1 b. | Draw and explain JK Flip Flop in detail. [10]
+
+Q4 [20]
+CO-1 ; SO-1; BL-2 a. State and prove De Morgan’s theorems. [10]
+CO-3 ; SO-1; BL-3 b. Construct a 3-bit synchronous counter using T Flip Flop. [10]
+Q5 [20]
+CO-2 ; SO-1; BL-6 a. Design half subtractor circuit. [5]
+CO-1 ; SO-1; BL-2 b. Describe how AND, OR and NOT gates can be constructed using NOR gate. [5]
+What is VHDL? Explain entity, architecture and configuration used in VHDL
+CO-4;S0-1;BL-2 | ° , [10]
+design with an example.
+Q6 [20]
+Explain gray code and binary to gray code conversion with the help of an
+CO-1 ; SO-1; BL-1 a. [5]
+example.
+
+List all the types of shift registers and explain the following shift registers in
+
+detail:
+CO-3;S0-1;BL-2 | > i. Serial In Parallel Out [9]
+ii. Parallel In Parallel Out
+CO-2 ; SO-1; BL-2 Gs Describe 16:1 multiplexer with a neat diagram. [10]
+Q7 [20]
+Design the following Boolean expression using 8:1 multiplexer:
+CO-2;SO-1;BL-6 | © Y =E m (0,2,3,4,6,9,10,11,12,13,15) Ho}
+CO-4 : $O-1; BL3 b. Construct a VHDL Code for implementing half adder and half subtractor [10]
+
+2/2
+````
+
 ## 2022-23 · Re-Exam · Sem 3 · paper 9952e1b01f6b
 
 - Departments: Information Technology
@@ -2782,6 +2874,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/Digital Logic Design, 2nd Year, Sem-III, Year 2022-23, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 January 2023
 - Text: ocr (2 pages), mean OCR confidence 88.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2834,7 +2927,6 @@ Q3 a. | Illustrate functioning of clocked “D” flip flop with diagram and tru
 CO-3; SO-1;
 BL-2
 Q3 b. | Build the given function using a single 8:1 multiplexer. [10]
-oe F(A, B, C, D) = Sm (0, 3, 4, 5, 8, 9,12,15)
 
 Page 1 of 2
 --- page 2 ---
@@ -3045,100 +3137,6 @@ Q6 Design a 2-Bit comparator circuit using truth table and K-maps. 10
 Design a Ring counter circuit.
 
 Page 2 of 2
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper df4520da654a
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/DIGITAL LOGIC DESIGN/Digital Logic Design, Batch 2021-22 Re-exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 87.5
-
-````text
-MPSTME
-
-LIBRARY
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B.Tech/MBA Tech Stream ; EXTC Year: II Semester: [V
-
-Subject: Digital Logic Design Time: 3 __ hrs @0:00amto 4!00pm)
-Date:_21 /Aps/ 20 23 . No. of Pages: 02
-
-Marks: 100
-
-Re-Examination (Batch 2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) In all_5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly [20]
-CO-2 ; SO-1 ; BL-3 a. Differentiate between encoders and multiplexers. [5]
-CO-1;SO-1;BL-1| > | Draw the truth table of AND, NOR and XOR gates. [5]
-CO-3 ; SO-1 ; BL-3 c. Construct the excitation table for SR Flip Flop. [5]
-CO-1 ; SO-1 ; BL-5 d. Evaluate (35)10 — (47)10 using 2’s compliment subtraction method. [5]
-Q2 [20]
-
-Solve the following:
-i. (147)10 = ()2
-CO-1;SO-1;BL-3} 4 ii, (1476)3 = (10 [10]
-iii, (10110110). = ()g
-iv. (23747)3 = ()16
-
-CO-3 ; SO-1; BL-6 b. Design a MOD-6 asynchronous counter using T Flip Flops. [10]
-Q3 [20] ~
-Reduce the given expression using K-Map:
-CO-1 ; SO-1; BL-6 a. Y =Ym (0,1,2,5,6,8) + d (3,4,7,14) [10]
-
-Construct the circuit of the simplified expression using logic gates.
-
-1/2
---- page 2 ---
-CO-3 ; SO-1; BL-1 b. | Draw and explain JK Flip Flop in detail. [10]
-
-Q4 [20]
-CO-1 ; SO-1; BL-2 a. State and prove De Morgan’s theorems. [10]
-CO-3 ; SO-1; BL-3 b. Construct a 3-bit synchronous counter using T Flip Flop. [10]
-Q5 [20]
-CO-2 ; SO-1; BL-6 a. Design half subtractor circuit. [5]
-CO-1 ; SO-1; BL-2 b. Describe how AND, OR and NOT gates can be constructed using NOR gate. [5]
-What is VHDL? Explain entity, architecture and configuration used in VHDL
-CO-4;S0-1;BL-2 | ° , [10]
-design with an example.
-Q6 [20]
-Explain gray code and binary to gray code conversion with the help of an
-CO-1 ; SO-1; BL-1 a. [5]
-example.
-
-List all the types of shift registers and explain the following shift registers in
-
-detail:
-CO-3;S0-1;BL-2 | > i. Serial In Parallel Out [9]
-ii. Parallel In Parallel Out
-CO-2 ; SO-1; BL-2 Gs Describe 16:1 multiplexer with a neat diagram. [10]
-Q7 [20]
-Design the following Boolean expression using 8:1 multiplexer:
-CO-2;SO-1;BL-6 | © Y =E m (0,2,3,4,6,9,10,11,12,13,15) Ho}
-CO-4 : $O-1; BL3 b. Construct a VHDL Code for implementing half adder and half subtractor [10]
-
-2/2
 ````
 
 ## 2021-22 · Re-Exam · Sem 4 · paper 0b43a3d7956e
@@ -3420,6 +3418,522 @@ b) Synchronous and Asynchronous counters
 10
 
 Page 2 of 2
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 34a0ed2c7e78
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN BATCH 17-18 18-19 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 09 November 2019
+- Text: ocr (2 pages), mean OCR confidence 86.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: II Semester: III
+
+Academic Year: 2019-20
+
+Subject: Digital Logic Design
+
+Marks: 70 Z
+Date: 09 November 2019 Time: 2.00 p= 5.00;PIA Rp A RY len
+Durations: 3 Wes ’ JS
+No. of Pages: LY
+
+Re-Examination (2017-18/ 2018-19) WF
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+
+. 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1
+a. Perform the following conversions: [4]
+i) (2003.31)i0= (? )ie= (? 2
+ii) (2A6.23)16= (? )s=(? Jio
+b. Solve (18)10—(42)i0 using 2’s complement method [4]
+c. Convert D Flip flop to SR Flip Fiop . [4]
+d. Simplify: ABC + B+ BD + ABD + AC [2]
+Q.2
+
+a. Use the Quine Mc Cluskey method of minimization and find the expression for the following [7]
+function f (A,B,C,D) = ¥ m (1,5,6,12,13,14 ) +d (2,4).
+
+b. Draw the logic diagram for a Full Subtractor using K-Maps. [7]
+= Q.3
+a. Explain BCD Adder in detail. (7]
+ee. b. Explain the working of JK Flip Flop and race around condition. How is the race around [7]
+condition avoided ?
+--- page 2 ---
+Q.4
+a. Explain Universal Shift Register in detail. {7]
+
+' b. A Boolean function has four inputs and two outputs. One of the outputs is high when majority [7]
+of the inputs are high. The second output is high only when all the inputs are same. Design
+the combinational circuit with the help of K-maps.
+
+Q.5
+a. Design a Modulo 5 ripple counter using a 3 bit ripple counter. [7]
+b. i. Convert JK Flip Flop to SR Flip Flop [4]
+ii. State and explain DeMorgan’s Law [3]
+
+Q.6
+a. Draw a decade counter along with its timing diagram. [7]
+b. Implement the following Boolean expression using an 8:1 multiplexer. [7]
+
+f(A,B,C,D) = Ym (1,3,5,10,11,13,14 ) + d (0, 2).
+
+Q.7 Short Notes (Any two)
+
+a. Implementation of basic gates using Universal gates [7]
+b. Priority encoder [7]
+c. Magnitude comparators [7]
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 0fa9d62a2240
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (EXTC), BATCH_2017-18-19_RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 07 November 2019
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (EXTC) Year: II Semester: III
+7 a
+Academic Year: 2019-20 <= “
+
+Subject: Digital Logic Design
+a
+
+Date: 07 November 2019
+
+”
+
+at ti ns: 3;
+
+Oy of Pages:
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+Ql. Attempt the following:-
+a) Perform the conversion, (305.6875) 10 =(? )s.
+b) Give comparison for combinational and sequential circuits.
+c) List different types of flip-flops with their characteristic equations.
+d) State the three basic laws of Boolean algebra with their logical expressions.
+e) Implement EX-OR operation using Universal NAND gate.
+
+Q2 a) Get the minimal expression using Quine McClusky method.
+JKA,B,C,D) = Xm (0, 1, 6, 7, 8, 9, 13, 14, 15)
+b) State and prove the De Morgan’s theorems with their logic expressions.
+
+Q3 a)_—s Simplify the given function using Karnaugh map and implement using minimum number of
+logic gates. (f(A,B,C,D) = 2m (2, 9, 10, 12, 13) + d(1, 5, 14)
+What are the limitations of Karnaugh map?
+b) Draw the block diagram of BCD adder using IC 7483 and show with example the addition of
+two BCD numbers.
+
+Q4 a) Design a synchronous 3-bit Gray code counter using JK flip flop.
+
+b) What is lock-out condition in counters? How it can be eliminated?
+
+I/m
+
+10
+
+04
+
+07
+
+07
+
+10
+
+04
+
+u
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+a)
+b)
+a)
+b)
+a)
+b)
+
+Design a 4-bit binary-to-gray code converter using truth table, K-map and logic circuit.
+
+What is specialty of Gray code?
+Implement half adder circuit using 4:1 MUX or multiplexers only.
+
+Convert i) JK flip-flop to D flip-flop
+ii) T flip flop to D flip flop
+Draw and explain 4-bit Twisted Ring counter with timing diagram.
+
+Give classification of semiconductor memories and draw and explain dynamic RAM cell.
+
+Write short note on any two.
+i 1-bit magnitude comparator
+ii PLA & PAL
+iii Magnetic Core NVRAM
+
+10
+
+04
+
+08
+
+06
+
+06
+
+08
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 9b03e2e11bf4
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (IT), BATCH __2018-19_2017-18 RE EXAM_.pdf` (+1 identical copies)
+- Printed on paper: exam date: 12 November 2019
+- Text: ocr (2 pages), mean OCR confidence 88.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (IT) Year: II Semester: III
+4 C
+7 Academic Year: 2019-20 a
+Subject: Digital Logic Design A
+7 Mark 7
+Date: 12 November 2019 Time: |
+
+“ Durati ng: 3 (H
+
+, (2017-18)
+
+s
+“Se
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1. Perform the following:
+a) Convert the hexadecimal number 68BE to binary and then from binary convert it to octal. [2]
+
+b) Represent (4096)10 in BCD code and excess-3 code. a [2]
+c) Write the Excitation table and characteristic equation of JK flip flop. [2]
+d) Using 2's complement perform (23)10 ~ (48)10. [2]
+e) Compare combinational circuits and sequential circuits. [3]
+f) What is race around condition? [3]
+
+2. a) Draw the logic circuit for the given Boolean equation. Simplify the circuit using Boolean algebra
+
+and draw the simplified circuit. [6]
+Y = (AB) . (B+ C)
+
+b) Simplify the following Boolean equation using Quine-Mc-Cluskey Method and verify with
+K-map. F(A,B,C,D) = m(2,3,7,9,11,13) + d(1,10,15) [8]
+
+Page 1 of 2
+--- page 2 ---
+a) Simplify the following using K-Map. (7]
+
+i. F(A,B,C,D) = ym(0,3,5,7,8,11,12,15) + d(2,13)
+ii. F(A,B,C,D) = [I M(1,35,6,7,10,11) .d(2,4)
+
+[7]
+
+b) Design BCD to excess-3 code converter.
+
+. a) With the help of a neat block diagram explain the working of a JK Master-Slave flip-flop. [7]
+b) What is a decoder? Construct a 4x16 decoder with two 3x8 decoders. [7]
+a) What is a multinlexer? Implement the following equation using 8:1 Multiplexer. [7]
+
+F(A,B,C,D) = AB’CD + A’B’CD + AB’CD’ + ABC’D + ABCD
+
+b) Convert SR to D and T Flip flop. Draw the circuit. [7]
+
+. a) Design Mod-6 Ripple counter using JK flip flop. Write truth table and draw timing diagram. [7]
+
+b) What is a shift register? Explain the working of different types of shift registers. [7]
+
+. a) Explain working of PLA with block diagram. [5]
+b) Design full adder using two half adders. [5]
+[4]
+
+c) Explain weighted and non-weighted binary codes.
+
+Page 2 of 2
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper a2ffba2acc9c
+
+- Departments: Common (all branches), Information Technology
+- Programmes: B TECH / I T, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (IT),BATCH_2017-18-19_RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 November 2019
+- Text: ocr (2 pages), mean OCR confidence 88.7
+
+````text
+MPSTME ~
+
+LIBRARY
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (IT) Year: II Semester: III
+ra €
+a Academic Year: 2019-20 <
+
+Subject: Digital Logic Design
+Marks: 70 ~
+
+Date: 12 November 2019 Time: 2.00 pm - 5.00 pm
+oe Durations: 3 (Hrs) /
+
+No. of Pages: pM
+
+Re-examination B.Tech/ MBA Tech (2018- 19) / MBA Tech (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+1. Perform the following:
+a) Convert the hexadecimal number 68BE to binary and then from binary convert it to octal. [2]
+
+b) Represent (4096)10 in BCD code and excess- 3 code. (2]
+c) Write the Excitation table and characteristic equation of JK flip flop. [2]
+d) Using 2's complement perform (23)10— (48)10. (2]
+e) Compare combinational circuits and sequential circuits. (3]
+
+f) What is race around condition? [3]
+
+a) Draw the logic circuit for the given Boolean equation. Simplify the circuit using Boolean algebra
+
+and draw the simplified circuit. (6]
+= (AB) .(B+C)
+b) Simplify the following Boolean equation using Quine-Mc-Cluskey Method and verify with
+K-map. F(A,B,C,D) = ym(2,3,7,9,11,13) + d(1,10,15) [8]
+Page 1 of 2
+--- page 2 ---
+a) Simplify the following using K-Map. (7]
+
+i.   F(A,B,C,D) = ym(0,3,5,7,8,11,12,15) + d(2,13)
+ii. F(A,B,C,D) = T] M(1,3,5,6,7,10,11) .d(2,4)
+
+b) Design BCD to excess-3 code converter. [7]
+a) With the help of a neat block diagram explain the working of a JK Master-Slave flip-flop. (7]
+b) What is a decoder? Construct a 4x16 decoder with two 3x8 decoders. (7]
+. a) What is a. multiplexer? Implement the following equation using 8:1 Multiplexer. (7]
+F(A,B,C,D) = AB’CD + A’B’CD + ABCD’ + ABC’D + ABCD
+[7]
+
+b) Convert SR to D and T Flip flop. Draw the circuit.
+
+. a) Design Mod-6 Ripple counter using JK flip flop. Write truth table and draw timing diagram. [7]
+
+b) What is a shift register? Explain the working of different types of shift registers. [7]
+
+a) Explain working of PLA with block diagram. [5]
+b) Design full adder using two half adders. {5]
+[4]
+
+c) Explain weighted and non-weighted binary codes.
+
+Page 2 of 2
+````
+
+## 2018-19 · Exam not stated · Sem 3 · paper be613912edef
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/DIGITAL LOGIC DESIGN/Digital Logic Design 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
+- Text: ocr (2 pages), mean OCR confidence 81.3
+
+````text
+‘
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+3
+
+Program: B.Tech/ MBA Tech (EXTC) Year: U Semester : IIT
+Academic Year: 2018-19
+Subject: Digital Logic Design Marks: 70 ~~
+
+Time: 2.00 pm to 5.00 pm a
+Date : 21 January 2019 :
+Durations: 3 (hrs)
+No. of Pages:_ OZ —
+Re-examination (2017-18/ 2018-19) a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1. Attempt the following
+A. Compare Analog and Digital Systems.
+B. Perform the following:
+
+i (S588 —C32EI)g— > C Jeg
+i. CH2BV G4 (2°WHR O)8
+
+C. Define DeMorgans Theorem’s. ”
+
+D. Compare Sequential and Combinational Circuits.
+E. Explain in brief mintern and maxterm:
+
+F. Write a short note on Programmable Logic Array.
+
+Q2. A. Design 4 bit Gray to Binary code converter and realize using gates.
+B. i. Perform the following:
+
+(2AF)\o Fo BCD ex cesce3 ahd NY Cod
+
+ii. A 7 bit Hamming code is received as 1111101, what is the correct data.
+
+Q3. A. Realize JK and Delay flip flop using S-R flip flop.
+B. Design Two bit magnitude comparator and realize using gates.
+
+V5
+
+Q4. A. Explain Johnson counter in detail.
+
+02
+
+03
+
+02
+03
+02
+02
+
+07
+
+03
+
+04
+
+07
+07
+
+07
+--- page 2 ---
+Qs.
+
+Q6.
+
+Q7.
+
+Simplify the following using Boolean Algebra:
+
+i AR+AC +ARCCARTO
+
+h CAF8) (ACT HC) CR+ACD = FB
+
+Simplify the following using K — Map and realize using gates:
+
+i FCA (B.C) = SM(C0, N25 13,19
+
+ii FOA B.C 9) = WM C0;2,4,S1F,8)4 1° 121A IE)
+Design MOD — 3 Ripple (asynchronous) counter.
+
+Design an even parity generator using gates for a nibble input.
+Explain Parallel in Parallel out shift register in detail.
+
+Explain ROM in detail .*
+Find the minimal sum of products for the following Boolean expression using Quine — McCluskey
+method.
+
+fo 5 (01,2,3,4,8,9,10, I, 14,15)
+
+07
+
+07
+
+07
+
+07
+07
+
+07
+
+07
 ````
 
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper 2d5bb2c11423
@@ -3968,6 +4482,7 @@ Write a short note on PLA
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN 2018-19 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 17 November 2018
 - Text: ocr (2 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4066,7 +4581,6 @@ the following types of flip-flops. Sketch the output waveforms in each case:
 
 i) Positive edge triggered D type flip-flop ii) Negative edge triggered J-K flip-flop (K=1).
 
-on a a on a Lf bho
 
 Input to a : ; il iJ
 
@@ -4110,84 +4624,112 @@ Design Decimal to BCD Encoder
 (6)
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper 34a0ed2c7e78
+## 2018-19 · Re-Exam · Sem 3 · paper ded2d0dda87b
 
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN BATCH 17-18 18-19 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 09 November 2019
-- Text: ocr (2 pages), mean OCR confidence 86.7
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN BATCH 2017-18 RE EXAM1.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
+- Text: ocr (2 pages), mean OCR confidence 81.5
 
 ````text
-SVKM’s NMIMS
+ee, MAGS,
+
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+; Program: B.Tech/ MBA Tech (EXTC) Year: U Semester : III
+Academic Year: 2018-19
+Subject: Digital Logic Design .- Marks: 70 ~~
 
-Programme: B.Tech (Computer) Year: II Semester: III
+Time: 2.00 pm to 5.00 pm “
+Date: 21 January 2019 ~ :
 
-Academic Year: 2019-20
+Durations: 3 (hrs)
 
-Subject: Digital Logic Design
-
-Marks: 70 Z
-Date: 09 November 2019 Time: 2.00 p= 5.00;PIA Rp A RY len
-Durations: 3 Wes ’ JS
-No. of Pages: LY
-
-Re-Examination (2017-18/ 2018-19) WF
+No. of Pages:_ 9Z2—_
+Re-examination (2017-18/ 2018-19) ~~
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5_ questions to be attempted.
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
 4) All questions carry equal marks.
 
-. 5) Answer to each new question to be started on a fresh page.
+5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+7) Assume suitable data if necessary.
 
-Q.1
-a. Perform the following conversions: [4]
-i) (2003.31)i0= (? )ie= (? 2
-ii) (2A6.23)16= (? )s=(? Jio
-b. Solve (18)10—(42)i0 using 2’s complement method [4]
-c. Convert D Flip flop to SR Flip Fiop . [4]
-d. Simplify: ABC + B+ BD + ABD + AC [2]
-Q.2
+Q1. Attempt the following
 
-a. Use the Quine Mc Cluskey method of minimization and find the expression for the following [7]
-function f (A,B,C,D) = ¥ m (1,5,6,12,13,14 ) +d (2,4).
+A. Compare Analog and Digital Systems. 02
+B. | Perform the following:
+i (S588 —C226I) gs Jeg 03
+i. (F232) 94 (227PR 08
+C. Define DeMorgans Theorem’s. ” 02
+D. Compare Sequential and Combinational Circuits. 03
+E. Explain in brief mintern and maxterm: 02
+F. Write a short note on Programmable Logic Array. 02
+Q2. A. Design 4 bit Gray to Binary code converter and realize using gates. 07
 
-b. Draw the logic diagram for a Full Subtractor using K-Maps. [7]
-= Q.3
-a. Explain BCD Adder in detail. (7]
-ee. b. Explain the working of JK Flip Flop and race around condition. How is the race around [7]
-condition avoided ?
+B. i. Perform the following:
+
+03
+(& AF)\o +9 BCD ex crd(3 ahd 9x4 Cod
+ii. A7 bit Hamming code is received as 1111101, what is the correct data. 04
+Q3. A. Realize JK and Delay flip flop using S-R flip flop. 07
+B. Design Two bit magnitude comparator and realize using gates. 07
+Q4. A. Explain Johnson counter in detail. 07
+
+} [pe
 --- page 2 ---
-Q.4
-a. Explain Universal Shift Register in detail. {7]
+Qs.
 
-' b. A Boolean function has four inputs and two outputs. One of the outputs is high when majority [7]
-of the inputs are high. The second output is high only when all the inputs are same. Design
-the combinational circuit with the help of K-maps.
+Q6.
 
-Q.5
-a. Design a Modulo 5 ripple counter using a 3 bit ripple counter. [7]
-b. i. Convert JK Flip Flop to SR Flip Flop [4]
-ii. State and explain DeMorgan’s Law [3]
+Q7.
 
-Q.6
-a. Draw a decade counter along with its timing diagram. [7]
-b. Implement the following Boolean expression using an 8:1 multiplexer. [7]
+Simplify the following using Boolean Algebra:
 
-f(A,B,C,D) = Ym (1,3,5,10,11,13,14 ) + d (0, 2).
+i ARt AC +ARCCABTO
 
-Q.7 Short Notes (Any two)
+" CATEY(AC+C) CR+ACD = FB
 
-a. Implementation of basic gates using Universal gates [7]
-b. Priority encoder [7]
-c. Magnitude comparators [7]
+Simplify the following using K— Map and realize using gates:
+
+| FCA (8.09) 5 TM(0, 15215 13,1)
+
+ii. FCA (2,69) or a CODA SIF Bj 9 oO NF NIE)
+
+. Design MOD — 3 Ripple (asynchronous) counter,
+
+Design an even parity generator using gates for a nibble input.
+Explain Parallel in Parallel out shift register in detail.
+
+Explain ROM in detail.
+
+Find the minimal sum of products for the following Boolean expression using Quine — McCluskey
+method.
+
+Fe S01,2,3,F,8,9, 10, , 14,18)
+
+07
+
+07
+
+07
+
+07
+07
+
+07
+
+07
 ````
 
 ## 2018-19 · Re-Exam · Sem 3 · paper beff5a2ed13e
@@ -4298,40 +4840,37 @@ f - F01,2,3,F,8,9, le, 1, 14,18)
 07
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper 9b03e2e11bf4
+## 2018-19 · Re-Exam · Sem 3 · paper 51050e746cd7
 
 - Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (IT), BATCH __2018-19_2017-18 RE EXAM_.pdf` (+1 identical copies)
-- Printed on paper: exam date: 12 November 2019
-- Text: ocr (2 pages), mean OCR confidence 88.5
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN (IT) RE EXAM 16-17, 17-18.pdf`
+- Printed on paper: max marks: 70; exam date: 20 November 2018
+- Text: ocr (2 pages), mean OCR confidence 88.3
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech/ MBA Tech (IT) Year: II Semester: III
-4 C
-7 Academic Year: 2019-20 a
-Subject: Digital Logic Design A
-7 Mark 7
-Date: 12 November 2019 Time: |
+Programme: B. Tech (L.T.) 7 Year: II 7 Semester: III
 
-“ Durati ng: 3 (H
+| Academic Year: 2018-2019 1
+Subject: Digital Logic Design /»
+Marks: 70
+Date: 20 November 2018 / Time: 2.00 p n<
+Durations: 3 (FRx
 
-, (2017-18)
-
-s
-“Se
+’ No. of Pages : |
+, Re-examination (2016-17 / 2017-18) yo7
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. _1____ is compulsory.
+1) Question No. _I____ is compulsory.
 
-2) Out of remaining questions, attempt any __4 questions.
+2) Out of remaining questions, attempt any__4 _ questions.
 
-3) Inall___5_ questions to be attempted.
+3) Inall__5_ questions to, be attempted.
 
 4) All questions carry equal marks.
 
@@ -4340,52 +4879,40 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-1. Perform the following:
-a) Convert the hexadecimal number 68BE to binary and then from binary convert it to octal. [2]
+Q1. Attempt following:
 
-b) Represent (4096)10 in BCD code and excess-3 code. a [2]
-c) Write the Excitation table and characteristic equation of JK flip flop. [2]
-d) Using 2's complement perform (23)10 ~ (48)10. [2]
-e) Compare combinational circuits and sequential circuits. [3]
-f) What is race around condition? [3]
+a) Convert (57)s to decimal. [2]
+b) Convert (89A)j6 to binary. [2]
+c) Perform 48-23 using 2’s complement method. {2]
+d) Write applications of i) flip flops ii) shift registers. [4]
+c) State and prove associative and distributive law of Boolean algebra. [4]
+Q2. (a) Design BCD to excess-3 code convertor using AND/OR gates. {7]
+(b) Prove following using Boolean algebra: [7]
 
-2. a) Draw the logic circuit for the given Boolean equation. Simplify the circuit using Boolean algebra
+i) A+ A°B+AB=A+B
+ii) AB’ +A’B + AB+A’B’=1
 
-and draw the simplified circuit. [6]
-Y = (AB) . (B+ C)
-
-b) Simplify the following Boolean equation using Quine-Mc-Cluskey Method and verify with
-K-map. F(A,B,C,D) = m(2,3,7,9,11,13) + d(1,10,15) [8]
-
+Q3. (a) Simplify following Boolean function using K-map and realize using AND/OR gates. [7]
+se: F(A,B,C,D)= ¥°(0,4,5,10,11,14,15) + d(3,8)
+(b) Show that a full adder can be constructed with two half adders. [7]
 Page 1 of 2
 --- page 2 ---
-a) Simplify the following using K-Map. (7]
+‘>
 
-i. F(A,B,C,D) = ym(0,3,5,7,8,11,12,15) + d(2,13)
-ii. F(A,B,C,D) = [I M(1,35,6,7,10,11) .d(2,4)
+Q4. (a) Simplify the following Boolean equation using Quine-Mc-Cluskey Method. [7]
+F(A,B,C,D) = >m(0,1,28,10,1 1,14,15)
+(b) Draw and explain Master Slave JK flip flop. [7]
 
-[7]
+QS. (a) Implement the following using 8:1 Multiplexer [7]
+F(A,B,C,D)= ¥(1,3,4,11,12,13,14, 15)
 
-b) Design BCD to excess-3 code converter.
-
-. a) With the help of a neat block diagram explain the working of a JK Master-Slave flip-flop. [7]
-b) What is a decoder? Construct a 4x16 decoder with two 3x8 decoders. [7]
-a) What is a multinlexer? Implement the following equation using 8:1 Multiplexer. [7]
-
-F(A,B,C,D) = AB’CD + A’B’CD + AB’CD’ + ABC’D + ABCD
-
-b) Convert SR to D and T Flip flop. Draw the circuit. [7]
-
-. a) Design Mod-6 Ripple counter using JK flip flop. Write truth table and draw timing diagram. [7]
-
-b) What is a shift register? Explain the working of different types of shift registers. [7]
-
-. a) Explain working of PLA with block diagram. [5]
-b) Design full adder using two half adders. [5]
-[4]
-
-c) Explain weighted and non-weighted binary codes.
-
+(b) Differentiate between Synchronous and Asynchronous counter. {7]
+Q6. (a) Explain working of Twisted Ring counter with the help of circuit diagram. [7]
+(b) Explain operation of Parallel Input Serial output Shift Register. {7}
+Q7. (a) Convert SR to T flip flop. [5]
+(b) Explain block diagram of PLA. [5]
+(c) NAND as Universal gate [4]
+a
 Page 2 of 2
 ````
 
@@ -4461,6 +4988,101 @@ _b) What is meant by code Conversion? Explain BCD To Excess3 Convertor. Give the
 table, obtain the various K-maps and the expression. (7 marks )
 
 Q5) a)What is meant by SOP? Convert the following expression to standard SOP
+AB+AC+BC. Give the minterm expression. (7 marks)
+
+b) What is a full subractor? Explain indeatil with the truth table , K maps and circuit
+realization. (7 marks)
+
+Q6) A Circuit has four inputs & two outputs. One of the outputs is high when majority of inputs
+are high. The second output is high when all inputs are same types. Design a
+
+combinational circuit and give the simplified expression along with the truth table.
+(14 marks)
+
+Q7) Short Notes(any 4): (3.5 X 4 marks)
+e Gray Codes
+e Comparators
+e Product of Sum
+e Half Adders
+e Counters
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 22ea29480283
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DIGITAL LOGIC DESIGN/Digital Logic Design Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+~~ SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (IT) Year: I Semester : II
+Academic Year: 2018-19
+
+Marks: 70
+
+» Subject: Digital Logic Design xO |
+Time: 2.00 pm to 5.00 pm ~
+
+Date : 21 January 2019 -” Durations:3 (hrs)
+; No. of Pages:_O2—
+Re-examination B.Tech (2018-19) / MBA Teck (2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1 a) Convert the following: : (7 marks)
+
+© (456)8 to 016
+e (0101.101)2 to O10
+e Binary to gray
+o 1101
+o 1001
+e Add the following
+o 1011+ 1001
+
+b) Explain the following
+
+e The conversion of gray to binary codes with a suitable example. (3 marks)
+e State & Proof De morgan’s theorem. (4 marks)
+Q2) a) Design a BCD Adder using 4 bit binary adders and explain. (7 marks)
+
+b) Prove the following: (7marks)
+
+-— ee PO + BCF AC
+A BC+ABC+ABC+ABC=AB+ABTAC
+
+Q3 a) What is a multiplexer? Explain its necessity. What is a8:1 MUX explain in detail?
+(7 marks)
+
+b) Minimize the following expression and realize using the basic gates:
+Y= £(0,2,5,6.7,8, 10, 13,15)
+(7 marks)
+
+fo
+--- page 2 ---
+Q4 a) What are registers? Explain buffer Registers with block diagram. (7 marks)
+
+b) ‘What is meant by code Conversion? Explain BCD To Excess3 Convertor. Give the truth
+table, obtain the various K-maps and the expression. (7 marks )
+
+Q5) a) What is meant by SOP? Convert the following expression to standard SOP
 AB+AC+BC. Give the minterm expression. (7 marks)
 
 b) What is a full subractor? Explain indeatil with the truth table , K maps and circuit
@@ -4569,36 +5191,35 @@ Q7. | (@)._| Write short note on Programmable Logic Devices. (5)
 2/2
 ````
 
-## 2017-18 · Exam not stated · Sem 3 · paper be613912edef
+## 2017-18 · Final-Exam · Sem 3 · paper d5bc239efe02
 
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/DIGITAL LOGIC DESIGN/Digital Logic Design 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
-- Text: ocr (2 pages), mean OCR confidence 81.3
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN (COMPUTER), FINAL EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 02 December 2017
+- Text: ocr (2 pages), mean OCR confidence 87.9
 
 ````text
-‘
-
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-3
+Programme: B. Tech (COMPUTER) Year: II - Semester: III _
+ai
+Academic Year: 2017-2018 a
+Li Oe . My, -
+Subject: Digital Logic Design ~ I eo” Ae
+Marks: 70 ~ 9 ™ ie Ya
+Date: 02 December 2017 Time: 10.00 am ta.1.00 pm *> RY JS
+al : \ oS
+Durations: 3 (h Crane
+No. of Pages:
 
-Program: B.Tech/ MBA Tech (EXTC) Year: U Semester : IIT
-Academic Year: 2018-19
-Subject: Digital Logic Design Marks: 70 ~~
-
-Time: 2.00 pm to 5.00 pm a
-Date : 21 January 2019 :
-Durations: 3 (hrs)
-No. of Pages:_ OZ —
-Re-examination (2017-18/ 2018-19) a
+Final-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. 1 is compulsory.
+1) Question No. lis compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
@@ -4609,96 +5230,129 @@ of the Answer Book, which is provided for their use.
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
 
-Q1. Attempt the following
-A. Compare Analog and Digital Systems.
-B. Perform the following:
+7) Assume uitable data if necessary.
 
-i (S588 —C32EI)g— > C Jeg
-i. CH2BV G4 (2°WHR O)8
+Q.1 Solve 14
+a) (4)
+I.   (10.625)10to ( )2
+I Add (23) and (67)s.
+Ill. Convert (247.36)s to HEX number.
+IV. Subtract 48 from 23 using 2’s complement method.
+b) Convert a SR Flip Flop to a D Flip Flop. (4)
+¢) If f=(A+B) (A’C + D) then, Prove that f+ f‘=1. (4)
+4) Implement the function F=5m(1,3,7,11,15) +d( 0,2,5) using K- Map. (2)
+Q.2 a) Explain how Race around condition is avoided in JK Flip Flop using Timing Diagrams. (7)
+b) Design a Binary to Gray Code Converter. (7)
+Q.3. a) Implement a 16:1 MUX using 4:1 MUX. (7)
+(7)
 
-C. Define DeMorgans Theorem’s. ”
+b ) Implement NOT, AND, OR, gates using Universal gates .
 
-D. Compare Sequential and Combinational Circuits.
-E. Explain in brief mintern and maxterm:
-
-F. Write a short note on Programmable Logic Array.
-
-Q2. A. Design 4 bit Gray to Binary code converter and realize using gates.
-B. i. Perform the following:
-
-(2AF)\o Fo BCD ex cesce3 ahd NY Cod
-
-ii. A 7 bit Hamming code is received as 1111101, what is the correct data.
-
-Q3. A. Realize JK and Delay flip flop using S-R flip flop.
-B. Design Two bit magnitude comparator and realize using gates.
-
-V5
-
-Q4. A. Explain Johnson counter in detail.
-
-02
-
-03
-
-02
-03
-02
-02
-
-07
-
-03
-
-04
-
-07
-07
-
-07
+the
 --- page 2 ---
-Qs.
+CN
 
-Q6.
+Q.4 a) Using Quine Mc Clusky method simplify the following logic function (7)
+F = ¥ m(0,1,3,7,8,9,11,15) and give the Essential Prime implicants.
+b) Design an Asynchronous MOD-10 UP Counter. (7)
+Q.5 a) The input to Combinational Logic Circuit is a 4 bit Binary number. Design a logic circuit (7)
+having two outputs Y1 and Y2 for the following conditions: 1) Y1=1,if input Binary number is
 
-Q7.
+5 or less than 5. 2) Y2 = 0, if input Binary number is 9 or more than 9.
 
-Simplify the following using Boolean Algebra:
+b) Design a two Bit Comparator. (7)
+Q.6 a) Design a 3-bit Synchronous Counter using T Flip Flop. (7)
+b) Illustrate the various Registers and explain Bi-Directional Shift Register in detail. (7)
+Q.7_ Write hort Notes on any two (2) of the following: (14)
 
-i AR+AC +ARCCARTO
+a. 3:8 Decoder
 
-h CAF8) (ACT HC) CR+ACD = FB
+b. Clocked S-R Flip Flop using NAND.
 
-Simplify the following using K — Map and realize using gates:
+c. Octal to Binary Encoder
+````
 
-i FCA (B.C) = SM(C0, N25 13,19
+## 2017-18 · Final-Exam · Sem 3 · paper db3f4e1483aa
 
-ii FOA B.C 9) = WM C0;2,4,S1F,8)4 1° 121A IE)
-Design MOD — 3 Ripple (asynchronous) counter.
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGIAL LOGIC DESIGN (IT), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 November 2017
+- Text: ocr (2 pages), mean OCR confidence 90.4
 
-Design an even parity generator using gates for a nibble input.
-Explain Parallel in Parallel out shift register in detail.
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Explain ROM in detail .*
-Find the minimal sum of products for the following Boolean expression using Quine — McCluskey
-method.
+Programme: B. Tech (I.T.) ~ Year: Il ~ Semester: III ~
 
-fo 5 (01,2,3,4,8,9,10, I, 14,15)
+i Academic Year: 2017-2018
 
-07
+Subject: Digital Logic Design staid of & ;
+“ Marks: 70 ~ c o = x .
+Date: 25 November 2017 ~ Time: 10.00 am #.90 PPemn VS"
+Durations: 3 (Hr, LIBRARY
+No. of Pages: -
 
-07
+Final-Examination
 
-07
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
 
-07
-07
+1) Question No.1 is compulsory.
 
-07
+2) Out of remaining questions, attempt any 4 questions.
 
-07
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary
+
+QI. (a) Perform the following 8
+i. Convert (2AB)i6 into decimal.
+ii. Convert binary 1011 to gray code
+tii. (64)19 — (31)10 using 2’s complement method
+iv. (9BDE)i6 + (ABCD)j6 without converting
+
+(b) State and prove De-Morgan’s Theorems. 3
+(c) Differentiate between combinational and sequential circuit. 3
+Q2. (a) Using Boolean algebra, Prove the following 6
+
+i AB+AB(AC)=A
+iii ABC+ABC+ABC+ABC=AB+BC+AC
+(b) Simplify the following Boolean equation using Quine-Mc-Cluskey Method and verify with
+
+geal K-Map. F(A,B,C,D) = ¥'m(1,4,6,7,8,9,10,11,15) 8
+
+Page 1 of 2
+--- page 2 ---
+Q3. (a) Simplify using K-Map, obtain SOP equation and realize using only NAND gates. 7
+F(A,B,C,D) = ¥5m(0,4,5,6, 12,13) + d(7,15)
+(b) Design a 4 bit Binary to Gray code convertor and draw its logic diagram. 7
+
+Q4. (a) Describe the working of JK flip flop. What is race around condition and how to eliminate it.
+7
+
+(b) Design 2-bit Magnitude comparator. 7
+QS. (a) What is a multiplexer? Implement the following equation using 8:1 Multiplexer. 7
+
+F(A,B,C,D) = )m(1,2,3,4,7,8,11,12,15)
+
+(b) Convert SR flip flop to T flip flop. Draw the circuit. 7
+Q6. (a) Design Mod-8 Ripple counter using JK flip flop. Write truth table and draw timing
+diagram. 7
+(b) With the help of a neat diagram, explain the working of a 4 bit bidirectional shift register.
+7
+Q7. (a) Explain Programmable Logic Array (PLA) with block diagram. 5
+(b) Design Full adder using 3:8 decoder with OR gates. 5
+(c) Synchronous vs Asynchronous counter. 4
+ial
+Page 2 of 2
 ````
 
 ## 2017-18 · Final-Exam · Sem 3 · paper 676dcb211b94
@@ -4880,6 +5534,131 @@ ii) 4 bit Serial in parallel out shift register
 iii) Dynamic RAM cell
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper f46ab5264403
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN (BATCH 16-17 )RE-EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 02 December 2017
+- Text: ocr (2 pages), mean OCR confidence 88.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (COMPUTER) - Year: II - Semester: III “
+Batch: 2016-17 + TC
+Academic Year: 2017-2018 Zep 5? Magaa, Sy.”
+: ss Nay, *
+Subject: Digital Logic Design “ (s : a \
+p ag ¥ ot
+Marks: 70. a oa
+Date: 02 December 2017- Time: 10,00-am to T. ey
+
+Duratioris; 8 (hrs) &
+No. of Pages amas ae
+Re-Examination ; ee
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any fourquestions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql
+
+a) (i)Convert the following binary number into hexadecimal number- 02
+110 0111 0001.0001 0111 1001
+(ii) (761.514)s=(?)2=(?)10
+
+b) Perform 2’s complement subtraction of (7)10-(1 110 02
+
+c) Convert SR Flip Flop to T Flip Flop. 04
+
+d) Simplify using Boolean theorems and draw logic diagram for the following 03
+
+Y=A’BC+AB’C+ABC’+ABC
+e) Convert the following expression into standard POS form 03
+Y=(A+B) (A+C) (B+C’)
+
+Q.2
+
+a) Perform the following:
+(i) Convert (101110110) Gray to binary 02
+(ii) Add(569) io and (687) 0 in BCD 02
+(iii) Minimize the given circuit and write the simplified Boolean expression 03
+--- page 2 ---
+b)
+
+Q.3
+a).
+b)
+
+—
+ee
+
+F
+
+7 a _
+
+Simplify the logic function using the QuineMcCluskey method
+
+f(A,B,C.D)=Em(1,3,7,11,15)+d(0,2,5)
+
+Design 4-bit ring counter with timing diagram. ‘
+Simplify using K-map and Draw the circuit diagram using NAND gates
+
+f(A,B,C,D)= Ym(4,5,6,7,8,10,12)+d(2,9,1 1)
+
+Design BCD to Excess-3 code convertor.
+What is Race around condition in J-K flip flop and explain the ways to overcome it.
+
+Design a full adder using 4:1 multiplexer
+Design a sequence generator for 0-2-4-5-0. Check for lock out condition
+
+What is Modulus of the counter? Design MOD -6 Counter
+
+A system has one output F, and four bit binary number. F is to be | if input number is
+prime or if the number is divisible by 3 ;
+i)Determine the truth table
+
+ii) Simplify using Karnaugh Map
+
+iii) Design the circuit.
+
+Write short note on any two
+Universal Shift Register
+
+ALU
+NOR as universal gate
+
+07
+
+07
+07
+
+07
+07
+
+07
+07
+
+07
+07
+
+14
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper 7ec5bcdc5d1d
 
 - Departments: Computer Engineering
@@ -4887,6 +5666,7 @@ iii) Dynamic RAM cell
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN BATCH 17-18 RE EXAM 2017-18(1).pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 86.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 LE o? Re
@@ -4948,8 +5728,6 @@ F=>'m (0,3,5,7,9, 13,15)
 b) Design Half and Full adder (8)
 
 Q5. a) Convert . : (9)
-(i) JK FF to D FF
-(ii) T FF to D FF
 (iii) SR to D FF
 
 b) — Explain Priority Encoder , (5)
@@ -4962,127 +5740,6 @@ Q7. Write Short Note on
 a) Applications of Registers (3)
 b) Applications of Multiplexers and Demultiplexers (3)
 c) Explain working of 4 bit Ring and Johnson counter (8)
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 0fa9d62a2240
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (EXTC), BATCH_2017-18-19_RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 07 November 2019
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech/ MBA Tech (EXTC) Year: II Semester: III
-7 a
-Academic Year: 2019-20 <= “
-
-Subject: Digital Logic Design
-a
-
-Date: 07 November 2019
-
-”
-
-at ti ns: 3;
-
-Oy of Pages:
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -suitable data if necessary.
-
-Ql. Attempt the following:-
-a) Perform the conversion, (305.6875) 10 =(? )s.
-b) Give comparison for combinational and sequential circuits.
-c) List different types of flip-flops with their characteristic equations.
-d) State the three basic laws of Boolean algebra with their logical expressions.
-e) Implement EX-OR operation using Universal NAND gate.
-
-Q2 a) Get the minimal expression using Quine McClusky method.
-JKA,B,C,D) = Xm (0, 1, 6, 7, 8, 9, 13, 14, 15)
-b) State and prove the De Morgan’s theorems with their logic expressions.
-
-Q3 a)_—s Simplify the given function using Karnaugh map and implement using minimum number of
-logic gates. (f(A,B,C,D) = 2m (2, 9, 10, 12, 13) + d(1, 5, 14)
-What are the limitations of Karnaugh map?
-b) Draw the block diagram of BCD adder using IC 7483 and show with example the addition of
-two BCD numbers.
-
-Q4 a) Design a synchronous 3-bit Gray code counter using JK flip flop.
-
-b) What is lock-out condition in counters? How it can be eliminated?
-
-I/m
-
-10
-
-04
-
-07
-
-07
-
-10
-
-04
-
-u
---- page 2 ---
-Q5
-
-Q6
-
-Q7
-
-a)
-b)
-a)
-b)
-a)
-b)
-
-Design a 4-bit binary-to-gray code converter using truth table, K-map and logic circuit.
-
-What is specialty of Gray code?
-Implement half adder circuit using 4:1 MUX or multiplexers only.
-
-Convert i) JK flip-flop to D flip-flop
-ii) T flip flop to D flip flop
-Draw and explain 4-bit Twisted Ring counter with timing diagram.
-
-Give classification of semiconductor memories and draw and explain dynamic RAM cell.
-
-Write short note on any two.
-i 1-bit magnitude comparator
-ii PLA & PAL
-iii Magnetic Core NVRAM
-
-10
-
-04
-
-08
-
-06
-
-06
-
-08
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper c016c4c08cb7
@@ -5158,145 +5815,41 @@ iii) Programmable Logic Devices
 b) Draw and explain dynamic RAM cell. [4]
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper ded2d0dda87b
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN BATCH 2017-18 RE EXAM1.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
-- Text: ocr (2 pages), mean OCR confidence 81.5
-
-````text
-ee, MAGS,
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-; Program: B.Tech/ MBA Tech (EXTC) Year: U Semester : III
-Academic Year: 2018-19
-Subject: Digital Logic Design .- Marks: 70 ~~
-
-Time: 2.00 pm to 5.00 pm “
-Date: 21 January 2019 ~ :
-
-Durations: 3 (hrs)
-
-No. of Pages:_ 9Z2—_
-Re-examination (2017-18/ 2018-19) ~~
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1. Attempt the following
-
-A. Compare Analog and Digital Systems. 02
-B. | Perform the following:
-i (S588 —C226I) gs Jeg 03
-i. (F232) 94 (227PR 08
-C. Define DeMorgans Theorem’s. ” 02
-D. Compare Sequential and Combinational Circuits. 03
-E. Explain in brief mintern and maxterm: 02
-F. Write a short note on Programmable Logic Array. 02
-Q2. A. Design 4 bit Gray to Binary code converter and realize using gates. 07
-
-B. i. Perform the following:
-
-03
-(& AF)\o +9 BCD ex crd(3 ahd 9x4 Cod
-ii. A7 bit Hamming code is received as 1111101, what is the correct data. 04
-Q3. A. Realize JK and Delay flip flop using S-R flip flop. 07
-B. Design Two bit magnitude comparator and realize using gates. 07
-Q4. A. Explain Johnson counter in detail. 07
-
-} [pe
---- page 2 ---
-Qs.
-
-Q6.
-
-Q7.
-
-Simplify the following using Boolean Algebra:
-
-i ARt AC +ARCCABTO
-
-" CATEY(AC+C) CR+ACD = FB
-
-Simplify the following using K— Map and realize using gates:
-
-| FCA (8.09) 5 TM(0, 15215 13,1)
-
-ii. FCA (2,69) or a CODA SIF Bj 9 oO NF NIE)
-
-. Design MOD — 3 Ripple (asynchronous) counter,
-
-Design an even parity generator using gates for a nibble input.
-Explain Parallel in Parallel out shift register in detail.
-
-Explain ROM in detail.
-
-Find the minimal sum of products for the following Boolean expression using Quine — McCluskey
-method.
-
-Fe S01,2,3,F,8,9, 10, , 14,18)
-
-07
-
-07
-
-07
-
-07
-07
-
-07
-
-07
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 51050e746cd7
+## 2017-18 · Re-Exam · Sem 3 · paper b5a7da1da774
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN (IT) RE EXAM 16-17, 17-18.pdf`
-- Printed on paper: max marks: 70; exam date: 20 November 2018
-- Text: ocr (2 pages), mean OCR confidence 88.3
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN (BATCH 16-17) RE-EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 25 November 2017
+- Text: ocr (2 pages), mean OCR confidence 89.8
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (L.T.) 7 Year: II 7 Semester: III
+Programme: B.Tech (I.T.) Year: II. Semester: III -
 
-| Academic Year: 2018-2019 1
-Subject: Digital Logic Design /»
-Marks: 70
-Date: 20 November 2018 / Time: 2.00 p n<
-Durations: 3 (FRx
+Batch: 2016-17. —
+Academic Year: 2017-2018 - = =
 
-’ No. of Pages : |
-, Re-examination (2016-17 / 2017-18) yo7
+ma .
+Subject: Digital Logic Design- ge ‘
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Marks: 70 2
 
-1) Question No. _I____ is compulsory.
+Date: 25 November 2017 ~ Time: 10,08 dnvtco P ar ‘x FF)
+Durations: tine) * 2 ff
+| No. of Pal Wa
+’ Re-Examination ee °
 
-2) Out of remaining questions, attempt any__4 _ questions.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
 
-3) Inall__5_ questions to, be attempted.
+1) Question No. _1_is compulsory.
+
+2) Out of remaining questions, attempt any _4 questions.
+
+3) In all _5_ questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -5305,131 +5858,43 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-Q1. Attempt following:
+QI. (a) Perform the following 8
+i. Convert(6027)10 into BCD and excess-3 code
+ii. Convert (2C6B.F2)16 into binary
+iii. (23)10 — (48)i0 using 2’s complement method
+iv. (FAC2)16 - (ADS5)i6 without converting
 
-a) Convert (57)s to decimal. [2]
-b) Convert (89A)j6 to binary. [2]
-c) Perform 48-23 using 2’s complement method. {2]
-d) Write applications of i) flip flops ii) shift registers. [4]
-c) State and prove associative and distributive law of Boolean algebra. [4]
-Q2. (a) Design BCD to excess-3 code convertor using AND/OR gates. {7]
-(b) Prove following using Boolean algebra: [7]
+(b) State and prove Distributive property of Boolean algebra. 3
+(c) Convert D flip flop to T flip flop. 3
 
-i) A+ A°B+AB=A+B
-ii) AB’ +A’B + AB+A’B’=1
+Q2. (a) Simplify using K-Map, obtain SOP equation and realize using only NAND gates. 7
+F(A,B,C,D) = }'m(0,4,5,6,12,13) + d(7,15)
 
-Q3. (a) Simplify following Boolean function using K-map and realize using AND/OR gates. [7]
-se: F(A,B,C,D)= ¥°(0,4,5,10,11,14,15) + d(3,8)
-(b) Show that a full adder can be constructed with two half adders. [7]
+i (b) Explain 2-bit magnitude comparator with circuit diagram. 7
+Q3. (a) Simplify the following Boolean equation using Quine-Mc-Cluskey Method. 7
+
+F(A,B,C,D) = )m(1,5,6,12,13,14) + d(2,4)
+(b) Explain Decoders and Encoders in brief, also design a Priority Encoder. 7
+
 Page 1 of 2
 --- page 2 ---
-‘>
+Q4. (a) Using Boolean algebra, Prove the following 7
 
-Q4. (a) Simplify the following Boolean equation using Quine-Mc-Cluskey Method. [7]
-F(A,B,C,D) = >m(0,1,28,10,1 1,14,15)
-(b) Draw and explain Master Slave JK flip flop. [7]
+i AB+AB(AQ)=A
+ii ABC+ABC+ABC+ABC=ABtBC+AC
+(b) Design a 4 bit Binary to Gray code convertor and draw its logic diagram. 7
+QS. (a) What is a multiplexer? Implement the following equation using 8:1 Multiplexer. 7
 
-QS. (a) Implement the following using 8:1 Multiplexer [7]
-F(A,B,C,D)= ¥(1,3,4,11,12,13,14, 15)
+F(A,B,C,D) = ¥m(1,2,3,4,7,8,11,12,15)
 
-(b) Differentiate between Synchronous and Asynchronous counter. {7]
-Q6. (a) Explain working of Twisted Ring counter with the help of circuit diagram. [7]
-(b) Explain operation of Parallel Input Serial output Shift Register. {7}
-Q7. (a) Convert SR to T flip flop. [5]
-(b) Explain block diagram of PLA. [5]
-(c) NAND as Universal gate [4]
-a
-Page 2 of 2
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper a2ffba2acc9c
-
-- Departments: Common (all branches), Information Technology
-- Programmes: B TECH / I T, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (IT),BATCH_2017-18-19_RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 November 2019
-- Text: ocr (2 pages), mean OCR confidence 88.7
-
-````text
-MPSTME ~
-
-LIBRARY
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech/ MBA Tech (IT) Year: II Semester: III
-ra €
-a Academic Year: 2019-20 <
-
-Subject: Digital Logic Design
-Marks: 70 ~
-
-Date: 12 November 2019 Time: 2.00 pm - 5.00 pm
-oe Durations: 3 (Hrs) /
-
-No. of Pages: pM
-
-Re-examination B.Tech/ MBA Tech (2018- 19) / MBA Tech (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any __4 questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-1. Perform the following:
-a) Convert the hexadecimal number 68BE to binary and then from binary convert it to octal. [2]
-
-b) Represent (4096)10 in BCD code and excess- 3 code. (2]
-c) Write the Excitation table and characteristic equation of JK flip flop. [2]
-d) Using 2's complement perform (23)10— (48)10. (2]
-e) Compare combinational circuits and sequential circuits. (3]
-
-f) What is race around condition? [3]
-
-a) Draw the logic circuit for the given Boolean equation. Simplify the circuit using Boolean algebra
-
-and draw the simplified circuit. (6]
-= (AB) .(B+C)
-b) Simplify the following Boolean equation using Quine-Mc-Cluskey Method and verify with
-K-map. F(A,B,C,D) = ym(2,3,7,9,11,13) + d(1,10,15) [8]
-Page 1 of 2
---- page 2 ---
-a) Simplify the following using K-Map. (7]
-
-i.   F(A,B,C,D) = ym(0,3,5,7,8,11,12,15) + d(2,13)
-ii. F(A,B,C,D) = T] M(1,3,5,6,7,10,11) .d(2,4)
-
-b) Design BCD to excess-3 code converter. [7]
-a) With the help of a neat block diagram explain the working of a JK Master-Slave flip-flop. (7]
-b) What is a decoder? Construct a 4x16 decoder with two 3x8 decoders. (7]
-. a) What is a. multiplexer? Implement the following equation using 8:1 Multiplexer. (7]
-F(A,B,C,D) = AB’CD + A’B’CD + ABCD’ + ABC’D + ABCD
-[7]
-
-b) Convert SR to D and T Flip flop. Draw the circuit.
-
-. a) Design Mod-6 Ripple counter using JK flip flop. Write truth table and draw timing diagram. [7]
-
-b) What is a shift register? Explain the working of different types of shift registers. [7]
-
-a) Explain working of PLA with block diagram. [5]
-b) Design full adder using two half adders. {5]
-[4]
-
-c) Explain weighted and non-weighted binary codes.
+(b) Explain the function of Master Slave JK flip flop and its significance. 7
+Q6. (a) Design Mod-8 Ripple counter using JK flip flop. Write truth table and draw timing
+diagram. 7
+(b) With the help of a neat diagram, explain the working of a 4 bit bidirectional shift register.
+7
+Q7. (a) Explain Programmable Logic Array (PLA) with block diagram. 5
+(b) Design a Full adder using 3:8 decoders. 5
+(c) Differentiate between combinational and sequential logic. 4
 
 Page 2 of 2
 ````
@@ -5527,6 +5992,98 @@ D) Discuss design procedure of Combinational logic design procedure. (2)
 Page 2 of 2
 ````
 
+## 2017-18 · Re-Exam · Sem 4 · paper 42b33bf5631a
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_04/DIGITAL LOGIC AND DESIGN/Digital Logic and Design Batch 2016-2017 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 14 May 2018
+- Text: ocr (2 pages), mean OCR confidence 84.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (EXTC) « Year: II < Semester: IV
+
+Academic Year: 2017-2018
+
+Subject: Digital Logic and Design “ a7
+Marks: 70 <7 ¢, |
+Date: 14 May 2018 - Time: 10.00 ari
+Durations: 3
+No. of Pages:
+
+Final Examination (2017-18) / Re-examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No, __1__ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall__5___ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql. Answer the following
+a) Perform the following binary arithmetic operation
+i. — (46)10 + (22)t0 [2
+ii, —(18)10 = (6)10 [3
+b) i. Write short notes on ASCII codes (2]
+ii. Convert the following binary number to gray [1.5]
+(1101010111 )binary
+iii, Convert the following gray to binary number [1.5]
+(LLLOLOL01 Lgray »
+c) Discuss the Weighted Resistor DAC. [4]
+Q2. a) Convert the following
+(46AD.F8CB)i¢ into Binary, Octal, and Decimal. [5]
+b) Perform the following arithmetic subtraction by binary 2’s complement
+method [5]
+(368) 10 — (432)10
+c) Perform the following arithmetic subtraction by binary 1’s complement
+method [4]
+
+(513)i0 — (289) 10
+
+Q3. a) State and Prove De Morgans Theorem. [5]
+
+1/2
+--- page 2 ---
+Q3. b) Prove the following:
+
+ee [5]
+i A@P®B=A OB 7
+ii, AB+AC=AB+BC+AC
+~ ~% Q3. c) Describe the working of TTL logic family [4]
+Q4. a) Reduce the following Boolean expression, [4]
+; F= (A+B+C)(C+D+B)(A+C)
+b) Convert the following SOP into a POS Boolean expression. [4]
+' F = ABC + ABC + ABC + ABC
+c) Solve the following Boolean function by K — Map reduction [6]
+F = [[M(2,7,8,9,10,12).d(1, 3, 11,13)
+Q3. a) Implement the following Boolean expression using 8:1 MUX [6]
+F = Ym(0, 2,3, 6,8, 9,12, 14)
+b) Solve the Boolean function by Quine —McClusky method, [8]
+, F = Ym(0,1,3,7,8,9, 11,15)
+Q6. a) Compare Combinational Logic Circuits and Sequential Logic Circuits. [3]
+b) Convert the S —R Flip flop into a J—K Flip flop. [3]
+c) Discuss the problem of Race Around condition, explain different methods [8]
+used in avoiding the condition.
+Q7. a) Design a MOD — 6 asynchronous counter. [6]
+b) Describe the working of 4 — bit Universal Shift Register. [8]
+
+
+2/2
+````
+
 ## 2017-18 · Re-Exam · Sem 4 · paper f9f1c63c4fe5
 
 - Departments: Electronics and Telecommunication
@@ -5534,6 +6091,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_04/DIGITAL LOGIC AND DESIGN/Digital Logic and Design Batch 2016-2017,2017-2018 Re Exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 03 July 2018
 - Text: ocr (2 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKkM’S NMIMS
@@ -5647,7 +6205,6 @@ Design a 3 — bit binary up — down ripple counter.
 Compare counters and registers. ;
 What is shift register? Explain any one type of shift register.
 
-ok ok oo a aK oe ok
 
 2/2
 
@@ -5755,101 +6312,6 @@ iii) FPGA
 14
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper 22ea29480283
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DIGITAL LOGIC DESIGN/Digital Logic Design Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-~~ SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (IT) Year: I Semester : II
-Academic Year: 2018-19
-
-Marks: 70
-
-» Subject: Digital Logic Design xO |
-Time: 2.00 pm to 5.00 pm ~
-
-Date : 21 January 2019 -” Durations:3 (hrs)
-; No. of Pages:_O2—
-Re-examination B.Tech (2018-19) / MBA Teck (2017-18/2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1 a) Convert the following: : (7 marks)
-
-© (456)8 to 016
-e (0101.101)2 to O10
-e Binary to gray
-o 1101
-o 1001
-e Add the following
-o 1011+ 1001
-
-b) Explain the following
-
-e The conversion of gray to binary codes with a suitable example. (3 marks)
-e State & Proof De morgan’s theorem. (4 marks)
-Q2) a) Design a BCD Adder using 4 bit binary adders and explain. (7 marks)
-
-b) Prove the following: (7marks)
-
--— ee PO + BCF AC
-A BC+ABC+ABC+ABC=AB+ABTAC
-
-Q3 a) What is a multiplexer? Explain its necessity. What is a8:1 MUX explain in detail?
-(7 marks)
-
-b) Minimize the following expression and realize using the basic gates:
-Y= £(0,2,5,6.7,8, 10, 13,15)
-(7 marks)
-
-fo
---- page 2 ---
-Q4 a) What are registers? Explain buffer Registers with block diagram. (7 marks)
-
-b) ‘What is meant by code Conversion? Explain BCD To Excess3 Convertor. Give the truth
-table, obtain the various K-maps and the expression. (7 marks )
-
-Q5) a) What is meant by SOP? Convert the following expression to standard SOP
-AB+AC+BC. Give the minterm expression. (7 marks)
-
-b) What is a full subractor? Explain indeatil with the truth table , K maps and circuit
-realization. (7 marks)
-
-Q6) A Circuit has four inputs & two outputs. One of the outputs is high when majority of inputs
-are high. The second output is high when all inputs are same types. Design a
-
-combinational circuit and give the simplified expression along with the truth table.
-(14 marks)
-
-Q7) Short Notes(any 4): (3.5 X 4 marks)
-e Gray Codes
-e Comparators
-e Product of Sum
-e Half Adders
-e Counters
-````
-
 ## 2017-18 · Re-Exam · Sem 3 · paper 9be3e415190a
 
 - Departments: Electronics and Telecommunication
@@ -5915,6 +6377,172 @@ ze Qu 6b) Design and explain four bit bidirectional shift register 7
 Qu 7a) Explain the functional diagram of 2K X 8 memory chip 7
 
 Qu7b) Implement the full adder circuit using PLA 7
+````
+
+## 2016-17 · Final-Exam · Sem 3 · paper 07eef03b8755
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (COMPUTER), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 02 December 2016
+- Text: ocr (2 pages), mean OCR confidence 86.4
+
+````text
+SVKM’s NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) : Year: I Semester: II
+
+Academic Year: 2016-2017
+
+: 78 é i
+Subject : Digital Logic Design Seas sy S.
+
+—~\
+
+Marks: 70
+Date : 02 December 2016 Time. 10.0
+
+Final-Examination .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+QI. Perform the following
+
+a} Convert. (1473)yo, to.octal , binary and Bexadectmal 4)
+b) Subtract using 1’s and 2’s complement . (4)
+(64)10- 31) 10 .
+c) Write different techniques of triggering. . (3)
+d) Difference between synchronous and asynchronous counter. (3)
+Q2. a) Simplify using Quine McCluskey method (8)
+a F(A,B,C,D)= ©; m ( 1,2,6,8,10,11,15) + d(6,9)
+b) Explain different modes of operations in shift register. (6)
+_ Q3..a) Design BCD adder using 4 bit Binary Adder. (6)
+
+b) Design two bit digital comparator using minimum number of gates. (8)
+--- page 2 ---
+Q4. a) Design a combinational circuit with A, B and C as three inputs and F1, F2 and F3 as
+three outputs. If binary input is 0,1,2 or 3 the binary output is greater than input. [f binary
+
+input is 4,5 ,6or 7 the binary output is two less than input, ~ (9)
+_ b) Implement following function using only 8:1 Mux and Few gates. (5)
+Fyn (0,3,5,7,9,13,15) _
+QS. a) Write'truth table of JK flip flop and explain Race around condition. ; (7)
+b) Design Full subtractor. , (7)
+Q6. a) Design synchronous counter for following sequence wit T flipflop ’ (12)
+0-3-5-9-12-7-2-0
+b) What is lockout condition. (2)
+
+or.
+Q7. a) Compare combinational and sequential circuits and write applications Flip Flops. (8)
+
+b) Write short note on (6)
+i) Weighted and Non Weighted codes
+
+ii) Priority encoder
+````
+
+## 2016-17 · Final-Exam · Sem 3 · paper 6616ec729cf5
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (IT), FINAL EXAM0001 (1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 November 2016
+- Text: ocr (2 pages), mean OCR confidence 89.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: II Semester: III
+
+Academic Year: 2016-2017
+
+Subject : Digital Logic Design ge Ree
+Marks: 70 fr
+
+Date : 25 November 2016 Time : 10.6 ari CSTR Bn 3
+Durationss3 (hrsp ® 4 F
+
+Final-Examination % Nw ®
+Ora . _—
+Qa
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1. (a) Attempt following (2x4=8)
+(I) Perform (6)10-(4)10 using 2’s complement
+(Il) Divide (11101110)2 by (1001)2
+(Ill) State De-Morgan’s Law
+(IV) Realize Ex-OR gate using NAND gate.
+
+(b) Attempt following (3x2=6)
+
+(1) Compare combinational and sequential circuit.
+(Il) Draw D flip-flop using JK Flip-Flop.
+
+Q2. (a) Prove following using Boolean algebra (6)
+
+(I)X(X#Y) #Z+ZV=Y4Z
+
+(I)WX (W+Y) 4WY (W+X) =WX
+
+Q2. (b) Simplify following using K-map (8)
+
+(I) F(A,B,C,D)= 5m(0,1,5,9,13,14,15)+d(3,4,7,10,11).
+
+Page 1 of 2
+--- page 2 ---
+(Il) F(A,B,C,D) =nM (0,2,3,6,7,8,9,12,13)
+Q3. (a) Design full adder using K-map and realize with logic gates .Also explain how full adder can be
+used to design multibit adder. (7)
+
+Q3. (b) Define multiplexer. State application of multiplexer .Implement following function using 16:1 MUX.
+
+F(A,B,C,D)= 5m(2,4,5,7,10,14,15,16,17,25,26,30,31). (7)
+Q4. (a) What do. you mean by race around condition? How it can be avoided using master-slave JK FF? (7)
+Q4. (b) Design ripple counter for state diagram. (7)
+Q5. (a) Draw a schematic diagram of 4-bit, Bi-direction shift register using R-S flip-flop. Explain its working. (7)
+
+QS. (b)State Advantage of Programmable logic device (PLD) .Draw and explain block diagram of a PLA device. (7)
+Q6. (a) Convert SR flip flop to D and T flip-flop and draw the circuit. (7)
+Q6. (b) With the help of circuit diagram, explain working of Johnson counter (Twisted ring counter) (7)
+
+Q7. Write short note on
+
+a) Shift register and its Applications (5)
+b) Gray code and gray to binary conversion (5)
+c) 3:8 Decoder (4)
+
+Page 2 of 2
 ````
 
 ## 2016-17 · Final-Exam · Sem 4 · paper cc3e87c7af99
@@ -6191,303 +6819,77 @@ b) Design logic circuit for “d” segment of 7 segment LED display decoder
 to display BCD numbers.
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper f46ab5264403
+## 2016-17 · Re-Exam · Sem 3 · paper 02cc0ad76c91
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN (BATCH 16-17 )RE-EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 02 December 2017
-- Text: ocr (2 pages), mean OCR confidence 88.5
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (COMPUTER), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 02 December 2016
+- Text: ocr (2 pages), mean OCR confidence 87.7
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (COMPUTER) - Year: II - Semester: III “
-Batch: 2016-17 + TC
-Academic Year: 2017-2018 Zep 5? Magaa, Sy.”
-: ss Nay, *
-Subject: Digital Logic Design “ (s : a \
-p ag ¥ ot
-Marks: 70. a oa
-Date: 02 December 2017- Time: 10,00-am to T. ey
-
-Duratioris; 8 (hrs) &
-No. of Pages amas ae
-Re-Examination ; ee
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any fourquestions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql
-
-a) (i)Convert the following binary number into hexadecimal number- 02
-110 0111 0001.0001 0111 1001
-(ii) (761.514)s=(?)2=(?)10
-
-b) Perform 2’s complement subtraction of (7)10-(1 110 02
-
-c) Convert SR Flip Flop to T Flip Flop. 04
-
-d) Simplify using Boolean theorems and draw logic diagram for the following 03
-
-Y=A’BC+AB’C+ABC’+ABC
-e) Convert the following expression into standard POS form 03
-Y=(A+B) (A+C) (B+C’)
-
-Q.2
-
-a) Perform the following:
-(i) Convert (101110110) Gray to binary 02
-(ii) Add(569) io and (687) 0 in BCD 02
-(iii) Minimize the given circuit and write the simplified Boolean expression 03
---- page 2 ---
-b)
-
-Q.3
-a).
-b)
-
-—
-ee
-
-F
-
-7 a _
-
-Simplify the logic function using the QuineMcCluskey method
-
-f(A,B,C.D)=Em(1,3,7,11,15)+d(0,2,5)
-
-Design 4-bit ring counter with timing diagram. ‘
-Simplify using K-map and Draw the circuit diagram using NAND gates
-
-f(A,B,C,D)= Ym(4,5,6,7,8,10,12)+d(2,9,1 1)
-
-Design BCD to Excess-3 code convertor.
-What is Race around condition in J-K flip flop and explain the ways to overcome it.
-
-Design a full adder using 4:1 multiplexer
-Design a sequence generator for 0-2-4-5-0. Check for lock out condition
-
-What is Modulus of the counter? Design MOD -6 Counter
-
-A system has one output F, and four bit binary number. F is to be | if input number is
-prime or if the number is divisible by 3 ;
-i)Determine the truth table
-
-ii) Simplify using Karnaugh Map
-
-iii) Design the circuit.
-
-Write short note on any two
-Universal Shift Register
-
-ALU
-NOR as universal gate
-
-07
-
-07
-07
-
-07
-07
-
-07
-07
-
-07
-07
-
-14
-````
-
-## 2016-17 · Re-Exam · Sem 3 · paper b5a7da1da774
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN (BATCH 16-17) RE-EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 25 November 2017
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (I.T.) Year: II. Semester: III -
-
-Batch: 2016-17. —
-Academic Year: 2017-2018 - = =
-
-ma .
-Subject: Digital Logic Design- ge ‘
-
-Marks: 70 2
-
-Date: 25 November 2017 ~ Time: 10,08 dnvtco P ar ‘x FF)
-Durations: tine) * 2 ff
-| No. of Pal Wa
-’ Re-Examination ee °
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1_is compulsory.
-
-2) Out of remaining questions, attempt any _4 questions.
-
-3) In all _5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-QI. (a) Perform the following 8
-i. Convert(6027)10 into BCD and excess-3 code
-ii. Convert (2C6B.F2)16 into binary
-iii. (23)10 — (48)i0 using 2’s complement method
-iv. (FAC2)16 - (ADS5)i6 without converting
-
-(b) State and prove Distributive property of Boolean algebra. 3
-(c) Convert D flip flop to T flip flop. 3
-
-Q2. (a) Simplify using K-Map, obtain SOP equation and realize using only NAND gates. 7
-F(A,B,C,D) = }'m(0,4,5,6,12,13) + d(7,15)
-
-i (b) Explain 2-bit magnitude comparator with circuit diagram. 7
-Q3. (a) Simplify the following Boolean equation using Quine-Mc-Cluskey Method. 7
-
-F(A,B,C,D) = )m(1,5,6,12,13,14) + d(2,4)
-(b) Explain Decoders and Encoders in brief, also design a Priority Encoder. 7
-
-Page 1 of 2
---- page 2 ---
-Q4. (a) Using Boolean algebra, Prove the following 7
-
-i AB+AB(AQ)=A
-ii ABC+ABC+ABC+ABC=ABtBC+AC
-(b) Design a 4 bit Binary to Gray code convertor and draw its logic diagram. 7
-QS. (a) What is a multiplexer? Implement the following equation using 8:1 Multiplexer. 7
-
-F(A,B,C,D) = ¥m(1,2,3,4,7,8,11,12,15)
-
-(b) Explain the function of Master Slave JK flip flop and its significance. 7
-Q6. (a) Design Mod-8 Ripple counter using JK flip flop. Write truth table and draw timing
-diagram. 7
-(b) With the help of a neat diagram, explain the working of a 4 bit bidirectional shift register.
-7
-Q7. (a) Explain Programmable Logic Array (PLA) with block diagram. 5
-(b) Design a Full adder using 3:8 decoders. 5
-(c) Differentiate between combinational and sequential logic. 4
-
-Page 2 of 2
-````
-
-## 2016-17 · Re-Exam · Sem 4 · paper 42b33bf5631a
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_04/DIGITAL LOGIC AND DESIGN/Digital Logic and Design Batch 2016-2017 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 14 May 2018
-- Text: ocr (2 pages), mean OCR confidence 84.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated (EXTC) « Year: II < Semester: IV
-
-Academic Year: 2017-2018
-
-Subject: Digital Logic and Design “ a7
-Marks: 70 <7 ¢, |
-Date: 14 May 2018 - Time: 10.00 ari
-Durations: 3
-No. of Pages:
-
-Final Examination (2017-18) / Re-examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No, __1__ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
+Programme : B. Tech (COMPUTER) Year : II Semester : III
+Batch : 2015-2016
+Academic Year : 2016-2017 OTE ey
+yl TON
+Subject : Digital Logic Design Marks/ oe, Ns :
+Time -00 am to dO
+Date : 02 December 2016 Duratiag¢ Bilbts)A ny Dé
+Re-Examination Noyes ~) e,
+een aE
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any __ 4 _ questions.
 3) Inall__5___ questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary,
 
-Ql. Answer the following
-a) Perform the following binary arithmetic operation
-i. — (46)10 + (22)t0 [2
-ii, —(18)10 = (6)10 [3
-b) i. Write short notes on ASCII codes (2]
-ii. Convert the following binary number to gray [1.5]
-(1101010111 )binary
-iii, Convert the following gray to binary number [1.5]
-(LLLOLOL01 Lgray »
-c) Discuss the Weighted Resistor DAC. [4]
-Q2. a) Convert the following
-(46AD.F8CB)i¢ into Binary, Octal, and Decimal. [5]
-b) Perform the following arithmetic subtraction by binary 2’s complement
-method [5]
-(368) 10 — (432)10
-c) Perform the following arithmetic subtraction by binary 1’s complement
-method [4]
+Q.1 a. Verify Demorgan's Law. (2M)
+Q.1 b. Perform the following arithmetic operations without converting to any other base (4M)
+1) (125) 8+ (756) 8 =(?) 16
+II) (896)16 - (A35)16=(2)2
 
-(513)i0 — (289) 10
-
-Q3. a) State and Prove De Morgans Theorem. [5]
-
-1/2
+Q.1 c. Calculate the equivalent gray code for the following num .:bers (2M)
+IT) (23)10
+I) (110110001100)2
+Q.1 d. Write an equation and circuit of half-adder using NAND gates. (4M)
+Q.2. a. What is canonical SOP and POS forms? Explain giving an example. (6M)
+Q.2 b. Implement the following using 8:1 MUX. (6M)
+F (P ,Q,R) = 2 (0,2,3,5,7)
+ee
+Q.3 a. What is a shift register? Explain 4-bit bi-directional shift register, (8M)
+od Q.3 b. Simplify Y=( A + A' B) (C+D'). (4M)
 --- page 2 ---
-Q3. b) Prove the following:
+Q.4 a .Design a mod-5 asynchronous up counter using JK flip-flop. (6M)
 
-ee [5]
-i A@P®B=A OB 7
-ii, AB+AC=AB+BC+AC
-~ ~% Q3. c) Describe the working of TTL logic family [4]
-Q4. a) Reduce the following Boolean expression, [4]
-; F= (A+B+C)(C+D+B)(A+C)
-b) Convert the following SOP into a POS Boolean expression. [4]
-' F = ABC + ABC + ABC + ABC
-c) Solve the following Boolean function by K — Map reduction [6]
-F = [[M(2,7,8,9,10,12).d(1, 3, 11,13)
-Q3. a) Implement the following Boolean expression using 8:1 MUX [6]
-F = Ym(0, 2,3, 6,8, 9,12, 14)
-b) Solve the Boolean function by Quine —McClusky method, [8]
-, F = Ym(0,1,3,7,8,9, 11,15)
-Q6. a) Compare Combinational Logic Circuits and Sequential Logic Circuits. [3]
-b) Convert the S —R Flip flop into a J—K Flip flop. [3]
-c) Discuss the problem of Race Around condition, explain different methods [8]
-used in avoiding the condition.
-Q7. a) Design a MOD — 6 asynchronous counter. [6]
-b) Describe the working of 4 — bit Universal Shift Register. [8]
+Q.4 b. Convert SR FF to T FF and JK FF. (6M)
+Q.5 a. Design a 2-bit magnitude comparator. (6M)
+Q.5 b. Draw a 3-bit ring counter and explain the timing diagrams. (6M)
+Q.6 a. Simplify using Quine McCluskey method to solve the following (6M)
 
-7 eo a a 2 a OR oR
+F (A,B,C,D) = & ( 4,5,8,9,11,12,13,15)
+Q.6 b. Given the logical equation solve the following
+F =(A+B'+C) (A+D+C’') (A'+B'+C)
+I. Draw k-map for the same. (2M each )
+Il. Write the reduced SOP equation.
+Il. Implement using NOR gate -
+Q.7 Write short notes on following (any 2) (12M)
+a. ALU
+b. Race around condition
+c. Priority encoder
 
 2/2
 ````
@@ -6936,6 +7338,7 @@ Ls
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/EXTC/Sem_04/DIGITAL LOGIC AND DESIGN/Digital Logic and Design Batch 2015-16 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 16/05/2016
 - Text: ocr (2 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7014,7 +7417,6 @@ R-2R method for Digital to Analog Converter
 
 Explain Packed BCD and Gray Codes
 
-2 of of 26 2 2 of oe ae 2 ae ae oe ak a ae ok ok ok ok
 
 [7M]
 [5M]
@@ -7133,6 +7535,7 @@ YL
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DIGITAL LOGIC DESIGN/Digital Logic Design 2015-16 Final Exam.pdf`
 - Printed on paper: exam date: 28/11/2015
 - Text: ocr (2 pages), mean OCR confidence 85.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -7191,7 +7594,6 @@ F(A,B,C,D)= ¥((0,1,2,5,8,9,10)
 tT) Design full adder using 2- half adder, :
 
 B Realize the following Boolean function using Multilevel NAND circuit (6)
-F (A, B, C, D) =A(B+CD) +BC’
 
 Ve
 --- page 2 ---
@@ -7224,79 +7626,101 @@ Ve
 —
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 02cc0ad76c91
+## 2015-16 · Re-Exam · Sem 3 · paper 80683826941f
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (COMPUTER), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 02 December 2016
-- Text: ocr (2 pages), mean OCR confidence 87.7
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH COMPUTER BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 June 2016
+- Text: ocr (2 pages), mean OCR confidence 90.8
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+_SVKM’s NMIMS
 
-Programme : B. Tech (COMPUTER) Year : II Semester : III
-Batch : 2015-2016
-Academic Year : 2016-2017 OTE ey
-yl TON
-Subject : Digital Logic Design Marks/ oe, Ns :
-Time -00 am to dO
-Date : 02 December 2016 Duratiag¢ Bilbts)A ny Dé
-Re-Examination Noyes ~) e,
-een aE
+{ oO
+Programme: B.Tech (Computer) Year: II \"4 ce .
+, eo 4 awe
+Academic Year: 2015-16 <= ~
+Batch: 2013-14 Marks: 100
+Subject: Digital Logic Design Time: 10.00 am - 1.00 pm
+Date: 13 June 2016 Durations: 3 (hrs)
+
+Re-Examination
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No. _1__ is compulsory.
+i) Question No. i is compuisory.
 
-2) Out of remaining questions, attempt any __ 4 _ questions.
-3) Inall__5___ questions to be attempted.
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
 
-Q.1 a. Verify Demorgan's Law. (2M)
-Q.1 b. Perform the following arithmetic operations without converting to any other base (4M)
-1) (125) 8+ (756) 8 =(?) 16
-II) (896)16 - (A35)16=(2)2
+Q.1 a) State and prove De Morgan’s Laws. (5M)
 
-Q.1 c. Calculate the equivalent gray code for the following num .:bers (2M)
-IT) (23)10
-I) (110110001100)2
-Q.1 d. Write an equation and circuit of half-adder using NAND gates. (4M)
-Q.2. a. What is canonical SOP and POS forms? Explain giving an example. (6M)
-Q.2 b. Implement the following using 8:1 MUX. (6M)
-F (P ,Q,R) = 2 (0,2,3,5,7)
-ee
-Q.3 a. What is a shift register? Explain 4-bit bi-directional shift register, (8M)
-od Q.3 b. Simplify Y=( A + A' B) (C+D'). (4M)
+b) Implement AND, OR and ExOR gate using all NAND gates and all NOR gates (5M)
+
+c) Perform BCD addition 87+96 and 56+97 : (5M)
+d) Subtract using 2’s complement i)(64)10-(31)i0 ii) (84)10-(38)10 (5M)
+Q.2 a) Simplify following Boolean function using K-map (10M)
+
+F(A,B,C,D)= E (1,2,3,6,7,9,10, 11,12, 14)
+Realize using AND/OR gates and also using all NOR gates
+
+b) Design single digit BCD adder. Give one example. (10M)
+Q.3. a) Convert SR flip flop to T flip flop and D flip flop. Draw circuit diagram. (10M)
+b) Using Quine Mc-Cluskey method derive the minimized expression (10M)
+F(A,B,C,D)= = (0,1,2,8,9,15,17,21,24,25,27,31)
+
+Q.4 a) Design 5:32 decoder using 2:4 and 3:8 decoder. Draw the truth table. (10M)
+—" b) Explain 4 bit bidirectional shift register (10M)
+pitas Q.5 a) Reduce the following Boolean expression using Boolean laws: (10M)
+
+i) A’BD’+A’BC’D+AB+A’BCD
+
+ii) XY+XWZ+XxWwz’
+
+b) Design binary code to gray code circuit (10M)
+
+4p
 --- page 2 ---
-Q.4 a .Design a mod-5 asynchronous up counter using JK flip-flop. (6M)
+Q.6
 
-Q.4 b. Convert SR FF to T FF and JK FF. (6M)
-Q.5 a. Design a 2-bit magnitude comparator. (6M)
-Q.5 b. Draw a 3-bit ring counter and explain the timing diagrams. (6M)
-Q.6 a. Simplify using Quine McCluskey method to solve the following (6M)
+Q.7
 
-F (A,B,C,D) = & ( 4,5,8,9,11,12,13,15)
-Q.6 b. Given the logical equation solve the following
-F =(A+B'+C) (A+D+C’') (A'+B'+C)
-I. Draw k-map for the same. (2M each )
-Il. Write the reduced SOP equation.
-Il. Implement using NOR gate -
-Q.7 Write short notes on following (any 2) (12M)
-a. ALU
-b. Race around condition
-c. Priority encoder
+a)
+b)
 
-2/2
+a)
+b)
+c)
+d)
+
+Design following function using 8:1 multiplexer. F=Xm(1,2,4 6,8,11,12,13,15)
+Explain 4 bit Johnson counter
+
+Write short note on following
+
+Explain Race around condition
+
+Write a note on applications of flip flops and registers
+Difference between sequential and combinational circuit
+Write a note on ALU
+
+(10M)
+(10M)
+
+(SM)
+(SM)
+(SM)
+(5M)
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper 2e8b6897e91e
@@ -7408,6 +7832,81 @@ c) | Write a note on applications of flip flops and registers (3)
 ee
 ````
 
+## 2015-16 · Re-Exam · Sem 3 · paper 7a3e322dcc01
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL_LOGIC_DESIGN_B_TECH_(COMPUTER)__BATCH_2014-15_RE_EXAM_.pdf`
+- Printed on paper: exam date: 04/12/2015
+- Text: ocr (2 pages), mean OCR confidence 84.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Computer) Year: II Semester: III
+~Batch: 2014-2015
+
+i Academic Year: 2015-2016
+
+i soonne tn ue
+i Subject: Digital Logic Design
+Marks: (a, \%
+Date: 04/12/2015 Time: 1400 §: Ss:
+Duration: se Mf
+* aaa Zot *
+Mag yunt™?
+Re-Examination =
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate fuil marks.
+Ql Perform the following
+a) | Implement X-OR gate using NAND gate only - : {2
+b) . State & verify any 4 boolean laws. .
+c) Subtract using 2’s complement method (22)19 — (15)19
+d) Compare combinational logic circuit with sequential logic circuit
+e) Simplify YI=ABCD+ABCD+ABCD
+Y2=ABCD+ABCD+ABCD+ABCD
+Q2 a) Implement the following by using one 8:1 multiplexer and by using only one 4:1 multiplexer 6
+Y=ABD+ABC+BCD+ACD
+b) Perform the following 6
+i) (65.23)i0 = »
+ii) (34) - (5 )g without converting it into any base
+iii) (148)10 = ¢ pers)
+iv) G5C)is = ( dg
+v) @5)i0 =   (   )gay
+Q3 a) Simplify the function Y= ¥ (0,1,2,3,5,9,11 ) +d(4,7 ,15) using Quine McCluskey Method 6
+b) Design T. flip-flop using S-R flip-flop 6
+Q4: a) Design 4 bit Binary to Gray code converter and draw its logic diagram. 6
+b) = Write a short note on priority encoder - G
+Q5 a) Simplify the function using K-Map to their minimum SOP and POS form & implement using only 6
+NOR gates. F(A,B,C,D)=11(3,5,6,11,13,14,15)+d(4,9,10)
+— b) Design Mod 6 synchronous counter ~ Cc
+A, @6 a) Design combinational logic circuits for the logic function F/,F2 and F3 as given below using G
+ais 4:16 decoder IC 74514.
+FI=Sim(1,2,3,4,5,7); F2=2m(2,4,7,9, 11); F3=5(10,12,14,15)
+b) Explain serial in serial output (shift left mode) shift register. 6
+Q7 Write a short note (any 4) In
+
+be
+--- page 2 ---
+a) Master slave J-K FF
+
+b) ALU
+
+cy 1 digit BCD adder
+
+4) Comparison between Synchronous and Asynchronous counter
+€) Binary Comparator (2-bit)
+
+f) Decoder
+````
+
 ## 2015-16 · Re-Exam · Sem 3 · paper d68a1f928bad
 
 - Departments: Computer Engineering
@@ -7483,6 +7982,96 @@ c. Universal Gates
 d. Master Slave J-K Flip Flop
 
 Page 2)2
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 9d52c1a751a7
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DIGITAL LOGIC DESIGN/Digital Logic Design Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 28/11/2015
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (IT) . Year:II Semester: III
+Academic Year: 2015 - 16
+
+Batch:2013-14
+
+Subject : Digital Logic Design
+
+Date :28/11/2015
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q: 1 a) Convert the following 3
+(i) Convert (BD.6)16 into decimal.
+(ii) Convert (35) 19 into Hexa-decimal.
+(iii) Convert (1001101.011) 2 into decimal.
+
+(iv) Convert (10111) 2 to Gray Code
+
+b) Explain need of Master Slave JK flip flop. Cc
+c) Explain the associative and distributive property of Boolean algebra €
+Q: 2 a) Design a full adder using half adder. We)
+b) Simplify using K-Map, obtain SOP equation and realize using basic gates. - \o
+F(P,Q,R,S) = [][m (1,2,3,8,9,10,11,14)
+Q: 3 (a) Design a clocked sequential J-K Flip Flop. \o
+\o
+
+(b) Minimize the following Boolean function by using Quine Mc-Cluskey method.
+
+F(A,B,C,D,E) = Ym(0,1,3,7,8,9,11,15)
+
+1/2
+--- page 2 ---
+Q:4 (a) Design MOD -6 Synchronous counter using JK filp flop .
+
+(b) Convert BCD code to Gray code. Show the truth table and implement using gates.
+
+Q: 5 (a) Draw the diagram of a 4 bit bidirectional shift register and explain its operation.
+(b) Design 16:1 Multiplexer using 4:1 MUX with truth table.
+
+Q6: (a) Explain the concept of PAL with the help of a diagram .
+(b) Explain the Priority Encoder with the help of circuit diagram and truth table
+
+Q7 : Write a shot note on
+
+(a) Difference between edge triggering and level triggering?
+
+(b) Explain the excitation table of T Flip flop and JK Flip Flop.
+
+(c) Simplification of the Boolean expression (AB C) +( AB C)
+
+(d)Explain any one application of Counters.
+
+\o
+
+loa
+
+\o
+
+Jo
+
+2¢
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper 88c71876a2b7
@@ -7573,6 +8162,113 @@ b) Draw and explain operation of Sychronous Up/Down counter”
 2) 2.
 ````
 
+## 2014-15 · Exam not stated · Sem 3 · paper e43a09c2c860
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (IT), BATCH 13-14 SEM III R0001.pdf`
+- Printed on paper: exam date: 28/11/2014
+- Text: ocr (2 pages), mean OCR confidence 87.5
+
+````text
+ay
+Pd
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEDSING
+
+Programme: B. Tech (I.T.) Year: Il Semester: HI
+
+Batch: 2013-2014
+Academic Year: 2014-2015
+Subject: Digital Logic Design
+Marks
+Date: 28/11/2014 Time:
+
+Re-Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and on
+the cover of the Answer book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. Inall5 questions to be attempted.
+4. All question carry equal marks.
+5. Answer to each new question to be started on fresh page.
+6. Figures on the right hand side indicate full marks.
+Q.1.A_ Perform the following 10
+i) Convert (96.42)10 into BCD
+ii) Convert [10101101]2 to Gray Code.
+iii) Convert (A3B)16 to decimal.
+iv) Subtract 748 from 983 using 9’s Complement method.
+v) (69)sco + (12)8co
+B State and Prove distributive property of Boolean algebra 5
+Cc Explain min and max terms with example. 5
+Q.2.A Implement the following using NAND gates only 10
+Y=(AB’)+A+(B+C)’
+B Simplify the following Boolean expression using Quine Mc-Cluskey method. 10
+F= 5m (1, 2, 3, 7, 8, 9, 10, 11, 14, 15)
+Q.3.A implementa 16 to 1 multiplexer using two 8 to 1 Multiplexer. 10
+B_ Do the following conversion of flip flops; 10
+(i) JKtoD (ii) SRtoT
+Q.4.A Derive the state table and state diagram for sequential circuit shown in Fig. 10
+given below
+3————
+ce
+——T7) RO} 8B’
+A a
+b>
+r——T 2) $@Q B
+A——_/
+r—— >) / A’
+13) Fe
+
+A
+
+7 Loe
+De
+Yo
+--- page 2 ---
+Q.5.A
+
+Q.6.A
+
+Q7
+
+Design MOD-3 Synchronous counter using JK flip flop.
+Acombinational circuit is defined by the functions:
+F(A, B, C) = 5 (3, 5, 6, 7)
+F(A, B, C) = 5 (0, 2, 4, 7)
+Implement the circuit with a PLA having three inputs, four product terms, and
+two outputs.
+Prove the following
+(i) [(AB’ + ABC)’ + A(B + AB’)}’ =0
+(ii) (A’ + B) (A’C’ + C)(B’ + AC)’ =A’B
+Simplify the following Boolean function into SOP and POS using K-map.
+F(W,,X,Y,Z) = ¥m(0, 1, 2, 4, 5, 6, 8, 9, 12, 13, 14)
+Explain Master-Slave JK flip flop with waveforms.
+Write a short note on ANY FOUR
+a) Shift Register
+b) PAL
+c) Synchronous Vs Asynchronous counter.
+d) Demultiplexer
+e) FPGA
+
+R- a
+
+~/2
+
+10
+10
+
+10
+
+10
+
+10
+20
+````
+
 ## 2014-15 · Final-Exam · Sem 3 · paper 8ce0b30e0b5a
 
 - Departments: Computer Engineering
@@ -7580,6 +8276,7 @@ b) Draw and explain operation of Sychronous Up/Down counter”
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (COMP) FINAL EXAM 14-15.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05/12/2014
 - Text: ocr (2 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7641,7 +8338,6 @@ Q.6.
 Q.7.
 
 b) Implement following expression using 8:1 multiplexer by comparing output with MSB
-f(A, B, C, D) =X m (0,1,3,6,9,11,12,13,15).
 
 a) Design mod 5 synchronous up counter using JK Flip flop and explain its operation.
 b) What is shift register? Explain 4 bit bidirectional shift register. *
@@ -7830,6 +8526,87 @@ f y
 2)Q
 ````
 
+## 2014-15 · Re-Exam · Sem 3 · paper 082080a09183
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (COMP), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: exam date: 12/06/2015
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (COMP) Year: Il - Semester: III
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Digital Logic Design
+
+Marks:
+Date: 12/06/2015 Time: 2 006m to 5! 06 reat
+Durations: 3 es
+= i,
+Re-Examination NG igo ene *
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1 a) Perform following operations
+
+i) Convert (2824.725)10 to decimal 02
+
+ii) Covert (A2DE)j¢ to binary 02
+
+b) Multiply (10101)2 * (101)2 04
+c) (-15)+(-22) using 2’s complement 04
+d) 1. Convert (20.75)10 to octal 02
+2. Convert (24.625);9 to binary 02
+
+e) State associative and distributive laws in boolean algebra 04
+
+Q.2 a) Simplify the logic function f(a,b,c,d)= Xm(0,1,2,5,6,8)+d(3,4,7,14) using K- 10
+map in SOP and POS form
+
+b) Design binary adder using 3:8 decoder , 10
+Q.3 a) Design boolean function f(a,b,c,d)= Xm(1,3,4,11,12,13,14,15) using 8:1 10
+multiplexer
+b) Design Gray code to binary code converter 10
+Q.4 a) Explain one digit BCD adder circuit with neat diagram and example 10
+b) Simplify the function f=Xm(0,1,2,3,5,9,11)+d(4,7,15) using Quine Mclusky 10
+method
+Q.5 a) What is shift register. Explain different types of shift registers 10
+b) Explain asynchronous decade counter using JK flip flop. 10
+Q.6 a) Design 4 bit synchronous up-down counter using JK flip flop 10
+b) Convert SR flip flop to T flip flop and JK flip flop to D flip flop 10
+
+4/2
+--- page 2 ---
+Write a note on ALU
+Compare and contrast combinational circuit and sequential circuit
+
+Show that AND & OR gates can be implemented using universal gates
+Explain race around condition in JK flip flop
+
+05
+05
+05
+05
+````
+
 ## 2014-15 · Re-Exam · Sem 3 · paper 291deb3b9287
 
 - Departments: Computer Engineering
@@ -7924,79 +8701,87 @@ Lt
 (2
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper 7a3e322dcc01
+## 2014-15 · Re-Exam · Sem 3 · paper 0ba71593e067
 
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL_LOGIC_DESIGN_B_TECH_(COMPUTER)__BATCH_2014-15_RE_EXAM_.pdf`
-- Printed on paper: exam date: 04/12/2015
-- Text: ocr (2 pages), mean OCR confidence 84.7
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (IT), BATCH 13-14 RE EXAM0001.pdf`
+- Printed on paper: exam date: 09/06/2015
+- Text: ocr (2 pages), mean OCR confidence 89.7
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Computer) Year: II Semester: III
-~Batch: 2014-2015
+Programme: B. Tech (1.T.) Year: II
+‘ . Ss 2
+Batch: 2013-14 smesten
+Academic Year: 2014-2015
+Subject: Digital Logic Design
+, Marks:
+Date: 09/06/2015 Time:
+Durations:
 
-i Academic Year: 2015-2016
+Re-Examination
 
-i soonne tn ue
-i Subject: Digital Logic Design
-Marks: (a, \%
-Date: 04/12/2015 Time: 1400 §: Ss:
-Duration: se Mf
-* aaa Zot *
-Mag yunt™?
-Re-Examination =
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
 NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate fuil marks.
-Ql Perform the following
-a) | Implement X-OR gate using NAND gate only - : {2
-b) . State & verify any 4 boolean laws. .
-c) Subtract using 2’s complement method (22)19 — (15)19
-d) Compare combinational logic circuit with sequential logic circuit
-e) Simplify YI=ABCD+ABCD+ABCD
-Y2=ABCD+ABCD+ABCD+ABCD
-Q2 a) Implement the following by using one 8:1 multiplexer and by using only one 4:1 multiplexer 6
-Y=ABD+ABC+BCD+ACD
-b) Perform the following 6
-i) (65.23)i0 = »
-ii) (34) - (5 )g without converting it into any base
-iii) (148)10 = ¢ pers)
-iv) G5C)is = ( dg
-v) @5)i0 =   (   )gay
-Q3 a) Simplify the function Y= ¥ (0,1,2,3,5,9,11 ) +d(4,7 ,15) using Quine McCluskey Method 6
-b) Design T. flip-flop using S-R flip-flop 6
-Q4: a) Design 4 bit Binary to Gray code converter and draw its logic diagram. 6
-b) = Write a short note on priority encoder - G
-Q5 a) Simplify the function using K-Map to their minimum SOP and POS form & implement using only 6
-NOR gates. F(A,B,C,D)=11(3,5,6,11,13,14,15)+d(4,9,10)
-— b) Design Mod 6 synchronous counter ~ Cc
-A, @6 a) Design combinational logic circuits for the logic function F/,F2 and F3 as given below using G
-ais 4:16 decoder IC 74514.
-FI=Sim(1,2,3,4,5,7); F2=2m(2,4,7,9, 11); F3=5(10,12,14,15)
-b) Explain serial in serial output (shift left mode) shift register. 6
-Q7 Write a short note (any 4) In
 
-be
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) In all S questions to be attempted.
+
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1. (a) Perform the following 10
+
+(i) Convert (E7A9)16 into decimal.
+(ii) Convert (1728) 10 into Hexa-decimal.
+(iii) Convert (111101000) 2 into decimal.
+
+(iv) Convert (0101) 2 to Gray Code
+
+(b) State and prove De Morgan’s Theorem. , 10
+
+Q2. (a) Simplify the following Boolean function into SOP using K-Map. 10
+
+F(A,B,C,D) = ¥m(0,2,4,5,6,7,8, 10, 13,15) «4 01©)
+
+(b) Realize the following Boolean function using Multilevel NAND circuit. 10
+F(A.B,C,D) = (AB + AFB) AB
+Q3. (a) Simplify the following Boolean equation usirig Quine-Mc-Cluskey Method. 10
+
+t/2-
 --- page 2 ---
-a) Master slave J-K FF
+F(A,B,C,D) = ¥m(0,1,2,3,5,7,8,9,11,14)
+(b) With the help of diagram explain synchronous and Asynchronous counter? 10
+Q4. (a) Using Boolean algebra, Prove the following 10
+i. AB+ABI(A'C')'=A
+ii, A'BCD'+BCD '+BC'D'+BC'D = A+B
+(b) Explain Shift register with the help of one example. 10
+Q5. (a) Convert SR flip flop into D flip flop. fo
+
+(b) What do you mean sequential logic? Difference between Combinational and Sequential 10
+
+logic ?
+Q6. (a) Design Mod-5 Synchronous counter using T flip flop. 10
+(b) Explain the concept of PLA with the help of a block diagram . 10
+Q7. Write Short note on the following [ANY FOUR] 20
+
+a) Full Subtractor
 
 b) ALU
 
-cy 1 digit BCD adder
+c) PAL
 
-4) Comparison between Synchronous and Asynchronous counter
-€) Binary Comparator (2-bit)
+d) Race Round Condition
 
-f) Decoder
+e) Shift Registers
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper dbf1b670931a
@@ -8087,6 +8872,91 @@ x
 iv
 ````
 
+## 2014-15 · Re-Exam · Sem 3 · paper 0ff146965642
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: max marks: 10; exam date: 09/06/2015
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) Year:II Semester:III
+Academic Year: 2014-15
+Batch: 2013-14
+
+Subject : Digital Logic Design . Marks: 10 j :
+
+Date : 09/06/2015 Durations:
+Re-Examination
+
+= aaa *
+
+ad
+aw
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 4 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1. A) Perform the following (10)
+
+i. Convert 1010 binary to gray
+
+ii. Convert (17),o to binary
+
+iii. | Convert (57)s to decimal
+
+iv.   (22)1) —(13)10 using 2s compliment method
+y. Subtract 8-2 BCD
+
+QI. B) Explain Distributive Property of Boolean Algebra (5)
+Q1. C) Explain POS and SOP with example (5)
+Q2. A) Simplify the following function using K-map Design the simplified logical circuit (10)
+
+F=¥(0,3,8,9,13,14,15)
+Q2. B) Realize following function in K Map (10)
+
+Z.=f(A,B,C) = AB G+ AB + ABC + AC
+
+Q3. A) Simplify the following function using Quine-Mc-Cluskey Method +” (10)
+f(A.B.C.D) = So m(4,8, 10.11.12, 15) + d(9, 14).
+
+Q3. B) Explain Encoder, Decoder and Priority Encoder in detail . (10)
+
+Q4. A)Using Boolean algebra, Prove the following (10)
+
+i. AB+AC’=AB+A’C+BC
+ii, ((AB’+ABC)’+A(B+AB’))’=0
+--- page 2 ---
+Q4. B) Explain Serial IN and serial OUT shift register (10)
+
+QS. A) Explain Master-Slave J K Flip-flop : (10)
+Q5. B) Explain Clock and Edge Triggered flipflops (10)
+Q6. A) Compare sequential and combinational circuits (10)
+Q6. B) Explain SR Flip Flop in detail (10)
+Q7. A) Explain Programmable logical Array and devices (10)
+Q7. B) Explain Field programmable gate arrays (10)
+
+~——
+````
+
 ## 2014-15 · Re-Exam · Sem 3 · paper 3669f5fb7bef
 
 - Departments: Information Technology
@@ -8094,6 +8964,7 @@ iv
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN BATCH 2014-2015 RE EXAM.pdf`
 - Printed on paper: exam date: 09/06/2015
 - Text: ocr (2 pages), mean OCR confidence 86.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVEKM’s NMIMS
@@ -8146,7 +9017,6 @@ B. Determine the essential prime implicants of the following function 6
 F (w,x,y,z)= 3m (1,4,6,7,8,9,10,11,15)
 Q.3.A. Implement 16 to1 multiplexer using 8 to 1 multiplexer : iS
 B. Do the following conversion of flip flops; &j
-(i) SR to T (ii) JK to SR :
 
 Q.4.A. Explain universal shift register with diagram 6
 B. ‘Explain one digit BCD adder with diagram 6
@@ -8185,33 +9055,31 @@ e) combinational versus sequential circuit
 {2
 ````
 
-## 2013-14 · Exam not stated · Sem 3 · paper e43a09c2c860
+## 2013-14 · Exam not stated · Sem 3 · paper 4e5b5d30351c
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (IT), BATCH 13-14 SEM III R0001.pdf`
-- Printed on paper: exam date: 28/11/2014
-- Text: ocr (2 pages), mean OCR confidence 87.5
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/11/2013
+- Text: ocr (2 pages), mean OCR confidence 90.3
 
 ````text
-ay
-Pd
+SVKM’s NMIMS a
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEDSING
+Programme:B. Tech (IT) Year: II Semester:IIl
 
-Programme: B. Tech (I.T.) Year: Il Semester: HI
+Academic Year: 2013-2014
 
-Batch: 2013-2014
-Academic Year: 2014-2015
-Subject: Digital Logic Design
-Marks
-Date: 28/11/2014 Time:
+Subject :Digital Logic Design a
+Marks: 100
+Date : 29/11/2013 Time : 10.00 am to 1.00 pm
+Duration:: 3 (hrs)
+Final-Examination
 
-Re-Examination
+——
 
-Instructions: Candidate should read carefully the instructions printed on the question paper and on
+Instructions: Candidate should read carefully the instructions printed on the question paper and on -
 the cover of the Answer book, which is provided for their use.
-
 NB:
 1. Question No. 1 is compulsory.
 2. Out of remaining questions, attempt any 4 questions.
@@ -8219,67 +9087,57 @@ NB:
 4. All question carry equal marks.
 5. Answer to each new question to be started on fresh page.
 6. Figures on the right hand side indicate full marks.
-Q.1.A_ Perform the following 10
-i) Convert (96.42)10 into BCD
-ii) Convert [10101101]2 to Gray Code.
+
+Q.1.A. Perform the following 10
+i) Convert (643)10 into Excess-3 code
+ii) Convert [10110]2 to Gray Code.
 iii) Convert (A3B)16 to decimal.
-iv) Subtract 748 from 983 using 9’s Complement method.
-v) (69)sco + (12)8co
-B State and Prove distributive property of Boolean algebra 5
-Cc Explain min and max terms with example. 5
-Q.2.A Implement the following using NAND gates only 10
-Y=(AB’)+A+(B+C)’
-B Simplify the following Boolean expression using Quine Mc-Cluskey method. 10
-F= 5m (1, 2, 3, 7, 8, 9, 10, 11, 14, 15)
-Q.3.A implementa 16 to 1 multiplexer using two 8 to 1 Multiplexer. 10
-B_ Do the following conversion of flip flops; 10
+iv) (22)10 — (13)10 using 2’s Complement method.
+v) (69)scp + (12)8co
+B. State and Prove DeMorgan’s Theorem. 5
+C. Explain SOP and POS with example. 5
+‘Q.2.A. Realize the following Boolean function using multi level NAND circuit. 10
+Y = A+(B+C’)(D’E+F)
+B. Simplify the following Boolean expression using Quine Mc-Cluskey method. 10
+F=5m (1, 2, 3, 7, 8, 9, 10, 11, 14, 15)
+Q.3.A. Implement the following equation using Multiplexer. 10
+F= ym (0, 1, 3, 4, 8, 9, 15)
+B. Do the following conversion of flip flops; 10
 (i) JKtoD (ii) SRtoT
-Q.4.A Derive the state table and state diagram for sequential circuit shown in Fig. 10
+Q.4.A. Derive the state table and state diagram for sequential circuit shown in Fig. 10
+
 given below
-3————
-ce
-——T7) RO} 8B’
-A a
-b>
-r——T 2) $@Q B
-A——_/
-r—— >) / A’
-13) Fe
+4 ——— a y
+———
 
-A
-
-7 Loe
-De
-Yo
+3} RQ" A’
 --- page 2 ---
-Q.5.A
+Q5.A.
 
-Q.6.A
+Q.6.A.
 
-Q7
+Q7.
 
-Design MOD-3 Synchronous counter using JK flip flop.
+Design MOD-5 Synchronous counter using JK flip flop.
 Acombinational circuit is defined by the functions:
 F(A, B, C) = 5 (3, 5, 6, 7)
 F(A, B, C) = 5 (0, 2, 4, 7)
-Implement the circuit with a PLA having three inputs, four product terms, and
-two outputs.
+Implement the circuit with a PLA having three inputs, four product terms,
+and two outputs.
 Prove the following
-(i) [(AB’ + ABC)’ + A(B + AB’)}’ =0
-(ii) (A’ + B) (A’C’ + C)(B’ + AC)’ =A’B
+(i) [(AB’ + ABC)’ + A(B+ AB’)]’ =0
+(ii) (A’ + B) (A’C’ + C)(B’ + AC)’ = A’B
 Simplify the following Boolean function into SOP and POS using K-map.
-F(W,,X,Y,Z) = ¥m(0, 1, 2, 4, 5, 6, 8, 9, 12, 13, 14)
+F(W,,X,Y,Z) = 5m(0, 1, 2, 4, 5, 6, 8, 9, 12, 13, 14)
 Explain Master-Slave JK flip flop with waveforms.
 Write a short note on ANY FOUR
-a) Shift Register
+a) FPGA
 b) PAL
-c) Synchronous Vs Asynchronous counter.
-d) Demultiplexer
-e) FPGA
+c) Full Subtractor
+d) Shift Register
+e) 3:8 Decoder
 
-R- a
-
-~/2
+alo
 
 10
 10
@@ -8502,184 +9360,6 @@ F) Commutative Law, Associative Law and Distributive Law.
 242
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 082080a09183
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (COMP), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: exam date: 12/06/2015
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (COMP) Year: Il - Semester: III
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Digital Logic Design
-
-Marks:
-Date: 12/06/2015 Time: 2 006m to 5! 06 reat
-Durations: 3 es
-= i,
-Re-Examination NG igo ene *
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1 a) Perform following operations
-
-i) Convert (2824.725)10 to decimal 02
-
-ii) Covert (A2DE)j¢ to binary 02
-
-b) Multiply (10101)2 * (101)2 04
-c) (-15)+(-22) using 2’s complement 04
-d) 1. Convert (20.75)10 to octal 02
-2. Convert (24.625);9 to binary 02
-
-e) State associative and distributive laws in boolean algebra 04
-
-Q.2 a) Simplify the logic function f(a,b,c,d)= Xm(0,1,2,5,6,8)+d(3,4,7,14) using K- 10
-map in SOP and POS form
-
-b) Design binary adder using 3:8 decoder , 10
-Q.3 a) Design boolean function f(a,b,c,d)= Xm(1,3,4,11,12,13,14,15) using 8:1 10
-multiplexer
-b) Design Gray code to binary code converter 10
-Q.4 a) Explain one digit BCD adder circuit with neat diagram and example 10
-b) Simplify the function f=Xm(0,1,2,3,5,9,11)+d(4,7,15) using Quine Mclusky 10
-method
-Q.5 a) What is shift register. Explain different types of shift registers 10
-b) Explain asynchronous decade counter using JK flip flop. 10
-Q.6 a) Design 4 bit synchronous up-down counter using JK flip flop 10
-b) Convert SR flip flop to T flip flop and JK flip flop to D flip flop 10
-
-4/2
---- page 2 ---
-Write a note on ALU
-Compare and contrast combinational circuit and sequential circuit
-
-Show that AND & OR gates can be implemented using universal gates
-Explain race around condition in JK flip flop
-
-05
-05
-05
-05
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 80683826941f
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH COMPUTER BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 June 2016
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-_SVKM’s NMIMS
-
-{ oO
-Programme: B.Tech (Computer) Year: II \"4 ce .
-, eo 4 awe
-Academic Year: 2015-16 <= ~
-Batch: 2013-14 Marks: 100
-Subject: Digital Logic Design Time: 10.00 am - 1.00 pm
-Date: 13 June 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-i) Question No. i is compuisory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1 a) State and prove De Morgan’s Laws. (5M)
-
-b) Implement AND, OR and ExOR gate using all NAND gates and all NOR gates (5M)
-
-c) Perform BCD addition 87+96 and 56+97 : (5M)
-d) Subtract using 2’s complement i)(64)10-(31)i0 ii) (84)10-(38)10 (5M)
-Q.2 a) Simplify following Boolean function using K-map (10M)
-
-F(A,B,C,D)= E (1,2,3,6,7,9,10, 11,12, 14)
-Realize using AND/OR gates and also using all NOR gates
-
-b) Design single digit BCD adder. Give one example. (10M)
-Q.3. a) Convert SR flip flop to T flip flop and D flip flop. Draw circuit diagram. (10M)
-b) Using Quine Mc-Cluskey method derive the minimized expression (10M)
-F(A,B,C,D)= = (0,1,2,8,9,15,17,21,24,25,27,31)
-
-Q.4 a) Design 5:32 decoder using 2:4 and 3:8 decoder. Draw the truth table. (10M)
-—" b) Explain 4 bit bidirectional shift register (10M)
-pitas Q.5 a) Reduce the following Boolean expression using Boolean laws: (10M)
-
-i) A’BD’+A’BC’D+AB+A’BCD
-
-ii) XY+XWZ+XxWwz’
-
-b) Design binary code to gray code circuit (10M)
-
-4p
---- page 2 ---
-Q.6
-
-Q.7
-
-a)
-b)
-
-a)
-b)
-c)
-d)
-
-Design following function using 8:1 multiplexer. F=Xm(1,2,4 6,8,11,12,13,15)
-Explain 4 bit Johnson counter
-
-Write short note on following
-
-Explain Race around condition
-
-Write a note on applications of flip flops and registers
-Difference between sequential and combinational circuit
-Write a note on ALU
-
-(10M)
-(10M)
-
-(SM)
-(SM)
-(SM)
-(5M)
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper 706c0a462e42
 
 - Departments: Computer Engineering
@@ -8763,89 +9443,6 @@ E) Flip flop timing specification
 f %
 
 af 2
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 0ba71593e067
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (IT), BATCH 13-14 RE EXAM0001.pdf`
-- Printed on paper: exam date: 09/06/2015
-- Text: ocr (2 pages), mean OCR confidence 89.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (1.T.) Year: II
-‘ . Ss 2
-Batch: 2013-14 smesten
-Academic Year: 2014-2015
-Subject: Digital Logic Design
-, Marks:
-Date: 09/06/2015 Time:
-Durations:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-3) In all S questions to be attempted.
-
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1. (a) Perform the following 10
-
-(i) Convert (E7A9)16 into decimal.
-(ii) Convert (1728) 10 into Hexa-decimal.
-(iii) Convert (111101000) 2 into decimal.
-
-(iv) Convert (0101) 2 to Gray Code
-
-(b) State and prove De Morgan’s Theorem. , 10
-
-Q2. (a) Simplify the following Boolean function into SOP using K-Map. 10
-
-F(A,B,C,D) = ¥m(0,2,4,5,6,7,8, 10, 13,15) «4 01©)
-
-(b) Realize the following Boolean function using Multilevel NAND circuit. 10
-F(A.B,C,D) = (AB + AFB) AB
-Q3. (a) Simplify the following Boolean equation usirig Quine-Mc-Cluskey Method. 10
-
-t/2-
---- page 2 ---
-F(A,B,C,D) = ¥m(0,1,2,3,5,7,8,9,11,14)
-(b) With the help of diagram explain synchronous and Asynchronous counter? 10
-Q4. (a) Using Boolean algebra, Prove the following 10
-i. AB+ABI(A'C')'=A
-ii, A'BCD'+BCD '+BC'D'+BC'D = A+B
-(b) Explain Shift register with the help of one example. 10
-Q5. (a) Convert SR flip flop into D flip flop. fo
-
-(b) What do you mean sequential logic? Difference between Combinational and Sequential 10
-
-logic ?
-Q6. (a) Design Mod-5 Synchronous counter using T flip flop. 10
-(b) Explain the concept of PLA with the help of a block diagram . 10
-Q7. Write Short note on the following [ANY FOUR] 20
-
-a) Full Subtractor
-
-b) ALU
-
-c) PAL
-
-d) Race Round Condition
-
-e) Shift Registers
 ````
 
 ## 2013-14 · Re-Exam · Sem 3 · paper 7e75cdf4f630
@@ -9069,179 +9666,226 @@ ko
 Yo
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 0ff146965642
+## 2012-13 · Exam not stated · Trim 4 · paper 720af4196854
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: max marks: 10; exam date: 09/06/2015
-- Text: ocr (2 pages), mean OCR confidence 89.2
+- Departments: Computer Engineering, Information Technology
+- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/DIGITAL LOGIC DESIGN/scan0014(6).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; exam date: 29/10/2012
+- Text: ocr (2 pages), mean OCR confidence 91.8
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (IT) Year:II Semester:III
-Academic Year: 2014-15
-Batch: 2013-14
+Mukesh Patel School Of Technology Management & Engineeri
 
-Subject : Digital Logic Design . Marks: 10 j :
+Programme: MBA(Tech)-(L.T./COMP.) Year: Il Trimester: IV
+Academic Year : 2012-2013
 
-Date : 09/06/2015 Durations:
-Re-Examination
+Subject: DIGITAL LOGIC DESIGN Marks: 100
+Time: 2.00pm T
+Date: 29/10/2012 Duration: 3
 
-= aaa *
+Final - Examination
 
-ad
-aw
+Instructions: 1.Question no. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4.All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6.Figures in brackets on right hand side indicate full marks.
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Q1.Answer any five (4 marks each)
 
-NB:
+1.Convert BCD no. as (1001 1000) into Hexa and Octal system?
 
-1) Question No. | is compulsory.
+2.What do you mean by SOP & POS explain with suitable example?
 
-2) Out of remaining questions, attempt any 4 questions.
+3.State difference between Sequential Logical Circuit and Combinational Logical circuit?
 
-3) In all 4 questions to be attempted.
+4.Which are the universal gate and why, draw Ex-OR using one of such Universal gate?
 
-4) All questions carry equal marks.
+5.What is specific about Gray code? Convert (14)10 and (22)10 into Gray code?
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
+6.What is 2’s compliment of any number, explain with example? Perform subtraction for a)-57-(-33)
+By 2’s compliment method?
 
-Q1. A) Perform the following (10)
+7.Explain how D-flip-flop can be use as 1 bit memory storage?
 
-i. Convert 1010 binary to gray
+Q2.1)How DeMorgan’s Theorems can be use for converting sum into product and vice versa, explain with suitable
+} example?(5) — —
 
-ii. Convert (17),o to binary
+2)Simplify :1) Y=A+AB+A B C+A BCD 2)ABC+AB+BC _ (5)
+3)Find Minimal POS for f(w,x,y,z)=>(1,3,4,5,9,10,11) +d(6,8) using Quine-McCluskey Method?(10)
 
-iii. | Convert (57)s to decimal
+Q3)1 )Explain Half adder and full adder with truth table? Draw and explain 4-Bit Parallel Adder/subtractor?({id} -
+2)Draw Logic gate diagram of 8 to 1 multiplexer ?(5)
+3) What is PLA? Implement following function using PLA(5)
 
-iv.   (22)1) —(13)10 using 2s compliment method
-y. Subtract 8-2 BCD
+F1(X,Y,Z) = ¥m(2,5,7)
 
-QI. B) Explain Distributive Property of Boolean Algebra (5)
-Q1. C) Explain POS and SOP with example (5)
-Q2. A) Simplify the following function using K-map Design the simplified logical circuit (10)
+F2(X,Y,Z) = ¥m(0,1,2,3,4,5)
 
-F=¥(0,3,8,9,13,14,15)
-Q2. B) Realize following function in K Map (10)
-
-Z.=f(A,B,C) = AB G+ AB + ABC + AC
-
-Q3. A) Simplify the following function using Quine-Mc-Cluskey Method +” (10)
-f(A.B.C.D) = So m(4,8, 10.11.12, 15) + d(9, 14).
-
-Q3. B) Explain Encoder, Decoder and Priority Encoder in detail . (10)
-
-Q4. A)Using Boolean algebra, Prove the following (10)
-
-i. AB+AC’=AB+A’C+BC
-ii, ((AB’+ABC)’+A(B+AB’))’=0
+W|
 --- page 2 ---
-Q4. B) Explain Serial IN and serial OUT shift register (10)
+Q4)1)Explain process of BCD to Binary converter? Draw and explain operation of BCD to Binary converter using 4bit
+parallel adders?(12)
+Or
+1)Explain Race around condition in J-K Flip flop and how it is overcome in Master-slave J-K flip flop? (12)
+2)Using the K-Map method, simplify the following function and obtain minimum SOP:(8)
+Y=¥:(0,2,3,6,7,8,10,11,12,15)
 
-QS. A) Explain Master-Slave J K Flip-flop : (10)
-Q5. B) Explain Clock and Edge Triggered flipflops (10)
-Q6. A) Compare sequential and combinational circuits (10)
-Q6. B) Explain SR Flip Flop in detail (10)
-Q7. A) Explain Programmable logical Array and devices (10)
-Q7. B) Explain Field programmable gate arrays (10)
+Q5. Write notes on (Any four, 5 mark each)
+1)BCD TO SEVEN segment Decoder
+2)Shift Registers (serial in serial out)
+3)PAL
+4)2 Bits Magnitude comparator
+5) J-K FLIPFLOP
 
-~——
+Q6 1) Implement F(A,B,C,D)=3(1,2,5,6,7,8,10,12,13,15) using appropriate MUX?(6)
+2)Design Mod-8 synchronous counter?(10)
+
+3)Draw 0-9 BCD Key board Encoder logic ? (4)
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 9d52c1a751a7
+## 2012-13 · Exam not stated · Trim 4 · paper c1282fc08664
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/DIGITAL LOGIC DESIGN/Digital Logic Design Batch 2013-14 Re Exam.pdf`
-- Printed on paper: exam date: 28/11/2015
-- Text: ocr (2 pages), mean OCR confidence 92.1
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/DIGITAL LOGIC DESIGN/scan0009(8).pdf`
+- Printed on paper: exam date: 27/10/2012
+- Text: ocr (2 pages), mean OCR confidence 84.9
 
 ````text
-SVKM’s NMIMS .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Subject: Digital Logic Design Marks:
+Time:
+Date: 27/10/2012 ; Duration:
 
-Programme:MBA Tech (IT) . Year:II Semester: III
-Academic Year: 2015 - 16
+SVKM’s NMIMS
 
-Batch:2013-14
+Mukesh Patel School Of Technology Management & Engineeri x
 
-Subject : Digital Logic Design
+Program MBA (Tech) - EXTC Year: Il Trimester:
+Academic Year : 2012-2013
 
-Date :28/11/2015
-Re-Examination
+NON
+Final - Examination ee
+; : %y Mi
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the ae
+paper and on the cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No. lis compulsory.
+i. Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2. Out of remaining questions attempt any 4 a
 
-3) In all 5 questions to be attempted.
+3s In all 5 questions to be attempted.
 
-4) All questions carry equal marks.
+4. ‘All question carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
+a Answer to each new question to be started on a fresh page.
 
-Q: 1 a) Convert the following 3
-(i) Convert (BD.6)16 into decimal.
-(ii) Convert (35) 19 into Hexa-decimal.
-(iii) Convert (1001101.011) 2 into decimal.
+6. Figure in brackets indicates full marks.
 
-(iv) Convert (10111) 2 to Gray Code
+Ql . [20]
+a) Convert the following: ;
+(i) (45.175)i9 to its binary equivalent
+(ii) 101010001 Binary number to Gray number.
+(iii) 84(ecp) + 52(Bep)
+Gv) Subtract 3019 from 209 using 2’s complement
 
-b) Explain need of Master Slave JK flip flop. Cc
-c) Explain the associative and distributive property of Boolean algebra €
-Q: 2 a) Design a full adder using half adder. We)
-b) Simplify using K-Map, obtain SOP equation and realize using basic gates. - \o
-F(P,Q,R,S) = [][m (1,2,3,8,9,10,11,14)
-Q: 3 (a) Design a clocked sequential J-K Flip Flop. \o
-\o
+[4]
+‘b) Perform the following : ;
+} i) Give the range of 8-bit Sign Magnitude Binary Numbers and unsigned
+8 bit binary numbers.
+ii) Multiply 10010 by 1011 [4]
+c) Given that Y=(A+BC)(B+C’A), Realize this function in Standard POS and SOP
+form. For the SOP form design using gates. . [4]
+d) Ifa counter having 10 FFs is initially at 0, what count will it hold after 2060
+Lo pulses.
+@ } What are Encoders? Give the Truth Table and Logic circuit diagram for an Octal
+to binary Encoder. 3
+. [4]
+Q2
 
-(b) Minimize the following Boolean function by using Quine Mc-Cluskey method.
+a) Simplify the function £=(A,B,C,D) = £.(0,1,2,3,5,7,8,9,11,14) using
 
-F(A,B,C,D,E) = Ym(0,1,3,7,8,9,11,15)
-
-1/2
+Ip.
 --- page 2 ---
-Q:4 (a) Design MOD -6 Synchronous counter using JK filp flop .
+b)
 
-(b) Convert BCD code to Gray code. Show the truth table and implement using gates.
+Q3
+a)
 
-Q: 5 (a) Draw the diagram of a 4 bit bidirectional shift register and explain its operation.
-(b) Design 16:1 Multiplexer using 4:1 MUX with truth table.
+b)
 
-Q6: (a) Explain the concept of PAL with the help of a diagram .
-(b) Explain the Priority Encoder with the help of circuit diagram and truth table
+Q4
+a)
 
-Q7 : Write a shot note on
+b)
 
-(a) Difference between edge triggering and level triggering?
+Q5
+a)
 
-(b) Explain the excitation table of T Flip flop and JK Flip Flop.
+b)
 
-(c) Simplification of the Boolean expression (AB C) +( AB C)
+b)
 
-(d)Explain any one application of Counters.
+Q.7
 
-\o
+a)
+b)
+2)
 
-loa
+Quine- Mc Cluskey method and draw simplified logical diagram. [10]
 
-\o
+Design a BCD to EX-3 Code Converter [10]
 
-Jo
+Design a D flip flop using S-R flip flop. Draw the wave form of the D FF [10]
+What is PLA? Implement following function using PLA [10]
 
-2¢
+A(X,Y,Z) = m(0,1,4,6) B(XY,Z) = m(2,3,5)
+
+Design a MOD 12 Synchronous Counter using J K flip flop. [10]
+Convert an S-R Flip Flop to J-K Flip Flop [10]
+Implement the function using a8: multiplexer [10]
+
+F(A,B,C,D) = © (1,3,5,8,9,10,14,15).Compare it with a 16 :1 MUX and discuss.
+Simplify the function and draw the simplified logic circuit,
+— F-ActABC +2BC.
+AH =AC+ ABC +ABC
+
+Show that
+
+A+BC+CD+A+BC+CD=0 [5]
+
+Construct a Mealy state diagram that will detect a serial input sequence of °
+10110.The detection of the required bit pattern can occur in a longer data string
+and the correct pattern can overlap with another pattern. When an input is
+detected,it will cause the output to be asserted high.
+
+[10]
+
+J
+
+Pésign a combinational Logic circuit that accepts a 3-bit number and generates
+
+an output binary number equal to the square of the input number. [10]
+Attempt any two (2) of the following {20]
+
+Error detection and correcting codes.
+FPGA
+Comparer Level triggered and Edge triggered flip-flop
+
+i
+
+— an A ——
+
+j~
+
+Dy
 ````
 
 ## 2012-13 · Re-Exam · Trim 4 · paper 1a94df0067d3
@@ -9584,651 +10228,4 @@ iv) subtract 3 from 18 using BCD subtraction 01
 c) _| Design Parity generator circuit. 05
 
 if
-````
-
-## Year not stated · Exam not stated · Sem 3 · paper 4e5b5d30351c
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/11/2013
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS a
-
-Programme:B. Tech (IT) Year: II Semester:IIl
-
-Academic Year: 2013-2014
-
-Subject :Digital Logic Design a
-Marks: 100
-Date : 29/11/2013 Time : 10.00 am to 1.00 pm
-Duration:: 3 (hrs)
-Final-Examination
-
-——
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and on -
-the cover of the Answer book, which is provided for their use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. Inall5 questions to be attempted.
-4. All question carry equal marks.
-5. Answer to each new question to be started on fresh page.
-6. Figures on the right hand side indicate full marks.
-
-Q.1.A. Perform the following 10
-i) Convert (643)10 into Excess-3 code
-ii) Convert [10110]2 to Gray Code.
-iii) Convert (A3B)16 to decimal.
-iv) (22)10 — (13)10 using 2’s Complement method.
-v) (69)scp + (12)8co
-B. State and Prove DeMorgan’s Theorem. 5
-C. Explain SOP and POS with example. 5
-‘Q.2.A. Realize the following Boolean function using multi level NAND circuit. 10
-Y = A+(B+C’)(D’E+F)
-B. Simplify the following Boolean expression using Quine Mc-Cluskey method. 10
-F=5m (1, 2, 3, 7, 8, 9, 10, 11, 14, 15)
-Q.3.A. Implement the following equation using Multiplexer. 10
-F= ym (0, 1, 3, 4, 8, 9, 15)
-B. Do the following conversion of flip flops; 10
-(i) JKtoD (ii) SRtoT
-Q.4.A. Derive the state table and state diagram for sequential circuit shown in Fig. 10
-
-given below
-4 ——— a y
-———
-
-3} RQ" A’
---- page 2 ---
-Q5.A.
-
-Q.6.A.
-
-Q7.
-
-Design MOD-5 Synchronous counter using JK flip flop.
-Acombinational circuit is defined by the functions:
-F(A, B, C) = 5 (3, 5, 6, 7)
-F(A, B, C) = 5 (0, 2, 4, 7)
-Implement the circuit with a PLA having three inputs, four product terms,
-and two outputs.
-Prove the following
-(i) [(AB’ + ABC)’ + A(B+ AB’)]’ =0
-(ii) (A’ + B) (A’C’ + C)(B’ + AC)’ = A’B
-Simplify the following Boolean function into SOP and POS using K-map.
-F(W,,X,Y,Z) = 5m(0, 1, 2, 4, 5, 6, 8, 9, 12, 13, 14)
-Explain Master-Slave JK flip flop with waveforms.
-Write a short note on ANY FOUR
-a) FPGA
-b) PAL
-c) Full Subtractor
-d) Shift Register
-e) 3:8 Decoder
-
-alo
-
-10
-10
-
-10
-
-10
-
-10
-20
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 720af4196854
-
-- Departments: Computer Engineering, Information Technology
-- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/DIGITAL LOGIC DESIGN/scan0014(6).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; exam date: 29/10/2012
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineeri
-
-Programme: MBA(Tech)-(L.T./COMP.) Year: Il Trimester: IV
-Academic Year : 2012-2013
-
-Subject: DIGITAL LOGIC DESIGN Marks: 100
-Time: 2.00pm T
-Date: 29/10/2012 Duration: 3
-
-Final - Examination
-
-Instructions: 1.Question no. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4.All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6.Figures in brackets on right hand side indicate full marks.
-
-Q1.Answer any five (4 marks each)
-
-1.Convert BCD no. as (1001 1000) into Hexa and Octal system?
-
-2.What do you mean by SOP & POS explain with suitable example?
-
-3.State difference between Sequential Logical Circuit and Combinational Logical circuit?
-
-4.Which are the universal gate and why, draw Ex-OR using one of such Universal gate?
-
-5.What is specific about Gray code? Convert (14)10 and (22)10 into Gray code?
-
-6.What is 2’s compliment of any number, explain with example? Perform subtraction for a)-57-(-33)
-By 2’s compliment method?
-
-7.Explain how D-flip-flop can be use as 1 bit memory storage?
-
-Q2.1)How DeMorgan’s Theorems can be use for converting sum into product and vice versa, explain with suitable
-} example?(5) — —
-
-2)Simplify :1) Y=A+AB+A B C+A BCD 2)ABC+AB+BC _ (5)
-3)Find Minimal POS for f(w,x,y,z)=>(1,3,4,5,9,10,11) +d(6,8) using Quine-McCluskey Method?(10)
-
-Q3)1 )Explain Half adder and full adder with truth table? Draw and explain 4-Bit Parallel Adder/subtractor?({id} -
-2)Draw Logic gate diagram of 8 to 1 multiplexer ?(5)
-3) What is PLA? Implement following function using PLA(5)
-
-F1(X,Y,Z) = ¥m(2,5,7)
-
-F2(X,Y,Z) = ¥m(0,1,2,3,4,5)
-
-W|
---- page 2 ---
-Q4)1)Explain process of BCD to Binary converter? Draw and explain operation of BCD to Binary converter using 4bit
-parallel adders?(12)
-Or
-1)Explain Race around condition in J-K Flip flop and how it is overcome in Master-slave J-K flip flop? (12)
-2)Using the K-Map method, simplify the following function and obtain minimum SOP:(8)
-Y=¥:(0,2,3,6,7,8,10,11,12,15)
-
-Q5. Write notes on (Any four, 5 mark each)
-1)BCD TO SEVEN segment Decoder
-2)Shift Registers (serial in serial out)
-3)PAL
-4)2 Bits Magnitude comparator
-5) J-K FLIPFLOP
-
-Q6 1) Implement F(A,B,C,D)=3(1,2,5,6,7,8,10,12,13,15) using appropriate MUX?(6)
-2)Design Mod-8 synchronous counter?(10)
-
-3)Draw 0-9 BCD Key board Encoder logic ? (4)
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper c1282fc08664
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/DIGITAL LOGIC DESIGN/scan0009(8).pdf`
-- Printed on paper: exam date: 27/10/2012
-- Text: ocr (2 pages), mean OCR confidence 84.9
-
-````text
-Subject: Digital Logic Design Marks:
-Time:
-Date: 27/10/2012 ; Duration:
-
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineeri x
-
-Program MBA (Tech) - EXTC Year: Il Trimester:
-Academic Year : 2012-2013
-
-NON
-Final - Examination ee
-; : %y Mi
-
-Instructions: Candidates should read carefully the instructions printed on the ae
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-i. Question No. 1 is compulsory.
-
-2. Out of remaining questions attempt any 4 a
-
-3s In all 5 questions to be attempted.
-
-4. ‘All question carry equal marks.
-
-a Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicates full marks.
-
-Ql . [20]
-a) Convert the following: ;
-(i) (45.175)i9 to its binary equivalent
-(ii) 101010001 Binary number to Gray number.
-(iii) 84(ecp) + 52(Bep)
-Gv) Subtract 3019 from 209 using 2’s complement
-
-[4]
-‘b) Perform the following : ;
-} i) Give the range of 8-bit Sign Magnitude Binary Numbers and unsigned
-8 bit binary numbers.
-ii) Multiply 10010 by 1011 [4]
-c) Given that Y=(A+BC)(B+C’A), Realize this function in Standard POS and SOP
-form. For the SOP form design using gates. . [4]
-d) Ifa counter having 10 FFs is initially at 0, what count will it hold after 2060
-Lo pulses.
-@ } What are Encoders? Give the Truth Table and Logic circuit diagram for an Octal
-to binary Encoder. 3
-. [4]
-Q2
-
-a) Simplify the function £=(A,B,C,D) = £.(0,1,2,3,5,7,8,9,11,14) using
-
-Ip.
---- page 2 ---
-b)
-
-Q3
-a)
-
-b)
-
-Q4
-a)
-
-b)
-
-Q5
-a)
-
-b)
-
-b)
-
-Q.7
-
-a)
-b)
-2)
-
-Quine- Mc Cluskey method and draw simplified logical diagram. [10]
-
-Design a BCD to EX-3 Code Converter [10]
-
-Design a D flip flop using S-R flip flop. Draw the wave form of the D FF [10]
-What is PLA? Implement following function using PLA [10]
-
-A(X,Y,Z) = m(0,1,4,6) B(XY,Z) = m(2,3,5)
-
-Design a MOD 12 Synchronous Counter using J K flip flop. [10]
-Convert an S-R Flip Flop to J-K Flip Flop [10]
-Implement the function using a8: multiplexer [10]
-
-F(A,B,C,D) = © (1,3,5,8,9,10,14,15).Compare it with a 16 :1 MUX and discuss.
-Simplify the function and draw the simplified logic circuit,
-— F-ActABC +2BC.
-AH =AC+ ABC +ABC
-
-Show that
-
-A+BC+CD+A+BC+CD=0 [5]
-
-Construct a Mealy state diagram that will detect a serial input sequence of °
-10110.The detection of the required bit pattern can occur in a longer data string
-and the correct pattern can overlap with another pattern. When an input is
-detected,it will cause the output to be asserted high.
-
-[10]
-
-J
-
-Pésign a combinational Logic circuit that accepts a 3-bit number and generates
-
-an output binary number equal to the square of the input number. [10]
-Attempt any two (2) of the following {20]
-
-Error detection and correcting codes.
-FPGA
-Comparer Level triggered and Edge triggered flip-flop
-
-i
-
-— an A ——
-
-j~
-
-Dy
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper d5bc239efe02
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN (COMPUTER), FINAL EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 02 December 2017
-- Text: ocr (2 pages), mean OCR confidence 87.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) Year: II - Semester: III _
-ai
-Academic Year: 2017-2018 a
-Li Oe . My, -
-Subject: Digital Logic Design ~ I eo” Ae
-Marks: 70 ~ 9 ™ ie Ya
-Date: 02 December 2017 Time: 10.00 am ta.1.00 pm *> RY JS
-al : \ oS
-Durations: 3 (h Crane
-No. of Pages:
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume uitable data if necessary.
-
-Q.1 Solve 14
-a) (4)
-I.   (10.625)10to ( )2
-I Add (23) and (67)s.
-Ill. Convert (247.36)s to HEX number.
-IV. Subtract 48 from 23 using 2’s complement method.
-b) Convert a SR Flip Flop to a D Flip Flop. (4)
-¢) If f=(A+B) (A’C + D) then, Prove that f+ f‘=1. (4)
-4) Implement the function F=5m(1,3,7,11,15) +d( 0,2,5) using K- Map. (2)
-Q.2 a) Explain how Race around condition is avoided in JK Flip Flop using Timing Diagrams. (7)
-b) Design a Binary to Gray Code Converter. (7)
-Q.3. a) Implement a 16:1 MUX using 4:1 MUX. (7)
-(7)
-
-b ) Implement NOT, AND, OR, gates using Universal gates .
-
-the
---- page 2 ---
-CN
-
-Q.4 a) Using Quine Mc Clusky method simplify the following logic function (7)
-F = ¥ m(0,1,3,7,8,9,11,15) and give the Essential Prime implicants.
-b) Design an Asynchronous MOD-10 UP Counter. (7)
-Q.5 a) The input to Combinational Logic Circuit is a 4 bit Binary number. Design a logic circuit (7)
-having two outputs Y1 and Y2 for the following conditions: 1) Y1=1,if input Binary number is
-
-5 or less than 5. 2) Y2 = 0, if input Binary number is 9 or more than 9.
-
-b) Design a two Bit Comparator. (7)
-Q.6 a) Design a 3-bit Synchronous Counter using T Flip Flop. (7)
-b) Illustrate the various Registers and explain Bi-Directional Shift Register in detail. (7)
-Q.7_ Write hort Notes on any two (2) of the following: (14)
-
-a. 3:8 Decoder
-
-b. Clocked S-R Flip Flop using NAND.
-
-c. Octal to Binary Encoder
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 07eef03b8755
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (COMPUTER), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 02 December 2016
-- Text: ocr (2 pages), mean OCR confidence 86.4
-
-````text
-SVKM’s NMIMS :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) : Year: I Semester: II
-
-Academic Year: 2016-2017
-
-: 78 é i
-Subject : Digital Logic Design Seas sy S.
-
-—~\
-
-Marks: 70
-Date : 02 December 2016 Time. 10.0
-
-Final-Examination .
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-QI. Perform the following
-
-a} Convert. (1473)yo, to.octal , binary and Bexadectmal 4)
-b) Subtract using 1’s and 2’s complement . (4)
-(64)10- 31) 10 .
-c) Write different techniques of triggering. . (3)
-d) Difference between synchronous and asynchronous counter. (3)
-Q2. a) Simplify using Quine McCluskey method (8)
-a F(A,B,C,D)= ©; m ( 1,2,6,8,10,11,15) + d(6,9)
-b) Explain different modes of operations in shift register. (6)
-_ Q3..a) Design BCD adder using 4 bit Binary Adder. (6)
-
-b) Design two bit digital comparator using minimum number of gates. (8)
---- page 2 ---
-Q4. a) Design a combinational circuit with A, B and C as three inputs and F1, F2 and F3 as
-three outputs. If binary input is 0,1,2 or 3 the binary output is greater than input. [f binary
-
-input is 4,5 ,6or 7 the binary output is two less than input, ~ (9)
-_ b) Implement following function using only 8:1 Mux and Few gates. (5)
-Fyn (0,3,5,7,9,13,15) _
-QS. a) Write'truth table of JK flip flop and explain Race around condition. ; (7)
-b) Design Full subtractor. , (7)
-Q6. a) Design synchronous counter for following sequence wit T flipflop ’ (12)
-0-3-5-9-12-7-2-0
-b) What is lockout condition. (2)
-
-or.
-Q7. a) Compare combinational and sequential circuits and write applications Flip Flops. (8)
-
-b) Write short note on (6)
-i) Weighted and Non Weighted codes
-
-ii) Priority encoder
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper db3f4e1483aa
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGIAL LOGIC DESIGN (IT), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 November 2017
-- Text: ocr (2 pages), mean OCR confidence 90.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) ~ Year: Il ~ Semester: III ~
-
-i Academic Year: 2017-2018
-
-Subject: Digital Logic Design staid of & ;
-“ Marks: 70 ~ c o = x .
-Date: 25 November 2017 ~ Time: 10.00 am #.90 PPemn VS"
-Durations: 3 (Hr, LIBRARY
-No. of Pages: -
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary
-
-QI. (a) Perform the following 8
-i. Convert (2AB)i6 into decimal.
-ii. Convert binary 1011 to gray code
-tii. (64)19 — (31)10 using 2’s complement method
-iv. (9BDE)i6 + (ABCD)j6 without converting
-
-(b) State and prove De-Morgan’s Theorems. 3
-(c) Differentiate between combinational and sequential circuit. 3
-Q2. (a) Using Boolean algebra, Prove the following 6
-
-i AB+AB(AC)=A
-iii ABC+ABC+ABC+ABC=AB+BC+AC
-(b) Simplify the following Boolean equation using Quine-Mc-Cluskey Method and verify with
-
-geal K-Map. F(A,B,C,D) = ¥'m(1,4,6,7,8,9,10,11,15) 8
-
-Page 1 of 2
---- page 2 ---
-Q3. (a) Simplify using K-Map, obtain SOP equation and realize using only NAND gates. 7
-F(A,B,C,D) = ¥5m(0,4,5,6, 12,13) + d(7,15)
-(b) Design a 4 bit Binary to Gray code convertor and draw its logic diagram. 7
-
-Q4. (a) Describe the working of JK flip flop. What is race around condition and how to eliminate it.
-7
-
-(b) Design 2-bit Magnitude comparator. 7
-QS. (a) What is a multiplexer? Implement the following equation using 8:1 Multiplexer. 7
-
-F(A,B,C,D) = )m(1,2,3,4,7,8,11,12,15)
-
-(b) Convert SR flip flop to T flip flop. Draw the circuit. 7
-Q6. (a) Design Mod-8 Ripple counter using JK flip flop. Write truth table and draw timing
-diagram. 7
-(b) With the help of a neat diagram, explain the working of a 4 bit bidirectional shift register.
-7
-Q7. (a) Explain Programmable Logic Array (PLA) with block diagram. 5
-(b) Design Full adder using 3:8 decoder with OR gates. 5
-(c) Synchronous vs Asynchronous counter. 4
-ial
-Page 2 of 2
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 6616ec729cf5
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/DIGITAL LOGIC DESIGN/DIGITAL LOGIC DESIGN B TECH (IT), FINAL EXAM0001 (1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 25 November 2016
-- Text: ocr (2 pages), mean OCR confidence 89.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: II Semester: III
-
-Academic Year: 2016-2017
-
-Subject : Digital Logic Design ge Ree
-Marks: 70 fr
-
-Date : 25 November 2016 Time : 10.6 ari CSTR Bn 3
-Durationss3 (hrsp ® 4 F
-
-Final-Examination % Nw ®
-Ora . _—
-Qa
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1. (a) Attempt following (2x4=8)
-(I) Perform (6)10-(4)10 using 2’s complement
-(Il) Divide (11101110)2 by (1001)2
-(Ill) State De-Morgan’s Law
-(IV) Realize Ex-OR gate using NAND gate.
-
-(b) Attempt following (3x2=6)
-
-(1) Compare combinational and sequential circuit.
-(Il) Draw D flip-flop using JK Flip-Flop.
-
-Q2. (a) Prove following using Boolean algebra (6)
-
-(I)X(X#Y) #Z+ZV=Y4Z
-
-(I)WX (W+Y) 4WY (W+X) =WX
-
-Q2. (b) Simplify following using K-map (8)
-
-(I) F(A,B,C,D)= 5m(0,1,5,9,13,14,15)+d(3,4,7,10,11).
-
-Page 1 of 2
---- page 2 ---
-(Il) F(A,B,C,D) =nM (0,2,3,6,7,8,9,12,13)
-Q3. (a) Design full adder using K-map and realize with logic gates .Also explain how full adder can be
-used to design multibit adder. (7)
-
-Q3. (b) Define multiplexer. State application of multiplexer .Implement following function using 16:1 MUX.
-
-F(A,B,C,D)= 5m(2,4,5,7,10,14,15,16,17,25,26,30,31). (7)
-Q4. (a) What do. you mean by race around condition? How it can be avoided using master-slave JK FF? (7)
-Q4. (b) Design ripple counter for state diagram. (7)
-Q5. (a) Draw a schematic diagram of 4-bit, Bi-direction shift register using R-S flip-flop. Explain its working. (7)
-
-QS. (b)State Advantage of Programmable logic device (PLD) .Draw and explain block diagram of a PLA device. (7)
-Q6. (a) Convert SR flip flop to D and T flip-flop and draw the circuit. (7)
-Q6. (b) With the help of circuit diagram, explain working of Johnson counter (Twisted ring counter) (7)
-
-Q7. Write short note on
-
-a) Shift register and its Applications (5)
-b) Gray code and gray to binary conversion (5)
-c) 3:8 Decoder (4)
-
-Page 2 of 2
 ````

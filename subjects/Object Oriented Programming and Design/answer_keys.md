@@ -608,6 +608,7 @@ Students are expected to write a code snippet to explain them.
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSE_DS_7011/Object Oriented Programming and Design/ANS_Object Oriented Programming and Design(702CO0C005)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2025
 - Text: mixed (11 pages), mean OCR confidence 42.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

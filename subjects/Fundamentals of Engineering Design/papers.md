@@ -438,6 +438,7 @@ ie ee
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_06/FUNDAMENTALS OF ENGINEERING DESIGN/Fundamentals of Engineering Design Batch 2024-25 Final Batch 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
 - Text: ocr (4 pages), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -591,7 +592,6 @@ Explain any following design considerations of castings with neat diagrams
 cor: . a) Always keep the stressed area of the part in compression [0]
 2; |) i
 ‘a 2; b) Round all external corners
-BL 2 Seo eae eee eee ne
 c) Avoid very thin sections
 A bracket is attached to a vertical column by means of six identical rivets as shown in Fig. It is
 subjected to an eccentric force of 60 kN at a distance of 200 mm from the centre of the column. The
@@ -768,6 +768,7 @@ BL-2
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_Mechanical_7031/Fundamentals of Engineering Design/QP_Fundamentals of Engineering Design(701ME0C013)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2025
 - Text: mixed (4 pages), mean OCR confidence 46.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

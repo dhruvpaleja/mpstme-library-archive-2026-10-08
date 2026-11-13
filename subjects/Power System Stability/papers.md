@@ -100,7 +100,7 @@ iii) Thyristor controlled reactor (TCR)
 
 - Departments: Electrical
 - Programmes: B TECH / ELECTRICAL, MBA TECH / ELECTRICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRICAL/SEM VIII/POWER SYSTEM STABILITY/POWER_SYSTEM_STABILITY_B_TECH_(ELECTRICAL)_18-19__RE_EXAM__.pdf` (+1 identical copies)
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRICAL/SEM VIII/POWER SYSTEM PLANNING AND RELIABILITY/POWER_SYSTEM_STABILITY_B_TECH_(ELECTRICAL)_18-19__RE_EXAM_.pdf` (+2 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 12 June 2019
 - Text: ocr (2 pages), mean OCR confidence 93.2
 

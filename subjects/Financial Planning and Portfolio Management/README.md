@@ -16,37 +16,37 @@ Also filed as: `FINANCIAL PLANNING AND PORT FOLIO MANAGEMENT`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech AI 7051 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech AI 7051 | QP_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech DS 7052 | QP_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech AI 7051 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2025-2026.pdf |
 | 2024-25 | — | Question paper | Sem 10 | MBA TECH | Finacial Planning and portfolio Management, Sem-X, Batch, 2023-24, 2024-25 & 2025_d6f7cb5b.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Financial Planning and Portfolio Management(703TF0E008)_2024-2025.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 10 | MBA TECH | Financial Planning & Portfolio Mgmt ,Re-exam 2022-23,2023-24.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 10 | MBA TECH | Financial Planning & Portfolio Mgmt , Re-exam 2021-2022.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 10 | MBA TECH | Financial planning...Final exam 2018-19.pdf |

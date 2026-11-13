@@ -1153,6 +1153,7 @@ between IoT and M2M
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_08/INTERNET OF THINGS/Internet of Things, Sem-VIII, Year 2022-23, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02/05/2023
 - Text: ocr (2 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1194,7 +1195,6 @@ Q2 Explain the following standards of IoT: [10]
 a.
 CO-1; SO-1; i)OGC_ ii) GSI
 BL-2
-oa 1 h d Ss L IoT.
 De wit eat diagram Smart Logistics using IoT.
 CO-1; $0-2; b. velop an gr g g [10]
 BL-6

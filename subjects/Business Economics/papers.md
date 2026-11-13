@@ -119,6 +119,102 @@ B) Explain in detail, the flexible and fixed exchange rate system. (7 Marks)
 & . 2/x
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper b8da2a3ee86c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/BUSINESS ECONOMICS/Buisness Economics ...Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 26 April 2019
+- Text: ocr (2 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program MBA Tech (All Streams) Year: If - Semester: IV-
+
+AcademicYear: 2018-2019
+Marks: 70 -~
+Time2.00 pm to 4.00 pm-~-
+
+Duration: 2 (hrs)
+No. of Pages:_O2. _
+
+Subject: Business Economics -
+
+Date : 26 April 2019
+
+Re-Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Q1) Explain any 7 of the following concepts: (2x7=14)
+
+a) Opportunity Cost
+
+b) Appreciation in a currency
+
+c) GNP
+
+d) Marginal Utility
+
+e) Income Elasticity of Demand.
+f) Variable Cost
+
+g) Open economy
+
+h) Public Expenditure
+
+i) Monopolistic market
+
+j) Inferior goods
+
+Q2) Define a monopoly market. Explain its features in detail. Also compare it with a
+
+Duopoly market structure (14)
+
+flo
+--- page 2 ---
+4
+
+Q3) Explain how the following events affect the market for new cars, using demand and
+supply diagrams: (7x2=14)
+
+a) The Auto Workers’ Union gets a large raise.
+b) The government subsidizes bus tickets resulting in a large reduction in the cost of a
+bus ticket.
+
+Q4) Explain the Law of Variable Proportions, in detail. (14)
+Q5) What are the instruments of a Monetary Policy? Explain in detail. (14)
+
+Q6) With the help of a suitable diagram, explain demand-pull inflation. What are the factors
+that can cause demand pull inflation in an economy? (14)
+
+Q7) With the help of a suitable diagram, explain the circular flow of income in a three-sector
+model. What are the leakages and injections in this model? How can a discrepancy in
+Leakages and Injections corrected? (14)
+
+
+212
+````
+
 ## 2017-18 · Exam not stated · Sem 4 · paper 8c9de65b2ea5
 
 - Departments: Common (all branches)
@@ -255,9 +351,9 @@ the GDP growth rate. (7 Marks)
 
 ## 2017-18 · Exam not stated · Sem 4 · paper 8e85302234c4
 
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/BUSINESS ECONOMICS/Business_Economics_2017-18_UD5T1IcE8e.pdf`
+- Departments: Chemical, Common (all branches)
+- Programmes: MBA TECH, MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/BUSINESS ECONOMICS/Business_Economics_2017-18_UD5T1IcE8e.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 2; exam date: 07 July 2018
 - Text: ocr (2 pages), mean OCR confidence 85.2
 
@@ -353,100 +449,148 @@ fe 2K 2K 2K 2K 3K a 2 Kk 9K R28 228 2A 2A 2A 2g oe Sg ee ek ek ee off oe 2 2 Re 
 ay
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper b8da2a3ee86c
+## 2016-17 · Re-Exam · Sem 5 · paper a4ea70f8b63c
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/BUSINESS ECONOMICS/Buisness Economics ...Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 26 April 2019
-- Text: ocr (2 pages), mean OCR confidence 89.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Business Economics/Business Economics Batch 2014-15 Re Exam_a4ea70f8b6.pdf`
+- Printed on paper: exam date: 05 December 2016
+- Text: ocr (3 pages), mean OCR confidence 93.6
 
 ````text
+\
+
 SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Programme : MBA. Tech (All Streams) Year : III Semester: V
+Batch : 2014-15
 
-Program MBA Tech (All Streams) Year: If - Semester: IV-
+Academic Year : 2016-2017
+Subject : Business Economics
 
-AcademicYear: 2018-2019
-Marks: 70 -~
-Time2.00 pm to 4.00 pm-~-
+Date : 05 December 2016
 
-Duration: 2 (hrs)
-No. of Pages:_O2. _
+Re-Examination
 
-Subject: Business Economics -
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
-Date : 26 April 2019
-
-Re-Examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
+NB:
+1) Question No. | is compulsory.
 2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
+» 3) In all 5 questions to be attempted.
+4) Figures to the right indicate full marks.
 5) Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks.
+Ql. (2x6)= 12 marks
 
-7) Assume Suitable data if necessary.
+(a) You are given market data that says when the price of pizza is $4, the quantity demanded of
+pizza is 60 slices and the quantity demanded of cheese bread is 100 pieces. When the price of
+pizza is $2, the quantity demanded of pizza is 80 slices and the quantity demanded of cheese
+bread is 70 pieces. Calculate point elasticity of demand and Act elasticity of demand.
 
-Q1) Explain any 7 of the following concepts: (2x7=14)
+(b) Market demand is influenced by price, the price of substitutes and complements, product
+quality, advertising, income, and related factors. Explain why companies often find price
+changes to be the most important determinant of short-term changes in sales.
 
-a) Opportunity Cost
+Q2. (2x6)=12 marks
 
-b) Appreciation in a currency
+(a) Ms. Sharma, the owner and manager of the Fine Duplicating service located near a major
+university, is contemplating keeping her shop open after 4 P.M. and until midnight. In order
+to do so, she would have to hire additional workers. She estimated that the additional
+workers would generate the following total output (where each unit of output refers to 100
+pages duplicated). If the price of each input is $10 and each worker hired must be paid $40
+per day, how many workers should Ms. Sharma hire?
 
-c) GNP
-
-d) Marginal Utility
-
-e) Income Elasticity of Demand.
-f) Variable Cost
-
-g) Open economy
-
-h) Public Expenditure
-
-i) Monopolistic market
-
-j) Inferior goods
-
-Q2) Define a monopoly market. Explain its features in detail. Also compare it with a
-
-Duopoly market structure (14)
-
-flo
+— 43—
 --- page 2 ---
-4
+Workers hired 0 1 2 Es 4 5 6
+Total Product oO] 12 22 30} 36] 40 42
 
-Q3) Explain how the following events affect the market for new cars, using demand and
-supply diagrams: (7x2=14)
+ite
 
-a) The Auto Workers’ Union gets a large raise.
-b) The government subsidizes bus tickets resulting in a large reduction in the cost of a
-bus ticket.
+=" (g) What is meant by marginal revenue product of an input and how it is calculated? Explain
+why does the marginal product of an input declines as more units of the variable input are
 
-Q4) Explain the Law of Variable Proportions, in detail. (14)
-Q5) What are the instruments of a Monetary Policy? Explain in detail. (14)
+used.
 
-Q6) With the help of a suitable diagram, explain demand-pull inflation. What are the factors
-that can cause demand pull inflation in an economy? (14)
+Q3. (2x6)=12 marks
 
-Q7) With the help of a suitable diagram, explain the circular flow of income in a three-sector
-model. What are the leakages and injections in this model? How can a discrepancy in
-Leakages and Injections corrected? (14)
+(a) Mr. Patil produces widgets, using as inputs labor (L) and machines (K). His production
+function is given by the following equation:
 
-fee FS 9a a a aa ao a RCA oR OR AR oR CoE Cee 2 oo oo oo aoa oe oe a i
+Q=10K7 +L?
 
-212
+(i) What type of returns to scale (increasing/constant/decreasing) does Patil’s production
+function exhibit?
+
+(ii) At the end of last year, Patil bought his only machine for $1,000. He will use this machine
+for 5 years, after which the machine will have no value. Patil will calculate depreciation
+linearly (depreciation will be 20% of the total value of the machine per year). This machine
+has no other use besides Patil’s production of widgets, and, at this moment, Patil cannot
+
+buy any more machines. Based on these assumptions is there any opportunity cost?
+
+(b) On what does the U shape of SAC and LAC curves depend?
+
+Q4. (2x6)=12 marks
+
+(a) Consider the following data showing Smith’s total utility from the consumption of two
+goods: chocolate and Ice cream. Assume the price of chocolate is Rs.50.00, the price
+of Ice cream Rs. 100.00, and Smith has Rs. 300 to spend on the two goods.
+
+No of
+
+chocolate TU No oflcecream | TU
+i 1000 2 1000
+2 1800 2 1800
+3 2500 3 2500
+4 3000 4 3000
+5 3200 2 3200
+
+= 2/4——
+--- page 3 ---
+{i) Assuming that he wishes to maximize his utility, what combination of chocolate and
+Ice cream will Smith purchase? Carefully justify your answer.
+
+(ii) Ifthe price of Ice cream doubles, what will happen.to Smith’s consumption of the two
+goods?
+
+(b) What is the Marginal Rate of Substitution? What information does it convey?
+
+Q5. (2x6)=12 marks
+
+{a)
+The below table show the details of Indian economic data for the period-2007-08
+
+Net Factor
+
+Consumption of | Population GDP at income
+Fixed Capital {Million} | Factor Cost from
+Abroad
+
+4846.96 1,138 45820.86 -205.12
+
+Calculate GNP at Factor Cost, NNP at Factor Cost and Per Capita NNP at Factor Cost
+
+(Rupees)
+(b) Why is the long-run Phillips Curve vertical? Why is the long-run aggregate supply curve
+vertical?
+Q6. (2x6)=12 marks
+
+{a) How Are Open Market Operations Related to Other Monetary Instruments?
+
+{b) Why would it be useful to examine a country’s balance of payments data?
+
+Q7. Write short notes on any two of the following: (2x6) =12 marks
+
+a) Economic Systems.
+
+b) Marginal rate of technical substitution.
+c) Opportunity cost.
+
+d) Liberalization and Indian Economy.
 ````
 
 ## 2015-16 · Final-Exam · Sem 5 · paper c8298253fdc7
@@ -595,6 +739,128 @@ c) Production possibility frontier.
 d) Globalization and Indian Economy.
 
 3/3
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper ff8207a58455
+
+- Departments: Civil, Common (all branches)
+- Programmes: MBA TECH, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/BUSINESS ECONOMICS/Business Economics Batch 2014-15 Re Exam_ff8207a584.pdf` (+1 identical copies)
+- Printed on paper: exam date: 04/12/2015
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+»~
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme:MBA Tech (ALL STREAMS) Year: III Semester: V
+
+Academic Year: 2015 - 16 einstein v7,
+
+cay
+
+MPSTMB Vo
+
+Batch:2014-15
+
+Subject :Business Economics Mar.
+
+Date : 04/12/2015 Durat
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer
+Book, which is provided for their use.
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) Inall 5 questions to be attempted.
+® Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+
+1, (A) John receives utility from days spent travelling on vacation domestically (D) and days spent travelling in a
+foreign country (F) as given by the utility U(D, F) = DF. The price of a day spent travelling domestically is $160
+and in a foreign country $200. John’s annual budget for travelling is $8,000. (6 Marks)
+
+i. Find John’s utility maximizing choice of days travelling domestically and in a foreign country. Find also his
+utility level from consuming that bundle.
+
+ii. Suppose that the price of domestic travelling increases to $250 per day. Calling his budget for travelling x,
+(suppose by now that it is unknown) find the demand for D and F under the new prices as a function of x.
+
+1. (B) Suppose the market demand curve for a product is given by Q¢= 1000 — 10P and the market supply curve is
+
+given by Q*= 25P — 50. (6 Marks)
+i. What are the equilibrium price and quantity?
+ii. Express the demand curve in terms of (P)?
+6 iii. | At the market equilibrium, what is the price - elasticity of demand?
+iv. Suppose the prevailing price in this market is Rs. 25. What is the excess demand, if any?
+
+Vv. Identify the price below which there will be no surplus supply?
+2. (A) Suppose the demand for a commodity is given by the following equations:
+Ox = 34-0.8 P*, +0.3 Py + 0.047
+
+Where Qx is the demand for good “x”
+Px is the price of good “x”
+
+Py is the price of good “Y” and
+
+I is income.
+
+a) What is the price elasticity of demand when Px= $10, Py = $20 and I = $5000 (3 Marks)
+
+4/2.
+--- page 2 ---
+b) What is the cross price elasticity of demand for X with respect to good Y (evaluate the cross price elasticity
+using the values from part a)? Are these goods substitutes for complements? Explain your answer.
+
+(3 Marks)
+2. (B) What is the equation ofa typical short-run Phillips curve? What does it imply about the relation between the
+inflation rate and the unemployment rate in the short-run? (6 Marks)
+
+3. (A) GiVén is the short run total cost function: TC = 100 + 50Q — 12Q? + Q? where TC is total cost and Q I level
+
+of output. (6 Marks)
+
+i) Determine total fixed cost function, total variable cost function, average variable cost function and
+marginal cost function.
+
+ii) Calculate AVC and MC when the firm produces 10 units of output.
+
+iii) Calculate the level of output at which AVC is minimum.
+
+{Notations have their usual meanings] ry
+
+3. (B) What is the relationship between marginal product and average product of labour? (6 Marks)
+
+4. (A) Ramesh produces calculators, using as inputs labor (L) and machines (K). His production function is given by
+the following equation:
+
+O= 10K%+ 1”
+
+a) Explain types of return to scale.
+b) What types of returns to scale does Ramesh’s production function exhibit?
+(3+3 Marks)
+4 (B) Difference between GDP and GNP of a nation. (6 Marks)
+
+5. a) Identify whether the following transactions are Current Account or Capital Account transactions in case of
+Balance of Payments: (6 Marks)
+i) Foreign tourist expenditure in a country.
+ii) Merchandise Exports e
+iii) Investment in foreign securities
+
+5. b) What are the major components of Balance of Payments? (6 Marks)
+6. Explain the following key banking terms: (12 Marks)
+a) CRR
+b) SLR
+c) REPO
+
+d) OMO (Open Market Operations)
+7. A) What is circular flow? Explain the three sector model with the help of a suitable diagram. (6 Marks)
+
+7. B) Highlight very briefly the effect of globalization on Indian Economy. (6 Marks)
+
+2/2.
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper f6ad5956d140
@@ -873,6 +1139,7 @@ d) Cash Reserve Ratio
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/V SEMESTER/BUSINESS ECONOMICS/Business Economics Batch 2014-15 Re Exam.pdf` (+3 identical copies)
 - Printed on paper: max marks: 60; exam date: 13/06/2015
 - Text: ocr (3 pages), mean OCR confidence 84.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -884,7 +1151,6 @@ Programme:MBA Tech (ALL STREAMS) Year: III Semester: V
 Batch:2014-15
 
 Subject :Business Economics Marks:60 |, i i, PSTME °
-Time : 10.00 ) arn toi12:00 gogn } &
 Date : 13/06/2015 Durations: None
 
 Re-Examination
@@ -1017,270 +1283,110 @@ $.1 Balances with Other Banks 4334.7 123.5 3.7 2724 368.2
 2/3
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper ff8207a58455
+## 2014-15 · Re-Exam · Sem 5 · paper fbcc2d785cae
 
-- Departments: Civil, Common (all branches)
-- Programmes: MBA TECH, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/BUSINESS ECONOMICS/Business Economics Batch 2014-15 Re Exam_ff8207a584.pdf` (+1 identical copies)
-- Printed on paper: exam date: 04/12/2015
-- Text: ocr (2 pages), mean OCR confidence 92.1
+- Departments: Information Technology, Mechanical
+- Programmes: MBA TECH / I T, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/BUSINESS ECONOMICS/BUSINESS ECONOMICS BATCH 2013-14 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 05/12/2014
+- Text: ocr (2 pages), mean OCR confidence 92.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-»~
-
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme:MBA Tech (ALL STREAMS) Year: III Semester: V
 
-Academic Year: 2015 - 16 einstein v7,
+Programme: MBA Tech (ALL STREAMS) Year: Il Semester: V
 
-cay
+Academic Year: 2014-15 ; Batch: 2013-14
 
-MPSTMB Vo
+Subject : Business Economics ’
 
-Batch:2014-15
+Date : 05/12/2014 Time : 10.
+a ~ 4¢
+marae
 
-Subject :Business Economics Mar.
+Durations
+Re - Examination
 
-Date : 04/12/2015 Durat
-Re-Examination
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer
-Book, which is provided for their use.
 NB:
+
 1) Question No. 1 is compulsory.
+
 2) Out of remaining questions, attempt any 4 questions.
-3) Inall 5 questions to be attempted.
-® Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
 
-1, (A) John receives utility from days spent travelling on vacation domestically (D) and days spent travelling in a
-foreign country (F) as given by the utility U(D, F) = DF. The price of a day spent travelling domestically is $160
-and in a foreign country $200. John’s annual budget for travelling is $8,000. (6 Marks)
+3) In all 5 questions to be attempted.
 
-i. Find John’s utility maximizing choice of days travelling domestically and in a foreign country. Find also his
-utility level from consuming that bundle.
+4) All questions carry equal marks.
 
-ii. Suppose that the price of domestic travelling increases to $250 per day. Calling his budget for travelling x,
-(suppose by now that it is unknown) find the demand for D and F under the new prices as a function of x.
-
-1. (B) Suppose the market demand curve for a product is given by Q¢= 1000 — 10P and the market supply curve is
-
-given by Q*= 25P — 50. (6 Marks)
-i. What are the equilibrium price and quantity?
-ii. Express the demand curve in terms of (P)?
-6 iii. | At the market equilibrium, what is the price - elasticity of demand?
-iv. Suppose the prevailing price in this market is Rs. 25. What is the excess demand, if any?
-
-Vv. Identify the price below which there will be no surplus supply?
-2. (A) Suppose the demand for a commodity is given by the following equations:
-Ox = 34-0.8 P*, +0.3 Py + 0.047
-
-Where Qx is the demand for good “x”
-Px is the price of good “x”
-
-Py is the price of good “Y” and
-
-I is income.
-
-a) What is the price elasticity of demand when Px= $10, Py = $20 and I = $5000 (3 Marks)
-
-4/2.
---- page 2 ---
-b) What is the cross price elasticity of demand for X with respect to good Y (evaluate the cross price elasticity
-using the values from part a)? Are these goods substitutes for complements? Explain your answer.
-
-(3 Marks)
-2. (B) What is the equation ofa typical short-run Phillips curve? What does it imply about the relation between the
-inflation rate and the unemployment rate in the short-run? (6 Marks)
-
-3. (A) GiVén is the short run total cost function: TC = 100 + 50Q — 12Q? + Q? where TC is total cost and Q I level
-
-of output. (6 Marks)
-
-i) Determine total fixed cost function, total variable cost function, average variable cost function and
-marginal cost function.
-
-ii) Calculate AVC and MC when the firm produces 10 units of output.
-
-iii) Calculate the level of output at which AVC is minimum.
-
-{Notations have their usual meanings] ry
-
-3. (B) What is the relationship between marginal product and average product of labour? (6 Marks)
-
-4. (A) Ramesh produces calculators, using as inputs labor (L) and machines (K). His production function is given by
-the following equation:
-
-O= 10K%+ 1”
-
-a) Explain types of return to scale.
-b) What types of returns to scale does Ramesh’s production function exhibit?
-(3+3 Marks)
-4 (B) Difference between GDP and GNP of a nation. (6 Marks)
-
-5. a) Identify whether the following transactions are Current Account or Capital Account transactions in case of
-Balance of Payments: (6 Marks)
-i) Foreign tourist expenditure in a country.
-ii) Merchandise Exports e
-iii) Investment in foreign securities
-
-5. b) What are the major components of Balance of Payments? (6 Marks)
-6. Explain the following key banking terms: (12 Marks)
-a) CRR
-b) SLR
-c) REPO
-
-d) OMO (Open Market Operations)
-7. A) What is circular flow? Explain the three sector model with the help of a suitable diagram. (6 Marks)
-
-7. B) Highlight very briefly the effect of globalization on Indian Economy. (6 Marks)
-
-2/2.
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper a4ea70f8b63c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM V/Business Economics/Business Economics Batch 2014-15 Re Exam_a4ea70f8b6.pdf`
-- Printed on paper: exam date: 05 December 2016
-- Text: ocr (3 pages), mean OCR confidence 93.6
-
-````text
-\
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : MBA. Tech (All Streams) Year : III Semester: V
-Batch : 2014-15
-
-Academic Year : 2016-2017
-Subject : Business Economics
-
-Date : 05 December 2016
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-» 3) In all 5 questions to be attempted.
-4) Figures to the right indicate full marks.
 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
 
-Ql. (2x6)= 12 marks
+1. Fill in the blanks: [10 Marks]
 
-(a) You are given market data that says when the price of pizza is $4, the quantity demanded of
-pizza is 60 slices and the quantity demanded of cheese bread is 100 pieces. When the price of
-pizza is $2, the quantity demanded of pizza is 80 slices and the quantity demanded of cheese
-bread is 70 pieces. Calculate point elasticity of demand and Act elasticity of demand.
+Total Total ; Average
+Total Fixed Variable Average Variable . | Average Marginal
+Output | Cost Cost Cost Fixed Cost cost Total Cost | Cost
 
-(b) Market demand is influenced by price, the price of substitutes and complements, product
-quality, advertising, income, and related factors. Explain why companies often find price
-changes to be the most important determinant of short-term changes in sales.
+100 2600 600
 
-Q2. (2x6)=12 marks
+200 3
+300 5
 
-(a) Ms. Sharma, the owner and manager of the Fine Duplicating service located near a major
-university, is contemplating keeping her shop open after 4 P.M. and until midnight. In order
-to do so, she would have to hire additional workers. She estimated that the additional
-workers would generate the following total output (where each unit of output refers to 100
-pages duplicated). If the price of each input is $10 and each worker hired must be paid $40
-per day, how many workers should Ms. Sharma hire?
+400 10.5
 
-— 43—
+500 3600
+
+600 30
+700 16 :
+
+800 20400
+
+2. Draw Phillips curve. State the underlying assumptions and explain the theoretical underpinnings
+of the curve. [10 Marks]
+
+3. Write short note on: (any 2) [2 x 5=10 Marks]
+a. Statutory liquidity ratio
+b. Liberalisation.
+c. Increasing Returns to Scale and Diminishing Returns to Scale.
+
+4. Distinguish between demand pull and cost push inflation. Enumerate the underlying causes of
+each. [10 Marks]
+
+4)
 --- page 2 ---
-Workers hired 0 1 2 Es 4 5 6
-Total Product oO] 12 22 30} 36] 40 42
+5. Comment about the various phases of business cycles that India witnessed since 2008 to 2013.
 
-ite
+[10 Marks]
 
-=" (g) What is meant by marginal revenue product of an input and how it is calculated? Explain
-why does the marginal product of an input declines as more units of the variable input are
+6. The Input-Output matrix for a firm is as follows: [10 Marks]
+[L/ 1 2 3 4 5 6
 
-used.
+K
+6 36 40 45 Ba 59 64
+5 30 38 42 48 55 59
+4 24 36 40 45 49 54
+3 19 30 36 40 45 47
+2 14 24 30 33 36 40
+1 10 16 24 30 32 35 |
 
-Q3. (2x6)=12 marks
+Labour (L) and Capital (K) are used as inputs to produce outputs (Q). Labour is presented
 
-(a) Mr. Patil produces widgets, using as inputs labor (L) and machines (K). His production
-function is given by the following equation:
+column-wise and Capital is presented row-wise whereas inner boxes denote the number of units
 
-Q=10K7 +L?
+produced as output. Based on the given output data table, plot graphically any two isoquants.
+Also suggest the input pairs which exempli
 
-(i) What type of returns to scale (increasing/constant/decreasing) does Patil’s production
-function exhibit?
+fy the increasing and decreasing returns to scale.
 
-(ii) At the end of last year, Patil bought his only machine for $1,000. He will use this machine
-for 5 years, after which the machine will have no value. Patil will calculate depreciation
-linearly (depreciation will be 20% of the total value of the machine per year). This machine
-has no other use besides Patil’s production of widgets, and, at this moment, Patil cannot
+7. Look around you and identify two goods which can ex;
+production possibility curve.
 
-buy any more machines. Based on these assumptions is there any opportunity cost?
-
-(b) On what does the U shape of SAC and LAC curves depend?
-
-Q4. (2x6)=12 marks
-
-(a) Consider the following data showing Smith’s total utility from the consumption of two
-goods: chocolate and Ice cream. Assume the price of chocolate is Rs.50.00, the price
-of Ice cream Rs. 100.00, and Smith has Rs. 300 to spend on the two goods.
-
-No of
-
-chocolate TU No oflcecream | TU
-i 1000 2 1000
-2 1800 2 1800
-3 2500 3 2500
-4 3000 4 3000
-5 3200 2 3200
-
-= 2/4——
---- page 3 ---
-{i) Assuming that he wishes to maximize his utility, what combination of chocolate and
-Ice cream will Smith purchase? Carefully justify your answer.
-
-(ii) Ifthe price of Ice cream doubles, what will happen.to Smith’s consumption of the two
-goods?
-
-(b) What is the Marginal Rate of Substitution? What information does it convey?
-
-Q5. (2x6)=12 marks
-
-{a)
-The below table show the details of Indian economic data for the period-2007-08
-
-Net Factor
-
-Consumption of | Population GDP at income
-Fixed Capital {Million} | Factor Cost from
-Abroad
-
-4846.96 1,138 45820.86 -205.12
-
-Calculate GNP at Factor Cost, NNP at Factor Cost and Per Capita NNP at Factor Cost
-
-(Rupees)
-(b) Why is the long-run Phillips Curve vertical? Why is the long-run aggregate supply curve
-vertical?
-Q6. (2x6)=12 marks
-
-{a) How Are Open Market Operations Related to Other Monetary Instruments?
-
-{b) Why would it be useful to examine a country’s balance of payments data?
-
-Q7. Write short notes on any two of the following: (2x6) =12 marks
-
-a) Economic Systems.
-
-b) Marginal rate of technical substitution.
-c) Opportunity cost.
-
-d) Liberalization and Indian Economy.
+plain the theoretical concept of
+[10 Marks]
 ````
 
 ## 2013-14 · Final-Exam · Sem 5 · paper f61b67b918d7
@@ -1584,110 +1690,98 @@ A———__——*
 A.
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper fbcc2d785cae
+## 2012-13 · Exam not stated · Trim 7 · paper bf4d3319baf4
 
-- Departments: Information Technology, Mechanical
-- Programmes: MBA TECH / I T, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/BUSINESS ECONOMICS/BUSINESS ECONOMICS BATCH 2013-14 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 05/12/2014
-- Text: ocr (2 pages), mean OCR confidence 92.3
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/BUSINESS ECONOMICS/scan0001(3).pdf` (+1 identical copies)
+- Printed on paper: max marks: 50; exam date: 03/ 10/20
+- Text: ocr (2 pages), mean OCR confidence 82.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Aaneweterenees Ho Se ie
 
-Programme: MBA Tech (ALL STREAMS) Year: Il Semester: V
+SVKM’s ‘NMIMS
+Mukesh Patel School of Technology | Management & Engineering
 
-Academic Year: 2014-15 ; Batch: 2013-14
+rogramme: MBA (Tech) (All stream) Year: Il Trimester: VII
+Academic Year : 2012-2013
 
-Subject : Business Economics ’
-aC id Bd By Js Pa
+j : us i Marks: 50
+‘ubject: Business Economics ‘ ; ; a
+i : 4
+date: 03/ 10/20 12 Duration: 2 bile "
 
-Date : 05/12/2014 Time : 10.
-a ~ 4¢
-marae
+Final - Examination
 
-Durations
-Re - Examination
+F waanac®
+Instructions: Candidates should read carefully the instructions printed on the question ms
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
+paper and on the cover of the Answer Book, which is provided for their use.
 NB:
 
-1) Question No. 1 is compulsory.
+i. Answer to each new question to be started on a fresh page.
 
-2) Out of remaining questions, attempt any 4 questions.
+2. Figure in the brackets on the right hand side indicates full marks.
 
-3) In all 5 questions to be attempted.
+3. Question No. 1 is compulsory
 
-4) All questions carry equal marks.
+4, Out of the remaining 6 questions, attempt any 4 questions
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
+5. In all 5 questions are to be answered
 
-1. Fill in the blanks: [10 Marks]
+6. Please be brief and to the point.
 
-Total Total ; Average
-Total Fixed Variable Average Variable . | Average Marginal
-Output | Cost Cost Cost Fixed Cost cost Total Cost | Cost
+7, Make suitable assumptions, wherever necessary, and mention them clearly.
+8. Draw neat labeled diagrams wherever necessary.
 
-100 2600 600
+9. Use of calculators is permitted.
 
-200 3
-300 5
+4
 
-400 10.5
+Q.1. krom the below mentioned table: (10 Marks)
+Compute the Coefficient of Price Elasticity of Demand and comment on the Type
 
-500 3600
+of Elasticity of Demand between each of the three situations:
 
-600 30
-700 16 :
+- Scenario I; Between A-—B
+- Scenario 2: Between B - Cc
+- Scenario 3: Between C — D
 
-800 20400
+Scenario i Quantity Demanded ; Price
+A 4 ) 300 20
 
-2. Draw Phillips curve. State the underlying assumptions and explain the theoretical underpinnings
-of the curve. [10 Marks]
-
-3. Write short note on: (any 2) [2 x 5=10 Marks]
-a. Statutory liquidity ratio
-b. Liberalisation.
-c. Increasing Returns to Scale and Diminishing Returns to Scale.
-
-4. Distinguish between demand pull and cost push inflation. Enumerate the underlying causes of
-each. [10 Marks]
-
-4)
+B 150 : 100
+Cc : 40 150
+D 15 . 250
 --- page 2 ---
-5. Comment about the various phases of business cycles that India witnessed since 2008 to 2013.
+Q. 2. What are the different types of market structure and how they are classified?
+(10-Marks)
 
-[10 Marks]
+Q. 3. Explain the law of demand. What are the exceptions to this law? (10 Marks)
 
-6. The Input-Output matrix for a firm is as follows: [10 Marks]
-[L/ 1 2 3 4 5 6
+Q.4. Explain with suitable examples: (2.5x4=10 Marks)
 
-K
-6 36 40 45 Ba 59 64
-5 30 38 42 48 55 59
-4 24 36 40 45 49 54
-3 19 30 36 40 45 47
-2 14 24 30 33 36 40
-1 10 16 24 30 32 35 |
+a) Fixed Cost
 
-Labour (L) and Capital (K) are used as inputs to produce outputs (Q). Labour is presented
+b) Variable Cost
+c) Average Cost
+d) Marginal Cost
 
-column-wise and Capital is presented row-wise whereas inner boxes denote the number of units
+Q.5. (a) Write the various methods of measuring National Income. (5 marks)
 
-produced as output. Based on the given output data table, plot graphically any two isoquants.
-Also suggest the input pairs which exempli
+(b) Distinguish between Cost Push Inflation and Demand Pull Inflation.
 
-fy the increasing and decreasing returns to scale.
+(5 Marks)
+Q.6. What is monetary policy? What are the various tools & techniques of monetary
+policy? (10 Marks)
+Q. 7. Briefly explain the impact of Liberalization on Indian economy. (10 Marks)
 
-7. Look around you and identify two goods which can ex;
-production possibility curve.
+W
 
-plain the theoretical concept of
-[10 Marks]
+
+‘ 7 } ZL | 2
 ````
 
 ## 2012-13 · Exam not stated · Trim 5 · paper de3c567f7389
@@ -1962,6 +2056,7 @@ q!
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/BUSINESS ECONOMICS/BUSINESS ECONOMICS 2011-12(1).pdf` (+1 identical copies)
 - Printed on paper: exam date: 03/02/2012
 - Text: ocr (2 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . SVKM’s NMIMS
@@ -2042,7 +2137,6 @@ Discuss the important features of current export-import policy of India:
 
 What are the functions of capital market?
 
-2 9 ie ok ok 22k ee eo of ook oe oe fe aie oe oo oie ok a ie ok a ok a ok
 
 a
 
@@ -2518,6 +2612,7 @@ Ae
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/BUSINESS ECONOMICS/2008-2009 re exam(41).pdf` (+1 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (1 page), mean OCR confidence 76.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 -
@@ -2565,7 +2660,6 @@ productivity.
 
 11. Define Fiscal policy. Discuss the objectives of this policy.
 
-SERB RER BRT UHR TTR RATA T OCH TSH T RHETT SECT T HRM GK ERRATA Se eG ERA
 ````
 
 ## 2007-08 · Exam not stated · Trim 7 · paper 47301483ddbd
@@ -2575,6 +2669,7 @@ SERB RER BRT UHR TTR RATA T OCH TSH T RHETT SECT T HRM GK ERRATA Se eG ERA
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/BUSINESS ECONOMICS/2007-2008(84).pdf` (+1 identical copies)
 - Printed on paper: exam date: 29-Sept-2007
 - Text: ocr (2 pages), mean OCR confidence 84.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS UNIVERSING,«
@@ -2652,7 +2747,6 @@ OR
 7) What is disinvestment and how does the country benefit fom it? How has India’s
 disinvestment ministry fared in last ten years’? (20 Marks}
 
-penne engeeeemnseennee KKK KKK 9 mn
 ````
 
 ## 2006-07 · Exam not stated · Trim 7 · paper c4941139c527
@@ -2746,98 +2840,4 @@ b. International Monetary Fund (IMF)
 Explain the impact of the following on an economy :
 a. High Tax Structure
 b. Low Interest Rates
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper bf4d3319baf4
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VII/BUSINESS ECONOMICS/scan0001(3).pdf` (+1 identical copies)
-- Printed on paper: max marks: 50; exam date: 03/ 10/20
-- Text: ocr (2 pages), mean OCR confidence 82.7
-
-````text
-Aaneweterenees Ho Se ie
-
-SVKM’s ‘NMIMS
-Mukesh Patel School of Technology | Management & Engineering
-
-rogramme: MBA (Tech) (All stream) Year: Il Trimester: VII
-Academic Year : 2012-2013
-
-j : us i Marks: 50
-‘ubject: Business Economics ‘ ; ; a
-i : 4
-date: 03/ 10/20 12 Duration: 2 bile "
-
-Final - Examination
-
-F waanac®
-Instructions: Candidates should read carefully the instructions printed on the question ms
-
-paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-
-i. Answer to each new question to be started on a fresh page.
-
-2. Figure in the brackets on the right hand side indicates full marks.
-
-3. Question No. 1 is compulsory
-
-4, Out of the remaining 6 questions, attempt any 4 questions
-
-5. In all 5 questions are to be answered
-
-6. Please be brief and to the point.
-
-7, Make suitable assumptions, wherever necessary, and mention them clearly.
-8. Draw neat labeled diagrams wherever necessary.
-
-9. Use of calculators is permitted.
-
-4
-
-Q.1. krom the below mentioned table: (10 Marks)
-Compute the Coefficient of Price Elasticity of Demand and comment on the Type
-
-of Elasticity of Demand between each of the three situations:
-
-- Scenario I; Between A-—B
-- Scenario 2: Between B - Cc
-- Scenario 3: Between C — D
-
-Scenario i Quantity Demanded ; Price
-A 4 ) 300 20
-
-B 150 : 100
-Cc : 40 150
-D 15 . 250
---- page 2 ---
-Q. 2. What are the different types of market structure and how they are classified?
-(10-Marks)
-
-Q. 3. Explain the law of demand. What are the exceptions to this law? (10 Marks)
-
-Q.4. Explain with suitable examples: (2.5x4=10 Marks)
-
-a) Fixed Cost
-
-b) Variable Cost
-c) Average Cost
-d) Marginal Cost
-
-Q.5. (a) Write the various methods of measuring National Income. (5 marks)
-
-(b) Distinguish between Cost Push Inflation and Demand Pull Inflation.
-
-(5 Marks)
-Q.6. What is monetary policy? What are the various tools & techniques of monetary
-policy? (10 Marks)
-Q. 7. Briefly explain the impact of Liberalization on Indian economy. (10 Marks)
-
-W
-
-see de seeps ee eo ee en eo ea ses erate FR A I I RRR RH KK
-
-‘ 7 } ZL | 2
 ````

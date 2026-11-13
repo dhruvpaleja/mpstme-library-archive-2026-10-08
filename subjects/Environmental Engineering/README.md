@@ -1,6 +1,6 @@
 # Environmental Engineering
 
-**28** unique papers (34 copies across programmes) · 2007-08 to 2022-23 · 4 programmes · Sem 6, Sem 7, Sem 8, Trim 10
+**28** unique papers (35 copies across programmes) · 2007-08 to 2022-23 · 4 programmes · Sem 6, Sem 7, Sem 8, Trim 10
 
 Download only this subject, sorted by academic year:
 
@@ -39,10 +39,16 @@ Also filed as: `ENVIRONMENTAL ENGINEENING`
 | 2008-09 | — | Question paper | Trim 10 | MBA TECH / CHEMICAL | 2008-2009(169).pdf |
 | 2008-09 | — | Question paper | Trim 10 | MBA TECH / I T, MBA TECH / MANUFACTURING | 2008-2009(194).pdf |
 | 2008-09 | Re-Exam | Question paper | Trim 10 | MBA TECH / CHEMICAL | 2008-2009 re exam(85).pdf |
-| 2008-09 | Re-Exam | Question paper | Trim 10 | MBA TECH / I T, MBA TECH / MANUFACTURING | 2008-2009 re exam I(20).pdf |
+| 2008-09 | Re-Exam | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | 2008-2009 re exam I(19).pdf [1] [2] [3] |
 | 2008-09 | Re-Exam | Question paper | Trim 10 | MBA TECH / I T, MBA TECH / MANUFACTURING | 2008-2009 re exam(95).pdf |
 | 2007-08 | — | Question paper | Trim 10 | MBA TECH / CHEMICAL | 2007-2008(127).pdf |
 | — | — | Question paper | Sem 6 | MBA TECH / CHEMICAL | Environmental Engg.pdf |
 | — | — | Question paper | Trim 10 | MBA TECH / CHEMICAL | scan0025(1).pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "environment management" but the paper is headed "Environmental Engineering"
+2. filed under "ENVIRONMENTAL ENGINEERING" but the paper is headed "Environmental Engineering"
+3. filed under "ENVIRONMENTAL ENGINEENING" but the paper is headed "Environmental Engineering"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

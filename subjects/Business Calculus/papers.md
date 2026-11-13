@@ -1,10 +1,10 @@
 # Business Calculus: question papers in full
 
-11 unique papers · 2022-23 to 2024-25 · Common (all branches), Data Science
+11 unique papers · 2022-23 to 2025-26 · Common (all branches), Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2024-25 · Exam not stated · Sem 1 · paper 993f403ea7c9
+## 2025-26 · Exam not stated · Sem 1 · paper 993f403ea7c9
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -211,6 +211,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/BUSINESS CALCULUS/Business Calculus, Sem-I, Final Exam 2024-25 & Re Exam 2023-24, 2022-23.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTM®
@@ -377,7 +378,6 @@ CO-3; | c) | Compute all critical points for f(x,y) = xy? — 6x? — 3y? and cl
 SO-1; a relative maximum, a relative minimum, or a saddle point. [8]
 BL-2
 
-FI IRIE Qk dG ok ka
 --- page 4 ---
 | A ball has been dropped from the top of a building. Its height (in ieee after t
 

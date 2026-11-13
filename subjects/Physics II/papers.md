@@ -1,251 +1,10 @@
 # Physics II: question papers in full
 
-27 unique papers · 2014-15 to 2023-24 · Common (all branches)
+27 unique papers · 2014-15 to 2025-26 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2023-24 · Final-Exam · Sem 2 · paper 04c465dd5511
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2023-24 Final.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-¥
-
-Program/s: BTech Integrated Year: I Semester: II
-
-Stream/s: All Streams
-Subject: Physics I Time: 03 _ hrs (40. cum to i-pm )
-
-Date:_23 / 04 / 2024 No. of Pages:-02\\ sf
-Marks: 100 ;
-
-Final Examination Us|
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover,
-of the Answer Book, which is provided for their use. 4
-
-> 1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4__ questions.
-3) In all___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20M]
-
-aan 7 a. Define Frequency, Amplitude, Wave number and Time period for a wave. [4M]
-
-re 7 >, Define Degrees of freedom and write its value for mono atomic gas and diatomic gas. [4M]
-cor © Define Bulk Modulus of elasticity.
-ir Calculate the bulk modulus of a body that experiences a change of pressure of 5 x 10*N/m? [4M]
-
-BL- 1,2 ; E ;
-when its volume goes from 4 cm” to 3.9 cm”?
-
-ia a : qd. Describe any two properties of electric charge. [4M]
-CO-1.2; €. Explain atomic spectra? Differentiate between emission spectrum and absorption spectrum. [4M]
-BL- 1,2 P P P
-Q2 [20M]
-co- a. Define simple harmonic motion and derive the expressions to calculate displacement at any
-1,23; instant of time and velocity for SHM when a particle starts from any random position. [10M]
-BL- 2,3
-oie Explain the energy in simple harmonic motion. Write the expressions for kinetic energy,
-BL-1.2 potential energy and total energy for simple harmonic motion. [6M]
-
-_¢, Evaluate the terminal velocity (in SI units) with which an air bubble of radius 0.1 cm rise
-a through water? Given that the coefficient of viscosity of water is 10? poise and density of [4M]
-water is 1000 kg/m? (Take g = 9.8 m/s’ and neglect the density of air bubble).
---- page 2 ---
-Q3 [20M]
-
-*
-C0-2,3: a. __ State any five assumptions of kinetic theory of gases. Derive the relation of Kinetic-energy [10M]
-
-BL-2,3 with temperature and give its physical interpretation.
-ae b. Interpret and find the ratio of specific heat capacity for diatomic gas. [6M]
-
-c. The acceleration due to gravity on the surface of moon is 1.7 m/s’. Calculate the time period
-
-teh of a simple pendulum on the surface of moon if its time period on the surface of earth is 5s? [4M]
-(g on the surface of earth is 9.8 m/s’).
-04 [20M]
-cos, State Hooke’s law and hence explain modulus of elasticity.
-BL-1.2 Explain Young’s Modulus of Elasticity and Modulus of rigidity in detail and write their [10M]
-expressions.
-b. State Gauss’s law.
-CO-1,3: An infinite line charge produces a field of 9 x.10* N/C at a distance of 2 cm. Calculate the [6M]
-BL-1,3 linear charge density. (E> =8.85418782 x 10°" m® kg" s* A’).
-c. Two syringes of different cross sections (without needles) filled with water are connected
-CO-2,3; with a tightly fitted rubber tube filled with water. Diameters of the smaller piston and larger [4M]
-BL- 3 piston are 2 cm and 4 cm respectively. Find the force exerted on the larger piston when a force
-of 20 N is applied to the smaller piston.
-Q5
-CO-1,3; 4 State Coulomb’s law and write its mathematical form. Explain electric field, electric flux
-BL-1,2 d electric dipole [0M]
-and electric dipole.
-b. A system has two charges qa = 2.5x10C and qzp = —2.5x10°C located at points
-CO-2,3; A:(0,0, ~15em) and B:(0,0, +15cm) respectively. Calculate the total charge, electric force [6M]
-BL-3 acting on qp and electric dipole moment of the system.
-(& =8.85418782 x 10° m® kg" s* A’).
-bee c. | What is Radioactive Decay? Mention types of radioactive decay that occur in nature. [4M]
-Q6 [20M]
-cow: ® Draw the plot of binding energy per nucleon as a function of mass number. Write the
-BL-1.2 observations and important conclusions that can be drawn regarding the nature of nuclear [10M]
-source.
-CO-1.25 b. Applying Gauss’s law, determine the intensity of electric field due to an infinite charged [6M]
-BL- 1, wire.
-66931 c. Calculate the (i) mass defect, (ii) binding energy and (iii) the binding energy per nucleon for
-BL-23 a 12C nucleus. Nuclear mass of ‘ZC = 12.000000 a.m.u. [4M]
-Mass of hydrogen nucleus = 1.007825 a.m. u and mass of neutron = 1.008665 a.m. u.
-Q7 [20M]
-a. _ Derive the expression for surface tension by the capillary rise method.
-CO-2,3; Calculate the density of paraffin oil, if glass capillary of diameter 0.25 mm dipped ina HOM]
-BL- 2,3 paraffin oil of the surface tension 0.0245 N/m rises to a height of 4 cm. Angle of contact of
-paraffin oil with glass is 28 degrees. (Take g = 9.8m/s’).
-ke b. | Write the postulates given by Bohr's model of the hydrogen atom? [6M]
-co23. A particle executes S.H.M. of amplitude 20 cm and time period 5 seconds. Calculate the
-BL-3. minimum time required for a particle to move between two points located at a distance of 10 [4M]
-
-cm on either side of the mean position?
-````
-
-## 2023-24 · Re-Exam · Sem 2 · paper 391669282aef
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 87.2
-
-````text
-SVKM’S NMIMS
-
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: BTech Integrated Year: I Semester: II
-Stream/s: All Streams
-
-Subject: Physics I Time: _3__ hrs (2:veputo S:eopws)
-Date:_26/ 6 / 2024 No. of Pages: 02
-Marks: 100
-
-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20M]
-CO -1; a. Draw the total energy, kinetic energy and potential energy as a function of time and as a [aM]
-BL-1 function of displacement.
-
-ol ; b, State any four assumptions of kinetic theory of gases. [4M]
-eons c. State Pascal’s law for fluid pressure.
-BL-12 Calculate the diameter of a cylindrical hydraulic ram if the maximum thrust exerted by the [4M]
-; ram is 50 N and the pressure of the liquid is 25 N/m?.
-ale 4 d. State Coulomb’s law and write its scalar and vector form. [4M]
-CO-1,2; e. Describe in brief Radioactive Decay?
-. oo, ‘ [4M]
-BL- 1 List the types of radioactive decay that occur in nature.
-Q2 [20M]
-a. Explain simple harmonic motion and derive the expressions for velocity and acceleration
-CO-1,2,3; fi es
-BL- 23 for SHM when a particle starts from any random position. [10M]
-CO-1.2: b. _ Explain periodic motion with examples and define time period, frequency and amplitude
-BL- 12 for a periodic motion. [6M]
-
-C023: c. A wire of diameter 0.4 cm is stretched by a load of 15 kg. If the extension produced is
-BL-3 , 0.2 cm, calculate how far would a wire of same length and material but half a diameter, be [4M]
-stretched by 20 kg mass?
---- page 2 ---
-[20M]
-CO-2,3; : . or
-
-BL3 a. _ Derive expression of pressure by using the concept of kinetic theory of gases. [10M]
-ge b. Interpret the ratio of specific heat capacity for a monoatomic gas. [6M]
-
-CO-2,3; c A wave travelling along a string is described by y(x,t) = 0. 005sin(80x -3t), in which the
-
-% 4 % 4
-
-BL- 3 numerical constants are in SI units. Calculate the wavelength and frequency of the wave. [4M]
-
-Q4 [20M]
-CO-1,3; a. Draw a neat labelled diagram explaining the relation between stress and strain for a solid Hom]
-BL-1,2 and discuss the key features in detail.
-b. Define electric dipole.
-Two charges +10 uC and - 10 C are placed 5 cm apart. Calculate the electric field at point
-
-CO-1,3; f 7 .
-
-BL-13 P on the axis of the dipole 2 m away from the centre of dipole. [6M]
-
-(& =8.85418782 x 10°? m kg" s* A”),
-
-C023: c. The liquid rises to a height of 2.25 cm in a capillary tube of a certain diameter, The surface
-BL. 3 "tension of the liquid is 6.45 x 10°? N/m, density of the liquid is 0.9 x 10° kg/m? and angle [4M]
-of contact is 2 degrees. Calculate the diameter of tube. (Take g= 9.8 m/s”)
-
-Q5 [20M]
-CO-1,3; a. Define electric charge and electric field lines. Hom}
-BL-1,2 Describe the basic properties of electric charge.
-
-b. A system has two charges qa=1.5x10C and qs=-1.5x107 C located at points
-CO-2,3; A:(0,0, —20 cm) and B:(0,0, +20 cm) respectively. Calculate the total charge, electric force [6M]
-BL- 3 acting on qp and electric dipole moment of the system.
-(0 =8.85418782 x 10°? m® kg" s* A”),
-
-CO-2,3; c. Calculate the (i) mass defect, (ii) binding energy and (iii) the binding energy per nucleon
-
-4M
-BL-3 for a *8C nucleus. Nuclear mass of %2C = 12.000000 a.m.u., Mass of hydrogen (aM)
-nucleus = 1.007825 a.m.u and mass of neutron = 1.008665 a.m.u.
-
-Q6 [20M]
-. ‘e a. Describe Rutherford’s scattering experiment? Draw the necessary diagram to explain. [10M]
-a “ b. State and prove Gauss theorem. [6M]
-a . ; c, Explain emission spectrum and absorption spectrum. [4M]
-
-Q7 [20M]
-
-a. _ Derive the expression of the coefficient of viscosity by Stoke’s method.
-CO-2,3; The terminal velocity of a copper ball of radius 2 mm falling through a tank of oil at room Hom}
-BL- 2,3 temperature is 6.5 cm/s. Compute the viscosity of the oil at room temperature. Density of
-oil is 1.5 x 10° kg/m? and density of copper is 8.9 x 10° kg/m, (Take ¢ = 9.8 m/s?)
-
-CO-1,2; b. | What is Nuclear Force? Write features of nuclear binding force. [6M]
-BL- 1,2 8
-
-c0-23: c. The acceleration due to gravity on the surface of moon is 1.7 m/s. Calculate the time
-BL-3. period of a simple pendulum on the surface of moon if its time period on the surface of [4M]
-
-earth is 5 s? (g on the surface of earth is 9.8 m/s’).
-````
-
-## 2023-24 · Re-Exam · Sem 2 · paper 1a2f77968d87
+## 2025-26 · Re-Exam · Sem 2 · paper 1a2f77968d87
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -351,7 +110,130 @@ BL- 2,3
 i
 ````
 
-## 2023-24 · Re-Exam · Sem 2 · paper b740026595e5
+## 2024-25 · Re-Exam · Sem 2 · paper e4df353b0dab
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2021-22,2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 86.9
+
+````text
+SVKM’S NMIMS \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN!
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+Program/s: BTech Integrated Year: I Semester: I
+Stream/s: All Streams /mecet/comp/xr/ps
+Subject: Physics II Time: 3 hrs (2:00pm to 5 00pm )
+Date:__28/ 4 / 25 No. of Pages: 03
+Marks: 100
+
+Re examination [2021-22/2022-23]
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _I____ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+3) In all__5_ questions to be attempted.
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+vy
+
+Qi Answer briefly: ‘ % [20M]
+a. a a. | Define stream line flow and list any four properties of it. . [4M]
+a i b. | State any four assumptions of kinetic theory of gases. : [4M]
+a \ °- | Define wave motion, wave velocity, wavelength, and time period of a wave. [4M]
+= \ d. | State Coulomb’s law and write its scalar and vector form. [4M]
+CO-1, | 6. | State Kirchhoff's laws with example. [4M]
+BL- 1
+
+Q2 [20M]
+CO-2; | a. | Discuss stress strain curve in detail for a solid with the help of neat labelled diagram.
+
+[10M]
+BL- 2,3
+“~ b.
+BL- 1 Explain the concept of surface tension and define capillary action and angle of contact. [6M]
+3
+co. |¢& Equal masses of air are sealed in two vessels, one of volume Vo and the other of volume
+3. 2Vo. If the first vessel is maintained at a temperature 300 K and the other at 600 K, find 4M
+BL- 3 the ratio of the pressures in the two vessels. [4M]
+--- page 2 ---
+Q3 [20M]
+
+CO-3; Derive the Expression for pressure exerted by a gas using kinetic theory of gases. ,
+BL-2,3 |“ [10M]
+CO-1; | b. ; . ; . :
+BL-1 State Boyle’s law, Charles’s law and Avogadro’s law for an ideal gas. [6M]
+co. | & A metallic wire is subjected to a tensile stress of 20x10° N/mm?, producing a tensile
+23: strain of 0.005. Determine the Young’s modulus of elasticity. [4M]
+BL-3
+Q4 [20M]
+
+CO-3; | a. | Derive the expression for displacement and velocity for simple harmonic motion when [10M]
+BL-2,3 particle starts from mean position.
+
+b. | Define electric dipole.
+If a dipole of charge strength 5 Nano coulomb with separation of 5 cm is kept at the
+
+“S positive X axis, calculate the electric field’strength at point 2 m away from the centre of [6M]
+BL.1 3 dipole on X axis. (& =8.85418782 x 10°? m? kg" s* A’).
+co-3: | ° In a resonant column experiment, resonance occurs at L=25.5 cm for a resonating tube
+BL- 3 of diameter 3.0 cm. If the tuning fork used has a frequency of 300 Hz, find the velocity [4M]
+
+of sound in air at room temperature.
+
+Q5 ; . [20]
+CO-1; | a. | Define electric charge and electric field. Hom]
+BL-2 Describe the basic properties of electric charge and characteristics of electric field lines.
+
+b. | Two charges of magnitude q1=+6 micro-Coulombs and q2= -4 micro-coulomb are place
+
+CO-3: at coordinates (232) and (121). Calculate magnitude of force exerted by charge q1 on
+
+BL- 3 charge q2. Also mention the type of force between them. [6M]
+
+CO-1; : .
+
+BL-1 | ° Define electric power and electric energy. [4M]
+O06 (20M)
+“a a. | Derive expression for total or equivalent resistance of two resistors connected in series [OM]
+BL-3 and connected in parallel.
+
+CO-1; Applying Gauss’s law, determine the intensity of electric field due to an infinite charged
+BL- 3 bs wire ani
+
+CO- | , | Find the resistance of 800 meters of an aluminum wire with a cross-sectional area of 50
+233 * | mm?2. The resistivity of aluminum is 0.02857 ohm per meter length and 1 mm? cross- | [4M]
+BL-3 section.
+--- page 3 ---
+[20]
+
+Q.7
+, Derive the expression of the coefficient of viscosity by Stoke’s method.
+CO-2, . : i ; , .
+3: Calculate the viscous force on raindrop of diameter 4 mm falling with a constant velocity [10M]
+, of 4 m/s through air. Coefficient of viscosity of air is 1.8 10% poise.
+BL- 2,3 _ 2
+(Take g = 9.8 m/s”)
+CO-2, Compare Transverse wave and longitudinal wave and any four differences between them
+a with diagram [6M]
+BL- 1,2
+CO-1; Define Cohesive and adhesive forces and illustrate with exarnples [4M]
+BL- 1
+
+rey
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper b740026595e5
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -467,7 +349,7 @@ BL- 3 ° time period on the surface of Mars, where the acceleration’ due to gr
 (Take (g = 9.8 m/s” on surface of earth).
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 2 · paper 861c55c98888
+## 2023-24 · Final + Re-Exam · Sem 2 · paper 861c55c98888
 
 - Departments: Common (all branches)
 - Programmes: B TECH
@@ -580,6 +462,246 @@ BL-3.4. coincides with (n + 1)th dark ring for 22. If the radius of curvature of
 > surface is 90 cm, calculate the diameter of nth dark ring.
 ini & | What i lasma and why Plasma is defined as a quasi-neutral gas?
 BL-1,2 sp y ma i e qu e gas? [4]
+````
+
+## 2023-24 · Final-Exam · Sem 2 · paper 04c465dd5511
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2023-24 Final.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 88.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+¥
+
+Program/s: BTech Integrated Year: I Semester: II
+
+Stream/s: All Streams
+Subject: Physics I Time: 03 _ hrs (40. cum to i-pm )
+
+Date:_23 / 04 / 2024 No. of Pages:-02\\ sf
+Marks: 100 ;
+
+Final Examination Us|
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover,
+of the Answer Book, which is provided for their use. 4
+
+> 1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4__ questions.
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20M]
+
+aan 7 a. Define Frequency, Amplitude, Wave number and Time period for a wave. [4M]
+
+re 7 >, Define Degrees of freedom and write its value for mono atomic gas and diatomic gas. [4M]
+cor © Define Bulk Modulus of elasticity.
+ir Calculate the bulk modulus of a body that experiences a change of pressure of 5 x 10*N/m? [4M]
+
+BL- 1,2 ; E ;
+when its volume goes from 4 cm” to 3.9 cm”?
+
+ia a : qd. Describe any two properties of electric charge. [4M]
+CO-1.2; €. Explain atomic spectra? Differentiate between emission spectrum and absorption spectrum. [4M]
+BL- 1,2 P P P
+Q2 [20M]
+co- a. Define simple harmonic motion and derive the expressions to calculate displacement at any
+1,23; instant of time and velocity for SHM when a particle starts from any random position. [10M]
+BL- 2,3
+oie Explain the energy in simple harmonic motion. Write the expressions for kinetic energy,
+BL-1.2 potential energy and total energy for simple harmonic motion. [6M]
+
+_¢, Evaluate the terminal velocity (in SI units) with which an air bubble of radius 0.1 cm rise
+a through water? Given that the coefficient of viscosity of water is 10? poise and density of [4M]
+water is 1000 kg/m? (Take g = 9.8 m/s’ and neglect the density of air bubble).
+--- page 2 ---
+Q3 [20M]
+
+*
+C0-2,3: a. __ State any five assumptions of kinetic theory of gases. Derive the relation of Kinetic-energy [10M]
+
+BL-2,3 with temperature and give its physical interpretation.
+ae b. Interpret and find the ratio of specific heat capacity for diatomic gas. [6M]
+
+c. The acceleration due to gravity on the surface of moon is 1.7 m/s’. Calculate the time period
+
+teh of a simple pendulum on the surface of moon if its time period on the surface of earth is 5s? [4M]
+(g on the surface of earth is 9.8 m/s’).
+04 [20M]
+cos, State Hooke’s law and hence explain modulus of elasticity.
+BL-1.2 Explain Young’s Modulus of Elasticity and Modulus of rigidity in detail and write their [10M]
+expressions.
+b. State Gauss’s law.
+CO-1,3: An infinite line charge produces a field of 9 x.10* N/C at a distance of 2 cm. Calculate the [6M]
+BL-1,3 linear charge density. (E> =8.85418782 x 10°" m® kg" s* A’).
+c. Two syringes of different cross sections (without needles) filled with water are connected
+CO-2,3; with a tightly fitted rubber tube filled with water. Diameters of the smaller piston and larger [4M]
+BL- 3 piston are 2 cm and 4 cm respectively. Find the force exerted on the larger piston when a force
+of 20 N is applied to the smaller piston.
+Q5
+CO-1,3; 4 State Coulomb’s law and write its mathematical form. Explain electric field, electric flux
+BL-1,2 d electric dipole [0M]
+and electric dipole.
+b. A system has two charges qa = 2.5x10C and qzp = —2.5x10°C located at points
+CO-2,3; A:(0,0, ~15em) and B:(0,0, +15cm) respectively. Calculate the total charge, electric force [6M]
+BL-3 acting on qp and electric dipole moment of the system.
+bee c. | What is Radioactive Decay? Mention types of radioactive decay that occur in nature. [4M]
+Q6 [20M]
+cow: ® Draw the plot of binding energy per nucleon as a function of mass number. Write the
+BL-1.2 observations and important conclusions that can be drawn regarding the nature of nuclear [10M]
+source.
+CO-1.25 b. Applying Gauss’s law, determine the intensity of electric field due to an infinite charged [6M]
+BL- 1, wire.
+66931 c. Calculate the (i) mass defect, (ii) binding energy and (iii) the binding energy per nucleon for
+BL-23 a 12C nucleus. Nuclear mass of ‘ZC = 12.000000 a.m.u. [4M]
+Mass of hydrogen nucleus = 1.007825 a.m. u and mass of neutron = 1.008665 a.m. u.
+Q7 [20M]
+a. _ Derive the expression for surface tension by the capillary rise method.
+CO-2,3; Calculate the density of paraffin oil, if glass capillary of diameter 0.25 mm dipped ina HOM]
+BL- 2,3 paraffin oil of the surface tension 0.0245 N/m rises to a height of 4 cm. Angle of contact of
+paraffin oil with glass is 28 degrees. (Take g = 9.8m/s’).
+ke b. | Write the postulates given by Bohr's model of the hydrogen atom? [6M]
+co23. A particle executes S.H.M. of amplitude 20 cm and time period 5 seconds. Calculate the
+BL-3. minimum time required for a particle to move between two points located at a distance of 10 [4M]
+
+cm on either side of the mean position?
+````
+
+## 2023-24 · Re-Exam · Sem 2 · paper 391669282aef
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 87.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: BTech Integrated Year: I Semester: II
+Stream/s: All Streams
+
+Subject: Physics I Time: _3__ hrs (2:veputo S:eopws)
+Date:_26/ 6 / 2024 No. of Pages: 02
+Marks: 100
+
+Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20M]
+CO -1; a. Draw the total energy, kinetic energy and potential energy as a function of time and as a [aM]
+BL-1 function of displacement.
+
+ol ; b, State any four assumptions of kinetic theory of gases. [4M]
+eons c. State Pascal’s law for fluid pressure.
+BL-12 Calculate the diameter of a cylindrical hydraulic ram if the maximum thrust exerted by the [4M]
+; ram is 50 N and the pressure of the liquid is 25 N/m?.
+ale 4 d. State Coulomb’s law and write its scalar and vector form. [4M]
+CO-1,2; e. Describe in brief Radioactive Decay?
+. oo, ‘ [4M]
+BL- 1 List the types of radioactive decay that occur in nature.
+Q2 [20M]
+a. Explain simple harmonic motion and derive the expressions for velocity and acceleration
+CO-1,2,3; fi es
+BL- 23 for SHM when a particle starts from any random position. [10M]
+CO-1.2: b. _ Explain periodic motion with examples and define time period, frequency and amplitude
+BL- 12 for a periodic motion. [6M]
+
+C023: c. A wire of diameter 0.4 cm is stretched by a load of 15 kg. If the extension produced is
+BL-3 , 0.2 cm, calculate how far would a wire of same length and material but half a diameter, be [4M]
+stretched by 20 kg mass?
+--- page 2 ---
+[20M]
+CO-2,3; : . or
+
+BL3 a. _ Derive expression of pressure by using the concept of kinetic theory of gases. [10M]
+ge b. Interpret the ratio of specific heat capacity for a monoatomic gas. [6M]
+
+CO-2,3; c A wave travelling along a string is described by y(x,t) = 0. 005sin(80x -3t), in which the
+
+% 4 % 4
+
+BL- 3 numerical constants are in SI units. Calculate the wavelength and frequency of the wave. [4M]
+
+Q4 [20M]
+CO-1,3; a. Draw a neat labelled diagram explaining the relation between stress and strain for a solid Hom]
+BL-1,2 and discuss the key features in detail.
+b. Define electric dipole.
+Two charges +10 uC and - 10 C are placed 5 cm apart. Calculate the electric field at point
+
+CO-1,3; f 7 .
+
+BL-13 P on the axis of the dipole 2 m away from the centre of dipole. [6M]
+
+
+C023: c. The liquid rises to a height of 2.25 cm in a capillary tube of a certain diameter, The surface
+BL. 3 "tension of the liquid is 6.45 x 10°? N/m, density of the liquid is 0.9 x 10° kg/m? and angle [4M]
+of contact is 2 degrees. Calculate the diameter of tube. (Take g= 9.8 m/s”)
+
+Q5 [20M]
+CO-1,3; a. Define electric charge and electric field lines. Hom}
+BL-1,2 Describe the basic properties of electric charge.
+
+b. A system has two charges qa=1.5x10C and qs=-1.5x107 C located at points
+CO-2,3; A:(0,0, —20 cm) and B:(0,0, +20 cm) respectively. Calculate the total charge, electric force [6M]
+BL- 3 acting on qp and electric dipole moment of the system.
+
+CO-2,3; c. Calculate the (i) mass defect, (ii) binding energy and (iii) the binding energy per nucleon
+
+4M
+BL-3 for a *8C nucleus. Nuclear mass of %2C = 12.000000 a.m.u., Mass of hydrogen (aM)
+nucleus = 1.007825 a.m.u and mass of neutron = 1.008665 a.m.u.
+
+Q6 [20M]
+. ‘e a. Describe Rutherford’s scattering experiment? Draw the necessary diagram to explain. [10M]
+a “ b. State and prove Gauss theorem. [6M]
+a . ; c, Explain emission spectrum and absorption spectrum. [4M]
+
+Q7 [20M]
+
+a. _ Derive the expression of the coefficient of viscosity by Stoke’s method.
+CO-2,3; The terminal velocity of a copper ball of radius 2 mm falling through a tank of oil at room Hom}
+BL- 2,3 temperature is 6.5 cm/s. Compute the viscosity of the oil at room temperature. Density of
+oil is 1.5 x 10° kg/m? and density of copper is 8.9 x 10° kg/m, (Take ¢ = 9.8 m/s?)
+
+CO-1,2; b. | What is Nuclear Force? Write features of nuclear binding force. [6M]
+BL- 1,2 8
+
+c0-23: c. The acceleration due to gravity on the surface of moon is 1.7 m/s. Calculate the time
+BL-3. period of a simple pendulum on the surface of moon if its time period on the surface of [4M]
+
+earth is 5 s? (g on the surface of earth is 9.8 m/s’).
 ````
 
 ## 2022-23 · Final-Exam · Sem 2 · paper a857515edd2e
@@ -948,258 +1070,7 @@ We have four resistors A, B, C and D of resistance 4 Q, 8 Q, 12 Q and 24 Q, resp
 Calculate highest resistance which can be obtained by combining these four resistors. [4]
 ````
 
-## 2022-23 · Re-Exam · Sem 2 · paper e4df353b0dab
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2021-22,2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 86.9
-
-````text
-SVKM’S NMIMS \
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN!
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-Program/s: BTech Integrated Year: I Semester: I
-Stream/s: All Streams /mecet/comp/xr/ps
-Subject: Physics II Time: 3 hrs (2:00pm to 5 00pm )
-Date:__28/ 4 / 25 No. of Pages: 03
-Marks: 100
-
-Re examination [2021-22/2022-23]
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _I____ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-3) In all__5_ questions to be attempted.
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-vy
-
-Qi Answer briefly: ‘ % [20M]
-a. a a. | Define stream line flow and list any four properties of it. . [4M]
-a i b. | State any four assumptions of kinetic theory of gases. : [4M]
-a \ °- | Define wave motion, wave velocity, wavelength, and time period of a wave. [4M]
-= \ d. | State Coulomb’s law and write its scalar and vector form. [4M]
-CO-1, | 6. | State Kirchhoff's laws with example. [4M]
-BL- 1
-
-Q2 [20M]
-CO-2; | a. | Discuss stress strain curve in detail for a solid with the help of neat labelled diagram.
-
-[10M]
-BL- 2,3
-“~ b.
-BL- 1 Explain the concept of surface tension and define capillary action and angle of contact. [6M]
-3
-co. |¢& Equal masses of air are sealed in two vessels, one of volume Vo and the other of volume
-3. 2Vo. If the first vessel is maintained at a temperature 300 K and the other at 600 K, find 4M
-BL- 3 the ratio of the pressures in the two vessels. [4M]
---- page 2 ---
-Q3 [20M]
-
-CO-3; Derive the Expression for pressure exerted by a gas using kinetic theory of gases. ,
-BL-2,3 |“ [10M]
-CO-1; | b. ; . ; . :
-BL-1 State Boyle’s law, Charles’s law and Avogadro’s law for an ideal gas. [6M]
-co. | & A metallic wire is subjected to a tensile stress of 20x10° N/mm?, producing a tensile
-23: strain of 0.005. Determine the Young’s modulus of elasticity. [4M]
-BL-3
-Q4 [20M]
-
-CO-3; | a. | Derive the expression for displacement and velocity for simple harmonic motion when [10M]
-BL-2,3 particle starts from mean position.
-
-b. | Define electric dipole.
-If a dipole of charge strength 5 Nano coulomb with separation of 5 cm is kept at the
-
-“S positive X axis, calculate the electric field’strength at point 2 m away from the centre of [6M]
-BL.1 3 dipole on X axis. (& =8.85418782 x 10°? m? kg" s* A’).
-co-3: | ° In a resonant column experiment, resonance occurs at L=25.5 cm for a resonating tube
-BL- 3 of diameter 3.0 cm. If the tuning fork used has a frequency of 300 Hz, find the velocity [4M]
-
-of sound in air at room temperature.
-
-Q5 ; . [20]
-CO-1; | a. | Define electric charge and electric field. Hom]
-BL-2 Describe the basic properties of electric charge and characteristics of electric field lines.
-
-b. | Two charges of magnitude q1=+6 micro-Coulombs and q2= -4 micro-coulomb are place
-
-CO-3: at coordinates (232) and (121). Calculate magnitude of force exerted by charge q1 on
-
-BL- 3 charge q2. Also mention the type of force between them. [6M]
-
-CO-1; : .
-
-BL-1 | ° Define electric power and electric energy. [4M]
-O06 (20M)
-“a a. | Derive expression for total or equivalent resistance of two resistors connected in series [OM]
-BL-3 and connected in parallel.
-
-CO-1; Applying Gauss’s law, determine the intensity of electric field due to an infinite charged
-BL- 3 bs wire ani
-
-CO- | , | Find the resistance of 800 meters of an aluminum wire with a cross-sectional area of 50
-233 * | mm?2. The resistivity of aluminum is 0.02857 ohm per meter length and 1 mm? cross- | [4M]
-BL-3 section.
---- page 3 ---
-[20]
-
-Q.7
-, Derive the expression of the coefficient of viscosity by Stoke’s method.
-CO-2, . : i ; , .
-3: Calculate the viscous force on raindrop of diameter 4 mm falling with a constant velocity [10M]
-, of 4 m/s through air. Coefficient of viscosity of air is 1.8 10% poise.
-BL- 2,3 _ 2
-(Take g = 9.8 m/s”)
-CO-2, Compare Transverse wave and longitudinal wave and any four differences between them
-a with diagram [6M]
-BL- 1,2
-CO-1; Define Cohesive and adhesive forces and illustrate with exarnples [4M]
-BL- 1
-
-rey
-````
-
-## 2022-23 · Re-Exam · Sem 2 · paper 8f0ea06983ab
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2022-23 Re Exam0001.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 88.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2022-2023
-Program/s: B. Tech after 10
-
-Year: 1-Senresh
-Stream/s: All Streams <
-
-(ESS ids
-Subject: Physics-II Time: 3 _ hrs ((ozo0mto 4:09pm)
-Date: 27/ ¢ /2023 No. of Pages: 2_ |
-Marks: 100 \
-
-‘ j
-Ve fi
-
-Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and onthe: cover Of the
-Answer Book, which is provided for their use.
-
-1) Question No. 1 _ is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-o Answer briefly: [20]
-CO-3 a. | A rod subjected tensile stress is 15.92 x 10° N/m? and tensile strain is 0.01, identify young 4
-SO-1;BL-2 modulus of elasticity.
-
-SOBA 7 Estimate the volume of 1 mole of an ideal gas at STP. 4
-CO-3 8. . 25 32 :
-
-S0-1:BL-1 Describe Free and forced oscillations. Write one example of each. 4
-CO-1,3 d. | Define an electric charge. 4
-SO-1;BL-1 State Gauss’s law, write its mathematical form.
-
-CO-1 e. | Describe current. 4
-SO-1;BL-1 State Ohm’s law and write its formula.
-
-Q2 [20]
-CQ-2 a. . : ' . . : ,
-
-SO-1: Define Tension force and derive surface tension relation using capillary rise method. What [10]
-BLL, 3 will be the surface tension if the liquid completely wets the capillary walls.
-
-CO-1,3; b. Derive the equation of state of a perfect gas. [6]
-SO-1; The average translational kinetic energy of air molecules is 0.050 eV (1 eV=1.6 x 10°'9 J).
-
-BL-2 Estimate the temperature of the air. Boltzmann constant k = 1.38 x 10 J K7!. [4]
-Q3 [20]
-
-a. | Express Doppler effect? Mention the frequency when (i) Source Moving Towards the
-
-CO-1,3; Observer at Rest (ii) Observer Moving Towards a Stationary Source. [6]
-SO-1; BL-
-
-1,2
-
-> Identify, which of the following relations between acceleration and displacement of a particle | [4]
-involve SHM? (i)a=-2x*   (ii)a=-5x
---- page 2 ---
-;
-
-b. | Acquire the expression for electric field due to dipole when point of observation is there on
-
-CO-1,3; the axis. eo (6]
-SO-1;
-BL-1,2 A positive charge of 5 1C is 4 cm from the second charge of 2 1C. Estimate the force between
-the charges. (k = 9 x 10° N.m?/ C?) (4)
-Q4 [20]
-CO-1; SO- | a. | Derive relation between drift velocity and electric current.
-[10]
-1; BL-3
-b. | Review the various points on stress-strain curve. [6]
-CO-2,3;
-SO-1; Assuming the Reynold’s number to be 1000, estimate the critical velocity for glycerin in the
-BL-1,2 pipe of diameter 2 cm. Density and viscosity of glycerin are 1.36 x 10° kg/m? and 0.85 Ns.m? [4]
-respectively.
-Qs [20]
-CO-1,3: a. Applying Gauss’s law, determine the intensity of electric field due to an infinite long charged [6]
-SO-1: wire.
-Bistet Can a charge of 8 x 10°" C be given to a body? Explain the reason.. 4]
-CO-1,3: b. Discuss and find the total or equivalent resistance of three resistors R1, R2 and R3 connected [6]
-SO-1: in series.
-Br 2 If the resistance of an electric iron is 50 kQ and a current of 3.2 mA flows through the [4]
-> resistance. Compute the voltage between two points.
-Q6 [20]
-co-1:so- | * Deduce the relation between average kinetic energy of a molecule and absolute temperature [6]
-1: ; of the gas.
-BL-1,2 Outline four assumptions of Kinetic theory of gases? [4]
-CO-1; SO-; | b. | Express simple harmonic motion and derive the expression to calculate displacement at any [10]
-BL-1,3 instant of time and velocity for SHM when a particles starts from mean position.
-Q7 [20]
-a. | Define heat and write its SI Unit. Explain Stream line flow and turbulent flow with any two
-CO-2,3; differences. Give one example of each. [6]
-SO-1; A glass of water (1L) has height 10 cm, base area 10 cm? and top area 30 cm’, density of
-BL-1,2 water is 1000 kg/m’. Find the force on the bottom of the glass. (Po = atmospheric pressure | [4]
-
-= 1.01 x 10° N/m?)
-
-b. | Describe Dipole moment and write its formula.
-
-[2]
-CO-1,3; The periodic time of a body executing SHM in 2 s. After how much interval from time t = 0 [4]
-SO-1; will it displacement be equal to its amplitude.
-BL-1,2
-A wire of length 3 m and area of cross-section 1.7 x 10° m? has a resistance 3 x 10° Q. (4)
-
-Calculate the resistivity of the wire.
-````
-
-## 2021-22 · Re-Exam · Sem 2 · paper d5aea01510d1
+## 2022-23 · Re-Exam · Sem 2 · paper d5aea01510d1
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -1329,6 +1200,246 @@ cols 3. Effect of dielectric on working of capacitors [20]
 
 4. Three differences between Forced oscillator and free oscillator and one example of each
 5. Resonance of waves and state formula to calculate velocity of sound
+````
+
+## 2022-23 · Re-Exam · Sem 2 · paper b740e34a18cb
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2021-22 Re Exam0002.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.9
+
+````text
+SVKM’S NMIMS . .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2022-2023 MOA oe
+Program: B. tech after 10" Stream : All stream yard Semester: II
+Subject: Physics II Time: 3 hrs (10:00am to 1:00 pm)
+Date:_2 June/ 2023 _. No.'of Pages: 2
+Marks: 100 c
+
+Re-Examination (2021-2022)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+SO. ; > | | State and explain Boyle’s law with its mathematical form. List the limitation of it for defining 4
+BL-l. the gas behavior.
+CO-1; | b.
+SO-1; Define turbulent flow and give any four characteristics of it with one appropriate example . 4
+BL-1
+oa : > | & | State coulomb’s law and write the vector and scalar form of coulomb’s law. 4
+BL-1_ Define electric potential and electric field. with its mathematical form.
+
+© [con [a
+SO- 1; List the any three properties of stationary waves also give one example of stationary waves. 4
+BL-1
+CO-1; |e.
+SO-1; Define electric current and list the types of electric current and any explain its type in brief? 4
+BL-1
+Q2 Attempt all [20]
+
+a. | Define surface tension and state its mathematical form. Derive the expression for surface
+Cco- 1; tension by capillary rise method. 6
+SO- 2;
+BL-1 Calculate the horizontal force required to move a metal plate of area 2 x 10° m? witha 4
+velocity of 4.5 x 107 ms" when it rests on a layer of oil 1.5x 10° m thick. 1 = 2 Nsm?.
+
+602s b. | Derive the expression the pressure depth relation for liquids. 6
+80-2; , ;
+BL-1.2 Calculate the volume occupied by 0.672 mole of oxygen at 27° C and having a pressure of 4
+
+0.933 bar.
+--- page 2 ---
+Q3 Attempt all : gar, [20]
+
+a. .
+Define the following terms with their respective units and dimensions: - tensile stress, | 4
+CO-2; Young’s modulus, modulus of rigidity, and bulk modulus of a solid.
+SO- 3;
+BL-1,2 Two wire A and B are of the same material. Their lengths are in the ratio of 1:2 and the diameter are in | 6
+the ratio 2:1. Find the ratio of their increase length if they are pulled by the same force.
+b. | Define wave motion, wavelength, frequency, and amplitude of a wave. i
+Co-1;
+SO- 2; A particle executes S.H.M. of amplitude 25 cm. and time period of 3 seconds. What is the
+BL-1 minimum time required for a particle to move between two points located at 12.5 cm on either | ¢
+side of the mean position?
+Q4 Atiempt ali [20]
+pink 4. | Derive the expression for displacement, velocity for simple harmonic motion. Discuss the 10
+BL-2 conditions needed for maximum and minimum velocity.
+CO:35 b. State the definition of electric flux and Gauss’s law of electrostatics.
+SO-; ; : : 10
+BL-1 Derive the expression for electric field due to Uniformly charged sphere.
+Qs Attempt all [20]
+a.
+Gok: Define electric potential and electric field. with its mathematical form. 4
+80-1; ;
+BL-13 If a dipole of charge strength 6 Nano coulomb with separation of 6 cm is kept at the +ive X | ¢
+, axis, calculate the electric field strength at point 2 m away from the center of dipole on X axis.
+Co- b. | Define following terms and mention units used for measurements A) Electric power B) | 6
+1,4; Electrical energy C) Resistivity D) Conductance
+SO-1; Calculate the resistance of a metal wire of length 2m and area of cross-section 1.55x 10—6m2 , if the
+BL-1 resistivity of the metal be 2.8x 10-8 Qm? 4
+Q6 Attempt All [20]
+CO-1;
+SO-11; Derive expression for total or equivalent resistance of three resistors connected in parallel. 6
+BL-2 We have three resistors A ,B ,C and D of resistance 5 ohm,10 ohm,12 ohm and 14 ohm
+respectively? Calculate highest resistance which can be obtained by combining these three
+resistors. 4
+Q.7 Attempt All [20]
+Explain the following in details with proper diagram, examples or mathematical form
+Cou (whatever applicable)
+1 1. Thermal expansion and state its types ,
+SO-11; ; ; ; . 5x4
+BL-2 2. Effect of dielectric on working of capacitors =90
+
+3. Transverse wave and longitudinal wave (any four differences)
+4. Concept of resonance in waves and state its formula
+5. What are capacitors? By how many ways capacitor can be connected in a circuit.
+````
+
+## 2022-23 · Re-Exam · Sem 2 · paper 8f0ea06983ab
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2022-23 Re Exam0001.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 88.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2022-2023
+Program/s: B. Tech after 10
+
+Year: 1-Senresh
+Stream/s: All Streams <
+
+(ESS ids
+Subject: Physics-II Time: 3 _ hrs ((ozo0mto 4:09pm)
+Date: 27/ ¢ /2023 No. of Pages: 2_ |
+Marks: 100 \
+
+‘ j
+Ve fi
+
+Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and onthe: cover Of the
+Answer Book, which is provided for their use.
+
+1) Question No. 1 _ is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+o Answer briefly: [20]
+CO-3 a. | A rod subjected tensile stress is 15.92 x 10° N/m? and tensile strain is 0.01, identify young 4
+SO-1;BL-2 modulus of elasticity.
+
+SOBA 7 Estimate the volume of 1 mole of an ideal gas at STP. 4
+CO-3 8. . 25 32 :
+
+S0-1:BL-1 Describe Free and forced oscillations. Write one example of each. 4
+CO-1,3 d. | Define an electric charge. 4
+SO-1;BL-1 State Gauss’s law, write its mathematical form.
+
+CO-1 e. | Describe current. 4
+SO-1;BL-1 State Ohm’s law and write its formula.
+
+Q2 [20]
+CQ-2 a. . : ' . . : ,
+
+SO-1: Define Tension force and derive surface tension relation using capillary rise method. What [10]
+BLL, 3 will be the surface tension if the liquid completely wets the capillary walls.
+
+CO-1,3; b. Derive the equation of state of a perfect gas. [6]
+SO-1; The average translational kinetic energy of air molecules is 0.050 eV (1 eV=1.6 x 10°'9 J).
+
+BL-2 Estimate the temperature of the air. Boltzmann constant k = 1.38 x 10 J K7!. [4]
+Q3 [20]
+
+a. | Express Doppler effect? Mention the frequency when (i) Source Moving Towards the
+
+CO-1,3; Observer at Rest (ii) Observer Moving Towards a Stationary Source. [6]
+SO-1; BL-
+
+1,2
+
+> Identify, which of the following relations between acceleration and displacement of a particle | [4]
+involve SHM? (i)a=-2x*   (ii)a=-5x
+--- page 2 ---
+;
+
+b. | Acquire the expression for electric field due to dipole when point of observation is there on
+
+CO-1,3; the axis. eo (6]
+SO-1;
+BL-1,2 A positive charge of 5 1C is 4 cm from the second charge of 2 1C. Estimate the force between
+the charges. (k = 9 x 10° N.m?/ C?) (4)
+Q4 [20]
+CO-1; SO- | a. | Derive relation between drift velocity and electric current.
+[10]
+1; BL-3
+b. | Review the various points on stress-strain curve. [6]
+CO-2,3;
+SO-1; Assuming the Reynold’s number to be 1000, estimate the critical velocity for glycerin in the
+BL-1,2 pipe of diameter 2 cm. Density and viscosity of glycerin are 1.36 x 10° kg/m? and 0.85 Ns.m? [4]
+respectively.
+Qs [20]
+CO-1,3: a. Applying Gauss’s law, determine the intensity of electric field due to an infinite long charged [6]
+SO-1: wire.
+Bistet Can a charge of 8 x 10°" C be given to a body? Explain the reason.. 4]
+CO-1,3: b. Discuss and find the total or equivalent resistance of three resistors R1, R2 and R3 connected [6]
+SO-1: in series.
+Br 2 If the resistance of an electric iron is 50 kQ and a current of 3.2 mA flows through the [4]
+> resistance. Compute the voltage between two points.
+Q6 [20]
+co-1:so- | * Deduce the relation between average kinetic energy of a molecule and absolute temperature [6]
+1: ; of the gas.
+BL-1,2 Outline four assumptions of Kinetic theory of gases? [4]
+CO-1; SO-; | b. | Express simple harmonic motion and derive the expression to calculate displacement at any [10]
+BL-1,3 instant of time and velocity for SHM when a particles starts from mean position.
+Q7 [20]
+a. | Define heat and write its SI Unit. Explain Stream line flow and turbulent flow with any two
+CO-2,3; differences. Give one example of each. [6]
+SO-1; A glass of water (1L) has height 10 cm, base area 10 cm? and top area 30 cm’, density of
+BL-1,2 water is 1000 kg/m’. Find the force on the bottom of the glass. (Po = atmospheric pressure | [4]
+
+= 1.01 x 10° N/m?)
+
+b. | Describe Dipole moment and write its formula.
+
+[2]
+CO-1,3; The periodic time of a body executing SHM in 2 s. After how much interval from time t = 0 [4]
+SO-1; will it displacement be equal to its amplitude.
+BL-1,2
+A wire of length 3 m and area of cross-section 1.7 x 10° m? has a resistance 3 x 10° Q. (4)
+
+Calculate the resistivity of the wire.
 ````
 
 ## 2021-22 · Re-Exam · Sem 2 · paper 5ccc08afe85a
@@ -1487,118 +1598,6 @@ BL-2 3. Forced oscillator and free oscillator =10
 4. Concept of resonance in waves and state its formula
 ````
 
-## 2021-22 · Re-Exam · Sem 2 · paper b740e34a18cb
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2021-22 Re Exam0002.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.9
-
-````text
-SVKM’S NMIMS . .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2022-2023 MOA oe
-Program: B. tech after 10" Stream : All stream yard Semester: II
-Subject: Physics II Time: 3 hrs (10:00am to 1:00 pm)
-Date:_2 June/ 2023 _. No.'of Pages: 2
-Marks: 100 c
-
-Re-Examination (2021-2022)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-SO. ; > | | State and explain Boyle’s law with its mathematical form. List the limitation of it for defining 4
-BL-l. the gas behavior.
-CO-1; | b.
-SO-1; Define turbulent flow and give any four characteristics of it with one appropriate example . 4
-BL-1
-oa : > | & | State coulomb’s law and write the vector and scalar form of coulomb’s law. 4
-BL-1_ Define electric potential and electric field. with its mathematical form.
-
-© [con [a
-SO- 1; List the any three properties of stationary waves also give one example of stationary waves. 4
-BL-1
-CO-1; |e.
-SO-1; Define electric current and list the types of electric current and any explain its type in brief? 4
-BL-1
-Q2 Attempt all [20]
-
-a. | Define surface tension and state its mathematical form. Derive the expression for surface
-Cco- 1; tension by capillary rise method. 6
-SO- 2;
-BL-1 Calculate the horizontal force required to move a metal plate of area 2 x 10° m? witha 4
-velocity of 4.5 x 107 ms" when it rests on a layer of oil 1.5x 10° m thick. 1 = 2 Nsm?.
-
-602s b. | Derive the expression the pressure depth relation for liquids. 6
-80-2; , ;
-BL-1.2 Calculate the volume occupied by 0.672 mole of oxygen at 27° C and having a pressure of 4
-
-0.933 bar.
---- page 2 ---
-Q3 Attempt all : gar, [20]
-
-a. .
-Define the following terms with their respective units and dimensions: - tensile stress, | 4
-CO-2; Young’s modulus, modulus of rigidity, and bulk modulus of a solid.
-SO- 3;
-BL-1,2 Two wire A and B are of the same material. Their lengths are in the ratio of 1:2 and the diameter are in | 6
-the ratio 2:1. Find the ratio of their increase length if they are pulled by the same force.
-b. | Define wave motion, wavelength, frequency, and amplitude of a wave. i
-Co-1;
-SO- 2; A particle executes S.H.M. of amplitude 25 cm. and time period of 3 seconds. What is the
-BL-1 minimum time required for a particle to move between two points located at 12.5 cm on either | ¢
-side of the mean position?
-Q4 Atiempt ali [20]
-pink 4. | Derive the expression for displacement, velocity for simple harmonic motion. Discuss the 10
-BL-2 conditions needed for maximum and minimum velocity.
-CO:35 b. State the definition of electric flux and Gauss’s law of electrostatics.
-SO-; ; : : 10
-BL-1 Derive the expression for electric field due to Uniformly charged sphere.
-Qs Attempt all [20]
-a.
-Gok: Define electric potential and electric field. with its mathematical form. 4
-80-1; ;
-BL-13 If a dipole of charge strength 6 Nano coulomb with separation of 6 cm is kept at the +ive X | ¢
-, axis, calculate the electric field strength at point 2 m away from the center of dipole on X axis.
-Co- b. | Define following terms and mention units used for measurements A) Electric power B) | 6
-1,4; Electrical energy C) Resistivity D) Conductance
-SO-1; Calculate the resistance of a metal wire of length 2m and area of cross-section 1.55x 10—6m2 , if the
-BL-1 resistivity of the metal be 2.8x 10-8 Qm? 4
-Q6 Attempt All [20]
-CO-1;
-SO-11; Derive expression for total or equivalent resistance of three resistors connected in parallel. 6
-BL-2 We have three resistors A ,B ,C and D of resistance 5 ohm,10 ohm,12 ohm and 14 ohm
-respectively? Calculate highest resistance which can be obtained by combining these three
-resistors. 4
-Q.7 Attempt All [20]
-Explain the following in details with proper diagram, examples or mathematical form
-Cou (whatever applicable)
-1 1. Thermal expansion and state its types ,
-SO-11; ; ; ; . 5x4
-BL-2 2. Effect of dielectric on working of capacitors =90
-
-3. Transverse wave and longitudinal wave (any four differences)
-4. Concept of resonance in waves and state its formula
-5. What are capacitors? By how many ways capacitor can be connected in a circuit.
-````
-
 ## 2018-19 · Final-Exam · Sem 2 · paper 5c9b24ed214d
 
 - Departments: Common (all branches)
@@ -1729,129 +1728,129 @@ two charges.
 213
 ````
 
-## 2018-19 · Re-Exam · Sem 2 · paper 951d958b363f
+## 2018-19 · Re-Exam · Sem 2 · paper 6a86074450b1
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2018-19 Re Exam.pdf`
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2015-16,2016-17 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: exam date: 14 June 2019
-- Text: ocr (2 pages), mean OCR confidence 94.2
+- Text: ocr (2 pages), mean OCR confidence 91.3
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Program :B.Tech Integrated (All Streams) - Year: I
 
-Program :B.Tech Integrated (All Streams) Year: I Semester: I
+Semester: II
+
 Academic Year: 2018-2019
+Subject: Physics-II_
 
-Subject: Physics-II
 Date: 14 June 2019
 
-a“
+piition: 3 (hrs)
+No. of Pages Poe Fa
+_ Re-examination (2015-16/2016- 17) Z —
 
-Re-examination (2018-19) _»
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+Instructions: Candidates should read carefully the sieytcuetions printed on n the. question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. 1 is compulsory.
+1) Question No. lis compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
-4) All questions carry equal marks. ;
+4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-Q.1 Attempt any five
-a Draw the following :- (231), [12 I]. Find the miller indices for intercepts (123), (431).
-b Sketch the variation of Fermi level with temperature for n type and p type semiconductors.
-c Classify the optical fiber based on refractive index profile. List any three differences between them.
-d_ List any four differences between progressive wave and a stationary wave.
+Ql Attempt any seven of the following
+a. Define Ampere’s law and write its mathematical form. [2]
+b. What is polarizability of a dielectric material? List its different types. [2]
+c. Define Schottky and Frenkel defect in crystal lattice. [2]
+d. List any four applications of Cathode Ray Oscilloscope. [2]
+e. Differentiate between hard and soft magnetic materials. (2]
+f. | What is Hall Effect? [2]
+g. Calculate the numerical aperture and acceptance angle of an optical fibre. [2]
+Given n; =1.55, 2 = 1.50
+h. _ Explain Population inversion and active system for a LASER. [2]
+i. What is ligancy in case of ionic crystals? [2]
+Q.2
+a. Explain the construction and working of CRT with proper labelled diagram. [6]
+b. State Biot-Savart’s law with proper mathematical equations. [4]
 
-e Calculate the refractive index of cladding material and acceptance angle for a step index fiber
-having core refractive index 1.48 and numerical aperture 0.649.
-f List any two applications of CRO with appropriate formula and one example of each.
+¢ Two point charges of 2 C each are separated from each other by a distance of 1m inavacuum. [4]
+What is the force of their interaction? What will be the force if the medium between the charges
+is water? (Permittivity of free space € = 8.85 x 10"? C?/Nm?, relative permittivity ¢; for air =1
+and for water = 80)
 
-g The ultrasonic wave takes 4 sec to travel from ship to bottom of the sea and back to the ship. What is
-the depth of the sea? Consider speed of sound in water is 1500m/s.
-Q.2 Attempt All
-a Show the position of atoms, and find the no. of atoms per unit cell, co-ordination number, atomic
-radius and atomic packing factor for face centered cubic crystal.
-b_ Define ligancy. Find the critical radius ratio for ligancy 6.
-c List the types of point defects are there in crystalline solids? Discuss any three types of point defects
-with appropriate diagram.
-d NaCl has FCC structure, its cube edge is 5.72 A° and atomic weight 58.5. Calculate its density and atomic
-radius.
-Q.3 Attempt All
-
-ryoe
+1j2
 --- page 2 ---
-Q.4
+Q.3
 
-Q.5
+Describe diamagnetic, paramagnetic and ferromagnetic materials. Explain their classification on
+the basis of permanent magnetic moment.
 
-Q.6
+Differentiate between polar and non-polar dielectrics. —
 
-Q.7
+The magnetic susceptibility of silicon is -0.5x10°. What is the intensity of magnetization and
+magnetic flux density in a magnetic field of intensity 9.9 x 10* Amp/m? (Permeability of free
+space, Ho = 4x x 10°7Henry/m)
 
-Explain the formation of valence band and conduction band in solids. List any four differences
-between conductors, insulators and semiconductors based on band theory.
+Classify solids according to energy band structure.
 
-Discuss N type semiconductors in details with band theory and show the position of Fermi energy
-level at 0 K.
+In a Hall coefficient experiment, a current of 0.25A is sent through a metal strio having
+thickness 0.2 mm and width 5 mm. The Hall voltage is found to bev0.15 mV when a magnetic
+field of 2000 gauss is used. (a) What is the carrier concentration? (b) What is the drift velocity
+of the carriers?
 
-State Hall effect for semiconductors. Derive the expression for Hall voltage. State any two
-applications of Hall effect.
+Explain direct Piezoelectric effect and inverse piezoelectric effect.
 
-A semiconducting crystal with 12 mm long, 5 mm wide and | mm thick has a magnetic density of 0.5
-Wb/m? applied from front to back perpendicular to largest faces. When a current of 20 mA flows
-length wise through the specimen, the voltage measured across its width is found to be 37uV . What
-is the Hall coefficient of this semiconductor?
+Explain the working of Ruby Laser with appropriate energy level diagram.
+With a neat diagram explain the structure of an optical fibre.
 
-Attempt All
-Define the following terms in case of laser:
-1. Spontaneous emission, 2. Stimulated emission, 3. Absorption, 4. Pumping, 5. Population inversion
-Show the construction, working and energy level diagram for He-Ne laser.
-Derive the expression for Numerical aperture in case of step index fiber.
-Calculate the numerical power aperture and acceptance angle and angle of acceptance cone of an
-optical fiber from following data.
-R. I. of core = 1.55, R.I. of clad = 1.50
-Attempt All
-Derive an expression for a one dimensional simple harmonic progressive wave travelling in the
-direction of positive X-axis.
-List the phenomenon to generate ultrasonics waves. Discuss one in detail with appropriate diagram
-for explanation.
-Define Reverberation and Reverberation time. Give Sabine’s formula.
-In a resonating tube experiment, resonating length for a tuning fork of 512 Hz frequency is 16 cm.
-Calculate the resonating length for tuning fork of frequency 384 Hz. Also find the velocity of sound
-at room temperature neglecting end corrections.
-Attempt All .
-Write the definitions of following:-
+Draw the planes and directions having miller indices (121), (231), [122], [131],
 
-1. Ampere’s law, 2. Faraday’s law, 3. Magnetic dipole, 4.Coulomb’s law, 5.Electric potential
-Discuss magnetostatic focusing in details.
-Discuss the construction of CRT.
-Two point charges, QA = +8 C and QB = -5 uC, are separated by a distance r= 10 cm. What is the
-magnitude of the electric force. The constant k = 8.988 x 10° Nm?C? = 9 x 10° Nm?C?.
-Attempt All
-Describe Thomson’s method for determination of e/m of electron with proper diagram and
-derive the necessary formula.
-Distinguish between transverse waves and longitudinal waves. Mention at least five points.
-Define Fermi energy level and show its position in an intrinsic semiconductor? Show with the
-appropriate diagram that how does its position changes when (i) donors and (ii) accepters are added
-to the semiconductors?
-CsCl has simple cubic structure, the atomic weight of cesium is 132.9 and that of chlorine is 35.5. If
-the lattice constant of CsCl is 4.12A°, determine its density and APF of it.
+Calculate the number of atoms per unit cell, coordination number, atomic radius and atomic
+packing fraction in case of face centred cubic crystal structure.
 
-2)
+The interplanar spacing of (1 1 0) plane is 2 A for a FCC crystal. Find the atomic radius.
+Define the following terms: (a) Doping, (b) Dopant, (c) Donors, (d) Acceptors
+
+What is the difference between n and p type of semiconductors? Draw diagrams to explain
+them.
+Discuss the application of CRO for calculating unknown frequency and phase difference.
+
+What is meant by pumping? Discuss different types of pumping mechanisms used in different
+LASERs.
+
+2)ar
+
+[6]
+
+[4]
+[4]
+
+[6]
+[4]
+
+[4]
+
+[6]
+[4]
+[4]
+[6]
+[4]
+[4]
+[6]
+[4]
+[4]
 ````
 
-## 2017-18 · Re-Exam · Sem 2 · paper a995aa704046
+## 2018-19 · Re-Exam · Sem 2 · paper a995aa704046
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -1992,234 +1991,129 @@ emerging from the other end is 0.3 mW, calculate the fiber attenuation in km’!
 [4]
 ````
 
-## 2017-18 · Re-Exam · Sem 2 · paper d9c0f53e40dc
+## 2018-19 · Re-Exam · Sem 2 · paper 951d958b363f
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2017-18 Re Exam_d9c0f53e40.pdf`
-- Printed on paper: max marks: 70; exam date: 28 June 2018
-- Text: ocr (2 pages), mean OCR confidence 93.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program: B.Tech Integrated (All Streams) Year: | Semester : IT
-
-AcademicYear: 2017-2018
-Subject: Physics-II ae
-Marks: 70 Le
-
-Time: 10.00 am t
-
-Date : 28 June 2018
-
-No. of Pages:..
-Re-Examination (2017-18) .
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh. page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1) Attempt any seven.
-
-(a) State Biot-Savart law with full mathematical expression. 2
-(b) Explain the measurement of phase difference using CRO. z
-(c) Explain the term resonance and mention the condition acquired for this. 2
-(d) Explain the term extrinsic and intrinsic semiconductor. 2
-(e) Define Fermi level for semiconductor at 0 K. 2
-(f) Define reverberation time and state Sabine’s formula. 2
-(g) Explain absorption and stimulated emission. z
-(h) Cubic unit cell of Molybdenum has effective no of atoms per unit cell 2 and its lattice 2
-
-constant is 3.15 A. Calculate the atomic radius.
-
-Q2) (a) Discuss electrostatic focusing and magnetostatic focusing in detail with appropriate diagram. 6
-(b) Discuss the motion of charged particle in longitudinal static electric field and prove that
-terminal velocity acquired by the electron in static longitudinal electric field is proportional to the
-square root of the potential difference through which it is accelerated.
-
-(c)Two sphere charged with equal but opposite charges experience a force of 2.5 x 10° N when
-they are placed at 2 cm apart in the medium of relative permittivity 5. Determine charge of each
-sphere. 9 = 8.85x10"? C?/m? N.
-
-Q3) (a) Define Piezoelectric effect. Explain in detail the working of a Piezoelectric oscillator for the 6
-production of Ultrasonic waves.
-1
-he
---- page 2 ---
-(b) Derive an expression for one dimensional simple harmonic progressive wave travelling in the 4
-direction of positive x axis. Express its different form.
-
-(c)A transverse wave of amplitude 0.01m and frequency 500 MHz is travelling along a stretched 4
-string with a speed of 200 m/sec. Find the displacement of a particle at a distance of 0.7 m from
-the origin after 0.01 sec.
-
-Q4) (a) What is Hall effect? Derive expression for Hall voltage and Hall coefficient. 6
-
-(b) What is position of Fermi level in an intrinsic semiconductor? How does its position changes:
-(i) When donor and acceptor are added to the semiconductor. (ii) How does the position of Fermi
-level change with increase in temperature for extrinsic semiconductors? 4
-
-(c) Find the resistance of an N-type’semiconductor rod of 2 cm long, 1 cm wide and 1 cm thick. 4
-The concentration of electron is 2x10”/m’. Its electrical conductivity 112(ohm-m)", also calculate
-the mobility of electrons.
-
-Q5) (a) Explain the construction and working of He-Ne laser with well- labelled diagram. 6
-
-(b) Describe the propagation of light in an optical fibre and obtain the expression for critical angle, 4
-acceptance angle and numerical aperture in terms of core and cladding refractive indices.
-
-(c) A fibre cable has acceptance angle of 30° and core index of refraction is 1.4. Calculate refractive
-index of cladding. 4
-
-Q6) (a) Find no of atoms /cell, coordination number, atomic radius, atomic packing fraction and void 6
-space for FCC unit cell. .
-
-(b) Draw the’ planes and directions having Miller indices: (111), (201) and [210], [400] 4
-
-respectively.
-4
-(c) Distinguish between Frenkel and Schottky defects. Give any four distinct points.
-Q7) (a) Derive e/m ratio by Thompson experiment with necessary diagram. 6
-(b) Explain the formation of depletion layer in p-n junction. 4
-(c) Explain population inversion, active system, optical pumping and electrical pumping. 4
-````
-
-## 2016-17 · Re-Exam · Sem 2 · paper 6a86074450b1
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2015-16,2016-17 Re Exam.pdf` (+1 identical copies)
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2018-19 Re Exam.pdf`
 - Printed on paper: exam date: 14 June 2019
-- Text: ocr (2 pages), mean OCR confidence 91.3
+- Text: ocr (2 pages), mean OCR confidence 94.2
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Program :B.Tech Integrated (All Streams) - Year: I
 
-Semester: II
-
+Program :B.Tech Integrated (All Streams) Year: I Semester: I
 Academic Year: 2018-2019
-Subject: Physics-II_
 
+Subject: Physics-II
 Date: 14 June 2019
 
-piition: 3 (hrs)
-No. of Pages Poe Fa
-_ Re-examination (2015-16/2016- 17) Z —
+a“
 
-Instructions: Candidates should read carefully the sieytcuetions printed on n the. question paper and on the cover
+Re-examination (2018-19) _»
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. lis compulsory.
+1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
-4) All questions carry equal marks.
+4) All questions carry equal marks. ;
 
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume suitable data if necessary.
 
-Ql Attempt any seven of the following
-a. Define Ampere’s law and write its mathematical form. [2]
-b. What is polarizability of a dielectric material? List its different types. [2]
-c. Define Schottky and Frenkel defect in crystal lattice. [2]
-d. List any four applications of Cathode Ray Oscilloscope. [2]
-e. Differentiate between hard and soft magnetic materials. (2]
-f. | What is Hall Effect? [2]
-g. Calculate the numerical aperture and acceptance angle of an optical fibre. [2]
-Given n; =1.55, 2 = 1.50
-h. _ Explain Population inversion and active system for a LASER. [2]
-i. What is ligancy in case of ionic crystals? [2]
-Q.2
-a. Explain the construction and working of CRT with proper labelled diagram. [6]
-b. State Biot-Savart’s law with proper mathematical equations. [4]
+Q.1 Attempt any five
+a Draw the following :- (231), [12 I]. Find the miller indices for intercepts (123), (431).
+b Sketch the variation of Fermi level with temperature for n type and p type semiconductors.
+c Classify the optical fiber based on refractive index profile. List any three differences between them.
+d_ List any four differences between progressive wave and a stationary wave.
 
-¢ Two point charges of 2 C each are separated from each other by a distance of 1m inavacuum. [4]
-What is the force of their interaction? What will be the force if the medium between the charges
-is water? (Permittivity of free space € = 8.85 x 10"? C?/Nm?, relative permittivity ¢; for air =1
-and for water = 80)
+e Calculate the refractive index of cladding material and acceptance angle for a step index fiber
+having core refractive index 1.48 and numerical aperture 0.649.
+f List any two applications of CRO with appropriate formula and one example of each.
 
-1j2
+g The ultrasonic wave takes 4 sec to travel from ship to bottom of the sea and back to the ship. What is
+the depth of the sea? Consider speed of sound in water is 1500m/s.
+Q.2 Attempt All
+a Show the position of atoms, and find the no. of atoms per unit cell, co-ordination number, atomic
+radius and atomic packing factor for face centered cubic crystal.
+b_ Define ligancy. Find the critical radius ratio for ligancy 6.
+c List the types of point defects are there in crystalline solids? Discuss any three types of point defects
+with appropriate diagram.
+d NaCl has FCC structure, its cube edge is 5.72 A° and atomic weight 58.5. Calculate its density and atomic
+radius.
+Q.3 Attempt All
+
+ryoe
 --- page 2 ---
-Q.3
+Q.4
 
-Describe diamagnetic, paramagnetic and ferromagnetic materials. Explain their classification on
-the basis of permanent magnetic moment.
+Q.5
 
-Differentiate between polar and non-polar dielectrics. —
+Q.6
 
-The magnetic susceptibility of silicon is -0.5x10°. What is the intensity of magnetization and
-magnetic flux density in a magnetic field of intensity 9.9 x 10* Amp/m? (Permeability of free
-space, Ho = 4x x 10°7Henry/m)
+Q.7
 
-Classify solids according to energy band structure.
+Explain the formation of valence band and conduction band in solids. List any four differences
+between conductors, insulators and semiconductors based on band theory.
 
-In a Hall coefficient experiment, a current of 0.25A is sent through a metal strio having
-thickness 0.2 mm and width 5 mm. The Hall voltage is found to bev0.15 mV when a magnetic
-field of 2000 gauss is used. (a) What is the carrier concentration? (b) What is the drift velocity
-of the carriers?
+Discuss N type semiconductors in details with band theory and show the position of Fermi energy
+level at 0 K.
 
-Explain direct Piezoelectric effect and inverse piezoelectric effect.
+State Hall effect for semiconductors. Derive the expression for Hall voltage. State any two
+applications of Hall effect.
 
-Explain the working of Ruby Laser with appropriate energy level diagram.
-With a neat diagram explain the structure of an optical fibre.
+A semiconducting crystal with 12 mm long, 5 mm wide and | mm thick has a magnetic density of 0.5
+Wb/m? applied from front to back perpendicular to largest faces. When a current of 20 mA flows
+length wise through the specimen, the voltage measured across its width is found to be 37uV . What
+is the Hall coefficient of this semiconductor?
 
-Draw the planes and directions having miller indices (121), (231), [122], [131],
+Attempt All
+Define the following terms in case of laser:
+1. Spontaneous emission, 2. Stimulated emission, 3. Absorption, 4. Pumping, 5. Population inversion
+Show the construction, working and energy level diagram for He-Ne laser.
+Derive the expression for Numerical aperture in case of step index fiber.
+Calculate the numerical power aperture and acceptance angle and angle of acceptance cone of an
+optical fiber from following data.
+R. I. of core = 1.55, R.I. of clad = 1.50
+Attempt All
+Derive an expression for a one dimensional simple harmonic progressive wave travelling in the
+direction of positive X-axis.
+List the phenomenon to generate ultrasonics waves. Discuss one in detail with appropriate diagram
+for explanation.
+Define Reverberation and Reverberation time. Give Sabine’s formula.
+In a resonating tube experiment, resonating length for a tuning fork of 512 Hz frequency is 16 cm.
+Calculate the resonating length for tuning fork of frequency 384 Hz. Also find the velocity of sound
+at room temperature neglecting end corrections.
+Attempt All .
+Write the definitions of following:-
 
-Calculate the number of atoms per unit cell, coordination number, atomic radius and atomic
-packing fraction in case of face centred cubic crystal structure.
+1. Ampere’s law, 2. Faraday’s law, 3. Magnetic dipole, 4.Coulomb’s law, 5.Electric potential
+Discuss magnetostatic focusing in details.
+Discuss the construction of CRT.
+Two point charges, QA = +8 C and QB = -5 uC, are separated by a distance r= 10 cm. What is the
+magnitude of the electric force. The constant k = 8.988 x 10° Nm?C? = 9 x 10° Nm?C?.
+Attempt All
+Describe Thomson’s method for determination of e/m of electron with proper diagram and
+derive the necessary formula.
+Distinguish between transverse waves and longitudinal waves. Mention at least five points.
+Define Fermi energy level and show its position in an intrinsic semiconductor? Show with the
+appropriate diagram that how does its position changes when (i) donors and (ii) accepters are added
+to the semiconductors?
+CsCl has simple cubic structure, the atomic weight of cesium is 132.9 and that of chlorine is 35.5. If
+the lattice constant of CsCl is 4.12A°, determine its density and APF of it.
 
-The interplanar spacing of (1 1 0) plane is 2 A for a FCC crystal. Find the atomic radius.
-Define the following terms: (a) Doping, (b) Dopant, (c) Donors, (d) Acceptors
-
-What is the difference between n and p type of semiconductors? Draw diagrams to explain
-them.
-Discuss the application of CRO for calculating unknown frequency and phase difference.
-
-What is meant by pumping? Discuss different types of pumping mechanisms used in different
-LASERs.
-
-2)ar
-
-[6]
-
-[4]
-[4]
-
-[6]
-[4]
-
-[4]
-
-[6]
-[4]
-[4]
-[6]
-[4]
-[4]
-[6]
-[4]
-[4]
+2)
 ````
 
-## 2016-17 · Re-Exam · Sem 2 · paper 72111f2271c2
+## 2017-18 · Re-Exam · Sem 2 · paper 72111f2271c2
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -2368,6 +2262,398 @@ ah
 [6]
 [4]
 
+[4]
+````
+
+## 2017-18 · Re-Exam · Sem 2 · paper d9c0f53e40dc
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2017-18 Re Exam_d9c0f53e40.pdf`
+- Printed on paper: max marks: 70; exam date: 28 June 2018
+- Text: ocr (2 pages), mean OCR confidence 93.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program: B.Tech Integrated (All Streams) Year: | Semester : IT
+
+AcademicYear: 2017-2018
+Subject: Physics-II ae
+Marks: 70 Le
+
+Time: 10.00 am t
+
+Date : 28 June 2018
+
+No. of Pages:..
+Re-Examination (2017-18) .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh. page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1) Attempt any seven.
+
+(a) State Biot-Savart law with full mathematical expression. 2
+(b) Explain the measurement of phase difference using CRO. z
+(c) Explain the term resonance and mention the condition acquired for this. 2
+(d) Explain the term extrinsic and intrinsic semiconductor. 2
+(e) Define Fermi level for semiconductor at 0 K. 2
+(f) Define reverberation time and state Sabine’s formula. 2
+(g) Explain absorption and stimulated emission. z
+(h) Cubic unit cell of Molybdenum has effective no of atoms per unit cell 2 and its lattice 2
+
+constant is 3.15 A. Calculate the atomic radius.
+
+Q2) (a) Discuss electrostatic focusing and magnetostatic focusing in detail with appropriate diagram. 6
+(b) Discuss the motion of charged particle in longitudinal static electric field and prove that
+terminal velocity acquired by the electron in static longitudinal electric field is proportional to the
+square root of the potential difference through which it is accelerated.
+
+(c)Two sphere charged with equal but opposite charges experience a force of 2.5 x 10° N when
+they are placed at 2 cm apart in the medium of relative permittivity 5. Determine charge of each
+sphere. 9 = 8.85x10"? C?/m? N.
+
+Q3) (a) Define Piezoelectric effect. Explain in detail the working of a Piezoelectric oscillator for the 6
+production of Ultrasonic waves.
+1
+he
+--- page 2 ---
+(b) Derive an expression for one dimensional simple harmonic progressive wave travelling in the 4
+direction of positive x axis. Express its different form.
+
+(c)A transverse wave of amplitude 0.01m and frequency 500 MHz is travelling along a stretched 4
+string with a speed of 200 m/sec. Find the displacement of a particle at a distance of 0.7 m from
+the origin after 0.01 sec.
+
+Q4) (a) What is Hall effect? Derive expression for Hall voltage and Hall coefficient. 6
+
+(b) What is position of Fermi level in an intrinsic semiconductor? How does its position changes:
+(i) When donor and acceptor are added to the semiconductor. (ii) How does the position of Fermi
+level change with increase in temperature for extrinsic semiconductors? 4
+
+(c) Find the resistance of an N-type’semiconductor rod of 2 cm long, 1 cm wide and 1 cm thick. 4
+The concentration of electron is 2x10”/m’. Its electrical conductivity 112(ohm-m)", also calculate
+the mobility of electrons.
+
+Q5) (a) Explain the construction and working of He-Ne laser with well- labelled diagram. 6
+
+(b) Describe the propagation of light in an optical fibre and obtain the expression for critical angle, 4
+acceptance angle and numerical aperture in terms of core and cladding refractive indices.
+
+(c) A fibre cable has acceptance angle of 30° and core index of refraction is 1.4. Calculate refractive
+index of cladding. 4
+
+Q6) (a) Find no of atoms /cell, coordination number, atomic radius, atomic packing fraction and void 6
+space for FCC unit cell. .
+
+(b) Draw the’ planes and directions having Miller indices: (111), (201) and [210], [400] 4
+
+respectively.
+4
+(c) Distinguish between Frenkel and Schottky defects. Give any four distinct points.
+Q7) (a) Derive e/m ratio by Thompson experiment with necessary diagram. 6
+(b) Explain the formation of depletion layer in p-n junction. 4
+(c) Explain population inversion, active system, optical pumping and electrical pumping. 4
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper d55ce348df9a
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2014-15 Re Exam_d55ce348df.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 May 2017
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2016 - 2017
+Program: B. Tech Integrated (All Streams)
+
+Batch: 2014-15
+Subject: Physics-II
+Date : 08 May 2017
+
+Year: 1 Semester: II
+Marks: 60
+Time: (10.00 am to 1.00 pm)
+Duration:3 hrs
+No. of Pages: 7
+
+- RE - EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any six [12]
+
+a. State Ampere’s Law also write its mathematical form.
+
+b. What do you mean by Diamagnetic materials? Give two examples of two
+diamagnetic materials.
+
+c. With the increase in temperature, current in semiconductors increases. Give reason.
+
+d. What is the importance of metastable energy state in case of lasing action?
+
+e. Draw the refractive index profiles for step index and graded index fibers.
+
+£ Define TIR in case of optical fibers.
+
+g. State piezoelectric effect.
+
+h. Draw the planes and directions for (121), (101) and [112], [100].
+
+Q.2
+
+a. Draw a neat and labeled diagram CRT. Discuss the functioning of any two parts in details. [4]
+
+b. Explain electrostatic focusing in case of electron beam. . [4]
+
+c. What are lissajous figures? In the measurement by Lissajous pattern ellipse is [4]
+obtained with the major axis of 2 cm and minor axis of 0.8 cm. estimate phase
+change.
+
+AL
+--- page 2 ---
+Q.3
+
+Draw the Hysteresis curve and define its each fields.
+
+What is polarizability. Based on polarizability how many types of dielectric
+materials are there? Discuss them with one use of each.
+
+A parallel plate capacitor has plate area 10 cm? wit ap of 2mm between them. If
+the plates are charged to 10°! coulomb, calculaté, ‘the capacitor potential with the
+gap (i) filled with vacuum (ii) field with a dielectric of relative permittivity 9.
+
+What are n-type semiconductors? Explain the n-type semiconductors with band
+theory.
+
+Write the statement of Hall Effect and find the hall voltage and hall coefficient.
+What is Fermi energy level? What is the probability of an electron being thermally excited
+to the conduction band at 27 °C . The band gap energy is 1.12eV. .
+
+Derive expression of numerical aperture for step index fiber.
+
+Explain construction and working of He-Ne laser.
+
+An optical fiber has an acceptance angle of 30° and a core refractive index of 1.5.
+Calculate the refractive index of cladding. Also calculate the value of fractional
+refractive index.
+
+Define Ligancy and find out the critical radius ratio for ligancy ligancy 6.
+
+Derive the expression for APF in case of SC and BCC crystal.
+
+A Aluminum with face-centered cubic lattice has density 2.7 g/cm? and molecular
+weight 27 g/mole. Calculate the lattice constant “a” and the atomic radius “r”. Given
+Avogadro number N = 6.02 x 1073 (g mole)".
+
+Discuss magnetostatic focusing by deriving the required expression for the same.
+Discuss change in position of Fermi energy level with change in temperature for N
+type and P-type semiconductor.
+
+Calculate the charge carrier density and electron mobility of an n-type Si specimen
+of which the conductivity and Hall coefficient are given as 95 mho/m and 1.5 X 10
+m?/C respectively.
+
+. 2h)
+
+[4]
+[4]
+
+[4]
+
+[4]
+
+[4]
+[4]
+
+[4]
+[4]
+[4]
+
+[4]
+[4]
+[4]
+
+[4]
+[4]
+
+[4]
+````
+
+## 2016-17 · Re-Exam · Sem 2 · paper 900d576cae32
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2015-16 Re Exam_900d576cae.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 08 May 2017
+- Text: ocr (2 pages), mean OCR confidence 93.3
+
+````text
+Sr array #
+. SVKM’S NMIMS ee,
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2016 - 2017
+
+Program: B. Tech Integrated (All Streams) Year: 1 Semester: II
+Subject: Physics-II : Time: 10.00 am to 1.00 pm
+Date: 08 May 2017 Duration: 3 (hrs)
+
+No. of Pages ’2__
+
+FINAL - EXAMINATION (BATCH 2016-17)“
+RE - EXAMINATION (BATCH 2015-16)
+
+Marks: 70
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any seven. [14]
+a. State Ampere’s law and also write its mathematical form.
+b. What are magnetic materials? Mention its types.
+G With the increase in temperature current in semiconductors increases. Give reason.
+d. Write any two importance of metastable state in case of lasing action.
+e. Draw the refractive index profiles for step index and graded index fibers.
+f. What is Point defect? List its types.
+g. State piezoelectric effect.
+h. NaCl has FCC structure, its cube edge is 5.72 A° and atomic weight 58.5. Calculate
+its density.
+Q.2
+a. Explain motion of charge particle in static magnetic field where magnetic field applied [6]
+
+with angle 6. Also prove that the radius acquired by the electrons is directly
+proportional to the velocity and mass of the electron in the static transverse electric
+
+field.
+b. State and find the relation of Bethe’s law. [4]
+Cc. A point charge of 5 x 10° C is placed 3 cm apart from the other point charge. It is [4]
+
+found that the charges repel each other with a force of 0.6 N. Find the magnitude of
+second charge.
+
+Ye
+--- page 2 ---
+Q.3
+
+Q.4.
+
+Define hard and soft magnetic materials with diagram and its two important
+properties.. Which type of magnetic material will be suitable for making transformer,
+discuss why?
+
+Classify dielectric materials according to their usage. State any four requirements of
+good insulating materials.
+
+A parallel plate capacitor has plate area 10 com” with gap of 2mm between them. If the
+plates are charged to 10” coulomb, calculate the Capacitor with the gap (i) filled with
+vacuum (ii) field with a dielectric of relative petmittivity 9.
+
+Define Hall effect and its significance. Obtain the expression for Hall Voltage in terms
+of current, magnetic field and width of the specimen. List any two applications of Hall
+effect.
+
+Using energy band diagram classify the solids as conductors, semiconductors and
+insulators. Also mention any three differences between them.
+
+What is Fermi energy level? What is the probability of an electron being thermally
+excited to the conduction band at 27 °C . The band gap energy is 1.12eV.
+
+Explain construction, working and energy level diagram for He-Ne.
+
+Derive expression of numerical aperture for step index fiber.
+
+An optical fiber has an acceptance angle of 45° and a core refractive index of 1.4.
+Calculate the refractive index of cladding. Also calculate the value of fractional
+refractive index.
+
+Find number of atoms per unit cell, coordination number, atomic radius, atomic
+packing factor and void space for BCC unit cells.
+
+Determine the configuration of an ionic crystal in the critical condition if the cation
+and anion radii are 88nm and 200nm respectively. Also comment which type of
+ligancy will be there.
+
+Draw the planes and directions for (120), (110) and [121], [300].
+
+Draw the labelled diagram of CRT. Discuss the working of any three parts of it in
+details.
+
+Define N-type and P-type semiconductors based on band theory.
+
+Define the terms stimulated emission, spontaneous emission, absorption and
+population inversion in case lasing action.
+
+Zh
+
+[6]
+
+[4]
+[4]
+
+(6]
+[4]
+
+[4]
+
+[6]
+[4]
+
+[4].
+
+[6]
+[4]
+
+[4]
+
+[6]
+
+[4]
 [4]
 ````
 
@@ -2654,6 +2940,242 @@ eS
 [4]
 ````
 
+## 2015-16 · Re-Exam · Sem 2 · paper 5f0f723189d8
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 07 May 2016
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+i
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+
+AVUTE GF Bran SS
+ERING-%,
+%
+
+Semester: They a
+BC y
+
+Sct BOY
+
+Programme: B. Tech Integrated (All Streams) Year: I
+
+Academic Year: 2015-2016
+
+NN
+
+BATCH: 2014-2015 Marks: 60
+Subject : Physics-II Time : 10.00 am to 1.00 pm
+Date : 07 May 2016 Durations: 3 (hrs)
+
+Re -Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.01 Attempt any four (12)
+a. State Biot — Savart’s Law and also write its mathematical form.
+b. what are the types of polarization? Discuss electronic polarization.
+c. Define intrinsic and extrinsic semiconductors.
+d. List any three differences between spontaneous emission and stimulated emission.
+e. Classify the fibres on the basis of refractive index profile and on the basis of modes.
+f. Define a primitive unit cell. Is a FCC structure a primitive unit cell, give reason.
+
+Q.02
+a. An electron beam enters from a region of potential 75 volts into a region of potential 100 volts,
+making an angle of 45° with the direction of electric field. Find the angle through which the beam
+
+refracts. (3)
+b. Draw a schematic of an electrostatic CRT. Describe the role of (1+8)
+(i) Electron gun (ii) Deflection system
+(iii) Fluorescent screen, and (iv) Acquadag coating
+Q. 03
+a. Why diamagnetic materials have negative susceptibility? (2)
+
+b. Explain magnetic flux density (B), magnetic field strength (H), and magnetization strength (M). (3)
+
+Vo
+--- page 2 ---
+c. Diamagnetic Al,O3 is subjected an external magnetic field of 10° A/m. Evaluate magnetization and
+magnetic flux density in AlzOs. (Susceptibility of Al,O3 = - 5 x 10°). (4)
+
+d. Distinguish between ferroelectricity and piezoelectricity. Give one example of each. (3)
+
+Q.04
+(2)
+
+a. Explain the formation of depletion region in a pn-junction.
+ARSE 7 PAWeEe
+b. Draw energy band diagram for axtypé semiconductor at 0° K. "Show that at 0° K, Fermi level lies
+midway between donertevel and the bottom of conduction band. (5)
+Volenée Yaw:
+c. Ina Hall coefficient experiment, a current of 0.25 A is sent through a metal strip having thickness
+
+0.2 mm and width 5 mm. the Hall voltage is found to be 0.15 mV when a magnetic field of 2000 gauss is
+used.
+
+(i) What is the carrier concentration?
+
+(ii) What is the drift velocity of the carriers? (5)
+Q.05
+a. Explain the concept of population inversion and how it can be achieved: (4)
+b. Explain with neat diagram the principle, construction and working of semiconductor laser. (6)
+
+c. An optical fibre has a core material of refractive index of 1.55 and cladding material of refractive
+
+index 1.50. The light is launched into the fibre from air. Calculate its numerical aperture. (2)
+Q.06
+a. Define atomic packing factor, calculate packing factor for (a) SC (b) BCC. (5)
+b. Ni has FCC structure. Its lattice constant is 3.52 A, atomic weight of Ni is 58.71. Given Avagadro’s
+number is 6.023 x 1026 / kg mol. Calculate its radius, APF and density. (5)
+c. Draw the planes for Miller Indices (100), (010), (110) and (111). (2)
+‘ x
+````
+
+## 2015-16 · Re-Exam · Sem 2 · paper 4c4cb720ad9e
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2014-15 Re Exam_4c4cb720ad.pdf`
+- Printed on paper: max marks: 60
+- Text: ocr (2 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech Integrated (All Streams) Year: I Semesteriollmmen, “
+2”: B73 BY ah
+Academic Year: 2015-2016 fg = oN
+Batch: 2014-2015 (80 post M nv
+Subject : Physics-II Marks:60 | wf P ‘ - RY F}
+. 4 me <P ae at
+ate : 1 July 201 Durations:3 on ed
+Re-Examination S ais Ne
+—— all
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks, *
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary ;
+
+Q.1 Attempt any six. o [12]
+
+a. State Faraday’s Law and also write its mathematical form. ~
+
+b. What are Dielectric materials? Write ant two applications of it.
+
+c. With the increase in temperature current in semiconductors increases. Give reason.
+
+d. Define pumping in case of Lasing action.
+
+& Draw the refractive index profiles for step index and graded index fibres.
+
+2 What is vacancy defect?
+
+g. State piezoelectric effect.
+
+h. Find out the miller indices for the plane (321) following proper steps.
+
+Q.2
+
+a. An electron enters a uniform magnetic field B = 0.23 Wb/m’, at 45° angle to B. [4]
+Determine radius and pitch of helical path. Assume electron speed to be 3 x 10’ m/s.
+
+b. Write mathematical form of Bethe’s law and how this law is same as Snell’s law in [4]
+optics. :
+
+c. Write short note on Electron gun and focusing on X and Y plates. [4]
+
+Q.3
+
+a. What do you mean by Hysteresis? Based on Hysteresis classify types of magnetic [4]
+materials and mention any one use of each type.
+
+b. Define susceptibility in magnetic material. Classify the magnetic materials based on [4]
+its susceptibility.
+
+c. The magnetic susceptibility of silicon is -0.5x10°. What is the intensity of [4]
+magnetization and magnetic flux density in a magnetic field of intensity 9.9x 104
+Amp/m?
+
+Mx
+--- page 2 ---
+Q.4.
+
+a. Define Fermi energy level and also show the variation of Fermi energy level with [4]
+varying temperature for p-type and n-type semiconductors.
+
+b. Using energy band diagram classify the solids as conductors, semiconductors and [4]
+insulators.
+
+iG A copper strip 2 cm wide and 1 mm thick is placed in a magnetic field with B=2.5 [4]
+
+Wb/m”. If a current of 150 A is set up in the strip, calculate the Hall voltage that
+appears across the strip. Assume Ry = 6 x 107 m3/C.
+
+Q.5.
+
+a. Explain construction, working and energy level diagram for He-Ne laser. [4]
+
+b. Derive expression of numerical aperture for step index fibre. [4]
+
+c. An optical fiber has an acceptance angle of 45° and a core refractive index of 1.3. [4]
+Calculate the refractive index of cladding. Also calculate the value of fractional =i
+refractive index. 2
+
+Q. 6.
+
+a. Define APF for crystalline solids. Find APF for BCC and FCC unit cells. [4]
+
+b. Sodium Chloride crystallizes in FCC structure. The density of sodium chloride is 2180 [4]
+kg/m*. If the atomic weight of sodium is 23 and that of chlorine is 35.5, calculate the
+lattice constant of the unit cell.
+
+C, Draw the planes and directions for (110), (101) and [123], [300]. [4]
+OQ: 4.
+
+a. Define ligancy for ionic crystals. Calculate the critical radius ratio for ligancy 3. [4]
+b. Write the statement of Hall Effect and mention any two applications. [4]
+c. A point charge of 5 x 10° C is placed 3 cm apart from the other point charge. It is [4]
+
+found that the charges repel each other with a force of 0.6 N. Find the magnitude of
+second charge.
+````
+
 ## 2015-16 · Re-Exam · Sem 2 · paper 976da0bbc6ce
 
 - Departments: Common (all branches)
@@ -2791,151 +3313,6 @@ second charge.
 ~~
 ````
 
-## 2015-16 · Re-Exam · Sem 2 · paper 900d576cae32
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2015-16 Re Exam_900d576cae.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 08 May 2017
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-Sr array #
-. SVKM’S NMIMS ee,
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2016 - 2017
-
-Program: B. Tech Integrated (All Streams) Year: 1 Semester: II
-Subject: Physics-II : Time: 10.00 am to 1.00 pm
-Date: 08 May 2017 Duration: 3 (hrs)
-
-No. of Pages ’2__
-
-FINAL - EXAMINATION (BATCH 2016-17)“
-RE - EXAMINATION (BATCH 2015-16)
-
-Marks: 70
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt any seven. [14]
-a. State Ampere’s law and also write its mathematical form.
-b. What are magnetic materials? Mention its types.
-G With the increase in temperature current in semiconductors increases. Give reason.
-d. Write any two importance of metastable state in case of lasing action.
-e. Draw the refractive index profiles for step index and graded index fibers.
-f. What is Point defect? List its types.
-g. State piezoelectric effect.
-h. NaCl has FCC structure, its cube edge is 5.72 A° and atomic weight 58.5. Calculate
-its density.
-Q.2
-a. Explain motion of charge particle in static magnetic field where magnetic field applied [6]
-
-with angle 6. Also prove that the radius acquired by the electrons is directly
-proportional to the velocity and mass of the electron in the static transverse electric
-
-field.
-b. State and find the relation of Bethe’s law. [4]
-Cc. A point charge of 5 x 10° C is placed 3 cm apart from the other point charge. It is [4]
-
-found that the charges repel each other with a force of 0.6 N. Find the magnitude of
-second charge.
-
-Ye
---- page 2 ---
-Q.3
-
-Q.4.
-
-Define hard and soft magnetic materials with diagram and its two important
-properties.. Which type of magnetic material will be suitable for making transformer,
-discuss why?
-
-Classify dielectric materials according to their usage. State any four requirements of
-good insulating materials.
-
-A parallel plate capacitor has plate area 10 com” with gap of 2mm between them. If the
-plates are charged to 10” coulomb, calculate the Capacitor with the gap (i) filled with
-vacuum (ii) field with a dielectric of relative petmittivity 9.
-
-Define Hall effect and its significance. Obtain the expression for Hall Voltage in terms
-of current, magnetic field and width of the specimen. List any two applications of Hall
-effect.
-
-Using energy band diagram classify the solids as conductors, semiconductors and
-insulators. Also mention any three differences between them.
-
-What is Fermi energy level? What is the probability of an electron being thermally
-excited to the conduction band at 27 °C . The band gap energy is 1.12eV.
-
-Explain construction, working and energy level diagram for He-Ne.
-
-Derive expression of numerical aperture for step index fiber.
-
-An optical fiber has an acceptance angle of 45° and a core refractive index of 1.4.
-Calculate the refractive index of cladding. Also calculate the value of fractional
-refractive index.
-
-Find number of atoms per unit cell, coordination number, atomic radius, atomic
-packing factor and void space for BCC unit cells.
-
-Determine the configuration of an ionic crystal in the critical condition if the cation
-and anion radii are 88nm and 200nm respectively. Also comment which type of
-ligancy will be there.
-
-Draw the planes and directions for (120), (110) and [121], [300].
-
-Draw the labelled diagram of CRT. Discuss the working of any three parts of it in
-details.
-
-Define N-type and P-type semiconductors based on band theory.
-
-Define the terms stimulated emission, spontaneous emission, absorption and
-population inversion in case lasing action.
-
-Zh
-
-[6]
-
-[4]
-[4]
-
-(6]
-[4]
-
-[4]
-
-[6]
-[4]
-
-[4].
-
-[6]
-[4]
-
-[4]
-
-[6]
-
-[4]
-[4]
-````
-
 ## 2014-15 · Final-Exam · Sem 2 · paper 6b796f3e374e
 
 - Departments: Common (all branches)
@@ -3037,382 +3414,4 @@ c. What is meant by hysteresis loss? How would you use the hysteresis curves to 
 the construction of permanent magnets? (4)
 
 ~~ —
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 5f0f723189d8
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 07 May 2016
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-i
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-
-AVUTE GF Bran SS
-ERING-%,
-%
-
-Semester: They a
-BC y
-
-Sct BOY
-
-Programme: B. Tech Integrated (All Streams) Year: I
-
-Academic Year: 2015-2016
-
-NN
-
-BATCH: 2014-2015 Marks: 60
-Subject : Physics-II Time : 10.00 am to 1.00 pm
-Date : 07 May 2016 Durations: 3 (hrs)
-
-Re -Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.01 Attempt any four (12)
-a. State Biot — Savart’s Law and also write its mathematical form.
-b. what are the types of polarization? Discuss electronic polarization.
-c. Define intrinsic and extrinsic semiconductors.
-d. List any three differences between spontaneous emission and stimulated emission.
-e. Classify the fibres on the basis of refractive index profile and on the basis of modes.
-f. Define a primitive unit cell. Is a FCC structure a primitive unit cell, give reason.
-
-Q.02
-a. An electron beam enters from a region of potential 75 volts into a region of potential 100 volts,
-making an angle of 45° with the direction of electric field. Find the angle through which the beam
-
-refracts. (3)
-b. Draw a schematic of an electrostatic CRT. Describe the role of (1+8)
-(i) Electron gun (ii) Deflection system
-(iii) Fluorescent screen, and (iv) Acquadag coating
-Q. 03
-a. Why diamagnetic materials have negative susceptibility? (2)
-
-b. Explain magnetic flux density (B), magnetic field strength (H), and magnetization strength (M). (3)
-
-Vo
---- page 2 ---
-c. Diamagnetic Al,O3 is subjected an external magnetic field of 10° A/m. Evaluate magnetization and
-magnetic flux density in AlzOs. (Susceptibility of Al,O3 = - 5 x 10°). (4)
-
-d. Distinguish between ferroelectricity and piezoelectricity. Give one example of each. (3)
-
-Q.04
-(2)
-
-a. Explain the formation of depletion region in a pn-junction.
-ARSE 7 PAWeEe
-b. Draw energy band diagram for axtypé semiconductor at 0° K. "Show that at 0° K, Fermi level lies
-midway between donertevel and the bottom of conduction band. (5)
-Volenée Yaw:
-c. Ina Hall coefficient experiment, a current of 0.25 A is sent through a metal strip having thickness
-
-0.2 mm and width 5 mm. the Hall voltage is found to be 0.15 mV when a magnetic field of 2000 gauss is
-used.
-
-(i) What is the carrier concentration?
-
-(ii) What is the drift velocity of the carriers? (5)
-Q.05
-a. Explain the concept of population inversion and how it can be achieved: (4)
-b. Explain with neat diagram the principle, construction and working of semiconductor laser. (6)
-
-c. An optical fibre has a core material of refractive index of 1.55 and cladding material of refractive
-
-index 1.50. The light is launched into the fibre from air. Calculate its numerical aperture. (2)
-Q.06
-a. Define atomic packing factor, calculate packing factor for (a) SC (b) BCC. (5)
-b. Ni has FCC structure. Its lattice constant is 3.52 A, atomic weight of Ni is 58.71. Given Avagadro’s
-number is 6.023 x 1026 / kg mol. Calculate its radius, APF and density. (5)
-c. Draw the planes for Miller Indices (100), (010), (110) and (111). (2)
-‘ x
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper 4c4cb720ad9e
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2014-15 Re Exam_4c4cb720ad.pdf`
-- Printed on paper: max marks: 60
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech Integrated (All Streams) Year: I Semesteriollmmen, “
-2”: B73 BY ah
-Academic Year: 2015-2016 fg = oN
-Batch: 2014-2015 (80 post M nv
-Subject : Physics-II Marks:60 | wf P ‘ - RY F}
-. 4 me <P ae at
-Bate 2 Lote ouaE Time :10.00\ Mo 1.00 pm
-ate : 1 July 201 Durations:3 on ed
-Re-Examination S ais Ne
-—— all
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks, *
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary ;
-
-Q.1 Attempt any six. o [12]
-
-a. State Faraday’s Law and also write its mathematical form. ~
-
-b. What are Dielectric materials? Write ant two applications of it.
-
-c. With the increase in temperature current in semiconductors increases. Give reason.
-
-d. Define pumping in case of Lasing action.
-
-& Draw the refractive index profiles for step index and graded index fibres.
-
-2 What is vacancy defect?
-
-g. State piezoelectric effect.
-
-h. Find out the miller indices for the plane (321) following proper steps.
-
-Q.2
-
-a. An electron enters a uniform magnetic field B = 0.23 Wb/m’, at 45° angle to B. [4]
-Determine radius and pitch of helical path. Assume electron speed to be 3 x 10’ m/s.
-
-b. Write mathematical form of Bethe’s law and how this law is same as Snell’s law in [4]
-optics. :
-
-c. Write short note on Electron gun and focusing on X and Y plates. [4]
-
-Q.3
-
-a. What do you mean by Hysteresis? Based on Hysteresis classify types of magnetic [4]
-materials and mention any one use of each type.
-
-b. Define susceptibility in magnetic material. Classify the magnetic materials based on [4]
-its susceptibility.
-
-c. The magnetic susceptibility of silicon is -0.5x10°. What is the intensity of [4]
-magnetization and magnetic flux density in a magnetic field of intensity 9.9x 104
-Amp/m?
-
-Mx
---- page 2 ---
-Q.4.
-
-a. Define Fermi energy level and also show the variation of Fermi energy level with [4]
-varying temperature for p-type and n-type semiconductors.
-
-b. Using energy band diagram classify the solids as conductors, semiconductors and [4]
-insulators.
-
-iG A copper strip 2 cm wide and 1 mm thick is placed in a magnetic field with B=2.5 [4]
-
-Wb/m”. If a current of 150 A is set up in the strip, calculate the Hall voltage that
-appears across the strip. Assume Ry = 6 x 107 m3/C.
-
-Q.5.
-
-a. Explain construction, working and energy level diagram for He-Ne laser. [4]
-
-b. Derive expression of numerical aperture for step index fibre. [4]
-
-c. An optical fiber has an acceptance angle of 45° and a core refractive index of 1.3. [4]
-Calculate the refractive index of cladding. Also calculate the value of fractional =i
-refractive index. 2
-
-Q. 6.
-
-a. Define APF for crystalline solids. Find APF for BCC and FCC unit cells. [4]
-
-b. Sodium Chloride crystallizes in FCC structure. The density of sodium chloride is 2180 [4]
-kg/m*. If the atomic weight of sodium is 23 and that of chlorine is 35.5, calculate the
-lattice constant of the unit cell.
-
-C, Draw the planes and directions for (110), (101) and [123], [300]. [4]
-OQ: 4.
-
-a. Define ligancy for ionic crystals. Calculate the critical radius ratio for ligancy 3. [4]
-b. Write the statement of Hall Effect and mention any two applications. [4]
-c. A point charge of 5 x 10° C is placed 3 cm apart from the other point charge. It is [4]
-
-found that the charges repel each other with a force of 0.6 N. Find the magnitude of
-second charge.
-````
-
-## 2014-15 · Re-Exam · Sem 2 · paper d55ce348df9a
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_02/PHYSICS II/Physics II Batch 2014-15 Re Exam_d55ce348df.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 May 2017
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2016 - 2017
-Program: B. Tech Integrated (All Streams)
-
-Batch: 2014-15
-Subject: Physics-II
-Date : 08 May 2017
-
-Year: 1 Semester: II
-Marks: 60
-Time: (10.00 am to 1.00 pm)
-Duration:3 hrs
-No. of Pages: 7
-
-- RE - EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt any six [12]
-
-a. State Ampere’s Law also write its mathematical form.
-
-b. What do you mean by Diamagnetic materials? Give two examples of two
-diamagnetic materials.
-
-c. With the increase in temperature, current in semiconductors increases. Give reason.
-
-d. What is the importance of metastable energy state in case of lasing action?
-
-e. Draw the refractive index profiles for step index and graded index fibers.
-
-£ Define TIR in case of optical fibers.
-
-g. State piezoelectric effect.
-
-h. Draw the planes and directions for (121), (101) and [112], [100].
-
-Q.2
-
-a. Draw a neat and labeled diagram CRT. Discuss the functioning of any two parts in details. [4]
-
-b. Explain electrostatic focusing in case of electron beam. . [4]
-
-c. What are lissajous figures? In the measurement by Lissajous pattern ellipse is [4]
-obtained with the major axis of 2 cm and minor axis of 0.8 cm. estimate phase
-change.
-
-AL
---- page 2 ---
-Q.3
-
-Draw the Hysteresis curve and define its each fields.
-
-What is polarizability. Based on polarizability how many types of dielectric
-materials are there? Discuss them with one use of each.
-
-A parallel plate capacitor has plate area 10 cm? wit ap of 2mm between them. If
-the plates are charged to 10°! coulomb, calculaté, ‘the capacitor potential with the
-gap (i) filled with vacuum (ii) field with a dielectric of relative permittivity 9.
-
-What are n-type semiconductors? Explain the n-type semiconductors with band
-theory.
-
-Write the statement of Hall Effect and find the hall voltage and hall coefficient.
-What is Fermi energy level? What is the probability of an electron being thermally excited
-to the conduction band at 27 °C . The band gap energy is 1.12eV. .
-
-Derive expression of numerical aperture for step index fiber.
-
-Explain construction and working of He-Ne laser.
-
-An optical fiber has an acceptance angle of 30° and a core refractive index of 1.5.
-Calculate the refractive index of cladding. Also calculate the value of fractional
-refractive index.
-
-Define Ligancy and find out the critical radius ratio for ligancy ligancy 6.
-
-Derive the expression for APF in case of SC and BCC crystal.
-
-A Aluminum with face-centered cubic lattice has density 2.7 g/cm? and molecular
-weight 27 g/mole. Calculate the lattice constant “a” and the atomic radius “r”. Given
-Avogadro number N = 6.02 x 1073 (g mole)".
-
-Discuss magnetostatic focusing by deriving the required expression for the same.
-Discuss change in position of Fermi energy level with change in temperature for N
-type and P-type semiconductor.
-
-Calculate the charge carrier density and electron mobility of an n-type Si specimen
-of which the conductivity and Hall coefficient are given as 95 mho/m and 1.5 X 10
-m?/C respectively.
-
-. 2h)
-
-[4]
-[4]
-
-[4]
-
-[4]
-
-[4]
-[4]
-
-[4]
-[4]
-[4]
-
-[4]
-[4]
-[4]
-
-[4]
-[4]
-
-[4]
 ````

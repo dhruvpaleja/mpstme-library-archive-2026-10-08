@@ -1,10 +1,101 @@
 # Wireless Communication I: question papers in full
 
-12 unique papers · 2006-07 to 2012-13 · Information Technology
+12 unique papers · 2006-07 to 2013-14 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Re-Exam · Trim 7 · paper 4fb32297f44b
+## 2013-14 · Exam not stated · Trim 7 · paper 2c8fa61fef33
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/WIRELESS COMMUNICATION I/scan0006(2).pdf`
+- Printed on paper: exam date: 10/12/2013
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (IT) _ Year: HI Trimester: VII
+Academic Year: 2013-14 Batch: 2013,] 13 j
+gs E gy
+Rs wee me
+
+Subject : Wireless Communication
+
+%
+Mariey/100® STMB
+Date :10/12/2013 Timep (10.08 Bah Fo¥.
+
+Duragong:3 (hrs) , é
+Re-Examination se
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all Squestions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+«
+
+Q. 1) Answer the following (any 4) (20)
+
+1) Illustrate the frequency reuse concept in cellular systems.
+2) Review the weaknesses in WEP scheme.
+
+3) How is hidden and exposed terminal problem solved?
+
+4) Explain the ping-pong effect during handovers in GSM.
+5) Explain handover procedures in wireless ATM.
+
+Q.2) (20)
+a) Explain the different kinds of attacks in wireless.
+b) Draw and explain the ATM reference model.
+
+Q.3) (20)
+a) Compare and contrast the different modulation methods in wireless
+b) Draw and explain the GPRS Architecture in brief.
+
+Q4) (20)
+a) Draw and explain the UMTS basic and network architecture in detail.
+b) What is spread spectrum? Explain DSSS in brief?
+
+Q.5) (20)
+
+a) Explain the explicit reservation multiple access protocol in wireless.
+b) Explain the security features in GSM.
+
+4/r
+--- page 2 ---
+Q.6) (20)
+a) Describe the SCO, ACL and L2CAP from Bluetooth in brief
+b) Draw and explain the DECT architecture alongwith its salient features
+
+Q.7) Write Short notes on (any4) (20)
+i) Mobile QoS
+
+ii) WPA
+
+iii) FHSS
+
+iv) Access Point Control Protocol
+
+v) TETRA
+
+2/2
+````
+
+## 2013-14 · Re-Exam · Trim 7 · paper 4fb32297f44b
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
@@ -108,6 +199,72 @@ vi) Access Point Control Protocol
 Xx
 ````
 
+## 2012-13 · Exam not stated · Trim 7 · paper eb4a83fd28c2
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/WIRELESS COMMUNICATION I/scan0017(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (1 page), mean OCR confidence 87.7
+
+````text
+SVKM’s NMIMS CETL
+
+Mukesh Patel School Of Technology Management & Engineering’ 2 ~ On
+Programme: MBA (Tech) -I. T. Year: Ill Trimester: VII = C SVKMIS : yx \\
+Academic Year : 2012-2013 af tunic oe” 1S |
+
+\ al LBRARY Je iy
+
+Subject: WIRELESS Marks: 100
+
+Be rye ,
+COMMUNICATION Time: 10.00am To 1.00pf@,~ <<
+Date: “ 05/ tof 29\2 Duration: 3 hrs. SS MANAgEMeS
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory
+2. Out of remaining , attempt any FOUR questions
+3. Inall FIVE questions to be attempted.
+4. Answer to each new question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q1. a) Design a wireless scenario for an IT company as an IT Infrastructure manager of
+the company. Discuss the technologies used and justify them keeping in mind the
+management goals. Include the configurations and specifications of the systems to be
+
+used and show their compatibility (12)
+, _ (b) Explain security in GSM network. (08)
+Q2. a) What is hidden and exposed terminal problem? How can it be solved? (10)
+b) Explain the ATM reference model in brief? (10)
+Q3. a) What is Spread Spectrum? Explain any one technique in brief? (10)
+b) Explain the different attacks on wireless Networks? (10)
+Q4. a) Explain the GSM architecture alongwith its salient features. (10)
+b) ; Explain the Bluetooth protocol Architecture (10)
+‘ ie ) Explain the DAMA protocol and how can it be improved (10)
+F Explain the need for wireless security? How is it achieved in today’s world? . (10)
+Q6.a) What is Frequency reuse? Discuss the need for hexagonal pattern? (10)
+b) Compare and contrast the multiple access techniques. (10)
+Q7. Write short notes on (any four) :- (20)
+
+i) DECT ii) TETRA
+
+iii) WEP iv) CDMA
+
+v) GPRS vi) Access Point Control protocol
+
+, |
+
+{3
+
+=;
+````
+
 ## 2012-13 · Re-Exam · Trim 7 · paper 220edcc8a5ff
 
 - Departments: Information Technology
@@ -164,7 +321,7 @@ b) Security issues in wireless system
 C) IMT-2000
 ````
 
-## 2011 · Exam not stated · Trim 7 · paper b9780b351f4d
+## 2011-12 · Exam not stated · Trim 7 · paper b9780b351f4d
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
@@ -796,161 +953,4 @@ Q7 B) Explain advantages and disadvantages of Indirect TCP. (10)
 
 All The Best
 Page | of 1
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper 2c8fa61fef33
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/WIRELESS COMMUNICATION I/scan0006(2).pdf`
-- Printed on paper: exam date: 10/12/2013
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (IT) _ Year: HI Trimester: VII
-Academic Year: 2013-14 Batch: 2013,] 13 j
-gs E gy
-Rs wee me
-
-Subject : Wireless Communication
-
-%
-Mariey/100® STMB
-Date :10/12/2013 Timep (10.08 Bah Fo¥.
-
-Duragong:3 (hrs) , é
-Re-Examination se
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all Squestions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-«
-
-Q. 1) Answer the following (any 4) (20)
-
-1) Illustrate the frequency reuse concept in cellular systems.
-2) Review the weaknesses in WEP scheme.
-
-3) How is hidden and exposed terminal problem solved?
-
-4) Explain the ping-pong effect during handovers in GSM.
-5) Explain handover procedures in wireless ATM.
-
-Q.2) (20)
-a) Explain the different kinds of attacks in wireless.
-b) Draw and explain the ATM reference model.
-
-Q.3) (20)
-a) Compare and contrast the different modulation methods in wireless
-b) Draw and explain the GPRS Architecture in brief.
-
-Q4) (20)
-a) Draw and explain the UMTS basic and network architecture in detail.
-b) What is spread spectrum? Explain DSSS in brief?
-
-Q.5) (20)
-
-a) Explain the explicit reservation multiple access protocol in wireless.
-b) Explain the security features in GSM.
-
-4/r
---- page 2 ---
-Q.6) (20)
-a) Describe the SCO, ACL and L2CAP from Bluetooth in brief
-b) Draw and explain the DECT architecture alongwith its salient features
-
-Q.7) Write Short notes on (any4) (20)
-i) Mobile QoS
-
-ii) WPA
-
-iii) FHSS
-
-iv) Access Point Control Protocol
-
-v) TETRA
-
-2/2
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper eb4a83fd28c2
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/WIRELESS COMMUNICATION I/scan0017(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (1 page), mean OCR confidence 87.7
-
-````text
-SVKM’s NMIMS CETL
-
-Mukesh Patel School Of Technology Management & Engineering’ 2 ~ On
-Programme: MBA (Tech) -I. T. Year: Ill Trimester: VII = C SVKMIS : yx \\
-Academic Year : 2012-2013 af tunic oe” 1S |
-
-\ al LBRARY Je iy
-
-Subject: WIRELESS Marks: 100
-
-Be rye ,
-COMMUNICATION Time: 10.00am To 1.00pf@,~ <<
-Date: “ 05/ tof 29\2 Duration: 3 hrs. SS MANAgEMeS
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory
-2. Out of remaining , attempt any FOUR questions
-3. Inall FIVE questions to be attempted.
-4. Answer to each new question to be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
-
-Q1. a) Design a wireless scenario for an IT company as an IT Infrastructure manager of
-the company. Discuss the technologies used and justify them keeping in mind the
-management goals. Include the configurations and specifications of the systems to be
-
-used and show their compatibility (12)
-, _ (b) Explain security in GSM network. (08)
-Q2. a) What is hidden and exposed terminal problem? How can it be solved? (10)
-b) Explain the ATM reference model in brief? (10)
-Q3. a) What is Spread Spectrum? Explain any one technique in brief? (10)
-b) Explain the different attacks on wireless Networks? (10)
-Q4. a) Explain the GSM architecture alongwith its salient features. (10)
-b) ; Explain the Bluetooth protocol Architecture (10)
-‘ ie ) Explain the DAMA protocol and how can it be improved (10)
-F Explain the need for wireless security? How is it achieved in today’s world? . (10)
-Q6.a) What is Frequency reuse? Discuss the need for hexagonal pattern? (10)
-b) Compare and contrast the multiple access techniques. (10)
-Q7. Write short notes on (any four) :- (20)
-
-i) DECT ii) TETRA
-
-iii) WEP iv) CDMA
-
-v) GPRS vi) Access Point Control protocol
-
-, |
-
-{3
-
-=;
 ````

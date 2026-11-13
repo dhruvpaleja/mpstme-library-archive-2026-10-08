@@ -584,6 +584,8 @@ FR ICR D7 FAC KH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_EXTC_7006/Communication Theory and Systems/ANS_Communication Theory and Systems(702EX0C036)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (23 pages), mean OCR confidence 49.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -722,7 +724,6 @@ Pore eet
 oe | oO ) ( arma s|
 ° } ae
 }
-Ser tl s- naa \clertity mMatsr.e
 : Gs A Wee | \ \ Bis AG °
 Pena laanete OE a Noe KO)
 eae ee | (esa Ee 8)

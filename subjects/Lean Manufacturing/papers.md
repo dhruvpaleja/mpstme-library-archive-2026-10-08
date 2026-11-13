@@ -431,6 +431,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/LEAN MANUFACTURING/Lean Manufacturing, Sem-V, Batch 2024-25, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 86.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -575,7 +576,6 @@ CO-1; &
 SO-6; Describe structure of Quality circle with neat sketch. [05]
 BL-1
 
-HOH I I RII III IR RK KKK IR KKK KHER EERE EERE
 
 Page 4 of 4
 ````
@@ -587,6 +587,7 @@ Page 4 of 4
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/LEAN MANUFACTURING/Lean Manufacturing, Final exam ,2023-2024.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 /42/2023
 - Text: ocr (3 pages), mean OCR confidence 85.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -693,7 +694,6 @@ CO-1; Describe the concept of small lot size in lean production system with neat
 
 SO-2; BL-1 b.
 
-HAKKAR EEE EKER KEE RK EEE REE ABER ERREEHK EEK EERE KE BEER E RAK KEK KEK EEE
 
 Page 3 of 3
 ````

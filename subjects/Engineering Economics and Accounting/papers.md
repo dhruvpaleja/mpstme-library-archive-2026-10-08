@@ -462,6 +462,321 @@ MARKS
 MARKS
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper 7647a4321df7
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/ENGINEERING ECONOMICS AND ACCOUNTING/ENGINEERING ECONOMICS AND ACCOUNTING B TECH (MECHANICAL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 16/05/2016
+- Text: ocr (3 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Mechanical) Year: IV Semester: VIII
+
+Academic Year: 2015-16
+Batch: 2013-14
+
+Subject: Engineering Economics and Accounting
+
+Date: 16/05/2016
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1.. Question No. 1 is compulsory.
+
+2.. Out of remaining questions, attempt any FOUR questions.
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+1.Write a short note on any four of the following: (4x5=20 Marks)
+(a) Trial Balance
+(b) Comparison between Microeconomics and Macroeconomics.
+~ (c) Working Capital
+(d) Supply function
+" (e) Perfect Competition
+
+2. (a) Pass the necessary journal entries in the books of M/s Ramesh & Co for the following
+
+transaction: (5 x 2= 10 Marks)
+2015 Rs
+Jan 11 Started Business with cash 1,20,000
+jan 19 Goods Purchased for credit from M/s Pharmatech Distributors 25,000
+Jan 19 Goods Purchased from in cash 15,000
+[Jan 25 Goods sold on credit to M/s Jain Medicais 25,000
+[Jan 31 Paid for Wages 20,000
+
+2.(b) Explain the concept of Returns to Scale. Differentiate between 3 types of Returns to Scale by
+giving suitable example. (10 Marks)
+
+V3
+--- page 2 ---
+* 3.(a) State the law of demand and explain it graphically. Explain the exceptions or limitations to the
+law of demand. (10 Marks)
+
+F 3.(b) Prepare-a Cash Ledger for Jatin Polypacks based on the following transactions:
+‘ (5 x 2=10 Marks)
+(i} April 5, 2015 The firm started business with a Capital of Rs 1,20,000
+: * .. (ii) April 12,2015 Purchased goods from Tara Plastics in Cash worth Rs 55,000
+. , (iii) April 18, 2015 Goods sold for Cash worth Rs 35,000
+~ (iv) Abril’ 21, 2014 Cash paid to Raghav Enterprises Rs 50,000
+(v) April 29, 2014 Cash received from Jawahar Enterprises Rs 30,000
+
+4.(a) Define Economy. Distinguish between Capitalist Economy and Socialist Economy. Explain the
+characteristics of Mixed Economic system.. (10 Marks)
+
+4. (b). Determine the net present value(NPV) for a project that costs Rs 90,000 and would yield after
+tax cash flows of Rs 20,000 for first year, Rs 21,000 the second year, Rs 24,000 the third year, Rs
+27,000 the fourth year, Rs 30,000 for the fifth year and Rs 33,000 for the sixth year. Your firm’s cost
+of capital is 10.00 %. Also calculate the payback period and advise the manager whether the project
+should be initiated. Use NPV and Payback period approach. (10 Marks)
+
+5 (a). What do you mean by time value of money? Explain the concept of Present value and Future
+value. Determine the Present value of an investment which will amount to Rs. 2,50,000 after 8 years
+yielding 10% rate of interest compounded annually. (10 Marks)
+
+5. (b). Explain the concept of depreciation. Explain the Straight Line method and Written down value
+techniques for calculating depreciation using example. A Computer costs Rs. 30,000 and Rs. 11,000
+(as additional set-up/installation/maintenance expenses) is incurred. Its scrap value at the end of
+useful life of 5 years will be Rs. 1,000 . Calculate the amount of depreciation using the straight line
+method of depreciation. (10 Marks)
+
+6.a. Refer to the following table showing a demand schedule to answer following questions:
+(4+4+2=10 Marks)
+
+Price (Rs) Quantity demanded (Units)
+125 750
+
+100 1050
+
+75 1350
+
+(i). If price falls from Rs 125 to Rs 100, calculate elasticity of demand over this range using Midpoint
+
+aad method?
+
+(ii). As output increases from 1050 to 1350 what is marginal revenue?
+pa (iii) .1f the own-price elasticity of demand for a good is -1.6 and price decreases by 30%, what would
+be the impact on demand?
+
+2/3
+--- page 3 ---
+6.(b) Complete the following table: (10 Marks)
+
+Output | Total Total Total Average | Average Average Marginal
+Cost Fixed Variable | Fixed Variable Total Cost | Cost
+Cost Cost Cost Cost
+i?) 100
+1 60
+2 100
+3 40
+4 270
+5 200
+6 320
+7 10
+7. Write a short note on any four of the following: (4x 5=20 Marks)
+
+(a) Advantages and Disadvantages of investing in Mutual funds
+(b) Relationship of Economics with other disciplines
+
+(c) Law of Diminishing Marginal Utility
+
+(d) Isoquants
+
+(e) Objectives of the firms
+
+33
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper e93afa1cd925
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/ENGINEERING ECONOMICS AND ACCOUNTING/ENGINEERING_ECONOMICS_AND_ACCOUNTING_B TECH (MECHANICAL), BATCH_2013-14_RE_EXAM_.pdf`
+- Printed on paper: max marks: 20; duration hours: 3; exam date: 05 July 2016
+- Text: ocr (4 pages), mean OCR confidence 91.9
+
+````text
+SVKM’s NMIMS
+
+Programme: B.Tech (Mechanical) Year: IV
+
+Academic Year: 2015-16
+
+Batch: 2013-14
+
+Subject: Engineering Economics and Accounting Mark®
+Time: 10.00 am - 1.00 pm
+Date: 05 July 2016 ’ Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Qni1 DISTINGUISH BETWEEN THE FOLLOWING::- (In Tabular Form) 20
+MARKS
+
+1 MICRO V/S MACRO ECONOMICS
+
+2 SLM V/S RBD METHODS OF DEPRECIATION
+
+3 LONG TERM AND SHORT TERM USES OF FUNDS
+
+4 CAPITAL V/S DRAWINGS(IN ACCOUNTING TERMS)
+
+QN2 SOLVE THE FOLLOWING: 20
+MARKS
+
+A JOURNALISE THE FOLLOWING:-GIVE COMBINED JOURNAL ENTRIES AND THEIR 10
+
+NARRATIONS, MARKS
+1 MR ABC COMMENCED BUSINESS WITH CASH RS 1,00,000/- AND BANK RS 5,00,000/-.
+2 HE PURCHASED GOODS WORTH RS RS 15,000/-ON CASH BASIS AND RS 20,000/-
+
+ON CREDIT FROM MR BCG.
+
+Page 1/4
+--- page 2 ---
+QN2
+
+10
+
+QN 3
+
+HE SOLD GOODS WORTH RS 15,000/- ON CASH BASIS AND RS 5,000/-ON CREDIT
+BASIS TO MR LMN.
+
+HE PURCHASED A DELIVERY VAN RS 15,000/- AND A COMPUTER RS 10,000/-FOR
+OFFICE USE.HE PAID BY CHEQUE.
+
+HE PAID SALARY RS 1500/-,ELECTRICITY BILL RS 2,000/- BY CASH.
+
+PREPARE A TRIAL BALANCE FOR THE FOLLOWING:-
+
+RS/-
+CASH 50,000=00
+CAPITAL 70,000=00
+BANK 20,000=00
+GOODS PURCHASED 30,000=00
+GOODS SALES ~ 15,000=00
+GOODS PURCHASE RETURNS. 15,000=00
+GOODS SALES RETURNS 20,000=00
+SALARY 7,000=00
+BANK LOAN 32,000=00
+DELIVERY VAN 20,000=00
+
+CALCULATE DEPRECIATION
+
+10
+MARKS
+
+20
+
+Page wy
+--- page 3 ---
+MARKS
+
+A) MACHINE A WAS PURCHASED ON ON 01/01/2016 FOR RS 2,50,000/-HE PAID OCTRO! 10
+MARKS
+
+RS 20,000/- AND INSTALLATION CHARGES RS 30,000/-.
+
+THE ESTIMATED LIFE OF THE ASSET IS 10 YEARS AND THE ESTIMATED SCRAP VALUE IS
+RS 50,000/-
+
+a) CALCULATE THE ANNUAL DEPRECIATION ON THE MACHINE.
+b) WHAT IS THIS METHOD OF DEPRECIATION CALLED?
+
+c) WHAT IS DEPRECIATION?
+
+B) MACHINE B WAS PURCHASED ON 01/01/2011 FOR RS 1,00.000/- 10
+MARKS
+
+DEPRECIATION IS CHARGED @ 10% p.a..
+CALCULATE THE DEPRECIATION ON MACHINE A FOR 2 YEARS 2011,2012
+
+BY a) SLM METHOD b) RBD METHOD
+
+QN4 Answer the following:- 20
+MARKS
+
+1 ECONOMICS SYSTEMS
+
+2 LAWS OF D.M.U.
+
+3 BUDGETS —TYPES AND USES
+
+4 DEMAND FORECASTING
+
+QN5 WRITE NOTES ON THE FOLLOWING:- 20
+MARKS
+--- page 4 ---
+QN 6
+
+QN7
+
+ROLE OF AN ACCOUNTANT IN AN ORGANISATION
+GOLDEN RULES OF ACCOUNTING(WITH EXAMPLES)
+TYPES OF ACCOUNTS(WITH EXAMPLES)
+
+RATIO ANALYSIS
+
+WHAT ARE LEDGER ACCOUNTS?
+
+ELABOTRATE & GIVE EXAMPLES IF REQUIRED :-
+TIME VALUE OF MONEY
+
+ANNUITIES
+
+WORKING CAPITAL
+
+CASH FLOW AND FUND FLOW
+
+SHORT NOTES:-
+
+UTILITY-TYPES
+DEMAND-TYPES
+COMPARISON OF INVESTMENTS-USES IN AN ORGANISATION
+
+ELASTICITY OF DEMAND.
+
+20
+MARKS
+
+20 MARKS
+
+20
+MARKS
+
+Page 4
+````
+
 ## 2014-15 · Final-Exam · Sem 8 · paper 25910677160f
 
 - Departments: Mechanical
@@ -629,141 +944,7 @@ Find out Pay back period (04 marks)
 4/4
 ````
 
-## 2013-14 · Final-Exam · Sem 8 · paper 91f530931caa
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/ENGINEERING ECONOMICS AND ACCOUNTING/ENGINEERING ECONOMICS AND ACCOUNTING B TECH (MECHANICAL), 2013-14 FINAL EXAM.pdf`
-- Printed on paper: exam date: 17/05/2014
-- Text: ocr (3 pages), mean OCR confidence 91.0
-
-````text
-\
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (MECHANICAL) Year: IV Semester: VIII
-Academic Year: 2013-2014
-ane ee
-: : - _ sent OF Aion
-Subject : Engineering Economics and Accounting aa
-Marks: G0 ma
-
-Date : 17/05/2014 Time’: aes cD)
-
-Duratiéis
-Final-Examination on A
-lor < ee
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-
-1. (a) Explain the importance of Mutual funds as an investment option for retail investors.
-(b) How far a Capital Market plays an important role in generating funds for business?
-(c) Briefly discuss the concept of time value of money.
-(d) Point out the major differences between straight line method and reducing balance method of
-
-depreciation. [4x5 =20]
-2. (a)
-From the following total utility schedule: ' (5 x2 =10]
-Q, (units) 07 1 2 3 4 5 6 7
-TU, (Total 0 4 14 20 24 26 26 24
-Utility)
-
-(i) Derive the marginal utility schedule.
-(ii) Plot graphically the total and the marginal utility schedules.
-<p:apaeeens:.. Gi) Determine where the Law of Diminishing Marginal Utility begins to operate. Justify
-your answer.
-(iv) Find the saturation point. Mark it in the graphical presentation.
-(v) According to which approach of utility analysis of the theory of demand we can
-quantify utility? Who was the proponent of this approach of utility measurement?
---- page 2 ---
-consideration by the financial
-Project is to be undertaken.
-
-Project Site
-
-Initial Investment required
-Expected Life
-
-alue for the following two mutu:
-manager of Banti-Mandloi Ltd. ai
-
-Burhanpur Nanded
-Rs. 50 million
---- page 3 ---
-diab own.
-
-Cost of Capital 12% 15%
-
-Future Cash Flows (estimated) Year 1 = 5 million Year 1 = 14 million
-Year 2 = 12 million Year 2 = 20 million
-Year 3 = 10 million Year 3 = 22 million
-Year 4 = 15 million Year 4 = 10 million
-Year 5 = 8 million ; Year 5 = 15 million
-Year 6 = 15 million Year 6 = 15 million
-
-Year 7 = 12 million
-
-Assume that both the projects do not generate any scrap at the end of their projected useful life
-and all cash flows generate at the end of the year. . [20]
-
-Journalise the following transactions in the books of accounts of M/s Pachlor & Associates for
-
-the finaricial year 2013 -14. [5x4=20]
-
-(a) Credits Sales of Goods worth Rs. 250,000 made to Mr. Nirvan on 15” May, 2013.
-
-(b) Purchased Goods from Mr. Jayanta worth Rs. 10,23,000 on 19” May, 2013 and paid through
-cheque Nos. 00123 of SBI Bank account Nos. 31097.
-
-(c) Purchased Furniture on 24" May, 2013 worth Rs. 4,00,000 from Banerjee Bros. & Co. and
-made a partial payment of Rs.250,000 through SBI Bank cheque Nos. 00127.
-
-(d) Installation charges of an imported machinery paid Rs. 200,000 to a foreign Importer Tango
-& Co. after deducting TDS of Rs. 20,000 on 15% June, 2013.
-
-(e) Cheque received on 25" June, 2013 from Mr. Nirvan Rs. 248,000 in full and final settlement
-of his claim against 15" May dues.
-
-Differentiate between (any 4) , [4x 5 =20]
-(a) Capitalistic economy and socialistic economy
-
-(b) Gross Working Capital and Net Working Capital
-
-(c) Increase in Demand and Expansion of Demand
-
-(d) Accounting Cost and Economic Cost
-
-(©) Systematic Risk and Unsystematic Risk.
-
-Write short notes on: (Any 4) . [4 x 5=20]
-(a) Generally accepted accounting principles (GAAP)
-
-(b) Budgetary control
-
-(c) Determinants of Demand
-
-(d) Fundamental problems of an economy. -
-
-(e) ElementsofCost,
-
-53
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper 0cff9eb7d142
+## 2014-15 · Re-Exam · Sem 8 · paper 0cff9eb7d142
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
@@ -951,7 +1132,7 @@ d) Isoquants
 e) Oligopoly
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper 34572941c5d5
+## 2014-15 · Re-Exam · Sem 8 · paper 34572941c5d5
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
@@ -1035,141 +1216,138 @@ Q7. Write short notes on the following: (4x5=)20marks
 4. Economic Systems
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper 7647a4321df7
+## 2013-14 · Final-Exam · Sem 8 · paper 91f530931caa
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/ENGINEERING ECONOMICS AND ACCOUNTING/ENGINEERING ECONOMICS AND ACCOUNTING B TECH (MECHANICAL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 16/05/2016
-- Text: ocr (3 pages), mean OCR confidence 93.2
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/ENGINEERING ECONOMICS AND ACCOUNTING/ENGINEERING ECONOMICS AND ACCOUNTING B TECH (MECHANICAL), 2013-14 FINAL EXAM.pdf`
+- Printed on paper: exam date: 17/05/2014
+- Text: ocr (3 pages), mean OCR confidence 91.0
 
 ````text
+\
+
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Mechanical) Year: IV Semester: VIII
+Programme:B. Tech (MECHANICAL) Year: IV Semester: VIII
+Academic Year: 2013-2014
+ane ee
+: : - _ sent OF Aion
+Subject : Engineering Economics and Accounting aa
+Marks: G0 ma
 
-Academic Year: 2015-16
-Batch: 2013-14
+Date : 17/05/2014 Time’: aes cD)
 
-Subject: Engineering Economics and Accounting
+Duratiéis
+Final-Examination on A
+lor < ee
 
-Date: 16/05/2016
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1.. Question No. 1 is compulsory.
+1) Question No. 1 is compulsory.
 
-2.. Out of remaining questions, attempt any FOUR questions.
-3. In all FIVE questions to be attempted.
+2) Out of remaining questions, attempt any 4 questions.
 
-4. All questions carry equal marks.
+3) In all 5 questions to be attempted.
 
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
 
-1.Write a short note on any four of the following: (4x5=20 Marks)
-(a) Trial Balance
-(b) Comparison between Microeconomics and Macroeconomics.
-~ (c) Working Capital
-(d) Supply function
-" (e) Perfect Competition
+1. (a) Explain the importance of Mutual funds as an investment option for retail investors.
+(b) How far a Capital Market plays an important role in generating funds for business?
+(c) Briefly discuss the concept of time value of money.
+(d) Point out the major differences between straight line method and reducing balance method of
 
-2. (a) Pass the necessary journal entries in the books of M/s Ramesh & Co for the following
+depreciation. [4x5 =20]
+2. (a)
+From the following total utility schedule: ' (5 x2 =10]
+Q, (units) 07 1 2 3 4 5 6 7
+TU, (Total 0 4 14 20 24 26 26 24
+Utility)
 
-transaction: (5 x 2= 10 Marks)
-2015 Rs
-Jan 11 Started Business with cash 1,20,000
-jan 19 Goods Purchased for credit from M/s Pharmatech Distributors 25,000
-Jan 19 Goods Purchased from in cash 15,000
-[Jan 25 Goods sold on credit to M/s Jain Medicais 25,000
-[Jan 31 Paid for Wages 20,000
-
-2.(b) Explain the concept of Returns to Scale. Differentiate between 3 types of Returns to Scale by
-giving suitable example. (10 Marks)
-
-V3
+(i) Derive the marginal utility schedule.
+(ii) Plot graphically the total and the marginal utility schedules.
+<p:apaeeens:.. Gi) Determine where the Law of Diminishing Marginal Utility begins to operate. Justify
+your answer.
+(iv) Find the saturation point. Mark it in the graphical presentation.
+(v) According to which approach of utility analysis of the theory of demand we can
+quantify utility? Who was the proponent of this approach of utility measurement?
 --- page 2 ---
-* 3.(a) State the law of demand and explain it graphically. Explain the exceptions or limitations to the
-law of demand. (10 Marks)
+consideration by the financial
+Project is to be undertaken.
 
-F 3.(b) Prepare-a Cash Ledger for Jatin Polypacks based on the following transactions:
-‘ (5 x 2=10 Marks)
-(i} April 5, 2015 The firm started business with a Capital of Rs 1,20,000
-: * .. (ii) April 12,2015 Purchased goods from Tara Plastics in Cash worth Rs 55,000
-. , (iii) April 18, 2015 Goods sold for Cash worth Rs 35,000
-~ (iv) Abril’ 21, 2014 Cash paid to Raghav Enterprises Rs 50,000
-(v) April 29, 2014 Cash received from Jawahar Enterprises Rs 30,000
+Project Site
 
-4.(a) Define Economy. Distinguish between Capitalist Economy and Socialist Economy. Explain the
-characteristics of Mixed Economic system.. (10 Marks)
+Initial Investment required
+Expected Life
 
-4. (b). Determine the net present value(NPV) for a project that costs Rs 90,000 and would yield after
-tax cash flows of Rs 20,000 for first year, Rs 21,000 the second year, Rs 24,000 the third year, Rs
-27,000 the fourth year, Rs 30,000 for the fifth year and Rs 33,000 for the sixth year. Your firm’s cost
-of capital is 10.00 %. Also calculate the payback period and advise the manager whether the project
-should be initiated. Use NPV and Payback period approach. (10 Marks)
+alue for the following two mutu:
+manager of Banti-Mandloi Ltd. ai
 
-5 (a). What do you mean by time value of money? Explain the concept of Present value and Future
-value. Determine the Present value of an investment which will amount to Rs. 2,50,000 after 8 years
-yielding 10% rate of interest compounded annually. (10 Marks)
-
-5. (b). Explain the concept of depreciation. Explain the Straight Line method and Written down value
-techniques for calculating depreciation using example. A Computer costs Rs. 30,000 and Rs. 11,000
-(as additional set-up/installation/maintenance expenses) is incurred. Its scrap value at the end of
-useful life of 5 years will be Rs. 1,000 . Calculate the amount of depreciation using the straight line
-method of depreciation. (10 Marks)
-
-6.a. Refer to the following table showing a demand schedule to answer following questions:
-(4+4+2=10 Marks)
-
-Price (Rs) Quantity demanded (Units)
-125 750
-
-100 1050
-
-75 1350
-
-(i). If price falls from Rs 125 to Rs 100, calculate elasticity of demand over this range using Midpoint
-
-aad method?
-
-(ii). As output increases from 1050 to 1350 what is marginal revenue?
-pa (iii) .1f the own-price elasticity of demand for a good is -1.6 and price decreases by 30%, what would
-be the impact on demand?
-
-2/3
+Burhanpur Nanded
+Rs. 50 million
 --- page 3 ---
-6.(b) Complete the following table: (10 Marks)
+diab own.
 
-Output | Total Total Total Average | Average Average Marginal
-Cost Fixed Variable | Fixed Variable Total Cost | Cost
-Cost Cost Cost Cost
-i?) 100
-1 60
-2 100
-3 40
-4 270
-5 200
-6 320
-7 10
-7. Write a short note on any four of the following: (4x 5=20 Marks)
+Cost of Capital 12% 15%
 
-(a) Advantages and Disadvantages of investing in Mutual funds
-(b) Relationship of Economics with other disciplines
+Future Cash Flows (estimated) Year 1 = 5 million Year 1 = 14 million
+Year 2 = 12 million Year 2 = 20 million
+Year 3 = 10 million Year 3 = 22 million
+Year 4 = 15 million Year 4 = 10 million
+Year 5 = 8 million ; Year 5 = 15 million
+Year 6 = 15 million Year 6 = 15 million
 
-(c) Law of Diminishing Marginal Utility
+Year 7 = 12 million
 
-(d) Isoquants
+Assume that both the projects do not generate any scrap at the end of their projected useful life
+and all cash flows generate at the end of the year. . [20]
 
-(e) Objectives of the firms
+Journalise the following transactions in the books of accounts of M/s Pachlor & Associates for
 
-33
+the finaricial year 2013 -14. [5x4=20]
+
+(a) Credits Sales of Goods worth Rs. 250,000 made to Mr. Nirvan on 15” May, 2013.
+
+(b) Purchased Goods from Mr. Jayanta worth Rs. 10,23,000 on 19” May, 2013 and paid through
+cheque Nos. 00123 of SBI Bank account Nos. 31097.
+
+(c) Purchased Furniture on 24" May, 2013 worth Rs. 4,00,000 from Banerjee Bros. & Co. and
+made a partial payment of Rs.250,000 through SBI Bank cheque Nos. 00127.
+
+(d) Installation charges of an imported machinery paid Rs. 200,000 to a foreign Importer Tango
+& Co. after deducting TDS of Rs. 20,000 on 15% June, 2013.
+
+(e) Cheque received on 25" June, 2013 from Mr. Nirvan Rs. 248,000 in full and final settlement
+of his claim against 15" May dues.
+
+Differentiate between (any 4) , [4x 5 =20]
+(a) Capitalistic economy and socialistic economy
+
+(b) Gross Working Capital and Net Working Capital
+
+(c) Increase in Demand and Expansion of Demand
+
+(d) Accounting Cost and Economic Cost
+
+(©) Systematic Risk and Unsystematic Risk.
+
+Write short notes on: (Any 4) . [4 x 5=20]
+(a) Generally accepted accounting principles (GAAP)
+
+(b) Budgetary control
+
+(c) Determinants of Demand
+
+(d) Fundamental problems of an economy. -
+
+(e) ElementsofCost,
+
+53
 ````
 
 ## 2013-14 · Re-Exam · Sem 8 · paper cb72ecf05b6b
@@ -1265,182 +1443,4 @@ Q7. Write short notes on the following: (4x5=)20marks
 
 3. Measurement of elasticity of demand.
 4. Methodology of Economics.
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper e93afa1cd925
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/ENGINEERING ECONOMICS AND ACCOUNTING/ENGINEERING_ECONOMICS_AND_ACCOUNTING_B TECH (MECHANICAL), BATCH_2013-14_RE_EXAM_.pdf`
-- Printed on paper: max marks: 20; duration hours: 3; exam date: 05 July 2016
-- Text: ocr (4 pages), mean OCR confidence 91.9
-
-````text
-SVKM’s NMIMS
-
-Programme: B.Tech (Mechanical) Year: IV
-
-Academic Year: 2015-16
-
-Batch: 2013-14
-
-Subject: Engineering Economics and Accounting Mark®
-Time: 10.00 am - 1.00 pm
-Date: 05 July 2016 ’ Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Qni1 DISTINGUISH BETWEEN THE FOLLOWING::- (In Tabular Form) 20
-MARKS
-
-1 MICRO V/S MACRO ECONOMICS
-
-2 SLM V/S RBD METHODS OF DEPRECIATION
-
-3 LONG TERM AND SHORT TERM USES OF FUNDS
-
-4 CAPITAL V/S DRAWINGS(IN ACCOUNTING TERMS)
-
-QN2 SOLVE THE FOLLOWING: 20
-MARKS
-
-A JOURNALISE THE FOLLOWING:-GIVE COMBINED JOURNAL ENTRIES AND THEIR 10
-
-NARRATIONS, MARKS
-1 MR ABC COMMENCED BUSINESS WITH CASH RS 1,00,000/- AND BANK RS 5,00,000/-.
-2 HE PURCHASED GOODS WORTH RS RS 15,000/-ON CASH BASIS AND RS 20,000/-
-
-ON CREDIT FROM MR BCG.
-
-Page 1/4
---- page 2 ---
-QN2
-
-10
-
-QN 3
-
-HE SOLD GOODS WORTH RS 15,000/- ON CASH BASIS AND RS 5,000/-ON CREDIT
-BASIS TO MR LMN.
-
-HE PURCHASED A DELIVERY VAN RS 15,000/- AND A COMPUTER RS 10,000/-FOR
-OFFICE USE.HE PAID BY CHEQUE.
-
-HE PAID SALARY RS 1500/-,ELECTRICITY BILL RS 2,000/- BY CASH.
-
-PREPARE A TRIAL BALANCE FOR THE FOLLOWING:-
-
-RS/-
-CASH 50,000=00
-CAPITAL 70,000=00
-BANK 20,000=00
-GOODS PURCHASED 30,000=00
-GOODS SALES ~ 15,000=00
-GOODS PURCHASE RETURNS. 15,000=00
-GOODS SALES RETURNS 20,000=00
-SALARY 7,000=00
-BANK LOAN 32,000=00
-DELIVERY VAN 20,000=00
-
-CALCULATE DEPRECIATION
-
-10
-MARKS
-
-20
-
-Page wy
---- page 3 ---
-MARKS
-
-A) MACHINE A WAS PURCHASED ON ON 01/01/2016 FOR RS 2,50,000/-HE PAID OCTRO! 10
-MARKS
-
-RS 20,000/- AND INSTALLATION CHARGES RS 30,000/-.
-
-THE ESTIMATED LIFE OF THE ASSET IS 10 YEARS AND THE ESTIMATED SCRAP VALUE IS
-RS 50,000/-
-
-a) CALCULATE THE ANNUAL DEPRECIATION ON THE MACHINE.
-b) WHAT IS THIS METHOD OF DEPRECIATION CALLED?
-
-c) WHAT IS DEPRECIATION?
-
-B) MACHINE B WAS PURCHASED ON 01/01/2011 FOR RS 1,00.000/- 10
-MARKS
-
-DEPRECIATION IS CHARGED @ 10% p.a..
-CALCULATE THE DEPRECIATION ON MACHINE A FOR 2 YEARS 2011,2012
-
-BY a) SLM METHOD b) RBD METHOD
-
-QN4 Answer the following:- 20
-MARKS
-
-1 ECONOMICS SYSTEMS
-
-2 LAWS OF D.M.U.
-
-3 BUDGETS —TYPES AND USES
-
-4 DEMAND FORECASTING
-
-QN5 WRITE NOTES ON THE FOLLOWING:- 20
-MARKS
---- page 4 ---
-QN 6
-
-QN7
-
-ROLE OF AN ACCOUNTANT IN AN ORGANISATION
-GOLDEN RULES OF ACCOUNTING(WITH EXAMPLES)
-TYPES OF ACCOUNTS(WITH EXAMPLES)
-
-RATIO ANALYSIS
-
-WHAT ARE LEDGER ACCOUNTS?
-
-ELABOTRATE & GIVE EXAMPLES IF REQUIRED :-
-TIME VALUE OF MONEY
-
-ANNUITIES
-
-WORKING CAPITAL
-
-CASH FLOW AND FUND FLOW
-
-SHORT NOTES:-
-
-UTILITY-TYPES
-DEMAND-TYPES
-COMPARISON OF INVESTMENTS-USES IN AN ORGANISATION
-
-ELASTICITY OF DEMAND.
-
-20
-MARKS
-
-20 MARKS
-
-20
-MARKS
-
-Page 4
 ````

@@ -1,8 +1,103 @@
 # Principles and Practices of Management: question papers in full
 
-23 unique papers · 2006-07 to 2014-15 · Information Technology, Electronics and Telecommunication, Chemical, Civil, Mechanical, Computer Engineering, Common (all branches)
+22 unique papers · 2006-07 to 2015-16 · Information Technology, Electronics and Telecommunication, Chemical, Civil, Mechanical, Computer Engineering, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2015-16 · Re-Exam · Sem 4 · paper 9d2b0cf1a88d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Principles & Practices of Management/Principles & Practices of Management Batch 2014-15 Re E0001.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 17/05/2016
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: II Semester:IV =
+onary,
+\ Academic Year: 2015-16 Peal « XG
+2 ‘ in ;
+Batch: 2014-15 3; j
+‘ai
+Subject: Principles & Practices of Management Marks: 60 =, &S
+
+" oS
+Time: 2.00 pm pa :
+Date: 17/05/2016 Duration: 2 (hrs —
+
+Re-Examination
+
+Instructioff$? Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. Inall FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started ona fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+1. Case Study: Fool’s Paradise
+
+Mr. Alck Banerjee is the CEO of a medium-sized pharmaceutical firm in Kolkata. He holds a Ph.D. in
+Pharmacy. However, he has not been involved in research and development of new products for two
+decades. Though turnover is not a problem for the company, Mr. Banerjee and his senior colleagues
+notized that the workers on hourly basis are not working up to their full potential. It is well-known fact
+tha. they filled their days with unnecessary and unproductive activities and worked only for pay cheque. .
+The situation demanded immediate managerial attention and prompt remedial measures as the
+organization has started to crumble under weight of uneconomical effort. Mr. Banerjee knew very well
+that orlly way to progress and prosper is to motivate workers to peak performance through various
+incentive plans.
+
+One fine morning, Mr. Banerjee contacted the personnel manager and enquired:” What is the problem
+with the workers on hourly basis? The wage bill shows that we pay them the highest in the industry. Our
+working conditions are fine. Our fringe benefits are excellent. Still these workers are not motivated. What
+do they require really?” The Personnel Manager gave the following reply: “ I have already informed you
+a number of times, that money, working conditions and benefits are not enough. Other things are equally
+important. One of the workers in the group recently gave me a clue as to why more and more workers are
+joir'ng the bandwagon of ‘non-performers’. He felt bad that hard work and efficiency go unnoticed and
+unrewarded in our organization. Our promotions and benefit plans are tied to length of service. Even the
+lazy workers, accordingly, enjoy all the benefits in the organization, which, infact, according to the
+workers, SfOuld go only to those who deserve and work hard.” Mr Banerjee then wanted the Personnel
+
+Manager to look into problem more closely and find out the solution to the problems of workers on
+hourly basis.
+
+Questions
+a. Explain the motivational problem in the case by relating it to Herzberg Theory (# Marks)
+b. If you were the Personnel Manager, how would you motivate the employees so that they work better?
+
+(& Marks)
+
+lLof2
+--- page 2 ---
+2.a. Explain McGregor’s Theory X & Theory Y. (6 Marks)
+2.b. Briefly explain the leadership styles as enumerated in Managerial duate's Marks)
+
+3.Explain the statement that Planning involves choice and Decision making. Also explain 8 step process
+of Decision making using some suitable example. () @Marks)
+4.Explain the 10 managerial roles proposed by Henry Mintzberg citing suitable examples. (12Marks)
+
+5.a. Define Organizational Change. Explain any 4 reasons as to why people resist change? 6 Marks)
+5.b. Explain 3 types of Control with the help of a diagram (G Marks)
+
+6.a.Define and explain Value Chain Management. Explain any 4 obstacles to Value chain manggement.
+
+(6 marks)
+6.b. Explain in brief any 5 elements of Organizational design. G6 Marks)
+
+7.a.List any 5 recruitment methods and one advantage and disadvantage of each method 6 Marks)
+7.b.Explain 5 stages of Group Development(é Marks)
+
+2 of 2
+````
 
 ## 2014-15 · Final-Exam · Sem 4 · paper 2f895b628de4
 
@@ -11,6 +106,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/PRINCIPLES AND PRACTICES OF MANAGEMENT/PRINCIPLES AND PRACTICES OF MANAGEMENT BATCH 2014-2015 Final.pdf` (+5 identical copies)
 - Printed on paper: exam date: 18/05/2015
 - Text: ocr (3 pages), mean OCR confidence 93.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -25,7 +121,6 @@ Academic Year: 2014-2015
 Subject: Principles & Practices of Management nts :
 Marks: (/ a
 Date: 18/05/2015 Time : 86 FMB 1 Wed noon
-Durati Atri PRR ERY
 Final-Examination Noe at
 
 el
@@ -127,99 +222,85 @@ eX
 BY,
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper 9d2b0cf1a88d
+## 2014-15 · Re-Exam · Sem 4 · paper 32d004efce21
 
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Principles & Practices of Management/Principles & Practices of Management Batch 2014-15 Re E0001.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 17/05/2016
-- Text: ocr (2 pages), mean OCR confidence 92.0
+- Departments: Chemical, Civil, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/PRINCIPLES AND PRACTICES OF MANAGEMENT/PRINCIPLES AND PRACTICES OF MANAGEMENT BATCH 2013-14 Re-exam.pdf` (+3 identical copies)
+- Printed on paper: exam date: 18/05/2015
+- Text: ocr (2 pages), mean OCR confidence 94.9
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (All Streams) Year: II Semester:IV =
-onary,
-\ Academic Year: 2015-16 Peal « XG
-2 ‘ in ;
-Batch: 2014-15 3; j
-‘ai
-Subject: Principles & Practices of Management Marks: 60 =, &S
+Programme: MBA Tech (All Streams) Year: II Semester: IV
 
-" oS
-Time: 2.00 pm pa :
-Date: 17/05/2016 Duration: 2 (hrs —
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Principles and Practices of Management
+
+Marks:
+
+Date: 18/05/2015 00 noo
 
 Re-Examination
 
-Instructioff$? Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
+ae
+
+Instruction: Candidates should read carefully the instructions printed on the Question paper and
+on the cover of the Answer Book, which is provided for their use.
 
 NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
 
-3. Inall FIVE questions to be attempted.
+1) Question No. Q.1 is compulsory.
 
-4. All questions carry equal marks.
+2) Out of remaining Questions, attempt any 4 Questions.
+3) In all 5 Questions to be attempted.
 
-5. Answer to each new question to be started ona fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
+4) All Questions carry equal marks.
 
-1. Case Study: Fool’s Paradise
+5) Answer to each new Question to be started on a fresh page.
+6) Figures on the right hand side indicate full marks.
 
-Mr. Alck Banerjee is the CEO of a medium-sized pharmaceutical firm in Kolkata. He holds a Ph.D. in
-Pharmacy. However, he has not been involved in research and development of new products for two
-decades. Though turnover is not a problem for the company, Mr. Banerjee and his senior colleagues
-notized that the workers on hourly basis are not working up to their full potential. It is well-known fact
-tha. they filled their days with unnecessary and unproductive activities and worked only for pay cheque. .
-The situation demanded immediate managerial attention and prompt remedial measures as the
-organization has started to crumble under weight of uneconomical effort. Mr. Banerjee knew very well
-that orlly way to progress and prosper is to motivate workers to peak performance through various
-incentive plans.
+Section A
+Q.1Case Study: (10 marks)
 
-One fine morning, Mr. Banerjee contacted the personnel manager and enquired:” What is the problem
-with the workers on hourly basis? The wage bill shows that we pay them the highest in the industry. Our
-working conditions are fine. Our fringe benefits are excellent. Still these workers are not motivated. What
-do they require really?” The Personnel Manager gave the following reply: “ I have already informed you
-a number of times, that money, working conditions and benefits are not enough. Other things are equally
-important. One of the workers in the group recently gave me a clue as to why more and more workers are
-joir'ng the bandwagon of ‘non-performers’. He felt bad that hard work and efficiency go unnoticed and
-unrewarded in our organization. Our promotions and benefit plans are tied to length of service. Even the
-lazy workers, accordingly, enjoy all the benefits in the organization, which, infact, according to the
-workers, SfOuld go only to those who deserve and work hard.” Mr Banerjee then wanted the Personnel
+Maharashtra Engineering Works is surviving on its past glory. Of late, numerous administrative
+problems have surfaced & management feels it is getting serious because the top position has
+remained vacant for quite some time. They appointed Mr. Sunil Aphale as a CEO with clear
+understanding that he would sort out the problem to set the business on right track.
 
-Manager to look into problem more closely and find out the solution to the problems of workers on
-hourly basis.
-
-Questions
-a. Explain the motivational problem in the case by relating it to Herzberg Theory (# Marks)
-b. If you were the Personnel Manager, how would you motivate the employees so that they work better?
-
-(& Marks)
-
-lLof2
+Soon after his appointment Aphale reviews the working of the plant. On production front he
+finds the cost is rising along with the increase in complaints about quality & the department is
+not able to maintain its delivery schedule. He calls the works managers and he admits charges of
+poor performance and defends himself by saying that delivery schedules are delayed because
+marketing departments makes its promises without consulting us. Regarding problem of quality
+he points out that R& D department introduced engineering changes without considering our
+constraints. Further he remarks that due to tight cash position, finance department has not been
+able to pay the suppliers in time. Consequently, the supplies have been erratic. Mr. Aphale
+realizes that he must chalk out an aggressive plan otherwise the situation will go out of his
+control. Moreover he has to show results to the management because that is the basis of his
+appointment.
 --- page 2 ---
-2.a. Explain McGregor’s Theory X & Theory Y. (6 Marks)
-2.b. Briefly explain the leadership styles as enumerated in Managerial duate's Marks)
+Questions-
 
-3.Explain the statement that Planning involves choice and Decision making. Also explain 8 step process
-of Decision making using some suitable example. () @Marks)
-4.Explain the 10 managerial roles proposed by Henry Mintzberg citing suitable examples. (12Marks)
+xa. Identify the major problems in Maharashtra Engineering Works. (05 Marks)
+\ — b. Suggest measures to help Mr. Aphale in his mission. (05 Marks)
+Section B
 
-5.a. Define Organizational Change. Explain any 4 reasons as to why people resist change? 6 Marks)
-5.b. Explain 3 types of Control with the help of a diagram (G Marks)
+Q2. “The workers are not mere cogs in the machine.”Discuss this statement with reference to the
 
-6.a.Define and explain Value Chain Management. Explain any 4 obstacles to Value chain manggement.
+contributions made by Prof. Elton Mayo. (10 Marks)
+Q3. Compare and contrast Mechanistic and Organic Structures. (10 Marks)
+Q4. What are the Key functions of management? Any five in brief. (10 Marks)
+Q5. Describe with a suitable diagram the change process proposed by Lewin. (10 Marks)
+Q6. Short notes: (Any Two) (10 Marks)
 
-(6 marks)
-6.b. Explain in brief any 5 elements of Organizational design. G6 Marks)
-
-7.a.List any 5 recruitment methods and one advantage and disadvantage of each method 6 Marks)
-7.b.Explain 5 stages of Group Development(é Marks)
-
-2 of 2
+a. Job Satisfaction
+b. Compensation and benefits
+c. Self- Actualization according to Maslow’s hierarchy
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper bb2246ed0bfb
@@ -334,6 +415,70 @@ Q7) B). Contrast ethnocentric, polycentric, and geocentric attitudes toward glob
 (6 marks)
 
 2/2
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 4da0ccb2f0f7
+
+- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/PRINCIPLES AND PRACTICES OF MANAGEMENT/Principles & Practices of Management Batch( 2013-14) Re-exam.pdf` (+5 identical copies)
+- Printed on paper: max marks: 50; exam date: 06/07/2015
+- Text: ocr (1 page), mean OCR confidence 89.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: II Semester: IV
+
+Academic Year: 2014-15
+La
+Batch: 2013-14 ry sy
+
+. l estun
+Subject : Principles & Practices of Management Marks: 50, 3 ( - re ye
+
+Time : 10. ‘to 12.00 50S
+Date : 06/07/2015 Durations: ° J
+
+Dae a
+
+es,
+
+Re-Examination.
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No._1 is compulsory.
+
+2) Out of remaining questions, attempt any _4 questions.
+
+3) In all _5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+1 Write notes on any two of the following
+a) Three-needs theory
+b) Value chain management 10
+
+c) importance of staffing
+
+2 What are the major contributions of F. Taylor? 10
+3 What are the different types of plan? Please provide relevant examples.
+10
+4 Why is market research the most important aspect before launchinganew 10
+product?
+5 Discuss Herzberg’s contribution in management literature? 10
+6 What are the various organizational structures? 10
+
+1/4
 ````
 
 ## 2013-14 · Final-Exam · Sem 4 · paper be600880e779
@@ -459,87 +604,6 @@ management. (5 marks)
 rn FER
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 32d004efce21
-
-- Departments: Chemical, Civil, Information Technology, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/PRINCIPLES AND PRACTICES OF MANAGEMENT/PRINCIPLES AND PRACTICES OF MANAGEMENT BATCH 2013-14 Re-exam.pdf` (+3 identical copies)
-- Printed on paper: exam date: 18/05/2015
-- Text: ocr (2 pages), mean OCR confidence 94.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: II Semester: IV
-
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Principles and Practices of Management
-
-Marks:
-
-Date: 18/05/2015 00 noo
-
-Re-Examination
-
-ae
-
-Instruction: Candidates should read carefully the instructions printed on the Question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. Q.1 is compulsory.
-
-2) Out of remaining Questions, attempt any 4 Questions.
-3) In all 5 Questions to be attempted.
-
-4) All Questions carry equal marks.
-
-5) Answer to each new Question to be started on a fresh page.
-6) Figures on the right hand side indicate full marks.
-
-Section A
-Q.1Case Study: (10 marks)
-
-Maharashtra Engineering Works is surviving on its past glory. Of late, numerous administrative
-problems have surfaced & management feels it is getting serious because the top position has
-remained vacant for quite some time. They appointed Mr. Sunil Aphale as a CEO with clear
-understanding that he would sort out the problem to set the business on right track.
-
-Soon after his appointment Aphale reviews the working of the plant. On production front he
-finds the cost is rising along with the increase in complaints about quality & the department is
-not able to maintain its delivery schedule. He calls the works managers and he admits charges of
-poor performance and defends himself by saying that delivery schedules are delayed because
-marketing departments makes its promises without consulting us. Regarding problem of quality
-he points out that R& D department introduced engineering changes without considering our
-constraints. Further he remarks that due to tight cash position, finance department has not been
-able to pay the suppliers in time. Consequently, the supplies have been erratic. Mr. Aphale
-realizes that he must chalk out an aggressive plan otherwise the situation will go out of his
-control. Moreover he has to show results to the management because that is the basis of his
-appointment.
---- page 2 ---
-Questions-
-
-xa. Identify the major problems in Maharashtra Engineering Works. (05 Marks)
-\ — b. Suggest measures to help Mr. Aphale in his mission. (05 Marks)
-Section B
-
-Q2. “The workers are not mere cogs in the machine.”Discuss this statement with reference to the
-
-contributions made by Prof. Elton Mayo. (10 Marks)
-Q3. Compare and contrast Mechanistic and Organic Structures. (10 Marks)
-Q4. What are the Key functions of management? Any five in brief. (10 Marks)
-Q5. Describe with a suitable diagram the change process proposed by Lewin. (10 Marks)
-Q6. Short notes: (Any Two) (10 Marks)
-
-a. Job Satisfaction
-b. Compensation and benefits
-c. Self- Actualization according to Maslow’s hierarchy
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 0a1a7b1b01f4
 
 - Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
@@ -635,70 +699,6 @@ Q.6. Write short notes on any two of the following: 10 Marks
 oo
 
 Q}9
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 4da0ccb2f0f7
-
-- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/IV SEMESTER/PRINCIPLES AND PRACTICES OF MANAGEMENT/Principles & Practices of Management Batch( 2013-14) Re-exam.pdf` (+5 identical copies)
-- Printed on paper: max marks: 50; exam date: 06/07/2015
-- Text: ocr (1 page), mean OCR confidence 89.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (ALL STREAMS) Year: II Semester: IV
-
-Academic Year: 2014-15
-La
-Batch: 2013-14 ry sy
-
-. l estun
-Subject : Principles & Practices of Management Marks: 50, 3 ( - re ye
-
-Time : 10. ‘to 12.00 50S
-Date : 06/07/2015 Durations: ° J
-
-Dae a
-
-es,
-
-Re-Examination.
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No._1 is compulsory.
-
-2) Out of remaining questions, attempt any _4 questions.
-
-3) In all _5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1 Write notes on any two of the following
-a) Three-needs theory
-b) Value chain management 10
-
-c) importance of staffing
-
-2 What are the major contributions of F. Taylor? 10
-3 What are the different types of plan? Please provide relevant examples.
-10
-4 Why is market research the most important aspect before launchinganew 10
-product?
-5 Discuss Herzberg’s contribution in management literature? 10
-6 What are the various organizational structures? 10
-
-1/4
 ````
 
 ## 2012-13 · Exam not stated · Trim 5 · paper e6eb1d59a28e
@@ -831,6 +831,7 @@ c. I Effective work teams
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/PRINCIPLES AND PRACTICE OF MANAGEMENT/PRINCIPLES AND PRACTICS OF MANAGEMENT 2011-2012.pdf` (+4 identical copies)
 - Printed on paper: exam date: 08/02/2012
 - Text: ocr (2 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —_
@@ -902,7 +903,6 @@ business. (10 Marks)
 
 ij
 
-JER OSS SIG GEIS EIS SICIE CEES IIA EIOROIS EOE ISEIO SRSA IORI AI IOK
 
 a
 
@@ -916,6 +916,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/PRINCIPLES AND PRACTICE OF MANAGEMENT/PRINCIPLES & PRACTICS OF MANAGEMENT BATCH 2011-12 RE EXA0001(1).pdf` (+5 identical copies)
 - Printed on paper: exam date: 23/06/2012
 - Text: ocr (2 pages), mean OCR confidence 92.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ~*~
@@ -997,7 +998,6 @@ control as well as on other areas of enterprise operations. (10 Marks)
 
 6. Explain the various kinds of organization structure in detail . (10 Marks)
 
-OR A RK A RR RK RR KR KK RK KK KEK RK
 
 Page 2 of 2
 ````
@@ -1894,110 +1894,4 @@ new workers too resist any type of control? (7)
 Q:3 What type of control system would you suggest to improve production?
 
 (6)
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 43d9e5839d24
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/TRIM IV/PRINCIPLES AND PRACTICES OF MANAGEMENT/scan0072.pdf`
-- Printed on paper: exam date: 26/10/2012
-- Text: ocr (2 pages), mean OCR confidence 92.7
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Enginee
-
-Programme: MBA (T ech) (COMP) Year: II Trimester: IV
-. Academic Year : 2012-2013
-
-Subject: PRINCIPLES OF COMMUNICATION SYSTEM Marks:
-
-Time: 2.00p
-
-Date: 26/10/2012 Duration: 3
-
-Final - Examination
-
-Al
-
-Instructions:-candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use.
-
-NB: - 1) Question No ONE is compulsory
-2) Out of remaining attempt FOUR questions,
-3) All Questions carry equal marks.
-
-4) Figures in brackets on right hand side indicate full marks
-
-Ql. Attempt All
-A) _ Derive the equation of modulation index in terms of Vmax and Vmin for AM
-B) Differentiate between time and frequency domain multiplexing.
-
-C) The antenna current of an AM broadcast transmitter is 8 Amperes when only the carrier is
-sent, but it increases to 8.93 A when the carrier is modulated by a single sine wave. Find the
-j percentage modulation. Determine the antenna current when the percent of modulation
-changes to 0.8.
-
-2. Attempt All
-A) Explain the super TRF receiver with block diagram
-B) Explain Direct method for FM generation.
-Cc) What is multiplexing? What is the role multiplexing in communication system?
-'Q3. @tlempt AU
-A) What is sampling? Explain sampling theorem for low Pass
-B) Explain properties of radio waves.
-
-C) Explain generation and detection of PAM with their waveform.
-
-Yo.
-
-6)
-6)
-(10)
-
-(8)
-@)
-(4)
-
-(4)
-(8)
-(8)
---- page 2 ---
-Q4. Attempt All
-
-A) The first stage of a two-stage amplifier has a voltage gain of 10, a 600 ohm resistor, ~ (10)
-
-1600 ohm equivalent noise resistance and a 27 kilo ohm output resistor. For the second
-stage these values are 25, 81 kilo ohm, 10 Kilo ohm and 1 mega ohm respectively.
-Calculate equivalent input-noise resistance of this two-stage amplifier. :
-B) State and explain types of Internal Noise > , (10)
-
-Q5. Attempt All
-A) Draw and Explain Pre-emphasis and De-emphasis circuits in FM (10)
-
-B) Ina broadcast super heterodyne receiver having no RF amplifier, the loaded Q of the (10)
-antenna coupling circuit is 100. If the intermediate frequency is 455 kHZ, calculate
-
-A. the image frequency and its rejection ratio at 1000 kHZ
-
-B. the image frequency and its rejection ratio at 25 MHz.
-
-Q6. Attempt All
-A) State and Explain Characteristics of Receiver. (10)
-B) InanFM system when the audio frequency is 500 Hz and the AF voltage is 2.4 V, the (10)
-
-deviation is 4.8 kHz. If the AF voltage is now increased to 7.2 V what is the new deviation?
-If the AF voltage is raised to 10 V while the AF is dropped to 200Hz, what is the deviation?
-} Find modulation index in each case.
-
-Q7. Write Short Note (Attempt Any 4) (20)
-A) Low level AM Modulator.
-B) Write a short note on simple slope detector
-) Explain Phase Shift Metnod. .
-Dp) Explain VSB transmission.
-
-E) Explain Propagation of waves.
-
-Qf
 ````

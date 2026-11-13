@@ -2,388 +2,6 @@
 
 Answer keys and model answers published on the portal, newest first.
 
-## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 051310648218
-
-- Departments: Cyber Security
-- Programmes: BTech CyberSecurity 7010
-- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_CyberSecurity_7010/Information Systems Audit/ANS_Information Systems Audit(702IT0E033)_2025-2026.docx`
-- Printed on paper: max marks: 100
-- Text: docx (1 page)
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-|
-Program/s: B.TECH
-Stream/s : CSE CYBER SECURITY
-| Year: IV Semester: VII
-|
-Subject: Information System Audit
-| Time: _____ hrs (______to_______)
-|
-Date:   /   / 2024
-| No. of Pages: 3
-|
-Marks: 100
-|
-|
-Final Examination
-|
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of the remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer each new question to be started on a fresh page.
-Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1
-
-|
-| Answer briefly:
-| [20]
-|
-CO-1;
-BL-1
-| a.
-| List and briefly describe the five types of assets that an IS audit aims to safeguard.
-Ans:
-Each Point 1 marks
-1. Data
-2. Application Systems
-3. Technology
-4. Facilities
-5. People
-|
-|
-CO-2;
-BL-2
-| b.
-| Describe the difference between Corporate Governance and IT Governance.
-Ans:
-Each element 3 points at-least
-Corporate Governance:
-Focus on : Overall organizational control and accountability
-Objective: Ensure ethical, transparent, and sustainable business practices
-Stakeholders: Board of Directors, Shareholders, Executives
-Outcome: Organizational value creation and stakeholder trust
-IT Governance
-Focus on : Management and control of IT resources
-Objective: Align IT with business goals and manage IT risks
-Stakeholders: CIO, IT Managers, Information Security Officers
-Outcome: IT-enabled business value and reduced technology risk
-|
-|
-CO-3;
-BL-1
-| c.
-| Explain the key stages involved in the Information System (IS) acquisition process
-1 mark each point
-1 mark example
-
-Selection Process
-Contracting & Procurement
-Implementation & Integration
-Post-Acquisition Review
-
-|
-|
-CO-4;
-BL-2
-| d.
-| While auditing IT Asset Management, which elements needs to be considered prior?
-Ans:
-Each Point 1 marks
-
-Owner
-Designated custodian
-Specific identification of the asset
-Relative value to the organization
-Loss implications and recovery priority
-Location
-Security/risk classification
-Asset group (where the asset forms part of a larger information system)
-|
-|
-Q2
-CO-2;
-BL-4
-| a.
-| SecureBank Ltd. is a rapidly growing financial services company offering digital banking and investment solutions to customers across Asia and Europe. The organization operates with over 800 employees and manages multiple online platforms for retail banking, credit processing, and investment management. Its core IT infrastructure includes centralized data centers in Singapore and Frankfurt, which host customer transaction databases, mobile banking applications, and compliance management systems.
-Situation:
-Recently, the organization’s internal audit report revealed gaps in IT governance and business continuity planning (BCP).
-The IT governance framework lacked alignment with corporate strategy and regulatory obligations. A network outage in Frankfurt caused a temporary suspension of online transactions, affecting over 10,000 customers for nearly 6 hours. Moreover, SecureBank’s data backup procedures were inconsistent across departments, and there was no clearly defined recovery time objective (RTO) or recovery point objective (RPO) for critical services. The Board of Directors instructed the Chief Information Officer (CIO) to establish a unified IT Governance and Business Continuity Framework, ensuring regulatory compliance (Basel III, GDPR) and operational resilience.
-Objectives:
-Aligning IT Governance with corporate objectives and regulatory requirements.
-Establish a comprehensive Business Continuity and Disaster Recovery Plan (BCP/DRP).
-Minimize service downtime and ensure customer data protection.
-Define RTO and RPO for mission-critical systems.
-Evaluate maturity of IT processes to continuously improve resilience.
-Define the backup and disaster recovery plan for Tech Solutions.
-Mention in detail which Risk Profile Design Factor of COBIT framework should be focused while defining the plan.
-Ans:
-BCP and DR plan 5 marks
-COBIT Factors 5 marks
-BCP and DR plan:
-Risk Analysis & Business Impact Assessment (BIA): Identify critical banking systems (core banking, online transactions, payment gateways).
-
-Recovery Strategies: Define RTOs and RPOs for essential services; maintain redundant data centers and cloud backups.
-
-Incident Response: Form dedicated crisis and IT recovery teams.
-
-Communication Plan: Ensure coordination between IT, operations, and regulators.
-
-Testing & Maintenance: Conduct regular DR drills and policy reviews.
-
-COBIT Factors:
-COBIT Risk Profile Design Factors to Prioritize:
-
-Enterprise Strategy & Risk Appetite: Align IT continuity with business objectives.
-
-Compliance Requirements: Meet Basel III and GDPR mandates.
-
-Threat Landscape: Address cyber threats, outages, and vendor risks.
-
-Information & Infrastructure Criticality: Protect customer data and transaction systems.
-| [10]
-|
-Q2
-CO-4;
-BL-4
-| b.
-| Analyze the potential risks of weak segregation of duties (SoD) during system development and implementation.
-Potential Risks 5 marks
-Mitigation   5 marks
-
-Ans:
-Weak Segregation of Duties (SoD) in system development allows the same individual to perform conflicting roles, such as design, programming, testing, and deployment, leading to control breakdowns and audit risk.
-Potential Risks:
-Fraud and Unauthorized Changes: Developers may insert malicious code or alter programs without detection.
-Data Integrity Issues: Lack of independent testing increases the chance of undetected errors or manipulation.
-Bypassing Change Controls: Without separation, changes may move to production without formal approval.
-Loss of Accountability: Difficult to trace responsibility for failures or breaches.
-Audit and Compliance Failures: Violates IT governance and standards such as COBIT and ISO/IEC 27001.
-Mitigation:
-Enforce role-based access control and approval workflows.
-Maintain separate teams for development, testing, and production deployment.
-Conduct periodic access reviews and independent audits.
-| [10]
-|
-Q3
-CO-4;
-BL-2
-| a.
-| Explain the significance of IT Asset Management (ITAM) in ensuring accountability and efficiency in hardware and software lifecycle management.
-Ans:
-Each point 2 marks
-Promotes accountability by assigning ownership and maintaining accurate asset inventories.
-Enhances efficiency through optimized utilization, maintenance scheduling, and cost control.
-Prevents unauthorized software use and supports license compliance.
-Enables better budgeting and forecasting for IT resources.
-Strengthens security and risk management by identifying obsolete or vulnerable assets.
-| [10]
-|
-Q3
-CO-3;
-BL-4
-| b.
-| Evaluate the role of the IS auditor in reviewing feasibility studies and system development methodologies to ensure system effectiveness and compliance.
-Ans:
-Feasibility Study 5 marks
-During System Development 5 marks
-During Feasibility Study:
-Reviews documentation to confirm that cost-benefit analyses and business justifications are accurate and verifiable.
-Ensures technical, operational, and financial feasibility are realistically assessed.
-Verifies that alternatives and risks are properly evaluated before project approval.
-During System Development:
-Confirms adherence to approved SDLC or agile standards, including change management, testing, and user acceptance procedures.
-Checks for segregation of duties, proper documentation, and traceability between requirements and deliverables.
-| [10]
-|
-Q4
-CO-2;
-BL-2
-| a.
-| Illustrate how good corporate governance contributes to stakeholder trust and long-term organizational success.
-Ans:
-Each point 1 mark
-Example 2 mark
-Good corporate governance creates transparent rules and controls, provides guidance to leadership, and aligns the interests of shareholders, directors, management, and employees.
-It helps build trust with investors, the community, and public officials.
-Corporate governance can provide investors and stakeholders with a clear idea of a company's direction and business integrity.
-It promotes long-term financial viability, opportunity, and returns.
-It can facilitate the raising of capital.
-Good corporate governance can translate to rising share prices.
-It can lessen the potential for financial loss, waste, risks, and corruption.
-It is a game plan for resilience and long-term success.
-| [10]
-|
-Q4
-CO-4;
-BL-3
-| b.
-| As an auditor how will you analyze suitability of physical and environmental controls in a data center that recently faced a short power outage and cooling system failure.
-Ans:
-Each point with explanation 2 marks
-Review power backup controls: Examine UPS, generators, and automatic switchover logs to confirm operational continuity.
-Inspect cooling and HVAC systems: Verify maintenance records, temperature monitoring logs, and alert response times.
-
-Evaluate access and safety measures: Ensure restricted access to server rooms and presence of fire suppression and emergency ventilation systems.
-Assess incident documentation: Review incident reports, escalation procedures, and corrective actions taken post-failure.
-Test redundancy and resilience: Confirm presence of redundant power and cooling units and alignment with DR/BCP policies.
-| [10]
-|
-Q5
-CO-2;
-BL-3
-| a.
-| Prepare a structured workbook that models the impact technological failures (system outages, cyberattacks, data loss) on financial processing functions. The workbook should include Problematic Event or Incident, Affected Business Process, Impact Classification & Effect on finances, legal liability, human life, reputation
-Identification of event 5 marks
-Affected Business process 5 marks
-
-Problematic Event or Incident
-| Affected Business Process
-|
-System Outage (e.g., Core Banking System Failure)
-| Payment processing, loan disbursement, and account access
-|
-Cyberattack (e.g., Ransomware Attack)
-| All financial processing functions   fund transfers, clearing, reconciliation
-|
-Data Loss (e.g., Failure of Backup/Corruption)
-| Transaction history, reconciliation, audit trails
-|
-
-| [10]
-|
-Q5
-CO-3;
-BL-2
-| b.
-| Summarize with example the three types of arguments—Faith, Fear, and Fact—used when building a business case for IS investment.
-Ans:
-When developing a business case for Information Systems (IS) investment, three main types of arguments are used:
-Business Case: 1 marks
-Faith details and example 3
-Fear details and example 3
-Fact details and example 3
-
-Faith-Based Argument:
-Relies on beliefs and strategic vision — assumes IT investment will provide competitive advantage or align with business goals, even if benefits are not immediately measurable.
-Example: Investing in AI for innovation and market leadership.
-
-Fear-Based Argument:
-Based on the risk of inaction — emphasizes potential losses, compliance failures, or competitive disadvantages if the system is not implemented.
-Example: Upgrading cybersecurity to avoid regulatory penalties.
-
-Fact-Based Argument:
-Supported by quantitative data such as cost-benefit analysis, ROI, or NPV.
-Example: Implementing an ERP system to reduce operating costs by 25%.
-| [10]
-|
-Q6
-CO-2;
-BL-4
-| a.
-| How process maturity influences organizational performance. Explain the characteristics that distinguish a mature process from an immature one, and illustrate your answer with suitable examples
-How process maturity influences organizational performance 5 marks
-Illustrative Examples 5 marks
-
-1. Predictable Outcomes and Consistency
-2. Improved Efficiency and Reduced Costs
-3. Better Risk Management and Compliance
-4. Enhanced Customer Satisfaction
-5. Continuous Improvement and Innovation
-
-| [10]
-|
-Q6
-CO-4;
-BL--4
-| b.
-| Evaluate logical security controls to verify the confidentiality, integrity, and availability of information.
-Ans:
-Definition   2 marks
-Each control 2 makrs
-
-Authentication mechanisms
-Role-Based/Attribute-Based Access Control
-Encryption (at rest and in transit)
-Network segmentation & firewalls
-Data masking and tokenization
-| [10]
-|
-Q7
-CO-4;
-BL-4
-| a.
-| Evaluate the security risks associated with USB devices and explain how proper control mechanisms (encryption, antivirus, policy enforcement) can mitigate them.
-Ans:
-Risk 5 Marks
-Mitigation 5 Marks
-Risk Related to USBs:
-Viruses and other malicious software
-Data theft
-Data and media loss
-Corruption of data
-Loss of confidentiality
-Mitigate:
-Encryption—An ideal encryption strategy allows data to be stored on the USB drive but renders the data useless without the required encryption key, such as a strong password or biometric data.
-Granular control—Products are available to provide centralized management of ports.
-Security personnel education—Flash drives are so small that they are easily concealed and removed from an enterprise. Physical security personnel should understand USB devices and the risk they present.
-The lock desktop policy enforcement—In higher-risk environments, desktop computers should be configured to automatically lock after short intervals.
-Antivirus policy—Antivirus software should be configured to scan all attached drives and removable media. Users should be trained to scan files before opening them.
-Use of secure devices only—Enforce the use of encryption. Software is available to manage USBs, enforcing encryption or only accepting encrypted devices.
-Inclusion of return information—If a USB drive is lost or misplaced, including a small, readable text file containing return information may help with device retrieval
-| [10]
-|
-Q7
-CO-1;
-BL-3
-| b.
-| Compare and analyse the roles of preventive, detective, and corrective controls in maintaining internal control effectiveness. Illustrate with examples from IT systems
-Ans:
-Comparison 5 marks
-Example 5 marks
-
-Aspect
-| Preventive Controls
-| Detective Controls
-| Corrective Controls
-|
-Timing
-| Before an event
-| During or after occurrence
-| After an event
-|
-Objective
-| Avoid errors and breaches
-| Identify deviations
-| Restore normal conditions
-|
-Example (IT)
-| Access restrictions
-| Log monitoring
-| Backup recovery
-|
-Effectiveness Focus
-| Risk avoidance
-| Risk awareness
-| Risk mitigation
-|
-
-Examples in IT Systems:
-Data backup and recovery procedures: Restore lost or corrupted data after a system crash or ransomware attack.
-Patch management: Fix software vulnerabilities discovered during audits.
-Incident response plans: Guide containment, eradication, and recovery after a cyberattack.
-
-| [10]
-|
-````
-
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 9de6d06e8574
 
 - Departments: Cyber Security
@@ -1690,4 +1308,386 @@ updates and monitoring.
 •   Anti-Malware Updates: Regularly update and scan the anti-malware
 system to maintain its effectiveness.
 ********** 12 **********
+````
+
+## 2024-25 · Final-Exam · Sem 7 · Answer key · paper 051310648218
+
+- Departments: Cyber Security
+- Programmes: BTech CyberSecurity 7010
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_CyberSecurity_7010/Information Systems Audit/ANS_Information Systems Audit(702IT0E033)_2025-2026.docx`
+- Printed on paper: max marks: 100
+- Text: docx (1 page)
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+|
+Program/s: B.TECH
+Stream/s : CSE CYBER SECURITY
+| Year: IV Semester: VII
+|
+Subject: Information System Audit
+| Time: _____ hrs (______to_______)
+|
+Date:   /   / 2024
+| No. of Pages: 3
+|
+Marks: 100
+|
+|
+Final Examination
+|
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of the remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer each new question to be started on a fresh page.
+Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1
+
+|
+| Answer briefly:
+| [20]
+|
+CO-1;
+BL-1
+| a.
+| List and briefly describe the five types of assets that an IS audit aims to safeguard.
+Ans:
+Each Point 1 marks
+1. Data
+2. Application Systems
+3. Technology
+4. Facilities
+5. People
+|
+|
+CO-2;
+BL-2
+| b.
+| Describe the difference between Corporate Governance and IT Governance.
+Ans:
+Each element 3 points at-least
+Corporate Governance:
+Focus on : Overall organizational control and accountability
+Objective: Ensure ethical, transparent, and sustainable business practices
+Stakeholders: Board of Directors, Shareholders, Executives
+Outcome: Organizational value creation and stakeholder trust
+IT Governance
+Focus on : Management and control of IT resources
+Objective: Align IT with business goals and manage IT risks
+Stakeholders: CIO, IT Managers, Information Security Officers
+Outcome: IT-enabled business value and reduced technology risk
+|
+|
+CO-3;
+BL-1
+| c.
+| Explain the key stages involved in the Information System (IS) acquisition process
+1 mark each point
+1 mark example
+
+Selection Process
+Contracting & Procurement
+Implementation & Integration
+Post-Acquisition Review
+
+|
+|
+CO-4;
+BL-2
+| d.
+| While auditing IT Asset Management, which elements needs to be considered prior?
+Ans:
+Each Point 1 marks
+
+Owner
+Designated custodian
+Specific identification of the asset
+Relative value to the organization
+Loss implications and recovery priority
+Location
+Security/risk classification
+Asset group (where the asset forms part of a larger information system)
+|
+|
+Q2
+CO-2;
+BL-4
+| a.
+| SecureBank Ltd. is a rapidly growing financial services company offering digital banking and investment solutions to customers across Asia and Europe. The organization operates with over 800 employees and manages multiple online platforms for retail banking, credit processing, and investment management. Its core IT infrastructure includes centralized data centers in Singapore and Frankfurt, which host customer transaction databases, mobile banking applications, and compliance management systems.
+Situation:
+Recently, the organization’s internal audit report revealed gaps in IT governance and business continuity planning (BCP).
+The IT governance framework lacked alignment with corporate strategy and regulatory obligations. A network outage in Frankfurt caused a temporary suspension of online transactions, affecting over 10,000 customers for nearly 6 hours. Moreover, SecureBank’s data backup procedures were inconsistent across departments, and there was no clearly defined recovery time objective (RTO) or recovery point objective (RPO) for critical services. The Board of Directors instructed the Chief Information Officer (CIO) to establish a unified IT Governance and Business Continuity Framework, ensuring regulatory compliance (Basel III, GDPR) and operational resilience.
+Objectives:
+Aligning IT Governance with corporate objectives and regulatory requirements.
+Establish a comprehensive Business Continuity and Disaster Recovery Plan (BCP/DRP).
+Minimize service downtime and ensure customer data protection.
+Define RTO and RPO for mission-critical systems.
+Evaluate maturity of IT processes to continuously improve resilience.
+Define the backup and disaster recovery plan for Tech Solutions.
+Mention in detail which Risk Profile Design Factor of COBIT framework should be focused while defining the plan.
+Ans:
+BCP and DR plan 5 marks
+COBIT Factors 5 marks
+BCP and DR plan:
+Risk Analysis & Business Impact Assessment (BIA): Identify critical banking systems (core banking, online transactions, payment gateways).
+
+Recovery Strategies: Define RTOs and RPOs for essential services; maintain redundant data centers and cloud backups.
+
+Incident Response: Form dedicated crisis and IT recovery teams.
+
+Communication Plan: Ensure coordination between IT, operations, and regulators.
+
+Testing & Maintenance: Conduct regular DR drills and policy reviews.
+
+COBIT Factors:
+COBIT Risk Profile Design Factors to Prioritize:
+
+Enterprise Strategy & Risk Appetite: Align IT continuity with business objectives.
+
+Compliance Requirements: Meet Basel III and GDPR mandates.
+
+Threat Landscape: Address cyber threats, outages, and vendor risks.
+
+Information & Infrastructure Criticality: Protect customer data and transaction systems.
+| [10]
+|
+Q2
+CO-4;
+BL-4
+| b.
+| Analyze the potential risks of weak segregation of duties (SoD) during system development and implementation.
+Potential Risks 5 marks
+Mitigation   5 marks
+
+Ans:
+Weak Segregation of Duties (SoD) in system development allows the same individual to perform conflicting roles, such as design, programming, testing, and deployment, leading to control breakdowns and audit risk.
+Potential Risks:
+Fraud and Unauthorized Changes: Developers may insert malicious code or alter programs without detection.
+Data Integrity Issues: Lack of independent testing increases the chance of undetected errors or manipulation.
+Bypassing Change Controls: Without separation, changes may move to production without formal approval.
+Loss of Accountability: Difficult to trace responsibility for failures or breaches.
+Audit and Compliance Failures: Violates IT governance and standards such as COBIT and ISO/IEC 27001.
+Mitigation:
+Enforce role-based access control and approval workflows.
+Maintain separate teams for development, testing, and production deployment.
+Conduct periodic access reviews and independent audits.
+| [10]
+|
+Q3
+CO-4;
+BL-2
+| a.
+| Explain the significance of IT Asset Management (ITAM) in ensuring accountability and efficiency in hardware and software lifecycle management.
+Ans:
+Each point 2 marks
+Promotes accountability by assigning ownership and maintaining accurate asset inventories.
+Enhances efficiency through optimized utilization, maintenance scheduling, and cost control.
+Prevents unauthorized software use and supports license compliance.
+Enables better budgeting and forecasting for IT resources.
+Strengthens security and risk management by identifying obsolete or vulnerable assets.
+| [10]
+|
+Q3
+CO-3;
+BL-4
+| b.
+| Evaluate the role of the IS auditor in reviewing feasibility studies and system development methodologies to ensure system effectiveness and compliance.
+Ans:
+Feasibility Study 5 marks
+During System Development 5 marks
+During Feasibility Study:
+Reviews documentation to confirm that cost-benefit analyses and business justifications are accurate and verifiable.
+Ensures technical, operational, and financial feasibility are realistically assessed.
+Verifies that alternatives and risks are properly evaluated before project approval.
+During System Development:
+Confirms adherence to approved SDLC or agile standards, including change management, testing, and user acceptance procedures.
+Checks for segregation of duties, proper documentation, and traceability between requirements and deliverables.
+| [10]
+|
+Q4
+CO-2;
+BL-2
+| a.
+| Illustrate how good corporate governance contributes to stakeholder trust and long-term organizational success.
+Ans:
+Each point 1 mark
+Example 2 mark
+Good corporate governance creates transparent rules and controls, provides guidance to leadership, and aligns the interests of shareholders, directors, management, and employees.
+It helps build trust with investors, the community, and public officials.
+Corporate governance can provide investors and stakeholders with a clear idea of a company's direction and business integrity.
+It promotes long-term financial viability, opportunity, and returns.
+It can facilitate the raising of capital.
+Good corporate governance can translate to rising share prices.
+It can lessen the potential for financial loss, waste, risks, and corruption.
+It is a game plan for resilience and long-term success.
+| [10]
+|
+Q4
+CO-4;
+BL-3
+| b.
+| As an auditor how will you analyze suitability of physical and environmental controls in a data center that recently faced a short power outage and cooling system failure.
+Ans:
+Each point with explanation 2 marks
+Review power backup controls: Examine UPS, generators, and automatic switchover logs to confirm operational continuity.
+Inspect cooling and HVAC systems: Verify maintenance records, temperature monitoring logs, and alert response times.
+
+Evaluate access and safety measures: Ensure restricted access to server rooms and presence of fire suppression and emergency ventilation systems.
+Assess incident documentation: Review incident reports, escalation procedures, and corrective actions taken post-failure.
+Test redundancy and resilience: Confirm presence of redundant power and cooling units and alignment with DR/BCP policies.
+| [10]
+|
+Q5
+CO-2;
+BL-3
+| a.
+| Prepare a structured workbook that models the impact technological failures (system outages, cyberattacks, data loss) on financial processing functions. The workbook should include Problematic Event or Incident, Affected Business Process, Impact Classification & Effect on finances, legal liability, human life, reputation
+Identification of event 5 marks
+Affected Business process 5 marks
+
+Problematic Event or Incident
+| Affected Business Process
+|
+System Outage (e.g., Core Banking System Failure)
+| Payment processing, loan disbursement, and account access
+|
+Cyberattack (e.g., Ransomware Attack)
+| All financial processing functions   fund transfers, clearing, reconciliation
+|
+Data Loss (e.g., Failure of Backup/Corruption)
+| Transaction history, reconciliation, audit trails
+|
+
+| [10]
+|
+Q5
+CO-3;
+BL-2
+| b.
+| Summarize with example the three types of arguments—Faith, Fear, and Fact—used when building a business case for IS investment.
+Ans:
+When developing a business case for Information Systems (IS) investment, three main types of arguments are used:
+Business Case: 1 marks
+Faith details and example 3
+Fear details and example 3
+Fact details and example 3
+
+Faith-Based Argument:
+Relies on beliefs and strategic vision — assumes IT investment will provide competitive advantage or align with business goals, even if benefits are not immediately measurable.
+Example: Investing in AI for innovation and market leadership.
+
+Fear-Based Argument:
+Based on the risk of inaction — emphasizes potential losses, compliance failures, or competitive disadvantages if the system is not implemented.
+Example: Upgrading cybersecurity to avoid regulatory penalties.
+
+Fact-Based Argument:
+Supported by quantitative data such as cost-benefit analysis, ROI, or NPV.
+Example: Implementing an ERP system to reduce operating costs by 25%.
+| [10]
+|
+Q6
+CO-2;
+BL-4
+| a.
+| How process maturity influences organizational performance. Explain the characteristics that distinguish a mature process from an immature one, and illustrate your answer with suitable examples
+How process maturity influences organizational performance 5 marks
+Illustrative Examples 5 marks
+
+1. Predictable Outcomes and Consistency
+2. Improved Efficiency and Reduced Costs
+3. Better Risk Management and Compliance
+4. Enhanced Customer Satisfaction
+5. Continuous Improvement and Innovation
+
+| [10]
+|
+Q6
+CO-4;
+BL--4
+| b.
+| Evaluate logical security controls to verify the confidentiality, integrity, and availability of information.
+Ans:
+Definition   2 marks
+Each control 2 makrs
+
+Authentication mechanisms
+Role-Based/Attribute-Based Access Control
+Encryption (at rest and in transit)
+Network segmentation & firewalls
+Data masking and tokenization
+| [10]
+|
+Q7
+CO-4;
+BL-4
+| a.
+| Evaluate the security risks associated with USB devices and explain how proper control mechanisms (encryption, antivirus, policy enforcement) can mitigate them.
+Ans:
+Risk 5 Marks
+Mitigation 5 Marks
+Risk Related to USBs:
+Viruses and other malicious software
+Data theft
+Data and media loss
+Corruption of data
+Loss of confidentiality
+Mitigate:
+Encryption—An ideal encryption strategy allows data to be stored on the USB drive but renders the data useless without the required encryption key, such as a strong password or biometric data.
+Granular control—Products are available to provide centralized management of ports.
+Security personnel education—Flash drives are so small that they are easily concealed and removed from an enterprise. Physical security personnel should understand USB devices and the risk they present.
+The lock desktop policy enforcement—In higher-risk environments, desktop computers should be configured to automatically lock after short intervals.
+Antivirus policy—Antivirus software should be configured to scan all attached drives and removable media. Users should be trained to scan files before opening them.
+Use of secure devices only—Enforce the use of encryption. Software is available to manage USBs, enforcing encryption or only accepting encrypted devices.
+Inclusion of return information—If a USB drive is lost or misplaced, including a small, readable text file containing return information may help with device retrieval
+| [10]
+|
+Q7
+CO-1;
+BL-3
+| b.
+| Compare and analyse the roles of preventive, detective, and corrective controls in maintaining internal control effectiveness. Illustrate with examples from IT systems
+Ans:
+Comparison 5 marks
+Example 5 marks
+
+Aspect
+| Preventive Controls
+| Detective Controls
+| Corrective Controls
+|
+Timing
+| Before an event
+| During or after occurrence
+| After an event
+|
+Objective
+| Avoid errors and breaches
+| Identify deviations
+| Restore normal conditions
+|
+Example (IT)
+| Access restrictions
+| Log monitoring
+| Backup recovery
+|
+Effectiveness Focus
+| Risk avoidance
+| Risk awareness
+| Risk mitigation
+|
+
+Examples in IT Systems:
+Data backup and recovery procedures: Restore lost or corrupted data after a system crash or ransomware attack.
+Patch management: Fix software vulnerabilities discovered during audits.
+Incident response plans: Guide containment, eradication, and recovery after a cyberattack.
+
+| [10]
+|
 ````

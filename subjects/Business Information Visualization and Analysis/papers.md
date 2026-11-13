@@ -1,8 +1,155 @@
 # Business Information Visualization and Analysis: question papers in full
 
-9 unique papers · 2022-23 to 2024-25 · Computer Engineering
+9 unique papers · 2022-23 to 2025-26 · Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 6 · paper fdbe60db7a01
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_06/Re-Exam/MBATech_Computer_7047/Business Information Visualization and Analysis/QP_Business Information Visualization and Analysis(702CO1E002)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY
+MANAGEMENT (COMPUTERENGINEERING)
+Year: III/Semester VI(Exam Year: 2025-2026)
+Subject: Business Information Visualization and Analysis
+Date: 07 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. All questions carry equal marks
+8. Assume Suitable data if necessary
+Q1
+Answer briefly:   Marks
+CO3,   a.   Explain the concept of data blending in Tableau and how it 5
+SO6,BL2   differs from data joining.
+CO1, SO1,   b.   Write a SAS statement to display variables NAME, CITY, and
+BL3   SALARY from dataset EMPLOYEE with titles COMPANY and 5
+LOCATION.
+CO4,   c.   What are calculated fields in Tableau? Explain with two
+SO1,BL1   5
+examples.
+CO4,   d.   Explain the role of color theory in data visualization.   5
+SO6,BL2
+A A retail company is analyzing customer purchase
+behavior. The dataset includes:
+Customer_ID, Age, Gender, Location, Product_Category,
+Purchase_Amount, Purchase_Date, Payment_Mode,
+Q2   Discount_Applied, Customer_Rating
+[10]
+CO2,   Answer the following:
+SO6,BL6
+• Suggest the most suitable visualization to analyze
+purchase trends over time across categories. Justify
+your answer.
+• Explain how filters can be applied in Tableau to:
+o View data for specific regions
+********** 1 **********
+--- page 2 ---
+o Analyze purchases above a certain amount
+Include steps and any calculated fields if required.
+CO1,   B   Explain the Data Visualization Process Lifecycle, including
+stages such as data collection, preprocessing, visualization [10]
+SO1,BL2   design, and interpretation. How does each stage contribute to
+better decision-making?
+A   Write any three rules for naming variables in SAS.   [10]
+Also, write a SAS program to create a format ‘AgeGroup’:
+• Below 18 → Minor
+Q3
+• 18 to 60 → Adult
+CO1,   • Above 60 → Senior
+SO1,BL3
+Apply this format to AGE variable in dataset PEOPLE
+while displaying NAME, AGE, and CITY.
+B   An environmental agency wants to create a dashboard to   [10]
+analyze air pollution trends and weather conditions.
+Part A: Identify important dataset variables required. (3
+CO3,   Marks)
+Part B: Mention two key insights that should be derived.
+SO6,BL6   (3 Marks)
+Part C: Draw and explain a suitable dashboard layout. (4
+Marks)
+A   Write a SAS program to read a file ‘EMPLOYEE.csv’   [10]
+from location ‘C:\Data’.
+•   File does not contain headers
+•   Variables:
+o EMP_ID, NAME (Character, 20 bytes)
+o JOIN_DATE (Date9.)
+Q4   o SALARY (Numeric)
+CO1,
+Additional conditions:
+SO1, BL3
+• Data starts from second row
+• Format JOIN_DATE as ddmmyy10.
+• Do not include NAME in output dataset
+•   Print only first 5 observations without OBS column
+B   Design a Student Performance Dashboard using Tableau.   [10]
+CO3,
+SO6,BL6   •   Include at least 3 KPIs
+•   Include charts and insights
+********** 2 **********
+--- page 3 ---
+• Explain how it helps in decision-making
+A A company aims to predict employee attrition using a   [10]
+decision tree model based on attributes such as Age,
+Salary, and Department.
+Answer the following:
+(i) Explain the concept of entropy and information gain
+in decision trees. How do these measures help in selecting
+Q5   the root node?
+CO4,   (5 Marks)
+(ii) Describe the step-by-step process of constructing a
+SO1,BL6
+decision tree, including splitting criteria and stopping
+conditions. Illustrate how categorical attributes like Age
+and Department are handled.
+(5 Marks)
+CO4,   B   Explain how PROC FREQ is used to generate one-way and two-   [10]
+SO1,BL4   way tables. Include syntax and options used for validation.
+A   Design a Profit Analysis Dashboard for a company using   [10]
+Tableau.
+Q6   •   Identify KPIs
+• Suggest suitable visualizations
+CO3,   • Explain how trends and outliers can be identified
+SO2,BL 3
+B   Evaluate the following SAS code and determine the   [10]
+output:
+data merge_data;
+merge emp(in=A) dept(in=B);
+by ID;
+CO4,   run;
+SO1,BL5   Explain:
+• Values of A and B
+• Conditions for match merging
+Q7   A
+Explain the importance of Tableau Stories in presenting data   [5]
+CO3,   insights.
+SO6,BL3
+CO2,   B
+Explain heat map with example.   [5]
+SO6,BL3
+********** 3 **********
+--- page 4 ---
+CO4,   C
+Explain time-series visualization and its applications.   [5]
+SO6,BL4
+CO1, SO1, D   Explain SAS date functions with examples. Which functions
+[5]
+BL2   handle date differences?
+********** 4 **********
+````
 
 ## 2024-25 · Final-Exam · Sem 6 · paper 613b7b1fab9d
 
@@ -11,6 +158,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/BUSINESS INFORMATION VISUALIZATION AND ANALYSIS/Business Information Visualization and Analysis, Sem VI, Final Exam 2024-25.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (6 pages), mean OCR confidence 91.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -163,12 +311,10 @@ dataset consists of the following three key attributes that influence
 classification:
 Cap Color: Brown, White, or Yellow
 Gill Size: Broad or Narrow
-Odor: None, Foul, or Almond
 The target variable is:
 Edible (Yes/No)
 Sample Dataset:
 
-ID CapColor GillSize Odor Edible?
 
 Q5
 
@@ -269,6 +415,7 @@ statement of SAS. Demonstrate them using an example.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM X/Business Information Visualization and Analysis/Business Information Visualization and Analysis Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (5 pages), mean OCR confidence 91.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -444,7 +591,6 @@ Cap Color: Brown, White, or Yellow
 
 Gill Size: Broad or Narrow
 
-Odor: None, Foul, or Almond
 
 The target variable is:
 
@@ -452,7 +598,6 @@ Edible (Yes/No)
 
 Sample Dataset:
 
-ID CapColor GillSize Odor Edible?
 
 1 Brown Broad None Yes
 2 White Narrow Foul No
@@ -573,154 +718,7 @@ statement of SAS. Demonstrate them using an example.
 [5]
 ````
 
-## 2024-25 · Re-Exam · Sem 6 · paper fdbe60db7a01
-
-- Departments: Computer Engineering
-- Programmes: MBATech Computer 7047
-- Source: `02_Question_Papers/2024/Sem_06/Re-Exam/MBATech_Computer_7047/Business Information Visualization and Analysis/QP_Business Information Visualization and Analysis(702CO1E002)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
-- Text: text (4 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY
-MANAGEMENT (COMPUTERENGINEERING)
-Year: III/Semester VI(Exam Year: 2025-2026)
-Subject: Business Information Visualization and Analysis
-Date: 07 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 4 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. _1___ is compulsory.
-5. Out of remaining questions, attempt any __4___ questions.
-6. In all ___5_ questions to be attempted.
-7. All questions carry equal marks
-8. Assume Suitable data if necessary
-Q1
-Answer briefly:   Marks
-CO3,   a.   Explain the concept of data blending in Tableau and how it 5
-SO6,BL2   differs from data joining.
-CO1, SO1,   b.   Write a SAS statement to display variables NAME, CITY, and
-BL3   SALARY from dataset EMPLOYEE with titles COMPANY and 5
-LOCATION.
-CO4,   c.   What are calculated fields in Tableau? Explain with two
-SO1,BL1   5
-examples.
-CO4,   d.   Explain the role of color theory in data visualization.   5
-SO6,BL2
-A A retail company is analyzing customer purchase
-behavior. The dataset includes:
-Customer_ID, Age, Gender, Location, Product_Category,
-Purchase_Amount, Purchase_Date, Payment_Mode,
-Q2   Discount_Applied, Customer_Rating
-[10]
-CO2,   Answer the following:
-SO6,BL6
-• Suggest the most suitable visualization to analyze
-purchase trends over time across categories. Justify
-your answer.
-• Explain how filters can be applied in Tableau to:
-o View data for specific regions
-********** 1 **********
---- page 2 ---
-o Analyze purchases above a certain amount
-Include steps and any calculated fields if required.
-CO1,   B   Explain the Data Visualization Process Lifecycle, including
-stages such as data collection, preprocessing, visualization [10]
-SO1,BL2   design, and interpretation. How does each stage contribute to
-better decision-making?
-A   Write any three rules for naming variables in SAS.   [10]
-Also, write a SAS program to create a format ‘AgeGroup’:
-• Below 18 → Minor
-Q3
-• 18 to 60 → Adult
-CO1,   • Above 60 → Senior
-SO1,BL3
-Apply this format to AGE variable in dataset PEOPLE
-while displaying NAME, AGE, and CITY.
-B   An environmental agency wants to create a dashboard to   [10]
-analyze air pollution trends and weather conditions.
-Part A: Identify important dataset variables required. (3
-CO3,   Marks)
-Part B: Mention two key insights that should be derived.
-SO6,BL6   (3 Marks)
-Part C: Draw and explain a suitable dashboard layout. (4
-Marks)
-A   Write a SAS program to read a file ‘EMPLOYEE.csv’   [10]
-from location ‘C:\Data’.
-•   File does not contain headers
-•   Variables:
-o EMP_ID, NAME (Character, 20 bytes)
-o JOIN_DATE (Date9.)
-Q4   o SALARY (Numeric)
-CO1,
-Additional conditions:
-SO1, BL3
-• Data starts from second row
-• Format JOIN_DATE as ddmmyy10.
-• Do not include NAME in output dataset
-•   Print only first 5 observations without OBS column
-B   Design a Student Performance Dashboard using Tableau.   [10]
-CO3,
-SO6,BL6   •   Include at least 3 KPIs
-•   Include charts and insights
-********** 2 **********
---- page 3 ---
-• Explain how it helps in decision-making
-A A company aims to predict employee attrition using a   [10]
-decision tree model based on attributes such as Age,
-Salary, and Department.
-Answer the following:
-(i) Explain the concept of entropy and information gain
-in decision trees. How do these measures help in selecting
-Q5   the root node?
-CO4,   (5 Marks)
-(ii) Describe the step-by-step process of constructing a
-SO1,BL6
-decision tree, including splitting criteria and stopping
-conditions. Illustrate how categorical attributes like Age
-and Department are handled.
-(5 Marks)
-CO4,   B   Explain how PROC FREQ is used to generate one-way and two-   [10]
-SO1,BL4   way tables. Include syntax and options used for validation.
-A   Design a Profit Analysis Dashboard for a company using   [10]
-Tableau.
-Q6   •   Identify KPIs
-• Suggest suitable visualizations
-CO3,   • Explain how trends and outliers can be identified
-SO2,BL 3
-B   Evaluate the following SAS code and determine the   [10]
-output:
-data merge_data;
-merge emp(in=A) dept(in=B);
-by ID;
-CO4,   run;
-SO1,BL5   Explain:
-• Values of A and B
-• Conditions for match merging
-Q7   A
-Explain the importance of Tableau Stories in presenting data   [5]
-CO3,   insights.
-SO6,BL3
-CO2,   B
-Explain heat map with example.   [5]
-SO6,BL3
-********** 3 **********
---- page 4 ---
-CO4,   C
-Explain time-series visualization and its applications.   [5]
-SO6,BL4
-CO1, SO1, D   Explain SAS date functions with examples. Which functions
-[5]
-BL2   handle date differences?
-********** 4 **********
-````
-
-## 2023-24 · Re-Exam · Sem 6 · paper 92338648c0c4
+## 2024-25 · Re-Exam · Sem 6 · paper 92338648c0c4
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
@@ -843,136 +841,7 @@ BL2
 
 ````
 
-## 2022-23 · Final-Exam · Sem 6 · paper 4e67bb8e4fb9
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/BUSINESS INFORMATION VISUALIZATION AND ANALYSIS/Business Information Visualization and Analysis, Sem-VI, Year 2022-23, Final Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 86.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-Academic Year: 2022-2023
-Program/s: B. Tech / MBA Tech Year: 3 Semester: 6
-
-Stream/s :Computer Engineering
-
-Subj Business Injermahon Visuatizohon fn J Anaysis jg Time: 3 hrs.(2tonpm te 5800p)
-Date: 092/ os/ 202 No. pllBages 3
-Marks: 100 .
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
->> 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly:
-
-oa sO°3; a. | Write a note on the bubble chart and explain different data item roles. [5]
-sta. Son; b. | Difference between KEEP statement and KEEP option. [5]
-aT - - - Et :
-CO-3; SO-2; « Explain different types of control objects in SAS VA and their usage w.r.t to data (5]
-BL-4 items.
-CO-4; SO-6; d. | Explain the usefulness of forecasting with one example. (5]
-BL-2
-&> a2
-0-1: S0-2: A. | Explain in detail SAS visual analytical architecture, including the SAS LASR server. [10]
-BL-2
-Emp (Eid, Ename, Salary, City, Dept, Gender)
-Write code to create a new output dataset Data and Data2 as per the following
-requirements,
-no so-4; B: 1. Datal = all Male employees of a computer department [10]
-2. Data2 = All female employees with ages more than 50.
-Write a code to print the following data,
-1. Print all Mumbai employees above salary below 25000.
-2. Print all employees with more the five letters in Ename.
-Q3 Explain in detail how to remove the duplicate records from the SAS dataset with
-
-A. [10]
-CO-1; SO-2; the help of data and example of coding.
---- page 2 ---
-BL-3
-
-5:
-
-1. How parameter object can be used to filter data in Geo Map using drop down
-CO-2; SO-4; 8 list control object. [10]
-BL-3 2. Explain different types of display rule applied to list table and cross table. What
-
-do you mean by report level display rule and object level display rule?
-
-Design a dashboard for a hospital bed management system for a single hospital. Use
-aa the following point to cover all aspects (state all assumptions clearly)
-
-CO-4; SO-6; A 1. Data (Assume Data Items) (16)
-
-BL-4
-2. Specify Business Scenario with Data insights
-3. Dashboard Design steps for Business Scenario.
-How entropy and information gain is related w.r.t decision tree? What issues to be
-consider in decision tree creation? Find which dataset attribute below has the
-highest information gain using the decision tree |ID3 technique. Use Holiday has
-class attribute.
-Day loutlook (Temp . Wind Holiday
-hi Sunny Hot Weak No
-2 Sunny Hot Strong No
-CO-3; SO-6; .
-BL-6 B. | [3 Overcast Hot Weak es [10]
-4 Rain Mild Weak Yes
-5S Rain Cool \Weak Yes
-6 Rain Cool Strong No
-7 Overcast Cool Strong es
-8 Sunny Mild \Weak INo
-9 Sunny (Cool Weak es
-10 Rain Mild \Weak es
-Q5
-1. Enlist all data item roles for following report object.
-CO-2; SO-; A. ; (6]
-BL-6 a) Time series Plot b) Bubble Plot c) Button Bar Control Object
-CO-2; SO-; —— .
-BL-3 2. What is difference between custom category and calculated data item? [4]
-Design a dashboard for a Domino’s pizza shop for worldwide operations. Use the
-CO-3; S0-4; ; following point to cover all aspects (state all snail clearly) nd
-BL-6 . 1. Data (Assume Data Items)
-
-2. Specify Business Scenario with Data insights.
-3. Dashboard Design steps for Business Scenario.
---- page 3 ---
-Explain the compilation and execution phase of the data step with a coding
-
-6
-Q example while reading data using SET statements from other SAS datasets also,
-CO-1; SO-; A. a [10]
-BL-3 create one new column with the help of existing data.
-Code | Compilation Phase | Execution Phase
-Design a Report using Prompts, interactions and multiple charts to show Covid19
-CO-2; SO-1; : . . ‘5 . .
-BL-6 B. | Cases in India Summary (state all assumptions clearly). Give steps for creating the [10]
-above report in SAS visual analytics.
-Q7 ; + ie tn af . .
-Write a note on links in visual analytics and list all steps to generate one page-level
-C0-2;80-4) 1 ® | iy and external link re
-BL-1 d externai links.
-CO-1; SO-1;
-BL-4 B. | Difference between sub-setting IF and WHERE statements. [5]
-CO-2; SO-2; c Enlist the different types of data items you can create in the data pane of SAS [5]
-BL-2 Report Designer of SAS VA.
-CO-1; SO-1; D Explain the difference between implicit output statement and explicit output [5]
-
-BL-2 statement.
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper 002dac2cf1d5
+## 2023-24 · Re-Exam · Sem 6 · paper 002dac2cf1d5
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER, MBA TECH / Computer
@@ -1164,7 +1033,7 @@ SO-2 Write a note on Title and Footnote with examples. - (S]
 ;BL-3
 ````
 
-## 2022-23 · Re-Exam · Sem 6 · paper 900fb4431ce5
+## 2023-24 · Re-Exam · Sem 6 · paper 900fb4431ce5
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER, MBA TECH / Computer
@@ -1291,6 +1160,135 @@ BL-3 consider in designing of decision tree.
 CO-3;S0-2; | d. | List down any 5 dashboard objects and explain its usability in short. (5]
 
 BL-2
+````
+
+## 2022-23 · Final-Exam · Sem 6 · paper 4e67bb8e4fb9
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/BUSINESS INFORMATION VISUALIZATION AND ANALYSIS/Business Information Visualization and Analysis, Sem-VI, Year 2022-23, Final Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 86.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2022-2023
+Program/s: B. Tech / MBA Tech Year: 3 Semester: 6
+
+Stream/s :Computer Engineering
+
+Date: 092/ os/ 202 No. pllBages 3
+Marks: 100 .
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+>> 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly:
+
+oa sO°3; a. | Write a note on the bubble chart and explain different data item roles. [5]
+sta. Son; b. | Difference between KEEP statement and KEEP option. [5]
+aT - - - Et :
+CO-3; SO-2; « Explain different types of control objects in SAS VA and their usage w.r.t to data (5]
+BL-4 items.
+CO-4; SO-6; d. | Explain the usefulness of forecasting with one example. (5]
+BL-2
+&> a2
+0-1: S0-2: A. | Explain in detail SAS visual analytical architecture, including the SAS LASR server. [10]
+BL-2
+Emp (Eid, Ename, Salary, City, Dept, Gender)
+Write code to create a new output dataset Data and Data2 as per the following
+requirements,
+no so-4; B: 1. Datal = all Male employees of a computer department [10]
+2. Data2 = All female employees with ages more than 50.
+Write a code to print the following data,
+1. Print all Mumbai employees above salary below 25000.
+2. Print all employees with more the five letters in Ename.
+Q3 Explain in detail how to remove the duplicate records from the SAS dataset with
+
+A. [10]
+CO-1; SO-2; the help of data and example of coding.
+--- page 2 ---
+BL-3
+
+5:
+
+1. How parameter object can be used to filter data in Geo Map using drop down
+CO-2; SO-4; 8 list control object. [10]
+BL-3 2. Explain different types of display rule applied to list table and cross table. What
+
+do you mean by report level display rule and object level display rule?
+
+Design a dashboard for a hospital bed management system for a single hospital. Use
+aa the following point to cover all aspects (state all assumptions clearly)
+
+CO-4; SO-6; A 1. Data (Assume Data Items) (16)
+
+BL-4
+2. Specify Business Scenario with Data insights
+3. Dashboard Design steps for Business Scenario.
+How entropy and information gain is related w.r.t decision tree? What issues to be
+consider in decision tree creation? Find which dataset attribute below has the
+highest information gain using the decision tree |ID3 technique. Use Holiday has
+class attribute.
+Day loutlook (Temp . Wind Holiday
+hi Sunny Hot Weak No
+2 Sunny Hot Strong No
+CO-3; SO-6; .
+BL-6 B. | [3 Overcast Hot Weak es [10]
+4 Rain Mild Weak Yes
+5S Rain Cool \Weak Yes
+6 Rain Cool Strong No
+7 Overcast Cool Strong es
+8 Sunny Mild \Weak INo
+9 Sunny (Cool Weak es
+10 Rain Mild \Weak es
+Q5
+1. Enlist all data item roles for following report object.
+CO-2; SO-; A. ; (6]
+BL-6 a) Time series Plot b) Bubble Plot c) Button Bar Control Object
+CO-2; SO-; —— .
+BL-3 2. What is difference between custom category and calculated data item? [4]
+Design a dashboard for a Domino’s pizza shop for worldwide operations. Use the
+CO-3; S0-4; ; following point to cover all aspects (state all snail clearly) nd
+BL-6 . 1. Data (Assume Data Items)
+
+2. Specify Business Scenario with Data insights.
+3. Dashboard Design steps for Business Scenario.
+--- page 3 ---
+Explain the compilation and execution phase of the data step with a coding
+
+6
+Q example while reading data using SET statements from other SAS datasets also,
+CO-1; SO-; A. a [10]
+BL-3 create one new column with the help of existing data.
+Code | Compilation Phase | Execution Phase
+Design a Report using Prompts, interactions and multiple charts to show Covid19
+CO-2; SO-1; : . . ‘5 . .
+BL-6 B. | Cases in India Summary (state all assumptions clearly). Give steps for creating the [10]
+above report in SAS visual analytics.
+Q7 ; + ie tn af . .
+Write a note on links in visual analytics and list all steps to generate one page-level
+C0-2;80-4) 1 ® | iy and external link re
+BL-1 d externai links.
+CO-1; SO-1;
+BL-4 B. | Difference between sub-setting IF and WHERE statements. [5]
+CO-2; SO-2; c Enlist the different types of data items you can create in the data pane of SAS [5]
+BL-2 Report Designer of SAS VA.
+CO-1; SO-1; D Explain the difference between implicit output statement and explicit output [5]
+
+BL-2 statement.
 ````
 
 ## 2022-23 · Re-Exam · Sem 6 · paper ecf4ccf070f4

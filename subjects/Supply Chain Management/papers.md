@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/SUPPLY CHAIN MANAGEMENT/Supply Chain Analytics 2025-26 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 25 Nov 2025
 - Text: ocr (3 pages), mean OCR confidence 88.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ak
@@ -122,7 +123,6 @@ Probability — demand
 0.2 1100
 0.2 950
 
-Fe GR 2 kok ak ok a ook
 --- page 3 ---
 0.1 1050
 
@@ -178,6 +178,7 @@ FRR 3 ar
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/SUPPLY CHAIN MANAGEMENT/Supply Chain Management, Sem-VII, Final Exam 2024-25.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 84.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -325,7 +326,6 @@ in a refrigerated storage area is $12. Determine the optimal order size and the
 
 total annual inventory cost.[company runs for 311 days]
 
-HR RIKER KERR KK KERR ERIK IKI IK IC K IK IKK KK KKK IK IK KK RE KI KK KKK ERK ERE KEKE REE
 
 Page 40f4
 ````
@@ -484,6 +484,75 @@ CO-1, SO-7, b | Discuss how the service factors and supply chain cost factors ar
 BL-understand each other.
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper 26499c390c82
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/SUPPLY CHAIN MANAGEMENT/Supply Chain Management Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 16/04/2016
+- Text: ocr (1 page), mean OCR confidence 94.4
+
+````text
+SVKM’s NMIMS ‘
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN!
+
+Programme: MBA Tech (All Streams) Year: IV Semester: ;
+
+Academic Year: 2015-16
+Batch: 2014-15
+
+Subject: Supply Chain Management Marks: 60
+Time: 2.00 pm - 4.00 pm
+Date: 16/04/2016 Durations: 2 (hrs) °
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use. .
+
+NB:
+
+1) Question No. 01 is compulsory
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1. Elucidate Process view of Supply chain with reference to organized retail industry.
+
+Q.2. Using Exponential smoothing, calculate the forecasts for months 2,3,4,5 and 6. The smoothing constant is 0.2,
+and the old forecast for month 1 is 245.
+
+Month 1 2 3 4 5 6
+Actual 260 230 225 245 250
+
+Demand
+
+Forecast
+
+Demand
+
+Q.3. Identify and explain trade-offs that shippers need to consider when designing their transportation network.
+
+Q.4. At'Croma Retail, Demand for 32” Teievision is 1000 units per month. It costs them 4000/- fixed cost for order
+placement, transportation and receiving each time order is placed. Each 32” TV costs 25000/- to Croma and holding
+cost is 10%. Evaluate the number of televisions that the store manager should order in each replenishment lot. Also
+calculate annual ordering & holding cost and average flow time assuming consistent demand throughout the year.
+Q.5. Explain the measures to avoid/eliminate bull-whip effect?
+
+Q.6. What are managerial levers that reduce lot size and cycle inventory in a supply chain and explain how it works.
+
+Q.7. Identify significance of safety inventory and explain factors that influence the required level of safety inventory.
+
+4/s.
+````
+
 ## 2014-15 · Final-Exam · Sem 8 · paper 64fb20981c5b
 
 - Departments: Common (all branches)
@@ -557,6 +626,110 @@ service?
 
 x
 1/1
+````
+
+## 2014-15 · Re-Exam · Trim 11 · paper b4cab82f2573
+
+- Departments: Chemical, Computer Engineering, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/supply chain management/SUPPLY CHAIN MANAGEMENT BATCH 2012-13 RE EXAM0001(4).pdf` (+3 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 13/12/2014
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKBVs NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: IV Trimester: XT
+
+Academic Year: 2014-15
+
+Batch:2012-13
+
+a Ws,
+a MPSTME )
+
+F oo }
+Subject : Supply Chain Management Marks:50 BC LIBRARY Je H
+‘e,
+
+. ; Se fi
+22. 3 wt,
+Date :13/12/2014 Durations:2 (hr Magy anees™
+a a
+
+Re-Examination es
+
+Instructions: 1] Q. No: 1 is COMPULSORY and carries 20 marks
+2] Attempt ANY THREE questions from the other five questions carrying 10 marks each.
+3] Only relevant and to-the-point answers will get credit.
+
+Q.No: 1A] C16)
+1]. Ina Supply Chain there are four basic flows which need to be managed. Name these four flows.
+
+2] Mention the two main parameters on which distribution { Logistics} performance can basically be
+judged.
+
+3] Value generation in Supply Chain = Supply Chain Profitability [State “ TRUE’ or ‘FALSE’ ]
+
+4] Differentiate between ‘Efficient’ Supply chain & ‘ Responsive’ Supply Chain onthe following four
+points.
+
+a] Inventory types, b] capacity cushion, c] demand predictability, d] frequency of new product
+introduction
+
+5] State the difference between ‘off-shoring’ and ‘out-sourcing’ a supply chain function
+6] Differentiate between 3 party [ 3PL] and 4" party [ 4PL] logistics [ two major differences]
+7] Supply Chain Profitability= ( X) minus( Y). State X and Y.
+
+8] In exponential smoothing method for forecasting , selecting value of smoothing constant ‘alpha’ is a
+matter of judgment. Higher ‘alpha’ values are chosen when underlying average tends to be stable
+rather than susceptible to change. [ state ‘TURE’ or ‘FALSE? J
+
+Q.No:1B] Quick Money Bank {QMB} orders cash in equal quantity: from RBI to meet daily C4)
+transaction requirement.
+
+Ms Jyoti , the operations manager*6f QMB ; estimates that Rs 50Crs in cash will be needed next
+year, The bank’s daily requirement of cash is estimated to be uniform throughout the year.. She
+has estimated that the cost to order, receive and place each shipment of cash fom the RBI will
+be Rs 6000 per shipment. Quick Money Bank is open for business 250 days each year. The
+bank’s related carrying cost for cash is 0.5 percent per month.
+
+1] How much should Ms. Jyoti order from RBI each time when a cash order is placed?
+
+4
+--- page 2 ---
+2] What is the expected total ordering cost plus total carrying cost for the year?
+3] How many working days should one shipment of cash last for Quick Money Bank
+
+Q. No: 2 ] What do you understand by VMI ( Vendor Managed Inventory)? What are its
+advantages?
+
+Q. No: 3] Enumerate the factors influencing Supply Chain distribution network design. and
+explain how they impact customer service and cost of the supply chain.
+
+Q. No: 4] Enumerate [ only] the various main design options available for distribution network
+from manufacturer to the end consumer. Explain with a neat sketch ‘Manufacturer storage with
+direct shipping ( also known as drop shipping)stating its cost based and service based
+performance characteristics.
+
+Q. No: 5] List and briefly discuss factors for and against out-sourcing of a supply chain
+function. With suitable examples of your choice.
+
+Q. No 6] Explain the ‘Bull-whip Effect ‘ phenomenon with a suitable example.
+
+How ‘Bull-whip Effect can be remedied by Collaborative Planning, Forecasting and
+Replenishment [ CPRF] ?
+
+Q. No: 7] Give and explain the nine step process of effective implementation of Collaborative
+Planning, Forecasting, and Replenishment [CPRF].
+
+Q. No: 8] What are'the process views of Supply Chain? Explain these two process views of
+Supply Chain with their particular usefulness in certain Supply Chain decisions.
+
+9
+
+xe
 ````
 
 ## 2014-15 · Re-Exam · Sem 8 · paper 20168ba8c895
@@ -658,73 +831,131 @@ Q.7. Write Short Notes on the following: (12)
 2] Supply Chain working capital productivity
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper 26499c390c82
+## 2014-15 · Re-Exam · Sem 8 · paper d11b96c2e351
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/SUPPLY CHAIN MANAGEMENT/Supply Chain Management Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 16/04/2016
-- Text: ocr (1 page), mean OCR confidence 94.4
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/SUPPLY CHAIN MANAGEMENT/Supply Chain management Batch 2013-14 Re Exam.pdf`
+- Printed on paper: max marks: 50; exam date: 21/04/2015
+- Text: ocr (3 pages), mean OCR confidence 93.6
 
 ````text
-SVKM’s NMIMS ‘
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN!
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA Tech (All Streams) Year: IV
 
-Programme: MBA Tech (All Streams) Year: IV Semester: ;
+Semester: VIII
 
-Academic Year: 2015-16
-Batch: 2014-15
+Academic Year: 2014-15
+Batch: 2013-14
 
-Subject: Supply Chain Management Marks: 60
-Time: 2.00 pm - 4.00 pm
-Date: 16/04/2016 Durations: 2 (hrs) °
+ee
 
-Re-Examination
+4
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use. .
+Subject: Supply Chain Management
 
-NB:
+Marks: 50
+Date: 21/04/2015 Time: 2.00{
 
-1) Question No. 01 is compulsory
+Durations:
 
-2) Out of remaining questions, attempt any 4 questions.
+Re-Examination aaa
+Instructions: 1] Q. No: 1 is COMPULS ORY and carries 20 marks —
+2] Attempt ANY THREE questions from the other five questions carrying 10 marks each.
+3] Only relevant and to-the-point answers will get credit.
 
-3) In all 5 questions to be attempted.
+Q.No: 1A] { Marks: 10}
+1] Ina Supply Chain there are four basic flows which need to be managed. Name these four flows.
 
-4) All questions carry equal marks.
+2] Mention the two main parameters on which distribution { Logistics} performance can basically be
+judged .
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
+3] Value generation in Supply Chain = Supply Chain Profitability [State “TRUE’ or ‘FALSE’ J
 
-Q1. Elucidate Process view of Supply chain with reference to organized retail industry.
+4] Differentiate between ‘Efficient’ Supply chain & ‘ Responsive’ Supply Chain on the following two
+points.
 
-Q.2. Using Exponential smoothing, calculate the forecasts for months 2,3,4,5 and 6. The smoothing constant is 0.2,
-and the old forecast for month 1 is 245.
+a] Inventory types, b].capacity cushion,
+5] State the difference between ‘off-shoring’ and ‘out-sourcing’ a supply chain function
+Q. No: 1 B] { Marks: 10}
 
-Month 1 2 3 4 5 6
-Actual 260 230 225 245 250
+Quick Money Bank {QMB} orders cash in equal quantity from RBI to meet daily transaction
+requirement.
 
-Demand
+Ms Jyoti , the operations manager of QMB , estimates that Rs 50 Crs in cash will be needed next
+year, The bank’s daily requirement of cash is estimated to be uniform throughout the year.. She
+has estimated that the'cost to order, receive and place each shipment of cash from the RBI will
+be Rs 6000 per shipment. Quick Money Bank is open for business 250 days each year. The
+bank’s related carrying cost for cash is 0.5 percent per month.
 
-Forecast
+1] How much should Ms. Jyoti order from RBI each time when a cash order is placed?
+2] What is the expected total ordering cost plus total carrying cost for the year?
+3] How many working days should one shipment of cash last for Quick Money Bank
 
-Demand
+Q. No: 2 } What are the process views of Supply Chain? Explain these two process views of
+Supply Chain with their particular usefulness in certain Supply Chain decisions.
 
-Q.3. Identify and explain trade-offs that shippers need to consider when designing their transportation network.
+4/3
 
-Q.4. At'Croma Retail, Demand for 32” Teievision is 1000 units per month. It costs them 4000/- fixed cost for order
-placement, transportation and receiving each time order is placed. Each 32” TV costs 25000/- to Croma and holding
-cost is 10%. Evaluate the number of televisions that the store manager should order in each replenishment lot. Also
-calculate annual ordering & holding cost and average flow time assuming consistent demand throughout the year.
-Q.5. Explain the measures to avoid/eliminate bull-whip effect?
+MPSTMBE
+\ (Seay é
+e ee, a“
+--- page 2 ---
+Q. No: 3] D-Mart Kandivali has recorded sale of a particular make of washing machines in the
+past five successive months. Also recorded are the forecast figures for respective months. The
+manager wants to predict the sale of the item for the ensuing, 6th month. He is advised to use
+exponential smoothing method and guided to use ‘alpha’ value 0.4. Calculate the sales forecast
+of washing machines for the sixth month for the manager.
 
-Q.6. What are managerial levers that reduce lot size and cycle inventory in a supply chain and explain how it works.
+Month | Jan [1] Feb [ 2 ] March [ 3 ] April [ 4 ] May [5]
+Forecast 42 4] 43 42 43
+Actual sale 40 43 46 38 44
 
-Q.7. Identify significance of safety inventory and explain factors that influence the required level of safety inventory.
+Q. No:4 ] Major General Pradeep Singh , C-in C Northern Command, was strolling restlessly
+in his huge chamber at Military Head Quarters. He is faced with a critical problem of
+deciding appropriate location for the ammunition ware -house which is supposed to feed
+three important but scattered battle-fields , ( coded as A, B, and C) with different rates of
+ammunition requirement of 500,300 and 100 MTs per month respectively. The factory ( say F)
+producing the requisite quantity of 900 MTs of ammunition per month to cater to these three
+battle-fields and is already situated at a safe position within Indian territory. As a strategic
+decision , ammunition ware-housing and supplies to battle fields is not to be effected directly
+from the factory but supplies should be routed via the planned ammunition ware-house (coded
+as W) to be located differently than the factory and with a view to facilitate hand to mouth
+feeding to the three battle-fields from the ware-house. The transportation of the ammunition
+from factory to ware-house and onward to the various battle fields is to be carried out through
+helicopter traffic to facilitate straight line and quicker transport. The transportation cost of
+ammunition is same in all directions and is estimated at Rs 2000 per MT per KM. Major Gen.
+Pradeep Singh is interested in identifying the right geographical location of the ware-house so
+that the total ammunition transportation cost from factory to battlefields via ware-house is
+minimum. From the military map, he has found out the relative geographic locations of the
+factory and the three battle-fields in terms of respective X and Y coordinates in Kms with
+reference to some arbitrary x and y axes. The relevant data is tabulated in the following table
+Locational coordinates (X,Y) in KMs
 
-4/s.
+Xx Y
+Battle Field —A 10 10
+Battle Field —B 22 12
+Battle Field -C 14 4
+a Factory-F 3 2
+Find out 1] The most optimum location for the ware-house W which will minimize the total
+— ammunition transportation cost .
+
+2] Calculate what will that minimum total ammunition transportation cost per month?
+
+2/3
+
+|
+--- page 3 ---
+Q. No: 5] Enumerate the factors influencing Supply Chain distribution network design. and
+explain how they impact customer service and cost of the supply chain.
+
+Q. No: 6] Enumerate [ only] the various main design options available for distribution network
+from manufacturer to the end consumer. Explain with a neat sketch ‘Manufacturer storage with
+direct shipping ( also known as drop shipping)stating its cost based and service based
+performance characteristics.
+
+3
 ````
 
 ## 2013-14 · Final-Exam · Sem 8 · paper 1c048744ca33
@@ -851,6 +1082,99 @@ Replenishment [ CPRF] ?
 Ys
 ````
 
+## 2013-14 · Re-Exam · Trim 11 · paper 7797cec22141
+
+- Departments: Chemical, Computer Engineering, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/supply chain management/SUPPLY CHAIN MANAGEMENT BATCH 2012-13 RE EXAM0001.pdf` (+3 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 20/06/2014
+- Text: ocr (2 pages), mean OCR confidence 89.9
+
+````text
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGAN
+
+SVKM’s NMIMS one
+
+/§ Sal ~—~~e\
+Programme:MBA Tech (ALL STREAMS) Year:IV #7 M viximgste? ¥
+
+‘LIBRARY
+Academic Year: 2013-14 Batch : 2012-13 ‘
+
+Subject : Supply Chain Management
+Marks: 50
+Date : 20/06/2014 Time : 2.00 pm to 4.00 pm
+Durations: 2 (hrs}
+Re - Examination
+
+Instructions: 1] Q. No: 1is COMPULSSORY and carries 20 marks
+' 2] Attempt ANY THREE questions from the other five questions carrying 10 marks each.
+3] Only relevant and to-the-point answers will get credit.
+
+Q. No: 1 A]
+
+1] Mention the two main parameters on which distribution { Logistics} performance can basically be
+judged .
+
+2] Value generation in Supply Chain = Supply Chain Profitability [State “TRUE’ or ‘FALSE’ ]
+
+3] Differentiate between ‘Efficient’ Supply chain & ‘ Responsive’ Supply Chain on the following four
+points. :
+
+a] Inventory types, b] capacity cushion, c] demand ico cabal, d] frequency of new product
+introduction
+
+4] State the difference between ‘off-shoring’ and ‘out-sourcing’ a supply chain function
+5] Differentiate between 3” party [3PL] and 4™ party [ 4PL] logistics [ two major differences]
+Q. No: 1B]
+
+A company is importing branded electronic remote control devices to meet its requirement of 500
+units per month. The total requirement of the devices can be purchased from the lone supplier A
+having the below mentioned price list
+
+Order Quantity-units | Unitprice-USD _|
+1-199 14.00
+200-399 13.50
+400 -599 13.00
+600 and above 12.00
+
+Ordering cost for both the suppliers is USD 40 per order and holding cost is 25 % of unit price per unit.
+What order quantity is optimal if intent is to minimize total annual costs ?
+
+Q. No: 2] Enumerate the factors influencing Supply Chain distribution network design. and
+
+explain how they impact customer service and cost of the supply chain
+
+Vo
+--- page 2 ---
+Q. No: 3 ] Vijay Sales Kandivali has recorded sale of a particular make of washing machines in
+the past five successive months. Also recorded are the forecast figures for respective months.
+The manager wants to predict the sale of the item for the ensuing, 6th month. He is advised to
+use exponential smoothing method and guided to use ‘alpha’ value 0.8. Calculate the sales
+forecast of washing machines for the sixth month for the manager.
+
+~~
+
+Month ~ Jan[ 1] Feb [ 2 ] March [ 3 ] April [ 4 ] May [5 J
+Forecast 42 _4i 43 42 43
+Actual sale 40 43 46 38 - 44
+
+Q. No: 4] What do you understand by Vendor Managed Inventory ( VMI) ? What are the
+prerequisites of successful VMI?
+
+Q. No: 5] List and briefly discuss factors for and against out-sourcing of a supply chain
+function. With suitable examples of your choice.
+
+Q. No 6] Explain the ‘Bull-whip Effect ‘ phenomenon with a suitable example.
+
+How ‘Bull-whip Effect can be remedied by Collaborative Planning, Forecasting and
+Replenishment [ CPRF] ?
+
+ae Sere ay ee va
+
+XR —
+````
+
 ## 2013-14 · Re-Exam · Trim 11 · paper 2a253fa2d81e
 
 - Departments: Chemical, Information Technology, Manufacturing
@@ -858,6 +1182,7 @@ Ys
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/supply chain management/SUPPLY CHAIN MANAGEMENT MBA TECH (ALL) 2013-14 RE EXAM.pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 19 /12/2013
 - Text: ocr (2 pages), mean OCR confidence 88.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -961,7 +1286,6 @@ A.l, Hl, Hl, IV B.1, Hl, IV, TH Cull, 1, Hl, IV Dll, |, IV, Ill
 |. The alpha should be adjusted. Il. The cause should. be determined.
 Ill. Corrective action should be taken. IV. The limit should be adjusted. *
 
-Alandill B.landIV C.lland Ill D.lland IV
 
 10. Transportation Planning requires the following data EXCEPT (Pls Tick)
 
@@ -1096,131 +1420,80 @@ performance characteristics.
 3/3
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper d11b96c2e351
+## 2012-13 · Exam not stated · Trim 11 · paper b2646df2df53
 
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/SUPPLY CHAIN MANAGEMENT/Supply Chain management Batch 2013-14 Re Exam.pdf`
-- Printed on paper: max marks: 50; exam date: 21/04/2015
-- Text: ocr (3 pages), mean OCR confidence 93.6
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/supply chain management/scan0052(1).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 22/01/2013
+- Text: ocr (1 page), mean OCR confidence 89.3
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA Tech (All Streams) Year: IV
+Mukesh Patel School Of Technology Management & Engineerin
+Programme: MBA (Tech)-ALL STREAMS Year: IV Trimester: XI
+Academic Year : 2012-2013
 
-Semester: VIII
+*C NMIMS University )@
+m™( Mumbal-56. =
+Library 1g
 
-Academic Year: 2014-15
-Batch: 2013-14
+4g
 
-ee
+Subject: SUPPLY CHAIN MANAGEMENT Marks: 50 j
+Time: 2.00 p.m To 4.00 p.m ‘
+Date: 22/01/2013 Duration: 2 hrs.
 
-4
+Final - Examination
 
-Subject: Supply Chain Management
+x or
 
-Marks: 50
-Date: 21/04/2015 Time: 2.00{
+instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+(Use only if applicable as the case may be)
 
-Durations:
+NB:
 
-Re-Examination aaa
-Instructions: 1] Q. No: 1 is COMPULS ORY and carries 20 marks —
-2] Attempt ANY THREE questions from the other five questions carrying 10 marks each.
-3] Only relevant and to-the-point answers will get credit.
+1. Question No. 6 is compuisory.
 
-Q.No: 1A] { Marks: 10}
-1] Ina Supply Chain there are four basic flows which need to be managed. Name these four flows.
+2. Out of remaining questions, attempt any 4 questions.
 
-2] Mention the two main parameters on which distribution { Logistics} performance can basically be
-judged .
+3. in ali 5 questions to be attempted.
 
-3] Value generation in Supply Chain = Supply Chain Profitability [State “TRUE’ or ‘FALSE’ J
+4. All questions carry equal marks.
 
-4] Differentiate between ‘Efficient’ Supply chain & ‘ Responsive’ Supply Chain on the following two
-points.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
 
-a] Inventory types, b].capacity cushion,
-5] State the difference between ‘off-shoring’ and ‘out-sourcing’ a supply chain function
-Q. No: 1 B] { Marks: 10}
+Q1. What is Bullwhip effect? What are its consequences and countermeasures? (10 marks)
+Q2PI. write short notes 2marks each x 5 sub-questions= (10 marks)
+|. _ Material requirements planning (MRP), ll. Bill of materials (BOM)
+Ill. Dependent demand & Independent \V. | Master production schedule
+demand. (MPS)
+} V. __Linear regression forecasting
 
-Quick Money Bank {QMB} orders cash in equal quantity from RBI to meet daily transaction
-requirement.
+Q3. You have been appointed as a SCM optimization consultant in an FMCG industry. Your role is
+to implement LEAN. What points or steps will you consider? (10 marks)
 
-Ms Jyoti , the operations manager of QMB , estimates that Rs 50 Crs in cash will be needed next
-year, The bank’s daily requirement of cash is estimated to be uniform throughout the year.. She
-has estimated that the'cost to order, receive and place each shipment of cash from the RBI will
-be Rs 6000 per shipment. Quick Money Bank is open for business 250 days each year. The
-bank’s related carrying cost for cash is 0.5 percent per month.
+Q4. Write briefly any 2 (10 marks)
+|) What are the advantages of using the postponement strategy?
+ll) What are five widely recognized modes of logistics?.
+Ill) SIX SIGMA quality concept.
 
-1] How much should Ms. Jyoti order from RBI each time when a cash order is placed?
-2] What is the expected total ordering cost plus total carrying cost for the year?
-3] How many working days should one shipment of cash last for Quick Money Bank
+Q5. g5imarks each x 2 sub-questions (10 marks)
+4 From the following data determine the EOQ
+> Annual requirement = 12x 10*5 units
+> Purchase price = Rs 3/ unit
+> Ordering cost = Rs 50- per order
+> Carrying cost of inventory= 10% of cost
 
-Q. No: 2 } What are the process views of Supply Chain? Explain these two process views of
-Supply Chain with their particular usefulness in certain Supply Chain decisions.
+ii) What is Vendor Managed Inventory?
+Q6. Improperly managed inventory in a workplace is a waste; You are a SCM head and your target
 
-4/3
+is to reduce waste across various processes in a factory. Where you think is the inventory blocked,
+held and/or wasted? (10 marks)
 
-MPSTMBE
-\ (Seay é
-e ee, a“
---- page 2 ---
-Q. No: 3] D-Mart Kandivali has recorded sale of a particular make of washing machines in the
-past five successive months. Also recorded are the forecast figures for respective months. The
-manager wants to predict the sale of the item for the ensuing, 6th month. He is advised to use
-exponential smoothing method and guided to use ‘alpha’ value 0.4. Calculate the sales forecast
-of washing machines for the sixth month for the manager.
-
-Month | Jan [1] Feb [ 2 ] March [ 3 ] April [ 4 ] May [5]
-Forecast 42 4] 43 42 43
-Actual sale 40 43 46 38 44
-
-Q. No:4 ] Major General Pradeep Singh , C-in C Northern Command, was strolling restlessly
-in his huge chamber at Military Head Quarters. He is faced with a critical problem of
-deciding appropriate location for the ammunition ware -house which is supposed to feed
-three important but scattered battle-fields , ( coded as A, B, and C) with different rates of
-ammunition requirement of 500,300 and 100 MTs per month respectively. The factory ( say F)
-producing the requisite quantity of 900 MTs of ammunition per month to cater to these three
-battle-fields and is already situated at a safe position within Indian territory. As a strategic
-decision , ammunition ware-housing and supplies to battle fields is not to be effected directly
-from the factory but supplies should be routed via the planned ammunition ware-house (coded
-as W) to be located differently than the factory and with a view to facilitate hand to mouth
-feeding to the three battle-fields from the ware-house. The transportation of the ammunition
-from factory to ware-house and onward to the various battle fields is to be carried out through
-helicopter traffic to facilitate straight line and quicker transport. The transportation cost of
-ammunition is same in all directions and is estimated at Rs 2000 per MT per KM. Major Gen.
-Pradeep Singh is interested in identifying the right geographical location of the ware-house so
-that the total ammunition transportation cost from factory to battlefields via ware-house is
-minimum. From the military map, he has found out the relative geographic locations of the
-factory and the three battle-fields in terms of respective X and Y coordinates in Kms with
-reference to some arbitrary x and y axes. The relevant data is tabulated in the following table
-Locational coordinates (X,Y) in KMs
-
-Xx Y
-Battle Field —A 10 10
-Battle Field —B 22 12
-Battle Field -C 14 4
-a Factory-F 3 2
-Find out 1] The most optimum location for the ware-house W which will minimize the total
-— ammunition transportation cost .
-
-2] Calculate what will that minimum total ammunition transportation cost per month?
-
-2/3
-
-|
---- page 3 ---
-Q. No: 5] Enumerate the factors influencing Supply Chain distribution network design. and
-explain how they impact customer service and cost of the supply chain.
-
-Q. No: 6] Enumerate [ only] the various main design options available for distribution network
-from manufacturer to the end consumer. Explain with a neat sketch ‘Manufacturer storage with
-direct shipping ( also known as drop shipping)stating its cost based and service based
-performance characteristics.
-
-3
+vA
 ````
 
 ## 2012-13 · Final-Exam · Trim 11 · paper b4b42c2419a4
@@ -1230,6 +1503,7 @@ performance characteristics.
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/supply chain management/SUPPLY CHAIN MANAGEMENT 2012-2013 FINALscan0043.pdf` (+2 identical copies)
 - Printed on paper: exam date: 22/01/2013
 - Text: ocr (1 page), mean OCR confidence 82.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1247,7 +1521,6 @@ Date: 22/01/2013 Duration: eS
 
 Final - Examination
 
-i3Sii » 7 i ncicial Sho ‘ uM att Niy Ti 12 INISTUCTIONS fr } VASG >
 on the cover of the Aree Book, which is saandilad for their use.
 (Use only if applicable as the case may be)
 
@@ -1497,203 +1770,6 @@ is to reduce waste across various processes in a factory. Where you think is the
 held and/or wasted? (10 marks)
 
 y
-````
-
-## 2012-13 · Re-Exam · Trim 11 · paper b4cab82f2573
-
-- Departments: Chemical, Computer Engineering, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/supply chain management/SUPPLY CHAIN MANAGEMENT BATCH 2012-13 RE EXAM0001(4).pdf` (+3 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 13/12/2014
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKBVs NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year: IV Trimester: XT
-
-Academic Year: 2014-15
-
-Batch:2012-13
-
-a Ws,
-a MPSTME )
-
-F oo }
-Subject : Supply Chain Management Marks:50 BC LIBRARY Je H
-‘e,
-
-. ; Se fi
-22. 3 wt,
-Date :13/12/2014 Durations:2 (hr Magy anees™
-a a
-
-Re-Examination es
-
-Instructions: 1] Q. No: 1 is COMPULSORY and carries 20 marks
-2] Attempt ANY THREE questions from the other five questions carrying 10 marks each.
-3] Only relevant and to-the-point answers will get credit.
-
-Q.No: 1A] C16)
-1]. Ina Supply Chain there are four basic flows which need to be managed. Name these four flows.
-
-2] Mention the two main parameters on which distribution { Logistics} performance can basically be
-judged.
-
-3] Value generation in Supply Chain = Supply Chain Profitability [State “ TRUE’ or ‘FALSE’ ]
-
-4] Differentiate between ‘Efficient’ Supply chain & ‘ Responsive’ Supply Chain onthe following four
-points.
-
-a] Inventory types, b] capacity cushion, c] demand predictability, d] frequency of new product
-introduction
-
-5] State the difference between ‘off-shoring’ and ‘out-sourcing’ a supply chain function
-6] Differentiate between 3 party [ 3PL] and 4" party [ 4PL] logistics [ two major differences]
-7] Supply Chain Profitability= ( X) minus( Y). State X and Y.
-
-8] In exponential smoothing method for forecasting , selecting value of smoothing constant ‘alpha’ is a
-matter of judgment. Higher ‘alpha’ values are chosen when underlying average tends to be stable
-rather than susceptible to change. [ state ‘TURE’ or ‘FALSE? J
-
-Q.No:1B] Quick Money Bank {QMB} orders cash in equal quantity: from RBI to meet daily C4)
-transaction requirement.
-
-Ms Jyoti , the operations manager*6f QMB ; estimates that Rs 50Crs in cash will be needed next
-year, The bank’s daily requirement of cash is estimated to be uniform throughout the year.. She
-has estimated that the cost to order, receive and place each shipment of cash fom the RBI will
-be Rs 6000 per shipment. Quick Money Bank is open for business 250 days each year. The
-bank’s related carrying cost for cash is 0.5 percent per month.
-
-1] How much should Ms. Jyoti order from RBI each time when a cash order is placed?
-
-4
---- page 2 ---
-2] What is the expected total ordering cost plus total carrying cost for the year?
-3] How many working days should one shipment of cash last for Quick Money Bank
-
-Q. No: 2 ] What do you understand by VMI ( Vendor Managed Inventory)? What are its
-advantages?
-
-Q. No: 3] Enumerate the factors influencing Supply Chain distribution network design. and
-explain how they impact customer service and cost of the supply chain.
-
-Q. No: 4] Enumerate [ only] the various main design options available for distribution network
-from manufacturer to the end consumer. Explain with a neat sketch ‘Manufacturer storage with
-direct shipping ( also known as drop shipping)stating its cost based and service based
-performance characteristics.
-
-Q. No: 5] List and briefly discuss factors for and against out-sourcing of a supply chain
-function. With suitable examples of your choice.
-
-Q. No 6] Explain the ‘Bull-whip Effect ‘ phenomenon with a suitable example.
-
-How ‘Bull-whip Effect can be remedied by Collaborative Planning, Forecasting and
-Replenishment [ CPRF] ?
-
-Q. No: 7] Give and explain the nine step process of effective implementation of Collaborative
-Planning, Forecasting, and Replenishment [CPRF].
-
-Q. No: 8] What are'the process views of Supply Chain? Explain these two process views of
-Supply Chain with their particular usefulness in certain Supply Chain decisions.
-
-9
-
-xe
-````
-
-## 2012-13 · Re-Exam · Trim 11 · paper 7797cec22141
-
-- Departments: Chemical, Computer Engineering, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/supply chain management/SUPPLY CHAIN MANAGEMENT BATCH 2012-13 RE EXAM0001.pdf` (+3 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 20/06/2014
-- Text: ocr (2 pages), mean OCR confidence 89.9
-
-````text
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGAN
-
-SVKM’s NMIMS one
-
-/§ Sal ~—~~e\
-Programme:MBA Tech (ALL STREAMS) Year:IV #7 M viximgste? ¥
-
-‘LIBRARY
-Academic Year: 2013-14 Batch : 2012-13 ‘
-
-Subject : Supply Chain Management
-Marks: 50
-Date : 20/06/2014 Time : 2.00 pm to 4.00 pm
-Durations: 2 (hrs}
-Re - Examination
-
-Instructions: 1] Q. No: 1is COMPULSSORY and carries 20 marks
-' 2] Attempt ANY THREE questions from the other five questions carrying 10 marks each.
-3] Only relevant and to-the-point answers will get credit.
-
-Q. No: 1 A]
-
-1] Mention the two main parameters on which distribution { Logistics} performance can basically be
-judged .
-
-2] Value generation in Supply Chain = Supply Chain Profitability [State “TRUE’ or ‘FALSE’ ]
-
-3] Differentiate between ‘Efficient’ Supply chain & ‘ Responsive’ Supply Chain on the following four
-points. :
-
-a] Inventory types, b] capacity cushion, c] demand ico cabal, d] frequency of new product
-introduction
-
-4] State the difference between ‘off-shoring’ and ‘out-sourcing’ a supply chain function
-5] Differentiate between 3” party [3PL] and 4™ party [ 4PL] logistics [ two major differences]
-Q. No: 1B]
-
-A company is importing branded electronic remote control devices to meet its requirement of 500
-units per month. The total requirement of the devices can be purchased from the lone supplier A
-having the below mentioned price list
-
-Order Quantity-units | Unitprice-USD _|
-1-199 14.00
-200-399 13.50
-400 -599 13.00
-600 and above 12.00
-
-Ordering cost for both the suppliers is USD 40 per order and holding cost is 25 % of unit price per unit.
-What order quantity is optimal if intent is to minimize total annual costs ?
-
-Q. No: 2] Enumerate the factors influencing Supply Chain distribution network design. and
-
-explain how they impact customer service and cost of the supply chain
-
-Vo
---- page 2 ---
-Q. No: 3 ] Vijay Sales Kandivali has recorded sale of a particular make of washing machines in
-the past five successive months. Also recorded are the forecast figures for respective months.
-The manager wants to predict the sale of the item for the ensuing, 6th month. He is advised to
-use exponential smoothing method and guided to use ‘alpha’ value 0.8. Calculate the sales
-forecast of washing machines for the sixth month for the manager.
-
-~~
-
-Month ~ Jan[ 1] Feb [ 2 ] March [ 3 ] April [ 4 ] May [5 J
-Forecast 42 _4i 43 42 43
-Actual sale 40 43 46 38 - 44
-
-Q. No: 4] What do you understand by Vendor Managed Inventory ( VMI) ? What are the
-prerequisites of successful VMI?
-
-Q. No: 5] List and briefly discuss factors for and against out-sourcing of a supply chain
-function. With suitable examples of your choice.
-
-Q. No 6] Explain the ‘Bull-whip Effect ‘ phenomenon with a suitable example.
-
-How ‘Bull-whip Effect can be remedied by Collaborative Planning, Forecasting and
-Replenishment [ CPRF] ?
-
-ae Sere ay ee va
-
-XR —
 ````
 
 ## 2012-13 · Re-Exam · Trim 11 · paper 7bb71cc9c03e
@@ -1950,9 +2026,9 @@ Ala
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/supply chain management/2010-2011(58).pdf` (+2 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 15/01/2011
 - Text: ocr (2 pages), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SLES Te aa ESTER MSN ee sar -
 
 SVKM’s NMIMS:
 ee Mukesh Patel School Of Technology Management & Engineering
@@ -2435,80 +2511,4 @@ A) SMED
 
 B) The Third Wave, as explained by Alvin Toffler
 C) Poka Yoke System
-````
-
-## Year not stated · Exam not stated · Trim 11 · paper b2646df2df53
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/supply chain management/scan0052(1).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 22/01/2013
-- Text: ocr (1 page), mean OCR confidence 89.3
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineerin
-Programme: MBA (Tech)-ALL STREAMS Year: IV Trimester: XI
-Academic Year : 2012-2013
-
-*C NMIMS University )@
-m™( Mumbal-56. =
-Library 1g
-
-4g
-
-Subject: SUPPLY CHAIN MANAGEMENT Marks: 50 j
-Time: 2.00 p.m To 4.00 p.m ‘
-Date: 22/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-x or
-
-instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-(Use only if applicable as the case may be)
-
-NB:
-
-1. Question No. 6 is compuisory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. in ali 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q1. What is Bullwhip effect? What are its consequences and countermeasures? (10 marks)
-Q2PI. write short notes 2marks each x 5 sub-questions= (10 marks)
-|. _ Material requirements planning (MRP), ll. Bill of materials (BOM)
-Ill. Dependent demand & Independent \V. | Master production schedule
-demand. (MPS)
-} V. __Linear regression forecasting
-
-Q3. You have been appointed as a SCM optimization consultant in an FMCG industry. Your role is
-to implement LEAN. What points or steps will you consider? (10 marks)
-
-Q4. Write briefly any 2 (10 marks)
-|) What are the advantages of using the postponement strategy?
-ll) What are five widely recognized modes of logistics?.
-Ill) SIX SIGMA quality concept.
-
-Q5. g5imarks each x 2 sub-questions (10 marks)
-4 From the following data determine the EOQ
-> Annual requirement = 12x 10*5 units
-> Purchase price = Rs 3/ unit
-> Ordering cost = Rs 50- per order
-> Carrying cost of inventory= 10% of cost
-
-ii) What is Vendor Managed Inventory?
-Q6. Improperly managed inventory in a workplace is a waste; You are a SCM head and your target
-
-is to reduce waste across various processes in a factory. Where you think is the inventory blocked,
-held and/or wasted? (10 marks)
-
-vA
 ````

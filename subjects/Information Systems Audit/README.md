@@ -16,16 +16,16 @@ Also filed as: `INFORMATION SYSTEM AUDIT`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CyberSecurity 7010 | ANS_Information Systems Audit(702IT0E033)_2025-2026.docx |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CyberSecurity 7010 | ANS_Information Systems Audit(702IT0E033)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / CSE CYBER SECURITY | Information Systems Audit, Sem-VII, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CyberSecurity 7010 | QP_Information Systems Audit(702IT0E033)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CyberSecurity 7010 | ANS_Information Systems Audit(702IT0E033)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CyberSecurity 7010 | ANS_Information Systems Audit(702IT0E033)_2025-2026.docx |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CyberSecurity 7010 | ANS_Information Systems Audit(702IT0E033)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech CyberSecurity 7010 | QP_Information Systems Audit(702IT0E033)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 12 | Integrated Computer 7032 | ANS_Information Systems Audit(702IT0E033)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CyberSecurity 7010 | ANS_Information Systems Audit(702IT0E033)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / CSE CYBER SECURITY | Information System Audit, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / COMPUTER | Information Systems Audit Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | Integrated Computer 7032 | QP_Information Systems Audit(702IT0E033)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 12 | Integrated Computer 7032 | ANS_Information Systems Audit(702IT0E033)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / CSE CYBER SECURITY | Information System Audit, Sem-VII, Final Exam, A Y 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / COMPUTER | Information Systems Audit Batch 2023-24 Final.pdf |
 

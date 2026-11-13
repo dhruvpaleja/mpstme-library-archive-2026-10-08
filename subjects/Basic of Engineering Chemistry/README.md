@@ -1,6 +1,6 @@
 # Basic of Engineering Chemistry
 
-**4** unique papers (5 copies across programmes) · 2021-22 to 2023-24 · 2 programmes · Sem 3
+**3** unique papers (4 copies across programmes) · 2021-22 to 2023-24 · 2 programmes · Sem 3
 
 Download only this subject, sorted by academic year:
 
@@ -15,7 +15,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Basic Electronics Batch 2023-24 Final Batch 2021-22,2022-23 Re Exam.pdf |
-| 2023-24 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Basic Electronics Batch 2021-22,2022-23,2023-24 Re Exam0001.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / MECHANICAL | Basic of Engineering Chemistry Batch 2021-22 Re Exam0001.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / MECHANICAL | Basics of Engineering Chemistry Batch 21-22 Re Exam.pdf |
 

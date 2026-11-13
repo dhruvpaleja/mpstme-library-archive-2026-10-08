@@ -15,10 +15,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / COMPUTER | Mobile Computing Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 12 | Integrated Computer 7032 | ANS_Mobile Computing(701CO0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | Integrated Computer 7032 | QP_Mobile Computing(701CO0C016)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 12 | Integrated Computer 7032 | ANS_Mobile Computing(701CO0C016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 12 | Integrated Computer 7032 | ANS_Mobile Computing(701CO0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 12 | Integrated Computer 7032 | QP_Mobile Computing(701CO0C016)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 12 | Integrated Computer 7032 | ANS_Mobile Computing(701CO0C016)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / COMPUTER | Mobile Computing Batch 2023-24 Final.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / EXTC | Mobile Computing Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / COMPUTER | Mobile Computing Batch 2023-24 Re Exam.pdf |

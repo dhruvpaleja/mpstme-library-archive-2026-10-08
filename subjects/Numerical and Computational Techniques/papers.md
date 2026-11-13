@@ -1,200 +1,10 @@
 # Numerical and Computational Techniques: question papers in full
 
-11 unique papers · 2007-08 to 2011-12 · Computer Applications (MCA)
+11 unique papers · 2007-08 to 2013-14 · Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2011-12 · Re-Exam · Trim 2 · paper 33577a197009
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/NUMERIAL AND COMPUTATIONAL TECHNEQUES/numerical & computational Techniques BATCH 2010-11,2011-12 RE EXAMscan0002.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/02/2013
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-x a™ 4
-SY aN
-Ming GENS
-
-SVKM’s NMIMS T
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MCA Year: I Trimester: II
-Academic Year : 2012-2013
-Batch: 2010-11, 2011-12
-: . Numerical & Computational
-Subject: Techniques Marks: 100
-Time: 10.00 am To 1.00 pm
-Date: 11/02/2013 Duration: 3 hrs.
-Re - Examination
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures to the right indicate full marks.
-Ql.
-A Find the inverse of the matrix using elementary row and column 10
-transform.
-1/1 ]1
-4 }3 |-1
-3 15 13
-B__ Explain the Euler’s method to solve differential equations. 10
-Q2. A _ Solve the following equation by Runge-Kutta method at x=0.8; 10
-dy/dx = y —x Take x0 = 0, y(0) = 2, h= 0.2
-B Describe different types of errors, analysis and estimation of errors. 10
-Q3 A _ Explain error stability and condition for variable f(x). 10
-B__ Draw algorithm and flowchart of Newton-Raphson method. 10
-]
-Q4 A __ Draw algorithm and flowchart of Gauss Siedel method. 10
-B__ Using Matrix inversion method, solve the given matrix- 10
-5 -2 4
-2. 1 1
-4 1 0
-
-Yo.
---- page 2 ---
-Qs
-
-Q6
-
-Q7
-
-A
-B
-
-A
-
-B
-
-Derive the Trapezoidal Rule for Numerical Integration.
-Find value of y at x = 4.5 using Newton-Backward Differences
-interpolation method.
-
-xX 1 2 3 4 5
-
-y 2.38 3.65 5.85 9.95 14.85
-
-Explain Langranges Interpolation method in detail.
-
-Explain Taylor’s series of Approximation of function.
-Write a detail notes on
-
-a) Graphical method for system of Linear Algebric Equestions
-
-b) Least Square Approximation for curve fitting
-c) Simpson’s 1/3 Rule
-
-*
-
-10
-10
-
-10
-
-10
-20
-````
-
-## 2010-11 · Exam not stated · Trim 2 · paper 4faf1d61b2e4
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/NUMERIAL AND COMPUTATIONAL TECHNEQUES/2010-2011.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/02/2011
-- Text: ocr (2 pages), mean OCR confidence 91.9
-
-````text
-we
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MCA Year: I Trimester: I]
-Academic Year : 2010-2011
-
-Subject: NUMERICAL & COMPUTATIONAL Marks: 100
-TECHNIQUES Time: 10.00 AM TO 1.00 PM
-Date: 12/02/2011 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
-3. In all five questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicate full marks.
-
-1. (a) Evaluate the root of the equation f(x) = cos(x) — xe“ = 0 using the method of false
-position. (10)
-
-(b) Solve by Gauss — Siedel iterative method the given system of equation starting with
-(0, 0, 0, and 0) as solution. Do five iterations only. (10)
-4a—b-—c=2
--at+4b—d=2
--a+4ce—d=l
--b—c+4d=1
-
-2. (a) Solve system of equations using Cramer's Rule. (10)
-4xt+y-z=6
-8x-y+4z=0
-—3y + 2z=12
-
-Tl :
-(b) Using trapezoidal rule evaluate fin xdx by dividing into six equal parts. (10)
-0
-
-3. (a) Solve the system using matrix inversion method. (10)
-x+2y-z=6
-3x + 5y-—z=2
--2x-y-—2z=4
-
-(b) Find a real root of the equation x° - 9x + 1 = 0 by bisection method. (10)
-
-Ia.
---- page 2 ---
-4. (a) Use Gauss- Jordan method to obtain the inverse of the matrix. (10)
-
-2 2 3
-211
-1 3 5
-(b) Use least square approximation to fit a law y = a + bx + cx’ to the following data. (10)
-xi 1 2 3 4 5
-yi 3.38 8.25 16.6 28.5 44.00
-
-5. (a) Use Runge-Kutta method to obtain an approximate solution to the differential equation
-a =y—x+5 at the points x=2.1, 2.2, 2.3 with initial condition y(2)=1. (10)
-
-(b) Tabulate y(0.1), y(0.2) and y(0.3) using Taylor’s series method given that y' = y* +x and
-y(0) = 1. (10)
-
-6. (a) A river is 80 meter wide. The depth ‘d’ in meters at a distance ‘x’ meters from one bank
-is given in the following table. Calculate the area of cross section of the river using
-
-Simpson’s 1/3 rule. (10)
-Xx: 0 10 20 30 40 50 60 70 80
-d: 0 4 7 9 12 15 14 8 3
-(b) A cormel—alumel thermocouple gives the following output for rise in temperature: (10)
-Temp in °C 0 10 20 30 40 50
-Output in mV 0.0 0.4 0.8 1.2 1.61 2.02
-
-Find out the output of thermocouple for temperature of 45°C using Newton’s Divided
-Difference interpolation.
-
-7. (a) Using Euler’s method, solve the equation y’ = x + y, y(0) = 1, for x = 0.0, (0.2), (1.0) (06)
-(b) Give the significance of interpolation. Derive the expression for Newton’s Forward
-Difference. (08)
-(c) What do you understand by error propagation? State the stability condition. (06)
-
-7
-````
-
-## 2010-11 · Exam not stated · Trim 2 · paper 9d54d106a752
+## 2013-14 · Exam not stated · Trim 2 · paper 9d54d106a752
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -340,13 +150,253 @@ Page (2/2)
 10
 ````
 
-## 2010-11 · Exam not stated · Trim 2 · paper a6027124f254
+## 2013-14 · Re-Exam · Trim 2 · paper f773c4a126a5
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/NUMERIAL AND COMPUTATIONAL TECHNEQUES/NUMERICAL & COMPUTATIONAL TECHNIQUES0001 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/12/2013
+- Text: ocr (2 pages), mean OCR confidence 87.4
+
+````text
+- 44 .
+at AAMAREME,
+
+SVKM’s NMIMS’.
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+CY Sa
+
+Programme:MCA Year: I
+Academic Year: 2013-14 Batch:2010-11
+Subject : Numerical & Computational Techniques
+Marks: 100
+Date :11/12/2013 Time : 10.00 am to 1.00 pm
+
+Durations:3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the answer book, which is provided for their use.
+
+NB:
+
+1. Question No.1 is compulsory. Out of remaining questions, attempi any 4 .
+2. Inall, 5 questions to be attempted.
+
+3. All questions carry equal marks. .
+
+4. Answers to each new question to be started on fresh page.
+
+5. Figure to the right indicate full marks.
+
+Q.1 Answer the following questions.
+a. Compare open and bracketing methods and solve 3x?-9x’+8=0 using Newton
+Raphson Method.
+b. Solve the following system of equations using matrix inversion ‘method.
+x+2y-z=2
+3xt+6y+z=1
+3xt3y+2z=3
+Q.2
+a. Use Newton’s interpolation formula to find f(0.23) and f(0.29)
+x 0.20 0.22 0.24 0.26 0.28 0.30
+f(x) | 1.6596 | 1.6698 | 1.6804 | 1.6912 | 1.7024 | 1.7139
+b. Fit a straight line and a parabola to the following data using least square
+approximation
+xX 1 2 3 4 5
+Y 3 4 5 6 8
+Q.3
+
+a. — Solve following equation by Euler’s simple method and estimate y(0.1), y(0.2) & y(1)
+for y(x)=xe® ; y(0)=0
+
+b. Use classical 2™ order RK method to estimate y(0.4). Assume h=0.2
+y’ (x)= x’ +y* with y(0)=0
+
+V2
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+--- page 2 ---
+Q.4
+
+Q5
+
+Q6
+
+Q7
+
+What do you mean by ‘Error’? Find absolute and relative errors and determine
+no. of significant digits for :
+
+i) let x= 2.71828182 and approx for x= 2.7182
+
+ii) let y= 98350 and approx for y=98000
+
+iii)let z=5742 and approx for z=5741
+
+Solve the following system of equations using Gauss Elimination method.
+5x-y+z=10
+2x+4y=12
+xtyt+5z=-1
+
+Use Cramer’s rule to solve —
+—0.5 p+ 3q-0.01 r= 142.75
+3 p—0.04q+r= 135.5
+— 0.06 p— 0.08 q + 0.045 r= — 0.25
+
+Solve the following equation using Gauss Jordon method.
+X,+2X,-3X,=-4
+
+X,+3X, +X, =10
+
+2X, +3X,+X,=-12
+
+Solve the following system of equations using Gauss seidel method
+4xtyt27=4
+
+3xty+z=7
+
+xtyt3z=3
+
+Find the Lagrange interpolation polynomial to fit the following data.
+Xi 0{1 2 3
+e*'-1 | 0 | 1.7183 | 6.3891 | 19.0855
+
+Write Short notes on following:
+
+Taylor’s method with appropriate example.
+
+Error Propagation
+
+Trapezoidal rule for numerical integration
+
+Comparison of bisection method and false position method
+
+2/2
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 33577a197009
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/NUMERIAL AND COMPUTATIONAL TECHNEQUES/numerical & computational Techniques BATCH 2010-11,2011-12 RE EXAMscan0002.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/02/2013
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+x a™ 4
+SY aN
+Ming GENS
+
+SVKM’s NMIMS T
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MCA Year: I Trimester: II
+Academic Year : 2012-2013
+Batch: 2010-11, 2011-12
+: . Numerical & Computational
+Subject: Techniques Marks: 100
+Time: 10.00 am To 1.00 pm
+Date: 11/02/2013 Duration: 3 hrs.
+Re - Examination
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures to the right indicate full marks.
+Ql.
+A Find the inverse of the matrix using elementary row and column 10
+transform.
+1/1 ]1
+4 }3 |-1
+3 15 13
+B__ Explain the Euler’s method to solve differential equations. 10
+Q2. A _ Solve the following equation by Runge-Kutta method at x=0.8; 10
+dy/dx = y —x Take x0 = 0, y(0) = 2, h= 0.2
+B Describe different types of errors, analysis and estimation of errors. 10
+Q3 A _ Explain error stability and condition for variable f(x). 10
+B__ Draw algorithm and flowchart of Newton-Raphson method. 10
+]
+Q4 A __ Draw algorithm and flowchart of Gauss Siedel method. 10
+B__ Using Matrix inversion method, solve the given matrix- 10
+5 -2 4
+2. 1 1
+4 1 0
+
+Yo.
+--- page 2 ---
+Qs
+
+Q6
+
+Q7
+
+A
+B
+
+A
+
+B
+
+Derive the Trapezoidal Rule for Numerical Integration.
+Find value of y at x = 4.5 using Newton-Backward Differences
+interpolation method.
+
+xX 1 2 3 4 5
+
+y 2.38 3.65 5.85 9.95 14.85
+
+Explain Langranges Interpolation method in detail.
+
+Explain Taylor’s series of Approximation of function.
+Write a detail notes on
+
+a) Graphical method for system of Linear Algebric Equestions
+
+b) Least Square Approximation for curve fitting
+c) Simpson’s 1/3 Rule
+
+*
+
+10
+10
+
+10
+
+10
+20
+````
+
+## 2011-12 · Exam not stated · Trim 2 · paper a6027124f254
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/NUMERIAL AND COMPUTATIONAL TECHNEQUES/NUMERICAL AND COMPUTATIONAL TECHNIQUES BATCH 2010-11 RE0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 21/06/2012
 - Text: ocr (2 pages), mean OCR confidence 81.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 =
@@ -448,7 +498,6 @@ True value = 1x 10-6 & Approximate value = 0.5 x 106
 
 |
 
-Joboodoiiolboiioio goo do dab aaa SAS SEIS ISS SDA BAA CO ISSO ISI ASI Ia COA TOI TAA IA TOA A AAAI A TOK
 
 “|
 
@@ -457,7 +506,7 @@ Page 2 of 2
 raid
 ````
 
-## 2010-11 · Re-Exam · Trim 2 · paper d8ed463d7e3c
+## 2011-12 · Re-Exam · Trim 2 · paper d8ed463d7e3c
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -598,6 +647,103 @@ ol gt
 10
 
 10
+````
+
+## 2010-11 · Exam not stated · Trim 2 · paper 4faf1d61b2e4
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/NUMERIAL AND COMPUTATIONAL TECHNEQUES/2010-2011.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/02/2011
+- Text: ocr (2 pages), mean OCR confidence 91.9
+
+````text
+we
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MCA Year: I Trimester: I]
+Academic Year : 2010-2011
+
+Subject: NUMERICAL & COMPUTATIONAL Marks: 100
+TECHNIQUES Time: 10.00 AM TO 1.00 PM
+Date: 12/02/2011 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. In all five questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicate full marks.
+
+1. (a) Evaluate the root of the equation f(x) = cos(x) — xe“ = 0 using the method of false
+position. (10)
+
+(b) Solve by Gauss — Siedel iterative method the given system of equation starting with
+(0, 0, 0, and 0) as solution. Do five iterations only. (10)
+4a—b-—c=2
+-at+4b—d=2
+-a+4ce—d=l
+-b—c+4d=1
+
+2. (a) Solve system of equations using Cramer's Rule. (10)
+4xt+y-z=6
+8x-y+4z=0
+—3y + 2z=12
+
+Tl :
+(b) Using trapezoidal rule evaluate fin xdx by dividing into six equal parts. (10)
+0
+
+3. (a) Solve the system using matrix inversion method. (10)
+x+2y-z=6
+3x + 5y-—z=2
+-2x-y-—2z=4
+
+(b) Find a real root of the equation x° - 9x + 1 = 0 by bisection method. (10)
+
+Ia.
+--- page 2 ---
+4. (a) Use Gauss- Jordan method to obtain the inverse of the matrix. (10)
+
+2 2 3
+211
+1 3 5
+(b) Use least square approximation to fit a law y = a + bx + cx’ to the following data. (10)
+xi 1 2 3 4 5
+yi 3.38 8.25 16.6 28.5 44.00
+
+5. (a) Use Runge-Kutta method to obtain an approximate solution to the differential equation
+a =y—x+5 at the points x=2.1, 2.2, 2.3 with initial condition y(2)=1. (10)
+
+(b) Tabulate y(0.1), y(0.2) and y(0.3) using Taylor’s series method given that y' = y* +x and
+y(0) = 1. (10)
+
+6. (a) A river is 80 meter wide. The depth ‘d’ in meters at a distance ‘x’ meters from one bank
+is given in the following table. Calculate the area of cross section of the river using
+
+Simpson’s 1/3 rule. (10)
+Xx: 0 10 20 30 40 50 60 70 80
+d: 0 4 7 9 12 15 14 8 3
+(b) A cormel—alumel thermocouple gives the following output for rise in temperature: (10)
+Temp in °C 0 10 20 30 40 50
+Output in mV 0.0 0.4 0.8 1.2 1.61 2.02
+
+Find out the output of thermocouple for temperature of 45°C using Newton’s Divided
+Difference interpolation.
+
+7. (a) Using Euler’s method, solve the equation y’ = x + y, y(0) = 1, for x = 0.0, (0.2), (1.0) (06)
+(b) Give the significance of interpolation. Derive the expression for Newton’s Forward
+Difference. (08)
+(c) What do you understand by error propagation? State the stability condition. (06)
+
+7
 ````
 
 ## 2010-11 · Re-Exam · Trim 2 · paper f4930d2fd08c
@@ -1204,150 +1350,4 @@ Q. 7 (b) Solve the following (Any 2) [12]
 +x7/721 4297314 + xn.
 
 ____-—_— * Se
-````
-
-## Year not stated · Re-Exam · Trim 2 · paper f773c4a126a5
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/NUMERIAL AND COMPUTATIONAL TECHNEQUES/NUMERICAL & COMPUTATIONAL TECHNIQUES0001 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/12/2013
-- Text: ocr (2 pages), mean OCR confidence 87.4
-
-````text
-- 44 .
-at AAMAREME,
-
-SVKM’s NMIMS’.
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-CY Sa
-
-Programme:MCA Year: I
-Academic Year: 2013-14 Batch:2010-11
-Subject : Numerical & Computational Techniques
-Marks: 100
-Date :11/12/2013 Time : 10.00 am to 1.00 pm
-
-Durations:3 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the answer book, which is provided for their use.
-
-NB:
-
-1. Question No.1 is compulsory. Out of remaining questions, attempi any 4 .
-2. Inall, 5 questions to be attempted.
-
-3. All questions carry equal marks. .
-
-4. Answers to each new question to be started on fresh page.
-
-5. Figure to the right indicate full marks.
-
-Q.1 Answer the following questions.
-a. Compare open and bracketing methods and solve 3x?-9x’+8=0 using Newton
-Raphson Method.
-b. Solve the following system of equations using matrix inversion ‘method.
-x+2y-z=2
-3xt+6y+z=1
-3xt3y+2z=3
-Q.2
-a. Use Newton’s interpolation formula to find f(0.23) and f(0.29)
-x 0.20 0.22 0.24 0.26 0.28 0.30
-f(x) | 1.6596 | 1.6698 | 1.6804 | 1.6912 | 1.7024 | 1.7139
-b. Fit a straight line and a parabola to the following data using least square
-approximation
-xX 1 2 3 4 5
-Y 3 4 5 6 8
-Q.3
-
-a. — Solve following equation by Euler’s simple method and estimate y(0.1), y(0.2) & y(1)
-for y(x)=xe® ; y(0)=0
-
-b. Use classical 2™ order RK method to estimate y(0.4). Assume h=0.2
-y’ (x)= x’ +y* with y(0)=0
-
-V2
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
---- page 2 ---
-Q.4
-
-Q5
-
-Q6
-
-Q7
-
-What do you mean by ‘Error’? Find absolute and relative errors and determine
-no. of significant digits for :
-
-i) let x= 2.71828182 and approx for x= 2.7182
-
-ii) let y= 98350 and approx for y=98000
-
-iii)let z=5742 and approx for z=5741
-
-Solve the following system of equations using Gauss Elimination method.
-5x-y+z=10
-2x+4y=12
-xtyt+5z=-1
-
-Use Cramer’s rule to solve —
-—0.5 p+ 3q-0.01 r= 142.75
-3 p—0.04q+r= 135.5
-— 0.06 p— 0.08 q + 0.045 r= — 0.25
-
-Solve the following equation using Gauss Jordon method.
-X,+2X,-3X,=-4
-
-X,+3X, +X, =10
-
-2X, +3X,+X,=-12
-
-Solve the following system of equations using Gauss seidel method
-4xtyt27=4
-
-3xty+z=7
-
-xtyt3z=3
-
-Find the Lagrange interpolation polynomial to fit the following data.
-Xi 0{1 2 3
-e*'-1 | 0 | 1.7183 | 6.3891 | 19.0855
-
-Write Short notes on following:
-
-Taylor’s method with appropriate example.
-
-Error Propagation
-
-Trapezoidal rule for numerical integration
-
-Comparison of bisection method and false position method
-
-2/2
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
 ````

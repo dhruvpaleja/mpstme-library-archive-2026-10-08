@@ -637,6 +637,7 @@ c) Correlation
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/COMPUTER SIMULATION & MODELING/computer simulation and modeling 2017-18 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 03 May 2018
 - Text: ocr (4 pages), mean OCR confidence 80.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -859,7 +860,6 @@ Le -4713° 4719-4726 «4732 1473B 14744 47614787
 2.7 A965 4966 4967 =4963 4969-4970 14971 14972 14973 14974
 2.8 4974 = A9TS 4976 «= 49TT = ADTT «= 4978-4979 497949804981
 2.9 4981 4982 498249834984 49844985 4985 14986 «4986
-3.0 4987 = AOB7 = ABT 4988 ABB «ABD = «489.4989. 4990 .4590
 3.1 -4990 4991 4991 4991-4992 49924992 4992 4993-4993
 32 4993 A993 A994 «64994 «4996 499d 4994) 4995 4995 4995
 53. A995 4995 4995 4996 4996 4996 4996 4996 | 14996-4997
@@ -1014,6 +1014,7 @@ IP fragmentation and reassembly
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELLING B TECH (IT), 2016-17 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 03 December 2016
 - Text: ocr (7 pages), mean OCR confidence 77.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1218,7 +1219,6 @@ i 112) 3]4s {6} 7/8 | 9 | w] 12 fas | 2 | 2 | 0) 0 | oo | wm
 
 | 2 | 18.51 | 19.00 | 19.16 | 19.25 | 19.90 | 19.33 | 19.35 | 19.57 | 19.38 | 19.40 | 19.41 | 19.49 | 19.45 | 10.45 | 19.46 19.47 | 19.48 | 19.49 | 19.50
 
-“8 i 8 | 7013] 950] 928) 912{° 901] 394] as9|esso} asi} azo! a4] azo 866] 864] 8.62
 i 4 | 771} 694] 659} 639] 626| 616] 609] 6.04] 600] sos} sot sad
 
 €59/ B57] 855] 8.53
@@ -1368,6 +1368,7 @@ Technometrics. Vol. 11. No. 4, ©1969, pp. 688 - 9, of the American Statistical 
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/COMPUTER SIMULATION & MODELING/COMPUTER SIMULATION ADN MODELING 2016-2017 Final exam.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 4 May 2017
 - Text: ocr (3 pages), mean OCR confidence 76.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 97 SF Magy
@@ -1491,7 +1492,6 @@ Q7 Answer Any Two [6*2 = 12 M]
 --- page 3 ---
 Table for critical value
 
-¥ Xicas Su Kins Bos Gas
 
 wf TBs 663 5,02 a4 ane
 z 10.60 a3 1 5.40 463
@@ -1708,6 +1708,179 @@ M44
 OR
 
 LIBS”
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper 681ec8cfb4d3
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELING B TECH (IT), BATCH 2015-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 03 December 2016
+- Text: ocr (3 pages), mean OCR confidence 80.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (I.T.) Year : III Semester: V
+
+Batch : 2015-2016
+/ . Academic Year : 2016-2017 |
+
+\
+Subject : Computer Simulation and Modeling Marks: 60 ~ w
+Time: 2.00 pm to 5.00
+Date : 03 December 2016 Duration ; '3)(hrs) ry
+a PAN C §
+Se be,
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. :
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+la. |X and Y are jointly continuous with joint pdf (6 marks)
+i ) ery fO<2,0<y,r+y<l
+
+ry) . °
+
+IVEY 0, otherwise.
+
+(a). Find c. (b). Find P(Y > X). (c). Find marginal pdf ’s of X and of Y . (d). Are X
+and Y independent (justify)
+
+Ib.
+Classical inventory problem concerns the purchase and sale of newspapers. The paper
+
+seller buys the papers for 33 cents each and sells them for 50 cents each. Newspapers not
+sold at the end of the day are sold as scrap for 5 cents each. Newspapers can be purchased
+in bundles of 10. Thus, the paper seller can buy 50, 60, and so on. There are three types
+of Newsday’s, “good,” “fair,” and “poor,” with probabilities of 0.35, 0.45, and 0.25,
+respectively. The distribution of papers demanded on each of these days is given in table.
+Simulate the demands for papers over 5-day time period to determine the total profit
+under a certain policy, e.g., purchase 70 newspapers. (6 marks)
+
+Distribution of Newspapers Demanded
+
+7 Demand Demand Probabilities Cumulative Probabilities
+Good Fair Poor | Good Fair Poor
+
+40 : 0.03 : 0.10 : 0.44 : 0.03 } 0.10 : 0.44
+
+50 $6.05} O18 $ 0.22 | 0.08 } 0.28 : 0.66
+
+60 10.15 } 040 { 0.16 : 0.23 ; 0.68 : 0.82
+
+4/s
+--- page 2 ---
+70} 0.20: 020 : 0.12 $043! 088 : 0.94
+80 $0.35 } 0.08 |} 0.06 0.78; 0.96 : 1.00
+90 ! 015: 0.04 : 0.00 $0.93: 1.00 : 1.00
+100 ! 0.07} 0.00 : 0.00 : 1.00} 1.00 : 1.00
+
+Day 1 Day 3 Day 3 Day 4 Day 5
+RN for type | 25 96 45 39 78
+of day
+RN for | 67 98 31 46 9
+demand |
+2a. Explain Sequential allocation approach and linked allocation approach with proper
+example, (6 marks)
+
+2b. A toothpick manufacturer wants every box to contain exactly (on average) 500
+toothpicks. Suppose you took a random sample of n = 81 boxes, and found: X =498 tooth
+
+picks, S = 9 toothpicks. Test at a= .01 (6 marks)
+3a. Briefly explain the steps in a sound simulation study with flow chart. (6 marks)
+“3b Illustrate central limit theorem with proper example. (6 marks)
+4a Explain in detail Management’s Role in the Simulation Process. (6 marks)
+4b Describe the Verification of Simulation Computer Programs. (6 marks)
+5a Explain different types of simulation with regard to output analysis. (6 marks)
+5b Explain transient and steady state behavior of a stochastic process - (6 marks)
+6a Describe the advantages and disadvantages of simulation. (6 marks)
+6b Explain techniques for Increasing Model Validity and Credibility, (6 marks)
+7 Explain any three (12 marks)
+
+a. Confidence interval :
+
+b. Verification-of simulation model- yo
+c. Stochastic system
+
+d. Server utilization in single queuing system
+
+q YW entiy Tent
+
+as
+--- page 3 ---
+794 Appendix A Tables
+
+SnD uh e STAB ERB se ae
+Areas of the Standard Normal Distribution
+The entries in this table are the
+probabilities that a standard normal
+random variable is between 0 and z
+0 Z (the shaded area),
+
+z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+0.0 .0000 .0040 .0080 .0120 0160 0199 .0239 .0279 0319 0359
+0.1 .0398 0438 0478 0517 0557 .0596 0636 .0675 0714 0753
+0.2 0793 0832 .0871 .0910 0948 0987 1026 1064 -1103 1141
+0.3 1179 1217 61255 .1293 1331 1368 .1406 1443 +1480 1517
+0.4 1554 1591 .1628 1664 1700 11736 “41772 .1808 1844 11879
+05) 1915 1950 1985 -2019 2054 2088 2123 2157 2190 2224
+0.6 2257 .2291 2324 .2357 2389 2422 .2454 2486 2517 .2549
+0.7 2580 2611 2642 2673 2704 2734 2764 «2794 .2823 2852
+0.8 .2881 .2910 2939 2967 2995 3023 3051 .3078 3106 3133
+0.9 3159 3186 3212 3238 3264 3289 33315 3340 «3365 3389
+1.0 3413 3438 3461 3485 3508 3531 3554 3577 3599 3621
+1] 3643 3665 3686 3708 3729 3749 3770 3790 3810 3830
+1.2 +3849 3869 3888 3907 «3925 3944 3962 3980 3997 4015
+1.3 4032 4049 4066 A082 4099 ALLS 4131 4147 4162 4177
+1.4 4192 A207 4222 4236 A251 4265 4279 4292 4306 4319
+1.5 4332 4345 4357 4370 4382 4394 4406 4418 4429 4441
+1.6 4452 4463 4474 A484 A495 4505 A515 4525 4535 4545
+LZ 4554 4564 4573 4582 A591 4599 4608 4616 4625 4633
+1.8 4641 4649 4656 4664 4671 4678 4686 4693 4699 4706
+19 4713 A719 4726 4732 4738 4744 4750 A756 4761 4767
+
+2.0 A772. .4778 4783 4788 4793 4798 .4803 4808 4812 4817
+21 4821 4826 4830 4834 4838 4842 4846 4850 4854 4857
+ai 4861 4864 4868 4871 4875 4878 4881 4884 4887 4890
+2.3 4893 4896 4898 A901 -4904 -4906 4909 AIL A913 AILE
+24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936
+2.5 4938 4940 A941 4943 4945 4946 A948 A9AD A951 4952
+2.6 4953 A955 4956 4957 4959 4960 A961 4962 4963 4964 ‘
+2.7 A965 ADEE A967 4968 AGED 87 ASTI 4972 4973 4974
+2.8 4974 4975 4976 4977 4977 4978 A979 4979 4980 4981
+2.9 4981 4982 4982 4983 +4984 4984 A985 4985 4986 A986
+3.0 4987 4987 4987 4988 4988 4989 4989 4989 .4990 4990
+3 4990 A991 4991 4991 4992 4992 4992 4992 4993 4993
+3.2 4993 4993 4994 4994 4994 4994 4994 4995 4995 4995
+3.3 4995 4995 4995 4996 4996 4996 4996 4996 4996 4997
+
+tail
+3.4 4997 4997 4997 4997 4997 4997 4997 4997 .4997 4998
+3.5 4998
+pase 4,0 49997
+
+4.5 499997
+
+5.0 4999997
+
+6.0 499999999
 ````
 
 ## 2015-16 · Final-Exam · Sem 5 · paper ee66f008d884
@@ -2215,177 +2388,1068 @@ LS 4332 4345 4357 4370 «4382 A394 4406 4418 4429 444)
 6.0 499999999
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 681ec8cfb4d3
+## 2015-16 · Re-Exam · Sem 5 · paper 38a759991887
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELING B TECH (IT), BATCH 2015-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 03 December 2016
-- Text: ocr (3 pages), mean OCR confidence 80.9
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELING B TECH (IT), BATCH 2014-15 RE EXAM_38a7599918.pdf`
+- Printed on paper: exam date: 04/12/2015
+- Text: ocr (17 pages), mean OCR confidence 73.3
+- 19 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’S NMIMS
+aN
+
+7 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (I.T.) Year : III Semester: V
+Denoramme:- B Te (‘TT Feces
 
-Batch : 2015-2016
-/ . Academic Year : 2016-2017 |
+rrogramme: 5. 1 ech (i. £.)
+Batch: 2014-2015
 
-\
-Subject : Computer Simulation and Modeling Marks: 60 ~ w
-Time: 2.00 pm to 5.00
-Date : 03 December 2016 Duration ; '3)(hrs) ry
-a PAN C §
-Se be,
+Semester: V
+Academic Year: 2015-2016
 
-Re-Examination
+Subject: Computer Simulation and Modeling
+Marks:
+Date: 04/12/2015 Time:
+Duration:
+Re-Examination   -
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. :
+cover of the Answer Book, which is provided for their use.
 
 NB:
-
-1) Question No. | is compulsory.
-
+1) Question No. 1 is compulsory.
 2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
+ca 3) In all 5 questions to be attempted.
 4) All questions carry equal marks.
+5) Answer to each new question to be started on a iresh page.
+6) Figures in brackets on the right hand side indicate full marks. .
+7) Assume suitable if necessary.
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
+Ql Attempt (Any Four) }Q
+1) Explain in brief Discrete and Continuous system
+2) Write a short note on advanced event scheduling algorithm
+3) Explain the steps involved in simulation study with neat diagram. :
+4) Draw flow-chart for execution of arrival and departure event.
 
-la. |X and Y are jointly continuous with joint pdf (6 marks)
-i ) ery fO<2,0<y,r+y<l
+5) Explain Triangular distribution curve.
+6) Explain the preliminary statistics term sample mean, standard
+deviation and variance. :
 
-ry) . °
+Q2(A) Simulation of an Order-Up-To-Level Refrigerators Inventory System GB
+(M,N) where M=20 and N=4. It is mandatory to have check on
+inventory at the end of each cycle. You are free to order the
+Refrigerators during cycle period. Randomness is the number of days
+after the order is placed with the supplier before arrival or lead time.
+Perform analysis for at least three iterations. Find 1) Average
+Demand, 2) Probability of shortage quantity, 3) Probability of ending
+inventory is less than 3 in quantity and 4) No. of day’s where
+beginning inventory is zero. .
 
-IVEY 0, otherwise.
+Q2(B} A Bus arrives every 20 minutes at a specified stop beginning at6.40 O&
 
-(a). Find c. (b). Find P(Y > X). (c). Find marginal pdf ’s of X and of Y . (d). Are X
-and Y independent (justify)
+| A.M. and continuing until §.40 A.M. A certain passenger docs not
 
-Ib.
-Classical inventory problem concerns the purchase and sale of newspapers. The paper
+know the schedule, arrives randomly (uniformly diétributed) Between
 
-seller buys the papers for 33 cents each and sells them for 50 cents each. Newspapers not
-sold at the end of the day are sold as scrap for 5 cents each. Newspapers can be purchased
-in bundles of 10. Thus, the paper seller can buy 50, 60, and so on. There are three types
-of Newsday’s, “good,” “fair,” and “poor,” with probabilities of 0.35, 0.45, and 0.25,
-respectively. The distribution of papers demanded on each of these days is given in table.
-Simulate the demands for papers over 5-day time period to determine the total profit
-under a certain policy, e.g., purchase 70 newspapers. (6 marks)
+“a 7.00 A.M. 7.80 A.M. every morning, Caleulate desired probability,
 
-Distribution of Newspapers Demanded
+exponential density function, cumulative distribution. function and
+exponential distributions for several pdis. ‘
 
-7 Demand Demand Probabilities Cumulative Probabilities
-Good Fair Poor | Good Fair Poor
-
-40 : 0.03 : 0.10 : 0.44 : 0.03 } 0.10 : 0.44
-
-50 $6.05} O18 $ 0.22 | 0.08 } 0.28 : 0.66
-
-60 10.15 } 040 { 0.16 : 0.23 ; 0.68 : 0.82
-
-4/s
+2
 --- page 2 ---
-70} 0.20: 020 : 0.12 $043! 088 : 0.94
-80 $0.35 } 0.08 |} 0.06 0.78; 0.96 : 1.00
-90 ! 015: 0.04 : 0.00 $0.93: 1.00 : 1.00
-100 ! 0.07} 0.00 : 0.00 : 1.00} 1.00 : 1.00
+more)
 
-Day 1 Day 3 Day 3 Day 4 Day 5
-RN for type | 25 96 45 39 78
-of day
-RN for | 67 98 31 46 9
-demand |
-2a. Explain Sequential allocation approach and linked allocation approach with proper
-example, (6 marks)
+See]
 
-2b. A toothpick manufacturer wants every box to contain exactly (on average) 500
-toothpicks. Suppose you took a random sample of n = 81 boxes, and found: X =498 tooth
+Q3(B)
 
-picks, S = 9 toothpicks. Test at a= .01 (6 marks)
-3a. Briefly explain the steps in a sound simulation study with flow chart. (6 marks)
-“3b Illustrate central limit theorem with proper example. (6 marks)
-4a Explain in detail Management’s Role in the Simulation Process. (6 marks)
-4b Describe the Verification of Simulation Computer Programs. (6 marks)
-5a Explain different types of simulation with regard to output analysis. (6 marks)
-5b Explain transient and steady state behavior of a stochastic process - (6 marks)
-6a Describe the advantages and disadvantages of simulation. (6 marks)
-6b Explain techniques for Increasing Model Validity and Credibility, (6 marks)
-7 Explain any three (12 marks)
+Q4(A)
 
-a. Confidence interval :
+04)
 
-b. Verification-of simulation model- yo
-c. Stochastic system
+QS{A)
+QS(B)
 
-d. Server utilization in single queuing system
+6{A)
 
-q YW entiy Tent
+Q6(B)
+Q7
 
-as
+seed in of a
+are used im St are
+
+numbers?
+Draw and explain single channel queuing system using GPSS.
+
+Explain the concept of following terms: (Any Sx)
+
+() Confidence interval (2) Central limit theorem (3) Null Hypothesis
+(4)Altermate Hypothesis (5)Type-l-error (6)Type-W-error (7) Level of
+significance (8) Standard Normal distribution curve
+
+Write a detailed note on Verification and Validation.
+
+Perform Chi-Square test with suitable example.
+Write a detailed note on stochastic processes.
+
+Derive and describe Bernoulli trials and Bernoulli distribution for
+discrete random variables.
+Explain in detail Management's Role in the Simulation Process.
+
+Write a short note on: (Any Two)
+
+i) Poisson Distribution
+
+2) Autocorrelation
+
+3) K-S test
+
+4) Calibration and Validation of Models
+
+—_—
+
+oe
+
+06
+
+06
+
+os
+
+ce
+OG
+
+6s
 --- page 3 ---
-794 Appendix A Tables
+APPENDIX oo _ 577
 
-SnD uh e STAB ERB se ae
-Areas of the Standard Normal Distribution
-The entries in this table are the
-probabilities that a standard normal
-random variable is between 0 and z
-0 Z (the shaded area),
+. Table AT Random Digits e
 
-z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
-0.0 .0000 .0040 .0080 .0120 0160 0199 .0239 .0279 0319 0359
-0.1 .0398 0438 0478 0517 0557 .0596 0636 .0675 0714 0753
-0.2 0793 0832 .0871 .0910 0948 0987 1026 1064 -1103 1141
-0.3 1179 1217 61255 .1293 1331 1368 .1406 1443 +1480 1517
-0.4 1554 1591 .1628 1664 1700 11736 “41772 .1808 1844 11879
-05) 1915 1950 1985 -2019 2054 2088 2123 2157 2190 2224
-0.6 2257 .2291 2324 .2357 2389 2422 .2454 2486 2517 .2549
-0.7 2580 2611 2642 2673 2704 2734 2764 «2794 .2823 2852
-0.8 .2881 .2910 2939 2967 2995 3023 3051 .3078 3106 3133
-0.9 3159 3186 3212 3238 3264 3289 33315 3340 «3365 3389
-1.0 3413 3438 3461 3485 3508 3531 3554 3577 3599 3621
-1] 3643 3665 3686 3708 3729 3749 3770 3790 3810 3830
-1.2 +3849 3869 3888 3907 «3925 3944 3962 3980 3997 4015
-1.3 4032 4049 4066 A082 4099 ALLS 4131 4147 4162 4177
-1.4 4192 A207 4222 4236 A251 4265 4279 4292 4306 4319
-1.5 4332 4345 4357 4370 4382 4394 4406 4418 4429 4441
-1.6 4452 4463 4474 A484 A495 4505 A515 4525 4535 4545
-LZ 4554 4564 4573 4582 A591 4599 4608 4616 4625 4633
-1.8 4641 4649 4656 4664 4671 4678 4686 4693 4699 4706
-19 4713 A719 4726 4732 4738 4744 4750 A756 4761 4767
+94737 08225 35614 24826 = _ 88349 __05595___58701 37365. 74759 __
+87259 85982 13296 89326 74863 99986 68558 06391. 50248
+63856 14016 18527 11634 96908 52146 53496 31730 © 03500
+66612 54714 46783 61934 3025 61674 07471 67566 31635
+30712 58582 05704 23172 86689 94834 99057 55832 21012
 
-2.0 A772. .4778 4783 4788 4793 4798 .4803 4808 4812 4817
-21 4821 4826 4830 4834 4838 4842 4846 4850 4854 4857
-ai 4861 4864 4868 4871 4875 4878 4881 4884 4887 4890
-2.3 4893 4896 4898 A901 -4904 -4906 4909 AIL A913 AILE
-24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936
-2.5 4938 4940 A941 4943 4945 4946 A948 A9AD A951 4952
-2.6 4953 A955 4956 4957 4959 4960 A961 4962 4963 4964 ‘
-2.7 A965 ADEE A967 4968 AGED 87 ASTI 4972 4973 4974
-2.8 4974 4975 4976 4977 4977 4978 A979 4979 4980 4981
-2.9 4981 4982 4982 4983 +4984 4984 A985 4985 4986 A986
-3.0 4987 4987 4987 4988 4988 4989 4989 4989 .4990 4990
-3 4990 A991 4991 4991 4992 4992 4992 4992 4993 4993
-3.2 4993 4993 4994 4994 4994 4994 4994 4995 4995 4995
-3.3 4995 4995 4995 4996 4996 4996 4996 4996 4996 4997
+69607 24145 «= 43886 «= 86477 053,7 ~—30445 «33456 = 34029 «= 09603
+37792 27282 «94107 41967 21495 «04743. «= 42822 28111.——(09757
+01488 56680 + 73847« «64930 = 1lpg «= 44834. «45390» 86043. «(23973
+~ 66248 97697 «38244 «= 50918 = 5544; «51217 54786 = 04940 © 50807
+51453 03462,:«Ss«61157 «65366 = 61139 ©=— 26204 «= «15016 = 85665 = «97714
 
-tail
-3.4 4997 4997 4997 4997 4997 4997 4997 4997 .4997 4998
-3.5 4998
-pase 4,0 49997
+92168 82530 19271 86999 96499 12765 20926 - 25282 39119
+36463 07331 54590 00546 03337 41583 46439 40173 46455
+47097 78780 04210 87084 44484 15377 57753 41415 09890
+80400 45972 44111 99708 45935, 03694 81421 60170 58457
+94554 13863 88239 91624 00022 = 40471 78462 96265 55360
 
-4.5 499997
+31567 53597 08490 73544 72573 30961 12282 97033 13676
+07821 24759 47266 = - 21747 7249§ = 77755 50391 59554 31177
+09056 10709 69314 11449 4053] 02917 95878 74587 60906
+19922 37025 80731 26179 16039 01518 82697 73227 13160
+29923 02570 80164 36108 73689 26342 35712 49137 13482
 
-5.0 4999997
+29602 29464 - 99219 20308 82109 03898 82072 85199. 13103
+94135 - 94661 87724 88187 6219) 70607 63099 40494 49069
+87926 34092 34334 55064 43159 01610 03126 47312 59578 |
+85039 19212 ° 59160 83537 54414 9856, 90527 21756 = 64783
+66070 38480 . 74636 45095 86576 79337 39578 40851 53503
 
-6.0 499999999
+“an 78166 82521 79261.:~«= «12570 10939-47564 |= 77869 «= 16480. - 43972
+94672 07912 26153 10531 1275 63142 88937 94466 31388
+56406. 70023, 27734 22254 «= 27685 += 7518 = 63966 © 33203-70803
+67726 57805 94264 += 77009. «086g «48784 «= «47554 «= 59869-66320
+07516. 45979. 76735 46509 17696. 67177 «Ss «92600» 5557217245
+
+43070. 22671 « «00152 «= 81326 © -894yg «46368 «= «5S 7659 «| 79424 57604
+36917. 60370 80812-87225 = 028sy Ss g7118 «= 23790» 5504375117
+03919 82922 «02312.- «31106 = 44335.-«S 5573. «= 17470= 25900. 911080
+46724 22558 += 64303.« 78804 = 057g) +0650» 56117 «06707-90035
+"46108 61281 86823. «= 2028614025 «74909-38391 «51218389393
+
+74541 75808 «=: 89669 «= 87680 «7275, «GOSS! «= 55292 «95663-88326
+82919 31285 «01850 = 72550 «429%, «57518 = O1159. 01786 ~—|-98145
+a 31388 2680977258 «—«#99360 9234) «91979-41319 7573998082
+17190 75522” «15687. 07161-99745 4g767 ©3121 20046 «28013
+00466. 88068, 68631 98745 9781p - 35886 «14497-90230 _ 69264
+--- page 4 ---
+578 APPENDIX
+oo __Table A.2_ Random Norma! Numbers
+
+70.23 0.17 0.43 2.18 2.13 0.49 2.72 —0.18 0.42
+0.24 -117 0.02 0.67 -059 013 = -0.15 —0.46 1.64
+1.16 -0.17 036 1.26 0.91 0.71 —1.00 —1.09 0.02
+—0,02 —0.19 —0.04 1.92 0.71 —090 —-021 -140   -0.38
+0.39 0.55 0.13 2.55 —033 —0.05 —0.34 1.95 0.44
+0.64 —0.36 0.98 -0.21 -052   -002 0.15 -0.43 0.62
+1.90 0.48 —0.54 0.60 -035   -129 -057 0.23 141
+1.04 —0.70 —1.69 1.76 0.47 -052 . -0.73 0.94 -1.63
+—.78 0.11 0.91 1.13 0.07 0.45 —0.94 1.42 0.75
+0.68 77 —082 1.68 —2.60 159 0.72 —0.80 0.61
+—0.02 0.92 176 = —0.66 0.18 -1.32 1.26 0.61 0.83
+0.47 1.04 0.83 2.05 100 —0.70 1.12 0.82 0.08
+—0.40 1.40 1.20 0.00 0.21 -2.13 —0.22 1.79 0.87
+0.75 0.09 1.50 0.14 -299   —-041 —0.99 —0.70 0.51
+—0.66 1.97 O15 1.16 —0.60 0.50 1.36 1.94 0.11
+—0.44 —0.09 —0.59 1.37 0.18 144 ~0.80 2M -137
+141 -2.71 —0.67 1.83 0.97 0.06 —0.28 0.04 -0.21
+1.21 —0.52 —0.20 -0.88 —0.78 0.84 1.08 —0.25 0.17
+0.07 0.66 —0.51 —0.04 —0.84 0.04 1.60 —0.92 1.14
+—0.08 0.79 —009 = -1.12 1.13 0.77 0.40 0.69 —0.12
+0.53 —0.36 —2.64 0.22 —0.78 192 -0.26 1.04 -1.61
+1.56 1.82 1.03 1.14 -0.12 0.78 —0.12 1.42 -0.52
+0.03 1.29 —0.33 2.60 —0.64 1.19 —0.13 0.91 0.78
+1.49 155 .-0.79 137 0.97 0.17 0.58 1.43 =1.29
+1.19 1.35 0.16 1.06 —0.17 032 0.28 0.68 0.54
+-=119 1.03 —0.12 1.07 087 -140 024 —0.81 0.31
+0.11 1.95 -044 = -0.39 -015 120 1.98 0.32 2.91
+—1.86 0.06 0.19 —1.29 0.33 151 ~0.36 0.80   -0.99
+0.16 0.28 0.60 0.78 0.67 0.13 —0.47 —0.18 -0.89
+1.21 1.19 -060 1.22 0.07; —1.13 1.45 0.94 0.54
+—0.82 0.54 —0.98 —0.13 1.52 0.77 0.95 0.84 2.40
+0.75 —0.80 —0.28 1.77 -0.16° -0.33 2.43 -1.11 1.63
+0.42 0.31 1.56 0.56 064 -0.78 0.04 1.34 —0.01
+~1.50 1.78 0.59 0.16 0.36 189 1.19 0.53 -0.97
+—0.89 0.08 0.95 —0.73 1.25 -1.04 = -0.47 —0.68 —0.87
+0.19 0.85 1.68 —0.57 037 = -0.48 0.17 2.36 -0.53
+
+0.49 0.32 -2.08 1.02 259 0.53 0.15 0.11 0.05.
+144 0.07 —0.22 0.93 1.40 054 = 1.28 0,15 0.67
+0.21 —0.48 1.21 0.67 -110   -075 -037 0.68 —0.02
+—0.65 —0.12 0.94 = 0.44 -121 0.06, =1.28 151 1.39
+‘0.24 —0.83 1.55 0.33 -059 -1.24 0.70 0.01 0.15
+—0.73 1.24 040 0.61 0.68 0.69 0.07 0.23 —0.66
+1.93 0.75 —0.32 0.95 1.35 1.51 —0.88 0.10 -1.19
+0.08 0.16 0.38 —0.96 1.99   -0.20 0.98 0.16 0.26
+—0.47 =1.25 032 0.51 1.04 0.97 2.60 ~0.08 1.19
+--- page 5 ---
+579
+
+i
+
+Table-A-2—Cumuletive Normai Distribution
+
+a
+ee LLZD.
+(Ze. -[ ae YP du=1-a 0 20
+$8) =o V20
+[ Zit 0.00 0.01 0.02 0.03 0.04 %
+0.0 0.500 00 0.503 99 0.507 98 0.511 97 0.515 95 0.8
+01 0.539 83 0.543 79 0.547 76 0.551 72 0.555 67 1
+0.2 0.579 26 0.583 17 0.587 06 0.590 95 0.594 83 0.2
+03 0.617 91 0.621 72 0.625 51 0.629 30 0.633 07 0.3
+Fe, 0.4 0.655 42 0.659 10 0.662 76 0.666 40 0.670 03 0.4
+j 0.5 0.691 46 0.694 97 0.698 47 0.701 94 0.705 40 05
+0.6 0.725 75 0.729 07 0.732 37 0.735 65 0.738 91 0.6
+0.7 0.758 03 0.761 15 0.764 24 0.767 30 0.770 35 0.7
+0.8 0.788 14 0.791 03 0.793 89 0.796 73 0.799 54 0.8
+0.9 0.815 94 0.818 59 0.821 21 0.823 81 0.826 39 09
+1.0 0.841 34 0.843 75 0.846 13 0.848 49 0.850 83 1.0
+ut 0.864 33 0.866 50 0.868 64 0.870 76 0.872 85 11
+' 12 0.884 93 0.886 86 0.888 77 0.890 65 0.892 51 12
+13 0.903 20 0.904 90 0.906 58 0.908 24 0.909 88 13
+14 0.919 24 0:920 73 0.922 19 0.923 64 0.925 06 14
+15 0.933 19 0.934 48 0.935 74 0.936 99 0.938 22 15
+1.6 0.945 20 0.946 30 0.947 38 0.948 45 0.949 50 1.6
+17 0.95543, 0.956 37 0.957 28 0.958 18 0.959 07 7
+18 0.964 07 0.964 85 0.965 62 0.966 37 0.967 11 18
+1.9 0.971 28 0.971 93 0.972 57 0.973 20 0.973 81 19
+2.0 0.977 25 0.977 78 0,978 31 0.978 82 0.979 32 2.0
+21 O58? 14 0.982 57 0.983 00 0.983 41 0.983 82 21
+2.2 0.986 10 0.986 45 0.986 79 0.987 13° 0.987 45 2.2
+23 0.989 28 0.989 56 0.989 83 0.990 10 0.990 36 23
+a 2.4 0.991 80 0.992 02 0,992 24 0.99245 - 0.992 66 2.4
+2.5 0.993 79 0.993 96 0.994 13 0.994 30 0.994 46 25
+2.6 0.995 34 0.995 47 0.995 60 0.995 73 0.995 85 2.6
+2.7 0.996 53 0.996 64 0,996 74 0,996 83 0.996 93 2.1
+2.8 0.997 44 0.997 52 0.997 60 0.997 67 0.997 74 2.8
+29 0.998 13 0.998 19 0.998 25 0.998 31 0.998 36 2.9
+3.0 0.998 65 0.998 69 0.998 74 0.998 78 0.998 82 3.0
+3.1 0.999 03 0.999 06 0.999 10 0.999 13 0.999 16 3.1
+3.2 0.999 31 0.999 34 0.999 36 0.999 38 0.999 40 3.2
+33 0.999 52 0.999 53 0.999 55 0.999 57 0.999 58 33
+3.4 0.999 66 0.999 68 0.999 69 0.999 70 0.999 71 34
+— 35 0.999 77 0.999 78 0.999 78 0.99979 ' 0.99980 . 35
+3.6 0.999 84 0.999 85 0.999 85 0.999 86 0.999 86 3.6
+37 0.999 89 0.999 90 0.999 90 0.999 90 0.999 91 37
+1 3.8 0.999 93 0.999 93 0.999 93 0,999 94 0,999 94 3.8
+3.9 0.999 95 0.999 95 0.999 96 0.999 96 0.999 96 3.9
+
+(continued overleaf)
+--- page 6 ---
+580
+
+Table A.3 (continued)
+0.00 0.01
+
+0.7 0.773
+0.8 0.802
+0.9 0.824
+
+1.0 0.853
+11 0.874
+12 0.894
+3 0.911
+
+2.2 0.987 7
+2.3 0.990 6
+
+3.1 0.999 18
+3.2 0.999 42
+33 0.999 60
+3.4 0.999 72
+85 0.999 81
+3.6 0.999 87
+3.7 0.999 91
+3.8 0.999 94
+3.9 0.999 96
+
+0519 94 0.523 92
+0.1 0.559 62 0.563 56 0.567 49
+0.2 0.598 71 0.602 57 0.606 42
+0.3 0.636 83 0.640 58 0.644 31
+0.4 0.673 64 0.677 24 0.680 82
+0.5 0.708 84 0.712 26 0
+0.6 0.742 15 0.745 37 0.
+
+34 0.805 10 0.
+94 0.831 47 0.
+
+14 0.855 43 0.857 69 0.859 93
+93 0.876 97 0.87900 0.881 00
+35 0.896 16 0.89796 0.899 73
+49 0.913 08 0.914 65 0.916 21
+14 0.926 47 0.927 85 0.929 22
+15 0.939 43 0.940 62 0.941 79
+1.6 0.950 53 0.951 54 0.952 54
+1Z 0.959 94 0.960 80 0.961 64
+18 0.967 84 0.968 56 0.9
+19 0.974 41 0.97500 0.975 58
+paagien eoimiggninn) J
+
+- 2.0 0.979 82 0.980 30 0.980 77
+21 0.984 22 0.984 61 0.985 00
+8 0.988 09 0.988 40 0.988 70
+
+1 0.990 86 0.991 11 0.991 34
+24 0.992 86 0.993 05 0.993 24
+2.5 0.994 61 0.994 77 0.994 92
+2.6 0.995 98 0.996 09 0.996 21
+2.7 0.997 02 0.997 11 0.99
+2.8 0.997 81 0.997 88 0.997 95
+2.9 0.998 41 0.998 46 0.998 51
+
+3.0 0.998 86 0.998 89 0.998 93
+
+0.999 21 0.999 24 0.999 26
+0.999 44 0.999 46 0.999 48
+0.999 61 0.999 62 0.999 64
+0.999 73 0.999 74. 0.999 75
+
+0.999 81 0.999 82 0.999 83
+
+0.999 87 0.999
+0.999 92 0.999
+0.999 94 0.999
+0.999 96 0.999
+
+0.02 0.03
+
+0.527 90 0.531 88 0.535 86 0.0
+
+0.571 42 0.575 34 0.1
+0.610 26 0.614 09 0.2
+0.648 03 0.651 73 0.3
+0.684 38 0.687 93 0.4
+.715 66 0.719 04 0.722 40 0.5
+
+.748 57 0.751 75 0.754 90 0.6
+37 0.776 37 0.
+
+779 35 0.782 30 0.785: 23 0.7
+807 85 0.810 57 0.813 27 0.8
+833 97 0.836 46 0.838 91 0.9
+
+0.862 14 1.0
+
+0.882 97 11
+0.901 47 12
+0.917 73 13
+
+0.930 56 0.931 89 14
+
+0.942 95 0.944 08 15
+0.953 52 0.954 48 1.6
+0.962 46 0.963 27 1.7
+169 26 0.969 95 0.970 62 1.8
+
+0.976 15 0.976 70 19
+
+0.981 24 0.981 69 2.0
+0.985 37 0.985 74 21
+0.988 99 22
+0.991 58 23
+0.993 43 0.993 6] 24
+
+0.995 06 0.995 20 25
+0.996 32 0.996 43 2.6
+7 20 0.997 28 0.997 36 2.7
+0.998 01 0.998 07 2.8
+0.998 56 0.998 61 29
+
+0.998 97 0.999 00 3.0
+0.999 29 3.1
+0.999 50 3.2
+0.999 65 3.3
+0.999 76 3.4
+
+0.999 83 3.5
+88 0.999 88 0.999 89 3.6
+92 0,999 92 0.999 92 3.7
+95 0.999 95 0.999 95 3.8
+96 0.999 97 0.999 97 3.9
+
+Source: W. W. Hines
+Management Science,
+Sons, Inc., New York.
+
+and D.C. Montgomery, Probabi
+
+2d ed., © 1980, pp. 592-
+
+lity and Statistics in Engineering and
+3. Reprinted by permission of John Wiley &
+«
+
+APPENDIX
+--- page 7 ---
+531
+
+Table A.4 Cumulative Poisson Distribution
+
+a = Mean |
+05 J 2 3 4 5 6 7 8   9|
+951 905 819.741 670 607.549. 497449407 0
+999 995 982.963 938 910 878.844.809.772 |
+1.000 1.000 999 996 999 986 977 966 953.937 | 2
+1.000 1,000 .999 99g 997 994 991.987 | 3
+1.000 1.000 1.000 999 909 998 | 4
+1.000 1.000 1.000] 5
+|
+a@ = Mean l ]
+1] 1.2 L.3 1.4 15 16 17 1.8 19 20 | bs
+.333 301 .273 247 223 -202 183 165 150 135 0
+699 663 627 592 558 525. 493.463 434 406 1
+900.879 857833 809 783.7577] 704.677. | 2
+974 966 957946934 921 907. .891 875 857. | 3
+995 992 989 986 981 976 970 964. 956) .947 4
+999 998 998 997 996 904 992 990.987 983 | 5
+
+000 1.000 1.000 999 999 999 998.907 997 995 6
+1.000 1.000 1.000 1.000 999 999 999 | 7
+1.000 1.000 1.000 8
+
+a = Mean |
+24 2.6 2.8 3.0 35 4.0 4.5 5.0
+
+55 6.0 | x
+
+091 074 ~~ .061 050 -030 -018 O11 -007 004 002 0
+308 267.231 ADD 136 092 .061 040 027.017 1
+i} 2 .623 570 -518 469 423 32] -238 174125 088 = .062 2
+(an 819 779 736 692.647 537 433 342 265 202. 151 3
+4 928 904 877.848 815 725 629° 532.440 358 = 285 4
+5 975 964 951 935 916 -858 785.703 616 = 529 ag 5
+6 993 988 -983 976.966 935 889 831 -762 686 606 6
+7 -998 997 995.992 988 -973 949 913° 867.809 744 7
+8 | 1.000 999 999 998 996 990 979 960.932
+
+894 847 | 8
+
+9 1.000 1.000 999 999 997 + 999 983 968 = 946916 9
+
+10 1.000 1.000 .999 1997 993 986 975 957 | 10
+
+11 1.000.999 998 995 ggg 980 | 11
+
+12 1.000.999 998° 996 99) | 42
+
+13 1.000 999 998 996 | 13
+
+_— 14 1.000 999 999 | 14
+15 1.000 .999 | 15
+
+a 16 1.000 | 16
+
+(continued overleaf )
+--- page 8 ---
+APPENDIX
+
+Table A.4 (continued)
+
+; a = Mean
+70 75 8.0 9.0 10.0 12.0
+
+001.001
+007 .005 .003 001
+030 020 .014 = .006 003.001
+082.059.042.021 010 .002
+173.132.100.055 029.008 002
+301 241 191-116 067.020.006.001
+‘450. 378 313.207 130.046 «014.004 001
+599 525 453-324 220.090 032.010 003.001
+729 662 593456 333.155.062.022 007.002
+830.776 717-587 458 «242 «109.043 015.005
+‘901.862 .816 .706 583.347 «17607 .030
+(947 921.888 .803 697 462 .260 127 055
+973 957.936 876 792 576 358-193 092
+987 978 .966 = 926 (864 682 464.275 143
+994 990 .983 959 917 772 570-368 208
+‘998 .995 .992 .978 ‘951 .844 .669 467 287
+1999 998.996 .989 973 899.756 566 375
+1,000 .999 .998 995 986.937.827.659 469
+1,000 .999 .998 .993 963.883.742.562
+1,000 .999 .997 979 923 812.651
+1,000 .998 .988 .952 868.731
+999 ©.994 971 911 199
+1.000.997 983 .942 855
+1999 991.963 .899
+999 995 978 .932
+1.000 997 .987   .955
+
+740° 16.0 18.0 20.0
+
+i. 1999993 972
+‘999.996 983
+
+1,000 998 990
+
+999.994
+
+999.997
+
+1.000 998
+
+999
+
+1,000
+
+s and Graphs for the Industrial Engineer
+
+Handbook of Table.
+Wiley and Sons, Inc., New
+
+Source: J. Banks and R. G. Heikes,
+inted by permission of Jolin
+
+and Manager, © 1984, pp- 34-35. Rep.
+York.
+‘
+--- page 9 ---
+583
+
+of The Student's r Distribution
+
+Table A.S Percentage Points
+with v Degrees of Freedom
+
+10.005 10.01 10.025 10.05 t0.10
+63.66 31.82 12.71 6.31 3.08 .
+a 9.92 6.92 4.30 2.92 1.89
+: 5.84 4.54 3.18 2.35 1.64
+4 4.60 3/15 2.78 2.13 1.53
+5 4.03 3.36 257 2.02 1.48
+6 3.71 3.14 2.45 1.94 1.44
+7 3.50 3.00 2.36 1.90 1.42
+8 3.36 2.90 2.31 1.86 1.40
+9 3.25 2.82 2.26 1.83 1.38
+s 10 3.17 2.76 223 1.81 1.37
+11 3.11 2.72 2.20 1.80 1.36
+12 3.06 2.68 2.18 1.78 1.36
+13 3.01 2.65 2.16 1.77 1.35
+14 2.98 2.62 214 1.76 1.34
+15 2.95 2.60 243) 1.75 1.34
+16 2.92 2.58 2.12 1.75 1.34
+17 2.90 2.57. 2.11 1.74 1.33
+18 2.88 2.55 2.10 1.73 1.33
+19 2.86 2.54 2.09 1.73 1.33
+20 2.84 2.53) 2.09 1.72 1.32
+a) 21 2.83 2.52 2.08 1.72 1.32
+22 2.82 251 2.07 1.72 1.32.
+23, 2,81 2.50 2.07 1.7] 1.32
+Es 24 2.80 2.49 2.06 1.71 1,32
+; 25 2.79 2.48 2.06 1.71 1.32
+26 2.78 2.48 2.06 1.71 1.32
+27 2.77 2.47 2.05 1.70 1.31
+28 2.76 2.47 2.05 1.70 es)
+29 2.76 2.46 2.04 1.70 1.31
+30 2.75 2.46 2.04 1.70 1.31
+=| 40 2.70 2.42 2.02 1.68 1.30
+60 2.66 2.39 2.00 1.67 1.30
+120 2.62 2.36 1.98 - 1.66 1.29 |
+co 2.58 2:33 1.96 1.645 138 “|
+
+Source: Robert E. Shannon, Systems Simulation: The Art
+and Science, © 1975, p. 375. Reprinted by permission of
+Prentice Hall, Upper Saddle River, NJ.
+--- page 10 ---
+584
+
+APPENBIX
+
+Table A.6 Percentage Points of The Ch
+v’ Degrees of Freedom
+
+i-Square Distribution with
+
+a
+/
+LLLLLSL.
+xe
+v Xé.o0s XB01 XB.00s Xd.05 Xb10 ]
+1 7.88 6.63 5.02 3.84 2.71
+2 10.60 9.21 7.38 5.99 4.61
+3 12.84 11.34 9.35 7.81 6.25
+4 14.96 13.28 ° 1144 9.49 7.78
+5 16.7 15.1 12.8 ML 9.2
+6 18.5 16.8 14.4 12.6 10.6
+7 20.3 18.5 16.0 14.1 12.0
+8 22.0 20.1 17.5 155 13.4
+9 23.6 217 19.0 16,9 14.7
+a
+10 25.2 23.2 20.5 18.3 16.0
+i 26.8 24.7 21.9 19.7 173°
+12 28.3 26.2 23.3 21.0 18.5
+13 29.8 27.7 24.7 22.4 19.8
+14 313 29.1 26.1 23.7 21.1
+15 _ 32.8 30.6 27.5 25.0 22.3
+16 343 32.0 28.8 26.3 23.5
+17 35.7 33.4 30.2 27.6 - 24.8
+18 37.2 34.8 315 28.9 26.0
+19 38.6 36.2 “32,9 30.1 27.2
+20 40.0 37.6 3420314 28.4
+“or 414 38.9 35.5 432.7 29.6
+2 42.8 40.3 36.8 33.9 30.8
+23 44.2 41.6 38.1 35.2 32.0
+24 45.6 43.0 39.4 36.4 2
+25 49.6 44.3 40.6 37.7 34.4
+26 48.3 45.6 419 38.9 35.6
+27 49.6 47.0 43.2 40.1 36.7
+28 51.0. 48.3 44.5 413 37.9
+29 52.3 49.6 45:77 42.6 39.1
+30 53.7 50.9 47.0 - 43:8 40.3
+40 66.8 63.7 59.3 55.8 51.8
+50 79.5 » 76.2 1A 67.5 63.2
+60 92.0 88.4 83.3 79.1 74.4
+70 104.2 100.4 95.0 90.5 85.5 7
+“80 116.3 112.3 106.6 101.9 96.6 -
+90: 128.3. 124.1 118.1 1131 107.6
+100 140.2 135.8 129.6 124.3 118.5
+
+. ° s €
+-Source:- Robert -E. : Shannon, Systems Simulation: The Art and
+
+Science, © 1975, p. 372. Reprinted by permission of Prentice Hall, -
+Upper Saddle’River, NJ. : .
+--- page 11 ---
+SASSSHARFREZESSAMTBSsSseSaexraewenranrnia
+
+=AnNoO i=
+WMAFMMANNNANNNNN RRR e He ett 3 ;
+= i
+
+BETA UANHPMAAHEaSeseqgagnngeseaeRRCReRSRsag |S
+
+5
+3
+BASSTSSA2IaAAeSOgvr-Vramnnavyvryaoannvyana =
+AEP VBSHSVUAIA=HSoaaggrgaegsgeaRentSsns@h =)
+i) i
+SIYRAZSBSawmrAsneoenavtranuntanragnanala
+SR ZRQSSSAYMAIATHASSAAAHARM HE HARARR SARA oO
+
+SLSZSRBGOCrmeyPryaAne-n ser wmoyrnonnnyt+une Ss i
+
+e |
+SERSSFARTSHSSAAZAVCuMVSygswvenn-sgaoea ly |
+SRBRBTTANPSNAMANTRAA-SSSSAAARARSEKRSH |B |
+OMTAMOMANANANN AAA NANNN BPR RHP a |
+
+a i
+SBSVBTTANWESAIMMANARARSSSSAARRARAK SH |e
+SMTIIAANN Aa ci cla cia ccd cicicicicid H=- Att les] 8
+
+5
+
+5
+SP¥SeSssrtrasedrsemesnrnnomnn-anvtnowntunn 5
+
+&
+
+=
+TESSRSSRTASASSBPKRAMKMP FH MN MNSMoMnMmAIcCAcCAMNH = .
+ceuatrraamed add ciciccicdcidciddnd ddd Gta IS
+
+PRTSSRTRERZESSASHSSRASHyVaARsavona
+
+=—-9
+SER SSR TEAereocunysrerararaarrdnr =a Saqgg 2
+ontrararm ANA ANN NNN 5
+. 8
+SSRSBZBAMASSHYVArAvVMaArtASeRnHtH-aAdtow |S
+SSREeSBreaenveantzrmamamand adil Sg gs 5
+wotrrainmamcicincicicidcicicitinnidcidd Nd acinad = 14
+2
+wotannts StAN-HYHMNOnYLtAIADAD ay] 3
+oy Sy og Site Gt PNRM ATE TEOMA AIAN HOG 3
+
+COST main caiadcinadcdad aNd ad NNN HK] .
+5
+SPSBGexSA*seBeryeswrtrr—avtnroanvnauna-ly
+SSBZGEeadreaweeneenynttsttseaanannagdlss =
+corr aN NN NN GN ici ci NA iW s
+=]
+FLESPERPENASrnVaAtSOYUNSnRHNM-QAronmatunce|s
+x
+SISHASTMAASCHAARHH AR SSESSARRRSSRAAIS
+
+ROW AM AAA dicindcicicidd Addn ddd AAW | 8 -
+
+SSSRASSVSSVPmSseRregeasegseveryrrea-a
+
+RoOontrtainiinaniiadciddddcidddiddddanada
+
+Senor an=nwonanntowo
+
+Addai Na NAA NW
+
+WFAYFOLSESOHArTARNANHADEANDARHtNMNAMHRO
+
+QAmaee dT AeereennattretTsaananadltss
+ht
+ars aad Avrenvarscxotse—oox Does me
+eS
+‘ 25
+TN mere rSUATTeSreasagtrganeneaseees 35
+al 6
+
+(4A) do punuousg 40f wopaatg fo saai
+
+585
+--- page 12 ---
+%
+i: 586 __ APPEND!
+ie Table A.8 Kolmogorov—Smirnov Critical. Values
+r Degrees of
+Freedom a,
+W) Doro. Dos), Door ;
+—£- t 0950 0.975 0.995
+; 2 0.776 0.842 0.929
+- 3 0.642 0.708 0.828
+4 0.564 0.624 0.733
+f 5 0.510 GSB5> 0.669
+| 6 0.470 0.521 0.618
+7 0.438 0.486 0.577
+8 0.411 0.457 0.543
+f 9 0.388 0.432 0.514
+; 10 0.368 0.410 0.490
+11 -0.352 0.391 0.468
+12 0.338 0.375 0.450
+13 0.325 0.361 0.433
+. 14 0.314 0.349 0.418
+«: 15 0.304 0.338 0.404
+: 16 0.295 0.328 0.392
+17 0.286 0.318 0.381
+18 0.278 0.309 0.371
+19 0.272 0.301 0.363
+20 0.264 0.294 0.356
+25 0.24 0.27 0.32
+30 0.22 0.24 0.29
+35 0.21 0.23 0.27
+Over 122. . 1.36 1.63
+35 JN VN JN
+Source: F. J. Massey, “The Kolmogorov—Smirnov
+Test for Goodness of Fit,” The Journal of the Amer-
+ican Statistical Association, Vol. 46. © 1951, p. 70.
+Adapted with permission of the American Statistical iH
+Association. ii
+i
+it
+j
+hi
+ii
+t |
+ho ee
+
+a
+--- page 13 ---
+\ APPENDIX
+
+587
+
+Table Ag
+
+0.020 = 0.0187
+
+2.700 1.494 10.300 5.311
+0.030 0.0275 2.800 1.545 10.600 5.461
+0.040 0.0360 2.900 1.596 10.900 5.611
+0.050 0.0442 3.000 1.646 11.200 5.761
+~ 0.060 0.0523 3.200 1.748 11.500 5.91]
+0.070 0.0602 3.400 1.849 11.800 6.06]
+0.080 0.0679 3.600 1.950 12.100 6.211
+0.090 0.0756 3.800 2.051 12.400 6.362
+0.100 0.0831 4.000 2.151 12.700 6.512
+0.200 0.1532 4.200 2.252) 13.000 6.662
+0.300 0.2178 4.400 2.353 13.300 6.812
+e : 0.400 0.2790 4.600 2.453 13.600 6.962
+— 0.500 0.3381 4.800 2.554 13.900 7.112
+0.600 0.3955 5.000 2.654 14.200 7.262
+0.700 0.4517 5.200 2.755 14.500 7.412
+0.800 0.5070 5.400 2.855 14.800 7.562
+0.900 0.5615 5.600 2.956 15.100 7.712
+1,000 0.6155 5.800 3.056 15.400 7.862
+1.100 0.6690 6.000 3.156 15.700 8.013
+‘ 1.200 0.7220 6.200 3.257 16.000 8.163
+1.300 0.7748 6.400 3.357 16.300 8.313
+1.400 0.8272 6.600 3.457 16.600 8.463
+1.500 0.8794 6.800 3.558 16.900 8.613
+1.600 0.9314 7.000 3.658 17.200 8.763
+1.700 0.9832 7.300 3.808 17.500 8.913
+1.800 1.034 7.600 3.958 17.800 9.063 .
+1.900 1.086 7,900 4.109 18.100 9.213) i
+2.000 1.137 8.200 4.259 » 18.400 9.363
+2.100 1.188 8.500 4.409 18.700 9.533
+2.200 1,240 8.800 4.560 19.000 9.663
+ri . 2.300 1.29] 9.100 4.710 19.300 9.813
+2.400 1.342 9.400 4.860 19.600 9.963
+2.500 1,393 9.700 5.010 20.000 10.16
+2.600 1.444 10.000 5.160
+
+Source: S.C. Choi and R, Wette, “
+Distribution and Their Bias,” Techno;
+Adapted with permission of the Am
+
+‘Maximum Likelihood Estimates of the Gamma
+metrics, Vol. 11, No. 4, Nov. © 1969, pp. 688-9,
+rican Statistical Association,
+
+8
+--- page 14 ---
+=f
+
+586
+
+f
+__ APPENDI
+
+Table A.B Kolmogorov—Smirnov Critical Values
+
+Degrees of
+Freedom om,
+W) Doio “ Deas), Door
+1 0.950 0.975 0.995
+2 0.776 0.842 0.929
+3 0.642 0.708 0.828
+4 0.564 0.624 0.733
+5 0.510 SBS 0.669
+6 0.470 0.521 0.618
+7 0.438 0.486 0.577
+8 0.411 0.457 0.543
+9 0.388 0.432 0.514
+10 0.368 0.410 0.490
+ll -0.352 0.391 0.468
+12 0.338 0.375 0.450
+13 0.325 0.361 0.433
+14 0.314 0.349 0.418
+15 0.304 0.338 0.404
+16 0.295 0.328 0.392
+17 0.286 0.318 0.381
+18 0.278 0.309 0.371
+19 0.272 0.301 0.363
+20 0.264 0.294 0.356
+25 0.24 0.27 0.32
+30 0.22 0.24 0.29
+35 0.21 0.23 0.27
+Over 122 =. 1.36 1.63
+35 JN VN JN |
+
+Source: F. J. Massey, “The Kolmogorov—Smimoy
+Test for Goodness of Fit,” The Journal of the Amer-
+ican Statistical Association, Vol. 46. © 1951, p. 70.
+Adapted with permission of the American Statistical
+Association.
+
+ik
+--- page 15 ---
+mos ses Fe APPENDIX
+
+edrTest for Different
+
+Table A.10 Operating Characteristic Curves for The Two- a
+Values of Sample Size n
+
+1.0
+
+o 08 s 4
+
+= ro i
+BS
+8 0.6
+
+. i
+5 . K
+2 04 a s <— i
+
+3 lB\S \ehe
+
+= | Bile |
+; |
+LS MNT 3
+
+0 , 1 2
+“8
+(a) a = 0.05
+1.00 —T
+
+0.90
+
+seo INS nae oa
+= ont INN NO
+
+= oot I \\ AX
+
+2 asa We a \ LUN
+
+° \ o
+2 040 = \ 3 pL
+5 = es
+2 0.30 Walts* \ y
+x ae \n, BS
+0.20 oly th
+WK \A A or ania
+0.10 wa
+pb
+N NS 76 28 3.0 32
+0 02 04 06 ss 10 12 14 16 18 20 22 24
+6
+(b) 2 = 0.01
+
+ne Common Statis-
+
+Source: C. L, Ferris, F. E. Grubbs, and C. L. Weaver, ‘ “Operating Characteristics for Oi with permission
+4
+
+tical Tests of Significance,” Annals of Mathematical Statistics, June 1946. Reproduc”
+of The Institute of Mathematical Statistics.
+--- page 16 ---
+APPENDIX
+
+. 589
+Tabla A.q4 i haracteristic Curve’
+mpl
+
+|\SSSSS
+Biled sc cr ssattey
+PETS aan
+FEEEGINNASS
+
+~ disp P—
+Qa
+:
+
+NX
+
+ATT Sy
+ITY NENG SESS
+ns ENOLSEEEe
+
+2 0. OS |
+E 029 Coo ore: 4 \ [|
+01 in
+- TTT AR N
+
+Source: 4. HB
+Reprinteg by Pe;
+
+Owker and G. J. Lieberman, En,
+
+tice Hal), Upp
+
+Sineering Statistics, 2d ed. © 1972, p. 203,
+TMission of Pren
+
+er Saddle River, NJ.
+--- page 17 ---
+APPENDIX
+
+Table A.9 Maximum Likelihood Esti
+
+mates of the Gamma Distribution
+
+‘1/M B 1/M B 1/M , |
+0.020 0.0187 2.700 1.494 10.300 5.311
+0.030 0.0275 2.800 1.545 10.600 5.461
+0.040 0.0360 2.900 1.596 10.900 5.611
+0.050 0.0442 3.000 1.646 11.200 5.761
+
+* 0.060 0.0523 3.200 1.748 11.500 5.911
+0.070 0.0602 3.400 1.849 11.800 6.061
+0.080 0.0679 3.600 1.950 12.100 6.211
+0.090 0.0756 3.800 2.051 12.400 6.362
+0.100 0.0831 4.000 2.151 12.700 6.512
+0.200 0.1532 4.200 2.252 13.000 6.662
+0.300 0.2178 4.400 2.353 13.300 6.812
+0.400 0.2790 4.600 2.453 13.600 6.962
+0.500 0.3381 4.800 2.554 13.900 7.112
+0.600 0.3955 5.000 2.654 14.200 7.262
+0.700 0.4517 5.200 2.755 14.500 7.412
+0.800 0.5070 5.400 2.855 14.800 7.562
+0.900 0.5615 5.600 2.956 15.100 7.712
+1,000 0.6155 5.800 3.056 15.400 7.862
+1.100 0.6690 6.000 3.156 15.700 8.013
+1.200 0.7220 6.200 3.257 16,000 8,163
+1,300 0.7748 6.400 3.357 16.300 8.313
+1.400 0.8272 6.600 3.457 16.600 8.463
+
+1.500 0.8794 6.800 3.558 16.900 8.613
+1.600 0.9314 7.000 3.658 17.200 8.763
+1.700 0.9832 7.300 3.808 17.500 8.913
+1.800 1.034 7.600 3.958 17.800 9.063
+
+1.900 1.086 7,900 4.109 18.100 9.213
+
+2.000 1.137 8.200 4.259 — . 18.400 9,363
+
+2.100 1.188 8.500 4.409 18.700 9,513
+
+2.200 1.240 8.800 4.560 19.000 9.663
+
+2.300 1.291 9.100 4.710 19.300 9.813
+
+2.400 1.342 9.400 4.860 19.600 9.963
+
+2.500 1.393 9.700 5.010 20.000 10.16
+
+| 2.600 1.444 10.000 5.160
+
+Source: S.C. Choi and R. Wette,
+Distribution and Their Bias,”
+
+“Maximum Likelihood Estimates of the Gamma
+
+* Technometrics, Vol. 11, No. 4, Nov. © 1969, pp. 688-9,
+
+Adapted with permission of the American Statistical Association.
+
+§
+
+587
 ````
 
 ## 2014-15 · Final-Exam · Sem 5 · paper 4e84716011fd
@@ -2395,6 +3459,7 @@ pase 4,0 49997
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELING B TECH (IT), 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06/12/2014
 - Text: ocr (15 pages), mean OCR confidence 73.0
+- 26 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3108,7 +4173,6 @@ Source:: Robert E.. Shannon, Systems Simulation: The. Art. and
 Science, © 1975, p. 372. Reprinted by Permission 10k Prentice Hall,
 Upper Saddle River, NJ.
 --- page 11 ---
-Sree samnrreornn Hr onwatawonHn an tas =
 PAMOVMOAANHENMNADCDAARDOOREEROSS xs aas
 
 AonsFainadadaddadninadid HS ees eku ee ee Br
@@ -3116,24 +4180,18 @@ AonsFainadadaddadninadid HS ees eku ee ee Br
 (5
 Anvovconnnwon +H nun co 00 3
 PEN eETEAgcHeadas PREM RR SSE RAS
-AoNntaNnNaaa acca ioelieelies eet ieeiae ae
 
 3
 SPRSSFSsAaSaweeorv=LYaIwannarjVAotranacannys ana le
-BASE SSSR STAAAT HE Ssaggannay ett EgAeg]s
 Qenraasaaad ann enna HH RRB STE
 S 0
 
 2AM eSaAnONNsG 1H
 
 a
-SSeS esVeVeyecorew~runanen tyre wmotranononndyn oe /Z
-SS BROS BOSSE AMAT THES SSHHAARRRHLSELTOHAL |B
 AHWTMANAMNAANANNN AN CicicddddicacN RBBB IS
 
 12)
-oto nto noO+ye HAH TANAWNHEMKDONMAHOANDDHA ;
-PBT TARE IMANR RAO OOS HAAAAADRARK SH [YZ
 ARAweuUuYTr IMA ANA A Ki Kidi NNN NANA SG iS
 7 XN
 SSSReRSreszaryeszteanrrnnanvrdonunnwanrvetanreuneon |B
@@ -3144,14 +4202,11 @@ a . 3
 a
 
 s
-SBOVeNtTaIN er HNANIMSCONAKn—M wenNn=Arvotr+ynarantuHnr |] =z
-PS ee aN oarentetraanN as H HK Hee So SSGSK SRS 2
 HRervuwrarninineaaancacadacdadidiadnidcicddcdadida ttt ou
 -_ bo
 
 =
 FTESSHRBSSCZLSISSRLAIMCYr-MNMNGAONnMACAdAMNH | §
-SU AVSHAMTASANPeonteAraAarararnae at B A asSsgger z=
 HRVPHYtAIAIAAIrIarnacdcdadacadciadinddddadadaq oH ~~
 = =}
 
@@ -3163,48 +4218,33 @@ RentrarANMANAAN A adi aacianda NNN d dann 5
 SSSreoweaveragsoorvatravranzadownntanaadon | a
 PIO QMAOMTOAHKSHATETABARARAAANTALSRS|E
 
-TAS QVC SPAVrAVPYoM er ovotranrzawonwoads |
-TEMNONSHO EON H nT TEMA AHMAANAa = =ORlS
 
-ASIANA AA aa aaada an dad Na aN AN WW A]
 
 &
 nH
-WDDBWrH~DOAFHErTMNO-YV-HMOtH-AVYNDCARVHNAKHRA— IY
 2A BAMANMAVNITASAReEENGCoMnnteE TT Tamanna sa|s
-Qeorraaramecdici ada a did add cidciddnd aan aa | 8
 pe a
 QMrFLCHYMPrOOMErIAIAOAUVAtTOOMNONRHNN-HARONnMaAT no]s
-AAATAASANNGONAeE NEES oSonnnnterrETT Aas =
-geotrtraNana mada cidddid dda ci din dnc |S
 a
 SaseeaArgaenano-~anvon-nr¥r-aootraeannronnmnnane ra
 PSAIAIYAGCTIITARADANMAMYHOSCKSTOHHHEANH ET RAA 5
-SANRGCKH FAM MMMM didcicidiciddi Nd Aad AWWW €
 = So
 ae
 YD an meesm~=Ooronortreanotrnnw=zOne nnn lEeES
-GOR ASRISSSARL IT SSRRRESASRLSLELSSRSS IES
 DAAVH+¥nninmninmaninimdcadniddcadddddiindndndad =z
 = + @
 OZ
-© 00 CYNE LPH-ADHTATAYtTGConoen ng = anonnatowsd ee
 = BEV enryertartrt TTT Seascengannnnnunoes {A g
-aa TTF IGM IMAM IMM N Ni 1S
 _ i=
 Ss a
 as
 a tO 0 So — + crutaannn oe 186
-SHAR TELS SRSaS AMAMANH-OSlER
 
 zp -
 
 TuUEOtAuUu=wANnADC*Ot+TN-DOCMRDOAT =
 
-— — a ON. CA OF ES
 
-PHATE EARS PES SS RST TGA eBagssaW TH SS ae [ys
-ASK WMw nw es i i i ee i i i ee ed
 
 = a igs
 
@@ -3214,7 +4254,6 @@ g6
 
 i east 8 =s— Se See's SAAIKTAdIAKNAKAARS SR B as
 
-(a) 4ojounuouag tof wopaasy fo saa:
 
 585
 --- page 12 ---
@@ -3472,1086 +4511,106 @@ Simlib
 a
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 38a759991887
+## 2014-15 · Re-Exam · Sem 6 · paper e26bfa8e2f4d
 
 - Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELING B TECH (IT), BATCH 2014-15 RE EXAM_38a7599918.pdf`
-- Printed on paper: exam date: 04/12/2015
-- Text: ocr (17 pages), mean OCR confidence 73.3
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/COMPUTER SIMULATION & MODELING/Computer Simulation & Modeling Batch (2013-14) Re Exam.pdf`
+- Printed on paper: exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 93.4
 
 ````text
-aN
-
-7 SVKM’s NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Denoramme:- B Te (‘TT Feces
+Programme: MBA Tech (IT) Year: III Semester: VI
 
-rrogramme: 5. 1 ech (i. £.)
-Batch: 2014-2015
+Academic Year: 2014-15
+Batch: 2013-14
 
-Semester: V
-Academic Year: 2015-2016
+Subject : Computer Simulation and Modeling
 
-Subject: Computer Simulation and Modeling
-Marks:
-Date: 04/12/2015 Time:
-Duration:
-Re-Examination   -
+Date : 29/06/2015
+Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+NB: 1) Answer to each new question to be started on a fresh page.
+2) Figure in brackets indicates full marks.
+3) Attempt any FIVE questions.
 
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-ca 3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a iresh page.
-6) Figures in brackets on the right hand side indicate full marks. .
-7) Assume suitable if necessary.
+Q.1] (a) Describe the steps required in simulation study. (10)
 
-Ql Attempt (Any Four) }Q
-1) Explain in brief Discrete and Continuous system
-2) Write a short note on advanced event scheduling algorithm
-3) Explain the steps involved in simulation study with neat diagram. :
-4) Draw flow-chart for execution of arrival and departure event.
+(b) Consider a single server system. Let the arrival distribution be uniformly
+distributed between 1 and 8 minutes and the service time distribution is as follows:
 
-5) Explain Triangular distribution curve.
-6) Explain the preliminary statistics term sample mean, standard
-deviation and variance. :
+Service Time 1 2 3 4 5 6
+(min) |
 
-Q2(A) Simulation of an Order-Up-To-Level Refrigerators Inventory System GB
-(M,N) where M=20 and N=4. It is mandatory to have check on
-inventory at the end of each cycle. You are free to order the
-Refrigerators during cycle period. Randomness is the number of days
-after the order is placed with the supplier before arrival or lead time.
-Perform analysis for at least three iterations. Find 1) Average
-Demand, 2) Probability of shortage quantity, 3) Probability of ending
-inventory is less than 3 in quantity and 4) No. of day’s where
-beginning inventory is zero. .
-
-Q2(B} A Bus arrives every 20 minutes at a specified stop beginning at6.40 O&
-
-| A.M. and continuing until §.40 A.M. A certain passenger docs not
-
-know the schedule, arrives randomly (uniformly diétributed) Between
-
-“a 7.00 A.M. 7.80 A.M. every morning, Caleulate desired probability,
-
-exponential density function, cumulative distribution. function and
-exponential distributions for several pdis. ‘
-
-2
---- page 2 ---
-more)
-
-See]
-
-Q3(B)
-
-Q4(A)
-
-04)
-
-QS{A)
-QS(B)
-
-6{A)
-
-Q6(B)
-Q7
-
-seed in of a
-are used im St are
-
-numbers?
-Draw and explain single channel queuing system using GPSS.
-
-Explain the concept of following terms: (Any Sx)
-
-() Confidence interval (2) Central limit theorem (3) Null Hypothesis
-(4)Altermate Hypothesis (5)Type-l-error (6)Type-W-error (7) Level of
-significance (8) Standard Normal distribution curve
-
-Write a detailed note on Verification and Validation.
-
-Perform Chi-Square test with suitable example.
-Write a detailed note on stochastic processes.
-
-Derive and describe Bernoulli trials and Bernoulli distribution for
-discrete random variables.
-Explain in detail Management's Role in the Simulation Process.
-
-Write a short note on: (Any Two)
-
-i) Poisson Distribution
-
-2) Autocorrelation
-
-3) K-S test
-
-4) Calibration and Validation of Models
-
-—_—
-
-oe
-
-06
-
-06
-
-os
-
-ce
-OG
-
-6s
---- page 3 ---
-APPENDIX oo _ 577
-
-. Table AT Random Digits e
-
-94737 08225 35614 24826 = _ 88349 __05595___58701 37365. 74759 __
-87259 85982 13296 89326 74863 99986 68558 06391. 50248
-63856 14016 18527 11634 96908 52146 53496 31730 © 03500
-66612 54714 46783 61934 3025 61674 07471 67566 31635
-30712 58582 05704 23172 86689 94834 99057 55832 21012
-
-69607 24145 «= 43886 «= 86477 053,7 ~—30445 «33456 = 34029 «= 09603
-37792 27282 «94107 41967 21495 «04743. «= 42822 28111.——(09757
-01488 56680 + 73847« «64930 = 1lpg «= 44834. «45390» 86043. «(23973
-~ 66248 97697 «38244 «= 50918 = 5544; «51217 54786 = 04940 © 50807
-51453 03462,:«Ss«61157 «65366 = 61139 ©=— 26204 «= «15016 = 85665 = «97714
-
-92168 82530 19271 86999 96499 12765 20926 - 25282 39119
-36463 07331 54590 00546 03337 41583 46439 40173 46455
-47097 78780 04210 87084 44484 15377 57753 41415 09890
-80400 45972 44111 99708 45935, 03694 81421 60170 58457
-94554 13863 88239 91624 00022 = 40471 78462 96265 55360
-
-31567 53597 08490 73544 72573 30961 12282 97033 13676
-07821 24759 47266 = - 21747 7249§ = 77755 50391 59554 31177
-09056 10709 69314 11449 4053] 02917 95878 74587 60906
-19922 37025 80731 26179 16039 01518 82697 73227 13160
-29923 02570 80164 36108 73689 26342 35712 49137 13482
-
-29602 29464 - 99219 20308 82109 03898 82072 85199. 13103
-94135 - 94661 87724 88187 6219) 70607 63099 40494 49069
-87926 34092 34334 55064 43159 01610 03126 47312 59578 |
-85039 19212 ° 59160 83537 54414 9856, 90527 21756 = 64783
-66070 38480 . 74636 45095 86576 79337 39578 40851 53503
-
-“an 78166 82521 79261.:~«= «12570 10939-47564 |= 77869 «= 16480. - 43972
-94672 07912 26153 10531 1275 63142 88937 94466 31388
-56406. 70023, 27734 22254 «= 27685 += 7518 = 63966 © 33203-70803
-67726 57805 94264 += 77009. «086g «48784 «= «47554 «= 59869-66320
-07516. 45979. 76735 46509 17696. 67177 «Ss «92600» 5557217245
-
-43070. 22671 « «00152 «= 81326 © -894yg «46368 «= «5S 7659 «| 79424 57604
-36917. 60370 80812-87225 = 028sy Ss g7118 «= 23790» 5504375117
-03919 82922 «02312.- «31106 = 44335.-«S 5573. «= 17470= 25900. 911080
-46724 22558 += 64303.« 78804 = 057g) +0650» 56117 «06707-90035
-"46108 61281 86823. «= 2028614025 «74909-38391 «51218389393
-
-74541 75808 «=: 89669 «= 87680 «7275, «GOSS! «= 55292 «95663-88326
-82919 31285 «01850 = 72550 «429%, «57518 = O1159. 01786 ~—|-98145
-a 31388 2680977258 «—«#99360 9234) «91979-41319 7573998082
-17190 75522” «15687. 07161-99745 4g767 ©3121 20046 «28013
-00466. 88068, 68631 98745 9781p - 35886 «14497-90230 _ 69264
---- page 4 ---
-578 APPENDIX
-oo __Table A.2_ Random Norma! Numbers
-
-70.23 0.17 0.43 2.18 2.13 0.49 2.72 —0.18 0.42
-0.24 -117 0.02 0.67 -059 013 = -0.15 —0.46 1.64
-1.16 -0.17 036 1.26 0.91 0.71 —1.00 —1.09 0.02
-—0,02 —0.19 —0.04 1.92 0.71 —090 —-021 -140   -0.38
-0.39 0.55 0.13 2.55 —033 —0.05 —0.34 1.95 0.44
-0.64 —0.36 0.98 -0.21 -052   -002 0.15 -0.43 0.62
-1.90 0.48 —0.54 0.60 -035   -129 -057 0.23 141
-1.04 —0.70 —1.69 1.76 0.47 -052 . -0.73 0.94 -1.63
-—.78 0.11 0.91 1.13 0.07 0.45 —0.94 1.42 0.75
-0.68 77 —082 1.68 —2.60 159 0.72 —0.80 0.61
-—0.02 0.92 176 = —0.66 0.18 -1.32 1.26 0.61 0.83
-0.47 1.04 0.83 2.05 100 —0.70 1.12 0.82 0.08
-—0.40 1.40 1.20 0.00 0.21 -2.13 —0.22 1.79 0.87
-0.75 0.09 1.50 0.14 -299   —-041 —0.99 —0.70 0.51
-—0.66 1.97 O15 1.16 —0.60 0.50 1.36 1.94 0.11
-—0.44 —0.09 —0.59 1.37 0.18 144 ~0.80 2M -137
-141 -2.71 —0.67 1.83 0.97 0.06 —0.28 0.04 -0.21
-1.21 —0.52 —0.20 -0.88 —0.78 0.84 1.08 —0.25 0.17
-0.07 0.66 —0.51 —0.04 —0.84 0.04 1.60 —0.92 1.14
-—0.08 0.79 —009 = -1.12 1.13 0.77 0.40 0.69 —0.12
-0.53 —0.36 —2.64 0.22 —0.78 192 -0.26 1.04 -1.61
-1.56 1.82 1.03 1.14 -0.12 0.78 —0.12 1.42 -0.52
-0.03 1.29 —0.33 2.60 —0.64 1.19 —0.13 0.91 0.78
-1.49 155 .-0.79 137 0.97 0.17 0.58 1.43 =1.29
-1.19 1.35 0.16 1.06 —0.17 032 0.28 0.68 0.54
--=119 1.03 —0.12 1.07 087 -140 024 —0.81 0.31
-0.11 1.95 -044 = -0.39 -015 120 1.98 0.32 2.91
-—1.86 0.06 0.19 —1.29 0.33 151 ~0.36 0.80   -0.99
-0.16 0.28 0.60 0.78 0.67 0.13 —0.47 —0.18 -0.89
-1.21 1.19 -060 1.22 0.07; —1.13 1.45 0.94 0.54
-—0.82 0.54 —0.98 —0.13 1.52 0.77 0.95 0.84 2.40
-0.75 —0.80 —0.28 1.77 -0.16° -0.33 2.43 -1.11 1.63
-0.42 0.31 1.56 0.56 064 -0.78 0.04 1.34 —0.01
-~1.50 1.78 0.59 0.16 0.36 189 1.19 0.53 -0.97
-—0.89 0.08 0.95 —0.73 1.25 -1.04 = -0.47 —0.68 —0.87
-0.19 0.85 1.68 —0.57 037 = -0.48 0.17 2.36 -0.53
-
-0.49 0.32 -2.08 1.02 259 0.53 0.15 0.11 0.05.
-144 0.07 —0.22 0.93 1.40 054 = 1.28 0,15 0.67
-0.21 —0.48 1.21 0.67 -110   -075 -037 0.68 —0.02
-—0.65 —0.12 0.94 = 0.44 -121 0.06, =1.28 151 1.39
-‘0.24 —0.83 1.55 0.33 -059 -1.24 0.70 0.01 0.15
-—0.73 1.24 040 0.61 0.68 0.69 0.07 0.23 —0.66
-1.93 0.75 —0.32 0.95 1.35 1.51 —0.88 0.10 -1.19
-0.08 0.16 0.38 —0.96 1.99   -0.20 0.98 0.16 0.26
-—0.47 =1.25 032 0.51 1.04 0.97 2.60 ~0.08 1.19
---- page 5 ---
-579
-
-i
-
-Table-A-2—Cumuletive Normai Distribution
-
-a
-ee LLZD.
-(Ze. -[ ae YP du=1-a 0 20
-$8) =o V20
-[ Zit 0.00 0.01 0.02 0.03 0.04 %
-0.0 0.500 00 0.503 99 0.507 98 0.511 97 0.515 95 0.8
-01 0.539 83 0.543 79 0.547 76 0.551 72 0.555 67 1
-0.2 0.579 26 0.583 17 0.587 06 0.590 95 0.594 83 0.2
-03 0.617 91 0.621 72 0.625 51 0.629 30 0.633 07 0.3
-Fe, 0.4 0.655 42 0.659 10 0.662 76 0.666 40 0.670 03 0.4
-j 0.5 0.691 46 0.694 97 0.698 47 0.701 94 0.705 40 05
-0.6 0.725 75 0.729 07 0.732 37 0.735 65 0.738 91 0.6
-0.7 0.758 03 0.761 15 0.764 24 0.767 30 0.770 35 0.7
-0.8 0.788 14 0.791 03 0.793 89 0.796 73 0.799 54 0.8
-0.9 0.815 94 0.818 59 0.821 21 0.823 81 0.826 39 09
-1.0 0.841 34 0.843 75 0.846 13 0.848 49 0.850 83 1.0
-ut 0.864 33 0.866 50 0.868 64 0.870 76 0.872 85 11
-' 12 0.884 93 0.886 86 0.888 77 0.890 65 0.892 51 12
-13 0.903 20 0.904 90 0.906 58 0.908 24 0.909 88 13
-14 0.919 24 0:920 73 0.922 19 0.923 64 0.925 06 14
-15 0.933 19 0.934 48 0.935 74 0.936 99 0.938 22 15
-1.6 0.945 20 0.946 30 0.947 38 0.948 45 0.949 50 1.6
-17 0.95543, 0.956 37 0.957 28 0.958 18 0.959 07 7
-18 0.964 07 0.964 85 0.965 62 0.966 37 0.967 11 18
-1.9 0.971 28 0.971 93 0.972 57 0.973 20 0.973 81 19
-2.0 0.977 25 0.977 78 0,978 31 0.978 82 0.979 32 2.0
-21 O58? 14 0.982 57 0.983 00 0.983 41 0.983 82 21
-2.2 0.986 10 0.986 45 0.986 79 0.987 13° 0.987 45 2.2
-23 0.989 28 0.989 56 0.989 83 0.990 10 0.990 36 23
-a 2.4 0.991 80 0.992 02 0,992 24 0.99245 - 0.992 66 2.4
-2.5 0.993 79 0.993 96 0.994 13 0.994 30 0.994 46 25
-2.6 0.995 34 0.995 47 0.995 60 0.995 73 0.995 85 2.6
-2.7 0.996 53 0.996 64 0,996 74 0,996 83 0.996 93 2.1
-2.8 0.997 44 0.997 52 0.997 60 0.997 67 0.997 74 2.8
-29 0.998 13 0.998 19 0.998 25 0.998 31 0.998 36 2.9
-3.0 0.998 65 0.998 69 0.998 74 0.998 78 0.998 82 3.0
-3.1 0.999 03 0.999 06 0.999 10 0.999 13 0.999 16 3.1
-3.2 0.999 31 0.999 34 0.999 36 0.999 38 0.999 40 3.2
-33 0.999 52 0.999 53 0.999 55 0.999 57 0.999 58 33
-3.4 0.999 66 0.999 68 0.999 69 0.999 70 0.999 71 34
-— 35 0.999 77 0.999 78 0.999 78 0.99979 ' 0.99980 . 35
-3.6 0.999 84 0.999 85 0.999 85 0.999 86 0.999 86 3.6
-37 0.999 89 0.999 90 0.999 90 0.999 90 0.999 91 37
-1 3.8 0.999 93 0.999 93 0.999 93 0,999 94 0,999 94 3.8
-3.9 0.999 95 0.999 95 0.999 96 0.999 96 0.999 96 3.9
-
-(continued overleaf)
---- page 6 ---
-580
-
-Table A.3 (continued)
-0.00 0.01
-
-0.7 0.773
-0.8 0.802
-0.9 0.824
-
-1.0 0.853
-11 0.874
-12 0.894
-3 0.911
-
-2.2 0.987 7
-2.3 0.990 6
-
-3.1 0.999 18
-3.2 0.999 42
-33 0.999 60
-3.4 0.999 72
-85 0.999 81
-3.6 0.999 87
-3.7 0.999 91
-3.8 0.999 94
-3.9 0.999 96
-
-0519 94 0.523 92
-0.1 0.559 62 0.563 56 0.567 49
-0.2 0.598 71 0.602 57 0.606 42
-0.3 0.636 83 0.640 58 0.644 31
-0.4 0.673 64 0.677 24 0.680 82
-0.5 0.708 84 0.712 26 0
-0.6 0.742 15 0.745 37 0.
-
-34 0.805 10 0.
-94 0.831 47 0.
-
-14 0.855 43 0.857 69 0.859 93
-93 0.876 97 0.87900 0.881 00
-35 0.896 16 0.89796 0.899 73
-49 0.913 08 0.914 65 0.916 21
-14 0.926 47 0.927 85 0.929 22
-15 0.939 43 0.940 62 0.941 79
-1.6 0.950 53 0.951 54 0.952 54
-1Z 0.959 94 0.960 80 0.961 64
-18 0.967 84 0.968 56 0.9
-19 0.974 41 0.97500 0.975 58
-paagien eoimiggninn) J
-
-- 2.0 0.979 82 0.980 30 0.980 77
-21 0.984 22 0.984 61 0.985 00
-8 0.988 09 0.988 40 0.988 70
-
-1 0.990 86 0.991 11 0.991 34
-24 0.992 86 0.993 05 0.993 24
-2.5 0.994 61 0.994 77 0.994 92
-2.6 0.995 98 0.996 09 0.996 21
-2.7 0.997 02 0.997 11 0.99
-2.8 0.997 81 0.997 88 0.997 95
-2.9 0.998 41 0.998 46 0.998 51
-
-3.0 0.998 86 0.998 89 0.998 93
-
-0.999 21 0.999 24 0.999 26
-0.999 44 0.999 46 0.999 48
-0.999 61 0.999 62 0.999 64
-0.999 73 0.999 74. 0.999 75
-
-0.999 81 0.999 82 0.999 83
-
-0.999 87 0.999
-0.999 92 0.999
-0.999 94 0.999
-0.999 96 0.999
-
-0.02 0.03
-
-0.527 90 0.531 88 0.535 86 0.0
-
-0.571 42 0.575 34 0.1
-0.610 26 0.614 09 0.2
-0.648 03 0.651 73 0.3
-0.684 38 0.687 93 0.4
-.715 66 0.719 04 0.722 40 0.5
-
-.748 57 0.751 75 0.754 90 0.6
-37 0.776 37 0.
-
-779 35 0.782 30 0.785: 23 0.7
-807 85 0.810 57 0.813 27 0.8
-833 97 0.836 46 0.838 91 0.9
-
-0.862 14 1.0
-
-0.882 97 11
-0.901 47 12
-0.917 73 13
-
-0.930 56 0.931 89 14
-
-0.942 95 0.944 08 15
-0.953 52 0.954 48 1.6
-0.962 46 0.963 27 1.7
-169 26 0.969 95 0.970 62 1.8
-
-0.976 15 0.976 70 19
-
-0.981 24 0.981 69 2.0
-0.985 37 0.985 74 21
-0.988 99 22
-0.991 58 23
-0.993 43 0.993 6] 24
-
-0.995 06 0.995 20 25
-0.996 32 0.996 43 2.6
-7 20 0.997 28 0.997 36 2.7
-0.998 01 0.998 07 2.8
-0.998 56 0.998 61 29
-
-0.998 97 0.999 00 3.0
-0.999 29 3.1
-0.999 50 3.2
-0.999 65 3.3
-0.999 76 3.4
-
-0.999 83 3.5
-88 0.999 88 0.999 89 3.6
-92 0,999 92 0.999 92 3.7
-95 0.999 95 0.999 95 3.8
-96 0.999 97 0.999 97 3.9
-
-Source: W. W. Hines
-Management Science,
-Sons, Inc., New York.
-
-and D.C. Montgomery, Probabi
-
-2d ed., © 1980, pp. 592-
-
-lity and Statistics in Engineering and
-3. Reprinted by permission of John Wiley &
-«
-
-APPENDIX
---- page 7 ---
-531
-
-Table A.4 Cumulative Poisson Distribution
-
-a = Mean |
-05 J 2 3 4 5 6 7 8   9|
-951 905 819.741 670 607.549. 497449407 0
-999 995 982.963 938 910 878.844.809.772 |
-1.000 1.000 999 996 999 986 977 966 953.937 | 2
-1.000 1,000 .999 99g 997 994 991.987 | 3
-1.000 1.000 1.000 999 909 998 | 4
-1.000 1.000 1.000] 5
+Probability | 0.03 0.10 | 0.22 0.31 | 0.26 | 0.10 |
 |
-a@ = Mean l ]
-1] 1.2 L.3 1.4 15 16 17 1.8 19 20 | bs
-.333 301 .273 247 223 -202 183 165 150 135 0
-699 663 627 592 558 525. 493.463 434 406 1
-900.879 857833 809 783.7577] 704.677. | 2
-974 966 957946934 921 907. .891 875 857. | 3
-995 992 989 986 981 976 970 964. 956) .947 4
-999 998 998 997 996 904 992 990.987 983 | 5
 
-000 1.000 1.000 999 999 999 998.907 997 995 6
-1.000 1.000 1.000 1.000 999 999 999 | 7
-1.000 1.000 1.000 8
+Develop the simulation table and analyze the system by simulating the arrival and service
+of 10 customers. Random digits for inter-arrival time & service time are as follows.
 
-a = Mean |
-24 2.6 2.8 3.0 35 4.0 4.5 5.0
+Customer 1 |] 2 3 4 [5 6 |°7 8 | 9 | 10
 
-55 6.0 | x
+Random digit for | --- | 654 | 200 | 86 | 093 | 509 | 640 | 330 | 879 | 550
+Inter-arrival |
+| time |
 
-091 074 ~~ .061 050 -030 -018 O11 -007 004 002 0
-308 267.231 ADD 136 092 .061 040 027.017 1
-i} 2 .623 570 -518 469 423 32] -238 174125 088 = .062 2
-(an 819 779 736 692.647 537 433 342 265 202. 151 3
-4 928 904 877.848 815 725 629° 532.440 358 = 285 4
-5 975 964 951 935 916 -858 785.703 616 = 529 ag 5
-6 993 988 -983 976.966 935 889 831 -762 686 606 6
-7 -998 997 995.992 988 -973 949 913° 867.809 744 7
-8 | 1.000 999 999 998 996 990 979 960.932
+Random digit for | 75 52 15 80 | 92 63 88 36 33 96
+Service Time | |
 
-894 847 | 8
+| | |
 
-9 1.000 1.000 999 999 997 + 999 983 968 = 946916 9
+Also find out average waiting time, average service time, average waiting time of those
+who wait, and average time customer spends in system. (10)
 
-10 1.000 1.000 .999 1997 993 986 975 957 | 10
+Q. 2] (a) Simulation of an Order-Up-To-Level Refrigerators Inventory System (M,N)
+where M=15 and N=4. It is mandatory to have check on inventory at the end of each
+cycle. You are free to order the Refrigerators during cycle period. Randomness is the
+number of days after the order is placed with the supplier before arrival or lead time.
 
-11 1.000.999 998 995 ggg 980 | 11
+1/2
+--- page 2 ---
+Perform analysis for at least three iterations. Find 1) Average Demand, 2) Probability of
+shortage quantity, 3) Probability of ending inventory is less than 2 in quantities and 4)
+No. of day are where beginning inventory is zero. (10)
 
-12 1.000.999 998° 996 99) | 42
+(b) What are the techniques to generate pseudo random numbers? Explain in detail.
 
-13 1.000 999 998 996 | 13
+(10)
+Q. 3] (a) Draw the flowchart for the execution of event arrival and execution of departure
+event. Compare event scheduling, process interaction and activity scanning approach.
+(10)
+(b) Explain Poisson process in detail for statistical model in simulation. (10)
 
-_— 14 1.000 999 999 | 14
-15 1.000 .999 | 15
+Q.4] (a) Explain different techniques for discrete and continuous distribution. (10)
 
-a 16 1.000 | 16
+(b) Describe various techniques used in verification of simulation computer
+programs. (10)
 
-(continued overleaf )
---- page 8 ---
-APPENDIX
+Q.5] (a) Consider the following sequence of 40 numbers. Based on runs above or below
+the mean, determine the hypothests of independence can be rejected, where a = 0.05
 
-Table A.4 (continued)
+(0.09 [0.41 0.23 0.68 0.89 0.72 0.12 0.45 0.08 0.32
+0.53 | 0.13 0.65 0.97 0.14 0.49 0.55 | 0.46 0.77 0.28
+0.81 | 0.63 0.40 0.57 0.02 0.16 0.33 0.86 0.99 0.22
+0.76 0.48 0.61 0.39 0.43 0.78 | 0.20 0.35 0.17 0.93
 
-; a = Mean
-70 75 8.0 9.0 10.0 12.0
+(10)
 
-001.001
-007 .005 .003 001
-030 020 .014 = .006 003.001
-082.059.042.021 010 .002
-173.132.100.055 029.008 002
-301 241 191-116 067.020.006.001
-‘450. 378 313.207 130.046 «014.004 001
-599 525 453-324 220.090 032.010 003.001
-729 662 593456 333.155.062.022 007.002
-830.776 717-587 458 «242 «109.043 015.005
-‘901.862 .816 .706 583.347 «17607 .030
-(947 921.888 .803 697 462 .260 127 055
-973 957.936 876 792 576 358-193 092
-987 978 .966 = 926 (864 682 464.275 143
-994 990 .983 959 917 772 570-368 208
-‘998 .995 .992 .978 ‘951 .844 .669 467 287
-1999 998.996 .989 973 899.756 566 375
-1,000 .999 .998 995 986.937.827.659 469
-1,000 .999 .998 .993 963.883.742.562
-1,000 .999 .997 979 923 812.651
-1,000 .998 .988 .952 868.731
-999 ©.994 971 911 199
-1.000.997 983 .942 855
-1999 991.963 .899
-999 995 978 .932
-1.000 997 .987   .955
+(b) Explain the different types of validation model, validation process and
+validating input-output transformation. (10)
+Q.6] (a) Write in detailed note on Acceptance and rejection technique. (10)
 
-740° 16.0 18.0 20.0
+(b) Explain in detail the different types of simulations with respect to output
+analysis. (10)
 
-i. 1999993 972
-‘999.996 983
-
-1,000 998 990
-
-999.994
-
-999.997
-
-1.000 998
-
-999
-
-1,000
-
-s and Graphs for the Industrial Engineer
-
-Handbook of Table.
-Wiley and Sons, Inc., New
-
-Source: J. Banks and R. G. Heikes,
-inted by permission of Jolin
-
-and Manager, © 1984, pp- 34-35. Rep.
-York.
-‘
---- page 9 ---
-583
-
-of The Student's r Distribution
-
-Table A.S Percentage Points
-with v Degrees of Freedom
-
-10.005 10.01 10.025 10.05 t0.10
-63.66 31.82 12.71 6.31 3.08 .
-a 9.92 6.92 4.30 2.92 1.89
-: 5.84 4.54 3.18 2.35 1.64
-4 4.60 3/15 2.78 2.13 1.53
-5 4.03 3.36 257 2.02 1.48
-6 3.71 3.14 2.45 1.94 1.44
-7 3.50 3.00 2.36 1.90 1.42
-8 3.36 2.90 2.31 1.86 1.40
-9 3.25 2.82 2.26 1.83 1.38
-s 10 3.17 2.76 223 1.81 1.37
-11 3.11 2.72 2.20 1.80 1.36
-12 3.06 2.68 2.18 1.78 1.36
-13 3.01 2.65 2.16 1.77 1.35
-14 2.98 2.62 214 1.76 1.34
-15 2.95 2.60 243) 1.75 1.34
-16 2.92 2.58 2.12 1.75 1.34
-17 2.90 2.57. 2.11 1.74 1.33
-18 2.88 2.55 2.10 1.73 1.33
-19 2.86 2.54 2.09 1.73 1.33
-20 2.84 2.53) 2.09 1.72 1.32
-a) 21 2.83 2.52 2.08 1.72 1.32
-22 2.82 251 2.07 1.72 1.32.
-23, 2,81 2.50 2.07 1.7] 1.32
-Es 24 2.80 2.49 2.06 1.71 1,32
-; 25 2.79 2.48 2.06 1.71 1.32
-26 2.78 2.48 2.06 1.71 1.32
-27 2.77 2.47 2.05 1.70 1.31
-28 2.76 2.47 2.05 1.70 es)
-29 2.76 2.46 2.04 1.70 1.31
-30 2.75 2.46 2.04 1.70 1.31
-=| 40 2.70 2.42 2.02 1.68 1.30
-60 2.66 2.39 2.00 1.67 1.30
-120 2.62 2.36 1.98 - 1.66 1.29 |
-co 2.58 2:33 1.96 1.645 138 “|
-
-Source: Robert E. Shannon, Systems Simulation: The Art
-and Science, © 1975, p. 375. Reprinted by permission of
-Prentice Hall, Upper Saddle River, NJ.
---- page 10 ---
-584
-
-APPENBIX
-
-Table A.6 Percentage Points of The Ch
-v’ Degrees of Freedom
-
-i-Square Distribution with
-
-a
-/
-LLLLLSL.
-xe
-v Xé.o0s XB01 XB.00s Xd.05 Xb10 ]
-1 7.88 6.63 5.02 3.84 2.71
-2 10.60 9.21 7.38 5.99 4.61
-3 12.84 11.34 9.35 7.81 6.25
-4 14.96 13.28 ° 1144 9.49 7.78
-5 16.7 15.1 12.8 ML 9.2
-6 18.5 16.8 14.4 12.6 10.6
-7 20.3 18.5 16.0 14.1 12.0
-8 22.0 20.1 17.5 155 13.4
-9 23.6 217 19.0 16,9 14.7
-a
-10 25.2 23.2 20.5 18.3 16.0
-i 26.8 24.7 21.9 19.7 173°
-12 28.3 26.2 23.3 21.0 18.5
-13 29.8 27.7 24.7 22.4 19.8
-14 313 29.1 26.1 23.7 21.1
-15 _ 32.8 30.6 27.5 25.0 22.3
-16 343 32.0 28.8 26.3 23.5
-17 35.7 33.4 30.2 27.6 - 24.8
-18 37.2 34.8 315 28.9 26.0
-19 38.6 36.2 “32,9 30.1 27.2
-20 40.0 37.6 3420314 28.4
-“or 414 38.9 35.5 432.7 29.6
-2 42.8 40.3 36.8 33.9 30.8
-23 44.2 41.6 38.1 35.2 32.0
-24 45.6 43.0 39.4 36.4 2
-25 49.6 44.3 40.6 37.7 34.4
-26 48.3 45.6 419 38.9 35.6
-27 49.6 47.0 43.2 40.1 36.7
-28 51.0. 48.3 44.5 413 37.9
-29 52.3 49.6 45:77 42.6 39.1
-30 53.7 50.9 47.0 - 43:8 40.3
-40 66.8 63.7 59.3 55.8 51.8
-50 79.5 » 76.2 1A 67.5 63.2
-60 92.0 88.4 83.3 79.1 74.4
-70 104.2 100.4 95.0 90.5 85.5 7
-“80 116.3 112.3 106.6 101.9 96.6 -
-90: 128.3. 124.1 118.1 1131 107.6
-100 140.2 135.8 129.6 124.3 118.5
-
-. ° s €
--Source:- Robert -E. : Shannon, Systems Simulation: The Art and
-
-Science, © 1975, p. 372. Reprinted by permission of Prentice Hall, -
-Upper Saddle’River, NJ. : .
---- page 11 ---
-SASSSHARFREZESSAMTBSsSseSaexraewenranrnia
-
-=AnNoO i=
-BeAeIanMy san “Ssoanqges eR eRnSessenaas|s i
-WMAFMMANNNANNNNN RRR e He ett 3 ;
-= i
-
-Beeseoeounrnentoresroe- nm onto aninm~oocn £
-BETA UANHPMAAHEaSeseqgagnngeseaeRRCReRSRsag |S
-DOMFMNMNANANAN AN ANN KER eee ee >
-
-5
-3
-BASSTSSA2IaAAeSOgvr-Vramnnavyvryaoannvyana =
-AEP VBSHSVUAIA=HSoaaggrgaegsgeaRentSsns@h =)
-aeunramnnnd dN Ni Na RP RH HS 5.
-i) i
-SIYRAZSBSawmrAsneoenavtranuntanragnanala
-SR ZRQSSSAYMAIATHASSAAAHARM HE HARARR SARA oO
-SMFAMMIANNANAA NA aa NKR RRR RBH
-
-SLSZSRBGOCrmeyPryaAne-n ser wmoyrnonnnyt+une Ss i
-SPSS SSSRYMITIUIMAMSTTTSSSARAAHRA DHA HA SHS |B \
-owtaaannd adnan dd ciniciddndi NH HBSS ]S i
-
-e |
-SERSSFARTSHSSAAZAVCuMVSygswvenn-sgaoea ly |
-SRBRBTTANPSNAMANTRAA-SSSSAAARARSEKRSH |B |
-OMTAMOMANANANN AAA NANNN BPR RHP a |
-
-a i
-SAQSSRTOFR Ore AmenAVCN on HMH- Arnot HMHeHoR/]Y |
-SBSVBTTANWESAIMMANARARSSSSAARRARAK SH |e
-SMTIIAANN Aa ci cla cia ccd cicicicicid H=- Att les] 8
-
-5
-
-5
-SP¥SeSssrtrasedrsemesnrnnomnn-anvtnowntunn 5
-eee aeageen enya amart sat H Hesse eee gekts | 3
-cura dca cdcian dad aciddcicididcicid SHH | s
-
-&
-
-=
-TESSRSSRTASASSBPKRAMKMP FH MN MNSMoMnMmAIcCAcCAMNH = .
-BASELSergsean eons Arnnts eH HH=SsSgge =
-ceuatrraamed add ciciccicdcidciddnd ddd Gta IS
-
-PRTSSRTRERZESSASHSSRASHyVaARsavona
-
-=—-9
-SER SSR TEAereocunysrerararaarrdnr =a Saqgg 2
-ontrararm ANA ANN NNN 5
-. 8
-SSRSBZBAMASSHYVArAvVMaArtASeRnHtH-aAdtow |S
-SSREeSBreaenveantzrmamamand adil Sg gs 5
-wotrrainmamcicincicicidcicicitinnidcidd Nd acinad = 14
-2
-wotannts StAN-HYHMNOnYLtAIADAD ay] 3
-oy Sy og Site Gt PNRM ATE TEOMA AIAN HOG 3
-
-COST main caiadcinadcdad aNd ad NNN HK] .
-5
-SPSBGexSA*seBeryeswrtrr—avtnroanvnauna-ly
-SSBZGEeadreaweeneenynttsttseaanannagdlss =
-corr aN NN NN GN ici ci NA iW s
-=]
-FLESPERPENASrnVaAtSOYUNSnRHNM-QAronmatunce|s
-BESS Aaareonnrrnesconnnn tae ee adgcts s
-wort mae aici ciciciciciniciaidcicidcicicicidaad |S
-x
-BSsSeascesenor-aneon-rntre-aoettgannonnnna a
-SISHASTMAASCHAARHH AR SSESSARRRSSRAAIS
-
-ROW AM AAA dicindcicicidd Addn ddd AAW | 8 -
-
-SSSRASSVSSVPmSseRregeasegseveryrrea-a
-
-RoOontrtainiinaniiadciddddcidddiddddanada
-
-Senor an=nwonanntowo
-
-Addai Na NAA NW
-
-WFAYFOLSESOHArTARNANHADEANDARHtNMNAMHRO
-
-QAmaee dT AeereennattretTsaananadltss
-DON t FTF UI MII MAMMA AMMAN IN MMMM
-ht
-ars aad Avrenvarscxotse—oox Does me
-— PN ot . PSST ATI IAM AIAAN AAR KH OSAS z=
-Srewnnw i i i i i i i i i a ey
-eS
-‘ 25
-TN mere rSUATTeSreasagtrganeneaseees 35
-Sr T TS FSH HH Maan AM ANNAN AA SSR 2s
-al 6
-
-(4A) do punuousg 40f wopaatg fo saai
-
-585
---- page 12 ---
-%
-i: 586 __ APPEND!
-ie Table A.8 Kolmogorov—Smirnov Critical. Values
-r Degrees of
-Freedom a,
-W) Doro. Dos), Door ;
-—£- t 0950 0.975 0.995
-; 2 0.776 0.842 0.929
-- 3 0.642 0.708 0.828
-4 0.564 0.624 0.733
-f 5 0.510 GSB5> 0.669
-| 6 0.470 0.521 0.618
-7 0.438 0.486 0.577
-8 0.411 0.457 0.543
-f 9 0.388 0.432 0.514
-; 10 0.368 0.410 0.490
-11 -0.352 0.391 0.468
-12 0.338 0.375 0.450
-13 0.325 0.361 0.433
-. 14 0.314 0.349 0.418
-«: 15 0.304 0.338 0.404
-: 16 0.295 0.328 0.392
-17 0.286 0.318 0.381
-18 0.278 0.309 0.371
-19 0.272 0.301 0.363
-20 0.264 0.294 0.356
-25 0.24 0.27 0.32
-30 0.22 0.24 0.29
-35 0.21 0.23 0.27
-Over 122. . 1.36 1.63
-35 JN VN JN
-Source: F. J. Massey, “The Kolmogorov—Smirnov
-Test for Goodness of Fit,” The Journal of the Amer-
-ican Statistical Association, Vol. 46. © 1951, p. 70.
-Adapted with permission of the American Statistical iH
-Association. ii
-i
-it
-j
-hi
-ii
-t |
-ho ee
-
-a
---- page 13 ---
-\ APPENDIX
-
-587
-
-Table Ag
-
-0.020 = 0.0187
-
-2.700 1.494 10.300 5.311
-0.030 0.0275 2.800 1.545 10.600 5.461
-0.040 0.0360 2.900 1.596 10.900 5.611
-0.050 0.0442 3.000 1.646 11.200 5.761
-~ 0.060 0.0523 3.200 1.748 11.500 5.91]
-0.070 0.0602 3.400 1.849 11.800 6.06]
-0.080 0.0679 3.600 1.950 12.100 6.211
-0.090 0.0756 3.800 2.051 12.400 6.362
-0.100 0.0831 4.000 2.151 12.700 6.512
-0.200 0.1532 4.200 2.252) 13.000 6.662
-0.300 0.2178 4.400 2.353 13.300 6.812
-e : 0.400 0.2790 4.600 2.453 13.600 6.962
-— 0.500 0.3381 4.800 2.554 13.900 7.112
-0.600 0.3955 5.000 2.654 14.200 7.262
-0.700 0.4517 5.200 2.755 14.500 7.412
-0.800 0.5070 5.400 2.855 14.800 7.562
-0.900 0.5615 5.600 2.956 15.100 7.712
-1,000 0.6155 5.800 3.056 15.400 7.862
-1.100 0.6690 6.000 3.156 15.700 8.013
-‘ 1.200 0.7220 6.200 3.257 16.000 8.163
-1.300 0.7748 6.400 3.357 16.300 8.313
-1.400 0.8272 6.600 3.457 16.600 8.463
-1.500 0.8794 6.800 3.558 16.900 8.613
-1.600 0.9314 7.000 3.658 17.200 8.763
-1.700 0.9832 7.300 3.808 17.500 8.913
-1.800 1.034 7.600 3.958 17.800 9.063 .
-1.900 1.086 7,900 4.109 18.100 9.213) i
-2.000 1.137 8.200 4.259 » 18.400 9.363
-2.100 1.188 8.500 4.409 18.700 9.533
-2.200 1,240 8.800 4.560 19.000 9.663
-ri . 2.300 1.29] 9.100 4.710 19.300 9.813
-2.400 1.342 9.400 4.860 19.600 9.963
-2.500 1,393 9.700 5.010 20.000 10.16
-2.600 1.444 10.000 5.160
-
-Source: S.C. Choi and R, Wette, “
-Distribution and Their Bias,” Techno;
-Adapted with permission of the Am
-
-‘Maximum Likelihood Estimates of the Gamma
-metrics, Vol. 11, No. 4, Nov. © 1969, pp. 688-9,
-rican Statistical Association,
-
-8
---- page 14 ---
-=f
-
-586
-
-f
-__ APPENDI
-
-Table A.B Kolmogorov—Smirnov Critical Values
-
-Degrees of
-Freedom om,
-W) Doio “ Deas), Door
-1 0.950 0.975 0.995
-2 0.776 0.842 0.929
-3 0.642 0.708 0.828
-4 0.564 0.624 0.733
-5 0.510 SBS 0.669
-6 0.470 0.521 0.618
-7 0.438 0.486 0.577
-8 0.411 0.457 0.543
-9 0.388 0.432 0.514
-10 0.368 0.410 0.490
-ll -0.352 0.391 0.468
-12 0.338 0.375 0.450
-13 0.325 0.361 0.433
-14 0.314 0.349 0.418
-15 0.304 0.338 0.404
-16 0.295 0.328 0.392
-17 0.286 0.318 0.381
-18 0.278 0.309 0.371
-19 0.272 0.301 0.363
-20 0.264 0.294 0.356
-25 0.24 0.27 0.32
-30 0.22 0.24 0.29
-35 0.21 0.23 0.27
-Over 122 =. 1.36 1.63
-35 JN VN JN |
-
-Source: F. J. Massey, “The Kolmogorov—Smimoy
-Test for Goodness of Fit,” The Journal of the Amer-
-ican Statistical Association, Vol. 46. © 1951, p. 70.
-Adapted with permission of the American Statistical
-Association.
-
-ik
---- page 15 ---
-mos ses Fe APPENDIX
-
-edrTest for Different
-
-Table A.10 Operating Characteristic Curves for The Two- a
-Values of Sample Size n
-
-1.0
-
-o 08 s 4
-
-= ro i
-BS
-8 0.6
-
-. i
-5 . K
-2 04 a s <— i
-
-3 lB\S \ehe
-
-= | Bile |
-; |
-LS MNT 3
-
-0 , 1 2
-“8
-(a) a = 0.05
-1.00 —T
-
-0.90
-
-seo INS nae oa
-= ont INN NO
-
-= oot I \\ AX
-
-2 asa We a \ LUN
-
-° \ o
-2 040 = \ 3 pL
-5 = es
-: a‘ “le aL\ ms \ aN
-2 0.30 Walts* \ y
-x ae \n, BS
-0.20 oly th
-WK \A A or ania
-0.10 wa
-pb
-N NS 76 28 3.0 32
-0 02 04 06 ss 10 12 14 16 18 20 22 24
-6
-(b) 2 = 0.01
-
-ne Common Statis-
-
-Source: C. L, Ferris, F. E. Grubbs, and C. L. Weaver, ‘ “Operating Characteristics for Oi with permission
-4
-
-tical Tests of Significance,” Annals of Mathematical Statistics, June 1946. Reproduc”
-of The Institute of Mathematical Statistics.
---- page 16 ---
-APPENDIX
-
-. 589
-Tabla A.q4 i haracteristic Curve’
-mpl
-
-|\SSSSS
-Biled sc cr ssattey
-PETS aan
-FEEEGINNASS
-
-~ disp P—
-Qa
-:
-
-NX
-
-ATT Sy
-ITY NENG SESS
-ns ENOLSEEEe
-
-2 0. OS |
-E 029 Coo ore: 4 \ [|
-01 in
-- TTT AR N
-
-Source: 4. HB
-Reprinteg by Pe;
-
-Owker and G. J. Lieberman, En,
-
-tice Hal), Upp
-
-Sineering Statistics, 2d ed. © 1972, p. 203,
-TMission of Pren
-
-er Saddle River, NJ.
---- page 17 ---
-APPENDIX
-
-Table A.9 Maximum Likelihood Esti
-
-mates of the Gamma Distribution
-
-‘1/M B 1/M B 1/M , |
-0.020 0.0187 2.700 1.494 10.300 5.311
-0.030 0.0275 2.800 1.545 10.600 5.461
-0.040 0.0360 2.900 1.596 10.900 5.611
-0.050 0.0442 3.000 1.646 11.200 5.761
-
-* 0.060 0.0523 3.200 1.748 11.500 5.911
-0.070 0.0602 3.400 1.849 11.800 6.061
-0.080 0.0679 3.600 1.950 12.100 6.211
-0.090 0.0756 3.800 2.051 12.400 6.362
-0.100 0.0831 4.000 2.151 12.700 6.512
-0.200 0.1532 4.200 2.252 13.000 6.662
-0.300 0.2178 4.400 2.353 13.300 6.812
-0.400 0.2790 4.600 2.453 13.600 6.962
-0.500 0.3381 4.800 2.554 13.900 7.112
-0.600 0.3955 5.000 2.654 14.200 7.262
-0.700 0.4517 5.200 2.755 14.500 7.412
-0.800 0.5070 5.400 2.855 14.800 7.562
-0.900 0.5615 5.600 2.956 15.100 7.712
-1,000 0.6155 5.800 3.056 15.400 7.862
-1.100 0.6690 6.000 3.156 15.700 8.013
-1.200 0.7220 6.200 3.257 16,000 8,163
-1,300 0.7748 6.400 3.357 16.300 8.313
-1.400 0.8272 6.600 3.457 16.600 8.463
-
-1.500 0.8794 6.800 3.558 16.900 8.613
-1.600 0.9314 7.000 3.658 17.200 8.763
-1.700 0.9832 7.300 3.808 17.500 8.913
-1.800 1.034 7.600 3.958 17.800 9.063
-
-1.900 1.086 7,900 4.109 18.100 9.213
-
-2.000 1.137 8.200 4.259 — . 18.400 9,363
-
-2.100 1.188 8.500 4.409 18.700 9,513
-
-2.200 1.240 8.800 4.560 19.000 9.663
-
-2.300 1.291 9.100 4.710 19.300 9.813
-
-2.400 1.342 9.400 4.860 19.600 9.963
-
-2.500 1.393 9.700 5.010 20.000 10.16
-
-| 2.600 1.444 10.000 5.160
-
-Source: S.C. Choi and R. Wette,
-Distribution and Their Bias,”
-
-“Maximum Likelihood Estimates of the Gamma
-
-* Technometrics, Vol. 11, No. 4, Nov. © 1969, pp. 688-9,
-
-Adapted with permission of the American Statistical Association.
-
-§
-
-587
+Q.7] Write a short note on any TWO: (20)
+a) Random variate generation
+b) Convolution method
+c) Hypothesis testing
+d) Markovian model
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper 764212e9b0e5
@@ -4645,6 +4704,7 @@ d) Discrete and continuous random variables
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELING B TECH (IT), 2013-14 FINAL EXAM.pdf`
 - Printed on paper: exam date: 07/05/2014
 - Text: ocr (2 pages), mean OCR confidence 85.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4743,7 +4803,6 @@ Goodness of fit test
 Job-Shop Model
 Discrete-Event Simulation
 
-FE 2s 3 ok ai 22k oi ok 2 oi oR ok ako
 
 2/2.
 
@@ -4767,6 +4826,7 @@ a)
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/COMPUTER SIMULATION & MODELING/COMPUTER SIMULATION AND MODELING 2013-14 Final.pdf`
 - Printed on paper: exam date: 07/05/2014
 - Text: ocr (2 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 N SVKM’s NMIMS
@@ -4894,7 +4954,6 @@ Linear Congruential Method.
 
 K-S test
 
-SI fe 2 ig 2 2c 2c a a 2 2 is ok ok ok ae
 
 2/2.
 
@@ -5957,108 +6016,6 @@ SRR RRR RR a Ro RE
 (05)
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper e26bfa8e2f4d
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/COMPUTER SIMULATION & MODELING/Computer Simulation & Modeling Batch (2013-14) Re Exam.pdf`
-- Printed on paper: exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (IT) Year: III Semester: VI
-
-Academic Year: 2014-15
-Batch: 2013-14
-
-Subject : Computer Simulation and Modeling
-
-Date : 29/06/2015
-Re-Examination
-
-NB: 1) Answer to each new question to be started on a fresh page.
-2) Figure in brackets indicates full marks.
-3) Attempt any FIVE questions.
-
-Q.1] (a) Describe the steps required in simulation study. (10)
-
-(b) Consider a single server system. Let the arrival distribution be uniformly
-distributed between 1 and 8 minutes and the service time distribution is as follows:
-
-Service Time 1 2 3 4 5 6
-(min) |
-
-Probability | 0.03 0.10 | 0.22 0.31 | 0.26 | 0.10 |
-|
-
-Develop the simulation table and analyze the system by simulating the arrival and service
-of 10 customers. Random digits for inter-arrival time & service time are as follows.
-
-Customer 1 |] 2 3 4 [5 6 |°7 8 | 9 | 10
-
-Random digit for | --- | 654 | 200 | 86 | 093 | 509 | 640 | 330 | 879 | 550
-Inter-arrival |
-| time |
-
-Random digit for | 75 52 15 80 | 92 63 88 36 33 96
-Service Time | |
-
-| | |
-
-Also find out average waiting time, average service time, average waiting time of those
-who wait, and average time customer spends in system. (10)
-
-Q. 2] (a) Simulation of an Order-Up-To-Level Refrigerators Inventory System (M,N)
-where M=15 and N=4. It is mandatory to have check on inventory at the end of each
-cycle. You are free to order the Refrigerators during cycle period. Randomness is the
-number of days after the order is placed with the supplier before arrival or lead time.
-
-1/2
---- page 2 ---
-Perform analysis for at least three iterations. Find 1) Average Demand, 2) Probability of
-shortage quantity, 3) Probability of ending inventory is less than 2 in quantities and 4)
-No. of day are where beginning inventory is zero. (10)
-
-(b) What are the techniques to generate pseudo random numbers? Explain in detail.
-
-(10)
-Q. 3] (a) Draw the flowchart for the execution of event arrival and execution of departure
-event. Compare event scheduling, process interaction and activity scanning approach.
-(10)
-(b) Explain Poisson process in detail for statistical model in simulation. (10)
-
-Q.4] (a) Explain different techniques for discrete and continuous distribution. (10)
-
-(b) Describe various techniques used in verification of simulation computer
-programs. (10)
-
-Q.5] (a) Consider the following sequence of 40 numbers. Based on runs above or below
-the mean, determine the hypothests of independence can be rejected, where a = 0.05
-
-(0.09 [0.41 0.23 0.68 0.89 0.72 0.12 0.45 0.08 0.32
-0.53 | 0.13 0.65 0.97 0.14 0.49 0.55 | 0.46 0.77 0.28
-0.81 | 0.63 0.40 0.57 0.02 0.16 0.33 0.86 0.99 0.22
-0.76 0.48 0.61 0.39 0.43 0.78 | 0.20 0.35 0.17 0.93
-
-(10)
-
-(b) Explain the different types of validation model, validation process and
-validating input-output transformation. (10)
-Q.6] (a) Write in detailed note on Acceptance and rejection technique. (10)
-
-(b) Explain in detail the different types of simulations with respect to output
-analysis. (10)
-
-Q.7] Write a short note on any TWO: (20)
-a) Random variate generation
-b) Convolution method
-c) Hypothesis testing
-d) Markovian model
-````
-
 ## 2012-13 · Re-Exam · Trim 8 · paper 216d1ff994fe
 
 - Departments: Information Technology
@@ -6192,6 +6149,109 @@ c. Simulation S/W features
 d. Arena
 
 if
+````
+
+## 2010-11 · Re-Exam · Trim 6 · paper 9ababf37b91d
+
+- Departments: Electronics and Telecommunication, Information Technology
+- Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELING RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 09/05/2011
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+_ SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA(TECH)-L.T. Year: Il Trimester: LLIN
+Academic Year : 2010-2011 Gram ~~ ras \
+
+S \
+
+Batch: 2008-2009 an - aw
+
+Subject: Computer Simulation and : Marks:// #( 180° “Ms \n
+Modeling Time: ) ‘
+
+af 2.00pm 765.08
+Date: 09/05/2011 Duratia <
+Re - Examination \
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of the remaining six questions, attempt any FOUR questions.
+3. Inall FIVE questions to be attempted.
+4. Figures on the right hand side indicate full marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+Q.1 a) What is the Model of the system? what are the different types of model available?
+Explain each of the them? [10]
+
+b) How do calculate cost in queuing problems? [10]
+
+Q.2 a) State the properties of random numbers. What are the problems or errors that can occur
+when generating random numbers. [10]
+
+b) Consider the following sequence of random numbers. Test it for independence using
+autocorrelation test with critical value as 1.96. [10]
+
+0.12 0.01 0.23 0.28 0.89 0.31 0.64 0.28 0.83 0.93
+
+0.99 0.15 0.33 0.35 0.91 0.41 0.60 0.27 0.75 0.88
+
+0.68 0.49 0.05 0.43 0.95 0.58 0.19 0.36 0.69 0.87
+
+Q.3 a) State the conservation equation. Discuss the long-run measures of performance of the
+Queueing system viz., the time-average number of customers in system (L) and average
+time spent in system per customer (w). [10]
+
+b) Explain poisson process in detail. [10]
+
+Q.4 a) Describe the characteristics of Queueing systems. Draw the flowchart for arrival and
+departure event. ; [10]
+
+b) Explain briefly Inventory systems. Perform the simulation of the inventory system. Daily
+demand is represented by the random numbers 4,1,8,5,2 and the demand probability is given
+by: [10]
+
+Demand 0 i 2
+Probability | 0.2 | 0.5 | 0.3
+If the initial inventory is 4 units, determine on which day the shortage condition occurs.
+
+Vo.
+--- page 2 ---
+Q.5
+
+Q6
+
+Q.7
+
+~
+
+a) Discuss the method for identifying input distribution of the data and explain different family
+of distribution functions [10]
+
+b) The following table describes the number of trucks passing through a traffic signal.
+The data is collected over a period between 9.00 am and 10.00 am for 100 days . find
+the sample mean and variance [10]
+
+Arrival 1/2 }/3 |4 15 |6 {7 {8 |9 | 10
+/period
+
+5 |13]7 |10)30;7 {2 |5 | 12]9
+
+a) How would you collect data to be used as input in simulation model. In case there is no data,
+
+how would you generate samples to be used as input to simulation model. [10]
+b) Discuss Output analysis for steady-state simulations [10]
+Write short notes on: (Any 2) (20]
+
+i) Selection of input models without input data
+ii) Quantile — Quantile Plots
+iii) Simulation Software
+
+7.
 ````
 
 ## 2009-10 · Exam not stated · Trim 6 · paper 053e7ef5d8d1
@@ -6355,6 +6415,7 @@ c. State the various models available for arrival process? (05)
 - Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/COMPUTER SIMULATION AND MODELING/2009-2010 batch re exam(3).pdf` (+1 identical copies)
 - Text: ocr (12 pages), mean OCR confidence 82.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —_ Sb AHLO.
@@ -6499,7 +6560,6 @@ Table A.1_ Random Digits
 74541 75808 89669 87680 72758 60851 55292 95663 88326
 82919 31285 01850 72550 42986 57518 01159 01786 98145
 
-nanan arcana aainco aaacn anaen aiaqd A120 76720 agne?
 --- page 4 ---
 APPENDIX 579
 
@@ -6618,7 +6678,6 @@ APPENDIX 581
 
 Table A.4 Cumulative Poisson Distribution
 . a = Mean
-x 01 05 wl 2 ra) 4 5 6 a 38 oa x
 
 OQ; 990 951 905 819 741 670 607 549 497 449 407} 0
 1] 1.000 999 995 982 963 938 =.910 = 878 = 844. 809.72 1
@@ -6930,6 +6989,7 @@ Adapted with permission of the American Statistical Association.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/COMPUTER SIMULATION AND MODELING/2008-2009(65).pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -7025,7 +7085,6 @@ Q6. (A) Compare and contrast Application, simulation and general purpose soft wa
 (D) Compare and contrast 2‘? fractional factorial design and any other method of (05)
 Handling many factors in experimental design of simulation.
 
-2 oe of a be ae fe oe ak 9 Oo a ok a eo
 ———. oe
 ra oe
 ````
@@ -7036,6 +7095,7 @@ ra oe
 - Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/COMPUTER SIMULATION AND MODELING/2008-2009 batch re exam(7).pdf` (+1 identical copies)
 - Text: ocr (2 pages), mean OCR confidence 91.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS . ad
@@ -7044,7 +7104,6 @@ MBA. Tech. (Information Technology & Telecom) Second Year
 Trimester VI, 2008-09 betty
 Subject: Computer Simulation and Modeling
 
-Dak | SIs Tre Le €xrtum Dery-le
 
 the cover ofthe Answer Book, which is provided for their use.
 
@@ -7434,6 +7493,7 @@ Estimate correlation and covariance. (10)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/COMPUTER SIMULATION AND MODELING/2006-2007 re exam(10).pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 85.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NARSEE MONJEE INSTITUTE OF MANAGEMENT STUD
@@ -7540,7 +7600,6 @@ Po/1;5/9/314]}slfil3tsl3l4/4]3a/olo]7[2/4[s
 
 7(.974/0)3)9}3)6);8)1/5)6;7),0]/3)1)6);6)0)4
 
-3/7/4/8]l2/lel213]lol]slelolsis{i2lelilolel7
 
 Test whether these digits can be assumed to be independent based on the
 frequency with which gap occur. Use a = 0.05. oe
@@ -7602,107 +7661,4 @@ the underlying distribution is Poisson. Use a level of significance of a = 0.05.
 (b) Explain verification of simulation models
 
 — x —
-````
-
-## Year not stated · Re-Exam · Trim 6 · paper 9ababf37b91d
-
-- Departments: Electronics and Telecommunication, Information Technology
-- Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELING RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 09/05/2011
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-_ SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA(TECH)-L.T. Year: Il Trimester: LLIN
-Academic Year : 2010-2011 Gram ~~ ras \
-
-S \
-
-Batch: 2008-2009 an - aw
-
-Subject: Computer Simulation and : Marks:// #( 180° “Ms \n
-Modeling Time: ) ‘
-
-af 2.00pm 765.08
-Date: 09/05/2011 Duratia <
-Re - Examination \
-
-NB:
-1. Question No. 1 is compulsory.
-2. Out of the remaining six questions, attempt any FOUR questions.
-3. Inall FIVE questions to be attempted.
-4. Figures on the right hand side indicate full marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-Q.1 a) What is the Model of the system? what are the different types of model available?
-Explain each of the them? [10]
-
-b) How do calculate cost in queuing problems? [10]
-
-Q.2 a) State the properties of random numbers. What are the problems or errors that can occur
-when generating random numbers. [10]
-
-b) Consider the following sequence of random numbers. Test it for independence using
-autocorrelation test with critical value as 1.96. [10]
-
-0.12 0.01 0.23 0.28 0.89 0.31 0.64 0.28 0.83 0.93
-
-0.99 0.15 0.33 0.35 0.91 0.41 0.60 0.27 0.75 0.88
-
-0.68 0.49 0.05 0.43 0.95 0.58 0.19 0.36 0.69 0.87
-
-Q.3 a) State the conservation equation. Discuss the long-run measures of performance of the
-Queueing system viz., the time-average number of customers in system (L) and average
-time spent in system per customer (w). [10]
-
-b) Explain poisson process in detail. [10]
-
-Q.4 a) Describe the characteristics of Queueing systems. Draw the flowchart for arrival and
-departure event. ; [10]
-
-b) Explain briefly Inventory systems. Perform the simulation of the inventory system. Daily
-demand is represented by the random numbers 4,1,8,5,2 and the demand probability is given
-by: [10]
-
-Demand 0 i 2
-Probability | 0.2 | 0.5 | 0.3
-If the initial inventory is 4 units, determine on which day the shortage condition occurs.
-
-Vo.
---- page 2 ---
-Q.5
-
-Q6
-
-Q.7
-
-~
-
-a) Discuss the method for identifying input distribution of the data and explain different family
-of distribution functions [10]
-
-b) The following table describes the number of trucks passing through a traffic signal.
-The data is collected over a period between 9.00 am and 10.00 am for 100 days . find
-the sample mean and variance [10]
-
-Arrival 1/2 }/3 |4 15 |6 {7 {8 |9 | 10
-/period
-
-5 |13]7 |10)30;7 {2 |5 | 12]9
-
-a) How would you collect data to be used as input in simulation model. In case there is no data,
-
-how would you generate samples to be used as input to simulation model. [10]
-b) Discuss Output analysis for steady-state simulations [10]
-Write short notes on: (Any 2) (20]
-
-i) Selection of input models without input data
-ii) Quantile — Quantile Plots
-iii) Simulation Software
-
-7.
 ````

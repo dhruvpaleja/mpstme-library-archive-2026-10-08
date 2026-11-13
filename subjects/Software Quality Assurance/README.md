@@ -14,21 +14,21 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Computer 7032 | QP_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER, B TECH / I T | Software Quality Assurance, Sem-VI, Batch 2023-24 & 2025-2026, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Software Quality Assurance(702IT0E022)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / I T, MBA TECH / I T | Software Quality Assurance, Sem VI, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Software Quality Assurance Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer, MBA TECH / I T | Software Quality Assurance, Sem-VI, Year 2022-23, Final Exam.pdf |

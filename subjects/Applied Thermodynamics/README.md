@@ -16,15 +16,15 @@ Also filed as: `APPLIED THERMODYNAICS`, `APPLIED THERMODYNAMCIS`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Applied Thermodynamics(702ME0C033)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Applied Thermodynamics(702ME0C010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Mechanical 7003 | QP_Applied Thermodynamics(702ME0C033)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated Mechanical 7031 | QP_Applied Thermodynamics(702ME0C010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Applied Thermodynamics(702ME0C033)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Applied Thermodynamics(702ME0C010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Applied Thermodynamics(702ME0C033)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Applied Thermodynamics(702ME0C010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Applied Thermodynamics Batch 2022-23,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech Mechanical 7003 | QP_Applied Thermodynamics(702ME0C033)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated Mechanical 7031 | QP_Applied Thermodynamics(702ME0C010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Applied Thermodynamics(702ME0C033)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Applied Thermodynamics(702ME0C010)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHANICAL | Applied Thermodynamics, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / MECHANICAL | Applied Thermodynamics Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / MECHANICAL, B.TECH INTEGRATED / MECHANICAL | Applied Thermodynamics Batch 2023-24 Final Batch 2021-22 Re Exam.pdf |

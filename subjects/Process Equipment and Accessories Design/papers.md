@@ -977,160 +977,7 @@ Q7. Answer the following questions
 ‘b
 ````
 
-## 2015-16 · Final-Exam · Sem 6 · paper 319884f3676d
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Process Equipment & Accessories Design/Process Equipment & Accessories Design Batch 2015-16 Final.pdf`
-- Printed on paper: max marks: 60; duration hours: 4; exam date: 09/05/2016
-- Text: ocr (3 pages), mean OCR confidence 94.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech (CHEMICAL) Year: III Semester: VF we
-gr ( a ==,
-Academic Year: 2015-2016 Ry Vi |
-
-if?
-
-i ; 4 ¥,
-
-Subject : Process Equipment &Accessories Design
-
-Marks: 60
-
-Date : 09/05/2016 Time : 10.00 am t
-Durations: 4 (hrs)-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-8) Illustrate answers with sketches wherever required
-
-1. Answer any 4
-
-(a) Discuss with neat sketches the procedure for designing a stuffing box for an agitator
-Vessel,
-
-(b) Explain design safety and its significance.
-
-(c) Define (i) Design stress (ii) Design pressure (iii) Codes and Standards
-
-(d) Discuss the various material of construction used for pressure vessels
-
-(e) Discuss the different types of flange facings with neat sketches.(12)
-
-2. (a) Explain with various sketches and equations the step by step procedure for
-design of a lug support for pressure vessel. (8)
-
-(b)Show a proportionate drawing to show the vessel mounted on the lug support. (4)
-
-3. (a) Design a reaction vessel with plain jacket with the following data. Design should
-
-include shell thickness and plain jacket thickness. (9)
-Vessel shell internal diameter: 2130 mm
-Jacket internal diameter: 2260 mm
-Jacket length 2000 mm
-
-3
---- page 2 ---
-Flanged dished head
-
-Internal diameter: 2130 mm
-
-Crown radius: 2130 mm
-
-Knuckle radius: 128 mm
-
-Straight flange length: 60 mm
-Internal Pressure (Shell): 0.55 N/mm?
-Internal Pressure (Jacket): 0.35N/mm?
-Temperature: 150°C
-Material
-Allowable stress: 96 N/mm?
-Modulus of elasticity: 190* 10° N/mm?
-Poisson’s ratio: 0.3
-
-(b) Explain with sketches and equations the designing procedure for a shaft of
-an agitator(3)
-
-4.(a) A cylindrical shell has an internal diameter of 2.5m and is made of plain carbon steel
-with yield strength of 200 N/mm’ and factor of safety of 1.5. Operating pressure inside
-the shell is 0.75 N/mm. Operating conditions demand corrosion allowance for the
-material as 3mm. The joint efficiency factor is 0.85. Determine the thickness and depth
-of the heads if the ends are: (8)
-
-i. Hemispherical
-
-ii. Elliptical (Major axis: Minor axis =2)
-iii. Torispherical (Crown radius as 3m and knuckle radius as 10 % of crown radius)
-iv. Conical with cone angle as 120°
-
-(b) What is nozzle compensation? Why is it required? (4)
-5. Design a U-tube heat exchanger for the following data:
-(1) Sheii side:
-Number of shell = 1
-Number of Pass = 1
-Design pressure = 0.55 N/mm?
-Permissible stress for shell material,Carbon steel = 100 N/mm
-Standard torispherical head with knuckle radius as 6% of crown radius
-25 % cut segmental baffles are provided
-(2) Tube side:
-oe!
---- page 3 ---
-Number of tubes = 60
-
-Tube outside diameter = 20 mm
-
-Length = 12 m
-
-Design pressure of tube side fluid = 2.0 N/mm?
-Permissible stress of tube material = 120 N/mm*
-
-Tubes pitch = square (25 mm)
-
-(a) Design
-
-1!) Shell ( diameter and thickness) (3)
-ll) Tube sheet thickness (2)
-Il) Channel and channel cover (2)
-
-(b) Draw to a recommended scale the assembly drawing of above given
-
-U-Tube heat exchanger. (5)
-
-6. (a) Explain design procedure for determination of shell thickness at different (7)
-heightsfor a distillation column.
-(b) Discuss types of down comers and weirs with neat sketches. (5)
-7. Write notes on any four (12)
-(a) Types of jackets used in agitation vessel.
-(b) Types of agitators and their application
-(c) Baffles and tierods used in heat exchangers
-(d) Supports for tall vessels
-
-(e) Types of heads used in pressure vessels- advantages and limitations.
-
-3/2
-````
-
-## 2015-16 · Re-Exam · Sem 6 · paper 0852baa37120
+## 2016-17 · Re-Exam · Sem 6 · paper 0852baa37120
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -1307,6 +1154,159 @@ Q 7. Write short notes (Any four): [12]
 ty
 ````
 
+## 2015-16 · Final-Exam · Sem 6 · paper 319884f3676d
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Process Equipment & Accessories Design/Process Equipment & Accessories Design Batch 2015-16 Final.pdf`
+- Printed on paper: max marks: 60; duration hours: 4; exam date: 09/05/2016
+- Text: ocr (3 pages), mean OCR confidence 94.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (CHEMICAL) Year: III Semester: VF we
+gr ( a ==,
+Academic Year: 2015-2016 Ry Vi |
+
+if?
+
+i ; 4 ¥,
+
+Subject : Process Equipment &Accessories Design
+
+Marks: 60
+
+Date : 09/05/2016 Time : 10.00 am t
+Durations: 4 (hrs)-
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+8) Illustrate answers with sketches wherever required
+
+1. Answer any 4
+
+(a) Discuss with neat sketches the procedure for designing a stuffing box for an agitator
+Vessel,
+
+(b) Explain design safety and its significance.
+
+(c) Define (i) Design stress (ii) Design pressure (iii) Codes and Standards
+
+(d) Discuss the various material of construction used for pressure vessels
+
+(e) Discuss the different types of flange facings with neat sketches.(12)
+
+2. (a) Explain with various sketches and equations the step by step procedure for
+design of a lug support for pressure vessel. (8)
+
+(b)Show a proportionate drawing to show the vessel mounted on the lug support. (4)
+
+3. (a) Design a reaction vessel with plain jacket with the following data. Design should
+
+include shell thickness and plain jacket thickness. (9)
+Vessel shell internal diameter: 2130 mm
+Jacket internal diameter: 2260 mm
+Jacket length 2000 mm
+
+3
+--- page 2 ---
+Flanged dished head
+
+Internal diameter: 2130 mm
+
+Crown radius: 2130 mm
+
+Knuckle radius: 128 mm
+
+Straight flange length: 60 mm
+Internal Pressure (Shell): 0.55 N/mm?
+Internal Pressure (Jacket): 0.35N/mm?
+Temperature: 150°C
+Material
+Allowable stress: 96 N/mm?
+Modulus of elasticity: 190* 10° N/mm?
+Poisson’s ratio: 0.3
+
+(b) Explain with sketches and equations the designing procedure for a shaft of
+an agitator(3)
+
+4.(a) A cylindrical shell has an internal diameter of 2.5m and is made of plain carbon steel
+with yield strength of 200 N/mm’ and factor of safety of 1.5. Operating pressure inside
+the shell is 0.75 N/mm. Operating conditions demand corrosion allowance for the
+material as 3mm. The joint efficiency factor is 0.85. Determine the thickness and depth
+of the heads if the ends are: (8)
+
+i. Hemispherical
+
+ii. Elliptical (Major axis: Minor axis =2)
+iii. Torispherical (Crown radius as 3m and knuckle radius as 10 % of crown radius)
+iv. Conical with cone angle as 120°
+
+(b) What is nozzle compensation? Why is it required? (4)
+5. Design a U-tube heat exchanger for the following data:
+(1) Sheii side:
+Number of shell = 1
+Number of Pass = 1
+Design pressure = 0.55 N/mm?
+Permissible stress for shell material,Carbon steel = 100 N/mm
+Standard torispherical head with knuckle radius as 6% of crown radius
+25 % cut segmental baffles are provided
+(2) Tube side:
+oe!
+--- page 3 ---
+Number of tubes = 60
+
+Tube outside diameter = 20 mm
+
+Length = 12 m
+
+Design pressure of tube side fluid = 2.0 N/mm?
+Permissible stress of tube material = 120 N/mm*
+
+Tubes pitch = square (25 mm)
+
+(a) Design
+
+1!) Shell ( diameter and thickness) (3)
+ll) Tube sheet thickness (2)
+Il) Channel and channel cover (2)
+
+(b) Draw to a recommended scale the assembly drawing of above given
+
+U-Tube heat exchanger. (5)
+
+6. (a) Explain design procedure for determination of shell thickness at different (7)
+heightsfor a distillation column.
+(b) Discuss types of down comers and weirs with neat sketches. (5)
+7. Write notes on any four (12)
+(a) Types of jackets used in agitation vessel.
+(b) Types of agitators and their application
+(c) Baffles and tierods used in heat exchangers
+(d) Supports for tall vessels
+
+(e) Types of heads used in pressure vessels- advantages and limitations.
+
+3/2
+````
+
 ## 2015-16 · Re-Exam · Sem 6 · paper a71e51b2a011
 
 - Departments: Chemical
@@ -1465,6 +1465,7 @@ support. (4)
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Process Equipment & Accessories Design/PROCESS EQUIPMENT AND ACCESSORIES DESIGN BATCH 2014-2015 Final.pdf`
 - Printed on paper: exam date: 11/05/2015
 - Text: ocr (3 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS “,
@@ -1579,7 +1580,6 @@ Additional data
 Head : Torispherical
 No. of Tie rods 2 04
 Diameter of tie rods : 10mm
-Baffles : segmental baffles (25% cut)
 Thickness of baffle 26mm
 Flanges : Plain faced
 Number of tubes “330
@@ -1641,6 +1641,179 @@ Q.7 Write explanatory notes (Any four) (12)
 (ec) Types of gaskets used in flanged joints & their selection
 
 Page 3 of 3
+````
+
+## 2014-15 · Re-Exam · Trim 6 · paper 132e0673522f
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Process equipment & accessories design/Process Equipments & Accessories Design Re Exam Batch 200001 (1).pdf`
+- Printed on paper: exam date: 23/03/2015
+- Text: ocr (5 pages), mean OCR confidence 90.0
+
+````text
+\ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CHEMICAL) Year: II gait ot
+i ene
+
+Academic Year: 2014-15 af
+Mm PSTME i /
+Batch:2012-13 Quen =
+
+Subject : Process Equipments & Accessories Design Marks: . t arian GanveR® eae *
+\ Date : 23/03/2015 unin h (hrs) po-in
+Re-Examination
+Instructions:
+(i)Question No. 1 is compulsory.
+(ii)Attempt any four questions from the remaining six questions.
+(iii) Figures to the right indicate full marks.
+(iv)Use of Codes /data sheets permissible.
+(v)Use drawing sheets for answering questions involving drawings.
+
+(vi)Illustrate your answers with neat, appropriate sketches.
+
+(vii)Assume any additional data if required, with due justification.
+
+Ql1.a) Discuss the procedure of designing the trays, down comers and tray supports for a distillation (5)
+column.
+b) Explain the procedure of designing the nozzle for a process vessel. Indicate the method of fixing (5)
+the nozzle to the shell wall, with the help of neat sketches.
+c) Explain factor of safety and its significance in achieving design safety .What are the criteria in (5)
+deciding the safety factor?
+d) Briefly explain the various types of heat exchangers, their advantages, limitations and areas of (5)
+applications.
+Q2.a) Design the ring pad dimensions required for compensating a nozzle opening in the cylindrical shell (15)
+of a chemical vessel from the following data.
+
+s Outside diameter of the shell
+--- page 2 ---
+.* Maximum working pressure
+
+Shell.wall.thickness
+
+—=, 50mm
+Corrosion allowance   =-==-=-- 3mm |
+f i
+Vessel type ---------Class | i
+
+Allowable stress in shell & nozzle materials: 96 MN/m? |
+
+Outside diameter of nozzle
+Nozzle wall thickness
+Length of nozzle above shell surface---100 mm
+The nozzle is seamless and inside protrusion of the nozzle is not desired.
+
+b). Prepare a proportionate drawing showing the shell, nozzle and reinforcement pad in position along (5)
+
+with the welding details.
+
+Q3. a) A chemical pressure vessel is to be designed for the following specifications: (15)
+Shell:
+Material----------------- : Stainless Steel
+Permissible stress -------- :120x10° N/m?
+Internal diameter -------- 1400 mm
+
+Internal operating pressure :0.3x10° N/m?
+
+Head:
+
+Material----------------- : Stainless Steel
+TYPe settee : Torispherical
+Internal diameter -------- 1400 mm
+Flanges:
+Material----------------- : Carbon Steel
+Permissible stress -------- : 90x10° N/m?
+Outside diameter --------- 1525 mm
+
+2/5
+--- page 3 ---
+Outside diameter of raised face --------- 21450 mm
+Flange thickness ---------- 48 mm
+Bolts:
+Number of bolts --------- 52
+Bolt size ------------- M-20
+Bolt material ---------- : Hot rolled Carbon Steel
+Permissible stress -------- > 55x10° N/m?
+Gasket:
+Material --------- Asbestos
+Minimum design seating stress: ---------- 11.2x10° N/m?
+Gasket Factor ------------------- 2
+Nozzle:
+
+Location ----
+
+Internal diameter --------
+
+Material
+Thickness
+Design the shell and head with relevant details.
+
+b). Prepare a proportionate drawing showing the assembly of the vessel, mounted on toa bracket (5)
+
+support.
+Q4.a) The following data refer to an agitator vessel: (15)
+Vessel diameter ----------- : 1600 mm
+Diameter of agitator -------- 600 mm
+Maximum speed ------------ 250 rpm
+Specific gravity of liquid in the vessel-------- 1.4
+Viscosity of liquid in the vessel-------- :580 CP
+--- page 4 ---
+Overhang of agitator from bearing support: 1000 mm
+
+Number of blades ----------- “6
+Width of blades ----------- 65mm
+Thickness of blades ----------- 10mm
+
+Elastic Limit in tension for material of Shaft: 260x10° N/m?
+Modulus of elasticity for shaft material: 210x10° N/m*
+
+Safe shear stress in shaft material: 50 N/mm?
+
+Permissible crushing stress in key
+
+Permissible shear stress in key
+
+Power Number
+
+Gland losses
+
+Transmission losses
+
+Operating internal pressure
+
+Number of baffles at vessel wall
+Design the agitator shaft and the blade assembly.
+
+b). Prepare a proportionate drawing depicting the details of blade assembly secured on to the shaft witha (5)
+
+rectangular key.
+
+Q5. a) Explain with relevant details and sketches, design procedure for a horizontal straight tube heat (15)
+
+exchanger .The design procedure should include design of shell, tube sheet, tubes and tie rods
+
+with baffles.
+b). Prepare a proportionate drawing depicting the details of the tube bundle assembly. (5)
+Q6. a) Explain with the help of neat diagrams, the procedure for designing a skirt support for a tall (15)
+
+distillation column ,considering the wind load and seismic loads, in addition to other normal loads.
+--- page 5 ---
+b). Prepare a neat proportionate drawing of the skirt support connected to the vessel and concrete (5)
+
+foundation
+
+Q7. Write explanatory notes: - (Any four) (20)
+a) Flange Coupling
+b) Types of gaskets — materials and selection
+c) Baffles in agitator systems
+d) Reaction vessels under external pressure
+e) Methods of fixing tubes to tube sheets
+
+XO
+
+S/S”
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper 2a119a50de89
@@ -1793,7 +1966,7 @@ Page 2 of 2
 (12)
 ````
 
-## 2012-13 · Exam not stated · Trim 6 · paper ea5e86c74681
+## 2013-14 · Exam not stated · Trim 6 · paper ea5e86c74681
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -1989,7 +2162,7 @@ Q7. Write short notes on the following :- (Any Four) (20)
 Page 4 of 4
 ````
 
-## 2012-13 · Exam not stated · Trim 6 · paper fc7248d8ee8b
+## 2013-14 · Exam not stated · Trim 6 · paper fc7248d8ee8b
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -2518,6 +2691,98 @@ a
 a
 ````
 
+## 2010-11 · Exam not stated · Trim 6 · paper cc98a01f2e50
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Process equipment & accessories design/PROCESS EQUIPMENT AND ACCESSORIES DESIGN.pdf`
+- Printed on paper: exam date: 11/05/2011
+- Text: ocr (2 pages), mean OCR confidence 93.6
+
+````text
+\ SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA (TECH)-Chemical Year: I Trimester:
+Academic Year : 2010-2011
+
+Subject: Process Equipment & Marks:
+Accessories Design Time:
+Date: 11/05/2011 Duration:
+
+Final - Examination
+
+paper and on the cover of the Answer Books, which is provided f0
+NB:
+1. All questions are compulsory
+2. All questions carry equal marks.
+3. Figures in bracket on the right side indicate full marks.
+4. Answer to each question must start on a new page.
+5. Diagrams drawn to scale should be drawn on drawing sheets.
+
+Q.1. Answer the following questions. (20)
+
+a) Explain Skirt support.
+
+b) Write a note on vessel operating at elevated temperature.
+c) Explain types of heads.
+
+d) How is spherical shell thickness calculated.
+
+Q.2. a) Explain liquid dye penetrant test. (10)
+b) Explain Ultrasonic inspection. (10)
+
+Q.3. A flange with flat gasket has to be designed for a pressure vessel with the following
+dimensions. (20)
+
+shell ID = 1200 mm
+
+shell thickness = 4 mm
+
+Operating temperature = 200 c
+
+Design pressure = 0.315 N | mm ”
+Permissible stress for flange = 95 N | mm
+Permissible stress for bolts = 54.5 N | mm 7 (50°c) & 58.7 N | mm ? (200°c)
+Gasket factor = 2
+
+Gasket seating stress = 11.2 N| mm?
+
+2
+
+Find all the required dimensions and draw the flange to scale.
+
+Q.4. A pressure vessel of Cylindrical shell of 1200mm diameter is provided with a nozzle
+having an opening of 125mm diameter. The thickness of the shell is 8mm and that of
+the nozzle is 12mm. The internal design pressure in the shell is 0.84 MPa. The
+permissible tensile stress for shell and nozzle is 80 MPa. Nozzle is constructed of a
+seamless pipe. Design the reinforcement pad and draw the same to scale. (20)
+
+h.
+--- page 2 ---
+Q4. a) Draw and explain Delta Gun Picture Tube. Explain purity and convergence.
+What are the drawbacks of this tube. [10]
+
+b) Describe the construction of the color camera and its optical system using
+
+dichroic prisms or mirrors. 10]
+Q5. a) Draw and explain Composite video signal [10]
+b) Write a note on advances in TV system. [10]
+
+Q6. a) Draw the block diagram af a TV receiver. Sketch signal waveform at
+
+various points and indicate the function of each stage briefly. Identify the
+
+positions of functions controls. [10]
+
+b) What is AGC? Explain various types of AGC. [10]
+
+Q7. a) Explain with diagram frequency interleaving used in calor TV. [10]
+b) Explain trouble shooting procedure for TV receiver. [10]
+
+fa.
+````
+
 ## 2010-11 · Exam not stated · Trim 6 · paper ce7195dffa36
 
 - Departments: Chemical
@@ -2710,6 +2975,7 @@ Q.7 Write short notes on: - (20)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Process equipment & accessories design/2008-2009(54).pdf`
 - Printed on paper: duration hours: 4
 - Text: ocr (4 pages), mean OCR confidence 80.8
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -2825,8 +3091,6 @@ Apvrenpix - F
 Charts for Determining Skell Thickness of Cylindrical and Spherical
 Vessels Under External Pressure for Some Common Materials as Per 1S8:2825-4969
 
-50 6 STSTsS( ST SITs eros TT Th QMO
-BSHEN- SL SHE-sitststs HTS T Hetetttite aa .
 40 in rua are] apis ta a FIBRES ae
 35 5 Tats “Sits SH ne reHatt 2 '8S000-
 30 2 iL! 30000
@@ -2850,7 +3114,6 @@ B 3.5 NSN 4 3500
 7 OANA \ \_\
 g 3.010) KN NIK Ny Ay \ 3000
 3 5 5\DeNA NN N 2500
-ae i) XT TY WK) NAIXN
 Xx 2.0-—-NS < NN N NH EPL 2000 m
 ~ he ENENANY SAAT aN 1600 =
 te 14 N SKUNEN x \ 1400 2
@@ -2864,9 +3127,7 @@ i me ISNA 3
 2 7 AN \ AVA GAN Nh
 io Uf AN CONAN TUN SCIINTS \ aad
 5 0.40 Wi kg A \ STN 400
-0.35 t Wi ; ; ‘ N va Q Yi X Nd 350
 0.30 }#—- ; N N 300
-0.25 Ay NK \ M it NERS iN 250
 520| HL | WN NAA AK \ \ NTN 00
 0.20 AN WAN CN ERITH 780
 0.16 Ye SIAN A A 160
@@ -2904,6 +3165,7 @@ x —*
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Process equipment & accessories design/2008-2009 re exam(27).pdf`
 - Printed on paper: max marks: 100; duration hours: 4; exam date: 30-05 2009
 - Text: ocr (3 pages), mean OCR confidence 78.2
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -3040,15 +3302,10 @@ Appenoix - F_
 
 harts fer Determining Sheli Thickness of Cylindrical and Spherical
 
-59 ersrsty st sey ater ott) OT re
-foils miinticl clropoltslitotmiio wiitilo H
-(CNCIAN <[Tejj<?T off oF sfis aTN TIN oa ie 1 i
 aru Daw a I 8 u
 
 + = i
 
-35 tstisy pom diel wlethalelie i
-3 arid Nata 2 aif al cl a ial ala oe a a ii
 | WP ta
 
 <= =
@@ -3059,13 +3316,10 @@ FAmnnlal | mae
 16 yi c oF Upto 150°C
 
 : 0,
-ASAE ERLE SLIDE eng tee cece
 a 4 a
 
-40 aA \ LY at LT <T tl | 425 °c]
 \ L¥ wn = DH L475 °C
 
-BN N ae | LH ae {
 B\e \ \ eK \ 04 pea | |e | |
 
 7.0 [ASN hte TY TI
@@ -3482,6 +3736,7 @@ Q.7 Write short notes on:- (20)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Process equipment & accessories design/2006-2007(23).pdf`
 - Printed on paper: max marks: 100; exam date: 23/4/07
 - Text: ocr (2 pages), mean OCR confidence 91.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMC?S
@@ -3503,7 +3758,6 @@ Q.1 is compulsory & attempt any three questions out of the remaining four.
 Figure to right indicates the marks allotted to the question.
 Draw neat sketch wherever necessary.
 Assume suitable data if necessary.
-Tetel numer = Kiutav ews Five-
 4a 1 (a) Explain what is design pressure? How it is different from the actual pressure? How 10
 the design pressure can be calculated from the actual pressure?
 
@@ -3658,269 +3912,4 @@ iii) Saddle Support
 iv) Non destructive tests for process vessels.
 
 ek
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper cc98a01f2e50
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Process equipment & accessories design/PROCESS EQUIPMENT AND ACCESSORIES DESIGN.pdf`
-- Printed on paper: exam date: 11/05/2011
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-\ SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA (TECH)-Chemical Year: I Trimester:
-Academic Year : 2010-2011
-
-Subject: Process Equipment & Marks:
-Accessories Design Time:
-Date: 11/05/2011 Duration:
-
-Final - Examination
-
-paper and on the cover of the Answer Books, which is provided f0
-NB:
-1. All questions are compulsory
-2. All questions carry equal marks.
-3. Figures in bracket on the right side indicate full marks.
-4. Answer to each question must start on a new page.
-5. Diagrams drawn to scale should be drawn on drawing sheets.
-
-Q.1. Answer the following questions. (20)
-
-a) Explain Skirt support.
-
-b) Write a note on vessel operating at elevated temperature.
-c) Explain types of heads.
-
-d) How is spherical shell thickness calculated.
-
-Q.2. a) Explain liquid dye penetrant test. (10)
-b) Explain Ultrasonic inspection. (10)
-
-Q.3. A flange with flat gasket has to be designed for a pressure vessel with the following
-dimensions. (20)
-
-shell ID = 1200 mm
-
-shell thickness = 4 mm
-
-Operating temperature = 200 c
-
-Design pressure = 0.315 N | mm ”
-Permissible stress for flange = 95 N | mm
-Permissible stress for bolts = 54.5 N | mm 7 (50°c) & 58.7 N | mm ? (200°c)
-Gasket factor = 2
-
-Gasket seating stress = 11.2 N| mm?
-
-2
-
-Find all the required dimensions and draw the flange to scale.
-
-Q.4. A pressure vessel of Cylindrical shell of 1200mm diameter is provided with a nozzle
-having an opening of 125mm diameter. The thickness of the shell is 8mm and that of
-the nozzle is 12mm. The internal design pressure in the shell is 0.84 MPa. The
-permissible tensile stress for shell and nozzle is 80 MPa. Nozzle is constructed of a
-seamless pipe. Design the reinforcement pad and draw the same to scale. (20)
-
-h.
---- page 2 ---
-Q4. a) Draw and explain Delta Gun Picture Tube. Explain purity and convergence.
-What are the drawbacks of this tube. [10]
-
-b) Describe the construction of the color camera and its optical system using
-
-dichroic prisms or mirrors. 10]
-Q5. a) Draw and explain Composite video signal [10]
-b) Write a note on advances in TV system. [10]
-
-Q6. a) Draw the block diagram af a TV receiver. Sketch signal waveform at
-
-various points and indicate the function of each stage briefly. Identify the
-
-positions of functions controls. [10]
-
-b) What is AGC? Explain various types of AGC. [10]
-
-Q7. a) Explain with diagram frequency interleaving used in calor TV. [10]
-b) Explain trouble shooting procedure for TV receiver. [10]
-
-fa.
-````
-
-## Year not stated · Re-Exam · Trim 6 · paper 132e0673522f
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM VI/Process equipment & accessories design/Process Equipments & Accessories Design Re Exam Batch 200001 (1).pdf`
-- Printed on paper: exam date: 23/03/2015
-- Text: ocr (5 pages), mean OCR confidence 90.0
-
-````text
-\ SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CHEMICAL) Year: II gait ot
-i ene
-
-Academic Year: 2014-15 af
-Mm PSTME i /
-Batch:2012-13 Quen =
-
-Subject : Process Equipments & Accessories Design Marks: . t arian GanveR® eae *
-\ Date : 23/03/2015 unin h (hrs) po-in
-Re-Examination
-Instructions:
-(i)Question No. 1 is compulsory.
-(ii)Attempt any four questions from the remaining six questions.
-(iii) Figures to the right indicate full marks.
-(iv)Use of Codes /data sheets permissible.
-(v)Use drawing sheets for answering questions involving drawings.
-
-(vi)Illustrate your answers with neat, appropriate sketches.
-
-(vii)Assume any additional data if required, with due justification.
-
-Ql1.a) Discuss the procedure of designing the trays, down comers and tray supports for a distillation (5)
-column.
-b) Explain the procedure of designing the nozzle for a process vessel. Indicate the method of fixing (5)
-the nozzle to the shell wall, with the help of neat sketches.
-c) Explain factor of safety and its significance in achieving design safety .What are the criteria in (5)
-deciding the safety factor?
-d) Briefly explain the various types of heat exchangers, their advantages, limitations and areas of (5)
-applications.
-Q2.a) Design the ring pad dimensions required for compensating a nozzle opening in the cylindrical shell (15)
-of a chemical vessel from the following data.
-
-s Outside diameter of the shell
---- page 2 ---
-.* Maximum working pressure
-
-Shell.wall.thickness
-
-—=, 50mm
-Corrosion allowance   =-==-=-- 3mm |
-f i
-Vessel type ---------Class | i
-
-Allowable stress in shell & nozzle materials: 96 MN/m? |
-
-Outside diameter of nozzle
-Nozzle wall thickness
-Length of nozzle above shell surface---100 mm
-The nozzle is seamless and inside protrusion of the nozzle is not desired.
-
-b). Prepare a proportionate drawing showing the shell, nozzle and reinforcement pad in position along (5)
-
-with the welding details.
-
-Q3. a) A chemical pressure vessel is to be designed for the following specifications: (15)
-Shell:
-Material----------------- : Stainless Steel
-Permissible stress -------- :120x10° N/m?
-Internal diameter -------- 1400 mm
-
-Internal operating pressure :0.3x10° N/m?
-
-Head:
-
-Material----------------- : Stainless Steel
-TYPe settee : Torispherical
-Internal diameter -------- 1400 mm
-Flanges:
-Material----------------- : Carbon Steel
-Permissible stress -------- : 90x10° N/m?
-Outside diameter --------- 1525 mm
-
-2/5
---- page 3 ---
-Outside diameter of raised face --------- 21450 mm
-Flange thickness ---------- 48 mm
-Bolts:
-Number of bolts --------- 52
-Bolt size ------------- M-20
-Bolt material ---------- : Hot rolled Carbon Steel
-Permissible stress -------- > 55x10° N/m?
-Gasket:
-Material --------- Asbestos
-Minimum design seating stress: ---------- 11.2x10° N/m?
-Gasket Factor ------------------- 2
-Nozzle:
-
-Location ----
-
-Internal diameter --------
-
-Material
-Thickness
-Design the shell and head with relevant details.
-
-b). Prepare a proportionate drawing showing the assembly of the vessel, mounted on toa bracket (5)
-
-support.
-Q4.a) The following data refer to an agitator vessel: (15)
-Vessel diameter ----------- : 1600 mm
-Diameter of agitator -------- 600 mm
-Maximum speed ------------ 250 rpm
-Specific gravity of liquid in the vessel-------- 1.4
-Viscosity of liquid in the vessel-------- :580 CP
---- page 4 ---
-Overhang of agitator from bearing support: 1000 mm
-
-Number of blades ----------- “6
-Width of blades ----------- 65mm
-Thickness of blades ----------- 10mm
-
-Elastic Limit in tension for material of Shaft: 260x10° N/m?
-Modulus of elasticity for shaft material: 210x10° N/m*
-
-Safe shear stress in shaft material: 50 N/mm?
-
-Permissible crushing stress in key
-
-Permissible shear stress in key
-
-Power Number
-
-Gland losses
-
-Transmission losses
-
-Operating internal pressure
-
-Number of baffles at vessel wall
-Design the agitator shaft and the blade assembly.
-
-b). Prepare a proportionate drawing depicting the details of blade assembly secured on to the shaft witha (5)
-
-rectangular key.
-
-Q5. a) Explain with relevant details and sketches, design procedure for a horizontal straight tube heat (15)
-
-exchanger .The design procedure should include design of shell, tube sheet, tubes and tie rods
-
-with baffles.
-b). Prepare a proportionate drawing depicting the details of the tube bundle assembly. (5)
-Q6. a) Explain with the help of neat diagrams, the procedure for designing a skirt support for a tall (15)
-
-distillation column ,considering the wind load and seismic loads, in addition to other normal loads.
---- page 5 ---
-b). Prepare a neat proportionate drawing of the skirt support connected to the vessel and concrete (5)
-
-foundation
-
-Q7. Write explanatory notes: - (Any four) (20)
-a) Flange Coupling
-b) Types of gaskets — materials and selection
-c) Baffles in agitator systems
-d) Reaction vessels under external pressure
-e) Methods of fixing tubes to tube sheets
-
-XO
-
-S/S”
 ````

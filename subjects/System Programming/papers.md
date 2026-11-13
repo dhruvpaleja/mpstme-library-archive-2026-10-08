@@ -1,103 +1,10 @@
 # System Programming: question papers in full
 
-26 unique papers · 2013-14 to 2021-22 · Computer Engineering
+26 unique papers · 2013-14 to 2023-24 · Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2021-22 · Final-Exam · Sem 4 · paper 43dbd490bd15
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/SYSTEM PROGRAMMING/Systme Programming 2021-22 Final0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 April 2022
-- Text: ocr (2 pages), mean OCR confidence 88.4
-
-````text
-SVKM’s NMIMS
-
-Academic Year: 2021-22
-
--
-Programme: B.Tech Integrated (Computer) Year: II Semester: IV a
-Subject: System Programming
-Marks: 100
-
-Date: 12 April 2022 Time: 10.00 am - 01.00 pm
-. » Durations: 3 (Hrs)
-No. of Pages: 2
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) In all___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly:
-A | Classify the grammar on the basis of production using suitable examples. [05]
-B_ | Explain the basic functioning of an assembler along with its advantages and [05]
-disadvantages.
-C_ | List and write in brief the various data structures used in the design of a [05]
-macro processor.
---D__| Classify and explain in brief the types of top down parsing techniques. [05]
-Qe A Illustrate the algorithm and flowchart of pass! of assembler. [10]
-B__| Discuss the different phases of a Compiler with the help of a suitable [10]
-example
-= A _| For the given grammar ; [10] |
-Q3 E>TX
-X=+E
-
-if.
---- page 2 ---
-XE
-
-T— int Y
-
-T(E)
-
-Y>*T
-
-Y = €
-
-i) Calculate First and Follow
-
-ii) Construct the parsing table
-
-Explain Intermediate code generation and code optimization with suitable [10]
-examples.
-Q4 Describe the basic task of macro processor. Classify conditional macro in [10]
-detail.
-Differentiate between Macro and Subroutine. [10]
-Q5 . . . . [10]
-Explain the concept of dynamic loading and dynamic linking.
-Describe any two loading schemes in detail. [10]
-For the given grammar [10]
-S$ ->A
-Q6 $->(S* A)
-A -> id
-i) Construct the parsing table
-ii) Parse the given string (id*id)
-[10]
-
-Considering the string “10201”, parse the given string using a shift-reduce
-
-parser for the following grammar S — 0S0 | 1S1 | 2
-
-2/2.
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper 93c58e57caaf
+## 2023-24 · Re-Exam · Sem 4 · paper 93c58e57caaf
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -178,108 +85,7 @@ Discuss the analysis and synthesis phase of language processor
 Write a note on LEX tool [10]
 ````
 
-## 2021-22 · Re-Exam · Sem 4 · paper 68e1e6a02a1a
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/SYSTEM PROGRAMMING/System Programming Batch 2021-22 Re Exam0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2022
-- Text: ocr (2 pages), mean OCR confidence 88.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-
-Academic Year: 2021-22
-
-Programme: B.Tech Integrated (Computer) Year: II
-
-Semester: IV
-
-Subject: System Programming
-
-Marks: 100
-
-Time: 10.00 am to 1.00pm
-Durations: 3 (Hrs)
-
-No. of Pages: _©O2
-Re-Examination (2021-22)
-
-Date: 08 June 2022
-
-Instructions: Candidates should read carefully the instructions printed on the quesiion paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly:
-A | Explain the following terms in brief:
-(i) Grammar
-wo [05]
-(ii) Derivation
-(iii) Parse tree .
-B_ | Describe the concept of Relocation [05]
-C | Discuss the format of the data structures used in the design of a macro processor [05]
-D_ | Distinguish between a top-down parser and a bottom-up parser [05]
-2
-a ms Explain the pass-2 algorithm of an Assembler along with a neat flowchart. f10]
-B_ | Discuss the different phases of a Compiler with the help of a suitable example [10]
-Q3 | A | For the given Grammar, [10]
-
-th
---- page 2 ---
-E—+ TE
-
-Eo 4+TE |e
-
-T — FT
-
-Tos *FT'\e
-
-F — (E£) |id| num
-
-i) Calculate First and Follow sets
-
-ii) Construct the predictive parsing table
-
-Discuss the need for System programs. Explain the analysis and synthesis
-
-phase of a Language processor [10]
-Q4 Illustrate the use of a macro with the help of a suitable example. Discuss the [10]
-different features of a macro facility
-Explain Pass-1 and Pass-2 algorithms of a macro processor along with the [10]
-specification of data structures used in each pass.
-Q5 n
-Explain the concept of dynamic loading and dynamic linking. [10]
-What are the basic functions of a Loader? Explain any two loader schemes in
-detail [10]
-Explain Left Recursion and left factoring. For the given grammar, eliminate
-Q6 left recursion
-X— XSb|Sa|b [10]
-S— Sb | Xala
-Consider the following grammar: ,
-E—E+T|T|E-T
-*F |F|T/F
-TOT*F |F| [10]
-
-F — (E) | id| num
-
-Apply Shift-Reduce Parsing technique to parse the string num1+num2*num3
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper 1901e3ebd96b
+## 2022-23 · Re-Exam · Sem 4 · paper 1901e3ebd96b
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -415,7 +221,7 @@ an Interpreter
 [10]
 ````
 
-## 2021-22 · Re-Exam · Sem 4 · paper 55ea1e04ba66
+## 2022-23 · Re-Exam · Sem 4 · paper 55ea1e04ba66
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -506,6 +312,200 @@ Justify the need for system programs. Distinguish between system
 programs and application programs
 
 [10]
+````
+
+## 2021-22 · Final-Exam · Sem 4 · paper 43dbd490bd15
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/SYSTEM PROGRAMMING/Systme Programming 2021-22 Final0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 April 2022
+- Text: ocr (2 pages), mean OCR confidence 88.4
+
+````text
+SVKM’s NMIMS
+
+Academic Year: 2021-22
+
+-
+Programme: B.Tech Integrated (Computer) Year: II Semester: IV a
+Subject: System Programming
+Marks: 100
+
+Date: 12 April 2022 Time: 10.00 am - 01.00 pm
+. » Durations: 3 (Hrs)
+No. of Pages: 2
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly:
+A | Classify the grammar on the basis of production using suitable examples. [05]
+B_ | Explain the basic functioning of an assembler along with its advantages and [05]
+disadvantages.
+C_ | List and write in brief the various data structures used in the design of a [05]
+macro processor.
+--D__| Classify and explain in brief the types of top down parsing techniques. [05]
+Qe A Illustrate the algorithm and flowchart of pass! of assembler. [10]
+B__| Discuss the different phases of a Compiler with the help of a suitable [10]
+example
+= A _| For the given grammar ; [10] |
+Q3 E>TX
+X=+E
+
+if.
+--- page 2 ---
+XE
+
+T— int Y
+
+T(E)
+
+Y>*T
+
+Y = €
+
+i) Calculate First and Follow
+
+ii) Construct the parsing table
+
+Explain Intermediate code generation and code optimization with suitable [10]
+examples.
+Q4 Describe the basic task of macro processor. Classify conditional macro in [10]
+detail.
+Differentiate between Macro and Subroutine. [10]
+Q5 . . . . [10]
+Explain the concept of dynamic loading and dynamic linking.
+Describe any two loading schemes in detail. [10]
+For the given grammar [10]
+S$ ->A
+Q6 $->(S* A)
+A -> id
+i) Construct the parsing table
+ii) Parse the given string (id*id)
+[10]
+
+Considering the string “10201”, parse the given string using a shift-reduce
+
+parser for the following grammar S — 0S0 | 1S1 | 2
+
+2/2.
+````
+
+## 2021-22 · Re-Exam · Sem 4 · paper 68e1e6a02a1a
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/SYSTEM PROGRAMMING/System Programming Batch 2021-22 Re Exam0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2022
+- Text: ocr (2 pages), mean OCR confidence 88.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Computer) Year: II
+
+Semester: IV
+
+Subject: System Programming
+
+Marks: 100
+
+Time: 10.00 am to 1.00pm
+Durations: 3 (Hrs)
+
+No. of Pages: _©O2
+Re-Examination (2021-22)
+
+Date: 08 June 2022
+
+Instructions: Candidates should read carefully the instructions printed on the quesiion paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly:
+A | Explain the following terms in brief:
+(i) Grammar
+wo [05]
+(ii) Derivation
+(iii) Parse tree .
+B_ | Describe the concept of Relocation [05]
+C | Discuss the format of the data structures used in the design of a macro processor [05]
+D_ | Distinguish between a top-down parser and a bottom-up parser [05]
+2
+a ms Explain the pass-2 algorithm of an Assembler along with a neat flowchart. f10]
+B_ | Discuss the different phases of a Compiler with the help of a suitable example [10]
+Q3 | A | For the given Grammar, [10]
+
+th
+--- page 2 ---
+E—+ TE
+
+Eo 4+TE |e
+
+T — FT
+
+Tos *FT'\e
+
+F — (E£) |id| num
+
+i) Calculate First and Follow sets
+
+ii) Construct the predictive parsing table
+
+Discuss the need for System programs. Explain the analysis and synthesis
+
+phase of a Language processor [10]
+Q4 Illustrate the use of a macro with the help of a suitable example. Discuss the [10]
+different features of a macro facility
+Explain Pass-1 and Pass-2 algorithms of a macro processor along with the [10]
+specification of data structures used in each pass.
+Q5 n
+Explain the concept of dynamic loading and dynamic linking. [10]
+What are the basic functions of a Loader? Explain any two loader schemes in
+detail [10]
+Explain Left Recursion and left factoring. For the given grammar, eliminate
+Q6 left recursion
+X— XSb|Sa|b [10]
+S— Sb | Xala
+Consider the following grammar: ,
+E—E+T|T|E-T
+*F |F|T/F
+TOT*F |F| [10]
+
+F — (E) | id| num
+
+Apply Shift-Reduce Parsing technique to parse the string num1+num2*num3
 ````
 
 ## 2018-19 · Final + Re-Exam · Sem 6 · paper f0755a0c7583
@@ -1166,6 +1166,201 @@ F>(E)
 F- id
 ````
 
+## 2017-18 · Re-Exam · Sem 4 · paper 283a44dd76a2
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/SYSTEMS PROGRAMMING/SYSTEM_PROGRAMMING_B TECH COMPUTER BATCH_16-17_RE_EXAM_.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 03 July 2018
+- Text: ocr (2 pages), mean OCR confidence 85.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Computer) Year: II Semester: IV
+
+Batch: 2016-17
+< Academic Year: 2017-2018
+
+Subject: System Programming i
+| “ Marks: 70 ~-
+Date: 03 July 2018 Time: 10.00 am to 1.00 pm v
+f - Durations: 3 (Hrs) .
+No. of Pages: __ 62
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover.of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql. a) | What is System Software and System Programming? Enlist various tasks [3]
+| performed by System Programs. : :
+
+b) | What are the steps followed in the design of Assembler? / [3]
+
+c) | Draw syntax tree for given statement, [4]
+
+“The Student Studies Hard”.
+
+d) “What are aspects of compilation? Explain any one PL feature which contributes to [4]
+semantic gap between a PL domain and an execution domain.
+
+Q2. a) i. What is loader? How it works? Explain with diagram. [8]
+ii. What is linker? Explain process of linking of program.
+b) Explain following models with respect to Program Execution [6]
+i. Program Translation
+il. Program Interpretation
+Q3. a) Explain different features of Macro facilities. [7]
+b) | What are key features of Java language environment? Explain java language [7]
+— environment with neat sketch.
+Q4. a) Construct LALR (1) parsing table for following grammar G. [10]
+se SDAA
+ADdaA
+ADb ee
+b) | What Databases are used by two passes of Macro Processor? [4]
+
+Page 1/2
+--- page 2 ---
+Q5. a) Differentiate Between _ — - [8]
+
+i. Compiler and Interpreter
+: ii. Macros and Functions
+b) What is LEX & YACC? Explain working of LEX and YACC compiler. [6]
+Q6. a) Discuss the action taken by every phase of compiler on the following instruction of [7]
+source program while compilation,
+c=atb*c 7 : .
+b) Draw and explain flowchart of Pass-1 assembler. [7]
+Q.7. a) | What is SPARC Assembler? Explain in details. [7]
+b) | What is Dynamic Linking? Explain with neat sketch. [7]
+NM _ x
+
+Page 2/2
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 8f78c585e45c
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_06/SYSTEM PROGRAMMING/System Programming Batch 2016-17 Re Exam_8f78c585e4.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 June 2018
+- Text: ocr (2 pages), mean OCR confidence 91.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING ;
+Program: B.Tech Integrated (Computer) Year: II Semester : VI
+
+AcademicYear: 2017-2018
+
+Subject: System Programming ,
+Marks: 60
+
+Date : 30 June 2018 Time: 10.00 am to 1.00 pm
+Durations:3 (Hrs)
+
+No. of Pages:_ 62
+Re-Examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted. :
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Answer any three of the following.
+a) Explain the functions of Loader
+b) What is system software and application software?
+c) Explain Macro with suitable example .
+d) List first two phases of compiler and with their functions
+
+e) What are the translators? List any two translators.
+
+Q.2 a) Draw and explain the flowchart of assembler Pass-I
+
+b) Explain the design steps of assembler pass -II
+
+OVA
+
+&
+--- page 2 ---
+Q:3.
+
+Q.4.
+
+Q.5.
+
+Q.6
+
+Q7
+
+a)
+
+b)
+
+a)
+b)
+
+a)
+
+b)
+
+a)
+b)
+
+a)
+
+Explain the use of compiler and explain code optimization phase of compiler in detail with suitable
+diagram
+
+Explain the lexical analysis with suitable example
+
+What is Macro? Explain Macro expansion with example.
+
+Differentiate between Static and Dynamic Linking.
+
+Explain TOP DOWN and BOTTOM UP Parsing techniques with examples
+
+Explain LEX and YACC
+
+Draw and explain Absolute Loader and General Loader scheme
+
+Explain fundamentals of language processing
+
+Write a short note on
+
+a) Interpreter
+b) Run Time Storage Organization
+
+c) Bootstrap Loader
+
+—
+2+, _
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper be440956a2c6
 
 - Departments: Computer Engineering
@@ -1490,92 +1685,6 @@ z
 Generates string idtid*id.
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper 283a44dd76a2
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/SYSTEMS PROGRAMMING/SYSTEM_PROGRAMMING_B TECH COMPUTER BATCH_16-17_RE_EXAM_.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 03 July 2018
-- Text: ocr (2 pages), mean OCR confidence 85.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Computer) Year: II Semester: IV
-
-Batch: 2016-17
-< Academic Year: 2017-2018
-
-Subject: System Programming i
-| “ Marks: 70 ~-
-Date: 03 July 2018 Time: 10.00 am to 1.00 pm v
-f - Durations: 3 (Hrs) .
-No. of Pages: __ 62
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover.of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql. a) | What is System Software and System Programming? Enlist various tasks [3]
-| performed by System Programs. : :
-
-b) | What are the steps followed in the design of Assembler? / [3]
-
-c) | Draw syntax tree for given statement, [4]
-
-“The Student Studies Hard”.
-
-d) “What are aspects of compilation? Explain any one PL feature which contributes to [4]
-semantic gap between a PL domain and an execution domain.
-
-Q2. a) i. What is loader? How it works? Explain with diagram. [8]
-ii. What is linker? Explain process of linking of program.
-b) Explain following models with respect to Program Execution [6]
-i. Program Translation
-il. Program Interpretation
-Q3. a) Explain different features of Macro facilities. [7]
-b) | What are key features of Java language environment? Explain java language [7]
-— environment with neat sketch.
-Q4. a) Construct LALR (1) parsing table for following grammar G. [10]
-se SDAA
-ADdaA
-ADb ee
-b) | What Databases are used by two passes of Macro Processor? [4]
-
-Page 1/2
---- page 2 ---
-Q5. a) Differentiate Between _ — - [8]
-
-i. Compiler and Interpreter
-: ii. Macros and Functions
-b) What is LEX & YACC? Explain working of LEX and YACC compiler. [6]
-Q6. a) Discuss the action taken by every phase of compiler on the following instruction of [7]
-source program while compilation,
-c=atb*c 7 : .
-b) Draw and explain flowchart of Pass-1 assembler. [7]
-Q.7. a) | What is SPARC Assembler? Explain in details. [7]
-b) | What is Dynamic Linking? Explain with neat sketch. [7]
-NM _ x
-
-Page 2/2
-````
-
 ## 2016-17 · Re-Exam · Sem 6 · paper 20f62e142a9d
 
 - Departments: Computer Engineering
@@ -1645,115 +1754,6 @@ Q.7. b. Write a short note on: 1)YACC 3
 2) LEX
 
 hh
-````
-
-## 2016-17 · Re-Exam · Sem 6 · paper 8f78c585e45c
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_06/SYSTEM PROGRAMMING/System Programming Batch 2016-17 Re Exam_8f78c585e4.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 June 2018
-- Text: ocr (2 pages), mean OCR confidence 91.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING ;
-Program: B.Tech Integrated (Computer) Year: II Semester : VI
-
-AcademicYear: 2017-2018
-
-Subject: System Programming ,
-Marks: 60
-
-Date : 30 June 2018 Time: 10.00 am to 1.00 pm
-Durations:3 (Hrs)
-
-No. of Pages:_ 62
-Re-Examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted. :
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Answer any three of the following.
-a) Explain the functions of Loader
-b) What is system software and application software?
-c) Explain Macro with suitable example .
-d) List first two phases of compiler and with their functions
-
-e) What are the translators? List any two translators.
-
-Q.2 a) Draw and explain the flowchart of assembler Pass-I
-
-b) Explain the design steps of assembler pass -II
-
-OVA
-
-&
---- page 2 ---
-Q:3.
-
-Q.4.
-
-Q.5.
-
-Q.6
-
-Q7
-
-a)
-
-b)
-
-a)
-b)
-
-a)
-
-b)
-
-a)
-b)
-
-a)
-
-Explain the use of compiler and explain code optimization phase of compiler in detail with suitable
-diagram
-
-Explain the lexical analysis with suitable example
-
-What is Macro? Explain Macro expansion with example.
-
-Differentiate between Static and Dynamic Linking.
-
-Explain TOP DOWN and BOTTOM UP Parsing techniques with examples
-
-Explain LEX and YACC
-
-Draw and explain Absolute Loader and General Loader scheme
-
-Explain fundamentals of language processing
-
-Write a short note on
-
-a) Interpreter
-b) Run Time Storage Organization
-
-c) Bootstrap Loader
-
-—
-2+, _
 ````
 
 ## 2015-16 · Final-Exam · Sem 4 · paper e528e0c31446
@@ -1887,67 +1887,84 @@ Computer system? (12)
 Q7. Explain the code optimization process in detail. (12)
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper d186c10fa4b9
+## 2014-15 · Final-Exam · Sem 4 · paper 15e4d1a5db61
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/SYSTEMS PROGRAMMING/SYSTEM PROGRAMMING B TECH (COMP), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: duration hours: 3
-- Text: ocr (1 page), mean OCR confidence 91.8
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/SYSTEMS PROGRAMMING/SYSTEM PROGRAMMING B TECH (COMPUTER), FINAL EXAM.pdf`
+- Printed on paper: exam date: 15/05/2015
+- Text: ocr (2 pages), mean OCR confidence 85.4
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
 Programme: B. Tech (COMP) Year: II Semester: IV
-Batch: 2014-15
 
 Academic Year: 2014-2015
 
-a
+Subject: System Programming RE \ td
+. Marks: fF, oO
+Date: 15/05/2015 Time: {1 ¥ 12.00 ome.
+Durations: { ZthraaRW Je;
+WAS ahs
 
-Subject: System Programming
-: 03/07/2015 Time: * 00 pm to 5.00 pm
-pate pe Durations:, “3 (hrs)
+\§ a eS,
+Final-Examination Nr ’
 
-Re-Examination
+SS!
+Instructions: Candidates should read carefully the instruction printed on the question—paper and
+on the cover of the answer book , which is provided for the use.
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+1. Question 1 is compulsory
 
-NB:
+2. Out of remaining question, attempt any 4 questions
 
-1) Out of 7 remaining questions, attempt any 5 questions.
+3. In all 5 question to be attempted.
 
-2) In all 5 questions to be attempted.
+4. All question carry equal marks.
 
-3) All questions carry equal marks.
+5. Answer to each new question to be started on afresh page.
 
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary
+6. Figure to the right indicate full marks.
 
-Q1. Explain in detail with flowchart the working of a two pass assembler. (12)
-Q2. What is a compiler? Explain the different phases of a compiler with a neat diagram. (12)
-Q3. Explain the working of a 2 pass macro processor with flowcharts (12)
-Q4. Explain LR parser. Elaborate the algorithm with an example. (12)
-QS. Write short notes (any 2) (12)
+7. Assume suitable data whenever necessary
 
-1. Dynamic Linking
-2. Dynamic Loading
-3. LEX
+my
+STwver®
 
-4. YACC
+Q.1 A Explain static and dynamic binding ? 4
+B_ Consider the two regular expressions %
+r=a'+b" s=ab" + ba’ + b'a+ (a‘b)*
+a. Find a string corresponding to r but not to s.
+b. Find a string corresponding to s but not to r.
 
-Q6. What is system software? What is the importance of system software in a .
-Computer system i (12)
+c. Find a string corresponding to both r and s.
+d. Find a string in {a, b}* corresponding to neither r nor s.
 
-Q7. Explain the code optimization process. (12)
+C_ Explain bootstrap loader. : >
 
-Z /4.
+D What is LEX and YACC. . >
+Q.2 Explain Language processing activities ? a
+03 Explain syntax directed translation. , fer
+Q4 A Explain design of single pass assembler. Ob
+
+B_ What is system administrator? Explain function of administrator. 06
+
+4/2
+--- page 2 ---
+Q.5 Explain liking editor, dynamic loading and dynamic linking. [12]
+Q.6 Explain the Design of two pass macro processor , [12]
+
+Q.7__ A) Explain lexical analysis, syntax analysis, semantic analysis, [6]
+Intermediate code generation, code optimization and code generation. .
+
+B) Translate C= a + b * c/d into quadruples, teriples and postfix form [6]
+
+—_— xX —7
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper a99640bdc947
+## 2014-15 · Re-Exam · Sem 4 · paper a99640bdc947
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
@@ -2026,6 +2043,66 @@ Q.7 Short notes on any 4:
 (e) Static verses Dynamic Storage allocation ()
 
 1/4
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper d186c10fa4b9
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/SYSTEMS PROGRAMMING/SYSTEM PROGRAMMING B TECH (COMP), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (1 page), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: II Semester: IV
+Batch: 2014-15
+
+Academic Year: 2014-2015
+
+a
+
+Subject: System Programming
+: 03/07/2015 Time: * 00 pm to 5.00 pm
+pate pe Durations:, “3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Out of 7 remaining questions, attempt any 5 questions.
+
+2) In all 5 questions to be attempted.
+
+3) All questions carry equal marks.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary
+
+Q1. Explain in detail with flowchart the working of a two pass assembler. (12)
+Q2. What is a compiler? Explain the different phases of a compiler with a neat diagram. (12)
+Q3. Explain the working of a 2 pass macro processor with flowcharts (12)
+Q4. Explain LR parser. Elaborate the algorithm with an example. (12)
+QS. Write short notes (any 2) (12)
+
+1. Dynamic Linking
+2. Dynamic Loading
+3. LEX
+
+4. YACC
+
+Q6. What is system software? What is the importance of system software in a .
+Computer system i (12)
+
+Q7. Explain the code optimization process. (12)
+
+Z /4.
 ````
 
 ## 2013-14 · Re-Exam · Sem 4 · paper dd7bfc8e24da
@@ -2297,81 +2374,4 @@ E=+ (EB)
 F - id
 
 2/2.
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper 15e4d1a5db61
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/SYSTEMS PROGRAMMING/SYSTEM PROGRAMMING B TECH (COMPUTER), FINAL EXAM.pdf`
-- Printed on paper: exam date: 15/05/2015
-- Text: ocr (2 pages), mean OCR confidence 85.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: II Semester: IV
-
-Academic Year: 2014-2015
-
-Subject: System Programming RE \ td
-. Marks: fF, oO
-Date: 15/05/2015 Time: {1 ¥ 12.00 ome.
-Durations: { ZthraaRW Je;
-WAS ahs
-
-\§ a eS,
-Final-Examination Nr ’
-
-SS!
-Instructions: Candidates should read carefully the instruction printed on the question—paper and
-on the cover of the answer book , which is provided for the use.
-
-1. Question 1 is compulsory
-
-2. Out of remaining question, attempt any 4 questions
-
-3. In all 5 question to be attempted.
-
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on afresh page.
-
-6. Figure to the right indicate full marks.
-
-7. Assume suitable data whenever necessary
-
-my
-STwver®
-
-Q.1 A Explain static and dynamic binding ? 4
-B_ Consider the two regular expressions %
-r=a'+b" s=ab" + ba’ + b'a+ (a‘b)*
-a. Find a string corresponding to r but not to s.
-b. Find a string corresponding to s but not to r.
-
-c. Find a string corresponding to both r and s.
-d. Find a string in {a, b}* corresponding to neither r nor s.
-
-C_ Explain bootstrap loader. : >
-
-D What is LEX and YACC. . >
-Q.2 Explain Language processing activities ? a
-03 Explain syntax directed translation. , fer
-Q4 A Explain design of single pass assembler. Ob
-
-B_ What is system administrator? Explain function of administrator. 06
-
-4/2
---- page 2 ---
-Q.5 Explain liking editor, dynamic loading and dynamic linking. [12]
-Q.6 Explain the Design of two pass macro processor , [12]
-
-Q.7__ A) Explain lexical analysis, syntax analysis, semantic analysis, [6]
-Intermediate code generation, code optimization and code generation. .
-
-B) Translate C= a + b * c/d into quadruples, teriples and postfix form [6]
-
-—_— xX —7
 ````

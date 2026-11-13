@@ -1910,6 +1910,61 @@ Marketing movement' ?
 brand equity ?_
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper ac47785f057c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/BRAND MANAGEMENT/scan0009(11).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 11/01/2013
+- Text: ocr (1 page), mean OCR confidence 92.1
+
+````text
+SVKM’s NMIMS {2
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV
+
+Academic Year : 2012-2013 \ Sy
+‘ ye
+Subject: BRAND MANAGEMENT Marks: 50 :
+Time: 2.00 p.m To 4.00 p.m
+
+Date: 11/01/2013 Duration: 2 hrs.
+Final - Examination i
+
+INSTRUCTIONS: Candidates should read carefully the instructions printed on
+the question paper and on the cover of the answer book, which is provided for
+their use.
+
+NB:
+
+1. Answer Any Five Questions
+2. Answer to each new question to be started ona fresh page.
+3. All questions carry 10 marks each.
+
+1) Explain how two leading brands such as s “Johnson & Johnson’ and ‘Lifebuoy’
+are created.
+2) Explain in detail the steps in the development of a new product.
+
+3) Explain the influence of the following in the preparation of a marketing plan:
+
+| a) Customers
+b) Competitors
+4) Explain the following concepts:
+
+a) Brand Identity b) Brand Essence
+c) Brand Personality d) Brand Customer Relationship
+e) Logos
+
+5) Write a detailed note on Financial Analysis of Brand Management
+q jHow would you rejuvenate an ageing brand like Lux?
+
+7) Explain with suitable examples the relationship between brands and
+corporate strategies
+
+8) How can a firm manage its brand over its product life cycle?
+````
+
 ## 2011-12 · Re-Exam · Trim 14 · paper 2551c6a088b2
 
 - Departments: Common (all branches)
@@ -2211,59 +2266,4 @@ Q. 7. “Sponsorship allows the advertisers to take advantage of the prestige as
 with a high quality programme”. Discuss with examples.
 
 x ~——
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper ac47785f057c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/BRAND MANAGEMENT/scan0009(11).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 11/01/2013
-- Text: ocr (1 page), mean OCR confidence 92.1
-
-````text
-SVKM’s NMIMS {2
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV
-
-Academic Year : 2012-2013 \ Sy
-‘ ye
-Subject: BRAND MANAGEMENT Marks: 50 :
-Time: 2.00 p.m To 4.00 p.m
-
-Date: 11/01/2013 Duration: 2 hrs.
-Final - Examination i
-
-INSTRUCTIONS: Candidates should read carefully the instructions printed on
-the question paper and on the cover of the answer book, which is provided for
-their use.
-
-NB:
-
-1. Answer Any Five Questions
-2. Answer to each new question to be started ona fresh page.
-3. All questions carry 10 marks each.
-
-1) Explain how two leading brands such as s “Johnson & Johnson’ and ‘Lifebuoy’
-are created.
-2) Explain in detail the steps in the development of a new product.
-
-3) Explain the influence of the following in the preparation of a marketing plan:
-
-| a) Customers
-b) Competitors
-4) Explain the following concepts:
-
-a) Brand Identity b) Brand Essence
-c) Brand Personality d) Brand Customer Relationship
-e) Logos
-
-5) Write a detailed note on Financial Analysis of Brand Management
-q jHow would you rejuvenate an ageing brand like Lux?
-
-7) Explain with suitable examples the relationship between brands and
-corporate strategies
-
-8) How can a firm manage its brand over its product life cycle?
 ````

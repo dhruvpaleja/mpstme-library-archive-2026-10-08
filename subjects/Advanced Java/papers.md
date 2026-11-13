@@ -1390,6 +1390,7 @@ Q.7(b) Distinguish between the following [06]
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/ADVANCE JAVA/Advanced Java Batch 2017-18 Re Exam.pdf`
 - Printed on paper: duration hours: 3; exam date: 29 May 2018
 - Text: ocr (3 pages), mean OCR confidence 92.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1433,7 +1434,6 @@ all correct answer.
 (a) windowClosed (c) windowDeiconified
 (b) windowActivated (d) windowGainedFocus
 2 Which of the swing control is/are lightweight. Select all correct answer.
-(a) JPanel (b) JFrame (c) JDialog (d) JTabbedPane
 
 3 The getWriter( ) method, which returns a PrintWriter object which can be used to write
 character data in Servlet response is defined in
@@ -1444,7 +1444,6 @@ character data in Servlet response is defined in
 (a) Remote Interface (c) UnicastRemoteObject
 (b) RemoteException (d) All the above
 5 Which of the following is/are methods of Applet class. Select all correct answer
-(a) getParamter() (b)paint() (c) getCodeBase() (d) setColor()
 6 Which interface should be implemented for the program to respond to Menultem
 selection?
 (a) TextListener (c) ActionListener
@@ -1742,6 +1741,7 @@ Q.7 Attempt the following (Any 3) [12]
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/ADVANCE JAVA/Advanced Java Batch 2015-16 Re Exam.pdf`
 - Printed on paper: exam date: 08 June 2016
 - Text: ocr (2 pages), mean OCR confidence 92.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1769,14 +1769,12 @@ Q. 1 Attempt the following
 i. Which of the following is/are not a method of MouseMotionListener Interface. Select
 all correct answer.
 
-a. mouseDragged __b. mouseClicked c. mouseReleased d. mouseMoved
 
 2. A method of JOptionPane object is used to represent a dialog box to obtain
 the user’s input. The method is used add tab to JTabbedPane object.
 
 3. Which of the following Swing components implement the RootPaneContainer
 interface? Select all that apply.
-a. JFrame b. JOptionPane c. JApplet a. JPanel
 
 4. Which of the following is/are not a Layout Manager for AWT. Select all correct
 answer.
@@ -1797,7 +1795,6 @@ button control event is generated.
 10. Which of the following are methods of HTTPServletRequest Interface. Select all
 correct answer.
 
-a. getCookies() b. setAttribute() c.getQueryString() d.sendRedirect()
 
 11. For JDBC, Class.forName() method is used for establishing connection to
 database.(True/False). Justify.
@@ -2072,6 +2069,7 @@ AWT controls.
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/ADVANCE JAVA/Advanced Java 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; exam date: 29/11/2013
 - Text: ocr (2 pages), mean OCR confidence 92.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2118,7 +2116,6 @@ a. Checkbox b. Button c. List d. TextField
 from a user's Web browser?
 Java Application _b. Applet__c. Servlet d. none of the above
 4. | Which of the swing control is/are not lightweight
-a. JPanel b. JFrame c. JDialog d. JTabbedPane
 5. | The acts as a Central Management Point for Java-RMI. The methods in
 interface that extends the java.rmi.Remote interface should throw the exception.
 6. | The Class.forName() method is used to get connection for database.(True/False).
@@ -2192,6 +2189,7 @@ Q)2
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/ADVANCE JAVA/Advanced Java Batch 2013-14 Re Exam.pdf`
 - Printed on paper: duration hours: 3; exam date: 10/06/2014
 - Text: ocr (2 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2234,7 +2232,6 @@ computer, and run on the user's computer as an application?
 
 Java Application _b. Applet _c. Servlet d. none of the above
 4. | Which of the swing control is/are not lightweight
-a. JPanel b. JApplet c. Dialog d. JTabbedPane
 
 5. | The methods in interface that extends the java.rmi-Remote interface should throw the
 exception. The default port at which RMI registry is started is
@@ -2307,6 +2304,122 @@ E | Write a code to create following hierarchical structure using JTree
 > PG
 = MCA
 = MBA
+````
+
+## 2013-14 · Re-Exam · Trim 6 · paper b46a442998ab
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/ADVANCE JAVA/ADVANCED JAVA BATCH 2011-12 RE EXAM TRIM VI0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/03/2014
+- Text: ocr (1 page), mean OCR confidence 86.8
+
+````text
+SVKM’s NMIMS Se,
+
+Ps \TOTE BF 4p,
+
+Mukesh Patel School of Technology Management & Engineégiie ~~~,
+Programme: . MCA Year: Il Trimester: we / at PSTM ~, ie
+Academic Year : 2013-2014 fal y IBRARY JS
+
+. Babel: 2011-2012 \ SO Us
+Subject: Advanced JAVA Marks: 100% Minas i
+Time: 4.00 pit pm
+
+Date: 26/03/2014 Duration: 3 hrs.
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Cover of the Answer Book, which is provided for their use.
+1. Attempt any 5 questions.
+2. All questions carry equal marks.
+4. Answer to each new question to be started on a fresh page.
+
+5. Figure in brackets indicates full marks.
+6. Give suitable example.
+
+Q.1(a) Explain Event class, Source of Event and Event Listener with example. [10]
+Q.1(b) Explain how frame is used to create GUI with example. [10]
+Q.2 (a) What is difference between AWT and Swing? Explain JTree control of Swing. [10]
+Q.2(b) Explain Inner and Anonymous Inner class with example. [10]
+Q.3 (a) What is Java Bean? Explain Steps to create java bean in detail [10]
+Q.3(b) What is the use of Servlet? Explain how to read data from html in Servlet and [10]
+generate response.
+Q.4 (a) Explain Directives for JSP. [10]
+Q. 4 (k) Explain working of JSP page. Write a JSP page which prints current date and [10]
+time.
+Q.5(a) What is cookie? Explain with example how to create, store and retrieve cookie. [10]
+Q.5(b) Explain Property Design Patterns for Java Bean. [10]
+, Q.6 (a) What is RMI? Explain RMI Architecture. [10]
+Q.6(b) Explain Servlet Life Cycle? Compare Servlet with CGI. [10]
+Q.7(a) Write a note on Layout Managers in AWT. [10]
+Q.7(b) Explain any 2 Action for JSP. [10]
+
+x—_
+
+“ify
+````
+
+## 2013-14 · Re-Exam · Trim 6 · paper 955947e279c8
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/ADVANCE JAVA/ADVANCED JAVA BATCH 2011-12 RE EXAM0001(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/07/2014
+- Text: ocr (1 page), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+: ve
+Programme:MCA Year: II Trimester: VI aaa
+Ri,
+ES
+Academic Year: 2013-14 F i MPSTME Ne
+EX LIBRARY }i
+Batch:2011-2012 oe we
+Sine
+Subject : Advanced Java Marks: 100 ain
+Time : 11.00 am to 2.00 pm
+Date :12/07/2014 Durations:3 (hrs)
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Cover of the Answer Book, which is provided for their use.
+1. Attempt any 5 questions.
+2. All questions carry equal marks.
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicates full marks.
+6. Give suitable example.
+
+Q.1(a) Explain Event Handling with example [10]
+
+Q.1(b) Explain any 2 AWT control in detail with example. [10]
+
+Q.2 (a) What is difference between AWT and Swing? Explain Combo Box control of [10]
+Swing.
+
+Q.2(b) Explain Inner class with example. What is difference between Listener Interface [10]
+
+and Adapter class
+
+Q.3(a) What is Java Bean? Explain its features. Write steps to create java bean. [10]
+Q.3(b) What is the use of Servlet? Explain its life cycle. How it is different from CGI. [10]
+Q.4(a) Explain Scripting elements of JSP with example [10]
+Q.4(b) What is cookie? Explain with example how to create, store and retrieve cookie. [10]
+Q.5 (a) Explain with example how to handle HTTP request and generate HTTP response [10]
+in JSP page.
+Q.5(b) Explain Property Design Patterns for Java Bean. [10]
+Q.6 (a) What is RMI? Explain working of RMI Augllention, [10]
+Q.6(b) Write a note on Session Tracking. [10]
+Q.7(a) Write a note on Layout Managers in AWT. [10]
+Q. 7(b) Explain JTree and JTable control of Swing [10]
+” K
+
+vA
 ````
 
 ## 2012-13 · Final + Re-Exam · Trim 6 · paper 338b917ff409
@@ -2467,120 +2580,143 @@ Q.7 @) Explain Class Hierarchy for various container classeshf AWT. Write a prog
 to create a frame and set its close operation.
 ````
 
-## 2011-12 · Re-Exam · Trim 6 · paper b46a442998ab
+## 2011-12 · Exam not stated · Trim 6 · paper 1d82f741ffba
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/ADVANCE JAVA/ADVANCED JAVA BATCH 2011-12 RE EXAM TRIM VI0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/03/2014
-- Text: ocr (1 page), mean OCR confidence 86.8
-
-````text
-SVKM’s NMIMS Se,
-
-Ps \TOTE BF 4p,
-
-Mukesh Patel School of Technology Management & Engineégiie ~~~,
-Programme: . MCA Year: Il Trimester: we / at PSTM ~, ie
-Academic Year : 2013-2014 fal y IBRARY JS
-
-. Babel: 2011-2012 \ SO Us
-Subject: Advanced JAVA Marks: 100% Minas i
-Time: 4.00 pit pm
-
-Date: 26/03/2014 Duration: 3 hrs.
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Cover of the Answer Book, which is provided for their use.
-1. Attempt any 5 questions.
-2. All questions carry equal marks.
-4. Answer to each new question to be started on a fresh page.
-
-5. Figure in brackets indicates full marks.
-6. Give suitable example.
-
-Q.1(a) Explain Event class, Source of Event and Event Listener with example. [10]
-Q.1(b) Explain how frame is used to create GUI with example. [10]
-Q.2 (a) What is difference between AWT and Swing? Explain JTree control of Swing. [10]
-Q.2(b) Explain Inner and Anonymous Inner class with example. [10]
-Q.3 (a) What is Java Bean? Explain Steps to create java bean in detail [10]
-Q.3(b) What is the use of Servlet? Explain how to read data from html in Servlet and [10]
-generate response.
-Q.4 (a) Explain Directives for JSP. [10]
-Q. 4 (k) Explain working of JSP page. Write a JSP page which prints current date and [10]
-time.
-Q.5(a) What is cookie? Explain with example how to create, store and retrieve cookie. [10]
-Q.5(b) Explain Property Design Patterns for Java Bean. [10]
-, Q.6 (a) What is RMI? Explain RMI Architecture. [10]
-Q.6(b) Explain Servlet Life Cycle? Compare Servlet with CGI. [10]
-Q.7(a) Write a note on Layout Managers in AWT. [10]
-Q.7(b) Explain any 2 Action for JSP. [10]
-
-x—_
-
-“ify
-````
-
-## 2011-12 · Re-Exam · Trim 6 · paper 955947e279c8
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/ADVANCE JAVA/ADVANCED JAVA BATCH 2011-12 RE EXAM0001(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/07/2014
-- Text: ocr (1 page), mean OCR confidence 90.2
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/ADVANCE JAVA/ADVACE JAVA0001.pdf`
+- Printed on paper: exam date: 11/05/2012
+- Text: ocr (2 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Mukesh Patel School of Technology Management & Engineering
+Programme: MCA ; Year: “II Trimester: .VE-
+Academic Year : 2011-2012
 
-: ve
-Programme:MCA Year: II Trimester: VI aaa
-Ri,
-ES
-Academic Year: 2013-14 F i MPSTME Ne
-EX LIBRARY }i
-Batch:2011-2012 oe we
-Sine
-Subject : Advanced Java Marks: 100 ain
-Time : 11.00 am to 2.00 pm
-Date :12/07/2014 Durations:3 (hrs)
+aqvt0Te OF tay,
+OU,
 
-Re-Examination
+Subject: Advanced JAVA gh ea ’
+HE,» 2.00 pay 5.00 pm
+Date: 11/05/2012 ti afion:, 3:hrs.. #
+" Final - Examination \\%
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Cover of the Answer Book, which is provided for their use.
-1. Attempt any 5 questions.
-2. All questions carry equal marks.
+Instructions: Candidates should read carefully the instructions printed on the qttestionpaper and on the
+Cover of the Answer Book, which is provided for their use. ee
+NB: _ 1. Question No. | is compulsory.
+2. Out of remaining questions, attempt any 4 questions. In all attempt 5 questions.
+3. All questions carry equal marks.
 4. Answer to each new question to be started on a fresh page.
 5. Figure in brackets indicates full marks.
-6. Give suitable example.
 
-Q.1(a) Explain Event Handling with example [10]
+6. Give examples wherever required.
 
-Q.1(b) Explain any 2 AWT control in detail with example. [10]
+Q.1(a) Attempt the following [10]
+1. Which of the following is/are not a method of WindowFocusListener Interface
+a. windowClosed b. windowDeiconified
+c. windowActivated d. windowGainedFocus
+2. The setLayout( ) method is defined in class. Default layout for JFrame is
 
-Q.2 (a) What is difference between AWT and Swing? Explain Combo Box control of [10]
-Swing.
+3. The addItemListener() is a method of the component class. (True/False).Justify.
+4. Which of the swing control is/are not lightweight
 
-Q.2(b) Explain Inner class with example. What is difference between Listener Interface [10]
+5. The class is parent for JRadioButton. The JCheckbox object generates
+Event.
+6. The package contains classes that read and write JAR files. The file is
 
-and Adapter class
+j used to indicate which of the components in a JAR file are Java Beans.
+} 7. The getWriter( ) method, which returns a PrintWriter that can be used to write
+character data in Servlet response is defined in
 
-Q.3(a) What is Java Bean? Explain its features. Write steps to create java bean. [10]
-Q.3(b) What is the use of Servlet? Explain its life cycle. How it is different from CGI. [10]
-Q.4(a) Explain Scripting elements of JSP with example [10]
-Q.4(b) What is cookie? Explain with example how to create, store and retrieve cookie. [10]
-Q.5 (a) Explain with example how to handle HTTP request and generate HTTP response [10]
-in JSP page.
-Q.5(b) Explain Property Design Patterns for Java Bean. [10]
-Q.6 (a) What is RMI? Explain working of RMI Augllention, [10]
-Q.6(b) Write a note on Session Tracking. [10]
-Q.7(a) Write a note on Layout Managers in AWT. [10]
-Q. 7(b) Explain JTree and JTable control of Swing [10]
-” K
+a. Print Writer class b. ServletResponse Interface
+c. ServletRequest Interface d. GenericServlet class
+8. A session can be created via the method of HttpServletRequest. The
 
-vA
+implicit object is a central repository for attribute data for the page, request, session and
+application in JSP.
+9. Which of the following package is/are imported by default in JSP
+a. java.lang.* b. javax.servlet.jsp.*
+fe. java.util.* c. javax.servlet.http.*
+\ 10. . Stub is a server side proxy for RMI Application. (True/False). Justify.
+
+Q.1 & Attempt the following [10]
+ae Distinguish between Applet and Frame.
+2. What is RMI Registry?
+3. Distinguish between Servlet and CGI
+4. Explain any 2 type of properties for Java Bean.
+5. Explain any two attributes of Page Directive for JSP.
+Q.2(a) Explain Event Delegation model with example [10]
+
+Q.2(b) Explain the inner class and Anonymous Inner Class with example. [10]
+
+h
+--- page 2 ---
+Q3@)
+
+Q. 3 (b)
+Q.4 (a)
+
+Q.4(b)
+Q. 5 (a)
+
+Q5(b)
+Q. 6 (a)
+Q. 6 (b)
+
+Q.7 (a)
+Q.7 ©
+
+Create a GUI (Using AWT/Swing controls) for calculating performance incentive for
+Employee based on their feedback. If feedback is excellent then performance incentive
+is 20 % of salary; if feedback is good then performance incentive is 15% of salary; if
+feedback is average then performance incentive is 10% of salary; if feedback is bad
+then performance incentive is 5% of salary. Accept required Employee’s details from
+user. Use radio button for feedback. Add a button labeled “Performance incentive”
+which when pressed should calculate the incentive and display all the details of
+Employee along with calculated incentive in text area.
+
+Explain with example why adapter class is used instead of Listener Interface.
+
+What is Java Bean? Explain its features. Using example explain steps for creating a
+Java Bean
+
+What are cookies? Explain with example how to create, store and retrieve cookies.
+What is Servlet? Explain its life cycle? Create a HTML page which create controls to
+accept dimension of shape and 2 radio buttons (for Square and Triangie) it should be
+redirected to Servlet which calculates area of the shape depending upon which radio
+button is selected and display the calculated area.
+
+Explain any two Actions for JSP with syntax
+
+Explain Scripting elements of JSP with example.
+
+Explain how JSP works? Write a JSP page which accepts a number and calculate
+factorial of the number.
+
+What is RMI? Explain the RMI Architecture. Explain steps to create RMI application
+
+Explain with example JTree and JTabbedPane controls of Swings
+
+[12]
+
+[08]
+
+[10]
+
+[10]
+
+[15]
+
+[05]
+[10]
+
+[10]
+
+[10]
+
+[10]
 ````
 
 ## 2011-12 · Re-Exam · Trim 6 · paper 05e7254b39cf
@@ -2590,6 +2726,7 @@ vA
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/ADVANCE JAVA/ADVANCED JAVA BATCH 2011-12 RE EXAM0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2012
 - Text: ocr (2 pages), mean OCR confidence 91.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Z7 SVKM’s NMIMS
@@ -2623,7 +2760,6 @@ parameter for method
 3. The addKeyListener() is a method of the component class. (True/False).Justify.
 4. Which of the swing control is/are lightweight
 
-a. JPanel b. JFrame c. JDialog d. JTabbedPane
 5. While creating a window using Frame constructor, we can specify
 a. Title b. size c. visibility attribute d. all the above.
 , 6. The package contains classes that read and write JAR files. The file is
@@ -2690,6 +2826,163 @@ Q.7(b) Explain Event Delegation model with example [10]
 %* ——
 
 70.
+````
+
+## 2010-11 · Exam not stated · Trim 6 · paper 1cf90d79efed
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/ADVANCE JAVA/ADVANCED JAVA.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2011
+- Text: ocr (2 pages), mean OCR confidence 92.7
+
+````text
+SVKM’s NMIMS = (nme voor ie
+Mukesh Patel School of Technology Management \ gi
+Programme: MCA Year: II Trimestes:é
+Academic Year : 2010-2011 ¢
+Subject: Advanced JAVA Marks: 100
+Time: 2.00 pm To 5.00 pm
+Date: 12/05/2011 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Cover of the Answer Book, which is provided for their use.
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions. In all attempt 5 questions.
+3. All questions carry equal marks.
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicates full marks.
+
+Q.1(a) Answer the following (Any 5) [15]
+
+1 What is Manifest file? Give one example and explain its use.
+2 Distinguish between Applet and Servlet.
+3 How button control of Swings is different for button control of AWT.
+4 Explain any 3 attribute for Page Directive with syntax.
+5 What is RMI Registry?
+6 Write a code to create following hierarchical structure using JTree
+“ Javax
+> Swing
+= JButton
+= JLabel
+
+Q.1(b) Attempt the following [05]
+
+1 Window is a parent class of Applet. (True/False. Justify your answer)
+2 and packages provides classes and interfaces for Servlets
+3 Proxy layer of RMI system is known as
+4 Ifyou see a request variable on a JSP page, what class in javax.servlets.http is
+it referring to? .
+5 To declare a Remote Interface one can use
+(A) Remote Interface (B) UnicastRemoteObject
+(C) RemoteException (D) All the above
+
+Q.2 (a) Answer the following (Any 2) [10]
+
+1 Distinguish between the following
+(A) Applet and Frame
+(B) AWT and Swing
+
+2 Write java applet program using AWT methods and classes to calculate the Simple
+Interest. Principal amount, Rate of Interest and Time Duration should be accepted
+from User.
+
+3 Explain with example how to create checkbox and radio button using AWT controls.
+
+Q.2(b) Explain any two controls of Swing package which are not supported by AWT package. [10]
+
+-]
+2
+--- page 2 ---
+Q.3
+
+Q. 4{a)
+Q. 4(b)
+
+Q.5 (b)
+
+Q.6 (a)
+
+Q.6 (b)
+Q.7
+
+Answer the following (Any 2)
+
+Explain the Inner class and anonymous inner class with example
+
+Explain the concept of Adapter class with example. How it is different for listener
+interface.
+
+What is Layout Manager? Explain various Layout Managers in AWT. Give syntax for
+how to set layout, syntax for manually placing components.
+
+What are Java Beans? Explain its features. Explain Design Patterns for Properties.
+Attempt for following (Any 1)
+
+Create a class salesperson with code, name, sales unit and salary. It should have
+method which calculate the incentive for salesperson on following basis: If sales unit
+is more than 2,000: incentive is 20% of salary, if sales unit is between 1,000 & 2,000:
+incentive is 15% of salary, if sales unit is between 500 & 1,000: incentive is 10% of
+salary and if sales unit is less than 500: incentive is 5% of salary. Design a GUI that
+accepts salesperson’s details. Add a button labeled “Incentive” which when pressed
+should calculate the incentive and display the resultant incentive in the text field. Use
+Swing controls.
+
+Create a Java Bean which when clicked by mouse will change the color. Using the
+example explain the step to create Java Bean.
+
+Answer the following (Any 2)
+
+Explain any 5 methods of HttpServletRequest Interface
+
+Explain Cookies with syntax.
+
+Create an HTML page, which has textboxes to read two numbers for user and a button,
+which when clicked, should redirect to Servlet, which performs addition, subtraction,
+multiplication and division of two entered numbers and print the result in HTML
+format.
+
+What is Servlet? Explain the Life cycle of Servlet. How Servlets are different from
+CGI.
+
+Answer the following (Amy 2)
+
+Compare the Servlet and JSP. Explain any 2 JSP Actions.
+
+Explain types of JSP Scripting Elements
+
+Design a JSP page which will display the any 5 Details of Server.
+
+Explain the working of JSP? Explain include directive and include action.
+
+Attempt the following (Amy 2)
+
+Write a note on Distributed Computing? What is the use of HTTP? Explain any 3
+methods of HTTP. ~
+
+What is RMI? Explain the RMI architecture
+Write a note on Implicit objects available in JSP.
+
+--All The Best — — =
+
+Dy
+‘2-
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+[20]
 ````
 
 ## 2010-11 · Re-Exam · Trim 6 · paper b0b975462434
@@ -3102,302 +3395,6 @@ All The Best
 [05]
 
 [05]
-[10]
-
-[20]
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper 1d82f741ffba
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/ADVANCE JAVA/ADVACE JAVA0001.pdf`
-- Printed on paper: exam date: 11/05/2012
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Programme: MCA ; Year: “II Trimester: .VE-
-Academic Year : 2011-2012
-
-aqvt0Te OF tay,
-OU,
-
-Subject: Advanced JAVA gh ea ’
-HE,» 2.00 pay 5.00 pm
-Date: 11/05/2012 ti afion:, 3:hrs.. #
-" Final - Examination \\%
-
-Instructions: Candidates should read carefully the instructions printed on the qttestionpaper and on the
-Cover of the Answer Book, which is provided for their use. ee
-NB: _ 1. Question No. | is compulsory.
-2. Out of remaining questions, attempt any 4 questions. In all attempt 5 questions.
-3. All questions carry equal marks.
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicates full marks.
-
-6. Give examples wherever required.
-
-Q.1(a) Attempt the following [10]
-1. Which of the following is/are not a method of WindowFocusListener Interface
-a. windowClosed b. windowDeiconified
-c. windowActivated d. windowGainedFocus
-2. The setLayout( ) method is defined in class. Default layout for JFrame is
-
-3. The addItemListener() is a method of the component class. (True/False).Justify.
-4. Which of the swing control is/are not lightweight
-
-a. JPanel b. Window c. JDialog d. JTabbedPane
-5. The class is parent for JRadioButton. The JCheckbox object generates
-Event.
-6. The package contains classes that read and write JAR files. The file is
-
-j used to indicate which of the components in a JAR file are Java Beans.
-} 7. The getWriter( ) method, which returns a PrintWriter that can be used to write
-character data in Servlet response is defined in
-
-a. Print Writer class b. ServletResponse Interface
-c. ServletRequest Interface d. GenericServlet class
-8. A session can be created via the method of HttpServletRequest. The
-
-implicit object is a central repository for attribute data for the page, request, session and
-application in JSP.
-9. Which of the following package is/are imported by default in JSP
-a. java.lang.* b. javax.servlet.jsp.*
-fe. java.util.* c. javax.servlet.http.*
-\ 10. . Stub is a server side proxy for RMI Application. (True/False). Justify.
-
-Q.1 & Attempt the following [10]
-ae Distinguish between Applet and Frame.
-2. What is RMI Registry?
-3. Distinguish between Servlet and CGI
-4. Explain any 2 type of properties for Java Bean.
-5. Explain any two attributes of Page Directive for JSP.
-Q.2(a) Explain Event Delegation model with example [10]
-
-Q.2(b) Explain the inner class and Anonymous Inner Class with example. [10]
-
-h
---- page 2 ---
-Q3@)
-
-Q. 3 (b)
-Q.4 (a)
-
-Q.4(b)
-Q. 5 (a)
-
-Q5(b)
-Q. 6 (a)
-Q. 6 (b)
-
-Q.7 (a)
-Q.7 ©
-
-Create a GUI (Using AWT/Swing controls) for calculating performance incentive for
-Employee based on their feedback. If feedback is excellent then performance incentive
-is 20 % of salary; if feedback is good then performance incentive is 15% of salary; if
-feedback is average then performance incentive is 10% of salary; if feedback is bad
-then performance incentive is 5% of salary. Accept required Employee’s details from
-user. Use radio button for feedback. Add a button labeled “Performance incentive”
-which when pressed should calculate the incentive and display all the details of
-Employee along with calculated incentive in text area.
-
-Explain with example why adapter class is used instead of Listener Interface.
-
-What is Java Bean? Explain its features. Using example explain steps for creating a
-Java Bean
-
-What are cookies? Explain with example how to create, store and retrieve cookies.
-What is Servlet? Explain its life cycle? Create a HTML page which create controls to
-accept dimension of shape and 2 radio buttons (for Square and Triangie) it should be
-redirected to Servlet which calculates area of the shape depending upon which radio
-button is selected and display the calculated area.
-
-Explain any two Actions for JSP with syntax
-
-Explain Scripting elements of JSP with example.
-
-Explain how JSP works? Write a JSP page which accepts a number and calculate
-factorial of the number.
-
-What is RMI? Explain the RMI Architecture. Explain steps to create RMI application
-
-Explain with example JTree and JTabbedPane controls of Swings
-
-[12]
-
-[08]
-
-[10]
-
-[10]
-
-[15]
-
-[05]
-[10]
-
-[10]
-
-[10]
-
-[10]
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper 1cf90d79efed
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/ADVANCE JAVA/ADVANCED JAVA.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2011
-- Text: ocr (2 pages), mean OCR confidence 92.7
-
-````text
-SVKM’s NMIMS = (nme voor ie
-Mukesh Patel School of Technology Management \ gi
-Programme: MCA Year: II Trimestes:é
-Academic Year : 2010-2011 ¢
-Subject: Advanced JAVA Marks: 100
-Time: 2.00 pm To 5.00 pm
-Date: 12/05/2011 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-Cover of the Answer Book, which is provided for their use.
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions. In all attempt 5 questions.
-3. All questions carry equal marks.
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicates full marks.
-
-Q.1(a) Answer the following (Any 5) [15]
-
-1 What is Manifest file? Give one example and explain its use.
-2 Distinguish between Applet and Servlet.
-3 How button control of Swings is different for button control of AWT.
-4 Explain any 3 attribute for Page Directive with syntax.
-5 What is RMI Registry?
-6 Write a code to create following hierarchical structure using JTree
-“ Javax
-> Swing
-= JButton
-= JLabel
-
-Q.1(b) Attempt the following [05]
-
-1 Window is a parent class of Applet. (True/False. Justify your answer)
-2 and packages provides classes and interfaces for Servlets
-3 Proxy layer of RMI system is known as
-4 Ifyou see a request variable on a JSP page, what class in javax.servlets.http is
-it referring to? .
-5 To declare a Remote Interface one can use
-(A) Remote Interface (B) UnicastRemoteObject
-(C) RemoteException (D) All the above
-
-Q.2 (a) Answer the following (Any 2) [10]
-
-1 Distinguish between the following
-(A) Applet and Frame
-(B) AWT and Swing
-
-2 Write java applet program using AWT methods and classes to calculate the Simple
-Interest. Principal amount, Rate of Interest and Time Duration should be accepted
-from User.
-
-3 Explain with example how to create checkbox and radio button using AWT controls.
-
-Q.2(b) Explain any two controls of Swing package which are not supported by AWT package. [10]
-
--]
-2
---- page 2 ---
-Q.3
-
-Q. 4{a)
-Q. 4(b)
-
-Q.5 (b)
-
-Q.6 (a)
-
-Q.6 (b)
-Q.7
-
-Answer the following (Any 2)
-
-Explain the Inner class and anonymous inner class with example
-
-Explain the concept of Adapter class with example. How it is different for listener
-interface.
-
-What is Layout Manager? Explain various Layout Managers in AWT. Give syntax for
-how to set layout, syntax for manually placing components.
-
-What are Java Beans? Explain its features. Explain Design Patterns for Properties.
-Attempt for following (Any 1)
-
-Create a class salesperson with code, name, sales unit and salary. It should have
-method which calculate the incentive for salesperson on following basis: If sales unit
-is more than 2,000: incentive is 20% of salary, if sales unit is between 1,000 & 2,000:
-incentive is 15% of salary, if sales unit is between 500 & 1,000: incentive is 10% of
-salary and if sales unit is less than 500: incentive is 5% of salary. Design a GUI that
-accepts salesperson’s details. Add a button labeled “Incentive” which when pressed
-should calculate the incentive and display the resultant incentive in the text field. Use
-Swing controls.
-
-Create a Java Bean which when clicked by mouse will change the color. Using the
-example explain the step to create Java Bean.
-
-Answer the following (Any 2)
-
-Explain any 5 methods of HttpServletRequest Interface
-
-Explain Cookies with syntax.
-
-Create an HTML page, which has textboxes to read two numbers for user and a button,
-which when clicked, should redirect to Servlet, which performs addition, subtraction,
-multiplication and division of two entered numbers and print the result in HTML
-format.
-
-What is Servlet? Explain the Life cycle of Servlet. How Servlets are different from
-CGI.
-
-Answer the following (Amy 2)
-
-Compare the Servlet and JSP. Explain any 2 JSP Actions.
-
-Explain types of JSP Scripting Elements
-
-Design a JSP page which will display the any 5 Details of Server.
-
-Explain the working of JSP? Explain include directive and include action.
-
-Attempt the following (Amy 2)
-
-Write a note on Distributed Computing? What is the use of HTTP? Explain any 3
-methods of HTTP. ~
-
-What is RMI? Explain the RMI architecture
-Write a note on Implicit objects available in JSP.
-
---All The Best — — =
-
-Dy
-‘2-
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-
 [10]
 
 [20]

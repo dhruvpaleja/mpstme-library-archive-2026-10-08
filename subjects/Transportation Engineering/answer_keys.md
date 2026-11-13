@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Civil_7005/Transportation Engineering/ANS_Transportation Engineering(702CI0C033)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (7 pages), mean OCR confidence 82.5
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -90,7 +91,6 @@ Types:
 * Exceptional gradient
 © Minimum gradient
 
-FC OR Dk kk ot a ac ak
 --- page 3 ---
 a. Mechanical widening
 
@@ -144,7 +144,6 @@ e Petrol pump
 «Parking
 « Rest area
 
-FAC OR Qk kk ee a aa ak
 --- page 4 ---
 a. Q4 (20 Marks)
 (a) Stopping Sight Distance (10 Marks)
@@ -301,7 +300,6 @@ T, = 38 + —,—
 T, =38+3
 T, = 41°C
 
-FIR Gk kk ot a ak ak
 --- page 7 ---
 Runway Length Correction
 
@@ -314,5 +312,4 @@ L=1.26Lo
 
 Actual runway length = 1.26 x basic runway length
 
-FC OR 2 kk ote ae a ak
 ````

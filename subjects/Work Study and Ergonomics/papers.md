@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/work study and ergonomics/2008-2009(50).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 —_ oN
@@ -101,7 +102,6 @@ rating factor was estimated as 1.15 and the total no. of articles produced were 
 The rest and personal allowance to be given is 12% of the normal time. Calculate the
 standard time per piece. (10)
 
-Re oR oo Ra oR OR RRR RR RR ER
 ````
 
 ## 2007-08 · Exam not stated · Trim 5 · paper 7de7319c2bf1
@@ -207,6 +207,7 @@ f) P-D-C-A cycle
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/work study and ergonomics/2006-2007(20).pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (2 pages), mean OCR confidence 90.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ~~
@@ -295,7 +296,6 @@ related decision?
 
 What is a PDCA cycle? How can customers be involved in improvements?
 
-2 a ae 2 2 2s oe 2 2 2 2 2 ae 2 2 aE 2
 
 (8)
 

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechanical_7003/Micro and Nano Manufacturing/ANS_Micro and Nano Manufacturing(702ME0E024)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 25 Nov 2025
 - Text: mixed (8 pages), mean OCR confidence 59.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -238,6 +239,7 @@ FIC QF EH 1
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechanical_7003/Micro and Nano Manufacturing/ANS_Micro and Nano Manufacturing(702ME0E024)_2025-2026_5ecbd69856.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 25 Nov 2025
 - Text: mixed (8 pages), mean OCR confidence 59.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/GRAPH THEORY & APPLICATIONS/Graph Theory & Applications , Final 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 5/12/2023
 - Text: ocr (5 pages), mean OCR confidence 86.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -144,7 +145,6 @@ CO3; SO1; BL1
 (b) | Consider the following two graphs: G,(V,, E,) and G,(V,,E,) where [10]
 V,={a,b,c,d,e,f,g}, V,={1,2,3,4,5,6,7},
 E, = {(a,b),(a,d),(b,c),(b,2).(d,e),(c, f),(e.8).( fs) (ae
-sonsonsrs Hob) ord) be) lOve) (dsebenA neve) Fe) ar)
 E, ={(1,4),(1,3)(17),(2,3);(2,6).(B.5)-(3,7)o(4,5)(5,6).(5.7)}-
 Discuss whether the above graphs are isomorphic. Justify.
 Q7 (a) Construct an optimal prefix code for the letters in the word
@@ -160,6 +160,176 @@ network from s to t. (The weights assigned to each vertex are }
 capacity/flow) a
 
 ~
+
+5/5
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper 5ffce66e81d8
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/GRAPH THEORY & APPLICATIONS/Graph Theory and Applications.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/05 /2023
+- Text: ocr (5 pages), mean OCR confidence 89.1
+
+````text
+SVKM’S NMIMS i
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year:2022-2023
+
+Program: B. Tech / MBA Tech — Stream : All Streams Year: III Semester: VI
+
+Subject: Graph Theory and Applications Time: 3 hrs. (2:00 Pm to 5:00 Pm)
+Date:05/05 /2023. No. of Pages: 05
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+x 1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly:
+
+(a) | Compute the number of edges of a graph with degree sequence (4,3,3, 2,2). [5]
+Draw such a graph and find eccentricity of every vertex.
+CO3; SO1; BL3 | (b) | Show that the given graph is a tree, find the level of each leaf with root asa. | [5]
+
+CO1; SO1; BLI
+
+e a
+C
+~~
+. b
+f d
+COI; SO1;BL1 | (c)_ | Check whether the following directed weighted graph is a network flow: [5]
+a 1/3 ped
+2/5 /3
+s 1/3 2/3 1/2
+2/3 c 2/5
+cB
+CO4; SO1; BL2 | (d) | Find the chromatic polynomial of the complete graphs K,,K,, and path [5]
+graph P,.
+
+1/5
+--- page 2 ---
+Q2
+
+(a) | State the deletion-Contraction lemma and hence use it to find the chromatic [6]
+
+C08; BGS BL polynomial of cycle graph Ca,
+
+COL BON BLS | IB Show that cycle graph G is a bipartite graph and find all paths of length 5. [6]
+
+CO2;SO1;BL2 | (c) | Compute the length of shortest path between the vertices a and z in the
+following weighted graph using Dijkstra’s algorithm.
+
+b d
+
+[8]
+
+Q3
+
+(a) | Use Kruskal’s algorithm to find the minimum spanning tree for the
+
+following graph.
+
+CO2; SO1; BL3 [6]
+
+CO1;SO1; BLI | (6) | Draw P,, K,° and hence find join of the graphs. Identify whether the join (6)
+of the graphs is regular graph, bipartite graph or complete graph.
+
+CO3; SO1; BL6 | (c) | Rohan, Mohan, Ben, Tina, Lisa has enrolled for six different sports training
+activities, each activity happening once daily. The activity enrollments are
+A; = {Rohan, Ben, Tina}, A2 = {Ben, Lisa, Mohan}, A3 = {Rohan, Mohan,
+Tina}, Aq = {Lisa, Mohan, Tina}, As= {Rohan, Ben}, and Ac¢ = {Ben, [8]
+Mohan, Tina}. Construct a graph for the above situation and hence find
+how many minimum different time slot must be used to ensure that no one
+misses any activity they have enrolled for.
+
+Q4
+
+(a) | Construct the minimum spanning tree staring with the vertex 7 for the
+
+. . 6
+COM S01 BLA following graph by using Prim’s algorithm. 6]
+
+2/5
+--- page 3 ---
+%
+
+graph.
+
+CO4; SO1; BL2 | (b) | Find two clique set with maximum vertices of the following graph. Draw
+the complement of graph and find two independent set with maximum
+vertices of complement of the graph.
+|
+[6]
+CO4; SO1; BL2 | (c) | Find the cut vertices, cut edges and blocks in the graph and also check if the
+graph is connected.
+a qf 8
+[8]
+b é e h
+Q5
+(a) | Draw the cycle graphs C4 and hence find the incidence matrix and
+CO1; SO1;BL1- ; . [6]
+adjacency matrix of C4. Are these matrices symmetric?
+CO2; SO1; BL3 | (b) | Use Depth First Search algorithm to find the spanning tree for the following
+
+3/5
+--- page 4 ---
+CO3; SO1; BL3 | (c)_ | Use Max — flow Min -cut theorem to find the min-cut and the capacity of
+min-cut for the following network:
+
+0/5
+
+[8] _-:
+
+Omer
+
+Q6
+
+(a) | Determine whether the given pair of graphs is isomorphic. Exhibit an [10]
+isomorphism or provide a rigorous argument that none exists. Observe the
+row sums of these matrices and identify what they indicate about the graph.
+
+1 2
+
+CO1; $01; BLI 4 3 G La"
+j 7
+~
+
+7 8
+
+(b) | Construct an optimal prefix code for the symbols a, b, g, x, y, z that occur
+C03; 801; BL6 with frequencies 21, 27, 5,17,12,7. [19]
+
+Q7
+
+CO4; SO1; BL4 | (a) | Show that the given graph is Eulerian graph and Hamiltonian graph. Justify | [10]
+your answer by finding the circuits. Give an example of a graph on 5
+vertices which is neither Eulerian graph nor Hamiltonian graph.
+
+4/5
+--- page 5 ---
+7
+
+CO3; SO2; BLS
+
+(b)
+
+Evaluate the maximal flow for the following network by Ford -Fulkerson
+algorithm.
+
+[10]
 
 5/5
 ````
@@ -695,174 +865,4 @@ CO3; SO2; BLS (b) | Evaluate the maximal flow for the following network by Ford 
 
 Fulkerson algorithm.
 0/5
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 5ffce66e81d8
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/GRAPH THEORY & APPLICATIONS/Graph Theory and Applications.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/05 /2023
-- Text: ocr (5 pages), mean OCR confidence 89.1
-
-````text
-SVKM’S NMIMS i
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year:2022-2023
-
-Program: B. Tech / MBA Tech — Stream : All Streams Year: III Semester: VI
-
-Subject: Graph Theory and Applications Time: 3 hrs. (2:00 Pm to 5:00 Pm)
-Date:05/05 /2023. No. of Pages: 05
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-x 1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly:
-
-(a) | Compute the number of edges of a graph with degree sequence (4,3,3, 2,2). [5]
-Draw such a graph and find eccentricity of every vertex.
-CO3; SO1; BL3 | (b) | Show that the given graph is a tree, find the level of each leaf with root asa. | [5]
-
-CO1; SO1; BLI
-
-e a
-C
-~~
-. b
-f d
-COI; SO1;BL1 | (c)_ | Check whether the following directed weighted graph is a network flow: [5]
-a 1/3 ped
-2/5 /3
-s 1/3 2/3 1/2
-2/3 c 2/5
-cB
-CO4; SO1; BL2 | (d) | Find the chromatic polynomial of the complete graphs K,,K,, and path [5]
-graph P,.
-
-1/5
---- page 2 ---
-Q2
-
-(a) | State the deletion-Contraction lemma and hence use it to find the chromatic [6]
-
-C08; BGS BL polynomial of cycle graph Ca,
-
-COL BON BLS | IB Show that cycle graph G is a bipartite graph and find all paths of length 5. [6]
-
-CO2;SO1;BL2 | (c) | Compute the length of shortest path between the vertices a and z in the
-following weighted graph using Dijkstra’s algorithm.
-
-b d
-
-[8]
-
-Q3
-
-(a) | Use Kruskal’s algorithm to find the minimum spanning tree for the
-
-following graph.
-
-CO2; SO1; BL3 [6]
-
-CO1;SO1; BLI | (6) | Draw P,, K,° and hence find join of the graphs. Identify whether the join (6)
-of the graphs is regular graph, bipartite graph or complete graph.
-
-CO3; SO1; BL6 | (c) | Rohan, Mohan, Ben, Tina, Lisa has enrolled for six different sports training
-activities, each activity happening once daily. The activity enrollments are
-A; = {Rohan, Ben, Tina}, A2 = {Ben, Lisa, Mohan}, A3 = {Rohan, Mohan,
-Tina}, Aq = {Lisa, Mohan, Tina}, As= {Rohan, Ben}, and Ac¢ = {Ben, [8]
-Mohan, Tina}. Construct a graph for the above situation and hence find
-how many minimum different time slot must be used to ensure that no one
-misses any activity they have enrolled for.
-
-Q4
-
-(a) | Construct the minimum spanning tree staring with the vertex 7 for the
-
-. . 6
-COM S01 BLA following graph by using Prim’s algorithm. 6]
-
-2/5
---- page 3 ---
-%
-
-graph.
-
-CO4; SO1; BL2 | (b) | Find two clique set with maximum vertices of the following graph. Draw
-the complement of graph and find two independent set with maximum
-vertices of complement of the graph.
-|
-[6]
-CO4; SO1; BL2 | (c) | Find the cut vertices, cut edges and blocks in the graph and also check if the
-graph is connected.
-a qf 8
-[8]
-b é e h
-Q5
-(a) | Draw the cycle graphs C4 and hence find the incidence matrix and
-CO1; SO1;BL1- ; . [6]
-adjacency matrix of C4. Are these matrices symmetric?
-CO2; SO1; BL3 | (b) | Use Depth First Search algorithm to find the spanning tree for the following
-
-3/5
---- page 4 ---
-CO3; SO1; BL3 | (c)_ | Use Max — flow Min -cut theorem to find the min-cut and the capacity of
-min-cut for the following network:
-
-0/5
-
-[8] _-:
-
-Omer
-
-Q6
-
-(a) | Determine whether the given pair of graphs is isomorphic. Exhibit an [10]
-isomorphism or provide a rigorous argument that none exists. Observe the
-row sums of these matrices and identify what they indicate about the graph.
-
-1 2
-
-CO1; $01; BLI 4 3 G La"
-j 7
-~
-
-7 8
-
-(b) | Construct an optimal prefix code for the symbols a, b, g, x, y, z that occur
-C03; 801; BL6 with frequencies 21, 27, 5,17,12,7. [19]
-
-Q7
-
-CO4; SO1; BL4 | (a) | Show that the given graph is Eulerian graph and Hamiltonian graph. Justify | [10]
-your answer by finding the circuits. Give an example of a graph on 5
-vertices which is neither Eulerian graph nor Hamiltonian graph.
-
-4/5
---- page 5 ---
-7
-
-CO3; SO2; BLS
-
-(b)
-
-Evaluate the maximal flow for the following network by Ford -Fulkerson
-algorithm.
-
-[10]
-
-5/5
 ````

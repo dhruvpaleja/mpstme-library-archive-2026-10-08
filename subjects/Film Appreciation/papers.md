@@ -1,8 +1,129 @@
 # Film Appreciation: question papers in full
 
-13 unique papers · 2022 to 2025-26 · Common (all branches), Computer Engineering, Artificial Intelligence, Civil, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics, AI and Data Science
+13 unique papers · 2022-23 to 2025-26 · Common (all branches), Computer Engineering, Artificial Intelligence, Civil, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics, AI and Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Exam not stated · Sem 7 · paper 42d28e7da631
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/FILM APPRECIATION/B Tech, (IT,COMP,MECH,MXTC,CIVIL,EXTC,DS,CSE-DS,AI,AI&DS), Film Appreciation, Sem_a1fb89aa.pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 83.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2025-2026
+
+Program/s: BTI, B.Tech, and MBA Tech Year: 4th/Semester: VE /EL
+Stream/s: All Applicable Streams “
+Subject: Film Appreciation - a, ; Time: 3 hrs. (j02 000m +o 1 Ope)
+Date: 10/ 2/o5- - | : ; No. of Pages: 4
+
+; Marks: 1000 .
+
+. Final Examination (2025-26)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper. and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. od is compulsory.
+
+2) Out of remaining questions, attempt any_-4 __ questions.
+
+3)In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql- . ; :
+Answer briefly: ; ; : : [20]
+Define the following with example: ; . .
+CO-1; a. 5
+BL-l es French New Wave
+Define the following with examples: . . .
+-1; . ; 5
+a b ii, Horror: . ‘
+, iii: | Dutch Anglé
+CO-2; c. _| Describe the auteur theory. Do you agree or disagree? Justify. 5
+BL-2 oe .
+CO-3; d. - | Write a short note on Film Festivals ; 5
+
+-BL-I
+--- page 2 ---
+@u _ | Analyse the short film based on the following elements: , [20]
+
+oe a, | Elements of the Narrative 8
+ar b, | Three Act Structure , © 18
+are ¢, | Sound in the film 4
+- Answer the following based on the clip from Jojo Rabbit:
+Transcript
+JOJO: Wait... You ready?
+Q3 ; 20
+: ELSA: Yeah. Jojo, Is it dangerous out there? [20]
+JOJO: Extremely.
+JOJO: Yes... we made it... Yep. Probably deserved that. (then) So what do
+we do now?
+CO-2, 3; ~~ | Discuss the significance of this scene in Jojo’s character arc. How does it
+BL-3 4. | relate to or diverge from the themes established in the opening scene?
+CO-1, 3; "| What is the symbolic significance of dancing and tying shoelaces in the
+BL-3 B) ftm? - .
+CO-1, 3; ; Discuss the genre of the film. How does this film differ from traditional
+BL-2 ° | Holocaust films? .” ,
+Qt Analyse the following based on this clip from Charulatha (1 964)
+
+CO-2, 3;
+--- page 3 ---
+BL-3
+
+How does Charulatha engage with the male gaze? Does it resist or
+
+reproduce it? ~
+
+b. Describe Satyajit Ray’s contribution.to the film society movement 14
+c. Describe the importance of the opera glasses in the film. — 8
+
+Q5
+CO-L: : "| Discuss the following with adequate examples from any film:
+
+BL-2
+
+a. Adaptations and Cinema | [10]
+
+b. Architecture and Cinema j : [10]
+
+06 oo =
+Analyse the following based on this clip from Children of Heaven (1997) | [20]
+
+CO-2, 3; : : .. aoe in the fil .
+
+BL3 a. Analyze the emotional journey of the main characters in the film. 8
+C023; [> en nr
+‘BL-3 b. Analyse the role of sound and music in the clip. .
+
+Cc. Discuss the genre of the film. Justify your stance ; 4
+Qi
+Kumbalgini Nights: Song : ; ; [20]
+CO-2, 3; Analyse this movie with respect to the New Generation movement in 10
+‘BL-3 a | Vg
+
+Malayam cinema
+--- page 4 ---
+CO-2, 3;
+BL-3
+
+Demonstrate how setting contributes to the theme of the film.
+
+10
+````
 
 ## 2025-26 · Final-Exam · Sem 7 · paper 19c52381277e
 
@@ -576,6 +697,7 @@ ORI E Np) HE ERE
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FILM APPRECIATION/Film Appreciation , Re-exam 2023-20240001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -637,7 +759,6 @@ Critically examine, in detail, the elements of filmmaking and storytelling
 08 in one of the following movies: "1917," "Amadeus," "Little Miss
 CO-2; S0-1; Sunshine," "Good Will Hunting,” “Catch Me If You Can," "Silence of the | [20]
 Bee Lambs," "Mughal-e-Azam," "The Godfather," "The Devil Wears Prada,"
-"Fandry," "Lunchbox," or "Groundhog Day."
 After watching the video clip. Answer the following;
 a) Which movie franchise does the provided clip belong to?
 6 b) Evaluate the character development of the main character throughout
@@ -659,6 +780,7 @@ assertiveness and authority within the narrative?
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FILM APPRECIATION/Film Appreciation ,Re-exam 2023-2024.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04/07/2024
 - Text: ocr (2 pages), mean OCR confidence 89.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -734,8 +856,6 @@ specific film.
 Critically examine, in detail, the elements of filmmaking and storytelling
 w in one of the following movies: "1917," "Amadeus," "Little Miss
 CO-2} S0-1; Sunshine," "Good Will Hunting,” "Catch Me If You Can," "Silence of the | [20]
-abe Lambs," "Mughal-e-Azam," "The Godfather," "The Devil Wears Prada,"
-"Fandry," "Lunchbox," or "Groundhog Day."
 After watching the video clip. Answer the following;
 a) Which movie franchise does the provided clip belong to?
 a b) Evaluate the character development of the main character throughout
@@ -835,7 +955,120 @@ Q7 After watching the scene from “The Godfather”, discuss how filmmaking
 FOREN DR RK
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper 8ace87a49c7f
+## 2022-23 · Exam not stated · Sem 6 · paper b3510eaeff3c
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FILM APPRECIATION/Film Appreciation.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 87.9
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+Oo
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+Program/s: B Tech & MBA Tech Year: II] Semester: VI
+Stream/s ; All streams .
+Subject: Film Appreciation Time: O83 _ hrs (00pmtoS!00pr
+
+Date:_05 /Mag) 2023 No. of Pages: 03
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1
+Q [20]
+CO-1;SO-; | a Explain in detail Surrealism 04
+BL-2
+CO-1;SO-; | b. What is Mise-en-scene 04
+BL 1
+cO- = so-; |e. Compare Fiction & Non-Fiction af
+BL-
+iy SO-; qd. Demonstrate the journey of “Dadasaheb Phalke” in Indian cinema 04
+CO-1 ;SO-; |e. Explain in detail “FTI” 04
+BL-2
+Q2 [20]
+
+a. | Create a storyboard of at least 10 and at most 12 frames by referencing images
+from a search engine based on the story given below.
+CO-2 ; SO- ; 12
+BL-6 It's 9:30 in the morning, the rains have stopped, with overcast weather around.
+Both, again in the same outfit ( still unbathed ) are busy trying to cook Momos in
+
+the kitchen, but are having a tough time doing it. Since they are unaware of the
+--- page 2 ---
+recipe, they are referring to google for the process. The kitchen is a mess with
+infinite ingredients lying all over the place.
+
+ATHARVA: Kar ye taste.. Jenny tastes the raw uncooked yet to be fried Momos.
+JENNY: (With a weird face) Bullshit. Kya hai yeh.
+
+
+
+
+didi hogi tab usse help karenge ye sab banane mai.. (Referring to their maid)
+
+
+ATHARVA: (CONT'D) (Thinks for a second) yahi order karte hai.. momos.. Jenny
+seems lost for a moment. She is thinking about something else. Her expressions
+change.
+
+JENNY: Atharva! (Out of a little excitement) He has opened the food delivery
+apps and is searching for momos.
+
+JENNY: (CONT'D) Atharva...
+
+ATHARVA: Haa vahi dekh Raha hu.. (Referring to the momos delivery) JENNY
+Chod vo.
+
+ATHARVA: Kya ? (Looking at her)
+
+JENNY: Sassanian ??? (With excitement) Atharva immediately closes the food
+
+delivery tab ina reflex action.
+
+piel 80°; 6. Distinguish between Impressionism and Cubism. 08
+8 [20]
+role) SO-; *- | Distinguish between Shot and Sequences. 08
+oy sO; ©. | Discuss the journey of film formats from celluloid to digital. 12
+Q4
+
+[20]
+--- page 3 ---
+aie _ Develop a story in 80-100 words for the epic. 08
+i oO Define Sci-Fi as a genre with an appropriate example. 04
+ot $e Distinguish between Action and Thriller 08
+° (20)
+re 805 Analyze the development of films in the US. 08
+oe BOs Analyze Alfred Hitchcock and his contribution to cinema. 08
+aa Summarize movie Citizen Kane. 04
+“ [20}
+ore 80% Criticize a scene shown from the movie "Ee. Ma. Yau." 12
+—_ _ State the functions of “Oscar Awards” 08
+“ [20]
+a as Appraise the technical aspects of Hitchcock films 20
+````
+
+## 2022-23 · Final-Exam · Sem 9 · paper 8ace87a49c7f
 
 - Departments: Computer Engineering, Mechanical
 - Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / MECHANICAL
@@ -931,6 +1164,7 @@ FRICKE AI PRR RK
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FILM APPRECIATION/Film Appreciation, Sem-VI, Year 2022-23, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 84.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a
@@ -1027,7 +1261,6 @@ ed 80 “ | Summarize "Majid Majidi's" movie songs of sparrows. 04
 6
 
 : (20)
-CO-3; SO-; a. sass 5. 4 ee a a,
 BLS Criticize a scene shown from the movie "Bajirao Mastani. 12
 dl aan Eo, fil ds and film festivals with rel |
 aa ompare film awards and film festivals with relevant examples 08
@@ -1037,245 +1270,4 @@ ee a. | Appraise trademarks in Steven Spielberg’s movies 20
 y
 
 _
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper b3510eaeff3c
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FILM APPRECIATION/Film Appreciation.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 87.9
-
-````text
-Oo
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-Program/s: B Tech & MBA Tech Year: II] Semester: VI
-Stream/s ; All streams .
-Subject: Film Appreciation Time: O83 _ hrs (00pmtoS!00pr
-
-Date:_05 /Mag) 2023 No. of Pages: 03
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1
-Q [20]
-CO-1;SO-; | a Explain in detail Surrealism 04
-BL-2
-CO-1;SO-; | b. What is Mise-en-scene 04
-BL 1
-cO- = so-; |e. Compare Fiction & Non-Fiction af
-BL-
-iy SO-; qd. Demonstrate the journey of “Dadasaheb Phalke” in Indian cinema 04
-CO-1 ;SO-; |e. Explain in detail “FTI” 04
-BL-2
-Q2 [20]
-
-a. | Create a storyboard of at least 10 and at most 12 frames by referencing images
-from a search engine based on the story given below.
-CO-2 ; SO- ; 12
-BL-6 It's 9:30 in the morning, the rains have stopped, with overcast weather around.
-Both, again in the same outfit ( still unbathed ) are busy trying to cook Momos in
-
-the kitchen, but are having a tough time doing it. Since they are unaware of the
---- page 2 ---
-recipe, they are referring to google for the process. The kitchen is a mess with
-infinite ingredients lying all over the place.
-
-ATHARVA: Kar ye taste.. Jenny tastes the raw uncooked yet to be fried Momos.
-JENNY: (With a weird face) Bullshit. Kya hai yeh.
-
-ATHARVA: Shayad fry karne ke Baad sahi lagega.
-
-JENNY: Nahi nahi, ye nahi karte.
-
-ATHARVA: Itni toh mehnat ki yaar thodasa bacha hai..
-
-JENNY: Look! am scared . vo tel ek baar uda tha mujhpe galti se jab ek Baar Sif
-zindagi Mai kuch banane ki koshish ki thi bohot pehle.. ye sab stunts nahi karne..
-didi hogi tab usse help karenge ye sab banane mai.. (Referring to their maid)
-ATHARVA: Mujhe bhuk lagi hai.
-
-JENNY: Ha toh Maggi banate hai na.. vo Mai banati hu chal.. ATHARVA Sunday
-breakfast Mai mujhe Maggie nahi khani Jen.
-
-ATHARVA: (CONT'D) (Thinks for a second) yahi order karte hai.. momos.. Jenny
-seems lost for a moment. She is thinking about something else. Her expressions
-change.
-
-JENNY: Atharva! (Out of a little excitement) He has opened the food delivery
-apps and is searching for momos.
-
-JENNY: (CONT'D) Atharva...
-
-ATHARVA: Haa vahi dekh Raha hu.. (Referring to the momos delivery) JENNY
-Chod vo.
-
-ATHARVA: Kya ? (Looking at her)
-
-JENNY: Sassanian ??? (With excitement) Atharva immediately closes the food
-
-delivery tab ina reflex action.
-
-piel 80°; 6. Distinguish between Impressionism and Cubism. 08
-8 [20]
-role) SO-; *- | Distinguish between Shot and Sequences. 08
-oy sO; ©. | Discuss the journey of film formats from celluloid to digital. 12
-Q4
-
-[20]
---- page 3 ---
-aie _ Develop a story in 80-100 words for the epic. 08
-i oO Define Sci-Fi as a genre with an appropriate example. 04
-ot $e Distinguish between Action and Thriller 08
-° (20)
-re 805 Analyze the development of films in the US. 08
-oe BOs Analyze Alfred Hitchcock and his contribution to cinema. 08
-aa Summarize movie Citizen Kane. 04
-“ [20}
-ore 80% Criticize a scene shown from the movie "Ee. Ma. Yau." 12
-—_ _ State the functions of “Oscar Awards” 08
-“ [20]
-a as Appraise the technical aspects of Hitchcock films 20
-````
-
-## Year not stated · Exam not stated · Sem 7 · paper 42d28e7da631
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/FILM APPRECIATION/B Tech, (IT,COMP,MECH,MXTC,CIVIL,EXTC,DS,CSE-DS,AI,AI&DS), Film Appreciation, Sem_a1fb89aa.pdf`
-- Printed on paper: duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 83.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2025-2026
-
-Program/s: BTI, B.Tech, and MBA Tech Year: 4th/Semester: VE /EL
-Stream/s: All Applicable Streams “
-Subject: Film Appreciation - a, ; Time: 3 hrs. (j02 000m +o 1 Ope)
-Date: 10/ 2/o5- - | : ; No. of Pages: 4
-
-; Marks: 1000 .
-
-. Final Examination (2025-26)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper. and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. od is compulsory.
-
-2) Out of remaining questions, attempt any_-4 __ questions.
-
-3)In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql- . ; :
-Answer briefly: ; ; : : [20]
-Define the following with example: ; . .
-CO-1; a. 5
-BL-l es French New Wave
-Define the following with examples: . . .
--1; . ; 5
-a b ii, Horror: . ‘
-, iii: | Dutch Anglé
-CO-2; c. _| Describe the auteur theory. Do you agree or disagree? Justify. 5
-BL-2 oe .
-CO-3; d. - | Write a short note on Film Festivals ; 5
-
--BL-I
---- page 2 ---
-@u _ | Analyse the short film based on the following elements: , [20]
-
-oe a, | Elements of the Narrative 8
-ar b, | Three Act Structure , © 18
-are ¢, | Sound in the film 4
-- Answer the following based on the clip from Jojo Rabbit:
-Transcript
-JOJO: Wait... You ready?
-Q3 ; 20
-: ELSA: Yeah. Jojo, Is it dangerous out there? [20]
-JOJO: Extremely.
-JOJO: Yes... we made it... Yep. Probably deserved that. (then) So what do
-we do now?
-CO-2, 3; ~~ | Discuss the significance of this scene in Jojo’s character arc. How does it
-BL-3 4. | relate to or diverge from the themes established in the opening scene?
-CO-1, 3; "| What is the symbolic significance of dancing and tying shoelaces in the
-BL-3 B) ftm? - .
-CO-1, 3; ; Discuss the genre of the film. How does this film differ from traditional
-BL-2 ° | Holocaust films? .” ,
-Qt Analyse the following based on this clip from Charulatha (1 964)
-
-CO-2, 3;
---- page 3 ---
-BL-3
-
-How does Charulatha engage with the male gaze? Does it resist or
-
-reproduce it? ~
-
-b. Describe Satyajit Ray’s contribution.to the film society movement 14
-c. Describe the importance of the opera glasses in the film. — 8
-
-Q5
-CO-L: : "| Discuss the following with adequate examples from any film:
-
-BL-2
-
-a. Adaptations and Cinema | [10]
-
-b. Architecture and Cinema j : [10]
-
-06 oo =
-Analyse the following based on this clip from Children of Heaven (1997) | [20]
-
-CO-2, 3; : : .. aoe in the fil .
-
-BL3 a. Analyze the emotional journey of the main characters in the film. 8
-C023; [> en nr
-‘BL-3 b. Analyse the role of sound and music in the clip. .
-
-Cc. Discuss the genre of the film. Justify your stance ; 4
-Qi
-Kumbalgini Nights: Song : ; ; [20]
-CO-2, 3; Analyse this movie with respect to the New Generation movement in 10
-‘BL-3 a | Vg
-
-Malayam cinema
---- page 4 ---
-CO-2, 3;
-BL-3
-
-Demonstrate how setting contributes to the theme of the film.
-
-10
 ````

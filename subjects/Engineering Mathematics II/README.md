@@ -1,6 +1,6 @@
 # Engineering Mathematics II
 
-**33** unique papers (37 copies across programmes) · 2013-14 to 2018-19 · 2 programmes · Sem 2
+**35** unique papers (39 copies across programmes) · 2013-14 to 2018-19 · 3 programmes · Sem 2
 
 Download only this subject, sorted by academic year:
 
@@ -16,9 +16,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | --- | --- | --- | --- | --- | --- |
 | 2018-19 | Final-Exam | Question paper | Sem 2 | B TECH, MBA TECH | MATHEMATICS-II_ALL STREAMS FINAL EXAM_2018-19.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 2 | B TECH, MBA TECH | MATHEMATICS II ALL STREAMS BATCH 2018-19 RE EXAM.pdf |
+| 2018-19 | Re-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Engineering_Mathematics_II_Batch_2016-17_2017-18_2018-19_Re_Exam_PcjOuNB1gL.pdf [1] |
 | 2017-18 | Final-Exam | Question paper | Sem 2 | B TECH | ENGINEENEERING MATHEMATICS (ALL STREAMS), 2017-18 FINAL EXAM.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 2 | MBA TECH | Engineeering_Mathematics-II_2015-16_2016-17_2017-18 Re-exam.pdf |
 | 2016-17 | Final + Re-Exam, Re-Exam | Question paper | Sem 2 | B TECH | ENGINEERING MATHEMATICS II (ALL STREAMS), FINAL EXAM 2016-17 RE EXAM 2015-2016.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Engineering_Mathematics_II_Batch_2016-2017_Final_PUAIJEEetJ.pdf [2] |
 | 2016-17 | Final-Exam | Question paper | Sem 2 | MBA TECH | ENGINEERING MATHEMATICS II 2016-2017 FINAL.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 2 | B TECH | ENGINEERING MATHEMATICS II ALL STREAMS BATCH 15-16, 16-17 RE EXAM.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 2 | MBA TECH | ENGINEERING MATHEMATICS II BATCH 2015-16,16-17 RE EXAM.pdf |
@@ -47,5 +49,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2013-14 | Re-Exam | Question paper | Sem 2 | MBA TECH | ENGINEERING MATHEMATICES II BATCH 2013-2014 RE EXAM.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 2 | MBA TECH | ENGINEERING MATHEMATICS II BATCH 2013-14 RE EXAM.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 2 | MBA TECH | Engineering Mathematics II Batch 2013-14 Re Exam_1f8b03dfe1.pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. filed under "MATHEMATICS II" but the paper is headed "Engineering Mathematics - II"
+2. filed under "MATHEMATICS II" but the paper is headed "Engineering Mathematics - II"
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CS_7055/Digital Circuits and Computer Architecture/ANS_Digital Circuits and Computer Architecture(702CS0C006)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: mixed (12 pages), mean OCR confidence 57.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -260,6 +261,211 @@ Hence, L.H.S = R.H.S
 FRR ICR] DA KH
 ````
 
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 10c4f30bbb50
+
+- Departments: Data Science
+- Programmes: BTech CSE DS 7057
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSE_DS_7057/Digital Circuits and Computer Architecture/ANS_Digital Circuits and Computer Architecture(702CS0C002)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: mixed (8 pages), mean OCR confidence 51.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY COMPUTER SCIENCE AND
+ENGINEERING (DATA SCIENCE)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: Digital Circuits and Computer Architecture
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 8 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:   [20]
+a.   Simplify the following Boolean expression,
+𝐴+ 𝐵[𝐴𝐶+ (𝐵+ 𝐶̅)𝐷]
+CO- 1;   Final Answer
+SO- 1;   [5]
+BL-1   𝐴+ 𝐵𝐷
+b.   What is an encoder? Draw the truth table of 4 lines to the 2-line priority
+encoder.
+Defination 2 marks
+Truth table 3 marks
+CO-2;   D3   D2   D1   D0   Y1   Y0   Valid
+SO-1;   (V)   [5]
+BL-4
+0   0   0   0   X   X   0
+0   0   0   1   0   0   1
+0   0   1   X   0   1   1
+0   1   X   X   1   0   1
+1   X   X   X   1   1   1
+CO- 3;   c.   Discuss the MIPS addressing mode.   [5]
+SO- 1;
+********** 1 **********
+--- page 2 ---
+BL-1   Each addressing mode – 1 mark
+d.   Explain the instruction format.
+CO- 3;   Format – 2 marks
+SO- 1   Explanation 3 marks   [5]
+BL-1   • Opcode → Specifies the operation (ADD, SUB, LOAD, etc.)
+• Operands → Specify data or addresses (registers/memory)
+A   Minimize the following boolean function-
+F(A, B, C, D) = Σm(0, 1, 2, 5, 7, 8, 9, 10, 13, 15)
+Q2
+CO-2;   [10]
+SO-1;
+BL-2
+B   Explain the race-around condition observed in J-K flip-flop and describe
+the technique to avoid it in practical circuits.
+The race-around condition occurs in a J-K flip-flop when both inputs J and
+K are HIGH (1) and the clock pulse remains HIGH for a duration longer
+than the propagation delay of the flip-flop. In this situation, the output
+keeps toggling repeatedly (0 → 1 → 0 → 1 …) as long as the clock is
+active. This happens because the output is fed back to the input, causing
+the flip-flop to change state continuously within one clock period. As a
+result, the final output becomes uncertain or unpredictable, this behaviour
+CO-2;   is known as the race-around condition.
+SO-1;   [10]
+BL-2   Methods to overcome the race-around condition:
+1. Reduce the clock pulse width:
+Keep the clock pulse less than the propagation delay of the flip-
+flop so that only one toggle occurs.
+2. Use Edge-Triggered Flip-Flop:
+Design the circuit so that the output changes only at the rising or
+falling edge of the clock pulse.
+3. Use Master-Slave J-K Flip-Flop:
+The master-slave configuration uses two flip-flops — the master
+responds to the clock’s leading edge, and the slave responds to the
+trailing edge.
+********** 2 **********
+--- page 3 ---
+This ensures that the output changes only once per clock cycle,
+completely eliminating the race-around problem.
+A   Design Full Substractor using NOR gate.
+Q3
+CO-2;   [10]
+SO-2;
+BL-4
+B   Design a 3-bit down synchronous counter using J-K flip-flop.
+CO-2;
+SO-2;   [10]
+BL-4
+********** 3 **********
+--- page 4 ---
+2 S e) x
+° { | K |
+\ ° x \
+\ rl x 6
+
+FIC 7) IC HOH
+--- page 5 ---
+A   Design a Full Adder using 8: 1 multiplexer.
+Q4
+CO- 2;   [10]
+SO-2;
+BL- 3
+CO-3; B
+SO-2;   Develop a circuit for the conversion of S-R flip-flop to J-K flip-flop.   [10]
+BL-3
+********** 5 **********
+--- page 6 ---
+Jonvesies “) BS-R EL +o s-K FF
+
+J OR | Gal oah os | &
+
+oe | 6 | \ “| ©
+©) 4 {© a \
+| 6) G | \ °o
+{16 ! \ x °
+| | oO \ \ o
+\ \ | oO ° \
+
+Excitavies Table
+
+Qn Qh a SR
+
+ao ra) °o x
+
+= { | 16)
+
+\ roo) to) \
+x @)
+
+FIC 6 I HF
+--- page 7 ---
+A   Discuss program control instructions including branching, looping, and
+conditional execution.
+Explanation 2 marks
+Each branching with example 2 marks
+Q5
+Type   Instruction   Purpose
+CO-3;   Example   [10]
+SO-1;
+Unconditional   J LABEL   Direct jump
+BL-2
+Branch
+Conditional Branch   BEQ, BNE   Decision making
+Looping   BNE, ADDI   Repetition
+Conditional   SLT + BEQ   Logical conditions
+Execution
+Subroutine Control   JAL, JR   Function calls
+B   Explain the memory hierarchy with a neat diagram. Discuss the
+CO-3;   characteristics of each level
+SO-1;   [10]
+BL-1   Diagram 2 marks
+Explanation of each memory 2 marks
+A   Compare Direct Mapping, Associative Mapping, and Set-Associative
+Q6
+Mapping in terms of performance, cost, and complexity.   [10]
+CO-4;
+SO-1;   For each feature 2 marks each
+********** 7 **********
+--- page 8 ---
+BL- 2   Feature   Direct   Associative   Set-Associative
+Mapping   Mapping   Mapping
+Placement   Fixed line Any line   Any line within a set
+Speed   Fastest   Slowest   Moderate
+Hit Rate   Lowest   Highest   Medium to High
+Miss Type   High   Low conflict Reduced conflict miss
+conflict   miss
+miss
+Hardware   Simple   Complex   Moderately complex
+(comparators
+)
+Cost   Low   High   Medium
+Complexity   Very low   Very high   Moderate
+Flexibility   Very low   Very high   Medium
+B   What are I/O channels and I/O processors? Explain their role in improving
+CO-4;
+SO-1   system performance.   [10]
+BL- 2
+explanation
+A   Explain the functional units of a computer system with a neat block
+Q7
+diagram. Discuss the role of each unit in executing a program.
+CO-4;   [10]
+SO-1;   Explanation 5 marks
+BL-1
+Role – 5 marks
+B   Describe the Booth’s multiplication algorithm with a step-by-step example
+CO-3;
+SO-1;   Steps 6 marks   [10]
+BL-1
+Example 4 marks
+********** 8 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper cb1e21e20517
 
 - Departments: Computer Science
@@ -267,6 +473,8 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CS_7055/Digital Circuits and Computer Architecture/ANS_Digital Circuits and Computer Architecture(702CS0C006)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (14 pages), mean OCR confidence 57.9
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -350,12 +558,7 @@ un} o 1G] 0 fa nf} o}o ia | 1)
 = a aes gg 1
 101 @)] 0 |@]| o wolf1 | 1}] o} 0
 
-A = GG, + GG, G,G, + G, G, + G,G,) Gy
-+ GG, + G; G,) GG, + (G,G, + G,G;) G, Gy
 = (G; © G) GG, + G,OG)G,G,
-+ (G;® Gy) GG, + (G; OG) GG,
-= (G,® G,) GG, + GG.) + G;OG,) (GG, + G,G,)
-= (G,® G,) (G, OG) + (G;OG,) (G, 6 Gy)
 = (G;® G,) Gi BGo) + G3 B G2) (G, ® G,)
 = (G;®G,) @ (G,® Gy)
 B = (G,G, + G,G)G, + (GG, + G,G,)G,
@@ -614,208 +817,4 @@ i. (x + x y) (x + y) + y z = y + z
 ii. w y z + w z + y z +x y z = w y +w z + x z
 Ans.
 ********** 14 **********
-````
-
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 10c4f30bbb50
-
-- Departments: Data Science
-- Programmes: BTech CSE DS 7057
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSE_DS_7057/Digital Circuits and Computer Architecture/ANS_Digital Circuits and Computer Architecture(702CS0C002)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
-- Text: mixed (8 pages), mean OCR confidence 51.0
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY COMPUTER SCIENCE AND
-ENGINEERING (DATA SCIENCE)
-Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
-Subject: Digital Circuits and Computer Architecture
-Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 8 pages.
-2. Question No. 1 is compulsory
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right-hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1
-Answer briefly:   [20]
-a.   Simplify the following Boolean expression,
-𝐴+ 𝐵[𝐴𝐶+ (𝐵+ 𝐶̅)𝐷]
-CO- 1;   Final Answer
-SO- 1;   [5]
-BL-1   𝐴+ 𝐵𝐷
-b.   What is an encoder? Draw the truth table of 4 lines to the 2-line priority
-encoder.
-Defination 2 marks
-Truth table 3 marks
-CO-2;   D3   D2   D1   D0   Y1   Y0   Valid
-SO-1;   (V)   [5]
-BL-4
-0   0   0   0   X   X   0
-0   0   0   1   0   0   1
-0   0   1   X   0   1   1
-0   1   X   X   1   0   1
-1   X   X   X   1   1   1
-CO- 3;   c.   Discuss the MIPS addressing mode.   [5]
-SO- 1;
-********** 1 **********
---- page 2 ---
-BL-1   Each addressing mode – 1 mark
-d.   Explain the instruction format.
-CO- 3;   Format – 2 marks
-SO- 1   Explanation 3 marks   [5]
-BL-1   • Opcode → Specifies the operation (ADD, SUB, LOAD, etc.)
-• Operands → Specify data or addresses (registers/memory)
-A   Minimize the following boolean function-
-F(A, B, C, D) = Σm(0, 1, 2, 5, 7, 8, 9, 10, 13, 15)
-Q2
-CO-2;   [10]
-SO-1;
-BL-2
-B   Explain the race-around condition observed in J-K flip-flop and describe
-the technique to avoid it in practical circuits.
-The race-around condition occurs in a J-K flip-flop when both inputs J and
-K are HIGH (1) and the clock pulse remains HIGH for a duration longer
-than the propagation delay of the flip-flop. In this situation, the output
-keeps toggling repeatedly (0 → 1 → 0 → 1 …) as long as the clock is
-active. This happens because the output is fed back to the input, causing
-the flip-flop to change state continuously within one clock period. As a
-result, the final output becomes uncertain or unpredictable, this behaviour
-CO-2;   is known as the race-around condition.
-SO-1;   [10]
-BL-2   Methods to overcome the race-around condition:
-1. Reduce the clock pulse width:
-Keep the clock pulse less than the propagation delay of the flip-
-flop so that only one toggle occurs.
-2. Use Edge-Triggered Flip-Flop:
-Design the circuit so that the output changes only at the rising or
-falling edge of the clock pulse.
-3. Use Master-Slave J-K Flip-Flop:
-The master-slave configuration uses two flip-flops — the master
-responds to the clock’s leading edge, and the slave responds to the
-trailing edge.
-********** 2 **********
---- page 3 ---
-This ensures that the output changes only once per clock cycle,
-completely eliminating the race-around problem.
-A   Design Full Substractor using NOR gate.
-Q3
-CO-2;   [10]
-SO-2;
-BL-4
-B   Design a 3-bit down synchronous counter using J-K flip-flop.
-CO-2;
-SO-2;   [10]
-BL-4
-********** 3 **********
---- page 4 ---
-2 S e) x
-° { | K |
-\ ° x \
-\ rl x 6
-
-FIC 7) IC HOH
---- page 5 ---
-A   Design a Full Adder using 8: 1 multiplexer.
-Q4
-CO- 2;   [10]
-SO-2;
-BL- 3
-CO-3; B
-SO-2;   Develop a circuit for the conversion of S-R flip-flop to J-K flip-flop.   [10]
-BL-3
-********** 5 **********
---- page 6 ---
-Jonvesies “) BS-R EL +o s-K FF
-
-J OR | Gal oah os | &
-
-oe | 6 | \ “| ©
-ro) I QO |e a ae
-©) 4 {© a \
-| 6) G | \ °o
-{16 ! \ x °
-| | oO \ \ o
-\ \ | oO ° \
-
-Excitavies Table
-
-Qn Qh a SR
-
-ao ra) °o x
-
-= { | 16)
-
-\ roo) to) \
-x @)
-
-FIC 6 I HF
---- page 7 ---
-A   Discuss program control instructions including branching, looping, and
-conditional execution.
-Explanation 2 marks
-Each branching with example 2 marks
-Q5
-Type   Instruction   Purpose
-CO-3;   Example   [10]
-SO-1;
-Unconditional   J LABEL   Direct jump
-BL-2
-Branch
-Conditional Branch   BEQ, BNE   Decision making
-Looping   BNE, ADDI   Repetition
-Conditional   SLT + BEQ   Logical conditions
-Execution
-Subroutine Control   JAL, JR   Function calls
-B   Explain the memory hierarchy with a neat diagram. Discuss the
-CO-3;   characteristics of each level
-SO-1;   [10]
-BL-1   Diagram 2 marks
-Explanation of each memory 2 marks
-A   Compare Direct Mapping, Associative Mapping, and Set-Associative
-Q6
-Mapping in terms of performance, cost, and complexity.   [10]
-CO-4;
-SO-1;   For each feature 2 marks each
-********** 7 **********
---- page 8 ---
-BL- 2   Feature   Direct   Associative   Set-Associative
-Mapping   Mapping   Mapping
-Placement   Fixed line Any line   Any line within a set
-Speed   Fastest   Slowest   Moderate
-Hit Rate   Lowest   Highest   Medium to High
-Miss Type   High   Low conflict Reduced conflict miss
-conflict   miss
-miss
-Hardware   Simple   Complex   Moderately complex
-(comparators
-)
-Cost   Low   High   Medium
-Complexity   Very low   Very high   Moderate
-Flexibility   Very low   Very high   Medium
-B   What are I/O channels and I/O processors? Explain their role in improving
-CO-4;
-SO-1   system performance.   [10]
-BL- 2
-explanation
-A   Explain the functional units of a computer system with a neat block
-Q7
-diagram. Discuss the role of each unit in executing a program.
-CO-4;   [10]
-SO-1;   Explanation 5 marks
-BL-1
-Role – 5 marks
-B   Describe the Booth’s multiplication algorithm with a step-by-step example
-CO-3;
-SO-1;   Steps 6 marks   [10]
-BL-1
-Example 4 marks
-********** 8 **********
 ````

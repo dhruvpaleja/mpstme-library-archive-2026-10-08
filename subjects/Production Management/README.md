@@ -16,9 +16,9 @@ Also filed as: `PRODUCTION MANAGEMENT (OE)`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, Integrated Mechanical 7031 | ANS_Production Management(702ME0I003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper |  | B.TECH INTEGRATED | Production Management 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, Integrated Mechanical 7031 | QP_Production Management(702ME0I003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, Integrated Mechanical 7031 | ANS_Production Management(702ME0I003)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Production Management, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH, MBA TECH | Production Management, Sem VI, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper |  | B.TECH INTEGRATED | Production Management Batch 2024-25 Final.pdf |

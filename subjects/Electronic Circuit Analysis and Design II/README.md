@@ -1,6 +1,6 @@
 # Electronic Circuit Analysis and Design II
 
-**4** unique papers (4 copies across programmes) · 2016-17 to 2018-19 · 1 programme · Sem 6
+**3** unique papers (3 copies across programmes) · 2016-17 to 2018-19 · 1 programme · Sem 6
 
 Download only this subject, sorted by academic year:
 
@@ -14,7 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2018-19 | Final + Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / EXTC | Electronic Instrumentation 2018-19 Final Batch 2017-18 Re Exam.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / EXTC | Electronic Circuit Analysis and Design II 2018-19 Final.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / EXTC | Electronic Circuit Analysis and Design II 2017-18 Final.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / EXTC | Electronic Circuit Analysis and Design II 2016-2017 Final.pdf |

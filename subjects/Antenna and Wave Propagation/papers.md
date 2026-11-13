@@ -1,10 +1,74 @@
 # Antenna and Wave Propagation: question papers in full
 
-17 unique papers · 2013-14 to 2016-17 · Electronics and Telecommunication, Electronics
+17 unique papers · 2013-14 to 2018-19 · Electronics and Telecommunication, Electronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2016-17 · Re-Exam · Sem 5 · paper bb94c4f373e8
+## 2018-19 · Re-Exam · Sem 5 · paper 8222fecde5eb
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION BATCH 14-15 15-16 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 17 January 2019
+- Text: ocr (1 page), mean OCR confidence 88.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B. Tech (EXTC) Year: Ill
+‘ Academic Year: 2018-2019
+Subject: Antenna and Wave Propagation “ Mar! if
+Date: 17 January 2019 “ " 2. DART _
+Duragey
+C 7 No. of Ragésays i
+
+Re-examination (2014-15/ 2015-16/ 2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Attempt any four 12
+A State and derive Friss transmission theorem.
+B Distinguish between travelling wave and standing wave antenna.
+C Discuss Broadside, End-fire and Hansen woodyard Array.
+D Define radiation intensity, beam efficiency, polarization.
+E What is smart antenna? :
+F Design 3 element Yagi —Uda antenna for 100 MHz.
+Q.2A Draw and explain Los propagation. 4
+Q.2B Define MUF, critical frequency, virtual height and skip distance. 8
+Q.3A Compare sky wave, ground wave and space wave propagation. 6
+Q.3B Draw and explain Cassegrain feed for parabolic reflector. 6
+Q.4A_ Derive E and H fields for half wave dipole. 10
+Q.4B Enumerate the applications of folded dipole. 2
+Q.5A Two point source of equal magnitude and phase are placed at a of distance 2/2. 6
+Calculate the direction of maximum radiation, minimum radiation and half power
+point direction.
+Q.5B_ Derive array factor for n isotropic sources with uniform amplitude and spacing. 6
+ste: Q.6A Explain the method for gain measurement. 04
+Q.6B List and explain contacting feed mechanism for microstrip antenna. 04
+Q.6c Explain the method for measurement of radiation pattern. 04
+Q.7 Write short note an:(Any three) 12
+A Horn antenna
+B__ Folded dipole
+2 C Log periodic antenna
+
+D Adaptive beam forming
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper bb94c4f373e8
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -99,149 +163,7 @@ i C_ Array factor 06
 To
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 8222fecde5eb
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION BATCH 14-15 15-16 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 17 January 2019
-- Text: ocr (1 page), mean OCR confidence 88.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B. Tech (EXTC) Year: Ill
-‘ Academic Year: 2018-2019
-Subject: Antenna and Wave Propagation “ Mar! if
-Date: 17 January 2019 “ " 2. DART _
-Duragey
-C 7 No. of Ragésays i
-
-Re-examination (2014-15/ 2015-16/ 2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Attempt any four 12
-A State and derive Friss transmission theorem.
-B Distinguish between travelling wave and standing wave antenna.
-C Discuss Broadside, End-fire and Hansen woodyard Array.
-D Define radiation intensity, beam efficiency, polarization.
-E What is smart antenna? :
-F Design 3 element Yagi —Uda antenna for 100 MHz.
-Q.2A Draw and explain Los propagation. 4
-Q.2B Define MUF, critical frequency, virtual height and skip distance. 8
-Q.3A Compare sky wave, ground wave and space wave propagation. 6
-Q.3B Draw and explain Cassegrain feed for parabolic reflector. 6
-Q.4A_ Derive E and H fields for half wave dipole. 10
-Q.4B Enumerate the applications of folded dipole. 2
-Q.5A Two point source of equal magnitude and phase are placed at a of distance 2/2. 6
-Calculate the direction of maximum radiation, minimum radiation and half power
-point direction.
-Q.5B_ Derive array factor for n isotropic sources with uniform amplitude and spacing. 6
-ste: Q.6A Explain the method for gain measurement. 04
-Q.6B List and explain contacting feed mechanism for microstrip antenna. 04
-Q.6c Explain the method for measurement of radiation pattern. 04
-Q.7 Write short note an:(Any three) 12
-A Horn antenna
-B__ Folded dipole
-2 C Log periodic antenna
-
-D Adaptive beam forming
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 8efbd35b321f
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION BATCH 14-15, 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 29 May 2017
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: V
-
-Batch: 2014-15/ 2015-16/ 2016-17
-Academic Year: 2016-2017
-
-Subject: Antenna and Wave Propagation
-
-Marks: 60
-Date: 29 May 2017 Time: 10.0
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary. :
-
-Q.1) Attempt any three of the following. . [12]
-A) What is Buality Theorem? Write dual equations for electric and magnetic source.
-B) Explain the significance of Maxwell’s equations.
-C) Compare Broadside array and end fire array.
-D) What are various layers of ionosphere? Write their distance from earth surface.
-
-Q.2-A) Explain the term- Beam efficiency, Beam width and Directivity using mathematical equation. —_ [6]
-B) Derive the relation between effective aperture and directivity of antenna. [6]
-
-Q.3-A) Two identical point source separated by distance d, each source having a filed pattern given by [6]
-Eo =E1sinélIfd = 7 and phase angle a =0, find the expression for total field and plot the
-
-Pattern.
-B) List the various feeding methods of Microstrip patch antenna and explain any one with the help [6]
-of diagram.
-— Q.4-A) Write the characteristics of Yagi-Uda antenna. Why folded dipole is used as an active element [6]
-In Yagi-Uda antenna.
-sR) B) Design a Rhombic antenna to operate at a frequency of 30 Mhz with angle of elevation 30°. [6]
-
-\lae
---- page 2 ---
-Q.5-A) When a linear dipole is called as infinitesimal dipole¢ Compare infinitesimal dipole, small [6]
-ipole and half wave dipole on following points.
-Current distribution, Radiation resistance, effective length and directivity.
-
-B) Write the field equations of half wave dipole antenna and derive it’s radiation resistance. [6]
-'Q.6-A) Explain the concept of Pattern Multiplication with an example. (6]
-B) Explain the construction and working of Helical dntenna. [6]
-
-Q.7) Write short note on following. [12]
-
-A) Sky wave propagation.
-B) Virtual height and skip distance.
-
-2/o
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper fc4c8c1c2d2f
+## 2016-17 · Re-Exam · Sem 5 · paper fc4c8c1c2d2f
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -366,6 +288,306 @@ vi
 06
 
 12
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper 8efbd35b321f
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION BATCH 14-15, 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 29 May 2017
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+
+Batch: 2014-15/ 2015-16/ 2016-17
+Academic Year: 2016-2017
+
+Subject: Antenna and Wave Propagation
+
+Marks: 60
+Date: 29 May 2017 Time: 10.0
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. :
+
+Q.1) Attempt any three of the following. . [12]
+A) What is Buality Theorem? Write dual equations for electric and magnetic source.
+B) Explain the significance of Maxwell’s equations.
+C) Compare Broadside array and end fire array.
+D) What are various layers of ionosphere? Write their distance from earth surface.
+
+Q.2-A) Explain the term- Beam efficiency, Beam width and Directivity using mathematical equation. —_ [6]
+B) Derive the relation between effective aperture and directivity of antenna. [6]
+
+Q.3-A) Two identical point source separated by distance d, each source having a filed pattern given by [6]
+Eo =E1sinélIfd = 7 and phase angle a =0, find the expression for total field and plot the
+
+Pattern.
+B) List the various feeding methods of Microstrip patch antenna and explain any one with the help [6]
+of diagram.
+— Q.4-A) Write the characteristics of Yagi-Uda antenna. Why folded dipole is used as an active element [6]
+In Yagi-Uda antenna.
+sR) B) Design a Rhombic antenna to operate at a frequency of 30 Mhz with angle of elevation 30°. [6]
+
+\lae
+--- page 2 ---
+Q.5-A) When a linear dipole is called as infinitesimal dipole¢ Compare infinitesimal dipole, small [6]
+ipole and half wave dipole on following points.
+Current distribution, Radiation resistance, effective length and directivity.
+
+B) Write the field equations of half wave dipole antenna and derive it’s radiation resistance. [6]
+'Q.6-A) Explain the concept of Pattern Multiplication with an example. (6]
+B) Explain the construction and working of Helical dntenna. [6]
+
+Q.7) Write short note on following. [12]
+
+A) Sky wave propagation.
+B) Virtual height and skip distance.
+
+2/o
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper fa84035db313
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTANNA AND WAVE PROPAGATION B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/2015
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+SVKM’s NiwiIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+/ Programme: B. Tech (EXTC} Year: III Semester: V
+Batch: 2013-2014
+Academic Year: 2015-2016
+agi tWtt OF gy
+Subject: Antenna and Wave Propagation . ot Mev ~.
+Marks :100 #87 (per; VA
+Date: 27/11/2015 * Time :2.00 pi @6.0h 5G Me iY
+
+6. ds.
+Duration : 3 (hrs) UN aietin ae;
+© ji
+
+Insiructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the answer book, which is provided for their use.
+
+Re-Examination
+
+NB:
+
+Question No.1 is compulsory.
+
+Out of the remaining questions, attempt any 4 questions.
+In all 5 questions to be attempted.
+
+Answer to each question to be started on a fresh paper.
+Figures to the right indicate full marks.
+
+Q.1A) Answer any five 10
+
+1) Reflector Antenna
+
+2) Beam area
+
+3) Passive antenna
+
+4) Antenna aperture
+
+5) Maximum power transfer in antenna
+
+6) Ideal receiver and transmitter radiation pattern
+
+Q.1B) Answer any two 10
+
+1 What do you mean by distortion free antennas? Explain with example.
+
+2 Why is required to have constant phase radiation in an antenna? Name
+
+any antenna that radiates with constant phase.
+
+3 Derive and explain the significance of FRIs transmission formula.
+
+Q.2A) Design a3 element Yagi-Uda antenna for wavelength 20MHz. 5
+B) Explain the working of helical antenna? 5
+C) Justify the wide use of half wave dipole. . 5
+D) Explain field zones of antenna 5
+
+Q.3.A) Derive the general expression for He for small dipole in free space 10
+
+starting from electrical vector potential. Also specify far field
+expression for the same.
+
+Q.3B) Why loop antenna is better than a half wave dipole? Why is it 34+2+5
+preferred? Design a loop antenna for operating frequency of 10 MHz.
+
+Q.4A) What is a homogeneous and isotropic medium? State the conditions 5
+for the same.
+
+Q4B) Prove that the direction of propagation of electric magnetic wave isin 10
+Z direction.
+
+1/2
+
+pa
+i
+--- page 2 ---
+Q.4C) What is meant by active and passive antenna? Explain one practical 5
+antenna with the combination of the two.
+
+Q.5A) Designa long-wire antenna for maximum directivity with operating 5
+frequency of 10 Mhz. Can long wire antenna be used as wide band
+antenna?
+
+10
+
+Q.5B) What is log periodic antenna? Explain it’s working in detail.
+
+Q.5C) What is the effect of ground on an antenna? 5
+
+Q.6 A) Write a note on maximum usable frequency. 5
+
+Q.6 B) What do you mean by fading? What are the different types and it’s 5
+effects on antenna performance?
+
+Q.6C) Write a short note on micro strip antenna. 5
+
+Q.6D) Explain advantages of using a paraboloid antenna stating it’s
+construction and working. 5
+
+Q.7 A) Design arhombic antenna for operating frequency 6Muz and desired
+directivity of it should be 20.directivity of an half wave dipole element 10
+is 1.flare angle should be minimum 24°.
+
+Q.7B) _ State the property of tropopsheric transmission and compare it with
+ionospheric transmission. Also explain the effect of earth’s curvature 5+5
+
+on communication system.
+
+ale
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 709c339d8480
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 27/11/2015
+- Text: ocr (2 pages), mean OCR confidence 85.5
+
+````text
+*
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+Batch: 2014-2015
+Academic Year: 2015-2016 aa
+oat eS Ray &
+
+Subject: Antenna and Wave Propagation ib a “ ee,
+
+Marks: 60 a -
+Date: 27/11/2015 Time: od »tisiGopmy )S ye
+
+Duration: 3 [ Sgy >
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data, if required.
+
+Q.1 Attempt any four. 2
+a. Compare resonant and non-resonant antennas.
+
+b. Explain near field and far-field of an antenna.
+
+c. Discuss quality factor and bandwidth of microstrip antenna.
+
+d. What are reflectors? Explain parabolic reflector.
+
+e. A hypothetical isotropic antenna is radiating in free-space. At a distance of 100 m
+
+from the antenna, the total electric field (EZ) is measured to be 5 V/m. Find the
+power density and power radiated.
+
+Q.2A] Difference between Broadside and Endfire array. 06
+Q.2B] Derive expression for near and far field equation of have wave electric dipole. OG
+ale
+Q.3 A) Write the Maxwell’s wave equations in integral form for free space. What is the OG
+physical significance of any two.
+Q.3B) Starting from Max well’s equation, justify that EM waves are transverse in nature. O06
+Q.4A] Discuss horn antenna with advantages, disadvantages and applications. O6
+
+Q.4B] 10 isotropic elements are placed along z axis. Design a Hansen wondyard endfire 0@
+array with the maximum directed along 8 = 180°. Find
+i. desired spacing
+ii. progressive phase shift
+iii. location of the nulls
+iv. FNRBW
+v. HPBW
+
+Q.5A] State and explain the principle of pattern. Obtain the radiation pattern of eight 06
+isotropic sources with spacing )/2 and in phase. Use pattern multiplication
+
+technique.
+Q.5B] Design a rectangular microstrip patch with dimensions W and L, over a single 06
+substrate whose centre frequency is 10 GHz. The dielectric constant of the substrate
+is 10.2 and the height of substrate is 0.127cm. Determine the physical dimensions w
+and L of the patch, taking into account field fringing.
+--- page 2 ---
+Q.6 A) Write a short note on Yagi-Uda antenna. 06
+
+Q.6B) Designarhombic antenna for directivity of 32 and tilt angle 18 degrees. O03
+Q.6C) What do you mean by ground effect? 03
+Q.7A _ Discuss the effects of earth’s curvature on the propagation of signal. O83
+Q.7B _ Define and explain maximum usable frequency and virtual height. of
+Q.7C What is a shadowing effect on EM wave propagation? o3
+Q.7D Write a short note on ionospheric propagation. 03
+
+2
+
+Q—
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper e4ab1d1e49e1
@@ -512,6 +734,187 @@ Q7b Write Short notes on any two:- z 10
 (iii)Sky wave Propagation
 ````
 
+## 2014-15 · Re-Exam · Sem 6 · paper 5104f6ccfe83
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONIC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/VI SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION B TECH ((ELEX), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: exam date: 30/06/2015
+- Text: ocr (1 page), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (ELEX) Year: III Semester: VI
+Batch: 2013-14
+
+Academic Year: 2014-2015
+
+Subject: Antenna and Wave propagation Y oe i
+i Marks: / #100 ' T tal
+Date: 30/06/2015 Time: “10.00 am to! % oh
+Durations’ A 3 tars)
+7 x oy vA
+
+Re-Examination AS Gat
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the answer book, which is provided for their use.
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1 Attempt any four. [20]
+
+a. Explain the polarization of the antenna.
+b. What is fading? Explain in detail
+c. Compare Broadside and Endfire array.
+d. Define directivity and gain. Derive the relation between them.
+e. Explain briefly the term
+i. skip distance
+iii MUF
+iii. Vertical height as used in ionosperic propogation.
+
+Q.2A] Distinguish between travelling wave and Standing wave. [10]
+Q.2B] Explain folded dipole and sleeve dipole with advantages, disadvantages and applications. [10]
+Q.3A] Derive expression for electromagnetic fields from half wavelength dipole. [10]
+Q.3B] Explain Pattern multiplication in detail. [10]
+Q.4A] Explain microstrip antenna in detail. State advantages, disadvantages and applications [10]
+Q.4B] Ten isotropic elements are placed along z axis. Design a Hansen Woodyard endfire
+
+array with the maximum directed along 8 = 180°. Find [10]
+
+i. desired spacing
+ii. progressive phase shift
+iii. location of the nulls
+
+iv. FNBW
+
+v. HPBW
+Q.5A] What is a inverted V antenna? Explain its characteristics. [10]
+Q.5B] Sketch and explain the constructional features of a helical antenna. [10]
+Q.6A] Discuss mechanisms of ground wave and space wave propogations. [10]
+Q.6B] What is reflector? Explain in detail Corner Reflector. [10]
+Q.7] Write short note on [20]
+
+a. Circular array
+
+b. Duct propagation
+
+c. Yagi Uda antenna
+
+d. Quality factor and bandwidth of microstrip patch antenna
+
+A.
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper fe4fc09bdfff
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION B TECH (EXTC), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/06/2015
+- Text: ocr (2 pages), mean OCR confidence 94.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Antenna and Wave Propagation
+
+Marks: 100
+Date: 09/06/2015 Time: 10.00 ne 1.00 pr %
+
+Durations: 3 (hrs) \
+
+Re-Examination me
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the answer book, which is provided for their use:
+
+NB:
+
+Question No.1 is compuisory.
+
+Out of the remaining questions, attempt any 4 questions.
+In all 5 questions to be attempted.
+
+Answer to each question to be started on a fresh paper.
+Figures to the right indicate full marks.
+
+Q.1 A)1 Define an antenna 2
+2 Differentiate between an transmitter and receiver antenna 2
+3 What is dipole antenna? 2
+4 What do you mean by radiation pattern? 2
+5 How are directivity and beam area related? 2
+
+Q.1B) Explain any two
+
+What are different types of aperture antennas? 5
+2 Derive an expression for field intensity of two isotropic antennas. 5
+3. What are two modes of radiation in helical antennas? Compare their 5
+performance.
+
+Q.2 A) What do you mean by antenna resistance? What are it’s effects onthe antenna 3+2
+
+performance?
+B) How are antenna beam efficiency and aes related? Give an expression 3+2
+for stray factor
+C) What type of polarization is preferred? Justify. 243
+D) What do you mean by pattern synthesis by pattern multiplication? Give an 3+2
+example. ;
+Q.3 A) Discuss the pattern synthesis concept in detail. 10
+
+B) Discuss about the radiation pattern of electric dipole. Show the expression for 10
+all the electric field components.
+
+Q.4A) — Starting from Maxwell’s equation, justify that EM wave has constant E and H 10
+field pattern throughout the propagation.
+B) Prove that Ratio of E-field component to H field component is 120z. 10
+
+4/2.
+--- page 2 ---
+What are applications of slot antenna? How are they better than dipole?
+How are rhombic better than linear antenna?
+
+What is the purpose of using stacked rhombic antenna
+
+What are travelling wave antenna? What are the types of linear antenna?
+
+With diagram explain the elements of dish antenna.
+
+What are effects of earth’s curvature on propagation EM wave?
+What is an ionosphere propagation?
+
+What is the advantages of line of sight propagation?
+
+Write a detailed note on different types of attenuations experienced by a signal.
+
+Write a short note on micro strip antenna.
+
+10
+
+2+3
+
+10
+10
+````
+
 ## 2014-15 · Re-Exam · Sem 5 · paper ea23c35d8780
 
 - Departments: Electronics and Telecommunication
@@ -609,104 +1012,96 @@ B Explain the construction and modes of operation of Helix antenna 243.44
 in brief. Draw the field pattern in each mode
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 709c339d8480
+## 2014-15 · Re-Exam · Sem 5 · paper 53cda75267ab
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 27/11/2015
-- Text: ocr (2 pages), mean OCR confidence 85.5
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 29/11/2014
+- Text: ocr (2 pages), mean OCR confidence 90.0
 
 ````text
-*
-
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
 Programme: B. Tech (EXTC) Year: III Semester: V
-Batch: 2014-2015
-Academic Year: 2015-2016 aa
-oat eS Ray &
+* Batch: “2013-2014
+Academic Year: 2014-2015
+Subject: Antenna and Wave Propagation My %
+Marks: f/f é NS
+Date: 29/11/2014 Time: |f ot Bode
+ate: /1l/ ime: | ( a ppt RY a
+3 {hrs} ‘¢/
+FS
+* ye LN
+Re-Examination Sa MS
+a
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+NB: 1. Question No. is compulsory. (if applicable)
+2. Out of remaining questions, attempt any 4 questions, (if applicable)
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks. (if applicable)
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+Q.1 A) Explain in short about the working principle (any three) 15
+1) Folded dipole antenna
+2) Reflector Antenna
+3) Passive antenna
+4) Antenna aperture
+Q.1B) What do you mean antenna grounding? 5
+Q.2 Answer the following 20
+1 What do you mean by electrically long and short antennas? What are
+their applications?
+2 Why is required to assume uniform current distribution in an antenna?
+Which antenna has it?
+8 Why is it necessary to match the impedance of Transmitter and
+antenna impedance?
+4 Design a3 element Yagi-Uda antenna for wavelength 4 micro meters
+Q.3 A) Derive the general expression for Hg for half wave dipole in free space. Also
+specify far field expression for the same. 10
+Q.3B) Why is half wave dipole better than small dipole? Derive the radiation”
+resistance for a half wave dipole. 547
+QA) What is a féed point of antenna? Show it’s affect on antenna performance
+using any antenna as an example. 10
+Q.4B)
+Explain the construction and working of helical antenna. 10
+Q.5 A) What is log periodic antenna? Justify that it is frequency independent. 5+5
+Q.5 B) Compare between a log periodic and Yagi-Uda antenna , broadside array & 10
 
-Subject: Antenna and Wave Propagation ib a “ ee,
-
-Marks: 60 a -
-Date: 27/11/2015 Time: od »tisiGopmy )S ye
-
-Duration: 3 [ Sgy >
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data, if required.
-
-Q.1 Attempt any four. 2
-a. Compare resonant and non-resonant antennas.
-
-b. Explain near field and far-field of an antenna.
-
-c. Discuss quality factor and bandwidth of microstrip antenna.
-
-d. What are reflectors? Explain parabolic reflector.
-
-e. A hypothetical isotropic antenna is radiating in free-space. At a distance of 100 m
-
-from the antenna, the total electric field (EZ) is measured to be 5 V/m. Find the
-power density and power radiated.
-
-Q.2A] Difference between Broadside and Endfire array. 06
-Q.2B] Derive expression for near and far field equation of have wave electric dipole. OG
-ale
-Q.3 A) Write the Maxwell’s wave equations in integral form for free space. What is the OG
-physical significance of any two.
-Q.3B) Starting from Max well’s equation, justify that EM waves are transverse in nature. O06
-Q.4A] Discuss horn antenna with advantages, disadvantages and applications. O6
-
-Q.4B] 10 isotropic elements are placed along z axis. Design a Hansen wondyard endfire 0@
-array with the maximum directed along 8 = 180°. Find
-i. desired spacing
-ii. progressive phase shift
-iii. location of the nulls
-iv. FNRBW
-v. HPBW
-
-Q.5A] State and explain the principle of pattern. Obtain the radiation pattern of eight 06
-isotropic sources with spacing )/2 and in phase. Use pattern multiplication
-
-technique.
-Q.5B] Design a rectangular microstrip patch with dimensions W and L, over a single 06
-substrate whose centre frequency is 10 GHz. The dielectric constant of the substrate
-is 10.2 and the height of substrate is 0.127cm. Determine the physical dimensions w
-and L of the patch, taking into account field fringing.
+end fire array.
 --- page 2 ---
-Q.6 A) Write a short note on Yagi-Uda antenna. 06
+Q.6 A)
 
-Q.6B) Designarhombic antenna for directivity of 32 and tilt angle 18 degrees. O03
-Q.6C) What do you mean by ground effect? 03
-Q.7A _ Discuss the effects of earth’s curvature on the propagation of signal. O83
-Q.7B _ Define and explain maximum usable frequency and virtual height. of
-Q.7C What is a shadowing effect on EM wave propagation? o3
-Q.7D Write a short note on ionospheric propagation. 03
+Q.6 B)
+Q.6 C)
 
-2
+Q7 A)
 
-Q—
+Q.7B)
+
+What are the different types of fading? What are it’s effects on antenna
+performance?
+
+Write a short note on working and applications of micro strip antenna.
+Write a detailed note on critical frequency.
+
+Design a rhombic antenna for operating frequency 6MHz and desired
+directivity of it should be 12 if directivity of a half wave dipole element is
+| flare angle should be minimum 30°.
+
+State the property of tropopsheric transmission and compare it with
+
+ionospheric transmission. Also explain the effect of earth’s curvature on
+communication system.
+
+phe
+
+545
+
+10
+
+545
 ````
 
 ## 2013-14 · Final-Exam · Sem 6 · paper 9932273fbdb2
@@ -1007,91 +1402,6 @@ r
 #
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper 5104f6ccfe83
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONIC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/VI SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION B TECH ((ELEX), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: exam date: 30/06/2015
-- Text: ocr (1 page), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (ELEX) Year: III Semester: VI
-Batch: 2013-14
-
-Academic Year: 2014-2015
-
-Subject: Antenna and Wave propagation Y oe i
-i Marks: / #100 ' T tal
-Date: 30/06/2015 Time: “10.00 am to! % oh
-Durations’ A 3 tars)
-7 x oy vA
-
-Re-Examination AS Gat
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the answer book, which is provided for their use.
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1 Attempt any four. [20]
-
-a. Explain the polarization of the antenna.
-b. What is fading? Explain in detail
-c. Compare Broadside and Endfire array.
-d. Define directivity and gain. Derive the relation between them.
-e. Explain briefly the term
-i. skip distance
-iii MUF
-iii. Vertical height as used in ionosperic propogation.
-
-Q.2A] Distinguish between travelling wave and Standing wave. [10]
-Q.2B] Explain folded dipole and sleeve dipole with advantages, disadvantages and applications. [10]
-Q.3A] Derive expression for electromagnetic fields from half wavelength dipole. [10]
-Q.3B] Explain Pattern multiplication in detail. [10]
-Q.4A] Explain microstrip antenna in detail. State advantages, disadvantages and applications [10]
-Q.4B] Ten isotropic elements are placed along z axis. Design a Hansen Woodyard endfire
-
-array with the maximum directed along 8 = 180°. Find [10]
-
-i. desired spacing
-ii. progressive phase shift
-iii. location of the nulls
-
-iv. FNBW
-
-v. HPBW
-Q.5A] What is a inverted V antenna? Explain its characteristics. [10]
-Q.5B] Sketch and explain the constructional features of a helical antenna. [10]
-Q.6A] Discuss mechanisms of ground wave and space wave propogations. [10]
-Q.6B] What is reflector? Explain in detail Corner Reflector. [10]
-Q.7] Write short note on [20]
-
-a. Circular array
-
-b. Duct propagation
-
-c. Yagi Uda antenna
-
-d. Quality factor and bandwidth of microstrip patch antenna
-
-A.
-````
-
 ## 2013-14 · Re-Exam · Sem 6 · paper cdd448b42bdd
 
 - Departments: Electronics
@@ -1189,316 +1499,6 @@ d) Antenna Temperature [05]
 % KX
 
 2/2
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper fa84035db313
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTANNA AND WAVE PROPAGATION B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/2015
-- Text: ocr (2 pages), mean OCR confidence 89.2
-
-````text
-SVKM’s NiwiIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-/ Programme: B. Tech (EXTC} Year: III Semester: V
-Batch: 2013-2014
-Academic Year: 2015-2016
-agi tWtt OF gy
-Subject: Antenna and Wave Propagation . ot Mev ~.
-Marks :100 #87 (per; VA
-Date: 27/11/2015 * Time :2.00 pi @6.0h 5G Me iY
-
-6. ds.
-Duration : 3 (hrs) UN aietin ae;
-© ji
-
-Insiructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the answer book, which is provided for their use.
-
-Re-Examination
-
-NB:
-
-Question No.1 is compulsory.
-
-Out of the remaining questions, attempt any 4 questions.
-In all 5 questions to be attempted.
-
-Answer to each question to be started on a fresh paper.
-Figures to the right indicate full marks.
-
-Q.1A) Answer any five 10
-
-1) Reflector Antenna
-
-2) Beam area
-
-3) Passive antenna
-
-4) Antenna aperture
-
-5) Maximum power transfer in antenna
-
-6) Ideal receiver and transmitter radiation pattern
-
-Q.1B) Answer any two 10
-
-1 What do you mean by distortion free antennas? Explain with example.
-
-2 Why is required to have constant phase radiation in an antenna? Name
-
-any antenna that radiates with constant phase.
-
-3 Derive and explain the significance of FRIs transmission formula.
-
-Q.2A) Design a3 element Yagi-Uda antenna for wavelength 20MHz. 5
-B) Explain the working of helical antenna? 5
-C) Justify the wide use of half wave dipole. . 5
-D) Explain field zones of antenna 5
-
-Q.3.A) Derive the general expression for He for small dipole in free space 10
-
-starting from electrical vector potential. Also specify far field
-expression for the same.
-
-Q.3B) Why loop antenna is better than a half wave dipole? Why is it 34+2+5
-preferred? Design a loop antenna for operating frequency of 10 MHz.
-
-Q.4A) What is a homogeneous and isotropic medium? State the conditions 5
-for the same.
-
-Q4B) Prove that the direction of propagation of electric magnetic wave isin 10
-Z direction.
-
-1/2
-
-pa
-i
---- page 2 ---
-Q.4C) What is meant by active and passive antenna? Explain one practical 5
-antenna with the combination of the two.
-
-Q.5A) Designa long-wire antenna for maximum directivity with operating 5
-frequency of 10 Mhz. Can long wire antenna be used as wide band
-antenna?
-
-10
-
-Q.5B) What is log periodic antenna? Explain it’s working in detail.
-
-Q.5C) What is the effect of ground on an antenna? 5
-
-Q.6 A) Write a note on maximum usable frequency. 5
-
-Q.6 B) What do you mean by fading? What are the different types and it’s 5
-effects on antenna performance?
-
-Q.6C) Write a short note on micro strip antenna. 5
-
-Q.6D) Explain advantages of using a paraboloid antenna stating it’s
-construction and working. 5
-
-Q.7 A) Design arhombic antenna for operating frequency 6Muz and desired
-directivity of it should be 20.directivity of an half wave dipole element 10
-is 1.flare angle should be minimum 24°.
-
-Q.7B) _ State the property of tropopsheric transmission and compare it with
-ionospheric transmission. Also explain the effect of earth’s curvature 5+5
-
-on communication system.
-
-ale
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper fe4fc09bdfff
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION B TECH (EXTC), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/06/2015
-- Text: ocr (2 pages), mean OCR confidence 94.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: V
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Antenna and Wave Propagation
-
-Marks: 100
-Date: 09/06/2015 Time: 10.00 ne 1.00 pr %
-
-Durations: 3 (hrs) \
-
-Re-Examination me
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the answer book, which is provided for their use:
-
-NB:
-
-Question No.1 is compuisory.
-
-Out of the remaining questions, attempt any 4 questions.
-In all 5 questions to be attempted.
-
-Answer to each question to be started on a fresh paper.
-Figures to the right indicate full marks.
-
-Q.1 A)1 Define an antenna 2
-2 Differentiate between an transmitter and receiver antenna 2
-3 What is dipole antenna? 2
-4 What do you mean by radiation pattern? 2
-5 How are directivity and beam area related? 2
-
-Q.1B) Explain any two
-
-What are different types of aperture antennas? 5
-2 Derive an expression for field intensity of two isotropic antennas. 5
-3. What are two modes of radiation in helical antennas? Compare their 5
-performance.
-
-Q.2 A) What do you mean by antenna resistance? What are it’s effects onthe antenna 3+2
-
-performance?
-B) How are antenna beam efficiency and aes related? Give an expression 3+2
-for stray factor
-C) What type of polarization is preferred? Justify. 243
-D) What do you mean by pattern synthesis by pattern multiplication? Give an 3+2
-example. ;
-Q.3 A) Discuss the pattern synthesis concept in detail. 10
-
-B) Discuss about the radiation pattern of electric dipole. Show the expression for 10
-all the electric field components.
-
-Q.4A) — Starting from Maxwell’s equation, justify that EM wave has constant E and H 10
-field pattern throughout the propagation.
-B) Prove that Ratio of E-field component to H field component is 120z. 10
-
-4/2.
---- page 2 ---
-What are applications of slot antenna? How are they better than dipole?
-How are rhombic better than linear antenna?
-
-What is the purpose of using stacked rhombic antenna
-
-What are travelling wave antenna? What are the types of linear antenna?
-
-With diagram explain the elements of dish antenna.
-
-What are effects of earth’s curvature on propagation EM wave?
-What is an ionosphere propagation?
-
-What is the advantages of line of sight propagation?
-
-Write a detailed note on different types of attenuations experienced by a signal.
-
-Write a short note on micro strip antenna.
-
-10
-
-2+3
-
-10
-10
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 53cda75267ab
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/ANTENNA AND WAVE PROPOGATION/ANTENNA AND WAVE PROPAGATION B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 29/11/2014
-- Text: ocr (2 pages), mean OCR confidence 90.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: V
-* Batch: “2013-2014
-Academic Year: 2014-2015
-Subject: Antenna and Wave Propagation My %
-Marks: f/f é NS
-Date: 29/11/2014 Time: |f ot Bode
-ate: /1l/ ime: | ( a ppt RY a
-3 {hrs} ‘¢/
-FS
-* ye LN
-Re-Examination Sa MS
-a
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-NB: 1. Question No. is compulsory. (if applicable)
-2. Out of remaining questions, attempt any 4 questions, (if applicable)
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks. (if applicable)
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-Q.1 A) Explain in short about the working principle (any three) 15
-1) Folded dipole antenna
-2) Reflector Antenna
-3) Passive antenna
-4) Antenna aperture
-Q.1B) What do you mean antenna grounding? 5
-Q.2 Answer the following 20
-1 What do you mean by electrically long and short antennas? What are
-their applications?
-2 Why is required to assume uniform current distribution in an antenna?
-Which antenna has it?
-8 Why is it necessary to match the impedance of Transmitter and
-antenna impedance?
-4 Design a3 element Yagi-Uda antenna for wavelength 4 micro meters
-Q.3 A) Derive the general expression for Hg for half wave dipole in free space. Also
-specify far field expression for the same. 10
-Q.3B) Why is half wave dipole better than small dipole? Derive the radiation”
-resistance for a half wave dipole. 547
-QA) What is a féed point of antenna? Show it’s affect on antenna performance
-using any antenna as an example. 10
-Q.4B)
-Explain the construction and working of helical antenna. 10
-Q.5 A) What is log periodic antenna? Justify that it is frequency independent. 5+5
-Q.5 B) Compare between a log periodic and Yagi-Uda antenna , broadside array & 10
-
-end fire array.
---- page 2 ---
-Q.6 A)
-
-Q.6 B)
-Q.6 C)
-
-Q7 A)
-
-Q.7B)
-
-What are the different types of fading? What are it’s effects on antenna
-performance?
-
-Write a short note on working and applications of micro strip antenna.
-Write a detailed note on critical frequency.
-
-Design a rhombic antenna for operating frequency 6MHz and desired
-directivity of it should be 12 if directivity of a half wave dipole element is
-| flare angle should be minimum 30°.
-
-State the property of tropopsheric transmission and compare it with
-
-ionospheric transmission. Also explain the effect of earth’s curvature on
-communication system.
-
-phe
-
-545
-
-10
-
-545
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper e7491e07768f

@@ -14,13 +14,13 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_SOLID MECHANICS(701ME0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_SOLID MECHANICS(701ME0C027)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 4 | Integrated Mechanical 7031 | ANS_Solid Mechanics(701ME0C007)_2024-2025.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_SOLID MECHANICS(701ME0C027)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Soild Mechanics Batch 2024-25 Fianl.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | Integrated Mechanical 7031 | QP_Solid Mechanics(701ME0C007)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 4 | Integrated Mechanical 7031 | ANS_Solid Mechanics(701ME0C007)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 4 | Integrated Mechanical 7031 | ANS_Solid Mechanics(701ME0C007)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 4 | Integrated Mechanical 7031 | QP_Solid Mechanics(701ME0C007)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 4 | Integrated Mechanical 7031 | ANS_Solid Mechanics(701ME0C007)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Soild Mechanics Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Soild Mechanics Batch 2022-23,2023-24 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Solid Mechanics Batch 2022-23 Final0001.pdf |

@@ -14,8 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Mechanics of Materials(702MH0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Mechatronics 7004 | QP_Mechanics of Materials(702MH0C027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Mechanics of Materials(702MH0C027)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / MECHATRONICS | B Tech, Mechanics of Materials, Sem-IV, Batch 2022-23, 2024-25 & 2025-26, Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHATRONICS | Mechanics of Materials, Sem IV, Final Exam 2024-25 & Re Exam 2022-23.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHATRONICS | Mechanics of Materials, Sem-IV, Final & Re Exam Batch 2022-23.pdf |

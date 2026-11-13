@@ -218,6 +218,7 @@ BL-3   its real-world application in LLM fine-tuning.
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/Generative AI with Large Language Models/Generative AI with Large Language Models Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
 - Text: ocr (3 pages), mean OCR confidence 90.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “
@@ -382,5 +383,4 @@ print(f"{ent.text} -> {ent.label_}")
 
 ry
 
-FOR IIR QA a kk a ak a
 ````

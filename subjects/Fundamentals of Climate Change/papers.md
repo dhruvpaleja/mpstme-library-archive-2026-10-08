@@ -2876,6 +2876,200 @@ been in the COP mandates at COP 27? Give an example of how India is proposing to
 meet the goal set down by the body.
 ````
 
+## 2023-24 · Re-Exam · Sem 6 · paper 786519e77fdb
+
+- Departments: Civil, Open Electives
+- Programmes: B TECH / OPEN ELECTIVE, B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/OPEN ELECTIVE/SEM-VI/Fundamentals of Climate Change Batch 2021-22 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN’ ‘
+Academic Year: 2023-2024 }
+
+Program/s: Btech / MBATech / BTI Civil Year: IIAV//V Semester: VI/ViM /X
+Stream/s: Open Elective “ r
+
+Subject: Fundamentals of Climate Change Time: 3 hours (toen—1 pa)
+
+Date: © 4/ Tuhy/2024 ; No. of Pages:02—
+Marks:100
+
+Re-Examination (20 QA - 22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 (four) questions.
+3) In all 5 (five) questions to be attempted.
+4) All questions carry equal marks.
+-. 5) Answer to each new question to be started on a fresh page. Draw diagrams whenever necessary
+6) Figures in brackets on the right hand side indicate full marks.
+
+Ql Compulsory Question [20]
+Co-3
+S0-3,4,7 | a. | Describe India’s stand in the COP 28 and their status of COP 27 decisions. (5)
+BL-3
+ae 7 b Describe the uniqueness of Lake Vostok and state the information that paleo- (5)
+BL- 4 * | climatologists may get from it.
+ae 4 ° Explain the connection between methane and cattle rearing. Comment on the present (5)
+BL-3 "| world statistics of methane production. ,
+47 d Summarize the reasons behind the planet’s eccentricity? What are the effects of the (5)
+BL-4 * | phenomenon?
+Answer any (4) four from Q2 to Q7
+_ Q2
+CO-1 A The Hadley cells have a prominent effect upon the weather patterns. Explain the [10]
+SO-3, 4,7 * | concepts with well labelled diagrams.
+BL-5
+CO-1 Differentiate between Volcanic Winter and Nuclear Winter.
+SO-3, 4, 7 b. | How has the temperature on the surface of the Earth changed over the past years? [10]
+BL-4 Substantiate your answer with a sketch of a graph to show the main turning points.
+Explain how dendrochronology helps in understanding the past events of climate
+
+Q3 change. Draw a well labelled diagram to explain how the evaluation of past climate
+Co2 g gr Pp
+
+a. | events is ascertained. [10]
+SO-3, 4
+BL-4
+
+1|Page
+--- page 2 ---
+i?
+CO-3 Differentiate between normal Steel and Green Steel. How will the production of.
+
+SO-3, 4,7 b. | Green Steel affect climate change mitigation efforts? Where does India stand in [10]
+BL-4 achieving the Green steel goal?
+of F Evaluate the progress of the Paris agreement protocol. How has India fared in the
+S 03 4 process so far? Describe the main parameters of the Least Developed Countries
+
+= * | Fund (LD [10]
+BL-3 und (LDCF).
+aS 47 a What is the role of Basalt rocks in Carbon Sequestration? Elaborate upon the [10]
+
+ee * | different ways in which carbon sequestration can be carried out.
+
+BL-4 y' q
+Q5
+Cco-3 4, Elaborate upon the term Vulnerability Assessment. How is it measured? How are [10]
+SO-3, 4,7 * | climate change issues and resilient infrastructure development related?
+BL-4 : :
+oa 47 b Using any Case study, describe the effect of climate change on Human health, [10]
+BL-4 * | livelihoods and poverty.
+Q6
+CO-1 4 Evaluate the role of Radiative Transfer in the Earth Energy Budget. What is the [10]
+SO-3, 4,7 * | Ice Albedo effect?
+BL-5
+CO-2 F : - j
+§0-3.4,7 b Describe the projected future trends and impacts of climate change on surface [10]
+BL-4 * | precipitation, with special emphasis on the monsoons?
+a, 5 Antarctica is facing harsh climate change. Explain how this has had a strong impact
+S 03 47 a. |-upon the ice sheets and native fauna and flora. How is past climate change [10]
+BLS information stored in ice drill cores?
+cos Discuss the SDGs (Sustainable Development Goals) that have direct influence and
+503 47 b, | Consequence on climate change mitigation possibilities. Comment on India’s [10]
+BL-4 * | position in CCPI (Climate Change Performance Index) and EPI (Environmental
+
+Performance index) in comparison to the rest of the World?
+
+2|Page
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper 8a282da5f1d3
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FUNDAMENTALS OF CLIMATE CHANGE/Fundamentals of Climate Change.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 4th May 2023
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& E
+Academic Year: 2022-2023
+
+Program/s: Btech/MBATech Year: III/IV Semester: VI/VIII
+Stream/s: Open Elective ; Ail Streams
+
+Subject: Fundamentals of Climate Change Time: 3 hours (2 to 5 pm)
+Date: 4th May 2023 No. of Pages:02
+
+Marks: 100
+
+Final Examination/Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 (four) questions.
+
+3) In all 5 (five) questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. Draw diagrams whenever necessary
+6) Figures in brackets on the right hand side indicate full marks. ,
+
+Ql Compulsory Question (20]
+ar 47 a Explain what is meant by eccentricity of the Earth’s orbit? Summarize the reasons (5)
+BL- 4 ; ’ | behind the planet’s eccentricity?
+CO-2
+SO-3, 7 b. | Correlate the concepts of Ice-Drill Core studies and past paleo-climate situations. (5)
+BL-4
+er c Classify Greenhouse gases and their types? Explain how cattle rearing amounts to (5)
+BL2. * | increased GHGs (Green House Gases)
+Co-3
+SO-3, 4,7 d. | Correlate India’s stand towards the main tenets of the Paris Agreement. (5)
+BL-3
+Answer any (4) four from Q2 to Q7
+Q2 a. | Describe the effects of Coriolis Acceleration and its impact on Climate Change. [10]
+CO-1
+SO-3, 4,7 . P 5
+BL-4.3 b Explain the Naked Planet Climate model with reference to the equation used for the [10]
+; "| purpose.
+
+Q3 a Differentiate between Dendrochronology and Dendroclimatology with adequate [10]
+CO-1,2 explanations of each.
+SO-3, 4
+BL-4 : . . . 3
+
+b. | Summarize the Global Ocean Circulations. Explain the effects of El Nino. [10]
+
+1|Page
+--- page 2 ---
+Q4
+
+Elaborate about the concept of COPs (Conference of Parties). What was India’s stand [10]
+
+CO-3, 2 in COP 27.
+SO-3,4
+BL-3
+Describe the Carbon sequestration types. How is Carbon footprint index calculated? [10]
+Elaborate upon the different methods of assessing Climate Change Adaptation and [10]
+Q5 Resilience. What hand has World Bank had in the process?
+CO-3, |
+SO-3, 4,7
+BL-3, 4 Using any Case study, describe the effect of climate change on the health of [10]
+ecosystems.
+06 Connect the concepts of Radiative Transfer and the Earth Energy Budget. [10]
+CO-1, 2
+SO-3, 4, 7 h d
+BL-4,3 Evaluate the effect of climate change upon the projected future trends of Ocean pH [10]
+values.
+Describe the global effects of the Global Ice Sheet Degradation. [10]
+Q7
+ee 7 Correlate SDG 13 (Sustainable Development Goals) to steps being taken by India for
+BL-S. 4 the purpose. Deliberate on how our country fares on CCPI (Climate Change [10]
+; Performance Index) and EPI (Environmental Performance index) in comparison to
+the rest of the World?
+2|Page
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper abbf644900d3
 
 - Departments: Common (all branches)
@@ -2991,113 +3185,7 @@ x
 2|Pageof2
 ````
 
-## 2021-22 · Final-Exam · Sem 8 · paper 838529fb6711
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VIII/FUNDAMENTALS OF CLIMATE CHANGE/Fundamentals of climate change,Sem8,Final,2021-22.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 22 April 2022
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS Ne y
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2021-22
-
-Programme: B.Tech/MBA Tech (All Stream) Year: IV Semester: VIII
-Subject: Fundamentals of Climate Change Marks: 100
-
-_ . Time: 2.00 pm to 5.00 pm
-Date: 22 April 2022 Durations: 3 (hrs)
-
-; No. of Pages: _2
-* Final Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 __ questions.
-3) In all__5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly: [20]
-
-CO-2 ; SO-4 ; BL-2 a. Define the term Paleo Climate with some examples.
-
-CO-1 ; SO-4; BL-2 b. Discuss:1) Ozone depletion; 2) Global Warming
-
-CO-1 ; SO-4; BL-2 Explain :1) Nuclear winter; 2) Global Circulation
-
-CO- 3; SO-4; BL-2 d. Discuss IPCC’s role in climate change
-
-Q2 a. What do you understand by Climate Change vulnerability? Discuss five tasks related to [10]
-CO-3; SO-4; BL-2 vulnerability.
-CO-3; SO-4; BL-2 b Compare short term and long-term mitigation with examples [5]
-CO-4; SO-4; BL-2 c Compare Least Developed countries fund (LDCF) and Green Climate Fund (GCF) [5]
-. Some of the human sources of greenhouse gases in the atmosphere are shown below:
-i Q3 crop farming using chemical fertilisers; factories burning fossil fuels;
-CO-1; SO-4; BL-2 livestock farmers keeping cattle; refrigeration and air conditioning;
-
-decomposition of waste in landfill; exhaust emissions from old trucks and
-buses; use of aerosol sprays; car engines running on petrol
-
-af-
---- page 2 ---
-CO-1; SO-4; BL-2 a. Fill in the table to show sources for the different greenhouse gases. Use each source once [5]
-only.
-Greenhouse gas Human source
-Cco2
-Methane
-CFCs
-N20
-
-Looking at all of these sources suggests that people in every country of the world,
-CO-1; SO-4; BL-2 b. whether rich or poor, contribute to the release of greenhouse gases. How true is this [5]
-statement? Explain your view as fully as you can.
-
-. . Gs CFCs are the main cause of the ozone hole in the upper atmosphere over Antarctica. .
-CO-4; SO-4; BL-2 ; . : : [5]
-Explain why the hole in the ozone layer does not increase global warming.
-CO-1; SO-4; BL-2 d. Why are people concerned about damage to the Ozone layer? [5]
-a.
-Ca $0-4: BL-2 Earth Budget is a concept for energy circulation. Comment and discuss in detail [5]
-CO-3; SO-4; BL-2 b. Discuss the reasons and consequences of Climate Change in India [5]
-CO-4; SO-4; BL-2 c. Discuss India’s role in climate change mitigation 5]
-CO-2; SO-4; BL-2 d. Comment on the concepts of El Nino and La Nina [5]
-a The table gives the amount of carbon emitted into the atmosphere in carbon dioxide from
-1860 to 2000. These are cumulative totals (new amounts released each year have been
-added to those already there).
-Year Carbon /billion tonnes
-1860 40
-05 : 1880 50
-. . 1900 60 [5]
-CO-1; SO-4; BL-2 1920 90
-1940 130
-1960 180
-1980 270
-2000 380
-Draw a line graph with year on x axis to show the carbon emitted from 1860-2000
-CO-2 SO-4; BL-2 b. Describe two most important things that the graph shows about carbon emission from [5]
-1860-2000
-CO-4; SO-4; BL-2 c. Define slug theory for climate change [5]
-CO-4; SO-4; BL-2 d. Discuss in detail the Pilot Program for Climate Resilience (PPCR) [5]
-Q6 a. . oD
-CO-1; $O-4; BL-2 Is climate change same as global warming? Discuss [4]
-CO-5 :SO-4; BL-2 b. State two different reasons why carbon dioxide is very important for life on Earth. Also [5]
-explain the role of Basalt in Climate change
-CO-4; SO-4;BL-2. © Discuss any three SDG [6]
-CO-4; SO-4; BL-2 a Comment on the provisions and outcomes of COP26 (5)
-
-2h
-````
-
-## 2021-22 · Re-Exam · Sem 6 · paper 60aa5ae59bf6
+## 2022-23 · Re-Exam · Sem 6 · paper 60aa5ae59bf6
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
@@ -3212,106 +3300,110 @@ Give a roundup of India’s efforts in Afforestation.
 gg
 ````
 
-## 2021-22 · Re-Exam · Sem 6 · paper 786519e77fdb
+## 2021-22 · Final-Exam · Sem 8 · paper 838529fb6711
 
-- Departments: Civil, Open Electives
-- Programmes: B TECH / OPEN ELECTIVE, B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/OPEN ELECTIVE/SEM-VI/Fundamentals of Climate Change Batch 2021-22 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.0
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VIII/FUNDAMENTALS OF CLIMATE CHANGE/Fundamentals of climate change,Sem8,Final,2021-22.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 22 April 2022
+- Text: ocr (2 pages), mean OCR confidence 90.6
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN’ ‘
-Academic Year: 2023-2024 }
+SVKM’s NMIMS Ne y
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
 
-Program/s: Btech / MBATech / BTI Civil Year: IIAV//V Semester: VI/ViM /X
-Stream/s: Open Elective “ r
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Subject: Fundamentals of Climate Change Time: 3 hours (toen—1 pa)
+Academic Year: 2021-22
 
-Date: © 4/ Tuhy/2024 ; No. of Pages:02—
-Marks:100
+Programme: B.Tech/MBA Tech (All Stream) Year: IV Semester: VIII
+Subject: Fundamentals of Climate Change Marks: 100
 
-Re-Examination (20 QA - 22)
+_ . Time: 2.00 pm to 5.00 pm
+Date: 22 April 2022 Durations: 3 (hrs)
 
+; No. of Pages: _2
+* Final Examination
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 (four) questions.
-3) In all 5 (five) questions to be attempted.
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 __ questions.
+3) In all__5_ questions to be attempted.
 4) All questions carry equal marks.
--. 5) Answer to each new question to be started on a fresh page. Draw diagrams whenever necessary
+5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
 
-Ql Compulsory Question [20]
-Co-3
-S0-3,4,7 | a. | Describe India’s stand in the COP 28 and their status of COP 27 decisions. (5)
-BL-3
-ae 7 b Describe the uniqueness of Lake Vostok and state the information that paleo- (5)
-BL- 4 * | climatologists may get from it.
-ae 4 ° Explain the connection between methane and cattle rearing. Comment on the present (5)
-BL-3 "| world statistics of methane production. ,
-47 d Summarize the reasons behind the planet’s eccentricity? What are the effects of the (5)
-BL-4 * | phenomenon?
-Answer any (4) four from Q2 to Q7
-_ Q2
-CO-1 A The Hadley cells have a prominent effect upon the weather patterns. Explain the [10]
-SO-3, 4,7 * | concepts with well labelled diagrams.
-BL-5
-CO-1 Differentiate between Volcanic Winter and Nuclear Winter.
-SO-3, 4, 7 b. | How has the temperature on the surface of the Earth changed over the past years? [10]
-BL-4 Substantiate your answer with a sketch of a graph to show the main turning points.
-Explain how dendrochronology helps in understanding the past events of climate
+7) Assume Suitable data if necessary.
 
-Q3 change. Draw a well labelled diagram to explain how the evaluation of past climate
-Co2 g gr Pp
+Qi Answer briefly: [20]
 
-a. | events is ascertained. [10]
-SO-3, 4
-BL-4
+CO-2 ; SO-4 ; BL-2 a. Define the term Paleo Climate with some examples.
 
-1|Page
+CO-1 ; SO-4; BL-2 b. Discuss:1) Ozone depletion; 2) Global Warming
+
+CO-1 ; SO-4; BL-2 Explain :1) Nuclear winter; 2) Global Circulation
+
+CO- 3; SO-4; BL-2 d. Discuss IPCC’s role in climate change
+
+Q2 a. What do you understand by Climate Change vulnerability? Discuss five tasks related to [10]
+CO-3; SO-4; BL-2 vulnerability.
+CO-3; SO-4; BL-2 b Compare short term and long-term mitigation with examples [5]
+CO-4; SO-4; BL-2 c Compare Least Developed countries fund (LDCF) and Green Climate Fund (GCF) [5]
+. Some of the human sources of greenhouse gases in the atmosphere are shown below:
+i Q3 crop farming using chemical fertilisers; factories burning fossil fuels;
+CO-1; SO-4; BL-2 livestock farmers keeping cattle; refrigeration and air conditioning;
+
+decomposition of waste in landfill; exhaust emissions from old trucks and
+buses; use of aerosol sprays; car engines running on petrol
+
+af-
 --- page 2 ---
-i?
-CO-3 Differentiate between normal Steel and Green Steel. How will the production of.
+CO-1; SO-4; BL-2 a. Fill in the table to show sources for the different greenhouse gases. Use each source once [5]
+only.
+Greenhouse gas Human source
+Cco2
+Methane
+CFCs
+N20
 
-SO-3, 4,7 b. | Green Steel affect climate change mitigation efforts? Where does India stand in [10]
-BL-4 achieving the Green steel goal?
-of F Evaluate the progress of the Paris agreement protocol. How has India fared in the
-S 03 4 process so far? Describe the main parameters of the Least Developed Countries
+Looking at all of these sources suggests that people in every country of the world,
+CO-1; SO-4; BL-2 b. whether rich or poor, contribute to the release of greenhouse gases. How true is this [5]
+statement? Explain your view as fully as you can.
 
-= * | Fund (LD [10]
-BL-3 und (LDCF).
-aS 47 a What is the role of Basalt rocks in Carbon Sequestration? Elaborate upon the [10]
+. . Gs CFCs are the main cause of the ozone hole in the upper atmosphere over Antarctica. .
+CO-4; SO-4; BL-2 ; . : : [5]
+Explain why the hole in the ozone layer does not increase global warming.
+CO-1; SO-4; BL-2 d. Why are people concerned about damage to the Ozone layer? [5]
+a.
+Ca $0-4: BL-2 Earth Budget is a concept for energy circulation. Comment and discuss in detail [5]
+CO-3; SO-4; BL-2 b. Discuss the reasons and consequences of Climate Change in India [5]
+CO-4; SO-4; BL-2 c. Discuss India’s role in climate change mitigation 5]
+CO-2; SO-4; BL-2 d. Comment on the concepts of El Nino and La Nina [5]
+a The table gives the amount of carbon emitted into the atmosphere in carbon dioxide from
+1860 to 2000. These are cumulative totals (new amounts released each year have been
+added to those already there).
+Year Carbon /billion tonnes
+1860 40
+05 : 1880 50
+. . 1900 60 [5]
+CO-1; SO-4; BL-2 1920 90
+1940 130
+1960 180
+1980 270
+2000 380
+Draw a line graph with year on x axis to show the carbon emitted from 1860-2000
+CO-2 SO-4; BL-2 b. Describe two most important things that the graph shows about carbon emission from [5]
+1860-2000
+CO-4; SO-4; BL-2 c. Define slug theory for climate change [5]
+CO-4; SO-4; BL-2 d. Discuss in detail the Pilot Program for Climate Resilience (PPCR) [5]
+Q6 a. . oD
+CO-1; $O-4; BL-2 Is climate change same as global warming? Discuss [4]
+CO-5 :SO-4; BL-2 b. State two different reasons why carbon dioxide is very important for life on Earth. Also [5]
+explain the role of Basalt in Climate change
+CO-4; SO-4;BL-2. © Discuss any three SDG [6]
+CO-4; SO-4; BL-2 a Comment on the provisions and outcomes of COP26 (5)
 
-ee * | different ways in which carbon sequestration can be carried out.
-
-BL-4 y' q
-Q5
-Cco-3 4, Elaborate upon the term Vulnerability Assessment. How is it measured? How are [10]
-SO-3, 4,7 * | climate change issues and resilient infrastructure development related?
-BL-4 : :
-oa 47 b Using any Case study, describe the effect of climate change on Human health, [10]
-BL-4 * | livelihoods and poverty.
-Q6
-CO-1 4 Evaluate the role of Radiative Transfer in the Earth Energy Budget. What is the [10]
-SO-3, 4,7 * | Ice Albedo effect?
-BL-5
-CO-2 F : - j
-§0-3.4,7 b Describe the projected future trends and impacts of climate change on surface [10]
-BL-4 * | precipitation, with special emphasis on the monsoons?
-a, 5 Antarctica is facing harsh climate change. Explain how this has had a strong impact
-S 03 47 a. |-upon the ice sheets and native fauna and flora. How is past climate change [10]
-BLS information stored in ice drill cores?
-cos Discuss the SDGs (Sustainable Development Goals) that have direct influence and
-503 47 b, | Consequence on climate change mitigation possibilities. Comment on India’s [10]
-BL-4 * | position in CCPI (Climate Change Performance Index) and EPI (Environmental
-
-Performance index) in comparison to the rest of the World?
-
-2|Page
+2h
 ````
 
 ## 2021-22 · Re-Exam · Sem 8 · paper e6667d8a407c
@@ -3444,96 +3536,4 @@ CO-4; SO-4; BL-2 C: Discuss India’s role in Climate Change mitigation . [5]
 CO-2; SO-4; BL-2 dq. Comment on the concepts of El Nino and La Nina [5]
 
 “_
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 8a282da5f1d3
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/FUNDAMENTALS OF CLIMATE CHANGE/Fundamentals of Climate Change.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 4th May 2023
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& E
-Academic Year: 2022-2023
-
-Program/s: Btech/MBATech Year: III/IV Semester: VI/VIII
-Stream/s: Open Elective ; Ail Streams
-
-Subject: Fundamentals of Climate Change Time: 3 hours (2 to 5 pm)
-Date: 4th May 2023 No. of Pages:02
-
-Marks: 100
-
-Final Examination/Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 (four) questions.
-
-3) In all 5 (five) questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page. Draw diagrams whenever necessary
-6) Figures in brackets on the right hand side indicate full marks. ,
-
-Ql Compulsory Question (20]
-ar 47 a Explain what is meant by eccentricity of the Earth’s orbit? Summarize the reasons (5)
-BL- 4 ; ’ | behind the planet’s eccentricity?
-CO-2
-SO-3, 7 b. | Correlate the concepts of Ice-Drill Core studies and past paleo-climate situations. (5)
-BL-4
-er c Classify Greenhouse gases and their types? Explain how cattle rearing amounts to (5)
-BL2. * | increased GHGs (Green House Gases)
-Co-3
-SO-3, 4,7 d. | Correlate India’s stand towards the main tenets of the Paris Agreement. (5)
-BL-3
-Answer any (4) four from Q2 to Q7
-Q2 a. | Describe the effects of Coriolis Acceleration and its impact on Climate Change. [10]
-CO-1
-SO-3, 4,7 . P 5
-BL-4.3 b Explain the Naked Planet Climate model with reference to the equation used for the [10]
-; "| purpose.
-
-Q3 a Differentiate between Dendrochronology and Dendroclimatology with adequate [10]
-CO-1,2 explanations of each.
-SO-3, 4
-BL-4 : . . . 3
-
-b. | Summarize the Global Ocean Circulations. Explain the effects of El Nino. [10]
-
-1|Page
---- page 2 ---
-Q4
-
-Elaborate about the concept of COPs (Conference of Parties). What was India’s stand [10]
-
-CO-3, 2 in COP 27.
-SO-3,4
-BL-3
-Describe the Carbon sequestration types. How is Carbon footprint index calculated? [10]
-Elaborate upon the different methods of assessing Climate Change Adaptation and [10]
-Q5 Resilience. What hand has World Bank had in the process?
-CO-3, |
-SO-3, 4,7
-BL-3, 4 Using any Case study, describe the effect of climate change on the health of [10]
-ecosystems.
-06 Connect the concepts of Radiative Transfer and the Earth Energy Budget. [10]
-CO-1, 2
-SO-3, 4, 7 h d
-BL-4,3 Evaluate the effect of climate change upon the projected future trends of Ocean pH [10]
-values.
-Describe the global effects of the Global Ice Sheet Degradation. [10]
-Q7
-ee 7 Correlate SDG 13 (Sustainable Development Goals) to steps being taken by India for
-BL-S. 4 the purpose. Deliberate on how our country fares on CCPI (Climate Change [10]
-; Performance Index) and EPI (Environmental Performance index) in comparison to
-the rest of the World?
-2|Page
 ````

@@ -16,21 +16,14 @@ Also filed as: `DATA WRAGLING`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7057, BTech DS 7009 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Data Wrangling(702DB0C012)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | B Tech, Data Wrangling, Sem-III, 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech AIDS 7056, BTech CSE DS 7057, BTech DS 7009 | QP_Data Wrangling(702DB0C036)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | Integrated DS 7038 | QP_Data Wrangling(702DB0C012)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech DS 7052 | QP_Data Wrangling(702DB0C036)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AIML 7053 | ANS_Data Wrangling(702DB0C012)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Data Wrangling(702DB0C012)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7057, BTech DS 7009 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Data Wrangling(702DB0C012)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Data Wrangling(702DB0C036)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AIDS 7056 | QP_Data Wrangling(702DB0C036)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech AIML 7053 | QP_Data Wrangling(702DB0C012)_2025-2026.pdf |
@@ -38,6 +31,13 @@ Also filed as: `DATA WRAGLING`
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech DS 7009 | QP_Data Wrangling(702DB0C036)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | Integrated DS 7038 | QP_Data Wrangling(702DB0C012)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech DS 7052 | QP_Data Wrangling(702DB0C036)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AIML 7053 | ANS_Data Wrangling(702DB0C012)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Data Wrangling(702DB0C012)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE | Data Wrangling, Sem VI, Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Data Wrangling Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE | Data Wrangling, Sem-III, Batch 2024-25, Re Exam.pdf |

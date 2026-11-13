@@ -340,6 +340,7 @@ c. Steepest Decent Algorithm
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/I SEMESTER/STATISTICAL SIGNAL ANALYSIS/Statistical Signal Analysis 2013-14 Final.pdf`
 - Printed on paper: duration hours: 3; exam date: 02/12/2013
 - Text: ocr (2 pages), mean OCR confidence 88.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Programme:M. Tech (Electronics & Telecommunication) Year: I
@@ -460,7 +461,6 @@ P
 
 Consider the case of ¢
 
-x[n] = Acos[wonto]} jwo=n/4,and y{n]
 
 (1,2n) and vin} is wh
 

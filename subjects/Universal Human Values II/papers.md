@@ -778,7 +778,7 @@ professional as well as personal growth.
 
 - Departments: Artificial Intelligence, Computer Engineering, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechanical
 - Programmes: BTech AI 7012, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, Integrated Computer 7032, Integrated Mechanical 7031, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041
-- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AI_7012/Universal Human Values-II/QP_Universal Human Values-II(702BS0I022)_2025-2026.pdf` (+11 identical copies)
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AI_7012/Universal Human Values-II/QP_Universal Human Values-II(702BS0I022)_2025-2026.pdf` (+12 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
 - Text: text (2 pages)
 

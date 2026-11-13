@@ -16,16 +16,16 @@ Also filed as: `INTELLIGENT SYSTEM`, `Intelligent System`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | BTech AIML 7053 | QP_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBA TECH / ARTIFICIAL INTELLIGENCE | Intelligent Systems-I, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | B TECH | Intelligent Systems, Sem-II, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | MBA TECH / ARTIFICIAL INTELLIGENCE | Intelligent System , Final 2024-25, Re-exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | MBA TECH / ARTIFICIAL INTELLIGENCE | Intelligent Systems -I , Final exam 2024-25, Re-exam 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | MBA TECH / ARTIFICIAL INTELLIGENCE | Intelligent Systems-I ,Re-exam 2024-25, 2023-24.pdf |

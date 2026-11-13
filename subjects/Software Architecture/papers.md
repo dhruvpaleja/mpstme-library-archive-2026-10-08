@@ -270,6 +270,90 @@ d.) Roles played by connectors
 Page 2|2
 ````
 
+## 2014-15 · Final-Exam · Sem 6 · paper c6405000cb61
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/SOFTWARE ARCHITECTURE/SOFTWARE_ARCHITECTURE_B_TECH_(IT), FINAL EXAM.pdf`
+- Text: ocr (2 pages), mean OCR confidence 89.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: III Semester: VI
+
+Academic Year: 2014-2015
+
+Subject: Software Architecture J =
+Date: Marks/” ® “60 “N
+ate: 05/05/2015 Time :)| / 10:06 amtoy pm
+Duratiens: 3 (hrs) 7s
+
+rT
+Final-Examination > eer
+
+«
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+1(a). Differentiate prescriptive architecture and descriptive architecture . How drift and erosion play
+a major role in architectural degradation. Give examples to recover from architectural
+degradation. (6]
+
+(b) Give three non functional properties that needs to be incorporated into designing of software
+
+architecture. Explain with how to achieve them with respective to connectors. {6]
+
+2(a) Explain stream connectors and Linkage connectors in detail. [6]
+(b) Explain Service oriented architecture and web services. [6]
+3(a). | What are elements of architectural styles. Explain below styles. [6]
+
+i) Pipes and filters.
+ii) Layered systems.
+
+(b) | State with reason following statement is true or false : “Connectors are mostly application
+dependent elements. (6]
+
+4(a) Justify with an example connecting at least 3 components, xADL is preferred language for
+software architecture description. {6]
+
+(b) Explain deployment activities to be carried out for implementing software architecture [6]
+
+4/2
+--- page 2 ---
+5(a) Name and describe roles played by connector with Example. (6]
+
+(b) @ Explain Various stake holders in system architecture and role played by them in architecture
+
+recovery. [6]
+6(a) Explain REST principles. Identify REST data elements, components, connectors. (6]
+(b) Explain Analysis Goals. {6]
+A Answer any two [6+6]
+a) View Inconsistencies
+b) Reference Architecture
+c) Service Oriented Architecture
+
+d) Three factors of DSSE
+
+x _—
+````
+
 ## 2014-15 · Re-Exam · Sem 6 · paper b985fc07a89b
 
 - Departments: Information Technology
@@ -721,6 +805,63 @@ a
 [20]
 ````
 
+## 2011-12 · Exam not stated · Trim 7 · paper c896a5c78fa4
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SOFTWARE ARCHITECTURE/SOTWARE ARCHITECTURE BATCH 2009-2010.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/10/2011
+- Text: ocr (1 page), mean OCR confidence 84.6
+
+````text
+ee
+
+¥: SVKMrS, \*«
+
+FC nme Unversity )
+
+xl Mumb.: - 56, )z
+( LBAARY gs
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology p p
+
+Programme: MBA (Tech) - I.T. Year: III Trimester: VII
+Academic Year : 2011-2012
+
+Batch: 2009-2010
+Subject: Software Architecture Marks: 100
+Time: 10.00 am To 1.085
+Date: 05/10/2011 Duration: 3 hrs.
+Re - Examination
+Note :
+1. Attempt any five out of the remaining questions.
+2. Answer to each new question to be started on new page.
+3. All questions carry equal marks.
+Q1. a. What are requirements of Architectural Description Language? 10
+b. Examine variants on Data Flow and Repositories by the way of recapitulation. 10
+Q2. a. Write a note on formalizing an architectural design space. 10
+b. Discuss the issues in first class connectors. 10
+Q3. a. Write a note on “A Universal Connecting Language”. 10
+b. Explain in detail any 2 architectural styles. -10
+Q4. a. Illustrate with the help of chart the implementation of a design space on a FD 10
+framework. :
+b. Explain a model for the evolution of an Engineering discipline. 10
+Q5. a. How does the software tool integrate for software development? 10
+b. Explain function dimensions in User Interface Designs. 10
+Q6 a. Discuss the issues in designing Shared Information system. 10
+b. Explain process control paradigm as architectural styles. 10
+Q7 a. Write anote on QFD process. 10
+b.) Discuss virtual machine architectural style with example. 10
+
+v7! .
+
+of
+
+\A
+````
+
 ## 2011-12 · Exam not stated · Trim 2 · ZIP of papers · paper 54a7e231cc9f · SOFTWARE ARCHITECTURE 2011-12.pdf
 
 - Departments: Information Technology
@@ -830,282 +971,7 @@ K
 2)o-
 ````
 
-## 2009-10 · Exam not stated · Trim 7 · paper 0562387f6bc4
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SOFTWARE ARCHITECTURE/2009-2010(110).pdf`
-- Printed on paper: duration hours: 3
-- Text: ocr (1 page), mean OCR confidence 85.3
-
-````text
-te
-
-Date: O- 1-10 -O4
-
-SVKM’S NMIMS UNIVERSITY
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT AND EN
-
-PROGRAMME: MBA TECHLT. —- YEAR: Ii svKuS \
-=( NMINS Un re ye |
-umbeai - 56.
-TRIMESTER-VII EXAMINATION ACADEMIC YEAR : 200! ao} ™ LIBRARY
-A
-Subject : Software Architecture ws
-
-Time: 03 Hrs. [0-10 —] “COp™
-
-Instructions:
-
-1) Attempt Any Five of the following
-2) Answers to each new question to be started on a fresh page.
-3) Figures on the right indicate marks
-
-Ql
-
-Q2
-
-Q3
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-A Enlist and Explain Structural Dimensions in User Interface Design ?
-B_ Explain the Formal Model for Filter ?
-
-A What are requirements of Architectural Description Language?
-B_ Explain the notion of Quantified Design Space?
-
-A. Discuss the issues in designing Shared Information System?
-B_ Explain and compare the architectural styles pipe & filter and layered?
-
-A Explain Functional Dimensions in User Interface Design?
-B_ Explain Repositories and Interpreters as architectural styles?
-
-A Give formalized architecture for An Acquisition Channel of Oscilloscope?
-B_ Explain the need of Architectural Formalism?
-
-A Write Brief note on UNICON (A Universal Connector Language) ?
-B_ What is Software Architecture? Explain current state of art of software architecture?
-
-A. Draw and Explain Basic Structural Model for User Interface Design
-B_ Explain QFD Process
-
-4
-
-D*
-
-10
-10
-
-10
-10
-
-10
-10
-
-10
-10
-
-10
-10
-
-10
-10
-
-10
-10
-````
-
-## 2009-10 · Exam not stated · Trim 7 · paper f13f5a90dd00
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SOFTWARE ARCHITECTURE/SOFTWARE ARCHITECTURE BACTH 2009-2010.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14/06/2011
-- Text: ocr (1 page), mean OCR confidence 93.7
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Enginéering
-
-Programme: MBA Tech - IT Year: Ill Trimester: VI
-Academic Year : 2010-2011 \
-Batch: 2009-2010 \
-Subject: Software Architecture Marks: 100 &
-; Time: 10.00
-Date: 14/06/2011 Duration: 3 hrs.
-
-Re - Examination
-NB:
-
-1. Attempt any 5 questions.
-
-2. Answer to each new question to be started on a fresh page.
-
-Q1. A. Enlist and explain Basic Structural Dimensions in User Interface Design? (10)
-B. Write a note on A Universal Connector Language. (10)
-Q2. A. Explain the problems with existing Architectural Description Language. (10)
-B. Describe the issues in first class connectors. (10)
-Q3. A. Write a note on formalizing an architectural design space. (10)
-
-B. What is software architecture? Explain current state of art of software architecture.(10)
-
-Q4. A. Discuss the issues in designing Shared Information Systems. (10)
-B. Explain Repositories and Interpreters as architectural styles. (10)
-Q5. A. Explain the design rules for User-Interface Architecture. (10)
-B. How does the software tool integrate for the software development . (10)
-Q6. A. Explain model for evolution of an Engineering discipline. (10)
-B. Explain the need of Architectural formalism. (10)
-Q7. A. Explain architectural styles based on data abstraction and object-oriented (10)
-organization and event based implicit invocation.
-B. Write a note on QFD process. (10)
-
-h
-````
-
-## 2009-10 · Exam not stated · Trim 7 · paper c896a5c78fa4
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SOFTWARE ARCHITECTURE/SOTWARE ARCHITECTURE BATCH 2009-2010.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/10/2011
-- Text: ocr (1 page), mean OCR confidence 84.6
-
-````text
-ee
-
-¥: SVKMrS, \*«
-
-FC nme Unversity )
-
-xl Mumb.: - 56, )z
-( LBAARY gs
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology p p
-
-Programme: MBA (Tech) - I.T. Year: III Trimester: VII
-Academic Year : 2011-2012
-
-Batch: 2009-2010
-Subject: Software Architecture Marks: 100
-Time: 10.00 am To 1.085
-Date: 05/10/2011 Duration: 3 hrs.
-Re - Examination
-Note :
-1. Attempt any five out of the remaining questions.
-2. Answer to each new question to be started on new page.
-3. All questions carry equal marks.
-Q1. a. What are requirements of Architectural Description Language? 10
-b. Examine variants on Data Flow and Repositories by the way of recapitulation. 10
-Q2. a. Write a note on formalizing an architectural design space. 10
-b. Discuss the issues in first class connectors. 10
-Q3. a. Write a note on “A Universal Connecting Language”. 10
-b. Explain in detail any 2 architectural styles. -10
-Q4. a. Illustrate with the help of chart the implementation of a design space on a FD 10
-framework. :
-b. Explain a model for the evolution of an Engineering discipline. 10
-Q5. a. How does the software tool integrate for software development? 10
-b. Explain function dimensions in User Interface Designs. 10
-Q6 a. Discuss the issues in designing Shared Information system. 10
-b. Explain process control paradigm as architectural styles. 10
-Q7 a. Write anote on QFD process. 10
-b.) Discuss virtual machine architectural style with example. 10
-
-v7! .
-
-of
-
-\A
-````
-
-## 2009-10 · Re-Exam · Trim 7 · paper 451e1ab8e306
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SOFTWARE ARCHITECTURE/2009-2010 batch re exam(6).pdf`
-- Printed on paper: duration hours: 3
-- Text: ocr (1 page), mean OCR confidence 87.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT A?
-
-PROGRAMME : MBA TEC LT.) YEAR :
-
-TRIMESTER-VII ACADEMIC YEA
-Subject : Software Architecture
-Date: \6 [6 [2010 Re ExLown €228%- 10.)
-Time: 03 Hrs.
-C\O.WOw To | opm |
-Instructions:
-
-1) Attempt Any Five of the following.
-2) Answers to each new question to be started on a fresh page.
-3) Figures on the right indicate marks
-
-Ql
-7
-Q3
-Q4
-Qs
-Q6
-
-Q7
-
-A Explain and compare the architectural styles pipe & filter and layered?
-B_ Explain Functional Dimensions in User Interface Design?
-
-A. Discuss the layer architecture for mobile robots
-B_ What is Software Architecture? Explain current status of software architecture?
-
-A. Give formalized architecture for An Acquisition Channel of Oscilloscope?
-B_ Explain the notion of Quantified Design Space?
-
-A Explain the need of Architectural Formalism?
-B_ What are requirements of Architectural Description Language?
-
-A Write Brief note on UNICON (A Universal Connector Language) ?
-B_ Explain Repositories and Interpreters as architectural styles?
-
-A. Discuss the issues in designing Shared Information System?
-B_ Enlist and Explain Structural Dimensions in User Interface Design ?
-
-A Elaborate the concept of Design Space, Design Dimension and Design Rules
-B_ Explain formalism of architectural style for Pipe
-
-sf x
-
-10
-10
-
-10
-10
-
-10
-10
-
-10
-10
-
-10
-10
-
-10
-10
-
-10
-10
-````
-
-## 2009-10 · Re-Exam · Trim 7 · paper 7d1960284cd1
+## 2011-12 · Re-Exam · Trim 7 · paper 7d1960284cd1
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
@@ -1200,7 +1066,54 @@ Page 2 of 2
 =_—
 ````
 
-## 2009-10 · Re-Exam · Trim 7 · paper b595acf0d1df
+## 2010-11 · Exam not stated · Trim 7 · paper f13f5a90dd00
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SOFTWARE ARCHITECTURE/SOFTWARE ARCHITECTURE BACTH 2009-2010.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14/06/2011
+- Text: ocr (1 page), mean OCR confidence 93.7
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Enginéering
+
+Programme: MBA Tech - IT Year: Ill Trimester: VI
+Academic Year : 2010-2011 \
+Batch: 2009-2010 \
+Subject: Software Architecture Marks: 100 &
+; Time: 10.00
+Date: 14/06/2011 Duration: 3 hrs.
+
+Re - Examination
+NB:
+
+1. Attempt any 5 questions.
+
+2. Answer to each new question to be started on a fresh page.
+
+Q1. A. Enlist and explain Basic Structural Dimensions in User Interface Design? (10)
+B. Write a note on A Universal Connector Language. (10)
+Q2. A. Explain the problems with existing Architectural Description Language. (10)
+B. Describe the issues in first class connectors. (10)
+Q3. A. Write a note on formalizing an architectural design space. (10)
+
+B. What is software architecture? Explain current state of art of software architecture.(10)
+
+Q4. A. Discuss the issues in designing Shared Information Systems. (10)
+B. Explain Repositories and Interpreters as architectural styles. (10)
+Q5. A. Explain the design rules for User-Interface Architecture. (10)
+B. How does the software tool integrate for the software development . (10)
+Q6. A. Explain model for evolution of an Engineering discipline. (10)
+B. Explain the need of Architectural formalism. (10)
+Q7. A. Explain architectural styles based on data abstraction and object-oriented (10)
+organization and event based implicit invocation.
+B. Write a note on QFD process. (10)
+
+h
+````
+
+## 2010-11 · Re-Exam · Trim 7 · paper b595acf0d1df
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
@@ -1255,6 +1168,177 @@ d. MIL
 
 e. Critical Elements of architectural description language
 f, Layer Architecture for Oscilloscope
+````
+
+## 2009-10 · Exam not stated · Trim 7 · paper 0562387f6bc4
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SOFTWARE ARCHITECTURE/2009-2010(110).pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (1 page), mean OCR confidence 85.3
+
+````text
+te
+
+Date: O- 1-10 -O4
+
+SVKM’S NMIMS UNIVERSITY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT AND EN
+
+PROGRAMME: MBA TECHLT. —- YEAR: Ii svKuS \
+=( NMINS Un re ye |
+umbeai - 56.
+TRIMESTER-VII EXAMINATION ACADEMIC YEAR : 200! ao} ™ LIBRARY
+A
+Subject : Software Architecture ws
+
+Time: 03 Hrs. [0-10 —] “COp™
+
+Instructions:
+
+1) Attempt Any Five of the following
+2) Answers to each new question to be started on a fresh page.
+3) Figures on the right indicate marks
+
+Ql
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+A Enlist and Explain Structural Dimensions in User Interface Design ?
+B_ Explain the Formal Model for Filter ?
+
+A What are requirements of Architectural Description Language?
+B_ Explain the notion of Quantified Design Space?
+
+A. Discuss the issues in designing Shared Information System?
+B_ Explain and compare the architectural styles pipe & filter and layered?
+
+A Explain Functional Dimensions in User Interface Design?
+B_ Explain Repositories and Interpreters as architectural styles?
+
+A Give formalized architecture for An Acquisition Channel of Oscilloscope?
+B_ Explain the need of Architectural Formalism?
+
+A Write Brief note on UNICON (A Universal Connector Language) ?
+B_ What is Software Architecture? Explain current state of art of software architecture?
+
+A. Draw and Explain Basic Structural Model for User Interface Design
+B_ Explain QFD Process
+
+4
+
+D*
+
+10
+10
+
+10
+10
+
+10
+10
+
+10
+10
+
+10
+10
+
+10
+10
+
+10
+10
+````
+
+## 2009-10 · Re-Exam · Trim 7 · paper 451e1ab8e306
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SOFTWARE ARCHITECTURE/2009-2010 batch re exam(6).pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (1 page), mean OCR confidence 87.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT A?
+
+PROGRAMME : MBA TEC LT.) YEAR :
+
+TRIMESTER-VII ACADEMIC YEA
+Subject : Software Architecture
+Date: \6 [6 [2010 Re ExLown €228%- 10.)
+Time: 03 Hrs.
+C\O.WOw To | opm |
+Instructions:
+
+1) Attempt Any Five of the following.
+2) Answers to each new question to be started on a fresh page.
+3) Figures on the right indicate marks
+
+Ql
+7
+Q3
+Q4
+Qs
+Q6
+
+Q7
+
+A Explain and compare the architectural styles pipe & filter and layered?
+B_ Explain Functional Dimensions in User Interface Design?
+
+A. Discuss the layer architecture for mobile robots
+B_ What is Software Architecture? Explain current status of software architecture?
+
+A. Give formalized architecture for An Acquisition Channel of Oscilloscope?
+B_ Explain the notion of Quantified Design Space?
+
+A Explain the need of Architectural Formalism?
+B_ What are requirements of Architectural Description Language?
+
+A Write Brief note on UNICON (A Universal Connector Language) ?
+B_ Explain Repositories and Interpreters as architectural styles?
+
+A. Discuss the issues in designing Shared Information System?
+B_ Enlist and Explain Structural Dimensions in User Interface Design ?
+
+A Elaborate the concept of Design Space, Design Dimension and Design Rules
+B_ Explain formalism of architectural style for Pipe
+
+sf x
+
+10
+10
+
+10
+10
+
+10
+10
+
+10
+10
+
+10
+10
+
+10
+10
+
+10
+10
 ````
 
 ## 2008-09 · Exam not stated · Trim 7 · paper fb68a35b3763
@@ -1466,9 +1550,9 @@ p>?
 - Programmes: MBA TECH / I T
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SOFTWARE ARCHITECTURE/2006-2007(72).pdf`
 - Text: ocr (1 page), mean OCR confidence 89.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-NARSEE MONJEE INSTITUTE OF MANAGEMENT & HIGHR's stUp
 
 (DEEMED UNIVERSITY)
 SUBJECT: SOFTWARE ARCHITECTURE ,~,° 2 |
@@ -1515,88 +1599,4 @@ b) Write notes on (any two) :
 2. Multi database systems
 
 3. Unicorn the ADL
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper c6405000cb61
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/SOFTWARE ARCHITECTURE/SOFTWARE_ARCHITECTURE_B_TECH_(IT), FINAL EXAM.pdf`
-- Text: ocr (2 pages), mean OCR confidence 89.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: III Semester: VI
-
-Academic Year: 2014-2015
-
-Subject: Software Architecture J =
-Date: Marks/” ® “60 “N
-ate: 05/05/2015 Time :)| / 10:06 amtoy pm
-Duratiens: 3 (hrs) 7s
-
-rT
-Final-Examination > eer
-
-«
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1(a). Differentiate prescriptive architecture and descriptive architecture . How drift and erosion play
-a major role in architectural degradation. Give examples to recover from architectural
-degradation. (6]
-
-(b) Give three non functional properties that needs to be incorporated into designing of software
-
-architecture. Explain with how to achieve them with respective to connectors. {6]
-
-2(a) Explain stream connectors and Linkage connectors in detail. [6]
-(b) Explain Service oriented architecture and web services. [6]
-3(a). | What are elements of architectural styles. Explain below styles. [6]
-
-i) Pipes and filters.
-ii) Layered systems.
-
-(b) | State with reason following statement is true or false : “Connectors are mostly application
-dependent elements. (6]
-
-4(a) Justify with an example connecting at least 3 components, xADL is preferred language for
-software architecture description. {6]
-
-(b) Explain deployment activities to be carried out for implementing software architecture [6]
-
-4/2
---- page 2 ---
-5(a) Name and describe roles played by connector with Example. (6]
-
-(b) @ Explain Various stake holders in system architecture and role played by them in architecture
-
-recovery. [6]
-6(a) Explain REST principles. Identify REST data elements, components, connectors. (6]
-(b) Explain Analysis Goals. {6]
-A Answer any two [6+6]
-a) View Inconsistencies
-b) Reference Architecture
-c) Service Oriented Architecture
-
-d) Three factors of DSSE
-
-x _—
 ````

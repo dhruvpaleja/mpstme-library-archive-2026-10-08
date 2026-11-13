@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/MASTER OF TECHNOLOGY - DATA SCIENCE (BU_db368963/Applied Machine Learning/QP_Applied Machine Learning(703DB0C049)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -115,6 +116,7 @@ FC QI a iar
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM I FALL BATCH/Applied Machine Learning/Applied Machine Learning 2025-26 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -243,7 +245,6 @@ detect anomalies in an e-commerce dataset, explaining algorithm choice,
 preprocessing, and how insights improve fraud detection. Write a pseudo |
 codes. . |
 
-FA aR a a a cok ok a ok
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · paper 03d695d895d5

@@ -2,6 +2,153 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 5 · Answer key · paper e1d05db73bf5
+
+- Departments: AI and Data Science, Artificial Intelligence, Computer Engineering, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechatronics
+- Programmes: BTech AI 7012, BTech AIDS 7056, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_AIDS_7056/Sustainable Energy Technologies/ANS_Sustainable Energy Technologies(702CE0I001)_2024-2025.pdf` (+11 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: text (5 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA
+Tech (DS)
+Year: III/Semester V(Exam Year: 2025-2026)
+Subject: Sustainable Energy Technologies
+Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 5 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly
+CO-1;   (a)   Define energy and classify the different types of energy based on the source with   (4)
+BL-2   suitable example.
+Definition   (2)
+Classification:   (2)
+Primary energy
+Secondary energy
+CO-2;   (b)   Explain energy management system and its main objectives.   (4)
+BL-2   Energy management explanation   (2)
+Objective of energy management system   (2)
+CO-2;   (c)   Define energy audit and discuss different types of energy audits.   (4)
+BL-2   Definition   (2)
+Types of audit:   (2)
+Domestic, Industrial, Detailed audit, Targeted audit
+CO-3;   (d)   Explain air preheater as a waste heat recovery device with a neat sketch.   (4)
+BL-2   Explanation of air preheater   (2)
+Diagram   (2)
+CO-3;   (e)   Define biofuels and enlist at least three advantages of using the biofuels.   (4)
+BL-2   Definition   (1)
+Any 3 advantages   (3)
+CO-1;   Q2(a)   Explain any ten sustainable development goals.   (10)
+BL-2   Explanation on any 10 SDGs   (10)
+CO-2;   Q2(b)   Explain the energy monitoring and targeting in energy management system. Also,   (10)
+BL-2   discuss the elements of monitoring and targeting system.
+Energy Monitoring and Targeting explanation   (5)
+********** 1 **********
+--- page 2 ---
+Elements of monitoring and targeting system (Any 5):   (5)
+•   Recording:
+•   Analysing
+• Comparing
+•   Setting Targets
+• Monitoring
+•   Reporting
+•   Controlling
+CO-2;   Q3(a)   Explain the basic components of the energy audit in detail.   (10)
+BL-2   Explanation of following components:   (2x5
+The Auditor`s toolbox:   =10)
+Preparing for Audit Visit
+Conducting the Audit Visit
+Benchmarking
+Energy Conservation
+CO-3;   Q3(b)   Explain the working of a recuperator as a waste heat recovery device with a neat   (10)
+BL-2   diagram, and discuss the advantages of using heat exchangers in power plants.
+Recuperator explanation   (7)
+Diagram   (3)
+CO-1;   Q4(a) A thermal power plant has power output of 2kW and an efficiency of 45% and the   (10)
+BL-3   input energy used is coal (NCV 4500 kcal/kg). If the percentage of carbon in the coal is
+55% by weight calculate the emission factor of the plant.
+(2)
+(2)
+(2)
+(2)
+(2)
+Emission factor = 1.716/2 = 0.858
+CO-3;   Q4(b) What is a photovoltaic (PV) cell? Explain its working principle, types, and applications.   (10)
+BL-2   Definition   (2)
+Working Principle   (3)
+Types of PV cell   (3)
+Applications   (2)
+********** 2 **********
+--- page 3 ---
+CO-2;   Q5(a)   Explain the significance of organizational structure in an energy management program.   (10)
+BL-2   Organizational structure significance   (7)
+Illustration   (3)
+CO-3;   Q5(b)   Find out the efficiency and evaporation ratio of the boiler by direct method with the   (10)
+BL-3   data given below:
+Type of boiler   :   Coal fired
+Quantity of steam (dry) generated   :   12 TPH
+Steam pressure / temp   :   10 kg/cm2(g)/ 180oC
+Quantity of coal consumed   :   2.0 TPH
+Feed water temperature   :   80oC
+GCV of coal   :   4200 kcal/kg
+Enthalpy of saturated steam at 10 kg/cm2   (7)
+pressure   :   785 kcal/kg
+Enthalpy of feed water   :   105 kcal/kg
+(3)
+CO-3;   Q6(a)   Explain biodiesel based on its different generations. Compare the advantages of   (10)
+BL-2   biofuels overs the traditional fossil fuels.
+Generations of biodiesel:   (6)
+First generation
+Second generation
+Third generation
+Advantages   (4)
+********** 3 **********
+--- page 4 ---
+CO-1;   Q6(b) Assume you wish to make the series of withdrawals illustrated in the figure below from   (10)
+BL-4   an account that pays 15% / year. How much money would you have to deposit today,
+such that the account is depleted at the time of the last withdrawal?
+(4)
+(4)
+(2)
+CO-2;   Q7(a)   The lighting connected load for the small industry consisting of 170 fluorescent tubes   (10)
+BL-4   of 60 W each with magnetic ballast. In first option, the magnetic ballast of fluorescent
+tubes is replaced by electronic ballast and power consumption of same fluorescent
+tubes reduced to 40 W. Cost of each electronic ballast tube is Rs 240. In second option,
+fluorescent tubes are replaced by energy efficient fluorescent tubes of 20 W and cost
+of Rs 470 each.
+Calculate simple payback period for each option and justify which energy saving option
+is better. Consider usage of 18 hours per day and an electrical tariff of Rs 6 per KWh.
+(2)
+(2)
+********** 4 **********
+--- page 5 ---
+(2)
+(2)
+(2)
+CO-3;   Q7(b)   Explain the various types of electric vehicles. Also list the advantages of electric   (10)
+BL-2   vehicles.   (2x4
+4 types of EVs explanation:   =8)
+1) Battery Electric Vehicle (BEV)
+2) Hybrid Electric Vehicle (HEV)
+3) Plug-in Hybrid Electric Vehicle (PHEV)
+4) Fuel Cell Electric Vehicle(FCEV)   (2)
+Advantages
+********** 5 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 6 · Answer key · paper 44f0d81635b6
 
 - Departments: Artificial Intelligence
@@ -3307,151 +3454,4 @@ Thin film solar cells
 Multi junction tandem
 
 FIC 6 I HF
-````
-
-## 2024-25 · Final-Exam · Sem 5 · Answer key · paper e1d05db73bf5
-
-- Departments: AI and Data Science, Artificial Intelligence, Computer Engineering, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechatronics
-- Programmes: BTech AI 7012, BTech AIDS 7056, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_AIDS_7056/Sustainable Energy Technologies/ANS_Sustainable Energy Technologies(702CE0I001)_2024-2025.pdf` (+11 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
-- Text: text (5 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech
-(DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA
-Tech (DS)
-Year: III/Semester V(Exam Year: 2025-2026)
-Subject: Sustainable Energy Technologies
-Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 5 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-Q1   Answer briefly
-CO-1;   (a)   Define energy and classify the different types of energy based on the source with   (4)
-BL-2   suitable example.
-Definition   (2)
-Classification:   (2)
-Primary energy
-Secondary energy
-CO-2;   (b)   Explain energy management system and its main objectives.   (4)
-BL-2   Energy management explanation   (2)
-Objective of energy management system   (2)
-CO-2;   (c)   Define energy audit and discuss different types of energy audits.   (4)
-BL-2   Definition   (2)
-Types of audit:   (2)
-Domestic, Industrial, Detailed audit, Targeted audit
-CO-3;   (d)   Explain air preheater as a waste heat recovery device with a neat sketch.   (4)
-BL-2   Explanation of air preheater   (2)
-Diagram   (2)
-CO-3;   (e)   Define biofuels and enlist at least three advantages of using the biofuels.   (4)
-BL-2   Definition   (1)
-Any 3 advantages   (3)
-CO-1;   Q2(a)   Explain any ten sustainable development goals.   (10)
-BL-2   Explanation on any 10 SDGs   (10)
-CO-2;   Q2(b)   Explain the energy monitoring and targeting in energy management system. Also,   (10)
-BL-2   discuss the elements of monitoring and targeting system.
-Energy Monitoring and Targeting explanation   (5)
-********** 1 **********
---- page 2 ---
-Elements of monitoring and targeting system (Any 5):   (5)
-•   Recording:
-•   Analysing
-• Comparing
-•   Setting Targets
-• Monitoring
-•   Reporting
-•   Controlling
-CO-2;   Q3(a)   Explain the basic components of the energy audit in detail.   (10)
-BL-2   Explanation of following components:   (2x5
-The Auditor`s toolbox:   =10)
-Preparing for Audit Visit
-Conducting the Audit Visit
-Benchmarking
-Energy Conservation
-CO-3;   Q3(b)   Explain the working of a recuperator as a waste heat recovery device with a neat   (10)
-BL-2   diagram, and discuss the advantages of using heat exchangers in power plants.
-Recuperator explanation   (7)
-Diagram   (3)
-CO-1;   Q4(a) A thermal power plant has power output of 2kW and an efficiency of 45% and the   (10)
-BL-3   input energy used is coal (NCV 4500 kcal/kg). If the percentage of carbon in the coal is
-55% by weight calculate the emission factor of the plant.
-(2)
-(2)
-(2)
-(2)
-(2)
-Emission factor = 1.716/2 = 0.858
-CO-3;   Q4(b) What is a photovoltaic (PV) cell? Explain its working principle, types, and applications.   (10)
-BL-2   Definition   (2)
-Working Principle   (3)
-Types of PV cell   (3)
-Applications   (2)
-********** 2 **********
---- page 3 ---
-CO-2;   Q5(a)   Explain the significance of organizational structure in an energy management program.   (10)
-BL-2   Organizational structure significance   (7)
-Illustration   (3)
-CO-3;   Q5(b)   Find out the efficiency and evaporation ratio of the boiler by direct method with the   (10)
-BL-3   data given below:
-Type of boiler   :   Coal fired
-Quantity of steam (dry) generated   :   12 TPH
-Steam pressure / temp   :   10 kg/cm2(g)/ 180oC
-Quantity of coal consumed   :   2.0 TPH
-Feed water temperature   :   80oC
-GCV of coal   :   4200 kcal/kg
-Enthalpy of saturated steam at 10 kg/cm2   (7)
-pressure   :   785 kcal/kg
-Enthalpy of feed water   :   105 kcal/kg
-(3)
-CO-3;   Q6(a)   Explain biodiesel based on its different generations. Compare the advantages of   (10)
-BL-2   biofuels overs the traditional fossil fuels.
-Generations of biodiesel:   (6)
-First generation
-Second generation
-Third generation
-Advantages   (4)
-********** 3 **********
---- page 4 ---
-CO-1;   Q6(b) Assume you wish to make the series of withdrawals illustrated in the figure below from   (10)
-BL-4   an account that pays 15% / year. How much money would you have to deposit today,
-such that the account is depleted at the time of the last withdrawal?
-(4)
-(4)
-(2)
-CO-2;   Q7(a)   The lighting connected load for the small industry consisting of 170 fluorescent tubes   (10)
-BL-4   of 60 W each with magnetic ballast. In first option, the magnetic ballast of fluorescent
-tubes is replaced by electronic ballast and power consumption of same fluorescent
-tubes reduced to 40 W. Cost of each electronic ballast tube is Rs 240. In second option,
-fluorescent tubes are replaced by energy efficient fluorescent tubes of 20 W and cost
-of Rs 470 each.
-Calculate simple payback period for each option and justify which energy saving option
-is better. Consider usage of 18 hours per day and an electrical tariff of Rs 6 per KWh.
-(2)
-(2)
-********** 4 **********
---- page 5 ---
-(2)
-(2)
-(2)
-CO-3;   Q7(b)   Explain the various types of electric vehicles. Also list the advantages of electric   (10)
-BL-2   vehicles.   (2x4
-4 types of EVs explanation:   =8)
-1) Battery Electric Vehicle (BEV)
-2) Hybrid Electric Vehicle (HEV)
-3) Plug-in Hybrid Electric Vehicle (PHEV)
-4) Fuel Cell Electric Vehicle(FCEV)   (2)
-Advantages
-********** 5 **********
 ````

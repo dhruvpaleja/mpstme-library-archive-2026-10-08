@@ -258,6 +258,7 @@ x
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/INSTRUMENTATION AND PROCESS CONTROL/Instrumentation and Process control,Sem6,Final,2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 19 April 2022
 - Text: ocr (3 pages), mean OCR confidence 86.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS :
@@ -380,7 +381,6 @@ Express the results in terms of Ga, Gb and Ge.
 Q5 a |
 i
 CO-2,1; ; | +, .
-ot3 B Ge G { Ge Y
 SO-l; ~? Lu 2) ’ r {10}
 BL-4
 Examine the features of feedback and feedforward control strategy and suggest
@@ -974,6 +974,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/INSTRUMENTATION AND PROCESS CONTROL/Instrumentation & Process Control Batch 2015-16 Re Exam.pdf`
 - Printed on paper: exam date: 02 July 2016
 - Text: ocr (2 pages), mean OCR confidence 89.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1021,7 +1022,6 @@ a atacaiasl
 Q.3 Draw bode plot ; 12
 gt : 3 (S40D(S4+6)
 
-SHS) TTA ats ves dbo}
 SS’? (S* + 18S +400)
 
 Page 1 of 2
@@ -1272,164 +1272,7 @@ What is transfer function?
 02
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper 0e2728d69c3b
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/INSTRUMENTATION AND PROCESS CONTROL/INSTRUMENTATION & PROCESS CONTROL BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 03/07/2014
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Semester: VI
-
-aa
-
-Subject : Instrumentation & Process Control Mal IBRARY )s
-
-Programme:MBA Tech (CHEMICAL) Year: Ill
-
-Academic Year: 2013-14
-
-Batch:2013-2014
-
-Date :03/07/2014
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks
-
-Q.1 Write short note on:
-
-“J. Bellows pressure Gauge 05
-
-Il. | Bourdon tube Pressure Gauge 05
-
-Ill. | Pneumatically operated control valve. 05
-
-IV. Explain with block diagram simple control system. 05
-
-Q.2 a) What are the advantage and dis-advantage of adding integral mode and 10
-
-derivation mode of control to Proportional Controller. Write transfer function
-equation and draw the transient response curves the step change for PI and PD
-controllers. 10
-b) Draw the Response curve of a under damped second order system to a step
-Input and define- rise time, response time, peak over shoot, period of
-oscillation and decay ratio.
-Q.3 Sketch the Bode plot for the system having: 20
-80
-alga) s(s + 2X + 20)
-increased by 150 %, what is the new gain margin. Comment on stability.
-Q4 a) Define what is transfer Function? Derive the Expression for two tank non- 12
-interacting system.
-b) A thermocouple follows a first order dynamic system with time constant 0.2 08
-min. It is placed in a temperature bath at 100° C and it allowed to reach at
-steady state. It is suddenly transferred to another bath at 150°C at time t=0 and
-is left there for 0.2 min. It is immediately returned to original bath at 100° C.
-Calculate its reading at t= 0.1 min and t= 0.4 min.
-
-. Determine the gain and the phase margin. If the gain is
-
-Q.5 a) Explain Routh stability Criterion? 06
-
-Vo.
---- page 2 ---
-b) What are the different types of controller? Write their transfer function? 06
-
-c)* Avunit,step change in error is introduced into PID controller. If Ke =10, 08
-tT, =1,7,= 0.5. Plot the response of the controller
-Q.6 Sketch the root locugifor positive feedback system shown below: 20
-ai
-OSES) = ey a)
-Q.7 Write notes ony
-a) Servo and Regulatory control system. 05
-b) Closed Loop and Open Loop control system. 05
-c) Negative Feedback and Positive Feedback with example 10
-
-}—————
-
-fa
-````
-
-## 2012-13 · Re-Exam · Trim 8 · paper 640e4f3c111b
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INSTRUMENTAION AND PROCESS CONTROL/INSTRUMENTATION & PROCESS CONTROL VIII (CHEMICAL) MBA TECH 2012-2013 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 18/06/2013
-- Text: text (2 pages)
-
-````text
-.. .   SVKM's NMIMS
-Mukesh Pate1 School of Technology Management & Enginee
-Programme: MBA TECH - CHEMICAL   Year:   I11   Trimester: VIII
-Academic Year :2012-2013
-Batch:   2012-13
-Subject:   Instrumentation L$ Process Control   Marks:   100
-Time:   10.00 am To 1.00 pm
-Date:   18/06/2013   Duration: 3 hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-1. Quest ion No.1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
-3. In all 5 questions to be attempted.
-4. All questions c q equal marks.
-5. Answer to each new question to be started on a fresh page.
-4.1 Attempt any four of the following:
-(a) CalculateF.R of f eorder system with time constant one min after the lapse of
-0.5 min of giving step input.
-(b) Draw the nature of response curve of uuder damped second order system to step
-input and dehe Characteristic terms.
-(c) Write the functions of elements of automatic process control system.
-(d) Draw the Block diagram of a Feed back control systemwith Transfer functions
-(e) Explain the Principle of a The~~nocouple.
-4.2 (a) With the help of labeled diagram, explain the construction of Resistance
-Temperature Detector and write its applications giving shapes of sensing element.
-@) Explain the flow measurement using Ultrasonic flow detectors for clean fluids
-and for fluids with suspended solids.
-4.3 (a) Explain the use of Manometers and pressure g a q in measuring level in tanks.
-(b) Write about the constnlction and working of electrical Pressure gage.
-4.4 Draw the root locus diagram for the following, giving poles, zeros, asymptotes, C.G.,
-Break Away Point if any and comment on the stability of the system. Show the
-loci on Real axis with boldtdark lines.
-(a) GP= 1/(2s+l); Gc=&[1+(1/3s)]; Gm= l/(s+l); G, = 1
-(b) G,, = l/S+5)(s+6); Go=&[I+ 0.75~+(0.25/s)]; Gm=l;G, = 1
---- page 2 ---
-Q.5 Derive the expressions for AR and Phase Angle in terms of kquency for the
-following transfer hctions and draw the Bode plots:
-(a) G(s) = 1 1(2s+l)
-@) G(s) = 1 + (112s)
-Q.6 (a) With suitable example, explain the casca&control scheme and compare the
-response curvewith the conventional control scheme response curve.
-(b) Explain the procedure of preparing Routh Array using characteristic polynomial
-equation of closed loop transfer function and state Routh tests for stability.
-Q.7 Write notes on any two of the following:
-(a) Controller Tuning
-(b) Control Schemes for control of quality of Distillate product in Distillation Tower
-(c) Valve Characteristics
-````
-
-## 2012-13 · Re-Exam · Trim 8 · paper 8f832dc4345a
+## 2013-14 · Re-Exam · Trim 8 · paper 8f832dc4345a
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -1554,6 +1397,343 @@ a
 10
 ````
 
+## 2013-14 · Re-Exam · Sem 6 · paper 0e2728d69c3b
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/INSTRUMENTATION AND PROCESS CONTROL/INSTRUMENTATION & PROCESS CONTROL BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 03/07/2014
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Semester: VI
+
+aa
+
+Subject : Instrumentation & Process Control Mal IBRARY )s
+
+Programme:MBA Tech (CHEMICAL) Year: Ill
+
+Academic Year: 2013-14
+
+Batch:2013-2014
+
+Date :03/07/2014
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks
+
+Q.1 Write short note on:
+
+“J. Bellows pressure Gauge 05
+
+Il. | Bourdon tube Pressure Gauge 05
+
+Ill. | Pneumatically operated control valve. 05
+
+IV. Explain with block diagram simple control system. 05
+
+Q.2 a) What are the advantage and dis-advantage of adding integral mode and 10
+
+derivation mode of control to Proportional Controller. Write transfer function
+equation and draw the transient response curves the step change for PI and PD
+controllers. 10
+b) Draw the Response curve of a under damped second order system to a step
+Input and define- rise time, response time, peak over shoot, period of
+oscillation and decay ratio.
+Q.3 Sketch the Bode plot for the system having: 20
+80
+alga) s(s + 2X + 20)
+increased by 150 %, what is the new gain margin. Comment on stability.
+Q4 a) Define what is transfer Function? Derive the Expression for two tank non- 12
+interacting system.
+b) A thermocouple follows a first order dynamic system with time constant 0.2 08
+min. It is placed in a temperature bath at 100° C and it allowed to reach at
+steady state. It is suddenly transferred to another bath at 150°C at time t=0 and
+is left there for 0.2 min. It is immediately returned to original bath at 100° C.
+Calculate its reading at t= 0.1 min and t= 0.4 min.
+
+. Determine the gain and the phase margin. If the gain is
+
+Q.5 a) Explain Routh stability Criterion? 06
+
+Vo.
+--- page 2 ---
+b) What are the different types of controller? Write their transfer function? 06
+
+c)* Avunit,step change in error is introduced into PID controller. If Ke =10, 08
+tT, =1,7,= 0.5. Plot the response of the controller
+Q.6 Sketch the root locugifor positive feedback system shown below: 20
+ai
+OSES) = ey a)
+Q.7 Write notes ony
+a) Servo and Regulatory control system. 05
+b) Closed Loop and Open Loop control system. 05
+c) Negative Feedback and Positive Feedback with example 10
+
+}—————
+
+fa
+````
+
+## 2012-13 · Exam not stated · Trim 8 · paper 70462105494d
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INSTRUMENTAION AND PROCESS CONTROL/scan0078.pdf`
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management &
+
+rogramme: MBA (Tech) - CHEMUCAL. Year: III , : “sVRM'S
+Academic Year : 2012-2013 H* C MIMS Univeralty oy:
+pane Mumpal-56.
+ubject: Instrumentation and Process Control
+00
+late: 17/01/2013 _
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1.Quest ion No.1 is compulsory.
+
+2.Out of remaining questions, attempt any four questions.
+3.In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+Q.1 Attempt any four of the following:
+(a) Draw F.R. vs. time curve for a first order system for step input and give value of F.R. when
+t=T.
+(b) For the second order system sketch the F.R. vs. time curves for (i) over damped, (ii)
+} Critically damped, (iii) under damped and (iv) undamped system giving corresponding
+values of damping coefficient.
+(c) Write the overall transfer function of a regulatory control system in terms of Transfer
+functions of individual elements.
+(d) Draw the nature of F.R. vs. time curves for two as well as for three non interacting first
+order systems in series for step input and write the Transfer function for the same.
+(e) Write applications of Resistance Temperature Detector.
+
+Q.2 (a) With the help of labeled diagram, explain the construction and working ofa
+Thermocouple and write its applications.
+‘ ! (b) Write the procedure to calibrate Rota meter.
+Q.3 (a) Explain the methods of level measurement using (i) ultrasonic waves and (ii) radiation
+energy.
+(b) Write about the construction, working and applications of an Optical Pyrometer.
+
+PTO
+
+Y
+--- page 2 ---
+“ <
+
+Q: 4, Draw the root locus diagram for the following, giving poles, zeros, asymptotes, C.G., Break
+“Away Point Hany: and comment on stability of the system.
+
+;
+
+(a) Gp =1 /, (3s? 445 + 1); Ge= Ke[1+(1/2s); Gm = 1); Gy=1
+
+(b) Gp=1/(s+2)(s+ 3) = = K,(1+ 0.75s+0.25/s); Gm =1; Gy =
+
+Q.5 Derive the expressions for AR and Phase Angle in terms of frequency for the following
+transfer functions and draw the Bode plots:
+
+(a) G(s) = 1+ 3s
+(b) G(s) =e °
+
+Q.6 (a) With suitable example explain the feed forward control scheme and compare the closed
+loop response with the conventional control scheme.
+
+(b) Prepare Routh Array for the following characteristic polynomial equation of closed loop
+transfer function.
+
+S?+ 6S? #115 +6(K, +1) =0
+Find the maximum value of K, for which the system will be stable.
+Q.7 Write notes on any two of the following:
+(a) Bode Stability criteria
+(b) Control Schemes for controlling Temperature in Jacketed reaction vessel
+
+(c) Pneumatically operated control valve
+
+v2)
+````
+
+## 2012-13 · Re-Exam · Trim 8 · paper 640e4f3c111b
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INSTRUMENTAION AND PROCESS CONTROL/INSTRUMENTATION & PROCESS CONTROL VIII (CHEMICAL) MBA TECH 2012-2013 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 18/06/2013
+- Text: text (2 pages)
+
+````text
+.. .   SVKM's NMIMS
+Mukesh Pate1 School of Technology Management & Enginee
+Programme: MBA TECH - CHEMICAL   Year:   I11   Trimester: VIII
+Academic Year :2012-2013
+Batch:   2012-13
+Subject:   Instrumentation L$ Process Control   Marks:   100
+Time:   10.00 am To 1.00 pm
+Date:   18/06/2013   Duration: 3 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+1. Quest ion No.1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. In all 5 questions to be attempted.
+4. All questions c q equal marks.
+5. Answer to each new question to be started on a fresh page.
+4.1 Attempt any four of the following:
+(a) CalculateF.R of f eorder system with time constant one min after the lapse of
+0.5 min of giving step input.
+(b) Draw the nature of response curve of uuder damped second order system to step
+input and dehe Characteristic terms.
+(c) Write the functions of elements of automatic process control system.
+(d) Draw the Block diagram of a Feed back control systemwith Transfer functions
+(e) Explain the Principle of a The~~nocouple.
+4.2 (a) With the help of labeled diagram, explain the construction of Resistance
+Temperature Detector and write its applications giving shapes of sensing element.
+@) Explain the flow measurement using Ultrasonic flow detectors for clean fluids
+and for fluids with suspended solids.
+4.3 (a) Explain the use of Manometers and pressure g a q in measuring level in tanks.
+(b) Write about the constnlction and working of electrical Pressure gage.
+4.4 Draw the root locus diagram for the following, giving poles, zeros, asymptotes, C.G.,
+Break Away Point if any and comment on the stability of the system. Show the
+loci on Real axis with boldtdark lines.
+(a) GP= 1/(2s+l); Gc=&[1+(1/3s)]; Gm= l/(s+l); G, = 1
+(b) G,, = l/S+5)(s+6); Go=&[I+ 0.75~+(0.25/s)]; Gm=l;G, = 1
+--- page 2 ---
+Q.5 Derive the expressions for AR and Phase Angle in terms of kquency for the
+following transfer hctions and draw the Bode plots:
+(a) G(s) = 1 1(2s+l)
+@) G(s) = 1 + (112s)
+Q.6 (a) With suitable example, explain the casca&control scheme and compare the
+response curvewith the conventional control scheme response curve.
+(b) Explain the procedure of preparing Routh Array using characteristic polynomial
+equation of closed loop transfer function and state Routh tests for stability.
+Q.7 Write notes on any two of the following:
+(a) Controller Tuning
+(b) Control Schemes for control of quality of Distillate product in Distillation Tower
+(c) Valve Characteristics
+````
+
+## 2012-13 · Re-Exam · Trim 8 · paper ce2354a8258b
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INSTRUMENTAION AND PROCESS CONTROL/Instrumentation and Process Control BATCH 2011-2012 RE EXAMscan0011.pdf`
+- Printed on paper: duration hours: 3; exam date: 17/01/2013
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Paci
+
+Programme: MBA(Tech) (Chemical) Year: III Trimest¢f=
+Academic Year :2012-2013
+
+Batch: 2011-2012
+Subject: Instrumentation and Process Control Marks:
+Time:
+Date: 17/01/2013 Duration: 3 hrs:
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1.Quest ion No.1 is compulsory.
+
+2.Out of remaining questions, attempt any four questions.
+3.In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5.Answer to each new question to be started on a fresh page.
+
+Q.1 Attempt any four of the following:
+
+(a) Draw F.R. vs. time curve for a first order system for step input and give value of F.R. when
+
+t=T.
+| (b) Define Ultimate Gain (K,) and Ultimate Period (P,) and give use of the same.
+
+(c) Write the overall transfer function of a servo control system in terms of transfer
+functions of individual elements.
+
+(d) Draw the Block diagram of a regulatory control system with Transfer functions
+
+(e) Explain the Principle of working of a Resistance Temperature Detector.
+
+Q.2 (a) With the help of labeled diagram, explain the construction and working of a Bourdon pressure
+gage. Give the various shapes of Bourdon tubes and cross section of the tube.
+
+(b) With the help of labeled diagram, explain the construction and working of Venturimeter.
+'
+
+€
+Q.3 (a) Explain the methods of level measurement using floats and magnetic floats.
+
+(b) Write about the construction, working and applications of a Radiation Pyrometer.
+
+Ye
+--- page 2 ---
+Q.4 Draw the root locus diagram for the following, giving poles, zeros, asymptotes, C.G., Break Away
+Point if any and comment on stability of the system and find the maximum value of K, for
+stability.
+
+Gp =1/ (35? +45 +1); Ge = Ke1+(1/25)]; Gm = 1/ (5 +5); Gy=1
+
+Q.5 Derive the expressions for AR and Phase Angle in terms of frequency for the following transfer
+functions and draw the Bode plots:
+
+(a) G(s) = 1+ (1 /5s)
+(b) G(s) =e °°
+
+Q.6 (a) With suitable example, explain the ratio control scheme. Draw the block diagram and write the
+transfer function.
+
+(b) Write about the valve inherent and actual characteristics.
+
+Q.7 Write notes on any two of the following:
+(a) Response of two interacting first order systems in series to a step input.
+(b) Control Schemes for controlling Temperature in Heat Exchangers.
+
+(c) Use of Ultrasonic waves and Radiation energy in Level measurement.
+
+Do
+````
+
 ## 2011-12 · Exam not stated · Trim 8 · paper 97c1ed649099
 
 - Departments: Chemical
@@ -1641,6 +1821,138 @@ Q.7 Write notes on:-
 a
 ````
 
+## 2011-12 · Re-Exam · Trim 8 · paper 39502f1eae98
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INSTRUMENTAION AND PROCESS CONTROL/INSTRUMENTATION AND PROCESS CONTROL BATCH 2010-11 RE EXA0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 19/06/2012
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+77s XASUITUTE OF diy,
+we Op
+y, iy
+ip \%
+; ye
+Ror cnane
+SVKM’s NMIMS ce
+Mukesh Patel School of Technology Management & Engineering
+Programme: MBA Tech - Chemical Year: III Trimester: VIII
+Academic Year : 2011-2012
+Batch: 2010-11
+Subject: Instrumentation & Process Control Marks: 100
+Time: 10.00 am To 1.00 pm
+Date: 19/06/2012 Duration: 3 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+NB: 7
+1. Question No. 1 is Compulsory.
+} 2. Out of remaining questions, attempt any four questions.
+3. Inall Five questions to be attempted.
+4. All questions carry equal marks. :
+5. Answer to each new question to be started ona fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+Q1 Attempt any five 20
+
+a) Write the names of elements in the Automatic Process ControbCircuit and draw the
+j labeled circuit diagram showing direction of signals.
+6) Write the transfer functions of P, Pl, PD and PID controllers..
+#) Write the transfer functions of Transportation lag, First order system, Two non-
+
+interacting first order systems in series and second order system.
+
+d) With the help of response curve of an under damped second order system to a step.
+input define response time, rise time, decay ratio and period of oscillation.
+
+e) With the help of labeled diagram, explain the working Principle of Ultrasound Level
+Measuring device.
+
+f) Write the Bode criteria for stability of a system.
+
+Q.2 a) With the help of labeled diagram, explain the construction, working and applications of | 10
+Resistance Temperature Detector.
+
+b) With the help of labeled diagram, explain the construction, working and applications of | 10
+Bourdon Pressure gage.
+
+P.T.O.
+
+! fo
+--- page 2 ---
+Q3
+
+QA4
+
+Qs
+
+Q6
+
+Q7
+
+b)
+c)
+
+ea
+
+Explain the inherent Valve Characteristics giving inner plug types to obtain the
+characteristics,
+Explain the working Principles of two types of Pyrometers.
+
+Derive the Expression for the fractional response of the First Order system to a step
+input. If time constant of a system is 30 seconds, find the fractional response of a
+system in 40 seconds.
+
+In a non-linear valve, flow rate is proportional to square root of pressure difference
+across the valve. Explain how will you linearize the differential equation and solve.
+
+Find the damping coefficient and period of oscillation for two non-interacting first order
+tanks in series with time constants T, and T, and same cross sectional areas.
+
+Write the Second order differential equation for two interacting first order tanks in
+series with same time constants T and same cross sectional areas. Draw the response
+curve to a step input and compare with that of two non-interacting first order tanks.
+
+Find the poles, zeros, number of Asymptotes and Centre of Gravity and sketch the Root
+Locus diagram for the following Open Loop Transfer Function :
+
+G(S) = K(S+6) / (S+1) (S+2) (S+4)
+
+Find the AR and Phase angle for the PI Controller and for the First Order system and
+draw the Bode Plots. .
+
+Write short notes on any two
+
+Control Strategies for Control of Outlet temperature of a process stream
+
+Cascade Control
+
+Ratio Control
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+20
+
+4
+
+7
+````
+
 ## 2011-12 · Re-Exam · Trim 8 · paper a67f65b3cd50
 
 - Departments: Chemical
@@ -1717,95 +2029,6 @@ Q.7 Write notes on:-
 (b) Cascade Control
 
 v!
-````
-
-## 2011-12 · Re-Exam · Trim 8 · paper ce2354a8258b
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INSTRUMENTAION AND PROCESS CONTROL/Instrumentation and Process Control BATCH 2011-2012 RE EXAMscan0011.pdf`
-- Printed on paper: duration hours: 3; exam date: 17/01/2013
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Paci
-
-Programme: MBA(Tech) (Chemical) Year: III Trimest¢f=
-Academic Year :2012-2013
-
-Batch: 2011-2012
-Subject: Instrumentation and Process Control Marks:
-Time:
-Date: 17/01/2013 Duration: 3 hrs:
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1.Quest ion No.1 is compulsory.
-
-2.Out of remaining questions, attempt any four questions.
-3.In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5.Answer to each new question to be started on a fresh page.
-
-Q.1 Attempt any four of the following:
-
-(a) Draw F.R. vs. time curve for a first order system for step input and give value of F.R. when
-
-t=T.
-| (b) Define Ultimate Gain (K,) and Ultimate Period (P,) and give use of the same.
-
-(c) Write the overall transfer function of a servo control system in terms of transfer
-functions of individual elements.
-
-(d) Draw the Block diagram of a regulatory control system with Transfer functions
-
-(e) Explain the Principle of working of a Resistance Temperature Detector.
-
-Q.2 (a) With the help of labeled diagram, explain the construction and working of a Bourdon pressure
-gage. Give the various shapes of Bourdon tubes and cross section of the tube.
-
-(b) With the help of labeled diagram, explain the construction and working of Venturimeter.
-'
-
-€
-Q.3 (a) Explain the methods of level measurement using floats and magnetic floats.
-
-(b) Write about the construction, working and applications of a Radiation Pyrometer.
-
-Ye
---- page 2 ---
-Q.4 Draw the root locus diagram for the following, giving poles, zeros, asymptotes, C.G., Break Away
-Point if any and comment on stability of the system and find the maximum value of K, for
-stability.
-
-Gp =1/ (35? +45 +1); Ge = Ke1+(1/25)]; Gm = 1/ (5 +5); Gy=1
-
-Q.5 Derive the expressions for AR and Phase Angle in terms of frequency for the following transfer
-functions and draw the Bode plots:
-
-(a) G(s) = 1+ (1 /5s)
-(b) G(s) =e °°
-
-Q.6 (a) With suitable example, explain the ratio control scheme. Draw the block diagram and write the
-transfer function.
-
-(b) Write about the valve inherent and actual characteristics.
-
-Q.7 Write notes on any two of the following:
-(a) Response of two interacting first order systems in series to a step input.
-(b) Control Schemes for controlling Temperature in Heat Exchangers.
-
-(c) Use of Ultrasonic waves and Radiation energy in Level measurement.
-
-Do
 ````
 
 ## 2010-11 · Exam not stated · Trim 8 · paper d22854941f45
@@ -2011,138 +2234,6 @@ x ni yy
 IN \
 ````
 
-## 2010-11 · Re-Exam · Trim 8 · paper 39502f1eae98
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INSTRUMENTAION AND PROCESS CONTROL/INSTRUMENTATION AND PROCESS CONTROL BATCH 2010-11 RE EXA0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 19/06/2012
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-77s XASUITUTE OF diy,
-we Op
-y, iy
-ip \%
-; ye
-Ror cnane
-SVKM’s NMIMS ce
-Mukesh Patel School of Technology Management & Engineering
-Programme: MBA Tech - Chemical Year: III Trimester: VIII
-Academic Year : 2011-2012
-Batch: 2010-11
-Subject: Instrumentation & Process Control Marks: 100
-Time: 10.00 am To 1.00 pm
-Date: 19/06/2012 Duration: 3 hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-NB: 7
-1. Question No. 1 is Compulsory.
-} 2. Out of remaining questions, attempt any four questions.
-3. Inall Five questions to be attempted.
-4. All questions carry equal marks. :
-5. Answer to each new question to be started ona fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-Q1 Attempt any five 20
-
-a) Write the names of elements in the Automatic Process ControbCircuit and draw the
-j labeled circuit diagram showing direction of signals.
-6) Write the transfer functions of P, Pl, PD and PID controllers..
-#) Write the transfer functions of Transportation lag, First order system, Two non-
-
-interacting first order systems in series and second order system.
-
-d) With the help of response curve of an under damped second order system to a step.
-input define response time, rise time, decay ratio and period of oscillation.
-
-e) With the help of labeled diagram, explain the working Principle of Ultrasound Level
-Measuring device.
-
-f) Write the Bode criteria for stability of a system.
-
-Q.2 a) With the help of labeled diagram, explain the construction, working and applications of | 10
-Resistance Temperature Detector.
-
-b) With the help of labeled diagram, explain the construction, working and applications of | 10
-Bourdon Pressure gage.
-
-P.T.O.
-
-! fo
---- page 2 ---
-Q3
-
-QA4
-
-Qs
-
-Q6
-
-Q7
-
-b)
-c)
-
-ea
-
-Explain the inherent Valve Characteristics giving inner plug types to obtain the
-characteristics,
-Explain the working Principles of two types of Pyrometers.
-
-Derive the Expression for the fractional response of the First Order system to a step
-input. If time constant of a system is 30 seconds, find the fractional response of a
-system in 40 seconds.
-
-In a non-linear valve, flow rate is proportional to square root of pressure difference
-across the valve. Explain how will you linearize the differential equation and solve.
-
-Find the damping coefficient and period of oscillation for two non-interacting first order
-tanks in series with time constants T, and T, and same cross sectional areas.
-
-Write the Second order differential equation for two interacting first order tanks in
-series with same time constants T and same cross sectional areas. Draw the response
-curve to a step input and compare with that of two non-interacting first order tanks.
-
-Find the poles, zeros, number of Asymptotes and Centre of Gravity and sketch the Root
-Locus diagram for the following Open Loop Transfer Function :
-
-G(S) = K(S+6) / (S+1) (S+2) (S+4)
-
-Find the AR and Phase angle for the PI Controller and for the First Order system and
-draw the Bode Plots. .
-
-Write short notes on any two
-
-Control Strategies for Control of Outlet temperature of a process stream
-
-Cascade Control
-
-Ratio Control
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-20
-
-4
-
-7
-````
-
 ## 2009-10 · Exam not stated · Trim 8 · paper eeae3c48bb64
 
 - Departments: Chemical
@@ -2150,6 +2241,7 @@ Ratio Control
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INSTRUMENTAION AND PROCESS CONTROL/2009-2010(105).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 HRARY d2
@@ -2163,7 +2255,6 @@ Academic year — 2009-10
 Subject : Instrumentation and Process Control Date: 2 © / ot | 2o0\0
 Bind Egaminotion Marks: 100
 Time: 3 Hours
-C\0-09 Om +o Ol- os pm)
 Instructions: Candidates should read carefully the instructions printed on the question
 paper and on the cover of the Answer Book, which is provided for their use.
 
@@ -2769,6 +2860,8 @@ phase margin of 53.15°. What will be the phase margin if K] ig increased by 20%
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INSTRUMENTAION AND PROCESS CONTROL/2006-2007 re exam(20).pdf`
 - Text: ocr (2 pages), mean OCR confidence 41.8
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 pr
@@ -2783,7 +2876,6 @@ ies Tech, (Unernsetk) a
 Dyrmetotin & Pcie oa
 
 Ri. G ——————
-vepindto vy | Aworrer omy four \
 
 Ay follo.si ,
 
@@ -2792,9 +2884,7 @@ s. ' cq!) preccion Yi) Actua wt
 Feedback aud Fe
 
 Delve tng 7
-c syttem naa Caep Cxcumples from prem
 
-e cketeh (alba sori flo
 
 afena? 10
 
@@ -2807,12 +2897,6 @@ Q. 8. @ Grejeantin | ee fettewe ovd for any BO"
 Ahuw ow , van e af. . ice) 4
 well vive govern nwo om Bywe domain oO NO.
 _ (of BE doweAn z
-(b) Defre Hywre comport OF & fovk why Sy He ke
-dam be 2_-mettoo frAg pyre Cg aa & Ao
-papsoser® verpe vr bs ake imp
-f) : be in Chow AGL iyires a tw jrderah} hale ‘i (o
-fevies |8 on pverdom pe? cee) waa byron
-Cb) Derive er powee aU underda pO wun) or Br 10 -
 / myst Ke amuserdas jp ot
 gO eee se gee cn pe sp Papert 7
 Wir wet fo Pp? onteller. aide
@@ -2826,100 +2910,8 @@ pT-0
 
 AG) The wot loo 4° iy teen Krew
 
-tra poly af -|,-2 ad tra Bews of OS
 framofer fam P77 fo.
 an eel
 
 LOS,
-````
-
-## Year not stated · Exam not stated · Trim 8 · paper 70462105494d
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INSTRUMENTAION AND PROCESS CONTROL/scan0078.pdf`
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management &
-
-rogramme: MBA (Tech) - CHEMUCAL. Year: III , : “sVRM'S
-Academic Year : 2012-2013 H* C MIMS Univeralty oy:
-pane Mumpal-56.
-ubject: Instrumentation and Process Control
-00
-late: 17/01/2013 _
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1.Quest ion No.1 is compulsory.
-
-2.Out of remaining questions, attempt any four questions.
-3.In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-Q.1 Attempt any four of the following:
-(a) Draw F.R. vs. time curve for a first order system for step input and give value of F.R. when
-t=T.
-(b) For the second order system sketch the F.R. vs. time curves for (i) over damped, (ii)
-} Critically damped, (iii) under damped and (iv) undamped system giving corresponding
-values of damping coefficient.
-(c) Write the overall transfer function of a regulatory control system in terms of Transfer
-functions of individual elements.
-(d) Draw the nature of F.R. vs. time curves for two as well as for three non interacting first
-order systems in series for step input and write the Transfer function for the same.
-(e) Write applications of Resistance Temperature Detector.
-
-Q.2 (a) With the help of labeled diagram, explain the construction and working ofa
-Thermocouple and write its applications.
-‘ ! (b) Write the procedure to calibrate Rota meter.
-Q.3 (a) Explain the methods of level measurement using (i) ultrasonic waves and (ii) radiation
-energy.
-(b) Write about the construction, working and applications of an Optical Pyrometer.
-
-PTO
-
-Y
---- page 2 ---
-“ <
-
-Q: 4, Draw the root locus diagram for the following, giving poles, zeros, asymptotes, C.G., Break
-“Away Point Hany: and comment on stability of the system.
-
-;
-
-(a) Gp =1 /, (3s? 445 + 1); Ge= Ke[1+(1/2s); Gm = 1); Gy=1
-
-(b) Gp=1/(s+2)(s+ 3) = = K,(1+ 0.75s+0.25/s); Gm =1; Gy =
-
-Q.5 Derive the expressions for AR and Phase Angle in terms of frequency for the following
-transfer functions and draw the Bode plots:
-
-(a) G(s) = 1+ 3s
-(b) G(s) =e °
-
-Q.6 (a) With suitable example explain the feed forward control scheme and compare the closed
-loop response with the conventional control scheme.
-
-(b) Prepare Routh Array for the following characteristic polynomial equation of closed loop
-transfer function.
-
-S?+ 6S? #115 +6(K, +1) =0
-Find the maximum value of K, for which the system will be stable.
-Q.7 Write notes on any two of the following:
-(a) Bode Stability criteria
-(b) Control Schemes for controlling Temperature in Jacketed reaction vessel
-
-(c) Pneumatically operated control valve
-
-v2)
 ````

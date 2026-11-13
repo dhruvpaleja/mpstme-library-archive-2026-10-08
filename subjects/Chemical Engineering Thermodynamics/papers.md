@@ -1,6 +1,6 @@
 # Chemical Engineering Thermodynamics: question papers in full
 
-23 unique papers · 2005-06 to 2019-20 · Chemical
+22 unique papers · 2005-06 to 2019-20 · Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -185,6 +185,137 @@ Also calculate the work done on the gas and the heat interaction. (y=1.4).
 4/4
 ````
 
+## 2018-19 · Exam not stated · Sem 3 · paper e8f87f58ca7d
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/CHEMICAL ENGINEERING THERMODYNAMICS/Chemical engineering Thermodynamics 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 86.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (Chemical) Year: II Semester : III
+| Academic Year: 2018-2019
+
+“Subject: Chemical Engineering Thermodynamics Marks: 70
+
+Time: 2.00 pm to 5.00 pm
+
+: 2019
+Date : 25 January Durations: 3 (hrs)
+
+No. of Pages: 2
+Re-examination (2017-18 / 2018-19) _-
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1.
+
+a. Explain Reversible process with example. 6
+
+b. Define second law of thermodynamics with example. 6
+
+G What is the state and quality of a steam with temperature 348.15 K and and specific enthalpy of 2
+1000 kJ/kg. .
+
+2.
+
+a. Draw and explain P-V diagram for pure substance. 7
+b. Assuming that carbonated water contains only CO2(1) and H20(2), determine the compositions of 7
+the vapor and liquid phases in a sealed can of “soda” and the pressure exerted on the can at 10 °C.
+
+Henry’s constant for CO2 in water at 10 °C is about 990 bar. x; = 0.01.
+3.
+a. Explain Carnot cycle with diagram. 7
+b. Derive an expression for efficiency of Carnot cycle in terms of cold and hot reservoir temperature. 7
+4.
+a. Explain lost work. 6
+b. Asteady-flow adiabatic turbine (expander) accepts gas at conditions T: = 500 K, P: = 6 bar, and 8
+
+discharges at conditions T2 = 371 K, P2 = 1.2 bar. Assuming ideal gases, determine (per mole of gas)
+Wactual, Wideal, Wiost, and entropy generation rate. Tsurrounding = 300 K, Cp/R = 7/2.
+
+Yo
+--- page 2 ---
+Explain Flow Calorimeter.
+
+Air at 1 bar and 25 °C is compressed to 5 bar and 25 °C by cooling at constant pressure followed by
+heating at constant volume. Calculate the heat and work requirement and AU and AH of the air. Cp=
+29.1 J/mol.K and Cy = 20.78 J/mol.K.
+
+State two-parameter theorem of corresponding states.
+
+Calculate the molar volume of an ethylene and propylene mixture comprising 70 mole percent
+ethylene and 30 mole percent propylene at 600 K and 60 bar. Assume that the mixture follows the
+Redlich-Kwong equation of state.
+
+
+Ethylene(1) 283.1 51.17
+
+Propylene(2) 365.1 46
+
+For RK:
+
+Z+aZ+BZr+y=0 <
+Where:
+
+Az=aP/(RTY
+
+B=bP/ RT
+
+a=-1-B+uB
+B=A+wB -uB-uB’
+
+y =~AB~wB* -wB’
+
+vdW 0 0 -~1-B A ~AB 27 yr RT.
+64 PB. 8R.
+RK | J 0 ~T A-B-~B ~AB OA2TABR’T? cog 0.08664RT.
+P. Fe
+a. =T
+RK r
+
+For a binary mixture (mm): °
+4, & via, + 2y,¥2(a,a,)° +34,
+
+b,, = 1B, + Vaby
+
+Oy, = YO, + VO,
+
+State Raoult’s law with assumptions for VLE calculation.
+
+Isobutane expands adiabatically in a turbine from 5000 kPa and 250°C to 500 kPa at the rate of 0.7
+kmol/s. If the turbine efficiency is 0.80, what is the power output of the turbine and what is the
+temperature of the isobutane leaving the turbine? Assume ideal gas. Cp/R = (1.9 + 36.9*10°T -
+11.4*10°T?)
+
+9] >
+
+7
+
+12
+
+10
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper 0365e72b67b9
 
 - Departments: Chemical
@@ -192,6 +323,7 @@ Also calculate the work done on the gas and the heat interaction. (y=1.4).
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/CHEMICAL ENGINEERING THERMODYNAMICS/Chemiccal engineering thermodynamics Final 2018-19 Re-exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 24 November 2018
 - Text: ocr (2 pages), mean OCR confidence 85.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 0
@@ -260,7 +392,6 @@ Redlich-Kwong equation of state.
 
 io
 --- page 2 ---
-Te (K) Te (K) P, (bar)
 
 Ethylene(1) 283.1 51.17
 
@@ -522,138 +653,6 @@ RT
 P=) a/Tv
 
 Derive and find the value of a and b in terms of p,-&T¢.
-````
-
-## 2017-18 · Exam not stated · Sem 3 · paper e8f87f58ca7d
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/CHEMICAL ENGINEERING THERMODYNAMICS/Chemical engineering Thermodynamics 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 86.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (Chemical) Year: II Semester : III
-| Academic Year: 2018-2019
-
-“Subject: Chemical Engineering Thermodynamics Marks: 70
-
-Time: 2.00 pm to 5.00 pm
-
-: 2019
-Date : 25 January Durations: 3 (hrs)
-
-No. of Pages: 2
-Re-examination (2017-18 / 2018-19) _-
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-1.
-
-a. Explain Reversible process with example. 6
-
-b. Define second law of thermodynamics with example. 6
-
-G What is the state and quality of a steam with temperature 348.15 K and and specific enthalpy of 2
-1000 kJ/kg. .
-
-2.
-
-a. Draw and explain P-V diagram for pure substance. 7
-b. Assuming that carbonated water contains only CO2(1) and H20(2), determine the compositions of 7
-the vapor and liquid phases in a sealed can of “soda” and the pressure exerted on the can at 10 °C.
-
-Henry’s constant for CO2 in water at 10 °C is about 990 bar. x; = 0.01.
-3.
-a. Explain Carnot cycle with diagram. 7
-b. Derive an expression for efficiency of Carnot cycle in terms of cold and hot reservoir temperature. 7
-4.
-a. Explain lost work. 6
-b. Asteady-flow adiabatic turbine (expander) accepts gas at conditions T: = 500 K, P: = 6 bar, and 8
-
-discharges at conditions T2 = 371 K, P2 = 1.2 bar. Assuming ideal gases, determine (per mole of gas)
-Wactual, Wideal, Wiost, and entropy generation rate. Tsurrounding = 300 K, Cp/R = 7/2.
-
-Yo
---- page 2 ---
-Explain Flow Calorimeter.
-
-Air at 1 bar and 25 °C is compressed to 5 bar and 25 °C by cooling at constant pressure followed by
-heating at constant volume. Calculate the heat and work requirement and AU and AH of the air. Cp=
-29.1 J/mol.K and Cy = 20.78 J/mol.K.
-
-State two-parameter theorem of corresponding states.
-
-Calculate the molar volume of an ethylene and propylene mixture comprising 70 mole percent
-ethylene and 30 mole percent propylene at 600 K and 60 bar. Assume that the mixture follows the
-Redlich-Kwong equation of state.
-
-Te (K) Te (K) P, (bar)
-
-Ethylene(1) 283.1 51.17
-
-Propylene(2) 365.1 46
-
-For RK:
-
-Z+aZ+BZr+y=0 <
-Where:
-
-Az=aP/(RTY
-
-B=bP/ RT
-
-a=-1-B+uB
-B=A+wB -uB-uB’
-
-y =~AB~wB* -wB’
-
-EOS | u Ww a B Y a b
-vdW 0 0 -~1-B A ~AB 27 yr RT.
-64 PB. 8R.
-RK | J 0 ~T A-B-~B ~AB OA2TABR’T? cog 0.08664RT.
-P. Fe
-a. =T
-RK r
-
-For a binary mixture (mm): °
-4, & via, + 2y,¥2(a,a,)° +34,
-
-b,, = 1B, + Vaby
-
-Oy, = YO, + VO,
-
-State Raoult’s law with assumptions for VLE calculation.
-
-Isobutane expands adiabatically in a turbine from 5000 kPa and 250°C to 500 kPa at the rate of 0.7
-kmol/s. If the turbine efficiency is 0.80, what is the power output of the turbine and what is the
-temperature of the isobutane leaving the turbine? Assume ideal gas. Cp/R = (1.9 + 36.9*10°T -
-11.4*10°T?)
-
-9] >
-
-7
-
-12
-
-10
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper 5103c772bf90
@@ -1757,6 +1756,7 @@ _ —
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/CHEMICAL ENGINEERING THEMODYNAMICS/Chemical Engineering Thermodynamics 2010-2011.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07/02/2011
 - Text: ocr (2 pages), mean OCR confidence 91.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 | SVKM’s NMIMS
@@ -1826,7 +1826,6 @@ Vander Waals equation of state. Given equation is (P + a/V*) (V-b) = RT, P, = 42
 
 (b) Determine fugacity and fugacity coefficient on n-propane at 800kPa and 600K using Redlich
 Kwong Equation of state. (For equation and values of constants refer question 3a). Given data:
-T, = 369.9 K, P, = 4257 kPa, m = 0.153, z = 0.9862
 
 Ques 5 (a) A Carnot engine operating between 800°C & 25°C is used to run a Carnot refrigerator
 operating between -20°C & 25°C. If the engine absorbs 10kJ/s from the reservoir at 800°C,
@@ -2384,90 +2383,6 @@ End of Paper
 __
 
 » a
-````
-
-## 2007-08 · Re-Exam · Trim 5 · paper 8dc2411b8c09
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/CHEMICAL ENGINEERING THEMODYNAMICS/2007-2008 batch re exam(1).pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-SVKM’S NMIMS
-Mukesh Patel School of Technology Management & Engineering
-MBA(Tech.), Second Year, Trimester — VIC REME CH Ly
-Academic year - 2006 F-O8
-Subject : Mass Transfer Operations—I Date: \4 /°l / 29\0
-
-¥ an = - Marks: 100 Time: 3 H
-Re- Enc aminethion - 2O8%-10 arks C2 oopm te S00 PM]
-
-Instructions: Candidates should read carefully the instructions printed on the question
-
-paper and on the cover of the Answer Book, which is provided for their use. ag aiTUTE OF May Mg
-NB: . gr
-1. Quest ion No.1 is compulsory. Sf ps tME Yo
-2. Out of remaining questions, attempt any four questions. \ nf 7 vRY ) &
-3. Inall 5 questions to be attempted. BS ‘=
-4. All questions carry equal marks. < Nig ame
-5. Answer to each new question to be started on a fresh page. a
-(20)
-
-Q.1. Attempt any four of the following:
-
-(a) Define diffusivity and explain one method of estimation of diffusivity.
-
-(b) Explain the two-film theory of mass transfer. Write the assumptions of this
-theory.
-
-(c) Write the effects of temperature and pressure on the solubility of gases in
-liquid.
-
-(d) Define adiabatic saturation temperature and wet bulb temperature.
-
-(e) Write the merits and demerits of batch and continuous drying operations.
-
-Q.2 (a) Derive the expression for molar flux of binary mass transfer for equi-molal (10)
-counter diffusion.
-(b) For a diffusion of solute A through a layer of gas to an absorbing liquid, (10)
-calculate the ratio of transfer rate for one way diffusion to that for equi-molal
-diffusion if ya = 0.25 and yaj= 0.15.
-
-Q.3 (a) Explain co-current, counter current and cross current methods of contacting (\o )
-phases for mass transfer. State with reasons the applications of each method.
-(b) Explain the concepts of NTS and NTU in counter current steady state mass (|0 )
-transfer operation.
-
-Q.4 (a) On y-x diagram sketch the Operating line and Equilibrium line for a single ¢ \ 0)
-stage mass transfer operation. Write the overall and component mass balance
-the equation of operating line. .
-(b) For a single stage mass transfer operation, the feed contains 5 wt% solute. (io >)
-Calculate the minimum Solvent to Feed ratio to transfer 60 % of solute from
-feed to solvent if the distribution coefficient Xs/Xp on weight basis is 1.2 and
-mutual solubility values are negligible.
-(PTO)
---- page 2 ---
-Q.5 (a) In a counter current gas absorption concentrations of solute in inlet and outlet \0)
-of the gas stream are 0.05 and 0.005 mole fractions respectively. The solvent
-used is fresh, S/F ratio is 1.2 times the minimum, the concentration of solute
-in the outgoing solvent is 0.45 moles per mole of solvent. calculate the
-number of Theoratical Satges.
-(b) Write the effects of various factors to be considered for selection of a solvent ( 10)
-for gas absorption.
-
-Q.6 (a) With the help of typical drying curve for a porous solid material define (i) rate (i 0)
-of drying, (ii) critical moisture content, (iii) equilibrium moisture content.
-Explain the mechanism of drying for the constant rate and falling rate.
-
-(b) Explain the design procedure for a typical Rotary Dryer. ¢ 10)
-Q.7 Write notes on:
-(a) Heat, Mass and Momentum Transfer analogy Cie)
-(b) Types of cooling towers ae >)
-AL ve
-
-/\
 ````
 
 ## 2006-07 · Exam not stated · Trim 5 · paper c961c4ddf5cd

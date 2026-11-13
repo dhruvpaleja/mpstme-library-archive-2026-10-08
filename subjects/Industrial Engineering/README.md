@@ -14,16 +14,16 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Industrial Engineering(702ME0E009)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Industrial Engineering(702ME0E009)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Indusrial Engineering, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechanical 7003 | QP_Industrial Engineering(702ME0E009)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech Mechatronics 7004 | QP_Industrial Engineering(702ME0E009)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Industrial Engineering(702ME0E009)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Industrial Engineering(702ME0E009)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Industrial Engineering(702ME0E009)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Industrial Engineering(702ME0E009)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / MECHANICAL | B Tech, Industrial Engineering, Sem-VI, Batch 2024-25 & 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Mechanical 7003 | QP_Industrial Engineering(702ME0E009)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Mechatronics 7004 | QP_Industrial Engineering(702ME0E009)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Industrial Engineering(702ME0E009)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Industrial Engineering(702ME0E009)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / MECHANICAL | Industrial Engineering, Sem VI,Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Industrial Engineering, Sem-V, Final Exam 2024-25.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Industrial Engineering, Sem-V, A Y 2023-24, Final Exam.pdf |

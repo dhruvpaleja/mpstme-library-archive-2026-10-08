@@ -416,6 +416,7 @@ Digital Signatures. How are they different from Digital certificates?
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Cyber Security/QP_Cyber Security(703AI0C005)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Feb 2026
 - Text: mixed (2 pages), mean OCR confidence 32.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1052,6 +1053,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM X/Cyber Security/Cyber Security Batch 2024-25 Final Batch 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24/4 / 2025
 - Text: ocr (2 pages), mean OCR confidence 82.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1116,14 +1118,11 @@ BL-4 table.
 --- page 2 ---
 Row# S$, 1 2 3. 7 15
 
-9 Wa (13 t [2 Vas sits 13 fiole jizis 9 fo [7 ,
 1 ]O [IS] 7 fs f14}2 141341 Jtolé Jiziilo is [3 [sg
 
 ¥
 
-2 4 jt jis 78 [13 }6 [2 fu fasfiz{o iz is trols clo
 
-3 pisjizis j2 [4 jo ft fa [s fuls [is tiolo fo fis
 
 ‘ii b Define malicious codes and their objectives. Discuss any five common [10]
 BL-l. types of malicious codes.
@@ -1802,6 +1801,7 @@ CO-3,SO- | b. Compare virus, worm and Trojan horse. Illustrate different methods
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/DATA SCIENCE/SEM IV/CYBER SECURITY/CYBER SECURITY 2018-19 FINAL EXAM.pdf` (+1 identical copies)
 - Printed on paper: exam date: 22 April 2019
 - Text: ocr (2 pages), mean OCR confidence 92.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 7 SVKM’S NMIMS
@@ -1911,7 +1911,6 @@ Plain text - Happy Holidays, OTP - Learn pythonyz [07M]
 
 (B)- Plaintext - A group of friends namely sharat shaiwala and sid surve met
 
-ojasvi buddhiraju and gayathri ahuja at a cafe. Innocent reuben rewaria
 
 (common friend) was left alone. [07M]
 Keyword — fair statement. Obtain cipher text using playfair cipher.

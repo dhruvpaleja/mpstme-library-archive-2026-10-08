@@ -288,6 +288,159 @@ d. Compare RIFF and TIFF
 , a
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper c1481d828e77
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MULTIMEDIA SYSTEM/MULTIMEDIA SYSTEMS B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 14/05/2016
+- Text: ocr (1 page), mean OCR confidence 93.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: IV Semester: VIII
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Multimedia Systems Marks: 60
+
+Time: 10.04
+Date: 14/05/2016 Buratione:
+
+Re-Examination
+
+e Question No.1 is compulsory.
+
+e Attempt any four out of remaining six.
+
+e Assumptions made should be clearly stated.
+
+e Answer to each new question to be started on fresh page.
+e Figures on right side indicate full marks.
+
+e llustrate answer with sketches wherever required.
+
+1. Attempt any four questions [12]
+
+a) What are the advantages and disadvantages of lossless compression? Describe
+negative compression with an example.
+
+b) Describe various elements of Multimedia applications
+
+c) Explain the Virtual reality design considerations.
+
+d) Explain the distributed client-server operation.
+
+e) Write a note on Hypermedia messaging.
+
+2. a) Apply LZW compression scheme to the following string:
+
+CCCBBBBAAAADDDEECCCBDCBBC [6]
+
+b) Give the need for different data file formats. Compare and Contrast TIFF file format
+and RIFF file format [6]
+3. a) Explain RAID level 0 through 5 and applicability of each. [6]
+b) Discuss JPEG components and methodology [6]
+4. a) Discuss the different types of scanners [6]
+b) Explain Vendor Independent messaging [6]
+5. a) Design the workflow for document imaging management system. [6]
+b) Discuss the various object display and playback issues [6]
+
+6. a) Design a multilevel cache management system for a distributed multimedia system that
+consists of a number of different object servers, each dedicated to a specific multimedia
+a] object type such as image, audio and video. Explain your design assumptions. [8]
+
+b) Discuss the various principles of animation [4]
+
+7, Attempt any 3 [12]
+
+a) Fractal compression
+
+b) Aural metaphor
+
+¢) Multimedia authoring system
+4) Internet telephony
+
+7 fr
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper 913b8b6ebe94
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MULTIMEDIA SYSTEM/MULTIMEDIA SYSTEMS B TECH (COMPUTER), BATCH 2013-14 RE EXAM_913b8b6ebe.pdf`
+- Printed on paper: duration hours: 3; exam date: 05 July 2016
+- Text: ocr (1 page), mean OCR confidence 87.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: IV
+Academic Year: 2015-16
+Batch: 2013-14
+
+Subject: Multimedia Systems N J
+
+Time: 10.00 am - 1.00 pm
+
+Date: 05 July 2016 Durations: 3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of tae Answer Book, which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory.
+2. Attempt any four out of remaining six questions.
+3. Inall 5 questions to be attempted
+<> 4. All questions carry equal marks.
+5. Answer to each new question to be started on fresh page.
+6. Figures in bracket on the right hand side indicate full marks.
+
+Ql . Solve any Four (20)
+
+A» Draw multimedia workstation architecture and explain each block.
+
+B How MIDI files are different than WAVE files 7
+
+C Can you generate exact matrix, If DCT and Inverse DCT applied in sequence on same
+8 X 8 matrix? Justify.
+
+D ~ What do you understand by Video Metaphor ?
+
+E _ What is significance of DNS ?
+
+Q2 A’ Draw TIFF file structure. (10)
+B__ Explain JPEG block diagram and explain compression scheme. (10)
+
+3. A How Laser Printer Works ? (10)
+
+B Suggest Multimedia Applications in bank for clearing cheques, Strong Room Access. (10)
+
+Q4 A What do you understand by Shared Wokspace & Execution Environment ? (10)
+B_ How does Electronic Pen work ? (10)
+
+Q5 A — Draw typical wokflow for Imaging Application. (10)
+B.. Explain Hierarchical Storage Pyramid. (10)
+
+Q6 A What are types of Multimedia Authoring Systems? Explain each in brief. (10)
+B_ Compare Lossy & Lossless compression, Give examples of each. ; (10)
+
+Q7 Write Short Note (Any TWO ) (20)
+
+pres: A Virtual Reality Applications
+
+B Design steps for Multimedia Systems
+C Computer based Animation
+D_ RAID Levels
+
+e —_ =
+````
+
 ## 2014-15 · Final-Exam · Sem 8 · paper 6eea25f5ebd8
 
 - Departments: Computer Engineering
@@ -380,83 +533,132 @@ x
 [12]
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper c1481d828e77
+## 2014-15 · Re-Exam · Sem 8 · paper 8e710c27fa02
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MULTIMEDIA SYSTEM/MULTIMEDIA SYSTEMS B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 14/05/2016
-- Text: ocr (1 page), mean OCR confidence 93.4
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MULTIMEDIA SYSTEM/MULTIMEDIA SYSTEMS B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 08/05/2015
+- Text: ocr (1 page), mean OCR confidence 91.3
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Computer) Year: IV Semester: VIII
-Academic Year: 2015-16
+Programme: B. Tech (COMP) Year: IV Semester: VIII
 
-Batch: 2014-15
+Batch:
 
-Subject: Multimedia Systems Marks: 60
+2013-14
+Academic Year: 2014-2015
 
-Time: 10.04
-Date: 14/05/2016 Buratione:
-
-Re-Examination
-
-e Question No.1 is compulsory.
-
-e Attempt any four out of remaining six.
-
-e Assumptions made should be clearly stated.
+Subject: Multimedia Systems
+Marks: 100
+Date: 08/05/2015 Time: 10.00 am to 1.00 pm
+Durations:
+Re-Examination ¢
+fi:
+Note &
+© Question No.1 is compulsory. a
+e Attempt any four out of remaining six. ’
+e Assumptions made should be clearly stated. Rs “i
 
 e Answer to each new question to be started on fresh page.
+
 e Figures on right side indicate full marks.
+e Illustrate answer with sketches wherever required.
 
-e llustrate answer with sketches wherever required.
+Qi (a) Apply LZW on following data string: ABABBABCABABBA _ (10)
+(b) Explain different Multimedia applications (10)
+Q.2 (a) Explain RIFF file format with various RIFF file types in detail (10)
+(b) Explain vendor-independent Messaging and services in brief (10)
 
-1. Attempt any four questions [12]
+a3 (a) Explain Laser printing technology and also discuss various issues involved in color
+printer technology (10)
+(b) Explain JPEG components & Methodology (10)
+Q4 (a) What is RAID ? Elaborate the levels of RAID (10)
+(b) Design workflow for a document imaging system for hospital management. (10)
+as (a) Discuss the various design issues involved in Distributed application design (10)
+(b) What is multimedia authoring system ? Explain any authoring system (10)
+Q6 (a) Explain virtual reality modeling (10)
+(b) Discuss special metaphors for multimedia applications (10)
+Q7 Write short notes on: (any four) (20)
 
-a) What are the advantages and disadvantages of lossless compression? Describe
-negative compression with an example.
+(a)
+(b)
+(c)
+(d)
+(e)
 
-b) Describe various elements of Multimedia applications
+Business information model for IFC
+Frame based animation
 
-c) Explain the Virtual reality design considerations.
+DNS Fs
 
-d) Explain the distributed client-server operation.
+Design principles of UI
 
-e) Write a note on Hypermedia messaging.
+Audio compression
+````
 
-2. a) Apply LZW compression scheme to the following string:
+## 2014-15 · Re-Exam · Sem 8 · paper bd72438bfe4e
 
-CCCBBBBAAAADDDEECCCBDCBBC [6]
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MULTIMEDIA SYSTEM/MULTIMEDIA SYSTEMS B TECH (COMPUTER), BATCH 2013-14 RE EXAM_bd72438bfe.pdf`
+- Printed on paper: max marks: 100; exam date: 30/06/2015
+- Text: ocr (1 page), mean OCR confidence 92.1
 
-b) Give the need for different data file formats. Compare and Contrast TIFF file format
-and RIFF file format [6]
-3. a) Explain RAID level 0 through 5 and applicability of each. [6]
-b) Discuss JPEG components and methodology [6]
-4. a) Discuss the different types of scanners [6]
-b) Explain Vendor Independent messaging [6]
-5. a) Design the workflow for document imaging management system. [6]
-b) Discuss the various object display and playback issues [6]
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-6. a) Design a multilevel cache management system for a distributed multimedia system that
-consists of a number of different object servers, each dedicated to a specific multimedia
-a] object type such as image, audio and video. Explain your design assumptions. [8]
+Programme: B. Tech (COMP) Year: IV Semester: VIII
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Multimedia Systems ses a
+“< Marks: 100».
+Date: 30/06/2015 Time: 2:00 pm to 5.00 pm
 
-b) Discuss the various principles of animation [4]
+Durations: 3) (hrs)
 
-7, Attempt any 3 [12]
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-a) Fractal compression
+NB:
 
-b) Aural metaphor
+1. Question No. | is compulsory.
 
-¢) Multimedia authoring system
-4) Internet telephony
+2. Attempt any four out of remaining six questions.
 
-7 fr
+3. Assumptions made should be clearly stated.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figure in brackets indicate full marks.
+
+6. Illustrate answer with sketches wherever required.
+Q.1 (a) Explain different multimedia applications with examples? (10)
+(b) Explain moving picture types of MPEG? (10)
+Q.2 (a) Draw and explain video capture board architecture? (10)
+(b) Draw and explain JPEG compression technique? (10)
+Q.3° (a) Write steps for workflow in a complete business process? Give classification. (10)
+(b) Describe information access in detail. (10)
+Q.4 (a) Discuss design steps for multimedia systems. (10)
+(b) Explain UI design steps? : (10)
+Q.5 (a) Describe object display/playback issues in detail. (10)
+(b) Explain the importance of virtual reality design considerations? (10)
+Q.6 (a) Explain MIDI file format with need sketch in detail (10)
+(b) Discuss audio and fractal compression in brief. (10)
+Q.7 Write short note on following (any four).
+a. Image scanners (20)
+b. Video on demand
+c. WWW
+
+d. RTF file format
+
+e. Pen Input
+
+4/4.
 ````
 
 ## 2014-15 · Re-Exam · Sem 8 · paper 9a3ea8f9b83e
@@ -691,73 +893,6 @@ E TWAIN (5)
 es i eae
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper 8e710c27fa02
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MULTIMEDIA SYSTEM/MULTIMEDIA SYSTEMS B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 08/05/2015
-- Text: ocr (1 page), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: IV Semester: VIII
-
-Batch:
-
-2013-14
-Academic Year: 2014-2015
-
-Subject: Multimedia Systems
-Marks: 100
-Date: 08/05/2015 Time: 10.00 am to 1.00 pm
-Durations:
-Re-Examination ¢
-fi:
-Note &
-© Question No.1 is compulsory. a
-e Attempt any four out of remaining six. ’
-e Assumptions made should be clearly stated. Rs “i
-
-e Answer to each new question to be started on fresh page.
-
-e Figures on right side indicate full marks.
-e Illustrate answer with sketches wherever required.
-
-Qi (a) Apply LZW on following data string: ABABBABCABABBA _ (10)
-(b) Explain different Multimedia applications (10)
-Q.2 (a) Explain RIFF file format with various RIFF file types in detail (10)
-(b) Explain vendor-independent Messaging and services in brief (10)
-
-a3 (a) Explain Laser printing technology and also discuss various issues involved in color
-printer technology (10)
-(b) Explain JPEG components & Methodology (10)
-Q4 (a) What is RAID ? Elaborate the levels of RAID (10)
-(b) Design workflow for a document imaging system for hospital management. (10)
-as (a) Discuss the various design issues involved in Distributed application design (10)
-(b) What is multimedia authoring system ? Explain any authoring system (10)
-Q6 (a) Explain virtual reality modeling (10)
-(b) Discuss special metaphors for multimedia applications (10)
-Q7 Write short notes on: (any four) (20)
-
-(a)
-(b)
-(c)
-(d)
-(e)
-
-Business information model for IFC
-Frame based animation
-
-DNS Fs
-
-Design principles of UI
-
-Audio compression
-````
-
 ## 2013-14 · Re-Exam · Sem 8 · paper 1178775eb0c7
 
 - Departments: Computer Engineering
@@ -883,228 +1018,7 @@ KA
 (20)
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper 913b8b6ebe94
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MULTIMEDIA SYSTEM/MULTIMEDIA SYSTEMS B TECH (COMPUTER), BATCH 2013-14 RE EXAM_913b8b6ebe.pdf`
-- Printed on paper: duration hours: 3; exam date: 05 July 2016
-- Text: ocr (1 page), mean OCR confidence 87.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Computer) Year: IV
-Academic Year: 2015-16
-Batch: 2013-14
-
-Subject: Multimedia Systems N J
-
-Time: 10.00 am - 1.00 pm
-
-Date: 05 July 2016 Durations: 3 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of tae Answer Book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Attempt any four out of remaining six questions.
-3. Inall 5 questions to be attempted
-<> 4. All questions carry equal marks.
-5. Answer to each new question to be started on fresh page.
-6. Figures in bracket on the right hand side indicate full marks.
-
-Ql . Solve any Four (20)
-
-A» Draw multimedia workstation architecture and explain each block.
-
-B How MIDI files are different than WAVE files 7
-
-C Can you generate exact matrix, If DCT and Inverse DCT applied in sequence on same
-8 X 8 matrix? Justify.
-
-D ~ What do you understand by Video Metaphor ?
-
-E _ What is significance of DNS ?
-
-Q2 A’ Draw TIFF file structure. (10)
-B__ Explain JPEG block diagram and explain compression scheme. (10)
-
-3. A How Laser Printer Works ? (10)
-
-B Suggest Multimedia Applications in bank for clearing cheques, Strong Room Access. (10)
-
-Q4 A What do you understand by Shared Wokspace & Execution Environment ? (10)
-B_ How does Electronic Pen work ? (10)
-
-Q5 A — Draw typical wokflow for Imaging Application. (10)
-B.. Explain Hierarchical Storage Pyramid. (10)
-
-Q6 A What are types of Multimedia Authoring Systems? Explain each in brief. (10)
-B_ Compare Lossy & Lossless compression, Give examples of each. ; (10)
-
-Q7 Write Short Note (Any TWO ) (20)
-
-pres: A Virtual Reality Applications
-
-B Design steps for Multimedia Systems
-C Computer based Animation
-D_ RAID Levels
-
-e —_ =
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper bd72438bfe4e
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/MULTIMEDIA SYSTEM/MULTIMEDIA SYSTEMS B TECH (COMPUTER), BATCH 2013-14 RE EXAM_bd72438bfe.pdf`
-- Printed on paper: max marks: 100; exam date: 30/06/2015
-- Text: ocr (1 page), mean OCR confidence 92.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: IV Semester: VIII
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Multimedia Systems ses a
-“< Marks: 100».
-Date: 30/06/2015 Time: 2:00 pm to 5.00 pm
-
-Durations: 3) (hrs)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. | is compulsory.
-
-2. Attempt any four out of remaining six questions.
-
-3. Assumptions made should be clearly stated.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figure in brackets indicate full marks.
-
-6. Illustrate answer with sketches wherever required.
-Q.1 (a) Explain different multimedia applications with examples? (10)
-(b) Explain moving picture types of MPEG? (10)
-Q.2 (a) Draw and explain video capture board architecture? (10)
-(b) Draw and explain JPEG compression technique? (10)
-Q.3° (a) Write steps for workflow in a complete business process? Give classification. (10)
-(b) Describe information access in detail. (10)
-Q.4 (a) Discuss design steps for multimedia systems. (10)
-(b) Explain UI design steps? : (10)
-Q.5 (a) Describe object display/playback issues in detail. (10)
-(b) Explain the importance of virtual reality design considerations? (10)
-Q.6 (a) Explain MIDI file format with need sketch in detail (10)
-(b) Discuss audio and fractal compression in brief. (10)
-Q.7 Write short note on following (any four).
-a. Image scanners (20)
-b. Video on demand
-c. WWW
-
-d. RTF file format
-
-e. Pen Input
-
-4/4.
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 6ae6acf77829
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/MULTIMEDIA SYSTEMS/MULTIMEDIA_SYSTEMS_BATCH_2013-14_RE_EXAM0001(1)_.pdf` (+1 identical copies)
-- Printed on paper: max marks: 10; exam date: 05/07/2014
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MCA Year: Il Semester: IV
-Academic Year: 2013-14 &
-
-ff vcrst ae ES
-
-Batch:2013-2014
-
-. RA
-Subject : Multimedia Systems Marks: 10 (LIB RY Jz ;
-Time : 2.00\gi# fe,5.00 DOs ZF /
-Date :05/07/2014 Durations:3 rae
-
-Re-Examination
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-N.B.:
-
-(1) Question No.1 is compulsory.
-
-(2) Out of remaining six questions attempt any four questions.
-
-(3) Assumptions made should be clearly stated.
-
-(4) All questions carry equal marks.
-
-(5) Answer to each new question to be started on fresh page.
-
-(6) Figures on the right hand side indicate full marks
-
--Q1 A) With suitable application and diagram, explain IMA Architecture Framework 10
-and Network architecture for multimedia system.
-
-B) Discuss JPEG compression technique in detail. 10
-Q2 A) WhatisaK factor? What is the purpose of K factor in CCITT group3 2D. 10
-B) _ Give classification of scanners and also enlist features ofa scanner. 10
-
-Q3 A) Discuss various steps and input sources required for creating hypermedia 10
-
-message?
-B) Explain Virtual Reality modelling? 10
-Q4 A) Explain MIDI file format with MIDI communication protocol. 10
-
-B) = Apply Huffman coding on following data string: 10
-AAABBBBCCCDDEEAAAABDCBBC. Also show the encoding decoding
-
-data.
-Q5 <A) Explain RIFF file format with various RIFF file type in brief? 10
-B) _ Explain vendor-independent Messaging and services in brief? 10
-Q6 A) Drawand explain working principle of printer. 10
-
-P
---- page 2 ---
-Q7
-
-B)
-
-What is multimedia authoring system? Explain Telephone Authoring systems.
-
-Write a short note on following (any four).
-(i) User Interface Design
-(ii) Run Length Encoding
-(iii) ATM
-(Gv) Www
-(v) Multimedia System Component
-(vi) | CCD color capture
-
----X x
-
-10
-
-20
-````
-
-## Year not stated · Re-Exam · Sem 7 · paper 811f38dc18b9
+## 2013-14 · Re-Exam · Sem 7 · paper 811f38dc18b9
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
@@ -1198,4 +1112,90 @@ x
 (5)
 (5)
 (5)
+````
+
+## 2013-14 · Re-Exam · Sem 4 · paper 6ae6acf77829
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/MULTIMEDIA SYSTEMS/MULTIMEDIA_SYSTEMS_BATCH_2013-14_RE_EXAM0001(1)_.pdf` (+1 identical copies)
+- Printed on paper: max marks: 10; exam date: 05/07/2014
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MCA Year: Il Semester: IV
+Academic Year: 2013-14 &
+
+ff vcrst ae ES
+
+Batch:2013-2014
+
+. RA
+Subject : Multimedia Systems Marks: 10 (LIB RY Jz ;
+Time : 2.00\gi# fe,5.00 DOs ZF /
+Date :05/07/2014 Durations:3 rae
+
+Re-Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+N.B.:
+
+(1) Question No.1 is compulsory.
+
+(2) Out of remaining six questions attempt any four questions.
+
+(3) Assumptions made should be clearly stated.
+
+(4) All questions carry equal marks.
+
+(5) Answer to each new question to be started on fresh page.
+
+(6) Figures on the right hand side indicate full marks
+
+-Q1 A) With suitable application and diagram, explain IMA Architecture Framework 10
+and Network architecture for multimedia system.
+
+B) Discuss JPEG compression technique in detail. 10
+Q2 A) WhatisaK factor? What is the purpose of K factor in CCITT group3 2D. 10
+B) _ Give classification of scanners and also enlist features ofa scanner. 10
+
+Q3 A) Discuss various steps and input sources required for creating hypermedia 10
+
+message?
+B) Explain Virtual Reality modelling? 10
+Q4 A) Explain MIDI file format with MIDI communication protocol. 10
+
+B) = Apply Huffman coding on following data string: 10
+AAABBBBCCCDDEEAAAABDCBBC. Also show the encoding decoding
+
+data.
+Q5 <A) Explain RIFF file format with various RIFF file type in brief? 10
+B) _ Explain vendor-independent Messaging and services in brief? 10
+Q6 A) Drawand explain working principle of printer. 10
+
+P
+--- page 2 ---
+Q7
+
+B)
+
+What is multimedia authoring system? Explain Telephone Authoring systems.
+
+Write a short note on following (any four).
+(i) User Interface Design
+(ii) Run Length Encoding
+(iii) ATM
+(Gv) Www
+(v) Multimedia System Component
+(vi) | CCD color capture
+
+---X x
+
+10
+
+20
 ````

@@ -1,8 +1,103 @@
 # Fundamentals of Calculus and Vector Algebra: question papers in full
 
-3 unique papers · 2021-22 to 2021-22 · Mechanical
+3 unique papers · 2021-22 to 2022-23 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2022-23 · Exam not stated · Sem 4 · paper e3402a752696
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/FUNDAMENTALS OF CALCULUS AND VECTOR ALGEBRA/Fundamentals of Calculus and Vector Algebra Batch 2021-2022.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 79.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+Program: B Tech Integrated Stream : Computer/ Mechanical
+Subject: Fundamentals of Calculus and Vector Algebra
+Date: 4/4/2 Zz
+Marks: 100
+
+Re-Examination (Batch 2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1. Questions 1 is compulsory.
+2. Solve any four out of remaining five questions
+> 3. In all, 5 questions to be attempted
+4, All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+8. Use of scientific calculator is not allowed. Only basic calculator allowed.
+
+Answer the following: Marks
+
+C01/SO1/BL1 | Q.1a. | Compute the n term 1, for the A.P. 5,8,11,14,...and hence find [4]
+
+24th term.
+C02/SO1/BL1 b. If a= 21-37 +k and b =i+ 27 3k are position vectors of points
+A and B respectively, compute AB,|AB| and a vector of [4]
+LY magnitude 7 along AB.
+C03/SO1/BL1 , a
+/ / . If fsin x dx =1, write the real value of 'a'. [4]
+0
+C04/SO1/BL2 d. State the order and degree of the differential equation:
+sy] [4]
+cos( 2s fe =0.
+dx dx
+CO04/SO2/BL1 e. syttex 7
+1$02/ If u =e Yess) then compute a2 ‘ [4]
+s Oydz
+CO4/SO1/BL3 | Q.2a. | Write the solution of the differential equation: [8]
+
+ydx+(xy+x’)dy=0.
+
+1/2
+--- page 2 ---
+CO1/SO2/BL2 b. Find five numbers in G.P. such that their product is 32 and the [6]
+product of fourth and fifth numbers is 108.
+
+CO3/SO2/BL2 c. Competes { 2x-3 (6
+(x - 5) (x + 4)
+BOSON BL | ee, Find the sum 1x3+5x7+9x11+... up ton terms. [8]
+CO2/SO2/BL3 b. Determine the volume of tetrahedron with vertices [6]
+(0,0,1),(1,1,1),(2,1,1),(1,2,1).
+CO3/SO2/BL2 eC; 1
+Compute: | ———————= dx. 6
+J Vx? -2x+5 (6
+CO3/SO2/BL3 | Q.4a. | Apply integration to find the area of the region bounded by the
+[8]
+curves y? =9x and 9y=x’.
+COE SOL BLS b If xy =log(xy) then prove that a ath, [6]
+x
+CO4/SO1/BL2 c. If u= f(x,y), x=e"+e” , y=e"—e” then prove that
+dz dz dz dz [6]
+S=S 5 ys .
+du dv dx ~ dy
+CO2/SO1/BL3 | Q.5a. | For the vectors 7 =j- 3 —3k,b i 4i-37+ kand =2]-7+2k ,
+J
+oe ey eee [8]
+show that ax(b+e )=axb+axe .
+COS feo BL bn If e* +e” =e" , show that BF a -e™*. [6]
+dx
+CO3/SO1/BL2 c. & (14-x/
+Compute : (lex) : [6]
+3(1-x) +x
+CO2/SO2/BL1| Q.6a. | Determine the area of parallelogram and vector area of parallelogram
+formed by the coterminous vectors a=i- 37 + 3k, b=i+ j ~k. Are [8]
+the vectors a,b collinear ? Hence or otherwise find the value of aeb.
+C04/SO1/BL3 b. Verify Euler’s theorem for f(x, y,z) =3x’yz+Sxy°z+4z". [6]
+CO4/SO1/BL1 c. i
+/ / Write dy f y=sine( 2eoseoeine | [6]
+dx V13
+
+2/2
+````
 
 ## 2021-22 · Exam not stated · Sem 4 · paper 6b82b455db0e
 
@@ -135,101 +230,6 @@ CO4/SO2/BL2 Compute z if w=xy+z,x=cost,y=sint,z=¢ . [6]
 2/2
 ````
 
-## 2021-22 · Exam not stated · Sem 4 · paper e3402a752696
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/FUNDAMENTALS OF CALCULUS AND VECTOR ALGEBRA/Fundamentals of Calculus and Vector Algebra Batch 2021-2022.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 79.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-Program: B Tech Integrated Stream : Computer/ Mechanical
-Subject: Fundamentals of Calculus and Vector Algebra
-Date: 4/4/2 Zz
-Marks: 100
-
-Re-Examination (Batch 2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1. Questions 1 is compulsory.
-2. Solve any four out of remaining five questions
-> 3. In all, 5 questions to be attempted
-4, All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume Suitable data if necessary.
-8. Use of scientific calculator is not allowed. Only basic calculator allowed.
-
-Answer the following: Marks
-
-C01/SO1/BL1 | Q.1a. | Compute the n term 1, for the A.P. 5,8,11,14,...and hence find [4]
-
-24th term.
-C02/SO1/BL1 b. If a= 21-37 +k and b =i+ 27 3k are position vectors of points
-A and B respectively, compute AB,|AB| and a vector of [4]
-LY magnitude 7 along AB.
-C03/SO1/BL1 , a
-/ / . If fsin x dx =1, write the real value of 'a'. [4]
-0
-C04/SO1/BL2 d. State the order and degree of the differential equation:
-sy] [4]
-cos( 2s fe =0.
-dx dx
-CO04/SO2/BL1 e. syttex 7
-1$02/ If u =e Yess) then compute a2 ‘ [4]
-s Oydz
-CO4/SO1/BL3 | Q.2a. | Write the solution of the differential equation: [8]
-
-ydx+(xy+x’)dy=0.
-
-1/2
---- page 2 ---
-CO1/SO2/BL2 b. Find five numbers in G.P. such that their product is 32 and the [6]
-product of fourth and fifth numbers is 108.
-
-CO3/SO2/BL2 c. Competes { 2x-3 (6
-(x - 5) (x + 4)
-BOSON BL | ee, Find the sum 1x3+5x7+9x11+... up ton terms. [8]
-CO2/SO2/BL3 b. Determine the volume of tetrahedron with vertices [6]
-(0,0,1),(1,1,1),(2,1,1),(1,2,1).
-CO3/SO2/BL2 eC; 1
-Compute: | ———————= dx. 6
-J Vx? -2x+5 (6
-CO3/SO2/BL3 | Q.4a. | Apply integration to find the area of the region bounded by the
-[8]
-curves y? =9x and 9y=x’.
-COE SOL BLS b If xy =log(xy) then prove that a ath, [6]
-x
-CO4/SO1/BL2 c. If u= f(x,y), x=e"+e” , y=e"—e” then prove that
-dz dz dz dz [6]
-S=S 5 ys .
-du dv dx ~ dy
-CO2/SO1/BL3 | Q.5a. | For the vectors 7 =j- 3 —3k,b i 4i-37+ kand =2]-7+2k ,
-J
-oe ey eee [8]
-show that ax(b+e )=axb+axe .
-COS feo BL bn If e* +e” =e" , show that BF a -e™*. [6]
-dx
-CO3/SO1/BL2 c. & (14-x/
-Compute : (lex) : [6]
-3(1-x) +x
-CO2/SO2/BL1| Q.6a. | Determine the area of parallelogram and vector area of parallelogram
-formed by the coterminous vectors a=i- 37 + 3k, b=i+ j ~k. Are [8]
-the vectors a,b collinear ? Hence or otherwise find the value of aeb.
-C04/SO1/BL3 b. Verify Euler’s theorem for f(x, y,z) =3x’yz+Sxy°z+4z". [6]
-CO4/SO1/BL1 c. i
-/ / Write dy f y=sine( 2eoseoeine | [6]
-dx V13
-
-2/2
-````
-
 ## 2021-22 · Re-Exam · Sem 4 · paper 4543c675db62
 
 - Departments: Mechanical
@@ -237,6 +237,7 @@ dx V13
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/FUNDAMENTALS OF CALCULUS AND VECTOR ALGEBRA/Fundamentals of Calculus and Vector Algebra Batch 2021-22 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 June 2022
 - Text: ocr (2 pages), mean OCR confidence 77.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS [)   MPsty,   &
@@ -330,7 +331,6 @@ i+ 23 +2k, -i+ak, 2i+ Bi + yk are mutually perpendicular
 CO04/SO1/BL3 | _ b. 3443
 / / If u=cos” iia then show that: gett = git =-cotu , [6]
 x+y ox oy
-COE BEL! & Write “ if y= tan! (cosecx—cotx) , [6]
 
 2/2
 ````

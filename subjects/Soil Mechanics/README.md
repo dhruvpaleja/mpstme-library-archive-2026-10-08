@@ -16,10 +16,10 @@ Also filed as: `SOIL MECHANICES`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Soil Mechanics(702CI0C035)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Civil 7005 | QP_Soil Mechanics(702CI0C035)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Soil Mechanics(702CI0C035)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Soil Mechanics(702CI0C035)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech Civil 7005 | QP_Soil Mechanics(702CI0C035)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Soil Mechanics(702CI0C035)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | Soil Mechanics Sem IV, Year 2024-25 Final Exam & 2022-23 and 2023-24 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | B Tech, Soil Mechanics, Sem-IV, Batch 2022-23, 2023-24, 2024-25, Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / CIVIL, B.TECH INTEGRATED / CIVIL | Soil Mechanics Batch 2023-24 Final Batch 2021-22,2022-23 Re Exam.pdf |

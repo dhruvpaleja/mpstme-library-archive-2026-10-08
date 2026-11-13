@@ -1,6 +1,6 @@
 # Wireless Networking: question papers in full
 
-22 unique papers · 2013-14 to 2019-20 · Information Technology
+23 unique papers · 2013-14 to 2019-20 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -399,6 +399,114 @@ C) Explain basic architecture of UTRAN. [6]
 apa
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper c99872cfb48b
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/WIRELESS NETWORKING/wireless networking Re-exam 17-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 January 2019
+- Text: ocr (2 pages), mean OCR confidence 86.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (IT) Year: Il] ° Semester : V
+Academic Year: 2018-2019
+
+Subject: Wireless Networking Marks: 70
+
+‘Time: 2.00 pm to 5.00 pm
+Date: 19 January 2019
+Durations: 3 (hrs)
+No. of Pages: 2.
+
+Re-examination (2017-18 / 2018-19) _
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql A a) Write the function of MAC layer in wireless LAN. {1]
+b) Draw the system architecture of Wireless LAN. [3]
+c) Write the full form of following related to GSM: - [3]
+1) SIM 2) IMSI 3)MSRN
+B a) What are general problems of mobile IP regarding security and support
+quality of service? . [2]
+
+b) In what situations can collisions occur in all three networks? Distinguish between
+collisions on PHY and MAC layer. How do the three wireless networks try to
+
+solve the collisions or minimize the probability of collisions? [5]
+Q2 A Compare GEOs, LEOs & MEOs. [7]
+B Discuss the design goals of wireless LAN. [7]
+Q3 =A Explain Calling and Localization in GSM. [7]
+B Draw DECT architecture and explain in detail. [7]
+
+Page 1 of 2
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+A
+
+Compare a) Infrared v/s Radio Transmission __ b) Infrastructure v/s Ad hoc network
+
+Draw and Explain the GSM protocol stack.
+
+Explain the working of Bluetooth along with the state diagram.
+
+Evaluate implicit and explicit reservation techniques.
+
+Explain DSR protocol.
+
+Explain the issues in wireless ad hoc network.
+
+Write about
+
+Indirect TCP ;
+
+Applications of Ad Hoc Network.
+Direct Sequence Spread Spectrum.
+
+Destination Sequenced Distance Vector,
+
+3 fe 2 2 ae fe fe 2 2s aie 2 ie oie 2
+
+[7]
+7]
+
+(7]
+[7]
+
+[7]
+[7]
+
+[3.5]
+[3.5]
+[3.5]
+[3.5]
+
+Page 2 of 2
+````
+
 ## 2017-18 · Exam not stated · Sem 5 · paper accb93ed217b
 
 - Departments: Information Technology
@@ -598,6 +706,81 @@ es
 2/2
 ````
 
+## 2017-18 · Final-Exam · Sem 5 · paper b6d90649a608
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/WIRELESS COMMUNICATION/WIRELESS NETWORKING 2017-2018 Final.pdf`
+- Printed on paper: exam date: 29 November 2017
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+r,
+Programme: MBA Tech (IT)   Year: III   Semester: V   \
+/
+Academic Year: 2017-2018
+Subject:' Wireless Networkirig >"
+Date: 29 November 2017 »:
+Instructions:   Candidates should read carefully the instructions   printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+I) Question No. I is compulsory.
+2) Out of remaining   questions,   attempt any 4 questions.
+3) In all 5 questions   to be attempted.
+4) All questions   carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate   full marks.
+7) Assume suitable   data if/necessary.
+Q.l) Fill in the blanks   [14]
+1.   Co-Iocated   addresses   is provided by __   server in Mobile IP.
+2. The main difference between WPA and \ypA2   is that WPA uses TKIP and WPA2 uses   for
+encryption.
+3.   Data transmission   at physical   layer in GSM typically uses   systems.
+4.   In WEP the stream cipher __   is for confidentiality   and CRC-32 checksum   is for integrity.
+S. Equipment   Identity Register   is the database for all __   in GSM.
+-
+• 6. ___   is adopted to increase the system capacity and reduce eo-channel   interference   .
+7. The main advantage   of on demand protocols   is   as long as there is less traffic and low
+mobility.
+--- page 2 ---
+8. The cells having the same number in the adjacent cluster using the same set ofRF channels are
+termed as   cells.
+9. The strategies used to avoid count to infinity problem in fixed networks (poisoned reverse/split
+horizon) do not help in case of ad hoc networks due to rapidly changing   _
+10. The __   type of Access technology enhances the battery life.
+11. In a signal if the same signal pattern does not repeat itself over a time period it is known as _ signal.
+12. A __   comprises a contention free period and a contention period in DFWMAC-PCF with polling.
+13. _   routing protocols comprise those protocols that do not set up hierarchies with clusters of nodes,
+special nodes acting as the head of a cluster, or different routing algorithms inside or outside certain
+regions.
+14.   is used to calculate the non-silence period in GSM.
+Q.2)
+a) Discuss the security mechanisms used in GSM.   [08]
+b) Draw and explain the 802.11 protocol architecture along with functions of each layer.   [06]
+_.. Q.3)
+a) Explain the agent discovery and registration process in Mobile IP.   [08]
+b) Discuss the Fish Eye State Routing protocol? Also highlight its advantage and disadvantage.   [06]
+QA)
+a) Explain any 4 power aware routing protocols.   [08]
+b) Illustrate the need for security in wireless citing suitable examples.   [06]
+Q.S)   /
+a) Describe the following with respect to Bluetooth   [08]
+i.   Piconet and Scatternet
+I!.   L2CAP
+111.   Access Codes
+IV.   Packet Types
+b) Eval uate implicit reservation multiple access technique. How is it improved?   [06]
+Q.6)
+a) What is Spread Spectrum? Explain FHSS and DSSS techniques using labelled diagrams.   [08]
+b) Draw and explain the GSM protocol stack.   [06]
+Q.7) Write Notes on
+i.   Antennas   [04]
+ii.   Issues of Ad Hoc Routing Protocols   [04]
+Ill.   WEP   [03]
+IV.   Polling in MAC   [03]
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper 7a14c9202f8f
 
 - Departments: Information Technology
@@ -701,6 +884,7 @@ b. Compare infra red and radio transmission.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/WIRELESS NETWORKING/WIRELESS_NETWORKING_BATCH_14-15_16-17_RE_EXAM_2017-18_.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 07 May 2018
 - Text: ocr (1 page), mean OCR confidence 84.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -748,7 +932,6 @@ B) Describe Routing in Ad hoc Network. (06)
 Q7 <A) Describe contemporary issues related to wireless network in brief. (06)
 B) Explain Wired Equivalent Privacy (WEP) Protocol. (06)
 
-ok 2 oe oe a a aK oo oo aK oR RR A ERA KE RAK A
 
 tf
 ````
@@ -945,6 +1128,93 @@ xii Queensland DoS 1 Installing an unsecured AP inside firewall, creating open b
 trusted network.
 
 a
+````
+
+## 2015-16 · Final-Exam · Sem 6 · paper 3ec2eeb76875
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/WIRELESS NETWORKING/WIRELESS_NETWORKING_B_TECH_(IT)__BATCH_14-15_FINAL_EXAM.pdf`
+- Printed on paper: exam date: 07/05/2016
+- Text: ocr (2 pages), mean OCR confidence 82.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (IT) Year: III Semester: VI
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Wireless Networking
+
+Date: 07/05/2016
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+aims
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+I(a) How spread Spectrum is used in wireless technology? Explain Frequency hopping
+spread spectrum technique in brief. [6]
+(b) Draw GSM functional architecture. Explain [6]
+i) How MS, BTS, BSC, MSC interact each other using Um, A, Abis interfaces?
+ii) How HCR, VCR, EIR used in the architecture?
+ili) What role these components MSC, IWF, ISDN, PSTN, PSPDN, CSPDN play in
+architecture?
+2(a) For TCP write any TWO of it [6]
+i) Snooping TCP il) Fast retransmit/Fast Recovery
+iii) Transmission/ Time-out Freezing iv) Selective Retransmission
+(b) Explain issues in Ad-hoc wireless network and explain dynamic source routing [6]
+—
+3(a) | Describe TETRA architecture. [6]
+pe: (b) Explain Bluetooth Core, Cable replacement, telephony control and Adopted protocols
+Architecture. [6]
+
+Vo
+--- page 2 ---
+a
+
+Fy
+
+o {
+*
+
+*
+
+Atay” ‘Desciibe CSMA/CA for access mechanism of IEEE 802.11. [6]
+
+(b) | Compare S£{T/F/CDMA [6]
+* Do Z ae
+. Stak.) - Why. hand off mechanism is needed in GSM? Explain various reasons and type of handoffs used
+We. the a
+in GSM operations.. - 4 [6]
+(b)   Explain-tuning;-encapsulation and reverse tunneling. \~ Mobile F P [6]
+nneli ras
+ra
+6(a) | Describe DECT with its architecture. [6]
+(b) Explain MAC frame format [6]
+7) Write short note on following with Examples (Any TWO) [6*2]
+1) Power — aware routing protocol
+Il) Piconet and Scatternet
+008) DAMA
+
+02/2
+
+=
 ````
 
 ## 2015-16 · Final-Exam · Sem 6 · paper ee140955ac6d
@@ -1348,28 +1618,29 @@ x
 2)
 ````
 
-## 2014-15 · Final-Exam · Sem 6 · paper 3ec2eeb76875
+## 2014-15 · Final-Exam · Sem 6 · paper 4bbdd82e220a
 
 - Departments: Information Technology
 - Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/WIRELESS NETWORKING/WIRELESS_NETWORKING_B_TECH_(IT)__BATCH_14-15_FINAL_EXAM.pdf`
-- Printed on paper: exam date: 07/05/2016
-- Text: ocr (2 pages), mean OCR confidence 82.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/WIRELESS NETWORKING/WIRELESS_NETWORKING_B_TECH_(IT),_FINAL_EXAM.pdf`
+- Printed on paper: exam date: 09/05/2015
+- Text: ocr (2 pages), mean OCR confidence 87.5
 
 ````text
+r
+
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (IT) Year: III Semester: VI
-Academic Year: 2015-16
+Programme: B. Tech (I.T.) Year: III Semester: VI
+Academic Year: 2014-2015 Y
+Subject: Wireless Networking ie
+Marks
 
-Batch: 2014-15
+Date: 09/05/2015 Time : \
+Durations
 
-Subject: Wireless Networking
-
-Date: 07/05/2016
-
-Re-Examination
+Final-Examination
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
@@ -1379,60 +1650,63 @@ NB:
 1) Question No. 1 is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
+
 3) In all 5 questions to be attempted.
 
-aims
 4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary
-I(a) How spread Spectrum is used in wireless technology? Explain Frequency hopping
-spread spectrum technique in brief. [6]
-(b) Draw GSM functional architecture. Explain [6]
-i) How MS, BTS, BSC, MSC interact each other using Um, A, Abis interfaces?
-ii) How HCR, VCR, EIR used in the architecture?
-ili) What role these components MSC, IWF, ISDN, PSTN, PSPDN, CSPDN play in
-architecture?
-2(a) For TCP write any TWO of it [6]
-i) Snooping TCP il) Fast retransmit/Fast Recovery
-iii) Transmission/ Time-out Freezing iv) Selective Retransmission
-(b) Explain issues in Ad-hoc wireless network and explain dynamic source routing [6]
-—
-3(a) | Describe TETRA architecture. [6]
-pe: (b) Explain Bluetooth Core, Cable replacement, telephony control and Adopted protocols
-Architecture. [6]
 
-Vo
+I(a) Describe authentication for GSM [4]
+(b) Explain FHSS spread spectrum technology [4]
+(c) Describe Mobile IP [4]
+
+2(a) Describe collision avoidance, MACA (6]
+(b) — Explain localization and handover in GSM [6]
+
+3(a) Describe UMTS architecture. [6]
+(b) | Compare infrared versus Radio Transmission [6]
+
+4(a) Describe backoff for access mechanism of IEEE 802.11. (6]
+(b) Explain Bluetooth security components and protocols. [6]
+
+5(a) Describe DECT with its architecture. [6]
+(b) — Explain-taniag. encapsulation and reverse tunneling. (6]
+
+THunnelirey
+
+o/s
+7%
 --- page 2 ---
-a
+6(a)
 
-Fy
+(b)
 
-o {
-*
+_For TCP write any ONE of it
+i) Snooping TCP ii) Fast retransmit/Fast Recovery.
+iii) Transmission/ Time-out Freezing iv) Selective Retransmission
 
-*
+Explain issues in Ad-hoc wireless network and explain dynamic source routing
 
-Atay” ‘Desciibe CSMA/CA for access mechanism of IEEE 802.11. [6]
+Write short note on following with Examples (Any Three)
 
-(b) | Compare S£{T/F/CDMA [6]
-* Do Z ae
-. Stak.) - Why. hand off mechanism is needed in GSM? Explain various reasons and type of handoffs used
-We. the a
-in GSM operations.. - 4 [6]
-(b)   Explain-tuning;-encapsulation and reverse tunneling. \~ Mobile F P [6]
-nneli ras
-ra
-6(a) | Describe DECT with its architecture. [6]
-(b) Explain MAC frame format [6]
-7) Write short note on following with Examples (Any TWO) [6*2]
-1) Power — aware routing protocol
+a8) Power — aware routing protocol
 Il) Piconet and Scatternet
-008) DAMA
+I) DAMA
 
-02/2
+IV) Explain MAC frame format
 
-=
+a/>
+
+[6]
+
+[6]
+
+[4*3]
+
+r
 ````
 
 ## 2014-15 · Final-Exam · Sem 5 · paper 5289b9b802f5
@@ -1514,6 +1788,75 @@ d. Architecture of Bluetooth system.
 ~ >
 
 vA
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper 90a9d47483c3
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/WIRELESS NETWORKING/WIRELESS NETWORKING B TECH (IT), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: exam date: 06/12/2014
+- Text: ocr (1 page), mean OCR confidence 91.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T.) Year: III Semester: V.
+
+Batch: 2013-2014
+Academic Year: 2014-2015
+Subject: Wireless Networking 7
+Marks: OTIBRARY s
+Date: 06/12/2014 Time: | pm to 5.00 pet
+Durations:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instruction printed on the question paper and on the cover of the
+Answer Book, Which is provided for their use.
+
+NB:
+
+1. Question 1 is Compulsory to Attempt.
+
+2. Out ofremaining Questions i.e from Question no 2 to 7 attempt any four.
+
+3. In total you have to attempt five questions.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate Full marks.
+
+Q.1 (a) Describe Triangular Routing problem also give its solution. (10)
+(b) Describe effect of mobility & portability on wireless system. ; (5)
+(c) Compare infrastructure and AD hoc Network. (5)
+
+Q.2 (a) Explain requirement of satellite communication with its types. ; (10)
+(b) Describe GSM Mobile services with its system architecture. (10)
+
+. od
+
+Q.3 (a) Describe DECT with its System architecture. (10)
+(b) Explain Security Issues in Wireless Systems and Weaknesses in the WEP Scheme. (10)
+
+Q4 (a) Explain IEEE 802.11 with its System architecture. (10)
+(b) Describe Bluetooth Protocol stack. (10)
+
+Q.5 (a) Describe Media access mechanism in wireless LAN. (10)
+(b) Explain Mobile IP, goals assumption and requirement. (10)
+
+Q.6 (a) Describe Traditional TCP with Congestion control, slow start and fast (10)
+Retransmit. °
+
+(b) Explain Issues in designing ad hoc network also explain destination Sequence (10)
+distance vector.
+
+Q.7_ Write Short Note on following with Examples (Any four):- (20)
+1) PRMA. 2) Cellular System . 3) Hierarchical state routing protocol
+4) Capacity Allocation for satellite communication 5) DHCP 6) IPv6
+
+XX
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper 699a68c54147
@@ -1714,75 +2057,6 @@ vi) DHCP
 (20)
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper 90a9d47483c3
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/WIRELESS NETWORKING/WIRELESS NETWORKING B TECH (IT), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: exam date: 06/12/2014
-- Text: ocr (1 page), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: III Semester: V.
-
-Batch: 2013-2014
-Academic Year: 2014-2015
-Subject: Wireless Networking 7
-Marks: OTIBRARY s
-Date: 06/12/2014 Time: | pm to 5.00 pet
-Durations:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instruction printed on the question paper and on the cover of the
-Answer Book, Which is provided for their use.
-
-NB:
-
-1. Question 1 is Compulsory to Attempt.
-
-2. Out ofremaining Questions i.e from Question no 2 to 7 attempt any four.
-
-3. In total you have to attempt five questions.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate Full marks.
-
-Q.1 (a) Describe Triangular Routing problem also give its solution. (10)
-(b) Describe effect of mobility & portability on wireless system. ; (5)
-(c) Compare infrastructure and AD hoc Network. (5)
-
-Q.2 (a) Explain requirement of satellite communication with its types. ; (10)
-(b) Describe GSM Mobile services with its system architecture. (10)
-
-. od
-
-Q.3 (a) Describe DECT with its System architecture. (10)
-(b) Explain Security Issues in Wireless Systems and Weaknesses in the WEP Scheme. (10)
-
-Q4 (a) Explain IEEE 802.11 with its System architecture. (10)
-(b) Describe Bluetooth Protocol stack. (10)
-
-Q.5 (a) Describe Media access mechanism in wireless LAN. (10)
-(b) Explain Mobile IP, goals assumption and requirement. (10)
-
-Q.6 (a) Describe Traditional TCP with Congestion control, slow start and fast (10)
-Retransmit. °
-
-(b) Explain Issues in designing ad hoc network also explain destination Sequence (10)
-distance vector.
-
-Q.7_ Write Short Note on following with Examples (Any four):- (20)
-1) PRMA. 2) Cellular System . 3) Hierarchical state routing protocol
-4) Capacity Allocation for satellite communication 5) DHCP 6) IPv6
-
-XX
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper a48c36f13c9e
 
 - Departments: Information Technology
@@ -1888,203 +2162,4 @@ vi) Attacks in Wireless Network
 Kk x
 
 2)2-
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper 4bbdd82e220a
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/WIRELESS NETWORKING/WIRELESS_NETWORKING_B_TECH_(IT),_FINAL_EXAM.pdf`
-- Printed on paper: exam date: 09/05/2015
-- Text: ocr (2 pages), mean OCR confidence 87.5
-
-````text
-r
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: III Semester: VI
-Academic Year: 2014-2015 Y
-Subject: Wireless Networking ie
-Marks
-
-Date: 09/05/2015 Time : \
-Durations
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-I(a) Describe authentication for GSM [4]
-(b) Explain FHSS spread spectrum technology [4]
-(c) Describe Mobile IP [4]
-
-2(a) Describe collision avoidance, MACA (6]
-(b) — Explain localization and handover in GSM [6]
-
-3(a) Describe UMTS architecture. [6]
-(b) | Compare infrared versus Radio Transmission [6]
-
-4(a) Describe backoff for access mechanism of IEEE 802.11. (6]
-(b) Explain Bluetooth security components and protocols. [6]
-
-5(a) Describe DECT with its architecture. [6]
-(b) — Explain-taniag. encapsulation and reverse tunneling. (6]
-
-THunnelirey
-
-o/s
-7%
---- page 2 ---
-6(a)
-
-(b)
-
-_For TCP write any ONE of it
-i) Snooping TCP ii) Fast retransmit/Fast Recovery.
-iii) Transmission/ Time-out Freezing iv) Selective Retransmission
-
-Explain issues in Ad-hoc wireless network and explain dynamic source routing
-
-Write short note on following with Examples (Any Three)
-
-a8) Power — aware routing protocol
-Il) Piconet and Scatternet
-I) DAMA
-
-IV) Explain MAC frame format
-
-a/>
-
-[6]
-
-[6]
-
-[4*3]
-
-r
-````
-
-## Year not stated · Re-Exam · Sem 5 · paper c99872cfb48b
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/WIRELESS NETWORKING/wireless networking Re-exam 17-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 January 2019
-- Text: ocr (2 pages), mean OCR confidence 86.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (IT) Year: Il] ° Semester : V
-Academic Year: 2018-2019
-
-Subject: Wireless Networking Marks: 70
-
-‘Time: 2.00 pm to 5.00 pm
-Date: 19 January 2019
-Durations: 3 (hrs)
-No. of Pages: 2.
-
-Re-examination (2017-18 / 2018-19) _
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql A a) Write the function of MAC layer in wireless LAN. {1]
-b) Draw the system architecture of Wireless LAN. [3]
-c) Write the full form of following related to GSM: - [3]
-1) SIM 2) IMSI 3)MSRN
-B a) What are general problems of mobile IP regarding security and support
-quality of service? . [2]
-
-b) In what situations can collisions occur in all three networks? Distinguish between
-collisions on PHY and MAC layer. How do the three wireless networks try to
-
-solve the collisions or minimize the probability of collisions? [5]
-Q2 A Compare GEOs, LEOs & MEOs. [7]
-B Discuss the design goals of wireless LAN. [7]
-Q3 =A Explain Calling and Localization in GSM. [7]
-B Draw DECT architecture and explain in detail. [7]
-
-Page 1 of 2
---- page 2 ---
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-A
-
-Compare a) Infrared v/s Radio Transmission __ b) Infrastructure v/s Ad hoc network
-
-Draw and Explain the GSM protocol stack.
-
-Explain the working of Bluetooth along with the state diagram.
-
-Evaluate implicit and explicit reservation techniques.
-
-Explain DSR protocol.
-
-Explain the issues in wireless ad hoc network.
-
-Write about
-
-Indirect TCP ;
-
-Applications of Ad Hoc Network.
-Direct Sequence Spread Spectrum.
-
-Destination Sequenced Distance Vector,
-
-3 fe 2 2 ae fe fe 2 2s aie 2 ie oie 2
-
-[7]
-7]
-
-(7]
-[7]
-
-[7]
-[7]
-
-[3.5]
-[3.5]
-[3.5]
-[3.5]
-
-Page 2 of 2
 ````

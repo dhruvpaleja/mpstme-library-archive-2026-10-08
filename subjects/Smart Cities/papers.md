@@ -2777,6 +2777,7 @@ iv) What barriers do governments face in financing smart city projects?
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/SMART CITIES/Smart Cities , Final 2023-2024.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04/ 12/2023
 - Text: ocr (2 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2840,7 +2841,6 @@ suitable examples.
 10)
 
 oe 50-7; Al A smart city project is being implemented on green field basis near your city..
-BL-4 cece wewncenwe cum ween el
 i) How do you propose to provide smart parking facility for the same city ?
 ii) Discuss the smart security systems you will propose for the above smart city.
 Q3 B| Explain in details the role of analytics in transportation system in Smart cities. [10]

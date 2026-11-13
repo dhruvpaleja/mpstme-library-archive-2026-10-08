@@ -145,6 +145,7 @@ E RMON
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM III/Telecom Network Management/M Tech EXTC TRIM III Telecom Network Management 2006-2007.zip`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07.05.07
 - Text: ocr (2 pages), mean OCR confidence 86.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 er 2 A IIS
@@ -213,7 +214,6 @@ equilibrium state. Define mean packet delay, arrival rate and departure rate.
 2. Given network with line capacity in KBPS, traffic in packets/seconds and routing
 matrix. Calculate the mean queueing delay and mean number of hops.
 
-A B C D E F
 A B(9) | ABC (4) | ABFD (1) | AE(7)_| AEF (4)
 
 BA (9) BC (8) | BFD(3) | BFE(2) | BF(4)

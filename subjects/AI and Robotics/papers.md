@@ -512,6 +512,7 @@ BL-l
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/AI AND ROBOTICS/AI and Robotics, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 November 2022
 - Text: ocr (3 pages), mean OCR confidence 85.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 x SVKM’s NMIMS
@@ -640,7 +641,6 @@ CO-2 ; SO- 2; e.
 Challenges with neural network
 BL-2
 °
-ere fpertitecerte eet Series een inners
 ````
 
 ## 2022-23 · Re-Exam · Sem 5 · paper 2f37f1f37a86

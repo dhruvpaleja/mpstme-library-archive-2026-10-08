@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_AI_7012/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (11 pages), mean OCR confidence 34.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1023,6 +1024,7 @@ Solution: 1 Marks
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Computer_7002/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (12 pages), mean OCR confidence 33.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1591,6 +1593,7 @@ Application 2 — Autonomous Vehicles (example + advantage). (2 marks)
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_EXTC_7006/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (12 pages), mean OCR confidence 33.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2159,6 +2162,7 @@ Application 2 — Autonomous Vehicles (example + advantage). (2 marks)
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_EXTC_7006/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026_79487bab27.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (12 pages), mean OCR confidence 33.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2727,6 +2731,7 @@ Application 2 — Autonomous Vehicles (example + advantage). (2 marks)
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (12 pages), mean OCR confidence 33.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3288,6 +3293,208 @@ Application 2 — Autonomous Vehicles (example + advantage). (2 marks)
 ********** 12 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 8 · Answer key · paper 23dcb14db1c7
+
+- Departments: Computer Science and Business Systems
+- Programmes: BTech CSBS 7036
+- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/BTech_CSBS_7036/Deep Learning/ANS_Deep Learning(702AI0C008)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
+- Text: mixed (8 pages), mean OCR confidence 81.0
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS
+SYSTEMS)
+Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Deep Learning
+Date: 11 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 8 pages.
+2. Question No. 1 is compulsory
+3. Out of the remianing questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume suitable data if necessary.
+Q1
+Answer briefly:   [20]
+a.   Discuss CNN based two convolution.
+CO-3
+[5]
+BL-1,2
+b.
+What will the convolution operation's output be over the following feature map?
+Where the following kernel is applied with a stride of 2.
+Input Feature map   Kernel
+1 2 3
+3   5   8   2   3
+CO-3   3 2   3   2   5   4 5 6
+[5]
+BL-2,4
+1 2 3
+1   2   3   8   3
+6   4   5   1   4
+3   4   7   4
+3
+CO-4   c.   What are the computational challenges of BPTT? Suggest optimization   [5]
+BL-3   techniques to improve efficiency
+********** 1 **********
+--- page 2 ---
+CO-2   d.
+In autonomous driving systems, deep learning models sometimes fail in unusual
+BL-3
+conditions. Explain two limitations responsible for this issue.
+[5]
+a.   [10]
+Compare RNN, LSTM, and GRU based on:
+1) Architecture
+Q2   2) Computational complexity
+CO-   3) Ability to capture long-term dependencies
+b
+4,BL-4   4) Training efficiency
+Self Explanatory
+CO-3,
+BL-3   Design an LSTM-based model for:
+1) Time-series prediction
+2) Explain input representation, architecture, and training process.
+********** 2 **********
+--- page 3 ---
+[5+5]
+Explain the architecture of Gated Recurrent Unit (GRU) networks using a
+a.   diagram. Then, use formulas to discuss the critical components of a GRU unit
+(All gates).
+Self explanatory
+Write and explain the algorithm for ADAM and SGD with Nesterov momentum.
+b.
+Q3
+[10]
+CO-4
+BL-4
+CO-2
+[10]
+BL-2
+Q4.   a.   Consider the neural network as shown in the figure.   [10]
+The inputs x1, x2, and the initial weights and two biases are given. The actual
+CO-2   output is [0.9, 0.1] for the two output neurons. The activation used is sigmoid.
+BL-3   {w3 is between x1-h2, w6 is between h1-o2}, Learning rate is 0.55.
+Calculate the following: (4 significants)
+1. Predicted output after forward propagation.
+2. Mean square error after the first forward pass
+3. Calculate the updated weights w4 and w8 after the first iteration of
+backpropagation.
+********** 3 **********
+--- page 4 ---
+CO-2
+BL-3
+[10]
+b.
+Self explanatory
+A fully connected Neural Network with 8 layers is being trained using the sigmoid
+activation function.
+i   What is the activation output f / (12.9)?
+ii   What is the first derivative of the gradient f (x) at x=8?
+iii   Explain how this affects backpropagation in deeper layers.
+iv   Solve the SoftMax values for y = [3.5, 5.8, 4.4]
+Selfexplanatory
+[10]
+a.
+Discuss common problems in Gradient Descent:
+1. Local minima
+2. Saddle points
+3. Vanishing gradients
+Q5
+CO-3
+BL-1,2
+CO-4
+BL-2
+********** 4 **********
+--- page 5 ---
+b.
+[10]
+Explain the application of deep learning in speech recognition systems:
+1. Feature extraction
+2. Model architecture
+3. Training challenges
+********** 5 **********
+--- page 6 ---
+Q6   a.   You are training a deep learning model on limited GPU memory.
+CO-4   How would you choose the batch size? Justify your answer.
+BL-4
+CO-3
+BL-   [10]
+2,1,5
+[10]
+Explain the architecture of the Inception Model and why you use 1x1
+convolution in it?
+Self explanatory
+Design an AlexNet-inspired architecture for a new image classification task.
+b.   Specify how you would adapt the architecture to work with a dataset that
+contains smaller images (e.g., 64 × 64 64×64 pixels) and fewer classes than
+ImageNet. What modifications would you make to the original AlexNet
+architecture to suit this task.
+Modified AlexNet-Inspired Architecture for 64×64 Images:
+•   Input Layer: 64×64×3
+•   Conv1: 5×5 kernel, 32 filters, stride 1, padding 2 → Max Pooling (2×2,
+stride 2) → Output size: 32×32×32
+********** 6 **********
+--- page 7 ---
+•   Conv2: 3×3 kernel, 64 filters, stride 1, padding 1 → Max Pooling (2×2,
+stride 2) → Output size: 16×16×64
+•   Conv3: 3×3 kernel, 128 filters, stride 1, padding 1 → Output size:
+16×16×128
+•   Conv4: 3×3 kernel, 128 filters, stride 1, padding 1 → Output size:
+8×8×128
+•   Conv5: 3×3 kernel, 256 filters, stride 1, padding 1 → Max Pooling (2×2,
+stride 2) → Output size: 4×4×256
+•   Flatten: Flatten the output to 4096 features.
+•   FC1: Fully connected, 512 neurons → ReLU
+•   FC2: Fully connected, 256 neurons → ReLU
+•   Output Layer (FC3): Fully connected, number of neurons = number of
+classes (e.g., 10 for 10 classes) → Softmax activation.
+Self explanatory
+a.   [5+5]
+1) Interpret the trade-off between bias and variance over deep learning models
+by taking relevant examples.
+2) Implement EXNOR gates using perceptron models.
+b.   Self explanatory
+Explain how the learning rate affects:
+1. Speed of convergence
+2.   Stability of training
+3. Risk of divergence
+Q7.
+CO-3
+BL-2
+CO-3
+BL-4
+********** 7 **********
+--- page 8 ---
+¢ 3. Risk of Divergence [545]
+
+Very High Learning Rate
+© Steps are too large
+¢ Loss may increase instead of decrease
+
+1) Consider a feature map as shown below[
+
+l 2 |3 {4
+5. 16 |7 [8
+2. |4 l 3
+9 |7 |5 |6
+
+i. Perform 2x2 max pooling with a stride of 2 on this feature map
+ii, Perform 2x2 average pooling with a stride of 1 (no padding)
+iii. | Mention the significance of pooling in CNN architecture
+
+Self Explanatory
+
+FIC QF EH 1
+````
+
 ## 2025-26 · Re-Exam · Sem 5 · Answer key · paper 7f70bf2b3c31
 
 - Departments: Artificial Intelligence
@@ -3295,6 +3502,8 @@ Application 2 — Autonomous Vehicles (example + advantage). (2 marks)
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_AI_7012/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (15 pages), mean OCR confidence 29.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3532,11 +3741,9 @@ DO o- eae
 =0-062 5
 - abt . ore -() (0-04) oe
 wy = Pana ies
-ste _ 2EE yD pokey x Dubey anit oy
 BEE = Faro, ame, Pe
 
 acre) (esky i-ested CH)
-peer tomy Corey(etey(e Lest tf
 
 2K
 FIR Fok aC i Gk
@@ -3925,6 +4132,8 @@ A suitable example using any pretrained VGG16, ResNet50, InceptionV3
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/MBATech_AI_7051/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (15 pages), mean OCR confidence 29.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4162,11 +4371,9 @@ DO o- eae
 =0-062 5
 - abt . ore -() (0-04) oe
 wy = Pana ies
-ste _ 2EE yD pokey x Dubey anit oy
 BEE = Faro, ame, Pe
 
 acre) (esky i-ested CH)
-peer tomy Corey(etey(e Lest tf
 
 2K
 FIR Fok aC i Gk
@@ -4555,6 +4762,7 @@ A suitable example using any pretrained VGG16, ResNet50, InceptionV3
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_AIDS_7056/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: mixed (12 pages), mean OCR confidence 38.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5048,6 +5256,8 @@ Rubrics:
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_CSE_DS_7011/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (15 pages), mean OCR confidence 29.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5285,11 +5495,9 @@ DO o- eae
 =0-062 5
 - abt . ore -() (0-04) oe
 wy = Pana ies
-ste _ 2EE yD pokey x Dubey anit oy
 BEE = Faro, ame, Pe
 
 acre) (esky i-ested CH)
-peer tomy Corey(etey(e Lest tf
 
 2K
 FIR Fok aC i Gk
@@ -5678,6 +5886,8 @@ A suitable example using any pretrained VGG16, ResNet50, InceptionV3
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_Computer_7002/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (15 pages), mean OCR confidence 29.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5883,7 +6093,6 @@ la he Tae
 [ct]
 [ct]
 
-O1 a we ae 16 or: wd
 is . Dale a pean (o
 e
 te: see a) (9. | ie
@@ -6315,6 +6524,8 @@ A suitable example using any pretrained VGG16, ResNet50, InceptionV3
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/MBATech_Computer_7047/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (15 pages), mean OCR confidence 29.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6552,11 +6763,9 @@ DO o- eae
 =0-062 5
 - abt . ore -() (0-04) oe
 wy = Pana ies
-ste _ 2EE yD pokey x Dubey anit oy
 BEE = Faro, ame, Pe
 
 acre) (esky i-ested CH)
-peer tomy Corey(etey(e Lest tf
 
 2K
 FIR Fok aC i Gk
@@ -6945,6 +7154,8 @@ A suitable example using any pretrained VGG16, ResNet50, InceptionV3
 - Source: `02_Question_Papers/2025/Sem_11/Re-Exam/Integrated_Computer_7032/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (15 pages), mean OCR confidence 29.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7182,11 +7393,9 @@ DO o- eae
 =0-062 5
 - abt . ore -() (0-04) oe
 wy = Pana ies
-ste _ 2EE yD pokey x Dubey anit oy
 BEE = Faro, ame, Pe
 
 acre) (esky i-ested CH)
-peer tomy Corey(etey(e Lest tf
 
 2K
 FIR Fok aC i Gk
@@ -7566,206 +7775,4 @@ a small learning rate.
 Example (3 Marks):
 A suitable example using any pretrained VGG16, ResNet50, InceptionV3
 ********** 15 **********
-````
-
-## 2024-25 · Re-Exam · Sem 8 · Answer key · paper 23dcb14db1c7
-
-- Departments: Computer Science and Business Systems
-- Programmes: BTech CSBS 7036
-- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/BTech_CSBS_7036/Deep Learning/ANS_Deep Learning(702AI0C008)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
-- Text: mixed (8 pages), mean OCR confidence 81.0
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS
-SYSTEMS)
-Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
-Subject: Deep Learning
-Date: 11 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 8 pages.
-2. Question No. 1 is compulsory
-3. Out of the remianing questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume suitable data if necessary.
-Q1
-Answer briefly:   [20]
-a.   Discuss CNN based two convolution.
-CO-3
-[5]
-BL-1,2
-b.
-What will the convolution operation's output be over the following feature map?
-Where the following kernel is applied with a stride of 2.
-Input Feature map   Kernel
-1 2 3
-3   5   8   2   3
-CO-3   3 2   3   2   5   4 5 6
-[5]
-BL-2,4
-1 2 3
-1   2   3   8   3
-6   4   5   1   4
-3   4   7   4
-3
-CO-4   c.   What are the computational challenges of BPTT? Suggest optimization   [5]
-BL-3   techniques to improve efficiency
-********** 1 **********
---- page 2 ---
-CO-2   d.
-In autonomous driving systems, deep learning models sometimes fail in unusual
-BL-3
-conditions. Explain two limitations responsible for this issue.
-[5]
-a.   [10]
-Compare RNN, LSTM, and GRU based on:
-1) Architecture
-Q2   2) Computational complexity
-CO-   3) Ability to capture long-term dependencies
-b
-4,BL-4   4) Training efficiency
-Self Explanatory
-CO-3,
-BL-3   Design an LSTM-based model for:
-1) Time-series prediction
-2) Explain input representation, architecture, and training process.
-********** 2 **********
---- page 3 ---
-[5+5]
-Explain the architecture of Gated Recurrent Unit (GRU) networks using a
-a.   diagram. Then, use formulas to discuss the critical components of a GRU unit
-(All gates).
-Self explanatory
-Write and explain the algorithm for ADAM and SGD with Nesterov momentum.
-b.
-Q3
-[10]
-CO-4
-BL-4
-CO-2
-[10]
-BL-2
-Q4.   a.   Consider the neural network as shown in the figure.   [10]
-The inputs x1, x2, and the initial weights and two biases are given. The actual
-CO-2   output is [0.9, 0.1] for the two output neurons. The activation used is sigmoid.
-BL-3   {w3 is between x1-h2, w6 is between h1-o2}, Learning rate is 0.55.
-Calculate the following: (4 significants)
-1. Predicted output after forward propagation.
-2. Mean square error after the first forward pass
-3. Calculate the updated weights w4 and w8 after the first iteration of
-backpropagation.
-********** 3 **********
---- page 4 ---
-CO-2
-BL-3
-[10]
-b.
-Self explanatory
-A fully connected Neural Network with 8 layers is being trained using the sigmoid
-activation function.
-i   What is the activation output f / (12.9)?
-ii   What is the first derivative of the gradient f (x) at x=8?
-iii   Explain how this affects backpropagation in deeper layers.
-iv   Solve the SoftMax values for y = [3.5, 5.8, 4.4]
-Selfexplanatory
-[10]
-a.
-Discuss common problems in Gradient Descent:
-1. Local minima
-2. Saddle points
-3. Vanishing gradients
-Q5
-CO-3
-BL-1,2
-CO-4
-BL-2
-********** 4 **********
---- page 5 ---
-b.
-[10]
-Explain the application of deep learning in speech recognition systems:
-1. Feature extraction
-2. Model architecture
-3. Training challenges
-********** 5 **********
---- page 6 ---
-Q6   a.   You are training a deep learning model on limited GPU memory.
-CO-4   How would you choose the batch size? Justify your answer.
-BL-4
-CO-3
-BL-   [10]
-2,1,5
-[10]
-Explain the architecture of the Inception Model and why you use 1x1
-convolution in it?
-Self explanatory
-Design an AlexNet-inspired architecture for a new image classification task.
-b.   Specify how you would adapt the architecture to work with a dataset that
-contains smaller images (e.g., 64 × 64 64×64 pixels) and fewer classes than
-ImageNet. What modifications would you make to the original AlexNet
-architecture to suit this task.
-Modified AlexNet-Inspired Architecture for 64×64 Images:
-•   Input Layer: 64×64×3
-•   Conv1: 5×5 kernel, 32 filters, stride 1, padding 2 → Max Pooling (2×2,
-stride 2) → Output size: 32×32×32
-********** 6 **********
---- page 7 ---
-•   Conv2: 3×3 kernel, 64 filters, stride 1, padding 1 → Max Pooling (2×2,
-stride 2) → Output size: 16×16×64
-•   Conv3: 3×3 kernel, 128 filters, stride 1, padding 1 → Output size:
-16×16×128
-•   Conv4: 3×3 kernel, 128 filters, stride 1, padding 1 → Output size:
-8×8×128
-•   Conv5: 3×3 kernel, 256 filters, stride 1, padding 1 → Max Pooling (2×2,
-stride 2) → Output size: 4×4×256
-•   Flatten: Flatten the output to 4096 features.
-•   FC1: Fully connected, 512 neurons → ReLU
-•   FC2: Fully connected, 256 neurons → ReLU
-•   Output Layer (FC3): Fully connected, number of neurons = number of
-classes (e.g., 10 for 10 classes) → Softmax activation.
-Self explanatory
-a.   [5+5]
-1) Interpret the trade-off between bias and variance over deep learning models
-by taking relevant examples.
-2) Implement EXNOR gates using perceptron models.
-b.   Self explanatory
-Explain how the learning rate affects:
-1. Speed of convergence
-2.   Stability of training
-3. Risk of divergence
-Q7.
-CO-3
-BL-2
-CO-3
-BL-4
-********** 7 **********
---- page 8 ---
-¢ 3. Risk of Divergence [545]
-
-Very High Learning Rate
-© Steps are too large
-¢ Loss may increase instead of decrease
-
-1) Consider a feature map as shown below[
-
-l 2 |3 {4
-5. 16 |7 [8
-2. |4 l 3
-9 |7 |5 |6
-
-i. Perform 2x2 max pooling with a stride of 2 on this feature map
-ii, Perform 2x2 average pooling with a stride of 1 (no padding)
-iii. | Mention the significance of pooling in CNN architecture
-
-Self Explanatory
-
-FIC QF EH 1
 ````

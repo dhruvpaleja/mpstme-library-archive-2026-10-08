@@ -1,6 +1,6 @@
 # Information Storage and Management: question papers in full
 
-24 unique papers · 2012-13 to 2019-20 · Computer Engineering, Information Technology, Computer Applications (MCA)
+23 unique papers · 2012-13 to 2019-20 · Computer Engineering, Information Technology, Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1007,6 +1007,81 @@ a. Need for Backup 6
 b. Uses of Local Replicas
 ````
 
+## 2014-15 · Final-Exam · Sem 6 · paper 6a87d44fe6bc
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/INFORMATION STORAGE AND MANAGEMENT/INFORMAITON STRORAGE AND MANAGEMENT B TECH (COMP), FINAL EXAM.pdf`
+- Printed on paper: exam date: 14/05/2015
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+6
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: III Semester: VI
+Academic Year: 2014-2015
+Subject: Information Storage and Management
+Marks:
+Date: 14/05/2015 Time :
+Durations:
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1. As being Storage specialist you are requested to study the existing data center infrastructure and [12]
+suggest up gradation of it. Explain
+
+a. The systematic approach to be followed by you for this task.
+
+b. Key Factors to be considered for the same.
+
+Q2. a. “There is no difference between NAS and FC SAN” Comment on the correctness of this [12]
+statement and justify with suitable example.
+b. Draw the integrated diagram of SAN network employing following topologies:
+i. Native :
+ii. Bridged _
+iii. Mixed
+Q3. a. Draw and explain all key components of any Data center infrastructure. [12]
+b “Virtualization plays very important role in cloud computing environment” comment on this
+
+Statement.
+
+Q4 a What are the essential characteristics of cloud computing? Mention some cloud
+
+enabling technologies. [6]
+b. What is remote replication? Explain in brief modes of remote replication. [6]
+Q5 a. What is the importance of recoverability and consistency in local replication? [6]
+b.What are the activities performed by Storage infrastructure management? {6]
+
+4/2
+--- page 2 ---
+Q6 a. Explain the backup techniques in virtualized environment. [6]
+,   b.Explain the backup and restore operations. [6]
+
+Q7. Write short note on the following
+a. IPSAN
+b. NAS 1/O operation. wal
+
+[J]
+````
+
 ## 2014-15 · Final-Exam · Sem 7 · paper 8b563e106828
 
 - Departments: Information Technology
@@ -1340,6 +1415,7 @@ A ‘ On
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_07/INFORMATION STORAGE AND MANAGEMENT/INFORMATION STORAGE MANAGEMENT B TECH (COMPUTER), 2013-14 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05/12/2013
 - Text: ocr (2 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1434,7 +1510,6 @@ b. Storage virtualization
 c. Cloud service models and Cloud challenges
 d. NAS
 
-1 2s 2 2 oft fs fe ae a 2 2 as oe 2s as ak ak ok i 2 ok oko 2 2k ok
 
 2/2
 ````
@@ -1993,160 +2068,6 @@ on +
 20
 ````
 
-## 2012-13 · Final-Exam · Trim 11 · paper ea7bbdcf3449
-
-- Departments: Computer Engineering, Information Technology
-- Programmes: MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/TRIM XI/IINFORMATION STORAGE MANAGEMENT/IINFORMATION STORAGE MANAGEMENT 2012-2013 FINALscan0032.pdf` (+1 identical copies)
-- Printed on paper: exam date: 17/01/2013
-- Text: ocr (3 pages), mean OCR confidence 93.7
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineggérrs
-Programme: MBA (Tech) -IT Year: IV Trimester: XI
-
-Academic Year : 2012-2013
-
-Subject: MULTIMEDIA SYSTEMS & Marks:
-VIRTUAL REALITY Time: 2WQAp.
-Date: 17/01/2013 Duration: 3
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed e
-question paper and on the cover of the Answer book, which is provided for their use.
-
-Note:
-
-1. All Questions are Compulsory.
-
-2. In all 5 Questions to be attempted.
-
-3. Answer to each question to be started on a fresh page.
-4. Figures on the right side indicate full marks.
-
-Q.1 Solve the below questions: (Total — 16 Marks)
-
-1. What is meant by the terms Multimedia and Hypermedia? Distinguish between them. 4
-2. What is static media and dynamic media? State examples 4
-3. Why is File or data compression necessary for multimedia applications? 4
-4. What are the major factors taken into account when considering what storage
-
-Requirements are necessary for Multimedia Systems? 4
-
-b2 Answer ANY 2 from the below questions: (Total — 20 Marks)
-
-1. Explain CCITT Group 3 2D Compression 10
-2. Explain the sequence of events in a document image management system workflow 10
-3. What are different types of Multimedia authoring systems? Explain any 2 in detail 10
-
-Q.3 Write Short Notes on any 3 of the below: (Total — 30 Marks)
-
-1. Windows Telephony Architecture 10
-2. MPEG-1 Video Compression 10
-3. Huffman Code ; 10
-4. Components of distributed multimedia system 10
-
-Q.4 Answer ALL of the below multiple choice questions: (Total — 30 Marks)
-
-\/a
---- page 2 ---
-Note: >> Under the Question 4, If for Question 1, a and b and c are the applicable answers, write
-the answer as Q1. abc
-
->> Full marks will be given to each question below only if ALL correct answers are selected.
-
->> Each question below is of 3 marks each
-
-1. Compression is applicable to the below applications:
-a. Medical applications .
-b. Real estate sales (on-line video clips)
-c. Security Systems:
-
-d. None of the above:
-
-2. The data elements for Multimedia systems are:
-a. Document Images
-b. Audio Messages
-c. Software codes
-
-d. Fractals
-
-3. Below are the key points that make indexing of stored video clips different from
-home movies and other taped videos
-a. Indexing
-b. Synchronization
-c. Separate index information for sound & video
-d. Overlapping
-
-4. Below are the types of High Resolution Graphic Displays:
-a. VGA Mixing
-b. No Buffer No Mixing Scaling
-c. Dual Buffered VGA Mixing/ Scaling
-d. VGA Mixing with Scaling
-
-5. Belbw are the subsystems of DSP Operation system architecture:
-a. Document Imaging system
-b. Multitasking
-c. Intertask Synchronization and communication
-
-d. Memory Management
-
-6. Primary goals of MAPI are:
-
-A/a,
---- page 3 ---
-a. Separate Client applications from the underlying messaging services.
-b. Support voice based scripts
-c. Make basic mail — enabling a standard feature for all applications.
-
-d. None of the above.
-
-7. Common forms of navigation for information access:
-a. Indexed
-b. Direct
-c. Browsing
-
-d. None of the above
-
-8. Special Metaphors for Multimedia applications are as below:
-a DVD metaphor
-b. Telephone metaphor
-c. Organizer Metaphor
-
-d. None of the above
-
-9. The various types of Multimedia Authoring systems are:
-a. Time-lined Based.
-b. Structured Multimedia
-c. Randomized Browsing
-d. Dedicated
-
-10. Cache is required for the following activities:
-a. Coding
-b. Scanning
-c. Indexing and Quality Assurance
-
-d. Application image display
-
-Q. 5 Fill in the Blanks (Any 4): (Total — 4 Marks)
-1. MP is an extension of a File
-
-2. DAT stands for
-
-3. FPS stands for
-
-4. RAID stands for
-
-5. VIM is a short form for
-
-—— %——__________
-
-ne)
-````
-
 ## 2012-13 · Final-Exam · Trim 11 · paper 850a26b1e3fd
 
 - Departments: Computer Engineering, Information Technology
@@ -2217,79 +2138,4 @@ b) Describe NAS Input/output operations with diagram. What are the benefits
 of using NAS ? (10M)
 
 x
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper 6a87d44fe6bc
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/INFORMATION STORAGE AND MANAGEMENT/INFORMAITON STRORAGE AND MANAGEMENT B TECH (COMP), FINAL EXAM.pdf`
-- Printed on paper: exam date: 14/05/2015
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-6
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: III Semester: VI
-Academic Year: 2014-2015
-Subject: Information Storage and Management
-Marks:
-Date: 14/05/2015 Time :
-Durations:
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1. As being Storage specialist you are requested to study the existing data center infrastructure and [12]
-suggest up gradation of it. Explain
-
-a. The systematic approach to be followed by you for this task.
-
-b. Key Factors to be considered for the same.
-
-Q2. a. “There is no difference between NAS and FC SAN” Comment on the correctness of this [12]
-statement and justify with suitable example.
-b. Draw the integrated diagram of SAN network employing following topologies:
-i. Native :
-ii. Bridged _
-iii. Mixed
-Q3. a. Draw and explain all key components of any Data center infrastructure. [12]
-b “Virtualization plays very important role in cloud computing environment” comment on this
-
-Statement.
-
-Q4 a What are the essential characteristics of cloud computing? Mention some cloud
-
-enabling technologies. [6]
-b. What is remote replication? Explain in brief modes of remote replication. [6]
-Q5 a. What is the importance of recoverability and consistency in local replication? [6]
-b.What are the activities performed by Storage infrastructure management? {6]
-
-4/2
---- page 2 ---
-Q6 a. Explain the backup techniques in virtualized environment. [6]
-,   b.Explain the backup and restore operations. [6]
-
-Q7. Write short note on the following
-a. IPSAN
-b. NAS 1/O operation. wal
-
-[J]
 ````

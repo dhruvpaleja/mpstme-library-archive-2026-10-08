@@ -2800,6 +2800,235 @@ e. If you were the manager of Fore and Aft Marina, would you be satisfied with t
 service level your system will be providing? Why or why not?
 ````
 
+## 2022-23 · Exam not stated · paper b903b0072c67
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/QUANTITATIVE TECHNIQUE/Quantitative Techniques.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 13 / 6 /23
+- Text: ocr (4 pages), mean OCR confidence 89.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2022-2023
+
+wz
+Year: 2022-23.Semester: VII
+
+Subject: Quantitative Techniques Time: 2 hrs (1ts00e~to Jzoop)
+No. of Pages:_ 4
+
+Program: MBA Tech, Stream: All Streams
+
+Date: 13 / 6 /23
+
+Marks: 50
+Special Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all__5_ questions to be attempted.
+
+ae
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Marks
+Qi Discuss the role and scope of quantitative techniques for scientific decision making
+a in business management. Also discuss their limitations specific to its application | [10]
+Understand, in the business context.
+Evaluate
+a) Formulate a LPP in standard form for the following case:
+A marketing manager wishes to allocate his annual advertising budget of Rs.
+20,000 to two media vehicles A and B. The unit cost of a message in medium A is
+Rs. 1,000 and that in B is Rs. 1500. Medium Ais amonthly magazine and not more
+<> than one insertion is desired in one issue. At least 5 messages should appear in
+| @ media B. The expected effected audience for unit message in the media A is 40,000
+Cco-1,2; : =
+BL and for media B is 55,000. [4+6]
+Understand,
+Evaluate,
+Apply b) Solve the game given below after reducing it to 2x2 game:
+B, B, B,
+A, 9 8 -7
+A, 3 -6 4
+A 6 7 7
+
+Bi
+
+Q@ a) [6+4]
+CO-2,3;
+--- page 2 ---
+BL- Based on the weather conditions and industrial development in a new industrial belt, the demand for petrol for vehicles
+
+Understand, on a new service station follows the undermentioned distribution.
+Applyi
+pplying ( Weekly Demand Probability )
+2,000 litres 0.12
+3,000 litres 0.23
+4,000 litres 0.48
+5,000 litres 0.17
+
+The petrol is received from the depot only once a week and the storage capacity is only 5,500 litres. Initial supply
+available is 3,500 litres. Work out a 10 week petrol order pattern.
+
+Use the following random numbers:
+23, 78, 95, 05, 29, 76, 27, 57, 32, 81
+
+b)
+
+A company is planning its investment options and the information obtained for decision making is summarised in the
+table below.
+
+Investment Present value of Capital investment per year i:
+option the expected return 1 I i
+A 700 700 500 600
+B 800 900 600 650
+Cc 500 600 600 600
+D 750 800 500 200
+Capital available for investment 1,500 1,300 600 J
+
+It is imperative that investment D can be accepted only if investment C has been allocated. Formulate the integer problem
+for investments to maximise the present value from the investments made.
+
+a) Write dual of the following linear programming problem:
+
+Maximize Z = x1 — x2 + 3x3
+
+Q4
+
+CO- 3;
+BL- Evaluate,
+
+Subject to x1 + x2 + x3 <= 10
+
+[4+6]
+2x1 - x3 <=2
+Apply
+
+2x1 -2x2+3x3 =6
+
+xl, x2, x3 >=0
+--- page 3 ---
+et
+
+b)
+
+Five men are available to do five different jobs. From past records, the time (in hours) that each man takes to doa job
+is known and is given in the following matrix.
+
+Jobs \
+Men
+I I Il IV 4
+A 2 9 2 7 1
+B 6 8 7 6 1
+c 4 6 5 3 1
+D 4 2 71 3 1
+E 5 3 9 5 1s)
+
+Find the assignment of men to jobs that will minimize the total time taken.
+
+Q5
+
+CO-3;
+BL-
+
+Understand,
+Evaluate,
+
+Apply
+
+a) Determine an initial basic feasible solution to the following transportation
+
+problem using North-West corner rule.
+
+From 9 D E F ; Supply )
+A 6 4 1 50
+B 3 8 7 40
+Cc 4 4 2 60
+
+\_ Demand 20 95 35 150)
+
+b) A factory engaged in the manufacturing of pistons, rings, and valves for
+which the profits per unit are Rs. 10, 6, and 4, respectively wants to decide
+the most profitable mix. It takes one hour of preparatory work, ten hours
+of machining, and two hours of packing and allied formalities for a piston.
+Corresponding requirements for rings and valves are one, four, and two,
+and one, five, and six hours respectively. The total number of hours
+available for preparatory work, packing, and allied formalities are 100, 600
+
+and 300 respectively.
+
+Let xj. x3, and x be the output of pistons, rings, and valves respectively. Using the given information, we
+may state the LPP as follows:
+Maximise Z= 10x, ~ Gry + 4x; Profit
+Subject to
+Myr yt x3 8100 Preparatory work
+10x, + 4x, + Sx; $ 600 Machinng
+2xy + xy + 6; $300 Allied
+YyeXy 3 20
+
+The output of the sensitivity report is given below:
+
+(6+4]
+--- page 4 ---
+Variable Value] Reduced Cost; Original Val| Lower Bound] Upper Bound]
+
+[sleiinibes cece aerate oe 33.33 0.) 10. 6 a5.
+2, ea 6667 0. 6 4. “10.
+x3 0. 2.6667 4 infinity 667
+Constraint Dual Value Slack/Surphus Original Val; Lower Bound! Upper Bound
+Constraint 4 3.3333 0. 100. 60. 150,
+Constraint 2 0.6667 0. 600. 400. 1,000.
+Constraint 3 0.) 100. 300, 200. Infinity
+
+a. What is the optimal solution?
+
+b. What is the value of the objective function?
+
+c. Which constraints are binding?
+
+d. If the objective function coefficient of X1 is increased by 4, will the
+optimal solution change?
+
+a) How does the concept of a zero-sum game differ from a non-zero-sum
+game? Provide examples of each.
+b) The distribution of commodity from warehouses A, B, C arid D is planned
+
+to three sources P, Q and R. The level of surpluses and requirements at
+
+Q6 various sources are given in the following matrix with related cost of
+a transportation as cells of the matrix.
+(2+8]
+Understand,
+neers ( P Q R Surpluses 2
+Evaluate, A 2 7 4 5
+Apply B 3 3 rl 8
+Cc 5 4 7 iz
+D 1 6 2 14
+\ Requirements 7 9 18 )
+Work out the optimal cost of distribution.
+A departmental store has a single cashier. During the rush hours, customers arrive
+at the rate of 20 customers per hour. The average number of customers that can be
+i processed by the cashier is 24 per hour. Assume that the conditions for the use of
+Q7 single-channel queuing model apply. What is the
+. a alyze, (a) probability that the cashier is idle? [2x5]
+Apply (b) average number of customers in the queuing system?
+
+(c) average time a customer spends in the system?
+(d) average number of customers in the queue?
+
+(e) average time a customer spends in the queue waiting for service?
+
+os
+````
+
 ## 2022-23 · Final-Exam · paper d379a35ec32c
 
 - Departments: Common (all branches)
@@ -3394,6 +3623,7 @@ e) What is the probability that a new arrival has to wait for service?
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Quantitative Techniques/Quantitative Techniques , Final exam 2019-20.pdf`
 - Printed on paper: max marks: 70; duration hours: 2; exam date: 03 December 2019
 - Text: ocr (3 pages), mean OCR confidence 84.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ‘ SVKM’S NMIMS
@@ -3483,7 +3713,6 @@ x1, X2 >= 0 and are integers
 The final LP table is given below:
 
 Variables xi x2 Si §2. $3 RHS
-x2 G a c o i 35
 
 xi 1 o % © -1/2 25/2
 $2 it 0 -1/2 dL % 75/2
@@ -3578,6 +3807,7 @@ fs
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Quantitative Techniques/Quantitative Techniques Final 2018-19.pdf`
 - Printed on paper: max marks: 60; duration hours: 2; exam date: 06 December 2018
 - Text: ocr (3 pages), mean OCR confidence 86.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3704,7 +3934,6 @@ b. Branch & Bound method of integer programming
 c. Importance of Sensitivity analysis
 d. Graphical solution method for a LP problem
 
-LORE EERE SECE EO SSR EIE EIS IEEE SI OSEIE SISSIES EI IES IEE IEICIGII I AAAI ICICI IIIA A A A
 
 3[%
 
@@ -3722,6 +3951,7 @@ Fe a a a
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Quantitative Techniques/Quantitative Techniques Re-exam 2018-19.pdf`
 - Printed on paper: max marks: 60; duration hours: 2; exam date: 13 February 2019
 - Text: ocr (3 pages), mean OCR confidence 88.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3851,237 +4081,7 @@ b. Gomory Cutin integer programming
 c. Importance of Sensitivity analysis
 d. Concept of Dual & Primal
 
-A ee eR ee EE EE RH RK RK ERK KKK EEK KKK KEKE EEE EEE EK ERE KEK
 a
 
 Te
-````
-
-## Year not stated · Exam not stated · paper b903b0072c67
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/QUANTITATIVE TECHNIQUE/Quantitative Techniques.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 13 / 6 /23
-- Text: ocr (4 pages), mean OCR confidence 89.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-Academic Year: 2022-2023
-
-wz
-Year: 2022-23.Semester: VII
-
-Subject: Quantitative Techniques Time: 2 hrs (1ts00e~to Jzoop)
-No. of Pages:_ 4
-
-Program: MBA Tech, Stream: All Streams
-
-Date: 13 / 6 /23
-
-Marks: 50
-Special Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all__5_ questions to be attempted.
-
-ae
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Marks
-Qi Discuss the role and scope of quantitative techniques for scientific decision making
-a in business management. Also discuss their limitations specific to its application | [10]
-Understand, in the business context.
-Evaluate
-a) Formulate a LPP in standard form for the following case:
-A marketing manager wishes to allocate his annual advertising budget of Rs.
-20,000 to two media vehicles A and B. The unit cost of a message in medium A is
-Rs. 1,000 and that in B is Rs. 1500. Medium Ais amonthly magazine and not more
-<> than one insertion is desired in one issue. At least 5 messages should appear in
-| @ media B. The expected effected audience for unit message in the media A is 40,000
-Cco-1,2; : =
-BL and for media B is 55,000. [4+6]
-Understand,
-Evaluate,
-Apply b) Solve the game given below after reducing it to 2x2 game:
-B, B, B,
-A, 9 8 -7
-A, 3 -6 4
-A 6 7 7
-
-Bi
-
-Q@ a) [6+4]
-CO-2,3;
---- page 2 ---
-BL- Based on the weather conditions and industrial development in a new industrial belt, the demand for petrol for vehicles
-
-Understand, on a new service station follows the undermentioned distribution.
-Applyi
-pplying ( Weekly Demand Probability )
-2,000 litres 0.12
-3,000 litres 0.23
-4,000 litres 0.48
-5,000 litres 0.17
-
-The petrol is received from the depot only once a week and the storage capacity is only 5,500 litres. Initial supply
-available is 3,500 litres. Work out a 10 week petrol order pattern.
-
-Use the following random numbers:
-23, 78, 95, 05, 29, 76, 27, 57, 32, 81
-
-b)
-
-A company is planning its investment options and the information obtained for decision making is summarised in the
-table below.
-
-Investment Present value of Capital investment per year i:
-option the expected return 1 I i
-A 700 700 500 600
-B 800 900 600 650
-Cc 500 600 600 600
-D 750 800 500 200
-Capital available for investment 1,500 1,300 600 J
-
-It is imperative that investment D can be accepted only if investment C has been allocated. Formulate the integer problem
-for investments to maximise the present value from the investments made.
-
-a) Write dual of the following linear programming problem:
-
-Maximize Z = x1 — x2 + 3x3
-
-Q4
-
-CO- 3;
-BL- Evaluate,
-
-Subject to x1 + x2 + x3 <= 10
-
-[4+6]
-2x1 - x3 <=2
-Apply
-
-2x1 -2x2+3x3 =6
-
-xl, x2, x3 >=0
---- page 3 ---
-et
-
-b)
-
-Five men are available to do five different jobs. From past records, the time (in hours) that each man takes to doa job
-is known and is given in the following matrix.
-
-Jobs \
-Men
-I I Il IV 4
-A 2 9 2 7 1
-B 6 8 7 6 1
-c 4 6 5 3 1
-D 4 2 71 3 1
-E 5 3 9 5 1s)
-
-Find the assignment of men to jobs that will minimize the total time taken.
-
-Q5
-
-CO-3;
-BL-
-
-Understand,
-Evaluate,
-
-Apply
-
-a) Determine an initial basic feasible solution to the following transportation
-
-problem using North-West corner rule.
-
-From 9 D E F ; Supply )
-A 6 4 1 50
-B 3 8 7 40
-Cc 4 4 2 60
-
-\_ Demand 20 95 35 150)
-
-b) A factory engaged in the manufacturing of pistons, rings, and valves for
-which the profits per unit are Rs. 10, 6, and 4, respectively wants to decide
-the most profitable mix. It takes one hour of preparatory work, ten hours
-of machining, and two hours of packing and allied formalities for a piston.
-Corresponding requirements for rings and valves are one, four, and two,
-and one, five, and six hours respectively. The total number of hours
-available for preparatory work, packing, and allied formalities are 100, 600
-
-and 300 respectively.
-
-Let xj. x3, and x be the output of pistons, rings, and valves respectively. Using the given information, we
-may state the LPP as follows:
-Maximise Z= 10x, ~ Gry + 4x; Profit
-Subject to
-Myr yt x3 8100 Preparatory work
-10x, + 4x, + Sx; $ 600 Machinng
-2xy + xy + 6; $300 Allied
-YyeXy 3 20
-
-The output of the sensitivity report is given below:
-
-(6+4]
---- page 4 ---
-Variable Value] Reduced Cost; Original Val| Lower Bound] Upper Bound]
-
-[sleiinibes cece aerate oe 33.33 0.) 10. 6 a5.
-2, ea 6667 0. 6 4. “10.
-x3 0. 2.6667 4 infinity 667
-Constraint Dual Value Slack/Surphus Original Val; Lower Bound! Upper Bound
-Constraint 4 3.3333 0. 100. 60. 150,
-Constraint 2 0.6667 0. 600. 400. 1,000.
-Constraint 3 0.) 100. 300, 200. Infinity
-
-a. What is the optimal solution?
-
-b. What is the value of the objective function?
-
-c. Which constraints are binding?
-
-d. If the objective function coefficient of X1 is increased by 4, will the
-optimal solution change?
-
-a) How does the concept of a zero-sum game differ from a non-zero-sum
-game? Provide examples of each.
-b) The distribution of commodity from warehouses A, B, C arid D is planned
-
-to three sources P, Q and R. The level of surpluses and requirements at
-
-Q6 various sources are given in the following matrix with related cost of
-a transportation as cells of the matrix.
-(2+8]
-Understand,
-neers ( P Q R Surpluses 2
-Evaluate, A 2 7 4 5
-Apply B 3 3 rl 8
-Cc 5 4 7 iz
-D 1 6 2 14
-\ Requirements 7 9 18 )
-Work out the optimal cost of distribution.
-A departmental store has a single cashier. During the rush hours, customers arrive
-at the rate of 20 customers per hour. The average number of customers that can be
-i processed by the cashier is 24 per hour. Assume that the conditions for the use of
-Q7 single-channel queuing model apply. What is the
-. a alyze, (a) probability that the cashier is idle? [2x5]
-Apply (b) average number of customers in the queuing system?
-
-(c) average time a customer spends in the system?
-(d) average number of customers in the queue?
-
-(e) average time a customer spends in the queue waiting for service?
-
-os
 ````

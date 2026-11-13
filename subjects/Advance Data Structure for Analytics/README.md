@@ -16,19 +16,19 @@ Also filed as: `ADVANCED DATA STRUCTURE FOR ANALYTICS`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7057 | QP_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech DS 7009 | QP_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 10 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, B.TECH INTEGRATED / DATA SCIENCE | Advance Data Structure for Analytics Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CSE DS 7057 | QP_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech DS 7009 | QP_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE | Advance Data Structure for Analytics, Sem VI, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6 | B TECH / DATA SCIENCE | Advanced Data Structures for Analytics, Sem-VI, Final Exam 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B TECH / DATA SCIENCE | Advanced Data Structure for Analytics, Sem-VI, A Y 2023-24 Re Exam.pdf |

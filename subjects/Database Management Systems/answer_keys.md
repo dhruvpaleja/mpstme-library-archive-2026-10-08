@@ -526,548 +526,6 @@ Mark Split:
 ********** 14 **********
 ````
 
-## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 0847fa8bb705
-
-- Departments: Cyber Security, Information Technology
-- Programmes: BTech CyberSecurity 7010, BTech IT 7001
-- Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CyberSecurity_7010/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf` (+1 identical copies)
-- Text: text (12 pages)
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-Program/s: ___BTech IT/MBATech IT/BTech Cyber /BTI IT___   Year: 2 Semester: V/IX
-Stream/s : Information Technology
-Subject: ___DBMS   Time: _3__ hrs (______to_______)
-Date:   /   / 2025   No. of Pages:__3___
-Marks: __100_______
-Final Examination/Re-Examination ( Re-exam year)
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4___ questions.
-3) In all ___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary.
-SET 1- synoptic
-Q1   Answer the following questions   [20]
-CO- 1;   a   What are data models? Explain the Relational Model.   [5]
-SO- 2;   1. Definition of Data Models (2 Marks)
-BL- 1
-A data model   is a conceptual framework that describes how data are structured,
-stored, and manipulated in a database system.
-It defines the   logical structure   of the database — the relationships among data, the
-constraints, and the operations that can be performed.
-Common types include:
-•   Hierarchical Model
-•   Network Model
-•   Relational Model
-•   Object Oriented Model
-2. Relational Model (3 Marks)
-The Relational Model organizes data into relations (tables) consisting of rows and
-columns .
-Each table (relation) represents an entity , each row (tuple) represents a record ,
-and each column (attribute) represents a data field .
-Every relation has a Primary Key that uniquely identifies each tuple.
-Foreign Keys are used to establish relationships between tables.
-Data are manipulated using Relational Algebra and the SQL language for operations
-like selection, projection, join, and union.
---- page 2 ---
-Example:
-| StudentID | Name   | Branch |
-|   |   |   |
-| S101   | Riya   | IT   |
-| S102   | Arjun | CS   |
-Here, StudentID → Primary Key; the table “Student” represents the Student entity .
-CO- 2;   b   1. Features of a Good Database Design (4 Marks)   [5]
-SO - 2;
-BL- 2   Data Integrity and Consistency:
-Each piece of data is stored only once (no redundancy), ensuring consistency.
-Example: Customer details stored in one CUSTOMER table, not repeated in every ORDER
-record.
-Minimal Data Redundancy:
-Redundant data causes update anomalies and wasted storage.
-Example: Instead of repeating department names for every employee, use a separate
-DEPARTMENT table with a foreign key reference.
-Proper Use of Normalization:
-Splitting large tables into smaller ones to remove partial and transitive dependencies (1NF–
-3NF).
-Example:   Separating   EMPLOYEE(EmpID,   EmpName,   DeptID)   and
-DEPARTMENT(DeptID, DeptName).
-Clear Entity–Relationship Mapping:
-Logical relationships (1:1, 1:N, M:N) must be clearly defined using primary and foreign
-keys.
-Example: One‐to‐many between CUSTOMER and ORDER.
-Scalability and Performance:
-Well-designed indexes and relationships support fast queries and future data growth.
-Example: Indexing OrderID in ORDERS table speeds up retrieval.
-Remove Insert Update Anomalies
-2. Conclusion (1 Mark)
-A good database design is normalized, non-redundant, and supports data integrity, leading
-to efficient storage, accurate information, and simplified maintenance.
-CO- 3 ;   c   (a) Superkeys: [2Marks]   [5]
-SO - 2;   {RollNo}, {Email}, {AadhaarNo}, {RollNo, Name}, {Email, Phone}, etc.
-BL- 2   (b) Candidate Keys: [2Marks] - minimal keys
-{RollNo}, {Email}, {AadhaarNo}
-(c) Primary Key:   - only one to be written from candidate keys
---- page 3 ---
-RollNo —unique. [1Marks]
-CO- 4 ;   d   What is the significance of CAP theorem in NOSQL   [5]
-SO - 2;   The CAP Theorem is a fundamental principle in NoSQL databases that describes the trade-
-BL-1   offs among three key properties:
-1.   Consistency (C): Every read receives the most recent write or an error.
-2.   Availability (A): Every request receives a response, regardless of the state of the
-data.
-3.   Partition Tolerance (P): The system continues to operate even if network partitions
-or communication failures occur.
-Significance in NoSQL:
-•   NoSQL databases are often distributed systems. The CAP theorem explains that
-it is impossible to achieve all three properties simultaneously; a database can only fully
-guarantee two out of three.
-•   For example:
-o   MongoDB prioritizes Consistency + Partition Tolerance (CP) by default.
-o   Cassandra prioritizes Availability + Partition Tolerance (AP).
-•   This helps developers choose the right database and configure it according to
-application needs, balancing consistency, availability, and fault tolerance.
-"
-Q2   [20]
-CO- 1 ;   a   [10]
-SO - 2;   All Entities drawn – 2M
-BL-2   All attributes - 2M
-Relationships – 2M
-Cardinality – 2M
-Participation – 2M
-CO- 2 ;   b   Consider following movie database:   [10]
-SO - 2;
-BL- 2   users (user_id, full_name, city, contact_no)
-restaurants (restaurant_id, name, address, price level, is active)
-dishes (dish_id, restaurant, name, price, is_veg, is spicy)
-ratings (user_id, dish_id, rating, rated_at, feedback)
-Write the SQL queries the following question:
---- page 4 ---
-i   Add a new column “email” to users table   [2]
-Ans:
-ALTER TABLE users
-ADD COLUMN email VARCHAR (40);
-ii   Modify table dishes to enforce business rules “dishes.price must be > 0.” using CHECK   [2]
-constraints
-Ans:
-ALTER TABLE dishes
-ADD CONSTRAINT chk_price
-CHECK (price > 0);
-iii   Select all veg, not-spicy dishes with price <= 250 from active restaurants.   [2]
-Ans:
-SELECT d.name AS dish, r.name AS restaurant, d.price
-FROM dishes d, restaurants r
-Where r. restaurant_id = d. restaurant_id and r.is_active = ‘yes’ AND d.is_veg = ‘yes’
-AND d.is_spicy is ‘No’ and d. price <= 250
-iv   Show each restaurant’s average rating and number of ratings but return only those with at   [2]
-least 2 ratings and an average ≥ 4.0.
-Ans:
-SELECT r.name AS restaurant, ROUND (AVG (rt. rating), 2) AS avg_rating,
-COUNT (rt. rating) AS rating_count
-FROM restaurants r, dishes d, ratings rt where d. restaurant_id = r. restaurant_id
-And rt. dish_id = d. dish_id
-GROUP BY r. restaurant_id, r.name
-HAVING COUNT (rt. rating) >= 2
-AND AVG (rt. rating) >= 4.0
-v   Create a view called user_ratings which will show each rating alongside the user who   [2]
-gave it.
-CREATE OR REPLACE VIEW user_ratings AS
-SELECT u.user_id, u. full_name, u. city, u. contact_no, r. dish_id, r. rating, r. rated_at,
-r. feedback
-FROM ratings r JOIN users u
-ON u.user_id = r.user_id;
-Q3   [20]
-CO- 1 ;   a.   Entity /attribute to table/columns - 6 M   [10]
-SO - 2;   Resolve Relationships – 2M
-BL- 2   Indicate Primary key / foreign key – 2 M
-Relational Schema Conversion
-1. USER
-USER(u_id PRIMARY KEY,   name,   email)
-2. ADDRESS
-ADDRESS(a_id PRIMARY KEY,   city,   state,   country,   u_id FOREIGN
-KEY REFERENCES USER(u_id))
-Relationship: User – lives in – Address → 1-to-M (one user can have many addresses)
-3. ORDER
-ORDER(o_no PRIMARY KEY,   order_amount,   order_date,   u_id FOREIGN
-KEY REFERENCES USER(u_id))
-Relationship: User – places – Order → 1-to-M
-4. TRACKING_DETAIL
---- page 5 ---
-TRACKING_DETAIL(trac_id PRIMARY KEY,   status,   o_no
-FOREIGN KEY REFERENCES ORDER(o_no))
-Relationship: Order – contains – Tracking_detail → 1-to-M
-5. PRODUCT_CATEGORY
-PRODUCT_CATEGORY(cat_id PRIMARY KEY,   cat_name)
-6. PRODUCT
-PRODUCT(p_id PRIMARY KEY,   p_name,   price,   description,   cat_id
-FOREIGN KEY REFERENCES PRODUCT_CATEGORY(cat_id))
-Relationship: Product – has – Product_Category → M-to-1
-7. CART
-CART(cart_id PRIMARY KEY)
-8. PRODUCT_CART (resolving M-N between Product and Cart)
-PRODUCT_CART(p_id FOREIGN KEY REFERENCES PRODUCT(p_id),
-cart_id FOREIGN KEY REFERENCES CART(cart_id),
-PRIMARY KEY (p_id, cart_id))
-Relationship: Product – added to – Cart → M-to-N
-9. ORDER_PRODUCT (resolving M-N between Order and Product)
-ORDER_PRODUCT(o_no FOREIGN KEY REFERENCES ORDER(o_no),
-p_id FOREIGN KEY REFERENCES PRODUCT(p_id),
-PRIMARY KEY (o_no, p_id))
-Relationship: Order – contains – Product → M-to-N
-CO- 3 ;   b.   (i) Partial & Transitive dependencies (3 marks)   [10]
-SO - 2;
-BL- 3   Candidate key (in SALES): ({OrderID, ProdID})
-(Quantity needs both; everything else is determined by either OrderID, CustID, ProdID,
-or SalespersonID.)
-Partial dependencies (depend on part of composite key)
-•   OrderID → OrderDate, CustID, SalespersonID
-(These don’t need ProdID.)
-•   ProdID → ProdName, UnitPrice
-(These don’t need OrderID.)
-•   SalespersonID → SalespersonName, SalespersonRegion and
-CustID → CustName, CustCity are not on the key, but in the single SALES table
-they appear as attributes that are determined by non-key attributes—handled
-under transitive below.
-Transitive dependencies (key → nonkey → other nonkeys)
-•   OrderID ⇒   → CustID and CustID → CustName, CustCity
-OrderID → CustName, CustCity (transitive).
-•   OrderID → SalespersonID and SalespersonID → SalespersonName,
-SalespersonRegion ⇒
-OrderID → SalespersonName, SalespersonRegion (transitive).
-Full dependency:
---- page 6 ---
-•   ({OrderID, ProdID} → Quantity) (depends on the whole key, not partial).
-(ii) Decomposition to 3NF (step-by-step) (5 marks)
-Start:
-SALES(OrderID, OrderDate, CustID, CustName, CustCity, ProdID, ProdName,
-UnitPrice, Quantity, SalespersonID, SalespersonName, SalespersonRegion)
-Step 1: Remove partial dependencies (to reach 2NF)
-Create relations on determinants of partial dependencies:
-1. ORDER(OrderID, OrderDate, CustID, SalespersonID)
-(from OrderID → OrderDate, CustID, SalespersonID)
-2. PRODUCT(ProdID, ProdName, UnitPrice)
-(from ProdID → ProdName, UnitPrice)
-3. Keep line items for the fully dependent attribute:
-SALES_LINE(OrderID, ProdID, Quantity) with PK (OrderID, ProdID)
-Step 2: Remove transitive dependencies (to reach 3NF)
-Separate dependents of non-key determinants:
-4. CUSTOMER(CustID, CustName, CustCity)
-(from CustID → CustName, CustCity)
-5. SALESPERSON(SalespersonID, SalespersonName, SalespersonRegion)
-(from SalespersonID → SalespersonName, SalespersonRegion)
-Now, in ORDER, CustID and SalespersonID remain as foreign keys only; their
-descriptive attributes moved to their own tables, removing transitive dependencies.
-All resulting tables are in 3NF:
-•   Every non-key attribute depends on the key, the whole key, and nothing but the
-key in its table.
-(iii) Final set of relations with keys (2 marks)
-•   ORDER(OrderID, OrderDate, CustID, SalespersonID)
-FK: CustID → CUSTOMER, SalespersonID → SALESPERSON
-• CUSTOMER(CustID, CustName, CustCity)
-•   SALESPERSON(SalespersonID, SalespersonName, SalespersonRegion)
-• PRODUCT(ProdID, ProdName, UnitPrice)
-•   SALES_LINE(OrderID, ProdID, Quantity)
-FK: OrderID → ORDER, ProdID → PRODUCT
-This decomposition is lossless and preserves the given FDs, with SALES_LINE capturing
-the many-to-many between orders and products plus Quantity.
-Q4   [20]
-CO- 1 ;   a.   Discuss the major difficulties encountered while creating a database from scratch, and   [10]
-SO - 2;   illustrate your answer with suitable examples.
-BL-2
---- page 7 ---
-Building a database from scratch involves several conceptual, technical, and
-organizational challenges that must be carefully addressed to ensure efficiency, accuracy,
-and long-term usability.
-1.   Requirement Analysis:
-2.   Data Modeling Challenges:
-3.   Data Redundancy and Integrity:
-4.   Normalization and Performance Balance:
-5.   Security and Access Control:
-6.   Scalability and Future Growth:
-7.   Backup and Recovery Planning:
-CO- 2 ;   b.   Solve the following queries using relational algebra   [10]
-SO - 2;   Customer(CustomerID, CustomerName, City)
-BL-2   Order(OrderID, OrderDate, CustomerID)
-Product(ProductID, ProductName, Price)
-Order_Product(OrderID, ProductID, Quantity)
-(i) Find the names of customers who have placed at least one order.
-(ii) Get the customer names and order IDs for orders placed after ‘2024-01-01’.
-(iii) List all products ordered by customers who live in ‘Chicago’.
-(iv) List the products that have been ordered by any customer with a quantity greater than
-1
-(v) Find all customers located in New York and have ordered something in month of
-October 2024(assume date is in yyyy-mm-dd)
-Q5   [20]
-CO- 2 ;   a.   Consider the following table:   [10]
-SO - 2;   employee (employee_id, first_name , last_name, email, phone_number , hire_date, job_id
-BL-2   , salary, commission_pct , manager_id , department_id )
-Write the SQL queries the following question:
-i   Write a SQL query to find those employees who receive a higher salary than the employee   [3]
-with ID 163. Return first name, last name.
-Ans:
-SELECT first_name, last_name
-FROM employees
-WHERE salary >
-( SELECT salary
-FROM employees
-WHERE employee_id=163
-);
-ii   Write a SQL query to find out which employees have the same designation as the employee   [3]
-whose ID is 169. Return first name, last name, department ID and job ID.
-Ans:
-SELECT first_name, last_name, salary, department_id, job_id
-FROM employees
---- page 8 ---
-WHERE job_id =
-( SELECT job_id
-FROM employees
-WHERE employee_id=169
-);
-iii   Write a SQL query to find those employees whose salary matches the lowest salary of any   [4]
-of the departments. Return first name, last name and department ID
-SELECT first_name, last_name, salary, department_id
-FROM employees
-WHERE salary IN
-(SELECT MIN(salary)
-FROM employees
-GROUP BY department_id
-);
-CO- 4 ;   b.   [10]
-SO - 2;
-BL- 2
-It is not conflict serializable as the graph is cyclic.
-Step   T1   T2   T3
-1   T1: Read(A)
-2   T2: Read(A)
-3   T1: Write(A)
-4   T2: Write(A)
-5   T2: Read(B)
-6   T3: Read(B)
-7   T2: Write(B)
-8   T3: Write(B)
-Serializability ensures that a concurrent execution is equivalent to some serial order of
-transactions. This preserves database correctness by preventing anomalies such as lost
-updates, dirty reads, non-repeatable reads, and inconsistent results—while still
-allowing concurrency for performance.
-Q6   [20]
-CO- 4 ;   a.   1. Definition of a Transaction   [10]
-SO - 2;   A transaction is a logical unit of database processing that consists of one or more database
-BL-3   operations such as read, write, insert, update, or delete.
-It represents a single, indivisible unit of work that must be executed completely or not at
-all.
-Example:
-T1:
-Read(A)
-A = A – 100
-Write(A)
-Read(B)
-B = B + 100
---- page 9 ---
-Write(B)
-This transaction transfers ₹100 from account A to account B.
-2. ACID Properties of a Transaction
-Property Meaning Example
-Atomicity   All operations in a transaction must complete successfully; if any fails,
-the entire transaction is rolled back. If the debit from A succeeds but the credit to B fails,
-both changes are undone.
-Consistency   A transaction transforms the database from one consistent state to
-another, maintaining all integrity constraints.The total balance (A + B) remains the same
-before and after the transfer.
-Isolation Concurrent transactions should not interfere with each other; intermediate states
-are invisible to others.   While T1 transfers money, another transaction T2 cannot read
-the partially updated balance of A or B.
-Durability   Once a transaction commits, its effects are permanently recorded in the
-database, even after system failures.   After committing, the ₹100 transfer remains
-intact even if the system crashes.
-3. Conflict Serializability
-A schedule is conflict-serializable if it can be transformed into a serial schedule by
-swapping non-conflicting operations.
-Two operations conflict if:
-1.   They belong to different transactions.
-2.   They operate on the same data item.
-3.   At least one is a write operation.
-Example:
-Step   Transaction   Operation
-1   T1   Read(A)
-2   T2   Read(A)
-3   T1   Write(A)
-4   T2   Write(A)
-Here, conflicts occur between T1 and T2 ⇒ on A.
-Precedence graph: T1 → T2 (no cycle)   Conflict-serializable, equivalent to serial order
-T1 → T2.
-4. View Serializability
-A schedule is view-serializable if it is view-equivalent to some serial schedule, i.e.,
-•   Both schedules have the same read-from relationships (who reads whose value).
-•   Both have the same final writes on each data item.
-•   Both start from the same initial state.
-Example:
-S1: T1: W(A)
-T2: R(A), W(A)
-T3: R(A)
-If both T2 and T3 read the value of A written by T1 and T2 does the final write,
-then S1 is view-equivalent to the serial order T1 → T2 → T3.
-5. Difference between Conflict and View Serializability
-Aspect Conflict Serializability   View Serializability
-Basis   Swapping of non-conflicting operations   Preservation of read-from and final-
-write relationships
-Detection   Using precedence (serialization) graph   More complex; requires
-comparing read/write dependencies
-Strictness   Stronger form — every conflict-serializable schedule is view-
-serializable   Weaker — some non-conflict-serializable schedules can still be view-
-serializable
-Ease of Check   Easier to test algorithmically   Harder to test, computationally
-expensive
---- page 10 ---
-Example Schedule without cycles in precedence graph   Schedule with blind writes
-(where a value is overwritten without being read) may still be view-serializable but not
-conflict-serializable
-CO- 4 ;   b.   Aspect   ACID (RDBMS)   BASE (NoSQL / Distributed   [10]
-SO - 2;   Systems)
-BL-1   Philosophy   Ensures strict correctness   Focuses on scalability and
-and reliability   availability
-Consistency   Strong consistency – all   Eventual consistency – nodes
-Model   nodes see same data   become consistent over time
-instantly
-System Type   Centralized or small-scale   Distributed, large-scale, cloud-
-transactional systems   based systems
-Transaction   Transactions are atomic   Transactions may be broken or
-Handling   and isolated   partial across nodes
-Availability   Prioritizes consistency   Prioritizes availability over
-vs.   over availability   consistency
-Consistency
-Response   Slower, due to strict   Faster, as some consistency is
-Time   locking and commit   relaxed
-protocols
-Use Cases   Banking, financial,   Social media feeds, e-
-inventory systems   commerce catalogs, IoT data
-Error   Rollback ensures integrity   Recovery through replication
-Recovery   after failures   and eventual updates
-CAP Theorem CP systems (Consistency + AP systems (Availability +
-View   Partition tolerance)   Partition tolerance)
-Examples   Oracle, MySQL,   Cassandra, MongoDB,
-PostgreSQL   Amazon DynamoDB
-Q7   [20]
-CO-1 ;   A   Advantages of DBMS [5 Marks]   [5]
-SO- 2;   1. Reduces Data Redundancy and Inconsistency
-BL-1   – Data is stored centrally, avoiding duplication and ensuring all users see the
-same updated information.
-2. Improves Data Security
-– Access to data is controlled through authentication and authorization,
-protecting sensitive information.
-3. Ensures Data Integrity and Accuracy
-– Integrity constraints like primary keys and foreign keys maintain correctness of
-data values.
-4. Supports Concurrent Access and Sharing
-– Multiple users can work on the same database simultaneously without
-conflicts, using concurrency control.
-5. Provides Backup and Recovery
-– Automatic backup and recovery mechanisms protect data against crashes and
-system failures.
-CO- 2 ;   b   Joins in SQL [5 Marks]   [5]
-SO - 2;   Definition:
-BL-2   A JOIN in SQL is used to combine rows from two or more tables based on a related
-column (usually a primary–foreign key relationship).
-1. INNER JOIN
---- page 11 ---
-Returns only the matching rows from both tables.
-Example:
-SELECT Students.Name, Courses.CourseName
-FROM Students
-INNER JOIN Courses ON Students.CourseID = Courses.CourseID;
-Shows students who are enrolled in a course.
-2. LEFT JOIN (LEFT OUTER JOIN)
-Returns all rows from the left table, and matching rows from the right; non-matching
-rows show NULLs.
-Example:
-SELECT Students.Name, Courses.CourseName
-FROM Students
-LEFT JOIN Courses ON Students.CourseID = Courses.CourseID;
-Shows all students, even if not enrolled in any course.
-3. RIGHT JOIN (RIGHT OUTER JOIN)
-Returns all rows from the right table, and matching rows from the left; non-matching
-rows show NULLs.
-Example:
-SELECT Students.Name, Courses.CourseName
-FROM Students
-RIGHT JOIN Courses ON Students.CourseID = Courses.CourseID;
-Shows all courses, even if no student has enrolled.
-4. FULL JOIN (FULL OUTER JOIN)
-Returns all rows from both tables; unmatched rows are filled with NULLs.
-Example:
-SELECT Students.Name, Courses.CourseName
-FROM Students
-FULL JOIN Courses ON Students.CourseID = Courses.CourseID;
-Shows all students and all courses, with NULLs where no match exists.
-5. CROSS JOIN
-Produces Cartesian product — every row of the first table with every row of the second.
-Example:
-SELECT Students.Name, Courses.CourseName
-FROM Students
-CROSS JOIN Courses;
-Shows all possible combinations of students and courses.
-Summary:
-Type of Join   Description   Matching/Unmatched Rows
-INNER JOIN Common records only   Matching only
-LEFT JOIN   All left + matching right   Unmatched right → NULL
-RIGHT JOIN   All right + matching left   Unmatched left → NULL
-FULL JOIN   All rows from both tables Unmatched → NULL
-CROSS JOIN   Cartesian product   No condition needed
-CO- 3;   C   Armstrong’s Axioms [5 Marks]   [5]
-SO - 2;   Definition:
-BL-3   Armstrong’s Axioms are a set of inference rules used to derive all possible functional
-dependencies (FDs) from a given set of FDs in a relational schema.
-They form the theoretical foundation for normalization and dependency closure.
-1. Basic Axioms
-Axiom   Rule Description
---- page 12 ---
-⊆
-a) Reflexivity   If Y   X, then X → Y. (A set of attributes determines any   If X = {A, B} then {A,
-of its subsets.)   B} → {A}.
-b) Augmentation   If X → Y, then XZ → YZ. (Adding the same attribute(s) to   If A → B, then AC →
-both sides preserves the dependency.)   BC.
-c) Transitivity   If X → Y and Y → Z, then X → Z. (Dependencies can be   If A → B and B → C,
-chained.)   then A → C.
-2. Derived (Additional) Axioms
-Using the three basic rules, the following can be derived:
-Derived Axiom   Meaning
-Union (Additivity)   If X → Y and X → Z, then X → YZ
-Decomposition (Projectivity)   If X → YZ, then X → Y and X → Z
-Pseudo-transitivity   If X → Y and YZ → W, then XZ → W
-3. Importance
-•   These axioms help in finding attribute closure (X⁺)
-•   Used to test dependency preservation and lossless decomposition during
-normalization.
-CO- 4 ;   d   "Key Value Pair Based   [5]
-SO - 2;
-BL-1   Data is stored in key/value pairs. It is designed in such a way to handle lots of data and
-heavy load.
-Key-value pair storage databases store data as a hash table where each key is unique, and
-the value can be a JSON, BLOB(Binary Large Objects), string, etc.
-For example, a key-value pair may contain a key like ""Website"" associated with a value
-like ""Guru99"".
-It is one of the most basic types of NoSQL databases. This kind of NoSQL database is
-used as a collection, dictionaries, associative arrays, etc. Key value stores help the
-developer to store schema-less data. They work best for shopping cart contents.
-Redis, Dynamo, Riak are some examples of key-value store DataBases. They are all
-based on Amazon's Dynamo paper.
-Column-based
-Column-oriented databases work on columns and are based on BigTable paper by
-Google. Every column is treated separately. Values of single column databases are stored
-contiguously.
-Column based NoSQL database
-They deliver high performance on aggregation queries like SUM, COUNT, AVG, MIN
-etc. as the data is readily available in a column.
-Column-based NoSQL databases are widely used to manage data warehouses, business
-intelligence, CRM, Library card catalogs,
-HBase, Cassandra, HBase, Hypertable are examples of column based database.
-"
-````
-
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 777eda07857b
 
 - Departments: Data Science
@@ -8581,744 +8039,6 @@ WHERE doc_id = a.doc_id
 (v) UPDATE Appointment SET fees = fees * 1.10;
 
 FRR ICR 7 6 AC OH
-````
-
-## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 321595f9ea8e
-
-- Departments: Information Technology
-- Programmes: Integrated IT 7037
-- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/Integrated_IT_7037/Database Management Systems/ANS_Database Management Systems(702AI0C001)_2025-2026.docx`
-- Text: docx (1 page)
-
-````text
-﻿SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF   TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-|
-Program/s: ___BTech IT/MBATech IT/BTech Cyber /BTI IT___
-Stream/s : Information Technology
-| Year: 2 Semester: V/IX
-|
-Subject: ___DBMS
-| Time: _3__ hrs (______to_______)
-|
-Date:   /   / 2025
-| No. of Pages:__3___
-|
-Marks: __100_______
-|
-|
-Final Examination/Re-Examination ( Re-exam year)
-|
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4___ questions.
-3) In all ___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary.
-SET 1- synoptic
-
-Q1
-
-|
-| Answer the following questions
-| [20]
-|
-CO-   1;
-SO- 2;
-BL- 1
-| a
-| What are data models? Explain the Relational Model.
-1. Definition of Data Models (2 Marks)
-
-A   data model   is a   conceptual framework   that describes how data are   structured, stored, and manipulated   in a database system.
-It defines the   logical structure   of the database — the relationships among data, the constraints, and the operations that can be performed.
-Common types include:
-Hierarchical Model
-Network Model
-Relational Model
-Object Oriented Model
-
-2. Relational Model (3 Marks)
-
-The   Relational Model   organizes data into   relations (tables)   consisting of   rows and columns   .
-Each   table (relation)   represents an   entity   , each   row (tuple)   represents a   record   , and each   column (attribute)   represents a   data field   .
-Every relation has a   Primary Key   that uniquely identifies each tuple.
-Foreign Keys   are used to establish relationships between tables.
-Data are manipulated using   Relational Algebra   and the   SQL language   for operations like selection, projection, join, and union.
-
-Example:
-
-| StudentID | Name   | Branch |
-|   |   |   |
-| S101   | Riya   | IT   |
-| S102   | Arjun | CS   |
-
-Here,   StudentID   → Primary Key; the table “Student” represents the   Student entity   .
-| [5]
-|
-CO-   2;
-SO - 2;
-BL- 2
-| b
-| 1. Features of a Good Database Design (4 Marks)
-
-Data Integrity and Consistency:
-
-Each piece of data is stored only once (no redundancy), ensuring consistency.
-
-Example: Customer details stored in one CUSTOMER table, not repeated in every ORDER record.
-
-Minimal Data Redundancy:
-
-Redundant data causes update anomalies and wasted storage.
-
-Example: Instead of repeating department names for every employee, use a separate DEPARTMENT table with a foreign key reference.
-
-Proper Use of Normalization:
-
-Splitting large tables into smaller ones to remove partial and transitive dependencies (1NF–3NF).
-
-Example: Separating EMPLOYEE(EmpID, EmpName, DeptID) and DEPARTMENT(DeptID, DeptName).
-
-Clear Entity–Relationship Mapping:
-
-Logical relationships (1:1, 1:N, M:N) must be clearly defined using primary and foreign keys.
-
-Example: One‐to‐many between CUSTOMER and ORDER.
-
-Scalability and Performance:
-
-Well-designed indexes and relationships support fast queries and future data growth.
-
-Example: Indexing OrderID in ORDERS table speeds up retrieval.
-
-Remove Insert Update Anomalies
-
-2. Conclusion (1 Mark)
-
-A good database design is normalized, non-redundant, and supports data integrity, leading to efficient storage, accurate information, and simplified maintenance.
-| [5]
-|
-CO-   3 ;
-SO - 2;
-BL- 2
-| c
-| (a) Superkeys: [2Marks]
-{RollNo}, {Email}, {AadhaarNo}, {RollNo, Name}, {Email, Phone}, etc.
-(b) Candidate Keys: [2Marks]   - minimal keys
-{RollNo}, {Email}, {AadhaarNo}
-(c) Primary Key:   - only one to be written from candidate keys
-RollNo —unique.   [1Marks]
-| [5]
-|
-CO-   4 ;
-SO - 2;
-BL-1
-| d
-| What is the significance of CAP theorem in NOSQL
-The CAP Theorem is a fundamental principle in NoSQL databases that describes the trade-offs among three key properties:
-1.Consistency (C): Every read receives the most recent write or an error.
-2.Availability (A): Every request receives a response, regardless of the state of the data.
-3.Partition Tolerance (P): The system continues to operate even if network partitions or communication failures occur.
-Significance in NoSQL:
-•NoSQL databases are often distributed systems. The CAP theorem explains that it is impossible to achieve all three properties simultaneously; a database can only fully guarantee two out of three.
-•For example:
-oMongoDB prioritizes Consistency + Partition Tolerance (CP) by default.
-oCassandra prioritizes Availability + Partition Tolerance (AP).
-•This helps developers choose the right database and configure it according to application needs, balancing consistency, availability, and fault tolerance.
-"
-| [5]
-|
-Q2
-|
-|
-| [20]
-|
-CO- 1   ;
-SO - 2;
-BL-2
-| a
-|
-All Entities drawn – 2M
-All attributes   - 2M
-Relationships – 2M
-Cardinality – 2M
-Participation – 2M
-
-| [10]
-|
-CO- 2   ;
-SO - 2;
-BL- 2
-| b
-| Consider following movie database:
-
-users (user_id, full_name, city, contact_no)
-restaurants (restaurant_id, name, address, price level, is active)
-dishes (dish_id, restaurant, name, price, is_veg, is spicy)
-ratings (user_id, dish_id, rating, rated_at, feedback)
-
-Write the SQL queries   the following question:
-| [10]
-|
-
-| i
-| Add a new column “email” to users table
-Ans:
-ALTER TABLE users
-ADD COLUMN email VARCHAR (40);
-
-| [2]
-|
-
-| ii
-| Modify table dishes to enforce business rules “dishes.price must be > 0.” using CHECK constraints
-Ans:
-ALTER TABLE dishes
-ADD CONSTRAINT chk_price
-CHECK (price > 0);
-| [2]
-|
-
-| iii
-| Select all veg, not-spicy dishes with price <= 250 from active restaurants.
-Ans:
-SELECT d.name AS dish, r.name AS restaurant, d.price
-FROM dishes d, restaurants r
-Where r. restaurant_id = d. restaurant_id and r.is_active = ‘yes’   AND d.is_veg = ‘yes’   AND d.is_spicy is ‘No’ and d. price <= 250
-| [2]
-|
-
-| iv
-| Show each restaurant’s average rating and number of ratings but return only those with at least 2 ratings and an average ≥ 4.0.
-Ans:
-SELECT r.name AS restaurant, ROUND (AVG (rt. rating), 2) AS avg_rating,
-COUNT (rt. rating) AS rating_count
-FROM restaurants r, dishes d, ratings rt where d. restaurant_id = r. restaurant_id
-And rt. dish_id = d. dish_id
-GROUP BY r. restaurant_id, r.name
-HAVING COUNT (rt. rating) >= 2
-AND AVG (rt. rating) >= 4.0
-| [2]
-|
-
-| v
-| Create a view called user_ratings which will show each rating alongside the user who gave it.
-CREATE OR REPLACE VIEW user_ratings AS
-SELECT   u.user_id, u. full_name, u. city, u. contact_no, r. dish_id, r. rating, r. rated_at,
-r. feedback
-FROM ratings r JOIN users u
-ON u.user_id = r.user_id;
-| [2]
-|
-Q3
-|
-|
-| [20]
-|
-CO-   1 ;
-SO - 2;
-BL- 2
-| a.
-| Entity /attribute to table/columns   - 6 M
-Resolve Relationships – 2M
-Indicate Primary key / foreign key – 2 M
-
-Relational Schema Conversion
-1. USER
-USER(u_id PRIMARY KEY,   name,   email)
-2. ADDRESS
-ADDRESS(a_id PRIMARY KEY,   city,   state,   country,   u_id FOREIGN KEY REFERENCES USER(u_id))
-Relationship: User – lives in – Address → 1-to-M (one user can have many addresses)
-
-3. ORDER
-ORDER(o_no PRIMARY KEY,   order_amount,   order_date,   u_id FOREIGN KEY REFERENCES USER(u_id))
-Relationship: User – places – Order → 1-to-M
-
-4. TRACKING_DETAIL
-TRACKING_DETAIL(trac_id PRIMARY KEY,   status,   o_no FOREIGN KEY REFERENCES ORDER(o_no))
-Relationship: Order – contains – Tracking_detail → 1-to-M
-
-5. PRODUCT_CATEGORY
-PRODUCT_CATEGORY(cat_id PRIMARY KEY,   cat_name)
-
-6. PRODUCT
-PRODUCT(p_id PRIMARY KEY,   p_name,   price,   description,   cat_id FOREIGN KEY REFERENCES PRODUCT_CATEGORY(cat_id))
-Relationship: Product – has – Product_Category → M-to-1
-
-7. CART
-CART(cart_id PRIMARY KEY)
-
-8. PRODUCT_CART (resolving M-N between Product and Cart)
-PRODUCT_CART(p_id   FOREIGN KEY REFERENCES PRODUCT(p_id),
-cart_id FOREIGN KEY REFERENCES CART(cart_id),
-PRIMARY KEY (p_id, cart_id))
-Relationship: Product – added to – Cart → M-to-N
-
-9. ORDER_PRODUCT (resolving M-N between Order and Product)
-ORDER_PRODUCT(o_no FOREIGN KEY REFERENCES ORDER(o_no),
-p_id FOREIGN KEY REFERENCES PRODUCT(p_id),
-PRIMARY KEY (o_no, p_id))
-Relationship: Order – contains – Product → M-to-N
-
-| [10]
-|
-CO-   3 ;
-SO - 2;
-BL- 3
-| b.
-
-| (i) Partial & Transitive dependencies (3 marks)
-Candidate key (in SALES): ({OrderID, ProdID})(Quantity needs both; everything else is determined by either OrderID, CustID, ProdID, or SalespersonID.)
-Partial dependencies (depend on part of composite key)
-OrderID → OrderDate, CustID, SalespersonID(These don’t need ProdID.)
-ProdID → ProdName, UnitPrice(These don’t need OrderID.)
-SalespersonID → SalespersonName, SalespersonRegion andCustID → CustName, CustCity are not on the key, but in the single SALES table they appear as attributes that are determined by non-key attributes—handled under transitive below.
-Transitive dependencies (key → nonkey → other nonkeys)
-OrderID → CustID and CustID → CustName, CustCity⇒ OrderID → CustName, CustCity (transitive).
-OrderID → SalespersonID and SalespersonID → SalespersonName, SalespersonRegion⇒ OrderID → SalespersonName, SalespersonRegion (transitive).
-Full dependency:
-({OrderID, ProdID} → Quantity) (depends on the whole key, not partial).
-(ii) Decomposition to 3NF (step-by-step) (5 marks)
-Start:SALES(OrderID, OrderDate, CustID, CustName, CustCity, ProdID, ProdName, UnitPrice, Quantity, SalespersonID, SalespersonName, SalespersonRegion)
-Step 1: Remove partial dependencies (to reach 2NF)
-Create relations on determinants of partial dependencies:
-ORDER(OrderID, OrderDate, CustID, SalespersonID)(from OrderID → OrderDate, CustID, SalespersonID)
-PRODUCT(ProdID, ProdName, UnitPrice)(from ProdID → ProdName, UnitPrice)
-Keep line items for the fully dependent attribute:SALES_LINE(OrderID, ProdID, Quantity) with PK (OrderID, ProdID)
-Step 2: Remove transitive dependencies (to reach 3NF)
-Separate dependents of non-key determinants:4. CUSTOMER(CustID, CustName, CustCity)(from CustID → CustName, CustCity)5. SALESPERSON(SalespersonID, SalespersonName, SalespersonRegion)(from SalespersonID → SalespersonName, SalespersonRegion)
-Now, in ORDER, CustID and SalespersonID remain as foreign keys only; their descriptive attributes moved to their own tables, removing transitive dependencies.
-All resulting tables are in 3NF:
-Every non-key attribute depends on the key, the whole key, and nothing but the key in its table.
-(iii) Final set of relations with keys (2 marks)
-ORDER(OrderID, OrderDate, CustID, SalespersonID)FK: CustID → CUSTOMER, SalespersonID → SALESPERSON
-CUSTOMER(CustID, CustName, CustCity)
-SALESPERSON(SalespersonID, SalespersonName, SalespersonRegion)
-PRODUCT(ProdID, ProdName, UnitPrice)
-SALES_LINE(OrderID, ProdID, Quantity)FK: OrderID → ORDER, ProdID → PRODUCT
-This decomposition is lossless and preserves the given FDs, with SALES_LINE capturing the many-to-many between orders and products plus Quantity.
-| [10]
-|
-Q4
-|
-|
-| [20]
-|
-CO-   1 ;
-SO - 2;
-BL-2
-| a.
-| Discuss the major difficulties encountered while creating a database from scratch, and illustrate your answer with suitable examples.
-Building a database from scratch involves several conceptual, technical, and organizational challenges that must be carefully addressed to ensure efficiency, accuracy, and long-term usability.
-1.Requirement Analysis:
-2.Data Modeling Challenges:
-3.Data Redundancy and Integrity:
-4.Normalization and Performance Balance:
-5.Security and Access Control:
-6.Scalability and Future Growth:
-7.Backup and Recovery Planning:
-
-| [10]
-|
-CO-   2 ;
-SO - 2;
-BL-2
-| b.
-| Solve the following queries using relational algebra
-Customer(CustomerID, CustomerName, City)
-Order(OrderID, OrderDate, CustomerID)
-Product(ProductID, ProductName, Price)
-Order_Product(OrderID, ProductID, Quantity)
-Find the names of customers who have placed at least one order.
-
-Get the customer names and order IDs for orders placed after ‘2024-01-01’.
-
-List all products ordered by customers who live in ‘Chicago’.
-
-List the products that have been ordered by any customer with a quantity greater than 1
-
-Find all customers located in New York and have ordered something in month of October 2024(assume date is in yyyy-mm-dd)
-
-| [10]
-|
-Q5
-|
-|
-| [20]
-|
-CO-   2 ;
-SO - 2;
-BL-2
-| a.
-| Consider the following table:
-employee (employee_id, first_name , last_name, email, phone_number , hire_date, job_id , salary, commission_pct , manager_id , department_id )
-
-Write the SQL queries   the following question:
-| [10]
-|
-
-| i
-| Write a SQL query to find those employees who receive a higher salary than the employee with ID 163. Return first name, last name.
-Ans:
-SELECT first_name, last_name
-FROM employees
-WHERE salary >
-( SELECT salary
-FROM employees
-WHERE employee_id=163
-);
-| [3]
-|
-
-| ii
-| Write a SQL query to find out which employees have the same designation as the employee whose ID is 169. Return first name, last name, department ID and job ID.
-Ans:
-SELECT first_name, last_name, salary, department_id, job_id
-FROM employees
-WHERE job_id =
-( SELECT job_id
-FROM employees
-WHERE employee_id=169
-);
-| [3]
-|
-
-| iii
-| Write a SQL query to find those employees whose salary matches the lowest salary of any of the departments. Return first name, last name and department ID
-SELECT first_name, last_name, salary, department_id
-FROM employees
-WHERE salary IN
-(SELECT MIN(salary)
-FROM employees
-GROUP BY department_id
-);
-| [4]
-|
-CO-   4 ;
-SO - 2;
-BL- 2
-| b.
-|
-
-It is not conflict serializable as the graph is   cyclic.
-Step
-| T1
-| T2
-| T3
-|
-1
-| T1: Read(A)
-|
-|
-|
-2
-|
-| T2: Read(A)
-|
-|
-3
-| T1: Write(A)
-|
-|
-|
-4
-|
-| T2: Write(A)
-|
-|
-5
-|
-| T2: Read(B)
-|
-|
-6
-|
-|
-| T3: Read(B)
-|
-7
-|
-| T2: Write(B)
-|
-|
-8
-|
-|
-| T3: Write(B)
-|
-
-Serializability ensures that a concurrent execution is equivalent to some serial order of transactions. This preserves database correctness by preventing anomalies such as lost updates, dirty reads, non-repeatable reads, and inconsistent results—while still allowing concurrency for performance.
-
-| [10]
-|
-Q6
-|
-|
-| [20]
-|
-CO- 4   ;
-SO - 2;
-BL-3
-| a.
-| 1. Definition of a Transaction
-A transaction is a logical unit of database processing that consists of one or more database operations such as read, write, insert, update, or delete.
-It represents a single, indivisible unit of work that must be executed completely or not at all.
-Example:
-T1:
-Read(A)
-A = A – 100
-Write(A)
-Read(B)
-B = B + 100
-Write(B)
-This transaction transfers ₹100 from account A to account B.
-2. ACID Properties of a Transaction
-PropertyMeaningExample
-AtomicityAll operations in a transaction must complete successfully; if any fails, the entire transaction is rolled back.If the debit from A succeeds but the credit to B fails, both changes are undone.
-ConsistencyA transaction transforms the database from one consistent state to another, maintaining all integrity constraints.The total balance (A + B) remains the same before and after the transfer.
-IsolationConcurrent transactions should not interfere with each other; intermediate states are invisible to others.While T1 transfers money, another transaction T2 cannot read the partially updated balance of A or B.
-DurabilityOnce a transaction commits, its effects are permanently recorded in the database, even after system failures.After committing, the ₹100 transfer remains intact even if the system crashes.
-3. Conflict Serializability
-A schedule is conflict-serializable if it can be transformed into a serial schedule by swapping non-conflicting operations.
-Two operations conflict if:
-1.They belong to different transactions.
-2.They operate on the same data item.
-3.At least one is a write operation.
-Example:
-StepTransactionOperation
-1T1Read(A)
-2T2Read(A)
-3T1Write(A)
-4T2Write(A)
-Here, conflicts occur between T1 and T2 on A.
-Precedence graph: T1 → T2 (no cycle) ⇒ Conflict-serializable, equivalent to serial order T1 → T2.
-4. View Serializability
-A schedule is view-serializable if it is view-equivalent to some serial schedule, i.e.,
-•Both schedules have the same read-from relationships (who reads whose value).
-•Both have the same final writes on each data item.
-•Both start from the same initial state.
-Example:
-S1:   T1: W(A)
-T2: R(A), W(A)
-T3: R(A)
-If both T2 and T3 read the value of A written by T1 and T2 does the final write,
-then S1 is view-equivalent to the serial order T1 → T2 → T3.
-5. Difference between Conflict and View Serializability
-AspectConflict SerializabilityView Serializability
-BasisSwapping of non-conflicting operationsPreservation of read-from and final-write relationships
-DetectionUsing precedence (serialization) graphMore complex; requires comparing read/write dependencies
-StrictnessStronger form — every conflict-serializable schedule is view-serializableWeaker — some non-conflict-serializable schedules can still be view-serializable
-Ease of CheckEasier to test algorithmicallyHarder to test, computationally expensive
-ExampleSchedule without cycles in precedence graphSchedule with blind writes (where a value is overwritten without being read) may still be view-serializable but not conflict-serializable
-
-| [10]
-|
-CO- 4   ;
-SO - 2;
-BL-1
-| b.
-| Aspect
-| ACID (RDBMS)
-| BASE (NoSQL / Distributed Systems)
-|
-Philosophy
-| Ensures strict correctness and reliability
-| Focuses on scalability and availability
-|
-Consistency Model
-| Strong consistency – all nodes see same data instantly
-| Eventual consistency – nodes become consistent over time
-|
-System Type
-| Centralized or small-scale transactional systems
-| Distributed, large-scale, cloud-based systems
-|
-Transaction Handling
-| Transactions are atomic and isolated
-| Transactions may be broken or partial across nodes
-|
-Availability vs. Consistency
-| Prioritizes consistency over availability
-| Prioritizes availability over consistency
-|
-Response Time
-| Slower, due to strict locking and commit protocols
-| Faster, as some consistency is relaxed
-|
-Use Cases
-| Banking, financial, inventory systems
-| Social media feeds, e-commerce catalogs, IoT data
-|
-Error Recovery
-| Rollback ensures integrity after failures
-| Recovery through replication and eventual updates
-|
-CAP Theorem View
-| CP systems (Consistency + Partition tolerance)
-| AP systems (Availability + Partition tolerance)
-|
-Examples
-| Oracle, MySQL, PostgreSQL
-| Cassandra, MongoDB, Amazon DynamoDB
-|
-
-| [10]
-|
-Q7
-
-|
-|
-| [20]
-|
-CO-1   ;
-SO- 2;
-BL-1
-| A
-| Advantages of DBMS [5 Marks]
-Reduces Data Redundancy and Inconsistency– Data is stored centrally, avoiding duplication and ensuring all users see the same updated information.
-Improves Data Security– Access to data is controlled through authentication and authorization, protecting sensitive information.
-Ensures Data Integrity and Accuracy– Integrity constraints like primary keys and foreign keys maintain correctness of data values.
-Supports Concurrent Access and Sharing– Multiple users can work on the same database simultaneously without conflicts, using concurrency control.
-Provides Backup and Recovery– Automatic backup and recovery mechanisms protect data against crashes and system failures.
-
-| [5]
-|
-CO-   2 ;
-SO - 2;
-BL-2
-| b
-| Joins in SQL [5 Marks]
-Definition:A JOIN in SQL is used to combine rows from two or more tables based on a related column (usually a primary–foreign key relationship).
-1. INNER JOIN
-Returns only the matching rows from both tables.Example:
-SELECT Students.Name, Courses.CourseName
-FROM Students
-INNER JOIN Courses ON Students.CourseID = Courses.CourseID;
-Shows students who are enrolled in a course.
-2. LEFT JOIN (LEFT OUTER JOIN)
-Returns all rows from the left table, and matching rows from the right; non-matching rows show NULLs.Example:
-SELECT Students.Name, Courses.CourseName
-FROM Students
-LEFT JOIN Courses ON Students.CourseID = Courses.CourseID;
-Shows all students, even if not enrolled in any course.
-3. RIGHT JOIN (RIGHT OUTER JOIN)
-Returns all rows from the right table, and matching rows from the left; non-matching rows show NULLs.Example:
-SELECT Students.Name, Courses.CourseName
-FROM Students
-RIGHT JOIN Courses ON Students.CourseID = Courses.CourseID;
-Shows all courses, even if no student has enrolled.
-
-4. FULL JOIN (FULL OUTER JOIN)
-Returns all rows from both tables; unmatched rows are filled with NULLs.Example:
-SELECT Students.Name, Courses.CourseName
-FROM Students
-FULL JOIN Courses ON Students.CourseID = Courses.CourseID;
-Shows all students and all courses, with NULLs where no match exists.
-5. CROSS JOIN
-Produces Cartesian product — every row of the first table with every row of the second.Example:
-SELECT Students.Name, Courses.CourseName
-FROM Students
-CROSS JOIN Courses;
-Shows all possible combinations of students and courses.
-Summary:
-Type of Join
-| Description
-| Matching/Unmatched Rows
-|
-INNER JOIN
-| Common records only
-| Matching only
-|
-LEFT JOIN
-| All left + matching right
-| Unmatched right → NULL
-|
-RIGHT JOIN
-| All right + matching left
-| Unmatched left → NULL
-|
-FULL JOIN
-| All rows from both tables
-| Unmatched → NULL
-|
-CROSS JOIN
-| Cartesian product
-| No condition needed
-|
-
-| [5]
-|
-CO-   3;
-SO - 2;
-BL-3
-| C
-| Armstrong’s Axioms [5 Marks]
-Definition:Armstrong’s Axioms are a set of inference rules used to derive all possible functional dependencies (FDs) from a given set of FDs in a relational schema.They form the theoretical foundation for normalization and dependency closure.
-1. Basic Axioms
-Axiom
-| Rule Description
-| Example
-|
-a) Reflexivity
-| If Y ⊆ X, then X → Y. (A set of attributes determines any of its subsets.)
-| If X = {A, B} then {A, B} → {A}.
-|
-b) Augmentation
-| If X → Y, then XZ → YZ. (Adding the same attribute(s) to both sides preserves the dependency.)
-| If A → B, then AC → BC.
-|
-c) Transitivity
-| If X → Y and Y → Z, then X → Z. (Dependencies can be chained.)
-| If A → B and B → C, then A → C.
-|
-2. Derived (Additional) Axioms
-Using the three basic rules, the following can be derived:
-Derived Axiom
-| Meaning
-|
-Union (Additivity)
-| If X → Y and X → Z, then X → YZ
-|
-Decomposition (Projectivity)
-| If X → YZ, then X → Y and X → Z
-|
-Pseudo-transitivity
-| If X → Y and YZ → W, then XZ → W
-|
-
-3. Importance
-These axioms help in finding attribute closure (X⁺)
-Used to test dependency preservation and lossless decomposition during normalization.
-
-| [5]
-|
-CO-   4 ;
-SO - 2;
-BL-1
-| d
-| "Key Value Pair Based
-
-Data is stored in key/value pairs. It is designed in such a way to handle lots of data and heavy load.
-Key-value pair storage databases store data as a hash table where each key is unique, and the value can be a JSON, BLOB(Binary Large Objects), string, etc.
-For example, a key-value pair may contain a key like ""Website"" associated with a value like ""Guru99"".
-
-It is one of the most basic types of NoSQL databases. This kind of NoSQL database is used as a collection, dictionaries, associative arrays, etc. Key value stores help the developer to store schema-less data. They work best for shopping cart contents.
-Redis, Dynamo, Riak are some examples of key-value store DataBases. They are all based on Amazon's Dynamo paper.
-Column-based
-Column-oriented databases work on columns and are based on BigTable paper by Google. Every column is treated separately. Values of single column databases are stored contiguously.
-
-Column based NoSQL database
-They deliver high performance on aggregation queries like SUM, COUNT, AVG, MIN etc. as the data is readily available in a column.
-Column-based NoSQL databases are widely used to manage data warehouses, business intelligence, CRM, Library card catalogs,
-HBase, Cassandra, HBase, Hypertable are examples of column based database.
-"
-| [5]
-|
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 3d433289eae7
@@ -22039,6 +20759,1286 @@ CO2;   5M
 SO6;   D. Any 3 Problems – Each has (2+2+1) marks
 BL2
 ********** 6 **********
+````
+
+## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 0847fa8bb705
+
+- Departments: Cyber Security, Information Technology
+- Programmes: BTech CyberSecurity 7010, BTech IT 7001
+- Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CyberSecurity_7010/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf` (+1 identical copies)
+- Text: text (12 pages)
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+Program/s: ___BTech IT/MBATech IT/BTech Cyber /BTI IT___   Year: 2 Semester: V/IX
+Stream/s : Information Technology
+Subject: ___DBMS   Time: _3__ hrs (______to_______)
+Date:   /   / 2025   No. of Pages:__3___
+Marks: __100_______
+Final Examination/Re-Examination ( Re-exam year)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4___ questions.
+3) In all ___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary.
+SET 1- synoptic
+Q1   Answer the following questions   [20]
+CO- 1;   a   What are data models? Explain the Relational Model.   [5]
+SO- 2;   1. Definition of Data Models (2 Marks)
+BL- 1
+A data model   is a conceptual framework that describes how data are structured,
+stored, and manipulated in a database system.
+It defines the   logical structure   of the database — the relationships among data, the
+constraints, and the operations that can be performed.
+Common types include:
+•   Hierarchical Model
+•   Network Model
+•   Relational Model
+•   Object Oriented Model
+2. Relational Model (3 Marks)
+The Relational Model organizes data into relations (tables) consisting of rows and
+columns .
+Each table (relation) represents an entity , each row (tuple) represents a record ,
+and each column (attribute) represents a data field .
+Every relation has a Primary Key that uniquely identifies each tuple.
+Foreign Keys are used to establish relationships between tables.
+Data are manipulated using Relational Algebra and the SQL language for operations
+like selection, projection, join, and union.
+--- page 2 ---
+Example:
+| StudentID | Name   | Branch |
+|   |   |   |
+| S101   | Riya   | IT   |
+| S102   | Arjun | CS   |
+Here, StudentID → Primary Key; the table “Student” represents the Student entity .
+CO- 2;   b   1. Features of a Good Database Design (4 Marks)   [5]
+SO - 2;
+BL- 2   Data Integrity and Consistency:
+Each piece of data is stored only once (no redundancy), ensuring consistency.
+Example: Customer details stored in one CUSTOMER table, not repeated in every ORDER
+record.
+Minimal Data Redundancy:
+Redundant data causes update anomalies and wasted storage.
+Example: Instead of repeating department names for every employee, use a separate
+DEPARTMENT table with a foreign key reference.
+Proper Use of Normalization:
+Splitting large tables into smaller ones to remove partial and transitive dependencies (1NF–
+3NF).
+Example:   Separating   EMPLOYEE(EmpID,   EmpName,   DeptID)   and
+DEPARTMENT(DeptID, DeptName).
+Clear Entity–Relationship Mapping:
+Logical relationships (1:1, 1:N, M:N) must be clearly defined using primary and foreign
+keys.
+Example: One‐to‐many between CUSTOMER and ORDER.
+Scalability and Performance:
+Well-designed indexes and relationships support fast queries and future data growth.
+Example: Indexing OrderID in ORDERS table speeds up retrieval.
+Remove Insert Update Anomalies
+2. Conclusion (1 Mark)
+A good database design is normalized, non-redundant, and supports data integrity, leading
+to efficient storage, accurate information, and simplified maintenance.
+CO- 3 ;   c   (a) Superkeys: [2Marks]   [5]
+SO - 2;   {RollNo}, {Email}, {AadhaarNo}, {RollNo, Name}, {Email, Phone}, etc.
+BL- 2   (b) Candidate Keys: [2Marks] - minimal keys
+{RollNo}, {Email}, {AadhaarNo}
+(c) Primary Key:   - only one to be written from candidate keys
+--- page 3 ---
+RollNo —unique. [1Marks]
+CO- 4 ;   d   What is the significance of CAP theorem in NOSQL   [5]
+SO - 2;   The CAP Theorem is a fundamental principle in NoSQL databases that describes the trade-
+BL-1   offs among three key properties:
+1.   Consistency (C): Every read receives the most recent write or an error.
+2.   Availability (A): Every request receives a response, regardless of the state of the
+data.
+3.   Partition Tolerance (P): The system continues to operate even if network partitions
+or communication failures occur.
+Significance in NoSQL:
+•   NoSQL databases are often distributed systems. The CAP theorem explains that
+it is impossible to achieve all three properties simultaneously; a database can only fully
+guarantee two out of three.
+•   For example:
+o   MongoDB prioritizes Consistency + Partition Tolerance (CP) by default.
+o   Cassandra prioritizes Availability + Partition Tolerance (AP).
+•   This helps developers choose the right database and configure it according to
+application needs, balancing consistency, availability, and fault tolerance.
+"
+Q2   [20]
+CO- 1 ;   a   [10]
+SO - 2;   All Entities drawn – 2M
+BL-2   All attributes - 2M
+Relationships – 2M
+Cardinality – 2M
+Participation – 2M
+CO- 2 ;   b   Consider following movie database:   [10]
+SO - 2;
+BL- 2   users (user_id, full_name, city, contact_no)
+restaurants (restaurant_id, name, address, price level, is active)
+dishes (dish_id, restaurant, name, price, is_veg, is spicy)
+ratings (user_id, dish_id, rating, rated_at, feedback)
+Write the SQL queries the following question:
+--- page 4 ---
+i   Add a new column “email” to users table   [2]
+Ans:
+ALTER TABLE users
+ADD COLUMN email VARCHAR (40);
+ii   Modify table dishes to enforce business rules “dishes.price must be > 0.” using CHECK   [2]
+constraints
+Ans:
+ALTER TABLE dishes
+ADD CONSTRAINT chk_price
+CHECK (price > 0);
+iii   Select all veg, not-spicy dishes with price <= 250 from active restaurants.   [2]
+Ans:
+SELECT d.name AS dish, r.name AS restaurant, d.price
+FROM dishes d, restaurants r
+Where r. restaurant_id = d. restaurant_id and r.is_active = ‘yes’ AND d.is_veg = ‘yes’
+AND d.is_spicy is ‘No’ and d. price <= 250
+iv   Show each restaurant’s average rating and number of ratings but return only those with at   [2]
+least 2 ratings and an average ≥ 4.0.
+Ans:
+SELECT r.name AS restaurant, ROUND (AVG (rt. rating), 2) AS avg_rating,
+COUNT (rt. rating) AS rating_count
+FROM restaurants r, dishes d, ratings rt where d. restaurant_id = r. restaurant_id
+And rt. dish_id = d. dish_id
+GROUP BY r. restaurant_id, r.name
+HAVING COUNT (rt. rating) >= 2
+AND AVG (rt. rating) >= 4.0
+v   Create a view called user_ratings which will show each rating alongside the user who   [2]
+gave it.
+CREATE OR REPLACE VIEW user_ratings AS
+SELECT u.user_id, u. full_name, u. city, u. contact_no, r. dish_id, r. rating, r. rated_at,
+r. feedback
+FROM ratings r JOIN users u
+ON u.user_id = r.user_id;
+Q3   [20]
+CO- 1 ;   a.   Entity /attribute to table/columns - 6 M   [10]
+SO - 2;   Resolve Relationships – 2M
+BL- 2   Indicate Primary key / foreign key – 2 M
+Relational Schema Conversion
+1. USER
+USER(u_id PRIMARY KEY,   name,   email)
+2. ADDRESS
+ADDRESS(a_id PRIMARY KEY,   city,   state,   country,   u_id FOREIGN
+KEY REFERENCES USER(u_id))
+Relationship: User – lives in – Address → 1-to-M (one user can have many addresses)
+3. ORDER
+ORDER(o_no PRIMARY KEY,   order_amount,   order_date,   u_id FOREIGN
+KEY REFERENCES USER(u_id))
+Relationship: User – places – Order → 1-to-M
+4. TRACKING_DETAIL
+--- page 5 ---
+TRACKING_DETAIL(trac_id PRIMARY KEY,   status,   o_no
+FOREIGN KEY REFERENCES ORDER(o_no))
+Relationship: Order – contains – Tracking_detail → 1-to-M
+5. PRODUCT_CATEGORY
+PRODUCT_CATEGORY(cat_id PRIMARY KEY,   cat_name)
+6. PRODUCT
+PRODUCT(p_id PRIMARY KEY,   p_name,   price,   description,   cat_id
+FOREIGN KEY REFERENCES PRODUCT_CATEGORY(cat_id))
+Relationship: Product – has – Product_Category → M-to-1
+7. CART
+CART(cart_id PRIMARY KEY)
+8. PRODUCT_CART (resolving M-N between Product and Cart)
+PRODUCT_CART(p_id FOREIGN KEY REFERENCES PRODUCT(p_id),
+cart_id FOREIGN KEY REFERENCES CART(cart_id),
+PRIMARY KEY (p_id, cart_id))
+Relationship: Product – added to – Cart → M-to-N
+9. ORDER_PRODUCT (resolving M-N between Order and Product)
+ORDER_PRODUCT(o_no FOREIGN KEY REFERENCES ORDER(o_no),
+p_id FOREIGN KEY REFERENCES PRODUCT(p_id),
+PRIMARY KEY (o_no, p_id))
+Relationship: Order – contains – Product → M-to-N
+CO- 3 ;   b.   (i) Partial & Transitive dependencies (3 marks)   [10]
+SO - 2;
+BL- 3   Candidate key (in SALES): ({OrderID, ProdID})
+(Quantity needs both; everything else is determined by either OrderID, CustID, ProdID,
+or SalespersonID.)
+Partial dependencies (depend on part of composite key)
+•   OrderID → OrderDate, CustID, SalespersonID
+(These don’t need ProdID.)
+•   ProdID → ProdName, UnitPrice
+(These don’t need OrderID.)
+•   SalespersonID → SalespersonName, SalespersonRegion and
+CustID → CustName, CustCity are not on the key, but in the single SALES table
+they appear as attributes that are determined by non-key attributes—handled
+under transitive below.
+Transitive dependencies (key → nonkey → other nonkeys)
+•   OrderID ⇒   → CustID and CustID → CustName, CustCity
+OrderID → CustName, CustCity (transitive).
+•   OrderID → SalespersonID and SalespersonID → SalespersonName,
+SalespersonRegion ⇒
+OrderID → SalespersonName, SalespersonRegion (transitive).
+Full dependency:
+--- page 6 ---
+•   ({OrderID, ProdID} → Quantity) (depends on the whole key, not partial).
+(ii) Decomposition to 3NF (step-by-step) (5 marks)
+Start:
+SALES(OrderID, OrderDate, CustID, CustName, CustCity, ProdID, ProdName,
+UnitPrice, Quantity, SalespersonID, SalespersonName, SalespersonRegion)
+Step 1: Remove partial dependencies (to reach 2NF)
+Create relations on determinants of partial dependencies:
+1. ORDER(OrderID, OrderDate, CustID, SalespersonID)
+(from OrderID → OrderDate, CustID, SalespersonID)
+2. PRODUCT(ProdID, ProdName, UnitPrice)
+(from ProdID → ProdName, UnitPrice)
+3. Keep line items for the fully dependent attribute:
+SALES_LINE(OrderID, ProdID, Quantity) with PK (OrderID, ProdID)
+Step 2: Remove transitive dependencies (to reach 3NF)
+Separate dependents of non-key determinants:
+4. CUSTOMER(CustID, CustName, CustCity)
+(from CustID → CustName, CustCity)
+5. SALESPERSON(SalespersonID, SalespersonName, SalespersonRegion)
+(from SalespersonID → SalespersonName, SalespersonRegion)
+Now, in ORDER, CustID and SalespersonID remain as foreign keys only; their
+descriptive attributes moved to their own tables, removing transitive dependencies.
+All resulting tables are in 3NF:
+•   Every non-key attribute depends on the key, the whole key, and nothing but the
+key in its table.
+(iii) Final set of relations with keys (2 marks)
+•   ORDER(OrderID, OrderDate, CustID, SalespersonID)
+FK: CustID → CUSTOMER, SalespersonID → SALESPERSON
+• CUSTOMER(CustID, CustName, CustCity)
+•   SALESPERSON(SalespersonID, SalespersonName, SalespersonRegion)
+• PRODUCT(ProdID, ProdName, UnitPrice)
+•   SALES_LINE(OrderID, ProdID, Quantity)
+FK: OrderID → ORDER, ProdID → PRODUCT
+This decomposition is lossless and preserves the given FDs, with SALES_LINE capturing
+the many-to-many between orders and products plus Quantity.
+Q4   [20]
+CO- 1 ;   a.   Discuss the major difficulties encountered while creating a database from scratch, and   [10]
+SO - 2;   illustrate your answer with suitable examples.
+BL-2
+--- page 7 ---
+Building a database from scratch involves several conceptual, technical, and
+organizational challenges that must be carefully addressed to ensure efficiency, accuracy,
+and long-term usability.
+1.   Requirement Analysis:
+2.   Data Modeling Challenges:
+3.   Data Redundancy and Integrity:
+4.   Normalization and Performance Balance:
+5.   Security and Access Control:
+6.   Scalability and Future Growth:
+7.   Backup and Recovery Planning:
+CO- 2 ;   b.   Solve the following queries using relational algebra   [10]
+SO - 2;   Customer(CustomerID, CustomerName, City)
+BL-2   Order(OrderID, OrderDate, CustomerID)
+Product(ProductID, ProductName, Price)
+Order_Product(OrderID, ProductID, Quantity)
+(i) Find the names of customers who have placed at least one order.
+(ii) Get the customer names and order IDs for orders placed after ‘2024-01-01’.
+(iii) List all products ordered by customers who live in ‘Chicago’.
+(iv) List the products that have been ordered by any customer with a quantity greater than
+1
+(v) Find all customers located in New York and have ordered something in month of
+October 2024(assume date is in yyyy-mm-dd)
+Q5   [20]
+CO- 2 ;   a.   Consider the following table:   [10]
+SO - 2;   employee (employee_id, first_name , last_name, email, phone_number , hire_date, job_id
+BL-2   , salary, commission_pct , manager_id , department_id )
+Write the SQL queries the following question:
+i   Write a SQL query to find those employees who receive a higher salary than the employee   [3]
+with ID 163. Return first name, last name.
+Ans:
+SELECT first_name, last_name
+FROM employees
+WHERE salary >
+( SELECT salary
+FROM employees
+WHERE employee_id=163
+);
+ii   Write a SQL query to find out which employees have the same designation as the employee   [3]
+whose ID is 169. Return first name, last name, department ID and job ID.
+Ans:
+SELECT first_name, last_name, salary, department_id, job_id
+FROM employees
+--- page 8 ---
+WHERE job_id =
+( SELECT job_id
+FROM employees
+WHERE employee_id=169
+);
+iii   Write a SQL query to find those employees whose salary matches the lowest salary of any   [4]
+of the departments. Return first name, last name and department ID
+SELECT first_name, last_name, salary, department_id
+FROM employees
+WHERE salary IN
+(SELECT MIN(salary)
+FROM employees
+GROUP BY department_id
+);
+CO- 4 ;   b.   [10]
+SO - 2;
+BL- 2
+It is not conflict serializable as the graph is cyclic.
+Step   T1   T2   T3
+1   T1: Read(A)
+2   T2: Read(A)
+3   T1: Write(A)
+4   T2: Write(A)
+5   T2: Read(B)
+6   T3: Read(B)
+7   T2: Write(B)
+8   T3: Write(B)
+Serializability ensures that a concurrent execution is equivalent to some serial order of
+transactions. This preserves database correctness by preventing anomalies such as lost
+updates, dirty reads, non-repeatable reads, and inconsistent results—while still
+allowing concurrency for performance.
+Q6   [20]
+CO- 4 ;   a.   1. Definition of a Transaction   [10]
+SO - 2;   A transaction is a logical unit of database processing that consists of one or more database
+BL-3   operations such as read, write, insert, update, or delete.
+It represents a single, indivisible unit of work that must be executed completely or not at
+all.
+Example:
+T1:
+Read(A)
+A = A – 100
+Write(A)
+Read(B)
+B = B + 100
+--- page 9 ---
+Write(B)
+This transaction transfers ₹100 from account A to account B.
+2. ACID Properties of a Transaction
+Property Meaning Example
+Atomicity   All operations in a transaction must complete successfully; if any fails,
+the entire transaction is rolled back. If the debit from A succeeds but the credit to B fails,
+both changes are undone.
+Consistency   A transaction transforms the database from one consistent state to
+another, maintaining all integrity constraints.The total balance (A + B) remains the same
+before and after the transfer.
+Isolation Concurrent transactions should not interfere with each other; intermediate states
+are invisible to others.   While T1 transfers money, another transaction T2 cannot read
+the partially updated balance of A or B.
+Durability   Once a transaction commits, its effects are permanently recorded in the
+database, even after system failures.   After committing, the ₹100 transfer remains
+intact even if the system crashes.
+3. Conflict Serializability
+A schedule is conflict-serializable if it can be transformed into a serial schedule by
+swapping non-conflicting operations.
+Two operations conflict if:
+1.   They belong to different transactions.
+2.   They operate on the same data item.
+3.   At least one is a write operation.
+Example:
+Step   Transaction   Operation
+1   T1   Read(A)
+2   T2   Read(A)
+3   T1   Write(A)
+4   T2   Write(A)
+Here, conflicts occur between T1 and T2 ⇒ on A.
+Precedence graph: T1 → T2 (no cycle)   Conflict-serializable, equivalent to serial order
+T1 → T2.
+4. View Serializability
+A schedule is view-serializable if it is view-equivalent to some serial schedule, i.e.,
+•   Both schedules have the same read-from relationships (who reads whose value).
+•   Both have the same final writes on each data item.
+•   Both start from the same initial state.
+Example:
+S1: T1: W(A)
+T2: R(A), W(A)
+T3: R(A)
+If both T2 and T3 read the value of A written by T1 and T2 does the final write,
+then S1 is view-equivalent to the serial order T1 → T2 → T3.
+5. Difference between Conflict and View Serializability
+Aspect Conflict Serializability   View Serializability
+Basis   Swapping of non-conflicting operations   Preservation of read-from and final-
+write relationships
+Detection   Using precedence (serialization) graph   More complex; requires
+comparing read/write dependencies
+Strictness   Stronger form — every conflict-serializable schedule is view-
+serializable   Weaker — some non-conflict-serializable schedules can still be view-
+serializable
+Ease of Check   Easier to test algorithmically   Harder to test, computationally
+expensive
+--- page 10 ---
+Example Schedule without cycles in precedence graph   Schedule with blind writes
+(where a value is overwritten without being read) may still be view-serializable but not
+conflict-serializable
+CO- 4 ;   b.   Aspect   ACID (RDBMS)   BASE (NoSQL / Distributed   [10]
+SO - 2;   Systems)
+BL-1   Philosophy   Ensures strict correctness   Focuses on scalability and
+and reliability   availability
+Consistency   Strong consistency – all   Eventual consistency – nodes
+Model   nodes see same data   become consistent over time
+instantly
+System Type   Centralized or small-scale   Distributed, large-scale, cloud-
+transactional systems   based systems
+Transaction   Transactions are atomic   Transactions may be broken or
+Handling   and isolated   partial across nodes
+Availability   Prioritizes consistency   Prioritizes availability over
+vs.   over availability   consistency
+Consistency
+Response   Slower, due to strict   Faster, as some consistency is
+Time   locking and commit   relaxed
+protocols
+Use Cases   Banking, financial,   Social media feeds, e-
+inventory systems   commerce catalogs, IoT data
+Error   Rollback ensures integrity   Recovery through replication
+Recovery   after failures   and eventual updates
+CAP Theorem CP systems (Consistency + AP systems (Availability +
+View   Partition tolerance)   Partition tolerance)
+Examples   Oracle, MySQL,   Cassandra, MongoDB,
+PostgreSQL   Amazon DynamoDB
+Q7   [20]
+CO-1 ;   A   Advantages of DBMS [5 Marks]   [5]
+SO- 2;   1. Reduces Data Redundancy and Inconsistency
+BL-1   – Data is stored centrally, avoiding duplication and ensuring all users see the
+same updated information.
+2. Improves Data Security
+– Access to data is controlled through authentication and authorization,
+protecting sensitive information.
+3. Ensures Data Integrity and Accuracy
+– Integrity constraints like primary keys and foreign keys maintain correctness of
+data values.
+4. Supports Concurrent Access and Sharing
+– Multiple users can work on the same database simultaneously without
+conflicts, using concurrency control.
+5. Provides Backup and Recovery
+– Automatic backup and recovery mechanisms protect data against crashes and
+system failures.
+CO- 2 ;   b   Joins in SQL [5 Marks]   [5]
+SO - 2;   Definition:
+BL-2   A JOIN in SQL is used to combine rows from two or more tables based on a related
+column (usually a primary–foreign key relationship).
+1. INNER JOIN
+--- page 11 ---
+Returns only the matching rows from both tables.
+Example:
+SELECT Students.Name, Courses.CourseName
+FROM Students
+INNER JOIN Courses ON Students.CourseID = Courses.CourseID;
+Shows students who are enrolled in a course.
+2. LEFT JOIN (LEFT OUTER JOIN)
+Returns all rows from the left table, and matching rows from the right; non-matching
+rows show NULLs.
+Example:
+SELECT Students.Name, Courses.CourseName
+FROM Students
+LEFT JOIN Courses ON Students.CourseID = Courses.CourseID;
+Shows all students, even if not enrolled in any course.
+3. RIGHT JOIN (RIGHT OUTER JOIN)
+Returns all rows from the right table, and matching rows from the left; non-matching
+rows show NULLs.
+Example:
+SELECT Students.Name, Courses.CourseName
+FROM Students
+RIGHT JOIN Courses ON Students.CourseID = Courses.CourseID;
+Shows all courses, even if no student has enrolled.
+4. FULL JOIN (FULL OUTER JOIN)
+Returns all rows from both tables; unmatched rows are filled with NULLs.
+Example:
+SELECT Students.Name, Courses.CourseName
+FROM Students
+FULL JOIN Courses ON Students.CourseID = Courses.CourseID;
+Shows all students and all courses, with NULLs where no match exists.
+5. CROSS JOIN
+Produces Cartesian product — every row of the first table with every row of the second.
+Example:
+SELECT Students.Name, Courses.CourseName
+FROM Students
+CROSS JOIN Courses;
+Shows all possible combinations of students and courses.
+Summary:
+Type of Join   Description   Matching/Unmatched Rows
+INNER JOIN Common records only   Matching only
+LEFT JOIN   All left + matching right   Unmatched right → NULL
+RIGHT JOIN   All right + matching left   Unmatched left → NULL
+FULL JOIN   All rows from both tables Unmatched → NULL
+CROSS JOIN   Cartesian product   No condition needed
+CO- 3;   C   Armstrong’s Axioms [5 Marks]   [5]
+SO - 2;   Definition:
+BL-3   Armstrong’s Axioms are a set of inference rules used to derive all possible functional
+dependencies (FDs) from a given set of FDs in a relational schema.
+They form the theoretical foundation for normalization and dependency closure.
+1. Basic Axioms
+Axiom   Rule Description
+--- page 12 ---
+⊆
+a) Reflexivity   If Y   X, then X → Y. (A set of attributes determines any   If X = {A, B} then {A,
+of its subsets.)   B} → {A}.
+b) Augmentation   If X → Y, then XZ → YZ. (Adding the same attribute(s) to   If A → B, then AC →
+both sides preserves the dependency.)   BC.
+c) Transitivity   If X → Y and Y → Z, then X → Z. (Dependencies can be   If A → B and B → C,
+chained.)   then A → C.
+2. Derived (Additional) Axioms
+Using the three basic rules, the following can be derived:
+Derived Axiom   Meaning
+Union (Additivity)   If X → Y and X → Z, then X → YZ
+Decomposition (Projectivity)   If X → YZ, then X → Y and X → Z
+Pseudo-transitivity   If X → Y and YZ → W, then XZ → W
+3. Importance
+•   These axioms help in finding attribute closure (X⁺)
+•   Used to test dependency preservation and lossless decomposition during
+normalization.
+CO- 4 ;   d   "Key Value Pair Based   [5]
+SO - 2;
+BL-1   Data is stored in key/value pairs. It is designed in such a way to handle lots of data and
+heavy load.
+Key-value pair storage databases store data as a hash table where each key is unique, and
+the value can be a JSON, BLOB(Binary Large Objects), string, etc.
+For example, a key-value pair may contain a key like ""Website"" associated with a value
+like ""Guru99"".
+It is one of the most basic types of NoSQL databases. This kind of NoSQL database is
+used as a collection, dictionaries, associative arrays, etc. Key value stores help the
+developer to store schema-less data. They work best for shopping cart contents.
+Redis, Dynamo, Riak are some examples of key-value store DataBases. They are all
+based on Amazon's Dynamo paper.
+Column-based
+Column-oriented databases work on columns and are based on BigTable paper by
+Google. Every column is treated separately. Values of single column databases are stored
+contiguously.
+Column based NoSQL database
+They deliver high performance on aggregation queries like SUM, COUNT, AVG, MIN
+etc. as the data is readily available in a column.
+Column-based NoSQL databases are widely used to manage data warehouses, business
+intelligence, CRM, Library card catalogs,
+HBase, Cassandra, HBase, Hypertable are examples of column based database.
+"
+````
+
+## 2024-25 · Final-Exam · Sem 7 · Answer key · paper 321595f9ea8e
+
+- Departments: Information Technology
+- Programmes: Integrated IT 7037
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/Integrated_IT_7037/Database Management Systems/ANS_Database Management Systems(702AI0C001)_2025-2026.docx`
+- Text: docx (1 page)
+
+````text
+﻿SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF   TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+|
+Program/s: ___BTech IT/MBATech IT/BTech Cyber /BTI IT___
+Stream/s : Information Technology
+| Year: 2 Semester: V/IX
+|
+Subject: ___DBMS
+| Time: _3__ hrs (______to_______)
+|
+Date:   /   / 2025
+| No. of Pages:__3___
+|
+Marks: __100_______
+|
+|
+Final Examination/Re-Examination ( Re-exam year)
+|
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4___ questions.
+3) In all ___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary.
+SET 1- synoptic
+
+Q1
+
+|
+| Answer the following questions
+| [20]
+|
+CO-   1;
+SO- 2;
+BL- 1
+| a
+| What are data models? Explain the Relational Model.
+1. Definition of Data Models (2 Marks)
+
+A   data model   is a   conceptual framework   that describes how data are   structured, stored, and manipulated   in a database system.
+It defines the   logical structure   of the database — the relationships among data, the constraints, and the operations that can be performed.
+Common types include:
+Hierarchical Model
+Network Model
+Relational Model
+Object Oriented Model
+
+2. Relational Model (3 Marks)
+
+The   Relational Model   organizes data into   relations (tables)   consisting of   rows and columns   .
+Each   table (relation)   represents an   entity   , each   row (tuple)   represents a   record   , and each   column (attribute)   represents a   data field   .
+Every relation has a   Primary Key   that uniquely identifies each tuple.
+Foreign Keys   are used to establish relationships between tables.
+Data are manipulated using   Relational Algebra   and the   SQL language   for operations like selection, projection, join, and union.
+
+Example:
+
+| StudentID | Name   | Branch |
+|   |   |   |
+| S101   | Riya   | IT   |
+| S102   | Arjun | CS   |
+
+Here,   StudentID   → Primary Key; the table “Student” represents the   Student entity   .
+| [5]
+|
+CO-   2;
+SO - 2;
+BL- 2
+| b
+| 1. Features of a Good Database Design (4 Marks)
+
+Data Integrity and Consistency:
+
+Each piece of data is stored only once (no redundancy), ensuring consistency.
+
+Example: Customer details stored in one CUSTOMER table, not repeated in every ORDER record.
+
+Minimal Data Redundancy:
+
+Redundant data causes update anomalies and wasted storage.
+
+Example: Instead of repeating department names for every employee, use a separate DEPARTMENT table with a foreign key reference.
+
+Proper Use of Normalization:
+
+Splitting large tables into smaller ones to remove partial and transitive dependencies (1NF–3NF).
+
+Example: Separating EMPLOYEE(EmpID, EmpName, DeptID) and DEPARTMENT(DeptID, DeptName).
+
+Clear Entity–Relationship Mapping:
+
+Logical relationships (1:1, 1:N, M:N) must be clearly defined using primary and foreign keys.
+
+Example: One‐to‐many between CUSTOMER and ORDER.
+
+Scalability and Performance:
+
+Well-designed indexes and relationships support fast queries and future data growth.
+
+Example: Indexing OrderID in ORDERS table speeds up retrieval.
+
+Remove Insert Update Anomalies
+
+2. Conclusion (1 Mark)
+
+A good database design is normalized, non-redundant, and supports data integrity, leading to efficient storage, accurate information, and simplified maintenance.
+| [5]
+|
+CO-   3 ;
+SO - 2;
+BL- 2
+| c
+| (a) Superkeys: [2Marks]
+{RollNo}, {Email}, {AadhaarNo}, {RollNo, Name}, {Email, Phone}, etc.
+(b) Candidate Keys: [2Marks]   - minimal keys
+{RollNo}, {Email}, {AadhaarNo}
+(c) Primary Key:   - only one to be written from candidate keys
+RollNo —unique.   [1Marks]
+| [5]
+|
+CO-   4 ;
+SO - 2;
+BL-1
+| d
+| What is the significance of CAP theorem in NOSQL
+The CAP Theorem is a fundamental principle in NoSQL databases that describes the trade-offs among three key properties:
+1.Consistency (C): Every read receives the most recent write or an error.
+2.Availability (A): Every request receives a response, regardless of the state of the data.
+3.Partition Tolerance (P): The system continues to operate even if network partitions or communication failures occur.
+Significance in NoSQL:
+•NoSQL databases are often distributed systems. The CAP theorem explains that it is impossible to achieve all three properties simultaneously; a database can only fully guarantee two out of three.
+•For example:
+oMongoDB prioritizes Consistency + Partition Tolerance (CP) by default.
+oCassandra prioritizes Availability + Partition Tolerance (AP).
+•This helps developers choose the right database and configure it according to application needs, balancing consistency, availability, and fault tolerance.
+"
+| [5]
+|
+Q2
+|
+|
+| [20]
+|
+CO- 1   ;
+SO - 2;
+BL-2
+| a
+|
+All Entities drawn – 2M
+All attributes   - 2M
+Relationships – 2M
+Cardinality – 2M
+Participation – 2M
+
+| [10]
+|
+CO- 2   ;
+SO - 2;
+BL- 2
+| b
+| Consider following movie database:
+
+users (user_id, full_name, city, contact_no)
+restaurants (restaurant_id, name, address, price level, is active)
+dishes (dish_id, restaurant, name, price, is_veg, is spicy)
+ratings (user_id, dish_id, rating, rated_at, feedback)
+
+Write the SQL queries   the following question:
+| [10]
+|
+
+| i
+| Add a new column “email” to users table
+Ans:
+ALTER TABLE users
+ADD COLUMN email VARCHAR (40);
+
+| [2]
+|
+
+| ii
+| Modify table dishes to enforce business rules “dishes.price must be > 0.” using CHECK constraints
+Ans:
+ALTER TABLE dishes
+ADD CONSTRAINT chk_price
+CHECK (price > 0);
+| [2]
+|
+
+| iii
+| Select all veg, not-spicy dishes with price <= 250 from active restaurants.
+Ans:
+SELECT d.name AS dish, r.name AS restaurant, d.price
+FROM dishes d, restaurants r
+Where r. restaurant_id = d. restaurant_id and r.is_active = ‘yes’   AND d.is_veg = ‘yes’   AND d.is_spicy is ‘No’ and d. price <= 250
+| [2]
+|
+
+| iv
+| Show each restaurant’s average rating and number of ratings but return only those with at least 2 ratings and an average ≥ 4.0.
+Ans:
+SELECT r.name AS restaurant, ROUND (AVG (rt. rating), 2) AS avg_rating,
+COUNT (rt. rating) AS rating_count
+FROM restaurants r, dishes d, ratings rt where d. restaurant_id = r. restaurant_id
+And rt. dish_id = d. dish_id
+GROUP BY r. restaurant_id, r.name
+HAVING COUNT (rt. rating) >= 2
+AND AVG (rt. rating) >= 4.0
+| [2]
+|
+
+| v
+| Create a view called user_ratings which will show each rating alongside the user who gave it.
+CREATE OR REPLACE VIEW user_ratings AS
+SELECT   u.user_id, u. full_name, u. city, u. contact_no, r. dish_id, r. rating, r. rated_at,
+r. feedback
+FROM ratings r JOIN users u
+ON u.user_id = r.user_id;
+| [2]
+|
+Q3
+|
+|
+| [20]
+|
+CO-   1 ;
+SO - 2;
+BL- 2
+| a.
+| Entity /attribute to table/columns   - 6 M
+Resolve Relationships – 2M
+Indicate Primary key / foreign key – 2 M
+
+Relational Schema Conversion
+1. USER
+USER(u_id PRIMARY KEY,   name,   email)
+2. ADDRESS
+ADDRESS(a_id PRIMARY KEY,   city,   state,   country,   u_id FOREIGN KEY REFERENCES USER(u_id))
+Relationship: User – lives in – Address → 1-to-M (one user can have many addresses)
+
+3. ORDER
+ORDER(o_no PRIMARY KEY,   order_amount,   order_date,   u_id FOREIGN KEY REFERENCES USER(u_id))
+Relationship: User – places – Order → 1-to-M
+
+4. TRACKING_DETAIL
+TRACKING_DETAIL(trac_id PRIMARY KEY,   status,   o_no FOREIGN KEY REFERENCES ORDER(o_no))
+Relationship: Order – contains – Tracking_detail → 1-to-M
+
+5. PRODUCT_CATEGORY
+PRODUCT_CATEGORY(cat_id PRIMARY KEY,   cat_name)
+
+6. PRODUCT
+PRODUCT(p_id PRIMARY KEY,   p_name,   price,   description,   cat_id FOREIGN KEY REFERENCES PRODUCT_CATEGORY(cat_id))
+Relationship: Product – has – Product_Category → M-to-1
+
+7. CART
+CART(cart_id PRIMARY KEY)
+
+8. PRODUCT_CART (resolving M-N between Product and Cart)
+PRODUCT_CART(p_id   FOREIGN KEY REFERENCES PRODUCT(p_id),
+cart_id FOREIGN KEY REFERENCES CART(cart_id),
+PRIMARY KEY (p_id, cart_id))
+Relationship: Product – added to – Cart → M-to-N
+
+9. ORDER_PRODUCT (resolving M-N between Order and Product)
+ORDER_PRODUCT(o_no FOREIGN KEY REFERENCES ORDER(o_no),
+p_id FOREIGN KEY REFERENCES PRODUCT(p_id),
+PRIMARY KEY (o_no, p_id))
+Relationship: Order – contains – Product → M-to-N
+
+| [10]
+|
+CO-   3 ;
+SO - 2;
+BL- 3
+| b.
+
+| (i) Partial & Transitive dependencies (3 marks)
+Candidate key (in SALES): ({OrderID, ProdID})(Quantity needs both; everything else is determined by either OrderID, CustID, ProdID, or SalespersonID.)
+Partial dependencies (depend on part of composite key)
+OrderID → OrderDate, CustID, SalespersonID(These don’t need ProdID.)
+ProdID → ProdName, UnitPrice(These don’t need OrderID.)
+SalespersonID → SalespersonName, SalespersonRegion andCustID → CustName, CustCity are not on the key, but in the single SALES table they appear as attributes that are determined by non-key attributes—handled under transitive below.
+Transitive dependencies (key → nonkey → other nonkeys)
+OrderID → CustID and CustID → CustName, CustCity⇒ OrderID → CustName, CustCity (transitive).
+OrderID → SalespersonID and SalespersonID → SalespersonName, SalespersonRegion⇒ OrderID → SalespersonName, SalespersonRegion (transitive).
+Full dependency:
+({OrderID, ProdID} → Quantity) (depends on the whole key, not partial).
+(ii) Decomposition to 3NF (step-by-step) (5 marks)
+Start:SALES(OrderID, OrderDate, CustID, CustName, CustCity, ProdID, ProdName, UnitPrice, Quantity, SalespersonID, SalespersonName, SalespersonRegion)
+Step 1: Remove partial dependencies (to reach 2NF)
+Create relations on determinants of partial dependencies:
+ORDER(OrderID, OrderDate, CustID, SalespersonID)(from OrderID → OrderDate, CustID, SalespersonID)
+PRODUCT(ProdID, ProdName, UnitPrice)(from ProdID → ProdName, UnitPrice)
+Keep line items for the fully dependent attribute:SALES_LINE(OrderID, ProdID, Quantity) with PK (OrderID, ProdID)
+Step 2: Remove transitive dependencies (to reach 3NF)
+Separate dependents of non-key determinants:4. CUSTOMER(CustID, CustName, CustCity)(from CustID → CustName, CustCity)5. SALESPERSON(SalespersonID, SalespersonName, SalespersonRegion)(from SalespersonID → SalespersonName, SalespersonRegion)
+Now, in ORDER, CustID and SalespersonID remain as foreign keys only; their descriptive attributes moved to their own tables, removing transitive dependencies.
+All resulting tables are in 3NF:
+Every non-key attribute depends on the key, the whole key, and nothing but the key in its table.
+(iii) Final set of relations with keys (2 marks)
+ORDER(OrderID, OrderDate, CustID, SalespersonID)FK: CustID → CUSTOMER, SalespersonID → SALESPERSON
+CUSTOMER(CustID, CustName, CustCity)
+SALESPERSON(SalespersonID, SalespersonName, SalespersonRegion)
+PRODUCT(ProdID, ProdName, UnitPrice)
+SALES_LINE(OrderID, ProdID, Quantity)FK: OrderID → ORDER, ProdID → PRODUCT
+This decomposition is lossless and preserves the given FDs, with SALES_LINE capturing the many-to-many between orders and products plus Quantity.
+| [10]
+|
+Q4
+|
+|
+| [20]
+|
+CO-   1 ;
+SO - 2;
+BL-2
+| a.
+| Discuss the major difficulties encountered while creating a database from scratch, and illustrate your answer with suitable examples.
+Building a database from scratch involves several conceptual, technical, and organizational challenges that must be carefully addressed to ensure efficiency, accuracy, and long-term usability.
+1.Requirement Analysis:
+2.Data Modeling Challenges:
+3.Data Redundancy and Integrity:
+4.Normalization and Performance Balance:
+5.Security and Access Control:
+6.Scalability and Future Growth:
+7.Backup and Recovery Planning:
+
+| [10]
+|
+CO-   2 ;
+SO - 2;
+BL-2
+| b.
+| Solve the following queries using relational algebra
+Customer(CustomerID, CustomerName, City)
+Order(OrderID, OrderDate, CustomerID)
+Product(ProductID, ProductName, Price)
+Order_Product(OrderID, ProductID, Quantity)
+Find the names of customers who have placed at least one order.
+
+Get the customer names and order IDs for orders placed after ‘2024-01-01’.
+
+List all products ordered by customers who live in ‘Chicago’.
+
+List the products that have been ordered by any customer with a quantity greater than 1
+
+Find all customers located in New York and have ordered something in month of October 2024(assume date is in yyyy-mm-dd)
+
+| [10]
+|
+Q5
+|
+|
+| [20]
+|
+CO-   2 ;
+SO - 2;
+BL-2
+| a.
+| Consider the following table:
+employee (employee_id, first_name , last_name, email, phone_number , hire_date, job_id , salary, commission_pct , manager_id , department_id )
+
+Write the SQL queries   the following question:
+| [10]
+|
+
+| i
+| Write a SQL query to find those employees who receive a higher salary than the employee with ID 163. Return first name, last name.
+Ans:
+SELECT first_name, last_name
+FROM employees
+WHERE salary >
+( SELECT salary
+FROM employees
+WHERE employee_id=163
+);
+| [3]
+|
+
+| ii
+| Write a SQL query to find out which employees have the same designation as the employee whose ID is 169. Return first name, last name, department ID and job ID.
+Ans:
+SELECT first_name, last_name, salary, department_id, job_id
+FROM employees
+WHERE job_id =
+( SELECT job_id
+FROM employees
+WHERE employee_id=169
+);
+| [3]
+|
+
+| iii
+| Write a SQL query to find those employees whose salary matches the lowest salary of any of the departments. Return first name, last name and department ID
+SELECT first_name, last_name, salary, department_id
+FROM employees
+WHERE salary IN
+(SELECT MIN(salary)
+FROM employees
+GROUP BY department_id
+);
+| [4]
+|
+CO-   4 ;
+SO - 2;
+BL- 2
+| b.
+|
+
+It is not conflict serializable as the graph is   cyclic.
+Step
+| T1
+| T2
+| T3
+|
+1
+| T1: Read(A)
+|
+|
+|
+2
+|
+| T2: Read(A)
+|
+|
+3
+| T1: Write(A)
+|
+|
+|
+4
+|
+| T2: Write(A)
+|
+|
+5
+|
+| T2: Read(B)
+|
+|
+6
+|
+|
+| T3: Read(B)
+|
+7
+|
+| T2: Write(B)
+|
+|
+8
+|
+|
+| T3: Write(B)
+|
+
+Serializability ensures that a concurrent execution is equivalent to some serial order of transactions. This preserves database correctness by preventing anomalies such as lost updates, dirty reads, non-repeatable reads, and inconsistent results—while still allowing concurrency for performance.
+
+| [10]
+|
+Q6
+|
+|
+| [20]
+|
+CO- 4   ;
+SO - 2;
+BL-3
+| a.
+| 1. Definition of a Transaction
+A transaction is a logical unit of database processing that consists of one or more database operations such as read, write, insert, update, or delete.
+It represents a single, indivisible unit of work that must be executed completely or not at all.
+Example:
+T1:
+Read(A)
+A = A – 100
+Write(A)
+Read(B)
+B = B + 100
+Write(B)
+This transaction transfers ₹100 from account A to account B.
+2. ACID Properties of a Transaction
+PropertyMeaningExample
+AtomicityAll operations in a transaction must complete successfully; if any fails, the entire transaction is rolled back.If the debit from A succeeds but the credit to B fails, both changes are undone.
+ConsistencyA transaction transforms the database from one consistent state to another, maintaining all integrity constraints.The total balance (A + B) remains the same before and after the transfer.
+IsolationConcurrent transactions should not interfere with each other; intermediate states are invisible to others.While T1 transfers money, another transaction T2 cannot read the partially updated balance of A or B.
+DurabilityOnce a transaction commits, its effects are permanently recorded in the database, even after system failures.After committing, the ₹100 transfer remains intact even if the system crashes.
+3. Conflict Serializability
+A schedule is conflict-serializable if it can be transformed into a serial schedule by swapping non-conflicting operations.
+Two operations conflict if:
+1.They belong to different transactions.
+2.They operate on the same data item.
+3.At least one is a write operation.
+Example:
+StepTransactionOperation
+1T1Read(A)
+2T2Read(A)
+3T1Write(A)
+4T2Write(A)
+Here, conflicts occur between T1 and T2 on A.
+Precedence graph: T1 → T2 (no cycle) ⇒ Conflict-serializable, equivalent to serial order T1 → T2.
+4. View Serializability
+A schedule is view-serializable if it is view-equivalent to some serial schedule, i.e.,
+•Both schedules have the same read-from relationships (who reads whose value).
+•Both have the same final writes on each data item.
+•Both start from the same initial state.
+Example:
+S1:   T1: W(A)
+T2: R(A), W(A)
+T3: R(A)
+If both T2 and T3 read the value of A written by T1 and T2 does the final write,
+then S1 is view-equivalent to the serial order T1 → T2 → T3.
+5. Difference between Conflict and View Serializability
+AspectConflict SerializabilityView Serializability
+BasisSwapping of non-conflicting operationsPreservation of read-from and final-write relationships
+DetectionUsing precedence (serialization) graphMore complex; requires comparing read/write dependencies
+StrictnessStronger form — every conflict-serializable schedule is view-serializableWeaker — some non-conflict-serializable schedules can still be view-serializable
+Ease of CheckEasier to test algorithmicallyHarder to test, computationally expensive
+ExampleSchedule without cycles in precedence graphSchedule with blind writes (where a value is overwritten without being read) may still be view-serializable but not conflict-serializable
+
+| [10]
+|
+CO- 4   ;
+SO - 2;
+BL-1
+| b.
+| Aspect
+| ACID (RDBMS)
+| BASE (NoSQL / Distributed Systems)
+|
+Philosophy
+| Ensures strict correctness and reliability
+| Focuses on scalability and availability
+|
+Consistency Model
+| Strong consistency – all nodes see same data instantly
+| Eventual consistency – nodes become consistent over time
+|
+System Type
+| Centralized or small-scale transactional systems
+| Distributed, large-scale, cloud-based systems
+|
+Transaction Handling
+| Transactions are atomic and isolated
+| Transactions may be broken or partial across nodes
+|
+Availability vs. Consistency
+| Prioritizes consistency over availability
+| Prioritizes availability over consistency
+|
+Response Time
+| Slower, due to strict locking and commit protocols
+| Faster, as some consistency is relaxed
+|
+Use Cases
+| Banking, financial, inventory systems
+| Social media feeds, e-commerce catalogs, IoT data
+|
+Error Recovery
+| Rollback ensures integrity after failures
+| Recovery through replication and eventual updates
+|
+CAP Theorem View
+| CP systems (Consistency + Partition tolerance)
+| AP systems (Availability + Partition tolerance)
+|
+Examples
+| Oracle, MySQL, PostgreSQL
+| Cassandra, MongoDB, Amazon DynamoDB
+|
+
+| [10]
+|
+Q7
+
+|
+|
+| [20]
+|
+CO-1   ;
+SO- 2;
+BL-1
+| A
+| Advantages of DBMS [5 Marks]
+Reduces Data Redundancy and Inconsistency– Data is stored centrally, avoiding duplication and ensuring all users see the same updated information.
+Improves Data Security– Access to data is controlled through authentication and authorization, protecting sensitive information.
+Ensures Data Integrity and Accuracy– Integrity constraints like primary keys and foreign keys maintain correctness of data values.
+Supports Concurrent Access and Sharing– Multiple users can work on the same database simultaneously without conflicts, using concurrency control.
+Provides Backup and Recovery– Automatic backup and recovery mechanisms protect data against crashes and system failures.
+
+| [5]
+|
+CO-   2 ;
+SO - 2;
+BL-2
+| b
+| Joins in SQL [5 Marks]
+Definition:A JOIN in SQL is used to combine rows from two or more tables based on a related column (usually a primary–foreign key relationship).
+1. INNER JOIN
+Returns only the matching rows from both tables.Example:
+SELECT Students.Name, Courses.CourseName
+FROM Students
+INNER JOIN Courses ON Students.CourseID = Courses.CourseID;
+Shows students who are enrolled in a course.
+2. LEFT JOIN (LEFT OUTER JOIN)
+Returns all rows from the left table, and matching rows from the right; non-matching rows show NULLs.Example:
+SELECT Students.Name, Courses.CourseName
+FROM Students
+LEFT JOIN Courses ON Students.CourseID = Courses.CourseID;
+Shows all students, even if not enrolled in any course.
+3. RIGHT JOIN (RIGHT OUTER JOIN)
+Returns all rows from the right table, and matching rows from the left; non-matching rows show NULLs.Example:
+SELECT Students.Name, Courses.CourseName
+FROM Students
+RIGHT JOIN Courses ON Students.CourseID = Courses.CourseID;
+Shows all courses, even if no student has enrolled.
+
+4. FULL JOIN (FULL OUTER JOIN)
+Returns all rows from both tables; unmatched rows are filled with NULLs.Example:
+SELECT Students.Name, Courses.CourseName
+FROM Students
+FULL JOIN Courses ON Students.CourseID = Courses.CourseID;
+Shows all students and all courses, with NULLs where no match exists.
+5. CROSS JOIN
+Produces Cartesian product — every row of the first table with every row of the second.Example:
+SELECT Students.Name, Courses.CourseName
+FROM Students
+CROSS JOIN Courses;
+Shows all possible combinations of students and courses.
+Summary:
+Type of Join
+| Description
+| Matching/Unmatched Rows
+|
+INNER JOIN
+| Common records only
+| Matching only
+|
+LEFT JOIN
+| All left + matching right
+| Unmatched right → NULL
+|
+RIGHT JOIN
+| All right + matching left
+| Unmatched left → NULL
+|
+FULL JOIN
+| All rows from both tables
+| Unmatched → NULL
+|
+CROSS JOIN
+| Cartesian product
+| No condition needed
+|
+
+| [5]
+|
+CO-   3;
+SO - 2;
+BL-3
+| C
+| Armstrong’s Axioms [5 Marks]
+Definition:Armstrong’s Axioms are a set of inference rules used to derive all possible functional dependencies (FDs) from a given set of FDs in a relational schema.They form the theoretical foundation for normalization and dependency closure.
+1. Basic Axioms
+Axiom
+| Rule Description
+| Example
+|
+a) Reflexivity
+| If Y ⊆ X, then X → Y. (A set of attributes determines any of its subsets.)
+| If X = {A, B} then {A, B} → {A}.
+|
+b) Augmentation
+| If X → Y, then XZ → YZ. (Adding the same attribute(s) to both sides preserves the dependency.)
+| If A → B, then AC → BC.
+|
+c) Transitivity
+| If X → Y and Y → Z, then X → Z. (Dependencies can be chained.)
+| If A → B and B → C, then A → C.
+|
+2. Derived (Additional) Axioms
+Using the three basic rules, the following can be derived:
+Derived Axiom
+| Meaning
+|
+Union (Additivity)
+| If X → Y and X → Z, then X → YZ
+|
+Decomposition (Projectivity)
+| If X → YZ, then X → Y and X → Z
+|
+Pseudo-transitivity
+| If X → Y and YZ → W, then XZ → W
+|
+
+3. Importance
+These axioms help in finding attribute closure (X⁺)
+Used to test dependency preservation and lossless decomposition during normalization.
+
+| [5]
+|
+CO-   4 ;
+SO - 2;
+BL-1
+| d
+| "Key Value Pair Based
+
+Data is stored in key/value pairs. It is designed in such a way to handle lots of data and heavy load.
+Key-value pair storage databases store data as a hash table where each key is unique, and the value can be a JSON, BLOB(Binary Large Objects), string, etc.
+For example, a key-value pair may contain a key like ""Website"" associated with a value like ""Guru99"".
+
+It is one of the most basic types of NoSQL databases. This kind of NoSQL database is used as a collection, dictionaries, associative arrays, etc. Key value stores help the developer to store schema-less data. They work best for shopping cart contents.
+Redis, Dynamo, Riak are some examples of key-value store DataBases. They are all based on Amazon's Dynamo paper.
+Column-based
+Column-oriented databases work on columns and are based on BigTable paper by Google. Every column is treated separately. Values of single column databases are stored contiguously.
+
+Column based NoSQL database
+They deliver high performance on aggregation queries like SUM, COUNT, AVG, MIN etc. as the data is readily available in a column.
+Column-based NoSQL databases are widely used to manage data warehouses, business intelligence, CRM, Library card catalogs,
+HBase, Cassandra, HBase, Hypertable are examples of column based database.
+"
+| [5]
+|
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper 789dfd91c14f

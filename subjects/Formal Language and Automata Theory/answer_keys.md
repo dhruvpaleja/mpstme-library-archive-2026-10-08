@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7011/Formal Language and Automata Theory/ANS_Formal Language and Automata Theory(702CO0C043)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (29 pages), mean OCR confidence 80.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -360,7 +361,6 @@ e Flip 0 > 1 until first 1 is found
 e Change that 1 — 0 and halt
 
 3. Formal Definition (2 Marks)
-M = (Q £,T, &, qO, B, F)
 
 © Q= {q0, q1, gf}
 
@@ -570,7 +570,6 @@ w Examples:
 w Ensures: number of b's = 2 x number of a's
 
 3. Formal Definition (2 Marks)
-M= (Q, x, r, é, qo: 40, F)
 
 © Q= {g0, q1, qf}
 
@@ -604,7 +603,6 @@ wv Examples: a, b, c, d
 2. Alphabet (1 Mark)
 
 An alphabet is a finite set of symbols.
-v A= {a, b}, B = {c, d}
 
 3. String (1 Mark)
 
@@ -771,6 +769,7 @@ FAR ICR QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Final-Exam/BTech_CSE_DS_7011/Formal Language and Automata Theory/ANS_Formal Language and Automata Theory(702CO0C043)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2025
 - Text: mixed (13 pages), mean OCR confidence 56.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1047,6 +1046,7 @@ programmable, universal computational device.
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/BTech_CSE_DS_7011/Formal Language and Automata Theory/ANS_Formal Language and Automata Theory(702CO0C043)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2025
 - Text: mixed (9 pages), mean OCR confidence 58.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

@@ -127,6 +127,7 @@ $45,000, compared to $10,000 for a Chevy Aveo).
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSEDS-311/SEM-III/FOUNDATION OF ENTREPRENEURSHIP/Foundations of Entrepreneurship, Sem-III, Year 2025-26, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -241,7 +242,6 @@ Imagine that you are the customer service manager at Rodgers Chevrolet. You have
 customer comments into groups based on the type of vehicle owned. After reviewing a couple of years
 of feedback, you discover that Corvette owners do not feel they are being served as well as their friends
 
-BG IGK 2 fei kai kok ak
 --- page 3 ---
 who own foreign sports cars. Many comments mention the service level of the Lexus brand and indicate
 that customers may be considering changing to a Lexus SC just to get the white glove service. You

@@ -16,23 +16,23 @@ Also filed as: `MICROPR0OCESSOR AND MICROCONTROLLER`, `MICROPROCESSOR AND MICROC
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Microprocessor and Microcontrollers(701EX0C008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Microprocessor and Microcontrollers(701EX0C008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Microprocessor and Microcontroller(702CO0C009)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Computer 7002 | QP_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Microprocessor and Microcontrollers(701EX0C008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Microprocessor and Microcontrollers(701EX0C008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated Computer 7032 | QP_Microprocessor and Microcontroller(702CO0C009)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech Computer 7047 | QP_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Microprocessor and Microcontroller(702CO0C009)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Microprocessor and Microcontrollers(701EX0C008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Microprocessor and Microcontrollers(701EX0C008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Microprocessor and Microcontroller(702CO0C009)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER | Microprocessor and Microcontroller Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech Computer 7002 | QP_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated Computer 7032 | QP_Microprocessor and Microcontroller(702CO0C009)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | MBATech Computer 7047 | QP_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Microprocessor and Microcontroller(702CO0C009)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER, MBA TECH / I T | Microprocessor and Microcontroller, Sem IV, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / COMPUTER | Microprocessor and Microcontroller Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | B TECH / EXTC | Micropocessor and Microcontroller, Sem IV, Year 2024-25 Final Exam.pdf |

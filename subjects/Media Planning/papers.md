@@ -1054,6 +1054,192 @@ budgeting strategies to maximize brand awareness, trial, and conversion.
 ********** 3 **********
 ````
 
+## 2023-24 · Exam not stated · Sem 10 · paper 0dc186e32494
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Media planning/Media Planning.pdf`
+- Text: ocr (2 pages), mean OCR confidence 88.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& Recta ;
+Academic Year: 2023-2024 ‘ ,
+Program/s: _ MBA Tech ___ Year: V_ Semester:_2 a
+
+Stream/s ; ALL
+
+Subject: __ Media Planning Time: 2 _ hrs ((ozo0am tolanoon_)
+Date:_3 / 5 / 2024 . No. of Pages: 2
+Marks: _50.
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all_-_5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Qi ‘
+Answer briefly: [10]
+
+oP? S05 Ja, Explain the Purchase funnel. 2.5
+Understand
+803. | What is Attribution Modelling? 2.5
+Understand .
+ol 380-5 Jc, Explain Media, Medium and Vehicle. . 2.5
+Understand
+CO-1; SO-;
+
+_ | BL a Explain Uses & Gratifications Theory. 2.5
+Understand
+Q2 Differentiate between the media which are available in the contemporary [10]
+CO-1; SO-; era of digital media.
+BL- Analyse —
+@ Discuss the layers of Business Challenges facing media planners. [10]
+CO-1; SO;
+BL-Understand
+oe Develop the Consumer Decision Journey for a Soap like LUX for HUL. [10]
+BL- Create Develop strategies to achieve the inner loop.
+
+| Qs You are a Media planner for a Digital Marketing company and you have
+200us0: been asked to create a model for buying inventory for the digital stock. [10]
+BL-Analyse Formulate Programmatic Buying Model in Media Planning for your
+company.
+
+Q6 ;
+Gomis: Devise strategies to face the Business challenges and meet the Business [10]
+BL- Create objectives for Consumer Durables Company like Godrej and Boyce.
+--- page 2 ---
+ABC Foods Inc is a leading FMCG company specializing in packaged «=
+food products, including snacks, beverages, and pantry staples. With a
+
+ee s0.: diverse product portfolio and a focus on quality and innovation, ABC [10]
+BL- Create Foods aims to increase brand awareness, drive product sales, and engage
+
+with consumers through social media channels. Develop a Media plan by
+asking the 6 questions of Media Planning.
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper bcb4cef8254b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Media planning/Media Planning_bcb4cef825.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+; \
+4 \ : B R YY g
+ANG SS
+NG el oS
+
+{tins UNNERSS.
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech (All Streams) Year: V Semester: X
+
+Subject: Media Planning Time: 2 hours (2:00 pm to4:20 pm)
+Date: 5‘ May 2023. No. of Pages: 2
+
+Marks: 50
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+ql
+Answer briefly: [10]
+
+CO-1 ; SO- a. Explain NCCS classification and its use in media planning?
+
+BL- 2.5
+Understand
+
+CO-1;S0-; |b. | Explain the different form of Media and what differentiates one from
+
+BL- 2.5
+Understand anaaTer
+
+CO2- ; SO- c. Samsonite is planning for a campaign to advertise its new range of business
+
+BL- travel suitcases. Explain psychographic segmentation and how it can be | 2-9
+Understand used to define a consumer buying a travel bag?
+
+d. | BMW is introducing its new EV cars in India and they are planning a very
+
+big launch campaign. The Global Marketing Team has asked the Indian unit
+CO- ; SO- ;
+BL-
+Understand budget and it’s meaning
+
+to suggest the Annual brand budget .Explain the components of Brand | 2.5
+--- page 2 ---
+Reliance Industries Limited (RIL) has acquired the famous Campa brand
+from New Delhi-based Pure Drinks Group. This acquisition is in line with
+
+the group’s plan to venture into the soft drinks business under its retail
+
+Q2 arm.The Campa brand and Campa Cola were the two popular soft drink
+0-3; SO-; brands in the 1970s and 1980s. The brand's popularity ultimately fizzled | [10]
+BL-Evaluate out after the entry of Coca-Cola and PepsiCo in the 1990s. Reliance Retail
+will now relaunch the soft drink in cola, lemon, and orange flavours in
+October this year .Recommend the Media Mix that Campa Cola should
+have and your reasons for it.
+Q3
+CO-1; SO-; Pepsodent toothbrush is going for a national relaunch .Explaih the 3 [10]
+BL- components and 5 building blocks of it’s media strategy?
+Understand
+Q4 . . .
+Explain the Frequency Estimator by Ostrow and the three main factors
+CO 2°; SO-; that effect frequency by givi itable ex | 20)
+BL-Apply quency by giving a suitable example.
+The Marketing Team at a leading Ed-Tech Firm are to brief their media
+Qs . . , ,
+agency for the upcoming cricket campaign. Create a template for Media
+CO 3-; SO-; ae ; oe [10]
+brief which the Marketing team at Ed-Tech would fill and the significance
+BL- Create
+of each component of the Media Brief
+a6 Hershey’s -a leading chocolate brand is launching in India. Prepare a
+CO-3; SO-; Market Prioritization document for this brand detailing the various [10]
+BL-Create parameters used in market prioritization?
+Puma — a leading shoe manufacturer is planning to test launch its new
+Q7cO2 range in Mumbai. The Marketing team at Puma feels that they should
+SO-; launch with OOH (Out of home ) as the only medium as the ads are huge [10]
+BL-Apply and are visible to one and all. Examine the advantages and disadvantages
+
+of outdoor media.
+````
+
 ## 2021-22 · Final-Exam · Sem 10 · paper 7cdc9615c743
 
 - Departments: Common (all branches)
@@ -1389,190 +1575,4 @@ how it helps achieve media objectives? (12 Marks)
 
 tf.
 t
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper 0dc186e32494
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Media planning/Media Planning.pdf`
-- Text: ocr (2 pages), mean OCR confidence 88.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& Recta ;
-Academic Year: 2023-2024 ‘ ,
-Program/s: _ MBA Tech ___ Year: V_ Semester:_2 a
-
-Stream/s ; ALL
-
-Subject: __ Media Planning Time: 2 _ hrs ((ozo0am tolanoon_)
-Date:_3 / 5 / 2024 . No. of Pages: 2
-Marks: _50.
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all_-_5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Qi ‘
-Answer briefly: [10]
-
-oP? S05 Ja, Explain the Purchase funnel. 2.5
-Understand
-803. | What is Attribution Modelling? 2.5
-Understand .
-ol 380-5 Jc, Explain Media, Medium and Vehicle. . 2.5
-Understand
-CO-1; SO-;
-
-_ | BL a Explain Uses & Gratifications Theory. 2.5
-Understand
-Q2 Differentiate between the media which are available in the contemporary [10]
-CO-1; SO-; era of digital media.
-BL- Analyse —
-@ Discuss the layers of Business Challenges facing media planners. [10]
-CO-1; SO;
-BL-Understand
-oe Develop the Consumer Decision Journey for a Soap like LUX for HUL. [10]
-BL- Create Develop strategies to achieve the inner loop.
-
-| Qs You are a Media planner for a Digital Marketing company and you have
-200us0: been asked to create a model for buying inventory for the digital stock. [10]
-BL-Analyse Formulate Programmatic Buying Model in Media Planning for your
-company.
-
-Q6 ;
-Gomis: Devise strategies to face the Business challenges and meet the Business [10]
-BL- Create objectives for Consumer Durables Company like Godrej and Boyce.
---- page 2 ---
-ABC Foods Inc is a leading FMCG company specializing in packaged «=
-food products, including snacks, beverages, and pantry staples. With a
-
-ee s0.: diverse product portfolio and a focus on quality and innovation, ABC [10]
-BL- Create Foods aims to increase brand awareness, drive product sales, and engage
-
-with consumers through social media channels. Develop a Media plan by
-asking the 6 questions of Media Planning.
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper bcb4cef8254b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Media planning/Media Planning_bcb4cef825.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 91.1
-
-````text
-; \
-4 \ : B R YY g
-ANG SS
-NG el oS
-
-{tins UNNERSS.
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech (All Streams) Year: V Semester: X
-
-Subject: Media Planning Time: 2 hours (2:00 pm to4:20 pm)
-Date: 5‘ May 2023. No. of Pages: 2
-
-Marks: 50
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-ql
-Answer briefly: [10]
-
-CO-1 ; SO- a. Explain NCCS classification and its use in media planning?
-
-BL- 2.5
-Understand
-
-CO-1;S0-; |b. | Explain the different form of Media and what differentiates one from
-
-BL- 2.5
-Understand anaaTer
-
-CO2- ; SO- c. Samsonite is planning for a campaign to advertise its new range of business
-
-BL- travel suitcases. Explain psychographic segmentation and how it can be | 2-9
-Understand used to define a consumer buying a travel bag?
-
-d. | BMW is introducing its new EV cars in India and they are planning a very
-
-big launch campaign. The Global Marketing Team has asked the Indian unit
-CO- ; SO- ;
-BL-
-Understand budget and it’s meaning
-
-to suggest the Annual brand budget .Explain the components of Brand | 2.5
---- page 2 ---
-Reliance Industries Limited (RIL) has acquired the famous Campa brand
-from New Delhi-based Pure Drinks Group. This acquisition is in line with
-
-the group’s plan to venture into the soft drinks business under its retail
-
-Q2 arm.The Campa brand and Campa Cola were the two popular soft drink
-0-3; SO-; brands in the 1970s and 1980s. The brand's popularity ultimately fizzled | [10]
-BL-Evaluate out after the entry of Coca-Cola and PepsiCo in the 1990s. Reliance Retail
-will now relaunch the soft drink in cola, lemon, and orange flavours in
-October this year .Recommend the Media Mix that Campa Cola should
-have and your reasons for it.
-Q3
-CO-1; SO-; Pepsodent toothbrush is going for a national relaunch .Explaih the 3 [10]
-BL- components and 5 building blocks of it’s media strategy?
-Understand
-Q4 . . .
-Explain the Frequency Estimator by Ostrow and the three main factors
-CO 2°; SO-; that effect frequency by givi itable ex | 20)
-BL-Apply quency by giving a suitable example.
-The Marketing Team at a leading Ed-Tech Firm are to brief their media
-Qs . . , ,
-agency for the upcoming cricket campaign. Create a template for Media
-CO 3-; SO-; ae ; oe [10]
-brief which the Marketing team at Ed-Tech would fill and the significance
-BL- Create
-of each component of the Media Brief
-a6 Hershey’s -a leading chocolate brand is launching in India. Prepare a
-CO-3; SO-; Market Prioritization document for this brand detailing the various [10]
-BL-Create parameters used in market prioritization?
-Puma — a leading shoe manufacturer is planning to test launch its new
-Q7cO2 range in Mumbai. The Marketing team at Puma feels that they should
-SO-; launch with OOH (Out of home ) as the only medium as the ads are huge [10]
-BL-Apply and are visible to one and all. Examine the advantages and disadvantages
-
-of outdoor media.
 ````

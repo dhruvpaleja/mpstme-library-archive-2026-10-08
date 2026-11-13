@@ -418,6 +418,111 @@ services. (5 marks)
 “1
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper f1ea4ecc8b17
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/service operation Management/scan0012(8).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 10/01/2013
+- Text: ocr (2 pages), mean OCR confidence 94.6
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineé
+
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV
+Academic Year : 2012-2013
+
+Subject: SERVICES OPERATIONS MANAGEMENT Marks: 50
+Time: 2.00 p.m To 4.00 p.m
+Date: 10/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions : Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book , which is provided for their
+use
+
+NB.
+1. There are 8 Question in all.
+2. Answer any five questions
+3. All questions carry equal marks(10) —
+4. Sub — questions carry 5 marks
+5. Answer to each new question should begin o on a new page
+6. Figure in brackets on right hand side indicate full marks
+
+Q1. What are differences and similarities in physical goods & services ? (10 marks)
+
+Q2. What are the criteria for evaluating service packages .Describe are various
+components of a well designed & implemented service delivery system (10 marks)
+
+Q3.What is process Mapping ? What are Objectives of process mapping ?Describe
+Process Mapping steps (10 marks)
+
+Q4. what is the difference between offshoring & outsourcing ? What are main benefits of
+} outsourcing ? What are risks involved in outsourcing ? (10 marks)
+
+Q5. what are main reasons / theory for decoupling and creating separate front office &
+back office operations ? How decupling can be linked to firm’s strategy? (10 marks)
+
+Q6. Write notes on any two
+a. Describe elements of service strategy (5 marks)
+
+b. Steps for new service development (5 marks)
+P] \c. Creating successful and satisfying experiences (5 marks)
+
+d. Service classification matrix service classification matrix service classification matrix.
+(5 marks)
+
+Vo
+--- page 2 ---
+Q7 theme park company wants to establish a theme park . It evaluating two locations A
+and B for setting up of its new plant. Following are the factors and corresponding
+weights assigned by the management of Indigo. Based on quantitative & qualitative data
+given below, determine the location that is most suitable for setting up of a new plant.
+
+Factor Factor Rating Location A Location B
+Score Score
+Set up cost 0.25 75 65
+Supply of facilitating 0.15 55 60
+goods
+Labour availability 0.20 65 70
+Proximity to customers 0.25 80 70
+Infrastructure facilities 0.10 75 80
+Tax advantage 0.05 80 60
+Community Facilities Bad Good
+Labour Attitude Bad Good
+(10 marks)
+
+Q8. following table gives activities in a construction project alongwith relevant
+information
+
+Activity | Normal Crash Normal cost Crash cost (Rs.)
+time(days0 time(days) (Rs. )
+
+1-2 8 6 6000 9000
+
+1-4 12 8 15000 25000
+
+1-3 4 2 3000 6000
+
+2-4 10 6 15000 25000
+
+3-4 4 4 10000 10000
+
+2-5 14 10 11500 17500
+
+4-5 8 4 10000 24000
+
+If indirect costs are Rs. 3500/- per day , then determine optimum duration of the project
+(10 marks)
+
+a!
+
+“be
+````
+
 ## 2010-11 · Exam not stated · Trim 14 · paper 252e41f6b62d
 
 - Departments: Common (all branches)
@@ -574,109 +679,4 @@ ii. Fish bone diagram
 iii. Over booking
 
 h;
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper f1ea4ecc8b17
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/service operation Management/scan0012(8).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 10/01/2013
-- Text: ocr (2 pages), mean OCR confidence 94.6
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineé
-
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV
-Academic Year : 2012-2013
-
-Subject: SERVICES OPERATIONS MANAGEMENT Marks: 50
-Time: 2.00 p.m To 4.00 p.m
-Date: 10/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions : Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book , which is provided for their
-use
-
-NB.
-1. There are 8 Question in all.
-2. Answer any five questions
-3. All questions carry equal marks(10) —
-4. Sub — questions carry 5 marks
-5. Answer to each new question should begin o on a new page
-6. Figure in brackets on right hand side indicate full marks
-
-Q1. What are differences and similarities in physical goods & services ? (10 marks)
-
-Q2. What are the criteria for evaluating service packages .Describe are various
-components of a well designed & implemented service delivery system (10 marks)
-
-Q3.What is process Mapping ? What are Objectives of process mapping ?Describe
-Process Mapping steps (10 marks)
-
-Q4. what is the difference between offshoring & outsourcing ? What are main benefits of
-} outsourcing ? What are risks involved in outsourcing ? (10 marks)
-
-Q5. what are main reasons / theory for decoupling and creating separate front office &
-back office operations ? How decupling can be linked to firm’s strategy? (10 marks)
-
-Q6. Write notes on any two
-a. Describe elements of service strategy (5 marks)
-
-b. Steps for new service development (5 marks)
-P] \c. Creating successful and satisfying experiences (5 marks)
-
-d. Service classification matrix service classification matrix service classification matrix.
-(5 marks)
-
-Vo
---- page 2 ---
-Q7 theme park company wants to establish a theme park . It evaluating two locations A
-and B for setting up of its new plant. Following are the factors and corresponding
-weights assigned by the management of Indigo. Based on quantitative & qualitative data
-given below, determine the location that is most suitable for setting up of a new plant.
-
-Factor Factor Rating Location A Location B
-Score Score
-Set up cost 0.25 75 65
-Supply of facilitating 0.15 55 60
-goods
-Labour availability 0.20 65 70
-Proximity to customers 0.25 80 70
-Infrastructure facilities 0.10 75 80
-Tax advantage 0.05 80 60
-Community Facilities Bad Good
-Labour Attitude Bad Good
-(10 marks)
-
-Q8. following table gives activities in a construction project alongwith relevant
-information
-
-Activity | Normal Crash Normal cost Crash cost (Rs.)
-time(days0 time(days) (Rs. )
-
-1-2 8 6 6000 9000
-
-1-4 12 8 15000 25000
-
-1-3 4 2 3000 6000
-
-2-4 10 6 15000 25000
-
-3-4 4 4 10000 10000
-
-2-5 14 10 11500 17500
-
-4-5 8 4 10000 24000
-
-If indirect costs are Rs. 3500/- per day , then determine optimum duration of the project
-(10 marks)
-
-a!
-
-“be
 ````

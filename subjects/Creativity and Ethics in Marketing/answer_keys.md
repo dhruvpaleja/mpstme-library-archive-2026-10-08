@@ -1675,6 +1675,7 @@ outings   Message: “Fun under the sun, smarter.”
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_Computer_7002/Creativity and ethics in Marketing/ANS_Creativity and ethics in Marketing(702TM0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1802,6 +1803,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CyberSecurity_7010/Creativity and ethics in Marketing/ANS_Creativity and ethics in Marketing(702TM0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1929,6 +1931,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_Mechanical_7003/Creativity and ethics in Marketing/ANS_Creativity and ethics in Marketing(702TM0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2056,6 +2059,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_10/Re-Exam/Integrated_DS_7038/Creativity and ethics in Marketing/ANS_Creativity and ethics in Marketing(702TM0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

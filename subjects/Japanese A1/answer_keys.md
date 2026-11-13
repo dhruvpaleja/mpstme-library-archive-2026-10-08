@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Computer_7032/Japanese A1/ANS_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (5 pages), mean OCR confidence 44.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -229,7 +231,6 @@ b)
 Write a short blog in Japanese (8-10 sentences).
 
 Sample Answer:
-FOO pei ESRBEE EHlO WELK,
 RDATAC 32-kE-e DKELE.
 ENP6 AWM AELE.
 ETH BELAPOKTH.
@@ -252,6 +253,8 @@ FIC DI EH ar
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_DS_7038/Japanese A1/ANS_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (5 pages), mean OCR confidence 44.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -472,7 +475,6 @@ b)
 Write a short blog in Japanese (8-10 sentences).
 
 Sample Answer:
-FOO pei ESRBEE EHlO WELK,
 RDATAC 32-kE-e DKELE.
 ENP6 AWM AELE.
 ETH BELAPOKTH.
@@ -495,6 +497,8 @@ FIC DI EH ar
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_IT_7037/Japanese A1/ANS_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (5 pages), mean OCR confidence 44.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -715,7 +719,6 @@ b)
 Write a short blog in Japanese (8-10 sentences).
 
 Sample Answer:
-FOO pei ESRBEE EHlO WELK,
 RDATAC 32-kE-e DKELE.
 ENP6 AWM AELE.
 ETH BELAPOKTH.
@@ -738,6 +741,8 @@ FIC DI EH ar
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Mechanical_7031/Japanese A1/ANS_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (5 pages), mean OCR confidence 44.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -958,7 +963,6 @@ b)
 Write a short blog in Japanese (8-10 sentences).
 
 Sample Answer:
-FOO pei ESRBEE EHlO WELK,
 RDATAC 32-kE-e DKELE.
 ENP6 AWM AELE.
 ETH BELAPOKTH.
@@ -981,6 +985,8 @@ FIC DI EH ar
 - Source: `02_Question_Papers/2025/Sem_10/Re-Exam/Integrated_Computer_7032/Japanese A1/ANS_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (6 pages), mean OCR confidence 47.8
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1034,8 +1040,6 @@ BL-2
 
 YesvY — Sarees Fe Ct.
 
-YNor&A ERED — RiIC-— Fe CHA,
-3bEL — EBRSIE VED -— FACET.
 Aicve -— 3R -— MEM HVEF.
 
 SbreL -— Le&A -— F<leEe TCT.
@@ -1257,8 +1261,6 @@ BL-3   b) Write about your coming Sundays plan in Japanese。
 ともだちは かばんを かいます
 ********** 5 **********
 --- page 6 ---
-Eb SIL IEA TC [EAB DOET
-thio FbRBEE WEI TLe KAET
 A-E-b OLET.
 
 LO WAI PAVET,
@@ -1269,7 +1271,6 @@ BL-3
 2) Sample Answer:
 ENF ESIC WKELK,
 cere SvELK
-EBC MIMWHR (EACT [EAR PWELK
 (SHOT (EEE DOELK,
 tN KDVETAT A-E—-*F NHELE,
 F—-AYe KNELK,.
@@ -1315,6 +1316,8 @@ FIC 6 I HF
 - Source: `02_Question_Papers/2025/Sem_10/Re-Exam/Integrated_DS_7038/Japanese A1/ANS_Japanese A1(702BS0I025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (6 pages), mean OCR confidence 47.8
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1368,8 +1371,6 @@ BL-2
 
 YesvY — Sarees Fe Ct.
 
-YNor&A ERED — RiIC-— Fe CHA,
-3bEL — EBRSIE VED -— FACET.
 Aicve -— 3R -— MEM HVEF.
 
 SbreL -— Le&A -— F<leEe TCT.
@@ -1591,8 +1592,6 @@ BL-3   b) Write about your coming Sundays plan in Japanese。
 ともだちは かばんを かいます
 ********** 5 **********
 --- page 6 ---
-Eb SIL IEA TC [EAB DOET
-thio FbRBEE WEI TLe KAET
 A-E-b OLET.
 
 LO WAI PAVET,
@@ -1603,7 +1602,6 @@ BL-3
 2) Sample Answer:
 ENF ESIC WKELK,
 cere SvELK
-EBC MIMWHR (EACT [EAR PWELK
 (SHOT (EEE DOELK,
 tN KDVETAT A-E—-*F NHELE,
 F—-AYe KNELK,.

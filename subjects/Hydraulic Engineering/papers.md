@@ -144,6 +144,128 @@ Q.7(B) Answer any Two. 06
 [gees
 ````
 
+## 2019-20 · Re-Exam · Sem 7 · paper 21ac66f65b0b
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_07/HYDRAULIC ENGINEERING/Hydraulic Engineering Batch 2017-18 Re Exam.pdf`
+- Printed on paper: exam date: 05 November 2019
+- Text: ocr (3 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (Civil) — Year: IV Semester: VII ~
+
+Academic Year: 2019-20
+Subject: Hydraulic Engineering <
+
+Date: 05 November 2019 ~~
+
+“7
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+Q.1 (A) Answer any Two. 06
+1. Differentiate between: (a) Prismatic and non-prismatic channel (b) pipes in series
+and parallel connection. .
+2. Sketch specific energy curve and explain it in detail.
+3. Define the terms: hydraulic jump, minimum specific enérgy, critical depth,
+alternate depths.
+
+Q.1(B) Answer any Two. 06
+1. Water is flowing through -a pipe of diameter 30 cm and length 2000 m with a
+velocity of 2.5 m/s. A valve is provided at the end of the pipe. If the valve is closed
+in 30 seconds, find the rise in pressure. Take the velocity of pressure wave as 1500
+m/s.
+2. Explain water hammer with sketch.
+3. What do you mean by gradually varied flow? What is the fundamental difference
+
+between gradually varied flow and rapidly varied flow?
+
+Q.2 (A) It is required to transmit 200 kW of hydraulic power through a pipe of 5 km long. The 06
+pressure at the inlet of the pipe is 1200 kN/m”. Find the diameter of the pipe corresponding
+to maximum efficiency of transmission. Take Darcy’s friction factor as 0.016.
+
+ae
+Ms, g
+--- page 2 ---
+Q.2 (B) For the pipe network shown in figure, determine the flow in each pipe. Given discharge at 06
+each node is in m3/s. Take n = 2.0 (carry out maximum 2 iterations)
+
+4
+
+40
+
+20
+
+14.5
+10 50
+
+10
+20
+
+55
+
+Q.3 (A) Two reservoirs open to atmosphere are connected by a pipe of 20 cm diameter and 800m 06
+long. The pipe goes over a hill whose height is 3.5 m above the level of water in the upper
+reservoir. The difference in water levels in the two reservoirs is 14 m. If the absolute
+pressure of water anywhere in the pipe is not allowed to fall below 2.5 m of water in order
+to prevent vapour formation, find the length of pipe in the portion between the upper
+reservoir and the hill summit. Also compute the flow rate. Darcy’s friction factor as 0.01
+and neglect bend loss only. Take atmospheric pressure head as 10.3 m of water.
+
+Q.3 (B) Derive conditions for the best section of trapezoidal channel section. 06
+
+Q.4 (A) A trapezoidal channel with side slopes of 1 to | has to be designed to convey 9 m3/s ata 06
+velocity of 1.5 m/s so that the amount of concrete lining for the ‘bed and sides is the
+minimum. Calculate the area of lining for one meter of length of canal.
+
+Q.4(B) Derive the governing equation for gradually varied flow. 06
+
+Q.5 (A) The discharge of water through a rectangular channel is of width 6 m; is 18 m3/s when 06
+depth of flow of water is 2 m. Calculate : (i) specific energy of the flowing water (ii)
+critical depth and critical velocity (iii) value of minimum specific energy.
+
+Q.5 (B) Classify hydraulic jump. 06
+
+Q.6 (A) A sluice gate discharges water into a horizontal rectangular channel with a velocity of 6 06
+m/s and depth of flow is 0.4 m. The width of the channel is 8 m. Determine whether a
+hydraulic jump will occur, and if so, find its height and loss of energy per kg of water. Also
+determine the power lost in the jump.
+
+Q.6(B) Sketch and explain specific discharge curve. 06
+
+[gees
+--- page 3 ---
+Q.7 (A) Answer any Two. 06
+1. Write a short note on velocity and pressure distribution in an open channel.
+2. Explain Surges in open channel.
+3. Classify losses in pipes. Explain each one of them in brief.
+
+Q.7(B) Answer any Two. 06
+1. What is syphon? On what principle it works?
+2. Define and explain afflux and backwater curve.
+3. Define hydraulic gradient line and energy gradient line.
+
+3]Page
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 4 · paper 61122f52cf11
 
 - Departments: Civil
@@ -367,6 +489,158 @@ dy S.— Sy
 dx 1—F?
 
 Show that for a hydraulically efficient trapezoidal channel section, side slope is = 07
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper bf1813710746
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_07/HYDRAULIC ENGINEERING/Hydraulic Engineering Batch 2017-18 Re Exam.tif`
+- Printed on paper: max marks: 60; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech Integrated (Civil) - Year: IV Semester : VII
+< Academic Year: 2018-2019
+
+Subject: Hydraulic Engineering Marks: 60 ~
+
+: Time: 2.00 pm to 5.00 pm
+
+Date: 19 J. 2019 ~
+ate anuary Durations: 3 (hrs)
+
+No. of Pages: 2-
+Re-examination (2017-18) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume.suitable data if necessary.
+
+Qi) Answer all. 12
+1. Explain water hammer with sketch. ; 03
+2. Define prismatic and non-prismatic channel. 03
+3. Explain surges in open channel. 03
+4. Draw specific energy curve depicting different regimes of flow. 03
+
+Q.2 (a) A pipe network shown in figure, in which Q and he refer to discharge and head loss 06
+respectively. Determine the head loss and discharges indicated by question marks.
+
+QA =20 QB=?
+A Q1 = 30; hf1 = 60 B
+Qs,
+a4=?; ax Q2=?;
+hf4=? ? hf2 = 40
+° QC = 30
+Q3 = 40; hf3 = 120 c
+QD = 100
+
+J.
+--- page 2 ---
+Q.2 (b)
+
+Q.3 (a)
+
+Q.3 (b)
+
+Q.4 (a)
+Q.4 (b)
+
+Q.5 (a)
+
+Q.5 (b)
+Q.6 (a)
+
+Q.6 (b)
+Q.7 (a)
+Q.7 (b)
+
+A power transmission pipe 20 cm diameter and 200 m long is fitted with a nozzle at the
+
+exit. Find the diameter of the nozzle for maximum transmission of power through the
+nozzle. (f=0.02)
+
+Water is flowing through a pipe of diameter 20 cm and length 3000 m with a velocity
+of 2.2 m/s. A valve is closed in 3 seconds, find the rise in pressure. Take the velocity of
+pressure wave as 1440 m/s.
+
+Two pipes each of length L and diameters D; and D2 are arranged in parallel; the loss of
+head when a total quantity of water Q flows through them being hi. If the pipes are
+arranged in series and the same quantity of water Q flows through them, the loss of head
+is ho. If Di=2Dz, find the ratio of hi to.hz. Neglect minor losses and assume the friction
+factor f to be constant and to have the same value for both the pipes.
+
+Derive conditions for the best section of trapezoidal channel section.
+
+Show that the variation of depth of flow along the length of bed of the channel for steady
+gradually varied flow in open channel is given by
+
+dh Se-S,
+
+dx 1—F2
+What do you mean by gradually varied flow? What is the fundamental difference between
+GVF and RVF?
+
+The discharge of water through a rectangular channel of width 8 m, is 15 m3/s when
+depth of flow of water is 1.2 m, Calculate :
+
+(1) Specific energy of flowing water
+
+(2) Critical depth and critical velocity
+
+(3) Min specific energy.
+
+a
+
+V3
+
+A circular channel of 2 m diameter carries water at a depth of 1.5 m. If the bed slope of
+channel is | in 1000, find the discharge through the channel. Take Chezy’s constant =
+50.
+
+Classify hydraulic jump.
+
+Show that for a hydraulically efficient trapezoidal channel section, side slope is
+
+Derive the formula for head loss due to friction.
+
+A 2 m wide rectangular channel has a flow with velocity of 2 m/s and depth 1.3 m. The
+rate of flow at the upstream end is suddenly increased to an extent that the depth is
+doubled in magnitude. Estimate the absolute velocity of the resulting surge and the new
+discharge.
+
+06
+
+06
+
+06
+
+06
+06
+
+06
+
+06
+
+06
+
+06
+06
 ````
 
 ## 2017-18 · Final + Re-Exam · Sem 4 · paper da0ca2d099f7
@@ -979,280 +1253,6 @@ e) Minor losses and major losses in pipes
 Be
 ````
 
-## 2017-18 · Re-Exam · Sem 7 · paper 21ac66f65b0b
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_07/HYDRAULIC ENGINEERING/Hydraulic Engineering Batch 2017-18 Re Exam.pdf`
-- Printed on paper: exam date: 05 November 2019
-- Text: ocr (3 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated (Civil) — Year: IV Semester: VII ~
-
-Academic Year: 2019-20
-Subject: Hydraulic Engineering <
-
-Date: 05 November 2019 ~~
-
-“7
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -suitable data if necessary.
-
-Q.1 (A) Answer any Two. 06
-1. Differentiate between: (a) Prismatic and non-prismatic channel (b) pipes in series
-and parallel connection. .
-2. Sketch specific energy curve and explain it in detail.
-3. Define the terms: hydraulic jump, minimum specific enérgy, critical depth,
-alternate depths.
-
-Q.1(B) Answer any Two. 06
-1. Water is flowing through -a pipe of diameter 30 cm and length 2000 m with a
-velocity of 2.5 m/s. A valve is provided at the end of the pipe. If the valve is closed
-in 30 seconds, find the rise in pressure. Take the velocity of pressure wave as 1500
-m/s.
-2. Explain water hammer with sketch.
-3. What do you mean by gradually varied flow? What is the fundamental difference
-
-between gradually varied flow and rapidly varied flow?
-
-Q.2 (A) It is required to transmit 200 kW of hydraulic power through a pipe of 5 km long. The 06
-pressure at the inlet of the pipe is 1200 kN/m”. Find the diameter of the pipe corresponding
-to maximum efficiency of transmission. Take Darcy’s friction factor as 0.016.
-
-ae
-Ms, g
---- page 2 ---
-Q.2 (B) For the pipe network shown in figure, determine the flow in each pipe. Given discharge at 06
-each node is in m3/s. Take n = 2.0 (carry out maximum 2 iterations)
-
-4
-
-40
-
-20
-
-14.5
-10 50
-
-10
-20
-
-55
-
-Q.3 (A) Two reservoirs open to atmosphere are connected by a pipe of 20 cm diameter and 800m 06
-long. The pipe goes over a hill whose height is 3.5 m above the level of water in the upper
-reservoir. The difference in water levels in the two reservoirs is 14 m. If the absolute
-pressure of water anywhere in the pipe is not allowed to fall below 2.5 m of water in order
-to prevent vapour formation, find the length of pipe in the portion between the upper
-reservoir and the hill summit. Also compute the flow rate. Darcy’s friction factor as 0.01
-and neglect bend loss only. Take atmospheric pressure head as 10.3 m of water.
-
-Q.3 (B) Derive conditions for the best section of trapezoidal channel section. 06
-
-Q.4 (A) A trapezoidal channel with side slopes of 1 to | has to be designed to convey 9 m3/s ata 06
-velocity of 1.5 m/s so that the amount of concrete lining for the ‘bed and sides is the
-minimum. Calculate the area of lining for one meter of length of canal.
-
-Q.4(B) Derive the governing equation for gradually varied flow. 06
-
-Q.5 (A) The discharge of water through a rectangular channel is of width 6 m; is 18 m3/s when 06
-depth of flow of water is 2 m. Calculate : (i) specific energy of the flowing water (ii)
-critical depth and critical velocity (iii) value of minimum specific energy.
-
-Q.5 (B) Classify hydraulic jump. 06
-
-Q.6 (A) A sluice gate discharges water into a horizontal rectangular channel with a velocity of 6 06
-m/s and depth of flow is 0.4 m. The width of the channel is 8 m. Determine whether a
-hydraulic jump will occur, and if so, find its height and loss of energy per kg of water. Also
-determine the power lost in the jump.
-
-Q.6(B) Sketch and explain specific discharge curve. 06
-
-[gees
---- page 3 ---
-Q.7 (A) Answer any Two. 06
-1. Write a short note on velocity and pressure distribution in an open channel.
-2. Explain Surges in open channel.
-3. Classify losses in pipes. Explain each one of them in brief.
-
-Q.7(B) Answer any Two. 06
-1. What is syphon? On what principle it works?
-2. Define and explain afflux and backwater curve.
-3. Define hydraulic gradient line and energy gradient line.
-
-3]Page
-````
-
-## 2017-18 · Re-Exam · Sem 7 · paper bf1813710746
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/CIVIL/Sem_07/HYDRAULIC ENGINEERING/Hydraulic Engineering Batch 2017-18 Re Exam.tif`
-- Printed on paper: max marks: 60; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech Integrated (Civil) - Year: IV Semester : VII
-< Academic Year: 2018-2019
-
-Subject: Hydraulic Engineering Marks: 60 ~
-
-: Time: 2.00 pm to 5.00 pm
-
-Date: 19 J. 2019 ~
-ate anuary Durations: 3 (hrs)
-
-No. of Pages: 2-
-Re-examination (2017-18) —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume.suitable data if necessary.
-
-Qi) Answer all. 12
-1. Explain water hammer with sketch. ; 03
-2. Define prismatic and non-prismatic channel. 03
-3. Explain surges in open channel. 03
-4. Draw specific energy curve depicting different regimes of flow. 03
-
-Q.2 (a) A pipe network shown in figure, in which Q and he refer to discharge and head loss 06
-respectively. Determine the head loss and discharges indicated by question marks.
-
-QA =20 QB=?
-A Q1 = 30; hf1 = 60 B
-Qs,
-a4=?; ax Q2=?;
-hf4=? ? hf2 = 40
-° QC = 30
-Q3 = 40; hf3 = 120 c
-QD = 100
-
-J.
---- page 2 ---
-Q.2 (b)
-
-Q.3 (a)
-
-Q.3 (b)
-
-Q.4 (a)
-Q.4 (b)
-
-Q.5 (a)
-
-Q.5 (b)
-Q.6 (a)
-
-Q.6 (b)
-Q.7 (a)
-Q.7 (b)
-
-A power transmission pipe 20 cm diameter and 200 m long is fitted with a nozzle at the
-
-exit. Find the diameter of the nozzle for maximum transmission of power through the
-nozzle. (f=0.02)
-
-Water is flowing through a pipe of diameter 20 cm and length 3000 m with a velocity
-of 2.2 m/s. A valve is closed in 3 seconds, find the rise in pressure. Take the velocity of
-pressure wave as 1440 m/s.
-
-Two pipes each of length L and diameters D; and D2 are arranged in parallel; the loss of
-head when a total quantity of water Q flows through them being hi. If the pipes are
-arranged in series and the same quantity of water Q flows through them, the loss of head
-is ho. If Di=2Dz, find the ratio of hi to.hz. Neglect minor losses and assume the friction
-factor f to be constant and to have the same value for both the pipes.
-
-Derive conditions for the best section of trapezoidal channel section.
-
-Show that the variation of depth of flow along the length of bed of the channel for steady
-gradually varied flow in open channel is given by
-
-dh Se-S,
-
-dx 1—F2
-What do you mean by gradually varied flow? What is the fundamental difference between
-GVF and RVF?
-
-The discharge of water through a rectangular channel of width 8 m, is 15 m3/s when
-depth of flow of water is 1.2 m, Calculate :
-
-(1) Specific energy of flowing water
-
-(2) Critical depth and critical velocity
-
-(3) Min specific energy.
-
-a
-
-V3
-
-A circular channel of 2 m diameter carries water at a depth of 1.5 m. If the bed slope of
-channel is | in 1000, find the discharge through the channel. Take Chezy’s constant =
-50.
-
-Classify hydraulic jump.
-
-Show that for a hydraulically efficient trapezoidal channel section, side slope is
-
-Derive the formula for head loss due to friction.
-
-A 2 m wide rectangular channel has a flow with velocity of 2 m/s and depth 1.3 m. The
-rate of flow at the upstream end is suddenly increased to an extent that the depth is
-doubled in magnitude. Estimate the absolute velocity of the resulting surge and the new
-discharge.
-
-06
-
-06
-
-06
-
-06
-06
-
-06
-
-06
-
-06
-
-06
-06
-````
-
 ## 2017-18 · Re-Exam · Sem 7 · paper d131d8899b7d
 
 - Departments: Civil
@@ -1737,6 +1737,200 @@ d) Explain how three reservoir problem is analysed.
 e) Derive an expression for Darcy Weisbach formula.
 
 2/y_
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 958fbdf93dd2
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEEIRNG BATCH 14-15, 15-16 RE EXAM (1).pdf` (+2 identical copies)
+- Printed on paper: max marks: 60; exam date: 12 July 2017
+- Text: ocr (2 pages), mean OCR confidence 93.9
+
+````text
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: II . Semester: IV
+Batch: 2014-2015 / 2015-2016.
+
+Academic Year: 2016-2017
+Subject: Hydraulic Engineering ,-
+
+Marks: 60 ~~
+Date: 12 July 2017 ,~ Time: 10.00 am
+
+?
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Answer any four. 12
+1. Explain the phenomenon of water hammer.
+2. Explain briefly distorted and undistorted models.
+3. Differentiate between steady and uniform flow.
+4. What is specific energy curve? Draw specific energy curve.
+5. What do you mean by prismatic and non-prismatic channel section?
+6. Explain the terms: (i) Pipes in parallel (ii) equivalent pipe.
+
+Q.2(a) Two tanks containing water are connected by a horizontal pipe of length 25 m and 06
+diameter 20 cm. If the difference of water surface in the reservoir is 4.5 m, find the rate
+of flow, also draw the energy gradient line and hydraulic gradient line. Take Darcy’s
+friction factor = 0.01.
+
+Q.2(b) It is required to transmit 190 kW of hydraulic power through a pipe of 5.5 km long. The 06
+pressure at the inlet of the pipe is 1200 kN/m”. If the pressure drop per km is 90 KN/m”,
+find the efficiency of transmission and the diameter of the pipe. Take f = 0.016.
+
+Q.3(a) Derive an expression for the discharge through a channel by Chezy’s formula. 06
+
+2.
+--- page 2 ---
+Q.3(b) Show that for a hydraulically efficient trapezoidal channel section, side slope is 1/V3. 06
+
+Q.4(a) Assuming that the rate of discharge Q of a centrifugal pump is dependent upon the mass 06
+density of fluid p, pump speed N (rpm), the diameter of impeller D, the pressure p and
+viscosity of fluid 1. Derive the relationship between variables.
+
+Q.4(b) Explain geometric similarity and kinematic similarity in model analysis. 06
+
+Q.5(a) A circular drainage pipe 0.80 m in diameter conveys a discharge at a depth of 0.30 m. If 06
+the pipe is laid on a slope of 1 in 900, estimate the discharge. Manning’s n = 0.015.
+
+Q.5(b) Explain Hardy Cross method of analyzing pipe network. 06
+
+Q.6(a) Classify hydraulic jump. 06
+
+Q.6(b) Show that for a flow governed by inertia and gravity forces, the ratio of volume flow 06
+rates in two dynamically similar systems equals to the 5/2 power of length ratio.
+Q.7(a) Explain Source, Sink and doublet. 06
+
+Q.7(b) Write short note on flow past Rankine body. 06
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper ef95265c3de1
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 13 May 2017
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+; SVKM’s NMIMS ,
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+' Programme: B. Tech (CIVIL) ; Year: Semester: IV ~
+Batch: 2014-2015/2015- 2016 ~
+Academic Year: 2016-2017
+
+Subject: Hydraulic Engineering
+
+Date: 13 May 2017 ~* Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: _2—
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining question, attempt any 4 questions.
+
+3. Inall5 questions to attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+7. Assume Suitable data if necessary.
+
+Ql Answer any four s =©(12)
+a) Whatare the assumptions of gradually varied flow? @)
+b) Discuss the application of pipes in parallel with neat sketch. : (3)
+c) Define steady flow and non-uniform flow. . (3)
+d) Explain doublet and the strength of doublet. (3)
+e) Explain dimensional homogeneity. Explain with example. (3)
+
+Q.2.a) Define what is hydraulic gradient line and total energy line. Draw the hydraulic gradient (06)
+line and total energy line for a flow system in which water is discharged into atmosphere
+with a nozzle from a constant head water tank through a constant diameter pipe of length
+L. .
+Q.2b) Two tank containing water are connected by a horizontal pipe of length 250 m and (06)
+diameter 20 cm. If the volume flow rate of water through the pipe is 0.2 m?/sec, find the
+difference in the elevations between the water surfaces in tank. The Darcy’s friction
+
+factor f=0.02.
+
+Q.3.a) Find an expression for the power transmission through pipes. What is the condition for (06)
+
+maximum transmission of power?
+Q.3b) Calculate the discharge in each pipe of the network shown in figure 1. The pipe network —_(06)-
+
+consists of 5 pipes. The head loss in a pipe i$ given by he = rQ’. The values of r for
+various pipes and also the inflow or outflow at nodes are shown in figure. (solve up to
+
+two trial)
+
+Page 1 of 2
+--- page 2 ---
+A: 5 Dp .
+20 : 15
+
+7
+ra rs
+
+45 40
+
+Figure. 1
+
+Q.4a) Find the slope at which a circular sewer of 1.60 m diameter should be laid to provide the - (06)
+maximum velocity at a discharge of 0.80 m/sec. Take C=55.
+
+Q.4b) In a rectangular channel 0.75 m wide a hydraulic jump occurs at a section where the —_ (06)
+depth of water is 0.20 m and the Froude number is 3. Determiné the specific energy
+head, critical depth, sequent depth, loss of head and the power lost due to the hydraulic
+jump.
+
+Q.5a) What do you mean by repeating variables? How are the repeating variables selected for (04)
+dimensional analysis?
+
+Q.5b) Obtain the condition for a trapezoidal channel with side slopes nH: 1V to be most (08)
+efficient for a given area A and let B be its base width and D depth of flow.
+
+Q.6a) The discharge through a weir is 1.8 m°/s. Find the discharge through the model of the (04)
+weir if the horizontal dimension of the model = 1/60 the horizontal dimension of the
+prototype and vertical dimension of the model:= 1/20 the vertical dimension of the
+
+prototype. .
+Q.6b) Derive an expression for depth of hydraulic jump in terms of the upstream Froude (08)
+number.
+Q.7) Attempt any 3 question (12)
+a) Explain siphon and its principle of working. (04)
+b) What is specific energy curve? Draw a neat sketch of specific energy and define critical (04)
+depth.
+c) What is dimensionless numbers enlist them and derive formula for any one. _ (04)
+d) Explain Superimposed flow. (04)
+
+Page 2 of 2
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper c4c2051cb8be
@@ -2362,308 +2556,172 @@ av _
 
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 958fbdf93dd2
+## 2015-16 · Re-Exam · Sem 4 · paper 7da1dc2c6517
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEEIRNG BATCH 14-15, 15-16 RE EXAM (1).pdf` (+2 identical copies)
-- Printed on paper: max marks: 60; exam date: 12 July 2017
-- Text: ocr (2 pages), mean OCR confidence 93.9
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
+- Text: ocr (5 pages), mean OCR confidence 74.0
 
 ````text
-SVKM’s NMIMS .
+. SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (CIVIL) Year: II . Semester: IV
-Batch: 2014-2015 / 2015-2016.
+Programme: B.Tech (Civil) Year: II Semester: IV
+Academic Year: 2015-16
 
-Academic Year: 2016-2017
-Subject: Hydraulic Engineering ,-
+Batch:2014-15
 
-Marks: 60 ~~
-Date: 12 July 2017 ,~ Time: 10.00 am
-
-?
+Subject: Hydraulic Engineering Marks: 60
+Time: 10.00 am
+Date: 14/05/2016 Durations: 3 hrs.
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Answer any four. 12
-1. Explain the phenomenon of water hammer.
-2. Explain briefly distorted and undistorted models.
-3. Differentiate between steady and uniform flow.
-4. What is specific energy curve? Draw specific energy curve.
-5. What do you mean by prismatic and non-prismatic channel section?
-6. Explain the terms: (i) Pipes in parallel (ii) equivalent pipe.
-
-Q.2(a) Two tanks containing water are connected by a horizontal pipe of length 25 m and 06
-diameter 20 cm. If the difference of water surface in the reservoir is 4.5 m, find the rate
-of flow, also draw the energy gradient line and hydraulic gradient line. Take Darcy’s
-friction factor = 0.01.
-
-Q.2(b) It is required to transmit 190 kW of hydraulic power through a pipe of 5.5 km long. The 06
-pressure at the inlet of the pipe is 1200 kN/m”. If the pressure drop per km is 90 KN/m”,
-find the efficiency of transmission and the diameter of the pipe. Take f = 0.016.
-
-Q.3(a) Derive an expression for the discharge through a channel by Chezy’s formula. 06
-
-2.
---- page 2 ---
-Q.3(b) Show that for a hydraulically efficient trapezoidal channel section, side slope is 1/V3. 06
-
-Q.4(a) Assuming that the rate of discharge Q of a centrifugal pump is dependent upon the mass 06
-density of fluid p, pump speed N (rpm), the diameter of impeller D, the pressure p and
-viscosity of fluid 1. Derive the relationship between variables.
-
-Q.4(b) Explain geometric similarity and kinematic similarity in model analysis. 06
-
-Q.5(a) A circular drainage pipe 0.80 m in diameter conveys a discharge at a depth of 0.30 m. If 06
-the pipe is laid on a slope of 1 in 900, estimate the discharge. Manning’s n = 0.015.
-
-Q.5(b) Explain Hardy Cross method of analyzing pipe network. 06
-
-Q.6(a) Classify hydraulic jump. 06
-
-Q.6(b) Show that for a flow governed by inertia and gravity forces, the ratio of volume flow 06
-rates in two dynamically similar systems equals to the 5/2 power of length ratio.
-Q.7(a) Explain Source, Sink and doublet. 06
-
-Q.7(b) Write short note on flow past Rankine body. 06
-````
-
-## 2015 · Re-Exam · Sem 4 · paper fded78191698
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING B TECH (CIVIL), BATCH 2015-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 04/07/2015
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: IV
-Batch: 2014-15
-Academic Year: 2014-2015
-Subject: Hydraulic Engineering J fz.
-Marks: 60 ee
-Date: 04/07/2015 Time: 2,00 pm to 5.00 pn
-
-Durations:\\ “3\(hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
 NB:
-
-1) Question No. One_ is compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.No.1. Write short notes on the following (any four):
-
-i. Dimensional homogeneity. (03)
-ii. Darcy-Weisbach’s equation (03)
-iii. Prismatic and Non Prismatic channel (03)
-iv. Specific force curve ’ (03)
-v. Source and sink (03)
-vi. Gradually varied flow (03)
-Q.No.2. (a) The difference in water levels between two tanks connected by three pipes in (08)
-
-series is 18 meter. Find the discharge through the pipeline if lengths and
-
-diameter of these pipes are 325 m, 175 m, 225 mand 30 cm, 25 cm, 30 cm
-
-respectively. Take friction factor (f) for these three pipes as 0.022, 0.025 and
-
-0.03. Assume all losses.
-
-(b) Explain working of a siphon with neat sketch and show HGL and TEL. (04)
-
-Q.No.3. (a) A rectangular pipe network PQRS is divided into two by diagonal QS. Values (08)
-of K for the pipes PQ, QR, RS, SP and SQ are 1, 2, 1, 2 and 3 respectively for input
-of 100 units at P. The outputs at Q and R are 20 and 80 units respectively. Taking
-Value of n = 2 find flow distribution, velocity and head in each of the pipe. The
-error in discharge should be less than 10 % of minimum discharge flowing
-through the network.
-(b) Derive an expression for celerity of pressure wave in elastic pipe and explain {04}
-
-OV
-02
---- page 2 ---
-how it differs from that of rigid pipe?
-
-Q.No.4. (a) Derive an expression for a circular pipe to carry maximum discharge. (06)
-(b) Design a trapezoidal channel to carry 2.50 cumecs with a longitudinal slope of (06)
-1 in 1500. Take Manning’s n = 0.014 and side slope 1V: 1.5H. Also determine
-
-Chezy’s factor of the channel.
-
-Q.No.5. (a) Flow in an open channel is controlled by a sluice gate. The opening below (08)
-
-0.50 m. The velocity of flow below the gate is 9.50 m/sec. Examine
-
-sluice gate is
-the
-
-the possibility of formation of hydraulic jump and determine all
-characteristics details of the jump.
-
-(b) Explain specific energy diagram. (04)
-
-Q.No.6. (a) The ‘n’ of a fan depends on density ‘p’ and viscosity of fluid ‘w’, angular (08)
-velocity ‘w’, diameter ‘D’ and discharge ‘Q’. Obtain a functional relationship for
-
-‘n’ in terms of dimensionless parameters.
-
-(b) Estimate for a 1:25 model of spillway: (04)
-(i) Discharge on prototype (Qp), if model discharge (Qm) = 0.25 m/sec.
-(ii) Velocity on model(Vm), if velocity on prototype (Vp) = 4.50 m/sec.
-Q.No.7. (a) Sketch and explain the streamlines for the combined flow due to a source (06)
-and a sink.
-(06)
-
-(b) Explain in detail with neat sketch flow over Rankine’s half body
-
-SEO Se
-
-sro pa
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper ef95265c3de1
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 13 May 2017
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-; SVKM’s NMIMS ,
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-' Programme: B. Tech (CIVIL) ; Year: Semester: IV ~
-Batch: 2014-2015/2015- 2016 ~
-Academic Year: 2016-2017
-
-Subject: Hydraulic Engineering
-
-Date: 13 May 2017 ~* Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages: _2—
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1. Question No. 1 is compulsory.
-
+1. Question No. | is compulsory.
 2. Out of remaining question, attempt any 4 questions.
-
-3. Inall5 questions to attempted.
-
+lo 3. Inall 5 questions to attempted.
 4. All questions carry equal marks.
-
 5. Answer to each new question to be started on a fresh page.
-
 6. Figures in brackets on the right hand side indicate full marks.
 
-7. Assume Suitable data if necessary.
+EEE ne
 
-Ql Answer any four s =©(12)
-a) Whatare the assumptions of gradually varied flow? @)
-b) Discuss the application of pipes in parallel with neat sketch. : (3)
-c) Define steady flow and non-uniform flow. . (3)
-d) Explain doublet and the strength of doublet. (3)
-e) Explain dimensional homogeneity. Explain with example. (3)
+az)
+Q.1) Solve Any Four
 
-Q.2.a) Define what is hydraulic gradient line and total energy line. Draw the hydraulic gradient (06)
-line and total energy line for a flow system in which water is discharged into atmosphere
-with a nozzle from a constant head water tank through a constant diameter pipe of length
-L. .
-Q.2b) Two tank containing water are connected by a horizontal pipe of length 250 m and (06)
-diameter 20 cm. If the volume flow rate of water through the pipe is 0.2 m?/sec, find the
-difference in the elevations between the water surfaces in tank. The Darcy’s friction
+(a) Explain the terms: distorted models & undistorted models.
 
-factor f=0.02.
+(b) A pipe line of 0.6 m diameter is 1.5 km long. To increase the discharge, another line of the
+same diameter is introduced parallel to the first in the second half of the length. Neglecting
+miner losses, find the increase in discharge if 4f = 0.04. The head at the inlet is 300 mm.
 
-Q.3.a) Find an expression for the power transmission through pipes. What is the condition for (06)
+(c) Explain the term hydraulic jump.
+Oe (d).Define and explain the terms: (i) Hydraulic Gradient line (ii) Total energy line
 
-maximum transmission of power?
-Q.3b) Calculate the discharge in each pipe of the network shown in figure 1. The pipe network —_(06)-
+(e) Explain the terms: (i) Radially varied flow (ii) Gradually varied flow
 
-consists of 5 pipes. The head loss in a pipe i$ given by he = rQ’. The values of r for
-various pipes and also the inflow or outflow at nodes are shown in figure. (solve up to
+Q. 2) Attempt following
 
-two trial)
+(a) A syphon of diameter 200 mm connects two reservoirs whose water surface level differ by
 
-Page 1 of 2
+— 40 m. The total length of pipe is 8000 m. The pipe crosses a ridge. The summit of ridge is 8 m
+above the level of water in the upper reservoir. Determine the minimum depth of pipe below
+oe the summit of ridge, if the absolute pressure head at the summit of syphon is not to fall below
+
+3.0 m of water. Take f = 0.006 and atmospheric head = 10.3 m of water. The length of syphon
+from the upper reservoir to the summit is 500 m. Find the discharge also. (06)
 --- page 2 ---
-A: 5 Dp .
-20 : 15
+“,
+xO) Explain in detail ‘procedure for solving problems by Buckingham’s m-theorem’ (ec)
 
-7
-ra rs
+ny
+*
 
-45 40
+Wty gee.
 
-Figure. 1
+Q. 3) Attempt following
 
-Q.4a) Find the slope at which a circular sewer of 1.60 m diameter should be laid to provide the - (06)
-maximum velocity at a discharge of 0.80 m/sec. Take C=55.
+(a) Two pipes have a length L each. One of them has a diameter D, and the other a diameter
 
-Q.4b) In a rectangular channel 0.75 m wide a hydraulic jump occurs at a section where the —_ (06)
-depth of water is 0.20 m and the Froude number is 3. Determiné the specific energy
-head, critical depth, sequent depth, loss of head and the power lost due to the hydraulic
-jump.
+d. If che pipes are arranged in parallel, the loss of head, when a total quantity of water Q
 
-Q.5a) What do you mean by repeating variables? How are the repeating variables selected for (04)
-dimensional analysis?
+flows through is h, but, if the pipes are arranged in series and the same quantity Q flows
 
-Q.5b) Obtain the condition for a trapezoidal channel with side slopes nH: 1V to be most (08)
-efficient for a given area A and let B be its base width and D depth of flow.
+through them, the loss of head is H. If d = D/2, find the ratio of H to h, neglecting secondary
 
-Q.6a) The discharge through a weir is 1.8 m°/s. Find the discharge through the model of the (04)
-weir if the horizontal dimension of the model = 1/60 the horizontal dimension of the
-prototype and vertical dimension of the model:= 1/20 the vertical dimension of the
+losses and assuming the pipe co-efficient f has a constant value. : (06)
 
-prototype. .
-Q.6b) Derive an expression for depth of hydraulic jump in terms of the upstream Froude (08)
-number.
-Q.7) Attempt any 3 question (12)
-a) Explain siphon and its principle of working. (04)
-b) What is specific energy curve? Draw a neat sketch of specific energy and define critical (04)
-depth.
-c) What is dimensionless numbers enlist them and derive formula for any one. _ (04)
-d) Explain Superimposed flow. (04)
+(c) What is specific energy curve? Draw specific energy curve, and then derive expression for ;
+critical depth and critical velocity. (06 )
 
-Page 2 of 2
+Q. 4) Attempt following
+
+(a) Three reservoirs A, B & C are connected by pipe system as shown in fig. no. 1. The
+lengtns & diameters of pipes 1, 2 & 3 are 800m, 1000m, 800m & 300mm, 200mm & 150mm
+respectively. Determine piezometric head at junction D. take f= 0.005 C06)
+
+(b) In fig. no. 2, when a sudden contraction is introduced in a horizontal pipe line from 50 cm
+to 25 cm, the pressure changes from 10,500 kg/m2 (103005 N/m2) to 6900 kg/m2 (67689
+N/m2). Calculate the rate of flow. Assume co-efficient of contraction to be 0.65.
+
+Following this if there is a sudden enlargement from 25 cm to 50 cm and if the pressure at
+the 25 cm section is 6900 kg/m2 (67689 N/m2) what is the pressure at 50 cm enlarged section?
+
+(06)
+
+Q. 5) Attempt following
+
+(a) A trapezoidal channel has a side slopes 1 to 1. It is required to discharge 13.75 m3/s of
+
+water with a bed gradient of 1 in 1000. If unlined the value of Chezy’s C is 44. If lined with
+concrete, its value is 60. The cost per m3 of excavation is four times the cost per m3 of lining.
+
+The channel is to be most efficient one. Find whether the lined canal or the unlined canal will
+
+be cheaper. What will be the dimensions of that economical canal? ; (06)
+
+2S”
+
+“~
+--- page 3 ---
+(b) Explain the phenomenon of water Hammer. Obtain an expression for the rise of
+pressure when the flowing water in pipe is brought to rest by closing the valve
+gradually. (06)
+Q 6)Attempt following
+
+(a) Find the diameter of a circular sewer pipe which is laid at a slope of 1 in 8000 and
+carries a discharge of 800 Liters/ sec when flowing half full. Take the value of Manning’s
+N= 0.020. (06)
+(b) Solve the following network by Hardy cross Method. (Use max. 2 iteration) (06)
+
+a
+
+Is
+Q ”) Solve
+
+a) Using Buckingham’s 7 theorem, show that the velocity through a circular orifice is
+gi b = aD yhere H is the head causing flow, D is the di t
+given by,\/ — As od Gx eva) where H is the hea g , D is the diameter
+
+of the orifice, 1 is co-efficient of viscosity, g is the mass density & g is the acceleration
+due to gravity. (06)
+
+b) Flow in an open channel is controlled by a sluice gate. The opening below sluice gate
+is 0.6 m. the velocity of flow below the gate is 10 m/sec. Examine the possibility of
+formation of hydraulic jump & determine all the characteristics details of the jump. (06)
+--- page 4 ---
+A x ie
+i
+60m ~
+46
+30;
+DATUM LINE °
+Nf ae
+
+FIGURE No. 1
+--- page 5 ---
+7 @ @
+
+anes 4 5 a |
+
+ch) | | Ra = 6300Ka/ py D4 SOc
+I= LOste =
+
+p= 10 4 | ‘ D3rz 2c ] Pr= 22
+
+Ka a +——
+i D4= 2S cm
+y P22 6900 Kg |r ; a
+
+FIGURE Uo, Qe
+
+S/s ‘
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper c93b425b7c69
@@ -2673,6 +2731,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING BATCH 2014-15, 2015-16 RE EXAM.pdf`
 - Printed on paper: duration hours: 3; exam date: 05 July 2016
 - Text: ocr (2 pages), mean OCR confidence 89.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2776,7 +2835,109 @@ trapezoidal channel,
 e) Explain the terms: Free vortex flow and superimposed flow.
 f) Explain specific energy curve, * ".-. * |
 
-2 2 2 FR 2 RR A A KE A EO 2 a a
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper c4652e9b7a22
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/HYDRAULICS ENGINEERING/Hydraulic Engineering Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 12/05/2016
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Civil) Year: II Semester:IV
+Academic Year: 2015-16 a ab ~
+
+Batch: 2014-15
+
+Subject: Hydraulic Engineering
+
+Date: 12/05/2016
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. One is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.No.1. Write short notes on the following (any four):
+
+i. Power transmission through pipes. (03)
+ii. Rigid pipe theory. (03)
+iii. Bernoulli’s theorem and its practical applications. (03)
+iv. Surges in the channel. (03)
+v. Distorted and undistorted model (with examples) (03)
+vi. S1, $2, $3 curves. (03)
+
+Q. No.2. (a) Two pipes of length 2.20 kM meter each having diameters of 50 cm and 40 (06)
+cm respectively are connected in parallel. If friction factor (f) for each pipe is
+0.020 and total flow rate is 350 liters/sec, find rate of flow in each pipe.
+(b) A siphon of length 800 m has its vertex 7 meters above the water level in the (06)
+upper reservoir. The length of inlet leg of siphon is 220 m and total head loss in
+siphon is 20 m. Determine diameter of the siphon such that pressure at summit
+does not fall below vapour pressure of water. Take f = 0.02.
+
+Q.No.3. (a) A rectangular pipe network PQRS consists of five pipes in which QS is (06)
+Diagonal pipe. The values of friction parameter K for pipes PQ = RS=2, QR=SP= 1
+and QS=3. The input at P is 90 units and output at Q and R are 40 and 50 units.
+
+cles
+--- page 2 ---
+Find discharge in each pipe using two trials. Take n = 2.
+
+(b) A 10 mm thick, 2.50 kM. long and 250 mm dia. steel pipe carries water at
+
+4600 liters per minute. A valve at its end is closed in 3 seconds. If density of (06)
+water =1000 kg/m? , Kwater = 2 x 10? N/M2 and Estes: = 2 x 10° N/m’, find the
+circumferential stress in pipe material due to water hammer and type of closure
+
+of valve.
+
+Q. No.4. (a) Explain with neat sketch: specific energy curve, critical depth, critical velocity (06)
+and minimum specific energy in terms of critical depth.
+(b) A trapezoidal channel with side slopes of 3 horizontal to 2 vertical has to be
+designed to carry 12 cum/sec at a velocity of 1.4 meter/sec, so that the cost of (06)
+the lining for the bed and sides is minimum. If Manning’s N = 0.015. Estimate;
+(i) the wetted perimeter; and
+
+(ii) channel bed slope.
+
+Q. No.5. (a) Classify hydraulic jump and explain in brief each types. (06)
+(b) A horizontal rectangular channel 4 meter wide carries a discharge of 15 (06)
+cum/sec. Determine whether a jump may occur at an inlet depth of 0.55 meter
+or not. If a jump occurs, determine the sequent depth to this initial depth. Also
+determine the energy loss in the jump.
+
+Q.No.6.: (a) Explain the terms Geometric, Kinematics and dynamic similarities. (06)
+(b)Using dimensional analysis technique; derive the: thrust developed by (06)
+propeller assuming that the thrust (T) depends upon the angular velocity (w),
+speed of advance (V), diameter (D), dynamic viscosity (1), mass density (p) and
+elasticity of fluid medium which can be represented by the speed of sound (C) in
+
+the medium.
+Q.No.7. (a) Explain with neat sketches for flow past a Rankine oval body. (06)
+(b) Derive dynamic equation of gradually varied flow. (06)
+
+~~ 7 vd
+
+ses
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper c8abe1c22dc4
@@ -3161,172 +3322,617 @@ Distorted and undistorted models
 12
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper 7da1dc2c6517
+## 2014-15 · Re-Exam · Sem 4 · paper bb4bbf63fe20
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
-- Text: ocr (5 pages), mean OCR confidence 74.0
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 04/07/2015
+- Text: ocr (2 pages), mean OCR confidence 91.4
 
 ````text
-. SVKM’s NMIMS
+SVKM’s NMIMS a
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Civil) Year: II Semester: IV
-Academic Year: 2015-16
+Programme: B. Tech (CIVIL) Year: II Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Hydraulic Engineering Lvs ~
+Marks: _ ,,100 Nw,
+Date: 04/07/2015 Time: ; 2.00 pm to 5.00 pra
+Durations:, 3 (hrs) x y Ss
+i hk Wi
+. SO “4 w
+Re-Examination SS > A
 
-Batch:2014-15
+eu
 
-Subject: Hydraulic Engineering Marks: 60
-Time: 10.00 am
-Date: 14/05/2016 Durations: 3 hrs.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the Answer Book,
+which is provided for their use.
+NB:
+
+1. Qu. 1 is compulsory
+
+2. Out of remaining questions attempt Any 4 questions
+
+3. All questions carry equal marks
+
+4, Answer to each question to be started on the fresh page
+
+5. Assume suitable additional data, if not given & mention it clearly.
+
+Qu.1 Write short notes (any Four) 20
+a) Pressure distribution in open channel
+b) Water hammer pressure
+
+c) Hardy Cross method for pipe network
+
+d) Explain dimensional homogeneity (with one example)
+e) Positive and negative surge
+
+f) Explain specific energy curve (with sketch)
+
+Qu.2a: A rectangular channel carrying a supercritical stream is to be provided with a hydraulic 10
+jump type of energy dissipater. If it is desired to have an energy loss of 5m in the jump
+when the inlet Froude number is 8.5, determine the sequent depths.
+
+Qu.2b: In a tidal river the depth and velocity of flow are 0.9m and 1.25m/s respectively. Due to 10
+tidal action a tidal bore of height 1.2m is observed to travel upstream. Estimate the speed
+of the bore and the speed of flow after the passage of the bore.
+
+Qu.3a: Illustrate Rayleigh’s method of dimensional analysis with two examples 10
+
+Qu.3b: A small sphere of density ps and diameter D settles at a terminal velocity V ina liquid of 10
+density pf and dynamic viscosity 1. Gravity g is known to be a parameter. Express the
+functional relationships between these variables in a dimensionless form.
+
+Qu.4a: A uniform flow with a velocity 8m/s is flowing over a doublet of strength 11m2/s placed at 10
+
+origin. Find the velocity at a point in the flow-field whose polar coordinates are 0.6m and
+450.
+
+Qu.4b: Derive an expression for stream function and velocity potential function for the flow past 10
+circular cylinder.
+
+Qu.5a: Two reservoirs | and 2 having levels difference between free surfaces of 5m, areconnected 10
+by pipes AB and BC of diameters 20 cm and 30 cm respectively. Length of AB is 300m
+and that of BC is 200m. If flow through the pipe is 50 LPS, find loss due to expansion and
+friction factor. Draw EGL and HGL L fp
+--- page 2 ---
+Qu.5b:
+
+Qu.6a:
+
+Qu.6b:
+
+Qu.7:
+a)
+b)
+c)
+d)
+e)
+
+When a sudden contraction from a 60 cm diameter pipe to 30 cm diameter pipe is introduced in a
+horizontal pipeline, the pressure drops from 100kPa at the upstream of the contraction to 80 kPa on
+the downstream. Assuming a coefficient of contraction of 0.65,
+
+a.) Estimate the flow rate in the pipe
+
+b.) The loss of head due to contraction
+
+A siphon of diameter 150mm connects two reservoirs having a difference in elevation as 15m. The
+total length of siphon is 400m and the summit is 4m above the water level in the upper reservoir.
+The length of pipe from upper reservoir to the summit is 80m. Determine the discharge through the
+siphon and also the pressure at the summit.
+
+For the pipe network shown in Fig.1, determine the flow in each pipe. (Carry out max. three
+iterations)
+
+100 cumec r=3 50 cumec
+AN (\ Bo
+= reste Loop |
+(\ f=2
+c Loop Il D
+30 cume¢ r=4 20 cumec
+Fig.1
+
+Attempt any Four (each carry equal marks)
+
+Equivalent pipe
+
+Show that for a hydraulically efficient trapezoidal section the side slope is 1/3
+Derive an expression for power transmission through a pipe
+
+Explain model laws
+Explain the terms: Source, sink and Free vortex flow
+
+10
+
+10
+
+10
+
+20
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper b9be1143b826
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING B TECH (CIVIL), BATCH 2013-14 RE EXAM_b9be1143b8.pdf`
+- Printed on paper: exam date: 18/05/2015
+- Text: ocr (3 pages), mean OCR confidence 92.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: Il Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015 peTiteTl OF may
+. . he
+Subject: Hydraulic Engineering ; $7 amy
+Mark# af MiP@ TM x
+Date: 18/05/2015 Time
 
 Re-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+On the cover of the answer book, which is provided for their use.
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
+
+Q1. Attempt any five questions:-
+
+Q2
+
+Q3
+
+Q4
+
+a) What do you understand by the terms: major loss & minor losses in pipes? 4
+b) Define: 4
+i) Total energy line
+ii) Hydraulic energy line
+c) Explain hydraulic efficient channel. 4
+d) Define: ‘ 4
+i) Uniform flow
+ii) Free vortex flow
+e) How the open channels are classified? Explain any one. 4
+f) A flow of water of 100 lit. per sec. flows down in a rectangular flume of width 600 mm _ 4
+& having adjustable bottom slope. If chezy’s constant C is 56, find the bottom slope
+necessary for uniform flow with a depth of flow 300 mm. Also find the conveyance K
+
+of the flume.
+
+a) Derive an expression for loss of head due to: i) sudden Enlargement ii) sudden 10
+contraction of pipe.
+
+b) Obtain an expression for the flow through pipes in series. 10
+
+a) A siphon of diameter 200 mm connects two reservoirs having a difference in elevation 10
+of 20 m. The length of siphon is 500 m & the summit is 3 m above the water level in
+the upper reservoir. The length of the pipe from upper reservoir to the summit is 100 m.
+Determine the discharge through the siphon & also pressure at summit. Neglect minor
+losses. The co-efficient of friction, f= 0.005
+
+b) Three reservoirs A, B & C are connected by a pipe system as shown in fig. no. | (find 10
+the attachment of the figure). The lengths & diameters of pipes 1, 2 & 3 are 800m,
+1000m, 800m & 300 mm, 200 mm & 150 mm respectively. Determine the piezometric
+head at junction D. take f = 0.005
+
+a) The difference in water surface levels in two tanks, which are connected by three pipes 10
+in series of lengths 300 m, 170 m, 210 m & of diameters 300 mm, 200 mm, 400 mm
+respectively, is 12 m. Determine the rate of flow of water if co-efficient of friction are
+0.005, 0.0052 & 0.0048 respectively, considering: (i) minor losses also (ii) neglecting
+
+minor losses.
+4/2
+--- page 2 ---
+b) State Buckingham’s Pi theorem. Why this theorem is considered superior over the
+Rayleigh’s method for dimensional analysis. 10
+
+Q. 5 a) Explain the term distorted model of undistorted model. Also explain the importance of
+
+Scale effect in Dimensional Analysis. 10
+b) Obtain an expression for power transmission through pipes. Also derive relationship
+
+between pipe Diameter (D) and Nozzle Diameters (d) at the end of pipe. 10
+
+Q.6 2) A horizontal pipe of Diameter 500 mm is suddenly contracted to a diameter of 250 mm.
+The pressure intensities in the large and the smaller pipe is given as 13.734 Niem?
+&11.772 N/cm? respectively. Find the loss of head due to sudden contraction if Cc =
+0.62. Also determine the rate of flow of water. 10°
+
+b) What do you mean by equivalent pipe? Obtain an example for equivalent pipe. 10
+
+\
+
+\
+
+Q7a) Differer entiate fe bev veen gradually varied flow & rapidly varied flow. Also derive an
+mic equation : for a gradually varied flow. 10
+i gradual closure of a valve fitted in a pipe line.
+ner and its effects. 10
+--- page 3 ---
+
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper fded78191698
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING B TECH (CIVIL), BATCH 2015-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 04/07/2015
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: II Semester: IV
+Batch: 2014-15
+Academic Year: 2014-2015
+Subject: Hydraulic Engineering J fz.
+Marks: 60 ee
+Date: 04/07/2015 Time: 2,00 pm to 5.00 pn
+
+Durations:\\ “3\(hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 NB:
-1. Question No. | is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-lo 3. Inall 5 questions to attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
 
-EEE ne
+1) Question No. One_ is compulsory.
 
-az)
-Q.1) Solve Any Four
+2) Out of remaining questions, attempt any Four questions.
 
-(a) Explain the terms: distorted models & undistorted models.
+3) In all Five questions to be attempted.
 
-(b) A pipe line of 0.6 m diameter is 1.5 km long. To increase the discharge, another line of the
-same diameter is introduced parallel to the first in the second half of the length. Neglecting
-miner losses, find the increase in discharge if 4f = 0.04. The head at the inlet is 300 mm.
+4) All questions carry equal marks.
 
-(c) Explain the term hydraulic jump.
-Oe (d).Define and explain the terms: (i) Hydraulic Gradient line (ii) Total energy line
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
 
-(e) Explain the terms: (i) Radially varied flow (ii) Gradually varied flow
+Q.No.1. Write short notes on the following (any four):
 
-Q. 2) Attempt following
+i. Dimensional homogeneity. (03)
+ii. Darcy-Weisbach’s equation (03)
+iii. Prismatic and Non Prismatic channel (03)
+iv. Specific force curve ’ (03)
+v. Source and sink (03)
+vi. Gradually varied flow (03)
+Q.No.2. (a) The difference in water levels between two tanks connected by three pipes in (08)
 
-(a) A syphon of diameter 200 mm connects two reservoirs whose water surface level differ by
+series is 18 meter. Find the discharge through the pipeline if lengths and
 
-— 40 m. The total length of pipe is 8000 m. The pipe crosses a ridge. The summit of ridge is 8 m
-above the level of water in the upper reservoir. Determine the minimum depth of pipe below
-oe the summit of ridge, if the absolute pressure head at the summit of syphon is not to fall below
+diameter of these pipes are 325 m, 175 m, 225 mand 30 cm, 25 cm, 30 cm
 
-3.0 m of water. Take f = 0.006 and atmospheric head = 10.3 m of water. The length of syphon
-from the upper reservoir to the summit is 500 m. Find the discharge also. (06)
+respectively. Take friction factor (f) for these three pipes as 0.022, 0.025 and
+
+0.03. Assume all losses.
+
+(b) Explain working of a siphon with neat sketch and show HGL and TEL. (04)
+
+Q.No.3. (a) A rectangular pipe network PQRS is divided into two by diagonal QS. Values (08)
+of K for the pipes PQ, QR, RS, SP and SQ are 1, 2, 1, 2 and 3 respectively for input
+of 100 units at P. The outputs at Q and R are 20 and 80 units respectively. Taking
+Value of n = 2 find flow distribution, velocity and head in each of the pipe. The
+error in discharge should be less than 10 % of minimum discharge flowing
+through the network.
+(b) Derive an expression for celerity of pressure wave in elastic pipe and explain {04}
+
+OV
+02
 --- page 2 ---
-“,
-xO) Explain in detail ‘procedure for solving problems by Buckingham’s m-theorem’ (ec)
+how it differs from that of rigid pipe?
 
-ny
-*
+Q.No.4. (a) Derive an expression for a circular pipe to carry maximum discharge. (06)
+(b) Design a trapezoidal channel to carry 2.50 cumecs with a longitudinal slope of (06)
+1 in 1500. Take Manning’s n = 0.014 and side slope 1V: 1.5H. Also determine
 
-Wty gee.
+Chezy’s factor of the channel.
 
-Q. 3) Attempt following
+Q.No.5. (a) Flow in an open channel is controlled by a sluice gate. The opening below (08)
 
-(a) Two pipes have a length L each. One of them has a diameter D, and the other a diameter
+0.50 m. The velocity of flow below the gate is 9.50 m/sec. Examine
 
-d. If che pipes are arranged in parallel, the loss of head, when a total quantity of water Q
+sluice gate is
+the
 
-flows through is h, but, if the pipes are arranged in series and the same quantity Q flows
+the possibility of formation of hydraulic jump and determine all
+characteristics details of the jump.
 
-through them, the loss of head is H. If d = D/2, find the ratio of H to h, neglecting secondary
+(b) Explain specific energy diagram. (04)
 
-losses and assuming the pipe co-efficient f has a constant value. : (06)
+Q.No.6. (a) The ‘n’ of a fan depends on density ‘p’ and viscosity of fluid ‘w’, angular (08)
+velocity ‘w’, diameter ‘D’ and discharge ‘Q’. Obtain a functional relationship for
 
-(c) What is specific energy curve? Draw specific energy curve, and then derive expression for ;
-critical depth and critical velocity. (06 )
+‘n’ in terms of dimensionless parameters.
 
-Q. 4) Attempt following
-
-(a) Three reservoirs A, B & C are connected by pipe system as shown in fig. no. 1. The
-lengtns & diameters of pipes 1, 2 & 3 are 800m, 1000m, 800m & 300mm, 200mm & 150mm
-respectively. Determine piezometric head at junction D. take f= 0.005 C06)
-
-(b) In fig. no. 2, when a sudden contraction is introduced in a horizontal pipe line from 50 cm
-to 25 cm, the pressure changes from 10,500 kg/m2 (103005 N/m2) to 6900 kg/m2 (67689
-N/m2). Calculate the rate of flow. Assume co-efficient of contraction to be 0.65.
-
-Following this if there is a sudden enlargement from 25 cm to 50 cm and if the pressure at
-the 25 cm section is 6900 kg/m2 (67689 N/m2) what is the pressure at 50 cm enlarged section?
-
+(b) Estimate for a 1:25 model of spillway: (04)
+(i) Discharge on prototype (Qp), if model discharge (Qm) = 0.25 m/sec.
+(ii) Velocity on model(Vm), if velocity on prototype (Vp) = 4.50 m/sec.
+Q.No.7. (a) Sketch and explain the streamlines for the combined flow due to a source (06)
+and a sink.
 (06)
 
-Q. 5) Attempt following
+(b) Explain in detail with neat sketch flow over Rankine’s half body
 
-(a) A trapezoidal channel has a side slopes 1 to 1. It is required to discharge 13.75 m3/s of
+SEO Se
 
-water with a bed gradient of 1 in 1000. If unlined the value of Chezy’s C is 44. If lined with
-concrete, its value is 60. The cost per m3 of excavation is four times the cost per m3 of lining.
+sro pa
+````
 
-The channel is to be most efficient one. Find whether the lined canal or the unlined canal will
+## 2014-15 · Re-Exam · Sem 4 · paper 6d5fe1af5aca
 
-be cheaper. What will be the dimensions of that economical canal? ; (06)
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/HYDRAULICS ENGINEERING/HYDRAULICS ENGINEERING BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 13/05/2015
+- Text: ocr (2 pages), mean OCR confidence 90.8
 
-2S”
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-“~
---- page 3 ---
-(b) Explain the phenomenon of water Hammer. Obtain an expression for the rise of
-pressure when the flowing water in pipe is brought to rest by closing the valve
-gradually. (06)
-Q 6)Attempt following
+Programme: MBA Tech (Civil) Year: II Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015
 
-(a) Find the diameter of a circular sewer pipe which is laid at a slope of 1 in 8000 and
-carries a discharge of 800 Liters/ sec when flowing half full. Take the value of Manning’s
-N= 0.020. (06)
-(b) Solve the following network by Hardy cross Method. (Use max. 2 iteration) (06)
+Subject: Hydraulics Engineering if : a
+Marks: fis oF 00 STMB ye "
 
-a
+Date: 13/05/2015 Time: © 3 10.0Qxamztoy1. pm
 
-Is
-Q ”) Solve
+Durations (hrs) r 'S/
 
-a) Using Buckingham’s 7 theorem, show that the velocity through a circular orifice is
-gi b = aD yhere H is the head causing flow, D is the di t
-given by,\/ — As od Gx eva) where H is the hea g , D is the diameter
+Re-Examination
 
-of the orifice, 1 is co-efficient of viscosity, g is the mass density & g is the acceleration
-due to gravity. (06)
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-b) Flow in an open channel is controlled by a sluice gate. The opening below sluice gate
-is 0.6 m. the velocity of flow below the gate is 10 m/sec. Examine the possibility of
-formation of hydraulic jump & determine all the characteristics details of the jump. (06)
---- page 4 ---
-A x ie
-i
-60m ~
-46
-30;
-DATUM LINE °
-Nf ae
+NB:
 
-FIGURE No. 1
---- page 5 ---
-7 @ @
+1) Question No. Que is compulsory.
 
-anes 4 5 a |
+2) Out of remaining questions, attempt any four questions,
 
-ch) | | Ra = 6300Ka/ py D4 SOc
-I= LOste =
+3) In all five questions to be attempted.
 
-p= 10 4 | ‘ D3rz 2c ] Pr= 22
+4) All questions carry equal marks.
 
-Ka a +——
-i D4= 2S cm
-y P22 6900 Kg |r ; a
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
 
-FIGURE Uo, Qe
+Q.No.1. Write short notes on; (any four)
 
-S/s ‘
+(a) Power transmission through pipe and nozzle. (05)
+(b) Elastic pipe theory. (05)
+(c) Classification of channels. (05)
+(d) Waves and surges in open channels. (05)
+(e) Free vortex flow. (05)
+
+Q.No.2. (a) Derive: Darcy-Weisbach’s equation for major loss of head in pipe (06)
+flow. Explain all terms used.
+
+(b) List out minor losses in pipe flow. Give expression of each and explain (06)
+notations used.
+
+(c) A pipeline of 10 cm diameter is 2.50 kM. long. In order to increase the (08)
+discharge another parallel pipe of same diameter is introduced in the
+second half of the existing pipe. Determine the increase in discharge, if
+friction factor for pipe = 0.010 and head loss = 35 m. Neglect minor
+losses.
+
+Q.No.3. (a) State assumptions in Hardy-cross method used for solving pipe (10)
+network problem and derive an expression for correction in discharge
+for value ofn =2
+(b) A rigid pipe 3000 m long and 50 cm diameter is used to carry water (10)
+flowing with a velocity of 2.50 m/s. Ifthe valve at the end of the pipe is
+closed in 1.50 seconds, find the rise in pressure. Take Bulk modulus of
+water = 2 x 10° N/em?.
+--- page 2 ---
+Q.No.4. (a) Classify: flow in open channel. (05)
+(b) State: assumptions made in deriving Bernoulli’s equation. (05)
+(c) A rectangular channel 2.50 m wide carries a discharge of 7.50 m/s. (10)
+
+Calculate the critical depth and specific energy at critical depth.
+
+Q.No.5. (a) Define Hydraulic jump and derive an expression for loss of energy. (0)
+(b) Determine the length of back water curve caused by afflux of 1.50 m in (10)
+a rectangular channel width 50 m and depth 2.0 m The slope of the bed
+is given as | in 2500. Take Manning’s N = 0.030.
+
+Q.No.6. (a) Explain Buckingham’s a-Theorem. (10)
+(b) The resisting force ‘R’ of a supersonic plane during flight can be (10)
+considered as dependent upon the length of the aircraft ‘L’, velocity
+‘v’, air viscosity “p’, air density ‘p’, and bulk modulus ‘ k’. Express the
+functional relationship between these variables and resisting force.
+
+Q.No.7. (a) Describe “Rankine’s half body” in potential flow analysis. Obtain (08)
+expression for flow lines and equipotential lines.
+(b) | Show: specific energy curve for three discharges (given Q; > Qo > Q3) (08)
+and explain in brief.
+(c) Describe concept of the most economical channel section. (04)
+
+——— XK
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper ad0a4a53e9d1
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/HYDRAULICS ENGINEERING/Hydraulic Engineering Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 02/07/2015
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CIVIL) Year: II Semester: IV
+
+Academic Year: 2014-15
+
+4 spanitOTl OF
+Batch: 2013-14 atl i
+
+Yi
+Subject : Hydraulic Engineering Marks: 100 if ( LIBRA k >. ’
+Time : 10.00 1.00 pm a
+Date : 02/07/2015 Durations: 3 ( te we
+Re-Examination Ma aver
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the Answer Book,
+which is provided for their use.
+NB:
+1. Qu. Lis compulsory
+2. Out of remaining questions attempt Any 4 questions
+3. All questions carry equal marks
+4. Answer to each question to be started on the fresh page
+5. Assume suitabie additionai data, if not given & mention it clearly.
+
+Qu.l Attempt any Four(Each carrying equal marks) 20
+a) Three reservoir problem (by Hardy Cross method)
+b) Velocity distribution in open channel
+c) Explain the term alternate depth (with sketch)
+d) What do you understand by hydraulically efficient channel? Derive an expression for hydraulically efficient
+trapezoidal channel
+e) Explain stream function and potential function for flow over Rankine oval body
+
+Qu.2a: For the pipe network shown in Fig. determine the discharge distribution by Hardy Cross Method (Carry out
+
+at least 2 iterations)
+
+10
+
+r=? pg 30m?/sec
+
+50m3/sec_A
+
+Ns
+c 10 m/sec
+
+r=5
+10 m?/sec _
+
+Qu.2b: A pipe of diameter 300mm and length 3000m is used for the transmission of power by water. The 10
+total head at inlet of the pipe is 400m. Find the maximum power available at the outlet of the pipe.
+Take f=0.005.
+
+Qu.3a: A pipeline ABC 180m long, is laid on an upward slope of lin 60. The length of the portion 10
+AB is 90m and its diameter is 0.15m. At B the pipe section suddenly enlarges to 0.3m
+diameter and remains so for the remainders of its length BC, 90m. A flow of 50 litres per
+second is pumped into the pipe at its lower end A and is discharged at the upper end C into
+aclose tank. The pressure at the supply end A is 137.34kN/m2. Sketch (a) the total energy
+line, (b) the hydraulic grade line and also find the pressure at the discharge end C. Take
+f=0.02.
+
+Qu.3b: Two reservoirs are connected by a pipeline which rises above the level of the highest 10
+reservoir. What will be the highest point of the siphon above the level if the length of the
+pipe leading upto this point is 540m, the diameter of the pipe being 0.35m? The difference
+4/2
+--- page 2 ---
+Qu.4a:
+
+Qu.4b:
+
+Qu.5a:
+
+Qu.5b:
+
+Qu.6a:
+
+Qu.6e:
+
+Qu.7:
+
+a)
+
+c)
+d)
+e)
+
+in level of the two reservoirs is 12.6m and the total length of the pipe is 960m. The siphon
+must run full, the separation of dissolved gases may be assumed to occur at an absolute
+pressure of 2.4m of water. Water will be the discharge under the above conditions in litres.
+
+ular channel of 1.6m diameter carries water at 7.5 m3/s. Find the slope of the bed of the
+
+A circ
+) maximum discharge. Take Chezy’s constant C=50.
+
+channel for (a) maximum velocity and (b
+A discharge of 10m3/s flows at a depth of 2.0 m in a rectangular channel 4.0m wide. At a section
+the width is reduced to 3.5m. It is desired to provide a smooth hump at this contracted section to
+achieve critical depth without affecting the upstream depth. Estimate the height of the hump
+
+required. Neglect frictional losses.
+
+rge of 1.25 m3/s. What is the corresponding prototype
+
+A 1:50 spillway model has a discha
+12 hours to occur in the prototype, how long should it take
+
+discharge? If a flood phenomenon takes
+in the model?
+
+Using Buckingham’s TI theorem, sh
+dynamic viscosity 1, through a circu
+
+v= (3aft | 2B
+
+pV
+213
+a) Prove that critical depth in open channel h, = (=|
+&
+
+ow that the velocity V, of flow of a fluid of mass density p and
+lar orifice of diameter D under a head H is given by
+
+b) Explain specific energy curve (with sketch)
+
+ed width 2m the depth of flow is 1.2m. When the
+M to another section N where the depth is 1.4m.
+e two steps in direct step method.
+
+At a certain section in a rectangular channel of b
+flow rate is 6.0m3/s, estimate the distance from
+The bed slope is 0.002 and manning’s n=0.015. Tak
+
+Attempt any Four (each carry equal marks)
+Types of similarities in model and prototype
+Derive an expression for power transmission throu
+Compare distorted and undistorted models
+
+Surges in open channel
+
+Water distribution network (by Hardy Cross method)
+
+gh a nozzle of a pipe
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+20
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper b0d112e6af92
@@ -3431,109 +4037,6 @@ Q.No.7. (a) Explain with neat sketches: Flow past a Rankine oval body. (06)
 equation for gradually varied flow.
 
 OR I IOI ICRC 2K ACI ICICI ICR 2 AC CC A a A ok a ok ok ok 3
-````
-
-## 2014-15 · Re-Exam · Sem 4 · paper c4652e9b7a22
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/HYDRAULICS ENGINEERING/Hydraulic Engineering Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 12/05/2016
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Civil) Year: II Semester:IV
-Academic Year: 2015-16 a ab ~
-
-Batch: 2014-15
-
-Subject: Hydraulic Engineering
-
-Date: 12/05/2016
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. One is compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.No.1. Write short notes on the following (any four):
-
-i. Power transmission through pipes. (03)
-ii. Rigid pipe theory. (03)
-iii. Bernoulli’s theorem and its practical applications. (03)
-iv. Surges in the channel. (03)
-v. Distorted and undistorted model (with examples) (03)
-vi. S1, $2, $3 curves. (03)
-
-Q. No.2. (a) Two pipes of length 2.20 kM meter each having diameters of 50 cm and 40 (06)
-cm respectively are connected in parallel. If friction factor (f) for each pipe is
-0.020 and total flow rate is 350 liters/sec, find rate of flow in each pipe.
-(b) A siphon of length 800 m has its vertex 7 meters above the water level in the (06)
-upper reservoir. The length of inlet leg of siphon is 220 m and total head loss in
-siphon is 20 m. Determine diameter of the siphon such that pressure at summit
-does not fall below vapour pressure of water. Take f = 0.02.
-
-Q.No.3. (a) A rectangular pipe network PQRS consists of five pipes in which QS is (06)
-Diagonal pipe. The values of friction parameter K for pipes PQ = RS=2, QR=SP= 1
-and QS=3. The input at P is 90 units and output at Q and R are 40 and 50 units.
-
-cles
---- page 2 ---
-Find discharge in each pipe using two trials. Take n = 2.
-
-(b) A 10 mm thick, 2.50 kM. long and 250 mm dia. steel pipe carries water at
-
-4600 liters per minute. A valve at its end is closed in 3 seconds. If density of (06)
-water =1000 kg/m? , Kwater = 2 x 10? N/M2 and Estes: = 2 x 10° N/m’, find the
-circumferential stress in pipe material due to water hammer and type of closure
-
-of valve.
-
-Q. No.4. (a) Explain with neat sketch: specific energy curve, critical depth, critical velocity (06)
-and minimum specific energy in terms of critical depth.
-(b) A trapezoidal channel with side slopes of 3 horizontal to 2 vertical has to be
-designed to carry 12 cum/sec at a velocity of 1.4 meter/sec, so that the cost of (06)
-the lining for the bed and sides is minimum. If Manning’s N = 0.015. Estimate;
-(i) the wetted perimeter; and
-
-(ii) channel bed slope.
-
-Q. No.5. (a) Classify hydraulic jump and explain in brief each types. (06)
-(b) A horizontal rectangular channel 4 meter wide carries a discharge of 15 (06)
-cum/sec. Determine whether a jump may occur at an inlet depth of 0.55 meter
-or not. If a jump occurs, determine the sequent depth to this initial depth. Also
-determine the energy loss in the jump.
-
-Q.No.6.: (a) Explain the terms Geometric, Kinematics and dynamic similarities. (06)
-(b)Using dimensional analysis technique; derive the: thrust developed by (06)
-propeller assuming that the thrust (T) depends upon the angular velocity (w),
-speed of advance (V), diameter (D), dynamic viscosity (1), mass density (p) and
-elasticity of fluid medium which can be represented by the speed of sound (C) in
-
-the medium.
-Q.No.7. (a) Explain with neat sketches for flow past a Rankine oval body. (06)
-(b) Derive dynamic equation of gradually varied flow. (06)
-
-~~ 7 vd
-
-ses
 ````
 
 ## 2013-14 · Final-Exam · Sem 4 · paper cefc99facecd
@@ -3921,246 +4424,6 @@ point P (1, 1) which is lying on the flownet of the resultant stream line.
 ~ is *
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper bb4bbf63fe20
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 04/07/2015
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS a
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Hydraulic Engineering Lvs ~
-Marks: _ ,,100 Nw,
-Date: 04/07/2015 Time: ; 2.00 pm to 5.00 pra
-Durations:, 3 (hrs) x y Ss
-i hk Wi
-. SO “4 w
-Re-Examination SS > A
-
-eu
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the Answer Book,
-which is provided for their use.
-NB:
-
-1. Qu. 1 is compulsory
-
-2. Out of remaining questions attempt Any 4 questions
-
-3. All questions carry equal marks
-
-4, Answer to each question to be started on the fresh page
-
-5. Assume suitable additional data, if not given & mention it clearly.
-
-Qu.1 Write short notes (any Four) 20
-a) Pressure distribution in open channel
-b) Water hammer pressure
-
-c) Hardy Cross method for pipe network
-
-d) Explain dimensional homogeneity (with one example)
-e) Positive and negative surge
-
-f) Explain specific energy curve (with sketch)
-
-Qu.2a: A rectangular channel carrying a supercritical stream is to be provided with a hydraulic 10
-jump type of energy dissipater. If it is desired to have an energy loss of 5m in the jump
-when the inlet Froude number is 8.5, determine the sequent depths.
-
-Qu.2b: In a tidal river the depth and velocity of flow are 0.9m and 1.25m/s respectively. Due to 10
-tidal action a tidal bore of height 1.2m is observed to travel upstream. Estimate the speed
-of the bore and the speed of flow after the passage of the bore.
-
-Qu.3a: Illustrate Rayleigh’s method of dimensional analysis with two examples 10
-
-Qu.3b: A small sphere of density ps and diameter D settles at a terminal velocity V ina liquid of 10
-density pf and dynamic viscosity 1. Gravity g is known to be a parameter. Express the
-functional relationships between these variables in a dimensionless form.
-
-Qu.4a: A uniform flow with a velocity 8m/s is flowing over a doublet of strength 11m2/s placed at 10
-
-origin. Find the velocity at a point in the flow-field whose polar coordinates are 0.6m and
-450.
-
-Qu.4b: Derive an expression for stream function and velocity potential function for the flow past 10
-circular cylinder.
-
-Qu.5a: Two reservoirs | and 2 having levels difference between free surfaces of 5m, areconnected 10
-by pipes AB and BC of diameters 20 cm and 30 cm respectively. Length of AB is 300m
-and that of BC is 200m. If flow through the pipe is 50 LPS, find loss due to expansion and
-friction factor. Draw EGL and HGL L fp
---- page 2 ---
-Qu.5b:
-
-Qu.6a:
-
-Qu.6b:
-
-Qu.7:
-a)
-b)
-c)
-d)
-e)
-
-When a sudden contraction from a 60 cm diameter pipe to 30 cm diameter pipe is introduced in a
-horizontal pipeline, the pressure drops from 100kPa at the upstream of the contraction to 80 kPa on
-the downstream. Assuming a coefficient of contraction of 0.65,
-
-a.) Estimate the flow rate in the pipe
-
-b.) The loss of head due to contraction
-
-A siphon of diameter 150mm connects two reservoirs having a difference in elevation as 15m. The
-total length of siphon is 400m and the summit is 4m above the water level in the upper reservoir.
-The length of pipe from upper reservoir to the summit is 80m. Determine the discharge through the
-siphon and also the pressure at the summit.
-
-For the pipe network shown in Fig.1, determine the flow in each pipe. (Carry out max. three
-iterations)
-
-100 cumec r=3 50 cumec
-AN (\ Bo
-= reste Loop |
-(\ f=2
-c Loop Il D
-30 cume¢ r=4 20 cumec
-Fig.1
-
-Attempt any Four (each carry equal marks)
-
-Equivalent pipe
-
-Show that for a hydraulically efficient trapezoidal section the side slope is 1/3
-Derive an expression for power transmission through a pipe
-
-Explain model laws
-Explain the terms: Source, sink and Free vortex flow
-
-10
-
-10
-
-10
-
-20
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper b9be1143b826
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/HYDRAULIC ENGINEERING/HYDRAULIC ENGINEERING B TECH (CIVIL), BATCH 2013-14 RE EXAM_b9be1143b8.pdf`
-- Printed on paper: exam date: 18/05/2015
-- Text: ocr (3 pages), mean OCR confidence 92.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: Il Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015 peTiteTl OF may
-. . he
-Subject: Hydraulic Engineering ; $7 amy
-Mark# af MiP@ TM x
-Date: 18/05/2015 Time
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-On the cover of the answer book, which is provided for their use.
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate full marks.
-
-Q1. Attempt any five questions:-
-
-Q2
-
-Q3
-
-Q4
-
-a) What do you understand by the terms: major loss & minor losses in pipes? 4
-b) Define: 4
-i) Total energy line
-ii) Hydraulic energy line
-c) Explain hydraulic efficient channel. 4
-d) Define: ‘ 4
-i) Uniform flow
-ii) Free vortex flow
-e) How the open channels are classified? Explain any one. 4
-f) A flow of water of 100 lit. per sec. flows down in a rectangular flume of width 600 mm _ 4
-& having adjustable bottom slope. If chezy’s constant C is 56, find the bottom slope
-necessary for uniform flow with a depth of flow 300 mm. Also find the conveyance K
-
-of the flume.
-
-a) Derive an expression for loss of head due to: i) sudden Enlargement ii) sudden 10
-contraction of pipe.
-
-b) Obtain an expression for the flow through pipes in series. 10
-
-a) A siphon of diameter 200 mm connects two reservoirs having a difference in elevation 10
-of 20 m. The length of siphon is 500 m & the summit is 3 m above the water level in
-the upper reservoir. The length of the pipe from upper reservoir to the summit is 100 m.
-Determine the discharge through the siphon & also pressure at summit. Neglect minor
-losses. The co-efficient of friction, f= 0.005
-
-b) Three reservoirs A, B & C are connected by a pipe system as shown in fig. no. | (find 10
-the attachment of the figure). The lengths & diameters of pipes 1, 2 & 3 are 800m,
-1000m, 800m & 300 mm, 200 mm & 150 mm respectively. Determine the piezometric
-head at junction D. take f = 0.005
-
-a) The difference in water surface levels in two tanks, which are connected by three pipes 10
-in series of lengths 300 m, 170 m, 210 m & of diameters 300 mm, 200 mm, 400 mm
-respectively, is 12 m. Determine the rate of flow of water if co-efficient of friction are
-0.005, 0.0052 & 0.0048 respectively, considering: (i) minor losses also (ii) neglecting
-
-minor losses.
-4/2
---- page 2 ---
-b) State Buckingham’s Pi theorem. Why this theorem is considered superior over the
-Rayleigh’s method for dimensional analysis. 10
-
-Q. 5 a) Explain the term distorted model of undistorted model. Also explain the importance of
-
-Scale effect in Dimensional Analysis. 10
-b) Obtain an expression for power transmission through pipes. Also derive relationship
-
-between pipe Diameter (D) and Nozzle Diameters (d) at the end of pipe. 10
-
-Q.6 2) A horizontal pipe of Diameter 500 mm is suddenly contracted to a diameter of 250 mm.
-The pressure intensities in the large and the smaller pipe is given as 13.734 Niem?
-&11.772 N/cm? respectively. Find the loss of head due to sudden contraction if Cc =
-0.62. Also determine the rate of flow of water. 10°
-
-b) What do you mean by equivalent pipe? Obtain an example for equivalent pipe. 10
-
-\
-
-\
-
-Q7a) Differer entiate fe bev veen gradually varied flow & rapidly varied flow. Also derive an
-mic equation : for a gradually varied flow. 10
-i gradual closure of a valve fitted in a pipe line.
-ner and its effects. 10
---- page 3 ---
-
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 715beb4b5e0c
 
 - Departments: Civil
@@ -4347,267 +4610,4 @@ a/o
 05
 
 05
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 6d5fe1af5aca
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/HYDRAULICS ENGINEERING/HYDRAULICS ENGINEERING BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 13/05/2015
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Civil) Year: II Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Hydraulics Engineering if : a
-Marks: fis oF 00 STMB ye "
-
-Date: 13/05/2015 Time: © 3 10.0Qxamztoy1. pm
-
-Durations (hrs) r 'S/
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. Que is compulsory.
-
-2) Out of remaining questions, attempt any four questions,
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.No.1. Write short notes on; (any four)
-
-(a) Power transmission through pipe and nozzle. (05)
-(b) Elastic pipe theory. (05)
-(c) Classification of channels. (05)
-(d) Waves and surges in open channels. (05)
-(e) Free vortex flow. (05)
-
-Q.No.2. (a) Derive: Darcy-Weisbach’s equation for major loss of head in pipe (06)
-flow. Explain all terms used.
-
-(b) List out minor losses in pipe flow. Give expression of each and explain (06)
-notations used.
-
-(c) A pipeline of 10 cm diameter is 2.50 kM. long. In order to increase the (08)
-discharge another parallel pipe of same diameter is introduced in the
-second half of the existing pipe. Determine the increase in discharge, if
-friction factor for pipe = 0.010 and head loss = 35 m. Neglect minor
-losses.
-
-Q.No.3. (a) State assumptions in Hardy-cross method used for solving pipe (10)
-network problem and derive an expression for correction in discharge
-for value ofn =2
-(b) A rigid pipe 3000 m long and 50 cm diameter is used to carry water (10)
-flowing with a velocity of 2.50 m/s. Ifthe valve at the end of the pipe is
-closed in 1.50 seconds, find the rise in pressure. Take Bulk modulus of
-water = 2 x 10° N/em?.
---- page 2 ---
-Q.No.4. (a) Classify: flow in open channel. (05)
-(b) State: assumptions made in deriving Bernoulli’s equation. (05)
-(c) A rectangular channel 2.50 m wide carries a discharge of 7.50 m/s. (10)
-
-Calculate the critical depth and specific energy at critical depth.
-
-Q.No.5. (a) Define Hydraulic jump and derive an expression for loss of energy. (0)
-(b) Determine the length of back water curve caused by afflux of 1.50 m in (10)
-a rectangular channel width 50 m and depth 2.0 m The slope of the bed
-is given as | in 2500. Take Manning’s N = 0.030.
-
-Q.No.6. (a) Explain Buckingham’s a-Theorem. (10)
-(b) The resisting force ‘R’ of a supersonic plane during flight can be (10)
-considered as dependent upon the length of the aircraft ‘L’, velocity
-‘v’, air viscosity “p’, air density ‘p’, and bulk modulus ‘ k’. Express the
-functional relationship between these variables and resisting force.
-
-Q.No.7. (a) Describe “Rankine’s half body” in potential flow analysis. Obtain (08)
-expression for flow lines and equipotential lines.
-(b) | Show: specific energy curve for three discharges (given Q; > Qo > Q3) (08)
-and explain in brief.
-(c) Describe concept of the most economical channel section. (04)
-
-——— XK
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper ad0a4a53e9d1
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/IV SEMESTER/HYDRAULICS ENGINEERING/Hydraulic Engineering Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 02/07/2015
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL) Year: II Semester: IV
-
-Academic Year: 2014-15
-
-4 spanitOTl OF
-Batch: 2013-14 atl i
-
-Yi
-Subject : Hydraulic Engineering Marks: 100 if ( LIBRA k >. ’
-Time : 10.00 1.00 pm a
-Date : 02/07/2015 Durations: 3 ( te we
-Re-Examination Ma aver
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the Answer Book,
-which is provided for their use.
-NB:
-1. Qu. Lis compulsory
-2. Out of remaining questions attempt Any 4 questions
-3. All questions carry equal marks
-4. Answer to each question to be started on the fresh page
-5. Assume suitabie additionai data, if not given & mention it clearly.
-
-Qu.l Attempt any Four(Each carrying equal marks) 20
-a) Three reservoir problem (by Hardy Cross method)
-b) Velocity distribution in open channel
-c) Explain the term alternate depth (with sketch)
-d) What do you understand by hydraulically efficient channel? Derive an expression for hydraulically efficient
-trapezoidal channel
-e) Explain stream function and potential function for flow over Rankine oval body
-
-Qu.2a: For the pipe network shown in Fig. determine the discharge distribution by Hardy Cross Method (Carry out
-
-at least 2 iterations)
-
-10
-
-r=? pg 30m?/sec
-
-50m3/sec_A
-
-Ns
-c 10 m/sec
-
-r=5
-10 m?/sec _
-
-Qu.2b: A pipe of diameter 300mm and length 3000m is used for the transmission of power by water. The 10
-total head at inlet of the pipe is 400m. Find the maximum power available at the outlet of the pipe.
-Take f=0.005.
-
-Qu.3a: A pipeline ABC 180m long, is laid on an upward slope of lin 60. The length of the portion 10
-AB is 90m and its diameter is 0.15m. At B the pipe section suddenly enlarges to 0.3m
-diameter and remains so for the remainders of its length BC, 90m. A flow of 50 litres per
-second is pumped into the pipe at its lower end A and is discharged at the upper end C into
-aclose tank. The pressure at the supply end A is 137.34kN/m2. Sketch (a) the total energy
-line, (b) the hydraulic grade line and also find the pressure at the discharge end C. Take
-f=0.02.
-
-Qu.3b: Two reservoirs are connected by a pipeline which rises above the level of the highest 10
-reservoir. What will be the highest point of the siphon above the level if the length of the
-pipe leading upto this point is 540m, the diameter of the pipe being 0.35m? The difference
-4/2
---- page 2 ---
-Qu.4a:
-
-Qu.4b:
-
-Qu.5a:
-
-Qu.5b:
-
-Qu.6a:
-
-Qu.6e:
-
-Qu.7:
-
-a)
-
-c)
-d)
-e)
-
-in level of the two reservoirs is 12.6m and the total length of the pipe is 960m. The siphon
-must run full, the separation of dissolved gases may be assumed to occur at an absolute
-pressure of 2.4m of water. Water will be the discharge under the above conditions in litres.
-
-ular channel of 1.6m diameter carries water at 7.5 m3/s. Find the slope of the bed of the
-
-A circ
-) maximum discharge. Take Chezy’s constant C=50.
-
-channel for (a) maximum velocity and (b
-A discharge of 10m3/s flows at a depth of 2.0 m in a rectangular channel 4.0m wide. At a section
-the width is reduced to 3.5m. It is desired to provide a smooth hump at this contracted section to
-achieve critical depth without affecting the upstream depth. Estimate the height of the hump
-
-required. Neglect frictional losses.
-
-rge of 1.25 m3/s. What is the corresponding prototype
-
-A 1:50 spillway model has a discha
-12 hours to occur in the prototype, how long should it take
-
-discharge? If a flood phenomenon takes
-in the model?
-
-Using Buckingham’s TI theorem, sh
-dynamic viscosity 1, through a circu
-
-v= (3aft | 2B
-
-pV
-213
-a) Prove that critical depth in open channel h, = (=|
-&
-
-ow that the velocity V, of flow of a fluid of mass density p and
-lar orifice of diameter D under a head H is given by
-
-b) Explain specific energy curve (with sketch)
-
-ed width 2m the depth of flow is 1.2m. When the
-M to another section N where the depth is 1.4m.
-e two steps in direct step method.
-
-At a certain section in a rectangular channel of b
-flow rate is 6.0m3/s, estimate the distance from
-The bed slope is 0.002 and manning’s n=0.015. Tak
-
-Attempt any Four (each carry equal marks)
-Types of similarities in model and prototype
-Derive an expression for power transmission throu
-Compare distorted and undistorted models
-
-Surges in open channel
-
-Water distribution network (by Hardy Cross method)
-
-gh a nozzle of a pipe
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-20
 ````

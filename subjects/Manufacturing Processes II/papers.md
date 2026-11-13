@@ -502,6 +502,7 @@ COP P PCP E UU
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/MANIFACTURING PROCESSES II/Manufacturing Processes - II, Sem-V, 2024-25, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -598,7 +599,6 @@ BL-2 (d) Factors affecting tool life
 
 (e) Abrasive jet machining (AJM)
 
-ok ke 2 oi a oo oR a RE
 ````
 
 ## 2023-24 · Final-Exam · Sem 5 · paper 49df8040d9d1
@@ -1544,6 +1544,110 @@ c) What you know about Reaming, Counter Boring, Counter sinking (06)
 on drilling machine in short?
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper 6cc453909417
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/MANUFACTURING PROCESSES II/Manufacturing Processes II Batch 2016-17.2017-18 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
+
+Program :B.Tech Integrated (MECHANICAL)
+Academic Year: 2018-2019
+
+Subject: Manufacturing Processes -II   _-—- Marks: 70 =~
+Date: 18 April2019 Time: 02.00 pm to 5.00 pm =~
+Duration: 3 (hrs)
+No. of Pages:_ O2-
+Final Examination (2018-19)/Re-examination(2016-17/2017-18) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Answer the following questions Marks
+a Explain Taylor’s Tool life equation. [2]
+b How are Built-up edges formed? Show with a neat sketch. [3]
+c. State the difference between Up - milling and Down- milling. [3]
+d. Explain the applications of Electron beam machining. . [3]
+e. Explain Lapping process with neat sketch. [3]
+Q.2
+a. Explain the functions of cutting fluid in machining. Also enumerate the effect of [6]
+
+cutting speed on the tool life?
+b. In an orthogonal cutting operation, the following data has been observed: [8]
+Uncut chip thickness= 0.127 mm
+Width of cut= 6.35 mm, Cutting speed= 2 m/s
+Rake angle=10degree’
+Cutting force=567 N, Thrust force=227 N
+Chip thickness=0.228 mm
+
+ifo-
+--- page 2 ---
+Q.3
+
+Q.4
+
+Determine the shear angle, the friction angle, shear stress along the shear plane and
+
+the power for cutting operations.
+
+Explain the quick return mechanism in mechanical shaper with neat sketch and list
+the differences between shaper and planner.
+
+Describe the various kinds of milling machine.
+
+State the advantages and limitations of broaching machine.
+
+Explain the various operations that can be performed in a drilling machine.
+
+Explain the following grinding wheel specification: 51- A- 60- K- 5 -V -05
+With a neat sketch explain the AJWM process and also state the process parameters
+
+considered in in AJM.
+Explain is the underlying principle of electrochemical grinding (ECG)?
+
+Explain the applications, advantages and limitations of Wire-EDM. -
+
+Explain how plastics are formed by thermoforming process .
+
+Write short note on (any 2)
+i)Compression Molding
+ii)Rotational - Molding
+iii)Blow Molding
+
+[7]
+
+[7]
+
+[6]
+[8]
+
+[4]
+[10]
+
+[7]
+[7]
+
+[6]
+[8]
+````
+
 ## 2018-19 · Re-Exam · Sem 4 · paper d5aa1ac8b725
 
 - Departments: Mechanical
@@ -1656,6 +1760,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Manufacturing Processes II/Manufacturing processes-II ....Re-exam 18-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 17 June 2019
 - Text: ocr (2 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1747,7 +1852,6 @@ B) Write short notes on the following: (7)
 (a) Electro Chemical Machining (ECM)
 (b) Laser Beam Machining (LBM)
 
-2 ee ee A He A A ee RR AR HE ests 2 a ROR OR KK KKK
 ````
 
 ## 2017-18 · Final-Exam · Sem 5 · paper dc53b490917b
@@ -1961,6 +2065,7 @@ diagram.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Manufacturing Processes II/manufacturing processes-II 2017-18 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 11 May 2018
 - Text: ocr (2 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2045,111 +2150,6 @@ Q7 (a) Explain injection molding process with the help of neat sketch. (6)
 (c) What are the general considerations that product designers must keep in mind when (4)
 designing components out of plastics?
 
-BR A 2 2 2 26 2 2 ie fe 2c 2 2 2 2 2k 2K aK 2 2 ok ok ok ok ok ok ok 2 ok ok ok ok ok ok
-````
-
-## 2017-18 · Re-Exam · Sem 4 · paper 6cc453909417
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/MANUFACTURING PROCESSES II/Manufacturing Processes II Batch 2016-17.2017-18 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
-
-Program :B.Tech Integrated (MECHANICAL)
-Academic Year: 2018-2019
-
-Subject: Manufacturing Processes -II   _-—- Marks: 70 =~
-Date: 18 April2019 Time: 02.00 pm to 5.00 pm =~
-Duration: 3 (hrs)
-No. of Pages:_ O2-
-Final Examination (2018-19)/Re-examination(2016-17/2017-18) —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Answer the following questions Marks
-a Explain Taylor’s Tool life equation. [2]
-b How are Built-up edges formed? Show with a neat sketch. [3]
-c. State the difference between Up - milling and Down- milling. [3]
-d. Explain the applications of Electron beam machining. . [3]
-e. Explain Lapping process with neat sketch. [3]
-Q.2
-a. Explain the functions of cutting fluid in machining. Also enumerate the effect of [6]
-
-cutting speed on the tool life?
-b. In an orthogonal cutting operation, the following data has been observed: [8]
-Uncut chip thickness= 0.127 mm
-Width of cut= 6.35 mm, Cutting speed= 2 m/s
-Rake angle=10degree’
-Cutting force=567 N, Thrust force=227 N
-Chip thickness=0.228 mm
-
-ifo-
---- page 2 ---
-Q.3
-
-Q.4
-
-Determine the shear angle, the friction angle, shear stress along the shear plane and
-
-the power for cutting operations.
-
-Explain the quick return mechanism in mechanical shaper with neat sketch and list
-the differences between shaper and planner.
-
-Describe the various kinds of milling machine.
-
-State the advantages and limitations of broaching machine.
-
-Explain the various operations that can be performed in a drilling machine.
-
-Explain the following grinding wheel specification: 51- A- 60- K- 5 -V -05
-With a neat sketch explain the AJWM process and also state the process parameters
-
-considered in in AJM.
-Explain is the underlying principle of electrochemical grinding (ECG)?
-
-Explain the applications, advantages and limitations of Wire-EDM. -
-
-Explain how plastics are formed by thermoforming process .
-
-Write short note on (any 2)
-i)Compression Molding
-ii)Rotational - Molding
-iii)Blow Molding
-
-[7]
-
-[7]
-
-[6]
-[8]
-
-[4]
-[10]
-
-[7]
-[7]
-
-[6]
-[8]
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper a69d31fb7567
@@ -4375,6 +4375,7 @@ d) Explain different operations performed on a centre Lathe.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM V/MANUFACTURING PROCESSES II/MANUFACTURING PROCESS I BATCH 2011-12 RE EXAM0001(1).pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 18/06/2012
 - Text: ocr (2 pages), mean OCR confidence 77.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a | te
@@ -4461,7 +4462,6 @@ c) What are the different pattern allowances?
 
 d) Explain different operations performed on a centre Lathe.
 
-RG ee 2 2 ee 2 2 fe 2 28 Re fe 2 2 oA ee ee 2 2 ee fe he 26 he fe 2 AE fe A Fe Ae 2 2 fe 2 2 fe fe 2 2 AE fe fe 2 2 fe he 2 Re 2 2 oe hg 2 eo a a
 
 1
 

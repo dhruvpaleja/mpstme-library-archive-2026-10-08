@@ -1,8 +1,212 @@
 # Electromagnetic Wave Theory: question papers in full
 
-8 unique papers · 2021-22 to 2024-25 · Electronics and Telecommunication
+8 unique papers · 2021-22 to 2025-26 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 4 · paper 0d516e985f97
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC WAVE THEORY/B Tech, Elecromagnetic Wave Theory, Sem-IV, Batch 2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
+- Text: ocr (3 pages), mean OCR confidence 69.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: BACHELOR OF TECHNOLOGY (ELECTRONICS &
+TELECOMMUNICATION ENGINEERING) 7
+Year: Il/Sem 4 Re-exam(Exam Year: 2025-2026)
+Subject: Electromagnetic Wave Theory
+Date: 03 Jul 2026 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. _1__ is compulsory.
+3. Out of remaining questions, attempt any 4 _ questions.
+
+4. Inall__5_ questions to be attempted.
+
+5. All questions carry equal marks.
+
+6. Answer to each new question to be started on a fresh page.
+
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+
+Ql ,
+Answer briefly: (20]
+
+CO-1; Transform each of the vectors to cylindrical coordinates at the specified
+SO-1; | 4 ye ee
+BL-3 4 ax —2ax - 4ax at A (2,3,5).
+CO-2;
+SO-1; |. Define Streamline and sketches of the field. : =)
+BL-1
+CO-3;
+SO-1; | & Explain the concept of dielectric strength of an insulator. 5
+BL-2
+CO-6;
+So-1; | 4. Relate the reflection coefficient, VSWR and transmission coefficient. 5
+BL-1
+Q2
+CO-2; |A Derive electric field intensity due to several point charges. 10
+SO-1; a
+BL-1,3
+Q2 Given points A (2, 3, -1) and B (4, -50°, 2). Find
+
+: 1. A to origin
+CO-1; 4) B 10
+SO-1; 2. B to origin
+Blo 3. AtoB
+Q3
+CO-%: A Derive the equation for the potential due to an electric dipole. 10
+SO-1;
+BL-3
+
+FOR 7 RR ERK
+--- page 2 ---
+oF
+
+Q3
+CO-2;
+SO-1;
+BL-2
+
+Explain the point form of Gauss’s law.
+
+10
+
+Q4
+
+CO-3;
+
+SO-1;
+BL-3
+
+Derive the tangential component of boundary conditions for the
+conductor — free space interface.
+
+10
+
+Q4
+
+CO-3;
+SO-1;
+BL-2
+
+Explain and vector magnetic potential.
+
+10
+
+Q5
+
+CO-6;
+
+SO-1;
+BL-I
+
+Define reflection coefficient, VSWR, transmission coefficient, line
+impedance, line admittance, matched transmission line, load
+
+mismatch transmission line and characteristic impedance.
+
+10
+
+Q5
+
+CO-4;
+
+SO-1;
+BL-2
+
+Derive Maxwell’s equation in integral form.
+
+10
+
+Q6
+
+CO-5;
+
+SO-1;
+BL-1,3
+
+Derive the power equation due to electromagnetic waves.
+
+10
+
+Q6
+
+CO-6;
+
+SO-1;
+BL-3
+
+Derive the Poynting theorem.
+
+10
+
+Q7
+
+CO-5,
+
+SO-1;
+BL-2
+
+Find the following using the Smith Chart,
+i. Reflection coefficient. ii. VSWR
+il. Transmission coefficient.
+
+When Zo =50Q and ZL = 50-j50Q.
+
+10
+
+Q7
+CO-6;
+SQ-1;
+BL-3
+
+Derive the equation forthe input impedance of a lossless transmission
+
+line.
+
+10
+
+FOI IGOR OR dk r
+
+>
+--- page 3 ---
+Smith Chart
+
+Bee ee
+
+ae pe =n ‘
+Hee reas Ly rs oe
+
+aT i Be ie
+
+a
+cg s
+
+7 | ~
+> qn ~
+
+8 0
+
+| Pepi diipat pels
+Tes a de
+
+Coe
+
+cron
+
+FOI ROK OR AK kk
+````
 
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper 74cbc643e870
 
@@ -11,6 +215,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC WAVE THEORY/Electromagnetic Wave Theory, Sem IV, Final Exam 2024-25 & Re Exam 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 77.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -192,217 +397,11 @@ QSL ° 1 2 9th 78,9, 10 | 12,14 20, , 30 |o 01 02 04 06 08 1 18,2 34 8 68 1015, 
 Ceo de" oe" e708 0s cs 08 2 ot "0.05 oor fo 1a a2 Ss 4 15 168 47 1819 2 ee a
 64 0.9 08, 07, 06, os 0.4 0.3 02 01 of! 0.99 0.95 09 0.8 07 | 06 05 04, 03,02 o1 0 4 of
 CENTER SD
-i Eh BE tie eee ee a ae th te A ae a te ete
 
 &
 ORIGIN
 --- page 6 ---
 
-````
-
-## 2024-25 · Re-Exam · Sem 4 · paper 0d516e985f97
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC WAVE THEORY/B Tech, Elecromagnetic Wave Theory, Sem-IV, Batch 2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
-- Text: ocr (3 pages), mean OCR confidence 69.7
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-
-Programme: BACHELOR OF TECHNOLOGY (ELECTRONICS &
-TELECOMMUNICATION ENGINEERING) 7
-Year: Il/Sem 4 Re-exam(Exam Year: 2025-2026)
-Subject: Electromagnetic Wave Theory
-Date: 03 Jul 2026 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-
-Instructions:
-1. This question paper contains 3 pages.
-2. Question No. _1__ is compulsory.
-3. Out of remaining questions, attempt any 4 _ questions.
-
-4. Inall__5_ questions to be attempted.
-
-5. All questions carry equal marks.
-
-6. Answer to each new question to be started on a fresh page.
-
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume Suitable data if necessary.
-
-Ql ,
-Answer briefly: (20]
-
-CO-1; Transform each of the vectors to cylindrical coordinates at the specified
-SO-1; | 4 ye ee
-BL-3 4 ax —2ax - 4ax at A (2,3,5).
-CO-2;
-SO-1; |. Define Streamline and sketches of the field. : =)
-BL-1
-CO-3;
-SO-1; | & Explain the concept of dielectric strength of an insulator. 5
-BL-2
-CO-6;
-So-1; | 4. Relate the reflection coefficient, VSWR and transmission coefficient. 5
-BL-1
-Q2
-CO-2; |A Derive electric field intensity due to several point charges. 10
-SO-1; a
-BL-1,3
-Q2 Given points A (2, 3, -1) and B (4, -50°, 2). Find
-
-: 1. A to origin
-CO-1; 4) B 10
-SO-1; 2. B to origin
-Blo 3. AtoB
-Q3
-CO-%: A Derive the equation for the potential due to an electric dipole. 10
-SO-1;
-BL-3
-
-FOR 7 RR ERK
---- page 2 ---
-oF
-
-Q3
-CO-2;
-SO-1;
-BL-2
-
-Explain the point form of Gauss’s law.
-
-10
-
-Q4
-
-CO-3;
-
-SO-1;
-BL-3
-
-Derive the tangential component of boundary conditions for the
-conductor — free space interface.
-
-10
-
-Q4
-
-CO-3;
-SO-1;
-BL-2
-
-Explain and vector magnetic potential.
-
-10
-
-Q5
-
-CO-6;
-
-SO-1;
-BL-I
-
-Define reflection coefficient, VSWR, transmission coefficient, line
-impedance, line admittance, matched transmission line, load
-
-mismatch transmission line and characteristic impedance.
-
-10
-
-Q5
-
-CO-4;
-
-SO-1;
-BL-2
-
-Derive Maxwell’s equation in integral form.
-
-10
-
-Q6
-
-CO-5;
-
-SO-1;
-BL-1,3
-
-Derive the power equation due to electromagnetic waves.
-
-10
-
-Q6
-
-CO-6;
-
-SO-1;
-BL-3
-
-Derive the Poynting theorem.
-
-10
-
-Q7
-
-CO-5,
-
-SO-1;
-BL-2
-
-Find the following using the Smith Chart,
-i. Reflection coefficient. ii. VSWR
-il. Transmission coefficient.
-
-When Zo =50Q and ZL = 50-j50Q.
-
-10
-
-Q7
-CO-6;
-SQ-1;
-BL-3
-
-Derive the equation forthe input impedance of a lossless transmission
-
-line.
-
-10
-
-FOI IGOR OR dk r
-
->
---- page 3 ---
-Smith Chart
-
-Bee ee
-
-ae pe =n ‘
-jefe bx Le Bs = Se ce ey we ne
-6 teed ee Se eo He ey 4
-Hee reas Ly rs oe
-
-aT i Be ie
-
-a
-cg s
-
-7 | ~
-> qn ~
-
-8 0
-
-| Pepi diipat pels
-Tes a de
-
-Coe
-
-cron
-
-FOI ROK OR AK kk
 ````
 
 ## 2023-24 · Final + Re-Exam · Sem 4 · paper f74a10c901c1
@@ -505,6 +504,211 @@ CO-3; b.
 SO-1; Derive the uniform plane wave equation in free space. [10]
 
 BL-4
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper d8460ee541ef
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC WAVE THEORY/Electromagnetic Wave Theory,Re-exam 2021-22,2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26 / 06/2024
+- Text: ocr (2 pages), mean OCR confidence 87.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
+Academic Year: 2023-2024
+
+/ MOA Tech, as
+Program: B.Tech| Stream EXTC Year: II Semester: [V
+Subject: Electromagnetic Wave Theory Time: 03hrs (10 tol pm)
+Date: 26 / 06/2024 . No. of Pages: 02
+
+Marks: 100 en
+F = 2022-23
+— Re-enam (202) 22, )
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [20]
+
+CO-1; a. Find electric flux density D, at point P(2, 3, -8) caused by a point charge of
+SO-6; 10 mC at origin. [05]
+BL-6
+CO-2; b. . A . ty 3 a
+SO-1: Explain Biot Savart law with figure. Write its equation. [05]
+BL-1,2
+
+- hint Gs Write the equation for velocity of propagation and general solution of [05]
+BL- 1 uniform plane waves in free space.
+rep d. Explain standing waves and voltage standing wave ratio (VSWR). [05]
+BL-2
+Qe a. Transform the following vector A into spherical coordinates at the specified
+oF point Q. [10]
+BL-6 A= 4a, - day - 2a, at Q (2, 3, -1)
+CO-1;
+SO-1; b. State and explain Gauss’s law with equation. [4]
+BL-2,3
+CO-1;
+SO-1; Cc. Elaborate the Divergence theorem with an equation. : [6]
+BL-4
+--- page 2 ---
+Q3 a!
+CO-1; Posh
+
+SO-1; a. Derive the formula for capacitance of a parallel plate capacitor. [10]
+BL-4
+CO-3;
+SO-1; b. Prove Maxwell’s second equation of electromagnetic wave. [10]
+BL-4
+Q4 _
+CO-1; a. Derive the expression for Electric field intensity, E due to infinite line [10]
+SO-1; charge.
+BL-4
+C04; 3 of se . 3
+SO-1: b Illustrate any five applications of transmission lines. Explain impedance [10]
+BL-2,3 matching in a transmission line.
+Q5
+CO-1; a. Explain the concept of electric dipole. Derive the expression for the gradient [10]
+SO-1; of a potential.
+BL-2,4
+CO-3; Derive the uniform plane wave equation in free space
+SO-1; b. P q pace. [10]
+BL-4
+Q6
+CO-2; 3 ,
+50-1 ; a Explain and derive the Stoke’s theorem. [10]
+BL-1,2
+CO-4; Derive the equation for Reflection coefficient of a transmission line.
+SO-1; ib: [10]
+BL-4
+Q7
+CO-1; a, . . .
+50-6: Calculate the work done in moving a charge of 10C from point B(1,0,0) to
+~ : ' 10
+BL-6 point A(0,2,0) along the path y = 2 - 2x, z = 0 in the electric field Lt]
+(i) 5 ax V/m; (ii) 5x ax V/m; (iii) 5x ax + Sy ay V/m
+CO-3;
+SO-1; b. Derive the equation for flow of power with respect to electromagnetic waves. | [10]
+
+BL-4
+````
+
+## 2022-23 · Exam not stated · Sem 4 · paper a808f1de255d
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ELECTROMAGNETIC WAVE THEORY/Electromagnetic Wave Theory.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEER
+Academic Year: 2022-2023 a 4g
+Program: B.Tech Stream EXTC / MBA Tech EXTC Year: II Semesters IV
+
+Subject: Electromagnetic Wave Theory Time: _03_ hrs (40:00 amto dioopm)
+Date:_ 30 / 06 /23 No. of Pages: 02
+Marks: 100
+
+Re-Examination (02\-22 2099 - 23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) QuestionNo. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+Son a Relate dot product of unit vectors in cylindrical and rectangular co- 05
+BL- 12 ordinate system. [05]
+CO-1; b.
+
+SO-1; Draw and define streamlines and sketches of the field. [05]
+BL-1,3
+
+CO-4; c. A 50 ohm lossless line connect a signal of 300 kHz to a load of 100 ohm,
+oe determine, 1. VSWR, 2. Reflection coefficient. [05]
+CO-2; d.
+
+SO-1; Give relation between current density, velocity and volume charge. [05]
+BL-2
+
+Q2 a.
+
+CO-1; Derive tangential and normal components of boundary condition for [10]
+SO-1; dielectric-dielectric interface
+
+BL-1,2,3
+
+CO-1; b.
+
+SO-1,2 Define Gauss law and write conditions for Gaussian Surface. [10]
+BL-1,3
+--- page 2 ---
+a i i Derive the equation for energy stored in parallel plate capacitors and
+
+SO-1,2; explain dielectric strength. [10]
+BL-1,2,3
+CO-2; b.
+SO-1,2; Define and derive Biot-Savart law. [10]
+BL-1,2,3
+Q4 a.
+SOLD: Write a short note on scalar magnetic potential. [10]
+BL-1,2
+CO-1; b. Derive an expression of electric field intensity due to line charge with
+SO-1,2; infinite line charge density. [10]
+BL-1,2,3
+Q5 as Elaborate with the formula and ideal value for the following,
+CO-4; 1. Reflection coefficient [10]
+SO-1,2; 2. VSWR
+BL-2,3 3. Draw equivalent circuit diagram of 2-wire transmission line.
+CO-1; b.
+SO-1,2; Derive continuity equation. [10]
+BL-2,3
+Q6 a
+CO-1; Elaborate on conductor in the context of velocity, current density and give [10]
+SO-1,2; relation between current density and electric field.
+BL-1,2
+CO-3; b.
+SO-1,2; Derive and explain Poynting theorem. [10]
+BL-2,3
+Q7 a.
+CO-3; Illustrate the propagation of electromagnetic waves in conducting medium. [10]
+SO-1,2; Give any 5 losses associated with wave propagation.
+BL-1,2
+CO-1; b. Given points A (2, 3, -1) and B (4, -50°, 2). Find the distance from,
+SO-1,2; 1. A to origin [10]
+BL-2,3 2. B to origin
+
+3. AtoB
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper 1c3a08873c8f
@@ -634,110 +838,6 @@ SO-1,2; 1. Spherical co-ordinates of A [10]
 BL-2,3 2. Cartesian co-ordinates of B
 
 3. Distance from A to B.
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper d8460ee541ef
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC WAVE THEORY/Electromagnetic Wave Theory,Re-exam 2021-22,2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 26 / 06/2024
-- Text: ocr (2 pages), mean OCR confidence 87.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
-Academic Year: 2023-2024
-
-/ MOA Tech, as
-Program: B.Tech| Stream EXTC Year: II Semester: [V
-Subject: Electromagnetic Wave Theory Time: 03hrs (10 tol pm)
-Date: 26 / 06/2024 . No. of Pages: 02
-
-Marks: 100 en
-F = 2022-23
-— Re-enam (202) 22, )
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [20]
-
-CO-1; a. Find electric flux density D, at point P(2, 3, -8) caused by a point charge of
-SO-6; 10 mC at origin. [05]
-BL-6
-CO-2; b. . A . ty 3 a
-SO-1: Explain Biot Savart law with figure. Write its equation. [05]
-BL-1,2
-
-- hint Gs Write the equation for velocity of propagation and general solution of [05]
-BL- 1 uniform plane waves in free space.
-rep d. Explain standing waves and voltage standing wave ratio (VSWR). [05]
-BL-2
-Qe a. Transform the following vector A into spherical coordinates at the specified
-oF point Q. [10]
-BL-6 A= 4a, - day - 2a, at Q (2, 3, -1)
-CO-1;
-SO-1; b. State and explain Gauss’s law with equation. [4]
-BL-2,3
-CO-1;
-SO-1; Cc. Elaborate the Divergence theorem with an equation. : [6]
-BL-4
---- page 2 ---
-Q3 a!
-CO-1; Posh
-
-SO-1; a. Derive the formula for capacitance of a parallel plate capacitor. [10]
-BL-4
-CO-3;
-SO-1; b. Prove Maxwell’s second equation of electromagnetic wave. [10]
-BL-4
-Q4 _
-CO-1; a. Derive the expression for Electric field intensity, E due to infinite line [10]
-SO-1; charge.
-BL-4
-C04; 3 of se . 3
-SO-1: b Illustrate any five applications of transmission lines. Explain impedance [10]
-BL-2,3 matching in a transmission line.
-Q5
-CO-1; a. Explain the concept of electric dipole. Derive the expression for the gradient [10]
-SO-1; of a potential.
-BL-2,4
-CO-3; Derive the uniform plane wave equation in free space
-SO-1; b. P q pace. [10]
-BL-4
-Q6
-CO-2; 3 ,
-50-1 ; a Explain and derive the Stoke’s theorem. [10]
-BL-1,2
-CO-4; Derive the equation for Reflection coefficient of a transmission line.
-SO-1; ib: [10]
-BL-4
-Q7
-CO-1; a, . . .
-50-6: Calculate the work done in moving a charge of 10C from point B(1,0,0) to
-~ : ' 10
-BL-6 point A(0,2,0) along the path y = 2 - 2x, z = 0 in the electric field Lt]
-(i) 5 ax V/m; (ii) 5x ax V/m; (iii) 5x ax + Sy ay V/m
-CO-3;
-SO-1; b. Derive the equation for flow of power with respect to electromagnetic waves. | [10]
-
-BL-4
 ````
 
 ## 2021-22 · Final-Exam · Sem 4 · paper 0f548f8fb522
@@ -891,6 +991,7 @@ y
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ELECTROMAGNETIC WAVE THEORY/Electromagnetic Wave Theory , Re-exam 2021-2022.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 June 2022
 - Text: ocr (3 pages), mean OCR confidence 77.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS __
@@ -1000,114 +1101,11 @@ RADIALLY SCALED PARAMETERS
 TOWARD LOAD —> <— TOWARD GENERATOR
 10040, 29, , 10 5 4, 325, 2,18, 16 16 12121 1107 3 rest: 2 1
 240° 30 2 5 10 8 6 5 4 3 2 1 1f 1 12-13-1416 18 2 3045 0 20 ©
-9 1 B 3488 78.90 Be 20, , Wao Ol 02 04 06 08 1 132 dit 3.8 1 lO Be
 109 08 07 06 05 04 03 02 01 005 om ofo 11 12 13. 14 15 16 1718192 25003 45 12
-1 09 0g 07 06 os os 03, 02 on of) 099 | 095 og 08 07 06 05 , 04 03,02 01, 0
 CENTER
 00 | on 02, || 03 O48 os 06 07, 0g og 1. 12 13 14 15 16 Ww 18 19 2
 rs
 ORIGIN
 
 yi
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper a808f1de255d
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/ELECTROMAGNETIC WAVE THEORY/Electromagnetic Wave Theory.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEER
-Academic Year: 2022-2023 a 4g
-Program: B.Tech Stream EXTC / MBA Tech EXTC Year: II Semesters IV
-
-Subject: Electromagnetic Wave Theory Time: _03_ hrs (40:00 amto dioopm)
-Date:_ 30 / 06 /23 No. of Pages: 02
-Marks: 100
-
-Re-Examination (02\-22 2099 - 23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) QuestionNo. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-Son a Relate dot product of unit vectors in cylindrical and rectangular co- 05
-BL- 12 ordinate system. [05]
-CO-1; b.
-
-SO-1; Draw and define streamlines and sketches of the field. [05]
-BL-1,3
-
-CO-4; c. A 50 ohm lossless line connect a signal of 300 kHz to a load of 100 ohm,
-oe determine, 1. VSWR, 2. Reflection coefficient. [05]
-CO-2; d.
-
-SO-1; Give relation between current density, velocity and volume charge. [05]
-BL-2
-
-Q2 a.
-
-CO-1; Derive tangential and normal components of boundary condition for [10]
-SO-1; dielectric-dielectric interface
-
-BL-1,2,3
-
-CO-1; b.
-
-SO-1,2 Define Gauss law and write conditions for Gaussian Surface. [10]
-BL-1,3
---- page 2 ---
-a i i Derive the equation for energy stored in parallel plate capacitors and
-
-SO-1,2; explain dielectric strength. [10]
-BL-1,2,3
-CO-2; b.
-SO-1,2; Define and derive Biot-Savart law. [10]
-BL-1,2,3
-Q4 a.
-SOLD: Write a short note on scalar magnetic potential. [10]
-BL-1,2
-CO-1; b. Derive an expression of electric field intensity due to line charge with
-SO-1,2; infinite line charge density. [10]
-BL-1,2,3
-Q5 as Elaborate with the formula and ideal value for the following,
-CO-4; 1. Reflection coefficient [10]
-SO-1,2; 2. VSWR
-BL-2,3 3. Draw equivalent circuit diagram of 2-wire transmission line.
-CO-1; b.
-SO-1,2; Derive continuity equation. [10]
-BL-2,3
-Q6 a
-CO-1; Elaborate on conductor in the context of velocity, current density and give [10]
-SO-1,2; relation between current density and electric field.
-BL-1,2
-CO-3; b.
-SO-1,2; Derive and explain Poynting theorem. [10]
-BL-2,3
-Q7 a.
-CO-3; Illustrate the propagation of electromagnetic waves in conducting medium. [10]
-SO-1,2; Give any 5 losses associated with wave propagation.
-BL-1,2
-CO-1; b. Given points A (2, 3, -1) and B (4, -50°, 2). Find the distance from,
-SO-1,2; 1. A to origin [10]
-BL-2,3 2. B to origin
-
-3. AtoB
 ````

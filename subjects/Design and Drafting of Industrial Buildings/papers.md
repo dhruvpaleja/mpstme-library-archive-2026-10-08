@@ -1,115 +1,10 @@
 # Design and Drafting of Industrial Buildings: question papers in full
 
-3 unique papers · 2013-14 to 2013-14 · Civil
+3 unique papers · 2013-14 to 2014-15 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2013-14 · Final-Exam · Sem 6 · paper 6f1b4be4de78
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN AND DRAFTING OF INDUSTRIAL BUILDINGS/DESIGN AND DRAFTING OF INDUSTRIAL BUILDINGS 2013-14 Final.pdf`
-- Printed on paper: exam date: 09/05/2014
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL) Year: III Semester: VI
-
-Academic Year: 2013-14
-
-“saan ¥7E OF ny.
-Subject :Design and Drafting of Industrial Buildings er ) “Os,
-_ Mark&: 400: : je"
-Date :09/05/2014 Tingg : 2100 pm to.6.0@ pm
-ions:4 (hrs) 7g
-ey ee ae *
-MS HINER
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Section I and II is compulsory
-2. Section I must be draw on sheet.
-3. Section I and II carry equal marks.
-4. Section II must be attempt on answer sheet and each new question to be started on a fresh
-page.
-5. Figures in brackets on the right hand side indicate full marks.
-
-SECTION -I
-
-Q.1) Design a school building for a rural area with the following requirements. The strength of the
-school is 400 students (50 in each class).
-
-(i) Class rooms: 08 Nos.
-
-(ii) Head Master’s room with attached toilet.
-(iii) Staff room for 10 members: 01 No.
-
-(iv) Office room for 8 members: 01 No.
-
-(v) Library
-
-(vi) Toilets blocks: 02 Nos.
-
-Necessary provisions to be made for corridor. (25 Mark)
-
-Q.2) Design a primary health centre with following facilities:
-
-(i) Entrance and waiting space.
-
-(ii) Doctor’s consultation rooms: 2 Nos.
-
-(iii) Examination room.
-
-(iv) Operation theatre.
-
-(v) Medical Store.
-
-(vi) Office. =
-(vii) Laboratory.
---- page 2 ---
-(viii) Family planning unit.
-(ix) Male ward for 10 beds.
-(x) Female ward for 10 beds.
-
-(xi) Toilet blocks: 2 Nos. (25 Mark)
-
-SECTION II
-
-Q.3) Attempt Any Two. (20 Mark)
-
-a) What do you understand by principles of architectural planning of a building? Explain any four
-principles in detail.
-
-b) What are different features involved in preparation of master plan? Explain any five in detail.
-
-c) Explain the certification methods for Green Building in detail.
-
-Q.4) Attempt Any Two.
-
-(10 Mark)
-a) Explain the basic principle of perspective projection.
-b) Explain the concept of built environment.
-c) What are different application of computer in building design and planning?
-Q.5) Write a short note on any four. (20 Mark)
-
-a) Planning as recommended by N.B.O
-
-b) Green belt.
-
-c) Classification of Perspective Projection.
-d) Massing and Composition.
-
-e) Zoning.
-
-2}o.
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 22cb027c5e2a
+## 2014-15 · Re-Exam · Sem 6 · paper 22cb027c5e2a
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -233,7 +128,7 @@ e) Zoning
 (20)
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper 02b1ff5de557
+## 2014-15 · Re-Exam · Sem 6 · paper 02b1ff5de557
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -330,4 +225,109 @@ a
 >
 ay
 if)
+````
+
+## 2013-14 · Final-Exam · Sem 6 · paper 6f1b4be4de78
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN AND DRAFTING OF INDUSTRIAL BUILDINGS/DESIGN AND DRAFTING OF INDUSTRIAL BUILDINGS 2013-14 Final.pdf`
+- Printed on paper: exam date: 09/05/2014
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CIVIL) Year: III Semester: VI
+
+Academic Year: 2013-14
+
+“saan ¥7E OF ny.
+Subject :Design and Drafting of Industrial Buildings er ) “Os,
+_ Mark&: 400: : je"
+Date :09/05/2014 Tingg : 2100 pm to.6.0@ pm
+ions:4 (hrs) 7g
+ey ee ae *
+MS HINER
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Section I and II is compulsory
+2. Section I must be draw on sheet.
+3. Section I and II carry equal marks.
+4. Section II must be attempt on answer sheet and each new question to be started on a fresh
+page.
+5. Figures in brackets on the right hand side indicate full marks.
+
+SECTION -I
+
+Q.1) Design a school building for a rural area with the following requirements. The strength of the
+school is 400 students (50 in each class).
+
+(i) Class rooms: 08 Nos.
+
+(ii) Head Master’s room with attached toilet.
+(iii) Staff room for 10 members: 01 No.
+
+(iv) Office room for 8 members: 01 No.
+
+(v) Library
+
+(vi) Toilets blocks: 02 Nos.
+
+Necessary provisions to be made for corridor. (25 Mark)
+
+Q.2) Design a primary health centre with following facilities:
+
+(i) Entrance and waiting space.
+
+(ii) Doctor’s consultation rooms: 2 Nos.
+
+(iii) Examination room.
+
+(iv) Operation theatre.
+
+(v) Medical Store.
+
+(vi) Office. =
+(vii) Laboratory.
+--- page 2 ---
+(viii) Family planning unit.
+(ix) Male ward for 10 beds.
+(x) Female ward for 10 beds.
+
+(xi) Toilet blocks: 2 Nos. (25 Mark)
+
+SECTION II
+
+Q.3) Attempt Any Two. (20 Mark)
+
+a) What do you understand by principles of architectural planning of a building? Explain any four
+principles in detail.
+
+b) What are different features involved in preparation of master plan? Explain any five in detail.
+
+c) Explain the certification methods for Green Building in detail.
+
+Q.4) Attempt Any Two.
+
+(10 Mark)
+a) Explain the basic principle of perspective projection.
+b) Explain the concept of built environment.
+c) What are different application of computer in building design and planning?
+Q.5) Write a short note on any four. (20 Mark)
+
+a) Planning as recommended by N.B.O
+
+b) Green belt.
+
+c) Classification of Perspective Projection.
+d) Massing and Composition.
+
+e) Zoning.
+
+2}o.
 ````

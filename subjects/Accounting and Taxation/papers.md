@@ -1,6 +1,6 @@
 # Accounting and Taxation: question papers in full
 
-5 unique papers · 2016 to 2019-20 · Real Estate and Construction Management
+5 unique papers · 2016-17 to 2019-20 · Real Estate and Construction Management
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -219,6 +219,218 @@ ii. Integrated GST
 iii. Gross Annual Value and Deductions from income from House property
 
 iv. FIFO and weighted average
+````
+
+## 2019-20 · Re-Exam · Trim 4 · paper 5f73d0310e9c
+
+- Departments: Real Estate and Construction Management
+- Programmes: PGDM (Real Estate Construction AND Management)
+- Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM IV/Accounting & Taxation/Accounting and Taxation Batch 2016-20 Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 04 December 2019
+- Text: ocr (5 pages), mean OCR confidence 93.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2019-20.
+
+Program: PGDM - Real Estate Construction & Management Year: IL__ Trimester: IV
+Subject: Accounting and Taxation “ pas 11.00am t 2:00 pm
+Date: 04 December 2019 _ fi praiion:3 (hrs) NEON
+
+Marks:100   ~
+
+paper and on the cover of the Answer Book, which is provided for their use.
+
+.1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) F — in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Read the following case and answer the questions _ below:
+
+(20 marks)
+
+Failures has been transpired in the construction industry not only in developing countries but
+worldwide. Construction company failurés are not only extremely disruptive to the industry but it
+may pose a threat to the economy of the nation. Construction companies are vulnerable to
+bankruptcy due to fluctuations in construction volume, fragmented nature of the industry, inflation,
+high competitien, the uncertainty and the risk involve. The earliest determination of any potential
+failure will protect the company from becoming a victim. Construction Industries in Developing
+countries like India has been undergoing transformation due to huge volume of construction
+
+activities since 1990. This has led to an escalating of construction companies and Large and
+
+ye
+--- page 2 ---
+4
+
+complex projects has been constructed, these, cause an attraction of contractors and construction
+companies from all over the world. Thereby, construction companies are the backbone of real
+estate development. The booming of this industry is as a result of the wealth generated oil and gas
+sales, which is reinvested in infrastructure. Since the construction companies are the agent of
+transformation and development, they play a major role in national economy by using oil and gas
+wealth to construct economic and social facilities. However, thousands of these companies are
+facing bankruptcy and business failure, every year, and resulting in uncompleted private and public
+construction projects. The economic and social damages resulting from the business failure of
+construction companies are beyond the quantifiable costs to the company owners, share-holders,
+creditors and employees [6]. Therefore, it’s important to recognize business failure at the earliest
+stage in order to reduce the economic damages. A periodic evaluation of the financial records of
+the company is a critical step in successful completion of a project, so that necessary and
+
+appropriate strategies can be put in place to maintain their survival.
+
+‘As a Finance manager of IJL Construction Company, you are asked to assess the financial
+performance by ratio analysis from the following details with reference to the specified standard
+industry ratios with that of IJL Construction Company. Analysts should be able to use financial
+ratio analysis to examine the operating performance in term of the followings: (i) whether the firm
+is utilizing its assets, (ii) whether its profit margins are in line with assets, (iii) whether there is
+excessive investment in fixed assets, (iv) whether the business is adequately financed, (v) whether
+there are signs of liquidity strains and (vi) whether collection of receivables is efficient
+
+Proposed financial ratios and company’s median range for heavy construction companies are
+
+provided
+Ratio Standard range Company’s Median
+Quick Ratio Ld 0.521
+Current Ratio 1.2:1 25 21
+Debt Equity Ratio 3:1 vel
+Debtors Turnover 5 times a year 3 times a year
+Gross Profit Margin 60 percent 47 percent
+Return on Capital Employed | 78 percent 55 percent
+
+&
+
+4
+--- page 3 ---
+4
+Return on Proprietors Funds | 45 percent 52 percent
+
+Debtors collection period 51 days 32 days
+
+You are required to analyze the financial performance of the company based on the above standard
+
+and company’s ratios.
+
+Q.2. a. Yash constructions provides the following details for the financial year 2018-19 asking
+
+you to compute the following ratios: (10 marks)
+1. Gross Profit ratio
+
+2. Stock turnover ratio
+
+3. Office expenses ratio.
+
+4. Operating expenses ratio
+
+5. Net profit ratio
+
+Particulars Rs.
+Opening stock 27150
+Purchases 163575
+Carriage inward 4275
+Office expenses 45000
+Sales expenses 13500
+Loss on sale of fixed assets 1200
+Net profit 45000
+Sales 255000
+Closing stock 42000
+Interest received on investment 2700
+
+Q.2.B Prepare stock ledger from the following transactions of Lily Realty Ltd. by FIFO method
+(10)
+
+.
+
+1. On 1% June 2019 Opening stock 300 units @Rs.10 each
+On 5% June 2019 Purchases 100 units @ Rs. 20 each
+--- page 4 ---
+On 10" June 2019 Issued 50 units
+On 20" June 2019 Purchased 150 units@ Rs. 30 each
+On 30" June 2019 issued 40 units
+
+Q.3. a. Identify and classify the following (with reasons) into Capital, Revenue or Deferred
+Revenue (10)
+
+i. Sold old machinery at a profit
+ii. Renewal of factory licence and import license
+iii. Purchased shares of Reliance Ltd.
+iv. Paid towards salary , Wages and rent
+y. Received cheque on sale of goods
+
+b. Calculate depreciation for the year ending 31% march 2019 from the following:Rate of
+depreciation is 25 % p.a. (Omarks)
+
+i. On 31% March 2019 Machinery X had opening balance Rs. 150000
+ii, On 30" May he sold a part of machinery X costing Rs 100000 for Rs 80000
+
+Q4. Mr. Chandu an individual assesse provides the following details of his income earned during
+
+the previous year 2018-19. You are required to compute his tax liability for the assessment year
+2019-20 (20 marks)
+
+House I House II
+
+Fair Rent 30000 30000
+Rent received 39000 36000
+Municipal valuation 30200 36000
+Municipal taxed paid 5000 4000
+Repairs 10000 2000
+Insurance 9000 3000
+Land revenue 8000 -
+Ground rent 7000 4000
+
+Interest on capital borrowed | 4800 -
+
+“4
+--- page 5 ---
+4
+Nature of occupation Let out for residence Let out for business
+
+He also invested Rs. 70000 in PPF account , Rs. 10000 in NSC and Rs. 20000 as LIC premium
+paid for self and spouse. He paid medical insurance premium Rs. 29000 for self and spouse and
+
+Rs. 29000 for dependent parents
+He received family pension Rs. 20000 and winning from lottery Rs. 50000
+
+Q.5 a. What are the rates of GST on Residential apartments and commercial apartments: ( 10
+marks)
+
+b. What is the taxability of Real estate transactions under GST in relation to the following (5
+
+marks)
+
+Ready to move (RTM) properties for which completion certificate is issued
+
+On resale properties
+
+Works contract
+
+Composite supply of works contract to Government
+
+Composite supply of works contract under affordable housing
+
+C Explain the differences between old indirect taxes such as service tax and VAT versus GST (5
+
+marks)
+
+Q.6 Write Short notes on : (any two ) (20 marks)
+i. Scope of Total Income
+
+ii. Types of House Properties and their taxability
+
+iii. Deductions u/s 80
+
+iv. Perquisites and allowances
 ````
 
 ## 2018-19 · Final-Exam · Trim 4 · paper 45eb2ab32018
@@ -635,216 +847,4 @@ Estate Sector.(14 Marks)
 Q7 Highlight the key issues and challenges in Indirect taxes applicable to transactions in the Real Estate Sector. Provide your
 brief opinion on upcoming Goods and Services Tax (GST) regime and its expected impact on the Real Estate Industry. (14
 Marks)
-````
-
-## 2016 · Re-Exam · Trim 4 · paper 5f73d0310e9c
-
-- Departments: Real Estate and Construction Management
-- Programmes: PGDM (Real Estate Construction AND Management)
-- Source: `02_Question_Papers/Legacy/PGDM (Real Estate Construction AND Management)/2nd Year/TRIM IV/Accounting & Taxation/Accounting and Taxation Batch 2016-20 Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 04 December 2019
-- Text: ocr (5 pages), mean OCR confidence 93.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2019-20.
-
-Program: PGDM - Real Estate Construction & Management Year: IL__ Trimester: IV
-Subject: Accounting and Taxation “ pas 11.00am t 2:00 pm
-Date: 04 December 2019 _ fi praiion:3 (hrs) NEON
-
-Marks:100   ~
-
-paper and on the cover of the Answer Book, which is provided for their use.
-
-.1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) F — in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql Read the following case and answer the questions _ below:
-
-(20 marks)
-
-Failures has been transpired in the construction industry not only in developing countries but
-worldwide. Construction company failurés are not only extremely disruptive to the industry but it
-may pose a threat to the economy of the nation. Construction companies are vulnerable to
-bankruptcy due to fluctuations in construction volume, fragmented nature of the industry, inflation,
-high competitien, the uncertainty and the risk involve. The earliest determination of any potential
-failure will protect the company from becoming a victim. Construction Industries in Developing
-countries like India has been undergoing transformation due to huge volume of construction
-
-activities since 1990. This has led to an escalating of construction companies and Large and
-
-ye
---- page 2 ---
-4
-
-complex projects has been constructed, these, cause an attraction of contractors and construction
-companies from all over the world. Thereby, construction companies are the backbone of real
-estate development. The booming of this industry is as a result of the wealth generated oil and gas
-sales, which is reinvested in infrastructure. Since the construction companies are the agent of
-transformation and development, they play a major role in national economy by using oil and gas
-wealth to construct economic and social facilities. However, thousands of these companies are
-facing bankruptcy and business failure, every year, and resulting in uncompleted private and public
-construction projects. The economic and social damages resulting from the business failure of
-construction companies are beyond the quantifiable costs to the company owners, share-holders,
-creditors and employees [6]. Therefore, it’s important to recognize business failure at the earliest
-stage in order to reduce the economic damages. A periodic evaluation of the financial records of
-the company is a critical step in successful completion of a project, so that necessary and
-
-appropriate strategies can be put in place to maintain their survival.
-
-‘As a Finance manager of IJL Construction Company, you are asked to assess the financial
-performance by ratio analysis from the following details with reference to the specified standard
-industry ratios with that of IJL Construction Company. Analysts should be able to use financial
-ratio analysis to examine the operating performance in term of the followings: (i) whether the firm
-is utilizing its assets, (ii) whether its profit margins are in line with assets, (iii) whether there is
-excessive investment in fixed assets, (iv) whether the business is adequately financed, (v) whether
-there are signs of liquidity strains and (vi) whether collection of receivables is efficient
-
-Proposed financial ratios and company’s median range for heavy construction companies are
-
-provided
-Ratio Standard range Company’s Median
-Quick Ratio Ld 0.521
-Current Ratio 1.2:1 25 21
-Debt Equity Ratio 3:1 vel
-Debtors Turnover 5 times a year 3 times a year
-Gross Profit Margin 60 percent 47 percent
-Return on Capital Employed | 78 percent 55 percent
-
-&
-
-4
---- page 3 ---
-4
-Return on Proprietors Funds | 45 percent 52 percent
-
-Debtors collection period 51 days 32 days
-
-You are required to analyze the financial performance of the company based on the above standard
-
-and company’s ratios.
-
-Q.2. a. Yash constructions provides the following details for the financial year 2018-19 asking
-
-you to compute the following ratios: (10 marks)
-1. Gross Profit ratio
-
-2. Stock turnover ratio
-
-3. Office expenses ratio.
-
-4. Operating expenses ratio
-
-5. Net profit ratio
-
-Particulars Rs.
-Opening stock 27150
-Purchases 163575
-Carriage inward 4275
-Office expenses 45000
-Sales expenses 13500
-Loss on sale of fixed assets 1200
-Net profit 45000
-Sales 255000
-Closing stock 42000
-Interest received on investment 2700
-
-Q.2.B Prepare stock ledger from the following transactions of Lily Realty Ltd. by FIFO method
-(10)
-
-.
-
-1. On 1% June 2019 Opening stock 300 units @Rs.10 each
-On 5% June 2019 Purchases 100 units @ Rs. 20 each
---- page 4 ---
-On 10" June 2019 Issued 50 units
-On 20" June 2019 Purchased 150 units@ Rs. 30 each
-On 30" June 2019 issued 40 units
-
-Q.3. a. Identify and classify the following (with reasons) into Capital, Revenue or Deferred
-Revenue (10)
-
-i. Sold old machinery at a profit
-ii. Renewal of factory licence and import license
-iii. Purchased shares of Reliance Ltd.
-iv. Paid towards salary , Wages and rent
-y. Received cheque on sale of goods
-
-b. Calculate depreciation for the year ending 31% march 2019 from the following:Rate of
-depreciation is 25 % p.a. (Omarks)
-
-i. On 31% March 2019 Machinery X had opening balance Rs. 150000
-ii, On 30" May he sold a part of machinery X costing Rs 100000 for Rs 80000
-
-Q4. Mr. Chandu an individual assesse provides the following details of his income earned during
-
-the previous year 2018-19. You are required to compute his tax liability for the assessment year
-2019-20 (20 marks)
-
-House I House II
-
-Fair Rent 30000 30000
-Rent received 39000 36000
-Municipal valuation 30200 36000
-Municipal taxed paid 5000 4000
-Repairs 10000 2000
-Insurance 9000 3000
-Land revenue 8000 -
-Ground rent 7000 4000
-
-Interest on capital borrowed | 4800 -
-
-“4
---- page 5 ---
-4
-Nature of occupation Let out for residence Let out for business
-
-He also invested Rs. 70000 in PPF account , Rs. 10000 in NSC and Rs. 20000 as LIC premium
-paid for self and spouse. He paid medical insurance premium Rs. 29000 for self and spouse and
-
-Rs. 29000 for dependent parents
-He received family pension Rs. 20000 and winning from lottery Rs. 50000
-
-Q.5 a. What are the rates of GST on Residential apartments and commercial apartments: ( 10
-marks)
-
-b. What is the taxability of Real estate transactions under GST in relation to the following (5
-
-marks)
-
-Ready to move (RTM) properties for which completion certificate is issued
-
-On resale properties
-
-Works contract
-
-Composite supply of works contract to Government
-
-Composite supply of works contract under affordable housing
-
-C Explain the differences between old indirect taxes such as service tax and VAT versus GST (5
-
-marks)
-
-Q.6 Write Short notes on : (any two ) (20 marks)
-i. Scope of Total Income
-
-ii. Types of House Properties and their taxability
-
-iii. Deductions u/s 80
-
-iv. Perquisites and allowances
 ````

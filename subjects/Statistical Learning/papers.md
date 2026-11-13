@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM I/STATISTICAL LEARNING/Statistical Learning Batch 2023-24 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS m
@@ -21,7 +22,6 @@ Academic Year: 2023-2024
 
 Program/s: M.Tech Year: _
 
-Stream/s; AT (@#RTSFICTAL INTELL TGENCe) Ne
 Subject: __ Statistical Learning Time: 0 3 hrs (_2Pm to 5 Pm)
 Date: V3 /12/2023 No. of Pages: 3 __
 

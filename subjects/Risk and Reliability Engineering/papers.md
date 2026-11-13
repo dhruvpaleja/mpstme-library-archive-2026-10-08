@@ -100,6 +100,7 @@ Xx
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/RISK AND RELIABILITY ENGINEERING/RISK AND RELIABILITY ENGINEERING B TECH CIVIL BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16/06/2014
 - Text: ocr (3 pages), mean OCR confidence 75.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -246,7 +247,6 @@ re- | 4641-4649 «4656 «4664 «A671, ] «A678 4686 4693
 2.6 4953-4955 «A956. —s«9ST—«AOS 4960. 4961 4962
 27 4965 4966 ~=—«.4967—=Ss«w96Bs—“(t«wGs|S97O «ATLA
 2.8 4974 - A975 4976 = 4S77—499T 4978   =-A979~—s«979
-29 ‘4981 -.4982-«=««4982-—=s«wABBs«wANBA |] NBA ABS «9B
 3.0 4987 4987 «49874988 «A988 4989 4989 = 4989
 3.1 4990 4991 4991 = 49914992 4992 «49924992
 3.2 4993 4993 4994-4994 4994 4994 4994-4995

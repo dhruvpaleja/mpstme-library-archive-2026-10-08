@@ -1,8 +1,99 @@
 # Wireless Communication: question papers in full
 
-20 unique papers · 2010-11 to 2024-25 · Electronics and Telecommunication, Information Technology, Mechanical, Computer Engineering
+19 unique papers · 2010-11 to 2025-26 · Electronics and Telecommunication, Information Technology, Mechanical, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 7 · paper cfa02beb5dc7
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION/B Tech, Wireless Communication, Sem-VII, Batch 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 84.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2025-2026
+Program: B.Tech : Year: [V Semester: VII
+Stream: EXTC
+
+Subject: Wireless Communication ; Time: 3hrs (tot 1pm)
+om
+Date: i/\ 2/25 ees No. of Pages: 2
+
+Marks: 100
+Re-Examination ( Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. :
+
+4) All questions carry equal marks. i
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. :
+
+Qi aot : :
+Answer briefly: : [20]
+eoxrsou | 2: Compare between large scale propagation model and small scale fading ie
+model.
+BL4
+C04; SO1; | b. Discuss power control in LTE (Long Term Evolution)? : [5]
+BL2
+c. Explain traffic channel in GSM? State the different types of Common
+ae control channels in GSM? [5]
+¢01; S01; d. Justify the need of frequency reuse and explain concept of frequency reuse [5]
+BL2,5 with diagram.
+Qz a. : . ;
+c01:S01: Explain cell splitting with neat diagram with its received power equations. | [10]
+BL2
+c03;s01; | >. Differentiate between GPRS and EDGE technology. State the advantages 110)
+Bia : and applications of EDGE technology.
+@ a. . . o = . . . : 10
+02; $01; Describe the factors that influence small-scale fading in detail. ; [10]
+BL2
+--- page 2 ---
+co4;s01; | 5. Explain the features of WCDMA. Differentiate between CDMA 2000 and
+
+[10]
+BL24 WCDMA (any five points).
+Q4 as Discuss handoff operation, elaborate proper and improper handoff ii
+i : 1
+“ at situation with the help of figure. .
+ae son, |b. Explain protocol structure of LTE (Long Term Evolution) with diagram. [10]
+Qs a. Explain Multiple Input and Multiple Output (MIMO) in 4G technology
+C04; $01; was [10]
+BL2 with diagram.
+c03;S01; | b. Draw a neat labelled diagram of GSM architecture and explain its ‘on
+BL components.
+a. A mobile is located 12 km away from-a base station and uses a vertical 1/4
+
+. monopole antenna with a gain of 2.55 dB to receive cellular radio signals.
+
+The E-field at 1.5 km from the transmitter is measured to be 1073 V/m.
+Q6 The carrier frequency used for the system is 900 MHz. a) Determine the .
+C02; S06; length and the effective aperture of the receiving antenna _—_b) Determine | [10]
+BL6 the received power at the mobile using the two-ray ground reflection
+
+-model assuming the height of the transmitting antenna is 30 m and the
+
+receiving antenna is 1 m above ground.
+oe Sou; [. Explain logical channels in LTE. : [10]
+Q7 a.
+C03; SO1; Discuss IS-95 CDMA reverse link channel structure with diagram. [10]
+BL2 :
+ri ee Explain in detail features of 5G Technology. [10]
+````
 
 ## 2024-25 · Final-Exam · Sem 6 · paper 27a52c385aed
 
@@ -251,6 +342,217 @@ BL-4 [10]
 Page 2 of 2
 ````
 
+## 2024-25 · Re-Exam · Sem 7 · paper d4cb62f259c5
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION/Wireless Communication, Sem-VII, Re Exam 2023-24.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/11/2024
+- Text: ocr (2 pages), mean OCR confidence 84.8
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
+
+Academic Year: 2024-2025 )
+
+Program: BTech Stream: EXTC Year: IV Semester: VII
+
+-
+Subject: Wireless Communication Time: 3 hrs-(10am to 1pm)
+Date: 25/11/2024 ‘ No. of Pages: 2
+
+Marks: 100
+
+Re-Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. o
+
+Cad
+
+Ql ; “
+
+Answer briefly: [20]
+CO1;SO1 | a.
+; Explain handoff in cellular technology. Explain soft handoff and hard handoff. | [5]
+BL-2
+CO-2; b. .
+SOl; Explain Doppler shift. [5]
+BL-2 7
+CO3; SOI; | ¢ Elaborate different types of Broadcast channels in GSM? [5]
+BL-3 :
+co4; sol | d. Explain Retransmission and Reliability in LTE. [5]
+
+- ; BL-2
+
+Q a.
+CO1; SO1; Explain Microcell Zone concept with neat diagram. [10]
+BL-2 :
+CO3; SO1; | b. .
+BL-3 Elaborate the Architecture of EDGE technology (Enhanced data rate for [10]
+
+GSM evolution).
+% a Explain UMTS (Universal Mobile Telecommunication system) Architecture [10]
+ie . with neat diagram and show the interfaces.
+C03; Sol; | ©: Explain GSM (Global Mobile System) architecture with neat diagram and
+— show the interfaces. , [10]
+
+Page 1 of 2
+--- page 2 ---
+[4 ae pe
+
+Explain factors influencing small scale fading.
+
+[10]
+
+: ‘€02:'S01:
+BL-2 }
+CO3; SO1; Explain the power control in CDMA/IS-95. we [10]
+BL-2 “
+Qs : re F
+ean eat: Explain Orthogonal frequency division multiplexing (OFDM) and Multiple [10]
+BL2.5 _ Input Multiple Output (MIMO) with diagram.
+Distinguish between Pure Aloha and Slotted Aloha (state any 5 appropriate
+CO1; SO1; .
+BL-4 points. [10]
+Q6
+C04; SO1; Describe in detail the features of 4G technology. [10]
+BL-2
+C04; SO1; Explain the frame structure with slots and symbols on the physical layer in [10]
+BL-2 LTE, with a labelled diagram.
+Q7 . a
+— Explain the three basic propagation mechanisms. Discuss Fresnel reflection [10]
+BL-4, 6 coefficient.
+CO4; SO1; Draw and explain the architecture of software defined network. [10]
+BL-2
+Page 2 of 2
+````
+
+## 2023-24 · Exam not stated · Sem 6 · paper 92b9cf6b6d5e
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Wireless Communication/Wireless Communication Technology.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 /04 / 2024
+- Text: ocr (2 pages), mean OCR confidence 87.9
+
+````text
+Ne @
+AVR
+
+2
+SVKM’S NMIMS iSRARY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+
+Academic Year: 2023-2024
+
+Programs: B.Tech/MBATech
+Stream: EXTC
+
+Subject: Wireless Communication Technology he Time: 3 hrs (Z,t0 5pm)
+Date: 20 /04 / 2024 No. of Pages: 2
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1 ‘
+Answer briefly. [20]
+
+CO1;SO1; | a. . oo. ole.
+ied Explain Guard Channel Concept and Queuing in prioritizing of handoff. [5]
+CO2;SO1; | b. . . 3
+Ried Discuss any two parameters of Mobile Multipath Channels. [5]
+CO3;SOl1;]¢. . a . oo,
+= What is the significance of Carrier Aggregation in LTE. [5]
+CO4;SO1; | d. .
+ai3 Describe the features of SG technology (any five). [5]
+Q2 a. —
+CO3:SO1: What do you understand by Diversity combining techniques? Explain Equal Gain 10]
+BL-2 Combining and Maximum Ratio Combining techniques with diagram.
+
+b.
+Col; S01; Explain Frequency Reuse with the help of cluster diagram. Show three clusters and [10]
+BL-6 seven cell-reuse pattern. Elaborate on the capacity of cellular system with equation.
+Q.3 a.
+
+Elaborate cell splitting method and its importance in detail with figure. How it affects
+
+COl1; SO1; [10]
+the transmitted power?
+
+BL-4
+
+Page 1 of 2
+
+ee
+--- page 2 ---
+’
+
+CO3;S01; | b. Elaborate different modes of D2D communication. Discuss challenges in D2D
+
+communication. [10]
+BL-2
+Q4 a.
+C03; SO1; Classify diversity techniques and explain space and frequency diversity with diagram | [10]
+BL- 2,5
+b.
+CO1;SO1; Discuss practical handoff consideration. Justify the significance of umbrella cell [10]
+BL-6 approach with diagram.
+Q5 a.
+C04; SO1; Discuss in detail about Femtocell in 5G. Describe various types of Femtocells. [10]
+BL-2
+b.
+C03 ; SO1 ; Explain Machine to Machine communication with examples and discuss the challenges [10]
+BL- 2 in data offloading.
+Q.6 a.
+CO2 ; S01; Classify and explain various types of small scale fading in detail. [10]
+BL- 2
+b.
+C04 ; SO1 State the difference between OFDMA and NOMA with the help of the figure. Explain [10]
+BL- 4 various techniques to implement Non-orthogonal Multiple Access (NOMA).
+a.
+Q.7 Ifa transmitter produces 55W of power, express the transmit power in units of a) dBW,
+C02; so6; b) dBm. If 55 Wis applied to a unity gain antenna with a 900 MHz carrier frequency, [10]
+find the received power in dBm at a free space distance of 100m from the antenna.
+BL-4 What is Pr(10km)? Assume unity gain for receiver antenna.
+b.
+C04 ; SO] ; Discuss various Radio Access Technologies for Vehicle to Everything (V2X) [10]
+BL-2 communication in 5G network.
+
+Page 2 of 2
+````
+
 ## 2023-24 · Final-Exam · Sem 7 · paper 26cfb20bcbcf
 
 - Departments: Electronics and Telecommunication
@@ -343,97 +645,6 @@ BL-4,6
 BL-2,1 architecture with diagram, state any two advantages and disadvantages. [10]
 
 Page 2 of 2
-````
-
-## 2023-24 · Re-Exam · Sem 7 · paper cfa02beb5dc7
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION/B Tech, Wireless Communication, Sem-VII, Batch 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 84.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2025-2026
-Program: B.Tech : Year: [V Semester: VII
-Stream: EXTC
-
-Subject: Wireless Communication ; Time: 3hrs (tot 1pm)
-om
-Date: i/\ 2/25 ees No. of Pages: 2
-
-Marks: 100
-Re-Examination ( Batch 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted. :
-
-4) All questions carry equal marks. i
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. :
-
-Qi aot : :
-Answer briefly: : [20]
-eoxrsou | 2: Compare between large scale propagation model and small scale fading ie
-model.
-BL4
-C04; SO1; | b. Discuss power control in LTE (Long Term Evolution)? : [5]
-BL2
-c. Explain traffic channel in GSM? State the different types of Common
-ae control channels in GSM? [5]
-¢01; S01; d. Justify the need of frequency reuse and explain concept of frequency reuse [5]
-BL2,5 with diagram.
-Qz a. : . ;
-c01:S01: Explain cell splitting with neat diagram with its received power equations. | [10]
-BL2
-c03;s01; | >. Differentiate between GPRS and EDGE technology. State the advantages 110)
-Bia : and applications of EDGE technology.
-@ a. . . o = . . . : 10
-02; $01; Describe the factors that influence small-scale fading in detail. ; [10]
-BL2
---- page 2 ---
-co4;s01; | 5. Explain the features of WCDMA. Differentiate between CDMA 2000 and
-
-[10]
-BL24 WCDMA (any five points).
-Q4 as Discuss handoff operation, elaborate proper and improper handoff ii
-i : 1
-“ at situation with the help of figure. .
-ae son, |b. Explain protocol structure of LTE (Long Term Evolution) with diagram. [10]
-Qs a. Explain Multiple Input and Multiple Output (MIMO) in 4G technology
-C04; $01; was [10]
-BL2 with diagram.
-c03;S01; | b. Draw a neat labelled diagram of GSM architecture and explain its ‘on
-BL components.
-a. A mobile is located 12 km away from-a base station and uses a vertical 1/4
-
-. monopole antenna with a gain of 2.55 dB to receive cellular radio signals.
-
-The E-field at 1.5 km from the transmitter is measured to be 1073 V/m.
-Q6 The carrier frequency used for the system is 900 MHz. a) Determine the .
-C02; S06; length and the effective aperture of the receiving antenna _—_b) Determine | [10]
-BL6 the received power at the mobile using the two-ray ground reflection
-
--model assuming the height of the transmitting antenna is 30 m and the
-
-receiving antenna is 1 m above ground.
-oe Sou; [. Explain logical channels in LTE. : [10]
-Q7 a.
-C03; SO1; Discuss IS-95 CDMA reverse link channel structure with diagram. [10]
-BL2 :
-ri ee Explain in detail features of 5G Technology. [10]
 ````
 
 ## 2023-24 · Re-Exam · Sem 7 · paper bcdd05b2f37c
@@ -537,107 +748,6 @@ BL-5 Explain in detail features of 5G technology [10]
 Page 2 of 2
 ````
 
-## 2023-24 · Re-Exam · Sem 7 · paper d4cb62f259c5
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION/Wireless Communication, Sem-VII, Re Exam 2023-24.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/11/2024
-- Text: ocr (2 pages), mean OCR confidence 84.8
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
-
-Academic Year: 2024-2025 )
-
-Program: BTech Stream: EXTC Year: IV Semester: VII
-
--
-Subject: Wireless Communication Time: 3 hrs-(10am to 1pm)
-Date: 25/11/2024 ‘ No. of Pages: 2
-
-Marks: 100
-
-Re-Examination (Batch 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. o
-
-Cad
-
-Ql ; “
-
-Answer briefly: [20]
-CO1;SO1 | a.
-; Explain handoff in cellular technology. Explain soft handoff and hard handoff. | [5]
-BL-2
-CO-2; b. .
-SOl; Explain Doppler shift. [5]
-BL-2 7
-CO3; SOI; | ¢ Elaborate different types of Broadcast channels in GSM? [5]
-BL-3 :
-co4; sol | d. Explain Retransmission and Reliability in LTE. [5]
-
-- ; BL-2
-
-Q a.
-CO1; SO1; Explain Microcell Zone concept with neat diagram. [10]
-BL-2 :
-CO3; SO1; | b. .
-BL-3 Elaborate the Architecture of EDGE technology (Enhanced data rate for [10]
-
-GSM evolution).
-% a Explain UMTS (Universal Mobile Telecommunication system) Architecture [10]
-ie . with neat diagram and show the interfaces.
-C03; Sol; | ©: Explain GSM (Global Mobile System) architecture with neat diagram and
-— show the interfaces. , [10]
-
-Page 1 of 2
---- page 2 ---
-[4 ae pe
-
-Explain factors influencing small scale fading.
-
-[10]
-
-: ‘€02:'S01:
-BL-2 }
-CO3; SO1; Explain the power control in CDMA/IS-95. we [10]
-BL-2 “
-Qs : re F
-ean eat: Explain Orthogonal frequency division multiplexing (OFDM) and Multiple [10]
-BL2.5 _ Input Multiple Output (MIMO) with diagram.
-Distinguish between Pure Aloha and Slotted Aloha (state any 5 appropriate
-CO1; SO1; .
-BL-4 points. [10]
-Q6
-C04; SO1; Describe in detail the features of 4G technology. [10]
-BL-2
-C04; SO1; Explain the frame structure with slots and symbols on the physical layer in [10]
-BL-2 LTE, with a labelled diagram.
-Q7 . a
-— Explain the three basic propagation mechanisms. Discuss Fresnel reflection [10]
-BL-4, 6 coefficient.
-CO4; SO1; Draw and explain the architecture of software defined network. [10]
-BL-2
-Page 2 of 2
-````
-
 ## 2022-23 · Exam not stated · Sem 6 · paper de0b21ccf3e3
 
 - Departments: Electronics and Telecommunication
@@ -732,6 +842,122 @@ CO2; SOl;]} b.
 BL<4 Analyze log-normal shadowing in practical link budget design. [5]
 C04; SOI; : Explain Smart Antenna and MIMO. State the difference between them. Can MIMO [10]
 BL- 5 technology use smart antenna? If yes, justify the statement.
+
+Page 2 of 2
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper e33678ae359d
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Wireless Communication/Wireless communication Technology_e33678ae35.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2023
+- Text: ocr (2 pages), mean OCR confidence 86.5
+
+````text
+Ti
+ZQSIUTE 01 E OF yes sEZIEN
+
+SVKM’S NMIMS &
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING, Kr”
+Academic Year: 2022-2023
+Programs: B.Tech/ MBATech Year: III Serniester; VI
+Stream: EXTC
+
+Subject: Wireless Communication Technology Time: 3 hrs (2 to Spm)
+Date: 27/06/2023 No. of Pages: 2
+Marks: 100
+
+Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qa .
+Answer briefly. [20]
+CO1;SO1; | a .
+BELA Justify the need of umbrella cell approach. [5]
+CO2;SO1; | b. ' . - F
+BL? Describe three basic propagation mechanisms. [5]
+CO3;SO1;] e¢. . . . 4,
+Bit What is the importance of Carrier Aggregation in LTE. [5]
+C04 ; SOL; | d. re :
+bd Distinguish between SG and 6G Network Technology (any five points). [5]
+Q.2 a.
+COI; SOl; Explain cell splitting with figure and state its importance. Evaluate the transmitted [10]
+power after cell splitting?
+BL- 2,5
+b. A mobile is located 7 km away from a base station and uses a vertical 1/4 monopole
+antenna with a gain of 3 dB to receive cellular radio signals. The E-field at 1 km from
+the transmitter is measured to be 1073 V/m. The carrier frequency used for this system
+CO2 ; S06; is 950 MHz. Solve for the following.
+
+BL-6 a) Length and the Effective Aperture of the receiving antenna. {10]
+b) Received power at the mobile using the two-ray ground reflection model
+assuming the height of the transmitting antenna is 50 m and the receiving
+antenna is 2 m above the ground.
+
+Page 1 of 2
+--- page 2 ---
+Q3 a.
+CO3; SO1; Classify diversity techniques and explain any two techniques with diagram’ [10]
+
+BL- 4
+
+CO3 ; SOI; | b. Explain different modes of D2D communication. Discuss challenges in D2D [10]
+BL- 2 communication.
+
+Q.4 a.
+
+COI: SOL; Explain handoff operation, elaborate proper and improper handoff situation with the [10]
+Byn6 help of figure.
+
+CO4;SO1; | b.
+
+Ried Explain Femtocell. Describe various types of Femtocells. [10]
+Q.5 a.
+
+C03; S01; Describe the advantages of diversity. Explain pure selection combining and threshold [10]
+
+combining techniques.
+
+BL-2
+
+CO3;SO1; | b.
+
+BL-2 Illustrate the advantages of 3D MIMO and discuss the challenges in data offloading. [10]
+Q.6 a.
+
+CO2 ;SO1; Explain in detail the factors influencing small scale fading. [10]
+BL- 2
+
+C04 ;SO1; | b. Discuss various Radio Access Technologies for Vehicle to Everything (V2X) [10]
+BL- 2 communication in 5G network.
+
+Q.7 a.
+
+CO1; SO]; Explain fixed channel assignment and dynamic channel assignment in cellular network. | _ [5]
+BL- 1
+
+co2: soi: | »- State the Friis path loss equation for the free space model.
+
+BL<4 Analyze log-distance path loss model in practical link budget design. [5]
+
+~ | CO4;SO1;] ¢. Compare OFDMA and NOMA. Explain various techniques to implement Non- {10]
+BL- 4 orthogonal Multiple Access (NOMA).
 
 Page 2 of 2
 ````
@@ -926,6 +1152,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/EXTC/SEM X/WIRELESS COMMUNICATION/Wireless Communication 2021-22 Final0001.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 07 April 2022
 - Text: ocr (2 pages), mean OCR confidence 83.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -981,7 +1208,6 @@ CO-3; SO- ; :
 1: C. Draw the diagram for GSM interfaces. [2]
 BL-1
 
-CO-3; SO- we . oo ia a
 
 1: d. Explain in short working principle of WCDMA with diagram [2]
 BL-2
@@ -1197,6 +1423,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Wireless Communication/Wireless Communication , Re-exam 2021-2022.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 June 2022
 - Text: ocr (2 pages), mean OCR confidence 87.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 va —
@@ -1241,7 +1468,6 @@ CO-1; SO- oe tears :
 
 BES 129
 
-CO-2; SO- B . a P j
 
 6; Bs Define fading. Classify different types of small-scale fading.
 
@@ -1314,81 +1540,6 @@ ate Explain GSM frame structure in detail with diagram. [8]
 oe $02" | c. Explain with diagram protocol structure of LTE. [5]
 
 Page 2 of 2
-````
-
-## 2017-18 · Final-Exam · Sem 5 · paper b6d90649a608
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/WIRELESS COMMUNICATION/WIRELESS NETWORKING 2017-2018 Final.pdf`
-- Printed on paper: exam date: 29 November 2017
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-r,
-Programme: MBA Tech (IT)   Year: III   Semester: V   \
-/
-Academic Year: 2017-2018
-Subject:' Wireless Networkirig >"
-Date: 29 November 2017 »:
-Instructions:   Candidates should read carefully the instructions   printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-I) Question No. I is compulsory.
-2) Out of remaining   questions,   attempt any 4 questions.
-3) In all 5 questions   to be attempted.
-4) All questions   carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate   full marks.
-7) Assume suitable   data if/necessary.
-Q.l) Fill in the blanks   [14]
-1.   Co-Iocated   addresses   is provided by __   server in Mobile IP.
-2. The main difference between WPA and \ypA2   is that WPA uses TKIP and WPA2 uses   for
-encryption.
-3.   Data transmission   at physical   layer in GSM typically uses   systems.
-4.   In WEP the stream cipher __   is for confidentiality   and CRC-32 checksum   is for integrity.
-S. Equipment   Identity Register   is the database for all __   in GSM.
--
-• 6. ___   is adopted to increase the system capacity and reduce eo-channel   interference   .
-7. The main advantage   of on demand protocols   is   as long as there is less traffic and low
-mobility.
---- page 2 ---
-8. The cells having the same number in the adjacent cluster using the same set ofRF channels are
-termed as   cells.
-9. The strategies used to avoid count to infinity problem in fixed networks (poisoned reverse/split
-horizon) do not help in case of ad hoc networks due to rapidly changing   _
-10. The __   type of Access technology enhances the battery life.
-11. In a signal if the same signal pattern does not repeat itself over a time period it is known as _ signal.
-12. A __   comprises a contention free period and a contention period in DFWMAC-PCF with polling.
-13. _   routing protocols comprise those protocols that do not set up hierarchies with clusters of nodes,
-special nodes acting as the head of a cluster, or different routing algorithms inside or outside certain
-regions.
-14.   is used to calculate the non-silence period in GSM.
-Q.2)
-a) Discuss the security mechanisms used in GSM.   [08]
-b) Draw and explain the 802.11 protocol architecture along with functions of each layer.   [06]
-_.. Q.3)
-a) Explain the agent discovery and registration process in Mobile IP.   [08]
-b) Discuss the Fish Eye State Routing protocol? Also highlight its advantage and disadvantage.   [06]
-QA)
-a) Explain any 4 power aware routing protocols.   [08]
-b) Illustrate the need for security in wireless citing suitable examples.   [06]
-Q.S)   /
-a) Describe the following with respect to Bluetooth   [08]
-i.   Piconet and Scatternet
-I!.   L2CAP
-111.   Access Codes
-IV.   Packet Types
-b) Eval uate implicit reservation multiple access technique. How is it improved?   [06]
-Q.6)
-a) What is Spread Spectrum? Explain FHSS and DSSS techniques using labelled diagrams.   [08]
-b) Draw and explain the GSM protocol stack.   [06]
-Q.7) Write Notes on
-i.   Antennas   [04]
-ii.   Issues of Ad Hoc Routing Protocols   [04]
-Ill.   WEP   [03]
-IV.   Polling in MAC   [03]
 ````
 
 ## 2013-14 · Final-Exam · Sem 5 · paper 20f3fa7a39d4
@@ -1729,230 +1880,4 @@ ii) Polarisation
 iii) MMS
 
 iv) WML
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 92b9cf6b6d5e
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Wireless Communication/Wireless Communication Technology.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 /04 / 2024
-- Text: ocr (2 pages), mean OCR confidence 87.9
-
-````text
-Ne @
-AVR
-
-2
-SVKM’S NMIMS iSRARY
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-
-Academic Year: 2023-2024
-
-Programs: B.Tech/MBATech
-Stream: EXTC
-
-Subject: Wireless Communication Technology he Time: 3 hrs (Z,t0 5pm)
-Date: 20 /04 / 2024 No. of Pages: 2
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1 ‘
-Answer briefly. [20]
-
-CO1;SO1; | a. . oo. ole.
-ied Explain Guard Channel Concept and Queuing in prioritizing of handoff. [5]
-CO2;SO1; | b. . . 3
-Ried Discuss any two parameters of Mobile Multipath Channels. [5]
-CO3;SOl1;]¢. . a . oo,
-= What is the significance of Carrier Aggregation in LTE. [5]
-CO4;SO1; | d. .
-ai3 Describe the features of SG technology (any five). [5]
-Q2 a. —
-CO3:SO1: What do you understand by Diversity combining techniques? Explain Equal Gain 10]
-BL-2 Combining and Maximum Ratio Combining techniques with diagram.
-
-b.
-Col; S01; Explain Frequency Reuse with the help of cluster diagram. Show three clusters and [10]
-BL-6 seven cell-reuse pattern. Elaborate on the capacity of cellular system with equation.
-Q.3 a.
-
-Elaborate cell splitting method and its importance in detail with figure. How it affects
-
-COl1; SO1; [10]
-the transmitted power?
-
-BL-4
-
-Page 1 of 2
-
-ee
---- page 2 ---
-’
-
-CO3;S01; | b. Elaborate different modes of D2D communication. Discuss challenges in D2D
-
-communication. [10]
-BL-2
-Q4 a.
-C03; SO1; Classify diversity techniques and explain space and frequency diversity with diagram | [10]
-BL- 2,5
-b.
-CO1;SO1; Discuss practical handoff consideration. Justify the significance of umbrella cell [10]
-BL-6 approach with diagram.
-Q5 a.
-C04; SO1; Discuss in detail about Femtocell in 5G. Describe various types of Femtocells. [10]
-BL-2
-b.
-C03 ; SO1 ; Explain Machine to Machine communication with examples and discuss the challenges [10]
-BL- 2 in data offloading.
-Q.6 a.
-CO2 ; S01; Classify and explain various types of small scale fading in detail. [10]
-BL- 2
-b.
-C04 ; SO1 State the difference between OFDMA and NOMA with the help of the figure. Explain [10]
-BL- 4 various techniques to implement Non-orthogonal Multiple Access (NOMA).
-a.
-Q.7 Ifa transmitter produces 55W of power, express the transmit power in units of a) dBW,
-C02; so6; b) dBm. If 55 Wis applied to a unity gain antenna with a 900 MHz carrier frequency, [10]
-find the received power in dBm at a free space distance of 100m from the antenna.
-BL-4 What is Pr(10km)? Assume unity gain for receiver antenna.
-b.
-C04 ; SO] ; Discuss various Radio Access Technologies for Vehicle to Everything (V2X) [10]
-BL-2 communication in 5G network.
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper e33678ae359d
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/VI SEMESTER/Wireless Communication/Wireless communication Technology_e33678ae35.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/06/2023
-- Text: ocr (2 pages), mean OCR confidence 86.5
-
-````text
-Ti
-ZQSIUTE 01 E OF yes sEZIEN
-
-SVKM’S NMIMS &
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING, Kr”
-Academic Year: 2022-2023
-Programs: B.Tech/ MBATech Year: III Serniester; VI
-Stream: EXTC
-
-Subject: Wireless Communication Technology Time: 3 hrs (2 to Spm)
-Date: 27/06/2023 No. of Pages: 2
-Marks: 100
-
-Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qa .
-Answer briefly. [20]
-CO1;SO1; | a .
-BELA Justify the need of umbrella cell approach. [5]
-CO2;SO1; | b. ' . - F
-BL? Describe three basic propagation mechanisms. [5]
-CO3;SO1;] e¢. . . . 4,
-Bit What is the importance of Carrier Aggregation in LTE. [5]
-C04 ; SOL; | d. re :
-bd Distinguish between SG and 6G Network Technology (any five points). [5]
-Q.2 a.
-COI; SOl; Explain cell splitting with figure and state its importance. Evaluate the transmitted [10]
-power after cell splitting?
-BL- 2,5
-b. A mobile is located 7 km away from a base station and uses a vertical 1/4 monopole
-antenna with a gain of 3 dB to receive cellular radio signals. The E-field at 1 km from
-the transmitter is measured to be 1073 V/m. The carrier frequency used for this system
-CO2 ; S06; is 950 MHz. Solve for the following.
-
-BL-6 a) Length and the Effective Aperture of the receiving antenna. {10]
-b) Received power at the mobile using the two-ray ground reflection model
-assuming the height of the transmitting antenna is 50 m and the receiving
-antenna is 2 m above the ground.
-
-Page 1 of 2
---- page 2 ---
-Q3 a.
-CO3; SO1; Classify diversity techniques and explain any two techniques with diagram’ [10]
-
-BL- 4
-
-CO3 ; SOI; | b. Explain different modes of D2D communication. Discuss challenges in D2D [10]
-BL- 2 communication.
-
-Q.4 a.
-
-COI: SOL; Explain handoff operation, elaborate proper and improper handoff situation with the [10]
-Byn6 help of figure.
-
-CO4;SO1; | b.
-
-Ried Explain Femtocell. Describe various types of Femtocells. [10]
-Q.5 a.
-
-C03; S01; Describe the advantages of diversity. Explain pure selection combining and threshold [10]
-
-combining techniques.
-
-BL-2
-
-CO3;SO1; | b.
-
-BL-2 Illustrate the advantages of 3D MIMO and discuss the challenges in data offloading. [10]
-Q.6 a.
-
-CO2 ;SO1; Explain in detail the factors influencing small scale fading. [10]
-BL- 2
-
-C04 ;SO1; | b. Discuss various Radio Access Technologies for Vehicle to Everything (V2X) [10]
-BL- 2 communication in 5G network.
-
-Q.7 a.
-
-CO1; SO]; Explain fixed channel assignment and dynamic channel assignment in cellular network. | _ [5]
-BL- 1
-
-co2: soi: | »- State the Friis path loss equation for the free space model.
-
-BL<4 Analyze log-distance path loss model in practical link budget design. [5]
-
-~ | CO4;SO1;] ¢. Compare OFDMA and NOMA. Explain various techniques to implement Non- {10]
-BL- 4 orthogonal Multiple Access (NOMA).
-
-Page 2 of 2
 ````

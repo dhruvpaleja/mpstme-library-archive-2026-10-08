@@ -271,6 +271,414 @@ B) Deduce the Force-Voltage analogy between mechanical and electrical control sy
 Ayo
 ````
 
+## 2018-19 · Re-Exam · paper 008f6e17dbd3
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 24 November 2018
+- Text: ocr (3 pages), mean OCR confidence 83.5
+
+````text
+oO”
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: III
+
+Academic Year: 2018-2019
+Subject: Basic Control Systems r
+
+Date: 24 November 2018 Time: 10.
+
+Re-examination (2016-17)
+
+‘Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Qi. Attempt the following:
+A. Differentiate between AC servomotor and DC servomotor.
+B. What is the difference between steady state response and transient response of a control system?
+C. Write a short note on special cases of Routh’s criterion.
+D. Write a short note on PD controller.
+
+Q2. A. Obtain transfer function of the following network:
+—— ae
+2.) CG ia
+
+o—__—_
+
+B. Fora system shown determine type of the system, error coefficients and the error for the following
+inputs:
+
+1) v(+) <2 10
+Ui) xvG)2. St
+iW) vos2 lot set th and
+
+ies Yor beg H,> Tes
+
+fa
+
+C gtk )C St!)
+
+®
+
+03
+03
+03
+03
+
+06
+
+06
+--- page 2 ---
+Q3. A. Explain the advantages and limitations of frequency domain approach in detail.
+
+B. ‘For the following control system, find the values of K1 and K2 so that Mp= 25% and Tp = 4 sec.
+Assume unit step input.
+Cos)
+
+RCS)
+
+Q4. A. Reduce the following block diagram and find C(s)/R(s).
+
+RO) “)
+
+[ee
+
+B. Agiven system oscillates with frequency 2 rad/sec. Find values of Kmar and p.
+
+Q5. A. Fora unity feedback system
+
+GCS) = IK
+SCo+4) C842)
+
+Sketch the raot lacus shawing all details on it, also comment on the stability of the system.
+B. kK Distinguish between feedback and feed forward control system.
+
+ii. Write a short note on standard test signals.
+
+alg
+
+06
+
+06
+
+06
+
+06
+
+06
+
+03
+
+03
+--- page 3 ---
+Q6.
+
+Q7.
+
+A.
+
+B.
+
+For a unity feedback system
+
+— Boo (str)
+OS) = Se cer gafay CHES
+
+Sketch the Bade plot and determine Gain crassaver frequency, Phase crossover frequency, Gain
+
+Margin, Phase Margin, Closed loop stability of the system
+
+i. Define transfer function, @1so explain limitations of transfer function approach.
+
+03
+
+ii. Write a short note on the effect of parameter variation in open loop and closed loop
+
+system.
+
+Find C(s)/R(s) for the following diagram using Masons Gain Formula:
+
+-H4
+
+LX o>!
+
+{ «as Gs
+
+Rts) / ay Gr . Gg \
+
+—Wy —Ho_ —H3
+
+3)g
+
+CC J)
+
+12
+
+03
+
+06
+````
+
+## 2018-19 · Re-Exam · paper 9a64f7f60978
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 17-18 18-18 RE EXAM.pdf`
+- Printed on paper: exam date: 22 January 2019
+- Text: ocr (2 pages), mean OCR confidence 87.2
+
+````text
+; SVKM’S NMIMS \
+a
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
+Program: B. Tech (Mechatronics) ~ Year: III Semester: V <—
+; Academic Year:2018-2019 ~
+Subject: Basic Control Systems ~ Marks:
+; Ti
+Date : 22 January 2019 < -
+: 2 No. Ly
+. . ” Wy. S
+Re-examination (2017-18/ 2018-19) Siti en SS
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q. No Solve the following Questions M’
+1
+A Explain the advantages of closed loop control system over open loop system. -
+B_ State and explain Masons gain formula to find transfer function of the system. =
+C_ Define relative stability and Marginal Stability, 3
+D_ Explain how to find gain margin and phase margin from Bode Plot with the help of rough sketch. 3
+Q.2 A Find out transfer function from given block diagram of a system. 7
+
+Fy(s) + V5¢ f
+G6) BOSCKABOL Gay Gls) ie
+~4
+LF) bis) His)
+Fy{s)
+B_ Explain different rules to plot root locus of the transfer function 7
+
+Page 1 of 2
+--- page 2 ---
+Q.3A Aunity feedback system with has open loop transfer fu
+
+stability,
+
+B. Find out the expression for unit ste
+
+Q.4A_ Define sensitivit
+
+nction is given. Draw Bode plot and check
+
+G(s)= 192(S+1)(S? (S+4)(S+12))
+
+p time response of given second order system.
+C(S)/R(S) =50/(S? +6S+25)
+
+y in control system. State and explain its different types.
+
+B. Sketch the root locus of the system given and comment on stability.
+
+Q.5A Fora Control system given,
+
+B De
+peak for second order system.
+
+Q.6A Determine the range of K for stability from F(S)=S*
+
+B Construct signal flow graph and fi
+
+fine Resonance peak, resonance frequency and Bandwidth. Derive the relation for reson
+
+G(S)=K/(S(S+3)(S?+2S+2) )
+
+sketch the Nyquist plot and calculate the range of K for stability.
+
+G(S)H(S)=K/(S(S+2)(S+10))
+ance
+
++20 KS3 +58? +10S+15 =0
+
+ind out the transfer function.
+
+Q.7A_ Explain the correlation between ti
+B Determine Steady state error for t
+
+ime domain and frequency domain specifications.
+
+he system given below if the inputs are i)5 ii)5t iii)3t?/2
+G(S)=20/(S(S+2)(S?+28+20))
+
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · paper 6a5141b82b3d
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: max marks: 69; exam date: 22 January 2019
+- Text: ocr (2 pages), mean OCR confidence 82.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B. Tech (Mechatronics), Year: Ill Semester : V «
+, Academic Year: 2018-2019 .-
+/
+/ Subject: Basic Control Systems ~ Marks: 69 K
+Xe, ?
+Time: /20 pm to 5.00 pm.
+MPSTM
+
+Date : 22 January 2019 +
+Duratigns:3 (i BRARY
+
+No. of Rages. O2- Sy
+*, NX
+MIMS UNIVERSS
+
+a
+Re-examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Solve any three of the following Questions: : M
+A. Differentiate between open loop and closed loop systems. 4
+B_ State and explain Masons gain formula to find transfer function of the system. 4
+C What do you understand by damping. Which are the different types of systems based on damping 4
+ratio. .
+D_ Define error coefficients Kp, Kv and Ka. 4
+Q.2 A Find out transfer function T(s)=C(s)/R(s) of the system via block diagram reduction. 6
+G(s) |}~¥——
+
+Gy GAs Cs)
+
+ae at
+—e Gas)
+
+Gs)
+
++
+Gio a
+
+Ges)
+
+B a) Convert the transfer function into differential equation. 6
+C(s)_ __ s +25* +457 +5743
+Rs) 86 +7s°+3s'+2s° +5° 43°
+
+Page 1 of 2
+--- page 2 ---
+b) Convert the differential equation given below into transfer function. The initial conditions
+
+x(0)=1 and x(0) = —1.
+&x | dk
+
+mt a +3x=1
+Q3A ‘ — —KG+3)
+Draw Bode plot for the system shown in figure below, where G(s) Set1s+D (s+1)(s+2) 6
+Ris} + ES) Cis)
+Ky} ai
+6
+
+B_ Sketch the root locus of the unity feedback system, where
+k(s+1)(s+2)
+
+G(s = (s+5)(s+6)
+
+Find the break —in and break away points.
+500
+
+Q4A =
+A unity feedback system is given by (s) = (4 20)(s?-+45+10)
+
+inputs of 40u(t), 70tu(t) and 80t?u(t).
+B_ Fora unity feedback system G(s) = eases" Determine Wn, €,Tp, Ts, Tr and % OS. 6
+
+_ Determine steady state error for
+
+12
+6
+
+Q.6 A Determine the range of K to ensure the stability of unity feedback system whose forward transfer 6
+function is given by
+
+Q.5 Derive the relation for unit step response for second order under damped system.
+
+Rg
+G
+
+(S) = Gy ise + 276 + 38)
+B_ Given the system of figure below, calculate the sensitivity of the closed loop transfer function to 6
+
+changes in the parameter a.
+Ris) + ls) K C@)
+“7 — =
+
+Q.7A_ From given signal flow graph find out transfer function. 6
+Cys} Gis) Gas Gis} 1 Gs)
+Ris} © C Tis)
+Hiis)
+6
+
+Find the range of gain K, for stability,
+
+B_ For the unity feedback system, where G(s) = ae
+‘0 find the
+
+instability and the value of gain for marginal stability. For marginal stability als
+frequency of oscillation. Use the Nyquist criterion.
+
+Page 2 of 2
+````
+
 ## 2017-18 · Re-Exam · Sem 4 · paper 5c8d47fc1d6d
 
 - Departments: Electronics and Telecommunication
@@ -407,6 +815,145 @@ Q7. Write short notes on (Any 2) (12)
 Page 3 of 3
 ````
 
+## 2017-18 · Re-Exam · paper 1d752786de5f
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS (MECHATRONICS), BATCH 16-17 RE EXAM (1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 04 December 2017
+- Text: ocr (3 pages), mean OCR confidence 85.7
+
+````text
+SVKM’s NMIMS .
+MUOKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: II Semester: V
+
+| Batch: 2016-17
+: ‘ Academic Year: 2017-2018
+
+Subject: Basic Control Systems
+
+Date: 04 December 2017
+y
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary
+
+Ql Attempt any THREE (4 marks each)
+A Find the sensitivity of the transfer function T (s) with respect to the system gain k, where ;
+k (1+ stz)
+T(s) = ———
+(1 + st2)
+
+B_ Define Gain Margin and Phase margin.
+C_ Explain the effect of addition of a pole and zero on a control system.
+D_ Write a short note on Tachogenerator.
+
+Q2 A Obtain the transfer function of the below given system using Block Diagram Reduction 8
+Technique
+
+&G,
+
+ea
+
+Page 1 of 3
+--- page 2 ---
+B__ Draw the equivalent mechanical diagram of the given system and write the set of equilibrium 4
+equations for it.
+
+LL,
+
+3, K
+
+X(t)
+Bp
+M,
+x(t}
+{0
+Q3   A_ Use Mason’s Gain Formula to obtain C(s)/R(s) of the system shown below: 8
+Gy om
+Ri + >
+(s) G G 3, cs}
+! a a +
+t
+) > H,
+| i pL
+i
+B The maximum overshoot and settling time for a control system whose transfer function is 4
+; C(s) Wh
+' given by- =
+
+R(s) S24+2%wys+ we,
+
+are 10% and 4 second respectively. The input being a unit step function. Determine the values
+of € and w,, in order to satisfy these requirements.
+
+H Q4 A For the system having ; . 8
+K(s+ 4)
+GS)EG)= s(s? + 2s +2)
+Do the following:
+i. Sketch the root locus
+ii. Is the system stable for all values of K?
+
+Page 2 of 3
+--- page 3 ---
+B_ Determine the time response to unit step input. 4
+
+R(s) + 5 C(s)
+Y “| sei
+aa
+2s
+Q5 A Determine the time domain specifications and expression for output for unit step input to a 6
+system having system equation as follows:
+Wy. 4Y 46 =9
+diz” ae °° *
+B_ The open loop transfer function of a system is given by — 6
+30
+G(s)H(s) =
+
+s(1+ 0.5s)(1 + 0.08s)
+Determine using Bode Plot (i) Gain Margin (ii) Phase margin (iti) Closed loop stability,
+
+' Q6 A Sketch the Nyquist plot having given the open loop transfer function ofa unity feedback 8
+control system as —
+
+Determine the limiting value of K for closed loop stability.
+
+B_ Determine the error constants and the steady state errors for unit step, unit ramp and unit 4
+parabolic input, applied to Type -0, Type — | and Type — 2 systems.
+
+Derive the expression for transfer function Fale (s) of a two phase AC servo motor.
+c
+
+B_ The forward path transfer function of a unity feedback control system is given below: 6
+
+K
+G(s) = (s2-+3s+2)(s?+6s+24)
+
+Using R H criteria, Find the following:
+i. The range of K that keeps the system stable
+ii. The value of K that makes the system oscillate
+— iii. | The frequency of oscillation when K is set to the value that makes the system oscillate
+
+Page 3 of 3
+````
+
 ## 2017-18 · Re-Exam · paper 66c035a3873c
 
 - Departments: Mechatronics
@@ -484,113 +1031,6 @@ motor.
 G(s)   --
 (s+7)(s+9)
 Evaluate system type, Kp, Kv, and Ka and the corresponding steady state errors.
-Page 2 of 2
-````
-
-## 2017-18 · Re-Exam · paper 9a64f7f60978
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 17-18 18-18 RE EXAM.pdf`
-- Printed on paper: exam date: 22 January 2019
-- Text: ocr (2 pages), mean OCR confidence 87.2
-
-````text
-; SVKM’S NMIMS \
-a
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
-Program: B. Tech (Mechatronics) ~ Year: III Semester: V <—
-; Academic Year:2018-2019 ~
-Subject: Basic Control Systems ~ Marks:
-; Ti
-Date : 22 January 2019 < -
-: 2 No. Ly
-. . ” Wy. S
-Re-examination (2017-18/ 2018-19) Siti en SS
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q. No Solve the following Questions M’
-1
-A Explain the advantages of closed loop control system over open loop system. -
-B_ State and explain Masons gain formula to find transfer function of the system. =
-C_ Define relative stability and Marginal Stability, 3
-D_ Explain how to find gain margin and phase margin from Bode Plot with the help of rough sketch. 3
-Q.2 A Find out transfer function from given block diagram of a system. 7
-
-Fy(s) + V5¢ f
-G6) BOSCKABOL Gay Gls) ie
-~4
-LF) bis) His)
-Fy{s)
-B_ Explain different rules to plot root locus of the transfer function 7
-
-Page 1 of 2
---- page 2 ---
-Q.3A Aunity feedback system with has open loop transfer fu
-
-stability,
-
-B. Find out the expression for unit ste
-
-Q.4A_ Define sensitivit
-
-nction is given. Draw Bode plot and check
-
-G(s)= 192(S+1)(S? (S+4)(S+12))
-
-p time response of given second order system.
-C(S)/R(S) =50/(S? +6S+25)
-
-y in control system. State and explain its different types.
-
-B. Sketch the root locus of the system given and comment on stability.
-
-Q.5A Fora Control system given,
-
-B De
-peak for second order system.
-
-Q.6A Determine the range of K for stability from F(S)=S*
-
-B Construct signal flow graph and fi
-
-fine Resonance peak, resonance frequency and Bandwidth. Derive the relation for reson
-
-G(S)=K/(S(S+3)(S?+2S+2) )
-
-sketch the Nyquist plot and calculate the range of K for stability.
-
-G(S)H(S)=K/(S(S+2)(S+10))
-ance
-
-+20 KS3 +58? +10S+15 =0
-
-ind out the transfer function.
-
-Q.7A_ Explain the correlation between ti
-B Determine Steady state error for t
-
-ime domain and frequency domain specifications.
-
-he system given below if the inputs are i)5 ii)5t iii)3t?/2
-G(S)=20/(S(S+2)(S?+28+20))
-
 Page 2 of 2
 ````
 
@@ -832,6 +1272,118 @@ b) Explain how to check stability from bode plot. Use rough sketch. a4
 and error for parabolic input 2t”
 b) Derive the output time response for unit step input applied to second order underdamped = 7
 system.
+````
+
+## 2016-17 · Final-Exam · paper 068eeec7d010
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS B TECH (MECHATRONICS), FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 06 December 2016
+- Text: ocr (2 pages), mean OCR confidence 81.0
+
+````text
+ste
+
+/
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: II Semester: Vewssesinn.
+al I
+
+Academic Year: 2016-2017 se ;
+
+Subject : Basic Control Systems me
+
+1 ARW PS
+» Marks: 60 \ &} L1i8#& eh
+Date : 06 December 2016 Time : 2.00 pm#05,00 pm j=
+Le,
+
+Durations: 3 Thee Rag eo
+
+Final-Examination ee
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+NB:
+1. Question no. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicate full marks.
+Te Assume suitable data if necessary
+
+Ql. Attempt any four questions:-
+A Differentiate between open loop and close loop system’
+B_ Explain the concept of transfer function.
+C Explain block diagram reduction mules. - .
+D Explain the system time response of a second order system to astep input.
+E Explain Routh Hurwitz criterion.
+
+Q2 A Explain standard test signals? Also Explain poles and zeros of a transfer function
+B_ Find the transfer function for the following circuit’:
+1A
++ $V YYYY_____—_—_,
+
+\jL jv
+: +
+NU) @ ha WHA NLU)
+
+Q3 A Explain tacho-generator in detail:
+B_ Find the transfer function of the following block diagram using block diagram reduction
+technique.
+
+PROE- 1/5
+
+03
+03
+03
+03
+03
+
+06
+
+06
+
+06
+
+06
+--- page 2 ---
+L —_>
+A pa | (qa9)
+He
+J
+Q4 A Explain analysis of second order systems in detail’ Also explain the effect of zeta (0): 06
+B_ Find the transfer function of the following system using Masons Gain Formula?
+06
+CCK)
+Q5 A Sketch the root locus for Gt JHC £) - lA
+§CK472) (HS 06
+Comment on stability of the system.
+B_ Explain Nyquist plot in detail with the help of an example. 06
+
+rs)
+Q6 A A unity feedback control system has open loop transfer function as Gc) 2 ie
+
+Sketch Bode plot and determine from it ral a AeA 4p
+i) Gain cross over frequency Scito-is)(l+o s)
+ii) Phase cross over frequency : 12 7
+iii) Gain Margin .
+iv) Phase Margin
+v) Closed loop stability of the system
+Q7 A Explain PID controller in detail. 06
+= il B. Forasystem having Cech) _ 2o
+| Rin C24 Fetus 06
+
+Find its time response specifications and expression for output if'a unit step input is applied. ~
 ````
 
 ## 2016-17 · Final-Exam · Sem 6 · paper d811c36c39eb
@@ -1126,308 +1678,148 @@ Page 3 of 3
 (5)
 ````
 
-## 2016-17 · Re-Exam · paper 1d752786de5f
+## 2016-17 · Re-Exam · Sem 4 · paper b0052590bb52
 
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS (MECHATRONICS), BATCH 16-17 RE EXAM (1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 04 December 2017
-- Text: ocr (3 pages), mean OCR confidence 85.7
-
-````text
-SVKM’s NMIMS .
-MUOKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: II Semester: V
-
-| Batch: 2016-17
-: ‘ Academic Year: 2017-2018
-
-Subject: Basic Control Systems
-
-Date: 04 December 2017
-y
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary
-
-Ql Attempt any THREE (4 marks each)
-A Find the sensitivity of the transfer function T (s) with respect to the system gain k, where ;
-k (1+ stz)
-T(s) = ———
-(1 + st2)
-
-B_ Define Gain Margin and Phase margin.
-C_ Explain the effect of addition of a pole and zero on a control system.
-D_ Write a short note on Tachogenerator.
-
-Q2 A Obtain the transfer function of the below given system using Block Diagram Reduction 8
-Technique
-
-&G,
-
-ea
-
-Page 1 of 3
---- page 2 ---
-B__ Draw the equivalent mechanical diagram of the given system and write the set of equilibrium 4
-equations for it.
-
-LL,
-
-3, K
-
-X(t)
-Bp
-M,
-x(t}
-{0
-Q3   A_ Use Mason’s Gain Formula to obtain C(s)/R(s) of the system shown below: 8
-Gy om
-Ri + >
-(s) G G 3, cs}
-! a a +
-t
-) > H,
-| i pL
-i
-B The maximum overshoot and settling time for a control system whose transfer function is 4
-; C(s) Wh
-' given by- =
-
-R(s) S24+2%wys+ we,
-
-are 10% and 4 second respectively. The input being a unit step function. Determine the values
-of € and w,, in order to satisfy these requirements.
-
-H Q4 A For the system having ; . 8
-K(s+ 4)
-GS)EG)= s(s? + 2s +2)
-Do the following:
-i. Sketch the root locus
-ii. Is the system stable for all values of K?
-
-Page 2 of 3
---- page 3 ---
-B_ Determine the time response to unit step input. 4
-
-R(s) + 5 C(s)
-Y “| sei
-aa
-2s
-Q5 A Determine the time domain specifications and expression for output for unit step input to a 6
-system having system equation as follows:
-Wy. 4Y 46 =9
-diz” ae °° *
-B_ The open loop transfer function of a system is given by — 6
-30
-G(s)H(s) =
-
-s(1+ 0.5s)(1 + 0.08s)
-Determine using Bode Plot (i) Gain Margin (ii) Phase margin (iti) Closed loop stability,
-
-' Q6 A Sketch the Nyquist plot having given the open loop transfer function ofa unity feedback 8
-control system as —
-
-Determine the limiting value of K for closed loop stability.
-
-B_ Determine the error constants and the steady state errors for unit step, unit ramp and unit 4
-parabolic input, applied to Type -0, Type — | and Type — 2 systems.
-
-Derive the expression for transfer function Fale (s) of a two phase AC servo motor.
-c
-
-B_ The forward path transfer function of a unity feedback control system is given below: 6
-
-K
-G(s) = (s2-+3s+2)(s?+6s+24)
-
-Using R H criteria, Find the following:
-i. The range of K that keeps the system stable
-ii. The value of K that makes the system oscillate
-— iii. | The frequency of oscillation when K is set to the value that makes the system oscillate
-
-Page 3 of 3
-````
-
-## 2016-17 · Re-Exam · paper 008f6e17dbd3
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 24 November 2018
-- Text: ocr (3 pages), mean OCR confidence 83.5
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 14-15,15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 16 May 2017
+- Text: ocr (2 pages), mean OCR confidence 85.7
 
 ````text
-oO”
+f
+}
 
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (MECHATRONICS) Year: III
+e MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (EXTC) Year: Il < Semester: IV aN
+3
+’ Batch: 2014-2015/2015 - 2016 EE RR
+. . i Ff, mPsSTMe
+Academic Year: 2016-2017 i rf a IBRARY ay ?
+> Subject: Basic.Control Systems ~ eM y
+Marks: 60° ~ Ora
+A Date: 16 May 2017 Time: 10.00 am to 1.00’pm [
 
-Academic Year: 2018-2019
-Subject: Basic Control Systems r
+-- Durations: 3 (hrs)
+No. of Pages: _2-
+Re-Examination :
 
-Date: 24 November 2018 Time: 10.
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+1. Question No.1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+Ql Attempt any three : (Four marks each) (12)
+a Define open loop and closed loop control system with examples.
+b Explain relative stability using Routh Hurwitz criteria.
+c Write short note on DC Servomotors.
+d Explain Gain Margin and Phase Margin using Bode Plot.
 
-Re-examination (2016-17)
+Q2 a Find the Force Voltage and Force Current Analogy of mechanical system given below: . = (6)
 
-‘Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+K3 x2
+! XL
+F
+b Apply Mason’s Gain formula to determine the overall transfer function for given block (6)
+diagram.
 
-1) Question No. lis compulsory.
+G2
 
-2) Out of remaining questions, attempt any 4 questions.
+Ris}
 
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qi. Attempt the following:
-A. Differentiate between AC servomotor and DC servomotor.
-B. What is the difference between steady state response and transient response of a control system?
-C. Write a short note on special cases of Routh’s criterion.
-D. Write a short note on PD controller.
-
-Q2. A. Obtain transfer function of the following network:
-—— ae
-2.) CG ia
-
-o—__—_
-
-B. Fora system shown determine type of the system, error coefficients and the error for the following
-inputs:
-
-1) v(+) <2 10
-Ui) xvG)2. St
-iW) vos2 lot set th and
-
-ies Yor beg H,> Tes
-
-fa
-
-C gtk )C St!)
-
-®
-
-03
-03
-03
-03
-
-06
-
-06
++ +
+se iin : 3
+H1
+H2
 --- page 2 ---
-Q3. A. Explain the advantages and limitations of frequency domain approach in detail.
+Q3
 
-B. ‘For the following control system, find the values of K1 and K2 so that Mp= 25% and Tp = 4 sec.
-Assume unit step input.
-Cos)
+Q4
 
-RCS)
+Q5
 
-Q4. A. Reduce the following block diagram and find C(s)/R(s).
+Q6
 
-RO) “)
+Q7
 
-[ee
+a
 
-B. Agiven system oscillates with frequency 2 rad/sec. Find values of Kmar and p.
+A second order system has unity feedback and open loop transfer function
+G(s) 500
+3) 3 ee
+s(s +15)
+i. Draw the block diagram for closed loop system
+ii. | What is the characteristics equation
 
-Q5. A. Fora unity feedback system
+iii. | What is damping ratio and natural frequency values
+iv. Calculate percentage peak overshoot, settling time when system is excited by unit
 
-GCS) = IK
-SCo+4) C842)
+step input
+v. Sketch the transient response for unit step input
+vi. If the input is ramp of 0.5 rad/sec, calculate steady state error
+The closed loop transfer function is given by
 
-Sketch the raot lacus shawing all details on it, also comment on the stability of the system.
-B. kK Distinguish between feedback and feed forward control system.
+K
+T(s) =
+(s) s*+ 653 + 30s? +60s+K
+i. Determine the range in which K must lie for the system to be stable
+ii. | What should be the upper limit on K if all the poles of T(s) are required to be on
+the left of the line o = -1
 
-ii. Write a short note on standard test signals.
+Sketch the complete Root Locus for a negative feedback control system having
+_ K(s+1) -
+G(s) = FetDerw and H(s) =1
+The negative feedback control system has forward path transfer function G(s) = ; = D
 
-alg
+and H(s) = 5. Determine the sensitivity of closed loop transfer function with respect to G
+and H at » = | rad/sec.
 
-06
+Define the following system by plotting poles location and sketching the output
+waveform for a unit step input
 
-06
+i. Underdamped system
 
-06
+ii. | Undamped system
 
-06
+iii. | Overdamped system
+A unity feedback control system has G(s) = SGTE GTI draw the Bode plot.
+Sketch the Nyquist plot for G(s)H(s) = ——72“—— find th fK and h
+etch the Nyquist plot for G(s = Soasrn(odsra 1nd the range of K and hence
 
-06
+comment on stability.
+State the advantages and limitations of frequency domain approach.
 
-03
+What are the major applications of a stepper motor? Describe the construction and
+working of any one type of stepper motor.
+Discuss the effect of following controllers on the second-order control system
 
-03
---- page 3 ---
-Q6.
+i. PI controller
 
-Q7.
+ii. PD controller
 
-A.
+afr
 
-B.
+(6)
 
-For a unity feedback system
+(6)
 
-— Boo (str)
-OS) = Se cer gafay CHES
+(6)
 
-Sketch the Bade plot and determine Gain crassaver frequency, Phase crossover frequency, Gain
+(6)
 
-Margin, Phase Margin, Closed loop stability of the system
+(6)
 
-i. Define transfer function, @1so explain limitations of transfer function approach.
+(6)
+(6)
 
-03
-
-ii. Write a short note on the effect of parameter variation in open loop and closed loop
-
-system.
-
-Find C(s)/R(s) for the following diagram using Masons Gain Formula:
-
--H4
-
-LX o>!
-
-{ «as Gs
-
-Rts) / ay Gr . Gg \
-
-—Wy —Ho_ —H3
-
-3)g
-
-CC J)
-
-12
-
-03
-
-06
+(6)
+(6)
+(6)
 ````
 
 ## 2016-17 · Re-Exam · paper dd419330009f
@@ -1437,6 +1829,7 @@ CC J)
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 16-17 RE EXAM_dd41933000.pdf`
 - Printed on paper: exam date: 01 June 2017
 - Text: ocr (3 pages), mean OCR confidence 85.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1444,7 +1837,6 @@ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
 7 Programme: B. Tech (MECHATRONICS) Year: III Semester: V
 
-ieelntmas Year: 2016-2017 a yntal oe sae
 
 Batch: 2016-17
 
@@ -1558,142 +1950,6 @@ MLLLLAGLELLLALA EMAL AAA Ah le
 od
 
 Page 3 of 3
-````
-
-## 2016-17 · Re-Exam · paper 6a5141b82b3d
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: max marks: 69; exam date: 22 January 2019
-- Text: ocr (2 pages), mean OCR confidence 82.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B. Tech (Mechatronics), Year: Ill Semester : V «
-, Academic Year: 2018-2019 .-
-/
-/ Subject: Basic Control Systems ~ Marks: 69 K
-Xe, ?
-Time: /20 pm to 5.00 pm.
-MPSTM
-
-Date : 22 January 2019 +
-Duratigns:3 (i BRARY
-
-No. of Rages. O2- Sy
-*, NX
-MIMS UNIVERSS
-
-a
-Re-examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Solve any three of the following Questions: : M
-A. Differentiate between open loop and closed loop systems. 4
-B_ State and explain Masons gain formula to find transfer function of the system. 4
-C What do you understand by damping. Which are the different types of systems based on damping 4
-ratio. .
-D_ Define error coefficients Kp, Kv and Ka. 4
-Q.2 A Find out transfer function T(s)=C(s)/R(s) of the system via block diagram reduction. 6
-G(s) |}~¥——
-
-Gy GAs Cs)
-
-ae at
-—e Gas)
-
-Gs)
-
-+
-Gio a
-
-Ges)
-
-B a) Convert the transfer function into differential equation. 6
-C(s)_ __ s +25* +457 +5743
-Rs) 86 +7s°+3s'+2s° +5° 43°
-
-Page 1 of 2
---- page 2 ---
-b) Convert the differential equation given below into transfer function. The initial conditions
-
-x(0)=1 and x(0) = —1.
-&x | dk
-
-mt a +3x=1
-Q3A ‘ — —KG+3)
-Draw Bode plot for the system shown in figure below, where G(s) Set1s+D (s+1)(s+2) 6
-Ris} + ES) Cis)
-Ky} ai
-6
-
-B_ Sketch the root locus of the unity feedback system, where
-k(s+1)(s+2)
-
-G(s = (s+5)(s+6)
-
-Find the break —in and break away points.
-500
-
-Q4A =
-A unity feedback system is given by (s) = (4 20)(s?-+45+10)
-
-inputs of 40u(t), 70tu(t) and 80t?u(t).
-B_ Fora unity feedback system G(s) = eases" Determine Wn, €,Tp, Ts, Tr and % OS. 6
-
-_ Determine steady state error for
-
-12
-6
-
-Q.6 A Determine the range of K to ensure the stability of unity feedback system whose forward transfer 6
-function is given by
-
-Q.5 Derive the relation for unit step response for second order under damped system.
-
-Rg
-G
-
-(S) = Gy ise + 276 + 38)
-B_ Given the system of figure below, calculate the sensitivity of the closed loop transfer function to 6
-
-changes in the parameter a.
-Ris) + ls) K C@)
-“7 — =
-
-Q.7A_ From given signal flow graph find out transfer function. 6
-Cys} Gis) Gas Gis} 1 Gs)
-Ris} © C Tis)
-Hiis)
-6
-
-Find the range of gain K, for stability,
-
-B_ For the unity feedback system, where G(s) = ae
-‘0 find the
-
-instability and the value of gain for marginal stability. For marginal stability als
-frequency of oscillation. Use the Nyquist criterion.
-
-Page 2 of 2
 ````
 
 ## 2015-16 · Final-Exam · Sem 4 · paper 32e989ba3f4d
@@ -1823,6 +2079,7 @@ analogy.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS B TECH (MECHATRONICS), 2015-16 FINAL EXAM.pdf`
 - Printed on paper: exam date: 05/12/2015
 - Text: ocr (2 pages), mean OCR confidence 84.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1877,7 +2134,6 @@ Ris) +
 
 +
 AS
-Gj 6s) ba Gs) +S) Cs)
 
 Gals)
 
@@ -2126,150 +2382,6 @@ ifn oar Sa
 (a)
 
 3/3
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper b0052590bb52
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 14-15,15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 16 May 2017
-- Text: ocr (2 pages), mean OCR confidence 85.7
-
-````text
-f
-}
-
-SVKM’s NMIMS
-
-e MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (EXTC) Year: Il < Semester: IV aN
-3
-’ Batch: 2014-2015/2015 - 2016 EE RR
-. . i Ff, mPsSTMe
-Academic Year: 2016-2017 i rf a IBRARY ay ?
-> Subject: Basic.Control Systems ~ eM y
-Marks: 60° ~ Ora
-A Date: 16 May 2017 Time: 10.00 am to 1.00’pm [
-
--- Durations: 3 (hrs)
-No. of Pages: _2-
-Re-Examination :
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-1. Question No.1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-Ql Attempt any three : (Four marks each) (12)
-a Define open loop and closed loop control system with examples.
-b Explain relative stability using Routh Hurwitz criteria.
-c Write short note on DC Servomotors.
-d Explain Gain Margin and Phase Margin using Bode Plot.
-
-Q2 a Find the Force Voltage and Force Current Analogy of mechanical system given below: . = (6)
-
-K3 x2
-! XL
-F
-b Apply Mason’s Gain formula to determine the overall transfer function for given block (6)
-diagram.
-
-G2
-
-Ris}
-
-+ +
-se iin : 3
-H1
-H2
---- page 2 ---
-Q3
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-a
-
-A second order system has unity feedback and open loop transfer function
-G(s) 500
-3) 3 ee
-s(s +15)
-i. Draw the block diagram for closed loop system
-ii. | What is the characteristics equation
-
-iii. | What is damping ratio and natural frequency values
-iv. Calculate percentage peak overshoot, settling time when system is excited by unit
-
-step input
-v. Sketch the transient response for unit step input
-vi. If the input is ramp of 0.5 rad/sec, calculate steady state error
-The closed loop transfer function is given by
-
-K
-T(s) =
-(s) s*+ 653 + 30s? +60s+K
-i. Determine the range in which K must lie for the system to be stable
-ii. | What should be the upper limit on K if all the poles of T(s) are required to be on
-the left of the line o = -1
-
-Sketch the complete Root Locus for a negative feedback control system having
-_ K(s+1) -
-G(s) = FetDerw and H(s) =1
-The negative feedback control system has forward path transfer function G(s) = ; = D
-
-and H(s) = 5. Determine the sensitivity of closed loop transfer function with respect to G
-and H at » = | rad/sec.
-
-Define the following system by plotting poles location and sketching the output
-waveform for a unit step input
-
-i. Underdamped system
-
-ii. | Undamped system
-
-iii. | Overdamped system
-A unity feedback control system has G(s) = SGTE GTI draw the Bode plot.
-Sketch the Nyquist plot for G(s)H(s) = ——72“—— find th fK and h
-etch the Nyquist plot for G(s = Soasrn(odsra 1nd the range of K and hence
-
-comment on stability.
-State the advantages and limitations of frequency domain approach.
-
-What are the major applications of a stepper motor? Describe the construction and
-working of any one type of stepper motor.
-Discuss the effect of following controllers on the second-order control system
-
-i. PI controller
-
-ii. PD controller
-
-afr
-
-(6)
-
-(6)
-
-(6)
-
-(6)
-
-(6)
-
-(6)
-(6)
-
-(6)
-(6)
-(6)
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 2c00c26e2a3d
@@ -3050,6 +3162,315 @@ B. DC Servomotor
 C, Stepper Motor
 ````
 
+## 2014-15 · Re-Exam · Sem 4 · paper 4c7a1bef910f
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 18/05/2015
+- Text: ocr (2 pages), mean OCR confidence 87.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC} ; Year: I Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Basic Control Systems
+Mark:
+Date: 18/05/2015 Time}
+
+- mination bg wn ue ARF G
+Re-Examination “mines waves
+
+cae OO
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+NB:
+
+1. Question no. | is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+5: In all 5 questions to be attempted.
+
+4, All questions carry equal marks.
+
+Ds. Answer to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicate full marks.
+
+Ql. Attempt any four questions:-
+
+A | Compare open loop and closed loop control system ( any five points ) 5
+B | Explain the constructional features and working of AC servo motor 5
+C | Explain Force-Voltage analogy in response of Mechanical systems. 5
+D | Determine the overall transmittance relating X4 and X; for the following signal flow graph. 5
+
+c
+
+a d
+xy x4
+% %
+
+b
+
+E | Determine the number of roots on imaginary axis for : 5
+
+S° + 6S* + 15S? + 30S? + 448 +24
+
+Q2)A Ra La le 10
+—WM\ :
+eat)
+4° iy i
+Le Separately excited d.c. generator
+For the system shown above, Determine transfer function Ex(S)/E,S).
+B Kg Ko 10
+A esses Mp Ma
+
+4_=B, <— B3
+
+K, uA
+
+f— My
+
+st
+
+i For the above Translation system obtain differential equation
+
+4/2.
+
+z
+--- page 2 ---
+Q3 A 10
+Reduce the above block diagram by reduction technique and obtain its transfer function
+C(S)/R(S)
+B 10
+Find the transfer function C(S)/R(S) for above signai flow graph by Mason’s gain formula
+Q4 | A | Draw a neat diagram of armature controlled DC servo Motor and obtain its transfer function. 10
+B | (i) Obtain the response of second order under damped system if input applied is unit step. 10
+(ii) The open loop transfer function of the system is G(S)H(S) = 10/ [S(S+2)(S+5)]. What will
+be the steady state error when the input signal is a step of magnitude 2.
+QS | A | For the control system shown in figure below: 10
+(i) Determine peak overshoot for a unit step input and Steady error for unit ramp input.
+(ii) Calculate the steady state value of the output when the input shaft is held fixed and a sudden
+torque TL = 1Nm is applied.
+Ts)
+5 ol — : = —» C(s)
+0.158" 4 a
+B | Discuss the special cases in Rouths criterion. 10
+Find the range of K to make the system stable for the unity feedback system:
+G(S) = [K(S+20)/[S(S+2)(S+3)]
+Q6 | A | Draw the Root locus for the unity feedback system G(S) = K/[S(S+6)(S+9)]. 10
+B | For the system having open loop transfer function: 10
+G(S)H(S) = 10/ [S(S+1)(S+10)] Determine the stability of the system by plotting the Bode plot
+of the system.
+| Q7
+A | Explain “principle of arguments” as used to determine stability of the system. 10
+B | Explain correlation between Time and frequency response specifications. 10
+
+of2-
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper c8efcc262bfa
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 13/05/2015
+- Text: ocr (2 pages), mean OCR confidence 89.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) * Year: Il
+Batch: 2013-14
+Academic Year: 2014-2015 |
+Subject: Basic Control Systems . |
+Marks: j
+Date: 13/05/2015 Time: m
+
+Durations:
+
+Re-Examination
+
+instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+NB:
+
+1. Question no. | is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicate full marks.
+
+Ql. Attempt any four questions:-
+
+A | What is servomechanism? Explain it with proper Example. 5
+B | Explain the working of synchros as an error detector. 5
+C | Explain Force-Voltage analogy in response of Mechanical systems. 5
+D | State the steps required to solve T/F using Nyquist Criterion.. 5
+E | The characteristic equation of a feedback system is 5
+
+F(S) = S*+2S?+1
+
+Using Routh’s criterion, Determine the stability of the system.
+
+Oo OS oo 10
+
+AMMA, MN ; ;
+vit) 4). L bt) ) sec
+*)
+
+For the network shown above, Find transfer function I,(S)/V(S).
+
+B Zz EAM 10
+
+For the above Translational system, obtain the differential equation describing it and draw the
+electric network using Force-Voltage analogy.
+--- page 2 ---
+Q3}A 10
+B 10
+Hy
+For the signal flow graph shown above, Find the transfer function X2(S)/X\(S) by Mason’s gain
+formula.
+
+Q4 | A | An armature controlled DC motor has an armature resistance of 0.37 ohms . the moment of 10
+
+inertia is 2.5 x 10°kg-m?. A back emf of 2.09 V is generated per 100 rpm of the motor speed.
+The torque constant of the motor is 0.2 Nm/A. Determine the Transfer function of the motor
+relating the motor shaft shift and the input voltage.
+B | (i) Obtain the response of second order under damped system if input applied is unit step. 10
+(ii) For the following type of system:
+G(S) = [K(1+28)] / [SU+8)(1+0.48)]
+Find the value of K to limit the Steady state error to 10% for an input ‘t’.
+
+Q5 | A| A unity feedback system with a forward transfer function: 10
+G(S) = K/ [S(S+ 7)] is operating with a closed loop response that has 15% overshoot. Find its
+settling time.
+
+B | For the unity feedback system with G(S) = K / [(S+1*(S+4)] 10
+(i) Find range of K for stability.
+(ii) Find the frequency of Oscillation when system is marginally stable.
+
+Q6 | A | Draw the Root locus for the unity feedback system G(S) = K /[S(S+1)(S+3)] and determine the | 10
+
+value of K for marginal stability.
+B | Obtain the transfer function of the system from following asymptotic gain plot. 10
+aB
+~ — 6 dB/oct
+| Q7 A | Explain “principle of arguments” as used to determine stability of the system. 10
+_| B | What do you mean by P, | & D Controller. Explain PID controller with proper diagrams. 10
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 6c1125803205
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/BASIC CONTROL SYSTEMS/Basic Control Systems Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 02/07/2015
+- Text: ocr (2 pages), mean OCR confidence 87.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: II Semester: IV
+Academic Year: 2014-15 3
+Batch: 2013-14 ip
+Subject : Basic Control Systems Marks: 100 i ( Li ARY Si
+Date : 02/07/2015 Durations: 3 wn ee ia oY
+Re-Examination Se
+
+ee en
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book. which is provided for their use.
+1. Question Nol. is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4, All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+Ql Attempt any four : (Five marks each) (20)
+a Explain absolute and relative stability.
+b Explain Block diagram reduttion rules.
+c Explain Nyquist criteria.
+d How stability can be determined using Routh Hurwitz criteria.
+e Write short note on Servo Motors.
+Q2 a_ Determine the transfer function C/R using block diagram reduction technique from the (10)
+block diagram shown in figure:
+
+b Represent the following set of equations by a signal flow graph and determine the overall (10)
+gain relating X; and X;
+
+X, = aX, + £X2 X3 = bX; + eXy
+X4=cX3 +hXs Xs = dX4 + gXp
+Q3 a The open loop transfer function of a unity feedback control system is given by (10)
+G (s) _ 25
+s(s+5)
+
+Determine natural frequency of oscillations, damped frequency of oscillations, damping
+factor, damping ratio and the maximum overshoot of a unity step input.
+b The characteristic equation of a feedback contro! system is given below (16)
+i S59 + 1.5st+ 259+ 45? + 55+10=0
+ii, = s+ SS + 554+ 353 +2s7- 45-8=0
+Comment on stability.
+Q4 a Sketch the complete Root Locus for system having (15)
+See) s(s+1)(s+3)
+(5)
+
+A unity feedback control system has G(s) = etd
+
+The input to the system is given by r(t)=2 + 3t+ 2t°. Determine the generalized error
+coefficients and steady state error.
+
+4/2
+--- page 2 ---
+Q5
+
+Q6
+
+QT a
+
+30
+For G(S)H(S) = 549.55) +0.085)
+Sketch the Bode Plot, and determine gain margin (GM) and phase margin (PM).
+Apply Nyquist Criteria to determine the stability of a unity feedback control system
+having
+
+SS) = S671)
+
+i. | Write a short note on Gain Margin (GM) and Phase Margin (PM) using Nyquist
+* Criteria
+ii. Show the poles location for under damped, undamped, over damped and critically
+damped system
+What-are the major applications of a stepper motor? Describe the construction and
+working of any one type of stepper motor.
+Write a short note on PID controller.
+
+af.
+
+(20)
+
+(10)
+
+(10)
+
+(10)
+
+(0)
+````
+
 ## 2014-15 · Re-Exam · Sem 4 · paper 56db576bd718
 
 - Departments: Electronics and Telecommunication
@@ -3395,118 +3816,6 @@ PID controller
 %
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 4c7a1bef910f
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 18/05/2015
-- Text: ocr (2 pages), mean OCR confidence 87.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC} ; Year: I Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Basic Control Systems
-Mark:
-Date: 18/05/2015 Time}
-
-- mination bg wn ue ARF G
-Re-Examination “mines waves
-
-cae OO
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-NB:
-
-1. Question no. | is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-5: In all 5 questions to be attempted.
-
-4, All questions carry equal marks.
-
-Ds. Answer to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicate full marks.
-
-Ql. Attempt any four questions:-
-
-A | Compare open loop and closed loop control system ( any five points ) 5
-B | Explain the constructional features and working of AC servo motor 5
-C | Explain Force-Voltage analogy in response of Mechanical systems. 5
-D | Determine the overall transmittance relating X4 and X; for the following signal flow graph. 5
-
-c
-
-a d
-xy x4
-% %
-
-b
-
-E | Determine the number of roots on imaginary axis for : 5
-
-S° + 6S* + 15S? + 30S? + 448 +24
-
-Q2)A Ra La le 10
-—WM\ :
-eat)
-4° iy i
-Le Separately excited d.c. generator
-For the system shown above, Determine transfer function Ex(S)/E,S).
-B Kg Ko 10
-A esses Mp Ma
-
-4_=B, <— B3
-
-K, uA
-
-f— My
-
-st
-
-i For the above Translation system obtain differential equation
-
-4/2.
-
-z
---- page 2 ---
-Q3 A 10
-Reduce the above block diagram by reduction technique and obtain its transfer function
-C(S)/R(S)
-B 10
-Find the transfer function C(S)/R(S) for above signai flow graph by Mason’s gain formula
-Q4 | A | Draw a neat diagram of armature controlled DC servo Motor and obtain its transfer function. 10
-B | (i) Obtain the response of second order under damped system if input applied is unit step. 10
-(ii) The open loop transfer function of the system is G(S)H(S) = 10/ [S(S+2)(S+5)]. What will
-be the steady state error when the input signal is a step of magnitude 2.
-QS | A | For the control system shown in figure below: 10
-(i) Determine peak overshoot for a unit step input and Steady error for unit ramp input.
-(ii) Calculate the steady state value of the output when the input shaft is held fixed and a sudden
-torque TL = 1Nm is applied.
-Ts)
-5 ol — : = —» C(s)
-0.158" 4 a
-B | Discuss the special cases in Rouths criterion. 10
-Find the range of K to make the system stable for the unity feedback system:
-G(S) = [K(S+20)/[S(S+2)(S+3)]
-Q6 | A | Draw the Root locus for the unity feedback system G(S) = K/[S(S+6)(S+9)]. 10
-B | For the system having open loop transfer function: 10
-G(S)H(S) = 10/ [S(S+1)(S+10)] Determine the stability of the system by plotting the Bode plot
-of the system.
-| Q7
-A | Explain “principle of arguments” as used to determine stability of the system. 10
-B | Explain correlation between Time and frequency response specifications. 10
-
-of2-
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 542a5e178b2a
 
 - Departments: Electronics and Telecommunication
@@ -3638,313 +3947,4 @@ Q)2
 (10)
 
 (10)
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper c8efcc262bfa
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 13/05/2015
-- Text: ocr (2 pages), mean OCR confidence 89.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) * Year: Il
-Batch: 2013-14
-Academic Year: 2014-2015 |
-Subject: Basic Control Systems . |
-Marks: j
-Date: 13/05/2015 Time: m
-
-Durations:
-
-Re-Examination
-
-instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-NB:
-
-1. Question no. | is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicate full marks.
-
-Ql. Attempt any four questions:-
-
-A | What is servomechanism? Explain it with proper Example. 5
-B | Explain the working of synchros as an error detector. 5
-C | Explain Force-Voltage analogy in response of Mechanical systems. 5
-D | State the steps required to solve T/F using Nyquist Criterion.. 5
-E | The characteristic equation of a feedback system is 5
-
-F(S) = S*+2S?+1
-
-Using Routh’s criterion, Determine the stability of the system.
-
-Oo OS oo 10
-
-AMMA, MN ; ;
-vit) 4). L bt) ) sec
-*)
-
-For the network shown above, Find transfer function I,(S)/V(S).
-
-B Zz EAM 10
-
-For the above Translational system, obtain the differential equation describing it and draw the
-electric network using Force-Voltage analogy.
---- page 2 ---
-Q3}A 10
-B 10
-Hy
-For the signal flow graph shown above, Find the transfer function X2(S)/X\(S) by Mason’s gain
-formula.
-
-Q4 | A | An armature controlled DC motor has an armature resistance of 0.37 ohms . the moment of 10
-
-inertia is 2.5 x 10°kg-m?. A back emf of 2.09 V is generated per 100 rpm of the motor speed.
-The torque constant of the motor is 0.2 Nm/A. Determine the Transfer function of the motor
-relating the motor shaft shift and the input voltage.
-B | (i) Obtain the response of second order under damped system if input applied is unit step. 10
-(ii) For the following type of system:
-G(S) = [K(1+28)] / [SU+8)(1+0.48)]
-Find the value of K to limit the Steady state error to 10% for an input ‘t’.
-
-Q5 | A| A unity feedback system with a forward transfer function: 10
-G(S) = K/ [S(S+ 7)] is operating with a closed loop response that has 15% overshoot. Find its
-settling time.
-
-B | For the unity feedback system with G(S) = K / [(S+1*(S+4)] 10
-(i) Find range of K for stability.
-(ii) Find the frequency of Oscillation when system is marginally stable.
-
-Q6 | A | Draw the Root locus for the unity feedback system G(S) = K /[S(S+1)(S+3)] and determine the | 10
-
-value of K for marginal stability.
-B | Obtain the transfer function of the system from following asymptotic gain plot. 10
-aB
-~ — 6 dB/oct
-| Q7 A | Explain “principle of arguments” as used to determine stability of the system. 10
-_| B | What do you mean by P, | & D Controller. Explain PID controller with proper diagrams. 10
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 6c1125803205
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/BASIC CONTROL SYSTEMS/Basic Control Systems Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 02/07/2015
-- Text: ocr (2 pages), mean OCR confidence 87.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II Semester: IV
-Academic Year: 2014-15 3
-Batch: 2013-14 ip
-Subject : Basic Control Systems Marks: 100 i ( Li ARY Si
-Date : 02/07/2015 Durations: 3 wn ee ia oY
-Re-Examination Se
-
-ee en
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book. which is provided for their use.
-1. Question Nol. is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4, All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-Ql Attempt any four : (Five marks each) (20)
-a Explain absolute and relative stability.
-b Explain Block diagram reduttion rules.
-c Explain Nyquist criteria.
-d How stability can be determined using Routh Hurwitz criteria.
-e Write short note on Servo Motors.
-Q2 a_ Determine the transfer function C/R using block diagram reduction technique from the (10)
-block diagram shown in figure:
-
-b Represent the following set of equations by a signal flow graph and determine the overall (10)
-gain relating X; and X;
-
-X, = aX, + £X2 X3 = bX; + eXy
-X4=cX3 +hXs Xs = dX4 + gXp
-Q3 a The open loop transfer function of a unity feedback control system is given by (10)
-G (s) _ 25
-s(s+5)
-
-Determine natural frequency of oscillations, damped frequency of oscillations, damping
-factor, damping ratio and the maximum overshoot of a unity step input.
-b The characteristic equation of a feedback contro! system is given below (16)
-i S59 + 1.5st+ 259+ 45? + 55+10=0
-ii, = s+ SS + 554+ 353 +2s7- 45-8=0
-Comment on stability.
-Q4 a Sketch the complete Root Locus for system having (15)
-See) s(s+1)(s+3)
-(5)
-
-A unity feedback control system has G(s) = etd
-
-The input to the system is given by r(t)=2 + 3t+ 2t°. Determine the generalized error
-coefficients and steady state error.
-
-4/2
---- page 2 ---
-Q5
-
-Q6
-
-QT a
-
-30
-For G(S)H(S) = 549.55) +0.085)
-Sketch the Bode Plot, and determine gain margin (GM) and phase margin (PM).
-Apply Nyquist Criteria to determine the stability of a unity feedback control system
-having
-
-SS) = S671)
-
-i. | Write a short note on Gain Margin (GM) and Phase Margin (PM) using Nyquist
-* Criteria
-ii. Show the poles location for under damped, undamped, over damped and critically
-damped system
-What-are the major applications of a stepper motor? Describe the construction and
-working of any one type of stepper motor.
-Write a short note on PID controller.
-
-af.
-
-(20)
-
-(10)
-
-(10)
-
-(10)
-
-(0)
-````
-
-## Year not stated · Final-Exam · paper 068eeec7d010
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/BASIC CONTROL SYSTEMS/BASIC CONTROL SYSTEMS B TECH (MECHATRONICS), FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 06 December 2016
-- Text: ocr (2 pages), mean OCR confidence 81.0
-
-````text
-ste
-
-/
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: II Semester: Vewssesinn.
-al I
-
-Academic Year: 2016-2017 se ;
-
-Subject : Basic Control Systems me
-
-1 ARW PS
-» Marks: 60 \ &} L1i8#& eh
-Date : 06 December 2016 Time : 2.00 pm#05,00 pm j=
-Le,
-
-Durations: 3 Thee Rag eo
-
-Final-Examination ee
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-NB:
-1. Question no. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicate full marks.
-Te Assume suitable data if necessary
-
-Ql. Attempt any four questions:-
-A Differentiate between open loop and close loop system’
-B_ Explain the concept of transfer function.
-C Explain block diagram reduction mules. - .
-D Explain the system time response of a second order system to astep input.
-E Explain Routh Hurwitz criterion.
-
-Q2 A Explain standard test signals? Also Explain poles and zeros of a transfer function
-B_ Find the transfer function for the following circuit’:
-1A
-+ $V YYYY_____—_—_,
-
-\jL jv
-: +
-NU) @ ha WHA NLU)
-
-Q3 A Explain tacho-generator in detail:
-B_ Find the transfer function of the following block diagram using block diagram reduction
-technique.
-
-PROE- 1/5
-
-03
-03
-03
-03
-03
-
-06
-
-06
-
-06
-
-06
---- page 2 ---
-L —_>
-A pa | (qa9)
-He
-J
-Q4 A Explain analysis of second order systems in detail’ Also explain the effect of zeta (0): 06
-B_ Find the transfer function of the following system using Masons Gain Formula?
-06
-CCK)
-Q5 A Sketch the root locus for Gt JHC £) - lA
-§CK472) (HS 06
-Comment on stability of the system.
-B_ Explain Nyquist plot in detail with the help of an example. 06
-
-rs)
-Q6 A A unity feedback control system has open loop transfer function as Gc) 2 ie
-
-Sketch Bode plot and determine from it ral a AeA 4p
-i) Gain cross over frequency Scito-is)(l+o s)
-ii) Phase cross over frequency : 12 7
-iii) Gain Margin .
-iv) Phase Margin
-v) Closed loop stability of the system
-Q7 A Explain PID controller in detail. 06
-= il B. Forasystem having Cech) _ 2o
-| Rin C24 Fetus 06
-
-Find its time response specifications and expression for output if'a unit step input is applied. ~
 ````

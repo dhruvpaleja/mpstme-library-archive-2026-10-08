@@ -14,12 +14,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Introduction to 3D Printing Technology(701ME0C018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Introduction to 3D Printing Technology 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | Integrated Mechanical 7031 | QP_Introduction to 3D Printing Technology(701ME0C018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Introduction to 3D Printing Technology(701ME0C018)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Introduction to 3D PRinting Technology Batch 2024-25 Final.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Introduction to 3D Printing Technology(701ME0C018)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | Integrated Mechanical 7031 | QP_Introduction to 3D Printing Technology(701ME0C018)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Introduction to 3D Printing Technology(701ME0C018)_2024-2025.pdf |
 | 2023-24 | — | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Introduction to 3D Printing Technology Batch 2023-24 Fin0001.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / MECHANICAL | Introduction to 3D Printing Technology Batch 2023-24 Final.pdf |
 | 2022-23 | — | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Introduction to 3 D Printing Technology Batch 2022-23 Re0001.pdf |

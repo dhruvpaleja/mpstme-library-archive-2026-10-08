@@ -4,6 +4,131 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Final-Exam · Sem 3 · paper 600d0bb39cbd
+
+- Departments: AI and Machine Learning, Artificial Intelligence, Computer Engineering, Computer Science and Business Systems, Cyber Security, Data Science, Information Technology
+- Programmes: BTech AI 7012, BTech AIML 7053, BTech Computer 7002, BTech CSBS 7036, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech IT 7001, Integrated Computer 7032, Integrated IT 7037, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_03/Final-Exam/BTech_CSE_DS_7057/Discrete Mathematics/QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf` (+12 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech
+Intg. (IT)/B. Tech (IT)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
+Year: II / III / IV/Semester III/Semester V/Semester VII(Exam Year: 2025-2026)
+Subject: Discrete Mathematics
+Date: 24 Nov 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Figure in right hand side indicates full marks.
+7. Answer to each new question to be started on a fresh page.
+8. Assume Suitable data if necessary.
+Q.1
+CO-1; a) Let ℤ be a set of integers and let 𝑅 be a relation on 𝐴= ℤ× ℤ defined by   4
+BL-
+(𝑎, 𝑏)𝑅(𝑐, 𝑑) 𝑖𝑓 𝑎+ 𝑑= 𝑏+ 𝑐, then prove that 𝑅 is reflexive and transitive.
+1,2
+CO-1 ; b)   Using the truth table prove that following statement is a Tautology.   4
+BL-
+1,2
+c)   In a computer network of 30 computers, each computer is directly connected to at 4
+CO-3;   least 10 others. Show that at least two computers have the same number of direct
+BL-3   connections.
+d)   (i) Give an example of a regular, connected graph on six vertices that is not   2
+CO-4;   complete.   2
+BL-3   (ii) Identify whether degree sequence (3, 2, 2, 1, 0) is graphic or not. If not then
+explain your answer, if yes draw graph.
+CO-5; e)   Let G = Z 6 * =  1,2,3,4,5  under multiplication mod 6. Identify all elements that have 4
+BL-   an inverse. Find the inverse of 5.
+2,3
+Q.2
+a)   Solve the recurrence relation   6
+CO-3;   𝑎𝑛= 𝑎𝑛−1 + 𝑎𝑛−2 with 𝑎1 = 𝑎2 = 1
+BL-3
+CO- 4; b)   (i) A simple graph has 12 vertices, and each vertex has a degree of either 3 or 6
+BL-   5. If the number of vertices with degree 3 is twice the number of vertices
+3,4   with degree 5, determine the number of edges in graph G
+********** 1 **********
+--- page 2 ---
+(ii) Check whether the following graph is a bipartite graph. Also write the
+corresponding adjacency matrix.
+CO-1;   c)   If 𝑅 is the relation defined on ℤ (set of integer), such that,   8
+BL-   𝑚𝑅𝑛 ⇔ 4 divides (𝑚−𝑛). Prove that 𝑅 is an equivalence relation.
+2,3
+Q.3
+CO-2 ; a)   Prove by mathematical induction that 𝑛(𝑛+ 1)(𝑛+ 2) is a multiple of 6 for   6
+BL-3   𝑛≥1.
+b)   Determine the chromatic number of the graph given below using Welch Powell’s   6
+algorithm and write steps of the algorithm.
+CO- 4;
+BL-5
+c)   In a survey of 60 people, it was found that; 25 read Business India, 26 reads India   8
+Today, 26 reads Times of India, 11 reads both Business India and India Today, 09
+CO- 1;   reads both Business India and Times of India, 08 reads both India Today and Times
+BL-2   of India, 08 reads none of the three. Then find (i) How many read all three? (ii) How
+many read exactly one?
+Q.4
+a)   Prove that the set of non-zero real numbers ℝ∗ forms an abelian group with   6
+CO- 5;   respect to the operation “○”, where “○” is defined as 𝑎○b = 𝑎𝑏 , ∀ 𝑎, 𝑏∈ℝ∗.
+BL-4   2
+b) Formalize the following and, by writing truth tables for premises and conclusion, 6
+determine whether the following argument is valid.
+CO-2;   “If the global warming continues, then the temperature of the world's oceans will
+BL-3   rise. If ocean temperatures rise, then hurricanes will become more intense.
+Therefore, if global warming continues, then hurricane will become more intense.”
+********** 2 **********
+--- page 3 ---
+CO- 3; c) Solve the recurrence relation: 𝑎𝑛−2𝑎𝑛−1 = 3(2𝑛).   8
+BL-3
+Q.5
+a) Let ℝ be the set of real numbers and ℝ+ be the set of positive real numbers. If   6
+CO- 5;   𝑓: (ℝ, +) →(ℝ+,⋅) is defined by
+BL-4   𝑓(𝑥) = 𝑒𝑥, ∀ 𝑥∈ℝ.
+Then show that 𝑓 is a group isomorphism.
+b) Prove the following statement by contrapositive:   6
+CO-1;   For any integers 𝑚 and 𝑛 , if the product of 𝑚 and 𝑛 is even, then 𝑚 is even or
+BL-3   𝑛 is even.
+c)   Construct minimum spanning tree using Kruskal’s algorithm. Also find minimum   8
+total weight.
+CO- 4;
+BL-5
+Q.6
+CO-1; a) Define conditions for a function to be invertible. Explain why   6
+BL-2   𝑓(𝑥) = −3𝑥2 + 7 is not invertible function from ℝ→ℝ.
+b)   Find the edge connectivity and the vertex connectivity of the graphs:   6
+CO- 4;
+BL-2
+c) For 𝐺= {0,2,4,6},   8
+CO- 5;   i) Prepare composition table with respect to addition modulo 8 (+8).
+BL-3   ii) Prove that it is an abelian group with respect to addition modulo 8 (+8).
+Is it cyclic? Justify your answer.
+Q.7
+a) Using laws of logic prove that   6
+CO- 2;
+BL-3   ~(𝑝↔𝑞) ≡(𝑝∧∼𝑞) ∨(∼𝑝∧𝑞)
+CO-5; b) Show that (𝑄, +,×) is a ring with unity, where 𝑄 is the set of rational numbers.
+BL-4   6
+********** 3 **********
+--- page 4 ---
+c)   (i) Determine whether the given graph has an Eulerian path or an Eulerian circuit. 8
+If an Eulerian path or circuit exists, write one such path or circuit explicitly.
+CO- 4;
+BL-5
+(ii) Provide an example of a graph that is Eulerian but not Hamiltonian, and an
+example of a graph that is Hamiltonian but not Eulerian. If such a choice is not
+possible, explain why.
+********** 4 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 3 · paper e4a991bed00a
 
 - Departments: AI and Data Science
@@ -990,6 +1115,7 @@ possible, explain why.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/DISCRETE MATHEMATICS/Dicrete Mathematics 2025-26 Final.pdf` (+13 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: ocr (4 pages), mean OCR confidence 85.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1049,7 +1175,6 @@ BL- 5. If the number of vertices with degree 3 is twice the number of vertices
 
 3,4 with degree 5, determine the number of edges in graph G
 
-Fe IG 7 ak sok kk a ak
 --- page 2 ---
 (ii) Check whether the following graph is a bipartite graph. Also write the
 corresponding adjacency matrix.
@@ -1144,8 +1269,125 @@ BL-5
 
 \
 
-FR IGICR A RG a Rk
 t .
+````
+
+## 2025-26 · Re-Exam · Sem 4 · paper a508d6c8b0a3
+
+- Departments: Computer Science
+- Programmes: BTech CS 7055
+- Source: `02_Question_Papers/2024/Sem_04/Re-Exam/BTech_CS_7055/Discrete Mathematics/QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE)
+Year: II/Semester IV(Exam Year: 2025-2026)
+Subject: Discrete Mathematics
+Date: 04 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Figure in right hand side indicates full marks.
+7. Answer to each new question to be started on a fresh page.
+8. Assume Suitable data if necessary.
+CO-1 ; Q.1   Identify whether the function 𝑓: ℤ→ℤ+ is onto if 𝑓(𝑛) = |𝑛|, and ℤ is the set of   4
+SO- 2; a)   integers and ℤ+ is the set of non-negative integers.
+BL-3
+CO-3 ; b)   Construct truth tables for the statement 𝑝∨(~𝑞↔𝑟).   4
+SO- 1;
+BL-2
+CO-4 ; c)   A box contains balls of 4 different colours. There are 25 balls of each colour. Find   4
+SO- 1;   minimum number of balls have to peak from box to insure that at least 3 balls have
+BL-1   same colour.
+d)   Identify which sequences is graphic (i.e., possible to draw a graph). If not then   4
+CO-3 ;
+SO- 1;   explain your answer, if yes draw graph.
+BL-3   i) 4 , 2, 2, 1 , 1   ii) 6, 5 , 4, 3 , 1, 0
+CO-3 ; e)   Let (ℤ, ⨁) be a group where 𝑎⊕𝑏= 𝑎+ 𝑏+ 2. Find identity and inverse element 4
+SO-2 ;   for (ℤ, ⨁) .
+BL-5
+CO- 3; Q.2 Determine 𝑎𝑛 from the recurrence relation 𝑎𝑛−5𝑎𝑛−1 + 6𝑎𝑛−2 = 0, where   6
+SO- 2; a)   𝑎1 = 1 & 𝑎2 = 5.
+BL-5
+b)   Identify whether below graph is bipartite or not. Justify your   6
+answer and also write adjacent matrix of the graph
+CO- 1;
+SO- 2;
+BL-2
+CO-1 ; c)   If 𝑅 is the relation defined on ℤ (set of integer), such that, 𝑚𝑅𝑛 ⇔ 4 divides (𝑚−𝑛). 8
+SO-2 ;   Prove that 𝑅 is an equivalence relation.
+BL-3,5
+CO-2 ; Q.3 By mathematical induction show that 1 + 2 + 3 + ⋯+ 𝑛= 𝑛(𝑛+1) , for every integer   6
+SO- 1;   2
+********** 1 **********
+--- page 2 ---
+BL-2   a) 𝑛≥1.
+b)   Determine whether the given graph has a Hamilton   6
+circuit and Euler circuit. If it does, find such a circuit. If   it
+CO- 4;   does not, give an argument to show why no such
+SO- 2;   circuit exists.
+BL-6
+CO- 1; c)   Let set 𝐴 be of positive integers not exceeding 150. Then find number of elements 8
+SO- 1;   in set 𝐴 that are (i) not divisible by 3 or by 5 (ii) divisible by 3 but not by 5 (iii)
+BL-4   divisible by 5 but not by 3.
+CO- 2; Q.4 Prove that (2ℤ, +) be a subgroup of group (ℤ, +). Where ℤ is a set of integers and 2ℤ is a 6
+SO- 2; a)   set of even integers.
+BL-4
+b) Check validity of the argument: If it rains, then the ground becomes wet. If the   6
+CO-2 ;
+SO-2 ;   ground becomes wet, then the match will be cancelled. Therefore, if match is not
+BL-2   cancelled, then there is no rain.
+CO- 3; c) Solve the recurrence relation 𝑎𝑛+ 4𝑎𝑛−1 + 4𝑎𝑛−2 = 3𝑛.   8
+SO- 1;
+BL-5
+CO- 2; Q.5   Let ℝ & ℝ+ be a sets of real and real positive numbers and 𝑓: ℝ→ℝ+, such that 𝑓(𝑥) = 𝑒𝑥. 6
+SO- 1;   Then prove that 𝑓 is an isomorphism from group (ℝ, +) to (ℝ+,×)
+a)
+BL-4
+CO-3 ; b)   Prove that sum of three odd integers is an odd integer.   6
+SO- 1;
+BL-4
+c)   Use Prim’s algorithm to find a minimal   8
+spanning tree for the following graph.
+CO- 4;
+SO- 1;
+BL-3
+Q.6 Determine whether the relation 𝑅 defined on 𝐴= ℝ× ℝ, (ℝ is a set of real numbers), such 6
+CO-1 ; a)   that (𝑥1, 𝑦1)𝑅(𝑥2, 𝑦2) ⇔𝑥1 −y1 = 𝑥2 −𝑦2 . Is 𝑅 reflexive, anti-symmetric and transitive,
+SO- 2;
+or none of these? Justify your answer.
+BL-4
+CO- 4; b) Give the definition of planer graph with two examples, where one is planer and other is not   6
+SO- 1;   planer.
+BL-1
+CO- 4; c)   Discuss that ℤ8 = {0,1,2,3,4,5,6,7} is a ring under addition and multiplication mod 8. 8
+SO- 1;   Also check whether (ℤ8, +8,×8) is integral domain or not.
+BL-5
+********** 2 **********
+--- page 3 ---
+CO- 2; Q.7 Obtain the disjunctive normal form of (𝑝∨𝑞) →(~𝑝∧𝑞).   6
+SO- 2;
+a)
+BL-3
+CO-3 ; b) Let 𝐺= {3,6,9,12,15,18} be a set. Then prove that 𝐺 with binary operation ×21 is a group.
+SO- 7;
+6
+BL-3
+c)   Find chromatic number for the given
+graph by using Welch-Powell Algorithm
+with explaining each step.
+CO- 4;
+SO- 1;
+BL-5
+********** 3 **********
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · paper 4527f43168f1
@@ -3532,131 +3774,6 @@ Path d) A Hamilton cycle
 Page 5 of 5
 ````
 
-## 2024-25 · Final-Exam · Sem 3 · paper 600d0bb39cbd
-
-- Departments: AI and Machine Learning, Artificial Intelligence, Computer Engineering, Computer Science and Business Systems, Cyber Security, Data Science, Information Technology
-- Programmes: BTech AI 7012, BTech AIML 7053, BTech Computer 7002, BTech CSBS 7036, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech IT 7001, Integrated Computer 7032, Integrated IT 7037, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041
-- Source: `02_Question_Papers/2024/Sem_03/Final-Exam/BTech_CSE_DS_7057/Discrete Mathematics/QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf` (+12 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
-- Text: text (4 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
-(CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech
-Intg. (IT)/B. Tech (IT)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
-Year: II / III / IV/Semester III/Semester V/Semester VII(Exam Year: 2025-2026)
-Subject: Discrete Mathematics
-Date: 24 Nov 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 4 pages.
-2. Question No. 1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Figure in right hand side indicates full marks.
-7. Answer to each new question to be started on a fresh page.
-8. Assume Suitable data if necessary.
-Q.1
-CO-1; a) Let ℤ be a set of integers and let 𝑅 be a relation on 𝐴= ℤ× ℤ defined by   4
-BL-
-(𝑎, 𝑏)𝑅(𝑐, 𝑑) 𝑖𝑓 𝑎+ 𝑑= 𝑏+ 𝑐, then prove that 𝑅 is reflexive and transitive.
-1,2
-CO-1 ; b)   Using the truth table prove that following statement is a Tautology.   4
-BL-
-1,2
-c)   In a computer network of 30 computers, each computer is directly connected to at 4
-CO-3;   least 10 others. Show that at least two computers have the same number of direct
-BL-3   connections.
-d)   (i) Give an example of a regular, connected graph on six vertices that is not   2
-CO-4;   complete.   2
-BL-3   (ii) Identify whether degree sequence (3, 2, 2, 1, 0) is graphic or not. If not then
-explain your answer, if yes draw graph.
-CO-5; e)   Let G = Z 6 * =  1,2,3,4,5  under multiplication mod 6. Identify all elements that have 4
-BL-   an inverse. Find the inverse of 5.
-2,3
-Q.2
-a)   Solve the recurrence relation   6
-CO-3;   𝑎𝑛= 𝑎𝑛−1 + 𝑎𝑛−2 with 𝑎1 = 𝑎2 = 1
-BL-3
-CO- 4; b)   (i) A simple graph has 12 vertices, and each vertex has a degree of either 3 or 6
-BL-   5. If the number of vertices with degree 3 is twice the number of vertices
-3,4   with degree 5, determine the number of edges in graph G
-********** 1 **********
---- page 2 ---
-(ii) Check whether the following graph is a bipartite graph. Also write the
-corresponding adjacency matrix.
-CO-1;   c)   If 𝑅 is the relation defined on ℤ (set of integer), such that,   8
-BL-   𝑚𝑅𝑛 ⇔ 4 divides (𝑚−𝑛). Prove that 𝑅 is an equivalence relation.
-2,3
-Q.3
-CO-2 ; a)   Prove by mathematical induction that 𝑛(𝑛+ 1)(𝑛+ 2) is a multiple of 6 for   6
-BL-3   𝑛≥1.
-b)   Determine the chromatic number of the graph given below using Welch Powell’s   6
-algorithm and write steps of the algorithm.
-CO- 4;
-BL-5
-c)   In a survey of 60 people, it was found that; 25 read Business India, 26 reads India   8
-Today, 26 reads Times of India, 11 reads both Business India and India Today, 09
-CO- 1;   reads both Business India and Times of India, 08 reads both India Today and Times
-BL-2   of India, 08 reads none of the three. Then find (i) How many read all three? (ii) How
-many read exactly one?
-Q.4
-a)   Prove that the set of non-zero real numbers ℝ∗ forms an abelian group with   6
-CO- 5;   respect to the operation “○”, where “○” is defined as 𝑎○b = 𝑎𝑏 , ∀ 𝑎, 𝑏∈ℝ∗.
-BL-4   2
-b) Formalize the following and, by writing truth tables for premises and conclusion, 6
-determine whether the following argument is valid.
-CO-2;   “If the global warming continues, then the temperature of the world's oceans will
-BL-3   rise. If ocean temperatures rise, then hurricanes will become more intense.
-Therefore, if global warming continues, then hurricane will become more intense.”
-********** 2 **********
---- page 3 ---
-CO- 3; c) Solve the recurrence relation: 𝑎𝑛−2𝑎𝑛−1 = 3(2𝑛).   8
-BL-3
-Q.5
-a) Let ℝ be the set of real numbers and ℝ+ be the set of positive real numbers. If   6
-CO- 5;   𝑓: (ℝ, +) →(ℝ+,⋅) is defined by
-BL-4   𝑓(𝑥) = 𝑒𝑥, ∀ 𝑥∈ℝ.
-Then show that 𝑓 is a group isomorphism.
-b) Prove the following statement by contrapositive:   6
-CO-1;   For any integers 𝑚 and 𝑛 , if the product of 𝑚 and 𝑛 is even, then 𝑚 is even or
-BL-3   𝑛 is even.
-c)   Construct minimum spanning tree using Kruskal’s algorithm. Also find minimum   8
-total weight.
-CO- 4;
-BL-5
-Q.6
-CO-1; a) Define conditions for a function to be invertible. Explain why   6
-BL-2   𝑓(𝑥) = −3𝑥2 + 7 is not invertible function from ℝ→ℝ.
-b)   Find the edge connectivity and the vertex connectivity of the graphs:   6
-CO- 4;
-BL-2
-c) For 𝐺= {0,2,4,6},   8
-CO- 5;   i) Prepare composition table with respect to addition modulo 8 (+8).
-BL-3   ii) Prove that it is an abelian group with respect to addition modulo 8 (+8).
-Is it cyclic? Justify your answer.
-Q.7
-a) Using laws of logic prove that   6
-CO- 2;
-BL-3   ~(𝑝↔𝑞) ≡(𝑝∧∼𝑞) ∨(∼𝑝∧𝑞)
-CO-5; b) Show that (𝑄, +,×) is a ring with unity, where 𝑄 is the set of rational numbers.
-BL-4   6
-********** 3 **********
---- page 4 ---
-c)   (i) Determine whether the given graph has an Eulerian path or an Eulerian circuit. 8
-If an Eulerian path or circuit exists, write one such path or circuit explicitly.
-CO- 4;
-BL-5
-(ii) Provide an example of a graph that is Eulerian but not Hamiltonian, and an
-example of a graph that is Hamiltonian but not Eulerian. If such a choice is not
-possible, explain why.
-********** 4 **********
-````
-
 ## 2024-25 · Final-Exam · Sem 3 · paper a354f90a297b
 
 - Departments: Cyber Security
@@ -4360,6 +4477,7 @@ Hamiltonian cycle exists for the following graph. If so, find them.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/Discrete Mathematics/Discrete Mathematics Batch 2024-25 Final.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; exam date: 09 Dec 2024
 - Text: ocr (4 pages), mean OCR confidence 82.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -4415,7 +4533,6 @@ CO1/SO2/BL3 b. i) A graph with 4 vertices having the degrees of its vertices 1, 
 6. Either draw a graph with the specified property or explain why no
 such graph exists.
 
-FISK 7 GI IG a i eK
 --- page 2 ---
 ii) Check whether the given graph below is bi-partite. Justify your
 
@@ -5393,124 +5510,6 @@ Page 4 of 5
 Page 5 of 5
 ````
 
-## 2024-25 · Re-Exam · Sem 4 · paper a508d6c8b0a3
-
-- Departments: Computer Science
-- Programmes: BTech CS 7055
-- Source: `02_Question_Papers/2024/Sem_04/Re-Exam/BTech_CS_7055/Discrete Mathematics/QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE)
-Year: II/Semester IV(Exam Year: 2025-2026)
-Subject: Discrete Mathematics
-Date: 04 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 3 pages.
-2. Question No. 1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Figure in right hand side indicates full marks.
-7. Answer to each new question to be started on a fresh page.
-8. Assume Suitable data if necessary.
-CO-1 ; Q.1   Identify whether the function 𝑓: ℤ→ℤ+ is onto if 𝑓(𝑛) = |𝑛|, and ℤ is the set of   4
-SO- 2; a)   integers and ℤ+ is the set of non-negative integers.
-BL-3
-CO-3 ; b)   Construct truth tables for the statement 𝑝∨(~𝑞↔𝑟).   4
-SO- 1;
-BL-2
-CO-4 ; c)   A box contains balls of 4 different colours. There are 25 balls of each colour. Find   4
-SO- 1;   minimum number of balls have to peak from box to insure that at least 3 balls have
-BL-1   same colour.
-d)   Identify which sequences is graphic (i.e., possible to draw a graph). If not then   4
-CO-3 ;
-SO- 1;   explain your answer, if yes draw graph.
-BL-3   i) 4 , 2, 2, 1 , 1   ii) 6, 5 , 4, 3 , 1, 0
-CO-3 ; e)   Let (ℤ, ⨁) be a group where 𝑎⊕𝑏= 𝑎+ 𝑏+ 2. Find identity and inverse element 4
-SO-2 ;   for (ℤ, ⨁) .
-BL-5
-CO- 3; Q.2 Determine 𝑎𝑛 from the recurrence relation 𝑎𝑛−5𝑎𝑛−1 + 6𝑎𝑛−2 = 0, where   6
-SO- 2; a)   𝑎1 = 1 & 𝑎2 = 5.
-BL-5
-b)   Identify whether below graph is bipartite or not. Justify your   6
-answer and also write adjacent matrix of the graph
-CO- 1;
-SO- 2;
-BL-2
-CO-1 ; c)   If 𝑅 is the relation defined on ℤ (set of integer), such that, 𝑚𝑅𝑛 ⇔ 4 divides (𝑚−𝑛). 8
-SO-2 ;   Prove that 𝑅 is an equivalence relation.
-BL-3,5
-CO-2 ; Q.3 By mathematical induction show that 1 + 2 + 3 + ⋯+ 𝑛= 𝑛(𝑛+1) , for every integer   6
-SO- 1;   2
-********** 1 **********
---- page 2 ---
-BL-2   a) 𝑛≥1.
-b)   Determine whether the given graph has a Hamilton   6
-circuit and Euler circuit. If it does, find such a circuit. If   it
-CO- 4;   does not, give an argument to show why no such
-SO- 2;   circuit exists.
-BL-6
-CO- 1; c)   Let set 𝐴 be of positive integers not exceeding 150. Then find number of elements 8
-SO- 1;   in set 𝐴 that are (i) not divisible by 3 or by 5 (ii) divisible by 3 but not by 5 (iii)
-BL-4   divisible by 5 but not by 3.
-CO- 2; Q.4 Prove that (2ℤ, +) be a subgroup of group (ℤ, +). Where ℤ is a set of integers and 2ℤ is a 6
-SO- 2; a)   set of even integers.
-BL-4
-b) Check validity of the argument: If it rains, then the ground becomes wet. If the   6
-CO-2 ;
-SO-2 ;   ground becomes wet, then the match will be cancelled. Therefore, if match is not
-BL-2   cancelled, then there is no rain.
-CO- 3; c) Solve the recurrence relation 𝑎𝑛+ 4𝑎𝑛−1 + 4𝑎𝑛−2 = 3𝑛.   8
-SO- 1;
-BL-5
-CO- 2; Q.5   Let ℝ & ℝ+ be a sets of real and real positive numbers and 𝑓: ℝ→ℝ+, such that 𝑓(𝑥) = 𝑒𝑥. 6
-SO- 1;   Then prove that 𝑓 is an isomorphism from group (ℝ, +) to (ℝ+,×)
-a)
-BL-4
-CO-3 ; b)   Prove that sum of three odd integers is an odd integer.   6
-SO- 1;
-BL-4
-c)   Use Prim’s algorithm to find a minimal   8
-spanning tree for the following graph.
-CO- 4;
-SO- 1;
-BL-3
-Q.6 Determine whether the relation 𝑅 defined on 𝐴= ℝ× ℝ, (ℝ is a set of real numbers), such 6
-CO-1 ; a)   that (𝑥1, 𝑦1)𝑅(𝑥2, 𝑦2) ⇔𝑥1 −y1 = 𝑥2 −𝑦2 . Is 𝑅 reflexive, anti-symmetric and transitive,
-SO- 2;
-or none of these? Justify your answer.
-BL-4
-CO- 4; b) Give the definition of planer graph with two examples, where one is planer and other is not   6
-SO- 1;   planer.
-BL-1
-CO- 4; c)   Discuss that ℤ8 = {0,1,2,3,4,5,6,7} is a ring under addition and multiplication mod 8. 8
-SO- 1;   Also check whether (ℤ8, +8,×8) is integral domain or not.
-BL-5
-********** 2 **********
---- page 3 ---
-CO- 2; Q.7 Obtain the disjunctive normal form of (𝑝∨𝑞) →(~𝑝∧𝑞).   6
-SO- 2;
-a)
-BL-3
-CO-3 ; b) Let 𝐺= {3,6,9,12,15,18} be a set. Then prove that 𝐺 with binary operation ×21 is a group.
-SO- 7;
-6
-BL-3
-c)   Find chromatic number for the given
-graph by using Welch-Powell Algorithm
-with explaining each step.
-CO- 4;
-SO- 1;
-BL-5
-********** 3 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 5 · paper 895f9e711139
 
 - Departments: Electronics and Telecommunication
@@ -5983,6 +5982,167 @@ Hamiltonian cycle exists for the following graph. If so, find them.
 ********** 4 **********
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 3 · paper f2207f5f84d5
+
+- Departments: Artificial Intelligence, Computer Engineering, Information Technology
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / I T, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/DISCRETE MATHEMATICS/Discrete Mathematics , Final , Re-exam 2022-230001.pdf` (+5 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 23/11/2023
+- Text: ocr (3 pages), mean OCR confidence 82.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT®& ENGINE RB
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Programs: B. Tech / MBA Tech Year: 2nd /3™d Sémester: 34 /5th
+Streams: DS/AIDS/AIML/AI/CSE(CS)/CS/CE/ETE/E XtC¢/rt
+
+Subject: Discrete Mathematics Time: 3 hrs. (10 am to 1 pm)
+Date: 23/11/2023 No. of Pages: 3
+
+Marks: 100
+
+Final Examination/Re-Examination (2024-22, 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1__ is compulsory. .
+
+2) Out of remaining questions, attempt any _4___ questions.
+
+3) In all ___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1) Q1
+
+a a) | Drawa single Venn diagram to represent the case AC C,B CC. Hence or otherwise | 4
+BL-3 draw another Venn diagram to represent the case CC 4,CCB.
+
+CO-2 ;
+
+fe , b) [Show that the statement ((pv q)A(p—>q))vq isa tautology. . le:
+CO-1;| c) | 20 cards numbered 1 to 20 are placed face down ona table. Cards are selected at 4
+SO- 1; random one at a time and turned over until 11 cards have been chosen. If two of the
+BL-1 cards add up to 21, the player loses. Is it possible to win this game?
+
+co-4;| d) | Identify: 4
+SO- 1; i) for which values of n are the graphs K,, bipartite?
+
+BL-3 ii) for which values of n are the graphs K, regular?
+
+CO-4;| e) | Determine whether the set of odd integer together with the operation a * b = abisa| 4
+SO-2; monoid. Justify.
+
+BL-5 =
+
+CO- 3;| Q.2 | Determine the solution for recurrence relation a, = 2a,-1 + Qn—2 forn = 2where | 6
+SO-2;} a) | ag =Oanda, = 1.
+
+BL-5
+
+CO- 1; b) | Are the graphs G and H displayed below bipartite? Justify your answer. If bipartite | 6
+SO- 2; redraw the graph showing the partitions.
+
+BL-3
+--- page 2 ---
+a b a b
+
+& : ZT. |
+f ¢ ee
+fe Yo
+
+e d e d
+G i
+
+CO-3 ;| c) | Let Z denotes the set of integers. Define a relation R on Z by setting xRy if and only | 8
+SO-2; ifx = yorx =~—y. (i) Examine whether R is equivalence relation or not. (ii) Find
+BL-4 all equivalence classes of Z induced by R. :
+
+Q.3 | By mathematical induction, show that 6
+CO-2 a) n(n + 1)\"
+SO- 1; 4 2ee ean = (MED)
+BL-2 2
+
+b) | Use the Welsh-Powell algorithm to find the chromatic number of the following 6
+
+graph.
+ICO- 2;
+ISO- 2;
+BL-6
+CO. : c) |Let A = {1,2,3,4}. Examine whether the relation 8
+BL-4 R = {(1,1), (2), (2,1), (2,2), (3,3), (3,4), (4,3), (4,4)} is symmetric, asymmetric,
+antisymmetric and transitive. Give argument in support of your answer. _ «.
+
+CO- 3;| Q.4 | Show that the set of real numbers (IR) form an abelian group with respect to binary | 6
+SO-2;) a) | operation ‘*’ definedasa*b = a+b+2, Va,beR.
+BL-4
+co-2;| b) [Discuss the satisfiability and validity of the following argument: 6
+SO-2 ; Ifyou have access to the network, then you can change your grade. You have access
+BL-2 to the network. Therefore, you can change your grade.
+CO-3;) c) |Determine the solution of the following recurrence relation: 8
+SO- 1, lan — 2an-1 = 3-2", wheren >and ap = 1.
+BL-5
+CO- 2;| Q.S | Prove that the additive group of (Zg, +) is isomorphic to multiplicative group 6
+SO-1;) a) | of (Z5,x7). Where Z, = {0,1,2,3,4,5} and Z3 = { 1,2,3,4,5,6}.
+BL-4
+CO-3 ;| b) | Prove the following statement with clearly indicate the method of proof used. 6
+SO- 1;
+
+BL-4
+
+If 5n + 3 is odd, then 7n + 4 is even
+
+lo
+--- page 3 ---
+c) | Apply Prim’s Algorithm to find the minimal spanning tree of the weighted graph: 8
+
+CO- 3; Pe
+SO- 1; a
+BL-3
+CO-1; 7 Determine whether the function f: IR — {7} — R— {1} defined as f(x) = = 6
+SO- 2;| 4
+BL-4 is bijective, if itis then find f~*.
+b) | Find the vertex connectivity and edge connectivity of the following graph. Justify 6
+ry your answer. e
+age - : d
+Co- 4; \ | 44
+SO- 1; \ ae oy |
+BL-3 , oN / |
+\ |
+Nw /
+\ /h
+o——_—4
+8
+iN
+. o¢—______-__—_6
+b c
+CO- 4] c) [Ifthe addition and multiplication modulo 6 is defined on the set R = {0,1,2,3,4,5} 8
+a, A then test that algebraic structure (R, +5,X.) is a ring with unity. Is it a field?
+© |co- 2; Q.7 |Apply laws of logic to establish the equivalence: pyqv(~ PA~GAr)=PVqvr 6
+SO- 23) a)
+BL-3
+b) jLetG = {0,1,2,3, 4,5} set of congruence classes under addition modulo 6 (+6),
+ete (i) Construct composition table with respect to ‘+.’. 6
+Bu, (ii) Identify Identity element of (G, +6).
+
+(iii) Identify the inverse of all the elements under +6.
+
+CO- 4; c) |Explain Euler Circuit and Hamilton Circuit. Show whether the graph K3,3 has Eulen 8
+
+SO- 1; Circuit and Hamilton Circuit?
+BL-2
+````
+
 ## 2023-24 · Final-Exam · Sem 7 · paper a6b4a0172402
 
 - Departments: Computer Engineering
@@ -5990,6 +6150,7 @@ Hamiltonian cycle exists for the following graph. If so, find them.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/Discrete Mathematics/Discrete Mathematics Batch 2023-24 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 23 /11/ 2023
 - Text: ocr (4 pages), mean OCR confidence 83.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _
@@ -6044,7 +6205,6 @@ Q1 | If Aand B are subsets of the universal set, such that
 * | n(X) = 50,n(A) = 35, n(B) = 22, n(4’ 0B’) =3.
 <Q): [4]
 CONSOBIS Calculate: (i) n (A UB), (ii) n(A NB), 7
-(iii) n (A’ 1 B), (iv) n(A 1 B’)
 
 b. | Using truth table show that the statements (~p aq) and (p vq) A~p are
 CO2;SO1;BL3 logically equivalent. [4]
@@ -6171,6 +6331,165 @@ k 1 m n °
 r,
 
 ay
+````
+
+## 2023-24 · Re-Exam · Sem 3 · paper f96249af693f
+
+- Departments: Artificial Intelligence, Computer Engineering, Information Technology
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / I T, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/DISCRETE MATHEMATICS/Discrete Mathematics , Re-exam 2021-22,2022-23.pdf` (+5 identical copies)
+- Printed on paper: duration hours: 3; exam date: 07/02/2024
+- Text: ocr (3 pages), mean OCR confidence 82.2
+
+````text
+~ SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS& ENGINEERING
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+| Programs: B. Tech / MBA Tech Year: 2nd 73 Semester: 3rd /5th
+Streams: DS/AIDS/AIML/AI/CSE(CS) /CS/CE/ETE/CSEDS/cs BS
+Subject: Discrete Mathematics 7 ; \ Time: 3 hrs. (10 am to 1 pm)
+Date: 07/02/2024 — —. TNo. of Pages: 3
+Marks: __100____
+
+Final Examination/Re-Examination (2021-22, 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+(> 1) Question No. _1__ is compulsory.
+2) Out of remaining questions, attempt any __4__ questions.
+3) In all __5_ questions to be attempted.
+4) All questions carry equal marks.
+' 5) Answer to each new question to be started ona fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. -
+
+CO-1;] Q.1 | Out of 350 candidates who appear in an examination, it was revealed that 150 failed | 4
+SO-2;| a) | in calculus and 105 in physics. 35 failed in both (calculus and in Physics). Find how
+
+BL-3 many candidates (i) Passin both (ii) Pass only in calculus.
+CO-2;| b) | Show that the statement (p V q) > (p Aq) isa contingency. 4
+SO- 1;
+BL-2 ‘
+~ |CO-1;\ c) | Given 12 different 2-digit numbers, show that one can choose two of them so that 4
+SO- 1; their difference is a two-digit number with identical first and second digit.
+BL-1 ;
+| d) | Does the following graph have an (i) Euler’s path (ii) Euler’s Circuit? Justify your 4
+: answer.
+. 2
+CO-4 ;
+SO- 1; P 3 5
+BL-3
+. C0-4;) e) | If Z, = {0,1,2,3} and a+,4b =r, where r is reminder when we divide a + b by 4. 4
+SO-2 ; Prove that (Z,, +4) is a group.
+BL-5
+
+CO- 3;| Q.2 | Determine the solution for recurrence relation 2a,42 — 11dn41 + 5a, = O0forn=0|6
+SO-2;| a) | where a, = 2 anda, = —8.
+
+0
+--- page 2 ---
+BL-5
+
+b) | Are the following graphs displayed below bipartite? Justify your answer. ; 6
+a h red ;
+= _# _
+SS _ _-, et .
+ee ao \ ec
+CO- 1; " ae So _—
+SO- 2; ie =< | - \
+BL-3 é Te \ | \
+. se |
+
+CO-3;| c) | Let Z denotes the set of integers. Define a relation R on Z by setting xRy if and only | 8
+SO-2 ; if x = y (mod 6). Examine whether R is equivalence relation or not. Also find the
+BL-4 equivalence classes.
+CO-2 | Q.3 | Show that 2?" — 1 is divisible by 3 using the principles of mathematical induction. 6
+SO- 1; a)
+BL-2 :
+
+b) | By using Welsh Powell graph colouring algorithm, find the chromatic number of the | 6
+
+following graph.
+
+CO- 2;
+SO- 2;
+BL-6
+CO-1;| c) |Let.A = {1,2,3,4}. Examine whether the relation . 8
+SO- 1; R = {(1,2), (1,3), (1,4), (2,3), (2,4), (3,4)} is symmetric, asymmetric, antisymmetric
+BL-4 and transitive. Give argument in support of your answer.
+CO- 3; Q.4 | Show that the set of non-zero real numbers (IR\{0}) form an abelian group with 6
+SO-2;) a) | respect to binary operation ‘*’ defined asa * b = (ax b)/2, Va,b € R\{0}
+BL-4
+
+b) [Discuss the satisfiability and validity of the following argument: 6
+Soo ; Ifyou study regularly, they you will score distinction. You study regularly. Therefore,
+Ble ou will not score distinction.
+CO-3;| c) [Determine the solution of the following recurrence relation: 8
+SO- 1; Qn — 4Qn-1 = 2+ 4", wheren > 1; and ay = 3.
+BL-5
+CO- 2;| Q.5 | Prove that the additive groups G = (Z,+) and H = (2Z, +) are isomorphic. 6
+SO- 1; a)
+
+BL-4
+--- page 3 ---
+(cO-3 Jb) [Name the methods can be used for proving propositional statements?
+
+i Prove that there is no smallest positive rational number.
+
+c) | Apply Kruskal’s Algorithm to find the minimal spanning tree of the weighted graph: | 8
+
+¥
+
+Co- 3; 4
+SO- 1; S
+BL-3 &
+
+&
+
+n ;
+e@\ 7
+‘eo 2
+
+co-1/ 0.6 If f:R— R, g:R— Ris defined as f(x) = 7x + x*, g(x) = —7x3, Determine the 6
+
+soe a composition functions go g, feg and ge f.
+b) | Define the planar graph and determine whether the following graph is Planar. 6
+
+os Da
+
+cO- 4; he QS c
+
+SO- 1; |
+
+BL-3 |
+
+B ae sod ~-
+ww Ae
+f
+
+CO-4;| c) {Ifthe addition and multiplication modulo 7 is defined on the set R = {0,1,2,3,4,5, 6} | 8
+
+a 7 then show that algebraic structure (R, +7,X7) is a ring with unity. Is it a field?
+
+CO- 2;) Q.7 [For the given prepositions, identify which are equivalencies or tautologies.
+SO-2;] a) |i) pA~q ii)~ pV4q iii) ~ (~pVq) iv) ~pV(pA~q) vgA~ (~~ PV Os
+
+|BLe3
+k b) [Let G = {5, 15, 25, 35} set of congruence classes under multiplication modulo 40 (X49) 6
+
+CO-3 ; @ Construct composition table with respect to ‘X40’.
+
+SO- 7; (ii) Identify Identity element of (G,X4o).
+
+BL-2 (iii) Identify the inverse of all the elements under X4o.
+
+co-4;| c) |i) Construct all connected graphs of four vertices which are not isomorphic. 8
+SO- 1; ii) Construct a graph which is Euler circuit but not Hamiltonian circuit and explain|
+
+BL-3 our answer.
 ````
 
 ## 2023-24 · Re-Exam · Sem 7 · paper 4e24204b5485
@@ -6349,167 +6668,6 @@ Hamiltonian circuit. Justify.
 CO04;SO2;BLS
 
 (i) (ii)
-````
-
-## 2022-23 · Final + Re-Exam · Sem 3 · paper f2207f5f84d5
-
-- Departments: Artificial Intelligence, Computer Engineering, Information Technology
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / I T, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/DISCRETE MATHEMATICS/Discrete Mathematics , Final , Re-exam 2022-230001.pdf` (+5 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 23/11/2023
-- Text: ocr (3 pages), mean OCR confidence 82.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT®& ENGINE RB
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Programs: B. Tech / MBA Tech Year: 2nd /3™d Sémester: 34 /5th
-Streams: DS/AIDS/AIML/AI/CSE(CS)/CS/CE/ETE/E XtC¢/rt
-
-Subject: Discrete Mathematics Time: 3 hrs. (10 am to 1 pm)
-Date: 23/11/2023 No. of Pages: 3
-
-Marks: 100
-
-Final Examination/Re-Examination (2024-22, 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1__ is compulsory. .
-
-2) Out of remaining questions, attempt any _4___ questions.
-
-3) In all ___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1) Q1
-
-a a) | Drawa single Venn diagram to represent the case AC C,B CC. Hence or otherwise | 4
-BL-3 draw another Venn diagram to represent the case CC 4,CCB.
-
-CO-2 ;
-
-fe , b) [Show that the statement ((pv q)A(p—>q))vq isa tautology. . le:
-CO-1;| c) | 20 cards numbered 1 to 20 are placed face down ona table. Cards are selected at 4
-SO- 1; random one at a time and turned over until 11 cards have been chosen. If two of the
-BL-1 cards add up to 21, the player loses. Is it possible to win this game?
-
-co-4;| d) | Identify: 4
-SO- 1; i) for which values of n are the graphs K,, bipartite?
-
-BL-3 ii) for which values of n are the graphs K, regular?
-
-CO-4;| e) | Determine whether the set of odd integer together with the operation a * b = abisa| 4
-SO-2; monoid. Justify.
-
-BL-5 =
-
-CO- 3;| Q.2 | Determine the solution for recurrence relation a, = 2a,-1 + Qn—2 forn = 2where | 6
-SO-2;} a) | ag =Oanda, = 1.
-
-BL-5
-
-CO- 1; b) | Are the graphs G and H displayed below bipartite? Justify your answer. If bipartite | 6
-SO- 2; redraw the graph showing the partitions.
-
-BL-3
---- page 2 ---
-a b a b
-
-& : ZT. |
-f ¢ ee
-fe Yo
-
-e d e d
-G i
-
-CO-3 ;| c) | Let Z denotes the set of integers. Define a relation R on Z by setting xRy if and only | 8
-SO-2; ifx = yorx =~—y. (i) Examine whether R is equivalence relation or not. (ii) Find
-BL-4 all equivalence classes of Z induced by R. :
-
-Q.3 | By mathematical induction, show that 6
-CO-2 a) n(n + 1)\"
-SO- 1; 4 2ee ean = (MED)
-BL-2 2
-
-b) | Use the Welsh-Powell algorithm to find the chromatic number of the following 6
-
-graph.
-ICO- 2;
-ISO- 2;
-BL-6
-CO. : c) |Let A = {1,2,3,4}. Examine whether the relation 8
-BL-4 R = {(1,1), (2), (2,1), (2,2), (3,3), (3,4), (4,3), (4,4)} is symmetric, asymmetric,
-antisymmetric and transitive. Give argument in support of your answer. _ «.
-
-CO- 3;| Q.4 | Show that the set of real numbers (IR) form an abelian group with respect to binary | 6
-SO-2;) a) | operation ‘*’ definedasa*b = a+b+2, Va,beR.
-BL-4
-co-2;| b) [Discuss the satisfiability and validity of the following argument: 6
-SO-2 ; Ifyou have access to the network, then you can change your grade. You have access
-BL-2 to the network. Therefore, you can change your grade.
-CO-3;) c) |Determine the solution of the following recurrence relation: 8
-SO- 1, lan — 2an-1 = 3-2", wheren >and ap = 1.
-BL-5
-CO- 2;| Q.S | Prove that the additive group of (Zg, +) is isomorphic to multiplicative group 6
-SO-1;) a) | of (Z5,x7). Where Z, = {0,1,2,3,4,5} and Z3 = { 1,2,3,4,5,6}.
-BL-4
-CO-3 ;| b) | Prove the following statement with clearly indicate the method of proof used. 6
-SO- 1;
-
-BL-4
-
-If 5n + 3 is odd, then 7n + 4 is even
-
-lo
---- page 3 ---
-c) | Apply Prim’s Algorithm to find the minimal spanning tree of the weighted graph: 8
-
-CO- 3; Pe
-SO- 1; a
-BL-3
-CO-1; 7 Determine whether the function f: IR — {7} — R— {1} defined as f(x) = = 6
-SO- 2;| 4
-BL-4 is bijective, if itis then find f~*.
-b) | Find the vertex connectivity and edge connectivity of the following graph. Justify 6
-ry your answer. e
-age - : d
-Co- 4; \ | 44
-SO- 1; \ ae oy |
-BL-3 , oN / |
-\ |
-Nw /
-\ /h
-o——_—4
-8
-iN
-. o¢—______-__—_6
-b c
-CO- 4] c) [Ifthe addition and multiplication modulo 6 is defined on the set R = {0,1,2,3,4,5} 8
-a, A then test that algebraic structure (R, +5,X.) is a ring with unity. Is it a field?
-© |co- 2; Q.7 |Apply laws of logic to establish the equivalence: pyqv(~ PA~GAr)=PVqvr 6
-SO- 23) a)
-BL-3
-b) jLetG = {0,1,2,3, 4,5} set of congruence classes under addition modulo 6 (+6),
-ete (i) Construct composition table with respect to ‘+.’. 6
-Bu, (ii) Identify Identity element of (G, +6).
-
-(iii) Identify the inverse of all the elements under +6.
-
-CO- 4; c) |Explain Euler Circuit and Hamilton Circuit. Show whether the graph K3,3 has Eulen 8
-
-SO- 1; Circuit and Hamilton Circuit?
-BL-2
 ````
 
 ## 2022-23 · Final-Exam · Sem 1 · paper d44c07d9dfe6
@@ -7078,6 +7236,7 @@ Hamiltonian cycle exists for the following graph. If so, find them.
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/Discrete Mathematics 1st, Year, Sem-I, Year, 2022-23, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 February 2023
 - Text: ocr (6 pages), mean OCR confidence 84.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -7283,7 +7442,6 @@ BL-2 and Ro(SoR).
 BL-3. integers whose sum or difference is divisible by 10.
 CO-2: c) Prove by mathematical induction:
 SO-1; 8
-BL-3 ee ae ee on rl
 a) For the weighted graph given below, apply Kruskal’s algorithm
 
 to find the minimum spanning tree. Also find the total weight of
@@ -7318,6 +7476,7 @@ Sf
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/Discrete Mathematics, Sem-I, Year 2022-23, Re-Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 87.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -7456,12 +7615,10 @@ CO-1; relations R from A to B and S from B to C defined by
 SO-1;
 BL2 R= {(1, a), (2, d), (3, a), (3, b), (3, d)}, and
 
-S= {(, x), (b, 2), ©: y), d, Z)}.
 (i) Find the composition relation SoR. [6]
 (ii) Find the Matrices M,,M, and M,,, representing the
 relations R,S and SoR respectively.
 
-(iii) Is M, x My = Mg, 9?
 --- page 4 ---
 “| CO-3;
 
@@ -7494,165 +7651,6 @@ SO-1; Show that G', the set of all even integers is a subgroup of G. [8]
 BL-3 (ii) Show that the function f : G > G’ defined by f(a) =2aisa 7
 
 homomorphism.
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper f96249af693f
-
-- Departments: Artificial Intelligence, Computer Engineering, Information Technology
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / I T, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-III/DISCRETE MATHEMATICS/Discrete Mathematics , Re-exam 2021-22,2022-23.pdf` (+5 identical copies)
-- Printed on paper: duration hours: 3; exam date: 07/02/2024
-- Text: ocr (3 pages), mean OCR confidence 82.2
-
-````text
-~ SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS& ENGINEERING
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-| Programs: B. Tech / MBA Tech Year: 2nd 73 Semester: 3rd /5th
-Streams: DS/AIDS/AIML/AI/CSE(CS) /CS/CE/ETE/CSEDS/cs BS
-Subject: Discrete Mathematics 7 ; \ Time: 3 hrs. (10 am to 1 pm)
-Date: 07/02/2024 — —. TNo. of Pages: 3
-Marks: __100____
-
-Final Examination/Re-Examination (2021-22, 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-(> 1) Question No. _1__ is compulsory.
-2) Out of remaining questions, attempt any __4__ questions.
-3) In all __5_ questions to be attempted.
-4) All questions carry equal marks.
-' 5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. -
-
-CO-1;] Q.1 | Out of 350 candidates who appear in an examination, it was revealed that 150 failed | 4
-SO-2;| a) | in calculus and 105 in physics. 35 failed in both (calculus and in Physics). Find how
-
-BL-3 many candidates (i) Passin both (ii) Pass only in calculus.
-CO-2;| b) | Show that the statement (p V q) > (p Aq) isa contingency. 4
-SO- 1;
-BL-2 ‘
-~ |CO-1;\ c) | Given 12 different 2-digit numbers, show that one can choose two of them so that 4
-SO- 1; their difference is a two-digit number with identical first and second digit.
-BL-1 ;
-| d) | Does the following graph have an (i) Euler’s path (ii) Euler’s Circuit? Justify your 4
-: answer.
-. 2
-CO-4 ;
-SO- 1; P 3 5
-BL-3
-. C0-4;) e) | If Z, = {0,1,2,3} and a+,4b =r, where r is reminder when we divide a + b by 4. 4
-SO-2 ; Prove that (Z,, +4) is a group.
-BL-5
-
-CO- 3;| Q.2 | Determine the solution for recurrence relation 2a,42 — 11dn41 + 5a, = O0forn=0|6
-SO-2;| a) | where a, = 2 anda, = —8.
-
-0
---- page 2 ---
-BL-5
-
-b) | Are the following graphs displayed below bipartite? Justify your answer. ; 6
-a h red ;
-= _# _
-SS _ _-, et .
-ee ao \ ec
-CO- 1; " ae So _—
-SO- 2; ie =< | - \
-BL-3 é Te \ | \
-. se |
-
-CO-3;| c) | Let Z denotes the set of integers. Define a relation R on Z by setting xRy if and only | 8
-SO-2 ; if x = y (mod 6). Examine whether R is equivalence relation or not. Also find the
-BL-4 equivalence classes.
-CO-2 | Q.3 | Show that 2?" — 1 is divisible by 3 using the principles of mathematical induction. 6
-SO- 1; a)
-BL-2 :
-
-b) | By using Welsh Powell graph colouring algorithm, find the chromatic number of the | 6
-
-following graph.
-
-CO- 2;
-SO- 2;
-BL-6
-CO-1;| c) |Let.A = {1,2,3,4}. Examine whether the relation . 8
-SO- 1; R = {(1,2), (1,3), (1,4), (2,3), (2,4), (3,4)} is symmetric, asymmetric, antisymmetric
-BL-4 and transitive. Give argument in support of your answer.
-CO- 3; Q.4 | Show that the set of non-zero real numbers (IR\{0}) form an abelian group with 6
-SO-2;) a) | respect to binary operation ‘*’ defined asa * b = (ax b)/2, Va,b € R\{0}
-BL-4
-
-b) [Discuss the satisfiability and validity of the following argument: 6
-Soo ; Ifyou study regularly, they you will score distinction. You study regularly. Therefore,
-Ble ou will not score distinction.
-CO-3;| c) [Determine the solution of the following recurrence relation: 8
-SO- 1; Qn — 4Qn-1 = 2+ 4", wheren > 1; and ay = 3.
-BL-5
-CO- 2;| Q.5 | Prove that the additive groups G = (Z,+) and H = (2Z, +) are isomorphic. 6
-SO- 1; a)
-
-BL-4
---- page 3 ---
-(cO-3 Jb) [Name the methods can be used for proving propositional statements?
-
-i Prove that there is no smallest positive rational number.
-
-c) | Apply Kruskal’s Algorithm to find the minimal spanning tree of the weighted graph: | 8
-
-¥
-
-Co- 3; 4
-SO- 1; S
-BL-3 &
-
-&
-
-n ;
-e@\ 7
-‘eo 2
-
-co-1/ 0.6 If f:R— R, g:R— Ris defined as f(x) = 7x + x*, g(x) = —7x3, Determine the 6
-
-soe a composition functions go g, feg and ge f.
-b) | Define the planar graph and determine whether the following graph is Planar. 6
-
-os Da
-
-cO- 4; he QS c
-
-SO- 1; |
-
-BL-3 |
-
-B ae sod ~-
-ww Ae
-f
-
-CO-4;| c) {Ifthe addition and multiplication modulo 7 is defined on the set R = {0,1,2,3,4,5, 6} | 8
-
-a 7 then show that algebraic structure (R, +7,X7) is a ring with unity. Is it a field?
-
-CO- 2;) Q.7 [For the given prepositions, identify which are equivalencies or tautologies.
-SO-2;] a) |i) pA~q ii)~ pV4q iii) ~ (~pVq) iv) ~pV(pA~q) vgA~ (~~ PV Os
-
-|BLe3
-k b) [Let G = {5, 15, 25, 35} set of congruence classes under multiplication modulo 40 (X49) 6
-
-CO-3 ; @ Construct composition table with respect to ‘X40’.
-
-SO- 7; (ii) Identify Identity element of (G,X4o).
-
-BL-2 (iii) Identify the inverse of all the elements under X4o.
-
-co-4;| c) |i) Construct all connected graphs of four vertices which are not isomorphic. 8
-SO- 1; ii) Construct a graph which is Euler circuit but not Hamiltonian circuit and explain|
-
-BL-3 our answer.
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper 313e680a34a2
@@ -7987,6 +7985,324 @@ Hamiltonian cycle exists for the following graph. If so, find them.
 5 66
 
 4/4
+````
+
+## 2022-23 · Re-Exam · Sem 4 · paper 1c001ea4407f
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/DISCRETE MATHEMATICS/Discrete Mathematics, Sem-IV, Batch 2021-22, Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 82.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech/ B Tech Stream : Computer Year: I Semester: IV
+Subject: Discrete Mathematics Time: 03 hrs 49200 amtod ‘oo pm)
+Date:_29 /o4 /2023 . No. of Pages:_04
+
+Marks: 100
+
+Re-Examination (Batch_2021-22 )
+
+= Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+’ of the Answer Book, which is provided for their use.
+
+1) Question No._1____ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1)
+CO-1; SO-1; | a) | Among the integers 1 and 300. Find, how many of them are divisible by 3 or [04]
+BL-3 Sor7? ;
+SC , 80-1; |b) Prepare the truth table for logical expression r = (pA ~ q). [04]
+CO-1; SO-2; | c) | If seven colours are used to paint 50 bicycles show that atleast 8 of them will | [04]
+BL2 be of same colour.
+CO-1; SO-2; | d) | Determine whether Eulerian path, Eulerian Circuit, Hamiltonian path and | [04]
+BL-S Hamiltonian circuit exists in the following graph G, justify your answers.
+
+2 2
+
+CO-1;SO-2; | e) | If Zs denotes set of congruence classes under ‘congruence modulo 5S’ relation, | [04]
+BL3 then show that it is a monoid but not a group under operation ‘multiplication
+modulo 5’.
+
+Page 1 of 4
+--- page 2 ---
+Q. 2)
+
+oe SO-1; | a) | Determine the sequence whose recurrence relation is a, = 2a,_,—4,. with
+: a [06]
+initial conditions a, = 1.5, a, = 3.
+CO-4; SO-7; | b) | Determine whether cycle graph Cs and graph G shown below are bipartite
+BL-3 graphs, explain.
+A @ B
+ce QD [06]
+€ [>* F
+G:
+CO-1;SO-2; | e) | Determine whether the relation ‘R’ defined on the set of integers Z, is reflexive,
+BL-4 symmetric, antisymmetric and transitive. [08]
+xRy if and only if 3 divides (x-y), where x,y¢Z
+Q. 3)
+CO-3; SO-2; | a) | Using Mathematical induction, show that
+BL-2 06
+fede nan ine
+CO-4; SO-7;_ | b) | Using Welsh Powell algorithm, find chromatic number of the graph.
+BL-6 6
+aioe ®
+Wo : 77%,
+— K- ~ Ee
+por "1
+on
+D
+ee
+CO-2; SO-2; c) 1 . epost
+BL-4 If f:R-{2}>R defined as f(x) te Determine whether ‘f’ is both | 19g}
+injective and surjective.
+Q. 4)
+CO-2; 80-2; [| a) | Let G be a set of non-zero real numbers and ‘*’ defines an operation on G
+BL-4
+it | [06]
+
+such that, x* y= > . Prove that (G, *) is a group. Also determine whether
+
+is an abelian group.
+
+Page 2 of 4
+
+aN
+--- page 3 ---
+€O-2; $O-7; |b) | Determine the validity of the following argument:
+BL-2 ; If I read my text, I will understand how to do my homework. I understand how | [06]
+
+to do my homework. Therefore, I read my text.
+
+CO-3;S0-1; |c) | Determine the sequence whose recurrence relation is given by
+Be C, = 3C, 1 — 2C,-» with initial conditions C, = 5, C, = 3. 108]
+Q.5)
+G0-4;S0-1; | a) | Let Gbe the group of real numbers w.r.t. ‘+? and G' be the group of positive
+BL-
+a real numbers w.rt. ‘x’. Let f : G > G' be defined as f(x) = e*. Show
+
+that it is an isomorphism.
+
+~ 20-2; SO-1; | b) oo, ; _
+BL-4 Show that 3 is irrational number using method of contradiction.
+
+C0-4;S0-7; | c) | Determine the minimum spannin
+BL-3
+following graph G using Prims’s algorithm.
+
+g tree starting from vertex *‘1’, for the
+
+“a. 6)
+a 307%; Ta | Let R be a relation on A={l, 2,3, 4,5} defined as aRb if and only if
+flexive,
+
+a<b+l. Find matrix and digraph of the relation. Examine R for re
+
+transitive, symmetric.
+
+Give one example each for following types of graphs, justify your answers.
+
+i) Both Eulerian and Hamiltonian
+ii) Eulerian but not Hamiltonian
+
+iii) Hamiltonian but not Eulerian
+CO-3; SO-1; Determine whether set of congruence ¢
+
+BL-6
+F= {0,2,4,6,8} is a field under addition and multiplication mod 10.
+
+lasses under ‘modulo 10’ defined by,
+
+Page 3 of 4
+--- page 4 ---
+Q.7)
+CO-1; SO-7; | a) | Let R be a relation on set of integers Z, defined as
+BL-4 xRy if and only if (3x+5y) is divisible by 8 [06]
+Show that R is an equivalence relation.
+CO-4; SO-7; | b) | Find minimum spanning tree using Kruskal’s algorithm
+BL-3
+[06]
+11
+CO-3;SO-1; |) | If f,g,4:R— R are functions defined by
+BL-6 :
+f(x) =x, g(x) =4x +1, h(x) =7x—2 then find the rule defining [08]
+i) feg ii) gef ili) (geh)of iv) ge(feh)
+Page 4 of 4
+````
+
+## 2022-23 · Re-Exam · Sem 4 · paper c517d82a99c7
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/DISCRETE MATHEMATICS/Discrete Mathematics, Sem-IV, Batch 2021-22, Re Exam_c517d82a99.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 85.8
+
+````text
+SVKM’S NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech/ B Tech Stream : Computer Year: IL Semester: IV
+Subject: Discrete Mathematics Time: 03 hrs @0:00amto_4.:0 0pm)
+Date: O21 Duley 2023. No. of Pages:_04
+
+Marks: 100
+
+Re-Examination ( Batch_2021-22 )
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1)
+CO-1;SO-1; | a) | If A and B are subsets of the universal set X and n(X) = 50, n(A) = 35, n(B) = 20, [04]
+BL-3 n(A'N B’) = 5, find n(A QB) and n(A'N B)
+ow SO-1; | b) Using truth table, show that statement (~p A q) > (~ (q 7 p)) is tautology. [04]
+CO-1; SO-2; | e) | If five points are chosen inside an equilateral triangle of side length 2 then show that | [04]
+BL-2 at least two of the points are not more than | unit apart from each other.
+©, | CO-1; SO-2; | d) | Determine whether Eulerian path, Eulerian Circuit, Hamiltonian path and Hamiltonian | [04]
+BL-5 circuit exists in the following graph G, justify your answers.
+4 t 2
+
+5 4 3
+
+CO-1; SO-2; e) | If Zé = {1,2,3,4} and a x5 b =r, where r is reminder when we divide a x b by S. | [04]
+BL-3 Prove that (Zé ,Xs) is a group.
+
+Page 1 of 4
+--- page 2 ---
+Q.2) 3
+
+CO-3;SO-1; | a) | Determine the sequence whose recurrence relation is a, = 2a, ,—a,.. with
+BL-5 [06]
+
+initial conditions a,= 1.5, a, = 3.
+
+CO-4; SO-7; b) | Are the following graphs G and H bipartite? Justify your answer.
+
+BL-3 a b a b
+2 c
+f ¢ [06]
+£
+e d e d
+G H
+CO-1; SO-2; | c) | Determine whether the relation ‘R’ defined on the set of integers Z, is reflexive,
+BL4 symmetric, antisymmetric and transitive. [08]
+xRy if and only if 5 divides (x-y), where x,yeZ
+Q.3)
+CO-3;SO-2; | a) | Using Mathematical induction, show that
+BL-2 n(n+1) [06]
+
+1424+3+..4n=
+
+CO-4; SO-7; b) | Use the Welsh-Powell algorithm to find the chromatic number of the following
+BL-6 graph.
+
+c
+B D
+[06]
+{ M
+J L
+#
+CO-2; SO-2; c) 1 . a
+BL-4 If f:R-{3'— R-{0} defined as f(x) ae Determine whether ‘f’ is | (9g)
+
+both injective and surjective.
+
+Q. 4)
+
+CO-2;SO-2; | a) | Let G be a set of non-zero real numbers and ‘*’ defines an operation on G
+BL-4
+such that, x* y= = . Prove that (G, *) is a group. Also determine whether it | [06]
+
+is an abelian group.
+
+Page 2 of 4
+--- page 3 ---
+|
+
+CO-2; SO-7; | b) | Determine the validity of the following argument:
+
+BL-2 If you do every problem in this book, then you will learn discrete mathematics. [06]
+You learned discrete mathematics. Therefore, you did every problem in this
+book.
+CO-3; SO-1; c) Determine the solution of the recurrence relation
+BL-5 a,—-74,_,+10a,_, =0 with initial conditions a, = 1, a, =6. {08}
+Q.5)
+oe SO-1; | a) Jig G= {1, O, a} , where @ denotes the complex cube root of unity. G is a group (06)
+under usual complex multiplication. Determine whether G is isomorphic to (Zs, +3 )
+CO-2; SO-1; | b) Coo. . . 06
+BL-4 Show that V5 is irrational number using method of contradiction. [06]
+é : = : :
+0-4; 80-7; |) | Determine the minimum spanning tree starting from vertex ‘1’, for the
+BL-3 Fi
+following graph G using Prims’s algorithm.
+2}—8 7
+4 3 9
+[08]
+Ll @) 4 lo
+9 9 66 10
+i _@)- 26
+Q. 6)
+; Sa S0-7; | a) | Let R be a relation on A={1, 2, 3, 4, 5} defined as aRb if and only if a|b
+~ ie. adivides b. Find matrix and digraph of the relation. Examine R_ for | [06]
+reflexive, transitive, symmetric.
+CO-4; SO-7;_ |b) | Give one example each for following types of graphs, justify your answers.
+BL-3
+i) Both Eulerian and Hamiltonian 106)
+ii) Eulerian but not Hamiltonian
+iii) Hamiltonian but not Eulerian
+‘ CO-3;SO-1; |e) | Prove that the set R = {0, 1, 2, 3, 4} is a ring under addition modulo 5, and
+BL-6 ee a : [08]
+multiplication modulo 5. Is it an integral domain?
+Page 3 of 4
+--- page 4 ---
+Q.7) 5
+
+CO-1;SO-7; | a) | Let R be a relation on set of integers Z, defined as
+BL-4 xRy if and only if (2x+3y) is divisible by 5 [06]
+Show that R is an equivalence relation.
+
+CO-4; SO-7; | b) | Using Welsh Powell algorithm, find chromatic number of the graph.
+BL-3
+
+[06]
+
+CO-3;SO-1; | ¢) | If f,g,h:R— R are functions defined by i
+BL-6
+f(x) =x’, g(x) =4x41, A(x) =7x-2 then find the rule defining
+i) fog ii) gef iii) (geh)of iv) go(feh)
+
+[08]
+
+Page 4 of 4
 ````
 
 ## 2021-22 · Final-Exam · Sem 4 · paper a94d390a03cb
@@ -8420,324 +8736,6 @@ iii) Bipartite graph
 ae 50-2; |e) | Discuss that F= {0,2,4,6,8} is a field under addition and multiplication mod 10. [e3]
 
 Page 3 of 3
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper 1c001ea4407f
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/DISCRETE MATHEMATICS/Discrete Mathematics, Sem-IV, Batch 2021-22, Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 82.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech/ B Tech Stream : Computer Year: I Semester: IV
-Subject: Discrete Mathematics Time: 03 hrs 49200 amtod ‘oo pm)
-Date:_29 /o4 /2023 . No. of Pages:_04
-
-Marks: 100
-
-Re-Examination (Batch_2021-22 )
-
-= Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-’ of the Answer Book, which is provided for their use.
-
-1) Question No._1____ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1)
-CO-1; SO-1; | a) | Among the integers 1 and 300. Find, how many of them are divisible by 3 or [04]
-BL-3 Sor7? ;
-SC , 80-1; |b) Prepare the truth table for logical expression r = (pA ~ q). [04]
-CO-1; SO-2; | c) | If seven colours are used to paint 50 bicycles show that atleast 8 of them will | [04]
-BL2 be of same colour.
-CO-1; SO-2; | d) | Determine whether Eulerian path, Eulerian Circuit, Hamiltonian path and | [04]
-BL-S Hamiltonian circuit exists in the following graph G, justify your answers.
-
-2 2
-
-CO-1;SO-2; | e) | If Zs denotes set of congruence classes under ‘congruence modulo 5S’ relation, | [04]
-BL3 then show that it is a monoid but not a group under operation ‘multiplication
-modulo 5’.
-
-Page 1 of 4
---- page 2 ---
-Q. 2)
-
-oe SO-1; | a) | Determine the sequence whose recurrence relation is a, = 2a,_,—4,. with
-: a [06]
-initial conditions a, = 1.5, a, = 3.
-CO-4; SO-7; | b) | Determine whether cycle graph Cs and graph G shown below are bipartite
-BL-3 graphs, explain.
-A @ B
-ce QD [06]
-€ [>* F
-G:
-CO-1;SO-2; | e) | Determine whether the relation ‘R’ defined on the set of integers Z, is reflexive,
-BL-4 symmetric, antisymmetric and transitive. [08]
-xRy if and only if 3 divides (x-y), where x,y¢Z
-Q. 3)
-CO-3; SO-2; | a) | Using Mathematical induction, show that
-BL-2 06
-fede nan ine
-CO-4; SO-7;_ | b) | Using Welsh Powell algorithm, find chromatic number of the graph.
-BL-6 6
-aioe ®
-Wo : 77%,
-— K- ~ Ee
-por "1
-on
-D
-ee
-CO-2; SO-2; c) 1 . epost
-BL-4 If f:R-{2}>R defined as f(x) te Determine whether ‘f’ is both | 19g}
-injective and surjective.
-Q. 4)
-CO-2; 80-2; [| a) | Let G be a set of non-zero real numbers and ‘*’ defines an operation on G
-BL-4
-it | [06]
-
-such that, x* y= > . Prove that (G, *) is a group. Also determine whether
-
-is an abelian group.
-
-Page 2 of 4
-
-aN
---- page 3 ---
-€O-2; $O-7; |b) | Determine the validity of the following argument:
-BL-2 ; If I read my text, I will understand how to do my homework. I understand how | [06]
-
-to do my homework. Therefore, I read my text.
-
-CO-3;S0-1; |c) | Determine the sequence whose recurrence relation is given by
-Be C, = 3C, 1 — 2C,-» with initial conditions C, = 5, C, = 3. 108]
-Q.5)
-G0-4;S0-1; | a) | Let Gbe the group of real numbers w.r.t. ‘+? and G' be the group of positive
-BL-
-a real numbers w.rt. ‘x’. Let f : G > G' be defined as f(x) = e*. Show
-
-that it is an isomorphism.
-
-~ 20-2; SO-1; | b) oo, ; _
-BL-4 Show that 3 is irrational number using method of contradiction.
-
-C0-4;S0-7; | c) | Determine the minimum spannin
-BL-3
-following graph G using Prims’s algorithm.
-
-g tree starting from vertex *‘1’, for the
-
-“a. 6)
-a 307%; Ta | Let R be a relation on A={l, 2,3, 4,5} defined as aRb if and only if
-flexive,
-
-a<b+l. Find matrix and digraph of the relation. Examine R for re
-
-transitive, symmetric.
-
-Give one example each for following types of graphs, justify your answers.
-
-i) Both Eulerian and Hamiltonian
-ii) Eulerian but not Hamiltonian
-
-iii) Hamiltonian but not Eulerian
-CO-3; SO-1; Determine whether set of congruence ¢
-
-BL-6
-F= {0,2,4,6,8} is a field under addition and multiplication mod 10.
-
-lasses under ‘modulo 10’ defined by,
-
-Page 3 of 4
---- page 4 ---
-Q.7)
-CO-1; SO-7; | a) | Let R be a relation on set of integers Z, defined as
-BL-4 xRy if and only if (3x+5y) is divisible by 8 [06]
-Show that R is an equivalence relation.
-CO-4; SO-7; | b) | Find minimum spanning tree using Kruskal’s algorithm
-BL-3
-[06]
-11
-CO-3;SO-1; |) | If f,g,4:R— R are functions defined by
-BL-6 :
-f(x) =x, g(x) =4x +1, h(x) =7x—2 then find the rule defining [08]
-i) feg ii) gef ili) (geh)of iv) ge(feh)
-Page 4 of 4
-````
-
-## 2021-22 · Re-Exam · Sem 4 · paper c517d82a99c7
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/DISCRETE MATHEMATICS/Discrete Mathematics, Sem-IV, Batch 2021-22, Re Exam_c517d82a99.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 85.8
-
-````text
-SVKM’S NMIMS :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech/ B Tech Stream : Computer Year: IL Semester: IV
-Subject: Discrete Mathematics Time: 03 hrs @0:00amto_4.:0 0pm)
-Date: O21 Duley 2023. No. of Pages:_04
-
-Marks: 100
-
-Re-Examination ( Batch_2021-22 )
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1)
-CO-1;SO-1; | a) | If A and B are subsets of the universal set X and n(X) = 50, n(A) = 35, n(B) = 20, [04]
-BL-3 n(A'N B’) = 5, find n(A QB) and n(A'N B)
-ow SO-1; | b) Using truth table, show that statement (~p A q) > (~ (q 7 p)) is tautology. [04]
-CO-1; SO-2; | e) | If five points are chosen inside an equilateral triangle of side length 2 then show that | [04]
-BL-2 at least two of the points are not more than | unit apart from each other.
-©, | CO-1; SO-2; | d) | Determine whether Eulerian path, Eulerian Circuit, Hamiltonian path and Hamiltonian | [04]
-BL-5 circuit exists in the following graph G, justify your answers.
-4 t 2
-
-5 4 3
-
-CO-1; SO-2; e) | If Zé = {1,2,3,4} and a x5 b =r, where r is reminder when we divide a x b by S. | [04]
-BL-3 Prove that (Zé ,Xs) is a group.
-
-Page 1 of 4
---- page 2 ---
-Q.2) 3
-
-CO-3;SO-1; | a) | Determine the sequence whose recurrence relation is a, = 2a, ,—a,.. with
-BL-5 [06]
-
-initial conditions a,= 1.5, a, = 3.
-
-CO-4; SO-7; b) | Are the following graphs G and H bipartite? Justify your answer.
-
-BL-3 a b a b
-2 c
-f ¢ [06]
-£
-e d e d
-G H
-CO-1; SO-2; | c) | Determine whether the relation ‘R’ defined on the set of integers Z, is reflexive,
-BL4 symmetric, antisymmetric and transitive. [08]
-xRy if and only if 5 divides (x-y), where x,yeZ
-Q.3)
-CO-3;SO-2; | a) | Using Mathematical induction, show that
-BL-2 n(n+1) [06]
-
-1424+3+..4n=
-
-CO-4; SO-7; b) | Use the Welsh-Powell algorithm to find the chromatic number of the following
-BL-6 graph.
-
-c
-B D
-[06]
-{ M
-J L
-#
-CO-2; SO-2; c) 1 . a
-BL-4 If f:R-{3'— R-{0} defined as f(x) ae Determine whether ‘f’ is | (9g)
-
-both injective and surjective.
-
-Q. 4)
-
-CO-2;SO-2; | a) | Let G be a set of non-zero real numbers and ‘*’ defines an operation on G
-BL-4
-such that, x* y= = . Prove that (G, *) is a group. Also determine whether it | [06]
-
-is an abelian group.
-
-Page 2 of 4
---- page 3 ---
-|
-
-CO-2; SO-7; | b) | Determine the validity of the following argument:
-
-BL-2 If you do every problem in this book, then you will learn discrete mathematics. [06]
-You learned discrete mathematics. Therefore, you did every problem in this
-book.
-CO-3; SO-1; c) Determine the solution of the recurrence relation
-BL-5 a,—-74,_,+10a,_, =0 with initial conditions a, = 1, a, =6. {08}
-Q.5)
-oe SO-1; | a) Jig G= {1, O, a} , where @ denotes the complex cube root of unity. G is a group (06)
-under usual complex multiplication. Determine whether G is isomorphic to (Zs, +3 )
-CO-2; SO-1; | b) Coo. . . 06
-BL-4 Show that V5 is irrational number using method of contradiction. [06]
-é : = : :
-0-4; 80-7; |) | Determine the minimum spanning tree starting from vertex ‘1’, for the
-BL-3 Fi
-following graph G using Prims’s algorithm.
-2}—8 7
-4 3 9
-[08]
-Ll @) 4 lo
-9 9 66 10
-i _@)- 26
-Q. 6)
-; Sa S0-7; | a) | Let R be a relation on A={1, 2, 3, 4, 5} defined as aRb if and only if a|b
-~ ie. adivides b. Find matrix and digraph of the relation. Examine R_ for | [06]
-reflexive, transitive, symmetric.
-CO-4; SO-7;_ |b) | Give one example each for following types of graphs, justify your answers.
-BL-3
-i) Both Eulerian and Hamiltonian 106)
-ii) Eulerian but not Hamiltonian
-iii) Hamiltonian but not Eulerian
-‘ CO-3;SO-1; |e) | Prove that the set R = {0, 1, 2, 3, 4} is a ring under addition modulo 5, and
-BL-6 ee a : [08]
-multiplication modulo 5. Is it an integral domain?
-Page 3 of 4
---- page 4 ---
-Q.7) 5
-
-CO-1;SO-7; | a) | Let R be a relation on set of integers Z, defined as
-BL-4 xRy if and only if (2x+3y) is divisible by 5 [06]
-Show that R is an equivalence relation.
-
-CO-4; SO-7; | b) | Using Welsh Powell algorithm, find chromatic number of the graph.
-BL-3
-
-[06]
-
-CO-3;SO-1; | ¢) | If f,g,h:R— R are functions defined by i
-BL-6
-f(x) =x’, g(x) =4x41, A(x) =7x-2 then find the rule defining
-i) fog ii) gef iii) (geh)of iv) go(feh)
-
-[08]
-
-Page 4 of 4
 ````
 
 ## 2021-22 · Re-Exam · Sem 6 · paper 5d36eb96bf4a
@@ -9290,6 +9288,7 @@ Page 3/3
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/Discrete Mathematics 2019-20 Final.pdf`
 - Printed on paper: exam date: 09 November 2019
 - Text: ocr (3 pages), mean OCR confidence 85.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -9419,7 +9418,6 @@ Prove that H is a normal subgroup of G and find quotient group.
 B_ Let M be the finite state machine with state table given below:
 
 f g
-S/A a b Cc a b Cc
 So So Si S2 0 1 0
 Si Si Si So 1 1 1
 S2 S2 Si So 1 0 0
@@ -9471,6 +9469,7 @@ di) LI (iv) L3
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/Discrete Mathematics 2018-19 Final.pdf`
 - Printed on paper: exam date: 17 November 2018
 - Text: ocr (3 pages), mean OCR confidence 86.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ; SVKM’s NMIMS .
@@ -9582,7 +9581,6 @@ ii) IfR is arelation defined on Z by, (x,y) € R if and only if x= y,forsomek�
 show that R is a partial ordered relation.
 
 Q7. (a) Use the grammar G to construct the derivation tree for the strings [6]
-i) aaabbb ii) abababba iii) aababb
 
 where G={{S,A,B},{a,b},P,S} and
 P={(S-> AB),(S >bA),(A—>a),(A- aS),(A > b44),(B > b),(B > BS),(B—> aBB)}
@@ -9590,7 +9588,6 @@ P={(S-> AB),(S >bA),(A—>a),(A- aS),(A > b44),(B > b),(B > BS),(B—> aBB)}
 (b) Design a finite state machine that performs serial addition. [6]
 (c) Let M be the finite state machine with state table as given below: [8]
 f ; G
-s A a |b |e |a |b |e
 So So | 5 | S | 0 1 0
 Sy S, |S | 5 Jl 1 1
 S5 Sy |S | Sy [1 0 0
@@ -9609,6 +9606,7 @@ Page 3/3
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/DISCRETE MATHEMATICS BATCH 2018-19 RE EXAM0001.pdf`
 - Printed on paper: max marks: 100; exam date: 12 January 2019
 - Text: ocr (3 pages), mean OCR confidence 83.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -9685,7 +9683,6 @@ b
 e€
 ) d
 d &
-d G, c . G c ; d G, c
 (b) Find the minimum spanning tree using Kruskal's algorithm for the following graph: [6]
 rr] 10 5 3
 f 14 9
@@ -9717,7 +9714,6 @@ Us
 Va V3 uy I~ Us
 V5
 
-“i Gi Y2 uy G' uz
 (c) (i) Show that (Z,, x,) is a monoid. [4]
 (ii) List the complements of all the elements of the lattice Dy, under divisibility. [4]
 Q7. (a) Define phase structure grammar. Find the phase structure grammar that generates the set [6]
@@ -10255,6 +10251,7 @@ Input set A={00,01,10,11} output set k= TN
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/Discrete Mathematics 2015-16 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 01/12/2015
 - Text: ocr (2 pages), mean OCR confidence 84.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NS, SVKM’s NMIMS
@@ -10340,7 +10337,6 @@ Lt LI CI L]
 
 b) Let X = {a, b, c}. Define f: X — X such that f= {(a, b), (b, a), (c, c)}. Determine [8]
 
-"GA ii) f iii) f iv) ft
 6. a) Prove that A-(A-B)=A M B (7]
 b) Find the dnfof ~(PVQ)(PAQ) [7]
 7. a) If Gis the set of all non-zero real numbers and * is binary operation defined by a* b = ab/4
@@ -10357,6 +10353,7 @@ b) Draw directed complete graphs K3 and Ks. (7]
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/Discrete Mathematics Batch 2015-16 Re Exam.pdf`
 - Printed on paper: exam date: 10 June 2016
 - Text: ocr (2 pages), mean OCR confidence 86.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 3
@@ -10454,7 +10451,6 @@ Find the number of students who have taken economics and political science and t
 
 taken Political Science but no economics. [6]
 b) Let X = {a, b, c}. Define f: X — X such that f= {(a, b), (b, a), (c, c)}. Determine [8]
-i) f' ii) f iii) F iv) f
 6. a) Let R be the relation on the set A= { aj,a2,a3,a4 as} given by [10]
 
 R= { (a1,a1), (a1,82),(a1,44),(a2,43), (€3,83),(43,a5),(44,24),(45,42) }
@@ -10490,6 +10486,7 @@ a|z
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/Discrete Mathematics 2014-15 Final.pdf`
 - Printed on paper: exam date: 02/12/2014
 - Text: ocr (3 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKWs NMIMS
@@ -10533,7 +10530,6 @@ a 1s
 iii. This is not function
 a
 
-iv. {a, b} Cfa, {a, b}}.
 v. A-P(A)=A
 vi. This is nota Tree.
 
@@ -10727,6 +10723,7 @@ such that no string has three consécutive occurrences of the letter b.
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/Discrete Mathematics Batch 2014-15 Re Exam.pdf`
 - Printed on paper: max marks: 60; exam date: 10/06/2015
 - Text: ocr (3 pages), mean OCR confidence 84.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -10826,7 +10823,6 @@ b. If (G, * ) be an abelian group, then for all a, b €& G, show that (a * b)"=
 
 Q4.
 a. Using principle of mathematical induction prove that
-149454 ey. ta BOSD ge are at ia
 2 - 6 Marks
 
 b. Let V = {vo, w, a, b, c} S = {a, b, c} and let > be the relation on V* given by
@@ -10887,6 +10883,7 @@ b. State and prove right and left cancellation property for a group. at 6 Marks
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/Discrete Mathematics 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02/12/2013
 - Text: ocr (3 pages), mean OCR confidence 84.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “A
@@ -11049,7 +11046,6 @@ graph which is both Eulerian and Hamiltonian?
 (c) Check whether the following graphs G1 and G2 are isomorphic
 
 [°. f* [* [*
-Vv; Vy mh Vs an Ur U; U;, Uy U; “i *\
 Vi V5 Un »U;
 
 G,
@@ -11074,6 +11070,7 @@ xX
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/I SEMESTER/DISCRETE MATHEMATICS/Discrete Mathematics Batch 2013-14 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11/06/2014
 - Text: ocr (3 pages), mean OCR confidence 86.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -11214,7 +11211,6 @@ birth day on the same month of the year.
 (b) Check whether the following graphs G1 and G2 are isomorphic [06]
 
 i f* J f°
-Vv, V; v\ % Vs Vo \ Up Ur Us Uy Us uN a
 Vs Un +U;
 
 Vis G
@@ -11226,6 +11222,348 @@ a field or both?
 K* *
 
 33
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper f19f4b586044
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/scan0005(8).pdf`
+- Printed on paper: max marks: 100; exam date: 29/10/2012
+- Text: ocr (3 pages), mean OCR confidence 90.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+XQ << SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MCA
+
+Year: I Trimester: I
+Academic Year : 2012-2013
+
+Subject: DISCRETE MATHEMATICS Marks: 100
+Time:
+Date: 29/10/2012 Duration: ats fis:
+i rs.
+
+Final - Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB: a) Question no. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) In all 5 questions to be attempted.
+d) All questions carry equal marks.
+e) Answer to each new question to be started on a fresh page.
+f) Figure in the right side indicates the marks.
+
+Q 1. Solve any five 20
+a) Using the statements
+R: Mark is Rich
+H: Mark is Happy
+Write the following statements in symbolic form:
+i) Mark is Poor but Happy
+ii) Mark is Poor or he is both Rich and unhappy.
+b) Draw the Venn Diagrams showing:
+ij) ASC Cand BEC
+c) Give an example of a relation which is neither reflexive nor irreflexive.
+i d) Define semigroup and monoid
+} e) differentiate between Graph and tree
+f) What is full binary tree? Explain the list structure of binary tree with example.
+g) Define Finite Automaton and Regular languages.
+
+Q2. a) Prove the tautology of the following statement
+
+CIP> RJA (RO(Q 2 P)) and obtain the PCNF. 05
+b) Symbolize the statement using predicate calculus. 05
+i)*AHl the Humans loves a lover”
+
+j ii) “Any positive value is either integer or floating point value”.
+q } c)@ Show the conclusion for given premises; 10
+i) Premises are: P> Q, QO 1R, R, PV GAS)
+Conclusion is: JAS
+
+ii) premises are : P VQ, QR, P> M, IM.
+Conclusion is: RA (PVQ)
+
+Ie
+--- page 2 ---
+Q3. a} Define covering and partitions of a set. Why partition is also covering? Explain
+
+with suitable example. 06
+b) Two equivalence relations R and S are given by their relation matrices Mg and Ms.
+Show whether the Ro S is an equivalence relation or not. 06
+j L
+de Freatvalevy. ah
+c) Define POSET? Draw the Hasse diagrams of the following sets under the partial
+ordering relation “divides” and indicate those which are totally ordered. 08
+{ 2,6,8,24} , {1,2,3,6,12}, { 3, 9, 27, 54}
+Q4. a) What is complete binary tree?. What is the formula to calculate total number of
+leaf nodes in complete binary trees is depth is given? 05
+b) Define: 05
+
+i) Connectedness, ii) Strongly connected graph,
+iii) path, iv) elementary cycle, v) Hamiltonian circuit
+c) Using Prim’s algorithm find the minimum spanning tree of the graph given.
+Begin at the vertex E. fe Ty 10
+
+jQ5. a) Find the transitive closure on set A={1,2,3,4} for relation 10
+é R={<1,1>, <2,3>,<3,2> <3,3> <2,4>, <4,4>} using Warshal's algorithm.
+
+a
+
+b) Write short notes on PERT and related techniques. Explain with example of PERT
+graph the calculation of earliest completion time and latest completion time. 10
+
+7
+--- page 3 ---
+Q6.'a) Define Isomorphism and Automorphism and give example of them 06
+
+b) Define subgroup and find all the subgroups of S, generated by the permutations
+08
+( 12 3 4 12 34
+L432 ( 4 L3 2
+
+c) What is congruence relation? Determine whether the relation R on the Semigroup
+Sis a congruence relation. S = Z under the operation of ordinary addition; aRb if
+and only if a+b is even. 06
+
+Q7. a) What is abelian group? Show that in a group <G, *>, if for any a,be G,
+(a*b)’ =a’ * b’, then <G, *> must be abelian. 08.
+
+b) Find the regular grammar and finite state machine for the language over {a,b}
+of “all strings that starts with ba and end with either aa or bb”. 12
+
+3
+````
+
+## 2012-13 · Exam not stated · Trim 1 · paper d6f3ade7239b
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/scan0012(6).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
+- Text: ocr (3 pages), mean OCR confidence 92.2
+
+````text
+“
+xr
+
+SVKMrs,
+=( nmims University
+Mumbai - 56, 2
+ah LIBRARY ; &
+SVKM’s NMIMS ox 4s
+Mukesh Patel School of Technology Management & Engineering NEES 4
+Programme: MCA Year: I Trimester: I —
+
+Academic Year : 2012-2013
+
+Batch: “ 2011-12
+Subject: DISCRETE MATHS Marks: 100
+
+Time: 10.00 a.m To 1.00 p.m.
+Date: 29/10/2012 Duration: 3 hrs.
+
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Figure in brackets on the right hand side indicate full marks.
+
+Q1 Solve any Four (20)
+(a) A certain country is inhabited only by people who either always tells the truth or
+always tell lies and who will respond to questions with a ‘yes’ or ‘no’. A tourist
+comes to a fork where one branch leads to the capital and the other does not. There
+} is no sign indicating which branch to take, but there is an inhabitant Mr. J standing
+at the fork. What single question should the tourist ask him to determine which
+branch to take? Prove the answer using truth table.
+
+(b)Define a partially ordered relation and Poset.
+(c) Define symmetric and anti-symmetric relation. Does there exist a relation which is
+' symmetric and anti-symmetric. Justify your answer.
+¥ (d) In a survey of 260 college students, the following data were obtained
+64 had taken a Maths course.
+
+94 had taken a Computer course.
+
+5
+--- page 2 ---
+58 had taken a business course.
+
+28 had taken both mathematics and Business course.
+
+26 had taken both mathematics and computer .
+
+22 had taken a computer and Business course.
+
+14 had taken all three types of courses.
+
+Of the students surveyed, how many had taken only a computer course.
+
+(e) Find all the spanning trees of the following graph
+
+Q2 (a) For each of these relations on the set {1, 2, 3, 4}, determine whether the relation is
+reflexive, symmetric, asymmetric, antisymmetric or transitive. (10)
+
+i. { (1,1), 1,2), (2,1), (2,2), (3,3), (4,4) }
+ii. {(1,3), (1,4), (2,3), (2,4), (3,1), (3,4)}
+(b) Determine whether or not each of the following is a partition of S (10)
+i. PI= { {1, 2, 3},{1, 4, 5, 6} }
+ii. P2= { {1, 2}, {3, 5, 6} }
+
+Q.3 (a) Let p denote the statement “The material is interesting” and q denote the statement
+“The exercises are challenging” and r denote the statement “The course is
+enjoyable”. Write the following statements in the symbolic form : (10)
+
+i. The material is interesting and the exercises are challenging
+
+ii. The material is uninteresting, the exercises are not challenging and the course is
+not enjoyable
+
+iii. If the material is not interesting and the exercises are not challenging then the
+course is not enjoyable
+
+iv. The material is interesting means the exercises are challenging and conversely.
+
+v. Either the material is interesting, or the exercises are challenging , but not both.
+
+}
+
+}
+
+a
+
+(b) Show the following equivalence without considering the truth table (10)
+aar)vG@arv@areor
+
+13
+--- page 3 ---
+Q.4 (a) Consider the group G = {1, 2, 3, 4, 5, 6 } under multiplication modulo 7. Find the
+identity and inverse of each element. Is G abelian group. (10)
+
+(b) Show that the pair {(0, 4, 8, 12), +16} is a group (10)
+
+Q. 5 (a)Define Euler Path and Euler Circuit. Determine whether the d irected graph shown
+in the figure has Euler Circuit. Construct the Euler Circuit. If no Euler circuit
+exists, determine whether directed graph has Euler Path. Co nstruct Euler Path if
+one exist. (10)
+
+(b) Define Hamiltonian Path and Hamiltonian Circuit. Give example of a graph for
+each of the following (10)
+
+i. Graph that has both Eulerian Circuit and Hamiltonian Circuit .
+ii. Graph that has Hamiltonian circuit but no Eulerian circuit
+iii. Graph that has neither Eulerian circuit nor Hamiltonian circuit
+
+Q6 (a) Determine whther the set together with binary operation is a semigroup, a monoid
+or neither. If it is a monoid specify the identity if it is a semigroup or monoid,
+
+determine if it is commutative. (10)
+i. Z* where * is defined as ordinary multiplication
+ii. Z* where a*b is defined as max[a,b]
+
+iii. Z, where a*b = at+b-ab
+(b) Determine whether the relation R on the semigroup S is a congruence relation (10)
+
+i. S = Z under the opration of ordinary addition, aRb if and only if a+b
+is even
+ii. S =Z under the operation of ordinary addition, aRb if and only if a =b
+j (mod 3)
+
+(0.7 (a) Let A= {1, 2, 3, 4} And let R= {(1,1), (1,2), (14), (2,4),B,1), 3,2), (4,2), (4,3), (4,4)}
+Find transitive closure by using ‘Warshall’s Algorithm’ (10)
+
+(b) Use Mathematical induction to prove the following
+
+7 -1 is divisible by 6 for n= 1, 2, 3, ............. (10)
+````
+
+## 2012-13 · Re-Exam · Trim 1 · paper 82db75d8551e
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/DISCRETE MATHS I MCA 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/6/2013
+- Text: text (2 pages)
+
+````text
+..   SVKM's NMIMS   . '
+Mukesh Pate1 , School of Technolorn Manaeement b
+Programme: MCA   Year:   I
+Academic Year :2012-2013'
+Batch:
+Subject:   Discrete Maths   Marks:   100
+Time:   10.00 a m To 1.00 pm
+Date:   12/6/2013   Duration: 3 hrs.
+Re - Exab~iination
+.-
+Instructions: Candidate should read carefully the instructions printed on the question
+paper and on the cover of the Answer BOO^, which is provided for their use.
+NB:   a) Question no. 1is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) In all 5 questions to be attempted.
+d) All questions cany equal marks.
+e) Answer to each new question to be started on a fresh page.
+f) Figure in the right side indicates the marks.
+Q 1.Solve any four
+a) What is Predicate calculus? Define Disjunctive normal form.
+b) Draw the Venn Diagrams showing:
+i) (AUB) C (A U C)
+ii) AE C and BG C
+c) Give an example of a relation which is symmetric and transitive but not
+reflexive.
+d) Define group and monoid
+e) Explain minimum spaning tree
+f) What is Universe of discourse? Explain with suitable example.
+Q2. a) Prove the tautology of the following statement
+( l P 3 R)A (R+(Q 2 P)) and obtain the PCNF.
+b) Symbolize the statement usihg predicate calculus.
+i)"Sam sits between Ralph and Jack"
+ii) "Any number is either positive or negative".
+c) Show that R V S follows logically from the pre&es:
+CVD, ( C W )+ l H   , l H 3 (A A I B ) , z s , ( A AlB)+ (RVS) \O
+43. a) Define covering and partitions of a set. Why partition is also covering? Explain
+with suitable example.   06
+b) Given the relation matrix MRof a relation R on the set {a, b, c), Find the relation
+matricesof R O R , ! ? , R O R O R R O ~ , ,   06
+--- page 2 ---
+c) Define POSET? Draw the Hasse diagrams of the following sets under the partial
+ordering relation "divides" and indicate those which are totally ordered.   08
+i)   {1,2,3,6,121,   ii) { 3, 9, 27, 54)
+Q4. a) What is complete binary tree?. What is the formula to calculate total number of
+leaf nodes in complete binary trees is depth is given?   05
+b) Define:
+i) connectedness, ii) weakly connected graph,
+iii) path,   iv) elementary cycle, v) eular circuit
+c)   Using Kruskal's algorithm find the minimum spanning tree of the graph given.
+C
+Q5. a) Find the transitive closure on set A={1,2,3,4} for relation   10
+R={<1,2>, <2,3>,<3,2> <3,3> <2,4>, <4,4>, <4,2>}   using Warsbal's
+algorithm.
+b) Write short notes' on PERT and related techniques.   10
+Q6. a) Define Homorphism and give example.   06
+b) Define subgroup and find all the subgroups of S4 generated by the permutations
+08
+c) What is congruence relation? Determine whether thgrelation R on the Semigroup
+S is a congruence relation. S = Z under the operation of ordinary addition; aRb if
+and only if a+b is even.   06
+Q7. a) What is abelian group? Show that every cyclic group of order n is isomorphic to
+the group <Z,, b,> .   08
+b) Find the regulad grammar and finite state machine for the language over {a,b)
+of "all strings conaining aa as a substring".   12
 ````
 
 ## 2012-13 · Re-Exam · Trim 1 · paper f5e5d4a2f2c9
@@ -11304,6 +11642,7 @@ ii) Regular Language
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/DISCRETE MATHS 2011-12.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 2/11/2011
 - Text: ocr (3 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -11340,7 +11679,6 @@ b) Draw the Venn Diagrams showing:
 
 i) (AUB) n (AUC)
 
-ii) AS C and BE C
 c) Define binary relation. Let X={1,2,3,4} and if
 relation R={<x,y>| x,yeX and (x-y) is integral non-zero multiple of 2},
 write the ordered pair of relation R.
@@ -11576,79 +11914,133 @@ j II) PERT techniques
 %
 ````
 
-## 2011-12 · Re-Exam · Trim 1 · paper 82db75d8551e
+## 2011-12 · Re-Exam · Trim 1 · paper 8da1e5a1f300
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/DISCRETE MATHS I MCA 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/6/2013
-- Text: text (2 pages)
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/DISCRETE MATHS BATCH 2010-2011 RE EXAM.pdf`
+- Printed on paper: exam date: 2/11/2011
+- Text: ocr (3 pages), mean OCR confidence 84.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-..   SVKM's NMIMS   . '
-Mukesh Pate1 , School of Technolorn Manaeement b
-Programme: MCA   Year:   I
-Academic Year :2012-2013'
-Batch:
-Subject:   Discrete Maths   Marks:   100
-Time:   10.00 a m To 1.00 pm
-Date:   12/6/2013   Duration: 3 hrs.
-Re - Exab~iination
-.-
-Instructions: Candidate should read carefully the instructions printed on the question
-paper and on the cover of the Answer BOO^, which is provided for their use.
-NB:   a) Question no. 1is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) In all 5 questions to be attempted.
-d) All questions cany equal marks.
-e) Answer to each new question to be started on a fresh page.
-f) Figure in the right side indicates the marks.
-Q 1.Solve any four
-a) What is Predicate calculus? Define Disjunctive normal form.
-b) Draw the Venn Diagrams showing:
-i) (AUB) C (A U C)
-ii) AE C and BG C
-c) Give an example of a relation which is symmetric and transitive but not
-reflexive.
-d) Define group and monoid
-e) Explain minimum spaning tree
-f) What is Universe of discourse? Explain with suitable example.
-Q2. a) Prove the tautology of the following statement
-( l P 3 R)A (R+(Q 2 P)) and obtain the PCNF.
-b) Symbolize the statement usihg predicate calculus.
-i)"Sam sits between Ralph and Jack"
-ii) "Any number is either positive or negative".
-c) Show that R V S follows logically from the pre&es:
-CVD, ( C W )+ l H   , l H 3 (A A I B ) , z s , ( A AlB)+ (RVS) \O
-43. a) Define covering and partitions of a set. Why partition is also covering? Explain
-with suitable example.   06
-b) Given the relation matrix MRof a relation R on the set {a, b, c), Find the relation
-matricesof R O R , ! ? , R O R O R R O ~ , ,   06
+a SVKM’s NMIMS
+— Mukesh Patel School Of Technolo
+Programme: MCA Year: I Trimester:
+Academic Year : 2011-2012
+Batch: 2010-11
+Subject: DISCRETE MATHS Marks:
+Time:
+
+Date: 2/11/2011 ~ Duration:
+
+Re - Examination
+
+Instruction: Candidates should read carefully the instruction printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+NB: _ 1) Attempt any 5 questions.
+2) All questions carry equal marks.
+3) Answer to each new question to be started on a fresh page.
+
+4) Figures in brackets on the right hand side indicate full marks.
+
+Ques. 1) a) Show that the digraphs given in figures are isomorphic. ; ae (06)
+
+PAS
+
+cy
+
+|
+Ques. 1) b) Determine the preorder, postorder and inorder traversal of the following binary tree (06)
+
+Ques. |1) c) Give a storage representation for the Sowing hts (08)
+
+Andy } ((x), y, A, Z) where A= (a, b, (c, d))
+
+Ques. 2) a) Prove that the set of cube roots of unity is an abeliam finite group with respect to (06)
+multiplication.
+
+Ques. 2) b) Prove that the set of all even numbers of integers (including zero) with additive (06)
+property is an abelian group.
+
+Q nN \-a@
+it-ata4rr---— 7 TAs
+i -a
+
+Prove it by using mathematical induction.
+
+ie
+
+\
 --- page 2 ---
-c) Define POSET? Draw the Hasse diagrams of the following sets under the partial
-ordering relation "divides" and indicate those which are totally ordered.   08
-i)   {1,2,3,6,121,   ii) { 3, 9, 27, 54)
-Q4. a) What is complete binary tree?. What is the formula to calculate total number of
-leaf nodes in complete binary trees is depth is given?   05
-b) Define:
-i) connectedness, ii) weakly connected graph,
-iii) path,   iv) elementary cycle, v) eular circuit
-c)   Using Kruskal's algorithm find the minimum spanning tree of the graph given.
-C
-Q5. a) Find the transitive closure on set A={1,2,3,4} for relation   10
-R={<1,2>, <2,3>,<3,2> <3,3> <2,4>, <4,4>, <4,2>}   using Warsbal's
-algorithm.
-b) Write short notes' on PERT and related techniques.   10
-Q6. a) Define Homorphism and give example.   06
-b) Define subgroup and find all the subgroups of S4 generated by the permutations
-08
-c) What is congruence relation? Determine whether thgrelation R on the Semigroup
-S is a congruence relation. S = Z under the operation of ordinary addition; aRb if
-and only if a+b is even.   06
-Q7. a) What is abelian group? Show that every cyclic group of order n is isomorphic to
-the group <Z,, b,> .   08
-b) Find the regulad grammar and finite state machine for the language over {a,b)
-of "all strings conaining aa as a substring".   12
+Ques. 3) a) A class has 175 students. The following is the description showing the number of student:
+studying one or more of the following subject in this class: Mathematics 100, Physics
+Chemistry 46, Mathematics and Physics 30, Mathematics and Chemistry 28, Physics at
+Chemistry 23, Mathematics, Physics and Chemistry 18. How many students are enrolled it.
+mathematics alone, physics alone and chemistry alone? Are there students who have not offered
+
+any of these three? (08)
+Ques. 3) b) Define DNF and CNF and obtain principal DNF and Principal of the following formula:
+(~P>R)*(Q@P) (08)
+Ques. 3) c) Define Power set and show that for any two non empty sets A and B, (04)
+€(A)U £(B)C 2 (A UB)
+
+Ques. 4) a) Let A= {1, 2, 3, 4, 12} and consider a Po-set of divisible on A. i.e. for a, b € A,a <b iffa is
+divisible by b. Draw the Hasse diagram. Also define the Partial order relation. (06)
+Ques. 4) b) Find the relation determined by the figures. a (06)
+
+aoe
+| @
+
+| |
+
+LL
+
+@—_>—¢
+Also find the matrix of the above relation.
+Ques. 4) c) Translate the following statements into formula, involving quantifier. (08)
+i) Square of every negative number is positive.
+ii) Square of two different integer are different.
+
+Ques. 5) a) Show that RVS follows logically from the premises (06)
+CVD, CVD — ~ H, ~H — (An~B) and (An~B) — (RVS)
+
+Ques. 5) b) Convert a forest of trees into a single binary tree. . (08)
+
+> as
+
+Ke =e OA . by. 14
+\ J } \ i ff \ ; : u
+4 q+ Loa ral ry f \ fy
+SO eae Fg 19 x
+7 & cfd \ 5 /\,
+Ques. 5) c) Prove that, (Z 18 ¢ i) = “——~—— (06)
+\ \ \ | aa
++ —-+t+oet+---- =
+13 OS “F C2n-l) Cant) antl
+
+By using mathematical induction.
+
+2/4
+--- page 3 ---
+/s. 6) a) The language L(G3) = [or my | } is generated by the following grammer. (10)
+
+G=< (4B, }, fa,b, © },8,6>
+Where @ consists of the productions,
+S — aSBC
+S—aBC
+CB—BC
+aB—ab
+bB—bb
+bC—>be
+eC—ce
+Derive the string
+
+Ques. 6) b) Write for the following sentence. (10)
+a monkey ate the banana.
+
+3/3
 ````
 
 ## 2010-11 · Exam not stated · Trim 1 · paper 49c404608e15
@@ -11658,6 +12050,7 @@ of "all strings conaining aa as a substring".   12
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/discrete mathematics 2010-2011.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2010
 - Text: ocr (4 pages), mean OCR confidence 90.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -11692,8 +12085,6 @@ Solve Any Five Q. 1. 20
 
 a. Consider the following collection of subsets of;
 S={a, b,c, d,e, f, g, h}
-i. {(a, b,c), (d, e, f), (fg, h)}
-ii. {(a, b, c), (d, e, f), (g, h)}
 
 Which of the sets is a Partition?
 
@@ -11815,136 +12206,6 @@ of degree one in the tree. 4
 ‘|
 ````
 
-## 2010-11 · Re-Exam · Trim 1 · paper 8da1e5a1f300
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/DISCRETE MATHS BATCH 2010-2011 RE EXAM.pdf`
-- Printed on paper: exam date: 2/11/2011
-- Text: ocr (3 pages), mean OCR confidence 84.3
-
-````text
-a SVKM’s NMIMS
-— Mukesh Patel School Of Technolo
-Programme: MCA Year: I Trimester:
-Academic Year : 2011-2012
-Batch: 2010-11
-Subject: DISCRETE MATHS Marks:
-Time:
-
-Date: 2/11/2011 ~ Duration:
-
-Re - Examination
-
-Instruction: Candidates should read carefully the instruction printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-NB: _ 1) Attempt any 5 questions.
-2) All questions carry equal marks.
-3) Answer to each new question to be started on a fresh page.
-
-4) Figures in brackets on the right hand side indicate full marks.
-
-Ques. 1) a) Show that the digraphs given in figures are isomorphic. ; ae (06)
-
-PAS
-
-cy
-
-|
-Ques. 1) b) Determine the preorder, postorder and inorder traversal of the following binary tree (06)
-
-Ques. |1) c) Give a storage representation for the Sowing hts (08)
-
-: ' (a, (b, (c, d)), e, f)
-Andy } ((x), y, A, Z) where A= (a, b, (c, d))
-
-Ques. 2) a) Prove that the set of cube roots of unity is an abeliam finite group with respect to (06)
-multiplication.
-
-Ques. 2) b) Prove that the set of all even numbers of integers (including zero) with additive (06)
-property is an abelian group.
-
-Ques. 2) c) Forn>Oanda#1 nel (08)
-Q nN \-a@
-it-ata4rr---— 7 TAs
-i -a
-
-Prove it by using mathematical induction.
-
-ie
-
-\
---- page 2 ---
-Ques. 3) a) A class has 175 students. The following is the description showing the number of student:
-studying one or more of the following subject in this class: Mathematics 100, Physics
-Chemistry 46, Mathematics and Physics 30, Mathematics and Chemistry 28, Physics at
-Chemistry 23, Mathematics, Physics and Chemistry 18. How many students are enrolled it.
-mathematics alone, physics alone and chemistry alone? Are there students who have not offered
-
-any of these three? (08)
-Ques. 3) b) Define DNF and CNF and obtain principal DNF and Principal of the following formula:
-(~P>R)*(Q@P) (08)
-Ques. 3) c) Define Power set and show that for any two non empty sets A and B, (04)
-€(A)U £(B)C 2 (A UB)
-
-Ques. 4) a) Let A= {1, 2, 3, 4, 12} and consider a Po-set of divisible on A. i.e. for a, b € A,a <b iffa is
-divisible by b. Draw the Hasse diagram. Also define the Partial order relation. (06)
-Ques. 4) b) Find the relation determined by the figures. a (06)
-
-aoe
-| @
-
-| |
-
-LL
-
-@—_>—¢
-Also find the matrix of the above relation.
-Ques. 4) c) Translate the following statements into formula, involving quantifier. (08)
-i) Square of every negative number is positive.
-ii) Square of two different integer are different.
-
-Ques. 5) a) Show that RVS follows logically from the premises (06)
-CVD, CVD — ~ H, ~H — (An~B) and (An~B) — (RVS)
-
-Ques. 5) b) Convert a forest of trees into a single binary tree. . (08)
-
-> as
-
-Ke =e OA . by. 14
-\ J } \ i ff \ ; : u
-4 q+ Loa ral ry f \ fy
-SO eae Fg 19 x
-7 & cfd \ 5 /\,
-Ques. 5) c) Prove that, (Z 18 ¢ i) = “——~—— (06)
-\ \ \ | aa
-+ —-+t+oet+---- =
-13 OS “F C2n-l) Cant) antl
-
-By using mathematical induction.
-
-2/4
---- page 3 ---
-/s. 6) a) The language L(G3) = [or my | } is generated by the following grammer. (10)
-
-G=< (4B, }, fa,b, © },8,6>
-Where @ consists of the productions,
-S — aSBC
-S—aBC
-CB—BC
-aB—ab
-bB—bb
-bC—>be
-eC—ce
-Derive the string
-
-Ques. 6) b) Write for the following sentence. (10)
-a monkey ate the banana.
-
-3/3
-````
-
 ## 2010-11 · Re-Exam · Trim 1 · paper 1661b9a19f26
 
 - Departments: Computer Applications (MCA)
@@ -11952,6 +12213,7 @@ a monkey ate the banana.
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/Discrete Maths 2010-11 Re-Exam.pdf.pdf`
 - Printed on paper: duration hours: 3; exam date: 14/06/2011
 - Text: ocr (4 pages), mean OCR confidence 88.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 »
@@ -11997,7 +12259,6 @@ that, 720 consumers liked product A and 450 liked product B. What is the least
 number that must have liked both products? (6)
 
 c) If A, B, C, D be four nonempty sets then prove that (4)
-(A x B)n (Cx D)=(AnC) x (Bn D)
 
 Q.2. a) If there was a ball game, then travelling was difficult. If they arrived on time,
 then travelling was not difficult. They arrived on time. Therefore, there was no ball
@@ -12053,7 +12314,6 @@ Present Input Symbols Input Symbols
 State [A B Cc D A B Cc D
 
 So S4 S2 Si S4 1 0 1 1
-S; S; Ss S4 Si 0 1 I 0
 S2 Si So S3 Ss 1 0 1 1
 S3 S6 Ss Sa Si 0 1 1 0
 S4 S2 Ss S83 S4 0 1 1 0
@@ -12363,6 +12623,7 @@ END
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/2008-2009 re exam(2).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 81.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 S
@@ -12425,7 +12686,6 @@ PTO
 b) Let A= {1,2, ....... 10}and A; = {1, 2, 3,4}, Ao = {5, 6, 7}, As = {4, 5, 7, 9},
 Ag = {4, 8, 10}, As = {8, 9, 10}, Ac = {1, 2, 3, 6, 8, 10}.
 Which of the following are partitions of A? [6]
-i){ Ai, Az, As}, it) { As, Ao}, iti) { Ai, As, As}. iv) { Aa, As, Ag}
 
 c) Define a relation on the set {a, b, c, d} that is [6]
 i) reflexive and symmetric but not transitive,
@@ -12513,7 +12773,6 @@ Q.6 a) Given grammer G, descibe precisely the language L(G) produced by G. Also 
 of language. [8]
 )G=(V,S,%,-),
 
-V ={W%,V,5¥2.%,,Z},8 = {x, y,z} iG =(V Sy 1)
 = 2I5Vo> >
 
 HV) A VyY,
@@ -12714,272 +12973,4 @@ x ——=
 wi
 
 Page 3 of 3
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper f19f4b586044
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/scan0005(8).pdf`
-- Printed on paper: max marks: 100; exam date: 29/10/2012
-- Text: ocr (3 pages), mean OCR confidence 90.1
-
-````text
-XQ << SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MCA
-
-Year: I Trimester: I
-Academic Year : 2012-2013
-
-Subject: DISCRETE MATHEMATICS Marks: 100
-Time:
-Date: 29/10/2012 Duration: ats fis:
-i rs.
-
-Final - Examination
-
-Instructions: Candidate should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB: a) Question no. 1 is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) In all 5 questions to be attempted.
-d) All questions carry equal marks.
-e) Answer to each new question to be started on a fresh page.
-f) Figure in the right side indicates the marks.
-
-Q 1. Solve any five 20
-a) Using the statements
-R: Mark is Rich
-H: Mark is Happy
-Write the following statements in symbolic form:
-i) Mark is Poor but Happy
-ii) Mark is Poor or he is both Rich and unhappy.
-b) Draw the Venn Diagrams showing:
-i) (AUB) C (A UC) but B EC
-ij) ASC Cand BEC
-c) Give an example of a relation which is neither reflexive nor irreflexive.
-i d) Define semigroup and monoid
-} e) differentiate between Graph and tree
-f) What is full binary tree? Explain the list structure of binary tree with example.
-g) Define Finite Automaton and Regular languages.
-
-Q2. a) Prove the tautology of the following statement
-
-CIP> RJA (RO(Q 2 P)) and obtain the PCNF. 05
-b) Symbolize the statement using predicate calculus. 05
-i)*AHl the Humans loves a lover”
-
-j ii) “Any positive value is either integer or floating point value”.
-q } c)@ Show the conclusion for given premises; 10
-i) Premises are: P> Q, QO 1R, R, PV GAS)
-Conclusion is: JAS
-
-ii) premises are : P VQ, QR, P> M, IM.
-Conclusion is: RA (PVQ)
-
-Ie
---- page 2 ---
-Q3. a} Define covering and partitions of a set. Why partition is also covering? Explain
-
-with suitable example. 06
-b) Two equivalence relations R and S are given by their relation matrices Mg and Ms.
-Show whether the Ro S is an equivalence relation or not. 06
-Me= fo LoL Ms= o Lo
-j L
-de Freatvalevy. ah
-c) Define POSET? Draw the Hasse diagrams of the following sets under the partial
-ordering relation “divides” and indicate those which are totally ordered. 08
-{ 2,6,8,24} , {1,2,3,6,12}, { 3, 9, 27, 54}
-Q4. a) What is complete binary tree?. What is the formula to calculate total number of
-leaf nodes in complete binary trees is depth is given? 05
-b) Define: 05
-
-i) Connectedness, ii) Strongly connected graph,
-iii) path, iv) elementary cycle, v) Hamiltonian circuit
-c) Using Prim’s algorithm find the minimum spanning tree of the graph given.
-Begin at the vertex E. fe Ty 10
-
-jQ5. a) Find the transitive closure on set A={1,2,3,4} for relation 10
-é R={<1,1>, <2,3>,<3,2> <3,3> <2,4>, <4,4>} using Warshal's algorithm.
-
-a
-
-b) Write short notes on PERT and related techniques. Explain with example of PERT
-graph the calculation of earliest completion time and latest completion time. 10
-
-7
---- page 3 ---
-Q6.'a) Define Isomorphism and Automorphism and give example of them 06
-
-b) Define subgroup and find all the subgroups of S, generated by the permutations
-08
-( 12 3 4 12 34
-L432 ( 4 L3 2
-
-c) What is congruence relation? Determine whether the relation R on the Semigroup
-Sis a congruence relation. S = Z under the operation of ordinary addition; aRb if
-and only if a+b is even. 06
-
-Q7. a) What is abelian group? Show that in a group <G, *>, if for any a,be G,
-(a*b)’ =a’ * b’, then <G, *> must be abelian. 08.
-
-b) Find the regular grammar and finite state machine for the language over {a,b}
-of “all strings that starts with ba and end with either aa or bb”. 12
-
-3
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper d6f3ade7239b
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM I/DISCRETE MATHEMATICS/scan0012(6).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
-- Text: ocr (3 pages), mean OCR confidence 92.2
-
-````text
-“
-xr
-
-SVKMrs,
-=( nmims University
-Mumbai - 56, 2
-ah LIBRARY ; &
-SVKM’s NMIMS ox 4s
-Mukesh Patel School of Technology Management & Engineering NEES 4
-Programme: MCA Year: I Trimester: I —
-
-Academic Year : 2012-2013
-
-Batch: “ 2011-12
-Subject: DISCRETE MATHS Marks: 100
-
-Time: 10.00 a.m To 1.00 p.m.
-Date: 29/10/2012 Duration: 3 hrs.
-
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Figure in brackets on the right hand side indicate full marks.
-
-Q1 Solve any Four (20)
-(a) A certain country is inhabited only by people who either always tells the truth or
-always tell lies and who will respond to questions with a ‘yes’ or ‘no’. A tourist
-comes to a fork where one branch leads to the capital and the other does not. There
-} is no sign indicating which branch to take, but there is an inhabitant Mr. J standing
-at the fork. What single question should the tourist ask him to determine which
-branch to take? Prove the answer using truth table.
-
-(b)Define a partially ordered relation and Poset.
-(c) Define symmetric and anti-symmetric relation. Does there exist a relation which is
-' symmetric and anti-symmetric. Justify your answer.
-¥ (d) In a survey of 260 college students, the following data were obtained
-64 had taken a Maths course.
-
-94 had taken a Computer course.
-
-5
---- page 2 ---
-58 had taken a business course.
-
-28 had taken both mathematics and Business course.
-
-26 had taken both mathematics and computer .
-
-22 had taken a computer and Business course.
-
-14 had taken all three types of courses.
-
-Of the students surveyed, how many had taken only a computer course.
-
-(e) Find all the spanning trees of the following graph
-
-Q2 (a) For each of these relations on the set {1, 2, 3, 4}, determine whether the relation is
-reflexive, symmetric, asymmetric, antisymmetric or transitive. (10)
-
-i. { (1,1), 1,2), (2,1), (2,2), (3,3), (4,4) }
-ii. {(1,3), (1,4), (2,3), (2,4), (3,1), (3,4)}
-(b) Determine whether or not each of the following is a partition of S (10)
-i. PI= { {1, 2, 3},{1, 4, 5, 6} }
-ii. P2= { {1, 2}, {3, 5, 6} }
-
-Q.3 (a) Let p denote the statement “The material is interesting” and q denote the statement
-“The exercises are challenging” and r denote the statement “The course is
-enjoyable”. Write the following statements in the symbolic form : (10)
-
-i. The material is interesting and the exercises are challenging
-
-ii. The material is uninteresting, the exercises are not challenging and the course is
-not enjoyable
-
-iii. If the material is not interesting and the exercises are not challenging then the
-course is not enjoyable
-
-iv. The material is interesting means the exercises are challenging and conversely.
-
-v. Either the material is interesting, or the exercises are challenging , but not both.
-
-}
-
-}
-
-a
-
-(b) Show the following equivalence without considering the truth table (10)
-aar)vG@arv@areor
-
-13
---- page 3 ---
-Q.4 (a) Consider the group G = {1, 2, 3, 4, 5, 6 } under multiplication modulo 7. Find the
-identity and inverse of each element. Is G abelian group. (10)
-
-(b) Show that the pair {(0, 4, 8, 12), +16} is a group (10)
-
-Q. 5 (a)Define Euler Path and Euler Circuit. Determine whether the d irected graph shown
-in the figure has Euler Circuit. Construct the Euler Circuit. If no Euler circuit
-exists, determine whether directed graph has Euler Path. Co nstruct Euler Path if
-one exist. (10)
-
-(b) Define Hamiltonian Path and Hamiltonian Circuit. Give example of a graph for
-each of the following (10)
-
-i. Graph that has both Eulerian Circuit and Hamiltonian Circuit .
-ii. Graph that has Hamiltonian circuit but no Eulerian circuit
-iii. Graph that has neither Eulerian circuit nor Hamiltonian circuit
-
-Q6 (a) Determine whther the set together with binary operation is a semigroup, a monoid
-or neither. If it is a monoid specify the identity if it is a semigroup or monoid,
-
-determine if it is commutative. (10)
-i. Z* where * is defined as ordinary multiplication
-ii. Z* where a*b is defined as max[a,b]
-
-iii. Z, where a*b = at+b-ab
-(b) Determine whether the relation R on the semigroup S is a congruence relation (10)
-
-i. S = Z under the opration of ordinary addition, aRb if and only if a+b
-is even
-ii. S =Z under the operation of ordinary addition, aRb if and only if a =b
-j (mod 3)
-
-(0.7 (a) Let A= {1, 2, 3, 4} And let R= {(1,1), (1,2), (14), (2,4),B,1), 3,2), (4,2), (4,3), (4,4)}
-Find transitive closure by using ‘Warshall’s Algorithm’ (10)
-
-(b) Use Mathematical induction to prove the following
-
-7 -1 is divisible by 6 for n= 1, 2, 3, ............. (10)
 ````

@@ -4703,6 +4703,383 @@ RoI Pooling  FC layers  Classifier and BB regressor
 ********** 19 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 12 · Answer key · paper 10b79e3d8a03
+
+- Departments: Computer Engineering
+- Programmes: Integrated Computer 7032
+- Source: `02_Question_Papers/2024/Sem_12/Re-Exam/Integrated_Computer_7032/Computer Vision/ANS_Computer Vision(702AI0C017)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (11 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI & DS)/B. Tech Intg. (CE)
+Year: III / VI/Semester VI/Semester XII(Exam Year: 2025-2026)
+Subject: Computer Vision
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 11 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:   [20]
+CO- 4   a.   In relation to epipolar geometry, explain epipolar constraint. Show
+SO- 1,6   [05]
+BL- 2   how it useful in matching key points.
+Solution
+Description (3M)
+Use of epipolar constraint (2M)
+CO- 3   b.   Explain in brief any two advantages and two limitations of the K-
+SO- 1,6   [05]
+BL- 5   Means algorithm.
+Advantages:
+Solution
+1. Simple and Easy to Implement
+********** 1 **********
+--- page 2 ---
+2. Computationally Efficient
+Initial random centroids → quickly move to stable
+positions after few iterations.
+Limitations:
+1. Requires Predefined K
+2. Sensitive to Initial Centroids
+(2M) for points
+(2M) for explanation
+c.   Determine the integral image for the following image.
+CO- 2
+SO- 1,6   [05]
+BL- 4
+Integral image
+Solution
+(5M)
+CO- 1   d.
+SO- 1,6   Explain two examples of mid-level processing.   [05]
+BL- 5
+1. Use low level features for image matching
+2. Keep track of moving objects in a video
+3. Determine optical flow to predict speed and direction of
+Solution   movement of object
+4. Image Clustering
+Any two examples (2M)
+Explanation (3M)
+Given the following gradient magnitude and orientation matrices,
+compute the histogram of oriented gradients using 9 bins (0–180°).
+What is the final HOG feature vector for the 4×4 image?
+Which bin does a pixel with:
+(a) 35° belong to?
+Q2a   (b) 95° belong to?
+CO- 1
+SO- 1, 6   [10]
+BL- 5
+Gradient Magnitude   Gradient orientation (Ɵ)
+Bin Range   Bin
+Solution   (°)   Center
+0–20   10
+20–40   30
+********** 2 **********
+--- page 3 ---
+40–60   50
+60–80   70
+80–100   90
+100–120   110
+120–140   130
+140–160   150
+160–180   170
+(10°, M=2): +2, (20°, M=3): +3, (30°, M=1): +1, (40°, M=2):+2
+(50°, 4): +4, (60°, 2): +2, (70°, 1): +1, (80°, 3): +3
+(90°, 2): +2, (100°, 1): +1, (110°, 3): +3, (120°, 2): +2
+(130°, 1): +1, (140°, 2): +2, (150°, 2): +2, (160°, 4): +4
+HoG vector is [2, 4, 6, 3, 5, 4, 3, 4, 4]
+Bin range (5M)
+Determination of HoG vector (5M)
+For Harris corner detector,
+Q2b   i) Show with example images that Harris corner detector is
+CO- 1   invariant to rotation and variant to scaling   [10]
+SO- 1, 6   ii) Explain the steps involved in constructing Harris matrix and
+BL- 5   using corner response to determine whether the pixel is corner,
+edge or flat region.
+i) Assume a window of size 3×3 centered at a location,
+(x,y)
+Harris matrix is
+𝐼𝑥 2   𝐼𝑥𝐼𝑦
+𝑀= ∑𝑤(𝑥, 𝑦) [   2 ]
+𝐼𝑥𝐼𝑦   𝐼𝑦
+𝑥,𝑦
+Ix and Iy are derivatives in x and y directions in window
+R = det{M} – k (trace {M})2
+Det{M} = Ix2 Iy2 - Ixy2
+Trace{M}=Ix2 +Iy2
+Empirically determined value of k is 0.04 – 0.06
+R is +ve and large for corner points
+R is –ve and large magnitude for edge
+Solution   |R| is small for flat region
+ii)   Harris and Hessian detectors are rotation invariant
+• Corner gets magnified and becomes bigger than the size of the
+window by zooming. After scaling, corner points are classified
+as edges
+********** 3 **********
+--- page 4 ---
+Q3a
+List the steps for extracting Scale-Invariant Feature Transform
+CO- 2   (SIFT) features from an image, and describe keypoint localization in   [10]
+SO- 1, 6
+BL- 5   detail.
+1. Construct a Scale Space:
+• Generate images over multiple scales
+• Ensures that features are scale-independent
+2. Key point Localisation:
+• Select key points based on measure of stability
+• Ignore other key points to avoid false keypoints
+3. Orientation Assignment:
+• Compute best orientations for each key point region
+• To ensure that keypoints are rotation invariant
+4. Keypoint Descriptor:
+• Use local image gradients at selected scale and rotation
+(5M)
+• Each pixel is compared with 26 other pixel values
+•   Pixel marked x is compared with 26 other pixel values
+•   If it is the highest positive or lowest negative among 26
+neighbors (maxima or minima)
+Solution   •   It is selected as a potential keypoint
+•   Discard weak key points
+• Normalize DoGs to get values in 0 -1 range
+•   Set threshold to 0.03
+• For DOG(x), x is coordinates of extrema (minima/maxima)
+•   If DOG(x) < Threshold, discard it
+•   Else retain it
+•   Construct Hessian matrix at each potential keypoint to check
+whether these points are good corner points not edge points
+********** 4 **********
+--- page 5 ---
+Q3b
+For Speeded-Up Robust Features (SURF), explain the scale space
+CO- 2   generation for feature detection and justify in brief why it is   [10]
+SO- 1, 6
+BL- 1, 5   computationally efficient.
+• For SURF, instead of reducing the size of image, filter size is
+increased
+• Computational complexity does not increase with the size of filter
+• Because integral images and box filters are used
+Solution
+• Uses a number of octaves
+• Each octave has a number of layers
+For each octave and layer, image is filtered with second order
+Gaussian Filter with higher and higher standard deviation
+SURF achieves high speed due to:
+• Use of integral images → fast computation
+• Box filter approximation instead of Gaussian filters
+• Scale-space via filter scaling, not image scaling
+• Efficient Haar wavelet computations
+Explain the Mean Shift clustering algorithm with reference to the
+following aspects:
+Q4a
+i) The working procedure of the algorithm and criteria for
+CO- 3   convergence   [10]
+SO- 1, 6
+ii) Effect of large and small bandwidth
+BL- 2
+iii) The advantages and limitations of Mean Shift
+Support your explanation with a suitable example plots of data
+points
+Working of Mean Shift Algorithm
+1. Choose a window (bandwidth) around a data point
+2. Compute the mean of all points inside the window
+3. Shift the window center to this mean
+4. Repeat until the shift is very small
+Solution   5. Points converging to the same location form a cluster
+The algorithm stops when:
+Shift in position is very small, or
+The point reaches a stable mode (peak)
+(4M)
+********** 5 **********
+--- page 6 ---
+Bandwidth (window size) controls the radius of the neighborhood
+• Large bandwidth → fewer clusters (smoother result)
+• Small bandwidth → more clusters (detailed structure)
+(2M)
+Advantages
+• No need to specify number of clusters
+• Can detect arbitrarily shaped clusters
+• Robust to noise
+• Works well for density estimation
+Limitations
+•   Computationally expensive
+•   Choice of bandwidth is critical
+•   Not suitable for very high-dimensional data
+• May merge nearby clusters if bandwidth is large
+(4M)
+Q4b
+CO- 3   Describe how Gaussian Mixture model is used to generate   [10]
+SO- 1,6   background model.
+BL- 5
+• Generate mixture of ‘k’ Gaussians distribution models for
+each pixel of background frame
+•   Values for ‘k’ is in the range 3 to 5
+• Weight of each distribution is proportional to the amount of
+time each color/intensity stays on that pixel
+•   If a pixel has almost the same intensity for few consecutive
+frames
+• Weight of the Gaussian distribution of the pixel is more
+• This pixel is a background pixel
+Solution   •   If weight of Gaussian distribution of a pixel is low, that pixel
+classified as a foreground pixel
+Video frames   Background model
+Q5a
+Show the concept of optical flow. Compare dense and sparse optical
+CO- 3   [10]
+SO- 1,6   flow with suitable example images.
+BL- 4
+********** 6 **********
+--- page 7 ---
+•   If there is a relative motion between the camera and the
+objects in the scene
+•   Points of objects move in consecutive frames of video
+•   Velocity vectors for these points in consecutive frames
+is optic flow
+•   It describes movement of objects
+•   Optical flow is used for a series of frames of a video that
+have a small time step between them
+•   Calculates velocity of points between consecutive frames
+• And provides an estimation of location of points in the next
+image sequence
+Solution
+(4M)
+Sparse optical flow
+•   Is flow vectors of interest points of frames
+•   Interest points could be edges or corners of object in a frame
+Dense optical flow
+•   Provides flow vectors of all pixels
+• Has one flow vector per pixel
+• Has higher accuracy
+•   Is slow and computationally expensive
+(4M)
+(2M) for images
+Q5b
+Describe how background frame is generated using temporal average.
+CO- 3   Also show how background subtraction is used generate foreground   [10]
+SO- 1,6
+BL- 5   of the image.
+Solution
+********** 7 **********
+--- page 8 ---
+Q6a
+Explain any five challenges of implementing a cereal grain inspection
+CO- 4   [10]
+SO- 1,6   system using computer vision.
+BL- 2
+Grain Variability
+Shape and Size Variation: Cereal grains often come in varying sizes,
+shapes, and orientations. This variation complicates consistent feature
+extraction and classification.
+Color Variability: Different grains have varying colors, and even within
+the same type of grain, ripeness or moisture content can lead to color
+changes. Lighting conditions further exacerbate this issue.
+Texture Differences: Grain surfaces may differ in texture due to natural
+variations or handling. Identifying features based on texture requires
+advanced techniques like Local Binary Patterns (LBP) or more complex
+CNN models.
+2. Imaging Conditions
+Lighting Conditions: Changes in lighting, shadows, and reflections during
+image capture can significantly affect the quality and consistency of
+images. Ensuring uniform lighting in an industrial setting is difficult,
+leading to potential inaccuracies.
+Background Noise: Separating grain from the background, particularly in
+bulk storage or conveyor systems, is challenging. This requires robust
+segmentation algorithms to isolate grains accurately.
+Solution   Motion Blur: In real-time inspection systems, grains may be moving on
+conveyors, leading to motion blur, which can affect image clarity and
+reduce the system’s accuracy.
+3. Object Detection and Classification
+Identifying Defects and Foreign Objects: Detecting small defects or
+foreign objects like stones, chaff, or weed seeds requires high-resolution
+imaging and fine-tuned detection algorithms, often necessitating complex
+deep learning models.
+Data Annotation: Training a machine learning model to detect grain
+defects or classify different grains requires a large labeled dataset.
+Labeling this data can be time-consuming and error-prone.
+Grain Overlapping and Occlusion: In bulk inspection scenarios, grains
+may overlap, which hinders accurate detection and feature extraction.
+4. High Throughput Requirements
+Real-time Processing: In industrial applications, grains often move at high
+speeds on conveyor belts. Implementing a system that can process
+images in real-time, while maintaining high accuracy, is a major
+computational challenge.
+********** 8 **********
+--- page 9 ---
+Efficient Algorithms: The system needs to balance accuracy and speed,
+especially when dealing with large datasets or high-resolution images.
+Lightweight yet accurate models like MobileNet or EfficientNet are
+essential for industrial scalability.
+5. Data and Model Generalization
+Domain Adaptation: A model trained in a controlled lab environment
+might not generalize well to field or real-world scenarios due to changes
+in lighting, grain quality, or background noise.
+Handling Different Grain Types: Cereal grain systems must handle
+various grains like wheat, rice, corn, and barley. Training a model to
+generalize across different grain types while retaining accuracy can be
+difficult.
+6. Moisture and Damage Detection
+Detecting Internal Defects: Image processing systems typically analyze
+external features, making it hard to detect internal defects like moisture
+content or fungal infections, which might require more advanced imaging
+techniques like X-ray or NIR (Near-Infrared).
+Subtle Differences in Damaged Grains: Differentiating between slightly
+damaged grains and healthy grains may be challenging, especially when
+damage does not significantly alter visible features.
+7. Cost and Scalability
+Hardware Costs: High-resolution cameras, lighting setups, and
+computing power for real-time image processing add significant costs to
+implementing a system. Industrial scalability, in terms of processing large
+volumes of grains, can further increase costs.
+Maintaining System Accuracy Over Time: The system’s performance
+might degrade over time due to hardware wear, lighting changes, or grain
+quality variations, requiring continuous calibration and maintenance.
+(5M) for key points
+(5M) for description
+Show how 2D Cartesian coordinates are converted to 3D
+Q6b
+homogeneous coordinates and vice versa. Convert the point (3,4)
+CO- 4   from Cartesian to homogeneous form. Also, determine the   [10]
+SO- 1,6
+BL- 5   corresponding 2D Cartesian coordinates for the homogeneous point
+(9,12,3).
+********** 9 **********
+--- page 10 ---
+Solution
+(4M)
+(4M)
+2D point, (3,4) to Homogeneous point is (3,4,1)
+3D point (9,12,3) 2D point is (3,4)
+(2M)
+Q7a   Explain in brief the following:
+CO- 4   • World coordinate system   [10]
+SO- 1, 6
+BL- 3   • Camera coordinate system
+********** 10 **********
+--- page 11 ---
+• Image coordinate system
+•   Pixel coordinate system
+Solution
+(3M) each for the description of World and camera coordinate
+system (2M) each image and pixel coordinate systems
+Q7b   Draw a labeled sketch of epipolar geometry and explain it with
+CO- 4   reference to points, epipolar lines, and the essential and fundamental   [10]
+SO- 1,6
+BL- 3   matrices.
+(5M)
+Solution
+(5M)
+********** 11 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper 25d2a4853ff6
 
 - Departments: AI and Data Science
@@ -9196,383 +9573,6 @@ SVKMs NMIMS
 MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
 Programme: B. Tech (AI & DS)/B. Tech Intg. (CE)
 Year: III / VI/Semester VI/Semester XII(Exam Year: 2024-2025)
-Subject: Computer Vision
-Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 11 pages.
-2. Question No. 1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right-hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1   Answer briefly:   [20]
-CO- 4   a.   In relation to epipolar geometry, explain epipolar constraint. Show
-SO- 1,6   [05]
-BL- 2   how it useful in matching key points.
-Solution
-Description (3M)
-Use of epipolar constraint (2M)
-CO- 3   b.   Explain in brief any two advantages and two limitations of the K-
-SO- 1,6   [05]
-BL- 5   Means algorithm.
-Advantages:
-Solution
-1. Simple and Easy to Implement
-********** 1 **********
---- page 2 ---
-2. Computationally Efficient
-Initial random centroids → quickly move to stable
-positions after few iterations.
-Limitations:
-1. Requires Predefined K
-2. Sensitive to Initial Centroids
-(2M) for points
-(2M) for explanation
-c.   Determine the integral image for the following image.
-CO- 2
-SO- 1,6   [05]
-BL- 4
-Integral image
-Solution
-(5M)
-CO- 1   d.
-SO- 1,6   Explain two examples of mid-level processing.   [05]
-BL- 5
-1. Use low level features for image matching
-2. Keep track of moving objects in a video
-3. Determine optical flow to predict speed and direction of
-Solution   movement of object
-4. Image Clustering
-Any two examples (2M)
-Explanation (3M)
-Given the following gradient magnitude and orientation matrices,
-compute the histogram of oriented gradients using 9 bins (0–180°).
-What is the final HOG feature vector for the 4×4 image?
-Which bin does a pixel with:
-(a) 35° belong to?
-Q2a   (b) 95° belong to?
-CO- 1
-SO- 1, 6   [10]
-BL- 5
-Gradient Magnitude   Gradient orientation (Ɵ)
-Bin Range   Bin
-Solution   (°)   Center
-0–20   10
-20–40   30
-********** 2 **********
---- page 3 ---
-40–60   50
-60–80   70
-80–100   90
-100–120   110
-120–140   130
-140–160   150
-160–180   170
-(10°, M=2): +2, (20°, M=3): +3, (30°, M=1): +1, (40°, M=2):+2
-(50°, 4): +4, (60°, 2): +2, (70°, 1): +1, (80°, 3): +3
-(90°, 2): +2, (100°, 1): +1, (110°, 3): +3, (120°, 2): +2
-(130°, 1): +1, (140°, 2): +2, (150°, 2): +2, (160°, 4): +4
-HoG vector is [2, 4, 6, 3, 5, 4, 3, 4, 4]
-Bin range (5M)
-Determination of HoG vector (5M)
-For Harris corner detector,
-Q2b   i) Show with example images that Harris corner detector is
-CO- 1   invariant to rotation and variant to scaling   [10]
-SO- 1, 6   ii) Explain the steps involved in constructing Harris matrix and
-BL- 5   using corner response to determine whether the pixel is corner,
-edge or flat region.
-i) Assume a window of size 3×3 centered at a location,
-(x,y)
-Harris matrix is
-𝐼𝑥 2   𝐼𝑥𝐼𝑦
-𝑀= ∑𝑤(𝑥, 𝑦) [   2 ]
-𝐼𝑥𝐼𝑦   𝐼𝑦
-𝑥,𝑦
-Ix and Iy are derivatives in x and y directions in window
-R = det{M} – k (trace {M})2
-Det{M} = Ix2 Iy2 - Ixy2
-Trace{M}=Ix2 +Iy2
-Empirically determined value of k is 0.04 – 0.06
-R is +ve and large for corner points
-R is –ve and large magnitude for edge
-Solution   |R| is small for flat region
-ii)   Harris and Hessian detectors are rotation invariant
-• Corner gets magnified and becomes bigger than the size of the
-window by zooming. After scaling, corner points are classified
-as edges
-********** 3 **********
---- page 4 ---
-Q3a
-List the steps for extracting Scale-Invariant Feature Transform
-CO- 2   (SIFT) features from an image, and describe keypoint localization in   [10]
-SO- 1, 6
-BL- 5   detail.
-1. Construct a Scale Space:
-• Generate images over multiple scales
-• Ensures that features are scale-independent
-2. Key point Localisation:
-• Select key points based on measure of stability
-• Ignore other key points to avoid false keypoints
-3. Orientation Assignment:
-• Compute best orientations for each key point region
-• To ensure that keypoints are rotation invariant
-4. Keypoint Descriptor:
-• Use local image gradients at selected scale and rotation
-(5M)
-• Each pixel is compared with 26 other pixel values
-•   Pixel marked x is compared with 26 other pixel values
-•   If it is the highest positive or lowest negative among 26
-neighbors (maxima or minima)
-Solution   •   It is selected as a potential keypoint
-•   Discard weak key points
-• Normalize DoGs to get values in 0 -1 range
-•   Set threshold to 0.03
-• For DOG(x), x is coordinates of extrema (minima/maxima)
-•   If DOG(x) < Threshold, discard it
-•   Else retain it
-•   Construct Hessian matrix at each potential keypoint to check
-whether these points are good corner points not edge points
-********** 4 **********
---- page 5 ---
-Q3b
-For Speeded-Up Robust Features (SURF), explain the scale space
-CO- 2   generation for feature detection and justify in brief why it is   [10]
-SO- 1, 6
-BL- 1, 5   computationally efficient.
-• For SURF, instead of reducing the size of image, filter size is
-increased
-• Computational complexity does not increase with the size of filter
-• Because integral images and box filters are used
-Solution
-• Uses a number of octaves
-• Each octave has a number of layers
-For each octave and layer, image is filtered with second order
-Gaussian Filter with higher and higher standard deviation
-SURF achieves high speed due to:
-• Use of integral images → fast computation
-• Box filter approximation instead of Gaussian filters
-• Scale-space via filter scaling, not image scaling
-• Efficient Haar wavelet computations
-Explain the Mean Shift clustering algorithm with reference to the
-following aspects:
-Q4a
-i) The working procedure of the algorithm and criteria for
-CO- 3   convergence   [10]
-SO- 1, 6
-ii) Effect of large and small bandwidth
-BL- 2
-iii) The advantages and limitations of Mean Shift
-Support your explanation with a suitable example plots of data
-points
-Working of Mean Shift Algorithm
-1. Choose a window (bandwidth) around a data point
-2. Compute the mean of all points inside the window
-3. Shift the window center to this mean
-4. Repeat until the shift is very small
-Solution   5. Points converging to the same location form a cluster
-The algorithm stops when:
-Shift in position is very small, or
-The point reaches a stable mode (peak)
-(4M)
-********** 5 **********
---- page 6 ---
-Bandwidth (window size) controls the radius of the neighborhood
-• Large bandwidth → fewer clusters (smoother result)
-• Small bandwidth → more clusters (detailed structure)
-(2M)
-Advantages
-• No need to specify number of clusters
-• Can detect arbitrarily shaped clusters
-• Robust to noise
-• Works well for density estimation
-Limitations
-•   Computationally expensive
-•   Choice of bandwidth is critical
-•   Not suitable for very high-dimensional data
-• May merge nearby clusters if bandwidth is large
-(4M)
-Q4b
-CO- 3   Describe how Gaussian Mixture model is used to generate   [10]
-SO- 1,6   background model.
-BL- 5
-• Generate mixture of ‘k’ Gaussians distribution models for
-each pixel of background frame
-•   Values for ‘k’ is in the range 3 to 5
-• Weight of each distribution is proportional to the amount of
-time each color/intensity stays on that pixel
-•   If a pixel has almost the same intensity for few consecutive
-frames
-• Weight of the Gaussian distribution of the pixel is more
-• This pixel is a background pixel
-Solution   •   If weight of Gaussian distribution of a pixel is low, that pixel
-classified as a foreground pixel
-Video frames   Background model
-Q5a
-Show the concept of optical flow. Compare dense and sparse optical
-CO- 3   [10]
-SO- 1,6   flow with suitable example images.
-BL- 4
-********** 6 **********
---- page 7 ---
-•   If there is a relative motion between the camera and the
-objects in the scene
-•   Points of objects move in consecutive frames of video
-•   Velocity vectors for these points in consecutive frames
-is optic flow
-•   It describes movement of objects
-•   Optical flow is used for a series of frames of a video that
-have a small time step between them
-•   Calculates velocity of points between consecutive frames
-• And provides an estimation of location of points in the next
-image sequence
-Solution
-(4M)
-Sparse optical flow
-•   Is flow vectors of interest points of frames
-•   Interest points could be edges or corners of object in a frame
-Dense optical flow
-•   Provides flow vectors of all pixels
-• Has one flow vector per pixel
-• Has higher accuracy
-•   Is slow and computationally expensive
-(4M)
-(2M) for images
-Q5b
-Describe how background frame is generated using temporal average.
-CO- 3   Also show how background subtraction is used generate foreground   [10]
-SO- 1,6
-BL- 5   of the image.
-Solution
-********** 7 **********
---- page 8 ---
-Q6a
-Explain any five challenges of implementing a cereal grain inspection
-CO- 4   [10]
-SO- 1,6   system using computer vision.
-BL- 2
-Grain Variability
-Shape and Size Variation: Cereal grains often come in varying sizes,
-shapes, and orientations. This variation complicates consistent feature
-extraction and classification.
-Color Variability: Different grains have varying colors, and even within
-the same type of grain, ripeness or moisture content can lead to color
-changes. Lighting conditions further exacerbate this issue.
-Texture Differences: Grain surfaces may differ in texture due to natural
-variations or handling. Identifying features based on texture requires
-advanced techniques like Local Binary Patterns (LBP) or more complex
-CNN models.
-2. Imaging Conditions
-Lighting Conditions: Changes in lighting, shadows, and reflections during
-image capture can significantly affect the quality and consistency of
-images. Ensuring uniform lighting in an industrial setting is difficult,
-leading to potential inaccuracies.
-Background Noise: Separating grain from the background, particularly in
-bulk storage or conveyor systems, is challenging. This requires robust
-segmentation algorithms to isolate grains accurately.
-Solution   Motion Blur: In real-time inspection systems, grains may be moving on
-conveyors, leading to motion blur, which can affect image clarity and
-reduce the system’s accuracy.
-3. Object Detection and Classification
-Identifying Defects and Foreign Objects: Detecting small defects or
-foreign objects like stones, chaff, or weed seeds requires high-resolution
-imaging and fine-tuned detection algorithms, often necessitating complex
-deep learning models.
-Data Annotation: Training a machine learning model to detect grain
-defects or classify different grains requires a large labeled dataset.
-Labeling this data can be time-consuming and error-prone.
-Grain Overlapping and Occlusion: In bulk inspection scenarios, grains
-may overlap, which hinders accurate detection and feature extraction.
-4. High Throughput Requirements
-Real-time Processing: In industrial applications, grains often move at high
-speeds on conveyor belts. Implementing a system that can process
-images in real-time, while maintaining high accuracy, is a major
-computational challenge.
-********** 8 **********
---- page 9 ---
-Efficient Algorithms: The system needs to balance accuracy and speed,
-especially when dealing with large datasets or high-resolution images.
-Lightweight yet accurate models like MobileNet or EfficientNet are
-essential for industrial scalability.
-5. Data and Model Generalization
-Domain Adaptation: A model trained in a controlled lab environment
-might not generalize well to field or real-world scenarios due to changes
-in lighting, grain quality, or background noise.
-Handling Different Grain Types: Cereal grain systems must handle
-various grains like wheat, rice, corn, and barley. Training a model to
-generalize across different grain types while retaining accuracy can be
-difficult.
-6. Moisture and Damage Detection
-Detecting Internal Defects: Image processing systems typically analyze
-external features, making it hard to detect internal defects like moisture
-content or fungal infections, which might require more advanced imaging
-techniques like X-ray or NIR (Near-Infrared).
-Subtle Differences in Damaged Grains: Differentiating between slightly
-damaged grains and healthy grains may be challenging, especially when
-damage does not significantly alter visible features.
-7. Cost and Scalability
-Hardware Costs: High-resolution cameras, lighting setups, and
-computing power for real-time image processing add significant costs to
-implementing a system. Industrial scalability, in terms of processing large
-volumes of grains, can further increase costs.
-Maintaining System Accuracy Over Time: The system’s performance
-might degrade over time due to hardware wear, lighting changes, or grain
-quality variations, requiring continuous calibration and maintenance.
-(5M) for key points
-(5M) for description
-Show how 2D Cartesian coordinates are converted to 3D
-Q6b
-homogeneous coordinates and vice versa. Convert the point (3,4)
-CO- 4   from Cartesian to homogeneous form. Also, determine the   [10]
-SO- 1,6
-BL- 5   corresponding 2D Cartesian coordinates for the homogeneous point
-(9,12,3).
-********** 9 **********
---- page 10 ---
-Solution
-(4M)
-(4M)
-2D point, (3,4) to Homogeneous point is (3,4,1)
-3D point (9,12,3) 2D point is (3,4)
-(2M)
-Q7a   Explain in brief the following:
-CO- 4   • World coordinate system   [10]
-SO- 1, 6
-BL- 3   • Camera coordinate system
-********** 10 **********
---- page 11 ---
-• Image coordinate system
-•   Pixel coordinate system
-Solution
-(3M) each for the description of World and camera coordinate
-system (2M) each image and pixel coordinate systems
-Q7b   Draw a labeled sketch of epipolar geometry and explain it with
-CO- 4   reference to points, epipolar lines, and the essential and fundamental   [10]
-SO- 1,6
-BL- 3   matrices.
-(5M)
-Solution
-(5M)
-********** 11 **********
-````
-
-## 2024-25 · Re-Exam · Sem 12 · Answer key · paper 10b79e3d8a03
-
-- Departments: Computer Engineering
-- Programmes: Integrated Computer 7032
-- Source: `02_Question_Papers/2024/Sem_12/Re-Exam/Integrated_Computer_7032/Computer Vision/ANS_Computer Vision(702AI0C017)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
-- Text: text (11 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI & DS)/B. Tech Intg. (CE)
-Year: III / VI/Semester VI/Semester XII(Exam Year: 2025-2026)
 Subject: Computer Vision
 Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
 Max. Marks: 100

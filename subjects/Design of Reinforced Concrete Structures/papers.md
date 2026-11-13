@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Civil_7005/Design of Reinforced Concrete Structures/QP_Design of Reinforced Concrete Structures(702CI0C016)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1054,340 +1055,7 @@ Use M 25 and Fe 415 grade of concrete and steel material respectively. Show
 detailing sketch of footing.
 ````
 
-## 2022-23 · Re-Exam · Sem 5 · paper 49379e1552ba
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/DESIGN OF REINFORCED CONCRETE STRUCTURES/Design of Reinforced Concrete Structures, 3rd Year, Sem-V, Year 2022-23, Re-Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 February 2023
-- Text: ocr (2 pages), mean OCR confidence 91.9
-
-````text
-e«
-
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program: B. Tech (Civil) Year: III Semester : V
-f AcademicY ear: 2022-2023
-Subject: Design of Reinforced Concrete Structures
-Marks: 100
-Date : 02 February 2023 Time: 10.00 am - 1.00 pm
-
-Durations: 3 (Hrs)
-
-No. of Pages:__ 2
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of IS 456-2000 is permitted in the examination hall.
-
-Ql Answer briefly: [20]
-€0-1;80-2; a. | What reasons do you ascribe to concrete gaining the status of the most widely used [5]
-BL-1 construction material?
-poy SO-2; | b. | What are the fundamental assumptions in limit state method of design? [5]
-C0-3;80-2: Discuss the concept of balanced, under reinforced and over reinforced section in | [5]
-BL-1 limit state method of design.
-ry SO-2; | d. | Explain suitability of steel as reinforcing material. [5]
-4. | Explain the various design philosophies in RCC [10]
-b. | A tee beam section having 230 mm width of web x 520 mm effective depth is
-Q2 reinforced with 5 no. 16 mm diameter bars as tension reinforcement, which
-ie 80-2; continue for a distance greater than effective depth, past the section. The section | [10]
-is subjected to a factored shear of 145 KN, check the shear stresses and calculate
-the spacing of 6 mm diameter mild steel stirrups. Use M20 & Fe415.
-a. | A simply supported rectangular beam of 6 m span carries a uniformly distributed
-load of 20 kN/m, inclusive of its self-weight. Determine the reinforcement for
-out $0-2; flexure. The materials are M 30 grade concrete and TMT bars of grade Fe 415. | [10]
-BL-2
-
-Take a beam section as 230 mm wide and 450 mm effective depth. Assume 20
-
-r mm bar size.
---- page 2 ---
-b. | Determine the moment of resistance of a beam section 230 mm wide and 460 mm
-effective depth reinforced with 2-16 mm diameter bars as compression
-reinforcement at an effective cover of 40 mm and tension reinforcement as 6 -16 | [10]
-mm bars. The materials are M20 grade concrete and Fe415 steel reinforcement.
-(Take fsc = 353 N/mm2, fec = 0.446 fck).
-
-a. | A Tee beam of effective flange width 1200 mm, thickness of flange 100 mm,
-width of rib 275 mm and effective depth of 600 mm is reinforced with 8 — 25 mm
-
-Q4 bars. Calculate the moment of resistance. The materials are M 20 grade concrete 00)
-a So: and HYSD reinforcement of grade Fe 415.
-b. | Design a short column in section to carry an axial load of 1200 KN using M 20 t10)
-mix and Fe 415 steel. Show column detailing.
-A simply supported rectangular beam of clear span 5 m carries a uniformly
-distributed superimposed load of 40 kN/m. The beam section is 230 x 500 mm
-5 overall. Design the beam. The rests on 350 mm thick brick walls running
-oe 504% perpendicular to the axis of the beam. The materials are M 20 grade of concrete (20)
-and HYSD reinforcement of grade Fe 415. (Take fsc = 353 N/mm’, fec = 0.446
-fck). Show All checks and beam detailing with bent up bar.
-Design a simply supported slab for a building. The slab details are as follows:
-Live load = 3 KN/m?
-Floor finish = 1.5 KN/m?
-Qs Short span = 4.0 m
-CO-2; SO-4; Long span = 4.8 m [20]
-aS Clear cover = 20 mm
-Thickness of support = 300 mm
-Diameter of main rebar = 10 mm
-Use M 20 & Fe 415. Show All checks and slab detailing with bent up bar.
-List different types of footing.
-Design an isolated spread footing to carry an axial load of 900 kN through a
-Q7 column of size 350 x 350 mm having 4 nos. of 25 mm bars. Safe bearing capacity
-ee S04 of soil is 100 KN/m?. Assume footing to be 1.5 m below ground level. Use M 25 (20]
-
-and Fe 415 grade of concrete and steel material respectively. Show detailing
-
-sketch of footing.
-
-Qfheo
-````
-
-## 2021-22 · Final-Exam · Sem 6 · paper 8193877a0ae9
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF REINFORECED CONCRETE STRUCTURES/Design of Reinforced con. structures,Sem6,Final,2021-22.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 April 2022
-- Text: ocr (6 pages), mean OCR confidence 67.2
-
-````text
-. SVKM’s NMIMS 4
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-“ SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2021-22
-
-Programme: B. Tech / MBA Tech (Civil) Year: III Semester: VI _
-Subject: Design of Reinforced Concrete Structures .
-
-; Marks: 100 ;
-Date: 06 April 2022 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (hrs)
-No. of Pages: _6©
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of IS 456-2000 is permitted in the examination hall.
-
-Ql Answer the following questions [20]
-CO -1,2; | a. | Determine design constants for M25 grade of Concrete and Fe500 grade of steel [05]
-SO- 1; for Working Stress Method as well as Limit State Method.
-
-BL-4
-
-CO - 1,2; | b. | When doubly reinforced sections are preferred in the design? [05]
-SO - 1;
-
-BL-2
-
-CO - 4; c. | Differentiate between short column and slender column. Explain in brief the design | [05]
-SO - 1; philosophy of a design of a slender column in Limit State Method.
-
-BL-2
-
-CO - 1,2; | d. | Explain in detail Under reinforced, over reinforced and Balance section with | [05]
-SO - 1; reference to Working Stress Method.
-
-BL-2
-
-Q2 Answer the following questions [20]
-CO - 1; a. | A simply supported beam of span 5 m has a cross section of 300 mm wide and 600 | [10]
-SO - 1; mm deep. It is reinforced with 4 bars of 25 mm diameter on tension side and 2 bars
-BL-4 of 20 mm diameter on compression side. Determine the maximum superimposed
-
-uniformly distributed load beam can carry. Use M20 Concrete and Fe415 steel and
-Working Stress Method.
-
-Page | of 6
---- page 2 ---
-CO -1; b. | A simply supported beam of span 5 m has a cross section of 230 mm wide and | [10]
-SO - 1; 600 mm deep. The beam carries maximum superimposed uniformly distributed
-BL-4 load of 20 kKN/m over the entire span. Determine area of steel required. Take load
-factors as 1.5 for dead load and 2.2 for live load. Use M20 Concrete and Fe415
-steel and Whitney’s Method.
-
-Q3 Answer the following questions [20]
-CO - 2; a. | A tee beam has following properties: [10]
-SO - 1; Width of flange = 1500 mm
-
-BL-4 Depth of flange = 100 mm
-
-Width of web = 300 mm
-
-Effective depth = 620 mm
-
-Determine the area of tension steel required if the cross section is subjected to a
-ultimate moment of 450 kN-m. Use M20 Concrete and Fe415 steel and Limit
-State Method.
-
-CO = 23 b. | A RCC beam 230 mm wide and 600 mm deep is simply supported over a span of | [10]
-SO - 2; 3 m and carries a factored uniformly distributed load of 80 kN/m inclusive of its
-BL-S5S self-weight. The tension steel of the beam consists of 2 bars of 25 mm diameter.
-Design the beam for shear using vertical stirrups. Use M20 Concrete and Fe415
-steel and Limit State Method.
-
-Q4 Design a simply supported slab over a room size measuring 3.2 m x 8.0 m | [20]
-CO-3; internally. The slab is resting on the beams all around. Live load on the slab is |
-SO-2, 4; 3 kKN/m? and floor finish load is 1 kKN/m?. Use M20 Concrete and Fe415 steel and
-BL-5 Limit State Method. Carry out necessary checks. Sketch the reinforcement details.
-Q5 Answer the following questions [20]
-CO-3; a. | Design a dog legged staircase in a room size measuring 3m x 5.5m internally. The | [12]
-SO-2, 4; floor to floor height is 3.2 m. Live load on the staircase is 4 kN/m? and floor finish
-BL-5 load is 1.5 KN/m?. Sketch the reinforcement details in the flight joining lower floor
-and mid-landing. Use M20 Concrete and Fe415 steel and Limit State Method.
-CO-4; b. | Design main steel for a short circular column to carry axial compressive load of | [08]
-SO- 2, 4; 1200 KN at an eccentricity of 200 mm The column is effectively restrained in
-BL-5 position and restrained against rotation at both ends. The unsupported length of
-column is 5 m. Use M20 Concrete and Fe415 steel and Limit State Method.
-Q6 Answer the following questions [20]
-CO-4; a. | Design a square pad footing for a column of size 300 mm X 300 mm carrying an | [14]
-SO- 2, 4; axial compressive load of 750 kN at service stage. Safe bearing capacity of soil is
-BL-5 200 KN/m?. Use M20 Concrete and Fe415 steel and Limit State Method.
-CO-4; b. | Determine the axial load carrying capacity of a RCC Column of size 300 mm x | [06]
-SO-2; 600 mm when reinforced with 10 bars of 20 mm diameter. The column is
-BL-S effectively restrained in position and restrained against rotation at both ends. The
-
-unsupported length of column is 3.0 m. Use M20 Concrete and Fe415 steel and
-Limit State Method.
-
-Page 2 of 6
---- page 3 ---
-Chart 55 COMPRESSION WITH BENDING — Circular Section
-
-1-0
-
-0.9
-
-“0-8
-
-0-7
-
-a-6
-
-6-58
-
-Oa
-
-0-3 .
-
-oar
-
-o-t
-
-O
-
-Ui ae |
-oe me Pe t, 2418 N/mm’? | d/0 © 0-05
-
-Page 3 of 6
---- page 4 ---
-0-7
-
-0-6
-
-0-5
-
-O-4
-
-0-3
-
-0-2
-
-0.1
-
-Chart 56 COMPRESSION WITH BENDING — Circular Section
-
-y2415 N/mm’ | d/D= 0-10
-
-Ry 4/400
-
-Ladin bith OF BENOING
-
-D-
-
-My tend
-
-25
-
-Page 4 of 6
---- page 5 ---
-tot
-
-f,2 415 Simm | d/Oe Os
-
-7 aw
-= _ *) A,=pnd/io0 |
-ise]
-
-rg
-
-0-9
-
-ne ae .
-on eee.
-AMIS CF AEN GINS
-
-58
-07
-= o6 maeel DN
-
-0-5
-
-od
-
-a2r
-
-ak
-
-Page 5 of 6
---- page 6 ---
-1, «418 N/mm?
-
-a/D = 0-20
-
-0-20. 2-25
-
-Page 6 of 6
-
-i
-````
-
-## 2021-22 · Re-Exam · Sem 6 · paper 6c216b26458c
+## 2022-23 · Re-Exam · Sem 6 · paper 6c216b26458c
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
@@ -1652,6 +1320,339 @@ ol
 we ale
 i
 Q
+````
+
+## 2022-23 · Re-Exam · Sem 5 · paper 49379e1552ba
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/DESIGN OF REINFORCED CONCRETE STRUCTURES/Design of Reinforced Concrete Structures, 3rd Year, Sem-V, Year 2022-23, Re-Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 February 2023
+- Text: ocr (2 pages), mean OCR confidence 91.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+e«
+
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: B. Tech (Civil) Year: III Semester : V
+f AcademicY ear: 2022-2023
+Subject: Design of Reinforced Concrete Structures
+Marks: 100
+Date : 02 February 2023 Time: 10.00 am - 1.00 pm
+
+Durations: 3 (Hrs)
+
+No. of Pages:__ 2
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of IS 456-2000 is permitted in the examination hall.
+
+Ql Answer briefly: [20]
+€0-1;80-2; a. | What reasons do you ascribe to concrete gaining the status of the most widely used [5]
+BL-1 construction material?
+poy SO-2; | b. | What are the fundamental assumptions in limit state method of design? [5]
+C0-3;80-2: Discuss the concept of balanced, under reinforced and over reinforced section in | [5]
+BL-1 limit state method of design.
+ry SO-2; | d. | Explain suitability of steel as reinforcing material. [5]
+4. | Explain the various design philosophies in RCC [10]
+b. | A tee beam section having 230 mm width of web x 520 mm effective depth is
+Q2 reinforced with 5 no. 16 mm diameter bars as tension reinforcement, which
+ie 80-2; continue for a distance greater than effective depth, past the section. The section | [10]
+is subjected to a factored shear of 145 KN, check the shear stresses and calculate
+the spacing of 6 mm diameter mild steel stirrups. Use M20 & Fe415.
+a. | A simply supported rectangular beam of 6 m span carries a uniformly distributed
+load of 20 kN/m, inclusive of its self-weight. Determine the reinforcement for
+out $0-2; flexure. The materials are M 30 grade concrete and TMT bars of grade Fe 415. | [10]
+BL-2
+
+Take a beam section as 230 mm wide and 450 mm effective depth. Assume 20
+
+r mm bar size.
+--- page 2 ---
+b. | Determine the moment of resistance of a beam section 230 mm wide and 460 mm
+effective depth reinforced with 2-16 mm diameter bars as compression
+reinforcement at an effective cover of 40 mm and tension reinforcement as 6 -16 | [10]
+mm bars. The materials are M20 grade concrete and Fe415 steel reinforcement.
+
+a. | A Tee beam of effective flange width 1200 mm, thickness of flange 100 mm,
+width of rib 275 mm and effective depth of 600 mm is reinforced with 8 — 25 mm
+
+Q4 bars. Calculate the moment of resistance. The materials are M 20 grade concrete 00)
+a So: and HYSD reinforcement of grade Fe 415.
+b. | Design a short column in section to carry an axial load of 1200 KN using M 20 t10)
+mix and Fe 415 steel. Show column detailing.
+A simply supported rectangular beam of clear span 5 m carries a uniformly
+distributed superimposed load of 40 kN/m. The beam section is 230 x 500 mm
+5 overall. Design the beam. The rests on 350 mm thick brick walls running
+oe 504% perpendicular to the axis of the beam. The materials are M 20 grade of concrete (20)
+and HYSD reinforcement of grade Fe 415. (Take fsc = 353 N/mm’, fec = 0.446
+fck). Show All checks and beam detailing with bent up bar.
+Design a simply supported slab for a building. The slab details are as follows:
+Live load = 3 KN/m?
+Floor finish = 1.5 KN/m?
+Qs Short span = 4.0 m
+CO-2; SO-4; Long span = 4.8 m [20]
+aS Clear cover = 20 mm
+Thickness of support = 300 mm
+Diameter of main rebar = 10 mm
+Use M 20 & Fe 415. Show All checks and slab detailing with bent up bar.
+List different types of footing.
+Design an isolated spread footing to carry an axial load of 900 kN through a
+Q7 column of size 350 x 350 mm having 4 nos. of 25 mm bars. Safe bearing capacity
+ee S04 of soil is 100 KN/m?. Assume footing to be 1.5 m below ground level. Use M 25 (20]
+
+and Fe 415 grade of concrete and steel material respectively. Show detailing
+
+sketch of footing.
+
+Qfheo
+````
+
+## 2021-22 · Final-Exam · Sem 6 · paper 8193877a0ae9
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/DESIGN OF REINFORECED CONCRETE STRUCTURES/Design of Reinforced con. structures,Sem6,Final,2021-22.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 April 2022
+- Text: ocr (6 pages), mean OCR confidence 67.2
+
+````text
+. SVKM’s NMIMS 4
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+“ SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2021-22
+
+Programme: B. Tech / MBA Tech (Civil) Year: III Semester: VI _
+Subject: Design of Reinforced Concrete Structures .
+
+; Marks: 100 ;
+Date: 06 April 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (hrs)
+No. of Pages: _6©
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of IS 456-2000 is permitted in the examination hall.
+
+Ql Answer the following questions [20]
+CO -1,2; | a. | Determine design constants for M25 grade of Concrete and Fe500 grade of steel [05]
+SO- 1; for Working Stress Method as well as Limit State Method.
+
+BL-4
+
+CO - 1,2; | b. | When doubly reinforced sections are preferred in the design? [05]
+SO - 1;
+
+BL-2
+
+CO - 4; c. | Differentiate between short column and slender column. Explain in brief the design | [05]
+SO - 1; philosophy of a design of a slender column in Limit State Method.
+
+BL-2
+
+CO - 1,2; | d. | Explain in detail Under reinforced, over reinforced and Balance section with | [05]
+SO - 1; reference to Working Stress Method.
+
+BL-2
+
+Q2 Answer the following questions [20]
+CO - 1; a. | A simply supported beam of span 5 m has a cross section of 300 mm wide and 600 | [10]
+SO - 1; mm deep. It is reinforced with 4 bars of 25 mm diameter on tension side and 2 bars
+BL-4 of 20 mm diameter on compression side. Determine the maximum superimposed
+
+uniformly distributed load beam can carry. Use M20 Concrete and Fe415 steel and
+Working Stress Method.
+
+Page | of 6
+--- page 2 ---
+CO -1; b. | A simply supported beam of span 5 m has a cross section of 230 mm wide and | [10]
+SO - 1; 600 mm deep. The beam carries maximum superimposed uniformly distributed
+BL-4 load of 20 kKN/m over the entire span. Determine area of steel required. Take load
+factors as 1.5 for dead load and 2.2 for live load. Use M20 Concrete and Fe415
+steel and Whitney’s Method.
+
+Q3 Answer the following questions [20]
+CO - 2; a. | A tee beam has following properties: [10]
+SO - 1; Width of flange = 1500 mm
+
+BL-4 Depth of flange = 100 mm
+
+Width of web = 300 mm
+
+Effective depth = 620 mm
+
+Determine the area of tension steel required if the cross section is subjected to a
+ultimate moment of 450 kN-m. Use M20 Concrete and Fe415 steel and Limit
+State Method.
+
+CO = 23 b. | A RCC beam 230 mm wide and 600 mm deep is simply supported over a span of | [10]
+SO - 2; 3 m and carries a factored uniformly distributed load of 80 kN/m inclusive of its
+BL-S5S self-weight. The tension steel of the beam consists of 2 bars of 25 mm diameter.
+Design the beam for shear using vertical stirrups. Use M20 Concrete and Fe415
+steel and Limit State Method.
+
+Q4 Design a simply supported slab over a room size measuring 3.2 m x 8.0 m | [20]
+CO-3; internally. The slab is resting on the beams all around. Live load on the slab is |
+SO-2, 4; 3 kKN/m? and floor finish load is 1 kKN/m?. Use M20 Concrete and Fe415 steel and
+BL-5 Limit State Method. Carry out necessary checks. Sketch the reinforcement details.
+Q5 Answer the following questions [20]
+CO-3; a. | Design a dog legged staircase in a room size measuring 3m x 5.5m internally. The | [12]
+SO-2, 4; floor to floor height is 3.2 m. Live load on the staircase is 4 kN/m? and floor finish
+BL-5 load is 1.5 KN/m?. Sketch the reinforcement details in the flight joining lower floor
+and mid-landing. Use M20 Concrete and Fe415 steel and Limit State Method.
+CO-4; b. | Design main steel for a short circular column to carry axial compressive load of | [08]
+SO- 2, 4; 1200 KN at an eccentricity of 200 mm The column is effectively restrained in
+BL-5 position and restrained against rotation at both ends. The unsupported length of
+column is 5 m. Use M20 Concrete and Fe415 steel and Limit State Method.
+Q6 Answer the following questions [20]
+CO-4; a. | Design a square pad footing for a column of size 300 mm X 300 mm carrying an | [14]
+SO- 2, 4; axial compressive load of 750 kN at service stage. Safe bearing capacity of soil is
+BL-5 200 KN/m?. Use M20 Concrete and Fe415 steel and Limit State Method.
+CO-4; b. | Determine the axial load carrying capacity of a RCC Column of size 300 mm x | [06]
+SO-2; 600 mm when reinforced with 10 bars of 20 mm diameter. The column is
+BL-S effectively restrained in position and restrained against rotation at both ends. The
+
+unsupported length of column is 3.0 m. Use M20 Concrete and Fe415 steel and
+Limit State Method.
+
+Page 2 of 6
+--- page 3 ---
+Chart 55 COMPRESSION WITH BENDING — Circular Section
+
+1-0
+
+0.9
+
+“0-8
+
+0-7
+
+a-6
+
+6-58
+
+Oa
+
+0-3 .
+
+oar
+
+o-t
+
+O
+
+Ui ae |
+oe me Pe t, 2418 N/mm’? | d/0 © 0-05
+
+Page 3 of 6
+--- page 4 ---
+0-7
+
+0-6
+
+0-5
+
+O-4
+
+0-3
+
+0-2
+
+0.1
+
+Chart 56 COMPRESSION WITH BENDING — Circular Section
+
+y2415 N/mm’ | d/D= 0-10
+
+Ry 4/400
+
+Ladin bith OF BENOING
+
+D-
+
+My tend
+
+25
+
+Page 4 of 6
+--- page 5 ---
+tot
+
+f,2 415 Simm | d/Oe Os
+
+7 aw
+= _ *) A,=pnd/io0 |
+ise]
+
+rg
+
+0-9
+
+ne ae .
+on eee.
+AMIS CF AEN GINS
+
+58
+07
+= o6 maeel DN
+
+0-5
+
+od
+
+a2r
+
+ak
+
+Page 5 of 6
+--- page 6 ---
+1, «418 N/mm?
+
+a/D = 0-20
+
+0-20. 2-25
+
+Page 6 of 6
+
+i
 ````
 
 ## 2021-22 · Re-Exam · Sem 6 · paper cf469211d1eb

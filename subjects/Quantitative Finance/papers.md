@@ -736,6 +736,148 @@ CO-3; SO- ; oF
 BL-4
 ````
 
+## 2023-24 · Exam not stated · Sem 6 · paper 670c4233e281
+
+- Departments: Data Science
+- Programmes: MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM VI/Quantitative Finance/Quantitative Finance.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 90.8
+
+````text
+/
+
+SVKM’S NMIMS fb
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024 :
+
+Program: BTech/ MBA Tech; Stream -- Data Science Year: II Semester: VI
+
+Subject: Quantitative Finance Time: 3_ hrs (2:apmto S#00pm)
+Date:_29/ 4 /24 . No. of Pages:04
+
+Marks: 100 :
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. .
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page (worksheet).
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. ;
+
+Ql :
+Answer briefly: [20]
+a. “Time Value of Money in the context of Banking Operations has several
+ee real-life applications”. Build upon the statements and draw the necessary [05]
+inferences vis-a-vis real-life examples.
+b. “There are fundamental differences between theories propagated by the
+ee Single Index Model & the Modern Portfolio Theory”. Elaborate upon the [05]
+7 statement and mention the characteristics of each.
+o> onset Cc. “The 99% 28-day VaR for a multi-asset portfolio is INR 7.95 Crores”. What [05]
+-BL-1 do you infer from the statement?
+d. “A lot of recent frauds in the Banking Sector are a classic offshoot of
+ae Operational Risks”. Explain the statement in lieu of the recent frauds in the [05]
+
+Banking Sector.
+--- page 2 ---
+i
+
+Seema has constructed a portfolio consisting of 2 stocks Ay-& B.
+
+A has forecasted return of 12% & risk which is 1.5x of return, while B has
+
+forecasted risk of 24% & return which is 0.75x of risk respectively.
+
+Q2
+cr aed The coefficient of correlation between them is (-) 0.29. al
+a) Optimize Seema’s Portfolio given that the G-secs yield-6%
+b) Estimate the risk & return of the Optimized Portfolio
+c) Construct a data table to validate the results
+Vir is an investment banker and is analyzing the following stocks with prices as >
+under.
+Calculate the 99%, 21 Day VaR for an equal weighted portfolio of 5 stocks
+having the following prices at the end of each of the last 5 years:
+7
+al . — 7 a = [20]
+CO1,SO1 1 700 620
+=“ 2 600 694
+3 560 772
+4 850 | 846
+5 760 916 Dy
+Draw underlying inferences for the results you have achieved. Is there an advice
+you would like to give Vir?
+A) Estimate the Price of a Bond that has a FV of $1000, and carrying an
+Q4 annual coupon of 8%, paid semi-annually. The Bond Investors expect a
+. SO- YTM of 10% (annual). The Bond has 5 years to maturity. Use the Excel} [20]
+BL-5 Functions and the tabular approach to achieve the results.
+--- page 3 ---
+B) Additionally, also use the Spin Change Form Controls to test the
+sensitivity of Yields to Bond Prices & establish the relation that exists.
+
+Use a range of 5% to 15% with a unit increment.
+
+A) A bank recently disbursed a $10 million loan of which $6 million is
+currently outstanding. According to the bank’s internal rating model, the
+beneficiary has a 4% chance of defaulting over the next year. In case that
+happens, the estimated loss rate is 43%. The probability of default and
+
+the loss rate have standard deviations of 17% & 34%, respectively.
+
+Q5 Determine the expected and unexpected loss figures for the bank.
+CO3-; SO- [20]
+C as Do not assume Bernoulli's theorem for PD's
+B) A firm earned an EPS of $8 and has 300,000 shares outstanding. The
+corporate tax rate is 40%. The Co maintained an ICR of 5x. Given that
+the Operating expenses including Depreciation, were limited to 40% of
+Revenues and the company earned a contribution margin of 75%.
+Estimate the Pre-tax DSCR and Construct the P&L extract for the firm.
+Assume Principal Repayments due of $ 750,000.
+Assume you are applying the Black Scholes’ Merton Model for pricing options.
+The underlying is currently trading at $147 and 14 days remain to expiry. The
+Q6 US T-Bills yield 4% annually.
+CO3-; SO- [20]
+8; The at-the-money Call Option on the underlying is priced at $1.85.
+©>)| BL-5
+a) Estimate the Implied Volatility vis-a-vis the Options Contract?
+b) What would a PUT be priced at?
+The following information is presented to you for Amazing Pharma per the most
+recent financials:
+Q7 a) Revenues of $15,000 Mn
+CO3-; SO- b) GPM of 60% [20]
+8; c) Opex limited to 30% of Gross Profits
+BL-5 d) ICR of 3x
+
+e) Corporate Tax Rate of 40%
+f) 36 Million Shares o/s
+g) The firm adopts a retention policy of 60%
+--- page 4 ---
+i
+
+F
+The dividend paid this year is expected to grow by 6% annually for the-hext 5
+years and thereafter by 4% perpetually.
+
+The US-T-Bills yield 5%. The Stock B is 1.25 and the Market Yields have been
+estimated to be 13%. “
+
+Estimate the Intrinsic Value of the Share.
+
+The share is currently trading at $281, what is your inference on the valuation
+
+and what position would you advise on the stock? .
+````
+
 ## 2023-24 · Re-Exam · Sem 6 · paper 57f0bb791de3
 
 - Departments: Data Science
@@ -1027,146 +1169,4 @@ Estimate the Intrinsic Value of the Share.
 The share is currently trading at $374, what is your inference on the valuation
 
 and what position would you advise on the stock?
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 670c4233e281
-
-- Departments: Data Science
-- Programmes: MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM VI/Quantitative Finance/Quantitative Finance.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 90.8
-
-````text
-/
-
-SVKM’S NMIMS fb
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024 :
-
-Program: BTech/ MBA Tech; Stream -- Data Science Year: II Semester: VI
-
-Subject: Quantitative Finance Time: 3_ hrs (2:apmto S#00pm)
-Date:_29/ 4 /24 . No. of Pages:04
-
-Marks: 100 :
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. .
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page (worksheet).
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary. ;
-
-Ql :
-Answer briefly: [20]
-a. “Time Value of Money in the context of Banking Operations has several
-ee real-life applications”. Build upon the statements and draw the necessary [05]
-inferences vis-a-vis real-life examples.
-b. “There are fundamental differences between theories propagated by the
-ee Single Index Model & the Modern Portfolio Theory”. Elaborate upon the [05]
-7 statement and mention the characteristics of each.
-o> onset Cc. “The 99% 28-day VaR for a multi-asset portfolio is INR 7.95 Crores”. What [05]
--BL-1 do you infer from the statement?
-d. “A lot of recent frauds in the Banking Sector are a classic offshoot of
-ae Operational Risks”. Explain the statement in lieu of the recent frauds in the [05]
-
-Banking Sector.
---- page 2 ---
-i
-
-Seema has constructed a portfolio consisting of 2 stocks Ay-& B.
-
-A has forecasted return of 12% & risk which is 1.5x of return, while B has
-
-forecasted risk of 24% & return which is 0.75x of risk respectively.
-
-Q2
-cr aed The coefficient of correlation between them is (-) 0.29. al
-a) Optimize Seema’s Portfolio given that the G-secs yield-6%
-b) Estimate the risk & return of the Optimized Portfolio
-c) Construct a data table to validate the results
-Vir is an investment banker and is analyzing the following stocks with prices as >
-under.
-Calculate the 99%, 21 Day VaR for an equal weighted portfolio of 5 stocks
-having the following prices at the end of each of the last 5 years:
-7
-al . — 7 a = [20]
-CO1,SO1 1 700 620
-=“ 2 600 694
-3 560 772
-4 850 | 846
-5 760 916 Dy
-Draw underlying inferences for the results you have achieved. Is there an advice
-you would like to give Vir?
-A) Estimate the Price of a Bond that has a FV of $1000, and carrying an
-Q4 annual coupon of 8%, paid semi-annually. The Bond Investors expect a
-. SO- YTM of 10% (annual). The Bond has 5 years to maturity. Use the Excel} [20]
-BL-5 Functions and the tabular approach to achieve the results.
---- page 3 ---
-B) Additionally, also use the Spin Change Form Controls to test the
-sensitivity of Yields to Bond Prices & establish the relation that exists.
-
-Use a range of 5% to 15% with a unit increment.
-
-A) A bank recently disbursed a $10 million loan of which $6 million is
-currently outstanding. According to the bank’s internal rating model, the
-beneficiary has a 4% chance of defaulting over the next year. In case that
-happens, the estimated loss rate is 43%. The probability of default and
-
-the loss rate have standard deviations of 17% & 34%, respectively.
-
-Q5 Determine the expected and unexpected loss figures for the bank.
-CO3-; SO- [20]
-C as Do not assume Bernoulli's theorem for PD's
-B) A firm earned an EPS of $8 and has 300,000 shares outstanding. The
-corporate tax rate is 40%. The Co maintained an ICR of 5x. Given that
-the Operating expenses including Depreciation, were limited to 40% of
-Revenues and the company earned a contribution margin of 75%.
-Estimate the Pre-tax DSCR and Construct the P&L extract for the firm.
-Assume Principal Repayments due of $ 750,000.
-Assume you are applying the Black Scholes’ Merton Model for pricing options.
-The underlying is currently trading at $147 and 14 days remain to expiry. The
-Q6 US T-Bills yield 4% annually.
-CO3-; SO- [20]
-8; The at-the-money Call Option on the underlying is priced at $1.85.
-©>)| BL-5
-a) Estimate the Implied Volatility vis-a-vis the Options Contract?
-b) What would a PUT be priced at?
-The following information is presented to you for Amazing Pharma per the most
-recent financials:
-Q7 a) Revenues of $15,000 Mn
-CO3-; SO- b) GPM of 60% [20]
-8; c) Opex limited to 30% of Gross Profits
-BL-5 d) ICR of 3x
-
-e) Corporate Tax Rate of 40%
-f) 36 Million Shares o/s
-g) The firm adopts a retention policy of 60%
---- page 4 ---
-i
-
-F
-The dividend paid this year is expected to grow by 6% annually for the-hext 5
-years and thereafter by 4% perpetually.
-
-The US-T-Bills yield 5%. The Stock B is 1.25 and the Market Yields have been
-estimated to be 13%. “
-
-Estimate the Intrinsic Value of the Share.
-
-The share is currently trading at $281, what is your inference on the valuation
-
-and what position would you advise on the stock? .
 ````

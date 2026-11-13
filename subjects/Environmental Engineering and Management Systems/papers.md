@@ -179,6 +179,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_05/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS/Environmental Engineering and Management Systems 2018-19 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 26 November 2018
 - Text: ocr (2 pages), mean OCR confidence 89.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -265,7 +266,6 @@ Environment Protection Act
 
 Type of Pollutants.
 
-2 2 2 2 ie oe ae ae oo oR
 
 (7)
 (7)
@@ -803,6 +803,195 @@ K
 af
 ````
 
+## 2014-15 · Re-Exam · Sem 4 · paper 6d6539dbe8e6
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS B TECH (MECH) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 03/07/2015
+- Text: ocr (1 page), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: II Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015 a
+Subject: Environmental Engineering and Management a ‘Mes, %
+Marks: 60°
+Date: 03/07/2015 Time: oy 00-pm to 5.00, pin
+Durations: (2 3 (hrs)
+
+Re-Examination
+
+anemone
+
+Instruction: Candidates should read carefully the instructions Printed 01 on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks. *
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Ql. Attempt any four (5) |
+A_| Discuss briefly with neat sketch Food Chains and Food Webs,
+B | Discuss briefly the sources and adverse effects of Noise Pollution. (5)
+C | Illustrate the storage of various types of Bio-Medical Waste in brief. (5)
+D | Illustrate the Problems related to Dams and water crisis. (5)
+E | Differentiate between rehabilitation and resettlement of people. | (5)
+Q2. | A | Discuss in detail with neat various types of Ecological Pyramids. (10)
+B_| Discuss in detail with relevant examples Tropical Forest Ecosystem. (10)
+Q3. | A | Discuss in detail causes, effects and control for noise pollution (10)
+B | Discuss in detail any four control devices used to control Air Pollution. (10)
+Q4. | A_| Discuss in detail classification of Hazardous Waste with relevant example. (10)
+B | Explain in detail Physical Characteristics of Solid Waste (10)
+Q5. | A | Explain in detail use and over-utilization of surface and ground water. (10)
+B | Explain in detail various alternative energy sources. ‘ (10)
+Q6. | A | Discuss in detail Role of an individual in prevention of pollution (10)
+B | Explain in detail consumerism and generation of waste products. (10)
+Q7. | A | Explain in detail causes, phenomenon, and adverse effect of acid rain. (10)
+B | Explain in detail Urban problems related to energy. (10)
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 26f08d8e5b2c
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS B TECH (MECHANICAL) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 15/05/2015
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+b
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: II Semester: IV
+Batch 2013-14
+Academic Year: 2014-2015
+
+Subject: Environmental Engineering and Management Syste
+
+Date: 15/05/2015
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Illustrate answers with neat sketches wherever applicable
+
+8) Assume suitable data if not given and mention it clearly
+
+Ql. Discuss briefly any four of the following:
+A. Food Chain and Food Web (5)
+B_ Thermal Pollution (5)
+C_ Causes and Management of Draughts (5)
+D_ Sources of Solid Waste . (5)
+E Ozone Layer Depletion - Phenomenon (5)
+
+Q2. A What are the different types of Ecosystem, explain energy flow in an Ecosystem (10)
+B_ Enlist the material cycles in Ecosystem and explain any two with a neat sketch (10)
+
+Q3. A Define Air Pollution and explain effects of air pollution on Human, Plant and (19)
+Property.
+
+B_ Define Noise Pollution. Explain effects of noise pollution and its control (10)
+
+measures
+--- page 2 ---
+Q4.
+
+Q5.
+
+Q6.
+
+Q7.
+
+A
+
+A
+
+A
+
+A
+
+Explain in detail Physical and Chemical Characteristics of Solid Waste
+Explain in detail disposal methodology for Hazardous Waste
+
+Explain briefly the importance of Water Conservation
+
+Explain briefly use and over exploitation of Forest Resources
+
+Explain briefly causes and effects of Soil Erosion ,
+
+Explain any two renewable energy resources
+
+Explain in detail concept of reuse and recycling techniques with relevant
+
+examples
+Explain in detail Water (Prevention and Control of Pollution) Act - 1974
+
+Explain in detail concept of Rainwater Harvesting and benefits of Rainwater
+
+Harvesting
+Discuss effects of Oil Pollution on Surface Water
+
+Enlist the types of Bio-Medical Waste
+
+r
+
+(10)
+
+(10)
+
+(5)
+
+(5)
+
+(5)
+
+(5)
+
+(10)
+
+(10)
+
+(10)
+
+6)
+
+(6)
+
+Fs
+````
+
 ## 2014-15 · Re-Exam · Sem 4 · paper 3f3ea8c5bd18
 
 - Departments: Mechanical
@@ -1037,195 +1226,6 @@ K OS
 (10)
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 6d6539dbe8e6
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS B TECH (MECH) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 03/07/2015
-- Text: ocr (1 page), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: II Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015 a
-Subject: Environmental Engineering and Management a ‘Mes, %
-Marks: 60°
-Date: 03/07/2015 Time: oy 00-pm to 5.00, pin
-Durations: (2 3 (hrs)
-
-Re-Examination
-
-anemone
-
-Instruction: Candidates should read carefully the instructions Printed 01 on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks. *
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Ql. Attempt any four (5) |
-A_| Discuss briefly with neat sketch Food Chains and Food Webs,
-B | Discuss briefly the sources and adverse effects of Noise Pollution. (5)
-C | Illustrate the storage of various types of Bio-Medical Waste in brief. (5)
-D | Illustrate the Problems related to Dams and water crisis. (5)
-E | Differentiate between rehabilitation and resettlement of people. | (5)
-Q2. | A | Discuss in detail with neat various types of Ecological Pyramids. (10)
-B_| Discuss in detail with relevant examples Tropical Forest Ecosystem. (10)
-Q3. | A | Discuss in detail causes, effects and control for noise pollution (10)
-B | Discuss in detail any four control devices used to control Air Pollution. (10)
-Q4. | A_| Discuss in detail classification of Hazardous Waste with relevant example. (10)
-B | Explain in detail Physical Characteristics of Solid Waste (10)
-Q5. | A | Explain in detail use and over-utilization of surface and ground water. (10)
-B | Explain in detail various alternative energy sources. ‘ (10)
-Q6. | A | Discuss in detail Role of an individual in prevention of pollution (10)
-B | Explain in detail consumerism and generation of waste products. (10)
-Q7. | A | Explain in detail causes, phenomenon, and adverse effect of acid rain. (10)
-B | Explain in detail Urban problems related to energy. (10)
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 26f08d8e5b2c
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS B TECH (MECHANICAL) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 15/05/2015
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-b
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: II Semester: IV
-Batch 2013-14
-Academic Year: 2014-2015
-
-Subject: Environmental Engineering and Management Syste
-
-Date: 15/05/2015
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Illustrate answers with neat sketches wherever applicable
-
-8) Assume suitable data if not given and mention it clearly
-
-Ql. Discuss briefly any four of the following:
-A. Food Chain and Food Web (5)
-B_ Thermal Pollution (5)
-C_ Causes and Management of Draughts (5)
-D_ Sources of Solid Waste . (5)
-E Ozone Layer Depletion - Phenomenon (5)
-
-Q2. A What are the different types of Ecosystem, explain energy flow in an Ecosystem (10)
-B_ Enlist the material cycles in Ecosystem and explain any two with a neat sketch (10)
-
-Q3. A Define Air Pollution and explain effects of air pollution on Human, Plant and (19)
-Property.
-
-B_ Define Noise Pollution. Explain effects of noise pollution and its control (10)
-
-measures
---- page 2 ---
-Q4.
-
-Q5.
-
-Q6.
-
-Q7.
-
-A
-
-A
-
-A
-
-A
-
-Explain in detail Physical and Chemical Characteristics of Solid Waste
-Explain in detail disposal methodology for Hazardous Waste
-
-Explain briefly the importance of Water Conservation
-
-Explain briefly use and over exploitation of Forest Resources
-
-Explain briefly causes and effects of Soil Erosion ,
-
-Explain any two renewable energy resources
-
-Explain in detail concept of reuse and recycling techniques with relevant
-
-examples
-Explain in detail Water (Prevention and Control of Pollution) Act - 1974
-
-Explain in detail concept of Rainwater Harvesting and benefits of Rainwater
-
-Harvesting
-Discuss effects of Oil Pollution on Surface Water
-
-Enlist the types of Bio-Medical Waste
-
-r
-
-(10)
-
-(10)
-
-(5)
-
-(5)
-
-(5)
-
-(5)
-
-(10)
-
-(10)
-
-(10)
-
-6)
-
-(6)
-
-Fs
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 5dbfb4b91fab
 
 - Departments: Mechanical
@@ -1233,6 +1233,7 @@ Fs
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS/ENVIRONMENTAL ENGINEERING AND MANAGEMENT SYSTEMS BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: exam date: 04/07/2014
 - Text: ocr (2 pages), mean OCR confidence 90.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1262,7 +1263,6 @@ on the cover of the Answer Book, which is provided for their use.
 4. All questions carry equal marks.
 5. Answer to each new question to be started on a fresh page.
 6. Figures in brackets on the right hand side indicate full marks.
-SRST AT I GSI SSRI I IONS GE SE SRN ON TN Ws ESS NE ERIE OE DAE IEEE
 
 Q.1) | Solve Any Four 20
 a) What is ecosystem? Discuss components of an ecosystem. 05

@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_IT_7001/Embedded Systems/QP_Embedded Systems(702IT0C015)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -942,6 +943,108 @@ BL3. examples where one might be preferred over the other.
 2|Page
 ````
 
+## 2024-25 · Re-Exam · Sem 6 · paper 74f46f141bc0
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/EMBEDDED SYSTEMS/Embedded System - Sem VI, Batch 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 2/5/25
+- Text: ocr (2 pages), mean OCR confidence 88.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2024-2025
+
+Program: B. Tech Stream: MXTC Year: III Semester: VI
+Subject: Embedded Systems Time: 3 Hrs. pmo Spm)
+Date: 2/5/25- No. of Pages: 02
+
+Marks: 100
+
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Answer briefly
+On| A. | How is the SRAM different than DRAM? [5]
+erie “1B. | Draw the Pin diagram of RS-232 connector (9-Pins). [5]
+CO-1; SO-1; : F
+
+BL 2 C. | Compare the features of various PIC-18 family members. [5]
+anne ois D. | What do you mean by simulator-based debugging? [5]
+
+Q.2
+CO-1; SO-1; A. | What do you understand by an embedded system? Elaborate on the [10]
+
+BL-2 hardware-software co-design methodology involved in its creation.
+Ae B. | Discuss the role of Real-Time Operating Systems (RTOS) in j [10]
+
+BL2 embedded systems. Also highlight its key features and compare
+
+different RTOS types in terms of performance and use cases.
+
+Page 1 of 2
+--- page 2 ---
+Q.3
+
+A. | Explain the following instructions used in PIC-18 along with a | [10]
+suitable example:
+
+CO-1; SO-1; a) SUBLW
+BL-2 b) MOVFF
+
+c) ANDWF
+
+d) RRNCF
+
+B. | Describe CAN communication protocol and highlight its | [10]
+
+acclahe a significance. How does its frame format contribute to its
+advantages?
+Q.4
+
+CO-2; SQ-1;_ | A. | Why UML is important in embedded systems? Draw and explain its | [10]
+BL-2 basic building block in detail.
+
+CO-3; SO-2; | B. | Compare compilers and cross-compilers. Briefly explain the files } [10]
+
+BL-4 generated during cross-compilation process.
+Q.5
+CO-1;SO-1; | A. | List down the important Interfacing techniques in Embedded | [10]
+BL-2 Systems. Discuss any two in detail.
+Goatsal. B. | Draw the interfacing diagram to interface 8051 with DAC-0808 and | [10]
+i at write the assembly language program to generate sinusoidal
+BL-6 y
+waveform.
+_Q.6
+CO-1;SO0-2; | A. | Write a PIC-18 assembly language program for multiplying a three- | [10]
+BL-2, 6 byte number located at 0x20 to 0x22 by 8. ;
+CO-3;SO-1; | B. | What do you mean by RTOS? Define its types and eeay explain | [10]
+BL-2 the basic functionalities of RTOS.
+Q7 Write short notes on the following:
+CO SPE | A. | 12 Protocol [5]
+Cou SOT |B. | Embedded Kernel [5]
+Ey muse ate Memory Management in RTOS ; [5]
+Oe "bip. Boundary Scan 5]
+
+Page 2 of 2
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper 8b6af00e9b2f
 
 - Departments: Information Technology
@@ -1500,6 +1603,200 @@ soe, 8 their functionality and importance in preventing race conditions and main
 integrity.
 ````
 
+## 2023-24 · Re-Exam · Sem 6 · paper 75cbcc64c04c
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/EMBEDDED SYSTEMS/Embdded systems, Sem-VI, Re Exam Batch 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.1
+
+````text
+SVKM’S NMIMS Nene
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE
+Academic Year: 2023-2024
+
+Program: B. Tech Stream: Mechatronics Engineering Year: Tl Semester: VI
+Subject: Embedded Systems Time: 3 Hrs. (2p to 5pm)
+Date: 99 ]04 [2024 No. of Pages: 02
+
+Marks: 100
+
+Re-Examination 2022-2023
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Answer briefly
+COB SOS |“ | Compare SRAM and DRAM. [5]
+B. | Why the hardware-software co-design is important in embedded | [5]
+CO-1; SO-1; systems?
+BL-2
+
+CO-1; SO-1; | C. | Draw the memory organisation in PIC-18 and expiain the process of ; [5]
+BL-2 bank selection in it.
+
+eos “1 1D. | List the advantages of simulator-based debugging. [5]
+Q.2
+
+CO-1; SO-1; | A. | What is an embedded system? Elaborate the design matrices of an | [10]
+BL-2 embedded system in detail.
+
+CO-1;SO-1; | B. | Briefly describe the RS-232 protocol in detail. Also compare RS- | [10]
+BL-3 232 and RS-485.
+
+Q.3
+
+Page 1 of 2
+--- page 2 ---
+aes “lb | A. | Draw the block diagram of PIC-18 and describe any three blocks. [10]
+
+CO-1;SO-1; | B. | Discuss Semaphores along with its types in detail. Also discuss the | [10]
+BL- 3 possible bugs in semaphores. 3
+
+Q.4
+CO-2;SO-1; | A. | Why I2C protocol is important in embedded systems? Draw its data | [10]
+BL-2 format and explain the process of data transfer on the I2C Bus.
+CO-1; SO-2; B. | What are simulators? How do they help in embedded system development? List | [10]
+BL-3 down its advantages and disadvantages.
+Q5
+CO-1; SO-1; A. | How the RISC and CISC architectures are different from each other? Justify | [10]
+BL-4 which one is better with respect to the end user?
+B. | Draw the interfacing diagram program to interface 8051 with DAC- | [10]
+CO-1: $02: 0808 and write the assembly language to generate staircase
+
+BL-6 waveform.
+
+Q.6
+CO-1; SO-2; | A. | Write a PIC-18 assembly language program for multiplying a three- | [10]
+BL-2, 6 byte number located at 0x20 to 0x22 by 8.
+
+CO-3; SO-1; | B. | Define process in RTOS. Explain Process states and state transition | [10]
+BL-4 in detail.
+
+Q.7 Write short notes on the following:
+cow 8° ty A. Benefits of Controller Area Network (CAN) [5]
+ees “ly | B. | Kemel and its services [5]
+miata A 1. Memory Management. in RTOS: [5]
+ee he | Cross-compilation [5]
+Page 2 of 2
+````
+
+## 2022-23 · Exam not stated · Sem 7 · paper e20aae06db06
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VII SEMESTER/EMBEDDED SYSTEM/Embedded Systems.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 85.1
+
+````text
+“a
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech. Stream: EXTC Year: 1V Semester: VII
+
+Subject: Embedded Systems Time: 03 Hrs. (44:00 amto 2:00pm)
+Date:_19 /06 / 23. No. of Pages: 02
+
+Marks: 100
+
+Special Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+-_ of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly: (Each question is of five marks) [20]
+CO-48 a. List the various analog and digital components which are essential to build
+80-6,7; BL-1 an embedded system.
+eeain pia | > Sketch and list all the fields of extended CAN message format.
+~ C03; , : ro ; .
+50-67; BL-1 | & What is deadlock condition? How it occurs?
+CO-4; . c 7
+50.6.7: BLA d. Compare simulator and emulator-based testing.
+Q2
+cou. a. List and discuss the various types of microprocessor and microcontrollers [10]
+$0-6,7,BL-2 used in the design of embedded systems.
+b. Draw and discuss the FSM model for the seat belt warning system and list
+CO-1; ;
+S0-6,7;BL- various states and events. [10]
+23
+
+Page Lof2
+--- page 2 ---
+Q3
+
+a. Discuss the different types of memories used in embedded systems in
+
+CO-1; [10]
+SO-07; BL2 detail.
+CO-2;
+
+b. Discuss the RS232 protocol of serial communication in detail. [10]
+$0-6,7; BL-2
+Q4
+
+: a. Illustrate interfacing diagram of 16x2 LCD with 8051 and write a program
+
+cont e , [10]
+$0-6,7; BL-3 in embedded C/assembly language to display “EXTC” on LCD.
+CO-3: b. Discuss the types of scheduling methods (Preemptive and non-Preemptive) [10]
+SO aH Bie used in RTOS.
+Qs
+Go:3: a. Discuss embedded firmware design approaches used in embedded system [10]
+80-6,7; BL-2 design in detail.
+CO-3; b. Define semaphore? What is the need of semaphores? Discuss any two
+S0-6,7; BL- , , [10]
+1,2 types of semaphore in detail.
+Q6
+CO-3; F ; : :
+$0.67:BL-1 | & List and discuss various hardware debugging tools. [10]
+Och b. Design digital camera system with its requirement and hardware software [10]
+S0-6,7; BL-6 specifications.
+Q7
+
+a. Write a short note on.
+CO-4;
+$0.67 BL-2 1. Embedded OS Trends [12]
+
+2. Development Language Trends
+
+CO-3; b. What is VxWorks? Describe the features of VxWorks in detail. [8]
+
+SO-6,7; BL-2
+
+Page 2of 2
+````
+
 ## 2022-23 · Final-Exam · Sem 6 · paper a98c4daabee5
 
 - Departments: Electronics and Telecommunication
@@ -1804,7 +2101,7 @@ ey | D. Boundary Scan [5]
 Page 2 of 2
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper 63a6ace1d1fe
+## 2022-23 · Final-Exam · Sem 9 · paper 63a6ace1d1fe
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
@@ -2341,200 +2638,6 @@ ae SO-2; b. List and discuss services provided by an Operating System? [10]
 K
 
 2/o.
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper 75cbcc64c04c
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/EMBEDDED SYSTEMS/Embdded systems, Sem-VI, Re Exam Batch 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.1
-
-````text
-SVKM’S NMIMS Nene
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE
-Academic Year: 2023-2024
-
-Program: B. Tech Stream: Mechatronics Engineering Year: Tl Semester: VI
-Subject: Embedded Systems Time: 3 Hrs. (2p to 5pm)
-Date: 99 ]04 [2024 No. of Pages: 02
-
-Marks: 100
-
-Re-Examination 2022-2023
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Answer briefly
-COB SOS |“ | Compare SRAM and DRAM. [5]
-B. | Why the hardware-software co-design is important in embedded | [5]
-CO-1; SO-1; systems?
-BL-2
-
-CO-1; SO-1; | C. | Draw the memory organisation in PIC-18 and expiain the process of ; [5]
-BL-2 bank selection in it.
-
-eos “1 1D. | List the advantages of simulator-based debugging. [5]
-Q.2
-
-CO-1; SO-1; | A. | What is an embedded system? Elaborate the design matrices of an | [10]
-BL-2 embedded system in detail.
-
-CO-1;SO-1; | B. | Briefly describe the RS-232 protocol in detail. Also compare RS- | [10]
-BL-3 232 and RS-485.
-
-Q.3
-
-Page 1 of 2
---- page 2 ---
-aes “lb | A. | Draw the block diagram of PIC-18 and describe any three blocks. [10]
-
-CO-1;SO-1; | B. | Discuss Semaphores along with its types in detail. Also discuss the | [10]
-BL- 3 possible bugs in semaphores. 3
-
-Q.4
-CO-2;SO-1; | A. | Why I2C protocol is important in embedded systems? Draw its data | [10]
-BL-2 format and explain the process of data transfer on the I2C Bus.
-CO-1; SO-2; B. | What are simulators? How do they help in embedded system development? List | [10]
-BL-3 down its advantages and disadvantages.
-Q5
-CO-1; SO-1; A. | How the RISC and CISC architectures are different from each other? Justify | [10]
-BL-4 which one is better with respect to the end user?
-B. | Draw the interfacing diagram program to interface 8051 with DAC- | [10]
-CO-1: $02: 0808 and write the assembly language to generate staircase
-
-BL-6 waveform.
-
-Q.6
-CO-1; SO-2; | A. | Write a PIC-18 assembly language program for multiplying a three- | [10]
-BL-2, 6 byte number located at 0x20 to 0x22 by 8.
-
-CO-3; SO-1; | B. | Define process in RTOS. Explain Process states and state transition | [10]
-BL-4 in detail.
-
-Q.7 Write short notes on the following:
-cow 8° ty A. Benefits of Controller Area Network (CAN) [5]
-ees “ly | B. | Kemel and its services [5]
-miata A 1. Memory Management. in RTOS: [5]
-ee he | Cross-compilation [5]
-Page 2 of 2
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper 74f46f141bc0
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/EMBEDDED SYSTEMS/Embedded System - Sem VI, Batch 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 2/5/25
-- Text: ocr (2 pages), mean OCR confidence 88.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2024-2025
-
-Program: B. Tech Stream: MXTC Year: III Semester: VI
-Subject: Embedded Systems Time: 3 Hrs. pmo Spm)
-Date: 2/5/25- No. of Pages: 02
-
-Marks: 100
-
-Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Answer briefly
-On| A. | How is the SRAM different than DRAM? [5]
-erie “1B. | Draw the Pin diagram of RS-232 connector (9-Pins). [5]
-CO-1; SO-1; : F
-
-BL 2 C. | Compare the features of various PIC-18 family members. [5]
-anne ois D. | What do you mean by simulator-based debugging? [5]
-
-Q.2
-CO-1; SO-1; A. | What do you understand by an embedded system? Elaborate on the [10]
-
-BL-2 hardware-software co-design methodology involved in its creation.
-Ae B. | Discuss the role of Real-Time Operating Systems (RTOS) in j [10]
-
-BL2 embedded systems. Also highlight its key features and compare
-
-different RTOS types in terms of performance and use cases.
-
-Page 1 of 2
---- page 2 ---
-Q.3
-
-A. | Explain the following instructions used in PIC-18 along with a | [10]
-suitable example:
-
-CO-1; SO-1; a) SUBLW
-BL-2 b) MOVFF
-
-c) ANDWF
-
-d) RRNCF
-
-B. | Describe CAN communication protocol and highlight its | [10]
-
-acclahe a significance. How does its frame format contribute to its
-advantages?
-Q.4
-
-CO-2; SQ-1;_ | A. | Why UML is important in embedded systems? Draw and explain its | [10]
-BL-2 basic building block in detail.
-
-CO-3; SO-2; | B. | Compare compilers and cross-compilers. Briefly explain the files } [10]
-
-BL-4 generated during cross-compilation process.
-Q.5
-CO-1;SO-1; | A. | List down the important Interfacing techniques in Embedded | [10]
-BL-2 Systems. Discuss any two in detail.
-Goatsal. B. | Draw the interfacing diagram to interface 8051 with DAC-0808 and | [10]
-i at write the assembly language program to generate sinusoidal
-BL-6 y
-waveform.
-_Q.6
-CO-1;SO0-2; | A. | Write a PIC-18 assembly language program for multiplying a three- | [10]
-BL-2, 6 byte number located at 0x20 to 0x22 by 8. ;
-CO-3;SO-1; | B. | What do you mean by RTOS? Define its types and eeay explain | [10]
-BL-2 the basic functionalities of RTOS.
-Q7 Write short notes on the following:
-CO SPE | A. | 12 Protocol [5]
-Cou SOT |B. | Embedded Kernel [5]
-Ey muse ate Memory Management in RTOS ; [5]
-Oe "bip. Boundary Scan 5]
-
-Page 2 of 2
 ````
 
 ## 2022-23 · Re-Exam · Sem 6 · paper 9b20151d8dde
@@ -3172,6 +3275,7 @@ a
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ELECTRONIC/TRIM II/EMDEDDED SYSTEMS/M Tech ELECTRONIC TRIM II EMBEDDED SYSTEM 2011-12.zip`
 - Printed on paper: duration hours: 3; exam date: 07/02/2012
 - Text: ocr (1 page), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 — SVKM’s NMIMS
@@ -3224,7 +3328,6 @@ Q.5) (A) Draw and explain UARTO of LPC2294 block diagram in details. (10)
 }
 Q.6) (A) Explain following instruction
 
-y }   ILDR EQB 12, [rl] 2) STR 10, [rl], LSL #2 (10)
 ) Explain with example programmed-I/O busy- “wait approach without interrupt
 service mechanism. (10)
 
@@ -3312,106 +3415,4 @@ display the switch number on 16*2 char LCD. (10)
 (B) Explain timer block diagram of ARM7TDMI in details. (10)
 (A) Explain ADC control and data register in details. (10)
 (B) Write a instruction for multiplication by 45 and multiplication by 105 (10)
-````
-
-## Year not stated · Exam not stated · Sem 7 · paper e20aae06db06
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VII SEMESTER/EMBEDDED SYSTEM/Embedded Systems.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 85.1
-
-````text
-“a
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech. Stream: EXTC Year: 1V Semester: VII
-
-Subject: Embedded Systems Time: 03 Hrs. (44:00 amto 2:00pm)
-Date:_19 /06 / 23. No. of Pages: 02
-
-Marks: 100
-
-Special Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
--_ of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly: (Each question is of five marks) [20]
-CO-48 a. List the various analog and digital components which are essential to build
-80-6,7; BL-1 an embedded system.
-eeain pia | > Sketch and list all the fields of extended CAN message format.
-~ C03; , : ro ; .
-50-67; BL-1 | & What is deadlock condition? How it occurs?
-CO-4; . c 7
-50.6.7: BLA d. Compare simulator and emulator-based testing.
-Q2
-cou. a. List and discuss the various types of microprocessor and microcontrollers [10]
-$0-6,7,BL-2 used in the design of embedded systems.
-b. Draw and discuss the FSM model for the seat belt warning system and list
-CO-1; ;
-S0-6,7;BL- various states and events. [10]
-23
-
-Page Lof2
---- page 2 ---
-Q3
-
-a. Discuss the different types of memories used in embedded systems in
-
-CO-1; [10]
-SO-07; BL2 detail.
-CO-2;
-
-b. Discuss the RS232 protocol of serial communication in detail. [10]
-$0-6,7; BL-2
-Q4
-
-: a. Illustrate interfacing diagram of 16x2 LCD with 8051 and write a program
-
-cont e , [10]
-$0-6,7; BL-3 in embedded C/assembly language to display “EXTC” on LCD.
-CO-3: b. Discuss the types of scheduling methods (Preemptive and non-Preemptive) [10]
-SO aH Bie used in RTOS.
-Qs
-Go:3: a. Discuss embedded firmware design approaches used in embedded system [10]
-80-6,7; BL-2 design in detail.
-CO-3; b. Define semaphore? What is the need of semaphores? Discuss any two
-S0-6,7; BL- , , [10]
-1,2 types of semaphore in detail.
-Q6
-CO-3; F ; : :
-$0.67:BL-1 | & List and discuss various hardware debugging tools. [10]
-Och b. Design digital camera system with its requirement and hardware software [10]
-S0-6,7; BL-6 specifications.
-Q7
-
-a. Write a short note on.
-CO-4;
-$0.67 BL-2 1. Embedded OS Trends [12]
-
-2. Development Language Trends
-
-CO-3; b. What is VxWorks? Describe the features of VxWorks in detail. [8]
-
-SO-6,7; BL-2
-
-Page 2of 2
 ````

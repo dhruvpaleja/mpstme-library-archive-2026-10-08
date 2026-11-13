@@ -16,13 +16,6 @@ Also filed as: `ADVANCE DATABASE MANAGEMENT SYSTEMS`, `ADVANCED DATABASE MANAGEM
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CS 7055 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech DS 7009 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech IT 7001, MBATech IT 7041 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.docx |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech IT 7001 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech IT 7041 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 7 | B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / IT, MBA TECH / I T | Advanced Database Management Systems, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AIML 7053 | QP_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 7 | BTech CS 7055, BTech IT 7001 | QP_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
@@ -30,25 +23,32 @@ Also filed as: `ADVANCE DATABASE MANAGEMENT SYSTEMS`, `ADVANCED DATABASE MANAGEM
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech IT 7001, MBATech IT 7041 | QP_Advanced Database Management Systems(702IT0E026)_2025-2026.docx |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech IT 7041 | QP_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech DS 7009 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech IT 7001 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CS 7055 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech DS 7009 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech IT 7001, MBATech IT 7041 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.docx |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech IT 7001 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech IT 7041 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech DS 7009 | QP_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech IT 7001 | QP_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper |  | MBA TECH / Data Science | Advanced Database Management Systems Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MCA | Advanced Database Management System Batch 2025-26 Re Exam.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech DS 7009 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech IT 7001 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 2 | MCA | Advanced Database Management System Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Database Management System(703CO0E018)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / IT | Advanced Database Management Systems, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Advanced Database Management System(703CO0E018)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper |  | MBA TECH / Data Science | Advanced Database Management Systems , Final 2024-25.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Database Management System(703CO0E018)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER, B TECH / DATA SCIENCE, B TECH / I T | Advanced Database Management Systems, Sem-V, Batch 2024-25, Re Exam.pdf |
-| 2023-24 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Database Management System(703CO0E018)_2023-2024.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / COMPUTER, B TECH / CSE Data Science (311), B TECH / DATA SCIENCE | Advanced Database Management Systmes, Sem-V, Final Exam, A Y 2023-24.pdf [1] |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE | Advanced Database Management Systems, Sem-V, A Y 2023-24, Final Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Advanced Database Management System(703CO0E018)_2023-2024.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | MCA | Advanced Database Management System Batch 2023-24 Final.pdf |
+| 2023-24 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Database Management System(703CO0E018)_2023-2024.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 5 | B TECH / CSE DATA SCIENCE | Advanced Database Management Systems, Sem-V & VII, Year 2023-24, Re Rexam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | MCA | Advanced Database Management System Batch 2023-24 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 2 | MCA | Advanced Database management System Batch 2022-23 Final0001.pdf |

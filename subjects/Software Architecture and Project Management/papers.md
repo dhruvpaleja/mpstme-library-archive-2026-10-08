@@ -1,69 +1,8 @@
 # Software Architecture and Project Management: question papers in full
 
-3 unique papers · 2006-07 to 2009-10 · Computer Engineering
+2 unique papers · 2006-07 to 2008-09 · Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
-
-## 2009-10 · Re-Exam · Trim 3 · paper e6023bf80096
-
-- Departments: Computer Engineering
-- Programmes: M TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM III/Software Architecture & Project Management/Software Architecture & Project Management Batch 2009-2010 Re Exam.pdf`
-- Text: ocr (1 page), mean OCR confidence 91.7
-
-````text
-SVKM’S NMIMS °° = ===]
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE
-ENGINEERING
-M.Tech. (Computer/IT) First Year Trimester I, 2009-10
-Qe — Extom C2090)
-Subject: Software Engineering Methodolo Max.
-Debe\- \F jos] 20\0 * Co-cdamTs \sedpeo | The YH
-Instructions: Candidate should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-1. Question | is compulsory.
-2. Out of remaining questions attempt any four
-3. All questions carry equal marks.
-4. Answer to each new question to be started on a fresh page.
-5. Figures to the right indicate full marks.
-6. Explain your answers with neat diagrams/sketches where required.
-
-Que. 1 a. State the generic model of software engineering. Explain methods, tools and process w.r.t. layered
-
-approach of software engineering with example. 10
-b. Develop the sample requirement analysis activity report using SSAD approach for the activities
-conducted for the computerization of a Hospital working manually for its services. 10
-
-Que. 2 a. Propose a process model for a project to generate unique identification for the citizen of India.
-
-Justify your proposal and state the phases there in the model. 10
-b. Develop the sample functional, behavior and data model for the problem statement in Que.1.b.
-10
-Que. 3 a. Explain the evolution of UML. Explain 4+1 view model of OO modeling.
-10
-b. Explain the things in UML. What is meta model? 10
-
-Que. 4 a. What is importance of Umbrella activities in SE process? Explain Risk management, SCM, SQA.
-
-10
-
-b. You have been assigned the computerization of library system of your college. Give the activity
-diagram and state diagram. 10
-Que. 5 a. Develop the design class and component model for problem given in question 4 b. 10
-b. Explain the requirement engineering activities using OO approach with example. ~ 10
-Que. 6 a. Perform OO elicitation for problem in Que.4. b. Show steps. 10
-b. Explain the how OO projects are tested. State testing concepts and activities. 10
-Que. 7 a. What do you mean by agility in process? Explain various agile process model 10
-b. Write notes on 10
-
-i. Business Process Engineering and product engineering
-ii Quality attributes of software product
-
-XX
-
-x
-````
 
 ## 2008-09 · Final-Exam · Trim 3 · paper 3c83f9ee1c28
 

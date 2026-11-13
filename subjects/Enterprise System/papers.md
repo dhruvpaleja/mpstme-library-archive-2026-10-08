@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSBS/SEM-VIII/ENTERPRISE SYSTEM/Enterprise Systems, Sem VIII, Year 2024-25, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -48,7 +49,6 @@ Qi
 
 Tesla is expanding its global operations and facing difficulties in managing vast
 amounts of internal data, including employee records, financial transactions, and
-CO-1; SO-1; 0 a A 4 eo oF a
 BL-3 a. } supply chain logistics. To address these issues, Tesla is considering integrating a | [5]
 Decision Support System (DSS) into its enterprise system. Identify how can a DSS
 assist Tesla’s management in making more data-driven and strategic decisions?

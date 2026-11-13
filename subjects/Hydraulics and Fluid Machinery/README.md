@@ -15,10 +15,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 5 | B TECH / CIVIL | Hydraulics and Fluid Machinery, Sem-V, Final Exam 2025-26 & Re Exam 2024-25.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Hydraulics and Fluid Machinery(702CI0C021)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech Civil 7005 | QP_Hydraulics and Fluid Machinery(702CI0C021)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Hydraulics and Fluid Machinery(702CI0C021)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Hydraulics and Fluid Machinery(702CI0C021)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Civil 7005 | QP_Hydraulics and Fluid Machinery(702CI0C021)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Hydraulics and Fluid Machinery(702CI0C021)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / CIVIL | Hydraulics and Fluid Machinery, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / CIVIL | Hydraulics and Fluid Machinery, Sem-V, Re Exam 2024-25.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / CIVIL | Hydraulics and Fluid Machinery, Sem-V, Final Exam 2023-24.pdf |

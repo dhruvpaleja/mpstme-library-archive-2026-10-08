@@ -4,17 +4,6 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2025-26 · Final-Exam · Sem 6 · Dataset · paper eb8eea61495f
-
-- Departments: Mechanical
-- Programmes: BTech Mechanical 7003, Integrated Mechanical 7031
-- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechanical_7003/Aerodynamics in Flight Design/data_set_Aerodynamics in Flight Design(702ME0E014)_2025-2026.docx` (+1 identical copies)
-- Text: docx (1 page)
-
-````text
-
-````
-
 ## 2025-26 · Final-Exam · Sem 6 · paper 089aa3ed6efe
 
 - Departments: Mechanical
@@ -233,6 +222,17 @@ CO2; BL1;   b)   Wing Loading   5
 CO2; BL1;   c)   Re-entry Vehicle   5
 CO3; BL1;   d)   Bourdon tube pressure guage   5
 ********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 6 · Dataset · paper eb8eea61495f
+
+- Departments: Mechanical
+- Programmes: BTech Mechanical 7003, Integrated Mechanical 7031
+- Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechanical_7003/Aerodynamics in Flight Design/data_set_Aerodynamics in Flight Design(702ME0E014)_2025-2026.docx` (+1 identical copies)
+- Text: docx (1 page)
+
+````text
+
 ````
 
 ## 2024-25 · Final-Exam · Sem 6 · paper 11613cb55049
@@ -474,6 +474,7 @@ K,, = variable sweep constant = 1.04 if variable sweep
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/Aerodynamics in Flight Design/Aerodynamics in Flight Design Batch 2024-25 Final0001.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (5 pages), mean OCR confidence 86.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -674,7 +675,6 @@ weight fractions
 
 _ Ow) Cruise Loiter
 ‘armup and takeoff 0.970 5 P
-be pene’ 0.985 Jet 0.866 L/Daa, L/Dasy
 = a Prop LDux 0.866 L/Dyy
 
 Table 3.3 Specific fuel consumption (C)
@@ -716,6 +716,224 @@ K,, = variable sweep constant = 1.04 if variable sweep
 = 1.00 if fixed sweep
 ````
 
+## 2023-24 · Exam not stated · Sem 6 · paper 4f49d84fb0b8
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Aerodynamics of Flight Design/Aerodynamics in Flight Design.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (5 pages), mean OCR confidence 86.1
+
+````text
+ZETEOF Man
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: _BTECH/MBATECH__ Year: 3 Semester: _VI__
+Stream/s ;___ Mechanical
+
+Subject: Aerodynamics in Flight Design ___ . Time: _3_ hrs (2p27to SP )
+Date: OS /May! 2024 ; No. of Pages: 5
+
+Marks: 100
+
+Final Examination;: ..
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks. :
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. °
+
+Ql Answer briefly: [20]
+CO- 1; a. . .
+SO-1 ; Discuss laws of aerodynamics. [05]
+BL-2;
+CO-1 ; b. . . .
+SO-1; Explain Potential flow in applied aerodynamics. [05]
+BL-5;
+
+- |c02; Je oo
+SO-1; Explain the layout of the landing gear subsystem in the aircraft [05]
+BL-5;
+CO-2 ; d. : .
+SO-1; Discuss the orbit trajectory mission phase in launching vehicles. [05]
+BL-2;
+Q2 a.
+So. Explain stalling phenomena in aircraft. [06]
+BL-S5;
+CO-1; b. Discuss the considerations of structural aspects and constraint analysis [06]
+poi . in the performance of an aircraft.
+CO-1; é. Solve the following for a spacecraft engine : (i) A spacecraft's engine [08]
+SO-1; ejects mass at a rate of 30 kg/s with an exhaust velocity of 3,100 m/s. The
+--- page 2 ---
+BL-6; pressure at the nozzle exit is 5 kPa and the exit area is 0.7 mg Waab is
+the thrust of the engine in a vacuum? i
+
+(ii) The spacecraft in problem 2c(i) has an initial mass of 30,000 kg.
+What is the change in Tey if the spacecraft burns its engine for one
+minute? .
+
+a. - | Evaluate the design of a Jet trainer to fly as per the given design mission
+shown below in
+Fig. No. 1.
+Consider the following parameters for its design:
+Cruise Velocity = 400 m/s
+Cruise Altitude = 2700 m
+Range = 3.5 x 10°m
+Speed of sound = 303.22 m/s
+Crew wt. = 410 kg
+Payload wt. = 9000 kg
+Endurance for cruise 3hr and Loiter for 20 min and consider specific
+fuel consumption type as pure turbojet. Also, assume the L/D ratio for
+
+Q3 cruise and loiter as 16. Assume a gross weight of 13000 Kg.
+CO-2; : [10]
+SO-1; BL-
+4;
+Cruise
+Takeoff Land Fig.No.1
+
+(i) Estimate the total weight ratio of the given mission profile.
+
+(ii) Fuel and empty weight fraction
+
+(Note: Refer to tables given on page no. J for solving this problem)
+CO-2; b.
+SO-1; Justify that the launch of the satellite is affected by height. [05]
+BL-5;
+nes a Explain if the Y+ value is important in the CFD analysis performance [05]
+BL-5 : check.
+--- page 3 ---
+CO-2; Discuss some important rocket propulsion parameters. [08]
+SO-1; ;
+BL-2;
+CO-2; b
+SO-1; List down all the elements of wind tunnel and discuss any two. [06]
+BL-2;
+CO-2; c Discuss the MAC layout with a schematic diagram and give formulas [06}
+| for important parameters such as C Root and C tip 7
+a. Solve : The airplane is cruising at a velocity of 219.9 mps at an altitude
+of 10000 m, where the ambient air density is 0.407 kg/m3. The weight
+and wing planform areas of the airplane are 6800 kg and 3.182 m2,
+respectively. The drag coefficient at cruise is 0.015. Calculate the lift
+coefficient and the lift-to-drag ratio at cruise. Also, find the AOA for
+the obtained CL value from the given graph of CL V/s AOA.
+Q5 sk
+CO-1; [06]
+SO-1; é its
+BL-6; _—
+0s}-
+i 1 L i L
+-20 -10 0 0 20 » «0
+a1, degrees
+0S
+-10-
+Fig. 2. CL V/S AOA
+CO-2; b.
+SO-1; Discuss axisymmetric flow in aerodynamics. [07]
+BL-2;
+CO-2; c. . —_
+SO-1; Construct the schematic layout of the wind tunnel and explain its parts. | [07]
+BL-6;
+--- page 4 ---
+Q6 a.
+
+CO-2; Differentiate between subsonic and supersonic wind tunnels. [08]
+
+SO-1;
+
+BL-2;
+
+CO-2; b. w
+
+SO-1; Demonstrate kutta joukouski theorem. [06]
+
+BL-3;
+c.
+
+CO-2;
+
+SO-1; Discuss aerodynamic forces and moments in an aircraft. [06]
+
+BL-2;
+
+Q7
+
+CO-1,23; Write short notes (Any four)
+
+SO-1;
+
+BL-2;
+a. Rotor aerodynamics [05]
+b. Wing loading [05]
+c. PSLV [05]
+d. Pressure measurement Device in wind tunnel [05]
+é.. Bernoulli’s principal application in aerodynamics [05]
+
+a,
+--- page 5 ---
+Table 3.2 Historical mission segment
+
+weight fractions , '
+WW.) Cruise Lotter
+Climb and takeoff ees la 0.86 L/Dex L/D
+Landing 0.995 Proj LDesy 0.866 LD az
+Descent : 1.00
+
+Table 3.3 Specific fuel consumption (C)
+
+Typical jet SFC’s Cruise Loiter
+
+Pure turbojet 0.9 0.8 °
+Low-bypass turbofan 0.8 0.7
+
+High-bypass turbofan 0.5 0.4 |
+
+Table 3.4 Propeller specific fuel consumption (C,,,)
+Propeller: C= Cynp V/(S50n,)
+
+Typical C,,,, and 9, Cruise Loiter
+Piston-prop (fixed pitch) 0.4/0.8 : 0.5/0.7
+Piston-prop (variable pitch) 0.4/0.8 0.5/0.8
+Turboprop 0.5/0.8 0.6/0.8
+
+Table 3.1 Empty weight fraction vs W,
+
+A c
+Sailplane—unpowered 0.86 — 0.05
+Sailplane—powered 0.91 — 0.05
+Homebuilt—metal/wood 1.19 —0.09
+Homebuilt—composite 0.99 — 0.09
+General aviation—single engine 2.36 —0.18
+General aviation—twin engine 1.51 —0.10
+Agricultural aircraft 0.74 — 0.03
+Twin turboprop 0.96 — 0.05
+Flying boat 1.09 ~ 0.05
+Jet trainer 1,59 —0.10
+Jet fighter 2.34 -0.13
+Military cargo/bomber 0.93 —0.07
+Jet transport 1.02 — 0.06
+SSS SS
+
+K,, = variable sweep constant = 1.04 if variable sweep
+= 1.00 if fixed sweep
+````
+
 ## 2022-23 · Final-Exam · Sem 6 · paper fd4d4ccdae8a
 
 - Departments: Mechanical
@@ -723,6 +941,7 @@ K,, = variable sweep constant = 1.04 if variable sweep
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/AERODYNAMICS OF FLIGHT DESIGN/Aerodynamics of Flight Design, Sem-vi, Year 2022-23, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -893,7 +1112,6 @@ weight fractions
 
 Wi) Cruise Loiter
 Cin nen 0.985 le 1866 L/D L/Daa
-Ese — Prop LDas 0,866 L/Dan
 
 Specific fuel consumption (C)
 
@@ -1209,222 +1427,4 @@ General aviation—twin engine 0.034 0.32
 Agricultural aircraft 0.008 0.50
 Twin turboprop 0.012 0.50
 Flying boat 0.029 0.23
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 4f49d84fb0b8
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Aerodynamics of Flight Design/Aerodynamics in Flight Design.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (5 pages), mean OCR confidence 86.1
-
-````text
-ZETEOF Man
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
-
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: _BTECH/MBATECH__ Year: 3 Semester: _VI__
-Stream/s ;___ Mechanical
-
-Subject: Aerodynamics in Flight Design ___ . Time: _3_ hrs (2p27to SP )
-Date: OS /May! 2024 ; No. of Pages: 5
-
-Marks: 100
-
-Final Examination;: ..
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks. :
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. °
-
-Ql Answer briefly: [20]
-CO- 1; a. . .
-SO-1 ; Discuss laws of aerodynamics. [05]
-BL-2;
-CO-1 ; b. . . .
-SO-1; Explain Potential flow in applied aerodynamics. [05]
-BL-5;
-
-- |c02; Je oo
-SO-1; Explain the layout of the landing gear subsystem in the aircraft [05]
-BL-5;
-CO-2 ; d. : .
-SO-1; Discuss the orbit trajectory mission phase in launching vehicles. [05]
-BL-2;
-Q2 a.
-So. Explain stalling phenomena in aircraft. [06]
-BL-S5;
-CO-1; b. Discuss the considerations of structural aspects and constraint analysis [06]
-poi . in the performance of an aircraft.
-CO-1; é. Solve the following for a spacecraft engine : (i) A spacecraft's engine [08]
-SO-1; ejects mass at a rate of 30 kg/s with an exhaust velocity of 3,100 m/s. The
---- page 2 ---
-BL-6; pressure at the nozzle exit is 5 kPa and the exit area is 0.7 mg Waab is
-the thrust of the engine in a vacuum? i
-
-(ii) The spacecraft in problem 2c(i) has an initial mass of 30,000 kg.
-What is the change in Tey if the spacecraft burns its engine for one
-minute? .
-
-a. - | Evaluate the design of a Jet trainer to fly as per the given design mission
-shown below in
-Fig. No. 1.
-Consider the following parameters for its design:
-Cruise Velocity = 400 m/s
-Cruise Altitude = 2700 m
-Range = 3.5 x 10°m
-Speed of sound = 303.22 m/s
-Crew wt. = 410 kg
-Payload wt. = 9000 kg
-Endurance for cruise 3hr and Loiter for 20 min and consider specific
-fuel consumption type as pure turbojet. Also, assume the L/D ratio for
-
-Q3 cruise and loiter as 16. Assume a gross weight of 13000 Kg.
-CO-2; : [10]
-SO-1; BL-
-4;
-Cruise
-Takeoff Land Fig.No.1
-
-(i) Estimate the total weight ratio of the given mission profile.
-
-(ii) Fuel and empty weight fraction
-
-(Note: Refer to tables given on page no. J for solving this problem)
-CO-2; b.
-SO-1; Justify that the launch of the satellite is affected by height. [05]
-BL-5;
-nes a Explain if the Y+ value is important in the CFD analysis performance [05]
-BL-5 : check.
---- page 3 ---
-CO-2; Discuss some important rocket propulsion parameters. [08]
-SO-1; ;
-BL-2;
-CO-2; b
-SO-1; List down all the elements of wind tunnel and discuss any two. [06]
-BL-2;
-CO-2; c Discuss the MAC layout with a schematic diagram and give formulas [06}
-| for important parameters such as C Root and C tip 7
-a. Solve : The airplane is cruising at a velocity of 219.9 mps at an altitude
-of 10000 m, where the ambient air density is 0.407 kg/m3. The weight
-and wing planform areas of the airplane are 6800 kg and 3.182 m2,
-respectively. The drag coefficient at cruise is 0.015. Calculate the lift
-coefficient and the lift-to-drag ratio at cruise. Also, find the AOA for
-the obtained CL value from the given graph of CL V/s AOA.
-Q5 sk
-CO-1; [06]
-SO-1; é its
-BL-6; _—
-0s}-
-i 1 L i L
--20 -10 0 0 20 » «0
-a1, degrees
-0S
--10-
-Fig. 2. CL V/S AOA
-CO-2; b.
-SO-1; Discuss axisymmetric flow in aerodynamics. [07]
-BL-2;
-CO-2; c. . —_
-SO-1; Construct the schematic layout of the wind tunnel and explain its parts. | [07]
-BL-6;
---- page 4 ---
-Q6 a.
-
-CO-2; Differentiate between subsonic and supersonic wind tunnels. [08]
-
-SO-1;
-
-BL-2;
-
-CO-2; b. w
-
-SO-1; Demonstrate kutta joukouski theorem. [06]
-
-BL-3;
-c.
-
-CO-2;
-
-SO-1; Discuss aerodynamic forces and moments in an aircraft. [06]
-
-BL-2;
-
-Q7
-
-CO-1,23; Write short notes (Any four)
-
-SO-1;
-
-BL-2;
-a. Rotor aerodynamics [05]
-b. Wing loading [05]
-c. PSLV [05]
-d. Pressure measurement Device in wind tunnel [05]
-é.. Bernoulli’s principal application in aerodynamics [05]
-
-a,
---- page 5 ---
-Table 3.2 Historical mission segment
-
-weight fractions , '
-WW.) Cruise Lotter
-Climb and takeoff ees la 0.86 L/Dex L/D
-Landing 0.995 Proj LDesy 0.866 LD az
-Descent : 1.00
-
-Table 3.3 Specific fuel consumption (C)
-
-Typical jet SFC’s Cruise Loiter
-
-Pure turbojet 0.9 0.8 °
-Low-bypass turbofan 0.8 0.7
-
-High-bypass turbofan 0.5 0.4 |
-
-Table 3.4 Propeller specific fuel consumption (C,,,)
-Propeller: C= Cynp V/(S50n,)
-
-Typical C,,,, and 9, Cruise Loiter
-Piston-prop (fixed pitch) 0.4/0.8 : 0.5/0.7
-Piston-prop (variable pitch) 0.4/0.8 0.5/0.8
-Turboprop 0.5/0.8 0.6/0.8
-
-Table 3.1 Empty weight fraction vs W,
-
-A c
-Sailplane—unpowered 0.86 — 0.05
-Sailplane—powered 0.91 — 0.05
-Homebuilt—metal/wood 1.19 —0.09
-Homebuilt—composite 0.99 — 0.09
-General aviation—single engine 2.36 —0.18
-General aviation—twin engine 1.51 —0.10
-Agricultural aircraft 0.74 — 0.03
-Twin turboprop 0.96 — 0.05
-Flying boat 1.09 ~ 0.05
-Jet trainer 1,59 —0.10
-Jet fighter 2.34 -0.13
-Military cargo/bomber 0.93 —0.07
-Jet transport 1.02 — 0.06
-SSS SS
-
-K,, = variable sweep constant = 1.04 if variable sweep
-= 1.00 if fixed sweep
 ````

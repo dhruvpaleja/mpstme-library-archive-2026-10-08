@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_AIDS_7056/Predictive Analysis/QP_Predictive Analysis(702DB0E003)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 84.4
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -70,7 +71,6 @@ CO-4; SO-1; | d. | Analyze the limitation of input selection in neural network m
 BL-3,4 explain how using a regression node before the neural network can
 address this problem.
 
-HEKERAAERA OKA REEKE KEK
 --- page 2 ---
 Q2 Demonstrate the Model essential’s part with reference to the given figure
 CO-2; SO-1; | a | of Predict New Cases for the Predictive Model in detail with the help of [10]
@@ -87,13 +87,8 @@ CO-1; SO-1; | b- | the process step by step with reference to the given figure a
 BL-3 many. Also explain how to create the New Project. Mention the procedure in
 detail.
 » =i
-UO Vovableme 7% = Libel ie Pole Lewd
 CE calts_put_otpk Cal's Ouigows OF Peak Numeric input infers:
-Ocal on_pk Cal's Oangoing Posi, Roreric iro Inservat
-C1 calis_tomat Total CalinCurr torene tapes Inearvet
 Deal T8 et pao Warerie input loner
-(a) chun ‘Chucn Fog ere Tope Beery
-o =» Dexount Cry Chineter 2 Nixoraat Poridon
 oo
 D com een Trees Scapesced tat — sagan ae fort
 a
@@ -484,6 +479,7 @@ BL-4   project.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/PREDICTIVE ANALYSIS/Predictive Analysis 2025-26 Final.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: ocr (4 pages), mean OCR confidence 83.1
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -539,7 +535,6 @@ CO-4; SO-1; | d. | Analyze the limitation of input selection in neural network m
 BL-3,4 explain how using a regression node before the neural network can
 address this problem.
 
-FIC IR aI a a a ak
 --- page 2 ---
 Q2 Demonstrate the Model essential’s part with reference to the given figure
 CO-2; SO-1; | a. | of Predict New Cases for the Predictive Model in detail with the help of ,| [10]
@@ -563,11 +558,9 @@ detail.
 
 0 Variable Na. + ‘bel | Type. Role Level
 
-DL. colle sit ofipk “Cale OntgeingORPesk Numeric topo Inherval
 
 D catsompe Cas Oangoing Peak Numeric. npn intereat
 
-Dh calle_sestst Tota Calin Caer Nupseric input Ineerent
 Number Cat Tach
 
 Deets 78 ect Suppext Numeric input Interval
@@ -583,9 +576,7 @@ LD ceuntol.suine Times Suspended tat
 
 peians Ar om
 
-Womerie tapi Necninal ied
 " ; Teil
-TD condita Grace tase charac wisn Nomi ioe a
 
 Q3 Explain the Forward Selection process used for input (variable) selection
 CO-2; SO-1; | a. | in a Regression Model. Describe step-by-step how variables are added to [10]
@@ -616,7 +607,6 @@ b> Handle extreme or unusual values.
 Q4 Discuss the importance of statistical graphics in the assessment of models
 CO-3; SO-1; | b. | citing two examples of statistical graphics and their use. Also, give an [10]
 BL-2, 3 example of profit matrix and its significance in decision making.
-BOC Raper Cros Dee
 Om ‘ .
 1
 ae
@@ -638,7 +628,6 @@ Q5 .| Explain how model features are explored during the scoring of a Champion
 y
 o iri SO-1; | b.’) Model and describe the sequential st¢ps involved in the Model Scoring [10]
 
-Fe aK 3 ack ak ak dk ok
 --- page 4 ---
 Q6 Explain the working of the DMNeural Model by discussing its key model
 
@@ -1016,6 +1005,7 @@ CO-2;SO-2;BL-2 suitable example — 10
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/PREDICTIVE ANALYSIS/Predictive Analysis, Sem-V, 2024-25, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 69.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1099,7 +1089,6 @@ of 30 Mens:
 
 ae ee ae
 
-J Seatiories Train Ya: i Staciatice Teata Volidation
 
 LoS OE Soak See | 5 SUE ARNSY, aT,
 
@@ -1109,7 +1098,6 @@ LoS OE Soak See | 5 SUE ARNSY, aT,
 
 Le : nn Pennrente sobs
 pats as 0 Avert et
-ORT Pe POOOO OO ar Mearg: 7200 er Nsing
 
 stasis ee reash vane
 
@@ -1210,7 +1198,6 @@ it 0.61 0.61 0.58 0.59
 : Gain 43.06 44.72 32.90 32.90
 : Gini Coefficient 0.22 0.23 0.17 0.18
 |: Bin-Based Two-Way Kolnogorov-Smirnov Statistic 0.16 0.17 0,14 0.14
-Imogorov-Suirnov Probability Cutott 0.54 0.53 0,43 0.49
 ; Cumulative Lift 1.43 1.45 1.32 1.32
 jp Lift 1.44 1.38 1.32 1.32
 jaximum Absolute Error 0.86 0.87 0.64 0.64
@@ -1259,7 +1246,6 @@ if
 1H 044
 | 02-4
 |
-| eae T T T i T T
 | 00 02 0.4 06 08 10
 bie oe Sele as Pe
 Probability Tree Decision Tree (2) Regression
@@ -1296,6 +1282,7 @@ ne
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM V/Predictive Analysis/Predcitive Analysis , Final , 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 89.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1377,14 +1364,12 @@ TiBadDerogCnt input Interval No to.
 
 TUBaHCPct [input —“interval__—No__ io
 
-Ttnt linput interval fio Ho i
 TUCniO3 Haput Interval Ho io
 
 Tent? finput [Interval No ia
 
 Tents [input [Interval flo ilo
 
-TWelaS0cntZINput interval Ho i Ito
 
 Twes0cnt input ‘interval No ; io
 

@@ -1,6 +1,6 @@
 # Happiness at Work: question papers in full
 
-18 unique papers · 2023-24 to 2025-26 · Data Science, Computer Engineering, Electronics and Telecommunication, Common (all branches), Artificial Intelligence, Civil, Cyber Security, Information Technology, Mechanical, Mechatronics
+17 unique papers · 2023-24 to 2025-26 · Data Science, Electronics and Telecommunication, Common (all branches), Computer Engineering, Artificial Intelligence, Civil, Cyber Security, Information Technology, Mechanical, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -222,86 +222,6 @@ CO-5;   does not have to suffer because of this. Choose the right leadership sty
 SO-;
 BL-3   and interventions that can help her.
 ********** 3 **********
-````
-
-## 2025-26 · Final-Exam · Sem 7 · paper a026434267d6
-
-- Departments: Computer Engineering
-- Programmes: BTech Computer 7002
-- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Computer_7002/Happiness at Work/QP_Happiness at Work(702BS0I014)_2025-2026.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
-- Text: text (2 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech Intg. (CE)/B. Tech Intg. (Mech)/B. Tech (IT)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: IV / VI/Semester VII/Semester XI(Exam Year: 2025-2026)
-Subject: Universal Human Values-II
-Date: 10 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 2 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No.1 is compulsory.
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-Q1   [20]
-Answer briefly:
-CO-1 ; SO-4 ;   a Outline any three kinds of happiness.   [4M]
-BL-2
-CO- 2; SO-4 ;   b Analyze the actions that take place in the self 'I'.   [4M]
-BL-4
-CO- 2; SO-5 ;   c Identify gratitude as a human value with an example.   [4M]
-BL-3
-CO-3 ; SO-5 ;   d   [4M]
-Explain Things (Vastu) with examples.
-BL-2
-CO- 3; SO-5 ;   e   [4M]
-Analyze the proficiency in professional ethics
-BL-4
-Q2   Answer the following   [20]
-CO-2;SO-5;   a Justify the case for love being the ultimate value.   [10M]
-BL-5
-CO- 3; SO-4 ;   b Demonstrate unethical conduct throughout several professions,   [10M]
-BL-2   providing particular examples.
-Q3   Answer the following   [20]
-CO-2;SO-5;   a Distinguish between the functions of the Self and the Body.   [10M]
-BL-4   Illustrate with example.
-CO-3; SO5;   b Assess the statement "Nature is finite while space is infinite."   [10M]
-BL-5
-Q4   Answer the following   [20]
-CO-3; SO-5;BL-5   a Explain two kinds of realities in existence: units and space.   [10M]
-CO-2;SO-4   b Identify the feeling of 'Respect ' with minimum two examples.   [10M]
-********** 1 **********
---- page 2 ---
-;BL-3
-Q5   Answer the following   [20]
-CO-2;SO-4;   a Identify & plan to solve the difficulties that arise as a result of   [10M]
-preconditioned wishes, expectations, and thoughts .
-BL-3
-CO-1; SO5;   b Justify the significance of prosperity in comparison with riches.   [10M]
-BL-5
-Q6   Answer the following   [20]
-CO- 3; SO-5 ;   a Demonstrate the significance and attributes of a comprehensive   [10M]
-understanding of harmony at all levels of existence.
-BL-2
-CO-1; SO-4;   b Interpret your perspective on a successful and happy life in the   [10M]
-current situation.
-BL-5
-Q7   Answer the following   [20]
-CO-1; SO-5;   a Show relevant examples to demonstrate the importance of value   [10M]
-education in a diverse society.
-BL-2
-CO- 3; SO-4 ;   b Examine the comprehensive leadership model.   [10M]
-BL-4
-********** 2 **********
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · paper 9febee61450a

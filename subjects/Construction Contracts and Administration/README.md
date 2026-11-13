@@ -16,8 +16,8 @@ Also filed as: `CONTRUCTION CONTRACT & ADMINISTRATION`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Construction Contracts and Administration(702CI0E013)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Construction Contracts and Administration(702CI0E013)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Construction Contracts and Administration(702CI0E013)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / CIVIL | Construction Contracts and Administration, Sem VI, Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL, MBA TECH / CIVIL | Construction Contracts and Admisistration Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / CIVIL | Construction Contracts and Administration, Sem-VII, 2023-24 & 2024-25, Re Exam.pdf |

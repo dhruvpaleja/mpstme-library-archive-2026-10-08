@@ -1,6 +1,6 @@
 # Production Technology: question papers in full
 
-8 unique papers · 2022 to 2025-26 · Mechanical
+8 unique papers · 2022-23 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -108,6 +108,79 @@ CO-5; b ‘ . =, .
 BL-4 Write short notes on reaming, burnishing, and buffing operations [10]
 ````
 
+## 2025-26 · Re-Exam · Sem 6 · paper 7e3f976f6b68
+
+- Departments: Mechanical
+- Programmes: Integrated Mechanical 7031
+- Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_Mechanical_7031/Production Technology/QP_Production Technology(701ME0C017)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX
+YEARS INTEGRATED PROGRAM
+Year: III/Semester VI(Exam Year: 2025-2026)
+Subject: Production Technology
+Date: 07 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. Assume Suitable data if necessary.
+Q1   Answer briefly:   [20]
+CO-1,SO-7,BL-2   a. Compare between orthogonal and oblique cutting.   5
+CO-2,SO-7,BL-2   b.   Explain the different types of lathes.   5
+CO-4,SO-7,BL-3   c.   Explain the grinding process used as finishing operation.   5
+CO-5,SO-7,BL-2   d.   Explain with neat diagram the EDM process.   5
+Q2
+Explain the use of cutting fluids during machining and classify the
+CO-1, SO-7,BL-3   A   10
+same.
+CO-2, SO-7,BL-2   B   Explain the different parts of a shaping machine.   10
+Q3
+Explain the different types of chips produced during machining.
+CO-1, SO-7,BL-2   A   5
+State their characteristics.
+Differentiate the different types of special purpose Lathe stating
+CO-3, SO-7,BL-2   B   5
+the functions of each.
+CO-2, SO-7,BL-4   C   Compare between different milling processes.   10
+Q4
+Gears are manufactured through milling as well as using hobbing
+CO-5, SO-7, BL-3   A   10
+machine- Justify the statement.
+Distinguish between water jet and abrasive water jet machining
+CO-5, SO-7, BL-3   B   10
+process.
+Q5
+********** 1 **********
+--- page 2 ---
+Describe the Quick return mechanism in shaper machine with
+CO3, SO-7, BL-2   A   10
+proper diagram.
+Compare the different non-traditional machining processes used in
+CO5, SO-7, BL-3   B   10
+industry.
+Q6
+Differentiate between the Lapping, Honing and Buffing
+CO4, SO-7, BL-3   A   10
+technology. State their applications.
+Compare between Chemical and Electrochemical Machining
+CO5, SO-7, BL-3   B   process using suitable schematic diagram of each. State their   10
+advantages and disadvantages.
+Q7
+CO3, SO-7, BL-2   A   Explain broaching operation using a suitable diagram.   10
+CO4, SO-7, BL-2   B   Compare between surface, cylindrical and centerless grinding.   10
+********** 2 **********
+````
+
 ## 2024-25 · Final-Exam · Sem 6 · paper c95dabea25e3
 
 - Departments: Mechanical
@@ -115,6 +188,7 @@ BL-4 Write short notes on reaming, burnishing, and buffing operations [10]
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_06/Production Technology/Production Technology Batch 2024-25 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 80.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SCHOOL OF TECHNOLOGY MANAGEMENT
@@ -220,80 +294,6 @@ C03, SO-7,BL-2 - 10
 tools. ;
 Distinguish between cylindrical grinding, surface grinding and -
 
-ROR RO oR RR RR RR RE
-````
-
-## 2024-25 · Re-Exam · Sem 6 · paper 7e3f976f6b68
-
-- Departments: Mechanical
-- Programmes: Integrated Mechanical 7031
-- Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_Mechanical_7031/Production Technology/QP_Production Technology(701ME0C017)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
-- Text: text (2 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX
-YEARS INTEGRATED PROGRAM
-Year: III/Semester VI(Exam Year: 2025-2026)
-Subject: Production Technology
-Date: 07 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 2 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. _1___ is compulsory.
-5. Out of remaining questions, attempt any __4___ questions.
-6. In all ___5_ questions to be attempted.
-7. Assume Suitable data if necessary.
-Q1   Answer briefly:   [20]
-CO-1,SO-7,BL-2   a. Compare between orthogonal and oblique cutting.   5
-CO-2,SO-7,BL-2   b.   Explain the different types of lathes.   5
-CO-4,SO-7,BL-3   c.   Explain the grinding process used as finishing operation.   5
-CO-5,SO-7,BL-2   d.   Explain with neat diagram the EDM process.   5
-Q2
-Explain the use of cutting fluids during machining and classify the
-CO-1, SO-7,BL-3   A   10
-same.
-CO-2, SO-7,BL-2   B   Explain the different parts of a shaping machine.   10
-Q3
-Explain the different types of chips produced during machining.
-CO-1, SO-7,BL-2   A   5
-State their characteristics.
-Differentiate the different types of special purpose Lathe stating
-CO-3, SO-7,BL-2   B   5
-the functions of each.
-CO-2, SO-7,BL-4   C   Compare between different milling processes.   10
-Q4
-Gears are manufactured through milling as well as using hobbing
-CO-5, SO-7, BL-3   A   10
-machine- Justify the statement.
-Distinguish between water jet and abrasive water jet machining
-CO-5, SO-7, BL-3   B   10
-process.
-Q5
-********** 1 **********
---- page 2 ---
-Describe the Quick return mechanism in shaper machine with
-CO3, SO-7, BL-2   A   10
-proper diagram.
-Compare the different non-traditional machining processes used in
-CO5, SO-7, BL-3   B   10
-industry.
-Q6
-Differentiate between the Lapping, Honing and Buffing
-CO4, SO-7, BL-3   A   10
-technology. State their applications.
-Compare between Chemical and Electrochemical Machining
-CO5, SO-7, BL-3   B   process using suitable schematic diagram of each. State their   10
-advantages and disadvantages.
-Q7
-CO3, SO-7, BL-2   A   Explain broaching operation using a suitable diagram.   10
-CO4, SO-7, BL-2   B   Compare between surface, cylindrical and centerless grinding.   10
-********** 2 **********
 ````
 
 ## 2023-24 · Final-Exam · Sem 5 · paper 31c06b112652
@@ -717,7 +717,7 @@ BL-2
 3| Page
 ````
 
-## 2022 · Final-Exam · Sem 5 · paper 082d06abeb1a
+## 2022-23 · Final-Exam · Sem 5 · paper 082d06abeb1a
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL

@@ -1,8 +1,140 @@
 # Software Engineering Methodology: question papers in full
 
-13 unique papers · 2007-08 to 2011-12 · Information Technology, Computer Engineering
+14 unique papers · 2007-08 to 2012-13 · Information Technology, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2012-13 · Exam not stated · Trim 1 · paper 227c18bfead9
+
+- Departments: Information Technology
+- Programmes: M TECH / I T
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM I/SOFTWARE ENGINEERING METROLOGY/scan0056.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/40/2042
+- Text: ocr (3 pages), mean OCR confidence 93.4
+
+````text
+EL Soe,
+ee mea
+Sf _ ‘
+a Y
+
+‘“
+
+3 SVKmrs
+NMims University
+Mumbai ~ 56. )
+
+LIBRARY —
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: M. Tech (I.T.) Year: I Trimester: I
+Academic Year : 2012-2013
+
+Subject: SOFTWARE ENGINEERING METHODOLOGY Marks: 100 SS
+s)u)yu Time: 2.00p.m.To5.00p.m.
+Date: 29/40/2042 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for the use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Inall 5 questions to be attempted.
+
+3. All questions carry equal marks.
+
+4. Answer to each new question should be started on a fresh page.
+5. Figure in brackets indicate full marks.
+
+Q.1. Draw the usecase diagram for the airport check in system given below.
+
+A passenger wants to check in and select the desired seat in the aeroplane. Provide him the user
+interface to login. Once logged in, the passenger can select the seat if available. If the user has check
+} in baggage, he cannot get the boarding pass otherwise also provide him, the print of the boarding
+pass. The passenger can also print the boarding pass again and again. The system can also be
+accesses by the operators who can do the boarding pass printing for the passenger who has or doesn’t
+have the check in baggage. While checking in the luggage, the operator will check that the weight of
+the luggage is within the limits. The weight limits vary depending upon the type of passenger.
+
+Executive class passengers are allowed more luggage weights as compared to the economy class
+
+passenger. ; [10M]
+a.) Describe the following terms of object oriented technology: [6M]
+
+a.) Polymorphism b.) Inheritance c.) Coupling
+
+2
+--- page 2 ---
+4
+
+b.) Define the following terms: [4M]
+i.) Process ii.) Product iii.) Quality iv.) Verification & Validation
+
+c.) What models are created during the analysis phase of a software development process? What is
+
+the purpose of each. [10M]
+
+Q3.
+
+a.) Name and describe the metrics suggested by Chidamber and Kemerer. Also discuss how these
+
+metrics are useful in finding the quality of the software. [SM]
+
+b.) Name and describe the need of various UML diagrams. Are these diagrams interconvert able?
+
+Justify your answer. [SM]
+
+c.) Explain with the help of example, the difference between Sequence diagrams and Collaboration
+
+diagrams. What are Deployment diagrams? [10M]
+Q4.
+
+a.) Describe any two process metrics. [SM]
+b.) Describe the basic rules of UML diagrams. [5M]
+
+c.) “The art of progress is to preserve order amid change and to preserve change amid order” As a
+
+Project Manager, what tools / methods would you use to preserve order amid change? [10M]
+
+QS.
+j
+
+a.) whet are the key characteristics of agile testing methodology? How is it useful for developers.
+
+[10M]
+b.) Explain in detail, what do you mean by 4+1 view model? (5M]
+c.) Discuss the benefits of applying Software engineering principles to software product. [5M]
+
+7
+--- page 3 ---
+Q6.
+
+a.) Discuss the various metrics for software quality. What do you mean by quality assurance process?
+[10M]
+
+b.) Why is there a requirement for agile models? Describe briefly, the participation of active
+
+stakeholders in this process. [10M]
+Q.7.
+
+a.) What do you mean by Test Driven Development and discuss the various phases involved in it.
+Also, describe briefly how they are different from the earlier approaches. [10M]
+b.) Write short notes on (ANY TWO): [10M]
+i.) SCRUM
+
+ii.) CMM-5
+
+iii.) System Verification and Validation
+
+iv.) Metrics for SE process
+
+‘3
+````
 
 ## 2011-12 · Exam not stated · Trim 1 · paper 85ce0b2e0009
 
@@ -11,6 +143,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM I/SOFTWARE ENGINEERING METROLOGY/SOFTWARE ENGINEERING METHODOLOGY BATCH 2011-120001.pdf`
 - Printed on paper: exam date: 13/06/2012
 - Text: ocr (3 pages), mean OCR confidence 87.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -45,11 +178,9 @@ NB:
 Q.1
 a) Write the code/pseudo code for the below given sequence Diagram. [10]
 Web Server
-cutters roweer| intemet | | WebServer Registration | | astudent | | aCourse 0B
 i :
 
 The student browses to the Automated Registration System homey page
-i po Browse to Home rage cece fleece create feeese eee fcreeeeefeeees
 . Reauestrome Page gf cee fees se
 
 Response
@@ -57,7 +188,6 @@ Response
 if (Student not logged in)
 t
 
-sequnnnsineieonstdveees ner Fee prec Viatel be ggte Pact cwenete fete pe et AES iow to hatgeelf oaEEE
 The student clicks on the Registration link in the home page
 . SelectRegistration Page | ,
 Perform user login procedure
@@ -165,6 +295,234 @@ b) Explain 4+1 view model in brief.
 c) What are the changes that a development team has to accept if agile
 testing is on the cards?
 d) What are the attributes of good software test
+
+Page 3 of 3
+````
+
+## 2011-12 · Exam not stated · Trim 1 · ZIP of papers · paper 6961034beb7b · SOFTWARE ENGINEERING METHODOLOGY 2011-2012.pdf
+
+- Departments: Information Technology
+- Programmes: M TECH / I T
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM I/SOFTWARE ENGINEERING METROLOGY/M Tech I T TRIM I Software Engineering Methodology SOFTWARE ENGINEERING METHODOLO_8d698dd9.zip`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 4/11/2011
+- Text: ocr (3 pages), mean OCR confidence 83.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS ,
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: M. Tech. - IT Year: I Trimester: I
+‘ ~ Academic Year : 2011-2012
+Subject: SOFTWARE ENGINEERING Marks: 100
+METHODOLOGY Time: 2.00 pm To 5.00 pm
+Date: 4/11/2011 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for the use.
+NB:
+
+1. Question No.1 is compulsory.
+
+2. In all 5 questions to be attempted.
+
+3. All questions carry equal marks.
+
+4. Answer to each new question should be started on a fresh page.
+
+5. Figure in brackets indicate full marks.
+
+Ql
+a) Write the code/pseudo code for the below given sequence Diagram. [10]
+Web Serer
+sticent Browser Internet WebServer Peas
++
+
+aStudent aCourse DB
+
+The student browses to the Automated Registration System horne page
+Browse to Home Page
+[Home Page]
+
+} Request Home Page
+The student clicks on the Registration link in the home page
+
+Select Registration Page
+Perform user fogin procedure
+# seuss User Login ]...
+
+Response
+
+_ [if Student not logged in)
+
+new0 : page
+
+Prepared
+
+- [Render Page
+
+Response retum
+(Registration Page]
+
+Page 1 of 3
+--- page 2 ---
+Qi
+
+Q2
+
+Q.3
+
+Q.4
+
+b) Why is it important for software developers to make use of measurement to guide
+their work.
+c) Describe the following terms of object oriented technology
+
+a. Polymorphism
+
+b. Inheritance
+
+c. Coupling
+
+a) Write the code/pseudocode for the below class diagram
+
+tui by De 1 | Employes |
+
+{-customer code : string
+
+(SKU: string j | ec |
+
+-tist name : string]
+
+——— | Order
+Catalog L
+jor number : string}
+
+f name 2 sting
+\ pn:dalo | ~ ay da —)
+-Mentifier : sting “| | i
+; ! ee
+pay via |
+sy - Payment Method |
+| i Pee eel
+ine | | “amount: currency | |
+f ] | i +'sPrepaidi) : boolean
+
+Catalog hem
+
+shy te
+
+|" i | Money Order | Check || DebitCard |
+
+i
+Ontrian liye [Henin string) agency: sting | [expiration : dato)
+yo ‘Assuer: string | check number =| number: int |
+| Address) outing number : int sting |
+_ae | a ES anes | wee
+
+t j
+
+[postal code sting |
+‘state : string
+[Steet address: sting
+
+manufacturer: string)
+
+b) Describe the following terms of object oriented Technology
+i) Cohesion
+ii) Data hiding
+
+c) bescribe the basic rules of UML diagrams
+7d
+a) What are the key characteristics of agile testing methodology? How is it useful for
+
+sdevelopers. .
+c) Agile methods are people oriented rather than process oriented. Discuss
+
+a) Name and describe the metrics suggested by Chidamber and Kemerer. Also discuss
+how these metrics are useful in finding the quality of the software.
+
+b) Which is more valuable for OO testing, Black box or white box ? why?
+
+c) What models are created during the analysis phase of a software development
+process? What is the purpose of each.
+
+Page 2 of 3
+
+[10]
+
+[6]
+[4]
+
+[10]
+[10]
+
+[5]
+
+[5]
+[10]
+--- page 3 ---
+Q.6
+
+Q.7
+
+a) Name and describe the need of various UML diagrams. Are these diagrams
+interconvert able? Justify your answer
+
+b) Explain with the help of example the difference between Sequence diagrams and
+collaboration diagrams
+
+c) What are deployment diagrams?
+
+d) Describe any two process metrics
+
+a) The art of progress is to preserve order amid change and to preserve change
+amid order” As a project Manager what tools/methods would you use to
+preserve order amid change?
+
+b) Draw the usecase diagram for the airport check-in system given below.
+
+A passenger wants to check in and select the desired seat in the aeroplane. Provide him
+the user interface to login. Once logged —in the passenger can select the seat if
+available. If the user has check-in baggage he cannot get the boarding pass other wise
+also provide him the print of the boarding pass. The passenger can also print the
+boarding pass again and again. The system can also be accessed by the operators who
+can do the boarding pass printing for the passenger who has or doesn’t have the check-
+in baggage. While checking in the luggage the operator will check that the weight of the
+luggage is within the limits. The weight limits vary depending upon the type of
+passenger. Executive class passengers are allowed more luggage weights as compared
+to the economy class passenger.
+
+a) What is the difference between aggregation and composition? Explain both with the
+help of examples and show them with UML notations.
+
+b)} What is unique about SCRUM?
+
+c) What are the changes that a development team has to accept if agile testing is on the
+cards?
+
+d) Explain various levels in CMM-5
+
+[7]
+[5]
+
+[3]
+[5]
+
+[10]
+
+[10]
+
+[5]
+
+[5]
+[5]
+
+[5]
+
+i i
 
 Page 3 of 3
 ````
@@ -301,6 +659,80 @@ gl
 “A
 ````
 
+## 2010-11 · Exam not stated · Trim 1 · ZIP of papers · paper 8a5270988abc · software engineering methodolgy 2009-2010 re exam.pdf
+
+- Departments: Information Technology
+- Programmes: M TECH / I T
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM I/SOFTWARE ENGINEERING METROLOGY/M Tech I T TRIM I Software Engineering Methodology software engineering methodolg_e45a5c4e.zip`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/10/2010
+- Text: ocr (1 page), mean OCR confidence 95.0
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: M. Tech (I. T.) Year: I Trimester: I
+Academic Year : 2010-2011
+
+Batch: 2009-2010
+
+Subject: SOFTWARE ENGINEERING Marks: 100
+METHODOLOGY Time: 2.00pm To 5.00pm
+
+Date: 30/10/2010 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question | is compulsory.
+
+2. Out of remaining questions attempt any four
+
+3. All questions carry equal marks.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures to the right indicate full marks.
+
+6. Explain your answers with neat diagrams/sketches where required.
+Que. | a. State the generic model of software engineering. Explain methods, tools and process w.r.t. layered
+
+approach of software engineering with example. 10
+b. Develop the sample requirement analysis activity report using SSAD approach for the activities
+conducted for the computerization of a Bank working manually for its services. 10
+
+Que. 2 a. Propose a process model for a project to generate unique identification for the citizen of India.
+
+Justify your proposal and state the phases there in the model. 10
+b. Develop the sample functional, behavior and data model for the problem statement in Que.1.b.
+10
+Que. 3 a. Explain the evolution of UML. Explain 4+1 view model of OO modeling.
+10
+b. Explain the Rational Unified Process. State the phases. 10
+
+Que. 4 a. What is importance of Umbrella activities in SE process? Explain Risk management, SCM, SQA.
+
+10
+
+b. You have been assigned the computerization of library system of your college. Give the activity
+diagram and state diagram. 10
+Que. 5 a. Develop the design class and component model for problem given in question 4 b. 10
+b. Explain the requirement engineering activities using OO approach with example. ~ 10
+Que. 6 a. Perform OO elicitation for problem in Que.4. b. Show steps. 10
+b. Explain the how OO projects are tested. State testing concepts and activities. 10
+Que. 7 a. What do you mean by agility in process? Explain various agile process model 10
+b. Write notes on 10
+
+i. Business Process Engineering and product engineering
+ii Quality attributes of software product
+
+La
+My
+````
+
 ## 2010-11 · Final-Exam · Trim 1 · paper 65b76a0e7468
 
 - Departments: Computer Engineering
@@ -433,6 +865,80 @@ gl
 “A
 ````
 
+## 2010-11 · Re-Exam · Trim 1 · paper 4a0e11346d1d
+
+- Departments: Computer Engineering
+- Programmes: M TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM I/Software Engineering Methodology/Software Engineering Methodolgy Batch 2009-2010 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/10/2010
+- Text: ocr (1 page), mean OCR confidence 95.0
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: M. Tech (I. T.) Year: I Trimester: I
+Academic Year : 2010-2011
+
+Batch: 2009-2010
+
+Subject: SOFTWARE ENGINEERING Marks: 100
+METHODOLOGY Time: 2.00pm To 5.00pm
+
+Date: 30/10/2010 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidate should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question | is compulsory.
+
+2. Out of remaining questions attempt any four
+
+3. All questions carry equal marks.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures to the right indicate full marks.
+
+6. Explain your answers with neat diagrams/sketches where required.
+Que. | a. State the generic model of software engineering. Explain methods, tools and process w.r.t. layered
+
+approach of software engineering with example. 10
+b. Develop the sample requirement analysis activity report using SSAD approach for the activities
+conducted for the computerization of a Bank working manually for its services. 10
+
+Que. 2 a. Propose a process model for a project to generate unique identification for the citizen of India.
+
+Justify your proposal and state the phases there in the model. 10
+b. Develop the sample functional, behavior and data model for the problem statement in Que.1.b.
+10
+Que. 3 a. Explain the evolution of UML. Explain 4+1 view model of OO modeling.
+10
+b. Explain the Rational Unified Process. State the phases. 10
+
+Que. 4 a. What is importance of Umbrella activities in SE process? Explain Risk management, SCM, SQA.
+
+10
+
+b. You have been assigned the computerization of library system of your college. Give the activity
+diagram and state diagram. 10
+Que. 5 a. Develop the design class and component model for problem given in question 4 b. 10
+b. Explain the requirement engineering activities using OO approach with example. ~ 10
+Que. 6 a. Perform OO elicitation for problem in Que.4. b. Show steps. 10
+b. Explain the how OO projects are tested. State testing concepts and activities. 10
+Que. 7 a. What do you mean by agility in process? Explain various agile process model 10
+b. Write notes on 10
+
+i. Business Process Engineering and product engineering
+ii Quality attributes of software product
+
+La
+My
+````
+
 ## 2009-10 · Exam not stated · Trim 1 · ZIP of papers · paper 35eb78846918 · 2009-2010.pdf
 
 - Departments: Information Technology
@@ -545,50 +1051,36 @@ ii Quality attributes of software product
 x No
 ````
 
-## 2009-10 · Re-Exam · Trim 1 · paper 4a0e11346d1d
+## 2009-10 · Re-Exam · Trim 3 · paper e6023bf80096
 
 - Departments: Computer Engineering
 - Programmes: M TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM I/Software Engineering Methodology/Software Engineering Methodolgy Batch 2009-2010 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/10/2010
-- Text: ocr (1 page), mean OCR confidence 95.0
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/COMPUTER/TRIM III/Software Architecture & Project Management/Software Architecture & Project Management Batch 2009-2010 Re Exam.pdf`
+- Text: ocr (1 page), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: M. Tech (I. T.) Year: I Trimester: I
-Academic Year : 2010-2011
-
-Batch: 2009-2010
-
-Subject: SOFTWARE ENGINEERING Marks: 100
-METHODOLOGY Time: 2.00pm To 5.00pm
-
-Date: 30/10/2010 Duration: 3 hrs.
-
-Re - Examination
-
+SVKM’S NMIMS °° = ===]
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE
+ENGINEERING
+M.Tech. (Computer/IT) First Year Trimester I, 2009-10
+Qe — Extom C2090)
+Subject: Software Engineering Methodolo Max.
 Instructions: Candidate should read carefully the instructions printed on the question paper and
 on the cover of the Answer Book, which is provided for their use.
-
 NB:
-
 1. Question | is compulsory.
-
 2. Out of remaining questions attempt any four
-
 3. All questions carry equal marks.
-
 4. Answer to each new question to be started on a fresh page.
-
 5. Figures to the right indicate full marks.
-
 6. Explain your answers with neat diagrams/sketches where required.
-Que. | a. State the generic model of software engineering. Explain methods, tools and process w.r.t. layered
+
+Que. 1 a. State the generic model of software engineering. Explain methods, tools and process w.r.t. layered
 
 approach of software engineering with example. 10
 b. Develop the sample requirement analysis activity report using SSAD approach for the activities
-conducted for the computerization of a Bank working manually for its services. 10
+conducted for the computerization of a Hospital working manually for its services. 10
 
 Que. 2 a. Propose a process model for a project to generate unique identification for the citizen of India.
 
@@ -597,7 +1089,7 @@ b. Develop the sample functional, behavior and data model for the problem statem
 10
 Que. 3 a. Explain the evolution of UML. Explain 4+1 view model of OO modeling.
 10
-b. Explain the Rational Unified Process. State the phases. 10
+b. Explain the things in UML. What is meta model? 10
 
 Que. 4 a. What is importance of Umbrella activities in SE process? Explain Risk management, SCM, SQA.
 
@@ -615,8 +1107,9 @@ b. Write notes on 10
 i. Business Process Engineering and product engineering
 ii Quality attributes of software product
 
-La
-My
+XX
+
+x
 ````
 
 ## 2008-09 · Exam not stated · Trim 1 · ZIP of papers · paper 8e776ac30068 · 2008-2009.pdf
@@ -991,438 +1484,4 @@ b) Software Configuration Management
 c) Software Project Estimation
 
 SS
-````
-
-## Year not stated · Exam not stated · Trim 1 · paper 227c18bfead9
-
-- Departments: Information Technology
-- Programmes: M TECH / I T
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM I/SOFTWARE ENGINEERING METROLOGY/scan0056.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/40/2042
-- Text: ocr (3 pages), mean OCR confidence 93.4
-
-````text
-EL Soe,
-ee mea
-Sf _ ‘
-a Y
-
-‘“
-
-3 SVKmrs
-NMims University
-Mumbai ~ 56. )
-
-LIBRARY —
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: M. Tech (I.T.) Year: I Trimester: I
-Academic Year : 2012-2013
-
-Subject: SOFTWARE ENGINEERING METHODOLOGY Marks: 100 SS
-s)u)yu Time: 2.00p.m.To5.00p.m.
-Date: 29/40/2042 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for the use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Inall 5 questions to be attempted.
-
-3. All questions carry equal marks.
-
-4. Answer to each new question should be started on a fresh page.
-5. Figure in brackets indicate full marks.
-
-Q.1. Draw the usecase diagram for the airport check in system given below.
-
-A passenger wants to check in and select the desired seat in the aeroplane. Provide him the user
-interface to login. Once logged in, the passenger can select the seat if available. If the user has check
-} in baggage, he cannot get the boarding pass otherwise also provide him, the print of the boarding
-pass. The passenger can also print the boarding pass again and again. The system can also be
-accesses by the operators who can do the boarding pass printing for the passenger who has or doesn’t
-have the check in baggage. While checking in the luggage, the operator will check that the weight of
-the luggage is within the limits. The weight limits vary depending upon the type of passenger.
-
-Executive class passengers are allowed more luggage weights as compared to the economy class
-
-passenger. ; [10M]
-a.) Describe the following terms of object oriented technology: [6M]
-
-a.) Polymorphism b.) Inheritance c.) Coupling
-
-2
---- page 2 ---
-4
-
-b.) Define the following terms: [4M]
-i.) Process ii.) Product iii.) Quality iv.) Verification & Validation
-
-c.) What models are created during the analysis phase of a software development process? What is
-
-the purpose of each. [10M]
-
-Q3.
-
-a.) Name and describe the metrics suggested by Chidamber and Kemerer. Also discuss how these
-
-metrics are useful in finding the quality of the software. [SM]
-
-b.) Name and describe the need of various UML diagrams. Are these diagrams interconvert able?
-
-Justify your answer. [SM]
-
-c.) Explain with the help of example, the difference between Sequence diagrams and Collaboration
-
-diagrams. What are Deployment diagrams? [10M]
-Q4.
-
-a.) Describe any two process metrics. [SM]
-b.) Describe the basic rules of UML diagrams. [5M]
-
-c.) “The art of progress is to preserve order amid change and to preserve change amid order” As a
-
-Project Manager, what tools / methods would you use to preserve order amid change? [10M]
-
-QS.
-j
-
-a.) whet are the key characteristics of agile testing methodology? How is it useful for developers.
-
-[10M]
-b.) Explain in detail, what do you mean by 4+1 view model? (5M]
-c.) Discuss the benefits of applying Software engineering principles to software product. [5M]
-
-7
---- page 3 ---
-Q6.
-
-a.) Discuss the various metrics for software quality. What do you mean by quality assurance process?
-[10M]
-
-b.) Why is there a requirement for agile models? Describe briefly, the participation of active
-
-stakeholders in this process. [10M]
-Q.7.
-
-a.) What do you mean by Test Driven Development and discuss the various phases involved in it.
-Also, describe briefly how they are different from the earlier approaches. [10M]
-b.) Write short notes on (ANY TWO): [10M]
-i.) SCRUM
-
-ii.) CMM-5
-
-iii.) System Verification and Validation
-
-iv.) Metrics for SE process
-
-‘3
-````
-
-## Year not stated · Exam not stated · Trim 1 · ZIP of papers · paper 6961034beb7b · SOFTWARE ENGINEERING METHODOLOGY 2011-2012.pdf
-
-- Departments: Information Technology
-- Programmes: M TECH / I T
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM I/SOFTWARE ENGINEERING METROLOGY/M Tech I T TRIM I Software Engineering Methodology SOFTWARE ENGINEERING METHODOLO_8d698dd9.zip`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 4/11/2011
-- Text: ocr (3 pages), mean OCR confidence 83.4
-
-````text
-SVKM’s NMIMS ,
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: M. Tech. - IT Year: I Trimester: I
-‘ ~ Academic Year : 2011-2012
-Subject: SOFTWARE ENGINEERING Marks: 100
-METHODOLOGY Time: 2.00 pm To 5.00 pm
-Date: 4/11/2011 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for the use.
-NB:
-
-1. Question No.1 is compulsory.
-
-2. In all 5 questions to be attempted.
-
-3. All questions carry equal marks.
-
-4. Answer to each new question should be started on a fresh page.
-
-5. Figure in brackets indicate full marks.
-
-Ql
-a) Write the code/pseudo code for the below given sequence Diagram. [10]
-Web Serer
-sticent Browser Internet WebServer Peas
-+
-
-aStudent aCourse DB
-
-The student browses to the Automated Registration System horne page
-Browse to Home Page
-[Home Page]
-
-} Request Home Page
-bs aesas ptisessas toe ee ONE RNS Bc ceccanactta ania tena datenadntedt vundetntoedardenenmncnencee|owene
-The student clicks on the Registration link in the home page
-
-Select Registration Page
-Perform user fogin procedure
-# seuss User Login ]...
-
-Response
-
-_ [if Student not logged in)
-
-new0 : page
-
-Prepared
-
-- [Render Page
-
-Response retum
-(Registration Page]
-
-Page 1 of 3
---- page 2 ---
-Qi
-
-Q2
-
-Q.3
-
-Q.4
-
-b) Why is it important for software developers to make use of measurement to guide
-their work.
-c) Describe the following terms of object oriented technology
-
-a. Polymorphism
-
-b. Inheritance
-
-c. Coupling
-
-a) Write the code/pseudocode for the below class diagram
-
-tui by De 1 | Employes |
-
-{-customer code : string
-
-(SKU: string j | ec |
-
--tist name : string]
-
-——— | Order
-Catalog L
-jor number : string}
-
-f name 2 sting
-\ pn:dalo | ~ ay da —)
--Mentifier : sting “| | i
-; ! ee
-pay via |
-sy - Payment Method |
-| i Pee eel
-ine | | “amount: currency | |
-f ] | i +'sPrepaidi) : boolean
-
-Catalog hem
-
-shy te
-
-|" i | Money Order | Check || DebitCard |
-
-i
-Ontrian liye [Henin string) agency: sting | [expiration : dato)
-yo ‘Assuer: string | check number =| number: int |
-| Address) outing number : int sting |
-_ae | a ES anes | wee
-
-t j
-
-[postal code sting |
-‘state : string
-[Steet address: sting
-
-manufacturer: string)
-
-b) Describe the following terms of object oriented Technology
-i) Cohesion
-ii) Data hiding
-
-c) bescribe the basic rules of UML diagrams
-7d
-a) What are the key characteristics of agile testing methodology? How is it useful for
-
-sdevelopers. .
-c) Agile methods are people oriented rather than process oriented. Discuss
-
-a) Name and describe the metrics suggested by Chidamber and Kemerer. Also discuss
-how these metrics are useful in finding the quality of the software.
-
-b) Which is more valuable for OO testing, Black box or white box ? why?
-
-c) What models are created during the analysis phase of a software development
-process? What is the purpose of each.
-
-Page 2 of 3
-
-[10]
-
-[6]
-[4]
-
-[10]
-[10]
-
-[5]
-
-[5]
-[10]
---- page 3 ---
-Q.6
-
-Q.7
-
-a) Name and describe the need of various UML diagrams. Are these diagrams
-interconvert able? Justify your answer
-
-b) Explain with the help of example the difference between Sequence diagrams and
-collaboration diagrams
-
-c) What are deployment diagrams?
-
-d) Describe any two process metrics
-
-a) The art of progress is to preserve order amid change and to preserve change
-amid order” As a project Manager what tools/methods would you use to
-preserve order amid change?
-
-b) Draw the usecase diagram for the airport check-in system given below.
-
-A passenger wants to check in and select the desired seat in the aeroplane. Provide him
-the user interface to login. Once logged —in the passenger can select the seat if
-available. If the user has check-in baggage he cannot get the boarding pass other wise
-also provide him the print of the boarding pass. The passenger can also print the
-boarding pass again and again. The system can also be accessed by the operators who
-can do the boarding pass printing for the passenger who has or doesn’t have the check-
-in baggage. While checking in the luggage the operator will check that the weight of the
-luggage is within the limits. The weight limits vary depending upon the type of
-passenger. Executive class passengers are allowed more luggage weights as compared
-to the economy class passenger.
-
-a) What is the difference between aggregation and composition? Explain both with the
-help of examples and show them with UML notations.
-
-b)} What is unique about SCRUM?
-
-c) What are the changes that a development team has to accept if agile testing is on the
-cards?
-
-d) Explain various levels in CMM-5
-
-[7]
-[5]
-
-[3]
-[5]
-
-[10]
-
-[10]
-
-[5]
-
-[5]
-[5]
-
-[5]
-
-i i
-
-Page 3 of 3
-````
-
-## Year not stated · Exam not stated · Trim 1 · ZIP of papers · paper 8a5270988abc · software engineering methodolgy 2009-2010 re exam.pdf
-
-- Departments: Information Technology
-- Programmes: M TECH / I T
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/I T/TRIM I/SOFTWARE ENGINEERING METROLOGY/M Tech I T TRIM I Software Engineering Methodology software engineering methodolg_e45a5c4e.zip`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/10/2010
-- Text: ocr (1 page), mean OCR confidence 95.0
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-Programme: M. Tech (I. T.) Year: I Trimester: I
-Academic Year : 2010-2011
-
-Batch: 2009-2010
-
-Subject: SOFTWARE ENGINEERING Marks: 100
-METHODOLOGY Time: 2.00pm To 5.00pm
-
-Date: 30/10/2010 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidate should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question | is compulsory.
-
-2. Out of remaining questions attempt any four
-
-3. All questions carry equal marks.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures to the right indicate full marks.
-
-6. Explain your answers with neat diagrams/sketches where required.
-Que. | a. State the generic model of software engineering. Explain methods, tools and process w.r.t. layered
-
-approach of software engineering with example. 10
-b. Develop the sample requirement analysis activity report using SSAD approach for the activities
-conducted for the computerization of a Bank working manually for its services. 10
-
-Que. 2 a. Propose a process model for a project to generate unique identification for the citizen of India.
-
-Justify your proposal and state the phases there in the model. 10
-b. Develop the sample functional, behavior and data model for the problem statement in Que.1.b.
-10
-Que. 3 a. Explain the evolution of UML. Explain 4+1 view model of OO modeling.
-10
-b. Explain the Rational Unified Process. State the phases. 10
-
-Que. 4 a. What is importance of Umbrella activities in SE process? Explain Risk management, SCM, SQA.
-
-10
-
-b. You have been assigned the computerization of library system of your college. Give the activity
-diagram and state diagram. 10
-Que. 5 a. Develop the design class and component model for problem given in question 4 b. 10
-b. Explain the requirement engineering activities using OO approach with example. ~ 10
-Que. 6 a. Perform OO elicitation for problem in Que.4. b. Show steps. 10
-b. Explain the how OO projects are tested. State testing concepts and activities. 10
-Que. 7 a. What do you mean by agility in process? Explain various agile process model 10
-b. Write notes on 10
-
-i. Business Process Engineering and product engineering
-ii Quality attributes of software product
-
-La
-My
 ````

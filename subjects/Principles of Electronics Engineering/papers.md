@@ -226,6 +226,7 @@ BL-2   different regions of operation.
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ELECTRONICS ENGINEERING/Principles of Electronics Engineering, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 47/05/2092
 - Text: ocr (2 pages), mean OCR confidence 86.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -275,7 +276,6 @@ Is | Iz | Ih
 ov = Ey Son Vo
 
 C02, BLS, $01 b. For the fixed bias, common - emitter circuit in figure 1; determine; Ic, Vcc, | [10]
-, , B, and Re, if Ig = 50 pA, Iz = 6 mA, Vez = 5.8 V, and Rg = 470 kQ.
 
 Q3. a. Elaborate the working of n - channel E - MOSFET with neat schematic | [10]
 C03, BL6, SO1 diagram. A D - MOSFET has Ipss = 1 mA and V> = -6V. Estimate Ip between
@@ -326,6 +326,122 @@ a
 Figure 1 Figure 2
 
 Jet
+````
+
+## 2022-23 · Re-Exam · Sem 2 · paper b0efbdc3046c
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ELECTRONICS ENGINEERING/Principles of Electronics Engineering, Sem-II, Batch 2020-21, 2021-22, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 85.2
+
+````text
+.
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B. Tech Stream: CSBS Year: I Semester: II
+
+Subject: Principles of Electronics Engineering Time: 3 hrs. (1damto2pm )
+
+Date: 12 [Mag/ 20235, No. of Pages: 02
+
+Marks: 100
+Re - Examination (Batch 2020 - 21; 2021 - 22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any _4___ questions. .
+3) In all ___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Qi. Answer the following
+C02, BL2, SO1 a. _| Compare Avalanche breakdown with Zener breakdown. [4]
+C02, BL2, SO1 b. | Explain the formation of npn junction in a BJT {4]
+C02, BL2, SO1 c._| Outline the concept of field effect transistor. [4]
+C03, BL2, SO1 d. | Contrast between positive and negative feedback. [4]
+C04, BL2, SO1 e. | Summarize the working of a multiplexer circuit. [4]
+Q2. a. | Illustrate the significance of fermi levels in conductors, semiconductors, and | [10]
+C01, BL2, SO1 insulators.
+C02, BL2, $01 b. | Explain the forward and reverse characteristics of a p - n junction diode, | [10]
+, , compare the diode current equation with respect to Si and Ge diodes.
+
+Q3. a. | A base bias transistor circuit in figure 1; is subjected to an increase in | [10]
+C03, BL6, SO1 temperature from 25 °C to 75 °C. It is observed that the value of B increased from
+
+100 to 150 with the increase in temperature. Estimate the percentage changes
+
+in Vcr and Tc.
+CO3, BL2, SO1 b. | Describe the working of an - channel JFET using a neat schematic diagram. [10]
+Q4. a. | Analyze the effect of negative feedback on the gain, input impedance and output } [8]
+C03, BL4, SO1 impedance in a voltage series feedback network.
+C04, BL2, SO1 b. | List all the logic gates, the gate symbol, and their respective truth table. [12]
+Qs. a. | Examine the concept of full wave bridge rectifier with circuit diagram, | [10]
+CO2, BL4, SO1 waveforms, and formulae.
+
+2
+--- page 2 ---
+b. | For the emitter bias circuit in figure 2, find Is, Ic, Iz, Vc, Ve, and Vce. A Si transistor | [10]
+
+C02, BL1, S01 having B = 85 is used.
+Q6. a. | Outline the construction and working of a MOSFET with its characteristics. [10]
+CO2, BL2, SO1
+C03, BL2, SO1 b. | Explain the working of inverting and non - inverting operational amplifiers. [10]
+Q7. a. | A silicon P - N junction diode has a reverse saturation current of | [10]
+C02, BL1, SO1 Io = 20 X 10-4 A. Find the current through diode when bias voltage is varied. Vp
+
+= (0.1, 0.3, 0.5, 0.7, 1.2] V.
+C02, BLS, SO1 b. | Derive the expressions for dc current amplification factors & and 6 ina BJT [4]
+
+C03, BL1, SO1 c. | An amplifier without feedback is observed to have A = 200, Zi = 20 kQ, and | [6]
+Zo = 10 kQ. If the feedback fraction B = 1/15, find the value of A, Zi, and Zo with
+feedback due to current shunt topology.
+
+1i2Vv
+
+"At as 20V
+4
+Ske sATkO
+
+i
+
+Vey
+wan Re ly foo™
+pan AA ———p——-f
+nnn { wv { )
+
+fF yookR Ty
+g
+
+| —* i,
+
+| 4
+
+| ZR, = ko
+
+a + : |
+“ 5 Veg
+
+Vv
+
+Figure 1 Figure 2
+
+FERS IOK
+
+AYA
 ````
 
 ## 2022-23 · Re-Exam · Sem 2 · paper f3a2d4503f5c
@@ -564,122 +680,6 @@ BL1 appropriate circuit diagram and relevant waveforms.
 REREEREREK
 
 Page 3 of 3
-````
-
-## 2021-22 · Re-Exam · Sem 2 · paper b0efbdc3046c
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ELECTRONICS ENGINEERING/Principles of Electronics Engineering, Sem-II, Batch 2020-21, 2021-22, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 85.2
-
-````text
-.
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B. Tech Stream: CSBS Year: I Semester: II
-
-Subject: Principles of Electronics Engineering Time: 3 hrs. (1damto2pm )
-
-Date: 12 [Mag/ 20235, No. of Pages: 02
-
-Marks: 100
-Re - Examination (Batch 2020 - 21; 2021 - 22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-1) Question No. _1__ is compulsory.
-
-2) Out of remaining questions, attempt any _4___ questions. .
-3) In all ___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Qi. Answer the following
-C02, BL2, SO1 a. _| Compare Avalanche breakdown with Zener breakdown. [4]
-C02, BL2, SO1 b. | Explain the formation of npn junction in a BJT {4]
-C02, BL2, SO1 c._| Outline the concept of field effect transistor. [4]
-C03, BL2, SO1 d. | Contrast between positive and negative feedback. [4]
-C04, BL2, SO1 e. | Summarize the working of a multiplexer circuit. [4]
-Q2. a. | Illustrate the significance of fermi levels in conductors, semiconductors, and | [10]
-C01, BL2, SO1 insulators.
-C02, BL2, $01 b. | Explain the forward and reverse characteristics of a p - n junction diode, | [10]
-, , compare the diode current equation with respect to Si and Ge diodes.
-
-Q3. a. | A base bias transistor circuit in figure 1; is subjected to an increase in | [10]
-C03, BL6, SO1 temperature from 25 °C to 75 °C. It is observed that the value of B increased from
-
-100 to 150 with the increase in temperature. Estimate the percentage changes
-
-in Vcr and Tc.
-CO3, BL2, SO1 b. | Describe the working of an - channel JFET using a neat schematic diagram. [10]
-Q4. a. | Analyze the effect of negative feedback on the gain, input impedance and output } [8]
-C03, BL4, SO1 impedance in a voltage series feedback network.
-C04, BL2, SO1 b. | List all the logic gates, the gate symbol, and their respective truth table. [12]
-Qs. a. | Examine the concept of full wave bridge rectifier with circuit diagram, | [10]
-CO2, BL4, SO1 waveforms, and formulae.
-
-2
---- page 2 ---
-b. | For the emitter bias circuit in figure 2, find Is, Ic, Iz, Vc, Ve, and Vce. A Si transistor | [10]
-
-C02, BL1, S01 having B = 85 is used.
-Q6. a. | Outline the construction and working of a MOSFET with its characteristics. [10]
-CO2, BL2, SO1
-C03, BL2, SO1 b. | Explain the working of inverting and non - inverting operational amplifiers. [10]
-Q7. a. | A silicon P - N junction diode has a reverse saturation current of | [10]
-C02, BL1, SO1 Io = 20 X 10-4 A. Find the current through diode when bias voltage is varied. Vp
-
-= (0.1, 0.3, 0.5, 0.7, 1.2] V.
-C02, BLS, SO1 b. | Derive the expressions for dc current amplification factors & and 6 ina BJT [4]
-
-C03, BL1, SO1 c. | An amplifier without feedback is observed to have A = 200, Zi = 20 kQ, and | [6]
-Zo = 10 kQ. If the feedback fraction B = 1/15, find the value of A, Zi, and Zo with
-feedback due to current shunt topology.
-
-1i2Vv
-
-"At as 20V
-4
-Ske sATkO
-
-i
-
-Vey
-wan Re ly foo™
-pan AA ———p——-f
-nnn { wv { )
-
-fF yookR Ty
-g
-
-| —* i,
-
-| 4
-
-| ZR, = ko
-
-a + : |
-“ 5 Veg
-
-Vv
-
-Figure 1 Figure 2
-
-FERS IOK
-
-AYA
 ````
 
 ## 2021-22 · Re-Exam · Sem 2 · paper 1c176d0ee4d0

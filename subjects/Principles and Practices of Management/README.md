@@ -1,6 +1,6 @@
 # Principles and Practices of Management
 
-**23** unique papers (77 copies across programmes) · 2006-07 to 2014-15 · 7 programmes · Sem 4, Trim 4, Trim 5, Trim 6
+**22** unique papers (76 copies across programmes) · 2006-07 to 2014-15 · 7 programmes · Sem 4, Trim 4, Trim 5, Trim 6
 
 Download only this subject, sorted by academic year:
 
@@ -38,6 +38,5 @@ Also filed as: `PRINCIPLES AND PRACTICE OF MANAGEMENT`
 | 2007-08 | — | Question paper | Trim 4 | MBA TECH / TELECOM EXTC | 2007-2008(75).pdf |
 | 2007-08 | Re-Exam | Question paper | Trim 4 | MBA TECH / TELECOM EXTC | 2007-2008 re exam(19).pdf |
 | 2006-07 | — | Question paper | Trim 4 | MBA TECH / TELECOM EXTC | 2006-2007(51).pdf |
-| — | — | Question paper | Trim 4 | MBA TECH / COMPUTER | scan0072.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

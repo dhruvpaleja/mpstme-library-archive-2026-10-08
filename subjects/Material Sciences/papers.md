@@ -1,61 +1,112 @@
 # Material Sciences: question papers in full
 
-19 unique papers · 2005-06 to 2012-13 · Common (all branches)
+19 unique papers · 2005-06 to 2013-14 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Exam not stated · Trim 2 · paper 362aa42c578b
+## 2013-14 · Re-Exam · Trim 2 · paper b6301c63809a
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/MATERIAL SCINECES/MATERIAL SCIENCE 2012-13.pdf`
-- Printed on paper: duration hours: 3; exam date: 09/02/2013
-- Text: text (1 page)
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/MATERIAL SCINECES/MATERIAL SCIENCE BATCH 2011-12 RE EXAM0001(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17 /12/2013
+- Text: ocr (2 pages), mean OCR confidence 93.8
 
 ````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology
-Programme: M B A (Tech) -ALL STREAMS   Year:
-Academic Year :
-Subject:   MATERIAL SCIENCE   Marks:
-Time:   10.00am To 1.00pm
-Date:   09/02/2013   Duration:   3   hrs.
-Final - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-Answer Book, which is provided for their use.
-Note:
-1. Question No.1 is compulsoty.
-2. Out of remaining six questions, attempt any four questions.
-3. In all five questions to be attempted
-4.   All questions carry equal marks. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicate full marks.
-la. Define following terms: - a) Ductility   b) Malleability   (05)
-b. Compare thermosetting and thermoplastic polymers on the basis of their properties and   (05)
-applications.
-c. What are ceramic matrix composites?   (05)
-d. Write a note on following stainless steels: ~ustenitic & ferritic.   (05)
-2a. What are ceramics? Write short note on non-oxide ceramics.
-b. Write short note on soldering.
-c. Explain equilibrium transformations in iron-iron carbide system.
-1   3a. Describe the process of solidification of metals and explain nucleation & growth in detail.   (10)
-b. Distinguish between a~nealing SI normalizing.   (05)
-c. Explain Bainite transformation in TIT diagram.   (05)
-4a. Describe the basics of surface treatments and explain the electroplating method.   (10)
-b. State the advantages & disadvantages of non destructive tests over the destructive tests.   (05)
-c. What are minor alloying elements in steel?   (05)
-5a Explain the mechanical and thermal properties of metal.
-b. Explain tensile testing.
-c. What is phase diagram? What information does it provides.
-4
-6a Explain the factors effecting the selection of material for engineering purposes.   (10)
-b. Explain the two factors that affect'hardenability of steel.   (05)
-c. Write a short note on glass ceramics.   (05)
-7a. Explain the principles of following methods of inspection: a) Dye penetration b)ultrasonic   (10)
-b. Explain heat removal process during quenching.   (05)
-c. Draw & explain phase diagram exhibiting eutectic mixture.   (05)
+Ql
+
+Q2
+
+Q3
+
+Q4
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE MET, &, ENGINEERING
+
+“Oi 2
+
+Programme:MBA Tech (ALL) Year: I Trimester: II
+Academic Year: 2013-14 Batch:2011-12
+Subject : Material Science
+Marks: 100
+Date :17 /12/2013 Time : 10.00 am to 1.00 pm
+
+Durations:3 (hrs)
+Re-Examination
+
+Question no. 1 is compulsory.
+
+Out of remaining questions, attempt any 4 questions.
+
+In all 5 questions to be attempted.
+
+All questions carry equal marks.
+
+Answers to be each question to be started on fresh page.
+Figures in brackets on the right hand side indicate full marks.
+
+Answer any four of the following
+a What is a metal — matrix composite?
+b What are cast irons? State two uses of cast irons.
+c Explain the allotropic transformations in pure iron
+d What are the different types of solid solutions?
+e What are brasses? State some applications of brasses.
+f What is tensile testing of materials?
+a What is heat treatment explain any two types of heat treatment processes briefly.
+b Draw a neat labeled Iron - Iron carbide equilibrium diagram
+a Draw a typical eutectic phase diagram and explain its important features.
+b Differentiate between welding, brazing and soldering.
+a Define the following mechanical properties.
+i) Malleability ii) Ductility iii) Ultimate tensile strength iv)Yield point v) toughness
+b Explain the ultrasonic testing of materials.
+
+Yo.
+
+20
+
+10
+10
+
+10
+10
+
+10
+
+10
+--- page 2 ---
+Qs
+
+Q6
+
+Q7
+
+What are stainless steels? State its applications
+Explain the process of electroplating in details.
+
+What are polymers? Classify the polymers giving examples
+State Hume Rothary’s rules for solid solubility
+Explain the martensitic transformation in steels
+
+Draw the following microstructures:
+
+1. Grey cast iron
+2. Martensite
+
+3. Austenite
+4. Ferrite
+5. Pearlite
+
+2/2.
+
+10
+10
+
+10
+
+20
 ````
 
-## 2012-13 · Re-Exam · Trim 2 · paper 12536571feb8
+## 2013-14 · Re-Exam · Trim 2 · paper 12536571feb8
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -120,7 +171,7 @@ B. Write short notes on following: (a) Anodising, [05]
 ag
 ````
 
-## 2012-13 · Re-Exam · Trim 2 · paper 53b73dedbb53
+## 2013-14 · Re-Exam · Trim 2 · paper 53b73dedbb53
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -284,6 +335,109 @@ Transformation product of austenite
 (20)
 ````
 
+## 2012-13 · Exam not stated · Trim 2 · paper 362aa42c578b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/MATERIAL SCINECES/MATERIAL SCIENCE 2012-13.pdf`
+- Printed on paper: duration hours: 3; exam date: 09/02/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology
+Programme: M B A (Tech) -ALL STREAMS   Year:
+Academic Year :
+Subject:   MATERIAL SCIENCE   Marks:
+Time:   10.00am To 1.00pm
+Date:   09/02/2013   Duration:   3   hrs.
+Final - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+Answer Book, which is provided for their use.
+Note:
+1. Question No.1 is compulsoty.
+2. Out of remaining six questions, attempt any four questions.
+3. In all five questions to be attempted
+4.   All questions carry equal marks. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicate full marks.
+la. Define following terms: - a) Ductility   b) Malleability   (05)
+b. Compare thermosetting and thermoplastic polymers on the basis of their properties and   (05)
+applications.
+c. What are ceramic matrix composites?   (05)
+d. Write a note on following stainless steels: ~ustenitic & ferritic.   (05)
+2a. What are ceramics? Write short note on non-oxide ceramics.
+b. Write short note on soldering.
+c. Explain equilibrium transformations in iron-iron carbide system.
+1   3a. Describe the process of solidification of metals and explain nucleation & growth in detail.   (10)
+b. Distinguish between a~nealing SI normalizing.   (05)
+c. Explain Bainite transformation in TIT diagram.   (05)
+4a. Describe the basics of surface treatments and explain the electroplating method.   (10)
+b. State the advantages & disadvantages of non destructive tests over the destructive tests.   (05)
+c. What are minor alloying elements in steel?   (05)
+5a Explain the mechanical and thermal properties of metal.
+b. Explain tensile testing.
+c. What is phase diagram? What information does it provides.
+4
+6a Explain the factors effecting the selection of material for engineering purposes.   (10)
+b. Explain the two factors that affect'hardenability of steel.   (05)
+c. Write a short note on glass ceramics.   (05)
+7a. Explain the principles of following methods of inspection: a) Dye penetration b)ultrasonic   (10)
+b. Explain heat removal process during quenching.   (05)
+c. Draw & explain phase diagram exhibiting eutectic mixture.   (05)
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper c3d91778c36a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/MATERIAL SCINECES/MATERIAL SCIENCE II MBA TECH 2011-12 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2013
+- Text: text (1 page)
+
+````text
+\ .
+SVKM's NMIMS
+-   Mukesh Patel School of Technologv Management Ik Enginee
+Pyogramme: MBA TECH - (ALL STREAMS) .-Year:   I   -   - Trimester:   II
+Academic Year :2012-2013
+Batch:   201 1-2012
+Subject:   Material Science   Marks:   100
+Time:   10.00 am To 1.00 pm
+Date:   20/06/2013   Duration: 3 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the answer book, which is provided for their use.
+Note:
+1. Question No. 1is compulsorf.
+2. Out of remaining six questions, attempt any four questions.
+3. In all Fie questions to be attempted.
+4. Answer to each new question to be started on a fresh page. .
+5. Figure in brackets indicate full marks.
+Qla. Metal Matrix composites and their uses.
+b. Explain electroplating.
+c. Explain Stainless Steel.
+d. Give any five physical properties of materials.
+Q2a. Refractory materials and their uses.   (5)
+b. Explain Thermoplastic polymers and their applications.   (10)
+c. Classify composite materials.   (5)
+Q3a. Draw Fe -Fe3C equilibrium diagram and explain the transformations.   (13)
+b. Using TTT diagram explain martensite transformation.   (7)
+t
+Q4a. Draw diagram and explain the formation of solids from liquid of pure metals. (10)
+b. Explain the formation of solid solutions along with Hurne-Rothery rules.   (10)
+Q5a. Give any five electrical properties of materials.   (5)
+b. Explain any one method of Non Destructive ~estinhor flaw detection.   (5)
+c. Describe the factors affecting selection of materials for engineering purposes. (10)
+Q6a. Explain the nature and types of ceramic materials.   (5)
+b. Ceramic Matrix composites.   (5)
+c. Explain Normalizing.   (5)
+d. Explain welding process.   (5)
+Q7a. Explain the effects of allying elements.
+b. Alloy Steels.
+c. Describe RockweIl Hardness Testing.
+d. Explain tensile testing.
+````
+
 ## 2012-13 · Re-Exam · Trim 2 · paper 47949e123acf
 
 - Departments: Common (all branches)
@@ -425,6 +579,102 @@ XX
 Y
 ````
 
+## 2011-12 · Re-Exam · Trim 2 · paper 976d7449314f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/MATERIAL SCINECES/MATERIAL SCIENCE BATCH 2010-11 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 21/06/2012
+- Text: ocr (2 pages), mean OCR confidence 90.9
+
+````text
+“a
+
+, RMSE og
+~“ ZO,
+SVKM’s NMIMS PS Ne
+Mukesh Patel School of Technology Management & Engineeri' vl ( Ly ‘4 E
+Programme: MBATech_ - Year: I Trimester: II NGF C
+
+Academic Year : 2011-2012
+
+Batch: 2010-2011 .
+Subject: Material Science Marks: 100
+
+; Time: 10.00 pm To 1.00 pm
+Date: 21/06/2012 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their
+use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. Inall five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+Q.1. Answer the following (Any Five) (20Marks)
+
+a) What is Anodizing?
+b) Give classification of practices.
+c) What is surface hardening? Why it is carried out?
+d) What is stainless steel?
+e) By giving specification, state the applications of tin & zinc.
+f) State the different minor alloying elements with their-functions.
+}
+\ cS :
+Q.2.¢) lvnat is Annealing? (05 Marks)
+
+b) State the different reasons for adding different alloying elements in an ordinary steel. (06 Marks)
+
+c) Sketch the iron carbon phase diagram & show the different transformations. (09 Marks)
+
+1/2
+--- page 2 ---
+Q.3. a) State the different ingot defects & the remedial action for the same. (08 Marks)
+
+b) Distinguish between welding & brazing. (06 Marks)
+c) State the importance of formation of solid solution, along with conditions. (06 Marks)
+Q.4. a) Sketch the TTT diagram & explain bainite & marten site formation. (10 Marks)
+b) State the different thermal,& magnetic properties of metal. (06 Marks)
+c) What is electroplating? (04 Marks)
+Q.5. a) State the different methods of NDT & explain any one. (10 Marks)
+b) State the factors to be considered for selection of material for industrial application by
+giving suitable example. (08 Marks)
+c) Define Homogenization. (02 Marks)
+Q.6. a) Explain the different mechanical properties of a metal. (05 Marks)
+b) Explain the Eutectoid & Peritectic Alloys. (10 Marks)
+c) Give the advantages of NDT. (05 Marks)
+Q.7, Write short notes on (Any Four) (20 Marks)
+
+a) Tool Steels.
+
+b) Soldering.
+
+c) Ceramic matrix composites.
+d) Flaw Detection.
+
+e) Péarlite.
+
+\
+
+f) Aibminium & Nickel.
+
+\
+
+2/2
+````
+
 ## 2011-12 · Re-Exam · Trim 2 · paper b8663986d0c1
 
 - Departments: Common (all branches)
@@ -559,108 +809,6 @@ e. Alloy steels.
 f. Rockwell hardness test.
 ````
 
-## 2011-12 · Re-Exam · Trim 2 · paper b6301c63809a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/MATERIAL SCINECES/MATERIAL SCIENCE BATCH 2011-12 RE EXAM0001(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 17 /12/2013
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-Ql
-
-Q2
-
-Q3
-
-Q4
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE MET, &, ENGINEERING
-
-“Oi 2
-
-Programme:MBA Tech (ALL) Year: I Trimester: II
-Academic Year: 2013-14 Batch:2011-12
-Subject : Material Science
-Marks: 100
-Date :17 /12/2013 Time : 10.00 am to 1.00 pm
-
-Durations:3 (hrs)
-Re-Examination
-
-Question no. 1 is compulsory.
-
-Out of remaining questions, attempt any 4 questions.
-
-In all 5 questions to be attempted.
-
-All questions carry equal marks.
-
-Answers to be each question to be started on fresh page.
-Figures in brackets on the right hand side indicate full marks.
-
-Answer any four of the following
-a What is a metal — matrix composite?
-b What are cast irons? State two uses of cast irons.
-c Explain the allotropic transformations in pure iron
-d What are the different types of solid solutions?
-e What are brasses? State some applications of brasses.
-f What is tensile testing of materials?
-a What is heat treatment explain any two types of heat treatment processes briefly.
-b Draw a neat labeled Iron - Iron carbide equilibrium diagram
-a Draw a typical eutectic phase diagram and explain its important features.
-b Differentiate between welding, brazing and soldering.
-a Define the following mechanical properties.
-i) Malleability ii) Ductility iii) Ultimate tensile strength iv)Yield point v) toughness
-b Explain the ultrasonic testing of materials.
-
-Yo.
-
-20
-
-10
-10
-
-10
-10
-
-10
-
-10
---- page 2 ---
-Qs
-
-Q6
-
-Q7
-
-What are stainless steels? State its applications
-Explain the process of electroplating in details.
-
-What are polymers? Classify the polymers giving examples
-State Hume Rothary’s rules for solid solubility
-Explain the martensitic transformation in steels
-
-Draw the following microstructures:
-
-1. Grey cast iron
-2. Martensite
-
-3. Austenite
-4. Ferrite
-5. Pearlite
-
-2/2.
-
-10
-10
-
-10
-
-20
-````
-
 ## 2011-12 · Re-Exam · Trim 2 · paper ea09c149848b
 
 - Departments: Common (all branches)
@@ -763,58 +911,6 @@ Que.7. Writd ashortnoteon (Any four) (20)
 2/>
 ````
 
-## 2011-12 · Re-Exam · Trim 2 · paper c3d91778c36a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/MATERIAL SCINECES/MATERIAL SCIENCE II MBA TECH 2011-12 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/06/2013
-- Text: text (1 page)
-
-````text
-\ .
-SVKM's NMIMS
--   Mukesh Patel School of Technologv Management Ik Enginee
-Pyogramme: MBA TECH - (ALL STREAMS) .-Year:   I   -   - Trimester:   II
-Academic Year :2012-2013
-Batch:   201 1-2012
-Subject:   Material Science   Marks:   100
-Time:   10.00 am To 1.00 pm
-Date:   20/06/2013   Duration: 3 hrs.
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the answer book, which is provided for their use.
-Note:
-1. Question No. 1is compulsorf.
-2. Out of remaining six questions, attempt any four questions.
-3. In all Fie questions to be attempted.
-4. Answer to each new question to be started on a fresh page. .
-5. Figure in brackets indicate full marks.
-Qla. Metal Matrix composites and their uses.
-b. Explain electroplating.
-c. Explain Stainless Steel.
-d. Give any five physical properties of materials.
-Q2a. Refractory materials and their uses.   (5)
-b. Explain Thermoplastic polymers and their applications.   (10)
-c. Classify composite materials.   (5)
-Q3a. Draw Fe -Fe3C equilibrium diagram and explain the transformations.   (13)
-b. Using TTT diagram explain martensite transformation.   (7)
-t
-Q4a. Draw diagram and explain the formation of solids from liquid of pure metals. (10)
-b. Explain the formation of solid solutions along with Hurne-Rothery rules.   (10)
-Q5a. Give any five electrical properties of materials.   (5)
-b. Explain any one method of Non Destructive ~estinhor flaw detection.   (5)
-c. Describe the factors affecting selection of materials for engineering purposes. (10)
-Q6a. Explain the nature and types of ceramic materials.   (5)
-b. Ceramic Matrix composites.   (5)
-c. Explain Normalizing.   (5)
-d. Explain welding process.   (5)
-Q7a. Explain the effects of allying elements.
-b. Alloy Steels.
-c. Describe RockweIl Hardness Testing.
-d. Explain tensile testing.
-````
-
 ## 2010-11 · Exam not stated · Trim 2 · paper 040adf1208e3
 
 - Departments: Common (all branches)
@@ -884,102 +980,6 @@ c. What is Austenite and Pearlite? [05]
 d. Write a note on Aluminium Nitride. [05]
 
 h
-````
-
-## 2010-11 · Re-Exam · Trim 2 · paper 976d7449314f
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/MATERIAL SCINECES/MATERIAL SCIENCE BATCH 2010-11 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 21/06/2012
-- Text: ocr (2 pages), mean OCR confidence 90.9
-
-````text
-“a
-
-, RMSE og
-~“ ZO,
-SVKM’s NMIMS PS Ne
-Mukesh Patel School of Technology Management & Engineeri' vl ( Ly ‘4 E
-Programme: MBATech_ - Year: I Trimester: II NGF C
-
-Academic Year : 2011-2012
-
-Batch: 2010-2011 .
-Subject: Material Science Marks: 100
-
-; Time: 10.00 pm To 1.00 pm
-Date: 21/06/2012 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their
-use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. Inall five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-Q.1. Answer the following (Any Five) (20Marks)
-
-a) What is Anodizing?
-b) Give classification of practices.
-c) What is surface hardening? Why it is carried out?
-d) What is stainless steel?
-e) By giving specification, state the applications of tin & zinc.
-f) State the different minor alloying elements with their-functions.
-}
-\ cS :
-Q.2.¢) lvnat is Annealing? (05 Marks)
-
-b) State the different reasons for adding different alloying elements in an ordinary steel. (06 Marks)
-
-c) Sketch the iron carbon phase diagram & show the different transformations. (09 Marks)
-
-1/2
---- page 2 ---
-Q.3. a) State the different ingot defects & the remedial action for the same. (08 Marks)
-
-b) Distinguish between welding & brazing. (06 Marks)
-c) State the importance of formation of solid solution, along with conditions. (06 Marks)
-Q.4. a) Sketch the TTT diagram & explain bainite & marten site formation. (10 Marks)
-b) State the different thermal,& magnetic properties of metal. (06 Marks)
-c) What is electroplating? (04 Marks)
-Q.5. a) State the different methods of NDT & explain any one. (10 Marks)
-b) State the factors to be considered for selection of material for industrial application by
-giving suitable example. (08 Marks)
-c) Define Homogenization. (02 Marks)
-Q.6. a) Explain the different mechanical properties of a metal. (05 Marks)
-b) Explain the Eutectoid & Peritectic Alloys. (10 Marks)
-c) Give the advantages of NDT. (05 Marks)
-Q.7, Write short notes on (Any Four) (20 Marks)
-
-a) Tool Steels.
-
-b) Soldering.
-
-c) Ceramic matrix composites.
-d) Flaw Detection.
-
-e) Péarlite.
-
-\
-
-f) Aibminium & Nickel.
-
-\
-
-2/2
 ````
 
 ## 2009-10 · Exam not stated · Trim 2 · paper 81bacf482a34

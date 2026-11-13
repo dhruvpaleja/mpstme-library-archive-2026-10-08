@@ -16,18 +16,6 @@ Also filed as: `LINIEAR ALGEBRA AND DIFFERENTIAL EQUATIONS`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AI 7012, BTech AIDS 7056, BTech Computer 7002, BTech CS 7055, BTech CSE DS 7057, BTech IT 7001, BTech Mechanical 7003, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026_e30cfaf3c1.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | BTech AI 7012, BTech AIDS 7056, BTech Computer 7002, BTech CS 7055, BTech CSE DS 7057, BTech IT 7001, BTech Mechanical 7003, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | BTech AIML 7053 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
@@ -40,6 +28,38 @@ Also filed as: `LINIEAR ALGEBRA AND DIFFERENTIAL EQUATIONS`
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MBATech Computer 7047 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026_69c2168d1e.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AI 7012, BTech AIDS 7056, BTech Computer 7002, BTech CS 7055, BTech CSE DS 7057, BTech IT 7001, BTech Mechanical 7003, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026_e30cfaf3c1.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | B TECH | Linear Algebra and Differential Equations, Sem-II, Batch 2025-26, Re Exam.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AIML 7053 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech CS 7055 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech CSE DS 7057 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech Civil 7005 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech CyberSecurity 7010, MBATech Computer 7047 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech DS 7009 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech EXTC 7006 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech Mechanical 7003 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech Mechatronics 7004 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated Computer 7032 | QP_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated DS 7038 | QP_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated IT 7037 | QP_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated Mechanical 7031 | QP_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | MBATech Computer 7047 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026_437203ea38.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
@@ -61,46 +81,6 @@ Also filed as: `LINIEAR ALGEBRA AND DIFFERENTIAL EQUATIONS`
 | 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026_63c8c3aea4.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026pdf_63c8c3ae |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | B TECH | Linear Algebra and Differential Equations, Sem-II, Batch 2025-26, Re Exam.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech AIML 7053 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech CS 7055 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech CSE DS 7057 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech Civil 7005 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech CyberSecurity 7010, MBATech Computer 7047 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech DS 7009 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech EXTC 7006 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech Mechanical 7003 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | BTech Mechatronics 7004 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated Computer 7032 | QP_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated DS 7038 | QP_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated IT 7037 | QP_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated Mechanical 7031 | QP_Linear Algebra and Differential Equations(702BS0C051)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | MBATech Computer 7047 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026_437203ea38.pdf |
-| 2025-26 | Re-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Mechanical 7003 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech IT 7041 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech AIML 7053 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
@@ -121,24 +101,26 @@ Also filed as: `LINIEAR ALGEBRA AND DIFFERENTIAL EQUATIONS`
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MBATech Computer 7047 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MBATech IT 7041 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Mechanical 7003 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025_dd3e665c9e.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech IT 7041 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Mechanical 7003 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech IT 7041 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED, B.TECH INTEGRATED / COMPUTER | Linear Algebra and Differential Equations Batch 2024-25 Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech AI 7012 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech AIML 7053 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
@@ -158,6 +140,24 @@ Also filed as: `LINIEAR ALGEBRA AND DIFFERENTIAL EQUATIONS`
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech Computer 7047 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech IT 7041 | QP_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AI 7012 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Mechanical 7003 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated Mechanical 7031 | ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025_dd3e665c9e.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech IT 7041 | ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf |
 | 2023-24 | — | Question paper | Sem 2 | B TECH | Linear Algebra and Differential Equations, Sem-II, Batch Batch 2022-23, 2023-24 &_62fdf422.pdf |
 | 2023-24 | Final + Re-Exam | Question paper |  | B.TECH INTEGRATED | Linear Algebra and Differential Equations Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2, Sem 6 | B TECH, B.TECH INTEGRATED / CIVIL | Linear Algebra and Differentail Equations Batch 2021-22,2022-23,2023-24 Re Exam.pdf |

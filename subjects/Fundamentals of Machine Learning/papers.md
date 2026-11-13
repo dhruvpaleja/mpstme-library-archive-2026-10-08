@@ -179,285 +179,7 @@ sklearn.cluster. K-Means, compare the cluster assignments and centroid
 positions with your manual results.
 ````
 
-## 2024-25 · Final + Re-Exam · Sem 5 · paper 439f6f51686b
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/FUNDAMENTALS OF MACHINE LEARNING/Foudations of Machine Learning, Sem-V, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 88.5
-
-````text
-SVKM’S NMIMS SP
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINE
-Academic Year: 2024-2025
-
-¥
-
-Program/s: B Tech/MBA Tech Year: _IIL~ Semester: Vv
-Stream/s ;_ Data Science
-
-Subject: __ Foundations of Machine Learning - Time: 3 hrs (_2:00 pm to 5:00 pm )
-Date:__29 / 11 /2024 . No. of Pages:_ 6
-
-Marks: 100.
-
-Final Examination/Re-Exam 2022-23,2023-24
-(2024-25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-'€ 2) Out of remaining questions, attempt any__4 _ questions.
-3) In all___5_ questions to be attempted. ra
-4) All questions carry equal marks. “ey
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql .
-Answer briefly: [20/20]
-A import numpy as np .
-X = np.array([ [-1.0, 2.0, -3.0, 4.0, 1.0], [1.5, -2.5, 3.5, -1.0, 0.5], [2.0, -1.0,
-CO-1; 2.0, 3.0, -1.5] ]) :
-SO- 2; . . . [5]
-BL-1 How can you implement the Relu and Tanh function from scratch in Python
-“= - on the data set given above?
-Write down the python code in your answer book.
-CO-2 ; B . 3 : .
-SO-2; Differentiate between Supervised Versus Unsupervised Learning. [5]
-BL-3
-CO-1 ; Cc . .
-SO-3; Explain what Vector and Scalar Projection with an example. [5]
-BL-1
-a CO-2 ; D .
-SO-2; Write down the python code for linear regression cost function [5]
-a BL-1
-Q A import numpy as np [10]
-CO-2; X = np.array([[0.5, -1.2, 3.3
-50-3: p.array([[0.5, ]
---- page 2 ---
-BL-4
-
-[-0.8, 1.0, -0.5], 7
-(2.2, -0.1, 0.0], -
-[1.5, 1.2, -1.2]])
-
-y = np.array({1, 0, 1, 0))..
-
-Implement logistic regression using gradient descent on the above data set
-to find the best-fitting line for the given above dataset. Write down Python
-code in your answer book with following specifications:
-
-¢ Initialize the parameters to zero.
-
-e Set the learning rate to 0.01.
-
-e Run the gradient descent for 1000 iterations.
-Hint:
-def LRGOQ):
-m=
-ne =
-w=
-f= *
-cost_hist =[]
-for i in range(epoch):
-h=
-a=
-error=
-cost =
-dw=
-db =
-w
-b=
-cost_hist.append(cost)
-
-return w,b
---- page 3 ---
-CO-3;
-SO-3;
-BL-4
-
-What is Linear Discriminant Analysis (LDA) and how mathematically we [10]
-derive Fisher’s Z scores? ~
-
-Q3
-CO-3;
-SO-4;
-BL-5
-
-Given the following four two-dimensional data points:
-(2,3),(3,3),(6,7),(8,8),(3,4) manually apply the K-Means clustering | [10]
-
-algorithm to group these points into 2 clusters.
-
-How can you implement forward propagation ANN structure (2 Layers, Ist
-layer (Relu) with 4 node, 2nd Layer out put layer with sigmoid activation
-function using Python, with random weight initialization?.
-Write down the python code in your answer book.
-Hint:
-def forward_propagation(X, patameters):
-WI =
-bl =
-W2=
-—_ [10]
-ai=
-Al= . q
-Z2=
-A2 =
-
-cache =
-
-return A2, cache
-
-Q4
-
-CO3-;
-SO-3;
-BL-4
-
-How can you mathematically implement Principal component Analysis
-(PCA) using NumPy arrays in the below data set
-
-[10]
-import numpy as np
-
-# Sample dataset
---- page 4 ---
-X = np.array(([2.5, 2.4], [0.5, 0.7], [2.2, 2.9], [1.9, 2.2], [3.1, 3.0], [2.3,
-2.7], (2.0, 1.6], [1.0, 1.1], [1.5, 1.6], [1.1, 0.9]]) ~
-Write down the python code in your answer book.
-
-Hint: 7
-
-# calculate the mean of each column
-
-M=
-
-# center columns by subtracting column means
-
-ee f
-
-# calculate covariance matrix of centered matrix
-
-_ :
-
-##Calculate eigvector(V) for projection
-
-import numpy as np :
-
-ey
-
-eigvalues, eigvector=np.linalg.eig(V)
-
-foal
-
-CO3-;
-SO-3;
-BL-4
-
-How can you implement a simple Artificial Neural Network (ANN) model
-
-using Keras in Python to classify the wine dataset which contains three
-layers?
-
-Note:The Wine dataset is another popular dataset ‘for classification tasks. It
-contains chemical analysis results for 178 wine samples, with 13 features
-
-(e.g., alcohol content, malic acid, ash, etc.) and 3 target classes,
-corresponding to three different wine cultivars [10]
-from sklearn.datasets import load_wine
-
-iris = load_wine()
-
-X = wine.data
-
-y = wine.target
-
-Write down the python code in your answer book.
-
-Q5
-
-CO-3;
-SO-3;
-
-How does Agglomerative Hierarchical Clustering work? Using a dataset of
-four points with coordinates do Agglomerative Hierarchical Clustering | [10]
-
-using the method of complete linkages.
---- page 5 ---
-BL-4
-
-Name | X1 X2
-A 1 2
-B 3 4
-Cc 5 6
-D 8 8
-CO-3;
-SO-4; Explain the algorithm of gradient descent for linear regression [10]
-BL-5
-from sklearn.datasets import load_digits
-import matplotlib.pyplot as plt
-digits = load_digits()
-X, y = digits.data, digits.target ©
-X.shape
-Q6
-CO-3: Note: Digits dataset of grayscale images, each of size 8x8 pixels. The [10]
-SO-4; images are flattened into 64-dimensional vectors for processing.
-BL-5
-What is the concept of Eigenface. Apply PCA‘to reduce the dimensionality
-of the digits from 64 dimensions to 4 dimensions. Reconstruct a few digits
-from the reduced dataset using the 4 principal components in Python.
-Write down the python code in your answer book.
-How does the K-Nearest Neighbors (KNN) algorithm work? Using a dataset
-with 10 points characterized by two features and two classes, can you
-explain the step-by-step process of classifying a new point P(3,2) using
-K=3?
-CO-3;
-SO-4; Point__| X1 X2 class [10]
-BL-5 A 1 2 0
-B 2 2 0
-Cc 3 1 1
-D 4 K 1
-5 ‘s 4 1
-F 1 ] 0
-5
---- page 6 ---
-G 2 4 0 ;
-H 3 3 1 wo
-| 6 5 1
-
-J 5 2 0
-
-Q7
-
-CO-2;
-SO-4;
-BL-3
-
-How can you implement and compare Linear Discriminant Analysis (LDA),
-Artificial Neural Networks (ANN), Support Vector Machine (SVM), and K-
-Nearest Neighbors (KNN) classifiers using the iris dataset in Python?
-
-Note: The Iris dataset is a popular dataset used for classification tasks. It
-consists of 150 samples of iris flowers with four features (sepal length, sepal
-width, petal length, and petal width) and three target classes (setosa,
-versicolor, virginica). The goal is to classify the type of iris flower based on
-these features. . °
-
-# Load the data set
-
-from sklearn.datasets import load_iris
-
-iris = load_iris() X, y = iris.data, iris.target
-
-Write down the python code in your answer book.
-
-[20]
-````
-
-## 2024 · Final-Exam · Sem 5 · paper 4ddcad063ef5
+## 2025-26 · Final-Exam · Sem 5 · paper 4ddcad063ef5
 
 - Departments: Data Science
 - Programmes: B TECH / DATA SCIENCE
@@ -623,6 +345,284 @@ sklearn.cluster. K-Means, compare the cluster assignments and centroid
 positions with your manual results.
 ````
 
+## 2024-25 · Final + Re-Exam · Sem 5 · paper 439f6f51686b
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/FUNDAMENTALS OF MACHINE LEARNING/Foudations of Machine Learning, Sem-V, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS SP
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINE
+Academic Year: 2024-2025
+
+¥
+
+Program/s: B Tech/MBA Tech Year: _IIL~ Semester: Vv
+Stream/s ;_ Data Science
+
+Subject: __ Foundations of Machine Learning - Time: 3 hrs (_2:00 pm to 5:00 pm )
+Date:__29 / 11 /2024 . No. of Pages:_ 6
+
+Marks: 100.
+
+Final Examination/Re-Exam 2022-23,2023-24
+(2024-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+'€ 2) Out of remaining questions, attempt any__4 _ questions.
+3) In all___5_ questions to be attempted. ra
+4) All questions carry equal marks. “ey
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql .
+Answer briefly: [20/20]
+A import numpy as np .
+X = np.array([ [-1.0, 2.0, -3.0, 4.0, 1.0], [1.5, -2.5, 3.5, -1.0, 0.5], [2.0, -1.0,
+CO-1; 2.0, 3.0, -1.5] ]) :
+SO- 2; . . . [5]
+BL-1 How can you implement the Relu and Tanh function from scratch in Python
+“= - on the data set given above?
+Write down the python code in your answer book.
+CO-2 ; B . 3 : .
+SO-2; Differentiate between Supervised Versus Unsupervised Learning. [5]
+BL-3
+CO-1 ; Cc . .
+SO-3; Explain what Vector and Scalar Projection with an example. [5]
+BL-1
+a CO-2 ; D .
+SO-2; Write down the python code for linear regression cost function [5]
+a BL-1
+Q A import numpy as np [10]
+CO-2; X = np.array([[0.5, -1.2, 3.3
+50-3: p.array([[0.5, ]
+--- page 2 ---
+BL-4
+
+[-0.8, 1.0, -0.5], 7
+(2.2, -0.1, 0.0], -
+[1.5, 1.2, -1.2]])
+
+y = np.array({1, 0, 1, 0))..
+
+Implement logistic regression using gradient descent on the above data set
+to find the best-fitting line for the given above dataset. Write down Python
+code in your answer book with following specifications:
+
+¢ Initialize the parameters to zero.
+
+e Set the learning rate to 0.01.
+
+e Run the gradient descent for 1000 iterations.
+Hint:
+def LRGOQ):
+m=
+ne =
+w=
+f= *
+cost_hist =[]
+for i in range(epoch):
+h=
+a=
+error=
+cost =
+dw=
+db =
+w
+b=
+cost_hist.append(cost)
+
+return w,b
+--- page 3 ---
+CO-3;
+SO-3;
+BL-4
+
+What is Linear Discriminant Analysis (LDA) and how mathematically we [10]
+derive Fisher’s Z scores? ~
+
+Q3
+CO-3;
+SO-4;
+BL-5
+
+Given the following four two-dimensional data points:
+(2,3),(3,3),(6,7),(8,8),(3,4) manually apply the K-Means clustering | [10]
+
+algorithm to group these points into 2 clusters.
+
+How can you implement forward propagation ANN structure (2 Layers, Ist
+layer (Relu) with 4 node, 2nd Layer out put layer with sigmoid activation
+function using Python, with random weight initialization?.
+Write down the python code in your answer book.
+Hint:
+def forward_propagation(X, patameters):
+WI =
+bl =
+W2=
+—_ [10]
+ai=
+Al= . q
+Z2=
+A2 =
+
+cache =
+
+return A2, cache
+
+Q4
+
+CO3-;
+SO-3;
+BL-4
+
+How can you mathematically implement Principal component Analysis
+(PCA) using NumPy arrays in the below data set
+
+[10]
+import numpy as np
+
+# Sample dataset
+--- page 4 ---
+X = np.array(([2.5, 2.4], [0.5, 0.7], [2.2, 2.9], [1.9, 2.2], [3.1, 3.0], [2.3,
+2.7], (2.0, 1.6], [1.0, 1.1], [1.5, 1.6], [1.1, 0.9]]) ~
+Write down the python code in your answer book.
+
+Hint: 7
+
+# calculate the mean of each column
+
+M=
+
+# center columns by subtracting column means
+
+ee f
+
+# calculate covariance matrix of centered matrix
+
+_ :
+
+##Calculate eigvector(V) for projection
+
+import numpy as np :
+
+ey
+
+
+foal
+
+CO3-;
+SO-3;
+BL-4
+
+How can you implement a simple Artificial Neural Network (ANN) model
+
+using Keras in Python to classify the wine dataset which contains three
+layers?
+
+Note:The Wine dataset is another popular dataset ‘for classification tasks. It
+contains chemical analysis results for 178 wine samples, with 13 features
+
+(e.g., alcohol content, malic acid, ash, etc.) and 3 target classes,
+corresponding to three different wine cultivars [10]
+from sklearn.datasets import load_wine
+
+iris = load_wine()
+
+X = wine.data
+
+y = wine.target
+
+Write down the python code in your answer book.
+
+Q5
+
+CO-3;
+SO-3;
+
+How does Agglomerative Hierarchical Clustering work? Using a dataset of
+four points with coordinates do Agglomerative Hierarchical Clustering | [10]
+
+using the method of complete linkages.
+--- page 5 ---
+BL-4
+
+Name | X1 X2
+A 1 2
+B 3 4
+Cc 5 6
+D 8 8
+CO-3;
+SO-4; Explain the algorithm of gradient descent for linear regression [10]
+BL-5
+from sklearn.datasets import load_digits
+import matplotlib.pyplot as plt
+digits = load_digits()
+X, y = digits.data, digits.target ©
+X.shape
+Q6
+CO-3: Note: Digits dataset of grayscale images, each of size 8x8 pixels. The [10]
+SO-4; images are flattened into 64-dimensional vectors for processing.
+BL-5
+What is the concept of Eigenface. Apply PCA‘to reduce the dimensionality
+of the digits from 64 dimensions to 4 dimensions. Reconstruct a few digits
+from the reduced dataset using the 4 principal components in Python.
+Write down the python code in your answer book.
+How does the K-Nearest Neighbors (KNN) algorithm work? Using a dataset
+with 10 points characterized by two features and two classes, can you
+explain the step-by-step process of classifying a new point P(3,2) using
+K=3?
+CO-3;
+SO-4; Point__| X1 X2 class [10]
+BL-5 A 1 2 0
+B 2 2 0
+Cc 3 1 1
+D 4 K 1
+5 ‘s 4 1
+F 1 ] 0
+5
+--- page 6 ---
+G 2 4 0 ;
+H 3 3 1 wo
+| 6 5 1
+
+J 5 2 0
+
+Q7
+
+CO-2;
+SO-4;
+BL-3
+
+How can you implement and compare Linear Discriminant Analysis (LDA),
+Artificial Neural Networks (ANN), Support Vector Machine (SVM), and K-
+Nearest Neighbors (KNN) classifiers using the iris dataset in Python?
+
+Note: The Iris dataset is a popular dataset used for classification tasks. It
+consists of 150 samples of iris flowers with four features (sepal length, sepal
+width, petal length, and petal width) and three target classes (setosa,
+versicolor, virginica). The goal is to classify the type of iris flower based on
+these features. . °
+
+# Load the data set
+
+from sklearn.datasets import load_iris
+
+iris = load_iris() X, y = iris.data, iris.target
+
+Write down the python code in your answer book.
+
+[20]
+````
+
 ## 2024-25 · Re-Exam · Sem 5 · paper 8ae069b6d7f7
 
 - Departments: Data Science
@@ -630,6 +630,7 @@ positions with your manual results.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/FUNDAMENTALS OF MACHINE LEARNING/Foundations of Machine Learning, Sem-V, 2024-25, Re Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (8 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -827,7 +828,6 @@ Sw2=
 Sw = Swl+Sw2
 
 A=np.dot()
-eigvalues,eigvector=np.linalg.eig(A)
 
 B How can you implement a simple Artificial Neural Network (ANN) model
 
@@ -1289,6 +1289,171 @@ DI3_ overcast hot normal weak yes
 DIi4 rain mild high strong no
 
 3|Page
+````
+
+## 2023-24 · Re-Exam · Sem 5 · paper 4d4a40df9d5d
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/FUNDAMENTALS OF MACHINE LEARNING/Foundations of Machine Learning , Re-exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 88.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+*
+
+Program/s: B Tech and MBA Tech Year: Ul _ Seinester: VO
+Stream/s ; Data Science
+
+Subject: Foundations of Machine Learning Time: 3 hrs (2:00 pm to 5:00pm)
+Date:__07 / 62 /2024 _ No. of Pages:_ 3
+
+Marks: 100 :
+
+Re-Exam(2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+
+Answer briefly: (20/20]
+CO-1; a. Write down the equation, value range, and python code for ReLu function 15]
+pe and softmax function.
+CO-2 ; b. . .
+SO-2 ; Differentiate between Supervised Versus Unsupervised Learning. [5]
+BL-3 ‘
+
+_ CO-1; a. . . . .
+S03; Explain algorithm behind Support vector machine [5]
+BL-1
+co2;   |d. ; ;
+SO-2; Write down the python code for linear regression cost function [5]
+BL-1
+a Develop “Logistic Regression Gradient Descent” function using python
+
+Q2 code for the dataset given below.
+CO-2; X = [1.2, 3.4, 2.0, 4.5, 1.8, 5.2, 2.3, 3.9, 2.7, 4.1] # Tumour Size (cm3) [10]
+snl Y =[0, 1, 0, 1, 0, 1, 0, 1, 0, 1] # Tumour Type (0 for benign, 1 for
+
+malignant)
+--- page 2 ---
+CO-3;
+
+Explain the algorithm of Principal Component Analysis and how it is help
+
+SO-3; [10]
+BL-4 to reduce the dimension with an examples.
+Explain the Algorithm of Linear Discriminant Analysis (LDA). Linear
+Discriminant Analysis (LDA) to reduce the dimensionality of the below
+03 give dataset and find highest eigenvalues.
+c0-3; X = np.array(([1, 2, 3], [10]
+SO-4; [4, 5, 6],
+Bie [7, 8, 91)
+y = np.array([0, 1, 0])
+Explain the forward and backward propagation in Neural Network [10]
+np.random.seed(2) ## same for weights
+Q4 X = np.random.randn(6, 30)
+oe Y = (np.random.randn(1, 30)>8) [20]
+BL-4 Define a function to create an ANN for the dataset given above. Write the
+python code in your answer sheet.
+Q5
+oe Explain the algorithm of gradient descent for logistic regression [20]
+BL-4
+Write down the Python code do 3 layers ANN model with (Node(10, 8,15)
+with Forest fire data set.
+forest=pd.read_csv(‘forestfires.csv')
+forest.head()
+Q6 forest.pop(‘month')
+oan forest.pop(‘day’) [20]
+BL-5 forest.isna().sum()
+
+from sklearn import preprocessing
+label_encoder=preprocessing.LabelEncoder()
+forest['size_category']=label_encoder.fit_transform(forest['size_category'])
+
+x=forest.iloc[:,0:28]
+
+~
+--- page 3 ---
+y=forest.iloc[:,28]
+
+Using the Pizza dataset provided in a CSV file, apply Principal Component |-
+Analysis (PCA) to explore the dataset's dimensionality(pizza.csv).
+
+Perform the following steps:
+(i) Load the Pizza dataset from the CSV file into a pandas DataFrame.
+
+Q7 .
+CO-2: (ii) Standardize the feature matrix to have zero mean and unit variance. 120)
+SO-4; (iii) Implement PCA to reduce the dimensionality while retaining most of
+
+BL-3
+
+the dataset's information.
+(iv) Determine the number of principal components required to capture
+90% of the variability. a
+
+Write down the Python code in the answer book.
+--- page 4 ---
+import pandas as pd
+import numpy as np 7
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis™as LDA
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+from sklearn.metrics import confusion_matrix
+
+from sklearn.metrics import accuracy_score
+
+from tensorflow.keras.models import Sequential
+
+from tensorflow.keras. layers import Dense
+
+from numpy import loadtxt
+
+import tensorflow as tf
+
+from tensorflow.keras.utils import to_categorical
+
+from sklearn.decomposition import PCA
+
+from sklearn import datasets
+
+import os
+
+import cv2 .
+
+from tensorflow.keras.preprocessing. image import load_img, img_to_array
+from tensorflow.keras.models import load_model
+
+from numpy import array
+
+from numpy import mean
+
+from numpy import cov
+
+from numpy.linalg import eig
+import matplotlib.pyplot as plt
+from scipy import ndimage
+
+from scipy.linalg import svd
+
+HT
 ````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper 4b790875b4da
@@ -1758,169 +1923,4 @@ Y=(np.random.randn (1,10) >0)
 Xx
 
 ‘ly
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 4d4a40df9d5d
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/FUNDAMENTALS OF MACHINE LEARNING/Foundations of Machine Learning , Re-exam 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 88.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-*
-
-Program/s: B Tech and MBA Tech Year: Ul _ Seinester: VO
-Stream/s ; Data Science
-
-Subject: Foundations of Machine Learning Time: 3 hrs (2:00 pm to 5:00pm)
-Date:__07 / 62 /2024 _ No. of Pages:_ 3
-
-Marks: 100 :
-
-Re-Exam(2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-
-Answer briefly: (20/20]
-CO-1; a. Write down the equation, value range, and python code for ReLu function 15]
-pe and softmax function.
-CO-2 ; b. . .
-SO-2 ; Differentiate between Supervised Versus Unsupervised Learning. [5]
-BL-3 ‘
-
-_ CO-1; a. . . . .
-S03; Explain algorithm behind Support vector machine [5]
-BL-1
-co2;   |d. ; ;
-SO-2; Write down the python code for linear regression cost function [5]
-BL-1
-a Develop “Logistic Regression Gradient Descent” function using python
-
-Q2 code for the dataset given below.
-CO-2; X = [1.2, 3.4, 2.0, 4.5, 1.8, 5.2, 2.3, 3.9, 2.7, 4.1] # Tumour Size (cm3) [10]
-snl Y =[0, 1, 0, 1, 0, 1, 0, 1, 0, 1] # Tumour Type (0 for benign, 1 for
-
-malignant)
---- page 2 ---
-CO-3;
-
-Explain the algorithm of Principal Component Analysis and how it is help
-
-SO-3; [10]
-BL-4 to reduce the dimension with an examples.
-Explain the Algorithm of Linear Discriminant Analysis (LDA). Linear
-Discriminant Analysis (LDA) to reduce the dimensionality of the below
-03 give dataset and find highest eigenvalues.
-c0-3; X = np.array(([1, 2, 3], [10]
-SO-4; [4, 5, 6],
-Bie [7, 8, 91)
-y = np.array([0, 1, 0])
-Explain the forward and backward propagation in Neural Network [10]
-np.random.seed(2) ## same for weights
-Q4 X = np.random.randn(6, 30)
-oe Y = (np.random.randn(1, 30)>8) [20]
-BL-4 Define a function to create an ANN for the dataset given above. Write the
-python code in your answer sheet.
-Q5
-oe Explain the algorithm of gradient descent for logistic regression [20]
-BL-4
-Write down the Python code do 3 layers ANN model with (Node(10, 8,15)
-with Forest fire data set.
-forest=pd.read_csv(‘forestfires.csv')
-forest.head()
-Q6 forest.pop(‘month')
-oan forest.pop(‘day’) [20]
-BL-5 forest.isna().sum()
-
-from sklearn import preprocessing
-label_encoder=preprocessing.LabelEncoder()
-forest['size_category']=label_encoder.fit_transform(forest['size_category'])
-
-x=forest.iloc[:,0:28]
-
-~
---- page 3 ---
-y=forest.iloc[:,28]
-
-Using the Pizza dataset provided in a CSV file, apply Principal Component |-
-Analysis (PCA) to explore the dataset's dimensionality(pizza.csv).
-
-Perform the following steps:
-(i) Load the Pizza dataset from the CSV file into a pandas DataFrame.
-
-Q7 .
-CO-2: (ii) Standardize the feature matrix to have zero mean and unit variance. 120)
-SO-4; (iii) Implement PCA to reduce the dimensionality while retaining most of
-
-BL-3
-
-the dataset's information.
-(iv) Determine the number of principal components required to capture
-90% of the variability. a
-
-Write down the Python code in the answer book.
---- page 4 ---
-import pandas as pd
-import numpy as np 7
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis™as LDA
-from sklearn.preprocessing import StandardScaler, LabelEncoder
-from sklearn.metrics import confusion_matrix
-
-from sklearn.metrics import accuracy_score
-
-from tensorflow.keras.models import Sequential
-
-from tensorflow.keras. layers import Dense
-
-from numpy import loadtxt
-
-import tensorflow as tf
-
-from tensorflow.keras.utils import to_categorical
-
-from sklearn.decomposition import PCA
-
-from sklearn import datasets
-
-import os
-
-import cv2 .
-
-from tensorflow.keras.preprocessing. image import load_img, img_to_array
-from tensorflow.keras.models import load_model
-
-from numpy import array
-
-from numpy import mean
-
-from numpy import cov
-
-from numpy.linalg import eig
-import matplotlib.pyplot as plt
-from scipy import ndimage
-
-from scipy.linalg import svd
-
-HT
 ````

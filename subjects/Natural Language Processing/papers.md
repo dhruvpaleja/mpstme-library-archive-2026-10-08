@@ -4,6 +4,174 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Final-Exam · Sem 7 · paper f713f0617894
+
+- Departments: AI and Data Science, Artificial Intelligence, Computer Engineering, Data Science, Information Technology
+- Programmes: BTech AI 7012, BTech AIDS 7056, BTech Computer 7002, BTech CSE DS 7011, BTech IT 7001, Integrated Computer 7032, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_07/Final-Exam/BTech_IT_7001/Natural Language Processing/QP_Natural Language Processing(702AI0C009)_2024-2025.pdf` (+10 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
+(CS)/B. TECH (CSE - DS)/B. Tech (CSE - DS) (311)/B. Tech Intg. (CE)/B. Tech (IT)/MBA
+Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
+Year: III / IV / VI/Semester V/Semester VII/Semester XI(Exam Year: 2025-2026)
+Subject: Natural Language Processing
+Date: 02 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figure in right hand side indicates full marks
+8. Assume Suitable data if necessary.
+Q1   Answer briefly   [20]
+CO-1 ;   a.   Differentiate between Natural Language Understanding (NLU) and [5]
+SO-1 ;   Natural Language Generation (NLG) in NLP with suitable examples
+BL-2;
+CO-2,   b.   Explain the concepts of chunking and chinking in Natural Language   [5]
+SO-   Processing (NLP). Discuss how Part-of-Speech (POS) tagging supports
+BL-2   these processes, and illustrate your explanation with a suitable example.
+CO-4,   c.   Define hyponymy and hypernymy with suitable linguistic examples. How [5]
+SO-1   can hypernymy be applied in Word Sense Disambiguation (WSD) to
+BL-3   resolve the correct meaning of polysemous words? Provide an example?
+CO-3;   d.   Compare pragmatic and discourse analysis with the help of appropriate [5]
+SO-1 ;   examples.
+BL-3
+Q2   a   i.   Differentiate between Morpheme and Lexeme with examples   [10]
+CO-1,4;   ii.   Discuss the significance of NER in three different NLP
+SO-1;   applications
+BL-2,3
+CO-   b   Consider the following training corpus:   [10]
+2;SO-1;   1. artists paint murals in city
+BL-3   2. musicians play songs in city
+3. painters paint murals on walls
+4. signs are near city
+Using a bigram language model with Laplace smoothing, evaluate the
+probability of the test sentence:
+“artists paint murals near city”
+********** 1 **********
+--- page 2 ---
+Assume the <s> and </s> for each sentence.
+Q3   a   i.   Explain the various types of ambiguities encountered in Natural [10]
+CO- 3,   Language Processing (NLP). Illustrate each type with suitable
+SO-, BL-   examples.
+ii.   Compare top-down and bottom-up parsing and apply bottom-up
+4
+syntax parsing approach to the sentence given below and draw a
+parse tree using the grammar rules-
+“A cat chased the mouse”
+Grammar   Lexicon
+S → NP VP   Det → {A, the}
+NP → Pronoun   Noun → {cat, mouse}
+NP → Proper-Noun   Verb → {chased}
+NP → Det Nominal
+Nominal → Noun
+Nominal → Nominal Noun
+Nominal → Nominal PP
+VP → Verb
+VP → Verb NP
+VP → VP PP
+PP → Prep NP
+CO-3;   b   Consider the given paragraph given below:   [10]
+SO- 1   The teacher wrote on the board. The students listened to the teacher.
+BL-4:   The board was full of notes. The student asked a question. The
+teacher answered from the book.
+Target words: teacher, student, board, book
+Context words: wrote, listened, notes, question
+i. Construct a co-occurrence matrix for the target and context words.
+Take the window size as one whole sentence.
+ii. Evaluate the similarity between the vectors of the target words
+“teacher-student” and “teacher-board” using the cosine similarity.
+iii. Plot the target word vectors by considering only two dimensions:
+“wrote” and “notes”.
+Q4   a   Explain any three basic text preprocessing techniques used in Natural [10]
+CO-2;   Language Processing (NLP). Discuss the purpose of each technique and
+SO-1;   illustrate them with suitable examples.
+BL-2
+Q4   b   Consider the following POS tagged corpus. Apply Hidden Markov Model [10]
+CO-3;   (HMM) approach to
+SO-1;
+BL-4   Noun   Verb   Noun
+1   Cat   chase   mice
+Det   Noun   Verb
+2   The   dog   runs
+********** 2 **********
+--- page 3 ---
+Det   Noun   Verb   Noun
+3   A   cat   eats   cheese
+i.   Construct the emission probability matrix.
+ii.   Construct the transmission probability matrix.
+iii.   Calculate the probability of sequence of Events
+Det   Noun   Verb   Noun
+The   cat   eats   mice
+Note: Include start and end characters for all the sentences
+Q5   a   For the following two sentences:   [10]
+CO-2;   • Sentence A: “The student read a science book in the library”
+SO-1 ;   • Sentence B: “The teacher read a history book in the classroom”
+BL-3;   1. Construct the TF-IDF matrix for these sentences after removing
+the stop words {The, a, in}.
+2. Identify and comment on the important terms in each sentence
+based on their TF-IDF scores.
+CO-4;   b   Consider the sentence: “The bat hit the ball hard on the cricket field.”   [10]
+SO-1BL-   Two possible senses of “bat”:
+4
+• Sense 1: Bat (Sports equipment – cricket/baseball)
+• Sense 2: Bat (Nocturnal flying mammal)
+Sentence
+Context Words   Sense (Class)
+ID
+ball, cricket, score,   Sports (Bat =
+1
+stadium   equipment)
+Animal (Bat =
+2   night, cave, wings, fly
+mammal)
+3   player, run, match, bat   Sports
+4   nocturnal, vampire, insect Animal
+5   team, field, bowl, bat   Sports
+6   dark, flying, cave, night   Animal
+a) Using the Naïve Bayes algorithm, classify the sense of “bat” in
+the given sentence Apply Laplace Smoothing wherever
+applicable.
+b) Discuss the significance of Laplace Smoothing in Naïve Bayes
+Classification.
+Q6   a   i.   Differentiate between co-reference resolution and pronoun [10]
+CO-4;   resolution with suitable examples
+SO-1;   ii.   Explain the working principle of the Continuous Bag of Words
+BL-3   (CBOW) model and Skipgram model in Word2Vec. Illustrate how
+it predicts the target word from its surrounding context
+********** 3 **********
+--- page 4 ---
+CO-3;   b   i.   Explain Hobb's Algorithm. Discuss the steps with help of example [10]
+SO-1;   and state its limitation.
+BL-4
+ii.   Sentence: Ravi met Suresh at the station after he arrived from
+Delhi.
+Using Hobbs’ algorithm, determine the most likely antecedent of
+the pronoun "he". Show the steps of traversal according to the
+algorithm
+Q7   a   Explain the working of text classification in Natural Language Processing [10]
+CO-4;   (NLP) and discuss the key steps involved in building a text classification
+SO-1 BL-   system in context of real-world applications such as spam detection or
+news categorization.
+3:
+CO-2;   b   i.   Differentiate between a flat text corpus and an annotated corpus, [10]
+SO-1 BL-   and discuss how each can be applied in various NLP tasks with
+3   suitable examples.
+ii.   Explain a real-world scenario where the Jaccard Similarity
+measure is more appropriate than Euclidean or Manhattan
+distance, and justify why Jaccard is the best choice in that case.
+********** 4 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 1 · paper 294ff29e7562
 
 - Departments: Artificial Intelligence
@@ -2451,174 +2619,6 @@ an application where text normalization plays a crucial role.
 ********** 3 **********
 ````
 
-## 2024-25 · Final-Exam · Sem 7 · paper f713f0617894
-
-- Departments: AI and Data Science, Artificial Intelligence, Computer Engineering, Data Science, Information Technology
-- Programmes: BTech AI 7012, BTech AIDS 7056, BTech Computer 7002, BTech CSE DS 7011, BTech IT 7001, Integrated Computer 7032, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041
-- Source: `02_Question_Papers/2024/Sem_07/Final-Exam/BTech_IT_7001/Natural Language Processing/QP_Natural Language Processing(702AI0C009)_2024-2025.pdf` (+10 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
-- Text: text (4 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
-(CS)/B. TECH (CSE - DS)/B. Tech (CSE - DS) (311)/B. Tech Intg. (CE)/B. Tech (IT)/MBA
-Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
-Year: III / IV / VI/Semester V/Semester VII/Semester XI(Exam Year: 2025-2026)
-Subject: Natural Language Processing
-Date: 02 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 4 pages.
-2. Question No. 1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figure in right hand side indicates full marks
-8. Assume Suitable data if necessary.
-Q1   Answer briefly   [20]
-CO-1 ;   a.   Differentiate between Natural Language Understanding (NLU) and [5]
-SO-1 ;   Natural Language Generation (NLG) in NLP with suitable examples
-BL-2;
-CO-2,   b.   Explain the concepts of chunking and chinking in Natural Language   [5]
-SO-   Processing (NLP). Discuss how Part-of-Speech (POS) tagging supports
-BL-2   these processes, and illustrate your explanation with a suitable example.
-CO-4,   c.   Define hyponymy and hypernymy with suitable linguistic examples. How [5]
-SO-1   can hypernymy be applied in Word Sense Disambiguation (WSD) to
-BL-3   resolve the correct meaning of polysemous words? Provide an example?
-CO-3;   d.   Compare pragmatic and discourse analysis with the help of appropriate [5]
-SO-1 ;   examples.
-BL-3
-Q2   a   i.   Differentiate between Morpheme and Lexeme with examples   [10]
-CO-1,4;   ii.   Discuss the significance of NER in three different NLP
-SO-1;   applications
-BL-2,3
-CO-   b   Consider the following training corpus:   [10]
-2;SO-1;   1. artists paint murals in city
-BL-3   2. musicians play songs in city
-3. painters paint murals on walls
-4. signs are near city
-Using a bigram language model with Laplace smoothing, evaluate the
-probability of the test sentence:
-“artists paint murals near city”
-********** 1 **********
---- page 2 ---
-Assume the <s> and </s> for each sentence.
-Q3   a   i.   Explain the various types of ambiguities encountered in Natural [10]
-CO- 3,   Language Processing (NLP). Illustrate each type with suitable
-SO-, BL-   examples.
-ii.   Compare top-down and bottom-up parsing and apply bottom-up
-4
-syntax parsing approach to the sentence given below and draw a
-parse tree using the grammar rules-
-“A cat chased the mouse”
-Grammar   Lexicon
-S → NP VP   Det → {A, the}
-NP → Pronoun   Noun → {cat, mouse}
-NP → Proper-Noun   Verb → {chased}
-NP → Det Nominal
-Nominal → Noun
-Nominal → Nominal Noun
-Nominal → Nominal PP
-VP → Verb
-VP → Verb NP
-VP → VP PP
-PP → Prep NP
-CO-3;   b   Consider the given paragraph given below:   [10]
-SO- 1   The teacher wrote on the board. The students listened to the teacher.
-BL-4:   The board was full of notes. The student asked a question. The
-teacher answered from the book.
-Target words: teacher, student, board, book
-Context words: wrote, listened, notes, question
-i. Construct a co-occurrence matrix for the target and context words.
-Take the window size as one whole sentence.
-ii. Evaluate the similarity between the vectors of the target words
-“teacher-student” and “teacher-board” using the cosine similarity.
-iii. Plot the target word vectors by considering only two dimensions:
-“wrote” and “notes”.
-Q4   a   Explain any three basic text preprocessing techniques used in Natural [10]
-CO-2;   Language Processing (NLP). Discuss the purpose of each technique and
-SO-1;   illustrate them with suitable examples.
-BL-2
-Q4   b   Consider the following POS tagged corpus. Apply Hidden Markov Model [10]
-CO-3;   (HMM) approach to
-SO-1;
-BL-4   Noun   Verb   Noun
-1   Cat   chase   mice
-Det   Noun   Verb
-2   The   dog   runs
-********** 2 **********
---- page 3 ---
-Det   Noun   Verb   Noun
-3   A   cat   eats   cheese
-i.   Construct the emission probability matrix.
-ii.   Construct the transmission probability matrix.
-iii.   Calculate the probability of sequence of Events
-Det   Noun   Verb   Noun
-The   cat   eats   mice
-Note: Include start and end characters for all the sentences
-Q5   a   For the following two sentences:   [10]
-CO-2;   • Sentence A: “The student read a science book in the library”
-SO-1 ;   • Sentence B: “The teacher read a history book in the classroom”
-BL-3;   1. Construct the TF-IDF matrix for these sentences after removing
-the stop words {The, a, in}.
-2. Identify and comment on the important terms in each sentence
-based on their TF-IDF scores.
-CO-4;   b   Consider the sentence: “The bat hit the ball hard on the cricket field.”   [10]
-SO-1BL-   Two possible senses of “bat”:
-4
-• Sense 1: Bat (Sports equipment – cricket/baseball)
-• Sense 2: Bat (Nocturnal flying mammal)
-Sentence
-Context Words   Sense (Class)
-ID
-ball, cricket, score,   Sports (Bat =
-1
-stadium   equipment)
-Animal (Bat =
-2   night, cave, wings, fly
-mammal)
-3   player, run, match, bat   Sports
-4   nocturnal, vampire, insect Animal
-5   team, field, bowl, bat   Sports
-6   dark, flying, cave, night   Animal
-a) Using the Naïve Bayes algorithm, classify the sense of “bat” in
-the given sentence Apply Laplace Smoothing wherever
-applicable.
-b) Discuss the significance of Laplace Smoothing in Naïve Bayes
-Classification.
-Q6   a   i.   Differentiate between co-reference resolution and pronoun [10]
-CO-4;   resolution with suitable examples
-SO-1;   ii.   Explain the working principle of the Continuous Bag of Words
-BL-3   (CBOW) model and Skipgram model in Word2Vec. Illustrate how
-it predicts the target word from its surrounding context
-********** 3 **********
---- page 4 ---
-CO-3;   b   i.   Explain Hobb's Algorithm. Discuss the steps with help of example [10]
-SO-1;   and state its limitation.
-BL-4
-ii.   Sentence: Ravi met Suresh at the station after he arrived from
-Delhi.
-Using Hobbs’ algorithm, determine the most likely antecedent of
-the pronoun "he". Show the steps of traversal according to the
-algorithm
-Q7   a   Explain the working of text classification in Natural Language Processing [10]
-CO-4;   (NLP) and discuss the key steps involved in building a text classification
-SO-1 BL-   system in context of real-world applications such as spam detection or
-news categorization.
-3:
-CO-2;   b   i.   Differentiate between a flat text corpus and an annotated corpus, [10]
-SO-1 BL-   and discuss how each can be applied in various NLP tasks with
-3   suitable examples.
-ii.   Explain a real-world scenario where the Jaccard Similarity
-measure is more appropriate than Euclidean or Manhattan
-distance, and justify why Jaccard is the best choice in that case.
-********** 4 **********
-````
-
 ## 2024-25 · Final-Exam · Sem 5 · paper 045ac9ee7f98
 
 - Departments: Artificial Intelligence, Computer Engineering, Data Science, Electronics and Telecommunication, Information Technology
@@ -2975,6 +2975,7 @@ f. Prepare the model *= »
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/Natural Language Processing/Natural Language Processing Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30/4 /25
 - Text: ocr (2 pages), mean OCR confidence 91.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -3032,7 +3033,6 @@ B Explain the concept of the word2vec model. Also explain the CBOW and 10
 Question 5
 A. Explain with examples - the tasks carried out within information extraction? 10
 
-FRI FGR HOR AHO a ok
 --- page 2 ---
 Explain the concept of transfer learning. State and explain the difference between
 
@@ -4356,7 +4356,7 @@ CO-1; SO-2; What is Part of Speech (POS) tagging? What are is techniques.? expla
 BL-2
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper 8a6d989c8354
+## 2022-23 · Final-Exam · Sem 3 · paper 8a6d989c8354
 
 - Departments: Artificial Intelligence
 - Programmes: M TECH / ARTIFICIAL INTELLIGENCE
@@ -4844,6 +4844,71 @@ Write the Steps Involved in the POS tagging and what are the applications of Par
 [10]
 ````
 
+## 2021-22 · Final-Exam · Sem 6 · paper fc4c1de0aa2f
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM VI/NATURAL LANGUAGE PROCESSING/B Tech, Data Science, Natural Language Processing, 3rd Year, Sem-VI, Final Exam, _94f5f2b6.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 19 April 2022
+- Text: ocr (1 page), mean OCR confidence 92.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG}
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING2S yy 5 1 S
+
+Academic Year: 2021-22
+Programme: B.Tech (Data Science) Year: III Semester: VI
+
+Subject: Natural Language Processing
+: Marks: 100
+Date: 19 April 2022 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages:
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper.
+1) Attempt any two out of the three questions mentioned below - (Each Question is of 50 marks)
+
+2) Internet access is allowed
+
+3) Free to use any ML or DL algorithm
+
+4) Evaluation metrics and conclusion is to be mentioned with every problem statement
+
+Questions marks
+
+4, Apply the sentiment analysis approach to the following dataset - .
+Dataset Link - https://www.kaggle.com/yasserh/imdb-movie-ratings-sentiment-
+analysis
+
+C01; S02; i) Divide the data into train and test set. 50
+BL3 ii) Try 3 different models for sentiment analysis
+iii) Subset the data if data is taking too much time to train.
+iv) EDA and preprocessing to be performed with respect to the requirement
+
+2. Apply text classification models for the following dataset-
+Dataset Link -
+http://kdd.ics.uci.edu/databases/reuters2 1578/reuters2157 8.html?ref=hackernoon.
+com
+CO3; SO1; 50
+BL3 i) Divide the data into train and test set.
+
+ii) Try 3 different models for sentiment analysis
+iii) Subset the data if data is taking too much time to train.
+iv) EDA and preprocessing to be performed with respect to the requirement
+
+3. Apply topic modelling for the following dataset.
+Dataset Link - kaggle.com/prakharprasad/mobile-reviews-topic-modeling/data
+C02; S01; i) Perform topic modelling to extract 10 emerging topics 50
+BL3 ii) Use evaluation metrics to justify your topics - coherence score, perplexity
+score
+
+Iv)Use PyLdavis for visualization and iv) perform EDA.
+
+VL
+````
+
 ## 2021-22 · Final-Exam · Sem 8 · paper 56d113622f6f
 
 - Departments: Computer Engineering
@@ -5071,69 +5136,4 @@ Categorize complaints into categories: Data: and get the PyIDA Visualization
 70 marks
 
 https://drive.google.com/open?id=1C86ehVHUZUGqVwr4iOWlw6e8vwviY OME
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper fc4c1de0aa2f
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM VI/NATURAL LANGUAGE PROCESSING/B Tech, Data Science, Natural Language Processing, 3rd Year, Sem-VI, Final Exam, _94f5f2b6.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 19 April 2022
-- Text: ocr (1 page), mean OCR confidence 92.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG}
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING2S yy 5 1 S
-
-Academic Year: 2021-22
-Programme: B.Tech (Data Science) Year: III Semester: VI
-
-Subject: Natural Language Processing
-: Marks: 100
-Date: 19 April 2022 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages:
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper.
-1) Attempt any two out of the three questions mentioned below - (Each Question is of 50 marks)
-
-2) Internet access is allowed
-
-3) Free to use any ML or DL algorithm
-
-4) Evaluation metrics and conclusion is to be mentioned with every problem statement
-
-Questions marks
-
-4, Apply the sentiment analysis approach to the following dataset - .
-Dataset Link - https://www.kaggle.com/yasserh/imdb-movie-ratings-sentiment-
-analysis
-
-C01; S02; i) Divide the data into train and test set. 50
-BL3 ii) Try 3 different models for sentiment analysis
-iii) Subset the data if data is taking too much time to train.
-iv) EDA and preprocessing to be performed with respect to the requirement
-
-2. Apply text classification models for the following dataset-
-Dataset Link -
-http://kdd.ics.uci.edu/databases/reuters2 1578/reuters2157 8.html?ref=hackernoon.
-com
-CO3; SO1; 50
-BL3 i) Divide the data into train and test set.
-
-ii) Try 3 different models for sentiment analysis
-iii) Subset the data if data is taking too much time to train.
-iv) EDA and preprocessing to be performed with respect to the requirement
-
-3. Apply topic modelling for the following dataset.
-Dataset Link - kaggle.com/prakharprasad/mobile-reviews-topic-modeling/data
-C02; S01; i) Perform topic modelling to extract 10 emerging topics 50
-BL3 ii) Use evaluation metrics to justify your topics - coherence score, perplexity
-score
-
-Iv)Use PyLdavis for visualization and iv) perform EDA.
-
-VL
 ````

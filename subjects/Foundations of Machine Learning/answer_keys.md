@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_DS_7009/Foundations of Machine Learning/ANS_Foundations of Machine Learning(702DB0C020)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (8 pages), mean OCR confidence 81.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -433,7 +434,6 @@ Q7 [20]
 
 MER
 \ Ue 2. t
-Om” e we Wy oe 2, wer,
 
 AAA
 yf? te ree

@@ -1372,6 +1372,111 @@ Print contents.
 Page 2 of 2
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 6 · paper 57130585499a
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/SUPERVISORY CONTROL & DATA ACQUISITION/Supervisory control and Data Acquisition, Sem-VI, Final & Re Exam Batch 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/4/24
+- Text: ocr (2 pages), mean OCR confidence 89.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING
+
+Academic Year: 2023-2024 :
+
+Program: B Tech Stream : Mechatronics Year: II Seinester: VI
+
+Subject : Supervisory Control and Data Acquisition Time: 3 hrs C2s00pm te 5% 00 pew)
+Date: 20/4/24 No. of Pages:02
+
+Marks : 100
+
+Final Examination / Re- Examination (2022 -23)
+
+Instructions: Candidates should-read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Attempt the following. (20)
+
+CO-1;SO-1;BL-4 | a | Differentiate between while loop and for loop in LabVIEW. (05)
+
+CO-1; SO-1; b . | List the important functions of SCADA.
+
+BL-l (05)
+
+CO-1; SO-1;BL-2 | c | Explain Sub VI with example. (05)
+
+CO-4; SO-1; BL-2 | d_ | Explain the classification of signals in the data acquisition system. (05)
+
+Q.2
+
+CO-2; SO-1;BL-2 | a | Explain Auto Indexing in LabVIEW with example. (06)
+3-3; SO-1; BL-4 | b | Differentiate array and cluster in LabVIEW with example. (07)
+
+CO-4; SO-1 ; BL-2 | c | Explain RS-232 and RS-485 standards of serial port communication. (07)
+
+Q.3
+
+CO-4; SO-1; BL-2 | a_| Explain Measurement and Automation Explorer in detail. (06)
+
+CO-1 ; SO-1 ;
+
+we : Ms i Define SCADA. Explain the block diagram of SCADA in detail. (08)
+
+CO-1; SO-1;BL-2 | c | Draw and explain the basic difference between the traditional instruments and (06)
+software-based virtual instruments.
+
+Q.4
+CO-4; SO-1 ; BL-2 | a_| Explain PC based DAQ system with block diagram. (07)
+CO-3; SO-I ; BL-2 |b | Explain the various types of graphs and charts in LabVIEW. Explain the basic (07)
+difference between Graphs from chart.
+CO-2; SO-1;BL-2 | ¢ | Explain String Functions in detail. (06)
+Page 1 of 2
+--- page 2 ---
+Q.5 2
+
+CO-4; SO-1;BL-2 |a | Explain Industry Standard Architecture (ISA) in detail. ye (06)
+CO-3; SO-1; BL-2 |b | Explain File Formats in detail. (09)
+CO-2; SO-1; BL-2 | | Explain Global Variable in details. . (05)
+Q.6
+CO-3; SO-1; BL- Open a blank VI and Build a VI to find the roots of a quadratic equation. Input the | (20)
+6 coefficients of x2, x and constant as a, b and ¢ respectively. Display the roots and
+the message if the roots are real and equal or imaginary or real and distinct.
+a. Build the front panel as shown in Figure a
+b. Build the block diagram to find the roots of a quadratic equation
+c. Save the VI as quad_tee.vi on desktop
+d. Print the VI by selecting option Icon, description, panel and diagram in
+Print contents
+Figure a
+Q7
+CO-3; SO-1; BL- Open a blank VI and Build a VI that generates 50 random numbers and plot it ona | (20)
+6 waveform chart using For Loop. Accumulate the random numbers into an array
+
+and display it on waveform graph.
+
+a. Save the VI as for_tee.vi on desktop
+b. Print the VI by selecting option Icon, description, panel and diagram in
+
+Print contents.
+
+Page 2o0f2
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper 0658433c36fa
 
 - Departments: Common (all branches)
@@ -1731,111 +1836,6 @@ a Figure b
 Page 3 of 3
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 6 · paper 57130585499a
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/SUPERVISORY CONTROL & DATA ACQUISITION/Supervisory control and Data Acquisition, Sem-VI, Final & Re Exam Batch 2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20/4/24
-- Text: ocr (2 pages), mean OCR confidence 89.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING
-
-Academic Year: 2023-2024 :
-
-Program: B Tech Stream : Mechatronics Year: II Seinester: VI
-
-Subject : Supervisory Control and Data Acquisition Time: 3 hrs C2s00pm te 5% 00 pew)
-Date: 20/4/24 No. of Pages:02
-
-Marks : 100
-
-Final Examination / Re- Examination (2022 -23)
-
-Instructions: Candidates should-read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Attempt the following. (20)
-
-CO-1;SO-1;BL-4 | a | Differentiate between while loop and for loop in LabVIEW. (05)
-
-CO-1; SO-1; b . | List the important functions of SCADA.
-
-BL-l (05)
-
-CO-1; SO-1;BL-2 | c | Explain Sub VI with example. (05)
-
-CO-4; SO-1; BL-2 | d_ | Explain the classification of signals in the data acquisition system. (05)
-
-Q.2
-
-CO-2; SO-1;BL-2 | a | Explain Auto Indexing in LabVIEW with example. (06)
-3-3; SO-1; BL-4 | b | Differentiate array and cluster in LabVIEW with example. (07)
-
-CO-4; SO-1 ; BL-2 | c | Explain RS-232 and RS-485 standards of serial port communication. (07)
-
-Q.3
-
-CO-4; SO-1; BL-2 | a_| Explain Measurement and Automation Explorer in detail. (06)
-
-CO-1 ; SO-1 ;
-
-we : Ms i Define SCADA. Explain the block diagram of SCADA in detail. (08)
-
-CO-1; SO-1;BL-2 | c | Draw and explain the basic difference between the traditional instruments and (06)
-software-based virtual instruments.
-
-Q.4
-CO-4; SO-1 ; BL-2 | a_| Explain PC based DAQ system with block diagram. (07)
-CO-3; SO-I ; BL-2 |b | Explain the various types of graphs and charts in LabVIEW. Explain the basic (07)
-difference between Graphs from chart.
-CO-2; SO-1;BL-2 | ¢ | Explain String Functions in detail. (06)
-Page 1 of 2
---- page 2 ---
-Q.5 2
-
-CO-4; SO-1;BL-2 |a | Explain Industry Standard Architecture (ISA) in detail. ye (06)
-CO-3; SO-1; BL-2 |b | Explain File Formats in detail. (09)
-CO-2; SO-1; BL-2 | | Explain Global Variable in details. . (05)
-Q.6
-CO-3; SO-1; BL- Open a blank VI and Build a VI to find the roots of a quadratic equation. Input the | (20)
-6 coefficients of x2, x and constant as a, b and ¢ respectively. Display the roots and
-the message if the roots are real and equal or imaginary or real and distinct.
-a. Build the front panel as shown in Figure a
-b. Build the block diagram to find the roots of a quadratic equation
-c. Save the VI as quad_tee.vi on desktop
-d. Print the VI by selecting option Icon, description, panel and diagram in
-Print contents
-Figure a
-Q7
-CO-3; SO-1; BL- Open a blank VI and Build a VI that generates 50 random numbers and plot it ona | (20)
-6 waveform chart using For Loop. Accumulate the random numbers into an array
-
-and display it on waveform graph.
-
-a. Save the VI as for_tee.vi on desktop
-b. Print the VI by selecting option Icon, description, panel and diagram in
-
-Print contents.
-
-Page 2o0f2
-````
-
 ## 2022-23 · Final-Exam · Sem 5 · paper 421134a45231
 
 - Departments: Common (all branches)
@@ -2076,6 +2076,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/SUPERVISORY CONTROL & DATA ACQUISION/Supervisory Control and Data Acquisition, Sem-VI, Year 2022-23, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
@@ -2155,7 +2156,6 @@ a | Judge the cluster result for Given Front Panel as shown in Fig a: (10)
 Also explain the different VI used in front pane! and block diagram.
 
 CO-3; SO-1; BL-5 Cluster Addend mae z : : Citar Result : _
-i T Numetic Addend 24 z 5 ; : : ‘Numeric ‘Recut ‘
 ae ‘ : ;
 
 fs

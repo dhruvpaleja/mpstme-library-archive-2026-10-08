@@ -1,6 +1,6 @@
 # Technical Writing: question papers in full
 
-18 unique papers · 2022 to 2025-26 · Common (all branches), Computer Engineering, Electronics and Telecommunication, Mechatronics, AI and Machine Learning, Artificial Intelligence, Civil, Cyber Security, Data Science, Information Technology, Mechanical, Computer Science
+18 unique papers · 2022-23 to 2025-26 · Common (all branches), Computer Engineering, Electronics and Telecommunication, Mechatronics, AI and Machine Learning, Artificial Intelligence, Civil, Cyber Security, Data Science, Information Technology, Mechanical, Computer Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -824,6 +824,7 @@ Provide examples to illustrate your points.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/TECHNICAL WRITING/Technical Writing Batch 2024-25 Final Batch 2023-24 Re Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS cn
@@ -1038,7 +1039,6 @@ CO- 2; SO- Analyze the role of research and publications for technology innovati
 1&2; b. _°| organisations. You may take an example of a tech product/service to highlight
 BL-4 the relevance. , 10
 
-THKK KKK KKH KOK KAKO KKK KKK KEN K KEK K AKA KENEK AMEE KANEKO K ANAK KEK EEK OMEK MEN EXOKENEKENE KEKE KEKEKENEXEXEK™
 
 A
 ````
@@ -1050,6 +1050,7 @@ A
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/TECHNICAL WRITING/Technical Writing, Sem-V, Batch 2023-24 & 2024-25 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 25/2/2024
 - Text: ocr (4 pages), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1211,7 +1212,6 @@ innovation.
 
 What is a white paper? Discuss the steps to prepare and write a white paper. 10
 
-KKK KK KKK KKK MK K EKA EK KKH EKER EX OX M AK AMEEKEXEXHKH KKM MEM ENEREKEKEXEKEMENEEREKEXEKEKEKEKEKENERERE
 --- page 4 ---
 
 ````
@@ -1804,7 +1804,7 @@ professional world today.
 —_
 ````
 
-## 2022 · Final-Exam · paper ec9f1b421a9c
+## 2022-23 · Final-Exam · paper ec9f1b421a9c
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED

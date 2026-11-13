@@ -427,6 +427,55 @@ interest rate is expected to be stable at 109%
 8/2
 ````
 
+## 2012-13 · Exam not stated · Trim 15 · paper 7a7f9f8921c0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/SECURITY AND PORTFOLIO MANAGEMENT/Scan 0018.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Techno1og;lv Management 8a En
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV
+Academic Year : 2012-2013
+/
+Subject:   SECURITY & PORTFOLIO MANAGEMENT   Marks:   50
+Time:   2.00pm To 4.00pm
+Date:   * 12/4/2013   Duration:   2   hrs.
+Final - Examination
+Instructions: Candidate should read carefully the instructions printed on the question paper and
+on the cover of answer book, which is provided for the use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempted any four questions.
+3. In all five questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+1. a) An Investor bought 50 shares of X Ltd. on 15 April 12 @ Rs. 3300lShare. Dividend
+received on 15 May 12 is Rs. 1501 Share. Market Price as on 14 April 2013 is Rs. 3200lSh.
+Calculate Holding period retilrn for the invector.   (5 Marks)
+1. b) A coupon bond pays annual interest, has a par value of Rs. 1, 000, matures in 12 years, has a
+coupon rate of 11%, and has a yield to maturity of 12%. Calculate the current yield on this bond.
+(5 Marks)
+'   2. From the following information relating to two portfolios find out which portfolio has better
+performance according to Sharpe's Index and Treynors's Index. Assume the risk free rate is
+7%   (10 Marks)
+Average Return   - SD   Beta
+Portfolio A   12%   .10   1.3
+Portfolio B   16%   .13   1.78
+Portfolio C   14%   .15   1.66
+3. Explain the need for Portfolio Revision Techniques. Define the advantages and
+disadvantages with formula plan of Portfolio Revision Technique.   (10 Marks)
+4. Define YTM, and explain with suitabie examples how YTM is used for valuation of bonds.
+(10 Marks)
+5. Define the concept of diversifiable risk by drawing example from real life.   (10 Marks)
+6. Write a short note on any two:   (10 Marks)
+a) Markowitz Efficient Frontier   b) Risk free rate of Return c) Efficient Market
+Hypothesis.
+````
+
 ## 2012-13 · Re-Exam · Trim 15 · paper ca7ba6254852
 
 - Departments: Common (all branches)
@@ -506,6 +555,208 @@ I Portfolio A   I Portfolio B   I
 Beta   I 1 0.7   I I 1.1
 Expected Return   1 18%   1 22%
 10year GO1Bond Rate A ( 6%
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper b6bbc7a9dab2
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/SECURITY AND PORTFOLIO MANAGEMENT/SECURITY AND PORTFOLIO MANAGEMENT 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 2/4/2012
+- Text: ocr (4 pages), mean OCR confidence 92.3
+
+````text
+® SVKM’s NMIMS
+
+. Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
+Academic Year : 2011-2012
+
+Subject: SECURITY & PORTFOLIO Marks: 50
+MANAGEMENT Time: 2.00 pm
+Date: 2/4/2012 Duration: 2 hrs.
+
+Instructions — candidates should read carefully the instructions printed on the Question
+paper and on the cover of the answer book , which is provided for their use.
+NB:
+
+1. Q.1 is compulsory.
+
+2. Attempt any 2 questions form Q.2 to Q.4
+
+3. Answer to each new question to be started on a fresh page.
+
+4. figures in the bracket indicate full marks
+
+5. Use of non programmable calculator is allowed
+
+Q.1 Answer the following questions.
+
+1) A person is given the choice between two scenarios, one certain and one not. In the
+uncertain scenario, the person is to make a gamble with an equal probability between
+receiving Rs.100 or nothing. The alternative scenario is to receive a specific rupee
+amount with certainty (probability of 1) (2)
+
+Answer the following questions -
+
+i) A person is if he or she would accept a certain payoff of less than Rs.50
+} (for example, Rs.40) rather than the gamble.
+a. risk averse
+b. risk neutral
+c. risk lover
+
+2) When an investor is bullish he will use the following (2)
+a. Long Put
+b. Long Call
+}   c. Short put
+, 6 da&b
+¢ } ea&c
+
+3 ) Beta . (2)
+a. is a measure of firm specific risk.
+b. is a measure of market risk.
+c. is a measure of total risk.
+d. is calculated by regressing the market return on the historical market dividend
+yield.
+e. All of the above are true.
+
+M,
+--- page 2 ---
+™~
+
+>
+
+™
+
+4) The Security Market Line (SML) relates risk to return, for a given set of financial
+market conditions. If investors conclude that the inflation rate is going to increase, which
+of the following changes would be most likely to occur? (2)
+a. The required return on an average stock would increase.
+b. Beta would increase.
+c. The slope of the SML would increase.
+d. The market risk premium would increase.
+e. None of the indicated changes would be likely to occur.
+eee is the process of making changes in asset allocation and specific
+investment- (2)
+a. Stock Selection
+b. Timing the market
+c. Financial Planning
+d. Portfolio rebalancing
+
+6) The CAPM asserts that portfolio returns are best explained by (2)
+a. Economic Factors
+b. Specific risk
+c. Systematic risk
+d. Diversification
+
+7 ) Answer the following questions.
+
+Year Return on Share A Return on NIFTY
+1 10 12
+2 12 11
+3 15 14
+4 10 -1
+5 08 3
+A. Expected return on Share A is (2)
+a.10.9 %
+b. 9.9 %
+¢, 11%
+‘ B.Risk of the share A is (2)
+4 2.646%
+b.2.64%
+c.7 %
+d.6.69%
+--- page 3 ---
+Y
+- C..Beta of Share A is (2)
+a.0.205
+b.0.2
+c.0.19
+d.0.21
+
+8 ) In CML the measure of risk is (2)
+a. Beta.
+b. Variance.
+c. Standard Deviation
+d. Composite Beta
+
+9 ) Asset allocation is a process of- (bH
+
+a. tax planning an investment portfolio.
+
+b. splitting an investment portfolio between the various relatives and friends .
+
+c. splitting an investment into two categories of mutual funds and equity shares.
+
+d. splitting an investment portfolio between the various classes of assets such as real
+state, equities, bonds and cash
+
+10) In the derivatives market closing out means (2)
+a. opposite transaction to the previous one
+b. opposite transaction to the previous one ( done by the exchange)
+c. closing your derivative trading account with the broker
+d. none of the above
+
+11 ) Capital Market is a market for securities with maturity of (2)
+a. Less than one year
+b. More than one year
+} c. Less than three years
+d. More than three years
+
+12 )As per the UU investing approach refers to a situation where
+probabilities cannot be assigned to at least part of the event space (2)
+a) Unknowable
+b) Unknown
+c) Risk
+
+j
+13 Hindsight criticism mean ; (2)
+¢ (a) Critical evaluating a UU event
+
+b) Blame aversion
+
+c) None of the above
+
+Q.2.Briefly explain the concept of Efficient Markets and also explain the Event Study
+Method of testing the Semi Strong Efficient Markets. (10)
+
+ie) [4
+--- page 4 ---
+Q. 3 Given : Risk Free rate = 7% , Expected return on the risky portfolio = 15% , Sigma
+=22%,A=4. (10)
+Find ,
+
+1. Proportion to be invested in Risky asset
+
+2. Proportion to be invested in Riskfree asset
+
+3. Hence , Expected return of the combined portfolio
+
+4. Hence , the combined risk of the portfolio
+
+Q.4. Answer the following questions
+a. Shri.Gandhi is considering investing in the stock of the SBI . SBI’s beta is
+1.4, risk free is 8% and expected return of the market is 14%, Compute
+expected return of the scrip based on CAPM model. -(4)
+b. The rate of return and risk for three SBI growth-oriented mutual funds
+were calculated over the most recent 5 years and are listed below: (6)
+
+Growth Fund Return (%) Fund’s S.D. (%)
+Beta
+
+Jones (J) 15 1.15 16
+
+Packer (P) 13 1.25 18
+
+Franklin (F) 12 0.90 11
+
+Rank each fund by Sharpe’s and Treynor’s index of portfolio performance if the
+risk-free rate is 7 %.
+
+v7)
+
+4 Ik
 ````
 
 ## 2011-12 · Re-Exam · Trim 15 · paper de27d6ecf8fe
@@ -978,6 +1229,7 @@ b. Explain the difference between Standard Deviation and Beta as measures of ris
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Security & portfolio management/2009-2010(149).pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 24/12/2009
 - Text: ocr (2 pages), mean OCR confidence 90.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 UTE OF ~
@@ -988,7 +1240,6 @@ NN Mag
 gut iBRARY Jé&
 By yA
 
-SKVM’S NMIMS SS Ming sane *
 Mukesh Patel School of Technology Management & Engineertrg
 Programme MBA-Tech, Vth Year
 Trimester XIV, Academic Year: 2009-10
@@ -1059,7 +1310,6 @@ amount of money is invested in each of the three. The coefficient of correlation
 with equally weighted portfolio of Reliance and BPCL is 0.3.
 
 Portfolio
-A B Cc D EB F G H
 Expected return ( % ) 10 12.5 | 15 16 17 18 18 20
 Standard deviation (%) 23 21 25 29 29 32 35 45
 
@@ -1274,12 +1524,11 @@ Q.6. Explain the various methods of Asset rebalancing. (10)
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Security & portfolio management/2008-2009 re exam I(18).pdf`
 - Printed on paper: duration hours: 2
 - Text: ocr (3 pages), mean OCR confidence 90.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 5 150 MMP en : J
-coves UE EME LDPE so See! + ENee|
 MBA -Tech “Y~ Year » 2008-2009 [Re-ex > Frimester - nv y
-Subject — Seussy ehok Pat to lio * Datei. 2,
 Time:2hr [Q-00~12-@0 n90en marks 500s 7
 Instructions — candidates should read carefully the instructions printed on the-Question
 paper and on the cover of the answer book , which is provided for their use.
@@ -1509,255 +1758,4 @@ ii) Market Portfolio
 iii) Correlation Coefficient and its use in Portfolio Management
 
 x K.
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper b6bbc7a9dab2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/SECURITY AND PORTFOLIO MANAGEMENT/SECURITY AND PORTFOLIO MANAGEMENT 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 2/4/2012
-- Text: ocr (4 pages), mean OCR confidence 92.3
-
-````text
-® SVKM’s NMIMS
-
-. Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
-Academic Year : 2011-2012
-
-Subject: SECURITY & PORTFOLIO Marks: 50
-MANAGEMENT Time: 2.00 pm
-Date: 2/4/2012 Duration: 2 hrs.
-
-Instructions — candidates should read carefully the instructions printed on the Question
-paper and on the cover of the answer book , which is provided for their use.
-NB:
-
-1. Q.1 is compulsory.
-
-2. Attempt any 2 questions form Q.2 to Q.4
-
-3. Answer to each new question to be started on a fresh page.
-
-4. figures in the bracket indicate full marks
-
-5. Use of non programmable calculator is allowed
-
-Q.1 Answer the following questions.
-
-1) A person is given the choice between two scenarios, one certain and one not. In the
-uncertain scenario, the person is to make a gamble with an equal probability between
-receiving Rs.100 or nothing. The alternative scenario is to receive a specific rupee
-amount with certainty (probability of 1) (2)
-
-Answer the following questions -
-
-i) A person is if he or she would accept a certain payoff of less than Rs.50
-} (for example, Rs.40) rather than the gamble.
-a. risk averse
-b. risk neutral
-c. risk lover
-
-2) When an investor is bullish he will use the following (2)
-a. Long Put
-b. Long Call
-}   c. Short put
-, 6 da&b
-¢ } ea&c
-
-3 ) Beta . (2)
-a. is a measure of firm specific risk.
-b. is a measure of market risk.
-c. is a measure of total risk.
-d. is calculated by regressing the market return on the historical market dividend
-yield.
-e. All of the above are true.
-
-M,
---- page 2 ---
-™~
-
->
-
-™
-
-4) The Security Market Line (SML) relates risk to return, for a given set of financial
-market conditions. If investors conclude that the inflation rate is going to increase, which
-of the following changes would be most likely to occur? (2)
-a. The required return on an average stock would increase.
-b. Beta would increase.
-c. The slope of the SML would increase.
-d. The market risk premium would increase.
-e. None of the indicated changes would be likely to occur.
-eee is the process of making changes in asset allocation and specific
-investment- (2)
-a. Stock Selection
-b. Timing the market
-c. Financial Planning
-d. Portfolio rebalancing
-
-6) The CAPM asserts that portfolio returns are best explained by (2)
-a. Economic Factors
-b. Specific risk
-c. Systematic risk
-d. Diversification
-
-7 ) Answer the following questions.
-
-Year Return on Share A Return on NIFTY
-1 10 12
-2 12 11
-3 15 14
-4 10 -1
-5 08 3
-A. Expected return on Share A is (2)
-a.10.9 %
-b. 9.9 %
-¢, 11%
-‘ B.Risk of the share A is (2)
-4 2.646%
-b.2.64%
-c.7 %
-d.6.69%
---- page 3 ---
-Y
-- C..Beta of Share A is (2)
-a.0.205
-b.0.2
-c.0.19
-d.0.21
-
-8 ) In CML the measure of risk is (2)
-a. Beta.
-b. Variance.
-c. Standard Deviation
-d. Composite Beta
-
-9 ) Asset allocation is a process of- (bH
-
-a. tax planning an investment portfolio.
-
-b. splitting an investment portfolio between the various relatives and friends .
-
-c. splitting an investment into two categories of mutual funds and equity shares.
-
-d. splitting an investment portfolio between the various classes of assets such as real
-state, equities, bonds and cash
-
-10) In the derivatives market closing out means (2)
-a. opposite transaction to the previous one
-b. opposite transaction to the previous one ( done by the exchange)
-c. closing your derivative trading account with the broker
-d. none of the above
-
-11 ) Capital Market is a market for securities with maturity of (2)
-a. Less than one year
-b. More than one year
-} c. Less than three years
-d. More than three years
-
-12 )As per the UU investing approach refers to a situation where
-probabilities cannot be assigned to at least part of the event space (2)
-a) Unknowable
-b) Unknown
-c) Risk
-
-j
-13 Hindsight criticism mean ; (2)
-¢ (a) Critical evaluating a UU event
-
-b) Blame aversion
-
-c) None of the above
-
-Q.2.Briefly explain the concept of Efficient Markets and also explain the Event Study
-Method of testing the Semi Strong Efficient Markets. (10)
-
-ie) [4
---- page 4 ---
-Q. 3 Given : Risk Free rate = 7% , Expected return on the risky portfolio = 15% , Sigma
-=22%,A=4. (10)
-Find ,
-
-1. Proportion to be invested in Risky asset
-
-2. Proportion to be invested in Riskfree asset
-
-3. Hence , Expected return of the combined portfolio
-
-4. Hence , the combined risk of the portfolio
-
-Q.4. Answer the following questions
-a. Shri.Gandhi is considering investing in the stock of the SBI . SBI’s beta is
-1.4, risk free is 8% and expected return of the market is 14%, Compute
-expected return of the scrip based on CAPM model. -(4)
-b. The rate of return and risk for three SBI growth-oriented mutual funds
-were calculated over the most recent 5 years and are listed below: (6)
-
-Growth Fund Return (%) Fund’s S.D. (%)
-Beta
-
-Jones (J) 15 1.15 16
-
-Packer (P) 13 1.25 18
-
-Franklin (F) 12 0.90 11
-
-Rank each fund by Sharpe’s and Treynor’s index of portfolio performance if the
-risk-free rate is 7 %.
-
-v7)
-
-4 Ik
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 7a7f9f8921c0
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/SECURITY AND PORTFOLIO MANAGEMENT/Scan 0018.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Techno1og;lv Management 8a En
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV
-Academic Year : 2012-2013
-/
-Subject:   SECURITY & PORTFOLIO MANAGEMENT   Marks:   50
-Time:   2.00pm To 4.00pm
-Date:   * 12/4/2013   Duration:   2   hrs.
-Final - Examination
-Instructions: Candidate should read carefully the instructions printed on the question paper and
-on the cover of answer book, which is provided for the use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempted any four questions.
-3. In all five questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-1. a) An Investor bought 50 shares of X Ltd. on 15 April 12 @ Rs. 3300lShare. Dividend
-received on 15 May 12 is Rs. 1501 Share. Market Price as on 14 April 2013 is Rs. 3200lSh.
-Calculate Holding period retilrn for the invector.   (5 Marks)
-1. b) A coupon bond pays annual interest, has a par value of Rs. 1, 000, matures in 12 years, has a
-coupon rate of 11%, and has a yield to maturity of 12%. Calculate the current yield on this bond.
-(5 Marks)
-'   2. From the following information relating to two portfolios find out which portfolio has better
-performance according to Sharpe's Index and Treynors's Index. Assume the risk free rate is
-7%   (10 Marks)
-Average Return   - SD   Beta
-Portfolio A   12%   .10   1.3
-Portfolio B   16%   .13   1.78
-Portfolio C   14%   .15   1.66
-3. Explain the need for Portfolio Revision Techniques. Define the advantages and
-disadvantages with formula plan of Portfolio Revision Technique.   (10 Marks)
-4. Define YTM, and explain with suitabie examples how YTM is used for valuation of bonds.
-(10 Marks)
-5. Define the concept of diversifiable risk by drawing example from real life.   (10 Marks)
-6. Write a short note on any two:   (10 Marks)
-a) Markowitz Efficient Frontier   b) Risk free rate of Return c) Efficient Market
-Hypothesis.
 ````

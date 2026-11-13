@@ -1525,7 +1525,7 @@ Software and Hardware Development [35]
 Functionality [35]
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper a0a66b5274a8
+## 2022-23 · Final-Exam · Sem 3 · paper a0a66b5274a8
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA

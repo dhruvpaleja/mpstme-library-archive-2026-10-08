@@ -14,16 +14,16 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Robotics and Automation(702EX0E014)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Robotics and Automation(702EX0E014)_2025-2026_d029d7167d.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / EXTC | Robotics and Automation, Sem-VII, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech EXTC 7006 | QP_Robotics and Automation(702EX0E014)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Robotics and Automation(702EX0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Robotics and Automation(702EX0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Robotics and Automation(702EX0E014)_2025-2026_d029d7167d.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech EXTC 7006 | QP_Robotics and Automation(702EX0E014)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 12 | BTech (ELECTRONICS & TELECOMMUNICATION | ANS_Robotics and Automation(702EX0E014)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Robotics and Automation(702EX0E014)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7, Sem 9 | B TECH / EXTC, B.TECH INTEGRATED / EXTC | Robotics and Automation Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / EXTC | Robotics and Automation Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | BTech (ELECTRONICS & TELECOMMUNICATION | QP_Robotics and Automation(702EX0E014)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 12 | BTech (ELECTRONICS & TELECOMMUNICATION | ANS_Robotics and Automation(702EX0E014)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7, Sem 9 | B TECH / EXTC, B.TECH INTEGRATED / EXTC | Robotics and Automation, Sem-VII, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / EXTC, MBA TECH / EXTC | Robotics and Automation,Final 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / EXTC | Robotics and Automation Batch 2023-24 Final.pdf |

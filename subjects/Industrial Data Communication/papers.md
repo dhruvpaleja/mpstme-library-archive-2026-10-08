@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/INDUSTRIAL DATA COMMUNICATION/Industrial Data Communication, 3rd Year, Sem-V, Year, 2024-25, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13/2/25
 - Text: ocr (4 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -63,7 +64,6 @@ Page 1 of 3
 Q2 [10]
 CO:1;SO:1; a. Consider a data source that generates the following five symbols with their
 Br corresponding probabilities:
-A B Cc D E F
 
 0.35 0.25 0.20 0.10 0.05 0.05
 

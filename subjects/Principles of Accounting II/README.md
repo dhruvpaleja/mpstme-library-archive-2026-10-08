@@ -15,10 +15,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CSEDS-311 | Principles of Accounting-II, Sem-III, Final Exam 2025-26 Re Exam 2023-24.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Principles of Accounting- II(702TF0C010)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech CSE DS 7011 | QP_Principles of Accounting- II(702TF0C010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Principles of Accounting- II(702TF0C010)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Principles of Accounting- II(702TF0C010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CSE DS 7011 | QP_Principles of Accounting- II(702TF0C010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Principles of Accounting- II(702TF0C010)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE, B TECH / CSEDS-311 | Principles of Accounting-II, Sem-III, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE | Principles of Accounting- II, Sem-III, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE | Principles of Accounting-II, Sem-III, Final Exam 2023-24.pdf |

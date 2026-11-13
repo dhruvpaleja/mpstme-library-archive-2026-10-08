@@ -1,8 +1,107 @@
 # Electronic Commerce: question papers in full
 
-14 unique papers · 2013-14 to 2019-20 · Computer Applications (MCA), Information Technology
+14 unique papers · 2013-14 to 2022-23 · Computer Applications (MCA), Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2022-23 · Final-Exam · Sem 3 · paper 07b5edc0d64b
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/Electronics Commerce/Electronics Commerce Final 20220001.pdf`
+- Printed on paper: max marks: 100; exam date: 24 November 2022
+- Text: ocr (1 page), mean OCR confidence 91.0
+
+````text
+SVKM’s NMIMS (S { MPSTME
+Lf{GKRESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & GINEERING 4/8 Y
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEF
+
+Academic Year: 2022-23
+
+Programme: MCA . Year: II Semester: III
+
+Subject: Electronic Commerce
+
+Marks: 100 -
+
+Time: 10.00 am - 1.00 pm ~
+Durations: 3 (irs) -
+
+No. of Pages: 7 _
+
+Final Examination (2022-23) / Re-Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks,
+7) Assume Suitable data if necessary.
+
+Date: 24 November 2022 .
+
+questions. In all 5 questions to be attempted.
+
+Ql! | Answer the following questions:
+
+a) | Suggest 3 businesses which are suitable for physical commerce over e
+
+b) Consider that you are developing m-commerce application, suggest any five user interface [5]
+recommendations. :
+
+-commerce. [5]
+
+c) | Differentiate between product based and customer based marketing strategy for e-commerce. [5]
+
+d) | Write a short note on: Integration with ERP Systems for e-
+
+a) Explain Inhibitors and Barriers of M-
+Q commerce application
+
+b) Explain purchasing, logistics and Support activities in e-commerce business,
+
+a) Why laws are necessary in ecommerce businesses? What is the role of jurisdiction on the
+Q3 internet? Explain with the help of detailed example.
+
+[20]
+b) Compare B2B, B2C, C2C and C2B types of e-commerce. Explain the example of each category.
+
+Q4 | a) Explain the working of E-cash payment system with the help of diagram. [20]
+b) Explain the role of web services in e-commerce software applications.
+
+Qs a) What are the benefits of M-commerce business? How
+commerce businesses?
+
+commerce software [5]
+
+commerce business by taking one example of any M-
+[20]
+
+these benefits differ from typical e-
+
+[20]
+b) Briefly explain ethical and social issues in driving e-commerce businesses.
+a) How e-commerce products advertising is done on the web? explain with the help of following
+points:
+Q6 e Banner Ads [20]
+
+° Site Sponsorship
+b) Differentiate between payment cards, e-wallet and micropayment systems,
+a) Write a short note on Electronic wallets in €-commerce payment systems.
+Q7 |b) Explain following advance functions of e-commerce software with the help of suitable example: [20]
+a* Middleware
+
+e Enterprise application integration and databases
+
+4
+````
 
 ## 2019-20 · Final-Exam · Sem 5 · paper afce512ce7e6
 
@@ -860,6 +959,7 @@ ne)
 - Source: `02_Question_Papers/Legacy/MCA/3RD YEAR/Sem_05/ELECTRONIC COMMERCE/Electronic Commerce Batch 2014-15 Re Exam.pdf`
 - Printed on paper: max marks: 100; exam date: 27/11/2014
 - Text: ocr (2 pages), mean OCR confidence 91.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -879,7 +979,6 @@ Marks: 100 ;
 Date: 27/11/2014 Time: 10.00 Papas RY )z |
 Durations 3 ( Bors 1s
 Final - E: i i
-inal - Examination Ona ait ‘ae oe
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
@@ -1117,103 +1216,4 @@ c. SWOT analysis (5)
 d. Ethical Issues (5)
 
 2/2.
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 07b5edc0d64b
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/Electronics Commerce/Electronics Commerce Final 20220001.pdf`
-- Printed on paper: max marks: 100; exam date: 24 November 2022
-- Text: ocr (1 page), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS (S { MPSTME
-Lf{GKRESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & GINEERING 4/8 Y
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEF
-
-Academic Year: 2022-23
-
-Programme: MCA . Year: II Semester: III
-
-Subject: Electronic Commerce
-
-Marks: 100 -
-
-Time: 10.00 am - 1.00 pm ~
-Durations: 3 (irs) -
-
-No. of Pages: 7 _
-
-Final Examination (2022-23) / Re-Examination (2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks,
-7) Assume Suitable data if necessary.
-
-Date: 24 November 2022 .
-
-questions. In all 5 questions to be attempted.
-
-Ql! | Answer the following questions:
-
-a) | Suggest 3 businesses which are suitable for physical commerce over e
-
-b) Consider that you are developing m-commerce application, suggest any five user interface [5]
-recommendations. :
-
--commerce. [5]
-
-c) | Differentiate between product based and customer based marketing strategy for e-commerce. [5]
-
-d) | Write a short note on: Integration with ERP Systems for e-
-
-a) Explain Inhibitors and Barriers of M-
-Q commerce application
-
-b) Explain purchasing, logistics and Support activities in e-commerce business,
-
-a) Why laws are necessary in ecommerce businesses? What is the role of jurisdiction on the
-Q3 internet? Explain with the help of detailed example.
-
-[20]
-b) Compare B2B, B2C, C2C and C2B types of e-commerce. Explain the example of each category.
-
-Q4 | a) Explain the working of E-cash payment system with the help of diagram. [20]
-b) Explain the role of web services in e-commerce software applications.
-
-Qs a) What are the benefits of M-commerce business? How
-commerce businesses?
-
-commerce software [5]
-
-commerce business by taking one example of any M-
-[20]
-
-these benefits differ from typical e-
-
-[20]
-b) Briefly explain ethical and social issues in driving e-commerce businesses.
-a) How e-commerce products advertising is done on the web? explain with the help of following
-points:
-Q6 e Banner Ads [20]
-
-° Site Sponsorship
-b) Differentiate between payment cards, e-wallet and micropayment systems,
-a) Write a short note on Electronic wallets in €-commerce payment systems.
-Q7 |b) Explain following advance functions of e-commerce software with the help of suitable example: [20]
-a* Middleware
-
-e Enterprise application integration and databases
-
-4
 ````

@@ -75,6 +75,7 @@ improvement.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/CONSTRUCTION QUALITY CONTROL AND ASSURANCE/Construction Quality Control and Assurance, Sem-VII, Year 2025-26, Final Exam.pdf`
 - Printed on paper: max marks: 100; exam date: 04 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -175,7 +176,6 @@ Illustrate with examples how environmental factors affect quality
 
 improvement.
 
-FI A a ack ae a kak
 
 10
 

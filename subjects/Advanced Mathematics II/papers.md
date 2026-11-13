@@ -53,6 +53,58 @@ c) Prove that cross ratio is invarient under Bilinear transformation   [51
 1
 ````
 
+## 2012-13 · Re-Exam · Trim 5 · paper e05cab8f342a
+
+- Departments: Chemical, Civil, Computer Engineering, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/ADVANCED MATHEMATICS II/ADVANCED MATHEMATICS-II V MBA TECH 2011-12 RE EXAM(1).pdf` (+4 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Patel School of Technolorn Manaeement %
+Programme: MBA TECH (AllStreams)   Year:   II . Trimester: V .
+Academic Year :2012-2013
+Batch:   2011-2012..   -
+I Subject:   Advanced Mathematics I1 .   Marks:   50.
+Time:   -   . .
+Date:   Duration: 2 hrs.   d
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+a) Question No. 1is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) All qaestions carry 5 marks each.
+d) Answer to each nePv question to hestated on ti fresh page.
+Q.l i) Determine the region in the z-plane represented by 1< I z + 2i(I2.
+ii) ~f 2 = 3x2' T -yz] + (x + 2z)i; find curlcurl 2.
+4.2 i) If w = f (z) = -, l + z   find - dw Determine where w is non-analytic.
+1-z   & '
+ii) Find the bilinear transformation which maps the points m, i,0 of z- plane onto the points 0,i,ao
+of w-plane respectively.
+4.3 i) Prove that under the transformation w = -, z - i   the region Im(z) I 0 is mapped into the
+12-1
+region 1 wI < 1. Into what region is Im(z) < 0 mapped under the transformation?
+ii)If f; =x+y+z,f,=x+y+z2,f,=2xz+2yz+t3   ; P ~ e t h a t ~ f ; - [ ~ f , x ~ f , ] = O .
+4.4 i) In aerodynamics and fluid mechanics, the function / and y in f (z) = (+ iy ,where
+f (z) is analyiic, arecaikd the velocity potential and stre-m function respecSvsly. If
+(=x2+4x-y2+2y,a)ind y andb)find f(z).
+ii) Show that the hction defined as
+=o   ,z = o
+is not analytic at origin, even though Cauchy-Riemanii equations are satisfied there.
+Q.5 i) Find the directional derivative of U = 2xy -za & (2,-1,l) in a diction toward (3,1,-1) .
+ii) Show that the field P =(x2+ xy2)T + (yZ+ x2 y ) j is irrotational.
+4.6 i)Show that the vector field 2= (x2-y2+ x); -(2xy + y)S is irrotational, and find a scalar
+4 such that 2 = grad/.
+ii)Find the vector .   . defined by ? = exs.jnyi^+excos2is ..   irrotational or solenoidal.
+,,   ,,   .. . .
+~.7i)~indvalueofi,b,crkothat ~ = ( ~ ~ 2 ~ + & ~ 1 + ( b x - 3 j - z ) ~ ' + ( 4 x + is c ~ + 2 z ) ~
+irrotational.
+ii) Prove that div
+````
+
 ## 2012-13 · Re-Exam · Trim 5 · paper 144bee406bc0
 
 - Departments: Civil
@@ -109,6 +161,7 @@ conjugate and the corresponding analytic func$on.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/ADVANCED MATHEMATICS II/ADVANCED MATHEMATICS II 2011-2012(3).pdf` (+4 identical copies)
 - Printed on paper: exam date: 08/02/2012
 - Text: ocr (2 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -172,7 +225,6 @@ Q3.
 Q4.
 
 c) A vector field Fis given by _ _ [5]
-F= (ysinz-sinx) i+ (xsinz+2yz)j + (xycoszty’) k
 prove that it is irrotational and hence find its scalar potential
 
 a) Show that W = Eee a is an analytic function and [5]
@@ -273,58 +325,6 @@ F =(ax+3y+4z2)i+(x-2y +32) j+(3x+2y-z)k.
 ii) Let F=xi + yj i+ zk, r= lr and da is aconstant vector. Find the value of av( % = *).
 
 |
-````
-
-## 2011-12 · Re-Exam · Trim 5 · paper e05cab8f342a
-
-- Departments: Chemical, Civil, Computer Engineering, Information Technology, Mechanical
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / COMPUTER, MBA TECH / I T, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM V/ADVANCED MATHEMATICS II/ADVANCED MATHEMATICS-II V MBA TECH 2011-12 RE EXAM(1).pdf` (+4 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School of Technolorn Manaeement %
-Programme: MBA TECH (AllStreams)   Year:   II . Trimester: V .
-Academic Year :2012-2013
-Batch:   2011-2012..   -
-I Subject:   Advanced Mathematics I1 .   Marks:   50.
-Time:   -   . .
-Date:   Duration: 2 hrs.   d
-Re - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-a) Question No. 1is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) All qaestions carry 5 marks each.
-d) Answer to each nePv question to hestated on ti fresh page.
-Q.l i) Determine the region in the z-plane represented by 1< I z + 2i(I2.
-ii) ~f 2 = 3x2' T -yz] + (x + 2z)i; find curlcurl 2.
-4.2 i) If w = f (z) = -, l + z   find - dw Determine where w is non-analytic.
-1-z   & '
-ii) Find the bilinear transformation which maps the points m, i,0 of z- plane onto the points 0,i,ao
-of w-plane respectively.
-4.3 i) Prove that under the transformation w = -, z - i   the region Im(z) I 0 is mapped into the
-12-1
-region 1 wI < 1. Into what region is Im(z) < 0 mapped under the transformation?
-ii)If f; =x+y+z,f,=x+y+z2,f,=2xz+2yz+t3   ; P ~ e t h a t ~ f ; - [ ~ f , x ~ f , ] = O .
-4.4 i) In aerodynamics and fluid mechanics, the function / and y in f (z) = (+ iy ,where
-f (z) is analyiic, arecaikd the velocity potential and stre-m function respecSvsly. If
-(=x2+4x-y2+2y,a)ind y andb)find f(z).
-ii) Show that the hction defined as
-=o   ,z = o
-is not analytic at origin, even though Cauchy-Riemanii equations are satisfied there.
-Q.5 i) Find the directional derivative of U = 2xy -za & (2,-1,l) in a diction toward (3,1,-1) .
-ii) Show that the field P =(x2+ xy2)T + (yZ+ x2 y ) j is irrotational.
-4.6 i)Show that the vector field 2= (x2-y2+ x); -(2xy + y)S is irrotational, and find a scalar
-4 such that 2 = grad/.
-ii)Find the vector .   . defined by ? = exs.jnyi^+excos2is ..   irrotational or solenoidal.
-,,   ,,   .. . .
-~.7i)~indvalueofi,b,crkothat ~ = ( ~ ~ 2 ~ + & ~ 1 + ( b x - 3 j - z ) ~ ' + ( 4 x + is c ~ + 2 z ) ~
-irrotational.
-ii) Prove that div
 ````
 
 ## 2010-11 · Exam not stated · Trim 5 · paper ded747aa9587

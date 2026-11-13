@@ -250,6 +250,125 @@ CO-3; SO-1;
 BL-1
 ````
 
+## 2024-25 · Re-Exam · Sem 7 · paper 6d774cc729f5
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VII SEMESTER/DIGITAL VOICE COMMUNICATION/Digital Voice & Broadband Communication , Re-exam.PDF`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2024-2025
+Program/s: B. Tech / MBA Tech Year: [V_ Semester: VII
+Stream/s; EXTC
+
+Subject: Digital Voice and Broadband Communication Time: 03 _ hrs (2:copmto S00 pm)
+Date:_24 / 09/2025 No. of Pages: 02
+Marks: 100
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO-1; SO-1; | a. | Define Erlang and explain its significance in telephone traffic theory. [5]
+BL-1,2
+
+CO-1; SO- 1; | b. | Explain how timing recovery is achieved using PLL. [5]
+BL-2
+
+CO-2; SO-1; | c. | What are the key features of VoIP? Briefly describe the purpose of RTP. [5]
+BL-1
+
+CO-3; SO-1; | d. | List and classify the variants of DSL technology. . 415]
+BL-1,2
+
+Q2 a. | (i) On an average, during the busy hour, a company makes 120 outgoing calls of | [6]
+CO-1; SO-2; average duration 2 minutes. It receives 200 incoming calls of average duration 3
+BL-2,5 minutes. Measure the outgoing traffic, the incoming traffic and the total traffic.
+
+(ii) Explain the concept of lost call cleared systems for finite and infinite sources. | [4]
+
+Q2 b. | Illustrate how slips occur and how elastic stores help prevent them. [10]
+CO-1; SO- 1;
+BL-2
+--- page 2 ---
+Q3 a. | Discuss the SIP architecture and its components along with its diagram. [10]
+
+CO-2; SO-1;
+BL-6
+Q3 b. | Explain the concept of Broadband PON (BPON) and its advantages over GRON [10]
+CO- 3; SO-1; and EPON.
+BL-2
+Q4 a. | Sumrharize the types of signaling used in telephony and also emphasis the [10]
+CO-1; SO-1; features of SS7 signaling.
+
+BL-2
+
+Q4 b. | Construct the Digital Subscriber Line (DSL) architecture. Explain the basic [10]
+CO-3; SO- 1; properties adapted by DSL.
+BL- 2,3
+
+Lok} a. Outline the diagram of cable TV network and HFC network. Highlights the [10]
+CO-3; SO-1; advantage and disadvantage of both the networks.
+
+BL-2,
+
+Q5 - b. | Analyze the H.323 standard and its call signaling process with neat ° | [10]
+CO-2; SO-1; diagrams.
+
+BL-4
+
+Q6 a. Demonstrate the modulation techniques used in DSL systems. [10]
+CO-3; SO-1;
+
+BL-1
+
+Q6 b. | Explain the importance of LARAWAN and NB-IOT. Compare these two [10]
+CO-4; SO-1; networks based on their operations, features and applications
+
+BL-1
+
+Q7 a. A TASI system has 10 channels and 20 sources connected to it. What is the (5]
+CO-1; SO-2; Probability of clipping if the activity factor for each source is 0.4.
+
+BL-1 ;
+
+Q7 b. | Explain the need of network synchronization. How does it perform? [5]
+CO-2; SO-1;
+
+BL-2
+
+Q7 c. Define quantization. Explain the importance of mid rise and mid tread (5]
+CO-2; SO-1; quantization.
+
+BL-1,2 :
+
+Q7 d. | Explain how a cable modem and CMTS communicate. Include a neat diagram. [5]
+CO-3; SO-1;
+
+BL-2
+````
+
 ## 2023-24 · Final-Exam · Sem 7 · paper 327cb7a6f725
 
 - Departments: Electronics and Telecommunication
@@ -1567,123 +1686,4 @@ R-——___x
 10
 
 10
-````
-
-## Year not stated · Re-Exam · Sem 7 · paper 6d774cc729f5
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VII SEMESTER/DIGITAL VOICE COMMUNICATION/Digital Voice & Broadband Communication , Re-exam.PDF`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 91.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2024-2025
-Program/s: B. Tech / MBA Tech Year: [V_ Semester: VII
-Stream/s; EXTC
-
-Subject: Digital Voice and Broadband Communication Time: 03 _ hrs (2:copmto S00 pm)
-Date:_24 / 09/2025 No. of Pages: 02
-Marks: 100
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-CO-1; SO-1; | a. | Define Erlang and explain its significance in telephone traffic theory. [5]
-BL-1,2
-
-CO-1; SO- 1; | b. | Explain how timing recovery is achieved using PLL. [5]
-BL-2
-
-CO-2; SO-1; | c. | What are the key features of VoIP? Briefly describe the purpose of RTP. [5]
-BL-1
-
-CO-3; SO-1; | d. | List and classify the variants of DSL technology. . 415]
-BL-1,2
-
-Q2 a. | (i) On an average, during the busy hour, a company makes 120 outgoing calls of | [6]
-CO-1; SO-2; average duration 2 minutes. It receives 200 incoming calls of average duration 3
-BL-2,5 minutes. Measure the outgoing traffic, the incoming traffic and the total traffic.
-
-(ii) Explain the concept of lost call cleared systems for finite and infinite sources. | [4]
-
-Q2 b. | Illustrate how slips occur and how elastic stores help prevent them. [10]
-CO-1; SO- 1;
-BL-2
---- page 2 ---
-Q3 a. | Discuss the SIP architecture and its components along with its diagram. [10]
-
-CO-2; SO-1;
-BL-6
-Q3 b. | Explain the concept of Broadband PON (BPON) and its advantages over GRON [10]
-CO- 3; SO-1; and EPON.
-BL-2
-Q4 a. | Sumrharize the types of signaling used in telephony and also emphasis the [10]
-CO-1; SO-1; features of SS7 signaling.
-
-BL-2
-
-Q4 b. | Construct the Digital Subscriber Line (DSL) architecture. Explain the basic [10]
-CO-3; SO- 1; properties adapted by DSL.
-BL- 2,3
-
-Lok} a. Outline the diagram of cable TV network and HFC network. Highlights the [10]
-CO-3; SO-1; advantage and disadvantage of both the networks.
-
-BL-2,
-
-Q5 - b. | Analyze the H.323 standard and its call signaling process with neat ° | [10]
-CO-2; SO-1; diagrams.
-
-BL-4
-
-Q6 a. Demonstrate the modulation techniques used in DSL systems. [10]
-CO-3; SO-1;
-
-BL-1
-
-Q6 b. | Explain the importance of LARAWAN and NB-IOT. Compare these two [10]
-CO-4; SO-1; networks based on their operations, features and applications
-
-BL-1
-
-Q7 a. A TASI system has 10 channels and 20 sources connected to it. What is the (5]
-CO-1; SO-2; Probability of clipping if the activity factor for each source is 0.4.
-
-BL-1 ;
-
-Q7 b. | Explain the need of network synchronization. How does it perform? [5]
-CO-2; SO-1;
-
-BL-2
-
-Q7 c. Define quantization. Explain the importance of mid rise and mid tread (5]
-CO-2; SO-1; quantization.
-
-BL-1,2 :
-
-Q7 d. | Explain how a cable modem and CMTS communicate. Include a neat diagram. [5]
-CO-3; SO-1;
-
-BL-2
 ````

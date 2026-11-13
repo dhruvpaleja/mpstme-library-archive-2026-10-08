@@ -14,13 +14,13 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AI 7012, BTech Civil 7005, BTech Computer 7002, BTech CSE DS 7011, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | ANS_Journalism and Mass Media(702BS0I006)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Journalism and Mass Media(702BS0I006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH, MBA TECH | Journalism and Mass Media, Sem-VII, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech AI 7012, BTech Civil 7005, BTech Computer 7002, BTech CSE DS 7011, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | QP_Journalism and Mass Media(702BS0I006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech EXTC 7006 | QP_Journalism and Mass Media(702BS0I006)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Journalism and Mass Media(702BS0I006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AI 7012, BTech Civil 7005, BTech Computer 7002, BTech CSE DS 7011, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | ANS_Journalism and Mass Media(702BS0I006)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Journalism and Mass Media(702BS0I006)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech Computer 7002 | QP_Journalism and Mass Media(702BS0I006)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Journalism and Mass Media(702BS0I006)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH, MBA TECH | Journalism and Mass Media, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH, MBA TECH | Journalism and Mass Media, Sem-VII, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH, MBA TECH | Journalism and Mass Media ,Final 2023-24.pdf |

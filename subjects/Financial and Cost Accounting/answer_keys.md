@@ -396,6 +396,7 @@ liabilitie
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CSBS_7036/Financial & Cost Accounting/ANS_Financial & Cost Accounting(702TF0C005)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_EXTC_7006/Discrete Time Signal Processing/ANS_Discrete Time Signal Processing(702EX0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Dec 2025
 - Text: ocr (21 pages), mean OCR confidence 62.7
+- 15 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -90,8 +91,6 @@ ae adn J) = HreCel?) + frtnnGer*)
 6lw) = arg j H¢e)b
 From eg” ci)
 jw ‘ ;
-| 4 Ce dle Magnituce Response cate ss
-eww) = Phace Responre rie
 
 Tn decibel; 3
 Ge) = 20l04,/ HCH?) 4B.
@@ -144,14 +143,11 @@ narrow main-lobe has a poor attenuation and vice versa. dm
 CO4- : : ; .
 SO-1 : d. G Summarize the factors influencing choice of the filter structure. 5M
 ; We . 2 a kes ee
-BL-2 Oomputahon a] complex fay— Im TH) Faanrke Word loath
 CW) memory Requibertentt a) gy oy eFfects a 2m
 Define phase delay, group delay, and derive an equation for steady state
 response of a Discrete Time LTI System.
 a i , : ‘ *
-co Finusordaf UP In “perme of wats freg?
 we : ‘ >
-sient Ffunctian Het“) ustth o geal
 Impulre Tesponse ADn].
 — Let fhe
 © t/p +o the 7 big fg fy store Le,
@@ -164,7 +160,6 @@ Segdences
 Q2 ‘
 COl; ac [rn] = [Jet #* 5 i ay
 SOL: J ae | ae [10]
-Bl Ce et a ed ee ee
 
 The Response V[EnJ Pe 2Ip 9 In] te
 
@@ -173,10 +168,8 @@ v[n] = 3 a7 CoP) on civ) —— 1m
 ee-—: Fam he Freg” Re-tp- 09 of
 LTE Se
 
-Lipewtse ofp dus +o -t/p g%0rJ fs complex
 Conj4g ute of U Ln] Sai
 
-Ot pay ae ee ie) ee a ig
 
 FOG 7 AAO GG A i kk
 --- page 5 ---
@@ -378,7 +371,6 @@ Col; b Illustrate the application of filtering using overlap save and overlap ad
 Sol; method.
 BL3;
 
-OR RK ROR RK OR 8 ORR RR RR RR
 --- page 9 ---
 uted for pirring the sechored data:
 oa
@@ -410,7 +402,6 @@ x Peatonter Overlap -tave me th oa ¢-
 at hal N
 
 —+ |Im
-~ after N- poiot cfrewar cony, only Jase (N-m +1)
 Samples are carved. .
 ‘ " —- +"
 = se 2 eres: ato determine he I *near cory.
@@ -492,7 +483,6 @@ oats erate) hates rar ePer-a) a EC ad
 a(n - a) 2j 2j n= athe
 i - a)-sit = becomes 0/0 whi
 ~ iene — alos ego) ; for all n except n=a. isindeterm| we
-eee: hehe cae ee (n= a) - sin ona)
 (n-a) +0 x(n-a) -
 1 sinogin-a) sino. (n-a) Using L’ Hospital rule! 2m
 so e- ea : _—
@@ -502,9 +492,7 @@ a7
 *
 The impulse response h(n) of FIR filter is obtained by multiplying h,(n) by window sequence.
 The hanning window sequence w,(n) is given by,
-we(n) = 0.5 - 0.5 cos fey ; forn=Oto (N-1)
 =0 ; otherwise
-REC Wey | oon 2) [0.5 - 0.5 cos(z)] forn*e
 n(n - a)
 -(22=*2) as 2xn)] « wa
 (ee [os 0.5 cos(24)] 3 jorn=a noc tales Dw
@@ -565,7 +553,6 @@ H(z) = 2{hin)} = 3 hindz* = hin)2*
 = (0) +h(1)z" + h(2)z? + H3)2 + h(2)24 4. hiN2 +ho)z*
 
 7 Usii nition,
-Worse ]omaes2]shafet eens [pnnesrmmetr cond
 =0x[1+2]- 0.0556[z"1+ z)- 0.0143[27 z]40.2529
 =-0.0586[2""+24] -0.0143[2 42-4] ,025, ee 21/1)
 
@@ -602,7 +589,6 @@ Compare Butterworth and Chebyshev Type -I Filters.
 
 [04]
 
-FAA RAO ACR 7 A AOR HH
 --- page 13 ---
 CO3; b
 
@@ -1081,6 +1067,7 @@ We Hee ee Hea Hee a He ke ee
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_EXTC_7006/Discrete Time Signal Processing/ANS_Discrete Time Signal Processing(702EX0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (16 pages), mean OCR confidence 63.6
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1226,7 +1213,6 @@ BL5;   and phase delay of a Discrete Time LTI System.
 ********** 4 **********
 --- page 5 ---
 ou Hn use def '/p In terme Oh — bra”
-Tespoense fiunctan Hoes) usith 4 weal
 t'mpulce Tesponse b[n].
 
 Let fhe I/p +o -the LTr
@@ -1246,9 +1232,7 @@ The Response VEn] a tip g[n] te
 
 MET = fae Pn (ei) ion civ)
 
----- Feo mm the frog” Retp. 29 of
 LTL Sys.
-Lipew tse ofp due +e A/p 9%4LrJ 1s comple x*
 Conjugate of U[N] fre
 
 U4 En) = ot Ae? (ede) orem —_v)

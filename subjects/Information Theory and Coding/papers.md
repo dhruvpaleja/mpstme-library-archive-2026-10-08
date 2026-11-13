@@ -405,6 +405,7 @@ Q.No.8 Write short notes 20
 - Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/INFORMATION THEORY AND CODING/2005-2006(29).pdf` (+1 identical copies)
 - Text: ocr (2 pages), mean OCR confidence 85.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 svKws SNS
@@ -494,5 +495,4 @@ Explain convolutional encoding and decoding techniques using code tree and state
 diagram.
 [18 marks]
 
-FR ooo ak oR ok a ok Ok
 ````

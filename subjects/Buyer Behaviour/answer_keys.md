@@ -978,6 +978,7 @@ colour of the bike and accessories which needs to be fitted.
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_Computer_7047/Buyer Behaviour/ANS_Buyer Behaviour(703TM0E003)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 05 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 34.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

@@ -949,6 +949,81 @@ Q. 7) Attempt following
 (b) Write a note on: (i) canal losses (ii) energy dissipaters. (06)
 ````
 
+## 2017-18 · Re-Exam · Sem 6 · paper 5ce8c85155da
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/IRRIGATION ENGINEERING/IRRIGATION_ENGINEERING_BATCH_16-17_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 June 2018
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+serine.
+° 2
+
+SVKM’s NMIMS
+
+Programme: B. Tech (CIVIL) Year: III Semester: VI
+
+/ Batch: (2016-17)
+Academic Year: 2017-18
+
+Subject: Irrigation Engineering
+Marks: 60
+
+Date: 30 June 2018 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+
+No. of Pages: __ 02.
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql Answer any 4 12
+a Explain about the necessity of irrigation in India in brief. /
+b Explain in brief about soil moisture relationship.
+c Elaborate on quality of irrigation water.
+d Elaborate on inundation canal- its advantages and disadvantages.
+e List the defects in Kennedy’s theory.
+
+Q2 a Elaborate on the factors affecting the choice of method of irrigation. 6
+b Explain in detail about sprinkler irrigation method. 6
+Q3 a Define duty, delta and base period and derive a relation between them. 6
+b Explain any 6 methods of application of water on field with neat sketch. 6
+| Q4 a Write a short note on requirements of an ideal lining of canals. 6
+b Explain about the necessity of drainage of irrigated lands and any one 6
+us method for the same.
+Vo
+--- page 2 ---
+Q5 a Design an irrigation canal using Kennedy’s theory for only one iteration for 6
+gn gi g
+the following data.
+Discharge= 50 cumecs. CVR=1, side slope=1/2:1, Kutter’s n =0.025
+
+b Compare Lacey’s and Kennedy’s theory. 6
+Q6 a Explain about aqueduct and syphon aqueduct with neat sketches. 6
+b Explain any 6 forces acting on a gravity dam with a neat sketch. 6
+
+Q7 a Elaborate on the necessity of spillways and explain any 2 types of spillways 6
+with neat sketch.
+b Explain any two types of crest gates with neat sketches. 6
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper 3ab5a756edb2
 
 - Departments: Civil
@@ -1260,81 +1335,6 @@ B. Write a note on Energy dissipators. willy weat chelely serv
 ape.
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper 5ce8c85155da
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/IRRIGATION ENGINEERING/IRRIGATION_ENGINEERING_BATCH_16-17_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 June 2018
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-serine.
-° 2
-
-SVKM’s NMIMS
-
-Programme: B. Tech (CIVIL) Year: III Semester: VI
-
-/ Batch: (2016-17)
-Academic Year: 2017-18
-
-Subject: Irrigation Engineering
-Marks: 60
-
-Date: 30 June 2018 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-
-No. of Pages: __ 02.
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql Answer any 4 12
-a Explain about the necessity of irrigation in India in brief. /
-b Explain in brief about soil moisture relationship.
-c Elaborate on quality of irrigation water.
-d Elaborate on inundation canal- its advantages and disadvantages.
-e List the defects in Kennedy’s theory.
-
-Q2 a Elaborate on the factors affecting the choice of method of irrigation. 6
-b Explain in detail about sprinkler irrigation method. 6
-Q3 a Define duty, delta and base period and derive a relation between them. 6
-b Explain any 6 methods of application of water on field with neat sketch. 6
-| Q4 a Write a short note on requirements of an ideal lining of canals. 6
-b Explain about the necessity of drainage of irrigated lands and any one 6
-us method for the same.
-Vo
---- page 2 ---
-Q5 a Design an irrigation canal using Kennedy’s theory for only one iteration for 6
-gn gi g
-the following data.
-Discharge= 50 cumecs. CVR=1, side slope=1/2:1, Kutter’s n =0.025
-
-b Compare Lacey’s and Kennedy’s theory. 6
-Q6 a Explain about aqueduct and syphon aqueduct with neat sketches. 6
-b Explain any 6 forces acting on a gravity dam with a neat sketch. 6
-
-Q7 a Elaborate on the necessity of spillways and explain any 2 types of spillways 6
-with neat sketch.
-b Explain any two types of crest gates with neat sketches. 6
-````
-
 ## 2016-17 · Re-Exam · Sem 5 · paper ff09ffd8eb94
 
 - Departments: Civil
@@ -1452,6 +1452,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/IRRIGATION ENGINEERING/IRRIGATION ENGINEERING B TECH (CIVIL), BATCH 15-16 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 10/05/2016
 - Text: ocr (2 pages), mean OCR confidence 90.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ih.
@@ -1550,7 +1551,6 @@ Q. No. 7. (a) List the various forces acting on a gravity dam. Explain any six. 
 
 (b) Write a short note on types of spillways. (06)
 
-2 2 Ae ee oe 2 oo oe oo oo oR RR OR
 
 2].
 ````
@@ -1652,6 +1652,188 @@ ed
 6
 ````
 
+## 2015-16 · Re-Exam · Sem 5 · paper 56d1f9f5507a
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/IRRIGATION ENIGNEERING/IRRIGATION ENGINEERING B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/2015
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+: Semester: V
+
+Academic Year: 2015-2016
+
+Subject: Irrigation Engineering
+Marks : 100
+Time : 2.00 pm to 5.00 pm
+
+Duration: 3 (hrs}
+
+Date: 27/11/2015
+
+Re-Examination
+
+instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary and state it clearly.
+
+Ql Answer any four 20
+a Write a short note on the importance of irrigation.
+b What do you understand by silt supporting capacity of irrigation channel?
+c Write a short note on consumptive use of water.
+d Explain in brief Bandhara irrigation.
+€ Explain in brief the necessity and list the various types of canal regulation works.
+
+Q2 a _ Explain the importance of quality of irrigation water. 10
+b Explain field capacity and permanent wilting point. 10
+Calculate the frequency of irrigation for a crop with the following details
+Field capacity= 28%, permanent wilting percentage = 11%, density of soil =1300
+kg/m}, effective depth of root zone = 800 mm, daily consumptive use of water =
+12mm. For healthy growth of crop, the moisture content must not fall below 25%
+of the water holding capacity between the field capacity and permanent wilting
+
+point.
+Q3 a _ Write a brief note on alignment of canals along with neat sketches. 10
+b Compare Lacey’s theory and Kennedy’s theory. 10
+
+Q4 a What is the necessity of drainage of irrigated land? List its types and explain any 10
+one method.
+b Write a brief note on methods of application of water to the soil. 10
+
+Q5 a Design an irrigation channel in alluvial soil according to Lacey’s silt theory for 10
+
+}2—
+--- page 2 ---
+Q6
+
+Q7
+
+the following data: Full supply discharge = 15 cumec, Lacey’s silt factor = 0.9,
+side slopes of the channel = 4H: 1V
+Write a brief note on cross drainage works. Explain any two types with neat sketches.
+
+What is canal lining and why is it required? List different types of linings.
+What is the necessity of providing energy dissipaters? Explain its different types
+with sketches.
+
+Explain in brief the factors affecting selection of site of a dam.
+What are the forces acting on a gravity dam?
+
+10
+
+10
+10
+
+10
+10
+
+)
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 1799ac86e420
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/IRRIGATION ENIGNEERING/IRRIGATION ENGINEERING BATCH 2013-14 RE EXAM_1799ac86e4.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2016
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
+
+| ES
+
+SN. - P:
+Programme: B.Tech (Civil) Year: III Semester: V ( ash ha)
+i
+. . é
+Academic Year: 2015-16 Cr OY yy
+Batch: 2013-14 Marks: 100 —
+Subject: Irrigation Engineering Time: 2.00 pm — 5.00 pm
+Date: 09 June 2016 Durations: 3 (hrs)
+Re-Examination
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+1) Question No. | is compulsory. Out of remaining questions, attempt any 4 questions.
+2) In all 5 questions to be attempted.
+3) All questions carry equal marks.
+4) Answer to each new question to be started on a fresh page. .
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary and state it clearly.
+Qi Solve any four out of five 20
+a Write a brief note on need of irrigation in India.
+b Explain the difference between yield and capacity of a reservoir.
+€ Write a note on types of spillways.
+d Explain distributary head regulators and cross regulators.
+e Elaborate on aqueduct and syphon aqueduct.
+Q2 a A canal has a gross commanded area of 25000 hectare out of which 10
+80% is culturable. The intensity of irrigation for rabi is 40% and for
+rice is 20%. If the kor period for rabi is 4 weeks and for rice is 2.5
+weeks, find the outlet discharge. Considering an outlet duty for rabi
+is 1600 hectare/cumecs and for rice is 800 hectare/cumecs,
+calculate the value of delta for each.
+b Explain in detail about canal losses. 10
+Q3 a Design an irrigation channel to carry a discharge of 50 cumecs. The 10
+channel is to have a slope of 1 in 4000. The critical velocity ratio of
+the soil is 1.1. Use Kutter’s rugosity coefficient as 0.023.
+came b Compare Lacey’s and Kennedy’s theory. 10
+Q4 a Explain in detail Bandhara irrigation giving its advantages and 10
+pe disadvantages.
+b Explain in detail the various types of surface irrigation. 10
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+Explain the advantages and disadvantages of canal lining.
+Discuss the necessity and types of spillways.
+
+Explain the various zones of storage in a reservoir.
+Explain the various forces acting on gravity dams.
+
+After how many days will you order irrigation in order to ensure
+healthy growth of crops given the following data?
+
+Field capacity of soil is 29%. Permanent wilting percentage is 11%.
+Density of soil is 1300 kg/m?. The effective depth of root zone is 700
+mm. Daily consumptive use of water for the given crop is 12 mm.
+Explain the various canal regulation works in brief.
+
+FOGG IOI a I i a
+
+10
+10
+
+10
+10
+
+10
+
+10
+````
+
 ## 2015-16 · Re-Exam · Sem 6 · paper 69c3fe51f7c5
 
 - Departments: Civil
@@ -1659,6 +1841,7 @@ ed
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/IRRIGATION ENGINEERING/IRRIGATION ENGINEERING BATCH 2015-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2016
 - Text: ocr (2 pages), mean OCR confidence 90.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1737,7 +1920,6 @@ Q.No.6. (a) Explain the causes and remedial measures of water logging. (06)
 Q.No.7.   -(a) Why lining of canal is necessary? State advantages and disadvantage of canal lining. (06)
 (b) Explain energy dissipation structures. (06)
 
-I I A OR OR A
 
 2/3
 ````
@@ -1841,7 +2023,7 @@ b_ Write a short note on spillway gates. 6
 2) 2.
 ````
 
-## 2014 · Final-Exam · Sem 6 · paper 7286537db72e
+## 2014-15 · Final-Exam · Sem 6 · paper 7286537db72e
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
@@ -2066,6 +2248,257 @@ Calculate the discharge required at the head of the canal.
 a
 ````
 
+## 2014-15 · Re-Exam · Sem 5 · paper ada4fef0f336
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/IRRIGATION ENIGNEERING/IRRIGATION ENGINEERING B TECH (CIVIL) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 08/06/2015
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: V
+Batch: 2013-14
+Academic Year: 2014-2015 Lig may, ,
+Subject: Irrigation Engineering fg ae)
+Marks: i - ‘
+Date: 08/06/2015 Time:
+Durations:
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB: 1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Group all sub questions together failing which it may not be assessed.
+7) Figures in brackets on the right hand side indicate full marks.
+8) Assume suitable data if necessary and state it clearly.
+
+Ql Attempt any four out of five questions: 20
+a) What are the benefits and ill-effects of irrigation?
+bj) . Explain in brief the advantages and disadvantages oi Bandhara irrigation.
+c) Write a brief note on the scope of development of irrigation in India.
+d) Explain in brief the various investigations required for reservoir planning.
+e) Explain in brief necessity and types of canal regulation works.
+
+Q2. sa) Define duty, base period and delta. Derive a relationship between them. 6
+
+b) Calculate the frequency of irrigation for a crop with the following details 6
+Field capacity= 30%, permanent wilting percentage = 11%, density of soil
+=1300 kg/m’, effective depth of root zone = 700 mm, daily consumptive
+use of water = 12mm. For healthy growth of crop, the moisture content
+must not fall below 25% of the water holding capacity between the field
+capacity and permanent wilting point.
+
+c) Explain sprinkler irrigation system with neat skeich. List its advantages 8
+--- page 2 ---
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+a)
+b)
+
+c)
+
+a)
+b)
+
+2)
+
+a)
+b)
+
+b)
+1)
+
+a)
+b)
+
+Explain the causes and remedies of water logging.
+
+What is the necessity of drainage of irrigated land? Explain any one
+method.
+
+Distinguish between canal syphon and syphon aqueduct with neat
+sketches.
+
+Write a brief note on alignment of canals.
+
+Exnlain the various storage zones in a reservoir with a neat sketch.
+
+Find the required reservoir capacity to cater to the needs of crops for the
+details provided below:
+
+Crops Base period (days) Duty (Ha/cumec) Area under crop
+Wheat 120 1800. 4800
+Sugarcane 360 800 5600
+Cotton 200 1400 2400
+rice 120 900 3200
+
+Write a short note ort classification of dams.
+
+Compare Lacey’s theory and Kennedy’s theory.
+
+Design an irrigation channel in alluvial soil according to Lacey’s silt
+theory for the following data: Full supply discharge = 10 cumec, Lacey’s
+silt factor = 0.9, side slopes of the channel = 2 H: 1 V
+
+Explain in brief the factors affecting selection of site of a dam.
+Explain the various forces acting on a gravity dam.
+Explain the advantages and disadvantages of providing a canal lining.
+
+Write a short note on spillway gates.
+
+What is the necessity of providing energy dissipaters? Explain its different
+types with sketches.
+
+What are the various modes of failure in case of gravity dams?
+
+6
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper dc2f8d0d6785
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/IRRIGATION ENIGNEERING/IRRIGATION ENGINEERING B TECH (CIVIL), BATCH 2013-14 RE EXAM_dc2f8d0d67.pdf`
+- Printed on paper: exam date: 27/11/2014
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: II Semester: V
+Batch: 2013-2014
+Academic Year: 2014-2015
+Subject: Irrigation Engineering
+Marks:
+Date: 27/11/2014 Time:
+Durations:
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory
+
+2) Out of remaining questions, attempt any FOUR questions
+3) In all FIVE questions to be attempted
+
+4) All questions carry equal marks
+
+5) Answer to each new question to be started on a ftesh page
+6) Figures in brackets on the right hand side indicate full marks
+
+Qu.l: Write short notes on (Any FOUR) 20
+
+1. Inundation jrrigation
+
+2. Soil-water relationship
+
+3. Factors affecting choice of method of irrigation
+4. Comparison of Kennedy’s and lacey’s theory
+5. Crest gates
+
+6. Forces acting on Gravity dam
+
+Qu.2: A. The cohsumptive use requirements of a crop are 0.2cm per day for days 1 to 15, 0.3 cm 10
+per day for days 16 to 40, 0.5cm per day for-41 to 50 and 0.1ct/day for days 51 to 55.
+Effective rainfall of 3.5cm, distributed uniformly during the 36 and 45® days (both
+inclusive) is predicted. Compute the total quantity of water (in cu. m) to. be delivered to a
+50 hectares plot for the whole crop season. with a pre-sowing requirement of 5 cm of
+water.
+
+B. What is hydraulic jimp? Explain types of jumps and the conditions which govern the 10
+relationship between the JHC and TWC.
+
+Qu.3: A. Write causes, effects and remedial measures for water logging 10
+
+B. The slope of a channel in alluvial soil is 1/5900. Find the channel section and the 10
+maximum discharge which can be allowed to flow in it. Take Lacey’s silt factor f=]. The
+channel is of trapezoidal section having side slopes 0.5:1.
+
+Qu4: A. Explain storage zones of a reservoir (with neat sketch) 10
+
+B. Calculate the bed width for an irrigation channel to carry a discharge of 6 cumecs. Side 10
+slopes of the channel are % horizontal to 1 vertical. Assume critical velocity ratio as 0.85.
+The first trial depth of flow as 0.9m. The channel as a bed slope of 0.25m per km. Using
+Kutter’s equation, check the depth. The value of C is 30. V is mean velocity of flow in
+m/sec and R is hydraulic mean radius in m.
+
+Vo
+--- page 2 ---
+Qu.5:
+
+Qu.6:
+
+Qu.7:
+
+A. What do you understand by “balancing depth” of a canal? Derive an expression for the
+same. Hence find the value of the balancing depth for the canal shown in Fig.
+
+1.5m 1.5m
+= <——————_>
+
+B, Draw a standard triangular lined channel. For a standard lined triangular section calculate
+the full supply depth corresponding to the full supply discharge of 25m ?/sec. The side
+slopes are 2H:1V, the longitudinal slope is 1 in 2000 and Manning’s n=0.017.
+
+A. What are the different types of cross dramage works? Explain with neat sketches.
+
+B. What is economics of canals? An unlined channel in alluvial soil has a seepage loss of
+2.75cuimec/million sq.m of wetted perimeter. The channel has a wetted perimeter of 26 m
+and has maintenance cost of 12 paise per sq.m. of wetted perimeter. There is a huge
+scarcity of water in the area and as such the canal is to be lined with cement concrete
+lining 11mm thick so as to reduce seepage loss to 0.02 cumecs/million sq.m. of wetted
+perimeter. The lined channel will have a wetted perimeter of 20m. The extra cost of lining
+works out to be Rs. 100/-per sq.m. If the average annual revenue per cumec of water is
+Rs. 4.2 lakhs and percentage reduction in annual maintenance cost is 40%, decide whether
+it is economically feasible to provide canal lining. Assume the life of canal lining as 50
+
+years and the interest rate is 6% per annum.
+
+A. Explain in detail the procedure for calculating reservoir capacity for a specified yield from
+the mass inflow rate
+
+B. Define the terms: surcharge storage, valley storage, safe yield and secondary yield
+
+be me =
+
+e/a
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+````
+
 ## 2014-15 · Re-Exam · Sem 6 · paper 799dbdca9649
 
 - Departments: Civil
@@ -2288,353 +2721,6 @@ x
 2/2
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper ada4fef0f336
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/IRRIGATION ENIGNEERING/IRRIGATION ENGINEERING B TECH (CIVIL) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 08/06/2015
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: V
-Batch: 2013-14
-Academic Year: 2014-2015 Lig may, ,
-Subject: Irrigation Engineering fg ae)
-Marks: i - ‘
-Date: 08/06/2015 Time:
-Durations:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB: 1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Group all sub questions together failing which it may not be assessed.
-7) Figures in brackets on the right hand side indicate full marks.
-8) Assume suitable data if necessary and state it clearly.
-
-Ql Attempt any four out of five questions: 20
-a) What are the benefits and ill-effects of irrigation?
-bj) . Explain in brief the advantages and disadvantages oi Bandhara irrigation.
-c) Write a brief note on the scope of development of irrigation in India.
-d) Explain in brief the various investigations required for reservoir planning.
-e) Explain in brief necessity and types of canal regulation works.
-
-Q2. sa) Define duty, base period and delta. Derive a relationship between them. 6
-
-b) Calculate the frequency of irrigation for a crop with the following details 6
-Field capacity= 30%, permanent wilting percentage = 11%, density of soil
-=1300 kg/m’, effective depth of root zone = 700 mm, daily consumptive
-use of water = 12mm. For healthy growth of crop, the moisture content
-must not fall below 25% of the water holding capacity between the field
-capacity and permanent wilting point.
-
-c) Explain sprinkler irrigation system with neat skeich. List its advantages 8
---- page 2 ---
-Q3
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-a)
-b)
-
-c)
-
-a)
-b)
-
-2)
-
-a)
-b)
-
-b)
-1)
-
-a)
-b)
-
-Explain the causes and remedies of water logging.
-
-What is the necessity of drainage of irrigated land? Explain any one
-method.
-
-Distinguish between canal syphon and syphon aqueduct with neat
-sketches.
-
-Write a brief note on alignment of canals.
-
-Exnlain the various storage zones in a reservoir with a neat sketch.
-
-Find the required reservoir capacity to cater to the needs of crops for the
-details provided below:
-
-Crops Base period (days) Duty (Ha/cumec) Area under crop
-Wheat 120 1800. 4800
-Sugarcane 360 800 5600
-Cotton 200 1400 2400
-rice 120 900 3200
-
-Write a short note ort classification of dams.
-
-Compare Lacey’s theory and Kennedy’s theory.
-
-Design an irrigation channel in alluvial soil according to Lacey’s silt
-theory for the following data: Full supply discharge = 10 cumec, Lacey’s
-silt factor = 0.9, side slopes of the channel = 2 H: 1 V
-
-Explain in brief the factors affecting selection of site of a dam.
-Explain the various forces acting on a gravity dam.
-Explain the advantages and disadvantages of providing a canal lining.
-
-Write a short note on spillway gates.
-
-What is the necessity of providing energy dissipaters? Explain its different
-types with sketches.
-
-What are the various modes of failure in case of gravity dams?
-
-6
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 56d1f9f5507a
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/IRRIGATION ENIGNEERING/IRRIGATION ENGINEERING B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/2015
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-: Semester: V
-
-Academic Year: 2015-2016
-
-Subject: Irrigation Engineering
-Marks : 100
-Time : 2.00 pm to 5.00 pm
-
-Duration: 3 (hrs}
-
-Date: 27/11/2015
-
-Re-Examination
-
-instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary and state it clearly.
-
-Ql Answer any four 20
-a Write a short note on the importance of irrigation.
-b What do you understand by silt supporting capacity of irrigation channel?
-c Write a short note on consumptive use of water.
-d Explain in brief Bandhara irrigation.
-€ Explain in brief the necessity and list the various types of canal regulation works.
-
-Q2 a _ Explain the importance of quality of irrigation water. 10
-b Explain field capacity and permanent wilting point. 10
-Calculate the frequency of irrigation for a crop with the following details
-Field capacity= 28%, permanent wilting percentage = 11%, density of soil =1300
-kg/m}, effective depth of root zone = 800 mm, daily consumptive use of water =
-12mm. For healthy growth of crop, the moisture content must not fall below 25%
-of the water holding capacity between the field capacity and permanent wilting
-
-point.
-Q3 a _ Write a brief note on alignment of canals along with neat sketches. 10
-b Compare Lacey’s theory and Kennedy’s theory. 10
-
-Q4 a What is the necessity of drainage of irrigated land? List its types and explain any 10
-one method.
-b Write a brief note on methods of application of water to the soil. 10
-
-Q5 a Design an irrigation channel in alluvial soil according to Lacey’s silt theory for 10
-
-}2—
---- page 2 ---
-Q6
-
-Q7
-
-the following data: Full supply discharge = 15 cumec, Lacey’s silt factor = 0.9,
-side slopes of the channel = 4H: 1V
-Write a brief note on cross drainage works. Explain any two types with neat sketches.
-
-What is canal lining and why is it required? List different types of linings.
-What is the necessity of providing energy dissipaters? Explain its different types
-with sketches.
-
-Explain in brief the factors affecting selection of site of a dam.
-What are the forces acting on a gravity dam?
-
-10
-
-10
-10
-
-10
-10
-
-)
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper dc2f8d0d6785
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/IRRIGATION ENIGNEERING/IRRIGATION ENGINEERING B TECH (CIVIL), BATCH 2013-14 RE EXAM_dc2f8d0d67.pdf`
-- Printed on paper: exam date: 27/11/2014
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: V
-Batch: 2013-2014
-Academic Year: 2014-2015
-Subject: Irrigation Engineering
-Marks:
-Date: 27/11/2014 Time:
-Durations:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory
-
-2) Out of remaining questions, attempt any FOUR questions
-3) In all FIVE questions to be attempted
-
-4) All questions carry equal marks
-
-5) Answer to each new question to be started on a ftesh page
-6) Figures in brackets on the right hand side indicate full marks
-
-Qu.l: Write short notes on (Any FOUR) 20
-
-1. Inundation jrrigation
-
-2. Soil-water relationship
-
-3. Factors affecting choice of method of irrigation
-4. Comparison of Kennedy’s and lacey’s theory
-5. Crest gates
-
-6. Forces acting on Gravity dam
-
-Qu.2: A. The cohsumptive use requirements of a crop are 0.2cm per day for days 1 to 15, 0.3 cm 10
-per day for days 16 to 40, 0.5cm per day for-41 to 50 and 0.1ct/day for days 51 to 55.
-Effective rainfall of 3.5cm, distributed uniformly during the 36 and 45® days (both
-inclusive) is predicted. Compute the total quantity of water (in cu. m) to. be delivered to a
-50 hectares plot for the whole crop season. with a pre-sowing requirement of 5 cm of
-water.
-
-B. What is hydraulic jimp? Explain types of jumps and the conditions which govern the 10
-relationship between the JHC and TWC.
-
-Qu.3: A. Write causes, effects and remedial measures for water logging 10
-
-B. The slope of a channel in alluvial soil is 1/5900. Find the channel section and the 10
-maximum discharge which can be allowed to flow in it. Take Lacey’s silt factor f=]. The
-channel is of trapezoidal section having side slopes 0.5:1.
-
-Qu4: A. Explain storage zones of a reservoir (with neat sketch) 10
-
-B. Calculate the bed width for an irrigation channel to carry a discharge of 6 cumecs. Side 10
-slopes of the channel are % horizontal to 1 vertical. Assume critical velocity ratio as 0.85.
-The first trial depth of flow as 0.9m. The channel as a bed slope of 0.25m per km. Using
-Kutter’s equation, check the depth. The value of C is 30. V is mean velocity of flow in
-m/sec and R is hydraulic mean radius in m.
-
-Vo
---- page 2 ---
-Qu.5:
-
-Qu.6:
-
-Qu.7:
-
-A. What do you understand by “balancing depth” of a canal? Derive an expression for the
-same. Hence find the value of the balancing depth for the canal shown in Fig.
-
-1.5m 1.5m
-= <——————_>
-
-B, Draw a standard triangular lined channel. For a standard lined triangular section calculate
-the full supply depth corresponding to the full supply discharge of 25m ?/sec. The side
-slopes are 2H:1V, the longitudinal slope is 1 in 2000 and Manning’s n=0.017.
-
-A. What are the different types of cross dramage works? Explain with neat sketches.
-
-B. What is economics of canals? An unlined channel in alluvial soil has a seepage loss of
-2.75cuimec/million sq.m of wetted perimeter. The channel has a wetted perimeter of 26 m
-and has maintenance cost of 12 paise per sq.m. of wetted perimeter. There is a huge
-scarcity of water in the area and as such the canal is to be lined with cement concrete
-lining 11mm thick so as to reduce seepage loss to 0.02 cumecs/million sq.m. of wetted
-perimeter. The lined channel will have a wetted perimeter of 20m. The extra cost of lining
-works out to be Rs. 100/-per sq.m. If the average annual revenue per cumec of water is
-Rs. 4.2 lakhs and percentage reduction in annual maintenance cost is 40%, decide whether
-it is economically feasible to provide canal lining. Assume the life of canal lining as 50
-
-years and the interest rate is 6% per annum.
-
-A. Explain in detail the procedure for calculating reservoir capacity for a specified yield from
-the mass inflow rate
-
-B. Define the terms: surcharge storage, valley storage, safe yield and secondary yield
-
-be me =
-
-e/a
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper 96daac799083
 
 - Departments: Civil
@@ -2779,92 +2865,6 @@ is K
 05
 
 15
-
-10
-
-10
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 1799ac86e420
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/IRRIGATION ENIGNEERING/IRRIGATION ENGINEERING BATCH 2013-14 RE EXAM_1799ac86e4.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2016
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
-
-| ES
-
-SN. - P:
-Programme: B.Tech (Civil) Year: III Semester: V ( ash ha)
-i
-. . é
-Academic Year: 2015-16 Cr OY yy
-Batch: 2013-14 Marks: 100 —
-Subject: Irrigation Engineering Time: 2.00 pm — 5.00 pm
-Date: 09 June 2016 Durations: 3 (hrs)
-Re-Examination
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-1) Question No. | is compulsory. Out of remaining questions, attempt any 4 questions.
-2) In all 5 questions to be attempted.
-3) All questions carry equal marks.
-4) Answer to each new question to be started on a fresh page. .
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary and state it clearly.
-Qi Solve any four out of five 20
-a Write a brief note on need of irrigation in India.
-b Explain the difference between yield and capacity of a reservoir.
-€ Write a note on types of spillways.
-d Explain distributary head regulators and cross regulators.
-e Elaborate on aqueduct and syphon aqueduct.
-Q2 a A canal has a gross commanded area of 25000 hectare out of which 10
-80% is culturable. The intensity of irrigation for rabi is 40% and for
-rice is 20%. If the kor period for rabi is 4 weeks and for rice is 2.5
-weeks, find the outlet discharge. Considering an outlet duty for rabi
-is 1600 hectare/cumecs and for rice is 800 hectare/cumecs,
-calculate the value of delta for each.
-b Explain in detail about canal losses. 10
-Q3 a Design an irrigation channel to carry a discharge of 50 cumecs. The 10
-channel is to have a slope of 1 in 4000. The critical velocity ratio of
-the soil is 1.1. Use Kutter’s rugosity coefficient as 0.023.
-came b Compare Lacey’s and Kennedy’s theory. 10
-Q4 a Explain in detail Bandhara irrigation giving its advantages and 10
-pe disadvantages.
-b Explain in detail the various types of surface irrigation. 10
---- page 2 ---
-Q5
-
-Q6
-
-Q7
-
-Explain the advantages and disadvantages of canal lining.
-Discuss the necessity and types of spillways.
-
-Explain the various zones of storage in a reservoir.
-Explain the various forces acting on gravity dams.
-
-After how many days will you order irrigation in order to ensure
-healthy growth of crops given the following data?
-
-Field capacity of soil is 29%. Permanent wilting percentage is 11%.
-Density of soil is 1300 kg/m?. The effective depth of root zone is 700
-mm. Daily consumptive use of water for the given crop is 12 mm.
-Explain the various canal regulation works in brief.
-
-FOGG IOI a I i a
-
-10
-10
-
-10
-10
 
 10
 

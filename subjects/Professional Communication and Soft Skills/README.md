@@ -14,8 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Professional Communication and Soft Skills(702BS0C070)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSBS 7036 | QP_Professional Communication and Soft Skills(702BS0C070)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Professional Communication and Soft Skills(702BS0C070)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / CSBS | Professional Communication and Soft Skills, Sem VI, Year 2024-25 Final Exam.pdf [1] |
 
 **Notes on papers placed here from a different folder**

@@ -14,6 +14,13 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7057 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CyberSecurity 7010 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech DS 7009 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
@@ -23,19 +30,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Dataset | Sem 6 | BTech AI 7012, BTech Civil 7005, BTech DS 7009, BTech IT 7001 | data_set_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.xlsx |
 | 2025-26 | Final-Exam, Re-Exam | Dataset | Sem 6 | BTech Computer 7002, BTech CSE DS 7057, BTech CyberSecurity 7010 | data_set_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.xlsx |
-| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7057 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CyberSecurity 7010 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech DS 7009 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CSE DS 7057 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CyberSecurity 7010 | QP_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Basic Decision Making with Apreadsheet, Sem-V, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH | Basic Decision making with Spreadsheet, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Basic Decision Making with Spreadsheet ,Final 2023-24.pdf |

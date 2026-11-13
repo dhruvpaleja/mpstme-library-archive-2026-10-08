@@ -14,29 +14,29 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech AI 7051 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech DS 7052 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech AI 7051 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech DS 7052 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech AI 7051 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | MBATech DS 7052 | QP_Investment Banking(703TF0E002)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Investment Banking(703TF0E002)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech AI 7051 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 9 | MBATech DS 7052 | ANS_Investment Banking(703TF0E002)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Investment Banking(703TF0E002)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Investment Banking(703TF0E002)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Investment Banking(703TF0E002)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Investment Banking(703TF0E002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Investment Banking(703TF0E002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | QP_Investment Banking(703TF0E002)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Investment Banking(703TF0E002)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Investment Banking(703TF0E002)_2024-2025.pdf |
 | 2014-15 | Final-Exam | Question paper | Sem 10 | MBA TECH | Investment Banking 2014-15 Final.pdf |
 | 2014-15 | Re-Exam | Question paper | Sem 10 | MBA TECH | Investment Banking Batch (2014-15) Re Exam.pdf |
 | 2013-14 | Final-Exam | Question paper | Sem 10 | MBA TECH | Investment Banking 2013-14 Final.pdf |

@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CyberSecurity_7010/Signals and Systems/ANS_Signals and Systems(702EX0C029)_2025-2026.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (9 pages), mean OCR confidence 46.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -145,16 +147,13 @@ BL-1,6
 ********** 5 **********
 --- page 6 ---
 a. %
-AYE op y AyCEY 4 8 yCkd = ohHCE) 4 22€c8),
 olt cu oe
-Gis) Yu) oh y CpsV1Us)4 37H) = jos RCS)
 +2 KOS)
 
 169) | Gus)" + yj w4 5) - Gorse) KUSD
 
 Hew) = TCs) “ 2+ jw >
 XC) Guy + uy jw +3.
-a Mal Bie) iat — Troms ta | 110]
 so C jot Cjw+ \) re
 
 Ja pulse Response » hWCk) = a. [ Hew) |
@@ -286,6 +285,8 @@ Seddon Q) andnioe
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_EXTC_7006/Signals and Systems/ANS_Signals and Systems(702EX0C029)_2025-2026_d486fb1de6.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (8 pages), mean OCR confidence 49.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -398,16 +399,13 @@ BL-1,6
 ********** 5 **********
 --- page 6 ---
 a. %
-AYE op y AyCEY 4 8 yCkd = ohHCE) 4 22€c8),
 olt cu oe
-Gis) Yu) oh y CpsV1Us)4 37H) = jos RCS)
 +2 KOS)
 
 169) | Gus)" + yj w4 5) - Gorse) KUSD
 
 Hew) = TCs) 7 Lj
 XC) Guy + uy jw +3.
-a Mal Bie) iat — Troms ta | 110]
 so C jot Cjw+ \) re
 
 Ja pulse Response » hWCk) = a. [ Hew) |
@@ -477,6 +475,8 @@ FIC QF EH 1
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_IT_7001/Signals and Systems/ANS_Signals and Systems(702EX0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (9 pages), mean OCR confidence 46.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -615,16 +615,13 @@ BL-1,6
 ********** 5 **********
 --- page 6 ---
 a. %
-AYE op y AyCEY 4 8 yCkd = ohHCE) 4 22€c8),
 olt cu oe
-Gis) Yu) oh y CpsV1Us)4 37H) = jos RCS)
 +2 KOS)
 
 169) | Gus)" + yj w4 5) - Gorse) KUSD
 
 Hew) = TCs) “ 2+ jw >
 XC) Guy + uy jw +3.
-a Mal Bie) iat — Troms ta | 110]
 so C jot Cjw+ \) re
 
 Ja pulse Response » hWCk) = a. [ Hew) |
@@ -756,6 +753,7 @@ Seddon Q) andnioe
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CyberSecurity_7010/Signals and Systems/ANS_Signals and Systems(702EX0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 46.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -975,6 +973,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_EXTC_7006/Signals and Systems/ANS_Signals and Systems(702EX0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 46.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1194,6 +1193,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_IT_7001/Signals and Systems/ANS_Signals and Systems(702EX0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 46.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1413,6 +1413,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Mechatronics_7004/Signals and Systems/ANS_Signals and Systems(702EX0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 46.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1632,6 +1633,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_IT_7041/Signals and Systems/ANS_Signals and Systems(702EX0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 46.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1851,6 +1853,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_IT_7037/Signals and Systems/ANS_Signals and Systems(702EX0C010)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 46.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

@@ -1,102 +1,10 @@
 # Pavement Management System: question papers in full
 
-3 unique papers · 2021-22 to 2021-22 · Civil
+3 unique papers · 2021-22 to 2022-23 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2021-22 · Final-Exam · Sem 8 · paper c1908b75b51e
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/PAVEMENT MANAGEMENT SYSTEM/Pavement Mgmt System,Sem8,Final,2021-22.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-Academic Year: 2021-22
-
-Programme: B. Tech / MBA Tech (Civil) * Year: IV Semester: VIII -
-Subject: Pavement Management System «
-, . Marks: 100
-Date: 16 April 2022 ~ Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-No. of Pages:
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for. their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-a Answer briefly: [20]
-CO-1 ; a. Define and differentiate between AMS, PMS and MMS.
-SO- 4;
-BL-2
-CO-2; b. Describe the steps of LCCA.
-SO-4 ;
-BL-2
-CO-2; c. Explain Present Serviceability Index (PSI).
--| SO- 4;
-BL-3 : :
-CO- 2; d. Explain the basic characterization of design inputs while evaluating design
-SO- 7; :
-BL-2 strategies.
-Q2 a. Distinguish between Network Level and Project Level PMS with reference to [12]
-CO-1; uses, data collected, other items collected and speeds at which data is collected in
-SO-1; each of these PMS levels.
-BL-4
-CO-1; b. Discover the causes for the following distress conditions in rigid pavements: [08]
-SO-1; (i) Pop-out (ii) Glazing (iii) Faulting (iv) Buckling
-BL-4
-
-Page 1 of 2
---- page 2 ---
-Q3 a. Distinguish between Direct Measurement Method and Response Type [14]
-
-CO-3; Measurement Method and explain in short about the instruments used in
-ety both
-BL-4 :
-CO-3; b. Explain ‘Slurry Seal’ with respect to its contents, suitability for distress [06]
-SO-4; ° conditions and applications.
-BL-5
-Q4 a. °~| Discuss the requirements for establishing criteria for determining the [12]
-CO-2; present and future needs of maintenance and repairs with graphical
-SO-7; : .
-BL-4 relationships.
-CO-3: b. Explain the following materials used for pavement maintenance: [ 08]
-SO-7; Cut Back, Bitumen Emulsion, Rejuvenating Agents and Anti-Stripping
-BL-4
-Agents.
-Q5 a. Explain the deterioration models for future needs giving two examples of | [14]
-CO-2; the models
-SO-7;
-BL-3
-CO-3; b. Explain the following methods available for routine, preventive and [06]
-pee periodic maintenance: Rejuvenation, Seal and patching
-Q6 a. Explain the major steps in implementation of PMS and how periodical [12]
-CO2-; monitoring is carried out.
-SO-4;
-BL-4
-CO2-; b. Explain the reliability, variability and risk in pavement management while | [08]
-SO-4; : - :
-BL-3 evaluating the design strategies.
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 9301c0c7d1e9
+## 2022-23 · Exam not stated · Sem 8 · paper 9301c0c7d1e9
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL, MBA TECH / CIVIL
@@ -223,11 +131,11 @@ BL-3
 Page 2 of 2
 ````
 
-## Year not stated · Exam not stated · Sem 8 · paper b3e0e31123a3
+## 2022-23 · Re-Exam · Sem 8 · paper b3e0e31123a3
 
 - Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/PAVEMENT MANAGEMENT SYSTEM/Pavement Management system.pdf`
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/PAVEMENT DESIGN AND CONSTRUCTION/Pavement Management System, Sem-VIII, Year 2022-23, Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 93.3
 
@@ -329,6 +237,98 @@ Q.7) b) Discuss the concept of ‘Pavement Preservation’ giving proper example
 
 CO- 3; SO-7;
 BL-3
+
+Page 2 of 2
+````
+
+## 2021-22 · Final-Exam · Sem 8 · paper c1908b75b51e
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/PAVEMENT MANAGEMENT SYSTEM/Pavement Mgmt System,Sem8,Final,2021-22.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+Academic Year: 2021-22
+
+Programme: B. Tech / MBA Tech (Civil) * Year: IV Semester: VIII -
+Subject: Pavement Management System «
+, . Marks: 100
+Date: 16 April 2022 ~ Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages:
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for. their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+a Answer briefly: [20]
+CO-1 ; a. Define and differentiate between AMS, PMS and MMS.
+SO- 4;
+BL-2
+CO-2; b. Describe the steps of LCCA.
+SO-4 ;
+BL-2
+CO-2; c. Explain Present Serviceability Index (PSI).
+-| SO- 4;
+BL-3 : :
+CO- 2; d. Explain the basic characterization of design inputs while evaluating design
+SO- 7; :
+BL-2 strategies.
+Q2 a. Distinguish between Network Level and Project Level PMS with reference to [12]
+CO-1; uses, data collected, other items collected and speeds at which data is collected in
+SO-1; each of these PMS levels.
+BL-4
+CO-1; b. Discover the causes for the following distress conditions in rigid pavements: [08]
+SO-1; (i) Pop-out (ii) Glazing (iii) Faulting (iv) Buckling
+BL-4
+
+Page 1 of 2
+--- page 2 ---
+Q3 a. Distinguish between Direct Measurement Method and Response Type [14]
+
+CO-3; Measurement Method and explain in short about the instruments used in
+ety both
+BL-4 :
+CO-3; b. Explain ‘Slurry Seal’ with respect to its contents, suitability for distress [06]
+SO-4; ° conditions and applications.
+BL-5
+Q4 a. °~| Discuss the requirements for establishing criteria for determining the [12]
+CO-2; present and future needs of maintenance and repairs with graphical
+SO-7; : .
+BL-4 relationships.
+CO-3: b. Explain the following materials used for pavement maintenance: [ 08]
+SO-7; Cut Back, Bitumen Emulsion, Rejuvenating Agents and Anti-Stripping
+BL-4
+Agents.
+Q5 a. Explain the deterioration models for future needs giving two examples of | [14]
+CO-2; the models
+SO-7;
+BL-3
+CO-3; b. Explain the following methods available for routine, preventive and [06]
+pee periodic maintenance: Rejuvenation, Seal and patching
+Q6 a. Explain the major steps in implementation of PMS and how periodical [12]
+CO2-; monitoring is carried out.
+SO-4;
+BL-4
+CO2-; b. Explain the reliability, variability and risk in pavement management while | [08]
+SO-4; : - :
+BL-3 evaluating the design strategies.
 
 Page 2 of 2
 ````

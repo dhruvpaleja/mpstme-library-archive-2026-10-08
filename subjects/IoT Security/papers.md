@@ -65,7 +65,7 @@ Calculate total annual cost and per-device cost.
 ********** 1 **********
 ````
 
-## 2025 · Final-Exam · Sem 7 · paper af28d1c2a962
+## 2025-26 · Final-Exam · Sem 7 · paper af28d1c2a962
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -191,111 +191,7 @@ FIG ICR 7 Rk doi i kkk
 .
 ````
 
-## 2023-24 · Final-Exam · Sem 7 · paper d6f1670b32c1
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/IOT SECURITY/IOT Security, Sem-VII, A Y 2023-24, Final Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 /11 / 2023
-- Text: ocr (2 pages), mean OCR confidence 89.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: B Tech (Electronics &Telecomm. Engg) Year:4 Semester: VII
-Stream/s ; Electronics &Telecomm. Engg
-
-Subject: JoT security, : ; Time: 3 hrs (10am to 1 prr )
-Date: 24 /11 / 2023 ; No. of Pages:_ 2 _
-
-Marks: 100.
-
-Final Examination 2 [
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on afresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-CO-1 ; SO- | a.
-1; Explain Security requirements in loT architecture
-BL-1,2
-CO-2 ; SO- | b.
-2; Explain Attacks on networking services in loTs
-BL-1,2 bi
-CO-3 ; SO- | c.
-3; Explain Cryptographic primitives and its role in loT
-BL-1,2
-CO- 4; SO- | d.
-4: What are the Concerns in data dissemination
-BL-1,3
-Q2 ,
-a. Explain in detail Challenges and risks of loT Cloud security
-CO-4,5; [20]
-S0-4,5; b. What are the trust models used for loT
-BL-1,2,3
-a. Explain Digital signatures
-Q3 ; , [20]
-b. Explain how to Prevent unauthorized access to sensor data
-
-\/2
---- page 2 ---
-CO-2,3;
-
-SO-2,3;
-BL-1,2,4
-Q4
-cO-1,2; Explain Security architecture in loT (20)
-SO-1,2; Explain RFID security
-BL-1,2,3
-Q5
-CO-3,4; Write a short note on: Cipher suites (20)
-SO-4,5; Explain what are the steps towards Preventing unauthorized access
-BL-1,2,4 :
-Q6
-CO-5,1; Explain loT cloud communication security (20)
-SO-5,1; Explain what are the vulnerabilities specific to loT
-BL-1,2,3
-In an loT network, a system is using a symmetric encryption algorithm to
-secure its communications. The system generates a new random
-symmetric encryption key for each session. The key size is 256 bits.
-Calculate the total number of possible keys that can be generated using
-this key size. Also, if the system generates a new key for every hour,
-calculate how long it would take for an attacker to exhaust all possible
-keys through a brute-force attack if they can try 1 million keys per second.
-Q7
-In an loT ecosystem, a trust model is implemented to establish trust
-CO-1-5; between loT devices and a central server. The trust model uses a (20]
-SO-1-5; reputation-based system, where each device accumulates trust pgints
-BL-5,6 based on its behavior over time. Device A currently has 500 trust points,
-and Device B has 750 trust points. The trust model allows devices to
-establish connections with other devices if their combined trust points
-exceed a certain threshold of 1000 points. a) Will Device A and Device B
-be able to establish a connection based on the trust model's threshold?
-b) If the trust threshold is increased to 1200 points, will they be able to
-establish a connection? c) What is the minimum trust points Device C
-should have to establish a connection with Device A, assuming Device A
-maintains its. 500 trust points?
-2 / Q-
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper eac3bad2fafc
+## 2023-24 · Exam not stated · Sem 8 · paper eac3bad2fafc
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / EXTC
@@ -400,4 +296,108 @@ what will be final number generated at the output? Data=
 11001100101010010101
 
 2/2.
+````
+
+## 2023-24 · Final-Exam · Sem 7 · paper d6f1670b32c1
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/IOT SECURITY/IOT Security, Sem-VII, A Y 2023-24, Final Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 /11 / 2023
+- Text: ocr (2 pages), mean OCR confidence 89.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: B Tech (Electronics &Telecomm. Engg) Year:4 Semester: VII
+Stream/s ; Electronics &Telecomm. Engg
+
+Subject: JoT security, : ; Time: 3 hrs (10am to 1 prr )
+Date: 24 /11 / 2023 ; No. of Pages:_ 2 _
+
+Marks: 100.
+
+Final Examination 2 [
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on afresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+CO-1 ; SO- | a.
+1; Explain Security requirements in loT architecture
+BL-1,2
+CO-2 ; SO- | b.
+2; Explain Attacks on networking services in loTs
+BL-1,2 bi
+CO-3 ; SO- | c.
+3; Explain Cryptographic primitives and its role in loT
+BL-1,2
+CO- 4; SO- | d.
+4: What are the Concerns in data dissemination
+BL-1,3
+Q2 ,
+a. Explain in detail Challenges and risks of loT Cloud security
+CO-4,5; [20]
+S0-4,5; b. What are the trust models used for loT
+BL-1,2,3
+a. Explain Digital signatures
+Q3 ; , [20]
+b. Explain how to Prevent unauthorized access to sensor data
+
+\/2
+--- page 2 ---
+CO-2,3;
+
+SO-2,3;
+BL-1,2,4
+Q4
+cO-1,2; Explain Security architecture in loT (20)
+SO-1,2; Explain RFID security
+BL-1,2,3
+Q5
+CO-3,4; Write a short note on: Cipher suites (20)
+SO-4,5; Explain what are the steps towards Preventing unauthorized access
+BL-1,2,4 :
+Q6
+CO-5,1; Explain loT cloud communication security (20)
+SO-5,1; Explain what are the vulnerabilities specific to loT
+BL-1,2,3
+In an loT network, a system is using a symmetric encryption algorithm to
+secure its communications. The system generates a new random
+symmetric encryption key for each session. The key size is 256 bits.
+Calculate the total number of possible keys that can be generated using
+this key size. Also, if the system generates a new key for every hour,
+calculate how long it would take for an attacker to exhaust all possible
+keys through a brute-force attack if they can try 1 million keys per second.
+Q7
+In an loT ecosystem, a trust model is implemented to establish trust
+CO-1-5; between loT devices and a central server. The trust model uses a (20]
+SO-1-5; reputation-based system, where each device accumulates trust pgints
+BL-5,6 based on its behavior over time. Device A currently has 500 trust points,
+and Device B has 750 trust points. The trust model allows devices to
+establish connections with other devices if their combined trust points
+exceed a certain threshold of 1000 points. a) Will Device A and Device B
+be able to establish a connection based on the trust model's threshold?
+b) If the trust threshold is increased to 1200 points, will they be able to
+establish a connection? c) What is the minimum trust points Device C
+should have to establish a connection with Device A, assuming Device A
+maintains its. 500 trust points?
+2 / Q-
 ````

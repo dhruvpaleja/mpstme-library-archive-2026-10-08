@@ -1,196 +1,10 @@
 # Finite Element Methods: question papers in full
 
-5 unique papers · 2012-13 to 2012-13 · Civil, Chemical
+5 unique papers · 2012-13 to 2014-15 · Civil, Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Final-Exam · Trim 8 · paper 1e4ee98af66a
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/TRIM VIII/FINITE ELEMENT METHODS/INTRODUCTION TO FINITE ELEMENT METHOD 2012-2013 FINAL scan0070.pdf`
-- Printed on paper: exam date: 18/01/2013
-- Text: ocr (2 pages), mean OCR confidence 70.2
-
-````text
-ie SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engi
-Programme: MBA (Tech) - CIVIL Year: III
-{ Academic Year : 2012-2013
-|
-Subject: Introduction To Finite Element Method
-Date: 18/01/2013
-
-Final - Examination
-
-+ Attempt any Five questions.
-+ Answers to all sub questions should be grouped together.
-
-* Figures to the right in bracket indicate full marks.
-
-+ Assume suitable data if necessary and state the same clearly.
-
-Q.1 (a) Write a step by step procedure to solve a general continuum problem by finite
-element method. (10)
-
-(b) Derive the nodal interpolation function N; for one dimensional complex element.
-Assume displacement model as ¢, = @, +@,x+@,x° +@,x° (10)
-
-Q.2 (a) Explain the following with reference to the solution of a problem in finite
-
-element method: Basic element shapes, their types, sizes and number, location of
-
-nodes. Explain their influence on the accuracy of the solution of a problem. (08)
-(b) Explain the direct and variational approach for derivation of characteristic
-
-matrices and characteristics vectors. (06)
-(c) Explain the procedure for determining Jacobian matrix. What is its use? (06)
-
-Q.3 (a) Derive the shape functions for a two dimensional element with linear (10)
-interpolation model
-(b) Explain C°, C! and C? Continuity. (05)
-(c) Write a note on plane stress problem and plane strain problem. (05)
-j Q.4 . Find the stresses induced in an axially loaded stepped bar as shown in figure 1.
-The bar has cross sectional area of A‘? and A® over the length L" and L®,
-respectively. Assume the following data A") = 1.2 cm’, A? = 0.5 em’, LY = L®
-=50 em, EY = E® = 2x10’ N/em’, P2 = IN.
-Assume the displacement model as ¢, = a, + a,x (20)
-Q.5 . A beam of uniform rectangular cross section with width 15 cm and depth 20 cm
-and length 6 m is subjected to a vertical concentrated load of 10 kN as shown in
-figure 2. If the beam is fixed at one end and hinged at the other end, find the
-stresses in the element using a two element idealization. Assume the modulus of (20)
-q! elasticity = 10° N/cm’.
-Q.6 . Fora three bar truss shown in figure 3, determine
-i. The stiffness matrix, load vector and displacement vector
-ii. Displacement of node A
-iii. The stresses in both the elements
-
-Take E = 2x10° MPa, A“ = 600 mm’, A® = 900 mm?, A® = 1200 mm’. (20)
-Q.7.. Analyse the rigid jointed frame as shown in figure 4 using Finite element
-method. (20)
-
-Page 1 of 2
---- page 2 ---
-oe
-
-ite
-& IIPS,
-
-f-> 3
-
-Ae =n nt
-Us AOE Pe Sasa eet o
-i
-ae
-o> od, bo,
-Figure —1
-ies:
-7
-ke
-A
-
-Figuye-4.
-
-Page 2 of 2
-
-EL
-eM
-
-77
-````
-
-## 2012-13 · Re-Exam · Trim 8 · paper 07f7a9b2b386
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/FINITE ELEMENT METHODS/FINITE ELEMENT METHODS BATCH 2012-13 RE EXAM0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 12/12/2013
-- Text: ocr (2 pages), mean OCR confidence 70.1
-
-````text
-Pe mea
-
-oot
-
-SVKM’s NMIMS SoNetiEae |.
-
-Ez.
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E!
-
-Programme:MBA Tech (CIVIL) Year: III
-Academic Year: 2013-14 Batch:2012-13 a
-
-Subject : Finite Element Methods
-
-Date :12/12/2013 Time : 10.00 am to 1.00 pm
-Durations:3 (hrs)
-Re-Examination
-
-¢ Attempt any Five questions.
-
-¢ Answers to all sub questions should be grouped together.
-
-¢ Figures to the right in bracket indicate full marks.
-
-e Assume suitable data if necessary and state the same clearly.
-
-Q.1 (a) Briefly explain the step by step procedure for finite element analysis with an
-
-illustration. (10)
-(b) Derive the gauss quaderature formula in one dimensional evaluation of Wi
-(weight factor) and x (sampling points) at different locations of points. (10)
-Q.2 (a) Explain the term discretization of domain in FEA. What are the various types of
-elements used in finite element analysis? (10)
-(b) Explain the use of Jacobian matrix in Finite element method. (10)
-
-Q.3 (a) Derive the shape functions for a two dimensional element with quadratic (10)
-
-interpolation model
-(b) Explain C°, C! and C? Continuity (10)
-
-Q.4 . Find the stresses induced in an axially loaded stepped bar as shown in figure 1.
-The bar has cross sectional area of A“ and A® over the length L® and L®,
-respectively. Assume the following data A® = 200 mm’, A® = 100 mm’,
-L®= L® = 120 mm, E” = E® = 2x10° N/mm’, P3 = 1000N.
-Assume the displacement model as ¢, =a, + ax (20)
-
-Q5 . A beam of uniform rectangular cross section with width 100 mm and depth 200
-mm and length 4600 mm is subjected to a vertical concentrated load of 10000 N
-as shown in figure 2. If the beam is fixed at both ends, find the stresses in the
-element using a two element idealization. Assume the modulus of elasticity = (20)
-10° N/mm’.
-Q.6 . Fora three bar truss shown in figure 3, determine
-i. The stiffness matrix, load vector and displacement vector
-ii. Displacement of node A
-
-iii. The stresses in the elements
-
-Take E = 2x10° MPa, A" = 600 mm?, A® = 900 mm?, A® = 1200 mm’. (20)
-Q.7 . Analyse the rigid jointed frame as shown in figure 4 using Finite element
-method. (20)
-
-Page 1 of 2
---- page 2 ---
-0 oO) A ® PP,
-
-/
-{ Ly yp bo L
-” w4i
-Figuse - 1.
-1
-f
-L jooomm, - 3o00mMmM +
-na VAI
-figute - 2
-
-6™ 7 Page 2 of 2
-+
-
-K
-````
-
-## 2012-13 · Re-Exam · Trim 8 · paper e2cb12d78e95
+## 2014-15 · Re-Exam · Trim 8 · paper e2cb12d78e95
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -306,7 +120,98 @@ Sk
 29
 ````
 
-## 2012-13 · Re-Exam · Trim 8 · paper a7b5eb0bf7f6
+## 2013-14 · Re-Exam · Trim 8 · paper 07f7a9b2b386
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/FINITE ELEMENT METHODS/FINITE ELEMENT METHODS BATCH 2012-13 RE EXAM0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 12/12/2013
+- Text: ocr (2 pages), mean OCR confidence 70.1
+
+````text
+Pe mea
+
+oot
+
+SVKM’s NMIMS SoNetiEae |.
+
+Ez.
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E!
+
+Programme:MBA Tech (CIVIL) Year: III
+Academic Year: 2013-14 Batch:2012-13 a
+
+Subject : Finite Element Methods
+
+Date :12/12/2013 Time : 10.00 am to 1.00 pm
+Durations:3 (hrs)
+Re-Examination
+
+¢ Attempt any Five questions.
+
+¢ Answers to all sub questions should be grouped together.
+
+¢ Figures to the right in bracket indicate full marks.
+
+e Assume suitable data if necessary and state the same clearly.
+
+Q.1 (a) Briefly explain the step by step procedure for finite element analysis with an
+
+illustration. (10)
+(b) Derive the gauss quaderature formula in one dimensional evaluation of Wi
+(weight factor) and x (sampling points) at different locations of points. (10)
+Q.2 (a) Explain the term discretization of domain in FEA. What are the various types of
+elements used in finite element analysis? (10)
+(b) Explain the use of Jacobian matrix in Finite element method. (10)
+
+Q.3 (a) Derive the shape functions for a two dimensional element with quadratic (10)
+
+interpolation model
+(b) Explain C°, C! and C? Continuity (10)
+
+Q.4 . Find the stresses induced in an axially loaded stepped bar as shown in figure 1.
+The bar has cross sectional area of A“ and A® over the length L® and L®,
+respectively. Assume the following data A® = 200 mm’, A® = 100 mm’,
+L®= L® = 120 mm, E” = E® = 2x10° N/mm’, P3 = 1000N.
+Assume the displacement model as ¢, =a, + ax (20)
+
+Q5 . A beam of uniform rectangular cross section with width 100 mm and depth 200
+mm and length 4600 mm is subjected to a vertical concentrated load of 10000 N
+as shown in figure 2. If the beam is fixed at both ends, find the stresses in the
+element using a two element idealization. Assume the modulus of elasticity = (20)
+10° N/mm’.
+Q.6 . Fora three bar truss shown in figure 3, determine
+i. The stiffness matrix, load vector and displacement vector
+ii. Displacement of node A
+
+iii. The stresses in the elements
+
+Take E = 2x10° MPa, A" = 600 mm?, A® = 900 mm?, A® = 1200 mm’. (20)
+Q.7 . Analyse the rigid jointed frame as shown in figure 4 using Finite element
+method. (20)
+
+Page 1 of 2
+--- page 2 ---
+0 oO) A ® PP,
+
+/
+{ Ly yp bo L
+” w4i
+Figuse - 1.
+1
+f
+L jooomm, - 3o00mMmM +
+na VAI
+figute - 2
+
+6™ 7 Page 2 of 2
++
+
+K
+````
+
+## 2013-14 · Re-Exam · Trim 8 · paper a7b5eb0bf7f6
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -435,6 +340,101 @@ Jd
 20
 ````
 
+## 2012-13 · Final-Exam · Trim 8 · paper 1e4ee98af66a
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/TRIM VIII/FINITE ELEMENT METHODS/INTRODUCTION TO FINITE ELEMENT METHOD 2012-2013 FINAL scan0070.pdf`
+- Printed on paper: exam date: 18/01/2013
+- Text: ocr (2 pages), mean OCR confidence 70.2
+
+````text
+ie SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engi
+Programme: MBA (Tech) - CIVIL Year: III
+{ Academic Year : 2012-2013
+|
+Subject: Introduction To Finite Element Method
+Date: 18/01/2013
+
+Final - Examination
+
++ Attempt any Five questions.
++ Answers to all sub questions should be grouped together.
+
+* Figures to the right in bracket indicate full marks.
+
++ Assume suitable data if necessary and state the same clearly.
+
+Q.1 (a) Write a step by step procedure to solve a general continuum problem by finite
+element method. (10)
+
+(b) Derive the nodal interpolation function N; for one dimensional complex element.
+Assume displacement model as ¢, = @, +@,x+@,x° +@,x° (10)
+
+Q.2 (a) Explain the following with reference to the solution of a problem in finite
+
+element method: Basic element shapes, their types, sizes and number, location of
+
+nodes. Explain their influence on the accuracy of the solution of a problem. (08)
+(b) Explain the direct and variational approach for derivation of characteristic
+
+matrices and characteristics vectors. (06)
+(c) Explain the procedure for determining Jacobian matrix. What is its use? (06)
+
+Q.3 (a) Derive the shape functions for a two dimensional element with linear (10)
+interpolation model
+(b) Explain C°, C! and C? Continuity. (05)
+(c) Write a note on plane stress problem and plane strain problem. (05)
+j Q.4 . Find the stresses induced in an axially loaded stepped bar as shown in figure 1.
+The bar has cross sectional area of A‘? and A® over the length L" and L®,
+respectively. Assume the following data A") = 1.2 cm’, A? = 0.5 em’, LY = L®
+=50 em, EY = E® = 2x10’ N/em’, P2 = IN.
+Assume the displacement model as ¢, = a, + a,x (20)
+Q.5 . A beam of uniform rectangular cross section with width 15 cm and depth 20 cm
+and length 6 m is subjected to a vertical concentrated load of 10 kN as shown in
+figure 2. If the beam is fixed at one end and hinged at the other end, find the
+stresses in the element using a two element idealization. Assume the modulus of (20)
+q! elasticity = 10° N/cm’.
+Q.6 . Fora three bar truss shown in figure 3, determine
+i. The stiffness matrix, load vector and displacement vector
+ii. Displacement of node A
+iii. The stresses in both the elements
+
+Take E = 2x10° MPa, A“ = 600 mm’, A® = 900 mm?, A® = 1200 mm’. (20)
+Q.7.. Analyse the rigid jointed frame as shown in figure 4 using Finite element
+method. (20)
+
+Page 1 of 2
+--- page 2 ---
+oe
+
+ite
+& IIPS,
+
+f-> 3
+
+Ae =n nt
+Us AOE Pe Sasa eet o
+i
+ae
+o> od, bo,
+Figure —1
+ies:
+7
+ke
+A
+
+Figuye-4.
+
+Page 2 of 2
+
+EL
+eM
+
+77
+````
+
 ## 2012-13 · Re-Exam · Trim 8 · paper 47e558a8b8a4
 
 - Departments: Civil
@@ -442,6 +442,7 @@ Jd
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/TRIM VIII/FINITE ELEMENT METHODS/FINITE ELEMENT METHODS VIII (CIVIL) MBA TECH 2012-2013 RE EXAM.pdf`
 - Printed on paper: duration hours: 3; exam date: 19/6/2013
 - Text: mixed (2 pages), mean OCR confidence 41.7
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 ...., . - ' 7 - '

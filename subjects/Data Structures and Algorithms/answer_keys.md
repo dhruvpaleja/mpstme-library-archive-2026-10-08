@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Data Structures and Algorithms/ANS_Data Structures and Algorithms(703CO0C006)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (12 pages), mean OCR confidence 36.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -353,7 +355,7 @@ Finding length of message after coding and comparison with original – 2M
 CO-4; BL-L   [10]
 ********** 11 **********
 --- page 12 ---
-FE AA AO CIC 7 A Cok ok ok ak
+
 ````
 
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 54e9ddd8809d
@@ -363,6 +365,8 @@ FE AA AO CIC 7 A Cok ok ok ak
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIDS_7056/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (15 pages), mean OCR confidence 47.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -982,9 +986,9 @@ Construct the Huffman tree and generate the Huffman codes. Show all
 intermediate steps.- 5 mark
 ********** 13 **********
 --- page 14 ---
-RK KK KK KKK 14 oh KR Kk KK KK
+
 --- page 15 ---
-FA AO A IC 7 Ak ok ok ok ak
+
 ````
 
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 42c564b3cf2e
@@ -994,6 +998,7 @@ FA AO A IC 7 Ak ok ok ok ak
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIML_7053/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1618,6 +1623,7 @@ RK KKK RK KK 14 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSBS_7036/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2242,6 +2248,7 @@ RK KKK RK KK 14 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSE_DS_7011/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C057)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2025
 - Text: mixed (15 pages), mean OCR confidence 29.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2794,6 +2801,7 @@ FRR IC 7 DA HOH
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSE_DS_7057/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3418,6 +3426,7 @@ RK KKK RK KK 14 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_DS_7009/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4042,6 +4051,7 @@ RK KKK RK KK 14 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_EXTC_7006/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -4666,6 +4676,7 @@ RK KKK RK KK 14 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_IT_7001/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5290,6 +5301,7 @@ RK KKK RK KK 14 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Mechatronics_7004/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -5914,6 +5926,7 @@ RK KKK RK KK 14 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/MBATech_AI_7051/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -6538,6 +6551,7 @@ RK KKK RK KK 14 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/MBATech_DS_7052/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7162,6 +7176,7 @@ RK KKK RK KK 14 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/MBATech_IT_7041/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO0C060)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -7786,6 +7801,7 @@ RK KKK RK KK 14 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/Integrated_DS_7038/Data Structures and Algorithms/ANS_Data Structures and Algorithms(702CO1C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 53.2
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -24532,6 +24548,7 @@ Page 17 of 17
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Data Structures and Algorithms/ANS_Data Structures and Algorithms(703CO0C006)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 18 Feb 2025
 - Text: mixed (13 pages), mean OCR confidence 58.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

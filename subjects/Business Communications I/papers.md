@@ -4,222 +4,7 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Re-Exam · Trim 4 · paper 7ff9ab05ccf4
-
-- Departments: Electronics and Telecommunication, Mechanical
-- Programmes: MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/BUSINESS COMMUNICATIONS I/BUSINESS COMMUNICATION - I IV MBA TECH 2012-13 RE EXAM(4).pdf` (+1 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: text (3 pages)
-
-````text
-Programme: MBA Te:& - AU Stream   Year:   II   Trimester: N
-Academic Year :2012-2013
-Batch:   2012-13   1
-Subject:   -. Business ~omm&cation - I   Marks:   50
-Time:   2.00 p m To 4.00 pm
-Date:   Duration:   2 hrs.
-Re - Examination
-Instructions: Candidates should read caremy the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their use.
-All questions are compulsory.
-Answer to each new question to be started on a fresh page.
-1.Case Study Analysis   10marks
-Tokyo Disneyland, the largest amusement park in Japan, draws nearly as many visitors
-each year as the Magic Kingdom here in the United States. But like all theme parks, the
-Tokyo park understood the need to offer fresh attractions and exciting new rides to keep
-the crowds coming back year after year. In its search for dynamic new ideas to expand its
-already popular park, Tokyo Disneyland turned to Walt Disney Imagineering.
-ss.'   Generating and implementing new ideas for the Disney theme parks are tasks of Walt
-I   Disney Imagineering, the research, design, and engineering subsidiary of Walt Disney
-F.   A-tions.   Although Tokyo Disneyland is a Disney theme park and Disney retains the
-9, .:.-   creative control of the park, the park is actually owned and operated by the Oriental Land
-Company. This company makes all financial and investment decisions. While creative
-concepts come &om Disney Imagineering teams, tho& ideas are not automatically
-accepted by theme park owners. Imagineering teams not only had to dream up exciting
-concepts for the Tokyo park, but they also had to sell the ideas and win the approval of
-i   Japanese owners. Millions of dollars of contracts and hundreds of jobs in the United
-States and in Japan rested on successful presentations to the owners of Tokyo
-Disneyland.
-Jon Georges, lead show producer for the Tokyo Disneyland Project, was part of atalented
-Irnagineering team that came up with a totally new attraction and restaurant concept for
-the Disney theme park. Based on Winnie the Pooh and Alice in Wonderland characters,
-the creative project involved two phases. The first was a theme restaurant called iihe
-"Queens of Hearts Banquet Hall." The second was a major ride attraction based on
---- page 2 ---
-W i e the Pooh characters. Both concepts required considerable persuasion to win
-approval.
-Traditionally, the Japanese park owners had accepted only attractions that had proved
-technically successful in other theme parks. Naturally, they were reluctant to try a
-restaurant concept and a ride technology that were both brand new. Selling the Japanese
-on the new concepts required oral presentations from Jon Georges and the hagineering
-team.
-Understanding the audience and anticipating its reaction were integral part of Jon's
-preparation for a presentation. For the Tokyo Disneyland project, Jon and the
-Irnagineering team wanted to present their concepts in broad terms to see if the financiers
-liked the total idea. But Jon also knew that this audience would be detail oriented.
-"Japanese tend to want particulars - like the colour of the concrete, the number of
-restrooms, and the exact location where visitors would exit an attraction"
-Other adaptations Jon made for the Tokyo presentation involved choice of language and
-presentation style. Carefully avoiding Disney and design jargon, he consciously used
-common words and simple sentences, which the translator had little trouble converting to
-Japanese. In making his presentation, Jon kept in mind three important elements:
-organization, visuals, and focus. Although he had thousands of details in mind, he forced
-himself to keep his presentation logical and simple. He concentrated on one powerful
-point: convincing his Japanese listeners that the new a!hctions would enhance the value
-of Tokyo Disneyland and would draw more visitors through the turnstiles.
-a) What questions was Jon Georges asking himself in anticipating the audience for
-the Tokyo Disneyland presentation? [4]
-b) Why is simplicity important in an oral presentation and why was it particularly
-important for the Tokyo Disneyland presentation? [4]
-c) Why are visual aids critical for both local and international audiences? [2]
-*
-2. How would you prepare yourself for a forthcoming public speech? 10 marks
-3. Discuss the various diversities that are existent across different cultures? 10marks
-4. Write a pr6cis on the following matter:-   20 marks
-What happens when one person sends a message and anot!:er receive it? First, consider
-the nature of language - the words in which most messages are expressed. All words are
-symbols. A symbol is a standardized sign, seen or heard, which stands for an object,
---- page 3 ---
-event or ideas as agreed upon by senders and recipients of messages.   It need not
-resemble what it stands for. Thus it differs from a pictorial representation or imitation,
-such aportrait, a street plan, or an organization chart.
-A set of symbols agreed upon by two or more people is called a code. By far the most
-r   important codes are those which form language. In any civilized language there is a
-primary code of spoken words, formed &om speech sounds. There is also secondary
-code of letters (the alphabet) which can be combined to stand for the speech sounds ofthe
-primary code of letters-t,r,e, e-stands for the sound of '.tree'. Neither letters nor sounds
-may have resemblance to what they denote a tree.
-Whenever language is used, a sender must encode his message and a recipient must
-decode it. For language communication to be effective, senders and receivers must agree
-on all the details of the language code. If you go to France in ignorance of the French
-code and meet people ignorant of the E~glish code, you have to resort to gestures and
-attempts at direct representation of what you want to say. How inadequate this can be is
-shown by the story of an English tourist who suffering from hunger in a French street,
-moved his hands and jaw to convey his wish to find a restaurant, he was obligingly
-conducted to a dentist's waiting room!
-````
-
-## 2011-12 · Exam not stated · Trim 4 · paper 9a6fee76a983
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/BUSINESS COMMUNICATIONS I/BUSINESS COMMUNICATION 2011-12(3).pdf`
-- Printed on paper: duration hours: 2; exam date: 5/11/2011
-- Text: ocr (1 page), mean OCR confidence 88.7
-
-````text
-SVKM’s NMIMS Y wv
-Mukesh Patel School Of Technology Management & Engineering aby )
-Programme: MBA(Tech)- ALL STREAMS Year: Il Trimester: IV 55 oouliW JE
-Academic Year : 2011-2012 ' =
-~ on St
-Subject: BUSINESS COMMUNICATION-I Marks: SOS pant A
-Time: 2.00 pm-To 4.00-prn
-Date: 5/11/2011 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-And on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question no. 1 is compulsory.
-2. Attempt any four from the remaining questions.
-3. Figures to the right indicate full marks.
-
-Q.1. a) Discuss ‘Listening requires more efforts than hearing’. (05)
-
-b) What are the linguistic barriers in multilingual society? How do you overcome such
-barriers? (05)
-
-Q.2.a) Discuss ‘Action speaks louder than words’. (10)
-
-Q.3. Prepare a notice informing all the members about a meeting to be held at the
-
-1 registered office of the company at particular date and time about informing branch
-
-personnel of the ISO audit which will take place and to decide on the steps to be taken
-for audit. (10)
-
-Q.4 A business letter should be written not in a manner in which a writer should like to
-write, but in amanner in which a reader would like to read’. Discuss. (10)
-
-Q.5 ‘The process of communication is a deliberate cyclical and step by step process.’ Discuss
-} this statement with to asuitable diagram & its components. (10)
-
-u
-
-ag a) Write a note on socio-psychological barriers to communications. (05)
-
-7
-
-b) You have an agency of well-known international group of magazines. Write a Sales
-Letter to be sent to educational institutes.
-(Use complete block format) (05).
-
-Dheen panne a *& ene eee x
-````
-
-## 2011-12 · Re-Exam · Trim 4 · paper ec08a09e6c24
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/BUSINESS COMMUNICATIONS I/BUSINESS COMMUNICATION I BATCH 2011-12 RE EXAM0001 (1).pdf` (+1 identical copies)
-- Printed on paper: exam date: 16/06/2012
-- Text: ocr (1 page), mean OCR confidence 90.2
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA Tech - ALL STREAMS ?Year: II Trimester:
-Academic Year : 2011-2012
-
-Batch: 2011-12
-Subject: Business Communication - I Marks:
-Time: | ia
-Date: 16/06/2012 Durationy ( iis.
-. - L.BRARY
-Re - Examination a
-\ be
-\ ‘Uy
-
-a
-Instructions: Candidates should read carefully the instructions printed Cl
-question paper and on the cover of the Answer Book, which is provided for their use.
-
-Answer any 5 questions.
-Answer to each new question to be started on a fresh page.
-
-1. Discuss different cultural habits of different countries across the world and
-analyse how they can be a source of misunderstanding with people from other
-countries. 10
-
-} 2. How do you master the art of giving presentations? Explain in detail. 10
-3. The skills of speaking demanded at different-forums of business are different.
-Justify with explanations. 10
-
-4. Explain explicitly three kinds of non-verbal communications. Give 2 examples in
-each case. 10
-
-‘5. What is the difference between hearing and listening? What are the various stages
-¥ } of listening? Why is listening so important in the business world? 10
-
-6. What are the psychological barriers to communication? Give 1 example for each
-of the types. 10
-
-7. Attempt any 2 short notes:-
-
-; a) Show diagrammatically the process of communication. 5
-b) Mention 4 points which you should remember while reviewing a book. 5
-c) How should you prepare your content matter for public -speaking? 5
-
-1/4
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 0249c44ed0b7
+## 2012-13 · Exam not stated · Trim 4 · paper 0249c44ed0b7
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
@@ -340,4 +125,219 @@ active listening. ( Marks 5)
 
 SL
 Lp
+````
+
+## 2012-13 · Re-Exam · Trim 4 · paper 7ff9ab05ccf4
+
+- Departments: Electronics and Telecommunication, Mechanical
+- Programmes: MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/BUSINESS COMMUNICATIONS I/BUSINESS COMMUNICATION - I IV MBA TECH 2012-13 RE EXAM(4).pdf` (+1 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: text (3 pages)
+
+````text
+Programme: MBA Te:& - AU Stream   Year:   II   Trimester: N
+Academic Year :2012-2013
+Batch:   2012-13   1
+Subject:   -. Business ~omm&cation - I   Marks:   50
+Time:   2.00 p m To 4.00 pm
+Date:   Duration:   2 hrs.
+Re - Examination
+Instructions: Candidates should read caremy the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+All questions are compulsory.
+Answer to each new question to be started on a fresh page.
+1.Case Study Analysis   10marks
+Tokyo Disneyland, the largest amusement park in Japan, draws nearly as many visitors
+each year as the Magic Kingdom here in the United States. But like all theme parks, the
+Tokyo park understood the need to offer fresh attractions and exciting new rides to keep
+the crowds coming back year after year. In its search for dynamic new ideas to expand its
+already popular park, Tokyo Disneyland turned to Walt Disney Imagineering.
+ss.'   Generating and implementing new ideas for the Disney theme parks are tasks of Walt
+I   Disney Imagineering, the research, design, and engineering subsidiary of Walt Disney
+F.   A-tions.   Although Tokyo Disneyland is a Disney theme park and Disney retains the
+9, .:.-   creative control of the park, the park is actually owned and operated by the Oriental Land
+Company. This company makes all financial and investment decisions. While creative
+concepts come &om Disney Imagineering teams, tho& ideas are not automatically
+accepted by theme park owners. Imagineering teams not only had to dream up exciting
+concepts for the Tokyo park, but they also had to sell the ideas and win the approval of
+i   Japanese owners. Millions of dollars of contracts and hundreds of jobs in the United
+States and in Japan rested on successful presentations to the owners of Tokyo
+Disneyland.
+Jon Georges, lead show producer for the Tokyo Disneyland Project, was part of atalented
+Irnagineering team that came up with a totally new attraction and restaurant concept for
+the Disney theme park. Based on Winnie the Pooh and Alice in Wonderland characters,
+the creative project involved two phases. The first was a theme restaurant called iihe
+"Queens of Hearts Banquet Hall." The second was a major ride attraction based on
+--- page 2 ---
+W i e the Pooh characters. Both concepts required considerable persuasion to win
+approval.
+Traditionally, the Japanese park owners had accepted only attractions that had proved
+technically successful in other theme parks. Naturally, they were reluctant to try a
+restaurant concept and a ride technology that were both brand new. Selling the Japanese
+on the new concepts required oral presentations from Jon Georges and the hagineering
+team.
+Understanding the audience and anticipating its reaction were integral part of Jon's
+preparation for a presentation. For the Tokyo Disneyland project, Jon and the
+Irnagineering team wanted to present their concepts in broad terms to see if the financiers
+liked the total idea. But Jon also knew that this audience would be detail oriented.
+"Japanese tend to want particulars - like the colour of the concrete, the number of
+restrooms, and the exact location where visitors would exit an attraction"
+Other adaptations Jon made for the Tokyo presentation involved choice of language and
+presentation style. Carefully avoiding Disney and design jargon, he consciously used
+common words and simple sentences, which the translator had little trouble converting to
+Japanese. In making his presentation, Jon kept in mind three important elements:
+organization, visuals, and focus. Although he had thousands of details in mind, he forced
+himself to keep his presentation logical and simple. He concentrated on one powerful
+point: convincing his Japanese listeners that the new a!hctions would enhance the value
+of Tokyo Disneyland and would draw more visitors through the turnstiles.
+a) What questions was Jon Georges asking himself in anticipating the audience for
+the Tokyo Disneyland presentation? [4]
+b) Why is simplicity important in an oral presentation and why was it particularly
+important for the Tokyo Disneyland presentation? [4]
+c) Why are visual aids critical for both local and international audiences? [2]
+*
+2. How would you prepare yourself for a forthcoming public speech? 10 marks
+3. Discuss the various diversities that are existent across different cultures? 10marks
+4. Write a pr6cis on the following matter:-   20 marks
+What happens when one person sends a message and anot!:er receive it? First, consider
+the nature of language - the words in which most messages are expressed. All words are
+symbols. A symbol is a standardized sign, seen or heard, which stands for an object,
+--- page 3 ---
+event or ideas as agreed upon by senders and recipients of messages.   It need not
+resemble what it stands for. Thus it differs from a pictorial representation or imitation,
+such aportrait, a street plan, or an organization chart.
+A set of symbols agreed upon by two or more people is called a code. By far the most
+r   important codes are those which form language. In any civilized language there is a
+primary code of spoken words, formed &om speech sounds. There is also secondary
+code of letters (the alphabet) which can be combined to stand for the speech sounds ofthe
+primary code of letters-t,r,e, e-stands for the sound of '.tree'. Neither letters nor sounds
+may have resemblance to what they denote a tree.
+Whenever language is used, a sender must encode his message and a recipient must
+decode it. For language communication to be effective, senders and receivers must agree
+on all the details of the language code. If you go to France in ignorance of the French
+code and meet people ignorant of the E~glish code, you have to resort to gestures and
+attempts at direct representation of what you want to say. How inadequate this can be is
+shown by the story of an English tourist who suffering from hunger in a French street,
+moved his hands and jaw to convey his wish to find a restaurant, he was obligingly
+conducted to a dentist's waiting room!
+````
+
+## 2011-12 · Exam not stated · Trim 4 · paper 9a6fee76a983
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/BUSINESS COMMUNICATIONS I/BUSINESS COMMUNICATION 2011-12(3).pdf`
+- Printed on paper: duration hours: 2; exam date: 5/11/2011
+- Text: ocr (1 page), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS Y wv
+Mukesh Patel School Of Technology Management & Engineering aby )
+Programme: MBA(Tech)- ALL STREAMS Year: Il Trimester: IV 55 oouliW JE
+Academic Year : 2011-2012 ' =
+~ on St
+Subject: BUSINESS COMMUNICATION-I Marks: SOS pant A
+Time: 2.00 pm-To 4.00-prn
+Date: 5/11/2011 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+And on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question no. 1 is compulsory.
+2. Attempt any four from the remaining questions.
+3. Figures to the right indicate full marks.
+
+Q.1. a) Discuss ‘Listening requires more efforts than hearing’. (05)
+
+b) What are the linguistic barriers in multilingual society? How do you overcome such
+barriers? (05)
+
+Q.2.a) Discuss ‘Action speaks louder than words’. (10)
+
+Q.3. Prepare a notice informing all the members about a meeting to be held at the
+
+1 registered office of the company at particular date and time about informing branch
+
+personnel of the ISO audit which will take place and to decide on the steps to be taken
+for audit. (10)
+
+Q.4 A business letter should be written not in a manner in which a writer should like to
+write, but in amanner in which a reader would like to read’. Discuss. (10)
+
+Q.5 ‘The process of communication is a deliberate cyclical and step by step process.’ Discuss
+} this statement with to asuitable diagram & its components. (10)
+
+u
+
+ag a) Write a note on socio-psychological barriers to communications. (05)
+
+7
+
+b) You have an agency of well-known international group of magazines. Write a Sales
+Letter to be sent to educational institutes.
+(Use complete block format) (05).
+
+````
+
+## 2011-12 · Re-Exam · Trim 4 · paper ec08a09e6c24
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM IV/BUSINESS COMMUNICATIONS I/BUSINESS COMMUNICATION I BATCH 2011-12 RE EXAM0001 (1).pdf` (+1 identical copies)
+- Printed on paper: exam date: 16/06/2012
+- Text: ocr (1 page), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA Tech - ALL STREAMS ?Year: II Trimester:
+Academic Year : 2011-2012
+
+Batch: 2011-12
+Subject: Business Communication - I Marks:
+Time: | ia
+Date: 16/06/2012 Durationy ( iis.
+. - L.BRARY
+Re - Examination a
+\ be
+\ ‘Uy
+
+a
+Instructions: Candidates should read carefully the instructions printed Cl
+question paper and on the cover of the Answer Book, which is provided for their use.
+
+Answer any 5 questions.
+Answer to each new question to be started on a fresh page.
+
+1. Discuss different cultural habits of different countries across the world and
+analyse how they can be a source of misunderstanding with people from other
+countries. 10
+
+} 2. How do you master the art of giving presentations? Explain in detail. 10
+3. The skills of speaking demanded at different-forums of business are different.
+Justify with explanations. 10
+
+4. Explain explicitly three kinds of non-verbal communications. Give 2 examples in
+each case. 10
+
+‘5. What is the difference between hearing and listening? What are the various stages
+¥ } of listening? Why is listening so important in the business world? 10
+
+6. What are the psychological barriers to communication? Give 1 example for each
+of the types. 10
+
+7. Attempt any 2 short notes:-
+
+; a) Show diagrammatically the process of communication. 5
+b) Mention 4 points which you should remember while reviewing a book. 5
+c) How should you prepare your content matter for public -speaking? 5
+
+1/4
 ````

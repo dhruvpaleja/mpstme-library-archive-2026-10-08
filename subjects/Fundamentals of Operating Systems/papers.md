@@ -170,6 +170,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Fundamentals of Operating Systems/Fundamentals of Operating Systems Batch 2023-24,2024-25,2025-26 Re Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (4 pages), mean OCR confidence 86.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -284,7 +285,6 @@ iii) Compare these techniques based on memory utilization
 and
 fragmentation, (2 Marks)
 
-RRR KR ERK 2 KEK KKH KEK
 --- page 3 ---
 }— \ Consider a system with the following Resource Allocation Graph
 Ale. ) | (RAG):
@@ -369,6 +369,7 @@ FRR QR RRR
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Fundamentals of Operating Systems/Fundamentals of Operating Systems Batch 2024-25 Final Batch 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
 - Text: ocr (2 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS \
@@ -509,7 +510,6 @@ CO-4: Describe the purpose of access control lists (ACLs), user/group permission
 ° file encryption. ,
 _ SO-2; BL-3
 
-oe oe OR oe oR 2: OR oe oe oe a ae oe
 ````
 
 ## 2024-25 · Final-Exam · Sem 6 · paper cd149a74fbd2
@@ -638,6 +638,7 @@ SO-2; BL-3
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_IT_7037/Fundamentals of Operating Systems/QP_Fundamentals of Operating Systems(701IT0C008)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2025
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

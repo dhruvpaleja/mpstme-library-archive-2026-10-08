@@ -8,7 +8,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_06/ELECTRONIC INSTRUMENTATION/Electronic Instrumentation 2018-19 Final Batch 2017-18 Re Exam.pdf`
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/EXTC/Sem_06/ELECTRONIC CIRCUIT ANALYSIS AND DESIGN II/Electronic Instrumentation 2018-19 Final Batch 2017-18 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: exam date: 15 April 2019
 - Text: ocr (2 pages), mean OCR confidence 89.8
 

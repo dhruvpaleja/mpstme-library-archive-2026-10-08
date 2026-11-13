@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_Civil_7005/Strength of Materials/ANS_Strength of Materials(702CI0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 64.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -123,7 +124,6 @@ By = 50,40, ran i amen? 0 = 2160 + 60, -8x5'~ = x8
 = 2 163.88 epee yet = 270 — 489.99 - 64 = - 283.99 kNm?
 aria i
 F ; yer 33 x 10! Nm? = — 283,99 x 107 Nmm*
-ting ho vest 08 negaon wp eerie = 15333 x 10" 999,99 x 10"
 bi ‘cbt | » Yee ET 2x 10° x85x108 ™™ p= == 16.7 mm. Ans.
 Bly = 104? 16838" ppb a =-9019 mm. Ans. 2x 10° x 85 x 10'
 
@@ -154,6 +154,7 @@ FRR 5 RRR RK
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Mechanical_7003/Strength of Materials/ANS_Strength of Materials(702ME0C031)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (11 pages), mean OCR confidence 75.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -566,7 +567,6 @@ Ely = 40x40, | =24e-w® : = 202-3)°
 3 : tay 8
 =10x3+Cx+C, | -8(x-1F : ~z o-3P di)
 To find the values of C, and C,, use two boundary conditions. The boundary conditions are:
-@atx=0,y=0, and (ii) at x = 6 m, y = 0.
 
 (i) Substituting the first boundary condition i.e, at x = 0, y = 0 in equation (ii) and
 considering the equation upto first dotted line (as x = 0 lies in the first part of the beam), we get
@@ -704,6 +704,7 @@ Modulus of rigidity is the ratio of shear stress to shear strain within the elas
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_Mechanical_7031/Strength of Materials/ANS_Strength of Materials(702ME0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (11 pages), mean OCR confidence 75.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1116,7 +1117,6 @@ Ely = 40x40, | =24e-w® : = 202-3)°
 3 : tay 8
 =10x3+Cx+C, | -8(x-1F : ~z o-3P di)
 To find the values of C, and C,, use two boundary conditions. The boundary conditions are:
-@atx=0,y=0, and (ii) at x = 6 m, y = 0.
 
 (i) Substituting the first boundary condition i.e, at x = 0, y = 0 in equation (ii) and
 considering the equation upto first dotted line (as x = 0 lies in the first part of the beam), we get
@@ -1254,6 +1254,7 @@ Modulus of rigidity is the ratio of shear stress to shear strain within the elas
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Civil_7005/Strength of Materials/ANS_Strength of Materials(702CI0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Feb 2026
 - Text: mixed (6 pages), mean OCR confidence 58.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1355,6 +1356,7 @@ FIC 6 I HF
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Mechanical_7003/Strength of Materials/ANS_Strength of Materials(702ME0C031)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (12 pages), mean OCR confidence 73.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1551,7 +1553,6 @@ _ Ble— (4-2) —4 SIF -
 [12]
 
 10 10
-A B P c D B. M. D. (kKNm)
 0
 0 - 3.1
 8
@@ -1997,6 +1998,7 @@ Here:
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_Mechanical_7031/Strength of Materials/ANS_Strength of Materials(702ME0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (12 pages), mean OCR confidence 73.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2193,7 +2195,6 @@ _ Ble— (4-2) —4 SIF -
 [12]
 
 10 10
-A B P c D B. M. D. (kKNm)
 0
 0 - 3.1
 8

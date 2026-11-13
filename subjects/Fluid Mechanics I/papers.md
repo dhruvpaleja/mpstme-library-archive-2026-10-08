@@ -474,6 +474,135 @@ surface. The coefficient of velocity is 0.95 for both the orifices. Find the poi
 intersection of the two jets.
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper 6bbd02661c02
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/CIVIL/Sem_05/FLUID MECHANICS I/Fluid Mechanics I Batch 2016-17 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 19 November 2018
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+SVKM’S NMIMS Hm
+; MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGIYEERING
+| Program B.Tech Integrated (CIVIL). _— Year: Ii Semester: Ve
+; Academic Year: 2018-2019 =
+Subject: Fluid Mechanics-I ~ Marks: 60 ™
+Date : 19 November 2018 _- Time:2.00 pm to 5.00 pm —
+
+Duration: 3 (hrs) _
+No. of Pages: 2
+Re-examination (2016-17) 4
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. ;
+
+Q.1 Answer all. 12
+1, Compare Eulerian and Lagrangian method. ~ 03
+
+2. Define vena-contracta. Explain with diagram. 03
+
+3. Define the terms with diagram: weir, nappe, and crest. 03
+
+‘4. What is flow net? What are its uses? Give example(s). 03
+
+Q.2 (a) A plate 0.025 mm distant from a fixed plate, moves at 60 cm/s and requires a force of 2 06
+N/m? to maintain this speed. Determine the fluid viscosity between plates.
+
+Q.2(b) Define following properties (i) density (ii) weight density (iii) specific volume (iv) 06
+specific gravity (v) kinematic viscosity (vi) dynamic viscosity.
+
+Q.3 (a) | What do you mean by hydrostatic pressure? Define total pressure and centre of pressure 06
+of an immersed body with sketch.
+
+Q.3(b) Define two dimensional stream function and velocity potential function. The velocity 06
+
+components for a two dimensional, incompressible flow are givenasu = — Zpya?
+xETY
+
+. Show that the velocity field satisfies the continuity equation.
+
+v= -
+x2+y?
+
+Q.4 (a) An open tank contains water up to a depth of 2 m and above it an oil of specific gravity 06
+0.9 for a depth of 1 m. Find the pressure intensity (i) at the interface of the two liquids
+and (ii) at the bottom of the tank.
+
+Jo
+--- page 2 ---
+Q.4 (b)
+
+Q.5 (a)
+
+Q.5 (b)
+Q.6 (a)
+
+Q.6 (b)
+Q.7 (a)
+Q.7 (b)
+
+A wooden block of width 2.5 m, depth 1 m and length 4 m floats in water. Find the density
+and the weight of the body if depth of immersion is 0.7 m.
+
+While one end of U-tube mercury manometer is connected to a horizontal pipe in which
+water is flowing, its other end is open to the atmosphere. If the difference of mercury
+levels in the two limbs is found to be 25 cm and the vertical height of the water above
+mercury remains 10 cm below the pipe axis, find the pressure in the pipe. Assume
+atmospheric pressure as 101 kN/m?.
+
+What are the conditions of equilibrium of a floating body and a submerged body?
+
+Explain local and convective acceleration.
+Define hydraulic coefficients.
+
+‘Define path line and stream line.
+
+Classify fluid flow. Define each one of them.
+
+Explain with diagram “Pitot tube”.
+
+Write short note Borda’s re-entrant mouthpiece.
+
+A 4 cm diameter orifice in the vertical side of a large tank discharges water under a head
+of 4 m. The coefficient of contraction and velocity are 0.62 and 0.98 respectively.
+Determine (a) the diameter of the jet at vena contracta, (b) the velocity of jet at vena
+contracta and (c) the discharge.
+
+— ¢
+
+06
+
+06
+
+06
+
+02
+02
+02
+
+06
+03
+
+03
+06
+
+ate.
+````
+
 ## 2018-19 · Re-Exam · Sem 5 · paper 21f133788cba
 
 - Departments: Civil
@@ -1135,135 +1264,6 @@ b) Thoma’s Cavitation factor. Minimization of Cavitation. 04
 c) Skin friction and form friction. 04
 
 Page 3 of 3
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 6bbd02661c02
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/CIVIL/Sem_05/FLUID MECHANICS I/Fluid Mechanics I Batch 2016-17 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 19 November 2018
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’S NMIMS Hm
-; MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGIYEERING
-| Program B.Tech Integrated (CIVIL). _— Year: Ii Semester: Ve
-; Academic Year: 2018-2019 =
-Subject: Fluid Mechanics-I ~ Marks: 60 ™
-Date : 19 November 2018 _- Time:2.00 pm to 5.00 pm —
-
-Duration: 3 (hrs) _
-No. of Pages: 2
-Re-examination (2016-17) 4
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary. ;
-
-Q.1 Answer all. 12
-1, Compare Eulerian and Lagrangian method. ~ 03
-
-2. Define vena-contracta. Explain with diagram. 03
-
-3. Define the terms with diagram: weir, nappe, and crest. 03
-
-‘4. What is flow net? What are its uses? Give example(s). 03
-
-Q.2 (a) A plate 0.025 mm distant from a fixed plate, moves at 60 cm/s and requires a force of 2 06
-N/m? to maintain this speed. Determine the fluid viscosity between plates.
-
-Q.2(b) Define following properties (i) density (ii) weight density (iii) specific volume (iv) 06
-specific gravity (v) kinematic viscosity (vi) dynamic viscosity.
-
-Q.3 (a) | What do you mean by hydrostatic pressure? Define total pressure and centre of pressure 06
-of an immersed body with sketch.
-
-Q.3(b) Define two dimensional stream function and velocity potential function. The velocity 06
-
-components for a two dimensional, incompressible flow are givenasu = — Zpya?
-xETY
-
-. Show that the velocity field satisfies the continuity equation.
-
-v= -
-x2+y?
-
-Q.4 (a) An open tank contains water up to a depth of 2 m and above it an oil of specific gravity 06
-0.9 for a depth of 1 m. Find the pressure intensity (i) at the interface of the two liquids
-and (ii) at the bottom of the tank.
-
-Jo
---- page 2 ---
-Q.4 (b)
-
-Q.5 (a)
-
-Q.5 (b)
-Q.6 (a)
-
-Q.6 (b)
-Q.7 (a)
-Q.7 (b)
-
-A wooden block of width 2.5 m, depth 1 m and length 4 m floats in water. Find the density
-and the weight of the body if depth of immersion is 0.7 m.
-
-While one end of U-tube mercury manometer is connected to a horizontal pipe in which
-water is flowing, its other end is open to the atmosphere. If the difference of mercury
-levels in the two limbs is found to be 25 cm and the vertical height of the water above
-mercury remains 10 cm below the pipe axis, find the pressure in the pipe. Assume
-atmospheric pressure as 101 kN/m?.
-
-What are the conditions of equilibrium of a floating body and a submerged body?
-
-Explain local and convective acceleration.
-Define hydraulic coefficients.
-
-‘Define path line and stream line.
-
-Classify fluid flow. Define each one of them.
-
-Explain with diagram “Pitot tube”.
-
-Write short note Borda’s re-entrant mouthpiece.
-
-A 4 cm diameter orifice in the vertical side of a large tank discharges water under a head
-of 4 m. The coefficient of contraction and velocity are 0.62 and 0.98 respectively.
-Determine (a) the diameter of the jet at vena contracta, (b) the velocity of jet at vena
-contracta and (c) the discharge.
-
-— ¢
-
-06
-
-06
-
-06
-
-02
-02
-02
-
-06
-03
-
-03
-06
-
-ate.
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper 3e978445a36c

@@ -129,6 +129,7 @@ ARR 2 Rk
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Introduction to Data Communication and Networks/Introduction to Data Communication and Networks 2025-26 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: ocr (2 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -194,7 +195,6 @@ Q4 a. How does Analog-to-Digital Conversion | [10]
 CO-1 ; SO-2 ; (ADC) work? Explain in detail the three
 BL-2 main steps involved — Sampling,
 Quantization, and Encoding.
-OK RK KKK KK RK 1 2 OR OR
 --- page 2 ---
 Q4 b. Explain hybrid topology. Discuss the [10]
 CO-2 ; SO-2 ; factors to be considered when choosing
@@ -415,6 +415,7 @@ b. Discuss the functionality of each layer of the OSI model.   10
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Introduction to Data Communication and Networks/Introduction to Data Communication and Networks Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: ocr (2 pages), mean OCR confidence 91.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -469,7 +470,6 @@ transmission.
 b. Explain the concept of store and forward mechanism. Discuss how does the 'store
 
 and forward! mechanism in message switching impacts real-time data transfer.
-ORR RR KK RK KR 1 OR RR RR
 --- page 2 ---
 Q5
 

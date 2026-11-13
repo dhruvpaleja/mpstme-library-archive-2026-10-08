@@ -1366,7 +1366,7 @@ BL-2 d. Explain basic components of a CIM wheel? [05]
 2
 ````
 
-## 2022 · Final-Exam · Sem 7 · paper 93242bccc7dc
+## 2022-23 · Final-Exam · Sem 7 · paper 93242bccc7dc
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
@@ -2391,6 +2391,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_07/CAD CAM CIM/CAD CAM CIM 2019-20 Final.pdf`
 - Printed on paper: exam date: 07 November 2019
 - Text: ocr (5 pages), mean OCR confidence 73.9
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2477,7 +2478,6 @@ atari alanine
 
 eek inéat Mnterpolotion ~ gira; "
 
-ORI At a. comune — Sane ae Millag
 go2 | Clockwise circular moling - ve
 ins stuple program block “sing totes | Same as Milling
 
@@ -2524,7 +2524,6 @@ ees} Mirror inage for Double Turret, OA
 
 3fS
 --- page 4 ---
-@ Carle] MUllng Ponction® Lathe Fanction®
 
 Gre |
 
@@ -2536,7 +2535,6 @@ Patter Tt ‘Repeating
 Peck Peilling on Zaxis
 ; ; - ‘| Groove Cutting on X axis
 “Ere [Pine Boring Cycle T Maltiple Threading Cycle
-Sao riced Canned Cyele *
 Gel | Drilling Cycle :
 Sar | Counterboring Cycle *
 ees Decp Hole or Intermittent Peak Drilling -
@@ -3093,6 +3091,110 @@ M80-M99 Unassigned
 4/4
 ````
 
+## 2018-19 · Re-Exam · Sem 6 · paper 2d30fdeb3a24
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/CAD CAM CIM/CAD-CAM-CIM ....Re-exam 2017-18-19.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 June 2019
+- Text: ocr (2 pages), mean OCR confidence 88.5
+
+````text
+4 MPSTM}
+
+LIBRAR‘
+
+SVKM’S NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA. Tech. / B.Tech (MECHANICAL) Year: IT Semester: VI
+Academic Year: 2018-19
+Subject: CAD/CAM/CIM ‘ Marks: 70
+Date : 19 June 2019 Time: 10.00 am to 1.00 pm
+
+Duration: 3 (Hrs)
+No. of Pages: 2
+
+Re- Examination (2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. ;
+
+1) Question No._1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all_. 5 questions to be attempted. *
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1) 14
+a) What are the key challenges faced by CIM. 05
+b) Describe in brief about Graphical Kernel System 05
+c) Explain briefly about Wireframe Modeling with limitations 04
+Q.2) . 14
+a) With the help of flow chart, Explain the use of computer in design process 7
+b) Describe briefly about Components in CAD Workstation PC 7
+Q.3) 14
+a) Describe briefly Constructive Solid Geometry solid: modelling 8
+b) A cubic Bezier curve is defined by the control points as (20, 20), (60, 80), 6
+(120,100) and (150, 30). Find the equation of the curve and its midpoint.
+Q.4) 14
+a) Describe briefly about two dimensional transformation 6
+b) Consider the following cube. Rotate it by 45° about an axis x’ passing through its 8
+centroid
+
+fe
+--- page 2 ---
+Q.5)
+
+a)
+b)
+
+Q.6)
+a)
+b)
+
+Q.7)
+a)
+b)
+
+PFl> 2221111
+
+Describe briefly about Numerical Control with advantages and its types
+Write the programming using G code and M code for machining the raw
+material to get finished part
+
+— A
+
+My.
+aa | \
+x F
+
+f Hoye
+ey es ae
+
+Explain briefly about Point-to-point systems and Contouring systems
+Explain briefly about Generative Process Planning, Advantages and
+Disadvantages
+
+Explain briefly about contact and non-contact inspection method in CAQC
+Explain briefly about Computer Integrated Manufacturing and its major
+components
+
+a
+
+14
+
+14
+
+14
+````
+
 ## 2018-19 · Re-Exam · Sem 7 · paper 3793c601813b
 
 - Departments: Mechanical
@@ -3100,6 +3202,7 @@ M80-M99 Unassigned
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_07/CAD CAM CIM/CAD CAM CIM Batch 2018-19 Re Exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 69.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3221,7 +3324,6 @@ e ; zlz] 12 ele Sele _
 z Z2}2] |= gle slele &
 = Ele — & z|els & 1
 s Sig 5 S/5 Fs
-al rftoadada sta ' heberalal ya Zl 4116 Cial.
 f = ; 3 =
 E a BS) Ly.
 g 4 > 5S
@@ -3231,7 +3333,6 @@ a = 5 é
 5 eo 3 bp] -B a
 2 & S 5 = SiS gla
 op eid 2/8 wo £ 5 oe PVE] 2 512
-ch] -s ex - m= ovo o
 & | oe ele) [Sls ee) S! |Al felg]s Als
 5|-2/& 8/9} Ole ‘eB. Sl sels =/ 2
 /eE/& > & Eo 2 = =] 5] 2 =] 5
@@ -3243,7 +3344,6 @@ PI E}.o als e/2;= o/s] m 2 Go| oo] .bo] oe] S] 2] -e di ‘lele
 =/ -/'5 v} 8/=/ sla s) 2/8 me -s|.5).6) 81] 3] S. 5/3
 Sl sia Syms ola Ble Ble), Ee] Sl ele a =
 =| 2/2 EIGI6|CI2 Sele &|s #5) 5] 5/2) 5/2 - | ols
-Sep utudada VIOJOjA Ofelia S]e Elslslsisys/2]. . |x
 ow,
 --- page 4 ---
 AGN Se7e . Se FUNRCEORS (* Functions
@@ -3574,110 +3674,6 @@ a a _
 
 | ~
 50 20
-````
-
-## 2017-18 · Re-Exam · Sem 6 · paper 2d30fdeb3a24
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/CAD CAM CIM/CAD-CAM-CIM ....Re-exam 2017-18-19.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 June 2019
-- Text: ocr (2 pages), mean OCR confidence 88.5
-
-````text
-4 MPSTM}
-
-LIBRAR‘
-
-SVKM’S NMIMS :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBA. Tech. / B.Tech (MECHANICAL) Year: IT Semester: VI
-Academic Year: 2018-19
-Subject: CAD/CAM/CIM ‘ Marks: 70
-Date : 19 June 2019 Time: 10.00 am to 1.00 pm
-
-Duration: 3 (Hrs)
-No. of Pages: 2
-
-Re- Examination (2017-18/2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. ;
-
-1) Question No._1____ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all_. 5 questions to be attempted. *
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1) 14
-a) What are the key challenges faced by CIM. 05
-b) Describe in brief about Graphical Kernel System 05
-c) Explain briefly about Wireframe Modeling with limitations 04
-Q.2) . 14
-a) With the help of flow chart, Explain the use of computer in design process 7
-b) Describe briefly about Components in CAD Workstation PC 7
-Q.3) 14
-a) Describe briefly Constructive Solid Geometry solid: modelling 8
-b) A cubic Bezier curve is defined by the control points as (20, 20), (60, 80), 6
-(120,100) and (150, 30). Find the equation of the curve and its midpoint.
-Q.4) 14
-a) Describe briefly about two dimensional transformation 6
-b) Consider the following cube. Rotate it by 45° about an axis x’ passing through its 8
-centroid
-
-fe
---- page 2 ---
-Q.5)
-
-a)
-b)
-
-Q.6)
-a)
-b)
-
-Q.7)
-a)
-b)
-
-PFl> 2221111
-
-Describe briefly about Numerical Control with advantages and its types
-Write the programming using G code and M code for machining the raw
-material to get finished part
-
-— A
-
-My.
-aa | \
-x F
-
-f Hoye
-ey es ae
-
-Explain briefly about Point-to-point systems and Contouring systems
-Explain briefly about Generative Process Planning, Advantages and
-Disadvantages
-
-Explain briefly about contact and non-contact inspection method in CAQC
-Explain briefly about Computer Integrated Manufacturing and its major
-components
-
-a
-
-14
-
-14
-
-14
 ````
 
 ## 2017-18 · Re-Exam · Sem 7 · paper 36253afaf011

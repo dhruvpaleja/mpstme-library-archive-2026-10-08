@@ -16,8 +16,8 @@ Also filed as: `Next Generation Warless Communication`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Next Generation Wireless Communications(702EX0E011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Next Generation Wireless Communications(702EX0E011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Next Generation Wireless Communications(702EX0E011)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 8 | B TECH / EXTC, MBA TECH / EXTC | Next Generation Wireless Communications, Sem VIII, Year 2024-25 Final Exam.pdf [1] |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / EXTC | Next Generation Wireless Communcations Batch 2024-25 Final.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / EXTC | Next Generation Wirless Communication Batch 2023-24 Final.pdf |

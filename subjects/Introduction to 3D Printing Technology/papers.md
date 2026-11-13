@@ -1,6 +1,6 @@
 # Introduction to 3D Printing Technology: question papers in full
 
-10 unique papers · 2022 to 2025-26 · Mechanical
+10 unique papers · 2022-23 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -720,13 +720,14 @@ FOO IIR
 \
 ````
 
-## 2022 · Final-Exam · Sem 5 · paper d43e2af1a4f6
+## 2022-23 · Final-Exam · Sem 5 · paper d43e2af1a4f6
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_05/Introduction to 3D Printing Technology/Introduction to 3D Printing Technology Batch 2022 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 25 November 2022
 - Text: ocr (2 pages), mean OCR confidence 87.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
@@ -766,7 +767,6 @@ CO-1; SO-7; BL-2 a. Explain how formative processes are different from 3d printi
 CO-2; SO-7; BL-3 b. Explain the Stair-stepping effect in additive manufacturing process. [5]
 >, ©0-3 ; SO-2; BL-3 ¢. Compare PLA and ABS based on mechanical and physical properties. (5]
 CO-4 ; SO-4; BL-1 d. State how additive manufacturing can aid in the fabrication of cloth and wearable sensors. [5]
-= a Explain th lificati iteria fe lift dditi facturi [5]
 CO-1; 50-2; BL-3 : xplain the qualification criteria for a process to qualify as additive manufacturing.
 CO-1; SO-7 ; BL-1 b. State the considerations required for selecting part orientation in 3D printing [5] =
 CO-1 ; SO-7 ; BL-3 c. Explain the following concepts : (5*2)

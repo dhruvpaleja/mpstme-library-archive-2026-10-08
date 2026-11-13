@@ -1,6 +1,6 @@
 # Basic Data Structures: question papers in full
 
-25 unique papers · 2022 to 2025-26 · Computer Engineering, Data Science, Information Technology
+25 unique papers · 2022-23 to 2025-26 · Computer Engineering, Data Science, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -358,6 +358,7 @@ iv. Display suitable messages for “Record Found” or
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/Basic Data Structures/Basic Data Structures 2025-26 Final.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: ocr (4 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 [>
@@ -402,7 +403,6 @@ ptt;
 “I *p = 30; .
 p=num + 3;
 *p = 40;
-2 ee si Oe a oo a a
 d .
 --- page 2 ---
 p =num;
@@ -785,6 +785,7 @@ BL-4   Sort in descending order.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/IT/Sem_04/Basic Data Structures/Basic Data Structures Batch 2024-25 Final Batch 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2025
 - Text: ocr (2 pages), mean OCR confidence 85.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -858,7 +859,6 @@ dequeue operation.
 
 [10 M]
 
-ORR a oR oR RR oe 1 28 ok ok oR
 --- page 2 ---
 Q6 [20]
 
@@ -880,7 +880,6 @@ CO-3; BL-5 What is a circular linked list? Explain‘its advantages over a singl
 
 oe
 
-SER SR FOR ok oR a ok
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 5 · paper d0a497112e86
@@ -890,6 +889,7 @@ SER SR FOR ok oR a ok
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/Basic Data Structures/Basic Data Structures Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
 - Text: ocr (2 pages), mean OCR confidence 89.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -980,7 +980,6 @@ Q7 list.
 
 Write a program in C to print a string in reverse using a pointer.
 
-SRR ARR De ok a a ok ak ok
 
 ”
 ````
@@ -1976,7 +1975,7 @@ roe element 17 in the following sorted array: 1, 3, 6, 9, 12, 15, 17, 20, 23, 26
 29, 32, 35, 38, 41, 44, 47, 50, 53, and 56.
 ````
 
-## 2022 · Final-Exam · Sem 5 · paper 7d0dd1839e40
+## 2022-23 · Final-Exam · Sem 5 · paper 7d0dd1839e40
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER

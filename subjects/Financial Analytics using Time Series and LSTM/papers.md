@@ -59,160 +59,14 @@ note metrics. Briefly explain difference between AR, MA, ARMA, ARIMA approaches
 in markdown cell. (20 marks)
 ````
 
-## 2019-20 · Final-Exam · Sem 3 · paper f92defbe9ed2
-
-- Departments: Artificial Intelligence
-- Programmes: M TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/M TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM III/FINANCIAL ANALYTICS USING TIME SERIES AND LSTM/Financial Analystics Using Time Series and LSTM 2019-20 Final.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 November 2019
-- Text: ocr (3 pages), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: M.Tech (Artificial Intelligence) Year: II Semester: III
-
-Academic Year: 2019-20
-Subject: Financial Analytics using time series and LSTM
-
-Marks: 100
-Date: 20 November 2019 Time: 2.00 pm - 5.00 pm
-f Durations: 3 (Hrs) “
-No. of Pages: ~
-
-Final Examination (2019-20)
-
-aoe ee °
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume_suitable data if necessary.
-
-1. Answer the following:
-
-(A)Explain the problem of identification and its relevance in simultaneous equation
-modelling. Using the data set-1, test the endogeneity of the variables and then,
-estimate 2SLS and also interpret your results in details, (Hint: use either forecasted
-variable or Instrumental variable approach.) (10)
-
-(B) Describe the two error functions that are used for neural networks. Suppose we are
-training a neural network for binary classification, justify the type of error function
-which is suitable to solve the problem. (10)
-
-2. Answer the following:
-(A) Write a short note on ARIMA, and steps to develop a best ARIMA model. Also
-discuss the post estimation diagnostic tests to ensure a best ARIMA model. (10)
-(B) Using the data set-2, discuss the ARIMA model and develop a best ARIMA model
-for any one stock market index. Also under take the post estimation diagnostic tests to
-justify the ARIMA model. (10)
-
-1
---- page 2 ---
-re
-
-. Answer the following:
-(A) Write short notes about DF, ADF and PP test of unit root test. Also test the time
-series properties of two stock market indices given in data set -2. (Hint: Test
-
-stationarity using DF, ADF and PP for both with and without trend) (10)
-(B) Explain the cause and effect relationships between the above two stock markets using
-Granger Causality test and discuss the direction of causality. (10)
-
-. Answer the following:
-
-(A) Explain Cointegration and Vector Error Correction Models (VECM). (10)
-
-(B) Using the data set-3, identify the number of cointegrating vector exist among the
-stock markets of the region and also discuss the error correction terms (ECT) of at
-least one stock market to highlight its dynamic equilibrium relationships with other
-stock markets of the region. (Hint: Estimate JJ-Cointegration, VECM and explain)
-
-(10)
-
-. Answer the following:
-
-(A) Using the data set 4, develop a LSTM model in PYTHON that will predict whether
-the price will go up or down. (10)
-
-(B) Explain Recurrent Neural Network and its various architecture types. (10)
-
-2/3
---- page 3 ---
-6. Answer the following:
-A. (10)
-The following diagram represents a feed-forw:
-
-ard neural network with one
-hidden layer:
-
-1 a
-fo™N
-Ck 3 5}
-~ Lo ms: 4 j
-
-al L a _ ae
-
-ir a
-
-A weight on connection between nodes i
-wys is the weight on the connection betw
-table lists all the weights in the
-
-and 7 is denoted by wi. such as
-veen nodes 1 and 3. The folowing
-
-network:
-Ung = —2 | wes = 1
-wos s= 3 Wan = —i
-Uy4 = 4 U3g = —I1
-tor = —1 | wag = 1
-
-Each of the nodes 3, 4, 5 and 6 uses the following activation function:
-
-ov) =f} fv>o
-m= 1 0 otherwise
-
-where vw denotes the weighted sum of
-and 2) can only receive bina
-of the network (ys
-
-a node. Each of the input nodes (1
-ry values (either 0 or 1). Calculate the output
-and ye) for each of the input patterns:
-
-Pattern: | Py Pe Py, Py
-
-Node 1: (3) 1 0 1
-
-Node 2: Oo 0 1 a .
-
-B. Explain the commonly used Artificial Neural Networks.
-
-(10)
-
-3)
-````
-
-## Year not stated · Exam not stated · Sem 3 · paper 01782f414035
+## 2023-24 · Exam not stated · Sem 3 · paper 01782f414035
 
 - Departments: Artificial Intelligence
 - Programmes: M TECH / ARTIFICIAL INTELLIGENCE
 - Source: `02_Question_Papers/Legacy/M TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM III/FINANCIAL ANALYTICS USING TIME SERIES AND LSTM/Financial Analytics Using Time Series and LSTM Batch 2020001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (8 pages), mean OCR confidence 88.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -524,7 +378,6 @@ Sample Time Series
 
 : NMARMA,
 
-poze’ Fasiey — “Reswei ——soshey 3a worber Ronicer Roar
 
 Autocorrelation
 
@@ -535,7 +388,6 @@ Autocorrelation
 
 02 :
 ie 1 [ | a ee i
-ee TT ea eee T T
 
 ma ry 2 4 6 8 10 ’ ety 4 16
 
@@ -547,7 +399,6 @@ Partial Autocorretation
 oa
 
 i os ee int or, | psd
-ag ae a |: T le
 Q-5. This question includes 10 MCQ. All are mandatory. Each question carries 2 20 Marks
 
 marks.
@@ -729,7 +580,7 @@ e) Explain the concept of a rolling average and its applications in time series 
 f) Explain the concept of cointegration and its use in pairs trading. ;
 ````
 
-## Year not stated · Exam not stated · Sem 3 · paper 65888941b5a2
+## 2022-23 · Exam not stated · Sem 3 · paper 65888941b5a2
 
 - Departments: Artificial Intelligence
 - Programmes: M TECH / ARTIFICIAL INTELLIGENCE
@@ -848,4 +699,151 @@ optimized using random weights generated by “numpy”.
 END
 
 72.
+````
+
+## 2019-20 · Final-Exam · Sem 3 · paper f92defbe9ed2
+
+- Departments: Artificial Intelligence
+- Programmes: M TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/M TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM III/FINANCIAL ANALYTICS USING TIME SERIES AND LSTM/Financial Analystics Using Time Series and LSTM 2019-20 Final.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 November 2019
+- Text: ocr (3 pages), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: M.Tech (Artificial Intelligence) Year: II Semester: III
+
+Academic Year: 2019-20
+Subject: Financial Analytics using time series and LSTM
+
+Marks: 100
+Date: 20 November 2019 Time: 2.00 pm - 5.00 pm
+f Durations: 3 (Hrs) “
+No. of Pages: ~
+
+Final Examination (2019-20)
+
+aoe ee °
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume_suitable data if necessary.
+
+1. Answer the following:
+
+(A)Explain the problem of identification and its relevance in simultaneous equation
+modelling. Using the data set-1, test the endogeneity of the variables and then,
+estimate 2SLS and also interpret your results in details, (Hint: use either forecasted
+variable or Instrumental variable approach.) (10)
+
+(B) Describe the two error functions that are used for neural networks. Suppose we are
+training a neural network for binary classification, justify the type of error function
+which is suitable to solve the problem. (10)
+
+2. Answer the following:
+(A) Write a short note on ARIMA, and steps to develop a best ARIMA model. Also
+discuss the post estimation diagnostic tests to ensure a best ARIMA model. (10)
+(B) Using the data set-2, discuss the ARIMA model and develop a best ARIMA model
+for any one stock market index. Also under take the post estimation diagnostic tests to
+justify the ARIMA model. (10)
+
+1
+--- page 2 ---
+re
+
+. Answer the following:
+(A) Write short notes about DF, ADF and PP test of unit root test. Also test the time
+series properties of two stock market indices given in data set -2. (Hint: Test
+
+stationarity using DF, ADF and PP for both with and without trend) (10)
+(B) Explain the cause and effect relationships between the above two stock markets using
+Granger Causality test and discuss the direction of causality. (10)
+
+. Answer the following:
+
+(A) Explain Cointegration and Vector Error Correction Models (VECM). (10)
+
+(B) Using the data set-3, identify the number of cointegrating vector exist among the
+stock markets of the region and also discuss the error correction terms (ECT) of at
+least one stock market to highlight its dynamic equilibrium relationships with other
+stock markets of the region. (Hint: Estimate JJ-Cointegration, VECM and explain)
+
+(10)
+
+. Answer the following:
+
+(A) Using the data set 4, develop a LSTM model in PYTHON that will predict whether
+the price will go up or down. (10)
+
+(B) Explain Recurrent Neural Network and its various architecture types. (10)
+
+2/3
+--- page 3 ---
+6. Answer the following:
+A. (10)
+The following diagram represents a feed-forw:
+
+ard neural network with one
+hidden layer:
+
+1 a
+fo™N
+Ck 3 5}
+~ Lo ms: 4 j
+
+al L a _ ae
+
+ir a
+
+A weight on connection between nodes i
+wys is the weight on the connection betw
+table lists all the weights in the
+
+and 7 is denoted by wi. such as
+veen nodes 1 and 3. The folowing
+
+network:
+Ung = —2 | wes = 1
+wos s= 3 Wan = —i
+Uy4 = 4 U3g = —I1
+tor = —1 | wag = 1
+
+Each of the nodes 3, 4, 5 and 6 uses the following activation function:
+
+ov) =f} fv>o
+m= 1 0 otherwise
+
+where vw denotes the weighted sum of
+and 2) can only receive bina
+of the network (ys
+
+a node. Each of the input nodes (1
+ry values (either 0 or 1). Calculate the output
+and ye) for each of the input patterns:
+
+Pattern: | Py Pe Py, Py
+
+Node 1: (3) 1 0 1
+
+Node 2: Oo 0 1 a .
+
+B. Explain the commonly used Artificial Neural Networks.
+
+(10)
+
+3)
 ````

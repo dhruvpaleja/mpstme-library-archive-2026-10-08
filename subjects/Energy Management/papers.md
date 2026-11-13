@@ -252,6 +252,77 @@ Q6B_ Explain the internal factors (positive and negative) with examples, that ar
 energy management in an organization.
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper 44bf5d002f5d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/ENERGY MANAGEMENT/scan0016(10).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 05/01/2013
+- Text: ocr (2 pages), mean OCR confidence 90.6
+
+````text
+SVKM’s NMIMS q
+Mukesh Patel School Of Technology Management & Enginéering
+Programme: MBA (Tech) -ALLSTREAMS Year: V_ Trimester: XIV? ?
+
+Academic Year : 2012-2013 Nz
+Subject: ENERGY MANAGEMENT Marks: 50
+Time: 11.00 a.m To 1.00 p.m
+Date: 05/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should carefully read the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1. Answers should be precise, and relevant to the context.
+
+2. Answer all questions.
+
+3. All questions carry equal marks
+
+4. Answer to each question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks
+
+Q.1. A) What are the thrust areas in Power generation undertaken by Govt.Of India under 12" Five
+year Plan period (2012-2017) to meet the target of Energy Demand? : (5 marks)
+
+B) Write a note on Energy conservation Measures taken by Bureau of Energy Efficiency (BEE)
+through various programmes. Describe Star rating for Air conditioners. (5 marks)
+
+Q2. A) Explain the significance of KYOTO Protocol in relation to reduction of Green House Gas effect.
+(GHG). State its recommendations and commitment to be achieved by member countries. (5 Marks}
+
+B) How can GHG be reduced by various efforts undertaken by Power Generation Utilities ? (5
+marks)
+
+Q.3. A) What is the need for Energy Audit in an industry? (3Marks)
+
+B) Write on the different types of Energy Audits explaining the objective of each type and the steps
+qitvolved in any one type of Audit.. (4 marks)
+
+C} Explain the role of Energy Manager. Describe a typical Energy Audit report and its content in
+particular. {3 marks)
+
+Yo
+--- page 2 ---
+Q4. A) Explain “CDM” covering the purpose as outlined in Kyoto Protocol. (5 marks)
+
+B) How is CDM contributing to GHG reductions? {Smarks)
+Q5. Write a short note on any TWO of the following : (5 marks each)
+i} Opportunities and limitations of Solar Energy in Indian context for power generation.
+
+ii) The Agriculture and Municipal DSM efforts by BEE .
+
+iii) The contribution of Wind energy to the energy sector giving the details of addition of
+generating capacity in the 12 th five year plan.
+
+iv) Write a note on Energy management system ISO 50001
+
+XOOOX XX. FRE EE RE KE, XMMXHMK
+````
+
 ## 2012-13 · Re-Exam · Trim 14 · paper f3d387d849a0
 
 - Departments: Common (all branches)
@@ -833,75 +904,4 @@ consumption. (10 marks)
 £ i
 
 Nene
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 44bf5d002f5d
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/ENERGY MANAGEMENT/scan0016(10).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 05/01/2013
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS q
-Mukesh Patel School Of Technology Management & Enginéering
-Programme: MBA (Tech) -ALLSTREAMS Year: V_ Trimester: XIV? ?
-
-Academic Year : 2012-2013 Nz
-Subject: ENERGY MANAGEMENT Marks: 50
-Time: 11.00 a.m To 1.00 p.m
-Date: 05/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should carefully read the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1. Answers should be precise, and relevant to the context.
-
-2. Answer all questions.
-
-3. All questions carry equal marks
-
-4. Answer to each question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks
-
-Q.1. A) What are the thrust areas in Power generation undertaken by Govt.Of India under 12" Five
-year Plan period (2012-2017) to meet the target of Energy Demand? : (5 marks)
-
-B) Write a note on Energy conservation Measures taken by Bureau of Energy Efficiency (BEE)
-through various programmes. Describe Star rating for Air conditioners. (5 marks)
-
-Q2. A) Explain the significance of KYOTO Protocol in relation to reduction of Green House Gas effect.
-(GHG). State its recommendations and commitment to be achieved by member countries. (5 Marks}
-
-B) How can GHG be reduced by various efforts undertaken by Power Generation Utilities ? (5
-marks)
-
-Q.3. A) What is the need for Energy Audit in an industry? (3Marks)
-
-B) Write on the different types of Energy Audits explaining the objective of each type and the steps
-qitvolved in any one type of Audit.. (4 marks)
-
-C} Explain the role of Energy Manager. Describe a typical Energy Audit report and its content in
-particular. {3 marks)
-
-Yo
---- page 2 ---
-Q4. A) Explain “CDM” covering the purpose as outlined in Kyoto Protocol. (5 marks)
-
-B) How is CDM contributing to GHG reductions? {Smarks)
-Q5. Write a short note on any TWO of the following : (5 marks each)
-i} Opportunities and limitations of Solar Energy in Indian context for power generation.
-
-ii) The Agriculture and Municipal DSM efforts by BEE .
-
-iii) The contribution of Wind energy to the energy sector giving the details of addition of
-generating capacity in the 12 th five year plan.
-
-iv) Write a note on Energy management system ISO 50001
-
-XOOOX XX. FRE EE RE KE, XMMXHMK
 ````

@@ -817,138 +817,7 @@ CO-1,2;
 BL-1,2 Write a short note on Weather Satellites and Sensing Systems. [4]
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 1224f4ccfd8a
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/CLASSICAL PHYSICS/Classical Physics, Sem-IV, Year 2022-23, Final Exan & Batch 2021-22 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/4/ 2023
-- Text: ocr (3 pages), mean OCR confidence 87.0
-
-````text
-SVKM’S NMIMS S(
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS,
-
-ENGINEERING Ri
-Academic Year: 2022-2023 :
-Program/s: BTech/MBA Tech Year: II Semester: IV
-Stream/s : Mechanical
-Subject: Classical Physics Time: 3 hrs (10.00 am to 1.00pm)
-Date: 27/4/ 2023 No. of Pages: 3
-Marks: 100
-
-Final Examination (2022-2023) | e- Examination (2024- 22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Non-programmable scientific calculators can be used.
-
-1
-Q Answer briefly: [20]
-COl a. a gs F :
-BL 1.2 Show the origin of fictitious forces due to uniformly accelerating systems. | [5]
-Co2 b. | Write a note on conservation of momentum. Show and identify the impulse [5]
-BL 2,3 momentum relation.
-CO3 c. | What will be the time period of revolution of an asteroid, given that the
-BL 23 diameter of its orbit is 70 times the diameter of Earth's orbit around the [5]
-> sun?
-CO3 d. . . ‘ ; .
-BL 12 What is an. orbit? What is medium earth orbit? [5]
-Q2 . .
-Answer the following questions: [20]
-a | What is velocity in polar coordinates?
-Col Given a polar curve C with equation r = —2 sin@
-; Polar . ; . [10]
-IBL 1,3,5 Find a Cartesian equation for C. Describe the curve geometrically.
-Determine the radius of this curve.
-b | A spacecraft moves through space with constant velocity v. The spacecraft
-CO2 encounters a stream of dust particles that embed themselves in the hull. The
-BL3 '. | dust has velocity u just before it hits. At time t the total mass of the [6]
-spacecraft is M(t). Find the external force F necessary to keep the +.
-spacecraft moving uniformly.
-CO3 c . . .
-BL 12 State what is a Geostationary orbit. [4]
-Q3 . .
-Answer the following questions: [20]
---- page 2 ---
-a | Give work energy theorem in one dimension.
-CO2
-
-A mass m is thrown vertically upward with initial speed vp. By utilizing the | [10]
-BL 1,3 ; F : vs :
-appropriate formula, determine how high does it rise, assuming the
-gravitational force to be constant, and neglecting air friction.
-CO3 b Describe L .
-BL 1,2 escribe Lagrange points. [6]
-Col C | Identify the Newton’s Laws of motion and give their appropriate [4]
-BL 3 mathematical forms.
-4
-Q Answer the following questions: [20]
-a | Looking at the following data, prove Kepler’s Third law.
-Planet Mean distance - Period’
-to sun (Units) (days)
-co3 Earth | 1 365.25
-BL 3,45 Mars | 1.524 686.95 : [10]
-Jupiter | 5.20 4332.62
-Saturn | 9.510 10759.2
-b_ | What are cross product and dot product in vectors? Construct an example
-Col with two arbitrary 3-dimensional vectors and show their dot and cross (6]
-BL 1,3 product.
-c | Find the moment of inertia of a disc of mass 3 kg and radius 50 cm about
-the following axes.
-C02 4
-BL 3 i. axis passing through the center and perpendicular to the plane of the disc, (4]
-ii. axis touching the edge and perpendicular to the plane of the disc and
-5
-Q Answer the following questions: [20]
-Col a | Show and identify the law of conservation of momentum for a system of [10]
-BL 1,3,4 particles.
-CO2 b | Derive moment of inertia of a ring around the axis of symmetry. State [6]
-BL 3 parallel axis theorem.
-CO3 ¢ | Use Kepler's Second Law to analyse and explain why planets travel faster [4]
-BL 3,4 near the sun.
-6
-Rg Answer the following questions: [20]
-C02 a | By solving for a body acted upon a central force, infer the law of equal area [10]
-BL 3,4,5 due to a central force.
---- page 3 ---
-an
-
-CO3
-
-BL 1.2 Write a note on weather sensing systems. (6]
-Col . . . . . .
-BL3.4 Explain and derive Galilean transformation for velocity and acceleration. [4]
-Q7 . .
-
-Answer the following questions: [20]
-CO3 . :
-BL 12 In understanding weather sensors, describe some ground based sensors. [10]
-Col . . . 3 ‘
-BL 23 Derive the formal solution to Kinematical equations. [6]
-(rey) What is torque? The width of a door is 40 cm. If it is released by exerting a
-BL 3.4 force of 2 N at its edge (away from the hinges). Inspect the data and [4]
-
-compute the torque produced which causes the door to open.
-
-5.
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper b51db3b895f3
+## 2023-24 · Re-Exam · Sem 4 · paper b51db3b895f3
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
@@ -1088,6 +957,137 @@ the orbital period of Venus.
 wes “ ; ° | What do you mean by satellite meteorology? List and define the methods [4]
 
 used by Meteorologists to observe the atmosphere.
+````
+
+## 2022-23 · Final + Re-Exam · Sem 4 · paper 1224f4ccfd8a
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/CLASSICAL PHYSICS/Classical Physics, Sem-IV, Year 2022-23, Final Exan & Batch 2021-22 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/4/ 2023
+- Text: ocr (3 pages), mean OCR confidence 87.0
+
+````text
+SVKM’S NMIMS S(
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS,
+
+ENGINEERING Ri
+Academic Year: 2022-2023 :
+Program/s: BTech/MBA Tech Year: II Semester: IV
+Stream/s : Mechanical
+Subject: Classical Physics Time: 3 hrs (10.00 am to 1.00pm)
+Date: 27/4/ 2023 No. of Pages: 3
+Marks: 100
+
+Final Examination (2022-2023) | e- Examination (2024- 22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Non-programmable scientific calculators can be used.
+
+1
+Q Answer briefly: [20]
+COl a. a gs F :
+BL 1.2 Show the origin of fictitious forces due to uniformly accelerating systems. | [5]
+Co2 b. | Write a note on conservation of momentum. Show and identify the impulse [5]
+BL 2,3 momentum relation.
+CO3 c. | What will be the time period of revolution of an asteroid, given that the
+BL 23 diameter of its orbit is 70 times the diameter of Earth's orbit around the [5]
+> sun?
+CO3 d. . . ‘ ; .
+BL 12 What is an. orbit? What is medium earth orbit? [5]
+Q2 . .
+Answer the following questions: [20]
+a | What is velocity in polar coordinates?
+Col Given a polar curve C with equation r = —2 sin@
+; Polar . ; . [10]
+IBL 1,3,5 Find a Cartesian equation for C. Describe the curve geometrically.
+Determine the radius of this curve.
+b | A spacecraft moves through space with constant velocity v. The spacecraft
+CO2 encounters a stream of dust particles that embed themselves in the hull. The
+BL3 '. | dust has velocity u just before it hits. At time t the total mass of the [6]
+spacecraft is M(t). Find the external force F necessary to keep the +.
+spacecraft moving uniformly.
+CO3 c . . .
+BL 12 State what is a Geostationary orbit. [4]
+Q3 . .
+Answer the following questions: [20]
+--- page 2 ---
+a | Give work energy theorem in one dimension.
+CO2
+
+A mass m is thrown vertically upward with initial speed vp. By utilizing the | [10]
+BL 1,3 ; F : vs :
+appropriate formula, determine how high does it rise, assuming the
+gravitational force to be constant, and neglecting air friction.
+CO3 b Describe L .
+BL 1,2 escribe Lagrange points. [6]
+Col C | Identify the Newton’s Laws of motion and give their appropriate [4]
+BL 3 mathematical forms.
+4
+Q Answer the following questions: [20]
+a | Looking at the following data, prove Kepler’s Third law.
+Planet Mean distance - Period’
+to sun (Units) (days)
+co3 Earth | 1 365.25
+BL 3,45 Mars | 1.524 686.95 : [10]
+Jupiter | 5.20 4332.62
+Saturn | 9.510 10759.2
+b_ | What are cross product and dot product in vectors? Construct an example
+Col with two arbitrary 3-dimensional vectors and show their dot and cross (6]
+BL 1,3 product.
+c | Find the moment of inertia of a disc of mass 3 kg and radius 50 cm about
+the following axes.
+C02 4
+BL 3 i. axis passing through the center and perpendicular to the plane of the disc, (4]
+ii. axis touching the edge and perpendicular to the plane of the disc and
+5
+Q Answer the following questions: [20]
+Col a | Show and identify the law of conservation of momentum for a system of [10]
+BL 1,3,4 particles.
+CO2 b | Derive moment of inertia of a ring around the axis of symmetry. State [6]
+BL 3 parallel axis theorem.
+CO3 ¢ | Use Kepler's Second Law to analyse and explain why planets travel faster [4]
+BL 3,4 near the sun.
+6
+Rg Answer the following questions: [20]
+C02 a | By solving for a body acted upon a central force, infer the law of equal area [10]
+BL 3,4,5 due to a central force.
+--- page 3 ---
+an
+
+CO3
+
+BL 1.2 Write a note on weather sensing systems. (6]
+Col . . . . . .
+BL3.4 Explain and derive Galilean transformation for velocity and acceleration. [4]
+Q7 . .
+
+Answer the following questions: [20]
+CO3 . :
+BL 12 In understanding weather sensors, describe some ground based sensors. [10]
+Col . . . 3 ‘
+BL 23 Derive the formal solution to Kinematical equations. [6]
+(rey) What is torque? The width of a door is 40 cm. If it is released by exerting a
+BL 3.4 force of 2 N at its edge (away from the hinges). Inspect the data and [4]
+
+compute the torque produced which causes the door to open.
+
+5.
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper 31b5b9bf5d0a
@@ -1235,6 +1235,7 @@ BL3.4 Show and examine the relation between angular momentum and torque. [4]
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/IV SEMESTER/CLASSICAL PHYSICS/Classical Physics,SemIV,Final,A.Y.2021-22.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 20 April 2022
 - Text: ocr (2 pages), mean OCR confidence 78.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS <G SA
@@ -1314,7 +1315,6 @@ considered to be 6400 km, determine orbit eccentricity.
 
 [5 M]
 
-26 2h fe 2 fe 2 fe 2c fe 2h 2c 296 24s 246 2 24 2c 2 2c 2c he 24 2k 2g 24 2 2h 2c 2k 2fs 24 ke 2h 246 2k 24 2 2h 246 i 2c 2 246 2 246 24 kg 2h 2 ole 2s ke 2k ofc af 24 oe abe 2c cobs 2 ate 24 afc 2s 24 a obs 2s ats 2k of 2k abe ofc ik 24 ake ake ae ake i ake
 
 [3
 ````

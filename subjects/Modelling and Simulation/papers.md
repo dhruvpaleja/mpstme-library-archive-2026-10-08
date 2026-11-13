@@ -999,6 +999,7 @@ Method.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/MODELLING AND SIMULATION/Modelling and Simulation, Sem-VI, Batch 2025-26, Re Exam.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: ocr (3 pages), mean OCR confidence 85.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1147,7 +1148,6 @@ SO-2: u(tt)=0, u(x,0)=sin(ax), 0<x<1 Use step sizes h=1/3, k=1/36 for x & (10 ma
 BL-4 t respectively. Perform 5 time step iterations Using Crank Nicholson
 “7 Method.
 
-Fo GR dak ii rok kd ak
 ````
 
 ## 2024-25 · Final-Exam · Sem 5 · paper 4b0d456e2e11
@@ -1725,6 +1725,7 @@ test at a 5% significance level.(Critical Chi-Square value for df= 4 at 5% is 9.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/MODELLING & SIMULATION/Mopdelling & Simulation, Sem-V, Batch 2024-25 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1798,7 +1799,6 @@ the stability of the system.
 Solve the Poisson equation tax + my = — 81xy, 0 < x < 1,0 <y< 1 given the details in the
 following figure (take h, the interval width along both the axis.as 1/3)
 » = 100 780
-a: SO- _ 0 uP uy 100 . A
 BL-3 ; 7
 0 i 2 100
 0 Og 2 Ox
@@ -2310,6 +2310,290 @@ additive=1 constant and modulus=8.
 ff
 ````
 
+## 2022-23 · Exam not stated · Sem 8 · paper 9579b7fc9d6e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Modelling and Simulation/Modelling & Simulation.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/Suly/2023
+- Text: ocr (3 pages), mean OCR confidence 86.7
+
+````text
+MPSTME
+LIBRARY
+
+SVKM'S. NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGIN GINE.
+Academic Year: 2022-2023
+
+Program: Btech /MBA tech Stream ;All streams Year: IV Semester: VII
+
+Subject: Modelling & Simulation Time: 3 hrs (10:00. am to 1.00 pm)
+Date: 05/Suly/2023 No. of Pages:0
+
+Marks: 100
+
+Re-| Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly:
+CO-1 ; a State the don’ts of mathematical modelling.
+SO-2 ; (5 marks)
+BL-4
+CO-3 ; b . (5 marks)
+SO-5 ; Discuss Allee effect in short.
+BL-2
+CO-1 ; c . . (5 marks)
+SO- 1; Explain Classification of Partial Differential equations.
+BL-2
+a d Compute 5 random numbers using Linear Congruential Method. Given the
+“al SO-2 ; multiplicative constant a=5, the additive constant b=1, consider the starting point (5 marks)
+BL-3 . or seed value as 2, and the modulus M=8.
+a Solve the Laplace equation using Gauss Seidel method (Perform 4 iterations)
+given that:
+0 1d Ww 19.7 8.6
+° ty uy uy a1
+Q2
+CO-2; 0 e ts ve 2 (10marks)
+SO-2;
+BL3 7 in is
+0 7
+0 9
+
+8.7 12.1 125
+
+\A
+--- page 2 ---
+b
+
+Identify & Explain the model represented by the graph of population for the given
+years.
+
+Hare
+mama Lynx
+CO-2; a
+SO-5; 120 (10 marks)
+BL-4 ~ 100
+thousands 8
+60
+40
+20
+1845 1855 1865 1875 1885 1895 1905 1915 1925 1935
+Q3 a
+CO-1; Classify and compare the mathematical models on S & Q axes, where S denotes (10marks)
+SO-2; the system and Q denotes the question axis.
+BL-2
+CO-2; b Develop the logistic growth model, state the assumptions , mathematical -
+SO-1; (10 marks)
+BL-6 equations along with the explanatory graphs.
+Q4 a
+. Solve the Poisson equation Uxx+ Uyy=— 81xy, 0<x<1,0<y<1 given
+ried that u(0, y) = 0, u(x, 0) = 0, u(1, y) = 100, u(x, 1) = 100 andh = 1/3. (10 marks)
+BL-6
+CO-1; b Explain Monte Carlo Simulation. List the steps of Monte Carlo Algorithm to
+SO-2; (10marks)
+BL-2 calculate area under the curve.
+Q5 a . . .
+Discuss SIR (compartmental) Model. State the assumptions , mathematical
+CO-2; (10marks)
+SO-2; expressions, graphs and expression for reproduction number.
+BL-2
+b A small grocery store has only one checkout counter. Customers arrive at the
+checkout counter at random times from 1 to 8 minutes apart. The probability of
+~ occurrence is as given in the table below. The service time vary from 1 to 6 minutes
+with the probabilities given in the table below. Simulate the system for
+10 customers & hence find average waiting time & probability of idle server
+Arrival Time | Probability Service Time Probability
+CO-2; (in Minutes) (in Minutes)
+SO-6; (10 marks)
+BL-6 1 0.125 1 0.10
+2 0.125 2 0.20
+3 0.125 3 0.30
+4 0.125 4 0.25
+5 0.125 5 0.15
+6 0.125
+I 0.125
+8 0.125
+
+2/2
+--- page 3 ---
+Random numbers for Time between arrival:
+Customer 1 2 3 4 5 6 7 8 9 10
+Random no.|- | 064 | 112 | 678 | 289 | 871 | 583 | 139 | 423 | 039
+
+Random numbers for Service time:
+Customer [1 ]2 [3 [4 [5 |6 {7 {8 |9 | 10 |
+Random no. | 84 | 18 | 87 | 81 | 06 | 91 | 79 | 09 | 64 | 38 |
+
+a Solve by relaxation method, the equation Vu = 0 inside the square bounded by
+the lines x = 0, x = 4, y = 0, y =4, given that u=x’y’ on the boundary.
+. 16 64 144 256
+a
+6 rn A B c 142
+CO-1; (10 marks)
+SO-1; D E FE
+BL-6 ° “
+0 & H i 16
+0 0 0 0 0 xX
+CO-3; b
+SO-1; Evaluate the extreme values of f(x,y)=xy subject to the constraint 4x’+y’=8. (10marks)
+BL-5S
+Q7 a
+CO-2; Discuss the architecture of Neural Network models. (10marks)
+SO-5;
+|-RL-2
+vo-3; b Explain the working of gradient descent method and hence Evaluate minimum
+SO-2; 3 (10 marks)
+BL-6 value of the function f(x,y)= x°+2y? (perform 3 iterations) starting at [ “il!
+
+3A
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper 415fa8f618c5
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Modelling and Simulation/Modelling & Simulation_415fa8f618.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jos 2023
+- Text: ocr (3 pages), mean OCR confidence 87.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2022-2023
+
+Program:Btech /MBA tech Stream ;All streams Year: IV Semester: VIII
+
+Subject: Modelling & Simulation Time: 3 hrs ( 40:00 am ty 1:00 pm)
+Date: 04 Jos 2023 No. of Pages: 3 _
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+-~ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly:
+
+a Ni SO-2; | a. | Explain the significance of p value and R?. (5 marks)
+b. | i. Classify the following Partial Differential equation (5 marks)
+CO-1; 80-1; Meat] OU y-TU yt 8Ux+7Uy=0
+BL-2 ii Find ‘m’ if the following partial differential equation is parabolic,
+UxxtmUsy+Uyy=0
+ae 380-5; | c. | Write a short note on Lotka-Volterra Model. (5 marks)
+CO-1;SO-2; | d. | Explain any one technique of random number generation? Also state the desirable (5 marks)
+| BL-4 properties of random numbers.
+a | Solve the elliptic equation Uxx + Uyy = 0, perform S iterations using Gauss Seidel
+method. Given that
+60 60 60 60
+Q
+CO-2; SO-2; 40 50 (10marks)
+BL-3
+20 40
+9 7) 20 30
+CO-2; SO-5; b
+BL-4 Explain the modelling of HIV-1. (10 marks)
+2 ‘ 10mark
+C01: 0.2 Classify the mathematical models as Black box and White box models. (10marks)
+--- page 2 ---
+BL-2
+
+CO-2: SO-1: Develop the Single species growth model, state the assumptions , mathematical
+BL-6 equations and explanatory graphs. Omang)
+Solve the Poisson’s equation V7u =8x’y" for the square mesh given in the figure with
+u(x, y) = 0 on the boundary and mesh length = 1.
+0 0 0 0
+Q4
+C03-; SO-1; 0 u, uy 0 (10 marks)
+BL-6
+0 u, a 1°
+0 0 0 0
+CO-1; SO-2; Discuss Monte Carlo Simulation. Also List the steps of Monte Carlo Algorithm to "
+BL-2 calculate volume. silane
+Identify and explain the model represented by the following graph, where Si)
+represents the susceptible population at time t, I(t) represents infected population and
+R(t) represents recovered population.
+R(t)
+Q5
+CO-2; 80-2; st) (00 ana)
+BL-2
+He)
+>
+A garment store has only one checkout counter. Customers arrive at the checkout | (10 marks) 1+
+counter at random times from 1 to 5 minutes apart. The probability of occurrence is
+as given in the table below. The service time vary from 1 to 6 minutes with the
+probabilities given in the table below. Simulate the system for 10 customers and hence
+find average waiting time and probability of idle server.
+Arrival Time | Probability Service Time | Probability
+CO-2; SO-6; (in Minutes) (in Minutes)
+BL-6
+1 0.300 1 0.20
+2 0.125 2 0.10
+3 0.125 3 0.30
+4 0.325 4 0.15
+5 0.125 5 0.20
+6 0.05
+
+2/3
+--- page 3 ---
+Random numbers for Time between arrival:
+
+Customer 1 2 3 4 5 6 7 8 9 10
+
+Random no. | - | 264 | 152 | 678 | 289 | 871 | 583 | 139 | 423 | 039
+
+Random numbers for Service time:
+
+Customer 1 2 3 4 5 6 7 8 9 10
+
+Random no. 84 | 18 | 87 | 81 | 06 | 91 | 79 | 09 | 64 | 38
+
+a_ | Solve Ux.+Uyy=0, for the following square using Relaxation method.
+_ 1000 1000 1000
+| Q6 2000 = ue 500
+0-1; SO-1; (10 marks)
+BL-6 ue U.
+2000 2 - 0
+000 500 0 °
+oni Bos | 8 Estimate the extreme values of f(x,y)=x’+y” subject to the constraint x + 2y—1=0. | (10 marks)
+Q7 a Review the Multiple Linear regression model, also state and explain any 2 statistical
+CO-2: $0-5: parameters to analyze the performance of the Multiple Linear Regression Model. (10 marks)
+BL-2 ;
+CO-3: $0-2: b_ | Evaluate minimum value of the function f(x1,x2)= x1°+x2” using Newton’s method
+BL6é. (10 marks)
+
+(perform 3 iterations) starting at [3].
+
+34
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper b23de450788d
 
 - Departments: Common (all branches)
@@ -2602,6 +2886,7 @@ BL-6
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Modelling and Simulation/Modelling & Simulation,Sem8,Final,2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 22 April 2022
 - Text: ocr (2 pages), mean OCR confidence 82.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2671,7 +2956,6 @@ CO- 1; a . a .
 Classify the models on the Q(question) axis.
 SO-2; 10
 BL-3
-CO- 2; b. c ‘ og gi 8
 50-6: Develop a model for population growth with limited resources. 10
 “Us
 BL-6
@@ -3063,6 +3347,189 @@ G)
 2 of 2
 ````
 
+## 2017-18 · Final-Exam · paper 63f56e5483ad
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/MODELLING AND SIMULATION/MODELLING AND SIMULATION (MECHATRONICS), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 27 November 2017
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) P ; Year: III Semester: V _
+Academic Year: 2017-2018
+/ Subject: Modelling and Simulation _
+‘ Marks: 70 ~~ att oF
+
+Date: 27 November 2017 Time: 2.00 3 hg te gyi: die So o nite 5 Y.
+- Durations: 3 ( gy q
+
+No. of Pages: a)
+A
+(BULL IEE "46,
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the.question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any four(Each sub-question carries 3.5 marks) (14)
+1. Explain all the classifications of simulation model.
+2. Explain any 4 different types of hypotheses.
+3. Describe SIMSCRIPT software features suitable for simulation and modeling.
+4. Briefly explain the steps of input model development.
+5. How can you avoid initial transients in output analysis for simulation models?
+
+6. With the help of any suitable example, explain reneging in queueing system.
+
+Q.2 1. Explain estimation, estimator and all of it’s properties with suitable diagrams. (7)
+
+2. Enumerate and explain various techniques for verification of simulation models. (7)
+
+Q.3.1. Briefly explain validation, verification, credibility and accreditation. What do
+you meant by 95% confidence interval? (7)
+
+pea 2. i) How do you select models without proper input data? (7)
+
+v/a
+--- page 2 ---
+ii) Input of sales volume of various product is required. Salesperson of product XYZ
+
+says that : No fewer than 1000 units and no more than 5000 units will be sold. Given
+
+her experience she believes there is a 90% chance of selling more than 2000 units, a 25%
+of selling more than 2500 units, and only a 1% chance of selling more than 4500 units.
+Translate the above information into a cumulative probability of being less than or equal to
+those goals for simulation input. Also plot the cumulative frequency for the above goals.
+
+Q 4.1 Compare Simulation languages with simulator with definitions, advantages
+and disadvantages. (7)
+
+2 ABC Ltd. is engaged in sale of footballs. Its cost per order is $400 and its carrying (7)
+cost unit is $10 per unit per annum. The company has a demand for 20,000 units
+per year. Calculate the order size, total orders required during a year, total carrying
+cost and total ordering cost for the year.
+
+Q 5.1 Kalyan Jwellers has a single cashier. During the rush hours, customers arrive at the rate of 10
+per hour. The average number of customers that can be processed by the cashier is 12 per hour.
+On the basis of this information, find the following: (7)
+
+a) Probability that the cashier is idle
+
+b) Average number of customers in the queuing system
+c) Average time a customer spends in the system
+
+d) Average number of customers in the queue
+
+e) Average time a customer spends in the queue
+
+2 State and describe different types of simulations with regard to output data analysis. (7)
+
+Q6. 1 “Exponential distributions are memoryless.” Justify the statement with proper
+
+Mathematical proof. (7)
+2. Explain Welch Algorithm with required mathematical expressions. (7)
+Q7 1. State the applications of Simulations in various fields. (Any 7) (7)
+
+2. Consider a Poisson probability distribution with an average number of occurrences of two per
+
+period. (7)
+— a. Write the appropriate Poisson distribution.
+-   b. What is the average number of occurrences in three time periods?
+pees c. Write the appropriate Poisson function to determine the probability of x occurrences in
+
+three time periods.
+d. Compute the probability of two occurrences in one time period.
+e. Compute the probability of six occurrences in three time periods.
+
+2/2
+````
+
+## 2017-18 · Re-Exam · paper 71ea59ddf2e0
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/MODELLING AND SIMULATION/MODELLING AND SIMULATION (MECHATRONICS), BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 27 November 2017
+- Text: ocr (1 page), mean OCR confidence 87.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: III Semester: V
+
+Batch: 2016-17 e #
+- Academic Year: 2017-2018
+
+/ Subject: Modelling and Simulation er cnet’
+/ L Marks: 60 ai an)
+. OF a <«
+Date: 27 November 2017 Time: 2.00 pm? to 5,00.pm»i A
+Durations: 3 {hrs}. 3; 2 A AW a
+2.
+No. of Pages: #2! KJ
+i \ ~ pF
+Re-Examination YY! Menage "A
+=
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+NB:
+1) Question No.1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all, S questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume guitable data if necessary.
+Q.1 Attempt any three. 12
+1. What are the types of simulation in output data analysis? Explain.
+2. Explain steps in Hypothesis testing.
+3. What is simulation? When it is used?
+4. What is system? Explain its components with example.
+Q.2 1. A production manager at a tire manufacturing plant has inspected the number of 6
+defective tires in twenty random samples with twenty observations each. Following are
+the number of defective tires found in each sample: Fotimpate C-1 & 3-p.
+Sample   [|1/2/3/4|5/6|7/]8{9j| 10; 11] 12] 13] 14/15] 16/17/18] 19 | 20
+Defectives | 3|/2]/1/2/1/3/3;2/1/2 |3 |2 |2 |1 {1 |2 |4 |3 [1 [1
+2. Estimate Confidence Interval & draw normal distribution curve for viscosity 6
+distribution of oil measured for water using digital viscometer for following data:
+B# (poise) | 1.45 | 1.36 | 1.35 | 1.37 | 1.42 | 1.39 | 1.40 | 1.41 | 1.38] 1.44
+f 4 7 6 2 12 10 9 6 7 10
+Q.3 1. ABC Corporation has got’a demand for particular part at 10000 units/yr. The 6
+cost/unit is Rs. 2 & it costs Rs. 36 to place an order & to process the delivery. The
+inventory carrying cost is estimated at 9% of average inventory investment. Determine
+EOQ, Optimum no. of orders to be placed/annum & minimum total cost of
+inventory /annum.
+2. State Simulation advantages & disadvantages 6
+— Q.4 1. Explain steps in simulation & model building in detail. 6
+2. State the applications of discrete event simulation. 6
+ges Q.5 1. Explain monte-carlo simulation approach. 6
+4 2. Explain general approach for generating random variables. 6
+Q.6 1. Confidence Interval in brief, also explain CI for 68%, 95% & 99%. 6
+2. Explain generating discrete random variables. 6
+Q.7 1. Explain the types of errors in hypothesis testing. 6
+2, Explain control charts for variables. 6
+
+/;
+````
+
 ## 2017-18 · Re-Exam · paper 3ba69654e19b
 
 - Departments: Mechatronics
@@ -3234,75 +3701,6 @@ validation? (6)
 4/0.
 ````
 
-## 2016-17 · Re-Exam · paper 71ea59ddf2e0
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/MODELLING AND SIMULATION/MODELLING AND SIMULATION (MECHATRONICS), BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 27 November 2017
-- Text: ocr (1 page), mean OCR confidence 87.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: III Semester: V
-
-Batch: 2016-17 e #
-- Academic Year: 2017-2018
-
-/ Subject: Modelling and Simulation er cnet’
-/ L Marks: 60 ai an)
-. OF a <«
-Date: 27 November 2017 Time: 2.00 pm? to 5,00.pm»i A
-Durations: 3 {hrs}. 3; 2 A AW a
-2.
-No. of Pages: #2! KJ
-i \ ~ pF
-Re-Examination YY! Menage "A
-=
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-NB:
-1) Question No.1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all, S questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume guitable data if necessary.
-Q.1 Attempt any three. 12
-1. What are the types of simulation in output data analysis? Explain.
-2. Explain steps in Hypothesis testing.
-3. What is simulation? When it is used?
-4. What is system? Explain its components with example.
-Q.2 1. A production manager at a tire manufacturing plant has inspected the number of 6
-defective tires in twenty random samples with twenty observations each. Following are
-the number of defective tires found in each sample: Fotimpate C-1 & 3-p.
-Sample   [|1/2/3/4|5/6|7/]8{9j| 10; 11] 12] 13] 14/15] 16/17/18] 19 | 20
-Defectives | 3|/2]/1/2/1/3/3;2/1/2 |3 |2 |2 |1 {1 |2 |4 |3 [1 [1
-2. Estimate Confidence Interval & draw normal distribution curve for viscosity 6
-distribution of oil measured for water using digital viscometer for following data:
-B# (poise) | 1.45 | 1.36 | 1.35 | 1.37 | 1.42 | 1.39 | 1.40 | 1.41 | 1.38] 1.44
-f 4 7 6 2 12 10 9 6 7 10
-Q.3 1. ABC Corporation has got’a demand for particular part at 10000 units/yr. The 6
-cost/unit is Rs. 2 & it costs Rs. 36 to place an order & to process the delivery. The
-inventory carrying cost is estimated at 9% of average inventory investment. Determine
-EOQ, Optimum no. of orders to be placed/annum & minimum total cost of
-inventory /annum.
-2. State Simulation advantages & disadvantages 6
-— Q.4 1. Explain steps in simulation & model building in detail. 6
-2. State the applications of discrete event simulation. 6
-ges Q.5 1. Explain monte-carlo simulation approach. 6
-4 2. Explain general approach for generating random variables. 6
-Q.6 1. Confidence Interval in brief, also explain CI for 68%, 95% & 99%. 6
-2. Explain generating discrete random variables. 6
-Q.7 1. Explain the types of errors in hypothesis testing. 6
-2, Explain control charts for variables. 6
-
-/;
-````
-
 ## 2016-17 · Re-Exam · paper 14e3cd30e25b
 
 - Departments: Mechatronics
@@ -3468,402 +3866,4 @@ Q.7| 1. State advantages & toolkits of discrete event simulation method. 6
 2. Explain the techniques for increasing model validity & credibility. 6
 
 he
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 9579b7fc9d6e
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Modelling and Simulation/Modelling & Simulation.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/Suly/2023
-- Text: ocr (3 pages), mean OCR confidence 86.7
-
-````text
-MPSTME
-LIBRARY
-
-SVKM'S. NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGIN GINE.
-Academic Year: 2022-2023
-
-Program: Btech /MBA tech Stream ;All streams Year: IV Semester: VII
-
-Subject: Modelling & Simulation Time: 3 hrs (10:00. am to 1.00 pm)
-Date: 05/Suly/2023 No. of Pages:0
-
-Marks: 100
-
-Re-| Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly:
-CO-1 ; a State the don’ts of mathematical modelling.
-SO-2 ; (5 marks)
-BL-4
-CO-3 ; b . (5 marks)
-SO-5 ; Discuss Allee effect in short.
-BL-2
-CO-1 ; c . . (5 marks)
-SO- 1; Explain Classification of Partial Differential equations.
-BL-2
-a d Compute 5 random numbers using Linear Congruential Method. Given the
-“al SO-2 ; multiplicative constant a=5, the additive constant b=1, consider the starting point (5 marks)
-BL-3 . or seed value as 2, and the modulus M=8.
-a Solve the Laplace equation using Gauss Seidel method (Perform 4 iterations)
-given that:
-0 1d Ww 19.7 8.6
-° ty uy uy a1
-Q2
-CO-2; 0 e ts ve 2 (10marks)
-SO-2;
-BL3 7 in is
-0 7
-0 9
-
-8.7 12.1 125
-
-\A
---- page 2 ---
-b
-
-Identify & Explain the model represented by the graph of population for the given
-years.
-
-Hare
-mama Lynx
-CO-2; a
-SO-5; 120 (10 marks)
-BL-4 ~ 100
-thousands 8
-60
-40
-20
-1845 1855 1865 1875 1885 1895 1905 1915 1925 1935
-Q3 a
-CO-1; Classify and compare the mathematical models on S & Q axes, where S denotes (10marks)
-SO-2; the system and Q denotes the question axis.
-BL-2
-CO-2; b Develop the logistic growth model, state the assumptions , mathematical -
-SO-1; (10 marks)
-BL-6 equations along with the explanatory graphs.
-Q4 a
-. Solve the Poisson equation Uxx+ Uyy=— 81xy, 0<x<1,0<y<1 given
-ried that u(0, y) = 0, u(x, 0) = 0, u(1, y) = 100, u(x, 1) = 100 andh = 1/3. (10 marks)
-BL-6
-CO-1; b Explain Monte Carlo Simulation. List the steps of Monte Carlo Algorithm to
-SO-2; (10marks)
-BL-2 calculate area under the curve.
-Q5 a . . .
-Discuss SIR (compartmental) Model. State the assumptions , mathematical
-CO-2; (10marks)
-SO-2; expressions, graphs and expression for reproduction number.
-BL-2
-b A small grocery store has only one checkout counter. Customers arrive at the
-checkout counter at random times from 1 to 8 minutes apart. The probability of
-~ occurrence is as given in the table below. The service time vary from 1 to 6 minutes
-with the probabilities given in the table below. Simulate the system for
-10 customers & hence find average waiting time & probability of idle server
-Arrival Time | Probability Service Time Probability
-CO-2; (in Minutes) (in Minutes)
-SO-6; (10 marks)
-BL-6 1 0.125 1 0.10
-2 0.125 2 0.20
-3 0.125 3 0.30
-4 0.125 4 0.25
-5 0.125 5 0.15
-6 0.125
-I 0.125
-8 0.125
-
-2/2
---- page 3 ---
-Random numbers for Time between arrival:
-Customer 1 2 3 4 5 6 7 8 9 10
-Random no.|- | 064 | 112 | 678 | 289 | 871 | 583 | 139 | 423 | 039
-
-Random numbers for Service time:
-Customer [1 ]2 [3 [4 [5 |6 {7 {8 |9 | 10 |
-Random no. | 84 | 18 | 87 | 81 | 06 | 91 | 79 | 09 | 64 | 38 |
-
-a Solve by relaxation method, the equation Vu = 0 inside the square bounded by
-the lines x = 0, x = 4, y = 0, y =4, given that u=x’y’ on the boundary.
-. 16 64 144 256
-a
-6 rn A B c 142
-CO-1; (10 marks)
-SO-1; D E FE
-BL-6 ° “
-0 & H i 16
-0 0 0 0 0 xX
-CO-3; b
-SO-1; Evaluate the extreme values of f(x,y)=xy subject to the constraint 4x’+y’=8. (10marks)
-BL-5S
-Q7 a
-CO-2; Discuss the architecture of Neural Network models. (10marks)
-SO-5;
-|-RL-2
-vo-3; b Explain the working of gradient descent method and hence Evaluate minimum
-SO-2; 3 (10 marks)
-BL-6 value of the function f(x,y)= x°+2y? (perform 3 iterations) starting at [ “il!
-
-3A
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 415fa8f618c5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Modelling and Simulation/Modelling & Simulation_415fa8f618.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jos 2023
-- Text: ocr (3 pages), mean OCR confidence 87.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-Academic Year: 2022-2023
-
-Program:Btech /MBA tech Stream ;All streams Year: IV Semester: VIII
-
-Subject: Modelling & Simulation Time: 3 hrs ( 40:00 am ty 1:00 pm)
-Date: 04 Jos 2023 No. of Pages: 3 _
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
--~ 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly:
-
-a Ni SO-2; | a. | Explain the significance of p value and R?. (5 marks)
-b. | i. Classify the following Partial Differential equation (5 marks)
-CO-1; 80-1; Meat] OU y-TU yt 8Ux+7Uy=0
-BL-2 ii Find ‘m’ if the following partial differential equation is parabolic,
-UxxtmUsy+Uyy=0
-ae 380-5; | c. | Write a short note on Lotka-Volterra Model. (5 marks)
-CO-1;SO-2; | d. | Explain any one technique of random number generation? Also state the desirable (5 marks)
-| BL-4 properties of random numbers.
-a | Solve the elliptic equation Uxx + Uyy = 0, perform S iterations using Gauss Seidel
-method. Given that
-60 60 60 60
-Q
-CO-2; SO-2; 40 50 (10marks)
-BL-3
-20 40
-9 7) 20 30
-CO-2; SO-5; b
-BL-4 Explain the modelling of HIV-1. (10 marks)
-2 ‘ 10mark
-C01: 0.2 Classify the mathematical models as Black box and White box models. (10marks)
---- page 2 ---
-BL-2
-
-CO-2: SO-1: Develop the Single species growth model, state the assumptions , mathematical
-BL-6 equations and explanatory graphs. Omang)
-Solve the Poisson’s equation V7u =8x’y" for the square mesh given in the figure with
-u(x, y) = 0 on the boundary and mesh length = 1.
-0 0 0 0
-Q4
-C03-; SO-1; 0 u, uy 0 (10 marks)
-BL-6
-0 u, a 1°
-0 0 0 0
-CO-1; SO-2; Discuss Monte Carlo Simulation. Also List the steps of Monte Carlo Algorithm to "
-BL-2 calculate volume. silane
-Identify and explain the model represented by the following graph, where Si)
-represents the susceptible population at time t, I(t) represents infected population and
-R(t) represents recovered population.
-R(t)
-Q5
-CO-2; 80-2; st) (00 ana)
-BL-2
-He)
->
-A garment store has only one checkout counter. Customers arrive at the checkout | (10 marks) 1+
-counter at random times from 1 to 5 minutes apart. The probability of occurrence is
-as given in the table below. The service time vary from 1 to 6 minutes with the
-probabilities given in the table below. Simulate the system for 10 customers and hence
-find average waiting time and probability of idle server.
-Arrival Time | Probability Service Time | Probability
-CO-2; SO-6; (in Minutes) (in Minutes)
-BL-6
-1 0.300 1 0.20
-2 0.125 2 0.10
-3 0.125 3 0.30
-4 0.325 4 0.15
-5 0.125 5 0.20
-6 0.05
-
-2/3
---- page 3 ---
-Random numbers for Time between arrival:
-
-Customer 1 2 3 4 5 6 7 8 9 10
-
-Random no. | - | 264 | 152 | 678 | 289 | 871 | 583 | 139 | 423 | 039
-
-Random numbers for Service time:
-
-Customer 1 2 3 4 5 6 7 8 9 10
-
-Random no. 84 | 18 | 87 | 81 | 06 | 91 | 79 | 09 | 64 | 38
-
-a_ | Solve Ux.+Uyy=0, for the following square using Relaxation method.
-_ 1000 1000 1000
-| Q6 2000 = ue 500
-0-1; SO-1; (10 marks)
-BL-6 ue U.
-2000 2 - 0
-000 500 0 °
-oni Bos | 8 Estimate the extreme values of f(x,y)=x’+y” subject to the constraint x + 2y—1=0. | (10 marks)
-Q7 a Review the Multiple Linear regression model, also state and explain any 2 statistical
-CO-2: $0-5: parameters to analyze the performance of the Multiple Linear Regression Model. (10 marks)
-BL-2 ;
-CO-3: $0-2: b_ | Evaluate minimum value of the function f(x1,x2)= x1°+x2” using Newton’s method
-BL6é. (10 marks)
-
-(perform 3 iterations) starting at [3].
-
-34
-````
-
-## Year not stated · Final-Exam · paper 63f56e5483ad
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/MODELLING AND SIMULATION/MODELLING AND SIMULATION (MECHATRONICS), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 27 November 2017
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) P ; Year: III Semester: V _
-Academic Year: 2017-2018
-/ Subject: Modelling and Simulation _
-‘ Marks: 70 ~~ att oF
-
-Date: 27 November 2017 Time: 2.00 3 hg te gyi: die So o nite 5 Y.
-- Durations: 3 ( gy q
-
-No. of Pages: a)
-A
-(BULL IEE "46,
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the.question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt any four(Each sub-question carries 3.5 marks) (14)
-1. Explain all the classifications of simulation model.
-2. Explain any 4 different types of hypotheses.
-3. Describe SIMSCRIPT software features suitable for simulation and modeling.
-4. Briefly explain the steps of input model development.
-5. How can you avoid initial transients in output analysis for simulation models?
-
-6. With the help of any suitable example, explain reneging in queueing system.
-
-Q.2 1. Explain estimation, estimator and all of it’s properties with suitable diagrams. (7)
-
-2. Enumerate and explain various techniques for verification of simulation models. (7)
-
-Q.3.1. Briefly explain validation, verification, credibility and accreditation. What do
-you meant by 95% confidence interval? (7)
-
-pea 2. i) How do you select models without proper input data? (7)
-
-v/a
---- page 2 ---
-ii) Input of sales volume of various product is required. Salesperson of product XYZ
-
-says that : No fewer than 1000 units and no more than 5000 units will be sold. Given
-
-her experience she believes there is a 90% chance of selling more than 2000 units, a 25%
-of selling more than 2500 units, and only a 1% chance of selling more than 4500 units.
-Translate the above information into a cumulative probability of being less than or equal to
-those goals for simulation input. Also plot the cumulative frequency for the above goals.
-
-Q 4.1 Compare Simulation languages with simulator with definitions, advantages
-and disadvantages. (7)
-
-2 ABC Ltd. is engaged in sale of footballs. Its cost per order is $400 and its carrying (7)
-cost unit is $10 per unit per annum. The company has a demand for 20,000 units
-per year. Calculate the order size, total orders required during a year, total carrying
-cost and total ordering cost for the year.
-
-Q 5.1 Kalyan Jwellers has a single cashier. During the rush hours, customers arrive at the rate of 10
-per hour. The average number of customers that can be processed by the cashier is 12 per hour.
-On the basis of this information, find the following: (7)
-
-a) Probability that the cashier is idle
-
-b) Average number of customers in the queuing system
-c) Average time a customer spends in the system
-
-d) Average number of customers in the queue
-
-e) Average time a customer spends in the queue
-
-2 State and describe different types of simulations with regard to output data analysis. (7)
-
-Q6. 1 “Exponential distributions are memoryless.” Justify the statement with proper
-
-Mathematical proof. (7)
-2. Explain Welch Algorithm with required mathematical expressions. (7)
-Q7 1. State the applications of Simulations in various fields. (Any 7) (7)
-
-2. Consider a Poisson probability distribution with an average number of occurrences of two per
-
-period. (7)
-— a. Write the appropriate Poisson distribution.
--   b. What is the average number of occurrences in three time periods?
-pees c. Write the appropriate Poisson function to determine the probability of x occurrences in
-
-three time periods.
-d. Compute the probability of two occurrences in one time period.
-e. Compute the probability of six occurrences in three time periods.
-
-2/2
 ````

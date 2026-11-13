@@ -1,6 +1,6 @@
 # Foundations of Machine Learning: question papers in full
 
-7 unique papers · 2022-23 to 2025-26 · Data Science
+7 unique papers · 2023-24 to 2025-26 · Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -352,6 +352,7 @@ positions with your manual results.
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM V/Foundations of Machine Learning/Foundations of Machine Learning, 2024-25.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS SP
@@ -515,7 +516,6 @@ import numpy as np :
 
 ey
 
-eigvalues, eigvector=np.linalg.eig(V)
 
 foal
 
@@ -630,6 +630,7 @@ Write down the python code in your answer book.
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/DATA SCIENCE/SEM V/Foundations of Machine Learning/Foundations of Machine Learning , Re-exam 2022-23,2023-24,2024-25.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (8 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -827,7 +828,6 @@ Sw2=
 Sw = Swl+Sw2
 
 A=np.dot()
-eigvalues,eigvector=np.linalg.eig(A)
 
 B How can you implement a simple Artificial Neural Network (ANN) model
 
@@ -947,7 +947,7 @@ Write down the python code in your answer book.
 
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 5 · paper 3288d27c83a3
+## 2023-24 · Final + Re-Exam · Sem 5 · paper 3288d27c83a3
 
 - Departments: Data Science
 - Programmes: MBA TECH / DATA SCIENCE
@@ -1121,7 +1121,7 @@ from scipy import ndimage
 from scipy.linalg import svd
 ````
 
-## 2022-23 · Re-Exam · Sem 5 · paper 4d4a40df9d5d
+## 2023-24 · Re-Exam · Sem 5 · paper 4d4a40df9d5d
 
 - Departments: Data Science
 - Programmes: MBA TECH / DATA SCIENCE

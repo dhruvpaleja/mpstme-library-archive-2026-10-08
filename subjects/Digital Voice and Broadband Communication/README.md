@@ -16,11 +16,11 @@ Also filed as: `DIGITAL VOICE AND BROAD BAND COMMUNICATION`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006, MBATech (ELECTRONICS TELECOMMUNICATION | ANS_Digital Voice and Broadband Communication(702EX0C027)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Digital Voice and Broadband Communication(702EX0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / EXTC | Digital Voice Broadban Communication, Sem-VII, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech EXTC 7006, MBATech (ELECTRONICS TELECOMMUNICATION | QP_Digital Voice and Broadband Communication(702EX0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Digital Voice and Broadband Communication(702EX0C027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006, MBATech (ELECTRONICS TELECOMMUNICATION | ANS_Digital Voice and Broadband Communication(702EX0C027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Digital Voice and Broadband Communication(702EX0C027)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / EXTC | Digital Voice and Broadband Communication, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / EXTC | Digital Voice and Broadband Communication, Sem-VII, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / EXTC | Digital Voice and Broadband Commn,Final 2023-24.pdf |

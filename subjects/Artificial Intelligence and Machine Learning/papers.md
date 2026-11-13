@@ -1,8 +1,196 @@
 # Artificial Intelligence and Machine Learning: question papers in full
 
-19 unique papers · 2022-23 to 2025-26 · Mechatronics, Artificial Intelligence
+19 unique papers · 2021-22 to 2025-26 · Mechatronics, Artificial Intelligence
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Exam not stated · Sem 6 · paper 4688239177cd
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/ARTIFICIAL INTELLIGENCE & MACHINE LEARNING/B Tech, Artificial Intelligence and Machine Learning, Sem-VI, Batch 2022-23 & 202_33421f82.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 July 2026
+- Text: ocr (4 pages), mean OCR confidence 83.8
+
+````text
+os
+
+_ Program: B Tech (MXTC)
+
+Subject: Artificial Intelligence and Machine Learning
+
+Date : 01 July 2026
+
+Marks: 100
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Academic Year: 2025-26 ~
+
+Year: Il Semester “VI
+
+Time: 10.00 am to 1.00 pm (3 hrs)
+
+No. of Pages:_O4-
+
+Re-Exam ( 2022-23/2025-26)
+
+Instructions:
+
+This question paper contains 4 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question No.1 is compulsory.
+
+5. Out of remaining questions, attempt any 4 questions.
+
+6. Inall 5 questions to be attempted.
+
+7. All questions carry equal marks.
+
+8. Assume suitable data if necessary.
+
+1
+: Answer briefly: . {20]
+CO-5; | a ; : :
+SO-l; Briefly explain Fuzzy C-means algorithm [5]
+BL-2
+CO-1; | b. .
+SO-1; Define AI with respect to all 4 quadrants [5]
+BL-I
+CO-4; | ¢. [5]
+SO-1; Explain the Hidden Markovian model using an appropriate example.
+BL-2
+CO-2; | d. a, ; . ; [5]
+SO-1; Explain any | activation function used in Back Propagation Algorithm
+BL-2
+a
+a | Compare Informed Search and Uninformed Search.
+For the given initial and goal state of 8-puzzle problem, determine states, actions,
+goal test and path cost as per atomic agent representation.
+Q2 aime B
+CO-1; 7 4 1 2 [8]
+SO-1; = : Srey rae
+BL-2,5 5 6 3 4 |] 5
+| 8B 1 6 7 |} By
+Start State Goal State
+
+FO Re
+--- page 2 ---
+os
+
+~
+
+b
+
+Investigate the relationship between the age and price for used SUVs sold in the last
+year by a SUV dealership company. Consider the following data set for the same
+
+SUV Age(In years) Price(In Dollars)
+
+Ao ete
+
+4 6300
+4 5800
+CO-S: 5 5700
+. 5 4500 [12]
+SO-1;
+BL-4 vi 4500
+vi 4200
+8 4100
+3 3100
+10 2100
+11 2500
+12 2200
+as
+Q3 a ,
+Son Explain Markovian model with suitable illustration. [5]
+BL-2
+CO-2: b_ | Construct a Python code to develop a perceptron for OR function with bipolar inputs
+SO-1; and targets [15]
+BL-6
+Q4 a
+CO-5- Define support vector machine? Explain the trade-off of hard margin and soft margin 8]
+SO-1; in SVM while determining the optimal hyperplane
+BL-1,2
+a b | Consider the following dataset and investigate whether one can play tennis(target) or
+SO- 1 not using Naive Bayes Classifier for the following set of attributes- (Outlook = {12] a
+BL- 4 ,
+
+Sunny, Temperature = Cool, Humidity = High, Wind = Strong)
+
+FO 2 GE
+--- page 3 ---
+Day Outlook Temperature Humidity . Wind — PlayTennis
+
+DI Sunny Hot High Weak No a
+D2 Sunny Hot High Strong No o,
+D3 Overcast Hot High Weak Yes ;
+D4 Rain Mild High Weak Yes
+DS Rain Cool Normal Weak Yes
+D6 Rain Cool Normal — Strong No
+D7 Overcast Cool Normal Strong Yes
+
+: D8 Sunny Mild High Weak No
+
+- D9 Sunny Cool Normal Weak Yes
+
+= B10 Rain Mild Normal Weak Yes
+Dit Sunny Mild Normal Strong Yes
+D12 Overcast Mild High Strong Yes
+
+Lic
+=| \
+;
+Q5 a .
+en Briefly describe each step of the Back Propagation Algorithm. [8]
+e BL-2
+b 1. Consider the following Fuzzy sets
+| A = {(x1 0.8), (x2 ,0.4), (x3 ,0.1)}, B = {(x1 ,0.35), (x2 ,0.75), (x3 ,0.8)}
+| Solvea. AU B b. ANB
+il. i. Consider a set P= { P;, Pz, P3, P,} of four variety of rice plants, set D = {
+| D,, Dz, D3 , D4} of various diseased affecting the plants and S = { S,, Sz, S354} be
+the common symptoms of the diseases. Let R be a relation on P X D and S bea
+| @ro.;. relation on D X S. Calculate the association of the plants with the different symptoms 12]
+SO-1; of the diseases using max-min composition. : ;
+BL-3,6
+Bg |
+|
+sa
+- iil. rove De Mogan s Laws under propositional logic
+—. Q6 a
+CO-2: Construct a Python code to develop Me-Culloch Pitts Neuron model for OR function [15]
+SO-1; using bipolar inputs.
+BL-6 :
+is t
+; CO-3; | b. | What is defuzzification. Provide a brief explanation of different methods of 5
+: aa [5]
+4 SO-1; defuzzification.
+
+FOI IOI 2 AIO i
+‘
+--- page 4 ---
+BL-2
+
+Q7
+CO-
+5,4,1;
+SO-1;
+BL-2
+
+i. Briefly explain Logistic Regression as a binary classifier
+ii. What are the applications of evolutionary robotics
+
+ui. Briefly explain any 1 type of informed search technique.
+
+[20]
+
+FO GR kok
+.
+````
 
 ## 2025-26 · Final-Exam · Sem 1 · paper 53e295acd3f7
 
@@ -1043,195 +1231,7 @@ II. | What metrics would you use to evaluate the model’s performance in
 predicting loan defaults? Consider trade-offs between metrics as well.
 ````
 
-## 2022-23 · Exam not stated · Sem 6 · paper 4688239177cd
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/ARTIFICIAL INTELLIGENCE & MACHINE LEARNING/B Tech, Artificial Intelligence and Machine Learning, Sem-VI, Batch 2022-23 & 202_33421f82.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 July 2026
-- Text: ocr (4 pages), mean OCR confidence 83.8
-
-````text
-os
-
-_ Program: B Tech (MXTC)
-
-Subject: Artificial Intelligence and Machine Learning
-
-Date : 01 July 2026
-
-Marks: 100
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Academic Year: 2025-26 ~
-
-Year: Il Semester “VI
-
-Time: 10.00 am to 1.00 pm (3 hrs)
-
-No. of Pages:_O4-
-
-Re-Exam ( 2022-23/2025-26)
-
-Instructions:
-
-This question paper contains 4 pages.
-
-2. Answer to each new question to be started on a fresh page.
-
-3. Figure in right hand side indicates full marks
-
-4. Question No.1 is compulsory.
-
-5. Out of remaining questions, attempt any 4 questions.
-
-6. Inall 5 questions to be attempted.
-
-7. All questions carry equal marks.
-
-8. Assume suitable data if necessary.
-
-1
-: Answer briefly: . {20]
-CO-5; | a ; : :
-SO-l; Briefly explain Fuzzy C-means algorithm [5]
-BL-2
-CO-1; | b. .
-SO-1; Define AI with respect to all 4 quadrants [5]
-BL-I
-CO-4; | ¢. [5]
-SO-1; Explain the Hidden Markovian model using an appropriate example.
-BL-2
-CO-2; | d. a, ; . ; [5]
-SO-1; Explain any | activation function used in Back Propagation Algorithm
-BL-2
-a
-a | Compare Informed Search and Uninformed Search.
-For the given initial and goal state of 8-puzzle problem, determine states, actions,
-goal test and path cost as per atomic agent representation.
-Q2 aime B
-CO-1; 7 4 1 2 [8]
-SO-1; = : Srey rae
-BL-2,5 5 6 3 4 |] 5
-| 8B 1 6 7 |} By
-Start State Goal State
-
-FO Re
---- page 2 ---
-os
-
-~
-
-b
-
-Investigate the relationship between the age and price for used SUVs sold in the last
-year by a SUV dealership company. Consider the following data set for the same
-
-SUV Age(In years) Price(In Dollars)
-
-Ao ete
-
-4 6300
-4 5800
-CO-S: 5 5700
-. 5 4500 [12]
-SO-1;
-BL-4 vi 4500
-vi 4200
-8 4100
-3 3100
-10 2100
-11 2500
-12 2200
-as
-Q3 a ,
-Son Explain Markovian model with suitable illustration. [5]
-BL-2
-CO-2: b_ | Construct a Python code to develop a perceptron for OR function with bipolar inputs
-SO-1; and targets [15]
-BL-6
-Q4 a
-CO-5- Define support vector machine? Explain the trade-off of hard margin and soft margin 8]
-SO-1; in SVM while determining the optimal hyperplane
-BL-1,2
-a b | Consider the following dataset and investigate whether one can play tennis(target) or
-SO- 1 not using Naive Bayes Classifier for the following set of attributes- (Outlook = {12] a
-BL- 4 ,
-
-Sunny, Temperature = Cool, Humidity = High, Wind = Strong)
-
-FO 2 GE
---- page 3 ---
-Day Outlook Temperature Humidity . Wind — PlayTennis
-
-DI Sunny Hot High Weak No a
-D2 Sunny Hot High Strong No o,
-D3 Overcast Hot High Weak Yes ;
-D4 Rain Mild High Weak Yes
-DS Rain Cool Normal Weak Yes
-D6 Rain Cool Normal — Strong No
-D7 Overcast Cool Normal Strong Yes
-
-: D8 Sunny Mild High Weak No
-
-- D9 Sunny Cool Normal Weak Yes
-
-= B10 Rain Mild Normal Weak Yes
-Dit Sunny Mild Normal Strong Yes
-D12 Overcast Mild High Strong Yes
-
-Lic
-=| \
-;
-Q5 a .
-en Briefly describe each step of the Back Propagation Algorithm. [8]
-e BL-2
-b 1. Consider the following Fuzzy sets
-| A = {(x1 0.8), (x2 ,0.4), (x3 ,0.1)}, B = {(x1 ,0.35), (x2 ,0.75), (x3 ,0.8)}
-| Solvea. AU B b. ANB
-il. i. Consider a set P= { P;, Pz, P3, P,} of four variety of rice plants, set D = {
-| D,, Dz, D3 , D4} of various diseased affecting the plants and S = { S,, Sz, S354} be
-the common symptoms of the diseases. Let R be a relation on P X D and S bea
-| @ro.;. relation on D X S. Calculate the association of the plants with the different symptoms 12]
-SO-1; of the diseases using max-min composition. : ;
-BL-3,6
-Bg |
-|
-sa
-- iil. rove De Mogan s Laws under propositional logic
-—. Q6 a
-CO-2: Construct a Python code to develop Me-Culloch Pitts Neuron model for OR function [15]
-SO-1; using bipolar inputs.
-BL-6 :
-is t
-; CO-3; | b. | What is defuzzification. Provide a brief explanation of different methods of 5
-: aa [5]
-4 SO-1; defuzzification.
-
-FOI IOI 2 AIO i
-‘
---- page 4 ---
-BL-2
-
-Q7
-CO-
-5,4,1;
-SO-1;
-BL-2
-
-i. Briefly explain Logistic Regression as a binary classifier
-ii. What are the applications of evolutionary robotics
-
-ui. Briefly explain any 1 type of informed search technique.
-
-[20]
-
-FO GR kok
-.
-````
-
-## 2022-23 · Final + Re-Exam · Sem 6 · paper f621727122f6
+## 2023-24 · Final + Re-Exam · Sem 6 · paper f621727122f6
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -1710,6 +1710,7 @@ oe iii. Briefly explain K- means clustering
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-VI/ARTIFICIAL INTELLIGENCE & MACHINE LEARNING/Artificial Intelligence & Machine Learning, Sem-VI, Year 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1829,7 +1830,6 @@ issues
 4 Yes No Yes Yes
 Q5 " =
 ~ 5 Yes Yes Yes Yes
-aL 6 N Y N N [12]
 7>SO-1; ie) es oO ce)
 BL-5 7 Yes No Yes Yes
 8 Yes No Yes Yes
@@ -1985,7 +1985,7 @@ BL2. iii. Briefly explain ID3 algorithm for formulation of decision trees
 (3)
 ````
 
-## Year not stated · Exam not stated · Sem 8 · paper 6edbff854905
+## 2021-22 · Exam not stated · Sem 8 · paper 6edbff854905
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS

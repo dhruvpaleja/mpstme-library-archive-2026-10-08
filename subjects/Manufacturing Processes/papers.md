@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/MANUFACTURING PROCESSES/Manufacturing Processes, Sem-III, Year 2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: ocr (2 pages), mean OCR confidence 89.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -119,7 +120,6 @@ CO-5; .
 SO-1; (d) | How does a lathe operate and what is its underlying principle of working? [05]
 BL-1
 
-Sek cdokk 2 aki deka deka
 
 —~
 ````
@@ -456,6 +456,7 @@ Neutral flame and Carburising flame
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/MANUFACTURING PROCESSES/Manufacturing Processes, Sem-V, Batch 2024-25, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -506,7 +507,6 @@ Explain briefly the following properties of moulding sand :
 i
 < (a) | G) Permeability. (ii) Strength or cohesiveness. (iii) Refractoriness. [10]
 CO-1;
-SO-1; (iv) Plasticity or flowability. (v) Collapsibility. (vi) Adhesiveness.
 BL-2
 
 (vii) Coefficient of expansion. (viii) Chemical resistivity.
@@ -743,6 +743,102 @@ With neat diagram, explain construction of horizontal boring machine. [06]
 BL-2
 ````
 
+## 2023-24 · Re-Exam · Sem 5 · paper 833bde9538cf
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/MANUFACTURING PROCESSES/Manufacturing Processes, Sem-V, Batch 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 87.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2023-2024 oe
+Program/s: B.Tech Year: III Semester: V
+Stream/s ; Mechatronics
+Subject: Manufacturing Processes . Time: 03 hrs Q:00mto 5:00pm
+Date: 43) 02/2094 . No. of Pages::_ Oe?
+Marks: 100
+
+Re-Examination [Reexonm (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: [20]
+co-1; Name the pattern allowances which can be quantitatively specified. Write a
+so-2; | (a |. [05]
+’ brief note on one of them.
+BL-2
+CO-1;
+SO- 2; (b) | Explain forging defects, their causes and remedies. [05]
+BL-2 ‘
+CO- 3;
+SO-2; (c) | Describe the principle of plasma arc welding. [05]
+BL-2
+CO-2 ; (a) Given a specific machining task, recommend the most suitable type of lathe (051
+ND ; and justify your choice.
+
+Illustrate with a neat sketch the various tool angles used in single point
+@ | | [10]
+cutting tools.
+CO-2;
+
+SO-1; Compare and contrast hot and cold extrusion processes suitable for a given
+
+: (b) [10]
+Bld application.
+--- page 2 ---
+re
+(a) | Given a specific casting scenario, recommend the most suitable type-of [10]
+Q3 molding sand and justify your choice based on its properties.
+co-1; : —z ;
+50-2: Explain the key principles of gas tungsten arc welding (GTAW) and how 110]
+BL-3 (b) | the process works. Additionally, include a simple sketch to illustrate its
+basic setup. .
+Sketch a gating system for a simple casting, and explain the function of
+Q4 la) - gating sy: ip. g P [10]
+cO-1; each element.
+So-1; (b) What is wire drawing? Analyze the reasons why wire drawing is a [10]
+BL-3
+preferred method for manufacturing certain components.
+Qs (a) | What are the advantages of electron beam welding over arc welding? Give [10]
+co-3: specific applications of electron beam welding process.
+. 3 (b) | Describe the advantages of using a quick return mechanism in a [10]
+mechanical shaper machine.
+Q6 (a) Enumerate the step-by-step procedure involved in investment casting [10]
+a
+CO-1: process. State its advantages and limitations.
+SO-1; (b) Draw the schematic diagram of principle of thread cutting on a lathe & (10)
+BL-4
+explain the same also describe the different types of threads.
+(a) | List out any two casting defects and their remedies. r [05]
+Q7 (b) | Write briefly about the rolling defects with neat sketches. [05]
+-2; ; : : 5s
+spe. (c) | Illuminate any three welding defects and their remedies. [05]
+BL-5 "What are the conditions that would allow a continuous chip to be formed -
+
+(d)
+
+in metal cutting?
+````
+
 ## 2023-24 · Re-Exam · Sem 5 · paper cff636844314
 
 - Departments: Mechanical
@@ -861,6 +957,111 @@ aL Describe principal parts of slotting machine with neat diagram [06]
 CO-3; 80-6; |¢
 
 ee State advantages and limitations of broaching machines. [04]
+````
+
+## 2022-23 · Exam not stated · Sem 5 · paper 019cf10de8d8
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/MANUFACTURING PROCESSES-ll/Manufacturing Processes-II.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.7
+
+````text
+MPS
+
+“SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS& EN ;
+Academic Year: 2022-2023
+
+INDERING
+
+Program: B Tech/MBAtech Stream ;Mechanical Engg Year: Ill Semester: Vv
+Subject: Manufacturing Processes-II Time: 03 hrs (LLamto =pm_)
+Date:_ 13 Sun/ 2023. No. of Pages: 02
+Marks: 100
+Special Re-Examination
+
+Sai E OF M,
+Ja SS
+; . L,
+STME
+
+SRARY
+
+a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+2) Out of remaining questions, attempt any__4 __ questions.
+3) In all___5_ questions to be attempted.
+q 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer following questions briefly:
+CO-1;SO0-1; | a. | Discuss importance of single point cutting tool and classify. [4]
+BL-2
+CO-2;S0-2; |b. | Explain the need and function of quick-return mechanisms in shaper | [4]
+BL-2 machine.
+CO-1;SO-2; | c. | List out different drilling operation with neat diagram. [4]
+BL-1
+CO-2;SO-4; | d. | Explain the need of electrical discharge machining processes. [4]
+BL-2
+CO-2;SO-1; |e. | State thermoforming process in plastics. [4]
+_ BL-1
+~ | Q2 a | Construct merchants circle diagram also write advantages and limitations. [10]
+CO-1; SO-2;
+BL-3
+CO-2; SO-1; b | With neat diagram, explain principal parts of shaper tool head. [10]
+BL-2
+| Q3 a | Illustrate divided table planer machine with detailed explanation. [10]
+CO-2; SO-2;
+- BL-3
+CO-3; SO-6; b | Discuss meaning of tool wear and reasons of failure of tool. [10]
+BL-2
+--- page 2 ---
+:
+
+Explain in detail the major types of chips and state conditions under which
+
+Q4 [10]
+CO-1; SO-4; such chips form. fi
+
+BL-2
+
+CO-2; SO-2; Explain with neat diagram functions and working of multiple spindle [10]
+BL-2 drilling machine.
+
+Q5 With neat diagram, discuss nomenclature of broaching tool. [10]
+CO-2; SO-1;
+
+BL-3
+
+CO-3; SO-4; Explain the properties of tool materials and electrolyte should be use in [10]
+BL-2 electrochemical machining (ECM) . :
+
+Q6 Discuss process of abrasive jet machining (AJM) with neat diagram. [10]
+CO-2; SO-3;
+
+BL-2
+
+CO-1; SO-6; Illustrate various face milling operations performed on milling machines. [10]
+BL-3
+
+Q7 Discuss how plastic components are produced by compression moulding [10]
+CO-2; SO-4; process and state its advantages and disadvantages.
+
+BL-2
+
+CO-3; SO-6; Discuss in detail the setting up laser beam machining (LBM) also explain [10]
+BL-2 applications of LBM.
+
+aN.
 ````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper afc9ef5e7d37
@@ -1050,102 +1251,6 @@ Discuss in detail the Ultrasonic m/c process with neat diagram .
 [10]
 
 2/2
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 833bde9538cf
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/MANUFACTURING PROCESSES/Manufacturing Processes, Sem-V, Batch 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 87.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2023-2024 oe
-Program/s: B.Tech Year: III Semester: V
-Stream/s ; Mechatronics
-Subject: Manufacturing Processes . Time: 03 hrs Q:00mto 5:00pm
-Date: 43) 02/2094 . No. of Pages::_ Oe?
-Marks: 100
-
-Re-Examination [Reexonm (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql .
-Answer briefly: [20]
-co-1; Name the pattern allowances which can be quantitatively specified. Write a
-so-2; | (a |. [05]
-’ brief note on one of them.
-BL-2
-CO-1;
-SO- 2; (b) | Explain forging defects, their causes and remedies. [05]
-BL-2 ‘
-CO- 3;
-SO-2; (c) | Describe the principle of plasma arc welding. [05]
-BL-2
-CO-2 ; (a) Given a specific machining task, recommend the most suitable type of lathe (051
-ND ; and justify your choice.
-
-Illustrate with a neat sketch the various tool angles used in single point
-@ | | [10]
-cutting tools.
-CO-2;
-
-SO-1; Compare and contrast hot and cold extrusion processes suitable for a given
-
-: (b) [10]
-Bld application.
---- page 2 ---
-re
-(a) | Given a specific casting scenario, recommend the most suitable type-of [10]
-Q3 molding sand and justify your choice based on its properties.
-co-1; : —z ;
-50-2: Explain the key principles of gas tungsten arc welding (GTAW) and how 110]
-BL-3 (b) | the process works. Additionally, include a simple sketch to illustrate its
-basic setup. .
-Sketch a gating system for a simple casting, and explain the function of
-Q4 la) - gating sy: ip. g P [10]
-cO-1; each element.
-So-1; (b) What is wire drawing? Analyze the reasons why wire drawing is a [10]
-BL-3
-preferred method for manufacturing certain components.
-Qs (a) | What are the advantages of electron beam welding over arc welding? Give [10]
-co-3: specific applications of electron beam welding process.
-. 3 (b) | Describe the advantages of using a quick return mechanism in a [10]
-mechanical shaper machine.
-Q6 (a) Enumerate the step-by-step procedure involved in investment casting [10]
-a
-CO-1: process. State its advantages and limitations.
-SO-1; (b) Draw the schematic diagram of principle of thread cutting on a lathe & (10)
-BL-4
-explain the same also describe the different types of threads.
-(a) | List out any two casting defects and their remedies. r [05]
-Q7 (b) | Write briefly about the rolling defects with neat sketches. [05]
--2; ; : : 5s
-spe. (c) | Illuminate any three welding defects and their remedies. [05]
-BL-5 "What are the conditions that would allow a continuous chip to be formed -
-
-(d)
-
-in metal cutting?
 ````
 
 ## 2019-20 · Final-Exam · Sem 3 · paper 985fbff22e79
@@ -1577,6 +1682,87 @@ List out Different Casting Processes with advantages -disadvantage and also exam
 Page 2 of 2
 ````
 
+## 2017-18 · Re-Exam · Sem 4 · paper 78a38bce0883
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MANUFACTURING PROCESSES/MANUFACTURING_PROCESSES_BATCH_16-17_RE_EXAM_.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 03 July 2018
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING.
+
+Programme: B. Tech (Mechatronics) Year: II Semester: IV , é
+fr S
+
+Mr
+
+Batch: 2016-17/2017-18
+c Academic Year: 2017-2018
+
+Subject: Manufacturing Processes .
+7 Marks: 70 ~ : om
+Date: 03 July 2018 - Time: 10.00 am to 1.00 pm
+. Durations: 3 (Hrs) _
+No. of Pages: _DQ _
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q-1 Answer any two of the following: . (14)
+
+a) Write down the short note related to Investment Casting process with fig.
+b) What is Rolling process? Explain Tread Rolling with fig.
+
+c) What is milling Process? Explain Planer type milling machine.
+
+d) Define super finishing process. Explain Lapping and Honing.
+
+Q-2 a) Reasons for choosing casting over other manufacturing processes. (07)
+b) List the various types of patterns. (07)
+Q-3 a) What is forging process? Explain upset forging with fig. (08)
+b) Distinguish between blanking and piercing in metal forming, (06)
+a Q-4 a) Explain the Direct and indirect extrusion Process with neat sketch (07)
+p b) List the common lathe operations which can be carried out on a lathe. Explain
+Facing operation with neat sketch. (07)
+Page 1 of 2
+--- page 2 ---
+Q-5 a) Write down a short note on Capstan lathe. (07)
+
+b) Define boring process. Explain Horizontal Boring machine with diagram. (07)
+Q-6 a) Write down short note on Abrasive Water Jet Machining. (07)
+b) What is drilling process? Describe its working principle along with any two drilling operations. (07)
+Q-7 Answer any two of the following: (14)
+
+a) Write down the short note related to Deep Drawing Process.
+
+b) Sketch and explain the progressive die setup, labelling the various important parts.
+c) What is Broaching Operation? Its advantages and limitations.
+
+d) Explain the various components used in the Lathe Machine.
+
+e) Explain various defects in forging.
+
+Page 2 of 2
+````
+
 ## 2016-17 · Final-Exam · Sem 4 · paper 8a0b356418b6
 
 - Departments: Mechatronics
@@ -1659,234 +1845,7 @@ EE ER
 2/2
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper 5c89b9019be8
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MANUFACTURING PROCESSES/MANUFACTURING PROCESSES BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 July 2017
-- Text: ocr (2 pages), mean OCR confidence 94.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: II Semester: IV _-
-
-Batch: 2016-2017 _
-
-; Academic Year: 2016-2017
-Subject: Manufacturing Processes a
-
-Marks: 70
-Date: 12 July 2017 ~ Time: 10.00 La te
-
-Durations: 3 (hrs)
-No. of Pages:
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-Q-1 Answer any two of the following: (14)
-
-a) What you mean by Pattern? Explain Shrinkage pattern,Draft pattern and Distortion pattern with fig.
-b) What is Broaching Operation? Its advantages and limitations.
-
-c) What is Forming process? Define its types and applications.
-
-d) What is turning and dressing of grinding wheel?
-
-Q-2 a) Draw a neat labeled diagram of the sand casting mould with process ready to be poured. (07)
-b) What are the different defects in sand casting process? (07)
-Q-3. a) What is forging process? Explain upset forging with fig. (07)
-b) Differentiate between cold and hot working process. (07)
-Q-4 a) Explain forward and backward extrusion process with neat diagrams. (08)
-b) List the types of lathe. Explain Automatic Lathe. (06)
-
-Page 1 of 2
---- page 2 ---
-Q-5 a) Differentiate between Capstan lathe and Turret lathe. (08)
-
-b) What is drilling process? Describe its working principle along with any two drilling operations. (06)
-Q-6 a) Write down short note on Abrasive Jet Machining. (07)
-b) Write a short note on Centerless grinding. (07)
-Q-7 Answer any two of the following: (14)
-a) Write down the short note related to Shell molding.
-b) Sketch and explain the compound die setup, labelling the various important parts.
-c) Define the following words: Open die forging, Close die forging and Flashless die forging with fig.
-d) What is milling Process? Explain Horizontal type milling machine.
-
-Page 2 of 2
-````
-
-## 2016-17 · Re-Exam · Sem 4 · paper 78a38bce0883
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MANUFACTURING PROCESSES/MANUFACTURING_PROCESSES_BATCH_16-17_RE_EXAM_.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 03 July 2018
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING.
-
-Programme: B. Tech (Mechatronics) Year: II Semester: IV , é
-fr S
-
-Mr
-
-Batch: 2016-17/2017-18
-c Academic Year: 2017-2018
-
-Subject: Manufacturing Processes .
-7 Marks: 70 ~ : om
-Date: 03 July 2018 - Time: 10.00 am to 1.00 pm
-. Durations: 3 (Hrs) _
-No. of Pages: _DQ _
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q-1 Answer any two of the following: . (14)
-
-a) Write down the short note related to Investment Casting process with fig.
-b) What is Rolling process? Explain Tread Rolling with fig.
-
-c) What is milling Process? Explain Planer type milling machine.
-
-d) Define super finishing process. Explain Lapping and Honing.
-
-Q-2 a) Reasons for choosing casting over other manufacturing processes. (07)
-b) List the various types of patterns. (07)
-Q-3 a) What is forging process? Explain upset forging with fig. (08)
-b) Distinguish between blanking and piercing in metal forming, (06)
-a Q-4 a) Explain the Direct and indirect extrusion Process with neat sketch (07)
-p b) List the common lathe operations which can be carried out on a lathe. Explain
-Facing operation with neat sketch. (07)
-Page 1 of 2
---- page 2 ---
-Q-5 a) Write down a short note on Capstan lathe. (07)
-
-b) Define boring process. Explain Horizontal Boring machine with diagram. (07)
-Q-6 a) Write down short note on Abrasive Water Jet Machining. (07)
-b) What is drilling process? Describe its working principle along with any two drilling operations. (07)
-Q-7 Answer any two of the following: (14)
-
-a) Write down the short note related to Deep Drawing Process.
-
-b) Sketch and explain the progressive die setup, labelling the various important parts.
-c) What is Broaching Operation? Its advantages and limitations.
-
-d) Explain the various components used in the Lathe Machine.
-
-e) Explain various defects in forging.
-
-Page 2 of 2
-````
-
-## 2015-16 · Final-Exam · Sem 4 · paper e2ba8bfaf5a9
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MANUFACTURING PROCESSES/MANUFACTURING PROCESSES B TECH (MECHATRONICS), 15-16 FINAL EXAM.pdf`
-- Printed on paper: exam date: 14/05/2016
-- Text: ocr (2 pages), mean OCR confidence 82.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) Year: II Semester: IV
-Academic Year: 2015-2016
-
-Subject : Manufacturing Processes
-
-Date : 14/05/2016 Time : 10.00 am
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Ql. Answer any FOUR of following. {12]
-a) What are the Requirements of casting ?
-b) What are different categories of lathes ?
-c) Explain metal forming and its types.
-d) What is milling fixture? What are other types of fixture.
-e) What are the commercial Abrasive machine processes and their advantages.
-f) What are Dies and Punches in Press work .
-
-Q.2. a) What is Shell molding? Write its steps and any two advantage and disadvantage. [6]
-b) What is pattern allowances? Explain Shrinkage allowance and Draft allowance with [6]
-neat sketch.
-
-Q.3. a) Explain drilling operations and drill materials with sketch of Tool Nomenclature. [6]
-b) Explain Broaching with sketch and its advantages. [6]
-Q.4. a) Explain forging and its types in detail. [6]
-b) Explain sheet metal working and operations in detail. [6]
-Q.5. a) Explain Extrusion operations with sketch and its types. [6]
-b) Explain Centerless grinding with neat sketch. [6]
-Q.6. a) Explain Screw Thread manufacturing processes in detail . [4]
-
-"/o.
---- page 2 ---
-)) Write Classification of Industries . [4]
-= os Explain gear manufacturing process. [4]
-
-af 3
-4 ‘ % Q.7. a) Explain in detail any FOUR mold properties . [4]
-* ht b) Explain Milling Machine and its operations . [4]
-“ng, wane) Explain terms used in Strip Layout. [4]
-
-Satie
-
-2).
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 3bd69eac9841
+## 2016-17 · Re-Exam · Sem 4 · paper 3bd69eac9841
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -1963,6 +1922,251 @@ a) Write down the short note related to Investment Casting Process.
 b) Sketch and explain the compound die setup, labelling the various important parts.
 c) , Define the following words: Open die forging and Close die forging with figure.
 d) Explain Sensitive Drilling Machine.
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 5c89b9019be8
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MANUFACTURING PROCESSES/MANUFACTURING PROCESSES BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 July 2017
+- Text: ocr (2 pages), mean OCR confidence 94.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: II Semester: IV _-
+
+Batch: 2016-2017 _
+
+; Academic Year: 2016-2017
+Subject: Manufacturing Processes a
+
+Marks: 70
+Date: 12 July 2017 ~ Time: 10.00 La te
+
+Durations: 3 (hrs)
+No. of Pages:
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Q-1 Answer any two of the following: (14)
+
+a) What you mean by Pattern? Explain Shrinkage pattern,Draft pattern and Distortion pattern with fig.
+b) What is Broaching Operation? Its advantages and limitations.
+
+c) What is Forming process? Define its types and applications.
+
+d) What is turning and dressing of grinding wheel?
+
+Q-2 a) Draw a neat labeled diagram of the sand casting mould with process ready to be poured. (07)
+b) What are the different defects in sand casting process? (07)
+Q-3. a) What is forging process? Explain upset forging with fig. (07)
+b) Differentiate between cold and hot working process. (07)
+Q-4 a) Explain forward and backward extrusion process with neat diagrams. (08)
+b) List the types of lathe. Explain Automatic Lathe. (06)
+
+Page 1 of 2
+--- page 2 ---
+Q-5 a) Differentiate between Capstan lathe and Turret lathe. (08)
+
+b) What is drilling process? Describe its working principle along with any two drilling operations. (06)
+Q-6 a) Write down short note on Abrasive Jet Machining. (07)
+b) Write a short note on Centerless grinding. (07)
+Q-7 Answer any two of the following: (14)
+a) Write down the short note related to Shell molding.
+b) Sketch and explain the compound die setup, labelling the various important parts.
+c) Define the following words: Open die forging, Close die forging and Flashless die forging with fig.
+d) What is milling Process? Explain Horizontal type milling machine.
+
+Page 2 of 2
+````
+
+## 2015-16 · Final-Exam · Sem 4 · paper e2ba8bfaf5a9
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MANUFACTURING PROCESSES/MANUFACTURING PROCESSES B TECH (MECHATRONICS), 15-16 FINAL EXAM.pdf`
+- Printed on paper: exam date: 14/05/2016
+- Text: ocr (2 pages), mean OCR confidence 82.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) Year: II Semester: IV
+Academic Year: 2015-2016
+
+Subject : Manufacturing Processes
+
+Date : 14/05/2016 Time : 10.00 am
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Ql. Answer any FOUR of following. {12]
+a) What are the Requirements of casting ?
+b) What are different categories of lathes ?
+c) Explain metal forming and its types.
+d) What is milling fixture? What are other types of fixture.
+e) What are the commercial Abrasive machine processes and their advantages.
+f) What are Dies and Punches in Press work .
+
+Q.2. a) What is Shell molding? Write its steps and any two advantage and disadvantage. [6]
+b) What is pattern allowances? Explain Shrinkage allowance and Draft allowance with [6]
+neat sketch.
+
+Q.3. a) Explain drilling operations and drill materials with sketch of Tool Nomenclature. [6]
+b) Explain Broaching with sketch and its advantages. [6]
+Q.4. a) Explain forging and its types in detail. [6]
+b) Explain sheet metal working and operations in detail. [6]
+Q.5. a) Explain Extrusion operations with sketch and its types. [6]
+b) Explain Centerless grinding with neat sketch. [6]
+Q.6. a) Explain Screw Thread manufacturing processes in detail . [4]
+
+"/o.
+--- page 2 ---
+)) Write Classification of Industries . [4]
+= os Explain gear manufacturing process. [4]
+
+af 3
+4 ‘ % Q.7. a) Explain in detail any FOUR mold properties . [4]
+* ht b) Explain Milling Machine and its operations . [4]
+“ng, wane) Explain terms used in Strip Layout. [4]
+
+Satie
+
+2).
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper 7bb043d80535
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MANUFACTURING PROCESSES/MANUFACTURING PROCESSES B TECH (MECHATRONICS), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
+- Text: ocr (2 pages), mean OCR confidence 82.9
+
+````text
+a SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Mechatronics) Year: II Semester: IV
+Academic Year: 2015-16
+
+Batch:2014-15
+
+Subject: Manufacturing Processes Marks: 60 , \
+: Time: 10.00
+Date: 14/05/2016 Durations: 3 hr
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.1 Answer any Four of the following [12]
+a) What is the use Core and Core-print?
+b) Describe any one Super-finishing Process.
+c) What are different defects in casting process?
+d) Explain Facing and Centering operation performed on lathe.
+e) Write a short note on Progressive die.
+
+f) Draw schematic of single point cutting toll with all notations.
+
+Q.2 a) What is Broaching operation? Describe it with different broched shapes. [6|
+
+b) Differentiate between Turret lathe and capstan lathe. [3]
+
+c) Write a short note on centrifugal casting. {3|
+
+Q.3 a) What is Forging operation? Explain it along with diagram. [6]
+
+b) Describe thread rolling and skew rolling process. [6]
+
+Q.4 a) What is sand preparation? Describe it with steps. [6]
+
+b) Differentiate between hot working and cold working. i3]
+
+pe; c) Write a short note on abrasive machining. [3]
+Q.5 a) What are the different turning tools used on lathe machine? [6]
+
+b) What is Grinding process? Classify it according with type of surface to grind. |6|
+
+Yo.
+--- page 2 ---
+Q.6
+
+a) How presses can be classify according to type of frame.
+,.b) What are the different machining parameters?
+
+fod og)», Write a short note on punching operation.
+
+wate,
+
+a) Describe Hydrostatic extrusion in details.
+b) Explain gang drilling operation.
+a
+
+c).» Write a short note on face milling.
+
+at
+
+f c 7 a
+
+a
+
+I4|
+[4|
+4|
+
+4|
+I4]
+[4|
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 09218597f6d3
@@ -2152,105 +2356,6 @@ Write a short note on impression die forging.
 4]
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper 7bb043d80535
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/MANUFACTURING PROCESSES/MANUFACTURING PROCESSES B TECH (MECHATRONICS), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
-- Text: ocr (2 pages), mean OCR confidence 82.9
-
-````text
-a SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Mechatronics) Year: II Semester: IV
-Academic Year: 2015-16
-
-Batch:2014-15
-
-Subject: Manufacturing Processes Marks: 60 , \
-: Time: 10.00
-Date: 14/05/2016 Durations: 3 hr
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.1 Answer any Four of the following [12]
-a) What is the use Core and Core-print?
-b) Describe any one Super-finishing Process.
-c) What are different defects in casting process?
-d) Explain Facing and Centering operation performed on lathe.
-e) Write a short note on Progressive die.
-
-f) Draw schematic of single point cutting toll with all notations.
-
-Q.2 a) What is Broaching operation? Describe it with different broched shapes. [6|
-
-b) Differentiate between Turret lathe and capstan lathe. [3]
-
-c) Write a short note on centrifugal casting. {3|
-
-Q.3 a) What is Forging operation? Explain it along with diagram. [6]
-
-b) Describe thread rolling and skew rolling process. [6]
-
-Q.4 a) What is sand preparation? Describe it with steps. [6]
-
-b) Differentiate between hot working and cold working. i3]
-
-pe; c) Write a short note on abrasive machining. [3]
-Q.5 a) What are the different turning tools used on lathe machine? [6]
-
-b) What is Grinding process? Classify it according with type of surface to grind. |6|
-
-Yo.
---- page 2 ---
-Q.6
-
-a) How presses can be classify according to type of frame.
-,.b) What are the different machining parameters?
-
-fod og)», Write a short note on punching operation.
-
-wate,
-
-a) Describe Hydrostatic extrusion in details.
-b) Explain gang drilling operation.
-a
-
-c).» Write a short note on face milling.
-
-at
-
-f c 7 a
-
-a
-
-I4|
-[4|
-4|
-
-4|
-I4]
-[4|
-````
-
 ## 2014-15 · Re-Exam · Sem 4 · paper 7561ac1c9128
 
 - Departments: Mechatronics
@@ -2346,109 +2451,4 @@ Describe forward extrusion process.
 4]
 4]
 4]
-````
-
-## Year not stated · Exam not stated · Sem 5 · paper 019cf10de8d8
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/MANUFACTURING PROCESSES-ll/Manufacturing Processes-II.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.7
-
-````text
-MPS
-
-“SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS& EN ;
-Academic Year: 2022-2023
-
-INDERING
-
-Program: B Tech/MBAtech Stream ;Mechanical Engg Year: Ill Semester: Vv
-Subject: Manufacturing Processes-II Time: 03 hrs (LLamto =pm_)
-Date:_ 13 Sun/ 2023. No. of Pages: 02
-Marks: 100
-Special Re-Examination
-
-Sai E OF M,
-Ja SS
-; . L,
-STME
-
-SRARY
-
-a
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-2) Out of remaining questions, attempt any__4 __ questions.
-3) In all___5_ questions to be attempted.
-q 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer following questions briefly:
-CO-1;SO0-1; | a. | Discuss importance of single point cutting tool and classify. [4]
-BL-2
-CO-2;S0-2; |b. | Explain the need and function of quick-return mechanisms in shaper | [4]
-BL-2 machine.
-CO-1;SO-2; | c. | List out different drilling operation with neat diagram. [4]
-BL-1
-CO-2;SO-4; | d. | Explain the need of electrical discharge machining processes. [4]
-BL-2
-CO-2;SO-1; |e. | State thermoforming process in plastics. [4]
-_ BL-1
-~ | Q2 a | Construct merchants circle diagram also write advantages and limitations. [10]
-CO-1; SO-2;
-BL-3
-CO-2; SO-1; b | With neat diagram, explain principal parts of shaper tool head. [10]
-BL-2
-| Q3 a | Illustrate divided table planer machine with detailed explanation. [10]
-CO-2; SO-2;
-- BL-3
-CO-3; SO-6; b | Discuss meaning of tool wear and reasons of failure of tool. [10]
-BL-2
---- page 2 ---
-:
-
-Explain in detail the major types of chips and state conditions under which
-
-Q4 [10]
-CO-1; SO-4; such chips form. fi
-
-BL-2
-
-CO-2; SO-2; Explain with neat diagram functions and working of multiple spindle [10]
-BL-2 drilling machine.
-
-Q5 With neat diagram, discuss nomenclature of broaching tool. [10]
-CO-2; SO-1;
-
-BL-3
-
-CO-3; SO-4; Explain the properties of tool materials and electrolyte should be use in [10]
-BL-2 electrochemical machining (ECM) . :
-
-Q6 Discuss process of abrasive jet machining (AJM) with neat diagram. [10]
-CO-2; SO-3;
-
-BL-2
-
-CO-1; SO-6; Illustrate various face milling operations performed on milling machines. [10]
-BL-3
-
-Q7 Discuss how plastic components are produced by compression moulding [10]
-CO-2; SO-4; process and state its advantages and disadvantages.
-
-BL-2
-
-CO-3; SO-6; Discuss in detail the setting up laser beam machining (LBM) also explain [10]
-BL-2 applications of LBM.
-
-aN.
 ````

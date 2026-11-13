@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Electrical/Control system/Control_systems-II___Final_2018-19_.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 20 April 2019
 - Text: ocr (3 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -113,7 +114,6 @@ Find the close loop transfer function T(z) =
 (2) for the following system:
 Zz
 
-Om] Gus) bY Gals) O- Gals) COS),
 
 Ai(s) }=-O
 
@@ -154,7 +154,7 @@ Page 3 of 3
 05
 ````
 
-## Year not stated · Re-Exam · paper 5cde8aa7b081
+## 2018-19 · Re-Exam · paper 5cde8aa7b081
 
 - Departments: Electrical
 - Programmes: MBA TECH / Electrical

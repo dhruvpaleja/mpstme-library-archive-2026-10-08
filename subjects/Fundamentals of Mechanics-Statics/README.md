@@ -17,13 +17,13 @@ Also filed as: `Fundamentals of Mechanics -Statics`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Fundamentals of Mechanics Statics Batch 2023-24 Final.pdf |
-| 2023-24 | Re-Exam | Answer key | Sem 2 | Integrated Computer 7032 | ANS_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf |
-| 2023-24 | Re-Exam | Answer key | Sem 2 | Integrated DS 7038 | ANS_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Fundamentals of Machanics Statics Batch 2023-24 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Fundamentals of Mechanics - Statics Batch 2023-24 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Fundamentals of Mechanics - Statics Batch 2023-24 Re Exam_91e8398d44.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | Integrated Computer 7032 | QP_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | Integrated DS 7038 | QP_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf |
+| 2023-24 | Re-Exam | Answer key | Sem 2 | Integrated Computer 7032 | ANS_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf |
+| 2023-24 | Re-Exam | Answer key | Sem 2 | Integrated DS 7038 | ANS_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf |
 | 2022-23 | — | Question paper | Sem 2 | B.TECH INTEGRATED | Fundamentals of Mechanics Statics Batch 2021-22,2022-230001.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Fundamentals of Mechanics -Statics Batch 2022-23 Final & Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Fundamentals of Mechnics - Statics Batch 2021-22,2022-23 Re Exam.pdf |

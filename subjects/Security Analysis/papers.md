@@ -89,6 +89,104 @@ ate intrinsic value?
 of a company to calculate intrinsic value to get buy or sell recommendation. How will you calcul
 ````
 
+## 2024-25 · Re-Exam · Sem 9 · paper 6aef12186efc
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Security Analysis/Security Analysis, Batch 2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’S NMIMS a
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: MBA Tech Stream : All/Comp i Year: 2034 Semester: IX
+Subject: Security Analysis Time: 2 hrs ( 2+00pnt0 A: Dor)
+Date:_U_/ 12/2024 . No. of Pages:2
+
+Marks: 50
+
+Re-Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1__is compulsory. MM
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1 a) Fundamental analysis is a powerful tool for evaluating the intrinsic value of a stock, but it does have its
+limitations. What are the limitations of fundamental analysis? Explain briefly. (4 Marks)
+
+b) Stock market indices are often seen as barometers of a country’s economic health. How do stock market
+indices reflect the overall economic health of a country? Please Explain. _ (3 Marks)
+
+_. ¢) How does coefficient of variation help to assess the risk-return profile of different asset class? (3 Marks)
+
+2. Ravi is an investor looking to add a new stock to his portfolio. He has shortlisted two assets X and Y.
+Return of each asset is given as follows. Ravi wants to understand which stock he should add to his portfolio
+
+if he wants to minimize risk per unit of return. (10 Marks)
+Security X Security Y
+Return % (R)_ | Probability (P) | Return % (R) | Probability (P)
+30 0.1 -20 0.05
+~ 20 0.2 10 0.25
+‘ 10 0.4 20 0.3
+wa 5 0.2 30 0.3
+
+-10 0.1 40 0.1
+--- page 2 ---
+3 a) Calculate the current Index Value of Equal weighted index from the data given below. (5 Marks)
+
+Stocks Base Market price Current Market price
+A 20 30
+
+B_.. 30 46
+
+Cc 45 | 10
+
+D 195 160
+
+Total 290 246
+
+Base Index Value | 100
+
+3 b) What is intrinsic value and how is it determined through fundamental analysis? (5 Marks)
+
+4. a) Ms. Nayna is considering investing in a bond currently selling for Rs 9750. The bond has 4years to
+maturity. Face value of the bond is Rs 10,000 face value, and coupon rate is 8%. The next annual interest
+payment is due one year from today. The approximate discount factor for investment of similar risk is 11%.
+Calculate the intrinsic value of the bond. Based on the calculation should Ms. Nayna buy the bond?
+
+, (5 marks)
+4 b) Calculate the yield to maturity of the bond. Based on the calculation should Nayna purchase the bond?
+(5 marks)
+
+05) Zeto Ltd paid Rs 3.50 in dividends on its equity shares last year. Dividends are expected to grow at 10%
+annually for an indefinite number of years.
+
+a) If Zeto Ltd ’s current market price is Rs 115, what is the expected rate of return on the stock? (4 marks)
+b) If your required rate of return is 12%, what is the value of stock for you? (4 marks)
+c) Should you make the investment? (2 marks)
+6. How do examples of market anomalies challenge to the semi-strong form of Efficient Market Hypothesis?
+
+Please explain five stock market anomalies that contradicts semi-strong form of Efficient Market Hypothesis.
+(10 Marks)
+
+7. What are the most commonly used technical indicators that is used in stock trading and what do they
+signify? Explain any five stock market technical indicator. (10 Marks)
+````
+
 ## 2023-24 · Final-Exam · Sem 9 · paper 5cb2df53bbb3
 
 - Departments: Common (all branches)
@@ -377,104 +475,6 @@ Understan b) Support and resistance level
 d
 
 |
-````
-
-## 2023-24 · Re-Exam · Sem 9 · paper 6aef12186efc
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Security Analysis/Security Analysis, Batch 2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-SVKM’S NMIMS a
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: MBA Tech Stream : All/Comp i Year: 2034 Semester: IX
-Subject: Security Analysis Time: 2 hrs ( 2+00pnt0 A: Dor)
-Date:_U_/ 12/2024 . No. of Pages:2
-
-Marks: 50
-
-Re-Examination (Batch 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1__is compulsory. MM
-
-2) Out of remaining questions, attempt any __4 _ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1 a) Fundamental analysis is a powerful tool for evaluating the intrinsic value of a stock, but it does have its
-limitations. What are the limitations of fundamental analysis? Explain briefly. (4 Marks)
-
-b) Stock market indices are often seen as barometers of a country’s economic health. How do stock market
-indices reflect the overall economic health of a country? Please Explain. _ (3 Marks)
-
-_. ¢) How does coefficient of variation help to assess the risk-return profile of different asset class? (3 Marks)
-
-2. Ravi is an investor looking to add a new stock to his portfolio. He has shortlisted two assets X and Y.
-Return of each asset is given as follows. Ravi wants to understand which stock he should add to his portfolio
-
-if he wants to minimize risk per unit of return. (10 Marks)
-Security X Security Y
-Return % (R)_ | Probability (P) | Return % (R) | Probability (P)
-30 0.1 -20 0.05
-~ 20 0.2 10 0.25
-‘ 10 0.4 20 0.3
-wa 5 0.2 30 0.3
-
--10 0.1 40 0.1
---- page 2 ---
-3 a) Calculate the current Index Value of Equal weighted index from the data given below. (5 Marks)
-
-Stocks Base Market price Current Market price
-A 20 30
-
-B_.. 30 46
-
-Cc 45 | 10
-
-D 195 160
-
-Total 290 246
-
-Base Index Value | 100
-
-3 b) What is intrinsic value and how is it determined through fundamental analysis? (5 Marks)
-
-4. a) Ms. Nayna is considering investing in a bond currently selling for Rs 9750. The bond has 4years to
-maturity. Face value of the bond is Rs 10,000 face value, and coupon rate is 8%. The next annual interest
-payment is due one year from today. The approximate discount factor for investment of similar risk is 11%.
-Calculate the intrinsic value of the bond. Based on the calculation should Ms. Nayna buy the bond?
-
-, (5 marks)
-4 b) Calculate the yield to maturity of the bond. Based on the calculation should Nayna purchase the bond?
-(5 marks)
-
-05) Zeto Ltd paid Rs 3.50 in dividends on its equity shares last year. Dividends are expected to grow at 10%
-annually for an indefinite number of years.
-
-a) If Zeto Ltd ’s current market price is Rs 115, what is the expected rate of return on the stock? (4 marks)
-b) If your required rate of return is 12%, what is the value of stock for you? (4 marks)
-c) Should you make the investment? (2 marks)
-6. How do examples of market anomalies challenge to the semi-strong form of Efficient Market Hypothesis?
-
-Please explain five stock market anomalies that contradicts semi-strong form of Efficient Market Hypothesis.
-(10 Marks)
-
-7. What are the most commonly used technical indicators that is used in stock trading and what do they
-signify? Explain any five stock market technical indicator. (10 Marks)
 ````
 
 ## 2022-23 · Final-Exam · Sem 9 · paper 953becdedb77

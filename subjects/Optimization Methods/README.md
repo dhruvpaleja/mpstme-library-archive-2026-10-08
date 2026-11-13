@@ -14,24 +14,24 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Optimization Methods(702BS0C079)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech DS 7009, Integrated DS 7038, MBATech DS 7052 | ANS_Optimization Methods(702BS0C079)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, B.TECH INTEGRATED / DATA SCIENCE, MBA TECH / DATA SCIENCE | Optimization Methods 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech CSE DS 7057 | QP_Optimization Methods(702BS0C079)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | BTech DS 7009, Integrated DS 7038, MBATech DS 7052 | QP_Optimization Methods(702BS0C079)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Optimization Methods(702BS0C079)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Optimization Methods(702BS0C079)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Optimization Methods(702BS0C032)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Optimization Methods(702BS0C079)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Optimization Methods(702BS0C079)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech DS 7009, Integrated DS 7038, MBATech DS 7052 | ANS_Optimization Methods(702BS0C079)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CSE DS 7057 | QP_Optimization Methods(702BS0C079)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech DS 7009 | QP_Optimization Methods(702BS0C079)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | Integrated DS 7038 | QP_Optimization Methods(702BS0C032)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech DS 7052 | QP_Optimization Methods(702BS0C079)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Optimization Methods(702BS0C079)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Optimization Methods(702BS0C079)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Optimization Methods(702BS0C032)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech DS 7052 | ANS_Optimization Methods(702BS0C079)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / DATA SCIENCE | Optimization Methods Batch 2024-25 Final.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 3, Sem 7 | BTech DS 7009, Integrated DS 7038, MBATech DS 7052 | ANS_Optimization Methods(702BS0C032)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Optimization Methods, Sem-III, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / DATA SCIENCE | Optimization Methods Batch 2024-25 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3, Sem 7 | BTech DS 7009, Integrated DS 7038, MBATech DS 7052 | QP_Optimization Methods(702BS0C032)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3, Sem 7 | BTech DS 7009, Integrated DS 7038, MBATech DS 7052 | ANS_Optimization Methods(702BS0C032)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE | Optimization Methods, Sem-III, Final Exam 2023-24 & Re Exam 2022-23.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | MBA TECH / DATA SCIENCE | Optimization Methods , Final 2023-24, Re-exam 2022-23.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Optimization Methods , Re-exam 2023-24,2022-23.pdf |

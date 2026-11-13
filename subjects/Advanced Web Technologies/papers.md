@@ -280,6 +280,7 @@ all students records as the response.
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/Advanced Web Technologies/Advanced Web Technologies Batch 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (2 pages), mean OCR confidence 88.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -368,7 +369,6 @@ no duplicate book_id entries are created. Display the updated list of all books 
 
 JOSS SSO SII I IS I I A III I
 
-JOBE ODI ROI SBE III GBISS ISOS B OEE I II OO II IO
 
 OR ORRICK
 ````

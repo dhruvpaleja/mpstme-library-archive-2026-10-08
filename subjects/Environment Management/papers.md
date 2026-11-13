@@ -1,6 +1,6 @@
 # Environment Management: question papers in full
 
-60 unique papers · 2008-09 to 2025-26 · Common (all branches), Computer Engineering, Information Technology, Data Science, Electronics and Telecommunication, Artificial Intelligence, Cyber Security, Mechanical, Mechatronics, AI and Machine Learning, Chemical, Civil, Computer Science, Electrical
+60 unique papers · 2008-09 to 2025-26 · Common (all branches), Computer Engineering, Information Technology, Data Science, Electronics and Telecommunication, Artificial Intelligence, Cyber Security, Mechanical, Mechatronics, AI and Machine Learning, Civil, Chemical, Computer Science, Electrical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -3462,6 +3462,158 @@ CO2 = Carbon dioxide and CO = Carbon monoxide
 Page 5 of 5
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper e45e13a1ee73
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ENVIRONMENT MANAGEMENT/Environment Management.pdf` (+2 identical copies)
+- Printed on paper: duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 91.8
+
+````text
+x
+SVKM’S NMIMS 63
+
+Yop
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN GINEE
+Academic Year: 2022-2023 SS
+Program/s:B.Tech/ MBA.Tech. Year: II] / IV Semester: VI/VIII
+Stream/s : All Branches Mass! 100
+Subject: Environment Management Time: 3 hrs @0:00antoL:00pm
+
+Date:_05 [Mag 2023 No. of Pages: 3
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any _4 _ questions.
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+. 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: [20]
+cot a. | Discuss the issue of arsenic contamination in ground water in
+So- 2: India based on sources, health risks, and strategies for
+BL-2; mitigation.
+CO-2; b. . :
+SO-2; Explain cradle to cradle design with example.
+BL-2;
+CO-3; c. | Can social impact assessment (SIA) reduce the cost of the
+i> SO-4; re i :
+BL-5: project? Give your opinion with example.
+CO-3; d. | Enumerate and explain the main elements of Environmental
+ai impact statement (EIS).
+(a) [10]
+Illustrate a flow diagram of a water treatment plant and explain
+Q2 the units in detail.
+CO-1,2; ; ‘0
+SO-2; 1) State different stages of Environmental Impact Assessment Be
+BL-3,1; (EIA). What are the purpose of screening and scoping steps of
+EIA?
+--- page 2 ---
+(a) | Enlist and explain the steps of social impact assessment (SIA).
+
+Distinguish between social impact assessment (SIA) and
+
+; [10]
+Q3 strategic impact assessments (SEA).
+
+CO-2,2;
+
+S02, (b) | Discuss the “Environmental Protection Act” of 1986 and the
+
+BL-2,2; [10]
+
+“Factories Act” of 1948. Justify their use for environmental
+
+management.
+
+(a) | Enumerate the three main goals for life cycle assessment
+
+, (LCA) process. What are the limitations of the LCA process?
+04 [10]
+
+How LCA can be performed for dairy and meat production?
+
+CO-2,1;
+SO-2,4;
+BL-2,2; (b) | Enlist the explain different types of Corporate Social [10]
+Responsibility (CSR). Discuss about three “Ps” used in triple
+bottom line. .
+(a) | Justify the importance of EIA and SIA for Mumbai-
+Ahmedabad high speed railway project. [10]
+Q5
+a (b) | Give your opinion about the role of general public in [05]
+BL-5,5,4; environment clearance.
+(c) | Classify the projects for environmental screening. [05]
+(a) | Illustrate a flow diagram showing the relation of the supply [10]
+chain and the environment. Enlist and explain the main five
+steps of ISO 14001. a
+Q6 (b) | Salem which is a small town in Tamil Nadu, is the hub of
+CO-1,3: refractory industry in India. The chief raw material is Magnesite
+SO-2; and calcined Magnesia. These are mined from three large and
+BL-3,6;
+
+several small mines located in Salem and spread over an area of
+30 km’. Apart from this, dunite, is also being mined. Dunite,.
+which contains about 45% MgO, is mainly used as a flux in steel
+
+manufacturing, refractory in brick form and railway ballast in
+
+10
+bulk form. [10]
+--- page 3 ---
+Complete mechanization of mining operations is not
+implemented in any of the mines. Presently, a combination of
+both manual and mechanized mining methods is in use and
+hence can be aptly called the ‘semi-mechanized’ method. In
+semi-mechanized mining the mineralized zone is blasted by 83
+mm diameter slurry explosives, charged in 115 mm diameter
+blast holes that are drilled using wagon drills. Bulldozers spread
+the blasted muck and magnesite lumps are collected manually.
+The leftover waste, comprising soil, dunnite and peridotite of
+different grades of weathering are loaded into 35 MT capacity
+dump trucks using hydraulic excavators or wheel loaders. The
+waste is dumped at places ear-marked for spoil dumps on non-
+mineralized land. Or different operations, heavy Earth Moving
+Machines (HMM) like wagon drills, dozers, dumpers, and
+hydraulic excavators are deployed.
+
+You are appointed for “Environmental Impact Assessment” and
+“Social Impact Assessment” for expansion of the mining site.
+Mention the environmental, social impact of the activity and the
+
+mitigation measures you will propose.
+
+Q7
+CO-3,1;
+SO-2;
+BL-2,2;
+
+(a)
+
+(b)
+
+Explain the use of environmental impact assessment for any
+hydroelectric project.
+Write short notes on:
+
+(i) Environmental Management System (EMS)
+
+(ii) Acid Rain
+
+[10]
+
+[10]
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 8e07ef6ca605
 
 - Departments: Common (all branches)
@@ -4097,81 +4249,6 @@ d) Wild life protection Act
 ‘
 ````
 
-## 2008-09 · Re-Exam · Trim 10 · paper 0d96a5de4af2
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/environment management/2008-2009 re exam I(19).pdf`
-- Text: ocr (1 page), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS UNIVERSITY
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT AND ENG
-
-MBA (Tech) CHEMICAL
-IV Year, Trimester X, 2008-09   & -
-
-Mumbai - 56,
-
-Subject: Environment Engineering Max Mar! LIBRARY
-Date...) O'-1|0-O9 Time Allo J
-NOTE: Q -e0-5
-
-Ql
-
-Q2
-
-Q3
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-1. Question number | is compulsory. ;
-2. Attempt any four questions from the remaining questions.
-3. Figures in bracket indicate full marks.
-
-A What do you understand by Green house effect? What causes it? (6)
-B What are the major sources of air pollution and how to curb it? (10)
-C What is Eutrophication? How to prevent it? (4)
-A __ Describe briefly the process of coagulation and Flocculation (10)
-B Describe different types of cyclones used for Air purification (10)
-
-A Explain all the types of Fabric Filtration systems for purification of (10)
-Air.
-
-B_ Explain the procedure for carrying out COD and DO analysis of (10)
-waster water.
-
-A __ Describe the process of sanitary land filling in detail. (10)
-B__ Classify the solid waste and enlist the effects of each. (10)
-
-A Explain the particle collection mechanism in detail for dry collection. (5)
-
-B__ Briefly explain various methods for control / removal of SO) from (10)
-flue gas.
-
-C _ Write short note on Soil based bio filtration. (5)
-
-A How is primary treatment of waste water carried out in Industry? (10)
-Explain the equipment used for the same in detail
-
-B What is BOD and COD? Explain the difference between them. Why (6)
-are they more important for waste water coming out of Food Industry
-
-C What is the difference between aerator and clarifier? Why two (4)
-separate equipments used for aeration and settling?
-
-A Write short note on Activated sludge process (10)
-B Write short note on sludge treatment and disposal (10)
-
-x x
-````
-
 ## 2008-09 · Re-Exam · Trim 10 · paper 47d529185c12
 
 - Departments: Chemical
@@ -4340,154 +4417,113 @@ c. Ozone layer depletion
 Xx KR ———____
 ````
 
-## Year not stated · Exam not stated · Sem 6 · paper e45e13a1ee73
+## 2008-09 · Re-Exam · Trim 14 · paper 62b7557fe725
 
 - Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ENVIRONMENT MANAGEMENT/Environment Management.pdf` (+2 identical copies)
-- Printed on paper: duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 91.8
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Entrepreneurship management/2008-2009 re exam I(15).pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 94.7
 
 ````text
-x
-SVKM’S NMIMS 63
+SVKM’S NMIMS UNIVERS
+MUKESH PATEL SCHOOL OF TECHNOLOGY
+ENGINEERING
+See Year
+Trimester > 2008-09
 
-Yop
+Subject: Environmental Management Max Marks: 50
+Date: Qy 6 6-09. Time Allowed: 2 hrs
++ 4 10-80 ~14-60 P™ ,
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN GINEE
-Academic Year: 2022-2023 SS
-Program/s:B.Tech/ MBA.Tech. Year: II] / IV Semester: VI/VIII
-Stream/s : All Branches Mass! 100
-Subject: Environment Management Time: 3 hrs @0:00antoL:00pm
+NB:
+e Attempt any four questions out of six
+e All questions carry equal marks
+e Answer to each new question to be started on a fresh page
 
-Date:_05 [Mag 2023 No. of Pages: 3
+1. Briefly explain various forms of industrial pollution with respect to typical
+sources and causes for the same. Explain various environment protection
+standards prevailing in your country. What in your opinion are the roles and
+responsibilities of industries in the context of minimizing industrial pollution.
 
-Final Examination
+2. What are the various altematives for management of solid wastes? Discuss salient
+features of the Municipal Solid Waste (Management and Handling) Rules, 2000.
+Explain the current practices and suggest alternatives for better management of
+solid wastes in Mumbai.
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
+3. Acommitted Organization must implement the policy of reporting its operations
+with TBL (Triple Bottom Line) approach. Comment on the need, methodology
+for reporting and advantages of preparing such reports. Name any two companies
+which have implemented the above reporting.
 
-1) Question No._1___ is compulsory.
-2) Out of remaining questions, attempt any _4 _ questions.
-3) In all___5_ questions to be attempted.
-4) All questions carry equal marks.
-. 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+4. Explain salient features of the Montreal Protocol. Briefly discuss the procedure
+related to CDM projects in India.
 
-Ql .
-Answer briefly: [20]
-cot a. | Discuss the issue of arsenic contamination in ground water in
-So- 2: India based on sources, health risks, and strategies for
-BL-2; mitigation.
-CO-2; b. . :
-SO-2; Explain cradle to cradle design with example.
-BL-2;
-CO-3; c. | Can social impact assessment (SIA) reduce the cost of the
-i> SO-4; re i :
-BL-5: project? Give your opinion with example.
-CO-3; d. | Enumerate and explain the main elements of Environmental
-ai impact statement (EIS).
-(a) [10]
-Illustrate a flow diagram of a water treatment plant and explain
-Q2 the units in detail.
-CO-1,2; ; ‘0
-SO-2; 1) State different stages of Environmental Impact Assessment Be
-BL-3,1; (EIA). What are the purpose of screening and scoping steps of
-EIA?
+5. Briefly explain the factors believed to have led to the Bhopal Gas Tragedy.
+“Implementing a robust environmental management system conforming to ISO
+14001 has the potential of preventing such disasters’. Explain with reasons
+whether you agree with the foregoing statement.
+
+6. Case: Mushroom Composters
+In 1978, Mushroom Composters Pvt. Limited set up mushroom composting
+
+operations in Ebenezer, a town at the outskirts of Sydney, Australia. The facility
+composted poultry manure, straw and other ingredients by letting them rot.
+
+PTO
 --- page 2 ---
-(a) | Enlist and explain the steps of social impact assessment (SIA).
+~ va
 
-Distinguish between social impact assessment (SIA) and
+In 1992, residents of the area found that a very foul odour was being emitted from
+the factory. The odour was so foul that most residents had to keep the windows
+shut at all times. This was the case even in summer, leading to considerable
+difficulty for the residents. In addition to this, children at the local school also
+started taking ill due to the odours.
 
-; [10]
-Q3 strategic impact assessments (SEA).
+The residents under the Ebenezer Concerned Residents Committee decided to
+move to court protesting against the facility operations under the appropriate
+legislation. Since the committee was an unincorporated body and under
+Australian Law an unincorporated body cannot bring enforcement proceedings, a
+gentleman by the name of Peter Foster filed a law suit against the erring
+company.
 
-CO-2,2;
+During the course of the case it was established through witnesses that the odours
+did exist and were degrading the quality of the air in the region. It was also
+established through expert witnesses that such odours would arise from bacterial
+activity in composting under anaerobic conditions. This was found to be breach of
+the consent given to the company to set up the plant. Under the consent, the
+company was to conduct its composing activity under strictly aerobic conditions.
 
-S02, (b) | Discuss the “Environmental Protection Act” of 1986 and the
+The judge in the case found the company guilty of polluting the environment and
+ordered the immediate shifting of the facility. This order was suspended for 12
+months, in order to allow the company some time to shift the facility. However
+the tale didn’t end here.
 
-BL-2,2; [10]
+A year later, the company was still polluting in the same area in the contempt of
+the court orders. In fact during the period the company had even earned a profit of
+$230,000 while operating in contempt! Peter Foster immediately brought
+proceedings for contempt of court. Foster led evidence from 35 local residents
+that the odours continued. Additional evidence came to the surface that the
+company was aware of technology that would reduce the odours since 1991, but
+did not implement the same as it was too expensive. The Court found that the
+company” ....took decisions largely for commercial reasons, which involved a
+willful or deliberate breach of(the Court’s) order”.
 
-“Factories Act” of 1948. Justify their use for environmental
+In a landmark ruling, the court ordered the firm to pay a fine of $80,000 with
+further penalties amounting to $8,000 for each week it continued to remain in
+contempt. While not as much as the profit made by the company, this was by far
+one of the largest fine imposed by the Court then.
 
-management.
+Although this is a case of Australian origin, the situation in India could be similar.
+Assuming this situation to be in India, answer the following
 
-(a) | Enumerate the three main goals for life cycle assessment
+e Describe the roles that NGOs play in dealing with such situations
+e Enlist the environmental legislations associated with this situation under
+which the case could be filed and action taken against the erring party?
 
-, (LCA) process. What are the limitations of the LCA process?
-04 [10]
+eo
 
-How LCA can be performed for dairy and meat production?
-
-CO-2,1;
-SO-2,4;
-BL-2,2; (b) | Enlist the explain different types of Corporate Social [10]
-Responsibility (CSR). Discuss about three “Ps” used in triple
-bottom line. .
-(a) | Justify the importance of EIA and SIA for Mumbai-
-Ahmedabad high speed railway project. [10]
-Q5
-a (b) | Give your opinion about the role of general public in [05]
-BL-5,5,4; environment clearance.
-(c) | Classify the projects for environmental screening. [05]
-(a) | Illustrate a flow diagram showing the relation of the supply [10]
-chain and the environment. Enlist and explain the main five
-steps of ISO 14001. a
-Q6 (b) | Salem which is a small town in Tamil Nadu, is the hub of
-CO-1,3: refractory industry in India. The chief raw material is Magnesite
-SO-2; and calcined Magnesia. These are mined from three large and
-BL-3,6;
-
-several small mines located in Salem and spread over an area of
-30 km’. Apart from this, dunite, is also being mined. Dunite,.
-which contains about 45% MgO, is mainly used as a flux in steel
-
-manufacturing, refractory in brick form and railway ballast in
-
-10
-bulk form. [10]
---- page 3 ---
-Complete mechanization of mining operations is not
-implemented in any of the mines. Presently, a combination of
-both manual and mechanized mining methods is in use and
-hence can be aptly called the ‘semi-mechanized’ method. In
-semi-mechanized mining the mineralized zone is blasted by 83
-mm diameter slurry explosives, charged in 115 mm diameter
-blast holes that are drilled using wagon drills. Bulldozers spread
-the blasted muck and magnesite lumps are collected manually.
-The leftover waste, comprising soil, dunnite and peridotite of
-different grades of weathering are loaded into 35 MT capacity
-dump trucks using hydraulic excavators or wheel loaders. The
-waste is dumped at places ear-marked for spoil dumps on non-
-mineralized land. Or different operations, heavy Earth Moving
-Machines (HMM) like wagon drills, dozers, dumpers, and
-hydraulic excavators are deployed.
-
-You are appointed for “Environmental Impact Assessment” and
-“Social Impact Assessment” for expansion of the mining site.
-Mention the environmental, social impact of the activity and the
-
-mitigation measures you will propose.
-
-Q7
-CO-3,1;
-SO-2;
-BL-2,2;
-
-(a)
-
-(b)
-
-Explain the use of environmental impact assessment for any
-hydroelectric project.
-Write short notes on:
-
-(i) Environmental Management System (EMS)
-
-(ii) Acid Rain
-
-[10]
-
-[10]
+<—_ \
 ````

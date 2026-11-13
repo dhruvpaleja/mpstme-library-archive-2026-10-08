@@ -14,18 +14,18 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AI 7012, MBATech AI 7051 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.docx |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech AI 7012, MBATech AI 7051 | QP_Intelligent Systems - I(702AI0C026)_2025-2026.docx |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech AI 7012 | QP_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech AIML 7053 | QP_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech AI 7051 | QP_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AI 7012, MBATech AI 7051 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.docx |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AIML 7053 | QP_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech AI 7051 | QP_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Intelligent Systems - I(702AI0C026)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE | Intelligent Systems - I, Sem-III, Batch 2023-24 Re Exam & 2024-25 Final Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE | Intelligent Systems-I, Sem-III, Final Exam 2024-25 & Re Exam 2023-24,.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / ARTIFICIAL INTELLIGENCE | Intelligent Systems - I, Sem-III, Batch 2024-25, Re Exam.pdf |

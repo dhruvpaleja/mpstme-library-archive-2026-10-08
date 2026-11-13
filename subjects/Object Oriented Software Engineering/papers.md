@@ -261,6 +261,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Object Oriented Software Engineering/Object Oriented Software Engineering Batch 2023-24 Re Exam_bd08a5dec5.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (2 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -331,7 +332,6 @@ Q4 (20)
 a. | What is the difference between generalization (inheritance) and realization in a class diagram?
 
 Si Represent the same for Q2(a) case discussed. {10]
-b. i i 2 ite di i i
 C03:802,BL4 Bee the State chart diagram for the E-Commerce website discussed in question [10]
 @ | [20]
 a. | Design Class Diagram for an online bookstore wants to develop a system to manage
@@ -458,7 +458,7 @@ C02,S02,BL3 money from their account. Design the test case for withdraw usecase 
 application.
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper 42e126cc16bf
+## 2022-23 · Final-Exam · Sem 9 · paper 42e126cc16bf
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -1934,6 +1934,115 @@ Unified Process work products
 [12M]
 ````
 
+## 2016-17 · Final-Exam · Sem 6 · paper d5bff2986473
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/OBJECT ORIENTED SOFTWARE ENGINEERING/OBJECT ORIENTED SOFTWARE ENGINEERING 15-16 FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 May 2017
+- Text: ocr (2 pages), mean OCR confidence 94.2
+
+````text
+}
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG!
+
+Programme: B. Tech (COMPUTER) Year: Ill Semester: VI
+
+Academic Year: 2016-2017
+
+Subject: Object Oriented Software Engineering
+Marks: 60
+Date: 08 May 2017 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages: :
+Final Examinations (Batch 2016-2017)/
+Re-Examination (Batch 2014-2015/ 2015-2016)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1. (a) ~~ What is UML? Explain Annotational and Grouping things in UML with suitable (6)
+example.
+
+(b) Prepare a Class Model to describe undirected graph. An undirected graplrconsists ofa (6)
+set of vertices and a set of edges. Edges connect pairs of vertices. Your model should
+capture only the structure of graphs (i.e. connectivity) and need not be concerned with
+layout such as location of vertices or lengths of edges.
+
+25 (a) How to represent relationship between use cases? Explain with the help of suitable (6)
+example.
+(b) Draw a State Diagram for “Account Class” in banking application and also derive test (6)
+cases from the state diagram.
+
+3. (a) Draw Swimlane diagram for the problem statement : (6)
+A new user fills up the registration form for library membership (either online or in
+paper), and submits to the librarian. Of course, an already registered user can't create
+another account for himself (or, herself). For users' who don't have an account already
+and have submitted their registration forms, the librarian verifies the information
+provided, possibly against the central database used by the institution. If all
+information have been provided correctly, librarian goes on with creating a new
+account for the user. Otherwise, the user is asked to provide all and correct
+information in his (her) registration form. Once a new account has been created for
+the user, he (she) is being issued an ID card, which is to be provided for any future
+transaction in the library.
+
+Page 1/2
+--- page 2 ---
+(b) What is Component? Construct Tabular Design Notation for following problem: (6)
+“if the customer Account is billed using fixed rate method, a minimum monthly
+charge is assessed for consumption of less than 100K WH, otherwise computer billing
+applies a schedule A rate structure. If the account is billed using variable rate method,
+schedule A rate structure will apply to consumption below 100KWH, otherwise
+additional consumption billed according to schedule B.”
+
+4, (a) Apply Random testing and partition testing to a class defined in the design for the (6)
+banking application. Produce test cases that indicate the operation sequences that will
+be invoked. .
+(b) Explain Object Oriented Metrics in detail. (6)
+
+5. (a) | What is the major difference between Sequence and Collaboration diagram. How to (6)
+generate collaboration diagram.from the sequence diagram? Explain with the help of
+suitable example. ;
+
+(b) What is RUP? Enlist the work products of all phase. (6)
+
+6. (a) A simple digital watch has a display and two buttons to set it, the A button and the B_ (6)
+button. The watch has two modes of operations, display time and set time. In the
+display time mode, the watch displays hours and minutes, separated by a flashing
+colon.
+The set time mode has two sub modes, set hours and set minutes. The A button selects
+modes. Each time it is pressed, the mode advances in the sequence: display, set hours,
+set minutes, display etc. Within the sub modes, the B button advances the hours or
+minutes once each time it is pressed. Buttons must be released before they can
+generate another event.
+Prepare a state diagram of the watch.
+(b) | What are the different system views that can be modelled using UML? What are the (6)
+different UML diagrams which can be used to capture each of the views?
+
+7. Write short note on (any two) : (12)
+(i) | Object Oriented Software Project Management Issues
+(ii) Using and Recording Use Case Analysis
+(iii) Multiple Class Testing
+(iv) Generic Process Framework
+
+Page 2/2
+````
+
 ## 2016-17 · Final-Exam · Sem 5 · paper 117c9437325d
 
 - Departments: Computer Engineering
@@ -2175,115 +2284,6 @@ b. Modeling scenarios [4]
 c. Function Point Estimation [4]
 
 /
-````
-
-## 2015-16 · Final-Exam · Sem 6 · paper d5bff2986473
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/OBJECT ORIENTED SOFTWARE ENGINEERING/OBJECT ORIENTED SOFTWARE ENGINEERING 15-16 FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 May 2017
-- Text: ocr (2 pages), mean OCR confidence 94.2
-
-````text
-}
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG!
-
-Programme: B. Tech (COMPUTER) Year: Ill Semester: VI
-
-Academic Year: 2016-2017
-
-Subject: Object Oriented Software Engineering
-Marks: 60
-Date: 08 May 2017 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-No. of Pages: :
-Final Examinations (Batch 2016-2017)/
-Re-Examination (Batch 2014-2015/ 2015-2016)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-1. (a) ~~ What is UML? Explain Annotational and Grouping things in UML with suitable (6)
-example.
-
-(b) Prepare a Class Model to describe undirected graph. An undirected graplrconsists ofa (6)
-set of vertices and a set of edges. Edges connect pairs of vertices. Your model should
-capture only the structure of graphs (i.e. connectivity) and need not be concerned with
-layout such as location of vertices or lengths of edges.
-
-25 (a) How to represent relationship between use cases? Explain with the help of suitable (6)
-example.
-(b) Draw a State Diagram for “Account Class” in banking application and also derive test (6)
-cases from the state diagram.
-
-3. (a) Draw Swimlane diagram for the problem statement : (6)
-A new user fills up the registration form for library membership (either online or in
-paper), and submits to the librarian. Of course, an already registered user can't create
-another account for himself (or, herself). For users' who don't have an account already
-and have submitted their registration forms, the librarian verifies the information
-provided, possibly against the central database used by the institution. If all
-information have been provided correctly, librarian goes on with creating a new
-account for the user. Otherwise, the user is asked to provide all and correct
-information in his (her) registration form. Once a new account has been created for
-the user, he (she) is being issued an ID card, which is to be provided for any future
-transaction in the library.
-
-Page 1/2
---- page 2 ---
-(b) What is Component? Construct Tabular Design Notation for following problem: (6)
-“if the customer Account is billed using fixed rate method, a minimum monthly
-charge is assessed for consumption of less than 100K WH, otherwise computer billing
-applies a schedule A rate structure. If the account is billed using variable rate method,
-schedule A rate structure will apply to consumption below 100KWH, otherwise
-additional consumption billed according to schedule B.”
-
-4, (a) Apply Random testing and partition testing to a class defined in the design for the (6)
-banking application. Produce test cases that indicate the operation sequences that will
-be invoked. .
-(b) Explain Object Oriented Metrics in detail. (6)
-
-5. (a) | What is the major difference between Sequence and Collaboration diagram. How to (6)
-generate collaboration diagram.from the sequence diagram? Explain with the help of
-suitable example. ;
-
-(b) What is RUP? Enlist the work products of all phase. (6)
-
-6. (a) A simple digital watch has a display and two buttons to set it, the A button and the B_ (6)
-button. The watch has two modes of operations, display time and set time. In the
-display time mode, the watch displays hours and minutes, separated by a flashing
-colon.
-The set time mode has two sub modes, set hours and set minutes. The A button selects
-modes. Each time it is pressed, the mode advances in the sequence: display, set hours,
-set minutes, display etc. Within the sub modes, the B button advances the hours or
-minutes once each time it is pressed. Buttons must be released before they can
-generate another event.
-Prepare a state diagram of the watch.
-(b) | What are the different system views that can be modelled using UML? What are the (6)
-different UML diagrams which can be used to capture each of the views?
-
-7. Write short note on (any two) : (12)
-(i) | Object Oriented Software Project Management Issues
-(ii) Using and Recording Use Case Analysis
-(iii) Multiple Class Testing
-(iv) Generic Process Framework
-
-Page 2/2
 ````
 
 ## 2015-16 · Final-Exam · Sem 6 · paper debc2bf007dd
@@ -2646,6 +2646,7 @@ z
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/OBJECT ORIENTED SOFTWARE ENGINEERING/Object Oriented Software Engineering 2014-15 Final.pdf`
 - Printed on paper: max marks: 10; exam date: 03/12/2014
 - Text: ocr (2 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2720,7 +2721,6 @@ Q.7. Write short note on the following
 
 a. Package
 
-b. Rambaug OMT v/s Booch Methodology
 c. Cohesion with its type
 
 d. Couplleing with its type
@@ -2728,6 +2728,76 @@ d. Couplleing with its type
 a x
 
 a)
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper 83200b6419ad
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/OBJECT ORIENTED SOFTWARE ENGINEERING/OBJECT ORIENTED SOFTWARE ENGINEERING B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 05/05/2015
+- Text: ocr (1 page), mean OCR confidence 88.8
+
+````text
+Programme: B. Tech (COMP)
+
+Batch: 2013-14 m
+Academic Year: 2014-2015 OE Noid
+Subject: Object Oriented Software Engineering
+Marks{f gf 100s TMB
+Date: 05/05/2015 Time: 4 4; 110.00 ank yp
+Duratidyst 3 (hrs)
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Year: II] Semester: VI
+
+~
+
+“ERD
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. | is compulsory.
+2. Out of remaining questions attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All question carry equal marks.
+3: Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicates full marks.
+Q.1 a. What is UML? What is its Scope ? Explain how the Unified Process [10]
+evolved? Explain the Phases of UML.
+b. Differentiate between Structured Software Engineering and Object Oriented
+Software Engineering. [10]
+Q.2. a. Explain in brief the building blocks of UML [10]
+b. Explain the Elicitation steps for the “* BlackBoard LMS Management [10]
+System”
+Q3. a. Design a neat class diagram for “Online Air Ticket Booking System” [10]
+b. What is modeling workflow ? Explain the same using Activity diagram and
+its extension. [10]
+Q4. a. What is a component? Explain the basic design principles for a component. [10]
+b. Design a Test Case for “Cancellation of tickets in Railway Reservation [10]
+System” .
+Q5. a. Explain the Object Oriented Testing Strategies. Also explain the types of [10]
+partition testing .
+b. Explain in brief the estimation for object oriented projects. [10]
+Q.6 a. Discuss the OO project management Issues [10]
+b. Design a State Diagram for “Washing Machine System”. [10]
+Q7. Write short note on the following. {20]
+
+a. Cohesion & Coupling
+
+b. Generic Process Framework
+
+c Random Testing for OO Classes
+
+d Composition and Aggregation Relation
+
+p
+1 JA
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper e9cf60472d8f
@@ -3060,6 +3130,7 @@ Write short notes: (Attempt any two)
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/OBJECT ORIENTED SOFTWARE ENGINEERING/Object Oriented Software Engineering 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04/12/2013
 - Text: ocr (2 pages), mean OCR confidence 82.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3135,77 +3206,6 @@ b) Cohesion
 c) Object Modéling Technique (OMT)
 d) Collaboration diagram
 
-EAC ACG A RC AE AR A A EC oR oR A CE eo 9K 9 OHH EW YY KKK Ko EA ER ee Oo EE oR aE CR oR
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 83200b6419ad
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/OBJECT ORIENTED SOFTWARE ENGINEERING/OBJECT ORIENTED SOFTWARE ENGINEERING B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 05/05/2015
-- Text: ocr (1 page), mean OCR confidence 88.8
-
-````text
-Programme: B. Tech (COMP)
-
-Batch: 2013-14 m
-Academic Year: 2014-2015 OE Noid
-Subject: Object Oriented Software Engineering
-Marks{f gf 100s TMB
-Date: 05/05/2015 Time: 4 4; 110.00 ank yp
-Duratidyst 3 (hrs)
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Year: II] Semester: VI
-
-~
-
-“ERD
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. | is compulsory.
-2. Out of remaining questions attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All question carry equal marks.
-3: Answer to each new question to be started on a fresh page.
-6. Figure in brackets indicates full marks.
-Q.1 a. What is UML? What is its Scope ? Explain how the Unified Process [10]
-evolved? Explain the Phases of UML.
-b. Differentiate between Structured Software Engineering and Object Oriented
-Software Engineering. [10]
-Q.2. a. Explain in brief the building blocks of UML [10]
-b. Explain the Elicitation steps for the “* BlackBoard LMS Management [10]
-System”
-Q3. a. Design a neat class diagram for “Online Air Ticket Booking System” [10]
-b. What is modeling workflow ? Explain the same using Activity diagram and
-its extension. [10]
-Q4. a. What is a component? Explain the basic design principles for a component. [10]
-b. Design a Test Case for “Cancellation of tickets in Railway Reservation [10]
-System” .
-Q5. a. Explain the Object Oriented Testing Strategies. Also explain the types of [10]
-partition testing .
-b. Explain in brief the estimation for object oriented projects. [10]
-Q.6 a. Discuss the OO project management Issues [10]
-b. Design a State Diagram for “Washing Machine System”. [10]
-Q7. Write short note on the following. {20]
-
-a. Cohesion & Coupling
-
-b. Generic Process Framework
-
-c Random Testing for OO Classes
-
-d Composition and Aggregation Relation
-
-p
-1 JA
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper 3a70b594c1cc
@@ -3364,6 +3364,7 @@ d) Test case design strategies
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/III SEMESTER/OBJECT ORIENTED SOFTWARE ENGINEERING/Object Oriented Software Engineering Batch 2013-14 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12/06/2014
 - Text: ocr (2 pages), mean OCR confidence 81.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3445,7 +3446,6 @@ c. Class abstraction
 d. View layer classes
 
 5 /
-2A RRC AE A A CE 2 AE CK AR eo of A A ARES KKK KE a Re A Be ee ee fe
 
 B]Q
 ````

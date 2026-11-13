@@ -14,9 +14,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Environmental Impact Assessment and Auditing(702CI0E014)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | Environmental Impact Assessment and Auditing, Sem-VII, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Civil 7005 | QP_Environmental Impact Assessment and Auditing(702CI0E014)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Environmental Impact Assessment and Auditing(702CI0E014)_2025-2026.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | Environmental Impact Assessement and Auditing, Sem-VII, Final Exam, A Y 2023-24.pdf |
 | 2013-14 | Final-Exam | Question paper | Sem 8 | B TECH / CIVIL | ENVIRONMENTAL IMPACT ASSSESSMENT AND AUDIT B TECH (CIVIL), 2013-14 FINAL EXAM.pdf [1] |
 | 2013-14 | Re-Exam | Question paper | Sem 8 | B TECH / CIVIL | ENVIRONMENTAL IMPACT ASSESSMENT AND AUDIT B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf [2] |

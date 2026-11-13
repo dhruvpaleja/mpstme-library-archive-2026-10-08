@@ -205,6 +205,7 @@ million.
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_Computer_7047/Mergers and Acquisitions/QP_Mergers and Acquisitions(703TF0E005)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 07 Feb 2026
 - Text: mixed (6 pages), mean OCR confidence 27.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1412,6 +1413,7 @@ Page 5 of 5
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/MERGER AND ACQUISITIONS/Mergers and Acquisions, Final Exam 2024-25.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 18 Dec 2024
 - Text: ocr (5 pages), mean OCR confidence 86.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 J _
@@ -1524,7 +1526,6 @@ Notes to accounts . | K Lid (Rs) 7
 “T%Preference Saresof 100each =—=SSst*=<“«*‘*‘“‘*SSS*S*« O00
 asescen ase ee . — . — vpo.000 00
 2 Reservesand Supls pe
-“General mesmo. pn RS emer ; a geen
 “Proftandlossacomt = SSSSSS*S*~*~SS gg
 3,71,375.00
 3 Long-term borrowings .
@@ -2169,7 +2170,7 @@ BL-
 roan
 ````
 
-## 2023 · Re-Exam · Sem 9 · paper 9e1d14138d9e
+## 2023-24 · Re-Exam · Sem 9 · paper 9e1d14138d9e
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH

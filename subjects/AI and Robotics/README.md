@@ -14,9 +14,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech IT 7001, Integrated IT 7037, MBATech IT 7041 | ANS_AI and Robotics(702IT0E013)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / I T, B.TECH INTEGRATED / IT | AI and Robotics 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | BTech IT 7001, Integrated IT 7037, MBATech IT 7041 | QP_AI and Robotics(702IT0E013)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech IT 7001, Integrated IT 7037, MBATech IT 7041 | ANS_AI and Robotics(702IT0E013)_2025-2026.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / I T | AI and Robotics, Sem-V, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / I T | AI and Robotics, Sem-V, A Y 2023-24, Final Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 5 | B TECH / I T | AI and Robotics, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf |

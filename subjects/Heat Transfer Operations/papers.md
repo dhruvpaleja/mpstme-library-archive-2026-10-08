@@ -190,6 +190,209 @@ insulation radius? - ;
 Bs
 ````
 
+## 2018-19 · Exam not stated · Sem 3 · paper 22900d46cb58
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/HEAT TRANSFER OPERATIONS/Heat Transfer operations 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
+- Text: ocr (3 pages), mean OCR confidence 93.0
+
+````text
+oy
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+i . : Semester : Ill
+Program: MBA Tech (Chemical) Year: I
+} ee Academic Year: 2018-2019
+| Subject: Heat Transfer Operations Marks: 70
+; ; Time: 2.00 pm to 5.00 pm
+Date: 21 January 2019 ~~ Durations:3 (hrs)
+
+No. of Pages: <a
+
+Re-examination (2017-18 / 2018-19). oe
+
+~ Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1A_ Answer the following questions: (14)
+
+1 Methanol is being cooled from 60 C to 40 C at 1 atm, in a heat exchanger in countercurrent
+fashion with water entering at 20 C and leaving at 30 C. What will be LMTD?
+a) 21.6 b) 24.6 c) 40.5 d) 20.5
+2 Ironing cloths is heat transfer by
+a) Conduction b) Convection c) Radiation d) bath (a) & (b)
+3 The Laminar flow by natural convection is when
+a) Re<2100 b) Ra<10® c) Ra<10° d) Re<10°
+4 2-4 pass shell and tube heat exchanger has passes for tube side fluid.
+a) 2 b) 4c) 1 d) none of these
+5 A sphere with Liquid ammonia stored at -33 C is covered with glasswool insulation, followed
+by asbestos insulation and covered by alluminium sheet, subjected to ambient conditions, the
+total number of conductive and convective resistance offered by the system will be
+a) 3;b) 4; c)5; d) 6
+6 For Multiple effect evaporator the economy is
+a) Less than 1 b) More than 1 c) equalto 1 d) less than 0.1
+
+7 Condensation is due to presence of impurities in condensing steam.
+a) Natural b) Film wise c) Drop wise d) Forced
+8 Emissivity of any body is the ratio of its to that of the black body at same wavelength.
+a) Absorptivity b) Emissive power c) Emissivity d) None of these
+9 For opaque body, the is equal to 1
+a) Absorptivity b) Reflectivity c) Transmitivity d) Radiations
+10 Critical radius of insulation is the radius of insulation at which the is maximum.
+a) Area b) Temperature difference c) Resistance d) rate of heat flow
+11 Incase of Calendria evaporators the solution to be evaporated flows the steam chest.
+
+a) Inside b) Outside c) None of these
+--- page 2 ---
+12
+13
+
+14
+
+Q2A
+Q2B
+
+Q3A
+Q3B
+
+Q4A
+
+Q4B
+
+Q5A
+
+Heat exchanger consists of rectangular, parallel plates held firmly together
+between substantial head frames.
+
+a) Shell and Tube b) Fins type c) Plate Type d) Graphite Block type.
+is a flat circular plate with a large number of holes drilled according to pitch
+requirement and provision for making gasketed joints.
+a) Tube sheet b) Baffles c) Channel d) Pass Partition
+Graphite Heat exchanger works in fashion.
+a) Co-current b) Counter current c) Parallel d) Cross flow
+
+Draw neat and labelled diagram of Kettle-type reboiler. (07)
+Define Pool Boiling and theory of Pool Boiling with graph. (07)
+Carry out dimensional analysis for heat transfer by forced convection. , (07)
+Explain the working and construction with diagram for Long tube evaporator. (07)
+
+Calculate heat loss from a 10 m long insulated pipe carrying hot fluid. What is the critical (04)
+radius of Insulation?
+
+Data : Internal diameter = 70 mm; Outer Diameter = 90 mm;
+
+Temperature of inside fluid = 120 °C; Temperature of ambient air = 25 °C;
+
+Thickness of insulation = 20 mm; Thermal Conductivity of pipe material = 60 W/mK; Thermal
+Conductivity of insulation = 0.25 W/mK;
+
+Inside Heat transfer coefficient = 700 W/m?K;
+
+Outside Heat transfer coefficient = 10 W/m2K
+
+In the process of fractionation, the 20,000 Ibs/hr of crude oil flowing in inner pipe, is to be (10)
+heated from 100 F to 152 F in a heat exchanger with kerosene flowing at the temp 385 F to 200
+
+F. Determine the number of hair pins required in a double pipe heat exchanger with dirt factor
+
+of 0.003.
+
+Data: Use 1” OD inner tube, 0.87” ID inner tube, 1.6” ID of outer tube, 12 fi long.
+
+Properties of fluids: Kerosene Crude Oil
+Density (Ib/ft?) ‘ 45.57 51.82
+Specific Heat (Btu/Ib hr F) 0.605 0.49
+Viscosity (Ib/ft hr) 0.968 8.712
+Thermal conductivity (Btu/hr ft F) 0.0765 0.077
+
+Use Fr (correction factor) as 0.93
+Equivalent Diameter = 0.129”.
+
+To effectively utilize heat from the condensing distillate, a heat exchanger is to be designed to (07)
+heat 5000 Kg/hr of water from 30°C to 60°C with distillate condensing at 100 C, in the annulus
+region between inner pipe with outer pipe. The outer diameter of inner pipe is 25 mm, inside
+diameter of 22 mm and outer pipe with 36 mm inside diameter, the length of heat exchanger is
+
+4 m. Find Number of tubes required and the quantity of distillate condensing if following data
+
+is given:
+
+Thermal conductivity of metal = 165 W/m K
+
+Latent heat of distillate @ 100°C = 1020 KJ/Kg.
+
+*f2
+--- page 3 ---
+Heat transfer coefficient on outer side = 1760 W/m? K
+Density of water = 998 Kg/m?.
+Specific Heat of water = 4.187 KJ/ Kg K
+Thermal Conductivity of water = 0.634 W/m K.
+Kinematic viscosity of water = 0.67 x 10% m/s
+Q5B_ Describe the mode/s of heat transfer in the following cases: (07)
+a) Sitting near Fire place inside the room
+b) Electric Oven
+c) Salt formation at salt pans
+d) Hot air balloon
+e) Boiling Potato
+f) Straitening of hair using hair straightener iron
+g) Green house for plants in colder regions
+
+Q6A A cold store has a wall comprising 15 cm of brick followed by 9 cm of concrete and then 12 (10)
+cm of cork. The mean temperature within the store is maintained at -30°C and the mean
+temperature of the outside surface of the wall is 25°C. The appropriate thermal conductivities
+are for brick, concrete and cork, respectively 0.69, 0.76 and 0.043 J/msC.
+Using the inside and outside heat transfer coefficient as 1200 W/m?C and 15 W/m?C,
+Calculate:
+
+a) rate of heat transfer through the wall ;
+
+b) Interface temperatures between the concrete and cork layers, and the brick and concrete
+layers
+
+c) The zone and location at which the temperature will be 0°C.
+
+d) If the heat transfer is to be reduced by 30% than what change do you recommend with
+respect to Brick layer?
+
+Q6B A hot plate of area 0.3m? is maintained at a temperature of 70°C by a 150 W heater, when the (04)
+room temperature is 20°C. The appropriate convection coefficient (h) is 2.512(AT)"4 w/m2°k.
+
+What fraction of the heat supplied is lost by natural convection? What happens to the rest of the
+heat supplied?
+
+Q7A_ Differentiate between: (07)
+1 Conduction and Convention
+
+2 Film wise and Drop wise condensation
+
+Q7B_ Liquid oxygen boiling at -183 C is stored in a 20 liter spherical container of diameter 38 cm. (07)
+The container is surrounded by a concentric spherical shell of diameter 44 cm at a temperature
+of 30 C and the space between the two spheres is evacuated. The surfaces of the spheres facing
+each other are silvered and have an emissivity of 0.3. Taking the latent heat of vaporization for
+oxygen to be 201 KJ/Kg find the rate at which oxygen evaporates. Also Calculate the rate of
+heat flow due to radiation? What will be the increase in heat flow if polished aluminum with an
+emissivity of 0.4 is used for the container walls?
+
+ip
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper 5e2b26b0108f
 
 - Departments: Chemical
@@ -523,209 +726,6 @@ Q7A_ Answer the following questions (08)
 4 Differentiate between Drop wise and Film wise condensation.
 
 Q7B_ Explain Horizontal tube evaporators, its advantages and disadvantages. (06)
-````
-
-## 2017-18 · Exam not stated · Sem 3 · paper 22900d46cb58
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/HEAT TRANSFER OPERATIONS/Heat Transfer operations 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 21 January 2019
-- Text: ocr (3 pages), mean OCR confidence 93.0
-
-````text
-oy
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-i . : Semester : Ill
-Program: MBA Tech (Chemical) Year: I
-} ee Academic Year: 2018-2019
-| Subject: Heat Transfer Operations Marks: 70
-; ; Time: 2.00 pm to 5.00 pm
-Date: 21 January 2019 ~~ Durations:3 (hrs)
-
-No. of Pages: <a
-
-Re-examination (2017-18 / 2018-19). oe
-
-~ Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1A_ Answer the following questions: (14)
-
-1 Methanol is being cooled from 60 C to 40 C at 1 atm, in a heat exchanger in countercurrent
-fashion with water entering at 20 C and leaving at 30 C. What will be LMTD?
-a) 21.6 b) 24.6 c) 40.5 d) 20.5
-2 Ironing cloths is heat transfer by
-a) Conduction b) Convection c) Radiation d) bath (a) & (b)
-3 The Laminar flow by natural convection is when
-a) Re<2100 b) Ra<10® c) Ra<10° d) Re<10°
-4 2-4 pass shell and tube heat exchanger has passes for tube side fluid.
-a) 2 b) 4c) 1 d) none of these
-5 A sphere with Liquid ammonia stored at -33 C is covered with glasswool insulation, followed
-by asbestos insulation and covered by alluminium sheet, subjected to ambient conditions, the
-total number of conductive and convective resistance offered by the system will be
-a) 3;b) 4; c)5; d) 6
-6 For Multiple effect evaporator the economy is
-a) Less than 1 b) More than 1 c) equalto 1 d) less than 0.1
-
-7 Condensation is due to presence of impurities in condensing steam.
-a) Natural b) Film wise c) Drop wise d) Forced
-8 Emissivity of any body is the ratio of its to that of the black body at same wavelength.
-a) Absorptivity b) Emissive power c) Emissivity d) None of these
-9 For opaque body, the is equal to 1
-a) Absorptivity b) Reflectivity c) Transmitivity d) Radiations
-10 Critical radius of insulation is the radius of insulation at which the is maximum.
-a) Area b) Temperature difference c) Resistance d) rate of heat flow
-11 Incase of Calendria evaporators the solution to be evaporated flows the steam chest.
-
-a) Inside b) Outside c) None of these
---- page 2 ---
-12
-13
-
-14
-
-Q2A
-Q2B
-
-Q3A
-Q3B
-
-Q4A
-
-Q4B
-
-Q5A
-
-Heat exchanger consists of rectangular, parallel plates held firmly together
-between substantial head frames.
-
-a) Shell and Tube b) Fins type c) Plate Type d) Graphite Block type.
-is a flat circular plate with a large number of holes drilled according to pitch
-requirement and provision for making gasketed joints.
-a) Tube sheet b) Baffles c) Channel d) Pass Partition
-Graphite Heat exchanger works in fashion.
-a) Co-current b) Counter current c) Parallel d) Cross flow
-
-Draw neat and labelled diagram of Kettle-type reboiler. (07)
-Define Pool Boiling and theory of Pool Boiling with graph. (07)
-Carry out dimensional analysis for heat transfer by forced convection. , (07)
-Explain the working and construction with diagram for Long tube evaporator. (07)
-
-Calculate heat loss from a 10 m long insulated pipe carrying hot fluid. What is the critical (04)
-radius of Insulation?
-
-Data : Internal diameter = 70 mm; Outer Diameter = 90 mm;
-
-Temperature of inside fluid = 120 °C; Temperature of ambient air = 25 °C;
-
-Thickness of insulation = 20 mm; Thermal Conductivity of pipe material = 60 W/mK; Thermal
-Conductivity of insulation = 0.25 W/mK;
-
-Inside Heat transfer coefficient = 700 W/m?K;
-
-Outside Heat transfer coefficient = 10 W/m2K
-
-In the process of fractionation, the 20,000 Ibs/hr of crude oil flowing in inner pipe, is to be (10)
-heated from 100 F to 152 F in a heat exchanger with kerosene flowing at the temp 385 F to 200
-
-F. Determine the number of hair pins required in a double pipe heat exchanger with dirt factor
-
-of 0.003.
-
-Data: Use 1” OD inner tube, 0.87” ID inner tube, 1.6” ID of outer tube, 12 fi long.
-
-Properties of fluids: Kerosene Crude Oil
-Density (Ib/ft?) ‘ 45.57 51.82
-Specific Heat (Btu/Ib hr F) 0.605 0.49
-Viscosity (Ib/ft hr) 0.968 8.712
-Thermal conductivity (Btu/hr ft F) 0.0765 0.077
-
-Use Fr (correction factor) as 0.93
-Equivalent Diameter = 0.129”.
-
-To effectively utilize heat from the condensing distillate, a heat exchanger is to be designed to (07)
-heat 5000 Kg/hr of water from 30°C to 60°C with distillate condensing at 100 C, in the annulus
-region between inner pipe with outer pipe. The outer diameter of inner pipe is 25 mm, inside
-diameter of 22 mm and outer pipe with 36 mm inside diameter, the length of heat exchanger is
-
-4 m. Find Number of tubes required and the quantity of distillate condensing if following data
-
-is given:
-
-Thermal conductivity of metal = 165 W/m K
-
-Latent heat of distillate @ 100°C = 1020 KJ/Kg.
-
-*f2
---- page 3 ---
-Heat transfer coefficient on outer side = 1760 W/m? K
-Density of water = 998 Kg/m?.
-Specific Heat of water = 4.187 KJ/ Kg K
-Thermal Conductivity of water = 0.634 W/m K.
-Kinematic viscosity of water = 0.67 x 10% m/s
-Q5B_ Describe the mode/s of heat transfer in the following cases: (07)
-a) Sitting near Fire place inside the room
-b) Electric Oven
-c) Salt formation at salt pans
-d) Hot air balloon
-e) Boiling Potato
-f) Straitening of hair using hair straightener iron
-g) Green house for plants in colder regions
-
-Q6A A cold store has a wall comprising 15 cm of brick followed by 9 cm of concrete and then 12 (10)
-cm of cork. The mean temperature within the store is maintained at -30°C and the mean
-temperature of the outside surface of the wall is 25°C. The appropriate thermal conductivities
-are for brick, concrete and cork, respectively 0.69, 0.76 and 0.043 J/msC.
-Using the inside and outside heat transfer coefficient as 1200 W/m?C and 15 W/m?C,
-Calculate:
-
-a) rate of heat transfer through the wall ;
-
-b) Interface temperatures between the concrete and cork layers, and the brick and concrete
-layers
-
-c) The zone and location at which the temperature will be 0°C.
-
-d) If the heat transfer is to be reduced by 30% than what change do you recommend with
-respect to Brick layer?
-
-Q6B A hot plate of area 0.3m? is maintained at a temperature of 70°C by a 150 W heater, when the (04)
-room temperature is 20°C. The appropriate convection coefficient (h) is 2.512(AT)"4 w/m2°k.
-
-What fraction of the heat supplied is lost by natural convection? What happens to the rest of the
-heat supplied?
-
-Q7A_ Differentiate between: (07)
-1 Conduction and Convention
-
-2 Film wise and Drop wise condensation
-
-Q7B_ Liquid oxygen boiling at -183 C is stored in a 20 liter spherical container of diameter 38 cm. (07)
-The container is surrounded by a concentric spherical shell of diameter 44 cm at a temperature
-of 30 C and the space between the two spheres is evacuated. The surfaces of the spheres facing
-each other are silvered and have an emissivity of 0.3. Taking the latent heat of vaporization for
-oxygen to be 201 KJ/Kg find the rate at which oxygen evaporates. Also Calculate the rate of
-heat flow due to radiation? What will be the increase in heat flow if polished aluminum with an
-emissivity of 0.4 is used for the container walls?
-
-ip
 ````
 
 ## 2017-18 · Final-Exam · Sem 3 · paper e14b21e69fe0
@@ -1261,6 +1261,115 @@ V/9
 ~A| e—
 ````
 
+## 2015-16 · Re-Exam · Sem 3 · paper 6d68a168b156
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/HEAT TRANSFER OPERATIONS/Heat Transfer Operations Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 03/12/2015
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+ate Programme:MBA Tech (CHEMICAL) Yearill Semester: III
+Academic Year: 2015 - 16
+Batch:2014-15
+
+Subject : Heat Transfer Operations
+
+Date :03/12/2015
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NOTE:
+
+1) Question number 1 is compulsory. Answer any four questions from the remaining
+questions. In all 5 questions to be attempted
+
+2) Figures in bracket on the right indicate full marks
+
+3) Assume suitable data wherever necessary.
+
+Qi Answer the following questions Ci 2)
+1 Explain boiling point Elevation in evaporation.
+
+2 Draw temperature profile for cocurrent and counter current double pipe heat exchanger and
+write LMTD equation for each.
+3 What is critical radius of insulation? Describe its significance in insulation of pipes.
+
+4 Explain the term emissive power and emissivity in radiation heat transfer.
+
+Q2A A special thermobox is made of 20 mm thick stainless steel plate (K = 60 W/mK), insulated (6)
+with a 20 mm thick asbestos layer (K = 0.1 W/mK). If the inner wall of box is maintained
+at 525 C, with heat transfer coefficient of 100 W/m’K and the outer surface is maintained at
+298 K with heat transfer coefficient of air of 25 W/m°K. Find the heat lost per m’ of box
+temperatures at interface and the temperature gradients for each layer.
+
+Q2B A heat exchanger is to be designed to heat 300cm3/s of fluid from 20°C to 45°C with steam (6)
+condensing on the outer surface of tubes of outer diameter of 25 mm, 2.5 mm thick and
+length of 5 m. Find Number of tubes required and the quantity of steam condensing if
+following data is given to you:
+
+Latent heat of steam @ 110°C = 2230 KIKg.
+
+Heat transfer coefficient on outer side = 4650 W/m? K
+Density of fluid = 1.1 g/cm’.
+
+Specific Heat of fluid = 1.26 KJ/KgK .
+
+Thermal Conductivity of fluid = 0.384 W/m K.
+viscosity of fluid = 0.8 ep’
+
+viscosity of fluid at wall temperature = 0.7 cp
+
+Q3A _ Draw neat and labeled diagram of 2-4 pass shell and tube Heat exchanger, describing (4)
+importance of every part.
+Q3B Explain graphite block heat exchanger in brief. . (3)
+--- page 2 ---
+Q4A Show by dimensional analysis, Nusselt number is the function of Grasoff number and (6) wn
+Prandtl number for the case of Natural convection.
+Q4B Describe the mechanism of boiling with diagrams. (6)
+
+,
+
+Q5A __ Derive the Expression for heat transfer through fiwnace wall made of three different (6)
+materials in series. Assume Kj,K2,K3 be the thermal conductivities of different materials ,
+and X),X2,X3,be the respective thickness. Let hi and ho be the convective heat transfer
+coefficients for inside hot gas and ambient air respectively.
+
+Q5B It is required to heat 4450 Kg/hr of benzene from 27°C to 50°C using a counter current (6)
+double pipe heat exchanger. The hot toluene is available at 71°C and leaves at 38°C. The
+benzene flows through the inner pipe of 35 mm inside diameter, 3.5 mm thick, 6 m length
+and toluene flows through the annulus. The internal diameter of the outer tube is 53 mm.
+
+Use appropriate equations to estimate the convection heat transfer coefficients and
+determine the overall heat transfer coefficient of the heat exchanger.
+
+Benzene Toluene
+Specific Gravity 0.88 0.87
+Specific Heat (KJ/Kg K) 1.779 1.842
+Viscosity (Kg/mS) 4,09x10™ 5x107
+Thermal Conductivity (W/m Kk) 0.147 0.157
+
+Q6A_ A pipe carrying steam having an outside diameter of 150 mm runs in a large room and is ( 6)
+exposed to air at a temperature of 30 C. The pipe surface is at 673 K. Calculate the loss of
+heat to the surroundings per meter length of pipe due to thermal radiations. The emissivity
+of the pipe material is 0.7. What will be the reduction in heat flow if the pipe is enclosed in
+a 300 mm diameter brick conduit of emissivity 0.95?
+Q6B Explain with diagram the backward feed arrangement for multiple effect evaporators. (6)
+
+Q7 Answer: (Any 2) (12)
+1) Compare film condensation with drop condensation
+2) Enlist the steps with formula for design of 1-2 pass shell and tube heat exchanger by
+kern method. (only steps no calculations)
+3) Plate type heat exchanger.
+````
+
 ## 2015-16 · Re-Exam · Sem 3 · paper 690fd29dad91
 
 - Departments: Chemical
@@ -1635,115 +1744,6 @@ Dirt factor (m? K/ W) 3x10" 3x10™
 Q7B Compare co current arrangement and counter current arrangement fej
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper 6d68a168b156
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/HEAT TRANSFER OPERATIONS/Heat Transfer Operations Batch 2014-15 Re Exam.pdf`
-- Printed on paper: exam date: 03/12/2015
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-ate Programme:MBA Tech (CHEMICAL) Yearill Semester: III
-Academic Year: 2015 - 16
-Batch:2014-15
-
-Subject : Heat Transfer Operations
-
-Date :03/12/2015
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NOTE:
-
-1) Question number 1 is compulsory. Answer any four questions from the remaining
-questions. In all 5 questions to be attempted
-
-2) Figures in bracket on the right indicate full marks
-
-3) Assume suitable data wherever necessary.
-
-Qi Answer the following questions Ci 2)
-1 Explain boiling point Elevation in evaporation.
-
-2 Draw temperature profile for cocurrent and counter current double pipe heat exchanger and
-write LMTD equation for each.
-3 What is critical radius of insulation? Describe its significance in insulation of pipes.
-
-4 Explain the term emissive power and emissivity in radiation heat transfer.
-
-Q2A A special thermobox is made of 20 mm thick stainless steel plate (K = 60 W/mK), insulated (6)
-with a 20 mm thick asbestos layer (K = 0.1 W/mK). If the inner wall of box is maintained
-at 525 C, with heat transfer coefficient of 100 W/m’K and the outer surface is maintained at
-298 K with heat transfer coefficient of air of 25 W/m°K. Find the heat lost per m’ of box
-temperatures at interface and the temperature gradients for each layer.
-
-Q2B A heat exchanger is to be designed to heat 300cm3/s of fluid from 20°C to 45°C with steam (6)
-condensing on the outer surface of tubes of outer diameter of 25 mm, 2.5 mm thick and
-length of 5 m. Find Number of tubes required and the quantity of steam condensing if
-following data is given to you:
-
-Latent heat of steam @ 110°C = 2230 KIKg.
-
-Heat transfer coefficient on outer side = 4650 W/m? K
-Density of fluid = 1.1 g/cm’.
-
-Specific Heat of fluid = 1.26 KJ/KgK .
-
-Thermal Conductivity of fluid = 0.384 W/m K.
-viscosity of fluid = 0.8 ep’
-
-viscosity of fluid at wall temperature = 0.7 cp
-
-Q3A _ Draw neat and labeled diagram of 2-4 pass shell and tube Heat exchanger, describing (4)
-importance of every part.
-Q3B Explain graphite block heat exchanger in brief. . (3)
---- page 2 ---
-Q4A Show by dimensional analysis, Nusselt number is the function of Grasoff number and (6) wn
-Prandtl number for the case of Natural convection.
-Q4B Describe the mechanism of boiling with diagrams. (6)
-
-,
-
-Q5A __ Derive the Expression for heat transfer through fiwnace wall made of three different (6)
-materials in series. Assume Kj,K2,K3 be the thermal conductivities of different materials ,
-and X),X2,X3,be the respective thickness. Let hi and ho be the convective heat transfer
-coefficients for inside hot gas and ambient air respectively.
-
-Q5B It is required to heat 4450 Kg/hr of benzene from 27°C to 50°C using a counter current (6)
-double pipe heat exchanger. The hot toluene is available at 71°C and leaves at 38°C. The
-benzene flows through the inner pipe of 35 mm inside diameter, 3.5 mm thick, 6 m length
-and toluene flows through the annulus. The internal diameter of the outer tube is 53 mm.
-
-Use appropriate equations to estimate the convection heat transfer coefficients and
-determine the overall heat transfer coefficient of the heat exchanger.
-
-Benzene Toluene
-Specific Gravity 0.88 0.87
-Specific Heat (KJ/Kg K) 1.779 1.842
-Viscosity (Kg/mS) 4,09x10™ 5x107
-Thermal Conductivity (W/m Kk) 0.147 0.157
-
-Q6A_ A pipe carrying steam having an outside diameter of 150 mm runs in a large room and is ( 6)
-exposed to air at a temperature of 30 C. The pipe surface is at 673 K. Calculate the loss of
-heat to the surroundings per meter length of pipe due to thermal radiations. The emissivity
-of the pipe material is 0.7. What will be the reduction in heat flow if the pipe is enclosed in
-a 300 mm diameter brick conduit of emissivity 0.95?
-Q6B Explain with diagram the backward feed arrangement for multiple effect evaporators. (6)
-
-Q7 Answer: (Any 2) (12)
-1) Compare film condensation with drop condensation
-2) Enlist the steps with formula for design of 1-2 pass shell and tube heat exchanger by
-kern method. (only steps no calculations)
-3) Plate type heat exchanger.
-````
-
 ## 2013-14 · Final-Exam · Sem 3 · paper baeade05022a
 
 - Departments: Chemical
@@ -1877,7 +1877,7 @@ A
 afo
 ````
 
-## 2012-13 · Re-Exam · Trim 4 · paper 62c0d2e876b4
+## 2013-14 · Re-Exam · Trim 4 · paper 62c0d2e876b4
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -1980,6 +1980,314 @@ Q7B Give different forms of overall heat transfer coefficient; explain why dirt 
 and its impact on overall heat transfer coefficient.
 
 2/
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper ab2d483b5396
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/HEAT TRANSFER OPERATIONS/scan0018(9).pdf`
+- Printed on paper: max marks: 100; exam date: 27/10/2012
+- Text: ocr (3 pages), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA(Tech) - (Chemical) Year: II Trimester: IV ee = Stays
+Academic Year : 2012-2013
+
+be HEAT TRANSFER
+Subject: OPERATIONS Marks: 100
+Time: 2.00 pm )
+Date: 27/10/2012 Duration: 3 NX
+Final - Examination .
+NOTE:
+
+1) Question number 1 is compulsory.
+2) Figures in bracket indicate full marks
+3) Assume suitable data wherever necessary.
+
+QIA State True or False and correct the sentence if False. (10)
+
+1 Critical radius of insulation is the outer radius of insulation at which the rate of heat flow
+is maximum. °
+a) True b) False .
+
+2 Log mean temperature difference is used in case of countercurrent flow only.
+
+. a) True b) False
+
+3 Temperature gradient means change in Area with respect to temperature.
+a) True b) False.
+
+4 Land breeze and sea breeze are due to Radiative heat transfer.
+a) True b) False
+
+5 The drop wise condensation is achieved when the pipe surfaces are smooth.
+a) True b) False
+
+6 Economy of single effect evaporator is always less than one.
+a) True b) False
+
+7 Baffles are employed in the heat exchanger to increase the turbulence in tubes.
+
+a) True b) False
+Square Pitch design of tube sheet has advantage of incorporating larger number of tubes
+than triangular pitch in a given shell diameter.
+a) True b) False
+9 9. Heat transfer coefficient increases after Leidenfrost point.
+a) True b) False
+10 In case of evaporation vapor is generally the valuable Product.
+a) True b) False
+
+Q1B ; Define the following: (10)
+
+‘ * a) Nucleate Boiling, b) Kirchhoff’s Law c) Evaporator Capacity d) Approach
+| © Critical Radius of Insulation
+Q2A _ Differentiate between Drop wise and Film wise condensation. Also explain what is the (10)
+effect of non condensable gases during condensation operation?
+Q2B_— Carry out dimensionless analysis for heat transfer through Natural Convection. Also state (10)
+the empirical formulas for Forced convection for laminar & turbulent flows.
+
+Ys
+--- page 2 ---
+Q3A — Explain with neat and labeled diagram the 1-2 pass shell and tube Heat exchanger. (10)
+
+Q3B_ Explain the Calendria Evaporator with diagram along with its advantages and (10)
+disadvantages. :
+
+Q4A Calculate the heat transfer coefficient for fluid flowing at the rate of 15000 Kg/hr through (8)
+a 20 mm inside diameter tube & 7mm thickness, of heat exchanger. Compare the value
+obtained by Dittus Boelter Equation as well as by Sider Tate Equation.
+
+Data:
+Viscosity of flowing fluid = 0.7 Cp.
+Specific gravity of fluid = 0.885
+Specific heat of fluid = 3.247 KJ/Kg K
+Thermal conductivity of fluid = 0.256 W/m K
+Temperature of fluid entering is 100 C and leaving at 72 C
+Viscosity of fluid at wall temperature = = 0.53 Cp:
+Q4B_ Hot Oil is cooled in a double pipe heat exchanger from 100 °C to 45 °C by cold water (6)
+: flowing at 200 kg/min from 10 °C to 42 °C, What will be the rate of heat transfer if
+specific heat of oil is 0.84 W/mK. Which type of flow arrangement is recommended?
+Why? and what is the LMTD for different types of flow?
+
+Q4C __ A furnace wall is constructed with 230 mm thickness of fire brick, 115 mm of insulating (6)
+brick and then 230 mm of building brick. The inside temperature of the furnace is 1213 K
+and the outside temperature is 45°C. The thermal conductivity of fire brick, insulating
+brick and building brick are 6.1 W/mK, 0.55 W/mK and 2.23 W/mK respectively. Find the
+heat lost per unit area and the temperatures at the interface
+
+Q5A __ Explain the Backward feed mechanism for multiple effect evaporators with diagram. Also (10)
+
+fi list its advantages and limitations.
+
+Q5 B It is required to cool 0.6 Kg/s of Oil from 125°C to Jo'c using a co- este weet double pipe (10)
+heat exchanger. The cooling water is available at 25 °C and leaves at 35°C. The oil flows
+through the inner copper tube of 15 mm diameter, 5 m length and 3mm thickness. Water
+flows through the annulus. The internal diameter of the outer tube is 30 mm. Use
+appropriate equations to estimate the heat transfer coefficients and determine the overall
+heat transfer coefficient of the heat exchanger.
+
+OIL WATER
+Specific Gravity 0.864 0.96
+Specific Heat (KJ/Kg kK) 24 4.187
+. _, | Kinematic Viscosity (m7/S) 0.85x10" 0.887x10°
+¢|Thermal Conductivity (W/m K) 0.16 0.606
+Dirt factor (m? K/ W) 3x10" 3x10*
+
+Q6A _— Anice box has walls constructed of 100 mm layer of cork board contained between two (8)
+wooden walls each 20 mm thick. Find the rate of heat removed per unit area if the inner
+
+2I
+--- page 3 ---
+wall surface is kept at -10 C while the outer surface temperature is 30 C. Find out the zone
+in wall and the thickness from inside of box where temperature is 20 C also find
+temperatures at the interface.
+
+Thermal conductivity of Cork board is 0.041 W/mK
+
+Thermal conductivity of wood is 0.105 W/mK
+
+Q6B A 3.5 cm ID Pipe, 4 m long, having temperature of 473 K passes through a room in which (6)
+the surroundings are at the temperature of 27 C. The outside diameter of pipe is 40 mm. If
+the emissivity of the pipe metal is 0.7, what is the net interchange of radiation energy per
+meter length of pipe? Also what would be the percentage change in radiant energy if the
+emissivity of pipe material considered earlier was error and new value is 0.4?
+
+Q6C Liquid Oxygen boiling at 90 K is stored in a 30 litre spherical container of diameter 55 (6)
+cm. The container is surrounded by a concentric spherical shell of diameter 65 cm at a
+temperature of 27 C and the space between the two spheres is evacuated. The surfaces of
+the spheres facing each other are silvered and have an emissivity of 0.04. Taking the latent
+heat of vaporization for nitrogen to be 201 KJ/Kg find the rate at which oxygen
+evaporates.
+
+Q7A __ Answer the following questions (10)
+1) Why are Impingers used in Evaporators?
+2) What is Fourier’s Law?
+3) What is the significance of dirt factor?
+
+4) What happens if non condensable gases enter into condenser along with condensable
+gases?
+5) What are the Advantages of Forward circulation evaporators?
+
+Q7B _ Enlist the steps & Formulas used in design of Heat Exchanger by Kern Method. (10)
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper 2253c58e8108
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/HEAT TRANSFER OPERATIONS/scan0023(11).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/10/2012
+- Text: ocr (3 pages), mean OCR confidence 92.2
+
+````text
+4
+
+Programme: MBA(Tech) - (Chemical) Year: II Trimester: IV
+
+Batch: 2011-2012 SVKM'S
+NMIMS Universit
+: HEAT TRANSFER Y
+Subject: Marks: 100 Mumbai - 56, 7 = |
+OPERATIONS LIBRARY ) =
+Time: 2.00 pm To' I>,
+Date: 27/10/2012 Duration: 3 hrs. ee A
+ERAT,
+Re - Examination MANAGENE
+NOTE:
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+Academic Year : 2012-2013
+
+1) Question number | is compulsory; Answer any four questions from remaining questions.
+2) Figures in bracket indicate full marks
+3) Assume suitable data wherever necessary.
+
+YY
+
+Jef
+
+Q1IA Fill in the blank . : . (10)
+1) Water is to be heated from 27C to 63C using condensing steam at 100C the LMTD for
+Counter current would give better heat transfer.
+
+a) True b) False
+2) The drop wise condensation is achieved when the pipe surfaces are smooth.
+a) True b) False
+3) Critical radius of insulation is the outer radius of insulation at which the rate of heat
+flow is maximum.
+a) True b) False
+4) The ration (Cpy/K) is known as number.
+a) Peclet number b) Nusselt Number c) Prandlt Number d) Reynolds Number
+5) Incase of boiling, vaporization takes place directly from surface.
+a) Film Boiling b) Transition Boiling c) Pool Boiling d) Nucleate Boiling
+6) Economy of single effect evaporator is always less than
+a) 1 b) 100 c) 10 d) 0.1
+7) The unit of dirt factor/Fouling factor in SI units is
+a) Wim’K b) KJ/m’K c) m’K/W d) mK/W
+8) In case of evaporation is generally the valuable Product.
+a) Vapor b) Thick liquor c) Steam d) dry powder.
+9) Heat exchanger consists of rectangular, parallel plates held firmly
+together between substantial head frames.
+a) Shell and Tube b) Fins type c) Piate Type d) Graphiie Block type.
+10) is a flat circular plate with a large number of holes drilled according
+to pitch requirement and provision for making gasketed joints.
+a) Baffles b) Tube sheet c) Channel d) Pass Partition ;
+Q1B Define (10)
+
+1) Critical radius of Insulation
+
+2) Approach
+
+3) Fouling Factor
+
+4) Evaporator Economy
+
+5) Kirchhoff’s Law
+
+Q2A
+
+Liquid oxygen boiling at -183 C is stored in a 22 litre spherical container of diameter 38 | (10)
+cm. The container is surrounded by a concentric spherical shell of diameter 44 cm at a
+
+Y'3
+--- page 2 ---
+temperature of 30 C and the space between the two spheres is evacuated. The surfaces of
+the spheres facing each other are silvered and have an emissivity of 0.03. Taking the latent
+heat of vaporization for oxygen to be 201 KJ/Kg find the rate at which oxygen evaporates.
+Also Calculate the rate of heat flow due to radiation? What will be the reduction in heat
+flow if polished aluminum with an emissivity of 0.5 is used for the container walls?
+
+Q2B_ |A 50 mm ID Pipe having temperature of 150 C passes through a room in which the | (5)
+_| surroundings are at the temperature of 27 C. The outside diameter of pipe is 6 cm. If the
+emissivity of the pipe metal is 0.8, what is the net interchange of radiation energy per
+meter length of pipe? Also what would be the percentage change in radiant energy if the
+emissivity of pipe material considered earlier was error and new value is 0.5?
+
+Q2C_ | Explain Stefan Boltzmann law with formula and explaining each term. (5)
+
+Q3A_ | Draw U tube — shell tube heat exchanger labeling all important parts and also describe the | (14)
+importance of all the parts.
+
+Q3B_ | Calculate heat loss from a 10 m long insulated pipe carrying hot fluid. What is the critical | (6)
+radius of Insulation? ;
+Data : Internal diameter = 70 mm
+Outer Diameter = 90 mm
+Temperature of inside fluid = 120 °C
+Temperature of ambient air = 25 °C
+Thickness of insulation = 20 mm
+Thermal Conductivity of pipe material = 60 W/mK.
+Thermal Conductivity of pipe insulation = 0.25 W/mK
+Inside Heat transfer coefficient = 700 W/m?K.
+Outside Heat transfer coefficient = 10 W/m?K
+
+Q4A_ | A horizontal pipe 1ft in diameter is maintained at a temperature of 523 K in a room where | (6)
+j the air is at 288 K. Find the heat loss by natural convection for the pipe length of 6 m.
+The properties of air at the film temperature of 405.5 K are:
+Thermal conductivity = 0.034 W/m K; B = 2.47x10° K"'!; Npr = 0.687 and Kinematic
+viscosity = 26.54x10-6 m”/S.
+
+Q4B_ | Hot Oil is cooled in a double pipe heat exchanger from 120 °C to 45 °C by cold water | (4)
+flowing at 175 kg/min from 15 °C to 43 °C. What willibe the rate of heat transfer if
+specific heat of oil is 0.84 W/mK. Which type of flow arrangement is recommended?
+Why? and what is the LMTD for different types of flow?
+
+Q4C_| Explain the mechanism of boiling with neat diagrams. (10)
+Q5 A v Define Critical radius of Insulation and derive the formula for the same. (4)
+Q5B_ | Write short note on condensation (8)
+
+Q5C__ | Describe the working principle, with diagram, of Backward feed mechanism of multiple (8)
+effect evaporators.
+
+ob
+--- page 3 ---
+Q6A_ | A furnace is constructed with 250 mm thickness of wood, 70 mm of insulating brick and (5)
+again with 250 mm of wood. The inside temperature is 1600 C and the temperature at the
+outermost wall is 323 K. The thermal conductivities of wood and insulating brick are 0.65
+W/mK, 0.582 W/mK respectively. Find the heat loss per unit area and the temperature at
+
+interface.
+Q6B_ | Derive the equation for rate of heat flow by conduction for a pipe insulated with glass (10)
+wool and asbestos, with temperatures inside the pipe as 350 C and temperature outside the
+pipe as 30 C.
+Q6C_ | Explain any two types of extended surface heat exchanger with diagram. (5)
+Q7A_ | Draw Kettle type reboiler with all parts neatly drawn and labeled. (10)
+Q7B Give the formulas for following Numbers: (4)
+
+1) Prandle Number
+2) Grashof’s Number
+3) Reynolds Number
+4) Rayleigh Number
+
+Q7C __ | Describe the working principle of calendria evaporator along with its advantages and (6)
+disadvantages.
+
+a.
 ````
 
 ## 2012-13 · Re-Exam · Trim 4 · paper 3f01f4003b60
@@ -3126,6 +3434,7 @@ N.B:-
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/HEAT TRANSFER OPERATIONS/2006-2007(15).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 92.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 S
@@ -3242,7 +3551,6 @@ emissivity of 0.03. Taking the latent heat of vaporization of liquid nitrogen to
 
 201 kJ/kg, find the rate at which the nitrogen evaporates. (6)
 (D) Describe boiling mechanism with diagram. (6)
-28 Ae A A KH KK HK
 ````
 
 ## 2005-06 · Exam not stated · Trim 4 · paper c52f840ef2e2
@@ -3251,6 +3559,7 @@ emissivity of 0.03. Taking the latent heat of vaporization of liquid nitrogen to
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/HEAT TRANSFER OPERATIONS/2005-2006(16).pdf`
 - Text: ocr (5 pages), mean OCR confidence 61.5
+- 21 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4, JEE MONJEE INSTITUTE OF MANAGEMENT STUDIES, M
@@ -3381,7 +3690,6 @@ Outline E-NTU method of heat exchanger design. 4 Marks
 SHSHHHSH
 --- page 3 ---
 % ; \ G4 +f \
-6y (i) an bes Ys momento dityubctiviky m ‘Ths pe :
 Pra 2 fx = Gy ke dass, condor vibes We
 
 & k, St Densely kala? x= k
@@ -3395,18 +3703,15 @@ Oh = fe Oy =Ta)} (4t/AY)m _ “Rage vo: Re = DUS
 
 @| Nugcetts wo Nea WP /e
 
-for domurar Nux = 0-332 Rew Pals Tor Urrbulent oars 0:0296
 
 | ; 2. Fp 8
 Y =
 A) thermal tsi Langit, Gi alg, seaaRal
-| dex = 0-05 Re Pe. = fs he. “ifs Sxio$   < Rex <10 a
 
 where de = dnagelro dy naan Rncuncleey ERA
 
 @)| Groote vumbu a> ke x gn xCBlse img Length
 
-© |futty developed vetocitty prorite
 
 @ Wifaun beat Mux   Nusz [302 oz 1 fox Gz 7 10000
 
@@ -3434,27 +3739,22 @@ Che « 0:023 Go 0-8 73 Cpls
 
 : per oat
 
-(2)| Reyrotda Cua oaty * for Igy Aequotds vo Ur Srogint howd tubs
 
 f= 0-046 Ne, - Ossunning ty | ste Fe (PT 0)
 
 Cr- A«m92 Nes
 --- page 4 ---
-Mot Hid Siedex Tatts ey
 du
 
 = 0-023 8
 @ p "le , }
 Y Pec| a - v
-cles no. Pe . RexPa = pve, Cpu = Pxv ant)
 5 BK Pa oe The
 D -0'3 F
 habe (44 ) = 0-354 o-0¢ (DG)? Re- 4 to
 re Beg)?" fou gous Read fe
 
 ° ; _ wheres B- Putd tremal
-Rarplitgh wo Ra= $8] Ts - T,] 1? Ts = Stusface Genp Te = Pad tess
-Vx, Ve Kin visvesy «- Hamat ddgur
 
 @® —
 me Jews + 0: 3°F Ra," * ‘
@@ -3465,13 +3765,10 @@ GAraahat VUMrA GA = 34 (© - 6, ) a7), a
 HUizentad pile y fourbulont
 Nu = 0-58 (40Px)! 3 10°< GaPs <io"
 © Nuw= 013 (Gs, Pa) '3 5 Bxio8< GaP
-Notinol towvedinie lent tramsyer content hes 0.6 (49/42) Ys
 h= 0-943 | $(8-8y) 9-Fq-hg?]4
 . [ Lu, (%- Tw) | ‘4
-D Reprise wiimber for tondun sation suptim Reg = Du SV = 4ArpVv
 
 . Me P
-@) Tur wlent prove OU settee pars
 
 a ( ME \"* 4G jet
 Cara = 0-0 () 5 Re > Loo
@@ -3481,20 +3778,16 @@ Ke S59 ~ 7] [ eto]
 @ Denounce ea S$, ds el
 be fe ("#)- ny( 14") Ffov batite. wxiwcvon }
 
-© rox PTHE 5 Nwe hPely = 0-34. Re bt p, 0:35
 
 y
 --- page 5 ---
 @ Cotbuws cunoloaiy ée i784 0:14 0-023 H j
 = ow = =
-Mont Hid Seder Takis og , " Mie ‘
 
 fy = Poy 0.2 5
 
 © Re \ }
-V Peclets wo. Pe . Rex = DVS, CPM _ pxv es on
 
-; KB k CA x a, 2
 © odo GMs \°* ore
 
 i Me
@@ -3510,10 +3803,7 @@ Ve Ve kn. Vine Hrermar |
 @® Horizontal pt ah ale
 
 Nu = 0-58 (4% P5)!2 5 tof < GaPs <(o"
-pate farting Rovomoord,, Lowa
 Nu= O18(Ga PA)! 5 BS xtokq Gara
-® Nalirat eowedctiie heat tranoter Loegicaint hee 0-6 Ae} a+)"
-D Meats Garspen Cotffputet owen Yanb pinks fav flaw wie condewsace
 "0943 | $( 8-8) 9. fy: re]
 
 [Ly, (%q- Tw) 1"
@@ -3527,318 +3817,8 @@ Tee oo (TEI ey ai
 Is oir’ ys h= O14 [ke 3p 9A "4
 * ee ¥ e859 my oar
 
-@ denomue ean s, . i- (72#*) - — My( ae") ffov bagite nondon }
 
-© tex pte 5 Nwe nPeli = 0 24 oO 6tp a? °°
 
 °
 ?
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper ab2d483b5396
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/HEAT TRANSFER OPERATIONS/scan0018(9).pdf`
-- Printed on paper: max marks: 100; exam date: 27/10/2012
-- Text: ocr (3 pages), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA(Tech) - (Chemical) Year: II Trimester: IV ee = Stays
-Academic Year : 2012-2013
-
-be HEAT TRANSFER
-Subject: OPERATIONS Marks: 100
-Time: 2.00 pm )
-Date: 27/10/2012 Duration: 3 NX
-Final - Examination .
-NOTE:
-
-1) Question number 1 is compulsory.
-2) Figures in bracket indicate full marks
-3) Assume suitable data wherever necessary.
-
-QIA State True or False and correct the sentence if False. (10)
-
-1 Critical radius of insulation is the outer radius of insulation at which the rate of heat flow
-is maximum. °
-a) True b) False .
-
-2 Log mean temperature difference is used in case of countercurrent flow only.
-
-. a) True b) False
-
-3 Temperature gradient means change in Area with respect to temperature.
-a) True b) False.
-
-4 Land breeze and sea breeze are due to Radiative heat transfer.
-a) True b) False
-
-5 The drop wise condensation is achieved when the pipe surfaces are smooth.
-a) True b) False
-
-6 Economy of single effect evaporator is always less than one.
-a) True b) False
-
-7 Baffles are employed in the heat exchanger to increase the turbulence in tubes.
-
-a) True b) False
-Square Pitch design of tube sheet has advantage of incorporating larger number of tubes
-than triangular pitch in a given shell diameter.
-a) True b) False
-9 9. Heat transfer coefficient increases after Leidenfrost point.
-a) True b) False
-10 In case of evaporation vapor is generally the valuable Product.
-a) True b) False
-
-Q1B ; Define the following: (10)
-
-‘ * a) Nucleate Boiling, b) Kirchhoff’s Law c) Evaporator Capacity d) Approach
-| © Critical Radius of Insulation
-Q2A _ Differentiate between Drop wise and Film wise condensation. Also explain what is the (10)
-effect of non condensable gases during condensation operation?
-Q2B_— Carry out dimensionless analysis for heat transfer through Natural Convection. Also state (10)
-the empirical formulas for Forced convection for laminar & turbulent flows.
-
-Ys
---- page 2 ---
-Q3A — Explain with neat and labeled diagram the 1-2 pass shell and tube Heat exchanger. (10)
-
-Q3B_ Explain the Calendria Evaporator with diagram along with its advantages and (10)
-disadvantages. :
-
-Q4A Calculate the heat transfer coefficient for fluid flowing at the rate of 15000 Kg/hr through (8)
-a 20 mm inside diameter tube & 7mm thickness, of heat exchanger. Compare the value
-obtained by Dittus Boelter Equation as well as by Sider Tate Equation.
-
-Data:
-Viscosity of flowing fluid = 0.7 Cp.
-Specific gravity of fluid = 0.885
-Specific heat of fluid = 3.247 KJ/Kg K
-Thermal conductivity of fluid = 0.256 W/m K
-Temperature of fluid entering is 100 C and leaving at 72 C
-Viscosity of fluid at wall temperature = = 0.53 Cp:
-Q4B_ Hot Oil is cooled in a double pipe heat exchanger from 100 °C to 45 °C by cold water (6)
-: flowing at 200 kg/min from 10 °C to 42 °C, What will be the rate of heat transfer if
-specific heat of oil is 0.84 W/mK. Which type of flow arrangement is recommended?
-Why? and what is the LMTD for different types of flow?
-
-Q4C __ A furnace wall is constructed with 230 mm thickness of fire brick, 115 mm of insulating (6)
-brick and then 230 mm of building brick. The inside temperature of the furnace is 1213 K
-and the outside temperature is 45°C. The thermal conductivity of fire brick, insulating
-brick and building brick are 6.1 W/mK, 0.55 W/mK and 2.23 W/mK respectively. Find the
-heat lost per unit area and the temperatures at the interface
-
-Q5A __ Explain the Backward feed mechanism for multiple effect evaporators with diagram. Also (10)
-
-fi list its advantages and limitations.
-
-Q5 B It is required to cool 0.6 Kg/s of Oil from 125°C to Jo'c using a co- este weet double pipe (10)
-heat exchanger. The cooling water is available at 25 °C and leaves at 35°C. The oil flows
-through the inner copper tube of 15 mm diameter, 5 m length and 3mm thickness. Water
-flows through the annulus. The internal diameter of the outer tube is 30 mm. Use
-appropriate equations to estimate the heat transfer coefficients and determine the overall
-heat transfer coefficient of the heat exchanger.
-
-OIL WATER
-Specific Gravity 0.864 0.96
-Specific Heat (KJ/Kg kK) 24 4.187
-. _, | Kinematic Viscosity (m7/S) 0.85x10" 0.887x10°
-¢|Thermal Conductivity (W/m K) 0.16 0.606
-Dirt factor (m? K/ W) 3x10" 3x10*
-
-Q6A _— Anice box has walls constructed of 100 mm layer of cork board contained between two (8)
-wooden walls each 20 mm thick. Find the rate of heat removed per unit area if the inner
-
-2I
---- page 3 ---
-wall surface is kept at -10 C while the outer surface temperature is 30 C. Find out the zone
-in wall and the thickness from inside of box where temperature is 20 C also find
-temperatures at the interface.
-
-Thermal conductivity of Cork board is 0.041 W/mK
-
-Thermal conductivity of wood is 0.105 W/mK
-
-Q6B A 3.5 cm ID Pipe, 4 m long, having temperature of 473 K passes through a room in which (6)
-the surroundings are at the temperature of 27 C. The outside diameter of pipe is 40 mm. If
-the emissivity of the pipe metal is 0.7, what is the net interchange of radiation energy per
-meter length of pipe? Also what would be the percentage change in radiant energy if the
-emissivity of pipe material considered earlier was error and new value is 0.4?
-
-Q6C Liquid Oxygen boiling at 90 K is stored in a 30 litre spherical container of diameter 55 (6)
-cm. The container is surrounded by a concentric spherical shell of diameter 65 cm at a
-temperature of 27 C and the space between the two spheres is evacuated. The surfaces of
-the spheres facing each other are silvered and have an emissivity of 0.04. Taking the latent
-heat of vaporization for nitrogen to be 201 KJ/Kg find the rate at which oxygen
-evaporates.
-
-Q7A __ Answer the following questions (10)
-1) Why are Impingers used in Evaporators?
-2) What is Fourier’s Law?
-3) What is the significance of dirt factor?
-
-4) What happens if non condensable gases enter into condenser along with condensable
-gases?
-5) What are the Advantages of Forward circulation evaporators?
-
-Q7B _ Enlist the steps & Formulas used in design of Heat Exchanger by Kern Method. (10)
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 2253c58e8108
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/HEAT TRANSFER OPERATIONS/scan0023(11).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/10/2012
-- Text: ocr (3 pages), mean OCR confidence 92.2
-
-````text
-4
-
-Programme: MBA(Tech) - (Chemical) Year: II Trimester: IV
-
-Batch: 2011-2012 SVKM'S
-NMIMS Universit
-: HEAT TRANSFER Y
-Subject: Marks: 100 Mumbai - 56, 7 = |
-OPERATIONS LIBRARY ) =
-Time: 2.00 pm To' I>,
-Date: 27/10/2012 Duration: 3 hrs. ee A
-ERAT,
-Re - Examination MANAGENE
-NOTE:
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-Academic Year : 2012-2013
-
-1) Question number | is compulsory; Answer any four questions from remaining questions.
-2) Figures in bracket indicate full marks
-3) Assume suitable data wherever necessary.
-
-YY
-
-Jef
-
-Q1IA Fill in the blank . : . (10)
-1) Water is to be heated from 27C to 63C using condensing steam at 100C the LMTD for
-Counter current would give better heat transfer.
-
-a) True b) False
-2) The drop wise condensation is achieved when the pipe surfaces are smooth.
-a) True b) False
-3) Critical radius of insulation is the outer radius of insulation at which the rate of heat
-flow is maximum.
-a) True b) False
-4) The ration (Cpy/K) is known as number.
-a) Peclet number b) Nusselt Number c) Prandlt Number d) Reynolds Number
-5) Incase of boiling, vaporization takes place directly from surface.
-a) Film Boiling b) Transition Boiling c) Pool Boiling d) Nucleate Boiling
-6) Economy of single effect evaporator is always less than
-a) 1 b) 100 c) 10 d) 0.1
-7) The unit of dirt factor/Fouling factor in SI units is
-a) Wim’K b) KJ/m’K c) m’K/W d) mK/W
-8) In case of evaporation is generally the valuable Product.
-a) Vapor b) Thick liquor c) Steam d) dry powder.
-9) Heat exchanger consists of rectangular, parallel plates held firmly
-together between substantial head frames.
-a) Shell and Tube b) Fins type c) Piate Type d) Graphiie Block type.
-10) is a flat circular plate with a large number of holes drilled according
-to pitch requirement and provision for making gasketed joints.
-a) Baffles b) Tube sheet c) Channel d) Pass Partition ;
-Q1B Define (10)
-
-1) Critical radius of Insulation
-
-2) Approach
-
-3) Fouling Factor
-
-4) Evaporator Economy
-
-5) Kirchhoff’s Law
-
-Q2A
-
-Liquid oxygen boiling at -183 C is stored in a 22 litre spherical container of diameter 38 | (10)
-cm. The container is surrounded by a concentric spherical shell of diameter 44 cm at a
-
-Y'3
---- page 2 ---
-temperature of 30 C and the space between the two spheres is evacuated. The surfaces of
-the spheres facing each other are silvered and have an emissivity of 0.03. Taking the latent
-heat of vaporization for oxygen to be 201 KJ/Kg find the rate at which oxygen evaporates.
-Also Calculate the rate of heat flow due to radiation? What will be the reduction in heat
-flow if polished aluminum with an emissivity of 0.5 is used for the container walls?
-
-Q2B_ |A 50 mm ID Pipe having temperature of 150 C passes through a room in which the | (5)
-_| surroundings are at the temperature of 27 C. The outside diameter of pipe is 6 cm. If the
-emissivity of the pipe metal is 0.8, what is the net interchange of radiation energy per
-meter length of pipe? Also what would be the percentage change in radiant energy if the
-emissivity of pipe material considered earlier was error and new value is 0.5?
-
-Q2C_ | Explain Stefan Boltzmann law with formula and explaining each term. (5)
-
-Q3A_ | Draw U tube — shell tube heat exchanger labeling all important parts and also describe the | (14)
-importance of all the parts.
-
-Q3B_ | Calculate heat loss from a 10 m long insulated pipe carrying hot fluid. What is the critical | (6)
-radius of Insulation? ;
-Data : Internal diameter = 70 mm
-Outer Diameter = 90 mm
-Temperature of inside fluid = 120 °C
-Temperature of ambient air = 25 °C
-Thickness of insulation = 20 mm
-Thermal Conductivity of pipe material = 60 W/mK.
-Thermal Conductivity of pipe insulation = 0.25 W/mK
-Inside Heat transfer coefficient = 700 W/m?K.
-Outside Heat transfer coefficient = 10 W/m?K
-
-Q4A_ | A horizontal pipe 1ft in diameter is maintained at a temperature of 523 K in a room where | (6)
-j the air is at 288 K. Find the heat loss by natural convection for the pipe length of 6 m.
-The properties of air at the film temperature of 405.5 K are:
-Thermal conductivity = 0.034 W/m K; B = 2.47x10° K"'!; Npr = 0.687 and Kinematic
-viscosity = 26.54x10-6 m”/S.
-
-Q4B_ | Hot Oil is cooled in a double pipe heat exchanger from 120 °C to 45 °C by cold water | (4)
-flowing at 175 kg/min from 15 °C to 43 °C. What willibe the rate of heat transfer if
-specific heat of oil is 0.84 W/mK. Which type of flow arrangement is recommended?
-Why? and what is the LMTD for different types of flow?
-
-Q4C_| Explain the mechanism of boiling with neat diagrams. (10)
-Q5 A v Define Critical radius of Insulation and derive the formula for the same. (4)
-Q5B_ | Write short note on condensation (8)
-
-Q5C__ | Describe the working principle, with diagram, of Backward feed mechanism of multiple (8)
-effect evaporators.
-
-ob
---- page 3 ---
-Q6A_ | A furnace is constructed with 250 mm thickness of wood, 70 mm of insulating brick and (5)
-again with 250 mm of wood. The inside temperature is 1600 C and the temperature at the
-outermost wall is 323 K. The thermal conductivities of wood and insulating brick are 0.65
-W/mK, 0.582 W/mK respectively. Find the heat loss per unit area and the temperature at
-
-interface.
-Q6B_ | Derive the equation for rate of heat flow by conduction for a pipe insulated with glass (10)
-wool and asbestos, with temperatures inside the pipe as 350 C and temperature outside the
-pipe as 30 C.
-Q6C_ | Explain any two types of extended surface heat exchanger with diagram. (5)
-Q7A_ | Draw Kettle type reboiler with all parts neatly drawn and labeled. (10)
-Q7B Give the formulas for following Numbers: (4)
-
-1) Prandle Number
-2) Grashof’s Number
-3) Reynolds Number
-4) Rayleigh Number
-
-Q7C __ | Describe the working principle of calendria evaporator along with its advantages and (6)
-disadvantages.
-
-a.
 ````

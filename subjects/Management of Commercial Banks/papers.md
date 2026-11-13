@@ -409,6 +409,202 @@ c. FCCB
 Za
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper fd1b281dfeb8
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/MANAGEMENT OF COMMERCIAL BANKS/scan0008(12).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 12/01/2013
+- Text: ocr (3 pages), mean OCR confidence 93.5
+
+````text
+Mukesh Patel School Of Technology Management & Enginee ig
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV . ;
+
+SVKM’s NMIMS \E
+
+Academic Year : 2012-2013 Sc
+Subject: MANAGEMENT OF COMMERCIAL BANKS Marks: 50
+Time: 11.00 a.m To 1.00 p.m
+Date: 12/01/2013 Duration: 2 hrs.
+Final - Examination
+INSTRUCTIONS:
+i. Candidate should read carefully the instructions printed on the
+question paper and on cover of Answer book, which is provided for
+their use
+ii. Candidate should not use Pencil for answer
+NOTE:
+
+(a Question No. 1 & 2 of section A are compulsory and 3 questions to be
+attempted from section B
+
+(2) Total No. of questions to be attempted — 5
+
+(3) | Marks for the questions are mentioned with the Question/Section
+
+(4) Working will form part of answer
+
+Q: ls (10 Marks — 1 Mark each)
+
+i. Which of the following is not the type of treasury bills?
+a. 91 days
+b. 14 days
+c. 364 days
+d. 7 days
+ii. Which of the following is not a tool used by RBI to control inflation?
+a. CRR
+b. Bank rate
+c. Credit policy
+d. Repo rate
+iii. | Main functions of banks include
+a. Accept deposits and providing loans
+b. Trading in capital markets
+c. Trading in commodity markets
+d. Trading in bullion markets
+iv. The term deposit can be renewed from date of maturity if renewed
+a. Within 7 days of the maturity
+b. Within 10 days of the maturity
+c. Within 14 days of the maturity
+d. Within 21 days of the maturity
+v. As per Basle award Tire II capital includes
+a. Hybrid debt capital instruments
+b. Equity capital
+c. Free and capital reserves
+d. Net profit after appropriations
+
+Page | of 3
+--- page 2 ---
+vi.
+
+vii.
+
+Viii.
+
+ix.
+
+Q.2
+
+Credit exposure norms of banks are decided by
+
+a. Concerned bank Board only
+
+b. Ceilings are decided by RBI
+
+c. Ceilings are decided by Ministry of Finance
+
+d. No one decides any such norms
+
+Advance to be classified as NPA after 90 days from the
+
+a. Date when interest has not been serviced in the a/c
+
+b. End of the Month in which interest has not been serviced in the a/c
+c. End of the Quarter in which interest has not been serviced in the a/c
+d. End of the year in which interest has not been serviced in the a/c
+
+On Standard category of advances banks have to make provisions min.
+a. 10%
+
+b. 5%
+
+c. 0.25%
+
+d. Not required to make any provisions
+
+New additional currency can be issued by RBI
+
+a. Based on the instructions of RBI Governor
+
+b. Based on 100% security/backing of coins/bullion, foreign securities,
+coins, GOI securities etc.
+
+c. Based on 50% security/backing of coins/bullion, foreign securities
+coins, GOI securities etc.
+
+d. Based on 150% security/backing of coins/bullion, foreign securities,
+coins, GOI securities etc.
+
+For settlement of dues of the deceased A/c, where there was no
+
+nomination, the bank will pay the balance to
+
+a. To the spouse even when there are other claimants
+
+b. To the eldest son only
+
+c. To the legal heir as decided by the legal process
+
+d. To all the claimants on proportionate basis
+
+(a+b x 5 = 10marks)
+(a) For an additional non-priority advance of Rs. 200 crore , calculate
+i. Priority sector finance required to be made
+ii. | Capital required
+iii. | Deposits required
+iv. Funds required in CRR and SLR
+y. The important assumptions are
+a. Priority sector lending is 40% of total advance
+b. Priority sector finance is fully covered by DICGC
+c. Capital adequacy requirement is 9% on full non priority
+sector advance
+d. Capital adequacy requirement is 9% on 50% priority sector
+advance
+e. CRR is 5%
+f. SLR is 24%
+vi. If any other assumptions are made please specify
+
+(5 Marks)
+
+Page 2 of 3
+--- page 3 ---
+(b) Growth Model
+
+Assets of ABC Bank Rs. 20,000 crore
+Capital (9%) Rs. 1,800 crore
+Profit after Tax Rs. 200 crore
+Dividend pay-out ratio 35%
+
+i. Find Growth rate
+ii. Find Return on assets
+
+If assets grow by 7.22%
+iii. Find Capital requirement
+
+If growth is 8% & Dividend payout ratio is 35% & capital adequacy is 9%
+iv. Find Rate of return
+
+If growth is 8% & Rate of return is 1% & capital adequacy is 9%
+v. Find Dividend Payout ratio
+
+(5 Marks)
+
+SECTION B
+Attempt any 3 questions (10 marks for each 10x3 total 30 marks)
+
+Q.3 What are the classification norms for bank advances (Assets)? Discuss in
+detail Income recognition norms. How much provision is required to be made
+as per RBI guidelines?
+
+Q.4 What is Asset Liability Management and how it is carried out by the banks?
+Why it is required to be done?
+
+Q.5 Risk management is an important requirement in banks, do you agree? If so,
+discuss in detail the process of Risk management and how it is implemented?
+
+Q.6 Deal in detail with various types of Fund based and Non fund based facilities
+granted by banks. Discuss the risks involved for the banks and how to mitigate
+them?
+
+Q.7 Write short notes on any 3
+i. Non-fund based facilities
+ii. Priority sector finance
+
+iii. Interest rate and Pricing policy for bank advances and the role of rating for this
+iv. Basel II norms and different pillar in Basel II
+
+Page 3 of 3
+````
+
 ## 2012-13 · Re-Exam · Trim 14 · paper 1b5178bd6a0d
 
 - Departments: Common (all branches)
@@ -698,6 +894,7 @@ management?
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/management of commercial banks/2009-2010 batch re exam I.pdf`
 - Text: ocr (2 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MUKESH PATEL SCHOOL OF TECHNGLOGY MANAGEMENT & &
@@ -719,7 +916,6 @@ ery ~ Ae “Y
 DATE: s/y Ji MARKS Neg
 TIME: 2 Ars (Aud 4fhun)
 
-oo cesensensasecacsescoccess POreeeerrreer rere reer ee eerie eer ire rier errr eer errr reer er irre rier rir r errr ri rrr
 
 NOTE:
 i, Question No.1 is compulsory
@@ -1085,200 +1281,4 @@ iv. Priority sector finance
 ye
 
 Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper fd1b281dfeb8
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/MANAGEMENT OF COMMERCIAL BANKS/scan0008(12).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 12/01/2013
-- Text: ocr (3 pages), mean OCR confidence 93.5
-
-````text
-Mukesh Patel School Of Technology Management & Enginee ig
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV . ;
-
-SVKM’s NMIMS \E
-
-Academic Year : 2012-2013 Sc
-Subject: MANAGEMENT OF COMMERCIAL BANKS Marks: 50
-Time: 11.00 a.m To 1.00 p.m
-Date: 12/01/2013 Duration: 2 hrs.
-Final - Examination
-INSTRUCTIONS:
-i. Candidate should read carefully the instructions printed on the
-question paper and on cover of Answer book, which is provided for
-their use
-ii. Candidate should not use Pencil for answer
-NOTE:
-
-(a Question No. 1 & 2 of section A are compulsory and 3 questions to be
-attempted from section B
-
-(2) Total No. of questions to be attempted — 5
-
-(3) | Marks for the questions are mentioned with the Question/Section
-
-(4) Working will form part of answer
-
-Q: ls (10 Marks — 1 Mark each)
-
-i. Which of the following is not the type of treasury bills?
-a. 91 days
-b. 14 days
-c. 364 days
-d. 7 days
-ii. Which of the following is not a tool used by RBI to control inflation?
-a. CRR
-b. Bank rate
-c. Credit policy
-d. Repo rate
-iii. | Main functions of banks include
-a. Accept deposits and providing loans
-b. Trading in capital markets
-c. Trading in commodity markets
-d. Trading in bullion markets
-iv. The term deposit can be renewed from date of maturity if renewed
-a. Within 7 days of the maturity
-b. Within 10 days of the maturity
-c. Within 14 days of the maturity
-d. Within 21 days of the maturity
-v. As per Basle award Tire II capital includes
-a. Hybrid debt capital instruments
-b. Equity capital
-c. Free and capital reserves
-d. Net profit after appropriations
-
-Page | of 3
---- page 2 ---
-vi.
-
-vii.
-
-Viii.
-
-ix.
-
-Q.2
-
-Credit exposure norms of banks are decided by
-
-a. Concerned bank Board only
-
-b. Ceilings are decided by RBI
-
-c. Ceilings are decided by Ministry of Finance
-
-d. No one decides any such norms
-
-Advance to be classified as NPA after 90 days from the
-
-a. Date when interest has not been serviced in the a/c
-
-b. End of the Month in which interest has not been serviced in the a/c
-c. End of the Quarter in which interest has not been serviced in the a/c
-d. End of the year in which interest has not been serviced in the a/c
-
-On Standard category of advances banks have to make provisions min.
-a. 10%
-
-b. 5%
-
-c. 0.25%
-
-d. Not required to make any provisions
-
-New additional currency can be issued by RBI
-
-a. Based on the instructions of RBI Governor
-
-b. Based on 100% security/backing of coins/bullion, foreign securities,
-coins, GOI securities etc.
-
-c. Based on 50% security/backing of coins/bullion, foreign securities
-coins, GOI securities etc.
-
-d. Based on 150% security/backing of coins/bullion, foreign securities,
-coins, GOI securities etc.
-
-For settlement of dues of the deceased A/c, where there was no
-
-nomination, the bank will pay the balance to
-
-a. To the spouse even when there are other claimants
-
-b. To the eldest son only
-
-c. To the legal heir as decided by the legal process
-
-d. To all the claimants on proportionate basis
-
-(a+b x 5 = 10marks)
-(a) For an additional non-priority advance of Rs. 200 crore , calculate
-i. Priority sector finance required to be made
-ii. | Capital required
-iii. | Deposits required
-iv. Funds required in CRR and SLR
-y. The important assumptions are
-a. Priority sector lending is 40% of total advance
-b. Priority sector finance is fully covered by DICGC
-c. Capital adequacy requirement is 9% on full non priority
-sector advance
-d. Capital adequacy requirement is 9% on 50% priority sector
-advance
-e. CRR is 5%
-f. SLR is 24%
-vi. If any other assumptions are made please specify
-
-(5 Marks)
-
-Page 2 of 3
---- page 3 ---
-(b) Growth Model
-
-Assets of ABC Bank Rs. 20,000 crore
-Capital (9%) Rs. 1,800 crore
-Profit after Tax Rs. 200 crore
-Dividend pay-out ratio 35%
-
-i. Find Growth rate
-ii. Find Return on assets
-
-If assets grow by 7.22%
-iii. Find Capital requirement
-
-If growth is 8% & Dividend payout ratio is 35% & capital adequacy is 9%
-iv. Find Rate of return
-
-If growth is 8% & Rate of return is 1% & capital adequacy is 9%
-v. Find Dividend Payout ratio
-
-(5 Marks)
-
-SECTION B
-Attempt any 3 questions (10 marks for each 10x3 total 30 marks)
-
-Q.3 What are the classification norms for bank advances (Assets)? Discuss in
-detail Income recognition norms. How much provision is required to be made
-as per RBI guidelines?
-
-Q.4 What is Asset Liability Management and how it is carried out by the banks?
-Why it is required to be done?
-
-Q.5 Risk management is an important requirement in banks, do you agree? If so,
-discuss in detail the process of Risk management and how it is implemented?
-
-Q.6 Deal in detail with various types of Fund based and Non fund based facilities
-granted by banks. Discuss the risks involved for the banks and how to mitigate
-them?
-
-Q.7 Write short notes on any 3
-i. Non-fund based facilities
-ii. Priority sector finance
-
-iii. Interest rate and Pricing policy for bank advances and the role of rating for this
-iv. Basel II norms and different pillar in Basel II
-
-Page 3 of 3
 ````

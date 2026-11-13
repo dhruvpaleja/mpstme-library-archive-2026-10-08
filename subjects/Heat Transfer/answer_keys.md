@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechanical_7003/Heat Transfer/ANS_Heat Transfer(702ME0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
 - Text: mixed (5 pages), mean OCR confidence 59.2
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -64,9 +66,6 @@ Marking Scheme |
 * drag-3
 | rag manks
 | Q3 a radiatronnetwork—wasaks Heat Balanec eg* - BMok,
-CO-2, BL-3 conuectionlass —2—wyenls _(Sariertaws is x,y 2 2 SAMetks
-| shielthequaten—-3—mmorkes energy Stevete 2 2 edad
-finahaumber—-2—snarcbes~ ~ finet E97 f a Maw.
 | Q3 b Total heat loss = convection + radiation
 CO-3, BL-3
 
@@ -252,6 +251,8 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Mechanical_7031/Heat Transfer/ANS_Heat Transfer(702ME0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
 - Text: mixed (5 pages), mean OCR confidence 59.2
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -307,9 +308,6 @@ Marking Scheme |
 * drag-3
 | rag manks
 | Q3 a radiatronnetwork—wasaks Heat Balanec eg* - BMok,
-CO-2, BL-3 conuectionlass —2—wyenls _(Sariertaws is x,y 2 2 SAMetks
-| shielthequaten—-3—mmorkes energy Stevete 2 2 edad
-finahaumber—-2—snarcbes~ ~ finet E97 f a Maw.
 | Q3 b Total heat loss = convection + radiation
 CO-3, BL-3
 

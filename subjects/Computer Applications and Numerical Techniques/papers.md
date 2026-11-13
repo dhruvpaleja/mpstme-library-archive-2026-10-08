@@ -1034,6 +1034,7 @@ following equation xsinx + cosx =0. Also derive the formula.
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/COMPUTER APPLICTIONS AND NUMERICAL TECHNIQUES/2006-2007 re exam(6).pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 71.7
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 =
@@ -1071,21 +1072,14 @@ tno}
 dress1| address2 | City state _[pincode|balanceduel
 
 “name ad
-i|lvanB = —~—*‘(\Versova’ jAndheri(w) jmumbai|maharashtra|4000454 15000,
-2|PrachiJ aioli. = jnew mumbailmumbaiimaharashtra| 400766 7000:
-3|basu C [Borivali [Dhaisar — [Mumbailmaharashtra] 400068 0
-4lRaviS.-*-° [SakiNaka [Kurla ——_‘([Mumbai|Maharashtral4000667 4000)
-a 5|Sushma ShrmalVasai road|Virar_ ———— [Mumbailmaharashtra|4000465/ 8000]
 
 ; : Productmaster ;
-productneldescription|profitpercent|unitmeasure|qtyonhand|sellprice costprice|
 1\Pen 20/|Piece 200 20 15.
 [ 2icbs “~~ ~30[Piece =| ~———-3000 20 12)
 3[DvoD ist tt«s:*éO Pie ~- 700 30 20:
 4|Mouse ~ 40[Piece | ~—«1000|~S—«300 150,
 [| 8|HDD 20|Piece 300] 300) 120!
 wee i salesmanmaster ee
-salesmanno|salesmanname|address1jaddress2| City |pincode state salesamount|targettoget
 1\Karan Airoli. iNew (Mumbai) 400045|Maharashtra 4000 10000,
 |Mumbai_ | |
 fF   2|Munish a |nariman [Point ‘Mumbai! 400001|Maharashtra 6000 20000,
@@ -1103,7 +1097,6 @@ he ie en see
 '
 ee Salesorder
 
-sorderno|salesorderdate|clientno|Deliveryaddress|salesmanno productno
 1 1/1/2006 1 Mumbai 1 3
 2|- 1/1/2006| 1/NewMumbai | 2 2
 3 1/212007 2[Bandra | 4 1
@@ -1158,6 +1151,7 @@ Po
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/COMPUTER APPLICTIONS AND NUMERICAL TECHNIQUES/2005-2006 I(1).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 84.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Pl late ae
@@ -1209,7 +1203,6 @@ Q.7. Use Simpson’s 3/8 th rule to integrate the function
 
 f(x)=0.2+20x+25 x7+60x°
 
-Over limita=0tob=1 andn=7 (6)
 Q.8 Derive Euler’s formula and obtain the solution of y'—x-—y   , given xo—9,
 yo=1 find y at x= 0.6 taking h=0.2 (6)
 SECTION!

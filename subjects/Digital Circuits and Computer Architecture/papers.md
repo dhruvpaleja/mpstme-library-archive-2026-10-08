@@ -116,6 +116,100 @@ AB + C (A +D )= AB + BD + BD + ACD
 ********** 2 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 2 · paper 47aa187e4c60
+
+- Departments: Data Science
+- Programmes: BTech CSE DS 7057
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSE_DS_7057/Digital Circuits and Computer Architecture/QP_Digital Circuits and Computer Architecture(702CS0C002)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY COMPUTER SCIENCE AND
+ENGINEERING (DATA SCIENCE)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: Digital Circuits and Computer Architecture
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:   [20]
+CO- 1;   a.   Simplify the following Boolean expression,
+SO- 1;   [5]
+BL-1   𝐴+ 𝐵[𝐴𝐶+ (𝐵+ 𝐶̅)𝐷]
+CO-2;   b.   What is an encoder? Draw the truth table of 4 lines to the 2-line priority
+SO-1;   [5]
+encoder.
+BL-4
+CO- 3;   c.
+SO- 1;   Discuss the MIPS addressing mode.   [5]
+BL-1
+CO- 3;   d.
+SO- 1   Explain the instruction format.   [5]
+BL-1
+Q2   A   Minimize the following boolean function-
+CO-2;   F(A, B, C, D) = Σm(0, 1, 2, 5, 7, 8, 9, 10, 13, 15)   [10]
+SO-1;
+BL-2
+B   Explain the race-around condition observed in J-K flip-flop and describe
+CO-2;
+SO-1;   the technique to avoid it in practical circuits.   [10]
+BL-2
+Q3   A
+CO-2;   Design Full Substractor using NOR gate.   [10]
+SO-2;
+BL-4
+B   Design a 3-bit down synchronous counter using J-K flip-flop.
+CO-2;   [10]
+SO-2;
+********** 1 **********
+--- page 2 ---
+BL-4
+Q4   A
+CO- 2;   Design a Full Adder using 8: 1 multiplexer.   [10]
+SO-2;
+BL- 3
+CO-3; B   Develop a circuit for the conversion of S-R flip-flop to J-K flip-flop.
+SO-2;   [10]
+BL-3
+Q5   A
+Discuss program control instructions including branching, looping, and
+CO-3;   [10]
+SO-1;   conditional execution.
+BL-2
+CO-3; B   Explain the memory hierarchy with a neat diagram. Discuss the
+SO-1;   [10]
+BL-1   characteristics of each level
+Q6   A
+Compare Direct Mapping, Associative Mapping, and Set-Associative
+CO-4;   [10]
+SO-1;   Mapping in terms of performance, cost, and complexity.
+BL- 2
+CO-4; B   What are I/O channels and I/O processors? Explain their role in improving
+SO-1   [10]
+BL- 2   system performance.
+Q7   A
+Explain the functional units of a computer system with a neat block
+CO-4;   [10]
+SO-1;   diagram. Discuss the role of each unit in executing a program.
+BL-1
+CO-3; B
+SO-1;   Describe the Booth’s multiplication algorithm with a step-by-step example [10]
+BL-1
+********** 2 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 3 · paper eb631f50499a
 
 - Departments: Computer Science
@@ -336,100 +430,6 @@ BL-2
 working.
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · paper 47aa187e4c60
-
-- Departments: Data Science
-- Programmes: BTech CSE DS 7057
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSE_DS_7057/Digital Circuits and Computer Architecture/QP_Digital Circuits and Computer Architecture(702CS0C002)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
-- Text: text (2 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY COMPUTER SCIENCE AND
-ENGINEERING (DATA SCIENCE)
-Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
-Subject: Digital Circuits and Computer Architecture
-Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 2 pages.
-2. Question No. 1 is compulsory
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right-hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1
-Answer briefly:   [20]
-CO- 1;   a.   Simplify the following Boolean expression,
-SO- 1;   [5]
-BL-1   𝐴+ 𝐵[𝐴𝐶+ (𝐵+ 𝐶̅)𝐷]
-CO-2;   b.   What is an encoder? Draw the truth table of 4 lines to the 2-line priority
-SO-1;   [5]
-encoder.
-BL-4
-CO- 3;   c.
-SO- 1;   Discuss the MIPS addressing mode.   [5]
-BL-1
-CO- 3;   d.
-SO- 1   Explain the instruction format.   [5]
-BL-1
-Q2   A   Minimize the following boolean function-
-CO-2;   F(A, B, C, D) = Σm(0, 1, 2, 5, 7, 8, 9, 10, 13, 15)   [10]
-SO-1;
-BL-2
-B   Explain the race-around condition observed in J-K flip-flop and describe
-CO-2;
-SO-1;   the technique to avoid it in practical circuits.   [10]
-BL-2
-Q3   A
-CO-2;   Design Full Substractor using NOR gate.   [10]
-SO-2;
-BL-4
-B   Design a 3-bit down synchronous counter using J-K flip-flop.
-CO-2;   [10]
-SO-2;
-********** 1 **********
---- page 2 ---
-BL-4
-Q4   A
-CO- 2;   Design a Full Adder using 8: 1 multiplexer.   [10]
-SO-2;
-BL- 3
-CO-3; B   Develop a circuit for the conversion of S-R flip-flop to J-K flip-flop.
-SO-2;   [10]
-BL-3
-Q5   A
-Discuss program control instructions including branching, looping, and
-CO-3;   [10]
-SO-1;   conditional execution.
-BL-2
-CO-3; B   Explain the memory hierarchy with a neat diagram. Discuss the
-SO-1;   [10]
-BL-1   characteristics of each level
-Q6   A
-Compare Direct Mapping, Associative Mapping, and Set-Associative
-CO-4;   [10]
-SO-1;   Mapping in terms of performance, cost, and complexity.
-BL- 2
-CO-4; B   What are I/O channels and I/O processors? Explain their role in improving
-SO-1   [10]
-BL- 2   system performance.
-Q7   A
-Explain the functional units of a computer system with a neat block
-CO-4;   [10]
-SO-1;   diagram. Discuss the role of each unit in executing a program.
-BL-1
-CO-3; B
-SO-1;   Describe the Booth’s multiplication algorithm with a step-by-step example [10]
-BL-1
-********** 2 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 3 · paper 9400e8ce3d89
 
 - Departments: Computer Engineering
@@ -437,6 +437,7 @@ BL-1
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DIGITAL CIRCUITS AND COMPUTER ARCHITECTURE/Digital Circuits and Computer Architecture, Sem-III, Batch 2022-23 & 2024-25 Re Exam.pdf`
 - Printed on paper: max marks: 100; exam date: 18/02 / 2025
 - Text: ocr (2 pages), mean OCR confidence 84.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -501,7 +502,6 @@ ye =
 
 Year: 2nd _ Semester: Tl
 --- page 2 ---
-F (W, X, Y, Z)=>m (0, 7, 8, 9, 10, 12) + Yd (2, 5, 13)
 
 Q3 a. Design and implement 4 x 2 Priority encoder and discuss the steps [10]
 Co-2; b. List and briefly define the main structural components of a processor. 110}

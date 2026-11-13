@@ -227,6 +227,7 @@ CO-3;SO-2;BL-2   Describe below terms used for association with suitable example
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/PREDICTIVE ANALYTICS/Predictive Analysis 2025-26 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: ocr (4 pages), mean OCR confidence 83.1
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -282,7 +283,6 @@ CO-4; SO-1; | d. | Analyze the limitation of input selection in neural network m
 BL-3,4 explain how using a regression node before the neural network can
 address this problem.
 
-FIC IR aI a a a ak
 --- page 2 ---
 Q2 Demonstrate the Model essential’s part with reference to the given figure
 CO-2; SO-1; | a. | of Predict New Cases for the Predictive Model in detail with the help of ,| [10]
@@ -306,11 +306,9 @@ detail.
 
 0 Variable Na. + ‘bel | Type. Role Level
 
-DL. colle sit ofipk “Cale OntgeingORPesk Numeric topo Inherval
 
 D catsompe Cas Oangoing Peak Numeric. npn intereat
 
-Dh calle_sestst Tota Calin Caer Nupseric input Ineerent
 Number Cat Tach
 
 Deets 78 ect Suppext Numeric input Interval
@@ -326,9 +324,7 @@ LD ceuntol.suine Times Suspended tat
 
 peians Ar om
 
-Womerie tapi Necninal ied
 " ; Teil
-TD condita Grace tase charac wisn Nomi ioe a
 
 Q3 Explain the Forward Selection process used for input (variable) selection
 CO-2; SO-1; | a. | in a Regression Model. Describe step-by-step how variables are added to [10]
@@ -359,7 +355,6 @@ b> Handle extreme or unusual values.
 Q4 Discuss the importance of statistical graphics in the assessment of models
 CO-3; SO-1; | b. | citing two examples of statistical graphics and their use. Also, give an [10]
 BL-2, 3 example of profit matrix and its significance in decision making.
-BOC Raper Cros Dee
 Om ‘ .
 1
 ae
@@ -381,7 +376,6 @@ Q5 .| Explain how model features are explored during the scoring of a Champion
 y
 o iri SO-1; | b.’) Model and describe the sequential st¢ps involved in the Model Scoring [10]
 
-Fe aK 3 ack ak ak dk ok
 --- page 4 ---
 Q6 Explain the working of the DMNeural Model by discussing its key model
 

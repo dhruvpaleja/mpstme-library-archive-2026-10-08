@@ -117,6 +117,153 @@ determinant function to find determinant of a Matrix.
 14
 ````
 
+## 2018-19 · Re-Exam · Sem 6 · paper 5da90b884500
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/PROGRAMMING IN JAVA/PROGRAMMING IN JAVA BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 25 April 2019
+- Text: ocr (3 pages), mean OCR confidence 91.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+y Program B. Tech (EXTC) Year: If Semester: VI
+/ Academic Year: 2018-2019
+
+Subject: Programming in JAVA ©
+Date : 25 April 2019“
+
+r
+Re-Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. __1__is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all__5___ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. = 4
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Qi
+A Write output of below code. - 2
+public class JavaApplication48 { “
+public static void main(String[] args) {
+int a=050;
+System.out.printIn(a);
+int b=0X20;
+System.out.printin(b);
+}
+}
+B Write output of below code 5
+public class JavaApplication48 {
+public static void main(String[] args) {
+int a=50;
+int b=20;
+System.out.printIn(a&b);
+System.out.printin(a|b);
+System.out.printIn(a%b);
+System.out.printIn(a<<2);
+System.out.printIn(b>>2);
+
+1/3
+--- page 2 ---
+Q3
+
+aa
+
+Qs
+
+B
+
+Q6
+
+Describe about static inner class in JAVA, and how to create an object of static inner
+class.
+Explain about for each loop in JAVA with help of an example.
+
+Write a program to accept a binary number and print its decimal Equivalent
+Differentiate between (3 Points)
+
+a. Multiprocessing and Multithreading
+
+b. Function Overloading and Function Overriding
+
+Write a program to take n X n order matrix and find its determinant.
+Write short note on logical operators.
+
+Write a program to create 2 Threads one by extending Thread class and Other by
+implementing runnable interface. Class extending thread class should Print a string
+from first to last. Class implementing runnable interface must print the string in Reverse
+order. Use static void sleep(int ) throws InterruptedException for sending the thread
+into blocked state.
+
+e.g.
+
+Let the string is “Hello”.
+
+Expected Output: oa
+
+T1:H
+
+T2:0
+
+Tlie
+
+T2:1
+
+T1:l
+
+T2:1 * 7
+
+T1:1
+
+T2:e
+
+T1:o
+
+T2:H
+
+Explain about primitive data types supported by JAVA.
+
+Write a program to create a GUI as shown in below figure
+
+(By My first window 4
+
+Click me
+
+Write a function which will display no of clicks made by a particular user.
+Explain following Keyword
+if Implements ii, Extends iii. Try
+iv. Catch v. throws
+
+Write Short note on Applet Life Cycle.
+
+2/3
+
+10
+
+10
+--- page 3 ---
+B Write a program to transfer data from one file to another file using buffered reader 7
+and buffered Writer
+
+Cc Differentiate between Type Conversion and Type Casting 3
+Q7
+
+A Discuss in short about how to create JDBC connection in JAVA. 7
+B Discuss about process of Garbage Collection in Java with help of an example. 7
+````
+
 ## 2018-19 · Re-Exam · Sem 8 · paper 9efc2c01098f
 
 - Departments: Electronics and Telecommunication
@@ -548,153 +695,6 @@ Also modify above program to incorporate a constructor to provide initial values
 2/2
 ````
 
-## 2017-18 · Re-Exam · Sem 6 · paper 5da90b884500
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/PROGRAMMING IN JAVA/PROGRAMMING IN JAVA BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 25 April 2019
-- Text: ocr (3 pages), mean OCR confidence 91.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-y Program B. Tech (EXTC) Year: If Semester: VI
-/ Academic Year: 2018-2019
-
-Subject: Programming in JAVA ©
-Date : 25 April 2019“
-
-r
-Re-Examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. __1__is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all__5___ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page. = 4
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Qi
-A Write output of below code. - 2
-public class JavaApplication48 { “
-public static void main(String[] args) {
-int a=050;
-System.out.printIn(a);
-int b=0X20;
-System.out.printin(b);
-}
-}
-B Write output of below code 5
-public class JavaApplication48 {
-public static void main(String[] args) {
-int a=50;
-int b=20;
-System.out.printIn(a&b);
-System.out.printin(a|b);
-System.out.printIn(a%b);
-System.out.printIn(a<<2);
-System.out.printIn(b>>2);
-
-1/3
---- page 2 ---
-Q3
-
-aa
-
-Qs
-
-B
-
-Q6
-
-Describe about static inner class in JAVA, and how to create an object of static inner
-class.
-Explain about for each loop in JAVA with help of an example.
-
-Write a program to accept a binary number and print its decimal Equivalent
-Differentiate between (3 Points)
-
-a. Multiprocessing and Multithreading
-
-b. Function Overloading and Function Overriding
-
-Write a program to take n X n order matrix and find its determinant.
-Write short note on logical operators.
-
-Write a program to create 2 Threads one by extending Thread class and Other by
-implementing runnable interface. Class extending thread class should Print a string
-from first to last. Class implementing runnable interface must print the string in Reverse
-order. Use static void sleep(int ) throws InterruptedException for sending the thread
-into blocked state.
-
-e.g.
-
-Let the string is “Hello”.
-
-Expected Output: oa
-
-T1:H
-
-T2:0
-
-Tlie
-
-T2:1
-
-T1:l
-
-T2:1 * 7
-
-T1:1
-
-T2:e
-
-T1:o
-
-T2:H
-
-Explain about primitive data types supported by JAVA.
-
-Write a program to create a GUI as shown in below figure
-
-(By My first window 4
-
-Click me
-
-Write a function which will display no of clicks made by a particular user.
-Explain following Keyword
-if Implements ii, Extends iii. Try
-iv. Catch v. throws
-
-Write Short note on Applet Life Cycle.
-
-2/3
-
-10
-
-10
---- page 3 ---
-B Write a program to transfer data from one file to another file using buffered reader 7
-and buffered Writer
-
-Cc Differentiate between Type Conversion and Type Casting 3
-Q7
-
-A Discuss in short about how to create JDBC connection in JAVA. 7
-B Discuss about process of Garbage Collection in Java with help of an example. 7
-````
-
 ## 2017-18 · Re-Exam · Sem 6 · paper 887804041e7d
 
 - Departments: Electronics and Telecommunication
@@ -767,6 +767,96 @@ synchronization with programming example.
 another file.
 
 Yi
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper 10aab2c71546
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/PROGRAMMING IN JAVA/PROGRAMMING IN JAVA BATCH 14-15, 15-16 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
+- Text: ocr (2 pages), mean OCR confidence 94.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG,
+
+Programme: B. Tech (EXTC) Year: III Semester: VI
+Academic Year: 2016-2017
+
+Subject: Programming in JAVA
+Marks: 60
+Date: 05 May 2017 Time: 2.00 pm to 5.00 pm
+. Durations: 3 (hrs)
+No. of Pages: _2——
+Final Examinations (Batch 2016-2017)/
+Re-Examination (Batch 2014-2015/ 2015-2016)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+QI Solve Any 3 _ 12
+A Explain various bitwise operators in JAVA. 4
+B Give any one example each of While and Do-while loop. : 4
+Cc What do you understand by garbage collection? Explain in brief. : 4
+D Give the difference between public, private and protected members in terms of 4
+
+their scope of access.
+
+A Define object: Explain with suitable example how object access the value into the 6
+member using get method and display it using display method. .
+
+B What is inheritance? Write a program in JAVA to show the multiple inheritance. 6
+
+Q3 12
+
+A Write short note on default constructor and parameterized constructor with one 6
+
+example.
+
+B Explain abstract class and Interface with suitable example. 6
+—— Q4 . . . | 2
+
+A Write a program to find factorial of a number using recursion. 6
+
+B Explain the concept of event handling in JAVA. 6
+--- page 2 ---
+Qs
+
+What is I/O classes in JAVA? Write a program that reads two integer value form the
+keyboard and prints the multiplication of them.
+
+What is swing classes? Write a simple program to demonstrate the use of at least 3
+swing components.
+
+Write a short note on Exception handling.
+Explain in brief about thread lifecycle and method involved in thread lifecycle.
+
+Write short note on any 3
+This keyword
+
+Super keyword
+
+JAVA Packages
+
+Method Overriding
+
+2|e
+
+12
 ````
 
 ## 2016-17 · Re-Exam · Sem 6 · paper f55b363f89e4
@@ -940,96 +1030,6 @@ B Explain Applet lifecycle in detail Using Samgle hhoqram.
 A R
 
 /)
-````
-
-## 2015-16 · Re-Exam · Sem 6 · paper 10aab2c71546
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/PROGRAMMING IN JAVA/PROGRAMMING IN JAVA BATCH 14-15, 15-16 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
-- Text: ocr (2 pages), mean OCR confidence 94.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG,
-
-Programme: B. Tech (EXTC) Year: III Semester: VI
-Academic Year: 2016-2017
-
-Subject: Programming in JAVA
-Marks: 60
-Date: 05 May 2017 Time: 2.00 pm to 5.00 pm
-. Durations: 3 (hrs)
-No. of Pages: _2——
-Final Examinations (Batch 2016-2017)/
-Re-Examination (Batch 2014-2015/ 2015-2016)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-QI Solve Any 3 _ 12
-A Explain various bitwise operators in JAVA. 4
-B Give any one example each of While and Do-while loop. : 4
-Cc What do you understand by garbage collection? Explain in brief. : 4
-D Give the difference between public, private and protected members in terms of 4
-
-their scope of access.
-
-A Define object: Explain with suitable example how object access the value into the 6
-member using get method and display it using display method. .
-
-B What is inheritance? Write a program in JAVA to show the multiple inheritance. 6
-
-Q3 12
-
-A Write short note on default constructor and parameterized constructor with one 6
-
-example.
-
-B Explain abstract class and Interface with suitable example. 6
-—— Q4 . . . | 2
-
-A Write a program to find factorial of a number using recursion. 6
-
-B Explain the concept of event handling in JAVA. 6
---- page 2 ---
-Qs
-
-What is I/O classes in JAVA? Write a program that reads two integer value form the
-keyboard and prints the multiplication of them.
-
-What is swing classes? Write a simple program to demonstrate the use of at least 3
-swing components.
-
-Write a short note on Exception handling.
-Explain in brief about thread lifecycle and method involved in thread lifecycle.
-
-Write short note on any 3
-This keyword
-
-Super keyword
-
-JAVA Packages
-
-Method Overriding
-
-2|e
-
-12
 ````
 
 ## 2014-15 · Final-Exam · Sem 6 · paper 179cfd82234a
@@ -1258,7 +1258,306 @@ X—_—x
 7:
 ````
 
-## 2014-15 · Final-Exam · Sem 7 · paper e37d89e4d5af
+## 2014-15 · Re-Exam · Sem 6 · paper 4e5f7a4c6286
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONIC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/VI SEMESTER/PROGRAMMING IN JAVA/PROGRAMMING IN JAVA B TECH (ELEX), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 04/07/2015
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (ELEX) Year: III Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Programming in Java
+Marks: / »,*.
+Date: 04/07/2015 Time: / © 10.00 amt ta 4.09pm
+Durations: |, 3 (hrs) ” Ly
+
+je
++g pe
+A st
+
+ihre
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Ql Attempt any 4 parts, Each question carries 5 marks (20)
+
+a) What do you understand by a constructor what are its properties , What is
+parameterized constructor explain with syntax
+
+b) Explain with example various tokens in Java :
+
+c) Explain with example syntax and working of: forloop and while loop ,
+
+d) What do you understand by the key word: finally , explain with syntax
+
+e) Explain with example the use of final as applicable to method and classes
+
+Q2a) Explain inheritance, What do you understand by multiple and multilevel (10)
+inheritance explain how does java supports these
+
+b) Explain with example method overloading and method overriding (10)
+
+Q3) Explain the concept of streams in java what are the names of 4 input/output (10)
+
+a) stream classes inherited from class object and purpose of each give syntax
+
+and commands for creating objects and for reading/writing
+b) What do you understand by a multithreaded system (3)
+c) Explain with example how a thread is created by inheriting the Thread class (7)
+
+4/2
+--- page 2 ---
+Q4) a) What do you understand by applet , explain various stages of an applet , (10)
+a}
+
+b) Explain event handling model in Java with basic code (10)
+Qs) Write a program in java to take input of 10 nos in array and to find the (10)
+a) minimum and a max no in the array
+
+b) What do you understand by a prime no , Write a program which takes input (10)
+from user and checks whether number is prime or not
+
+Q6) Write a program for a bank class where the members are accountno, name (12)
+a) and balance, initialize the members through constructors and write methods
+to withdraw , deposit and display
+b) Explain what are checked and un checked exceptions and how are these (8)
+handled
+Q7) Write notes on following
+a) Meaning syntax and application of Abstract classes and methods (8)
+b) ODBC and JDBC (6)
+c) Meaning and use of continue and break statement (6)
+
+2/2
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper d9a81e18d75f
+
+- Departments: Electronics, Electronics and Telecommunication
+- Programmes: B TECH / ELECTRONIC, B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/VI SEMESTER/PROGRAMMING IN JAVA/PROGRAMMING IN JAVA B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 16/05/2015
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+r
+
+: _ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (ELEX) Year: Ill Semester: VI
+Batch: 2013-14 ;
+Academic Year: 2014-2015 cae
+. Mn
+Subject: Programming in Java LN
+Marksy 2*/ 100. 0.
+i 1 iy cS MB
+Date: 16/05/2015 Time: ji 10.00° am.
+
+Darah. hah (hrs)
+
+Re-Examination x
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.01 Solve any four from the following. (20)
+a. Explain Tokens and Data types in Java. (5)
+b. Explain the features of object oriented concept in Java. (5)
+iC. Explain any three Control Statements in java with suitable examples. (5)
+d. | What are a constructor and destructor? Explain with an example. (5)
+é Write a Java program to read a string and print reverse of a string. (5)
+
+Q.02 Attempt the following: (20)
+a. Write a Java program to take input of 10 Strings and sort them alphabetically (10)
+b. Write a Java program to accept a positive integer. Double this number using _— (10)
+
+<< operator and print the result. Explain the logic of shifting operation
+Input: 13
+Output: 26
+
+Q.03 Attempt the following: (20)
+
+a. Explain various swing features. What are swing basic containers? Give (10)
+comparison between swing and AWT component.
+b. Develop Java application to demonstrate use of Combo box and radio buttons. —_ (10)
+
+Q.04 Attempt the following: (20)
+a. Explain Applet life cycle. (10)
+b. Write a Java program to draw square and triangle of suitable size. (10)
+--- page 2 ---
+rv 4
+
+(20)
+
+Q.05 Attempt the following:
+lemented? Explain answer with examples (10)
+
+a. In Java how polymorphism is imp.
+and also write the use of interfaces.
+b. Write a Java program for calculate and print matrix addition of two matrices. (10)
+
+Matrix dimensions and matrix elements are entered at run time.
+
+Q.06 Attempt the following: (20)
+a. What are Java exceptions? Write about different types of exceptions (5)
+b. Consider following ‘Student’ table created in MS Access. (15)
+
+RoillNo Integer
+Name Char(30)
+Marks Integer
+Write a Java application to perform CRUD (create, retrieve, update)
+operations on Student table.
+Q.07 Attempt the following: (20)
+a. What are file stream? Explain all file streams with suitable examples. (5)
+(5)
+
+difference between default and Parameterized constructor.
+name and rollno write a program in JAVA (10)
+
+d parameterized constructor
+
+b. Explain
+c. Create a class student with members
+to initialize rollno and name using default an
+
+a
+
+2
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper 8c119751c0a5
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/PROGRAMMING IN JAVA/PROGRAMMING IN JAVA B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: VI
+Batch: 2014-15 ma
+Academic Year: 2014-2015 get we Ra
+Subject: Programming in JAVA ; AR
+Marks: 60
+Date: 29/06/2015 Time: \\ £0.00 am to 1. 00 iE
+Durations: /
+
+Gihrs)
+Re-Examination .
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1 Attempt any 4 parts each question carries same marks (12)
+a) Explain with example concept of break and continue statement in a while
+loop
+
+b) what is parameterized constructor explain with example
+
+c) Explain what are checked and in unchecked exceptions
+
+d) Explain the difference between throw and throws
+
+e) Explain right shift and left shift bit operators with example
+
+Q2a) Write a program for finding the sum of digits of anumber the number is (6)
+received through command line argument
+b) Write a program which receives 10 nos in an array and displays the max (6)
+and the min number in the array
+
+Q3a) What are the various stages of an applet? Given an applet ciass (6)
+student write the html code through which we shall invoke the applet
+b) What do understand by the JDBC and ODBC What are the various steps (6)
+for registering odbc driver in Microsoft windows
+
+Q4a) Explain with example event handling delegation model (6)
+b) Explain with example the difference between method overloading and (6)
+method overriding
+@5) a) Explain the concept of streams in java what are the names of 4 (6)
+input/output stream classes inherited from class object and purpose of
+each
+b) Given a file named as x.txt write codes for reading this file line by line (6)
+
+4/2-
+
+j
+--- page 2 ---
+and displaying the same on screen
+
+Q6a) WAP to create a class ‘Box’ having variables length, breadth and height (6)
+and a method ‘display ()’ to print value of these variables on screen.
+Create another class ‘BoxW’ which inherits ‘Box’ class and has additional
+parameter weight. This class will override the method ‘display()’ to print
+on screen the values of all four parameters.
+The values should be initialized through constructors and displayed
+through method display()
+
+b) What is abstract class and what is abstract method .What are the rules (6)
+for using keyword abstract before class and methods. How can we use
+abstract classes and methods in our programs
+
+Q7) Write notes on following each part carries 4 marks (12)
+a) super() and super. Key words and their use
+b) Explain Polymorphism with an example
+c) Use of final key word with reference to methods, instance variabies and
+classes
+````
+
+## 2013-14 · Final-Exam · Sem 7 · paper e37d89e4d5af
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -1392,101 +1691,6 @@ file. ‘Mycountry.txt’ file must be created in C:\.
 
 x
 2/2.
-````
-
-## 2014-15 · Re-Exam · Sem 6 · paper 8c119751c0a5
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/VI SEMESTER/PROGRAMMING IN JAVA/PROGRAMMING IN JAVA B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: VI
-Batch: 2014-15 ma
-Academic Year: 2014-2015 get we Ra
-Subject: Programming in JAVA ; AR
-Marks: 60
-Date: 29/06/2015 Time: \\ £0.00 am to 1. 00 iE
-Durations: /
-
-Gihrs)
-Re-Examination .
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q1 Attempt any 4 parts each question carries same marks (12)
-a) Explain with example concept of break and continue statement in a while
-loop
-
-b) what is parameterized constructor explain with example
-
-c) Explain what are checked and in unchecked exceptions
-
-d) Explain the difference between throw and throws
-
-e) Explain right shift and left shift bit operators with example
-
-Q2a) Write a program for finding the sum of digits of anumber the number is (6)
-received through command line argument
-b) Write a program which receives 10 nos in an array and displays the max (6)
-and the min number in the array
-
-Q3a) What are the various stages of an applet? Given an applet ciass (6)
-student write the html code through which we shall invoke the applet
-b) What do understand by the JDBC and ODBC What are the various steps (6)
-for registering odbc driver in Microsoft windows
-
-Q4a) Explain with example event handling delegation model (6)
-b) Explain with example the difference between method overloading and (6)
-method overriding
-@5) a) Explain the concept of streams in java what are the names of 4 (6)
-input/output stream classes inherited from class object and purpose of
-each
-b) Given a file named as x.txt write codes for reading this file line by line (6)
-
-4/2-
-
-j
---- page 2 ---
-and displaying the same on screen
-
-Q6a) WAP to create a class ‘Box’ having variables length, breadth and height (6)
-and a method ‘display ()’ to print value of these variables on screen.
-Create another class ‘BoxW’ which inherits ‘Box’ class and has additional
-parameter weight. This class will override the method ‘display()’ to print
-on screen the values of all four parameters.
-The values should be initialized through constructors and displayed
-through method display()
-
-b) What is abstract class and what is abstract method .What are the rules (6)
-for using keyword abstract before class and methods. How can we use
-abstract classes and methods in our programs
-
-Q7) Write notes on following each part carries 4 marks (12)
-a) super() and super. Key words and their use
-b) Explain Polymorphism with an example
-c) Use of final key word with reference to methods, instance variabies and
-classes
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper c2f64f75a7ff
@@ -1643,208 +1847,4 @@ program to copy the contents of ‘Mumbai.txt’ to ‘Metro.txt’ file.
 (8)
 
 (12)
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 4e5f7a4c6286
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONIC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/VI SEMESTER/PROGRAMMING IN JAVA/PROGRAMMING IN JAVA B TECH (ELEX), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 04/07/2015
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (ELEX) Year: III Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Programming in Java
-Marks: / »,*.
-Date: 04/07/2015 Time: / © 10.00 amt ta 4.09pm
-Durations: |, 3 (hrs) ” Ly
-
-je
-+g pe
-A st
-
-ihre
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Ql Attempt any 4 parts, Each question carries 5 marks (20)
-
-a) What do you understand by a constructor what are its properties , What is
-parameterized constructor explain with syntax
-
-b) Explain with example various tokens in Java :
-
-c) Explain with example syntax and working of: forloop and while loop ,
-
-d) What do you understand by the key word: finally , explain with syntax
-
-e) Explain with example the use of final as applicable to method and classes
-
-Q2a) Explain inheritance, What do you understand by multiple and multilevel (10)
-inheritance explain how does java supports these
-
-b) Explain with example method overloading and method overriding (10)
-
-Q3) Explain the concept of streams in java what are the names of 4 input/output (10)
-
-a) stream classes inherited from class object and purpose of each give syntax
-
-and commands for creating objects and for reading/writing
-b) What do you understand by a multithreaded system (3)
-c) Explain with example how a thread is created by inheriting the Thread class (7)
-
-4/2
---- page 2 ---
-Q4) a) What do you understand by applet , explain various stages of an applet , (10)
-a}
-
-b) Explain event handling model in Java with basic code (10)
-Qs) Write a program in java to take input of 10 nos in array and to find the (10)
-a) minimum and a max no in the array
-
-b) What do you understand by a prime no , Write a program which takes input (10)
-from user and checks whether number is prime or not
-
-Q6) Write a program for a bank class where the members are accountno, name (12)
-a) and balance, initialize the members through constructors and write methods
-to withdraw , deposit and display
-b) Explain what are checked and un checked exceptions and how are these (8)
-handled
-Q7) Write notes on following
-a) Meaning syntax and application of Abstract classes and methods (8)
-b) ODBC and JDBC (6)
-c) Meaning and use of continue and break statement (6)
-
-2/2
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper d9a81e18d75f
-
-- Departments: Electronics, Electronics and Telecommunication
-- Programmes: B TECH / ELECTRONIC, B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/VI SEMESTER/PROGRAMMING IN JAVA/PROGRAMMING IN JAVA B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 16/05/2015
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-r
-
-: _ SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (ELEX) Year: Ill Semester: VI
-Batch: 2013-14 ;
-Academic Year: 2014-2015 cae
-. Mn
-Subject: Programming in Java LN
-Marksy 2*/ 100. 0.
-i 1 iy cS MB
-Date: 16/05/2015 Time: ji 10.00° am.
-
-Darah. hah (hrs)
-
-Re-Examination x
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.01 Solve any four from the following. (20)
-a. Explain Tokens and Data types in Java. (5)
-b. Explain the features of object oriented concept in Java. (5)
-iC. Explain any three Control Statements in java with suitable examples. (5)
-d. | What are a constructor and destructor? Explain with an example. (5)
-é Write a Java program to read a string and print reverse of a string. (5)
-
-Q.02 Attempt the following: (20)
-a. Write a Java program to take input of 10 Strings and sort them alphabetically (10)
-b. Write a Java program to accept a positive integer. Double this number using _— (10)
-
-<< operator and print the result. Explain the logic of shifting operation
-Input: 13
-Output: 26
-
-Q.03 Attempt the following: (20)
-
-a. Explain various swing features. What are swing basic containers? Give (10)
-comparison between swing and AWT component.
-b. Develop Java application to demonstrate use of Combo box and radio buttons. —_ (10)
-
-Q.04 Attempt the following: (20)
-a. Explain Applet life cycle. (10)
-b. Write a Java program to draw square and triangle of suitable size. (10)
---- page 2 ---
-rv 4
-
-(20)
-
-Q.05 Attempt the following:
-lemented? Explain answer with examples (10)
-
-a. In Java how polymorphism is imp.
-and also write the use of interfaces.
-b. Write a Java program for calculate and print matrix addition of two matrices. (10)
-
-Matrix dimensions and matrix elements are entered at run time.
-
-Q.06 Attempt the following: (20)
-a. What are Java exceptions? Write about different types of exceptions (5)
-b. Consider following ‘Student’ table created in MS Access. (15)
-
-RoillNo Integer
-Name Char(30)
-Marks Integer
-Write a Java application to perform CRUD (create, retrieve, update)
-operations on Student table.
-Q.07 Attempt the following: (20)
-a. What are file stream? Explain all file streams with suitable examples. (5)
-(5)
-
-difference between default and Parameterized constructor.
-name and rollno write a program in JAVA (10)
-
-d parameterized constructor
-
-b. Explain
-c. Create a class student with members
-to initialize rollno and name using default an
-
-a
-
-2
 ````

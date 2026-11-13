@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_Cybersecurity Fundamentals(702IT0C013)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / CSE CYBER SECURITY | Cybersecurity Fundamentals, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech CyberSecurity 7010 | QP_Cybersecurity Fundamentals(702IT0C013)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_Cybersecurity Fundamentals(702IT0C013)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_Cybersecurity Fundamentals(702IT0C013)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech CyberSecurity 7010 | QP_Cybersecurity Fundamentals(702IT0C013)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CyberSecurity 7010 | ANS_Cybersecurity Fundamentals(702IT0C013)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B TECH / CSE CYBER SECURITY | Cybersecurity Fundamentals, Sem-V, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / CSE CYBER SECURITY | Cybersecurity Fundamentals, Sem-V, Year 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / CSE CYBER SECURITY | Cybersecurity Fundamentals, Sem-V, Final Exam, A Y 2023-24.pdf |

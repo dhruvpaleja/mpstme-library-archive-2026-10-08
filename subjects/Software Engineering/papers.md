@@ -1,8 +1,125 @@
 # Software Engineering: question papers in full
 
-127 unique papers · 2005-06 to 2025-26 · Computer Engineering, Information Technology, Computer Applications (MCA), Computer Science and Business Systems, Cyber Security, Data Science, Artificial Intelligence, Computer Science
+127 unique papers · 2005-06 to 2025-26 · Computer Engineering, Information Technology, Computer Applications (MCA), Cyber Security, Computer Science and Business Systems, Data Science, Artificial Intelligence, Computer Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 5 · paper 548f8f84f653
+
+- Departments: Computer Engineering, Computer Science, Cyber Security, Data Science, Information Technology
+- Programmes: BTech Computer 7002, BTech CS 7055, BTech CSE DS 7057, BTech CyberSecurity 7010, MBATech Computer 7047, MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Software Engineering/QP_Software Engineering(702IT0C016)_2024-2025.pdf` (+6 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Dec 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH
+(CSE - DS)/B. Tech Intg. (CE)/B. Tech Intg. (IT)/B. Tech (IT)/MBA Tech (Comp)/MBA Tech
+(IT)
+Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
+Subject: Software Engineering
+Date: 09 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 Questions
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1   [20]
+CO-1;   a Explain challenges in maintaining Legacy software.   [5 M]
+BL-L
+CO-   b Compare the Incremental and RAD models in terms of development speed,   [5 M]
+2,BL-L   modularity and project size suitability.
+CO-3;   c What are the different types of relationships used in class diagrams? Explain   [5 M]
+BL-L   with suitable examples.
+CO-4;   d   Explain Unit testing with suitable example.   [5 M]
+BL-L
+Q2   [20]
+CO-1;   a Describe the main phases of the Waterfall Model and explain why it is   [10 M]
+BL-L   considered a prescriptive process model.
+CO-3;   b Design a labelled sequence diagram for following problem statement.   [10 M]
+BL-M
+“A university is developing an Online Examination System to conduct digital
+tests for students. When a student logs in through the Exam Portal UI, the
+request is sent to the Exam Controller, which authenticates the student using
+the student entity. Once authenticated, the Exam Controller retrieves the exam
+details from the Exam entity and displays them to the student. When the
+student starts the exam, the Exam Controller delivers one question at a time by
+fetching it from the Question Bank entity. The student submits answers
+through the Exam Portal UI, which are then passed to the Exam Controller for
+storage in the Answer Sheet entity. After the student completes the test and
+clicks “Submit,” the Exam Controller finalizes the Answer Sheet and initiates
+the evaluation process.”
+Q3   [20]
+********** 1 **********
+--- page 2 ---
+CO2 ,BL- a   [10 M]
+H
+Define the three key roles in the Scrum framework and mention their core
+responsibilities
+CO-3;   b Critically evaluate the importance of UML in bridging the gap between   [10 M]
+Object-Oriented Analysis (OOA) and Object-Oriented Design (OOD).
+BL-H
+Provide an example showing how a conceptual model transition into
+specific UML diagrams.
+Q4   [20]
+CO-2;   a "Requirements Engineering is not just about documenting what users want, but [10 M]
+BL-M   about balancing conflicting needs, resolving ambiguities, and ensuring
+feasibility."
+In light of this statement, critically discuss the role of Requirements
+Engineering in the success of a software project.
+CO-3;   b Explain how a Level-0, Level-1, and Level-2 Data Flow Diagram (DFD) can   [10 M]
+be applied in the design of a Student Enrollment System. How do successive
+BL-L
+levels increase the detail and functional decomposition of the process?
+Q5   [20]
+CO-3;   a Analyze the influence of data mining and data warehousing on architectural   [10 M]
+decisions in large-scale information systems. How do these concepts guide
+BL-M
+database design at both the architectural and component levels?
+CO-2;   b Compare Agile and plan-driven approaches in terms of specification   [10 M]
+and delivery, and justify situations where Agile is more effective.
+BL-H
+Q6   [20]
+CO-2;   a Describe the major features of the Scrum methodology and analyze the role of   [10 M]
+BL-M   backlog and sprint cycles in managing change.
+CO-4;   b Discuss which ISO 9126 characteristic—efficiency, maintainability, or   [10 M]
+portability—should be prioritized for government-grade cybersecurity
+BL-L
+systems and justify your reasoning.
+Q7   [20]
+CO-3;   a Design a labeled state transition diagram for following problem statement.   [10 M]
+BL-H
+“A university library wants to automate the process of book lending through a
+Library Management System. The system should manage the complete life
+cycle of a BookCopy object (an individual copy of a book), tracking how its
+state changes as it is issued, returned, or reserved by users. Initially, every
+BookCopy in the library flagged as Available, meaning it can be borrowed by
+any registered member. When a Member places a hold request for a BookCopy,
+its marked as Reserved. While in this state, the book cannot be borrowed by
+anyone else. If the member fails to collect the book within the allowed
+reservation period(15 days), the system automatically changes its state back to
+Available. When a reserved book is collected or directly borrowed (without
+reservation), its flagged as Issued. During this state, the system tracks the issue
+********** 2 **********
+--- page 3 ---
+date and due date. If the member returns the book on or before the due date,
+the state moves back to Available. However, if the member fails to return the
+book by the due date, the system marks it as Overdue. Once an overdue book
+is returned, the system calculates a fine, records payment, and changes its flag
+back to Available.”
+CO-4;   b Judge whether adopting CMMI processes necessarily guarantees higher   [10 M]
+BL-H   software quality or whether contextual organizational factors play a greater
+role—support your argument.
+********** 3 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 2 · paper e099502f7ee0
 
@@ -1905,123 +2022,6 @@ b. Describe Process and Project Metrics for Software Quality.   [10]
 ********** 2 **********
 ````
 
-## 2024-25 · Final-Exam · Sem 5 · paper 548f8f84f653
-
-- Departments: Computer Engineering, Computer Science, Cyber Security, Data Science, Information Technology
-- Programmes: BTech Computer 7002, BTech CS 7055, BTech CSE DS 7057, BTech CyberSecurity 7010, MBATech Computer 7047, MBATech IT 7041
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Software Engineering/QP_Software Engineering(702IT0C016)_2024-2025.pdf` (+6 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Dec 2025
-- Text: text (3 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH
-(CSE - DS)/B. Tech Intg. (CE)/B. Tech Intg. (IT)/B. Tech (IT)/MBA Tech (Comp)/MBA Tech
-(IT)
-Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
-Subject: Software Engineering
-Date: 09 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 3 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory
-5. Out of remaining questions, attempt any 4 Questions
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-Q1   [20]
-CO-1;   a Explain challenges in maintaining Legacy software.   [5 M]
-BL-L
-CO-   b Compare the Incremental and RAD models in terms of development speed,   [5 M]
-2,BL-L   modularity and project size suitability.
-CO-3;   c What are the different types of relationships used in class diagrams? Explain   [5 M]
-BL-L   with suitable examples.
-CO-4;   d   Explain Unit testing with suitable example.   [5 M]
-BL-L
-Q2   [20]
-CO-1;   a Describe the main phases of the Waterfall Model and explain why it is   [10 M]
-BL-L   considered a prescriptive process model.
-CO-3;   b Design a labelled sequence diagram for following problem statement.   [10 M]
-BL-M
-“A university is developing an Online Examination System to conduct digital
-tests for students. When a student logs in through the Exam Portal UI, the
-request is sent to the Exam Controller, which authenticates the student using
-the student entity. Once authenticated, the Exam Controller retrieves the exam
-details from the Exam entity and displays them to the student. When the
-student starts the exam, the Exam Controller delivers one question at a time by
-fetching it from the Question Bank entity. The student submits answers
-through the Exam Portal UI, which are then passed to the Exam Controller for
-storage in the Answer Sheet entity. After the student completes the test and
-clicks “Submit,” the Exam Controller finalizes the Answer Sheet and initiates
-the evaluation process.”
-Q3   [20]
-********** 1 **********
---- page 2 ---
-CO2 ,BL- a   [10 M]
-H
-Define the three key roles in the Scrum framework and mention their core
-responsibilities
-CO-3;   b Critically evaluate the importance of UML in bridging the gap between   [10 M]
-Object-Oriented Analysis (OOA) and Object-Oriented Design (OOD).
-BL-H
-Provide an example showing how a conceptual model transition into
-specific UML diagrams.
-Q4   [20]
-CO-2;   a "Requirements Engineering is not just about documenting what users want, but [10 M]
-BL-M   about balancing conflicting needs, resolving ambiguities, and ensuring
-feasibility."
-In light of this statement, critically discuss the role of Requirements
-Engineering in the success of a software project.
-CO-3;   b Explain how a Level-0, Level-1, and Level-2 Data Flow Diagram (DFD) can   [10 M]
-be applied in the design of a Student Enrollment System. How do successive
-BL-L
-levels increase the detail and functional decomposition of the process?
-Q5   [20]
-CO-3;   a Analyze the influence of data mining and data warehousing on architectural   [10 M]
-decisions in large-scale information systems. How do these concepts guide
-BL-M
-database design at both the architectural and component levels?
-CO-2;   b Compare Agile and plan-driven approaches in terms of specification   [10 M]
-and delivery, and justify situations where Agile is more effective.
-BL-H
-Q6   [20]
-CO-2;   a Describe the major features of the Scrum methodology and analyze the role of   [10 M]
-BL-M   backlog and sprint cycles in managing change.
-CO-4;   b Discuss which ISO 9126 characteristic—efficiency, maintainability, or   [10 M]
-portability—should be prioritized for government-grade cybersecurity
-BL-L
-systems and justify your reasoning.
-Q7   [20]
-CO-3;   a Design a labeled state transition diagram for following problem statement.   [10 M]
-BL-H
-“A university library wants to automate the process of book lending through a
-Library Management System. The system should manage the complete life
-cycle of a BookCopy object (an individual copy of a book), tracking how its
-state changes as it is issued, returned, or reserved by users. Initially, every
-BookCopy in the library flagged as Available, meaning it can be borrowed by
-any registered member. When a Member places a hold request for a BookCopy,
-its marked as Reserved. While in this state, the book cannot be borrowed by
-anyone else. If the member fails to collect the book within the allowed
-reservation period(15 days), the system automatically changes its state back to
-Available. When a reserved book is collected or directly borrowed (without
-reservation), its flagged as Issued. During this state, the system tracks the issue
-********** 2 **********
---- page 3 ---
-date and due date. If the member returns the book on or before the due date,
-the state moves back to Available. However, if the member fails to return the
-book by the due date, the system marks it as Overdue. Once an overdue book
-is returned, the system calculates a fine, records payment, and changes its flag
-back to Available.”
-CO-4;   b Judge whether adopting CMMI processes necessarily guarantees higher   [10 M]
-BL-H   software quality or whether contextual organizational factors play a greater
-role—support your argument.
-********** 3 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · paper 449a5fc7778d
 
 - Departments: Computer Applications (MCA)
@@ -2105,6 +2105,121 @@ Payment. Include attributes, methods, and the relationships between the classes.
 b. Discuss Function-based metrics for Software Quality. How to compute Function   [10]
 points?
 ********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 6 · paper 00e426769603
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/SOFTWARE ENGINEERING/Software Engineering, Sem VI, Batch 2023-24 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: B. Tech Year: II Semester: VI
+Stream/s (AI) _
+
+Subject: Software Engineering Time: 03 hrs (2copm to Ss opp)
+Date:_2 / 5S /2025 No. of Pages: 02
+
+Marks: 100 7
+, Re-Examination (2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks,
+7) Assume Suitable data if necessary.
+
+Qt Answer briefly: [20]
+i a Explain key aspect of unit testing. [05]
+BL-2
+CO-2. |b.
+SO-1 Layered architecture style is suitable for most system software's. Justify. [05]
+BL-3 : .
+CcO-3 c. | How do Use Case Diagrams and Class Diagrams differ in terms of their purpose,
+S0-6 focus, and usage in the software development process? Analyze how each | [05]
+BL-3 contributes to understanding and designing a system. *
+Cco-1 d. | Explain how software engineering practices- contribute to improving system
+So- 1 reliability. What are some key practices that directly influence the reliability of a [05]
+BL-4 software system?
+Q2
+CO-3 a.
+SO-1 Compare sequence diagram and collaboration diagram in UML [10]
+BL-3
+co-2 b. | Choose a transaction that you are likely to encounter while ordering a cap and
+S0-1 gown for graduation day and Develop DFD level 1 diagram. Assume the necessary
+
+- [10]
+BL-4 entities such as student, Cap & Gown company, Inventory system, order entry /
+
+system ete.
+
+Q3
+
+Page 1 of 2
+--- page 2 ---
+C03 a. | How do Use Case Diagrams and Class Diagrams differ in terms of their purpose,
+SO-6 focus, and usage in the software development process? Analyze how each [10]
+BL-3 contributes to understanding and designing a system. ;
+
+a bs: What are the key relationships between the analysis model and the design model in [10]
+software development, and how do they influence system architecture?
+
+BL-3
+Q4
+COm alia Explain three golden rules of interface design in detail
+SO-1 P e a [10] «
+BL-3
+c0-2 b. | Evaluate the importance of integration testing in the software development
+S0-1 lifecycle, How would you justify its necessity in ensuring system stability, and [10]
+BL3 what risks might arise if integration testing is skipped? Provide an example to
+support your evaluation. :
+Q5
+
+COL3 | a What is Pair Programming? Explain Extreme Programming agile development {10}
+
+or approach with suitable diagram
+co-2 b. | Evaluate the effectiveness of reducing the user's memory load in improving the
+30-6 overall usability of an interface. How would you prioritize this principle compared [10]
+BL-3 to other usability factors such as consistency and feedback? Justify your answer
+with examples.
+Q6
+CO-4 a.
+SO-1 Compare verification and validation testing [10}
+BL-3
+CO-3 b. | Evaluate the effectiveness of collaboration diagrams versus activity diagrams in
+S0-1 modeling real-time systems. Which diagram provides better insights for system [10]
+BL-3 optimization and why. :
+Q7
+
+CO-1 a. | Analyze the Agile principle of "Welcoming changing requirements, even late in
+50-6 | development." How does this principle impact project timelines and the quality of [201
+| the delivered software in a real-world application
+
+BL-3
+
+Cco-4 b. | Write a note on:
+
+80-2 1. Extreme programming (XP). [10]
+BL-3 2. Scrum approach .
+
+Page 2 of 2
 ````
 
 ## 2024-25 · Re-Exam · Sem 5 · paper 27d7a984ebfa
@@ -2702,121 +2817,6 @@ Page 2 of 2
 10
 ````
 
-## 2023-24 · Re-Exam · Sem 6 · paper 00e426769603
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/SOFTWARE ENGINEERING/Software Engineering, Sem VI, Batch 2023-24 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-
-Program/s: B. Tech Year: II Semester: VI
-Stream/s (AI) _
-
-Subject: Software Engineering Time: 03 hrs (2copm to Ss opp)
-Date:_2 / 5S /2025 No. of Pages: 02
-
-Marks: 100 7
-, Re-Examination (2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks,
-7) Assume Suitable data if necessary.
-
-Qt Answer briefly: [20]
-i a Explain key aspect of unit testing. [05]
-BL-2
-CO-2. |b.
-SO-1 Layered architecture style is suitable for most system software's. Justify. [05]
-BL-3 : .
-CcO-3 c. | How do Use Case Diagrams and Class Diagrams differ in terms of their purpose,
-S0-6 focus, and usage in the software development process? Analyze how each | [05]
-BL-3 contributes to understanding and designing a system. *
-Cco-1 d. | Explain how software engineering practices- contribute to improving system
-So- 1 reliability. What are some key practices that directly influence the reliability of a [05]
-BL-4 software system?
-Q2
-CO-3 a.
-SO-1 Compare sequence diagram and collaboration diagram in UML [10]
-BL-3
-co-2 b. | Choose a transaction that you are likely to encounter while ordering a cap and
-S0-1 gown for graduation day and Develop DFD level 1 diagram. Assume the necessary
-
-- [10]
-BL-4 entities such as student, Cap & Gown company, Inventory system, order entry /
-
-system ete.
-
-Q3
-
-Page 1 of 2
---- page 2 ---
-C03 a. | How do Use Case Diagrams and Class Diagrams differ in terms of their purpose,
-SO-6 focus, and usage in the software development process? Analyze how each [10]
-BL-3 contributes to understanding and designing a system. ;
-
-a bs: What are the key relationships between the analysis model and the design model in [10]
-software development, and how do they influence system architecture?
-
-BL-3
-Q4
-COm alia Explain three golden rules of interface design in detail
-SO-1 P e a [10] «
-BL-3
-c0-2 b. | Evaluate the importance of integration testing in the software development
-S0-1 lifecycle, How would you justify its necessity in ensuring system stability, and [10]
-BL3 what risks might arise if integration testing is skipped? Provide an example to
-support your evaluation. :
-Q5
-
-COL3 | a What is Pair Programming? Explain Extreme Programming agile development {10}
-
-or approach with suitable diagram
-co-2 b. | Evaluate the effectiveness of reducing the user's memory load in improving the
-30-6 overall usability of an interface. How would you prioritize this principle compared [10]
-BL-3 to other usability factors such as consistency and feedback? Justify your answer
-with examples.
-Q6
-CO-4 a.
-SO-1 Compare verification and validation testing [10}
-BL-3
-CO-3 b. | Evaluate the effectiveness of collaboration diagrams versus activity diagrams in
-S0-1 modeling real-time systems. Which diagram provides better insights for system [10]
-BL-3 optimization and why. :
-Q7
-
-CO-1 a. | Analyze the Agile principle of "Welcoming changing requirements, even late in
-50-6 | development." How does this principle impact project timelines and the quality of [201
-| the delivered software in a real-world application
-
-BL-3
-
-Cco-4 b. | Write a note on:
-
-80-2 1. Extreme programming (XP). [10]
-BL-3 2. Scrum approach .
-
-Page 2 of 2
-````
-
 ## 2023-24 · Re-Exam · Sem 5 · paper ba451c32cd6f
 
 - Departments: Computer Engineering, Information Technology
@@ -3163,6 +3163,133 @@ Page 2 of 2
 20
 
 10
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper 07be1c287134
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/SOFTWARE ENGINEERING/Software engineering.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 /Aps/ 2025
+- Text: ocr (3 pages), mean OCR confidence 88.7
+
+````text
+MPSTME
+
+LIBRARY
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech Stream ; Computer Year: Ui Semester:’ “VI
+Subject: Software Engineering Time: 3 hrs (2:00pmto 5 !00 pm)
+
+Date: 20 /Aps/ 2025 . No. of Pages:03
+
+Marks: 100
+Re-Examination (Batch 2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+_~ of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+
+Answer briefly: [20]
+CO- 1; a.
+SO- 2; Explain software dual role. [5]
+BL-2
+
+Define the following
+
+Om CO - 2; . r
+
+SO- 2; i. Abstraction [5]
+BL-5 ii. Modularity
+CO- 3; c.
+SO- 2; Compare Verification and Validation testing. [5]
+BL-4
+CO- 4; d.
+SO- 2; Discuss six quality attributes for ISO 9126. [5]
+BL-2
+Q2
+Co- 1; a Discuss SCRUM agile process model with its advantages and disadvantages. 110]
+SO- 2;
+BL-2
+Soe b Explain White box testing. For the given Code [10]
+
+1/3
+--- page 2 ---
+BL-5 READ A
+IF A>0 THEN
+IF A=21 THEN
+PRINT “HELLO”
+ENDIF
+ENDIF
+i. Define Cyclomatic complexity.
+
+ii. Draw Control flow graph.
+
+iii. Compute Cyclomatic complexity.
+Q3
+CO- 2; a .
+he Develop Level 0, Level 1 and Level 2 DFD for Movie E-ticket booking fo]
+; system.
+BL-6
+CO- 4; b Discuss Software Configuration Management with respect to
+Bee i Baseline
+BL-2 i. aseline. 110]
+il. Configuration status accounting.
+iii. Change Control.
+Q4
+CO- 3; a
+a > Explain McCall’s software quality factor with diagram. [10]
+CO- 2; b
+SO- 2; Discuss three golden rules for user interface design. [10]
+BL- 2
+Q5
+Co- 1; a
+SO- 3; Define software legacy. Discuss different software myths with its reality. [10]
+BL- 1,2
+Sole. b Explain with suitable diagram, any two architectural styles in software r10]
+BL-2 , architecture.
+Q6
+CO-2; a Design State chart diagram for online shopping system. [10]
+
+2/3
+--- page 3 ---
+SO- 2;
+BL-6
+
+. : b Explain Integration testing. Discuss different approaches of Integration f10]
+BL- 12 testing.
+
+Q7
+
+CO-2; a
+SO- 2; Write a note on COCOMO —II estimation model. [10]
+
+BL- 1
+
+CO- 1; b
+SO- 2; Discuss various maturity levels of capability maturity model with diagram. [10]
+
+| BL- 2
+
+3/3
 ````
 
 ## 2022-23 · Final-Exam · Sem 3 · paper a84979677420
@@ -3540,7 +3667,7 @@ Bd ii. Reduce the user’s memory load
 2/2
 ````
 
-## 2022 · Final-Exam · Sem 7 · paper a072b1db832b
+## 2022-23 · Final-Exam · Sem 7 · paper a072b1db832b
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -3950,6 +4077,7 @@ Sks
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-VI/SOFTWARE ENGINEERING/Software Engineering, Sem-VI, Year 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 85.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -4005,7 +4133,6 @@ BL- 3 i {aPatents Exists) LookupBiis)
 7 Appitimes7() H 7 H
 sia ; E MatchApptst) i
 a 7 T 4
-i j H i GraateAppit) i anApptAppaintment j
 
 1/3
 --- page 2 ---
@@ -4224,6 +4351,130 @@ Discuss
 K
 
 2fp,
+````
+
+## 2022-23 · Re-Exam · Sem 2 · paper cbd9c625f306
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/SOFTWARE ENGINEERING/Software Engineering Batch 2021-22 Re Exam0001.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 94.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
+Academic Year: 2022-2023
+
+Program: MCA
+
+Subject: Software Engineering
+Date:_02./05/2098 .
+Marks: 100
+
+Re-Examination (Batch 2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all Squestions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Answer the following questions
+
+BL3 a) Suppose you are the project manager of a team tasked with developing a new e-commerce | [10]
+CO- 1, 2,3 website. The website is expected to have a large number of users, support multiple
+
+SO; 1,2 payment methods, and have robust security measures in place. You have been asked to
+
+choose a software development life cycle model that best suits the needs of the project.
+
+e Explain which software development life cycle model you would choose and why you
+believe it is the best fit for the project. Include a detailed description of the model, its
+phases, and how they will be applied to the development of the e-commerce website.
+
+e Describe the steps you would take to ensure that the project is completed within the given
+timeline and budget, while also ensuring that all of the project requirements are met. This
+should include a discussion of the roles and responsibilities of team members, as well as
+how you plan to manage and mitigate any risks that may arise during the project.
+
+e As the project progresses, the stakeholders may request changes to the website's
+functionality or design. Describe how you would manage these change requests and ensure
+that they are incorporated into the development process without compromising the project
+timeline or budget.
+
+BL 4 b) Differentiate between white box and black box testing [5]
+CO- 3
+
+SO- 1, 2
+
+BL3 c) Write a short note on software configuration management. [5]
+CO- 4
+
+SO: 1,2
+
+Q2 a) Differentiate between Basic path testing and control structure testing. Give 2 examples of | [10]
+BL 4 and2 each testing.
+
+CO-2and3 |b) Take an example of any software (mobile based or web based), explain golden rules for | [10]
+SO- 1,2 designing user interface of the selected software.
+
+AT
+--- page 2 ---
+Q3 a) Write a short note on Data and Control Flow models in software engineering [10]
+
+BL 2 and 4 b) Diifertiate between adaptive and dynamic software development process. [10]
+CO-1and2_ | Suppose you are working as a project manager for a team developing a mobile application for a
+SO- 1,2 client. The client has requested that the application be developed using an adaptive or dynamic
+
+software development process, due to the project's constantly changing requirements and the
+need for flexibility in development. Explain which adaptive or dynamic software development
+process you would choose for the project and why you believe it is the best fit.
+
+Q4 a) _ Write a short note on Function-Based Metrics for requirement model. [10]
+BL2 b) Explain Extreme programming software development model. [10]
+CO- | and 2
+
+SO- 1,2
+
+Q5 a) Assuming you are working on a software development project with a size of 2000 lines of | [10]
+BL 3 and 2 code, using the COCOMO model to estimate the project cost, the following information is
+
+CO- | and 3 available:
+
+SO- 1,2 e The project requires a high level of complexity due to its advanced features and technical
+
+requirements.
+e The development team has an average experience level and will be working on-site.
+e The project timeline is expected to be 6 months.
+Using the COCOMO model, estimate the project's effort in person-months and the expected
+cost in dollars. Additionally, calculate the project's development schedule in calendar months,
+assuming that the team will work 8 hours a day, 5 days a week.
+Note: You can assume the following values for COCOMO parameters:
+a= 2.94; b= 0.91; c = 3.67. Round your final answers to two decimal places.
+
+b) Write a short note on Unit and Integration Testing. Write one detailed example of each | [10]
+
+testing.
+Q6 a) Explain Any five McCali’s Software Quality Factors by giving example of each. [10]
+BL2 b) Explain any three architectural styles of software design by giving example of each. [10]
+CO- 4 and 2
+SO- 1,2
+Q7 a) Write a short note on prototyping and incremental model by drawing diagram for each | [10]
+BL 2 model.
+CO-1and4 |b) Write a short note on reverse engineering. [10]
+SO- 1,2
 ````
 
 ## 2021-22 · Final-Exam · Sem 6 · paper acd033021925
@@ -4605,130 +4856,6 @@ SO-1,2,5; [10]
 BL-2
 ````
 
-## 2021-22 · Re-Exam · Sem 2 · paper cbd9c625f306
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/SOFTWARE ENGINEERING/Software Engineering Batch 2021-22 Re Exam0001.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 94.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
-Academic Year: 2022-2023
-
-Program: MCA
-
-Subject: Software Engineering
-Date:_02./05/2098 .
-Marks: 100
-
-Re-Examination (Batch 2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all Squestions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql Answer the following questions
-
-BL3 a) Suppose you are the project manager of a team tasked with developing a new e-commerce | [10]
-CO- 1, 2,3 website. The website is expected to have a large number of users, support multiple
-
-SO; 1,2 payment methods, and have robust security measures in place. You have been asked to
-
-choose a software development life cycle model that best suits the needs of the project.
-
-e Explain which software development life cycle model you would choose and why you
-believe it is the best fit for the project. Include a detailed description of the model, its
-phases, and how they will be applied to the development of the e-commerce website.
-
-e Describe the steps you would take to ensure that the project is completed within the given
-timeline and budget, while also ensuring that all of the project requirements are met. This
-should include a discussion of the roles and responsibilities of team members, as well as
-how you plan to manage and mitigate any risks that may arise during the project.
-
-e As the project progresses, the stakeholders may request changes to the website's
-functionality or design. Describe how you would manage these change requests and ensure
-that they are incorporated into the development process without compromising the project
-timeline or budget.
-
-BL 4 b) Differentiate between white box and black box testing [5]
-CO- 3
-
-SO- 1, 2
-
-BL3 c) Write a short note on software configuration management. [5]
-CO- 4
-
-SO: 1,2
-
-Q2 a) Differentiate between Basic path testing and control structure testing. Give 2 examples of | [10]
-BL 4 and2 each testing.
-
-CO-2and3 |b) Take an example of any software (mobile based or web based), explain golden rules for | [10]
-SO- 1,2 designing user interface of the selected software.
-
-AT
---- page 2 ---
-Q3 a) Write a short note on Data and Control Flow models in software engineering [10]
-
-BL 2 and 4 b) Diifertiate between adaptive and dynamic software development process. [10]
-CO-1and2_ | Suppose you are working as a project manager for a team developing a mobile application for a
-SO- 1,2 client. The client has requested that the application be developed using an adaptive or dynamic
-
-software development process, due to the project's constantly changing requirements and the
-need for flexibility in development. Explain which adaptive or dynamic software development
-process you would choose for the project and why you believe it is the best fit.
-
-Q4 a) _ Write a short note on Function-Based Metrics for requirement model. [10]
-BL2 b) Explain Extreme programming software development model. [10]
-CO- | and 2
-
-SO- 1,2
-
-Q5 a) Assuming you are working on a software development project with a size of 2000 lines of | [10]
-BL 3 and 2 code, using the COCOMO model to estimate the project cost, the following information is
-
-CO- | and 3 available:
-
-SO- 1,2 e The project requires a high level of complexity due to its advanced features and technical
-
-requirements.
-e The development team has an average experience level and will be working on-site.
-e The project timeline is expected to be 6 months.
-Using the COCOMO model, estimate the project's effort in person-months and the expected
-cost in dollars. Additionally, calculate the project's development schedule in calendar months,
-assuming that the team will work 8 hours a day, 5 days a week.
-Note: You can assume the following values for COCOMO parameters:
-a= 2.94; b= 0.91; c = 3.67. Round your final answers to two decimal places.
-
-b) Write a short note on Unit and Integration Testing. Write one detailed example of each | [10]
-
-testing.
-Q6 a) Explain Any five McCali’s Software Quality Factors by giving example of each. [10]
-BL2 b) Explain any three architectural styles of software design by giving example of each. [10]
-CO- 4 and 2
-SO- 1,2
-Q7 a) Write a short note on prototyping and incremental model by drawing diagram for each | [10]
-BL 2 model.
-CO-1and4 |b) Write a short note on reverse engineering. [10]
-SO- 1,2
-````
-
 ## 2021-22 · Re-Exam · Sem 2 · paper 2f94863e9f95
 
 - Departments: Computer Applications (MCA)
@@ -5091,6 +5218,225 @@ Page 2 of 2
 [3]
 
 Sy
+````
+
+## 2019-20 · Re-Exam · Sem 7 · paper 4867ee039759
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/SOFTWARE ENGINEERING/Software Engineering Batch 2017-18 Re Exam.pdf`
+- Printed on paper: exam date: 09 November 2019
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (Computer) — Year: IV © Semester: VII
+
+Academic Year: 2019-20
+
+Subject: Software Engineering -
+
+anesti4,.00
+ND
+
+02,2
+
+Date: 09 November 2019 _~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql.
+a. Discuss Management myths with its reality. [3]
+b. Discuss ASD agile model. : [3]
+c. Discuss W5HH principle. % 1]
+d. Design Usecase diagram for online book store system. [3]
+Q2.
+a. Discuss Spiral process model with its advantage and disadvantages. [6]
+b. Define White box testing. Discuss different types with example. [6]
+Q3.
+a. Discuss Data Centered architecture, Data flow architecture, Call and Return architecture. [6]
+b. Discuss McCall’s quality factors. List different quality attributes of ISO 9126. [6]
+Q4.
+a. Construct Level 0, Level | and Level 2 DFD for Hotel management system. [6]
+b. Define Integration testing. List and explain different Integration testing approach. [6]
+
+Page 1of2
+--- page 2 ---
+Q7.
+
+List agile principle» Discuss SCRUM process flow with neat diagram.
+
+. Discuss different requirement engineering task.
+
+Discuss Place the user in control and Make the interface consistent golden rule with example.
+Calculate function point and estimate the cost for the following.
+
+i. Number of user inputs : 20
+
+ii. Number of user output : 10
+
+iii. Number of external inquiries : 5
+
+iv. Number of internal logical files : 10
+
+v. Number of external interface : 20
+
+Assume that all complexity adjustment value are Simple.
+
+Write a short note on CMMI
+
+. Write a short note on SCM
+
+Which of the development process models would you follows for the following project. Give
+Justification.
+
+i. A simple data processing project.
+
+ii. Anew system comparing finger prints.
+
+iii. A new missile tracking system.
+
+. Difference between Alpha and Beta testing
+
+Page 2 of 2
+
+[6]
+[6]
+
+[6]
+
+[6]
+[3]
+[3]
+[3]
+
+[3]
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 8c62cffecb20
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/SOFTWARE ENGINEERING/Softaware engineering, Re-exam 2017-18,2018-19.pdf`
+- Printed on paper: max marks: 70; exam date: 16 November 2019
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’s NMIMS \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING - \
+
+Programme: MBA Tech (IT). ~ Year: II- Semester: III~
+
+Academic Year: 2019-20
+
+Subject: Software Engineering “
+
+Marks: 70 ~
+
+Date: 16 November 2019 ”, Time: 2.00 pmy 5.00 pmpyrp -
+Durations: $(Hrs) LIBRARY
+No. of PagesX\%
+
+Re-Examination (2017-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql Attempt following ( Each 2 Marks) (14)
+
+1. Enlist the different categories of software.
+
+2. What are the pros and cons of Incremental model .
+
+3. State the difference between Alpha and beta testing.
+
+4. Write Short Note on SCRUM.
+
+5. List the important GUI components using which you can develop a GUI of any application.
+6. Draw Architectural Context Diagram for Safe home security.
+
+7. What do you mean by Data objects and Data attributes. %
+
+Qz A Consider A System “Pizza ordering “.Design the system by applying golden rules of user interface (7)
+along with the explanation .
+
+B What are the different software myths ?explain in detail Practitioner’s Myths.and customer’s myths. (7)
+
+Q3 A What is the difference between aggregation and composition .Draw the Use-case diagram for (7)
+“online Airline Ticket booking System” .
+
+B With the help of neat labeled diagrams explain different styles of architectures in Architectural (7)
+design .
+
+Q4 A __ Explain Any three Requirement Engineering Tasks .consider you have convinced the customer to (7)
+agree to every demand that you have as a developer. Does that make you a master negotiator? why?
+
+Page1/2
+--- page 2 ---
+B Along with the concepts of stubs and driver explain the types of Integration Testing. (7)
+
+Q5 A What do you mean by risk? Which model is used to manage risk ?explain in detail with advantages. (7)
+and disadvantages.
+
+B What is agility ?explain XP in agile process. (7)
+
+Q6 A _ For the given order processing system scenario draw DFD level 0 and 1.The Customer can place the (7)
+order ,cancel order, do modification in placed order before it is delivered .the order is delivered to
+customer address by courier company. Customer can make payment for the order using credit card
+or net banking .If customer is not satisfied _by the product he can return the product within 15 days
+form the deliver date. The refund is deposited back to customer account within 10 days from the date
+
+of product return.
+
+B Calculate the cyclomatic Complexity of following Graph by all 3 methods . (7)
+Q7 A _ What are the different levels of CMMI elaborate in detail (7)
+B 1) Consider A Project with the following Functional units (4)
+
+No of user inputs = 3
+
+No of user output = 40
+
+No of user enquiries = 35
+
+No of user files = 06
+
+No of external interface = 04
+
+Assume all complexity adjustment factor and weighting factors are average. Compute the
+function points for the project.
+
+2) What are the different McCall Quality Factors Explain in brief. G)
+
+Page2/2
 ````
 
 ## 2018-19 · Final + Re-Exam · Sem 5 · paper db656f90f68d
@@ -5819,6 +6165,206 @@ Write short note on (any two) (14)
 Page 2/2
 ````
 
+## 2018-19 · Re-Exam · Sem 7 · paper 6520454da2b0
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/SOFTWARE ENGINEERING/Software Engineering Batch 2017-18 Re Exam_6520454da2.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 January 2019
+- Text: ocr (3 pages), mean OCR confidence 92.1
+
+````text
+SVKM’S NMIMS
+
+; Program: B.Tech Integrated (COMPUTER) Year: IV Semester : VII
+
+/
+
+Academic Year: 2018-2019
+Subject: Software Engineering Marks: 60
+
+Time: 2.00
+Date: 15 January 2019 me: 208 pe to. 5.00 pam
+
+Durations: 3 (hrs)
+No. of Pages:_o9z
+
+Re-examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .suitable data if necessary.
+
+Q.1 [A] What are the different software myths? [6]
+
+[B] Discuss in detail the XP Concepts of Refactoring and Pair Programming with the help [6]
+of a suitable illustration.
+
+Q.2 [A] Which process model would you follow for the following projects. Give Justifications
+1. A simple data processing project
+2. A new system comprising finger prints [6]
+3. An online inventory management system for an automobile industry
+4, A new missile tracking system
+
+{B] A customer can build shopping list by providing items details and will be stored in the
+shopping cart database will also provide the item details required to complete the
+process. A customer can receive shopping list details from the view shopping list [6]
+process and such details is provided by the shopping cart database. A customer can
+receive items details by performing the search items process. Customer provide an item
+name for searching and the item details are returned from the warehouse database after
+searched. Explain the User Interface Characteristics and develop a User Interface design
+elements for the Super Market App.
+
+Q.3 [A] Explain with the help of neat labelled diagram describe the SCRUM Methodology for [6]
+developing software. State the applications of SCRUM Methodology
+
+Page-
+
+&
+--- page 2 ---
+[B]
+
+Q.4 [A]
+[B]
+
+Q.5 [A]
+
+[B]
+
+Q.6 [A]
+
+A customer goes to a restaurant and orders for.the food. The food order is noted down
+carefully and this order is sent to kitchen for preparing the required food. This restaurant
+has to manage one housekeeping department which maintains sold items and inventory
+data. The daily information about sold items and inventory depletion amount is used to
+generate a management report. Finally this management report is given to restaurant
+manager. Draw a 3 level DFD for food ordering system,
+
+Explain Transaction mapping with suitable example.
+
+‘Design a Control flow diagram for a photocopying machine. Consider all the states,
+
+The value of size in KLOC and different cost drivers for a project are given below.
+Size=200 KLOC
+
+Cost drivers are ~
+
+Software reliability=1.15
+
+Use of software tools= 0.91
+
+Production complexity=0.85
+
+Execution time constraint= 1.00
+
+Calculate the effort and duration for the three types of projects viz. organic,
+semidetached and embedded using COCOMO model.
+
+How will you apply Rad Process Model to develop software for Student Admission
+System for the XI Std. (FYJC) Science at an Autonomous Institute.
+
+Consider the following C function for searching a number using binary search
+method.
+
+Void search (int key, int n, int a[])
+{
+
+int mid;
+
+int bottom = 0;
+
+int top= n-1;
+
+while (bottom <= top)
+
+{
+
+mid= (top+ bottom)/2;
+
+if (a{mid] == key)
+
+{
+
+Printf (“element is present”);
+Return;
+
+}//end of if
+
+Else
+
+{
+
+if (a [mid] <key)
+
+bottom = mid+1;
+
+else
+top= mid — 1;
+}//end of else
+
+[6]
+
+[6]
+[6]
+
+[6]
+
+[6]
+
+[6]
+--- page 3 ---
+Q.7
+
+[B]
+
+[A]
+[B]
+[C]
+[D]
+
+i ee ASP Pa
+
+} // end of while
+} // end of search
+
+1. Calculate the cyclomatic complexity
+2. Design the test cases for these path using the path coverage
+
+A system has 12 external inputs, 24 external outputs, fields 30 different external queries,
+manages 4 internal logical files, and interfaces with 6 different legacy systems (6 EIFs).
+All of these data are of average complexity, and the overall system is relatively simple.
+Compute FP for the system.
+
+Write short notes on: (Any Two)
+W5HH principles
+
+Mccall’s software quality factors
+Software Architectural styles
+
+Integration Testing with Top down and Bottom Up Approaches with its benefits
+
+[6]
+
+[6]
+[6]
+[6]
+[6]
+
+Page-3
+````
+
 ## 2018-19 · Re-Exam · Sem 7 · paper 1f50e1bf7e02
 
 - Departments: Computer Engineering
@@ -5942,114 +6488,336 @@ c. Difference between White box and Black box testing [4]
 2/2
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper 8c62cffecb20
+## 2018-19 · Re-Exam · Sem 4 · paper b4feef63fc4b
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/SOFTWARE ENGINEERING/Softaware engineering, Re-exam 2017-18,2018-19.pdf`
-- Printed on paper: max marks: 70; exam date: 16 November 2019
-- Text: ocr (2 pages), mean OCR confidence 92.8
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/IV SEMESTER/Software Engineering/software engg....Re-exam 17-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 June 2019
+- Text: ocr (2 pages), mean OCR confidence 91.7
 
 ````text
-SVKM’s NMIMS \
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING - \
+SVKM’S NMIMS
 
-Programme: MBA Tech (IT). ~ Year: II- Semester: III~
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program MBA.Tech (COMPUTER) Year: Il ~ Semester:IV ~
 
-Academic Year: 2019-20
+Academic Year: 2018-2019 °
 
-Subject: Software Engineering “
+_ Subject: Software Engineering Marks: 70 “ |
 
-Marks: 70 ~
+/ Date: 14 June 2019- Time:2.00 pm to 5.00 pm ~
+: Duration: 3 (hrs)
 
-Date: 16 November 2019 ”, Time: 2.00 pmy 5.00 pmpyrp -
-Durations: $(Hrs) LIBRARY
-No. of PagesX\%
+No. of Pages: Q
+Re-Examination (2017-18 / 2018-19)
 
-Re-Examination (2017-18/ 2018-19)
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+womans En al
 
-1) Question No. 1 is compulsory.
+1) Question No. 01 is compulsory.
 
-2) Out of remaining questions, attempt any 4questions.
+2) Out of remaining questions, attempt any 04 questions.
 
-3) In all 5 questions to be attempted.
+3) In all 05 questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+a Assume suitable data if necessary.
 
-Ql Attempt following ( Each 2 Marks) (14)
+1. (a) (i) Explain in details about software Engineering. What should be steps taken (4)
+under the software development of life cycle (SDLC)?
 
-1. Enlist the different categories of software.
+(ii) In software engineering explain golden rules for the User Interface Design. (3)
 
-2. What are the pros and cons of Incremental model .
+(b) (i) Explain Spiral Model in detail and under what circumstances is it beneficial. (4)
 
-3. State the difference between Alpha and beta testing.
+(ii) Explain in details about software quality and technique for improving (3)
+software quality.
 
-4. Write Short Note on SCRUM.
+2. (a) Narrate the importance of software requirements specification (SRS). (7)
+Differentiate between functional and non-functional requirements. With
+appropriate block diagram explain the requirement engineering process.
 
-5. List the important GUI components using which you can develop a GUI of any application.
-6. Draw Architectural Context Diagram for Safe home security.
+(b) Explain in details about agile principles and define scrum in Agile process model (7)
+of software Engineering.
 
-7. What do you mean by Data objects and Data attributes. %
+3. (a) Design and draw context or level0 and levell data flow diagram for Food (7)
+Ordering System with proper explanation
 
-Qz A Consider A System “Pizza ordering “.Design the system by applying golden rules of user interface (7)
-along with the explanation .
-
-B What are the different software myths ?explain in detail Practitioner’s Myths.and customer’s myths. (7)
-
-Q3 A What is the difference between aggregation and composition .Draw the Use-case diagram for (7)
-“online Airline Ticket booking System” .
-
-B With the help of neat labeled diagrams explain different styles of architectures in Architectural (7)
-design .
-
-Q4 A __ Explain Any three Requirement Engineering Tasks .consider you have convinced the customer to (7)
-agree to every demand that you have as a developer. Does that make you a master negotiator? why?
-
-Page1/2
+* -€b) — Explain in details about Testing Principles with examples. (7)
 --- page 2 ---
-B Along with the concepts of stubs and driver explain the types of Integration Testing. (7)
+(a)
+(b)
 
-Q5 A What do you mean by risk? Which model is used to manage risk ?explain in detail with advantages. (7)
-and disadvantages.
+(a)
 
-B What is agility ?explain XP in agile process. (7)
+_ 0b)
 
-Q6 A _ For the given order processing system scenario draw DFD level 0 and 1.The Customer can place the (7)
-order ,cancel order, do modification in placed order before it is delivered .the order is delivered to
-customer address by courier company. Customer can make payment for the order using credit card
-or net banking .If customer is not satisfied _by the product he can return the product within 15 days
-form the deliver date. The refund is deposited back to customer account within 10 days from the date
+(a)
 
-of product return.
+(b)
 
-B Calculate the cyclomatic Complexity of following Graph by all 3 methods . (7)
-Q7 A _ What are the different levels of CMMI elaborate in detail (7)
-B 1) Consider A Project with the following Functional units (4)
+Gi)
+(ii)
 
-No of user inputs = 3
+What is Software Architecture? List the system structuring styles with suitable
+diagram.
 
-No of user output = 40
+Assume that the size of an organic type software product has been estimated to
+be 32,000 lines of source code. Assume that the average salary of software
+engineers be Rs. 15;000/- per month. Determine the effort required to develop the
+software product and the nominal development time.
 
-No of user enquiries = 35
+Explain in details about unified process model with each phase of explanation.
+Explain in details about system testing and its type related to quality software
+engineering.
 
-No of user files = 06
+How CQCOMO Model work for the cost estimation? Explain in detail.
 
-No of external interface = 04
+Explain in details about software configuration management cycle with design
+diagram of each element with explanation.
 
-Assume all complexity adjustment factor and weighting factors are average. Compute the
-function points for the project.
+Write short note on (any two)
+Incremental and prototype Model
+Crystal framework in Agile
 
-2) What are the different McCall Quality Factors Explain in brief. G)
+(iii) Cohesion and coupling
 
-Page2/2
+(iv)
+
+McCall’s Software Quality Factors
+
+(7)
+(7)
+
+(7)
+
+(7)
+
+1)
+(7)
+
+(14)
+
+212
+````
+
+## 2018-19 · Re-Exam · Sem 4 · paper 328ecadaaffc
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/IV SEMESTER/Software Engineering/software engg....Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 June 2019
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+> SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program MBA.Tech (COMPUTER) Year: II “ Semester:IV «
+
+Academic Year: 2018-2019 *
+Subject: Software Engineering Marks: 70 “
+} a
+j Date: 14 June 2019- Time:2.00 pm to 5.00 pm ~
+: Duration: 3 (hrs)
+
+No. of Pages: Q
+Re-Examination (2017-18 /2018- 19)
+
+— = a oe poco _———
+
+Instructions: Candidates should ‘read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+wy) Assume -.stitable data if necessary.
+
+1. (a) (i) Explain in details about software Engineering. ‘What should be steps taken (4)
+under the software development of life cycle (SDLC)?
+
+(ii) In software engineering explain golden rules for the User Interface Design. (3)
+
+(b) (i) Explain Spiral Model in detail and under what circumstances is it beneficial. (4)
+
+(ii) Explain in details about software quality and technique for improving (3)
+software quality.
+
+2. (a) Narrate the importance of " software requirements specification (SRS). (7)
+Differentiate between functional and non-functional requirements. With
+
+appropriate block diagram explain the requirement engineering process.
+
+(b) Explain in details about agile principles and define scrum in Agile process model (7)
+of software Engineering.
+
+3. (a) Design and draw context or level0 and levell data flow diagram for Food (7)
+Ordering System with proper explanation
+
+* -€b) — Explain in details about Testing Principles with examples. (7)
+--- page 2 ---
+(a)
+(b)
+
+(a)
+
+_ 0b)
+
+(a)
+(b)
+
+Gi)
+
+(ii)
+(iii)
+(iv)
+
+What is Software Architecture? List the system structuring styles with suitable
+diagram.
+
+Assume that the size of an organic type software product has been estimated to
+be 32,000 lines of source code. Assume that the average salary of software
+engineers be Rs. 15,000/- per month. Determine the effort required to develop the
+software product and the nominal development time.
+
+Explain in details about unified process model with each phase of explanation.
+
+Explain in details about system testing and its type related to quality software
+engineering.
+
+How CQCOMO Model work for the cost estimation? Explain in detail.
+
+Explain in details about software configuration management cycle with design
+diagram of each element with explanation.
+
+Write short note on (any two)
+Incremental and prototype Model
+Crystal framework in Agile
+Cohesion and coupling
+
+McCall’s Software Quality Factors
+
+(7)
+7)
+
+(7)
+
+(7)
+
+(7)
+(7)
+
+(14)
+
+ate
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper b51e85a77d94
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/SOFTWARE ENGINEERING/Software engineering Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; exam date: 18 January 2019
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (IT) Year: II ~ Semester : Ii
+} Academic Year: 2018-2019 .
+JSubject: Software Engineering Marks: 70
+
+Time: 2.00 pm to 5.00 pm .
+Date : 18 January 2019 Durations:3 (hts)
+
+No. of Pages: 2
+Re-examination (2017-18 / 2018-19) _
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+Q.l CASE STUDY: RAILWAY RESERVATION SYSTEM - (14 Marks]
+
+Railway Reservation System is a system used for booking tickets over internet. Any Customer Can
+book tickets for different trains. Customer can book a ticket only if the tickets are available.
+Customer searches for the availability of tickets then if the tickets are available he books the tickets
+by initially filling details in a form. Tickets can be booked in two ways by i-ticket or by e-ticket
+booking.
+
+In case of i-ticket booking customer’can book the tickets online and the tickets are couriered to
+Particular customer at their address. But in case of e-ticket booking and cancelling tickets are booked
+and cancelled online sitting at the home and customer himself has to take print of the ticket but in
+both the cases amount for tickets are deducted from customers account.
+
+For cancellation of ticket the customer has to go at reservation office than fill cancellation form and
+ask the clerk to cancel the ticket than the refund is transferred to customer account. After booking
+ticket the customer has to checkout by paying fare amount to clerk.
+
+a) Draw use case diagram for above scenario
+b) Draw Activity Diagram for booking ticket
+
+c) Draw Activity Diagram for cancelling ticket
+
+Yo
+--- page 2 ---
+Q.2 a] What do you understand by agile process? how scrum is implemented in software
+development process. What are its advantages and disadvantages? : [7 marks]
+
+b] Construct a DFD upto level 2 for food ordering system. [7 marks]
+
+Q.3 a] What you do in Negotiation, specification and validation phages of requirement engineering.
+
+[7 marks]
+b] Discuss about Design Issues to be considered during UID. [7 marks]
+Q.4 a] Explain different types of Testing done on software. [7 marks]
+
+b] Explain Layered architectures. Give two examples of software that you have used which are
+
+developed using layered architecture. [7 marks]
+Q.5 a] What design principles for software development? Explain in detail. [7 marks]
+b] Explain how to perform Incremental Integration Testing for any software. [7 marks]
+
+Q.6a] Why it is important to reduce memory load while designing User Interface. Discuss how to
+
+reduce it. What other aspects of UI you need to consider. [7 marks]
+b] How you represent different states of System. Create state machine diagram for an ATM
+machine. [7 marks]
+Q.7] Write short note on the following: [5+5+4 marks]
+
+a] Class Responsibility Collaborator(CRC) Modeling
+b] | DSDM
+c] Guidelines for displaying error messages.
 ````
 
 ## 2018-19 · Re-Exam · Sem 2 · paper 88ae8b161b50
@@ -6932,315 +7700,6 @@ C   McCall’s software quality factors 7
 i)
 ````
 
-## 2017-18 · Re-Exam · Sem 7 · paper 4867ee039759
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/SOFTWARE ENGINEERING/Software Engineering Batch 2017-18 Re Exam.pdf`
-- Printed on paper: exam date: 09 November 2019
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated (Computer) — Year: IV © Semester: VII
-
-Academic Year: 2019-20
-
-Subject: Software Engineering -
-
-anesti4,.00
-ND
-
-02,2
-
-Date: 09 November 2019 _~
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql.
-a. Discuss Management myths with its reality. [3]
-b. Discuss ASD agile model. : [3]
-c. Discuss W5HH principle. % 1]
-d. Design Usecase diagram for online book store system. [3]
-Q2.
-a. Discuss Spiral process model with its advantage and disadvantages. [6]
-b. Define White box testing. Discuss different types with example. [6]
-Q3.
-a. Discuss Data Centered architecture, Data flow architecture, Call and Return architecture. [6]
-b. Discuss McCall’s quality factors. List different quality attributes of ISO 9126. [6]
-Q4.
-a. Construct Level 0, Level | and Level 2 DFD for Hotel management system. [6]
-b. Define Integration testing. List and explain different Integration testing approach. [6]
-
-Page 1of2
---- page 2 ---
-Q7.
-
-List agile principle» Discuss SCRUM process flow with neat diagram.
-
-. Discuss different requirement engineering task.
-
-Discuss Place the user in control and Make the interface consistent golden rule with example.
-Calculate function point and estimate the cost for the following.
-
-i. Number of user inputs : 20
-
-ii. Number of user output : 10
-
-iii. Number of external inquiries : 5
-
-iv. Number of internal logical files : 10
-
-v. Number of external interface : 20
-
-Assume that all complexity adjustment value are Simple.
-
-Write a short note on CMMI
-
-. Write a short note on SCM
-
-Which of the development process models would you follows for the following project. Give
-Justification.
-
-i. A simple data processing project.
-
-ii. Anew system comparing finger prints.
-
-iii. A new missile tracking system.
-
-. Difference between Alpha and Beta testing
-
-Page 2 of 2
-
-[6]
-[6]
-
-[6]
-
-[6]
-[3]
-[3]
-[3]
-
-[3]
-````
-
-## 2017-18 · Re-Exam · Sem 7 · paper 6520454da2b0
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_07/SOFTWARE ENGINEERING/Software Engineering Batch 2017-18 Re Exam_6520454da2.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 January 2019
-- Text: ocr (3 pages), mean OCR confidence 92.1
-
-````text
-SVKM’S NMIMS
-
-; Program: B.Tech Integrated (COMPUTER) Year: IV Semester : VII
-
-/
-
-Academic Year: 2018-2019
-Subject: Software Engineering Marks: 60
-
-Time: 2.00
-Date: 15 January 2019 me: 208 pe to. 5.00 pam
-
-Durations: 3 (hrs)
-No. of Pages:_o9z
-
-Re-examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume .suitable data if necessary.
-
-Q.1 [A] What are the different software myths? [6]
-
-[B] Discuss in detail the XP Concepts of Refactoring and Pair Programming with the help [6]
-of a suitable illustration.
-
-Q.2 [A] Which process model would you follow for the following projects. Give Justifications
-1. A simple data processing project
-2. A new system comprising finger prints [6]
-3. An online inventory management system for an automobile industry
-4, A new missile tracking system
-
-{B] A customer can build shopping list by providing items details and will be stored in the
-shopping cart database will also provide the item details required to complete the
-process. A customer can receive shopping list details from the view shopping list [6]
-process and such details is provided by the shopping cart database. A customer can
-receive items details by performing the search items process. Customer provide an item
-name for searching and the item details are returned from the warehouse database after
-searched. Explain the User Interface Characteristics and develop a User Interface design
-elements for the Super Market App.
-
-Q.3 [A] Explain with the help of neat labelled diagram describe the SCRUM Methodology for [6]
-developing software. State the applications of SCRUM Methodology
-
-Page-
-
-&
---- page 2 ---
-[B]
-
-Q.4 [A]
-[B]
-
-Q.5 [A]
-
-[B]
-
-Q.6 [A]
-
-A customer goes to a restaurant and orders for.the food. The food order is noted down
-carefully and this order is sent to kitchen for preparing the required food. This restaurant
-has to manage one housekeeping department which maintains sold items and inventory
-data. The daily information about sold items and inventory depletion amount is used to
-generate a management report. Finally this management report is given to restaurant
-manager. Draw a 3 level DFD for food ordering system,
-
-Explain Transaction mapping with suitable example.
-
-‘Design a Control flow diagram for a photocopying machine. Consider all the states,
-
-The value of size in KLOC and different cost drivers for a project are given below.
-Size=200 KLOC
-
-Cost drivers are ~
-
-Software reliability=1.15
-
-Use of software tools= 0.91
-
-Production complexity=0.85
-
-Execution time constraint= 1.00
-
-Calculate the effort and duration for the three types of projects viz. organic,
-semidetached and embedded using COCOMO model.
-
-How will you apply Rad Process Model to develop software for Student Admission
-System for the XI Std. (FYJC) Science at an Autonomous Institute.
-
-Consider the following C function for searching a number using binary search
-method.
-
-Void search (int key, int n, int a[])
-{
-
-int mid;
-
-int bottom = 0;
-
-int top= n-1;
-
-while (bottom <= top)
-
-{
-
-mid= (top+ bottom)/2;
-
-if (a{mid] == key)
-
-{
-
-Printf (“element is present”);
-Return;
-
-}//end of if
-
-Else
-
-{
-
-if (a [mid] <key)
-
-bottom = mid+1;
-
-else
-top= mid — 1;
-}//end of else
-
-[6]
-
-[6]
-[6]
-
-[6]
-
-[6]
-
-[6]
---- page 3 ---
-Q.7
-
-[B]
-
-[A]
-[B]
-[C]
-[D]
-
-i ee ASP Pa
-
-} // end of while
-} // end of search
-
-1. Calculate the cyclomatic complexity
-2. Design the test cases for these path using the path coverage
-
-A system has 12 external inputs, 24 external outputs, fields 30 different external queries,
-manages 4 internal logical files, and interfaces with 6 different legacy systems (6 EIFs).
-All of these data are of average complexity, and the overall system is relatively simple.
-Compute FP for the system.
-
-Write short notes on: (Any Two)
-W5HH principles
-
-Mccall’s software quality factors
-Software Architectural styles
-
-Integration Testing with Top down and Bottom Up Approaches with its benefits
-
-[6]
-
-[6]
-[6]
-[6]
-[6]
-
-Page-3
-````
-
 ## 2017-18 · Re-Exam · Sem 7 · paper a9d1b31609c5
 
 - Departments: Computer Engineering
@@ -7496,217 +7955,6 @@ paths. Design sample test case.
 Q7 Differentiate between : (07)
 (a) Coupling and Cohesion (07)
 (b) FP Based and LOC Based Estimation
-````
-
-## 2017-18 · Re-Exam · Sem 4 · paper 328ecadaaffc
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/IV SEMESTER/Software Engineering/software engg....Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 June 2019
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-> SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program MBA.Tech (COMPUTER) Year: II “ Semester:IV «
-
-Academic Year: 2018-2019 *
-Subject: Software Engineering Marks: 70 “
-} a
-j Date: 14 June 2019- Time:2.00 pm to 5.00 pm ~
-: Duration: 3 (hrs)
-
-No. of Pages: Q
-Re-Examination (2017-18 /2018- 19)
-
-— = a oe poco _———
-
-Instructions: Candidates should ‘read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-wy) Assume -.stitable data if necessary.
-
-1. (a) (i) Explain in details about software Engineering. ‘What should be steps taken (4)
-under the software development of life cycle (SDLC)?
-
-(ii) In software engineering explain golden rules for the User Interface Design. (3)
-
-(b) (i) Explain Spiral Model in detail and under what circumstances is it beneficial. (4)
-
-(ii) Explain in details about software quality and technique for improving (3)
-software quality.
-
-2. (a) Narrate the importance of " software requirements specification (SRS). (7)
-Differentiate between functional and non-functional requirements. With
-
-appropriate block diagram explain the requirement engineering process.
-
-(b) Explain in details about agile principles and define scrum in Agile process model (7)
-of software Engineering.
-
-3. (a) Design and draw context or level0 and levell data flow diagram for Food (7)
-Ordering System with proper explanation
-
-* -€b) — Explain in details about Testing Principles with examples. (7)
---- page 2 ---
-(a)
-(b)
-
-(a)
-
-_ 0b)
-
-(a)
-(b)
-
-Gi)
-
-(ii)
-(iii)
-(iv)
-
-What is Software Architecture? List the system structuring styles with suitable
-diagram.
-
-Assume that the size of an organic type software product has been estimated to
-be 32,000 lines of source code. Assume that the average salary of software
-engineers be Rs. 15,000/- per month. Determine the effort required to develop the
-software product and the nominal development time.
-
-Explain in details about unified process model with each phase of explanation.
-
-Explain in details about system testing and its type related to quality software
-engineering.
-
-How CQCOMO Model work for the cost estimation? Explain in detail.
-
-Explain in details about software configuration management cycle with design
-diagram of each element with explanation.
-
-Write short note on (any two)
-Incremental and prototype Model
-Crystal framework in Agile
-Cohesion and coupling
-
-McCall’s Software Quality Factors
-
-(7)
-7)
-
-(7)
-
-(7)
-
-(7)
-(7)
-
-(14)
-
-ate
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper b51e85a77d94
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/SOFTWARE ENGINEERING/Software engineering Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; exam date: 18 January 2019
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (IT) Year: II ~ Semester : Ii
-} Academic Year: 2018-2019 .
-JSubject: Software Engineering Marks: 70
-
-Time: 2.00 pm to 5.00 pm .
-Date : 18 January 2019 Durations:3 (hts)
-
-No. of Pages: 2
-Re-examination (2017-18 / 2018-19) _
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -suitable data if necessary.
-
-Q.l CASE STUDY: RAILWAY RESERVATION SYSTEM - (14 Marks]
-
-Railway Reservation System is a system used for booking tickets over internet. Any Customer Can
-book tickets for different trains. Customer can book a ticket only if the tickets are available.
-Customer searches for the availability of tickets then if the tickets are available he books the tickets
-by initially filling details in a form. Tickets can be booked in two ways by i-ticket or by e-ticket
-booking.
-
-In case of i-ticket booking customer’can book the tickets online and the tickets are couriered to
-Particular customer at their address. But in case of e-ticket booking and cancelling tickets are booked
-and cancelled online sitting at the home and customer himself has to take print of the ticket but in
-both the cases amount for tickets are deducted from customers account.
-
-For cancellation of ticket the customer has to go at reservation office than fill cancellation form and
-ask the clerk to cancel the ticket than the refund is transferred to customer account. After booking
-ticket the customer has to checkout by paying fare amount to clerk.
-
-a) Draw use case diagram for above scenario
-b) Draw Activity Diagram for booking ticket
-
-c) Draw Activity Diagram for cancelling ticket
-
-Yo
---- page 2 ---
-Q.2 a] What do you understand by agile process? how scrum is implemented in software
-development process. What are its advantages and disadvantages? : [7 marks]
-
-b] Construct a DFD upto level 2 for food ordering system. [7 marks]
-
-Q.3 a] What you do in Negotiation, specification and validation phages of requirement engineering.
-
-[7 marks]
-b] Discuss about Design Issues to be considered during UID. [7 marks]
-Q.4 a] Explain different types of Testing done on software. [7 marks]
-
-b] Explain Layered architectures. Give two examples of software that you have used which are
-
-developed using layered architecture. [7 marks]
-Q.5 a] What design principles for software development? Explain in detail. [7 marks]
-b] Explain how to perform Incremental Integration Testing for any software. [7 marks]
-
-Q.6a] Why it is important to reduce memory load while designing User Interface. Discuss how to
-
-reduce it. What other aspects of UI you need to consider. [7 marks]
-b] How you represent different states of System. Create state machine diagram for an ATM
-machine. [7 marks]
-Q.7] Write short note on the following: [5+5+4 marks]
-
-a] Class Responsibility Collaborator(CRC) Modeling
-b] | DSDM
-c] Guidelines for displaying error messages.
 ````
 
 ## 2017-18 · Re-Exam · Sem 2 · paper 266dcc7bf77a
@@ -8233,6 +8481,84 @@ SRR OI A AE
 Page 2/2
 ````
 
+## 2016-17 · Re-Exam · Sem 5 · paper 2936f7365d6f
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/SOFTWARE ENGINEERING/SOFTWARE ENGINEERING (COMP), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 01 December 2016
+- Text: ocr (1 page), mean OCR confidence 88.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (COMPUTER) Year : Ill Semester: V
+Batch : 2014-2015/ 2015-2016 Ea
+
+ge a. .
+Academic Year : 2016-2017 Fog e Baay
+. i (Aa
+Subject : Software Engineering I J b
+(hrs)
+
+6 a PA
+(eee pm to 5.0m
+. 3 (hrs SS .
+eS ane
+
+Re-Examination =
+
+es
+
+Date : 01 December 2016
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for the use.
+
+NB:
+
+1. Question 1 is compulsory.
+
+2. Attempt any four out of remaining 6 questions.
+
+3. In all 5 question to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question should be started on a fresh page.
+6. Figure in brackets indicate full marks.
+
+Q.1 a) Calculate the function point for online railway ticket reservation system. Necessary [6]
+assumptions required for the calculation of FP .
+
+b) The incremental process models considered by many to be the best approach to software [6]
+development in a modern context? Do you agree on this? Justify.
+
+Q.2 a) Construct level 0, level 1 and Level 2 DFD for online railway ticket reservation system. [6]
+b) Describe the three key assumptions regarding software projects that every agile software [6]
+
+process must address. Explain refactoring, Spike solutions and JAD in Agile software process.
+
+Q.3 a) Why architecture is important? What is partitioning the architecture? Explain with an [6]
+
+example.
+b) Design Control Flow Diagram for online railway ticket reservation system. [6]
+Q4 a) List and explain user interface design models. [6]
+b) What are stubs and drivers in testing? Differentiate between them. [6]
+Q5 a) Design unit testing environment (Test case) for online railway ticket reservation system. [6]
+— b) Discuss the Basis path testing. Calculate the cyclomatic complexity by considering any [6]
+example.
+oa Q6 a) Briefly explain the roleof SQA team. Justify the term SQA activities Pay Off: [6]
+b) What is software quality? Explain McCalls Triangle of quality attributes. [6]
+Q.7 Write short notes on the following:- [12]
+
+a)WS5HH principles b) Software configuration Management
+c) Reengineering and Reverse Engineering
+
+YA
+````
+
 ## 2016-17 · Re-Exam · Sem 5 · paper 86af6b6d4e4a
 
 - Departments: Computer Engineering
@@ -8470,6 +8796,7 @@ McCall’s Software Quality Factors
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/II SEMESTER/SOFTWARE ENGINEERING/Software Engineering Batch 2016-17 Re Exam.pdf`
 - Printed on paper: max marks: 70; exam date: 10 July 2017
 - Text: ocr (2 pages), mean OCR confidence 91.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -8562,7 +8889,6 @@ d) Regression iTesting
 
 e) Cohesion and coupling
 
-FECA SISOS III I I IOI I I I
 
 [07 Marks]
 
@@ -9022,82 +9348,74 @@ suitable example.
 Compare and contrast coupling and cohesion. (7)
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 2936f7365d6f
+## 2015-16 · Re-Exam · Sem 5 · paper 65781bf7bb45
 
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/SOFTWARE ENGINEERING/SOFTWARE ENGINEERING (COMP), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 01 December 2016
-- Text: ocr (1 page), mean OCR confidence 88.8
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/SOFTWARE ENGINEERING/SOFTWARE ENGINEERING B TECH (IT), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 27/11/2015
+- Text: ocr (1 page), mean OCR confidence 87.5
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (COMPUTER) Year : Ill Semester: V
-Batch : 2014-2015/ 2015-2016 Ea
+Programme: B. Tech (I.T.) Year: III Semester: V
+Batch: 2014-2015
+Academic Year: 2015-2016
 
-ge a. .
-Academic Year : 2016-2017 Fog e Baay
-. i (Aa
-Subject : Software Engineering I J b
-(hrs)
+Subject: Software Engineering
+Marks:
+Date: 27/11/2015 Time:
 
-6 a PA
-(eee pm to 5.0m
-. 3 (hrs SS .
-eS ane
+Duration:
 
-Re-Examination =
+Re-Examination
 
-es
-
-Date : 01 December 2016
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for the use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1. Question 1 is compulsory.
+1. Question No. 1 is compulsory.
 
-2. Attempt any four out of remaining 6 questions.
+2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
+3. Inall, FIVE (5) questions to be attempied.
 
-3. In all 5 question to be attempted.
+4, All questions carry equal marks.
 
-4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page
 
-5. Answer to each new question should be started on a fresh page.
-6. Figure in brackets indicate full marks.
+6. Figure in brackets on the right hand side indicates full marks.
 
-Q.1 a) Calculate the function point for online railway ticket reservation system. Necessary [6]
-assumptions required for the calculation of FP .
+Qi A _ Explain the importance of Software Engineering in the development of software. oe
+B Accomplish Class modeling for a University Management database system. ele)
 
-b) The incremental process models considered by many to be the best approach to software [6]
-development in a modern context? Do you agree on this? Justify.
+Q2 A   Howis Spiral model useful in Software Engineering? Discuss its advantage and a6
 
-Q.2 a) Construct level 0, level 1 and Level 2 DFD for online railway ticket reservation system. [6]
-b) Describe the three key assumptions regarding software projects that every agile software [6]
+disadvantage.
+B Compare and contrast Prescriptive process models vs. Agile Models. 06
+Q3 A _ Explain the tasks involved in Requirements Engineering. O06
 
-process must address. Explain refactoring, Spike solutions and JAD in Agile software process.
+- B_ What is Dynamic Modeling? Explain the terms State, Event, & Condition along 06
+with an example.
 
-Q.3 a) Why architecture is important? What is partitioning the architecture? Explain with an [6]
+Q4 A _ Explain the different ways of identifying classes in class based modeling. 06
+B_ Construct a Use case diagram for a Library Management system. 06
+Q5 A Explain briefly the important software design concepts. faye
+B_ Explain Cyclomatic complexity with an example. 06
+err
+Q6 A What is testing? What are methods to perform Integration testing. ey
+nd B Explain any two different styles of architecture. oG
+Q7 Write short notes on any FOUR (4) of the following with examples:
+A Categories of a Software O23
+B Extreme Programming 0S
+C Transform Mapping rele
+D Function Oriented Metrics os
+E User Interface Rules os
+F   McCall’s software quality factors Q3%
 
-example.
-b) Design Control Flow Diagram for online railway ticket reservation system. [6]
-Q4 a) List and explain user interface design models. [6]
-b) What are stubs and drivers in testing? Differentiate between them. [6]
-Q5 a) Design unit testing environment (Test case) for online railway ticket reservation system. [6]
-— b) Discuss the Basis path testing. Calculate the cyclomatic complexity by considering any [6]
-example.
-oa Q6 a) Briefly explain the roleof SQA team. Justify the term SQA activities Pay Off: [6]
-b) What is software quality? Explain McCalls Triangle of quality attributes. [6]
-Q.7 Write short notes on the following:- [12]
-
-a)WS5HH principles b) Software configuration Management
-c) Reengineering and Reverse Engineering
-
-YA
+g /4.
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper f1b513026370
@@ -9455,6 +9773,125 @@ Il. RAD Model
 ll. | McCall’s Quality Factors
 ````
 
+## 2014-15 · Re-Exam · Sem 5 · paper 52efde560276
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/SOFTWARE ENGINEERING/SOFTWARE ENGINEERING B TECH (COMP) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 04/12/2014
+- Text: ocr (1 page), mean OCR confidence 94.6
+
+````text
+Ql
+
+Q2.
+
+Q3;
+
+Q4.
+
+QS.
+
+Q6.
+
+Q7.
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: III Semester: V
+Batch: 2013-2014
+Academic Year: 2014-2015
+Subject: Software Engineering
+Marks:
+Date: 04/12/2014 Time:
+Durations:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the answer book, which is provided for their use.
+
+NB:
+
+1. Question No.1 is compulsory. Out of remaining questions, attempt any 4 .
+2. Inall , 5 questions to be attempted.
+
+3. Answers to each new question to be started on fresh page.
+
+4. Figure to the right indicate full marks.
+
+a)
+b)
+
+a)
+
+b)
+
+a)
+b)
+
+a)
+b)
+
+Why is software engineering important?
+Explain White Box and Black Box Testing
+Compare RAD Model and Spiral Model.
+Explain W5HH principles.
+
+How analysis model is translated into design model? Explain with diagram.
+Why do we use Agile process models? Explain any two Agile process model.
+
+Use COCOMO- II model to estimate the effort required to build software for Simple
+Application that produces 12 screens, 10 reports, and will require approximately 80
+software components. Assume average complexity and average developer/ environment
+maturity for which productivity can be assumed as 13.Complexity weight for each screen is 2
+and for each Report is 5. All components are difficult hence for each component
+complexity weight is assumed as 10.
+
+What are functional and non-functional requirements for ATM of any bank ?
+
+What are the golden rules for User Interface Design?
+Summarize the testing strategies for a Software.
+
+Explain Size oriented and Function oriented metrics for software.
+What is meant by software quality assurance? Mention the goals of software quality
+
+group
+
+What are different categories of software? state example of each category.
+Design Screen Layouts to enter data required to generate Student Identity Card with Image.
+
+Write detailed notes on any two of the following:
+CMMI
+
+Software Configuration Management
+
+Software Architectural Styles
+
+Reengineering
+
+YF
+
+10
+10
+
+10
+
+10
+
+10
+10
+
+10
+10
+
+10
+10
+
+20
+````
+
 ## 2014-15 · Re-Exam · Sem 5 · paper ff0fb953d648
 
 - Departments: Computer Engineering
@@ -9597,76 +10034,6 @@ LC) Unit Testing °
 6
 
 y=
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 65781bf7bb45
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/SOFTWARE ENGINEERING/SOFTWARE ENGINEERING B TECH (IT), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 27/11/2015
-- Text: ocr (1 page), mean OCR confidence 87.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (I.T.) Year: III Semester: V
-Batch: 2014-2015
-Academic Year: 2015-2016
-
-Subject: Software Engineering
-Marks:
-Date: 27/11/2015 Time:
-
-Duration:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of the remaining SIX (6) questions, attempt any FOUR (4) questions.
-3. Inall, FIVE (5) questions to be attempied.
-
-4, All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page
-
-6. Figure in brackets on the right hand side indicates full marks.
-
-Qi A _ Explain the importance of Software Engineering in the development of software. oe
-B Accomplish Class modeling for a University Management database system. ele)
-
-Q2 A   Howis Spiral model useful in Software Engineering? Discuss its advantage and a6
-
-disadvantage.
-B Compare and contrast Prescriptive process models vs. Agile Models. 06
-Q3 A _ Explain the tasks involved in Requirements Engineering. O06
-
-- B_ What is Dynamic Modeling? Explain the terms State, Event, & Condition along 06
-with an example.
-
-Q4 A _ Explain the different ways of identifying classes in class based modeling. 06
-B_ Construct a Use case diagram for a Library Management system. 06
-Q5 A Explain briefly the important software design concepts. faye
-B_ Explain Cyclomatic complexity with an example. 06
-err
-Q6 A What is testing? What are methods to perform Integration testing. ey
-nd B Explain any two different styles of architecture. oG
-Q7 Write short notes on any FOUR (4) of the following with examples:
-A Categories of a Software O23
-B Extreme Programming 0S
-C Transform Mapping rele
-D Function Oriented Metrics os
-E User Interface Rules os
-F   McCall’s software quality factors Q3%
-
-g /4.
 ````
 
 ## 2014-15 · Re-Exam · Sem 2 · paper b00b65694ab4
@@ -10042,125 +10409,6 @@ Define : 10
 Explain with an example how design model is obtained from analysis model. 10
 
 HREREEKEEREE
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 52efde560276
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/SOFTWARE ENGINEERING/SOFTWARE ENGINEERING B TECH (COMP) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 04/12/2014
-- Text: ocr (1 page), mean OCR confidence 94.6
-
-````text
-Ql
-
-Q2.
-
-Q3;
-
-Q4.
-
-QS.
-
-Q6.
-
-Q7.
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: III Semester: V
-Batch: 2013-2014
-Academic Year: 2014-2015
-Subject: Software Engineering
-Marks:
-Date: 04/12/2014 Time:
-Durations:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the answer book, which is provided for their use.
-
-NB:
-
-1. Question No.1 is compulsory. Out of remaining questions, attempt any 4 .
-2. Inall , 5 questions to be attempted.
-
-3. Answers to each new question to be started on fresh page.
-
-4. Figure to the right indicate full marks.
-
-a)
-b)
-
-a)
-
-b)
-
-a)
-b)
-
-a)
-b)
-
-Why is software engineering important?
-Explain White Box and Black Box Testing
-Compare RAD Model and Spiral Model.
-Explain W5HH principles.
-
-How analysis model is translated into design model? Explain with diagram.
-Why do we use Agile process models? Explain any two Agile process model.
-
-Use COCOMO- II model to estimate the effort required to build software for Simple
-Application that produces 12 screens, 10 reports, and will require approximately 80
-software components. Assume average complexity and average developer/ environment
-maturity for which productivity can be assumed as 13.Complexity weight for each screen is 2
-and for each Report is 5. All components are difficult hence for each component
-complexity weight is assumed as 10.
-
-What are functional and non-functional requirements for ATM of any bank ?
-
-What are the golden rules for User Interface Design?
-Summarize the testing strategies for a Software.
-
-Explain Size oriented and Function oriented metrics for software.
-What is meant by software quality assurance? Mention the goals of software quality
-
-group
-
-What are different categories of software? state example of each category.
-Design Screen Layouts to enter data required to generate Student Identity Card with Image.
-
-Write detailed notes on any two of the following:
-CMMI
-
-Software Configuration Management
-
-Software Architectural Styles
-
-Reengineering
-
-YF
-
-10
-10
-
-10
-
-10
-
-10
-10
-
-10
-10
-
-10
-10
-
-20
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper c39fb1d1ff77
@@ -11125,11 +11373,11 @@ c) | Coupling and Cohesion in Object Oriented Design.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/SOFTWARE ENGINEERING/2008-2009 I(3).pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16-01-09
 - Text: ocr (2 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS UNIVERSITY
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
-ENGINEERING 3 xMe UnversiY Yeo
 
 =<
 Mumbai - 56. )z
@@ -11527,6 +11775,7 @@ Draw at least four screen layouts to show the working of your system.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/SOFTWARE ENGINEERING/2005-2006(32).pdf`
 - Printed on paper: duration hours: 3; exam date: 19/01/2006
 - Text: ocr (1 page), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NARSEE MONJEE INSTITUTE OF MANAG
@@ -11538,7 +11787,6 @@ COURSE : MBATECH 7] y@Oxr TRIMESTER: wy. COS~ ve)
 SUBJECT : SOFWARE ENGINEERING
 DATE : 19/01/2006 Ix Am “ papers 100
 TIME : 3 HOURS NBL & b
-Cacopm-Go0pn) LINRE —T Tora1 MAAR
 
 Question 1 is compulsory. Solve any two from Q. 2, Q.3 and Q.4 AND any two
 from Q.5, Q.6 and Q.7
@@ -11579,252 +11827,4 @@ b) Explain the benefits of spiral model over waterfall model. 08 marks
 Q.7 Consider the railway reservation system going online. Prepare a project
 proposal for a project containing problem definition, SRS, SDS and
 Project plan for implementation of project. 20 marks
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 07be1c287134
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM VI/SOFTWARE ENGINEERING/Software engineering.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 /Aps/ 2025
-- Text: ocr (3 pages), mean OCR confidence 88.7
-
-````text
-MPSTME
-
-LIBRARY
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech Stream ; Computer Year: Ui Semester:’ “VI
-Subject: Software Engineering Time: 3 hrs (2:00pmto 5 !00 pm)
-
-Date: 20 /Aps/ 2025 . No. of Pages:03
-
-Marks: 100
-Re-Examination (Batch 2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-_~ of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-
-Answer briefly: [20]
-CO- 1; a.
-SO- 2; Explain software dual role. [5]
-BL-2
-
-Define the following
-
-Om CO - 2; . r
-
-SO- 2; i. Abstraction [5]
-BL-5 ii. Modularity
-CO- 3; c.
-SO- 2; Compare Verification and Validation testing. [5]
-BL-4
-CO- 4; d.
-SO- 2; Discuss six quality attributes for ISO 9126. [5]
-BL-2
-Q2
-Co- 1; a Discuss SCRUM agile process model with its advantages and disadvantages. 110]
-SO- 2;
-BL-2
-Soe b Explain White box testing. For the given Code [10]
-
-1/3
---- page 2 ---
-BL-5 READ A
-IF A>0 THEN
-IF A=21 THEN
-PRINT “HELLO”
-ENDIF
-ENDIF
-i. Define Cyclomatic complexity.
-
-ii. Draw Control flow graph.
-
-iii. Compute Cyclomatic complexity.
-Q3
-CO- 2; a .
-he Develop Level 0, Level 1 and Level 2 DFD for Movie E-ticket booking fo]
-; system.
-BL-6
-CO- 4; b Discuss Software Configuration Management with respect to
-Bee i Baseline
-BL-2 i. aseline. 110]
-il. Configuration status accounting.
-iii. Change Control.
-Q4
-CO- 3; a
-a > Explain McCall’s software quality factor with diagram. [10]
-CO- 2; b
-SO- 2; Discuss three golden rules for user interface design. [10]
-BL- 2
-Q5
-Co- 1; a
-SO- 3; Define software legacy. Discuss different software myths with its reality. [10]
-BL- 1,2
-Sole. b Explain with suitable diagram, any two architectural styles in software r10]
-BL-2 , architecture.
-Q6
-CO-2; a Design State chart diagram for online shopping system. [10]
-
-2/3
---- page 3 ---
-SO- 2;
-BL-6
-
-. : b Explain Integration testing. Discuss different approaches of Integration f10]
-BL- 12 testing.
-
-Q7
-
-CO-2; a
-SO- 2; Write a note on COCOMO —II estimation model. [10]
-
-BL- 1
-
-CO- 1; b
-SO- 2; Discuss various maturity levels of capability maturity model with diagram. [10]
-
-| BL- 2
-
-3/3
-````
-
-## Year not stated · Re-Exam · Sem 4 · paper b4feef63fc4b
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/COMPUTER/IV SEMESTER/Software Engineering/software engg....Re-exam 17-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 June 2019
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program MBA.Tech (COMPUTER) Year: Il ~ Semester:IV ~
-
-Academic Year: 2018-2019 °
-
-_ Subject: Software Engineering Marks: 70 “ |
-
-/ Date: 14 June 2019- Time:2.00 pm to 5.00 pm ~
-: Duration: 3 (hrs)
-
-No. of Pages: Q
-Re-Examination (2017-18 / 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-womans En al
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-a Assume suitable data if necessary.
-
-1. (a) (i) Explain in details about software Engineering. What should be steps taken (4)
-under the software development of life cycle (SDLC)?
-
-(ii) In software engineering explain golden rules for the User Interface Design. (3)
-
-(b) (i) Explain Spiral Model in detail and under what circumstances is it beneficial. (4)
-
-(ii) Explain in details about software quality and technique for improving (3)
-software quality.
-
-2. (a) Narrate the importance of software requirements specification (SRS). (7)
-Differentiate between functional and non-functional requirements. With
-appropriate block diagram explain the requirement engineering process.
-
-(b) Explain in details about agile principles and define scrum in Agile process model (7)
-of software Engineering.
-
-3. (a) Design and draw context or level0 and levell data flow diagram for Food (7)
-Ordering System with proper explanation
-
-* -€b) — Explain in details about Testing Principles with examples. (7)
---- page 2 ---
-(a)
-(b)
-
-(a)
-
-_ 0b)
-
-(a)
-
-(b)
-
-Gi)
-(ii)
-
-What is Software Architecture? List the system structuring styles with suitable
-diagram.
-
-Assume that the size of an organic type software product has been estimated to
-be 32,000 lines of source code. Assume that the average salary of software
-engineers be Rs. 15;000/- per month. Determine the effort required to develop the
-software product and the nominal development time.
-
-Explain in details about unified process model with each phase of explanation.
-Explain in details about system testing and its type related to quality software
-engineering.
-
-How CQCOMO Model work for the cost estimation? Explain in detail.
-
-Explain in details about software configuration management cycle with design
-diagram of each element with explanation.
-
-Write short note on (any two)
-Incremental and prototype Model
-Crystal framework in Agile
-
-(iii) Cohesion and coupling
-
-(iv)
-
-McCall’s Software Quality Factors
-
-(7)
-(7)
-
-(7)
-
-(7)
-
-1)
-(7)
-
-(14)
-
-212
 ````

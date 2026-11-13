@@ -16,17 +16,17 @@ Also filed as: `ADVANCE JAVA`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Java(703CO0E019)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Advanced Java(703CO0E019)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Java(703CO0E019)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Java(703CO0E019)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Advanced Java(703CO0E019)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MCA | Advanced Java Batch 2024-25,2025-26 Re Exam.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Java(703CO0E019)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 2 | MCA | Advanced Java Batch 2024-25 Final Batch 2023-24,2022-23 Re Exam.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Java(703CO0E019)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Advanced Java(703CO0E019)_2024-2025.pdf |
-| 2023-24 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Java(703CO0E019)_2023-2024.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Java(703CO0E019)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Advanced Java(703CO0E019)_2023-2024.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | MCA | Advanced Java Batch 2023-24 Final.pdf |
+| 2023-24 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Java(703CO0E019)_2023-2024.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | MCA | Advanced Java Batch 2023-24,2022-23 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 2 | MCA | Advanced Java Batch 2022-23 Final0001.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 3 | MCA | Advanced Java 2019-20 Final.pdf |

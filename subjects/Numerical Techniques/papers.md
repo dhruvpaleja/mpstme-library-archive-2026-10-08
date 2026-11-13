@@ -1,6 +1,6 @@
 # Numerical Techniques: question papers in full
 
-9 unique papers · 2015-16 to 2018-19 · Common (all branches)
+9 unique papers · 2015-16 to 2018-19 · Common (all branches), Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -428,11 +428,282 @@ approximation when y(0)=0.
 3|3
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper fbc7ae254515
+## 2017-18 · Re-Exam · Sem 4 · paper fde461471421
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED / NUMERICAL TECHNIQUES
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/NUMERICAL TECHNIQUES/Sem_04/Numerical Techniques Batch 2016-17,2017-18 Re Exam.pdf`
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/NUMERICAL TECHNIQUES/Sem_04/Numerical Techniques Batch 2015-16 Re Exam_fde4614714.pdf`
+- Printed on paper: duration hours: 3; exam date: 09 May 2018
+- Text: ocr (2 pages), mean OCR confidence 87.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (All Streams) ie Year: II ¢
+
+Academic Year: 2017-2018 -
+
+Subject: Numerical Techniques ~“ f J (
+Marks: 6 .
+Date: 09 May 2018/ cree FO am 6,
+Durations: 3 (hrs)=
+No. of Pages: _Z
+Re-examination (2015-16) ,
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 | Attempt any six questions
+
+(a) | Find a root between 2.7 and 2.71 for the equation x? — 4x — 9 = 0 using bisection method in (2)
+two stages. :
+(b) | Write the general formula and the necessary conditions to find the root of a given function (2)
+f(x) for Regula Falsi and Newton Raphson method.
+(c) | Prepare the backward difference table for the given series 4, 10, 22, 48, 67. (2)
+(d) | Express f(x) as a second degree polynomial in X using Lagrange’s interpolation formula. (2)
+x Xi X2 X3
+f(x) al Y2 Y¥3
+(e) | Write the general formulae to find first differentiation (y’) and second differentiation (y’’) (2)
+using Newton forward and backward differentiation method.
+(f) | Evaluate f . Vsinx + cosx dx by trapezoidal rule by using the following data. 2)
+x: 0 0.2 0.4 0.6 0.8 1
+y: 1 1.0857 1.1448 1.1790 1.1891 1.1755
+(g) Using Picard’s method, solve = =x+y with x) = 0, yo = 1, upto first approximation. (2)
+Q.2
+(a) | Find the absolute, relative and percentage errors in the calculation of 3x* + 2x = 0 by (4)
+taking the approximate x as 3.45 whereas the true value of x is 3.4568.
+(b) | Derive a formula to compute VN where N is a positive number and hence estimate V11 (4)
+
+correct up to 4 decimal places by Newton-Raphson method.
+
+y2
+--- page 2 ---
+(c) | Fit a polynomial of second degree to the following data (4) ,
+
+x! 1.0 1.5 2.0 25 3.0 3.5 4.0
+y: 1.1 1.3 1.6 2.0 2.7 3.4 4.1
+O23
+(a) | Find the root by false position method of the equation x?? = 69 on the interval {5, 8} with (4)
+¢ = 0.001.
+(b) | Using the secant method, find a real root of the equation f(x) = x e* —1=0 correct to (4)
+three decimal places between 0 and 1.
+(c) | Find a root correct to three decimal places for the equation e~* (3.2 Sin x — 0.5 cosx ) = 0 (4)
+
+on interval {3, 4} by bisection method till seven iterations.
+
+Qa
+
+(a) | If f(1) =4, f(2) =5, 17) = 5, (8) =4, find the value of £6). (4)
+
+(b) | Given sin 15° =0.2588190, sin 20° =0.3420201, sin 25° =0.4226183, sin 30° =0.5, sin (4)
+35° = 0.5735784 and sin 40° = 0.6427876 find sin 38° correct up to 5 decimal places
+using the method of interpolation.
+
+(c) | The population of the town is as follows (4)
+Year (x) 1941 1951. 1961 1971 1981 1991
+Population in lakhs (Y) 20 24 29 36 46 51
+Estimate the population increase during the period 1941 to 1946. _~
+Q.5
+(a) | Find the value of fe JG — 0.162 Sin?x) dx by taking 6 ordinates by Simpson’s 1/3 . (4)
+2
+(6) Evaluate oy dx by trapezoidal rule, using interval as 0.25. @)
+(C) | Use Simpson’s 3/8" rule to evaluate f. . ” sin x dx using nine subintervals. (4)
+Q.6
+a 1
+(a) Solve the differential equation — = nay with yo= 1 when xo = 0 for the interval h = 0.5 (4)
+by Runge kutta method of fourth order.
+(b) | Using Euler’s method, find the approximate value of y at x = | in 5 steps, given that (4)
+@ = x+y, y(0) = Land h = 0.2.
+(c)_| Solve by Picard’s method y’ = x + y? if yo= 1 when xo = 0 upto y®. (4)
+Q.7
+(a) | Solve the following equations by Gauss Seidel method up to 2 iterations. (4)
+6x+y+z= 105 4x + 8y + 3z = 155 5x + 4y — 10z = 65
+(b) | Solve the following equations by Jacobi’s method upto 3 iterations. (4)
+15x+2y+z=18 2x + 20y — 3z = 19 3x — 6y + 25z = 22
+(c) | Solve the following equations by Gauss Elimination method (4)
+x+3y—2z=5 ax+y—3z=1 3x+2y—-z=6
+
+2].
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper 0735102f3e0a
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED / NUMERICAL TECHNIQUES
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/NUMERICAL TECHNIQUES/Sem_04/Numerical Techniques Batch 2016-17 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 09 May 2018
+- Text: ocr (2 pages), mean OCR confidence 87.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER DG.
+A é
+
+wo Bai
+Programme: B.Tech Integrated (All Streams) ~ Year: II / seme waa
+Academic Year: 2017-2018 —. A ie
+4
+Subject: Numerical Techniques” ita ‘Ge
+Marks: 70 ge -
+Date: 09 May 2018 f Time: 10.00 a’ 4 i: 60 Pp
+Durations: 3 (hrs) «
+No. of Pages:
+
+Final Examination (2017-18) / Re-examination (2016-17).
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+_5) Answer to each new question to be started on a fresh page.
+') Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q:1 Attempt any SEVEN questions (2 marks each) (14)
+(a) Using Newton-Raphson method find the first two roots (x, and x2) of the equation xe
+caliliel a has
+(b) Evaluate i * nx dx using trapezoidal rule. Take h = 0.2, using the following data:
+
+x 4 4.2 4.4 4.6 4.8 -5 5.2
+=In x | 1.3863 | 1.4351 | 1.4816 | 1.5260 | 1.5686 | 1.6094 | 1.6486
+
+(c) Using Picard’s method solve 2 = x+y’ with y(0) = 1 up to first approximation.
+
+(d) Using Newton's Backward difference for Interpolation formula, find f(1.5) using h = 1 and
+X o=a=0 for the given data:
+
+> Yo VY, VY, VY
+
+5 3 3 0
+
+(e) Calculate the absolute and relative errors for True value = 1 x 10°,
+Approximate value = 0.99 x 10°.
+(f) Finda real root between 2 and 3 for the equation x? — 2x — 5 = 0 using regula falsi
+method up to second approximation.
+(g) Find A*yo
+% 0 1 2 3 4 5
+y —5 —4 27 | 238 | 1019 | 3120
+
+(h) Find A3(a*).
+
+Q:2 a) Find the quotient g = = where x = 4.536 and y = 1.32, both x and y being round to the
+y y
+
+digit given. Find Absolute and Relative error in the result. (4)
+(b) Finda real root of equation e~* — x = 0 which lies between 0 and 1 by False position
+method up to 4 stages. (4)
+
+V2
+--- page 2 ---
+Q:3
+
+Q:4
+
+Q:5
+
+Q:6
+
+Q:7
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+Using the method of least squares, find the equation of straight line which approximates
+the given data. (6)
+e5 1 2 3 4 6 8
+y=f(x) 2 3 4 + 5 6.
+
+Using Newton Raphson method find the root which lies between 0 & . up to 4 decimal
+
+places for the equation sinx = 1— x. (4)
+Using secant method, find the root of equation cos x — xe* = 0 which lies between
+0 and 1 up to 4 places of decimal. (4)
+Using bisection method, find the root of equation x* + 2x3 — x —- 1 = Ointhe
+interval [0, 1] at the end of sixth iteration. (6)
+Solve the given equations by Gauss elimination method x + 4y — z = —5,
+xty—6z=-—12,3x-y-z=4. (4)
+Solve the given equations by Gauss Jordon method x +y +z = 9, 2x — 3y + 4zZ = 13, 3x +
+4y + 5z = 40. (4)
+Solve the following equations by Gauss - Seidel method upto third approximation
+27x + 6y —z = 85,6x + 15y+2z=72,x+y+54z = 110. (6)
+From the given data, find the value of y atx = 4.5 (4)
+% 1 2 3 4 5
+y 2.38 | 3.65 | 5.85 | 9.95 | 14.85
+Find f (50.5) using Newton’s forward difference formula from the given data (4)
+x 50 51 52 53 54
+y=f(x) 39.1961 | 39.7981 | 40.3942 | 40.9843 | 41.5687
+Find the polynomial of degree three which takes the values given below: (6)
+x 0 1 2 4
+y 1 1 2 5
+Evaluate: pe vsinx +cosx dx using Simpson’s sth rule, taking h = . . (4)
+Solve f° log.(1 + x?)dx using Trapezoidal rule by dividing the intervals in
+
+6 equal parts. (4)
+Evaluate: in S using Simpson’s ; rd rule by dividing it into 4 intervals of equal length.
+
+Compare this result with actual result and find percentage
+relative error. (6)
+
+Solve = = 2y + 3e* by Taylor’s series method considering first five terms in the series.
+Initial values arex = 0,y = 1 (4)
+Using Euler’s method, find the solution of = =x-—yatx = 0.6 given x) = 0 and
+
+Yo = 1; taking h = 0.2 (4)
+By Runge-Kutta method, find an approximate value of y when x = 0.2,
+
+given that & = x+y,whenx =0,y=1 (6)
+
+2/2
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper fbc7ae254515
+
+- Departments: Civil, Common (all branches)
+- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / NUMERICAL TECHNIQUES
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/NUMERICAL TECHNIQUES/Sem_04/Numerical Techniques Batch 2016-17,2017-18 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 30 June 2018
 - Text: ocr (3 pages), mean OCR confidence 86.4
 
@@ -728,166 +999,7 @@ given that = x + y when y=1atx= 0.
 3/z
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper 0735102f3e0a
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED / NUMERICAL TECHNIQUES
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/NUMERICAL TECHNIQUES/Sem_04/Numerical Techniques Batch 2016-17 Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 09 May 2018
-- Text: ocr (2 pages), mean OCR confidence 87.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER DG.
-A é
-
-wo Bai
-Programme: B.Tech Integrated (All Streams) ~ Year: II / seme waa
-Academic Year: 2017-2018 —. A ie
-4
-Subject: Numerical Techniques” ita ‘Ge
-Marks: 70 ge -
-Date: 09 May 2018 f Time: 10.00 a’ 4 i: 60 Pp
-Durations: 3 (hrs) «
-No. of Pages:
-
-Final Examination (2017-18) / Re-examination (2016-17).
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-_5) Answer to each new question to be started on a fresh page.
-') Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q:1 Attempt any SEVEN questions (2 marks each) (14)
-(a) Using Newton-Raphson method find the first two roots (x, and x2) of the equation xe
-caliliel a has
-(b) Evaluate i * nx dx using trapezoidal rule. Take h = 0.2, using the following data:
-
-x 4 4.2 4.4 4.6 4.8 -5 5.2
-=In x | 1.3863 | 1.4351 | 1.4816 | 1.5260 | 1.5686 | 1.6094 | 1.6486
-
-(c) Using Picard’s method solve 2 = x+y’ with y(0) = 1 up to first approximation.
-
-(d) Using Newton's Backward difference for Interpolation formula, find f(1.5) using h = 1 and
-X o=a=0 for the given data:
-
-> Yo VY, VY, VY
-
-5 3 3 0
-
-(e) Calculate the absolute and relative errors for True value = 1 x 10°,
-Approximate value = 0.99 x 10°.
-(f) Finda real root between 2 and 3 for the equation x? — 2x — 5 = 0 using regula falsi
-method up to second approximation.
-(g) Find A*yo
-% 0 1 2 3 4 5
-y —5 —4 27 | 238 | 1019 | 3120
-
-(h) Find A3(a*).
-
-Q:2 a) Find the quotient g = = where x = 4.536 and y = 1.32, both x and y being round to the
-y y
-
-digit given. Find Absolute and Relative error in the result. (4)
-(b) Finda real root of equation e~* — x = 0 which lies between 0 and 1 by False position
-method up to 4 stages. (4)
-
-V2
---- page 2 ---
-Q:3
-
-Q:4
-
-Q:5
-
-Q:6
-
-Q:7
-
-(c)
-
-(a)
-
-(b)
-
-(c)
-
-(a)
-(b)
-
-(c)
-
-(a)
-
-(b)
-
-(c)
-
-(a)
-(b)
-
-(c)
-
-(a)
-
-(b)
-
-(c)
-
-Using the method of least squares, find the equation of straight line which approximates
-the given data. (6)
-e5 1 2 3 4 6 8
-y=f(x) 2 3 4 + 5 6.
-
-Using Newton Raphson method find the root which lies between 0 & . up to 4 decimal
-
-places for the equation sinx = 1— x. (4)
-Using secant method, find the root of equation cos x — xe* = 0 which lies between
-0 and 1 up to 4 places of decimal. (4)
-Using bisection method, find the root of equation x* + 2x3 — x —- 1 = Ointhe
-interval [0, 1] at the end of sixth iteration. (6)
-Solve the given equations by Gauss elimination method x + 4y — z = —5,
-xty—6z=-—12,3x-y-z=4. (4)
-Solve the given equations by Gauss Jordon method x +y +z = 9, 2x — 3y + 4zZ = 13, 3x +
-4y + 5z = 40. (4)
-Solve the following equations by Gauss - Seidel method upto third approximation
-27x + 6y —z = 85,6x + 15y+2z=72,x+y+54z = 110. (6)
-From the given data, find the value of y atx = 4.5 (4)
-% 1 2 3 4 5
-y 2.38 | 3.65 | 5.85 | 9.95 | 14.85
-Find f (50.5) using Newton’s forward difference formula from the given data (4)
-x 50 51 52 53 54
-y=f(x) 39.1961 | 39.7981 | 40.3942 | 40.9843 | 41.5687
-Find the polynomial of degree three which takes the values given below: (6)
-x 0 1 2 4
-y 1 1 2 5
-Evaluate: pe vsinx +cosx dx using Simpson’s sth rule, taking h = . . (4)
-Solve f° log.(1 + x?)dx using Trapezoidal rule by dividing the intervals in
-
-6 equal parts. (4)
-Evaluate: in S using Simpson’s ; rd rule by dividing it into 4 intervals of equal length.
-
-Compare this result with actual result and find percentage
-relative error. (6)
-
-Solve = = 2y + 3e* by Taylor’s series method considering first five terms in the series.
-Initial values arex = 0,y = 1 (4)
-Using Euler’s method, find the solution of = =x-—yatx = 0.6 given x) = 0 and
-
-Yo = 1; taking h = 0.2 (4)
-By Runge-Kutta method, find an approximate value of y when x = 0.2,
-
-given that & = x+y,whenx =0,y=1 (6)
-
-2/2
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 4c63e1181c6b
+## 2016-17 · Re-Exam · Sem 4 · paper 4c63e1181c6b
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED / NUMERICAL TECHNIQUES
@@ -1097,7 +1209,7 @@ yY 0.30 0.64 1.32 5.40
 (4)
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 55b5c6fae213
+## 2016-17 · Re-Exam · Sem 4 · paper 55b5c6fae213
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED / NUMERICAL TECHNIQUES
@@ -1475,116 +1587,4 @@ students:
 2 eereeerereemmemnenlicliitiee? = e
 
 3/3
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper fde461471421
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED / NUMERICAL TECHNIQUES
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/NUMERICAL TECHNIQUES/Sem_04/Numerical Techniques Batch 2015-16 Re Exam_fde4614714.pdf`
-- Printed on paper: duration hours: 3; exam date: 09 May 2018
-- Text: ocr (2 pages), mean OCR confidence 87.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated (All Streams) ie Year: II ¢
-
-Academic Year: 2017-2018 -
-
-Subject: Numerical Techniques ~“ f J (
-Marks: 6 .
-Date: 09 May 2018/ cree FO am 6,
-Durations: 3 (hrs)=
-No. of Pages: _Z
-Re-examination (2015-16) ,
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 | Attempt any six questions
-
-(a) | Find a root between 2.7 and 2.71 for the equation x? — 4x — 9 = 0 using bisection method in (2)
-two stages. :
-(b) | Write the general formula and the necessary conditions to find the root of a given function (2)
-f(x) for Regula Falsi and Newton Raphson method.
-(c) | Prepare the backward difference table for the given series 4, 10, 22, 48, 67. (2)
-(d) | Express f(x) as a second degree polynomial in X using Lagrange’s interpolation formula. (2)
-x Xi X2 X3
-f(x) al Y2 Y¥3
-(e) | Write the general formulae to find first differentiation (y’) and second differentiation (y’’) (2)
-using Newton forward and backward differentiation method.
-(f) | Evaluate f . Vsinx + cosx dx by trapezoidal rule by using the following data. 2)
-x: 0 0.2 0.4 0.6 0.8 1
-y: 1 1.0857 1.1448 1.1790 1.1891 1.1755
-(g) Using Picard’s method, solve = =x+y with x) = 0, yo = 1, upto first approximation. (2)
-Q.2
-(a) | Find the absolute, relative and percentage errors in the calculation of 3x* + 2x = 0 by (4)
-taking the approximate x as 3.45 whereas the true value of x is 3.4568.
-(b) | Derive a formula to compute VN where N is a positive number and hence estimate V11 (4)
-
-correct up to 4 decimal places by Newton-Raphson method.
-
-y2
---- page 2 ---
-(c) | Fit a polynomial of second degree to the following data (4) ,
-
-x! 1.0 1.5 2.0 25 3.0 3.5 4.0
-y: 1.1 1.3 1.6 2.0 2.7 3.4 4.1
-O23
-(a) | Find the root by false position method of the equation x?? = 69 on the interval {5, 8} with (4)
-¢ = 0.001.
-(b) | Using the secant method, find a real root of the equation f(x) = x e* —1=0 correct to (4)
-three decimal places between 0 and 1.
-(c) | Find a root correct to three decimal places for the equation e~* (3.2 Sin x — 0.5 cosx ) = 0 (4)
-
-on interval {3, 4} by bisection method till seven iterations.
-
-Qa
-
-(a) | If f(1) =4, f(2) =5, 17) = 5, (8) =4, find the value of £6). (4)
-
-(b) | Given sin 15° =0.2588190, sin 20° =0.3420201, sin 25° =0.4226183, sin 30° =0.5, sin (4)
-35° = 0.5735784 and sin 40° = 0.6427876 find sin 38° correct up to 5 decimal places
-using the method of interpolation.
-
-(c) | The population of the town is as follows (4)
-Year (x) 1941 1951. 1961 1971 1981 1991
-Population in lakhs (Y) 20 24 29 36 46 51
-Estimate the population increase during the period 1941 to 1946. _~
-Q.5
-(a) | Find the value of fe JG — 0.162 Sin?x) dx by taking 6 ordinates by Simpson’s 1/3 . (4)
-2
-(6) Evaluate oy dx by trapezoidal rule, using interval as 0.25. @)
-(C) | Use Simpson’s 3/8" rule to evaluate f. . ” sin x dx using nine subintervals. (4)
-Q.6
-a 1
-(a) Solve the differential equation — = nay with yo= 1 when xo = 0 for the interval h = 0.5 (4)
-by Runge kutta method of fourth order.
-(b) | Using Euler’s method, find the approximate value of y at x = | in 5 steps, given that (4)
-@ = x+y, y(0) = Land h = 0.2.
-(c)_| Solve by Picard’s method y’ = x + y? if yo= 1 when xo = 0 upto y®. (4)
-Q.7
-(a) | Solve the following equations by Gauss Seidel method up to 2 iterations. (4)
-6x+y+z= 105 4x + 8y + 3z = 155 5x + 4y — 10z = 65
-(b) | Solve the following equations by Jacobi’s method upto 3 iterations. (4)
-15x+2y+z=18 2x + 20y — 3z = 19 3x — 6y + 25z = 22
-(c) | Solve the following equations by Gauss Elimination method (4)
-x+3y—2z=5 ax+y—3z=1 3x+2y—-z=6
-
-2].
 ````

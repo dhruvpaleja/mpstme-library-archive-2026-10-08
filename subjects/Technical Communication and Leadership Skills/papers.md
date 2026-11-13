@@ -129,6 +129,7 @@ BL- 3, 4,   of the four steps of the AIDA funnel.
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CSBS_7036/Technical Communication and Leadership Skills/QP_Technical Communication and Leadership Skills(702BS0C088)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
 - Text: mixed (3 pages), mean OCR confidence 57.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS

@@ -896,167 +896,7 @@ basic types of variation that customers bring to a service system. [6 Marks]
 Sh
 ````
 
-## 2021-22 · Re-Exam · Sem 2 · paper a327de20057d
-
-- Departments: Artificial Intelligence
-- Programmes: M TECH / ARTIFICIAL INTELLIGENT
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM II/QUANTITATIVE INSIGHTS INTO SUPPLY CHAIN_67fde564/Quantitative Insights into Supply Chain and Operations Batch 2021-22 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 June 2022
-- Text: ocr (4 pages), mean OCR confidence 94.4
-
-````text
-4 2
-| “PSTME
-TBRARY
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
-
-Academic Year: 2021-22
-
-Programme: M.Tech (Artificial Intelligence) Year: I Semester: II
-
-Subject: Quantitative Insights into Supply Chain and Operations ~
-Marks: 100 -
-Time: 2.00 pm to 5.00 pm
-Durations: 3 (Hrs) - <
-No. of Pages:
-Re-Examination (2021-22) .
-
-Date: 11 June 2022
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-_2) Out of remaining questions, attempt any __4 __ questions.
-3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql a). What is product-service bundling and what are the benefits to customers? — [5X4 = 20 Marks]
-
-b). What is the objective of assembly-line balancing? How would you deal with the situation
-where one worker, although trying hard, is 20 percent slower than the other 10 people ona line?
-
-c) Business writer Tom Peters has suggested that in making process changes, we should “Try it,
-test it, and get on with it.” How does this square with the DMAIC/Continuous Improvement
-
-a
-
-philosophy?
-
-d) Under which conditions would a plant manager elect to use a fixed-order quantity model
-as opposed to a fixed-time period model? What are the disadvantages of using a fixed-time
-period ordering system? ’
-
-Q2 Given the following information, formulate an inventory management system. The item
-is demanded 50 weeks a year. :
---- page 2 ---
-Parameter Value
-
-Item cost INR 10.00
-
-Order cost INR 250.00/order
-
-Annual holding cost 33% of item cost
-
-Annual demand 25,750 units
-
-Average weekly demand « 515/week
-
-Standard deviation of weekly demand 25 units
-
-Lead time 1 week
-
-Service probability 95%
-a. State the order quantity and reorder point. [2 marks]
-b. Determine the annual holding and order costs. . [2marks]
-c. Ifa price break of $50 per order was offered for purchase quantities of over 2,000,
-would you take advantage of it? How much would you save annually? [6 marks]
-d. Inventory management with data analytics surely helps in managing the cost factor of the
-inventory. Do you agree with the statement ? Why or Why not ? [10 marks]
-
-Q3 A firm uses a serial assembly system and needs answers to the following:
-
-a. An output of 900 units per shift (7.5 hours) is desired for a new processing system.
-The system requires product to pass through four stations where the work content at
-each station is 30 seconds. What is the required cycle time for such a system? [6 marks]
-
-b. How efficient is your system with the cycle time you calculated? [6 marks]
-
-c. Station 3 changes and now requires 45 seconds to complete. What will need to be done
-to meet demand (assume only 7.5 hours are available)? What is the efficiency of the
-new system? [8 marks]
-
-Q4 An automobile manufacturer is considering a change in an assembly line that should save
-money by reducing labor and material cost. The change involves the installation of four new
-robots that will automatically install windshields. The cost of the four robots, including installation
-and initial programming, is $400,000. Current practice is to amortize the initial cost of
-robots over two years on a straight-line basis. The process engineer estimates that one fulltime
-technician will be needed to monitor, maintain, and reprogram the robots on an ongoing
-basis. This person will be paid approximately $60,000 per year. Currently, the company uses
-four full-time employees.on this job and each makes about $52,000 per year. One of these
-employees is a material handler, and this person will still be needed with the new process. To
-complicate matters, the process engineer estimates that the robots will apply the windshield
-sealing material in a manner that will result in a savings of $0.25 per windshield installed.
-
-La
---- page 3 ---
-a) How many automobiles need to be produced over the next two years to make the new robots
-an attractive investment? Due to the relatively short time horizon, do not consider the time
-value of money. [10 Marks]
-
-b) How individual learning and organization learning ca lead to faster break-even ? [10 Marks]
-
-Q5 Santa Cruz Bottling is a manufacturer of organic soft drinks on the coast of central
-California. Its products are enjoying a growing reputation and increased demand throughout
-the American Southwest. Because of the high cost of transporting soft drinks, it is
-considering a new plant to serve the states of New Mexico and Arizona. A key concern in
-its search for a new location is the resultant transportation costs to serve its key markets.
-Following is a list of cities where its main wholesale customers are located, along with
-estimated annual demand in cases of product for each.
-
-City x-coordinate | y-coordinate Number of cases
-
-Phoenix 250. 250 25,000
-Tucson 350 125 20,000
-Albuquerque 800 450 28,000
-Santa Fe 850 520 17,000
-
-a. Use the centroid method to recommend a location for the new bottling plant. Round
-your coordinates to one decimal place. [6 Marks]
-b. Do you have any concerns about the result? How would you deal with them? [6 Marks]
-c. As a student of analytics ,;what type of data and other approaches you may suggest locating a
-facility for a manufacturer. [8 Marks]
-
-Q6. A shirt manufacturer buys cloth by the 100-yard roll from a supplier. For setting up a control
-chart to manage the irregularities (e.g., loose threads and tears), the following data (10 samples)
-were collected from a sample provided by the supplier.
-
-Sample Irregularities
-1 3
-2 5
-3 2
-4 6
-5 5
-6 4
---- page 4 ---
-8 3
-9 4
-10 5
-Total 43
-
-a. Using these data, set up a c-chart with z = 2. (Note: You don’t need graph paper for this. Simply
-
-use available pen and paper) {14 marks]
-b. Suppose the next five rolls from the supplier had three, two, five, three, and seven
-irregularities. Is the supplier process under control? [6 marks]
-````
-
-## Year not stated · Exam not stated · Sem 2 · paper 03950a81b15c
+## 2021-22 · Exam not stated · Sem 2 · paper 03950a81b15c
 
 - Departments: Artificial Intelligence
 - Programmes: M TECH / ARTIFICIAL INTELLIGENT
@@ -1367,4 +1207,164 @@ Ans: For this problem,c = 4,Sc=2
 UCL = 443(2)=10
 
 LCL == — 2 ~ 0 (Zero is used since it is not possible to have a negative number of defects.)
+````
+
+## 2021-22 · Re-Exam · Sem 2 · paper a327de20057d
+
+- Departments: Artificial Intelligence
+- Programmes: M TECH / ARTIFICIAL INTELLIGENT
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM II/QUANTITATIVE INSIGHTS INTO SUPPLY CHAIN_67fde564/Quantitative Insights into Supply Chain and Operations Batch 2021-22 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 June 2022
+- Text: ocr (4 pages), mean OCR confidence 94.4
+
+````text
+4 2
+| “PSTME
+TBRARY
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
+
+Academic Year: 2021-22
+
+Programme: M.Tech (Artificial Intelligence) Year: I Semester: II
+
+Subject: Quantitative Insights into Supply Chain and Operations ~
+Marks: 100 -
+Time: 2.00 pm to 5.00 pm
+Durations: 3 (Hrs) - <
+No. of Pages:
+Re-Examination (2021-22) .
+
+Date: 11 June 2022
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+_2) Out of remaining questions, attempt any __4 __ questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql a). What is product-service bundling and what are the benefits to customers? — [5X4 = 20 Marks]
+
+b). What is the objective of assembly-line balancing? How would you deal with the situation
+where one worker, although trying hard, is 20 percent slower than the other 10 people ona line?
+
+c) Business writer Tom Peters has suggested that in making process changes, we should “Try it,
+test it, and get on with it.” How does this square with the DMAIC/Continuous Improvement
+
+a
+
+philosophy?
+
+d) Under which conditions would a plant manager elect to use a fixed-order quantity model
+as opposed to a fixed-time period model? What are the disadvantages of using a fixed-time
+period ordering system? ’
+
+Q2 Given the following information, formulate an inventory management system. The item
+is demanded 50 weeks a year. :
+--- page 2 ---
+Parameter Value
+
+Item cost INR 10.00
+
+Order cost INR 250.00/order
+
+Annual holding cost 33% of item cost
+
+Annual demand 25,750 units
+
+Average weekly demand « 515/week
+
+Standard deviation of weekly demand 25 units
+
+Lead time 1 week
+
+Service probability 95%
+a. State the order quantity and reorder point. [2 marks]
+b. Determine the annual holding and order costs. . [2marks]
+c. Ifa price break of $50 per order was offered for purchase quantities of over 2,000,
+would you take advantage of it? How much would you save annually? [6 marks]
+d. Inventory management with data analytics surely helps in managing the cost factor of the
+inventory. Do you agree with the statement ? Why or Why not ? [10 marks]
+
+Q3 A firm uses a serial assembly system and needs answers to the following:
+
+a. An output of 900 units per shift (7.5 hours) is desired for a new processing system.
+The system requires product to pass through four stations where the work content at
+each station is 30 seconds. What is the required cycle time for such a system? [6 marks]
+
+b. How efficient is your system with the cycle time you calculated? [6 marks]
+
+c. Station 3 changes and now requires 45 seconds to complete. What will need to be done
+to meet demand (assume only 7.5 hours are available)? What is the efficiency of the
+new system? [8 marks]
+
+Q4 An automobile manufacturer is considering a change in an assembly line that should save
+money by reducing labor and material cost. The change involves the installation of four new
+robots that will automatically install windshields. The cost of the four robots, including installation
+and initial programming, is $400,000. Current practice is to amortize the initial cost of
+robots over two years on a straight-line basis. The process engineer estimates that one fulltime
+technician will be needed to monitor, maintain, and reprogram the robots on an ongoing
+basis. This person will be paid approximately $60,000 per year. Currently, the company uses
+four full-time employees.on this job and each makes about $52,000 per year. One of these
+employees is a material handler, and this person will still be needed with the new process. To
+complicate matters, the process engineer estimates that the robots will apply the windshield
+sealing material in a manner that will result in a savings of $0.25 per windshield installed.
+
+La
+--- page 3 ---
+a) How many automobiles need to be produced over the next two years to make the new robots
+an attractive investment? Due to the relatively short time horizon, do not consider the time
+value of money. [10 Marks]
+
+b) How individual learning and organization learning ca lead to faster break-even ? [10 Marks]
+
+Q5 Santa Cruz Bottling is a manufacturer of organic soft drinks on the coast of central
+California. Its products are enjoying a growing reputation and increased demand throughout
+the American Southwest. Because of the high cost of transporting soft drinks, it is
+considering a new plant to serve the states of New Mexico and Arizona. A key concern in
+its search for a new location is the resultant transportation costs to serve its key markets.
+Following is a list of cities where its main wholesale customers are located, along with
+estimated annual demand in cases of product for each.
+
+City x-coordinate | y-coordinate Number of cases
+
+Phoenix 250. 250 25,000
+Tucson 350 125 20,000
+Albuquerque 800 450 28,000
+Santa Fe 850 520 17,000
+
+a. Use the centroid method to recommend a location for the new bottling plant. Round
+your coordinates to one decimal place. [6 Marks]
+b. Do you have any concerns about the result? How would you deal with them? [6 Marks]
+c. As a student of analytics ,;what type of data and other approaches you may suggest locating a
+facility for a manufacturer. [8 Marks]
+
+Q6. A shirt manufacturer buys cloth by the 100-yard roll from a supplier. For setting up a control
+chart to manage the irregularities (e.g., loose threads and tears), the following data (10 samples)
+were collected from a sample provided by the supplier.
+
+Sample Irregularities
+1 3
+2 5
+3 2
+4 6
+5 5
+6 4
+--- page 4 ---
+8 3
+9 4
+10 5
+Total 43
+
+a. Using these data, set up a c-chart with z = 2. (Note: You don’t need graph paper for this. Simply
+
+use available pen and paper) {14 marks]
+b. Suppose the next five rolls from the supplier had three, two, five, three, and seven
+irregularities. Is the supplier process under control? [6 marks]
 ````

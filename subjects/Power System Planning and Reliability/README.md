@@ -1,6 +1,6 @@
 # Power System Planning and Reliability
 
-**3** unique papers (3 copies across programmes) · 2018-19 · 1 programme · Sem 8
+**2** unique papers (2 copies across programmes) · 2018-19 · 1 programme · Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -16,7 +16,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | --- | --- | --- | --- | --- | --- |
 | 2018-19 | Final-Exam | Question paper | Sem 8 | B TECH / ELECTRICAL | POWER_SYSTEM_PLANNING_AND_RELIABILITY_B TECH (ELECTRICAL) 2018-19_FINAL_EXAM_.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 8 | B TECH / ELECTRICAL | POWER_SYSTEM_PLANNING_AND_RELIABILITY_B TECH (ELECTRICAL) BATCH_18-19_RE_EXAM_.pdf [1] |
-| 2018-19 | Re-Exam | Question paper | Sem 8 | B TECH / ELECTRICAL | POWER_SYSTEM_STABILITY_B_TECH_(ELECTRICAL)_18-19__RE_EXAM_.pdf |
 
 **Notes on papers placed here from a different folder**
 

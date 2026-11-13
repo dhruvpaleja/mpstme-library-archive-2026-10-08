@@ -707,6 +707,113 @@ b) List HTMLS tags and explain audio, footer, aside with syntax [6]
 c) Digital Signatures [4]
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 2367df1eb3d3
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Fundamentals of Web Technology/Fundamentals of web technology 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 28 May 2018
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Computer) Year: III Semester: V
+
+Batch: 2016-17 ~
+Academic Year: 2017-2018
+
+Subject: Fundamentals of Web Technology ~ ;
+Marks: 60 ~
+
+Date: 28 May 2018” , Time: 2.00 pm to 5.00 pm
+Durations: 3 (Hrs)
+
+No. of Pages: _©Z—
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. :
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. =
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary,
+
+1. a. What is internetworking? Give a summary of internetworking devices. [3]
+b. What tags are used for Frame? Discuss how frames play a big role in advertisement on the [3]
+Web.
+
+c. Write HTML Code to design a form with three radio buttons red, green and blue. Write [3]
+Java Script Code to that will change background color of the page when user clicks on
+particular button. :
+
+d. What are the advantages of the code-behind feature? [3]
+
+2. a. Explain Working of Web Server and web Browser. What are steps in Interaction Between [6]
+browser & server?
+
+b. Design the HTML code with external CSS to get output as shown below. [6]
+MYTABLE
+Flowers | Colors Petals Thorns
+Rose . Yes
+Violet Seven Eight
+Vinca Nine No
+Pituna Five Five
+
+3. a. Explain Symmetric Key Encryption and Asymmetric Key Encryption, with suitable sketch. [5]
+b. | Write HTML code for following form elements. [7]
+i. Textbox and password
+ii. Radio button
+
+iii. Check box
+iv. Dropdown list
+v. Button
+vi. Files
+vii. Image Control
+4 a. Create a web page for how to create and retrieve cookies using Java Script [8]
+b. Write note on TCP/IP model [4]
+
+Page 1/2
+--- page 2 ---
+Differentiate between the following [6]
+i. SSL & SET
+
+ii. Static Web Page and Dynamic Web Page
+ili. Connected and Disconnected Modes in ADO.net
+Write Java Script to Validate a Form Consisting of Name, Age, Address, Email-id, [6]
+
+Hobby(check-box), Gender(radio button), Country(drop down menu), @lso write HTML
+
+code. ,
+
+What are the advantages and Disadvantages of DTD? Show with an example how to use [6]
+DTD in an XML document externally.
+
+Explain deployment of ASP.net web application [any two options] [6]
+Write short note on any three. [12]
+Internal architecture of web Browser
+
+XSLT
+
+ASP Object Model
+
+Different Types of Payment System in Online Transaction
+
+Page 2/2
+````
+
 ## 2016-17 · Final-Exam · Sem 6 · paper fdc210671550
 
 - Departments: Computer Engineering
@@ -1026,113 +1133,6 @@ ActiveX control
 03X04
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 2367df1eb3d3
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Fundamentals of Web Technology/Fundamentals of web technology 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 28 May 2018
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Computer) Year: III Semester: V
-
-Batch: 2016-17 ~
-Academic Year: 2017-2018
-
-Subject: Fundamentals of Web Technology ~ ;
-Marks: 60 ~
-
-Date: 28 May 2018” , Time: 2.00 pm to 5.00 pm
-Durations: 3 (Hrs)
-
-No. of Pages: _©Z—
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. :
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted. =
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary,
-
-1. a. What is internetworking? Give a summary of internetworking devices. [3]
-b. What tags are used for Frame? Discuss how frames play a big role in advertisement on the [3]
-Web.
-
-c. Write HTML Code to design a form with three radio buttons red, green and blue. Write [3]
-Java Script Code to that will change background color of the page when user clicks on
-particular button. :
-
-d. What are the advantages of the code-behind feature? [3]
-
-2. a. Explain Working of Web Server and web Browser. What are steps in Interaction Between [6]
-browser & server?
-
-b. Design the HTML code with external CSS to get output as shown below. [6]
-MYTABLE
-Flowers | Colors Petals Thorns
-Rose . Yes
-Violet Seven Eight
-Vinca Nine No
-Pituna Five Five
-
-3. a. Explain Symmetric Key Encryption and Asymmetric Key Encryption, with suitable sketch. [5]
-b. | Write HTML code for following form elements. [7]
-i. Textbox and password
-ii. Radio button
-
-iii. Check box
-iv. Dropdown list
-v. Button
-vi. Files
-vii. Image Control
-4 a. Create a web page for how to create and retrieve cookies using Java Script [8]
-b. Write note on TCP/IP model [4]
-
-Page 1/2
---- page 2 ---
-Differentiate between the following [6]
-i. SSL & SET
-
-ii. Static Web Page and Dynamic Web Page
-ili. Connected and Disconnected Modes in ADO.net
-Write Java Script to Validate a Form Consisting of Name, Age, Address, Email-id, [6]
-
-Hobby(check-box), Gender(radio button), Country(drop down menu), @lso write HTML
-
-code. ,
-
-What are the advantages and Disadvantages of DTD? Show with an example how to use [6]
-DTD in an XML document externally.
-
-Explain deployment of ASP.net web application [any two options] [6]
-Write short note on any three. [12]
-Internal architecture of web Browser
-
-XSLT
-
-ASP Object Model
-
-Different Types of Payment System in Online Transaction
-
-Page 2/2
-````
-
 ## 2015-16 · Final-Exam · Sem 6 · paper a3b4693f1f56
 
 - Departments: Computer Engineering
@@ -1301,6 +1301,109 @@ b. Ecommerce (B2B & B2C)
 c. Three tier architecture, its advantages, disadvantages and applications.
 ````
 
+## 2015-16 · Re-Exam · Sem 6 · paper 1da449589893
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/FUNDAMENTALS OF WEB TECHNOLOGY/FUNDAMENTALS OF WEB TECHNOLOGY B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 10/05/2016
+- Text: ocr (1 page), mean OCR confidence 93.9
+
+````text
+an SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B.Tech (Computer) Year: III Semester: VI
+
+Academic Year: 2015-16
+Batch: 2013-14
+
+Subject: Fundamentals of Web Technology
+
+Date: 10/05/2016
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+On the cover of the answer book, which is provided for their use.
+NE:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
+
+Q..
+
+B]
+
+Q2.
+
+4
+2
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Write HTML Code and CSS Code for following.
+a) Multiple selection list
+b) Definition List
+c) CSS Unorderlist Property
+d) CSS Anchor Properties
+e) Image Map
+What do you mean by DHTML? Explain timing events and mouse events in DHTML.
+
+a) Explain advanced File System and Dictionary object in ASP with example.
+b) Explain in detail 1-tier and 3-tier application with advantages and disadvantages.
+
+a) What are different services of web? Explain in detail client — server communication.
+
+b) What do you mean by cookies? How to read and write cookies? Write ASP script to read
+cookies with multiple keys.
+
+a) What do you mean by client side validation? Explain in detail different types of JavaScript
+objects.
+b) Explain in detail ASP.net page and Servlet Life Cycle.
+
+a) Design a JavaScript code for validation without using regular expression to accept username
+that starts with ‘P’ Character and length of username and Password is same.
+b) What do you mean by selectors in CSS? Explain different types of CSS
+
+a) Explain different types of security threats for E-commerce application.
+b) Explain in detail Digital Signature.
+
+Write a short note on(any 2)
+a) ASP.net Architecture.
+
+b) Digital Certificates.
+¢)Internet Banking
+
+/7
+
+(10)
+
+(10)
+(10)
+(10)
+
+(18)
+(10)
+
+(10).
+(10).
+(10)
+(10)
+
+(10)
+(10)
+
+(203
+````
+
 ## 2014-15 · Final-Exam · Sem 6 · paper d7a39491a5d7
 
 - Departments: Computer Engineering
@@ -1400,138 +1503,7 @@ Write Short Notes on (Any 4)
 3x4=12
 ````
 
-## 2013-14 · Final-Exam · Sem 6 · paper e4f9633207d6
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/FUNDAMENTALS OF WEB TECHNOLOGY/FUNDAMENTALS OF WEB TECHNOLOGY B TECH (COMPUTER) 2013-14 FINAL EXAM.pdf`
-- Printed on paper: exam date: 13/05/2014
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (Computer) Year: HI Semester: VI
-
-Academic Year: 2013-2014
-
-\
-
-\ Subject : Fundamentals of Web Technology “gaat oy mm
-yale: {OO Wa,
-Date : 13/05/2014 Bigie t2nQ0ram, 12 00 pm
-\ tions:.3 ths) = |
-Final-Examination A -. 2,
-Se
-
-Instructions: Candidates should read carefully the instructions
-paper and on the cover of the Answer Book, which is provided for the use.
-
-NB.
-1. Question No.1 is compulsory
-2. Out of remaining 6 questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4, All questions carry equal marks. ;
-5. Answer to each new question should be started on a Fresh page.
-6. Figure in brackets on the right hand side indicate full marks
-
-Qi a) Write HTML/DHTML statements for the following 10
-i) Ordered List of 4 items ( List should start with roman no I)
-ii) Insert video clip in a web page
-iii) . Open Hyperlink in a new browser
-iv) Create a Hidden Variable
-v) Create a Textfield maximum length allowed is 10 characters
-vi) Insert applet in a webpage
-vii) Change the color of unvisited link to red
-viii) Insert a image in the background
-ix) Include a external style sheet
-x) Form tag with minimum 3 attributes
-
-b) Design a form using HTML with following fields and 10
-validate it using Javascript(Do not use Regular Expression)
-i) Date Text field(should be Today’s date)
-ii) Age (should not be null and No characters allowed,
-Value should be between 18 to 35)
-
-Q.2 a) Write HTML code to design a web page for your personal 10
-Profile, Include basic tags, image, and tables
-b) What are CSS? Explain the different ways of including CSS 10
-
-into your web page for the following?
-i) Set background color
-ii) Left indent text
-iii) Increase spacing between lines
-iv) Change the cursor
-v) A dotted border
-
-Page 1 of 2
---- page 2 ---
-Q.3
-
-Q4
-
-as
-
-Q.6
-
-Q7.
-
-Explain the drawbacks of One-Tier, Two Tier Architectures
-and how they have are been overcome in Three Tier
-Architecture. Support your answer with a neat Diagram.
-Explain in brief and Illustrate use of following ASP objects
-1. Response 2. Request 3. Application 4. Server 5.
-Session
-
-Explain step by step Database Handling in ASP with a
-suitable example(insert query)
-
-What are cookies? Write a simple code to illustrate use of
-cookies in Web Application?
-
-Explain Digital Signatures and its use
-What are Hidden Variables? How are they useful for session
-management?
-
-Explain the Life cycle of Servlet. Give advantages of JSP
-over ASP
-
-With the Help of an example Explain how AJAX request and
-response to the web server works.
-
-Write Short Notes on (Any 4)
-Online Payment
-
-Web Browser Architecture
-Client Server Model
-
-B2B Ecommerce
-
-‘HTTP
-
-DOM
-
-eK
-
-Page 2 of 2
-
-10
-10
-10
-10
-
-10
-10
-
-10
-
-10
-
-4X5=20
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 7c09b522837f
+## 2014-15 · Re-Exam · Sem 6 · paper 7c09b522837f
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
@@ -1680,6 +1652,137 @@ r
 10
 
 20
+````
+
+## 2013-14 · Final-Exam · Sem 6 · paper e4f9633207d6
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/FUNDAMENTALS OF WEB TECHNOLOGY/FUNDAMENTALS OF WEB TECHNOLOGY B TECH (COMPUTER) 2013-14 FINAL EXAM.pdf`
+- Printed on paper: exam date: 13/05/2014
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (Computer) Year: HI Semester: VI
+
+Academic Year: 2013-2014
+
+\
+
+\ Subject : Fundamentals of Web Technology “gaat oy mm
+yale: {OO Wa,
+Date : 13/05/2014 Bigie t2nQ0ram, 12 00 pm
+\ tions:.3 ths) = |
+Final-Examination A -. 2,
+Se
+
+Instructions: Candidates should read carefully the instructions
+paper and on the cover of the Answer Book, which is provided for the use.
+
+NB.
+1. Question No.1 is compulsory
+2. Out of remaining 6 questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4, All questions carry equal marks. ;
+5. Answer to each new question should be started on a Fresh page.
+6. Figure in brackets on the right hand side indicate full marks
+
+Qi a) Write HTML/DHTML statements for the following 10
+i) Ordered List of 4 items ( List should start with roman no I)
+ii) Insert video clip in a web page
+iii) . Open Hyperlink in a new browser
+iv) Create a Hidden Variable
+v) Create a Textfield maximum length allowed is 10 characters
+vi) Insert applet in a webpage
+vii) Change the color of unvisited link to red
+viii) Insert a image in the background
+ix) Include a external style sheet
+x) Form tag with minimum 3 attributes
+
+b) Design a form using HTML with following fields and 10
+validate it using Javascript(Do not use Regular Expression)
+i) Date Text field(should be Today’s date)
+ii) Age (should not be null and No characters allowed,
+Value should be between 18 to 35)
+
+Q.2 a) Write HTML code to design a web page for your personal 10
+Profile, Include basic tags, image, and tables
+b) What are CSS? Explain the different ways of including CSS 10
+
+into your web page for the following?
+i) Set background color
+ii) Left indent text
+iii) Increase spacing between lines
+iv) Change the cursor
+v) A dotted border
+
+Page 1 of 2
+--- page 2 ---
+Q.3
+
+Q4
+
+as
+
+Q.6
+
+Q7.
+
+Explain the drawbacks of One-Tier, Two Tier Architectures
+and how they have are been overcome in Three Tier
+Architecture. Support your answer with a neat Diagram.
+Explain in brief and Illustrate use of following ASP objects
+1. Response 2. Request 3. Application 4. Server 5.
+Session
+
+Explain step by step Database Handling in ASP with a
+suitable example(insert query)
+
+What are cookies? Write a simple code to illustrate use of
+cookies in Web Application?
+
+Explain Digital Signatures and its use
+What are Hidden Variables? How are they useful for session
+management?
+
+Explain the Life cycle of Servlet. Give advantages of JSP
+over ASP
+
+With the Help of an example Explain how AJAX request and
+response to the web server works.
+
+Write Short Notes on (Any 4)
+Online Payment
+
+Web Browser Architecture
+Client Server Model
+
+B2B Ecommerce
+
+‘HTTP
+
+DOM
+
+eK
+
+Page 2 of 2
+
+10
+10
+10
+10
+
+10
+10
+
+10
+
+10
+
+4X5=20
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper 7668180d9f50
@@ -1922,107 +2025,4 @@ Page 2 of 2
 10
 
 4X5=20
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 1da449589893
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/FUNDAMENTALS OF WEB TECHNOLOGY/FUNDAMENTALS OF WEB TECHNOLOGY B TECH (COMPUTER), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 10/05/2016
-- Text: ocr (1 page), mean OCR confidence 93.9
-
-````text
-an SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B.Tech (Computer) Year: III Semester: VI
-
-Academic Year: 2015-16
-Batch: 2013-14
-
-Subject: Fundamentals of Web Technology
-
-Date: 10/05/2016
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-On the cover of the answer book, which is provided for their use.
-NE:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. Answer to each question to be started on a fresh paper.
-5. Figures on the right hand side indicate full marks.
-
-Q..
-
-B]
-
-Q2.
-
-4
-2
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-Write HTML Code and CSS Code for following.
-a) Multiple selection list
-b) Definition List
-c) CSS Unorderlist Property
-d) CSS Anchor Properties
-e) Image Map
-What do you mean by DHTML? Explain timing events and mouse events in DHTML.
-
-a) Explain advanced File System and Dictionary object in ASP with example.
-b) Explain in detail 1-tier and 3-tier application with advantages and disadvantages.
-
-a) What are different services of web? Explain in detail client — server communication.
-
-b) What do you mean by cookies? How to read and write cookies? Write ASP script to read
-cookies with multiple keys.
-
-a) What do you mean by client side validation? Explain in detail different types of JavaScript
-objects.
-b) Explain in detail ASP.net page and Servlet Life Cycle.
-
-a) Design a JavaScript code for validation without using regular expression to accept username
-that starts with ‘P’ Character and length of username and Password is same.
-b) What do you mean by selectors in CSS? Explain different types of CSS
-
-a) Explain different types of security threats for E-commerce application.
-b) Explain in detail Digital Signature.
-
-Write a short note on(any 2)
-a) ASP.net Architecture.
-
-b) Digital Certificates.
-¢)Internet Banking
-
-/7
-
-(10)
-
-(10)
-(10)
-(10)
-
-(18)
-(10)
-
-(10).
-(10).
-(10)
-(10)
-
-(10)
-(10)
-
-(203
 ````

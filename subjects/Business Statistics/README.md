@@ -14,16 +14,16 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Business Statistics(703TM0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | QP_Business Statistics(703TM0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Business Statistics(703TM0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech Computer 7047 | QP_Business Statistics(703TM0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech DS 7052 | QP_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
 | 2024-25 | — | Question paper |  | MBA TECH | Business Statistics, 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper |  | MBA TECH | Business Statistics , Re-exam 2022-23,2023-24,2024-25.pdf |
 | 2023-24 | Final + Re-Exam | Question paper |  | MBA TECH | Business Statistics , Final 2023-24,Re-exam 2022-23.pdf |

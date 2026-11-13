@@ -570,6 +570,7 @@ Pe
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM II/Microwave Integrated Circuits/M Tech EXTC TRIM II Microwave Integrated Circuits 2008-2009.zip`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 88.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 =( NMIMS University )
@@ -601,7 +602,6 @@ characteristic impedance, the phase velocity and the guide wavelength.
 (b) Determine the quasi-static equivalent circuit parameters AL and Cs7p for a step (10)
 discontinuity in a microstrip line on a 0.635 mm thick substrate with ¢, = 2.3.
 The step in line width goes from W; = 0.635 mm to W2 = 1.905 mm. Take
-Cspqp/C co woh = 0.15 and AL/Lowih = 0,125.
 
 3. Design a Lange coupler with a cetter frequency of 4 GHz and N= 4, C =0.5, (20)
 and Zo, = 30 ©. Determine the line width and length of the microstrip line for
@@ -640,6 +640,7 @@ x
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM II/Microwave Integrated Circuits/M Tech EXTC TRIM II Microwave Integrated Circuits 2007-2008.zip`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -671,7 +672,6 @@ characteristic impedance, the phase velocity and the guide wavelength.
 (b) Determine the quasi-static equivalent circuit parameters AL and Cs7p for a step (10)
 discontinuity in a microstrip line on a 0.635 mm thick substrate with ¢, = 2.3.
 The step in line width goes from W, = 0.635 mm to W = 1.905 mm. Take
-Csrp/C «© woh = 0.15 and AL/L cw wih = 0.125.
 
 3. Design a Lange coupler with a cetter frequency of 4 GHz and with N= 4,C = (20)
 0.5, and Zp, = 30 Q. Determine the line widths and spacing required if an

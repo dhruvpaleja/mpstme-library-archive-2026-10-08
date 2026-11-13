@@ -14,18 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech CS 7055, Integrated Computer 7032, MBATech Computer 7047 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech EXTC 7006 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Probability and Statistics(703BS0C003)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER | Probabilty and Statistics 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | BTech CS 7055, Integrated Computer 7032 | QP_Probability and Statistics(702BS0C076)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech CSE DS 7057 | QP_Probability and Statistics(702BS0C076)_2025-2026.pdf |
@@ -40,21 +28,18 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Probability and Statistics(703BS0C003)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech Computer 7047 | QP_Probability and Statistics(702BS0C076)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech IT 7041 | QP_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Computer 7002 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech EXTC 7006 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3, Sem 7 | Integrated Computer 7032, MBATech Computer 7047 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Computer 7032 | ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Probability and Statistics(703BS0C003)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech CS 7055, Integrated Computer 7032, MBATech Computer 7047 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech EXTC 7006 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Probability and Statistics(703BS0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / CIVIL, B TECH / CSE CYBER SECURITY, B TECH / CSE-CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / IT, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED / IT, B.TECH INTEGRATED / MECHANICAL, MBA TECH / I T, MBA TECH / MECHANICAL | Probability and Statistics Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CS 7055 | QP_Probability and Statistics(702BS0C076)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CSE DS 7057 | QP_Probability and Statistics(702BS0C076)_2025-2026.pdf |
@@ -72,17 +57,32 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Probability and Statistics(703BS0C003)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | MBATech IT 7041 | QP_Probability and Statistics(702BS0C076)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MCA | Probability and Statistics Batch 2024-25,2025-26 Re Exam.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CS 7055 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7057 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Civil 7005 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Computer 7002 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CyberSecurity 7010 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech EXTC 7006 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech IT 7001 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Mechatronics 7004 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3, Sem 7 | Integrated Computer 7032, MBATech Computer 7047 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Computer 7032 | ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Probability and Statistics(702BS0C034)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Probability and Statistics(703BS0C003)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Probability and Statistics(702BS0C076)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CIVIL, B TECH / CSE-CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS, MBA TECH / I T | Probability and Statistics, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / COMPUTER, B TECH / DATA SCIENCE, MBA TECH / COMPUTER | Probability and Statistics, Sem-III, Final Exam 2024-25 & Re Exam 2023-24, 2022-23.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER | Probability and Statistics Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / IT, B.TECH INTEGRATED / MECHANICAL | Probability and Statistics Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 2 | MCA | Probability and Statistics Batch 2024-25 Final Batch 2022-23 ,2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Probability and Statistics(703BS0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Probability and Statistics(703BS0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam, Re-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | case_study_Probability and Statistics(703BS0C003)_Semester II_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Probability and Statistics(703BS0C003)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Probability and Statistics(703BS0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / COMPUTER | Probability and Statistics, Sem-III, Batch 2022-23, 2023-24 & 2024-25 Re Exam.pdf [1] |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Probability and Statistics(703BS0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Probability and Statistics(703BS0C003)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B TECH / COMPUTER, MBA TECH / COMPUTER | Probability and Statistics , Final 23-24, Re-exam 22-23.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER | Probability & Statistics Batch 2023-24 Final.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / MECHANICAL | Probability and Statistics Batch 2023-24 Final.pdf |

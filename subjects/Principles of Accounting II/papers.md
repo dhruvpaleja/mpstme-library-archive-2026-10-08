@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSEDS-311/SEM-III/PRINCIPLES OF ACCOUNTING II/Principles of Accounting-II, Sem-III, Final Exam 2025-26 Re Exam 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2025
 - Text: ocr (6 pages), mean OCR confidence 89.2
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ‘iin
@@ -84,7 +85,6 @@ ii. Provide practical examples of an industry that typically uses job
 costing and one that uses process costing, and give reasoning for the
 same.
 
-FR CR ACR ke ook ak aa ak
 --- page 2 ---
 c. Dina Electronics has three product lines A, B, and C, with the following
 monthly relevant data:
@@ -164,7 +164,6 @@ CO-2;
 SO-1; $
 BL-3
 
-SACRA Ra a Rei ok a ao ok a ek
 --- page 3 ---
 CO-2;
 
@@ -381,7 +380,6 @@ FA 4 | 15,00,000 | 22,00,000
 Additional Information:
 e Depreciation is charged on the Straight-Line Method
 
-Se a a Rk a ok ok ok ok ok ak ok
 --- page 6 ---
 ¢ Corporate Tax Rate is 30%
 e The company uses NPV, Profitability Index, wil Payback Period for
@@ -702,6 +700,7 @@ iv. Which project should Zenith Industries Ltd. accept and why?
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CSE_DS_7011/Principles of Accounting- II/QP_Principles of Accounting- II(702TF0C010)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Feb 2026
 - Text: mixed (7 pages), mean OCR confidence 34.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -2341,6 +2340,7 @@ analyse the cost sheet for selling the product “Ananya” .
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CSE DATA SCIENCE/SEM-III/PRINCIPLES OF ACCOUNTING-II/Principles of Accounting-II, 2nd Year, Sem-III, Year 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 January 2023
 - Text: ocr (6 pages), mean OCR confidence 92.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 |
@@ -2418,7 +2418,6 @@ CQ2 -: SO-5: detail the components of Cash flow statements in detail and state i
 BL-2 importance for internal users
 [b] | A company ‘Sneh Ltd’ manufactures three products. The budgeted
 quantity, selling price and unit costs are as under:
-Particulars Amby |_Cancy |_Banky
 ; Rs. Rs. Rs.
 Raw Materials (@ Rs. 15 per kg) 75 45 30
 Direct Wages (@Rs. 5 per hour) 10 20 15

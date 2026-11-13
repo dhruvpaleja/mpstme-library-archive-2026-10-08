@@ -139,6 +139,7 @@ Ans: 4 marks for Lift and Confidence and 3 marks for Support
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_EXTC_7006/Predictive Analytics/ANS_Predictive Analytics(702EX0E012)_2025-2026_4fd8a6401c.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: mixed (18 pages), mean OCR confidence 72.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -458,7 +459,6 @@ Distances from E (8.5,8.3)
 Distances from F (3.7,8.1)
 F-G = 67
 
-FEA AO CI 7A ok ok ok ak
 --- page 12 ---
 Step 3: 3-Nearest Neighbors and k-distance
 Point 3 Nearest Neighbors
@@ -516,7 +516,6 @@ Neighbors = {A, C,
 
 LOF(C)
 
-FE AA AO CIC 7 A Cok ok ok ak
 --- page 13 ---
 LOF > 1 → lower density than neighbors
 LOF < 1 → higher density than neighbors

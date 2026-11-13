@@ -4,6 +4,130 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2022-23 · Exam not stated · Sem 6 · paper 010282a6b4f0
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Environmental Engineering/Environmental Engg.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 90.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
+Academic Year: 2022-2023 :
+Program/s: MBA.Tech. Year: III Semester: VI
+
+Stream/s : Chemical
+
+Subject: Environmental Engineering Time: 3 hrs (2¢eepmto_S%ooprr)
+Date:_26 / € / 2023 No. of Pages: 3
+
+Marks: 100
+
+‘Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question\No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: (20]
+CO-1; a. :
+SO- 1; Enumerate and explain the causes and effects of noise pollution.
+BL-2;
+CO-1 ; b. TT :
+SO-1; Classify and explain the solid waste produced by chemical industries.
+BL-4;
+
+ae CO-3; c. A sample of wastewater has 4-day 20°C BOD value of 75% of the final.
+~ er Find the rate constant (to the base 10) per day.
+CO-2; d. _
+SO-1; Discuss the construction and working of electrostatic precipitator.
+BL-2;
+(a) . . .
+
+Sketch a flow diagram for a typical effluent treatment plant for Textile [10]
+Q2 industry. Explain each unit.
+CO-1,3;
+SO-1,1;
+
+Explain in detail the process of adsorption, absorption and incineration for
+BL-3,2; | (b) P P P P [10]
+gaseous air pollutants control.
+--- page 2 ---
+(a) Design a high rate trickling filter for treating the following wastewater: [10]
+Population: 40000
+(a) Domestic sewage @ 150 Iped having 200 mg/l of BOD
+(b) Industrial sewage @ 0.25 MI d having 600 mg/l of BOD
+(c) BOD removal in primary clarifier= 35%.
+(d) Permissible organic loading of filter= 8000 kg/ha-m/d (excluding
+
+Q3 recirculated sewage)
+CO-3,1,3; : (e) Recirculation ratio=1
+hry ed (f) Permissible surface loading= 160 mL/Ha/d (including recirculated
+sewage). ,
+Also determine the efficiency of the filter and BOD of the effluent.
+(b) Explain the health effects of three criteria pollutants. [03]
+(c) Discuss in brief the method of treating wastewater from a brewery. [07]
+(a) The following data shows the variation in population of a town from 1022 | [06]
+to 1072. Estimate the population of the city in the year 2002. Use arithmetic
+increase method and geometrical increase method.
+Year 1922 1932 1942 1952 1962 1972
+Q4 Population 72,000 85,000 | 1,10,500 | 1,44,000 1, 84,000 | 2,21,000
+CO-1,1,1;
+SO-2,1,1; : : .
+BL-43,3: (b) Give an outline of the various processes adopted for the treatment of water [09]
+with a neat sketch.
+() Show that the smaller particles will also settle down if the overflow rate is [05]
+reduced in a sedimentation tank.
+Q5 (a) Design a conventional activated sludge plant to treat an effluent flow of [10]
+CO-3,1; 19200 m?/d.
+pare a Influent BOD: 200 mg/l
+--- page 3 ---
+Effluent BOD: 15 mg/l
+
+(b) Describe the existing methods of waste disposal in India from the [10]
+
+following industries:
+(i) Pharmaceutical (ii) paints (iii) Dye intermediates.
+Mention the drawbacks of collection, storage, transportation and disposal
+
+of industrial solid waste in India.
+
+(a) Explain incineration process with diagram. [05]
+06 (b) Differentiate between:
+C0-3,3,2; High rate trickling filter and Low rate trickling filter [08]
+SO-2,1,1; Rapid sand filter and Slow sand filter
+BL-2,2,2;
+
+(c) Enumerate the devices which are used for control of particulate matter in [07]
+
+industries. Explain any one of them with sketch.
+
+(a) Explain sources, characteristics and effects of following air pollutants: [09]
+Q7 (i) Sulphur di oxide (ii) CFC (ii) carbon monoxide
+CO-1,1,1;
+
+SO-1,1,1; | (b) Differentiate between environmental lapse rate (ELR) and adiabatic lapse | [04]
+Bla24 rate (ALR).
+
+(c) Explain different types of plume behaviour with neat sketch. [07]
+````
+
 ## 2022-23 · Exam not stated · Sem 6 · paper dcba320bb2c8
 
 - Departments: Chemical
@@ -727,6 +851,114 @@ Q7 Answer the following questions (14)
 2] 2
 ````
 
+## 2017-18 · Exam not stated · Sem 7 · paper c42028c314ca
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/VII SEMESTER/ENVIRONMENTAL ENGINEERING/Environmental Engineering 2016-17 (Chemical).pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 28 May 2018
+- Text: ocr (2 pages), mean OCR confidence 94.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Chemcial) Year: IV Semester: VII
+
+Batch: 2016-17
+Academic Year: 2017-2018
+
+Subject: Environmental Engineering
+Marks: 60
+
+Date: 28 May 2018 Time: 10.00 am to 1.00 pm.
+Durations: 3 (Hrs)
+No. of Pages: © 2—
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Illustrate answers with sketches wherever required.
+
+Q 1. Answer the following questions: [12]
+
+(a) What are ALR, ELR and DALR? What happens when ELR> DALR and ELR<
+DALR?
+
+(b) Describe the gaseous sampling methods.
+
+(c) What is photochemical smog and how is it formed? What are the effects of
+Photochemical smog on human, plants and materials?
+
+(d) What is thermal incineration?
+
+Q 2. (a) Design a conventional activated sludge plant to treat domestic sewage with diffused
+air aeration system. Following data are given:
+
+Population : 45,000
+
+Average sewage flow : 250 Iped
+
+BOD of Sewage : 220 mg/l
+
+BOD removed in primary treatment: 35%
+
+Overall BOD reduction required: 80% [6]
+
+a
+--- page 2 ---
+(b) Explain the working of a trickling filter? Distinguish between low rate trickling filter
+and high rate trickling filter. [3+3]
+
+Q3. (a) The BODs of a waste has been measured as 600 mg/l. If k1= 0.23/day (base e).
+What is the ultimate BOD of the waste? What proportion of the ultimate BOD would
+remain unoxidesed after 20 days? [4]
+
+(b) Derive the mass balance equation for activated sludge process. [4]
+
+(c) What do you understand by Eutrophication? What are the causes and how to prevent
+it? [4]
+
+Q 4. (a) Explain working of cyclone separator. What are the different types of cyclone
+separators? . [6]
+
+(b) A plate type electrostatic precipitator for use in a cement plant for removing dust
+
+particles consists of 10 equal channels. The spacing between the plate is 0.15 m, and
+
+the plates are 2 m high and 2 m long. The unit handles 10,000 m?/hr of gas. What is
+
+the efficiency of collection? What should be the length of the plates for achieving
+
+99% collection efficiency if other conditions are same? [6]
+Q5. (a) What is inversion? Describe different types of plume behaviour. [2+4]
+(b) What is Gaussian plume model? Derive necessary equation. [6]
+Q 6. (a) What are the hazardous waste management strategy? [6]
+(b) Explain different types of floatation techniques. [6]
+Q7. Write short notes on: [12]
+
+(a) Thermal pollution.
+(b) BOD sag curve.
+
+(c) Atmospheric stability.
+(d) Stack sampling.
+````
+
 ## 2017-18 · Final-Exam · Sem 8 · paper b0846a5fccbf
 
 - Departments: Civil
@@ -929,114 +1161,6 @@ Q.7 Explain following:   12
 a) Composting
 b) Depth filtration technique.
 c) Thermal pollution.
-````
-
-## 2016-17 · Exam not stated · Sem 7 · paper c42028c314ca
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/VII SEMESTER/ENVIRONMENTAL ENGINEERING/Environmental Engineering 2016-17 (Chemical).pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 28 May 2018
-- Text: ocr (2 pages), mean OCR confidence 94.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Chemcial) Year: IV Semester: VII
-
-Batch: 2016-17
-Academic Year: 2017-2018
-
-Subject: Environmental Engineering
-Marks: 60
-
-Date: 28 May 2018 Time: 10.00 am to 1.00 pm.
-Durations: 3 (Hrs)
-No. of Pages: © 2—
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Illustrate answers with sketches wherever required.
-
-Q 1. Answer the following questions: [12]
-
-(a) What are ALR, ELR and DALR? What happens when ELR> DALR and ELR<
-DALR?
-
-(b) Describe the gaseous sampling methods.
-
-(c) What is photochemical smog and how is it formed? What are the effects of
-Photochemical smog on human, plants and materials?
-
-(d) What is thermal incineration?
-
-Q 2. (a) Design a conventional activated sludge plant to treat domestic sewage with diffused
-air aeration system. Following data are given:
-
-Population : 45,000
-
-Average sewage flow : 250 Iped
-
-BOD of Sewage : 220 mg/l
-
-BOD removed in primary treatment: 35%
-
-Overall BOD reduction required: 80% [6]
-
-a
---- page 2 ---
-(b) Explain the working of a trickling filter? Distinguish between low rate trickling filter
-and high rate trickling filter. [3+3]
-
-Q3. (a) The BODs of a waste has been measured as 600 mg/l. If k1= 0.23/day (base e).
-What is the ultimate BOD of the waste? What proportion of the ultimate BOD would
-remain unoxidesed after 20 days? [4]
-
-(b) Derive the mass balance equation for activated sludge process. [4]
-
-(c) What do you understand by Eutrophication? What are the causes and how to prevent
-it? [4]
-
-Q 4. (a) Explain working of cyclone separator. What are the different types of cyclone
-separators? . [6]
-
-(b) A plate type electrostatic precipitator for use in a cement plant for removing dust
-
-particles consists of 10 equal channels. The spacing between the plate is 0.15 m, and
-
-the plates are 2 m high and 2 m long. The unit handles 10,000 m?/hr of gas. What is
-
-the efficiency of collection? What should be the length of the plates for achieving
-
-99% collection efficiency if other conditions are same? [6]
-Q5. (a) What is inversion? Describe different types of plume behaviour. [2+4]
-(b) What is Gaussian plume model? Derive necessary equation. [6]
-Q 6. (a) What are the hazardous waste management strategy? [6]
-(b) Explain different types of floatation techniques. [6]
-Q7. Write short notes on: [12]
-
-(a) Thermal pollution.
-(b) BOD sag curve.
-
-(c) Atmospheric stability.
-(d) Stack sampling.
 ````
 
 ## 2016-17 · Final-Exam · Sem 7 · paper 29df36e8ef1c
@@ -1455,6 +1579,106 @@ Q7 Write note on: ; (20)
 2)4_
 ````
 
+## 2012-13 · Exam not stated · Trim 10 · paper d15c81c5ed1f
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/ENVIRONMENTAL ENGINEERING/scan0025(1).pdf`
+- Printed on paper: exam date: 27/09/2012
+- Text: ocr (1 page), mean OCR confidence 89.6
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA-(Tech) - Chemical Year: IV Trimester: X
+
+Subject:
+
+Academic Year : 2012-2013
+
+ENVIRONMENTAL ENGINEERING Marks:
+Time:
+Date: 27/09/2012 Duration:
+Final - Examination
+NOTE: F (saws Unversity ) a |
+
+Ql
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+1. Question number 1 is compulsory. nae
+2. Attempt any four questions from the remaining questions.
+3. Figures in bracket indicate full marks.
+
+A Answer in brief: (Any 5)
+
+a | What is the difference between TOC, BOD & COD?
+2 Explain Eutrophication and how to prevent it?
+3 What is the impact of Temperature inversion on dispersion of pollutants?
+4 — Give advantages and disadvantages of Land fill.
+5 What is Global warming and which pollutants are responsible for it?
+6 Describe various aeration methods used in clarifiers.
+
+7 Why are meteorological aspects of pollution important in Environment
+Engineering?
+
+A What are the methods used for sampling of gaseous pollutants?
+B__ Describe different types of cyclones used for Air purification
+
+A What forms the solid waste and enlist the effects of each.
+B Explain Composting and Incineration in detail.
+
+A Briefly describe various advanced biological systems (low tech solutions)
+B__ Enlist various types of air pollutants and theirs effects on human.
+
+A Briefly explain various methods for control / removal of SO; from flue gas.
+B_ Explain NDIR method for CO2 analysis with diagram.
+
+A Explain primary and secondary treatment given to-waste water in brief.
+B__ Write short note on Activated sludge process
+
+A The effluent gas stream coming out from process department of Chemisyne
+Co. pvt ltd. has following compostion:
+
+N2, 02, H20, CO2, CO, VOCs (trace amounts), NH3, raw material
+particles (60m size), product powder (8m). The average temperature of
+this stream is 220 C. Design the control strategy for the company to
+adhere to the following environment policy. The norms in the company’s
+locality suggest following :
+
+e Complete removal of CO, VOCs, Particulate matter, H20.
+e Trace amounts of CO2 & ammonia permissible in vented air.
+B__ Explain the sludge disposal and treatment techniques.
+
+dg
+
+(10)
+(10)
+
+(10)
+(10)
+
+(10)
+(10)
+
+(10)
+(10)
+
+(10)
+(10)
+
+(10)
+
+(10)
+````
+
 ## 2012-13 · Re-Exam · Trim 10 · paper 25bbe041d0a3
 
 - Departments: Chemical
@@ -1688,6 +1912,7 @@ AM
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/ENVIRONMENTAL ENGINEERING/environmetal engineering 2010-2011.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 20/09/2010
 - Text: ocr (2 pages), mean OCR confidence 91.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “SVKM’s NMIMS
@@ -1726,7 +1951,6 @@ d) Floatation b)Flocculation _c) Coagulation d) Sedimentation
 
 3. When inversion starts at height much above the ground level is called as
 
-d) Subsidence   b) Radiational c) Advective d) Aloft.
 4. (oning occurs during conditions.
 4) Neutral b) Stable c) Inversion d) Unstable.
 St. | is not a coagulant.
@@ -1758,6 +1982,7 @@ b) Class|fy the solid waste & enlist the effects of each. (10)
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/ENVIRONMENTAL ENGINEERING/2009-2010(165).pdf`
 - Text: ocr (2 pages), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -1804,7 +2029,6 @@ a) Floatation b) Flocculation c) Coagulation d) Sedimentation
 
 8 When Inversion starts at height much above ground level is called as
 
-a) Subsidence b) Radiational c) Advective d) Aloft
 
 9 Dirty gas enters from the bottom of filter and flows from outside to
 inside & the compressed air is passed from inside to outside. This
@@ -2167,9 +2391,9 @@ L:BRARY
 
 ## 2008-09 · Re-Exam · Trim 10 · paper 0d96a5de4af2
 
-- Departments: Information Technology, Manufacturing
-- Programmes: MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/TRIM X/ENVIRONMENTAL ENGINEERING/2008-2009 re exam I(20).pdf` (+1 identical copies)
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/environment management/2008-2009 re exam I(19).pdf` (+2 identical copies)
 - Text: ocr (1 page), mean OCR confidence 89.4
 
 ````text
@@ -2392,228 +2616,4 @@ d?
 (10)
 
 (20)
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 010282a6b4f0
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Environmental Engineering/Environmental Engg.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 90.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
-Academic Year: 2022-2023 :
-Program/s: MBA.Tech. Year: III Semester: VI
-
-Stream/s : Chemical
-
-Subject: Environmental Engineering Time: 3 hrs (2¢eepmto_S%ooprr)
-Date:_26 / € / 2023 No. of Pages: 3
-
-Marks: 100
-
-‘Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question\No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: (20]
-CO-1; a. :
-SO- 1; Enumerate and explain the causes and effects of noise pollution.
-BL-2;
-CO-1 ; b. TT :
-SO-1; Classify and explain the solid waste produced by chemical industries.
-BL-4;
-
-ae CO-3; c. A sample of wastewater has 4-day 20°C BOD value of 75% of the final.
-~ er Find the rate constant (to the base 10) per day.
-CO-2; d. _
-SO-1; Discuss the construction and working of electrostatic precipitator.
-BL-2;
-(a) . . .
-
-Sketch a flow diagram for a typical effluent treatment plant for Textile [10]
-Q2 industry. Explain each unit.
-CO-1,3;
-SO-1,1;
-
-Explain in detail the process of adsorption, absorption and incineration for
-BL-3,2; | (b) P P P P [10]
-gaseous air pollutants control.
---- page 2 ---
-(a) Design a high rate trickling filter for treating the following wastewater: [10]
-Population: 40000
-(a) Domestic sewage @ 150 Iped having 200 mg/l of BOD
-(b) Industrial sewage @ 0.25 MI d having 600 mg/l of BOD
-(c) BOD removal in primary clarifier= 35%.
-(d) Permissible organic loading of filter= 8000 kg/ha-m/d (excluding
-
-Q3 recirculated sewage)
-CO-3,1,3; : (e) Recirculation ratio=1
-hry ed (f) Permissible surface loading= 160 mL/Ha/d (including recirculated
-sewage). ,
-Also determine the efficiency of the filter and BOD of the effluent.
-(b) Explain the health effects of three criteria pollutants. [03]
-(c) Discuss in brief the method of treating wastewater from a brewery. [07]
-(a) The following data shows the variation in population of a town from 1022 | [06]
-to 1072. Estimate the population of the city in the year 2002. Use arithmetic
-increase method and geometrical increase method.
-Year 1922 1932 1942 1952 1962 1972
-Q4 Population 72,000 85,000 | 1,10,500 | 1,44,000 1, 84,000 | 2,21,000
-CO-1,1,1;
-SO-2,1,1; : : .
-BL-43,3: (b) Give an outline of the various processes adopted for the treatment of water [09]
-with a neat sketch.
-() Show that the smaller particles will also settle down if the overflow rate is [05]
-reduced in a sedimentation tank.
-Q5 (a) Design a conventional activated sludge plant to treat an effluent flow of [10]
-CO-3,1; 19200 m?/d.
-pare a Influent BOD: 200 mg/l
---- page 3 ---
-Effluent BOD: 15 mg/l
-
-(b) Describe the existing methods of waste disposal in India from the [10]
-
-following industries:
-(i) Pharmaceutical (ii) paints (iii) Dye intermediates.
-Mention the drawbacks of collection, storage, transportation and disposal
-
-of industrial solid waste in India.
-
-(a) Explain incineration process with diagram. [05]
-06 (b) Differentiate between:
-C0-3,3,2; High rate trickling filter and Low rate trickling filter [08]
-SO-2,1,1; Rapid sand filter and Slow sand filter
-BL-2,2,2;
-
-(c) Enumerate the devices which are used for control of particulate matter in [07]
-
-industries. Explain any one of them with sketch.
-
-(a) Explain sources, characteristics and effects of following air pollutants: [09]
-Q7 (i) Sulphur di oxide (ii) CFC (ii) carbon monoxide
-CO-1,1,1;
-
-SO-1,1,1; | (b) Differentiate between environmental lapse rate (ELR) and adiabatic lapse | [04]
-Bla24 rate (ALR).
-
-(c) Explain different types of plume behaviour with neat sketch. [07]
-````
-
-## Year not stated · Exam not stated · Trim 10 · paper d15c81c5ed1f
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/ENVIRONMENTAL ENGINEERING/scan0025(1).pdf`
-- Printed on paper: exam date: 27/09/2012
-- Text: ocr (1 page), mean OCR confidence 89.6
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MBA-(Tech) - Chemical Year: IV Trimester: X
-
-Subject:
-
-Academic Year : 2012-2013
-
-ENVIRONMENTAL ENGINEERING Marks:
-Time:
-Date: 27/09/2012 Duration:
-Final - Examination
-NOTE: F (saws Unversity ) a |
-
-Ql
-
-Q2
-
-Q3
-
-Q4
-
-Q5
-
-1. Question number 1 is compulsory. nae
-2. Attempt any four questions from the remaining questions.
-3. Figures in bracket indicate full marks.
-
-A Answer in brief: (Any 5)
-
-a | What is the difference between TOC, BOD & COD?
-2 Explain Eutrophication and how to prevent it?
-3 What is the impact of Temperature inversion on dispersion of pollutants?
-4 — Give advantages and disadvantages of Land fill.
-5 What is Global warming and which pollutants are responsible for it?
-6 Describe various aeration methods used in clarifiers.
-
-7 Why are meteorological aspects of pollution important in Environment
-Engineering?
-
-A What are the methods used for sampling of gaseous pollutants?
-B__ Describe different types of cyclones used for Air purification
-
-A What forms the solid waste and enlist the effects of each.
-B Explain Composting and Incineration in detail.
-
-A Briefly describe various advanced biological systems (low tech solutions)
-B__ Enlist various types of air pollutants and theirs effects on human.
-
-A Briefly explain various methods for control / removal of SO; from flue gas.
-B_ Explain NDIR method for CO2 analysis with diagram.
-
-A Explain primary and secondary treatment given to-waste water in brief.
-B__ Write short note on Activated sludge process
-
-A The effluent gas stream coming out from process department of Chemisyne
-Co. pvt ltd. has following compostion:
-
-N2, 02, H20, CO2, CO, VOCs (trace amounts), NH3, raw material
-particles (60m size), product powder (8m). The average temperature of
-this stream is 220 C. Design the control strategy for the company to
-adhere to the following environment policy. The norms in the company’s
-locality suggest following :
-
-e Complete removal of CO, VOCs, Particulate matter, H20.
-e Trace amounts of CO2 & ammonia permissible in vented air.
-B__ Explain the sludge disposal and treatment techniques.
-
-dg
-
-(10)
-(10)
-
-(10)
-(10)
-
-(10)
-(10)
-
-(10)
-(10)
-
-(10)
-(10)
-
-(10)
-
-(10)
 ````

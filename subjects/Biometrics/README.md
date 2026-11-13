@@ -16,19 +16,19 @@ Also filed as: `BIOMETRICAS`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AIDS 7056 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech AIDS 7056 | QP_Biometrics(702CO0E009)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Biometrics(702CO0E009)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Computer 7032 | QP_Biometrics(702CO0E009)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Biometrics(702CO0E009)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AIDS 7056 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AIDS 7056 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 10 | B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / Computer | Biometrics Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech AIDS 7056 | QP_Biometrics(702CO0E009)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Biometrics(702CO0E009)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AIDS 7056 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Biometrics(702CO0E009)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSE Data Science (311), MBA TECH / Computer | Biometrics, Sem VI, Final Year 2024-25 & Re Exam 2022-23.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / DATA SCIENCE | Biometrics, Sem-V, A Y 2023-24, Final Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, MBA TECH / Computer | Biometrics, Sem-VI, Year 2022-23, Final Exam.pdf |

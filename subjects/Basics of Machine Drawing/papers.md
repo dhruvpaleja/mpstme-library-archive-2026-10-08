@@ -10,6 +10,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Programmes: B.TECH INTEGRATED / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/BASICS OF MACHINE DRAWING/Basics of Machine Drawiing Batch 2024-25 Final.pdf`
 - Text: ocr (4 pages), mean OCR confidence 72.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -163,7 +164,6 @@ ao p77 TTT
 | 5 LN @
 aaae poe | _ : |
 ; ; \ * cy:
-(Sloz|ary \_SFSTorl zsureaces PR
 al Cal
 Seed 4
 0

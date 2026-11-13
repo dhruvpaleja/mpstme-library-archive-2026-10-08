@@ -1,8 +1,718 @@
 # Probability and Random Variables: question papers in full
 
-28 unique papers · 2021-22 to 2024-25 · Artificial Intelligence, Common (all branches), AI and Data Science, AI and Machine Learning
+28 unique papers · 2021-22 to 2025-26 · Artificial Intelligence, Common (all branches), AI and Machine Learning, AI and Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 2 · paper 4286a8e6b2fa
+
+- Departments: AI and Machine Learning
+- Programmes: BTech AIML 7053
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_AIML_7053/Probability and Random Variables/QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
+- Text: mixed (5 pages), mean OCR confidence 85.9
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Probability and Random Variables
+Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 5 pages.
+2. Question No. _1___ is compulsory
+3. Out of remaining questions, attempt any __4___ questions
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks
+8. Assume Suitable data if necessary
+Q1
+CO-4;   a.   For a continuous random variable X, the probability density function is given
+SO-1;   as f ( x ) = kx 3,0  x  2 and f ( x ) = 0, otherwise . Find k and E   3 X 2 + 4  .   [05]
+BL-1
+b.   The joint probability density function of a two-dimensional random variable
+CO-4;   − ( x 2 + y 2 )
+SO-1;   (X,Y) is f ( x , y ) = 4 xye   ; x  0, y  0 . Examine whether the variables X [05]
+BL-3
+and Y are independent.
+CO-3;   c.   A discrete random variable X follows a Uniform distribution with X assuming
+SO-1;   [05]
+the values as 2, 4, 6, 8 and 10. Determine P (X < 6) and P (X = 8).
+BL-3
+d.   According to a national education survey, 68% of postgraduate students
+regularly use online learning platforms for their studies. Suppose 72% of
+postgraduate students attend academic seminars or workshops during the
+year. Also suppose that 55% of postgraduate students both use online learning
+CO-1;   platforms and attend seminars or workshops.
+SO-1;   [05]
+BL-4   i. Calculate the probability that a randomly selected postgraduate student
+uses online learning platforms or attends seminars/workshops.
+ii. Calculate the probability that a randomly selected postgraduate student
+uses online learning platforms or attends seminars/workshops but not both.
+Q2
+a.   A quality control team in a battery manufacturing plant finds that 4 out of
+CO-3;   every 80 batteries are defective. Batteries are tested one by one.
+SO-1;   [06]
+BL-3   i. Determine the probability that the first defective battery is found on the 5th
+test.
+********** 1 **********
+--- page 2 ---
+ii. Find the expected number of defective batteries.
+iii. Find the variance of the number of defective batteries.
+b.   In a library, there are 120 books classified as follows:
+Fiction   Non-Fiction   Total
+Available   40   30   70
+CO-1;   Issued   25   25   50
+SO-1;   [06]
+BL-2   Total   65   55   120
+Estimate the probability that a randomly selected book will be:
+i. Fiction given that it is available
+ii. Issued given that it is Non-Fiction.
+c.   The probability distribution of a random variable X is given below:
+X   -1   0   2   4
+CO-1;
+SO-1;   P (X = x)   0.2   0.35   0.25   0.20   [08]
+BL-5
+Evaluate the coefficient of kurtosis for the distribution and interpret the
+result.
+Q3
+a.   Let X and Y be two random variables each taking values -1, 0, 1 and having
+the joint probability distribution as
+X   -1   0   1
+CO-1;   Y
+SO-1;   -1   0.1   0.1   0   [06]
+BL-1
+0   0.2   0.2   0.1
+1   0.1   0.1   0.1
+Find (i) E[XY] and (ii) Var(Y)
+b.   The probability density function of continuous random variable is defined as
+CO-4;
+SO-1;   f ( x ) = k (2 x + 1) , 0  x  3 and f ( x ) = 0, otherwise . Determine the value of [06]
+BL-3   k and mean.
+c.   A factory produces LED bulbs, and from past data it is known that the lifespan
+of the bulbs follows a normal distribution with mean 1200 hours and standard
+CO-3;   deviation 100 hours.
+SO-1;   [08]
+(i) Find the percentage of bulbs whose lifespan lies between 1100 hours and
+BL-3
+1300 hours.
+(ii) Find the percentage of bulbs whose lifespan is greater than 1400 hours.
+Q4
+CO-1;   a.   Let ‘X’ be a random variable (RV) with the following probability distribution.
+SO-1;   [06]
+BL-1
+********** 2 **********
+--- page 3 ---
+X   -2   -1   0   1   2
+P (X = x) 0.10   0.20   0.30 0.25 K
+Find K, mean and variance of ‘X’.
+b.   A two-dimensional random variable (X, Y) has the following probability
+density function.
+CO-4;   {𝐾(3𝑥𝑦+ 2𝑦2)   , 0 < 𝑥< 1 𝑎𝑛𝑑 0 < 𝑦< 2   [06]
+SO-1;   𝑓(𝑥, 𝑦) =
+0   ,   𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
+BL-3
+Determine (i) the value of K, (ii) marginal probability density functions, and
+(iii) expectations of X and Y.
+c.   A laboratory uses three testing devices 𝐷1, 𝐷2 and 𝐷3. The probability that a
+CO-2;   test is positive using 𝐷1 is 0.6, using 𝐷2 is 0.8, and using 𝐷3 is 0.5. One
+SO-1;   [08]
+device is selected at random and used to conduct 3 tests, giving 2 positive and
+BL-4
+1 negative result. Find the probability that device 𝐷2 was used.
+Q5
+CO-2;   a.   The first four moments of a distribution about the value 1 are 1.5, 2.8, 6.2,
+SO-1;   [06]
+and 18. Calculate the first four moments about the mean.
+BL-3
+CO-3; b.   With usual notation, find 𝑝 for a binomial distribution if n = 5 and
+SO-1;   [06]
+BL-1   6 P(X=3) = P(X=1). Also, find the mean and variance.
+c.   Let 𝑋 and 𝑌 be two random variables having joint probability distribution
+as given below:
+𝑌   0   1   2
+CO-1;
+SO-1;   𝑋   [08]
+BL-3   0   h   3h   2h
+1   2h   4h   6h
+2   3h   5h   4h
+Compute the values of (i) 𝐸[𝑋]; (ii) 𝐸[𝑌]; (iii) 𝐸[𝑋𝑌]; (iv) 𝐶𝑜𝑣 (𝑋, 𝑌).
+Q6
+a.   A box contains 12 balls, of which 5 are white, 4 are black, and 3 are orange.
+CO-1;   Three balls are drawn at random. Determine the probability that:
+SO-1;   i) all three balls are of different colours,   [06]
+BL-3   ii) all three balls are of the same colour,
+iii) exactly two balls are white.
+b.   If 3% of the electronic components produced by a factory are defective,
+CO-3;
+determine the probability that:   [06]
+SO-1;
+BL-3   i) at least one component is defective, and
+ii) exactly 5 components are defective in a sample of 120 components.
+CO-1;   c.
+SO-1;   The joint density function of the random variables 𝑋 and 𝑌 is given by:   [08]
+BL-1
+********** 3 **********
+--- page 4 ---
+{6𝑥𝑦,   0 ≤𝑥≤1,   0 ≤𝑦≤1
+𝑓(𝑥, 𝑦) =
+0,   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
+Find (i) the marginal density function of 𝑋; (ii) the marginal density
+function of 𝑌; (iii) the conditional density of 𝑋; (iv) the conditional density
+of 𝑌.
+Q7
+a.   The average time required to process a customer at a bank counter is 4
+CO-3;   minutes. The service time follows an exponential distribution. Calculate the
+SO-1;   probability that:   [06]
+BL-3   i) a customer will take less than 1 minute to complete the service,
+ii) a customer will take more than 6 minutes for the service.
+b.   A two dimensional random variable (X,Y) has the   joint probability
+distribution as given below
+X   0   1   2
+CO-1;   Y
+SO-1;   [06]
+1   1/10   1/5   1/10
+BL-1
+2   1/20   1/10   1/20
+2   1/10   1/5   1/10
+Find E[Y] and E[X|Y=3].
+c.   If the probability density function of a random variable is
+CO-2;   f ( x ) = ke − 3 x , x  0, k  0 . Determine the moment generating function and
+SO-1;   [08]
+BL-3   first two raw moments. Also solve for mean and variance.
+********** 4 **********
+--- page 5 ---
+Table of Standard Normal Distribution
+
+0 z
+
+Zz 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
+0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+0.3 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+04 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+
+0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+08 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
+
+1A 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+1.3 0.4032 04049 0.4066 0.4082 0.4099 0.4115 04131 0.4147 0.4162 0.4177
+1.4 04192 0.4207 0.4222 04236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+1.5 0.4332 04345 0.4357 0.4370 0.4382 0.4394 04406 0.4418 0.4429 0.4441
+
+1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
+1:7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
+1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+1.9 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
+2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+
+2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
+2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+2.5 0.4938 0.4940 0.4941 0.4943 04945 0.4946 0.4948 0.4949 0.4951 0.4952
+
+2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+2.7 04965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+2.8 0.4974 0.4975 0.4976 0.4977 0.4977 04978 0.4979 0.4979 0.4980 0.4981
+2.9 0.4981 0.4982 04982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
+3.0 0.4987 «0.4987 —0.4987 ~—0.4988 ~—0.4988 ~— 0.4989 0.4989 — 0.4989 ~— 0.4990 —0.4990
+
+Note:
+
+Middle 50% area = + 0.6745 For any Normal Variate (with Mean = uy and Std. Deviation = o):
+Middle 90% area = + 1.6449 H+ 10 = 0.6827
+
+Middle 95% area = + 1.9600 H + 20 = 0.9545
+
+Middle 99% area = + 2.5758 y+ 30 = 0.9973
+
+FIC DI EH ar
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 2585d30898c5
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_AI_7051/Probability and Random Variables/QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
+- Text: mixed (5 pages), mean OCR confidence 85.9
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Probability and Random Variables
+Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 5 pages.
+2. Question No. _1___ is compulsory
+3. Out of remaining questions, attempt any __4___ questions
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks
+8. Assume Suitable data if necessary
+Q1
+CO-4;   a.   For a continuous random variable X, the probability density function is given
+SO-1;   as f ( x ) = kx 3,0  x  2 and f ( x ) = 0, otherwise . Find k and E   3 X 2 + 4  .   [05]
+BL-1
+b.   The joint probability density function of a two-dimensional random variable
+CO-4;   − ( x 2 + y 2 )
+SO-1;   (X,Y) is f ( x , y ) = 4 xye   ; x  0, y  0 . Examine whether the variables X [05]
+BL-3
+and Y are independent.
+CO-3;   c.   A discrete random variable X follows a Uniform distribution with X assuming
+SO-1;   [05]
+the values as 2, 4, 6, 8 and 10. Determine P (X < 6) and P (X = 8).
+BL-3
+d.   According to a national education survey, 68% of postgraduate students
+regularly use online learning platforms for their studies. Suppose 72% of
+postgraduate students attend academic seminars or workshops during the
+year. Also suppose that 55% of postgraduate students both use online learning
+CO-1;   platforms and attend seminars or workshops.
+SO-1;   [05]
+BL-4   i. Calculate the probability that a randomly selected postgraduate student
+uses online learning platforms or attends seminars/workshops.
+ii. Calculate the probability that a randomly selected postgraduate student
+uses online learning platforms or attends seminars/workshops but not both.
+Q2
+a.   A quality control team in a battery manufacturing plant finds that 4 out of
+CO-3;   every 80 batteries are defective. Batteries are tested one by one.
+SO-1;   [06]
+BL-3   i. Determine the probability that the first defective battery is found on the 5th
+test.
+********** 1 **********
+--- page 2 ---
+ii. Find the expected number of defective batteries.
+iii. Find the variance of the number of defective batteries.
+b.   In a library, there are 120 books classified as follows:
+Fiction   Non-Fiction   Total
+Available   40   30   70
+CO-1;   Issued   25   25   50
+SO-1;   [06]
+BL-2   Total   65   55   120
+Estimate the probability that a randomly selected book will be:
+i. Fiction given that it is available
+ii. Issued given that it is Non-Fiction.
+c.   The probability distribution of a random variable X is given below:
+X   -1   0   2   4
+CO-1;
+SO-1;   P (X = x)   0.2   0.35   0.25   0.20   [08]
+BL-5
+Evaluate the coefficient of kurtosis for the distribution and interpret the
+result.
+Q3
+a.   Let X and Y be two random variables each taking values -1, 0, 1 and having
+the joint probability distribution as
+X   -1   0   1
+CO-1;   Y
+SO-1;   -1   0.1   0.1   0   [06]
+BL-1
+0   0.2   0.2   0.1
+1   0.1   0.1   0.1
+Find (i) E[XY] and (ii) Var(Y)
+b.   The probability density function of continuous random variable is defined as
+CO-4;
+SO-1;   f ( x ) = k (2 x + 1) , 0  x  3 and f ( x ) = 0, otherwise . Determine the value of [06]
+BL-3   k and mean.
+c.   A factory produces LED bulbs, and from past data it is known that the lifespan
+of the bulbs follows a normal distribution with mean 1200 hours and standard
+CO-3;   deviation 100 hours.
+SO-1;   [08]
+(i) Find the percentage of bulbs whose lifespan lies between 1100 hours and
+BL-3
+1300 hours.
+(ii) Find the percentage of bulbs whose lifespan is greater than 1400 hours.
+Q4
+CO-1;   a.   Let ‘X’ be a random variable (RV) with the following probability distribution.
+SO-1;   [06]
+BL-1
+********** 2 **********
+--- page 3 ---
+X   -2   -1   0   1   2
+P (X = x) 0.10   0.20   0.30 0.25 K
+Find K, mean and variance of ‘X’.
+b.   A two-dimensional random variable (X, Y) has the following probability
+density function.
+CO-4;   {𝐾(3𝑥𝑦+ 2𝑦2)   , 0 < 𝑥< 1 𝑎𝑛𝑑 0 < 𝑦< 2   [06]
+SO-1;   𝑓(𝑥, 𝑦) =
+0   ,   𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
+BL-3
+Determine (i) the value of K, (ii) marginal probability density functions, and
+(iii) expectations of X and Y.
+c.   A laboratory uses three testing devices 𝐷1, 𝐷2 and 𝐷3. The probability that a
+CO-2;   test is positive using 𝐷1 is 0.6, using 𝐷2 is 0.8, and using 𝐷3 is 0.5. One
+SO-1;   [08]
+device is selected at random and used to conduct 3 tests, giving 2 positive and
+BL-4
+1 negative result. Find the probability that device 𝐷2 was used.
+Q5
+CO-2;   a.   The first four moments of a distribution about the value 1 are 1.5, 2.8, 6.2,
+SO-1;   [06]
+and 18. Calculate the first four moments about the mean.
+BL-3
+CO-3; b.   With usual notation, find 𝑝 for a binomial distribution if n = 5 and
+SO-1;   [06]
+BL-1   6 P(X=3) = P(X=1). Also, find the mean and variance.
+c.   Let 𝑋 and 𝑌 be two random variables having joint probability distribution
+as given below:
+𝑌   0   1   2
+CO-1;
+SO-1;   𝑋   [08]
+BL-3   0   h   3h   2h
+1   2h   4h   6h
+2   3h   5h   4h
+Compute the values of (i) 𝐸[𝑋]; (ii) 𝐸[𝑌]; (iii) 𝐸[𝑋𝑌]; (iv) 𝐶𝑜𝑣 (𝑋, 𝑌).
+Q6
+a.   A box contains 12 balls, of which 5 are white, 4 are black, and 3 are orange.
+CO-1;   Three balls are drawn at random. Determine the probability that:
+SO-1;   i) all three balls are of different colours,   [06]
+BL-3   ii) all three balls are of the same colour,
+iii) exactly two balls are white.
+b.   If 3% of the electronic components produced by a factory are defective,
+CO-3;
+determine the probability that:   [06]
+SO-1;
+BL-3   i) at least one component is defective, and
+ii) exactly 5 components are defective in a sample of 120 components.
+CO-1;   c.
+SO-1;   The joint density function of the random variables 𝑋 and 𝑌 is given by:   [08]
+BL-1
+********** 3 **********
+--- page 4 ---
+{6𝑥𝑦,   0 ≤𝑥≤1,   0 ≤𝑦≤1
+𝑓(𝑥, 𝑦) =
+0,   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
+Find (i) the marginal density function of 𝑋; (ii) the marginal density
+function of 𝑌; (iii) the conditional density of 𝑋; (iv) the conditional density
+of 𝑌.
+Q7
+a.   The average time required to process a customer at a bank counter is 4
+CO-3;   minutes. The service time follows an exponential distribution. Calculate the
+SO-1;   probability that:   [06]
+BL-3   i) a customer will take less than 1 minute to complete the service,
+ii) a customer will take more than 6 minutes for the service.
+b.   A two dimensional random variable (X,Y) has the   joint probability
+distribution as given below
+X   0   1   2
+CO-1;   Y
+SO-1;   [06]
+1   1/10   1/5   1/10
+BL-1
+2   1/20   1/10   1/20
+2   1/10   1/5   1/10
+Find E[Y] and E[X|Y=3].
+c.   If the probability density function of a random variable is
+CO-2;   f ( x ) = ke − 3 x , x  0, k  0 . Determine the moment generating function and
+SO-1;   [08]
+BL-3   first two raw moments. Also solve for mean and variance.
+********** 4 **********
+--- page 5 ---
+Table of Standard Normal Distribution
+
+0 z
+
+Zz 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
+0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+0.3 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+04 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+
+0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+08 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
+
+1A 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+1.3 0.4032 04049 0.4066 0.4082 0.4099 0.4115 04131 0.4147 0.4162 0.4177
+1.4 04192 0.4207 0.4222 04236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+1.5 0.4332 04345 0.4357 0.4370 0.4382 0.4394 04406 0.4418 0.4429 0.4441
+
+1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
+1:7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
+1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+1.9 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
+2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+
+2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
+2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+2.5 0.4938 0.4940 0.4941 0.4943 04945 0.4946 0.4948 0.4949 0.4951 0.4952
+
+2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+2.7 04965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+2.8 0.4974 0.4975 0.4976 0.4977 0.4977 04978 0.4979 0.4979 0.4980 0.4981
+2.9 0.4981 0.4982 04982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
+3.0 0.4987 «0.4987 —0.4987 ~—0.4988 ~—0.4988 ~— 0.4989 0.4989 — 0.4989 ~— 0.4990 —0.4990
+
+Note:
+
+Middle 50% area = + 0.6745 For any Normal Variate (with Mean = uy and Std. Deviation = o):
+Middle 90% area = + 1.6449 H+ 10 = 0.6827
+
+Middle 95% area = + 1.9600 H + 20 = 0.9545
+
+Middle 99% area = + 2.5758 y+ 30 = 0.9973
+
+FIC DI EH ar
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper e6cf97f6c594
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PROBABILITY AND RANDOM VARIABLES/Probability and Random Variables, Sem-II, Batch 2022-23, 2023-24 &2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 July 2026
+- Text: ocr (5 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+Y MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Academic Year: 2025-26
+Program: B Tech/ MBA Tech (AI/AI&DS/AIML)
+Year: I. Semester: JI
+
+Subject: Probability and Random Variables .
+Time: 10.00 am to 1.00 pm (3 hrs)
+Date : 09 July 2026 .
+
+No. of Pages:_O5
+Marks: 100
+
+Re-Exam (2022-23/2023-24/2024-25)
+
+Instructions:
+1. This question paper contains 5 pages.
+2. Question No._1___ is compulsory
+3. Out of remaining questions, attempt any __4 _ questions
+4. Inall__5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks
+8. Assume Suitable data if necessary
+
+ol Qi .
+a. For a continuous random variable X, the probability density function is given
+on asf (x)=kx(2-x),0<x<2 and f(x)=O,otherwise . Find k and [05]
+Bibel E[2x +5].
+b. The joint probability density function of a two dimensional random variable
+CO-4; } 1 -x-2
+SO-1: (X,Y) is Ff (xx)= Ze 2 3;x20,y20. Examine whether the variables X | [05]
+BL-3
+and Y are independent.
+Co-3: a. There are 12 tickets numbered 1,2,...,12. One ticket is drawn at random.
+SO-1; Using uniform distribution, determine the probability that the ticket bears a | [05]
+BL-3 number which is: i. A multiple of 3; ii. A prime number.
+Cc d A survey of small businesses reports that 48% provide health insurance to
+their employees, while 65% provide paid vacation leave. Suppose 36% of the
+CO-1: businesses provide both health insurance and paid vacation leave.
+SO-1; Ifa small business is randomly selected, calculate the following probabilities: | [05]
+BL-4 i. The business provides health insurance or paid vacation leave.
+ii. The business provides health insurance but does not provide paid vacation
+leave.
+Q2 ,
+a, A quality inspector observes that 2 out of every 120 packaged food items are [06]
+
+defective. Items are checked one by one.
+
+FRG Fk ok
+--- page 2 ---
+i. Determine the probability that the first defective item is found on the 8th
+inspection.
+
+ii. Find the expected number of inspections until the first defegtive item
+occurs.
+
+iii. Find the standard deviation of the number of inspections until the first
+
+defective item occurs.
+
+A university has 400 students classified as follows:
+
+Engineering | Management Total
+Full time 120 80 200
+Part time 100 100 200
+[06]
+Total 220 180 400
+Estimate the probability that a randomly selected student will be:
+i. a Management student given that the student is Part-time
+ii. a Full-time student given that the student is from Engineering.
+The probability distribution of a random variable X is given below:
+xX] -3 1 4 6
+P(X=
+0.15 | 0.35} 0.3 0.2 [08]
+x) :
+Evaluate the coefficient of skewness for the distribution and interpret the
+result.
+Q3
+Given a pair of discrete random variable X and Y whose joint probability
+distribution is given by
+xX 1 3
+CO-1; =
+SO-1; [06]
+BL-1 0 0.1 0.2
+1 . 0.15 0.25
+2 0.1 0.2
+Find (1) E[XY] and (ii) Var(Y) .
+CO-4; The probability density function of continuous random variable is defined as
+-1: 06
+— f° , I(x) =k(2—x), O<x<2 Determine the value of k and mean. [06]
+— 7 on. In a normal distribution, 10% of the items are below 40 and 85% of the items
+0-1: are below 70. Determine the mgan and standard deviation of the normal | [08]
+BL-3 distribution.
+Q4
+
+--- page 3 ---
+Let ‘X’ be arandom variable (RV) with the following probability distribution.
+
+CO-1; xX| 2 4 -6 8 10 [06]
+“12 0
+Les P(X=x)| 0.05 | 0.15 | 0.25 | 0.30) K °
+Find K, mean and variance of ‘X’. :
+A two-dimensional random variable (X, Y) has the following probability
+density function.
+CO-4; fo y= fk@aty + 3x9") , O<x<2and0<y<1 [06]
+SO-1; a 0 , elsewhere
+BL-3
+Determine (1) the value of k, (ii) marginal probability density functions, and
+(ili) expectations of X and Y.
+In a bag, there are 8 fair coins and 6 biased coins with heads on both sides. A
+CO-2; coin is chosen at random and tossed 3 times. If heads occur all 3 times, [08]
+et i) calculate the probability that a fair coin was chosen, and
+ii) calculate the probability that a biased coin was chosen.
+|. Q5
+A random variable X has the probability mass function as
+CO-2; lg . . .
+SO-1: P(X =x)= i6 C,, X =0,1,2,3,4. Find the moment generating function of X | [06]
+BL-3 :
+and using moment generating find mean and variance.
+echa If 15% of the bulbs produced by a factory are defective, find the probability
+SO-1: that out of 6 bulbs chosen at random, i) none is defective, ii) exactly one is | [06]
+BL-1 defective, and iii) at most two are defective.
+EOnd The joint probability density function of X and Y is given by
+1; 3
+SO-1: Fay) =5@* +y*); O<x<1, O<y<l. [08]
+BL-3 Compute the values of (i) E[X]; (ii) E[Y]; (iii) ELXY]; (iv) Cov (X,Y).
+Cr) Q6
+An urn contains 4 red, 6 blue, and 8 green balls. Two balls are drawn at
+CO-1; random. Determine the probability that:
+SO-1; i) both balls are of the same colour, [06]
+BL-3 ii) both balls are blue,
+— iii) one ball is red and the other is green.
+A printing press produces books, and it is observed that 0.05% of the books
+om Beek: have misprints. The books are packed in bundles of 600 books each. A
+ee; bookstore orders 80 bundles. Determine the number of bundles that will
+SO-1; i [06]
+BL-3 contain:
+
+i) no misprinted books,
+li) at least 2 misprinted books.
+
+FFI 3 Fa i kk ak
+--- page 4 ---
+The joint probability density function of a two dimensional random variable
+
+aoe (SY) is f(x,y) =2(x+y);0<x<10< <1. Find the marginal cumulative [08]
+BL-1 , distribution function of X and conditional probability density funcfion of x i
+given Y. ~
+Q7
+CO-3; | a. . . . : ee .
+SO-1: If X is arandom variable which follows an exponential distribution with [06]
+BL-3. parameter 2 with P(X >3)=2P(X <3) , determine the value of 2.
+b. A two dimensional random variable (X,Y) has the joint probability
+
+distribution as given below
+
+ae i 2 4
+CO-1;
+Li [06]
+
+SO-1;
+BL-I 2 1/16 1/8 1/16
+
+3 1/8 1/4 1/8
+
+5 1/16 1/8 1/16
+
+Find E[Y] and E[X|/Y=5].
+c. Determine the moment generating function of a random variable X having
+
+CO-2; ; ; 2x/9 O<x<3 . a
+SO-1; density function f(x) = : . Also find the first two [08]
+BL-3 0 otherwise
+
+moments about the origin.
+
+FOI ICR 2 CIC I GR a
+--- page 5 ---
+Table of Standard Normal Distribution
+
+z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+
+0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
+0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 01103 01141
+0.3 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 01406 01443 0.1480 0.1517
+0.4 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 02486 0.2517 0.2549
+0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 03078 03106 0.3133
+0.9 0.3159 03186 0.3212 0.3238 0.3264 0.3289 03315 0.3340 0.3365 0.3389
+1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 03577 0.3599 0.3621
+i 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+1.2 0.3849 0.3869 03888 0.3907 0.3925 0.3944 0.3962 03980 03997 0.4015
+1.3 0.4032 04049 04066 0.4082 04099 04115 04131 04147 04162 0.4177
+1.4 0.4192 0.4207 0.4222 0.4236 04251 04265 0.4279 0.4292 0.4306 0.4319
+45 0.4332‘ 0.4345 0.4357 0.4370 04382 0.4394 0.4406 0.4418 0.4429 0.4441
+1.6 0.4452 0.4463 04474 0.4484 04495 0.4505 0.4515 0.4525 04535 0.4545
+1.7 0.4554 04564 04573 0.4582 04591 04599 04608 0.4616 0.4625 0.4633
+1.8 0.4641 04649 04656 0.4664 04671 04678 0.4686 0.4693 0.4699 0.4706
+19 0.4713 04719 04726 04732 04738 04744 04750 04756 0.4761 0.4767
+2.0 0.4772 04778 0.4783 0.4788 04793 04798 0.4803 0.4808 0.4812 0.4817
+2.1 0.4821 0.4826 0.4830 0.4834 04838 0.4842 0.4846 0.4850 0.4854 0.4857
+22 0.4861 0.4864 0.4868 0.4871 04875 0.4878 0.4881 0.4884 0.4887 0.4890
+a3 0.4893 04896 04898 0.4901 04904 04906 04909 0.4911 04913 0.4916
+2.4 0.4918 0.4920 04922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+2.8 0.4938 04940 04941 04943 04945 04946 04948 0.4949 0.4951 0.4952
+2.6 0.4953 04955 0.4956 04957 04959 04960 0.4961 0.4962 04963 0.4964
+27 0.4965 04966 0.4967 04968 04969 0.4970 0.4971 0.4972 0.4973 0.4974
+2.8 0.4974 04975 0.4976 04977 04977 0.4978 04979 0.4979 0.4980 0.4981
+2.9 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
+3.0 0.4987 0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 0.4990
+
+Note:
+
+Middle 50% area = + 0.6745 For any Normal Variate (with Mean = y and Std. Deviation = o):
+
+Middie 90% area = + 1.6449 u + to = 0.6827
+
+Middle 95% area = + 1.9600 H + 20 = 0.9545
+
+Middle 99% area = + 2.5758 yu + 30 = 0.9973
+
+FRI IIOR Da aOR kk a ak a
+````
 
 ## 2024-25 · Final-Exam · Sem 2 · paper b8f8cf503f8d
 
@@ -860,242 +1570,6 @@ BL-5
 ********** 3 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · paper 4286a8e6b2fa
-
-- Departments: AI and Machine Learning
-- Programmes: BTech AIML 7053
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_AIML_7053/Probability and Random Variables/QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
-- Text: mixed (5 pages), mean OCR confidence 85.9
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Probability and Random Variables
-Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 5 pages.
-2. Question No. _1___ is compulsory
-3. Out of remaining questions, attempt any __4___ questions
-4. In all ___5_ questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks
-8. Assume Suitable data if necessary
-Q1
-CO-4;   a.   For a continuous random variable X, the probability density function is given
-SO-1;   as f ( x ) = kx 3,0  x  2 and f ( x ) = 0, otherwise . Find k and E   3 X 2 + 4  .   [05]
-BL-1
-b.   The joint probability density function of a two-dimensional random variable
-CO-4;   − ( x 2 + y 2 )
-SO-1;   (X,Y) is f ( x , y ) = 4 xye   ; x  0, y  0 . Examine whether the variables X [05]
-BL-3
-and Y are independent.
-CO-3;   c.   A discrete random variable X follows a Uniform distribution with X assuming
-SO-1;   [05]
-the values as 2, 4, 6, 8 and 10. Determine P (X < 6) and P (X = 8).
-BL-3
-d.   According to a national education survey, 68% of postgraduate students
-regularly use online learning platforms for their studies. Suppose 72% of
-postgraduate students attend academic seminars or workshops during the
-year. Also suppose that 55% of postgraduate students both use online learning
-CO-1;   platforms and attend seminars or workshops.
-SO-1;   [05]
-BL-4   i. Calculate the probability that a randomly selected postgraduate student
-uses online learning platforms or attends seminars/workshops.
-ii. Calculate the probability that a randomly selected postgraduate student
-uses online learning platforms or attends seminars/workshops but not both.
-Q2
-a.   A quality control team in a battery manufacturing plant finds that 4 out of
-CO-3;   every 80 batteries are defective. Batteries are tested one by one.
-SO-1;   [06]
-BL-3   i. Determine the probability that the first defective battery is found on the 5th
-test.
-********** 1 **********
---- page 2 ---
-ii. Find the expected number of defective batteries.
-iii. Find the variance of the number of defective batteries.
-b.   In a library, there are 120 books classified as follows:
-Fiction   Non-Fiction   Total
-Available   40   30   70
-CO-1;   Issued   25   25   50
-SO-1;   [06]
-BL-2   Total   65   55   120
-Estimate the probability that a randomly selected book will be:
-i. Fiction given that it is available
-ii. Issued given that it is Non-Fiction.
-c.   The probability distribution of a random variable X is given below:
-X   -1   0   2   4
-CO-1;
-SO-1;   P (X = x)   0.2   0.35   0.25   0.20   [08]
-BL-5
-Evaluate the coefficient of kurtosis for the distribution and interpret the
-result.
-Q3
-a.   Let X and Y be two random variables each taking values -1, 0, 1 and having
-the joint probability distribution as
-X   -1   0   1
-CO-1;   Y
-SO-1;   -1   0.1   0.1   0   [06]
-BL-1
-0   0.2   0.2   0.1
-1   0.1   0.1   0.1
-Find (i) E[XY] and (ii) Var(Y)
-b.   The probability density function of continuous random variable is defined as
-CO-4;
-SO-1;   f ( x ) = k (2 x + 1) , 0  x  3 and f ( x ) = 0, otherwise . Determine the value of [06]
-BL-3   k and mean.
-c.   A factory produces LED bulbs, and from past data it is known that the lifespan
-of the bulbs follows a normal distribution with mean 1200 hours and standard
-CO-3;   deviation 100 hours.
-SO-1;   [08]
-(i) Find the percentage of bulbs whose lifespan lies between 1100 hours and
-BL-3
-1300 hours.
-(ii) Find the percentage of bulbs whose lifespan is greater than 1400 hours.
-Q4
-CO-1;   a.   Let ‘X’ be a random variable (RV) with the following probability distribution.
-SO-1;   [06]
-BL-1
-********** 2 **********
---- page 3 ---
-X   -2   -1   0   1   2
-P (X = x) 0.10   0.20   0.30 0.25 K
-Find K, mean and variance of ‘X’.
-b.   A two-dimensional random variable (X, Y) has the following probability
-density function.
-CO-4;   {𝐾(3𝑥𝑦+ 2𝑦2)   , 0 < 𝑥< 1 𝑎𝑛𝑑 0 < 𝑦< 2   [06]
-SO-1;   𝑓(𝑥, 𝑦) =
-0   ,   𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
-BL-3
-Determine (i) the value of K, (ii) marginal probability density functions, and
-(iii) expectations of X and Y.
-c.   A laboratory uses three testing devices 𝐷1, 𝐷2 and 𝐷3. The probability that a
-CO-2;   test is positive using 𝐷1 is 0.6, using 𝐷2 is 0.8, and using 𝐷3 is 0.5. One
-SO-1;   [08]
-device is selected at random and used to conduct 3 tests, giving 2 positive and
-BL-4
-1 negative result. Find the probability that device 𝐷2 was used.
-Q5
-CO-2;   a.   The first four moments of a distribution about the value 1 are 1.5, 2.8, 6.2,
-SO-1;   [06]
-and 18. Calculate the first four moments about the mean.
-BL-3
-CO-3; b.   With usual notation, find 𝑝 for a binomial distribution if n = 5 and
-SO-1;   [06]
-BL-1   6 P(X=3) = P(X=1). Also, find the mean and variance.
-c.   Let 𝑋 and 𝑌 be two random variables having joint probability distribution
-as given below:
-𝑌   0   1   2
-CO-1;
-SO-1;   𝑋   [08]
-BL-3   0   h   3h   2h
-1   2h   4h   6h
-2   3h   5h   4h
-Compute the values of (i) 𝐸[𝑋]; (ii) 𝐸[𝑌]; (iii) 𝐸[𝑋𝑌]; (iv) 𝐶𝑜𝑣 (𝑋, 𝑌).
-Q6
-a.   A box contains 12 balls, of which 5 are white, 4 are black, and 3 are orange.
-CO-1;   Three balls are drawn at random. Determine the probability that:
-SO-1;   i) all three balls are of different colours,   [06]
-BL-3   ii) all three balls are of the same colour,
-iii) exactly two balls are white.
-b.   If 3% of the electronic components produced by a factory are defective,
-CO-3;
-determine the probability that:   [06]
-SO-1;
-BL-3   i) at least one component is defective, and
-ii) exactly 5 components are defective in a sample of 120 components.
-CO-1;   c.
-SO-1;   The joint density function of the random variables 𝑋 and 𝑌 is given by:   [08]
-BL-1
-********** 3 **********
---- page 4 ---
-{6𝑥𝑦,   0 ≤𝑥≤1,   0 ≤𝑦≤1
-𝑓(𝑥, 𝑦) =
-0,   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
-Find (i) the marginal density function of 𝑋; (ii) the marginal density
-function of 𝑌; (iii) the conditional density of 𝑋; (iv) the conditional density
-of 𝑌.
-Q7
-a.   The average time required to process a customer at a bank counter is 4
-CO-3;   minutes. The service time follows an exponential distribution. Calculate the
-SO-1;   probability that:   [06]
-BL-3   i) a customer will take less than 1 minute to complete the service,
-ii) a customer will take more than 6 minutes for the service.
-b.   A two dimensional random variable (X,Y) has the   joint probability
-distribution as given below
-X   0   1   2
-CO-1;   Y
-SO-1;   [06]
-1   1/10   1/5   1/10
-BL-1
-2   1/20   1/10   1/20
-2   1/10   1/5   1/10
-Find E[Y] and E[X|Y=3].
-c.   If the probability density function of a random variable is
-CO-2;   f ( x ) = ke − 3 x , x  0, k  0 . Determine the moment generating function and
-SO-1;   [08]
-BL-3   first two raw moments. Also solve for mean and variance.
-********** 4 **********
---- page 5 ---
-Table of Standard Normal Distribution
-
-0 z
-
-Zz 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
-0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
-0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
-0.3 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-04 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
-0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-
-0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-08 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
-0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
-1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
-
-1A 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
-1.3 0.4032 04049 0.4066 0.4082 0.4099 0.4115 04131 0.4147 0.4162 0.4177
-1.4 04192 0.4207 0.4222 04236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
-1.5 0.4332 04345 0.4357 0.4370 0.4382 0.4394 04406 0.4418 0.4429 0.4441
-
-1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
-1:7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
-1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
-1.9 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
-2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
-
-2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
-2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
-2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
-2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-2.5 0.4938 0.4940 0.4941 0.4943 04945 0.4946 0.4948 0.4949 0.4951 0.4952
-
-2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
-2.7 04965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
-2.8 0.4974 0.4975 0.4976 0.4977 0.4977 04978 0.4979 0.4979 0.4980 0.4981
-2.9 0.4981 0.4982 04982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
-3.0 0.4987 «0.4987 —0.4987 ~—0.4988 ~—0.4988 ~— 0.4989 0.4989 — 0.4989 ~— 0.4990 —0.4990
-
-Note:
-
-Middle 50% area = + 0.6745 For any Normal Variate (with Mean = uy and Std. Deviation = o):
-Middle 90% area = + 1.6449 H+ 10 = 0.6827
-
-Middle 95% area = + 1.9600 H + 20 = 0.9545
-
-Middle 99% area = + 2.5758 y+ 30 = 0.9973
-
-FIC DI EH ar
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · paper c9d062fd8f66
 
 - Departments: Artificial Intelligence
@@ -1258,242 +1732,6 @@ BL-5
 (i) between 60 and 75
 (ii) more than 75.
 ********** 3 **********
-````
-
-## 2024-25 · Re-Exam · Sem 2 · paper 2585d30898c5
-
-- Departments: Artificial Intelligence
-- Programmes: MBATech AI 7051
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_AI_7051/Probability and Random Variables/QP_Probability and Random Variables(702BS0C071)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
-- Text: mixed (5 pages), mean OCR confidence 85.9
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Probability and Random Variables
-Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 5 pages.
-2. Question No. _1___ is compulsory
-3. Out of remaining questions, attempt any __4___ questions
-4. In all ___5_ questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks
-8. Assume Suitable data if necessary
-Q1
-CO-4;   a.   For a continuous random variable X, the probability density function is given
-SO-1;   as f ( x ) = kx 3,0  x  2 and f ( x ) = 0, otherwise . Find k and E   3 X 2 + 4  .   [05]
-BL-1
-b.   The joint probability density function of a two-dimensional random variable
-CO-4;   − ( x 2 + y 2 )
-SO-1;   (X,Y) is f ( x , y ) = 4 xye   ; x  0, y  0 . Examine whether the variables X [05]
-BL-3
-and Y are independent.
-CO-3;   c.   A discrete random variable X follows a Uniform distribution with X assuming
-SO-1;   [05]
-the values as 2, 4, 6, 8 and 10. Determine P (X < 6) and P (X = 8).
-BL-3
-d.   According to a national education survey, 68% of postgraduate students
-regularly use online learning platforms for their studies. Suppose 72% of
-postgraduate students attend academic seminars or workshops during the
-year. Also suppose that 55% of postgraduate students both use online learning
-CO-1;   platforms and attend seminars or workshops.
-SO-1;   [05]
-BL-4   i. Calculate the probability that a randomly selected postgraduate student
-uses online learning platforms or attends seminars/workshops.
-ii. Calculate the probability that a randomly selected postgraduate student
-uses online learning platforms or attends seminars/workshops but not both.
-Q2
-a.   A quality control team in a battery manufacturing plant finds that 4 out of
-CO-3;   every 80 batteries are defective. Batteries are tested one by one.
-SO-1;   [06]
-BL-3   i. Determine the probability that the first defective battery is found on the 5th
-test.
-********** 1 **********
---- page 2 ---
-ii. Find the expected number of defective batteries.
-iii. Find the variance of the number of defective batteries.
-b.   In a library, there are 120 books classified as follows:
-Fiction   Non-Fiction   Total
-Available   40   30   70
-CO-1;   Issued   25   25   50
-SO-1;   [06]
-BL-2   Total   65   55   120
-Estimate the probability that a randomly selected book will be:
-i. Fiction given that it is available
-ii. Issued given that it is Non-Fiction.
-c.   The probability distribution of a random variable X is given below:
-X   -1   0   2   4
-CO-1;
-SO-1;   P (X = x)   0.2   0.35   0.25   0.20   [08]
-BL-5
-Evaluate the coefficient of kurtosis for the distribution and interpret the
-result.
-Q3
-a.   Let X and Y be two random variables each taking values -1, 0, 1 and having
-the joint probability distribution as
-X   -1   0   1
-CO-1;   Y
-SO-1;   -1   0.1   0.1   0   [06]
-BL-1
-0   0.2   0.2   0.1
-1   0.1   0.1   0.1
-Find (i) E[XY] and (ii) Var(Y)
-b.   The probability density function of continuous random variable is defined as
-CO-4;
-SO-1;   f ( x ) = k (2 x + 1) , 0  x  3 and f ( x ) = 0, otherwise . Determine the value of [06]
-BL-3   k and mean.
-c.   A factory produces LED bulbs, and from past data it is known that the lifespan
-of the bulbs follows a normal distribution with mean 1200 hours and standard
-CO-3;   deviation 100 hours.
-SO-1;   [08]
-(i) Find the percentage of bulbs whose lifespan lies between 1100 hours and
-BL-3
-1300 hours.
-(ii) Find the percentage of bulbs whose lifespan is greater than 1400 hours.
-Q4
-CO-1;   a.   Let ‘X’ be a random variable (RV) with the following probability distribution.
-SO-1;   [06]
-BL-1
-********** 2 **********
---- page 3 ---
-X   -2   -1   0   1   2
-P (X = x) 0.10   0.20   0.30 0.25 K
-Find K, mean and variance of ‘X’.
-b.   A two-dimensional random variable (X, Y) has the following probability
-density function.
-CO-4;   {𝐾(3𝑥𝑦+ 2𝑦2)   , 0 < 𝑥< 1 𝑎𝑛𝑑 0 < 𝑦< 2   [06]
-SO-1;   𝑓(𝑥, 𝑦) =
-0   ,   𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
-BL-3
-Determine (i) the value of K, (ii) marginal probability density functions, and
-(iii) expectations of X and Y.
-c.   A laboratory uses three testing devices 𝐷1, 𝐷2 and 𝐷3. The probability that a
-CO-2;   test is positive using 𝐷1 is 0.6, using 𝐷2 is 0.8, and using 𝐷3 is 0.5. One
-SO-1;   [08]
-device is selected at random and used to conduct 3 tests, giving 2 positive and
-BL-4
-1 negative result. Find the probability that device 𝐷2 was used.
-Q5
-CO-2;   a.   The first four moments of a distribution about the value 1 are 1.5, 2.8, 6.2,
-SO-1;   [06]
-and 18. Calculate the first four moments about the mean.
-BL-3
-CO-3; b.   With usual notation, find 𝑝 for a binomial distribution if n = 5 and
-SO-1;   [06]
-BL-1   6 P(X=3) = P(X=1). Also, find the mean and variance.
-c.   Let 𝑋 and 𝑌 be two random variables having joint probability distribution
-as given below:
-𝑌   0   1   2
-CO-1;
-SO-1;   𝑋   [08]
-BL-3   0   h   3h   2h
-1   2h   4h   6h
-2   3h   5h   4h
-Compute the values of (i) 𝐸[𝑋]; (ii) 𝐸[𝑌]; (iii) 𝐸[𝑋𝑌]; (iv) 𝐶𝑜𝑣 (𝑋, 𝑌).
-Q6
-a.   A box contains 12 balls, of which 5 are white, 4 are black, and 3 are orange.
-CO-1;   Three balls are drawn at random. Determine the probability that:
-SO-1;   i) all three balls are of different colours,   [06]
-BL-3   ii) all three balls are of the same colour,
-iii) exactly two balls are white.
-b.   If 3% of the electronic components produced by a factory are defective,
-CO-3;
-determine the probability that:   [06]
-SO-1;
-BL-3   i) at least one component is defective, and
-ii) exactly 5 components are defective in a sample of 120 components.
-CO-1;   c.
-SO-1;   The joint density function of the random variables 𝑋 and 𝑌 is given by:   [08]
-BL-1
-********** 3 **********
---- page 4 ---
-{6𝑥𝑦,   0 ≤𝑥≤1,   0 ≤𝑦≤1
-𝑓(𝑥, 𝑦) =
-0,   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
-Find (i) the marginal density function of 𝑋; (ii) the marginal density
-function of 𝑌; (iii) the conditional density of 𝑋; (iv) the conditional density
-of 𝑌.
-Q7
-a.   The average time required to process a customer at a bank counter is 4
-CO-3;   minutes. The service time follows an exponential distribution. Calculate the
-SO-1;   probability that:   [06]
-BL-3   i) a customer will take less than 1 minute to complete the service,
-ii) a customer will take more than 6 minutes for the service.
-b.   A two dimensional random variable (X,Y) has the   joint probability
-distribution as given below
-X   0   1   2
-CO-1;   Y
-SO-1;   [06]
-1   1/10   1/5   1/10
-BL-1
-2   1/20   1/10   1/20
-2   1/10   1/5   1/10
-Find E[Y] and E[X|Y=3].
-c.   If the probability density function of a random variable is
-CO-2;   f ( x ) = ke − 3 x , x  0, k  0 . Determine the moment generating function and
-SO-1;   [08]
-BL-3   first two raw moments. Also solve for mean and variance.
-********** 4 **********
---- page 5 ---
-Table of Standard Normal Distribution
-
-0 z
-
-Zz 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
-0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
-0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
-0.3 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-04 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
-0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-
-0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-08 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
-0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
-1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
-
-1A 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
-1.3 0.4032 04049 0.4066 0.4082 0.4099 0.4115 04131 0.4147 0.4162 0.4177
-1.4 04192 0.4207 0.4222 04236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
-1.5 0.4332 04345 0.4357 0.4370 0.4382 0.4394 04406 0.4418 0.4429 0.4441
-
-1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
-1:7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
-1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
-1.9 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
-2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
-
-2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
-2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
-2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
-2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-2.5 0.4938 0.4940 0.4941 0.4943 04945 0.4946 0.4948 0.4949 0.4951 0.4952
-
-2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
-2.7 04965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
-2.8 0.4974 0.4975 0.4976 0.4977 0.4977 04978 0.4979 0.4979 0.4980 0.4981
-2.9 0.4981 0.4982 04982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
-3.0 0.4987 «0.4987 —0.4987 ~—0.4988 ~—0.4988 ~— 0.4989 0.4989 — 0.4989 ~— 0.4990 —0.4990
-
-Note:
-
-Middle 50% area = + 0.6745 For any Normal Variate (with Mean = uy and Std. Deviation = o):
-Middle 90% area = + 1.6449 H+ 10 = 0.6827
-
-Middle 95% area = + 1.9600 H + 20 = 0.9545
-
-Middle 99% area = + 2.5758 y+ 30 = 0.9973
-
-FIC DI EH ar
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · paper e5fa42ff5752
@@ -1659,242 +1897,762 @@ BL-5
 ********** 3 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · paper e6cf97f6c594
+## 2023-24 · Final + Re-Exam · Sem 2 · paper 090e50059916
 
 - Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PROBABILITY AND RANDOM VARIABLES/Probability and Random Variables, Sem-II, Batch 2022-23, 2023-24 &2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 July 2026
-- Text: ocr (5 pages), mean OCR confidence 85.8
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PROBABILITY AND RANDOM VARIABLES/Probability and Random Variables, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/04/2024
+- Text: ocr (5 pages), mean OCR confidence 87.4
 
 ````text
 SVKM’S NMIMS
-Y MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Academic Year: 2025-26
-Program: B Tech/ MBA Tech (AI/AI&DS/AIML)
-Year: I. Semester: JI
-
-Subject: Probability and Random Variables .
-Time: 10.00 am to 1.00 pm (3 hrs)
-Date : 09 July 2026 .
-
-No. of Pages:_O5
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN'
+SCHOOL OF TECHNOLOGY MANAGEMENT 2
+Academic Year: 2023-2024 ~
+Programs: B. Tech/MBA Tech Year: I Semester: II
+Streams: AI, AIML, AIDS .
+Subject: Probability and Random Variables Time: 3 hrs (2 pm to 5pm )
+Date: 29/04/2024 No. of Pages: 5
 Marks: 100
 
-Re-Exam (2022-23/2023-24/2024-25)
+Final Examination/Re-Examination ( 2021-22, 2022-23 )
 
-Instructions:
-1. This question paper contains 5 pages.
-2. Question No._1___ is compulsory
-3. Out of remaining questions, attempt any __4 _ questions
-4. Inall__5_ questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks
-8. Assume Suitable data if necessary
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-ol Qi .
-a. For a continuous random variable X, the probability density function is given
-on asf (x)=kx(2-x),0<x<2 and f(x)=O,otherwise . Find k and [05]
-Bibel E[2x +5].
-b. The joint probability density function of a two dimensional random variable
-CO-4; } 1 -x-2
-SO-1: (X,Y) is Ff (xx)= Ze 2 3;x20,y20. Examine whether the variables X | [05]
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks,
+
+7) Assume Suitable data if necessary.
+
+Ql
+a. According to the U.S. Bureau of Labor Statistics, 75% of the women 25 through
+49 years of age participate in the labor force. Suppose 78% of the women in that
+age group are married. Suppose also that 61% of all women 25 through 49 years
+COo-1; of age are married and are participating in the labor force.
+_ ae i. Calculate the probability that a randomly selected woman in that age group is ne
+married or is participating in the labor force.
+ii. Calculate the probability that a randomly selected woman in that age group is
+married or is participating in the labor force but not both.
+CO-4; b. For a continuous random variable X, the probability density function is given as
+SO-1; 2 oo 2 [05]
+ae f(x)=k?,0<x<3 and f(x) =0,otherwise . Find k and E[ 2x? +5].
+Cc. The joint probability density function of a two dimensional random variable
+scr (%Y)is f (x, y) =xe*” “De > 0, y >0. Examine whether the variables X and | [05]
 BL-3
-and Y are independent.
-Co-3: a. There are 12 tickets numbered 1,2,...,12. One ticket is drawn at random.
-SO-1; Using uniform distribution, determine the probability that the ticket bears a | [05]
-BL-3 number which is: i. A multiple of 3; ii. A prime number.
-Cc d A survey of small businesses reports that 48% provide health insurance to
-their employees, while 65% provide paid vacation leave. Suppose 36% of the
-CO-1: businesses provide both health insurance and paid vacation leave.
-SO-1; Ifa small business is randomly selected, calculate the following probabilities: | [05]
-BL-4 i. The business provides health insurance or paid vacation leave.
-ii. The business provides health insurance but does not provide paid vacation
-leave.
-Q2 ,
-a, A quality inspector observes that 2 out of every 120 packaged food items are [06]
 
-defective. Items are checked one by one.
+Y are independent.
 
-FRG Fk ok
+1/5
 --- page 2 ---
-i. Determine the probability that the first defective item is found on the 8th
-inspection.
+CO-3; | d. A discrete random variable X follows a Uniform distribution with X assuming
 
-ii. Find the expected number of inspections until the first defegtive item
-occurs.
-
-iii. Find the standard deviation of the number of inspections until the first
-
-defective item occurs.
-
-A university has 400 students classified as follows:
-
-Engineering | Management Total
-Full time 120 80 200
-Part time 100 100 200
-[06]
-Total 220 180 400
-Estimate the probability that a randomly selected student will be:
-i. a Management student given that the student is Part-time
-ii. a Full-time student given that the student is from Engineering.
-The probability distribution of a random variable X is given below:
-xX] -3 1 4 6
-P(X=
-0.15 | 0.35} 0.3 0.2 [08]
-x) :
-Evaluate the coefficient of skewness for the distribution and interpret the
-result.
+ae the values as 1, 3, 5, 7, 9 and 11. Determine P(X < 5) and P(X = 7). Si
+Q2
+a. A light bulb manufacturing factory finds 3 in every 60 light bulbs defective.
+CO-3; Determine the probability that the first defective light bulb will be found when
+poe the 6" one is tested. Also, find the expected number of defective light bulbs, ioe]
+and the variance of defective light bulbs. .
+b. | Ina computer repairing shop, there are 100 computers as per the data given
+below. Estimate the probability that a computer selected at random will be (i) a
+CO-l: desktop given that it is working, (ii) not working given that it is a laptop.
+SO-1; Desktop | Laptop | Total [06]
+Bl-2 Woking. | 35 75 | 60
+Not working 30. 10 40
+Total 65 35 100
+c. The probability distribution of a random variable ‘X’ is given below. Evaluate
+mor the coefficient of kurtosis and interpret the result. [08]
+BL-5 X| -2 | 1 | 2 3
+P(X =x) | 0.25 | 0.3 | 0.2 | 0.25
 Q3
-Given a pair of discrete random variable X and Y whose joint probability
-distribution is given by
-xX 1 3
-CO-1; =
-SO-1; [06]
-BL-1 0 0.1 0.2
-1 . 0.15 0.25
-2 0.1 0.2
-Find (1) E[XY] and (ii) Var(Y) .
-CO-4; The probability density function of continuous random variable is defined as
--1: 06
-— f° , I(x) =k(2—x), O<x<2 Determine the value of k and mean. [06]
-— 7 on. In a normal distribution, 10% of the items are below 40 and 85% of the items
-0-1: are below 70. Determine the mgan and standard deviation of the normal | [08]
-BL-3 distribution.
-Q4
+a. Let ‘X’ be a random variable (RV) with the following probability distribution.
+CO-1; Find K, mean and variance of ‘X’.
+is XPi]2)31/415 ee
+P(X=x) ] 0.1] 0.2 | 0.3) 0.2.) K
+b. A two dimensional random variable (X, Y) has the following probability density
+cO-4; function. Determine (i) marginal probability density functions, and
+SO-1; (ii) expectations of X and Y. [06]
+BL-3 rena fo” O<x ch ani o<y<t
 
-FRI A kk ak a a
+2/5
 --- page 3 ---
-Let ‘X’ be arandom variable (RV) with the following probability distribution.
+7
 
-CO-1; xX| 2 4 -6 8 10 [06]
-“12 0
-Les P(X=x)| 0.05 | 0.15 | 0.25 | 0.30) K °
-Find K, mean and variance of ‘X’. :
-A two-dimensional random variable (X, Y) has the following probability
-density function.
-CO-4; fo y= fk@aty + 3x9") , O<x<2and0<y<1 [06]
-SO-1; a 0 , elsewhere
-BL-3
-Determine (1) the value of k, (ii) marginal probability density functions, and
-(ili) expectations of X and Y.
-In a bag, there are 8 fair coins and 6 biased coins with heads on both sides. A
-CO-2; coin is chosen at random and tossed 3 times. If heads occur all 3 times, [08]
-et i) calculate the probability that a fair coin was chosen, and
-ii) calculate the probability that a biased coin was chosen.
-|. Q5
-A random variable X has the probability mass function as
-CO-2; lg . . .
-SO-1: P(X =x)= i6 C,, X =0,1,2,3,4. Find the moment generating function of X | [06]
-BL-3 :
-and using moment generating find mean and variance.
-echa If 15% of the bulbs produced by a factory are defective, find the probability
-SO-1: that out of 6 bulbs chosen at random, i) none is defective, ii) exactly one is | [06]
-BL-1 defective, and iii) at most two are defective.
-EOnd The joint probability density function of X and Y is given by
-1; 3
-SO-1: Fay) =5@* +y*); O<x<1, O<y<l. [08]
-BL-3 Compute the values of (i) E[X]; (ii) E[Y]; (iii) ELXY]; (iv) Cov (X,Y).
-Cr) Q6
-An urn contains 4 red, 6 blue, and 8 green balls. Two balls are drawn at
-CO-1; random. Determine the probability that:
-SO-1; i) both balls are of the same colour, [06]
-BL-3 ii) both balls are blue,
-— iii) one ball is red and the other is green.
-A printing press produces books, and it is observed that 0.05% of the books
-om Beek: have misprints. The books are packed in bundles of 600 books each. A
-ee; bookstore orders 80 bundles. Determine the number of bundles that will
-SO-1; i [06]
-BL-3 contain:
+c. In a bag, there are 10 true coins and 7 false coins with tails on both the sides, A
 
-i) no misprinted books,
-li) at least 2 misprinted books.
+CO-2; ;
+50-1 coin is chosen at random tossed 3 times. If tails occurs all 3 times, i) calculate
+ak: n the probability that.a true coin was chosen, and ii) calculate the probability that
+a false coin was chosen.
+Q4
+CO-2; | a.
+on The first four moments of distribution about the value 2 are 1, 2.5, 5.5, and 16. [06]
+; Calculate the four moments about the mean. i
+BL-3 ;
+CO-3; | b. . .
+6-1 With usual notation, find p for a binomial distribution ifn = 6 and [06]
+BL , 9P(X = 4) = P(X = 2). Also, find mean and variance. ;
+C. Let X and Y be two random variables having joint probability distribution as
+given below:
+CO-L: Y 0 1 2 3
+SO-1; xX [08]
+BL-3 0 h 2h 3h 4h
+1 4h 6h 8h 2h
+2 9h 12h 3h 6h
+Compute the values of (i) E[X]; (ii) E[Y]; Gii) E [XY]; (iv) Cov (X,Y).
+Q5
+CO-1; | a An urn contains nine balls, two of which are red, three blue and four black.
+SO-1; Three balls are drawn from the urn at random. Determine the probability that [06]
+BL-3 (i) the three balls are of different colours, ii) the three balls are of the same
+colour and iii) the three balls are blue.
+b. A manufacturer, who produces medicine bottles, finds that 0.1% of the bottles
+CO-3; are defective. The bottles are packed in boxes containing 500 bottles. A drug
+SO-1; manufacturer company buys 100 boxes from the producer of bottles. [06]
+BL-3 Determine the number of boxes that will contain i) no defective bottles and ii)
+atleast 2 defective bottles.
+CO-1; | c.
+: The joint density function of the random variables X and Y is given by:
+SO-1; fe y= fr O<xsl1, O<sy<sx [08]
+BL-1 I= 0, otherwise
 
-FFI 3 Fa i kk ak
+3/5
 --- page 4 ---
-The joint probability density function of a two dimensional random variable
+Find (i) the marginal density function of X; (ii) the marginal density function®
+of Y; (iii) the conditional density of X; (iv) the conditional density of Y.
 
-aoe (SY) is f(x,y) =2(x+y);0<x<10< <1. Find the marginal cumulative [08]
-BL-1 , distribution function of X and conditional probability density funcfion of x i
-given Y. ~
+Q6
+
+CO-3; | a. The average time it takes to serve a customer at a petrol pump is 6 minutes.
+
+SO-1: The service time follows exponential distribution. Calculate the probability [06]
+ar, ‘ that i) a customer will take less than 2 mins to complete the service. ii) a
+
+customer will take more than 10 mins for his service.
+
+‘|b. A two dimensional random variable (X,Y) has the joint probability distribution
+as given below :
+
+CO-1; a 0 1
+SO-1; ks [06]
+
+0 0.1 0.15
+ac i 0.2 03
+
+2 0.1 0.15
+
+Find E[X] and EfX|Y=1].
+CO-2; | ¢ If the probability density function of a random variable is
+SO-1; f(xj=ke™, x>0;k>0. Determine the moment generating function and [08]
+BL-3 first two raw moments. Also solve for mean and variance.
 Q7
-CO-3; | a. . . . : ee .
-SO-1: If X is arandom variable which follows an exponential distribution with [06]
-BL-3. parameter 2 with P(X >3)=2P(X <3) , determine the value of 2.
-b. A two dimensional random variable (X,Y) has the joint probability
+a. Let X and Y be two random variables each taking values -1, 0, 1 and having
 
-distribution as given below
+the joint probability distribution as
 
-ae i 2 4
-CO-1;
-Li [06]
+CO-1; a “I 0 1
+Y [06]
 
-SO-1;
-BL-I 2 1/16 1/8 1/16
+io ‘i 0 0.1 0.1
+Bel 0 0.2 0.2 02
+1 0 0.1 0.1
+Find (i) ELXY] and (ii) Var(X)
 
-3 1/8 1/4 1/8
+CO-4; | b.
+S0-1; The probability density function of continuous random variable is defined as [06]
+— f(x) =k(Bx’ -1) , -1<.x <2. Determine the value of k and mean.
+CO-3: c. A manufacturer knows from his experience that the resistances of resistors he
 
-5 1/16 1/8 1/16
+> produces follows normal distribution with mean 100 ohms and SD 2 ohms. i)
+SO-1, Compute the percentage of resistors that will have resistances between 98 ohms [08]
+BL-3 and 102 ohms ii) Compute the percentage of resistors that will have resistance
 
-Find E[Y] and E[X|/Y=5].
-c. Determine the moment generating function of a random variable X having
+greater than 105 ohms.
 
-CO-2; ; ; 2x/9 O<x<3 . a
-SO-1; density function f(x) = : . Also find the first two [08]
-BL-3 0 otherwise
+4/5
+--- page 5 ---
+Table of Standard Normal Distribution
 
-moments about the origin.
+i z
 
-FOI ICR 2 CIC I GR a
+z 0.00 0.04 0.02 0.03 0.04 0.05 0.06 0.07, 0.08 0.09
+0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
+0.14 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+0.3 0.4179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+
+a 0.4 0.1554 01591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+0.7. 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
+411 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+1.3 0.4032 0.4049 0.4066 0.4082 0.4099 04115 0.4131 04147 04162 0.4177
+1.4 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+1.5 04332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
+1.6 0.4452 04463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
+1.7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
+1.8 0.4641 0.4649. 04656 0.4664 04671 0.4678 0.4686 0.4693 0.4699 0.4706
+1.9 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
+2.0 0.4772 04778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846. 0.4850 0.4854 0.4857
+2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
+24 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+2.5 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
+2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+2.7 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+2.8 0.4974 04975 04976 04977 04977 04978 04979 04979 0.4980 0.4981
+2.9 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 04985 0.4985 04986 0.4986
+
+. 3.0 (0.4987 —0.4987. «0.4987 ~—s0.4988 ~—0.4988 ~—s 0.4989 ~— 0.4989 0.4989 «0.4990 __—0.4990
+i Note:
+
+Middle 50% area = + 0.6745 For any Normal Variate (with Mean = y and Std. Deviation = 0):
+
+Middle 90% area = + 1.6449 H + 10 = 0.6827
+
+Middle 95% area = + 1.9600 H+ 20 = 0.9545
+
+Middle 99% area = + 2.5758 yu + 30 = 0.9973
+
+5/5
+````
+
+## 2023-24 · Re-Exam · Sem 2 · paper 2bc93dbb77ef
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PROBABILITY AND RANDOM VARIABLES/Probability & Random Variables, Re-exam 2021-22,2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 87.2
+
+````text
+/ . AL,
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+Programs: B. Tech/MBA Tech Year: I Semester: II
+Streams: AI, AIML, AIDS
+
+Subject: Probability and Random Variables : Time: 3 hrs (2 pm to Spm )
+Date:__1/07/2024 No. of Pages: 5
+Marks: 100
+
+‘Re-Examination ( 2021-22, 2022-23 )
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+[Qi
+a. The U.S. Bureau of Labor Statistics publishes data on the benefits offered by
+small companies to their employees. Only 42% offer retirement plans while 61%
+CO-I; offer life insurance. Suppose 33% offer both retirement plans and life insurance
+SO-I; as benefits. If a small company is randomly selected, calculate the following | [05]
+> BL-4 probabilties:
+i. The company offers life insurance or a retirement plan.
+ii. The company offers a retirement plan and does not offer life insurance.
+CO-4; b. For a continuous random variable X, the probability density function is given as
+ok S (x)= k(I —x? ),0 <x<l and f(x)=0,otherwise. Find k and E[3X +4]. [05]
+c. The joint probability density function of a two dimensional random variable
+CO-4; } -2-2
+SO-1; (X,Y) is f(uy)=s5e 4 3;x20,y20. Examine whether the variables X | [05]
+BL-3
+and Y are independent. s
+
+1/5
+--- page 2 ---
+i
+
+d. There are 10 tickets numbered 1,2,...,10. One ticket is drawn at random. By
+
+a. using uniform distribution, determine the probability that the ticket bears a [05]
+BL-3 number which is (i) even and (ii) perfect square.
+
+Q2 ¥
+
+CO-3; a. A buyer finds 1 of every 100 steel rods defective. Determine the probability
+
+SO-1; that the first defect occurs on the 9" steel rod. Also, find the expected number | [06]
+BL-3
+
+of defective light bulbs, and the standard deviation of defective light bulbs.
+
+b. There are 500 books in a library as per the data given below. Estimate the
+probability that a book selected at random will be (i) an e-book given that it is
+
+on a historical fiction, (ii) on a science fiction given that it is a print book.
+
+Di Science fiction | Historical fiction | Total [06]
+tai Print book 150 50 200
+E-book 100 200 300
+Total 250 250 500
+( The probability distribution of a random variable ‘X’ is given below. Evaluate
+CO-1; the coefficient of skewness and interpret the result.
+SO-1; [08]
+BL-5 X|-5 | 2] 3 4] 5
+P(X =x) | 0.1 | 0.4] 0.4] 0.1
+Q3
+CELT: a. Let ‘X’ be a random variable (RV) with the following probability distribution.
+
+Find K, mean and variance of ‘xX’.
+
+SO-1; [06]
+X; 5 1|6),7)819
+
+BL-1
+P(X =x) | 0.2} 0.2/0.2} K]K
+b. A two dimensional random variable (X, Y) has the following probability density
+CO-4: function. Determine (i) marginal probability density functions, and
+SO-I: (ii) expectations of X and Y. [06]
+2
+Be peep = [O75 » O<xerandocy <3
+
+€
+
+2/5
+--- page 3 ---
+a
+
+A man has three coins A, B, and C. Coin A is unbiased. The probabilitysthat
+
+CO-2; head will result when coin B is tossed is 0.6667. The probability that head will
+SO-1; result when coin C is tossed is 0.3333. If one of the coins is chosen at random, | [08]
+BL-4 tossed three times, and it gave two heads and one tail, calculate the probability
+that coin A was chosen and tossed.
+Q4
+CO-2: A random variable X has the probability mass function as
+SO-1; P(X =x)= ; °C,, X =0,1,2,3. Find the moment generating function of X [06]
+BL-3 . . :
+and using moment generating find mean and variance.
+CO-3; If 10% of the screws produced by a machine are defective, find the probability
+SO-1; that out of 5 screws chosen at random, i) none is defective, ii) one is defective | [06]
+BL-1 and iii) atmost two are defective.
+CO-1; _ . . ae
+The joint probability density function of X and Y is given by
+SO-1; f(y) =2-x-y; 0<x<l, O<sySl. [08]
+BL-3 Compute the values of (i) E[X]; (ii) E[Y]; (iti) E[XY]; (iv) Cov (X,Y).
+Q5
+CO-1; . a
+Consider a bag containing 5 red, 4 blue, and 9 green marbles. Two marbles are
+SO-1; selected from the bag at random. Determine the probability that i) both are of [06]
+BL-3 same colour, ii) both are red, and iii) one is blue and other is green.
+CO-3; If 2% of the lightbulbs produced by the company are defective, then determine
+SO-1; the probability that i) atleast one is defective, and ii) exactly 7 are defective in | [06]
+BL-3 a sample of 100.
+CO-I: The joint probability density function of a two dimensional random variable
+SO-1; (XY) is f(x,y) = 5x60 <x<2,y>0. Find the marginal cumulative [08]
+BL-1 distribution function of X and conditional probability density function of X
+given Y.
+Q6
+CO-3; If X is a random variable which follows an exponential distribution with
+-1: 06
+a : parameter 2 with P(X <1) = P(X >1) , determine the value of 2. , [06]
+
+3/5
+--- page 4 ---
+4
+
+b. A two dimensional random variable (X,Y) has the joint probability distgibution
+as given below ae
+
+cost 2, 1 2 3
+Me
+
+Bou; 2 178 1/24 12 [ae]
+Bl+l 4 1/4 1/4 0
+6 1/8 1/24 1/12
+Find E[Y] and E[X|Y=6].
+CO-2: | ¢ Determine the moment generating function of a random variable X having
+/2 O0<x<2
+SO-1; density. function f(x) = 7 ~ . Also find the first two moments | [08]
+0 otherwise
+BL-3 about the origin.
+Q7
+a. Given a pair of discrete random variable X and Y whose joint probability
+distribution is given by
+CO-1; x 2 :
+1; ¥
+SO-1; [06]
+BL-1 1 0.1 0.15
+2 0.2 0.3
+3 0.1 0.15
+Find (i) E[XY] and (ii) Var(Y) .
+CO-4; | b.
+SO-1: The probability density function of continuous random variable is defined as [06]
+BL. 3 Sf (x) = k(4x-2x’) , 0< x <2.Determine the value of k and Mean.
+CO-3; | c.
+SO-1: Determine the mean and standard deviation of the normal distribution in which [08]
+“a 3 7 % of items are under 35 and 89% are under 63.
+
+4/5
 --- page 5 ---
 Table of Standard Normal Distribution
 
 z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
-
 0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
 0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 01103 01141
-0.3 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 01406 01443 0.1480 0.1517
+0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+0.3 0.4179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
 0.4 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
 0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 02486 0.2517 0.2549
+
+0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
 0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 03078 03106 0.3133
-0.9 0.3159 03186 0.3212 0.3238 0.3264 0.3289 03315 0.3340 0.3365 0.3389
-1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 03577 0.3599 0.3621
-i 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-1.2 0.3849 0.3869 03888 0.3907 0.3925 0.3944 0.3962 03980 03997 0.4015
-1.3 0.4032 04049 04066 0.4082 04099 04115 04131 04147 04162 0.4177
-1.4 0.4192 0.4207 0.4222 0.4236 04251 04265 0.4279 0.4292 0.4306 0.4319
-45 0.4332‘ 0.4345 0.4357 0.4370 04382 0.4394 0.4406 0.4418 0.4429 0.4441
-1.6 0.4452 0.4463 04474 0.4484 04495 0.4505 0.4515 0.4525 04535 0.4545
-1.7 0.4554 04564 04573 0.4582 04591 04599 04608 0.4616 0.4625 0.4633
-1.8 0.4641 04649 04656 0.4664 04671 04678 0.4686 0.4693 0.4699 0.4706
-19 0.4713 04719 04726 04732 04738 04744 04750 04756 0.4761 0.4767
-2.0 0.4772 04778 0.4783 0.4788 04793 04798 0.4803 0.4808 0.4812 0.4817
-2.1 0.4821 0.4826 0.4830 0.4834 04838 0.4842 0.4846 0.4850 0.4854 0.4857
-22 0.4861 0.4864 0.4868 0.4871 04875 0.4878 0.4881 0.4884 0.4887 0.4890
-a3 0.4893 04896 04898 0.4901 04904 04906 04909 0.4911 04913 0.4916
-2.4 0.4918 0.4920 04922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-2.8 0.4938 04940 04941 04943 04945 04946 04948 0.4949 0.4951 0.4952
-2.6 0.4953 04955 0.4956 04957 04959 04960 0.4961 0.4962 04963 0.4964
-27 0.4965 04966 0.4967 04968 04969 0.4970 0.4971 0.4972 0.4973 0.4974
-2.8 0.4974 04975 0.4976 04977 04977 0.4978 04979 0.4979 0.4980 0.4981
+0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
+
+14 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+1.3 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 04147 0.4162 0.4177
+1.4 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+1.5 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
+
+1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
+1.7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
+1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+1.9 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
+2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+
+ait 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
+2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+2.5 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 04948 0.4949 0.4951 0.4952
+
+2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+2.7 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+2.8 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
 2.9 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
-3.0 0.4987 0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 0.4990
+3.0 0.4987 0.4987 _0.4987__—~0.4988__—0.4988 ~—s0.4989 0.4989 0.4989 — 0.4990 __—d0.4990
 
 Note:
 
-Middle 50% area = + 0.6745 For any Normal Variate (with Mean = y and Std. Deviation = o):
+Middle 50% area = + 0.6745 For any Normal Variate (with Mean = p and Std. Deviation = 0):
+Middle 90% area = + 1.6449 H + 10 = 0.6827 :
 
-Middie 90% area = + 1.6449 u + to = 0.6827
+Middle 95% area = + 1.9600 p + 20 = 0.9545
 
-Middle 95% area = + 1.9600 H + 20 = 0.9545
+Middle 99% area = + 2.5758 yp + 30 = 0.9973
 
-Middle 99% area = + 2.5758 yu + 30 = 0.9973
+5/5
+````
 
-FRI IIOR Da aOR kk a ak a
+## 2022-23 · Exam not stated · Sem 2 · paper 597a0a2b79bf
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/PROBABILITY AND RANDOM VARIABLES/Probability and Random Variables.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 78.5
+- 20 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program : Btech AI, AIML,AIDS /MBA tech Al Z-Year Semester: II
+
+Subject: Probability & random variables Time: 3 hrs (Aitecamto 2100 pm )
+Date:_15/05 /2023. No. of Pages: 5 _
+
+Marks:100
+
+Final Examination / Re~- Examination.
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly:
+CO-1; a. a > 5 CUBE
+SO-1; If P(A)=0.6, P(B)=0.7 and P(AUB) =0.9, then obtain P(BJA) and P(A°UB?). (5 marks)
+BL-1
+CO-3; b. | The probability mass function of a random variable X is zero except at the (5 marks)
+SO-1; points X=0, 1, 2. At these points it is as follows
+BL-2 P(0) = 3c’, P(1) = 4ce-10c’, P(2)=5e-1.
+Determine,
+
+i. c
+
+ii, Find P(X <1),P(1< X <2),P0<X <2)
+CO-1; c. | Suppose a fair six-sided die is rolled twice. Let X be the result of the first roll, and Y | (5 marks)
+SO- 1; be the result of the second roll. Find the joint probability distribution of X and Y.
+BL-2
+
+What is the probability that the sum of the two rolls is 10?
+
+What is the probability that the first roll is greater than the second roll?
+
+Page | 1
+--- page 2 ---
+CO- 2; d. | The probability of students entering chartered accountant will graduate is 0.5. (5 marks)
+
+SO-1; Determine the probability that out of 10 students,
+BL-2
+
+i. None will graduate.
+
+ii. One will graduate.
+
+iii. At least one will graduate.
+Q2 ali. . : ;
+
+Find out the fallacy of the statement: “If X is a Poisson variate such that
+
+CO- 3; P(X =2)=9P(X = 4)+90P(X = 6) Then mean of X is 1.” (7marks)
+— Also state variance and standard deviation.
+
+b | Two random variables x & y have the following Joint probability function.
+
+Determine,
+(i) Marginal distribution of X and Y
+(ii) the conditional probability distribution of X given Y=]
+
+CO-4;
+SO-1; (iii) the conditional probability distribution of Y=2 given X=1. (7 marks)
+BL-4
+
+f@y) = ax bey, where x =1,2and y =1,2
+
+198
+
+CO.2: c. | In a school, 60% of the students are girls and 40% are boys. Among the girls, 50%
+SO-1: like to play soccer, while among the boys, 80% like to play soccer. If a student is (6 marks)
+BL- 4 selected at random what is the probability that they would like to play soccer?
+Q3 a. | A study found that the amount of time spent on social media per day by high school
+CO-4: students is normally distributed with a mean of 3 hours and a standard deviation of (Tmarks)
+SO-1 : 1.2 hours. What is the probability that the time spent on social media per day is less
+BL- 5 than 2.5 hours?
+CO-4; b. | Two random variables x & y have the following Joint probability function.
+80-1; Determine
+BL-3 7
+
+(i) Marginal distribution of X and Y
+
+(ii) expected values of X and Y i. e. E[X], E[Y].
+(7 marks)
+
+_(t-y , O<x<land0<y<1
+fayn={ 0 elsewhere
+
+,
+
+Page | 2
+--- page 3 ---
+CO-2; c. | A school has 120 students in total, of which 40 are in the science club, 60 are in the J
+
+SO- 1; music club, and 20 are in both clubs. If a student is selected at random, what is the (6 marks)
+BL-3 probability that they are not in either club?
+Q4 a. | The heights of adult women in a certain population are normally distributed with a
+
+mean of 65 inches and a standard deviation of 3 inches. If the top 5% of women in
+
+So this population are eligible to participate in a modeling competition, what is the his)
+BL-3 minimum height required to participate in the competition?
+COo- 1; b. | A two dimensional random variable (X, Y) has the following joint probability
+SO-1; function. Find k, P(X < 2,¥ <1), P(Y = 1), P(X <3), and P(X <4,Y = 0).
+= kx(y?) 1,2,3,4,5 and a
+— kx , x*=1,2,3,4,5andy=0,1
+fey) { 0 F elsewhere
+
+CO-1; c. | Suppose you have a bag containing 10 marbles, of which 4 are red and 6 are green. If|
+SO-1; two marbles are drawn simultaneously at random from the bag. What is the expected | (6 marks)
+BL-3 number of red marbles drawn?
+Q5 a | Jn acertain factory manufacturing razor blade, there is a small chance of 0.002 for
+cO-3: any blade to be defective. The blades are supplied in packets of 10. Use Poisson
+So- iis distribution to calculate the approximate no. of packets containing no defective, (7marks)
+BL- 4 one defective and two defective blades respectively in a consignment of 50000
+
+packets.
+CO-2; b | There are three bags; first containing 1 white, 2 red, 3 green balls; second 2 white,
+SO-1; 3 red, 1 green ball and third 3 white, 1 red, 2 green balls. Two balls are drawn from
+BL-2 a bag chosen at random. These are found to be one white and one red. Find the | (7 marks)
+
+probability that the balls so drawn came from the second bag.
+CO-1; c. | A random variate X has the probability distribution;
+$0-2;
+BL2 x -3 6 9
+
+P(X=x) 1/6 Ys 1/3
+k
+
+Find E(X), ECX?) and E(2X+1)? (Smarks)
+Q6 a | Fit a binomial distribution for the following data:
+Beak x: 0 1 2 3 4 (Tmarks)
+
+|:
+i 4 36 25 5
+BL-3 if 5 29
+CO-2; b | A. random variable X has the density function given by
+SO-1; 2e* x20
+Pa x)=
+
+BL-3 I) {e ab (7 marks)
+
+Find,
+
+Page | 3
+--- page 4 ---
+(a) the moment generating function and
+
+(b) the first four moments about origin.
+
+CO-4; c. | Calculate covariance between X and Y.
+SO- 1; x ] 2 3 4 (6 marks)
+BL-2
+Y 5 6 a 8
+Q7 a | A fair coin is tossed 4 times. Define the sample space corresponding to
+
+this random experiment. Also give the subsets corresponding to the
+
+Sire following events and find the respective probabilities.
+BL-2 a. More heads than tails are obtained.
+b. Tails occur on the even numbered tosses.
+(7marks)
+CO-2; b | A random variable X has the following probability distribution
+SO-1;
+BL-2 x 0 1 2
+pX) [13 | 13 113 (7 marks)
+Find the moment generating function, first four raw moments and the first four central
+moment.
+CO-3; c. | The mileage which car owners get a certain kind of radial tire is a random variable
+SO-1; having an exponential distribution with mean 40,000 km. Find the probabilities that
+BL-2 one of these tires will last, (6 marks)
+
+i. At least 20,000 km
+ii. At most 30,000 km
+
+OR dC
+
+Page | 4
+--- page 5 ---
+STANDARD NORMAL TABLE (Z)
+
+Entries in the table give the area under the curve
+between the mean and z standard deviations above
+the mean. For example, for z = 1.25 the area under
+the curve between the mean (0) and z is 0.3944.
+
+0.00! 0.01| 0.02/ 0.03| 0.04] 0.05| 0.06| 0.07) 0.08/ 0.09
+
+0.0000 0.0040 0.0080 0.0120 0.0160 0.0190 0.0239 0.0279 0.0319 0.0359
+0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+0.2881 0.2910 0.2939 0.2969 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+0.3413 0.3438 0.3461 0.3485 0.3508 0.3513 0.3554 0.3577 0.3529 0.3621
+0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+| 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162 0.4177
+0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+| 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
+0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
+0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
+0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
+0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
+4| 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+2.5 | 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
+2.6} 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+27 | 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+
+2.8| 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
+
+2.9| 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
+
+3.0| 0.4987 0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 0.4990
+
+3.1| 0.4990 0.4991 0.4991 0.4991 0.4992 0.4992 0.4992 0.4992 0.4993 0.4993
+
+3.2| 0.4993 0.4993 0.4994 0.4994 0.4994 0.4994 0.4994 0.4995 0.4995 0.4995
+
+3.3| 0.4995 0.4995 0.4995 0.4996 0.4996 0.4996 0.4996 0.4996 0.4996 0.4997
+
+3.4| 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4998
+
+Page | >
+--- page 6 ---
+PM IsaT Jono CeacHtTe
+
+@rrss oF won Seed 2 ey pee ete) So
+SuoMS MORAL WaS Boe kot hot fe oer Ge eS 4
+
+
+n I
+
+300 foog [tae img oa> Jee tog Tee lee loo
+
+htm fore bee Gf eke sein eon Nate gee nemo Eo |
+
+(REO “teteo THD (ered UR Wee se Re fee Fie
+
+(SRO WER SSO SSETD SH RE EST At WE Sess | on)
+SMe esto pees AGG TE SE <r Gate aemlr — i
+lgeree” mee aes ret Syern lass BIO file wees
+
+ObEe oreé) o8fEt Orc Bete ERS Seo she) ero
+fet _Seee G00 Cae Mert Fee etm Ae ted
+[eM Bek SEA See) ces A es fie Pe
+AThe CSR Poe Seer (Ce FD Pe zee ORE
+Wet, Des Mo PRS we te) Pies (Bete Tes
+RT OG BAN De BTA ONS eR ete
+Te Se ORO Oe eS Eo eee 6 | ee
+ee es ee 2) ee ee
+STO kD Tweak Nea Ooo Toe ReaD Tk 6 Bee
+S060 ORRe FBSA EAS MPS Met Ce) aM «(Se
+Cee CPGAS GAO CMR eee DNA reed: bet en
+(sO AO BRO nal AeA os a mess *star
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper e6699269781a
@@ -2294,475 +3052,6 @@ the curve between the mean (0) and z is 0.3944.
 Page | &
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 2 · paper 090e50059916
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PROBABILITY AND RANDOM VARIABLES/Probability and Random Variables, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/04/2024
-- Text: ocr (5 pages), mean OCR confidence 87.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN'
-SCHOOL OF TECHNOLOGY MANAGEMENT 2
-Academic Year: 2023-2024 ~
-Programs: B. Tech/MBA Tech Year: I Semester: II
-Streams: AI, AIML, AIDS .
-Subject: Probability and Random Variables Time: 3 hrs (2 pm to 5pm )
-Date: 29/04/2024 No. of Pages: 5
-Marks: 100
-
-Final Examination/Re-Examination ( 2021-22, 2022-23 )
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks,
-
-7) Assume Suitable data if necessary.
-
-Ql
-a. According to the U.S. Bureau of Labor Statistics, 75% of the women 25 through
-49 years of age participate in the labor force. Suppose 78% of the women in that
-age group are married. Suppose also that 61% of all women 25 through 49 years
-COo-1; of age are married and are participating in the labor force.
-_ ae i. Calculate the probability that a randomly selected woman in that age group is ne
-married or is participating in the labor force.
-ii. Calculate the probability that a randomly selected woman in that age group is
-married or is participating in the labor force but not both.
-CO-4; b. For a continuous random variable X, the probability density function is given as
-SO-1; 2 oo 2 [05]
-ae f(x)=k?,0<x<3 and f(x) =0,otherwise . Find k and E[ 2x? +5].
-Cc. The joint probability density function of a two dimensional random variable
-scr (%Y)is f (x, y) =xe*” “De > 0, y >0. Examine whether the variables X and | [05]
-BL-3
-
-Y are independent.
-
-1/5
---- page 2 ---
-CO-3; | d. A discrete random variable X follows a Uniform distribution with X assuming
-
-ae the values as 1, 3, 5, 7, 9 and 11. Determine P(X < 5) and P(X = 7). Si
-Q2
-a. A light bulb manufacturing factory finds 3 in every 60 light bulbs defective.
-CO-3; Determine the probability that the first defective light bulb will be found when
-poe the 6" one is tested. Also, find the expected number of defective light bulbs, ioe]
-and the variance of defective light bulbs. .
-b. | Ina computer repairing shop, there are 100 computers as per the data given
-below. Estimate the probability that a computer selected at random will be (i) a
-CO-l: desktop given that it is working, (ii) not working given that it is a laptop.
-SO-1; Desktop | Laptop | Total [06]
-Bl-2 Woking. | 35 75 | 60
-Not working 30. 10 40
-Total 65 35 100
-c. The probability distribution of a random variable ‘X’ is given below. Evaluate
-mor the coefficient of kurtosis and interpret the result. [08]
-BL-5 X| -2 | 1 | 2 3
-P(X =x) | 0.25 | 0.3 | 0.2 | 0.25
-Q3
-a. Let ‘X’ be a random variable (RV) with the following probability distribution.
-CO-1; Find K, mean and variance of ‘X’.
-is XPi]2)31/415 ee
-P(X=x) ] 0.1] 0.2 | 0.3) 0.2.) K
-b. A two dimensional random variable (X, Y) has the following probability density
-cO-4; function. Determine (i) marginal probability density functions, and
-SO-1; (ii) expectations of X and Y. [06]
-BL-3 rena fo” O<x ch ani o<y<t
-
-2/5
---- page 3 ---
-7
-
-c. In a bag, there are 10 true coins and 7 false coins with tails on both the sides, A
-
-CO-2; ;
-50-1 coin is chosen at random tossed 3 times. If tails occurs all 3 times, i) calculate
-ak: n the probability that.a true coin was chosen, and ii) calculate the probability that
-a false coin was chosen.
-Q4
-CO-2; | a.
-on The first four moments of distribution about the value 2 are 1, 2.5, 5.5, and 16. [06]
-; Calculate the four moments about the mean. i
-BL-3 ;
-CO-3; | b. . .
-6-1 With usual notation, find p for a binomial distribution ifn = 6 and [06]
-BL , 9P(X = 4) = P(X = 2). Also, find mean and variance. ;
-C. Let X and Y be two random variables having joint probability distribution as
-given below:
-CO-L: Y 0 1 2 3
-SO-1; xX [08]
-BL-3 0 h 2h 3h 4h
-1 4h 6h 8h 2h
-2 9h 12h 3h 6h
-Compute the values of (i) E[X]; (ii) E[Y]; Gii) E [XY]; (iv) Cov (X,Y).
-Q5
-CO-1; | a An urn contains nine balls, two of which are red, three blue and four black.
-SO-1; Three balls are drawn from the urn at random. Determine the probability that [06]
-BL-3 (i) the three balls are of different colours, ii) the three balls are of the same
-colour and iii) the three balls are blue.
-b. A manufacturer, who produces medicine bottles, finds that 0.1% of the bottles
-CO-3; are defective. The bottles are packed in boxes containing 500 bottles. A drug
-SO-1; manufacturer company buys 100 boxes from the producer of bottles. [06]
-BL-3 Determine the number of boxes that will contain i) no defective bottles and ii)
-atleast 2 defective bottles.
-CO-1; | c.
-: The joint density function of the random variables X and Y is given by:
-SO-1; fe y= fr O<xsl1, O<sy<sx [08]
-BL-1 I= 0, otherwise
-
-3/5
---- page 4 ---
-Find (i) the marginal density function of X; (ii) the marginal density function®
-of Y; (iii) the conditional density of X; (iv) the conditional density of Y.
-
-Q6
-
-CO-3; | a. The average time it takes to serve a customer at a petrol pump is 6 minutes.
-
-SO-1: The service time follows exponential distribution. Calculate the probability [06]
-ar, ‘ that i) a customer will take less than 2 mins to complete the service. ii) a
-
-customer will take more than 10 mins for his service.
-
-‘|b. A two dimensional random variable (X,Y) has the joint probability distribution
-as given below :
-
-CO-1; a 0 1
-SO-1; ks [06]
-
-0 0.1 0.15
-ac i 0.2 03
-
-2 0.1 0.15
-
-Find E[X] and EfX|Y=1].
-CO-2; | ¢ If the probability density function of a random variable is
-SO-1; f(xj=ke™, x>0;k>0. Determine the moment generating function and [08]
-BL-3 first two raw moments. Also solve for mean and variance.
-Q7
-a. Let X and Y be two random variables each taking values -1, 0, 1 and having
-
-the joint probability distribution as
-
-CO-1; a “I 0 1
-Y [06]
-
-io ‘i 0 0.1 0.1
-Bel 0 0.2 0.2 02
-1 0 0.1 0.1
-Find (i) ELXY] and (ii) Var(X)
-
-CO-4; | b.
-S0-1; The probability density function of continuous random variable is defined as [06]
-— f(x) =k(Bx’ -1) , -1<.x <2. Determine the value of k and mean.
-CO-3: c. A manufacturer knows from his experience that the resistances of resistors he
-
-> produces follows normal distribution with mean 100 ohms and SD 2 ohms. i)
-SO-1, Compute the percentage of resistors that will have resistances between 98 ohms [08]
-BL-3 and 102 ohms ii) Compute the percentage of resistors that will have resistance
-
-greater than 105 ohms.
-
-4/5
---- page 5 ---
-Table of Standard Normal Distribution
-
-i z
-
-z 0.00 0.04 0.02 0.03 0.04 0.05 0.06 0.07, 0.08 0.09
-0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
-0.14 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
-0.3 0.4179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-
-a 0.4 0.1554 01591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
-0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-0.7. 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
-0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
-1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
-411 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
-1.3 0.4032 0.4049 0.4066 0.4082 0.4099 04115 0.4131 04147 04162 0.4177
-1.4 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
-1.5 04332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
-1.6 0.4452 04463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
-1.7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
-1.8 0.4641 0.4649. 04656 0.4664 04671 0.4678 0.4686 0.4693 0.4699 0.4706
-1.9 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
-2.0 0.4772 04778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
-2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846. 0.4850 0.4854 0.4857
-2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
-2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
-24 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-2.5 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
-2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
-2.7 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
-2.8 0.4974 04975 04976 04977 04977 04978 04979 04979 0.4980 0.4981
-2.9 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 04985 0.4985 04986 0.4986
-
-. 3.0 (0.4987 —0.4987. «0.4987 ~—s0.4988 ~—0.4988 ~—s 0.4989 ~— 0.4989 0.4989 «0.4990 __—0.4990
-i Note:
-
-Middle 50% area = + 0.6745 For any Normal Variate (with Mean = y and Std. Deviation = 0):
-
-Middle 90% area = + 1.6449 H + 10 = 0.6827
-
-Middle 95% area = + 1.9600 H+ 20 = 0.9545
-
-Middle 99% area = + 2.5758 yu + 30 = 0.9973
-
-5/5
-````
-
-## 2022-23 · Re-Exam · Sem 2 · paper 2bc93dbb77ef
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PROBABILITY AND RANDOM VARIABLES/Probability & Random Variables, Re-exam 2021-22,2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (5 pages), mean OCR confidence 87.2
-
-````text
-/ . AL,
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGI
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-Programs: B. Tech/MBA Tech Year: I Semester: II
-Streams: AI, AIML, AIDS
-
-Subject: Probability and Random Variables : Time: 3 hrs (2 pm to Spm )
-Date:__1/07/2024 No. of Pages: 5
-Marks: 100
-
-‘Re-Examination ( 2021-22, 2022-23 )
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-[Qi
-a. The U.S. Bureau of Labor Statistics publishes data on the benefits offered by
-small companies to their employees. Only 42% offer retirement plans while 61%
-CO-I; offer life insurance. Suppose 33% offer both retirement plans and life insurance
-SO-I; as benefits. If a small company is randomly selected, calculate the following | [05]
-> BL-4 probabilties:
-i. The company offers life insurance or a retirement plan.
-ii. The company offers a retirement plan and does not offer life insurance.
-CO-4; b. For a continuous random variable X, the probability density function is given as
-ok S (x)= k(I —x? ),0 <x<l and f(x)=0,otherwise. Find k and E[3X +4]. [05]
-c. The joint probability density function of a two dimensional random variable
-CO-4; } -2-2
-SO-1; (X,Y) is f(uy)=s5e 4 3;x20,y20. Examine whether the variables X | [05]
-BL-3
-and Y are independent. s
-
-1/5
---- page 2 ---
-i
-
-d. There are 10 tickets numbered 1,2,...,10. One ticket is drawn at random. By
-
-a. using uniform distribution, determine the probability that the ticket bears a [05]
-BL-3 number which is (i) even and (ii) perfect square.
-
-Q2 ¥
-
-CO-3; a. A buyer finds 1 of every 100 steel rods defective. Determine the probability
-
-SO-1; that the first defect occurs on the 9" steel rod. Also, find the expected number | [06]
-BL-3
-
-of defective light bulbs, and the standard deviation of defective light bulbs.
-
-b. There are 500 books in a library as per the data given below. Estimate the
-probability that a book selected at random will be (i) an e-book given that it is
-
-on a historical fiction, (ii) on a science fiction given that it is a print book.
-
-Di Science fiction | Historical fiction | Total [06]
-tai Print book 150 50 200
-E-book 100 200 300
-Total 250 250 500
-( The probability distribution of a random variable ‘X’ is given below. Evaluate
-CO-1; the coefficient of skewness and interpret the result.
-SO-1; [08]
-BL-5 X|-5 | 2] 3 4] 5
-P(X =x) | 0.1 | 0.4] 0.4] 0.1
-Q3
-CELT: a. Let ‘X’ be a random variable (RV) with the following probability distribution.
-
-Find K, mean and variance of ‘xX’.
-
-SO-1; [06]
-X; 5 1|6),7)819
-
-BL-1
-P(X =x) | 0.2} 0.2/0.2} K]K
-b. A two dimensional random variable (X, Y) has the following probability density
-CO-4: function. Determine (i) marginal probability density functions, and
-SO-I: (ii) expectations of X and Y. [06]
-2
-Be peep = [O75 » O<xerandocy <3
-
-€
-
-2/5
---- page 3 ---
-a
-
-A man has three coins A, B, and C. Coin A is unbiased. The probabilitysthat
-
-CO-2; head will result when coin B is tossed is 0.6667. The probability that head will
-SO-1; result when coin C is tossed is 0.3333. If one of the coins is chosen at random, | [08]
-BL-4 tossed three times, and it gave two heads and one tail, calculate the probability
-that coin A was chosen and tossed.
-Q4
-CO-2: A random variable X has the probability mass function as
-SO-1; P(X =x)= ; °C,, X =0,1,2,3. Find the moment generating function of X [06]
-BL-3 . . :
-and using moment generating find mean and variance.
-CO-3; If 10% of the screws produced by a machine are defective, find the probability
-SO-1; that out of 5 screws chosen at random, i) none is defective, ii) one is defective | [06]
-BL-1 and iii) atmost two are defective.
-CO-1; _ . . ae
-The joint probability density function of X and Y is given by
-SO-1; f(y) =2-x-y; 0<x<l, O<sySl. [08]
-BL-3 Compute the values of (i) E[X]; (ii) E[Y]; (iti) E[XY]; (iv) Cov (X,Y).
-Q5
-CO-1; . a
-Consider a bag containing 5 red, 4 blue, and 9 green marbles. Two marbles are
-SO-1; selected from the bag at random. Determine the probability that i) both are of [06]
-BL-3 same colour, ii) both are red, and iii) one is blue and other is green.
-CO-3; If 2% of the lightbulbs produced by the company are defective, then determine
-SO-1; the probability that i) atleast one is defective, and ii) exactly 7 are defective in | [06]
-BL-3 a sample of 100.
-CO-I: The joint probability density function of a two dimensional random variable
-SO-1; (XY) is f(x,y) = 5x60 <x<2,y>0. Find the marginal cumulative [08]
-BL-1 distribution function of X and conditional probability density function of X
-given Y.
-Q6
-CO-3; If X is a random variable which follows an exponential distribution with
--1: 06
-a : parameter 2 with P(X <1) = P(X >1) , determine the value of 2. , [06]
-
-3/5
---- page 4 ---
-4
-
-b. A two dimensional random variable (X,Y) has the joint probability distgibution
-as given below ae
-
-cost 2, 1 2 3
-Me
-
-Bou; 2 178 1/24 12 [ae]
-Bl+l 4 1/4 1/4 0
-6 1/8 1/24 1/12
-Find E[Y] and E[X|Y=6].
-CO-2: | ¢ Determine the moment generating function of a random variable X having
-/2 O0<x<2
-SO-1; density. function f(x) = 7 ~ . Also find the first two moments | [08]
-0 otherwise
-BL-3 about the origin.
-Q7
-a. Given a pair of discrete random variable X and Y whose joint probability
-distribution is given by
-CO-1; x 2 :
-1; ¥
-SO-1; [06]
-BL-1 1 0.1 0.15
-2 0.2 0.3
-3 0.1 0.15
-Find (i) E[XY] and (ii) Var(Y) .
-CO-4; | b.
-SO-1: The probability density function of continuous random variable is defined as [06]
-BL. 3 Sf (x) = k(4x-2x’) , 0< x <2.Determine the value of k and Mean.
-CO-3; | c.
-SO-1: Determine the mean and standard deviation of the normal distribution in which [08]
-“a 3 7 % of items are under 35 and 89% are under 63.
-
-4/5
---- page 5 ---
-Table of Standard Normal Distribution
-
-z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
-0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
-0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
-0.3 0.4179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-0.4 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
-0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-
-0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
-0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
-1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
-
-14 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
-1.3 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 04147 0.4162 0.4177
-1.4 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
-1.5 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
-
-1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
-1.7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
-1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
-1.9 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
-2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
-
-ait 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
-2.2 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
-2.3 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
-2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-2.5 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 04948 0.4949 0.4951 0.4952
-
-2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
-2.7 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
-2.8 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
-2.9 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
-3.0 0.4987 0.4987 _0.4987__—~0.4988__—0.4988 ~—s0.4989 0.4989 0.4989 — 0.4990 __—d0.4990
-
-Note:
-
-Middle 50% area = + 0.6745 For any Normal Variate (with Mean = p and Std. Deviation = 0):
-Middle 90% area = + 1.6449 H + 10 = 0.6827 :
-
-Middle 95% area = + 1.9600 p + 20 = 0.9545
-
-Middle 99% area = + 2.5758 yp + 30 = 0.9973
-
-5/5
-````
-
 ## 2022-23 · Re-Exam · Sem 2 · paper 8626bcb11f59
 
 - Departments: Common (all branches)
@@ -3007,6 +3296,7 @@ Page | 5
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PROBABILITY AND RANDOM VARIABLES/Probability and Random Variables, Sem-II, Final Exam, 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 May 2022
 - Text: ocr (7 pages), mean OCR confidence 78.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 " SVKM’s NMIMS fe
@@ -3416,7 +3706,6 @@ Inf ‘| 3.8415] 2.9957] 2.6049) 2.3719] 2.2141] 2.0986] 2.0096] 1.9384] 1.8799}
 
 fox #7
 
-0.05.png?login=gauravm_79&session_id=4L24PK1KXK6eNu79bbnIFZ1ISZWoL...
 
 https://f4mail.rediff.com/bn/downloadajax.cgi/F_Table_for.
 ````
@@ -4085,312 +4374,4 @@ bl 1,735 2.088 2.700 3.325 4.168 14.684 16.919 19.023 21.666 23.589
 Table of Contents
 
 fone Sy
-````
-
-## Year not stated · Exam not stated · Sem 2 · paper 597a0a2b79bf
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/PROBABILITY AND RANDOM VARIABLES/Probability and Random Variables.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 78.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program : Btech AI, AIML,AIDS /MBA tech Al Z-Year Semester: II
-
-Subject: Probability & random variables Time: 3 hrs (Aitecamto 2100 pm )
-Date:_15/05 /2023. No. of Pages: 5 _
-
-Marks:100
-
-Final Examination / Re~- Examination.
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-Answer briefly:
-CO-1; a. a > 5 CUBE
-SO-1; If P(A)=0.6, P(B)=0.7 and P(AUB) =0.9, then obtain P(BJA) and P(A°UB?). (5 marks)
-BL-1
-CO-3; b. | The probability mass function of a random variable X is zero except at the (5 marks)
-SO-1; points X=0, 1, 2. At these points it is as follows
-BL-2 P(0) = 3c’, P(1) = 4ce-10c’, P(2)=5e-1.
-Determine,
-
-i. c
-
-ii, Find P(X <1),P(1< X <2),P0<X <2)
-CO-1; c. | Suppose a fair six-sided die is rolled twice. Let X be the result of the first roll, and Y | (5 marks)
-SO- 1; be the result of the second roll. Find the joint probability distribution of X and Y.
-BL-2
-
-What is the probability that the sum of the two rolls is 10?
-
-What is the probability that the first roll is greater than the second roll?
-
-Page | 1
---- page 2 ---
-CO- 2; d. | The probability of students entering chartered accountant will graduate is 0.5. (5 marks)
-
-SO-1; Determine the probability that out of 10 students,
-BL-2
-
-i. None will graduate.
-
-ii. One will graduate.
-
-iii. At least one will graduate.
-Q2 ali. . : ;
-
-Find out the fallacy of the statement: “If X is a Poisson variate such that
-
-CO- 3; P(X =2)=9P(X = 4)+90P(X = 6) Then mean of X is 1.” (7marks)
-— Also state variance and standard deviation.
-
-b | Two random variables x & y have the following Joint probability function.
-
-Determine,
-(i) Marginal distribution of X and Y
-(ii) the conditional probability distribution of X given Y=]
-
-CO-4;
-SO-1; (iii) the conditional probability distribution of Y=2 given X=1. (7 marks)
-BL-4
-
-f@y) = ax bey, where x =1,2and y =1,2
-
-198
-
-CO.2: c. | In a school, 60% of the students are girls and 40% are boys. Among the girls, 50%
-SO-1: like to play soccer, while among the boys, 80% like to play soccer. If a student is (6 marks)
-BL- 4 selected at random what is the probability that they would like to play soccer?
-Q3 a. | A study found that the amount of time spent on social media per day by high school
-CO-4: students is normally distributed with a mean of 3 hours and a standard deviation of (Tmarks)
-SO-1 : 1.2 hours. What is the probability that the time spent on social media per day is less
-BL- 5 than 2.5 hours?
-CO-4; b. | Two random variables x & y have the following Joint probability function.
-80-1; Determine
-BL-3 7
-
-(i) Marginal distribution of X and Y
-
-(ii) expected values of X and Y i. e. E[X], E[Y].
-(7 marks)
-
-_(t-y , O<x<land0<y<1
-fayn={ 0 elsewhere
-
-,
-
-Page | 2
---- page 3 ---
-CO-2; c. | A school has 120 students in total, of which 40 are in the science club, 60 are in the J
-
-SO- 1; music club, and 20 are in both clubs. If a student is selected at random, what is the (6 marks)
-BL-3 probability that they are not in either club?
-Q4 a. | The heights of adult women in a certain population are normally distributed with a
-
-mean of 65 inches and a standard deviation of 3 inches. If the top 5% of women in
-
-So this population are eligible to participate in a modeling competition, what is the his)
-BL-3 minimum height required to participate in the competition?
-COo- 1; b. | A two dimensional random variable (X, Y) has the following joint probability
-SO-1; function. Find k, P(X < 2,¥ <1), P(Y = 1), P(X <3), and P(X <4,Y = 0).
-= kx(y?) 1,2,3,4,5 and a
-— kx , x*=1,2,3,4,5andy=0,1
-fey) { 0 F elsewhere
-
-CO-1; c. | Suppose you have a bag containing 10 marbles, of which 4 are red and 6 are green. If|
-SO-1; two marbles are drawn simultaneously at random from the bag. What is the expected | (6 marks)
-BL-3 number of red marbles drawn?
-Q5 a | Jn acertain factory manufacturing razor blade, there is a small chance of 0.002 for
-cO-3: any blade to be defective. The blades are supplied in packets of 10. Use Poisson
-So- iis distribution to calculate the approximate no. of packets containing no defective, (7marks)
-BL- 4 one defective and two defective blades respectively in a consignment of 50000
-
-packets.
-CO-2; b | There are three bags; first containing 1 white, 2 red, 3 green balls; second 2 white,
-SO-1; 3 red, 1 green ball and third 3 white, 1 red, 2 green balls. Two balls are drawn from
-BL-2 a bag chosen at random. These are found to be one white and one red. Find the | (7 marks)
-
-probability that the balls so drawn came from the second bag.
-CO-1; c. | A random variate X has the probability distribution;
-$0-2;
-BL2 x -3 6 9
-
-P(X=x) 1/6 Ys 1/3
-k
-
-Find E(X), ECX?) and E(2X+1)? (Smarks)
-Q6 a | Fit a binomial distribution for the following data:
-Beak x: 0 1 2 3 4 (Tmarks)
-
-|:
-i 4 36 25 5
-BL-3 if 5 29
-CO-2; b | A. random variable X has the density function given by
-SO-1; 2e* x20
-Pa x)=
-
-BL-3 I) {e ab (7 marks)
-
-Find,
-
-Page | 3
---- page 4 ---
-(a) the moment generating function and
-
-(b) the first four moments about origin.
-
-CO-4; c. | Calculate covariance between X and Y.
-SO- 1; x ] 2 3 4 (6 marks)
-BL-2
-Y 5 6 a 8
-Q7 a | A fair coin is tossed 4 times. Define the sample space corresponding to
-
-this random experiment. Also give the subsets corresponding to the
-
-Sire following events and find the respective probabilities.
-BL-2 a. More heads than tails are obtained.
-b. Tails occur on the even numbered tosses.
-(7marks)
-CO-2; b | A random variable X has the following probability distribution
-SO-1;
-BL-2 x 0 1 2
-pX) [13 | 13 113 (7 marks)
-Find the moment generating function, first four raw moments and the first four central
-moment.
-CO-3; c. | The mileage which car owners get a certain kind of radial tire is a random variable
-SO-1; having an exponential distribution with mean 40,000 km. Find the probabilities that
-BL-2 one of these tires will last, (6 marks)
-
-i. At least 20,000 km
-ii. At most 30,000 km
-
-OR dC
-
-Page | 4
---- page 5 ---
-STANDARD NORMAL TABLE (Z)
-
-Entries in the table give the area under the curve
-between the mean and z standard deviations above
-the mean. For example, for z = 1.25 the area under
-the curve between the mean (0) and z is 0.3944.
-
-0.00! 0.01| 0.02/ 0.03| 0.04] 0.05| 0.06| 0.07) 0.08/ 0.09
-
-0.0000 0.0040 0.0080 0.0120 0.0160 0.0190 0.0239 0.0279 0.0319 0.0359
-0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
-0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
-0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-0.2881 0.2910 0.2939 0.2969 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
-0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
-0.3413 0.3438 0.3461 0.3485 0.3508 0.3513 0.3554 0.3577 0.3529 0.3621
-0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
-0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
-| 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162 0.4177
-0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
-| 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
-0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 0.4515 0.4525 0.4535 0.4545
-0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
-0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
-0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
-0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
-0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
-0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
-0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
-4| 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-2.5 | 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
-2.6} 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
-27 | 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
-
-2.8| 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
-
-2.9| 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
-
-3.0| 0.4987 0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 0.4990
-
-3.1| 0.4990 0.4991 0.4991 0.4991 0.4992 0.4992 0.4992 0.4992 0.4993 0.4993
-
-3.2| 0.4993 0.4993 0.4994 0.4994 0.4994 0.4994 0.4994 0.4995 0.4995 0.4995
-
-3.3| 0.4995 0.4995 0.4995 0.4996 0.4996 0.4996 0.4996 0.4996 0.4996 0.4997
-
-3.4| 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4998
-
-Page | >
---- page 6 ---
-PM IsaT Jono CeacHtTe
-
-@rrss oF won Seed 2 ey pee ete) So
-SuoMS MORAL WaS Boe kot hot fe oer Ge eS 4
-
-wets seeuetE Le fo onl Bae poe eet i
-BS Le A ne eth toed serocumtt rene |
-
-n I
-
-300 foog [tae img oa> Jee tog Tee lee loo
-
-wo ST ADA MM eo Go ot: eho Re BD ee
-(OOe 2:3D0 X00 cae Mien TA fee Pee ee ss
-htm fore bee Gf eke sein eon Nate gee nemo Eo |
-Tree9 eet cain id meth eG ee MP eR VI
-
-eum leis spon) worm wo Cd Ba ae Py, BRT eS
-(REO “teteo THD (ered UR Wee se Re fee Fie
-
-(SRO WER SSO SSETD SH RE EST At WE Sess | on)
-SMe esto pees AGG TE SE <r Gate aemlr — i
-lgeree” mee aes ret Syern lass BIO file wees
-
-(Le SMES Teer 2p pegen ane Sey sast mics mas i=
-\TeMeO HORS TREE ame] ©oRo ives gee feco avica gauge [er
-ObEe oreé) o8fEt Orc Bete ERS Seo she) ero
-ara Tee OAR te ToD Soe Te BeAr we
-ierta.6 coieh bo FGes Bligo fh Tare Ee | A
-fet _Seee G00 Cae Mert Fee etm Ae ted
-, Taek a aes earh io CR OTE SEAS Dae
-[eM Bek SEA See) ces A es fie Pe
-|e BG PO Eo Me Ye) eee Ce fe
-AThe CSR Poe Seer (Ce FD Pe zee ORE
-Wet, Des Mo PRS we te) Pies (Bete Tes
-RT OG BAN De BTA ONS eR ete
-Te Se ORO Oe eS Eo eee 6 | ee
-ERAS: FESR AWG Regi ATR Mp: eee Mahl) Farge
-STORN feed TUR Oi 280 pee Pp Sy dA
-ee es ee 2) ee ee
-‘StSea Pe CME OER hee te LG Me
-\epeeg TyehG comb tite Syke Get TA gM? leno
-STO kD Tweak Nea Ooo Toe ReaD Tk 6 Bee
-(Pe We Cee Trak ee Veep Tian Wa FiO
-S060 ORRe FBSA EAS MPS Met Ce) aM «(Se
-(‘OHO CCObG Gage Shigeo erat g58.f ARR GS Teo
-Cee CPGAS GAO CMR eee DNA reed: bet en
-(sO AO BRO nal AeA os a mess *star
-CKO Ke HOOkD 200k SeIR* Gre o WA hem G among
-LARC GC: SRR, Tee TNT SARks eee sh <p ae
 ````

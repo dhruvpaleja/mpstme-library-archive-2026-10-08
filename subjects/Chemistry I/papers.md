@@ -1,169 +1,10 @@
 # Chemistry I: question papers in full
 
-20 unique papers · 2014-15 to 2023-24 · Common (all branches)
+20 unique papers · 2014-15 to 2024-25 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2023-24 · Final + Re-Exam · Sem 1 · paper 264d2d537a3e
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistrey I Batch 2023-24 Final Batch 2022-23 Re Exam0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 85.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-
-Program: B. Tech After 10% Stream: All streams Year: 1 Semester: |
-
-Subject: Chemistry-i Time: 3 hrs(f0am to} pm_)
-Date:_2#/ if /2023. No. of Pages: 3
-
-Marks: 100 - ; =
-
-Final Examination} Re Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-
-the Answer Book, which is provided for their use.
-Note: :
-1) Question No. 1is compulsory. .
-2) Out of the remaining questions, attempt any 4 questions.
-3) Inall 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Non-graphic scientific calculator can be used for numerical solving.
-7) Figures in brackets on the right-hand side indicate full marks.
-8) Assume Suitabie data if necessary.
-9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Ba= 137, Bi=209,
-Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, Fr=223, H=1, He=4, K=39,
-Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, P=31, $=32, Sc=44.9, Se=79,
-Si=28, Zn=65.4, Zr=91.2
-
-Qt. Answer the following: .
-cO-1; a. | Summarize the Pauli’s exclusion principle with a suitable example. (4)
-SO-1; .
-
-BL-2 .
-
-CO-2; b. | Agas ina fixed-volume cylinder is at a pressure of 500 torr anda temperature of 4°C. What | (4)
-SO-1; will be the final temperature (K) of the gas if the final pressure of the gas is 4000 torr?
-
-BL-1 .
-
-Cco-3; c. | What are the differences between sludges and scales? : i (4)
-SO-1; .
-
-BL-1
-
-cO-4; d. | Summarize the various elements used for making alloy steel. . (4)
-$0.1;
-
-BL-2
-
-co-4; |e. | Solve to find the number of moles of copper produced in an electrolytic cell if a current of | (4)
-ae 2.5 amperes flows through a solution of Cu** ions for 5 minutes.
-
-BL-
-
-Page 1/3
---- page 2 ---
-What do you mean by purification of the extracted metal? Tell about the distillation and | (5)
-
-Q2.
-CO-4; liquation methods of metal purification.
-SO-1;
-BL-1
-cO-1; List the postulates of the Bohr’s model of an atom.. (5)
-SO-1; .
-BL-1 ‘
-CO-2; To 81g of Methane gas with a volume of 2 Lis added 24g Methane at a constant pressure | (5)
-SO-1; and temperature. Show your.calculations to find the final volume (mL) of the gas.
-BL-2 .
-CO-3; Explain disadvantages of hard water for domestic use and industrial use. ~ . (5)
-SO-;
-BL-2
-Q3. Allustrate with a diagram the electroplating of silver. Label the different parts of the cell. | (5)
-cO-4;
-SO-1;
-BL-2 : ;
-CO-4; How is the leaching method used for the concentration of an ore? Give an example. (5)
-SO-1; . .
-BL-1
-CcO-1; Applying your knowledge of electronic configuration of elements, to show the filling of | (5)
-nee the electrons in the different orbitals using the orbital diagrams: Na (11), Mg(12), Al(13),
-~ )
-Si(14), P(15) (Note: Figure in the brackets following the element, indicates atomic number
-of the element)
-CO-2; A 1.6 Lsample of a gas at 720 torr is to be compressed to a final volume of 900 mL. Solve | (5)
-SO-1; to find the pressure in 'mm of Hg' that must be applied to bring it to the final volume.
-BL-6 — :
-Q4. An ammonia solution has a hydroxide ion-‘concentration of 1.9 x 10° M. What is the pH of | (5)
-CO-3; the solution?
-SO-1;
-BL-1
-cO-4; Calculate the time taken to deposit 15.00 g of copper onto an object that is placed in a | (5). “|
-SO-1; solution of copper nitrate, Cu(NOs)2, and has a current of 2.50 A flowing through it.
-BL-1 F "
-CO-4; Explain the various purposes of alloying: (5)
-SO-1; ; .
-BL-2 z
-CO-3; Explain disinfection of water by the chlorination and the UV method . : (5)
-SO-1; : ,
-BL-5
-
-Page 2/3
-
-*
---- page 3 ---
-Qs. a. | Asample of orange juice has a hydrogen-ion concentration of 2.9 x 10% M. What is the. (5).
-
-CO-3; pOH?
-SO-1; :
-BL-1_
-CO-3; |b. | Whatis caustic embrittlement? Show the reactions involved.» (5)
-SO-1; :
-BL-1
-cO-4; c. | Summarize the two aluminum alloys Duralumin, and Magnalium. Give their application. | (5)
-SO-1; :
-BL-2
-co-4; | d. | State the Faradays laws of electrolysis. Compare the mathematical expression far the two | (5).
-SO-1; laws and tell how it can be used to find the various quantities such as'time, current, or the
-BLA amount of metal deposited at the cathode. oN
-Qé. a. | How many kilograms of Cu will be produced in an electrolytic cell of molten Cu(NOs)2 if a | (5)
-CO-4; : current of 0.452 A is passed through the cell for 1:5 hours?
-SO-1; - :
-BL-1 :
-CO-2; b. | What.does the Boyle’s law state? Show the graphical representation. Give the | (5)
-‘| SO-1; | mathematical expression for the law. .
-BL-1
-CO-3; c. | Solveto find the total hardness of a water sample containing following impurities (in mg/L) | (5)
-SO-1; . viz, Ca(HCOs)2 = 15, Mg(HCOs)2 = 5, CaSOg = 20, AICI3=10.
-BL-3 ; .
-co-3; | d. | Summarize the Lewis theory of acids & bases. Give an example. (5)
-SO-1; . ; :
-| BL-2
-Q7. 3. | What does the Charles law state? Give the mathematical expression and show a graphical | (5)
-CO-2; representation for the law.
-oi : : *
-BL-1 a
-CO-3; b. | Diagrammatically show the shapes of the 1s, 2s, and the three-2p orbitals. (5)
-SO-1;
-BL-1 . :
-co-3; | c. Apply the Bronsted Lowry concept of acids and bases to write about amphiprotic species. | (5)
-SO-1; Give an example. ;
-BL-3 :
-CO-3; -| d. | Show your calculations to find the temporary, permanent, and total hardness of water | (5)
-SO-1; sample containing following impurities (in mg/L) viz, Ca(HCOs)2 = 25, Mg(HCOs)2 = 25,
-| BL-2 "| CaSO4 = 10, MgSOx = 10, Ala(SOx)3=20 ; .
-
-* Page 3/3
-````
-
-## 2023-24 · Re-Exam · Sem 1 · paper 824b0139957c
+## 2024-25 · Re-Exam · Sem 1 · paper 824b0139957c
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -375,6 +216,165 @@ SO-1;
 BL-3
 
 Page 4/4
+````
+
+## 2023-24 · Final + Re-Exam · Sem 1 · paper 264d2d537a3e
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistrey I Batch 2023-24 Final Batch 2022-23 Re Exam0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+Program: B. Tech After 10% Stream: All streams Year: 1 Semester: |
+
+Subject: Chemistry-i Time: 3 hrs(f0am to} pm_)
+Date:_2#/ if /2023. No. of Pages: 3
+
+Marks: 100 - ; =
+
+Final Examination} Re Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+
+the Answer Book, which is provided for their use.
+Note: :
+1) Question No. 1is compulsory. .
+2) Out of the remaining questions, attempt any 4 questions.
+3) Inall 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Non-graphic scientific calculator can be used for numerical solving.
+7) Figures in brackets on the right-hand side indicate full marks.
+8) Assume Suitabie data if necessary.
+9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Ba= 137, Bi=209,
+Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, Fr=223, H=1, He=4, K=39,
+Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, P=31, $=32, Sc=44.9, Se=79,
+Si=28, Zn=65.4, Zr=91.2
+
+Qt. Answer the following: .
+cO-1; a. | Summarize the Pauli’s exclusion principle with a suitable example. (4)
+SO-1; .
+
+BL-2 .
+
+CO-2; b. | Agas ina fixed-volume cylinder is at a pressure of 500 torr anda temperature of 4°C. What | (4)
+SO-1; will be the final temperature (K) of the gas if the final pressure of the gas is 4000 torr?
+
+BL-1 .
+
+Cco-3; c. | What are the differences between sludges and scales? : i (4)
+SO-1; .
+
+BL-1
+
+cO-4; d. | Summarize the various elements used for making alloy steel. . (4)
+$0.1;
+
+BL-2
+
+co-4; |e. | Solve to find the number of moles of copper produced in an electrolytic cell if a current of | (4)
+ae 2.5 amperes flows through a solution of Cu** ions for 5 minutes.
+
+BL-
+
+Page 1/3
+--- page 2 ---
+What do you mean by purification of the extracted metal? Tell about the distillation and | (5)
+
+Q2.
+CO-4; liquation methods of metal purification.
+SO-1;
+BL-1
+cO-1; List the postulates of the Bohr’s model of an atom.. (5)
+SO-1; .
+BL-1 ‘
+CO-2; To 81g of Methane gas with a volume of 2 Lis added 24g Methane at a constant pressure | (5)
+SO-1; and temperature. Show your.calculations to find the final volume (mL) of the gas.
+BL-2 .
+CO-3; Explain disadvantages of hard water for domestic use and industrial use. ~ . (5)
+SO-;
+BL-2
+Q3. Allustrate with a diagram the electroplating of silver. Label the different parts of the cell. | (5)
+cO-4;
+SO-1;
+BL-2 : ;
+CO-4; How is the leaching method used for the concentration of an ore? Give an example. (5)
+SO-1; . .
+BL-1
+CcO-1; Applying your knowledge of electronic configuration of elements, to show the filling of | (5)
+nee the electrons in the different orbitals using the orbital diagrams: Na (11), Mg(12), Al(13),
+~ )
+Si(14), P(15) (Note: Figure in the brackets following the element, indicates atomic number
+of the element)
+CO-2; A 1.6 Lsample of a gas at 720 torr is to be compressed to a final volume of 900 mL. Solve | (5)
+SO-1; to find the pressure in 'mm of Hg' that must be applied to bring it to the final volume.
+BL-6 — :
+Q4. An ammonia solution has a hydroxide ion-‘concentration of 1.9 x 10° M. What is the pH of | (5)
+CO-3; the solution?
+SO-1;
+BL-1
+cO-4; Calculate the time taken to deposit 15.00 g of copper onto an object that is placed in a | (5). “|
+SO-1; solution of copper nitrate, Cu(NOs)2, and has a current of 2.50 A flowing through it.
+BL-1 F "
+CO-4; Explain the various purposes of alloying: (5)
+SO-1; ; .
+BL-2 z
+CO-3; Explain disinfection of water by the chlorination and the UV method . : (5)
+SO-1; : ,
+BL-5
+
+Page 2/3
+
+*
+--- page 3 ---
+Qs. a. | Asample of orange juice has a hydrogen-ion concentration of 2.9 x 10% M. What is the. (5).
+
+CO-3; pOH?
+SO-1; :
+BL-1_
+CO-3; |b. | Whatis caustic embrittlement? Show the reactions involved.» (5)
+SO-1; :
+BL-1
+cO-4; c. | Summarize the two aluminum alloys Duralumin, and Magnalium. Give their application. | (5)
+SO-1; :
+BL-2
+co-4; | d. | State the Faradays laws of electrolysis. Compare the mathematical expression far the two | (5).
+SO-1; laws and tell how it can be used to find the various quantities such as'time, current, or the
+BLA amount of metal deposited at the cathode. oN
+Qé. a. | How many kilograms of Cu will be produced in an electrolytic cell of molten Cu(NOs)2 if a | (5)
+CO-4; : current of 0.452 A is passed through the cell for 1:5 hours?
+SO-1; - :
+BL-1 :
+CO-2; b. | What.does the Boyle’s law state? Show the graphical representation. Give the | (5)
+‘| SO-1; | mathematical expression for the law. .
+BL-1
+CO-3; c. | Solveto find the total hardness of a water sample containing following impurities (in mg/L) | (5)
+BL-3 ; .
+co-3; | d. | Summarize the Lewis theory of acids & bases. Give an example. (5)
+SO-1; . ; :
+| BL-2
+Q7. 3. | What does the Charles law state? Give the mathematical expression and show a graphical | (5)
+CO-2; representation for the law.
+oi : : *
+BL-1 a
+CO-3; b. | Diagrammatically show the shapes of the 1s, 2s, and the three-2p orbitals. (5)
+SO-1;
+BL-1 . :
+co-3; | c. Apply the Bronsted Lowry concept of acids and bases to write about amphiprotic species. | (5)
+SO-1; Give an example. ;
+BL-3 :
+CO-3; -| d. | Show your calculations to find the temporary, permanent, and total hardness of water | (5)
+SO-1; sample containing following impurities (in mg/L) viz, Ca(HCOs)2 = 25, Mg(HCOs)2 = 25,
+| BL-2 "| CaSO4 = 10, MgSOx = 10, Ala(SOx)3=20 ; .
+
+* Page 3/3
 ````
 
 ## 2022-23 · Final-Exam · Sem 1 · paper d2cdcc535d7a
@@ -1141,6 +1141,145 @@ What is brass? Describe any two types of brasses with their applications.
 (5)
 ````
 
+## 2019-20 · Re-Exam · Sem 1 · paper 9f7ea7c84aa1
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistry I Batch 2016-2017 2017-18 Re Exam.pdf`
+- Printed on paper: exam date: 11 November 2019
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+/
+
+4 SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :B.Tech Integrated (All Stream) Year: I Semester I
+Academic Year: 2019-2020
+
+Subject: Chemistry - I
+Date: 11 November 2019
+
+Re-Examination(2016-17/ 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+Note:
+1) Question No. 1 is compulsory.
+2) Out of the remaining questions, attempt any 4 questions.
+3) Inall5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started ona fresh page.
+6) Non-graphing scientific calculator can be used for numerical solving -
+7) Figures in brackets on the right hand side indicate full marks.
+8) Assume -suitable data if necessary.
+9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Ba= 137,
+Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, Fr=223, H=1,
+He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, P=31, S=32,
+Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2
+
+Qi. Answer the following: _
+
+a. A water sample has the following impurities: MgSO, = 14 ppm, MgCl, = 28 ppm, (5)
+Mg(HCOs)2 = 12 ppm, Ca(HCOs)2 = 22 ppm, NazSO, = 19 ppm, NaCl = 14 ppm, KCI =
+10 ppm, KNO3 = 15 ppm, NaNO3 = 20 ppm. Calculate the total, permanent, and
+temporary hardness of the unknown hard water sample.
+
+b. Discuss the Rutherford’s experiment to determine the structure of an atom. Showa (5)
+suitable diagram.
+
+c. With a diagram and suitable examples, discuss the different types of stable metal (4)
+oxide films that could be formed on the surface of metals.
+
+Q2. a. What is the molarity (M) of a MgSO, solution in which 36g of MgSOx is dissolved in (5)
+500 mL of the solution?
+
+b. Write a short note on any five physical properties of metals. (5)
+
+c. Whatis bronze? Describe any two different types of brasses with their applications. (4)
+
+Page 1/2
+--- page 2 ---
+Q3.
+
+Q4.
+
+Qs.
+
+Q6.
+
+Q7.
+
+With a suitable diagram discuss the mechanism of wet corrosion in an neutral
+electrolytic medium.
+
+Calculate the mass of potassium (K) in K2Cr207 that contains 5.24 x 10° oxygen
+atoms.
+
+With a suitable diagram write a short note on galvanizing.
+
+Calculate the concentration of OH” ions of a 5 x 10° M aqueous solution of HCl.
+Write a short note on the Lewis concept of acids and bases with suitable examples.
+The pH of a solution is 7.40. Classify it as acidic, basic or neutral. Calculate the
+concentration of H30* ions and OH ions.
+
+Write the electronic configuration of the following elements: Show the filling of the
+electrons in the different orbitals using the orbital diagrams (figures in the brackets
+indicate atomic number of that element): Si (14), P (15), S (16), Cl (17), Ar(18).
+Diagrammatically show the shapes of the 1s, 2s and the three 2p orbitals.
+
+State the Aufbau’s principle, and Pauli’s exclusion principle.
+
+A standard hard water sample has 0.54 g CaCO3 in 600 mL of the solution. 25mL of
+this solution required 28mL of EDTA solution for reaching the end point of the
+titration. 25mL of an unknown water sample required 22 mL of the same EDTA
+solution for the titration. Calculate the total hardness of the unknown water sample.
+Write a short note on the caustic embrittlement showing the reactions involved in
+the process.
+
+Differentiate between temporary and permanent hardness.
+
+How many grams of Mg will be produced in an electrolytic cell containing aqueous
+MgCh, if a current of 0.542 A is passed through the cell for 2.5 hours?
+
+A voltaic cell is based on Copper and Magnesium half-cells. (E° mg”*ymg= — 2.37 V;
+
+E°cu/cu** = — 0.34 V). Based on the given electrode potentials write the reactions
+occurring at the cathode and the anode, and the overall reaction occurring for this
+cell.
+
+For the cell: Zn |Zn**|| Cu2*|Cu ; Given: E’cell = + 1.1 V; [Cu**] = 5.2 x 10“ M, and
+[Zn2*] = 1.3 x 103 M. Calculate Eceu
+
+Page 2/2
+
+(5)
+(5)
+(4)
+(5)
+
+(5)
+(4)
+
+(5)
+
+(5)
+(4)
+
+(5)
+
+(5)
+
+(4)
+
+(5)
+
+(5)
+
+(4)
+````
+
 ## 2018-19 · Final-Exam · Sem 1 · paper 9d38c690bc4b
 
 - Departments: Common (all branches)
@@ -1272,6 +1411,308 @@ Calculate the concentration of H30* ions and pH of a 5 x 10°°M aqueous solutio
 NaOH.
 
 >| a
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper 945794e6b830
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistry I Batch 2015-16,2016-2017 2017-18 Re Exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 November 2018
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program B.Tech Integrated (All Streams) Year: I Semester: I
+Academic Year: 2018-2019
+Subject: Chemistry-I ~~ Marks: 70
+
+Date : 19 November 2018 . Time:10.00 am to 1.00 pm —
+Duration: 3 (hrs) ,~
+No. of Pages: 2
+Re-examination (2015-16/2016-17/2017-18) 4
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+Note:
+1) Question No. 1 is compulsory.
+2) Out of the remaining questions, attempt any 4 questions.
+3) InallS questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started ona fresh page.
+6) Non-graphing scientific calculator can be used for numerical solving.
+7) Figures in brackets on the right hand side indicate full marks.
+8) Assume Suitable data if necessary.
+9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Br=80, C=12,
+Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, H=1, He=4, K=39, Kr=84, Mg=24, Mn=55,
+N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, S=32, Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2
+
+Q1. Answer the following:
+
+a. A standard hard water sample has 0.85 g CaCO; in 700 mL of the solution. 50mL of (4)
+this solution required 38mL of EDTA solution for reaching the end point of the
+titration. 50mL of an unknown water sample required 28mL of the same EDTA
+solution for the titration, and after boiling and filtering 50mL of boiled & filtered
+sample required 18mL of EDTA solution for titration. Calculate the total & permanent
+hardness of the unknown water sample.
+
+b. Calculate the number of mole of copper produced in an electrolytic cell if a current of (4)
+10.0 A flows through a solution of copper ions (Cu~*) for 10 minutes.
+
+c. With a suitable diagram, write a short note on waterline corrosion. (3)
+
+d. Write a short note on the Pauli’s exclusion principle. (3)
+
+Q2. a. With a suitable diagram discuss the mechanism of wet corrosioiy involving the (5)
+evolution of hydrogen gas at the cathode.
+b. With a suitable diagram discuss the Rutherford’s experiment to determine the (5)
+structure of an atom. :
+c. Write a short note on the Lowry Bronsted concept of acids and bases with suitable (4)
+examples.
+
+to
+--- page 2 ---
+Q3.
+
+Q4.
+
+O05,
+
+Q6.
+
+Q7.
+
+List all the postulates of the Dalton’s atomic theory.
+Differentiate between Sludges and Scales.
+
+Calculate the time taken to deposit 100 g of copper onto an object that is placed in a
+solution of copper nitrate, Cu(NO3),, and has a current of 5.0 A flowing through it.
+
+A Voltaic cell is based on Nickel and Cadmium half-cells. The standard reduction
+potentials of the Cd and Ni electrodes are: — 0.40 V and — 0.25 V respectively. Based
+on the given potentials write the line notation for the cell. Write the reactions
+occurring at the cathode and the anode, and the overall reaction occurring for this
+cell. Calculate the value of E ce) for this cell.
+
+A water sample has the following impurities: Ca(HCO3)2 = 32 ppm, Al,(SO,4)3 = 26 ppm,
+MgCl, = 18 ppm, MgSO, = 24 ppm, CaSO, = 28 ppm, Na2SO, = 19 ppm, NaCl = 14 ppm,
+KCl = 10 ppm, KNO3 = 15 ppm, NaNO; = 20 ppm. Calculate the total, permanent, and
+temporary hardness of the unknown hard water sample.
+
+Diagrammatically represent the shapes of the 2s and the 2p,, 2py, and 2p, orbitals.
+
+What is brass? Describe any four different types of brasses with their applications.
+Discuss with reactions involved, the methods used for the removal of dissolved
+
+oxygen from water.
+
+Draw a zinc concentration cell; label the different parts of the cell. Show the
+reactions occurring at the cathode and the anode, and the overall reaction occurring
+for this cell. What is the value of E cell for this cell?
+
+Write a short note on caustic embrittlement showing the reactions involved in the
+process.
+
+Discuss any five factors causing corrosion.
+
+Differentiate between ferrous and non-ferrous metals.
+
+Write the electronic configuration of the following elements
+
+1.Na 2.Mg 3.Al 4.Si 5.P
+
+Show the filling of the electrons in the different orbitals using the orbital diagrams.
+(Use the atomic number of the respective element)
+
+Write a short note on anodic and cathodic coating with suitable examples. Discuss
+with a diagram how an anodic coating protects the underlying metal.
+
+If the pH of human arterial blood is 7.40, what is its hydrogen and hydroxide ion
+concentration?
+
+Zo
+
+(5)
+(5)
+(4)
+
+(5)
+
+(5)
+
+(4)
+
+(5)
+(5)
+
+(4)
+
+(5)
+
+(5)
+(4)
+
+(5)
+
+(5)
+(4)
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper d07a2772fddb
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistry I Batch 2015-16,2016-2017,2017-18 Re Exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 January 2019
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’S NMIMS
+
+Program: B.Tech Integrated (All Streams) = Year: I
+; J Academic Year: 2018-2019
+f
+
+| Subject: Chemistry-I   — Marks: 70 7 "
+
+4
+
+Time: 2.00 pm to 5.00 pm -
+
+Durations: 3 (hrs)
+No. of Pages: 2
+Re-examination (2015-16/ 2016-17/ 2017-18) .~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+Note:
+1) Question No. 1 is compulsory.
+2) Out of the remaining questions, attempt any 4 questions.
+3) Inall5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Non-graphing scientific calculator can be used for numerical solving.
+7) Figures in brackets on the right hand side indicate full marks.
+8) Assume-suitable data if necessary.
+9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Ba= 137,
+Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, Fr=223, H=1,
+He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20:2, Ni=58.7, O=16, Os=190, P=31, S=32,
+Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2,
+
+Date: 16 January 2019
+
+Q1. Answer the following:
+
+a. With a suitable diagram discuss the Rutherford’s experiment to determine the (5)
+structure of an atom
+
+b. Discuss the different types of metal oxide films that could be formed on the surface (5)
+of metals. Show diagrammatically with suitable examples of each type
+
+c. A water sample has the following impurities: MgSO, = 24 ppm, MgCl, = 18 ppm, (4)
+Mg(HCOs)2 = 22 ppm, Ca(HCOs)2 = 32 ppm, Na2SO4 = 19 ppm, NaCl = 14 ppm, KCI =
+10 ppm, KNO3 = 15 ppm, NaNO3 = 20 ppm. Calculate the total, permanent, and
+temporary hardness of the unknown hard water sample.
+
+Q2. a. Write a short note on the different physical properties of metals. (5)
+b. What is bronze? Describe any two different types of bronzes with their applications. (5)
+c. What is the molarity (M) of a CaSO, solution in which 36g of CaSO, is dissolved in (4)
+
+500 mL of the solution?
+
+Page 1/2
+--- page 2 ---
+Q3.
+
+Q4.
+
+Q5.
+
+Q6.
+
+Q7.
+
+Calculate the mass of chromium (Cr) in K2Cr207 that contains 5.24 x 10° oxygen
+atoms.
+
+With a suitable diagram write a short note on tinning.
+
+With a suitable diagram discuss the mechanism of wet corrosion in an acidic
+medium.
+
+Write a short note on the Lowry Bronsted concept of acids and bases with suitable
+examples.
+
+The pH of human arterial blood is 7.40. Classify it as acidic, basic or neutral. Calculate
+the concentration of H30* ions and OH ions.
+
+Calculate the concentration of OH ions and pOH of a 5 x 10™*M aqueous solution
+of HCl. .
+
+Diagrammatically show the shapes of the 1s, 2s and the three 2p orbitals.
+
+State the Aufbau’s principle, and Pauli’s exclusion principle. With suitable examples
+write a note on the Hund’s rule of maximum multiplicity.
+
+Write the electronic configuration of the following elements. Show the filling of the
+electrons in the different orbitals using the orbital diagrams (figures in the brackets
+indicate atomic number of that element): Si (14), P (15), S (16), Cl (17).
+
+Write a short note on the boiler corrosion showing the reactions involved in the
+process.
+
+Write a short note on temporary and permanent hardness with suitable examples.
+Show the reactions involved in the removal of temporary hardness.
+
+A standard hard water sample has 0.45 g CaCO3 in 600 mL of the solution. 40mL of
+this solution required 28mL of EDTA’ solution for reaching the end point of the
+titration. 40mL of an unknown water sample required 22 mL of the same EDTA
+solution for the titration. Calculate the total hardness of the unknown water sample.
+
+A voltaic cell is based on Copper and Magnesium half-cells. (E° mg”*ymg= — 2.37 V;
+E°cuscu** = — 0.34 V). Based on the given electrode potentials write the line notation
+for the cell. Write the reactions occurring at the cathode and the anode, and the
+overall reaction occurring for this cell.
+
+For the cell: Zn|Zn?* || Cu2*| cu ; Given: E’cell = + 1.1 V; [Cu2*] = 5.2 x 10° M, and
+
+[Zn2*] = 1.3 x 10° M. Calculate Ecen.
+
+How many grams of Ca will be produced in an electrolytic cell of molten CaCl, if a
+current of 0.452 A is passed through the cell for 1.5 hours?
+
+Page 2/2
+
+(5)
+
+(5)
+
+(4)
+
+(5)
+
+(5)
+
+(4)
+
+(5)
+
+(5)
+
+(4)
+
+(5)
+
+(5)
+
+(4)
+
+(5)
+
+(5)
+
+(4)
 ````
 
 ## 2017-18 · Final-Exam · Sem 1 · paper 1eed3aabab67
@@ -1425,305 +1866,149 @@ Explain with examples the Lewis concept of acids and bases.
 (4)
 ````
 
-## 2017-18 · Re-Exam · Sem 1 · paper 945794e6b830
+## 2017-18 · Re-Exam · Sem 1 · paper fea14853d5de
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistry I Batch 2015-16,2016-2017 2017-18 Re Exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 November 2018
-- Text: ocr (2 pages), mean OCR confidence 92.3
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistry I Batch 2015-16,2016-2017 Re Exam.pdf`
+- Printed on paper: exam date: 28 November 2017
+- Text: ocr (2 pages), mean OCR confidence 92.0
 
 ````text
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program B.Tech Integrated (All Streams) Year: I Semester: I
-Academic Year: 2018-2019
-Subject: Chemistry-I ~~ Marks: 70
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2017 - 2018
+Program:B. Tech Integrated (All Streams) Year: I Semester:I
+Batch: 2015-16/ 2016-17 © 78.0? Bikages
+Subject: Chemistry - I-
+Date 28 November 2017
 
-Date : 19 November 2018 . Time:10.00 am to 1.00 pm —
-Duration: 3 (hrs) ,~
-No. of Pages: 2
-Re-examination (2015-16/2016-17/2017-18) 4
+RE-EXAMINATION
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
 Note:
-1) Question No. 1 is compulsory.
+
+- 1) Question No. 1 is compulsory.
+
 2) Out of the remaining questions, attempt any 4 questions.
-3) InallS questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started ona fresh page.
-6) Non-graphing scientific calculator can be used for numerical solving.
-7) Figures in brackets on the right hand side indicate full marks.
-8) Assume Suitable data if necessary.
-9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Br=80, C=12,
-Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, H=1, He=4, K=39, Kr=84, Mg=24, Mn=55,
-N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, S=32, Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2
 
-Q1. Answer the following:
-
-a. A standard hard water sample has 0.85 g CaCO; in 700 mL of the solution. 50mL of (4)
-this solution required 38mL of EDTA solution for reaching the end point of the
-titration. 50mL of an unknown water sample required 28mL of the same EDTA
-solution for the titration, and after boiling and filtering 50mL of boiled & filtered
-sample required 18mL of EDTA solution for titration. Calculate the total & permanent
-hardness of the unknown water sample.
-
-b. Calculate the number of mole of copper produced in an electrolytic cell if a current of (4)
-10.0 A flows through a solution of copper ions (Cu~*) for 10 minutes.
-
-c. With a suitable diagram, write a short note on waterline corrosion. (3)
-
-d. Write a short note on the Pauli’s exclusion principle. (3)
-
-Q2. a. With a suitable diagram discuss the mechanism of wet corrosioiy involving the (5)
-evolution of hydrogen gas at the cathode.
-b. With a suitable diagram discuss the Rutherford’s experiment to determine the (5)
-structure of an atom. :
-c. Write a short note on the Lowry Bronsted concept of acids and bases with suitable (4)
-examples.
-
-to
---- page 2 ---
-Q3.
-
-Q4.
-
-O05,
-
-Q6.
-
-Q7.
-
-List all the postulates of the Dalton’s atomic theory.
-Differentiate between Sludges and Scales.
-
-Calculate the time taken to deposit 100 g of copper onto an object that is placed in a
-solution of copper nitrate, Cu(NO3),, and has a current of 5.0 A flowing through it.
-
-A Voltaic cell is based on Nickel and Cadmium half-cells. The standard reduction
-potentials of the Cd and Ni electrodes are: — 0.40 V and — 0.25 V respectively. Based
-on the given potentials write the line notation for the cell. Write the reactions
-occurring at the cathode and the anode, and the overall reaction occurring for this
-cell. Calculate the value of E ce) for this cell.
-
-A water sample has the following impurities: Ca(HCO3)2 = 32 ppm, Al,(SO,4)3 = 26 ppm,
-MgCl, = 18 ppm, MgSO, = 24 ppm, CaSO, = 28 ppm, Na2SO, = 19 ppm, NaCl = 14 ppm,
-KCl = 10 ppm, KNO3 = 15 ppm, NaNO; = 20 ppm. Calculate the total, permanent, and
-temporary hardness of the unknown hard water sample.
-
-Diagrammatically represent the shapes of the 2s and the 2p,, 2py, and 2p, orbitals.
-
-What is brass? Describe any four different types of brasses with their applications.
-Discuss with reactions involved, the methods used for the removal of dissolved
-
-oxygen from water.
-
-Draw a zinc concentration cell; label the different parts of the cell. Show the
-reactions occurring at the cathode and the anode, and the overall reaction occurring
-for this cell. What is the value of E cell for this cell?
-
-Write a short note on caustic embrittlement showing the reactions involved in the
-process.
-
-Discuss any five factors causing corrosion.
-
-Differentiate between ferrous and non-ferrous metals.
-
-Write the electronic configuration of the following elements
-
-1.Na 2.Mg 3.Al 4.Si 5.P
-
-Show the filling of the electrons in the different orbitals using the orbital diagrams.
-(Use the atomic number of the respective element)
-
-Write a short note on anodic and cathodic coating with suitable examples. Discuss
-with a diagram how an anodic coating protects the underlying metal.
-
-If the pH of human arterial blood is 7.40, what is its hydrogen and hydroxide ion
-concentration?
-
-Zo
-
-(5)
-(5)
-(4)
-
-(5)
-
-(5)
-
-(4)
-
-(5)
-(5)
-
-(4)
-
-(5)
-
-(5)
-(4)
-
-(5)
-
-(5)
-(4)
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper d07a2772fddb
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistry I Batch 2015-16,2016-2017,2017-18 Re Exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 January 2019
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’S NMIMS
-
-Program: B.Tech Integrated (All Streams) = Year: I
-; J Academic Year: 2018-2019
-f
-
-| Subject: Chemistry-I   — Marks: 70 7 "
-
-4
-
-Time: 2.00 pm to 5.00 pm -
-
-Durations: 3 (hrs)
-No. of Pages: 2
-Re-examination (2015-16/ 2016-17/ 2017-18) .~
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-Note:
-1) Question No. 1 is compulsory.
-2) Out of the remaining questions, attempt any 4 questions.
 3) Inall5 questions to be attempted.
+
 4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
+
 6) Non-graphing scientific calculator can be used for numerical solving.
+
 7) Figures in brackets on the right hand side indicate full marks.
-8) Assume-suitable data if necessary.
-9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Ba= 137,
-Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, Fr=223, H=1,
-He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20:2, Ni=58.7, O=16, Os=190, P=31, S=32,
-Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2,
 
-Date: 16 January 2019
+8) Assume .uitable data if necessary.
 
-Q1. Answer the following:
+9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Br=80, C=12,
+Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, H=1, He=4, K=39, Kr=84, Mg=24,
+Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, S=32, Sc=44.9, Se=79, Si=28, Zn=65.4,
+Zr=91.2
 
-a. With a suitable diagram discuss the Rutherford’s experiment to determine the (5)
-structure of an atom
+Q1. Answer any four of the following:
 
-b. Discuss the different types of metal oxide films that could be formed on the surface (5)
-of metals. Show diagrammatically with suitable examples of each type
+a. What are non-ferrous alloys? Discuss with any three examples. (3.5)
 
-c. A water sample has the following impurities: MgSO, = 24 ppm, MgCl, = 18 ppm, (4)
-Mg(HCOs)2 = 22 ppm, Ca(HCOs)2 = 32 ppm, Na2SO4 = 19 ppm, NaCl = 14 ppm, KCI =
-10 ppm, KNO3 = 15 ppm, NaNO3 = 20 ppm. Calculate the total, permanent, and
-temporary hardness of the unknown hard water sample.
+b. With suitable examples write a short note on the Hund’s rule of maximum multiplicity. (3.5)
 
-Q2. a. Write a short note on the different physical properties of metals. (5)
-b. What is bronze? Describe any two different types of bronzes with their applications. (5)
-c. What is the molarity (M) of a CaSO, solution in which 36g of CaSO, is dissolved in (4)
+c. A water sample has the following impurities: Ca(HCO3)2 = 32 ppm, Al2(SO4)3 = 26 ppm, (3.5)
+MgCh = 18 ppm, MgSOg = 24 ppm, CaSOx = 28 ppm, Na2SOx = 10 ppm, NaCl = 15 ppm, KCl
+= 2 ppm, KNO3 = 20 ppm, NaNO; = 15 ppm. Calculate the total hardness of the unknown
+hard water sample
 
-500 mL of the solution?
+d. Write the line notation for the Daniell cell and write the reactions occurring at the (3.5)
+cathode and the anode, as well as the overall reaction occurring in this cell.
 
-Page 1/2
+e. Discuss the different types of metal oxide films that could be formed on the surface of (3.5)
+metals. Show diagrammatically with suitable examples of each type.
+
+f. Calculate the hydronium ion concentration (in moles per liter) ina 1x 10-8 M aqueous (3.5)
+solution of NaOH
+
+Q2. a. Differentiate between sludges and scales (5)
+b. Write a short note on the Bohr’s postulates for an atom (5)
+
+Ag*| Ag ; Given: E’cell = + 1.5 V; [Ag*] = 5.2 x 10“ M, and [Zn2*] = (4)
+
+c. For the cell: Zn|Zn?*|
 --- page 2 ---
-Q3.
+“3.
 
 Q4.
 
-Q5.
+Qs.
 
 Q6.
 
 Q7.
 
-Calculate the mass of chromium (Cr) in K2Cr207 that contains 5.24 x 10° oxygen
-atoms.
+1.3 x 10°? M. Calculate Ecer. Show the reactions occurring at the anode and the cathode
+and the overall reaction occurring in this cell.
 
-With a suitable diagram write a short note on tinning.
-
-With a suitable diagram discuss the mechanism of wet corrosion in an acidic
-medium.
+Write the electronic configuration of the given elements (figures in the brackets indicate
+atomic numbers), show the filling of the electrons in the different orbitals using the
+orbital diagrams: S (16), Cl(17), Ar(18), K(19), Ca(20).
 
 Write a short note on the Lowry Bronsted concept of acids and bases with suitable
 examples.
 
-The pH of human arterial blood is 7.40. Classify it as acidic, basic or neutral. Calculate
-the concentration of H30* ions and OH ions.
+With a suitable diagram discuss the mechanism of wet corrosion in an acidic medium.
 
-Calculate the concentration of OH ions and pOH of a 5 x 10™*M aqueous solution
-of HCl. .
+With a suitable diagram, write a short note on differential aeration cell corrosion.
 
-Diagrammatically show the shapes of the 1s, 2s and the three 2p orbitals.
+With a suitable diagram discuss the Rutherford’s experiment to determine the structure
+of an atom.
 
-State the Aufbau’s principle, and Pauli’s exclusion principle. With suitable examples
-write a note on the Hund’s rule of maximum multiplicity.
+A sample of orange juice has a hydrogen-ion concentration of 2.9 x 10% M. What is the
+pOH?
 
-Write the electronic configuration of the following elements. Show the filling of the
-electrons in the different orbitals using the orbital diagrams (figures in the brackets
-indicate atomic number of that element): Si (14), P (15), S (16), Cl (17).
+Discuss any five metal specific factors causing corrosion,
+What is bronze? Describe any four different types of bronzes with their applications.
+Write a short note on the boiler corrosion showing the reactions involved in the process.
 
-Write a short note on the boiler corrosion showing the reactions involved in the
-process.
+Calculate the time taken to deposit 10.00 g of copper onto an object that is placed in a
+solution of copper nitrate, Cu(NOs)2, and has a current of 25 A flowing through it.
 
-Write a short note on temporary and permanent hardness with suitable examples.
-Show the reactions involved in the removal of temporary hardness.
+Write a short note on the disadvantages of using hard water for industrial purposes.
+Write a short note on the mechanical property ‘strength’ of a metal. Define tensile
+strength, shear strength, and compression strength.
 
-A standard hard water sample has 0.45 g CaCO3 in 600 mL of the solution. 40mL of
-this solution required 28mL of EDTA’ solution for reaching the end point of the
-titration. 40mL of an unknown water sample required 22 mL of the same EDTA
-solution for the titration. Calculate the total hardness of the unknown water sample.
+A standard hard water sample has 1.0 g CaCO3 in 500 mL of the solution. 25mL of this
+solution required 28mL of EDTA solution for reaching the end point of the titration. 25mL
+of an unknown hard water sample required 22mL of the same EDTA solution for the
+titration and after boiling and filtering the 25 mL boiled and filtered unknown hard water
+sample required 10mL of EDTA solution for titration. Calculate the total, permanent, and
+temporary hardness of the unknown hard water sample.
 
-A voltaic cell is based on Copper and Magnesium half-cells. (E° mg”*ymg= — 2.37 V;
-E°cuscu** = — 0.34 V). Based on the given electrode potentials write the line notation
-for the cell. Write the reactions occurring at the cathode and the anode, and the
-overall reaction occurring for this cell.
+Diagrammatically represent the shapes of the 1s, 2s and the three 2p orbitals.
 
-For the cell: Zn|Zn?* || Cu2*| cu ; Given: E’cell = + 1.1 V; [Cu2*] = 5.2 x 10° M, and
-
-[Zn2*] = 1.3 x 10° M. Calculate Ecen.
-
-How many grams of Ca will be produced in an electrolytic cell of molten CaCl, if a
-current of 0.452 A is passed through the cell for 1.5 hours?
-
-Page 2/2
+A voltaic cell is based on Copper and Magnesium half-cells. (E° mg”*/ mg= — 2.37 V; E’cu/
+cu2* = — 0.34 V). Based on the given electrode potentials write the line notation for the
+cell. Write the reactions occurring at the cathode and the ancde, and the overall reaction
+occurring for this cell. Calculate the value of E°ceu for this cell.
 
 (5)
 
 (5)
-
+(4)
+(5)
+(5)
+(4)
+(5)
+(5)
+(4)
+(5)
+(5)
 (4)
 
 (5)
 
 (5)
-
-(4)
-
-(5)
-
-(5)
-
-(4)
-
-(5)
-
-(5)
-
-(4)
-
-(5)
-
-(5)
-
 (4)
 ````
 
@@ -1912,145 +2197,6 @@ Calculate the pH of the following solutions:
 (4)
 ````
 
-## 2017-18 · Re-Exam · Sem 1 · paper 9f7ea7c84aa1
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistry I Batch 2016-2017 2017-18 Re Exam.pdf`
-- Printed on paper: exam date: 11 November 2019
-- Text: ocr (2 pages), mean OCR confidence 92.5
-
-````text
-/
-
-4 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program :B.Tech Integrated (All Stream) Year: I Semester I
-Academic Year: 2019-2020
-
-Subject: Chemistry - I
-Date: 11 November 2019
-
-Re-Examination(2016-17/ 2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-Note:
-1) Question No. 1 is compulsory.
-2) Out of the remaining questions, attempt any 4 questions.
-3) Inall5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started ona fresh page.
-6) Non-graphing scientific calculator can be used for numerical solving -
-7) Figures in brackets on the right hand side indicate full marks.
-8) Assume -suitable data if necessary.
-9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Ba= 137,
-Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, Fr=223, H=1,
-He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, P=31, S=32,
-Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2
-
-Qi. Answer the following: _
-
-a. A water sample has the following impurities: MgSO, = 14 ppm, MgCl, = 28 ppm, (5)
-Mg(HCOs)2 = 12 ppm, Ca(HCOs)2 = 22 ppm, NazSO, = 19 ppm, NaCl = 14 ppm, KCI =
-10 ppm, KNO3 = 15 ppm, NaNO3 = 20 ppm. Calculate the total, permanent, and
-temporary hardness of the unknown hard water sample.
-
-b. Discuss the Rutherford’s experiment to determine the structure of an atom. Showa (5)
-suitable diagram.
-
-c. With a diagram and suitable examples, discuss the different types of stable metal (4)
-oxide films that could be formed on the surface of metals.
-
-Q2. a. What is the molarity (M) of a MgSO, solution in which 36g of MgSOx is dissolved in (5)
-500 mL of the solution?
-
-b. Write a short note on any five physical properties of metals. (5)
-
-c. Whatis bronze? Describe any two different types of brasses with their applications. (4)
-
-Page 1/2
---- page 2 ---
-Q3.
-
-Q4.
-
-Qs.
-
-Q6.
-
-Q7.
-
-With a suitable diagram discuss the mechanism of wet corrosion in an neutral
-electrolytic medium.
-
-Calculate the mass of potassium (K) in K2Cr207 that contains 5.24 x 10° oxygen
-atoms.
-
-With a suitable diagram write a short note on galvanizing.
-
-Calculate the concentration of OH” ions of a 5 x 10° M aqueous solution of HCl.
-Write a short note on the Lewis concept of acids and bases with suitable examples.
-The pH of a solution is 7.40. Classify it as acidic, basic or neutral. Calculate the
-concentration of H30* ions and OH ions.
-
-Write the electronic configuration of the following elements: Show the filling of the
-electrons in the different orbitals using the orbital diagrams (figures in the brackets
-indicate atomic number of that element): Si (14), P (15), S (16), Cl (17), Ar(18).
-Diagrammatically show the shapes of the 1s, 2s and the three 2p orbitals.
-
-State the Aufbau’s principle, and Pauli’s exclusion principle.
-
-A standard hard water sample has 0.54 g CaCO3 in 600 mL of the solution. 25mL of
-this solution required 28mL of EDTA solution for reaching the end point of the
-titration. 25mL of an unknown water sample required 22 mL of the same EDTA
-solution for the titration. Calculate the total hardness of the unknown water sample.
-Write a short note on the caustic embrittlement showing the reactions involved in
-the process.
-
-Differentiate between temporary and permanent hardness.
-
-How many grams of Mg will be produced in an electrolytic cell containing aqueous
-MgCh, if a current of 0.542 A is passed through the cell for 2.5 hours?
-
-A voltaic cell is based on Copper and Magnesium half-cells. (E° mg”*ymg= — 2.37 V;
-
-E°cu/cu** = — 0.34 V). Based on the given electrode potentials write the reactions
-occurring at the cathode and the anode, and the overall reaction occurring for this
-cell.
-
-For the cell: Zn |Zn**|| Cu2*|Cu ; Given: E’cell = + 1.1 V; [Cu**] = 5.2 x 10“ M, and
-[Zn2*] = 1.3 x 103 M. Calculate Eceu
-
-Page 2/2
-
-(5)
-(5)
-(4)
-(5)
-
-(5)
-(4)
-
-(5)
-
-(5)
-(4)
-
-(5)
-
-(5)
-
-(4)
-
-(5)
-
-(5)
-
-(4)
-````
-
 ## 2016-17 · Final-Exam · Sem 1 · paper 3dc291ef0699
 
 - Departments: Common (all branches)
@@ -2220,302 +2366,7 @@ Write a note on cathodic protection method.
 (4)
 ````
 
-## 2016-17 · Re-Exam · Sem 1 · paper fea14853d5de
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistry I Batch 2015-16,2016-2017 Re Exam.pdf`
-- Printed on paper: exam date: 28 November 2017
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2017 - 2018
-Program:B. Tech Integrated (All Streams) Year: I Semester:I
-Batch: 2015-16/ 2016-17 © 78.0? Bikages
-Subject: Chemistry - I-
-Date 28 November 2017
-
-RE-EXAMINATION
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-Note:
-
-- 1) Question No. 1 is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) Inall5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Non-graphing scientific calculator can be used for numerical solving.
-
-7) Figures in brackets on the right hand side indicate full marks.
-
-8) Assume .uitable data if necessary.
-
-9) Atomic weights of some elements: Al=27, Ag=107.9, Ar=39.9, As=74.9, At=210, Au=197, Br=80, C=12,
-Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9, H=1, He=4, K=39, Kr=84, Mg=24,
-Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, S=32, Sc=44.9, Se=79, Si=28, Zn=65.4,
-Zr=91.2
-
-Q1. Answer any four of the following:
-
-a. What are non-ferrous alloys? Discuss with any three examples. (3.5)
-
-b. With suitable examples write a short note on the Hund’s rule of maximum multiplicity. (3.5)
-
-c. A water sample has the following impurities: Ca(HCO3)2 = 32 ppm, Al2(SO4)3 = 26 ppm, (3.5)
-MgCh = 18 ppm, MgSOg = 24 ppm, CaSOx = 28 ppm, Na2SOx = 10 ppm, NaCl = 15 ppm, KCl
-= 2 ppm, KNO3 = 20 ppm, NaNO; = 15 ppm. Calculate the total hardness of the unknown
-hard water sample
-
-d. Write the line notation for the Daniell cell and write the reactions occurring at the (3.5)
-cathode and the anode, as well as the overall reaction occurring in this cell.
-
-e. Discuss the different types of metal oxide films that could be formed on the surface of (3.5)
-metals. Show diagrammatically with suitable examples of each type.
-
-f. Calculate the hydronium ion concentration (in moles per liter) ina 1x 10-8 M aqueous (3.5)
-solution of NaOH
-
-Q2. a. Differentiate between sludges and scales (5)
-b. Write a short note on the Bohr’s postulates for an atom (5)
-
-Ag*| Ag ; Given: E’cell = + 1.5 V; [Ag*] = 5.2 x 10“ M, and [Zn2*] = (4)
-
-c. For the cell: Zn|Zn?*|
---- page 2 ---
-“3.
-
-Q4.
-
-Qs.
-
-Q6.
-
-Q7.
-
-1.3 x 10°? M. Calculate Ecer. Show the reactions occurring at the anode and the cathode
-and the overall reaction occurring in this cell.
-
-Write the electronic configuration of the given elements (figures in the brackets indicate
-atomic numbers), show the filling of the electrons in the different orbitals using the
-orbital diagrams: S (16), Cl(17), Ar(18), K(19), Ca(20).
-
-Write a short note on the Lowry Bronsted concept of acids and bases with suitable
-examples.
-
-With a suitable diagram discuss the mechanism of wet corrosion in an acidic medium.
-
-With a suitable diagram, write a short note on differential aeration cell corrosion.
-
-With a suitable diagram discuss the Rutherford’s experiment to determine the structure
-of an atom.
-
-A sample of orange juice has a hydrogen-ion concentration of 2.9 x 10% M. What is the
-pOH?
-
-Discuss any five metal specific factors causing corrosion,
-What is bronze? Describe any four different types of bronzes with their applications.
-Write a short note on the boiler corrosion showing the reactions involved in the process.
-
-Calculate the time taken to deposit 10.00 g of copper onto an object that is placed in a
-solution of copper nitrate, Cu(NOs)2, and has a current of 25 A flowing through it.
-
-Write a short note on the disadvantages of using hard water for industrial purposes.
-Write a short note on the mechanical property ‘strength’ of a metal. Define tensile
-strength, shear strength, and compression strength.
-
-A standard hard water sample has 1.0 g CaCO3 in 500 mL of the solution. 25mL of this
-solution required 28mL of EDTA solution for reaching the end point of the titration. 25mL
-of an unknown hard water sample required 22mL of the same EDTA solution for the
-titration and after boiling and filtering the 25 mL boiled and filtered unknown hard water
-sample required 10mL of EDTA solution for titration. Calculate the total, permanent, and
-temporary hardness of the unknown hard water sample.
-
-Diagrammatically represent the shapes of the 1s, 2s and the three 2p orbitals.
-
-A voltaic cell is based on Copper and Magnesium half-cells. (E° mg”*/ mg= — 2.37 V; E’cu/
-cu2* = — 0.34 V). Based on the given electrode potentials write the line notation for the
-cell. Write the reactions occurring at the cathode and the ancde, and the overall reaction
-occurring for this cell. Calculate the value of E°ceu for this cell.
-
-(5)
-
-(5)
-(4)
-(5)
-(5)
-(4)
-(5)
-(5)
-(4)
-(5)
-(5)
-(4)
-
-(5)
-
-(5)
-(4)
-````
-
-## 2015-16 · Final-Exam · Sem 1 · paper 82bf6234d435
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistry I Batch 2015-16 Final.pdf`
-- Printed on paper: exam date: 01/12/2015
-- Text: ocr (2 pages), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (All Streams) Year: I
-Academic Year: 2015-2016
-
-Subject: Chemistry - I
-Marks
-
-Date: 01/12/2015 Time
-Durations
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and-on the
-cover of the Answer Book, which is provided for their use.
-Note:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) Inall 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Non-graphing scientific calculator can be used for numerical solving
-7) Figures in brackets on the right hand side indicate full marks.
-8) Assume Suitable data if necessary
-9) Atomic weights of some elements: Al=27, Ar=39.9, As=74.9, At=210, C=12, Ca=40, Ce=140,
-Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, H=1, He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23,
-Ne=20.2, O=16, Os=190, S=32, Sc=44.9, Se=79, Si= 28, Zn=65.4, Zr=91.2
-
-Q1.   Partt: Answer any two of the following:
-
-a. Draw a nickel concentration cell; label the different parts of the cell. Show the (5)
-reactions occurring at the cathode and the anode, and the overall reaction occurring
-for this cell
-
-b. A standard hard water sample has 0.4 g CaCO; in 400 mL of the solution. 50mL of this (5)
-solution required 28mL of EDTA solution for reaching the end point of the titration.
-50mL of an unknown hard water sample required 25mL of the same EDTA solution for
-the titration and after boiling and filtering the same SOmL of unknown hard water
-sample required 18mL of EDTA solution for titration. Calculate the total, permanent,
-and temporary hardness of the unknown hard water sample
-
-c. Write a short note on the Bohr’s postulates for an atom (5)
-d. Write a short note on the different types of wet corrosion cells (5)
-Q.1. Part Il: Answer any one of the following:
-e. Differentiate between ferrous and non-ferrous metals (4)
-f. A sample of orange juice has a hydrogen-ion concentration of 9 x 10° M. What is the (4)
-pH?
---- page 2 ---
-Q2.
-
-Q3.
-
-Q4.
-
-Q5.
-
-Q6.
-
-Q?7.
-
-Differentiate between sludges and scales
-
-For the cell: Zn|Zn*|| Ag*| Ag ; Given: E’cell = + 1.5 V; [Ag*] = 9.2 x 10° M, and id [zn] =
-1.3-x 10“ M. Calculate Ege. Show the reactions occurring at the anode and the
-cathode* SS
-
-Write a short note on non-ferrous metals with suitable examples
-
-What is bronze? Describe any four different types of bronzes with their applications.
-With a suitable diagram discuss the mechanism of wet corrosion in a neutral
-electrolytic medium
-
-Write a short note on temporary and permanent hardness with suitable examples.
-Show the reactions involved in the removal of temporary hardness
-
-Diagrammatically represent the shapes of the 1s, 2s and the three 2p orbitals
-
-Write a short note on caustic embrittlement showing the reactions involved in the
-process
-
-In an operating electrolytic cell, a current of 15000 A is used. Calculate the mass of
-aluminium that would be produced if this cell operates continuously for 24 hrs.
-
-Write a short note on the Aufbau’s principle and show how the diagonal rule is used to
-fill electrons in the different orbitals
-
-With a suitable example write a short note on the conventions used in the line
-notation for writing an electrochemical cell
-
-A water sample has the following impurities: Ca(HCO3). = 16 ppm, Alz(SO,)3 = 13 ppm,
-MgCl, = 9 ppm, MgSO, = 12 ppm, CaSO, = 14 ppm, Na2SO, = 9 ppm, NaCl = 12 ppm, KCI
-= 20 ppm, KNO3 = 25 ppm, NaNO; = 25 ppm. Calculate the total, permanent, and
-temporary hardness of the unknown hard water sample.
-
-Write a short note on the Lowry Bronsted concept of acids and bases with suitable
-examples
-With suitable examples write a note on the Hund’s rule of maximum multiplicity
-Discuss any four environment specific factors causing corrosion
-
-16174 1919 @
-Write the electronic configuration of the following elements: S, Cl, Ar, K, Ca. Show the
-filling of the electrons in the different orbitals using the orbital diagrams
-With a suitable diagram write a short note on galvanizing
-The concentration of OH in a sample of seawater is 9.0 x 10° M. Calculate the
-concentration of H30° ions, and classify the solution as acidic, neutral, or basic
-
-2
-
-(5)
-(5)
-
-(4)
-
-(5)
-(5)
-
-(4)
-
-(5)
-(5)
-
-(4)
-
-(5)
-(5)
-
-(4)
-
-(5)
-
-(5)
-(4)
-
-(5)
-
-(5)
-(4)
-````
-
-## 2015-16 · Re-Exam · Sem 1 · paper 02628cdde30b
+## 2016-17 · Re-Exam · Sem 1 · paper 02628cdde30b
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -2671,6 +2522,155 @@ solution of copper nitrate, Cu(NO3), and has a current of 2.50 A flowing through
 
 (5)
 
+(4)
+````
+
+## 2015-16 · Final-Exam · Sem 1 · paper 82bf6234d435
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/CHEMISTRY I/Chemistry I Batch 2015-16 Final.pdf`
+- Printed on paper: exam date: 01/12/2015
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (All Streams) Year: I
+Academic Year: 2015-2016
+
+Subject: Chemistry - I
+Marks
+
+Date: 01/12/2015 Time
+Durations
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and-on the
+cover of the Answer Book, which is provided for their use.
+Note:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) Inall 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Non-graphing scientific calculator can be used for numerical solving
+7) Figures in brackets on the right hand side indicate full marks.
+8) Assume Suitable data if necessary
+9) Atomic weights of some elements: Al=27, Ar=39.9, As=74.9, At=210, C=12, Ca=40, Ce=140,
+Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, H=1, He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23,
+Ne=20.2, O=16, Os=190, S=32, Sc=44.9, Se=79, Si= 28, Zn=65.4, Zr=91.2
+
+Q1.   Partt: Answer any two of the following:
+
+a. Draw a nickel concentration cell; label the different parts of the cell. Show the (5)
+reactions occurring at the cathode and the anode, and the overall reaction occurring
+for this cell
+
+b. A standard hard water sample has 0.4 g CaCO; in 400 mL of the solution. 50mL of this (5)
+solution required 28mL of EDTA solution for reaching the end point of the titration.
+50mL of an unknown hard water sample required 25mL of the same EDTA solution for
+the titration and after boiling and filtering the same SOmL of unknown hard water
+sample required 18mL of EDTA solution for titration. Calculate the total, permanent,
+and temporary hardness of the unknown hard water sample
+
+c. Write a short note on the Bohr’s postulates for an atom (5)
+d. Write a short note on the different types of wet corrosion cells (5)
+Q.1. Part Il: Answer any one of the following:
+e. Differentiate between ferrous and non-ferrous metals (4)
+f. A sample of orange juice has a hydrogen-ion concentration of 9 x 10° M. What is the (4)
+pH?
+--- page 2 ---
+Q2.
+
+Q3.
+
+Q4.
+
+Q5.
+
+Q6.
+
+Q?7.
+
+Differentiate between sludges and scales
+
+For the cell: Zn|Zn*|| Ag*| Ag ; Given: E’cell = + 1.5 V; [Ag*] = 9.2 x 10° M, and id [zn] =
+1.3-x 10“ M. Calculate Ege. Show the reactions occurring at the anode and the
+cathode* SS
+
+Write a short note on non-ferrous metals with suitable examples
+
+What is bronze? Describe any four different types of bronzes with their applications.
+With a suitable diagram discuss the mechanism of wet corrosion in a neutral
+electrolytic medium
+
+Write a short note on temporary and permanent hardness with suitable examples.
+Show the reactions involved in the removal of temporary hardness
+
+Diagrammatically represent the shapes of the 1s, 2s and the three 2p orbitals
+
+Write a short note on caustic embrittlement showing the reactions involved in the
+process
+
+In an operating electrolytic cell, a current of 15000 A is used. Calculate the mass of
+aluminium that would be produced if this cell operates continuously for 24 hrs.
+
+Write a short note on the Aufbau’s principle and show how the diagonal rule is used to
+fill electrons in the different orbitals
+
+With a suitable example write a short note on the conventions used in the line
+notation for writing an electrochemical cell
+
+A water sample has the following impurities: Ca(HCO3). = 16 ppm, Alz(SO,)3 = 13 ppm,
+MgCl, = 9 ppm, MgSO, = 12 ppm, CaSO, = 14 ppm, Na2SO, = 9 ppm, NaCl = 12 ppm, KCI
+= 20 ppm, KNO3 = 25 ppm, NaNO; = 25 ppm. Calculate the total, permanent, and
+temporary hardness of the unknown hard water sample.
+
+Write a short note on the Lowry Bronsted concept of acids and bases with suitable
+examples
+With suitable examples write a note on the Hund’s rule of maximum multiplicity
+Discuss any four environment specific factors causing corrosion
+
+16174 1919 @
+Write the electronic configuration of the following elements: S, Cl, Ar, K, Ca. Show the
+filling of the electrons in the different orbitals using the orbital diagrams
+With a suitable diagram write a short note on galvanizing
+The concentration of OH in a sample of seawater is 9.0 x 10° M. Calculate the
+concentration of H30° ions, and classify the solution as acidic, neutral, or basic
+
+2
+
+(5)
+(5)
+
+(4)
+
+(5)
+(5)
+
+(4)
+
+(5)
+(5)
+
+(4)
+
+(5)
+(5)
+
+(4)
+
+(5)
+
+(5)
+(4)
+
+(5)
+
+(5)
 (4)
 ````
 

@@ -169,6 +169,173 @@ BT -3
 Page 4 of 4
 ````
 
+## 2021-22 · Final-Exam · Sem 4 · paper 58d1100c525c
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/THERMODYNAMICS AND HEAT TRANSFER/B Tech, Mechatronics, Thermodynamics & Heat Transfer, 2nd Year, Sem-IV, Final Exa_5ea5efae.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 April 2022
+- Text: ocr (4 pages), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG!
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2021-22
+Programme: B. Tech (Mechatronics) Year: II Semester: IV
+
+Subject: Thermodynamics & Heat Transfer
+, : Marks: 100
+Date: 07 April 2022 Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages:
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1 Answer briefly: [20]
+
+CO -2 Illustrate how a violation of the Clausius’ statement leads to a violation [5]
+. a.
+ae . ; of the Kelvin-Planck’s statement.
+CO -3
+SO -2 b. | Explain the empirical correlations for free convection in detail. [5]
+BT -3
+CcoO-1 : . . : :
+SO -2 c. | Describe critical thickness of insulation in detail. [5]
+BT -2
+CO-1 :
+SO -2 d. | Sketch and describe thermodynamic system and control volume. [5]
+BT -3
+Q2 Answer the following: [20]
+
+Air at 30 °C is flowing over a flat plate which is 220 mm wide and 480
+mm long. The plate is maintained at 120 °C. Air flows parallel to the 480
+CO -3 mm side with a velocity of 2.1 m/s. Properties of air at 75 °C: v = 2x10°
+Boo} | * | mis, Pr=0.716 and k= 0.029 Wim-K. Calculate:
+1. heat loss per hour from the plate and
+
+[10]
+
+2. effect of heat transfer if flow is parallel to 220 mm side.
+
+Page 1 of 4
+--- page 2 ---
+A cylindrical ingot 10 cm diameter and 30 cm long passes through a heat
+
+treatment furnace which is 6 m in length. The ingot is to reach a
+
+a temperature of 900 °C before being taken out of the furnace. The furnace
+SO-1 b. | gas is at 1450 °C and ingot initial temperature is 80 °C. Given: combined | [10]
+
+BT-5 convective and radiative heat transfer coefficient = 100 W/m?-K, ksteel =
+
+"| 40 Wim-K and a = 1.16 x 10° m/s. Evaluate the maximum speed with
+
+which the ingot should be moved in the furnace.
+
+Q3 Answer the following: [20]
+
+A reactor’s wall, 400 mm thick, is made up of an inner layer of fire brick
+(k = 0.85 W/m-K) covered with a layer of insulation (k = 0.12 W/m-K).
+The operating temperature of the reactor is 1400 °C and ambient
+CO -3 temperature can be taken as 30 °C. Insulating material has a maximum
+n° - ; * temperature of 1200 °C. Determine: [10]
+1. thicknesses of firebrick and insulation that give minimum heat
+loss and
+
+2. heat loss per unit area.
+
+A reversible heat engine operates between two reservoirs at temperatures
+of 800°C and 35°C. The engine drives a reversible refrigerator which
+operates between reservoirs at temperatures of 35°C and -25°C. The heat
+transfer. to the heat engine is 2500 kJ and the net work output of the
+combined engine refrigerator plant is 400 kJ. Compute:
+
+1. the heat transfer to the refrigerant,
+
+2. the heat transfer to the reservoir at 35°C and
+
+CO -2
+SO-1 b. 3. the heat absorbed by the refrigerator. [10]
+
+BT -3
+Considering actual refrigerators and heat engines having COP and
+] efficiency half that of the reversible ones given above respectively,
+compute:
+1. the heat transfer to the refrigerant,
+2. the heat transfer to the reservoir at 35°C and
+
+3. the heat absorbed by the refrigerator.
+
+Page 2 of 4
+--- page 3 ---
+—_——— om Onn a
+
+Q4 Answer the following: [20]
+co-1
+SO -2 Sketch and explain the pdV work in various quasi static processes. [8]
+BT -2
+.CO-3
+SO -2 Illustrate and elaborate Planck’s law of radiation. [7]
+BT -4 :
+A stationary mass of gas is expanded without friction from an initial state
+6° - ° of 0.25 m? and 0.3 MPa to a final state of 0.5 m? and 0.3 MPa. If the heat (5)
+BT-5 transfer to the gas is 45 kJ, evaluate the internal energy change in the gas
+during the process.
+Q5 Answer the following: [20]
+co-1
+SO -2 Discuss internal energy and specific heat at constant volume in detail. [8]
+BT -2
+co -1
+SO -2 Illustrate and explain path and point functions. [7]
+BT -4
+CO-1
+SO -2 Illustrate Carnot’s theorem with explanation. {5]
+BT -4
+Q6 Answer the following: [20]
+The effective temperature of a body having an area of 0.15 m? is 550 °C.
+CO -3 Evaluate the following:
+SO-1 1. the total rate of energy emission, [5]
+BT -5 2. the intensity of normal radiation and
+3. the wavelength of maximum monochromatic emissive power.
+CO -2 ‘
+SO -2 Explain the inequality of Clausius. [5]
+BT -3
+So 3 Describe the zeroth law of thermodynamics with the help of a neat [5]
+BT-2 illustration.
+
+Page 3 of 4
+--- page 4 ---
+CO -3
+SO -2
+
+BT -3
+
+d.
+
+Develop an equation for the overall heat transfer coefficient.
+
+[5]
+
+Page 4 of 4
+````
+
 ## 2021-22 · Re-Exam · Sem 4 · paper f80d8b3cdb4c
 
 - Departments: Mechatronics
@@ -941,6 +1108,154 @@ Fey-rg = 1/2(Z2 —VZ2—4E*D2).—- [aes :
 b) Explain the Stephan-Boltzmann law with its final expression. (6)
 ````
 
+## 2017-18 · Re-Exam · Sem 4 · paper 5ebf6eadc500
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/THERMODYNAMICS AND HEAT TRANSFER/THERMODYNAMICS_AND_HEAT_TRANSFER_BATCH_14-15_15-16_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2018
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Mechatronics) Year: II Semester: IV
+v
+Batch: 2014-15/ 2015-16
+y Academic Year: 2017-2018
+Subject: Thermodynamics and Heat Transfer \
+¢ Marks: 60 ~ \
+Date: 02 July 2018 _ Time: 10.00 am to 1.00 pm
+
+Durations: 3 (Hrs) |
+No. of Pages: 2.
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No, 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry’equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1. Attempt any four of the following — 12
+a) What is Second law of thermodynamics? .
+b) What do you understand by Quasi-static Process?
+c) What is First law of thermodynamics?
+d) What is critical radius of insulation?
+e) What is Stefan-Boltzmann law?
+
+2. a) Write short note on following — 06
+1. Thermodynamic system.
+2. Zeroth law of Thermodynamics.
+b) A fluid system, contained in a piston and cylinder machine, passes through a complete cycle of 06
+four processes. The sum of all heat transferred during a cycle is -340 kJ. The system completes
+200 cycles minutes. Complete the following table showing the method for each item, and
+compute the net rate of work output in kW.
+
+Process Q (kJ/min) W (kJ/min) AE (kJ/min)
+
+1-2 0 4340 --
+
+2-3 42000 0 --
+
+3-4 -4200 -- -73200
+| 4-1 -- -- --
+
+=a 3. a) State Kelvin-Planck and Clausius statement for Second law and also show the equivalence 06
+between two statements.
+b) What is highest possible theoretical efficiency available for a heat engine operating betweena 02
+hot reservoirs of furnace gasses at 1700°C and cooling water at 15°C?
+
+c) A reversible refrigerator operates between 35° C and -12° C. If the heat rejected to 35°C g4
+reservoir is 1.3 kW, determine the rate at which heat is leaking into the refrigerator.
+
+a
+--- page 2 ---
+a)
+
+b)
+
+a)
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+Write in short —
+1. Entropy principle.
+
+2. Carnot cycle.
+A heat engine receives reversibly 420 kJ / cycle of heat from a source at 327°C, and rejects heat
+
+reversibly to a sink at 27°C. There are no other heat transfers. For each of the three hypothetical
+amounts of heat rejected, given below, compute the cyclic integral oft. From these results
+
+show which case is irreversible, which reversible and which impossible.
+1. 210 kJ/cycle rejected
+2. 105 kJ/ cycle rejected
+3. 315 kJ/ cycle rejected
+
+Drive steady state heat conduction equation.
+A 0.8 m high, 1.5 m wide double-pane window consists of two 4 mm thick layer of glass
+
+. (k=78W/mK) and is separated by a 10 mm wide stagnant air space (k=0.026 W/mK). The room
+
+is at 293K and the outside air is 263K. The heat transfer co-efficient are inside 10 and outside
+40 W/m?K. Find the rate of heat transfer through the window.
+
+Discuss the concept of hydrodynamic boundary layer and thermal boundary layer, with
+necessary sketches with reference to flow over a flat plate.
+
+Calculate the rate of heat loss from a vertical cylinder of 30 cm diameter and 175 cm height
+standing in a 30 km/hr wind at 15°C. The surface temperature of the cylinder is 35°C.
+Properties of air at 25°C are p = 1.142 kg/m, cp = 1.04 kJ/kg K, v = 15.33 x 10° m’/s and k=
+0.0263 W/m K. Take Prandtl number 0.7
+
+Answer the following —
+
+1. Nusselt number (Nu) and Prandtl number (Pr).
+
+2. Wein’s displacement Law.
+
+3. Fourier’s law of heat conduction.
+A cylindrical steel ingot (diameter 100 mm, length 300 mm, k = 40 W/mK, p= 7600 kg/m? and
+c = 600 J/kg K) is to be heated in a furnace from 50°C to 850°C. The temperature inside the
+furnace is 1300°C and the surface heat transfer co-efficient is 100 W/m°K. Calculate the time
+required for heating.
+
+06
+
+06-
+
+06
+06
+
+06
+
+06
+
+06
+
+06
+````
+
 ## 2017-18 · Re-Exam · Sem 4 · paper 5c4151f3e0cc
 
 - Departments: Mechatronics
@@ -1171,155 +1486,7 @@ specific heat 3.35 kJ/kg K.
 2)r
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper 5ebf6eadc500
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/THERMODYNAMICS AND HEAT TRANSFER/THERMODYNAMICS_AND_HEAT_TRANSFER_BATCH_14-15_15-16_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2018
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Mechatronics) Year: II Semester: IV
-v
-Batch: 2014-15/ 2015-16
-y Academic Year: 2017-2018
-Subject: Thermodynamics and Heat Transfer \
-¢ Marks: 60 ~ \
-Date: 02 July 2018 _ Time: 10.00 am to 1.00 pm
-
-Durations: 3 (Hrs) |
-No. of Pages: 2.
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No, 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry’equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-1. Attempt any four of the following — 12
-a) What is Second law of thermodynamics? .
-b) What do you understand by Quasi-static Process?
-c) What is First law of thermodynamics?
-d) What is critical radius of insulation?
-e) What is Stefan-Boltzmann law?
-
-2. a) Write short note on following — 06
-1. Thermodynamic system.
-2. Zeroth law of Thermodynamics.
-b) A fluid system, contained in a piston and cylinder machine, passes through a complete cycle of 06
-four processes. The sum of all heat transferred during a cycle is -340 kJ. The system completes
-200 cycles minutes. Complete the following table showing the method for each item, and
-compute the net rate of work output in kW.
-
-Process Q (kJ/min) W (kJ/min) AE (kJ/min)
-
-1-2 0 4340 --
-
-2-3 42000 0 --
-
-3-4 -4200 -- -73200
-| 4-1 -- -- --
-
-=a 3. a) State Kelvin-Planck and Clausius statement for Second law and also show the equivalence 06
-between two statements.
-b) What is highest possible theoretical efficiency available for a heat engine operating betweena 02
-hot reservoirs of furnace gasses at 1700°C and cooling water at 15°C?
-
-c) A reversible refrigerator operates between 35° C and -12° C. If the heat rejected to 35°C g4
-reservoir is 1.3 kW, determine the rate at which heat is leaking into the refrigerator.
-
-a
---- page 2 ---
-a)
-
-b)
-
-a)
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-Write in short —
-1. Entropy principle.
-
-2. Carnot cycle.
-A heat engine receives reversibly 420 kJ / cycle of heat from a source at 327°C, and rejects heat
-
-reversibly to a sink at 27°C. There are no other heat transfers. For each of the three hypothetical
-amounts of heat rejected, given below, compute the cyclic integral oft. From these results
-
-show which case is irreversible, which reversible and which impossible.
-1. 210 kJ/cycle rejected
-2. 105 kJ/ cycle rejected
-3. 315 kJ/ cycle rejected
-
-Drive steady state heat conduction equation.
-A 0.8 m high, 1.5 m wide double-pane window consists of two 4 mm thick layer of glass
-
-. (k=78W/mK) and is separated by a 10 mm wide stagnant air space (k=0.026 W/mK). The room
-
-is at 293K and the outside air is 263K. The heat transfer co-efficient are inside 10 and outside
-40 W/m?K. Find the rate of heat transfer through the window.
-
-Discuss the concept of hydrodynamic boundary layer and thermal boundary layer, with
-necessary sketches with reference to flow over a flat plate.
-
-Calculate the rate of heat loss from a vertical cylinder of 30 cm diameter and 175 cm height
-standing in a 30 km/hr wind at 15°C. The surface temperature of the cylinder is 35°C.
-Properties of air at 25°C are p = 1.142 kg/m, cp = 1.04 kJ/kg K, v = 15.33 x 10° m’/s and k=
-0.0263 W/m K. Take Prandtl number 0.7
-
-Answer the following —
-
-1. Nusselt number (Nu) and Prandtl number (Pr).
-
-2. Wein’s displacement Law.
-
-3. Fourier’s law of heat conduction.
-A cylindrical steel ingot (diameter 100 mm, length 300 mm, k = 40 W/mK, p= 7600 kg/m? and
-c = 600 J/kg K) is to be heated in a furnace from 50°C to 850°C. The temperature inside the
-furnace is 1300°C and the surface heat transfer co-efficient is 100 W/m°K. Calculate the time
-required for heating.
-
-06
-
-06-
-
-06
-06
-
-06
-
-06
-
-06
-
-06
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 94aaa86055cb
+## 2016-17 · Re-Exam · Sem 4 · paper 94aaa86055cb
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -1458,7 +1625,7 @@ What would be its efficiency if it runs as an engine?
 06
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper fea159722e4a
+## 2015-16 · Re-Exam · Sem 4 · paper fea159722e4a
 
 - Departments: Mechatronics
 - Programmes: B TECH / MECHATRONICS
@@ -1852,171 +2019,4 @@ targeted to achieve this. :
 Compare the work done in the two processes. (4)
 
 V—_
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper 58d1100c525c
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/THERMODYNAMICS AND HEAT TRANSFER/B Tech, Mechatronics, Thermodynamics & Heat Transfer, 2nd Year, Sem-IV, Final Exa_5ea5efae.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 April 2022
-- Text: ocr (4 pages), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG!
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2021-22
-Programme: B. Tech (Mechatronics) Year: II Semester: IV
-
-Subject: Thermodynamics & Heat Transfer
-, : Marks: 100
-Date: 07 April 2022 Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages:
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1 Answer briefly: [20]
-
-CO -2 Illustrate how a violation of the Clausius’ statement leads to a violation [5]
-. a.
-ae . ; of the Kelvin-Planck’s statement.
-CO -3
-SO -2 b. | Explain the empirical correlations for free convection in detail. [5]
-BT -3
-CcoO-1 : . . : :
-SO -2 c. | Describe critical thickness of insulation in detail. [5]
-BT -2
-CO-1 :
-SO -2 d. | Sketch and describe thermodynamic system and control volume. [5]
-BT -3
-Q2 Answer the following: [20]
-
-Air at 30 °C is flowing over a flat plate which is 220 mm wide and 480
-mm long. The plate is maintained at 120 °C. Air flows parallel to the 480
-CO -3 mm side with a velocity of 2.1 m/s. Properties of air at 75 °C: v = 2x10°
-Boo} | * | mis, Pr=0.716 and k= 0.029 Wim-K. Calculate:
-1. heat loss per hour from the plate and
-
-[10]
-
-2. effect of heat transfer if flow is parallel to 220 mm side.
-
-Page 1 of 4
---- page 2 ---
-A cylindrical ingot 10 cm diameter and 30 cm long passes through a heat
-
-treatment furnace which is 6 m in length. The ingot is to reach a
-
-a temperature of 900 °C before being taken out of the furnace. The furnace
-SO-1 b. | gas is at 1450 °C and ingot initial temperature is 80 °C. Given: combined | [10]
-
-BT-5 convective and radiative heat transfer coefficient = 100 W/m?-K, ksteel =
-
-"| 40 Wim-K and a = 1.16 x 10° m/s. Evaluate the maximum speed with
-
-which the ingot should be moved in the furnace.
-
-Q3 Answer the following: [20]
-
-A reactor’s wall, 400 mm thick, is made up of an inner layer of fire brick
-(k = 0.85 W/m-K) covered with a layer of insulation (k = 0.12 W/m-K).
-The operating temperature of the reactor is 1400 °C and ambient
-CO -3 temperature can be taken as 30 °C. Insulating material has a maximum
-n° - ; * temperature of 1200 °C. Determine: [10]
-1. thicknesses of firebrick and insulation that give minimum heat
-loss and
-
-2. heat loss per unit area.
-
-A reversible heat engine operates between two reservoirs at temperatures
-of 800°C and 35°C. The engine drives a reversible refrigerator which
-operates between reservoirs at temperatures of 35°C and -25°C. The heat
-transfer. to the heat engine is 2500 kJ and the net work output of the
-combined engine refrigerator plant is 400 kJ. Compute:
-
-1. the heat transfer to the refrigerant,
-
-2. the heat transfer to the reservoir at 35°C and
-
-CO -2
-SO-1 b. 3. the heat absorbed by the refrigerator. [10]
-
-BT -3
-Considering actual refrigerators and heat engines having COP and
-] efficiency half that of the reversible ones given above respectively,
-compute:
-1. the heat transfer to the refrigerant,
-2. the heat transfer to the reservoir at 35°C and
-
-3. the heat absorbed by the refrigerator.
-
-Page 2 of 4
---- page 3 ---
-—_——— om Onn a
-
-Q4 Answer the following: [20]
-co-1
-SO -2 Sketch and explain the pdV work in various quasi static processes. [8]
-BT -2
-.CO-3
-SO -2 Illustrate and elaborate Planck’s law of radiation. [7]
-BT -4 :
-A stationary mass of gas is expanded without friction from an initial state
-6° - ° of 0.25 m? and 0.3 MPa to a final state of 0.5 m? and 0.3 MPa. If the heat (5)
-BT-5 transfer to the gas is 45 kJ, evaluate the internal energy change in the gas
-during the process.
-Q5 Answer the following: [20]
-co-1
-SO -2 Discuss internal energy and specific heat at constant volume in detail. [8]
-BT -2
-co -1
-SO -2 Illustrate and explain path and point functions. [7]
-BT -4
-CO-1
-SO -2 Illustrate Carnot’s theorem with explanation. {5]
-BT -4
-Q6 Answer the following: [20]
-The effective temperature of a body having an area of 0.15 m? is 550 °C.
-CO -3 Evaluate the following:
-SO-1 1. the total rate of energy emission, [5]
-BT -5 2. the intensity of normal radiation and
-3. the wavelength of maximum monochromatic emissive power.
-CO -2 ‘
-SO -2 Explain the inequality of Clausius. [5]
-BT -3
-So 3 Describe the zeroth law of thermodynamics with the help of a neat [5]
-BT-2 illustration.
-
-Page 3 of 4
---- page 4 ---
-CO -3
-SO -2
-
-BT -3
-
-d.
-
-Develop an equation for the overall heat transfer coefficient.
-
-[5]
-
-Page 4 of 4
 ````

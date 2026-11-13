@@ -285,6 +285,7 @@ Any 5 methods of post testing
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Integrated Marketing Communication/QP_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 18 Dec 2025
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -456,6 +457,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech_DS_7052/Integrated Marketing Communication/QP_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 18 Dec 2025
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -627,6 +629,7 @@ FIC 7) IC HOH
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_Computer_7047/Integrated Marketing Communication/QP_Integrated Marketing Communication(703TM0E004)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 09 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -1829,6 +1832,7 @@ x -——-——
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Integragrated Marketing Communication/INTERGRATED MARKETING COMMUNICATION BATCH 2011-12 RE EXA0001.pdf`
 - Printed on paper: exam date: 14/06/2012
 - Text: ocr (7 pages), mean OCR confidence 77.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 > ae SVKM’s NMIMS
@@ -2084,7 +2088,6 @@ Headline: “The other home my husband
 doesn't mind me living in!”
 
 Bodycopy: That's what you too would say
-aboul ihe Santro zipDrive! A feathertouch
 power steering for home-comfort rides
 (even bindis won't feel out of place)! No
 fatigue, no stress. Because you don'tneed

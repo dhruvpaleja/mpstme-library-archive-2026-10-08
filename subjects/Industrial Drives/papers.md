@@ -634,6 +634,103 @@ operation of a 3-phase full wave brushless de motor drive
 @)
 ````
 
+## 2023-24 · Re-Exam · Sem 5 · paper 2eb574c189f8
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/INDUSTRIAL DRIVES/Industrial Drives, Sem-V, Batch 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 85.1
+
+````text
+SVKM’S NMIMS suena a
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024 ;
+
+»
+
+Program: B. Tech Stream : Mechatronics Year: III Gimesion: Vv
+
+Subject: Industrial Drives Time: 3 hrs (2.00 PM to 5.00PM)
+Date: QO} /02 /24 No. of Pages: 2
+
+Marks: 100
+
+Re-Examination(2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question Ne._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. :
+
+1 : ;
+a Answer briefly: [20]
+oe a. In V/F control of a 3-phase induction motor, if voltage is increased by 20
+| %, in-order to keep air gap flux constant, what is the % increment or [05]
+decrement in frequency. Justify your answer.
+c0-2;50-1; | > Identify the type of DC drive which can be operated in 4 quadrants and is [05]
+BL-2 limited to applications up to 1500 kW. Draw the circuit for the same.
+cui | |“ | Define i. Holding current of SCR ii. Delay time of SCR [05]
+pia 80-1; | d. Compare salient pole motor with permanent magnet motor . [05]
+2 ° With the help of suitable circuit diagram, briefly explain anode-cathode [10]
+CO-1; SO-1; h sae f SCR
+BL2 characteristics 0
+€0-3; 50-1; | b. [10]
+ie With the help of suitable circuit explain four quadrant chopper fed de drive
+Q3 a. Draw a neat diagram of structure of GTO? Discuss its operating principle i
+CO-1; $O-1; along with characteristics? [10]
+BL-2
+b. A220 V, 1500 RPM, 50 A DC separately excited motor with an armature resistance
+of 0.5 Q is fed from a Dual converter with 3 ® fully controlled rectifiers. Input
+supply is a.c. line voltage of 165V. Determine converter firing angles for the
+0-3; 0-1: following operations. a) Motoring operation at rated motor torque and 1000 RPM
+b-4 in FW direction. b) Braking operation at rated motor torque and 1000 RPM in FW | [10]
+
+direction. c) Motoring operation at rated motor torque and 1000 RPM in REV
+direction. d) Motoring operation at rated motor torque and 1000 RPM in REV
+direction
+
+Note: FW-Forward ; REV-Reverse
+
+c
+--- page 2 ---
+Qa ; —F
+cots805: * | With the help of suitable circuit diagram and waveforms, explain the-~ [10]
+en operation of single-phase full wave bridge converter for inductive load
+pai ee b. | Derive the torque expression for salient pole motor? [10]
+Qs : * : :
+ers 4. | With the help of a suitable block diagram explain phase locked loop [10]
+BL2 control of a separately excited de motor :
+CO-2; SO-1; b. | With the help of suitable illustration explain stator voltage control of [10]
+ain induction motor
+6 .
+60-3501; 4. | Derive the relationship between efficiency and slip of a 3-phase Induction [10]
+12 motor. Briefly explain torque-speed characteristics of the same.
+CO-2; SO-1; : : ° ss .
+Sd “on b. Briefly explain the four-quadrant operation of a motor driving a hoist load | 10]
+a. | Athree-phase 11.2kW, 1750 rpm, 460V, 60-Hz four pole star connécted induction
+Q7 motor has the following parameters: R, = 00, R, = 0.38 O, X, = 1.140, X; =
+CO-3; SO-1; 1.710 and Xi = 33.20. The motor is controlled by varying the supply [10]
+ane frequency. If the breakdown torque requirement is 35 N-m, calculate the i.
+supply frequency and ii. speed Wm.
+CO-2; $0-1; b. | With the help of a suitable circuit and appropriate waveforms explain the
+as / PP! ‘ [10]
+operation of a 3-phase half wave brushless de motor drive.
+
+(2)
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 4e332f582ee7
 
 - Departments: Mechatronics
@@ -853,103 +950,6 @@ supply frequency and ii. speed W».
 
 CO-2; $0-1; b. | With the help of a suitable circuit and appropriate waveforms explain the | [1]
 _ operation of a 3-phase full wave brushless de motor drive.
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 2eb574c189f8
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/INDUSTRIAL DRIVES/Industrial Drives, Sem-V, Batch 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 85.1
-
-````text
-SVKM’S NMIMS suena a
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024 ;
-
-»
-
-Program: B. Tech Stream : Mechatronics Year: III Gimesion: Vv
-
-Subject: Industrial Drives Time: 3 hrs (2.00 PM to 5.00PM)
-Date: QO} /02 /24 No. of Pages: 2
-
-Marks: 100
-
-Re-Examination(2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question Ne._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. :
-
-1 : ;
-a Answer briefly: [20]
-oe a. In V/F control of a 3-phase induction motor, if voltage is increased by 20
-| %, in-order to keep air gap flux constant, what is the % increment or [05]
-decrement in frequency. Justify your answer.
-c0-2;50-1; | > Identify the type of DC drive which can be operated in 4 quadrants and is [05]
-BL-2 limited to applications up to 1500 kW. Draw the circuit for the same.
-cui | |“ | Define i. Holding current of SCR ii. Delay time of SCR [05]
-pia 80-1; | d. Compare salient pole motor with permanent magnet motor . [05]
-2 ° With the help of suitable circuit diagram, briefly explain anode-cathode [10]
-CO-1; SO-1; h sae f SCR
-BL2 characteristics 0
-€0-3; 50-1; | b. [10]
-ie With the help of suitable circuit explain four quadrant chopper fed de drive
-Q3 a. Draw a neat diagram of structure of GTO? Discuss its operating principle i
-CO-1; $O-1; along with characteristics? [10]
-BL-2
-b. A220 V, 1500 RPM, 50 A DC separately excited motor with an armature resistance
-of 0.5 Q is fed from a Dual converter with 3 ® fully controlled rectifiers. Input
-supply is a.c. line voltage of 165V. Determine converter firing angles for the
-0-3; 0-1: following operations. a) Motoring operation at rated motor torque and 1000 RPM
-b-4 in FW direction. b) Braking operation at rated motor torque and 1000 RPM in FW | [10]
-
-direction. c) Motoring operation at rated motor torque and 1000 RPM in REV
-direction. d) Motoring operation at rated motor torque and 1000 RPM in REV
-direction
-
-Note: FW-Forward ; REV-Reverse
-
-c
---- page 2 ---
-Qa ; —F
-cots805: * | With the help of suitable circuit diagram and waveforms, explain the-~ [10]
-en operation of single-phase full wave bridge converter for inductive load
-pai ee b. | Derive the torque expression for salient pole motor? [10]
-Qs : * : :
-ers 4. | With the help of a suitable block diagram explain phase locked loop [10]
-BL2 control of a separately excited de motor :
-CO-2; SO-1; b. | With the help of suitable illustration explain stator voltage control of [10]
-ain induction motor
-6 .
-60-3501; 4. | Derive the relationship between efficiency and slip of a 3-phase Induction [10]
-12 motor. Briefly explain torque-speed characteristics of the same.
-CO-2; SO-1; : : ° ss .
-Sd “on b. Briefly explain the four-quadrant operation of a motor driving a hoist load | 10]
-a. | Athree-phase 11.2kW, 1750 rpm, 460V, 60-Hz four pole star connécted induction
-Q7 motor has the following parameters: R, = 00, R, = 0.38 O, X, = 1.140, X; =
-CO-3; SO-1; 1.710 and Xi = 33.20. The motor is controlled by varying the supply [10]
-ane frequency. If the breakdown torque requirement is 35 N-m, calculate the i.
-supply frequency and ii. speed Wm.
-CO-2; $0-1; b. | With the help of a suitable circuit and appropriate waveforms explain the
-as / PP! ‘ [10]
-operation of a 3-phase half wave brushless de motor drive.
-
-(2)
 ````
 
 ## 2022-23 · Re-Exam · Sem 5 · paper d463e351484a
@@ -1807,6 +1807,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/INDUSTRIAL DRIVES/INDUSTRIAL DRIVES BATCH 16-17 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 11 July 2017
 - Text: ocr (2 pages), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ™ SVKM’s NMIMS
@@ -1885,7 +1886,6 @@ Q.7 a) Draw equivalent circuit and phasor diagram of cylindrical rotor synchrono
 motor at lagging pf and explain.
 b) Explain brushless de motor with diagram and waveform. [06]
 
-2 ko oo oR oR OR RR RR KK
 
 Page 2 of 2
 ````

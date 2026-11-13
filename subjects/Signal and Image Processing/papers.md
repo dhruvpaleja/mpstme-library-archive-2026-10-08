@@ -1395,7 +1395,7 @@ ofifij]i|.o}oy]o !
 
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper a984c033e8ff
+## 2023-24 · Final + Re-Exam · Sem 4 · paper a984c033e8ff
 
 - Departments: Artificial Intelligence
 - Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
@@ -1544,171 +1544,7 @@ OJOTLIIJO} 1} 1/010
 O/O}1{O}1}0} 0} 1) 0} 1 l
 ````
 
-## 2022-23 · Final-Exam · Sem 4 · paper 33f2d84b7089
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/SIGNAL AND IMAGE PROCESSING/Signal and Image Processing,Final exam 2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 87.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
-Academic Year: 2022-2023
-
-Program: B.Tech/MBA Tech - Year: II Semester: IV
-
-Stream: Artificial Intelligence/ Artificial Intelligence and Machine
-Learning/ Artificial Intelligence & Data Science
-
-Subject: Signal and Image Processing Time:10:00 am-1:00 pm
-Date: 29" April 2023 No. of Pages: 3
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of the remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Qi a. | A discrete-time signal is given by x[n]={1, -1, 2, 0, 1, 1, 2}. Sketch the | [04]
-_ SO-1 following signals t
-
-i) x(2n+1) , ii) x(n-ld(n—-2)
-CO-1,S0-1_| b. | The first five points of the 8-point DFT of a sequence x(n) are given as | [04]
-ad X(k) = {0.25, 0.125 — j0.3018, 0, 0.125 — j0.0150 ,0}.
-Determine the remaining 3-points using the DFT property. Discuss about
-the property used.
-
-C0-2,S0-1_ | ¢, | Define Euclidean, city block and chess board distance measures. An | [04]
-BLS image segment is shown below. Let V be the set of gray level values used
-to define connectivity in the image. Compute D4 , Ds, Dm distance
-between pixel p and q for V=[2,3]
-
-2(p)| 3 [2] 6] 1
-6 |2|]3]|6]| 2
-5 |3]2]/ 3] 5
-2;4/3/5]2
-4 [5]2] 3 | 6(q)
-
-CO-3,S0-1_| d. | For enhancing details over a small area in an image, local histogram | [04]
-Be processing is preferred over global histogram processing. State true or
-false and justify your answer
-
-C0-4,S0-1_| e, | Suppose the block being encoded is an 8x8 block between pixel locations | [04]
-
-BL-2.5 (22, 40) and (29, 47). If the block that best matches it in the previous
-frame is located between pixels at location (21, 39) and (28, 46), then
-compute the motion vector.
---- page 2 ---
-Q2 a. | Explain linear & non-linear, static & dynamic system [10]
-CO-1, SO-1 . . .
-BL-2,5 The discrete-time systems are given below-
-i) y(n) = x(n)+ n x(n+1), ii) y(n)= x(2n)
-Determine whether these systems are: linear or non-linear, static or
-dynamic.
-oy S0-1_ | b. | Differentiate between linear convolution and circular convolution (4 pts) [10]
-” Compute the linear convolution using the graphical or fold shift multiply
-method of the following signals: x(n)= {% 0, 1}, h(n)= { } 2, 1}
-Q3 a. | Calculate the percentage saving in calculations in 4-point radix 2 FFT | [10]
-et when compared to DFT.
-’ Given: x(n) = {1,1,1,0}. Compute X(k) using DIT-FFT algorithm.
-a So-1_| b. | Compute the Circular convolution of x1(n)={1,1,1,1} and x2(n)={1,1,0,0} | [10]
-using DFT and IDFT method. * t
-Q4 a. | Explain High Pass Filter in image enhancement. [6]
-0-2, SO-1
-BL-1,2
-cO-2,S0-1 | b | Highlight the intensity in the range of 30-60% of the maximum value for | [4]
-BESS the given image. The intensity of the remaining pixels should be made
-equal to zero. Comment on the result obtained. What is this technique
-called?
-al 5 3 | 14 | 13
-5 2 7 6 | 15
-ie} e) 5 5 | 13
-12] 1 7 6 | 13
-2 |} 10] 10) 3 9
-CO-2,S0-1 | ¢. | Discuss Histogram equalization. Perform histogram equalization on the
-BL-4,5 following image. Draw the histogram before and after equalization. State
-your observations about the original image and the equalized image. [10]
-2 2 2 2 2
-1 2 5 2 1
-1 5 5 5 1
-2 2 2 2 2
-1 2 5 2 1
-Q5 a. | Discuss region spilt and merge technique. [10]
-era Perform segmentation on the following image. Apply region split and merge
-
-technique. Draw the quad tree. Predicate is max(x, y) — min(x,y) < 3
-
->
---- page 3 ---
-co-3,S0-1 | b. | Sketch the mask for the following operators also enlist their functionality: | [10]
-BL-2,5
-
-a) Prewitt Operator
-b) Sobel Operator
-c) Laplacian filter mask
-
-Compute the effect of applying the Laplacian filter on the center 3 x 3
-pixel of input image (which are highlighted)
-
-10 10 10 10 | 10 1) 1 ]1
-
-10 10 |10 | 10 | 10 1|-8|1
-
-10 10 | 10 |10 | 10 1;,1]1
-
-100 | 100 | 100 | 100 | 100 .
-
-M
-100 | 100 | 100 | 100 | 100 Hes feb
-Input image
-
-Q6 a. | Explain Motion Estimation and Motion Compensation in detail. [8]
-CO-4, SO-1
-BL-2
-
-co-4,S0-1 | b. | With reference to digital video, explain the significance of inter-frames, | [4]
-eee intra frames and bidirectional frames.
-
-cO-2,50-1 | e. | Discuss the significance of image enhancement. Write transformation | [8]
-
-Biot equations for the thresholding and image negative.
-Perform thresholding with threshold (T)=5 and image negative point
-processing operations on the following image. Draw the new image and
-transformation graphs.
-2 | 10] 10] 3 9
-5 2 7 6 | 15
-0 e) 13] 5 | 13
-12 | 1 7 6 | 13
-1 5 3 | 14} 13
-Qi [20]
-CO-1, CO-2, | a. (Compare between (Any 4 pts) [8]
-ae i. Morphological dilation and erosion.
-ii. Energy and power signal.
-Co-2,S0-1 | b. | Explain in brief JPEG file format and give advantages and disadvantages. [4]
-BL-2
-CO-1,S0-1_| ¢, | Compare DFT and FFT (any 4 pts) [8]
-Bits Find the 4-point IDFT for X(k) = {6,(—2+ 2j),—-2,(—2 — 2))} using
-
-the twiddle-factor matrix method.
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper 97ed677a5775
+## 2023-24 · Re-Exam · Sem 4 · paper 97ed677a5775
 
 - Departments: Artificial Intelligence
 - Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
@@ -1875,6 +1711,170 @@ iv Causal and Non-Causal Signals
 >
 ````
 
+## 2022-23 · Final-Exam · Sem 4 · paper 33f2d84b7089
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/SIGNAL AND IMAGE PROCESSING/Signal and Image Processing,Final exam 2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 87.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
+Academic Year: 2022-2023
+
+Program: B.Tech/MBA Tech - Year: II Semester: IV
+
+Stream: Artificial Intelligence/ Artificial Intelligence and Machine
+Learning/ Artificial Intelligence & Data Science
+
+Subject: Signal and Image Processing Time:10:00 am-1:00 pm
+Date: 29" April 2023 No. of Pages: 3
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of the remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Qi a. | A discrete-time signal is given by x[n]={1, -1, 2, 0, 1, 1, 2}. Sketch the | [04]
+_ SO-1 following signals t
+
+i) x(2n+1) , ii) x(n-ld(n—-2)
+CO-1,S0-1_| b. | The first five points of the 8-point DFT of a sequence x(n) are given as | [04]
+ad X(k) = {0.25, 0.125 — j0.3018, 0, 0.125 — j0.0150 ,0}.
+Determine the remaining 3-points using the DFT property. Discuss about
+the property used.
+
+C0-2,S0-1_ | ¢, | Define Euclidean, city block and chess board distance measures. An | [04]
+BLS image segment is shown below. Let V be the set of gray level values used
+to define connectivity in the image. Compute D4 , Ds, Dm distance
+between pixel p and q for V=[2,3]
+
+2(p)| 3 [2] 6] 1
+6 |2|]3]|6]| 2
+5 |3]2]/ 3] 5
+2;4/3/5]2
+4 [5]2] 3 | 6(q)
+
+CO-3,S0-1_| d. | For enhancing details over a small area in an image, local histogram | [04]
+Be processing is preferred over global histogram processing. State true or
+false and justify your answer
+
+C0-4,S0-1_| e, | Suppose the block being encoded is an 8x8 block between pixel locations | [04]
+
+BL-2.5 (22, 40) and (29, 47). If the block that best matches it in the previous
+frame is located between pixels at location (21, 39) and (28, 46), then
+compute the motion vector.
+--- page 2 ---
+Q2 a. | Explain linear & non-linear, static & dynamic system [10]
+CO-1, SO-1 . . .
+BL-2,5 The discrete-time systems are given below-
+i) y(n) = x(n)+ n x(n+1), ii) y(n)= x(2n)
+Determine whether these systems are: linear or non-linear, static or
+dynamic.
+oy S0-1_ | b. | Differentiate between linear convolution and circular convolution (4 pts) [10]
+” Compute the linear convolution using the graphical or fold shift multiply
+method of the following signals: x(n)= {% 0, 1}, h(n)= { } 2, 1}
+Q3 a. | Calculate the percentage saving in calculations in 4-point radix 2 FFT | [10]
+et when compared to DFT.
+’ Given: x(n) = {1,1,1,0}. Compute X(k) using DIT-FFT algorithm.
+a So-1_| b. | Compute the Circular convolution of x1(n)={1,1,1,1} and x2(n)={1,1,0,0} | [10]
+using DFT and IDFT method. * t
+Q4 a. | Explain High Pass Filter in image enhancement. [6]
+0-2, SO-1
+BL-1,2
+cO-2,S0-1 | b | Highlight the intensity in the range of 30-60% of the maximum value for | [4]
+BESS the given image. The intensity of the remaining pixels should be made
+equal to zero. Comment on the result obtained. What is this technique
+called?
+al 5 3 | 14 | 13
+5 2 7 6 | 15
+ie} e) 5 5 | 13
+12] 1 7 6 | 13
+2 |} 10] 10) 3 9
+CO-2,S0-1 | ¢. | Discuss Histogram equalization. Perform histogram equalization on the
+BL-4,5 following image. Draw the histogram before and after equalization. State
+your observations about the original image and the equalized image. [10]
+2 2 2 2 2
+1 2 5 2 1
+1 5 5 5 1
+2 2 2 2 2
+1 2 5 2 1
+Q5 a. | Discuss region spilt and merge technique. [10]
+era Perform segmentation on the following image. Apply region split and merge
+
+technique. Draw the quad tree. Predicate is max(x, y) — min(x,y) < 3
+
+>
+--- page 3 ---
+co-3,S0-1 | b. | Sketch the mask for the following operators also enlist their functionality: | [10]
+BL-2,5
+
+a) Prewitt Operator
+b) Sobel Operator
+c) Laplacian filter mask
+
+Compute the effect of applying the Laplacian filter on the center 3 x 3
+pixel of input image (which are highlighted)
+
+10 10 10 10 | 10 1) 1 ]1
+
+10 10 |10 | 10 | 10 1|-8|1
+
+10 10 | 10 |10 | 10 1;,1]1
+
+100 | 100 | 100 | 100 | 100 .
+
+M
+100 | 100 | 100 | 100 | 100 Hes feb
+Input image
+
+Q6 a. | Explain Motion Estimation and Motion Compensation in detail. [8]
+CO-4, SO-1
+BL-2
+
+co-4,S0-1 | b. | With reference to digital video, explain the significance of inter-frames, | [4]
+eee intra frames and bidirectional frames.
+
+cO-2,50-1 | e. | Discuss the significance of image enhancement. Write transformation | [8]
+
+Biot equations for the thresholding and image negative.
+Perform thresholding with threshold (T)=5 and image negative point
+processing operations on the following image. Draw the new image and
+transformation graphs.
+2 | 10] 10] 3 9
+5 2 7 6 | 15
+0 e) 13] 5 | 13
+12 | 1 7 6 | 13
+1 5 3 | 14} 13
+Qi [20]
+CO-1, CO-2, | a. (Compare between (Any 4 pts) [8]
+ae i. Morphological dilation and erosion.
+ii. Energy and power signal.
+Co-2,S0-1 | b. | Explain in brief JPEG file format and give advantages and disadvantages. [4]
+BL-2
+CO-1,S0-1_| ¢, | Compare DFT and FFT (any 4 pts) [8]
+Bits Find the 4-point IDFT for X(k) = {6,(—2+ 2j),—-2,(—2 — 2))} using
+
+the twiddle-factor matrix method.
+````
+
 ## 2022-23 · Re-Exam · Sem 4 · paper 9fab64e3f5d8
 
 - Departments: Artificial Intelligence
@@ -2026,6 +2026,190 @@ BL-4,5
 Find the 4-point DFT for x(n) = cos=t using the twiddle-factor matrix
 
 method.
+````
+
+## 2021-22 · Exam not stated · Sem 4 · paper 9acfc20b42e4
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/SIGNAL AND IMAGE PROCESSING/B Tech, Artificial Intelligence, Signal and Image Processing, 2nd Year, Sem-IV, F_735cece6.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 April 2022
+- Text: ocr (5 pages), mean OCR confidence 81.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+é
+/
+
+SVKM’s NMIMS ren :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
+
+MPSTME ~
+uti a
+
+/ Academic Year: 2021-22
+
+Programme: B.Tech Artificial Intelligence Year: II Semester: IV
+
+Subject: Signal and Image Processing
+
+Marks: 100
+
+Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages:_ OS
+
+Date: 20 April 2022
+
+; Final Examination
+e Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any__4 _ questions.
+3) In all__5_ questions to be attempted.
+*-4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql a. A discrete time signal is defined as [04]
+CO-1 | 1+5for—3<n<-1
+
+SO-1 x(n) = <n<
+
+BL-I 1for0<n<3
+
+0 otherwise
+Sketch the following discrete time signals
+
+i. x(n)u(n)
+ii, x(n)d(n — 2)
+Co- | b The first five DFT coefficients of a real eight point sequence x(n) are [04]
+SO-1
+BL-3 X(0) = 2,X() = 3 +j,X(2) = 24 3j,X(3) = —j,X(4) = 4
+el Find the remaining coefficients X(5), X(6), X(7) using DFT property.
+
+Discuss the property used.
+--- page 2 ---
+Co-2 c. Define Euclidean, city block and chess board distance measures. Find | [04]
+SO-1
+
+BL-13 De, D4 and Dg distanced between points p and q for the following image.
+2(q) 1 2 3 1
+2 2 0 2 2
+1 2 1 1 1
+1 0 2(p) 2 3
+1 2 1 1 [2
+| CO-3 d. Define morphological opening and closing with the help of appropriate | [04]
+SO-1 F 5 ; , :
+BL-1 expressions. State properties of morphological opening and closing
+CO-4 e Explain intra frame coding and inter frame coding with reference to digital | [04]
+a video.
+Q2 a Compute 8 point DFT of the sequence x(n) = {2,0, —2, 0,2,0, —2,0}, to [10]
+Co-1 obtain X(k) using DIT FFT algorithm.
+SO-1 ;
+BL-3
+CO-2 b Perform histogram equalization on the image given below. Plot the [10]
+an histograms of the image before and after equalization. Plot the
+
+transformation function. Draw the new image. Comment on the results
+obtained after equalization.
+
+2 1 1 2 1
+
+0 2 5 1 1
+
+0 1 2 2 6
+--- page 3 ---
+Q3 a Explain Exhaustive Search Block Matching motion estimation algorithm [10]
+Co-4 and Hierarchical Block Matching motion estimation algorithm
+SO-1
+BL-2
+CO-4 b Explain the significance of digital video quality measures. [06]
+a Define the following objective quality measurement metric with reference
+to digital video
+i. Mean Square Error
+ii. Peak Signal to Noise Ratio
+iii. | Mean Absolute Difference
+CO-2 c Explain intensity resolution and spatial resolution with reference to a grey | [04]
+aan scale image.
+Q4 a For the image given below, obtain the new image using [10]
+CO 2 i. Power law transformation using c = 1 and gamma (y) = 0.5
+Od ii. Log transformation using c = 1
+0 0 10 |10 |20 |20 | 255 | 255
+0 0 10 |10 |20 |20 | 255 | 255
+255 | 255 | 255 | 255 | 175 | 175 | 200 | 200
+255 | 255 | 255 | 175 | 175 | 255 | 255 | 255
+255 | 255 | 0 0 0 255 | 255 | 255
+20 |20 |20 |20 |20 | 255 | 255 | 255
+0 0 10 |10 |20 |20 | 175 | 175
+Draw the new image for both the operations and comment on the results
+obtained.
+co 1 Explain causal-non causal, and linear-nonlinear systems. [10]
+BLD. 5 b Determine whether
+
+i. y(n) = 2x(m) — 3 is linear or non linear
+
+ii. y(n) = x(—n) is causal or non-causal
+
+is
+--- page 4 ---
+Q5 a Explain morphological dilation and erosion with appropriate expressions. | [10]
+CO-3 Perform dilation on the image A using the structuring element B given
+BL, 4 below. Draw the dilated image. Comment on the results obtained.
+' Original image A Structuring
+element B
+
+0 ;0 |0 |}0 |0 }0 |}0 }0 JO |0 1
+
+0 ;0 |0 |0 ;0 }0 ;}0 |0 |0 0 1 1
+
+0 |;0 ;1 |1 |1 |1 J1 J1 JO JO
+
+0/0 }1 }1 |1 [1 41 ~ 41 :=10 [0
+
+0 |;0 |1 /1 |0 {0 |1 |1 70 JO
+
+0/0 }1 }/1 |0 |/0 |1 J|1 40 JO
+
+0/0 }1 }]1 J1 |1 41 41 70 JO
+
+0/0 }1 |]1 J1 Jt f1-j1 [0 JO
+
+0/0 {0 |0 |]0 |0 |0 J}0 |0 J0
+
+0/0 ;0 |}0 ;0 |0 }0 J|0 |0 JO
+COo-1 b Cousider the following two 4-point sequences [10]
+SO-1 1
+BL-3 x(n) = cos (5n) and h(n) = 2”
+
+Obtain circular convolution of these two sequences using matrix method.
+
+Q6 a Explain image segmentation based on discontinuities. Apply a suitable [10]
+CO-3; mask to detect the vertical line in the image given below. Draw the new
+eee image.
+
+0 0 0 10 |0 0 0
+
+0 0 0 10 |0 0 0
+
+0 0 10 10 10 | 0 0
+
+0 0 0 10 |0 0 0
+
+0 0 0 10 |0 0 0
+--- page 5 ---
+CO-2; b Explain image smoothing using frequency domain filters [06]
+SO-1
+BL-2
+
+CO-1; c . Let x(n) = {1,2, 3 , 4,5,6}. Sketch the following signals derived from x(n) | [04]
+SO-1 F
+BL-3 i. y,(m) = x(-n- 2)
+
+ii, y(n) = x(2n)
 ````
 
 ## 2021-22 · Re-Exam · Sem 4 · paper 301d9c0b8c29
@@ -2236,188 +2420,4 @@ j
 
 -i y(n) =x(n- 3)
 ii, y(n) =x(-n+ 1)
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 9acfc20b42e4
-
-- Departments: Artificial Intelligence
-- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/SIGNAL AND IMAGE PROCESSING/B Tech, Artificial Intelligence, Signal and Image Processing, 2nd Year, Sem-IV, F_735cece6.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 April 2022
-- Text: ocr (5 pages), mean OCR confidence 81.3
-
-````text
-é
-/
-
-SVKM’s NMIMS ren :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
-
-MPSTME ~
-uti a
-
-/ Academic Year: 2021-22
-
-Programme: B.Tech Artificial Intelligence Year: II Semester: IV
-
-Subject: Signal and Image Processing
-
-Marks: 100
-
-Time: 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-No. of Pages:_ OS
-
-Date: 20 April 2022
-
-; Final Examination
-, Be eeeeg me lene eens npn nna
-e Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any__4 _ questions.
-3) In all__5_ questions to be attempted.
-*-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql a. A discrete time signal is defined as [04]
-CO-1 | 1+5for—3<n<-1
-
-SO-1 x(n) = <n<
-
-BL-I 1for0<n<3
-
-0 otherwise
-Sketch the following discrete time signals
-
-i. x(n)u(n)
-ii, x(n)d(n — 2)
-Co- | b The first five DFT coefficients of a real eight point sequence x(n) are [04]
-SO-1
-BL-3 X(0) = 2,X() = 3 +j,X(2) = 24 3j,X(3) = —j,X(4) = 4
-el Find the remaining coefficients X(5), X(6), X(7) using DFT property.
-
-Discuss the property used.
---- page 2 ---
-Co-2 c. Define Euclidean, city block and chess board distance measures. Find | [04]
-SO-1
-
-BL-13 De, D4 and Dg distanced between points p and q for the following image.
-2(q) 1 2 3 1
-2 2 0 2 2
-1 2 1 1 1
-1 0 2(p) 2 3
-1 2 1 1 [2
-| CO-3 d. Define morphological opening and closing with the help of appropriate | [04]
-SO-1 F 5 ; , :
-BL-1 expressions. State properties of morphological opening and closing
-CO-4 e Explain intra frame coding and inter frame coding with reference to digital | [04]
-a video.
-Q2 a Compute 8 point DFT of the sequence x(n) = {2,0, —2, 0,2,0, —2,0}, to [10]
-Co-1 obtain X(k) using DIT FFT algorithm.
-SO-1 ;
-BL-3
-CO-2 b Perform histogram equalization on the image given below. Plot the [10]
-an histograms of the image before and after equalization. Plot the
-
-transformation function. Draw the new image. Comment on the results
-obtained after equalization.
-
-2 1 1 2 1
-
-0 2 5 1 1
-
-0 1 2 2 6
---- page 3 ---
-Q3 a Explain Exhaustive Search Block Matching motion estimation algorithm [10]
-Co-4 and Hierarchical Block Matching motion estimation algorithm
-SO-1
-BL-2
-CO-4 b Explain the significance of digital video quality measures. [06]
-a Define the following objective quality measurement metric with reference
-to digital video
-i. Mean Square Error
-ii. Peak Signal to Noise Ratio
-iii. | Mean Absolute Difference
-CO-2 c Explain intensity resolution and spatial resolution with reference to a grey | [04]
-aan scale image.
-Q4 a For the image given below, obtain the new image using [10]
-CO 2 i. Power law transformation using c = 1 and gamma (y) = 0.5
-Od ii. Log transformation using c = 1
-0 0 10 |10 |20 |20 | 255 | 255
-0 0 10 |10 |20 |20 | 255 | 255
-255 | 255 | 255 | 255 | 175 | 175 | 200 | 200
-255 | 255 | 255 | 175 | 175 | 255 | 255 | 255
-255 | 255 | 0 0 0 255 | 255 | 255
-20 |20 |20 |20 |20 | 255 | 255 | 255
-0 0 10 |10 |20 |20 | 175 | 175
-Draw the new image for both the operations and comment on the results
-obtained.
-co 1 Explain causal-non causal, and linear-nonlinear systems. [10]
-BLD. 5 b Determine whether
-
-i. y(n) = 2x(m) — 3 is linear or non linear
-
-ii. y(n) = x(—n) is causal or non-causal
-
-is
---- page 4 ---
-Q5 a Explain morphological dilation and erosion with appropriate expressions. | [10]
-CO-3 Perform dilation on the image A using the structuring element B given
-BL, 4 below. Draw the dilated image. Comment on the results obtained.
-' Original image A Structuring
-element B
-
-0 ;0 |0 |}0 |0 }0 |}0 }0 JO |0 1
-
-0 ;0 |0 |0 ;0 }0 ;}0 |0 |0 0 1 1
-
-0 |;0 ;1 |1 |1 |1 J1 J1 JO JO
-
-0/0 }1 }1 |1 [1 41 ~ 41 :=10 [0
-
-0 |;0 |1 /1 |0 {0 |1 |1 70 JO
-
-0/0 }1 }/1 |0 |/0 |1 J|1 40 JO
-
-0/0 }1 }]1 J1 |1 41 41 70 JO
-
-0/0 }1 |]1 J1 Jt f1-j1 [0 JO
-
-0/0 {0 |0 |]0 |0 |0 J}0 |0 J0
-
-0/0 ;0 |}0 ;0 |0 }0 J|0 |0 JO
-COo-1 b Cousider the following two 4-point sequences [10]
-SO-1 1
-BL-3 x(n) = cos (5n) and h(n) = 2”
-
-Obtain circular convolution of these two sequences using matrix method.
-
-Q6 a Explain image segmentation based on discontinuities. Apply a suitable [10]
-CO-3; mask to detect the vertical line in the image given below. Draw the new
-eee image.
-
-0 0 0 10 |0 0 0
-
-0 0 0 10 |0 0 0
-
-0 0 10 10 10 | 0 0
-
-0 0 0 10 |0 0 0
-
-0 0 0 10 |0 0 0
---- page 5 ---
-CO-2; b Explain image smoothing using frequency domain filters [06]
-SO-1
-BL-2
-
-CO-1; c . Let x(n) = {1,2, 3 , 4,5,6}. Sketch the following signals derived from x(n) | [04]
-SO-1 F
-BL-3 i. y,(m) = x(-n- 2)
-
-ii, y(n) = x(2n)
 ````

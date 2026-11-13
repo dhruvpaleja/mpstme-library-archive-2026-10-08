@@ -14,16 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Quantum and Statistical Physics(702BS0C009)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CS 7055 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech Computer 7002 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | BTech Computer 7002 | QP_Quantum and Statistical Physics(702BS0C009)_2024-2025.pdf |
@@ -34,16 +24,16 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech Mechatronics 7004 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MBATech Computer 7047 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech IT 7041 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Quantum and Statistical Physics(702BS0C009)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CS 7055 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech Computer 7002 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CyberSecurity 7010 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
@@ -55,6 +45,16 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech Computer 7047 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech DS 7052 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MBATech IT 7041 | QP_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech DS 7052 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | MBATech IT 7041 | ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 2 | B TECH, MBA TECH | Quantum and Statistical Physics, Sem-II, Final & Re Exam 2023-24, 2021-22, 2022-23.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | B TECH, MBA TECH | Quantum & Statistical Physics ,Re-exam 2023-2024,2021-22,2022-23.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Quantum and Statistical Physics, Sem-II, Year 2022-23, Final Exam Re Exam.pdf |

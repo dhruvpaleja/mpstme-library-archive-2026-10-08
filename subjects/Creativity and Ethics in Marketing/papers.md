@@ -2583,6 +2583,91 @@ g P iP
 significance of social marketing on consumer.
 ````
 
+## 2022-23 · Exam not stated · Sem 6 · paper d10c7901895b
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/CREATIVITY AND ETHICS IN MARKETING/Creativity and Ethics in Marketing.pdf` (+2 identical copies)
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+CK es oF
+
+SVKM’S NMIMS =
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2022-2023 Se
+Program/s: MBA-Tech / B Tech Yea \\ /\ V
+Stream/s: PLL eur vi / viii
+Subject: Creativity and Ethics in Marketing Time: 03 _ hrs @o!00amto 4:00 pm)
+Date:_05 / 05 / 2023 No. of Pages:__ 2 |
+Marks: «100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4__ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+
+CO- 2; BL-2 | | Compare market offering of product and service? Explain briefly with an example. | 5
+
+CO- 2; BL-2 | >. | Explain the difference between POP and POD with an example 5
+CO-2;BL-1 | ¢ What do you understand by science and the art of creativity? 5
+CO- 2; BL-2 | 4. | Explain the concept of Triple Bottomline in Marketing Ethics. 5
+Q2 How can the key components of advertising be used to create an effective
+
+advertising campaign? . [20]
+CO-1; BL-3
+Q3 Suggest measures to address the challenges affecting the current practice of
+
+advertising. [20]
+CO-3;BL-5 Discuss the importance of effectiveness to advertisers.
+Q4 . a
+
+Prescribe measures to prevent and address ethical issues in advertising. [20]
+CO-3; BL-5
+
+Explain how storytelling can be used in marketing to promote products or
+Q5 services with an example from the FMCG (Body care, Hair Care, Beauty Care, [20]
+CO-2; BL-2 Home Care, Food & Beverages, etc.) category.
+Q6 Explain the Integrated Marketing Communication Process. (20)
+CO-2; BL-2
+
+1|Page
+--- page 2 ---
+Q7
+
+CO-3
+BL-5
+
+What is the purpose and importance of a creative brief in the creative process, and
+what are the key components that should be included? Additionally, analyse the
+role of different stakeholders in the development of a creative brief and their
+responsibilities, Finally, evaluate the effectiveness of a well-developed creative
+brief in the success of a creative project and create a comprehensive brief for a
+
+hypothetical marketing campaign
+
+[20]
+
+2|Page
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 0d7a41e7d200
 
 - Departments: Common (all branches)
@@ -2971,89 +3056,4 @@ Os Is it ethical to use females as models where the product is not related to fe
 en "~ | as in AXE advertisement) Give arguments with suitable examples
 
 2/2
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper d10c7901895b
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/CREATIVITY AND ETHICS IN MARKETING/Creativity and Ethics in Marketing.pdf` (+2 identical copies)
-- Text: ocr (2 pages), mean OCR confidence 91.7
-
-````text
-CK es oF
-
-SVKM’S NMIMS =
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2022-2023 Se
-Program/s: MBA-Tech / B Tech Yea \\ /\ V
-Stream/s: PLL eur vi / viii
-Subject: Creativity and Ethics in Marketing Time: 03 _ hrs @o!00amto 4:00 pm)
-Date:_05 / 05 / 2023 No. of Pages:__ 2 |
-Marks: «100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4__ questions.
-
-3) Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-
-CO- 2; BL-2 | | Compare market offering of product and service? Explain briefly with an example. | 5
-
-CO- 2; BL-2 | >. | Explain the difference between POP and POD with an example 5
-CO-2;BL-1 | ¢ What do you understand by science and the art of creativity? 5
-CO- 2; BL-2 | 4. | Explain the concept of Triple Bottomline in Marketing Ethics. 5
-Q2 How can the key components of advertising be used to create an effective
-
-advertising campaign? . [20]
-CO-1; BL-3
-Q3 Suggest measures to address the challenges affecting the current practice of
-
-advertising. [20]
-CO-3;BL-5 Discuss the importance of effectiveness to advertisers.
-Q4 . a
-
-Prescribe measures to prevent and address ethical issues in advertising. [20]
-CO-3; BL-5
-
-Explain how storytelling can be used in marketing to promote products or
-Q5 services with an example from the FMCG (Body care, Hair Care, Beauty Care, [20]
-CO-2; BL-2 Home Care, Food & Beverages, etc.) category.
-Q6 Explain the Integrated Marketing Communication Process. (20)
-CO-2; BL-2
-
-1|Page
---- page 2 ---
-Q7
-
-CO-3
-BL-5
-
-What is the purpose and importance of a creative brief in the creative process, and
-what are the key components that should be included? Additionally, analyse the
-role of different stakeholders in the development of a creative brief and their
-responsibilities, Finally, evaluate the effectiveness of a well-developed creative
-brief in the success of a creative project and create a comprehensive brief for a
-
-hypothetical marketing campaign
-
-[20]
-
-2|Page
 ````

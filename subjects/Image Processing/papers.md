@@ -1,8 +1,341 @@
 # Image Processing: question papers in full
 
-55 unique papers · 2006-07 to 2023-24 · Computer Engineering, Electronics and Telecommunication, Information Technology, Computer Applications (MCA), Electronics
+55 unique papers · 2006-07 to 2025-26 · Computer Engineering, Electronics and Telecommunication, Information Technology, Computer Applications (MCA), Electronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 9 · paper 235517e6d435
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Image Processing/Image Processing Batch 2023-24 Re Exam_235517e6d4.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 85.3
+
+````text
+MPSTME
+LIBRARY
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+Program/s: B Tech Integrated Year: V Semester: IX
+Stream/s ;Computer Engineering .
+Subject: Image Processing : Time:3 hrs (Aio0pmto, Sz00pm)
+Date:_5 / 12/2025 No. of Pages:2
+Marks: 100
+Re-Examination (2023-24)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3) Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+re
+
+Ql
+Answer briefly: ; [20]
+CO-1; a. . . ,
+SO-1; Discuss image formation in human eye.
+BL-2
+b. A4X 4, 4 bits/pixel image is given by
+13 5 7
+a, | CO}; _|0 2 4 6
+SO-2 ; flmn)=|e 7 5 3
+Bas 4897
+Apply bit plane slicing operation to this image.
+CO-3 ; (on What are the advantages and disadvantages of region growing segmentation
+eae technique?
+BL2 ique?
+CO-4 ; d. Justify the correctness of the following statement with example.
+SO-2 ; “Run Length Encoding always compresses the given image”.
+BL-4
+Q2 a Equalize the given histogram.
+CO-1; ‘ Intensity 0 [1 [2 [3 [4 [5 [6 |7 [10]
+| S0-2;* | Number of [70 [10/40 [8 [6 [4 [8 [2
+BL-5 Pixels 0 0 |o jo
+
+Page 1 of 2
+--- page 2 ---
+CO-3; b Explain boundary descriptors and regional descriptors. < [10]
+SO-2; 7
+
+BL-2
+Q3 a Compare low pass filter, high pass filter and median filter. [10]
+CO-1;SO-
+2; BL-3 <
+CO-3;SO- | b Explain compound morphological operations with a suitable example. ~~ | [10]
+2; BL-2
+a Compute the 2 D DFT of the 4 X 4 image given below. [10]
+Q4
+-_ 11411
+me5 _]1 1121
+SO-6; fy =, 404 4
+BL-5 1111
+CO-2;SO- | b Discuss Hit-or-Miss Transformation with example. [10]
+2; BL-2 -_
+Q5 a Explain chain code with suitable examples. [10]
+CO-3;SO-
+2; BL-2
+b A source emits eight symbols with the following probabilities. [10]
+CO-4; Symbol al |a2 [a3 |a4 [a5 [a6 [a7 |a8
+io Probability | 0.1 | 0.4 | 0.05 | 0.05 | 0.1 | 0.20 | 0.07 | 0.03
+BLs Apply Huffman encoding technique.
+Q6 a State whether the following statement is true or false. Justify your answer. | [10]
+CO-2:S0- “Multiresolution analysis of helps in analyzing digital images”.
+2; BL-4
+CO-4;SO- | b Compare and contrast Lossy and lossless image compression techniques. [10]
+2; BL-3
+Q7- a Apply Haar transform to the following image. [10]
+CO-3: 212 1
+12 3 2
+SO-2;
+BL-5 23 4 3
+: 1232
+CO-2;SO- | b Explain homomorphic filtering. [10]
+1; BL-2
+i tr
+. «
+
+Page 2 of 2
+````
+
+## 2024-25 · Re-Exam · Sem 9 · paper 14ae68a774c6
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Image Processing/Image Processing Batch 2023-24 Re Exam_14ae68a774.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 80.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B Tech Integrated Stream ;Computer Engineering Year: V Semester: IX
+
+Subject: Image Processing : Time: 03 hrs (2 pny to P77)
+Date:_2& /MOv/ 202% . No. of Pages: 02
+
+Marks: 100
+
+Re-Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+ad
+
+Q.1 Answer the followings
+
+ae SOl, | a. | Explain the image formation inhuman eye. ~ (5)
+CO3, S06, | b. | List the different techniques for Image representation and explainany | (5)
+BL3 two in detail ;
+
+od S06, | c. | Explain Kronecker Product and its Basic Properties (5)
+CO4,SO04, | d. | What are the different types of redundancies present in a digital (5)
+BL3 image? Discuss.
+
+Q.2 a. | Explain fundamental steps of image processing system. (10)
+col, SOl,
+
+BL3
+
+CO2,SO1, | b. | What do you mean by Histogram of an image? Explain histogram (10)
+Bre equalization with example.
+
+Q.3 a. | Explain different point processing operations in image processing. (10)
+CO2, SO1,
+
+BL3
+
+ae S06, |b. | What is image segmentation? Discuss thresholding technique for (10)
+
+image segmentation with example. What are the limitations of
+thresholding technique? How to determine the threshold value for
+thresholding image segmentation?
+--- page 2 ---
+Q.4 a. | What is chain code? Explain different types of chain codes with (10)
+
+CO3, S06, examples.
+
+BL3
+
+CO3, S06, | b. | Explain the following Morphological operations with suitable (10)
+BL3 example. ;
+
+i)Opening _ ii) Closing
+
+Q.5 a. | Explain Hit-Or-Miss transform with example. (10)
+CO3, SO6,
+BL3
+C04, SO6, | b. | State the kernel matrix for DCT transform for N = 4. Given the (10)
+BLS following image calculate the DCT transform.
+212/21] 1
+21414} 2
+2|4|4|2
+2121212
+Q.6 a. | Find DFT of the given image. (10)
+C04, SO6,
+BL 0 fi [2 {1
+1 {2 3 [2
+2 13 14 [3
+1 {2 3 {2
+C04, S06, | b. | Describe Haar transform. Apply Haar transform on the given image. | (10)
+BLS 12 | 12 | 12] 12 | 14/12 | 12} 12
+
+<
+
+12 | 12 | 12 | 12] 14} 12 | 12 | 12
+12 | 12] 12 | 12} 14| 12} 12 | 12
+12 | 12 | 12 | 12 | 14} 12 | 12 | 12
+12 | 12 | 12 | 12] 14 | 12 | 12 | 12
+16 | 16 | 16 | 16} 14} 16 | 16 | 16
+12 | 12 | 12 | 12 | 12 | 12 | 12 | 12
+12 | 12} 12} 12] 12} 12] 12] 12
+
+Q.7 a. | Explain Image Pyramids and Sub band coding. (10)
+C04, SO6,
+BL3
+
+C04, S06, | b. | What is image compression? Explain the steps of image compression | (10)
+BL3 and suggest the fundamental requirements to achieve the best
+compression.
+````
+
+## 2024-25 · Re-Exam · Sem 9 · paper 39267d68bd1d
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Image Processing/Image Processing Batch 2023-24 Re Exam_39267d68bd.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 86.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B Tech Integrated Stream ;Computer Engineering Year: V Semester: [IX
+
+Subject: Image Processing Time: 03 hrs (40-ar to 4+ prn_)
+Date:_i15 /02./2025 . No. of Pages: 02
+
+Marks: 100
+
+Re-Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. _I___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) In all__5_ questions.to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks,
+7) Assume Suitable data if necessary.
+
+Qi Answer the followings
+CO1,SOl, | a. | Differentiate sampling and quantization in image processing. (5)
+BL3
+C03, S06, | b. | Explain Boundary descriptors. (5)
+BL3
+C04, S06, | c, | What is unitary and orthogonal transform? Discuss with example. (5)
+BL3
+C04, S06, | d. | Compare Lossy and Lossless compression techniques. (5)
+BL3
+Q.2 a. | Describe Hough transform. (10)
+C04, SO6, -
+BL3
+C04, SO6, | b. | Explain various types of redundancies present in the image along with | (10)
+HEALS fidelity criteria.
+Q.3 a. | Construct a fully populated approximation pyramid and corresponding | (10)
+C04, SO6, prediction residual pyramid for the following image.
+BLS Dee ee |
+
+De Orala7 108
+
+9 | 10] 11 | 12
+
+13 | 14] 15 | 16
+— S06, | b. | Explain homomorphic filtering in detail. (10)
+
+L3
+--- page 2 ---
+Q.4 a. | Describe Hotelling Transform. (10)
+
+C04, SO6,
+BL3
+
+C03, S06, |b. | What ate the applications of morphological operations? Explain any (10)
+BL3 two applications in detail.
+
+Q.5 a. | Discuss polynomial representation of boundary with example. (10)
+CO3, SO6,
+
+BL3
+
+C03, S06, | b. | How to apply morphological operations on gray scale images? (10)
+BL4 Illustrate with suitable example.
+
+Q.6 a. | For an image segment as shown below with 3 bits per pixel. Perform (10)
+CO2, SOl, the following operations
+
+BES a. Gray level slicing (a= 2 b=4)
+
+b. Bit plane slicing
+c. Digital negative
+d. Thresholding (Th=4)
+
+O;1)/ 1/4
+Gulel a eoul 2)
+1|5|2/4
+TP2e 66
+
+C03, S06, | b. | Discuss region based segmentation techniques with suitable examples. | (10)
+BL3
+
+Q.7 a. | Discuss different relationship between pixels in an image. (10)
+COl1, SO1,
+
+BL3
+
+C02, $01, | b. | Perform Histogram equalization for the gray level distribution as (10)
+ELS shown below.
+
+Gray Levels | 0 1 Zz BraleA alee 126) 7
+No of Pixels | 200 | 170 | 110 | 80 | 60 | 80 | 140 | 160
+````
 
 ## 2023-24 · Final-Exam · Sem 9 · paper 80a2f97c8ac0
 
@@ -281,340 +614,7 @@ in detail.
 a
 ````
 
-## 2023-24 · Re-Exam · Sem 9 · paper 14ae68a774c6
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Image Processing/Image Processing Batch 2023-24 Re Exam_14ae68a774.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 80.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: B Tech Integrated Stream ;Computer Engineering Year: V Semester: IX
-
-Subject: Image Processing : Time: 03 hrs (2 pny to P77)
-Date:_2& /MOv/ 202% . No. of Pages: 02
-
-Marks: 100
-
-Re-Examination (Batch 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-ad
-
-Q.1 Answer the followings
-
-ae SOl, | a. | Explain the image formation inhuman eye. ~ (5)
-CO3, S06, | b. | List the different techniques for Image representation and explainany | (5)
-BL3 two in detail ;
-
-od S06, | c. | Explain Kronecker Product and its Basic Properties (5)
-CO4,SO04, | d. | What are the different types of redundancies present in a digital (5)
-BL3 image? Discuss.
-
-Q.2 a. | Explain fundamental steps of image processing system. (10)
-col, SOl,
-
-BL3
-
-CO2,SO1, | b. | What do you mean by Histogram of an image? Explain histogram (10)
-Bre equalization with example.
-
-Q.3 a. | Explain different point processing operations in image processing. (10)
-CO2, SO1,
-
-BL3
-
-ae S06, |b. | What is image segmentation? Discuss thresholding technique for (10)
-
-image segmentation with example. What are the limitations of
-thresholding technique? How to determine the threshold value for
-thresholding image segmentation?
---- page 2 ---
-Q.4 a. | What is chain code? Explain different types of chain codes with (10)
-
-CO3, S06, examples.
-
-BL3
-
-CO3, S06, | b. | Explain the following Morphological operations with suitable (10)
-BL3 example. ;
-
-i)Opening _ ii) Closing
-
-Q.5 a. | Explain Hit-Or-Miss transform with example. (10)
-CO3, SO6,
-BL3
-C04, SO6, | b. | State the kernel matrix for DCT transform for N = 4. Given the (10)
-BLS following image calculate the DCT transform.
-212/21] 1
-21414} 2
-2|4|4|2
-2121212
-Q.6 a. | Find DFT of the given image. (10)
-C04, SO6,
-BL 0 fi [2 {1
-1 {2 3 [2
-2 13 14 [3
-1 {2 3 {2
-C04, S06, | b. | Describe Haar transform. Apply Haar transform on the given image. | (10)
-BLS 12 | 12 | 12] 12 | 14/12 | 12} 12
-
-<
-
-12 | 12 | 12 | 12] 14} 12 | 12 | 12
-12 | 12] 12 | 12} 14| 12} 12 | 12
-12 | 12 | 12 | 12 | 14} 12 | 12 | 12
-12 | 12 | 12 | 12] 14 | 12 | 12 | 12
-16 | 16 | 16 | 16} 14} 16 | 16 | 16
-12 | 12 | 12 | 12 | 12 | 12 | 12 | 12
-12 | 12} 12} 12] 12} 12] 12] 12
-
-Q.7 a. | Explain Image Pyramids and Sub band coding. (10)
-C04, SO6,
-BL3
-
-C04, S06, | b. | What is image compression? Explain the steps of image compression | (10)
-BL3 and suggest the fundamental requirements to achieve the best
-compression.
-````
-
-## 2023-24 · Re-Exam · Sem 9 · paper 235517e6d435
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Image Processing/Image Processing Batch 2023-24 Re Exam_235517e6d4.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 85.3
-
-````text
-MPSTME
-LIBRARY
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026
-Program/s: B Tech Integrated Year: V Semester: IX
-Stream/s ;Computer Engineering .
-Subject: Image Processing : Time:3 hrs (Aio0pmto, Sz00pm)
-Date:_5 / 12/2025 No. of Pages:2
-Marks: 100
-Re-Examination (2023-24)
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3) Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-re
-
-Ql
-Answer briefly: ; [20]
-CO-1; a. . . ,
-SO-1; Discuss image formation in human eye.
-BL-2
-b. A4X 4, 4 bits/pixel image is given by
-13 5 7
-a, | CO}; _|0 2 4 6
-SO-2 ; flmn)=|e 7 5 3
-Bas 4897
-Apply bit plane slicing operation to this image.
-CO-3 ; (on What are the advantages and disadvantages of region growing segmentation
-eae technique?
-BL2 ique?
-CO-4 ; d. Justify the correctness of the following statement with example.
-SO-2 ; “Run Length Encoding always compresses the given image”.
-BL-4
-Q2 a Equalize the given histogram.
-CO-1; ‘ Intensity 0 [1 [2 [3 [4 [5 [6 |7 [10]
-| S0-2;* | Number of [70 [10/40 [8 [6 [4 [8 [2
-BL-5 Pixels 0 0 |o jo
-
-Page 1 of 2
---- page 2 ---
-CO-3; b Explain boundary descriptors and regional descriptors. < [10]
-SO-2; 7
-
-BL-2
-Q3 a Compare low pass filter, high pass filter and median filter. [10]
-CO-1;SO-
-2; BL-3 <
-CO-3;SO- | b Explain compound morphological operations with a suitable example. ~~ | [10]
-2; BL-2
-a Compute the 2 D DFT of the 4 X 4 image given below. [10]
-Q4
--_ 11411
-me5 _]1 1121
-SO-6; fy =, 404 4
-BL-5 1111
-CO-2;SO- | b Discuss Hit-or-Miss Transformation with example. [10]
-2; BL-2 -_
-Q5 a Explain chain code with suitable examples. [10]
-CO-3;SO-
-2; BL-2
-b A source emits eight symbols with the following probabilities. [10]
-CO-4; Symbol al |a2 [a3 |a4 [a5 [a6 [a7 |a8
-io Probability | 0.1 | 0.4 | 0.05 | 0.05 | 0.1 | 0.20 | 0.07 | 0.03
-BLs Apply Huffman encoding technique.
-Q6 a State whether the following statement is true or false. Justify your answer. | [10]
-CO-2:S0- “Multiresolution analysis of helps in analyzing digital images”.
-2; BL-4
-CO-4;SO- | b Compare and contrast Lossy and lossless image compression techniques. [10]
-2; BL-3
-Q7- a Apply Haar transform to the following image. [10]
-CO-3: 212 1
-12 3 2
-SO-2;
-BL-5 23 4 3
-: 1232
-CO-2;SO- | b Explain homomorphic filtering. [10]
-1; BL-2
-i tr
-. «
-
-Page 2 of 2
-````
-
-## 2023-24 · Re-Exam · Sem 9 · paper 39267d68bd1d
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Image Processing/Image Processing Batch 2023-24 Re Exam_39267d68bd.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 86.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: B Tech Integrated Stream ;Computer Engineering Year: V Semester: [IX
-
-Subject: Image Processing Time: 03 hrs (40-ar to 4+ prn_)
-Date:_i15 /02./2025 . No. of Pages: 02
-
-Marks: 100
-
-Re-Examination (Batch 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
-the Answer Book, which is provided for their use.
-
-1) Question No. _I___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-
-3) In all__5_ questions.to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks,
-7) Assume Suitable data if necessary.
-
-Qi Answer the followings
-CO1,SOl, | a. | Differentiate sampling and quantization in image processing. (5)
-BL3
-C03, S06, | b. | Explain Boundary descriptors. (5)
-BL3
-C04, S06, | c, | What is unitary and orthogonal transform? Discuss with example. (5)
-BL3
-C04, S06, | d. | Compare Lossy and Lossless compression techniques. (5)
-BL3
-Q.2 a. | Describe Hough transform. (10)
-C04, SO6, -
-BL3
-C04, SO6, | b. | Explain various types of redundancies present in the image along with | (10)
-HEALS fidelity criteria.
-Q.3 a. | Construct a fully populated approximation pyramid and corresponding | (10)
-C04, SO6, prediction residual pyramid for the following image.
-BLS Dee ee |
-
-De Orala7 108
-
-9 | 10] 11 | 12
-
-13 | 14] 15 | 16
-— S06, | b. | Explain homomorphic filtering in detail. (10)
-
-L3
---- page 2 ---
-Q.4 a. | Describe Hotelling Transform. (10)
-
-C04, SO6,
-BL3
-
-C03, S06, |b. | What ate the applications of morphological operations? Explain any (10)
-BL3 two applications in detail.
-
-Q.5 a. | Discuss polynomial representation of boundary with example. (10)
-CO3, SO6,
-
-BL3
-
-C03, S06, | b. | How to apply morphological operations on gray scale images? (10)
-BL4 Illustrate with suitable example.
-
-Q.6 a. | For an image segment as shown below with 3 bits per pixel. Perform (10)
-CO2, SOl, the following operations
-
-BES a. Gray level slicing (a= 2 b=4)
-
-b. Bit plane slicing
-c. Digital negative
-d. Thresholding (Th=4)
-
-O;1)/ 1/4
-Gulel a eoul 2)
-1|5|2/4
-TP2e 66
-
-C03, S06, | b. | Discuss region based segmentation techniques with suitable examples. | (10)
-BL3
-
-Q.7 a. | Discuss different relationship between pixels in an image. (10)
-COl1, SO1,
-
-BL3
-
-C02, $01, | b. | Perform Histogram equalization for the gray level distribution as (10)
-ELS shown below.
-
-Gray Levels | 0 1 Zz BraleA alee 126) 7
-No of Pixels | 200 | 170 | 110 | 80 | 60 | 80 | 140 | 160
-````
-
-## 2022 · Final-Exam · Sem 9 · paper a1044cb35a60
+## 2022-23 · Final-Exam · Sem 9 · paper a1044cb35a60
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -1237,6 +1237,7 @@ d. | What are image pyramids? 3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE PROCESSING 2018-19 FINAL AND RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 18 April 2019
 - Text: ocr (3 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1326,7 +1327,6 @@ Q7. Write short note on any two [14]
 
 (d) Topological descriptors and Fourier descriptors.
 
-PTET rrr Tt tT rrr r tT tt tet Tt TTT tT ttre eerie rir rere.
 ````
 
 ## 2018-19 · Final-Exam · Sem 7 · paper bf0a4c6938d0
@@ -2013,6 +2013,107 @@ d. Homomorphic Filtering
 2/2,
 ````
 
+## 2017-18 · Re-Exam · Sem 6 · paper b71eafba525f
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE_PROCESSING_B TECH (COMPUTER) BATCH_15-16_16-17_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2018
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+a2
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) Year: III Semester: VI
+
+Batch: (2015-16 / 2016-17) ”
+Academic Year: 2017-18
+
+Subject: Image Processing .
+
+Marks: 60 ,
+
+Time: 2.00 pm to 5.00 pm *
+Durations: 3 (hrs)
+
+No. of Pages: __ O02
+
+Date: 02 July 2018
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. ;
+
+Q. 1. Attempt All
+
+A) Explain fundamental steps of Image Processing System. 06
+
+B) Explain the different techniques of low pass spatial filtering. 06
+Q.2. Attempt All
+
+A) Explain Homomorphic filters. 06
+
+B) State Haar Kernel Matrix of size 8. Create Haar Butterfly diagram for the sequence, 06
+
+X[n]={8, 2, 1, 3, 5, 6, 4, 7}
+Q.3. Attempt All
+
+A) Compute the DFT of the given image using DIT-FFT 06
+0 1 2 ~=421
+1 2 3 2
+2 3 4 3
+1 2 3 2
+
+B) Explain the process of Huffman Encoding. Represent the following image in compressed 06
+format using Huffman coding.
+
+Gray Level 0 1 | 2] 3 4 5 6 7
+oe. No. of Pixels | 2 |2/0{/2/71]3]|0] 0
+
+1|gaxe
+--- page 2 ---
+Q.4. Attempt All
+
+A) Classify image compression methods in detail along with the different redundancies that 06
+can present in digital image.
+
+B) Give the 8X8 Matrix for Walsh transform and the sequence diagram for the same. 06
+Q.5. Attempt All
+A) Perform histogram Equalization on the image with following grey level distribution. 06
+Gray Level 0 1 2 3 4 5 6 7
+No. of Pixels | 400 | 700 | 1350 | 2500.| 3000 | 1500 | 550 0
+B) _ Illustrate different types of distance measures which can be used in digital image 03
+processing.
+C) Explain region splitting & Merging. 03
+Q.6. Attempt All
+A) Explain Image pyramids. 06
+B) Explain Dilation & Erosion operations for binary image with example. 06
+Q7. Attempt All
+A) Explain Boundary extraction & Region filling using morphological operators. 06
+B) Explain the process of edge extraction using following operators 06
+a. Sobel
+b. Prewitt
+c. Roberts
+
+2) \pa ge
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper c07ac72bbebb
 
 - Departments: Computer Engineering
@@ -2541,107 +2642,6 @@ ay POP 8. SION AN ROGERS 1s ‘ *
 Page 2 of 2
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper b71eafba525f
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE_PROCESSING_B TECH (COMPUTER) BATCH_15-16_16-17_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 02 July 2018
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-a2
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) Year: III Semester: VI
-
-Batch: (2015-16 / 2016-17) ”
-Academic Year: 2017-18
-
-Subject: Image Processing .
-
-Marks: 60 ,
-
-Time: 2.00 pm to 5.00 pm *
-Durations: 3 (hrs)
-
-No. of Pages: __ O02
-
-Date: 02 July 2018
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary. ;
-
-Q. 1. Attempt All
-
-A) Explain fundamental steps of Image Processing System. 06
-
-B) Explain the different techniques of low pass spatial filtering. 06
-Q.2. Attempt All
-
-A) Explain Homomorphic filters. 06
-
-B) State Haar Kernel Matrix of size 8. Create Haar Butterfly diagram for the sequence, 06
-
-X[n]={8, 2, 1, 3, 5, 6, 4, 7}
-Q.3. Attempt All
-
-A) Compute the DFT of the given image using DIT-FFT 06
-0 1 2 ~=421
-1 2 3 2
-2 3 4 3
-1 2 3 2
-
-B) Explain the process of Huffman Encoding. Represent the following image in compressed 06
-format using Huffman coding.
-
-Gray Level 0 1 | 2] 3 4 5 6 7
-oe. No. of Pixels | 2 |2/0{/2/71]3]|0] 0
-
-1|gaxe
---- page 2 ---
-Q.4. Attempt All
-
-A) Classify image compression methods in detail along with the different redundancies that 06
-can present in digital image.
-
-B) Give the 8X8 Matrix for Walsh transform and the sequence diagram for the same. 06
-Q.5. Attempt All
-A) Perform histogram Equalization on the image with following grey level distribution. 06
-Gray Level 0 1 2 3 4 5 6 7
-No. of Pixels | 400 | 700 | 1350 | 2500.| 3000 | 1500 | 550 0
-B) _ Illustrate different types of distance measures which can be used in digital image 03
-processing.
-C) Explain region splitting & Merging. 03
-Q.6. Attempt All
-A) Explain Image pyramids. 06
-B) Explain Dilation & Erosion operations for binary image with example. 06
-Q7. Attempt All
-A) Explain Boundary extraction & Region filling using morphological operators. 06
-B) Explain the process of edge extraction using following operators 06
-a. Sobel
-b. Prewitt
-c. Roberts
-
-2) \pa ge
-````
-
 ## 2015-16 · Final-Exam · Sem 6 · paper 4dc824775cc0
 
 - Departments: Computer Engineering
@@ -3043,6 +3043,166 @@ Q7. Write short note on any two [12 Marks]
 a2)/o-
 ````
 
+## 2015-16 · Re-Exam · Sem 6 · paper 756666115eac
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE PROCESSING B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05/05/2016
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’s NMIMS =
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: III Semester: VI
+
+Academic Year: 2015-16
+
+Batch: 2014-15
+Subject: Image Processing Marks: 60
+Time: 2.00 pm - 5.00 pm
+
+Date: 05/05/2016 Durations: 3 hrs.
+
+Re-Examination
+
+,- Ins cruction: Candidates should read carefully the instruction printed on the question paper and
+
+on che cover of the answer book, which is provided for their use.
+NB-
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks. ;
+5. Answer to each new question to be started on a fresh page.
+6. Figures on the right hand side indicate full marks.
+
+7. Assume suitable data wherever necessary
+
+Ql. (2
+- a) Does Erosion followed by dilation give the original image?
+b) Run length coding is lossless, but may not give data compression always.
+c) Give the formula for calculating D4 and D8 distance.
+d) Spatial resolution and intensity resolution are the different terms.
+Q2.a) What are the steps required to perform filtering in frequency domain? Also explain G
+Gaussian low pass filter.
+b) Prove the separability and periodicity property of 2D-Discrete Fourier transform. CO
+gr Q3 a) Explain following transformation with an example. (any two) - 4
+
+a) Opening b) Closing c) Hit-and-Miss d) Thickening
+
+Jo
+--- page 2 ---
+wt ‘
+oS chk YS ree,
+
+ar ye
+
+”
+hit
+
+yt?
+
+b) What is histogram? Explain histogram equalization taking a 5X5 image.
+
+Q4.a) Explain in detail, Hough transform for edge linking.
+
+b) Find the DFT of the following Image.
+
+b) Write note on Discrete Cosine Transform and its applications in Image Compression.
+
+Q6.a) Given the data sequence x(n) = [ 3,2.4,6,5,4,3,1], find the Hadamard transform of the
+given sequence.
+
+b) Explain contrast stretching and its special cases with suitable examples.
+
+Q7. Write short note on the following (Any Two)
+a) JPEG Image Standard.
+bd) image segmentation.
+c) Hotelling transform.
+
+2)/2_
+
+C
+
+62
+````
+
+## 2014-15 · Final-Exam · Sem 6 · paper 38f7b106a557
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE PROCESSING B TECH (COMP), FINAL EXAM.pdf`
+- Printed on paper: exam date: 07/05/2015
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: III Semester: VI
+
+Academic Year: 2014-2015
+
+] -
+
+| Subject: Image Processing v.
+
+i Marks’ (   B67Ma
+
+Date: 07/05/2015 Time: ~ “46.60% 0 pm
+Dural
+Final-Examination —
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+1) Question No.1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures to the right hand side indicate full marks.
+7) Assume suitable data wherever necessary.
+Q1 | A | Explain the fundamental stages of Image processing 08
+B | Explain Connectivity between pixels 04
+Q2 |A | Whatis a fidelity criterion with respect to image processing. Explain 06
+B | Explain Image Subtraction 06
+
+Q3 Explain the followings: . 12
+
+i | DFT and FFT
+ii | Region Splitting and Merging
+iii | Moments
+
+Q4 | A | Whatis Contrast stretching and gray level slicing and perform gray level slicing on the | 09
+following 4 bpp images
+
+r1=4,r2=7
+4 BPP IMAGE
+— 2 10 | 10/| 3 9
+5 2 7 6 | 15
+pai 0 0 5 5 | 13
+12) 1 7 6 13
+1 5 3 14 | 13
+--- page 2 ---
+B | Explain Boundary extraction using morphological operators 03
+QS | A | Explain Image pyramids 06
+B | Compare and contrast uniform and non- uniform Sampling and Quantization 06
+Q6 | A | Justify/Contradict the following statements 12
+i | Successive Histogram Equalization results in a Flat Histogram for continuous images
+ii | Low pass filter is the best filter to remove salt and pepper noise
+iii | LZW is a lossy compression technique
+Q7 | A | Give the 8 X 8 Matrix for Hadamard Transform and the Butterfly diagram for the same | 08
+B | Write a note on Homomorphic filter 04
+
+x x
+````
+
 ## 2014-15 · Final-Exam · Sem 7 · paper 908fc37bf40d
 
 - Departments: Electronics and Telecommunication
@@ -3164,6 +3324,217 @@ e) Describe thresholding for segmentation.
 -----3X ===
 ````
 
+## 2014-15 · Re-Exam · Sem 6 · paper faa1c9df985d
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE PROCESSING B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 07/05/2015
+- Text: ocr (2 pages), mean OCR confidence 84.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) . Year: Ill Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015 eo
+Subject: Image Processing fg
+Marksf/ #/" 100
+Date: 07/05/2015 Timesiy ys
+
+Re-Examination RS te “que
+
+he, " liebe
+Instruction: Candidates should read carefully the instructions printed on the question paper alichor-then"™
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures to the right hand side indicate full marks.
+
+7) Assume suitable data wherever necessary.
+
+Qi Justify the followings with example (Any Four) 20
+a The change in order of application of LPF & HPF on digital image does not affect the
+output.
+
+b There is no resemblance of quality of image with its resolution .
+c¢ Down sampling is same as resizing.
+d Wavelets are far better compared to STFT and FT in terms of extraction of frequency and
+time information.
+e Ideal low pass filter in not better than high boost filter.
+f RLE is the best method for image compression.
+Q.2 a Represent the following image in compressed format using Huffman Coding and calculate 10
+
+average word length.
+
+Gray 0 1, 2 3 4 5 6 7
+Level
+No Of |2 2 0 2 7 3 ie} 0
+Pixels
+b Plot the sequency of DCT and apply DCT on the following image. 10
+2/4|4 |2
+4|6/8 |3
+2/8 |10|4
+3/8)6 |2
+10
+
+Q.3 a Explain fundamental steps of image processing system.
+
+b Construct a fully populated approximation pyramid and corresponding prediction residual 10
+pyramid for the image ~
+
+142 |3 |4
+
+5 |6 |7 |8
+
+9 | 10] 11 | 12
+[13 14 | 15; 16
+
+4/2.
+--- page 2 ---
+Q4a
+
+Q5a
+
+Q6a
+
+Q.7a
+
+What do you mean by Histogram of an image? Explain histogram equalization with
+example.
+
+Compare & contrast morphological operations on binary images and that on gray scale
+images.
+
+Describe segmentation techniques based on intensity discontinuity.
+Explain homomorphic filtering in detail.
+
+Describe Haar transform. Apply Haar transform on the given image.
+
+12 | 12 | 12 | 12 | 14 | 12 | 12 | 12
+12 | 12 | 12 | 12 | 14); 12 | 12 | 12
+12 | 12 | 12 | 12 | 14 | 12 | 12 | 12
+12 | 12 | 12 | 12 | 14] 12 | 12 | 12
+12 | 12 | 12 | 12 | 14 | 12 | 12 | 12
+16/161 16 | 16 | 14] 16 | 16 | 16
+12 | 12 | 12 | 12 | 12 | 12 | 12 | 12
+12 | 12 | 12 | 12 | 12 | 12 | 12 | 12
+
+Illustrate different types of distance measures which can be used in digital image
+processing.
+
+Explain with an example boundary extraction using morphological operation.
+
+Describe Hotelling Transform.
+Explain various types of redundancies present in the image along with fidelity criteria.
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+10
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper 2983bc9e8844
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE PROCESSING B TECH (COMP), BATCH 2013-14 RE EXAM_2983bc9e88.pdf`
+- Printed on paper: exam date: 30/06/2015
+- Text: ocr (1 page), mean OCR confidence 88.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: Ill Semester: VI
+
+> Batch: 2013-14
+Academic Year: 2014-2015-~
+
+BF ay,
+e Ee Be
+
+Subject: Image Processing Iw
+Marks: “\%
+
+Date: 30/06/2015 Time: <i) )d0j00 am to 1.00 pm
+Durations: )g rs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures to the right hand side indicate full marks.
+
+7) Assume suitable data wherever necessary.
+
+Q.1a_ Explain Gray Level Slicing. 5
+b Describe Hadamard Transform. 5
+c Explain black & White Noise. 5
+d_ Discuss different types of redundancies present in an image. 5
+
+Q.2 a List and explain different elements of image processing system. 10
+b_ Explain dilation and erosion operations for binary image with example. 10
+
+Q.3 a Describe KL transform. 10
+b List different region based image segmentation Techniques. 10
+
+Discuss Region growing and region merging techniques of image segmentation
+
+Q.4 a_ Give the significance of Kronecker product in development of fast transform. Find 10
+Kronecker product of 2X2 Harr and 4X4 Walsh matrix.
+b Apply DCT to the following image 10
+2/4 |4 |2
+4/6/8 |3
+2|8 |10|4
+[Tate [2]
+Q.5 a Three column vectors are given below. Show that they are orthogonal. Also generate all 10
+possible patterns. fs 10
+
+X1 = [111], X2= [-2 11], X3 = [0-11]
+
+b Explain JPEG Compression.
+Q.6 a What is histogram? What information is revealed by the histogram of an image? Discuss 10
+histogram equalization. 10
+b State Haar Kernel Matrix of size 8.
+Create Haar butterfly diagram for the sequence, X[n] = {6,1,1,1,7,0,7,2}.
+Q.7a_ Describe Hough Transform. 10
+b Explain boundary extraction using morphological operations. 10
+
+4/1.
+````
+
 ## 2014-15 · Re-Exam · Sem 6 · paper 9fc157ed0f5d
 
 - Departments: Computer Engineering
@@ -3278,94 +3649,241 @@ Bla
 12
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper 756666115eac
+## 2014-15 · Re-Exam · Sem 7 · paper 58ae9e0991da
 
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE PROCESSING B TECH (COMPUTER), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 05/05/2016
-- Text: ocr (2 pages), mean OCR confidence 88.2
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/IMAGE PROCESSING/IMAGE PROCESSING B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 03/12/2014
+- Text: ocr (2 pages), mean OCR confidence 91.8
 
 ````text
-SVKM’s NMIMS =
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (Computer) Year: III Semester: VI
+Programme: B. Tech (EXTC) Year: IV Semester: VII
+Batch: 2013-2014
+Academic Year: 2014-2015 gus RReey
+Subject: Image Processing re NG
+Marks: Fibopstun ‘
+Date: 03/12/2014 Time: OE:
+Durations} kes)
 
-Academic Year: 2015-16
+—)
 
-Batch: 2014-15
-Subject: Image Processing Marks: 60
-Time: 2.00 pm - 5.00 pm
-
-Date: 05/05/2016 Durations: 3 hrs.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 Re-Examination
 
-,- Ins cruction: Candidates should read carefully the instruction printed on the question paper and
+NB:
 
-on che cover of the answer book, which is provided for their use.
-NB-
+1) Question No. 1. is compulsory.
 
-1. Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
 
-2. Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
 
-3. Inall 5 questions to be attempted.
+4) All questions carry equal marks.
 
-4. All questions carry equal marks. ;
-5. Answer to each new question to be started on a fresh page.
-6. Figures on the right hand side indicate full marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
 
-7. Assume suitable data wherever necessary
+Q.1. Justify/Contradict the following statements:- [20]
+(a) A High pass filtered image can be obtained in the spatial domain as
+High pass=Original — Low pass
+(b) Laplacian is not a good edge detector.
+(c) The first difference of chain code normalizes it to rotation.
+(d) Runlength coding is loss-less coding but may not give data compression always.
 
-Ql. (2
-- a) Does Erosion followed by dilation give the original image?
-b) Run length coding is lossless, but may not give data compression always.
-c) Give the formula for calculating D4 and D8 distance.
-d) Spatial resolution and intensity resolution are the different terms.
-Q2.a) What are the steps required to perform filtering in frequency domain? Also explain G
-Gaussian low pass filter.
-b) Prove the separability and periodicity property of 2D-Discrete Fourier transform. CO
-gr Q3 a) Explain following transformation with an example. (any two) - 4
+Q.2. (a). A digital image with eight Quantization level is given below. [10]
+F(x,y) =1i-j| for i,j = 0,1,2,3,4,5,6,7
 
-a) Opening b) Closing c) Hit-and-Miss d) Thickening
+Perform histogram equalization. Derive Transformation function and draw new histogram.
 
-Jo
+(b). Discuss Homomorphic filtering technique of image enhancement. [10]
+
+Q.3. (a). Assuming that the edge starts on first column and ends in the last column for the [10]
+following image.
+
+2/1 10
+1/1 |7
+6|8 |2
+
+Sketch all possible paths & determine the edge corresponding to minimum cost path.
+(b). Draw & explain block diagram of JPEG encoder and decoder. [10]
+
+pos Q.4. (a). Name different types of image segmentation techniques. Explain Region growing and
+splitting & merging technique with the help of an example [10]
+(b). Briefly describe following morphological operations in terms of dilation and erosion operators
+with the help of an example. [10]
+
+Vo.
 --- page 2 ---
-wt ‘
-oS chk YS ree,
+i) Boundary extraction
+ii) skeletonization
 
-ar ye
+iii) opening
 
-”
-hit
+iv) closing
 
-yt?
+Q.5. (a). Compare point processing and neighborhood processing. Explain any three point processing
+Technique in detail. [10]
+(b). Three column vectors are given below [10]
+al=[1 11], a2=[-2 1 1], a3=[0-1 1]
+show that they are orthogonal. Also generate all possible patterns.
 
-b) What is histogram? Explain histogram equalization taking a 5X5 image.
+Q.6. (a). State and prove the following properties for 2-D DFT [10]
+(i) Linearity (ii) Separability
+(b). Draw the butterfly diagram to Compute the Hadamard Transform for the data sequence [10]
+x(n)={1,0,2 ,3,4,1,3,1}°
+Q.7. Write short notes on (any four):- [20]
+(a) Image sampling and Quantization
+(b) K-L Transform
+(c) Video compression standards
+(d) Image Acquisition method
+(e) Hit or Miss transformation
 
-Q4.a) Explain in detail, Hough transform for edge linking.
+" %
 
-b) Find the DFT of the following Image.
+{Yo
+````
 
-b) Write note on Discrete Cosine Transform and its applications in Image Compression.
+## 2014-15 · Re-Exam · Sem 8 · paper 811cf43a49ae
 
-Q6.a) Given the data sequence x(n) = [ 3,2.4,6,5,4,3,1], find the Hadamard transform of the
-given sequence.
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/IMAGE PROCESSING/Image Processing Batch 2013-14 Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 15/04/2015
+- Text: ocr (3 pages), mean OCR confidence 86.6
 
-b) Explain contrast stretching and its special cases with suitable examples.
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Q7. Write short note on the following (Any Two)
-a) JPEG Image Standard.
-bd) image segmentation.
-c) Hotelling transform.
+Programme: MBA Tech (EXTC) : Year: IV Semester: VIII
 
-2)/2_
+Academic Year: 2014-15
+Batch: 2013-14
 
-C
+Subject: Image Processing (ous ©
+Marks: 100 ro ~
 
-62
+®
+tara
+
+Date: 15/04/2015 Time: 2.00 pm!
+Durations: 3 (h
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to cach new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+‘OL, State True or False and justify (20)
+(a) All image compression techniques are invertible.
+(b) Second pass of histogram equalization will produce the same result as the first pass.
+(c) The sum of coefficients of High pass mask should be one.
+(d) Kernel separability property of 2D transforms helps in effective computation of transform
+
+coefficients.
+(©) The principal operation of median filter is to force points with distinct intensities to be more
+like their neighbors.
+Q2. (a) Consider the image A and the structuring Ol11010
+element B. =lolilolo G) :
+Perform (i) Erosion (ii) Dialation Olt to
+ii) Opening and (iv) Closing ifololo (10)
+
+(b) Consider art 8 pixel linc of gray scale data {12, 10, 08, 13, 14, 32, 40, 11} which has been
+uniformly quantized with 6 bit accuracy. Construct 3 bit IGS (Improved Gray Scale Quantization)
+
+code, Decode the received IGS code and obtain the RMS signal to noise ratio. (16)
+Page lof 3
+--- page 2 ---
+Q3.
+
+4.
+
+O35,
+
+(a) What is image sampling and quantization. An image has a size of 8 x 8 inches. The sampling
+
+resolution is 5 samples/mm, How many pixels are required? If the samples are quantized using 8
+bpp calculate the storage space required for the raw image.
+
+, (10)
+A A
+(b) For the given image explain how Slant transform lTifi]i
+and Discrete cosine transform can be used for ; i ; ;
+2
+image compression. sts
+
+(0)
+
+(a) A digital image with eight levels of quantization has its gray
+
+level distribution as shown
+below. Perform histogram equalization. Draw
+
+the original and equalized histograms. (10)
+
+| ras here rO} tf 273 Tas 6 7
+
+[x of Pixels | 100 | 250 | 100 | 400 [1501 0 0 0
+I J
+(b) Explain segmentation based on discontinuity and segmentation based on similarities.
+
+(10)
+(a) For a given image find (i) Digital negative of the image (ii) Show all the bit planes
+iii) Contrast stretching according to the transfer function shown (10)
+Z 7
+44342] 1 a
+BiLi 214 Bb 6
+Siil6]2 F 5
+2,34; 5 46] ° zZ4
+z 3
+3 2
+= ith
+|
+012345 67
+Original Intensity >
+(b) Explain the basic steps for filtering in the frequency domain. Provide mathematical
+Justification for preprocessing and postprocessing carried out in the process, (0)
+
+Page 2 of 3
+--- page 3 ---
+O6. (a) What is Hadamard transform? Write a 4 x 4 Hadamard matrix and its application. Is HG)
+
+orthogonal and normalized ? (10)
+
+(8) Compare (i) Lossy and Lossless compressions. (65)
+
+(ii) Objective and subjective Fidelity criteria (05)
+
+Q7. Write short notes on (20)
+
+(a) Elements of image processing
+
+(b) Hough transform
+
+(c) Types of images.
+
+(d) JPEG image compression standard
+
+em Page 3 of 3
 ````
 
 ## 2013-14 · Final-Exam · Sem 6 · paper 546996f44796
@@ -4022,217 +4540,6 @@ b Explain JPEG Compression. 10
 Vi)
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper faa1c9df985d
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE PROCESSING B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 07/05/2015
-- Text: ocr (2 pages), mean OCR confidence 84.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) . Year: Ill Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015 eo
-Subject: Image Processing fg
-Marksf/ #/" 100
-Date: 07/05/2015 Timesiy ys
-
-Re-Examination RS te “que
-
-he, " liebe
-Instruction: Candidates should read carefully the instructions printed on the question paper alichor-then"™
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures to the right hand side indicate full marks.
-
-7) Assume suitable data wherever necessary.
-
-Qi Justify the followings with example (Any Four) 20
-a The change in order of application of LPF & HPF on digital image does not affect the
-output.
-
-b There is no resemblance of quality of image with its resolution .
-c¢ Down sampling is same as resizing.
-d Wavelets are far better compared to STFT and FT in terms of extraction of frequency and
-time information.
-e Ideal low pass filter in not better than high boost filter.
-f RLE is the best method for image compression.
-Q.2 a Represent the following image in compressed format using Huffman Coding and calculate 10
-
-average word length.
-
-Gray 0 1, 2 3 4 5 6 7
-Level
-No Of |2 2 0 2 7 3 ie} 0
-Pixels
-b Plot the sequency of DCT and apply DCT on the following image. 10
-2/4|4 |2
-4|6/8 |3
-2/8 |10|4
-3/8)6 |2
-10
-
-Q.3 a Explain fundamental steps of image processing system.
-
-b Construct a fully populated approximation pyramid and corresponding prediction residual 10
-pyramid for the image ~
-
-142 |3 |4
-
-5 |6 |7 |8
-
-9 | 10] 11 | 12
-[13 14 | 15; 16
-
-4/2.
---- page 2 ---
-Q4a
-
-Q5a
-
-Q6a
-
-Q.7a
-
-What do you mean by Histogram of an image? Explain histogram equalization with
-example.
-
-Compare & contrast morphological operations on binary images and that on gray scale
-images.
-
-Describe segmentation techniques based on intensity discontinuity.
-Explain homomorphic filtering in detail.
-
-Describe Haar transform. Apply Haar transform on the given image.
-
-12 | 12 | 12 | 12 | 14 | 12 | 12 | 12
-12 | 12 | 12 | 12 | 14); 12 | 12 | 12
-12 | 12 | 12 | 12 | 14 | 12 | 12 | 12
-12 | 12 | 12 | 12 | 14] 12 | 12 | 12
-12 | 12 | 12 | 12 | 14 | 12 | 12 | 12
-16/161 16 | 16 | 14] 16 | 16 | 16
-12 | 12 | 12 | 12 | 12 | 12 | 12 | 12
-12 | 12 | 12 | 12 | 12 | 12 | 12 | 12
-
-Illustrate different types of distance measures which can be used in digital image
-processing.
-
-Explain with an example boundary extraction using morphological operation.
-
-Describe Hotelling Transform.
-Explain various types of redundancies present in the image along with fidelity criteria.
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-10
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 2983bc9e8844
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE PROCESSING B TECH (COMP), BATCH 2013-14 RE EXAM_2983bc9e88.pdf`
-- Printed on paper: exam date: 30/06/2015
-- Text: ocr (1 page), mean OCR confidence 88.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: Ill Semester: VI
-
-> Batch: 2013-14
-Academic Year: 2014-2015-~
-
-BF ay,
-e Ee Be
-
-Subject: Image Processing Iw
-Marks: “\%
-
-Date: 30/06/2015 Time: <i) )d0j00 am to 1.00 pm
-Durations: )g rs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures to the right hand side indicate full marks.
-
-7) Assume suitable data wherever necessary.
-
-Q.1a_ Explain Gray Level Slicing. 5
-b Describe Hadamard Transform. 5
-c Explain black & White Noise. 5
-d_ Discuss different types of redundancies present in an image. 5
-
-Q.2 a List and explain different elements of image processing system. 10
-b_ Explain dilation and erosion operations for binary image with example. 10
-
-Q.3 a Describe KL transform. 10
-b List different region based image segmentation Techniques. 10
-
-Discuss Region growing and region merging techniques of image segmentation
-
-Q.4 a_ Give the significance of Kronecker product in development of fast transform. Find 10
-Kronecker product of 2X2 Harr and 4X4 Walsh matrix.
-b Apply DCT to the following image 10
-2/4 |4 |2
-4/6/8 |3
-2|8 |10|4
-[Tate [2]
-Q.5 a Three column vectors are given below. Show that they are orthogonal. Also generate all 10
-possible patterns. fs 10
-
-X1 = [111], X2= [-2 11], X3 = [0-11]
-
-b Explain JPEG Compression.
-Q.6 a What is histogram? What information is revealed by the histogram of an image? Discuss 10
-histogram equalization. 10
-b State Haar Kernel Matrix of size 8.
-Create Haar butterfly diagram for the sequence, X[n] = {6,1,1,1,7,0,7,2}.
-Q.7a_ Describe Hough Transform. 10
-b Explain boundary extraction using morphological operations. 10
-
-4/1.
-````
-
 ## 2013-14 · Re-Exam · Sem 6 · paper 0fdb92950c6c
 
 - Departments: Computer Engineering
@@ -4338,106 +4645,6 @@ e) Interpixel Redundancy [05]
 
 f) Convolution property of Fourier Trasform [05]
 re KR
-````
-
-## 2013-14 · Re-Exam · Sem 7 · paper 58ae9e0991da
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/IMAGE PROCESSING/IMAGE PROCESSING B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 03/12/2014
-- Text: ocr (2 pages), mean OCR confidence 91.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: IV Semester: VII
-Batch: 2013-2014
-Academic Year: 2014-2015 gus RReey
-Subject: Image Processing re NG
-Marks: Fibopstun ‘
-Date: 03/12/2014 Time: OE:
-Durations} kes)
-
-—)
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-Re-Examination
-
-NB:
-
-1) Question No. 1. is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1. Justify/Contradict the following statements:- [20]
-(a) A High pass filtered image can be obtained in the spatial domain as
-High pass=Original — Low pass
-(b) Laplacian is not a good edge detector.
-(c) The first difference of chain code normalizes it to rotation.
-(d) Runlength coding is loss-less coding but may not give data compression always.
-
-Q.2. (a). A digital image with eight Quantization level is given below. [10]
-F(x,y) =1i-j| for i,j = 0,1,2,3,4,5,6,7
-
-Perform histogram equalization. Derive Transformation function and draw new histogram.
-
-(b). Discuss Homomorphic filtering technique of image enhancement. [10]
-
-Q.3. (a). Assuming that the edge starts on first column and ends in the last column for the [10]
-following image.
-
-2/1 10
-1/1 |7
-6|8 |2
-
-Sketch all possible paths & determine the edge corresponding to minimum cost path.
-(b). Draw & explain block diagram of JPEG encoder and decoder. [10]
-
-pos Q.4. (a). Name different types of image segmentation techniques. Explain Region growing and
-splitting & merging technique with the help of an example [10]
-(b). Briefly describe following morphological operations in terms of dilation and erosion operators
-with the help of an example. [10]
-
-Vo.
---- page 2 ---
-i) Boundary extraction
-ii) skeletonization
-
-iii) opening
-
-iv) closing
-
-Q.5. (a). Compare point processing and neighborhood processing. Explain any three point processing
-Technique in detail. [10]
-(b). Three column vectors are given below [10]
-al=[1 11], a2=[-2 1 1], a3=[0-1 1]
-show that they are orthogonal. Also generate all possible patterns.
-
-Q.6. (a). State and prove the following properties for 2-D DFT [10]
-(i) Linearity (ii) Separability
-(b). Draw the butterfly diagram to Compute the Hadamard Transform for the data sequence [10]
-x(n)={1,0,2 ,3,4,1,3,1}°
-Q.7. Write short notes on (any four):- [20]
-(a) Image sampling and Quantization
-(b) K-L Transform
-(c) Video compression standards
-(d) Image Acquisition method
-(e) Hit or Miss transformation
-
-" %
-
-{Yo
 ````
 
 ## 2013-14 · Re-Exam · Sem 8 · paper 976f851809dd
@@ -4553,143 +4760,6 @@ Write short notes on any two (20)
 Page 2 of 2
 ````
 
-## 2013-14 · Re-Exam · Sem 8 · paper 811cf43a49ae
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/IMAGE PROCESSING/Image Processing Batch 2013-14 Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 15/04/2015
-- Text: ocr (3 pages), mean OCR confidence 86.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) : Year: IV Semester: VIII
-
-Academic Year: 2014-15
-Batch: 2013-14
-
-Subject: Image Processing (ous ©
-Marks: 100 ro ~
-
-®
-tara
-
-Date: 15/04/2015 Time: 2.00 pm!
-Durations: 3 (h
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to cach new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-‘OL, State True or False and justify (20)
-(a) All image compression techniques are invertible.
-(b) Second pass of histogram equalization will produce the same result as the first pass.
-(c) The sum of coefficients of High pass mask should be one.
-(d) Kernel separability property of 2D transforms helps in effective computation of transform
-
-coefficients.
-(©) The principal operation of median filter is to force points with distinct intensities to be more
-like their neighbors.
-Q2. (a) Consider the image A and the structuring Ol11010
-element B. =lolilolo G) :
-Perform (i) Erosion (ii) Dialation Olt to
-ii) Opening and (iv) Closing ifololo (10)
-
-(b) Consider art 8 pixel linc of gray scale data {12, 10, 08, 13, 14, 32, 40, 11} which has been
-uniformly quantized with 6 bit accuracy. Construct 3 bit IGS (Improved Gray Scale Quantization)
-
-code, Decode the received IGS code and obtain the RMS signal to noise ratio. (16)
-Page lof 3
---- page 2 ---
-Q3.
-
-4.
-
-O35,
-
-(a) What is image sampling and quantization. An image has a size of 8 x 8 inches. The sampling
-
-resolution is 5 samples/mm, How many pixels are required? If the samples are quantized using 8
-bpp calculate the storage space required for the raw image.
-
-, (10)
-A A
-(b) For the given image explain how Slant transform lTifi]i
-and Discrete cosine transform can be used for ; i ; ;
-2
-image compression. sts
-
-(0)
-
-(a) A digital image with eight levels of quantization has its gray
-
-level distribution as shown
-below. Perform histogram equalization. Draw
-
-the original and equalized histograms. (10)
-
-| ras here rO} tf 273 Tas 6 7
-
-[x of Pixels | 100 | 250 | 100 | 400 [1501 0 0 0
-I J
-(b) Explain segmentation based on discontinuity and segmentation based on similarities.
-
-(10)
-(a) For a given image find (i) Digital negative of the image (ii) Show all the bit planes
-iii) Contrast stretching according to the transfer function shown (10)
-Z 7
-44342] 1 a
-BiLi 214 Bb 6
-Siil6]2 F 5
-2,34; 5 46] ° zZ4
-z 3
-3 2
-= ith
-|
-012345 67
-Original Intensity >
-(b) Explain the basic steps for filtering in the frequency domain. Provide mathematical
-Justification for preprocessing and postprocessing carried out in the process, (0)
-
-Page 2 of 3
---- page 3 ---
-O6. (a) What is Hadamard transform? Write a 4 x 4 Hadamard matrix and its application. Is HG)
-
-orthogonal and normalized ? (10)
-
-(8) Compare (i) Lossy and Lossless compressions. (65)
-
-(ii) Objective and subjective Fidelity criteria (05)
-
-Q7. Write short notes on (20)
-
-(a) Elements of image processing
-
-(b) Hough transform
-
-(c) Types of images.
-
-(d) JPEG image compression standard
-
-em Page 3 of 3
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper a6b88aab36ea
 
 - Departments: Computer Applications (MCA)
@@ -4757,6 +4827,249 @@ Q.7a Describe JPEG Compression. 10
 b Explain Fast Wavelet Transform. 10
 
 t
+````
+
+## 2011-12 · Re-Exam · Trim 7 · paper 86cc943a6d01
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/IMAGE PROCESSING/IMAGE PROCESSING BATCH 2009-10 RE EXAM0001 m.pdf`
+- Printed on paper: exam date: 11/06/2012
+- Text: ocr (3 pages), mean OCR confidence 87.1
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Programme: MBA Tech - IT Year: Ii Trimester: VII
+
+Academic Year : 2011-2012
+
+Batch: 2009-10
+Subject: Image Processing
+Date: 11/06/2012
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the'question ryt
+paper and on the cover of the Answer Book, which is provided for the use. —
+
+NB.
+1. Question No.1 is compulsory
+2. Out of remaining 6 questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question should be started on a Fresh page.
+6. Figure in brackets indicate full marks.
+
+Q.1 a) | State True or False and justify (Answer any five):- 20
+
+(a) All image compression techniques are invertible.
+(b) Laplacian is not a good edge detector. .
+
+4 (c) Runlength coding is a loss less coding but may not give data
+
+) compression always.
+(d) The principal operation of median filter is to force points with
+distinct intensities to be more like their neighbours.
+(e) Second pass of Histogram Equalization will produce exactly the
+same result as the first pass.
+(f) The sum of coefficients of High pass mask should be one.
+
+Q.2 a) | A digital image with eight levels of quantization has its gray level 10
+} distribution as shown below
+ar «
+q! Gray |0 1 2 3 4 5 6 7
+Levels :
+‘ No of | 200 170 110 | 80 60 80 140 160
+Pixels
+
+Perform Histogram Equalization and draw original and equalized
+histograms.
+
+b) | i) An image segment with 3 bits per pixel is shown below. Perform | 6+4
+contrast . stretching as per the transfer function shown in the
+graph.
+ii) Draw the histograms of the original and the contrast stretched
+
+Page 1 of 3
+--- page 2 ---
+image segments
+
+4 3 0 3 1 2 74
+2 4 ii 2 Zz 5 2
+1 3 2 2 7 5 2
+1 3 2 2 4 4 Zi
+1 1 Pa 2 1 1 6
+1 1 6 2: 7 6 1
+3 r 4 a 2 7 3
++ is } \
+| ‘a \
+{ / ;
+| f
+4) / |
+S| / |
+| /
+
+apecrshe 28 som acd
+
+° a] & i
+Fn pub gray levels
+
+Q.3 a) | Apply Low Pass and High Pass Spatial Mask on the following image | 10
+matrix
+a
+547120
+62 3°'4 1
+F = _ 1 |
+356 8 2;
+, 43 7°48 |
+b) | Assume that an edge start first rows and ends in last row for the 10
+
+following gray level image. Sketch possible paths and also
+determine edge corresponding to the minimum cost path use
+graph theoretic technique:
+
+Page 2 of 3
+--- page 3 ---
+5 7 2
+
+Le
+3 1 0
+Q.4 a) | Name and explain different types of redundancies in a digital 8+2
+image.
+Classify the following compression techniques in to lossy and loss
+less :-
+(i) IGS coding {ii) Run length coding
+(iii) Transform coding (iv) DPCM coding.
+b) | Name different types of image segmentation techniques. Explain 10
+the splitting and merging technique with the help of an example
+Q.5 a) | Asource emits six symbols with probabilities as shown below 10
+al -> 0.22, a2 -> 0.09, a3 -> 0.19, a4 -> 0.32, a5 -> 0.12, .a6->
+0:06.Generate the Huffman code and calculate Entropy, average
+length and coding efficiency.
+b) | With the help of a block diagram, explain the working of a 10
+Homomorphic filter.
+Q.6 a) | Compute Haar basis functions for N =8 and write the corresponding | 10
+Haar Matrix.
+b) | (b) Compute Hadamard transform for the sequence f= [102341 | 10
+3 1]'. Draw the.butterfly diagram.
+Q.7 | Write Short Notes on( any four) 20
+
+i) lsopreference curves
+ii) Role of DCT in image compression
+iii) Image acquisition method
+iv) Connectivity of pixels
+| v) Dilation and Erosion.
+
+v
+
+||
+
+Page 3 of 3
+````
+
+## 2010-11 · Exam not stated · Trim 7 · paper a761e9d931c3
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/IMAGE PROCESSING/IMAGE PROCESSING BATCH 2009-2010(1).pdf` (+3 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/06/2011
+- Text: ocr (3 pages), mean OCR confidence 89.4
+
+````text
+\
+
+SVKM’s NMIMS _
+Mukesh Patel School of Technology Management & Engiffpering
+
+Programme: MBA Tech -IT Year: III Trimester” VII
+Academic Year : 2010-2011
+Batch: 2009-2010
+Subject: Image Processing Marks: | _,( 100
+Time: 10.00 am To 1.00 pm
+Date: 13/06/2011 Duration \3 hrs. Y,
+Re - Examination SS r
+clea
+Subject: Image Processing
+Date: Marks: 100
+Time :3 hrs.
+NB: 1) Question No.1 is compulsory.
+2) Answer to each new question to be started on a fresh page.
+3) Figure in brackets indicates full marks.
+4) Attempt any FIVE questions from the remaining questions.
+Q.1 (a) Explain the concept of image sampling and quantization. (10)
+
+(b) Explain in detail the basic elements of an image processing system. (10)
+
+Q.2 (a) Compute the DFT of the given image using DIT-DFT. (10)
+
+(b) Given the data sequence x(n) = { 1,3,4,1,2,1,3,1}’ , use the Fast Hadamard
+Transform to compute the Hadamard Transform. (10)
+
+Q. 3] (a) Derive the expression of Homomorphic filtering .Also explain
+the significance of Homomorphic filtering. (10)
+
+(b) Equalize the following Histogram: (10)
+
+Yo
+--- page 2 ---
+Gray | 0 1 2 3 4 5 6 7
+level
+
+‘P
+
+No. of | 50 | 0 50 | 0 50 | 0 50 |0
+pixels
+
+on
+
+Q4 (a) Explain the output and application of the following zero memory enhancement
+techniques.
+
+(1) Contrast stretching (2) Thresholding (3) Bit Extraction (10)
+
+(b) Explain high boost in frequency domain. (10)
+
+Q5 (a) The following six symbols and their probabilities are given in tabular form
+
+-Generate Huffman code for them: (10)
+symbol bl b2 b3 b4 bS b6
+Probability | 0.1 0.4 0.06 0.1 0.04 0.3
+
+(b) Construct the I.G.S. code of the given gray level data set. (10)
+
+{100, 110, 124, 124, 130, 110, 200, 210}
+
+Q6 (a) Given the image ‘A’ below, use region filling to fill up the image.
+The structuring element ‘B’ is also given below. Note the shaded portions
+
+are considered as | and ‘p’ is the starting point. (10)
+1 {1 jl
+1 ip 1
+7 1 1
+1 1
+1 1
+ee oe
+_ 1
+1}]1 {1
+
+a
+--- page 3 ---
+(b) Explain with definition the Dilation and Erosion operators. Apply Dilation
+and Erosion on the given image ’A’ and structuring image ’B’ (10)
+
+A={(1,0),(1,1),(1,2),(2.2),(0,3),(0.4)}
+
+B={(0,0),(1,0) ; where (1,0) is the origin.
+
+Q.7] Write a short note on any two: (20)
+a) Hit or Miss transform
+b) Fidelity criteria
+d) Chain code
+e) JPEG
+f) Regional Descriptors
+
+Ys
 ````
 
 ## 2010-11 · Exam not stated · Trim 7 · paper 8cfb291b3e33
@@ -4939,6 +5252,7 @@ b). Explain Homomorphic filtering with neat block diagram (10)
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/IMAGE PROCESSING/2009-2010(108).pdf`
 - Printed on paper: duration hours: 3; exam date: 06-10-04
 - Text: ocr (2 pages), mean OCR confidence 87.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY
@@ -4999,7 +5313,6 @@ Number of Pixels | 0 | 10 | 50 | 60 | 50 | 20 | 10 | 0
 
 PTO
 
-Cauadice tre Pisogvam ove 9
 Freres dor Action «
 --- page 2 ---
 2. ae
@@ -5046,116 +5359,13 @@ e) Hough transform.
 Eawwuize the Wskeavom ond Give the dose heuimaton of
 ````
 
-## 2009-10 · Exam not stated · Trim 7 · paper a761e9d931c3
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/IMAGE PROCESSING/IMAGE PROCESSING BATCH 2009-2010(1).pdf` (+3 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/06/2011
-- Text: ocr (3 pages), mean OCR confidence 89.4
-
-````text
-\
-
-SVKM’s NMIMS _
-Mukesh Patel School of Technology Management & Engiffpering
-
-Programme: MBA Tech -IT Year: III Trimester” VII
-Academic Year : 2010-2011
-Batch: 2009-2010
-Subject: Image Processing Marks: | _,( 100
-Time: 10.00 am To 1.00 pm
-Date: 13/06/2011 Duration \3 hrs. Y,
-Re - Examination SS r
-clea
-Subject: Image Processing
-Date: Marks: 100
-Time :3 hrs.
-NB: 1) Question No.1 is compulsory.
-2) Answer to each new question to be started on a fresh page.
-3) Figure in brackets indicates full marks.
-4) Attempt any FIVE questions from the remaining questions.
-Q.1 (a) Explain the concept of image sampling and quantization. (10)
-
-(b) Explain in detail the basic elements of an image processing system. (10)
-
-Q.2 (a) Compute the DFT of the given image using DIT-DFT. (10)
-
-(b) Given the data sequence x(n) = { 1,3,4,1,2,1,3,1}’ , use the Fast Hadamard
-Transform to compute the Hadamard Transform. (10)
-
-Q. 3] (a) Derive the expression of Homomorphic filtering .Also explain
-the significance of Homomorphic filtering. (10)
-
-(b) Equalize the following Histogram: (10)
-
-Yo
---- page 2 ---
-Gray | 0 1 2 3 4 5 6 7
-level
-
-‘P
-
-No. of | 50 | 0 50 | 0 50 | 0 50 |0
-pixels
-
-on
-
-Q4 (a) Explain the output and application of the following zero memory enhancement
-techniques.
-
-(1) Contrast stretching (2) Thresholding (3) Bit Extraction (10)
-
-(b) Explain high boost in frequency domain. (10)
-
-Q5 (a) The following six symbols and their probabilities are given in tabular form
-
--Generate Huffman code for them: (10)
-symbol bl b2 b3 b4 bS b6
-Probability | 0.1 0.4 0.06 0.1 0.04 0.3
-
-(b) Construct the I.G.S. code of the given gray level data set. (10)
-
-{100, 110, 124, 124, 130, 110, 200, 210}
-
-Q6 (a) Given the image ‘A’ below, use region filling to fill up the image.
-The structuring element ‘B’ is also given below. Note the shaded portions
-
-are considered as | and ‘p’ is the starting point. (10)
-1 {1 jl
-1 ip 1
-7 1 1
-1 1
-1 1
-ee oe
-_ 1
-1}]1 {1
-
-a
---- page 3 ---
-(b) Explain with definition the Dilation and Erosion operators. Apply Dilation
-and Erosion on the given image ’A’ and structuring image ’B’ (10)
-
-A={(1,0),(1,1),(1,2),(2.2),(0,3),(0.4)}
-
-B={(0,0),(1,0) ; where (1,0) is the origin.
-
-Q.7] Write a short note on any two: (20)
-a) Hit or Miss transform
-b) Fidelity criteria
-d) Chain code
-e) JPEG
-f) Regional Descriptors
-
-Ys
-````
-
 ## 2009-10 · Re-Exam · Trim 7 · paper 7437a7637137
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/IMAGE PROCESSING/2009-2010 batch re exam(5).pdf`
 - Text: ocr (3 pages), mean OCR confidence 86.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 — SVKM’S NMIMS
@@ -5165,7 +5375,6 @@ Programme ™@ Teds)
 v
 
 Academic Year: 2009 - 2010
-Subject: TMAGE PR KESSTN @ Guach,
 
 Date: [ (e)
 Paes Re#Examination — (2099-0) _
@@ -5264,145 +5473,6 @@ g. Signature
 aa TT c Leceeee “essesussesstasesese x
 ````
 
-## 2009-10 · Re-Exam · Trim 7 · paper 86cc943a6d01
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/IMAGE PROCESSING/IMAGE PROCESSING BATCH 2009-10 RE EXAM0001 m.pdf`
-- Printed on paper: exam date: 11/06/2012
-- Text: ocr (3 pages), mean OCR confidence 87.1
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Programme: MBA Tech - IT Year: Ii Trimester: VII
-
-Academic Year : 2011-2012
-
-Batch: 2009-10
-Subject: Image Processing
-Date: 11/06/2012
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the'question ryt
-paper and on the cover of the Answer Book, which is provided for the use. —
-
-NB.
-1. Question No.1 is compulsory
-2. Out of remaining 6 questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question should be started on a Fresh page.
-6. Figure in brackets indicate full marks.
-
-Q.1 a) | State True or False and justify (Answer any five):- 20
-
-(a) All image compression techniques are invertible.
-(b) Laplacian is not a good edge detector. .
-
-4 (c) Runlength coding is a loss less coding but may not give data
-
-) compression always.
-(d) The principal operation of median filter is to force points with
-distinct intensities to be more like their neighbours.
-(e) Second pass of Histogram Equalization will produce exactly the
-same result as the first pass.
-(f) The sum of coefficients of High pass mask should be one.
-
-Q.2 a) | A digital image with eight levels of quantization has its gray level 10
-} distribution as shown below
-ar «
-q! Gray |0 1 2 3 4 5 6 7
-Levels :
-‘ No of | 200 170 110 | 80 60 80 140 160
-Pixels
-
-Perform Histogram Equalization and draw original and equalized
-histograms.
-
-b) | i) An image segment with 3 bits per pixel is shown below. Perform | 6+4
-contrast . stretching as per the transfer function shown in the
-graph.
-ii) Draw the histograms of the original and the contrast stretched
-
-Page 1 of 3
---- page 2 ---
-image segments
-
-4 3 0 3 1 2 74
-2 4 ii 2 Zz 5 2
-1 3 2 2 7 5 2
-1 3 2 2 4 4 Zi
-1 1 Pa 2 1 1 6
-1 1 6 2: 7 6 1
-3 r 4 a 2 7 3
-+ is } \
-| ‘a \
-{ / ;
-| f
-4) / |
-S| / |
-| /
-
-apecrshe 28 som acd
-
-° a] & i
-Fn pub gray levels
-
-Q.3 a) | Apply Low Pass and High Pass Spatial Mask on the following image | 10
-matrix
-a
-547120
-62 3°'4 1
-F = _ 1 |
-356 8 2;
-, 43 7°48 |
-b) | Assume that an edge start first rows and ends in last row for the 10
-
-following gray level image. Sketch possible paths and also
-determine edge corresponding to the minimum cost path use
-graph theoretic technique:
-
-Page 2 of 3
---- page 3 ---
-5 7 2
-
-Le
-3 1 0
-Q.4 a) | Name and explain different types of redundancies in a digital 8+2
-image.
-Classify the following compression techniques in to lossy and loss
-less :-
-(i) IGS coding {ii) Run length coding
-(iii) Transform coding (iv) DPCM coding.
-b) | Name different types of image segmentation techniques. Explain 10
-the splitting and merging technique with the help of an example
-Q.5 a) | Asource emits six symbols with probabilities as shown below 10
-al -> 0.22, a2 -> 0.09, a3 -> 0.19, a4 -> 0.32, a5 -> 0.12, .a6->
-0:06.Generate the Huffman code and calculate Entropy, average
-length and coding efficiency.
-b) | With the help of a block diagram, explain the working of a 10
-Homomorphic filter.
-Q.6 a) | Compute Haar basis functions for N =8 and write the corresponding | 10
-Haar Matrix.
-b) | (b) Compute Hadamard transform for the sequence f= [102341 | 10
-3 1]'. Draw the.butterfly diagram.
-Q.7 | Write Short Notes on( any four) 20
-
-i) lsopreference curves
-ii) Role of DCT in image compression
-iii) Image acquisition method
-iv) Connectivity of pixels
-| v) Dilation and Erosion.
-
-v
-
-||
-
-Page 3 of 3
-````
-
 ## 2008-09 · Exam not stated · Trim 7 · paper 8c2ef5ce750b
 
 - Departments: Information Technology
@@ -5410,6 +5480,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/IMAGE PROCESSING/2008-2009(106).pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (2 pages), mean OCR confidence 86.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / - JO STE CE Mtg Meu
@@ -5424,14 +5495,12 @@ KLIBRARY «8 /
 ae = =
 
 svKm's NMIMS U
-niversity*® | NGS has anes
 
 Mukesh Patel School of Technology Management and Engineer
 
 M.B.A.(Tech. IT), Trimester VII
 Image Processing (Tota! Marks 100)
 
-Dale :9409.c8- Time: 2-60- -S SC em Doralicn : 3 hes
 Instructions : 1. Attempt Any Five from Q1 to Q7
 2. All questions carry equal marks (i.e. 20 Marks each)
 
@@ -5748,6 +5817,7 @@ ee ——
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/IMAGE PROCESSING/2008-2009 re exam II(2).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -5788,7 +5858,6 @@ rolls.
 
 This is an extract of the data you are studying:
 
-\ Colti\iog WI (\Ocol| \ lowe
 VLeleretOoon i} Se Ti! owe
 
 Osoln., ic © (f pp 7
@@ -5853,6 +5922,7 @@ x x
 - Programmes: MBA TECH / I T
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/IMAGE PROCESSING/2008-2009 re exam(48).pdf`
 - Text: ocr (2 pages), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 VY
@@ -5924,7 +5994,6 @@ d) Hotelling Transform
 
 e) Image Descriptors.
 
-fe fe ef 2 2 fe 2 fe fe oe ff oe of ok 2 ae
 ````
 
 ## 2007-08 · Exam not stated · Trim 7 · paper 4e7415cf8896
@@ -6119,6 +6188,7 @@ e) Fourier Descriptors
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/IMAGE PROCESSING/2006-2007(70).pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 91.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NARSEE MONJEE INSTITUTE OF MANAGEMENT & HIGHE
@@ -6129,7 +6199,6 @@ Subject: Image Processing j vw %, 8,
 Course: MBA-TECH Ill Year Trim. VII \3 a, Max Marks: mh
 Academic Year: eae 07. \6 ‘Duration 3 hrs). wy
 
-Bate — 21 qajog. - Appt — 1" aos
 
 Instructions:
 I. Question 1 is compulsory
@@ -6193,74 +6262,4 @@ b) Homomorphic filtering
 c) Dilation and Erosion.
 
 fv
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper 38f7b106a557
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/IMAGE PROCESSING/IMAGE PROCESSING B TECH (COMP), FINAL EXAM.pdf`
-- Printed on paper: exam date: 07/05/2015
-- Text: ocr (2 pages), mean OCR confidence 89.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: III Semester: VI
-
-Academic Year: 2014-2015
-
-] -
-
-| Subject: Image Processing v.
-
-i Marks’ (   B67Ma
-
-Date: 07/05/2015 Time: ~ “46.60% 0 pm
-Dural
-Final-Examination —
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-1) Question No.1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures to the right hand side indicate full marks.
-7) Assume suitable data wherever necessary.
-Q1 | A | Explain the fundamental stages of Image processing 08
-B | Explain Connectivity between pixels 04
-Q2 |A | Whatis a fidelity criterion with respect to image processing. Explain 06
-B | Explain Image Subtraction 06
-
-Q3 Explain the followings: . 12
-
-i | DFT and FFT
-ii | Region Splitting and Merging
-iii | Moments
-
-Q4 | A | Whatis Contrast stretching and gray level slicing and perform gray level slicing on the | 09
-following 4 bpp images
-
-r1=4,r2=7
-4 BPP IMAGE
-— 2 10 | 10/| 3 9
-5 2 7 6 | 15
-pai 0 0 5 5 | 13
-12) 1 7 6 13
-1 5 3 14 | 13
---- page 2 ---
-B | Explain Boundary extraction using morphological operators 03
-QS | A | Explain Image pyramids 06
-B | Compare and contrast uniform and non- uniform Sampling and Quantization 06
-Q6 | A | Justify/Contradict the following statements 12
-i | Successive Histogram Equalization results in a Flat Histogram for continuous images
-ii | Low pass filter is the best filter to remove salt and pepper noise
-iii | LZW is a lossy compression technique
-Q7 | A | Give the 8 X 8 Matrix for Hadamard Transform and the Butterfly diagram for the same | 08
-B | Write a note on Homomorphic filter 04
-
-x x
 ````

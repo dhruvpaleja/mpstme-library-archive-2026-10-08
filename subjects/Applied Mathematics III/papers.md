@@ -181,389 +181,7 @@ x y 3
 Using Lagrange’s Interpolation formula, find the value of y when x = 0.6.
 ````
 
-## 2012-13 · Re-Exam · Trim 3 · paper 2779e2b76ba2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/APPLIED MATHEMATICES III BATCH 2012-13 TRIM III RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/03/2014
-- Text: ocr (3 pages), mean OCR confidence 82.4
-
-````text
-i
-YK —
-
-oa \TOTE BF any,
-SVKM’s NMIMS LenS Atty
-Mukesh Patel School of Technology Management & Engi Sing. p a Wa
-
-Programme: MBA TECH - (All Streams) Year: I Trimester: I
-Academic Year : 2013-2014
-
-_ Batch: 2012-2013
-' Subject: Applied Mathematics - III Marks: 100
-Time: 4.00 pm To 7.00 pm
-Date: 24/03/2014 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions:Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book ,which is provided for their use.
-
-NB:
-
-a)Question No.1 is compulsory.
-b)Out of remaining questions,attempt any 4 questions.
-c)In all five questions to be attempted.
-
-d)All questions carry equal marks.
-e)Answer to each new question to be stated ona fresh page.
-
-f)Figure in brackets on the right hand side indicate full marks.
-
-Q.4 Find yee sat} 5
-3.22
-
-b) If 4=|1 3 1|,findadj.A, 47. 5
-534 ,
-
-c)Find the Fourier series for f(x)= x’ in (0,2m).
-
-kK
-. : : asace satnmsnsttar i P(x) =~ 46,05 x53
-d) Let X be a contiuous random variable with probability distribution 6 ‘
-= 0,elsewhere
-
-Find k and P(1<x<2). 5
---- page 2 ---
-2 2 -3
-Q.2a)Find all the eigen values and eigen vec tors of the mairixA=| 2 1 -6] 8
-
--1 —2 0
-b)Find the rank of the following matrix by reducing it to normal form where 6
-1 1 0
-A=|2 2 Of.
-Ord!
-c)Determine the linear dependence or independence of vectors (2,-1,3.2),
-(1,3,4,2)and (3,-5,2,2).Find the relation between them if dependent . 6
-Q.3a)Solve using Laplace Transform
-a +2y+ [yae = sint, given that y(0) =] 8
-0
-b)Find 9) 8+ _| 6
-(s +1)(s? +2)
-c)Evaluate [mt tsin™ . 6
-} te
-
-Q.4a)Find the Fourier Series for f(x) =x—x’ in (-1,1),hence deduce that
-
-2.
-a on 3
-
-prep Pp eon
-
-b)Show that the set of functions cosnx,n=1,2,3...is orthogonal over (0,21). 6
-c)Find half range sine series for f0)=x_ in (0,17). 6
-
-Q.5a) The first four moments of a distribution about the value 5 are 2,20,40 and 50.
-Calculate the value of mean ,variance , 44, 14, . 8
-b)A random variable X has the following p.m.f. PLX = x)= = x=1,2,3,4,5.Find
-
-E(X), E(2X? +1), EBX +8). 6
-
-c)If X denotes the outcome when a fair die is tossed,find M.G.F. of X and hence, find the
-mean and variance of X. 6
-
-Q.6a)Show that the system of equations 2x—-2y+z=Ax,2x—-3y+2z=Ay,-x+2y=Az
-
-can posses a non-trivial solution only if A=1,A=-3.Obtain the general solution in each case.8
-
-2
-b)Find £7 S —— F
-(s—1)(s° —5s +6)
-c)Find L {costcos 2tcos 3} 6
---- page 3 ---
--Q.7a)Obtain half range sine series for f(x)=xsinx in(0,7) and hence deduce that
-wll iy 8
-8/2 v3 5 po
-
-b)An urn contains 4 white and 5 red balls.Find the probability distribution of the number of
-red bails in three draws made successively with replacemeni from the urn. 6
-
-c)State true or false with justification: :
-
-i)A random variable takes values 0,1,2and 3 then p(X=x)= (x-1)/2 can be its probability
-distribution.
-
-ii) A random variable takes values 0,1,2and p(X=x)= (x+1)/3 can be its probability
-distribution. 6
-
-x
-````
-
-## 2012-13 · Re-Exam · Trim 3 · paper d4e8388fc55c
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/APPLIED MATHEMATICS III BATCH 2012-13 RE EXAM0001(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/07/2014
-- Text: ocr (3 pages), mean OCR confidence 80.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL Stream) Year: I Trimester: III
-
-Academic Year: 2013-14
-
-Batch: 2012-2013
-
-Subject : Applied Mathematics - III Marks: 100 a LIBRA
-Time : 11.00 am to Op
-
-Date :11/07/2014 Durations:3 (hrs) :
-Re-Examination rs
-
-NOTE:-
-
-A) QUESTION NO.1 IS COMPULSORY.
-
-B) OUT OF REMAINING QUESTIONS, ATTEMPT ANY 4 QUESTIONS.
-
-C) ALL QUESTIONS CARRY EQUAL MARKS.
-
-D) ANSWER TO EACH QUESTION TO BE STARTED.ON A FRESH PAGE.
-E) FIGURE IN RIGHT INDICATE FULL MARKS.
-
-Ql.
-(a) Prove that Se
-
-=t sin? t
-
-dt = *log 5 (5)
-(b) Find the matrix A, if
-
-2 4s labs (5)
-
-(c) The length of time (in minutes) a lady speaks on telephone is found to be a random variable
-with probability density function
-
--x/s-
-f(x) =Ae- for x >0 (5)
-=? elsewhere
-
-Find A and the probability that she will speak for (i) More than 10 minutes (ii) less than 5 minutes.
-
-(d) Find Fourier series for f(x) = x in (—x, 1). (5)
-
-Q2.
-(a) Find Eigen Values and Eigen Vectors of
-
-1 -6 —4
-A=|]0 4 2 (6)
-0 -6 -3
-(b) Determine the value of P such that the rank of
-11-1 0
-_|4 4-3 ljigg (6)
-
-PZ @
-99 P 3
-
-Page 1 of 3
---- page 2 ---
-(c) Show that the system of equations
-
-2x—-2y+z=Ax
-2x —3y + 2z= dy
-
-—x+2y = Az (8)
-can posses a non- trivial solution only ifA = 1, 4 = —3. Obtain the general solution in each
-case.
-
-Q3.
-
-(a) Solve using Laplace Transform
-
-(D?+2D+5)y = é sin’
-
-Given that y(0) = 0, y1(0) =1 (6)
-
-(b) Find L-* { tan“? 3} (6)
-
-(c) Find L {a} (8)
-Q4.
-
-(a) Find Fourier Series for f (x) = x — x? in (-1,1). (6)
-
-(b) If fF) = CG, (%) + Cy Bz (x) + Cz Os)
-Where C;, C2, C3 are constants and (x), @2(x), 03(x) are orthonormal on
-(a, b), then prove that
-
-$UFGOP dx = CR+ 34+ (6)
-
-(c) Find half Range cosine series for
-f(x =x0<x <2.
-Using Parseval’s identity deduce that
-
-: n* 1,1,1
-Oe tae tgs bom
-
-@) ™=44+44444-—~ (8)
-
-Qs.
-
-(a) Let_¥ be a continuous random variable with probability density function
-f(x) =Kx(Q—x),0<x<1.
-Find K, and determine a number ‘b’ such that P(X < b) = P(X 2 b). (6)
-
-(b) If X, has mean 5 and variance 5, Xz has mean -2 and variance 3, and if X,, Xz
-are independent, find
-(i) E (X, + X2), V(X, + X2)
-(ii) BX, — X2), VX. — Xp)
-(ili) E (2X, + 3X2 —5), V(2X, + 3X2 -—5) (6)
-Page 2 of 3
---- page 3 ---
-(c) A continuous random variable X has the probability distribution
-
-4x
-f@) = O27), 0<x<3
-= 0 , otherwise
-
-(8)
-
-Find first four moments about origin and about mean.
-
-Q6.
-
-(a) Show that the following system of equations is consi
-Progression). :
-3x+4y+5z=a
-4x+5y+6z=b
-5x+6y+7z=Cc
-Find the solution when a = 1, b = 2, c =3. (6)
-
-stent if a, b, c, are in A.P. (Arithmetic
-
-Bing pot fe t2543
-(b) Find L ia ae . °
-
-(c) Show that
-
-at o V3,)_ v3 S
-{sinh 5 Sin eh= 5. wasp (8)
-
-Q7.
-(a) If X denotes the outcome when a fair die is tossed, Find moment generating function
-(mgf) of X and hence find mean and variance of X.
-
-(6)
-
-(b) The probability Mass function of a random variable X is 0 except at the points X=0, 1, 2.
-At these points it has the values
-
-P(0) = 3C3,   P()= 4C-10C7,   P(2) = SC —- 1
-
-(i) Determine C
-(ii) Find P(x <1), Pa<x <2), PO<x s 2). (6)
-
-(c) Find Fourier series for
-f@ =x, O0<x<T
-=2n-x, mWSx<2u
-Hence deduce that
-mo4 1 1
-atatht
-
-(8)
-
-96. «1t
-
-FRR
-
-Page 3 of 3
-````
-
-## 2012-13 · Re-Exam · Trim 3 · paper 6950a2dd8f2b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/APPLIED MATHEMATICS III MBA TECH 2012-13 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 24/06/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIBTS
-Academic Year :2012.2013
-Batch:   2012-2013,
-Subject:   . Applied Mathematics - Ill
-Date:   24/06/2013 s   Duration: 3 hrs.
-Re - Examination
-Instructions: candidates should read carefully the instructioni printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:   .' . .   , .   .-   -
-a) Question No. 1 is compulsory.   . .   .   .
-b) Out of remaining questions, attempt any 4 questions.
-c)   questions carry equal marks.
-d) ~ n s w i td r each new question to be started on a fresh page.   ..   .
-e) Figurein brackets indicate full marks.
-Is the matrix A= 4   4 7 orthogonal?If not, convert into orthogonal matrix.   '
-1   -8   41   5
-'0
-Evaluate It3e-'sint dt
-0
-Find Fourier Series Expansion of f ( x ) = 2x,0 1x 13   .
-A discrete random variable has probability density function as given below
-X   I   -2   1   -1   0   1   2   3   1
-P ( X = x )   0.1   k   0.2   I 2k   0.3   k
-Find . k.mean and variance.
-. ,   .   . 8
-~ i n dalI Eigen values and Eigen vectors of the matrix A =
-'Express~thefollo&   skew symmetric matrix A as i+ i~ whereP is real skew   6
-symmetric and Q is real symmetric matrix.
-2i   2+i 1-i
-.
-Forwhatvaluesof~theeq~ationsx+~+z=l,x+2y+4z=~,x+4y+l0z=q~
-havea solution and solve them completely.   t
---- page 2 ---
-Q 3.   a)   Show that the set of functions
-nx   nx   2nx   27rx . 3nx   37rx
-1,sin-,cos-,sin-,cos-,sin-,cos-
-I   I   I   I   I   I
-Forms an orthogonal set in
-(-l,l)
-[:   -::Iis
-Find non singular matrices P and Q such that A = 1   -   reduced to
-b)   6
-its normal form and also find rank.   - -   ~-   . . . ~. ~ .   .   .   ..   ~ ~ . .   . . .   . .
-Determine the linear dependence or independence of vectors
-(1 2 4),(2 -1 3),(0 1 2),(-3 7 2)
-Solve using Laplace   (D+1)'y =6te-' at t =0, y =2 and Dy = 5
-C O S t o < t < 2 ~
-Find the Laplace transform of f(t)=
-0   t>Zn
-sin2t +sin3t )t=z
-Provethati( 0   tel   4
-Find the Fourier series expansion with period 3 of
-f (x)=2x-x2,0<x13
-0 4 x S x
-Find Fourier series expansion of f (x) =
-2n-x, x S x 1 2 n
-Find Fourier series expansion of f ( x ) =lcos xi, -x <x 5z
-A continuous random variabIe has p.d.f. f (x) =6(n-x2), 0Ix 51 .Find the
-Mean, Median, Mode, Variance and Harmonic Mean.
-Find L {e-'(sin 2f cos3t sin4t))
-r   ~ i n drl{+} s + 4
-Q 7-   a)   The probability that a person will die in the time interval (t, ,t,) is given by
-.
-1.Find the probability that a person will die between ages 60 and 70,
-2. Given that he sunrives upto age 60, Find the   that he will die
-between 60 and 70.
-b)   For a distribution, the mean is 10and the variance is 16, y, =1, ,B, =4. Find the   6
-first four cental and raw moments about origin.
-c)   If A and B throw a fair die for the stake of Rs 44, which is won by the player who
-throws a 6 first, if A starts, find their expectation
-````
-
-## 2012-13 · Re-Exam · Trim 3 · paper 35fc714db821
+## 2014-15 · Re-Exam · Trim 3 · paper 35fc714db821
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -733,7 +351,7 @@ A continuous random variable X has the p.d.f. defined by f(x) = kxe™*;x 20. Fi
 k, mean and variance.
 ````
 
-## 2012-13 · Re-Exam · Trim 3 · paper b0072b2473de
+## 2014-15 · Re-Exam · Trim 3 · paper b0072b2473de
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -916,7 +534,126 @@ Calculate the values of mean, variance, 43 and wa.
 20
 ````
 
-## 2011-12 · Re-Exam · Trim 3 · paper 397cf2f58fec
+## 2013-14 · Re-Exam · Trim 3 · paper 2779e2b76ba2
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/APPLIED MATHEMATICES III BATCH 2012-13 TRIM III RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/03/2014
+- Text: ocr (3 pages), mean OCR confidence 82.4
+
+````text
+i
+YK —
+
+oa \TOTE BF any,
+SVKM’s NMIMS LenS Atty
+Mukesh Patel School of Technology Management & Engi Sing. p a Wa
+
+Programme: MBA TECH - (All Streams) Year: I Trimester: I
+Academic Year : 2013-2014
+
+_ Batch: 2012-2013
+' Subject: Applied Mathematics - III Marks: 100
+Time: 4.00 pm To 7.00 pm
+Date: 24/03/2014 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions:Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book ,which is provided for their use.
+
+NB:
+
+a)Question No.1 is compulsory.
+b)Out of remaining questions,attempt any 4 questions.
+c)In all five questions to be attempted.
+
+d)All questions carry equal marks.
+e)Answer to each new question to be stated ona fresh page.
+
+f)Figure in brackets on the right hand side indicate full marks.
+
+Q.4 Find yee sat} 5
+3.22
+
+b) If 4=|1 3 1|,findadj.A, 47. 5
+534 ,
+
+c)Find the Fourier series for f(x)= x’ in (0,2m).
+
+kK
+. : : asace satnmsnsttar i P(x) =~ 46,05 x53
+d) Let X be a contiuous random variable with probability distribution 6 ‘
+= 0,elsewhere
+
+Find k and P(1<x<2). 5
+--- page 2 ---
+2 2 -3
+Q.2a)Find all the eigen values and eigen vec tors of the mairixA=| 2 1 -6] 8
+
+-1 —2 0
+b)Find the rank of the following matrix by reducing it to normal form where 6
+1 1 0
+A=|2 2 Of.
+Ord!
+c)Determine the linear dependence or independence of vectors (2,-1,3.2),
+(1,3,4,2)and (3,-5,2,2).Find the relation between them if dependent . 6
+Q.3a)Solve using Laplace Transform
+a +2y+ [yae = sint, given that y(0) =] 8
+0
+b)Find 9) 8+ _| 6
+(s +1)(s? +2)
+c)Evaluate [mt tsin™ . 6
+} te
+
+Q.4a)Find the Fourier Series for f(x) =x—x’ in (-1,1),hence deduce that
+
+2.
+a on 3
+
+prep Pp eon
+
+b)Show that the set of functions cosnx,n=1,2,3...is orthogonal over (0,21). 6
+c)Find half range sine series for f0)=x_ in (0,17). 6
+
+Q.5a) The first four moments of a distribution about the value 5 are 2,20,40 and 50.
+Calculate the value of mean ,variance , 44, 14, . 8
+b)A random variable X has the following p.m.f. PLX = x)= = x=1,2,3,4,5.Find
+
+E(X), E(2X? +1), EBX +8). 6
+
+c)If X denotes the outcome when a fair die is tossed,find M.G.F. of X and hence, find the
+mean and variance of X. 6
+
+Q.6a)Show that the system of equations 2x—-2y+z=Ax,2x—-3y+2z=Ay,-x+2y=Az
+
+can posses a non-trivial solution only if A=1,A=-3.Obtain the general solution in each case.8
+
+2
+b)Find £7 S —— F
+(s—1)(s° —5s +6)
+c)Find L {costcos 2tcos 3} 6
+--- page 3 ---
+-Q.7a)Obtain half range sine series for f(x)=xsinx in(0,7) and hence deduce that
+wll iy 8
+8/2 v3 5 po
+
+b)An urn contains 4 white and 5 red balls.Find the probability distribution of the number of
+red bails in three draws made successively with replacemeni from the urn. 6
+
+c)State true or false with justification: :
+
+i)A random variable takes values 0,1,2and 3 then p(X=x)= (x-1)/2 can be its probability
+distribution.
+
+ii) A random variable takes values 0,1,2and p(X=x)= (x+1)/3 can be its probability
+distribution. 6
+
+x
+````
+
+## 2013-14 · Re-Exam · Trim 3 · paper 397cf2f58fec
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -977,7 +714,7 @@ c) Is the following matrix orthogonal? If not then convert into orthogonal matri
 1 2 2
 ````
 
-## 2011-12 · Re-Exam · Trim 3 · paper a27a7c71da92
+## 2013-14 · Re-Exam · Trim 3 · paper a27a7c71da92
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1127,6 +864,742 @@ Find & , mean and variance.
 °) Determine /,m,n and find A if A=|1 m= —n is orthogonal.
 I -m on |
 x A
+````
+
+## 2013-14 · Re-Exam · Trim 3 · paper d4e8388fc55c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/APPLIED MATHEMATICS III BATCH 2012-13 RE EXAM0001(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/07/2014
+- Text: ocr (3 pages), mean OCR confidence 80.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL Stream) Year: I Trimester: III
+
+Academic Year: 2013-14
+
+Batch: 2012-2013
+
+Subject : Applied Mathematics - III Marks: 100 a LIBRA
+Time : 11.00 am to Op
+
+Date :11/07/2014 Durations:3 (hrs) :
+Re-Examination rs
+
+NOTE:-
+
+A) QUESTION NO.1 IS COMPULSORY.
+
+B) OUT OF REMAINING QUESTIONS, ATTEMPT ANY 4 QUESTIONS.
+
+C) ALL QUESTIONS CARRY EQUAL MARKS.
+
+D) ANSWER TO EACH QUESTION TO BE STARTED.ON A FRESH PAGE.
+E) FIGURE IN RIGHT INDICATE FULL MARKS.
+
+Ql.
+(a) Prove that Se
+
+=t sin? t
+
+dt = *log 5 (5)
+(b) Find the matrix A, if
+
+2 4s labs (5)
+
+(c) The length of time (in minutes) a lady speaks on telephone is found to be a random variable
+with probability density function
+
+-x/s-
+f(x) =Ae- for x >0 (5)
+=? elsewhere
+
+Find A and the probability that she will speak for (i) More than 10 minutes (ii) less than 5 minutes.
+
+(d) Find Fourier series for f(x) = x in (—x, 1). (5)
+
+Q2.
+(a) Find Eigen Values and Eigen Vectors of
+
+1 -6 —4
+A=|]0 4 2 (6)
+0 -6 -3
+(b) Determine the value of P such that the rank of
+11-1 0
+_|4 4-3 ljigg (6)
+
+PZ @
+99 P 3
+
+Page 1 of 3
+--- page 2 ---
+(c) Show that the system of equations
+
+2x—-2y+z=Ax
+2x —3y + 2z= dy
+
+—x+2y = Az (8)
+can posses a non- trivial solution only ifA = 1, 4 = —3. Obtain the general solution in each
+case.
+
+Q3.
+
+(a) Solve using Laplace Transform
+
+(D?+2D+5)y = é sin’
+
+Given that y(0) = 0, y1(0) =1 (6)
+
+(b) Find L-* { tan“? 3} (6)
+
+(c) Find L {a} (8)
+Q4.
+
+(a) Find Fourier Series for f (x) = x — x? in (-1,1). (6)
+
+Where C;, C2, C3 are constants and (x), @2(x), 03(x) are orthonormal on
+(a, b), then prove that
+
+$UFGOP dx = CR+ 34+ (6)
+
+(c) Find half Range cosine series for
+f(x =x0<x <2.
+Using Parseval’s identity deduce that
+
+: n* 1,1,1
+Oe tae tgs bom
+
+@) ™=44+44444-—~ (8)
+
+Qs.
+
+(a) Let_¥ be a continuous random variable with probability density function
+f(x) =Kx(Q—x),0<x<1.
+Find K, and determine a number ‘b’ such that P(X < b) = P(X 2 b). (6)
+
+(b) If X, has mean 5 and variance 5, Xz has mean -2 and variance 3, and if X,, Xz
+are independent, find
+(i) E (X, + X2), V(X, + X2)
+(ii) BX, — X2), VX. — Xp)
+(ili) E (2X, + 3X2 —5), V(2X, + 3X2 -—5) (6)
+Page 2 of 3
+--- page 3 ---
+(c) A continuous random variable X has the probability distribution
+
+4x
+f@) = O27), 0<x<3
+= 0 , otherwise
+
+(8)
+
+Find first four moments about origin and about mean.
+
+Q6.
+
+(a) Show that the following system of equations is consi
+Progression). :
+3x+4y+5z=a
+4x+5y+6z=b
+5x+6y+7z=Cc
+Find the solution when a = 1, b = 2, c =3. (6)
+
+stent if a, b, c, are in A.P. (Arithmetic
+
+Bing pot fe t2543
+(b) Find L ia ae . °
+
+(c) Show that
+
+at o V3,)_ v3 S
+{sinh 5 Sin eh= 5. wasp (8)
+
+Q7.
+(a) If X denotes the outcome when a fair die is tossed, Find moment generating function
+(mgf) of X and hence find mean and variance of X.
+
+(6)
+
+(b) The probability Mass function of a random variable X is 0 except at the points X=0, 1, 2.
+At these points it has the values
+
+P(0) = 3C3,   P()= 4C-10C7,   P(2) = SC —- 1
+
+(i) Determine C
+(ii) Find P(x <1), Pa<x <2), PO<x s 2). (6)
+
+(c) Find Fourier series for
+f@ =x, O0<x<T
+=2n-x, mWSx<2u
+Hence deduce that
+mo4 1 1
+atatht
+
+(8)
+
+96. «1t
+
+FRR
+
+Page 3 of 3
+````
+
+## 2012-13 · Final-Exam · Trim 3 · paper 1a1ddd5bfaf0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/Applied Mathematics Final 11.pdf`
+- Printed on paper: exam date: 08/05/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technolorn Mana~ement & Endneering
+Programme: MBA (Tech) -ALL STREAM   Year:   I   Trimester:   111 _- ..--. . .-   .
+Academic Year : 2012-2013   .-_ , :by '; : n.7   ' 5 ..<?fT.,&   ' -\
+I   . :.- '. . * ! 1 .-   ; .,Fa lb
+1   Subject:   APPLIED MATHEMATICS - 111
+Date:   08/05/2013
+Final - Examination .
+Instructions: Candidates should read carefhlly the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) All questions carry equal marks.
+d) Answer to each new question to be started on a fresh page.
+e) Figure in brackets on the right hand side indicate full marks.
+Q. 1
+r-4   -3   -2 1
+a) If the matrix A =   then show that a4.A is symmetric.   (5)
+b) A random variable X has the following probability distribution.
+i)Find K, ii) distribution function, iii) Evaluate P ( X < 2), P(-2 < X < 2) and
+iv) Mean.   (5)
+; O l x l - C
+c) Obtain half-range sine series of period 2c for f (x) =   2   . ( 5 )
+C
+2 -
+Q.2
+a) Determine 'b ' such that the system of equations
+3 x + y - b z = 0 , 4 ~ - 2 y - 3 ~ = 0 , 2 b x + 4 y + b z = O has
+(i) Trivial solution , (ii) Non-trivial solution , find the non-trivial solution.   (8)
+b) Find eigen values and eigenvectors of the following matrix A =   2   . (6)
+c). Reduce the matrix to normal form and find its rank.   (6)
+Q.3
+a) Test the consistency sf the following equations and if possible solve them
+x, +3x2 -x3 --4,2x, +x2 +x3 =7,2x, -4x2 +4x3 =6,3x1 +4x2 =11.   (8)
+b) Examine whether the following vectors are linearly dependent or linearly
+independent. If linearly dependent, find the relation between them.
+[3   1 -41 , [2 2   -31 , [o -4   11   (6)
+--- page 2 ---
+C) Find L { t J G ] .
+4.4
+a) Find the Fourier series to represent f (x) = x+ x2 in (-A, n) and hence deduce
+b) A shipment of 8 computers contains 3 defectives. If a college makes a random
+purchase of 2 of these computers, find the probability distribution of defective
+computers. Also find P(0 < X < 2); P(X 2 1).   (6)
+c) A continuous random variable has probability density function
+, 0 1 x S l
+lo   , elsewhere
+i) Determine the constant a, ii) Find P (: - < X < 2 1 ; P(X 1 1.5).
+Q.5
+a) A continuous random variable X has probability density function
+Find the first four moments about origin and the mean.   @I
+b) If Yl has mean 4 and variance 9, Y2 has mean -2 and variance 4, and if Y,, Y2 are
+independent, find i) E (I; + Y, ) , v (Y; - 25) ii) E (22; + Y, - 5) , v (22; + Y, - 3). (6)
+c) If a random variable has the moment generating function MI = - J   , obtain mean
+L   3 - t
+and the standard deviation.
+Q.6
+-lt; - n < x < O
+a) I f f (x) =   , with f ( x + 227) = f (x) . Find Fourier series.
+x ; O < X < T
+Hence deducei- 1 + 1 + 1 + ... = -. n *
+1   3   5   8
+b) Find Fourier series to represent f (x) = Isin X I in(-T, n) .   (6)
+-
+c) If a, = 0 and a, = 2[1-   \   -'; f ( x ) = -+ u o Cancosnx.
+ltn2   2   n = ~   \ \   -n L ,)( C   C''
+Deduce ,-= ~   ,+-+-+ ~   1   .... 1 idGc ~t 1   " r ~ 4- - . -2- - - ,   (6)
+96   1   34 54   c-
+n 7   .-3,- , V L X   ,!-I\
+a) Atmass ' m ' moves along the x-axis under the influence of a force which is
+proportional to its instantaneous speed and in a direction opposite to the motion.
+Assuming that at t = 0 the particle is located at x = a and moving to the risht
+with speed V,, find the position where the mass comes to rest. Here the equation of
+motion is given by rn- d 'X = -p - dx ; with initial conditions
+dt2   dt
+x(0) = a and x'(0) = V,.
+" J sinh t sin t
+b) Find   fit   dt .
+o   e
+c) Find L-'   2p3 + 2 p 2 + 4 p + 1
+( p 2 + 1 ) ( p 2 + p + l )
+````
+
+## 2012-13 · Re-Exam · Trim 3 · paper 6950a2dd8f2b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/APPLIED MATHEMATICS III MBA TECH 2012-13 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 24/06/2013
+- Text: text (2 pages)
+
+````text
+SVKM's NMIBTS
+Academic Year :2012.2013
+Batch:   2012-2013,
+Subject:   . Applied Mathematics - Ill
+Date:   24/06/2013 s   Duration: 3 hrs.
+Re - Examination
+Instructions: candidates should read carefully the instructioni printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:   .' . .   , .   .-   -
+a) Question No. 1 is compulsory.   . .   .   .
+b) Out of remaining questions, attempt any 4 questions.
+c)   questions carry equal marks.
+d) ~ n s w i td r each new question to be started on a fresh page.   ..   .
+e) Figurein brackets indicate full marks.
+Is the matrix A= 4   4 7 orthogonal?If not, convert into orthogonal matrix.   '
+1   -8   41   5
+'0
+Evaluate It3e-'sint dt
+0
+Find Fourier Series Expansion of f ( x ) = 2x,0 1x 13   .
+A discrete random variable has probability density function as given below
+X   I   -2   1   -1   0   1   2   3   1
+P ( X = x )   0.1   k   0.2   I 2k   0.3   k
+Find . k.mean and variance.
+. ,   .   . 8
+~ i n dalI Eigen values and Eigen vectors of the matrix A =
+'Express~thefollo&   skew symmetric matrix A as i+ i~ whereP is real skew   6
+symmetric and Q is real symmetric matrix.
+2i   2+i 1-i
+.
+Forwhatvaluesof~theeq~ationsx+~+z=l,x+2y+4z=~,x+4y+l0z=q~
+havea solution and solve them completely.   t
+--- page 2 ---
+Q 3.   a)   Show that the set of functions
+nx   nx   2nx   27rx . 3nx   37rx
+1,sin-,cos-,sin-,cos-,sin-,cos-
+I   I   I   I   I   I
+Forms an orthogonal set in
+(-l,l)
+[:   -::Iis
+Find non singular matrices P and Q such that A = 1   -   reduced to
+b)   6
+its normal form and also find rank.   - -   ~-   . . . ~. ~ .   .   .   ..   ~ ~ . .   . . .   . .
+Determine the linear dependence or independence of vectors
+(1 2 4),(2 -1 3),(0 1 2),(-3 7 2)
+Solve using Laplace   (D+1)'y =6te-' at t =0, y =2 and Dy = 5
+C O S t o < t < 2 ~
+Find the Laplace transform of f(t)=
+0   t>Zn
+sin2t +sin3t )t=z
+Provethati( 0   tel   4
+Find the Fourier series expansion with period 3 of
+f (x)=2x-x2,0<x13
+0 4 x S x
+Find Fourier series expansion of f (x) =
+2n-x, x S x 1 2 n
+Find Fourier series expansion of f ( x ) =lcos xi, -x <x 5z
+A continuous random variabIe has p.d.f. f (x) =6(n-x2), 0Ix 51 .Find the
+Mean, Median, Mode, Variance and Harmonic Mean.
+Find L {e-'(sin 2f cos3t sin4t))
+r   ~ i n drl{+} s + 4
+Q 7-   a)   The probability that a person will die in the time interval (t, ,t,) is given by
+.
+1.Find the probability that a person will die between ages 60 and 70,
+2. Given that he sunrives upto age 60, Find the   that he will die
+between 60 and 70.
+b)   For a distribution, the mean is 10and the variance is 16, y, =1, ,B, =4. Find the   6
+first four cental and raw moments about origin.
+c)   If A and B throw a fair die for the stake of Rs 44, which is won by the player who
+throws a 6 first, if A starts, find their expectation
+````
+
+## 2012-13 · Re-Exam · Trim 3 · paper 463a143379d2
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/Applied Mathematics III Re Exam 01(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08/05/2013
+- Text: text (3 pages)
+
+````text
+\
+SVKM's NMIMS
+Mukesh Pate1 School Of T e c h n o l o w Management
+Programme: MBA (Tech) -ALL STREAM   Year:   I
+Academic Year : 2012-2013
+Batch:   201 1-12
+Subject:   APPLIED MATHEMATICS - 111,   Marks:   100
+Time:   10.00am To 1.00pm
+Date:   08/05/2013   Duration:   3   hrs.
+R e - E x a m i n a t i o n
+-- -   ----   -   ___   -
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) All questions carry equal marks.
+d) Answer to each new question to be started on a fresh page.
+e) Figure in brackets on the right hand side indicate full marks.
+a) Express the following Matrix A as P + iQ, where P and Q are both Hermitian Matrix.   (5)
+[ 2   3-i 2+i 1
+b) Find L [cosh 5t sin 4t e"' ]
+c) Obtain Fourier Series for:
+d) A discrete Random Variable has probability density function as given below:   (5)
+X   -2   -1   0   1   2   3
+P ( X = x )   0.1   k   0.2   2k   0.3   k
+i   Find k, ii) P(X 21) , iii) P(-2 < X < 1).
+Q2.
+a) Discuss for all values of k the system of equations
+2x+3ky+(3k+4)z =O
+x+(k+4)y+ (4k+2)z=O
+x+(2k+2)y+(3k+4)z=O
+Will have   i) Trivial solution   ii) Nontrivial solution
+b) Find all the Eigen Values and Eigen Vectors of the following Matrix.
+--- page 2 ---
+c) Use the adjoint Method to find the Inverse of Matrix A.
+; 3,
+A = [ ;
+b) Find Laplace Transform of   e4' sin3 t
+c) Solve using Laplace Transform 3- dy + 2y = e3', if y = 1 at t = 0
+ak
+Q4.
+(n-x),   .
+a) Obtain the Fourier series expansion of f (x)=   ~n the interval 0 1 x 1 2 ~ and
+4
+f (x+2n)= f ( x ) .
+n 2 --+---+--..... 1 1 1 1 1
+Hence Deduce -=-
+12 l2 22 32   4, 52
+b) Find the Fourier series of the function f (x)=x2, for - n I x i 71.
+-=-+-+,+.... n 2 1 1 1
+j   Hencededuce 6   1'   2,   3
+c) Find Half Range Sine series for :
+Q5.
+a) Test for consistency the following equations, if possible solve
+x+2y - z = 1
+x + y + 2 z = 9
+2x+y-z = 2
+b) Reduce the Matrix A to the normal form and find the Rank.
+--- page 3 ---
+Q6.
+a) Find half range cosine series for:
+f(x)=x(z-x),   O<x<z
+7r2   * 1
+Hence deduce - =   -=-
+b) Let X be a continuous Random Variable with probability density function
+elsewhere
+i   Determine a   ii) Compute P (X I 1.5)   iii) Compute P (112 5 X I 2)
+c) Examine whether the vectors are linearly independent or dependent
+x1=[1,2,4] x2=[2,-1, 31 x,=[o, 1, 21
+Q7.
+a) A random Variable X has the following density function
+Find the moment generating function. Also find the Mean and Variance.
+b) If X, has mean 5 and Variance 5, X2 has mean -2 and Variance 3, and if XI &X2 are independent,
+find:   (6)
+i) E(X,-X,), V(X, - 4)
+t   ii) E(2Xl +3X2 -3), V(2XI +3X2 -4)
+c) The first four moments of a distribution about the value 4 are -1.5, 17, -30 and 108.
+Calculate the first four about mean.
+````
+
+## 2011-12 · Exam not stated · Trim 3 · paper aedb05eb5467
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/APPLIED MATHEMATICES III0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 08/05/2012
+- Text: ocr (2 pages), mean OCR confidence 75.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+\ SVKM’s NMIMS —
+Mukesh Patel School of Technology Management & En git ii MAA
+Programme: MBA (TECH) (ALL STREAMS) Year: 1 Trimester! STT” N
+
+2 epuR Veh
+Academic Year : 2011-2012 #/ MPSTME Jw |
+(BLEIBRARY de
+
+%, Se
+Subject: Applied Mathematics-III Marks: 4 ~——<reeit we
+Time: CUPS ANS pm
+Date: 08/05/2012. Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+NB:
+
+a) Question No. 1 is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c) Ali questions carry equal marks.
+
+d) Answer to each new question to be stated on a fresh page.
+
+e) Figure in right indicate full marks.
+
+Qi a) Find L{f(O}, where f(t) =e™ sin 3r sinh 41 - 5
+b) If X denotes the sum of the points that appear when a pair of dice is thrown, find the 5
+probability distribution of X and also the Mean and variance of X.
+3 Bry 5
+¢) Prove that 47=4A™', where 4=| 2 -3 4] +
+0 -1 1
+d) Find the Fourier series to represent f(x)=x+sinx in (0,27). 5
+Q.2 a) Find all Eigen values and Eigen vectors of the matrix 8
+( [223
+ly | 21-4
+|-1 2 0
+b) Find the rank of the following matrix by reducing it to normal form where 6
+1-1 2 4 ,
+2 3 -1 -l
+131 3 2
+63 0 7
+
+c) \ Exarni e the vectors [1,2,—1,0],[1, 3,1, 2],[4, 2,1, 0] and [6,1,0,1] for linear independence or 6
+depeldl nce and find the relation if it exists.
+
+Q.3 a) Solve using Laplace transform 8
+(D’ 3D? +3D-1)y =e; y(0) =0; Dy =0;D*y=-2 att=0 «
+b 2 4)? 6
+Find" fo .
+38°
+a ‘J . 6
+Evaluate fooshisin’a, using Laplace transform.
+0 &
+Q.4 a) Find the Fourier series to represent f(x) =x+x° in (-7,7) and hence deduce 8
+
+1/2
+--- page 2 ---
+Q5
+
+Q.6
+
+Q.7
+
+b)
+
+°)
+
+a)
+
+b)
+
+¢)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+¢)
+
+°° “Wekeale lett
+
+6 #. 2 Rages
+
+Show that the set of functions 6
+l,sin 2) cos 2) sin ane ,COS = ‘ sin( 2 os( 2), .. forms an orthogonal
+set in the interval (~L, L) and determine the corresponding orthonormal set.
+Find half-range sine-series for 6
+x,0<x<a
+f(s=4a,a<x<nm-a
+H-X,W-A<X< 1
+If a random variable X is such that E(x -1y ] =10 and E[(X - 2y ] = 8
+Find i) E(X) ii) Var(X) iii) oy (x).
+The first three moments about the origin are 5, 26, 78. Calculate the first three moments 6
+about the value x =3.
+A random variable has the following probability mass function 6
+x/2, O<x<2
+f()= ‘
+, otherwise
+Find the moment generating function and hence, its mean and variance.
+Investigate for what values of 2 & w the equations 8
+2x+3y+5z=9, 7x+3y—2z =8,2x+3y+AzZ=u
+have i) no solution, ii) a unique solution, iii) an infinite no. of solutions?
+6
+Find -'| 2 —98*7_ |
+(s? 45+ 5)
+6
+Find L cos Vt |
+Ni
+,0<x<l 8
+If f(x
+f()= {r (2-x), 1<x<2
+us _— half wanes cosine series, show that
+y) fa _ a
+ig # +t 96"
+Giles the following probability distribution of a discrete random variable X 6
+xX 0 }1 42 |3 [4 {5 {6 7
+P(X=x) 10 fe | 2c | 2c | 3c [c? | 2c” | 7c*te
+i) Finde ii) P(x>6) iii) Ax<6) iv) P(xsk)>1/2.
+A continuous random variable X has the probability distribution function, defined by 6
+ke! (1- x) 0<x<La>0,B>0
+fQ)= (I-s) . ,
+; otherwise
+
+Find k,meanof x .
+
+2/2
+````
+
+## 2011-12 · Exam not stated · Trim 3 · paper 76e393ba4d12
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/scan0005(6).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/09/2012
+- Text: ocr (3 pages), mean OCR confidence 83.1
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & E:
+
+Programme: MBA-Tech (All Streams) Year: I Trimester: may
+Academic Year : 2011-2012 a
+Batch: 2011-2012 ae
+Subject: Applied Mathematics - III Marks: 100
+Time: 11.00 am To 2.00 pm
+Date: 13/09/2012 Duration: 3 hrs.
+
+Special Re-Examination
+Instructions: Candidate should read carefully the instructions printed on the question paper
+and on the cover of the Answer book which is provided for their use
+
+NB:
+
+a) Question No:1 is compulsory
+
+b) Out of remaining questions attempt any 4 questions
+
+c) Answers to each new question to be started on a fresh page
+d) Figures in brackets on the right hand side indicate full marks
+
+QI a) Solve the following simultaneous equations by using matrix
+
+4 xtyt+z=3, x+2y+3z=4, x+4y+9z=6 (5)
+; sin? 2¢
+b) Find Laplace transform of (5)
+t
+c) Find the Half range Fourier cosine series for f(x)=x, 0<x<z (5)
+d) The random variable X has the following probability distribution
+x 2 “I 0 1 2 3
+j
+‘ ; , P(X=x) 0.1 k 0.2 2k ° 0.3 3k
+y!
+Find (i) the valueofk (ii) P(X >2) (iii) P(-2<X <2) (5)
+
+fe
+--- page 2 ---
+Qa) For the following matrix A find A’! by using adjoint of A
+
+23 4
+hk FD 224
+
+b) Find the Eigen values and Eigen vectors of the following matrix
+
+1 0 -1
+12 1 (8)
+22 3
+
+c) For the given matrix A is the relation A?=A7 true?
+
+3 -3 4
+A=|2 -3 4 (6)
+0 -1 1
+QU a) Find Laplace transform of the given function given bellow
+1 O<t<t (6)
+f(t) = t 1<t <2
+1 t>2
++4
+6) Bind MY at g
+s(s—1)(s? +4) (8)
+c) Using Laplace transform solve the following differential equation
+3D p2y =e y (0)=1 (6)
+dt
+Q.IV. a) Ifa continuous random variable X has probability distribution function
+f(x)= =%0- x?) when 0< x<3 and f(x) =0 otherwise. (8)
+
+j
+‘ Find the first four moments about the origin and mean
+
+b) Anurn contains 4 white and 3 red balls: Find the probability distribution of (6)
+the number of red balls in three draws made successively with replacement
+from the urn
+
+a) A fair coin is tossed 3 times. A person receives Rs. X*, if he gets X heads (6)
+then find his expectation
+
+13
+--- page 3 ---
+q
+
+QV.
+
+Q.VL.
+
+Q.VIL.
+
+}
+
+a) Examine whether the given vectors are linearly independent or dependent.
+Find the relation between them if dependent (8)
+
+Xi=(1, -1, 1, 3), Xe2=(1, 2, 3, 4), Xs=(2, 3, 4 7)
+
+13 4 3
+b) Find the rank of the matrixA=|3 9 12 9 (6)
+13 4 0
+
+c) Test for consistency and if possible solve the following equations
+
+2x-yt+z=9, 3x-y+z=6, 4x-y+2z=7, —xt+y-z=4 (6)
+a) By using the sin series for f(x)=1 in0<x<z, show that (8)
+witli tl, Bees
+8 37 57 7
+b) Find the Fourier series for f(x) =x in the interval (-1, 1) (6)
+
+a
+c) Solve the differential equation using Laplace transform Ed +25y =10cos5t
+dx ,
+
+given that y(0)=2 and y’(0)=0 (6)
+
+a) Given f(4)=t+1, O<St<2 and f(‘)=3, for t>2 the find (6)
+
+FIFO] and zF'(|
+
++2
+_9 Sin aes at
+
+b) Evaluate ! e (8)
+Uo)
+
+2
+
+1 eee cos4x cos6x
+(6)
+
+c) Prove that for 0<x<z, in ma P + 2 + 3
+
+*f
 ````
 
 ## 2011-12 · Re-Exam · Trim 3 · paper 2f7dd2d2ea99
@@ -1337,6 +1810,178 @@ P(X =x) I 0   C   1 2c   ( Zc   1 %   dj   ) c Z   I 2c2   I 7c2+c
 1)   Find c, ii)P(X 26), iii) P(X <6)
 c) The first four moments of a distribution about the value 5 are 2, 20,40 and 50.
 Calculate the first four central moments.
+````
+
+## 2010-11 · Exam not stated · Trim 3 · paper 5142c4fb6a1b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/APPILED MATHEMATICS III BACTH 2008-2009(1).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/06/2011
+- Text: ocr (2 pages), mean OCR confidence 81.2
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Programme: MBA TECH - (All Streams) Year: I, Trimester: III /,
+Academic Year : 2010-2011
+
+_
+
+Batch: 2008-2009
+Subject: Applied Mathematics - III Marks: 100
+
+Time: 10.00 am To 1.00 pm
+Date: 25/06/2011 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+NB:
+
+a) Question No. 1 is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c) All questions carry equal marks.
+
+d) Answer to each new question to be stated on a fresh page.
+
+e) Figure in right indicate full marks.
+
+Q.1 a) Find the Fourier series for f(x) =sinax in (—7,7) 5
+b) Find L{f@}, where f() =tV1+ sine 5
+¢) 2 44 6i 5
+Express the matrix A=| 6 5-i 4] asthe sum ofa Hermitian and Skew-
+1 li 8i
+
+Hermitian matrix.
+
+d) Find the probability distribution of the sum of numbers appearing on rolling 5
+two unbiased dice. Also find the probability that X lies between 3 and 9.
+
+Q.2 a) Find all Eigen values and Eigen vectors of the matrix 8
+
+3 -1 1
+A=}-1 5 -l
+1 -1 3
+b) Find the rank of the following matrix by reducing it to normal form where 6
+102 2 ;
+_ 2-1 0 -l
+“}1 0 2 -1
+[4 -1 3 -1]
+ce) Examine the vectors [3, 1, 1], [2, 0, -1], and[4, 2, 1] for linear 6
+
+independence or dependence and find the relation if it exists.
+
+Q.3 a) Solve using Laplace transform y"+2y'+tS5y =e sinx, y(0)=0,y'(0)=1. 8
+
+w Find rf > : \ a
+s(s+l)
+c)
+
+Evaluate fewr sin3¢ dt using Laplace transform.
+0
+
+Yo
+--- page 2 ---
+.Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+qd)
+
+a)
+
+b)
+
+c)
+
+a)
+b)
+
+c)
+
+x, O<x<z
+
+Find Fourier Series for f (x) = { in [0,27].
+
+2n-x,W<x<20
+
+: . ) . ( 5m :
+Show that the set of functions sin( = asin 3ax sin( 525)... is
+2L 2E 2L
+
+orthogonal over (0,Z).
+Find half range cosine series for f(x) = x(a —x) in (0,7) Hence show that
+
+Silt
+=n 90°
+
+A random variable X has the probability density function
+
+0 x<0
+FQX)=).
+2e* 3 x20
+Also find P(1<X<3), P(X=0.5).
+The first four moments of a distribution about the value 4 are -1.5, 17, -30
+
+and 108. Calculate the first four moments about the mean..
+A random variable has the following probability density function
+
+2, O<x<1/2
+r)-|
+
+0, elsewhere
+
+Find the moment generating function and hence its mean and variance.
+
+If X; has mean 4and variance 9, Xz has mean -2 and variance 4, and if X,
+X are independent, find
+
+i)E(X1- X2), V(X - X2) ii) E (2X1+3X2-3), V (2X43 X2-4).
+
+>
+
+Investigate for what value of A and yz the equations
+x+2y+3z=4 x+3y+4z=5, x+3y+Az=y have (i) no solution (ii) a
+unique solution (iii) an infinite number of solutions.
+
+Find 44-1,
+(s+) (s° +1)
+Find L {sin 2t cost cosh 27}.
+
+Find the Fourier expansion of f (x)= 2x-x° , 0<x<3 with period 3.
+A random variable X has the following probability mass function.
+
+xX -2 |-1/0 {1 |2 |3
+
+P(X=x) | 0.1) k | 0.2 | 2k} 03} kK)
+Find (i)k (ii) P(-2<XS1) (iii) P(X<1) (iv) distribution function of X.
+
+A continuous random variable X has the p.d.f. defined by
+J (x)= A+ Bx,0<x <1. Ifthe Mean of the distribution is 1/3, find A and B-
+
+.—————
+
+2/2
 ````
 
 ## 2010-11 · Exam not stated · Trim 3 · paper 51b6bf0a2d5d
@@ -1683,6 +2328,7 @@ J (x) =kx’e™;x 0. Find k, mean and variance.
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/2009-2010(44).pdf`
 - Text: ocr (2 pages), mean OCR confidence 79.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS.-=S=5e*
@@ -1764,7 +2410,6 @@ independent.
 
 a) Find the first four central moments of X from the following data.
 
-Df = 100, 5 fi m= -11, Df xi? = 89, D fixP=-11, D fi xi* = 233
 
 Also find the mean and variance of X.
 
@@ -1966,178 +2611,6 @@ P(X=x)} 1/3 | 1/2} 1/6
 Find 1) first four raw elements, ii) first four central moments.
 
 ee es x
-````
-
-## 2008-09 · Exam not stated · Trim 3 · paper 5142c4fb6a1b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/APPILED MATHEMATICS III BACTH 2008-2009(1).pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/06/2011
-- Text: ocr (2 pages), mean OCR confidence 81.2
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Programme: MBA TECH - (All Streams) Year: I, Trimester: III /,
-Academic Year : 2010-2011
-
-_
-
-Batch: 2008-2009
-Subject: Applied Mathematics - III Marks: 100
-
-Time: 10.00 am To 1.00 pm
-Date: 25/06/2011 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-NB:
-
-a) Question No. 1 is compulsory.
-
-b) Out of remaining questions, attempt any 4 questions.
-
-c) All questions carry equal marks.
-
-d) Answer to each new question to be stated on a fresh page.
-
-e) Figure in right indicate full marks.
-
-Q.1 a) Find the Fourier series for f(x) =sinax in (—7,7) 5
-b) Find L{f@}, where f() =tV1+ sine 5
-¢) 2 44 6i 5
-Express the matrix A=| 6 5-i 4] asthe sum ofa Hermitian and Skew-
-1 li 8i
-
-Hermitian matrix.
-
-d) Find the probability distribution of the sum of numbers appearing on rolling 5
-two unbiased dice. Also find the probability that X lies between 3 and 9.
-
-Q.2 a) Find all Eigen values and Eigen vectors of the matrix 8
-
-3 -1 1
-A=}-1 5 -l
-1 -1 3
-b) Find the rank of the following matrix by reducing it to normal form where 6
-102 2 ;
-_ 2-1 0 -l
-“}1 0 2 -1
-[4 -1 3 -1]
-ce) Examine the vectors [3, 1, 1], [2, 0, -1], and[4, 2, 1] for linear 6
-
-independence or dependence and find the relation if it exists.
-
-Q.3 a) Solve using Laplace transform y"+2y'+tS5y =e sinx, y(0)=0,y'(0)=1. 8
-
-w Find rf > : \ a
-s(s+l)
-c)
-
-Evaluate fewr sin3¢ dt using Laplace transform.
-0
-
-Yo
---- page 2 ---
-.Q.4
-
-Q.5
-
-Q.6
-
-Q.7
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-qd)
-
-a)
-
-b)
-
-c)
-
-a)
-b)
-
-c)
-
-x, O<x<z
-
-Find Fourier Series for f (x) = { in [0,27].
-
-2n-x,W<x<20
-
-: . ) . ( 5m :
-Show that the set of functions sin( = asin 3ax sin( 525)... is
-2L 2E 2L
-
-orthogonal over (0,Z).
-Find half range cosine series for f(x) = x(a —x) in (0,7) Hence show that
-
-Silt
-=n 90°
-
-A random variable X has the probability density function
-
-0 x<0
-FQX)=).
-2e* 3 x20
-Also find P(1<X<3), P(X=0.5).
-The first four moments of a distribution about the value 4 are -1.5, 17, -30
-
-and 108. Calculate the first four moments about the mean..
-A random variable has the following probability density function
-
-2, O<x<1/2
-r)-|
-
-0, elsewhere
-
-Find the moment generating function and hence its mean and variance.
-
-If X; has mean 4and variance 9, Xz has mean -2 and variance 4, and if X,
-X are independent, find
-
-i)E(X1- X2), V(X - X2) ii) E (2X1+3X2-3), V (2X43 X2-4).
-
->
-
-Investigate for what value of A and yz the equations
-x+2y+3z=4 x+3y+4z=5, x+3y+Az=y have (i) no solution (ii) a
-unique solution (iii) an infinite number of solutions.
-
-Find 44-1,
-(s+) (s° +1)
-Find L {sin 2t cost cosh 27}.
-
-Find the Fourier expansion of f (x)= 2x-x° , 0<x<3 with period 3.
-A random variable X has the following probability mass function.
-
-xX -2 |-1/0 {1 |2 |3
-
-P(X=x) | 0.1) k | 0.2 | 2k} 03} kK)
-Find (i)k (ii) P(-2<XS1) (iii) P(X<1) (iv) distribution function of X.
-
-A continuous random variable X has the p.d.f. defined by
-J (x)= A+ Bx,0<x <1. Ifthe Mean of the distribution is 1/3, find A and B-
-
-.—————
-
-2/2
 ````
 
 ## 2007-08 · Exam not stated · Trim 3 · paper dd0090e725b5
@@ -3012,13 +3485,14 @@ eignvectors [-3 | and |- 2; | .
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/2004-2005(11).pdf`
 - Text: ocr (2 pages), mean OCR confidence 50.3
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 DaTe
 
 \ime
 
-Narsee Mons EE Tn TUTE Or f ANA
 AE
 
 M. 2%. A. Cecs-) Trim — WW
@@ -3052,7 +3526,6 @@ ype b oeber one
 vy Ce) = O Oars,
 q Co) = ay (2) - Oo
 No, 2
-a TS tom x) 7 So * S ay Ne + D> b, Sms
 
 Sind Oy
 --- page 2 ---
@@ -3064,7 +3537,6 @@ a)
 4) Furd &
 
 No, 4
-&) Vswnq fre prety, Senn es
 — ge 4 |
 oes x7 = (20-1)
 Da. gees
@@ -3100,479 +3572,4 @@ Q, No. 6
 Uewg Lap lace Tras forms cole Kha
 ai x an’ * 2% = 4 a x(o) = |,
 oa x/(0o) = 2.
-by hee bo” Sk + i fee a
-— Yr (ie D rie a at ei 2) e@ b
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper aedb05eb5467
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/APPLIED MATHEMATICES III0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 08/05/2012
-- Text: ocr (2 pages), mean OCR confidence 75.8
-
-````text
-\ SVKM’s NMIMS —
-Mukesh Patel School of Technology Management & En git ii MAA
-Programme: MBA (TECH) (ALL STREAMS) Year: 1 Trimester! STT” N
-
-2 epuR Veh
-Academic Year : 2011-2012 #/ MPSTME Jw |
-(BLEIBRARY de
-
-%, Se
-Subject: Applied Mathematics-III Marks: 4 ~——<reeit we
-Time: CUPS ANS pm
-Date: 08/05/2012. Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-NB:
-
-a) Question No. 1 is compulsory.
-
-b) Out of remaining questions, attempt any 4 questions.
-
-c) Ali questions carry equal marks.
-
-d) Answer to each new question to be stated on a fresh page.
-
-e) Figure in right indicate full marks.
-
-Qi a) Find L{f(O}, where f(t) =e™ sin 3r sinh 41 - 5
-b) If X denotes the sum of the points that appear when a pair of dice is thrown, find the 5
-probability distribution of X and also the Mean and variance of X.
-3 Bry 5
-¢) Prove that 47=4A™', where 4=| 2 -3 4] +
-0 -1 1
-d) Find the Fourier series to represent f(x)=x+sinx in (0,27). 5
-Q.2 a) Find all Eigen values and Eigen vectors of the matrix 8
-( [223
-ly | 21-4
-|-1 2 0
-b) Find the rank of the following matrix by reducing it to normal form where 6
-1-1 2 4 ,
-2 3 -1 -l
-131 3 2
-63 0 7
-
-c) \ Exarni e the vectors [1,2,—1,0],[1, 3,1, 2],[4, 2,1, 0] and [6,1,0,1] for linear independence or 6
-depeldl nce and find the relation if it exists.
-
-Q.3 a) Solve using Laplace transform 8
-(D’ 3D? +3D-1)y =e; y(0) =0; Dy =0;D*y=-2 att=0 «
-b 2 4)? 6
-Find" fo .
-38°
-a ‘J . 6
-Evaluate fooshisin’a, using Laplace transform.
-0 &
-Q.4 a) Find the Fourier series to represent f(x) =x+x° in (-7,7) and hence deduce 8
-
-1/2
---- page 2 ---
-Q5
-
-Q.6
-
-Q.7
-
-b)
-
-°)
-
-a)
-
-b)
-
-¢)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-¢)
-
-°° “Wekeale lett
-
-6 #. 2 Rages
-
-Show that the set of functions 6
-l,sin 2) cos 2) sin ane ,COS = ‘ sin( 2 os( 2), .. forms an orthogonal
-L L L L & L
-set in the interval (~L, L) and determine the corresponding orthonormal set.
-Find half-range sine-series for 6
-x,0<x<a
-f(s=4a,a<x<nm-a
-H-X,W-A<X< 1
-If a random variable X is such that E(x -1y ] =10 and E[(X - 2y ] = 8
-Find i) E(X) ii) Var(X) iii) oy (x).
-The first three moments about the origin are 5, 26, 78. Calculate the first three moments 6
-about the value x =3.
-A random variable has the following probability mass function 6
-x/2, O<x<2
-f()= ‘
-, otherwise
-Find the moment generating function and hence, its mean and variance.
-Investigate for what values of 2 & w the equations 8
-2x+3y+5z=9, 7x+3y—2z =8,2x+3y+AzZ=u
-have i) no solution, ii) a unique solution, iii) an infinite no. of solutions?
-6
-Find -'| 2 —98*7_ |
-(s? 45+ 5)
-6
-Find L cos Vt |
-Ni
-,0<x<l 8
-If f(x
-f()= {r (2-x), 1<x<2
-us _— half wanes cosine series, show that
-y) fa _ a
-ig # +t 96"
-Giles the following probability distribution of a discrete random variable X 6
-xX 0 }1 42 |3 [4 {5 {6 7
-P(X=x) 10 fe | 2c | 2c | 3c [c? | 2c” | 7c*te
-i) Finde ii) P(x>6) iii) Ax<6) iv) P(xsk)>1/2.
-A continuous random variable X has the probability distribution function, defined by 6
-ke! (1- x) 0<x<La>0,B>0
-fQ)= (I-s) . ,
-; otherwise
-
-Find k,meanof x .
-
-2/2
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper 76e393ba4d12
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/scan0005(6).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/09/2012
-- Text: ocr (3 pages), mean OCR confidence 83.1
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & E:
-
-Programme: MBA-Tech (All Streams) Year: I Trimester: may
-Academic Year : 2011-2012 a
-Batch: 2011-2012 ae
-Subject: Applied Mathematics - III Marks: 100
-Time: 11.00 am To 2.00 pm
-Date: 13/09/2012 Duration: 3 hrs.
-
-Special Re-Examination
-Instructions: Candidate should read carefully the instructions printed on the question paper
-and on the cover of the Answer book which is provided for their use
-
-NB:
-
-a) Question No:1 is compulsory
-
-b) Out of remaining questions attempt any 4 questions
-
-c) Answers to each new question to be started on a fresh page
-d) Figures in brackets on the right hand side indicate full marks
-
-QI a) Solve the following simultaneous equations by using matrix
-
-4 xtyt+z=3, x+2y+3z=4, x+4y+9z=6 (5)
-; sin? 2¢
-b) Find Laplace transform of (5)
-t
-c) Find the Half range Fourier cosine series for f(x)=x, 0<x<z (5)
-d) The random variable X has the following probability distribution
-x 2 “I 0 1 2 3
-j
-‘ ; , P(X=x) 0.1 k 0.2 2k ° 0.3 3k
-y!
-Find (i) the valueofk (ii) P(X >2) (iii) P(-2<X <2) (5)
-
-fe
---- page 2 ---
-Qa) For the following matrix A find A’! by using adjoint of A
-
-23 4
-hk FD 224
-
-b) Find the Eigen values and Eigen vectors of the following matrix
-
-1 0 -1
-12 1 (8)
-22 3
-
-c) For the given matrix A is the relation A?=A7 true?
-
-3 -3 4
-A=|2 -3 4 (6)
-0 -1 1
-QU a) Find Laplace transform of the given function given bellow
-1 O<t<t (6)
-f(t) = t 1<t <2
-1 t>2
-+4
-6) Bind MY at g
-s(s—1)(s? +4) (8)
-c) Using Laplace transform solve the following differential equation
-3D p2y =e y (0)=1 (6)
-dt
-Q.IV. a) Ifa continuous random variable X has probability distribution function
-f(x)= =%0- x?) when 0< x<3 and f(x) =0 otherwise. (8)
-
-j
-‘ Find the first four moments about the origin and mean
-
-b) Anurn contains 4 white and 3 red balls: Find the probability distribution of (6)
-the number of red balls in three draws made successively with replacement
-from the urn
-
-a) A fair coin is tossed 3 times. A person receives Rs. X*, if he gets X heads (6)
-then find his expectation
-
-13
---- page 3 ---
-q
-
-QV.
-
-Q.VL.
-
-Q.VIL.
-
-}
-
-a) Examine whether the given vectors are linearly independent or dependent.
-Find the relation between them if dependent (8)
-
-Xi=(1, -1, 1, 3), Xe2=(1, 2, 3, 4), Xs=(2, 3, 4 7)
-
-13 4 3
-b) Find the rank of the matrixA=|3 9 12 9 (6)
-13 4 0
-
-c) Test for consistency and if possible solve the following equations
-
-2x-yt+z=9, 3x-y+z=6, 4x-y+2z=7, —xt+y-z=4 (6)
-a) By using the sin series for f(x)=1 in0<x<z, show that (8)
-witli tl, Bees
-8 37 57 7
-b) Find the Fourier series for f(x) =x in the interval (-1, 1) (6)
-
-a
-c) Solve the differential equation using Laplace transform Ed +25y =10cos5t
-dx ,
-
-given that y(0)=2 and y’(0)=0 (6)
-
-a) Given f(4)=t+1, O<St<2 and f(‘)=3, for t>2 the find (6)
-
-FIFO] and zF'(|
-
-+2
-_9 Sin aes at
-
-b) Evaluate ! e (8)
-Uo)
-
-2
-
-1 eee cos4x cos6x
-(6)
-
-c) Prove that for 0<x<z, in ma P + 2 + 3
-
-*f
-````
-
-## Year not stated · Final-Exam · Trim 3 · paper 1a1ddd5bfaf0
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/Applied Mathematics Final 11.pdf`
-- Printed on paper: exam date: 08/05/2013
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technolorn Mana~ement & Endneering
-Programme: MBA (Tech) -ALL STREAM   Year:   I   Trimester:   111 _- ..--. . .-   .
-Academic Year : 2012-2013   .-_ , :by '; : n.7   ' 5 ..<?fT.,&   ' -\
-I   . :.- '. . * ! 1 .-   ; .,Fa lb
-1   Subject:   APPLIED MATHEMATICS - 111
-Date:   08/05/2013
-Final - Examination .
-Instructions: Candidates should read carefhlly the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-a) Question No. 1 is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) All questions carry equal marks.
-d) Answer to each new question to be started on a fresh page.
-e) Figure in brackets on the right hand side indicate full marks.
-Q. 1
-r-4   -3   -2 1
-a) If the matrix A =   then show that a4.A is symmetric.   (5)
-b) A random variable X has the following probability distribution.
-i)Find K, ii) distribution function, iii) Evaluate P ( X < 2), P(-2 < X < 2) and
-iv) Mean.   (5)
-; O l x l - C
-c) Obtain half-range sine series of period 2c for f (x) =   2   . ( 5 )
-C
-2 -
-Q.2
-a) Determine 'b ' such that the system of equations
-3 x + y - b z = 0 , 4 ~ - 2 y - 3 ~ = 0 , 2 b x + 4 y + b z = O has
-(i) Trivial solution , (ii) Non-trivial solution , find the non-trivial solution.   (8)
-b) Find eigen values and eigenvectors of the following matrix A =   2   . (6)
-c). Reduce the matrix to normal form and find its rank.   (6)
-Q.3
-a) Test the consistency sf the following equations and if possible solve them
-x, +3x2 -x3 --4,2x, +x2 +x3 =7,2x, -4x2 +4x3 =6,3x1 +4x2 =11.   (8)
-b) Examine whether the following vectors are linearly dependent or linearly
-independent. If linearly dependent, find the relation between them.
-[3   1 -41 , [2 2   -31 , [o -4   11   (6)
---- page 2 ---
-C) Find L { t J G ] .
-4.4
-a) Find the Fourier series to represent f (x) = x+ x2 in (-A, n) and hence deduce
-b) A shipment of 8 computers contains 3 defectives. If a college makes a random
-purchase of 2 of these computers, find the probability distribution of defective
-computers. Also find P(0 < X < 2); P(X 2 1).   (6)
-c) A continuous random variable has probability density function
-, 0 1 x S l
-lo   , elsewhere
-i) Determine the constant a, ii) Find P (: - < X < 2 1 ; P(X 1 1.5).
-Q.5
-a) A continuous random variable X has probability density function
-Find the first four moments about origin and the mean.   @I
-b) If Yl has mean 4 and variance 9, Y2 has mean -2 and variance 4, and if Y,, Y2 are
-independent, find i) E (I; + Y, ) , v (Y; - 25) ii) E (22; + Y, - 5) , v (22; + Y, - 3). (6)
-c) If a random variable has the moment generating function MI = - J   , obtain mean
-L   3 - t
-and the standard deviation.
-Q.6
--lt; - n < x < O
-a) I f f (x) =   , with f ( x + 227) = f (x) . Find Fourier series.
-x ; O < X < T
-Hence deducei- 1 + 1 + 1 + ... = -. n *
-1   3   5   8
-b) Find Fourier series to represent f (x) = Isin X I in(-T, n) .   (6)
--
-c) If a, = 0 and a, = 2[1-   \   -'; f ( x ) = -+ u o Cancosnx.
-ltn2   2   n = ~   \ \   -n L ,)( C   C''
-Deduce ,-= ~   ,+-+-+ ~   1   .... 1 idGc ~t 1   " r ~ 4- - . -2- - - ,   (6)
-96   1   34 54   c-
-n 7   .-3,- , V L X   ,!-I\
-a) Atmass ' m ' moves along the x-axis under the influence of a force which is
-proportional to its instantaneous speed and in a direction opposite to the motion.
-Assuming that at t = 0 the particle is located at x = a and moving to the risht
-with speed V,, find the position where the mass comes to rest. Here the equation of
-motion is given by rn- d 'X = -p - dx ; with initial conditions
-dt2   dt
-x(0) = a and x'(0) = V,.
-" J sinh t sin t
-b) Find   fit   dt .
-o   e
-c) Find L-'   2p3 + 2 p 2 + 4 p + 1
-( p 2 + 1 ) ( p 2 + p + l )
-````
-
-## Year not stated · Re-Exam · Trim 3 · paper 463a143379d2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/Applied Mathematics III Re Exam 01(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08/05/2013
-- Text: text (3 pages)
-
-````text
-\
-SVKM's NMIMS
-Mukesh Pate1 School Of T e c h n o l o w Management
-Programme: MBA (Tech) -ALL STREAM   Year:   I
-Academic Year : 2012-2013
-Batch:   201 1-12
-Subject:   APPLIED MATHEMATICS - 111,   Marks:   100
-Time:   10.00am To 1.00pm
-Date:   08/05/2013   Duration:   3   hrs.
-R e - E x a m i n a t i o n
--- -   ----   -   ___   -
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-a) Question No. 1 is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) All questions carry equal marks.
-d) Answer to each new question to be started on a fresh page.
-e) Figure in brackets on the right hand side indicate full marks.
-a) Express the following Matrix A as P + iQ, where P and Q are both Hermitian Matrix.   (5)
-[ 2   3-i 2+i 1
-b) Find L [cosh 5t sin 4t e"' ]
-c) Obtain Fourier Series for:
-d) A discrete Random Variable has probability density function as given below:   (5)
-X   -2   -1   0   1   2   3
-P ( X = x )   0.1   k   0.2   2k   0.3   k
-i   Find k, ii) P(X 21) , iii) P(-2 < X < 1).
-Q2.
-a) Discuss for all values of k the system of equations
-2x+3ky+(3k+4)z =O
-x+(k+4)y+ (4k+2)z=O
-x+(2k+2)y+(3k+4)z=O
-Will have   i) Trivial solution   ii) Nontrivial solution
-b) Find all the Eigen Values and Eigen Vectors of the following Matrix.
---- page 2 ---
-c) Use the adjoint Method to find the Inverse of Matrix A.
-; 3,
-A = [ ;
-b) Find Laplace Transform of   e4' sin3 t
-c) Solve using Laplace Transform 3- dy + 2y = e3', if y = 1 at t = 0
-ak
-Q4.
-(n-x),   .
-a) Obtain the Fourier series expansion of f (x)=   ~n the interval 0 1 x 1 2 ~ and
-4
-f (x+2n)= f ( x ) .
-n 2 --+---+--..... 1 1 1 1 1
-Hence Deduce -=-
-12 l2 22 32   4, 52
-b) Find the Fourier series of the function f (x)=x2, for - n I x i 71.
--=-+-+,+.... n 2 1 1 1
-j   Hencededuce 6   1'   2,   3
-c) Find Half Range Sine series for :
-Q5.
-a) Test for consistency the following equations, if possible solve
-x+2y - z = 1
-x + y + 2 z = 9
-2x+y-z = 2
-b) Reduce the Matrix A to the normal form and find the Rank.
---- page 3 ---
-Q6.
-a) Find half range cosine series for:
-f(x)=x(z-x),   O<x<z
-7r2   * 1
-Hence deduce - =   -=-
-b) Let X be a continuous Random Variable with probability density function
-elsewhere
-i   Determine a   ii) Compute P (X I 1.5)   iii) Compute P (112 5 X I 2)
-c) Examine whether the vectors are linearly independent or dependent
-x1=[1,2,4] x2=[2,-1, 31 x,=[o, 1, 21
-Q7.
-a) A random Variable X has the following density function
-Find the moment generating function. Also find the Mean and Variance.
-b) If X, has mean 5 and Variance 5, X2 has mean -2 and Variance 3, and if XI &X2 are independent,
-find:   (6)
-i) E(X,-X,), V(X, - 4)
-t   ii) E(2Xl +3X2 -3), V(2XI +3X2 -4)
-c) The first four moments of a distribution about the value 4 are -1.5, 17, -30 and 108.
-Calculate the first four about mean.
 ````

@@ -14,19 +14,19 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(CHEMICAL ENGINEERING) - 7045 | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(ELECTRONICS & TELECOMMUNICATION | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBA TECH | Supply Chain & Logistics Management, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech IT 7041 | QP_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech(CHEMICAL ENGINEERING) - 7045 | QP_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech(ELECTRONICS & TELECOMMUNICATION | QP_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | QP_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech IT 7041 | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(CHEMICAL ENGINEERING) - 7045 | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(ELECTRONICS & TELECOMMUNICATION | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | QP_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Supply Chain and Logistics Management(703TO0E005)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 9 | MBA TECH | Supply Chain & Logistic Mgmt , Final 2023-24.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 9 | MBA TECH | Supply Chain & Logistic Mgmt,Final,2022-23.pdf |
 | 2019-20 | — | Question paper | Sem 9 | MBA TECH | Supply Chain & Logistic Management 2019-20.pdf |

@@ -128,6 +128,128 @@ Q7.B | Discuss in detail various types of Ecological Pyramid. (7)
 Page - @) or (2)
 ````
 
+## 2018-19 · Re-Exam · Sem 6 · paper 1459d3df8ba5
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/ENVIRONMENTAL ENGINEERING II/Environmental engg-II ....Re-exam 2017-18-19.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 June 2019
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
+
+Programme: MBA. Tech / B.Tech (CIVIL) Year: IIT Semester: VI
+Academic Year: 2018-19
+
+Subject: Environmental Engineering-I , Marks: 70
+
+Date: 19 June 2019 . Time: 10.00 am to 1.00 pm -
+
+Duration: 3 (Hrs)
+No. of Pages: 2-
+
+Re- Examination (2017-18/2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks. -
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks. ~.
+7) Assume ‘suitable data if necessary.
+
+Ql. (14)
+a. Write a note on composition of sewage. (03)
+b. Enlist and explain methods to recharge groundwater using harvested rainwater. (04)
+c. Compute dimensions of grit chamber having settling velocity for an ideal tank as 0.0168 m/s,
+performance good, peak flow 120 MLD and efficiency 80%. (04)
+d. Briefly explain ecological succession and its types. (03)
+Q2:
+
+a. For the flow of sewage 90 cumecs from city in a perennial river which is fully saturated with
+oxygen and flows at a rate of 1300 cumecs with minimum velocity of 0.12 m/s, if BODs of the
+sewage is 400 mg/l, find out where the critical DO will occur in the river. Assume f; as 4.0,
+coefficient of DO as 0.11/day and BODuas 115% of the BODs of the mixture of sewage and river
+water. (07)
+
+b. Discuss aquatic ecosystem with types, structure, features and important functions. (07)
+
+3.
+
+a. Determine velocity of flow and discharge in a sewer of circular section having diameter 1400 mm
+
+laid at a gradient of 1 in 450. The sewer runs partially full at 0.7 depth. Take n = 0.012. (07)
+
+Page 1 of 2
+--- page 2 ---
+Q4.
+
+QS.
+
+Q6.
+
+Q7.
+
+Design manually cleaned bar screen with screening trough for a city of population 1, 50, 000 and
+per capita water demand 140 litres/day. Take diameter of incoming sewer as 0.75 m and clear
+opening size 40 mm. Assume peak factor for sewage flow as 2. Also, draw neat sketch. (07)
+
+a. Write a note on following sewer appurtenances. (04)
+a. Lamphole
+b. Drop Manhole
+c. Inverted siphon
+d. Street Inlet
+
+b. Discuss disaster management of floods. (05)
+
+c. A sewage treatment plant produces 200 kg of dry solids per day having moisture content of
+97%. Volatile solids content is 65% with specific gravity of 1.05 and non-volatile solids
+content is 35% with specific gravity 2.5. Determine Sludge Volume: (05)
+
+I. In Raw sewage
+Il. | After digestion which reduces volatile solids content by 55 % and decreases moisture
+content to 90%.
+
+a
+
+a. Design standard rate trickling filter with rotary distributors for a design sewage discharge of
+
+15 MLD and BODs 200 mg/l. Assume suitable data required. -- (07)
+b. Enlist legislative support available for environmental protection. Discuss any one in detail.
+(07)
+
+a. A continuous flow completely mixed ASP is required to treat sewage flow of 25 MLD for a
+city. Using data given below, design the ASP. (08)
+a. BODs influent = 220 mg/l
+b. BODs Effluent = 10 mg/l .
+c. Effluent suspended solids = 5 mg/l
+d. MLVSS = 3000 mg/l
+e. Return sludge concentration as suspended solids = 15000 mg/I
+Take Y = 0.6, 6. = 10 days, kg = 0.06/day, MLVSS/MLSS= 0.8
+b. Discuss working and design features of septic tank with neat sketch. (06)
+
+a. Calculate BODs of sewage at 200, given its BODs and k at 250 is 250mg/l and 0.12/d
+respectively. How BOD is relative to population equivalent? (05)
+
+b. Discuss algae-bacteria symbiosis in stabilization ponds. (04)
+
+c. In an aeration tank, MLSS concentration is 3000 mg/1 and sludge volume after 30 minutes of
+settling in a 1000 ml graduated cylinder is 220 ml. Calculate SVI, SDI, required return sludge
+ratio and SS concentration in recirculated sludge. (05)
+
+Page 2 of 2
+````
+
 ## 2017-18 · Exam not stated · Sem 6 · paper bacf9c87c093
 
 - Departments: Civil
@@ -551,124 +673,108 @@ velocity,
 2 of 2
 ````
 
-## 2017-18 · Re-Exam · Sem 6 · paper 1459d3df8ba5
+## 2017-18 · Re-Exam · Sem 6 · paper 150e5ab6c787
 
 - Departments: Civil
-- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/ENVIRONMENTAL ENGINEERING II/Environmental engg-II ....Re-exam 2017-18-19.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 June 2019
-- Text: ocr (2 pages), mean OCR confidence 92.4
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Environmental Engineering II/Environmental_Engineering_-II_2016-17_Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 93.6
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
+Programme: MBA Tech (Civil) Year: III Semester: VI
 
-Programme: MBA. Tech / B.Tech (CIVIL) Year: IIT Semester: VI
-Academic Year: 2018-19
+Batch: 2016-17~
+. Academic Year: 2017-2018
 
-Subject: Environmental Engineering-I , Marks: 70
+Subject: Environmental Engineering -II ;
+Marks: 60
+Date: 03 July one Time: 10.00 am to 1.00 pm
+Durations: 3 (Hrs) a
+No. of Pages: _ OZ2—
+Re-Examination
 
-Date: 19 June 2019 . Time: 10.00 am to 1.00 pm -
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
 
-Duration: 3 (Hrs)
-No. of Pages: 2-
+1) Question No. ONE is compulsory.
 
-Re- Examination (2017-18/2018-19)
+2) Out of remaining questions, attempt any FOUR questions.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+3) In all FIVE questions to be attempted. ,
 
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks. -
+4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks. ~.
-7) Assume ‘suitable data if necessary.
 
-Ql. (14)
-a. Write a note on composition of sewage. (03)
-b. Enlist and explain methods to recharge groundwater using harvested rainwater. (04)
-c. Compute dimensions of grit chamber having settling velocity for an ideal tank as 0.0168 m/s,
-performance good, peak flow 120 MLD and efficiency 80%. (04)
-d. Briefly explain ecological succession and its types. (03)
-Q2:
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
 
-a. For the flow of sewage 90 cumecs from city in a perennial river which is fully saturated with
-oxygen and flows at a rate of 1300 cumecs with minimum velocity of 0.12 m/s, if BODs of the
-sewage is 400 mg/l, find out where the critical DO will occur in the river. Assume f; as 4.0,
-coefficient of DO as 0.11/day and BODuas 115% of the BODs of the mixture of sewage and river
-water. (07)
+Q.1. Explain the following (Any three) (12)
+(a)For a waste water containing 400 mg/l of stearic acid (CisH36O2), calculate the COD and
+ultimate BOD. Assume base 10 rate constant 0.1/day. (4)
+(b) Causes and Prevention of Cyclones and landslides (4)
+(c) Estimation of Storm water flow (4)
+(d) Flow sheet of treatment with Trickling Filter (4)
 
-b. Discuss aquatic ecosystem with types, structure, features and important functions. (07)
+Q.2. (a) At point A, a river having flow 6 m?/s, BOD 2mg/I and saturated with oxygen receives a
+sewage effluent discharge of 2.4 m/s with BOD 24mg/I and DO 2 mg/l. A tributary meets
+the river at a point B 30 km on the downstream having flow 2.5 m?/s, BOD 3 mg/l and DO
+9 mg/l. As the river further advances by a distance of 25 km at point C on the downstream
+another effluent having flow 2 m/s, BOD 20 mg/l and DO 3 mg/l joins the main river.
+Calculate the DO deficit at point P 30 km downstream of C. Assume saturation DO as 9.17
 
-3.
-
-a. Determine velocity of flow and discharge in a sewer of circular section having diameter 1400 mm
-
-laid at a gradient of 1 in 450. The sewer runs partially full at 0.7 depth. Take n = 0.012. (07)
+mg/I for a constant temperature of 20°C, deoxygenation constant (base 10)= 0.12/day and —
+Reoxygenation constant (base 10)= 0.36/day and velocity of flow equal to 0.3 m/s. (3)
+(b) Explain BOD, COD and DO with their importance in treatment selection. <)
+Q.3. (a) Derive an expression for self-cleansing velocity of particles in sewer. (6)
+(b) Draw a neat layout of sewage pumping station. Explain its important parts. (6)
 
 Page 1 of 2
 --- page 2 ---
-Q4.
+Q.4 (a) Discuss ways of harvesting rainwater. What are the types of filters used in Roof-Top
+rainwater harvesting? Calculate the quantity of rainfall that can be harvested from roof-top
+of a building with following data:
 
-QS.
+Annual rainfall of the place= 500 mm Area of roof catchment = 110 sq. m
+Coefficient for roof surface = 0.85
+Coefficient for losses (evaporation, spillage and first flush wastage) = 0.80 (6)
 
-Q6.
+(b) List the different types of screens use in waste water treatment. Estimate the screen requirement for a
+plant treating 30MLD of sewage. Ce)
 
-Q7.
+Q.5. (a) With neat sketch, discuss désign considerations of Imhoff Tank. What are advantages
+and disadvantages of Imhoff Tank? (6)
 
-Design manually cleaned bar screen with screening trough for a city of population 1, 50, 000 and
-per capita water demand 140 litres/day. Take diameter of incoming sewer as 0.75 m and clear
-opening size 40 mm. Assume peak factor for sewage flow as 2. Also, draw neat sketch. (07)
+(b) Calculate the volume of liquid before and after digestion and the percent reduction for
+550 kg (dry basis) of primary sludge with the characteristics as given below:
 
-a. Write a note on following sewer appurtenances. (04)
-a. Lamphole
-b. Drop Manhole
-c. Inverted siphon
-d. Street Inlet
+Primary Digested
+Specific gravity of volatile solids 1.0 1.0
+Solids (%) : 5 10
+Volatile solids (%) 60 60(destroyed)
+Specific gravity of fixed solids 2.5 2.5
+(6)
 
-b. Discuss disaster management of floods. (05)
+Q.6. (a) For the following data, design a conventional activated sludge plant to treat settled
+domestic sewage with diffused air aeration system:
+Population = 150000 Sewage contribution = 160 Iped
+Settled sewage BODs = 210 mg/l Effluent BODs required = 20 mg/I (6)
 
-c. A sewage treatment plant produces 200 kg of dry solids per day having moisture content of
-97%. Volatile solids content is 65% with specific gravity of 1.05 and non-volatile solids
-content is 35% with specific gravity 2.5. Determine Sludge Volume: (05)
+(b) What is detritus tank? Design a detritus tank for a STP with following data:
+Dry weather flow = 380 Ips
+Velocity of flow through the tank = 0.2m/s
+Detention period = 2 minutes
+Maximum flow is three times the dry weather flow. (6)
 
-I. In Raw sewage
-Il. | After digestion which reduces volatile solids content by 55 % and decreases moisture
-content to 90%.
+Q.7. Explain the following (Any three)
 
-a
-
-a. Design standard rate trickling filter with rotary distributors for a design sewage discharge of
-
-15 MLD and BODs 200 mg/l. Assume suitable data required. -- (07)
-b. Enlist legislative support available for environmental protection. Discuss any one in detail.
-(07)
-
-a. A continuous flow completely mixed ASP is required to treat sewage flow of 25 MLD for a
-city. Using data given below, design the ASP. (08)
-a. BODs influent = 220 mg/l
-b. BODs Effluent = 10 mg/l .
-c. Effluent suspended solids = 5 mg/l
-d. MLVSS = 3000 mg/l
-e. Return sludge concentration as suspended solids = 15000 mg/I
-Take Y = 0.6, 6. = 10 days, kg = 0.06/day, MLVSS/MLSS= 0.8
-b. Discuss working and design features of septic tank with neat sketch. (06)
-
-a. Calculate BODs of sewage at 200, given its BODs and k at 250 is 250mg/l and 0.12/d
-respectively. How BOD is relative to population equivalent? (05)
-
-b. Discuss algae-bacteria symbiosis in stabilization ponds. (04)
-
-c. In an aeration tank, MLSS concentration is 3000 mg/1 and sludge volume after 30 minutes of
-settling in a 1000 ml graduated cylinder is 220 ml. Calculate SVI, SDI, required return sludge
-ratio and SS concentration in recirculated sludge. (05)
+(a) Food chains and ecological pyramid (4)
+(b) Water (Prevention and control of pollution) Act (4)
+(c) Role of individual in prevention of pollution (4)
+(d) Sludge Volume Index (4)
 
 Page 2 of 2
 ````
@@ -924,9 +1030,9 @@ v) Water Act and Water Cess Act
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/ENVIRONMENTAL ENGINEERING II/ENVIRONMENTAL ENGINEERING II 16-17 FINAL EXAM (1).pdf` (+2 identical copies)
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 17 May 2017
 - Text: ocr (2 pages), mean OCR confidence 87.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-1 Bk nerd Shee rith- te Baernet Foereat or aor
 
 "OSVKM’s NMIMS ~ = foes Bo 0
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN!
@@ -1285,112 +1391,6 @@ mer y
 2p
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper 150e5ab6c787
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Environmental Engineering II/Environmental_Engineering_-II_2016-17_Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-SVKM’s NMIMS
-
-Programme: MBA Tech (Civil) Year: III Semester: VI
-
-Batch: 2016-17~
-. Academic Year: 2017-2018
-
-Subject: Environmental Engineering -II ;
-Marks: 60
-Date: 03 July one Time: 10.00 am to 1.00 pm
-Durations: 3 (Hrs) a
-No. of Pages: _ OZ2—
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. ONE is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted. ,
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1. Explain the following (Any three) (12)
-(a)For a waste water containing 400 mg/l of stearic acid (CisH36O2), calculate the COD and
-ultimate BOD. Assume base 10 rate constant 0.1/day. (4)
-(b) Causes and Prevention of Cyclones and landslides (4)
-(c) Estimation of Storm water flow (4)
-(d) Flow sheet of treatment with Trickling Filter (4)
-
-Q.2. (a) At point A, a river having flow 6 m?/s, BOD 2mg/I and saturated with oxygen receives a
-sewage effluent discharge of 2.4 m/s with BOD 24mg/I and DO 2 mg/l. A tributary meets
-the river at a point B 30 km on the downstream having flow 2.5 m?/s, BOD 3 mg/l and DO
-9 mg/l. As the river further advances by a distance of 25 km at point C on the downstream
-another effluent having flow 2 m/s, BOD 20 mg/l and DO 3 mg/l joins the main river.
-Calculate the DO deficit at point P 30 km downstream of C. Assume saturation DO as 9.17
-
-mg/I for a constant temperature of 20°C, deoxygenation constant (base 10)= 0.12/day and —
-Reoxygenation constant (base 10)= 0.36/day and velocity of flow equal to 0.3 m/s. (3)
-(b) Explain BOD, COD and DO with their importance in treatment selection. <)
-Q.3. (a) Derive an expression for self-cleansing velocity of particles in sewer. (6)
-(b) Draw a neat layout of sewage pumping station. Explain its important parts. (6)
-
-Page 1 of 2
---- page 2 ---
-Q.4 (a) Discuss ways of harvesting rainwater. What are the types of filters used in Roof-Top
-rainwater harvesting? Calculate the quantity of rainfall that can be harvested from roof-top
-of a building with following data:
-
-Annual rainfall of the place= 500 mm Area of roof catchment = 110 sq. m
-Coefficient for roof surface = 0.85
-Coefficient for losses (evaporation, spillage and first flush wastage) = 0.80 (6)
-
-(b) List the different types of screens use in waste water treatment. Estimate the screen requirement for a
-plant treating 30MLD of sewage. Ce)
-
-Q.5. (a) With neat sketch, discuss désign considerations of Imhoff Tank. What are advantages
-and disadvantages of Imhoff Tank? (6)
-
-(b) Calculate the volume of liquid before and after digestion and the percent reduction for
-550 kg (dry basis) of primary sludge with the characteristics as given below:
-
-Primary Digested
-Specific gravity of volatile solids 1.0 1.0
-Solids (%) : 5 10
-Volatile solids (%) 60 60(destroyed)
-Specific gravity of fixed solids 2.5 2.5
-(6)
-
-Q.6. (a) For the following data, design a conventional activated sludge plant to treat settled
-domestic sewage with diffused air aeration system:
-Population = 150000 Sewage contribution = 160 Iped
-Settled sewage BODs = 210 mg/l Effluent BODs required = 20 mg/I (6)
-
-(b) What is detritus tank? Design a detritus tank for a STP with following data:
-Dry weather flow = 380 Ips
-Velocity of flow through the tank = 0.2m/s
-Detention period = 2 minutes
-Maximum flow is three times the dry weather flow. (6)
-
-Q.7. Explain the following (Any three)
-
-(a) Food chains and ecological pyramid (4)
-(b) Water (Prevention and control of pollution) Act (4)
-(c) Role of individual in prevention of pollution (4)
-(d) Sludge Volume Index (4)
-
-Page 2 of 2
-````
-
 ## 2015-16 · Final-Exam · Sem 6 · paper a6c9ef8eec48
 
 - Departments: Civil
@@ -1486,6 +1486,143 @@ drop manhole and siphon spillway
 (e) Disaster management for flood
 
 als
+````
+
+## 2015-16 · Re-Exam · Sem 6 · paper 4a35a0fcbaec
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/ENVIRONMENTAL ENGINEERING II/ENVIRONMENTAL ENGINEERING II B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 16/05/2016
+- Text: ocr (3 pages), mean OCR confidence 89.9
+
+````text
+SVEKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT 6&
+
+NGINEERING
+
+Programme: B.Tech (Civil) Year: If Semester: VI
+Academic Year: 2015-16
+Batch: 2014-15
+
+Subject: Environmental Engineering-II Marks: 60
+Time: 2.00 pm -&
+Date: 16/05/2016 Durations: 3 hrs.
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+NB:
+: 1. Question No. | is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. In all 5 questions to attempted.
+4, Aili questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) | Solve Any Four 42
+a) What are pathogens? Enlist some of the major water borne diseases. 03 |
+b) Differentiate between aerobic and anaerobic decomposition of wastes. 03 |
+c) | Define BOD, COD, TOC ; 03 |
+d) Distinguish between Dry weather flow and wet weather flow 03!
+e) Define shock loading. What are the effects of shock loading? ; 03}
+
+|
+
+|
+Q.2) | Solve [42 |
+a) Explain various Physical, Chemical and biological characteristics of Muncipal 06
+
+sewage. ;
+
+b) Give the Expression for I*t stage BOD of a sewage, If the 5 day 30 °C BOD of 6
+sewage sample is 150 mg/lit. Calculate its 5 days 20 0C BOD. Assume the de- 0
+
+oxygenation Constant at 20 °C Kp 20° =0.1
+--- page 2 ---
+os
+
+greet % Per
+
+| Q.3) | Solve 42 |
+a) 125 cumecs of sewage of a city is discharged in a perennial river which is fully | 06 \
+saturated with oxygen and flows at a minimum rate of 1600 cumecs with a
+minimum velocity of 0.12 m/sec. If the 5 day BOD of the sewage is 300 mg/lit, find
+.. | out where the critical DO will occur in the river. Assume
+(i) The Coefficient of Purification of the river as 4.0
+(ii) The ultimate BOD as 125 % of the 5 days BOD of the mixture of sewage
+and river water. |
+b) State the different systems of sewerage commonly used and describe their relative 06 |
+|__| merits and demerits. _|
+}
+Q.4) | Solve 49 |
+a) Draw a neat Sketch of Domestic Wastewater treatment plant. Explain the | 4 6 |
+|__| different treatment processes used in wastewater treatment. '
+| b) Define Rain water harvesting, Explain with suitable sketch the components of roof | 06 I
+| top harvesting system. | i
+Q.5) | Solve 42°}
+a) Design a primary settling tank of rectangular shape for a town having population 66 |
+
+of 50000 with water supply of 135 I/c/d. Assume suitable data as essential.
+
+Dy
+
+Why secondary settling tanks are provided after biological treatment by either | 96 |
+
+activated sludge process or trickling filter!
+
+\
+
+Q.6)
+
+Solve
+
+a)
+
+What is meant by sludge digestion? What are the operational problems with 06
+sludge digestion process?
+
+b)
+
+An average operating data for conventional activated sludge treatment plant is as | @¢
+follows:
+(i) Waste Water flow- 30000 m3/day
+(ii) Volume of aeration tank= 10000 m?
+(iii) Influent BOD= 250 mg/l
+(iv) Effluent BOD= 20 mg/l
+(v) MLSS= 2500 mg/l
+(vi) Effluent SS= 30 mg/l
+(vii) Waste sludge SS= 9000 mg/I
+(viii) Quantity of waste sludge= 200 m? /day
+Based on the above data determine,
+e Aeration period,
+e Food/ microorganism ratio,
+e BOD removal efficiency in percentage,
+e Sludge age, days
+
+2)
+
+|
+
+2/3
+--- page 3 ---
+Wy
+"eae,
+
+Q.7} | Solve any Four Lo
+a) Define Ecosystem, Explain the structural features of an ecosystem. 04 |
+
+b) What do you understand by ecological pyramid? Enlist different types of 0%
+
+Ecological Pyramid.
+c) What is Disaster Management? Enlist the environmental agencies responsible for | 94
+
+disaster mitigation in India
+d) Explain the Environmental protection act, 1986, why it is also called Umbrella act. | 03 |
+
+e) Under what circumstances septic tank are most suitable? 05
 ````
 
 ## 2015-16 · Re-Exam · Sem 6 · paper e9ca8659be79
@@ -1748,6 +1885,115 @@ equivalent to circular sewer and calculate its discharge at running
 full capacity and 2/3 rd flow capacity.
 ````
 
+## 2015-16 · Re-Exam · Sem 6 · paper 97c1a57f358a
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Environmental Engineering II/Environmental Engineering II Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 07/05/2016
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CIVIL) Year: III Semester: VI
+
+Academic Year: 2015 - 16
+
+Subject: Environmental Engineering-II Marks: 60
+Time: 10.00 am'-
+Date: 07/05/2016 Durations: 3 (hrs}%,\
+
+Final Examination (Batch 2015-16)
+Re - Examination (Batch 2014-15)
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+1. Answer any Four questions [12]
+(a) Calculatel day 37°C BOD of sewage sample whose 5 days 20°C BOD
+is 100 mg/L. Assume the deoxygenation constant at 20°C ad 0.1.
+(b) What are the factors which will affect peak run off rate?
+(c) What is stratification in lakes? Explain briefly Eutrophication of lakes.
+(d) Mention merits and demerits imhoff tank.
+(e) Explain in detail grassland ecosystem.
+
+2. (a) A waste water effluent of 500 I/s with a BOD =50 mg/l, DO = 3.0 mg/l and
+temperature of 23°C enters a river where the flow is 25 m?/s, and BOD = 4.0 mg/l, DO=
+8.2 mg/l and temperature of 15°, kiof the waste is 0.1 per day at 20°C. The velocity of
+the river downstream is 0.18 m/s and depth of 1.2 m. Determine the following after
+mixing of waste water with the river water
+(i) Combined discharge (ii) BOD (iii) DO (iv) temperature [4]
+
+(b) Explain rainwater harvesting and describe the rainwater harvesting systems. [4]
+
+(e) Explain in detail characteristics of sewage. [4]
+
+3. (a) When is pumping of sewage required in a sewerage system? Drawasketch [6]
+of a typical pumping station and explain.
+(b) Explain the two general methods for sewage disposal. Discuss their merits [6]
+and demerits.
+
+V/2.
+--- page 2 ---
+ow of 50 million
+
+[5]
+
+4. (a) Estimate the screen requirement for a plant treating a peak fl
+
+litres per day of sewage.
+
+(b) Discuss the design consideration involved in an activated sludge plant [7]
+(include HRT, Volumetric loading, F/M ratio, SRT)
+
+atate of 5 million liters per day from a primary [6]
+Clarifier to a standard rate trickling filter. The 5 day BOD of the influent is
+
+160 mg/l. The value of the adopted organic loading is to be 160 g/m3/d, and
+
+surface loading 20001/m2/d. Determine the volume of the filter and its depth.
+
+Also calculate the efficiency of this filter unit.
+
+5. (a) A sewage is flowing at
+
+(b) Discuss in detail types of settling in sedimentation tank. [6]
+6. (a) A 200 mm dia sewer is to flow at 0.3 depth on a grade ensuring a degree [6]
+of self-cleansing equivalent to that obtained at full depth at a velocity of 0.80 m/s.
+Find the required grade and associated velocity at rate of discharge at this depth.
+Assume Manning’s rugosity coefficient as 0.013. The variation of n with depth
+may be neglected.Given : d/D = 0.3, a/A = 0.252, r/R = 0.684.
+(b) Explain the need of sewer appurtenances. Explain in short manhole, [6]
+drop manhole and siphon spillway
+7. Write short notes(Any Four): [12]
+(a) Food webs and importance
+(b) Sustainable and ecofriendly development
+(c) Water Act and Water cess Act
+(d) Anaerobic digestion of sludge
+(e) Disaster management for flood
+Da
+
+)-
+
+af
+````
+
 ## 2014-15 · Final-Exam · Sem 6 · paper dd4e1ae75b02
 
 - Departments: Civil
@@ -1956,143 +2202,6 @@ eS =
 (6)
 ````
 
-## 2014-15 · Re-Exam · Sem 6 · paper 4a35a0fcbaec
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/ENVIRONMENTAL ENGINEERING II/ENVIRONMENTAL ENGINEERING II B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 16/05/2016
-- Text: ocr (3 pages), mean OCR confidence 89.9
-
-````text
-SVEKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT 6&
-
-NGINEERING
-
-Programme: B.Tech (Civil) Year: If Semester: VI
-Academic Year: 2015-16
-Batch: 2014-15
-
-Subject: Environmental Engineering-II Marks: 60
-Time: 2.00 pm -&
-Date: 16/05/2016 Durations: 3 hrs.
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-NB:
-: 1. Question No. | is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. In all 5 questions to attempted.
-4, Aili questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) | Solve Any Four 42
-a) What are pathogens? Enlist some of the major water borne diseases. 03 |
-b) Differentiate between aerobic and anaerobic decomposition of wastes. 03 |
-c) | Define BOD, COD, TOC ; 03 |
-d) Distinguish between Dry weather flow and wet weather flow 03!
-e) Define shock loading. What are the effects of shock loading? ; 03}
-
-|
-
-|
-Q.2) | Solve [42 |
-a) Explain various Physical, Chemical and biological characteristics of Muncipal 06
-
-sewage. ;
-
-b) Give the Expression for I*t stage BOD of a sewage, If the 5 day 30 °C BOD of 6
-sewage sample is 150 mg/lit. Calculate its 5 days 20 0C BOD. Assume the de- 0
-
-oxygenation Constant at 20 °C Kp 20° =0.1
---- page 2 ---
-os
-
-greet % Per
-
-| Q.3) | Solve 42 |
-a) 125 cumecs of sewage of a city is discharged in a perennial river which is fully | 06 \
-saturated with oxygen and flows at a minimum rate of 1600 cumecs with a
-minimum velocity of 0.12 m/sec. If the 5 day BOD of the sewage is 300 mg/lit, find
-.. | out where the critical DO will occur in the river. Assume
-(i) The Coefficient of Purification of the river as 4.0
-(ii) The ultimate BOD as 125 % of the 5 days BOD of the mixture of sewage
-and river water. |
-b) State the different systems of sewerage commonly used and describe their relative 06 |
-|__| merits and demerits. _|
-}
-Q.4) | Solve 49 |
-a) Draw a neat Sketch of Domestic Wastewater treatment plant. Explain the | 4 6 |
-|__| different treatment processes used in wastewater treatment. '
-| b) Define Rain water harvesting, Explain with suitable sketch the components of roof | 06 I
-| top harvesting system. | i
-Q.5) | Solve 42°}
-a) Design a primary settling tank of rectangular shape for a town having population 66 |
-
-of 50000 with water supply of 135 I/c/d. Assume suitable data as essential.
-
-Dy
-
-Why secondary settling tanks are provided after biological treatment by either | 96 |
-
-activated sludge process or trickling filter!
-
-\
-
-Q.6)
-
-Solve
-
-a)
-
-What is meant by sludge digestion? What are the operational problems with 06
-sludge digestion process?
-
-b)
-
-An average operating data for conventional activated sludge treatment plant is as | @¢
-follows:
-(i) Waste Water flow- 30000 m3/day
-(ii) Volume of aeration tank= 10000 m?
-(iii) Influent BOD= 250 mg/l
-(iv) Effluent BOD= 20 mg/l
-(v) MLSS= 2500 mg/l
-(vi) Effluent SS= 30 mg/l
-(vii) Waste sludge SS= 9000 mg/I
-(viii) Quantity of waste sludge= 200 m? /day
-Based on the above data determine,
-e Aeration period,
-e Food/ microorganism ratio,
-e BOD removal efficiency in percentage,
-e Sludge age, days
-
-2)
-
-|
-
-2/3
---- page 3 ---
-Wy
-"eae,
-
-Q.7} | Solve any Four Lo
-a) Define Ecosystem, Explain the structural features of an ecosystem. 04 |
-
-b) What do you understand by ecological pyramid? Enlist different types of 0%
-
-Ecological Pyramid.
-c) What is Disaster Management? Enlist the environmental agencies responsible for | 94
-
-disaster mitigation in India
-d) Explain the Environmental protection act, 1986, why it is also called Umbrella act. | 03 |
-
-e) Under what circumstances septic tank are most suitable? 05
-````
-
 ## 2014-15 · Re-Exam · Sem 6 · paper edeba17ea94c
 
 - Departments: Civil
@@ -2214,115 +2323,6 @@ iil) BOD equivalent population hydraulic equivalent population
 Assume 40 gm BOD/person/day of wastewater at a flow rate 180 litres/person/day.
 
 (c) Explain difference in design of primary and secondary clarifiers. (04)
-````
-
-## 2014-15 · Re-Exam · Sem 6 · paper 97c1a57f358a
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/Environmental Engineering II/Environmental Engineering II Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 07/05/2016
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL) Year: III Semester: VI
-
-Academic Year: 2015 - 16
-
-Subject: Environmental Engineering-II Marks: 60
-Time: 10.00 am'-
-Date: 07/05/2016 Durations: 3 (hrs}%,\
-
-Final Examination (Batch 2015-16)
-Re - Examination (Batch 2014-15)
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-1. Answer any Four questions [12]
-(a) Calculatel day 37°C BOD of sewage sample whose 5 days 20°C BOD
-is 100 mg/L. Assume the deoxygenation constant at 20°C ad 0.1.
-(b) What are the factors which will affect peak run off rate?
-(c) What is stratification in lakes? Explain briefly Eutrophication of lakes.
-(d) Mention merits and demerits imhoff tank.
-(e) Explain in detail grassland ecosystem.
-
-2. (a) A waste water effluent of 500 I/s with a BOD =50 mg/l, DO = 3.0 mg/l and
-temperature of 23°C enters a river where the flow is 25 m?/s, and BOD = 4.0 mg/l, DO=
-8.2 mg/l and temperature of 15°, kiof the waste is 0.1 per day at 20°C. The velocity of
-the river downstream is 0.18 m/s and depth of 1.2 m. Determine the following after
-mixing of waste water with the river water
-(i) Combined discharge (ii) BOD (iii) DO (iv) temperature [4]
-
-(b) Explain rainwater harvesting and describe the rainwater harvesting systems. [4]
-
-(e) Explain in detail characteristics of sewage. [4]
-
-3. (a) When is pumping of sewage required in a sewerage system? Drawasketch [6]
-of a typical pumping station and explain.
-(b) Explain the two general methods for sewage disposal. Discuss their merits [6]
-and demerits.
-
-V/2.
---- page 2 ---
-ow of 50 million
-
-[5]
-
-4. (a) Estimate the screen requirement for a plant treating a peak fl
-
-litres per day of sewage.
-
-(b) Discuss the design consideration involved in an activated sludge plant [7]
-(include HRT, Volumetric loading, F/M ratio, SRT)
-
-atate of 5 million liters per day from a primary [6]
-Clarifier to a standard rate trickling filter. The 5 day BOD of the influent is
-
-160 mg/l. The value of the adopted organic loading is to be 160 g/m3/d, and
-
-surface loading 20001/m2/d. Determine the volume of the filter and its depth.
-
-Also calculate the efficiency of this filter unit.
-
-5. (a) A sewage is flowing at
-
-(b) Discuss in detail types of settling in sedimentation tank. [6]
-6. (a) A 200 mm dia sewer is to flow at 0.3 depth on a grade ensuring a degree [6]
-of self-cleansing equivalent to that obtained at full depth at a velocity of 0.80 m/s.
-Find the required grade and associated velocity at rate of discharge at this depth.
-Assume Manning’s rugosity coefficient as 0.013. The variation of n with depth
-may be neglected.Given : d/D = 0.3, a/A = 0.252, r/R = 0.684.
-(b) Explain the need of sewer appurtenances. Explain in short manhole, [6]
-drop manhole and siphon spillway
-7. Write short notes(Any Four): [12]
-(a) Food webs and importance
-(b) Sustainable and ecofriendly development
-(c) Water Act and Water cess Act
-(d) Anaerobic digestion of sludge
-(e) Disaster management for flood
-Da
-
-)-
-
-af
 ````
 
 ## 2014-15 · Re-Exam · Sem 6 · paper 3a0515ee09fd

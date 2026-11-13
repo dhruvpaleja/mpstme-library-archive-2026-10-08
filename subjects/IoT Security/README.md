@@ -14,9 +14,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_IoT security(702EX0E013)_2025-2026.pdf |
 | 2025 | Final-Exam | Question paper | Sem 7 | B TECH / EXTC | IoT Security, Sem-VII, Year 2025--26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech EXTC 7006 | QP_IoT security(702EX0E013)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_IoT security(702EX0E013)_2025-2026.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / EXTC | IOT Security, Sem-VII, A Y 2023-24, Final Exam.pdf |
 | — | — | Question paper | Sem 8 | MBA TECH / EXTC | IoT Security.pdf |
 

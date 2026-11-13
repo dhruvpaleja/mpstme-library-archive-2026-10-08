@@ -381,98 +381,43 @@ t 7
 Vj
 ````
 
-## 2011-12 · Re-Exam · Trim 15 · paper d41bb4058cca
+## 2012-13 · Exam not stated · Trim 15 · paper 1905fe7be270
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS PROCESS MANAGEMENT/BUSINESS PROCESS MANAGEMENT BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: exam date: 21/06/2012
-- Text: ocr (2 pages), mean OCR confidence 92.3
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS PROCESS MANAGEMENT/Scan 0011(1).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 17/4/2013
+- Text: text (1 page)
 
 ````text
-ASAT OF ag,
-4 ey Mio, :
-
-™~~ SVKM’s NMIMS i, \
-Mukesh Patel School of Technology Mana ement & Engi ( S B *,
-Programme: MBA Tech - ALL STREAMS Year: V Trimester: ARY JE Ss
-Academic Year : 2011-2012 Le )
-Batch: 2011-12 a,
-Subject: Business Process Management Marks: -
-Date: 21/06/2012 Dusation: diiee. ~e
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB (2): :
-1. All Questions are compulsory.
-2. Figure in brackets on the right hand side indicate full marks.
-3. Make suitable assumptions wherever necessary and mention them clearly.
-
-Q1) Following is the process of Container Inspection and Repair (CIR) operation for a Container
-Industry Company:
-
-The CIR is performed in a yard spread over 13 acres and has 50 inspection points. Once a
-container arrives at the entry gate of the yard, the staff involved verifies the transporter’s
-documents based on the company guidelines. Once the documents are verified, they are entered
-into the Container Information System (CIS). This gate is manned 24x7x365 as the data from
-this system is vital to the further processing in the CIR operation. The next stage is surveying and
-inspection process followed by an estimation of damages. This activity is outsourced to a
-specialist company which surveys, inspects and prepares an estimation report.
-
-Damages up to Rs 1000 are approved automatically and can be directly transferred to the
-awaiting repair stack. Beyond this limit, a system entry is prepared and the approval from a
-higher authority is needed to proceed further. Heavily damaged containers are removed directly
-from the facility and are not accepted until the damages are cleared. If the repair slots are free
-and the approvals are received, then the repair operation can begin. The yard contains 50 Pre-
-Trip Inspections (PTI) points. The PTI is carried out in order to determine whether the machinery
-units aye in working condition or not. It is imperative that any defects be detected in this process
-
-in order to prevent machine failure during use.
-
-\
+SVKM's NMIMS
+Mukesh Pate1 School Of Technolorn Management (S
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester:
+Academic Year : 2012-2013
+Subject:   BUSINESS PROCESS MANAGEMENT   Marks:   50
+Time:   10.30am To 12.30pm
+Date:   17/4/2013   Duration:   2   hrs.
+Final - Examination
+All Question Carry Equal Marks
+91.   (a) What is business process management and how it is related to your area of
+management?   (5)
+(b) Does business process management always involve information technology?   (5)
+92.   (a) List seven generic steps involved in many BPM projects.   (5)
+(b) List and discuss seven fundamental principles to keep in mind when undertaking a
+BPM initiative.   (5)
+93.   (a) Compare and Contrast between Business Process Management (BPM) and Business
+)   Process Re-engineering.   (5)
+(b) Explain what is JIT. How can it be used as a Business Strategy in a FMCG Company.
+Cite examples.   (5)
+Q4.   Write Short Notes on
+(a) Gap Analysis
+(b) DMAlC Approach
+(c) Balanced Scorecard
+(d) Kaizen
 4
-
-¥
-
-Some’ A the inefficiencies in the system are as follows:,
-
-Delays in data entry at the gate contribute significantly to delays in the estimation process. The
-company has other yards where this operation is being performed and data from the other yards
-are communicated to the company via email. Currently the inspection process is manual and
-hence lacks automation. After surveying also, the containers are stacked manually which is time
-consuming and individual containers cannot be tracked.
-
-Vb
---- page 2 ---
-Qla) Develop a Business Process Model Diagram to map the existing process. [7 Marks]
-
-Qlb) Using the DMAIC Approach suggest means to improve the existing process by clearly
-articulating the process measurement yardsticks. [8 Marks]
-
-Q2) Comment on the following statement, - “Toyota pioneered lean thinking (in the 1980’s)
-based on the value definition which was to satisfy societal expectations about long-term
-employment and stable supplier relations.” [ 5 Marks]
-
-Q3) Write Short Notes on any of the following (Any Two) [5 X2 =10 Marks]
-a) Fishbone Diagram :
-b) Malcolm Baldrige National Quality Award (MBNQA)
-c) Six Sigma
-
-Q4) Explain the relevance of ‘Genetic Algorithms’ in executing business processes in an
-organization giving suitable illustration. [ 10 Marks]
-
-Q5). Explain the benefits of implementing Kanban system and its limitations (if any) giving
-suitable illustrations. [ 10 Marks]
-
-: XXXXXXXXXX
-
-“h
 ````
 
-## Year not stated · Exam not stated · Trim 15 · paper 3282dcacad95
+## 2011-12 · Exam not stated · Trim 15 · paper 3282dcacad95
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -580,38 +525,93 @@ XXXXXXXXXX
 2/r—
 ````
 
-## Year not stated · Exam not stated · Trim 15 · paper 1905fe7be270
+## 2011-12 · Re-Exam · Trim 15 · paper d41bb4058cca
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS PROCESS MANAGEMENT/Scan 0011(1).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 17/4/2013
-- Text: text (1 page)
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS PROCESS MANAGEMENT/BUSINESS PROCESS MANAGEMENT BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: exam date: 21/06/2012
+- Text: ocr (2 pages), mean OCR confidence 92.3
 
 ````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technolorn Management (S
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester:
-Academic Year : 2012-2013
-Subject:   BUSINESS PROCESS MANAGEMENT   Marks:   50
-Time:   10.30am To 12.30pm
-Date:   17/4/2013   Duration:   2   hrs.
-Final - Examination
-All Question Carry Equal Marks
-91.   (a) What is business process management and how it is related to your area of
-management?   (5)
-(b) Does business process management always involve information technology?   (5)
-92.   (a) List seven generic steps involved in many BPM projects.   (5)
-(b) List and discuss seven fundamental principles to keep in mind when undertaking a
-BPM initiative.   (5)
-93.   (a) Compare and Contrast between Business Process Management (BPM) and Business
-)   Process Re-engineering.   (5)
-(b) Explain what is JIT. How can it be used as a Business Strategy in a FMCG Company.
-Cite examples.   (5)
-Q4.   Write Short Notes on
-(a) Gap Analysis
-(b) DMAlC Approach
-(c) Balanced Scorecard
-(d) Kaizen
+ASAT OF ag,
+4 ey Mio, :
+
+™~~ SVKM’s NMIMS i, \
+Mukesh Patel School of Technology Mana ement & Engi ( S B *,
+Programme: MBA Tech - ALL STREAMS Year: V Trimester: ARY JE Ss
+Academic Year : 2011-2012 Le )
+Batch: 2011-12 a,
+Subject: Business Process Management Marks: -
+Date: 21/06/2012 Dusation: diiee. ~e
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB (2): :
+1. All Questions are compulsory.
+2. Figure in brackets on the right hand side indicate full marks.
+3. Make suitable assumptions wherever necessary and mention them clearly.
+
+Q1) Following is the process of Container Inspection and Repair (CIR) operation for a Container
+Industry Company:
+
+The CIR is performed in a yard spread over 13 acres and has 50 inspection points. Once a
+container arrives at the entry gate of the yard, the staff involved verifies the transporter’s
+documents based on the company guidelines. Once the documents are verified, they are entered
+into the Container Information System (CIS). This gate is manned 24x7x365 as the data from
+this system is vital to the further processing in the CIR operation. The next stage is surveying and
+inspection process followed by an estimation of damages. This activity is outsourced to a
+specialist company which surveys, inspects and prepares an estimation report.
+
+Damages up to Rs 1000 are approved automatically and can be directly transferred to the
+awaiting repair stack. Beyond this limit, a system entry is prepared and the approval from a
+higher authority is needed to proceed further. Heavily damaged containers are removed directly
+from the facility and are not accepted until the damages are cleared. If the repair slots are free
+and the approvals are received, then the repair operation can begin. The yard contains 50 Pre-
+Trip Inspections (PTI) points. The PTI is carried out in order to determine whether the machinery
+units aye in working condition or not. It is imperative that any defects be detected in this process
+
+in order to prevent machine failure during use.
+
+\
 4
+
+¥
+
+Some’ A the inefficiencies in the system are as follows:,
+
+Delays in data entry at the gate contribute significantly to delays in the estimation process. The
+company has other yards where this operation is being performed and data from the other yards
+are communicated to the company via email. Currently the inspection process is manual and
+hence lacks automation. After surveying also, the containers are stacked manually which is time
+consuming and individual containers cannot be tracked.
+
+Vb
+--- page 2 ---
+Qla) Develop a Business Process Model Diagram to map the existing process. [7 Marks]
+
+Qlb) Using the DMAIC Approach suggest means to improve the existing process by clearly
+articulating the process measurement yardsticks. [8 Marks]
+
+Q2) Comment on the following statement, - “Toyota pioneered lean thinking (in the 1980’s)
+based on the value definition which was to satisfy societal expectations about long-term
+employment and stable supplier relations.” [ 5 Marks]
+
+Q3) Write Short Notes on any of the following (Any Two) [5 X2 =10 Marks]
+a) Fishbone Diagram :
+b) Malcolm Baldrige National Quality Award (MBNQA)
+c) Six Sigma
+
+Q4) Explain the relevance of ‘Genetic Algorithms’ in executing business processes in an
+organization giving suitable illustration. [ 10 Marks]
+
+Q5). Explain the benefits of implementing Kanban system and its limitations (if any) giving
+suitable illustrations. [ 10 Marks]
+
+: XXXXXXXXXX
+
+“h
 ````

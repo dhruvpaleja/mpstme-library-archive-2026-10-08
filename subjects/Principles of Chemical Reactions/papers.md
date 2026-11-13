@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/PRINCIPLES OF CHEMICAL REACTIONS/Principles of chemical Reactions 2017-18 (Chemical).pdf`
 - Printed on paper: max marks: 70; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 87.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 — SVKM’s NMIMS
@@ -81,7 +82,6 @@ ae “c AlCly .
 SS ae
 A
 iv) Diazonium salt is basis of : reaction.
-p) Mannich q) Schmidt r) Perkin s) Sandmeyer
 
 v) The reagent for nucleophilic substitution is
 

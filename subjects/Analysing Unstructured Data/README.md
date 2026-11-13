@@ -14,21 +14,21 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech AI 7051 | ANS_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech AI 7051 | QP_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech DS 7052 | QP_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech AI 7051 | ANS_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Analysing Unstructured Data(703TM0E019)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Analysing Unstructured Data(703TM0E019)_2024-2025.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

@@ -14,7 +14,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_INTRODUCTION TO STATISTICAL LEARNING FOR DATA SCIENCE(701DB0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_INTRODUCTION TO STATISTICAL LEARNING FOR DATA SCIENCE(701DB0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_INTRODUCTION TO STATISTICAL LEARNING FOR DATA SCIENCE(701DB0C001)_2025-2026.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

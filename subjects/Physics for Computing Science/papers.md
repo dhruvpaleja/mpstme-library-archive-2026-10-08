@@ -1,8 +1,149 @@
 # Physics for Computing Science: question papers in full
 
-11 unique papers · 2022-23 to 2024-25 · Common (all branches), Computer Science and Business Systems
+11 unique papers · 2022-23 to 2025-26 · Common (all branches), Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Exam not stated · Sem 1 · paper b26c112e9a6b
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/PHYSICS FOR COMPUTING SCIENCE/B Tech, (CSBS), Physics for Computing Science, Sem-I, Batch 2022-23, 2023-2024 & _195ae0d1.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 89.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+
+Program/s: B Tech Year: First; Semester: I
+Stream/s: CSBS
+
+Subject: Physics for Computing Science Time: 3 hrs (2:0 bowuto 5s o0p)
+Date:_27 / \\_/ 2025 No. of Pages: 3
+
+Marks: 100.
+
+Re-Examination (2022-23, 2023-24 & 2024-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of the remaining questions, attempt any__4 _ questions.
+
+3)In all___5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+m = 9.1 x 103! kg; e = 1.6 x 10° C; k = 1.38 x 1073 m2.Kg.s?.K? =8.6x105eV Kt; h=6.63x1074).s = 4.14 x 10-15
+eV-s; Avogadro number=6.022 x 10 mol
+
+Answer briefly: Marks
+a. What is a diffraction grating? How are gratings manufactured? {4]
+CO-1; SO-
+2; BL-1,
+b. State and explain Gauss’s law in electrostatics. [4]
+CO-4; SO-
+2; BL-2
+
+Ql The critical angle of incidence for total reflection in the case of water is 48°. What is | [4]
+
+c.
+CO-1;SO- | the polarization angle? What is the angle of refraction corresponding to the
+
+1; BL-3 polarization angle?
+
+d. A baseball of mass 0.145 kg has its speed measured to an uncertainty of 1.0 mm/s. | [4]
+HIGnA What is the minimum uncertainty in its position?
+
+e. What is the function of the optical resonator? [4]
+CO-3; SO-
+
+2; BL-2
+
+a Explain how Newton’s rings are formed. Derive the condition for dark rings, and
+
+10-1; SO- 10
+Q2 mca show that the radii of dark rings are proportional to the square root of natural numbers 0)
+
+b Explain the resolving power of the grating. A grating has 10 cm of the surface ruled
+
+os :
+ay with 9000 lines/em. what is the resolving power of the grating in the first order? (6)
+--- page 2 ---
+Cc.
+
+A metallic element has a cubic unit cell. Its molar volume is Vmol=7.2 cm*/mol, and
+
+CO-2; so. | the lattice constant of its unit cell is a = 2.85 A. Determine the crystal structure of | [4]
+1; BL-3 the element
+a. Determine atomic radius, effective number of atoms, coordination number, atomic
+CO-2; SO- . : : . [10]
+L BL-3 packing fraction, and void space of FCC lattices
+Q3 | b. Explain Brewster’s law and describe how it helps in understanding polarization by
+CO-1; SO- . [6]
+2; BL-2 reflection.
+Cc. Explain what is meant by natural frequency. Given the expression for the natural [4]
+ee 0- frequency of a simple pendulum. On which factors does it depend?
+a. Explain the construction and working of a He-Ne laser with an energy level diagram
+CO-3; SO- [10]
+2; BL-2
+b. Discuss the findings of the photoelectric effect.
+CO-2; SO- [6]
+Q4 | 9; BL2
+Newton’s rings are formed by light reflected normally from a convex lens of radius
+om of curvature of 100 cm and a glass plate with liquid in between them. The diameter [4]
+rae of the nth dark ring is 2.25 mm, and that of the (n + 9)" dark ring is 4.5 mm. Calculate
+the refractive index of the liquid. Given 4 = 6328 A.
+5} a. Explain how the position of the Fermi level changes for n-type and p-type
+Pp
+CO-2; SO- . . d dopi ; [10]
+2; BL-2 semiconductors with respect to temperature and doping concentration.
+b. Calculate the wavelength of emission from a semiconductor laser whose band gap (61
+ir ~ | energy is 1.5 eV. What are the advantages of the semiconductor laser?
+Cc. Three charges are arranged in a straight line. Q1=+2nC is at x=0. Q2=+InC is at 14]
+aa x=2cm. Q3=3nC is at x=6cm. What is the net electrostatic force on Q2?
+Q6 | a. What is a Carnot reversible cycle? Explain its working.
+CO-2; SO- [10]
+2; BL-2
+b A reversible engine takes heat energy from a reservoir at a temperature of 527°C
+CO-2; soQ-_ | and gives out heat to the sink at 127° C . How many calories per second must it take | [6]
+1; BL-3 from the reservoir in order to produce useful work at the rate of 750 W?
+Calculate the refractive indices of the core and cladding material of a fibre from the
+c,
+CO-2; SO- following data. Numerical aperture = 0.22 and fractional difference of indices = | [4]
+1; BL-3 | 0.012.
+--- page 3 ---
+Q7
+
+Discuss how the time period and maximum velocity of SHM depend on amplitude
+
+CO-1; so- | and angular frequency. Find the maximum velocity and acceleration of a particle | [10]
+1; BL-3 executing SHM of period 10a seconds and amplitude 7 = 10? m.
+
+; A mass of 6 kg stretches a spring 0.3m from its equilibrium position. The mass is
+CO-1; SO- removed, and another body of mass 2.0 kg is hung from the spring. What would be | [6]
+1; BL-3 the period of motion if the spring is now stretched and released?
+
+c. Find the energy required for an electron to jump from the ground state to the second
+CO-4; SO- [4]
+
+1; BL-3
+
+excited state trapped in a three-dimensional box of length 9 A.
+--- page 4 ---
+
+````
 
 ## 2024-25 · Final + Re-Exam · Sem 1 · paper f8205533d895
 
@@ -11,6 +152,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/PHYSICS FOR COMPUTING SCIENCE/Physics for Computing Science, Sem-I, Year 2024-25, Final Exam, 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Dec 2024
 - Text: ocr (3 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a
@@ -39,7 +181,6 @@ Instructions: RE EXAMINATION(2023-2024) / C 2022-20%5)
 5. Out of the remaining questions, attempt any 4 questions.
 6. In all 5 questions to be attempted
 7. Assume Suitable data if necessary
-8. m=9.1 x 10-31 kg; e= 1.6 x 10*-19 C; k = 1.3806452 x 104-23 m’2.Kg.s*-2.K*-1 = 8.6 x 104-5 eV
 K*-1; h = 6.6260715x 10%-34 J.s; Avogadro number=6.02214076*1023 mol-1
 9. Instruction... a :
 
@@ -434,147 +575,6 @@ BL-3,4   the second excited state trapped in a three-dimensional box of length 4
 ********** 3 **********
 ````
 
-## 2023-24 · Exam not stated · Sem 1 · paper b26c112e9a6b
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/PHYSICS FOR COMPUTING SCIENCE/B Tech, (CSBS), Physics for Computing Science, Sem-I, Batch 2022-23, 2023-2024 & _195ae0d1.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 89.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026
-
-Program/s: B Tech Year: First; Semester: I
-Stream/s: CSBS
-
-Subject: Physics for Computing Science Time: 3 hrs (2:0 bowuto 5s o0p)
-Date:_27 / \\_/ 2025 No. of Pages: 3
-
-Marks: 100.
-
-Re-Examination (2022-23, 2023-24 & 2024-25)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of the remaining questions, attempt any__4 _ questions.
-
-3)In all___5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-m = 9.1 x 103! kg; e = 1.6 x 10° C; k = 1.38 x 1073 m2.Kg.s?.K? =8.6x105eV Kt; h=6.63x1074).s = 4.14 x 10-15
-eV-s; Avogadro number=6.022 x 10 mol
-
-Answer briefly: Marks
-a. What is a diffraction grating? How are gratings manufactured? {4]
-CO-1; SO-
-2; BL-1,
-b. State and explain Gauss’s law in electrostatics. [4]
-CO-4; SO-
-2; BL-2
-
-Ql The critical angle of incidence for total reflection in the case of water is 48°. What is | [4]
-
-c.
-CO-1;SO- | the polarization angle? What is the angle of refraction corresponding to the
-
-1; BL-3 polarization angle?
-
-d. A baseball of mass 0.145 kg has its speed measured to an uncertainty of 1.0 mm/s. | [4]
-HIGnA What is the minimum uncertainty in its position?
-
-e. What is the function of the optical resonator? [4]
-CO-3; SO-
-
-2; BL-2
-
-a Explain how Newton’s rings are formed. Derive the condition for dark rings, and
-
-10-1; SO- 10
-Q2 mca show that the radii of dark rings are proportional to the square root of natural numbers 0)
-
-b Explain the resolving power of the grating. A grating has 10 cm of the surface ruled
-
-os :
-ay with 9000 lines/em. what is the resolving power of the grating in the first order? (6)
---- page 2 ---
-Cc.
-
-A metallic element has a cubic unit cell. Its molar volume is Vmol=7.2 cm*/mol, and
-
-CO-2; so. | the lattice constant of its unit cell is a = 2.85 A. Determine the crystal structure of | [4]
-1; BL-3 the element
-a. Determine atomic radius, effective number of atoms, coordination number, atomic
-CO-2; SO- . : : . [10]
-L BL-3 packing fraction, and void space of FCC lattices
-Q3 | b. Explain Brewster’s law and describe how it helps in understanding polarization by
-CO-1; SO- . [6]
-2; BL-2 reflection.
-Cc. Explain what is meant by natural frequency. Given the expression for the natural [4]
-ee 0- frequency of a simple pendulum. On which factors does it depend?
-a. Explain the construction and working of a He-Ne laser with an energy level diagram
-CO-3; SO- [10]
-2; BL-2
-b. Discuss the findings of the photoelectric effect.
-CO-2; SO- [6]
-Q4 | 9; BL2
-Newton’s rings are formed by light reflected normally from a convex lens of radius
-om of curvature of 100 cm and a glass plate with liquid in between them. The diameter [4]
-rae of the nth dark ring is 2.25 mm, and that of the (n + 9)" dark ring is 4.5 mm. Calculate
-the refractive index of the liquid. Given 4 = 6328 A.
-5} a. Explain how the position of the Fermi level changes for n-type and p-type
-Pp
-CO-2; SO- . . d dopi ; [10]
-2; BL-2 semiconductors with respect to temperature and doping concentration.
-b. Calculate the wavelength of emission from a semiconductor laser whose band gap (61
-ir ~ | energy is 1.5 eV. What are the advantages of the semiconductor laser?
-Cc. Three charges are arranged in a straight line. Q1=+2nC is at x=0. Q2=+InC is at 14]
-aa x=2cm. Q3=3nC is at x=6cm. What is the net electrostatic force on Q2?
-Q6 | a. What is a Carnot reversible cycle? Explain its working.
-CO-2; SO- [10]
-2; BL-2
-b A reversible engine takes heat energy from a reservoir at a temperature of 527°C
-CO-2; soQ-_ | and gives out heat to the sink at 127° C . How many calories per second must it take | [6]
-1; BL-3 from the reservoir in order to produce useful work at the rate of 750 W?
-Calculate the refractive indices of the core and cladding material of a fibre from the
-c,
-CO-2; SO- following data. Numerical aperture = 0.22 and fractional difference of indices = | [4]
-1; BL-3 | 0.012.
---- page 3 ---
-Q7
-
-Discuss how the time period and maximum velocity of SHM depend on amplitude
-
-CO-1; so- | and angular frequency. Find the maximum velocity and acceleration of a particle | [10]
-1; BL-3 executing SHM of period 10a seconds and amplitude 7 = 10? m.
-
-; A mass of 6 kg stretches a spring 0.3m from its equilibrium position. The mass is
-CO-1; SO- removed, and another body of mass 2.0 kg is hung from the spring. What would be | [6]
-1; BL-3 the period of motion if the spring is now stretched and released?
-
-c. Find the energy required for an electron to jump from the ground state to the second
-CO-4; SO- [4]
-
-1; BL-3
-
-excited state trapped in a three-dimensional box of length 9 A.
---- page 4 ---
-
-````
-
 ## 2023-24 · Final + Re-Exam · Sem 1 · paper 760847e31e98
 
 - Departments: Common (all branches)
@@ -737,6 +737,151 @@ c. An electron is confined to a one-dimensional potential well of length 3 A. Ca
 CO-2,3; SO- 1; [4]
 BL-4 the quantized energy values for the two lowest energy states.
 “
+````
+
+## 2023-24 · Re-Exam · Sem 1 · paper 9fa75d0c52b9
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/PHYSICS FOR COMPUTING SCIENCE/Physics for Computing Science, Sem-I, Batch 2021-22 & 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 4
+- Text: ocr (3 pages), mean OCR confidence 88.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT _,
+Academic Year: 2023-2024 ~
+
+aL.
+Program/s: B Tech Year: 2023-24 Semester: I
+Stream/s: CSBS
+
+Subject: Physics for Computing Science ; Time: 4 hrs (2. Pm to 5 P™)
+Date:_6 / 02/2024 ~ No. of Pages: 3
+Marks: 100
+
+Re-Examination (Re-exain year)? 2°21 LIZ 2er11-2.3
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+m = 9.1 x 10°? kg; e = 1.6 x 10° C; k = 1.3806452 x 107? m?.Kg.s2.K? =8.6x105eVK7; h=6.6260715x10"* J.s
+
+Answer briefly:
+Marks
+
+a. Describe the interference of light? State the necessary conditions for producing a | [4]
+CO- 1; $O-2;
+BL-1,2 sustained interference pattern
+b. “ [4]
+CO-1,2;S0-2; | Discuss the Gauss Law of electrostatics.
+
+Qi | 8:2
+
+A ray of light is incident on the surface of water of a refractive index of 1.33. If the [4]
+Cc.
+CO-2,3;S0-1; | reflected light is completely plane polarized, Calculate the angle of polarization and
+
+BL- . A
+iat hence angle of incidence and refraction.
+d. An electron is confined to a potential well of width 10 nm. Calculate the minimum | [4]
+CO-2,3 ;SO-1; oo .
+BL- 3,4 uncertainty in its velocity.
+e [4]
+CO-1 ; SO- 2; - . ‘
+BL-2 Explain spontaneous emission and stimulated emission with suitable diagrams.
+a. Describe how Newton’s rings are formed and derive the condition for dark rings and
+Q2 | CO-12;S0-2;
+BL- 2 show that the radii of dark rings are proportional to the square root of natural [10]
+
+numbers.
+--- page 2 ---
+b.
+CO- 2,3; SO- 1;
+
+Explain the diffraction gratings. A parallel beam of monochromatic light is allowed
+
+‘8
+BL- 2,4 to be incident on a plane grating having 6000 lines/cm and a second-order spectral | [6]
+line is found to be diffracted through 46°. Calculate the wavelength of light used.
+c. A substance with a face-centered cubic lattice has a density of 6250 kg/m? and a
+CO-2,3; SO- 1;
+BL- 3,4 molecular weight of 60.2. Calculate the lattice constant and the atomic radius. Given | [4]
+Avogadro number N = 6.02 x 107° (kg.mole)*.
+a. 10
+ae 50-2; | Formulate time-dependent Schrédinger’s wave equation. [10]
+Q3 |b. [6]
+Pt - SO- 2; Describe the production of plane-polarized light by reflection.
+ce 4
+soo 50-2; | Discuss the effect of damping on the natural frequency of an oscillator. [4]
+a.
+CO- 1; 50-2; [10]
+BL-2 Explain the construction and working of a Ruby laser with energy level diagram
+b. Illustrate atomic radius, effective number of atoms, co-ordination number, atomic
+CO- 1,2; $O- 2; : [6]
+Q4 BL-3 packing fraction, void space of BCC lattices
+c. Newton’s rings are formed by light reflected normally from convex lens of radius of
+CO- 2,3; $O-1;
+BL-4 curvature of 90 cm and a glass plate with liquid in between them. The diameter of [4]
+n dark ring is 2.25 mm and that of (n + 9)" dark ring is 4.5 mm. Calculate the
+refractive index of the liquid. Given A = 6000 A.
+Q5 | 2. Explain clearly the meaning of hole as referred to in a semiconductor. Describe
+CO-1; SO- 2;
+BL-2 intrinsic and extrinsic semiconductors. Is an n-type semiconductor negatively | [10]
+‘
+charged?
+b. Calculate the refractive indices of the core and cladding material of a fiber from the
+CO- 2,3; SO- 1; ;
+BL-4 following data. Numerical aperture = 0.22 and fractional difference of indices = | [6]
+0.012.
+[c. Two point charges of 0.7mC and 4.9uC are situated in free space at (2,3,6) and
+CO-2,3; SO- 1;
+BL- 4 (0,0,0). Assume distances are in meter; Calculate the magnitude of the force acting | [4]
+on the 0.7mC charge.
+Q6 | 4. Describe the Carnot engine and obtain an expression for its efficiency in terms of the
+CO- 1,2; $0- 2; [10]
+BL- 2 temperature of the source and the sink.
+b. In a thermal process, the pressure of a fixed mass of a gas is changed in such a
+CO- 2,3; SO- 1; [6]
+BL-4 manner that the gas molecules give out the heat of 20 J, and work of 8J is done on
+
+a>
+--- page 3 ---
+the gas. If the initial internal energy of the gas was 30 J, then calculate the final
+internal energy. oe
+
+C.
+
+A fibre cable has an acceptance angle of 30° and a core index of refraction of 1.4.
+
+CO- 2,3; SO- 1; [4]
+BL-4 Calculate the refractive index of the cladding.
+Q7 | a. Explain the equation for simple harmonic motion. The Total energy particle
+CO-2,3; SO- 1;
+BL-3 executing a SHM of period 2m seconds in 10.24 x 10% joule. The displacement of a | [10]
+particle at m/4 second is 0.08V2m. Compute the amplitude and mass of the particle.
+b. Calculate the maximum velocity and acceleration of a particle executing SHM of
+CO-2,3; SO- 1; . [6]
+BL-4 period 10n second and amplitude 5 x 10? m.
+Cc. Calculate the energy required for an electron to jump from ground state to the
+o CO-2,3; SO- 1; [4]
+BL-4 second excited state in a potential well of width L.
+|
 ````
 
 ## 2022-23 · Final-Exam · Sem 1 · paper 3b7e8f4fce54
@@ -1033,151 +1178,6 @@ BL-4 minimum uncertainty in its velocity.
 >
 
 3/3
-````
-
-## 2022-23 · Re-Exam · Sem 1 · paper 9fa75d0c52b9
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/PHYSICS FOR COMPUTING SCIENCE/Physics for Computing Science, Sem-I, Batch 2021-22 & 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 4
-- Text: ocr (3 pages), mean OCR confidence 88.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT _,
-Academic Year: 2023-2024 ~
-
-aL.
-Program/s: B Tech Year: 2023-24 Semester: I
-Stream/s: CSBS
-
-Subject: Physics for Computing Science ; Time: 4 hrs (2. Pm to 5 P™)
-Date:_6 / 02/2024 ~ No. of Pages: 3
-Marks: 100
-
-Re-Examination (Re-exain year)? 2°21 LIZ 2er11-2.3
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-m = 9.1 x 10°? kg; e = 1.6 x 10° C; k = 1.3806452 x 107? m?.Kg.s2.K? =8.6x105eVK7; h=6.6260715x10"* J.s
-
-Answer briefly:
-Marks
-
-a. Describe the interference of light? State the necessary conditions for producing a | [4]
-CO- 1; $O-2;
-BL-1,2 sustained interference pattern
-b. “ [4]
-CO-1,2;S0-2; | Discuss the Gauss Law of electrostatics.
-
-Qi | 8:2
-
-A ray of light is incident on the surface of water of a refractive index of 1.33. If the [4]
-Cc.
-CO-2,3;S0-1; | reflected light is completely plane polarized, Calculate the angle of polarization and
-
-BL- . A
-iat hence angle of incidence and refraction.
-d. An electron is confined to a potential well of width 10 nm. Calculate the minimum | [4]
-CO-2,3 ;SO-1; oo .
-BL- 3,4 uncertainty in its velocity.
-e [4]
-CO-1 ; SO- 2; - . ‘
-BL-2 Explain spontaneous emission and stimulated emission with suitable diagrams.
-a. Describe how Newton’s rings are formed and derive the condition for dark rings and
-Q2 | CO-12;S0-2;
-BL- 2 show that the radii of dark rings are proportional to the square root of natural [10]
-
-numbers.
---- page 2 ---
-b.
-CO- 2,3; SO- 1;
-
-Explain the diffraction gratings. A parallel beam of monochromatic light is allowed
-
-‘8
-BL- 2,4 to be incident on a plane grating having 6000 lines/cm and a second-order spectral | [6]
-line is found to be diffracted through 46°. Calculate the wavelength of light used.
-c. A substance with a face-centered cubic lattice has a density of 6250 kg/m? and a
-CO-2,3; SO- 1;
-BL- 3,4 molecular weight of 60.2. Calculate the lattice constant and the atomic radius. Given | [4]
-Avogadro number N = 6.02 x 107° (kg.mole)*.
-a. 10
-ae 50-2; | Formulate time-dependent Schrédinger’s wave equation. [10]
-Q3 |b. [6]
-Pt - SO- 2; Describe the production of plane-polarized light by reflection.
-ce 4
-soo 50-2; | Discuss the effect of damping on the natural frequency of an oscillator. [4]
-a.
-CO- 1; 50-2; [10]
-BL-2 Explain the construction and working of a Ruby laser with energy level diagram
-b. Illustrate atomic radius, effective number of atoms, co-ordination number, atomic
-CO- 1,2; $O- 2; : [6]
-Q4 BL-3 packing fraction, void space of BCC lattices
-c. Newton’s rings are formed by light reflected normally from convex lens of radius of
-CO- 2,3; $O-1;
-BL-4 curvature of 90 cm and a glass plate with liquid in between them. The diameter of [4]
-n dark ring is 2.25 mm and that of (n + 9)" dark ring is 4.5 mm. Calculate the
-refractive index of the liquid. Given A = 6000 A.
-Q5 | 2. Explain clearly the meaning of hole as referred to in a semiconductor. Describe
-CO-1; SO- 2;
-BL-2 intrinsic and extrinsic semiconductors. Is an n-type semiconductor negatively | [10]
-‘
-charged?
-b. Calculate the refractive indices of the core and cladding material of a fiber from the
-CO- 2,3; SO- 1; ;
-BL-4 following data. Numerical aperture = 0.22 and fractional difference of indices = | [6]
-0.012.
-[c. Two point charges of 0.7mC and 4.9uC are situated in free space at (2,3,6) and
-CO-2,3; SO- 1;
-BL- 4 (0,0,0). Assume distances are in meter; Calculate the magnitude of the force acting | [4]
-on the 0.7mC charge.
-Q6 | 4. Describe the Carnot engine and obtain an expression for its efficiency in terms of the
-CO- 1,2; $0- 2; [10]
-BL- 2 temperature of the source and the sink.
-b. In a thermal process, the pressure of a fixed mass of a gas is changed in such a
-CO- 2,3; SO- 1; [6]
-BL-4 manner that the gas molecules give out the heat of 20 J, and work of 8J is done on
-
-a>
---- page 3 ---
-the gas. If the initial internal energy of the gas was 30 J, then calculate the final
-internal energy. oe
-
-C.
-
-A fibre cable has an acceptance angle of 30° and a core index of refraction of 1.4.
-
-CO- 2,3; SO- 1; [4]
-BL-4 Calculate the refractive index of the cladding.
-Q7 | a. Explain the equation for simple harmonic motion. The Total energy particle
-CO-2,3; SO- 1;
-BL-3 executing a SHM of period 2m seconds in 10.24 x 10% joule. The displacement of a | [10]
-particle at m/4 second is 0.08V2m. Compute the amplitude and mass of the particle.
-b. Calculate the maximum velocity and acceleration of a particle executing SHM of
-CO-2,3; SO- 1; . [6]
-BL-4 period 10n second and amplitude 5 x 10? m.
-Cc. Calculate the energy required for an electron to jump from ground state to the
-o CO-2,3; SO- 1; [4]
-BL-4 second excited state in a potential well of width L.
-|
 ````
 
 ## 2022-23 · Re-Exam · Sem 1 · paper a9b6bedcd911

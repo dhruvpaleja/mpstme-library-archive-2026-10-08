@@ -478,6 +478,7 @@ BC wiil result in the same compressive stress in both parts?
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/STRENGTH OF MATERIALS& FABRICATION/Strength of Material & Fabrication Final Exam 2014-15.pdf`
 - Printed on paper: max marks: 100; exam date: 01/12/2014
 - Text: ocr (2 pages), mean OCR confidence 91.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -592,10 +593,155 @@ sa] a Ay
 
 v=0 ] a
 
-TELCEOME TEER EEETEL TPO EAE
 
 If the working stress in the steel is 185 MPa, determine the required wall thickness. The specific weight
 of the wine is 9800 N/cum. (10 marks)
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper def172c14f2f
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/STRENGTH OF MATERIALS& FABRICATION/STRENGTH OF MATERIAL & FABRICATION BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 109; exam date: 01/12/2014
+- Text: ocr (3 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CHEM) Year: II Semester: III
+
+Academic Year: 2014-15 y Batch: 2013-14
+
+Subject : Strength of Material & Fabrication v4 7 ne
+Marks: 109 ac M PSWMB )-
+
+Date : 01/12/2014 Time : a Je j
+
+Durations? KS) WHE f
+OnE
+wie SUNN
+
+Re - Examination
+
+Instructions:-
+
+1) Question no. 1 is compulsory.
+
+2) Attempt any four questions from the remaining six questions.
+3) Figures to the right indicate full marks.
+
+4) Furnish your answers with neat sketches, wherever necessary.
+5) Assume any missing data appropriately.
+
+Q.1) Attempt any four from the following.
+
+a) Two circular bars A and B of the same material are subjected to the same pull (P) and are
+deformed by the same amount. What is the ratio of their lengths, if one of them has a uniform
+diameter of 60 mm and the other tapers uniformly from 80mm from one end to 40mm at the other? ~— (5)
+
+b) Explain “Kernel of a section”. Obtain the kernel of section for a hollow rectangular section. (5)
+
+c) Explain “Slenderness ratio” and bring out its significance. Indicate how columns are classified
+on the basis of slenderness ratio. (5)
+
+d) A hollow steel shaft of 180mm external diameter and 120mm internal diameter transmits 1400 kw
+at 180rpm. Determine the values of shear stresses at the inner and outer surfaces of the shaft. (5)
+
+e) Elaborate on the various types of welded joints and their strength computations. (5)
+
+Q.2) a) A flat steel bar 200 mm x 20 mm x 8 mm is placed between two aluminium bars of size
+
+200 mm x 20 mm x 6 mm so as to form a composite bar. All the three bars are joined together at room
+temperature. Determine the stresses developed in each bar, when the temperature of the whole assembly
+is raised through 50°c. Use the following data.
+
+For steel — coefficient of thermal explanation = 12 x 10°/°c and E=200GPa.
+
+For aluminium — coefficient of thermal expansion = 24 x 10°/°c and E = 80 GPa. (10)
+Al (Zot G
+Stz| Bay t
+Al Bay G
+
+2Zgo | F 20>
+
+4/3
+--- page 2 ---
+Q.2) b) A cylindrical shell, 3 m long and 1 m in diameter, is subjected to an internal pressure of 1 N/mm”
+Estimate the circumferential and longitudinal stresses induced in the shell wall. Also find the maximum
+Shear stress and change in dimensions of the shell. Take <hel) Wall ftriclemers 04 [2m
+
+Take E = 200 GPa and Poisson’s Ratio = 0.3 for the material of the shell. (10)
+
+Q.3)a) Draw the axial force, shear force and bending moment diagrams for the beam loaded as
+
+shown below. (12)
+3BKEN
+6.KN Ik N[w
++ \ y
+2. x:
+re 2m << 2™ — Ave Sin |
+
+b) A strut 4 m long has a T-cross section as shown in figure. It is hinged at both the ends.
+Determine the crippling load, if modulus of elasticity for the material of the strut is 200 GPa.
+
+In which direction the strut is likely to buckle? ; (8)
+| } l50 : >
+6 : |
++ f
+A - - = - # J K~
+Q
+
+| ap
+
+Q.4) a) A hollow cylindrical column, carries a compressive load of 450 KN. Determine the maximum
+Permissible eccentricity of the load, if the’allowable compressive and tensile stress intensities are
+
+75 N/mm? and 20 N/mm? respectively. The external and internal diameters of the column are
+
+200 mm and 125 mm respectively.
+
+Plot the resultant stress diagram, indicating variation of the actual stress across the section of
+
+Column. (12)
+
+b) A shaft is to be designed to transmit 105 KW power at 160 rpm. The shear stress intensity in the
+material of the shaft is not to exceed 65 N/ mm’ and the angle of twist over a length of 3.5m
+
+should not exceed 1°.
+
+Determine a suitable diameter for this shaft. Take G = 8 x 10° N/ mm’ for the shaft material. (8)
+
+2/3
+--- page 3 ---
+Q.5)a) A simply supported T-Beam of span 5 m has a flange of 125 mm x 12.5 mm and web of
+187.5 mm x 8 mm. If maximum permissible stress is 150 N/mm’, find the maximum uniformly
+distributed load (UDL) that this beam can carry safely. (12)
+
+b) A solid shaft is subjected to a bending moment of 400 Nm and a torque of 600 Nm. Determine
+the diameter of the shaft which must be used to sustain a tensile stress of 80 MPa. And a shear
+stress of 60 MPa. (8)
+
+Q.6) a) Enumerate with sketches Non-destructive testing (NDT) incorporating ultrasonic waves.
+Indicate few application areas, where this testing is feasible. (10)
+
+b) A storage vessel for storing salt solutions is to be lined with PVC. Indicate with relevant details
+and sketches, the technique of lining. What are the precautions necessary prior to the lining and
+
+during the lining process? Which quality control tests, you would recommend to ascertain the
+quality of lining? (10)
+
+Q.7) a) Explain with relevant diagrams, the technique of oxy-acetylene gas welding. Indicate few
+application areas of this welding. What way it differs from gas cutting? (10)
+
+b) Two lengths of HDPE pipes are to be joined together by flanging connection, using HDPE flanges.
+
+Enumerate the technique of welding the flanges to the pipes. Give neat sketches showing the set up for
+welding. (10)
+
+2/3
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper c9e251fa1e4f
@@ -722,6 +868,7 @@ E= 200 GN/sqm; Poisson’s ratio= 1/m= 0.3; Bulk modulus, K for water= 2.13 GN/s
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/STRENGTH OF MATERIALS& FABRICATION/STRENGH OF MATERIAL AND FABRICATION 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02/12/2013
 - Text: ocr (3 pages), mean OCR confidence 88.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 1
@@ -781,7 +928,6 @@ Diagrams indicating important points.
 
 2 KN 3 KN
 5 KN/m
-A JN a a ee EE
 AGes
 | 3m la 21 wel 5m
 i a: "
@@ -858,6 +1004,7 @@ it occurs. (05)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/STRENGTH OF MATERIALS& FABRICATION/STRENGTH OD MATERIAL AND FABRICATION BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11/06/2014
 - Text: ocr (3 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -925,7 +1072,6 @@ BoKN] _ — -- ae
 A
 
 ; -
-Le soo von mle —4-00veng ole —— Soo mete}
 
 Page: 1/3
 --- page 2 ---
@@ -996,208 +1142,7 @@ v. Hot air welding with plastics.
 Page: 3/3
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper def172c14f2f
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/STRENGTH OF MATERIALS& FABRICATION/STRENGTH OF MATERIAL & FABRICATION BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 109; exam date: 01/12/2014
-- Text: ocr (3 pages), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CHEM) Year: II Semester: III
-
-Academic Year: 2014-15 y Batch: 2013-14
-
-Subject : Strength of Material & Fabrication v4 7 ne
-Marks: 109 ac M PSWMB )-
-
-Date : 01/12/2014 Time : a Je j
-
-Durations? KS) WHE f
-OnE
-wie SUNN
-
-Re - Examination
-
-Instructions:-
-
-1) Question no. 1 is compulsory.
-
-2) Attempt any four questions from the remaining six questions.
-3) Figures to the right indicate full marks.
-
-4) Furnish your answers with neat sketches, wherever necessary.
-5) Assume any missing data appropriately.
-
-Q.1) Attempt any four from the following.
-
-a) Two circular bars A and B of the same material are subjected to the same pull (P) and are
-deformed by the same amount. What is the ratio of their lengths, if one of them has a uniform
-diameter of 60 mm and the other tapers uniformly from 80mm from one end to 40mm at the other? ~— (5)
-
-b) Explain “Kernel of a section”. Obtain the kernel of section for a hollow rectangular section. (5)
-
-c) Explain “Slenderness ratio” and bring out its significance. Indicate how columns are classified
-on the basis of slenderness ratio. (5)
-
-d) A hollow steel shaft of 180mm external diameter and 120mm internal diameter transmits 1400 kw
-at 180rpm. Determine the values of shear stresses at the inner and outer surfaces of the shaft. (5)
-
-e) Elaborate on the various types of welded joints and their strength computations. (5)
-
-Q.2) a) A flat steel bar 200 mm x 20 mm x 8 mm is placed between two aluminium bars of size
-
-200 mm x 20 mm x 6 mm so as to form a composite bar. All the three bars are joined together at room
-temperature. Determine the stresses developed in each bar, when the temperature of the whole assembly
-is raised through 50°c. Use the following data.
-
-For steel — coefficient of thermal explanation = 12 x 10°/°c and E=200GPa.
-
-For aluminium — coefficient of thermal expansion = 24 x 10°/°c and E = 80 GPa. (10)
-Al (Zot G
-Stz| Bay t
-Al Bay G
-
-2Zgo | F 20>
-
-4/3
---- page 2 ---
-Q.2) b) A cylindrical shell, 3 m long and 1 m in diameter, is subjected to an internal pressure of 1 N/mm”
-Estimate the circumferential and longitudinal stresses induced in the shell wall. Also find the maximum
-Shear stress and change in dimensions of the shell. Take <hel) Wall ftriclemers 04 [2m
-
-Take E = 200 GPa and Poisson’s Ratio = 0.3 for the material of the shell. (10)
-
-Q.3)a) Draw the axial force, shear force and bending moment diagrams for the beam loaded as
-
-shown below. (12)
-3BKEN
-6.KN Ik N[w
-A be > ra 2 C D p
-+ \ y
-2. x:
-re 2m << 2™ — Ave Sin |
-
-b) A strut 4 m long has a T-cross section as shown in figure. It is hinged at both the ends.
-Determine the crippling load, if modulus of elasticity for the material of the strut is 200 GPa.
-
-In which direction the strut is likely to buckle? ; (8)
-| } l50 : >
-6 : |
-+ f
-A - - = - # J K~
-Q
-
-| ap
-
-Q.4) a) A hollow cylindrical column, carries a compressive load of 450 KN. Determine the maximum
-Permissible eccentricity of the load, if the’allowable compressive and tensile stress intensities are
-
-75 N/mm? and 20 N/mm? respectively. The external and internal diameters of the column are
-
-200 mm and 125 mm respectively.
-
-Plot the resultant stress diagram, indicating variation of the actual stress across the section of
-
-Column. (12)
-
-b) A shaft is to be designed to transmit 105 KW power at 160 rpm. The shear stress intensity in the
-material of the shaft is not to exceed 65 N/ mm’ and the angle of twist over a length of 3.5m
-
-should not exceed 1°.
-
-Determine a suitable diameter for this shaft. Take G = 8 x 10° N/ mm’ for the shaft material. (8)
-
-2/3
---- page 3 ---
-Q.5)a) A simply supported T-Beam of span 5 m has a flange of 125 mm x 12.5 mm and web of
-187.5 mm x 8 mm. If maximum permissible stress is 150 N/mm’, find the maximum uniformly
-distributed load (UDL) that this beam can carry safely. (12)
-
-b) A solid shaft is subjected to a bending moment of 400 Nm and a torque of 600 Nm. Determine
-the diameter of the shaft which must be used to sustain a tensile stress of 80 MPa. And a shear
-stress of 60 MPa. (8)
-
-Q.6) a) Enumerate with sketches Non-destructive testing (NDT) incorporating ultrasonic waves.
-Indicate few application areas, where this testing is feasible. (10)
-
-b) A storage vessel for storing salt solutions is to be lined with PVC. Indicate with relevant details
-and sketches, the technique of lining. What are the precautions necessary prior to the lining and
-
-during the lining process? Which quality control tests, you would recommend to ascertain the
-quality of lining? (10)
-
-Q.7) a) Explain with relevant diagrams, the technique of oxy-acetylene gas welding. Indicate few
-application areas of this welding. What way it differs from gas cutting? (10)
-
-b) Two lengths of HDPE pipes are to be joined together by flanging connection, using HDPE flanges.
-
-Enumerate the technique of welding the flanges to the pipes. Give neat sketches showing the set up for
-welding. (10)
-
-2/3
-````
-
-## 2012-13 · Re-Exam · Trim 4 · paper a30280404258
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/STRENGTH OF MATERIALS & FABRICATION/STRENGTH OF MATERIALS AND FABRICATION IV (CHEMICAL) MBA TECH 2012-13 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/6/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School of Technolo~v Management Q Engine
-Programme: MBA Tech - CHEMICAL   Year:   I1   Trimester: IV
-Academic Year :2012-2013
-Batch:   2012-2013
-Subject:   Strength of Materials   Marks:   100
-(B Fabrication   Time:   2.00 pm To 5.00 pm
-Date:   11/6/2013   Duration: 3 hrs.
-Re - Examination
----.--   -
-Instructions: Candidates should read carefully the instructions printed on the question paper anci
-on the cover of the Answer book, which is provided for use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining five questions attempt any four.
-3. Answer to each question to be started on a h s h page.
-4. Figures in brackets indicate full marks.
-Q.l Answer the following questions.
-a) What arethe different types of Gaskets?
-b) Explain Weldability testing.
-C) Explain Forging.
-d) Explain inspection & testing of Linings.
-Q.2
-(a) Explain Magnetic particle inspection.
-(b) Explain difiierent welding processes.
-4.3
-(a) Explain wld &hot working.   (10)
-(b) Draw & explain vessel supported on Bracket support. Also show Welding of Bracket of
-Shell.   (10)
-I   <
-4.4
-(a) Draw & Explain different types of beams & loads.   (10)'
-(b)Draw a SFD & BMD for a simply supported beam of span L, carrying a U.V. load whose
-intensity varies from zero to w per unit run.   ('P)
-d   L
-Q.5
-~ ~ c 5 r n ~ ~elJ3rnto~,Jnrim E i I   d & m d e h ~ t e 8 ~ - - d &
-If the thickness of shell is 12mm, find the circumferential & longitudinal stresses. Find also the
-maximum shear stress and change in dimension of shell. E= 2x10' lVlmm2, l/m=0.3   (10).
-(b) Derive the expression for deformation of circular tapering rod.   (la)
-4.6
-(a) Explain shear action during punching hole. Determine the punchiing force required to drill a 'ICI03
-hole of 25 mm diameter in the plate of 10 mm thickness. Take ultimate shear stress =; 360 ~ l m r n ~
-(b) Explain stress-strain curve for ductile materials.   (10)
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 37df569abd68
+## 2012-13 · Exam not stated · Trim 4 · paper 37df569abd68
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -1274,4 +1219,59 @@ hole of 25 mm diameter in the plate of 10 mm thickness. Take ultimate shear stre
 (b) Explain stress-strain curve for brittle materials. (10)
 
 /
+````
+
+## 2012-13 · Re-Exam · Trim 4 · paper a30280404258
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/STRENGTH OF MATERIALS & FABRICATION/STRENGTH OF MATERIALS AND FABRICATION IV (CHEMICAL) MBA TECH 2012-13 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/6/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Patel School of Technolo~v Management Q Engine
+Programme: MBA Tech - CHEMICAL   Year:   I1   Trimester: IV
+Academic Year :2012-2013
+Batch:   2012-2013
+Subject:   Strength of Materials   Marks:   100
+(B Fabrication   Time:   2.00 pm To 5.00 pm
+Date:   11/6/2013   Duration: 3 hrs.
+Re - Examination
+---.--   -
+Instructions: Candidates should read carefully the instructions printed on the question paper anci
+on the cover of the Answer book, which is provided for use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining five questions attempt any four.
+3. Answer to each question to be started on a h s h page.
+4. Figures in brackets indicate full marks.
+Q.l Answer the following questions.
+a) What arethe different types of Gaskets?
+b) Explain Weldability testing.
+C) Explain Forging.
+d) Explain inspection & testing of Linings.
+Q.2
+(a) Explain Magnetic particle inspection.
+(b) Explain difiierent welding processes.
+4.3
+(a) Explain wld &hot working.   (10)
+(b) Draw & explain vessel supported on Bracket support. Also show Welding of Bracket of
+Shell.   (10)
+I   <
+4.4
+(a) Draw & Explain different types of beams & loads.   (10)'
+(b)Draw a SFD & BMD for a simply supported beam of span L, carrying a U.V. load whose
+intensity varies from zero to w per unit run.   ('P)
+d   L
+Q.5
+~ ~ c 5 r n ~ ~elJ3rnto~,Jnrim E i I   d & m d e h ~ t e 8 ~ - - d &
+If the thickness of shell is 12mm, find the circumferential & longitudinal stresses. Find also the
+maximum shear stress and change in dimension of shell. E= 2x10' lVlmm2, l/m=0.3   (10).
+(b) Derive the expression for deformation of circular tapering rod.   (la)
+4.6
+(a) Explain shear action during punching hole. Determine the punchiing force required to drill a 'ICI03
+hole of 25 mm diameter in the plate of 10 mm thickness. Take ultimate shear stress =; 360 ~ l m r n ~
+(b) Explain stress-strain curve for ductile materials.   (10)
 ````

@@ -1,6 +1,6 @@
 # Structured System Analysis and Design
 
-**22** unique papers (23 copies across programmes) · 2007-08 to 2016-17 · 2 programmes · Sem 3, Trim 3, Trim 5
+**24** unique papers (25 copies across programmes) · 2007-08 to 2016-17 · 2 programmes · Sem 3, Trim 2, Trim 3, Trim 5
 
 Download only this subject, sorted by academic year:
 
@@ -24,11 +24,13 @@ Also filed as: `STRUCTURES SYSTEMS ANALYSIS AND DESIGN`
 | 2013-14 | Re-Exam | Question paper | Sem 3 | MBA TECH / I T | STRUCTURED SYSTEM ANALYSIS AND DESIGN BATCH 2013-14 Re-exam.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 3 | MBA TECH / I T | Structured System Analysis & Design Batch 2013-14 Re Exam.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 3 | MBA TECH / I T | sstructured system analysis and design batch 2013-2014 Re-exam.pdf |
+| 2012-13 | — | Question paper | Trim 2 | MCA | STRUCTURED SYSTEM ANALYSIS & DESIGN 2012-13.pdf [1] |
 | 2012-13 | Re-Exam | Question paper | Trim 5 | MBA TECH / I T | STRUCTURED SYSTEM ANALYSIS & DESIGN V (IT) MBA TECH 2012-13 RE EXAM.pdf |
+| 2012-13 | Re-Exam | Question paper | Trim 2 | MCA | STRUCTURED SYSTEM ANALYSIS & DESIGN II MCA 2012-13 RE EXAM.pdf [2] |
 | 2011-12 | — | Question paper | Trim 5 | MBA TECH / I T | STRUCTURED SYSTEM ANALYSIS AND DESIGN BATCH 2011-120001.pdf |
 | 2011-12 | — | Question paper | Trim 3 | MCA | STRUCTURED SYSTEM ANALYSIS AND DESIGN 2011-120001.pdf |
 | 2011-12 | Re-Exam | Question paper | Trim 5 | MBA TECH / I T | STRUCTURED SYSTEM ANALYSIS AND DESIGN BATCH 2010-2011 RE EXAM 2011-12.pdf |
-| 2011-12 | Re-Exam | Question paper | Trim 3 | MCA | STRUCTURED SYSTEM ANALYSIS & DESIGN BATCH 2011-12 RE EXA0001.pdf [1] |
+| 2011-12 | Re-Exam | Question paper | Trim 3 | MCA | STRUCTURED SYSTEM ANALYSIS & DESIGN BATCH 2011-12 RE EXA0001.pdf [3] |
 | 2011-12 | Re-Exam | Question paper | Trim 3 | MCA | STRUCTURED SYSTEM ANALYSIS & DESIGN III MCA 2011-12 RE EXAM.pdf |
 | 2011-12 | Re-Exam | Question paper | Trim 3 | MCA | Structured System Analysis & Design 2011-12 Re Exam.pdf |
 | 2010-11 | — | Question paper | Trim 5 | MBA TECH / I T | STRUCTURED SYSTEM ANALYSIS AND DESIGN BACTH 2010-2011.pdf |
@@ -41,6 +43,8 @@ Also filed as: `STRUCTURES SYSTEMS ANALYSIS AND DESIGN`
 
 **Notes on papers placed here from a different folder**
 
-1. folder "TRIM III" is a semester/branch label; subject read from file name
+1. filed under "STRUCTURES ANALYSIS AND DESIGN" but the paper is headed "Structured System Analysis and Design"
+2. filed under "STRUCTURES ANALYSIS AND DESIGN" but the paper is headed "Structured System Analysis and Design"
+3. folder "TRIM III" is a semester/branch label; subject read from file name
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

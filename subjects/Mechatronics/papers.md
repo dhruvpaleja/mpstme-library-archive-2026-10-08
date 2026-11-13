@@ -97,91 +97,7 @@ d) Hardware in the loop simulation.
 Page 2 of 2
 ````
 
-## 2017-18 · Final-Exam · Sem 8 · paper 1004a85cc2d2
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_08/MECHATRONICS/Mechatronics 2017-18 Final.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 16 May 2018
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B.Tech Integrated (MECHANICAL) Year: IV< Semester: VII \
-
-Academic Year: 2017-2018
-
-Subject:Mechatronics - ¢
-Marks:60 ‘at &
-Date:16 May 2018 - Time: 2.00 pm tos S@0 pm. y
-; Durations: 3 (hrs) \"'« mam M4
-No. of Pages : a
-
-Final Examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql) Attempt any Three of the following. (12- Marks)
-a) Explain with a block diagram different elements of a Mechatronics system.
-b) With a schematic explain Pressure relief valve.
-c) Derive the expression for Pump power.
-d) State the rules for writing PLC Ladder program.
-e) Compare RTD with Thermistor.
-
-Q2) Attempt the following.
-a) Explain with a block diagram PLC. What are PLC timers? (06-Marks)
-
-b) Explain with neat diagram operation of variable reluctance stepper motor. (06-Marks)
-
-Q3) Attempt the following.
-a) Give Classification of Sensors and explain any one Pressure measurement Sensor. (06-Marks)
-
-b) Explain with neat diagram and symbol operation of 4/3 Closed centered DCV. (06-Marks)
---- page 2 ---
-Q4) Attempt the following.
-a) Design and Explain Hydraulic circuit using sequence valves for sequencing two cylinders as per
-
-the operating sequence Ci+ C2+ C2- Ci-. (08-Marks)
-b) Explain Pascal’s law with its application. (04-Marks)
-Q5) Attempt the following.
-a) Explain with neat diagram Mechatronics design process. (06-Marks)
-b) Explain with neat diagram architecture of smart sensor. (06-Marks)
-
-Q6) Attempt the following.
-a) Discuss with neat diagram Meter-in Hydraulic control circuit and state its advantages. (06-Marks)
-
-b) There are 3 mixing devices on a processing line A, B and C. After the process begin mixer-A is to
-start after 7 seconds elapse, next mixer-B is to start 3.6 seconds after A. Mixer-C is to start 5
-seconds after B. All then remain ON until a master enable switch is turned off. Develop PLC ladder
-program for this processing line. (06-Marks)
-
-Q7) Write Short Notes: (any Three) (4x3=12-Marks)
-
-1. Working principle of 3 Induction motor.
-2. Function of PLC I/O Modules.
-
-3. Ultrasonic Proximity sensor.
-
-4. Regenerative Hydraulic circuit.
-````
-
-## 2017-18 · Re-Exam · Sem 8 · paper 18635a0ec7cb
+## 2018-19 · Re-Exam · Sem 8 · paper 18635a0ec7cb
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
@@ -273,6 +189,90 @@ a) Functions of I/O Module in PLC.
 b) Hardware in the loop simulation.
 c) Regenerative Hydraulic circuit.
 d) Bleed-off Hydraulic circuit.
+````
+
+## 2017-18 · Final-Exam · Sem 8 · paper 1004a85cc2d2
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_08/MECHATRONICS/Mechatronics 2017-18 Final.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 16 May 2018
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (MECHANICAL) Year: IV< Semester: VII \
+
+Academic Year: 2017-2018
+
+Subject:Mechatronics - ¢
+Marks:60 ‘at &
+Date:16 May 2018 - Time: 2.00 pm tos S@0 pm. y
+; Durations: 3 (hrs) \"'« mam M4
+No. of Pages : a
+
+Final Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql) Attempt any Three of the following. (12- Marks)
+a) Explain with a block diagram different elements of a Mechatronics system.
+b) With a schematic explain Pressure relief valve.
+c) Derive the expression for Pump power.
+d) State the rules for writing PLC Ladder program.
+e) Compare RTD with Thermistor.
+
+Q2) Attempt the following.
+a) Explain with a block diagram PLC. What are PLC timers? (06-Marks)
+
+b) Explain with neat diagram operation of variable reluctance stepper motor. (06-Marks)
+
+Q3) Attempt the following.
+a) Give Classification of Sensors and explain any one Pressure measurement Sensor. (06-Marks)
+
+b) Explain with neat diagram and symbol operation of 4/3 Closed centered DCV. (06-Marks)
+--- page 2 ---
+Q4) Attempt the following.
+a) Design and Explain Hydraulic circuit using sequence valves for sequencing two cylinders as per
+
+the operating sequence Ci+ C2+ C2- Ci-. (08-Marks)
+b) Explain Pascal’s law with its application. (04-Marks)
+Q5) Attempt the following.
+a) Explain with neat diagram Mechatronics design process. (06-Marks)
+b) Explain with neat diagram architecture of smart sensor. (06-Marks)
+
+Q6) Attempt the following.
+a) Discuss with neat diagram Meter-in Hydraulic control circuit and state its advantages. (06-Marks)
+
+b) There are 3 mixing devices on a processing line A, B and C. After the process begin mixer-A is to
+start after 7 seconds elapse, next mixer-B is to start 3.6 seconds after A. Mixer-C is to start 5
+seconds after B. All then remain ON until a master enable switch is turned off. Develop PLC ladder
+program for this processing line. (06-Marks)
+
+Q7) Write Short Notes: (any Three) (4x3=12-Marks)
+
+1. Working principle of 3 Induction motor.
+2. Function of PLC I/O Modules.
+
+3. Ultrasonic Proximity sensor.
+
+4. Regenerative Hydraulic circuit.
 ````
 
 ## 2017-18 · Re-Exam · Sem 8 · paper a68fbbf107c1
@@ -459,6 +459,7 @@ iii) piezo-electric actuators.(10)
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/MECHATRONICS/MECHATRONICS B TECH (ELECTRONICS), 2013-14 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05/12/2013
 - Text: ocr (2 pages), mean OCR confidence 91.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS i
@@ -513,7 +514,6 @@ b) Suppose the error is given as shown in fig. below and it is applied to PD con
 Kp=5, Kd=0.5s and Po=20 %. Draw the graph for resulting controller output. (10)
 A
 
-oO 4 Y T 7 >t C Sceonds)
 2 3 GS
 aa
 

@@ -2,6 +2,522 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Re-Exam · Sem 4 · Answer key · paper a9291889ab9c
+
+- Departments: Mechanical
+- Programmes: Integrated Mechanical 7031
+- Source: `02_Question_Papers/2024/Sem_04/Re-Exam/Integrated_Mechanical_7031/Mathematics-IV/ANS_Mathematics-IV(701BS0C012)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
+- Text: mixed (14 pages), mean OCR confidence 69.0
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)
+Year: II/Semester IV(Exam Year: 2025-2026)
+Subject: Mathematics-IV
+Date: 07 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 14 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figures in brackets on the right-hand side indicate full marks.
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Scientific Calculator is allowed.
+********** 1 **********
+--- page 2 ---
+Q1
+
+z:1,2,4,5,7,11
+
+a.
+>: z— 30, n-6
+(Computation of $~ x - 1 mark)
+S230,
+n 6 .
+(Mean — 7 mark)
+So (@ — 2)? = 16+ 9+1+40+4+4+436 = 66
+66
+o-—4/ —-— vV11=3.317
+6
+(Calculation — 7 mark)
+b. 7 mark
+Of _ 3
+Da 6xry
+7 mark
+O° f _ a aeappe
+dyde Dy OT)
+7 mark
+= 18H8y"
+c.
+
+y= Ae** + Be~**
+y= 4Ace™* + 4Be—™ = dy
+(Second derivative — 2 marks)
+y" —4y = 0
+
+(Verification -— 7 mark)
+
+FIC 2 I HH ar
+--- page 3 ---
+DR = (3,4, 8)
+(Direction ratios — 7 mark)
+
+\d) = 89
+
+3 4 8
+DO= | = SS
+(Fa v/89 7a)
+
+(Direction cosines — 2 marks)
+
+a+3=9,6=—3c,b4+2=8, 18=6d
+(Equating elements — 2 marks)
+a-—6,c=—2,b6=6,d=3
+
+(Answer — 2 marks)
+
+f(e) = 2 - 22-3
+f(2)--3, f(3) —0
+
+(Bracketing — 1 mark)
+
+243
+r= = =2.5, (2.5) =6.25-5-3=-1.75
+Interval (2.5, 3]
+(Iteration 1 - 1 mark)
+— 2.543
+
+TQ
+
+2 > 2.75, f(2.75) = 7.5625 — 5.5 — 3 = —0.9375
+
+(Iteration 2 - 1 mark)
+
+aw = 2.75
+
+(Final answer — 1 mark)
+
+FC QI a iar
+--- page 4 ---
+Q.2
+
+dy _y
+a. adn = 1
+— 1 mark
+d
+Letty = va > Yiy 2
+— 7 mark
+d dv
+utes autl=«a
+— 7 mark
+du _i
+dx x
+— 1 mark
+v=In|z|+C
+— 1 mark
+* = in|z +C
+b. 213
+D=)1 4 1/=18
+3.2 5
+(Determinant D - 2 marks)
+9 1 3
+D:-|l1 4 1/—54
+18 2 5
+(D\ - 7 mark)
+2 9 3
+Dy=)\1 11 1)/=36
+3°18 «#5
+(Dz - 1 mark)
+21 9
+D;-|1 4 11/18
+3 2 18
+(Ds — 1 mark)
+54 36 18
+h- 7-3, h-—-2, Bh-—-1
+1 18 , 2 18 > 3 18
+
+(Final answer — 1 mark)
+
+FIC 7) IC HOH
+--- page 5 ---
+Direction ratios:
+d, = (3,-1,2), dy = (2,1, -3)
+
+(DR extraction — 2 marks)
+
+Sool i og k
+
+d=d,xdy=|3 -1 2|=(1,13,5)
+
+2 1 -3
+(Cross product — 3 marks)
+Vector equation:
+7 = (1, —-1,2) + A(1, 13, 5)
+
+(Vector form — 1 mark)
+
+Cartesian form:
+
+ze-l_y+l_z-2
+1 13 5
+
+(Cartesian form — 2 marks)
+
+Q.3
+
+7 mark
+dy _lt+y
+dz r
+
+— T mark
+dy dx
+l+y x
+= T mark
+
+In |1+y| =In|x#|+C
+
+= 7 mark
+l+y
+r
+
+In
+
+[-c
+
+= 71 mark
+1+
+¥_o,
+x
+
+= 71 mark
+y—Cr-1
+
+FIC DI EH ar
+--- page 6 ---
+3 4 -2 3 -1 2
+A-|-1 5 6], A'=|]4 5 -8
+2 -3 1 —2 6 1
+
+(Transpose — 2 marks)
+
+r 3 2 0
+
+g A+At | 3 2 3
+
+° 2 23 2
+
+0 5 1
+
+(Symmetric — 2 marks)
+0 32 -2
+A-A' 2
+
+K-22 =|-5 0 3
+2 -¢ 0
+
+(Skew-symmetric — 2 marks)
+
+Points: (1, 2,3), (4,0, 5)
+DR = (4-1, 0-2, 5 — 3) = (3, —2, 2)
+(Direction ratios — 2 marks)
+Plane 1 line = normal = (3, —2, 2)
+3(@ — 2) — 2(y+1) + 2(z2-—3) =0
+(Equation using point -— 2 marks)
+3x2 — 2y+22-14—0
+
+(Final equation — 7 mark)
+
+FIC 6 I HF
+--- page 7 ---
+Normals:
+mi; — (1,2,2), 1 — (2,-1,0)
+(Normals — 7 mark)
+my + my = 1(2) + 2(-1) + 2(0) = 2-2+0=0
+(Dot product — 7 mark)
++1) — 0 > planes are perpendicular
+
+(Conclusion — 1 mark)
+
+Q4
+
+f(x) =a? —15
+f(3)=—6, f(4)=1
+
+(Bracketing — 2 marks)
+_ 3(1) — 4(-6) _ 3+ 24
+
+i-(-6) 7 = 3.897
+(Iteration 1 — 2 marks)
+f (3.857) = —0.12
+xy = ren = 3.872
+(Iteration 2 — 1 mark)
+x 3.87
+
+(Final answer — 1 mark)
+
+FIC 7 IC OHH
+--- page 8 ---
+dN
+—_ —~ EN
+dt
+
+(Differential equation — 1 mark)
+
+dN
+— ~kdt>InN=kt+C
+
+(integration — 2 marks)
+
+N=Ce™
+(General solution — 7 mark)
+Att — 0, N = 500 = C = 500
+
+In(1.6)
+
+800 — 500e2* = k — 5
+
+(Finding k — 1 mark)
+
+N =500e™* = 500(1.6)7° = 1619
+
+(Final answer — T mark)
+
+P(M,) = 0.2, P(M2) — 0.3, P(Mg) = 0.5
+(Data — 2 marks)
+P(D) = 0.2(0.05) + 0.3(0.04) + 0.5(0.02) = 0.032
+
+(Total probability — 3 marks)
+
+0.3 x 0.04 0.012
+0.032 0.032
+
+P(M|D) = = 0.375
+
+(Bayes theorem — 2 marks)
+
+Final answer: 0.375
+
+(Answer — 1 mark)
+
+FIC QF EH 1
+--- page 9 ---
+Q.5
+
+n— 80, 7=— 35,0 -6
+
+“ So x = 2800, S> 2? = 80(36 + 1225) = 100880
+
+(Original totals — 2 marks)
+
+Correcting 45 — 25:
+
+So 2! = 2800 — 45 + 25 = 2780
+> 2? = 100880 — 2025 + 625 = 99480
+(Correction — 2 marks)
+2780
+z= 0 7 34.75
+o= = — (34.75)? = 1243.5 — 1207.56 — 5.99
+
+(Final answer — 2 marks)
+
+b.
+
+a—1 y+2 z—A4
+
+a™)
+Direction ratios of line:
+d= (2,—3,1)
+a™)
+Take point on line A(1, —2, 4)
+
+AP = (3 —1,—-2+ 2,5 —4) = (2,0,1)
+
+(™™)
+. . i gj ik
+APxdj—|2 0 1)/—3i+0j—6k
+2 -3 1
+= V3? + (—6)? = V45 = 3V5
+(2M)
+\dj — /2? + (-3)? + P-Vi4
+(1™)
+. AP xd 3V5
+Distance = — {— = —
+|d| V/14
+(Final — 1M)
+
+FIC QF OH ar
+--- page 10 ---
+Let numbers be 2, y, z
+@+y+z=12, 38¢+y+z=16, r—-y+z=2
+
+(Form equations — 2M)
+
+Matrix form:
+AX -=B
+1 $11 © 12
+A=|3 1 1], X=|Jy|], B= 16
+1-1 1 z 2
+(1M)
+111
+|AJ)=|38 1 1)=1(14+1)—-1(3-1)4+1(-3-1)=-4
+1-1 1
+(1M)
+Adjoint of A:
+2 —2 O
+adj(A)= |-—2 0 2
+—-4 2 —2
+(2M)
+1 2 —2 O
+At= z\/-2 ° 2
+- -4 2 —2
+(™)
+1 2 —2 O 12
+X=A'B=— —2 0 2] 1/16
+- —-4 2 —2 2
+24 — 32+ 0 —8
+=> “4 —24+0+4+4 => 4 —20
+7 —48 + 32-4 a —20
+(2M)
+a@=-2, y=—5, z=5
+(Final — 1M)
+
+FRR ICR 7 OI HOH
+--- page 11 ---
+Q.6
+
+a. Total cards = 52, Kings = 4
+P(exactly one King) = P(K, NK)+ P(NKE, K)
+(7M)
+_4 4848 4
+52 51 52 51
+(2M)
+_, 4:48 384 32
+52-51 2652 221
+(2M)
+p_ 2
+221
+(Final - 1M)
+b.
+u= xy
+(1M)
+~ = 32°y?, s — 6xy
+iby = Gey?
+(2M)
+a*(2y°) + 2ey(6xy”) + y?(627y)
+= 2ay? + 1207y? + 6x?y'
+= 2027y°
+(2M)
+= 20u
+(Final — 1M)
+c.
+
+FRI ICR 7 FI OH
+--- page 12 ---
+Equations:
+
+_DR-y-z _ B-«-2z _id4-a-y
+* i” 10° * 10
+(2M)
+Take rp = Yo = 2 = 0
+Iteration 1:
+12
+13 — 1.2
+Yl 10 1.180
+_ 14—1.2—1.18 ~ 1.162
+Z1 10 .
+(3M)
+Iteration 2:
+12 — 1.18 — 1.162
+ry — ————————__ = 0.966
+10
+13 — 0.966 — 1.162
+yo = ———_—_———_ = 1.087
+10
+14 — 0.966 — 1.087
+29 = —————_—— _ = 1.195
+10
+(2M)
+(x,y,z) © (0.966, 1.087, 1.195)
+(Final — 1M)
+
+FRR ICR] DA KH
+--- page 13 ---
+Q.7
+
+Plane: 2a — y + 2z = 6, Point (2, —1, 4)
+
+a.
+p — 202) = (1) + 2(4) - 6
+P+ (1242
+(2M)
+_ |4+14+8-6| _7
+V9 3
+(3M)
+D- 7
+3
+(Final — 7M)
+b.
+(1+ 2?) + 2ay = e”
+dx
+(7M)
+
+Divide by 1 + 2:
+
+dy 22 e*
+dx 1+a2” 14a
+(1M)
+IF =el oa” 142?
+(2M)
+f+ 2*)y] =e
+(l+2*)y=e™+C
+(1M)
+ey +C
+142
+(Final — 71M)
+
+FIR ICR 7] QI HO
+--- page 14 ---
+Q7 (c)
+
+121
+A-|0 1 2
+23 4
+(1M)
+1 2 11 0 0
+(A\F} > ]0 1 2/0 1 0
+23 40 01
+(2M)
+Ry; > Ry — 2h,
+1 2 Il 00
+0 1 20 10
+0 -1 2-201
+Ry > Ry+ Re
+1 2 1j1 0 0
+0 1 2.0 1 0
+004-211
+(2M)
+R; + 4
+
+(001) —1/21/41/4]
+
+Back substitution:
+
+1 —5/2 1
+A't=]|]0 1 -1/2
+0 -1/2 1/4
+
+(3M)
+
+FRR IC 7 I OH
+````
+
 ## 2024-25 · Final-Exam · Sem 4 · Answer key · paper 060bbbadb6ca
 
 - Departments: Information Technology
@@ -9,6 +525,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_04/Final-Exam/Integrated_IT_7037/Mathematics-IV/ANS_Mathematics-IV(701BS0C012)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
 - Text: mixed (21 pages), mean OCR confidence 75.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -239,7 +756,6 @@ Introduce substitution:
 Let“ = © + y, so that:
 
 (1m)
-du = dx + dy => dy = du — dx
 Substituting dy = di — da inte the equation:
 du — dx
 ——_ = dx
@@ -786,7 +1302,6 @@ Multiply Ay by 1 (no change required):
 
 Step 4: Make second column above and below pivot 0
 
-Ry + Ry ~ =, Ry + Ry — =Ry
 
 (2m)
 104 2 -2 0
@@ -821,6 +1336,7 @@ DR ROR RK SRR RR
 - Source: `02_Question_Papers/2024/Sem_04/Final-Exam/Integrated_Mechanical_7031/Mathematics-IV/ANS_Mathematics-IV(701BS0C012)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
 - Text: mixed (21 pages), mean OCR confidence 75.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1051,7 +1567,6 @@ Introduce substitution:
 Let“ = © + y, so that:
 
 (1m)
-du = dx + dy => dy = du — dx
 Substituting dy = di — da inte the equation:
 du — dx
 ——_ = dx
@@ -1598,7 +2113,6 @@ Multiply Ay by 1 (no change required):
 
 Step 4: Make second column above and below pivot 0
 
-Ry + Ry ~ =, Ry + Ry — =Ry
 
 (2m)
 104 2 -2 0
@@ -4372,520 +4886,4 @@ i 2 4
 Il tl i
 
 FI ICR AC KH
-````
-
-## 2024-25 · Re-Exam · Sem 4 · Answer key · paper a9291889ab9c
-
-- Departments: Mechanical
-- Programmes: Integrated Mechanical 7031
-- Source: `02_Question_Papers/2024/Sem_04/Re-Exam/Integrated_Mechanical_7031/Mathematics-IV/ANS_Mathematics-IV(701BS0C012)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
-- Text: mixed (14 pages), mean OCR confidence 69.0
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)
-Year: II/Semester IV(Exam Year: 2025-2026)
-Subject: Mathematics-IV
-Date: 07 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 14 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figures in brackets on the right-hand side indicate full marks.
-4. Question No. 1 is compulsory
-5. Out of remaining questions, attempt any 4 questions.
-6. In all 5 questions to be attempted.
-7. All questions carry equal marks.
-8. Assume Suitable data if necessary.
-9. Scientific Calculator is allowed.
-********** 1 **********
---- page 2 ---
-Q1
-
-z:1,2,4,5,7,11
-
-a.
->: z— 30, n-6
-(Computation of $~ x - 1 mark)
-S230,
-n 6 .
-(Mean — 7 mark)
-So (@ — 2)? = 16+ 9+1+40+4+4+436 = 66
-66
-o-—4/ —-— vV11=3.317
-6
-(Calculation — 7 mark)
-b. 7 mark
-Of _ 3
-Da 6xry
-7 mark
-O° f _ a aeappe
-dyde Dy OT)
-7 mark
-= 18H8y"
-c.
-
-y= Ae** + Be~**
-y= 4Ace™* + 4Be—™ = dy
-(Second derivative — 2 marks)
-y" —4y = 0
-
-(Verification -— 7 mark)
-
-FIC 2 I HH ar
---- page 3 ---
-DR = (3,4, 8)
-(Direction ratios — 7 mark)
-
-\d) = 89
-
-3 4 8
-DO= | = SS
-(Fa v/89 7a)
-
-(Direction cosines — 2 marks)
-
-a+3=9,6=—3c,b4+2=8, 18=6d
-(Equating elements — 2 marks)
-a-—6,c=—2,b6=6,d=3
-
-(Answer — 2 marks)
-
-f(e) = 2 - 22-3
-f(2)--3, f(3) —0
-
-(Bracketing — 1 mark)
-
-243
-r= = =2.5, (2.5) =6.25-5-3=-1.75
-Interval (2.5, 3]
-(Iteration 1 - 1 mark)
-— 2.543
-
-TQ
-
-2 > 2.75, f(2.75) = 7.5625 — 5.5 — 3 = —0.9375
-
-(Iteration 2 - 1 mark)
-
-aw = 2.75
-
-(Final answer — 1 mark)
-
-FC QI a iar
---- page 4 ---
-Q.2
-
-dy _y
-a. adn = 1
-— 1 mark
-d
-Letty = va > Yiy 2
-— 7 mark
-d dv
-utes autl=«a
-— 7 mark
-du _i
-dx x
-— 1 mark
-v=In|z|+C
-— 1 mark
-* = in|z +C
-b. 213
-D=)1 4 1/=18
-3.2 5
-(Determinant D - 2 marks)
-9 1 3
-D:-|l1 4 1/—54
-18 2 5
-(D\ - 7 mark)
-2 9 3
-Dy=)\1 11 1)/=36
-3°18 «#5
-(Dz - 1 mark)
-21 9
-D;-|1 4 11/18
-3 2 18
-(Ds — 1 mark)
-54 36 18
-h- 7-3, h-—-2, Bh-—-1
-1 18 , 2 18 > 3 18
-
-(Final answer — 1 mark)
-
-FIC 7) IC HOH
---- page 5 ---
-Direction ratios:
-d, = (3,-1,2), dy = (2,1, -3)
-
-(DR extraction — 2 marks)
-
-Sool i og k
-
-d=d,xdy=|3 -1 2|=(1,13,5)
-
-2 1 -3
-(Cross product — 3 marks)
-Vector equation:
-7 = (1, —-1,2) + A(1, 13, 5)
-
-(Vector form — 1 mark)
-
-Cartesian form:
-
-ze-l_y+l_z-2
-1 13 5
-
-(Cartesian form — 2 marks)
-
-Q.3
-
-7 mark
-dy _lt+y
-dz r
-
-— T mark
-dy dx
-l+y x
-= T mark
-
-In |1+y| =In|x#|+C
-
-= 7 mark
-l+y
-r
-
-In
-
-[-c
-
-= 71 mark
-1+
-¥_o,
-x
-
-= 71 mark
-y—Cr-1
-
-FIC DI EH ar
---- page 6 ---
-3 4 -2 3 -1 2
-A-|-1 5 6], A'=|]4 5 -8
-2 -3 1 —2 6 1
-
-(Transpose — 2 marks)
-
-r 3 2 0
-
-g A+At | 3 2 3
-
-° 2 23 2
-
-0 5 1
-
-(Symmetric — 2 marks)
-0 32 -2
-A-A' 2
-
-K-22 =|-5 0 3
-2 -¢ 0
-
-(Skew-symmetric — 2 marks)
-
-Points: (1, 2,3), (4,0, 5)
-DR = (4-1, 0-2, 5 — 3) = (3, —2, 2)
-(Direction ratios — 2 marks)
-Plane 1 line = normal = (3, —2, 2)
-3(@ — 2) — 2(y+1) + 2(z2-—3) =0
-(Equation using point -— 2 marks)
-3x2 — 2y+22-14—0
-
-(Final equation — 7 mark)
-
-FIC 6 I HF
---- page 7 ---
-Normals:
-mi; — (1,2,2), 1 — (2,-1,0)
-(Normals — 7 mark)
-my + my = 1(2) + 2(-1) + 2(0) = 2-2+0=0
-(Dot product — 7 mark)
-+1) — 0 > planes are perpendicular
-
-(Conclusion — 1 mark)
-
-Q4
-
-f(x) =a? —15
-f(3)=—6, f(4)=1
-
-(Bracketing — 2 marks)
-_ 3(1) — 4(-6) _ 3+ 24
-
-i-(-6) 7 = 3.897
-(Iteration 1 — 2 marks)
-f (3.857) = —0.12
-xy = ren = 3.872
-(Iteration 2 — 1 mark)
-x 3.87
-
-(Final answer — 1 mark)
-
-FIC 7 IC OHH
---- page 8 ---
-dN
-—_ —~ EN
-dt
-
-(Differential equation — 1 mark)
-
-dN
-— ~kdt>InN=kt+C
-
-(integration — 2 marks)
-
-N=Ce™
-(General solution — 7 mark)
-Att — 0, N = 500 = C = 500
-
-In(1.6)
-
-800 — 500e2* = k — 5
-
-(Finding k — 1 mark)
-
-N =500e™* = 500(1.6)7° = 1619
-
-(Final answer — T mark)
-
-P(M,) = 0.2, P(M2) — 0.3, P(Mg) = 0.5
-(Data — 2 marks)
-P(D) = 0.2(0.05) + 0.3(0.04) + 0.5(0.02) = 0.032
-
-(Total probability — 3 marks)
-
-0.3 x 0.04 0.012
-0.032 0.032
-
-P(M|D) = = 0.375
-
-(Bayes theorem — 2 marks)
-
-Final answer: 0.375
-
-(Answer — 1 mark)
-
-FIC QF EH 1
---- page 9 ---
-Q.5
-
-n— 80, 7=— 35,0 -6
-
-“ So x = 2800, S> 2? = 80(36 + 1225) = 100880
-
-(Original totals — 2 marks)
-
-Correcting 45 — 25:
-
-So 2! = 2800 — 45 + 25 = 2780
-> 2? = 100880 — 2025 + 625 = 99480
-(Correction — 2 marks)
-2780
-z= 0 7 34.75
-o= = — (34.75)? = 1243.5 — 1207.56 — 5.99
-
-(Final answer — 2 marks)
-
-b.
-
-a—1 y+2 z—A4
-
-a™)
-Direction ratios of line:
-d= (2,—3,1)
-a™)
-Take point on line A(1, —2, 4)
-
-AP = (3 —1,—-2+ 2,5 —4) = (2,0,1)
-
-(™™)
-. . i gj ik
-APxdj—|2 0 1)/—3i+0j—6k
-2 -3 1
-= V3? + (—6)? = V45 = 3V5
-(2M)
-\dj — /2? + (-3)? + P-Vi4
-(1™)
-. AP xd 3V5
-Distance = — {— = —
-|d| V/14
-(Final — 1M)
-
-FIC QF OH ar
---- page 10 ---
-Let numbers be 2, y, z
-@+y+z=12, 38¢+y+z=16, r—-y+z=2
-
-(Form equations — 2M)
-
-Matrix form:
-AX -=B
-1 $11 © 12
-A=|3 1 1], X=|Jy|], B= 16
-1-1 1 z 2
-(1M)
-111
-|AJ)=|38 1 1)=1(14+1)—-1(3-1)4+1(-3-1)=-4
-1-1 1
-(1M)
-Adjoint of A:
-2 —2 O
-adj(A)= |-—2 0 2
-—-4 2 —2
-(2M)
-1 2 —2 O
-At= z\/-2 ° 2
-- -4 2 —2
-(™)
-1 2 —2 O 12
-X=A'B=— —2 0 2] 1/16
-- —-4 2 —2 2
-24 — 32+ 0 —8
-=> “4 —24+0+4+4 => 4 —20
-7 —48 + 32-4 a —20
-(2M)
-a@=-2, y=—5, z=5
-(Final — 1M)
-
-FRR ICR 7 OI HOH
---- page 11 ---
-Q.6
-
-a. Total cards = 52, Kings = 4
-P(exactly one King) = P(K, NK)+ P(NKE, K)
-(7M)
-_4 4848 4
-52 51 52 51
-(2M)
-_, 4:48 384 32
-52-51 2652 221
-(2M)
-p_ 2
-221
-(Final - 1M)
-b.
-u= xy
-(1M)
-~ = 32°y?, s — 6xy
-iby = Gey?
-(2M)
-a*(2y°) + 2ey(6xy”) + y?(627y)
-= 2ay? + 1207y? + 6x?y'
-= 2027y°
-(2M)
-= 20u
-(Final — 1M)
-c.
-
-FRI ICR 7 FI OH
---- page 12 ---
-Equations:
-
-_DR-y-z _ B-«-2z _id4-a-y
-* i” 10° * 10
-(2M)
-Take rp = Yo = 2 = 0
-Iteration 1:
-12
-13 — 1.2
-Yl 10 1.180
-_ 14—1.2—1.18 ~ 1.162
-Z1 10 .
-(3M)
-Iteration 2:
-12 — 1.18 — 1.162
-ry — ————————__ = 0.966
-10
-13 — 0.966 — 1.162
-yo = ———_—_———_ = 1.087
-10
-14 — 0.966 — 1.087
-29 = —————_—— _ = 1.195
-10
-(2M)
-(x,y,z) © (0.966, 1.087, 1.195)
-(Final — 1M)
-
-FRR ICR] DA KH
---- page 13 ---
-Q.7
-
-Plane: 2a — y + 2z = 6, Point (2, —1, 4)
-
-a.
-p — 202) = (1) + 2(4) - 6
-P+ (1242
-(2M)
-_ |4+14+8-6| _7
-V9 3
-(3M)
-D- 7
-3
-(Final — 7M)
-b.
-(1+ 2?) + 2ay = e”
-dx
-(7M)
-
-Divide by 1 + 2:
-
-dy 22 e*
-dx 1+a2” 14a
-(1M)
-IF =el oa” 142?
-(2M)
-f+ 2*)y] =e
-(l+2*)y=e™+C
-(1M)
-ey +C
-142
-(Final — 71M)
-
-FIR ICR 7] QI HO
---- page 14 ---
-Q7 (c)
-
-121
-A-|0 1 2
-23 4
-(1M)
-1 2 11 0 0
-(A\F} > ]0 1 2/0 1 0
-23 40 01
-(2M)
-Ry; > Ry — 2h,
-1 2 Il 00
-0 1 20 10
-0 -1 2-201
-Ry > Ry+ Re
-1 2 1j1 0 0
-0 1 2.0 1 0
-004-211
-(2M)
-R; + 4
-
-(001) —1/21/41/4]
-
-Back substitution:
-
-1 —5/2 1
-A't=]|]0 1 -1/2
-0 -1/2 1/4
-
-(3M)
-
-FRR IC 7 I OH
 ````

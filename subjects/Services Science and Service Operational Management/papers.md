@@ -307,6 +307,7 @@ BL-3   b) Strategic Service Vision
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-V/SERVICES SCIENCE & SERVICE OPERATIONAL _9d98a2c8/Service Science & Service Operational Management, Year 2025-26, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 89.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -381,7 +382,6 @@ technology integration.
 Design an ideal service package for PremierSports Arena that enhances the
 spectator experience before, during, and after the match.
 
-FAC IK OK RCR k   k ok ka a
 --- page 2 ---
 CO-2; b) | Based on above scenario, explain how the services offered at PremierSports
 SO-2; Arena demonstrate the key characteristics of services — Intangibility, [5]

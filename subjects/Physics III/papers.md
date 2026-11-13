@@ -1,8 +1,163 @@
 # Physics III: question papers in full
 
-26 unique papers · 2022 to 2024-25 · Common (all branches), Data Science, Information Technology, Mechanical, Computer Engineering
+26 unique papers · 2022 to 2025-26 · Common (all branches), Data Science, Information Technology, Mechanical, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 3 · paper a0fa331c40af
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED / ENGINEEING PHYSICS
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/ENGINEEING PHYSICS/Sem_03/Physics III Batch 2022-23,2023-24,2024-25 Re Exam0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 86.6
+
+````text
+MPSTME |
+LIBRARY
+
+SVKM’S NMIMS _
+NERS
+
+rs
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+
+Program/s: B Tech (Integrated) [Comp, DS, IT, Mech.] Year: II Semester: III
+Stream/s : All : F ;
+“Subject: Physics III . Time: 3 hrs. (40.AM to 4« PM) *
+Date: 03 J4o|ooos ; No. of Pages: 3
+
+Marks: 100
+
+Re-Examination (2022-2023, 2023-24 and 2024-25)
+
+‘Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+(> of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions. .
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+[Given: Planck’s constant h = 6.625 x 1034 J-s = 4.14 x 10°" eV-s, Speed of light, c = 3 x 10° m/s, electronic
+mass, me = 9.1 x 103! kg, electronic charge, e = 1.6 x 10'? C, Boltzmann’s constant, kg = 1.38 x 1073 J/K]
+
+Qi . ,
+Answer briefly: [20]
+
+CO-1 ; a : : . : :
+
+> . What is a crystal? Discuss with proper diagram and examples. [4]
+
+>| BL- 1,2 » ial ‘
+CO-1'; : b. Define Hall effect with proper illustration. © [4]
+BL-1,2 .
+CO-2; c Explain diffraction of light. [4]
+| BL-1,2
+d. In an optical fiber, the core refractive index is 1.5 and the cladding refractive index
+nae is 1.41 What is the value of critical angle at the core-cladding interface? Also | [4]
+; calculate the value of the numerical aperture of this optical fiber.
+CO- 3; & What is Ampere’s law of electromagnetism? [4]
+BL-1,2 :
+Q z : ; [20]
+- al
+~
+1
+--- page 2 ---
+i
+
+What is meant by defects in a crystal structure? Interpret the probable. causes
+
+i = behind such defects.. Summarize different types of point defects in solids with [10]
+proper illustration.
+
+CO-1; BL- The inter-planar spacing of [1 1 0] plane is 3 A for a FCC crystal: Find the atomic [6]
+
+4 radius. .
+
+CO-1; BL- ; ~
+
+3,4 Define the valence band and the conduction band of a crystalline structure. : [4]
+
+Q3 [20]
+
+CO-1; BL- Show that the Fermi level of an intrinsic semiconductor lies at the half of the energy 110]
+
+1,2 band gap at low temperature.
+
+eee An intrinsic semiconductor with an intrinsic carrier concentration of 8 x 10° /m?
+
+4 ; at 300 K, is made n-type material. If the density of donor atoms is 107! m®, | [6]
+determine the electron and hole densities.
+
+CO-1; BL- ;
+
+34 Explain unit cell of a crystal structure with figure. [4]
+
+Q4 [20]
+
+CO-2; BL- ;
+
+12 Explain the dispersive power and the resolving power of a grating. [10]
+
+CO-2; BL- Monochromatic light of 4 = 6328 A falls normally on the grating of width 2 cm.
+
+d The first order spectrum is produced at an angle 20° from the normal. What is the | [6]
+total number of lines on the grating? ;
+
+CO-2; BL-
+
+34 Examine why two level systems fail to produce lasers. [4]
+
+Qs [20]
+
+CO-2; BL- Classify different types of joss mechanism encountered by a signal in an optical 0]
+
+1,2 fiber.
+
+cecape A ruby rod with a total number of 25x10 Cr ions, take part in laser production.
+
+4 If the laser emits at 6990 A wavelength, find (i) the energy of one emitted photon, [6] |
+(ii) the total energy available per laser pulse. _
+
+CO-2; BL- If energy is always conserved then Rone the energy in the dark fringe of an [4]
+
+3,4 interference pattern seems destroyed?
+
+Qo J [20]
+--- page 3 ---
+al rs
+
+CO-3; BL- : — ‘
+
+a Briefly describe different types of magnetic materials. [10]
+CO-3; BL- For a straight wire carrying a current of 0.5 A, calculate the magnetic field at a
+
+4 distance of 2 meter from the wire.
+
+CO-1; BL- =e
+aA Explain atomic packing factor (APF) of a crystal. [4]
+Q7 [20]
+CO-2; BL- : :
+
+1D Explain the construction and working of He-Ne laser with relevant diagrams. [10]
+bet Bb NaCl crystals have FCC crystal structure. The density of NaCl is 2.18 x 10° kg/m’,
+
+4 ; the atomic weight of Na is 23 and that of Cl is 35.5. Find the lattice constant. Given [6]
+
+Avogadro number N = 6.02 x 10” mole™,
+CO-3; BL-
+aa State Lorentz force equation with mathematical expression. [4]
+````
 
 ## 2024-25 · Final + Re-Exam · Sem 3 · paper 78235597089e
 
@@ -987,42 +1142,39 @@ Examine Ampere’s law of electromagnetism.   [4]
 ********** 3 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 3 · paper a0fa331c40af
+## 2024-25 · Re-Exam · Sem 3 · paper 83e68ef8df68
 
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED / ENGINEEING PHYSICS
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/ENGINEEING PHYSICS/Sem_03/Physics III Batch 2022-23,2023-24,2024-25 Re Exam0001.pdf`
+- Departments: Common (all branches), Computer Engineering, Data Science, Information Technology, Mechanical
+- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / ENGINEEING PHYSICS, B.TECH INTEGRATED / IT, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/ENGINEEING PHYSICS/Sem_03/Physics III Batch 2022-23 Re Exam_83e68ef8df.pdf` (+4 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 86.6
+- Text: ocr (2 pages), mean OCR confidence 91.0
 
 ````text
-MPSTME |
-LIBRARY
+MPSTME
 
-SVKM’S NMIMS _
-NERS
+LEBRARY
 
-rs
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
 
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026
+Program: B.Tech Integrated Stream ; Mechanical/IT/DS/Computer Year: II Semester: III
 
-Program/s: B Tech (Integrated) [Comp, DS, IT, Mech.] Year: II Semester: III
-Stream/s : All : F ;
-“Subject: Physics III . Time: 3 hrs. (40.AM to 4« PM) *
-Date: 03 J4o|ooos ; No. of Pages: 3
+Subject: Physics III Time: 3 hrs (2pm to Spr7 )
+Date:_27 /NOW 2024 . No. of Pages: 2
 
 Marks: 100
 
-Re-Examination (2022-2023, 2023-24 and 2024-25)
+Re-Examination (Batch_2022 - 2023)
 
-‘Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-(> of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for théir use.
 
-1) Question No. 1 is compulsory.
+1) Question No. _1__ is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions. .
-3) In all 5 questions to be attempted.
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5__ questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -1031,115 +1183,80 @@ Re-Examination (2022-2023, 2023-24 and 2024-25)
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-[Given: Planck’s constant h = 6.625 x 1034 J-s = 4.14 x 10°" eV-s, Speed of light, c = 3 x 10° m/s, electronic
-mass, me = 9.1 x 103! kg, electronic charge, e = 1.6 x 10'? C, Boltzmann’s constant, kg = 1.38 x 1073 J/K]
+“
 
-Qi . ,
-Answer briefly: [20]
+Q.1 Answer briefly . [20]
+CO-1; a. Discuss in brief the Schottky defect and Frenkel defect in crystal structure. 4
+SO-1;
+BL-1
 
-CO-1 ; a : : . : :
+_~ | CO-1; b. The intrinsic carrier density is 1.5 x 10!6 m-. If the mobility of the electron | 4
+a and hole are 0.13 and 0.05 m* V-! s"|, calculate the resistivity.
+CO-2; Cc: List any four conditions to obtain a sustained interference pattern. 4
+SO-1;
+BL-1l
+CO-2; d. Define and describe population inversion and metastable state. 4
+SO-1;
+BL-2
+CO-3; e. Write an expression for the Biot Savart law and explain it. 4
+SO-1;
+BL-1
+Q.2 a. Determine the coordination number, number of atoms per unit cell, atomic | 10
 
-> . What is a crystal? Discuss with proper diagram and examples. [4]
+radius and atomic packing fraction for simple cubic crystal lattice
 
->| BL- 1,2 » ial ‘
-CO-1'; : b. Define Hall effect with proper illustration. © [4]
-BL-1,2 .
-CO-2; c Explain diffraction of light. [4]
-| BL-1,2
-d. In an optical fiber, the core refractive index is 1.5 and the cladding refractive index
-nae is 1.41 What is the value of critical angle at the core-cladding interface? Also | [4]
-; calculate the value of the numerical aperture of this optical fiber.
-CO- 3; & What is Ampere’s law of electromagnetism? [4]
-BL-1,2 :
-Q z : ; [20]
-- al
-~
-1
+A
 --- page 2 ---
-i
+CO-1,2; Draw the planes having miller indices (121), (231). 6
+SO-1; In a Newton’s rings experiment, the diameter of the 4" and 12" dark rings are | 4
+BL-2,3 0.400 cm and 0.700 cm respectively. Determine the diameter of 20" dark ring.
+Q:3 Explain formation of energy bands in solids on the basis of band theory. 10
+CO-1,2; The Hall coefficient of certain silicon specimen was found to be —7.35 x 10> | 6
+SO-1; m3 C~! from 100 to 400 K. Determine the nature of the semiconductor. If the
+BL-1,2,3 conductivity was found to be 200 Q-'m"!. Calculate the density and mobility
 
-What is meant by defects in a crystal structure? Interpret the probable. causes
+of the charge carrier.
 
-i = behind such defects.. Summarize different types of point defects in solids with [10]
-proper illustration.
+A grating has 15 cm of the surface ruled with 6000 lines / cm. What is the 4
 
-CO-1; BL- The inter-planar spacing of [1 1 0] plane is 3 A for a FCC crystal: Find the atomic [6]
+resolving power of the grating in the first and second order?
+Q.4 Discuss the Fraunhoffer’s diffraction from single slits. Give the conditions 10
+CO-2,3; for maxima and minima.
+SO-1; Explain diamagnetism, pareaningr isi and ferromagnetism with proper | 6
+BL-2,3 examples. ,
 
-4 radius. .
+Calculate the numerical aperture and acceptance angle of an optical fiber if the | 4
 
-CO-1; BL- ; ~
+R.I of core is 1.45 and R.I of cladding’is 1.40.
+Q.5 Discuss attenuation and dispersion encountered in an optical fiber. 10
+CO-1,2; Hall coefficient of a specimen of depend silicon found to be 3.66 x 10 m? C~ | 6
+SO-1; ‘| The resistivity of the specimen is 8.93 x 103m. Find the mobility and
+BL-1,3 density of the charge carriers.
 
-3,4 Define the valence band and the conduction band of a crystalline structure. : [4]
+List any four advantages of optical fibers. 4
+Q.6 Explain in detail the construction and working of He-Ne laser with an energy | 10
+CO-1,2; level diagram.
+SO-1; Explain the method for determination of wavelength of light using Newton’s | 6
+BL-2,3 rings.
 
-Q3 [20]
+A naturally occurring gold crystallizes in face centered cubic structure and has | 4
 
-CO-1; BL- Show that the Fermi level of an intrinsic semiconductor lies at the half of the energy 110]
+a density of 19.3 gem’. Calculate the atomic radius of gold. (Au = 197 gmol
 
-1,2 band gap at low temperature.
+1
 
-eee An intrinsic semiconductor with an intrinsic carrier concentration of 8 x 10° /m?
+)
+Q7 What is the Hall effect? Deduce the expression for Hall coefficient for a | 10
+CO-1,3; current carrying extrinsic semiconductor bar.
+SO-1; Determine the Miller indices of a plane having intercepts of (1/2, 1 1/2), (2, - | 6
+BL-1,2 3, 4) A on the X, Y and Z axes.
 
-4 ; at 300 K, is made n-type material. If the density of donor atoms is 107! m®, | [6]
-determine the electron and hole densities.
+The magnetic susceptibility of silicon is —0.4 x 10°. Estimate the magnetic | 4
 
-CO-1; BL- ;
+induction and magnetization when magnetic field of intensity 5 x 10° 4/m is
+applied.
 
-34 Explain unit cell of a crystal structure with figure. [4]
-
-Q4 [20]
-
-CO-2; BL- ;
-
-12 Explain the dispersive power and the resolving power of a grating. [10]
-
-CO-2; BL- Monochromatic light of 4 = 6328 A falls normally on the grating of width 2 cm.
-
-d The first order spectrum is produced at an angle 20° from the normal. What is the | [6]
-total number of lines on the grating? ;
-
-CO-2; BL-
-
-34 Examine why two level systems fail to produce lasers. [4]
-
-Qs [20]
-
-CO-2; BL- Classify different types of joss mechanism encountered by a signal in an optical 0]
-
-1,2 fiber.
-
-cecape A ruby rod with a total number of 25x10 Cr ions, take part in laser production.
-
-4 If the laser emits at 6990 A wavelength, find (i) the energy of one emitted photon, [6] |
-(ii) the total energy available per laser pulse. _
-
-CO-2; BL- If energy is always conserved then Rone the energy in the dark fringe of an [4]
-
-3,4 interference pattern seems destroyed?
-
-Qo J [20]
---- page 3 ---
-al rs
-
-CO-3; BL- : — ‘
-
-a Briefly describe different types of magnetic materials. [10]
-CO-3; BL- For a straight wire carrying a current of 0.5 A, calculate the magnetic field at a
-
-4 distance of 2 meter from the wire.
-
-CO-1; BL- =e
-aA Explain atomic packing factor (APF) of a crystal. [4]
-Q7 [20]
-CO-2; BL- : :
-
-1D Explain the construction and working of He-Ne laser with relevant diagrams. [10]
-bet Bb NaCl crystals have FCC crystal structure. The density of NaCl is 2.18 x 10° kg/m’,
-
-4 ; the atomic weight of Na is 23 and that of Cl is 35.5. Find the lattice constant. Given [6]
-
-Avogadro number N = 6.02 x 10” mole™,
-CO-3; BL-
-aa State Lorentz force equation with mathematical expression. [4]
+2-
 ````
 
 ## 2024-25 · Re-Exam · Sem 3 · paper 8a2d2f7482f4
@@ -1259,6 +1376,155 @@ ini Examine Ampere’s law of electromagnetism. [4]
 od
 
 FR Kk
+````
+
+## 2024-25 · Re-Exam · Sem 3 · paper 1a2983dad124
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED / ENGINEEING PHYSICS
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/ENGINEEING PHYSICS/Sem_03/Physics-III Batch 2022-23 Re Exam.pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN GINEERING
+Academic Year: 2024-2025
+
+Program: B.Tech Integrated Stream ; Mechanical/IT/DS/Computer Year: II Semester: III
+Subject: Physics III Time: 3 hrs (JOgm to 1 pm
+Date:_J5/ 02/2025 . No. of Pages: 2
+
+Masks: 100
+
+Re-Examination (Batch_2022-2023)
+
+Tatra ‘ens: Candidates should read carefully the instructions printed on the question paper and on
+the cover « ‘f the Answer Book, which is provided for their use.
+
+1) Question Nu. —!___ is compulsory.
+2) Out of remaini. *8 questions, attempt any 4 _ questions.
+3)Inall__5_ que. ‘tions to be attempted.
+4) All questions carry ©qual marks.
+
+\ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets o1,° the right hand side indicate full marks.
+7) Assume Suitable data ii” necessary.
+
+Ones Answer br: efly [20]
+CO-1; «| a. Discuss in vrief the ordering in the crystal structure. 4
+SO-1;
+
+pei = + Oe
+
+CO-1; b. . | For an intrinsic semiconductor with energy gap of 0.7 eV, determine the position | 4
+SO-1, ’ | of the Fermi level at 300 K if m}, is six times of m3.
+
+BL-2
+
+CO-2; Gs What are coherent :sources? How are they obtained in practice? 4
+SO-1;
+
+BL-1 :
+
+CO-2; d. Explain stimulated emission and its importance for laser production. 4
+SO-1;
+
+BL-2 :
+
+CO-3; e. Write an expression for the Lorentz force and explain. 4
+SO-1;
+
+BL-1
+
+Oy) a. Determine the coordination number, number of atoms per unit cell, atomic | 10
+
+radius and atomic packing fraction for BCC crystal lattice
+--- page 2 ---
+CO-1,2;
+SO-1;
+BL-2,3
+
+Find out the miller indices for (121) and (321) planes. 6
+
+A soap film of 5 X 10-7 m thick is viewed at an angle of 35 degree to the normal. | 4
+Find the wavelengths of light in the visible spectrum, which will be absent from
+the reflected light. Given the refractive index of the film = 1.33.
+
+Q3
+CO-1,2;
+SO-1;
+BL-1,2,3
+
+Explain how solids are classified into conductors, semiconductors and | 10
+insulators on the basis of band theory.
+
+What is the probability that an energy level (a) kT (b) 3kT (c) 10-kT above the | 6
+fermi level is occupied by an electron?
+
+A parallel beam of light of wavelength 5890 A is incident on a glass plate having | 4
+refractive index jt = 1.5 such that the angle of refraction, in the plate is 60°.
+Calculate the smallest thickness of glass plate for which it will appear dark in
+reflected light.
+
+Q.4
+CO-2,3;
+SO-1;
+BL-2,3
+
+Calculate the path difference between two rays emitted from the upper an | 10
+lower boundary of the thin film. Draw a neat labelled diagram.
+
+Explain the terms a) magnetization b) magnetic susceptibility and c) a netic | 6
+induction. Give the relationship between the magnetic field and ragnetic
+induction.
+
+Calculate the numerical aperture and acceptance angle of an Gpacal qbe! if the | 4
+R.Lof core is 1.55 and R.I of cladding is 1.50.
+
+Q5
+CO-1,2;
+SO-1;
+BL-13
+
+Classify the optical fibers based on R.I profile and modes of psopagation. 10
+
+Ina P-type germanium, intrinsic carrier concéntration is 2.1°X 1019 m3, density | 6
+of Bo) is 4.5 X 103 atoms/m?. The election and hole mépility are is 4 and 0.2
+
+m? v! s"! respectively. What is its Eee before, and after addition of
+boron atoms.
+
+List any four advantages of four level,lasers. : 4
+
+Q.6
+CO-1,2;
+SO-1;
+BL-2,3
+
+Explain in detail the construction and working of Ruby laser with an energy | 10
+level diagram.
+
+Explain how the refractive index of a liquid can be determined using Newton’s | 6
+rings?
+
+The inter planar spacing of [1 1 0] plane is 2 A for a FCC crystal. Find the | 4
+atomic radius,
+
+Q7
+CO-1,3;
+SO-1;
+BL-1,2
+
+Show that for an intrinsic semiconductor, at low temperature, Fermi level lies | 10
+at the half of the energy band gap.
+
+Draw the planes having miller indices (121), (210). 6
+
+A circular coil of radius 5 x 107 m and with 40 turns is carrying a current of | 4
+
+0.25 A. Estimate the magnetic field of the circular coil at the center. o=47x10"
+TT im
 ````
 
 ## 2023-24 · Final-Exam · Sem 3 · paper 96f354c14d7b
@@ -1384,6 +1650,112 @@ CO-1; BL- | b. Draw the planes having Miller indices (121), (231), (120) with re
 CO-3; BL- | c.
 
 84 Explain Ampere’s law of electromagnetism. : [4]
+````
+
+## 2023-24 · Re-Exam · Sem 3 · paper a7b5f9432129
+
+- Departments: Common (all branches), Information Technology, Mechanical
+- Programmes: B.TECH INTEGRATED / ENGINEEING PHYSICS, B.TECH INTEGRATED / IT, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/ENGINEEING PHYSICS/Sem_03/Physics III Batch 2022-23 Re Exam.pdf` (+2 identical copies)
+- Printed on paper: duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024)
+
+Program: B.Tech Integrated Stream ;Mechanical/IT/DS/Computer Year: II Semester: III
+
+Subject: Physics III Time: 3 hrs (Ap.omto Span)
+Date:_23/11 / 2% ; No. of Pages:__2
+
+Marks: _100
+
+Re-Examination (20 25-2 3)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO-2; a. | List any four practical applications of Laser and Fibre optics. -
+SO-1;
+
+BL-1
+
+CO-1; b. | State the law of mass action for a semiconductor. 4
+SO-1;
+
+BL-2
+
+CO-2; c. | Differentiate between interference and diffraction with two points each. 4
+SO-1;
+
+BL-1 *
+
+CO-1; d. | Ina simple cubic and face centered cubic structure what would be the number of
+SO-1; atoms per unit cell. 4
+BL-1
+
+CO-3; e. | Define Biot-Savart law and write the expression for it. 4
+SO-1;
+
+BL-1,2
+
+Q2 a. | Define and determine the coordination number and atomic packing fraction for 10
+CO-1,2: BCC lattice.
+
+S a
+
+ae b. | Newton’s rings are formed by light reflected normally from convex lens of radius
+
+of curvature of 90 cm and a glass plate with liquid in between them. The diameter
+of n" dark ring is .225 cm and that of (n + 9)" dark ring is .45 cm. Evaluate the
+refractive index of the liquid. Given 4 = 6000x10° cm. 6
+
+c. | Draw the planes having miller indices (121), (120) in a unit cube. 4
+--- page 2 ---
+Q3 a. | Describe the formation of n-type and p-type semiconductor. a 10
+CO-1,2;
+
+SO-1: b. | Define coherent sources. Mention the methods to obtain coherent sources. 6
+aad c. | A bar of n-type Ge of thickness 0.001 m is mounted in a magnetic field of 0.2T
+and 43.68x10° A current is flowing through the specimen. The electron density in
+the bar is 7x10?!/m? Determine the Hall voltage across it. 4
+Q4 a. | Explain the formation of Newton’s rings with proper diagram? 10
+Son b. | An element has atomic mass 120gm and BCC structure. Density of the element is
+BL23 5.2gm/cm?. Calculate the volume of unit cell. 6
+c. | Calculate the refractive indices of core and cladding materials of an optical fiber if
+its numerical aperture is 0.22 and relative refractive index difference is 0.012. 4
+Q5 a. | Describe the structure of optical fiber with diagram. 10
+So. b. | Classify different materials according to their magnetic properties. Give one
+BL-13 examples of each type. 6
+c. | List four differences between laser and non-laser source. 4
+Q6 a. | Explain the construction and working of He-Ne laser with neat labelled diagram. | 10
+anh 25 b. | Write down the corrected mathematical expressions for maxima and minima of
+BL-2.3 thin film. 6
+c. | Define lattice parameters with image. 4
+Q7 a. | Explain the differences between insulators, semiconductors and conductors on the
+CO-1.2.3: basis of energy band diagram. 10
+o 5 b. | Prove that the radius of nth Newton’s dark ring is proportional to the square root
+> of natural number. 6
+
+c. | A particle of charge q moves in the positive y direction. Find the Lorentz force
+experienced by the particle i. when magnetic field is along positive y direction, ii.
+when magnetic field is along positive z direction. 4
 ````
 
 ## 2023-24 · Re-Exam · Sem 3 · paper 086c79267abd
@@ -1667,112 +2039,6 @@ refractive index of 1.41. Determine a) the numerical aperture, b) the relative
 refractive index difference, c) the acceptance angle and d) acceptance cone.
 
 3s
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper a7b5f9432129
-
-- Departments: Common (all branches), Information Technology, Mechanical
-- Programmes: B.TECH INTEGRATED / ENGINEEING PHYSICS, B.TECH INTEGRATED / IT, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/ENGINEEING PHYSICS/Sem_03/Physics III Batch 2022-23 Re Exam.pdf` (+2 identical copies)
-- Printed on paper: duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2023-2024)
-
-Program: B.Tech Integrated Stream ;Mechanical/IT/DS/Computer Year: II Semester: III
-
-Subject: Physics III Time: 3 hrs (Ap.omto Span)
-Date:_23/11 / 2% ; No. of Pages:__2
-
-Marks: _100
-
-Re-Examination (20 25-2 3)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-CO-2; a. | List any four practical applications of Laser and Fibre optics. -
-SO-1;
-
-BL-1
-
-CO-1; b. | State the law of mass action for a semiconductor. 4
-SO-1;
-
-BL-2
-
-CO-2; c. | Differentiate between interference and diffraction with two points each. 4
-SO-1;
-
-BL-1 *
-
-CO-1; d. | Ina simple cubic and face centered cubic structure what would be the number of
-SO-1; atoms per unit cell. 4
-BL-1
-
-CO-3; e. | Define Biot-Savart law and write the expression for it. 4
-SO-1;
-
-BL-1,2
-
-Q2 a. | Define and determine the coordination number and atomic packing fraction for 10
-CO-1,2: BCC lattice.
-
-S a
-
-ae b. | Newton’s rings are formed by light reflected normally from convex lens of radius
-
-of curvature of 90 cm and a glass plate with liquid in between them. The diameter
-of n" dark ring is .225 cm and that of (n + 9)" dark ring is .45 cm. Evaluate the
-refractive index of the liquid. Given 4 = 6000x10° cm. 6
-
-c. | Draw the planes having miller indices (121), (120) in a unit cube. 4
---- page 2 ---
-Q3 a. | Describe the formation of n-type and p-type semiconductor. a 10
-CO-1,2;
-
-SO-1: b. | Define coherent sources. Mention the methods to obtain coherent sources. 6
-aad c. | A bar of n-type Ge of thickness 0.001 m is mounted in a magnetic field of 0.2T
-and 43.68x10° A current is flowing through the specimen. The electron density in
-the bar is 7x10?!/m? Determine the Hall voltage across it. 4
-Q4 a. | Explain the formation of Newton’s rings with proper diagram? 10
-Son b. | An element has atomic mass 120gm and BCC structure. Density of the element is
-BL23 5.2gm/cm?. Calculate the volume of unit cell. 6
-c. | Calculate the refractive indices of core and cladding materials of an optical fiber if
-its numerical aperture is 0.22 and relative refractive index difference is 0.012. 4
-Q5 a. | Describe the structure of optical fiber with diagram. 10
-So. b. | Classify different materials according to their magnetic properties. Give one
-BL-13 examples of each type. 6
-c. | List four differences between laser and non-laser source. 4
-Q6 a. | Explain the construction and working of He-Ne laser with neat labelled diagram. | 10
-anh 25 b. | Write down the corrected mathematical expressions for maxima and minima of
-BL-2.3 thin film. 6
-c. | Define lattice parameters with image. 4
-Q7 a. | Explain the differences between insulators, semiconductors and conductors on the
-CO-1.2.3: basis of energy band diagram. 10
-o 5 b. | Prove that the radius of nth Newton’s dark ring is proportional to the square root
-> of natural number. 6
-
-c. | A particle of charge q moves in the positive y direction. Find the Lorentz force
-experienced by the particle i. when magnetic field is along positive y direction, ii.
-when magnetic field is along positive z direction. 4
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper c884e037d74d
@@ -2095,272 +2361,6 @@ direction, ii. when magnetic field is along positive z direction.
 10
 
 4
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper 83e68ef8df68
-
-- Departments: Common (all branches), Computer Engineering, Data Science, Information Technology, Mechanical
-- Programmes: B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / ENGINEEING PHYSICS, B.TECH INTEGRATED / IT, B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/ENGINEEING PHYSICS/Sem_03/Physics III Batch 2022-23 Re Exam_83e68ef8df.pdf` (+4 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-MPSTME
-
-LEBRARY
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: B.Tech Integrated Stream ; Mechanical/IT/DS/Computer Year: II Semester: III
-
-Subject: Physics III Time: 3 hrs (2pm to Spr7 )
-Date:_27 /NOW 2024 . No. of Pages: 2
-
-Marks: 100
-
-Re-Examination (Batch_2022 - 2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for théir use.
-
-1) Question No. _1__ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-“
-
-Q.1 Answer briefly . [20]
-CO-1; a. Discuss in brief the Schottky defect and Frenkel defect in crystal structure. 4
-SO-1;
-BL-1
-
-_~ | CO-1; b. The intrinsic carrier density is 1.5 x 10!6 m-. If the mobility of the electron | 4
-a and hole are 0.13 and 0.05 m* V-! s"|, calculate the resistivity.
-CO-2; Cc: List any four conditions to obtain a sustained interference pattern. 4
-SO-1;
-BL-1l
-CO-2; d. Define and describe population inversion and metastable state. 4
-SO-1;
-BL-2
-CO-3; e. Write an expression for the Biot Savart law and explain it. 4
-SO-1;
-BL-1
-Q.2 a. Determine the coordination number, number of atoms per unit cell, atomic | 10
-
-radius and atomic packing fraction for simple cubic crystal lattice
-
-A
---- page 2 ---
-CO-1,2; Draw the planes having miller indices (121), (231). 6
-SO-1; In a Newton’s rings experiment, the diameter of the 4" and 12" dark rings are | 4
-BL-2,3 0.400 cm and 0.700 cm respectively. Determine the diameter of 20" dark ring.
-Q:3 Explain formation of energy bands in solids on the basis of band theory. 10
-CO-1,2; The Hall coefficient of certain silicon specimen was found to be —7.35 x 10> | 6
-SO-1; m3 C~! from 100 to 400 K. Determine the nature of the semiconductor. If the
-BL-1,2,3 conductivity was found to be 200 Q-'m"!. Calculate the density and mobility
-
-of the charge carrier.
-
-A grating has 15 cm of the surface ruled with 6000 lines / cm. What is the 4
-
-resolving power of the grating in the first and second order?
-Q.4 Discuss the Fraunhoffer’s diffraction from single slits. Give the conditions 10
-CO-2,3; for maxima and minima.
-SO-1; Explain diamagnetism, pareaningr isi and ferromagnetism with proper | 6
-BL-2,3 examples. ,
-
-Calculate the numerical aperture and acceptance angle of an optical fiber if the | 4
-
-R.I of core is 1.45 and R.I of cladding’is 1.40.
-Q.5 Discuss attenuation and dispersion encountered in an optical fiber. 10
-CO-1,2; Hall coefficient of a specimen of depend silicon found to be 3.66 x 10 m? C~ | 6
-SO-1; ‘| The resistivity of the specimen is 8.93 x 103m. Find the mobility and
-BL-1,3 density of the charge carriers.
-
-List any four advantages of optical fibers. 4
-Q.6 Explain in detail the construction and working of He-Ne laser with an energy | 10
-CO-1,2; level diagram.
-SO-1; Explain the method for determination of wavelength of light using Newton’s | 6
-BL-2,3 rings.
-
-A naturally occurring gold crystallizes in face centered cubic structure and has | 4
-
-a density of 19.3 gem’. Calculate the atomic radius of gold. (Au = 197 gmol
-
-1
-
-)
-Q7 What is the Hall effect? Deduce the expression for Hall coefficient for a | 10
-CO-1,3; current carrying extrinsic semiconductor bar.
-SO-1; Determine the Miller indices of a plane having intercepts of (1/2, 1 1/2), (2, - | 6
-BL-1,2 3, 4) A on the X, Y and Z axes.
-
-The magnetic susceptibility of silicon is —0.4 x 10°. Estimate the magnetic | 4
-
-induction and magnetization when magnetic field of intensity 5 x 10° 4/m is
-applied.
-
-2-
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper 1a2983dad124
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED / ENGINEEING PHYSICS
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/ALL STREAM/ENGINEEING PHYSICS/Sem_03/Physics-III Batch 2022-23 Re Exam.pdf`
-- Printed on paper: duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN GINEERING
-Academic Year: 2024-2025
-
-Program: B.Tech Integrated Stream ; Mechanical/IT/DS/Computer Year: II Semester: III
-Subject: Physics III Time: 3 hrs (JOgm to 1 pm
-Date:_J5/ 02/2025 . No. of Pages: 2
-
-Masks: 100
-
-Re-Examination (Batch_2022-2023)
-
-Tatra ‘ens: Candidates should read carefully the instructions printed on the question paper and on
-the cover « ‘f the Answer Book, which is provided for their use.
-
-1) Question Nu. —!___ is compulsory.
-2) Out of remaini. *8 questions, attempt any 4 _ questions.
-3)Inall__5_ que. ‘tions to be attempted.
-4) All questions carry ©qual marks.
-
-\ 5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets o1,° the right hand side indicate full marks.
-7) Assume Suitable data ii” necessary.
-
-Ones Answer br: efly [20]
-CO-1; «| a. Discuss in vrief the ordering in the crystal structure. 4
-SO-1;
-
-pei = + Oe
-
-CO-1; b. . | For an intrinsic semiconductor with energy gap of 0.7 eV, determine the position | 4
-SO-1, ’ | of the Fermi level at 300 K if m}, is six times of m3.
-
-BL-2
-
-CO-2; Gs What are coherent :sources? How are they obtained in practice? 4
-SO-1;
-
-BL-1 :
-
-CO-2; d. Explain stimulated emission and its importance for laser production. 4
-SO-1;
-
-BL-2 :
-
-CO-3; e. Write an expression for the Lorentz force and explain. 4
-SO-1;
-
-BL-1
-
-Oy) a. Determine the coordination number, number of atoms per unit cell, atomic | 10
-
-radius and atomic packing fraction for BCC crystal lattice
---- page 2 ---
-CO-1,2;
-SO-1;
-BL-2,3
-
-Find out the miller indices for (121) and (321) planes. 6
-
-A soap film of 5 X 10-7 m thick is viewed at an angle of 35 degree to the normal. | 4
-Find the wavelengths of light in the visible spectrum, which will be absent from
-the reflected light. Given the refractive index of the film = 1.33.
-
-Q3
-CO-1,2;
-SO-1;
-BL-1,2,3
-
-Explain how solids are classified into conductors, semiconductors and | 10
-insulators on the basis of band theory.
-
-What is the probability that an energy level (a) kT (b) 3kT (c) 10-kT above the | 6
-fermi level is occupied by an electron?
-
-A parallel beam of light of wavelength 5890 A is incident on a glass plate having | 4
-refractive index jt = 1.5 such that the angle of refraction, in the plate is 60°.
-Calculate the smallest thickness of glass plate for which it will appear dark in
-reflected light.
-
-Q.4
-CO-2,3;
-SO-1;
-BL-2,3
-
-Calculate the path difference between two rays emitted from the upper an | 10
-lower boundary of the thin film. Draw a neat labelled diagram.
-
-Explain the terms a) magnetization b) magnetic susceptibility and c) a netic | 6
-induction. Give the relationship between the magnetic field and ragnetic
-induction.
-
-Calculate the numerical aperture and acceptance angle of an Gpacal qbe! if the | 4
-R.Lof core is 1.55 and R.I of cladding is 1.50.
-
-Q5
-CO-1,2;
-SO-1;
-BL-13
-
-Classify the optical fibers based on R.I profile and modes of psopagation. 10
-
-Ina P-type germanium, intrinsic carrier concéntration is 2.1°X 1019 m3, density | 6
-of Bo) is 4.5 X 103 atoms/m?. The election and hole mépility are is 4 and 0.2
-
-m? v! s"! respectively. What is its Eee before, and after addition of
-boron atoms.
-
-List any four advantages of four level,lasers. : 4
-
-Q.6
-CO-1,2;
-SO-1;
-BL-2,3
-
-Explain in detail the construction and working of Ruby laser with an energy | 10
-level diagram.
-
-Explain how the refractive index of a liquid can be determined using Newton’s | 6
-rings?
-
-The inter planar spacing of [1 1 0] plane is 2 A for a FCC crystal. Find the | 4
-atomic radius,
-
-Q7
-CO-1,3;
-SO-1;
-BL-1,2
-
-Show that for an intrinsic semiconductor, at low temperature, Fermi level lies | 10
-at the half of the energy band gap.
-
-Draw the planes having miller indices (121), (210). 6
-
-A circular coil of radius 5 x 107 m and with 40 turns is carrying a current of | 4
-
-0.25 A. Estimate the magnetic field of the circular coil at the center. o=47x10"
-TT im
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper e84e7a76e9f4

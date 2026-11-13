@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Chemical Reaction engineering II/Chemical Reaction engg II,Sem6,Final,2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 April 2022
 - Text: ocr (3 pages), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ?
@@ -117,7 +118,6 @@ CO-1; | a. | Consider the aqueous aie Ade ete a ce? mer {emin [8]
 BL-5. AXB —tLyQ Desivest}
 
 V8 .
-Axe Kee g tunsomat) ACS. yo GPG mel lamin
 
 Equal volumetric flow rates of the A and B streams are fed to the mixed flow reactor,
 and each stream has a concentration of 20 mol/liter of a reactant. For 90%
@@ -163,6 +163,7 @@ model.
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/VI SEMESTER/Chemical Reaction engineering II/Chemcal Reaction Engg-II , Re-exam 2021-2022.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 June 2022
 - Text: ocr (4 pages), mean OCR confidence 90.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -277,7 +278,6 @@ for no recycle, A>3R, n= 1, 50% A and 50% inerts in feed.
 Q5 [20]
 CO-1; | a. | When aqueous A and aqueous B (Cao = Cxo) are brought together they react in two | [6]
 . BL-5 possible ways: Mol
-Ax PRATT ve Se G@ eH
 AxB OD StU Te- (ov Ge mol Im? h
 
 to give a mixture whose concentration of active components (A, B, R, S, T, U) is

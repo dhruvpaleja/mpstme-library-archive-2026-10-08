@@ -148,6 +148,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/DIPLOMA/1ST YEAR/Sem_01/MATHEMATICS - i/Mathematics I 2025-26 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 25 Nov 2025
 - Text: ocr (3 pages), mean OCR confidence 78.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -305,7 +306,6 @@ x+y-Z=6;3x-2y+z2=-5;x+3y—-2z7= :
 
 BL-3 y y yi
 
-Fe ick sok aca dak dk
 .
 ````
 
@@ -1287,6 +1287,7 @@ BL- Low
 - Source: `02_Question_Papers/Legacy/DIPLOMA/1ST YEAR/Sem_01/MATHEMATICS - i/Mathematics I Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Dec 2024
 - Text: ocr (3 pages), mean OCR confidence 77.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTMSE
@@ -1438,7 +1439,6 @@ BL- Low
 
 a = {x: x is a natural number}, B ={x: x is an even natural number},
 = {x: x is an odd natural number} and D = {x: x is a prime number}, find
-a ANB, (ii) A NC, (iii) A ND, (iv) BNC, (v) BND, (vi) CND.
 
 [6]
 
@@ -1959,6 +1959,141 @@ BL- Low
 ********** 3 **********
 ````
 
+## 2024-25 · Re-Exam · Sem 1 · paper a637108dce15
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics-I Batch 2022-23,2023-24 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 79.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B. Tech Integrated Stream : All Streams Year: I Semester: I
+
+Subject: Mathematics-I Time: 3 hrs (2z00pmto S-t00pws)
+Date:_!4 / 2/2025. No. of Pages: 3
+
+Marks: 100
+
+Re-Examination (2022-23,2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Basic calculator is allowed.
+
+Ql
+CO-3; SO-1; . x2-16
+BL2 a, | Evaluate lim a [03]
+CO-2; SO-1; b. . 03]
+BL3 Determine the value of log yz 64. [
+CO-1; SO-1; Given three sets P, Q and R such that
+c.
+Q = {x:x is an odd number, 5 < x < 20}, R = {2,3,5,10,11 ,18}. Find
+i) P—Qi) QNRiii) RUQ.
+CO-1; SO-1; Let A = {1, 2,3} and B= {5, 7, 8}. Define a relation R from A to B by R=
+ee d. | {(x,y): the difference between x and y is even,x € A, y € B}. Write R in | [03]
+roster form.
+Be pot lie. Find 2 given y = 15x + x?. [04]
+
+1/3
+--- page 2 ---
+CO-2; SO-1; fa 7 : 04
+BL2 Convert = radians to degree measure. [04]
+Q2
+CO-2; SO-1;
+BL-3 a. | Prove that logy95 + 2l0gy94 = 10g4980. [06]
+CO-2; SO-1; Find the values of all the five other trigonometric functions if
+b. 06
+BL-2 tand=—,1<0<~=. ee
+12 2
+CO-1; SO-1; | c. | Let f and g be real functions defined respectively by f(x) = x + 1, and
+mes B
+BL-2 g(x) = x*. Find .
+i) F + g)@) ii) F — 9) @) [08]
+iii) Fg) @) iv) (gg) @)
+Q3
+CO-1;S0-1; | a. | Ina group of 800 people, 500 can speak Hindi and 320 can speak English.
+BL-3 Determine the number of people that (i) can speak both Hindi and English, | [06]
+(ii) can speak Hindi only.
+CO-2; SO-1; 2
+B b. | Prove that cot?60° + sin245° + sin?30° + cos?90° == [06]
+L-3 12
+CO-3; SO-1; NEY Ee
+c. | Evaluate lim denies ; ; [08]
+BL-3 x2 x-2
+Q4
+CO-1; SO-1; | a. | Find the domain and range of the function f(x) = =. [06]
+BL-2 35x
+CO-3; SO-1; 3 oerere
+b. | Evaluate lim 2222-2 00s * [06]
+BL-4 x0 Sx+tan 7x
+CO-1;SO-1; |e. | te y= fa 6,i,0,u}, A={a,¢, i}, B= {¢, 0, u} and C= {a, i, u}, then [08]
+BL-2 verify that AN (B-C)=(ANB)-(ANC).
+Q5
+x x. :
+CO-3; $O-1; | a. | Evaluate lim “#2 #23. [06]
+BL-4 x30 x
+CO-4; SO-1;
+b. | Find the derivative of y = x? cos?3.x + 4% + e*. [06]
+BL-2 :
+CO-2; SO-1; i
+c. | Prove that ——=**S* — cot (=) [08]
+BL-4 1+sin x—cos x 2
+
+2/3
+--- page 3 ---
+Q6
+
+CO-1;SO-1; | % |If £g:R—R defined as f(x) = x3 — x and g(x) = sinx,
+
+06] .
+
+BL-2 Determine i) (f° g) (x), i) (g of) (x). (06]
+CO-4; SO-1; ; Ein *~
+
+b. | Find the derivative of y = —— — cosec x. [06]
+BL-2 tanx
+CO-3; SO-1;
+
+c, | Evaluate lim (Vx? + 3x +2—vx? +x+1). [08]
+BL-4 aed
+Q7
+CO-2; 80-1; | 4. The measures of angles of triangle are in ratio 2:3:5. Estimate their measures [06]
+BL-4 in degrees and radians.
+
+Examine the continuity of the function given below:
+Sn |b. | FQ) =22@=249,forx <3 [06]
+b KH)H=xX% —x+-Y, forxs
+BL-3
+=4x+3, forx>3;atx =3.
+
+CO-4; SO-1; .
+ed Find the derivative of y = log(1— V1 —x?). [08]
+
+3/3
+--- page 4 ---
+
+````
+
 ## 2024-25 · Re-Exam · Sem 1 · paper 4252fe470e94
 
 - Departments: Common (all branches)
@@ -2141,6 +2276,7 @@ FOGG oo ik
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2023-24 Final Batch 2022-23 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 76.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2182,7 +2318,6 @@ SO-1: (ii) Write the following set in Roster form {4]
 BL- Low A= {x:x is a prime number less than 10 }.
 (> :
 ath ©) | Let A= {red, blue} and B={b,c,s}, then find [4]
-BL- Low (i) AxB (ii) Bx A.
 CO-2; (c) [4]
 als; Convert the degree measures (200.6’) in degrees, minutes and seconds.
 BL-
@@ -2330,6 +2465,7 @@ BL- Low (i) AQ(BUC)=(ANB)U(ANC) (ii) AU(BNC) =(AUB)A(AUC).
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2022-23,2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 76.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS a
@@ -2361,7 +2497,6 @@ SO-1; ‘ Pl
 BL- Low (ii) Write the set C = {1,4,9,16, 25,36} in the set builder form.
 CO-1; b _ a [4]
 $0.1: ©) | Let A={a,b,c} and B={x,y}, then find ;
-BL- Low (i) Ax B (ii) Bx A.
 cO2; | () [4]
 SO-1; Convert the degree measures (321.9°) in degrees, minutes and seconds.
 BL-
@@ -2532,141 +2667,6 @@ Verify (i) (AN B)'= A'UB' (ii) (AUB)'=A'NB'.
 [8]
 ````
 
-## 2023-24 · Re-Exam · Sem 1 · paper a637108dce15
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics-I Batch 2022-23,2023-24 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 79.6
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: B. Tech Integrated Stream : All Streams Year: I Semester: I
-
-Subject: Mathematics-I Time: 3 hrs (2z00pmto S-t00pws)
-Date:_!4 / 2/2025. No. of Pages: 3
-
-Marks: 100
-
-Re-Examination (2022-23,2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Basic calculator is allowed.
-
-Ql
-CO-3; SO-1; . x2-16
-BL2 a, | Evaluate lim a [03]
-CO-2; SO-1; b. . 03]
-BL3 Determine the value of log yz 64. [
-CO-1; SO-1; Given three sets P, Q and R such that
-is P= (cx EN, 1<x<10}, i
-c.
-Q = {x:x is an odd number, 5 < x < 20}, R = {2,3,5,10,11 ,18}. Find
-i) P—Qi) QNRiii) RUQ.
-CO-1; SO-1; Let A = {1, 2,3} and B= {5, 7, 8}. Define a relation R from A to B by R=
-ee d. | {(x,y): the difference between x and y is even,x € A, y € B}. Write R in | [03]
-roster form.
-Be pot lie. Find 2 given y = 15x + x?. [04]
-
-1/3
---- page 2 ---
-CO-2; SO-1; fa 7 : 04
-BL2 Convert = radians to degree measure. [04]
-Q2
-CO-2; SO-1;
-BL-3 a. | Prove that logy95 + 2l0gy94 = 10g4980. [06]
-CO-2; SO-1; Find the values of all the five other trigonometric functions if
-b. 06
-BL-2 tand=—,1<0<~=. ee
-12 2
-CO-1; SO-1; | c. | Let f and g be real functions defined respectively by f(x) = x + 1, and
-mes B
-BL-2 g(x) = x*. Find .
-i) F + g)@) ii) F — 9) @) [08]
-iii) Fg) @) iv) (gg) @)
-Q3
-CO-1;S0-1; | a. | Ina group of 800 people, 500 can speak Hindi and 320 can speak English.
-BL-3 Determine the number of people that (i) can speak both Hindi and English, | [06]
-(ii) can speak Hindi only.
-CO-2; SO-1; 2
-B b. | Prove that cot?60° + sin245° + sin?30° + cos?90° == [06]
-L-3 12
-CO-3; SO-1; NEY Ee
-c. | Evaluate lim denies ; ; [08]
-BL-3 x2 x-2
-Q4
-CO-1; SO-1; | a. | Find the domain and range of the function f(x) = =. [06]
-BL-2 35x
-CO-3; SO-1; 3 oerere
-b. | Evaluate lim 2222-2 00s * [06]
-BL-4 x0 Sx+tan 7x
-CO-1;SO-1; |e. | te y= fa 6,i,0,u}, A={a,¢, i}, B= {¢, 0, u} and C= {a, i, u}, then [08]
-BL-2 verify that AN (B-C)=(ANB)-(ANC).
-Q5
-x x. :
-CO-3; $O-1; | a. | Evaluate lim “#2 #23. [06]
-BL-4 x30 x
-CO-4; SO-1;
-b. | Find the derivative of y = x? cos?3.x + 4% + e*. [06]
-BL-2 :
-CO-2; SO-1; i
-c. | Prove that ——=**S* — cot (=) [08]
-BL-4 1+sin x—cos x 2
-
-2/3
---- page 3 ---
-Q6
-
-CO-1;SO-1; | % |If £g:R—R defined as f(x) = x3 — x and g(x) = sinx,
-
-06] .
-
-BL-2 Determine i) (f° g) (x), i) (g of) (x). (06]
-CO-4; SO-1; ; Ein *~
-
-b. | Find the derivative of y = —— — cosec x. [06]
-BL-2 tanx
-CO-3; SO-1;
-
-c, | Evaluate lim (Vx? + 3x +2—vx? +x+1). [08]
-BL-4 aed
-Q7
-CO-2; 80-1; | 4. The measures of angles of triangle are in ratio 2:3:5. Estimate their measures [06]
-BL-4 in degrees and radians.
-
-Examine the continuity of the function given below:
-Sn |b. | FQ) =22@=249,forx <3 [06]
-b KH)H=xX% —x+-Y, forxs
-BL-3
-=4x+3, forx>3;atx =3.
-
-CO-4; SO-1; .
-ed Find the derivative of y = log(1— V1 —x?). [08]
-
-3/3
---- page 4 ---
-
-````
-
 ## 2022-23 · Final + Re-Exam · Sem 1 · paper 1175af49360b
 
 - Departments: Common (all branches)
@@ -2833,6 +2833,123 @@ CO-4;SO- . . . 2 3/2 ~sinx 8
 1: BL2 c. Find the derivative of y= [1 +COS (x - 1) +e . [08]
 
 3/3
+````
+
+## 2022-23 · Re-Exam · Sem 1 · paper c6f19b201828
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/Mathematics I/Mathematics -I, 1st Year, Sem I, Year 2020-2021 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 January 2023
+- Text: ocr (3 pages), mean OCR confidence 80.1
+
+````text
+VS SVKM’s NMIMS
+“]MYKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+ee SEHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23
+
+Programme: B.Tech (All Streams) / MBA T: ‘ech (All Streams) Year: I Semester: I
+Subject: Mathematics-I
+
+Marks: 100
+Date: 03 January 2023 Time: 11.00 am - 2.00 pm
+
+Durations: 3 (Hrs)
+Re- Examination (2020-21) No-of pages +
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+a
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+=“ Answer briefly: . (20)
+
+CJ
+
+a. | Evaluate the improper integral, [ra . 4
+x
+1
+C
+b. | Pind 'c' of the Lagrange Mean Value theorem, f(x) = x? —4 over [2,3]. 4
+® |If wu =e”, Prove that =(143xyz+x’y’z") e””. 4
+@xdyoz (1432+ 7y"2")
+
+d. | Determine if S = { (1, 2, 1), (1, 1, -1), (4, 5, -2) } is linearly independent in R°. 4
+
+1 =
+e Verify that, adj(adjA)= A|A| for A=| 2 1 -2). 4
+
+; 2 2 1
+
+1/3
+--- page 2 ---
+Q2
+
+[20] | *
+A | Let W = { (x, y)eR’* /ax + by = 0 }. Show that W is subspace of R? . é
+1 -1 2 6
+B | Reduce the matrix | 3. -7 4 8 |to row-echelon form and find its rank. 6
+—2 8 19
+Cc Determine the surface area of the solid obtained by rotating y= (9 -x yp ; 8
+—2<x<2 about the x-axis.
+—
+- [20]
+A Oz Oz Oz oz
+If x=e" +e”, y=e"—e',z= f(x,y); Prove that x—— y— =| —-— ].
+y f(y) ee el ee
+B_ | Solve, x+3y—-2z=0;2x-y+4z=0;x-lly+14z=0. 6
+C__| Find the dimensions of a circular cylinder with volume 9m’ which uses the least | g
+amount of material.
+Q4 [20]
+Show that the set S = { (1, 2, 3), (1, 2, 0), (0, 1, 0) } is a basis of vector space
+A RB. 6
+B_ | Evaluate, lim(cos xe . 6
+x30 . IAN
+Cc Prove that, -F = (2 +2x+ 3y)i +(3x+2y+z) i+ (y+2zx) kis irrotational and
+find scalar potential ¢ such that ¢(1,1,0)=4.
+Q5 [20]
+A__| Find the directional derivative of g = x’y’z* at (3,1,-2) in the direction 6
+74+274+2k.
+B 6
+
+l
+Evaluate Je log x) dx.
+0
+
+2)3
+--- page 3 ---
+Find the range and kernel of 7: R* + R° defined by
+
+8
+T (x,y,z) =(x+z,x+ y+2z,2x+yt3z).
+Q6 [20]
+Using Taylor’s series, expand log x in powers of (x—2). 6
+2
+Solve fe (2-xy? dx. 6
+0
+1 0 -l
+Show that the matrix A=) 1 2 1 | is diagonalizable. Also find the diagonal | g
+22 3
+matrix and diagonalising matrix,.
+Qi [20]
+Show that T:R? > R? defined by T(x, y) =(2x+ y,3x—5y) is invertible. Find
+T?,
+Find extreme values of x* + xy? +21x—12x? —2y’. 6
+8
+
+Solve 3x+3y+2z =lx+2y=4;10y+3z=-2;2x—-3y—z=5.
+
+x
+
+3]%
 ````
 
 ## 2022-23 · Re-Exam · Sem 1 · paper c19b55cfbf6b
@@ -3002,6 +3119,7 @@ Find the derivative of y= cos" (x)+cos (x )- 4x’. [08]
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2022-23 Re Exam0001.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 77.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3069,7 +3187,6 @@ ood only, 6 like milk and coffee only, 2 like tea and coffee only and 8 like
 milk and tea only. Show these information in a Venn-diagram and find: [06]
 (i) How many like at least one drink?
 (ii) _ How many like exactly one drink?
-CO-2;SO- . Zen" iene dene 94 dene
 Verify that 4cot“30 + 9sin*60 — 6cosec?60 —-=tan?60 = 4. [06]
 4
 1; BL-3
@@ -3126,123 +3243,6 @@ Find the derivative of y= (3/12 +sin’ 3x) . {08]
 3/3
 ````
 
-## 2020-21 · Re-Exam · Sem 1 · paper c6f19b201828
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/Mathematics I/Mathematics -I, 1st Year, Sem I, Year 2020-2021 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 January 2023
-- Text: ocr (3 pages), mean OCR confidence 80.1
-
-````text
-VS SVKM’s NMIMS
-“]MYKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-ee SEHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2022-23
-
-Programme: B.Tech (All Streams) / MBA T: ‘ech (All Streams) Year: I Semester: I
-Subject: Mathematics-I
-
-Marks: 100
-Date: 03 January 2023 Time: 11.00 am - 2.00 pm
-
-Durations: 3 (Hrs)
-Re- Examination (2020-21) No-of pages +
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-a
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-=“ Answer briefly: . (20)
-
-CJ
-
-a. | Evaluate the improper integral, [ra . 4
-x
-1
-C
-b. | Pind 'c' of the Lagrange Mean Value theorem, f(x) = x? —4 over [2,3]. 4
-® |If wu =e”, Prove that =(143xyz+x’y’z") e””. 4
-@xdyoz (1432+ 7y"2")
-
-d. | Determine if S = { (1, 2, 1), (1, 1, -1), (4, 5, -2) } is linearly independent in R°. 4
-
-1 =
-e Verify that, adj(adjA)= A|A| for A=| 2 1 -2). 4
-
-; 2 2 1
-
-1/3
---- page 2 ---
-Q2
-
-[20] | *
-A | Let W = { (x, y)eR’* /ax + by = 0 }. Show that W is subspace of R? . é
-1 -1 2 6
-B | Reduce the matrix | 3. -7 4 8 |to row-echelon form and find its rank. 6
-—2 8 19
-Cc Determine the surface area of the solid obtained by rotating y= (9 -x yp ; 8
-—2<x<2 about the x-axis.
-—
-- [20]
-A Oz Oz Oz oz
-If x=e" +e”, y=e"—e',z= f(x,y); Prove that x—— y— =| —-— ].
-y f(y) ee el ee
-B_ | Solve, x+3y—-2z=0;2x-y+4z=0;x-lly+14z=0. 6
-C__| Find the dimensions of a circular cylinder with volume 9m’ which uses the least | g
-amount of material.
-Q4 [20]
-Show that the set S = { (1, 2, 3), (1, 2, 0), (0, 1, 0) } is a basis of vector space
-A RB. 6
-B_ | Evaluate, lim(cos xe . 6
-x30 . IAN
-Cc Prove that, -F = (2 +2x+ 3y)i +(3x+2y+z) i+ (y+2zx) kis irrotational and
-find scalar potential ¢ such that ¢(1,1,0)=4.
-Q5 [20]
-A__| Find the directional derivative of g = x’y’z* at (3,1,-2) in the direction 6
-74+274+2k.
-B 6
-
-l
-Evaluate Je log x) dx.
-0
-
-2)3
---- page 3 ---
-Find the range and kernel of 7: R* + R° defined by
-
-8
-T (x,y,z) =(x+z,x+ y+2z,2x+yt3z).
-Q6 [20]
-Using Taylor’s series, expand log x in powers of (x—2). 6
-2
-Solve fe (2-xy? dx. 6
-0
-1 0 -l
-Show that the matrix A=) 1 2 1 | is diagonalizable. Also find the diagonal | g
-22 3
-matrix and diagonalising matrix,.
-Qi [20]
-Show that T:R? > R? defined by T(x, y) =(2x+ y,3x—5y) is invertible. Find
-T?,
-Find extreme values of x* + xy? +21x—12x? —2y’. 6
-8
-
-Solve 3x+3y+2z =lx+2y=4;10y+3z=-2;2x—-3y—z=5.
-
-x
-
-3]%
-````
-
 ## 2019-20 · Final + Re-Exam · Sem 1 · paper 9572910cb56e
 
 - Departments: Common (all branches)
@@ -3250,6 +3250,7 @@ x
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/Mathematics I/Mathematics-I , Final exam 19-20,Re-exam 18-19.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 November 2019
 - Text: ocr (4 pages), mean OCR confidence 77.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 P SVKM’s NMIMS
@@ -3289,7 +3290,6 @@ z-lx—1-—logsr :
 4.1
 
 iii ;
-Ifx=rcos#, y=rsin@ then — =
 
 Ox
 —
@@ -3483,6 +3483,7 @@ orl
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I 2019-2020 Final.pdf`
 - Printed on paper: exam date: 06 November 2019
 - Text: ocr (3 pages), mean OCR confidence 76.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3565,7 +3566,6 @@ in( 1422)
 x30
 3 pm 2 3
 
-a) e!° b) e!° c) e& d) e
 
 sin50 + sin 70=
 
@@ -3584,7 +3584,6 @@ increasing
 <(2}-
 dx\.x
 2 7) 1 1
-a) x b) -x °) d) -—
 x x
 
 Let U be the universal set and A, B, C be its subsets where A= {a,b,c,d,e} ;
@@ -3744,992 +3743,7 @@ Page 3 of 3
 [6]
 ````
 
-## 2018-19 · Exam not stated · Sem 1 · paper 2127ef44a757
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I 2018-2019.pdf`
-- Printed on paper: duration hours: 3; exam date: 14 November 2018
-- Text: ocr (2 pages), mean OCR confidence 78.0
-
-````text
-SVKM’S NMIMS
-
-Program B.Tech Integrated (All Streams) »
-Academic Y ear: 2018-2019
-
-Subject: Mathematics—-I - Marks:
-
-Date: 14 November 2018 _ Time:10.00 am to 1. 00 pm “
-
-Duration: 3 (hrs) _
-No. of Pages: @2-
-
-Final Examination (2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-8) Use of basic calculator (not scientific calculator) is allowed.
-
-Ql a) Let f(x)=x? +1 and g(x) =2x—3 be two real functions. Find the following: [5]
-i) (fF +8)(x) ii) (F-8)() ili) (J2)(x). iv) (7? ~38)(2)
-b) The sum of two angles is 57° and their difference is 60°. Find the angles indegrees [5]
-measure.
-c) By using property of determinants show that [5]
-la+b+2c a b
-é b+c+2a b =2(atb+e).
-c a ct+a+2b
-, 5
-4) Find & if y=(logx)™ D)
-Q2 a) If A= {1,2, 3,4} » B= {4, 5, 6} , Ce {5,6,7} and universal set [8]
-U ={1,2,3,4,5,6,7,8,9,10} then find the following:
-i) AU(BaC) ii) Ax(BNC’)
-iii) (AUB) iv) A-(BUC)
-v) AN(B-C) vi) A'A(BUC)
-vii) (Ax B)A(AxC)
-b) 5 [6
-Differentiate X= COsx with respect to x. J
-sinx
-
-Page 1 of 2
-
-— ¢
---- page 2 ---
-Q3
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-Show that ce itx=a(1-1] and y=a(r+t).
-ad y t t
-
-sin 8x cos x — sin 6xcos3x
-Show that = ~ =tan2x.
-cos 2xcos x—sin4xsin3x
-
-If cos A=—5, 5<Aca and sinB=—2, n<B< then find the value of
-
-tan A+tan B
-tan A—tan B™
-Prove that —°* acd + — 2sec’A.
-: cosecA—1 cosecA+1
-
-Evaluate lim [2 - —— ‘
-
-sax —-x x -3x°4+2x
-
-_ V2 —Vl-—cosx
-Evaluate ih .
-
-xon sin’ x
-
-x? 1
-4 i = #1, :
-Find the value of & if the function f(x) x-1 fer & is continuous at the
-=k for x=l
-point x=1.
-Find the values of x for which the function f (x) =x +12x* +36x+6 is increasing.
-dy
-
-Find — if x* +5x?y = 8xy’ —6y°.
-a x yY = Oxy Dy
-
-; dy dy
-If y= 3cos(log x) + 4sin(log x), then show that x @t rate 0.
-0 12
-Find inverse of the given matrix A using row transformations where A=|1 2 3].
-3 1 1
-1-5 7
-Find the adjoint of the matrix A=| 7 1 —-S|}.
--5 7 1
-23 4 3 -4 -5 5 -1 2 .
-If A= , B= ,C= then find the matrix X such
-3 02 1 2 1 7 0 3
-that 2A+3B-X=C.
-2 0 -i
-
-Use adjoint method to find the inverse of A=] 3 1 2.|«
--1 1 1
-
-*. dy : 3 atn2 v5
-Find — if y=cosx sin’ x.
-dx y
-
-sinx
-
-Differentiate tan” } with respect to x.
-
-1+cosx
-
-Page 2 of 2
-
-- ¢
-
-[6]
-
-[8]
-[6]
-
-[6]
-[8]
-
-[6]
-
-[6]
-
-[8]
-[6]
-
-[6]
-
-[8]
-
-[6]
-
-[6]
-
-[8]
-
-[6]
-
-[6]
-````
-
-## 2018-19 · Re-Exam · Sem 1 · paper c5ec54b194ab
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2018-19 Re Exam.pdf`
-- Printed on paper: exam date: 06 November 2019
-- Text: ocr (2 pages), mean OCR confidence 76.1
-
-````text
-y,
-
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-j Program :B.Tech Integrated (All Stream) Year: I Semester [
-‘ , Academic Year: 2019-2020
-
-Subject: Mathematics —I
-Date : 06 November 2019
-
-Re Examination(2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume-suitable data if necessary.
-
-QU aif f(x)=2x+4 and g(x) =4x7-2x [5]
-Find i) (f+ g)(2), ii) (F+ g) 1), iti) (+ g)(0), iv) (£+ g)(x), v) (f+ g)(2x)
-b) The angles of a triangle is in A.P. and the greatest angle is 84°. Find all the three [5]
-angles in radians.
-c) Find ¥ if y= x". : [5]
-dx .
-3 4 3 [5]
-d) Find x,if |5 x xl=0.
-1 3 2
-Q2) a) From the adjoining Venn diagram, find the following sets. [8]
-A B
-
-(,)
-OW,
-Ay
-
-(A (ii)B (iii) C (iv) A’
-(v)B' (vi) C' (vii) C- A (viii) B-C
-
-Vo
---- page 2 ---
-b) Find if y=3x' +secx—cosx+logx [6]
-
-c) Show that - = ~cot Sif x = a(6-sin@); y = a(1+cos6) 16]
-Q3) a) Prove that cos 4x + cos3x + cos 2x = cot3x. 3
-sin4x+sin3x+sin2x [8]
-b) Prove that =2sec? x.
-) T-sinx   1l+sinx see [6]
-c) Find all possible values of cos x, if cot x + cosecx = 5. [6]
-” ) Evaluate lim } + I 08)
-a) Evaluate .
-: x9-3| x? 44x43 x7 4+8x415
-b) Evaluate lim log(2 + x) —log(2— x) - [6]
-x30 x
-c) If f(x) =x? + 1, forx <0
-=S5jx2?+1+k,forx>0 [6]
-is continuous at x = 0 then find k.
-Q5) a) Determine all maximum and minimum values of the functions [8]
-
-() f= -3x+4 (i) £0) <5 +x,
-
-b) If f(x) =(1+ xX1+2° (1+) , then find 7'(0). [6]
-: dy [6]
-c) If yy =2sin3x—Scos3x, show that qa t= 0.
-Q6) 122 [8]
-a) Find inverse of matrix A using row transformations where A=|2 3 4
-2 4 3
-= xta bd ¢ [6]
-
-b)By using properties of determinants, show that] a x+b c |=x’(x+a+b+c).
-
-a 6b xtc
-1 -1 2 [6]
-c) Find the adjoint of the matrix A=|4 0 6
-0 1 -tl
-Q7) _ 5 ant e wt 100 [8]
-a) Evaluate (i)| _ diye? Gin SPY Slavia 1
-5 -l tanO sec cos@ sin@
-00 0
-_ x? 6
-b) Differentiate cos"! i) with respect to x. [6]
-+x
-c) Find ify = COS* _ x sinx (6]
-dx x
-
-2fo-
-````
-
-## 2017-18 · Final-Exam · Sem 1 · paper 0476baadc6a8
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2017-18 Final.pdf`
-- Printed on paper: max marks: 90; exam date: 23 November 2017
-- Text: ocr (4 pages), mean OCR confidence 72.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2017-2018 ¢
-
-Program:B. Tech Integrated (All Streams) - Year: « -- Seema .
-
-Marks: 90 i,
-Time: #00 pim'to 08.
-Duration? S3 hes :
-No. of Paget
-
-Subject: Mathematics-I *
-
-Date :23 November 2017°
-
-FINAL EXAMINATION ‘
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of scientific calculator/basic calculator is not allowed.
-
-QI)A) | Choose the correct alternative and answer the question: . : (10mks)
-1)
-_75 1 —-4 Te
-i A=[5 5 5 | then A
-3°05 5 3
-3.2 0 5 2 1
-fe | b) [ a a. | d| |
-=a 5 1 -4 “A 5 03 4
-2 V3 __W/3
-) Evaluate? lim=—_*— =
-x-a z— a .
-3 a3
-a b c) — d) 3a?”
-be } soe a )
-3) 2n \ 0
-In triangle ABC, ZA= cy and ZB =45° then ZC in degrees is
-a) 120° b) 15° c) 100° d) 65°
-4) | sinl6é =
-a) sin8@.cos8@_ b) 2sin80 c) 2cos80 d) 2sin80.cos80
-
-(ny
---- page 2 ---
-5) sec@ tan6) _
-tanO sec6|
-a) -l b) tan? @- c)l d) sec” 9
-6) 3 1
-Evaluate: lim [1+] =
-x30 2
-2 s
-a) e? bye c)e? d) e?
-DP af_t_)_
-dx\ 2x+3
-~l 2 1
-— b) —— c) ——— d) log(2x+3)
-(2x+3)° (2x43) (2x+3)°
-8) | If u and vare differentiable functions of x and if y=u.v
-then eS
-dx
-a) du a b) one gE c) hag d) 6 sag
-dx dx dx dx
-9
-) tan7! Giawen
-2
-a) = 7 c) tan d) 1
-X_ 5x
-% Evaluate: lim >=
-x0 x
-a) log3—logS b) log3+log5 c) log3 d) logs
-B) | Match the correct pairs : (4 mks)
-U ={1,2,3,4,5,6,7,8,9,10}
-A={1,3,4,5} B={2,4,5,6} C = {1,5,6,7,10}
-1) BUC = a) {3,8,9}
-2) ANC = b) {1,3}
-3) A-B= c) {1,2,4,5,6,7,10}
-4) (BUC) = d) {1,5}
-
-ayy
---- page 3 ---
-Q2) a) a (5 mks)
-
-1 -1 2
-Find the adjoint of the following matrix: A = [2 3 5 |
-—-2 0 -1
-b) | Find the inverse of A using elementary row transformations: (5 mks)
-1 2 3
-A= F 1 5
-24 7
-c) | By using property of determinants, show that : (4 mks)
-1a a?
-1 b b?)/=(a—b)(b-c)(c-a@)
-1 oc c?
-3 ._ sin3x-3sinx 5 mk
-8) a) Evaluate: lim —————— (S mks)
-xom = (x-1)8
-b) | Discuss the continuity of the following function at x = v2 (5 mks)
-x? — 32x +4
-x) = ————————   ,, x F v2
-I@) x3 4+ 7x —9V2
-=8 , x=v2
-c) ; (4 mks)
-Evaluate: lim Vx? +3x—x
-x-0co
-Q4) a) (5 mks)
-
-Differentiate the following function w.r.t x:
-y = (sin™*x)* + x*
-
->) lie siny +x2y3 —cosx = 2y then find (5 mks)
-
-©) | pind a if x = cost y= esin2t (4 mks)
-
-Q5) a) (5 mks)
-Prove that: ip + 2+ V2 4 200s 8x = 2cosx
-
-b) (5 mks)
-
-sin 8x cosx — sin 6x cos 3x
-= tan 2x
-
-Show that: - 7
-cos 2x cos x — sin 4x sin 3x
-
-ii
---- page 4 ---
-c) (4 mks)
-
-oft — v2) = inwl ae <i
-Show that: sin~1(2xV1 — x?) = 2sin7+x for axes
-
-Of) @ oya=(y ; | and B=['5,” : =| andif 34=B | P™s)
-
-then find the value of x and y
-
-3.4 3
-ii) Findxif |5 x x|=0
-13 2
-~ b) | Find the maximum and the minimum value of the function: (5 mks)
-f(x) = 3x? — 9x — 27x +15
-c) | With usual notations, (4 mks)
-
-Prove that: b* sin2C + c? sin2B = 2bcsinA
-
-2
-2) ) lie y = sin™!x ,then show that: (1—x?)4¥—x 2=0 (> mks)
-dx’ dx
-b) | If F(x) = x2 —4x 411 such that f(x) = f@x—1) ~ |G mks)
-then find the value of x
-ii) Evaluate f(g(5)) given that
-f@) = |x-10)+x?-1 , gx) =x+3
-d
-ar y= — then find @ emis)
-e ax
-d "i 2 jo 1 (2 mks)
-tA=|" 31 and B=|, Al
-
-Find whether AB is singular or non-singular
-
-ia//4
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper 17af727d1221
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2015-16,2016-17,2017-18 Re Exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 November 2018
-- Text: ocr (3 pages), mean OCR confidence 75.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program B.Tech Integrated (All Streams) —~ Year: I Semester:
-AcademicY ear: 2018-2019
-
-Subject: Mathematics —I a , Marks: 70 —
-
-Date: 14 November 2018- Time:10.00 am to
-Duration: 3 (hrs), \%, :
-
-No. of Pages: 3 NS
-
-Re-examination (2015-16/2016-17/2017-18) y
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be.attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-8) Use of scientific calculator/ basic calculator is not allowed.
-
-Ql. | Choose the correct alternative and answer the question: [10]
-(a)
-
-1. | If det(A) is 5 then det(A~) is
-
-1 1
-5 b)4 — d)—
-(a) (b) (c) 5 (d) 4
-2. | If there is a row with all entries zero then value of determinant is
-(a)0 (b)1 (c) non zero _(d) can’t be determined
-3.) d,
-—a
-dx
-
-(aja*   _(b)xlogx (c)aloga (d)a* loga
-
-4. | If graph of f (x) is concave upward on [a, b] then
-(a) f’(x) is increasing (b) f’(x) is decreasing
-(c) f’(x) is stable (d) f’(x)=0
-
-5. ] . (]
-lim x sin} —
-x30 x
-
-{a)l (6)0 (c)oo (d)none of these
-6. x
-in( 14222)
-900 x
-(a)2017 (b)e (c)e*"” (d)none of these
-Ts
-Which of the following functions have finite limit as x 25
-(a) sin x (b)sec x (c)tan x (d)none of these
-8. | Which of the following functions are not continuous in real numbers?
-(a) sin x (b) tan x (c) cos x (d)none of these
-9. | What is the domain of sin“ x
-an a
--1,1 b)| -=,= c)R d) |0,—
-(a)[-1,1] o|-24| (c) @ [04
-
-1s,
---- page 2 ---
-,
-
-10.) cosA— on is Sal to
-
-(A+B) (A+B)
--2 ae 2
-(a) “5 7 cos| 2 J (b) sin 45 =F ni Mt )
-(A+B)
-(c) -2sin( 45 5) si inl = | (d)none of these
-Ql. Match the following: [4]
-(b) Let A={x/x is a prime number less than 10}and B={x/x is a natural number which divides 20}
-i) AQB a){3,7}
-ii) AUB ) {2,5}
-iii) A-B ©) {2,4,7,10}
-iv), (AUB)-(47B) 4) (2,3,4,5,7,10}
-Q2. | Find inverse of the following matrix using row transformation: [5]
-(a) 133
-A=| 1 4 3
-13 4
-7 10 -1 6]
-Find the adjoint of Awhere A=| 3 4 5
-0 -6 -7
-; a]
-x 5 -3 -3 7 [
-(c) Find the values of x and y «| 12 = 5 3
-3.2) 2 y 5 771
-Q3. |. _ {1,23 n-1|_1 . [5]
-(a) (i)Prove that tin] 4S 2 |}
-(ii)Find Jim (Vx?+5x -x)
-(b) = 2 5
-Find lim 2-cosec’é [5]
-axe 1-cot@
-2 4]
-©) = ft 5x) "x#0
-f(x) | + 5 } »X
-=e ,x=0
-Check whether the function is continuous at x=0.
-Q4. | Find dy/dx for the following functions: [5]
-(a) y= tant sinx )
-_ 1+ cos
-ii) x=at’, y=2at
-(b) Find dy/dx for the following functions: [5]
-1
-y= , aa 4x*
-y [4]
-
-m+n * d
-(c) If x"y"= (x + y) where m, n are constants, then show that 2 =~ |
-dx _ Xx
-
-QS. (1-x) [5]
-(a) | Prove thattan™ xapeos| ifx €[0,1] .
-
-(b) __| Prove thatcos2A+cos2B—cos2C =1—4sin AsinBcosC [5]
-
-2h3 a4
---- page 3 ---
-[4]
-
-" anf 4-8)
-Using sine rule prove nar S229
-(A+B) a+b
-
-aaa 2 }
-
-Q6. | By using properties of determinants and without expanding show that; (5]
-(a) a b+e @
-b cta BP =(a—b)(b-c)(c-a)(a+b+c).
-c ath
-Find the points of inflection and find for what values of x is the curve y=2x° -12x° +4x-27 [5]
-(b) concave upward and concave downward.
-sinA+sin5A+sin9A [4]
-P that > = tan A.
-(©) roves cosA+cos5A+cos9A a
-Qi. . ay dy [5]
-If y=3e2* +2e** prove that—>-5—-+6y=0.
-(a) y e pr de ck y
-Find (f+ 9)(2),Cf + 9)(2x),f °9(x),f9) [5]
-() where f (x)=2x+4,9(%)=42° ~2x.
-_,d (2]
-(c) Find 7 eae y= aa
-(2]
-
-0 1
-d =
-@ If A= 20 1 ,B=| 2 3. | then show that AB is non singular.
-
-142 3 11
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper 818058c9f368
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2015-16,2016-17,2017-18 Re Exam_818058c9f3.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 11 January 2019
-- Text: ocr (2 pages), mean OCR confidence 78.3
-
-````text
-MPSTME ~
-
-LIBRARY
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-‘~ Program: B.Tech Integrated (All Streams) # Year: I ~ Semester : I~
-Academic Year: 2018-2019
-
-Subject: Mathematics —I 2 Marks: 70 —
-Time: 2.00 pm to 5.00 pm
-
-«
-
-Date: 11 January 2019 — .
-Durations: 3 (hrs)
-
-No. of Pages: Zz
-Re-examination (2015-16/ 2016-17/ 2017-18) —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-No Calculators allowed -
-
-Ql. a. 2 3 4 3 -4 -5 5 -1 2 [4]
-If A= , B= ,C= ;
-3 0 2 1 2 1 7 0 3
-find matrix X such that 2A4+3B-X=C.
-dy
-b. If y=log(x? +1), find =. 4
-y=log(x? +1), find = [4]
-J
-.. * -9
-c. Evaluate lim . [3]
-x33 x-3
-d. Prove that Sindert SO _ este : [3]
-cos 2x —cos 8x
-23 1
-Q2. a. Findadjointof A,where A=/0 —1 2]. (5]
-1 —2 3
-1 3 -2
-b. Obtain inverse of the following matrix by using elementary row operations A=|-3 0 —-5]. [5]
-2 5 0
-
-fy
---- page 2 ---
-Q3.
-
-Q4.
-
-Qs.
-
-Q6.
-
-Q7.
-
-1 x x
-. . 1 1
-Find x,if|l 2 4]= P
-2 2
-13 9
-
-2
-Evaluate lim
-
-x -4
-#92 [x42 —J3x—2 ©
-x -2, ifx<1
-
-Find ‘A’ which makes the function f(x) = . continuous at x = 1.
-, Ax-4, ifl<x
-
-3223
-Evaluate lim :
-x0 x
-
-If x = asec? 0, y=atan’@, find oa at O=2.
-he
-
-Evaluate = for y=(tanx) .
-
-Find 2, if sin’ y-+cosxy=2.
-
-sin x —sin5x+sin9x—-sin13x
-Show that =cot4x.
-cos x —cos5x—cos9x+cos13x
-
-Show that sin”! (=) +sin! (2) =sin7 77).
-17 5 85
-
-Prove that sin10° +sin50° —sin80° +sin140° = V2 sin25°
-
-laa@
-By using properties of determinants, show that|l b b?|= (a - b)(b - ¢) (c - a) :
-le @
-
-Find the maximum and the minimum value of the function f (x) = 3x? —9x? —27x +15.
-
-2
-7 4-52 6y=0.
-
-If y =3e”* +2e**, prove that
-
-With usual notation, prove that 5? sin2C +c? sin 2B =2besin A
-Let U= {1,2,3, 4,5,6,7,8,9,10} be the universal set and A,B,C,D be its subsets given by
-
-A={1,2,3,4,5,7}, B= {1,3,8,9},C = {1,3,6,8} , D={2,7}.
-Find i) AUB ii) ANBOC iii) B-C iv) AN(BUC).
-If f(x)=x41 and g(x)=x°-x then calculate fog and gof .
-
-2 Io
-
-[4]
-
-[5]
-
-[5]
-[4]
-
-[5]
-[5]
-
-[4]
-
-[5]
-[5]
-
-[4]
-
-[5]
-
-[5]
-[4]
-
-[5]
-[5]
-
-[4]
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper 0be741eeda53
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2015-2016,2016-,17,2017-18 Re Exam.pdf`
-- Printed on paper: exam date: 31 May 2018
-- Text: ocr (2 pages), mean OCR confidence 79.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (All Streams) _ Year: I < Semester:I ~
-
-Batch: 2015-16/ 2016-17/ 2017-18
-Academic Year: 2017-2018
-
-Subject: Mathematics ~I ~
-
-; “ah,
-Date: 31 May 2018 ° Time; v0.00 am to 1400;ptn
-No pee 3. (hrs) = -¥ ds
-
-obPeges: O25 F,
-. rr rie Wi,
-Instructions: Candidates should read carefully the instructions printed on the question p' e cover of the
-Answer Book, which is provided for their use.
-1) Question No. 1is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-8)Use of scientific/basic calculator is not allowed.
-
-Re-Examination
-
-Q:1 (a) If y = log(3x? + 5x +1) + sin(x?) find dy/dx ~ (3)
-(b) One angle of a quadrilateral is -- and other three are in the ratio 2:3:4 then
-find their measures in degrees and in radians (3)
-1 2
-(ifa-[* 2 AJandB=|o 4 (4)
-—1 5 7 3 2 ;
-Find AB and show that it is nonsingular matrix
-(d) Evaluate lim <*=2** (4)
-x3 xX-3
-Q:2 (a) Find the inverse of a matrix by elementary row transformation (5)
-—-4 -3 -3
-A=| 1 0 1
-4 4 3
-(b) Find the adjoint of matrix (5)
-1 -1 1
-A=|2 1 -3
-1 1 1
-x 2 1
-(c) If 3 x -—2]=5 then findx (4)
-13 1
-1
-
-2
---- page 2 ---
-Q:3
-
-Q:4
-
-Q:5
-
-Q:6
-
-Q:7
-
-. 15*-3*-5*+1
-(a) Evaluate lim ——————
-x0 x sinx
-(b) Discuss the continuity of the function
-
-f(x) = Vx+8-3
-
-x3-1
-1
-=F forx=1
-
-forx #1
-
-x3—x2%-x41
-
-(c) Evaluate lim =—>———
-x31 x3 +x2-5x43
-
-(a), Find 2 if x = cos (logt); y = log (cost)
-
-yYu—1x dy a log y)?
-(b) Ife y* show that ax = logy-i
-
-(c) Ifx* + y* + 5x3y — 20 = 10
-find =
-dx
-
-(a) Prove that
-(1 + tan A tan B)? + (tan A — tan B)* = SecA - Sec*B
-
-(b) Prove that tan(* +0)+ tan(* — 6) =2sec 20
-
-_ sin 2x Tw
-(c) Prove that cot 4 ( ) =--x
-1+cos 2x 2
-(a) Ify = sin"+x
-_ 2) VY _ yy
-Prove that (1—x*) 5 = x7
-
-(b) Divide 100 into two parts such that sum of their squares is minimum
-(c) By using Property of determinant
-
-0 a b
-showthat |-a 0 c|=0
-—b -c 0
-(a) Prove that
-sin A+sin 5A+sin 9A —tanSA
-
-cos A+cos 5A+cos 9A
-(b) If f(x) =x?4+5, gx) =x—-8
-Find i) (fog)(2)_ ii) (gof)(-1)
-iii)(fof)(0) iv) (gog)(-2)
-(c) If U = {1,2,3,4,5,6,7,8,9,10}
-A = {2,4,6,8,10} B = {5,10} C = {4,8}
-Find i) (A—B)’ ii) (ANBNC)
-iii) (BxC) iv) (A’ UB’)
-
-SAK
-
-(5)
-(5)
-
-(4)
-
-(5)
-(5)
-(4)
-
-(5)
-
-(5)
-(4)
-
-(S)
-
-(5)
-(4)
-
-(5)
-
-(5)
-
-(4)
-````
-
-## 2017-18 · Re-Exam · Sem 1 · paper ac14cc667407
+## 2019-20 · Re-Exam · Sem 1 · paper ac14cc667407
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -4934,35 +3948,34 @@ cos 24° +cos55° +.cos125° + cos 204° +.cos 300° -5
 [4]
 ````
 
-## 2016-17 · Final-Exam · Sem 1 · paper 55a0c3654130
+## 2019-20 · Re-Exam · Sem 1 · paper c5ec54b194ab
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2016-17 Final.pdf`
-- Printed on paper: max marks: 70; exam date: 23 November 2016
-- Text: ocr (2 pages), mean OCR confidence 76.3
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2018-19 Re Exam.pdf`
+- Printed on paper: exam date: 06 November 2019
+- Text: ocr (2 pages), mean OCR confidence 76.1
 
 ````text
-SVKM’s NMIMS
+y,
+
+SVKM’S NMIMS
+
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+j Program :B.Tech Integrated (All Stream) Year: I Semester [
+‘ , Academic Year: 2019-2020
 
-Programme: B. Tech Integrated (All Streams) Year: I Semester: I
+Subject: Mathematics —I
+Date : 06 November 2019
 
-Academic Year: 2016-2017 27 agstTE OF we
-Subject : Mathematics-I fe i a
-4 wesr M x
-Marks: 70 26 11
-Date : 23 November 2016 Time : 10. Od'am to 1.00 00 p wy
+Re Examination(2018-19)
 
-Durations: 3 (lag) — es
-Final-Examination pas men ©
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+1) Question No. lis compulsory.
 
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions. .
+2) Out of remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
@@ -4971,28 +3984,345 @@ of the Answer Book, which is provided for their use.
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+7) Assume-suitable data if necessary.
 
-al.
-a) 3 4 _ [8 -4 -5 _f> -1 2 [4]
-fA= i oa FG 2 y | and ¢ Go 3)
-find matrix X such that 2A + 3B —X =C.
-b) Ity = see" (4x—3), find & [4]
-c) xP+1 341 [3]
-Evaluate lim,_,- 154-4 =.
-a) The difference between two acute angles of right angled triangle is ay .Findallthe [1
-angles in degrees.
-Q2. 1 -5 7
-a) Find adjoint of the matrix | 7 1 5]. [5]
+QU aif f(x)=2x+4 and g(x) =4x7-2x [5]
+Find i) (f+ g)(2), ii) (F+ g) 1), iti) (+ g)(0), iv) (£+ g)(x), v) (f+ g)(2x)
+b) The angles of a triangle is in A.P. and the greatest angle is 84°. Find all the three [5]
+angles in radians.
+c) Find ¥ if y= x". : [5]
+dx .
+3 4 3 [5]
+d) Find x,if |5 x xl=0.
+1 3 2
+Q2) a) From the adjoining Venn diagram, find the following sets. [8]
+A B
+
+(,)
+OW,
+Ay
+
+(A (ii)B (iii) C (iv) A’
+(v)B' (vi) C' (vii) C- A (viii) B-C
+
+Vo
+--- page 2 ---
+b) Find if y=3x' +secx—cosx+logx [6]
+
+c) Show that - = ~cot Sif x = a(6-sin@); y = a(1+cos6) 16]
+Q3) a) Prove that cos 4x + cos3x + cos 2x = cot3x. 3
+sin4x+sin3x+sin2x [8]
+b) Prove that =2sec? x.
+) T-sinx   1l+sinx see [6]
+c) Find all possible values of cos x, if cot x + cosecx = 5. [6]
+” ) Evaluate lim } + I 08)
+a) Evaluate .
+: x9-3| x? 44x43 x7 4+8x415
+b) Evaluate lim log(2 + x) —log(2— x) - [6]
+x30 x
+c) If f(x) =x? + 1, forx <0
+=S5jx2?+1+k,forx>0 [6]
+is continuous at x = 0 then find k.
+Q5) a) Determine all maximum and minimum values of the functions [8]
+
+() f= -3x+4 (i) £0) <5 +x,
+
+b) If f(x) =(1+ xX1+2° (1+) , then find 7'(0). [6]
+: dy [6]
+c) If yy =2sin3x—Scos3x, show that qa t= 0.
+Q6) 122 [8]
+a) Find inverse of matrix A using row transformations where A=|2 3 4
+2 4 3
+= xta bd ¢ [6]
+
+b)By using properties of determinants, show that] a x+b c |=x’(x+a+b+c).
+
+a 6b xtc
+1 -1 2 [6]
+c) Find the adjoint of the matrix A=|4 0 6
+0 1 -tl
+Q7) _ 5 ant e wt 100 [8]
+a) Evaluate (i)| _ diye? Gin SPY Slavia 1
+5 -l tanO sec cos@ sin@
+00 0
+_ x? 6
+b) Differentiate cos"! i) with respect to x. [6]
++x
+c) Find ify = COS* _ x sinx (6]
+dx x
+
+2fo-
+````
+
+## 2018-19 · Exam not stated · Sem 1 · paper 2127ef44a757
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I 2018-2019.pdf`
+- Printed on paper: duration hours: 3; exam date: 14 November 2018
+- Text: ocr (2 pages), mean OCR confidence 78.0
+
+````text
+SVKM’S NMIMS
+
+Program B.Tech Integrated (All Streams) »
+Academic Y ear: 2018-2019
+
+Subject: Mathematics—-I - Marks:
+
+Date: 14 November 2018 _ Time:10.00 am to 1. 00 pm “
+
+Duration: 3 (hrs) _
+No. of Pages: @2-
+
+Final Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+8) Use of basic calculator (not scientific calculator) is allowed.
+
+Ql a) Let f(x)=x? +1 and g(x) =2x—3 be two real functions. Find the following: [5]
+i) (fF +8)(x) ii) (F-8)() ili) (J2)(x). iv) (7? ~38)(2)
+b) The sum of two angles is 57° and their difference is 60°. Find the angles indegrees [5]
+measure.
+c) By using property of determinants show that [5]
+la+b+2c a b
+é b+c+2a b =2(atb+e).
+c a ct+a+2b
+, 5
+4) Find & if y=(logx)™ D)
+Q2 a) If A= {1,2, 3,4} » B= {4, 5, 6} , Ce {5,6,7} and universal set [8]
+U ={1,2,3,4,5,6,7,8,9,10} then find the following:
+i) AU(BaC) ii) Ax(BNC’)
+iii) (AUB) iv) A-(BUC)
+v) AN(B-C) vi) A'A(BUC)
+vii) (Ax B)A(AxC)
+b) 5 [6
+Differentiate X= COsx with respect to x. J
+sinx
+
+Page 1 of 2
+
+— ¢
+--- page 2 ---
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+Show that ce itx=a(1-1] and y=a(r+t).
+ad y t t
+
+sin 8x cos x — sin 6xcos3x
+Show that = ~ =tan2x.
+cos 2xcos x—sin4xsin3x
+
+If cos A=—5, 5<Aca and sinB=—2, n<B< then find the value of
+
+tan A+tan B
+tan A—tan B™
+Prove that —°* acd + — 2sec’A.
+: cosecA—1 cosecA+1
+
+Evaluate lim [2 - —— ‘
+
+sax —-x x -3x°4+2x
+
+_ V2 —Vl-—cosx
+Evaluate ih .
+
+xon sin’ x
+
+x? 1
+4 i = #1, :
+Find the value of & if the function f(x) x-1 fer & is continuous at the
+=k for x=l
+point x=1.
+Find the values of x for which the function f (x) =x +12x* +36x+6 is increasing.
+dy
+
+Find — if x* +5x?y = 8xy’ —6y°.
+a x yY = Oxy Dy
+
+; dy dy
+If y= 3cos(log x) + 4sin(log x), then show that x @t rate 0.
+0 12
+Find inverse of the given matrix A using row transformations where A=|1 2 3].
+3 1 1
+1-5 7
+Find the adjoint of the matrix A=| 7 1 —-S|}.
 -5 7 1
-b) 2 0 -T (5]
-Find inverse of matrix A by elementary row transformation, whereA= |5 1 0
-0 1 3
-c) 1 x x? [4]
-Find x,if [1 2 4] = [5 P
-13 9
+23 4 3 -4 -5 5 -1 2 .
+If A= , B= ,C= then find the matrix X such
+3 02 1 2 1 7 0 3
+that 2A+3B-X=C.
+2 0 -i
 
-1/2
+Use adjoint method to find the inverse of A=] 3 1 2.|«
+-1 1 1
+
+*. dy : 3 atn2 v5
+Find — if y=cosx sin’ x.
+dx y
+
+sinx
+
+Differentiate tan” } with respect to x.
+
+1+cosx
+
+Page 2 of 2
+
+- ¢
+
+[6]
+
+[8]
+[6]
+
+[6]
+[8]
+
+[6]
+
+[6]
+
+[8]
+[6]
+
+[6]
+
+[8]
+
+[6]
+
+[6]
+
+[8]
+
+[6]
+
+[6]
+````
+
+## 2018-19 · Re-Exam · Sem 1 · paper 818058c9f368
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2015-16,2016-17,2017-18 Re Exam_818058c9f3.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 11 January 2019
+- Text: ocr (2 pages), mean OCR confidence 78.3
+
+````text
+MPSTME ~
+
+LIBRARY
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+‘~ Program: B.Tech Integrated (All Streams) # Year: I ~ Semester : I~
+Academic Year: 2018-2019
+
+Subject: Mathematics —I 2 Marks: 70 —
+Time: 2.00 pm to 5.00 pm
+
+«
+
+Date: 11 January 2019 — .
+Durations: 3 (hrs)
+
+No. of Pages: Zz
+Re-examination (2015-16/ 2016-17/ 2017-18) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+No Calculators allowed -
+
+Ql. a. 2 3 4 3 -4 -5 5 -1 2 [4]
+If A= , B= ,C= ;
+3 0 2 1 2 1 7 0 3
+find matrix X such that 2A4+3B-X=C.
+dy
+b. If y=log(x? +1), find =. 4
+y=log(x? +1), find = [4]
+J
+.. * -9
+c. Evaluate lim . [3]
+x33 x-3
+d. Prove that Sindert SO _ este : [3]
+cos 2x —cos 8x
+23 1
+Q2. a. Findadjointof A,where A=/0 —1 2]. (5]
+1 —2 3
+1 3 -2
+b. Obtain inverse of the following matrix by using elementary row operations A=|-3 0 —-5]. [5]
+2 5 0
+
+fy
 --- page 2 ---
 Q3.
 
@@ -5004,69 +4334,75 @@ Q6.
 
 Q7.
 
-a)
+1 x x
+. . 1 1
+Find x,if|l 2 4]= P
+2 2
+13 9
 
-b)
+2
+Evaluate lim
 
-a)
+x -4
+#92 [x42 —J3x—2 ©
+x -2, ifx<1
 
-b)
-
-Evaluate lim a
-valuate x93 apo
-. . : x?-2, ifx<1 .
 Find ‘A’ which makes the function f(x) = . continuous at x = 1.
-Ax-4, ifl<x
+, Ax-4, ifl<x
 
-‘ ™ (=)
-Vi
-ate x00
+3223
+Evaluate lim :
+x0 x
 
-Differentiate tan”! x w.r.t. =
-1+x
+If x = asec? 0, y=atan’@, find oa at O=2.
+he
 
-if y=(x™™ 4.2 find &.
-y=) ind =
-Find 2, if Sin’ y+cosxy=2.
+Evaluate = for y=(tanx) .
 
-sinx —sin 5x +sin 9x— sin13x .
-Show that = cot4x
-cos x—cos 5x—cos 9x+cos 13x
+Find 2, if sin’ y-+cosxy=2.
 
-_ 4 = 12 _ So
-Show that cos~! (2) + cos (=) =cos~+ (=).
-5 13 65
-1+sin x+
-Prove that —_ers * = cot(®).
-1+sinx-—cosx 2
-1 be a(b+c)
-1 ca b(c+a)
-1 ab c(at+b)
+sin x —sin5x+sin9x—-sin13x
+Show that =cot4x.
+cos x —cos5x—cos9x+cos13x
 
-Without expanding the determinant, show that = 0.
+Show that sin”! (=) +sin! (2) =sin7 77).
+17 5 85
 
-Determine the maximum and minimum values of the function.
-f(x) =x? — 9x? + 24x —5
+Prove that sin10° +sin50° —sin80° +sin140° = V2 sin25°
 
-in” d’y dy
-Ify = erin , show that (l—x?)——-x=-4y=0.
-y (I-x") ded
-‘ 2A 2B 1 1
-With usuai notations, Prove that — = = = @ pe
+laa@
+By using properties of determinants, show that|l b b?|= (a - b)(b - ¢) (c - a) :
+le @
 
-x+2 243x
-if f(x) = eng and g(x) = Jeo 7 Show that(fog)(x) = x.
-Let U= {1,2,3,4,5,6,7,8,9,10} be the universal set and A, B, C be its subsets given by
+Find the maximum and the minimum value of the function f (x) = 3x? —9x? —27x +15.
 
-A= {x:x is odd, x belongs to U}, B= {y:y is prime number, y belongs to U} ,C=
-{1,2,3,4,5,6,7}
+2
+7 4-52 6y=0.
 
-Find i)(ANC)’ ii)AU(B—C) iii) (BUC).
+If y =3e”* +2e**, prove that
 
-2/2.
+With usual notation, prove that 5? sin2C +c? sin 2B =2besin A
+Let U= {1,2,3, 4,5,6,7,8,9,10} be the universal set and A,B,C,D be its subsets given by
+
+A={1,2,3,4,5,7}, B= {1,3,8,9},C = {1,3,6,8} , D={2,7}.
+Find i) AUB ii) ANBOC iii) B-C iv) AN(BUC).
+If f(x)=x41 and g(x)=x°-x then calculate fog and gof .
+
+2 Io
+
+[4]
 
 [5]
 
+[5]
+[4]
+
+[5]
+[5]
+
+[4]
+
+[5]
 [5]
 
 [4]
@@ -5074,29 +4410,380 @@ Find i)(ANC)’ ii)AU(B—C) iii) (BUC).
 [5]
 
 [5]
-
 [4]
 
 [5]
-
-[5]
-
-[4]
-
-[5]
-
-[5]
-
-[4]
-
-[5]
-
 [5]
 
 [4]
 ````
 
-## 2016-17 · Re-Exam · Sem 1 · paper 221cd2fa87d6
+## 2017-18 · Final-Exam · Sem 1 · paper 0476baadc6a8
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2017-18 Final.pdf`
+- Printed on paper: max marks: 90; exam date: 23 November 2017
+- Text: ocr (4 pages), mean OCR confidence 72.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2017-2018 ¢
+
+Program:B. Tech Integrated (All Streams) - Year: « -- Seema .
+
+Marks: 90 i,
+Time: #00 pim'to 08.
+Duration? S3 hes :
+No. of Paget
+
+Subject: Mathematics-I *
+
+Date :23 November 2017°
+
+FINAL EXAMINATION ‘
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of scientific calculator/basic calculator is not allowed.
+
+QI)A) | Choose the correct alternative and answer the question: . : (10mks)
+1)
+_75 1 —-4 Te
+i A=[5 5 5 | then A
+3°05 5 3
+3.2 0 5 2 1
+fe | b) [ a a. | d| |
+=a 5 1 -4 “A 5 03 4
+2 V3 __W/3
+) Evaluate? lim=—_*— =
+x-a z— a .
+3 a3
+a b c) — d) 3a?”
+be } soe a )
+3) 2n \ 0
+In triangle ABC, ZA= cy and ZB =45° then ZC in degrees is
+a) 120° b) 15° c) 100° d) 65°
+4) | sinl6é =
+a) sin8@.cos8@_ b) 2sin80 c) 2cos80 d) 2sin80.cos80
+
+(ny
+--- page 2 ---
+5) sec@ tan6) _
+tanO sec6|
+a) -l b) tan? @- c)l d) sec” 9
+6) 3 1
+Evaluate: lim [1+] =
+x30 2
+2 s
+a) e? bye c)e? d) e?
+DP af_t_)_
+dx\ 2x+3
+~l 2 1
+— b) —— c) ——— d) log(2x+3)
+(2x+3)° (2x43) (2x+3)°
+8) | If u and vare differentiable functions of x and if y=u.v
+then eS
+dx
+a) du a b) one gE c) hag d) 6 sag
+dx dx dx dx
+9
+) tan7! Giawen
+2
+a) = 7 c) tan d) 1
+X_ 5x
+% Evaluate: lim >=
+x0 x
+a) log3—logS b) log3+log5 c) log3 d) logs
+B) | Match the correct pairs : (4 mks)
+U ={1,2,3,4,5,6,7,8,9,10}
+A={1,3,4,5} B={2,4,5,6} C = {1,5,6,7,10}
+1) BUC = a) {3,8,9}
+2) ANC = b) {1,3}
+3) A-B= c) {1,2,4,5,6,7,10}
+4) (BUC) = d) {1,5}
+
+ayy
+--- page 3 ---
+Q2) a) a (5 mks)
+
+1 -1 2
+Find the adjoint of the following matrix: A = [2 3 5 |
+—-2 0 -1
+b) | Find the inverse of A using elementary row transformations: (5 mks)
+1 2 3
+A= F 1 5
+24 7
+c) | By using property of determinants, show that : (4 mks)
+1a a?
+1 b b?)/=(a—b)(b-c)(c-a@)
+1 oc c?
+3 ._ sin3x-3sinx 5 mk
+8) a) Evaluate: lim —————— (S mks)
+xom = (x-1)8
+b) | Discuss the continuity of the following function at x = v2 (5 mks)
+x? — 32x +4
+x) = ————————   ,, x F v2
+I@) x3 4+ 7x —9V2
+=8 , x=v2
+c) ; (4 mks)
+Evaluate: lim Vx? +3x—x
+x-0co
+Q4) a) (5 mks)
+
+Differentiate the following function w.r.t x:
+y = (sin™*x)* + x*
+
+>) lie siny +x2y3 —cosx = 2y then find (5 mks)
+
+©) | pind a if x = cost y= esin2t (4 mks)
+
+Q5) a) (5 mks)
+Prove that: ip + 2+ V2 4 200s 8x = 2cosx
+
+b) (5 mks)
+
+sin 8x cosx — sin 6x cos 3x
+= tan 2x
+
+Show that: - 7
+cos 2x cos x — sin 4x sin 3x
+
+ii
+--- page 4 ---
+c) (4 mks)
+
+oft — v2) = inwl ae <i
+Show that: sin~1(2xV1 — x?) = 2sin7+x for axes
+
+Of) @ oya=(y ; | and B=['5,” : =| andif 34=B | P™s)
+
+then find the value of x and y
+
+3.4 3
+ii) Findxif |5 x x|=0
+13 2
+~ b) | Find the maximum and the minimum value of the function: (5 mks)
+f(x) = 3x? — 9x — 27x +15
+c) | With usual notations, (4 mks)
+
+Prove that: b* sin2C + c? sin2B = 2bcsinA
+
+2
+2) ) lie y = sin™!x ,then show that: (1—x?)4¥—x 2=0 (> mks)
+dx’ dx
+b) | If F(x) = x2 —4x 411 such that f(x) = f@x—1) ~ |G mks)
+then find the value of x
+ii) Evaluate f(g(5)) given that
+f@) = |x-10)+x?-1 , gx) =x+3
+d
+ar y= — then find @ emis)
+e ax
+d "i 2 jo 1 (2 mks)
+tA=|" 31 and B=|, Al
+
+Find whether AB is singular or non-singular
+
+ia//4
+````
+
+## 2017-18 · Re-Exam · Sem 1 · paper ec97cd007b8e
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2014-2015 Re Exam.pdf`
+- Printed on paper: exam date: 31 May 2018
+- Text: ocr (2 pages), mean OCR confidence 77.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (All Streams) ,~ Year: I Semester: I «
+
+Batch; 2014-15 ~
+Academic Year: 2017-2018
+
+Subject: Mathematics -I - I ST Ba
+Marks: der
+Date: 31 May 2018 . Time: 10.09'arh to 4 Dan ye
+‘ Durati this} RARW
+No. of
+
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks,
+7) Assume suitable data if necessary.
+
+2 4 1 3 5 =-l 1 -l 4
+Ql. a) If A= . , B= ,C= ,then compute 34-—2B+2C. [3]
+
+0 3 ~=5 1 4 0 2 1 3
+2
+. x -9
+b) Evaluate lim . [3]
+x33 ¥-3
+c) iry=see’(4e—3), Find ®. [3]
+d) Prove that sec'x—sec’x =tan‘x #tan’x. [3]
+213
+Q2. . . .
+a) Find adjoint of the matrix A4=/3 1 2 [4]
+12 3
+0 1 1
+b) Find inverse of matrix A by elementary rowtransformation, where A=|1 2 0 [4]
+3 -1 4
+--- page 2 ---
+Q3.
+
+Q4.
+
+Qs.
+
+Q6.
+
+Q7.
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+a)
+b)
+c)
+
+1 x ‘x?
+
+1 1
+Find x,if}l 2 4 {| J
+13 9
+Evaluate lim (vx +5x -x)
+Find the value of K so that the function f is continuous at the indicated point.
+Kx+l, ifx<a
+S (x)= . at x=
+COS x, ifx>z
+Evaluate lim legeeibe
+
+x92 x-2
+Differentiate x:cosx w.r.t. tanx.
+
+ify=(sinx)", find”.
+y=(sinx)’, fin -
+Find, ifx' +527 y=By? —6y*.
+
+inx —sin5x+sin9x — sinl3
+Show that arses Sine = cot dx.
+
+cos x—cos5x—cos9x+cosl3x _
+Prove that tan>'} — |+tan7'} — |+tan™'| — |+tan7'} — |=—-
+5 7 3 8 4
+
+. 2n\
+One angle of a triangle has measure (=) and the measures of other two angles are
+
+in the ratio 4:3. Find measure of all the angles in degrees and radians.
+
+By using property of determinants and without expanding, Show _ that
+1 be a (b + c)
+1 ca 6b (c + a) =0
+
+1 ab c(a + b)
+Determine the maximum and minimum values of the function
+f (x) =2x° — 21x” +36x-20.
+
+With usual notations, Prove that b’ sin2C +c? sin2B =2bcsin A.
+2
+
+If y =2sin3x—5cos3x , show that 2 +9y-=0.
+oa
+
+If f(x)=x+1 and g(x)=x*-x then calculate fog and gof.
+
+Let U ={1,2,3,4,5,6,7,8, 9,10} be the universal set and A,B,C be its subsets given by
+A ={x :xisodd , x belongs toU} ,B= {y : yis prime number, y belongs toU} ‘i
+
+C ={1,2,3,4,5,6,7}.
+
+Find i)(ANC)' ii) AU(B-C)_ iii)(BUC)'.
+
+2/, Z
+
+[4]
+
+[4]
+[4]
+
+[4]
+
+[4]
+[4]
+
+[4]
+[4]
+
+[4]
+
+[4]
+
+[4]
+
+[4]
+
+[4]
+[4]
+
+[4]
+[4]
+````
+
+## 2017-18 · Re-Exam · Sem 1 · paper 221cd2fa87d6
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -5260,6 +4947,629 @@ Find AUB, (ANB)’, A—B', A'NB!
 
 [5]
 [4]
+````
+
+## 2017-18 · Re-Exam · Sem 1 · paper 17af727d1221
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2015-16,2016-17,2017-18 Re Exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 November 2018
+- Text: ocr (3 pages), mean OCR confidence 75.5
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B.Tech Integrated (All Streams) —~ Year: I Semester:
+AcademicY ear: 2018-2019
+
+Subject: Mathematics —I a , Marks: 70 —
+
+Date: 14 November 2018- Time:10.00 am to
+Duration: 3 (hrs), \%, :
+
+No. of Pages: 3 NS
+
+Re-examination (2015-16/2016-17/2017-18) y
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be.attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+8) Use of scientific calculator/ basic calculator is not allowed.
+
+Ql. | Choose the correct alternative and answer the question: [10]
+(a)
+
+1. | If det(A) is 5 then det(A~) is
+
+1 1
+5 b)4 — d)—
+(a) (b) (c) 5 (d) 4
+2. | If there is a row with all entries zero then value of determinant is
+(a)0 (b)1 (c) non zero _(d) can’t be determined
+3.) d,
+—a
+dx
+
+
+4. | If graph of f (x) is concave upward on [a, b] then
+(a) f’(x) is increasing (b) f’(x) is decreasing
+(c) f’(x) is stable (d) f’(x)=0
+
+5. ] . (]
+lim x sin} —
+x30 x
+
+{a)l (6)0 (c)oo (d)none of these
+6. x
+in( 14222)
+900 x
+(a)2017 (b)e (c)e*"” (d)none of these
+Ts
+Which of the following functions have finite limit as x 25
+(a) sin x (b)sec x (c)tan x (d)none of these
+8. | Which of the following functions are not continuous in real numbers?
+(a) sin x (b) tan x (c) cos x (d)none of these
+9. | What is the domain of sin“ x
+an a
+-1,1 b)| -=,= c)R d) |0,—
+(a)[-1,1] o|-24| (c) @ [04
+
+1s,
+--- page 2 ---
+,
+
+10.) cosA— on is Sal to
+
+(A+B) (A+B)
+-2 ae 2
+(a) “5 7 cos| 2 J (b) sin 45 =F ni Mt )
+(A+B)
+(c) -2sin( 45 5) si inl = | (d)none of these
+Ql. Match the following: [4]
+(b) Let A={x/x is a prime number less than 10}and B={x/x is a natural number which divides 20}
+i) AQB a){3,7}
+ii) AUB ) {2,5}
+iii) A-B ©) {2,4,7,10}
+iv), (AUB)-(47B) 4) (2,3,4,5,7,10}
+Q2. | Find inverse of the following matrix using row transformation: [5]
+(a) 133
+A=| 1 4 3
+13 4
+7 10 -1 6]
+Find the adjoint of Awhere A=| 3 4 5
+0 -6 -7
+; a]
+x 5 -3 -3 7 [
+(c) Find the values of x and y «| 12 = 5 3
+3.2) 2 y 5 771
+Q3. |. _ {1,23 n-1|_1 . [5]
+(a) (i)Prove that tin] 4S 2 |}
+(ii)Find Jim (Vx?+5x -x)
+(b) = 2 5
+Find lim 2-cosec’é [5]
+axe 1-cot@
+2 4]
+©) = ft 5x) "x#0
+f(x) | + 5 } »X
+=e ,x=0
+Check whether the function is continuous at x=0.
+Q4. | Find dy/dx for the following functions: [5]
+(a) y= tant sinx )
+_ 1+ cos
+ii) x=at’, y=2at
+(b) Find dy/dx for the following functions: [5]
+1
+y= , aa 4x*
+y [4]
+
+m+n * d
+(c) If x"y"= (x + y) where m, n are constants, then show that 2 =~ |
+dx _ Xx
+
+QS. (1-x) [5]
+
+(b) __| Prove thatcos2A+cos2B—cos2C =1—4sin AsinBcosC [5]
+
+2h3 a4
+--- page 3 ---
+[4]
+
+" anf 4-8)
+Using sine rule prove nar S229
+(A+B) a+b
+
+aaa 2 }
+
+Q6. | By using properties of determinants and without expanding show that; (5]
+(a) a b+e @
+b cta BP =(a—b)(b-c)(c-a)(a+b+c).
+c ath
+Find the points of inflection and find for what values of x is the curve y=2x° -12x° +4x-27 [5]
+(b) concave upward and concave downward.
+sinA+sin5A+sin9A [4]
+P that > = tan A.
+(©) roves cosA+cos5A+cos9A a
+Qi. . ay dy [5]
+If y=3e2* +2e** prove that—>-5—-+6y=0.
+Find (f+ 9)(2),Cf + 9)(2x),f °9(x),f9) [5]
+() where f (x)=2x+4,9(%)=42° ~2x.
+_,d (2]
+(c) Find 7 eae y= aa
+(2]
+
+0 1
+d =
+@ If A= 20 1 ,B=| 2 3. | then show that AB is non singular.
+
+142 3 11
+````
+
+## 2017-18 · Re-Exam · Sem 1 · paper 0be741eeda53
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2015-2016,2016-,17,2017-18 Re Exam.pdf`
+- Printed on paper: exam date: 31 May 2018
+- Text: ocr (2 pages), mean OCR confidence 79.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (All Streams) _ Year: I < Semester:I ~
+
+Batch: 2015-16/ 2016-17/ 2017-18
+Academic Year: 2017-2018
+
+Subject: Mathematics ~I ~
+
+; “ah,
+Date: 31 May 2018 ° Time; v0.00 am to 1400;ptn
+No pee 3. (hrs) = -¥ ds
+
+obPeges: O25 F,
+. rr rie Wi,
+Instructions: Candidates should read carefully the instructions printed on the question p' e cover of the
+Answer Book, which is provided for their use.
+1) Question No. 1is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8)Use of scientific/basic calculator is not allowed.
+
+Re-Examination
+
+Q:1 (a) If y = log(3x? + 5x +1) + sin(x?) find dy/dx ~ (3)
+(b) One angle of a quadrilateral is -- and other three are in the ratio 2:3:4 then
+find their measures in degrees and in radians (3)
+1 2
+(ifa-[* 2 AJandB=|o 4 (4)
+—1 5 7 3 2 ;
+Find AB and show that it is nonsingular matrix
+(d) Evaluate lim <*=2** (4)
+x3 xX-3
+Q:2 (a) Find the inverse of a matrix by elementary row transformation (5)
+—-4 -3 -3
+A=| 1 0 1
+4 4 3
+(b) Find the adjoint of matrix (5)
+1 -1 1
+A=|2 1 -3
+1 1 1
+x 2 1
+(c) If 3 x -—2]=5 then findx (4)
+13 1
+1
+
+2
+--- page 2 ---
+Q:3
+
+Q:4
+
+Q:5
+
+Q:6
+
+Q:7
+
+. 15*-3*-5*+1
+(a) Evaluate lim ——————
+x0 x sinx
+(b) Discuss the continuity of the function
+
+f(x) = Vx+8-3
+
+x3-1
+1
+=F forx=1
+
+forx #1
+
+x3—x2%-x41
+
+(c) Evaluate lim =—>———
+x31 x3 +x2-5x43
+
+(a), Find 2 if x = cos (logt); y = log (cost)
+
+yYu—1x dy a log y)?
+(b) Ife y* show that ax = logy-i
+
+(c) Ifx* + y* + 5x3y — 20 = 10
+find =
+dx
+
+(a) Prove that
+(1 + tan A tan B)? + (tan A — tan B)* = SecA - Sec*B
+
+(b) Prove that tan(* +0)+ tan(* — 6) =2sec 20
+
+_ sin 2x Tw
+(c) Prove that cot 4 ( ) =--x
+1+cos 2x 2
+(a) Ify = sin"+x
+_ 2) VY _ yy
+Prove that (1—x*) 5 = x7
+
+(b) Divide 100 into two parts such that sum of their squares is minimum
+(c) By using Property of determinant
+
+0 a b
+showthat |-a 0 c|=0
+—b -c 0
+(a) Prove that
+sin A+sin 5A+sin 9A —tanSA
+
+cos A+cos 5A+cos 9A
+(b) If f(x) =x?4+5, gx) =x—-8
+Find i) (fog)(2)_ ii) (gof)(-1)
+iii)(fof)(0) iv) (gog)(-2)
+(c) If U = {1,2,3,4,5,6,7,8,9,10}
+A = {2,4,6,8,10} B = {5,10} C = {4,8}
+Find i) (A—B)’ ii) (ANBNC)
+iii) (BxC) iv) (A’ UB’)
+
+SAK
+
+(5)
+(5)
+
+(4)
+
+(5)
+(5)
+(4)
+
+(5)
+
+(5)
+(4)
+
+(S)
+
+(5)
+(4)
+
+(5)
+
+(5)
+
+(4)
+````
+
+## 2016-17 · Final-Exam · Sem 1 · paper 55a0c3654130
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2016-17 Final.pdf`
+- Printed on paper: max marks: 70; exam date: 23 November 2016
+- Text: ocr (2 pages), mean OCR confidence 76.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (All Streams) Year: I Semester: I
+
+Academic Year: 2016-2017 27 agstTE OF we
+Subject : Mathematics-I fe i a
+4 wesr M x
+Marks: 70 26 11
+Date : 23 November 2016 Time : 10. Od'am to 1.00 00 p wy
+
+Durations: 3 (lag) — es
+Final-Examination pas men ©
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions. .
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+al.
+a) 3 4 _ [8 -4 -5 _f> -1 2 [4]
+fA= i oa FG 2 y | and ¢ Go 3)
+find matrix X such that 2A + 3B —X =C.
+b) Ity = see" (4x—3), find & [4]
+c) xP+1 341 [3]
+Evaluate lim,_,- 154-4 =.
+a) The difference between two acute angles of right angled triangle is ay .Findallthe [1
+angles in degrees.
+Q2. 1 -5 7
+a) Find adjoint of the matrix | 7 1 5]. [5]
+-5 7 1
+b) 2 0 -T (5]
+Find inverse of matrix A by elementary row transformation, whereA= |5 1 0
+0 1 3
+c) 1 x x? [4]
+Find x,if [1 2 4] = [5 P
+13 9
+
+1/2
+--- page 2 ---
+Q3.
+
+Q4.
+
+Qs.
+
+Q6.
+
+Q7.
+
+a)
+
+b)
+
+a)
+
+b)
+
+Evaluate lim a
+valuate x93 apo
+. . : x?-2, ifx<1 .
+Find ‘A’ which makes the function f(x) = . continuous at x = 1.
+Ax-4, ifl<x
+
+‘ ™ (=)
+Vi
+ate x00
+
+Differentiate tan”! x w.r.t. =
+1+x
+
+if y=(x™™ 4.2 find &.
+y=) ind =
+Find 2, if Sin’ y+cosxy=2.
+
+sinx —sin 5x +sin 9x— sin13x .
+Show that = cot4x
+cos x—cos 5x—cos 9x+cos 13x
+
+_ 4 = 12 _ So
+Show that cos~! (2) + cos (=) =cos~+ (=).
+5 13 65
+1+sin x+
+Prove that —_ers * = cot(®).
+1+sinx-—cosx 2
+1 be a(b+c)
+1 ca b(c+a)
+1 ab c(at+b)
+
+Without expanding the determinant, show that = 0.
+
+Determine the maximum and minimum values of the function.
+f(x) =x? — 9x? + 24x —5
+
+in” d’y dy
+Ify = erin , show that (l—x?)——-x=-4y=0.
+y (I-x") ded
+‘ 2A 2B 1 1
+With usuai notations, Prove that — = = = @ pe
+
+x+2 243x
+if f(x) = eng and g(x) = Jeo 7 Show that(fog)(x) = x.
+Let U= {1,2,3,4,5,6,7,8,9,10} be the universal set and A, B, C be its subsets given by
+
+A= {x:x is odd, x belongs to U}, B= {y:y is prime number, y belongs to U} ,C=
+{1,2,3,4,5,6,7}
+
+Find i)(ANC)’ ii)AU(B—C) iii) (BUC).
+
+2/2.
+
+[5]
+
+[5]
+
+[4]
+
+[5]
+
+[5]
+
+[4]
+
+[5]
+
+[5]
+
+[4]
+
+[5]
+
+[5]
+
+[4]
+
+[5]
+
+[5]
+
+[4]
+````
+
+## 2016-17 · Re-Exam · Sem 1 · paper 0de8ad40046a
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2014-2015 Re Exam_0de8ad4004.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 23 November 2016
+- Text: ocr (2 pages), mean OCR confidence 79.3
+
+````text
+t
+
+SVKM’s NMIMS
+' MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING |
+
+Programme: B. Tech Integrated (All Streams) Year: I
+Semester: I
+
+Sgr
+Academic Year: 2016-2017 of
+
+Subject : Mathematics-I BATCH: 2014-2016 MPSTME YS
+
+Marks: 60 aC LIBRARY tJ
+. 6#1S0Q pm a
+Ni ae
+
+Date : 23 November 2016 Time : 10.00 am
+
+Durations: 3 (hrs
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+
+a) Question No. 1 is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c) Inall 5 questions to be attempted.
+
+d) All questions carry equal marks.
+
+e) Answer to each new question to be stated on a fresh page.
+
+f) Figure in brackets on the right hand side indicate full marks.
+
+g) Assume Suitable data if necessary.
+
+Q.1
+a) U={I,2,3,4,5,6,7,8,9,10} be the Universal set and A, B,C be subsets given by
+
+A={1,2,3,4,5,7}, B= {1,3,8,9},C = {1,3,6,8} find i) AUB ii) ANBAC (3)
+
+., hm. e+e*
+b) Find —, if y= 3
+) che yore @)
+c) Iftan A= > tan B =5 find the value of tan(2.4+ B) (3)
+
+d) Find x and y satisfying the equation
+
+k x 7] I; ay) 2 1 ‘
++ = (G3)
+y 5 4 1 -2 2] |-1 3 6
+
+Q.2
+4 Tx+4
+a) If f(x)=28t% and g(x)=2** find (fog)(zx) (4)
+Sx- 5x-
+: 348
+b) Evaluate lim a (4)
+xo x 43x42
+ax _ 92x
+c) Evaluate lim - (4)
+x90 sin 3x
+Q3 .
+sin A l—cosA
+en that ————— = 2(cosec A—cot A 4
+a) Prove tha 1+cosA sin A ( ) @)
+i cos3@ — sin30
+b) Pi that — + — = 4(cos 20 4
+) Prove tha cos@ sinO ( ) ad
+ze i) 0
+c) Prove that ne = V3 (4)
+
+cos19° — sin11°
+
+tf
+--- page 2 ---
+Q4
+
+a) Differentiate sin'( =) w.r.to x (4)
+’ 1+x
+b) Differentiate log (x sinx) w.r.to = (4)
+x
+c) Ifx=a(0+sin@), y=a(l-cos6) find ° (4)
+Q.5
+2 3 x
+-1 8
+a) Solve }1 0 3/= 2 1 (4)
+2 -1 0
+1 3 2
+b) Find adjoint of matrix 4,if A=|-1 0 2 (4)
+3 1 -l
+1 -1 0
+c) Find the inverse of A, by adjoint method 4=]0 1 1 (4)
+1 2 1
+Q6
+a) Write the following sets in Roster form (4)
+
+i) A= {x:xisan integer, x? < 9}
+ii) B={x:xis factor of 20}
+iii) C= {x : xis a two digit natural number such that the sum of digits is 7}
+
+. +1)"
+b) Evaluate lim [ (4)
+see | ee 2.
+2 2 am ad
+c) If x°+y° —4xy=0, find ch (4)
+Q7
+13 3
+a) Find the inverse of A, by elementary row transformations 4=|1 4 3 (4)
+13 4
+b) Prove that sin™ 2 | <isiv| 2 =sin'| 77 (4)
+5 17 85
+“ dy dy
+=sin7 2 ~7yBML
+c) If y=sin™ x, prove that (1-x ar x dk =0 (4)
+
+ar
 ````
 
 ## 2016-17 · Re-Exam · Sem 1 · paper 7b9286d006cb
@@ -5426,391 +5736,7 @@ Find i) (A—C)’ i) AU(BNC) iii)BxC iv) B-C
 [4]
 ````
 
-## 2015-16 · Final-Exam · Sem 1 · paper 49d1857c2cfb
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2015-2016 Final.pdf`
-- Printed on paper: exam date: 26/11/2015
-- Text: ocr (2 pages), mean OCR confidence 76.8
-
-````text
-Va
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (All Streams) Year: I Semester: I
-Academic Year: 2015-2016 gene ee
-ta :
-Subject: Mathematics —I Y. PSTuME ee
-Marks eforis RARY =
-Date: 26/11/2015 Time 3
-Durations
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-
-a) Question No. 1 is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-~ c) All questions carry equal marks.
-d) Answer to each new question to be stated on a fresh page.
-e) Figure in brackets on the right hand side indicate full marks.
-
-i A 3 2 i 2 -1 3
-Q1) a) If A= A , C= . Show that A(B+C) = AB + AC. (4)
-Dy t 3 0 1 —2 2 3
-4) Obtain the derivative of x by using first principle of derivative. (4)
-c) Evaluate lim smo (3)
-z0 2x
-d) Prove that cosec? 6 - cos” @. cosec? @ = 1. (3)
-i 3 2
-Q2) a) Find the adjoint of the matrix A=|-1 0 2 (5)
-3 1 -l
-b) Find the inverse of the matrix by elementary transformation method,
-/? -3 |
-A=|2 2 3 (5)
-|3 -2 2|
-c) Express the matrix A as the sum of symmetric and skew symmetric matrices. (4)
--~1 7 1
-Where A=| 2 3 4
-5 05 “
-Q3) a) Differentiate tan™ F = ] with respect to x. (5)
-
-(5)
-
-2: 2
-Vx? +a? +x dy
-b) Ify =log} —————], find —-.
-Vx? +a? - dx
-
-fe
---- page 2 ---
-(4)
-
-c) Find a ify=e°* sin 2x.
-ax .
-
-%
-
-. 5
-. x -32
-Q4) a):Evaluate lim a (5)
-x92 x’ —128
-b) Examine the continuity of the function at given points (5)
-5x 2x
-f(x) = ee forx#0
-sin 3x
-= 1 forx=0 atx=0
-. vVitx—-vl-
-c) Evaluate lim a Iae (4)
-x30 x
-5 -4
-Q5) a) If A,B both are obtuse angles and sin A= B , cos B= > . Evaluate cos (A+B). (5)
-
-b) Prove that sin” (2 +sin” (= =sin” (Z) (5)
-5 17 85
-
-sin3.A—sin A
-cos3.4+cos A
-
-=tanA (4)
-
-c) Prove that
-
-” Q6) a) if A={1, 2,3, 4} B={3, 4,5, 6}C={4, 5,6, 7, 8}and Universal set X= {1,2,3,4,5,6,7,8,9,10}.
-
-Then verify that (i) AU( B NC) = (AUB) N (AUC) (ii) (AUB)’ = x NB’ (iii) Find Ax B (5)
-
-b) if f(x) = 222 and t= 5+ 4x
-3x-4 3x-1
-
-auas|) a) anse= [5 3 | vet eset 8)"=87 70 (A+B)? =A74+B7. (8) C4)
-
-. Show that f (t) =x (5)
-
-qd
-Q7) a) Find = ifxs3at? andy = 2at? (5)
-b) Determine maximum and minimum value of the following function.
-f(x) = 2x? — 24x? +36x-20 (5)
-(4)
-
-c) Prove that sin A. sin (60 - A). sin (60+ A)= sin 3A.
-
-beam
-````
-
-## 2015-16 · Re-Exam · Sem 1 · paper 391aa8d16f6a
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Engineering_Mathematics_I_Batch_2015-2016_Re_Exam_aZ8szyiyjA.pdf`
-- Text: ocr (2 pages), mean OCR confidence 81.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program :B.Tech Integrated (All Streams) L Year: If Semester: IV
-v4 AcademicY ear: 2018-2019
-
-Subject: Engineering Mathematics - II /
-Date: 16 April2019 ~
-
-question paper and on the cover of the Answer Book, which is provided for their
-use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-5, Reduce the following matrix to Echelon form and also find its rank. (3)
-13 2 2
-12 1 3
-243 4
-3 7 4 8
-b) Evaluate [ x? e* de ; (3)
-0
-c) Solve d= (e + xe” de (3)
-L x
-d) Evaluate f fe” dyde (3)
-0 0
-Q.2
-a) Reduce the following matrix to Normal form and also find its rank. (4)
-1 2 —-2 3
-2 5 -4 6
--1 3 2 -2
-2 4 -1 6
-
-b) Determine the linear independence or dependence of the vectors [1,3,4,2];
-[3,-5,2,6]; [2,-1,3,4]; . Find the relation between them, if dependent. (4)
-
-c) Test for consistency the following equations and solve them, if possible
-xty+z=3; x+2yt+3z=4, x+4y+9z=6; (4)
-
-page \/2
---- page 2 ---
-Q3
-a) Evaluate J 54" de
-
-(4)
-oO
-v2
-b) Evaluate [ x° Vi-4x? dx (4)
-0
-alo
-c) Evaluate J cos* 30 sin? 60 dO (4)
-0
-Q4
-a) Solve [1+ le) ]e+(1 +4) dy =0 (4)
-y
-py) _ 3
-b) Solve x(x ee — (x-2)y = x°(2x-1) (4)
-as
-c) Solve a — 16y = cos 2x (4)
-Q.5
-z/2 \-sin@
-a) Evaluate J J r’ cos@ dr dé. (4)
-0 0
-a 2a-x
-b) Change the order of integration J J f(x,y) dy dx (4)
-0 la
-c) Find by double integration the area bounded by the two parabolas
-x=y’ and x=2y-y’ ; (4)
-Q.6
-a) Find non-singular matrices P and Q such that PAQ is in normal form. (4)
-1 2 -2
--1 3. 0 |..Also find rank of A.
-0 2 1
-b) Solve the following equations by first finding A“! where A is the co-efficient
-matrix. 2x+y-z=1, x-2y+3z=6; x-y+2z=9 (4)
-dy 316
-Solve x— =x - 4
-c) Solve x he y y (4)
-Q7
-2 x8 (1-x°
-a) Evaluate J #(I-x*) (4)
-0 (1+)
-b) Solve y (1+xy) de + x (1+ xy +x’ y’) dy = 0 (4)
-c) Evaluate J J xy dx dy over the region bounded by the x-axis, ordinate at
-x = 2a and the parabola x’ =4ay (4)
-
-Posse 2/2
-````
-
-## 2015-16 · Re-Exam · Sem 1 · paper c8af1cfa6145
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2015-16 Re Exam.pdf`
-- Printed on paper: max marks: 70; exam date: 08-Jun-16
-- Text: ocr (2 pages), mean OCR confidence 76.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech Integrated (All Streams) Year: I Semester: I
-
-Academic Year: 2015-2016
-
-nvaa
-
-OTE BF a
-Subject : Mathematics -I BATCH: 2015 foe
-
-Marks: 70 FP stun
-
-Date : 08-Jun-16 Time : 10.00 mito} 100 prow ¥ d=
-
-Durations: 3 are
-
-.
-ey tt *
-
-XY ans aE
-ee
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-NB:
-(|, a) Question No. 1 is compulsory.
-b) Out of remaining questions, attempt any 4 questions.
-c) All questions carry equal marks.
-d) Answer to each new question to be started on a fresh page.
-e) Figure in brackets indicate full marks.
-
-4 2
-Qla) IfA =| 6 1 .B=[3) 9] (4)
-3 4 -2
-3 5
-Find AB and show that it is a Singular Matrix.
-x sin x dy
-b IfY= Find 4
-) 1+ cos x m dx ®
-Lim 2 i
-. + 3
-c) Find 4 Toe? ye (3)
-—d) The angles of a quadrilateral are in the ratio2:3:3:4 (3)
-Find them in Degrees and Radians.
-Q2a) Find the adjoint of the Matrix. (5)
-fp 3 3 4 7
-A=] 2 3 4
-Lo -l 1d
-b) Find the inverse of the Matrix by elementary row transformation. (5)
-[ 4 -3 3 7
-A=] 1 0 1
-L4 4 3]
-c) Solve the following equation. (4)
-x 2 xt+3
-|Al= | 3 5 8 |=0
-xt+1 7-x 12
-Q3a) Ifx’=e (5)
-dy log x
-Prove that Ge Dn?
-* (1 + logx)
-
->
-\
-
-iy
---- page 2 ---
-b) If log (x + y) = log (xy) +a
-
-d 2
-show that = =e
-dx Pa
-
-c) Find 2 if x=a(t-sint) ; y=a(1-cost)
-x 4
-
-Q4a) Discuss the continuity of the function at x = 2
-
-2
-x -4
-f(x) = x#2
-afx+2 -~f3x-2
-= os for x =2
-2
-i 3x -5
-b) Evaluate Ee :
-—- Mast +1 + Vato1
-10°-2°-5'+1
-c) Find Lim ————————
-x->0 2
-x
-Q5a) Prove that
-Cosec A Cosec A 2
-+ =2Sec A
-Cosec A- 1 Cosec A+ 1
-tan 8 cot 8 .
-b) Prove that + = Sin 6. Cos 6
-
-(1+ tan’ 0) (1+ cot 0)”
-c) Findxif tan! 2x+tan'3x= [V/4
-
-2x +3
-x
-Prove that fof is identity function.
-
-Q6a) If f(x)= 4 2/3
-
-r “:
-bh) “Bid the inverse of Matrix Cee staf
--Sin@ Cos@
-
-c) Let U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} be the universal set
-A= {1,3,5,7,9}; B= {2,3,4, 6, 8,10}; C= {6,7, 8, 9}
-Find i) A’ ii) (ANC) | iii) (BY iv) (B-C)!
-
-Q7a) Find the maximum & minimum values of 3x'-2x*-6x +6x+1 in the interval (0,2)
-
-b) Show that Cos’ (-*) +Cos” (+s) = 1
-
-c) y=l+x.e’ Find —
-
-(5)
-
-(4)
-(5)
-
-G
-
-(4)
-(5)
-
-(5)
-
-(4)
-
-(5)
-
-(5)
-
-(4)
-
-(5)
-
-(5)
-
-(4)
-````
-
-## 2015-16 · Re-Exam · Sem 1 · paper dbbce8107c22
+## 2016-17 · Re-Exam · Sem 1 · paper dbbce8107c22
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
@@ -5949,6 +5875,538 @@ b)
 In any AABC, prove that (a —b*)cos2C +(b* -c?)cos2A+(c? —a’)cos2B =0. (4)
 
 a Le
+````
+
+## 2015-16 · Final-Exam · Sem 1 · paper 49d1857c2cfb
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2015-2016 Final.pdf`
+- Printed on paper: exam date: 26/11/2015
+- Text: ocr (2 pages), mean OCR confidence 76.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+Va
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (All Streams) Year: I Semester: I
+Academic Year: 2015-2016 gene ee
+ta :
+Subject: Mathematics —I Y. PSTuME ee
+Marks eforis RARY =
+Date: 26/11/2015 Time 3
+Durations
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+NB:
+
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+~ c) All questions carry equal marks.
+d) Answer to each new question to be stated on a fresh page.
+e) Figure in brackets on the right hand side indicate full marks.
+
+i A 3 2 i 2 -1 3
+Q1) a) If A= A , C= . Show that A(B+C) = AB + AC. (4)
+Dy t 3 0 1 —2 2 3
+4) Obtain the derivative of x by using first principle of derivative. (4)
+c) Evaluate lim smo (3)
+z0 2x
+d) Prove that cosec? 6 - cos” @. cosec? @ = 1. (3)
+i 3 2
+Q2) a) Find the adjoint of the matrix A=|-1 0 2 (5)
+3 1 -l
+b) Find the inverse of the matrix by elementary transformation method,
+/? -3 |
+A=|2 2 3 (5)
+|3 -2 2|
+c) Express the matrix A as the sum of symmetric and skew symmetric matrices. (4)
+-~1 7 1
+Where A=| 2 3 4
+5 05 “
+Q3) a) Differentiate tan™ F = ] with respect to x. (5)
+
+(5)
+
+2: 2
+Vx? +a? +x dy
+b) Ify =log} —————], find —-.
+Vx? +a? - dx
+
+fe
+--- page 2 ---
+(4)
+
+c) Find a ify=e°* sin 2x.
+ax .
+
+%
+
+. 5
+. x -32
+Q4) a):Evaluate lim a (5)
+x92 x’ —128
+b) Examine the continuity of the function at given points (5)
+5x 2x
+f(x) = ee forx#0
+sin 3x
+= 1 forx=0 atx=0
+. vVitx—-vl-
+c) Evaluate lim a Iae (4)
+x30 x
+5 -4
+Q5) a) If A,B both are obtuse angles and sin A= B , cos B= > . Evaluate cos (A+B). (5)
+
+b) Prove that sin” (2 +sin” (= =sin” (Z) (5)
+5 17 85
+
+sin3.A—sin A
+cos3.4+cos A
+
+=tanA (4)
+
+c) Prove that
+
+” Q6) a) if A={1, 2,3, 4} B={3, 4,5, 6}C={4, 5,6, 7, 8}and Universal set X= {1,2,3,4,5,6,7,8,9,10}.
+
+Then verify that (i) AU( B NC) = (AUB) N (AUC) (ii) (AUB)’ = x NB’ (iii) Find Ax B (5)
+
+b) if f(x) = 222 and t= 5+ 4x
+3x-4 3x-1
+
+
+. Show that f (t) =x (5)
+
+qd
+Q7) a) Find = ifxs3at? andy = 2at? (5)
+b) Determine maximum and minimum value of the following function.
+f(x) = 2x? — 24x? +36x-20 (5)
+(4)
+
+c) Prove that sin A. sin (60 - A). sin (60+ A)= sin 3A.
+
+beam
+````
+
+## 2015-16 · Re-Exam · Sem 1 · paper 391aa8d16f6a
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Engineering_Mathematics_I_Batch_2015-2016_Re_Exam_aZ8szyiyjA.pdf`
+- Text: ocr (2 pages), mean OCR confidence 81.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :B.Tech Integrated (All Streams) L Year: If Semester: IV
+v4 AcademicY ear: 2018-2019
+
+Subject: Engineering Mathematics - II /
+Date: 16 April2019 ~
+
+question paper and on the cover of the Answer Book, which is provided for their
+use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+5, Reduce the following matrix to Echelon form and also find its rank. (3)
+13 2 2
+12 1 3
+243 4
+3 7 4 8
+b) Evaluate [ x? e* de ; (3)
+0
+c) Solve d= (e + xe” de (3)
+L x
+d) Evaluate f fe” dyde (3)
+0 0
+Q.2
+a) Reduce the following matrix to Normal form and also find its rank. (4)
+1 2 —-2 3
+2 5 -4 6
+-1 3 2 -2
+2 4 -1 6
+
+b) Determine the linear independence or dependence of the vectors [1,3,4,2];
+[3,-5,2,6]; [2,-1,3,4]; . Find the relation between them, if dependent. (4)
+
+c) Test for consistency the following equations and solve them, if possible
+xty+z=3; x+2yt+3z=4, x+4y+9z=6; (4)
+
+page \/2
+--- page 2 ---
+Q3
+a) Evaluate J 54" de
+
+(4)
+oO
+v2
+b) Evaluate [ x° Vi-4x? dx (4)
+0
+alo
+c) Evaluate J cos* 30 sin? 60 dO (4)
+0
+Q4
+a) Solve [1+ le) ]e+(1 +4) dy =0 (4)
+y
+py) _ 3
+b) Solve x(x ee — (x-2)y = x°(2x-1) (4)
+as
+c) Solve a — 16y = cos 2x (4)
+Q.5
+z/2 \-sin@
+a) Evaluate J J r’ cos@ dr dé. (4)
+0 0
+a 2a-x
+b) Change the order of integration J J f(x,y) dy dx (4)
+0 la
+c) Find by double integration the area bounded by the two parabolas
+x=y’ and x=2y-y’ ; (4)
+Q.6
+a) Find non-singular matrices P and Q such that PAQ is in normal form. (4)
+1 2 -2
+-1 3. 0 |..Also find rank of A.
+0 2 1
+b) Solve the following equations by first finding A“! where A is the co-efficient
+matrix. 2x+y-z=1, x-2y+3z=6; x-y+2z=9 (4)
+dy 316
+Solve x— =x - 4
+c) Solve x he y y (4)
+Q7
+2 x8 (1-x°
+a) Evaluate J #(I-x*) (4)
+0 (1+)
+b) Solve y (1+xy) de + x (1+ xy +x’ y’) dy = 0 (4)
+c) Evaluate J J xy dx dy over the region bounded by the x-axis, ordinate at
+x = 2a and the parabola x’ =4ay (4)
+
+Posse 2/2
+````
+
+## 2015-16 · Re-Exam · Sem 1 · paper 73885cbdaebd
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2014-2015 Re Exam_73885cbdae.pdf`
+- Printed on paper: exam date: 08-Jun-16
+- Text: ocr (2 pages), mean OCR confidence 72.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (All Streams) Year: I Semester: I
+BATCH:
+
+Marks: ‘he = a
+
+~
+Time : am te mee % (
+Durations (hrs) RA RY 2S
+
+aS ¢
+
+Re-Examination .
+3 F 5 A * ~———
+Instruction: Candidates should read carefully the instructions printed on the quest FE
+
+cover of the Answer Book, which is provided for their use.
+
+Academic Year: 2015-2016
+
+Subject : Mathematics —I
+
+Date : 08-Jun-16
+
+NB:
+1) Question No. ONE is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+—_ 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks. .
+7) Assume Suitable data if necessary ‘
+
+Q.l
+2 a
+a Evaluate: lim pela ?
+x74 X727-3x-4
+b. = y2-5%- dy 3
+Ify = x*-5* cos x , find =. 2
+c. Let U = {1, 2,3, «...-10}, A = {2, 4, 6, 8 10}, B = {1,3,5,7,9,10}.Find i) 3
+(AUB)’ ii) A’ n (B—A).
+Compu 8 ita=| 4 3) 08 = 3.6 4}.
+47 5
+>
+Q2
+a. a (1+3x)\2* 4
+Evaluate lim, (=) A
+b. z 6*—3*—2* 41 4
+Evaluate lim —
+x70 x
+c. Let f:R > R,g:RR,h:R-R be defined as 4
+f(x) = x2 +1; g(a) =2a-—3and h(b) = vb +2.
+Find i) (g °f)(3) ii) (Cf ° 9)? h)(2) iii) (9° g)(4).
+a atl
+Q.3
+d 2 i
+pr a Show that = —~— if y = SBetCOSe | 4
+dx 1—sin2x cos x—sinx
+b. Differentiate with respect tox: (sinx)* + xsinx, 4
+
+Vo.
+--- page 2 ---
+Q4
+
+Q.5
+
+Q.6
+
+Q7
+
+Differentiate with respect tox: tan™+ [ 7 |.
+1-6x?
+Discuss the continuity of function f, where f is defined by
+f(x)= _2x+3,ifx <2
+L2x-3 ,ifx>2.
+\
+
+cosA sinA
+Prove that
+
+a =sinA :
+1-tanA 1-cotA + cos A
+
+tanx-sinx
+
+Evaluate lim 5
+x
+
+x0
+
+sin19°+cos 11°
+Prove that ——————— = v3
+cos 19°—sin 11° v3
+
+Prove that tan~* (=) +cot7! (2) =sec7! V2
+
+If tan x =, tany = 5, prove that xty=f.
+
+1 x x?
+12 4
+13 9
+
+Find x, if
+
+=| ak
+
+5 4 3]
+
+’ Find adjoint of matrix A = F 4 5
+
+0 -6 -7
+
+Compute A+ by applying elementary row transformation if A = |
+
+Differentiate sin7* (4) ith tto cos7? ($2 *)
+ifferentiate s Tagz) with respect to Ti
+‘i 1 2 2
+If A=5]2 1 -2 , then prove that A7~* = A®.
+—2 2 -1
+
+X: X X: =
+
+2/9
+
+3
+2
+0
+
+-3 4
+-3 4
+11
+
+|
+
+an
+````
+
+## 2015-16 · Re-Exam · Sem 1 · paper c8af1cfa6145
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2015-16 Re Exam.pdf`
+- Printed on paper: max marks: 70; exam date: 08-Jun-16
+- Text: ocr (2 pages), mean OCR confidence 76.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech Integrated (All Streams) Year: I Semester: I
+
+Academic Year: 2015-2016
+
+nvaa
+
+OTE BF a
+Subject : Mathematics -I BATCH: 2015 foe
+
+Marks: 70 FP stun
+
+Date : 08-Jun-16 Time : 10.00 mito} 100 prow ¥ d=
+
+Durations: 3 are
+
+.
+ey tt *
+
+XY ans aE
+ee
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+NB:
+(|, a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) All questions carry equal marks.
+d) Answer to each new question to be started on a fresh page.
+e) Figure in brackets indicate full marks.
+
+4 2
+Qla) IfA =| 6 1 .B=[3) 9] (4)
+3 4 -2
+3 5
+Find AB and show that it is a Singular Matrix.
+x sin x dy
+b IfY= Find 4
+) 1+ cos x m dx ®
+Lim 2 i
+. + 3
+c) Find 4 Toe? ye (3)
+—d) The angles of a quadrilateral are in the ratio2:3:3:4 (3)
+Find them in Degrees and Radians.
+Q2a) Find the adjoint of the Matrix. (5)
+fp 3 3 4 7
+A=] 2 3 4
+Lo -l 1d
+b) Find the inverse of the Matrix by elementary row transformation. (5)
+[ 4 -3 3 7
+A=] 1 0 1
+L4 4 3]
+c) Solve the following equation. (4)
+x 2 xt+3
+|Al= | 3 5 8 |=0
+xt+1 7-x 12
+Q3a) Ifx’=e (5)
+dy log x
+Prove that Ge Dn?
+* (1 + logx)
+
+>
+\
+
+iy
+--- page 2 ---
+
+d 2
+show that = =e
+dx Pa
+
+c) Find 2 if x=a(t-sint) ; y=a(1-cost)
+x 4
+
+Q4a) Discuss the continuity of the function at x = 2
+
+2
+x -4
+f(x) = x#2
+afx+2 -~f3x-2
+= os for x =2
+2
+i 3x -5
+b) Evaluate Ee :
+—- Mast +1 + Vato1
+10°-2°-5'+1
+c) Find Lim ————————
+x->0 2
+x
+Q5a) Prove that
+Cosec A Cosec A 2
++ =2Sec A
+Cosec A- 1 Cosec A+ 1
+tan 8 cot 8 .
+b) Prove that + = Sin 6. Cos 6
+
+(1+ tan’ 0) (1+ cot 0)”
+c) Findxif tan! 2x+tan'3x= [V/4
+
+2x +3
+x
+Prove that fof is identity function.
+
+Q6a) If f(x)= 4 2/3
+
+r “:
+bh) “Bid the inverse of Matrix Cee staf
+-Sin@ Cos@
+
+c) Let U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} be the universal set
+A= {1,3,5,7,9}; B= {2,3,4, 6, 8,10}; C= {6,7, 8, 9}
+Find i) A’ ii) (ANC) | iii) (BY iv) (B-C)!
+
+Q7a) Find the maximum & minimum values of 3x'-2x*-6x +6x+1 in the interval (0,2)
+
+b) Show that Cos’ (-*) +Cos” (+s) = 1
+
+c) y=l+x.e’ Find —
+
+(5)
+
+(4)
+(5)
+
+G
+
+(4)
+(5)
+
+(5)
+
+(4)
+
+(5)
+
+(5)
+
+(4)
+
+(5)
+
+(5)
+
+(4)
 ````
 
 ## 2014-15 · Final-Exam · Sem 1 · paper 50990dc4a9dd
@@ -6112,319 +6570,6 @@ Ala
 ©)
 
 CN
-````
-
-## 2014-15 · Re-Exam · Sem 1 · paper ec97cd007b8e
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2014-2015 Re Exam.pdf`
-- Printed on paper: exam date: 31 May 2018
-- Text: ocr (2 pages), mean OCR confidence 77.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (All Streams) ,~ Year: I Semester: I «
-
-Batch; 2014-15 ~
-Academic Year: 2017-2018
-
-Subject: Mathematics -I - I ST Ba
-Marks: der
-Date: 31 May 2018 . Time: 10.09'arh to 4 Dan ye
-‘ Durati this} RARW
-No. of
-
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks,
-7) Assume suitable data if necessary.
-
-2 4 1 3 5 =-l 1 -l 4
-Ql. a) If A= . , B= ,C= ,then compute 34-—2B+2C. [3]
-
-0 3 ~=5 1 4 0 2 1 3
-2
-. x -9
-b) Evaluate lim . [3]
-x33 ¥-3
-c) iry=see’(4e—3), Find ®. [3]
-d) Prove that sec'x—sec’x =tan‘x #tan’x. [3]
-213
-Q2. . . .
-a) Find adjoint of the matrix A4=/3 1 2 [4]
-12 3
-0 1 1
-b) Find inverse of matrix A by elementary rowtransformation, where A=|1 2 0 [4]
-3 -1 4
---- page 2 ---
-Q3.
-
-Q4.
-
-Qs.
-
-Q6.
-
-Q7.
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-a)
-b)
-c)
-
-1 x ‘x?
-
-1 1
-Find x,if}l 2 4 {| J
-13 9
-Evaluate lim (vx +5x -x)
-Find the value of K so that the function f is continuous at the indicated point.
-Kx+l, ifx<a
-S (x)= . at x=
-COS x, ifx>z
-Evaluate lim legeeibe
-
-x92 x-2
-Differentiate x:cosx w.r.t. tanx.
-
-ify=(sinx)", find”.
-y=(sinx)’, fin -
-Find, ifx' +527 y=By? —6y*.
-
-inx —sin5x+sin9x — sinl3
-Show that arses Sine = cot dx.
-
-cos x—cos5x—cos9x+cosl3x _
-afl afl afl afl 1
-Prove that tan>'} — |+tan7'} — |+tan™'| — |+tan7'} — |=—-
-5 7 3 8 4
-
-. 2n\
-One angle of a triangle has measure (=) and the measures of other two angles are
-
-in the ratio 4:3. Find measure of all the angles in degrees and radians.
-
-By using property of determinants and without expanding, Show _ that
-1 be a (b + c)
-1 ca 6b (c + a) =0
-
-1 ab c(a + b)
-Determine the maximum and minimum values of the function
-f (x) =2x° — 21x” +36x-20.
-
-With usual notations, Prove that b’ sin2C +c? sin2B =2bcsin A.
-2
-
-If y =2sin3x—5cos3x , show that 2 +9y-=0.
-oa
-
-If f(x)=x+1 and g(x)=x*-x then calculate fog and gof.
-
-Let U ={1,2,3,4,5,6,7,8, 9,10} be the universal set and A,B,C be its subsets given by
-A ={x :xisodd , x belongs toU} ,B= {y : yis prime number, y belongs toU} ‘i
-
-C ={1,2,3,4,5,6,7}.
-
-Find i)(ANC)' ii) AU(B-C)_ iii)(BUC)'.
-
-2/, Z
-
-[4]
-
-[4]
-[4]
-
-[4]
-
-[4]
-[4]
-
-[4]
-[4]
-
-[4]
-
-[4]
-
-[4]
-
-[4]
-
-[4]
-[4]
-
-[4]
-[4]
-````
-
-## 2014-15 · Re-Exam · Sem 1 · paper 0de8ad40046a
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2014-2015 Re Exam_0de8ad4004.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 23 November 2016
-- Text: ocr (2 pages), mean OCR confidence 79.3
-
-````text
-t
-
-SVKM’s NMIMS
-' MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING |
-
-Programme: B. Tech Integrated (All Streams) Year: I
-Semester: I
-
-Sgr
-Academic Year: 2016-2017 of
-
-Subject : Mathematics-I BATCH: 2014-2016 MPSTME YS
-
-Marks: 60 aC LIBRARY tJ
-. 6#1S0Q pm a
-Ni ae
-
-Date : 23 November 2016 Time : 10.00 am
-
-Durations: 3 (hrs
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the
-question paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-
-a) Question No. 1 is compulsory.
-
-b) Out of remaining questions, attempt any 4 questions.
-
-c) Inall 5 questions to be attempted.
-
-d) All questions carry equal marks.
-
-e) Answer to each new question to be stated on a fresh page.
-
-f) Figure in brackets on the right hand side indicate full marks.
-
-g) Assume Suitable data if necessary.
-
-Q.1
-a) U={I,2,3,4,5,6,7,8,9,10} be the Universal set and A, B,C be subsets given by
-
-A={1,2,3,4,5,7}, B= {1,3,8,9},C = {1,3,6,8} find i) AUB ii) ANBAC (3)
-
-., hm. e+e*
-b) Find —, if y= 3
-) che yore @)
-c) Iftan A= > tan B =5 find the value of tan(2.4+ B) (3)
-
-d) Find x and y satisfying the equation
-
-k x 7] I; ay) 2 1 ‘
-+ = (G3)
-y 5 4 1 -2 2] |-1 3 6
-
-Q.2
-4 Tx+4
-a) If f(x)=28t% and g(x)=2** find (fog)(zx) (4)
-Sx- 5x-
-: 348
-b) Evaluate lim a (4)
-xo x 43x42
-ax _ 92x
-c) Evaluate lim - (4)
-x90 sin 3x
-Q3 .
-sin A l—cosA
-en that ————— = 2(cosec A—cot A 4
-a) Prove tha 1+cosA sin A ( ) @)
-i cos3@ — sin30
-b) Pi that — + — = 4(cos 20 4
-) Prove tha cos@ sinO ( ) ad
-ze i) 0
-c) Prove that ne = V3 (4)
-
-cos19° — sin11°
-
-tf
---- page 2 ---
-Q4
-
-a) Differentiate sin'( =) w.r.to x (4)
-’ 1+x
-b) Differentiate log (x sinx) w.r.to = (4)
-x
-c) Ifx=a(0+sin@), y=a(l-cos6) find ° (4)
-Q.5
-2 3 x
--1 8
-a) Solve }1 0 3/= 2 1 (4)
-2 -1 0
-1 3 2
-b) Find adjoint of matrix 4,if A=|-1 0 2 (4)
-3 1 -l
-1 -1 0
-c) Find the inverse of A, by adjoint method 4=]0 1 1 (4)
-1 2 1
-Q6
-a) Write the following sets in Roster form (4)
-
-i) A= {x:xisan integer, x? < 9}
-ii) B={x:xis factor of 20}
-iii) C= {x : xis a two digit natural number such that the sum of digits is 7}
-
-. +1)"
-b) Evaluate lim [ (4)
-see | ee 2.
-2 2 am ad
-c) If x°+y° —4xy=0, find ch (4)
-Q7
-13 3
-a) Find the inverse of A, by elementary row transformations 4=|1 4 3 (4)
-13 4
-b) Prove that sin™ 2 | <isiv| 2 =sin'| 77 (4)
-5 17 85
-“ dy dy
-=sin7 2 ~7yBML
-c) If y=sin™ x, prove that (1-x ar x dk =0 (4)
-
-ar
 ````
 
 ## 2014-15 · Re-Exam · Sem 1 · paper 2d612defdfb3
@@ -6675,152 +6820,4 @@ b) If A=cos*@+sin‘@ for all values of 9, then prove that #<A5l, 5.
 c) Differentiate tan z | with respect to cos 3 3
 1-x 1+x
 ~<
-````
-
-## 2014-15 · Re-Exam · Sem 1 · paper 73885cbdaebd
-
-- Departments: Common (all branches)
-- Programmes: B.TECH INTEGRATED
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/1st YEAR/Sem_01/MATHEMATICS I/Mathematics I Batch 2014-2015 Re Exam_73885cbdae.pdf`
-- Printed on paper: exam date: 08-Jun-16
-- Text: ocr (2 pages), mean OCR confidence 72.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech Integrated (All Streams) Year: I Semester: I
-BATCH:
-
-Marks: ‘he = a
-
-~
-Time : am te mee % (
-Durations (hrs) RA RY 2S
-
-aS ¢
-
-Re-Examination .
-3 F 5 A * ~———
-Instruction: Candidates should read carefully the instructions printed on the quest FE
-
-cover of the Answer Book, which is provided for their use.
-
-Academic Year: 2015-2016
-
-Subject : Mathematics —I
-
-Date : 08-Jun-16
-
-NB:
-1) Question No. ONE is compulsory.
-2) Out of remaining questions, attempt any FOUR questions.
-3) In all FIVE questions to be attempted.
-—_ 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks. .
-7) Assume Suitable data if necessary ‘
-
-Q.l
-2 a
-a Evaluate: lim pela ?
-x74 X727-3x-4
-b. = y2-5%- dy 3
-Ify = x*-5* cos x , find =. 2
-c. Let U = {1, 2,3, «...-10}, A = {2, 4, 6, 8 10}, B = {1,3,5,7,9,10}.Find i) 3
-(AUB)’ ii) A’ n (B—A).
-Compu 8 ita=| 4 3) 08 = 3.6 4}.
-47 5
->
-Q2
-a. a (1+3x)\2* 4
-Evaluate lim, (=) A
-b. z 6*—3*—2* 41 4
-Evaluate lim —
-x70 x
-c. Let f:R > R,g:RR,h:R-R be defined as 4
-f(x) = x2 +1; g(a) =2a-—3and h(b) = vb +2.
-Find i) (g °f)(3) ii) (Cf ° 9)? h)(2) iii) (9° g)(4).
-a atl
-Q.3
-d 2 i
-pr a Show that = —~— if y = SBetCOSe | 4
-dx 1—sin2x cos x—sinx
-b. Differentiate with respect tox: (sinx)* + xsinx, 4
-
-Vo.
---- page 2 ---
-Q4
-
-Q.5
-
-Q.6
-
-Q7
-
-Differentiate with respect tox: tan™+ [ 7 |.
-1-6x?
-Discuss the continuity of function f, where f is defined by
-f(x)= _2x+3,ifx <2
-L2x-3 ,ifx>2.
-\
-
-cosA sinA
-Prove that
-
-a =sinA :
-1-tanA 1-cotA + cos A
-
-tanx-sinx
-
-Evaluate lim 5
-x
-
-x0
-
-sin19°+cos 11°
-Prove that ——————— = v3
-cos 19°—sin 11° v3
-
-Prove that tan~* (=) +cot7! (2) =sec7! V2
-
-If tan x =, tany = 5, prove that xty=f.
-
-1 x x?
-12 4
-13 9
-
-Find x, if
-
-=| ak
-
-5 4 3]
-
-’ Find adjoint of matrix A = F 4 5
-
-0 -6 -7
-
-Compute A+ by applying elementary row transformation if A = |
-
-Differentiate sin7* (4) ith tto cos7? ($2 *)
-ifferentiate s Tagz) with respect to Ti
-‘i 1 2 2
-If A=5]2 1 -2 , then prove that A7~* = A®.
-—2 2 -1
-
-X: X X: =
-
-2/9
-
-3
-2
-0
-
--3 4
--3 4
-11
-
-|
-
-an
 ````

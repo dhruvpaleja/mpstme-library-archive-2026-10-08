@@ -4,95 +4,7 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2025-26 · Re-Exam · Sem 5 · paper e54ddccfdc40
-
-- Departments: Cyber Security
-- Programmes: BTech CyberSecurity 7010
-- Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_CyberSecurity_7010/AI and ML for Cybersecurity/QP_AI and ML for Cybersecurity(702IT0E003)_2025-2026.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
-- Text: text (2 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
-ENGINEERING (CYBER SECURITY)
-Year: III/Sem 5 Re-exam(Exam Year: 2025-2026)
-Subject: AI and ML for Cybersecurity
-Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 2 pages.
-2. Question No. 1 is compulsory
-3. Out of the remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1   Answer briefly:
-CO-1; BL-1   a   Identify typical data problems in machine learning   [5]
-CO-2; BL-2   b   Describe the importance of feature engineering in building ML models   [5]
-CO-2; BL-1   c   Recall the key limitations associated with Decision Tree models.   [5]
-CO-1; BL-2   d   Discuss how different clustering approaches group data.   [5]
-Q2   a   Demonstrate the working of a clustering algorithm suitable for large
-[10]
-CO-2; BL-3   databases.
-b Analyze the data points and form 2 clusters with the K-Means algorithm,
-starting with A and B as initial means.
-X   Y
-CO-3; BL-4   A   3   3   [10]
-B   5   3
-C   7   6
-D   8   7
-Q3   a   Discuss how AI can be categorized based on its capabilities
-[10]
-CO-1; BL-2
-b Apply Principal Component Analysis and discuss how it helps in building
-CO-2; BL-3   [10]
-efficient ML models
-Q4   a   Clarify the meaning of data imbalance and illustrate why it should be managed
-[10]
-CO-2; BL-2   using an example.
-b Analyze the dataset and classify the tuple (Login_frequency =” Medium”,
-Suspicious IP =” Yes” ,Malware Flag=”No” ) as M or H using Naïve Bayes
-Login_Frequency   Suspicious_IP   Malware_Flag   Risk
-Low   No   No   M
-High   Yes   Yes   H
-Medium   No   Yes   M
-CO-3; BL-4   High   Yes   No   H   [10]
-Medium   No   No   M
-High   Yes   Yes   H
-Low   Yes   No   M
-Medium   Yes   No   H
-Low   No   Yes   M
-********** 1 **********
---- page 2 ---
-Medium   Yes   Yes   H
-Q5   a   Identify the key distinctions between Linear and Logistic Regression
-[10]
-CO2; BL1
-b   Describe how Decision Trees can be applied to regression and classification
-CO-2; BL-2   [10]
-problems with examples
-Q6   a
-Illustrate the functioning of Support Vector Machines with an example.   [10]
-CO-3; BL-2
-b   Build a two-hidden-layer neural network with proper activation functions and
-CO2; BL-3   [10]
-illustrate how it processes data.
-Q7   Short notes on:
-CO-1; CO-3;   a. Hierarchical vs. Centroid based models
-[5*4
-CO-1; CO-1; BL-   b. Application of AI/ML in domain of cybersecurity
-=20]
-2   c. Describe various stages in Machine Learning
-d. Explain concept of Cost and loss function
-********** 2 **********
-````
-
-## 2024-25 · Final-Exam · Sem 5 · paper c1afeb4b6149
+## 2025-26 · Final-Exam · Sem 5 · paper c1afeb4b6149
 
 - Departments: Cyber Security
 - Programmes: BTech CyberSecurity 7010
@@ -188,6 +100,94 @@ c. MAE vs. MSE   =20]
 BL-2
 d. Interpret the effect of data imputation on model performance and
 analysis.
+********** 2 **********
+````
+
+## 2025-26 · Re-Exam · Sem 5 · paper e54ddccfdc40
+
+- Departments: Cyber Security
+- Programmes: BTech CyberSecurity 7010
+- Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_CyberSecurity_7010/AI and ML for Cybersecurity/QP_AI and ML for Cybersecurity(702IT0E003)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
+ENGINEERING (CYBER SECURITY)
+Year: III/Sem 5 Re-exam(Exam Year: 2025-2026)
+Subject: AI and ML for Cybersecurity
+Date: 05 Feb 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+CO-1; BL-1   a   Identify typical data problems in machine learning   [5]
+CO-2; BL-2   b   Describe the importance of feature engineering in building ML models   [5]
+CO-2; BL-1   c   Recall the key limitations associated with Decision Tree models.   [5]
+CO-1; BL-2   d   Discuss how different clustering approaches group data.   [5]
+Q2   a   Demonstrate the working of a clustering algorithm suitable for large
+[10]
+CO-2; BL-3   databases.
+b Analyze the data points and form 2 clusters with the K-Means algorithm,
+starting with A and B as initial means.
+X   Y
+CO-3; BL-4   A   3   3   [10]
+B   5   3
+C   7   6
+D   8   7
+Q3   a   Discuss how AI can be categorized based on its capabilities
+[10]
+CO-1; BL-2
+b Apply Principal Component Analysis and discuss how it helps in building
+CO-2; BL-3   [10]
+efficient ML models
+Q4   a   Clarify the meaning of data imbalance and illustrate why it should be managed
+[10]
+CO-2; BL-2   using an example.
+b Analyze the dataset and classify the tuple (Login_frequency =” Medium”,
+Suspicious IP =” Yes” ,Malware Flag=”No” ) as M or H using Naïve Bayes
+Login_Frequency   Suspicious_IP   Malware_Flag   Risk
+Low   No   No   M
+High   Yes   Yes   H
+Medium   No   Yes   M
+CO-3; BL-4   High   Yes   No   H   [10]
+Medium   No   No   M
+High   Yes   Yes   H
+Low   Yes   No   M
+Medium   Yes   No   H
+Low   No   Yes   M
+********** 1 **********
+--- page 2 ---
+Medium   Yes   Yes   H
+Q5   a   Identify the key distinctions between Linear and Logistic Regression
+[10]
+CO2; BL1
+b   Describe how Decision Trees can be applied to regression and classification
+CO-2; BL-2   [10]
+problems with examples
+Q6   a
+Illustrate the functioning of Support Vector Machines with an example.   [10]
+CO-3; BL-2
+b   Build a two-hidden-layer neural network with proper activation functions and
+CO2; BL-3   [10]
+illustrate how it processes data.
+Q7   Short notes on:
+CO-1; CO-3;   a. Hierarchical vs. Centroid based models
+[5*4
+CO-1; CO-1; BL-   b. Application of AI/ML in domain of cybersecurity
+=20]
+2   c. Describe various stages in Machine Learning
+d. Explain concept of Cost and loss function
 ********** 2 **********
 ````
 
@@ -329,6 +329,7 @@ e Reinforcement learning
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE CYBER SECURITY/SEM-V/AI AND ML FOR CYBERSECURITY/AI and ML for Cybersecurity, Sem-V, Final Exam, A Y 2023-24.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 /12/2023
 - Text: ocr (3 pages), mean OCR confidence 83.9
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS j
@@ -390,7 +391,6 @@ python no no no {no | non-mammals
 
 salmon. _{no no yes. |mo_ —__ |non-mammals
 
-whale fyes {nO jyes_|nO {mammals __
 
 frog no | __|no _|sometimes|yes _|non-mammals
 
@@ -404,13 +404,10 @@ cat yes JMO yes _
 
 leopard shark |yes [no No _
 
-turtle __jmo_jno. ss fsometimes|yes | ammais
 
 penguin _ no |no._____|sometimes|yes___|non-mammals
 
-porcupine _jyes_ no. noes mammals
 
-eel ino cece fMQ YES IMO
 
 salamander _|no no. |sometimes|yes __
 
@@ -420,7 +417,6 @@ platypus NO no _ Mo jyes mammals
 
 owl _...., NO _jyes |no yes *_|non-mammals |
 
-dolphin yes {mo tyes. no. fmammals
 
 eagle no yes no yes non-mammals
 —_ BL2 4 | Explain any 2 Feature Engineering Techniques with examples. [10]
@@ -475,6 +471,7 @@ e Evaluation metrics for Clustering
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE CYBER SECURITY/SEM-V/AI AND ML FOR CYBERSECURITY/AI and ML for Cybersecurity, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 November 2022
 - Text: ocr (3 pages), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 =] SVKM’s NMIMS
@@ -641,7 +638,6 @@ which estimate is better in case of Ridge (lambda=2.1) and which one in
 case of Lasso (lambda =2.4). Show all the calculations
 
 Estimate1 Estimate2
-Bo Bi B2 Bo Bi Bo
 20} 65) -30 30) -35) 50
 RSS 6000 RSS 3200
 

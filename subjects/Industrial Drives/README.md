@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Industrial Drives(702MH0C011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper |  | B TECH / MECHATRONICS | Industrial Drives, Sem-V, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech Mechatronics 7004 | QP_Industrial Drives(702MH0C011)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Industrial Drives(702MH0C011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Industrial Drives(702MH0C011)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech Mechatronics 7004 | QP_Industrial Drives(702MH0C011)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Industrial Drives(702MH0C011)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper |  | B TECH / MECHATRONICS | Industrial Drives, Sem-V, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Industrial Drives, Sem-V, Batch 2022-23, 2023-24 & 2024-25, Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 5 | B TECH / MECHATRONICS | Industrial Drives, Sem-V, Final Exam & Re Exam 2022-23, A Y 2023-24.pdf |

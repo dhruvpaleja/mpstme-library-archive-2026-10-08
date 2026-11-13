@@ -2,6 +2,1260 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 130e0b65eb3e
+
+- Departments: Computer Engineering
+- Programmes: BTech Computer 7002
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Computer_7002/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
+- Text: mixed (14 pages), mean OCR confidence 63.9
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Quantum and Statistical Physics
+Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 14 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in bracket on right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Attempt any four questions from Question Nos. 2.1 to 2.6.
+6. Assume suitable data wherever necessary.
+7. Use non-programmable scientific calculator.
+Q.1   (20)
+(a)   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann
+law and Wien’s displacement law.
+For each law with mathematical expression 2x2=4M   (4)
+•   Stefan’s law of blackbody radiation:
+The total energy radiated per unit surface area of a blackbody per unit time is directly
+proportional to the fourth power of its absolute temperature.
+𝐸= 𝜎𝑇4
+Where, 𝜎 is Stefan’s constant = 5.67 × 10−8𝑊/𝑚2𝑘4
+This law shows that radiation increases very rapidly with temperature. If the
+temperature is doubled, the energy radiated increases 16 times. Hence, hotter bodies
+emit significantly more radiation than cooler ones.
+• Wein’s displacement law:
+The wavelength at which the emission of a blackbody is maximum is inversely
+proportional to its absolute temperature.
+𝜆𝑚𝑎𝑥∝1
+𝑇
+𝜆𝑚𝑎𝑥𝑇= 𝑏,
+where, 𝑏= 2.9898 × 10−3
+This law explains the shift in peak wavelength with temperature. As temperature
+increases, the peak shifts toward shorter wavelengths. For example, a heated object
+changes colour from red to yellow to white as its temperature rises.
+(b)   Write the linear superposition principle with mathematical expression.
+(4)
+********** 1 **********
+--- page 2 ---
+Solution:
+Theory-3M+Mathematical expression-1M
+(c)   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-   (4)
+ordinates and the expression of quantized energy eigenvalue.
+Solution:
+In Cartesian coordinates (𝑥, 𝑦, 𝑧) the time-independent Schrödinger equation is:
+−ℏ2   𝜕2𝜓 𝜕2𝜓   𝑒2
+2𝑚(𝜕2𝜓 +   + 𝜕𝑧2) −   𝜓= 𝐸𝜓
+𝜕𝑥2   𝜕𝑦2   4𝜋𝜀0√𝑥2 + 𝑦2+𝑧2
+Or
+𝑒2
+−ℏ 2𝑚∇2 − 4𝜋𝜀0𝑟𝜓= 𝐸𝜓
+𝐸1
+= 𝐸𝑛
+𝑛2
+2+2=4M
+(d)   State the four basic postulates of Maxwell-Boltzmann.   (4)
+Solution:
+---------------- (1 mark each)
+(e)   Which type of statistical distribution is applied to derive Planck’s radiation formula with   (4)
+suitable reason? Write the equation describing Planck’s radiation law.
+Solution:
+• The type of statistical distribution applied to derive Planck's radiation formula is
+Bose-Einstein statistics.
+•   Planck’s radiation formula is derived using the Bose–Einstein distribution
+because the radiation field consists of photons, which are indistinguishable
+bosons. These particles have integer spin and can occupy the same energy state
+in unlimited numbers.
+---------------- (2 marks)
+********** 2 **********
+--- page 3 ---
+•   Planck's law describes the spectral density of electromagnetic radiation emitted
+by a black body in thermal equilibrium at a given temperature. The formula is
+given by:
+---------------- (2 marks)
+Q.2   (20)
+(a)   State and explain Heisenberg’s uncertainty principle for position-momentum and   (10)
+energy-time with mathematical expressions. In atomic transition from atomic state the
+time interval is of the order of 10-7 sec.Find out the energy uncertainty.
+Problem:
+Statement and mathematical expressions for position-momentum-3M
+Statement and mathematical expressions for energy-time- 3M
+t = 10-7 s; E = ?; ν = ?
+𝐸. 𝑡 = ℎ/2;
+𝐸 = 1.054 𝑥 10−27 𝐽
+---------------- (2 marks)
+𝐸 = ℎ𝜈;
+𝜈 = 1.59 𝑥 108 𝐻𝑧
+---------------- (2 marks)
+(b)   Interpret the reason behind an electron not being allowed to take zero energy in   (6)
+infinite potential well. Calculate the energy required for an electron to jump from
+ground state to the second excited state in an infinite potential well of width L.
+Solution: Expression for infinite well energy -1M
+𝑛2 𝜋2ℏ2
+𝐸𝑛=   ,   𝑛= 1,2,3 …
+2𝑚𝐿2
+Explanation-2M
+Calculation-3M
+Final answer h2/ML2-1M
+********** 3 **********
+--- page 4 ---
+(c)   An electron is trapped in an infinite potential well of length 3 Å. In the ground state,   (4)
+determine the probability of finding the electron in the region x = 0 to 0.5 Å.
+Solution: L = 3 Å
+1(𝑥) = √2 𝑠𝑖𝑛 𝜋𝑥   ---------------- (1 mark)
+𝐿   𝐿
+𝑃= ∫ 𝑥2 |1| 2𝑑𝑥 = 2 𝐿∫ 0.5 𝑠𝑖𝑛2 (𝜋𝑥 𝐿)𝑑𝑥   ---------------- (1 mark)
+𝑥1   0
+𝑃= 1 𝐿∫ 0.5 [1 −𝑐𝑜𝑠(2𝜋𝑥 𝐿)] dx
+0
+1 0.5
+𝑃= ∫ [1 −cos(𝜋𝑥)]𝑑𝑥
+3 0
+1   1   0.5
+𝑃= [𝑥− 𝜋sin(𝜋𝑥)]
+3   0
+1   1
+𝑃= (0.5 − 𝜋)
+3
+𝑃= 0.06
+---------------- (2 marks)
+Q.3   (20)
+(a)   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in the   (10)
+position of a cricket ball is, say, 1 mm and comment on the relevance of uncertainty
+principle in case of macro-bodies.
+Solution:
+Statement with expression-2
+marks
+(6 marks for calculation+2marks for statement)
+(b)   Derive the normalized wave-function of an electron confined in a 1-D potential well of   (6)
+length L and infinite depth and draw the wavefunctions for three lowest states.
+.
+Solution:
+Let us assume that a particle of mass m trapped in a one-dimensional infinitely deep
+potential well with V(x) = 0 except at boundaries x=0 and x=L, where it is infinitely
+large.
+V(x) = 0 for 0 < x < L
+=∞ for x ≤ 0 and x ≥ L
+********** 4 **********
+--- page 5 ---
+---------------- (1 mark)
+The time independent Schrödinger equation can be written as
+𝑑2(𝑥) 2𝑚𝐸
++   (𝑥) = 0   0<x<L
+𝑑𝑥2   ћ2
+𝑑2(𝑥)
++ 𝑘2(𝑥) = 0
+𝑑𝑥2
+Where 𝑘2 = 2𝑚𝐸
+ћ2
+---------------- (1 mark)
+The general solution is
+(𝑥) = 𝐴𝑠𝑖𝑛𝑘𝑥+ 𝐵𝑐𝑜𝑠𝑘𝑥
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+Continuity of ψ(x) requires
+Ψ(0) = 𝜓(𝐿) = 0
+∴Ψ(0) = 𝐴𝑠𝑖𝑛(𝑘. 0) + 𝐵𝑐𝑜𝑠(𝑘. 0) = 0 →𝐵= 0
+and
+Ψ(𝑥) = 𝐴𝑠𝑖𝑛(𝑘𝑥)
+Now   Ψ(𝐿) = 𝐴𝑠𝑖𝑛(𝑘𝐿) = 0
+Since A cannot be zero as it will give trivial, non normalizable solution ψ(x) = 0, we have
+sin (kL) = 0 or kL = 0, ±, ±2, ±3, ….
+Again k=0 is not acceptable as it will imply ψ(x) = 0 and the ‘-’ve sign can be absorbed
+into A. Therefore we have
+𝑛𝜋
+𝑘𝑛= 𝐿n = 1, 2, 3, ......
+---------------- (1 marks)
+----------- (3 marks for diagram)
+(c)   Find which of the following functions are eigenfunctions of the momentum operator (k   (4)
+is a constant): (a) Sinkx (b) eikx .
+𝑂̂ Ψ(x) = Ψ(x)   ---------------- (1 mark)
+𝑑
+𝑂̂ = −𝑖ℏ   ---------------- (1 mark)
+𝑑𝑥
+𝑑
+(a) −𝑖ℏ 𝑑𝑥(Sinkx) = −𝑖ℏ𝑘 𝐶𝑜𝑠𝑘𝑥 (Not an eigenfunction) ---------- (1 mark)
+(b) −𝑖ℏ 𝑑𝑥(𝑒𝑖𝑘𝑥) 𝑑   = ℏ𝑘𝑒𝑖𝑘𝑥 (Is an eigenfunction)   ------------- (1 mark)
+Q.4   (20)
+(a)   Write down time independent Schrödinger’s equation free particle and show that the   (10)
+energy value is continuous
+Solution:
+The one-dimensional time dependent Schrödinger equation for a free non-relativistic
+particle (V = 0) is given below
+ћ2 ∂2ψ(x,t)   ∂ψ(x,t)
+−   = iћ   (1)
+2m   ∂x2   ∂t
+--------------(2 marks)
+********** 5 **********
+--- page 6 ---
+A free particle of total energy E and momentum p moving in the +x direction can be
+described by the wave-function Ψ of a place monochromatic wave. The expression for
+Ψ is given by
+i
+Ψ(x, t) = A exp [ (px −Et)]   (2)
+ћ
+where A = amplitude of displacement of the wave
+ћ = reduced Planck constant (h/2) = 1.05457 x 10-34 J.s
+The energy E and momentum p of the particle are related to its wave-vector k and
+frequency  by the relations
+p = ћk = ћ 2𝜋 , E = ћ
+Differentiating Eq. (2) once with respect to time gives,
+𝜕Ψ(x, t) −𝑖𝐸
+=   Ψ(x, t)
+𝜕𝑡   ћ
+or
+∂Ψ(x,t)
+iћ   = EΨ(x, t)   (3)
+∂t
+---------------- (2marks)
+Differentiating Eq. (2) twice with respect to x gives,
+∂Ψ(x,t)
+−iћ   = pΨ(x, t)
+∂x
+∂2Ψ(x,t)
+−ћ2   = p2Ψ(x,t)   (4)
+∂x2
+------------(2 marks)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+ћ2 ∂2Ψ(x,t)
+−   =
+2m   ∂x2
+p2
+Ψ(x, t)   (5)
+2m
+----------- (1 mark)
+Comparing equations (1), (3) and (5), the energy E and momentum p of a free non-
+relativistic particle of mass m are related by the expression
+𝑝2   ℏ2𝑘2
+𝐸= 2𝑚=   ----------- (1 mark)
+2𝑚
+(6)
+As the particle is free, there are no boundary conditions to be applied to the particle
+motion and hence there are no restrictions on wave-vector k. As a result, the particle
+can possess any value of energy or the energy is not quantized.
+---------------(2 marks)
+(b)   Explain “the half-life of polonium that emits 8-MeV α-particles is only hundreds of
+milliseconds and the half-life of uranium that emits 4-MeV α-particles is billions of   (6)
+years” by applying quantum mechanical tunnelling.
+Solution:
+Gamow explained the variation of half-lives by considering a ‘spherical-box’ model of
+the nucleus, where α-particles can bounce back and forth between the walls as free
+particles. The confinement is provided by a strong nuclear potential at a spherical wall
+of the box. The thickness of this wall, however, is not infinite but finite, so in principle,
+********** 6 **********
+--- page 7 ---
+a nuclear particle has a chance to escape this nuclear confinement. On the inside wall
+of the confining barrier is a high nuclear potential that keeps the α-particle in a small
+confinement. But when an α-particle gets out to the other side of this wall, it is subject
+to electrostatic Coulomb repulsion and moves away from the nucleus.
+-------------------- (1 mark)
+----------------- (1 mark for diagram)
+The width L of the potential barrier that separates an α-
+particle from the outside world depends on the particle’s
+kinetic energy E. This width is the distance between the point
+marked by the nuclear radius R, and the point, R0, where an α-
+particle emerges on the other side of the barrier
+-------------------- (1 mark)
+At the distance the kinetic energy of the α-particle must be
+equal to electrostatic Coulomb repulsion energy.
+2𝑍𝑒2
+𝐸=
+4𝜋𝜀0𝑅0
+-------------------- (1 mark)
+Substituting the value of R0
+2𝑍𝑒2
+𝐿= 4𝜋𝜀0𝐸−𝑅
+------------------------ (1 mark)
+Hence, higher the energy of α-particle, the narrower the width of the barrier that it is
+to tunnel through. Also, the width of the potential barrier is the most important
+parameter in tunneling probability. Thus, highly energetic α-particles have a good
+chance to escape the nucleus, and, for such nuclei, the nuclear disintegration half-life is
+short. However, this process is highly nonlinear, meaning a small increase in the α-
+particle energy can exponentially increase the tunneling probability. This explains why
+the half-life of polonium that emits 8-MeV α-particles is only hundreds of milliseconds
+and the half-life of uranium that emits 4-MeV α-particles is billions of years.
+------------------------ (1 mark)
+(c)   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.
+Solution:   (4)
+For hydrogen atom, the enrgy of the 𝑛𝑡ℎ orbit is given by:
+𝐸𝑛= −13.6 𝑒𝑉
+𝑛2
+------------------------ (2 marks)
+𝑛= 2 for 2nd orbit
+∴𝐸2 = −13.6 = −3.4𝑒𝑉
+22
+𝑛= 3 for 3rd orbit
+13.6
+∴𝐸3 = − = −1.51𝑒𝑉   (2 marks)
+32
+Q.5   (20)
+********** 7 **********
+--- page 8 ---
+(a)   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit of   (10)
+hydrogen atom.
+Solution:
+E1= 13.6 eV;  = ?
+-
+𝐸1 = 𝐸𝑛
+𝑛2
+E4 = 0.85 eV; E5 = 0.54 eV   -4M
+= ℎ
+√2𝑚𝐸
+ = 13.28 x 10-10 m   ------------------------ (3X2=6 marks)
+ = 16.60 x 10-10 m
+(b)   Find the mathematical formulation for the probability W of distribution for a large   (6)
+assembly of n distinguishable particles amongst k cells.
+3M
+********** 8 **********
+--- page 9 ---
+---------- (3 marks)
+(c)   A system has non-degenerate single-particle states with 0,1,2,3 energy units. Three   (4)
+particles are to be distributed in these states such that the total energy of the system is
+3 units. Find the number of microstates if the particles obey (i) MB statistics (ii) BE
+statistics (iii)FD statistics. Find the corresponding macrostates and microstates also.
+3M
+1M
+Q.6.   (20)
+(a)   Explain the micro canonical and grand canonical ensembles in statistical mechanics,   (10)
+highlighting their key features, differences, and thermodynamic variables. Support your
+explanation with appropriate diagrams.
+Solution:
+Microcanonical ensemble: It is the collection of a large number of systems having the
+same energy E, volume V and total number of particles N. This ensemble is also often
+called the NVE ensemble, as each of these three quantities is a constant of the
+ensemble. The individual systems of microcanonical ensemble must remain totally
+********** 9 **********
+--- page 10 ---
+isolated (i.e. they are separated by rigid, impermeable and well insulated walls, unable
+to exchange energy or particles with its environment) in order to stay in statistical
+equilibrium.
+Solution:
+Grand Canonical ensemble: It is an ensemble of a large number of essentially
+independent systems having the same temperature T, volume V and chemical potential
+𝜇. In the grand canonical ensemble, both energy E and number of particle N are
+variable. The individual systems of a grand canonical ensemble are separated by rigid,
+permeable but conducting walls as shown in Fig. 4. As the separating walls are
+conducting and permeable, the exchange of heat energy as well as the particles
+between the systems takes place, bringing all the systems arrive at common
+temperature T and chemical potential 𝜇. The chemical potential is the energy required
+to add a particle to the system.
+********** 10 **********
+--- page 11 ---
+(b)   Using statistical mechanics, obtain Planck’s distribution law and discuss its physical   (6)
+significance in describing blackbody radiation
+Solution:
+------------------------ (2 marks)
+------------------------ (1 mark)
+------------------------ (1 mark)
+********** 11 **********
+--- page 12 ---
+------------------------ (1 mark)
+------------------------ (1 mark)
+(c)   Calculate the number of photons per cubic meter at 2000 K.   (4)
+Solution:
+Total number of photons per unit volume having all possible energies
+------------------------ (2.5 marks)
+N = 1.61 x 1017 photons   ------------------------ (1.5 marks)
+Q.7   (20)
+(a)   Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac statistics   (10)
+distribution function.
+Solution:
+The basic postulates of MB statistics are
+i. The associated particles are identical but distinguishable.
+ii. Each energy state can contain any number of particles.
+iii. Total number of particles in the entire system is constant.
+iv. Total energy of all the particles in the entire system is constant.
+v. Examples: gas molecules at high temperature and low pressure.
+********** 12 **********
+--- page 13 ---
+-----------------------(Any three postulates=3 marks)
+1. The particles (fermions) are identical and indistinguishable.
+2. They obey Heisenberg’s uncertainty principle and the Pauli’s exclusion
+principle.
+3. There is definite a priori restriction on the number of fermions in a quantum
+state. There can be simultaneously no more than one particle in a quantum
+state (i.e. it would either remain empty or can at best contain one fermion).
+-----------------------(Any three postulates=3 marks)
+Maxwell-Boltzmann distribution function with explanation of all terms
+The Fermi-Dirac distribution is mathematically expressed as:
+------------------------ (2 marks)
+Any two applications of MB statistics   ------------------------- (2 marks)
+(b)   X-rays of 71pm are scattered by free electrons in a block of carbon through 30°.Find the   (6)
+wavelength of the scattered X-ray. What is the largest shift that can be expected in this
+experiment?
+Given: 𝜆= 71𝑝𝑚, 𝜙= 30°   ---------------------- (1 mark)
+2+1=3M
+(c)   The wave-function for a quantum particle of mass m confined to move in the domain 0   (4)
+< x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)
+********** 13 **********
+--- page 14 ---
+Calculate the normalization constant N.
+
+1
+N? | sin?(2aa) dx =1
+0
+
+N=¥v2
+
+Calculation-2M+Final answer-1M
+
+2 ROO RK
+
+FRR IC 7 I OH
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 6926ffbecca9
+
+- Departments: Information Technology
+- Programmes: BTech IT 7001
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_IT_7001/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
+- Text: mixed (14 pages), mean OCR confidence 63.9
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Quantum and Statistical Physics
+Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 14 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in bracket on right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Attempt any four questions from Question Nos. 2.1 to 2.6.
+6. Assume suitable data wherever necessary.
+7. Use non-programmable scientific calculator.
+Q.1   (20)
+(a)   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann
+law and Wien’s displacement law.
+For each law with mathematical expression 2x2=4M   (4)
+•   Stefan’s law of blackbody radiation:
+The total energy radiated per unit surface area of a blackbody per unit time is directly
+proportional to the fourth power of its absolute temperature.
+𝐸= 𝜎𝑇4
+Where, 𝜎 is Stefan’s constant = 5.67 × 10−8𝑊/𝑚2𝑘4
+This law shows that radiation increases very rapidly with temperature. If the
+temperature is doubled, the energy radiated increases 16 times. Hence, hotter bodies
+emit significantly more radiation than cooler ones.
+• Wein’s displacement law:
+The wavelength at which the emission of a blackbody is maximum is inversely
+proportional to its absolute temperature.
+𝜆𝑚𝑎𝑥∝1
+𝑇
+𝜆𝑚𝑎𝑥𝑇= 𝑏,
+where, 𝑏= 2.9898 × 10−3
+This law explains the shift in peak wavelength with temperature. As temperature
+increases, the peak shifts toward shorter wavelengths. For example, a heated object
+changes colour from red to yellow to white as its temperature rises.
+(b)   Write the linear superposition principle with mathematical expression.
+(4)
+********** 1 **********
+--- page 2 ---
+Solution:
+Theory-3M+Mathematical expression-1M
+(c)   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-   (4)
+ordinates and the expression of quantized energy eigenvalue.
+Solution:
+In Cartesian coordinates (𝑥, 𝑦, 𝑧) the time-independent Schrödinger equation is:
+−ℏ2   𝜕2𝜓 𝜕2𝜓   𝑒2
+2𝑚(𝜕2𝜓 +   + 𝜕𝑧2) −   𝜓= 𝐸𝜓
+𝜕𝑥2   𝜕𝑦2   4𝜋𝜀0√𝑥2 + 𝑦2+𝑧2
+Or
+𝑒2
+−ℏ 2𝑚∇2 − 4𝜋𝜀0𝑟𝜓= 𝐸𝜓
+𝐸1
+= 𝐸𝑛
+𝑛2
+2+2=4M
+(d)   State the four basic postulates of Maxwell-Boltzmann.   (4)
+Solution:
+---------------- (1 mark each)
+(e)   Which type of statistical distribution is applied to derive Planck’s radiation formula with   (4)
+suitable reason? Write the equation describing Planck’s radiation law.
+Solution:
+• The type of statistical distribution applied to derive Planck's radiation formula is
+Bose-Einstein statistics.
+•   Planck’s radiation formula is derived using the Bose–Einstein distribution
+because the radiation field consists of photons, which are indistinguishable
+bosons. These particles have integer spin and can occupy the same energy state
+in unlimited numbers.
+---------------- (2 marks)
+********** 2 **********
+--- page 3 ---
+•   Planck's law describes the spectral density of electromagnetic radiation emitted
+by a black body in thermal equilibrium at a given temperature. The formula is
+given by:
+---------------- (2 marks)
+Q.2   (20)
+(a)   State and explain Heisenberg’s uncertainty principle for position-momentum and   (10)
+energy-time with mathematical expressions. In atomic transition from atomic state the
+time interval is of the order of 10-7 sec.Find out the energy uncertainty.
+Problem:
+Statement and mathematical expressions for position-momentum-3M
+Statement and mathematical expressions for energy-time- 3M
+t = 10-7 s; E = ?; ν = ?
+𝐸. 𝑡 = ℎ/2;
+𝐸 = 1.054 𝑥 10−27 𝐽
+---------------- (2 marks)
+𝐸 = ℎ𝜈;
+𝜈 = 1.59 𝑥 108 𝐻𝑧
+---------------- (2 marks)
+(b)   Interpret the reason behind an electron not being allowed to take zero energy in   (6)
+infinite potential well. Calculate the energy required for an electron to jump from
+ground state to the second excited state in an infinite potential well of width L.
+Solution: Expression for infinite well energy -1M
+𝑛2 𝜋2ℏ2
+𝐸𝑛=   ,   𝑛= 1,2,3 …
+2𝑚𝐿2
+Explanation-2M
+Calculation-3M
+Final answer h2/ML2-1M
+********** 3 **********
+--- page 4 ---
+(c)   An electron is trapped in an infinite potential well of length 3 Å. In the ground state,   (4)
+determine the probability of finding the electron in the region x = 0 to 0.5 Å.
+Solution: L = 3 Å
+1(𝑥) = √2 𝑠𝑖𝑛 𝜋𝑥   ---------------- (1 mark)
+𝐿   𝐿
+𝑃= ∫ 𝑥2 |1| 2𝑑𝑥 = 2 𝐿∫ 0.5 𝑠𝑖𝑛2 (𝜋𝑥 𝐿)𝑑𝑥   ---------------- (1 mark)
+𝑥1   0
+𝑃= 1 𝐿∫ 0.5 [1 −𝑐𝑜𝑠(2𝜋𝑥 𝐿)] dx
+0
+1 0.5
+𝑃= ∫ [1 −cos(𝜋𝑥)]𝑑𝑥
+3 0
+1   1   0.5
+𝑃= [𝑥− 𝜋sin(𝜋𝑥)]
+3   0
+1   1
+𝑃= (0.5 − 𝜋)
+3
+𝑃= 0.06
+---------------- (2 marks)
+Q.3   (20)
+(a)   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in the   (10)
+position of a cricket ball is, say, 1 mm and comment on the relevance of uncertainty
+principle in case of macro-bodies.
+Solution:
+Statement with expression-2
+marks
+(6 marks for calculation+2marks for statement)
+(b)   Derive the normalized wave-function of an electron confined in a 1-D potential well of   (6)
+length L and infinite depth and draw the wavefunctions for three lowest states.
+.
+Solution:
+Let us assume that a particle of mass m trapped in a one-dimensional infinitely deep
+potential well with V(x) = 0 except at boundaries x=0 and x=L, where it is infinitely
+large.
+V(x) = 0 for 0 < x < L
+=∞ for x ≤ 0 and x ≥ L
+********** 4 **********
+--- page 5 ---
+---------------- (1 mark)
+The time independent Schrödinger equation can be written as
+𝑑2(𝑥) 2𝑚𝐸
++   (𝑥) = 0   0<x<L
+𝑑𝑥2   ћ2
+𝑑2(𝑥)
++ 𝑘2(𝑥) = 0
+𝑑𝑥2
+Where 𝑘2 = 2𝑚𝐸
+ћ2
+---------------- (1 mark)
+The general solution is
+(𝑥) = 𝐴𝑠𝑖𝑛𝑘𝑥+ 𝐵𝑐𝑜𝑠𝑘𝑥
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+Continuity of ψ(x) requires
+Ψ(0) = 𝜓(𝐿) = 0
+∴Ψ(0) = 𝐴𝑠𝑖𝑛(𝑘. 0) + 𝐵𝑐𝑜𝑠(𝑘. 0) = 0 →𝐵= 0
+and
+Ψ(𝑥) = 𝐴𝑠𝑖𝑛(𝑘𝑥)
+Now   Ψ(𝐿) = 𝐴𝑠𝑖𝑛(𝑘𝐿) = 0
+Since A cannot be zero as it will give trivial, non normalizable solution ψ(x) = 0, we have
+sin (kL) = 0 or kL = 0, ±, ±2, ±3, ….
+Again k=0 is not acceptable as it will imply ψ(x) = 0 and the ‘-’ve sign can be absorbed
+into A. Therefore we have
+𝑛𝜋
+𝑘𝑛= 𝐿n = 1, 2, 3, ......
+---------------- (1 marks)
+----------- (3 marks for diagram)
+(c)   Find which of the following functions are eigenfunctions of the momentum operator (k   (4)
+is a constant): (a) Sinkx (b) eikx .
+𝑂̂ Ψ(x) = Ψ(x)   ---------------- (1 mark)
+𝑑
+𝑂̂ = −𝑖ℏ   ---------------- (1 mark)
+𝑑𝑥
+𝑑
+(a) −𝑖ℏ 𝑑𝑥(Sinkx) = −𝑖ℏ𝑘 𝐶𝑜𝑠𝑘𝑥 (Not an eigenfunction) ---------- (1 mark)
+(b) −𝑖ℏ 𝑑𝑥(𝑒𝑖𝑘𝑥) 𝑑   = ℏ𝑘𝑒𝑖𝑘𝑥 (Is an eigenfunction)   ------------- (1 mark)
+Q.4   (20)
+(a)   Write down time independent Schrödinger’s equation free particle and show that the   (10)
+energy value is continuous
+Solution:
+The one-dimensional time dependent Schrödinger equation for a free non-relativistic
+particle (V = 0) is given below
+ћ2 ∂2ψ(x,t)   ∂ψ(x,t)
+−   = iћ   (1)
+2m   ∂x2   ∂t
+--------------(2 marks)
+********** 5 **********
+--- page 6 ---
+A free particle of total energy E and momentum p moving in the +x direction can be
+described by the wave-function Ψ of a place monochromatic wave. The expression for
+Ψ is given by
+i
+Ψ(x, t) = A exp [ (px −Et)]   (2)
+ћ
+where A = amplitude of displacement of the wave
+ћ = reduced Planck constant (h/2) = 1.05457 x 10-34 J.s
+The energy E and momentum p of the particle are related to its wave-vector k and
+frequency  by the relations
+p = ћk = ћ 2𝜋 , E = ћ
+Differentiating Eq. (2) once with respect to time gives,
+𝜕Ψ(x, t) −𝑖𝐸
+=   Ψ(x, t)
+𝜕𝑡   ћ
+or
+∂Ψ(x,t)
+iћ   = EΨ(x, t)   (3)
+∂t
+---------------- (2marks)
+Differentiating Eq. (2) twice with respect to x gives,
+∂Ψ(x,t)
+−iћ   = pΨ(x, t)
+∂x
+∂2Ψ(x,t)
+−ћ2   = p2Ψ(x,t)   (4)
+∂x2
+------------(2 marks)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+ћ2 ∂2Ψ(x,t)
+−   =
+2m   ∂x2
+p2
+Ψ(x, t)   (5)
+2m
+----------- (1 mark)
+Comparing equations (1), (3) and (5), the energy E and momentum p of a free non-
+relativistic particle of mass m are related by the expression
+𝑝2   ℏ2𝑘2
+𝐸= 2𝑚=   ----------- (1 mark)
+2𝑚
+(6)
+As the particle is free, there are no boundary conditions to be applied to the particle
+motion and hence there are no restrictions on wave-vector k. As a result, the particle
+can possess any value of energy or the energy is not quantized.
+---------------(2 marks)
+(b)   Explain “the half-life of polonium that emits 8-MeV α-particles is only hundreds of
+milliseconds and the half-life of uranium that emits 4-MeV α-particles is billions of   (6)
+years” by applying quantum mechanical tunnelling.
+Solution:
+Gamow explained the variation of half-lives by considering a ‘spherical-box’ model of
+the nucleus, where α-particles can bounce back and forth between the walls as free
+particles. The confinement is provided by a strong nuclear potential at a spherical wall
+of the box. The thickness of this wall, however, is not infinite but finite, so in principle,
+********** 6 **********
+--- page 7 ---
+a nuclear particle has a chance to escape this nuclear confinement. On the inside wall
+of the confining barrier is a high nuclear potential that keeps the α-particle in a small
+confinement. But when an α-particle gets out to the other side of this wall, it is subject
+to electrostatic Coulomb repulsion and moves away from the nucleus.
+-------------------- (1 mark)
+----------------- (1 mark for diagram)
+The width L of the potential barrier that separates an α-
+particle from the outside world depends on the particle’s
+kinetic energy E. This width is the distance between the point
+marked by the nuclear radius R, and the point, R0, where an α-
+particle emerges on the other side of the barrier
+-------------------- (1 mark)
+At the distance the kinetic energy of the α-particle must be
+equal to electrostatic Coulomb repulsion energy.
+2𝑍𝑒2
+𝐸=
+4𝜋𝜀0𝑅0
+-------------------- (1 mark)
+Substituting the value of R0
+2𝑍𝑒2
+𝐿= 4𝜋𝜀0𝐸−𝑅
+------------------------ (1 mark)
+Hence, higher the energy of α-particle, the narrower the width of the barrier that it is
+to tunnel through. Also, the width of the potential barrier is the most important
+parameter in tunneling probability. Thus, highly energetic α-particles have a good
+chance to escape the nucleus, and, for such nuclei, the nuclear disintegration half-life is
+short. However, this process is highly nonlinear, meaning a small increase in the α-
+particle energy can exponentially increase the tunneling probability. This explains why
+the half-life of polonium that emits 8-MeV α-particles is only hundreds of milliseconds
+and the half-life of uranium that emits 4-MeV α-particles is billions of years.
+------------------------ (1 mark)
+(c)   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.
+Solution:   (4)
+For hydrogen atom, the enrgy of the 𝑛𝑡ℎ orbit is given by:
+𝐸𝑛= −13.6 𝑒𝑉
+𝑛2
+------------------------ (2 marks)
+𝑛= 2 for 2nd orbit
+∴𝐸2 = −13.6 = −3.4𝑒𝑉
+22
+𝑛= 3 for 3rd orbit
+13.6
+∴𝐸3 = − = −1.51𝑒𝑉   (2 marks)
+32
+Q.5   (20)
+********** 7 **********
+--- page 8 ---
+(a)   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit of   (10)
+hydrogen atom.
+Solution:
+E1= 13.6 eV;  = ?
+-
+𝐸1 = 𝐸𝑛
+𝑛2
+E4 = 0.85 eV; E5 = 0.54 eV   -4M
+= ℎ
+√2𝑚𝐸
+ = 13.28 x 10-10 m   ------------------------ (3X2=6 marks)
+ = 16.60 x 10-10 m
+(b)   Find the mathematical formulation for the probability W of distribution for a large   (6)
+assembly of n distinguishable particles amongst k cells.
+3M
+********** 8 **********
+--- page 9 ---
+---------- (3 marks)
+(c)   A system has non-degenerate single-particle states with 0,1,2,3 energy units. Three   (4)
+particles are to be distributed in these states such that the total energy of the system is
+3 units. Find the number of microstates if the particles obey (i) MB statistics (ii) BE
+statistics (iii)FD statistics. Find the corresponding macrostates and microstates also.
+3M
+1M
+Q.6.   (20)
+(a)   Explain the micro canonical and grand canonical ensembles in statistical mechanics,   (10)
+highlighting their key features, differences, and thermodynamic variables. Support your
+explanation with appropriate diagrams.
+Solution:
+Microcanonical ensemble: It is the collection of a large number of systems having the
+same energy E, volume V and total number of particles N. This ensemble is also often
+called the NVE ensemble, as each of these three quantities is a constant of the
+ensemble. The individual systems of microcanonical ensemble must remain totally
+********** 9 **********
+--- page 10 ---
+isolated (i.e. they are separated by rigid, impermeable and well insulated walls, unable
+to exchange energy or particles with its environment) in order to stay in statistical
+equilibrium.
+Solution:
+Grand Canonical ensemble: It is an ensemble of a large number of essentially
+independent systems having the same temperature T, volume V and chemical potential
+𝜇. In the grand canonical ensemble, both energy E and number of particle N are
+variable. The individual systems of a grand canonical ensemble are separated by rigid,
+permeable but conducting walls as shown in Fig. 4. As the separating walls are
+conducting and permeable, the exchange of heat energy as well as the particles
+between the systems takes place, bringing all the systems arrive at common
+temperature T and chemical potential 𝜇. The chemical potential is the energy required
+to add a particle to the system.
+********** 10 **********
+--- page 11 ---
+(b)   Using statistical mechanics, obtain Planck’s distribution law and discuss its physical   (6)
+significance in describing blackbody radiation
+Solution:
+------------------------ (2 marks)
+------------------------ (1 mark)
+------------------------ (1 mark)
+********** 11 **********
+--- page 12 ---
+------------------------ (1 mark)
+------------------------ (1 mark)
+(c)   Calculate the number of photons per cubic meter at 2000 K.   (4)
+Solution:
+Total number of photons per unit volume having all possible energies
+------------------------ (2.5 marks)
+N = 1.61 x 1017 photons   ------------------------ (1.5 marks)
+Q.7   (20)
+(a)   Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac statistics   (10)
+distribution function.
+Solution:
+The basic postulates of MB statistics are
+i. The associated particles are identical but distinguishable.
+ii. Each energy state can contain any number of particles.
+iii. Total number of particles in the entire system is constant.
+iv. Total energy of all the particles in the entire system is constant.
+v. Examples: gas molecules at high temperature and low pressure.
+********** 12 **********
+--- page 13 ---
+-----------------------(Any three postulates=3 marks)
+1. The particles (fermions) are identical and indistinguishable.
+2. They obey Heisenberg’s uncertainty principle and the Pauli’s exclusion
+principle.
+3. There is definite a priori restriction on the number of fermions in a quantum
+state. There can be simultaneously no more than one particle in a quantum
+state (i.e. it would either remain empty or can at best contain one fermion).
+-----------------------(Any three postulates=3 marks)
+Maxwell-Boltzmann distribution function with explanation of all terms
+The Fermi-Dirac distribution is mathematically expressed as:
+------------------------ (2 marks)
+Any two applications of MB statistics   ------------------------- (2 marks)
+(b)   X-rays of 71pm are scattered by free electrons in a block of carbon through 30°.Find the   (6)
+wavelength of the scattered X-ray. What is the largest shift that can be expected in this
+experiment?
+Given: 𝜆= 71𝑝𝑚, 𝜙= 30°   ---------------------- (1 mark)
+2+1=3M
+(c)   The wave-function for a quantum particle of mass m confined to move in the domain 0   (4)
+< x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)
+********** 13 **********
+--- page 14 ---
+Calculate the normalization constant N.
+
+1
+N? | sin?(2aa) dx =1
+0
+
+N=¥v2
+
+Calculation-2M+Final answer-1M
+
+2 ROO RK
+
+FRR IC 7 I OH
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 930243ff54d9
+
+- Departments: Data Science
+- Programmes: MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_DS_7052/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
+- Text: mixed (14 pages), mean OCR confidence 63.9
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
+(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Quantum and Statistical Physics
+Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 14 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in bracket on right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Attempt any four questions from Question Nos. 2.1 to 2.6.
+6. Assume suitable data wherever necessary.
+7. Use non-programmable scientific calculator.
+Q.1   (20)
+(a)   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann
+law and Wien’s displacement law.
+For each law with mathematical expression 2x2=4M   (4)
+•   Stefan’s law of blackbody radiation:
+The total energy radiated per unit surface area of a blackbody per unit time is directly
+proportional to the fourth power of its absolute temperature.
+𝐸= 𝜎𝑇4
+Where, 𝜎 is Stefan’s constant = 5.67 × 10−8𝑊/𝑚2𝑘4
+This law shows that radiation increases very rapidly with temperature. If the
+temperature is doubled, the energy radiated increases 16 times. Hence, hotter bodies
+emit significantly more radiation than cooler ones.
+• Wein’s displacement law:
+The wavelength at which the emission of a blackbody is maximum is inversely
+proportional to its absolute temperature.
+𝜆𝑚𝑎𝑥∝1
+𝑇
+𝜆𝑚𝑎𝑥𝑇= 𝑏,
+where, 𝑏= 2.9898 × 10−3
+This law explains the shift in peak wavelength with temperature. As temperature
+increases, the peak shifts toward shorter wavelengths. For example, a heated object
+changes colour from red to yellow to white as its temperature rises.
+(b)   Write the linear superposition principle with mathematical expression.
+(4)
+********** 1 **********
+--- page 2 ---
+Solution:
+Theory-3M+Mathematical expression-1M
+(c)   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-   (4)
+ordinates and the expression of quantized energy eigenvalue.
+Solution:
+In Cartesian coordinates (𝑥, 𝑦, 𝑧) the time-independent Schrödinger equation is:
+−ℏ2   𝜕2𝜓 𝜕2𝜓   𝑒2
+2𝑚(𝜕2𝜓 +   + 𝜕𝑧2) −   𝜓= 𝐸𝜓
+𝜕𝑥2   𝜕𝑦2   4𝜋𝜀0√𝑥2 + 𝑦2+𝑧2
+Or
+𝑒2
+−ℏ 2𝑚∇2 − 4𝜋𝜀0𝑟𝜓= 𝐸𝜓
+𝐸1
+= 𝐸𝑛
+𝑛2
+2+2=4M
+(d)   State the four basic postulates of Maxwell-Boltzmann.   (4)
+Solution:
+---------------- (1 mark each)
+(e)   Which type of statistical distribution is applied to derive Planck’s radiation formula with   (4)
+suitable reason? Write the equation describing Planck’s radiation law.
+Solution:
+• The type of statistical distribution applied to derive Planck's radiation formula is
+Bose-Einstein statistics.
+•   Planck’s radiation formula is derived using the Bose–Einstein distribution
+because the radiation field consists of photons, which are indistinguishable
+bosons. These particles have integer spin and can occupy the same energy state
+in unlimited numbers.
+---------------- (2 marks)
+********** 2 **********
+--- page 3 ---
+•   Planck's law describes the spectral density of electromagnetic radiation emitted
+by a black body in thermal equilibrium at a given temperature. The formula is
+given by:
+---------------- (2 marks)
+Q.2   (20)
+(a)   State and explain Heisenberg’s uncertainty principle for position-momentum and   (10)
+energy-time with mathematical expressions. In atomic transition from atomic state the
+time interval is of the order of 10-7 sec.Find out the energy uncertainty.
+Problem:
+Statement and mathematical expressions for position-momentum-3M
+Statement and mathematical expressions for energy-time- 3M
+t = 10-7 s; E = ?; ν = ?
+𝐸. 𝑡 = ℎ/2;
+𝐸 = 1.054 𝑥 10−27 𝐽
+---------------- (2 marks)
+𝐸 = ℎ𝜈;
+𝜈 = 1.59 𝑥 108 𝐻𝑧
+---------------- (2 marks)
+(b)   Interpret the reason behind an electron not being allowed to take zero energy in   (6)
+infinite potential well. Calculate the energy required for an electron to jump from
+ground state to the second excited state in an infinite potential well of width L.
+Solution: Expression for infinite well energy -1M
+𝑛2 𝜋2ℏ2
+𝐸𝑛=   ,   𝑛= 1,2,3 …
+2𝑚𝐿2
+Explanation-2M
+Calculation-3M
+Final answer h2/ML2-1M
+********** 3 **********
+--- page 4 ---
+(c)   An electron is trapped in an infinite potential well of length 3 Å. In the ground state,   (4)
+determine the probability of finding the electron in the region x = 0 to 0.5 Å.
+Solution: L = 3 Å
+1(𝑥) = √2 𝑠𝑖𝑛 𝜋𝑥   ---------------- (1 mark)
+𝐿   𝐿
+𝑃= ∫ 𝑥2 |1| 2𝑑𝑥 = 2 𝐿∫ 0.5 𝑠𝑖𝑛2 (𝜋𝑥 𝐿)𝑑𝑥   ---------------- (1 mark)
+𝑥1   0
+𝑃= 1 𝐿∫ 0.5 [1 −𝑐𝑜𝑠(2𝜋𝑥 𝐿)] dx
+0
+1 0.5
+𝑃= ∫ [1 −cos(𝜋𝑥)]𝑑𝑥
+3 0
+1   1   0.5
+𝑃= [𝑥− 𝜋sin(𝜋𝑥)]
+3   0
+1   1
+𝑃= (0.5 − 𝜋)
+3
+𝑃= 0.06
+---------------- (2 marks)
+Q.3   (20)
+(a)   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in the   (10)
+position of a cricket ball is, say, 1 mm and comment on the relevance of uncertainty
+principle in case of macro-bodies.
+Solution:
+Statement with expression-2
+marks
+(6 marks for calculation+2marks for statement)
+(b)   Derive the normalized wave-function of an electron confined in a 1-D potential well of   (6)
+length L and infinite depth and draw the wavefunctions for three lowest states.
+.
+Solution:
+Let us assume that a particle of mass m trapped in a one-dimensional infinitely deep
+potential well with V(x) = 0 except at boundaries x=0 and x=L, where it is infinitely
+large.
+V(x) = 0 for 0 < x < L
+=∞ for x ≤ 0 and x ≥ L
+********** 4 **********
+--- page 5 ---
+---------------- (1 mark)
+The time independent Schrödinger equation can be written as
+𝑑2(𝑥) 2𝑚𝐸
++   (𝑥) = 0   0<x<L
+𝑑𝑥2   ћ2
+𝑑2(𝑥)
++ 𝑘2(𝑥) = 0
+𝑑𝑥2
+Where 𝑘2 = 2𝑚𝐸
+ћ2
+---------------- (1 mark)
+The general solution is
+(𝑥) = 𝐴𝑠𝑖𝑛𝑘𝑥+ 𝐵𝑐𝑜𝑠𝑘𝑥
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+Continuity of ψ(x) requires
+Ψ(0) = 𝜓(𝐿) = 0
+∴Ψ(0) = 𝐴𝑠𝑖𝑛(𝑘. 0) + 𝐵𝑐𝑜𝑠(𝑘. 0) = 0 →𝐵= 0
+and
+Ψ(𝑥) = 𝐴𝑠𝑖𝑛(𝑘𝑥)
+Now   Ψ(𝐿) = 𝐴𝑠𝑖𝑛(𝑘𝐿) = 0
+Since A cannot be zero as it will give trivial, non normalizable solution ψ(x) = 0, we have
+sin (kL) = 0 or kL = 0, ±, ±2, ±3, ….
+Again k=0 is not acceptable as it will imply ψ(x) = 0 and the ‘-’ve sign can be absorbed
+into A. Therefore we have
+𝑛𝜋
+𝑘𝑛= 𝐿n = 1, 2, 3, ......
+---------------- (1 marks)
+----------- (3 marks for diagram)
+(c)   Find which of the following functions are eigenfunctions of the momentum operator (k   (4)
+is a constant): (a) Sinkx (b) eikx .
+𝑂̂ Ψ(x) = Ψ(x)   ---------------- (1 mark)
+𝑑
+𝑂̂ = −𝑖ℏ   ---------------- (1 mark)
+𝑑𝑥
+𝑑
+(a) −𝑖ℏ 𝑑𝑥(Sinkx) = −𝑖ℏ𝑘 𝐶𝑜𝑠𝑘𝑥 (Not an eigenfunction) ---------- (1 mark)
+(b) −𝑖ℏ 𝑑𝑥(𝑒𝑖𝑘𝑥) 𝑑   = ℏ𝑘𝑒𝑖𝑘𝑥 (Is an eigenfunction)   ------------- (1 mark)
+Q.4   (20)
+(a)   Write down time independent Schrödinger’s equation free particle and show that the   (10)
+energy value is continuous
+Solution:
+The one-dimensional time dependent Schrödinger equation for a free non-relativistic
+particle (V = 0) is given below
+ћ2 ∂2ψ(x,t)   ∂ψ(x,t)
+−   = iћ   (1)
+2m   ∂x2   ∂t
+--------------(2 marks)
+********** 5 **********
+--- page 6 ---
+A free particle of total energy E and momentum p moving in the +x direction can be
+described by the wave-function Ψ of a place monochromatic wave. The expression for
+Ψ is given by
+i
+Ψ(x, t) = A exp [ (px −Et)]   (2)
+ћ
+where A = amplitude of displacement of the wave
+ћ = reduced Planck constant (h/2) = 1.05457 x 10-34 J.s
+The energy E and momentum p of the particle are related to its wave-vector k and
+frequency  by the relations
+p = ћk = ћ 2𝜋 , E = ћ
+Differentiating Eq. (2) once with respect to time gives,
+𝜕Ψ(x, t) −𝑖𝐸
+=   Ψ(x, t)
+𝜕𝑡   ћ
+or
+∂Ψ(x,t)
+iћ   = EΨ(x, t)   (3)
+∂t
+---------------- (2marks)
+Differentiating Eq. (2) twice with respect to x gives,
+∂Ψ(x,t)
+−iћ   = pΨ(x, t)
+∂x
+∂2Ψ(x,t)
+−ћ2   = p2Ψ(x,t)   (4)
+∂x2
+------------(2 marks)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+ћ2 ∂2Ψ(x,t)
+−   =
+2m   ∂x2
+p2
+Ψ(x, t)   (5)
+2m
+----------- (1 mark)
+Comparing equations (1), (3) and (5), the energy E and momentum p of a free non-
+relativistic particle of mass m are related by the expression
+𝑝2   ℏ2𝑘2
+𝐸= 2𝑚=   ----------- (1 mark)
+2𝑚
+(6)
+As the particle is free, there are no boundary conditions to be applied to the particle
+motion and hence there are no restrictions on wave-vector k. As a result, the particle
+can possess any value of energy or the energy is not quantized.
+---------------(2 marks)
+(b)   Explain “the half-life of polonium that emits 8-MeV α-particles is only hundreds of
+milliseconds and the half-life of uranium that emits 4-MeV α-particles is billions of   (6)
+years” by applying quantum mechanical tunnelling.
+Solution:
+Gamow explained the variation of half-lives by considering a ‘spherical-box’ model of
+the nucleus, where α-particles can bounce back and forth between the walls as free
+particles. The confinement is provided by a strong nuclear potential at a spherical wall
+of the box. The thickness of this wall, however, is not infinite but finite, so in principle,
+********** 6 **********
+--- page 7 ---
+a nuclear particle has a chance to escape this nuclear confinement. On the inside wall
+of the confining barrier is a high nuclear potential that keeps the α-particle in a small
+confinement. But when an α-particle gets out to the other side of this wall, it is subject
+to electrostatic Coulomb repulsion and moves away from the nucleus.
+-------------------- (1 mark)
+----------------- (1 mark for diagram)
+The width L of the potential barrier that separates an α-
+particle from the outside world depends on the particle’s
+kinetic energy E. This width is the distance between the point
+marked by the nuclear radius R, and the point, R0, where an α-
+particle emerges on the other side of the barrier
+-------------------- (1 mark)
+At the distance the kinetic energy of the α-particle must be
+equal to electrostatic Coulomb repulsion energy.
+2𝑍𝑒2
+𝐸=
+4𝜋𝜀0𝑅0
+-------------------- (1 mark)
+Substituting the value of R0
+2𝑍𝑒2
+𝐿= 4𝜋𝜀0𝐸−𝑅
+------------------------ (1 mark)
+Hence, higher the energy of α-particle, the narrower the width of the barrier that it is
+to tunnel through. Also, the width of the potential barrier is the most important
+parameter in tunneling probability. Thus, highly energetic α-particles have a good
+chance to escape the nucleus, and, for such nuclei, the nuclear disintegration half-life is
+short. However, this process is highly nonlinear, meaning a small increase in the α-
+particle energy can exponentially increase the tunneling probability. This explains why
+the half-life of polonium that emits 8-MeV α-particles is only hundreds of milliseconds
+and the half-life of uranium that emits 4-MeV α-particles is billions of years.
+------------------------ (1 mark)
+(c)   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.
+Solution:   (4)
+For hydrogen atom, the enrgy of the 𝑛𝑡ℎ orbit is given by:
+𝐸𝑛= −13.6 𝑒𝑉
+𝑛2
+------------------------ (2 marks)
+𝑛= 2 for 2nd orbit
+∴𝐸2 = −13.6 = −3.4𝑒𝑉
+22
+𝑛= 3 for 3rd orbit
+13.6
+∴𝐸3 = − = −1.51𝑒𝑉   (2 marks)
+32
+Q.5   (20)
+********** 7 **********
+--- page 8 ---
+(a)   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit of   (10)
+hydrogen atom.
+Solution:
+E1= 13.6 eV;  = ?
+-
+𝐸1 = 𝐸𝑛
+𝑛2
+E4 = 0.85 eV; E5 = 0.54 eV   -4M
+= ℎ
+√2𝑚𝐸
+ = 13.28 x 10-10 m   ------------------------ (3X2=6 marks)
+ = 16.60 x 10-10 m
+(b)   Find the mathematical formulation for the probability W of distribution for a large   (6)
+assembly of n distinguishable particles amongst k cells.
+3M
+********** 8 **********
+--- page 9 ---
+---------- (3 marks)
+(c)   A system has non-degenerate single-particle states with 0,1,2,3 energy units. Three   (4)
+particles are to be distributed in these states such that the total energy of the system is
+3 units. Find the number of microstates if the particles obey (i) MB statistics (ii) BE
+statistics (iii)FD statistics. Find the corresponding macrostates and microstates also.
+3M
+1M
+Q.6.   (20)
+(a)   Explain the micro canonical and grand canonical ensembles in statistical mechanics,   (10)
+highlighting their key features, differences, and thermodynamic variables. Support your
+explanation with appropriate diagrams.
+Solution:
+Microcanonical ensemble: It is the collection of a large number of systems having the
+same energy E, volume V and total number of particles N. This ensemble is also often
+called the NVE ensemble, as each of these three quantities is a constant of the
+ensemble. The individual systems of microcanonical ensemble must remain totally
+********** 9 **********
+--- page 10 ---
+isolated (i.e. they are separated by rigid, impermeable and well insulated walls, unable
+to exchange energy or particles with its environment) in order to stay in statistical
+equilibrium.
+Solution:
+Grand Canonical ensemble: It is an ensemble of a large number of essentially
+independent systems having the same temperature T, volume V and chemical potential
+𝜇. In the grand canonical ensemble, both energy E and number of particle N are
+variable. The individual systems of a grand canonical ensemble are separated by rigid,
+permeable but conducting walls as shown in Fig. 4. As the separating walls are
+conducting and permeable, the exchange of heat energy as well as the particles
+between the systems takes place, bringing all the systems arrive at common
+temperature T and chemical potential 𝜇. The chemical potential is the energy required
+to add a particle to the system.
+********** 10 **********
+--- page 11 ---
+(b)   Using statistical mechanics, obtain Planck’s distribution law and discuss its physical   (6)
+significance in describing blackbody radiation
+Solution:
+------------------------ (2 marks)
+------------------------ (1 mark)
+------------------------ (1 mark)
+********** 11 **********
+--- page 12 ---
+------------------------ (1 mark)
+------------------------ (1 mark)
+(c)   Calculate the number of photons per cubic meter at 2000 K.   (4)
+Solution:
+Total number of photons per unit volume having all possible energies
+------------------------ (2.5 marks)
+N = 1.61 x 1017 photons   ------------------------ (1.5 marks)
+Q.7   (20)
+(a)   Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac statistics   (10)
+distribution function.
+Solution:
+The basic postulates of MB statistics are
+i. The associated particles are identical but distinguishable.
+ii. Each energy state can contain any number of particles.
+iii. Total number of particles in the entire system is constant.
+iv. Total energy of all the particles in the entire system is constant.
+v. Examples: gas molecules at high temperature and low pressure.
+********** 12 **********
+--- page 13 ---
+-----------------------(Any three postulates=3 marks)
+1. The particles (fermions) are identical and indistinguishable.
+2. They obey Heisenberg’s uncertainty principle and the Pauli’s exclusion
+principle.
+3. There is definite a priori restriction on the number of fermions in a quantum
+state. There can be simultaneously no more than one particle in a quantum
+state (i.e. it would either remain empty or can at best contain one fermion).
+-----------------------(Any three postulates=3 marks)
+Maxwell-Boltzmann distribution function with explanation of all terms
+The Fermi-Dirac distribution is mathematically expressed as:
+------------------------ (2 marks)
+Any two applications of MB statistics   ------------------------- (2 marks)
+(b)   X-rays of 71pm are scattered by free electrons in a block of carbon through 30°.Find the   (6)
+wavelength of the scattered X-ray. What is the largest shift that can be expected in this
+experiment?
+Given: 𝜆= 71𝑝𝑚, 𝜙= 30°   ---------------------- (1 mark)
+2+1=3M
+(c)   The wave-function for a quantum particle of mass m confined to move in the domain 0   (4)
+< x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)
+********** 13 **********
+--- page 14 ---
+Calculate the normalization constant N.
+
+1
+N? | sin?(2aa) dx =1
+0
+
+N=¥v2
+
+Calculation-2M+Final answer-1M
+
+2 ROO RK
+
+FRR IC 7 I OH
+````
+
 ## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 005ec94d3d28
 
 - Departments: Computer Science
@@ -6382,424 +7636,6 @@ Solution:
 ********** 15 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 130e0b65eb3e
-
-- Departments: Computer Engineering
-- Programmes: BTech Computer 7002
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Computer_7002/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
-- Text: mixed (14 pages), mean OCR confidence 63.9
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Quantum and Statistical Physics
-Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 14 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in bracket on right hand side indicates full marks.
-4. Question No. 1 is compulsory.
-5. Attempt any four questions from Question Nos. 2.1 to 2.6.
-6. Assume suitable data wherever necessary.
-7. Use non-programmable scientific calculator.
-Q.1   (20)
-(a)   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann
-law and Wien’s displacement law.
-For each law with mathematical expression 2x2=4M   (4)
-•   Stefan’s law of blackbody radiation:
-The total energy radiated per unit surface area of a blackbody per unit time is directly
-proportional to the fourth power of its absolute temperature.
-𝐸= 𝜎𝑇4
-Where, 𝜎 is Stefan’s constant = 5.67 × 10−8𝑊/𝑚2𝑘4
-This law shows that radiation increases very rapidly with temperature. If the
-temperature is doubled, the energy radiated increases 16 times. Hence, hotter bodies
-emit significantly more radiation than cooler ones.
-• Wein’s displacement law:
-The wavelength at which the emission of a blackbody is maximum is inversely
-proportional to its absolute temperature.
-𝜆𝑚𝑎𝑥∝1
-𝑇
-𝜆𝑚𝑎𝑥𝑇= 𝑏,
-where, 𝑏= 2.9898 × 10−3
-This law explains the shift in peak wavelength with temperature. As temperature
-increases, the peak shifts toward shorter wavelengths. For example, a heated object
-changes colour from red to yellow to white as its temperature rises.
-(b)   Write the linear superposition principle with mathematical expression.
-(4)
-********** 1 **********
---- page 2 ---
-Solution:
-Theory-3M+Mathematical expression-1M
-(c)   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-   (4)
-ordinates and the expression of quantized energy eigenvalue.
-Solution:
-In Cartesian coordinates (𝑥, 𝑦, 𝑧) the time-independent Schrödinger equation is:
-−ℏ2   𝜕2𝜓 𝜕2𝜓   𝑒2
-2𝑚(𝜕2𝜓 +   + 𝜕𝑧2) −   𝜓= 𝐸𝜓
-𝜕𝑥2   𝜕𝑦2   4𝜋𝜀0√𝑥2 + 𝑦2+𝑧2
-Or
-𝑒2
-−ℏ 2𝑚∇2 − 4𝜋𝜀0𝑟𝜓= 𝐸𝜓
-𝐸1
-= 𝐸𝑛
-𝑛2
-2+2=4M
-(d)   State the four basic postulates of Maxwell-Boltzmann.   (4)
-Solution:
----------------- (1 mark each)
-(e)   Which type of statistical distribution is applied to derive Planck’s radiation formula with   (4)
-suitable reason? Write the equation describing Planck’s radiation law.
-Solution:
-• The type of statistical distribution applied to derive Planck's radiation formula is
-Bose-Einstein statistics.
-•   Planck’s radiation formula is derived using the Bose–Einstein distribution
-because the radiation field consists of photons, which are indistinguishable
-bosons. These particles have integer spin and can occupy the same energy state
-in unlimited numbers.
----------------- (2 marks)
-********** 2 **********
---- page 3 ---
-•   Planck's law describes the spectral density of electromagnetic radiation emitted
-by a black body in thermal equilibrium at a given temperature. The formula is
-given by:
----------------- (2 marks)
-Q.2   (20)
-(a)   State and explain Heisenberg’s uncertainty principle for position-momentum and   (10)
-energy-time with mathematical expressions. In atomic transition from atomic state the
-time interval is of the order of 10-7 sec.Find out the energy uncertainty.
-Problem:
-Statement and mathematical expressions for position-momentum-3M
-Statement and mathematical expressions for energy-time- 3M
-t = 10-7 s; E = ?; ν = ?
-𝐸. 𝑡 = ℎ/2;
-𝐸 = 1.054 𝑥 10−27 𝐽
----------------- (2 marks)
-𝐸 = ℎ𝜈;
-𝜈 = 1.59 𝑥 108 𝐻𝑧
----------------- (2 marks)
-(b)   Interpret the reason behind an electron not being allowed to take zero energy in   (6)
-infinite potential well. Calculate the energy required for an electron to jump from
-ground state to the second excited state in an infinite potential well of width L.
-Solution: Expression for infinite well energy -1M
-𝑛2 𝜋2ℏ2
-𝐸𝑛=   ,   𝑛= 1,2,3 …
-2𝑚𝐿2
-Explanation-2M
-Calculation-3M
-Final answer h2/ML2-1M
-********** 3 **********
---- page 4 ---
-(c)   An electron is trapped in an infinite potential well of length 3 Å. In the ground state,   (4)
-determine the probability of finding the electron in the region x = 0 to 0.5 Å.
-Solution: L = 3 Å
-1(𝑥) = √2 𝑠𝑖𝑛 𝜋𝑥   ---------------- (1 mark)
-𝐿   𝐿
-𝑃= ∫ 𝑥2 |1| 2𝑑𝑥 = 2 𝐿∫ 0.5 𝑠𝑖𝑛2 (𝜋𝑥 𝐿)𝑑𝑥   ---------------- (1 mark)
-𝑥1   0
-𝑃= 1 𝐿∫ 0.5 [1 −𝑐𝑜𝑠(2𝜋𝑥 𝐿)] dx
-0
-1 0.5
-𝑃= ∫ [1 −cos(𝜋𝑥)]𝑑𝑥
-3 0
-1   1   0.5
-𝑃= [𝑥− 𝜋sin(𝜋𝑥)]
-3   0
-1   1
-𝑃= (0.5 − 𝜋)
-3
-𝑃= 0.06
----------------- (2 marks)
-Q.3   (20)
-(a)   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in the   (10)
-position of a cricket ball is, say, 1 mm and comment on the relevance of uncertainty
-principle in case of macro-bodies.
-Solution:
-Statement with expression-2
-marks
-(6 marks for calculation+2marks for statement)
-(b)   Derive the normalized wave-function of an electron confined in a 1-D potential well of   (6)
-length L and infinite depth and draw the wavefunctions for three lowest states.
-.
-Solution:
-Let us assume that a particle of mass m trapped in a one-dimensional infinitely deep
-potential well with V(x) = 0 except at boundaries x=0 and x=L, where it is infinitely
-large.
-V(x) = 0 for 0 < x < L
-=∞ for x ≤ 0 and x ≥ L
-********** 4 **********
---- page 5 ---
----------------- (1 mark)
-The time independent Schrödinger equation can be written as
-𝑑2(𝑥) 2𝑚𝐸
-+   (𝑥) = 0   0<x<L
-𝑑𝑥2   ћ2
-𝑑2(𝑥)
-+ 𝑘2(𝑥) = 0
-𝑑𝑥2
-Where 𝑘2 = 2𝑚𝐸
-ћ2
----------------- (1 mark)
-The general solution is
-(𝑥) = 𝐴𝑠𝑖𝑛𝑘𝑥+ 𝐵𝑐𝑜𝑠𝑘𝑥
-Where A and B are the arbitrary constants that can be found from boundary conditions.
-Continuity of ψ(x) requires
-Ψ(0) = 𝜓(𝐿) = 0
-∴Ψ(0) = 𝐴𝑠𝑖𝑛(𝑘. 0) + 𝐵𝑐𝑜𝑠(𝑘. 0) = 0 →𝐵= 0
-and
-Ψ(𝑥) = 𝐴𝑠𝑖𝑛(𝑘𝑥)
-Now   Ψ(𝐿) = 𝐴𝑠𝑖𝑛(𝑘𝐿) = 0
-Since A cannot be zero as it will give trivial, non normalizable solution ψ(x) = 0, we have
-sin (kL) = 0 or kL = 0, ±, ±2, ±3, ….
-Again k=0 is not acceptable as it will imply ψ(x) = 0 and the ‘-’ve sign can be absorbed
-into A. Therefore we have
-𝑛𝜋
-𝑘𝑛= 𝐿n = 1, 2, 3, ......
----------------- (1 marks)
------------ (3 marks for diagram)
-(c)   Find which of the following functions are eigenfunctions of the momentum operator (k   (4)
-is a constant): (a) Sinkx (b) eikx .
-𝑂̂ Ψ(x) = Ψ(x)   ---------------- (1 mark)
-𝑑
-𝑂̂ = −𝑖ℏ   ---------------- (1 mark)
-𝑑𝑥
-𝑑
-(a) −𝑖ℏ 𝑑𝑥(Sinkx) = −𝑖ℏ𝑘 𝐶𝑜𝑠𝑘𝑥 (Not an eigenfunction) ---------- (1 mark)
-(b) −𝑖ℏ 𝑑𝑥(𝑒𝑖𝑘𝑥) 𝑑   = ℏ𝑘𝑒𝑖𝑘𝑥 (Is an eigenfunction)   ------------- (1 mark)
-Q.4   (20)
-(a)   Write down time independent Schrödinger’s equation free particle and show that the   (10)
-energy value is continuous
-Solution:
-The one-dimensional time dependent Schrödinger equation for a free non-relativistic
-particle (V = 0) is given below
-ћ2 ∂2ψ(x,t)   ∂ψ(x,t)
-−   = iћ   (1)
-2m   ∂x2   ∂t
---------------(2 marks)
-********** 5 **********
---- page 6 ---
-A free particle of total energy E and momentum p moving in the +x direction can be
-described by the wave-function Ψ of a place monochromatic wave. The expression for
-Ψ is given by
-i
-Ψ(x, t) = A exp [ (px −Et)]   (2)
-ћ
-where A = amplitude of displacement of the wave
-ћ = reduced Planck constant (h/2) = 1.05457 x 10-34 J.s
-The energy E and momentum p of the particle are related to its wave-vector k and
-frequency  by the relations
-p = ћk = ћ 2𝜋 , E = ћ
-Differentiating Eq. (2) once with respect to time gives,
-𝜕Ψ(x, t) −𝑖𝐸
-=   Ψ(x, t)
-𝜕𝑡   ћ
-or
-∂Ψ(x,t)
-iћ   = EΨ(x, t)   (3)
-∂t
----------------- (2marks)
-Differentiating Eq. (2) twice with respect to x gives,
-∂Ψ(x,t)
-−iћ   = pΨ(x, t)
-∂x
-∂2Ψ(x,t)
-−ћ2   = p2Ψ(x,t)   (4)
-∂x2
-------------(2 marks)
-Dividing both sides of Eq. (4) by (1/2m), we obtain,
-ћ2 ∂2Ψ(x,t)
-−   =
-2m   ∂x2
-p2
-Ψ(x, t)   (5)
-2m
------------ (1 mark)
-Comparing equations (1), (3) and (5), the energy E and momentum p of a free non-
-relativistic particle of mass m are related by the expression
-𝑝2   ℏ2𝑘2
-𝐸= 2𝑚=   ----------- (1 mark)
-2𝑚
-(6)
-As the particle is free, there are no boundary conditions to be applied to the particle
-motion and hence there are no restrictions on wave-vector k. As a result, the particle
-can possess any value of energy or the energy is not quantized.
----------------(2 marks)
-(b)   Explain “the half-life of polonium that emits 8-MeV α-particles is only hundreds of
-milliseconds and the half-life of uranium that emits 4-MeV α-particles is billions of   (6)
-years” by applying quantum mechanical tunnelling.
-Solution:
-Gamow explained the variation of half-lives by considering a ‘spherical-box’ model of
-the nucleus, where α-particles can bounce back and forth between the walls as free
-particles. The confinement is provided by a strong nuclear potential at a spherical wall
-of the box. The thickness of this wall, however, is not infinite but finite, so in principle,
-********** 6 **********
---- page 7 ---
-a nuclear particle has a chance to escape this nuclear confinement. On the inside wall
-of the confining barrier is a high nuclear potential that keeps the α-particle in a small
-confinement. But when an α-particle gets out to the other side of this wall, it is subject
-to electrostatic Coulomb repulsion and moves away from the nucleus.
--------------------- (1 mark)
------------------ (1 mark for diagram)
-The width L of the potential barrier that separates an α-
-particle from the outside world depends on the particle’s
-kinetic energy E. This width is the distance between the point
-marked by the nuclear radius R, and the point, R0, where an α-
-particle emerges on the other side of the barrier
--------------------- (1 mark)
-At the distance the kinetic energy of the α-particle must be
-equal to electrostatic Coulomb repulsion energy.
-2𝑍𝑒2
-𝐸=
-4𝜋𝜀0𝑅0
--------------------- (1 mark)
-Substituting the value of R0
-2𝑍𝑒2
-𝐿= 4𝜋𝜀0𝐸−𝑅
------------------------- (1 mark)
-Hence, higher the energy of α-particle, the narrower the width of the barrier that it is
-to tunnel through. Also, the width of the potential barrier is the most important
-parameter in tunneling probability. Thus, highly energetic α-particles have a good
-chance to escape the nucleus, and, for such nuclei, the nuclear disintegration half-life is
-short. However, this process is highly nonlinear, meaning a small increase in the α-
-particle energy can exponentially increase the tunneling probability. This explains why
-the half-life of polonium that emits 8-MeV α-particles is only hundreds of milliseconds
-and the half-life of uranium that emits 4-MeV α-particles is billions of years.
------------------------- (1 mark)
-(c)   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.
-Solution:   (4)
-For hydrogen atom, the enrgy of the 𝑛𝑡ℎ orbit is given by:
-𝐸𝑛= −13.6 𝑒𝑉
-𝑛2
------------------------- (2 marks)
-𝑛= 2 for 2nd orbit
-∴𝐸2 = −13.6 = −3.4𝑒𝑉
-22
-𝑛= 3 for 3rd orbit
-13.6
-∴𝐸3 = − = −1.51𝑒𝑉   (2 marks)
-32
-Q.5   (20)
-********** 7 **********
---- page 8 ---
-(a)   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit of   (10)
-hydrogen atom.
-Solution:
-E1= 13.6 eV;  = ?
--
-𝐸1 = 𝐸𝑛
-𝑛2
-E4 = 0.85 eV; E5 = 0.54 eV   -4M
-= ℎ
-√2𝑚𝐸
- = 13.28 x 10-10 m   ------------------------ (3X2=6 marks)
- = 16.60 x 10-10 m
-(b)   Find the mathematical formulation for the probability W of distribution for a large   (6)
-assembly of n distinguishable particles amongst k cells.
-3M
-********** 8 **********
---- page 9 ---
----------- (3 marks)
-(c)   A system has non-degenerate single-particle states with 0,1,2,3 energy units. Three   (4)
-particles are to be distributed in these states such that the total energy of the system is
-3 units. Find the number of microstates if the particles obey (i) MB statistics (ii) BE
-statistics (iii)FD statistics. Find the corresponding macrostates and microstates also.
-3M
-1M
-Q.6.   (20)
-(a)   Explain the micro canonical and grand canonical ensembles in statistical mechanics,   (10)
-highlighting their key features, differences, and thermodynamic variables. Support your
-explanation with appropriate diagrams.
-Solution:
-Microcanonical ensemble: It is the collection of a large number of systems having the
-same energy E, volume V and total number of particles N. This ensemble is also often
-called the NVE ensemble, as each of these three quantities is a constant of the
-ensemble. The individual systems of microcanonical ensemble must remain totally
-********** 9 **********
---- page 10 ---
-isolated (i.e. they are separated by rigid, impermeable and well insulated walls, unable
-to exchange energy or particles with its environment) in order to stay in statistical
-equilibrium.
-Solution:
-Grand Canonical ensemble: It is an ensemble of a large number of essentially
-independent systems having the same temperature T, volume V and chemical potential
-𝜇. In the grand canonical ensemble, both energy E and number of particle N are
-variable. The individual systems of a grand canonical ensemble are separated by rigid,
-permeable but conducting walls as shown in Fig. 4. As the separating walls are
-conducting and permeable, the exchange of heat energy as well as the particles
-between the systems takes place, bringing all the systems arrive at common
-temperature T and chemical potential 𝜇. The chemical potential is the energy required
-to add a particle to the system.
-********** 10 **********
---- page 11 ---
-(b)   Using statistical mechanics, obtain Planck’s distribution law and discuss its physical   (6)
-significance in describing blackbody radiation
-Solution:
------------------------- (2 marks)
------------------------- (1 mark)
------------------------- (1 mark)
-********** 11 **********
---- page 12 ---
------------------------- (1 mark)
------------------------- (1 mark)
-(c)   Calculate the number of photons per cubic meter at 2000 K.   (4)
-Solution:
-Total number of photons per unit volume having all possible energies
------------------------- (2.5 marks)
-N = 1.61 x 1017 photons   ------------------------ (1.5 marks)
-Q.7   (20)
-(a)   Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac statistics   (10)
-distribution function.
-Solution:
-The basic postulates of MB statistics are
-i. The associated particles are identical but distinguishable.
-ii. Each energy state can contain any number of particles.
-iii. Total number of particles in the entire system is constant.
-iv. Total energy of all the particles in the entire system is constant.
-v. Examples: gas molecules at high temperature and low pressure.
-********** 12 **********
---- page 13 ---
------------------------(Any three postulates=3 marks)
-1. The particles (fermions) are identical and indistinguishable.
-2. They obey Heisenberg’s uncertainty principle and the Pauli’s exclusion
-principle.
-3. There is definite a priori restriction on the number of fermions in a quantum
-state. There can be simultaneously no more than one particle in a quantum
-state (i.e. it would either remain empty or can at best contain one fermion).
------------------------(Any three postulates=3 marks)
-Maxwell-Boltzmann distribution function with explanation of all terms
-The Fermi-Dirac distribution is mathematically expressed as:
------------------------- (2 marks)
-Any two applications of MB statistics   ------------------------- (2 marks)
-(b)   X-rays of 71pm are scattered by free electrons in a block of carbon through 30°.Find the   (6)
-wavelength of the scattered X-ray. What is the largest shift that can be expected in this
-experiment?
-Given: 𝜆= 71𝑝𝑚, 𝜙= 30°   ---------------------- (1 mark)
-2+1=3M
-(c)   The wave-function for a quantum particle of mass m confined to move in the domain 0   (4)
-< x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)
-********** 13 **********
---- page 14 ---
-Calculate the normalization constant N.
-
-1
-N? | sin?(2aa) dx =1
-0
-
-N=¥v2
-
-Calculation-2M+Final answer-1M
-
-2 ROO RK
-
-FRR IC 7 I OH
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 20449b60cb7d
 
 - Departments: Cyber Security
@@ -8330,424 +9166,6 @@ Solution:
 ********** 15 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 6926ffbecca9
-
-- Departments: Information Technology
-- Programmes: BTech IT 7001
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_IT_7001/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
-- Text: mixed (14 pages), mean OCR confidence 63.9
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Quantum and Statistical Physics
-Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 14 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in bracket on right hand side indicates full marks.
-4. Question No. 1 is compulsory.
-5. Attempt any four questions from Question Nos. 2.1 to 2.6.
-6. Assume suitable data wherever necessary.
-7. Use non-programmable scientific calculator.
-Q.1   (20)
-(a)   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann
-law and Wien’s displacement law.
-For each law with mathematical expression 2x2=4M   (4)
-•   Stefan’s law of blackbody radiation:
-The total energy radiated per unit surface area of a blackbody per unit time is directly
-proportional to the fourth power of its absolute temperature.
-𝐸= 𝜎𝑇4
-Where, 𝜎 is Stefan’s constant = 5.67 × 10−8𝑊/𝑚2𝑘4
-This law shows that radiation increases very rapidly with temperature. If the
-temperature is doubled, the energy radiated increases 16 times. Hence, hotter bodies
-emit significantly more radiation than cooler ones.
-• Wein’s displacement law:
-The wavelength at which the emission of a blackbody is maximum is inversely
-proportional to its absolute temperature.
-𝜆𝑚𝑎𝑥∝1
-𝑇
-𝜆𝑚𝑎𝑥𝑇= 𝑏,
-where, 𝑏= 2.9898 × 10−3
-This law explains the shift in peak wavelength with temperature. As temperature
-increases, the peak shifts toward shorter wavelengths. For example, a heated object
-changes colour from red to yellow to white as its temperature rises.
-(b)   Write the linear superposition principle with mathematical expression.
-(4)
-********** 1 **********
---- page 2 ---
-Solution:
-Theory-3M+Mathematical expression-1M
-(c)   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-   (4)
-ordinates and the expression of quantized energy eigenvalue.
-Solution:
-In Cartesian coordinates (𝑥, 𝑦, 𝑧) the time-independent Schrödinger equation is:
-−ℏ2   𝜕2𝜓 𝜕2𝜓   𝑒2
-2𝑚(𝜕2𝜓 +   + 𝜕𝑧2) −   𝜓= 𝐸𝜓
-𝜕𝑥2   𝜕𝑦2   4𝜋𝜀0√𝑥2 + 𝑦2+𝑧2
-Or
-𝑒2
-−ℏ 2𝑚∇2 − 4𝜋𝜀0𝑟𝜓= 𝐸𝜓
-𝐸1
-= 𝐸𝑛
-𝑛2
-2+2=4M
-(d)   State the four basic postulates of Maxwell-Boltzmann.   (4)
-Solution:
----------------- (1 mark each)
-(e)   Which type of statistical distribution is applied to derive Planck’s radiation formula with   (4)
-suitable reason? Write the equation describing Planck’s radiation law.
-Solution:
-• The type of statistical distribution applied to derive Planck's radiation formula is
-Bose-Einstein statistics.
-•   Planck’s radiation formula is derived using the Bose–Einstein distribution
-because the radiation field consists of photons, which are indistinguishable
-bosons. These particles have integer spin and can occupy the same energy state
-in unlimited numbers.
----------------- (2 marks)
-********** 2 **********
---- page 3 ---
-•   Planck's law describes the spectral density of electromagnetic radiation emitted
-by a black body in thermal equilibrium at a given temperature. The formula is
-given by:
----------------- (2 marks)
-Q.2   (20)
-(a)   State and explain Heisenberg’s uncertainty principle for position-momentum and   (10)
-energy-time with mathematical expressions. In atomic transition from atomic state the
-time interval is of the order of 10-7 sec.Find out the energy uncertainty.
-Problem:
-Statement and mathematical expressions for position-momentum-3M
-Statement and mathematical expressions for energy-time- 3M
-t = 10-7 s; E = ?; ν = ?
-𝐸. 𝑡 = ℎ/2;
-𝐸 = 1.054 𝑥 10−27 𝐽
----------------- (2 marks)
-𝐸 = ℎ𝜈;
-𝜈 = 1.59 𝑥 108 𝐻𝑧
----------------- (2 marks)
-(b)   Interpret the reason behind an electron not being allowed to take zero energy in   (6)
-infinite potential well. Calculate the energy required for an electron to jump from
-ground state to the second excited state in an infinite potential well of width L.
-Solution: Expression for infinite well energy -1M
-𝑛2 𝜋2ℏ2
-𝐸𝑛=   ,   𝑛= 1,2,3 …
-2𝑚𝐿2
-Explanation-2M
-Calculation-3M
-Final answer h2/ML2-1M
-********** 3 **********
---- page 4 ---
-(c)   An electron is trapped in an infinite potential well of length 3 Å. In the ground state,   (4)
-determine the probability of finding the electron in the region x = 0 to 0.5 Å.
-Solution: L = 3 Å
-1(𝑥) = √2 𝑠𝑖𝑛 𝜋𝑥   ---------------- (1 mark)
-𝐿   𝐿
-𝑃= ∫ 𝑥2 |1| 2𝑑𝑥 = 2 𝐿∫ 0.5 𝑠𝑖𝑛2 (𝜋𝑥 𝐿)𝑑𝑥   ---------------- (1 mark)
-𝑥1   0
-𝑃= 1 𝐿∫ 0.5 [1 −𝑐𝑜𝑠(2𝜋𝑥 𝐿)] dx
-0
-1 0.5
-𝑃= ∫ [1 −cos(𝜋𝑥)]𝑑𝑥
-3 0
-1   1   0.5
-𝑃= [𝑥− 𝜋sin(𝜋𝑥)]
-3   0
-1   1
-𝑃= (0.5 − 𝜋)
-3
-𝑃= 0.06
----------------- (2 marks)
-Q.3   (20)
-(a)   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in the   (10)
-position of a cricket ball is, say, 1 mm and comment on the relevance of uncertainty
-principle in case of macro-bodies.
-Solution:
-Statement with expression-2
-marks
-(6 marks for calculation+2marks for statement)
-(b)   Derive the normalized wave-function of an electron confined in a 1-D potential well of   (6)
-length L and infinite depth and draw the wavefunctions for three lowest states.
-.
-Solution:
-Let us assume that a particle of mass m trapped in a one-dimensional infinitely deep
-potential well with V(x) = 0 except at boundaries x=0 and x=L, where it is infinitely
-large.
-V(x) = 0 for 0 < x < L
-=∞ for x ≤ 0 and x ≥ L
-********** 4 **********
---- page 5 ---
----------------- (1 mark)
-The time independent Schrödinger equation can be written as
-𝑑2(𝑥) 2𝑚𝐸
-+   (𝑥) = 0   0<x<L
-𝑑𝑥2   ћ2
-𝑑2(𝑥)
-+ 𝑘2(𝑥) = 0
-𝑑𝑥2
-Where 𝑘2 = 2𝑚𝐸
-ћ2
----------------- (1 mark)
-The general solution is
-(𝑥) = 𝐴𝑠𝑖𝑛𝑘𝑥+ 𝐵𝑐𝑜𝑠𝑘𝑥
-Where A and B are the arbitrary constants that can be found from boundary conditions.
-Continuity of ψ(x) requires
-Ψ(0) = 𝜓(𝐿) = 0
-∴Ψ(0) = 𝐴𝑠𝑖𝑛(𝑘. 0) + 𝐵𝑐𝑜𝑠(𝑘. 0) = 0 →𝐵= 0
-and
-Ψ(𝑥) = 𝐴𝑠𝑖𝑛(𝑘𝑥)
-Now   Ψ(𝐿) = 𝐴𝑠𝑖𝑛(𝑘𝐿) = 0
-Since A cannot be zero as it will give trivial, non normalizable solution ψ(x) = 0, we have
-sin (kL) = 0 or kL = 0, ±, ±2, ±3, ….
-Again k=0 is not acceptable as it will imply ψ(x) = 0 and the ‘-’ve sign can be absorbed
-into A. Therefore we have
-𝑛𝜋
-𝑘𝑛= 𝐿n = 1, 2, 3, ......
----------------- (1 marks)
------------ (3 marks for diagram)
-(c)   Find which of the following functions are eigenfunctions of the momentum operator (k   (4)
-is a constant): (a) Sinkx (b) eikx .
-𝑂̂ Ψ(x) = Ψ(x)   ---------------- (1 mark)
-𝑑
-𝑂̂ = −𝑖ℏ   ---------------- (1 mark)
-𝑑𝑥
-𝑑
-(a) −𝑖ℏ 𝑑𝑥(Sinkx) = −𝑖ℏ𝑘 𝐶𝑜𝑠𝑘𝑥 (Not an eigenfunction) ---------- (1 mark)
-(b) −𝑖ℏ 𝑑𝑥(𝑒𝑖𝑘𝑥) 𝑑   = ℏ𝑘𝑒𝑖𝑘𝑥 (Is an eigenfunction)   ------------- (1 mark)
-Q.4   (20)
-(a)   Write down time independent Schrödinger’s equation free particle and show that the   (10)
-energy value is continuous
-Solution:
-The one-dimensional time dependent Schrödinger equation for a free non-relativistic
-particle (V = 0) is given below
-ћ2 ∂2ψ(x,t)   ∂ψ(x,t)
-−   = iћ   (1)
-2m   ∂x2   ∂t
---------------(2 marks)
-********** 5 **********
---- page 6 ---
-A free particle of total energy E and momentum p moving in the +x direction can be
-described by the wave-function Ψ of a place monochromatic wave. The expression for
-Ψ is given by
-i
-Ψ(x, t) = A exp [ (px −Et)]   (2)
-ћ
-where A = amplitude of displacement of the wave
-ћ = reduced Planck constant (h/2) = 1.05457 x 10-34 J.s
-The energy E and momentum p of the particle are related to its wave-vector k and
-frequency  by the relations
-p = ћk = ћ 2𝜋 , E = ћ
-Differentiating Eq. (2) once with respect to time gives,
-𝜕Ψ(x, t) −𝑖𝐸
-=   Ψ(x, t)
-𝜕𝑡   ћ
-or
-∂Ψ(x,t)
-iћ   = EΨ(x, t)   (3)
-∂t
----------------- (2marks)
-Differentiating Eq. (2) twice with respect to x gives,
-∂Ψ(x,t)
-−iћ   = pΨ(x, t)
-∂x
-∂2Ψ(x,t)
-−ћ2   = p2Ψ(x,t)   (4)
-∂x2
-------------(2 marks)
-Dividing both sides of Eq. (4) by (1/2m), we obtain,
-ћ2 ∂2Ψ(x,t)
-−   =
-2m   ∂x2
-p2
-Ψ(x, t)   (5)
-2m
------------ (1 mark)
-Comparing equations (1), (3) and (5), the energy E and momentum p of a free non-
-relativistic particle of mass m are related by the expression
-𝑝2   ℏ2𝑘2
-𝐸= 2𝑚=   ----------- (1 mark)
-2𝑚
-(6)
-As the particle is free, there are no boundary conditions to be applied to the particle
-motion and hence there are no restrictions on wave-vector k. As a result, the particle
-can possess any value of energy or the energy is not quantized.
----------------(2 marks)
-(b)   Explain “the half-life of polonium that emits 8-MeV α-particles is only hundreds of
-milliseconds and the half-life of uranium that emits 4-MeV α-particles is billions of   (6)
-years” by applying quantum mechanical tunnelling.
-Solution:
-Gamow explained the variation of half-lives by considering a ‘spherical-box’ model of
-the nucleus, where α-particles can bounce back and forth between the walls as free
-particles. The confinement is provided by a strong nuclear potential at a spherical wall
-of the box. The thickness of this wall, however, is not infinite but finite, so in principle,
-********** 6 **********
---- page 7 ---
-a nuclear particle has a chance to escape this nuclear confinement. On the inside wall
-of the confining barrier is a high nuclear potential that keeps the α-particle in a small
-confinement. But when an α-particle gets out to the other side of this wall, it is subject
-to electrostatic Coulomb repulsion and moves away from the nucleus.
--------------------- (1 mark)
------------------ (1 mark for diagram)
-The width L of the potential barrier that separates an α-
-particle from the outside world depends on the particle’s
-kinetic energy E. This width is the distance between the point
-marked by the nuclear radius R, and the point, R0, where an α-
-particle emerges on the other side of the barrier
--------------------- (1 mark)
-At the distance the kinetic energy of the α-particle must be
-equal to electrostatic Coulomb repulsion energy.
-2𝑍𝑒2
-𝐸=
-4𝜋𝜀0𝑅0
--------------------- (1 mark)
-Substituting the value of R0
-2𝑍𝑒2
-𝐿= 4𝜋𝜀0𝐸−𝑅
------------------------- (1 mark)
-Hence, higher the energy of α-particle, the narrower the width of the barrier that it is
-to tunnel through. Also, the width of the potential barrier is the most important
-parameter in tunneling probability. Thus, highly energetic α-particles have a good
-chance to escape the nucleus, and, for such nuclei, the nuclear disintegration half-life is
-short. However, this process is highly nonlinear, meaning a small increase in the α-
-particle energy can exponentially increase the tunneling probability. This explains why
-the half-life of polonium that emits 8-MeV α-particles is only hundreds of milliseconds
-and the half-life of uranium that emits 4-MeV α-particles is billions of years.
------------------------- (1 mark)
-(c)   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.
-Solution:   (4)
-For hydrogen atom, the enrgy of the 𝑛𝑡ℎ orbit is given by:
-𝐸𝑛= −13.6 𝑒𝑉
-𝑛2
------------------------- (2 marks)
-𝑛= 2 for 2nd orbit
-∴𝐸2 = −13.6 = −3.4𝑒𝑉
-22
-𝑛= 3 for 3rd orbit
-13.6
-∴𝐸3 = − = −1.51𝑒𝑉   (2 marks)
-32
-Q.5   (20)
-********** 7 **********
---- page 8 ---
-(a)   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit of   (10)
-hydrogen atom.
-Solution:
-E1= 13.6 eV;  = ?
--
-𝐸1 = 𝐸𝑛
-𝑛2
-E4 = 0.85 eV; E5 = 0.54 eV   -4M
-= ℎ
-√2𝑚𝐸
- = 13.28 x 10-10 m   ------------------------ (3X2=6 marks)
- = 16.60 x 10-10 m
-(b)   Find the mathematical formulation for the probability W of distribution for a large   (6)
-assembly of n distinguishable particles amongst k cells.
-3M
-********** 8 **********
---- page 9 ---
----------- (3 marks)
-(c)   A system has non-degenerate single-particle states with 0,1,2,3 energy units. Three   (4)
-particles are to be distributed in these states such that the total energy of the system is
-3 units. Find the number of microstates if the particles obey (i) MB statistics (ii) BE
-statistics (iii)FD statistics. Find the corresponding macrostates and microstates also.
-3M
-1M
-Q.6.   (20)
-(a)   Explain the micro canonical and grand canonical ensembles in statistical mechanics,   (10)
-highlighting their key features, differences, and thermodynamic variables. Support your
-explanation with appropriate diagrams.
-Solution:
-Microcanonical ensemble: It is the collection of a large number of systems having the
-same energy E, volume V and total number of particles N. This ensemble is also often
-called the NVE ensemble, as each of these three quantities is a constant of the
-ensemble. The individual systems of microcanonical ensemble must remain totally
-********** 9 **********
---- page 10 ---
-isolated (i.e. they are separated by rigid, impermeable and well insulated walls, unable
-to exchange energy or particles with its environment) in order to stay in statistical
-equilibrium.
-Solution:
-Grand Canonical ensemble: It is an ensemble of a large number of essentially
-independent systems having the same temperature T, volume V and chemical potential
-𝜇. In the grand canonical ensemble, both energy E and number of particle N are
-variable. The individual systems of a grand canonical ensemble are separated by rigid,
-permeable but conducting walls as shown in Fig. 4. As the separating walls are
-conducting and permeable, the exchange of heat energy as well as the particles
-between the systems takes place, bringing all the systems arrive at common
-temperature T and chemical potential 𝜇. The chemical potential is the energy required
-to add a particle to the system.
-********** 10 **********
---- page 11 ---
-(b)   Using statistical mechanics, obtain Planck’s distribution law and discuss its physical   (6)
-significance in describing blackbody radiation
-Solution:
------------------------- (2 marks)
------------------------- (1 mark)
------------------------- (1 mark)
-********** 11 **********
---- page 12 ---
------------------------- (1 mark)
------------------------- (1 mark)
-(c)   Calculate the number of photons per cubic meter at 2000 K.   (4)
-Solution:
-Total number of photons per unit volume having all possible energies
------------------------- (2.5 marks)
-N = 1.61 x 1017 photons   ------------------------ (1.5 marks)
-Q.7   (20)
-(a)   Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac statistics   (10)
-distribution function.
-Solution:
-The basic postulates of MB statistics are
-i. The associated particles are identical but distinguishable.
-ii. Each energy state can contain any number of particles.
-iii. Total number of particles in the entire system is constant.
-iv. Total energy of all the particles in the entire system is constant.
-v. Examples: gas molecules at high temperature and low pressure.
-********** 12 **********
---- page 13 ---
------------------------(Any three postulates=3 marks)
-1. The particles (fermions) are identical and indistinguishable.
-2. They obey Heisenberg’s uncertainty principle and the Pauli’s exclusion
-principle.
-3. There is definite a priori restriction on the number of fermions in a quantum
-state. There can be simultaneously no more than one particle in a quantum
-state (i.e. it would either remain empty or can at best contain one fermion).
------------------------(Any three postulates=3 marks)
-Maxwell-Boltzmann distribution function with explanation of all terms
-The Fermi-Dirac distribution is mathematically expressed as:
------------------------- (2 marks)
-Any two applications of MB statistics   ------------------------- (2 marks)
-(b)   X-rays of 71pm are scattered by free electrons in a block of carbon through 30°.Find the   (6)
-wavelength of the scattered X-ray. What is the largest shift that can be expected in this
-experiment?
-Given: 𝜆= 71𝑝𝑚, 𝜙= 30°   ---------------------- (1 mark)
-2+1=3M
-(c)   The wave-function for a quantum particle of mass m confined to move in the domain 0   (4)
-< x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)
-********** 13 **********
---- page 14 ---
-Calculate the normalization constant N.
-
-1
-N? | sin?(2aa) dx =1
-0
-
-N=¥v2
-
-Calculation-2M+Final answer-1M
-
-2 ROO RK
-
-FRR IC 7 I OH
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 77e735ea3366
 
 - Departments: Mechatronics
@@ -9766,424 +10184,6 @@ Solution:
 (Two points of distinction = 2 x 2 = 4 marks)
 ******************************************************************
 ********** 15 **********
-````
-
-## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 930243ff54d9
-
-- Departments: Data Science
-- Programmes: MBATech DS 7052
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_DS_7052/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
-- Text: mixed (14 pages), mean OCR confidence 63.9
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech
-(EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Quantum and Statistical Physics
-Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 14 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in bracket on right hand side indicates full marks.
-4. Question No. 1 is compulsory.
-5. Attempt any four questions from Question Nos. 2.1 to 2.6.
-6. Assume suitable data wherever necessary.
-7. Use non-programmable scientific calculator.
-Q.1   (20)
-(a)   Explain blackbody radiation and discuss the significance of Stefan–Boltzmann
-law and Wien’s displacement law.
-For each law with mathematical expression 2x2=4M   (4)
-•   Stefan’s law of blackbody radiation:
-The total energy radiated per unit surface area of a blackbody per unit time is directly
-proportional to the fourth power of its absolute temperature.
-𝐸= 𝜎𝑇4
-Where, 𝜎 is Stefan’s constant = 5.67 × 10−8𝑊/𝑚2𝑘4
-This law shows that radiation increases very rapidly with temperature. If the
-temperature is doubled, the energy radiated increases 16 times. Hence, hotter bodies
-emit significantly more radiation than cooler ones.
-• Wein’s displacement law:
-The wavelength at which the emission of a blackbody is maximum is inversely
-proportional to its absolute temperature.
-𝜆𝑚𝑎𝑥∝1
-𝑇
-𝜆𝑚𝑎𝑥𝑇= 𝑏,
-where, 𝑏= 2.9898 × 10−3
-This law explains the shift in peak wavelength with temperature. As temperature
-increases, the peak shifts toward shorter wavelengths. For example, a heated object
-changes colour from red to yellow to white as its temperature rises.
-(b)   Write the linear superposition principle with mathematical expression.
-(4)
-********** 1 **********
---- page 2 ---
-Solution:
-Theory-3M+Mathematical expression-1M
-(c)   Write the Schrodinger's equation for a hydrogen atom in terms of cartesian co-   (4)
-ordinates and the expression of quantized energy eigenvalue.
-Solution:
-In Cartesian coordinates (𝑥, 𝑦, 𝑧) the time-independent Schrödinger equation is:
-−ℏ2   𝜕2𝜓 𝜕2𝜓   𝑒2
-2𝑚(𝜕2𝜓 +   + 𝜕𝑧2) −   𝜓= 𝐸𝜓
-𝜕𝑥2   𝜕𝑦2   4𝜋𝜀0√𝑥2 + 𝑦2+𝑧2
-Or
-𝑒2
-−ℏ 2𝑚∇2 − 4𝜋𝜀0𝑟𝜓= 𝐸𝜓
-𝐸1
-= 𝐸𝑛
-𝑛2
-2+2=4M
-(d)   State the four basic postulates of Maxwell-Boltzmann.   (4)
-Solution:
----------------- (1 mark each)
-(e)   Which type of statistical distribution is applied to derive Planck’s radiation formula with   (4)
-suitable reason? Write the equation describing Planck’s radiation law.
-Solution:
-• The type of statistical distribution applied to derive Planck's radiation formula is
-Bose-Einstein statistics.
-•   Planck’s radiation formula is derived using the Bose–Einstein distribution
-because the radiation field consists of photons, which are indistinguishable
-bosons. These particles have integer spin and can occupy the same energy state
-in unlimited numbers.
----------------- (2 marks)
-********** 2 **********
---- page 3 ---
-•   Planck's law describes the spectral density of electromagnetic radiation emitted
-by a black body in thermal equilibrium at a given temperature. The formula is
-given by:
----------------- (2 marks)
-Q.2   (20)
-(a)   State and explain Heisenberg’s uncertainty principle for position-momentum and   (10)
-energy-time with mathematical expressions. In atomic transition from atomic state the
-time interval is of the order of 10-7 sec.Find out the energy uncertainty.
-Problem:
-Statement and mathematical expressions for position-momentum-3M
-Statement and mathematical expressions for energy-time- 3M
-t = 10-7 s; E = ?; ν = ?
-𝐸. 𝑡 = ℎ/2;
-𝐸 = 1.054 𝑥 10−27 𝐽
----------------- (2 marks)
-𝐸 = ℎ𝜈;
-𝜈 = 1.59 𝑥 108 𝐻𝑧
----------------- (2 marks)
-(b)   Interpret the reason behind an electron not being allowed to take zero energy in   (6)
-infinite potential well. Calculate the energy required for an electron to jump from
-ground state to the second excited state in an infinite potential well of width L.
-Solution: Expression for infinite well energy -1M
-𝑛2 𝜋2ℏ2
-𝐸𝑛=   ,   𝑛= 1,2,3 …
-2𝑚𝐿2
-Explanation-2M
-Calculation-3M
-Final answer h2/ML2-1M
-********** 3 **********
---- page 4 ---
-(c)   An electron is trapped in an infinite potential well of length 3 Å. In the ground state,   (4)
-determine the probability of finding the electron in the region x = 0 to 0.5 Å.
-Solution: L = 3 Å
-1(𝑥) = √2 𝑠𝑖𝑛 𝜋𝑥   ---------------- (1 mark)
-𝐿   𝐿
-𝑃= ∫ 𝑥2 |1| 2𝑑𝑥 = 2 𝐿∫ 0.5 𝑠𝑖𝑛2 (𝜋𝑥 𝐿)𝑑𝑥   ---------------- (1 mark)
-𝑥1   0
-𝑃= 1 𝐿∫ 0.5 [1 −𝑐𝑜𝑠(2𝜋𝑥 𝐿)] dx
-0
-1 0.5
-𝑃= ∫ [1 −cos(𝜋𝑥)]𝑑𝑥
-3 0
-1   1   0.5
-𝑃= [𝑥− 𝜋sin(𝜋𝑥)]
-3   0
-1   1
-𝑃= (0.5 − 𝜋)
-3
-𝑃= 0.06
----------------- (2 marks)
-Q.3   (20)
-(a)   Calculate the indeterminacy of velocity of a cricket ball if the indeterminacy in the   (10)
-position of a cricket ball is, say, 1 mm and comment on the relevance of uncertainty
-principle in case of macro-bodies.
-Solution:
-Statement with expression-2
-marks
-(6 marks for calculation+2marks for statement)
-(b)   Derive the normalized wave-function of an electron confined in a 1-D potential well of   (6)
-length L and infinite depth and draw the wavefunctions for three lowest states.
-.
-Solution:
-Let us assume that a particle of mass m trapped in a one-dimensional infinitely deep
-potential well with V(x) = 0 except at boundaries x=0 and x=L, where it is infinitely
-large.
-V(x) = 0 for 0 < x < L
-=∞ for x ≤ 0 and x ≥ L
-********** 4 **********
---- page 5 ---
----------------- (1 mark)
-The time independent Schrödinger equation can be written as
-𝑑2(𝑥) 2𝑚𝐸
-+   (𝑥) = 0   0<x<L
-𝑑𝑥2   ћ2
-𝑑2(𝑥)
-+ 𝑘2(𝑥) = 0
-𝑑𝑥2
-Where 𝑘2 = 2𝑚𝐸
-ћ2
----------------- (1 mark)
-The general solution is
-(𝑥) = 𝐴𝑠𝑖𝑛𝑘𝑥+ 𝐵𝑐𝑜𝑠𝑘𝑥
-Where A and B are the arbitrary constants that can be found from boundary conditions.
-Continuity of ψ(x) requires
-Ψ(0) = 𝜓(𝐿) = 0
-∴Ψ(0) = 𝐴𝑠𝑖𝑛(𝑘. 0) + 𝐵𝑐𝑜𝑠(𝑘. 0) = 0 →𝐵= 0
-and
-Ψ(𝑥) = 𝐴𝑠𝑖𝑛(𝑘𝑥)
-Now   Ψ(𝐿) = 𝐴𝑠𝑖𝑛(𝑘𝐿) = 0
-Since A cannot be zero as it will give trivial, non normalizable solution ψ(x) = 0, we have
-sin (kL) = 0 or kL = 0, ±, ±2, ±3, ….
-Again k=0 is not acceptable as it will imply ψ(x) = 0 and the ‘-’ve sign can be absorbed
-into A. Therefore we have
-𝑛𝜋
-𝑘𝑛= 𝐿n = 1, 2, 3, ......
----------------- (1 marks)
------------ (3 marks for diagram)
-(c)   Find which of the following functions are eigenfunctions of the momentum operator (k   (4)
-is a constant): (a) Sinkx (b) eikx .
-𝑂̂ Ψ(x) = Ψ(x)   ---------------- (1 mark)
-𝑑
-𝑂̂ = −𝑖ℏ   ---------------- (1 mark)
-𝑑𝑥
-𝑑
-(a) −𝑖ℏ 𝑑𝑥(Sinkx) = −𝑖ℏ𝑘 𝐶𝑜𝑠𝑘𝑥 (Not an eigenfunction) ---------- (1 mark)
-(b) −𝑖ℏ 𝑑𝑥(𝑒𝑖𝑘𝑥) 𝑑   = ℏ𝑘𝑒𝑖𝑘𝑥 (Is an eigenfunction)   ------------- (1 mark)
-Q.4   (20)
-(a)   Write down time independent Schrödinger’s equation free particle and show that the   (10)
-energy value is continuous
-Solution:
-The one-dimensional time dependent Schrödinger equation for a free non-relativistic
-particle (V = 0) is given below
-ћ2 ∂2ψ(x,t)   ∂ψ(x,t)
-−   = iћ   (1)
-2m   ∂x2   ∂t
---------------(2 marks)
-********** 5 **********
---- page 6 ---
-A free particle of total energy E and momentum p moving in the +x direction can be
-described by the wave-function Ψ of a place monochromatic wave. The expression for
-Ψ is given by
-i
-Ψ(x, t) = A exp [ (px −Et)]   (2)
-ћ
-where A = amplitude of displacement of the wave
-ћ = reduced Planck constant (h/2) = 1.05457 x 10-34 J.s
-The energy E and momentum p of the particle are related to its wave-vector k and
-frequency  by the relations
-p = ћk = ћ 2𝜋 , E = ћ
-Differentiating Eq. (2) once with respect to time gives,
-𝜕Ψ(x, t) −𝑖𝐸
-=   Ψ(x, t)
-𝜕𝑡   ћ
-or
-∂Ψ(x,t)
-iћ   = EΨ(x, t)   (3)
-∂t
----------------- (2marks)
-Differentiating Eq. (2) twice with respect to x gives,
-∂Ψ(x,t)
-−iћ   = pΨ(x, t)
-∂x
-∂2Ψ(x,t)
-−ћ2   = p2Ψ(x,t)   (4)
-∂x2
-------------(2 marks)
-Dividing both sides of Eq. (4) by (1/2m), we obtain,
-ћ2 ∂2Ψ(x,t)
-−   =
-2m   ∂x2
-p2
-Ψ(x, t)   (5)
-2m
------------ (1 mark)
-Comparing equations (1), (3) and (5), the energy E and momentum p of a free non-
-relativistic particle of mass m are related by the expression
-𝑝2   ℏ2𝑘2
-𝐸= 2𝑚=   ----------- (1 mark)
-2𝑚
-(6)
-As the particle is free, there are no boundary conditions to be applied to the particle
-motion and hence there are no restrictions on wave-vector k. As a result, the particle
-can possess any value of energy or the energy is not quantized.
----------------(2 marks)
-(b)   Explain “the half-life of polonium that emits 8-MeV α-particles is only hundreds of
-milliseconds and the half-life of uranium that emits 4-MeV α-particles is billions of   (6)
-years” by applying quantum mechanical tunnelling.
-Solution:
-Gamow explained the variation of half-lives by considering a ‘spherical-box’ model of
-the nucleus, where α-particles can bounce back and forth between the walls as free
-particles. The confinement is provided by a strong nuclear potential at a spherical wall
-of the box. The thickness of this wall, however, is not infinite but finite, so in principle,
-********** 6 **********
---- page 7 ---
-a nuclear particle has a chance to escape this nuclear confinement. On the inside wall
-of the confining barrier is a high nuclear potential that keeps the α-particle in a small
-confinement. But when an α-particle gets out to the other side of this wall, it is subject
-to electrostatic Coulomb repulsion and moves away from the nucleus.
--------------------- (1 mark)
------------------ (1 mark for diagram)
-The width L of the potential barrier that separates an α-
-particle from the outside world depends on the particle’s
-kinetic energy E. This width is the distance between the point
-marked by the nuclear radius R, and the point, R0, where an α-
-particle emerges on the other side of the barrier
--------------------- (1 mark)
-At the distance the kinetic energy of the α-particle must be
-equal to electrostatic Coulomb repulsion energy.
-2𝑍𝑒2
-𝐸=
-4𝜋𝜀0𝑅0
--------------------- (1 mark)
-Substituting the value of R0
-2𝑍𝑒2
-𝐿= 4𝜋𝜀0𝐸−𝑅
------------------------- (1 mark)
-Hence, higher the energy of α-particle, the narrower the width of the barrier that it is
-to tunnel through. Also, the width of the potential barrier is the most important
-parameter in tunneling probability. Thus, highly energetic α-particles have a good
-chance to escape the nucleus, and, for such nuclei, the nuclear disintegration half-life is
-short. However, this process is highly nonlinear, meaning a small increase in the α-
-particle energy can exponentially increase the tunneling probability. This explains why
-the half-life of polonium that emits 8-MeV α-particles is only hundreds of milliseconds
-and the half-life of uranium that emits 4-MeV α-particles is billions of years.
------------------------- (1 mark)
-(c)   Calculate the energy of 2nd and 3rd orbit of the hydrogen atom in eV.
-Solution:   (4)
-For hydrogen atom, the enrgy of the 𝑛𝑡ℎ orbit is given by:
-𝐸𝑛= −13.6 𝑒𝑉
-𝑛2
------------------------- (2 marks)
-𝑛= 2 for 2nd orbit
-∴𝐸2 = −13.6 = −3.4𝑒𝑉
-22
-𝑛= 3 for 3rd orbit
-13.6
-∴𝐸3 = − = −1.51𝑒𝑉   (2 marks)
-32
-Q.5   (20)
-********** 7 **********
---- page 8 ---
-(a)   Calculate the de Broglie wavelength of the orbital electron in the 4th and 5th orbit of   (10)
-hydrogen atom.
-Solution:
-E1= 13.6 eV;  = ?
--
-𝐸1 = 𝐸𝑛
-𝑛2
-E4 = 0.85 eV; E5 = 0.54 eV   -4M
-= ℎ
-√2𝑚𝐸
- = 13.28 x 10-10 m   ------------------------ (3X2=6 marks)
- = 16.60 x 10-10 m
-(b)   Find the mathematical formulation for the probability W of distribution for a large   (6)
-assembly of n distinguishable particles amongst k cells.
-3M
-********** 8 **********
---- page 9 ---
----------- (3 marks)
-(c)   A system has non-degenerate single-particle states with 0,1,2,3 energy units. Three   (4)
-particles are to be distributed in these states such that the total energy of the system is
-3 units. Find the number of microstates if the particles obey (i) MB statistics (ii) BE
-statistics (iii)FD statistics. Find the corresponding macrostates and microstates also.
-3M
-1M
-Q.6.   (20)
-(a)   Explain the micro canonical and grand canonical ensembles in statistical mechanics,   (10)
-highlighting their key features, differences, and thermodynamic variables. Support your
-explanation with appropriate diagrams.
-Solution:
-Microcanonical ensemble: It is the collection of a large number of systems having the
-same energy E, volume V and total number of particles N. This ensemble is also often
-called the NVE ensemble, as each of these three quantities is a constant of the
-ensemble. The individual systems of microcanonical ensemble must remain totally
-********** 9 **********
---- page 10 ---
-isolated (i.e. they are separated by rigid, impermeable and well insulated walls, unable
-to exchange energy or particles with its environment) in order to stay in statistical
-equilibrium.
-Solution:
-Grand Canonical ensemble: It is an ensemble of a large number of essentially
-independent systems having the same temperature T, volume V and chemical potential
-𝜇. In the grand canonical ensemble, both energy E and number of particle N are
-variable. The individual systems of a grand canonical ensemble are separated by rigid,
-permeable but conducting walls as shown in Fig. 4. As the separating walls are
-conducting and permeable, the exchange of heat energy as well as the particles
-between the systems takes place, bringing all the systems arrive at common
-temperature T and chemical potential 𝜇. The chemical potential is the energy required
-to add a particle to the system.
-********** 10 **********
---- page 11 ---
-(b)   Using statistical mechanics, obtain Planck’s distribution law and discuss its physical   (6)
-significance in describing blackbody radiation
-Solution:
------------------------- (2 marks)
------------------------- (1 mark)
------------------------- (1 mark)
-********** 11 **********
---- page 12 ---
------------------------- (1 mark)
------------------------- (1 mark)
-(c)   Calculate the number of photons per cubic meter at 2000 K.   (4)
-Solution:
-Total number of photons per unit volume having all possible energies
------------------------- (2.5 marks)
-N = 1.61 x 1017 photons   ------------------------ (1.5 marks)
-Q.7   (20)
-(a)   Write the postulates and expressions for Maxwell-Boltzmann and Fermi-Dirac statistics   (10)
-distribution function.
-Solution:
-The basic postulates of MB statistics are
-i. The associated particles are identical but distinguishable.
-ii. Each energy state can contain any number of particles.
-iii. Total number of particles in the entire system is constant.
-iv. Total energy of all the particles in the entire system is constant.
-v. Examples: gas molecules at high temperature and low pressure.
-********** 12 **********
---- page 13 ---
------------------------(Any three postulates=3 marks)
-1. The particles (fermions) are identical and indistinguishable.
-2. They obey Heisenberg’s uncertainty principle and the Pauli’s exclusion
-principle.
-3. There is definite a priori restriction on the number of fermions in a quantum
-state. There can be simultaneously no more than one particle in a quantum
-state (i.e. it would either remain empty or can at best contain one fermion).
------------------------(Any three postulates=3 marks)
-Maxwell-Boltzmann distribution function with explanation of all terms
-The Fermi-Dirac distribution is mathematically expressed as:
------------------------- (2 marks)
-Any two applications of MB statistics   ------------------------- (2 marks)
-(b)   X-rays of 71pm are scattered by free electrons in a block of carbon through 30°.Find the   (6)
-wavelength of the scattered X-ray. What is the largest shift that can be expected in this
-experiment?
-Given: 𝜆= 71𝑝𝑚, 𝜙= 30°   ---------------------- (1 mark)
-2+1=3M
-(c)   The wave-function for a quantum particle of mass m confined to move in the domain 0   (4)
-< x < 1 is given by 𝜓(𝑥)=𝑁sin(2𝜋𝑥)
-********** 13 **********
---- page 14 ---
-Calculate the normalization constant N.
-
-1
-N? | sin?(2aa) dx =1
-0
-
-N=¥v2
-
-Calculation-2M+Final answer-1M
-
-2 ROO RK
-
-FRR IC 7 I OH
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 9752d9e5b49a

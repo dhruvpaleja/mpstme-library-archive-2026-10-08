@@ -14,30 +14,30 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073, DIPLOMA IN COMPUTER SCIENCE AND ENGINEE, DIPLOMA IN INFORMATION TECHNOLOGY - 7075, DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | DIPLOMA | Applied Chemistry 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073, DIPLOMA IN COMPUTER SCIENCE AND ENGINEE, DIPLOMA IN INFORMATION TECHNOLOGY - 7075, DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Applied Chemistry(701BS0C020)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073, DIPLOMA IN COMPUTER SCIENCE AND ENGINEE, DIPLOMA IN INFORMATION TECHNOLOGY - 7075, DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Applied Chemistry(701BS0C020)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Applied Chemistry(701BS0C020)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Applied Chemistry(701BS0C020)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Applied Chemistry(701BS0C020)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Applied Chemistry(701BS0C020)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Applied Chemistry(701BS0C020)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Applied Chemistry(701BS0C020)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | DIPLOMA | Applied Chemistry Batch 2024-25 Re Exam0001.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Applied Chemistry(701BS0C020)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Applied Chemistry(701BS0C020)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Applied Chemistry(701BS0C020)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Applied Chemistry(701BS0C020)_2024-2025.pdf |
 | 2013-14 | Re-Exam | Question paper | Trim 1 | B TECH | APPLIED SCIENCE I ( CHEMISTRY I )BATCH 2013-14 RE EXAM0001.pdf |
 | 2012-13 | — | Question paper | Trim 1 | B TECH | APPLIED CHEMISTY II 2012-13.pdf |
 | 2012-13 | Re-Exam | Question paper | Trim 1 | B TECH | Applied Chemistry I Batch 2012-13 Re Exam.pdf |

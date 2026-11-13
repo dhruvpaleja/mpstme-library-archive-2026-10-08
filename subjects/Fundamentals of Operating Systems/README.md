@@ -14,14 +14,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Fundamentals of Operating Systems(701IT0C008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | Integrated IT 7037 | QP_Fundamentals of Operating Systems(701IT0C008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Fundamentals of Operating Systems(701IT0C008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper |  | B.TECH INTEGRATED / IT | Fundamentals of Operating Systems Batch 2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper |  | B.TECH INTEGRATED / IT | Fundamentals of Operating Systems Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Fundamentals of Operating Systems(701IT0C008)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | Integrated IT 7037 | QP_Fundamentals of Operating Systems(701IT0C008)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Fundamentals of Operating Systems(701IT0C008)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Fundamentals of Operating Systems(701IT0C008)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | Integrated IT 7037 | QP_Fundamentals of Operating Systems(701IT0C008)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated IT 7037 | ANS_Fundamentals of Operating Systems(701IT0C008)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper |  | B.TECH INTEGRATED / IT | Fundametals of Operating Systems Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper |  | B.TECH INTEGRATED / IT | Fundamentals of Operating Systmes Batch 2023-24 Re Exam.pdf |
 

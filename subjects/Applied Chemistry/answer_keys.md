@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Applied Chemistry/ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: mixed (5 pages), mean OCR confidence 48.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -58,6 +59,8 @@ RK KKK RK KK 5 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Applied Chemistry/ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (5 pages), mean OCR confidence 42.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -97,12 +100,9 @@ al sh} NO,
 
 Toted vino be No, = > mold No,
 
-©3 a) Elec henic conf grenraiton( 2m )
-Plecthante Aonfigurafer enol. orbrtel Aiton,
 df each gf Ta te eloment (™ ach)
 
 3b) Gerolrate covelyt bord (4m)
-Erample Sheng ies howd fA ra k'on (3m)
 
 O3¢) 4 moles 50 |b genx 0” 3 O0-afny
 m | ole cake
@@ -132,7 +132,6 @@ SP ressa
 gem of dani tae labelled Jul
 4M
 a) (eh i :
-; i BD oa ee ae _
 Pete a piers Dee i a. GS)
 
 oes
@@ -147,6 +146,8 @@ RK KKK RK KK 5 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Applied Chemistry/ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (5 pages), mean OCR confidence 42.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -186,12 +187,9 @@ al sh} NO,
 
 Toted vino be No, = > mold No,
 
-©3 a) Elec henic conf grenraiton( 2m )
-Plecthante Aonfigurafer enol. orbrtel Aiton,
 df each gf Ta te eloment (™ ach)
 
 3b) Gerolrate covelyt bord (4m)
-Erample Sheng ies howd fA ra k'on (3m)
 
 O3¢) 4 moles 50 |b genx 0” 3 O0-afny
 m | ole cake
@@ -221,7 +219,6 @@ SP ressa
 gem of dani tae labelled Jul
 4M
 a) (eh i :
-; i BD oa ee ae _
 Pete a piers Dee i a. GS)
 
 oes
@@ -236,6 +233,8 @@ RK KKK RK KK 5 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/Applied Chemistry/ANS_Applied Chemistry(701BS0C020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (5 pages), mean OCR confidence 42.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -275,12 +274,9 @@ al sh} NO,
 
 Toted vino be No, = > mold No,
 
-©3 a) Elec henic conf grenraiton( 2m )
-Plecthante Aonfigurafer enol. orbrtel Aiton,
 df each gf Ta te eloment (™ ach)
 
 3b) Gerolrate covelyt bord (4m)
-Erample Sheng ies howd fA ra k'on (3m)
 
 O3¢) 4 moles 50 |b genx 0” 3 O0-afny
 m | ole cake
@@ -310,7 +306,6 @@ SP ressa
 gem of dani tae labelled Jul
 4M
 a) (eh i :
-; i BD oa ee ae _
 Pete a piers Dee i a. GS)
 
 oes

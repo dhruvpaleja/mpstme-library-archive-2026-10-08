@@ -401,6 +401,7 @@ CO-4, BL-1
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/Heat Transfer Batch 2022-23,2024-25,2025-26 Re Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; exam date: 03 July 2026
 - Text: ocr (2 pages), mean OCR confidence 90.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -443,7 +444,6 @@ reactor operates at a temperature of 1325 °C and the ambient temperature is
 25 *C+ (i) Determine the thickness of fire brick and insulation which gives
 minimum heat loss. (ii) Calculate the heat loss presuming that insulating
 material has a maximum temperature of 1200 °C.
-3 b | Co a uy vy [10]
 CO-3. BL:3 The velocity distribution in the boundary layer is given by F = 5 , where u
 
 is the velocity at a distance y from the plate and w=U at y=6, 6 being
@@ -828,597 +828,7 @@ Total emissive power of the furnace, if it is treated as gray and diffuse body
 with an emissivity of 0.95.
 ````
 
-## 2022-23 · Final-Exam · Sem 6 · paper db780742cca0
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/Heat Transfer, Sem-VI, Year 2022-23, Final Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-
-Program/s: B Tech /MBA Tech Year: III Semester: VI
-
-Stream/s ; Mechanical
-
-Subject: Heat Transfer Time: 03 hrs (2:00pmto 5:00 pm)
-Date:_20 / o4 / 2023 No. of Pages:03
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all _5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of Heat and Mass transfer data book is permitted.
-
-p
-
-Ql Answer briefly: [20]
-CO-1 ; SO-1; a. State Fourier’s Law of conduction using a neat sketch with its mathematical [05]
-BL-1 expression. Also explain the reason of negative sign in the expression.
-She bSOs15 Bi Explain different regimes of pool boiling curve. te
-Spo 3 BOM ° Classify heat exchangers in detail. [05]
-ad ae a State why radiation shield is used? Give its application in detail. [05]
-@ Q a. Derive 3-Dimensional, transient, heat conduction equation with heat generation in (10)
-eas SO-2, Cartesian coordinate system.
-b. Air at 20°C atmospheric pressure is flowing over a flat plate at a velocity of
-
-3 m/s. If the plate is 30 cm wide and at a temperature of 60°C,
-
-Calculate at x= 0.3m,
-CO-2; SO-2; (a) Thickness of velocity boundary layer and thermal boundary layer [10]
-BL-3 (b) Local and average skin friction coefficient
-
-(c) Total drag force on the plate
-(d) Local and average heat transfer coefficient
-
-(e) Heat Transfer rate
---- page 2 ---
-An insulated steam pipe of 150 mm inner diameter and 170 mm of outer diameter is
-
-covered with insulation of 50 mm thickness and carries steam at 250°C.
-
-non. 50-2: K(pipey = 29W/m°C, K¢insutationy = 0.23 W/m°C. hi= 12.6 W/mK, [10]
-— ho= 25.2W/m’K,
-If the temperature of the air surrounding the pipe is 23°C, evaluate the heat loss to the
-surrounding from the pipe of 6 m length. Also find the interface temperatures.
-CO-2; $0-2; Water at the rate of 3 kg/s is heated from 5°C to 15°C by passing it through a Scm ID
-BL copper tube. Tube tube wall temperature is maintained at 90°C. Evaluate the length | [10]
-of the tube?
-It is better to use 20 fins of 5 cm length than 5 fins of 20 cm length. State and prove
-a correctness of the statement. Take properties as follows: LL
-aie aan Diameter of the fin = 10 mm, Thermal conductivity = 45W/m K 2]
-Heat transfer coefficient = 95 W/m’K
-A chemical at a rate of 25,000 kg/h enters a parallel flow heat exchanger at 130°C.
-The flow rate of cooling water is 55,000 kg/h with an inlet temperature of 25°C. The
-heat transfer area is 15 m’ and overall heat transfer coefficient is 1130W/m? K.
-me S0-2; Evaluate [8]
-1. The effectiveness of the heat exchanger,
-2. Outlet temperatures of water and chemical.
-Take Cp chemical = 4kJ/kg K and Cy water = 4.186 kJ/kg K .
-A 12 mm diameter mild steel sphere (k= 42.5 W/m°C) is exposed to cooling airflow
-at 27°C resulting in the convective coefficient h = 114W/m?°C.
-Evaluate the following:
-(a) Time required to cool the sphere from 540°C to 95°C. 2)
-ar SO2} (b) Instantaneous heat transfer rate 2 minutes after the start of cooling. 00]
-(c) Total energy transferred from the sphere during the first 2 minutes.
-For mild steel take density = 7850 kg/ m, specific heat = 475 J/kg K, thermal
-diffusivity = 0.043 m’/ hr
-Two large parallel plates with € = 0.4 are maintained at different temperatures and
-CO-2; SO-2; are exchanging heat only by radiation. Two equally large radiation sheets with surface 10]
-BL-4 emissivity 0.04 are introduced in parallel to the plates. Find the percentage reduction
-in net radiative heat transfer.
-Q6 A hot plate 3 m x 0.5 m at 130°C is kept vertically in still air at 20°C, Evaluate [10]
-CO-2; SO-2;
---- page 3 ---
-BL-3 (a) Heat transfer coefficient
-(b) Heat transfer rate
-Assume 0.5 m side is vertical and assume convection takes place from both sides of
-the plate. ;
-Use Nur = 0.59 (Gr Pr) 4
-
-b. Derive for parallel flow heat exchanger
-CO-3; SO-2; AT, AT; [10]
-BL-4 AT imta = a
-In
-AT2
-
-Q7 Answer the following : [20]
-CO-1; SO-1; a.
-ae Describe velocity boundary layer and thermal boundary layer. [04]
-CO-1; SO-1; b. : .
-BL Define Grashof number and Nusselt number, also give their physical significance. [04]
-CO-1; SO-1; Ce
-
-Discuss the laws of radiation. [04]
-BL-2
-CO-1; SO-1; d.
-BL-2 Define irradiation (G), radiosity (J), shape factor. [04]
-CO-1; SO-1; e.
-BL-2 Differentiate forced and free convection. [04]
-````
-
-## 2022 · Final-Exam · Sem 7 · paper fbaf13e74759
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_07/HEAT TRANSFER/Heat Transfer Batch 2022 Final0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 22 November 2022
-- Text: ocr (4 pages), mean OCR confidence 90.0
-
-````text
-~ SVKM’s NMIMS \
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & epeaineHING. Ry Ji
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2022-23
-
-Programme: B. Tech Integrated (Mechanical) 7 Year: IV Semester: VII
-Subject: Heat Transfer -
-
-Marks: 100 -
-Date: 22 November 2022 . Time: 10.00 am - 1.00 pm -
-
-Durations: 3 (Hrs) -
-
-No. of Pages: _0¥
-
-Final Examination
-
-Ihstructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all_5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of heat and mass transfer data book is permitted.
-
-Qi
-Answer briefly: [20]
-CO-1 ; a. | Describe the lumped heat capacity method with any one industrial
-SO- 7; oo [05]
-BL-l application.
-CO-1 ; b. | Explain Prandtl number and Nusselt number with their physical [05]
-SO- 7; Lo.
-BL3 significance.
-CO-1 ; c. ;
-SO- 1; Define the intensity of radiation and the solid angle. [05]
-BL-1
-CO-3 ; d. | Explain fouling and fouling factors in heat exchangers, as well as their
-SO-7 ; [05]
-BL-3 causes.
-a | An iron plate 2.5cm thick (k=62W/m K) is in contact with asbestos
-insulation 1cm thick (k= 0.2W/m K) on one side and exposed to hot gas with
-Q2 a heat transfer coefficient of 200W/m? K on the other surface. If the outer
-CO-2; surface of the asbestos is exposed to cool air with a heat transfer coefficient | [10] |
-aH of 40W/m’K, evaluate the overall heat transfer coefficient and the heat flow
-rate’across the composite wall per square meter of the surface for a AT of
-200°C between the hot gas and the cool air. |
-
-Yy
---- page 2 ---
-Draw equivalent thermal resistance diagram of the system.
-
-b | Air at 20°C atmospheric pressure is flowing over a flat plate at a velocity of
-3 m/s. If the plate is 30 cm wide and at a temperature of 60°C, Calculate at
-x= 0.3m,
-
-(a) Thickness of velocity boundary layer and thermal boundary layer
-
-(b) Local and average skin friction coefficient
-
-CO-2;
-SO-1; (c) Total drag force on the plate [10]
-Bi-3 (d) Local and average heat transfer coefficient
-(e) Heat Transfer rate
-Take the following properties at 313K
-Density = 1.18 kg / m?, kinematic viscosity = 17 x 10% m?/s
-Thermal conductivity = 0.0272 W/ m K, specific heat = 1.007 kJ/kg K
-a | A 10 mm diameter mild steel sphere (k= 42W/m °C) is exposed to cooling
-air flow at 20°C resulting in the convective coefficient h= 110W/m?°C.
-== Determine the following:
-CO-2; [10]
-SO-1; (a) Time required to cool the sphere from 450°C to 80°C.
-BL-3 (b) Instantaneous heat transfer rate 3 minutes after the start of cooling.
-For mild steel take density=7850 kg/ m3 , specific heat= 475J/ kg °C
-CO-2; b_ | Air at 20°C and 1 atm flows over a heated plate with a velocity of 2m/s.
-SO-; The plate is at uniform temperature of 60°C, Calculate the heat transfer [10]
-Bie rate from (i) first 0.2m of the plate (ii) first 0.4m of the plate.
-a | An insulated steam pipe of 160 mm inner diameter and 180 mm of outer
-diameter is covered with insulation of 40 mm thickness and carries steam at
-Q4 200°C.
-cO-2: Kcpipey = 29W/m°C, K (insulation) = 0.23 W/m°C, hi= 11.6 W/m?K, 110]
-SO-1; | ho= 23.2W/m?K,
-ele If the temperature of the air surrounding the pipe is 25°C, calculate the heat _
-
-loss to the surrounding from the pipe of 5m length. Also find the interface
-
-temperatures.
-
-2h,
---- page 3 ---
-b | Describe the purpose of radiation shield. Determine the radiant heat
-
-exchange in W/ m? between the two large parallel plates of emissivities 0.9
-
-Sou and 0.6 held at temperatures of 700 K and 300K respectively, ifa thin copper (10)
-BL-2,3 plate of emissivity 0.1 is introduced as a radiation shield between the two
-plates. |
-
-Use o = 5.67 x 1078 W/ m? K+.
-
-a | Water at 50°C enters 1.5cm diameter and 2.5m long tube with a velocity of
-
-Q5
-CO-2: 2m/s. The tube wall is maintained at 100°C. Calculate the heat transfer f10)
-SO-1; coefficient and total amount of heat transferred if the water exit temperature
-BL-3
-
-is 70°C.
-
-b | Describe shape factor in radiation.
-
-CO-2; 1 2
-SO-1; [10]
-BL-3
-
-3
-
-Calculate the shape factors for the tube having cross section of equilateral
-
-cross section as shown in the above figure.
-
-a Estimate the heat transfer rate from a 120 W incandescent bulb at 140°C to
-an ambient at 24°C. Approximate the bulb as 50 mm diameter sphere.
-
-Calculate the percentage of power lost by natural convection.
-
-Q6
-
-Use following correlation and air properties
-
-CO-2; econ pe? [10]
-
-SO-7; Nu = 0.6 (Gr Pr ) “
-
-BL-4 F F
-The properties of air at 82°C are =
-kinematic viscosity = 21.46 x 10° m? /s
-Thermal conductivity = 30.38 x 10? W/ m K, Pr = 0.699
-
-CO-3: b | A counter flow heat exchanger is used to heat water from 20°C to 80°C at a 110]
-
-SO-; rate of 1.2 kg / s. The heating is obtained by using liquid at 160°C at mass
---- page 4 ---
-BL-4 flow rate of 2 kg /s. The inner tube is thin walled, and has a dimeter of 1.5cm.
-If the overall heat transfer is 640W/m? K. Evaluate the length of the
-exchanger required, the desired heating by using effectiveness- NTU
-method.
-
-Specific heat of liquid = 4.31 kJ /kg K,
-Specific heat of water = 4.18 kJ/kg K.
-
-a | One end of a long rod, 25 mm in diameter is inserted into the furnace with
-
-the other end projecting in outside air. After steady state is reached, the
-
-7 temperature of the rod is measured at two points 76 mm apart and found to [10]
-SO-1; be 126°C and 91°C. The atmospheric air temperature is 27°C. If the heat
-oe transfer coefficient is 22.7W/m? °C determine the thermal conductivity of
-the rod.
-b | An oil cooler, of the concentric tube type is used for cooling oil at 65.5°C to
-54.4°C with water at 26.7°C with a temperature rise of 11.1°C. Assuming
-Son. overall heat transfer coefficient of 738 W/m? K based on outside area of the 0]
-BL-3 tubes. Determine the heat transfer surface area required for a design heat
-
-load of 190.5 kW for a single pass (a) parallel flow mode and (b) counter
-
-flow mode.
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper 62f915c76661
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/Heat Transfer , Re-exam 2021-22,2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 90.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Program/s: B Tech/ MBA Tech Stream/s ;Mechanical Year: TI Semester: VI
-
-Subject: Heat Transfer . Time: 3 __ hrs (2: Ooprato, St Oops)
-Date:_24/ é /2024 No. of Pages:03
-
-Marks: 100.
-
-‘Re-Examination (2021-22, 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-. 2) Out of remaining questions, attempt any__4 _ questions.
-3) In all_5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi :
-Answer briefly: [20]
-CO-1 ; SO- 7; BL-2 a. | Describe various modes of heat transfer with examples. [5]
-CO- 1; SO-7; BL-2 | b- | Explain types of boiling. [5]
-CO- 1; SO-7; BL-2 | © | Discuss shape factor with its different rules. [5]
-CO- 3; SO-7; BL-2 | 4. | Describe effectiveness of a heat exchanger. [5]
-a a | Show that under steady state operating conditions, the thermal resistance offered
-Q2 by a long hollow cylinder is given by
-, [10]
-CO-2; SO-1; BL-3 In)
-— ul
-Rot = Tk L
-
-b | Air at 20°C is flowing over a flat plate which is 200 mm wide and 500 mm long.
-The plate is maintained at 100°C. Find the heat loss from the plate if the air is
-
-CO-2; SO-1; BL-4 . oa. bs . . [10]
-flowing parallel to 500 mm side with 2 m/s velocity. What will be the effect on
-
-heat transfer if the flow is parallel to 200 mm side? Comment on the result.
-
-«
-
-Q3 a. | A motor body is 360 mm in diameter (outside) and 240 mm long. Its surface 110]
-CO-2; SO-1; BL-3 temperature should not exceed 55°C when dissipating 340W. Longitudinal fins of
---- page 2 ---
-i
-
-15 mm thickness and 40 mm height are proposed. The convection coefficient is 40
-W/m°K. Determine the number of fins required. Atmospheric temperature is 30°C.
-
-Thermal conductivity =40 W/m K.
-
-b. | In a straight tube of 60 mm diameter, water is flowing at a velocity of 12 m/s. The
-tube surface temperature is maintained at 70°C and the flowing water is heated
-from the inlet temperature 15°C to an outlet temperature of 45°C. Evaluate the
-CO-2; SO-1; BL-4 following : [10]
-1. The heat transfer coefficient from the tube surface to the water
-2. The heat transferred
-3. The length of the tube.
-
-a. | A 160 mm diameter pipe carrying saturated steam is covered by a layer of lagging
-
-material is covered by a layer of lagging of thickness of 40 mm (k= 0.8 W/m K).
-
-Q4 Later, an extra layer of lagging 10 mm thick (k= 1.2 W/ m°C) is added. If the 110)
-CO-2; SO-1; BL-3 surrounding temperature remains constant and heat transfer coefficient for both the
-lagging materials is 10 W/ m? K, determine the percentage change in the rate of
-
-heat loss due to extra lagging layer.
-
-b. | Calculate the net radiation heat exchange per m? area for two large parallel plates
-at temperatures of 427°C and 27°C respectively. € (notptatey= 0.9 and € (cold plate) = 0.6.
-
-CO-2; SO-1; BL-4 . . cay: [10]
-If a polished aluminum shield is placed between them, find the percentage
-
-reduction in the heat transfer , € (shieia) = 0.4
-
-a. | A hot mild steel sphere ( k = 42.5 W/m°C ) having 12mm diameter is planned to
-be cooled by an air flow at 27°C. The convective heat transfer coefficient is
-114W/m’K. Determine the following :
-
-Qs 1. Time required to cool the sphere from 540°C to 95°C. [10)
-CO-2; SO-1; BL-3 2. Instantaneous heat transfer rate 2 minutes after the start of cooling.
-3. Total energy transferred from the sphere during the first two minutes.
-Take mild steel properties as
-
-p =7850 kg/ m?, specific heat = 475 J/kg K and a = 0.043 m?/s
-
-b. | Derive an expression for logarithmic mean temperature difference (LMTD) in the
-
--3- SO-1: BL- 10
-CO) SO BLS case of parallel flow heat exchanger. iO}
-
-‘
---- page 3 ---
-a. | Acounter flow double pipe heat exchanger using superheated steam is used to hot
-water at the rate of 15500 kg /hr. The steam enters the heat exchanger at 180°C and
-
-leaves at 130°C. The inlet and exit temperatures of water are 30°C and 80°C
-
-6
-i SO-1; BL-4 respectively. If the overall heat transfer coefficient from steam to water is 785 10]
-W/m2°C calculate the heat transfer area. What would be the increase in area if the
-fluid flows were parallel?
-b. [06]
-CO-2; SO-1; BL-3 Explain physical significance of Nusselt number and Prandtl number.
-CO-2; $O-7; BL-3 Explain Reynolds—Colburn analogy. [04]
-a a. | A hot plate of 15cm? area maintained at temperature of 200°C is exposed to still air
-' at 30°C. When small side of the plate is held vertical the convective heat transfer
-Q7 rate is 14% higher than that when bigger side of the plate held vertical. Determine 110]
-CO-2; SO-1; BL-3 the dimensions of the plate. Neglecting the internal temperature gradients of the
-plate. Also calculate the heat transfer rate in both the cases.
-Use relation Nu = 0.59 (Gr Pr)
-b | Determine (a) the wavelength at which the spectral emissive power of a tungsten
-CO-2; SO-1; BL-3 filament at 1400K is maximum (b) the spectral emissive power at that [6]
-wavelength, and (c) the spectral emissive power at 5 pm.
-Gs
-CO-2; SO-7; BL-2 Define radiosity and intensity of radiation. [4]
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper 03c2de3cad6b
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/Heat Transfer, Sem-VI, Year 2022-23, Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 89.2
-
-````text
-Uuic ur y,
-LE SOS
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE
-Academic Year: 2022-2023 :
-Program/s: B Tech/MBA Tech Year: III Semester: VI
-Stream/s ; Mechanical
-Subject: Heat Transfer Time: 03 hrs (2:00 pmto 5:00 pm)
-Date:_26 /06 / 2023 No. of Pages:03
-
-Marks: 100
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
->, 2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all _5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of Heat and Mass transfer data book is permitted.
-
-Ql Answer briefly: [20]
-CO-1; SO-1; a. | Explain mechanism of conduction in solids, liquids and gases. Also state Fourier law of [05]
-BL-2 heat conduction.
-oe ;SO-1; | b. Explain all regimes of pool boiling curve. [05]
-Sr 3SO-15 Jc. Explain fouling in heat exchangers. Also discuss its causes. [eet
-mis" eet |) Define absorptivity, emissive power, shape factor, radiation intensity, and irradiation. Wwe
-(> | Q2 a. | Prove that the thermal resistance offered by a hollow long cylinder of constant thermal
-
-ro 10]
-CO-2; SO-2; ae _ in) [
-BL3 conductivity is given by Reytinaer = oe
-
-b. | Air at 20°C flows with a velocity of 3 m/s over a plate of 1200 mm (length) x 660 mm
-(width) x 35mm (thickness). The top surface of the plate is maintained at 124°C. If the
-CO-2; SO-2; thermal conductivity of the material is 25 W/m °C. [10]
-BL-4 Calculate:
-(a) Heat lost by the plate
-
-(b) Bottom temperature of the plate for the steady state condition.
-
-Q3 a. | An iron plate 3 cm thick (k=65W/m K) is in contact with asbestos insulation 2 cm thick
-CO-2; SO-2;
-BL-3
-
-[10]
-(k= 0.4W/m K) on one side and exposed to hot gas with a heat transfer coefficient of
---- page 2 ---
-300W/m’ K on the other surface. If the outer surface of the asbestos is exposed to cool
-air with a heat transfer coefficient of 45W/m?K, evaluate the overall heat transfer
-coefficient and the heat flow rate across the composite wall per square meter of the
-surface for a A T of 300°C between the hot gas and the cool air.
-
-Draw equivalent thermal resistance diagram of the system.
-
-A hot square plate 40 cm x40 cm at 100°C is exposed to atmospheric air at 20°C. Evaluate
-heat loss from both surfaces of the plate if (a) the plate is kept vertical (b) the plate is
-
-kept horizontal. Find the percentage change in heat loss.
-
-CO-2; SO-2;
-ae Empirical correlation can be used [10]
-Nu = 0.125 (Gr Pr) °° for vertical plate
-Nu = 0.72 (Gr Pr) °”° for upper surface
-Nu = 0.35 (Gr Pr) °° for lower surface
-A steel tube of length 20 cm with internal and external diameters of 10 and 12 cm is
-quenched from 500°C to 30°C in a large reservoir of water at 10°C. Below 100 °C the
-Qs heat transfer coefficient is 1.5 kW/m’K. Above 100°C it is less owing to a film of vapour
-res S02; being produced at the surface and an effective value between 500 and 100 is 0.5 kW/m? a
-K. The density of steel is 7800kg/m* and the specific heat is 0.47 kJ/kg K. Neglecting
-internal thermal resistance of the steel tube, determine the quenching time.
-A home air conditioning system uses a counter flow heat exchanger to cool 0.8 kg/s of
-CO-3:; $0-2; air from 45°C to 15 °C. The cooling is accomplished by a stream of cooling tower that
-ae enters the system with 0.5 kg/s flow rate and 8°C temperature. If the overall heat transfer | [8]
-coefficient is 35W/m°K calculate the heat exchanger area required? Use effectiveness
-NTU method. Take Cp air = 1.005 kJ/kg K, and Cp water = 4.186 kJ/kg K
-A body of an electric motor is 400 mm in diameter and 250 mm long is dissipating 460W
-Q5 of heat and its surface temperature should not exceed 50°C. Longitudinal fins of 12 mm
-CO-2; SO-2; thickness and 45 mm height are proposed. The heat transfer coefficient is 45 W/m? K [10]
-BL-4 when the ambient air is 30°C. Determine the number of fins required. If thermal
-conductivity of the fin material is 50W/m K.
-Two large parallel plate with emissivity 0.6 are maintained at different temperatures and
-CO-2; SO-2; exchange heat only by radiation. What percentage change in the radiative heat transfer 110]
-BL-3
-
-would occur if two equally large radiation shields with surface emissivity 0.06 are
-
-introduced in parallel to the plates?
---- page 3 ---
-A tube 10m long is maintained at 100°C by steam jacketing. A fluid flows through the
-tube at the rate of 3000 kg/ hr at 30°C. The diameter of the tube is 2cm. Find ‘out the
-
-Q6 average heat transfer coefficient.
-CO-2; SO2-; Take the following properties of the fluid [10]
-BL-3 Density = 8502 kg / m°, Specific Heat = 2000 J/kg K,
-Kinematic Viscosity = 5.1 x 10% m? /s and Thermal conductivity = 0.12 W/m K.
-Use Nur = 0.023 (Re) °* (Pr) '
-CO-3: $O-2: Derive for counter flow heat exchanger 0
-AT,_ AT,
-BL-3 AT tmea = aT [10]
-AT
-Q7 Answer the following: [20]
-CO-1; SO-1;
-ATS Define Grashof number (Gr) & Nusselt number (Nu) with its significance. [04]
-CO-1; SO-1;
-ae State the advantages of dimensional analysis. [04]
-CO-1; SO-1; ; [04]
-Discuss the Kirchhoff’s law of radiation.
-BL-2
-CO-1; SO-1; . [04]
-BLD Why radiation shield is used? Give its application in detail.
-CO-1; SO-1; ; . [04]
-BL Describe critical radius of insulation. Also state its applications.
-````
-
-## 2022-23 · Re-Exam · Sem 7 · paper 290a9eade57a
+## 2024-25 · Re-Exam · Sem 7 · paper 290a9eade57a
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
@@ -1564,6 +974,782 @@ The properties of air at 82°C are
 v=21.46 x 10-6 m2/s, ke= 30.38 x 10-3 W/mK, Pr = 0.699.
 CO-2; SO-7; BL-3 | >- | Define emissive power, spectral emissive power emissivity. [6]
 CO-2; SO-7; BL-2 c. | Explain view factor and its relations. [4]
+````
+
+## 2023-24 · Exam not stated · Sem 6 · paper 14d52b3805c2
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Heat Transfer/Heat Transfer.pdf`
+- Text: ocr (3 pages), mean OCR confidence 91.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
+SCHOOL OF TECHNOLOGY MANAGEMENT \
+
+Academic Year: 2023-2024
+Program/s: B Tech/ M BA Tech Stream/s ;Mechanical Year: IIT Semester: VI
+Subject: Heat Transfer Time: _O%3_hrs (2. pm to 5pm )
+Date:_1& / 04/2024 No. of Pages:03
+
+Marks: __ 100
+. Final Examination/Re-Examination (2021-22, 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+(> 3)Imall_5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: : [20]
+CO-1 ; SO-7 ; BL-2 | * | Define the physical mechanism of heat conduction in solids, liquids and gases. [5]
+CO-1 ; SO- 7; BL-2 b. | Explain boiling curve. [5]
+CO-3 ; SO-7 ; BL-2 | ¢- | Explain fouling. Also explain reasons of fouling. [5]
+CO-1 ; SO-7 ; BL-2 | 4. | Discuss the laws of radiation. [5]
+Q2 a_| Derive 3- D heat conduction equation in Cartesian co-ordinate system. [10]
+
+-
+CO-2; SO-1; BL-3
+
+b | Air at 30°C and at a atmospheric pressure flows at a velocity 2.2 m/s over a plate
+maintained at 90°C. The length and the width of the plate are 900 mm and 450 mm
+CO-2; SO-1; BL-4 [10]
+respectively. Calculate the heat transfer rate from,
+
+(i) first half of the plate ,(ii) full plate, and (iii) next half of the plate.
+
+a. | A steel rod (k= 30W/m K), 10 mm in diameter and 50 mm long, with an insulated end,
+
+is to be used as a spine. It is exposed to surroundings with a temperature of 65°C and a
+
+Q3
+CO-2; SO-1; BL-4
+
+heat transfer coefficient of 50W/m?°C. The temperature at the base of the fin is 98°C. | [10]
+Determine:
+
+1. The fin efficiency
+--- page 2 ---
+2. The temperature at the edge of the spine and am
+3. The heat dissipation
+
+CO-2; SO-1; BL-3
+
+Water is flowing through at the rate of 50 kg/min through a tube of inner diameter
+2.5cem. The inner surface of the tube is maintained at 100°C. If the temperature of water
+
+increases from 25°C to 55°C, find the length of the tube required.
+
+[10]
+
+Q4
+CO-2; SO-1; BL-3
+
+A thermopane (thermally insulated glass) window that is 0.6m long by 0.3 m wide
+comprises two 8mm thick pieces of glass sandwiching an 8 mm thick stagnant air space.
+The thermal conductivity of the glass is ].4W /m K and that of air is 0.025 W/mK. The
+window separates room air at 20°C from outside ambient air at -10°C. The convection
+coefficients associated with the inner (room side) and the outer (ambient) surfaces are
+10 W/m°K and 80 W/m’ K respectively.
+
+Determine the heat loss through the window and two surface temperatures. What would
+be the heat loss if the window had a single glass of 8 mm thickness instead of a
+
+thermopan?
+
+[10]
+
+om
+
+CO-2; SO-1; BL-3
+
+Two large parallel plates with « = 0.5 are maintained at different temperatures and
+exchanging heat only by radiation. Two equally large radiation shields with surface
+emissivity 0.04 are introduced in parallel to the plates. Find the percentage reduction
+
+in net radiation heat transfer.
+
+[10]
+
+Q5
+CO-2; SO-1; BL-4
+
+A mild steel sphere of 15 mm in diameter initially at 620°C is exposed to a current of
+air at 20°C with convective coefficient of 120 W/m°K. Determine the following :
+1. Time required to cool the sphere to 95°C.
+2. Initial rate of cooling in °C /s
+3. Instantaneous heat transfer rate at the end of one minute after the start of
+cooling.
+4. Total energy transferred from the sphere during the first one minute.
+Take mild steel properties as
+p =7850 kg/m’, specific heat = 474 J/kg K and a = 0.045 m?/s k= 43 W/n?C
+
+[10]
+
+CO-3; SO-1; BL-3
+
+A chemical is flowing at the rate of 40000 kg /hr enters a parallel flow heat exchanger
+at 120°C. The flow rate of cooling water is 1,00,000 kg /hr with an inlet temperature of
+
+20°C. The heat transfer area is 20 m? and the overall heat transfer coefficient is 2100
+
+[10]
+--- page 3 ---
+i
+
+W/m? K. Take specific heat of chemical = 3.3 kJ/kg K, specific heat of water = 4.186
+kJkkg K al
+Evaluate :
+
+1. The effectiveness of the heat exchanger.
+
+2. The outlet temperature of water and chemical.
+
+Q6
+CO-3; SO-1; BL-3
+
+Derive an expression for logarithmic mean temperature difference (LMTD) in the
+
+case of counter flow heat exchanger.
+
+[10]
+
+CO-2; SO-7; BL-2
+
+Discuss velocity and thermal boundary layer
+
+[06]
+
+© C02; S0-1; BL-3
+
+Explain Reynolds—Colburn analogy.
+
+[04]
+
+Q7
+CO-2; SO-1; BL-4
+
+A block 10 cm x 10 cm x 10 cm in size is suspended in still air at 10°C with one of its
+surfaces in horizontal position. All surfaces of the block are maintained at 150°C.
+
+Determine the total heat transfer rate from the block.
+
+[10]
+
+CO-2; SO-1; BL-3
+
+Determine (a) the wavelength at which the spectral emissive power of a tungsten
+filament at 1500K is maximum (b) the spectral emissive power at that wavelength,
+
+and (c) the spectral emissive power at 6 pm.
+
+[06]
+
+CO-2; SO-7; BL-2
+
+Explain view factor and its relations.
+
+[04]
+
+@-
+````
+
+## 2023-24 · Re-Exam · Sem 6 · paper 62f915c76661
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/Heat Transfer , Re-exam 2021-22,2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 90.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Program/s: B Tech/ MBA Tech Stream/s ;Mechanical Year: TI Semester: VI
+
+Subject: Heat Transfer . Time: 3 __ hrs (2: Ooprato, St Oops)
+Date:_24/ é /2024 No. of Pages:03
+
+Marks: 100.
+
+‘Re-Examination (2021-22, 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+. 2) Out of remaining questions, attempt any__4 _ questions.
+3) In all_5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi :
+Answer briefly: [20]
+CO-1 ; SO- 7; BL-2 a. | Describe various modes of heat transfer with examples. [5]
+CO- 1; SO-7; BL-2 | b- | Explain types of boiling. [5]
+CO- 1; SO-7; BL-2 | © | Discuss shape factor with its different rules. [5]
+CO- 3; SO-7; BL-2 | 4. | Describe effectiveness of a heat exchanger. [5]
+a a | Show that under steady state operating conditions, the thermal resistance offered
+Q2 by a long hollow cylinder is given by
+, [10]
+CO-2; SO-1; BL-3 In)
+— ul
+Rot = Tk L
+
+b | Air at 20°C is flowing over a flat plate which is 200 mm wide and 500 mm long.
+The plate is maintained at 100°C. Find the heat loss from the plate if the air is
+
+CO-2; SO-1; BL-4 . oa. bs . . [10]
+flowing parallel to 500 mm side with 2 m/s velocity. What will be the effect on
+
+heat transfer if the flow is parallel to 200 mm side? Comment on the result.
+
+«
+
+Q3 a. | A motor body is 360 mm in diameter (outside) and 240 mm long. Its surface 110]
+CO-2; SO-1; BL-3 temperature should not exceed 55°C when dissipating 340W. Longitudinal fins of
+--- page 2 ---
+i
+
+15 mm thickness and 40 mm height are proposed. The convection coefficient is 40
+W/m°K. Determine the number of fins required. Atmospheric temperature is 30°C.
+
+Thermal conductivity =40 W/m K.
+
+b. | In a straight tube of 60 mm diameter, water is flowing at a velocity of 12 m/s. The
+tube surface temperature is maintained at 70°C and the flowing water is heated
+from the inlet temperature 15°C to an outlet temperature of 45°C. Evaluate the
+CO-2; SO-1; BL-4 following : [10]
+1. The heat transfer coefficient from the tube surface to the water
+2. The heat transferred
+3. The length of the tube.
+
+a. | A 160 mm diameter pipe carrying saturated steam is covered by a layer of lagging
+
+material is covered by a layer of lagging of thickness of 40 mm (k= 0.8 W/m K).
+
+Q4 Later, an extra layer of lagging 10 mm thick (k= 1.2 W/ m°C) is added. If the 110)
+CO-2; SO-1; BL-3 surrounding temperature remains constant and heat transfer coefficient for both the
+lagging materials is 10 W/ m? K, determine the percentage change in the rate of
+
+heat loss due to extra lagging layer.
+
+b. | Calculate the net radiation heat exchange per m? area for two large parallel plates
+at temperatures of 427°C and 27°C respectively. € (notptatey= 0.9 and € (cold plate) = 0.6.
+
+CO-2; SO-1; BL-4 . . cay: [10]
+If a polished aluminum shield is placed between them, find the percentage
+
+reduction in the heat transfer , € (shieia) = 0.4
+
+a. | A hot mild steel sphere ( k = 42.5 W/m°C ) having 12mm diameter is planned to
+be cooled by an air flow at 27°C. The convective heat transfer coefficient is
+114W/m’K. Determine the following :
+
+Qs 1. Time required to cool the sphere from 540°C to 95°C. [10)
+CO-2; SO-1; BL-3 2. Instantaneous heat transfer rate 2 minutes after the start of cooling.
+3. Total energy transferred from the sphere during the first two minutes.
+Take mild steel properties as
+
+p =7850 kg/ m?, specific heat = 475 J/kg K and a = 0.043 m?/s
+
+b. | Derive an expression for logarithmic mean temperature difference (LMTD) in the
+
+-3- SO-1: BL- 10
+CO) SO BLS case of parallel flow heat exchanger. iO}
+
+‘
+--- page 3 ---
+a. | Acounter flow double pipe heat exchanger using superheated steam is used to hot
+water at the rate of 15500 kg /hr. The steam enters the heat exchanger at 180°C and
+
+leaves at 130°C. The inlet and exit temperatures of water are 30°C and 80°C
+
+6
+i SO-1; BL-4 respectively. If the overall heat transfer coefficient from steam to water is 785 10]
+W/m2°C calculate the heat transfer area. What would be the increase in area if the
+fluid flows were parallel?
+b. [06]
+CO-2; SO-1; BL-3 Explain physical significance of Nusselt number and Prandtl number.
+CO-2; $O-7; BL-3 Explain Reynolds—Colburn analogy. [04]
+a a. | A hot plate of 15cm? area maintained at temperature of 200°C is exposed to still air
+' at 30°C. When small side of the plate is held vertical the convective heat transfer
+Q7 rate is 14% higher than that when bigger side of the plate held vertical. Determine 110]
+CO-2; SO-1; BL-3 the dimensions of the plate. Neglecting the internal temperature gradients of the
+plate. Also calculate the heat transfer rate in both the cases.
+Use relation Nu = 0.59 (Gr Pr)
+b | Determine (a) the wavelength at which the spectral emissive power of a tungsten
+CO-2; SO-1; BL-3 filament at 1400K is maximum (b) the spectral emissive power at that [6]
+wavelength, and (c) the spectral emissive power at 5 pm.
+Gs
+CO-2; SO-7; BL-2 Define radiosity and intensity of radiation. [4]
+````
+
+## 2022-23 · Final-Exam · Sem 6 · paper db780742cca0
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/Heat Transfer, Sem-VI, Year 2022-23, Final Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2022-2023
+
+Program/s: B Tech /MBA Tech Year: III Semester: VI
+
+Stream/s ; Mechanical
+
+Subject: Heat Transfer Time: 03 hrs (2:00pmto 5:00 pm)
+Date:_20 / o4 / 2023 No. of Pages:03
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all _5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of Heat and Mass transfer data book is permitted.
+
+p
+
+Ql Answer briefly: [20]
+CO-1 ; SO-1; a. State Fourier’s Law of conduction using a neat sketch with its mathematical [05]
+BL-1 expression. Also explain the reason of negative sign in the expression.
+She bSOs15 Bi Explain different regimes of pool boiling curve. te
+Spo 3 BOM ° Classify heat exchangers in detail. [05]
+ad ae a State why radiation shield is used? Give its application in detail. [05]
+@ Q a. Derive 3-Dimensional, transient, heat conduction equation with heat generation in (10)
+eas SO-2, Cartesian coordinate system.
+b. Air at 20°C atmospheric pressure is flowing over a flat plate at a velocity of
+
+3 m/s. If the plate is 30 cm wide and at a temperature of 60°C,
+
+Calculate at x= 0.3m,
+CO-2; SO-2; (a) Thickness of velocity boundary layer and thermal boundary layer [10]
+BL-3 (b) Local and average skin friction coefficient
+
+(c) Total drag force on the plate
+(d) Local and average heat transfer coefficient
+
+(e) Heat Transfer rate
+--- page 2 ---
+An insulated steam pipe of 150 mm inner diameter and 170 mm of outer diameter is
+
+covered with insulation of 50 mm thickness and carries steam at 250°C.
+
+non. 50-2: K(pipey = 29W/m°C, K¢insutationy = 0.23 W/m°C. hi= 12.6 W/mK, [10]
+— ho= 25.2W/m’K,
+If the temperature of the air surrounding the pipe is 23°C, evaluate the heat loss to the
+surrounding from the pipe of 6 m length. Also find the interface temperatures.
+CO-2; $0-2; Water at the rate of 3 kg/s is heated from 5°C to 15°C by passing it through a Scm ID
+BL copper tube. Tube tube wall temperature is maintained at 90°C. Evaluate the length | [10]
+of the tube?
+It is better to use 20 fins of 5 cm length than 5 fins of 20 cm length. State and prove
+a correctness of the statement. Take properties as follows: LL
+aie aan Diameter of the fin = 10 mm, Thermal conductivity = 45W/m K 2]
+Heat transfer coefficient = 95 W/m’K
+A chemical at a rate of 25,000 kg/h enters a parallel flow heat exchanger at 130°C.
+The flow rate of cooling water is 55,000 kg/h with an inlet temperature of 25°C. The
+heat transfer area is 15 m’ and overall heat transfer coefficient is 1130W/m? K.
+me S0-2; Evaluate [8]
+1. The effectiveness of the heat exchanger,
+2. Outlet temperatures of water and chemical.
+Take Cp chemical = 4kJ/kg K and Cy water = 4.186 kJ/kg K .
+A 12 mm diameter mild steel sphere (k= 42.5 W/m°C) is exposed to cooling airflow
+at 27°C resulting in the convective coefficient h = 114W/m?°C.
+Evaluate the following:
+(a) Time required to cool the sphere from 540°C to 95°C. 2)
+ar SO2} (b) Instantaneous heat transfer rate 2 minutes after the start of cooling. 00]
+(c) Total energy transferred from the sphere during the first 2 minutes.
+For mild steel take density = 7850 kg/ m, specific heat = 475 J/kg K, thermal
+diffusivity = 0.043 m’/ hr
+Two large parallel plates with € = 0.4 are maintained at different temperatures and
+CO-2; SO-2; are exchanging heat only by radiation. Two equally large radiation sheets with surface 10]
+BL-4 emissivity 0.04 are introduced in parallel to the plates. Find the percentage reduction
+in net radiative heat transfer.
+Q6 A hot plate 3 m x 0.5 m at 130°C is kept vertically in still air at 20°C, Evaluate [10]
+CO-2; SO-2;
+--- page 3 ---
+BL-3 (a) Heat transfer coefficient
+(b) Heat transfer rate
+Assume 0.5 m side is vertical and assume convection takes place from both sides of
+the plate. ;
+Use Nur = 0.59 (Gr Pr) 4
+
+b. Derive for parallel flow heat exchanger
+CO-3; SO-2; AT, AT; [10]
+BL-4 AT imta = a
+In
+AT2
+
+Q7 Answer the following : [20]
+CO-1; SO-1; a.
+ae Describe velocity boundary layer and thermal boundary layer. [04]
+CO-1; SO-1; b. : .
+BL Define Grashof number and Nusselt number, also give their physical significance. [04]
+CO-1; SO-1; Ce
+
+Discuss the laws of radiation. [04]
+BL-2
+CO-1; SO-1; d.
+BL-2 Define irradiation (G), radiosity (J), shape factor. [04]
+CO-1; SO-1; e.
+BL-2 Differentiate forced and free convection. [04]
+````
+
+## 2022-23 · Final-Exam · Sem 7 · paper fbaf13e74759
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_07/HEAT TRANSFER/Heat Transfer Batch 2022 Final0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 22 November 2022
+- Text: ocr (4 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+~ SVKM’s NMIMS \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & epeaineHING. Ry Ji
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23
+
+Programme: B. Tech Integrated (Mechanical) 7 Year: IV Semester: VII
+Subject: Heat Transfer -
+
+Marks: 100 -
+Date: 22 November 2022 . Time: 10.00 am - 1.00 pm -
+
+Durations: 3 (Hrs) -
+
+No. of Pages: _0¥
+
+Final Examination
+
+Ihstructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all_5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of heat and mass transfer data book is permitted.
+
+Qi
+Answer briefly: [20]
+CO-1 ; a. | Describe the lumped heat capacity method with any one industrial
+SO- 7; oo [05]
+BL-l application.
+CO-1 ; b. | Explain Prandtl number and Nusselt number with their physical [05]
+SO- 7; Lo.
+BL3 significance.
+CO-1 ; c. ;
+SO- 1; Define the intensity of radiation and the solid angle. [05]
+BL-1
+CO-3 ; d. | Explain fouling and fouling factors in heat exchangers, as well as their
+SO-7 ; [05]
+BL-3 causes.
+a | An iron plate 2.5cm thick (k=62W/m K) is in contact with asbestos
+insulation 1cm thick (k= 0.2W/m K) on one side and exposed to hot gas with
+Q2 a heat transfer coefficient of 200W/m? K on the other surface. If the outer
+CO-2; surface of the asbestos is exposed to cool air with a heat transfer coefficient | [10] |
+aH of 40W/m’K, evaluate the overall heat transfer coefficient and the heat flow
+rate’across the composite wall per square meter of the surface for a AT of
+200°C between the hot gas and the cool air. |
+
+Yy
+--- page 2 ---
+Draw equivalent thermal resistance diagram of the system.
+
+b | Air at 20°C atmospheric pressure is flowing over a flat plate at a velocity of
+3 m/s. If the plate is 30 cm wide and at a temperature of 60°C, Calculate at
+x= 0.3m,
+
+(a) Thickness of velocity boundary layer and thermal boundary layer
+
+(b) Local and average skin friction coefficient
+
+CO-2;
+SO-1; (c) Total drag force on the plate [10]
+Bi-3 (d) Local and average heat transfer coefficient
+(e) Heat Transfer rate
+Take the following properties at 313K
+Density = 1.18 kg / m?, kinematic viscosity = 17 x 10% m?/s
+Thermal conductivity = 0.0272 W/ m K, specific heat = 1.007 kJ/kg K
+a | A 10 mm diameter mild steel sphere (k= 42W/m °C) is exposed to cooling
+air flow at 20°C resulting in the convective coefficient h= 110W/m?°C.
+== Determine the following:
+CO-2; [10]
+SO-1; (a) Time required to cool the sphere from 450°C to 80°C.
+BL-3 (b) Instantaneous heat transfer rate 3 minutes after the start of cooling.
+For mild steel take density=7850 kg/ m3 , specific heat= 475J/ kg °C
+CO-2; b_ | Air at 20°C and 1 atm flows over a heated plate with a velocity of 2m/s.
+SO-; The plate is at uniform temperature of 60°C, Calculate the heat transfer [10]
+Bie rate from (i) first 0.2m of the plate (ii) first 0.4m of the plate.
+a | An insulated steam pipe of 160 mm inner diameter and 180 mm of outer
+diameter is covered with insulation of 40 mm thickness and carries steam at
+Q4 200°C.
+cO-2: Kcpipey = 29W/m°C, K (insulation) = 0.23 W/m°C, hi= 11.6 W/m?K, 110]
+SO-1; | ho= 23.2W/m?K,
+ele If the temperature of the air surrounding the pipe is 25°C, calculate the heat _
+
+loss to the surrounding from the pipe of 5m length. Also find the interface
+
+temperatures.
+
+2h,
+--- page 3 ---
+b | Describe the purpose of radiation shield. Determine the radiant heat
+
+exchange in W/ m? between the two large parallel plates of emissivities 0.9
+
+Sou and 0.6 held at temperatures of 700 K and 300K respectively, ifa thin copper (10)
+BL-2,3 plate of emissivity 0.1 is introduced as a radiation shield between the two
+plates. |
+
+
+a | Water at 50°C enters 1.5cm diameter and 2.5m long tube with a velocity of
+
+Q5
+CO-2: 2m/s. The tube wall is maintained at 100°C. Calculate the heat transfer f10)
+SO-1; coefficient and total amount of heat transferred if the water exit temperature
+BL-3
+
+is 70°C.
+
+b | Describe shape factor in radiation.
+
+CO-2; 1 2
+SO-1; [10]
+BL-3
+
+3
+
+Calculate the shape factors for the tube having cross section of equilateral
+
+cross section as shown in the above figure.
+
+a Estimate the heat transfer rate from a 120 W incandescent bulb at 140°C to
+an ambient at 24°C. Approximate the bulb as 50 mm diameter sphere.
+
+Calculate the percentage of power lost by natural convection.
+
+Q6
+
+Use following correlation and air properties
+
+CO-2; econ pe? [10]
+
+SO-7; Nu = 0.6 (Gr Pr ) “
+
+BL-4 F F
+The properties of air at 82°C are =
+kinematic viscosity = 21.46 x 10° m? /s
+Thermal conductivity = 30.38 x 10? W/ m K, Pr = 0.699
+
+CO-3: b | A counter flow heat exchanger is used to heat water from 20°C to 80°C at a 110]
+
+SO-; rate of 1.2 kg / s. The heating is obtained by using liquid at 160°C at mass
+--- page 4 ---
+BL-4 flow rate of 2 kg /s. The inner tube is thin walled, and has a dimeter of 1.5cm.
+If the overall heat transfer is 640W/m? K. Evaluate the length of the
+exchanger required, the desired heating by using effectiveness- NTU
+method.
+
+Specific heat of liquid = 4.31 kJ /kg K,
+Specific heat of water = 4.18 kJ/kg K.
+
+a | One end of a long rod, 25 mm in diameter is inserted into the furnace with
+
+the other end projecting in outside air. After steady state is reached, the
+
+7 temperature of the rod is measured at two points 76 mm apart and found to [10]
+SO-1; be 126°C and 91°C. The atmospheric air temperature is 27°C. If the heat
+oe transfer coefficient is 22.7W/m? °C determine the thermal conductivity of
+the rod.
+b | An oil cooler, of the concentric tube type is used for cooling oil at 65.5°C to
+54.4°C with water at 26.7°C with a temperature rise of 11.1°C. Assuming
+Son. overall heat transfer coefficient of 738 W/m? K based on outside area of the 0]
+BL-3 tubes. Determine the heat transfer surface area required for a design heat
+
+load of 190.5 kW for a single pass (a) parallel flow mode and (b) counter
+
+flow mode.
+````
+
+## 2022-23 · Re-Exam · Sem 6 · paper 03c2de3cad6b
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/Heat Transfer, Sem-VI, Year 2022-23, Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 89.2
+
+````text
+Uuic ur y,
+LE SOS
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE
+Academic Year: 2022-2023 :
+Program/s: B Tech/MBA Tech Year: III Semester: VI
+Stream/s ; Mechanical
+Subject: Heat Transfer Time: 03 hrs (2:00 pmto 5:00 pm)
+Date:_26 /06 / 2023 No. of Pages:03
+
+Marks: 100
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+>, 2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all _5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of Heat and Mass transfer data book is permitted.
+
+Ql Answer briefly: [20]
+CO-1; SO-1; a. | Explain mechanism of conduction in solids, liquids and gases. Also state Fourier law of [05]
+BL-2 heat conduction.
+oe ;SO-1; | b. Explain all regimes of pool boiling curve. [05]
+Sr 3SO-15 Jc. Explain fouling in heat exchangers. Also discuss its causes. [eet
+mis" eet |) Define absorptivity, emissive power, shape factor, radiation intensity, and irradiation. Wwe
+(> | Q2 a. | Prove that the thermal resistance offered by a hollow long cylinder of constant thermal
+
+ro 10]
+CO-2; SO-2; ae _ in) [
+BL3 conductivity is given by Reytinaer = oe
+
+b. | Air at 20°C flows with a velocity of 3 m/s over a plate of 1200 mm (length) x 660 mm
+(width) x 35mm (thickness). The top surface of the plate is maintained at 124°C. If the
+CO-2; SO-2; thermal conductivity of the material is 25 W/m °C. [10]
+BL-4 Calculate:
+(a) Heat lost by the plate
+
+(b) Bottom temperature of the plate for the steady state condition.
+
+Q3 a. | An iron plate 3 cm thick (k=65W/m K) is in contact with asbestos insulation 2 cm thick
+CO-2; SO-2;
+BL-3
+
+[10]
+(k= 0.4W/m K) on one side and exposed to hot gas with a heat transfer coefficient of
+--- page 2 ---
+300W/m’ K on the other surface. If the outer surface of the asbestos is exposed to cool
+air with a heat transfer coefficient of 45W/m?K, evaluate the overall heat transfer
+coefficient and the heat flow rate across the composite wall per square meter of the
+surface for a A T of 300°C between the hot gas and the cool air.
+
+Draw equivalent thermal resistance diagram of the system.
+
+A hot square plate 40 cm x40 cm at 100°C is exposed to atmospheric air at 20°C. Evaluate
+heat loss from both surfaces of the plate if (a) the plate is kept vertical (b) the plate is
+
+kept horizontal. Find the percentage change in heat loss.
+
+CO-2; SO-2;
+ae Empirical correlation can be used [10]
+Nu = 0.125 (Gr Pr) °° for vertical plate
+Nu = 0.72 (Gr Pr) °”° for upper surface
+Nu = 0.35 (Gr Pr) °° for lower surface
+A steel tube of length 20 cm with internal and external diameters of 10 and 12 cm is
+quenched from 500°C to 30°C in a large reservoir of water at 10°C. Below 100 °C the
+Qs heat transfer coefficient is 1.5 kW/m’K. Above 100°C it is less owing to a film of vapour
+res S02; being produced at the surface and an effective value between 500 and 100 is 0.5 kW/m? a
+K. The density of steel is 7800kg/m* and the specific heat is 0.47 kJ/kg K. Neglecting
+internal thermal resistance of the steel tube, determine the quenching time.
+A home air conditioning system uses a counter flow heat exchanger to cool 0.8 kg/s of
+CO-3:; $0-2; air from 45°C to 15 °C. The cooling is accomplished by a stream of cooling tower that
+ae enters the system with 0.5 kg/s flow rate and 8°C temperature. If the overall heat transfer | [8]
+coefficient is 35W/m°K calculate the heat exchanger area required? Use effectiveness
+NTU method. Take Cp air = 1.005 kJ/kg K, and Cp water = 4.186 kJ/kg K
+A body of an electric motor is 400 mm in diameter and 250 mm long is dissipating 460W
+Q5 of heat and its surface temperature should not exceed 50°C. Longitudinal fins of 12 mm
+CO-2; SO-2; thickness and 45 mm height are proposed. The heat transfer coefficient is 45 W/m? K [10]
+BL-4 when the ambient air is 30°C. Determine the number of fins required. If thermal
+conductivity of the fin material is 50W/m K.
+Two large parallel plate with emissivity 0.6 are maintained at different temperatures and
+CO-2; SO-2; exchange heat only by radiation. What percentage change in the radiative heat transfer 110]
+BL-3
+
+would occur if two equally large radiation shields with surface emissivity 0.06 are
+
+introduced in parallel to the plates?
+--- page 3 ---
+A tube 10m long is maintained at 100°C by steam jacketing. A fluid flows through the
+tube at the rate of 3000 kg/ hr at 30°C. The diameter of the tube is 2cm. Find ‘out the
+
+Q6 average heat transfer coefficient.
+CO-2; SO2-; Take the following properties of the fluid [10]
+BL-3 Density = 8502 kg / m°, Specific Heat = 2000 J/kg K,
+Kinematic Viscosity = 5.1 x 10% m? /s and Thermal conductivity = 0.12 W/m K.
+Use Nur = 0.023 (Re) °* (Pr) '
+CO-3: $O-2: Derive for counter flow heat exchanger 0
+AT,_ AT,
+BL-3 AT tmea = aT [10]
+AT
+Q7 Answer the following: [20]
+CO-1; SO-1;
+ATS Define Grashof number (Gr) & Nusselt number (Nu) with its significance. [04]
+CO-1; SO-1;
+ae State the advantages of dimensional analysis. [04]
+CO-1; SO-1; ; [04]
+Discuss the Kirchhoff’s law of radiation.
+BL-2
+CO-1; SO-1; . [04]
+BLD Why radiation shield is used? Give its application in detail.
+CO-1; SO-1; ; . [04]
+BL Describe critical radius of insulation. Also state its applications.
 ````
 
 ## 2022-23 · Re-Exam · Sem 7 · paper 5e2b6627e452
@@ -2036,6 +2222,7 @@ BL-2 Explain heat exchanger effectiveness and efficiency. [05]
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_07/HEAT TRANSFER/Heat Transfer 2019-20 Final Batch 2018-19 Re Exam.pdf`
 - Printed on paper: exam date: 09 November 2019
 - Text: ocr (2 pages), mean OCR confidence 92.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2127,7 +2314,6 @@ B. Derive an expression for the LMTD for the Counter Flow Heat Exchanger. (6)
 A. Explain the various laws of radiation heat transfer. (8)
 B. Write short notes on the (i) Lumped parameter analysis (ii) Thermal boundary layer (6)
 
-he 9 os os 2 ee kee a 2 2 2 oe 2 a ea aE
 
 A
 ````
@@ -2457,6 +2643,7 @@ and water and also the effectiveness of the heat exchanger.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_07/HEAT TRANSFER/Heat Transfer 2018-19 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 13 November 2018
 - Text: ocr (2 pages), mean OCR confidence 91.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2577,7 +2764,6 @@ pressure. Calculate the heat loss from the wing if the flow is made to flow para
 The properties of air at average temperature 10 °C are : p= 0.9856 kg/m?; k= 2.511 x 10? W/m-K; v=
 14.16 x 10° m?/s and Pr= 0.705; You may use the relation Nu =0.036Re®® Pr°® (7)
 
-RARE KKK KKK ERK RRR RRERRRERKKERER
 
 ox
 ````
@@ -2706,6 +2892,144 @@ radiative heat transfer. ;
 
 |
 |
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper 6db6e18f074d
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_07/HEAT TRANSFER/Heat Transfer Batch 2017-18 Re Exam_6db6e18f07.pdf`
+- Printed on paper: duration hours: 3; exam date: 15 January 2019
+- Text: ocr (3 pages), mean OCR confidence 90.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+} Program: B.Tech Integrated (Mechanical) —
+| Academic Year: 2018-2019
+
+Pa ect: Heat Transfer _
+
+Date: 15 January 2019 Lo
+
+Durations: 3 (hrs) wie
+No. of Pages:__0% Seis NESS 7
+Re-examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1. Answer all questions. (2 x 6=12)
+a. Briefly explain the various modes of heat transfer.
+b. Explain the term “Fin efficiency”.
+c. Differentiate between the Free and Forced convection.
+d. Explain the significance of Reynolds number.
+e. Differentiate between the Parallel flow and Counter flow heat exchanger.
+f. Explain the term geometrical or shape factor.
+
+2. (a) Derive the general heat conduction equation in Cartesian co-ordinates. (8)
+(b) Consider a slab of thickness 0.25 m. One surface is kept at 100 °C and the other surface at 0 °C.
+determine the net flux across the slab if the slab is made from pure copper. Thermal conductivity
+
+of copper may be taken as 387.6 W/m-°C. (4)
+
+3. (a) Aluminium fins of rectangular profile are attached on a plane wall with 5 mm spacing. The fins
+have thickness 1 mm and length 10 mm and thermal conductivity of 200 W/m-K. The wall is
+maintained at a temperature 200 °C and the fins dissipate heat by convection into ambient air at
+40 °C, with heat transfer coefficient of 50 W/m?-K. Determine the heat loss. (6)
+
+(b) An average convective heat transfer coefficient for flow of 90 °C air over a flat plate is measured
+by observing the temperature time history of a 40 mm thick copper slab (p= 9000 kg/m3, c= 0.38
+kJ/kg-°C, k= 370 W/m-°C) exposed to 90 °C air. In one test run, the initial temperature of the plate
+was 200 °C and in 4.5 minutes the temperature decreased by 35 °C. Find the heat transfer
+coefficient for this case. Neglect internal thermal resistance. (6)
+
+7
+--- page 2 ---
+i
+
+4. (a) An electrically heated sphere of 1.5 cm diameter is cooled in an inert medium of air at 315 K. In
+order to maintain the surface temperature of the sphere at 385 K, estimate the amount of heat to be
+
+supplied by the electrical heater. Ambient temperature of air is 20°C. (6)
+The properties of air at T, = aS =350K are:
+
+v=2.076 x 10° m/s, Pr = 0.697, k = 0.03 W/m-K, B=2.86 x 10° K™
+
+Use the relation: Nu =2+0.43(Gr x Pry
+
+(b) Air at atmospheric pressure and 40 °C flows with a velocity of U= 5 m/s over a 2 m long flat plate
+whose surface is kept at a uniform temperature of 120 °C. Determine the average heat transfer
+coefficient over the 2 m length of the plate, aso, find out the rate of heat transfer between the plate
+and the air per 1 m width of the plate. [Air at 1 atm. and 80 °C,-v=2.107 x 10° m/s, k= 0.03025
+
+Wim-K, Pr= 0.6965] Use the relation: Nu = 0.664 Re” Pr°= (6)
+5. (a) In the figure 1 the areas A; and A2 are perpendicular but do not share the common edge. Find the
+shape factor F1-2 for the arrangement shown. (6)
+
+2m
+
+LAA,
+
+2m
+
+2m
+
+2m
+
+Figure 1
+(b) Calculate the following for an industrial furnace in the form of a black body and emitting radiation
+at 2000°C:
+i. Monochromatic emissive power at 1.2 wm length ,
+(Take the value of C, = 0.3742 x 107° W.m‘/m/7and C, =1.4388 x 10° m-K for Plank’s
+
+law)
+ii. Wavelength at which the emission is maximum,
+iii. Maximum emissive power,
+iv. Total emissive power, (6)
+
+6. (a) In a counter flow double pipe heat exchanger, water is heated from 25 °C to 65 °C by an oil with
+specific heat of 1.45 kJ/kg-K and mass flow rate of 0.9 kg/s. The oil is cooled from 230 °C to 160 °C.
+
+:
+--- page 3 ---
+If the overall heat transfer coefficient is 420 W/m?-°C. Calculate the rate of heat transfer, mass flow
+rate of water and the surface area of the heat exchanger. (6)
+
+(b) Derive an expression for the LMTD for the Counter Flow Heat Exchanger. (6)
+
+7. (a) The velocity distribution in the boundary layer is given by art where u is the velocity at a
+
+distance y from the plate and u=U aty=6, 6 being boundary layer thickness. Find the
+
+displacement thickness and momentum thickness (6)
+
+(b) Two horizontal panels separated by a distance of 30 mm contain air at atmospheric pressure. The
+
+temperatures of lower and upper panels are 55°C and 20.6°C respectively. Calculate the free
+
+convection heat transfer per square meter of the panel surface. (6)
+55+20.6
+
+Properties at mean temperature, T,= = 37.8 °C are
+
+p=l.l21 ke/m,v =0.171 x 104m? /'s,k = 29.2 x 10° W/m-°C,Pr =0.7, B= 3.22 x 10°K™
+
+You may use thé.relation; Nu = 0.195 Git
 ````
 
 ## 2018-19 · Re-Exam · Sem 7 · paper 87d2c1476bf7
@@ -2856,6 +3180,152 @@ p=1.121 kg/m,v =0.171 x 10¢m?/s,k=29.2 x 10° W/m—°C,Pr =0.7, B =3.22 x 10°
 You may use the relation; Nu =0.195 Gr
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper 6c886b412d74
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 January 2019
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+~— SVKM’S NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+d
+
+Program: MBA Tech (Mechanical) Year: Il | Semester: V
+. Academic Year: 2018-2019 '
+
+Subject: Heat Transfer -~ Marks: 70
+
+Time: 2.00 pm to 5.00 pm -
+
+Date: 15 January 2019 ~ Durations:3 (hrs)
+
+No. of Pages:__O2-
+Re-examination, (2017-18 / 2018-19) _-
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. ;
+
+MPs;
+TM
+
+LIBRA =
+
+Qi Attempt the following:(Any Four)
+(A) State Fourier’s law of heat conduction. Why is the negative sign used? [3.5]
+(B) What is a semi-infinite body? Define the error function. [3.5]
+(C) Define Grashof number. Explain its significance in natural convection heat transfer. [3.5]
+(D) Distinguish between a black body and gray body. [3.5]
+(E) What do you mean by fouling factor? What are the causes of fouling? [3.5]
+Q.2 (A) Show that the thermal resistance offered by a spherical wall of uniform k is given by. [7]
+M7 %
+Ankrjr,
+
+(B) A turbine blade 6 cm long and having a cross-sectional area 4.65 cm*and perimeter 12 cm, is [7]
+made of stainless steel (k=23.3 W/mK). The temperature at the root is 500%. The blade is
+exposed to a hot gas at 870&. The heat transfer coefficient between the blade surface and gas
+is 442 W/m°K. Determine the temperature distribution and rate of heat flow at the root of the
+blade. Assume the tip of the blade to be insulated. —
+
+Q.3 °(A) A tube 2 cm o.d. maintained at uniform temperature of T; is covered with insulation (k=0.20 [7]
+W/mK) to reduce heat loss to the ambient air at T.. with ha = 15 W/m’K.
+Find (i) the critical thickness of insulation (ii) the ratio of heat loss from the tube with insulation
+to that without insulation, if the thickness of insulation is equal to the critical thickness.
+
+Page 1 of 2
+--- page 2 ---
+Q4
+
+Qs
+
+Q.6
+
+Q.7
+
+(B)
+
+(A)
+
+(B)
+
+(A)
+
+(B)
+
+(A)
+
+(B)
+
+(A)
+
+(B)
+
+An aluminium sphere weighing 5.5 kg and initially at a temperature of 290°C is suddenly [7]
+immersed in a fluid at 15°C. The convective heat transfer coefficient is 58 W/m°K. Estimate the
+
+time required to cool the aluminium to 95°C, using the lumped capacity method of analysis. Take
+
+the properties of aluminium as p = 2700 kg/m’, c = 900 J/kgK, k = 205 W/mK.
+
+Define local and mean convective heat transfer coefficients. On what factors does the value of [6]
+h depends?
+
+A metal plate 0.609 m in height forms the vertical wall of an oven and is at a temperature of [8]
+171°C. Within the oven is air at a temperature of 93.4°C and atmospheric pressure. Assuming
+that natural convection conditions hold near the plate, and that for this case
+Nu = 0.548(Gr Pr)1/4
+Find the mean heat transfer coefficient and the heat taken up by air per second per meter width.
+For air at 132.2°C, take k = 33.2x10° kW/m K, p = 0.232x107 kg/ms, Cp = 1.005 kJ/kg K. Assume
+air as an ideal gas and R = 0.287 kJ/kg K.
+
+Given: Nitrogen gas at 0°C is flowing over a 1.2 m long, 2 m wide plate maintained at 80°C with [7]
+a velocity of 2.5 m/s. For nitrogen, p = 1.142 kg/m3, cp = 1.04 kJ/kgK, 9 = 15.63 x 107° m?/s and
+
+k = 0.0262 W/m K. To find: (i) The average heat transfer coefficient and (ii) the total heat transfer
+
+from the plate.
+
+A counter flow concentric tube heat exchanger is used to cool engine oil (c = 2130 J/kgK) from [7]
+160°C to 60°C with water, available at 25°C as the cooling medium. The flow rate of cooling water
+through the inner tube of 0.5 m diameter is 2 kg/s while the flow rate of oil through the outer
+annulus o.d. = 0.7 m is also 2 kg/s. If the value of the overall heat transfer coefficient is 250
+W/m?K, how long must the heat exchanger be to meet its cooling requirement?
+
+Derive Wien’s displacement law AmaxT = 2.898 x 107? mK from Planck’s equation. [7]
+
+A spherical ball 6 cm in diameter and 310 K is placed inside a large spherical furnace at 600 K. [7]
+Estimate the diameter of the spherical furnace such that 20% of the energy emitted by the
+furnace reaches the spherical ball. Assume the surfaces as black. What is the net exchange of
+energy between the two surfaces?
+
+How are heat exchangers classified? [7]
+
+A counter flow heat exchanger is to heat air entering at 400°C with a flow rate of 6 kg/s bythe [7]
+exhaust gas entering at 800°C with a flow rate of 4 kg/s. The overall heat transfer coefficient is
+
+100 W/m’K and the outlet temperature of air is 551.5°C. Specific heat of air, cp, for both air and
+exhaust gas can be taken as 1100 J/kgK. Calculate (i) the heat transfer area needed and (ii) the
+number of transfer units.
+
+Page 2 of 2
+````
+
 ## 2017-18 · Final-Exam · Sem 6 · paper 3f07be80cd0b
 
 - Departments: Mechanical
@@ -2988,6 +3458,7 @@ r 2)y_
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_07/HEAT TRANSFER/Heat Transfer 2017-18 Final.pdf`
 - Printed on paper: duration hours: 3; exam date: 22 November 2017
 - Text: ocr (2 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 |
@@ -3106,7 +3577,6 @@ following correlations and properties:
 
 Nu = 0.60 (Gr Pr). The properties of air at 82°C are Kinematic viscosity =
 
-v = 21.46 x 10 6 m’/s, K = 30.38 X 10 3 w/mK, Pr = 0.699.
 
 Prove that the total emissive power of black surface is x times the intensity
 
@@ -3367,6 +3837,115 @@ Take overall heat transfer coefficient as 0.943 kW/m’ K. [6]
 Se
 ````
 
+## 2017-18 · Re-Exam · Sem 6 · paper 783acbb45940
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAT_TRANSFER_BATCH_15-16_16-17_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 June 2018
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
+
+Programme: B. Tech (MECHANICAL) Year: III Semester: VI
+
+Batch: (2015-16 / 2016-17)
+Academic Year: 2017-18
+
+Subject: Heat Transfer
+Marks: 60
+
+Date: 30 June 2018 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+
+No. of Pages: __o2—
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.N.1 Answer any four from the following , 12
+(a) What is critical radius of insulation? Discuss its significance in industry.
+(b) What is lumped heat capacity method? What is the criterion to select a body as a lump?
+(c) Define Prandtl number and Nusselt number, discuss their significance in convective heat transfer.
+(d) Describe velocity boundary layer and thermal boundary layer.
+(e) Define the terms irradiation and radiosity. Establish a relationship between them.
+(f) What is meant by fouling factor? How does it affect the performance of heat exchanger?
+Q.N.2. A furnace wall is made up of refractory brick, fire brick and an outside plaster. There is an airgap 08
+(a) with a thermal resistance of 0.15m? K/W between the refractory brick and the fire brick. The
+refractory brick 100 mm thick has Ki= 1.58W/mkK. The fire brick, 100 mm thick, has K2= 0.3W/mkK.
+The outside plaster 15 mm thick has K3= 0.15W/mkK. The two extreme temperature of this wall are
+1000°C and 100°C.
+Determine (a) the heat flow rate in kJ/Hr m?, and (b) the interface temperature.
+(b) Define fin effectiveness and fin efficiency. 04
+Q.N.3(a) A cylindrical pin fin of 1cm diameter and 5cm length is attached to a wall at 250°C. The thermal 08
+conductivity of the fin material is 204W/mK. The fin is exposed to an environment at 50°C with a
+surface heat transfer of 200 W/m’K. Calculate the fin-tip temperature and the heat dissipation rate
+from the fin for the following four boundary conditions- (a) very long fin,(b) adiabatic fin tip and (c)
+convective fin tip.
+(b) Define Reynolds number and Grashof number and also give their physical significance. 04
+Q.N.4(a) Chromium -Steel bearings (k= 5OW/m K, a = 1.3 x 10° m?/s) are to be heat treated. They are 08
+heated to a temperature of 750°C and then quenched in an oil bath that has a temperature of 65°C.
+
+Ye
+--- page 2 ---
+The ball bearing have a diameter of 4cm. The heat transfer co-efficient between ball bearings and
+oil is 300W/m?K. Determine (a) The length of time the bearings must remain in oil before their
+temperature drops to 200°C and (b) The total amount of heat removed from each bearing during
+this time interval.
+(b) Explain Reynolds analogy with equations. 04
+Q.N.5(a) Air at 10°C and at a pressure of 100kPa is flowing over a plate at a velocity of 3m/s. If the plateis 06
+25 cm wide and at a temperature of 60°C. Calculate the following quantities at x= 0.25m
+(i) Thermal boundary layer thickness, ;
+(ii) Local heat transfer coefficient
+(iii) Local friction coefficient
+(iv) Total drag force
+(v) The heat transfer from the plate
+Use correlation Nux = 0.332 Rex °° Pr °33
+The thermo- physical properties of air at 35 °C are
+Density= 1.1373Kg/m? , p= 19x 10°Kg /ms, k+= 0.0272 W/mK, Pr=0.7, Cp= 1.006 kJ /kg k
+(b) Consider a rectangular plate 0.2m x 0.3m is maintained at a uniform temperature of 80°C. It is 06
+placed in atmospheric air at 24°C. Compare the heat transfer rates from the plate for the case when
+the vertical height is (a)0.2m and (b) 0.3 m, Use Nu. = 0.59 (Ra) “*
+Properties of air at 52°C are
+Kinematic viscosity= 1.822 x 10° m?/s , Pr = 0.703 , K air = 0.2814 W/mK,
+
+Q.N.6(a) Derive the parallel flow heat exchanger _ 06
+Effectiveness =2= et are) , where C= cmin
+
+(1+¢) Cmax
+(b) An oil cooler, of the concentric tube type is used for cooling oil at 65.5°C to 54.4°C with water at 06
+
+26.7°C with a temperature rise of 11.1°C. Assuming overall heat transfer coefficient of 738W/m°K
+based on the outside surface area of the tubes. Determine the heat transfer surface area required
+for a design heat load of 190.5 kW for a single pass (a) parallel flow (b) counter flow mode.
+
+Q.N.7(a) Two large parallel planes with emissivity 0.6 are at 950K and 350K. A radiation shield with one side 06
+polished and having emissivity of 0.05 while the emissivity of other side is 0.4 is proposed to be
+used. Which side of the shield to face the hotter plane, if the temperature of shield is to be kept
+minimum? Justify your answer.
+
+(b) Define shape factor. What is the physical significance of it? 02
+(c) Define absorptivity, emissivity, emissive power, reflectivity and transmissivity. 04
+
+7fo_
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper 6a70ac2b87e8
 
 - Departments: Mechanical
@@ -3598,288 +4177,197 @@ by e-NTU method. Consider heat exchanger effectiveness as ¢ = 0.94. Take Cp of 
 J/kgk [09]
 ````
 
-## 2017-18 · Re-Exam · Sem 7 · paper 6db6e18f074d
-
-- Departments: Mechanical
-- Programmes: B.TECH INTEGRATED / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_07/HEAT TRANSFER/Heat Transfer Batch 2017-18 Re Exam_6db6e18f07.pdf`
-- Printed on paper: duration hours: 3; exam date: 15 January 2019
-- Text: ocr (3 pages), mean OCR confidence 90.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-} Program: B.Tech Integrated (Mechanical) —
-| Academic Year: 2018-2019
-
-Pa ect: Heat Transfer _
-
-Date: 15 January 2019 Lo
-
-Durations: 3 (hrs) wie
-No. of Pages:__0% Seis NESS 7
-Re-examination (2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-1. Answer all questions. (2 x 6=12)
-a. Briefly explain the various modes of heat transfer.
-b. Explain the term “Fin efficiency”.
-c. Differentiate between the Free and Forced convection.
-d. Explain the significance of Reynolds number.
-e. Differentiate between the Parallel flow and Counter flow heat exchanger.
-f. Explain the term geometrical or shape factor.
-
-2. (a) Derive the general heat conduction equation in Cartesian co-ordinates. (8)
-(b) Consider a slab of thickness 0.25 m. One surface is kept at 100 °C and the other surface at 0 °C.
-determine the net flux across the slab if the slab is made from pure copper. Thermal conductivity
-
-of copper may be taken as 387.6 W/m-°C. (4)
-
-3. (a) Aluminium fins of rectangular profile are attached on a plane wall with 5 mm spacing. The fins
-have thickness 1 mm and length 10 mm and thermal conductivity of 200 W/m-K. The wall is
-maintained at a temperature 200 °C and the fins dissipate heat by convection into ambient air at
-40 °C, with heat transfer coefficient of 50 W/m?-K. Determine the heat loss. (6)
-
-(b) An average convective heat transfer coefficient for flow of 90 °C air over a flat plate is measured
-by observing the temperature time history of a 40 mm thick copper slab (p= 9000 kg/m3, c= 0.38
-kJ/kg-°C, k= 370 W/m-°C) exposed to 90 °C air. In one test run, the initial temperature of the plate
-was 200 °C and in 4.5 minutes the temperature decreased by 35 °C. Find the heat transfer
-coefficient for this case. Neglect internal thermal resistance. (6)
-
-7
---- page 2 ---
-i
-
-4. (a) An electrically heated sphere of 1.5 cm diameter is cooled in an inert medium of air at 315 K. In
-order to maintain the surface temperature of the sphere at 385 K, estimate the amount of heat to be
-
-supplied by the electrical heater. Ambient temperature of air is 20°C. (6)
-The properties of air at T, = aS =350K are:
-
-v=2.076 x 10° m/s, Pr = 0.697, k = 0.03 W/m-K, B=2.86 x 10° K™
-
-Use the relation: Nu =2+0.43(Gr x Pry
-
-(b) Air at atmospheric pressure and 40 °C flows with a velocity of U= 5 m/s over a 2 m long flat plate
-whose surface is kept at a uniform temperature of 120 °C. Determine the average heat transfer
-coefficient over the 2 m length of the plate, aso, find out the rate of heat transfer between the plate
-and the air per 1 m width of the plate. [Air at 1 atm. and 80 °C,-v=2.107 x 10° m/s, k= 0.03025
-
-Wim-K, Pr= 0.6965] Use the relation: Nu = 0.664 Re” Pr°= (6)
-5. (a) In the figure 1 the areas A; and A2 are perpendicular but do not share the common edge. Find the
-shape factor F1-2 for the arrangement shown. (6)
-
-2m
-
-LAA,
-
-2m
-
-2m
-
-2m
-
-Figure 1
-(b) Calculate the following for an industrial furnace in the form of a black body and emitting radiation
-at 2000°C:
-i. Monochromatic emissive power at 1.2 wm length ,
-(Take the value of C, = 0.3742 x 107° W.m‘/m/7and C, =1.4388 x 10° m-K for Plank’s
-
-law)
-ii. Wavelength at which the emission is maximum,
-iii. Maximum emissive power,
-iv. Total emissive power, (6)
-
-6. (a) In a counter flow double pipe heat exchanger, water is heated from 25 °C to 65 °C by an oil with
-specific heat of 1.45 kJ/kg-K and mass flow rate of 0.9 kg/s. The oil is cooled from 230 °C to 160 °C.
-
-:
---- page 3 ---
-If the overall heat transfer coefficient is 420 W/m?-°C. Calculate the rate of heat transfer, mass flow
-rate of water and the surface area of the heat exchanger. (6)
-
-(b) Derive an expression for the LMTD for the Counter Flow Heat Exchanger. (6)
-
-7. (a) The velocity distribution in the boundary layer is given by art where u is the velocity at a
-
-distance y from the plate and u=U aty=6, 6 being boundary layer thickness. Find the
-
-displacement thickness and momentum thickness (6)
-
-(b) Two horizontal panels separated by a distance of 30 mm contain air at atmospheric pressure. The
-
-temperatures of lower and upper panels are 55°C and 20.6°C respectively. Calculate the free
-
-convection heat transfer per square meter of the panel surface. (6)
-55+20.6
-
-Properties at mean temperature, T,= = 37.8 °C are
-
-p=l.l21 ke/m,v =0.171 x 104m? /'s,k = 29.2 x 10° W/m-°C,Pr =0.7, B= 3.22 x 10°K™
-
-You may use thé.relation; Nu = 0.195 Git
-````
-
-## 2017-18 · Re-Exam · Sem 5 · paper 6c886b412d74
+## 2017-18 · Re-Exam · Sem 5 · paper 8c4b0c285934
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 January 2019
-- Text: ocr (2 pages), mean OCR confidence 91.5
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 May 2018
+- Text: ocr (2 pages), mean OCR confidence 91.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-~— SVKM’S NMIMS .
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-d
+Programme: MBA Tech (Mechanical) Year: Ill Semester: V
 
-Program: MBA Tech (Mechanical) Year: Il | Semester: V
-. Academic Year: 2018-2019 '
+Batch: 2016-17 -
+Academic Year: 2017-2018
 
-Subject: Heat Transfer -~ Marks: 70
+Subject: Heat Transfer ~
+Marks: 60
 
-Time: 2.00 pm to 5.00 pm -
+Time: 2.00 pm to 5.00 pm
+Durations: 3 (Hrs)
+No. of Pages: _©O2-
 
-Date: 15 January 2019 ~ Durations:3 (hrs)
+Date: 29 May 2018 °
 
-No. of Pages:__O2-
-Re-examination, (2017-18 / 2018-19) _-
+Re-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. 1 is compulsory.
+1) Question No. | is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
 3) In all 5 questions to be attempted.
 
-4) All questions carry equal marks.
+4) All questions carry equal marks. .
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary. ;
+7) Assume Suitable data if necessary.
 
-MPs;
-TM
+Q.N.1 Answer any 4 of the following questions : 12
+(a) What are the different modes of heat transfer? Explain it.
+(6) What is lumped heat capacity analysis?
+(c) Define Reynold number and Biot number.
+(d) Give classification of heat exchangers.
+(e) What is Stefan Boltzman law?
 
-LIBRA =
+Q.N.2(a) What is critical radius of insulation? What is the significance of it? 4
 
-Qi Attempt the following:(Any Four)
-(A) State Fourier’s law of heat conduction. Why is the negative sign used? [3.5]
-(B) What is a semi-infinite body? Define the error function. [3.5]
-(C) Define Grashof number. Explain its significance in natural convection heat transfer. [3.5]
-(D) Distinguish between a black body and gray body. [3.5]
-(E) What do you mean by fouling factor? What are the causes of fouling? [3.5]
-Q.2 (A) Show that the thermal resistance offered by a spherical wall of uniform k is given by. [7]
-M7 %
-Ankrjr,
+(b) The composite wall of an over consists of three materials, two of them are of known thermal 8
+conductivity ka= 20W/m K and kc= 50W/m K and known thickness La= 0.3m and Le=0.15m. The
+third material B, which is sandwiched between material A and C is of known thickness, Lp= 0.15m,
+but of unknown thermal conductivity ks. An outer surface temperature of material C is 20°C and
+inner surface of A is 600°C and oven air temperature is 800°C. The inside convection coefficient is
+25W/m? K. What is the value of kp?
 
-(B) A turbine blade 6 cm long and having a cross-sectional area 4.65 cm*and perimeter 12 cm, is [7]
-made of stainless steel (k=23.3 W/mK). The temperature at the root is 500%. The blade is
-exposed to a hot gas at 870&. The heat transfer coefficient between the blade surface and gas
-is 442 W/m°K. Determine the temperature distribution and rate of heat flow at the root of the
-blade. Assume the tip of the blade to be insulated. —
+Q.N.3(a) One end of a long rod 4 cm diameter is inserted into a furnace with the outer end projecting into the 8
+outside air. The temperature of the rod is measured at two points, 16 cm apart and found to be 145°C
+and 98°C, when the atmospheric air is at 25°C with convection coefficient of 25W/m? K. Calculate
+the thermal conductivity of the rod material.
 
-Q.3 °(A) A tube 2 cm o.d. maintained at uniform temperature of T; is covered with insulation (k=0.20 [7]
-W/mK) to reduce heat loss to the ambient air at T.. with ha = 15 W/m’K.
-Find (i) the critical thickness of insulation (ii) the ratio of heat loss from the tube with insulation
-to that without insulation, if the thickness of insulation is equal to the critical thickness.
+(b) What is Fourier’s law of heat conduction? 4
 
-Page 1 of 2
+va
 --- page 2 ---
-Q4
+Q.N.4(a) A solid steel ball 6 cm in diameter and initially at 450°C is quenched in a controlled environment at
+90°C with convection coefficient of 115W/m’K. Determine the time taken by centre to reach a
+temperature of 150°C. Take thermo-physical properties as
+Cp= 420J/kg K , » = 8000 kg /m’, k = 46W/mK
 
-Qs
+(b) Define Prandtl number , Nusselt number also giver their significance.
 
-Q.6
+Q.N.5(a) Air at velocity of Sm/s and 20°C flows over a flat plate along its length. The length, width and
+thickness of the plate are 100cm, 50cm and Icm, respectively. The top surface of the plate at 100°C.
+Calculate the heat lost by the plate.
+Properties of air at 60°C
 
-Q.7
+(b) Define Grashof number and give its significance.
 
-(B)
+Q.N.6(a) A heat exchanger is required to cool 55000kg/h of chemical from 66°C to 40°C using 40000 kg/h of
+water entering at 5°C. Calculate surface area required for parallel flow and counter flow type of heat
+exchanger. Take overall heat transfer coefficient U = 580W/m? K,
 
-(A)
+CP chemical = 3760J/kg K, Cp water =4180J/kg K
 
-(B)
+(b) Discuss the difference between parallel and counter flow heat exchanger.
 
-(A)
+Q.N.7(a) Consider the following parallel flow heat exchanger specification:
+Cold water enters at 50°C: C.= 20,000 W/K
+Hot flow enters at 160°C, C,= 10,000W/k , A= 30m” , U = 500W/m?K
+Determine the heat transfer rate and outlet temperatures.
+(b) Define-
+(i) Emissive power
+(ii) Intensity of radiation,
+(iii) | Shape factor and its properties
 
-(B)
+Ae
+````
 
-(A)
+## 2017-18 · Re-Exam · Sem 5 · paper 1118a3cafd66
 
-(B)
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer 2016-17 Re-exam_1118a3cafd.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2017
+- Text: text (2 pages)
 
-(A)
-
-(B)
-
-An aluminium sphere weighing 5.5 kg and initially at a temperature of 290°C is suddenly [7]
-immersed in a fluid at 15°C. The convective heat transfer coefficient is 58 W/m°K. Estimate the
-
-time required to cool the aluminium to 95°C, using the lumped capacity method of analysis. Take
-
-the properties of aluminium as p = 2700 kg/m’, c = 900 J/kgK, k = 205 W/mK.
-
-Define local and mean convective heat transfer coefficients. On what factors does the value of [6]
-h depends?
-
-A metal plate 0.609 m in height forms the vertical wall of an oven and is at a temperature of [8]
-171°C. Within the oven is air at a temperature of 93.4°C and atmospheric pressure. Assuming
-that natural convection conditions hold near the plate, and that for this case
-Nu = 0.548(Gr Pr)1/4
-Find the mean heat transfer coefficient and the heat taken up by air per second per meter width.
-For air at 132.2°C, take k = 33.2x10° kW/m K, p = 0.232x107 kg/ms, Cp = 1.005 kJ/kg K. Assume
-air as an ideal gas and R = 0.287 kJ/kg K.
-
-Given: Nitrogen gas at 0°C is flowing over a 1.2 m long, 2 m wide plate maintained at 80°C with [7]
-a velocity of 2.5 m/s. For nitrogen, p = 1.142 kg/m3, cp = 1.04 kJ/kgK, 9 = 15.63 x 107° m?/s and
-
-k = 0.0262 W/m K. To find: (i) The average heat transfer coefficient and (ii) the total heat transfer
-
-from the plate.
-
-A counter flow concentric tube heat exchanger is used to cool engine oil (c = 2130 J/kgK) from [7]
-160°C to 60°C with water, available at 25°C as the cooling medium. The flow rate of cooling water
-through the inner tube of 0.5 m diameter is 2 kg/s while the flow rate of oil through the outer
-annulus o.d. = 0.7 m is also 2 kg/s. If the value of the overall heat transfer coefficient is 250
-W/m?K, how long must the heat exchanger be to meet its cooling requirement?
-
-Derive Wien’s displacement law AmaxT = 2.898 x 107? mK from Planck’s equation. [7]
-
-A spherical ball 6 cm in diameter and 310 K is placed inside a large spherical furnace at 600 K. [7]
-Estimate the diameter of the spherical furnace such that 20% of the energy emitted by the
-furnace reaches the spherical ball. Assume the surfaces as black. What is the net exchange of
-energy between the two surfaces?
-
-How are heat exchangers classified? [7]
-
-A counter flow heat exchanger is to heat air entering at 400°C with a flow rate of 6 kg/s bythe [7]
-exhaust gas entering at 800°C with a flow rate of 4 kg/s. The overall heat transfer coefficient is
-
-100 W/m’K and the outlet temperature of air is 551.5°C. Specific heat of air, cp, for both air and
-exhaust gas can be taken as 1100 J/kgK. Calculate (i) the heat transfer area needed and (ii) the
-number of transfer units.
-
-Page 2 of 2
+````text
+I' .
+~ I
+"
+..
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBATech (Mechanical)   Year: III   Semester: V
+Batch: 2016-17
+Academic Year: 2017-2018
+Subject: Heat Transfer
+Marks: 60
+Date: 24 November 2017   Time: 10.00 am - l.00 pm
+Durations: 3 Hrs
+No. of Pages: aL-
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+1) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Q.N.1   Answer any three questions from the following   12
+Ca)   Explain the mechanism of heat conduction in solids, liquids and gases.
+Cb)   What is the physical significance ofBiot number? Is this Biot number more likely to be large for
+highly conducting solids or poorly conducting ones?   .
+(c)   Define local and average heat transfer coefficients. On what factors does the value of h depends?
+(d)   Define effectiveness and NTU of a heat exchanger.
+(e)   What is a radiation intensity of a black body? How is it related to the total emissive power at a
+certain temperature?
+Q.N.2 A 1 mm diameter electric wire is covered with 3 mm thick layer of insulation [k= 0.5 W/m K). Air 06
+(a)   surrounding the wire is at 25°C and h= 10 W/m2K. The wire temperature is 100°e. Find (i) The rate of
+heat dissipation from the wire per unit length with and without insulation,   (ii) The critical radius of
+insulation, (iii)The maximum value of heat dissipation.
+(b)   An electric hot plateris maintained at a temperature of 4000 Cand is used to keep a solution boiling at 06
+950 e. The solution is contained in a cast iron vessel of wall thickness 30 mm which is enameled inside
+to a thickness of 0.8 mm. The heat transfer coefficient for the boiling solution is 4.5 kW/m2K and
+thermal conductivities of cast iron and enamel are 50 and l.05 W/m K respectively.
+Calculate (a) the overall heat transfer coefficient, and (b) the rate of heat transfer per unit area.
+Q.N.3 A 50 mm x 50 mm iron bar 0.5 m long is connected to the walls of two heated reservoirs, each at 06
+(a)   125°e. The ambient air temperature is 35 DCand the convective heat transfer coefficient is 18 W/m2K.
+Calculate the rate of heat loss from the bar and temperature midway between the reservoirs. The
+thermal conductivity of iron is 50 W/m K.
+--- page 2 ---
+•
+(b)   Steel ball bearings [k= 50 W/m K, a = 1.3 x 10-5 m2/s, p = 7800Kg/m3)   having a diameter of 40 mm
+are heated to a temperature of750 DC and then quenched in a tank of oil at 65 DC .Ifthe heat transfer
+coefficient between the ball bearing and oil is 300 W/m2 K r determine   (a) the duration of time the   06
+bearings must remain in oil to reach a temperature   of 250 DC, (b) the total amount of heat removed
+from each bearing during this time.
+Q.N.4   Derive the Energy Equation for a fluid element. What   is dissipation function? When   it can be 06
+(a)   neglected?
+(b)   With the help of Buckingham IT-theorem show that for forced convection heat transfer   06
+NUd= C Redm Pr",
+Q.N.5 A Maruti swift is travelling at a speed of 108 Km/hr on a highway where the ambient air temperature   06
+(a)   is 18De. The hood ofthe vehicle is at 42De. The hood may be approximated asa 1.2m square flat plate.
+Determine the rate of heat loss per kilometer. The following properties of air at the film temperature
+of 30 DC are
+Cp= 1.007 kJ/Kg K, 11=18.72 X 10-6 Kg/m s, k= 0.02588 W/m K   :
+(b)   What does Grashof number represent? How is it different than Reynolds number?   04
+(c)   What is the limitation   of LMTD method? How is E-NTU method superior to correction factor LMTD 02
+method?
+Q.N.6 A 4Kg /s producfstream   from a distillation column is to be cooled by a 3Kg/s water stream in a counter   06
+(a) .   flow heat exchanger. The hot and cold stream inlettemperatures   are 12JDC and 27 DC respectively and
+the area of the exchanger is 30 rrr'.   If the overall heat transfer coefficient   is estimated to be 820
+W/m2K, determine the product stream outlet temperature,   if its specific heat is 2500 J/Kg K and the
+coolant outlet temperature.
+(b)   Show that for parallel flow heat exchanger   06
+1- exp[-NTU(1 + R)]
+E=
+l+R
+Q.N.7 An enclosure measures 1.5 m x 1.7 m with a height of 2 m. The walls and ceiling are maintained at 04
+(a)   250DC and floor at BODe. The walls and ceiling have an emissivity of 0.82 and the floor 0.7. Determine
+the net radiation to the floor.
+(b)   Define absorptivity,   emissivitv, reflectivity and transmissivity.   04
+(c)   Define intensity of radiation. What is a solid angle? What is its unit?   04
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper 19c24cca6eb8
@@ -4255,113 +4743,109 @@ px: water and also the effectiveness of the heat exchanger.
 Page 2 of 2
 ````
 
-## 2016-17 · Re-Exam · Sem 6 · paper 783acbb45940
+## 2016-17 · Re-Exam · Sem 6 · paper dcf8a7441a22
 
 - Departments: Mechanical
 - Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAT_TRANSFER_BATCH_15-16_16-17_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 June 2018
-- Text: ocr (2 pages), mean OCR confidence 92.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAT TRANSFER MECHANICAL 14-15, 15-16 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
+- Text: ocr (2 pages), mean OCR confidence 93.3
 
 ````text
+ae sg
+
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
 
 Programme: B. Tech (MECHANICAL) Year: III Semester: VI
 
-Batch: (2015-16 / 2016-17)
-Academic Year: 2017-18
+@PSTME
+
+BC rise
+Academic Year: 2016-2017 Bi LisRaRy
 
 Subject: Heat Transfer
 Marks: 60
-
-Date: 30 June 2018 Time: 2.00 pm to 5.00 pm
+Date: 05 May 2017 Time: 2.00 pm to 5.00 pm
 Durations: 3 (hrs)
+No. of Pages:
+Final Examinations (Batch 2016-2017)/
+Re-Examination (Batch 2014-2015/ 2015-2016)
 
-No. of Pages: __o2—
-Re-Examination
+Instruction: Candidate should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Make suitable assumptions if needed with proper reasoning.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Q.1. Answer the following questions (any three): : [12]
+1. Differentiate between steady and transient heat conduction with specific example.
+2. Explain the significance of Nusselt, Reynolds, and Prandtl numbers in convection heat
+transfer,
+3. What are radiation shape factors and why are they used?
+4. Discuss the general arrangement of parallel flow, counter flow and crossflow heat
+exchangers.
 
-1) Question No. 1 is compulsory.
+Q. 2. (A) What is lumped capacity? What are the assumptions for lumped capacity analysis? [03]
+(B) A steam pipe, 10 cm in outer diameter is covered with two layers of insulation material
+each 2.5 cm thick, one having thermal conductivity thrice the other. Show that the effective
+thermal conductivity of two layers is approximately 15% less when better insulation
+material is placed as inside layer, than when it is on the outside. [09]
 
-2) Out of remaining questions, attempt any 4 questions.
+Q. 3. (A) Explain the criteria of selection of fins. Define fin efficiency. [03]
 
-3) In all 5 questions to be attempted.
+(B) The handle of a ladle used for pouring molten metal at 327°C is 30 cm long and is
+made of 2.5 cm x 1.5 cm mild steel bar stock (k=43 W/mK). In order to reduce the grip
+temperature it is proposed to make a hollow handle of mild steel plate 0.15 cm thick to the
+same rectangular shape. If the surface heat transfer coefficient is14.5 W/m?K and the
 
-4) All questions carry equal marks.
+) Vo_
 
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.N.1 Answer any four from the following , 12
-(a) What is critical radius of insulation? Discuss its significance in industry.
-(b) What is lumped heat capacity method? What is the criterion to select a body as a lump?
-(c) Define Prandtl number and Nusselt number, discuss their significance in convective heat transfer.
-(d) Describe velocity boundary layer and thermal boundary layer.
-(e) Define the terms irradiation and radiosity. Establish a relationship between them.
-(f) What is meant by fouling factor? How does it affect the performance of heat exchanger?
-Q.N.2. A furnace wall is made up of refractory brick, fire brick and an outside plaster. There is an airgap 08
-(a) with a thermal resistance of 0.15m? K/W between the refractory brick and the fire brick. The
-refractory brick 100 mm thick has Ki= 1.58W/mkK. The fire brick, 100 mm thick, has K2= 0.3W/mkK.
-The outside plaster 15 mm thick has K3= 0.15W/mkK. The two extreme temperature of this wall are
-1000°C and 100°C.
-Determine (a) the heat flow rate in kJ/Hr m?, and (b) the interface temperature.
-(b) Define fin effectiveness and fin efficiency. 04
-Q.N.3(a) A cylindrical pin fin of 1cm diameter and 5cm length is attached to a wall at 250°C. The thermal 08
-conductivity of the fin material is 204W/mK. The fin is exposed to an environment at 50°C with a
-surface heat transfer of 200 W/m’K. Calculate the fin-tip temperature and the heat dissipation rate
-from the fin for the following four boundary conditions- (a) very long fin,(b) adiabatic fin tip and (c)
-convective fin tip.
-(b) Define Reynolds number and Grashof number and also give their physical significance. 04
-Q.N.4(a) Chromium -Steel bearings (k= 5OW/m K, a = 1.3 x 10° m?/s) are to be heat treated. They are 08
-heated to a temperature of 750°C and then quenched in an oil bath that has a temperature of 65°C.
-
-Ye
+A
+bl
 --- page 2 ---
-The ball bearing have a diameter of 4cm. The heat transfer co-efficient between ball bearings and
-oil is 300W/m?K. Determine (a) The length of time the bearings must remain in oil before their
-temperature drops to 200°C and (b) The total amount of heat removed from each bearing during
-this time interval.
-(b) Explain Reynolds analogy with equations. 04
-Q.N.5(a) Air at 10°C and at a pressure of 100kPa is flowing over a plate at a velocity of 3m/s. If the plateis 06
-25 cm wide and at a temperature of 60°C. Calculate the following quantities at x= 0.25m
-(i) Thermal boundary layer thickness, ;
-(ii) Local heat transfer coefficient
-(iii) Local friction coefficient
-(iv) Total drag force
-(v) The heat transfer from the plate
-Use correlation Nux = 0.332 Rex °° Pr °33
-The thermo- physical properties of air at 35 °C are
-Density= 1.1373Kg/m? , p= 19x 10°Kg /ms, k+= 0.0272 W/mK, Pr=0.7, Cp= 1.006 kJ /kg k
-(b) Consider a rectangular plate 0.2m x 0.3m is maintained at a uniform temperature of 80°C. It is 06
-placed in atmospheric air at 24°C. Compare the heat transfer rates from the plate for the case when
-the vertical height is (a)0.2m and (b) 0.3 m, Use Nu. = 0.59 (Ra) “*
-Properties of air at 52°C are
-Kinematic viscosity= 1.822 x 10° m?/s , Pr = 0.703 , K air = 0.2814 W/mK,
+ambient temperature is at 27°C, estimate the reduction in the temperature of grip. Neglect
+the heat transfer from inner surface of the hollow shape. [09]
 
-Q.N.6(a) Derive the parallel flow heat exchanger _ 06
-Effectiveness =2= et are) , where C= cmin
+Q. 4. (A) What is the natural convection? Why the heat transfer coefficient for natural convection
+is much less than that for forced convection? [03]
+(B) Air at 50°C is flowing over a flat plate which is 200 mm wide and 500 mm long. The
+plate is maintained at 100°C. Find the heat loss per hour from the plate if the air is flowing
+parallel to 500 mm side with 2 m/s velocity. What will be the effect on heat transfer if the
+flow is parallel to 200 mm side?
+Use correlation: Nu = 0.664 Re°> Pr®-33
+The thermo-physical properties of air at bulk mean temperature 60°C:
+v= 18.97 x 10° m/s, K = 0,025 W/m K, Pr =0.7 [09]
+Q.5. (A) State and explain Stefan Boltzmann law. [03]
+(B) Three thin walled infinitely long hollow cylinders of radii 5 cm, 10 cm, 15 cm are
+arranged concentrically. T;, T2, T3 are the surfaces temperatures of cylinders starting from
+inside. T; = 1000 K, and T3 = 300K. Assuming ¢; = €2 = 3 = 0.05 and vacuum in the spaces
+between the cylinders, calculate the steady state temperature of cylindrical surface 2 and
 
-(1+¢) Cmax
-(b) An oil cooler, of the concentric tube type is used for cooling oil at 65.5°C to 54.4°C with water at 06
+heat flow per m’ area of cylinder 1. [09]
+Q.6. (A) What is LMTD correction factor? Why is a counter floe heat exchanger more effective
+than a parallel flow heat exchanger? [03]
 
-26.7°C with a temperature rise of 11.1°C. Assuming overall heat transfer coefficient of 738W/m°K
-based on the outside surface area of the tubes. Determine the heat transfer surface area required
-for a design heat load of 190.5 kW for a single pass (a) parallel flow (b) counter flow mode.
-
-Q.N.7(a) Two large parallel planes with emissivity 0.6 are at 950K and 350K. A radiation shield with one side 06
-polished and having emissivity of 0.05 while the emissivity of other side is 0.4 is proposed to be
-used. Which side of the shield to face the hotter plane, if the temperature of shield is to be kept
-minimum? Justify your answer.
-
-(b) Define shape factor. What is the physical significance of it? 02
-(c) Define absorptivity, emissivity, emissive power, reflectivity and transmissivity. 04
-
-7fo_
+(B) A counter flow heat exchanger is to heat air entering at 400°C with a flow rate of 6 kg/s
+by the exhaust gas entering at 800°C with a flow rate of 4 kg/s. The overall heat transfer
+coefficient is 100 W/m?K and the outlet temperature of air is 551.5 °C. Specific heat at
+constant pressure for both air and exhaust gas can be taken as 1100 J/kg k.
+Calculate: (i) The heat transfer area needed; (ii) The number of transfer units(NTU) — [09]
+Q. 7. (A) What is radiation shield? What is black body? [03]
+(B) A nuclear reactor with its core constructed of parallel vertical plates 2.2 m high and 1.4
+m wide has been designed on free convection heating of liquid bismuth. The maximum
+temperature of the plate surfaces is limited to 960°C while the lowest allowable
+temperature of bismuth is 340°C. Calculate the maximum possible heat dissipation from
+both sides of each plate. For the convection coefficient, the appropriate correlation is
+Nu = 0.13 (Gr. Pr)°333, where different parameters are evaluated at the mean film
+temperature.
+The thermo-physical properties of bismuth at bulk temperature 650°C are:
+p = 10% kg/m’, 1 = 8.66 x 10° kg/m-sec, Cp=150.7 J/kg°C, k = 13.02 W/m°C, Pr=0.01 [09]
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper 147065c1e733
@@ -4469,197 +4953,174 @@ diffuse body? [08]
 2h
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 8c4b0c285934
+## 2016-17 · Re-Exam · Sem 5 · paper 75e98ac78ab1
 
 - Departments: Mechanical
 - Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 May 2018
-- Text: ocr (2 pages), mean OCR confidence 91.3
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer Batch 2014-15 2015-16 Re Exam.pdf`
+- Printed on paper: exam date: 28 November 2016
+- Text: ocr (2 pages), mean OCR confidence 91.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (Mechanical) Year: Ill Semester: V
+Programme : MBA. Tech (Mechanical) Year : Il Semester: V
+Batch : 2014-15/2015-16
+Academic Year : 2016-2017
 
-Batch: 2016-17 -
-Academic Year: 2017-2018
-
-Subject: Heat Transfer ~
-Marks: 60
-
-Time: 2.00 pm to 5.00 pm
-Durations: 3 (Hrs)
-No. of Pages: _©O2-
-
-Date: 29 May 2018 °
+/
+Subject : Heat Transfer
+Date : 28 November 2016
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover cf the answerbeck.
 
-1) Question No. | is compulsory.
+NB:
 
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks. .
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.N.1 Answer any 4 of the following questions : 12
-(a) What are the different modes of heat transfer? Explain it.
-(6) What is lumped heat capacity analysis?
-(c) Define Reynold number and Biot number.
-(d) Give classification of heat exchangers.
-(e) What is Stefan Boltzman law?
-
-Q.N.2(a) What is critical radius of insulation? What is the significance of it? 4
-
-(b) The composite wall of an over consists of three materials, two of them are of known thermal 8
-conductivity ka= 20W/m K and kc= 50W/m K and known thickness La= 0.3m and Le=0.15m. The
-third material B, which is sandwiched between material A and C is of known thickness, Lp= 0.15m,
-but of unknown thermal conductivity ks. An outer surface temperature of material C is 20°C and
-inner surface of A is 600°C and oven air temperature is 800°C. The inside convection coefficient is
-25W/m? K. What is the value of kp?
-
-Q.N.3(a) One end of a long rod 4 cm diameter is inserted into a furnace with the outer end projecting into the 8
-outside air. The temperature of the rod is measured at two points, 16 cm apart and found to be 145°C
-and 98°C, when the atmospheric air is at 25°C with convection coefficient of 25W/m? K. Calculate
-the thermal conductivity of the rod material.
-
-(b) What is Fourier’s law of heat conduction? 4
-
-va
---- page 2 ---
-Q.N.4(a) A solid steel ball 6 cm in diameter and initially at 450°C is quenched in a controlled environment at
-90°C with convection coefficient of 115W/m’K. Determine the time taken by centre to reach a
-temperature of 150°C. Take thermo-physical properties as
-Cp= 420J/kg K , » = 8000 kg /m’, k = 46W/mK
-
-(b) Define Prandtl number , Nusselt number also giver their significance.
-
-Q.N.5(a) Air at velocity of Sm/s and 20°C flows over a flat plate along its length. The length, width and
-thickness of the plate are 100cm, 50cm and Icm, respectively. The top surface of the plate at 100°C.
-Calculate the heat lost by the plate.
-Properties of air at 60°C
-Cp= 1.005kJ /kg K, p = 1.06 kg /m?, ke = 0.02894W/mK, v= 18.97 x 10 © m/s, Pr= 0.696
-
-(b) Define Grashof number and give its significance.
-
-Q.N.6(a) A heat exchanger is required to cool 55000kg/h of chemical from 66°C to 40°C using 40000 kg/h of
-water entering at 5°C. Calculate surface area required for parallel flow and counter flow type of heat
-exchanger. Take overall heat transfer coefficient U = 580W/m? K,
-
-CP chemical = 3760J/kg K, Cp water =4180J/kg K
-
-(b) Discuss the difference between parallel and counter flow heat exchanger.
-
-Q.N.7(a) Consider the following parallel flow heat exchanger specification:
-Cold water enters at 50°C: C.= 20,000 W/K
-Hot flow enters at 160°C, C,= 10,000W/k , A= 30m” , U = 500W/m?K
-Determine the heat transfer rate and outlet temperatures.
-(b) Define-
-(i) Emissive power
-(ii) Intensity of radiation,
-(iii) | Shape factor and its properties
-
-Ae
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 1118a3cafd66
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer 2016-17 Re-exam_1118a3cafd.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2017
-- Text: text (2 pages)
-
-````text
-I' .
-~ I
-"
-..
-SVKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: MBATech (Mechanical)   Year: III   Semester: V
-Batch: 2016-17
-Academic Year: 2017-2018
-Subject: Heat Transfer
-Marks: 60
-Date: 24 November 2017   Time: 10.00 am - l.00 pm
-Durations: 3 Hrs
-No. of Pages: aL-
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
 1) Question No. 1 is compulsory.
+
 2) Out of remaining questions, attempt any 4 questions.
+
 3) In all 5 questions to be attempted.
-1) All questions carry equal marks.
+
+4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-Q.N.1   Answer any three questions from the following   12
-Ca)   Explain the mechanism of heat conduction in solids, liquids and gases.
-Cb)   What is the physical significance ofBiot number? Is this Biot number more likely to be large for
-highly conducting solids or poorly conducting ones?   .
-(c)   Define local and average heat transfer coefficients. On what factors does the value of h depends?
-(d)   Define effectiveness and NTU of a heat exchanger.
-(e)   What is a radiation intensity of a black body? How is it related to the total emissive power at a
-certain temperature?
-Q.N.2 A 1 mm diameter electric wire is covered with 3 mm thick layer of insulation [k= 0.5 W/m K). Air 06
-(a)   surrounding the wire is at 25°C and h= 10 W/m2K. The wire temperature is 100°e. Find (i) The rate of
-heat dissipation from the wire per unit length with and without insulation,   (ii) The critical radius of
-insulation, (iii)The maximum value of heat dissipation.
-(b)   An electric hot plateris maintained at a temperature of 4000 Cand is used to keep a solution boiling at 06
-950 e. The solution is contained in a cast iron vessel of wall thickness 30 mm which is enameled inside
-to a thickness of 0.8 mm. The heat transfer coefficient for the boiling solution is 4.5 kW/m2K and
-thermal conductivities of cast iron and enamel are 50 and l.05 W/m K respectively.
-Calculate (a) the overall heat transfer coefficient, and (b) the rate of heat transfer per unit area.
-Q.N.3 A 50 mm x 50 mm iron bar 0.5 m long is connected to the walls of two heated reservoirs, each at 06
-(a)   125°e. The ambient air temperature is 35 DCand the convective heat transfer coefficient is 18 W/m2K.
-Calculate the rate of heat loss from the bar and temperature midway between the reservoirs. The
-thermal conductivity of iron is 50 W/m K.
+
+7) Assume Suitable data if necessary
+
+Q.N.1 Answer the following questions (any three) 12
+(a) | Compare electrical analogy with a general conduction equation. Also state equivalent
+thermal resistance for a plane wall as in parallel and series combination.
+(b) What is Biot number? Give its physical significance.
+(c) What is meant by thermai boundary layer? State the relationship between thermal and
+velocity boundary layer.
+(d) | What is shape factor? State its properties.
+(e) | What is meant by fouling factor? How does it affect the performance of a heat exchanger?
+Q.N.2. A metal (k = 45 W /m K) steam pipe 5cm internal diameter and 6.5cm external diameter 12
+is lagged with a 2.75cm radial thickness of high temperature insulation having thermal
+conductivity 1.1W /m K . The surface heat transfer coefficients for inside and outside are
+4650 and 11.5 W /m’ K. If the steam temperature is 200°C and the ambient temperature is
+25°C.Determine
+(i) heat loss per meter length of pipe,
+(ii) temperature at the interfaces and
+(iii) overall coefficient of heat transfer referred to inside and outside surfaces.
+Q.N.3 Answer the following questions.
+(a) A glass rod (k= 3.45 k J /m hr °C ) of 15mm diameter and 65mm length is heated 150°C 06
+at its base and extended into air at 25°C. If the surface film coefficient is known to be
+26 k J / m? hr °C. Determine the temperature distribution and heat loss from the rod in
+
+— kJ/hr. Neglect heat flux through the tip of rod.
+(b) A die cast component has a mass of 1.5 Kg and density 7250 Kg / m’ with surface area 06
+ae] 0.08 m?. The component comes out of machine at 350 °C and is exposed to air at 25°C
+
+with convective coefficient 60 W /m?°C. Determine
+(1) Temperature of the component after 5 minutes,
+
+—If2—
 --- page 2 ---
-•
-(b)   Steel ball bearings [k= 50 W/m K, a = 1.3 x 10-5 m2/s, p = 7800Kg/m3)   having a diameter of 40 mm
-are heated to a temperature of750 DC and then quenched in a tank of oil at 65 DC .Ifthe heat transfer
-coefficient between the ball bearing and oil is 300 W/m2 K r determine   (a) the duration of time the   06
-bearings must remain in oil to reach a temperature   of 250 DC, (b) the total amount of heat removed
-from each bearing during this time.
-Q.N.4   Derive the Energy Equation for a fluid element. What   is dissipation function? When   it can be 06
-(a)   neglected?
-(b)   With the help of Buckingham IT-theorem show that for forced convection heat transfer   06
-NUd= C Redm Pr",
-Q.N.5 A Maruti swift is travelling at a speed of 108 Km/hr on a highway where the ambient air temperature   06
-(a)   is 18De. The hood ofthe vehicle is at 42De. The hood may be approximated asa 1.2m square flat plate.
-Determine the rate of heat loss per kilometer. The following properties of air at the film temperature
-of 30 DC are
-Cp= 1.007 kJ/Kg K, 11=18.72 X 10-6 Kg/m s, k= 0.02588 W/m K   :
-(b)   What does Grashof number represent? How is it different than Reynolds number?   04
-(c)   What is the limitation   of LMTD method? How is E-NTU method superior to correction factor LMTD 02
-method?
-Q.N.6 A 4Kg /s producfstream   from a distillation column is to be cooled by a 3Kg/s water stream in a counter   06
-(a) .   flow heat exchanger. The hot and cold stream inlettemperatures   are 12JDC and 27 DC respectively and
-the area of the exchanger is 30 rrr'.   If the overall heat transfer coefficient   is estimated to be 820
-W/m2K, determine the product stream outlet temperature,   if its specific heat is 2500 J/Kg K and the
-coolant outlet temperature.
-(b)   Show that for parallel flow heat exchanger   06
-1- exp[-NTU(1 + R)]
-E=
-l+R
-Q.N.7 An enclosure measures 1.5 m x 1.7 m with a height of 2 m. The walls and ceiling are maintained at 04
-(a)   250DC and floor at BODe. The walls and ceiling have an emissivity of 0.82 and the floor 0.7. Determine
-the net radiation to the floor.
-(b)   Define absorptivity,   emissivitv, reflectivity and transmissivity.   04
-(c)   Define intensity of radiation. What is a solid angle? What is its unit?   04
+(2) time constant,
+(3) Value of convective heat transfer coefficient up to which lumped parameter analysis is
+
+valid , take properties of the component- Thermal conductivity = 100 W/m K,
+Specific heat = 400J/Kg K
+
+Q.N.4_ Answer the following questions.
+
+(a)
+
+(b)
+
+QN.5
+(a)
+
+(b)
+
+QN.6
+(a)
+
+(b)
+QN.7
+(a)
+
+(b)
+
+What is Prandtl, Reynolds number and Nusselt number. Give physical significance of
+each number. -
+
+A flat plate 1 m x 1 m is. placed in a wind tunnel. The velocity and temperature of free
+stream air are 85m/s and 10°C respectively. The flow over the whole length of the plate is
+
+made turbulent by turbulizing grid placed upstream of the plate. The plate is maintained
+at 50°C. Determine.
+
+(1) Thickness of thermal boundary layer,
+
+(2) Heat flow from the surface of the plate.
+
+Use following properties of air ,
+
+
+Answer the following questions.
+
+A spherical heater of 10 cm diameter and at 60 °C is immersed in a tank of water at 20°C.
+
+Determine the value of convective heat transfer coefficient.
+
+Use general correlation Nu= 2 + 0.43 (Gr Pr) °75
+
+Properties of water at 40°C are;
+
+
+17 Kg/s of the product at 650 °C (Cp= 3.555 kJ/Kg K ), in a process plant are to be used
+to heat 25Kg/s of the incoming fluid from 100°C (Cp= 4.2 kI /Kg °C).If the overall heat
+transfer coefficient is 1.05 KW /m?°C and installed heat transfer surface is 50 m’, using
+NTU method, calculate the fluid outlet temperature for counter flow arrangement.
+
+Answer the following questions.
+
+Exhaust gases flowing through a tubular heat exchanger at the rate of 0.4 Kg /s are cooled
+from 450°C to 150°C by water initially at 15°C. The specific heats of exhaust gases and
+water may be taken as 1.13 and 4.19 kJ /Kg ° C respectively, and the overall heat transfer
+coefficient from gases to water is 140W /m’ °C. Calculate the surface area required for the
+following cases, when the cooling water flow is 0.5Kg/s.
+
+(i) Parallel flow, (ii) counter flow
+
+Derive expression for LMTD for parallel flow heat exchanger.
+
+Answer the following questions.
+
+Calculate the heat transfer rate per m? area by radiation between the surfaces of two long
+cylinders having radii 200 mm and 100 mm respectively. The smaller cylinder being in
+the larger cylinder. The axes of the cylinders are parallel to each other and separated by a
+distance of 20 mm. The surfaces. of inner and outer cylinders are maintained at 227°C and
+27 °C respectively. The emissivity of both the surfaces is 0.6.
+What is radiation shield? Why is it used?
+Define intensity of radiation and radiosity.
+
+06
+
+06
+
+06
+
+06
+
+06
+
+06
+
+04
+
+04
+04
 ````
 
 ## 2015-16 · Final-Exam · Sem 6 · paper 898f289863a7
@@ -4933,6 +5394,116 @@ space effectively forming black surrounding. The surface emissivity and temperat
 radiation from the tank, and suggests a possibility to reduce this heat loss. [08]
 ````
 
+## 2015-16 · Re-Exam · Sem 6 · paper 5f6de7fe050c
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAT TRANSFER B TECH (MECHANICAL), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/05/2016
+- Text: ocr (2 pages), mean OCR confidence 89.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Mechanical) Year: III Semester: VI
+Academic Year: 2015-16
+
+Batch: 2013-14
+
+§
+Subject: Heat Transfer Marks: 100
+
+Time: 2.00 p
+Date: 05/05/2016 Durations: 3 hr
+
+Re-Examination
+
+t. Question No. 1 is compulsory.
+
+2. Out of remaining questions attempt any four questions.
+
+3. In all Five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+NB:
+6. Figures in brackets on the right hand side indicate full marks.
+’. Assume suitable data if necessary.
+
+Q.1. Attempt the following (Any Four)
+(i) Differentiate between steady and transient heat conduction. (05)
+
+(ii) What do you understand by response of thermocouple? Also define time (05)
+constant.
+
+Gii) Write short note on - Fin efficiency. (05)
+
+(iv) What is the advantage of applying dimensional analysis to the case of (05)
+convection heat transfer?
+
+-_ (v) Define total emissive power and monochromatic emissive power. (05)
+(vi) Describe the LMTD. (05)
+Q.2 A Derive general heat conduction differential equation in Cartesian (10)
+
+co-ordinates.
+
+B Show that the thermal resistance offered by a spherical wall of uniform k (10)
+oo. ToTTi
+' is given by a
+
+Q.3 A. A 50 cm x 50 cm brass slab 10 mm thick has a uniform temperature of (10)
+pis 300°C. Its temperature is suddenly lowered to 30°C. Calculate the time
+required for the plate to reach the temperature of 100°C. Take
+p = 9000 kg/m?, Cy = 0.38 kJ /Kg°C, k=370W/m°C and
+h=90W/m?C.
+
+\/o_
+--- page 2 ---
+By... Pwo long rods of the same diameter, one made of brass (k=85 W/m K) and (10)
+me the Other made of copper (k=375 W/m K) have one of their ends inserted
+into the. furnace. Both of the rods are exposed to the same environment. At
+
+| a dist&nce 10.5 cm away from the furnace end, the temperature of the brass
+ve. _ fod is 120°C. At what distance from the furnace end the same temperature
+Baie, weoavquid be reached in the copper rod?
+ale.
+
+Q4 A Explain the physical significance of various dimensionless numbers used (10)
+in heat Convection.
+
+B _ A-yertical cylinder 1.5 m high and 180 mm in diameter is maintained at (10)
+“. 100°C in an atmosphere environment of 20°C. Calculate heat loss by free
+convection from the surface of the cylinder. Assume properties of air at
+mean temperature as p=1.06kg/m?, v=18.97 x 10-°m?/s,
+Cy = 1.004 kJ /kg°C and k = 0.1042kJ/mhr°C.
+
+Q.5 A Derive momentum equation for hydrodynamic layer over a flat plate. (10)
+
+B Derive an expression for the mean temperature difference in a parallel-flow (10)
+heat exchanger where the inlet and exit temperatures on the hot side are tp;
+and tp 9, While those on the cold side are t,; and t,9.
+
+Q.6 A. State and explain Planck’s distribution law of radiation. (10)
+
+B Find the shape factor between a small area A; and a circular plane disc of (10)
+area Az having radius ‘R’. Area A, is located symmetrically at the centre
+of the disc and the semivertex angle of the cone formed with the disc as
+base and A, as the vertex is a.
+
+Q.7 A Define fouling factor and LMTD correction factor. (10)
+
+B Hot water enters a counter-flow heat exchanger at 100°C. It is used to heat (10)
+a cool stream of water from 5°C to 30°C. The flow rate of cool stream is
+5000 kg/hr and the flow rate of hot stream is 10000 kg/hr. The overall heat
+transfer coefficient is 600 kcal/m* hr°C. What is the area of the heat
+exchanger? Calculate the effectiveness of heat exchanger.
+
+2]
+````
+
 ## 2015-16 · Re-Exam · Sem 6 · paper ea54363e355e
 
 - Departments: Mechanical
@@ -5066,111 +5637,6 @@ e) Classification of Heat Exchangers
 2/Z
 ````
 
-## 2015-16 · Re-Exam · Sem 6 · paper dcf8a7441a22
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAT TRANSFER MECHANICAL 14-15, 15-16 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-ae sg
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
-
-Programme: B. Tech (MECHANICAL) Year: III Semester: VI
-
-@PSTME
-
-BC rise
-Academic Year: 2016-2017 Bi LisRaRy
-
-Subject: Heat Transfer
-Marks: 60
-Date: 05 May 2017 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-No. of Pages:
-Final Examinations (Batch 2016-2017)/
-Re-Examination (Batch 2014-2015/ 2015-2016)
-
-Instruction: Candidate should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-7. Make suitable assumptions if needed with proper reasoning.
-
-Q.1. Answer the following questions (any three): : [12]
-1. Differentiate between steady and transient heat conduction with specific example.
-2. Explain the significance of Nusselt, Reynolds, and Prandtl numbers in convection heat
-transfer,
-3. What are radiation shape factors and why are they used?
-4. Discuss the general arrangement of parallel flow, counter flow and crossflow heat
-exchangers.
-
-Q. 2. (A) What is lumped capacity? What are the assumptions for lumped capacity analysis? [03]
-(B) A steam pipe, 10 cm in outer diameter is covered with two layers of insulation material
-each 2.5 cm thick, one having thermal conductivity thrice the other. Show that the effective
-thermal conductivity of two layers is approximately 15% less when better insulation
-material is placed as inside layer, than when it is on the outside. [09]
-
-Q. 3. (A) Explain the criteria of selection of fins. Define fin efficiency. [03]
-
-(B) The handle of a ladle used for pouring molten metal at 327°C is 30 cm long and is
-made of 2.5 cm x 1.5 cm mild steel bar stock (k=43 W/mK). In order to reduce the grip
-temperature it is proposed to make a hollow handle of mild steel plate 0.15 cm thick to the
-same rectangular shape. If the surface heat transfer coefficient is14.5 W/m?K and the
-
-) Vo_
-
-A
-bl
---- page 2 ---
-ambient temperature is at 27°C, estimate the reduction in the temperature of grip. Neglect
-the heat transfer from inner surface of the hollow shape. [09]
-
-Q. 4. (A) What is the natural convection? Why the heat transfer coefficient for natural convection
-is much less than that for forced convection? [03]
-(B) Air at 50°C is flowing over a flat plate which is 200 mm wide and 500 mm long. The
-plate is maintained at 100°C. Find the heat loss per hour from the plate if the air is flowing
-parallel to 500 mm side with 2 m/s velocity. What will be the effect on heat transfer if the
-flow is parallel to 200 mm side?
-Use correlation: Nu = 0.664 Re°> Pr®-33
-The thermo-physical properties of air at bulk mean temperature 60°C:
-v= 18.97 x 10° m/s, K = 0,025 W/m K, Pr =0.7 [09]
-Q.5. (A) State and explain Stefan Boltzmann law. [03]
-(B) Three thin walled infinitely long hollow cylinders of radii 5 cm, 10 cm, 15 cm are
-arranged concentrically. T;, T2, T3 are the surfaces temperatures of cylinders starting from
-inside. T; = 1000 K, and T3 = 300K. Assuming ¢; = €2 = 3 = 0.05 and vacuum in the spaces
-between the cylinders, calculate the steady state temperature of cylindrical surface 2 and
-
-heat flow per m’ area of cylinder 1. [09]
-Q.6. (A) What is LMTD correction factor? Why is a counter floe heat exchanger more effective
-than a parallel flow heat exchanger? [03]
-
-(B) A counter flow heat exchanger is to heat air entering at 400°C with a flow rate of 6 kg/s
-by the exhaust gas entering at 800°C with a flow rate of 4 kg/s. The overall heat transfer
-coefficient is 100 W/m?K and the outlet temperature of air is 551.5 °C. Specific heat at
-constant pressure for both air and exhaust gas can be taken as 1100 J/kg k.
-Calculate: (i) The heat transfer area needed; (ii) The number of transfer units(NTU) — [09]
-Q. 7. (A) What is radiation shield? What is black body? [03]
-(B) A nuclear reactor with its core constructed of parallel vertical plates 2.2 m high and 1.4
-m wide has been designed on free convection heating of liquid bismuth. The maximum
-temperature of the plate surfaces is limited to 960°C while the lowest allowable
-temperature of bismuth is 340°C. Calculate the maximum possible heat dissipation from
-both sides of each plate. For the convection coefficient, the appropriate correlation is
-Nu = 0.13 (Gr. Pr)°333, where different parameters are evaluated at the mean film
-temperature.
-The thermo-physical properties of bismuth at bulk temperature 650°C are:
-p = 10% kg/m’, 1 = 8.66 x 10° kg/m-sec, Cp=150.7 J/kg°C, k = 13.02 W/m°C, Pr=0.01 [09]
-````
-
 ## 2015-16 · Re-Exam · Sem 5 · paper 55fb78ccd70b
 
 - Departments: Mechanical
@@ -5283,177 +5749,6 @@ from roof to floor.
 9/4
 
 Ape
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 75e98ac78ab1
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer Batch 2014-15 2015-16 Re Exam.pdf`
-- Printed on paper: exam date: 28 November 2016
-- Text: ocr (2 pages), mean OCR confidence 91.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : MBA. Tech (Mechanical) Year : Il Semester: V
-Batch : 2014-15/2015-16
-Academic Year : 2016-2017
-
-/
-Subject : Heat Transfer
-Date : 28 November 2016
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover cf the answerbeck.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Q.N.1 Answer the following questions (any three) 12
-(a) | Compare electrical analogy with a general conduction equation. Also state equivalent
-thermal resistance for a plane wall as in parallel and series combination.
-(b) What is Biot number? Give its physical significance.
-(c) What is meant by thermai boundary layer? State the relationship between thermal and
-velocity boundary layer.
-(d) | What is shape factor? State its properties.
-(e) | What is meant by fouling factor? How does it affect the performance of a heat exchanger?
-Q.N.2. A metal (k = 45 W /m K) steam pipe 5cm internal diameter and 6.5cm external diameter 12
-is lagged with a 2.75cm radial thickness of high temperature insulation having thermal
-conductivity 1.1W /m K . The surface heat transfer coefficients for inside and outside are
-4650 and 11.5 W /m’ K. If the steam temperature is 200°C and the ambient temperature is
-25°C.Determine
-(i) heat loss per meter length of pipe,
-(ii) temperature at the interfaces and
-(iii) overall coefficient of heat transfer referred to inside and outside surfaces.
-Q.N.3 Answer the following questions.
-(a) A glass rod (k= 3.45 k J /m hr °C ) of 15mm diameter and 65mm length is heated 150°C 06
-at its base and extended into air at 25°C. If the surface film coefficient is known to be
-26 k J / m? hr °C. Determine the temperature distribution and heat loss from the rod in
-
-— kJ/hr. Neglect heat flux through the tip of rod.
-(b) A die cast component has a mass of 1.5 Kg and density 7250 Kg / m’ with surface area 06
-ae] 0.08 m?. The component comes out of machine at 350 °C and is exposed to air at 25°C
-
-with convective coefficient 60 W /m?°C. Determine
-(1) Temperature of the component after 5 minutes,
-
-—If2—
---- page 2 ---
-(2) time constant,
-(3) Value of convective heat transfer coefficient up to which lumped parameter analysis is
-
-valid , take properties of the component- Thermal conductivity = 100 W/m K,
-Specific heat = 400J/Kg K
-
-Q.N.4_ Answer the following questions.
-
-(a)
-
-(b)
-
-QN.5
-(a)
-
-(b)
-
-QN.6
-(a)
-
-(b)
-QN.7
-(a)
-
-(b)
-
-What is Prandtl, Reynolds number and Nusselt number. Give physical significance of
-each number. -
-
-A flat plate 1 m x 1 m is. placed in a wind tunnel. The velocity and temperature of free
-stream air are 85m/s and 10°C respectively. The flow over the whole length of the plate is
-
-made turbulent by turbulizing grid placed upstream of the plate. The plate is maintained
-at 50°C. Determine.
-
-(1) Thickness of thermal boundary layer,
-
-(2) Heat flow from the surface of the plate.
-
-Use following properties of air ,
-
-p= 1.25 Kg /m’, k= 0.022 W /mK, v= 14.15 x 10 * m/s, cp = 1000 J/Kg K
-
-Answer the following questions.
-
-A spherical heater of 10 cm diameter and at 60 °C is immersed in a tank of water at 20°C.
-
-Determine the value of convective heat transfer coefficient.
-
-Use general correlation Nu= 2 + 0.43 (Gr Pr) °75
-
-Properties of water at 40°C are;
-
-p = 992.2 Kg /m’, k= 0.633 W /m K, v= 0.659 x10 * m? /s, Pr= 4.34
-
-17 Kg/s of the product at 650 °C (Cp= 3.555 kJ/Kg K ), in a process plant are to be used
-to heat 25Kg/s of the incoming fluid from 100°C (Cp= 4.2 kI /Kg °C).If the overall heat
-transfer coefficient is 1.05 KW /m?°C and installed heat transfer surface is 50 m’, using
-NTU method, calculate the fluid outlet temperature for counter flow arrangement.
-
-Answer the following questions.
-
-Exhaust gases flowing through a tubular heat exchanger at the rate of 0.4 Kg /s are cooled
-from 450°C to 150°C by water initially at 15°C. The specific heats of exhaust gases and
-water may be taken as 1.13 and 4.19 kJ /Kg ° C respectively, and the overall heat transfer
-coefficient from gases to water is 140W /m’ °C. Calculate the surface area required for the
-following cases, when the cooling water flow is 0.5Kg/s.
-
-(i) Parallel flow, (ii) counter flow
-
-Derive expression for LMTD for parallel flow heat exchanger.
-
-Answer the following questions.
-
-Calculate the heat transfer rate per m? area by radiation between the surfaces of two long
-cylinders having radii 200 mm and 100 mm respectively. The smaller cylinder being in
-the larger cylinder. The axes of the cylinders are parallel to each other and separated by a
-distance of 20 mm. The surfaces. of inner and outer cylinders are maintained at 227°C and
-27 °C respectively. The emissivity of both the surfaces is 0.6.
-What is radiation shield? Why is it used?
-Define intensity of radiation and radiosity.
-
-06
-
-06
-
-06
-
-06
-
-06
-
-06
-
-04
-
-04
-04
 ````
 
 ## 2014-15 · Final-Exam · Sem 6 · paper 77d290a1bc4b
@@ -5773,6 +6068,289 @@ e. Explain hydro and thermal boundary layer phenomenon over the flat plate. (05)
 Romer
 ````
 
+## 2014-15 · Re-Exam · Sem 6 · paper c349e9006298
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAR TRANSFER B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
+- Text: ocr (2 pages), mean OCR confidence 92.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+x f
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: Il Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015
+
+Subject: Heat Transfer o/
+: Marks | '
+Dura
+
+er 3 (hrs) y
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Make suitable assumptions if needed with proper reasoning.
+
+QN.1 Answer the following questions (any five) 20
+
+(a) What is Fourier's Law of heat conduction? Also define thermal
+Diffusivity.
+
+(b) What is critical radius of insulation? Compare critical thickness of
+insulation for cylindrical and spherical objects.
+
+(C) Define effectiveness of the fin and compare effectiveness of different
+types of fins.
+
+(d) What is meant by Transient heat conduction? Give some industrial
+applications of the same.
+
+(€) What is Convective heat transfer? Also state Newton's law of cooling.
+
+(f) What is a Heat Exchanger? What is LMTD?
+
+(g) What is Stefan's Bolts Mann law? What is Intensity of radiation?
+
+Q.N.2 (a) Derive the heat conduction equation in Cartesian co-ordinates using an
+elemental volume for a stationary isotropic solid. State the assumptions 49
+made.
+
+(b) A furnace wall is composed of 220 mm of fire brick, 150 mm common
+brick, 50 mm of 85% magnesia and 3 mm of steel plate on the outside. If
+the inside surface temperature is 1500 °C and outside temp is 90 °C,
+estimate the temperatures between layers and calculate the heat loss in
+kJ/n-m’. Assume, k (for fire brick) = 4 kJ/m-h-°C, k (for common brick}
+= 2.8 kJ/m-h-°C, k (85% magnesia) = 0.24 kJ/m-h-°C, and k (steel) =
+240 kJ/m-h-°C,
+
+Q.N.3 (a) Find out the amount of heat transferred through an iron fin length 50
+mm, width100mm and thickness 5 mm. Assume k = 210 kJ/mh°C and h=
+42 kJ/m’h for the material of the fin and temperature at the base of the
+
+10
+
+a
+--- page 2 ---
+Q.N.4
+
+QNS
+
+QN6
+
+QN.7
+
+fin as 80°C. Also determine the temperature at the tip of the fin, if the
+atmosphere temperature is 20°C.
+
+(b) Derive an expression for instantaneous heat flow rate and total heat
+transfer under unsteady state heat conduction.
+
+(a) Sketch the hydrodynamic and thermal boundary layer development of a
+flow over a flat plate and explain the significance of the boundary layer.
+
+(b) Air at atmospheric pressure and 200°C flows over a plate with a velocity
+of 5 m/s. The plate is 15 mm wide and is maintained at a temperature of
+120°C, Calculate the thicknesses of hydrodynamic and thermal boundary
+
+layers and the loca! heat transfer coefficient at a distance of 0.5 m from
+the leading edge. Assume that flow is on one side of the plate.
+
+p = 0.815 kg/m; w = 24.5 x 107°Ns/m’; Pr = 0.7; k = 0.0364 W/mK.
+
+(a) What is Reynold's analogy? Describe the relation between fluid friction
+and heat transfer?
+
+(b) Calculate the heat transfer from a 60W incandescent bulb at 115°C to
+ambient air at 25°C. Assume the bulb as a sphere of 50 mm diameter.
+Also, find the percentage of power lost by free convection.
+
+The correlation is given by: Nu= 0.60 (Gr.Pr)".
+
+The thermo physical properties of air at 70°C are:
+
+K=2.964x107 W/m°C; 9= 20.02% 10° m’/s; Pr= 0.694.
+
+(a) Define emissivity, absorptivity and reflectivity.
+Explain the meaning of the term geometric factor in relation to heat
+exchange by radiation. Derive an expression for the geometric factor Fy;
+for the inside surface of a black hemispherical cavity of radius R with
+
+respect to itself.
+
+(b) Determine the radiant heat exchange in W/m? between two large parallel
+plates of emissivities0.8 and 0.5 held at temperatures of 1000 K and 500
+K respectively, if a thin copper plate of emissivity 0.1 is introduced as a
+radiation shield between the two plates. Use o = 5.67 x 1078 W/m?
+KA :
+
+(a) Give the classification of heat exchangers. Describe the principle of
+parallel flow and counter flow heat exchangers showing the axial
+temperature distribution.
+
+(b) In a certain double pipe heat exchanger hot water flows at a rate of
+50000 kg/h and gets cooled from 95°C to 65°C. At the same time 50000
+kg/h of cooling water at 30°C enters the heat exchanger. The flow
+conditions are such that overall heat transfer coefficient remains constant
+at 2270 W/m?K. Determine the heat transfer area required and the
+effectiveness, assuming two streams are in parallel flow. Assume for
+both the streams Cp= 4.2 ki/kgk.
+
+XK
+
+od
+QL
+
+10
+
+10
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper d8ba0cb9d962
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAT TRANSFER B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 91.0
+
+````text
+SVKM’s NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECH) Year: III Semester: VI
+Batch: 2013-14
+Academic Year: 2014-2015
+Subject: Heat Transfer
+Marks: aie
+Date: 29/06/2015 Time: “10. 00 « am to 4
+
+Durations: . 3 (hrs)
+
+Re-Examination SS
+ame
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Ail questions carry equai marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Q.N.1 Answer any four from the following questions- 20
+
+(a) State and explain Fourier’s Law of heat conduction.
+
+(b) What is critical radius of insulation?
+
+(c) Define fin effectiveness . When is the use of fin is not justified.
+
+(d) What is Grashoff number and Biot number?
+
+(e) Compare parallel floe and counter flow heat exchanger.
+
+(f) Define radiation intensity and radiosity.
+Q.N.2(a) Show that for a thin and long fin , heat transfer from fin tip to the surrounding is given by- 10
+Qen= VAPKA (To-To2)
+
+(b) An iron pipe of 20cm inner diameter and with 1.25 cm wall thickness is covered with a 10
+0.3cm thick layer of insulation whose outer surface is exposed to 26°C of ambient air. A
+liquid having temperature 200°C passes through the tube . The heat transfer coefficient of
+the inner liquid is 698W/m’K . The thermal conductivity of the steel is 75W/mK.
+Calculate the heat transfer rate and the overall heat transfer coefficient based on outer
+surface area for this system if the temperature at the mid point of the pipe is 170°C.
+
+Q.N.3{a) A 0.8m high, 1.5m wide doubie pane window consists of two 4 mm thick layers of glass 16
+(k=78W/mK) and is separated by a 10 mm wide stagnant air space (k= 0.026W/mK). The
+room is at 20°C and the outside air is at -10°C . The heat transfer coefficient are
+hy= 10 W/mK and h, = 40W/m°K.
+
+(b) A thermocouple, the junction of which can be approximated as a 1mm diameter sphere is 10
+used to measure the temperature of a gas stream . The propertiés of the junction are
+p = 8500Kg/m’, Cp = 320 J/Kg K and k= 35W/mkK. The heat transfer coefficient between
+the junction and gas is 210W/m?K . Determine how long it will take for the therrnocouple
+to read 99% of the initial temperature difference.
+
+Q.N.4(a) Explain physical significance of Prandtl number, Reynolds number, Nusselt number. 10
+
+t/p
+--- page 2 ---
+(b) Air at 27°C and latm flows over a flat plate at a velocity of 3m/s. Assume that the plate is 10
+heated over its entire length to a temperature of 70°C. Calculate the heat transfer in (a) the
+first 25cm of the plate and (b) the first 45cm of the plate. Given are the properties of air at
+48.5°C k= 0.02749W/mK , v= 17.36 x 10 © m’/s. Cp = 1.006 kJ /Kg K and Pr=0.7
+
+Q.N.5(a) With the help of Bukingham m — theorem show that for forced convection heat transfer 10
+N,=CR,™Pr*
+
+(b) A counter flow double- pipe heat exchanger is to heat water from 20°C to 80°C ata rate of 10
+1.2Kg/s. The heating is to accomplished by geothermal fluid available at 160°C at a mass
+flow rate of 2Kg/s. The inner tube is thin —walled and has a diameter of 1.5cm. If the
+overall heat transfer coefficient of the heat exchanger is 640W/m°K. Determine the length
+of the heat exchanger required to achieve the desired heating.
+
+Take C, of water is 4.18 kJ/Kg K and C, of geothermal fluid is 4.31 kJ/Kg K
+Q.N.6(a) Define the properties emissivity and absorptivity. When are these two properties equal to 06
+each other?
+
+(ob) Whatisa view facie ti 7 06
+(c) Explain Kirchhoff’s law. 08
+Q.N.7(a) Give classification of heat exchangers. 06
+
+(b) A counter flow heat exchanger is to heat air entering at 400°C with a flow rate of 6Kg/s by 10
+the exhaust gas entering at 800°C with a flow rate of 4Kg/s. The overall heat transfer
+coefficient is 100W/m?K and the outlet temperature of air is 550°C . Specific heat of air
+for both air and exhaust gas can be taken as 1100 J/ Kg K . Calculate (1) the heat transfer
+area needed and (2) the number of transfer units.
+
+(c) What is effectiveness of heat exchanger ? What is NTU? 04
+
+aie
+````
+
 ## 2014-15 · Re-Exam · Sem 6 · paper 690fe9803ec0
 
 - Departments: Mechanical
@@ -5780,6 +6358,7 @@ Romer
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAT TRANSFER B TECH (MECH), BATCH 2014-15 RE EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 29/06/2015
 - Text: ocr (2 pages), mean OCR confidence 91.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -5851,7 +6430,6 @@ Estimate the time required to cool the sphere to 105°C, Take thermo physical
 properties-
 4/2
 --- page 2 ---
-Cp = 900J/ Kg K, p= 2700Kg /m’, k = 205 W/ mK
 Q.N.4(a) Define Prandtl number and Grashof number along with their physical significance. 04
 (b) Air at velocity of 3m/s and at 20°C flows over a flat plate along its length. The 04
 length, width and thickness of the plate are 105 cm, 55 cm and 2cm respectively.
@@ -5899,6 +6477,250 @@ flows were parallel? C, water = 4.187 kJ/Kg K
 ?
 
 ofr
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper 969fe91f7c35
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer 2013-14 Re-exam.pdf`
+- Printed on paper: exam date: 29/11/2014
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (MECH) Year: III Semester: V
+
+Academic Year: 2014-15 Batch: 2013-14
+
+Subject : Heat Transfer
+
+Date : 29/11/2014 Time : 10.00
+Durations: 3 (
+
+Re - Examination
+
+f MPs a ye)
+NB:
+
+1. Question no. 1 is compulsory, answer any four from the remaining questions.
+
+2. All questions carry equal marks.
+
+3. Answer to each new questions to be started on a fresh page.
+
+4. Figures on the right hand side indicate full marks.
+5. Make suitable assumptions if needed with proper reasoning.
+
+LQQ pm p a :
+
+Q.N.1 Answer the following questions (any four) 20
+(a) Name and explain briefly the various mode of heat transfer.
+(b) Explain thermal contact resistance.
+(c) What is shape factor? State its properties.
+(d) Explain the difference between convective heat transfer coefficient and
+overall heat transfer coefficient.
+(e) What is critical thickness of insulation?
+
+Q.N.2. (a) Derive Fourier’s differential equation in the Cartesian co-oridainate. What 10
+are the assumptions to be made to get the following equation from the
+above?
+
+16T
+
+27T=
+el a at
+
+(b) A square plate heater (size 15cm x 15cm) is inserted between two slabs. Slab 10
+A is 2 cm thick (k= 50W/mK) and slab B is 1 cm thick(k= 0.2W/mK). The
+outside heat transfer coefficients on both sides of A & B are 200 & 250
+W/m’ K respectively. Temperature of surrounding air is 25°C. If the rating of
+heater is 1 kW, find:
+(1) Maximum temperature in the system,
+(2) Outer surface temperatures of two slabs.
+Draw the equivalent circuit for the systems.
+
+4/2.
+--- page 2 ---
+Q.N.3 (a) Show that the thermal conductance resistance offered by hollow sphere wall 10
+
+of uniform thermal conductivity is given by
+Lames 8
+
+4tk nr
+
+(b) A carbon steel (k = 54W/mK) rod with a cross section of an equilateral 10
+triangle (each side 5mm) is 80mm long. It is attached to a plane wall which
+is maintained at a temperature of 400°C. The surrounding environment is at
+50°C and unit surface conductance (h) is 90W/m°K. Compute the heat
+dissipated by the rod. Consider the tip of fin to be insulated.
+Q.N.4 (a) A solid copper sphere of 10cm diameter [p = 8954Kg/m*, Cp = 383 J/Kg K, 10
+k=386W/mK], initially at a uniform temperature t= 250°C, is suddenly
+immersed in a well-stirred fluid which is maintained at a uniform
+temperature ty= 50°C.Tne heat transfer coefficient between the sphere and
+the fluid is h= 200W/m°K. Determine the temperature of the copper block at
+t = Smin after the immersion.
+
+(b) 1. What are the advantages and limitations of the dimensional analysis? 5
+2. What are the dimensionless numbers? Give the physical significance of at 5
+least two dimensionless numbers.
+Q.N.5 (a) Explains Reynolds analogy with proper derivation. 10
+(b) Air at 24°C is flowing with a velocity of 0.4m/s across a 100W bulb at 10
+
+130°C. If the bulb is approximated by a 65mm diameter sphere. Calculate
+the heat transfer rate and percentage power loss due to convection.
+Use correlation: ¥™ = 0.37 (Re ) for 25< Re < 1x 105
+
+Properties of air at bulk mean temperature —
+K=0.03W/mK, v= 2.08x10°m?/s, Pr= 0.687
+
+Q.N.6 (a. Explain the basic differences between a free convection and forced 10
+Convection. How the Grashof number and Rayleigh number are used in free
+Convection?
+(b) Explain and prove the Wien’s displacement law: A, T= 2.9mm K 10
+Q.N.7 (a) How are the heat exchangers classified ? 5
+(b) State and prove Kirchoff’s law of radiation. 5
+(c) A parallel flow heat exchanger has hot and cold water streams running 10
+
+through it. The flow rates are 10K g/min and 25Kg/min and inlet
+
+temperatures are 70°C and 25°C on hot and cold sides respectively. The exit
+— temperature of hot water is 50°C. Calculate the area of the heat exchanger if
+
+individual heat transfer coefficients are 700W/m°K on both sides.
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper 0d2814160212
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 09/06/2015
+- Text: ocr (2 pages), mean OCR confidence 90.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (MECHANICAL) Year:III Semester: V
+
+Academic Year: 2014-15
+Batch: 2013-14
+
+Subject : Heat Transfer Matis: 100 ” ss T \
+» =
+
+Time 230.00 am't8 Kod s
+Darang 3 (hrs) _ °
+Re-Examination “hag ~ ivEREN *
+
+Sas rn
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on athe
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Date : 09/06/2015
+
+4
+
+Q.N.1 Answer any four from the following questions- 20
+(a) Explain basic modes of heat transfer.
+(b) What is Fourier’s law of heat conduction?
+(c) Define Biot number and Fourier number.
+(d) Explain velocity boundary layer and Thermal boundary layer.
+(e) Give classification of heat exchangers.
+(f) Define solid angle and Irradiation.
+Q.N.2(a) Derive three dimensional general heat conduction equation in Cartesian co-ordinates 10
+(b) A hollow cylinder with rj, = 30mm and roy = 50mm , k= 15W/mK , is heated on the 10
+inner surface at a rate of 10° W/m’ and dissipates heat by convection from the outer
+surface to a fluid at 100°C with h= 400W/m’K. Find out the temperatures of inner and
+outer surfaces of the cylinder.
+
+Q.N.3(a) A thermocouple, the junction of which can be approximated as a 1.5mm diameter 10 ©
+sphere is used to measure the temperature of a gas stream . The properties of the
+junction ‘are p = 8500Kg/m3, Cp = 320J/Kg K and k= 35W/mK. The heat transfer
+coefficient between the junction and gas is 200W/m’K . Determine how long it will take
+for the thermocouple to read 99% of the initial texanera
+
+(b) Determine the heat transfer rate ‘irom the rectangular fin of length 20cm, width 40cm 10
+and thickness 2cm. The tip of the fin is not insulated and, the fin has a thermal
+conductivity of 150W/mK. The base temperature is 100°C and the fluid is at 20°C. The
+heat transfer coefficient between the fin and the fluid is 30W/n’K. i
+
+Q.N.4(a) Explain physical significance of Prandtl number, Reynolds number, Nusselt number. 10
+
+ture difference.
+
+(b) With the help of Bukingham 2 — theorem show that for forced convection heat transfer 10
+Nu=CR.™ Pr”
+
+Q.N.5(a) Air at 27°C and latm flows over a flat plate at a velocity of 2.5m/s. Assume that the 10
+
+62.
+--- page 2 ---
+(b)
+
+QN.6(a)
+(b)
+(c)
+Q.N.7(a)
+(b)
+
+plat is heated over its entire length to a temperature of 70°C. Calculate the heat transfer
+in (a) the first 20cm of the plate and (b) the first 40cm of the plate. Given are the
+properties of air at 48.5°C k= 0.02749 W/mK , v= 17.36 x 10% m?/s,
+
+
+A counter flow heat exchanger is to heat air entering at 400°C with a flow rate of
+6.5Kg/s by the exhaust gas entering at 800°C with a flow rate of 4.5 Kg/s. The overall
+heat transfer coefficient is 100W/m°K and the outlet temperature of air is 550°C .
+Specific heat of air for both air and exhaust gas can be taken as 1100 J/ Kg K . Calculate
+(1) the heat transfer area needed and (2) the number of transfer units.
+
+What do you mean by radiation shield ? Where it is used?
+
+Explain what is absorptivity, reflectivity and transmissivity.
+
+Explain Kirchhoff’s law.
+
+Derive formula for log mean temperature difference for parallel flow heat exchanger.
+
+A counter flow double- pipe heat exchanger is to heat water from 20°C to 80°C at a rate
+of 1.2Kg/s. The heating is to accomplished by geothermal fluid available at 160°C at a
+mass flow rate of 2Kg/s. ‘The inner tube is thin -walled and has a diameter of 1.5cm. If
+the overall heat transfer coefficient of the heat exchanger is 640W/m’K. Determine the
+length of the heat exchanger required to achieve the desired heating.
+
+Take C, of water is 4.18kJ/Kg K and C, of geothermal fluid is 4.31kJ/Kg K
+
+——_— x —
+
+10
+
+06
+06
+08
+12
+08
 ````
 
 ## 2013-14 · Final-Exam · Sem 6 · paper 69ed37ab6a3f
@@ -6257,400 +7079,6 @@ see
 2 4 6 8 10
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper c349e9006298
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAR TRANSFER B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 05/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-x f
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: Il Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015
-
-Subject: Heat Transfer o/
-: Marks | '
-Date: 05/05/2015 Tima @( + 4 bOv0® Bry t pm
-Dura
-
-er 3 (hrs) y
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Make suitable assumptions if needed with proper reasoning.
-
-QN.1 Answer the following questions (any five) 20
-
-(a) What is Fourier's Law of heat conduction? Also define thermal
-Diffusivity.
-
-(b) What is critical radius of insulation? Compare critical thickness of
-insulation for cylindrical and spherical objects.
-
-(C) Define effectiveness of the fin and compare effectiveness of different
-types of fins.
-
-(d) What is meant by Transient heat conduction? Give some industrial
-applications of the same.
-
-(€) What is Convective heat transfer? Also state Newton's law of cooling.
-
-(f) What is a Heat Exchanger? What is LMTD?
-
-(g) What is Stefan's Bolts Mann law? What is Intensity of radiation?
-
-Q.N.2 (a) Derive the heat conduction equation in Cartesian co-ordinates using an
-elemental volume for a stationary isotropic solid. State the assumptions 49
-made.
-
-(b) A furnace wall is composed of 220 mm of fire brick, 150 mm common
-brick, 50 mm of 85% magnesia and 3 mm of steel plate on the outside. If
-the inside surface temperature is 1500 °C and outside temp is 90 °C,
-estimate the temperatures between layers and calculate the heat loss in
-kJ/n-m’. Assume, k (for fire brick) = 4 kJ/m-h-°C, k (for common brick}
-= 2.8 kJ/m-h-°C, k (85% magnesia) = 0.24 kJ/m-h-°C, and k (steel) =
-240 kJ/m-h-°C,
-
-Q.N.3 (a) Find out the amount of heat transferred through an iron fin length 50
-mm, width100mm and thickness 5 mm. Assume k = 210 kJ/mh°C and h=
-42 kJ/m’h for the material of the fin and temperature at the base of the
-
-10
-
-a
---- page 2 ---
-Q.N.4
-
-QNS
-
-QN6
-
-QN.7
-
-fin as 80°C. Also determine the temperature at the tip of the fin, if the
-atmosphere temperature is 20°C.
-
-(b) Derive an expression for instantaneous heat flow rate and total heat
-transfer under unsteady state heat conduction.
-
-(a) Sketch the hydrodynamic and thermal boundary layer development of a
-flow over a flat plate and explain the significance of the boundary layer.
-
-(b) Air at atmospheric pressure and 200°C flows over a plate with a velocity
-of 5 m/s. The plate is 15 mm wide and is maintained at a temperature of
-120°C, Calculate the thicknesses of hydrodynamic and thermal boundary
-
-layers and the loca! heat transfer coefficient at a distance of 0.5 m from
-the leading edge. Assume that flow is on one side of the plate.
-
-p = 0.815 kg/m; w = 24.5 x 107°Ns/m’; Pr = 0.7; k = 0.0364 W/mK.
-
-(a) What is Reynold's analogy? Describe the relation between fluid friction
-and heat transfer?
-
-(b) Calculate the heat transfer from a 60W incandescent bulb at 115°C to
-ambient air at 25°C. Assume the bulb as a sphere of 50 mm diameter.
-Also, find the percentage of power lost by free convection.
-
-The correlation is given by: Nu= 0.60 (Gr.Pr)".
-
-The thermo physical properties of air at 70°C are:
-
-K=2.964x107 W/m°C; 9= 20.02% 10° m’/s; Pr= 0.694.
-
-(a) Define emissivity, absorptivity and reflectivity.
-Explain the meaning of the term geometric factor in relation to heat
-exchange by radiation. Derive an expression for the geometric factor Fy;
-for the inside surface of a black hemispherical cavity of radius R with
-
-respect to itself.
-
-(b) Determine the radiant heat exchange in W/m? between two large parallel
-plates of emissivities0.8 and 0.5 held at temperatures of 1000 K and 500
-K respectively, if a thin copper plate of emissivity 0.1 is introduced as a
-radiation shield between the two plates. Use o = 5.67 x 1078 W/m?
-KA :
-
-(a) Give the classification of heat exchangers. Describe the principle of
-parallel flow and counter flow heat exchangers showing the axial
-temperature distribution.
-
-(b) In a certain double pipe heat exchanger hot water flows at a rate of
-50000 kg/h and gets cooled from 95°C to 65°C. At the same time 50000
-kg/h of cooling water at 30°C enters the heat exchanger. The flow
-conditions are such that overall heat transfer coefficient remains constant
-at 2270 W/m?K. Determine the heat transfer area required and the
-effectiveness, assuming two streams are in parallel flow. Assume for
-both the streams Cp= 4.2 ki/kgk.
-
-XK
-
-od
-QL
-
-10
-
-10
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper d8ba0cb9d962
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAT TRANSFER B TECH (MECH), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECH) Year: III Semester: VI
-Batch: 2013-14
-Academic Year: 2014-2015
-Subject: Heat Transfer
-Marks: aie
-Date: 29/06/2015 Time: “10. 00 « am to 4
-
-Durations: . 3 (hrs)
-
-Re-Examination SS
-ame
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) Ail questions carry equai marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Q.N.1 Answer any four from the following questions- 20
-
-(a) State and explain Fourier’s Law of heat conduction.
-
-(b) What is critical radius of insulation?
-
-(c) Define fin effectiveness . When is the use of fin is not justified.
-
-(d) What is Grashoff number and Biot number?
-
-(e) Compare parallel floe and counter flow heat exchanger.
-
-(f) Define radiation intensity and radiosity.
-Q.N.2(a) Show that for a thin and long fin , heat transfer from fin tip to the surrounding is given by- 10
-Qen= VAPKA (To-To2)
-
-(b) An iron pipe of 20cm inner diameter and with 1.25 cm wall thickness is covered with a 10
-0.3cm thick layer of insulation whose outer surface is exposed to 26°C of ambient air. A
-liquid having temperature 200°C passes through the tube . The heat transfer coefficient of
-the inner liquid is 698W/m’K . The thermal conductivity of the steel is 75W/mK.
-Calculate the heat transfer rate and the overall heat transfer coefficient based on outer
-surface area for this system if the temperature at the mid point of the pipe is 170°C.
-
-Q.N.3{a) A 0.8m high, 1.5m wide doubie pane window consists of two 4 mm thick layers of glass 16
-(k=78W/mK) and is separated by a 10 mm wide stagnant air space (k= 0.026W/mK). The
-room is at 20°C and the outside air is at -10°C . The heat transfer coefficient are
-hy= 10 W/mK and h, = 40W/m°K.
-
-(b) A thermocouple, the junction of which can be approximated as a 1mm diameter sphere is 10
-used to measure the temperature of a gas stream . The propertiés of the junction are
-p = 8500Kg/m’, Cp = 320 J/Kg K and k= 35W/mkK. The heat transfer coefficient between
-the junction and gas is 210W/m?K . Determine how long it will take for the therrnocouple
-to read 99% of the initial temperature difference.
-
-Q.N.4(a) Explain physical significance of Prandtl number, Reynolds number, Nusselt number. 10
-
-t/p
---- page 2 ---
-(b) Air at 27°C and latm flows over a flat plate at a velocity of 3m/s. Assume that the plate is 10
-heated over its entire length to a temperature of 70°C. Calculate the heat transfer in (a) the
-first 25cm of the plate and (b) the first 45cm of the plate. Given are the properties of air at
-48.5°C k= 0.02749W/mK , v= 17.36 x 10 © m’/s. Cp = 1.006 kJ /Kg K and Pr=0.7
-
-Q.N.5(a) With the help of Bukingham m — theorem show that for forced convection heat transfer 10
-N,=CR,™Pr*
-
-(b) A counter flow double- pipe heat exchanger is to heat water from 20°C to 80°C ata rate of 10
-1.2Kg/s. The heating is to accomplished by geothermal fluid available at 160°C at a mass
-flow rate of 2Kg/s. The inner tube is thin —walled and has a diameter of 1.5cm. If the
-overall heat transfer coefficient of the heat exchanger is 640W/m°K. Determine the length
-of the heat exchanger required to achieve the desired heating.
-
-Take C, of water is 4.18 kJ/Kg K and C, of geothermal fluid is 4.31 kJ/Kg K
-Q.N.6(a) Define the properties emissivity and absorptivity. When are these two properties equal to 06
-each other?
-
-(ob) Whatisa view facie ti 7 06
-(c) Explain Kirchhoff’s law. 08
-Q.N.7(a) Give classification of heat exchangers. 06
-
-(b) A counter flow heat exchanger is to heat air entering at 400°C with a flow rate of 6Kg/s by 10
-the exhaust gas entering at 800°C with a flow rate of 4Kg/s. The overall heat transfer
-coefficient is 100W/m?K and the outlet temperature of air is 550°C . Specific heat of air
-for both air and exhaust gas can be taken as 1100 J/ Kg K . Calculate (1) the heat transfer
-area needed and (2) the number of transfer units.
-
-(c) What is effectiveness of heat exchanger ? What is NTU? 04
-
-aie
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 5f6de7fe050c
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/VI SEMESTER/HEAT TRANSFER/HEAT TRANSFER B TECH (MECHANICAL), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 05/05/2016
-- Text: ocr (2 pages), mean OCR confidence 89.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Mechanical) Year: III Semester: VI
-Academic Year: 2015-16
-
-Batch: 2013-14
-
-§
-Subject: Heat Transfer Marks: 100
-
-Time: 2.00 p
-Date: 05/05/2016 Durations: 3 hr
-
-Re-Examination
-
-t. Question No. 1 is compulsory.
-
-2. Out of remaining questions attempt any four questions.
-
-3. In all Five questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-NB:
-6. Figures in brackets on the right hand side indicate full marks.
-’. Assume suitable data if necessary.
-
-Q.1. Attempt the following (Any Four)
-(i) Differentiate between steady and transient heat conduction. (05)
-
-(ii) What do you understand by response of thermocouple? Also define time (05)
-constant.
-
-Gii) Write short note on - Fin efficiency. (05)
-
-(iv) What is the advantage of applying dimensional analysis to the case of (05)
-convection heat transfer?
-
--_ (v) Define total emissive power and monochromatic emissive power. (05)
-(vi) Describe the LMTD. (05)
-Q.2 A Derive general heat conduction differential equation in Cartesian (10)
-
-co-ordinates.
-
-B Show that the thermal resistance offered by a spherical wall of uniform k (10)
-oo. ToTTi
-' is given by a
-
-Q.3 A. A 50 cm x 50 cm brass slab 10 mm thick has a uniform temperature of (10)
-pis 300°C. Its temperature is suddenly lowered to 30°C. Calculate the time
-required for the plate to reach the temperature of 100°C. Take
-p = 9000 kg/m?, Cy = 0.38 kJ /Kg°C, k=370W/m°C and
-h=90W/m?C.
-
-\/o_
---- page 2 ---
-By... Pwo long rods of the same diameter, one made of brass (k=85 W/m K) and (10)
-me the Other made of copper (k=375 W/m K) have one of their ends inserted
-into the. furnace. Both of the rods are exposed to the same environment. At
-
-| a dist&nce 10.5 cm away from the furnace end, the temperature of the brass
-ve. _ fod is 120°C. At what distance from the furnace end the same temperature
-Baie, weoavquid be reached in the copper rod?
-ale.
-
-Q4 A Explain the physical significance of various dimensionless numbers used (10)
-in heat Convection.
-
-B _ A-yertical cylinder 1.5 m high and 180 mm in diameter is maintained at (10)
-“. 100°C in an atmosphere environment of 20°C. Calculate heat loss by free
-convection from the surface of the cylinder. Assume properties of air at
-mean temperature as p=1.06kg/m?, v=18.97 x 10-°m?/s,
-Cy = 1.004 kJ /kg°C and k = 0.1042kJ/mhr°C.
-
-Q.5 A Derive momentum equation for hydrodynamic layer over a flat plate. (10)
-
-B Derive an expression for the mean temperature difference in a parallel-flow (10)
-heat exchanger where the inlet and exit temperatures on the hot side are tp;
-and tp 9, While those on the cold side are t,; and t,9.
-
-Q.6 A. State and explain Planck’s distribution law of radiation. (10)
-
-B Find the shape factor between a small area A; and a circular plane disc of (10)
-area Az having radius ‘R’. Area A, is located symmetrically at the centre
-of the disc and the semivertex angle of the cone formed with the disc as
-base and A, as the vertex is a.
-
-Q.7 A Define fouling factor and LMTD correction factor. (10)
-
-B Hot water enters a counter-flow heat exchanger at 100°C. It is used to heat (10)
-a cool stream of water from 5°C to 30°C. The flow rate of cool stream is
-5000 kg/hr and the flow rate of hot stream is 10000 kg/hr. The overall heat
-transfer coefficient is 600 kcal/m* hr°C. What is the area of the heat
-exchanger? Calculate the effectiveness of heat exchanger.
-
-2]
-````
-
 ## 2013-14 · Re-Exam · Sem 6 · paper 727bb84ccfc9
 
 - Departments: Mechanical
@@ -6786,119 +7214,6 @@ The hemispherical roof is at 1000 K and has emissivity of 0.25. Find the net
 radiative heat transfer from roof to floor. 10
 
 Xo h
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 969fe91f7c35
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer 2013-14 Re-exam.pdf`
-- Printed on paper: exam date: 29/11/2014
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (MECH) Year: III Semester: V
-
-Academic Year: 2014-15 Batch: 2013-14
-
-Subject : Heat Transfer
-
-Date : 29/11/2014 Time : 10.00
-Durations: 3 (
-
-Re - Examination
-
-f MPs a ye)
-NB:
-
-1. Question no. 1 is compulsory, answer any four from the remaining questions.
-
-2. All questions carry equal marks.
-
-3. Answer to each new questions to be started on a fresh page.
-
-4. Figures on the right hand side indicate full marks.
-5. Make suitable assumptions if needed with proper reasoning.
-
-LQQ pm p a :
-
-Q.N.1 Answer the following questions (any four) 20
-(a) Name and explain briefly the various mode of heat transfer.
-(b) Explain thermal contact resistance.
-(c) What is shape factor? State its properties.
-(d) Explain the difference between convective heat transfer coefficient and
-overall heat transfer coefficient.
-(e) What is critical thickness of insulation?
-
-Q.N.2. (a) Derive Fourier’s differential equation in the Cartesian co-oridainate. What 10
-are the assumptions to be made to get the following equation from the
-above?
-
-16T
-
-27T=
-el a at
-
-(b) A square plate heater (size 15cm x 15cm) is inserted between two slabs. Slab 10
-A is 2 cm thick (k= 50W/mK) and slab B is 1 cm thick(k= 0.2W/mK). The
-outside heat transfer coefficients on both sides of A & B are 200 & 250
-W/m’ K respectively. Temperature of surrounding air is 25°C. If the rating of
-heater is 1 kW, find:
-(1) Maximum temperature in the system,
-(2) Outer surface temperatures of two slabs.
-Draw the equivalent circuit for the systems.
-
-4/2.
---- page 2 ---
-Q.N.3 (a) Show that the thermal conductance resistance offered by hollow sphere wall 10
-
-of uniform thermal conductivity is given by
-Lames 8
-
-4tk nr
-
-(b) A carbon steel (k = 54W/mK) rod with a cross section of an equilateral 10
-triangle (each side 5mm) is 80mm long. It is attached to a plane wall which
-is maintained at a temperature of 400°C. The surrounding environment is at
-50°C and unit surface conductance (h) is 90W/m°K. Compute the heat
-dissipated by the rod. Consider the tip of fin to be insulated.
-Q.N.4 (a) A solid copper sphere of 10cm diameter [p = 8954Kg/m*, Cp = 383 J/Kg K, 10
-k=386W/mK], initially at a uniform temperature t= 250°C, is suddenly
-immersed in a well-stirred fluid which is maintained at a uniform
-temperature ty= 50°C.Tne heat transfer coefficient between the sphere and
-the fluid is h= 200W/m°K. Determine the temperature of the copper block at
-t = Smin after the immersion.
-
-(b) 1. What are the advantages and limitations of the dimensional analysis? 5
-2. What are the dimensionless numbers? Give the physical significance of at 5
-least two dimensionless numbers.
-Q.N.5 (a) Explains Reynolds analogy with proper derivation. 10
-(b) Air at 24°C is flowing with a velocity of 0.4m/s across a 100W bulb at 10
-
-130°C. If the bulb is approximated by a 65mm diameter sphere. Calculate
-the heat transfer rate and percentage power loss due to convection.
-Use correlation: ¥™ = 0.37 (Re ) for 25< Re < 1x 105
-
-Properties of air at bulk mean temperature —
-K=0.03W/mK, v= 2.08x10°m?/s, Pr= 0.687
-
-Q.N.6 (a. Explain the basic differences between a free convection and forced 10
-Convection. How the Grashof number and Rayleigh number are used in free
-Convection?
-(b) Explain and prove the Wien’s displacement law: A, T= 2.9mm K 10
-Q.N.7 (a) How are the heat exchangers classified ? 5
-(b) State and prove Kirchoff’s law of radiation. 5
-(c) A parallel flow heat exchanger has hot and cold water streams running 10
-
-through it. The flow rates are 10K g/min and 25Kg/min and inlet
-
-temperatures are 70°C and 25°C on hot and cold sides respectively. The exit
-— temperature of hot water is 50°C. Calculate the area of the heat exchanger if
-
-individual heat transfer coefficients are 700W/m°K on both sides.
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper cf114e2e971f
@@ -7058,321 +7373,4 @@ G No.5 Cb)
 Rg.No. 4 Ot 02 03 05 1.0
 
 “a
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 0d2814160212
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/HEAT TRANSFER/Heat Transfer Batch 2013-14 Re Exam.pdf`
-- Printed on paper: exam date: 09/06/2015
-- Text: ocr (2 pages), mean OCR confidence 90.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (MECHANICAL) Year:III Semester: V
-
-Academic Year: 2014-15
-Batch: 2013-14
-
-Subject : Heat Transfer Matis: 100 ” ss T \
-» =
-
-Time 230.00 am't8 Kod s
-Darang 3 (hrs) _ °
-Re-Examination “hag ~ ivEREN *
-
-Sas rn
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on athe
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Date : 09/06/2015
-
-4
-
-Q.N.1 Answer any four from the following questions- 20
-(a) Explain basic modes of heat transfer.
-(b) What is Fourier’s law of heat conduction?
-(c) Define Biot number and Fourier number.
-(d) Explain velocity boundary layer and Thermal boundary layer.
-(e) Give classification of heat exchangers.
-(f) Define solid angle and Irradiation.
-Q.N.2(a) Derive three dimensional general heat conduction equation in Cartesian co-ordinates 10
-(b) A hollow cylinder with rj, = 30mm and roy = 50mm , k= 15W/mK , is heated on the 10
-inner surface at a rate of 10° W/m’ and dissipates heat by convection from the outer
-surface to a fluid at 100°C with h= 400W/m’K. Find out the temperatures of inner and
-outer surfaces of the cylinder.
-
-Q.N.3(a) A thermocouple, the junction of which can be approximated as a 1.5mm diameter 10 ©
-sphere is used to measure the temperature of a gas stream . The properties of the
-junction ‘are p = 8500Kg/m3, Cp = 320J/Kg K and k= 35W/mK. The heat transfer
-coefficient between the junction and gas is 200W/m’K . Determine how long it will take
-for the thermocouple to read 99% of the initial texanera
-
-(b) Determine the heat transfer rate ‘irom the rectangular fin of length 20cm, width 40cm 10
-and thickness 2cm. The tip of the fin is not insulated and, the fin has a thermal
-conductivity of 150W/mK. The base temperature is 100°C and the fluid is at 20°C. The
-heat transfer coefficient between the fin and the fluid is 30W/n’K. i
-
-Q.N.4(a) Explain physical significance of Prandtl number, Reynolds number, Nusselt number. 10
-
-ture difference.
-
-(b) With the help of Bukingham 2 — theorem show that for forced convection heat transfer 10
-Nu=CR.™ Pr”
-
-Q.N.5(a) Air at 27°C and latm flows over a flat plate at a velocity of 2.5m/s. Assume that the 10
-
-62.
---- page 2 ---
-(b)
-
-QN.6(a)
-(b)
-(c)
-Q.N.7(a)
-(b)
-
-plat is heated over its entire length to a temperature of 70°C. Calculate the heat transfer
-in (a) the first 20cm of the plate and (b) the first 40cm of the plate. Given are the
-properties of air at 48.5°C k= 0.02749 W/mK , v= 17.36 x 10% m?/s,
-
-Cp = 1.006 kJ /Kg K and Pr = 0.7
-
-A counter flow heat exchanger is to heat air entering at 400°C with a flow rate of
-6.5Kg/s by the exhaust gas entering at 800°C with a flow rate of 4.5 Kg/s. The overall
-heat transfer coefficient is 100W/m°K and the outlet temperature of air is 550°C .
-Specific heat of air for both air and exhaust gas can be taken as 1100 J/ Kg K . Calculate
-(1) the heat transfer area needed and (2) the number of transfer units.
-
-What do you mean by radiation shield ? Where it is used?
-
-Explain what is absorptivity, reflectivity and transmissivity.
-
-Explain Kirchhoff’s law.
-
-Derive formula for log mean temperature difference for parallel flow heat exchanger.
-
-A counter flow double- pipe heat exchanger is to heat water from 20°C to 80°C at a rate
-of 1.2Kg/s. The heating is to accomplished by geothermal fluid available at 160°C at a
-mass flow rate of 2Kg/s. ‘The inner tube is thin -walled and has a diameter of 1.5cm. If
-the overall heat transfer coefficient of the heat exchanger is 640W/m’K. Determine the
-length of the heat exchanger required to achieve the desired heating.
-
-Take C, of water is 4.18kJ/Kg K and C, of geothermal fluid is 4.31kJ/Kg K
-
-——_— x —
-
-10
-
-06
-06
-08
-12
-08
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 14d52b3805c2
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Heat Transfer/Heat Transfer.pdf`
-- Text: ocr (3 pages), mean OCR confidence 91.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN
-SCHOOL OF TECHNOLOGY MANAGEMENT \
-
-Academic Year: 2023-2024
-Program/s: B Tech/ M BA Tech Stream/s ;Mechanical Year: IIT Semester: VI
-Subject: Heat Transfer Time: _O%3_hrs (2. pm to 5pm )
-Date:_1& / 04/2024 No. of Pages:03
-
-Marks: __ 100
-. Final Examination/Re-Examination (2021-22, 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-(> 3)Imall_5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: : [20]
-CO-1 ; SO-7 ; BL-2 | * | Define the physical mechanism of heat conduction in solids, liquids and gases. [5]
-CO-1 ; SO- 7; BL-2 b. | Explain boiling curve. [5]
-CO-3 ; SO-7 ; BL-2 | ¢- | Explain fouling. Also explain reasons of fouling. [5]
-CO-1 ; SO-7 ; BL-2 | 4. | Discuss the laws of radiation. [5]
-Q2 a_| Derive 3- D heat conduction equation in Cartesian co-ordinate system. [10]
-
--
-CO-2; SO-1; BL-3
-
-b | Air at 30°C and at a atmospheric pressure flows at a velocity 2.2 m/s over a plate
-maintained at 90°C. The length and the width of the plate are 900 mm and 450 mm
-CO-2; SO-1; BL-4 [10]
-respectively. Calculate the heat transfer rate from,
-
-(i) first half of the plate ,(ii) full plate, and (iii) next half of the plate.
-
-a. | A steel rod (k= 30W/m K), 10 mm in diameter and 50 mm long, with an insulated end,
-
-is to be used as a spine. It is exposed to surroundings with a temperature of 65°C and a
-
-Q3
-CO-2; SO-1; BL-4
-
-heat transfer coefficient of 50W/m?°C. The temperature at the base of the fin is 98°C. | [10]
-Determine:
-
-1. The fin efficiency
---- page 2 ---
-2. The temperature at the edge of the spine and am
-3. The heat dissipation
-
-CO-2; SO-1; BL-3
-
-Water is flowing through at the rate of 50 kg/min through a tube of inner diameter
-2.5cem. The inner surface of the tube is maintained at 100°C. If the temperature of water
-
-increases from 25°C to 55°C, find the length of the tube required.
-
-[10]
-
-Q4
-CO-2; SO-1; BL-3
-
-A thermopane (thermally insulated glass) window that is 0.6m long by 0.3 m wide
-comprises two 8mm thick pieces of glass sandwiching an 8 mm thick stagnant air space.
-The thermal conductivity of the glass is ].4W /m K and that of air is 0.025 W/mK. The
-window separates room air at 20°C from outside ambient air at -10°C. The convection
-coefficients associated with the inner (room side) and the outer (ambient) surfaces are
-10 W/m°K and 80 W/m’ K respectively.
-
-Determine the heat loss through the window and two surface temperatures. What would
-be the heat loss if the window had a single glass of 8 mm thickness instead of a
-
-thermopan?
-
-[10]
-
-om
-
-CO-2; SO-1; BL-3
-
-Two large parallel plates with « = 0.5 are maintained at different temperatures and
-exchanging heat only by radiation. Two equally large radiation shields with surface
-emissivity 0.04 are introduced in parallel to the plates. Find the percentage reduction
-
-in net radiation heat transfer.
-
-[10]
-
-Q5
-CO-2; SO-1; BL-4
-
-A mild steel sphere of 15 mm in diameter initially at 620°C is exposed to a current of
-air at 20°C with convective coefficient of 120 W/m°K. Determine the following :
-1. Time required to cool the sphere to 95°C.
-2. Initial rate of cooling in °C /s
-3. Instantaneous heat transfer rate at the end of one minute after the start of
-cooling.
-4. Total energy transferred from the sphere during the first one minute.
-Take mild steel properties as
-p =7850 kg/m’, specific heat = 474 J/kg K and a = 0.045 m?/s k= 43 W/n?C
-
-[10]
-
-CO-3; SO-1; BL-3
-
-A chemical is flowing at the rate of 40000 kg /hr enters a parallel flow heat exchanger
-at 120°C. The flow rate of cooling water is 1,00,000 kg /hr with an inlet temperature of
-
-20°C. The heat transfer area is 20 m? and the overall heat transfer coefficient is 2100
-
-[10]
---- page 3 ---
-i
-
-W/m? K. Take specific heat of chemical = 3.3 kJ/kg K, specific heat of water = 4.186
-kJkkg K al
-Evaluate :
-
-1. The effectiveness of the heat exchanger.
-
-2. The outlet temperature of water and chemical.
-
-Q6
-CO-3; SO-1; BL-3
-
-Derive an expression for logarithmic mean temperature difference (LMTD) in the
-
-case of counter flow heat exchanger.
-
-[10]
-
-CO-2; SO-7; BL-2
-
-Discuss velocity and thermal boundary layer
-
-[06]
-
-© C02; S0-1; BL-3
-
-Explain Reynolds—Colburn analogy.
-
-[04]
-
-Q7
-CO-2; SO-1; BL-4
-
-A block 10 cm x 10 cm x 10 cm in size is suspended in still air at 10°C with one of its
-surfaces in horizontal position. All surfaces of the block are maintained at 150°C.
-
-Determine the total heat transfer rate from the block.
-
-[10]
-
-CO-2; SO-1; BL-3
-
-Determine (a) the wavelength at which the spectral emissive power of a tungsten
-filament at 1500K is maximum (b) the spectral emissive power at that wavelength,
-
-and (c) the spectral emissive power at 6 pm.
-
-[06]
-
-CO-2; SO-7; BL-2
-
-Explain view factor and its relations.
-
-[04]
-
-@-
 ````

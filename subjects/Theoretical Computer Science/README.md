@@ -15,28 +15,28 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CSBS | Theoretical ComputeR Science, Sem III, Final Exam 2025-26 & Re Exam 2023-24, 2024-25.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CS 7055 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 3 | BTech CSBS 7036 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Computer 7002 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated Computer 7032 | QP_Theoretical Computer Science(702CO0C011)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech Computer 7047 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026_fb62bf1321.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Theoretical Computer Science(702CO0C011)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CS 7055 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 3 | BTech CSBS 7036 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Computer 7002 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated Computer 7032 | QP_Theoretical Computer Science(702CO0C011)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech Computer 7047 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Theoretical Computer Science(702CO0C011)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 6, Sem 8 | B TECH / COMPUTER, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER | Theoretical Computer Science Batch 2022-23,2023-24,2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech CS 7055 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CSBS 7036 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech Computer 7002 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated Computer 7032 | QP_Theoretical Computer Science(702CO0C011)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | MBATech Computer 7047 | QP_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CS 7055 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Theoretical Computer Science(702CO0C011)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech Computer 7047 | ANS_Theoretical Computer Science(702CO0C058)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / COMPUTER, B TECH / CSBS | Computer, Sem-III, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER, MBA TECH / COMPUTER | Theoretical Computer Science, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 & 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / COMPUTER | Theoretical Computer Science Batch 2024-25 FInal Batch 2022-23 ,2023-24 Re Exam.pdf |

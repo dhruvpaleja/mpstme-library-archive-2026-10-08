@@ -1,8 +1,235 @@
 # Introduction to Modern Application Development: question papers in full
 
-10 unique papers · 2022-23 to 2025-26 · Data Science
+9 unique papers · 2022-23 to 2025-26 · Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Exam not stated · Sem 5 · paper a98e1579e763
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/INTRODUCTION TO MODERN APPLICATION DEVELOPMENT/BTech,MBA Tech,BTI, (Data Science), Introduction to Modern Application Developmen_28a944b3.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 77.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+
+Program/s: Btech/MBATech/Btech INTG Year: III/ V Semester: V/IX
+Stream/s : Data Science ;
+
+Subject: Introduction to Modern App Development Time: 03 hrs(|0:obamto 42 opm)
+Date:4__/ 12, / 2025 ~ No. of Pages: 05
+
+Marks: 100.
+
+Final Examination/Re-Exam (2024-25)
+QS-26 5
+_ Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover .
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1. is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql :
+Answer briefly: [20]
+a. Props vs State — define each and give one classroom example for both (no
+CO-2, BL-1; _| code run needed). Also explain when you would use props vs:when you [4]
+would use state in a component.
+b. When does useEffect run? Give one example each for: after first render;
+
+CO-2, BL - after a particular state changes; cleanup on unmount. Mention the role of [5]
+2, $02 the dependency array and what happens if you omit it entirely. ;
+Co-4 Bie |% Write an SQL query that lists the top 5 students with marks > 75, ordered
+
+Oe by marks descending. Also write a query to calculate the average marks of | [4]
+2, $01
+
+| all students who scored above 75.
+
+Co-3,BL- | d. What does urls.py do? Contrast returning render(request, ...) vs” [4]
+2, S02 HttpResponse("...") vs JsonResponse({...}) in 2-3 lines each.
+cosa |e Write the CLI to-set a Git remote named origin to 5
+a ii https://github.com/user/repo.git, and the CLI to clone a repo from that [2]
+
+: URL. (Commands only.) .
+Co-1,BL- | f What is the difference between frontend and backend in aeDR : [1]
+1,S01 development? Give one example technology for each.
+Q2 A A student's state update doesn't reflect immediately after setState. Explain 8]
+
+CO-2, BL-1; why React batches state updates and when they actually apply. Explain
+--- page 2 ---
+CO-3,BL- when to use functional updates (prevState => ...) and give two scenarios
+
+1,801 . p.
+where functional updates are critical.
+
+B
+Q2 A component fetches data in useEffect but forgets to include query in
+Co2,BL3, | dependencies. What bug can this cause? How do you fix it? Also explain [6]
+sol what happens if you include too many dependencies or wrong dependencies.
+c Explain the concept of "lifting state up" in React. Why is it needed? Give a
+Qa é aoe ‘
+ui practical example of when you would lift state from a child component to (61
+02, ;
+BLigel a parent component. Also mention one alternative approach to sharing
+, state between components.
+A In plain words explain:
+Q3 - list vs tuple (mutability), give one.example each
+- dict vs set, when to use each [10] °
+CO-3, BL-1, - purpose of __init__ and what self means
+$02 - difference between instance method and class method
+- what is a constructor and destructor in Python.
+B Code-reading (no execution):
+x=[1, 2, 3]
+y=x
+y.append(4)
+Q3 print(x) ;
+CO-3, BL- ; : [6]
+3,502 z=[5, 6, 7] .
+, w = z.copy()
+w.append(8)
+print(z) oy
+What prints in each case and why? Explain aliasing vs copying in detail.
+Q3 Cc ‘ . phar .
+é a Explain mutable vs immutable objects in Python. Give three examples of 4]
+0-3, BL-1, gett .,
+don each type. Why does immutability matter for dictionary keys?
+A Explain in detail what React Server Components (RSC) are and how they
+. differ from traditional Client-Side Rendering (CSR) and Server-Side
+Q4 Rendering (SSR). For each approach (RSC, CSR, SSR):
+Co3, BL1 - Describe where code runs [10]
+- How data is fetched or sent to the client
+sol - What gets sent to the browser
+
+- Performance implications
+- When to use each approach
+--- page 3 ---
+B What are the main differences between a Single-Page Application (SPA)
+
+Q4 and the newer RSC architecture? Explain conceptually how each handles:
+- Initial page load ,
+Coes - Navigation between pages [6]
+BL2,SO2 - Data fetching and state management
+Compare their pros and cons (speed, SEO, scalability, developer control).
+Q4 Cc Briefly describe how a Django-based backend would interact with each
+Co3, BL3 approach (SPA vs RSC). What kind of responses does Django send in each | [4]
+sol case? Which approach requires more API endpoints?
+A Compare SQL and NoSQL databases in detail. Explain how relational
+databases like PostgreSQL differ from document-based databases like
+MongoDB in terms of:
+Q5 - Data structure and schema ;
+CO-4, BL-2 - Scalability (vertical vs horizontal) [10]
+- Query language and style
+SO1 - ACID properties vs BASE model
+- Relationships between data.
+Use shiort examples to illustrate when each is better suited (e.g., banking vs
+social media).
+B Discuss how Django's ORM interacts differently with SQL and NoSQL
+Qs systems. Explain conceptually: 9
+- How Django models translate to relational tables [6]
+Co3 BL3 - Why integration with NoSQL databases can be more complex
+- What trade-offs exist when using Django with MongoDB
+- One advantage and one limitation of using ORM vs raw queries
+Do C
+2 Explain database normalization. What are the first three normal forms (1NF,
+CO-4, BL-1 2NF, 3NF)? Why is normalization important in relational databases? Give [4]
+Sol one example of:denormalization and when it might be beneficial.
+Q6 A Explain in detail what Git is and why developers use it. Describe at least
+CO-5, BL-3 four key advantages of using Git in software projects — for example,. 18]
+sO1 collaboration, version history, branching, and backup/recovery. Support
+each point with a short, practical example.
+B: Explain what a branch represents in Git and how it helps developers work
+Q6 on multiple features at once. Describe the typical workflow for:
+- Creating afeature branch’ - ; [6]
+Co5 BL1 - Making changes and commits :
+
+- Merging back to main branch
+- Handling merge conflicts
+--- page 4 ---
+In contrast, describe what a tag is and why it's often used when marking
+
+software releases.
+
+Q c Explain the difference between git merge and git rebase. When would you
+6 .
+
+use each? What are the pros and cons of each approach? Also explain what | [6]
+Co5 BLS :
+
+git cherry-pick does and give one use case for it.
+
+You are tasked with designing a simple Enrollments feature for a
+university website using Django's Model—View—Template (MVT)
+
+Q7 architecture. The system should allow linking Students to:Courses through
+an Enrollment model. Answer the following sub-questions clearly using
+short paragraphs, bullet points, or neat diagrams where appropriate:
+
+A Describe how you would define the Django models — Student, Course,
+and Enrollment. For each model:
+Q7 - Specify the fields with appropriate data types |
+- Identify primary keys and foreign keys [6]
+CO-3, BL-3 - Define any uniqueness constraints or validation tules
+, - Explain the relationship type (one-to-many, many-to-many)
+- Mention any methods you would add to the models (__str__, custom
+methods)
+
+‘B Define three URL—View mappings:
+1. Endpoint to list all courses a student is enrolled in
+2. Endpoint to enroll a student into a new course (form submission)
+Q7 3. Endpoint to unenroll/drop a student from a course
+€0-3;B1.2 For each, explain:
+eae - The URL pattern (e.g., /student/<id>/courses/)
+- HTTP method (GET/POST/DELETE)
+- What the corresponding view should do (query logic, validation,
+response) :
+
+[6]
+
+Cc Explain what the template should display on the course listing page.
+Mention: ; .
+- What information should be rendered (student details, course list,
+Q7 enrollment dates) ;
+60-4 BEA - What user actions should be available (enroll, unenroll buttons) [4]
+, - What type of logic should NOT be written inside the template (business
+logic, complex queries)
+- How to pass data from view to template
+
+D Write a numbered sequence describing the complete request-response flow
+when a user submits a form to enroll in a new course (POST request).
+Q7 Include:
+_1. Browser form submission [4]
+
+CO-3, BL-4 2. Django receives request :
+. 3. URL routing and view execution
+
+4. Form validation
+
+5. Database operations
+--- page 5 ---
+6. Response generation
+7. Redirect or error handling
+(Aim for 7-9 detailed steps)
+--- page 6 ---
+: : : - BREN : -
+_ oe
+````
 
 ## 2025-26 · Final + Re-Exam · Sem 5 · paper e70533c26eb8
 
@@ -496,103 +723,6 @@ urls.py (project)
 
 Q.7(b) | What are props in React?Develop a simple*React.js application that displays a list of 10
 your favourite movies using components and props.
-````
-
-## 2024-25 · Re-Exam · Sem 5 · paper dd3a62340c54
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/INTRODUCTION TO MODERN APPLICATION DEVELOPMENT/Modern Construction Equipment and Techniques, Sem-V, Batch 2024-25 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 /2/2025
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-Year: II
-Semester: V
-
-Time: 3 Hrs. (2.00 p.m. to 5.00 p.m.)
-No. of Pages: 2
-
-Program: B.Tech.
-Stream: Civil Engineering
-
-Subject: Modern Construction Equipment and Techniques
-Date: 24 /2/2025-
-Marks: 100
-
-ReExamination (24 - 25)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question no. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Qta. Discuss the various factors influencing the cost of owning equipment. [05]
-[CO —2; SO-7; BL—2]
-
-QIb. Identify different types of hoisting equipment and provide a detailed [05]
-explanation of one. [CO — 1; SO-—7; BL— 2]
-
-Qic. Identify the different tunneling methods used in soft soil and hard rock [05]
-conditions. [CO —1; SO—7; BL— 2]
-
-Qld. List the various types of offshore platforms. [CO — 1; SO-7; BL— 2] [05]
-
-Q2a._ Describe how construction equipment contributes to the rapid and cost-effective [10]
-completion of large construction projects. [CO-1; SO-7; BL-3]
-
-Q2b. Examine the factors that influence the selection and performance of equipment. [10]
-[CO-1; SO-7; BL-2]
-
-Q3a._ List different types of hauling equipment and provide a detailed explanation of [10]
-one, accompanied by a clear sketch. [CO — 1; SO—7 ; BL -2]
-
-Page - 1 of 2
---- page 2 ---
-Q3b. Discuss the different types of aggregate crushers and provide a detailed [10]
-explanation of one specific type, accompanied by a clear diagram.
-[CO -1; SO-7; BL —2]
-
-Q4a. What is vaccum concreting? Describe the procedure step by step, along with [10]
-its advantages and disadvantages. [CO — 1; SO -7; BL - 3]
-
-Q4b. Can you provide an overview of grouting? What are the various grouting [10]
-techniques available? Additionally, please discuss the different uses of grouting
-
-in civil engineering projects. [CO —- 1; SO—7; BL-3]
-Q5a. Describe the NATM tunneling method. [CO — 1; SO-7; BL —3] [10]
-
-Q5b. Provide a detailed explanation of the process involved in building a diaphragm [10]
-wall. [CO —1; SO-—7; BL - 3]
-
-Q6a. Provide a detailed explanation of jacketed platforms and concrete gravity [10]
-structure platforms, including their benefits and drawbacks.
-[CO -1; SO-7; BL—3]
-
-Q6b. Describe the installation process of an offshore platform in detail. [10]
-[CO -1; SO-7; BL —3]
-
-Q7a. Describe the process of building large-span girders using girder launching [10]
-methods. [CO — 1; SO-7; BL - 3]
-
-Q7b. Describe the process of demolition using a pusher arm and the method involving [10]
-a ball and crane. [CO —3; SO-7; BL —3]
-
-Page - 2 of 2
 ````
 
 ## 2024-25 · Re-Exam · Sem 5 · paper 3fb0a252b24c
@@ -1389,231 +1519,4 @@ B Perform CRUD of Inventory module.
 c Design API of Inventory module.
 ~
 pe
-````
-
-## Year not stated · Exam not stated · Sem 5 · paper a98e1579e763
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/INTRODUCTION TO MODERN APPLICATION DEVELOPMENT/BTech,MBA Tech,BTI, (Data Science), Introduction to Modern Application Developmen_28a944b3.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (6 pages), mean OCR confidence 77.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026
-
-Program/s: Btech/MBATech/Btech INTG Year: III/ V Semester: V/IX
-Stream/s : Data Science ;
-
-Subject: Introduction to Modern App Development Time: 03 hrs(|0:obamto 42 opm)
-Date:4__/ 12, / 2025 ~ No. of Pages: 05
-
-Marks: 100.
-
-Final Examination/Re-Exam (2024-25)
-QS-26 5
-_ Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover .
-
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1. is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql :
-Answer briefly: [20]
-a. Props vs State — define each and give one classroom example for both (no
-CO-2, BL-1; _| code run needed). Also explain when you would use props vs:when you [4]
-would use state in a component.
-b. When does useEffect run? Give one example each for: after first render;
-
-CO-2, BL - after a particular state changes; cleanup on unmount. Mention the role of [5]
-2, $02 the dependency array and what happens if you omit it entirely. ;
-Co-4 Bie |% Write an SQL query that lists the top 5 students with marks > 75, ordered
-
-Oe by marks descending. Also write a query to calculate the average marks of | [4]
-2, $01
-
-| all students who scored above 75.
-
-Co-3,BL- | d. What does urls.py do? Contrast returning render(request, ...) vs” [4]
-2, S02 HttpResponse("...") vs JsonResponse({...}) in 2-3 lines each.
-cosa |e Write the CLI to-set a Git remote named origin to 5
-a ii https://github.com/user/repo.git, and the CLI to clone a repo from that [2]
-
-: URL. (Commands only.) .
-Co-1,BL- | f What is the difference between frontend and backend in aeDR : [1]
-1,S01 development? Give one example technology for each.
-Q2 A A student's state update doesn't reflect immediately after setState. Explain 8]
-
-CO-2, BL-1; why React batches state updates and when they actually apply. Explain
---- page 2 ---
-CO-3,BL- when to use functional updates (prevState => ...) and give two scenarios
-
-1,801 . p.
-where functional updates are critical.
-
-B
-Q2 A component fetches data in useEffect but forgets to include query in
-Co2,BL3, | dependencies. What bug can this cause? How do you fix it? Also explain [6]
-sol what happens if you include too many dependencies or wrong dependencies.
-c Explain the concept of "lifting state up" in React. Why is it needed? Give a
-Qa é aoe ‘
-ui practical example of when you would lift state from a child component to (61
-02, ;
-BLigel a parent component. Also mention one alternative approach to sharing
-, state between components.
-A In plain words explain:
-Q3 - list vs tuple (mutability), give one.example each
-- dict vs set, when to use each [10] °
-CO-3, BL-1, - purpose of __init__ and what self means
-$02 - difference between instance method and class method
-- what is a constructor and destructor in Python.
-B Code-reading (no execution):
-x=[1, 2, 3]
-y=x
-y.append(4)
-Q3 print(x) ;
-CO-3, BL- ; : [6]
-3,502 z=[5, 6, 7] .
-, w = z.copy()
-w.append(8)
-print(z) oy
-What prints in each case and why? Explain aliasing vs copying in detail.
-Q3 Cc ‘ . phar .
-é a Explain mutable vs immutable objects in Python. Give three examples of 4]
-0-3, BL-1, gett .,
-don each type. Why does immutability matter for dictionary keys?
-A Explain in detail what React Server Components (RSC) are and how they
-. differ from traditional Client-Side Rendering (CSR) and Server-Side
-Q4 Rendering (SSR). For each approach (RSC, CSR, SSR):
-Co3, BL1 - Describe where code runs [10]
-- How data is fetched or sent to the client
-sol - What gets sent to the browser
-
-- Performance implications
-- When to use each approach
---- page 3 ---
-B What are the main differences between a Single-Page Application (SPA)
-
-Q4 and the newer RSC architecture? Explain conceptually how each handles:
-- Initial page load ,
-Coes - Navigation between pages [6]
-BL2,SO2 - Data fetching and state management
-Compare their pros and cons (speed, SEO, scalability, developer control).
-Q4 Cc Briefly describe how a Django-based backend would interact with each
-Co3, BL3 approach (SPA vs RSC). What kind of responses does Django send in each | [4]
-sol case? Which approach requires more API endpoints?
-A Compare SQL and NoSQL databases in detail. Explain how relational
-databases like PostgreSQL differ from document-based databases like
-MongoDB in terms of:
-Q5 - Data structure and schema ;
-CO-4, BL-2 - Scalability (vertical vs horizontal) [10]
-- Query language and style
-SO1 - ACID properties vs BASE model
-- Relationships between data.
-Use shiort examples to illustrate when each is better suited (e.g., banking vs
-social media).
-B Discuss how Django's ORM interacts differently with SQL and NoSQL
-Qs systems. Explain conceptually: 9
-- How Django models translate to relational tables [6]
-Co3 BL3 - Why integration with NoSQL databases can be more complex
-- What trade-offs exist when using Django with MongoDB
-- One advantage and one limitation of using ORM vs raw queries
-Do C
-2 Explain database normalization. What are the first three normal forms (1NF,
-CO-4, BL-1 2NF, 3NF)? Why is normalization important in relational databases? Give [4]
-Sol one example of:denormalization and when it might be beneficial.
-Q6 A Explain in detail what Git is and why developers use it. Describe at least
-CO-5, BL-3 four key advantages of using Git in software projects — for example,. 18]
-sO1 collaboration, version history, branching, and backup/recovery. Support
-each point with a short, practical example.
-B: Explain what a branch represents in Git and how it helps developers work
-Q6 on multiple features at once. Describe the typical workflow for:
-- Creating afeature branch’ - ; [6]
-Co5 BL1 - Making changes and commits :
-
-- Merging back to main branch
-- Handling merge conflicts
---- page 4 ---
-In contrast, describe what a tag is and why it's often used when marking
-
-software releases.
-
-Q c Explain the difference between git merge and git rebase. When would you
-6 .
-
-use each? What are the pros and cons of each approach? Also explain what | [6]
-Co5 BLS :
-
-git cherry-pick does and give one use case for it.
-
-You are tasked with designing a simple Enrollments feature for a
-university website using Django's Model—View—Template (MVT)
-
-Q7 architecture. The system should allow linking Students to:Courses through
-an Enrollment model. Answer the following sub-questions clearly using
-short paragraphs, bullet points, or neat diagrams where appropriate:
-
-A Describe how you would define the Django models — Student, Course,
-and Enrollment. For each model:
-Q7 - Specify the fields with appropriate data types |
-- Identify primary keys and foreign keys [6]
-CO-3, BL-3 - Define any uniqueness constraints or validation tules
-, - Explain the relationship type (one-to-many, many-to-many)
-- Mention any methods you would add to the models (__str__, custom
-methods)
-
-‘B Define three URL—View mappings:
-1. Endpoint to list all courses a student is enrolled in
-2. Endpoint to enroll a student into a new course (form submission)
-Q7 3. Endpoint to unenroll/drop a student from a course
-€0-3;B1.2 For each, explain:
-eae - The URL pattern (e.g., /student/<id>/courses/)
-- HTTP method (GET/POST/DELETE)
-- What the corresponding view should do (query logic, validation,
-response) :
-
-[6]
-
-Cc Explain what the template should display on the course listing page.
-Mention: ; .
-- What information should be rendered (student details, course list,
-Q7 enrollment dates) ;
-60-4 BEA - What user actions should be available (enroll, unenroll buttons) [4]
-, - What type of logic should NOT be written inside the template (business
-logic, complex queries)
-- How to pass data from view to template
-
-D Write a numbered sequence describing the complete request-response flow
-when a user submits a form to enroll in a new course (POST request).
-Q7 Include:
-_1. Browser form submission [4]
-
-CO-3, BL-4 2. Django receives request :
-. 3. URL routing and view execution
-
-4. Form validation
-
-5. Database operations
---- page 5 ---
-6. Response generation
-7. Redirect or error handling
-(Aim for 7-9 detailed steps)
---- page 6 ---
-: : : - BREN : -
-3 : pee seat E Arcnsfec ree
-_ oe
 ````

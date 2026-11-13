@@ -1,8 +1,91 @@
 # Electronic Instrumentation and Control: question papers in full
 
-3 unique papers · 2013-14 to 2013-14 · Electronics
+3 unique papers · 2013-14 to 2014-15 · Electronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2014-15 · Re-Exam · Sem 5 · paper 8498bc549328
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONIC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/V SEMESTER/ELECTRONIC INSTRUMENTATION AND CONTROL/ELECTRONIC INSTRUMENTATION AND CONTROL B TECH (ELECTRONICS) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 02/12/2014
+- Text: ocr (2 pages), mean OCR confidence 94.7
+
+````text
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Electronics) Year: III Semester: V
+Batch: 2013-2014
+Academic Year: 2014-2015
+Subject: Electronic Instrumentation and Control
+Marks:
+Date: 02/12/2014 Time:
+Durations:
+
+Re-Examination
+
+Instructions: Candidate should read carefully the instructions provided on the question paper
+and on the cover of the answer book which is provided for their use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. Inall FIVE questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets indicate full marks.
+Q. 1. Attempt any four of the following. (20)
+a) Explain LVDT accelerometer with neat diagram.
+b) Discuss with neat diagram pneumatic relay.
+c) Write short note on logic analyzer.
+d) Develop PLC Ladder diagram for 4:1 Multiplexer.
+e) Differentiate between active and passive transducer with examples.
+f) Write short note on Virtual instrumentation.
+
+Q. 2. Attempt the following.
+
+a) Explain different techniques of vacuum pressure measurement. (10)
+b) State Bernoulli’s theorem. List different types of inferential flow meters. Explain the
+working of orifice plate. (10)
+
+Q.3. Attempt the following.
+a) Explain Electronic PD controller with neat diagram, equation and characteristics. List its
+drawbacks. (10)
+b) State different techniques of controller tuning. In a transient disturbance test with 9%
+controlling variable change the lag time found is 2.4 minutes, process reaction time is 4.8
+minutes and controlled variable error is 3.9%. Calculate the settings for three mode
+
+controller. (10)
+— Q.4. Attempt the following.
+a) Explain with neat diagram GPIB/ IEEE- 488 instrumentation bus. (10)
+2 b) Explain with block diagram the operation of Frequency-selective wave analyzer. (10)
+
+fe
+--- page 2 ---
+Q.5. Attempt the following.
+a) Design the PLC Ladder logic program that will control a stepper motor so that it moves
+10 steps forward, waits for 20 seconds, and then cause the motor to move 10 steps in
+reverse direction. (10)
+b) Explain with neat block diagram the discrete input module (AC & DC) used in PLC.(10)
+
+Q.6. Attempt the following.
+
+a) Explain multi channel data acquisition system with neat block diagram. (10)
+b) Describe different components of SCADA system, List its application areas. (10)
+Q.7. Write Short note on (20)
+
+a) ON-OFF Control system
+b) Absolute encoder
+
+c) Data logger
+
+d) Hair hygrometer.
+
+x
+
+x
+````
 
 ## 2013-14 · Final-Exam · Sem 5 · paper a629868e8182
 
@@ -127,89 +210,6 @@ d) Virtual instruments and role of software (10M)
 END OF PAPER
 
 2)2_
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 8498bc549328
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONIC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ELECTRONIC/V SEMESTER/ELECTRONIC INSTRUMENTATION AND CONTROL/ELECTRONIC INSTRUMENTATION AND CONTROL B TECH (ELECTRONICS) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 02/12/2014
-- Text: ocr (2 pages), mean OCR confidence 94.7
-
-````text
-SVKM’s NMIMS .
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Electronics) Year: III Semester: V
-Batch: 2013-2014
-Academic Year: 2014-2015
-Subject: Electronic Instrumentation and Control
-Marks:
-Date: 02/12/2014 Time:
-Durations:
-
-Re-Examination
-
-Instructions: Candidate should read carefully the instructions provided on the question paper
-and on the cover of the answer book which is provided for their use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. Inall FIVE questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets indicate full marks.
-Q. 1. Attempt any four of the following. (20)
-a) Explain LVDT accelerometer with neat diagram.
-b) Discuss with neat diagram pneumatic relay.
-c) Write short note on logic analyzer.
-d) Develop PLC Ladder diagram for 4:1 Multiplexer.
-e) Differentiate between active and passive transducer with examples.
-f) Write short note on Virtual instrumentation.
-
-Q. 2. Attempt the following.
-
-a) Explain different techniques of vacuum pressure measurement. (10)
-b) State Bernoulli’s theorem. List different types of inferential flow meters. Explain the
-working of orifice plate. (10)
-
-Q.3. Attempt the following.
-a) Explain Electronic PD controller with neat diagram, equation and characteristics. List its
-drawbacks. (10)
-b) State different techniques of controller tuning. In a transient disturbance test with 9%
-controlling variable change the lag time found is 2.4 minutes, process reaction time is 4.8
-minutes and controlled variable error is 3.9%. Calculate the settings for three mode
-
-controller. (10)
-— Q.4. Attempt the following.
-a) Explain with neat diagram GPIB/ IEEE- 488 instrumentation bus. (10)
-2 b) Explain with block diagram the operation of Frequency-selective wave analyzer. (10)
-
-fe
---- page 2 ---
-Q.5. Attempt the following.
-a) Design the PLC Ladder logic program that will control a stepper motor so that it moves
-10 steps forward, waits for 20 seconds, and then cause the motor to move 10 steps in
-reverse direction. (10)
-b) Explain with neat block diagram the discrete input module (AC & DC) used in PLC.(10)
-
-Q.6. Attempt the following.
-
-a) Explain multi channel data acquisition system with neat block diagram. (10)
-b) Describe different components of SCADA system, List its application areas. (10)
-Q.7. Write Short note on (20)
-
-a) ON-OFF Control system
-b) Absolute encoder
-
-c) Data logger
-
-d) Hair hygrometer.
-
-x
-
-x
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper aec5b4ae079d

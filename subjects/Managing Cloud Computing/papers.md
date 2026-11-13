@@ -1,8 +1,152 @@
 # Managing Cloud Computing: question papers in full
 
-5 unique papers · 2015-16 to 2017-18 · Common (all branches)
+5 unique papers · 2015-16 to 2018-19 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2018-19 · Re-Exam · Sem 10 · paper 67ce2b20bed5
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Managing Cloud Computing/Managing cloud computing....Re-exam 2016-17.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 12 June 2019
+- Text: ocr (1 page), mean OCR confidence 92.3
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program MBA Tech (All Streams) Year: V   Semester:X
+Academic Year: 2018-2019
+
+Subject: Managing Cloud Computing Marks: 60
+
+Date: 12 June 2019 Time:10.00 am to 12.00 noon
+Duration: 2 (hrs)
+
+No. of Pages:__o|
+Re-Examination (2016-17)
+
+Instructions: Candidates.should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql. (a) Discuss advantages of Cloud computing from business perspective. (6)
+(b) What are various types of Cloud computing models ? Desctibe each briefly. (6)
+Q2. (a) Discuss how Cloud computing and Big Data is complementary to each other (6)
+
+(b) What do you understand by Vertical Scaling and Horizontal scaling ? Give a scenario foreach type (6)
+
+Q3. Write short note on any two from below :
+(a) Identity and Access Management (6)
+(b) Digital Signature . (6)
+(c) Workload Management (6)
+Q4. Compare and contracts a Cloud based architecture and associated services versus in-house IT architecture and
+associated services. (12)
+Q5. (a) What are audits and compliance requirement for Cloud computing ? (6)
+(b) What do you understand by Cloud based Security groups ? (6)
+Q6. (a) What is CloudSym and what are its key features ? (6)
+(b) Discuss a scenario where Cloud Computing is NOT suitable. (6)
+Q7. (a) Explain how Cloud computing enables business model innovation. (6)
+(b) Explain how a typical startup leverages Cloud computing. (6)
+
+Y
+````
+
+## 2018-19 · Re-Exam · Sem 10 · paper 6e77961610b5
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Managing Cloud Computing/Managing cloud computing..Re-exam 2016-17.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 10 April 2019
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+— 4
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
+
+Programme: MBA Tech ( All Streams) Year: V Semester: X
+Academic Year: 2018-2019
+
+Subject: Managing Cloud Computing
+f Marks: 60
+Date: 10 April 2019 Time: 10.00 am to 12. .00 noon
+“ Durations: 2 Hrs ;
+No. of Pages : oz
+Re-Examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Qi. Answer any two of the following: .
+a) What is cloud computing? Explain with business drivers. . [6]
+b) Explain the Resource Pooling architecture with suitable diagram. [6]
+c) What are the different types of threat agents in cloud computing? [6]
+Q2. A) Explain the different Cloud service models with suitable examples. (6]
+B) Illustrate the functioning of Cloud Bursting architecture. [6]
+
+Q3. Explain the Cloud Enablement Framework proposed for cloud-enabled business
+innovation and how it enhance Customer Value Propositions and Value Chains
+
+in an organization. {12]
+Q4. A) Explain the six business cost metrics. [6]
+B) Explain three cloud service usage metrics. [6]
+Q5. A) Why simulation is needed in the context of cloud computing? (3]
+B) Which are three benefits of simulation for cloud customers and providers? {3]
+C) What is CloudSim? Mention any five key features of CloudSim. [6]
+
+\ /
+
+Yy
+--- page 2 ---
+Q6. A) Elaborate on how cloud computing helps in managing Big Data.
+B) What are the audits and compliance requirements for cloud computing?
+
+Q7. Write short notes on following cloud security mechanisms:
+a) Hardened Virtual Server Images
+b) Single Sign-On
+c) Digital Signature
+d) Cloud-Based Security groups
+
+EN ce,
+
+[6]
+[6]
+
+[3]
+B
+(3]
+
+3]
+````
 
 ## 2017-18 · Exam not stated · Sem 10 · paper 33d878d2f4f5
 
@@ -174,150 +318,6 @@ A) Explain four threat agents in cloud computing. —4 marks
 B) Explain two server usage cost metrics. —4 marks
 C) Explain two cloud storage device usage cost metrics. —4 marks
 Discuss CloudSim architecture with diagram. — 12 marks
-````
-
-## 2016-17 · Re-Exam · Sem 10 · paper 67ce2b20bed5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Managing Cloud Computing/Managing cloud computing....Re-exam 2016-17.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 12 June 2019
-- Text: ocr (1 page), mean OCR confidence 92.3
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program MBA Tech (All Streams) Year: V   Semester:X
-Academic Year: 2018-2019
-
-Subject: Managing Cloud Computing Marks: 60
-
-Date: 12 June 2019 Time:10.00 am to 12.00 noon
-Duration: 2 (hrs)
-
-No. of Pages:__o|
-Re-Examination (2016-17)
-
-Instructions: Candidates.should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql. (a) Discuss advantages of Cloud computing from business perspective. (6)
-(b) What are various types of Cloud computing models ? Desctibe each briefly. (6)
-Q2. (a) Discuss how Cloud computing and Big Data is complementary to each other (6)
-
-(b) What do you understand by Vertical Scaling and Horizontal scaling ? Give a scenario foreach type (6)
-
-Q3. Write short note on any two from below :
-(a) Identity and Access Management (6)
-(b) Digital Signature . (6)
-(c) Workload Management (6)
-Q4. Compare and contracts a Cloud based architecture and associated services versus in-house IT architecture and
-associated services. (12)
-Q5. (a) What are audits and compliance requirement for Cloud computing ? (6)
-(b) What do you understand by Cloud based Security groups ? (6)
-Q6. (a) What is CloudSym and what are its key features ? (6)
-(b) Discuss a scenario where Cloud Computing is NOT suitable. (6)
-Q7. (a) Explain how Cloud computing enables business model innovation. (6)
-(b) Explain how a typical startup leverages Cloud computing. (6)
-
-Y
-````
-
-## 2016-17 · Re-Exam · Sem 10 · paper 6e77961610b5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Managing Cloud Computing/Managing cloud computing..Re-exam 2016-17.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 10 April 2019
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-— 4
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
-
-Programme: MBA Tech ( All Streams) Year: V Semester: X
-Academic Year: 2018-2019
-
-Subject: Managing Cloud Computing
-f Marks: 60
-Date: 10 April 2019 Time: 10.00 am to 12. .00 noon
-“ Durations: 2 Hrs ;
-No. of Pages : oz
-Re-Examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Qi. Answer any two of the following: .
-a) What is cloud computing? Explain with business drivers. . [6]
-b) Explain the Resource Pooling architecture with suitable diagram. [6]
-c) What are the different types of threat agents in cloud computing? [6]
-Q2. A) Explain the different Cloud service models with suitable examples. (6]
-B) Illustrate the functioning of Cloud Bursting architecture. [6]
-
-Q3. Explain the Cloud Enablement Framework proposed for cloud-enabled business
-innovation and how it enhance Customer Value Propositions and Value Chains
-
-in an organization. {12]
-Q4. A) Explain the six business cost metrics. [6]
-B) Explain three cloud service usage metrics. [6]
-Q5. A) Why simulation is needed in the context of cloud computing? (3]
-B) Which are three benefits of simulation for cloud customers and providers? {3]
-C) What is CloudSim? Mention any five key features of CloudSim. [6]
-
-\ /
-
-Yy
---- page 2 ---
-Q6. A) Elaborate on how cloud computing helps in managing Big Data.
-B) What are the audits and compliance requirements for cloud computing?
-
-Q7. Write short notes on following cloud security mechanisms:
-a) Hardened Virtual Server Images
-b) Single Sign-On
-c) Digital Signature
-d) Cloud-Based Security groups
-
-EN ce,
-
-[6]
-[6]
-
-[3]
-B
-(3]
-
-3]
 ````
 
 ## 2015-16 · Final-Exam · Sem 10 · paper 785edfe5932b

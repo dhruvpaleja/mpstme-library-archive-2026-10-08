@@ -14,15 +14,15 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to Chemistry(702BS0C086)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CSE DS 7011 | QP_Introduction to Chemistry(702BS0C086)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to Chemistry(702BS0C086)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to Chemistry(702BS0C086)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / CSEDS-311 | B Tech, Introduction To Chemistry, Sem-IV, Batch 2025-26, Re E-Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech CSE DS 7011 | QP_Introduction to Chemistry(702BS0C086)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to Chemistry(702BS0C031)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to Chemistry(702BS0C086)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | BTech CSE DS 7011 | QP_Introduction to Chemistry(702BS0C031)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to Chemistry(702BS0C031)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to Chemistry(702BS0C031)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 4 | BTech CSE DS 7011 | QP_Introduction to Chemistry(702BS0C031)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Introduction to Chemistry(702BS0C031)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE | Introduction to Chemistry, Sem-IV, Final Exam 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / CSEDS-311 | Introduction to Chemistry, A Y 2023-24 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper |  | B TECH / CSEDS-311 | Indtruction to chemistry, 2nd Year, Sem-IV, Year 2022-23, Final Exam.pdf |

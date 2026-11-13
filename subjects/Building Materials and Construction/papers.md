@@ -413,6 +413,84 @@ c   Explain in detail manufacturing process of glass.   4
 -
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper 30168b38187d
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION (CIVIL), BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 05 December 2017
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (CIVIL) ~ Year: II - Semester: III ~
+
+Batch: 2016-17
+
+<
+
+Academic Year: 2017-2018 “
+
+Subject: Building Materials and Construction
+
+Date: 05 December 2017
+
+Instructions: Candidates should read carefully the instructions printed ¢ on cide question paper
+_ and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining question, attempt any 4 questions.
+
+3. In all 5 questions to attempted.
+
+4. Answer to each new question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate marks.
+6. Assume suitable data if necessary.
+
+Q.No. Questions Marks
+Allotted
+1. First question is compulsory.
+(Question a) is compulsory. Out of remaining five attempt any three.)
+a) Explain any three types of cement with their application & uses. (5)
+b) Distinguish between soft wood & hard wood. (3)
+c) Write short note on aluminium paint, bituminous paint & distempers. (3)
+d) Explain the term dressing & quarrying of stone. (3)
+e) Explain different types of flooring materials based on their suitability. (3)
+f) Write short note on plastering & pointing. (3)
+2. a) Describe stone quarrying with consideration of site selection and different (7)
+methods of quarrying.
+b) What is scaffolding? What are the components of typical scaffolding? (7)
+
+Vo
+--- page 2 ---
+3% a) Write short notes on:
+i. | Water Cement Ratio (2)
+ii. Heat of Hydration & Curing of concrete (3)
+iii. Initial & final setting time of concrete. (2)
+b) State & explain the different types of glass & their uses. (7)
+4. a) Explain any five physical properties of engineering materials. (7)
+
+b) What do you mean by seasoning of timber? Explain the natural & (7)
+artificial methods of seasoning. ;
+5. a) What are the different ingredients used in making paints? Discuss the (7)
+function of each.
+b) State the qualities of a good brick. What are the different field tests & (7)
+
+lab tests to be employed for testing of bricks?
+
+6. a) Explain the structure of timber with neat sketch. (7)
+b) Explain the different types of varnish and describe the process of (7)
+varnishing on woodwork.
+7. a) Define superstructure & substructure. (4)
+b) A dog-legged staircase is to be made in a section of 3m x 5m. If the
+vertical distance between the floors is 3.5 m, design the staircase and (10)
+
+draw a dimensional sketch plan and a dimensional sketch section.
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper 43cb53f74183
 
 - Departments: Civil
@@ -713,250 +791,7 @@ How does priming coat helps to overcome such defects?
 (7)
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 30168b38187d
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION (CIVIL), BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 05 December 2017
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (CIVIL) ~ Year: II - Semester: III ~
-
-Batch: 2016-17
-
-<
-
-Academic Year: 2017-2018 “
-
-Subject: Building Materials and Construction
-
-Date: 05 December 2017
-
-Instructions: Candidates should read carefully the instructions printed ¢ on cide question paper
-_ and on the cover of the Answer Book, which is provided for their use.
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining question, attempt any 4 questions.
-
-3. In all 5 questions to attempted.
-
-4. Answer to each new question to be started on a fresh page.
-5. Figures in brackets on the right hand side indicate marks.
-6. Assume suitable data if necessary.
-
-Q.No. Questions Marks
-Allotted
-1. First question is compulsory.
-(Question a) is compulsory. Out of remaining five attempt any three.)
-a) Explain any three types of cement with their application & uses. (5)
-b) Distinguish between soft wood & hard wood. (3)
-c) Write short note on aluminium paint, bituminous paint & distempers. (3)
-d) Explain the term dressing & quarrying of stone. (3)
-e) Explain different types of flooring materials based on their suitability. (3)
-f) Write short note on plastering & pointing. (3)
-2. a) Describe stone quarrying with consideration of site selection and different (7)
-methods of quarrying.
-b) What is scaffolding? What are the components of typical scaffolding? (7)
-
-Vo
---- page 2 ---
-3% a) Write short notes on:
-i. | Water Cement Ratio (2)
-ii. Heat of Hydration & Curing of concrete (3)
-iii. Initial & final setting time of concrete. (2)
-b) State & explain the different types of glass & their uses. (7)
-4. a) Explain any five physical properties of engineering materials. (7)
-
-b) What do you mean by seasoning of timber? Explain the natural & (7)
-artificial methods of seasoning. ;
-5. a) What are the different ingredients used in making paints? Discuss the (7)
-function of each.
-b) State the qualities of a good brick. What are the different field tests & (7)
-
-lab tests to be employed for testing of bricks?
-
-6. a) Explain the structure of timber with neat sketch. (7)
-b) Explain the different types of varnish and describe the process of (7)
-varnishing on woodwork.
-7. a) Define superstructure & substructure. (4)
-b) A dog-legged staircase is to be made in a section of 3m x 5m. If the
-vertical distance between the floors is 3.5 m, design the staircase and (10)
-
-draw a dimensional sketch plan and a dimensional sketch section.
-````
-
-## 2015-16 · Final-Exam · Sem 3 · paper da8474cb5418
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION B TECH (CIVIL), 2015-16 FINAL EXAM.pdf`
-- Printed on paper: exam date: 30/11/2015
-- Text: ocr (2 pages), mean OCR confidence 82.1
-
-````text
-a
-
-SVEM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: II Semester: II]
-Academic Year: 2015-2016
-LITE RG
-Subject: Building Materials and Construction ig Zo EN
-Marks 4 &6Q, evan
-Date: 30/11/2015 Time . | Ears
-
-Durations \ 4 3 (ars
-Final-Examination AF go
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks,
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-aa
-
-Ql A_ Explain the process of Manufacturing of Terra-Cotta. (4)
-Ql B_ Explain the steps involved in seasoning of Timber. _ (4)
-Ql C_ Distinguish the features of softwood and hardwood (4)
-Q2. A_ Explain the causes for deterioration of stones, (4)
-Q2 B_ Explain the process for stone quarrying (4)
-Q2 C_ Describe the operations involved in the manufacturing of common tiles. (4)
-Q3 A Describe the process of painting on different surfaces. (4)
-Q3 B_ Explain the processes adopted for the manufacture of steel products. (4)
-Q3 C_ Explain the features of different types of paints. (4)
-Q4 A_ Explain the features good formwork. (4)
-Q4 B_ Explain the features of Common Tiles. (4)
-Q4 C_ Briefly explain the properties of Ceramic Tiles. (4)
---- page 2 ---
-Q5 A List out and explain the features of harmful ingredients in brick earth. (4)
-
-Q5 B_ Explain the process involved in manufacturing of bricks. (4)
-
-Q5 C_ Explain the features of Light Weight Concrete. (4)
-weserva dion techneg ues doo Timber,
-
-Q6 A_ Explain the process-ef painting on-different-surfaces. (4)
-
-Q6 B_ Explain_various process for- manufacture of steel. (4)
-
-Q6 C_ Enlist and explain the process involved in the fabrication of plastic products (4)
-
-Q7 A Explain the process involved in mixing of raw materials of cement. (4)
-Q7 B_ Enlist and explain the requirements of a good aggregate for cement concrete (4)
-
-Q7 C_ Explain the features of load bearing structure (4)
-
-Lo, gpes 4 coment Ord thats application
-
-——_—
-
-6B Eaplen eng hy
-
-*»
-
-a a
-
-i
-````
-
-## 2015-16 · Final-Exam · Sem 3 · paper 9300df38b331
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/BUILDING MATERIALS & CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION MBA TECH (CIVIL) 2015-16 Final exam.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 92.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech (CIVIL) Year: Il Semester: II
-Academic Year: 2015-2016
-
-Subject: Building Materials and Construction
-Marks
-
-Date: 02/12/2015 Time
-Durations
-
-Final-Examination
-
-Instractions: Candidates should read carefully the instructions printed on the question Pape
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory.
-2.” Out of remaining question, attempt any 4 questions.
-3. In all 5 questions to attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) Solve Any Four (3 Mark each) (12)
-
-a) Define a quarry and mention the factors to be considered while making a selection for its site.
-b) Draw a neat sketch of tank furnace used in the manufacture of the glass and explain its working.
-c) What are the important properties of cement?
-d) Explain the meaning and significance of P.V.C.N.
-e) Compare clamp-burning with kiln-burning of brick.
-
-> Q2) (12)
-a) How is fat lime manufactured? Explain in detail.
-
-b) What are the various types of rubble masonry? Explain any five in detail.
-
-Q.3) . . (12)
-a) What are the different forms of rubber? Describe the properties and uses of rubber.
-pe b) What are different varieties of roofing tile? Explain manufacturing process of common tiles.
---- page 2 ---
-Q.4) (12)
-a) Give a brief description of the process of painting on different surfaces.
-
-b) What are the requirements of good staircase? State different types of staircases and explain with
-sketches.
-
-Q5) SA | (a2)
-a) Describe the different types of pointing by means of neat sketches. -
-b) What is seasoning of timber? Why it is required? State various methods of seasoning and
-explain any one. ;
-@.6) (32)
-a) Enumerate the properties of tin, zinc and nickel. .
-
-b) Describe the important physical properties of building materials.
-
-Q.7) Attempt any four.(3 Marks each) 3 (12)
-a) How binding materials are classified? Describe in brief.
-b) How are timber classified?
-
-_¢c) Write a critical note on concrete block.
-d) What is scaffolding? Mention its various components.
-
-e) What are different types of structure? Describe briefly their advantage and disadvantage.
-
-VfL
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper 4d2074dc1e4a
+## 2016-17 · Re-Exam · Sem 3 · paper 4d2074dc1e4a
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
@@ -1048,92 +883,7 @@ e) Write a note on type of structures.
 2] 2...
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 4f96f10e2360
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION BATCH 14-15 15-16 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
-- Text: ocr (2 pages), mean OCR confidence 94.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Civil) Year: II Semester: III
-
-Academic Year: 2015-16
-
-Batch: 2014-15 / 2015-16
-
-Subject: Building Materials and Construction
-Date: 10 June 2016
-
-Marks:60
-
-Time: 10.00 am - 1.00 pm
-
-Durations: 3 (hrs)
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.1 Discuss briefly the following 12
-a) Types of brick bonds
-b) Non-ferrous construction products
-c) Preservative treatment for timber
-
-Q.2 a Compare paints and varnishes 04
-b_ Explain different grades of concrete and different cement mortar ratios. 04
-c Describe how Plaster of Paris is used for false ceiling construction. 04
-
-Q.3. a Define glass. List various types of glasses and state their specific use in 06
-construction industry
-b Define seasoning of timber. List the methods of seasoning and explain any two 06
-methods of seasoning in detail.
-
-Q4 a Elaborate different types of floors and roofs for residential buildings, 08
--b Enlist the qualities of good building stone. 04
-
-Q.5 a State the general rules to be followed to avoid the failure of formwork for concrete 06
-structures
---- page 2 ---
-Q.6 a
-
-Q7 a
-
-Enlist different types of flooring tiles with its specific use. 06
-
-State various types of paints and their specific use 06
-
-Describe plastering and pointing with respect to process, methods, types and 06
-application
-
-Explain the features of load bearing structure and compare it with framed structure 06
-with respect to load distribution, advantages and limitations
-
-Enlist different types of cements used in various constructions and explain the dry 06
-manufacturing process of cement with neat sketch
-
-a2
-````
-
-## 2015-16 · Re-Exam · Sem 3 · paper fbc29f693ae2
+## 2016-17 · Re-Exam · Sem 3 · paper fbc29f693ae2
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -1255,6 +1005,489 @@ a
 06
 
 12
+````
+
+## 2015-16 · Final-Exam · Sem 3 · paper da8474cb5418
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION B TECH (CIVIL), 2015-16 FINAL EXAM.pdf`
+- Printed on paper: exam date: 30/11/2015
+- Text: ocr (2 pages), mean OCR confidence 82.1
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+a
+
+SVEM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil) Year: II Semester: II]
+Academic Year: 2015-2016
+LITE RG
+Subject: Building Materials and Construction ig Zo EN
+Marks 4 &6Q, evan
+Date: 30/11/2015 Time . | Ears
+
+Durations \ 4 3 (ars
+Final-Examination AF go
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks,
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+aa
+
+Ql A_ Explain the process of Manufacturing of Terra-Cotta. (4)
+Ql B_ Explain the steps involved in seasoning of Timber. _ (4)
+Ql C_ Distinguish the features of softwood and hardwood (4)
+Q2. A_ Explain the causes for deterioration of stones, (4)
+Q2 B_ Explain the process for stone quarrying (4)
+Q2 C_ Describe the operations involved in the manufacturing of common tiles. (4)
+Q3 A Describe the process of painting on different surfaces. (4)
+Q3 B_ Explain the processes adopted for the manufacture of steel products. (4)
+Q3 C_ Explain the features of different types of paints. (4)
+Q4 A_ Explain the features good formwork. (4)
+Q4 B_ Explain the features of Common Tiles. (4)
+Q4 C_ Briefly explain the properties of Ceramic Tiles. (4)
+--- page 2 ---
+Q5 A List out and explain the features of harmful ingredients in brick earth. (4)
+
+Q5 B_ Explain the process involved in manufacturing of bricks. (4)
+
+Q5 C_ Explain the features of Light Weight Concrete. (4)
+
+Q6 A_ Explain the process-ef painting on-different-surfaces. (4)
+
+Q6 B_ Explain_various process for- manufacture of steel. (4)
+
+Q6 C_ Enlist and explain the process involved in the fabrication of plastic products (4)
+
+Q7 A Explain the process involved in mixing of raw materials of cement. (4)
+Q7 B_ Enlist and explain the requirements of a good aggregate for cement concrete (4)
+
+Q7 C_ Explain the features of load bearing structure (4)
+
+
+——_—
+
+6B Eaplen eng hy
+
+*»
+
+a a
+
+i
+````
+
+## 2015-16 · Final-Exam · Sem 3 · paper 9300df38b331
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/BUILDING MATERIALS & CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION MBA TECH (CIVIL) 2015-16 Final exam.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (CIVIL) Year: Il Semester: II
+Academic Year: 2015-2016
+
+Subject: Building Materials and Construction
+Marks
+
+Date: 02/12/2015 Time
+Durations
+
+Final-Examination
+
+Instractions: Candidates should read carefully the instructions printed on the question Pape
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2.” Out of remaining question, attempt any 4 questions.
+3. In all 5 questions to attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Solve Any Four (3 Mark each) (12)
+
+a) Define a quarry and mention the factors to be considered while making a selection for its site.
+b) Draw a neat sketch of tank furnace used in the manufacture of the glass and explain its working.
+c) What are the important properties of cement?
+d) Explain the meaning and significance of P.V.C.N.
+e) Compare clamp-burning with kiln-burning of brick.
+
+> Q2) (12)
+a) How is fat lime manufactured? Explain in detail.
+
+b) What are the various types of rubble masonry? Explain any five in detail.
+
+Q.3) . . (12)
+a) What are the different forms of rubber? Describe the properties and uses of rubber.
+pe b) What are different varieties of roofing tile? Explain manufacturing process of common tiles.
+--- page 2 ---
+Q.4) (12)
+a) Give a brief description of the process of painting on different surfaces.
+
+b) What are the requirements of good staircase? State different types of staircases and explain with
+sketches.
+
+Q5) SA | (a2)
+a) Describe the different types of pointing by means of neat sketches. -
+b) What is seasoning of timber? Why it is required? State various methods of seasoning and
+explain any one. ;
+@.6) (32)
+a) Enumerate the properties of tin, zinc and nickel. .
+
+b) Describe the important physical properties of building materials.
+
+Q.7) Attempt any four.(3 Marks each) 3 (12)
+a) How binding materials are classified? Describe in brief.
+b) How are timber classified?
+
+_¢c) Write a critical note on concrete block.
+d) What is scaffolding? Mention its various components.
+
+e) What are different types of structure? Describe briefly their advantage and disadvantage.
+
+VfL
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 75fc63aa7fe9
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION B TECH (CIVIL), BATCH 2013-14 RE EXAM_75fc63aa7f.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2015
+- Text: ocr (1 page), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil) Year: I Semester: III
+Batch: 2013-2014
+Academic Year: 2015-2016
+
+d Subject: Building Materials and Construction . }
+
+Marks : 100° 4, Se i
+Date: 30/11/2015 Time   : 10.00. aga to 1°00 frh x ps
+
+Duration : 3 (hrs) ~ ex ua, af /
+£ * Senay Fa
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Ql. Answer any four of the following:
+
+A. Discuss in brief the various Mechanical Properties (any five) of Construction (5)
+Materials :
+B_ Illustrate the qualities of a good Preservatives for Timber. (5)
+C_ Discuss in brief the PVCN for paints. (5)
+D_ Discuss in brief the properties and uses of Asphalt. (5)
+E_ Discuss in detail with neat sketch any Double of scaffolding. (5)
+Q2. A_ Explain with neat sketches various Methods of Preservation of Stones. (10)
+Q2. B_ Explain in detail the properties and uses of Pig Iron and Steel (10)
+Q3. A Discuss in detail various ingredients of Varnishes (Function, significance). Also (10)
+state two examples of each ingredients
+Q3. B Explain in detail various types of Cement (Composition, Properties, particular (10)
+characteristics and uses).
+Q4. A Explain in detail Curing of Concrete. (10)
+Q4. B Explain in detail stepwise procedure for repainting an old wood work. (10)
+Q5. A Explain in detail Various Types of Concrete (any four). (10)
+=| Q5. B_ Explain in detail with neat sketches various types of Structures. (10)
+Q6. <A Explain in detail Manufacturing of Bricks. (10)
+_— Q6. B_ Discuss with neat sketch various types of Floors. (10)
+Q7. A Discuss in detail with neat sketches various types of pointing. (10)
+Q7. B_ Discuss in detail design Consideration of Staircase. (10)
+
+h
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper dc6fe5f8d601
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 30/11/2015
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+SVKM’s NMIMS
+
+NN MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (Civil) Year: II Semester: II
+Batch: 2014-2015 a
+/ Academic Year: 2015-2016 Aig,
+f ca
+; Subject: Building Matetials and Construction i
+® Marks: 6 ny 3
+Date: 30/11/2015 Time: 10. wesa.to 1.00 pry
+
+Duration: 3 (hr
+
+RS ett
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book. which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. In all 5 questions to attempted.
+4. All questions carry equal marks.
+_ 5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+SaaS ee ee ee ee =
+
+™~Q.1) Solve Any Four C12)
+a) Explain how the “Water absorption Test” for stones is carried out.
+b) Differenti ate between Density and Bulk Density.
+c) Draw a neat cross-section of an exogenous tree and show a various components of it.
+d) Mention the objects of painting and point out the characteristics ae an ideal paint.
+e) Compare the clamp burning with kiln-burning for brick manufacturing process.
+".Q2) (2)
+a) How fat lime is manufactured? Explain with sketch.
+
+b) Draw a neat line diagrams to illustrate the use of various steel trusses for different span.
+
+Q3) . (2)
+rem ' a) What are different forms of rubber? Explain in detail.
+se b) Write a critical note on the concrete blocks.
+
+\Joe
+--- page 2 ---
+2.4) Cig
+
+2) What are the ingredients of a varnish? Describe briefly each of them.
+b) It is proposed to locate a suitable stair in a staircase 6 m long, 3.6 m wide and 3.6 m high with a
+door 1.15 m wide in each of the longitudinal walls. Design the stair by assuming that the doors
+
+face each other-and are located with their centers at a distance of 1.08 m from the respective
+corners of the staircase. Dtaw a dimensional sketch of plan and sectional.
+
+Q.5) . (2)
+a) What are different types of scaffolding? Explain in detail with sketch.
+
+b) Explain the various defects in timber.
+
+Q.6) (12)
+a) State the properties of aluminum, tin, zinc and nickel.
+b) Describe the important physical properties of building materials.
+
+Q.7) Write a short note on any four C12)
+a) Types and uses of glass.
+b) Qualities of a good timber.
+c) Paver Blocks.
+d) Pointing
+
+-e) Whitewashing.
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 4f96f10e2360
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION BATCH 14-15 15-16 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 June 2016
+- Text: ocr (2 pages), mean OCR confidence 94.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Civil) Year: II Semester: III
+
+Academic Year: 2015-16
+
+Batch: 2014-15 / 2015-16
+
+Subject: Building Materials and Construction
+Date: 10 June 2016
+
+Marks:60
+
+Time: 10.00 am - 1.00 pm
+
+Durations: 3 (hrs)
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.1 Discuss briefly the following 12
+a) Types of brick bonds
+b) Non-ferrous construction products
+c) Preservative treatment for timber
+
+Q.2 a Compare paints and varnishes 04
+b_ Explain different grades of concrete and different cement mortar ratios. 04
+c Describe how Plaster of Paris is used for false ceiling construction. 04
+
+Q.3. a Define glass. List various types of glasses and state their specific use in 06
+construction industry
+b Define seasoning of timber. List the methods of seasoning and explain any two 06
+methods of seasoning in detail.
+
+Q4 a Elaborate different types of floors and roofs for residential buildings, 08
+-b Enlist the qualities of good building stone. 04
+
+Q.5 a State the general rules to be followed to avoid the failure of formwork for concrete 06
+structures
+--- page 2 ---
+Q.6 a
+
+Q7 a
+
+Enlist different types of flooring tiles with its specific use. 06
+
+State various types of paints and their specific use 06
+
+Describe plastering and pointing with respect to process, methods, types and 06
+application
+
+Explain the features of load bearing structure and compare it with framed structure 06
+with respect to load distribution, advantages and limitations
+
+Enlist different types of cements used in various constructions and explain the dry 06
+manufacturing process of cement with neat sketch
+
+a2
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 6d1013914fa8
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/BUILDING MATERIALS & CONSTRUCTION/Building Materials and Construction Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (1 page), mean OCR confidence 85.7
+
+````text
+J SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CIVIL) Year:II Semester: III
+
+) Academic Year: 2015 - 16
+
+|
+
+| prea
+
+J . . : . , .
+Batch:2013-14 g OEE Ret ay
+Subject :Building Materials and Construction Marked’ , pete a Y¥e
+
+Time: Ego ht -5.08 amy i
+
+Date : 02/12/2015 Dura’ i Bee ors) /#
+
+Re-Examination
+
+Ne *
+Ca >
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Q1. Answer any four of the following:
+A. Discuss in brief the various Physical Properties (any five) of Construction Materials (5)
+
+B Illustrate the qualities of a good Timber. (5)
+
+C_ Discuss in brief the causes of Failures of Paints. (5)
+
+D Discuss in brief the properties and uses of Asbestos. (5)
+
+E_ Discuss the design considerations for a formwork. (5).
+Q2. A Explain with neat sketches various methods of Quarrying of Stones. (10)
+B_ Explain in detail various types of Lime (Composition, Properties Strength. uses). (10)
+Q3. A. Discuss in detail various ingredients of paints (Function, significance). Also state (10)
+
+_ two examples of each ingredients
+
+B_ Explain in detail the properties and uses of Cast Iron and Wrought Iron (10)
+Q4. A Explain in detail] Consolidation and Curing of Concrete. (10)
+B_ Explain in detail stepwise procedure for anti-corrosive treatment. (10)
+Q5. A Explain in detail Various Types of Mortar (10)
+B_ Explain in detail with neat sketches Load Bearing and Composite Structures. (10)
+Q6. A Explain in detail Manufacturing of Bricks. (10)
+B_ Discuss with neat sketch various types of Floors. (10)
+=| Q7. A Discuss in detail with neat sketches process of plastering for 20mm thickness. (10)
+B Design a Dog-Legged-Staircase for the floor to floor height of 3.6m. (10)
+
+a |=
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper fe9fdde83ec0
@@ -1566,86 +1799,129 @@ Landing, Scotia, Pitch of flight
 i 7 ¥
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper dc6fe5f8d601
+## 2014-15 · Re-Exam · Sem 3 · paper 31ad01249613
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 30/11/2015
-- Text: ocr (2 pages), mean OCR confidence 89.5
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 10/06/2015
+- Text: ocr (2 pages), mean OCR confidence 90.6
 
 ````text
 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-NN MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (Civil) Year: II Semester: II
-Batch: 2014-2015 a
-/ Academic Year: 2015-2016 Aig,
-f ca
-; Subject: Building Matetials and Construction i
-® Marks: 6 ny 3
-Date: 30/11/2015 Time: 10. wesa.to 1.00 pry
+Programme: B. Tech (CIVIL) Year: II Semester: III
+Batch: 2013-14
+Academic Year: 2014-2015 Acre Yay
+ye NO
+Subject: Building Materials and Construction a We *
+Marks: 100 ; a we PSTMaE ye
+Date: 10/06/2015 Time: 2. 00\ ae '3.00°pinrR ¥ pF
 
-Duration: 3 (hr
+Durations: 3 (h - at
+ran Te,
 
-RS ett
+teen?
+
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book. which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
 NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. In all 5 questions to attempted.
-4. All questions carry equal marks.
-_ 5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
 
-SaaS ee ee ee ee =
+1) Question No. 01 is compulsory.
 
-™~Q.1) Solve Any Four C12)
-a) Explain how the “Water absorption Test” for stones is carried out.
-b) Differenti ate between Density and Bulk Density.
-c) Draw a neat cross-section of an exogenous tree and show a various components of it.
-d) Mention the objects of painting and point out the characteristics ae an ideal paint.
-e) Compare the clamp burning with kiln-burning for brick manufacturing process.
-".Q2) (2)
-a) How fat lime is manufactured? Explain with sketch.
+2) Out of remaining questions, attempt any 04 questions.
+3)Inall_05___ questions to be attempted.
 
-b) Draw a neat line diagrams to illustrate the use of various steel trusses for different span.
+4) All questions carry equal marks. .
 
-Q3) . (2)
-rem ' a) What are different forms of rubber? Explain in detail.
-se b) Write a critical note on the concrete blocks.
+5) Answer to each new question to be started ou a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
 
-\Joe
+Q-1 Attempt any four (5 marks each) (20)
+
+a) With a neat sketches explain framed structure and
+load bearing structure.
+
+b) Explain (any five) the physical properties of
+materials
+
+c) . Write a notes on requirement of foamwork.
+
+d) State the difference between cement and lime.
+Explain briefly the various grades of cement.
+
+e) What is pointing ? Why it is necessary ?
+
+Q-2 a) Explain in details with neat sketch the Dry Process of (10)
+manufacture of cement
+
+b) Explain in details the properties of good building stonesand —_ (10)
+
+bricks.
+Q3 a) What are the ingredients of paints ? Discuss their functions. (10)
+b) Differentiate pointing and plastering with respect to (10
+Pp & Pp & P (
+definition, types, rnethods and uses
+Q-4 a) Explain in detail the preservation of timber. (10)
+b) Compare soft wood and hard wood (min. 5 points). (10)
+
+State characteristics of good timber.
+
+fa.
 --- page 2 ---
-2.4) Cig
+Q-6
 
-2) What are the ingredients of a varnish? Describe briefly each of them.
-b) It is proposed to locate a suitable stair in a staircase 6 m long, 3.6 m wide and 3.6 m high with a
-door 1.15 m wide in each of the longitudinal walls. Design the stair by assuming that the doors
+Q-7
 
-face each other-and are located with their centers at a distance of 1.08 m from the respective
-corners of the staircase. Dtaw a dimensional sketch of plan and sectional.
+b)
 
-Q.5) . (2)
-a) What are different types of scaffolding? Explain in detail with sketch.
+a)
 
-b) Explain the various defects in timber.
+b)
 
-Q.6) (12)
-a) State the properties of aluminum, tin, zinc and nickel.
-b) Describe the important physical properties of building materials.
+List the various market forms of glass and state their specific
+uses. (Any five)
 
-Q.7) Write a short note on any four C12)
-a) Types and uses of glass.
-b) Qualities of a good timber.
-c) Paver Blocks.
-d) Pointing
+State the classification of staircase.
 
--e) Whitewashing.
+Draw the plan and section (with detailing) of a bifurcated
+staircase of your Institute.
+
+Discuss and explain with neat sketches the various bond in
+brick masonry work.
+
+For which type of construction would you prefer it and why
+
+Define course, Header, stretcher, wrt brick / stone masonry
+with neat sketches. ;
+
+Write short notes on any four of the following (5 marks for
+each) ,
+
+a) tranufacturing of tiles
+
+b) Classification of mortar
+
+c) Steel formwork
+
+d) English bond
+
+e) Requirements of good roofs
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+
+(20)
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 7ae0ada9444e
@@ -1770,6 +2046,99 @@ Fly ash as construction material
 o=—_
 
 i=
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper e64322267533
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/BUILDING MATERIALS & CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION BATCH 2013-14 RE EXAM_e643222675.pdf`
+- Printed on paper: max marks: 100; exam date: 04/12/2014
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CIVIL) Year:II Semester: III
+
+Academic Year: 2014-15 . Batch: 2013-14
+
+Subject : Building Materials and Construction
+
+Marks: 100 im! PST o
+Date : 04/12/2014 Time : 2.00 pmté!5.G0ipmr ARY Ja
+
+Durations: 3 (hk
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the covet of the Answer Book, which is provided for their use.
+
+NB: ‘
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining question, attempt any 4 questions.
+
+3. Inall 5 questions to attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page. ;
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Solve Any Four (20)
+a) Explain how the “Hardness Test” for stones is carried out.
+
+b) Give reason for the statement “The performance efficiency of a material will depend upon its
+bulk density”.
+
+c) Draw a.neat cross-section of an exogenaus tree and show various components of it.
+d) Mention the usual defects which are found in the painting work.
+e) What are the important properties of a good mortar mix?
+Q.2) (20)
+a) How is fat lime is manufactured?
+b) Name and explain the various types of Ashlar masonry with suitable sketches
+Q.3) (20)
+a) Describe the properties and uses of rubber.
+
+b) Describe the process of burning bricks in intermittent kilns.
+
+4/2.
+--- page 2 ---
+Q.4) (20)
+
+a) Explain the different types of varnishing and describe the process of varnishing on woodwork.
+
+b) It is proposed to locate a suitable stair in a staircase 6 m long, 3.6 m wide and 3.6 m high with a
+door 1.15 m wide in each of the longitudinal walls. Design the stair by assuming that the doors
+face each other and are located with their centers at a distance of 1.08 m from the respective
+
+corners of the staircase. Assuming that it is in public building, design the stair and draw a
+dimensional sketch plan and dimensional sketch sectional to illustrate your proposal.
+
+Q.5) (20)
+a) What are different types of structure? Explain in detail with sketch.
+
+b) Explain the process of natural seasoning. Mention its advantages and disadvantage.
+
+Q.6) (20)
+a) Mention the properties of aluminum and copper as an important building material.
+b) Describe the important physical properties of building materials.
+
+Q.7) Write a short note on any four (20)
+
+a) Physical properties of Cement.
+b) Defects in timber.
+
+c) Slip form shuttering.
+
+d) Flooring Tiles.
+
+e) Types of glass.
+
+Q[R
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 490560bce428
@@ -2199,202 +2568,6 @@ floors? Explain “Composite Floors”. (8)
 & —
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 31ad01249613
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 10/06/2015
-- Text: ocr (2 pages), mean OCR confidence 90.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: III
-Batch: 2013-14
-Academic Year: 2014-2015 Acre Yay
-ye NO
-Subject: Building Materials and Construction a We *
-Marks: 100 ; a we PSTMaE ye
-Date: 10/06/2015 Time: 2. 00\ ae '3.00°pinrR ¥ pF
-
-Durations: 3 (h - at
-ran Te,
-
-teen?
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-3)Inall_05___ questions to be attempted.
-
-4) All questions carry equal marks. .
-
-5) Answer to each new question to be started ou a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q-1 Attempt any four (5 marks each) (20)
-
-a) With a neat sketches explain framed structure and
-load bearing structure.
-
-b) Explain (any five) the physical properties of
-materials
-
-c) . Write a notes on requirement of foamwork.
-
-d) State the difference between cement and lime.
-Explain briefly the various grades of cement.
-
-e) What is pointing ? Why it is necessary ?
-
-Q-2 a) Explain in details with neat sketch the Dry Process of (10)
-manufacture of cement
-
-b) Explain in details the properties of good building stonesand —_ (10)
-
-bricks.
-Q3 a) What are the ingredients of paints ? Discuss their functions. (10)
-b) Differentiate pointing and plastering with respect to (10
-Pp & Pp & P (
-definition, types, rnethods and uses
-Q-4 a) Explain in detail the preservation of timber. (10)
-b) Compare soft wood and hard wood (min. 5 points). (10)
-
-State characteristics of good timber.
-
-fa.
---- page 2 ---
-Q-6
-
-Q-7
-
-b)
-
-a)
-
-b)
-
-List the various market forms of glass and state their specific
-uses. (Any five)
-
-State the classification of staircase.
-
-Draw the plan and section (with detailing) of a bifurcated
-staircase of your Institute.
-
-Discuss and explain with neat sketches the various bond in
-brick masonry work.
-
-For which type of construction would you prefer it and why
-
-Define course, Header, stretcher, wrt brick / stone masonry
-with neat sketches. ;
-
-Write short notes on any four of the following (5 marks for
-each) ,
-
-a) tranufacturing of tiles
-
-b) Classification of mortar
-
-c) Steel formwork
-
-d) English bond
-
-e) Requirements of good roofs
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-
-(20)
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 75fc63aa7fe9
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/BUILDING MATERIALS AND CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION B TECH (CIVIL), BATCH 2013-14 RE EXAM_75fc63aa7f.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 30/11/2015
-- Text: ocr (1 page), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: I Semester: III
-Batch: 2013-2014
-Academic Year: 2015-2016
-
-d Subject: Building Materials and Construction . }
-
-Marks : 100° 4, Se i
-Date: 30/11/2015 Time   : 10.00. aga to 1°00 frh x ps
-
-Duration : 3 (hrs) ~ ex ua, af /
-£ * Senay Fa
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Ql. Answer any four of the following:
-
-A. Discuss in brief the various Mechanical Properties (any five) of Construction (5)
-Materials :
-B_ Illustrate the qualities of a good Preservatives for Timber. (5)
-C_ Discuss in brief the PVCN for paints. (5)
-D_ Discuss in brief the properties and uses of Asphalt. (5)
-E_ Discuss in detail with neat sketch any Double of scaffolding. (5)
-Q2. A_ Explain with neat sketches various Methods of Preservation of Stones. (10)
-Q2. B_ Explain in detail the properties and uses of Pig Iron and Steel (10)
-Q3. A Discuss in detail various ingredients of Varnishes (Function, significance). Also (10)
-state two examples of each ingredients
-Q3. B Explain in detail various types of Cement (Composition, Properties, particular (10)
-characteristics and uses).
-Q4. A Explain in detail Curing of Concrete. (10)
-Q4. B Explain in detail stepwise procedure for repainting an old wood work. (10)
-Q5. A Explain in detail Various Types of Concrete (any four). (10)
-=| Q5. B_ Explain in detail with neat sketches various types of Structures. (10)
-Q6. <A Explain in detail Manufacturing of Bricks. (10)
-_— Q6. B_ Discuss with neat sketch various types of Floors. (10)
-Q7. A Discuss in detail with neat sketches various types of pointing. (10)
-Q7. B_ Discuss in detail design Consideration of Staircase. (10)
-
-h
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper d8bcee24cffa
 
 - Departments: Civil
@@ -2685,178 +2858,4 @@ C_ Steel Formwork F Manufacturing of Hydraulic Lime
 a er
 
 Vi
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper e64322267533
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/BUILDING MATERIALS & CONSTRUCTION/BUILDING MATERIALS AND CONSTRUCTION BATCH 2013-14 RE EXAM_e643222675.pdf`
-- Printed on paper: max marks: 100; exam date: 04/12/2014
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CIVIL) Year:II Semester: III
-
-Academic Year: 2014-15 . Batch: 2013-14
-
-Subject : Building Materials and Construction
-
-Marks: 100 im! PST o
-Date : 04/12/2014 Time : 2.00 pmté!5.G0ipmr ARY Ja
-
-Durations: 3 (hk
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the covet of the Answer Book, which is provided for their use.
-
-NB: ‘
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining question, attempt any 4 questions.
-
-3. Inall 5 questions to attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page. ;
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) Solve Any Four (20)
-a) Explain how the “Hardness Test” for stones is carried out.
-
-b) Give reason for the statement “The performance efficiency of a material will depend upon its
-bulk density”.
-
-c) Draw a.neat cross-section of an exogenaus tree and show various components of it.
-d) Mention the usual defects which are found in the painting work.
-e) What are the important properties of a good mortar mix?
-Q.2) (20)
-a) How is fat lime is manufactured?
-b) Name and explain the various types of Ashlar masonry with suitable sketches
-Q.3) (20)
-a) Describe the properties and uses of rubber.
-
-b) Describe the process of burning bricks in intermittent kilns.
-
-4/2.
---- page 2 ---
-Q.4) (20)
-
-a) Explain the different types of varnishing and describe the process of varnishing on woodwork.
-
-b) It is proposed to locate a suitable stair in a staircase 6 m long, 3.6 m wide and 3.6 m high with a
-door 1.15 m wide in each of the longitudinal walls. Design the stair by assuming that the doors
-face each other and are located with their centers at a distance of 1.08 m from the respective
-
-corners of the staircase. Assuming that it is in public building, design the stair and draw a
-dimensional sketch plan and dimensional sketch sectional to illustrate your proposal.
-
-Q.5) (20)
-a) What are different types of structure? Explain in detail with sketch.
-
-b) Explain the process of natural seasoning. Mention its advantages and disadvantage.
-
-Q.6) (20)
-a) Mention the properties of aluminum and copper as an important building material.
-b) Describe the important physical properties of building materials.
-
-Q.7) Write a short note on any four (20)
-
-a) Physical properties of Cement.
-b) Defects in timber.
-
-c) Slip form shuttering.
-
-d) Flooring Tiles.
-
-e) Types of glass.
-
-Q[R
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 6d1013914fa8
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/BUILDING MATERIALS & CONSTRUCTION/Building Materials and Construction Batch 2013-14 Re Exam.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (1 page), mean OCR confidence 85.7
-
-````text
-J SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CIVIL) Year:II Semester: III
-
-) Academic Year: 2015 - 16
-
-|
-
-| prea
-
-J . . : . , .
-Batch:2013-14 g OEE Ret ay
-Subject :Building Materials and Construction Marked’ , pete a Y¥e
-
-Time: Ego ht -5.08 amy i
-
-Date : 02/12/2015 Dura’ i Bee ors) /#
-
-Re-Examination
-
-Ne *
-Ca >
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any four questions.
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Q1. Answer any four of the following:
-A. Discuss in brief the various Physical Properties (any five) of Construction Materials (5)
-
-B Illustrate the qualities of a good Timber. (5)
-
-C_ Discuss in brief the causes of Failures of Paints. (5)
-
-D Discuss in brief the properties and uses of Asbestos. (5)
-
-E_ Discuss the design considerations for a formwork. (5).
-Q2. A Explain with neat sketches various methods of Quarrying of Stones. (10)
-B_ Explain in detail various types of Lime (Composition, Properties Strength. uses). (10)
-Q3. A. Discuss in detail various ingredients of paints (Function, significance). Also state (10)
-
-_ two examples of each ingredients
-
-B_ Explain in detail the properties and uses of Cast Iron and Wrought Iron (10)
-Q4. A Explain in detail] Consolidation and Curing of Concrete. (10)
-B_ Explain in detail stepwise procedure for anti-corrosive treatment. (10)
-Q5. A Explain in detail Various Types of Mortar (10)
-B_ Explain in detail with neat sketches Load Bearing and Composite Structures. (10)
-Q6. A Explain in detail Manufacturing of Bricks. (10)
-B_ Discuss with neat sketch various types of Floors. (10)
-=| Q7. A Discuss in detail with neat sketches process of plastering for 20mm thickness. (10)
-B Design a Dog-Legged-Staircase for the floor to floor height of 3.6m. (10)
-
-a |=
 ````

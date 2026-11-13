@@ -14,24 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AIML 7053, BTech Civil 7005, BTech Computer 7002, BTech CS 7055, BTech IT 7001, MBATech Computer 7047 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech AI 7051 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Fundamentals of Climate Change, Sem-V, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech AIML 7053, BTech Computer 7002, BTech CS 7055, BTech IT 7001, MBATech Computer 7047 | QP_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
@@ -52,17 +34,35 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech IT 7001 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AIML 7053, BTech Civil 7005, BTech Computer 7002, BTech CS 7055, BTech IT 7001, MBATech Computer 7047 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIML 7053 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CyberSecurity 7010 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechatronics 7004 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech AI 7051 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / DATA SCIENCE, B.TECH INTEGRATED, MBA TECH | Fundamentals of Climate Change Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CS 7055 | QP_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech IT 7001 | QP_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | Integrated IT 7037 | QP_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech IT 7001 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Fundamentals of Climate Change(702CI0I001)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Fundamentals of Climate Change, Sem-V, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH, MBA TECH | Fundamentals of Climate Change, Sem VI, Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper |  | B.TECH INTEGRATED | Fundamentals of Climate Change Batch 2024-25 Final.pdf |

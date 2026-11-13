@@ -81,6 +81,7 @@ e) System margin of 8 dB is required. (20)
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/TRIM II/Optical Communication & Networks/M Tech EXTC TRIM II Optical Communication & Networks 2008-2009.zip`
 - Printed on paper: duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 88.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS UNIVERSITY
@@ -149,7 +150,6 @@ iii) Wave division multiplexing.
 
 x
 
-x ee X OBR ARR RK X
 ````
 
 ## 2007-08 · Exam not stated · Trim 2 · ZIP of papers · paper 60a416b07ae9 · 2007-2008.pdf

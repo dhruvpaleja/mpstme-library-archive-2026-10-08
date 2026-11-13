@@ -78,6 +78,92 @@ What is meta-stability? What is race around condition?
 ‘A
 ````
 
+## 2012-13 · Re-Exam · Trim 1 · paper 79e648d2e3fc
+
+- Departments: Electronics, Electronics and Telecommunication
+- Programmes: M TECH / ELECTRONIC, M TECH / EXTC
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ELECTRONIC/TRIM I/VLSI DESIGN/VLSI Design Batch 2011-2012 Re Exam_79e648d2e3.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/4.0201
+- Text: ocr (2 pages), mean OCR confidence 92.1
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering   -
+Programme: M.Tech (ELEX/EXTC) Year: I Trimester: I /
+Academic Year : 2012-2013
+
+Batch: 2011-12
+
+Subject: VLSI DESIGN Marks: 100
+Sn a Time: 2.00 p.
+
+Date: 27/4.02012- Duration: 3 hrs.
+
+Re - Examination
+
+as
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question no. 1 is compulsory.
+
+2. From the remaining questions, attempt any six questions.
+
+3. Inall seven questions to be attempted.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks.
+
+Q: 1) List a complete typical RTL to GDS-II flow. Differentiate with explanation Full-
+
+custom, ASIC and Semi-custom flow for a CMOS VLSI IC design. (10 Marks)
+j Q: 2) Draw the DC transfer, Transconductance and V-I characteristics of a CMOS
+Inverter. Define ratioless and ratioed inverter. (15 Marks)
+
+Q: 3) What is a Dynamic CMOS gate design? Explain the Charge Sharing problem while
+sampling data from a Bus and show how the dynamic CMOS design suffers from charge
+sharing problem. Show waveform.
+A precharge bus has a loading of 10pF. At a point in the dlock cycle 32 registers with
+transmission gates on their inputs turn on. The input load of each register (after the
+
+j transmission gate) is 0.1pF. Calculate the change in precharge voltage.
+Assume Vdd=3V (15 Marks)
+
+‘ Q: 4) Explain RC delay line effect on transmission lines. Give equation for the delay in
+distributed RC sections. How does Resistance of the metal lines vary with increasing
+thickness and increasing length? (15 Marks)
+Find the total resistance, total capacitance and delay of a 3mm long polysilicon line of
+width 3pm, Resistance 50Q/sq, and capacitance 0.04fF/; um? = 0.36 fF/sq. Compute the
+total delay if a buffer of 2ns propagation time delay is inserted.
+
+Yo
+--- page 2 ---
+Q: 5) Explain what is a Superbuffer? Explain the NMOS Inverting Superbuffer and Non-
+Inverting Superbuffer with circuit diagram. Draw NMOS Inverter with active and passive
+load. (15 Marks)
+
+Q: 6) Implement the following gate function in Pseudo NMOS and CMOS
+Complementary Gate Design.
+
+F= ((AB.C + (D+E)) (15 Marks)
+
+Q: 7) Summarize the properties of a high quality electronic package for IC design.
+Show the packaging hierarchy for a digital computer. (15 Marks)
+
+Q: 8) What are the different process corners available for circuit testing? Explain.
+What process corners are used for worst case IR drop and Electromigration?
+What process corners would be used for guaranteed performance of a circuit? (15 Marks)
+
+\ ge Se tds»
+
+p
+````
+
 ## 2011-12 · Exam not stated · Trim 1 · ZIP of papers · paper e41dafc086bd · VLSI DESIGN 2011-2012.pdf
 
 - Departments: Electronics and Telecommunication
@@ -356,92 +442,6 @@ Q: 6b). Describe package modeling.   .............................. 10.
 Q: 7). What are the different levels of IC Testing? For testing an IC design how are
 faults simulated? Describe different simulations. Describe an automatic test
 generation methodology suited for combinational circuits.
-````
-
-## 2011-12 · Re-Exam · Trim 1 · paper 79e648d2e3fc
-
-- Departments: Electronics, Electronics and Telecommunication
-- Programmes: M TECH / ELECTRONIC, M TECH / EXTC
-- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ELECTRONIC/TRIM I/VLSI DESIGN/VLSI Design Batch 2011-2012 Re Exam_79e648d2e3.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/4.0201
-- Text: ocr (2 pages), mean OCR confidence 92.1
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering   -
-Programme: M.Tech (ELEX/EXTC) Year: I Trimester: I /
-Academic Year : 2012-2013
-
-Batch: 2011-12
-
-Subject: VLSI DESIGN Marks: 100
-Sn a Time: 2.00 p.
-
-Date: 27/4.02012- Duration: 3 hrs.
-
-Re - Examination
-
-as
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question no. 1 is compulsory.
-
-2. From the remaining questions, attempt any six questions.
-
-3. Inall seven questions to be attempted.
-
-4. Answer to each new question to be started on a fresh page.
-
-5. Figures in brackets on the right hand side indicate full marks.
-
-Q: 1) List a complete typical RTL to GDS-II flow. Differentiate with explanation Full-
-
-custom, ASIC and Semi-custom flow for a CMOS VLSI IC design. (10 Marks)
-j Q: 2) Draw the DC transfer, Transconductance and V-I characteristics of a CMOS
-Inverter. Define ratioless and ratioed inverter. (15 Marks)
-
-Q: 3) What is a Dynamic CMOS gate design? Explain the Charge Sharing problem while
-sampling data from a Bus and show how the dynamic CMOS design suffers from charge
-sharing problem. Show waveform.
-A precharge bus has a loading of 10pF. At a point in the dlock cycle 32 registers with
-transmission gates on their inputs turn on. The input load of each register (after the
-
-j transmission gate) is 0.1pF. Calculate the change in precharge voltage.
-Assume Vdd=3V (15 Marks)
-
-‘ Q: 4) Explain RC delay line effect on transmission lines. Give equation for the delay in
-distributed RC sections. How does Resistance of the metal lines vary with increasing
-thickness and increasing length? (15 Marks)
-Find the total resistance, total capacitance and delay of a 3mm long polysilicon line of
-width 3pm, Resistance 50Q/sq, and capacitance 0.04fF/; um? = 0.36 fF/sq. Compute the
-total delay if a buffer of 2ns propagation time delay is inserted.
-
-Yo
---- page 2 ---
-Q: 5) Explain what is a Superbuffer? Explain the NMOS Inverting Superbuffer and Non-
-Inverting Superbuffer with circuit diagram. Draw NMOS Inverter with active and passive
-load. (15 Marks)
-
-Q: 6) Implement the following gate function in Pseudo NMOS and CMOS
-Complementary Gate Design.
-
-F= ((AB.C + (D+E)) (15 Marks)
-
-Q: 7) Summarize the properties of a high quality electronic package for IC design.
-Show the packaging hierarchy for a digital computer. (15 Marks)
-
-Q: 8) What are the different process corners available for circuit testing? Explain.
-What process corners are used for worst case IR drop and Electromigration?
-What process corners would be used for guaranteed performance of a circuit? (15 Marks)
-
-\ ge Se tds»
-
-p
 ````
 
 ## 2011-12 · Re-Exam · Trim 1 · paper de6e86cf46e9

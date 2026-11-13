@@ -2,7 +2,7 @@
 
 Answer keys and model answers published on the portal, newest first.
 
-## 2024-25 · Re-Exam · Sem 6 · Answer key · paper 7e6a1bd5c922
+## 2025-26 · Re-Exam · Sem 6 · Answer key · paper 7e6a1bd5c922
 
 - Departments: Computer Engineering
 - Programmes: MBATech Computer 7047

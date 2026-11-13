@@ -158,6 +158,96 @@ x ,
 VY)
 ````
 
+## 2012-13 · Exam not stated · Trim 15 · paper 46088012b388
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/RETAIL MANAGEMENT/Scan 0010.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 17/4/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management & Engine
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV
+Academic Year : 2012-2013
+Subject:   RETAIL MANAGEMENT   Marks:   50 /-
+Time:   2.00pm To 4.00pm
+Date:   17/4/2013   Duration:   2   hrs.
+Final - Examination
+Answer any F(.&(5) questions
+Your answers should have a practical orientation
+1. What are the pros and cons of a firm such as Po!o Ralph Lauren having its own retai! facilities
+and E-commerce Web site (www.ralphlauren.com) as well as selling through traditional
+retailers?
+2. Differentiate between direct selling and direct marketing. What are the strengths and
+weaknesses of each?
+3. Explain the relationship among the terms data warehouse, data mining, and micromarketing.
+How can TimeZone these concepts?
+4. How would small and large retailers act differently for each of the following?
+a.   Diversity.
+b.   Recruitment.
+c.   Selection.
+d.   Training.
+e.   compensation.
+1   f.   Supervision.
+5. Develop sales promotions for each of the following:
+a. A nearby regional shopping center.
+b. A new restaurant.   /
+c. An off-price apparel retailer.
+6. Develop a high-end retail strategy mix for a shoe store. Include location, operating procedures,
+goods/services offered, pricing tactics, and promotion methods.
+8
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper 497f3fb383d2
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/RETAIL MANAGEMENT/RETAIL MANAGEMENT 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 5/4/2012
+- Text: ocr (1 page), mean OCR confidence 86.7
+
+````text
+oe ee _ Ss
+— a
+SVKM’s NMIMS 3( fine
+Mukesh Patel School Of Technology Management & Engineering :
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
+| Academic Year : 2011-2012
+(4A
+. 8, 7
+Subject: RETAIL MANAGEMENT Marks: 50 Ne “ :
+Time: 10.30 am To 12.30 p
+Date: 5/4/2012 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+the cover of the Answer Book, which is provided for their use.
+
+Attempt all 5 questions. Each question carries 10 marks, Answer to each question to be started
+
+on a fresh page.
+
+1. Explain the reasons for some major retail chain failures in India, with appropriate
+examples.
+
+~~~ ~~? Evatuate” the merchandizing strategy of the Tata retail ventures, with’ special
+emphasis on Star Bazaar.
+
+} 3. Critically analyze the promotional strategies of Shoppers Stop retail chain in India,
+citing relevant examples.
+
+4. What are some of the pricing strategies being followed by Reliance in terms of its
+various retail ventures? Why is the strategy different for the group’s retail formats?
+
+5. Explain “Cash and Carry” retail segment in India, with special emphasis on Tesco &
+| Metro group.
+
+x
+````
+
 ## 2011-12 · Re-Exam · Trim 15 · paper 1b6d7fa462b4
 
 - Departments: Common (all branches)
@@ -450,94 +540,4 @@ N.B. All questions carry equal marks.
 Pr
 
 ———. x
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 497f3fb383d2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/RETAIL MANAGEMENT/RETAIL MANAGEMENT 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 5/4/2012
-- Text: ocr (1 page), mean OCR confidence 86.7
-
-````text
-oe ee _ Ss
-— a
-SVKM’s NMIMS 3( fine
-Mukesh Patel School Of Technology Management & Engineering :
-Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
-| Academic Year : 2011-2012
-(4A
-. 8, 7
-Subject: RETAIL MANAGEMENT Marks: 50 Ne “ :
-Time: 10.30 am To 12.30 p
-Date: 5/4/2012 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-the cover of the Answer Book, which is provided for their use.
-
-Attempt all 5 questions. Each question carries 10 marks, Answer to each question to be started
-
-on a fresh page.
-
-1. Explain the reasons for some major retail chain failures in India, with appropriate
-examples.
-
-~~~ ~~? Evatuate” the merchandizing strategy of the Tata retail ventures, with’ special
-emphasis on Star Bazaar.
-
-} 3. Critically analyze the promotional strategies of Shoppers Stop retail chain in India,
-citing relevant examples.
-
-4. What are some of the pricing strategies being followed by Reliance in terms of its
-various retail ventures? Why is the strategy different for the group’s retail formats?
-
-5. Explain “Cash and Carry” retail segment in India, with special emphasis on Tesco &
-| Metro group.
-
-x
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 46088012b388
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/RETAIL MANAGEMENT/Scan 0010.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 17/4/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management & Engine
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XV
-Academic Year : 2012-2013
-Subject:   RETAIL MANAGEMENT   Marks:   50 /-
-Time:   2.00pm To 4.00pm
-Date:   17/4/2013   Duration:   2   hrs.
-Final - Examination
-Answer any F(.&(5) questions
-Your answers should have a practical orientation
-1. What are the pros and cons of a firm such as Po!o Ralph Lauren having its own retai! facilities
-and E-commerce Web site (www.ralphlauren.com) as well as selling through traditional
-retailers?
-2. Differentiate between direct selling and direct marketing. What are the strengths and
-weaknesses of each?
-3. Explain the relationship among the terms data warehouse, data mining, and micromarketing.
-How can TimeZone these concepts?
-4. How would small and large retailers act differently for each of the following?
-a.   Diversity.
-b.   Recruitment.
-c.   Selection.
-d.   Training.
-e.   compensation.
-1   f.   Supervision.
-5. Develop sales promotions for each of the following:
-a. A nearby regional shopping center.
-b. A new restaurant.   /
-c. An off-price apparel retailer.
-6. Develop a high-end retail strategy mix for a shoe store. Include location, operating procedures,
-goods/services offered, pricing tactics, and promotion methods.
-8
 ````

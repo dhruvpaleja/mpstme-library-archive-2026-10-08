@@ -1947,6 +1947,7 @@ fe) 0 a) \
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/EXTC/SEM IX/ROBOTICS/Robotics 2018-19 Final.pdf`
 - Printed on paper: max marks: 60; exam date: 19 November 2018
 - Text: ocr (2 pages), mean OCR confidence 88.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1967,7 +1968,6 @@ Marks: 60
 svw's | YQ p p
 
 CNMimg
-F a tien Univer sity )* uration: 3 (hrs) -
 Ubcany ae o. of Pages: 2
 
 ion ois. wy
@@ -2122,6 +2122,204 @@ Te® oot 0 got 07171
 0 0 °
 
 Page 2/r
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper 307cb27b971d
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/ROBOTICS/ROBOTICS_B TECH (EXTC), BATCH 2016-17 RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; exam date: 19 November 2018
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+)
+
+Programme: B. Tech (EXTC) « Year: IV « Semester: VII
+
+Academic Year: 2018-2019 «
+
+Subject: Robotics :
+
+Marks: 60 +
+
+Date: 19 November 2018 Time: 2.00 pm,
+Durations: 3 (
+
+No. of Pages:
+
+Re-examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 0lis compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer te each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1) a) Write a short note on Hard automation. 04
+
+b) Attempt any TWO of the following
+
+i. Explain and derive Yaw Pitch Roll transformation matrix. 04
+ii, Explain significance of TCV in inverse kinematic solution. 04
+iii. Explain in brief structured illumination with respect to robotic vision. 04
+
+Q2) a) Define Repeatability, accuracy and precision of a robotic arm, also discuss precision of 06
+various robotic arm configurations.
+b) With help of neat vector diagrams derive all three fundamental matrices of rotation. 06
+
+Q3) a) Consider a Microbot Alpha II industrial robotic arm:
+
+Draw the link coordinate diagram. 04
+Derive the Kinematic parameter table. 04
+Derive Homogenous coordinate transformations between adjacent joints. 04
+
+Page 1 of 2
+--- page 2 ---
+Q4)
+
+Q5)
+
+Q6)
+
+Q7)
+
+a)
+b)
+
+a)
+
+a)
+b)
+
+a)
+
+b)
+¢)
+
+Explain with diagrams work envelope of a Rhino XR3 Robot.
+Explain in brief over constrained mechanism and deployable structures employed in
+robotics.
+
+Consider a SCARA Adept One Robot Arm:
+Perform inverse kinematic analysis of the robot and obtain the complete solution, also
+draw the algorithm flowchart.
+
+Write a short note on Bonded deviation algorithm.
+Write a short note on edge detection in robotic vision.
+
+Write a short note on fine motion planning.
+Classify robots based on various operating conditions.
+Write a short note on Area descriptors.
+
+06
+06
+
+12
+
+06
+06
+
+04
+04
+04
+
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper 5ed7500a2a27
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/ROBOTICS/ROBOTICS_B TECH (EXTC), BATCH_17-18_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; exam date: 19 November 2018
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+‘ Programme: B. Tech (EXTC) ° Year: IV © Semester: VII
+
+Academic Year: 2018-2019
+
+bject: Robotics «¢
+auhes Marks: 60
+
+Time: 2.00 p
+Durations: 3
+No. of Pages:
+
+Date: 19 November 2018 «
+
+Re-examination (2017-18) ©
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01lis compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry, equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1) a) Define Robot’s and also explain soft automation. 04
+
+b) Attempt any TWO of the following =:
+i. With neat vector diagram derive fundamental rotation matrix for pitch action performed 04
+across f? axis.
+
+ii, Explain need of inverse kinematic solution and how is it related to direct kinematics. 04
+iii. Explain in brief fine motion planning. 04
+
+Q2) a) List and explain in brief various applications of industrial robot, also explain reach and 06
+stroke of a robot with example.
+b) Explain with algorithm composite rotations, suppose we rotate the tool tip about the fixed 06
+axis starting with yaw of z/2, followed by a pitch of -n/2 and finally a roll of x/2, find [p]" if
+[pIM= [0, 0, 0.6]"
+
+Q3) a) Consider a Microbot Alpha II industrial robotic arm:
+
+Draw the link coordinate diagram. 04
+Derive the Kinematic parameter table. 04
+Derive Homogenous coordinate transformations between adjacent joints. 04
+
+Page 1 of 2
+--- page 2 ---
+Q4)° a) Explain with diagrams work envelope of a SCARA Adept One Robot. 06
+b) Explain in brief various structured illuminations employed in robotic vision. 06
+
+! QS) a) Consider a 3 axis Planar Articulated Robot Arm: 12
+Perform inverse kinematic analysis of the robot and obtain the complete solution, also
+draw the algorithm flowchart.
+
+Q6) a) Write a short note on linear interpolation with parabolic blends. 06
+b) Write a short note on inverse perspective transformation. 06
+Q7) a) Write a short note on penetration of robots in industrial production. 04
+b) Define various joints in robotic arm and classify robots based on them. 04
+¢) Write a short note on Line descriptors. 04
+
+Page 2 of 2
 ````
 
 ## 2018-19 · Re-Exam · Sem 7 · paper 7a352ca71634
@@ -2580,88 +2778,6 @@ c) Write a short note on Shrink and swell operator. 4marks
 Page 2 of 2
 ````
 
-## 2017-18 · Re-Exam · Sem 7 · paper 5ed7500a2a27
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/ROBOTICS/ROBOTICS_B TECH (EXTC), BATCH_17-18_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; exam date: 19 November 2018
-- Text: ocr (2 pages), mean OCR confidence 91.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-‘ Programme: B. Tech (EXTC) ° Year: IV © Semester: VII
-
-Academic Year: 2018-2019
-
-bject: Robotics «¢
-auhes Marks: 60
-
-Time: 2.00 p
-Durations: 3
-No. of Pages:
-
-Date: 19 November 2018 «
-
-Re-examination (2017-18) ©
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01lis compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry, equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1) a) Define Robot’s and also explain soft automation. 04
-
-b) Attempt any TWO of the following =:
-i. With neat vector diagram derive fundamental rotation matrix for pitch action performed 04
-across f? axis.
-
-ii, Explain need of inverse kinematic solution and how is it related to direct kinematics. 04
-iii. Explain in brief fine motion planning. 04
-
-Q2) a) List and explain in brief various applications of industrial robot, also explain reach and 06
-stroke of a robot with example.
-b) Explain with algorithm composite rotations, suppose we rotate the tool tip about the fixed 06
-axis starting with yaw of z/2, followed by a pitch of -n/2 and finally a roll of x/2, find [p]" if
-[pIM= [0, 0, 0.6]"
-
-Q3) a) Consider a Microbot Alpha II industrial robotic arm:
-
-Draw the link coordinate diagram. 04
-Derive the Kinematic parameter table. 04
-Derive Homogenous coordinate transformations between adjacent joints. 04
-
-Page 1 of 2
---- page 2 ---
-Q4)° a) Explain with diagrams work envelope of a SCARA Adept One Robot. 06
-b) Explain in brief various structured illuminations employed in robotic vision. 06
-
-! QS) a) Consider a 3 axis Planar Articulated Robot Arm: 12
-Perform inverse kinematic analysis of the robot and obtain the complete solution, also
-draw the algorithm flowchart.
-
-Q6) a) Write a short note on linear interpolation with parabolic blends. 06
-b) Write a short note on inverse perspective transformation. 06
-Q7) a) Write a short note on penetration of robots in industrial production. 04
-b) Define various joints in robotic arm and classify robots based on them. 04
-¢) Write a short note on Line descriptors. 04
-
-Page 2 of 2
-````
-
 ## 2016-17 · Final-Exam · Sem 7 · paper 1f130087c7c7
 
 - Departments: Electronics and Telecommunication
@@ -3021,122 +3137,6 @@ a) Task level programming 4 Marks
 b) The Tool Configuration Vector ; 4 Marks
 c) Direct kinematics parameters 4 Marks
 d) Inverse Perspective Transformation Matrix : 4 Marks
-
-Page 2 of 2
-````
-
-## 2016-17 · Re-Exam · Sem 7 · paper 307cb27b971d
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/ROBOTICS/ROBOTICS_B TECH (EXTC), BATCH 2016-17 RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; exam date: 19 November 2018
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-)
-
-Programme: B. Tech (EXTC) « Year: IV « Semester: VII
-
-Academic Year: 2018-2019 «
-
-Subject: Robotics :
-
-Marks: 60 +
-
-Date: 19 November 2018 Time: 2.00 pm,
-Durations: 3 (
-
-No. of Pages:
-
-Re-examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 0lis compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer te each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1) a) Write a short note on Hard automation. 04
-
-b) Attempt any TWO of the following
-
-i. Explain and derive Yaw Pitch Roll transformation matrix. 04
-ii, Explain significance of TCV in inverse kinematic solution. 04
-iii. Explain in brief structured illumination with respect to robotic vision. 04
-
-Q2) a) Define Repeatability, accuracy and precision of a robotic arm, also discuss precision of 06
-various robotic arm configurations.
-b) With help of neat vector diagrams derive all three fundamental matrices of rotation. 06
-
-Q3) a) Consider a Microbot Alpha II industrial robotic arm:
-
-Draw the link coordinate diagram. 04
-Derive the Kinematic parameter table. 04
-Derive Homogenous coordinate transformations between adjacent joints. 04
-
-Page 1 of 2
---- page 2 ---
-Q4)
-
-Q5)
-
-Q6)
-
-Q7)
-
-a)
-b)
-
-a)
-
-a)
-b)
-
-a)
-
-b)
-¢)
-
-Explain with diagrams work envelope of a Rhino XR3 Robot.
-Explain in brief over constrained mechanism and deployable structures employed in
-robotics.
-
-Consider a SCARA Adept One Robot Arm:
-Perform inverse kinematic analysis of the robot and obtain the complete solution, also
-draw the algorithm flowchart.
-
-Write a short note on Bonded deviation algorithm.
-Write a short note on edge detection in robotic vision.
-
-Write a short note on fine motion planning.
-Classify robots based on various operating conditions.
-Write a short note on Area descriptors.
-
-06
-06
-
-12
-
-06
-06
-
-04
-04
-04
 
 Page 2 of 2
 ````
@@ -4210,6 +4210,7 @@ Page 3 of 3
 - Programmes: B TECH / ELECTRONICS
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_08/ROBOTICS/ROBOTICS B TECH (ELECTRONICS), BATCH 2013-14 RE EXAM.pdf`
 - Text: ocr (2 pages), mean OCR confidence 89.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4223,7 +4224,6 @@ Subject : Robotics alana
 Marks: £ nana
 ime: #1000 ABO
 : 01/07/2014 Time: 1 who.
-pee ia Durations:\ BaP RARY if
 Re-Examination Oar er
 Mon NEES
 

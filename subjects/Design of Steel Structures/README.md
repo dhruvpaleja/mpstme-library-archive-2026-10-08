@@ -16,8 +16,8 @@ Also filed as: `DESIGN OF STEEL STRUCTURE`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Design of Steel Structures(702CI0C018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Design of Steel Structures(702CI0C018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Design of Steel Structures(702CI0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / CIVIL | B Tech, Design of Steel Structures, Sem-VI, Batch 2025-26, Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / CIVIL | Design of Steel Structures, Sem VI, Year 2024-25 Final Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 6 | B TECH / CIVIL | Design of Steel Structures, Sem-VI, Final Exam 2023-24 & Re Exam 2021-22.pdf |

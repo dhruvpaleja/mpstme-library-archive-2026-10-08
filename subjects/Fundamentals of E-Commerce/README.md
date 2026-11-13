@@ -16,24 +16,24 @@ Also filed as: `FUNDAMENTAL OF E COMMERCE`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | Integrated Computer 7032 | QP_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | Integrated DS 7038 | QP_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE | Fundamentals of E Commerce Batch 2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated Computer 7032 | QP_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | Integrated DS 7038 | QP_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Fundamentals of E-Commerce(701CO0C009)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE | Fundamentals of E Commerce Batch 2024-25 Final Batch 2022-23 ,2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | Integrated Computer 7032 | QP_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | Integrated DS 7038 | QP_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | Integrated Computer 7032 | QP_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 6 | Integrated DS 7038 | QP_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated Computer 7032 | ANS_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 6 | Integrated DS 7038 | ANS_Fundamentals of E-Commerce(701CO0C009)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE | Fundamentals of E Commerce Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE | Fundamental of Ecommerce Batch 2023-24 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Fundamental of Ecommerce Batch 2022-23 Final0001.pdf |

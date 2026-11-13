@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_03/Final-Exam/Integrated_IT_7037/Chemistry-II/ANS_Chemistry-II(701BS0C017)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2024
 - Text: mixed (4 pages), mean OCR confidence 42.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -79,7 +81,6 @@ axpanded epelit- 1M, Swanpls —-2Mm a
 ed y
 ) we -C=O (gm), alée= ald= Ace C1rs™)
 
-chan tebhy eMidn £- dldelada, ohm t- re amet
 Yn Vom Ys mM
 
 Qt
@@ -98,6 +99,8 @@ RK KKK RK KK 4 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2024/Sem_03/Final-Exam/Integrated_Mechanical_7031/Chemistry-II/ANS_Chemistry-II(701BS0C017)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Nov 2024
 - Text: mixed (4 pages), mean OCR confidence 42.0
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -138,11 +141,9 @@ Hye EF Mar ke eee =
 (3 >
 ; c- 04
 
-RK KK KK KKK 2 oh KR Kk KK KK
 --- page 3 ---
 |
 ie
-BO ony O' 112 moles, hee of SoluUgiOn = $-40+100
 = 108, 404
 See a Vet ef col” = [Ose ge 2 [0 3- 23mL
 [- 0s
@@ -158,7 +159,6 @@ oO? ~~
 
 Cb) temic bend — A°OM Covalent —2-6m
 
-RK KK KK KKK 3 oh KR Kk KK KK
 --- page 4 ---
 (ce) excephows be oclBt niler— 2m
 axpanded epelit- 1M, Swanpls —-2Mm a
@@ -166,7 +166,6 @@ axpanded epelit- 1M, Swanpls —-2Mm a
 ed y
 ) we -C=O (gm), alée= ald= Ace C1rs™)
 
-chan tebhy eMidn £- dldelada, ohm t- re amet
 Yn Vom Ys mM
 
 Qt
@@ -175,7 +174,6 @@ Ca) det's rove hes 4are ge
 
 2» Ree
 
-RK KK KK KKK 4 oh KR Kk KK KK
 ````
 
 ## 2024-25 · Final-Exam · Sem 4 · Answer key · paper a4111c24a15e
@@ -451,6 +449,8 @@ C & F----polar covalent
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/Integrated_IT_7037/Chemistry-II/ANS_Chemistry-II(701BS0C017)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 18 Feb 2025
 - Text: mixed (8 pages), mean OCR confidence 37.6
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -484,7 +484,6 @@ mat.’ G ta mine Por, ‘ou’ ly
 Att Sem Ni”
 Symopte Avge’ |
 6! a Su
-Mey, ees backs; eee:
 acver Wax: Prucd Grok drum are
 
 Crbimin (™)
@@ -518,9 +517,7 @@ RK KKK RK KK 3 2h KKK RK Kk KK
 --- page 5 ---
 NCEE Te
 ame en
-Crowle f Catew/aniou ond.
 
-arog wn derwatiy orler of loi. ORE.
 (4)
 
 ill ate Ieee Ze ane
@@ -532,7 +529,6 @@ iaryi eet mele | Oa
 --- page 7 ---
 Ps dat 8 faze, onto Gp
 ana Dray ormal phn £8: ooh e
-(i nae fasten Tek 4 25 (eHtameh)
 ' %
 = (-93 mmoles ord (im
 Malrfackon Preoh = fe =oFe (2)
@@ -553,6 +549,8 @@ acer [IC | Gas
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/Integrated_Mechanical_7031/Chemistry-II/ANS_Chemistry-II(701BS0C017)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 18 Feb 2025
 - Text: mixed (8 pages), mean OCR confidence 37.6
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -586,7 +584,6 @@ mat.’ G ta mine Por, ‘ou’ ly
 Att Sem Ni”
 Symopte Avge’ |
 6! a Su
-Mey, ees backs; eee:
 acver Wax: Prucd Grok drum are
 
 Crbimin (™)
@@ -620,9 +617,7 @@ RK KKK RK KK 3 2h KKK RK Kk KK
 --- page 5 ---
 NCEE Te
 ame en
-Crowle f Catew/aniou ond.
 
-arog wn derwatiy orler of loi. ORE.
 (4)
 
 ill ate Ieee Ze ane
@@ -634,7 +629,6 @@ iaryi eet mele | Oa
 --- page 7 ---
 Ps dat 8 faze, onto Gp
 ana Dray ormal phn £8: ooh e
-(i nae fasten Tek 4 25 (eHtameh)
 ' %
 = (-93 mmoles ord (im
 Malrfackon Preoh = fe =oFe (2)

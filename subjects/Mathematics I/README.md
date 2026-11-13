@@ -14,31 +14,31 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073, DIPLOMA IN COMPUTER SCIENCE AND ENGINEE, DIPLOMA IN INFORMATION TECHNOLOGY - 7075, DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Mathematics-I(701BS0C018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | DIPLOMA | Mathematics I 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073, DIPLOMA IN COMPUTER SCIENCE AND ENGINEE, DIPLOMA IN INFORMATION TECHNOLOGY - 7075, DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Mathematics-I(701BS0C018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Mathematics-I(701BS0C018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Mathematics-I(701BS0C018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Mathematics-I(701BS0C018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073, DIPLOMA IN COMPUTER SCIENCE AND ENGINEE, DIPLOMA IN INFORMATION TECHNOLOGY - 7075, DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Mathematics-I(701BS0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Mathematics-I(701BS0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Mathematics-I(701BS0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Mathematics-I(701BS0C018)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Mathematics-I(701BS0C018)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Mathematics-I(701BS0C018)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Mathematics-I(701BS0C018)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | DIPLOMA | Mathematics I Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Mathematics-I(701BS0C018)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Mathematics-I(701BS0C018)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Mathematics-I(701BS0C018)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Mathematics-I(701BS0C018)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | DIPLOMA | Mathematics I Batc 2024-25 Re Exam0001.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Mathematics-I(701BS0C018)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Mathematics-I(701BS0C018)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Mathematics-I(701BS0C018)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Mathematics-I(701BS0C018)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 1 | B.TECH INTEGRATED | Mathematics I Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 1 | B.TECH INTEGRATED | Mathematics I Batch 2022-23,2023-24 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 1 | B.TECH INTEGRATED | Mathematics-I Batch 2022-23,2023-24 Re Exam.pdf |

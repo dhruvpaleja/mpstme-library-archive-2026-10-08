@@ -16,10 +16,10 @@ Also filed as: `ECOMMERCE`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_E-Commerce(702IT0E027)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech IT 7041 | ANS_E-Commerce(702IT0E027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CS 7055 | QP_E-Commerce(702IT0E027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech IT 7041 | QP_E-Commerce(702IT0E027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CS 7055 | ANS_E-Commerce(702IT0E027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech IT 7041 | ANS_E-Commerce(702IT0E027)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / COMPUTER | E-Commerce, Sem VI, Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / IT, MBA TECH / I T | Ecommerce, Sem-VII, Final Exam 2024-25.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B TECH / I T, MBA TECH / I T | E-Commerce, Sem-VI, Yerar 2022-23, Final Exam.pdf |

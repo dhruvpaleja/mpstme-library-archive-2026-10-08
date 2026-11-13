@@ -489,243 +489,7 @@ Identify sections of ITAA 2008 for following cybercrimes
 06
 ````
 
-## 2013-14 · Final-Exam · Sem 8 · paper 9131047aef9e
-
-- Departments: Information Technology
-- Programmes: B TECH / IT
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/INFORMATION SECURITY ASSISTANCE AND FORENSICS/INFORMATION SECURITY ASSURANCE AND FORENSICS B TECH (IT), 2013-14 FINAL EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/05/2014
-- Text: ocr (2 pages), mean OCR confidence 93.6
-
-````text
-SVKM’s NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (Information Technology) Year: IV Semester: VIII
-
-Academic Year: 2013-2014
-
-Subject : Information Security Assurance and Forensics
-
-Marks: 100: 7 “sy %,
-Date : 13/05/2014 Time : 10,00 am to 1.00:prm%
-Durations: 3 (hrs) : dz «
-Final-Examination Wa dy
-MERE ee MUNA TOR ee ry,
-Instruction: Candidates should read carefully the instructions printed o men
-
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data wherever necessary. Assumptions made must be clearly
-stated.
-
-Q1 Answer the following questions
-
-a) Explain moral disengagement with an example. 05
-b) Explain phases of Reconnaissance. 05
-c) What are the functions of following registry HKEY’s 05
-a. HKEY_ CLASS ROOT b. HKEY_USERS
-d) What is Identity Theft? Which section of IT ACT will be applicable to 05
-Identity theft?
-Q2
-a) Police is investigating a case in which a woman victim has received some 10
-
-offensive mails. You are a computer forensic expert helping police to solve
-this case. You are required to analyze email. What information can be
-collected from email header?
-
-b) What are email attacks? How will you prevent it? 10
-Q3
-
-a) Describe the general procedure for live acquisition of data? 10
-b) You are a professional penetration tester. Manager of a leading bank 10
-
-approaches you for penetration testing of their network. What general steps
-will you follow for this security audit?
-
-a) Describe some of the basic steps for computer forensics investigations? 10
-b) The victim’s email account password is stolen and the account is then 10
-misused for sending out malicious code (virus, worm, Trojan etc) to people
---- page 2 ---
-Q5
-a)
-b)
-
-Q6
-a)
-b)
-
-Q7
-a)
-
-b)
-
-in the victim’s address book. The recipients of these viruses believe that the
-email is coming from a known person and run the attachments. This infects
-their computers with the malicious code. For this scenario, answer the
-following
-
-1. List the motives for such a crime.
-
-2. What sections of the Indian IT act are applicable
-
-3. Who is liable?
-
-4. Explain mode of operation of such a crime?
-
-What is scanning? Explain types of scanning.
-You want to launch smurf attack against victim computer whose IP is
-9.9.9.9. What steps will you follow to execute this attack?
-
-Write a note on Hacker’s ethics?
-What is Inode? What information can be extracted from Inode?
-
-As a penetration tester you have been assigned the task to collect
-information about the server whose IP is 10.10.10.1. How will you perform
-passive scanning to collect information related to open ports, domain
-information, etc. Explain any three utilities that can be used collect
-information.
-
-Who is the regulator under the IT Act? What role does an Adjudicating
-Officer play under the IT Act?
-
-10
-10
-
-10
-
-10
-
-10
-
-10
-````
-
-## 2013-14 · Re-Exam · Sem 8 · paper b767038d20fe
-
-- Departments: Information Technology
-- Programmes: B TECH / IT
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/INFORMATION SECURITY ASSISTANCE AND FORENSICS/INFORMATION SECURITY ASSURANCE AND FORENSICS B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 02/07/2014
-- Text: ocr (2 pages), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Information Technology) Year: IV Semester: VIII
-
-Batch : 2013-2014
-Academic Year: 2013-2014
-
-Subject : Information Security Assurance and Forensics
-vores: i COMP SEMEN, ,
-Date : 02/07/2014 Time: {{ LO(OO » 41 $6¢ # i
-Durations: (8 NW IBRARY dg
-Re-Examination Se ;
-——————— * a x,
-Cas NES
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any four questions.
-3) In all five questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data wherever necessary. Assumptions made must be clearly
-stated.
-
-Ql Answer the following questions
-
-a) What is moral disengagement? Explain with an example. 05
-b) What is Reconnaissance? Explain active and passive reconnaissance. 05
-c) What are the functions of following registry HKEY’s 05
-
-a. HKEY CURRENT_CONFIG b. HKEY CURRENT _USER
-d) What is Cyber Defamation? Which section of IT ACT will be applicable to 05
-Cyber Defamation? .
-
-Q2
-a) What information can be collected from email header? 10
-b) What is DDoS attack? How will you prevent it? 10
-Q3
-a) Police raided on terrorist outfit. You are a computer forensic expert in the 10
-
-team looking for evidence. Describe the general procedure you will follow
-for live acquisition of data?
-
-b) You are a certified penetration tester. Manager ofa leading financial 10
-organization approaches you for penetration testing of their network. What
-general steps will you follow for this security audit?
-
-Q4
-a) Describe some of the basic steps for computer forensics investigations? 10
-b) You are a young entrepreneur having ecommerce website. You are facing a 10
-
-Denial of Service attack against your web server. For this scenario, answer
-the following
-
-<stTTE aay
-Ka aa ON Xe,
---- page 2 ---
-Qs
-a)
-
-Q6
-a)
-
-b)
-
-Q7
-a)
-
-b)
-
-1. List the motives for such a crime.
-
-2. What sections of the Indian IT act are applicable
-3. Who is liable?
-
-4. Explain mode of operation of such a crime?
-
-What is sniffing? Explain types of sniffing. 10
-You want to launch session hijacking attack. Explain session hijacking and 10
-steps to launch such an attack.
-
-What is hacking? Explain steps involved in hacking. What are various 10
-motivations for a hacker?
-
-What are various data hiding techniques? 10
-As a penetration tester you have been assigned the task to collect 10
-
-information about the server whose IP is 10.10.10.1. How will you perform
-passive scanning to collect information related to open ports, domain
-information, etc. Mention some of the utilities that can be used.
-
-Consider that a cyber criminal has launched a spoofing attack on the 10
-website of a bank. From among the thousands of emails sent by him to the
-bank’s customers, he gets response from a person named “Bagha”. Bagha
-inadvertently gives his credentials to cyber criminal. Cyber criminal makes
-an online transfer of funds from Bagha’s account. He gets regular updates
-via SMS. Bagha realizes his mistakes and immediately informs the bank.
-Explain broad steps for investigation of this case and identify the section of
-IT act applicable in this case.
-
-Yee een cee nen ne eee n cn nnennnnnenennnneener a a Hot annem en nnnmmmnnnnnannnneeee XK
-````
-
-## Year not stated · Final-Exam · Sem 8 · paper 9120d69e84e2
+## 2014-15 · Final-Exam · Sem 8 · paper 9120d69e84e2
 
 - Departments: Information Technology
 - Programmes: B TECH / IT
@@ -870,4 +634,240 @@ adjucating officer? oo
 r
 
 Fa
+````
+
+## 2013-14 · Final-Exam · Sem 8 · paper 9131047aef9e
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/INFORMATION SECURITY ASSISTANCE AND FORENSICS/INFORMATION SECURITY ASSURANCE AND FORENSICS B TECH (IT), 2013-14 FINAL EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/05/2014
+- Text: ocr (2 pages), mean OCR confidence 93.6
+
+````text
+SVKM’s NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (Information Technology) Year: IV Semester: VIII
+
+Academic Year: 2013-2014
+
+Subject : Information Security Assurance and Forensics
+
+Marks: 100: 7 “sy %,
+Date : 13/05/2014 Time : 10,00 am to 1.00:prm%
+Durations: 3 (hrs) : dz «
+Final-Examination Wa dy
+MERE ee MUNA TOR ee ry,
+Instruction: Candidates should read carefully the instructions printed o men
+
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data wherever necessary. Assumptions made must be clearly
+stated.
+
+Q1 Answer the following questions
+
+a) Explain moral disengagement with an example. 05
+b) Explain phases of Reconnaissance. 05
+c) What are the functions of following registry HKEY’s 05
+a. HKEY_ CLASS ROOT b. HKEY_USERS
+d) What is Identity Theft? Which section of IT ACT will be applicable to 05
+Identity theft?
+Q2
+a) Police is investigating a case in which a woman victim has received some 10
+
+offensive mails. You are a computer forensic expert helping police to solve
+this case. You are required to analyze email. What information can be
+collected from email header?
+
+b) What are email attacks? How will you prevent it? 10
+Q3
+
+a) Describe the general procedure for live acquisition of data? 10
+b) You are a professional penetration tester. Manager of a leading bank 10
+
+approaches you for penetration testing of their network. What general steps
+will you follow for this security audit?
+
+a) Describe some of the basic steps for computer forensics investigations? 10
+b) The victim’s email account password is stolen and the account is then 10
+misused for sending out malicious code (virus, worm, Trojan etc) to people
+--- page 2 ---
+Q5
+a)
+b)
+
+Q6
+a)
+b)
+
+Q7
+a)
+
+b)
+
+in the victim’s address book. The recipients of these viruses believe that the
+email is coming from a known person and run the attachments. This infects
+their computers with the malicious code. For this scenario, answer the
+following
+
+1. List the motives for such a crime.
+
+2. What sections of the Indian IT act are applicable
+
+3. Who is liable?
+
+4. Explain mode of operation of such a crime?
+
+What is scanning? Explain types of scanning.
+You want to launch smurf attack against victim computer whose IP is
+9.9.9.9. What steps will you follow to execute this attack?
+
+Write a note on Hacker’s ethics?
+What is Inode? What information can be extracted from Inode?
+
+As a penetration tester you have been assigned the task to collect
+information about the server whose IP is 10.10.10.1. How will you perform
+passive scanning to collect information related to open ports, domain
+information, etc. Explain any three utilities that can be used collect
+information.
+
+Who is the regulator under the IT Act? What role does an Adjudicating
+Officer play under the IT Act?
+
+10
+10
+
+10
+
+10
+
+10
+
+10
+````
+
+## 2013-14 · Re-Exam · Sem 8 · paper b767038d20fe
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/IT/VIII SEMESTER/INFORMATION SECURITY ASSISTANCE AND FORENSICS/INFORMATION SECURITY ASSURANCE AND FORENSICS B TECH (IT), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 02/07/2014
+- Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Information Technology) Year: IV Semester: VIII
+
+Batch : 2013-2014
+Academic Year: 2013-2014
+
+Subject : Information Security Assurance and Forensics
+vores: i COMP SEMEN, ,
+Date : 02/07/2014 Time: {{ LO(OO » 41 $6¢ # i
+Durations: (8 NW IBRARY dg
+Re-Examination Se ;
+——————— * a x,
+Cas NES
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data wherever necessary. Assumptions made must be clearly
+stated.
+
+Ql Answer the following questions
+
+a) What is moral disengagement? Explain with an example. 05
+b) What is Reconnaissance? Explain active and passive reconnaissance. 05
+c) What are the functions of following registry HKEY’s 05
+
+a. HKEY CURRENT_CONFIG b. HKEY CURRENT _USER
+d) What is Cyber Defamation? Which section of IT ACT will be applicable to 05
+Cyber Defamation? .
+
+Q2
+a) What information can be collected from email header? 10
+b) What is DDoS attack? How will you prevent it? 10
+Q3
+a) Police raided on terrorist outfit. You are a computer forensic expert in the 10
+
+team looking for evidence. Describe the general procedure you will follow
+for live acquisition of data?
+
+b) You are a certified penetration tester. Manager ofa leading financial 10
+organization approaches you for penetration testing of their network. What
+general steps will you follow for this security audit?
+
+Q4
+a) Describe some of the basic steps for computer forensics investigations? 10
+b) You are a young entrepreneur having ecommerce website. You are facing a 10
+
+Denial of Service attack against your web server. For this scenario, answer
+the following
+
+<stTTE aay
+Ka aa ON Xe,
+--- page 2 ---
+Qs
+a)
+
+Q6
+a)
+
+b)
+
+Q7
+a)
+
+b)
+
+1. List the motives for such a crime.
+
+2. What sections of the Indian IT act are applicable
+3. Who is liable?
+
+4. Explain mode of operation of such a crime?
+
+What is sniffing? Explain types of sniffing. 10
+You want to launch session hijacking attack. Explain session hijacking and 10
+steps to launch such an attack.
+
+What is hacking? Explain steps involved in hacking. What are various 10
+motivations for a hacker?
+
+What are various data hiding techniques? 10
+As a penetration tester you have been assigned the task to collect 10
+
+information about the server whose IP is 10.10.10.1. How will you perform
+passive scanning to collect information related to open ports, domain
+information, etc. Mention some of the utilities that can be used.
+
+Consider that a cyber criminal has launched a spoofing attack on the 10
+website of a bank. From among the thousands of emails sent by him to the
+bank’s customers, he gets response from a person named “Bagha”. Bagha
+inadvertently gives his credentials to cyber criminal. Cyber criminal makes
+an online transfer of funds from Bagha’s account. He gets regular updates
+via SMS. Bagha realizes his mistakes and immediately informs the bank.
+Explain broad steps for investigation of this case and identify the section of
+IT act applicable in this case.
+
 ````

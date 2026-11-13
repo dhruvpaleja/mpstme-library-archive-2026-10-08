@@ -2923,6 +2923,8 @@ Present Value of an Annuity Factors ==> (1-(1 + k)4-n)/k
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/ACTURIAL SCIENCE/Actuarial Science, Sem-V, Year 2025-26, Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: ocr (7 pages), mean OCR confidence 51.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -3087,7 +3089,6 @@ Standard Normal Distribution Table
 3.4 | 4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4997 | .4998
 3.5 | 4998 | .4998 | .4998 | .4998 | .4998 | .4998 | .4998 | .4998 | .4998 | .4998
 
-Gilles Cazelais. Typeset with IATEX on April 20, 2006.
 --- page 4 ---
 ee fe
 a ei oe
@@ -3442,6 +3443,7 @@ an
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/ACTURIAL SCIENCE/Actuarial Science, Sem-V, Batch 2024-25 Re Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (8 pages), mean OCR confidence 84.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3691,7 +3693,6 @@ pas 887028 "10139 01143 54
 --- page 8 ---
 Me CST = 78) ULTIMATE MORTALITY FUNCTIONS
 
-hee igus Seams reece ag
 
 x : 1, x
 eo ee

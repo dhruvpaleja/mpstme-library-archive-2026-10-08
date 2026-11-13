@@ -1,6 +1,6 @@
 # Operations Management
 
-**55** unique papers (88 copies across programmes) · 2007-08 to 2025-26 · 11 programmes · Sem 7, Trim 5, Trim 10, Trim 12, Trim 14
+**54** unique papers (87 copies across programmes) · 2007-08 to 2025-26 · 11 programmes · Sem 7, Trim 5, Trim 10, Trim 12, Trim 14
 
 Download only this subject, sorted by academic year:
 
@@ -16,18 +16,18 @@ Also filed as: `OPERATION MANAGEMENT`, `OPRATION MANAGEMRNT`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041 | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Operations Management(703TO0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041 | QP_Operations Management(703TO0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech DS 7052 | QP_Operations Management(703TO0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech AI 7051 | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041 | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech AI 7051 | QP_Operations Management(703TO0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech Computer 7047 | QP_Operations Management(703TO0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech DS 7052 | QP_Operations Management(703TO0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech AI 7051 | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Operations Management(703TO0C001)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper |  | MBA TECH | Operations Management, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper |  | MBA TECH | Operation Management , Re-exam 2024-25.pdf |
 | 2023-24 | Final-Exam | Question paper |  | MBA TECH | Operations Management,Final 2023-2024.pdf |
@@ -57,7 +57,6 @@ Also filed as: `OPERATION MANAGEMENT`, `OPRATION MANAGEMRNT`
 | 2011-12 | — | Question paper | Trim 10 | MBA TECH / CHEMICAL | OPERATIONS MANAGEMENT 2011-2012.pdf |
 | 2011-12 | Re-Exam | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | OPERATIONS MANAGEMENT BATCH 2011-12 RE EXAM0001.pdf |
 | 2011-12 | Re-Exam | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | OPERATIONS MANAGEMENT X MBA TECH 2011-12 RE EXAM.pdf |
-| 2011-12 | Re-Exam | Question paper | Trim 5 | MCA | OPERATION RESEARCH BATCH 2011-12 RE EXAM0005.pdf |
 | 2010-11 | — | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | OPERATIONS MANAGEMENT BATCH 2010-2011.pdf |
 | 2010-11 | — | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | operation management 2010-2011.pdf |
 | 2009-10 | — | Question paper | Trim 10 | MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING | 2009-2010(170).pdf |

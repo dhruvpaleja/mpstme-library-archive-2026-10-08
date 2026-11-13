@@ -1,6 +1,6 @@
 # Engineering Geology: question papers in full
 
-32 unique papers · 2013-14 to 2018-19 · Civil
+31 unique papers · 2013-14 to 2018-19 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -490,6 +490,117 @@ Ill. Normal and reverse fault.
 IV.   Order of superposition.
 ````
 
+## 2017-18 · Re-Exam · Sem 3 · paper ace89ac9c72b
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY (BATCH 16-17 ) RE-EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 02 December 2017
+- Text: ocr (2 pages), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (CIVIL) <“ Year: II. Semester: II
+
+Batch: 2016-17
+Academic Year: 2017-2018
+
+Subject: Engineering Geology apiitih WE
+Marks: 70 * all alte
+
+Date: 02 December 2017 Time: 10.00 afii,to 1. 08 pm 4
+Durations: 3 (hrs): lieial 2
+
+No. of Pages: Bet RARYW
+Re-Examination Sa <I
+
+Instructions: Candidates should read carefully the instructions printed on the question
+
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 (one) is compulsory.
+
+2. Out of remaining questions, attempt any 4 (four) questions.
+
+3. In all 5 (five) questions are to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume suitable data if necessary.
+
+1. a. Give the name of the mineral which has the following sets of properties: (5x 1)
+ia Botryoidal form, cherry red streak, submetallic lustre
+ii. One set of cleavage, white colour, pearly lustre
+iii. Greyish colour, no cleavage, conchoidal fracture
+iv. Three sets of cleavage, pink colour, sub-vitreous lustre
+v. Ink blue colour, differential hardness, bladed form
+
+b. Describe in ‘one sentence: (5 x 1)
+
+i Axial Plane
+il. Frost action in mechanical weathering
+iii. Seismograph
+iv. Porphyritic texture
+
+v. Epoch and Era
+
+c. Draw well labelled diagrams of any 4 (four) of the following: (4x1)
+i. Hanging Valley
+ii. Levee
+iii. Barchan
+iv. Longitudinal profile of a river
+= v. Ox bow lake "
+. vi. Morraines
+2. a. State and explain the laws of correlation, in stratigraphy. Describe the 7
+geological time scale.
+b. . What is RQD? 7
+
+VJ
+--- page 2 ---
+The total length drilled was 12m. Rock types recovered from the drill cores are
+as follows: Clay soil (170 cm), Sandy unconsolidated rock (121 cm), Friable
+sandstone (170 cm), Calcareous sandstone (155 cm), Limestone (230 cm),
+Granite (126 cm) and Granite gneiss (80 cm).’Calculate the RQD.
+
+Write short notes on any 3 (three) of the following:
+i. Batholith
+ii. Types of sills
+iii. Aquifer and Aquifuge
+iv. Grouting and Rock Bolting
+v. Relationship between tunnels and folds
+vi. Earthquake waves
+Explain the seismic method of conducting geophysical prospecting.
+
+Name the different aspects that are used to describe the igneous textures.
+Describe how directive textures may be used to locate hidden volcanic vents.
+Describe in detail the different sedimentary environments. °
+
+Draw well labelled diagrams to explain the different types of plate tectonic
+movement and explain the formation of the Himalayan Range.
+Describe how folds may be classified according to the position of the fold axis.
+
+What are reverse faults? Describe the different types of the same.
+What are the factors that affect and cause metamorphism in rocks?
+
+What are the ways in which landsides may be prevented?
+
+Explain with diagrams how gravity dams and folded structures are related and
+which positions should be avoided for safety of the dam and why.
+
+Explain the terms “Disconformity” and “Columnar Joints”.
+
+2d
+
+(3 x3)
+
+(2x2)
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper cdc8851c40ad
 
 - Departments: Civil
@@ -591,160 +702,6 @@ b. Explain the term “Shot creting”, as a means of ground improvement techniq
 c. Explain the terms “Seif Dunes” and “Columnar Joints”. Draw suitable diagrams to (2 x 2)
 depict them.
 2] L
-````
-
-## 2017-18 · Re-Exam · Sem 4 · paper fbc7ae254515
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/ENGINEERING GEOLOGY/Numerical Techniques Batch 2016-17 ,2017-18 Re Exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 June 2018
-- Text: ocr (3 pages), mean OCR confidence 86.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program: B.Tech Integrated (All Streams) Year: I Semester : IV
-
-AcademicYear: 2017-2018
-Subject: Numerical Techniques
-
-Marks: 70
-Date: 30 June 2018 Time: 2.00 pm tf
-
-Durations: 3 (hrs) OP a oS
-XNMIMS UN
-
-No. of Pages: 03.
-Re-Examination (2016-17/2017-18) _
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt any seven questions
-
-(a) Using Newton-Raphson method, find the first root (x) of the equation --- (2)
-x logyypx —1.2 = Oifxg = 3.
-(b) Find a real root between 2.70 and 2.71 for the equation x? - 4x - 9=0 using bisection --- (2)
-method, upto second approximation.
-(c) Given --- (2)
-x 0 1 2 3 4
-y 1 11 21 28 30
-Find A4yo. ~
-x
-@ Find A [ 2 | the interval of differencing being unity. ~-@)
-(x+2)!
-(e) The water under portion of a water-tank is divided by horizontal planes one metre apart into --- (2)
-
-the following areas: 472, 398, 302, 198, 116, 60, 34, 12 and 4 sq. m. Use the trapezoidal
-rule to find the volume in cubic metres between the two extreme-ends.
-
-ae --- (2)
-
-Tax dx by Simpson’s (1/3) rule by using the following data.
-
-1
-Evaluate f a
-
-x: 0 0.25 0.50 0.75 1.0
-y: 0 0.06153 0.22222 0.39560 0.5
-
-4s
---- page 2 ---
-(8) Using Picard’s method, solve =y+X with x) = 0,yo = 1, upto first approximation. ~~ (2)
-(h) Using Euler's method, find the approximate value of y in 2 steps taking h = 0.02. Given that —--- (2)
-dy _y-x -
-dk jen and y(0) = 1.
-Q.2
-(a) The time T of a complete oscillation of a simple pendulum of length l is given by --- (4)
-T =2n ['/g , where g is a constant. If there is an error of 2% in the value of J, find the
-percentage error in the calculated value of T.
-(b) Find a real root of the equation x? — x — 1 = 0 which lies between 1.0 and 2.0 by False --- (4)
-Position method up to third approximation.
-(c) Find the values of a, b and c, so that y = a + bx + cx? is the best fit to the following data --- (6)
-x: 0 1 2 3 4
-y: 1 0 3 10. 21
-Q.3
-(a) Solve the equation 5 sin?x — 8 cos°x = 0 in [0.5, 1.5] for the root by Newton-Raphson — --- (4)
-method correct to three decimal places. :
-(b) Using the secant method, find a real root of the equation f(x) = x—e7* = 0 between 1 --- (4)
-and 2, correct to 3 decimal places.
-(c) Find a real root between 0.5 and 0.6 for the equation xe* = 1 using bisection method, upto --- (6)
-sixth approximation.
-Q4
-(a) Solve the following equations by Gauss Elimination method --- (4)
-x+4y-z=-5
-x+y—6z=-12
-3x-y-z=4
-(b) Solve the following equations by Gauss Jordan method --- (4)
-xty+z=9
-2x —3y+4z=13
-3x + 4y +5z = 40
-(c) Solve the following equations by Jacobi’s method up to 6 iterations --- (6)
-
-15x+2y+z=18
-2x + 20y —3z=19
-3x — 6y + 25z = 22
-
-2p
---- page 3 ---
-Q.5
-
-(a) From the following table find the number of persons getting wages less than 15. --- (4)
-Wages in Rs.. : 0-10 10-20 20-30 30-40
-No. of persons: 9 30 35 42
-(b) The profit in lakh of rupees of an organization in different years is given below: --- (4)
-Year 1955 1960 1965 1970 1975
-Profit 301 329 357 387 421
-Estimate the profit in 1950.
-(c) Using Lagrange's interpolation formula, find the value of y when x = 10 from the following — --- (6)
-table: . :
-: x: b] 6 9 11
-y: 12 13 14 16
-Q.6
-(a) 64 ng Simpson's 3/8 wvidine the -—- (4)
-Compute Sj Tex? dx using Simpson's 3/8" rule by dividing the interval in 6 equal parts.
-d =
-(6) From the following table of values of x and y, obtain ° for x = 1.2 co
-x 1.0 1.2 14 1.6 1.8 20 ° 22
-y 2.7183 3.3201 4.0552 4.9530 6.0496 7.3891 9.0250
-(c) Compute the value of the definite integral --- (6)
-
-In (sinx —log,x + e*)dx
-
-by dividing the interval in 6 equal parts using
-(i) Trapezoidal rule
-(ii) Simpson's 1/3" rule.
-
-Q.7
-, d =
-
-(a) If y satisfies the equation > = x + y and y =0 when x = 1, using Taylor's expansion for @)
-y about x = 1, find y when x = 0.1 correct to 5 decimal places. Take first six terms of Taylor's
-series.
-
-(b) Using Euler's method, find the approximate value of y at x = 0.6 in 3 steps, given that --- (4)
-AY xs op 4, ay? =
-aX + y*,y(0)=1.
-
-(c) Apply Runge-Kutta method of 4" order to find an approximate value of y at x = 0.2, if --- (6)
-a
-~ =x+ y? given that y= | when x = 0 in steps ofh = 0.1.
-
-3/3
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper f4c7fd73c37e
@@ -1129,115 +1086,82 @@ of important coal deposits of India.
 (07)
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper ace89ac9c72b
+## 2016-17 · Re-Exam · Sem 3 · paper 792d7efbefab
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY (BATCH 16-17 ) RE-EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 02 December 2017
-- Text: ocr (2 pages), mean OCR confidence 91.2
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY B TECH (CIVIL), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 28 November 2016
+- Text: ocr (2 pages), mean OCR confidence 90.8
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (CIVIL) <“ Year: II. Semester: II
+Programme: B. Tech (CIVIL) Year: I. Semester : III
+Batch : 2014-2015 / 2015-2016
 
-Batch: 2016-17
-Academic Year: 2017-2018
+Academic Year : 2016-2017
+Subject : Engineering Geology
 
-Subject: Engineering Geology apiitih WE
-Marks: 70 * all alte
+Date : 28 November 2016
 
-Date: 02 December 2017 Time: 10.00 afii,to 1. 08 pm 4
-Durations: 3 (hrs): lieial 2
+Re-Examination
 
-No. of Pages: Bet RARYW
-Re-Examination Sa <I
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question
+NB:
 
-paper and on the cover of the Answer Book, which is provided for their use.
+1) Question No. 1 (one) is compulsory.
 
-1. Question No. 1 (one) is compulsory.
+2) Out of remaining questions, attempt any four (4) questions.
+3) In all 5 (Five) questions to be attempted.
 
-2. Out of remaining questions, attempt any 4 (four) questions.
+4) All questions carry equal marks.
 
-3. In all 5 (five) questions are to be attempted.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
-4. All questions carry equal marks.
+1. a. Draw well labelled diagrams for the following and explain the mechanisms: 4x2
+i. Schlumberger array of electrical survey
+ii. Hanging Valley
+iii. Pedestal Rock
+iv. Folds and their effect upon tunnels
 
-5. Answer to each new question to be started on a fresh page.
+b. Give the name of the mineral: 4x1
+i. Two sets of cleavage, flesh pink colour, vitreous lustre
+ii. Three sets.of cleavage, greyish white colour, vitreous lustre
+iii. Botroidal form, cherry red streak, metallic lustre
+iv. Fibrery form, silky lustre, greyish green colour
 
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume suitable data if necessary.
+2.0 a. Describe folds on the basis of axial planes and fold axis and support with well labelled 6
+diagrams. Explain what dip and strike are.
 
-1. a. Give the name of the mineral which has the following sets of properties: (5x 1)
-ia Botryoidal form, cherry red streak, submetallic lustre
-ii. One set of cleavage, white colour, pearly lustre
-iii. Greyish colour, no cleavage, conchoidal fracture
-iv. Three sets of cleavage, pink colour, sub-vitreous lustre
-v. Ink blue colour, differential hardness, bladed form
+b. Explain the various zones in the interior of the earth. . 6
+3. a. . Write a short note on electrical method of geophysical investigations. 6
+b. Explain the various laws of correlation. Describe the various units of the Deccan 6
+ial
+Volcanics.
+pe 4. a. How does an ox bow lake form? What are the different ways in which ice can cause 6
+weathering and erosion?
+b. Describe the different types of reverse faults. . 6
 
-b. Describe in ‘one sentence: (5 x 1)
-
-i Axial Plane
-il. Frost action in mechanical weathering
-iii. Seismograph
-iv. Porphyritic texture
-
-v. Epoch and Era
-
-c. Draw well labelled diagrams of any 4 (four) of the following: (4x1)
-i. Hanging Valley
-ii. Levee
-iii. Barchan
-iv. Longitudinal profile of a river
-= v. Ox bow lake "
-. vi. Morraines
-2. a. State and explain the laws of correlation, in stratigraphy. Describe the 7
-geological time scale.
-b. . What is RQD? 7
-
-VJ
+4/2.
 --- page 2 ---
-The total length drilled was 12m. Rock types recovered from the drill cores are
-as follows: Clay soil (170 cm), Sandy unconsolidated rock (121 cm), Friable
-sandstone (170 cm), Calcareous sandstone (155 cm), Limestone (230 cm),
-Granite (126 cm) and Granite gneiss (80 cm).’Calculate the RQD.
+5. a. Describe convergent tectonic boundaries with suitable diagrams: 6
+b. What are the geological considerations that one has to take while constructing tunnels? 6
 
-Write short notes on any 3 (three) of the following:
-i. Batholith
-ii. Types of sills
-iii. Aquifer and Aquifuge
-iv. Grouting and Rock Bolting
-v. Relationship between tunnels and folds
-vi. Earthquake waves
-Explain the seismic method of conducting geophysical prospecting.
+6. a. Write short notes on any four of the following: 4x3
+i. .Transcurrent boundaries
+ii. Form in minerals
+iii. Strike slip and Dip slip faults
+iv. RQD
+v. Angular unconformity vs Disconformity
 
-Name the different aspects that are used to describe the igneous textures.
-Describe how directive textures may be used to locate hidden volcanic vents.
-Describe in detail the different sedimentary environments. °
-
-Draw well labelled diagrams to explain the different types of plate tectonic
-movement and explain the formation of the Himalayan Range.
-Describe how folds may be classified according to the position of the fold axis.
-
-What are reverse faults? Describe the different types of the same.
-What are the factors that affect and cause metamorphism in rocks?
-
-What are the ways in which landsides may be prevented?
-
-Explain with diagrams how gravity dams and folded structures are related and
-which positions should be avoided for safety of the dam and why.
-
-Explain the terms “Disconformity” and “Columnar Joints”.
-
-2d
-
-(3 x3)
-
-(2x2)
+7. a. What are the textures of typical igneous rocks? . ; 6
+b. Describe the formation of the Himalayas. 6
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper bf720a465270
@@ -1681,25 +1605,28 @@ Describe the formation of the Himalayas. 6
 V/e-
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper 792d7efbefab
+## 2015-16 · Re-Exam · Sem 3 · paper ac7632f1b97e
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY B TECH (CIVIL), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 28 November 2016
-- Text: ocr (2 pages), mean OCR confidence 90.8
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/12/2015
+- Text: ocr (2 pages), mean OCR confidence 91.2
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (CIVIL) Year: I. Semester : III
-Batch : 2014-2015 / 2015-2016
+Programme: B. Tech (Civil) Year: Il Semester: II
+Batch: 2013-2014
 
-Academic Year : 2016-2017
-Subject : Engineering Geology
+Academic Year: 2015-2016 "a ait WR.
+Nia fey,
+Subject: Engineering Geology ig Nis
+; Marks : 100/ ui. , 24"
+Date: 04/12/2015 Time : 10. oth ph io 1% 00 4
 
-Date : 28 November 2016
+Duration: 3 (hrs mS
 
 Re-Examination
 
@@ -1715,48 +1642,140 @@ NB:
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5) Answer to each new question to be started ona fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+7) Assume Suitable data if necessary
 
-1. a. Draw well labelled diagrams for the following and explain the mechanisms: 4x2
-i. Schlumberger array of electrical survey
+1. a. Draw well labelled diagrams for the following and explain the mechanisms: 5x3
+i. Barchan Dune
 ii. Hanging Valley
-iii. Pedestal Rock
-iv. Folds and their effect upon tunnels
+ili. Levee
+iv. Pedestal Rock
+v. Corrie Lake
 
-b. Give the name of the mineral: 4x1
-i. Two sets of cleavage, flesh pink colour, vitreous lustre
-ii. Three sets.of cleavage, greyish white colour, vitreous lustre
+b. Give the name of the mineral: 5x1
+
+i. One set of cleavage, black colour, pearly lustre
+ii. Three sets of cleavage, pink tinge, vitreous lustre
 iii. Botroidal form, cherry red streak, metallic lustre
 iv. Fibrery form, silky lustre, greyish green colour
+yv. Variable hardness, ink blue colour
 
-2.0 a. Describe folds on the basis of axial planes and fold axis and support with well labelled 6
-diagrams. Explain what dip and strike are.
+2. a. Describe folds on the basis of axial traces and support with well labelled diagrams. 10
+b. Explain the various Groundwater zones. What is an aquifer? 10
+3. a. Write a short note on electrical method of geophysical investigations. 10
+b. Give an account of the formation of the Deccan Volcanics and the various formations of 10
+the same.
+pe 4. a. How does an ox bow lake form? What are the different ways in which running water 12
+can cause weathering and erosion?
+b. Describe the different types of unconformities. 08
 
-b. Explain the various zones in the interior of the earth. . 6
-3. a. . Write a short note on electrical method of geophysical investigations. 6
-b. Explain the various laws of correlation. Describe the various units of the Deccan 6
-ial
-Volcanics.
-pe 4. a. How does an ox bow lake form? What are the different ways in which ice can cause 6
-weathering and erosion?
-b. Describe the different types of reverse faults. . 6
-
-4/2.
+4f,—
 --- page 2 ---
-5. a. Describe convergent tectonic boundaries with suitable diagrams: 6
-b. What are the geological considerations that one has to take while constructing tunnels? 6
+What are the typical kinds of measures taken to prevent landslides? 10
 
-6. a. Write short notes on any four of the following: 4x3
-i. .Transcurrent boundaries
-ii. Form in minerals
-iii. Strike slip and Dip slip faults
+What are the geological considerations that one has to take while constructing gravity 10
+dams?
+Write short notes on any four of the following: 4x5
+
+i. Convergent tectonic boundaries
+ii. Cleavage
+
+iii. Moh’s scale of hardness
+
 iv. RQD
-v. Angular unconformity vs Disconformity
 
-7. a. What are the textures of typical igneous rocks? . ; 6
-b. Describe the formation of the Himalayas. 6
+v. Metasomatism
+
+What are the textures of typical sedimentary rocks? 10
+Describe the various intrusive igneous structures that are found in nature. 10
+
+x
+
+Pf2—
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 98895281d6c6
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 04/12/2015
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+aa
+Programme: B. Tech (Civil) Year: I Semester: Ii]
+Batch: 2014-2015 je
+Academic Year: 2015-2016 : ~
+. Subject: Engineering Geology MPSTM x yo
+/ ; Metis! LIBRARY )-
+/ Date: 04/12/2015 Time: to 1.00 pal
+Duration: me tf
+se aS
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. In all 5 questions to attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) Solve Any Four
+“ a) Define geology and explain significance of geology in civil engineering. es)
+b) Give a general view ot internal structure of the earth as reveled by the 3
+seismologicalEvidence. :
+c) Classify different types of rocks based upon its mode of origin? a
+d) —_— Differentiate between volcanic eruption and fissure eruption: 3
+e) Define earthquake, explain the civil engineering aspects of earthquake and common 3
+
+approach to face it.
+
+Q.2) Solve
+4) Compare the contrast erosion performed by three natural agencies Rivers, 6
+
+Groundwater, and marine waves on the surface of earth.
+
+b) Water is the greatest modifier of surface topography’. Discuss the statement 6
+--- page 2 ---
+Q.3) Solve \2
+
+a) Discuss the process of formation of minerals in nature? Which group of minerals is 6
+mostcommon in occurrence? ;
+
+b) Explain the salient features of Pyroxene and amphibole group of minerals 6
+
+Q4) Solve ; |2
+
+a) What is a rock forming mineral?Explain rock cycle 6
+
+bd) Write a brief note on “faults in rocks, their cause and effects on the engineering . b&
+quality of rocks”.
+
+Q.5) Solve \2
+
+a) Describe with the help of neat sketch, various parts of folds as understood in 6
+structural geology.
+
+b) What do you understand by economic mineral deposits? Explain felsic and mafic 6
+
+minerals with suitable examples.
+
+Q.6) Solve. {2
+a) Define Classification of igneous rocks Based on depth of formation. 6
+b) What do you understand by Standard Stratigraphical Scale? 6
+Q7)_ Solve any Four {2
+a) Explain seismic refraction method of geophysical exploration 3
+b) Define aquifer, what is difference between free groundwater and artesian water? a
+c) What are the different geological considerations necessary for reservoir construction?. a
+4) . Describe the geological consideration for the construction of tunnels. 2
+e) Discuss mode of occurrence and methods of flow of subsurface water. 3
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper fe3cef5e714d
@@ -2138,89 +2157,6 @@ neat sketches.
 Poe
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper 98895281d6c6
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 04/12/2015
-- Text: ocr (2 pages), mean OCR confidence 89.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-aa
-Programme: B. Tech (Civil) Year: I Semester: Ii]
-Batch: 2014-2015 je
-Academic Year: 2015-2016 : ~
-. Subject: Engineering Geology MPSTM x yo
-/ ; Metis! LIBRARY )-
-/ Date: 04/12/2015 Time: to 1.00 pal
-Duration: me tf
-se aS
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. In all 5 questions to attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) Solve Any Four
-“ a) Define geology and explain significance of geology in civil engineering. es)
-b) Give a general view ot internal structure of the earth as reveled by the 3
-seismologicalEvidence. :
-c) Classify different types of rocks based upon its mode of origin? a
-d) —_— Differentiate between volcanic eruption and fissure eruption: 3
-e) Define earthquake, explain the civil engineering aspects of earthquake and common 3
-
-approach to face it.
-
-Q.2) Solve
-4) Compare the contrast erosion performed by three natural agencies Rivers, 6
-
-Groundwater, and marine waves on the surface of earth.
-
-b) Water is the greatest modifier of surface topography’. Discuss the statement 6
---- page 2 ---
-Q.3) Solve \2
-
-a) Discuss the process of formation of minerals in nature? Which group of minerals is 6
-mostcommon in occurrence? ;
-
-b) Explain the salient features of Pyroxene and amphibole group of minerals 6
-
-Q4) Solve ; |2
-
-a) What is a rock forming mineral?Explain rock cycle 6
-
-bd) Write a brief note on “faults in rocks, their cause and effects on the engineering . b&
-quality of rocks”.
-
-Q.5) Solve \2
-
-a) Describe with the help of neat sketch, various parts of folds as understood in 6
-structural geology.
-
-b) What do you understand by economic mineral deposits? Explain felsic and mafic 6
-
-minerals with suitable examples.
-
-Q.6) Solve. {2
-a) Define Classification of igneous rocks Based on depth of formation. 6
-b) What do you understand by Standard Stratigraphical Scale? 6
-Q7)_ Solve any Four {2
-a) Explain seismic refraction method of geophysical exploration 3
-b) Define aquifer, what is difference between free groundwater and artesian water? a
-c) What are the different geological considerations necessary for reservoir construction?. a
-4) . Describe the geological consideration for the construction of tunnels. 2
-e) Discuss mode of occurrence and methods of flow of subsurface water. 3
-````
-
 ## 2014-15 · Re-Exam · Sem 3 · paper af584ae5f261
 
 - Departments: Civil
@@ -2352,6 +2288,220 @@ Explain various causes of landslides.
 2=
 ````
 
+## 2014-15 · Re-Exam · Sem 6 · paper 70b5ec21ac12
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 09/05/2015
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+>: MBA Tech (CIVIL) Year: Il Semester: VI
+2013-14
+
+Academic Year: 2014-2015 ‘ Satta
+paling”?
+Subject: Engineering Geology -
+Marks; 7; 4008 9M ‘
+Date: 09/05/2015 Time: || \! 12. OOeperTRB 5, m
+
+Durations: 3 (hrs) _g#
+
+Re-Examination — a
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q1. Answer Any Four
+
+A Discuss the effect of deposition of sediments by Groundwater (5)
+B Illustrate any five physical Properties of Corundum (5)
+C_ Discuss briefly the effect of Metasotism 6)
+
+D_ Explain the Biostratigraphic Control Methods for establishing Correlation of Rocks (5)
+E_ Discuss briefly various Factors controlling water bearing capacity of Rocks (5)
+
+Q2. A_ Discuss with neat sketch various components of Folds and explain briefly the (10)
+causes of Folding
+
+B Illustrate and discuss briefly with neat sketch the features resulting due erosion by (10)
+River and Streams .
+
+Q3. A Explain briefly various Physical Properties of Minerals (10)
+B_ Explain in detail Amphibole group of Minerals (10)
+Q4. A Explain with neat sketch classification of Igneous Rocks on the basis of Mineral (10)
+Composition
+B_ Discuss the various types of Chemically Formed Sedimentary Rocks ; (10)
+L
+--- page 2 ---
+Q5.
+
+Q6.
+
+Q7.
+
+A
+
+A
+
+A
+
+Discuss in detail various features of Archean Group
+
+Discuss in detail various features of Vindhyan System
+
+Discuss the various types of Groundwater observed in Zone of Saturation
+Discuss in detail Geophysical Investigation For a Dam Site
+
+Explain with neat sketch various Structure of Metamorphic Rocks
+
+Discuss briefly Classification of Unconformity
+
+———a i
+
+(10)
+(10)
+(10)
+(10)
+
+(10)
+(10)
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper ff7969cf337f
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/ENGINEERING GEOLOGY/Engineering Geology Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01/07/2015
+- Text: ocr (2 pages), mean OCR confidence 94.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CIVIL) Year: III Semester: VI
+
+Academic Year: 2014-15
+Batch: 2013-14
+
+Subject : Engineering Geology Marks: 100
+
+Time : 2.00pm j
+Durations: 3 (hrs'
+Re-Examination
+
+Date : 01/07/2015
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their u
+
+NB:
+
+1) Question No. 1 (One) is compulsory.
+
+2) Out of remaining questions, attempt any 4 (Four) questions.
+
+3) In all 5 (Five) questions to be attempted.
+
+4) All questions carry equal marks. Rigures in brackets on the right hand side indicate full marks.
+5) Answer to each new question to be started on a fresh page.
+
+6) Draw diagrams wherever necessary.
+
+Q.1 20
+a) Name the following minerals:
+i. Two sets of cleavage, flesh pink in colour, shows graphic texture with quartz
+ii. Cherry red streak, greyish colour interbanded with red layers
+ili. Three sets of cleavage, clear white, CaCOs in composition 1x5
+iv. Dodecahedral crystal, maroon in colour
+v. Silky lustre, white, hardness 1
+b) Explain in one sentence with diagram:
+
+i. Mantle
+ii. Isoclinal Fold
+iii. Normal Fault 2ES
+iv. Dune
+v. Unconformity
+c) State true or false: 1&5
+
+i. The Nepal 2015 earthquake was due to shifting tectonic plates
+ii. Poikilitic texture is a typical metamorphic texture
+
+ili. Hanging Valleys are produced by glacial erosion
+
+iv. Recumbent folds have vertical axial traces
+
+v. Deccan Plateau is essentially made up of volcanic rocks
+
+Q.2
+
+a) Describe how Oil cartel Prices and new discoveries of oil wells can affect the economy 10
+
+t/a
+--- page 2 ---
+of a country.
+
+b) What are the different ways in which Glaciers and Wind erode the surface of the earth? 10
+Give the answer in a tabular format and with diagrams.
+
+Q.3
+
+a) Explain the term “Stratigraphy”. Comment upon principles of stratigraphy. 10
+
+b) Write a note on Petroleum formations in India, their origin and Occurrence. 10
+Q.4
+
+a) What kind of precautions can be taken against groundwater leakage while constructing 10
+
+tunnels?
+
+b) Describe any one classification of Sedimentary rocks. 10
+Q.5
+
+a) Describe the different types of unconformities. 10
+
+b) Describe the different types of Thermal Metamorphism. 10
+
+.
+
+Give a description of different kinds of folds.
+Explain the seismic method of sub surface Geophysical Investigations.
+
+Write short notes on any 5 (five) of the following:
+Mushroom Rock
+
+Schistocity
+
+Cone of Depression
+
+Mineral Streak
+
+Forces acting on gravity dams
+
+Earthquake Belts in India
+
+Importance of Geology in Civil Engineering
+````
+
 ## 2013-14 · Final-Exam · Sem 3 · paper a495ef647171
 
 - Departments: Civil
@@ -2359,6 +2509,7 @@ Explain various causes of landslides.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY CIVIL 2013-14 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07/12/2013
 - Text: ocr (2 pages), mean OCR confidence 90.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 AT ITE OF 2745 ~
@@ -2395,7 +2546,6 @@ NB: :
 5. Answer to each new question to be started on a fresh page.
 
 6. Figures in brackets on the right hand side indicate full marks.
-Ra ae IN LE TS a a ae
 
 Q.1) Solve Any Four _ (20)
 a) Explain the significance of geology in the field of Civil Engineering
@@ -2451,6 +2601,7 @@ e) Explain various causes of landslides.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04/12/2013
 - Text: ocr (2 pages), mean OCR confidence 91.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 aot OF} Mh,
@@ -2485,7 +2636,6 @@ NB:
 6. Figures in brackets on the right hand side indicate full marks.
 7. Draw diagrams wherever necessary
 
-LLL LT Ee LL EE La TE a a a AT a EET
 
 Q.1) | Answer Any 4 (Four) 20
 a) Describe cleavage and hardness as diagnostic physical properties of minerals. 05
@@ -2620,96 +2770,6 @@ x ———_«
 
 (10)
 (10)
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper ac7632f1b97e
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/12/2015
-- Text: ocr (2 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: Il Semester: II
-Batch: 2013-2014
-
-Academic Year: 2015-2016 "a ait WR.
-Nia fey,
-Subject: Engineering Geology ig Nis
-; Marks : 100/ ui. , 24"
-Date: 04/12/2015 Time : 10. oth ph io 1% 00 4
-
-Duration: 3 (hrs mS
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 (one) is compulsory.
-
-2) Out of remaining questions, attempt any four (4) questions.
-3) In all 5 (Five) questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1. a. Draw well labelled diagrams for the following and explain the mechanisms: 5x3
-i. Barchan Dune
-ii. Hanging Valley
-ili. Levee
-iv. Pedestal Rock
-v. Corrie Lake
-
-b. Give the name of the mineral: 5x1
-
-i. One set of cleavage, black colour, pearly lustre
-ii. Three sets of cleavage, pink tinge, vitreous lustre
-iii. Botroidal form, cherry red streak, metallic lustre
-iv. Fibrery form, silky lustre, greyish green colour
-yv. Variable hardness, ink blue colour
-
-2. a. Describe folds on the basis of axial traces and support with well labelled diagrams. 10
-b. Explain the various Groundwater zones. What is an aquifer? 10
-3. a. Write a short note on electrical method of geophysical investigations. 10
-b. Give an account of the formation of the Deccan Volcanics and the various formations of 10
-the same.
-pe 4. a. How does an ox bow lake form? What are the different ways in which running water 12
-can cause weathering and erosion?
-b. Describe the different types of unconformities. 08
-
-4f,—
---- page 2 ---
-What are the typical kinds of measures taken to prevent landslides? 10
-
-What are the geological considerations that one has to take while constructing gravity 10
-dams?
-Write short notes on any four of the following: 4x5
-
-i. Convergent tectonic boundaries
-ii. Cleavage
-
-iii. Moh’s scale of hardness
-
-iv. RQD
-
-v. Metasomatism
-
-What are the textures of typical sedimentary rocks? 10
-Describe the various intrusive igneous structures that are found in nature. 10
-
-x
-
-Pf2—
 ````
 
 ## 2013-14 · Re-Exam · Sem 3 · paper a4e04d4cefe5
@@ -2959,218 +3019,4 @@ b) Define aquifer, what is difference between free groundwater and artesian wate
 c) Discuss the General Methods of Geological Investigations. 05
 d) Describe the geological consideration for the construction of dams 05
 e) Explain various causes of landslides. 05
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 70b5ec21ac12
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/ENGINEERING GEOLOGY/ENGINEERING GEOLOGY BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 09/05/2015
-- Text: ocr (2 pages), mean OCR confidence 89.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
->: MBA Tech (CIVIL) Year: Il Semester: VI
-2013-14
-
-Academic Year: 2014-2015 ‘ Satta
-paling”?
-Subject: Engineering Geology -
-Marks; 7; 4008 9M ‘
-Date: 09/05/2015 Time: || \! 12. OOeperTRB 5, m
-
-Durations: 3 (hrs) _g#
-
-Re-Examination — a
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q1. Answer Any Four
-
-A Discuss the effect of deposition of sediments by Groundwater (5)
-B Illustrate any five physical Properties of Corundum (5)
-C_ Discuss briefly the effect of Metasotism 6)
-
-D_ Explain the Biostratigraphic Control Methods for establishing Correlation of Rocks (5)
-E_ Discuss briefly various Factors controlling water bearing capacity of Rocks (5)
-
-Q2. A_ Discuss with neat sketch various components of Folds and explain briefly the (10)
-causes of Folding
-
-B Illustrate and discuss briefly with neat sketch the features resulting due erosion by (10)
-River and Streams .
-
-Q3. A Explain briefly various Physical Properties of Minerals (10)
-B_ Explain in detail Amphibole group of Minerals (10)
-Q4. A Explain with neat sketch classification of Igneous Rocks on the basis of Mineral (10)
-Composition
-B_ Discuss the various types of Chemically Formed Sedimentary Rocks ; (10)
-L
---- page 2 ---
-Q5.
-
-Q6.
-
-Q7.
-
-A
-
-A
-
-A
-
-Discuss in detail various features of Archean Group
-
-Discuss in detail various features of Vindhyan System
-
-Discuss the various types of Groundwater observed in Zone of Saturation
-Discuss in detail Geophysical Investigation For a Dam Site
-
-Explain with neat sketch various Structure of Metamorphic Rocks
-
-Discuss briefly Classification of Unconformity
-
-———a i
-
-(10)
-(10)
-(10)
-(10)
-
-(10)
-(10)
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper ff7969cf337f
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/VI SEMESTER/ENGINEERING GEOLOGY/Engineering Geology Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01/07/2015
-- Text: ocr (2 pages), mean OCR confidence 94.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL) Year: III Semester: VI
-
-Academic Year: 2014-15
-Batch: 2013-14
-
-Subject : Engineering Geology Marks: 100
-
-Time : 2.00pm j
-Durations: 3 (hrs'
-Re-Examination
-
-Date : 01/07/2015
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their u
-
-NB:
-
-1) Question No. 1 (One) is compulsory.
-
-2) Out of remaining questions, attempt any 4 (Four) questions.
-
-3) In all 5 (Five) questions to be attempted.
-
-4) All questions carry equal marks. Rigures in brackets on the right hand side indicate full marks.
-5) Answer to each new question to be started on a fresh page.
-
-6) Draw diagrams wherever necessary.
-
-Q.1 20
-a) Name the following minerals:
-i. Two sets of cleavage, flesh pink in colour, shows graphic texture with quartz
-ii. Cherry red streak, greyish colour interbanded with red layers
-ili. Three sets of cleavage, clear white, CaCOs in composition 1x5
-iv. Dodecahedral crystal, maroon in colour
-v. Silky lustre, white, hardness 1
-b) Explain in one sentence with diagram:
-
-i. Mantle
-ii. Isoclinal Fold
-iii. Normal Fault 2ES
-iv. Dune
-v. Unconformity
-c) State true or false: 1&5
-
-i. The Nepal 2015 earthquake was due to shifting tectonic plates
-ii. Poikilitic texture is a typical metamorphic texture
-
-ili. Hanging Valleys are produced by glacial erosion
-
-iv. Recumbent folds have vertical axial traces
-
-v. Deccan Plateau is essentially made up of volcanic rocks
-
-Q.2
-
-a) Describe how Oil cartel Prices and new discoveries of oil wells can affect the economy 10
-
-t/a
---- page 2 ---
-of a country.
-
-b) What are the different ways in which Glaciers and Wind erode the surface of the earth? 10
-Give the answer in a tabular format and with diagrams.
-
-Q.3
-
-a) Explain the term “Stratigraphy”. Comment upon principles of stratigraphy. 10
-
-b) Write a note on Petroleum formations in India, their origin and Occurrence. 10
-Q.4
-
-a) What kind of precautions can be taken against groundwater leakage while constructing 10
-
-tunnels?
-
-b) Describe any one classification of Sedimentary rocks. 10
-Q.5
-
-a) Describe the different types of unconformities. 10
-
-b) Describe the different types of Thermal Metamorphism. 10
-
-.
-
-Give a description of different kinds of folds.
-Explain the seismic method of sub surface Geophysical Investigations.
-
-Write short notes on any 5 (five) of the following:
-Mushroom Rock
-
-Schistocity
-
-Cone of Depression
-
-Mineral Streak
-
-Forces acting on gravity dams
-
-Earthquake Belts in India
-
-Importance of Geology in Civil Engineering
 ````

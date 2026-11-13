@@ -1105,6 +1105,274 @@ Page 2 of 2
 [06]
 ````
 
+## 2014-15 · Final-Exam · Sem 6 · paper 8eff7ec20851
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/HUMAN COMPUTER INTERFACE/HUMAN COMPUTER INTERFACE B TECH (COMP), FINAL EXAM.pdf`
+- Printed on paper: exam date: 14/05/2015
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: III Semester: VI
+
+Academic Year: 2014-2015
+
+Subject: Human Computer Interface a
+, Marks: /@// 60° 57M
+
+Date: 14/05/2015 Time: ‘| 3 i (eat)
+
+Durations ° ae
+
+Final-Examination <r OE
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. I is compulsory.
+
+2) Out of remaining 6 questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+Q.1 a) List the categories of usability principle? Choose two of them, and define [06]
+three principles that are included within it.
+
+b) Explain human memory models in detail. [06]
+Q.2 a) What is reasoning? Explain with example any two reasoning types. [06]
+b) Design online system for generation of transcript (which is summary of [06]
+academic record) for student who has completed the course using Norman’s
+principles.
+
+Q.3 a) Describe briefly two different interaction styles used to accommodate the [06]
+dialog between user and computer. Specify advantage and disadvantage of
+each interaction style.
+
+b) Explain the Speech Act Theory in conversational analysis with an example. [06]
+
+4/2
+--- page 2 ---
+Q4
+
+Q.5
+
+Q.6
+
+Q.7
+
+a) What various input and output devices for interaction. How each device has
+different attributes that support certain forms of interaction?
+
+b) Explain the importance of user interface design. Discuss designing
+principles which helps in interface designing.
+
+a) Describe two techniques for evaluation, highlighting their key points and
+the difference between them.
+
+b) What is groupware? How effective is the time/space matrix as a tool for
+classifying and analyzing groupware?
+
+a) You are enrolled in a university for engineering course. There is a learning
+management system facility for students to upload or download the documents.
+Write Persona and Scenario for the student to access this facility.
+
+b) Explain various approaches for face to face communication.
+
+Write short notes on any TWO (6 Marks Each)
+a) CUSTOM Methodology
+b) Speech recognition, digitization and generation
+
+c) Static Vs Dynamic Web Content
+
+[06]
+
+[06]
+
+[06]
+
+[06]
+
+[06]
+
+[06]
+
+[12]
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper c95e35faa8c1
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/HUMAN COMPUTER INTERFACE/HUMAN COMPUTER INTERFACE B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 14/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: III Semester: VI
+Batch: 2013-14
+
+Academic Year: 2014-2015 .
+Subject: Human Computer Interface “ LY
+
+Marks?
+
+= 160 > ,
+Date: 14/05/2015 Time) yy * 10.00° antto},PQ pm
+
+Durations: 3 (hrs)
+
+Re-Examination : wg tt A
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+1) Question No. 1 is compulsory.
+2) Out of remaining 6 questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+Q.1 (a) Discuss various interaction styles. Explain the elements of WIMP interface [10]
+(b) Explain various human memory models in details [10]
+Q2 (a) Define Ergonomics in HCI. Discuss some issues addressed by human factors that [10]
+influence user interface design.
+(b) Explain Norman’s execution — evaluation cycle. Design an Online Air Ticket [10]
+Booking website interface using Norman’s principles.
+Q3 (a) You are enrolled in MPSTME for engineering course. There is a blackboard (e- [10]
+learning management system) facility for students. Write Persona and Scenario for the
+student to access blackboard facility.
+«
+(b) Discuss the local and global navigation design interfaces. [10]
+Q4 (a) Explain cognitive evaluation method with an example. Py [10]
+(b) Explain key stroke level model and three states model with examples. [10]
+
+4 jo.
+
+4
+--- page 2 ---
+Q5
+
+Q.6
+
+Q7
+
+(a) Explain various diagrammatic notations used for dialog description.
+
+(b) Define group ware systems. Identify three types of shared applications for
+groupware communication.
+
+(a) Define Knowledge based analysis approach for task decomposition with a suitable
+example.
+
+(b) Explain various input, output and pointing devices for interaction with example.
+
+Write short answers of any four (5 marks each):
+1) Static web content
+2) GOMS in task analysis
+3) Principles of usability
+4) CUSTOM methodology
+5) Interaction design process
+
+2h
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+[20]
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper 274f95f99b05
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/HUMAN COMPUTER INTERFACE/HUMAN COMPUTER INTERFACE B TECH (COMP), BATCH 2013-14 RE EXAM_274f95f99b.pdf`
+- Printed on paper: duration hours: 3; exam date: 03/07/2015
+- Text: ocr (2 pages), mean OCR confidence 93.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: III Semester: VI
+Batch: 2013-14 fs
+Academic Year: 2014-2015. ~. {
+Subject: Human Computer Interface LO lag,
+Marks: ‘“<700"s
+Date: 03/07/2015 Time: . 10,00 am to 1.00 pm
+
+Durations: . 3 (hrs)
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use. :
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining 6 questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks
+
+Q.1 (a) What are mental models and why are they important in interface design? [10]
+(b) Explain various input and output devices for interaction. How each device has different
+
+attributes that support certain forms of interaction? [10]
+
+Q.2 (a) Define Ergonomics in HCI. Discuss some issues addressed by human factors that influence user
+
+interface design [10]
+(b) Explain various approaches for face to face communication [10]
+Q.3 (a) Apply the schneiderman’s 8 golden rules while designing any website interface [10]
+(b) Discuss the different activities supported by groupware [10]
+Q.4 (a) Compare static web content and dynamic web content j [10]
+(b) What are pointing devices? Discuss various tasks of pointing devices [10]
+
+aly
+--- page 2 ---
+Q.5 (a) Explain principles of usability in terms of interface designing [10]
+(b) Explain Goals and Task hierarchies for cognitive model. Create GOMS description of the task of
+
+photocopying an article from a journal [10]
+Q.6 (a) Explain persona and scenario with an example [10]
+
+(b) How many types of stakeholders available in capturing requirements. Classify the stake
+holders of social media websites [10]
+[5*4=20]
+
+Q.7 Explain the following (any four)
+1. Virtual Reality
+2. Dialog design notation
+3. WIMP Interface
+4. Screen Design and Layout
+5. Cognitive Model
+
+6. CUSTOM Methodology
+````
+
 ## 2014-15 · Re-Exam · Sem 6 · paper a079fdaa328d
 
 - Departments: Computer Engineering
@@ -1308,168 +1576,6 @@ ao
 ~AN
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper c95e35faa8c1
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/HUMAN COMPUTER INTERFACE/HUMAN COMPUTER INTERFACE B TECH (COMP), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 14/05/2015
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: III Semester: VI
-Batch: 2013-14
-
-Academic Year: 2014-2015 .
-Subject: Human Computer Interface “ LY
-
-Marks?
-
-= 160 > ,
-Date: 14/05/2015 Time) yy * 10.00° antto},PQ pm
-
-Durations: 3 (hrs)
-
-Re-Examination : wg tt A
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-1) Question No. 1 is compulsory.
-2) Out of remaining 6 questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-Q.1 (a) Discuss various interaction styles. Explain the elements of WIMP interface [10]
-(b) Explain various human memory models in details [10]
-Q2 (a) Define Ergonomics in HCI. Discuss some issues addressed by human factors that [10]
-influence user interface design.
-(b) Explain Norman’s execution — evaluation cycle. Design an Online Air Ticket [10]
-Booking website interface using Norman’s principles.
-Q3 (a) You are enrolled in MPSTME for engineering course. There is a blackboard (e- [10]
-learning management system) facility for students. Write Persona and Scenario for the
-student to access blackboard facility.
-«
-(b) Discuss the local and global navigation design interfaces. [10]
-Q4 (a) Explain cognitive evaluation method with an example. Py [10]
-(b) Explain key stroke level model and three states model with examples. [10]
-
-4 jo.
-
-4
---- page 2 ---
-Q5
-
-Q.6
-
-Q7
-
-(a) Explain various diagrammatic notations used for dialog description.
-
-(b) Define group ware systems. Identify three types of shared applications for
-groupware communication.
-
-(a) Define Knowledge based analysis approach for task decomposition with a suitable
-example.
-
-(b) Explain various input, output and pointing devices for interaction with example.
-
-Write short answers of any four (5 marks each):
-1) Static web content
-2) GOMS in task analysis
-3) Principles of usability
-4) CUSTOM methodology
-5) Interaction design process
-
-2h
-
-[10]
-
-[10]
-
-[10]
-
-[10]
-
-[20]
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper 274f95f99b05
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/HUMAN COMPUTER INTERFACE/HUMAN COMPUTER INTERFACE B TECH (COMP), BATCH 2013-14 RE EXAM_274f95f99b.pdf`
-- Printed on paper: duration hours: 3; exam date: 03/07/2015
-- Text: ocr (2 pages), mean OCR confidence 93.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: III Semester: VI
-Batch: 2013-14 fs
-Academic Year: 2014-2015. ~. {
-Subject: Human Computer Interface LO lag,
-Marks: ‘“<700"s
-Date: 03/07/2015 Time: . 10,00 am to 1.00 pm
-
-Durations: . 3 (hrs)
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use. :
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining 6 questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks
-
-Q.1 (a) What are mental models and why are they important in interface design? [10]
-(b) Explain various input and output devices for interaction. How each device has different
-
-attributes that support certain forms of interaction? [10]
-
-Q.2 (a) Define Ergonomics in HCI. Discuss some issues addressed by human factors that influence user
-
-interface design [10]
-(b) Explain various approaches for face to face communication [10]
-Q.3 (a) Apply the schneiderman’s 8 golden rules while designing any website interface [10]
-(b) Discuss the different activities supported by groupware [10]
-Q.4 (a) Compare static web content and dynamic web content j [10]
-(b) What are pointing devices? Discuss various tasks of pointing devices [10]
-
-aly
---- page 2 ---
-Q.5 (a) Explain principles of usability in terms of interface designing [10]
-(b) Explain Goals and Task hierarchies for cognitive model. Create GOMS description of the task of
-
-photocopying an article from a journal [10]
-Q.6 (a) Explain persona and scenario with an example [10]
-
-(b) How many types of stakeholders available in capturing requirements. Classify the stake
-holders of social media websites [10]
-[5*4=20]
-
-Q.7 Explain the following (any four)
-1. Virtual Reality
-2. Dialog design notation
-3. WIMP Interface
-4. Screen Design and Layout
-5. Cognitive Model
-
-6. CUSTOM Methodology
-````
-
 ## 2013-14 · Re-Exam · Sem 6 · paper 20ae3703fdef
 
 - Departments: Computer Engineering
@@ -1569,110 +1675,4 @@ Write short notes on any four (5 marks each):
 {10}
 
 [20]
-````
-
-## Year not stated · Final-Exam · Sem 6 · paper 8eff7ec20851
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/VI SEMESTER/HUMAN COMPUTER INTERFACE/HUMAN COMPUTER INTERFACE B TECH (COMP), FINAL EXAM.pdf`
-- Printed on paper: exam date: 14/05/2015
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: III Semester: VI
-
-Academic Year: 2014-2015
-
-Subject: Human Computer Interface a
-, Marks: /@// 60° 57M
-
-Date: 14/05/2015 Time: ‘| 3 i (eat)
-
-Durations ° ae
-
-Final-Examination <r OE
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. I is compulsory.
-
-2) Out of remaining 6 questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1 a) List the categories of usability principle? Choose two of them, and define [06]
-three principles that are included within it.
-
-b) Explain human memory models in detail. [06]
-Q.2 a) What is reasoning? Explain with example any two reasoning types. [06]
-b) Design online system for generation of transcript (which is summary of [06]
-academic record) for student who has completed the course using Norman’s
-principles.
-
-Q.3 a) Describe briefly two different interaction styles used to accommodate the [06]
-dialog between user and computer. Specify advantage and disadvantage of
-each interaction style.
-
-b) Explain the Speech Act Theory in conversational analysis with an example. [06]
-
-4/2
---- page 2 ---
-Q4
-
-Q.5
-
-Q.6
-
-Q.7
-
-a) What various input and output devices for interaction. How each device has
-different attributes that support certain forms of interaction?
-
-b) Explain the importance of user interface design. Discuss designing
-principles which helps in interface designing.
-
-a) Describe two techniques for evaluation, highlighting their key points and
-the difference between them.
-
-b) What is groupware? How effective is the time/space matrix as a tool for
-classifying and analyzing groupware?
-
-a) You are enrolled in a university for engineering course. There is a learning
-management system facility for students to upload or download the documents.
-Write Persona and Scenario for the student to access this facility.
-
-b) Explain various approaches for face to face communication.
-
-Write short notes on any TWO (6 Marks Each)
-a) CUSTOM Methodology
-b) Speech recognition, digitization and generation
-
-c) Static Vs Dynamic Web Content
-
-[06]
-
-[06]
-
-[06]
-
-[06]
-
-[06]
-
-[06]
-
-[12]
 ````
